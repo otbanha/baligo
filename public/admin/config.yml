@@ -29,3 +29,11 @@ collections:
         required: false
       - { label: 原始網址, name: originalUrl, widget: string, required: false }
       - { label: 內文, name: body, widget: markdown }
+  - name: blocks
+    label: 內容區塊
+    folder: src/content/blocks
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: 區塊名稱, name: title, widget: string }
+      - { label: 內容, name: body, widget: markdown }

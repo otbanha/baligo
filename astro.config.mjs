@@ -1,11 +1,12 @@
-// @ts-check
-
-import mdx from '@astrojs/mdx';
-import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
+import { remarkBlocks } from './src/remark-blocks.mjs';
 
-// https://astro.build/config
 export default defineConfig({
-	site: 'https://example.com',
-	integrations: [mdx(), sitemap()],
+  site: 'https://你的網域.com',
+  markdown: {
+    remarkPlugins: [remarkBlocks],
+  },
+  build: {
+    format: 'directory'
+  }
 });

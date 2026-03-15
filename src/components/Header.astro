@@ -1,22 +1,42 @@
 ---
 import { SITE_TITLE } from '../consts';
-import HeaderLink from './HeaderLink.astro';
 ---
 
 <header>
   <nav>
     <div class="brand">
       <a href="/blog">
-        <span class="logo-icon">🌴</span>
+        <span class="logo-icon">🌊🌴</span>
         <span class="logo-text">{SITE_TITLE}</span>
       </a>
     </div>
-    <div class="nav-links">
-      <HeaderLink href="/blog">文章</HeaderLink>
-      <HeaderLink href="/about">關於</HeaderLink>
-    </div>
+
+    <div class="search-right">
+  <div class="search-wrapper">
+    <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <circle cx="11" cy="11" r="8"/>
+      <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+    </svg>
+    <div id="header-search"></div>
+  </div>
+</div>
   </nav>
 </header>
+
+<link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+<script is:inline src="/pagefind/pagefind-ui.js"></script>
+<script is:inline>
+  window.addEventListener('DOMContentLoaded', () => {
+    if (window.PagefindUI) {
+      new window.PagefindUI({
+        element: '#header-search',
+        showSubResults: false,
+        placeholder: '🔍 搜尋峇里島攻略...',
+        showImages: false,
+      });
+    }
+  });
+</script>
 
 <style>
 header {
@@ -29,13 +49,14 @@ header {
 }
 
 nav {
-  max-width: 1100px;
+  max-width: 1400px;
   margin: 0 auto;
   padding: 0 1.5em;
   display: flex;
   align-items: center;
   justify-content: space-between;
   height: 64px;
+  gap: 1.5em;
 }
 
 .brand a {
@@ -44,49 +65,90 @@ nav {
   gap: 0.5em;
   text-decoration: none;
   color: var(--white);
+  white-space: nowrap;
 }
 
-.logo-icon {
-  font-size: 1.4em;
-}
+.logo-icon { font-size: 1.4em; }
 
 .logo-text {
   font-family: 'Playfair Display', serif;
-  font-size: 1.2em;
+  font-size: 1.5em;
   font-weight: 700;
   color: var(--gold-light);
   letter-spacing: 0.02em;
 }
 
-.nav-links {
+.search-right {
+  width: 360px;
+  flex-shrink: 0;
+}
+
+/* Pagefind 樣式覆蓋 */
+.search-right :global(.pagefind-ui__search-input) {
+  background: rgba(255,255,255,0.12) !important;
+  border: 1px solid rgba(197,160,89,0.4) !important;
+  color: white !important;
+  border-radius: 8px !important;
+  font-size: 0.88em !important;
+  padding: 0.5em 1em !important;
+  width: 100% !important;
+}
+
+.search-right :global(.pagefind-ui__search-input::placeholder) {
+  color: rgba(255,255,255,0.5) !important;
+}
+
+.search-right :global(.pagefind-ui__search-input:focus) {
+  outline: none !important;
+  border-color: var(--gold) !important;
+  background: rgba(255,255,255,0.18) !important;
+}
+
+.search-right :global(.pagefind-ui__search-clear) {
+  color: rgba(255,255,255,0.6) !important;
+}
+
+.search-right :global(.pagefind-ui__results-container) {
+  position: absolute;
+  top: 64px;
+  right: 1.5em;
+  width: 400px;
+  max-width: 90vw;
+  background: var(--white);
+  border-radius: 0 0 12px 12px;
+  box-shadow: 0 8px 30px rgba(0,0,0,0.2);
+  max-height: 60vh;
+  overflow-y: auto;
+  z-index: 200;
+}
+
+.search-right :global(.pagefind-ui__result) {
+  padding: 0.8em 1em;
+  border-bottom: 1px solid rgba(197,160,89,0.15);
+}
+
+.search-right :global(.pagefind-ui__result-title) {
+  color: var(--ocean) !important;
+  font-size: 0.9em;
+}
+
+.search-wrapper {
   display: flex;
   align-items: center;
-  gap: 0.2em;
+  gap: 0.6em;
 }
 
-.nav-links :global(a) {
-  color: rgba(255,255,255,0.8);
-  text-decoration: none;
-  padding: 0.4em 1em;
-  border-radius: 6px;
-  font-size: 0.95em;
-  font-weight: 500;
-  letter-spacing: 0.03em;
-  transition: all 0.2s;
-}
-
-.nav-links :global(a:hover),
-.nav-links :global(a.active) {
+.search-icon {
+  width: 20px;
+  height: 20px;
   color: var(--gold-light);
-  background: rgba(201, 168, 76, 0.15);
+  flex-shrink: 0;
+  opacity: 0.8;
 }
 
 @media (max-width: 600px) {
-  .logo-text {
-    font-size: 1em;
-  }
-  nav {
-    padding: 0 1em;
-  }
+  .logo-text { font-size: 1em; }
+  .search-right { width: 200px; }
+  nav { padding: 0 1em; }
 }
 </style>

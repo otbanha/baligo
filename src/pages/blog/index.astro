@@ -4,7 +4,6 @@ import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection } from 'astro:content';
-import FormattedDate from '../../components/FormattedDate.astro';
 import featuredData from '../../featured.json';
 
 const allPosts = (await getCollection('blog'))
@@ -15,14 +14,38 @@ const allPosts = (await getCollection('blog'))
   }))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
-// 支援多分類陣列
-const categories = [...new Set(allPosts.flatMap(p =>
-  Array.isArray(p.data.category) ? p.data.category : [p.data.category]
+const getCategories = (cat) => {
+  if (!cat) return [];
+  if (Array.isArray(cat)) return cat;
+  if (typeof cat === 'string') return [cat];
+  return [];
+};
+
+const categoryOrder = [
+  '新手指南',
+  '住宿推薦',
+  '峇里島分區攻略',
+  '簽證通關',
+  '叫車包車',
+  '家庭親子',
+  '遊記分享',
+  '美食景點活動',
+  '峇里島祕技',
+  '新聞存檔',
+];
+
+const allCategories = [...new Set(allPosts.flatMap(p =>
+  getCategories(p.data.category)
 ).filter(Boolean))];
+
+const categories = [
+  ...categoryOrder.filter(c => allCategories.includes(c)),
+  ...allCategories.filter(c => !categoryOrder.includes(c)),
+];
 
 const categoryCounts = categories.reduce((acc, cat) => {
   acc[cat] = allPosts.filter(p => {
-    const cats = Array.isArray(p.data.category) ? p.data.category : [p.data.category];
+    const cats = getCategories(p.data.category);
     return cats.includes(cat);
   }).length;
   return acc;
@@ -32,8 +55,29 @@ const allPostsData = allPosts.map(p => ({
   id: p.id,
   title: p.data.title,
   heroImage: p.data.heroImage || '',
-  category: p.data.category || [],
+  category: getCategories(p.data.category),
 }));
+
+// 最新5則住宿推薦
+const accommodations = allPosts
+  .filter(p => getCategories(p.data.category).includes('住宿推薦'))
+  .slice(0, 5)
+  .map(p => ({
+    id: p.id,
+    title: p.data.title,
+    heroImage: p.data.heroImage || '',
+    pubDate: p.data.pubDate.toISOString().split('T')[0],
+  }));
+
+// 最新10則新聞存檔
+const baliNews = allPosts
+  .filter(p => getCategories(p.data.category).includes('新聞存檔'))
+  .slice(0, 10)
+  .map(p => ({
+    id: p.id,
+    title: p.data.title,
+    pubDate: p.data.pubDate.toISOString().split('T')[0],
+  }));
 
 const youtubeVideos = [
   '0fqEvAzAy9A',
@@ -58,17 +102,14 @@ const socialLinks = [
 <html lang="zh-TW">
 <head>
   <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
 </head>
 <body>
   <Header />
 
   <div class="layout">
 
+    <!-- 左側側欄 -->
     <aside class="sidebar">
-      <div class="sidebar-section">
-        <div id="search"></div>
-      </div>
       <div class="sidebar-section">
         <h3 class="sidebar-title">📂 文章分類</h3>
         <ul class="category-list">
@@ -90,12 +131,53 @@ const socialLinks = [
       </div>
     </aside>
 
+    <!-- 右側主內容 -->
     <main>
-      <div class="page-header">
-        <h1 id="current-category">峇里島旅遊攻略</h1>
-        <p id="post-count">自由行達人指南 · {allPosts.length} 篇文章</p>
+
+      <!-- Accommodations + Bali News 兩欄 -->
+      <div class="top-widgets" id="top-widgets">
+
+        <!-- 左欄：Accommodations -->
+        <div class="widget-box">
+          <h2 class="widget-title">🏨 Accommodations</h2>
+          {accommodations.length > 0 ? (
+            <div class="accom-display" id="accom-display">
+              <a href="#" id="accom-link" class="accom-card">
+                <div class="accom-image">
+                  <img id="accom-img" src={accommodations[0].heroImage} alt="" loading="lazy" />
+                </div>
+                <div class="accom-body">
+                  <p id="accom-title">{accommodations[0].title}</p>
+                </div>
+              </a>
+            </div>
+          ) : (
+            <div class="widget-empty">即將推出</div>
+          )}
+        </div>
+
+        <!-- 右欄：Bali News -->
+        <div class="widget-box">
+          <h2 class="widget-title">📰 Bali News</h2>
+          {baliNews.length > 0 ? (
+            <ul class="news-list">
+              {baliNews.map(n => (
+                <li class="news-item">
+                  <a href={`/blog/${n.id}/`}>
+                    <span class="news-date">{n.pubDate}</span>
+                    <span class="news-title">{n.title}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          ) : (
+            <div class="widget-empty">即將推出</div>
+          )}
+        </div>
+
       </div>
 
+      <!-- YouTube 亂數影片 -->
       <div class="youtube-section">
         <div class="youtube-player">
           <iframe
@@ -111,6 +193,7 @@ const socialLinks = [
         </div>
       </div>
 
+      <!-- 社群媒體 -->
       <div class="social-section">
         {socialLinks.map(s => (
           <a href={s.url} target="_blank" rel="noopener" class={`social-btn ${s.type}`}>
@@ -131,6 +214,7 @@ const socialLinks = [
         ))}
       </div>
 
+      <!-- 編輯精選區塊 -->
       <div id="featured-section" style="display:none">
         <h2 class="section-title">⭐ 編輯精選</h2>
         <div class="featured-grid">
@@ -148,9 +232,10 @@ const socialLinks = [
         </div>
       </div>
 
+      <!-- 文章卡片 -->
       <div class="grid" id="posts-grid">
         {allPosts.map((post) => (
-          <a href={`/blog/${post.id}/`} class="card" data-category={JSON.stringify(post.data.category || [])}>
+          <a href={`/blog/${post.id}/`} class="card" data-category={JSON.stringify(getCategories(post.data.category))}>
             <div class="card-image">
               {post.data.heroImage
                 ? <img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
@@ -170,26 +255,31 @@ const socialLinks = [
         ))}
       </div>
 
+      <!-- 分頁 -->
       <div id="pagination" class="pagination"></div>
+
     </main>
   </div>
 
   <Footer />
 </body>
 
-<script is:inline src="/pagefind/pagefind-ui.js"></script>
-<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos }}>
+<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations }}>
   window.addEventListener('DOMContentLoaded', () => {
 
+    // 初始化影片
     const randomVideo = youtubeVideos[Math.floor(Math.random() * youtubeVideos.length)];
     document.getElementById('yt-iframe').src = `https://www.youtube.com/embed/${randomVideo}?rel=0`;
 
-    if (window.PagefindUI) {
-      new window.PagefindUI({
-        element: '#search',
-        showSubResults: false,
-        placeholder: '搜尋文章...',
-      });
+    // 亂數顯示一則住宿
+    if (accommodations.length > 0) {
+      const random = accommodations[Math.floor(Math.random() * accommodations.length)];
+      const link = document.getElementById('accom-link');
+      const img = document.getElementById('accom-img');
+      const title = document.getElementById('accom-title');
+      if (link) link.href = `/blog/${random.id}/`;
+      if (img) { img.src = random.heroImage; img.alt = random.title; }
+      if (title) title.textContent = random.title;
     }
 
     const POSTS_PER_PAGE = 18;
@@ -283,9 +373,10 @@ const socialLinks = [
       });
 
       cards.forEach(card => card.style.display = 'none');
-      titleEl.textContent = cat === 'all' ? '峇里島旅遊攻略' : cat;
-      countEl.textContent = `共 ${filteredCards.length} 篇文章`;
 
+      // 隱藏/顯示 top-widgets
+      const topWidgets = document.getElementById('top-widgets');
+      if (topWidgets) topWidgets.style.display = cat === 'all' ? 'grid' : 'none';
       updateFeatured(cat);
       renderPage();
 
@@ -396,24 +487,117 @@ const socialLinks = [
 
 main { padding: 2em 2em 4em; }
 
-.page-header {
-  padding-bottom: 1.5em;
-  border-bottom: 1px solid rgba(197, 160, 89, 0.25);
-  margin-bottom: 2em;
+/* 兩欄 widgets */
+.top-widgets {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1.2em;
+  margin-bottom: 1.5em;
 }
 
-.page-header h1 {
-  font-size: 2em;
+.widget-box {
+  background: var(--white);
+  border-radius: 12px;
+  padding: 1.2em;
+  box-shadow: 0 2px 12px rgba(10,22,40,0.07);
+  border: 1px solid rgba(197,160,89,0.15);
+}
+
+.widget-title {
+  font-size: 0.95em;
+  font-weight: 700;
   color: var(--ocean);
-  margin-bottom: 0.2em;
+  margin: 0 0 1em;
+  padding-bottom: 0.5em;
+  border-bottom: 2px solid var(--gold);
 }
 
-.page-header p {
+.widget-empty {
   color: var(--text-light);
-  font-size: 0.9em;
-  margin: 0;
+  font-size: 0.88em;
+  text-align: center;
+  padding: 2em 0;
 }
 
+/* Accommodations */
+.accom-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: transform 0.2s;
+}
+
+.accom-card:hover { transform: translateY(-2px); }
+
+.accom-image {
+  aspect-ratio: 16/9;
+  overflow: hidden;
+  border-radius: 8px;
+  margin-bottom: 0.7em;
+  background: var(--ocean-mid);
+}
+
+.accom-image img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  border-radius: 8px;
+}
+
+.accom-body p {
+  font-size: 0.88em;
+  font-weight: 600;
+  color: var(--ocean);
+  margin: 0;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* Bali News */
+.news-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.news-item {
+  border-bottom: 1px solid rgba(197,160,89,0.1);
+  padding: 0.5em 0;
+}
+
+.news-item:last-child { border-bottom: none; }
+
+.news-item a {
+  display: flex;
+  flex-direction: column;
+  gap: 0.2em;
+  text-decoration: none;
+  color: inherit;
+  transition: color 0.15s;
+}
+
+.news-item a:hover .news-title { color: var(--gold); }
+
+.news-date {
+  font-size: 0.72em;
+  color: var(--text-light);
+}
+
+.news-title {
+  font-size: 0.85em;
+  color: var(--ocean);
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* YouTube */
 .youtube-section { margin-bottom: 1.2em; }
 
 .youtube-player {
@@ -432,6 +616,7 @@ main { padding: 2em 2em 4em; }
   width: 100%; height: 100%;
 }
 
+/* 社群媒體 */
 .social-section {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -453,22 +638,14 @@ main { padding: 2em 2em 4em; }
   transition: opacity 0.2s, transform 0.2s;
 }
 
-.social-btn:hover {
-  opacity: 0.85;
-  transform: translateY(-2px);
-}
-
-.social-btn svg {
-  width: 16px;
-  height: 16px;
-  flex-shrink: 0;
-}
-
+.social-btn:hover { opacity: 0.85; transform: translateY(-2px); }
+.social-btn svg { width: 16px; height: 16px; flex-shrink: 0; }
 .social-btn.facebook { background: #1877F2; }
 .social-btn.instagram { background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); }
 .social-btn.youtube { background: #FF0000; }
 .social-btn.threads { background: #000000; }
 
+/* 編輯精選 */
 .section-title {
   font-size: 1.1em;
   color: var(--ocean);
@@ -503,16 +680,9 @@ main { padding: 2em 2em 4em; }
   background: var(--ocean);
 }
 
-.featured-image img {
-  width: 100%; height: 100%;
-  object-fit: cover;
-  border-radius: 0;
-}
+.featured-image img { width: 100%; height: 100%; object-fit: cover; border-radius: 0; }
 
-.featured-body {
-  padding: 0.8em 1em;
-  background: var(--white);
-}
+.featured-body { padding: 0.8em 1em; background: var(--white); }
 
 .featured-badge {
   font-size: 0.7em;
@@ -536,6 +706,7 @@ main { padding: 2em 2em 4em; }
   overflow: hidden;
 }
 
+/* 文章卡片 */
 .grid {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -554,10 +725,7 @@ main { padding: 2em 2em 4em; }
   flex-direction: column;
 }
 
-.card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 32px rgba(10,22,40,0.15);
-}
+.card:hover { transform: translateY(-5px); box-shadow: 0 8px 32px rgba(10,22,40,0.15); }
 
 .card-image {
   position: relative;
@@ -626,6 +794,7 @@ main { padding: 2em 2em 4em; }
   overflow: hidden;
 }
 
+/* 分頁 */
 .pagination {
   display: flex;
   align-items: center;
@@ -651,10 +820,7 @@ main { padding: 2em 2em 4em; }
 .page-btn:hover:not(:disabled) { background: var(--ocean-light); }
 .page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 
-.page-info {
-  font-size: 0.88em;
-  color: var(--text-light);
-}
+.page-info { font-size: 0.88em; color: var(--text-light); }
 
 @media (max-width: 1100px) {
   .grid { grid-template-columns: repeat(2, 1fr); }
@@ -664,6 +830,7 @@ main { padding: 2em 2em 4em; }
 @media (max-width: 900px) {
   .layout { grid-template-columns: 1fr; }
   .sidebar { position: static; height: auto; border-right: none; border-bottom: 1px solid rgba(197,160,89,0.2); }
+  .top-widgets { grid-template-columns: 1fr; }
 }
 
 @media (max-width: 600px) {
