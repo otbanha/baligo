@@ -1,114 +1,674 @@
 ---
-import { Image } from 'astro:assets';
-import { getCollection } from 'astro:content';
 import BaseHead from '../../components/BaseHead.astro';
-import Footer from '../../components/Footer.astro';
-import FormattedDate from '../../components/FormattedDate.astro';
 import Header from '../../components/Header.astro';
-import { SITE_DESCRIPTION, SITE_TITLE } from '../../consts';
+import Footer from '../../components/Footer.astro';
+import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
+import { getCollection } from 'astro:content';
+import FormattedDate from '../../components/FormattedDate.astro';
+import featuredData from '../../featured.json';
 
-const posts = (await getCollection('blog')).sort(
-	(a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf(),
-);
+const allPosts = (await getCollection('blog'))
+  .filter(p => p.data.pubDate)
+  .map(p => ({
+    ...p,
+    data: { ...p.data, pubDate: new Date(p.data.pubDate) }
+  }))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+// 支援多分類陣列
+const categories = [...new Set(allPosts.flatMap(p =>
+  Array.isArray(p.data.category) ? p.data.category : [p.data.category]
+).filter(Boolean))];
+
+const categoryCounts = categories.reduce((acc, cat) => {
+  acc[cat] = allPosts.filter(p => {
+    const cats = Array.isArray(p.data.category) ? p.data.category : [p.data.category];
+    return cats.includes(cat);
+  }).length;
+  return acc;
+}, {});
+
+const allPostsData = allPosts.map(p => ({
+  id: p.id,
+  title: p.data.title,
+  heroImage: p.data.heroImage || '',
+  category: p.data.category || [],
+}));
+
+const youtubeVideos = [
+  '0fqEvAzAy9A',
+  'GivvqCXp11A',
+  'H5N5_UuK7TI',
+  'EotdDxXHFwE',
+  '7JIqxDIyDF0',
+  'ePutHL_Ob1Q'
+];
+
+const socialLinks = [
+  { label: 'FB 粉絲團', url: 'https://www.facebook.com/bali.guide.blog', type: 'facebook' },
+  { label: '峇里島/印尼吃喝玩樂', url: 'https://www.facebook.com/groups/indonesia.travelguide', type: 'facebook' },
+  { label: '峇里島旅遊', url: 'https://www.facebook.com/groups/baligo', type: 'facebook' },
+  { label: 'Instagram', url: 'https://www.instagram.com/go.bali.go/', type: 'instagram' },
+  { label: 'YouTube', url: 'https://www.youtube.com/@j_indonesia', type: 'youtube' },
+  { label: 'Threads', url: 'https://www.threads.com/@go.bali.go', type: 'threads' },
+];
 ---
 
 <!doctype html>
-<html lang="en">
-	<head>
-		<BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
-		<style>
-			main {
-				width: 960px;
-			}
-			ul {
-				display: flex;
-				flex-wrap: wrap;
-				gap: 2rem;
-				list-style-type: none;
-				margin: 0;
-				padding: 0;
-			}
-			ul li {
-				width: calc(50% - 1rem);
-			}
-			ul li * {
-				text-decoration: none;
-				transition: 0.2s ease;
-			}
-			ul li:first-child {
-				width: 100%;
-				margin-bottom: 1rem;
-				text-align: center;
-			}
-			ul li:first-child img {
-				width: 100%;
-			}
-			ul li:first-child .title {
-				font-size: 2.369rem;
-			}
-			ul li img {
-				margin-bottom: 0.5rem;
-				border-radius: 12px;
-			}
-			ul li a {
-				display: block;
-			}
-			.title {
-				margin: 0;
-				color: rgb(var(--black));
-				line-height: 1;
-			}
-			.date {
-				margin: 0;
-				color: rgb(var(--gray));
-			}
-			ul li a:hover h4,
-			ul li a:hover .date {
-				color: rgb(var(--accent));
-			}
-			ul a:hover img {
-				box-shadow: var(--box-shadow);
-			}
-			@media (max-width: 720px) {
-				ul {
-					gap: 0.5em;
-				}
-				ul li {
-					width: 100%;
-					text-align: center;
-				}
-				ul li:first-child {
-					margin-bottom: 0;
-				}
-				ul li:first-child .title {
-					font-size: 1.563em;
-				}
-			}
-		</style>
-	</head>
-	<body>
-		<Header />
-		<main>
-			<section>
-				<ul>
-					{
-						posts.map((post) => (
-							<li>
-								<a href={`/blog/${post.id}/`}>
-									{post.data.heroImage && (
-										<Image width={720} height={360} src={post.data.heroImage} alt="" />
-									)}
-									<h4 class="title">{post.data.title}</h4>
-									<p class="date">
-										<FormattedDate date={post.data.pubDate} />
-									</p>
-								</a>
-							</li>
-						))
-					}
-				</ul>
-			</section>
-		</main>
-		<Footer />
-	</body>
+<html lang="zh-TW">
+<head>
+  <BaseHead title={SITE_TITLE} description={SITE_DESCRIPTION} />
+  <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
+</head>
+<body>
+  <Header />
+
+  <div class="layout">
+
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <div id="search"></div>
+      </div>
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">📂 文章分類</h3>
+        <ul class="category-list">
+          <li>
+            <button class="category-item active" data-category="all">
+              <span class="cat-name">全部文章</span>
+              <span class="cat-count">{allPosts.length}</span>
+            </button>
+          </li>
+          {categories.map(cat => (
+            <li>
+              <button class="category-item" data-category={cat}>
+                <span class="cat-name">{cat}</span>
+                <span class="cat-count">{categoryCounts[cat]}</span>
+              </button>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </aside>
+
+    <main>
+      <div class="page-header">
+        <h1 id="current-category">峇里島旅遊攻略</h1>
+        <p id="post-count">自由行達人指南 · {allPosts.length} 篇文章</p>
+      </div>
+
+      <div class="youtube-section">
+        <div class="youtube-player">
+          <iframe
+            id="yt-iframe"
+            width="100%"
+            height="100%"
+            src=""
+            title="峇里島旅遊影片"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+        </div>
+      </div>
+
+      <div class="social-section">
+        {socialLinks.map(s => (
+          <a href={s.url} target="_blank" rel="noopener" class={`social-btn ${s.type}`}>
+            {s.type === 'facebook' && (
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+            )}
+            {s.type === 'instagram' && (
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>
+            )}
+            {s.type === 'youtube' && (
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M23.495 6.205a3.007 3.007 0 00-2.088-2.088c-1.87-.501-9.396-.501-9.396-.501s-7.507-.01-9.396.501A3.007 3.007 0 00.527 6.205a31.247 31.247 0 00-.522 5.805 31.247 31.247 0 00.522 5.783 3.007 3.007 0 002.088 2.088c1.868.502 9.396.502 9.396.502s7.506 0 9.396-.502a3.007 3.007 0 002.088-2.088 31.247 31.247 0 00.5-5.783 31.247 31.247 0 00-.5-5.805zM9.609 15.601V8.408l6.264 3.602z"/></svg>
+            )}
+            {s.type === 'threads' && (
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1V9.01a6.27 6.27 0 00-.79-.05 6.34 6.34 0 00-6.34 6.34 6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.33-6.34V8.69a8.27 8.27 0 004.84 1.56V6.79a4.85 4.85 0 01-1.07-.1z"/></svg>
+            )}
+            <span>{s.label}</span>
+          </a>
+        ))}
+      </div>
+
+      <div id="featured-section" style="display:none">
+        <h2 class="section-title">⭐ 編輯精選</h2>
+        <div class="featured-grid">
+          {[0,1,2].map(i => (
+            <a href="#" class="featured-card" data-index={i}>
+              <div class="featured-image">
+                <img src="" alt="" loading="lazy" />
+              </div>
+              <div class="featured-body">
+                <span class="featured-badge">精選</span>
+                <h3></h3>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <div class="grid" id="posts-grid">
+        {allPosts.map((post) => (
+          <a href={`/blog/${post.id}/`} class="card" data-category={JSON.stringify(post.data.category || [])}>
+            <div class="card-image">
+              {post.data.heroImage
+                ? <img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+                : <div class="card-image-placeholder">🌴</div>
+              }
+              {post.data.category && (
+                <span class="category-badge">
+                  {Array.isArray(post.data.category) ? post.data.category[0] : post.data.category}
+                </span>
+              )}
+            </div>
+            <div class="card-body">
+              <h2 class="card-title">{post.data.title}</h2>
+              <p class="card-desc">{post.data.description}</p>
+            </div>
+          </a>
+        ))}
+      </div>
+
+      <div id="pagination" class="pagination"></div>
+    </main>
+  </div>
+
+  <Footer />
+</body>
+
+<script is:inline src="/pagefind/pagefind-ui.js"></script>
+<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos }}>
+  window.addEventListener('DOMContentLoaded', () => {
+
+    const randomVideo = youtubeVideos[Math.floor(Math.random() * youtubeVideos.length)];
+    document.getElementById('yt-iframe').src = `https://www.youtube.com/embed/${randomVideo}?rel=0`;
+
+    if (window.PagefindUI) {
+      new window.PagefindUI({
+        element: '#search',
+        showSubResults: false,
+        placeholder: '搜尋文章...',
+      });
+    }
+
+    const POSTS_PER_PAGE = 18;
+    let currentPage = 1;
+    let filteredCards = [];
+
+    const buttons = document.querySelectorAll('.category-item');
+    const cards = document.querySelectorAll('.card');
+    const countEl = document.getElementById('post-count');
+    const titleEl = document.getElementById('current-category');
+
+    function updateFeatured(cat) {
+      const section = document.getElementById('featured-section');
+      const ids = featuredData[cat] || [];
+      if (cat === 'all' || ids.length === 0) {
+        section.style.display = 'none';
+        return;
+      }
+      const matchedPosts = ids.map(id => allPostsData.find(p => p.id === id)).filter(Boolean);
+      if (matchedPosts.length === 0) {
+        section.style.display = 'none';
+        return;
+      }
+      const featuredCardEls = document.querySelectorAll('.featured-card');
+      featuredCardEls.forEach((card, i) => {
+        if (matchedPosts[i]) {
+          card.href = `/blog/${matchedPosts[i].id}/`;
+          card.querySelector('h3').textContent = matchedPosts[i].title;
+          const img = card.querySelector('img');
+          if (img) { img.src = matchedPosts[i].heroImage; img.alt = matchedPosts[i].title; }
+          card.style.display = 'flex';
+        } else {
+          card.style.display = 'none';
+        }
+      });
+      section.style.display = 'block';
+    }
+
+    function renderPage() {
+      const start = (currentPage - 1) * POSTS_PER_PAGE;
+      const end = start + POSTS_PER_PAGE;
+      filteredCards.forEach((card, i) => {
+        card.style.display = (i >= start && i < end) ? 'flex' : 'none';
+      });
+      updatePagination();
+    }
+
+    function updatePagination() {
+      const totalPages = Math.ceil(filteredCards.length / POSTS_PER_PAGE);
+      const pagination = document.getElementById('pagination');
+      pagination.innerHTML = '';
+      if (totalPages <= 1) return;
+
+      const prev = document.createElement('button');
+      prev.textContent = '← 上一頁';
+      prev.className = 'page-btn';
+      prev.disabled = currentPage === 1;
+      prev.onclick = () => { currentPage--; renderPage(); window.scrollTo(0, 0); };
+      pagination.appendChild(prev);
+
+      const info = document.createElement('span');
+      info.className = 'page-info';
+      info.textContent = `第 ${currentPage} / ${totalPages} 頁`;
+      pagination.appendChild(info);
+
+      const next = document.createElement('button');
+      next.textContent = '下一頁 →';
+      next.className = 'page-btn';
+      next.disabled = currentPage === totalPages;
+      next.onclick = () => { currentPage++; renderPage(); window.scrollTo(0, 0); };
+      pagination.appendChild(next);
+    }
+
+    function filterCategory(cat) {
+      currentPage = 1;
+      const newUrl = cat === 'all' ? '/blog' : `/blog?cat=${encodeURIComponent(cat)}`;
+      window.history.pushState({}, '', newUrl);
+
+      buttons.forEach(b => b.classList.remove('active'));
+      const activeBtn = document.querySelector(`[data-category="${cat}"]`);
+      if (activeBtn) activeBtn.classList.add('active');
+
+      filteredCards = [...cards].filter(card => {
+        if (cat === 'all') return true;
+        try {
+          const cats = JSON.parse(card.dataset.category || '[]');
+          return Array.isArray(cats) ? cats.includes(cat) : cats === cat;
+        } catch {
+          return card.dataset.category === cat;
+        }
+      });
+
+      cards.forEach(card => card.style.display = 'none');
+      titleEl.textContent = cat === 'all' ? '峇里島旅遊攻略' : cat;
+      countEl.textContent = `共 ${filteredCards.length} 篇文章`;
+
+      updateFeatured(cat);
+      renderPage();
+
+      const newVideo = youtubeVideos[Math.floor(Math.random() * youtubeVideos.length)];
+      document.getElementById('yt-iframe').src = `https://www.youtube.com/embed/${newVideo}?rel=0`;
+    }
+
+    buttons.forEach(btn => {
+      btn.addEventListener('click', () => filterCategory(btn.dataset.category));
+    });
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const catParam = urlParams.get('cat');
+    if (catParam) {
+      setTimeout(() => filterCategory(catParam), 100);
+    } else {
+      filteredCards = [...cards];
+      renderPage();
+    }
+
+  });
+</script>
 </html>
+
+<style>
+.layout {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  max-width: 1400px;
+  margin: 0 auto;
+  min-height: calc(100vh - 64px);
+  align-items: start;
+}
+
+.sidebar {
+  position: sticky;
+  top: 64px;
+  height: calc(100vh - 64px);
+  overflow-y: auto;
+  background: var(--white);
+  border-right: 1px solid rgba(197, 160, 89, 0.2);
+  padding: 1.5em 1em;
+}
+
+.sidebar::-webkit-scrollbar { width: 4px; }
+.sidebar::-webkit-scrollbar-thumb {
+  background: rgba(197, 160, 89, 0.3);
+  border-radius: 2px;
+}
+
+.sidebar-section { margin-bottom: 1.8em; }
+
+.sidebar-title {
+  font-size: 0.85em;
+  font-weight: 700;
+  color: var(--ocean);
+  letter-spacing: 0.05em;
+  margin: 0 0 0.8em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid rgba(197, 160, 89, 0.2);
+}
+
+.category-list { list-style: none; margin: 0; padding: 0; }
+
+.category-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  padding: 0.45em 0.7em;
+  border-radius: 8px;
+  border: none;
+  background: none;
+  cursor: pointer;
+  color: var(--text);
+  font-size: 0.88em;
+  font-family: inherit;
+  text-align: left;
+  transition: all 0.15s;
+  margin-bottom: 0.2em;
+}
+
+.category-item:hover {
+  background: rgba(197, 160, 89, 0.1);
+  color: var(--ocean);
+}
+
+.category-item.active {
+  background: var(--ocean);
+  color: var(--gold-light);
+}
+
+.cat-name { flex: 1; }
+
+.cat-count {
+  font-size: 0.78em;
+  background: rgba(197, 160, 89, 0.15);
+  color: var(--gold);
+  padding: 0.1em 0.5em;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+.category-item.active .cat-count {
+  background: rgba(255,255,255,0.15);
+  color: var(--gold-light);
+}
+
+main { padding: 2em 2em 4em; }
+
+.page-header {
+  padding-bottom: 1.5em;
+  border-bottom: 1px solid rgba(197, 160, 89, 0.25);
+  margin-bottom: 2em;
+}
+
+.page-header h1 {
+  font-size: 2em;
+  color: var(--ocean);
+  margin-bottom: 0.2em;
+}
+
+.page-header p {
+  color: var(--text-light);
+  font-size: 0.9em;
+  margin: 0;
+}
+
+.youtube-section { margin-bottom: 1.2em; }
+
+.youtube-player {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16/9;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(26, 54, 93, 0.15);
+  background: var(--ocean);
+}
+
+.youtube-player iframe {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%; height: 100%;
+}
+
+.social-section {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.6em;
+  margin-bottom: 2em;
+}
+
+.social-btn {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.45em;
+  padding: 0.55em 0.8em;
+  border-radius: 10px;
+  text-decoration: none;
+  font-size: 0.82em;
+  font-weight: 600;
+  color: white !important;
+  transition: opacity 0.2s, transform 0.2s;
+}
+
+.social-btn:hover {
+  opacity: 0.85;
+  transform: translateY(-2px);
+}
+
+.social-btn svg {
+  width: 16px;
+  height: 16px;
+  flex-shrink: 0;
+}
+
+.social-btn.facebook { background: #1877F2; }
+.social-btn.instagram { background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); }
+.social-btn.youtube { background: #FF0000; }
+.social-btn.threads { background: #000000; }
+
+.section-title {
+  font-size: 1.1em;
+  color: var(--ocean);
+  margin: 0 0 1em;
+  padding-bottom: 0.5em;
+  border-bottom: 2px solid var(--gold);
+}
+
+.featured-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em;
+  margin-bottom: 2.5em;
+}
+
+.featured-card {
+  display: flex;
+  flex-direction: column;
+  border-radius: 12px;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  border: 2px solid var(--gold);
+  transition: transform 0.2s;
+}
+
+.featured-card:hover { transform: translateY(-3px); }
+
+.featured-image {
+  aspect-ratio: 16/9;
+  overflow: hidden;
+  background: var(--ocean);
+}
+
+.featured-image img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  border-radius: 0;
+}
+
+.featured-body {
+  padding: 0.8em 1em;
+  background: var(--white);
+}
+
+.featured-badge {
+  font-size: 0.7em;
+  background: var(--gold);
+  color: var(--ocean);
+  padding: 0.15em 0.6em;
+  border-radius: 10px;
+  font-weight: 700;
+  margin-bottom: 0.4em;
+  display: inline-block;
+}
+
+.featured-body h3 {
+  font-size: 0.88em;
+  margin: 0;
+  line-height: 1.4;
+  color: var(--ocean);
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1.5em;
+}
+
+.card {
+  background: var(--white);
+  border-radius: 16px;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  box-shadow: 0 2px 12px rgba(10,22,40,0.08);
+  transition: transform 0.25s ease, box-shadow 0.25s ease;
+  display: flex;
+  flex-direction: column;
+}
+
+.card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 8px 32px rgba(10,22,40,0.15);
+}
+
+.card-image {
+  position: relative;
+  aspect-ratio: 16/10;
+  overflow: hidden;
+  background: var(--ocean-mid);
+}
+
+.card-image img {
+  width: 100%; height: 100%;
+  object-fit: cover;
+  border-radius: 0;
+  transition: transform 0.4s ease;
+}
+
+.card:hover .card-image img { transform: scale(1.05); }
+
+.card-image-placeholder {
+  width: 100%; height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3em;
+  background: linear-gradient(135deg, var(--ocean) 0%, var(--ocean-light) 100%);
+}
+
+.category-badge {
+  position: absolute;
+  bottom: 0.7em; left: 0.7em;
+  background: var(--gold);
+  color: var(--ocean);
+  font-size: 0.72em;
+  font-weight: 700;
+  padding: 0.2em 0.7em;
+  border-radius: 20px;
+}
+
+.card-body {
+  padding: 1.2em 1.4em 1.4em;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+}
+
+.card-title {
+  font-size: 1em;
+  font-weight: 700;
+  color: var(--ocean);
+  margin: 0 0 0.5em;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.card-desc {
+  font-size: 0.82em;
+  color: var(--text-light);
+  line-height: 1.5;
+  margin: 0;
+  flex: 1;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.pagination {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1em;
+  margin-top: 2.5em;
+  padding-top: 1.5em;
+  border-top: 1px solid rgba(197, 160, 89, 0.2);
+}
+
+.page-btn {
+  background: var(--ocean);
+  color: var(--white);
+  border: none;
+  padding: 0.5em 1.2em;
+  border-radius: 8px;
+  cursor: pointer;
+  font-size: 0.9em;
+  font-family: inherit;
+  transition: background 0.2s;
+}
+
+.page-btn:hover:not(:disabled) { background: var(--ocean-light); }
+.page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+
+.page-info {
+  font-size: 0.88em;
+  color: var(--text-light);
+}
+
+@media (max-width: 1100px) {
+  .grid { grid-template-columns: repeat(2, 1fr); }
+  .featured-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 900px) {
+  .layout { grid-template-columns: 1fr; }
+  .sidebar { position: static; height: auto; border-right: none; border-bottom: 1px solid rgba(197,160,89,0.2); }
+}
+
+@media (max-width: 600px) {
+  .grid { grid-template-columns: 1fr; }
+  .featured-grid { grid-template-columns: 1fr; }
+  .social-section { grid-template-columns: repeat(2, 1fr); }
+}
+</style>
