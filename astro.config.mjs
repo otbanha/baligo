@@ -8,5 +8,6 @@ export default defineConfig({
   },
   build: {
     format: 'directory'
-  }
+  },
+  output: 'static',
 });
