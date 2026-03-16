@@ -6,7 +6,7 @@ import { SITE_TITLE } from '../consts';
   <nav>
     <div class="brand">
       <a href="/blog">
-        <span class="logo-icon">🌊🌴</span>
+        <img src="/favicon-32x32.png" alt="logo" class="logo-icon" />
         <span class="logo-text">{SITE_TITLE}</span>
       </a>
     </div>
@@ -68,7 +68,11 @@ nav {
   white-space: nowrap;
 }
 
-.logo-icon { font-size: 1.4em; }
+.logo-icon {
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+}
 
 .logo-text {
   font-family: 'Playfair Display', serif;
