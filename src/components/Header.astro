@@ -12,21 +12,15 @@ import { SITE_TITLE } from '../consts';
     </div>
 
     <div class="search-right">
-  <div class="search-wrapper">
-    <svg class="search-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-      <circle cx="11" cy="11" r="8"/>
-      <line x1="21" y1="21" x2="16.65" y2="16.65"/>
-    </svg>
-    <div id="header-search"></div>
-  </div>
-</div>
+      <div id="header-search"></div>
+    </div>
   </nav>
 </header>
 
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
 <script is:inline src="/pagefind/pagefind-ui.js"></script>
 <script is:inline>
- function initSearch() {
+function initSearch() {
   if (window.PagefindUI) {
     new window.PagefindUI({
       element: '#header-search',
@@ -39,7 +33,6 @@ import { SITE_TITLE } from '../consts';
   }
 }
 window.addEventListener('load', initSearch);
-  <script is:inline src="/pagefind/pagefind-ui.js" onerror="console.warn('Pagefind not available')"></script>
 </script>
 
 <style>
@@ -91,7 +84,6 @@ nav {
   flex-shrink: 0;
 }
 
-/* Pagefind 樣式覆蓋 */
 .search-right :global(.pagefind-ui__search-input) {
   background: rgba(255,255,255,0.12) !important;
   border: 1px solid rgba(197,160,89,0.4) !important;
@@ -104,16 +96,6 @@ nav {
 
 .search-right :global(.pagefind-ui__search-input::placeholder) {
   color: rgba(255,255,255,0.5) !important;
-}
-
-.search-right :global(.pagefind-ui__search-input:focus) {
-  outline: none !important;
-  border-color: var(--gold) !important;
-  background: rgba(255,255,255,0.18) !important;
-}
-
-.search-right :global(.pagefind-ui__search-clear) {
-  color: rgba(255,255,255,0.6) !important;
 }
 
 .search-right :global(.pagefind-ui__results-container) {
@@ -130,28 +112,9 @@ nav {
   z-index: 200;
 }
 
-.search-right :global(.pagefind-ui__result) {
-  padding: 0.8em 1em;
-  border-bottom: 1px solid rgba(197,160,89,0.15);
-}
-
 .search-right :global(.pagefind-ui__result-title) {
   color: var(--ocean) !important;
   font-size: 0.9em;
-}
-
-.search-wrapper {
-  display: flex;
-  align-items: center;
-  gap: 0.6em;
-}
-
-.search-icon {
-  width: 20px;
-  height: 20px;
-  color: var(--gold-light);
-  flex-shrink: 0;
-  opacity: 0.8;
 }
 
 @media (max-width: 600px) {
