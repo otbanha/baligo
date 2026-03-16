@@ -26,16 +26,20 @@ import { SITE_TITLE } from '../consts';
 <link rel="stylesheet" href="/pagefind/pagefind-ui.css" />
 <script is:inline src="/pagefind/pagefind-ui.js"></script>
 <script is:inline>
-  window.addEventListener('DOMContentLoaded', () => {
-    if (window.PagefindUI) {
-      new window.PagefindUI({
-        element: '#header-search',
-        showSubResults: false,
-        placeholder: '🔍 搜尋峇里島攻略...',
-        showImages: false,
-      });
-    }
-  });
+ function initSearch() {
+  if (window.PagefindUI) {
+    new window.PagefindUI({
+      element: '#header-search',
+      showSubResults: false,
+      placeholder: '🔍 搜尋峇里島攻略...',
+      showImages: false,
+    });
+  } else {
+    setTimeout(initSearch, 100);
+  }
+}
+window.addEventListener('load', initSearch);
+  <script is:inline src="/pagefind/pagefind-ui.js" onerror="console.warn('Pagefind not available')"></script>
 </script>
 
 <style>
