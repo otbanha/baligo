@@ -13,6 +13,8 @@ collections:
     folder: src/content/blog
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sort_field: pubDate
+    sort_direction: Descending
     fields:
       - { label: 標題, name: title, widget: string }
       - { label: 描述, name: description, widget: text, required: false }
