@@ -11,9 +11,27 @@ const { title, description, pubDate, updatedDate, heroImage, category } = Astro.
 
 const allPosts = await getCollection('blog');
 
-const categories = [...new Set(allPosts.flatMap(p =>
+const categoryOrder = [
+  '新手指南',
+  '住宿推薦',
+  '峇里島分區攻略',
+  '簽證通關',
+  '叫車包車',
+  '家庭親子',
+  '遊記分享',
+  '美食景點活動',
+  '峇里島祕技',
+  '新聞存檔',
+];
+
+const allCategories = [...new Set(allPosts.flatMap(p =>
   Array.isArray(p.data.category) ? p.data.category : [p.data.category]
 ).filter(Boolean))];
+
+const categories = [
+  ...categoryOrder.filter(c => allCategories.includes(c)),
+  ...allCategories.filter(c => !categoryOrder.includes(c)),
+];
 
 const categoryCounts = categories.reduce((acc, cat) => {
   acc[cat] = allPosts.filter(p => {
@@ -61,7 +79,7 @@ const randomPosts = [...randomArea, ...randomAccom].sort(() => Math.random() - 0
           {categories.map(cat => (
             <li>
               <a href={`/blog?cat=${encodeURIComponent(cat)}`}
-                 class={`category-item ${category === cat ? 'active' : ''}`}>
+                 class={`category-item ${(Array.isArray(category) ? category : [category]).includes(cat) ? 'active' : ''}`}
                 <span class="cat-name">{cat}</span>
                 <span class="cat-count">{categoryCounts[cat]}</span>
               </a>
