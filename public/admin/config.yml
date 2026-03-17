@@ -2,7 +2,7 @@ backend:
   name: github
   repo: otbanha/baligo
   branch: main
-  base_url: https://sveltia-cms-auth.pages.dev
+  base_url:   base_url: https://baligo-auth.otbanha.workers.dev
 
 media_folder: public/images
 public_folder: /images
