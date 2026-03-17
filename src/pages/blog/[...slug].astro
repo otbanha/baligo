@@ -3,18 +3,25 @@ import { type CollectionEntry, getCollection, render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
 
 export async function getStaticPaths() {
-	const posts = await getCollection('blog');
-	return posts.map((post) => ({
-		params: { slug: post.id },
-		props: post,
-	}));
+  const posts = await getCollection('blog');
+  return posts.map((post) => ({
+    params: { slug: post.id },
+    props: post,
+  }));
 }
 type Props = CollectionEntry<'blog'>;
 
 const post = Astro.props;
-const { Content } = await render(post);
+const { Content, remarkPluginFrontmatter } = await render(post);
+
+// 建立影片嵌入對照表
+const embeds = post.data.embeds || [];
+const embedMap: Record<string, {platform: string, url: string}> = {};
+embeds.forEach((e: any) => {
+  embedMap[e.position] = { platform: e.platform, url: e.url };
+});
 ---
 
-<BlogPost {...post.data}>
-	<Content />
+<BlogPost {...post.data} embedMap={embedMap}>
+  <Content />
 </BlogPost>

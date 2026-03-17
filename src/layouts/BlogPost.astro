@@ -7,7 +7,7 @@ import Header from '../components/Header.astro';
 import { getCollection } from 'astro:content';
 
 type Props = CollectionEntry<'blog'>['data'];
-const { title, description, pubDate, updatedDate, heroImage, category, embeds } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {} } = Astro.props;
 
 const allPosts = await getCollection('blog');
 
@@ -145,6 +145,37 @@ const randomPosts = [...randomArea, ...randomAccom].sort(() => Math.random() - 0
     </main>
 
   </div>
+  <script define:vars={{ embedMap }}>
+document.addEventListener('DOMContentLoaded', () => {
+  const prose = document.querySelector('.prose');
+  if (!prose) return;
+
+  prose.querySelectorAll('p').forEach(p => {
+    const text = p.textContent || '';
+    if (!text.match(/<<[^>]+>>/)) return;
+
+    p.innerHTML = p.innerHTML.replace(/&lt;&lt;([^&]+)&gt;&gt;/g, (match, pos) => {
+      const embed = embedMap[pos];
+      if (!embed) return match;
+
+      if (embed.platform === 'youtube') {
+        const m = embed.url.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
+        if (m) return `<div class="video-embed"><iframe src="https://www.youtube.com/embed/${m[1]}" frameborder="0" allowfullscreen loading="lazy"></iframe></div>`;
+      }
+      if (embed.platform === 'instagram') {
+        const m = embed.url.match(/instagram\.com\/(?:reel|p)\/([A-Za-z0-9_-]+)/);
+        if (m) return `<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/${m[1]}/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote><script async src="//www.instagram.com/embed.js"><\/script></div>`;
+      }
+      if (embed.platform === 'tiktok') {
+        const m = embed.url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
+        if (m) return `<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="${embed.url}" data-video-id="${m[1]}" style="width:100%;margin:0;"><section></section></blockquote><script async src="https://www.tiktok.com/embed.js"><\/script></div>`;
+      }
+      return match;
+    });
+  });
+});
+</script>
+
   <Footer />
 </body>
 </html>
