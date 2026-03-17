@@ -1,122 +1,319 @@
-import { readFileSync, readdirSync } from 'fs';
-import { join } from 'path';
-import matter from 'gray-matter';
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+import { getCollection } from 'astro:content';
 
-export function remarkBlocks(embedMap = {}) {
-  return (tree) => {
-    const blocksDir = join(process.cwd(), 'src/content/blocks');
-    let blocks = {};
+type Props = CollectionEntry<'blog'>['data'];
+const { title, description, pubDate, updatedDate, heroImage, category } = Astro.props;
 
-    try {
-      const files = readdirSync(blocksDir);
-      for (const file of files) {
-        if (!file.endsWith('.md')) continue;
-        const raw = readFileSync(join(blocksDir, file), 'utf-8');
-        const { data, content } = matter(raw);
-        const slug = file.replace('.md', '');
-        blocks[slug] = {
-          type: data.type || 'normal',
-          randomCount: data.randomCount || 5,
-          content: content.trim(),
-        };
-      }
-    } catch (e) {
-      return;
-    }
+const allPosts = await getCollection('blog');
 
-    function processBlock(slug) {
-      const block = blocks[slug.trim()];
-      if (!block) return `[區塊不存在: ${slug}]`;
+const categoryOrder = [
+  '新手指南',
+  '住宿推薦',
+  '峇里島分區攻略',
+  '簽證通關',
+  '叫車包車',
+  '家庭親子',
+  '遊記分享',
+  '美食景點活動',
+  '峇里島祕技',
+  '新聞存檔',
+];
 
-      if (block.type === 'normal') {
-        return block.content;
-      }
+const allCategories = [...new Set(allPosts.flatMap(p =>
+  Array.isArray(p.data.category) ? p.data.category : [p.data.category]
+).filter(Boolean))];
 
-      if (block.type === 'random-cards' || block.type === 'random-list') {
-        const items = block.content
-          .split('\n')
-          .filter(line => line.trim().startsWith('-'))
-          .map(line => line.trim().slice(1).trim());
+const categories = [
+  ...categoryOrder.filter(c => allCategories.includes(c)),
+  ...allCategories.filter(c => !categoryOrder.includes(c)),
+];
 
-        const count = Math.min(block.randomCount, items.length);
-        const shuffled = items.sort(() => Math.random() - 0.5).slice(0, count);
+const categoryCounts = categories.reduce((acc, cat) => {
+  acc[cat] = allPosts.filter(p => {
+    const cats = Array.isArray(p.data.category) ? p.data.category : [p.data.category];
+    return cats.includes(cat);
+  }).length;
+  return acc;
+}, {});
 
-        if (block.type === 'random-list') {
-          return shuffled.map(i => `- ${i}`).join('\n');
-        }
+// 亂數推薦文章
+const getRandomPosts = (categoryName: string, count: number) => {
+  return allPosts
+    .filter(p => {
+      const cats = Array.isArray(p.data.category) ? p.data.category : [p.data.category];
+      return cats.includes(categoryName) && p.data.title !== title;
+    })
+    .sort(() => Math.random() - 0.5)
+    .slice(0, count);
+};
 
-        if (block.type === 'random-cards') {
-          return `<div class="block-cards">${shuffled.map(i => {
-            const match = i.match(/\[([^\]]+)\]\(([^)]+)\)/);
-            if (match) {
-              return `<a href="${match[2]}" class="block-card">${match[1]}</a>`;
-            }
-            return `<div class="block-card">${i}</div>`;
-          }).join('')}</div>`;
-        }
-      }
+const randomArea = getRandomPosts('峇里島分區攻略', 5);
+const randomAccom = getRandomPosts('住宿推薦', 4);
+const randomPosts = [...randomArea, ...randomAccom].sort(() => Math.random() - 0.5).slice(0, 9);
+---
 
-      return block.content;
-    }
+<html lang="zh-TW">
+<head>
+  <BaseHead title={title} description={description} />
+</head>
 
-    function renderEmbed(platform, url) {
-      if (platform === 'youtube') {
-        const match = url.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
-        const id = match ? match[1] : url;
-        return `<div class="video-embed"><iframe src="https://www.youtube.com/embed/${id}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe></div>`;
-      }
-      if (platform === 'instagram') {
-        const match = url.match(/instagram\.com\/(?:reel|p)\/([A-Za-z0-9_-]+)/);
-        const id = match ? match[1] : '';
-        return `<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/${id}/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote><script async src="//www.instagram.com/embed.js"></script></div>`;
-      }
-      if (platform === 'tiktok') {
-        const match = url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
-        const id = match ? match[1] : '';
-        return `<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="${url}" data-video-id="${id}" style="width:100%;margin:0;"><section></section></blockquote><script async src="https://www.tiktok.com/embed.js"></script></div>`;
-      }
-      return `<a href="${url}" target="_blank">${url}</a>`;
-    }
+<body>
+  <Header />
+  <div class="layout">
 
-    function visit(node) {
-      if (node.type === 'paragraph' && node.children) {
-        node.children = node.children.map(child => {
-          if (child.type === 'link' && child.children?.[0]?.value === 'video') {
-            const url = child.url;
-            const ytMatch = url.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
-            if (ytMatch) {
-              return { type: 'html', value: `<div class="video-embed"><iframe src="https://www.youtube.com/embed/${ytMatch[1]}" frameborder="0" allowfullscreen loading="lazy"></iframe></div>` };
-            }
-            const igMatch = url.match(/instagram\.com\/(?:reel|p)\/([A-Za-z0-9_-]+)/);
-            if (igMatch) {
-              return { type: 'html', value: `<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/${igMatch[1]}/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote><script async src="//www.instagram.com/embed.js"><\/script></div>` };
-            }
-            const ttMatch = url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
-            if (ttMatch) {
-              return { type: 'html', value: `<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="${url}" data-video-id="${ttMatch[1]}" style="width:100%;margin:0;"><section></section></blockquote><script async src="https://www.tiktok.com/embed.js"><\/script></div>` };
-            }
-          }
-          if (child.type === 'text') {
-            let newValue = child.value;
-            newValue = newValue.replace(
-              /\{\{block:([^}]+)\}\}/g,
-              (match, slug) => processBlock(slug)
-            );
-            newValue = newValue.replace(
-              /<<([^>]+)>>/g,
-              (match, position) => {
-                const embed = embedMap[position];
-                if (embed) return renderEmbed(embed.platform, embed.url);
-                return match;
-              }
-            );
-            return { ...child, value: newValue };
-          }
-          return child;
-        });
-      }
-      if (node.children) node.children.forEach(visit);
-    }
-    visit(tree);
-  };
+    <aside class="sidebar">
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">📂 文章分類</h3>
+        <ul class="category-list">
+          <li>
+            <a href="/blog" class="category-item">
+              <span class="cat-name">全部文章</span>
+              <span class="cat-count">{allPosts.length}</span>
+            </a>
+          </li>
+          {categories.map(cat => (
+            <li>
+              <a href={`/blog?cat=${encodeURIComponent(cat)}`}
+                 class={`category-item ${(Array.isArray(category) ? category : [category]).includes(cat) ? 'active' : ''}`}
+                <span class="cat-name">{cat}</span>
+                <span class="cat-count">{categoryCounts[cat]}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+    </aside>
+
+    <main>
+      <article>
+        <div class="hero-image">
+          {heroImage && <img src={heroImage} alt={title} />}
+        </div>
+        <div class="prose">
+          <div class="title">
+            {category && <span class="article-category">{category}</span>}
+            <h1>{title}</h1>
+            <div class="date">
+              <FormattedDate date={pubDate} />
+              {updatedDate && (
+                <span class="last-updated-on">· 更新於 <FormattedDate date={updatedDate} /></span>
+              )}
+            </div>
+            <hr />
+          </div>
+          <slot />
+        </div>
+
+        <!-- 文章底部推薦 -->
+        {randomPosts.length > 0 && (
+          <div class="related-posts">
+            <h2 class="related-title">🗺️ 你可能也想看</h2>
+            <div class="related-grid">
+              {randomPosts.map(post => (
+                <a href={`/blog/${post.id}/`} class="related-card">
+                  {post.data.heroImage && (
+                    <div class="related-image">
+                      <img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+                    </div>
+                  )}
+                  <div class="related-body">
+                    {post.data.category && (
+                      <span class="related-cat">
+                        {Array.isArray(post.data.category) ? post.data.category[0] : post.data.category}
+                      </span>
+                    )}
+                    <p class="related-card-title">{post.data.title}</p>
+                  </div>
+                </a>
+              ))}
+            </div>
+          </div>
+        )}
+      </article>
+    </main>
+
+  </div>
+  <Footer />
+</body>
+</html>
+
+<style>
+.layout {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: calc(100vh - 64px);
+  align-items: start;
 }
+
+.sidebar {
+  position: sticky;
+  top: 64px;
+  height: calc(100vh - 64px);
+  overflow-y: auto;
+  background: var(--white);
+  border-right: 1px solid rgba(201, 168, 76, 0.2);
+  padding: 1.5em 1em;
+}
+
+.sidebar::-webkit-scrollbar { width: 4px; }
+.sidebar::-webkit-scrollbar-thumb {
+  background: rgba(201, 168, 76, 0.3);
+  border-radius: 2px;
+}
+
+.sidebar-section { margin-bottom: 1.8em; }
+
+.sidebar-title {
+  font-size: 0.85em;
+  font-weight: 700;
+  color: var(--ocean);
+  letter-spacing: 0.05em;
+  margin: 0 0 0.8em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid rgba(201, 168, 76, 0.2);
+}
+
+.category-list { list-style: none; margin: 0; padding: 0; }
+
+.category-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.45em 0.7em;
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--text);
+  font-size: 0.88em;
+  transition: all 0.15s;
+  margin-bottom: 0.2em;
+}
+
+.category-item:hover { background: rgba(201, 168, 76, 0.1); color: var(--ocean); }
+.category-item.active { background: var(--ocean); color: var(--gold-light); }
+.cat-name { flex: 1; }
+
+.cat-count {
+  font-size: 0.78em;
+  background: rgba(201, 168, 76, 0.15);
+  color: var(--gold);
+  padding: 0.1em 0.5em;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+.category-item.active .cat-count { background: rgba(255,255,255,0.15); color: var(--gold-light); }
+
+main {
+  padding: 2em 2.5em;
+  max-width: 780px;
+}
+
+.hero-image { margin-bottom: 1.5em; }
+.hero-image img { width: 100%; height: auto; border-radius: 12px; box-shadow: var(--box-shadow); }
+
+.prose { color: var(--text); font-size: 1em; line-height: 1.9; }
+.title { margin-bottom: 1.5em; }
+
+.article-category {
+  display: inline-block;
+  background: var(--gold);
+  color: var(--ocean);
+  font-size: 0.75em;
+  font-weight: 700;
+  padding: 0.2em 0.8em;
+  border-radius: 20px;
+  margin-bottom: 0.6em;
+}
+
+.title h1 { font-size: 1.6em; line-height: 1.4; font-weight: 700; color: var(--ocean); margin: 0 0 0.4em; }
+.date { font-size: 0.85em; color: var(--text-light); margin-bottom: 1em; }
+hr { margin: 1.2em 0 1.8em; }
+
+.prose :global(h2) {
+  font-size: 1.2em; font-weight: 700; color: var(--ocean);
+  border-left: 4px solid var(--gold); padding-left: 0.7em;
+  margin-top: 2em; margin-bottom: 0.8em; line-height: 1.4;
+}
+
+.prose :global(h3) { font-size: 1.05em; font-weight: 700; color: var(--ocean-light); margin-top: 1.5em; margin-bottom: 0.5em; }
+.prose :global(h4) { font-size: 1em; font-weight: 700; color: var(--text); margin-top: 1.2em; }
+
+/* 推薦文章 */
+.related-posts {
+  margin-top: 3em;
+  padding-top: 2em;
+  border-top: 2px solid var(--gold);
+}
+
+.related-title {
+  font-size: 1.1em;
+  font-weight: 700;
+  color: var(--ocean);
+  margin: 0 0 1.2em;
+}
+
+.related-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em;
+}
+
+.related-card {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid rgba(201, 168, 76, 0.2);
+  transition: transform 0.2s;
+}
+
+.related-card:hover { transform: translateY(-3px); box-shadow: 0 4px 16px rgba(10,22,40,0.1); }
+
+.related-image { aspect-ratio: 16/9; overflow: hidden; background: var(--ocean-mid); }
+.related-image img { width: 100%; height: 100%; object-fit: cover; }
+
+.related-body { padding: 0.7em 0.8em; background: var(--white); flex: 1; }
+
+.related-cat {
+  font-size: 0.68em;
+  font-weight: 700;
+  color: var(--ocean);
+  background: rgba(201, 168, 76, 0.15);
+  padding: 0.1em 0.5em;
+  border-radius: 10px;
+  display: inline-block;
+  margin-bottom: 0.3em;
+}
+
+.related-card-title {
+  font-size: 0.82em;
+  font-weight: 600;
+  color: var(--ocean);
+  margin: 0;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+@media (max-width: 900px) {
+  .layout { grid-template-columns: 1fr; }
+  .sidebar { position: static; height: auto; border-right: none; border-bottom: 1px solid rgba(201, 168, 76, 0.2); }
+  main { padding: 1.5em 1em; }
+  .related-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 600px) {
+  .related-grid { grid-template-columns: 1fr; }
+}
+</style>
