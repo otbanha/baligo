@@ -138,32 +138,45 @@ const randomPosts = [...randomArea, ...randomAccom].sort(() => Math.random() - 0
     </main>
 
   </div>
-  <script define:vars={{ embedMap }}>
+<script define:vars={{ embedMap }}>
 document.addEventListener('DOMContentLoaded', () => {
   const prose = document.querySelector('.prose');
   if (!prose) return;
+  
   prose.querySelectorAll('p').forEach(p => {
-    if (!(p.textContent || '').match(/<<[^>]+>>/)) return;
-    p.innerHTML = p.innerHTML.replace(/&lt;&lt;([^&]+)&gt;&gt;/g, (match, pos) => {
+    const text = p.textContent || '';
+    const matches = text.match(/<<([^>]+)>>/g);
+    if (!matches) return;
+    
+    let html = p.innerHTML;
+    matches.forEach(m => {
+      const pos = m.replace(/<<|>>/g, '');
       const embed = embedMap[pos];
-      if (!embed) return match;
+      if (!embed) return;
+      
+      let embedHtml = '';
       if (embed.platform === 'youtube') {
-        const m = embed.url.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
-        if (m) return '<div class="video-embed"><iframe src="https://www.youtube.com/embed/' + m[1] + '" frameborder="0" allowfullscreen loading="lazy"></iframe></div>';
+        const r = embed.url.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
+        if (r) embedHtml = '<div class="video-embed"><iframe src="https://www.youtube.com/embed/' + r[1] + '" frameborder="0" allowfullscreen loading="lazy"></iframe></div>';
+      } else if (embed.platform === 'instagram') {
+        const r = embed.url.match(/instagram\.com\/(?:reel|p)\/([A-Za-z0-9_-]+)/);
+        if (r) embedHtml = '<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/' + r[1] + '/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote></div>';
+      } else if (embed.platform === 'tiktok') {
+        const r = embed.url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
+        if (r) embedHtml = '<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="' + embed.url + '" data-video-id="' + r[1] + '" style="width:100%;margin:0;"><section></section></blockquote></div>';
       }
-      if (embed.platform === 'instagram') {
-        const m = embed.url.match(/instagram\.com\/(?:reel|p)\/([A-Za-z0-9_-]+)/);
-        if (m) return '<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/' + m[1] + '/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote></div>';
+      
+      if (embedHtml) {
+        // 替換各種可能的編碼方式
+        html = html.replace('&lt;&lt;' + pos + '&gt;&gt;', embedHtml);
+        html = html.replace('<<' + pos + '>>', embedHtml);
       }
-      if (embed.platform === 'tiktok') {
-        const m = embed.url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
-        if (m) return '<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="' + embed.url + '" data-video-id="' + m[1] + '" style="width:100%;margin:0;"><section></section></blockquote></div>';
-      }
-      return match;
     });
+    p.outerHTML = html;
   });
 });
 </script>
+
   <Footer />
 </body>
 </html>
