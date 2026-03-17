@@ -109,6 +109,9 @@ export function remarkBlocks(embedMap = {}) {
             });
             newValue = newValue.replace(/\[([^\]]+)\]/g, function(match, position) {
               return '<span class="video-placeholder" data-position="' + position + '"></span>';
+            newValue = newValue.replace(/VIDEOID:(\S+)/g, function(match, position) {
+  return '<span class="video-placeholder" data-position="' + position + '"></span>';
+});  
 });
             return Object.assign({}, child, { value: newValue });
           }
