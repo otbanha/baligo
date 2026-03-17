@@ -7,10 +7,17 @@ import Header from '../components/Header.astro';
 import { getCollection } from 'astro:content';
 
 type Props = CollectionEntry<'blog'>['data'];
-const { title, description, pubDate, updatedDate, heroImage, category } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, category, embeds } = Astro.props;
 
 const allPosts = await getCollection('blog');
 
+// 建立影片嵌入對照表
+const embedMap: Record<string, {platform: string, url: string}> = {};
+if (embeds && Array.isArray(embeds)) {
+  embeds.forEach((e: any) => {
+    embedMap[e.position] = { platform: e.platform, url: e.url };
+  });
+}
 const categoryOrder = [
   '新手指南',
   '住宿推薦',

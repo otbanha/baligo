@@ -35,6 +35,21 @@ collections:
         required: false
       - { label: 原始網址, name: originalUrl, widget: string, required: false }
       - { label: 內文, name: body, widget: markdown }
+      - label: 影片嵌入
+        name: embeds
+        widget: list
+        required: false
+        summary: "{{fields.position}} - {{fields.url}}"
+        fields:
+          - { label: 插入位置標記, name: position, widget: string, hint: "在內文中輸入 <<video1>> <<video2>> 等標記" }
+          - label: 平台
+            name: platform
+            widget: select
+            options:
+              - { label: YouTube, value: youtube }
+              - { label: Instagram, value: instagram }
+              - { label: TikTok, value: tiktok }
+          - { label: 影片網址, name: url, widget: string }
 
   - name: blocks
     label: 內容區塊
