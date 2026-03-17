@@ -107,7 +107,7 @@ export function remarkBlocks(embedMap = {}) {
             newValue = newValue.replace(/\{\{block:([^}]+)\}\}/g, function(match, slug) {
               return processBlock(slug);
             });
-            newValue = newValue.replace(/<<([^>]+)>>/g, function(match, position) {
+            newValue = newValue.replace(/\[([^\]]+)\]/g, function(match, position) {
               return '<span class="video-placeholder" data-position="' + position + '"></span>';
 });
             return Object.assign({}, child, { value: newValue });
