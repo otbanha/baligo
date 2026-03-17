@@ -16,6 +16,9 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     sort_field: pubDate
     sort_direction: Descending
+    sortable_fields:
+      - pubDate
+      - title
     fields:
       - { label: 標題, name: title, widget: string }
       - { label: 描述, name: description, widget: text, required: false }
