@@ -143,7 +143,7 @@ const randomPosts = [...randomArea, ...randomAccom].sort(() => Math.random() - 0
 </html>
 
 <style>
-.prose :global(.yt-embed) {
+.prose :global(.video-embed) {
   position: relative;
   width: 100%;
   aspect-ratio: 16/9;
@@ -152,11 +152,18 @@ const randomPosts = [...randomArea, ...randomAccom].sort(() => Math.random() - 0
   overflow: hidden;
 }
 
-.prose :global(.yt-embed iframe) {
+.prose :global(.video-embed iframe) {
   position: absolute;
   top: 0; left: 0;
   width: 100%;
   height: 100%;
+}
+
+.prose :global(.video-embed--ig),
+.prose :global(.video-embed--tt) {
+  aspect-ratio: unset;
+  max-width: 540px;
+  margin: 1.5em auto;
 }
 
 .layout {

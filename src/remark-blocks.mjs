@@ -59,8 +59,30 @@ export function remarkBlocks() {
       return block.content;
     }
 
-    function processYoutube(id) {
-      return `<div class="yt-embed"><iframe src="https://www.youtube.com/embed/${id.trim()}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe></div>`;
+    function processVideo(url) {
+      url = url.trim();
+
+      // YouTube
+      const ytMatch = url.match(
+        /(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/
+      );
+      if (ytMatch) {
+        return `<div class="video-embed"><iframe src="https://www.youtube.com/embed/${ytMatch[1]}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe></div>`;
+      }
+
+      // Instagram
+      const igMatch = url.match(/instagram\.com\/(?:reel|p)\/([A-Za-z0-9_-]+)/);
+      if (igMatch) {
+        return `<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/${igMatch[1]}/" data-instgrm-version="14" style="width:100%;margin:0;"><a href="https://www.instagram.com/p/${igMatch[1]}/">Instagram 影片</a></blockquote><script async src="//www.instagram.com/embed.js"></script></div>`;
+      }
+
+      // TikTok
+      const ttMatch = url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
+      if (ttMatch) {
+        return `<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="${url}" data-video-id="${ttMatch[1]}" style="width:100%;margin:0;"><section></section></blockquote><script async src="https://www.tiktok.com/embed.js"></script></div>`;
+      }
+
+      return `<a href="${url}" target="_blank" rel="noopener">${url}</a>`;
     }
 
     function visit(node) {
@@ -75,10 +97,10 @@ export function remarkBlocks() {
               (match, slug) => processBlock(slug)
             );
 
-            // 處理 ::youtube:ID::
+            // 處理 ::video::URL
             newValue = newValue.replace(
-              /::youtube:([^:]+)::/g,
-              (match, id) => processYoutube(id)
+              /::video::(\S+)/g,
+              (match, url) => processVideo(url)
             );
 
             return { ...child, value: newValue };
