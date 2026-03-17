@@ -31,6 +31,7 @@ collections:
         required: false
       - { label: 原始網址, name: originalUrl, widget: string, required: false }
       - { label: 內文, name: body, widget: markdown }
+
   - name: blocks
     label: 內容區塊
     folder: src/content/blocks
@@ -38,4 +39,18 @@ collections:
     slug: "{{slug}}"
     fields:
       - { label: 區塊名稱, name: title, widget: string }
+      - label: 區塊類型
+        name: type
+        widget: select
+        options:
+          - { label: 一般內容, value: normal }
+          - { label: 卡片網格（亂數）, value: random-cards }
+          - { label: 文字列表（亂數）, value: random-list }
+        default: normal
+      - label: 亂數顯示數量
+        name: randomCount
+        widget: number
+        default: 5
+        required: false
+        hint: "只有亂數類型才需要填，例如從20個項目中隨機顯示5個"
       - { label: 內容, name: body, widget: markdown }
