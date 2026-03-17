@@ -1,19 +1,19 @@
 #!/usr/bin/env python3
 """
-重新抓取 vocus 高解析度圖片並更新 R2
+重新抓取 vocus 高解析度圖片並更新 R2 (Playwright 版)
 """
 
-import os, re, time, requests, boto3, json
+import os, re, time, requests, boto3, asyncio
 from pathlib import Path
-from bs4 import BeautifulSoup
+from playwright.async_api import async_playwright
 
 # ===== 設定 =====
 CF_ACCOUNT_ID = "8539451c59b0447bc90fea01f29d10c8"
-CF_API_TOKEN = "RPzv_OhlpvgzYHly08Zwrj55ohizVc8CB8HUetfG"
 R2_BUCKET = "baligo-image"
 R2_PUBLIC_URL = "https://pub-2ae820f1a8d646cda6ce17cdbe17e954.r2.dev"
 BLOG_DIR = "src/content/blog"
 TMP_DIR = "/tmp/baligo_hq"
+MIN_SIZE = 50000  # 最小 50KB 才算真實圖片
 # ================
 
 os.makedirs(TMP_DIR, exist_ok=True)
@@ -24,7 +24,6 @@ HEADERS = {
     'Referer': 'https://vocus.cc/'
 }
 
-# 連接 R2
 s3 = boto3.client(
     's3',
     endpoint_url=f'https://{CF_ACCOUNT_ID}.r2.cloudflarestorage.com',
@@ -32,45 +31,41 @@ s3 = boto3.client(
     aws_secret_access_key=os.environ.get('R2_SECRET_KEY'),
 )
 
-def get_original_image_url(vocus_url):
-    """從 vocus 文章頁面抓取原始高解析度圖片 URL"""
+def check_r2_image_size(r2_key):
+    """檢查 R2 上的圖片大小"""
     try:
-        res = requests.get(vocus_url, headers=HEADERS, timeout=15)
-        soup = BeautifulSoup(res.text, 'html.parser')
-        
-        # 找所有圖片
-        images = []
-        
-        # 方法1: 找 og:image
-        og = soup.find('meta', property='og:image')
-        if og:
-            url = og.get('content', '')
+        resp = s3.head_object(Bucket=R2_BUCKET, Key=r2_key)
+        return resp['ContentLength']
+    except:
+        return 0
+
+async def get_image_url_playwright(browser, vocus_url):
+    """用 Playwright 抓取 vocus 文章的原始圖片 URL"""
+    try:
+        page = await browser.new_page()
+        await page.goto(vocus_url, wait_until="networkidle", timeout=20000)
+
+        # 抓 og:image
+        og_image = await page.evaluate('''() => {
+            const meta = document.querySelector('meta[property="og:image"]');
+            return meta ? meta.getAttribute('content') : null;
+        }''')
+
+        await page.close()
+
+        if og_image:
             # 如果是 resize URL，提取原始 URL
-            if 'resize-image.vocus.cc' in url:
-                match = re.search(r'url=([^&]+)', url)
+            if 'resize-image.vocus.cc' in og_image:
+                match = re.search(r'url=([^&]+)', og_image)
                 if match:
                     import urllib.parse
-                    url = urllib.parse.unquote(match.group(1))
-            if 'images.vocus.cc' in url:
-                images.append(url)
-        
-        # 方法2: 找文章內所有 images.vocus.cc 圖片
-        for img in soup.find_all('img'):
-            src = img.get('src', '')
-            if 'images.vocus.cc' in src:
-                # 移除 resize 參數，取原圖
-                if 'resize-image.vocus.cc' in src:
-                    match = re.search(r'url=([^&]+)', src)
-                    if match:
-                        import urllib.parse
-                        src = urllib.parse.unquote(match.group(1))
-                images.append(src)
-        
-        return images[0] if images else None
-        
+                    og_image = urllib.parse.unquote(match.group(1))
+            if 'images.vocus.cc' in og_image:
+                return og_image
+
     except Exception as e:
-        print(f"  ❌ 抓取失敗: {e}")
-        return None
+        print(f"  ⚠️ Playwright 錯誤: {e}")
+    return None
 
 def download_image(url, filepath):
     """下載圖片"""
@@ -80,11 +75,10 @@ def download_image(url, filepath):
             with open(filepath, 'wb') as f:
                 for chunk in res.iter_content(8192):
                     f.write(chunk)
-            size = os.path.getsize(filepath)
-            return size > 10000  # 至少要 10KB 才算成功
+            return os.path.getsize(filepath)
     except Exception as e:
         print(f"  ❌ 下載失敗: {e}")
-    return False
+    return 0
 
 def upload_to_r2(filepath, r2_key):
     """上傳到 R2"""
@@ -115,88 +109,102 @@ def update_markdown_heroimage(md_path, new_url):
     with open(md_path, 'w', encoding='utf-8') as f:
         f.write(new_content)
 
-def main():
+async def main():
     print("=" * 50)
-    print("🌴 Vocus 高解析度圖片重新下載工具")
+    print("🌴 Vocus 高解析度圖片重新下載工具 v2")
     print("=" * 50)
 
-    # 讀取所有文章
     md_files = list(Path(BLOG_DIR).glob('*.md'))
-    print(f"📂 共找到 {len(md_files)} 篇文章\n")
+    print(f"📂 共找到 {len(md_files)} 篇文章")
 
-    success = 0
-    skipped = 0
-    failed = 0
-
-    for i, md_path in enumerate(md_files, 1):
+    # 找出需要更新的文章（R2 圖片小於 50KB）
+    need_update = []
+    print("🔍 檢查哪些圖片需要更新...")
+    for md_path in md_files:
         with open(md_path, 'r', encoding='utf-8') as f:
             content = f.read()
 
-        # 找 originalUrl
         url_match = re.search(r'originalUrl:\s*"(https://vocus\.cc/article/[^"]+)"', content)
-        if not url_match:
-            skipped += 1
+        hero_match = re.search(r'heroImage:\s*"([^"]*r2\.dev/([^"]+))"', content)
+
+        if not url_match or not hero_match:
             continue
 
-        vocus_url = url_match.group(1)
-        article_id = vocus_url.split('/')[-1]
+        r2_key = hero_match.group(2)
+        size = check_r2_image_size(r2_key)
 
-        # 找目前的 heroImage
-        hero_match = re.search(r'heroImage:\s*"([^"]*)"', content)
-        current_hero = hero_match.group(1) if hero_match else ''
+        if size < MIN_SIZE:
+            need_update.append({
+                'md_path': md_path,
+                'vocus_url': url_match.group(1),
+                'r2_key': r2_key,
+                'current_size': size,
+            })
 
-        print(f"[{i}/{len(md_files)}] {article_id[:20]}...", end=' ', flush=True)
+    print(f"⚠️  需要更新：{len(need_update)} 篇\n")
 
-        # 從 vocus 抓原始圖片 URL
-        orig_url = get_original_image_url(vocus_url)
-        if not orig_url:
-            print("⚠️ 找不到圖片")
-            failed += 1
-            time.sleep(1)
-            continue
+    if not need_update:
+        print("✅ 所有圖片都已是高解析度！")
+        return
 
-        # 下載圖片
-        ext = '.jpg' if orig_url.endswith('.jpeg') or orig_url.endswith('.jpg') else '.png'
-        tmp_file = f"{TMP_DIR}/{article_id}{ext}"
-        
-        if not download_image(orig_url, tmp_file):
-            print("❌ 下載失敗")
-            failed += 1
-            time.sleep(1)
-            continue
+    success = 0
+    failed = 0
 
-        # 找 R2 的 key（從現有 heroImage URL 取）
-        if 'r2.dev/vocus/' in current_hero:
-            r2_key = 'vocus/' + current_hero.split('/vocus/')[-1]
-            # 確保副檔名一致
-            r2_key = re.sub(r'\.[^.]+$', ext, r2_key)
-        else:
-            r2_key = f"vocus/vocus_{article_id}{ext}"
+    async with async_playwright() as p:
+        browser = await p.chromium.launch(headless=True)
 
-        # 上傳到 R2
-        if not upload_to_r2(tmp_file, r2_key):
-            print("❌ 上傳失敗")
-            failed += 1
-            time.sleep(1)
-            continue
+        for i, item in enumerate(need_update, 1):
+            md_path = item['md_path']
+            vocus_url = item['vocus_url']
+            r2_key = item['r2_key']
+            article_id = vocus_url.split('/')[-1]
 
-        # 更新 markdown
-        new_hero_url = f"{R2_PUBLIC_URL}/{r2_key}"
-        update_markdown_heroimage(md_path, new_hero_url)
+            print(f"[{i}/{len(need_update)}] {article_id[:20]}...", end=' ', flush=True)
 
-        file_size = os.path.getsize(tmp_file) // 1024
-        print(f"✅ {file_size}KB")
-        success += 1
+            # 用 Playwright 抓圖片 URL
+            orig_url = await get_image_url_playwright(browser, vocus_url)
+            if not orig_url:
+                print("⚠️ 找不到圖片")
+                failed += 1
+                continue
 
-        # 清理暫存
-        os.remove(tmp_file)
-        time.sleep(1.5)
+            # 下載圖片
+            ext = '.png' if orig_url.endswith('.png') else '.jpg'
+            tmp_file = f"{TMP_DIR}/{article_id}{ext}"
+            size = download_image(orig_url, tmp_file)
+
+            if size < 1000:
+                print(f"❌ 下載失敗 ({size} bytes)")
+                failed += 1
+                continue
+
+            # 上傳到 R2
+            final_key = re.sub(r'\.[^.]+$', ext, r2_key)
+            if not upload_to_r2(tmp_file, final_key):
+                print("❌ 上傳失敗")
+                failed += 1
+                continue
+
+            # 更新 markdown
+            new_hero_url = f"{R2_PUBLIC_URL}/{final_key}"
+            update_markdown_heroimage(md_path, new_hero_url)
+
+            print(f"✅ {size//1024}KB")
+            success += 1
+
+            os.remove(tmp_file)
+            await asyncio.sleep(1.5)
+
+        await browser.close()
 
     print("\n" + "=" * 50)
     print(f"✅ 成功：{success} 篇")
-    print(f"⚠️  略過：{skipped} 篇（無 originalUrl）")
     print(f"❌ 失敗：{failed} 篇")
     print("=" * 50)
 
+    if success > 0:
+        print("\n💡 記得執行:")
+        print("   git add . && git commit -m '更新高解析度圖片' && git push")
+
 if __name__ == "__main__":
-    main()
+    asyncio.run(main())
