@@ -59,14 +59,28 @@ export function remarkBlocks() {
       return block.content;
     }
 
+    function processYoutube(id) {
+      return `<div class="yt-embed"><iframe src="https://www.youtube.com/embed/${id.trim()}" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen loading="lazy"></iframe></div>`;
+    }
+
     function visit(node) {
       if (node.type === 'paragraph' && node.children) {
         node.children = node.children.map(child => {
-          if (child.type === 'text' && child.value.includes('{{block:')) {
-            const newValue = child.value.replace(
+          if (child.type === 'text') {
+            let newValue = child.value;
+
+            // 處理 {{block:slug}}
+            newValue = newValue.replace(
               /\{\{block:([^}]+)\}\}/g,
               (match, slug) => processBlock(slug)
             );
+
+            // 處理 ::youtube:ID::
+            newValue = newValue.replace(
+              /::youtube:([^:]+)::/g,
+              (match, id) => processYoutube(id)
+            );
+
             return { ...child, value: newValue };
           }
           return child;
