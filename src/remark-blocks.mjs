@@ -108,10 +108,8 @@ export function remarkBlocks(embedMap = {}) {
               return processBlock(slug);
             });
             newValue = newValue.replace(/<<([^>]+)>>/g, function(match, position) {
-              const embed = embedMap[position];
-              if (embed) return renderEmbed(embed.platform, embed.url);
-              return match;
-            });
+              return '<span class="video-placeholder" data-position="' + position + '"></span>';
+});
             return Object.assign({}, child, { value: newValue });
           }
           return child;

@@ -140,39 +140,28 @@ const randomPosts = [...randomArea, ...randomAccom].sort(() => Math.random() - 0
   </div>
 <script define:vars={{ embedMap }}>
 document.addEventListener('DOMContentLoaded', () => {
-  const prose = document.querySelector('.prose');
-  if (!prose) return;
-  
-  prose.querySelectorAll('p').forEach(p => {
-    const text = p.textContent || '';
-    const matches = text.match(/<<([^>]+)>>/g);
-    if (!matches) return;
-    
-    let html = p.innerHTML;
-    matches.forEach(m => {
-      const pos = m.replace(/<<|>>/g, '');
-      const embed = embedMap[pos];
-      if (!embed) return;
-      
-      let embedHtml = '';
-      if (embed.platform === 'youtube') {
-        const r = embed.url.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
-        if (r) embedHtml = '<div class="video-embed"><iframe src="https://www.youtube.com/embed/' + r[1] + '" frameborder="0" allowfullscreen loading="lazy"></iframe></div>';
-      } else if (embed.platform === 'instagram') {
-        const r = embed.url.match(/instagram\.com\/(?:reel|p)\/([A-Za-z0-9_-]+)/);
-        if (r) embedHtml = '<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/' + r[1] + '/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote></div>';
-      } else if (embed.platform === 'tiktok') {
-        const r = embed.url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
-        if (r) embedHtml = '<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="' + embed.url + '" data-video-id="' + r[1] + '" style="width:100%;margin:0;"><section></section></blockquote></div>';
-      }
-      
-      if (embedHtml) {
-        // 替換各種可能的編碼方式
-        html = html.replace('&lt;&lt;' + pos + '&gt;&gt;', embedHtml);
-        html = html.replace('<<' + pos + '>>', embedHtml);
-      }
-    });
-    p.outerHTML = html;
+  document.querySelectorAll('.video-placeholder').forEach(el => {
+    const pos = el.getAttribute('data-position');
+    const embed = embedMap[pos];
+    if (!embed) return;
+
+    let embedHtml = '';
+    if (embed.platform === 'youtube') {
+      const r = embed.url.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
+      if (r) embedHtml = '<div class="video-embed"><iframe src="https://www.youtube.com/embed/' + r[1] + '" frameborder="0" allowfullscreen loading="lazy"></iframe></div>';
+    } else if (embed.platform === 'instagram') {
+      const r = embed.url.match(/instagram\.com\/(?:reel|p)\/([A-Za-z0-9_-]+)/);
+      if (r) embedHtml = '<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/' + r[1] + '/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote></div>';
+    } else if (embed.platform === 'tiktok') {
+      const r = embed.url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
+      if (r) embedHtml = '<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="' + embed.url + '" data-video-id="' + r[1] + '" style="width:100%;margin:0;"><section></section></blockquote></div>';
+    }
+
+    if (embedHtml) {
+      const div = document.createElement('div');
+      div.innerHTML = embedHtml;
+      el.parentNode.replaceChild(div.firstChild, el);
+    }
   });
 });
 </script>
