@@ -1,8 +1,10 @@
 import { defineConfig } from 'astro/config';
 import { remarkBlocks } from './src/remark-blocks.mjs';
+import sitemap from '@astrojs/sitemap';
 
 export default defineConfig({
-  site: 'https://你的網域.com',
+  site: 'https://gobaligo.id',
+  integrations: [sitemap()],
   markdown: {
     remarkPlugins: [[remarkBlocks, {}]],
   },
