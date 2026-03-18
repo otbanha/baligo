@@ -55,7 +55,6 @@ return (tree) => {
     }
     return '<li>' + i + '</li>';
   }).join('') + '</ul>';
-}
         }
 
         if (block.type === 'random-cards') {
