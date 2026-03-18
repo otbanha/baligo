@@ -1,15 +1,10 @@
+cat > ~/baligo/src/remark-blocks.mjs << 'ENDOFFILE'
 import { readFileSync, readdirSync } from 'fs';
 import { join } from 'path';
 import matter from 'gray-matter';
 
 export function remarkBlocks(embedMap = {}) {
 return (tree) => {
-    const allText = JSON.stringify(tree);
-    const idx = allText.indexOf('VIDEO');
-    if (idx > -1) console.log('FOUND AT:', allText.substring(idx-10, idx+50));
-    console.log('TREE SAMPLE:', allText.substring(0, 200));
-    const str = JSON.stringify(tree);
-    if (str.includes('VIDEOID')) console.log('TREE HAS VIDEOID');
     const blocksDir = join(process.cwd(), 'src/content/blocks');
     let blocks = {};
 
@@ -24,6 +19,7 @@ return (tree) => {
           type: data.type || 'normal',
           randomCount: data.randomCount || 5,
           content: content.trim(),
+          title: data.title || '',
         };
       }
     } catch (e) {
@@ -33,9 +29,10 @@ return (tree) => {
     function processBlock(slug) {
       const block = blocks[slug.trim()];
       if (!block) return '[區塊不存在: ' + slug + ']';
+      const heading = block.title ? '<h4>' + block.title + '</h4>' : '';
 
       if (block.type === 'normal') {
-        return block.content;
+        return heading + block.content;
       }
 
       if (block.type === 'random-cards' || block.type === 'random-list') {
@@ -48,17 +45,17 @@ return (tree) => {
         const shuffled = items.sort(() => Math.random() - 0.5).slice(0, count);
 
         if (block.type === 'random-list') {
-  return '<ul>' + shuffled.map(i => {
-    const match = i.match(/\[([^\]]+)\]\(([^)]+)\)/);
-    if (match) {
-      return '<li><a href="' + match[2] + '">' + match[1] + '</a></li>';
-    }
-    return '<li>' + i + '</li>';
-  }).join('') + '</ul>';
+          return heading + '<ul>' + shuffled.map(i => {
+            const match = i.match(/\[([^\]]+)\]\(([^)]+)\)/);
+            if (match) {
+              return '<li><a href="' + match[2] + '">' + match[1] + '</a></li>';
+            }
+            return '<li>' + i + '</li>';
+          }).join('') + '</ul>';
         }
 
         if (block.type === 'random-cards') {
-          return '<div class="block-cards">' + shuffled.map(i => {
+          return heading + '<div class="block-cards">' + shuffled.map(i => {
             const match = i.match(/\[([^\]]+)\]\(([^)]+)\)/);
             if (match) {
               return '<a href="' + match[2] + '" class="block-card">' + match[1] + '</a>';
@@ -68,39 +65,12 @@ return (tree) => {
         }
       }
 
-      return block.content;
-    }
-
-    function renderEmbed(platform, url) {
-      const s = '<' + 'script';
-      const e = '</' + 'script>';
-      if (platform === 'youtube') {
-        const match = url.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
-        const id = match ? match[1] : url;
-        return '<div class="video-embed"><iframe src="https://www.youtube.com/embed/' + id + '" frameborder="0" allowfullscreen loading="lazy"></iframe></div>';
-      }
-      if (platform === 'instagram') {
-        const match = url.match(/instagram\.com\/(?:reel|p)\/([A-Za-z0-9_-]+)/);
-        const id = match ? match[1] : '';
-        return '<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/' + id + '/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote>' + s + ' async src="//www.instagram.com/embed.js">' + e + '</div>';
-      }
-      if (platform === 'tiktok') {
-        const match = url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
-        const id = match ? match[1] : '';
-        return '<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="' + url + '" data-video-id="' + id + '" style="width:100%;margin:0;"><section></section></blockquote>' + s + ' async src="https://www.tiktok.com/embed.js">' + e + '</div>';
-      }
-      return '<a href="' + url + '" target="_blank">' + url + '</a>';
+      return heading + block.content;
     }
 
     function visit(node) {
-        if (node.type === 'text' && node.value && node.value.includes('VIDEOID')) {
-    console.log('TOP LEVEL VIDEOID:', node.value);
-  }
-  if (node.type === 'paragraph' && node.children) {
-    node.children.forEach(c => {
-      if (JSON.stringify(c).includes('VIDEOID')) console.log('NODE WITH VIDEOID:', JSON.stringify(c));
-    });
-    node.children = node.children.map(child => {
+      if (node.type === 'paragraph' && node.children) {
+        node.children = node.children.map(child => {
           if (child.type === 'link' && child.children && child.children[0] && child.children[0].value === 'video') {
             const url = child.url;
             const ytMatch = url.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
@@ -122,25 +92,19 @@ return (tree) => {
           }
           if (child.type === 'text') {
             let newValue = child.value;
-            if (newValue.includes('VIDEOID')) console.log('FOUND VIDEOID:', newValue);
             let hasVideo = false;
             newValue = newValue.replace(/\{\{block:([^}]+)\}\}/g, function(match, slug) {
               hasVideo = true;
               return processBlock(slug);
             });
-            newValue = newValue.replace(/<<([^>]+)>>/g, function(match, position) {
+            newValue = newValue.replace(/<<(video\d+)>>/g, function(match) {
               hasVideo = true;
               return '<span class="video-placeholder" data-position="' + match + '"></span>';
-            });
-            newValue = newValue.replace(/VIDEOID:(\S+)/g, function(match, position) {
-              hasVideo = true;
-              return '<span class="video-placeholder" data-position="' + position + '"></span>';
             });
             if (hasVideo) {
               return { type: 'html', value: newValue };
             }
             return Object.assign({}, child, { value: newValue });
-return Object.assign({}, child, { value: newValue });
           }
           return child;
         });
@@ -150,3 +114,4 @@ return Object.assign({}, child, { value: newValue });
     visit(tree);
   };
 }
+ENDOFFILE
