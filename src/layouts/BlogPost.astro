@@ -55,6 +55,18 @@ const getRandomPosts = (categoryName: string, count: number) => {
 const randomArea = getRandomPosts('峇里島分區攻略', 5);
 const randomAccom = getRandomPosts('住宿推薦', 4);
 const randomPosts = [...randomArea, ...randomAccom].sort(() => Math.random() - 0.5).slice(0, 9);
+
+// 促銷活動：過濾未過期的
+const allPromos = await getCollection('promotions');
+const now = new Date();
+const activePromos = allPromos.filter(p =>
+  !p.data.expiresAt || p.data.expiresAt > now
+);
+const promosJson = JSON.stringify(activePromos.map(p => ({
+  title: p.data.title,
+  url: p.data.url,
+  coverImage: p.data.coverImage || null,
+})));
 ---
 
 <html lang="zh-TW">
@@ -87,6 +99,15 @@ const randomPosts = [...randomArea, ...randomAccom].sort(() => Math.random() - 0
           ))}
         </ul>
       </div>
+
+      {activePromos.length > 0 && (
+        <div class="sidebar-section">
+          <h3 class="sidebar-title">🎯 優惠推薦</h3>
+          <div id="promo-block">
+            <!-- 由 JS 動態插入 -->
+          </div>
+        </div>
+      )}
     </aside>
 
     <main>
@@ -138,7 +159,9 @@ const randomPosts = [...randomArea, ...randomAccom].sort(() => Math.random() - 0
     </main>
 
   </div>
-<script define:vars={{ embedMap }}>
+
+<script define:vars={{ embedMap, promosJson }}>
+// 影片嵌入
 document.addEventListener('DOMContentLoaded', () => {
   document.querySelectorAll('.video-placeholder').forEach(el => {
     const pos = el.getAttribute('data-position');
@@ -163,6 +186,26 @@ document.addEventListener('DOMContentLoaded', () => {
       el.parentNode.replaceChild(div.firstChild, el);
     }
   });
+
+  // 促銷區塊：隨機挑一個顯示
+  const promos = JSON.parse(promosJson);
+  if (promos.length === 0) return;
+
+  const promo = promos[Math.floor(Math.random() * promos.length)];
+  const block = document.getElementById('promo-block');
+  if (!block) return;
+
+  block.innerHTML = `
+    <a href="${promo.url}" target="_blank" rel="noopener" class="promo-card">
+      ${promo.coverImage
+        ? `<div class="promo-image"><img src="${promo.coverImage}" alt="${promo.title}" loading="lazy" /></div>`
+        : ''}
+      <div class="promo-body">
+        <p class="promo-title">${promo.title}</p>
+        <span class="promo-cta">查看優惠 →</span>
+      </div>
+    </a>
+  `;
 });
 </script>
 
@@ -238,6 +281,56 @@ document.addEventListener('DOMContentLoaded', () => {
 
 .category-item.active .cat-count { background: rgba(255,255,255,0.15); color: var(--gold-light); }
 
+/* 促銷卡片 */
+.promo-card {
+  display: block;
+  text-decoration: none;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid rgba(201, 168, 76, 0.3);
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: var(--white);
+}
+
+.promo-card:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(10, 22, 40, 0.1);
+}
+
+.promo-image {
+  aspect-ratio: 16/9;
+  overflow: hidden;
+  background: var(--ocean-mid);
+}
+
+.promo-image img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.promo-body {
+  padding: 0.7em 0.8em;
+}
+
+.promo-title {
+  font-size: 0.82em;
+  font-weight: 600;
+  color: var(--ocean);
+  margin: 0 0 0.4em;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.promo-cta {
+  font-size: 0.75em;
+  font-weight: 700;
+  color: var(--gold);
+}
+
 main {
   padding: 2em 2.5em;
   max-width: 780px;
@@ -272,6 +365,7 @@ hr { margin: 1.2em 0 1.8em; }
 
 .prose :global(h3) { font-size: 1.05em; font-weight: 700; color: var(--ocean-light); margin-top: 1.5em; margin-bottom: 0.5em; }
 .prose :global(h4) { font-size: 1em; font-weight: 700; color: var(--text); margin-top: 1.2em; }
+
 /* 影片嵌入 */
 .prose :global(.video-embed) {
   position: relative;
@@ -295,6 +389,7 @@ hr { margin: 1.2em 0 1.8em; }
   max-width: 540px;
   margin: 1.5em auto;
 }
+
 /* 推薦文章 */
 .related-posts {
   margin-top: 3em;

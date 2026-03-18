@@ -28,4 +28,15 @@ const blocks = defineCollection({
   }),
 });
 
-export const collections = { blog, blocks };
+const promotions = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    url: z.string(),
+    coverImage: z.string().optional(),
+    note: z.string().optional(),
+    expiresAt: z.coerce.date().optional(),
+  }),
+});
+
+export const collections = { blog, blocks, promotions };
