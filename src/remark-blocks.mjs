@@ -123,22 +123,23 @@ return (tree) => {
           if (child.type === 'text') {
             let newValue = child.value;
             if (newValue.includes('VIDEOID')) console.log('FOUND VIDEOID:', newValue);
+            let hasVideo = false;
             newValue = newValue.replace(/\{\{block:([^}]+)\}\}/g, function(match, slug) {
               hasVideo = true;
               return processBlock(slug);
-          });
-            let hasVideo = false;
-newValue = newValue.replace(/<<([^>]+)>>/g, function(match, position) {
-  hasVideo = true;
-  return '<span class="video-placeholder" data-position="' + match + '"></span>';
-});            
-newValue = newValue.replace(/VIDEOID:(\S+)/g, function(match, position) {
-  hasVideo = true;
-  return '<span class="video-placeholder" data-position="' + position + '"></span>';
-});
-if (hasVideo) {
-  return { type: 'html', value: newValue };
-}
+            });
+            newValue = newValue.replace(/<<([^>]+)>>/g, function(match, position) {
+              hasVideo = true;
+              return '<span class="video-placeholder" data-position="' + match + '"></span>';
+            });
+            newValue = newValue.replace(/VIDEOID:(\S+)/g, function(match, position) {
+              hasVideo = true;
+              return '<span class="video-placeholder" data-position="' + position + '"></span>';
+            });
+            if (hasVideo) {
+              return { type: 'html', value: newValue };
+            }
+            return Object.assign({}, child, { value: newValue });
 return Object.assign({}, child, { value: newValue });
           }
           return child;
