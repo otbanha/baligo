@@ -124,8 +124,9 @@ return (tree) => {
             let newValue = child.value;
             if (newValue.includes('VIDEOID')) console.log('FOUND VIDEOID:', newValue);
             newValue = newValue.replace(/\{\{block:([^}]+)\}\}/g, function(match, slug) {
+              hasVideo = true;
               return processBlock(slug);
-            });
+          });
             let hasVideo = false;
 newValue = newValue.replace(/<<([^>]+)>>/g, function(match, position) {
   hasVideo = true;
