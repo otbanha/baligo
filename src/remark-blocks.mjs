@@ -48,7 +48,14 @@ return (tree) => {
         const shuffled = items.sort(() => Math.random() - 0.5).slice(0, count);
 
         if (block.type === 'random-list') {
-          return shuffled.map(i => '- ' + i).join('\n');
+  return '<ul>' + shuffled.map(i => {
+    const match = i.match(/\[([^\]]+)\]\(([^)]+)\)/);
+    if (match) {
+      return '<li><a href="' + match[2] + '">' + match[1] + '</a></li>';
+    }
+    return '<li>' + i + '</li>';
+  }).join('') + '</ul>';
+}
         }
 
         if (block.type === 'random-cards') {
