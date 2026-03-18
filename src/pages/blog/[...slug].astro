@@ -1,6 +1,9 @@
 ---
 import { type CollectionEntry, getCollection, render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
+import { readFileSync } from 'fs';
+import { join } from 'path';
+import matter from 'gray-matter';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
@@ -12,14 +15,22 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<'blog'>;
 
 const post = Astro.props;
-const { Content, remarkPluginFrontmatter } = await render(post);
+const { Content } = await render(post);
 
-// 建立影片嵌入對照表
-const embeds = post.data.embeds || [];
+// 直接讀取 markdown 檔案取得 embeds
+const mdPath = join(process.cwd(), 'src/content/blog', post.id + '.md');
+let rawEmbeds: any[] = [];
+try {
+  const raw = readFileSync(mdPath, 'utf-8');
+  const { data } = matter(raw);
+  rawEmbeds = data.embeds || [];
+} catch (e) {}
+
 const embedMap: Record<string, {platform: string, url: string}> = {};
-embeds.forEach((e: any) => {
+rawEmbeds.forEach((e: any) => {
   embedMap[e.position] = { platform: e.platform, url: e.url };
 });
+console.log('EMBEDS FROM FILE:', JSON.stringify(rawEmbeds));
 ---
 
 <BlogPost {...post.data} embedMap={embedMap}>

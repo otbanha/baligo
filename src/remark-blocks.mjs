@@ -3,7 +3,13 @@ import { join } from 'path';
 import matter from 'gray-matter';
 
 export function remarkBlocks(embedMap = {}) {
-  return (tree) => {
+return (tree) => {
+    const allText = JSON.stringify(tree);
+    const idx = allText.indexOf('VIDEO');
+    if (idx > -1) console.log('FOUND AT:', allText.substring(idx-10, idx+50));
+    console.log('TREE SAMPLE:', allText.substring(0, 200));
+    const str = JSON.stringify(tree);
+    if (str.includes('VIDEOID')) console.log('TREE HAS VIDEOID');
     const blocksDir = join(process.cwd(), 'src/content/blocks');
     let blocks = {};
 
@@ -60,8 +66,8 @@ export function remarkBlocks(embedMap = {}) {
     }
 
     function renderEmbed(platform, url) {
-      const scriptTag = '<' + 'script';
-      const closeScript = '</' + 'script>';
+      const s = '<' + 'script';
+      const e = '</' + 'script>';
       if (platform === 'youtube') {
         const match = url.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
         const id = match ? match[1] : url;
@@ -70,19 +76,25 @@ export function remarkBlocks(embedMap = {}) {
       if (platform === 'instagram') {
         const match = url.match(/instagram\.com\/(?:reel|p)\/([A-Za-z0-9_-]+)/);
         const id = match ? match[1] : '';
-        return '<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/' + id + '/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote>' + scriptTag + ' async src="//www.instagram.com/embed.js">' + closeScript + '</div>';
+        return '<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/' + id + '/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote>' + s + ' async src="//www.instagram.com/embed.js">' + e + '</div>';
       }
       if (platform === 'tiktok') {
         const match = url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
         const id = match ? match[1] : '';
-        return '<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="' + url + '" data-video-id="' + id + '" style="width:100%;margin:0;"><section></section></blockquote>' + scriptTag + ' async src="https://www.tiktok.com/embed.js">' + closeScript + '</div>';
+        return '<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="' + url + '" data-video-id="' + id + '" style="width:100%;margin:0;"><section></section></blockquote>' + s + ' async src="https://www.tiktok.com/embed.js">' + e + '</div>';
       }
       return '<a href="' + url + '" target="_blank">' + url + '</a>';
     }
 
     function visit(node) {
-      if (node.type === 'paragraph' && node.children) {
-        node.children = node.children.map(child => {
+        if (node.type === 'text' && node.value && node.value.includes('VIDEOID')) {
+    console.log('TOP LEVEL VIDEOID:', node.value);
+  }
+  if (node.type === 'paragraph' && node.children) {
+    node.children.forEach(c => {
+      if (JSON.stringify(c).includes('VIDEOID')) console.log('NODE WITH VIDEOID:', JSON.stringify(c));
+    });
+    node.children = node.children.map(child => {
           if (child.type === 'link' && child.children && child.children[0] && child.children[0].value === 'video') {
             const url = child.url;
             const ytMatch = url.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
@@ -104,16 +116,19 @@ export function remarkBlocks(embedMap = {}) {
           }
           if (child.type === 'text') {
             let newValue = child.value;
+            if (newValue.includes('VIDEOID')) console.log('FOUND VIDEOID:', newValue);
             newValue = newValue.replace(/\{\{block:([^}]+)\}\}/g, function(match, slug) {
               return processBlock(slug);
             });
-            newValue = newValue.replace(/\[([^\]]+)\]/g, function(match, position) {
-              return '<span class="video-placeholder" data-position="' + position + '"></span>';
-            newValue = newValue.replace(/VIDEOID:(\S+)/g, function(match, position) {
+            let hasVideo = false;
+newValue = newValue.replace(/VIDEOID:(\S+)/g, function(match, position) {
+  hasVideo = true;
   return '<span class="video-placeholder" data-position="' + position + '"></span>';
-});  
 });
-            return Object.assign({}, child, { value: newValue });
+if (hasVideo) {
+  return { type: 'html', value: newValue };
+}
+return Object.assign({}, child, { value: newValue });
           }
           return child;
         });
