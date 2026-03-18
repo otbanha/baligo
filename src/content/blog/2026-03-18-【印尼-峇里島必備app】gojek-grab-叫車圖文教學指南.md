@@ -9,7 +9,7 @@ description: |-
 pubDate: 2026-03-18T19:01:00
 category:
   - 叫車包車
-heroImage: ''
+heroImage: https://images.vocus.cc/cb9d5db8-8fc4-4684-989a-41a5dba88ea9.png
 tags:
   - 峇里島, Bali Grab, Bali Gojek, 峇里島叫車, 峇里島網約車
 originalUrl: ''
@@ -35,9 +35,6 @@ embeds:
 
 以下是為您整理的 step-by-step 使用指南，幫助您快速上手：
 
-
-
-
 **第一步：出發前先註冊（關鍵！）**
 
 這兩款 App 都需要**簡訊驗證碼 (OTP)** 才能完成註冊。
@@ -57,8 +54,10 @@ embeds:
 不論哪一款 App，操作邏輯完全大同小異：
 
 1. **選擇服務：**
+
     - 機車 (Bike)： 適合單人、趕時間（塞車時）、短程。Gojek 叫 GoRide，Grab 叫 GrabBike。
     - 汽車 (Car)： 適合多人、有行李、想吹冷氣。Gojek 叫 GoCar，Grab 叫 GrabCar。
+
 2. **設定目的地 (Where to)：** 輸入地點名稱或直接在地圖上插大頭針。
 3. **確認上車點 (Pick-up point)：** 系統會自動定位，但建議手動檢查，確保司機能找到你。
 4. **查看價格：** 系統會跳出確定的總金額（明碼實價，不用跳錶或喊價）。
@@ -74,9 +73,9 @@ embeds:
 - **翻譯功能：** Grab 內建自動翻譯，司機傳印尼文會自動轉成英文/中文；Gojek 則可能需要簡單的英文溝通。
 - **常用接人地點表達**：
 
-1. 在大門/At the main gate：Di pintu utama 
-2. 在XX便利商店/At XX convenient store：Di mini mart XX 
-3. 在XX商店/At XX store：Di toko XX 
+1. 在大門/At the main gate：Di pintu utama
+2. 在XX便利商店/At XX convenient store：Di mini mart XX
+3. 在XX商店/At XX store：Di toko XX
 4. 在門牌XX號接我/pick me up at number XX：jemput saya di nomor XX
 
 **第五步：抵達與評分**
@@ -96,10 +95,7 @@ embeds:
 · 爭議焦點：在巴杜爾湖 (Lake Batur)、松干村 (Songan Village) 周邊，線上叫車被指壓低了當地司機的報價，引發了當地旅遊交通協會的強烈反對。
 · 近期政策：根據2025年初的報導，峇里島當局也推出了新規定，要求網約車司機必須持有峇里島身份證 (KTP) 和使用本地車牌，以保護本地司機的權益。
 
-
 ![raw-image](https://resize-image.vocus.cc/resize?norotation=true&quality=80&url=https%3A%2F%2Fimages.vocus.cc%2Fef7bff42-4412-4e2c-aac5-eeac5bc899da.jpg&width=740&sign=GEzs22Q-ukS8MscThjTTy5UZtwB-j5JE_32N3KrqQ4c)
-
-
 
 ### 🚗 對遊客的實際影響與建
 
