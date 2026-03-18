@@ -1,4 +1,3 @@
-cat > ~/baligo/src/remark-blocks.mjs << 'ENDOFFILE'
 import { readFileSync, readdirSync } from 'fs';
 import { join } from 'path';
 import matter from 'gray-matter';
@@ -93,7 +92,7 @@ return (tree) => {
           if (child.type === 'text') {
             let newValue = child.value;
             let hasVideo = false;
-            newValue = newValue.replace(/\{\{block:([^}]+)\}\}/g, function(match, slug) {
+            newValue = newValue.replace(/{{block:([^}]+)}}/g, function(match, slug) {
               hasVideo = true;
               return processBlock(slug);
             });
@@ -114,4 +113,3 @@ return (tree) => {
     visit(tree);
   };
 }
-ENDOFFILE
