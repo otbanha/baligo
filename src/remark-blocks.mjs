@@ -121,6 +121,10 @@ return (tree) => {
               return processBlock(slug);
             });
             let hasVideo = false;
+newValue = newValue.replace(/<<([^>]+)>>/g, function(match, position) {
+  hasVideo = true;
+  return '<span class="video-placeholder" data-position="' + match + '"></span>';
+});            
 newValue = newValue.replace(/VIDEOID:(\S+)/g, function(match, position) {
   hasVideo = true;
   return '<span class="video-placeholder" data-position="' + position + '"></span>';
