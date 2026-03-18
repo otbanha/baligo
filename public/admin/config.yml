@@ -19,6 +19,7 @@ collections:
     sortable_fields:
       - pubDate
       - title
+    summary: "{{title}} — /blog/{{slug}}/"
     fields:
       - { label: 標題, name: title, widget: string }
       - { label: 描述, name: description, widget: text, required: false }
@@ -50,6 +51,21 @@ collections:
               - { label: Instagram, value: instagram }
               - { label: TikTok, value: tiktok }
           - { label: 影片網址, name: url, widget: string }
+
+  - name: promotions
+    label: 促銷活動
+    folder: src/content/promotions
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    sort_field: expiresAt
+    sort_direction: Ascending
+    summary: "{{title}} — 截止：{{expiresAt}}"
+    fields:
+      - { label: 標題（自動抓取後可修改）, name: title, widget: string }
+      - { label: 連結網址, name: url, widget: string }
+      - { label: 封面圖網址（自動抓取後可修改）, name: coverImage, widget: string, required: false }
+      - { label: 備注（內部用）, name: note, widget: text, required: false }
+      - { label: 截止日期, name: expiresAt, widget: datetime, required: false, hint: "不填表示長期有效" }
 
   - name: blocks
     label: 內容區塊
