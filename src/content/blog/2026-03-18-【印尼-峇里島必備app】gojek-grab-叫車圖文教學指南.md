@@ -19,19 +19,13 @@ embeds:
     url: https://youtu.be/ByGkcmys01g
 ---
 
-[](https://vocus.cc/user/@bali)
-
 ![raw-image](https://resize-image.vocus.cc/resize?compression=6&norotation=true&url=https%3A%2F%2Fimages.vocus.cc%2Fcb9d5db8-8fc4-4684-989a-41a5dba88ea9.png&width=740&sign=zABkv6RHrAhiy150X4dkElBiUab8327DzsxD77o_mvA)
-
-![zoomable](https://resize-image.vocus.cc/resize?compression=6&norotation=true&url=https%3A%2F%2Fimages.vocus.cc%2Fcb9d5db8-8fc4-4684-989a-41a5dba88ea9.png&width=740&sign=zABkv6RHrAhiy150X4dkElBiUab8327DzsxD77o_mvA)
 
 ## Gojek / Grab 的使用方式
 
 在**峇里島**旅遊，Gojek 和 Grab 是兩款必備的「國民 App」。它們的功能與介面極為相似，就像是 Uber 的兩個不同品牌版本。
 
 ![raw-image](https://resize-image.vocus.cc/resize?compression=6&norotation=true&url=https%3A%2F%2Fimages.vocus.cc%2F0d0e5964-71d4-4d15-8f3c-9dc8ac9086b1.png&width=740&sign=-MHqjJ-4McCJy8qnbYKFN1Y5vuq6hdipb4KsIhv7uvA)
-
-![zoomable](https://resize-image.vocus.cc/resize?compression=6&norotation=true&url=https%3A%2F%2Fimages.vocus.cc%2F0d0e5964-71d4-4d15-8f3c-9dc8ac9086b1.png&width=740&sign=-MHqjJ-4McCJy8qnbYKFN1Y5vuq6hdipb4KsIhv7uvA)
 
 以下是為您整理的 step-by-step 使用指南，幫助您快速上手：
 
@@ -64,8 +58,6 @@ embeds:
 5. **點擊預訂 (Order/Book)：** 系統會配對司機，畫面會顯示司機的名字、車牌與位置。
 
 ![raw-image](https://resize-image.vocus.cc/resize?compression=6&norotation=true&url=https%3A%2F%2Fimages.vocus.cc%2Fae609d7d-7c89-470b-a71f-6b876855e989.png&width=740&sign=oCXILoxZCtw3k8JOmu1nKuRlRL_reKuSu862lKULSx0)
-
-![zoomable](https://resize-image.vocus.cc/resize?compression=6&norotation=true&url=https%3A%2F%2Fimages.vocus.cc%2Fae609d7d-7c89-470b-a71f-6b876855e989.png&width=740&sign=oCXILoxZCtw3k8JOmu1nKuRlRL_reKuSu862lKULSx0)
 
 **第四步：與司機溝通**
 
@@ -117,4 +109,4 @@ embeds:
 
 總結來說，線上叫車在峇里島大部分地區仍是可用的有效工具，只需避開有明確禁令的熱門景點即可。提前規劃好交通方式，將讓你的旅程更加順暢。
 
-<<包車>>
+{{block:包車}}
