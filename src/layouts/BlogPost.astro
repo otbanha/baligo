@@ -162,7 +162,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
 
 <script define:vars={{ embedMap, promosJson }}>
 // 影片嵌入
-document.addEventListener('DOMContentLoaded', () => {
+window.addEventListener('load', () => {
   document.querySelectorAll('.video-placeholder').forEach(el => {
     const pos = el.getAttribute('data-position');
     const embed = embedMap[pos];
