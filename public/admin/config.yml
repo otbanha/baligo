@@ -19,7 +19,7 @@ collections:
     sortable_fields:
       - pubDate
       - title
-    summary: "{{title}} — /blog/{{slug}}/"
+    summary: "{{title}}\n/blog/{{slug}}/"
     fields:
       - { label: 標題, name: title, widget: string }
       - { label: 描述, name: description, widget: text, required: false }

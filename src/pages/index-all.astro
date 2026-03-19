@@ -1,0 +1,41 @@
+---
+import { getCollection } from 'astro:content';
+const posts = await getCollection('blog');
+const sorted = posts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
+---
+<html>
+<head>
+  <meta charset="utf-8" />
+  <title>文章索引</title>
+  <style>
+    body { font-family: sans-serif; padding: 2rem; max-width: 900px; margin: 0 auto; }
+    input { width: 100%; padding: 0.5rem; margin-bottom: 1rem; font-size: 1rem; box-sizing: border-box; }
+    .item { margin-bottom: 0.8rem; border-bottom: 1px solid #eee; padding-bottom: 0.8rem; }
+    .title { font-weight: bold; margin-bottom: 0.2rem; }
+    .url { font-family: monospace; font-size: 0.85rem; color: #555; cursor: pointer; user-select: all; }
+    .url:hover { background: #f0f0f0; }
+  </style>
+</head>
+<body>
+  <h1>文章索引（共 {sorted.length} 篇）</h1>
+  <input type="text" id="search" placeholder="搜尋標題..." />
+  <div id="list">
+    {sorted.map(post => (
+      <div class="item" data-title={post.data.title.toLowerCase()}>
+        <div class="title">{post.data.title}</div>
+        <div class="url">/blog/{post.id}/</div>
+      </div>
+    ))}
+  </div>
+  <script>
+    const input = document.getElementById('search');
+    const items = document.querySelectorAll('.item');
+    input.addEventListener('input', () => {
+      const q = input.value.toLowerCase();
+      items.forEach(item => {
+        item.style.display = item.dataset.title.includes(q) ? '' : 'none';
+      });
+    });
+  </script>
+</body>
+</html>
