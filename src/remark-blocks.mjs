@@ -3,7 +3,7 @@ import { join } from 'path';
 import matter from 'gray-matter';
 
 export function remarkBlocks(embedMap = {}) {
-return (tree) => {
+  return (tree) => {
     const blocksDir = join(process.cwd(), 'src/content/blocks');
     let blocks = {};
 
@@ -28,10 +28,9 @@ return (tree) => {
     function processBlock(slug) {
       const block = blocks[slug.trim()];
       if (!block) return '[區塊不存在: ' + slug + ']';
-      const heading = block.title ? '<h4>' + block.title + '</h4>' : '';
 
       if (block.type === 'normal') {
-        return heading + block.content;
+        return block.content;
       }
 
       if (block.type === 'random-cards' || block.type === 'random-list') {
@@ -44,17 +43,22 @@ return (tree) => {
         const shuffled = items.sort(() => Math.random() - 0.5).slice(0, count);
 
         if (block.type === 'random-list') {
-          return heading + '<ul>' + shuffled.map(i => {
+          const nonListLines = block.content
+            .split('\n')
+            .filter(line => !line.trim().startsWith('-'))
+            .join('\n').trim();
+          const listHtml = '<ul>' + shuffled.map(i => {
             const match = i.match(/\[([^\]]+)\]\(([^)]+)\)/);
             if (match) {
               return '<li><a href="' + match[2] + '">' + match[1] + '</a></li>';
             }
             return '<li>' + i + '</li>';
           }).join('') + '</ul>';
+          return (nonListLines ? nonListLines + '\n' : '') + listHtml;
         }
 
         if (block.type === 'random-cards') {
-          return heading + '<div class="block-cards">' + shuffled.map(i => {
+          return '<div class="block-cards">' + shuffled.map(i => {
             const match = i.match(/\[([^\]]+)\]\(([^)]+)\)/);
             if (match) {
               return '<a href="' + match[2] + '" class="block-card">' + match[1] + '</a>';
@@ -64,7 +68,7 @@ return (tree) => {
         }
       }
 
-      return heading + block.content;
+      return block.content;
     }
 
     function visit(node) {
@@ -92,13 +96,13 @@ return (tree) => {
           if (child.type === 'text') {
             let newValue = child.value;
             let hasVideo = false;
-            newValue = newValue.replace(/{{block:([^}]+)}}/g, function(match, slug) {
+            newValue = newValue.replace(/\{\{block:([^}]+)\}\}/g, function(match, slug) {
               hasVideo = true;
               return processBlock(slug);
             });
-            newValue = newValue.replace(/<<(video\d+)>>/g, function(match) {
+            newValue = newValue.replace(/\{\{(video\d+)\}\}/g, function(match, position) {
               hasVideo = true;
-              return '<span class="video-placeholder" data-position="' + match + '"></span>';
+              return '<span class="video-placeholder" data-position="<<' + position + '>>"></span>';
             });
             if (hasVideo) {
               return { type: 'html', value: newValue };
