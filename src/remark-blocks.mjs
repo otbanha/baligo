@@ -54,7 +54,11 @@ export function remarkBlocks(embedMap = {}) {
             }
             return '<li>' + i + '</li>';
           }).join('') + '</ul>';
-          return (nonListLines ? nonListLines + '\n' : '') + listHtml;
+          const headingHtml = nonListLines.replace(/^#{1,6}\s+(.+)$/mg, function(m, t) {
+  const level = m.match(/^(#+)/)[1].length;
+  return '<h' + level + '>' + t + '</h' + level + '>';
+});
+return (headingHtml ? headingHtml : '') + listHtml;
         }
 
         if (block.type === 'random-cards') {
@@ -102,7 +106,7 @@ export function remarkBlocks(embedMap = {}) {
             });
             newValue = newValue.replace(/\{\{(video\d+)\}\}/g, function(match, position) {
               hasVideo = true;
-              return '<span class="video-placeholder" data-position="<<' + position + '>>"></span>';
+              return '<span class="video-placeholder" data-position="{{' + position + '}}"></span>';
             });
             if (hasVideo) {
               return { type: 'html', value: newValue };
