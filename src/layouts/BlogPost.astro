@@ -278,7 +278,7 @@ window.addEventListener('load', () => {
 .category-item.active .cat-count { background: rgba(255,255,255,0.15); color: var(--gold-light); }
 
 /* 促銷卡片 */
-.promo-card {
+:global(.promo-card) {
   display: block;
   font-size: 10px;
   text-decoration: none;
@@ -289,28 +289,28 @@ window.addEventListener('load', () => {
   background: var(--white);
 }
 
-.promo-card:hover {
+:global(.promo-card):hover {
   transform: translateY(-2px);
   box-shadow: 0 4px 16px rgba(10, 22, 40, 0.1);
 }
 
-.promo-image {
+:global(.promo-image) {
   aspect-ratio: 16/9;
   overflow: hidden;
   background: var(--ocean-mid);
 }
 
-.promo-image img {
+:global(.promo-image) img {
   width: 100%;
   height: 100%;
   object-fit: cover;
 }
 
-.promo-body {
+:global(.promo-body) {
   padding: 0.7em 0.8em;
 }
 
-.promo-title {
+:global(.promo-title) {
   font-size: 10px !important;
   font-weight: 600;
   color: var(--ocean);
@@ -322,7 +322,7 @@ window.addEventListener('load', () => {
   overflow: hidden;
 }
 
-.promo-cta {
+:global(.promo-cta) {
   font-size: 10px;
   font-weight: 700;
   color: var(--gold);
