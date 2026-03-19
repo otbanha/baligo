@@ -61,12 +61,14 @@ const categoryCounts = categories.reduce((acc, cat) => {
   return acc;
 }, {});
 
-const allPostsData = allPosts.map(p => ({
-  id: p.id,
-  title: p.data.title,
-  heroImage: p.data.heroImage || '',
-  category: getCategories(p.data.category),
-}));
+const allPostsData = allPosts
+  .filter(p => !getCategories(p.data.category).includes('新聞存檔'))
+  .map(p => ({
+    id: p.id,
+    title: p.data.title,
+    heroImage: p.data.heroImage || '',
+    category: getCategories(p.data.category),
+  }));
 
 // 最新5則住宿推薦
 const accommodations = allPosts
