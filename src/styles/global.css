@@ -60,7 +60,7 @@ h5 { font-size: 1.1em; }
 
 strong, b { font-weight: 700; color: var(--ocean); }
 .news-content strong, .news-content b, .news-content a, .news-content * { color: white !important; }
-.accom-image img, .news-content img { height: 220px; object-fit: cover; object-position: center; width: 100%; }
+.accom-image img, .news-content img { height: 220px !important; object-fit: cover !important; object-position: center; width: 100% !important; }
 
 a {
   color: var(--gold);
