@@ -401,11 +401,15 @@ const socialLinks = [
       if (homepageBlocks) homepageBlocks.style.display = cat === 'all' ? 'block' : 'none';
 
       filteredCards = [...cards].filter(card => {
-        if (cat === 'all') return true;
         try {
           const cats = JSON.parse(card.dataset.category || '[]');
-          return Array.isArray(cats) ? cats.includes(cat) : cats === cat;
+          const catList = Array.isArray(cats) ? cats : [cats];
+          if (catList.includes('新聞存檔')) return false;
+          if (cat === 'all') return true;
+          return catList.includes(cat);
         } catch {
+          if (card.dataset.category === '新聞存檔') return false;
+          if (cat === 'all') return true;
           return card.dataset.category === cat;
         }
       });
