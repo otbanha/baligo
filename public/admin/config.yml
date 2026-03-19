@@ -28,7 +28,6 @@ collections:
         name: category
         widget: list
         field: { label: 分類, name: category, widget: string }
-      - { label: 封面圖網址, name: heroImage, widget: string, required: false }
       - label: Tags
         name: tags
         widget: list
