@@ -14,7 +14,7 @@ tags:
   - 峇里島, Bali Grab, Bali Gojek, 峇里島叫車, 峇里島網約車
 originalUrl: ''
 embeds:
-  - position: <<video1>>
+  - position: '{{video1}}'
     platform: youtube
     url: https://youtu.be/ByGkcmys01g
 ---
@@ -102,7 +102,7 @@ embeds:
 
 ## ⚠️ 重要提醒
 
-<<video1>>
+{{video1}}
 
 · 尊重規定：請務必遵守現場的告示牌規定，強行在禁止區域上車可能引發與當地司機的糾紛。
 · 安全第一：如果使用路邊攔車，務必選擇信譽良好的 “藍鳥計程車 (Bluebird)”，並確認司機打表計費，或談好一口價，以防被漫天要價。
