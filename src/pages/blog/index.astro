@@ -433,7 +433,15 @@ const socialLinks = [
     if (catParam) {
       setTimeout(() => filterCategory(catParam), 100);
     } else {
-      filteredCards = [...cards];
+      filteredCards = [...cards].filter(card => {
+        try {
+          const cats = JSON.parse(card.dataset.category || '[]');
+          const catList = Array.isArray(cats) ? cats : [cats];
+          return !catList.includes('新聞存檔');
+        } catch {
+          return card.dataset.category !== '新聞存檔';
+        }
+      });
       renderPage();
     }
 
