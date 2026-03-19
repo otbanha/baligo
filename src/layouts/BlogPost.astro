@@ -102,7 +102,6 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
 
       {activePromos.length > 0 && (
         <div class="sidebar-section">
-          <h3 class="sidebar-title">🎯 優惠推薦</h3>
           <div id="promo-block">
             <!-- 由 JS 動態插入 -->
           </div>
@@ -194,13 +193,13 @@ window.addEventListener('load', () => {
 
   block.innerHTML = `
     <a href="${promo.url}" target="_blank" rel="noopener" class="promo-card">
-      ${promo.coverImage
-        ? `<div class="promo-image"><img src="${promo.coverImage}" alt="${promo.title}" loading="lazy" /></div>`
-        : ''}
       <div class="promo-body">
         <p class="promo-title">${promo.title}</p>
         <span class="promo-cta">查看優惠 →</span>
       </div>
+      ${promo.coverImage
+        ? `<div class="promo-image"><img src="${promo.coverImage}" alt="${promo.title}" loading="lazy" /></div>`
+        : ''}
     </a>
   `;
 });
