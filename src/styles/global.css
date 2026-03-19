@@ -60,6 +60,7 @@ h5 { font-size: 1.1em; }
 
 strong, b { font-weight: 700; color: var(--ocean); }
 .news-content strong, .news-content b, .news-content a, .news-content * { color: white !important; }
+.news-content img:first-child, .accom-image img { height: 200px; object-fit: cover; width: 100%; }
 
 a {
   color: var(--gold);
