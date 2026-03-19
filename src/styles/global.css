@@ -59,6 +59,7 @@ h4 { font-size: 1.25em; }
 h5 { font-size: 1.1em; }
 
 strong, b { font-weight: 700; color: var(--ocean); }
+.news-content strong, .news-content b, .news-content a, .news-content * { color: white !important; }
 
 a {
   color: var(--gold);

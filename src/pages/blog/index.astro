@@ -3,7 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import featuredData from '../../featured.json';
 import top5Data from '../../top5.json';
 
@@ -78,15 +78,11 @@ const accommodations = allPosts
     heroImage: p.data.heroImage || '',
   }));
 
-// 最新10則新聞存檔
-const baliNews = allPosts
-  .filter(p => getCategories(p.data.category).includes('新聞存檔'))
-  .slice(0, 10)
-  .map(p => ({
-    id: p.id,
-    title: p.data.title,
-    pubDate: p.data.pubDate.toISOString().split('T')[0],
-  }));
+// 最新1則新聞存檔（含內文）
+const baliNewsPost = allPosts
+  .filter(p => getCategories(p.data.category).includes('新聞存檔'))[0];
+const baliNewsRendered = baliNewsPost ? await render(baliNewsPost) : null;
+const BaliNewsContent = baliNewsRendered ? baliNewsRendered.Content : null;
 
 // Top 5 文章
 const top5Posts = top5Data.articles
@@ -177,17 +173,8 @@ const socialLinks = [
 
           <div class="widget-box">
             <h2 class="widget-title">📰 Bali News</h2>
-            {baliNews.length > 0 ? (
-              <ul class="news-list">
-                {baliNews.map(n => (
-                  <li class="news-item">
-                    <a href={`/blog/${n.id}/`}>
-                      <span class="news-date">{n.pubDate}</span>
-                      <span class="news-title">{n.title}</span>
-                    </a>
-                  </li>
-                ))}
-              </ul>
+            {BaliNewsContent ? (
+              <div class="news-content"><BaliNewsContent /></div>
             ) : (
               <div class="widget-empty">即將推出</div>
             )}
@@ -575,7 +562,7 @@ main { padding: 2em 2em 4em; }
   box-shadow: 0 8px 32px rgba(0,0,0,0.25), inset 0 1px 0 rgba(197,160,89,0.3);
   border: 1px solid rgba(197,160,89,0.25);
   position: relative;
-  overflow: hidden;
+  
 }
 
 .widget-box::before {
@@ -596,6 +583,47 @@ main { padding: 2em 2em 4em; }
   letter-spacing: 0.05em;
 }
 
+.news-content {
+  color: white;
+  height: 400px;
+  overflow-y: scroll;
+}
+.news-content * {
+  color: white !important;
+}
+#top-widgets .news-content strong,
+#top-widgets .news-content b,
+#top-widgets .news-content a {
+  color: white !important;
+}
+.news-content img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 0.8em;
+}
+.news-content p {
+  color: rgba(255,255,255,0.9);
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+.news-content a {
+  color: var(--gold, #c5a059);
+}
+.news-content img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  margin-bottom: 0.8em;
+}
+.news-content p {
+  color: rgba(255,255,255,0.9);
+  font-size: 0.9em;
+  line-height: 1.6;
+}
+.news-content a {
+  color: var(--gold, #c5a059);
+}
 .widget-empty { color: rgba(255,255,255,0.4); font-size: 0.88em; text-align: center; padding: 2em 0; }
 
 .accom-card { display: block; text-decoration: none; color: inherit; border-radius: 8px; overflow: hidden; transition: transform 0.2s; }
