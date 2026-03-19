@@ -1,7 +1,7 @@
 ---
 import { type CollectionEntry, getCollection, render } from 'astro:content';
 import BlogPost from '../../layouts/BlogPost.astro';
-import { readFileSync } from 'fs';
+import { readFileSync, readdirSync } from 'fs';
 import { join } from 'path';
 import matter from 'gray-matter';
 
@@ -18,9 +18,14 @@ const post = Astro.props;
 const { Content } = await render(post);
 
 // 直接讀取 markdown 檔案取得 embeds
-import { readFileSync, readdirSync } from 'fs';
-console.log('POST ID:', post.id);
-console.log('MD PATH:', mdPath);
+const blogDir = join(process.cwd(), 'src/content/blog');
+const files = readdirSync(blogDir);
+const matchFile = files.find(f => {
+  const base = f.replace(/\.mdx?$/, '');
+  return base === post.id || base.replace(/[【】「」『』]/g, '') === post.id;
+});
+const mdPath = join(blogDir, matchFile || post.id + '.md');
+
 let rawEmbeds: any[] = [];
 try {
   const raw = readFileSync(mdPath, 'utf-8');
@@ -32,7 +37,6 @@ const embedMap: Record<string, {platform: string, url: string}> = {};
 rawEmbeds.forEach((e: any) => {
   embedMap[e.position] = { platform: e.platform, url: e.url };
 });
-console.log('EMBEDS FROM FILE:', JSON.stringify(rawEmbeds));
 ---
 
 <BlogPost {...post.data} embedMap={embedMap}>
