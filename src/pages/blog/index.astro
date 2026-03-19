@@ -7,6 +7,15 @@ import { getCollection } from 'astro:content';
 import featuredData from '../../featured.json';
 import top5Data from '../../top5.json';
 
+const allPromos = await getCollection('promotions');
+const now = new Date();
+const activePromos = allPromos.filter(p => !p.data.expiresAt || p.data.expiresAt > now);
+const promosJson = JSON.stringify(activePromos.map(p => ({
+  title: p.data.title,
+  url: p.data.url,
+  coverImage: p.data.coverImage || null,
+})));
+
 const allPosts = (await getCollection('blog'))
   .filter(p => p.data.pubDate)
   .map(p => ({
@@ -136,6 +145,11 @@ const socialLinks = [
           ))}
         </ul>
       </div>
+      {activePromos.length > 0 && (
+  <div class="sidebar-section">
+    <div id="promo-block-index"></div>
+  </div>
+)}
     </aside>
 
     <main>
@@ -672,3 +686,21 @@ main { padding: 2em 2em 4em; }
   .social-section { grid-template-columns: repeat(2, 1fr); }
 }
 </style>
+<script define:vars={{ promosJson }}>
+window.addEventListener('load', () => {
+  const promos = JSON.parse(promosJson);
+  if (promos.length === 0) return;
+  const promo = promos[Math.floor(Math.random() * promos.length)];
+  const block = document.getElementById('promo-block-index');
+  if (!block) return;
+  block.innerHTML = `
+    <a href="${promo.url}" target="_blank" rel="noopener" class="promo-card">
+      <div class="promo-body">
+        <p class="promo-title">${promo.title}</p>
+        <span class="promo-cta">查看優惠 →</span>
+      </div>
+      ${promo.coverImage ? `<div class="promo-image"><img src="${promo.coverImage}" alt="${promo.title}" loading="lazy" /></div>` : ''}
+    </a>
+  `;
+});
+</script>
