@@ -9,7 +9,7 @@ description: |-
 pubDate: 2026-03-18T19:01:00
 category:
   - 叫車包車
-heroImage: https://images.vocus.cc/cb9d5db8-8fc4-4684-989a-41a5dba88ea9.png
+heroImage: https://images.gobaligo.id/vocus/vocus_890916f7109e541004494eb740f7c950.png
 tags:
   - 峇里島, Bali Grab, Bali Gojek, 峇里島叫車, 峇里島網約車
 originalUrl: ''
@@ -19,13 +19,13 @@ embeds:
     url: https://youtu.be/ByGkcmys01g
 ---
 
-![raw-image](https://resize-image.vocus.cc/resize?compression=6&norotation=true&url=https%3A%2F%2Fimages.vocus.cc%2Fcb9d5db8-8fc4-4684-989a-41a5dba88ea9.png&width=740&sign=zABkv6RHrAhiy150X4dkElBiUab8327DzsxD77o_mvA)
+![raw-image](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
 
 ## Gojek / Grab 的使用方式
 
 在**峇里島**旅遊，Gojek 和 Grab 是兩款必備的「國民 App」。它們的功能與介面極為相似，就像是 Uber 的兩個不同品牌版本。
 
-![raw-image](https://resize-image.vocus.cc/resize?compression=6&norotation=true&url=https%3A%2F%2Fimages.vocus.cc%2F0d0e5964-71d4-4d15-8f3c-9dc8ac9086b1.png&width=740&sign=-MHqjJ-4McCJy8qnbYKFN1Y5vuq6hdipb4KsIhv7uvA)
+![raw-image](https://images.gobaligo.id/vocus/vocus_a3735af38f1bb9994a7ec1ec8fafe01e.png)
 
 以下是為您整理的 step-by-step 使用指南，幫助您快速上手：
 
@@ -57,7 +57,7 @@ embeds:
 4. **查看價格：** 系統會跳出確定的總金額（明碼實價，不用跳錶或喊價）。
 5. **點擊預訂 (Order/Book)：** 系統會配對司機，畫面會顯示司機的名字、車牌與位置。
 
-![raw-image](https://resize-image.vocus.cc/resize?compression=6&norotation=true&url=https%3A%2F%2Fimages.vocus.cc%2Fae609d7d-7c89-470b-a71f-6b876855e989.png&width=740&sign=oCXILoxZCtw3k8JOmu1nKuRlRL_reKuSu862lKULSx0)
+![raw-image](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
 
 **第四步：與司機溝通**
 
@@ -87,7 +87,7 @@ embeds:
 · 爭議焦點：在巴杜爾湖 (Lake Batur)、松干村 (Songan Village) 周邊，線上叫車被指壓低了當地司機的報價，引發了當地旅遊交通協會的強烈反對。
 · 近期政策：根據2025年初的報導，峇里島當局也推出了新規定，要求網約車司機必須持有峇里島身份證 (KTP) 和使用本地車牌，以保護本地司機的權益。
 
-![raw-image](https://resize-image.vocus.cc/resize?norotation=true&quality=80&url=https%3A%2F%2Fimages.vocus.cc%2Fef7bff42-4412-4e2c-aac5-eeac5bc899da.jpg&width=740&sign=GEzs22Q-ukS8MscThjTTy5UZtwB-j5JE_32N3KrqQ4c)
+![raw-image](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
 
 ### 🚗 對遊客的實際影響與建
 
