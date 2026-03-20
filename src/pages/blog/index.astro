@@ -3,7 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
-import { getCollection } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import featuredData from '../../featured.json';
 import top5Data from '../../top5.json';
 
@@ -80,15 +80,19 @@ const accommodations = allPosts
     heroImage: p.data.heroImage || '',
   }));
 
-// 最新5則新聞存檔
-const baliNews = allPosts
-  .filter(p => getCategories(p.data.category).includes('新聞存檔'))
-  .slice(0, 5)
-  .map(p => ({
-    id: p.id,
-    title: p.data.title,
-    pubDate: p.data.pubDate.toISOString().split('T')[0],
-  }));
+// 最新1則新聞存檔（含render）
+const allBlogRaw = await getCollection('blog');
+const baliNewsRaw = allBlogRaw
+  .filter(p => {
+    const cats = getCategories(p.data.category);
+    return cats.includes('新聞存檔');
+  })
+  .sort((a, b) => new Date(b.data.pubDate) - new Date(a.data.pubDate))
+  .at(0);
+
+const { Content: BaliNewsContent } = baliNewsRaw
+  ? await render(baliNewsRaw)
+  : { Content: null };
 
 // Top 5 文章
 const top5Posts = top5Data.articles
@@ -178,22 +182,20 @@ const socialLinks = [
           </div>
 
           <div class="widget-box">
-            <h2 class="widget-title">📰 Bali News</h2>
-            {baliNews.length > 0 ? (
-              <ul class="news-list">
-                {baliNews.map(n => (
-                  <li class="news-item">
-                    <a href={`/blog/${n.id}/`}>
-                      <span class="news-date">{n.pubDate}</span>
-                      <span class="news-title">{n.title}</span>
-                    </a>
-                  </li>
-                ))}
-              </ul>
-            ) : (
-              <div class="widget-empty">即將推出</div>
-            )}
-          </div>
+  <h2 class="widget-title">📰 Bali News</h2>
+  {baliNewsRaw ? (
+    <div class="news-scroll">
+      <a href={`/blog/${baliNewsRaw.id}/`} class="news-post-date">
+        {new Date(baliNewsRaw.data.pubDate).toISOString().split('T')[0]}
+      </a>
+      <div class="news-body">
+        <BaliNewsContent />
+      </div>
+    </div>
+  ) : (
+    <div class="widget-empty">即將推出</div>
+  )}
+</div>
         </div>
 
         <!-- Top 5 熱門文章 -->
@@ -781,6 +783,44 @@ main { padding: 2em 2em 4em; }
   .featured-grid { grid-template-columns: 1fr; }
   .social-section { grid-template-columns: repeat(2, 1fr); }
 }
+.news-scroll {
+  overflow-y: auto;
+  max-height: 280px;
+  scrollbar-width: thin;
+  scrollbar-color: rgba(197,160,89,0.4) transparent;
+}
+.news-scroll::-webkit-scrollbar { width: 4px; }
+.news-scroll::-webkit-scrollbar-thumb {
+  background: rgba(197,160,89,0.4);
+  border-radius: 2px;
+}
+
+.news-post-date {
+  display: block;
+  font-size: 0.75em;
+  color: var(--gold);
+  text-decoration: none;
+  margin-bottom: 0.6em;
+}
+
+.news-body {
+  font-size: 0.82em;
+  color: rgba(255,255,255,0.88);
+  line-height: 1.7;
+}
+.news-body p { margin: 0 0 0.7em; }
+.news-body img {
+  width: 100%;
+  height: auto;
+  border-radius: 6px;
+  margin: 0.5em 0;
+}
+.news-body h1, .news-body h2, .news-body h3 {
+  color: var(--gold-light);
+  font-size: 0.95em;
+  margin: 0.8em 0 0.4em;
+}
+.news-body a { color: var(--gold); }
 </style>
 <script define:vars={{ promosJson }}>
 window.addEventListener('load', () => {
