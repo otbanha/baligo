@@ -131,7 +131,11 @@ const socialLinks = [
   <Header />
 
   <div class="layout">
-    <aside class="sidebar">
+    <aside class="sidebar" id="sidebar">
+      <button class="sidebar-toggle" id="sidebar-toggle" aria-expanded="false">
+        📂 文章分類 <span class="toggle-arrow">▼</span>
+      </button>
+      <div class="sidebar-inner" id="sidebar-inner">
       <div class="sidebar-section">
         <h3 class="sidebar-title">📂 文章分類</h3>
         <ul class="category-list">
@@ -156,6 +160,7 @@ const socialLinks = [
     <div id="promo-block-index"></div>
   </div>
 )}
+      </div><!-- end sidebar-inner -->
     </aside>
 
     <main>
@@ -304,6 +309,16 @@ const socialLinks = [
 
 <script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts }}>
   window.addEventListener('DOMContentLoaded', () => {
+
+    // Sidebar 收合（手機版）
+    const sidebarToggle = document.getElementById('sidebar-toggle');
+    const sidebarInner = document.getElementById('sidebar-inner');
+    if (sidebarToggle && sidebarInner) {
+      sidebarToggle.addEventListener('click', () => {
+        const isOpen = sidebarInner.classList.toggle('open');
+        sidebarToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      });
+    }
 
     // 初始化影片
     const randomVideo = youtubeVideos[Math.floor(Math.random() * youtubeVideos.length)];
@@ -767,6 +782,11 @@ main { padding: 2em 2em 4em; }
 .page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 .page-info { font-size: 0.88em; color: var(--text-light); }
 
+/* Sidebar toggle button — 手機才顯示 */
+.sidebar-toggle {
+  display: none;
+}
+
 @media (max-width: 1100px) {
   .grid { grid-template-columns: repeat(2, 1fr); }
   .featured-grid { grid-template-columns: repeat(2, 1fr); }
@@ -775,13 +795,61 @@ main { padding: 2em 2em 4em; }
 
 @media (max-width: 900px) {
   .layout { grid-template-columns: 1fr; }
-  .sidebar { position: static; height: auto; border-right: none; border-bottom: 1px solid rgba(197,160,89,0.2); }
+  .sidebar {
+    position: static;
+    height: auto;
+    border-right: none;
+    border-bottom: 1px solid rgba(197,160,89,0.2);
+    padding: 0;
+  }
+  /* 手機版 sidebar — 預設收合，顯示 toggle 按鈕 */
+  .sidebar-toggle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    padding: 0.8em 1.2em;
+    background: var(--ocean);
+    color: var(--gold-light);
+    font-size: 0.9em;
+    font-weight: 700;
+    font-family: inherit;
+    border: none;
+    cursor: pointer;
+    letter-spacing: 0.03em;
+  }
+  .toggle-arrow {
+    font-size: 0.75em;
+    transition: transform 0.25s;
+  }
+  .sidebar-toggle[aria-expanded="true"] .toggle-arrow {
+    transform: rotate(180deg);
+  }
+  .sidebar-inner {
+    display: none;
+    padding: 0.8em 1em 1em;
+  }
+  .sidebar-inner.open {
+    display: block;
+  }
+  /* 手機版隱藏桌面版 sidebar-title（已有 toggle 按鈕取代） */
+  .sidebar-title { display: none; }
+
+  main { padding: 1.2em 1em 3em; }
+  .top-widgets { gap: 0.8em; margin-bottom: 1em; }
+  .accom-image { height: 160px; }
+  .widget-box { padding: 1em; }
+  .widget-title { font-size: 0.88em; margin-bottom: 0.7em; }
 }
 
 @media (max-width: 600px) {
   .grid { grid-template-columns: 1fr; }
   .featured-grid { grid-template-columns: 1fr; }
   .social-section { grid-template-columns: repeat(2, 1fr); }
+  .accom-image { height: 140px; }
+  .accom-body p { font-size: 0.85em; }
+  .top5-list { flex-direction: column; }
+  .top5-item a { border-radius: 8px; }
 }
 .news-scroll {
   overflow-y: auto;
