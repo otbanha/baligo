@@ -1,5 +1,5 @@
 ---
-title: isBali1
+title: isbali1
 type: normal
 randomCount: 5
 ---
