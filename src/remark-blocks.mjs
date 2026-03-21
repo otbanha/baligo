@@ -106,7 +106,7 @@ return (headingHtml ? headingHtml : '') + listHtml;
             });
             newValue = newValue.replace(/\{\{(video\d+)\}\}/g, function(match, position) {
               hasVideo = true;
-              return '<span class="video-placeholder" data-position="{{' + position + '}}"></span>';
+              return '<span class="video-placeholder" data-position="' + position + '"></span>';
             });
             if (hasVideo) {
               return { type: 'html', value: newValue };
