@@ -107,7 +107,7 @@
 
 <style>
 .chatbot-section {
-  background: linear-gradient(135deg, #0a1628 0%, #1a3560 100%);
+  background: linear-gradient(135deg, #f5efe6 0%, #ede4d3 100%);
   border-top: 2px solid var(--gold);
   padding: 2em 1.5em;
 }
@@ -131,20 +131,20 @@
 
 .chatbot-title {
   font-size: 1.1em;
-  color: var(--gold-light);
+  color: var(--ocean);
   margin: 0 0 0.2em;
   font-family: inherit;
 }
 
 .chatbot-subtitle {
   font-size: 0.82em;
-  color: rgba(255, 255, 255, 0.55);
+  color: var(--text-light);
   margin: 0;
 }
 
 .chat-messages {
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(197, 160, 89, 0.2);
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(197, 160, 89, 0.3);
   border-radius: 12px;
   padding: 1em;
   min-height: 120px;
@@ -175,8 +175,8 @@
   line-height: 1.6;
 }
 .msg.bot .msg-bubble {
-  background: rgba(255, 255, 255, 0.1);
-  color: rgba(255, 255, 255, 0.9);
+  background: #f0ece4;
+  color: var(--text);
   border-bottom-left-radius: 4px;
 }
 .msg.user .msg-bubble {
@@ -218,18 +218,18 @@
 
 #chat-input {
   flex: 1;
-  background: rgba(255, 255, 255, 0.1);
-  border: 1px solid rgba(197, 160, 89, 0.4);
+  background: white;
+  border: 1px solid rgba(197, 160, 89, 0.5);
   border-radius: 10px;
   padding: 0.65em 1em;
   font-size: 0.9em;
   font-family: inherit;
-  color: white;
+  color: var(--text);
   outline: none;
   min-width: 0;
 }
-#chat-input::placeholder { color: rgba(255, 255, 255, 0.4); }
-#chat-input:focus { border-color: var(--gold); background: rgba(255, 255, 255, 0.15); }
+#chat-input::placeholder { color: #aaa; }
+#chat-input:focus { border-color: var(--gold); }
 
 #chat-send {
   background: var(--gold);
