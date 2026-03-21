@@ -1,33 +1,24 @@
 ---
-// 峇里島旅遊 AI 問答機器人
+// 峇里島旅遊 AI 問答機器人（頁面內嵌版）
 // 需要在 Cloudflare Pages 後台設定 Workers AI binding（名稱：AI）
 ---
 
-<div id="chatbot-container">
-  <button id="chatbot-toggle" aria-label="開啟峇里島小助手" title="峇里島旅遊小助手">
-    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-      <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
-    </svg>
-    <span class="chat-badge" id="chat-badge" aria-hidden="true"></span>
-  </button>
-
-  <div id="chatbot-window" role="dialog" aria-label="峇里島旅遊小助手" aria-hidden="true">
-    <div class="chat-header">
-      <div class="chat-title">
-        <span class="chat-avatar">🌴</span>
-        <div>
-          <strong>峇里島小助手</strong>
-          <span class="chat-status">隨時為您解答</span>
-        </div>
+<section class="chatbot-section">
+  <div class="chatbot-inner">
+    <div class="chatbot-header">
+      <span class="chatbot-icon">🌴</span>
+      <div>
+        <h2 class="chatbot-title">峇里島旅遊小助手</h2>
+        <p class="chatbot-subtitle">有任何峇里島旅遊問題都可以問我！</p>
       </div>
-      <button id="chatbot-close" aria-label="關閉">✕</button>
     </div>
 
     <div class="chat-messages" id="chat-messages">
       <div class="msg bot">
         <span class="msg-avatar">🌴</span>
         <div class="msg-bubble">
-          你好！我是峇里島小助手 👋<br>有任何峇里島旅遊問題都可以問我！
+          你好！我是峇里島小助手 👋<br>
+          簽證、交通、住宿、行程⋯⋯隨時為您解答！
         </div>
       </div>
     </div>
@@ -40,45 +31,19 @@
         maxlength="200"
         autocomplete="off"
       />
-      <button type="submit" id="chat-send" aria-label="送出">
+      <button type="submit" id="chat-send">
         <svg viewBox="0 0 24 24" fill="currentColor"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
+        <span>送出</span>
       </button>
     </form>
   </div>
-</div>
+</section>
 
 <script>
   const API_URL = '/api/chat';
-  const toggle = document.getElementById('chatbot-toggle');
-  const win = document.getElementById('chatbot-window');
-  const closeBtn = document.getElementById('chatbot-close');
   const form = document.getElementById('chat-form');
   const input = document.getElementById('chat-input') as HTMLInputElement;
   const messages = document.getElementById('chat-messages');
-  const badge = document.getElementById('chat-badge');
-
-  let isOpen = false;
-  let hasUnread = false;
-
-  function openChat() {
-    isOpen = true;
-    win.removeAttribute('aria-hidden');
-    win.classList.add('open');
-    toggle.setAttribute('aria-expanded', 'true');
-    hasUnread = false;
-    if (badge) badge.style.display = 'none';
-    setTimeout(() => input.focus(), 100);
-  }
-
-  function closeChat() {
-    isOpen = false;
-    win.setAttribute('aria-hidden', 'true');
-    win.classList.remove('open');
-    toggle.setAttribute('aria-expanded', 'false');
-  }
-
-  toggle.addEventListener('click', () => isOpen ? closeChat() : openChat());
-  closeBtn.addEventListener('click', closeChat);
 
   function addMessage(text: string, role: 'user' | 'bot' | 'error') {
     const div = document.createElement('div');
@@ -128,15 +93,7 @@
       });
       const data = await res.json();
       removeTyping();
-      if (data.reply) {
-        addMessage(data.reply, 'bot');
-        if (!isOpen) {
-          hasUnread = true;
-          if (badge) badge.style.display = 'flex';
-        }
-      } else {
-        addMessage(data.error || '抱歉，暫時無法回答，請稍後再試。', 'error');
-      }
+      addMessage(data.reply || data.error || '抱歉，暫時無法回答，請稍後再試。', data.reply ? 'bot' : 'error');
     } catch {
       removeTyping();
       addMessage('網路錯誤，請稍後再試。', 'error');
@@ -149,97 +106,55 @@
 </script>
 
 <style>
-#chatbot-container {
-  position: fixed;
-  bottom: 1.5rem;
-  right: 1.5rem;
-  z-index: 999;
+.chatbot-section {
+  background: linear-gradient(135deg, #0a1628 0%, #1a3560 100%);
+  border-top: 2px solid var(--gold);
+  padding: 2em 1.5em;
 }
 
-#chatbot-toggle {
-  width: 56px;
-  height: 56px;
-  border-radius: 50%;
-  background: var(--ocean);
-  border: 2px solid var(--gold);
+.chatbot-inner {
+  max-width: 760px;
+  margin: 0 auto;
+}
+
+.chatbot-header {
+  display: flex;
+  align-items: center;
+  gap: 0.8em;
+  margin-bottom: 1.2em;
+}
+
+.chatbot-icon {
+  font-size: 2em;
+  line-height: 1;
+}
+
+.chatbot-title {
+  font-size: 1.1em;
   color: var(--gold-light);
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  box-shadow: 0 4px 20px rgba(10, 22, 40, 0.35);
-  transition: transform 0.2s, box-shadow 0.2s;
-  position: relative;
-}
-#chatbot-toggle:hover { transform: scale(1.08); box-shadow: 0 6px 24px rgba(10,22,40,0.45); }
-#chatbot-toggle svg { width: 24px; height: 24px; }
-
-.chat-badge {
-  position: absolute;
-  top: 0; right: 0;
-  width: 14px; height: 14px;
-  background: #e53e3e;
-  border-radius: 50%;
-  border: 2px solid white;
-  display: none;
+  margin: 0 0 0.2em;
+  font-family: inherit;
 }
 
-#chatbot-window {
-  position: absolute;
-  bottom: 68px;
-  right: 0;
-  width: 340px;
-  max-height: 500px;
-  background: var(--white);
-  border-radius: 16px;
-  box-shadow: 0 8px 40px rgba(10,22,40,0.25);
-  border: 1px solid rgba(197,160,89,0.3);
-  display: flex;
-  flex-direction: column;
-  overflow: hidden;
-  opacity: 0;
-  pointer-events: none;
-  transform: translateY(10px) scale(0.97);
-  transition: opacity 0.2s, transform 0.2s;
+.chatbot-subtitle {
+  font-size: 0.82em;
+  color: rgba(255, 255, 255, 0.55);
+  margin: 0;
 }
-#chatbot-window.open {
-  opacity: 1;
-  pointer-events: auto;
-  transform: translateY(0) scale(1);
-}
-
-.chat-header {
-  background: linear-gradient(135deg, var(--ocean), #2a5298);
-  padding: 0.9em 1em;
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  border-bottom: 1px solid rgba(197,160,89,0.3);
-  flex-shrink: 0;
-}
-.chat-title {
-  display: flex;
-  align-items: center;
-  gap: 0.6em;
-}
-.chat-avatar { font-size: 1.3em; }
-.chat-title strong { display: block; color: var(--gold-light); font-size: 0.9em; }
-.chat-status { font-size: 0.72em; color: rgba(255,255,255,0.6); }
-.chat-header button {
-  background: none; border: none; color: rgba(255,255,255,0.6);
-  cursor: pointer; font-size: 1em; padding: 0.2em 0.4em;
-  border-radius: 4px; transition: color 0.15s;
-}
-.chat-header button:hover { color: white; }
 
 .chat-messages {
-  flex: 1;
-  overflow-y: auto;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(197, 160, 89, 0.2);
+  border-radius: 12px;
   padding: 1em;
+  min-height: 120px;
+  max-height: 320px;
+  overflow-y: auto;
   display: flex;
   flex-direction: column;
   gap: 0.8em;
   scroll-behavior: smooth;
+  margin-bottom: 0.8em;
 }
 .chat-messages::-webkit-scrollbar { width: 4px; }
 .chat-messages::-webkit-scrollbar-thumb { background: rgba(197,160,89,0.3); border-radius: 2px; }
@@ -253,34 +168,34 @@
 .msg-avatar { font-size: 1.1em; flex-shrink: 0; margin-bottom: 2px; }
 
 .msg-bubble {
-  max-width: 78%;
-  padding: 0.6em 0.9em;
+  max-width: 80%;
+  padding: 0.65em 1em;
   border-radius: 14px;
-  font-size: 0.85em;
-  line-height: 1.55;
+  font-size: 0.88em;
+  line-height: 1.6;
 }
 .msg.bot .msg-bubble {
-  background: #f0f4fa;
-  color: var(--text);
+  background: rgba(255, 255, 255, 0.1);
+  color: rgba(255, 255, 255, 0.9);
   border-bottom-left-radius: 4px;
 }
 .msg.user .msg-bubble {
-  background: var(--ocean);
-  color: var(--gold-light);
+  background: var(--gold);
+  color: var(--ocean);
+  font-weight: 600;
   border-bottom-right-radius: 4px;
 }
 .msg-bubble.error {
-  background: #fff5f5;
-  color: #c53030;
-  border: 1px solid #fed7d7;
-  font-size: 0.82em;
+  background: rgba(229, 62, 62, 0.15);
+  color: #fc8181;
+  border: 1px solid rgba(229, 62, 62, 0.3);
 }
 
 /* 打字動畫 */
 .typing .msg-bubble {
-  padding: 0.7em 1em;
+  padding: 0.8em 1em;
   display: flex;
-  gap: 4px;
+  gap: 5px;
   align-items: center;
 }
 .dot {
@@ -298,42 +213,48 @@
 
 .chat-input-area {
   display: flex;
-  align-items: center;
-  gap: 0.5em;
-  padding: 0.7em 0.8em;
-  border-top: 1px solid rgba(197,160,89,0.2);
-  flex-shrink: 0;
-  background: var(--white);
+  gap: 0.6em;
 }
+
 #chat-input {
   flex: 1;
-  border: 1px solid rgba(197,160,89,0.35);
-  border-radius: 20px;
-  padding: 0.5em 0.9em;
-  font-size: 0.85em;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(197, 160, 89, 0.4);
+  border-radius: 10px;
+  padding: 0.65em 1em;
+  font-size: 0.9em;
   font-family: inherit;
+  color: white;
   outline: none;
-  background: var(--white);
-  color: var(--text);
+  min-width: 0;
 }
-#chat-input:focus { border-color: var(--gold); }
+#chat-input::placeholder { color: rgba(255, 255, 255, 0.4); }
+#chat-input:focus { border-color: var(--gold); background: rgba(255, 255, 255, 0.15); }
 
 #chat-send {
-  width: 36px; height: 36px;
-  border-radius: 50%;
-  background: var(--ocean);
+  background: var(--gold);
   border: none;
-  color: var(--gold-light);
+  border-radius: 10px;
+  padding: 0.65em 1.2em;
+  color: var(--ocean);
+  font-weight: 700;
+  font-size: 0.88em;
+  font-family: inherit;
   cursor: pointer;
-  display: flex; align-items: center; justify-content: center;
-  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+  white-space: nowrap;
   transition: background 0.15s;
+  flex-shrink: 0;
 }
-#chat-send:hover { background: var(--ocean-light); }
+#chat-send:hover { background: var(--gold-light); }
 #chat-send:disabled { opacity: 0.5; cursor: not-allowed; }
-#chat-send svg { width: 16px; height: 16px; }
+#chat-send svg { width: 15px; height: 15px; }
 
-@media (max-width: 400px) {
-  #chatbot-window { width: calc(100vw - 2rem); right: -0.5rem; }
+@media (max-width: 600px) {
+  .chatbot-section { padding: 1.5em 1em; }
+  #chat-send span { display: none; }
+  #chat-send { padding: 0.65em 0.9em; }
 }
 </style>
