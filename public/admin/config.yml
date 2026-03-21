@@ -14,7 +14,7 @@ media_library:
     public_folder: https://images.gobaligo.id
 
 media_folder: ""
-public_folder: "https://images.gobaligo.id"
+public_folder: ""
 
 collections:
   - name: blog
