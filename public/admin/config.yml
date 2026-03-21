@@ -4,9 +4,17 @@ backend:
   branch: main
   base_url: https://baligo-auth.otbanha.workers.dev
 
+media_library:
+  name: cloudflare_r2
+  config:
+    endpoint: https://8539451c59b0447bc90fea01f29d10c8.r2.cloudflarestorage.com
+    bucket: baligo-image
+    access_key_id: 5f5c4903e22196b6ffb612e0054db2a6
+    secret_access_key: d4c9192d1cd1643bce9a250778ec8008fcd3ea30e618d95e68551133a11c861d
+    public_folder: https://images.gobaligo.id
 
-media_folder: public/images
-public_folder: /images
+media_folder: ""
+public_folder: "https://images.gobaligo.id"
 
 collections:
   - name: blog
