@@ -6,6 +6,61 @@ const KLOOK_URL = 'https://www.klook.com/zh-TW/city/27-bali-things-to-do/?aid=11
 const AGODA_KEYWORDS = ['住宿', '飯店', 'villa', 'Villa', '民宿', '旅館', 'hotel', '訂房', '哪裡住', 'resort', '度假村', '推薦住', 'accommodation', '套房', '房間'];
 const KLOOK_KEYWORDS = ['行程', '活動', '體驗', '門票', '套裝', 'tour', 'activity', 'experience', 'ticket', '景點', '一日遊', '半日遊', '玩什麼', '去哪玩', '推薦玩', '推薦景'];
 
+// 關鍵字 → 優先顯示文章（無論文章索引匹配結果如何，這些永遠置頂）
+const PINNED_ARTICLES = [
+  {
+    keywords: ['包車', '司機', '包車推薦', '中文司機', '中文包車'],
+    title: '峇里島包車推薦，中文司機一日遊',
+    url: '/blog/2024-07-07-668aaea7fd89780001981840/',
+  },
+  {
+    keywords: ['第一次', '新手', '初次', '請教', '首次', '第一次去'],
+    title: '峇里島新手必讀完整攻略',
+    url: '/blog/2026-03-08-657598bdfd8978000120fe20/',
+  },
+  {
+    keywords: ['換匯', '換錢', '匯率', '美金', '印尼盾', '台幣', '印尼幣', '划算', '換幣'],
+    title: '峇里島換匯攻略，哪裡換最划算？',
+    url: '/blog/2024-01-28-65b5c7e2fd89780001e96fac/',
+  },
+  {
+    keywords: ['sim卡', 'sim', 'SIM卡', 'SIM', '網路', '電話卡', '上網', '最穩'],
+    title: '峇里島 SIM 卡推薦，最穩上網方案',
+    url: '/blog/2024-03-21-65f916bbfd89780001b916e0/',
+  },
+  {
+    keywords: ['簽證', 'visa', 'VISA', '海關', '申請', '通關', '入境', '電子簽', '落地簽'],
+    title: '峇里島簽證申請攻略',
+    url: '/blog/2025-08-14-689dcce7fd8978000125fc52/',
+  },
+  {
+    keywords: ['atv', 'ATV', '越野車', '四輪越野'],
+    title: '峇里島 ATV 越野車體驗推薦',
+    url: '/blog/2024-01-30-65b6ef65fd89780001f5d032/',
+  },
+  {
+    keywords: ['泛舟', '白水泛舟', '激流'],
+    title: '峇里島泛舟體驗推薦',
+    url: '/blog/2025-03-28-67e62aa8fd89780001888620/',
+  },
+  {
+    keywords: ['水上活動', '浮潛', '潛水', '香蕉船', '拖曳傘', '水上運動'],
+    title: '峇里島水上活動推薦：浮潛、潛水、香蕉船',
+    url: '/blog/2026-01-20-694122b8fd89780001f514c9/',
+  },
+];
+
+function findPinnedArticles(query) {
+  const lower = query.toLowerCase();
+  const matched = [];
+  for (const pin of PINNED_ARTICLES) {
+    if (pin.keywords.some(k => lower.includes(k.toLowerCase()))) {
+      matched.push({ title: pin.title, url: pin.url });
+    }
+  }
+  return matched;
+}
+
 const RATE_LIMIT_MAX = 20;      // 每個 IP 每小時最多幾次
 const RATE_LIMIT_TTL = 3600;    // 1 小時（秒）
 const INPUT_MAX_CHARS = 200;
@@ -113,7 +168,12 @@ export async function onRequestPost(context) {
 
   const lang = detectLanguage(message);
   const affiliate = detectAffiliate(message);
-  const relatedArticles = findRelatedArticles(message, articles);
+  const pinned = findPinnedArticles(message);
+  const fromIndex = findRelatedArticles(message, articles);
+  // 合併：pinned 優先，再補充索引結果（去重），最多 3 筆
+  const pinnedUrls = new Set(pinned.map(a => a.url));
+  const merged = [...pinned, ...fromIndex.filter(a => !pinnedUrls.has(a.url))].slice(0, 3);
+  const relatedArticles = merged;
   const systemPrompt = buildSystemPrompt(lang, relatedArticles);
 
   // Call Claude Haiku 4.5
