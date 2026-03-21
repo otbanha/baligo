@@ -1,0 +1,339 @@
+---
+// 峇里島旅遊 AI 問答機器人
+// 需要在 Cloudflare Pages 後台設定 Workers AI binding（名稱：AI）
+---
+
+<div id="chatbot-container">
+  <button id="chatbot-toggle" aria-label="開啟峇里島小助手" title="峇里島旅遊小助手">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+      <path d="M21 15a2 2 0 0 1-2 2H7l-4 4V5a2 2 0 0 1 2-2h14a2 2 0 0 1 2 2z"/>
+    </svg>
+    <span class="chat-badge" id="chat-badge" aria-hidden="true"></span>
+  </button>
+
+  <div id="chatbot-window" role="dialog" aria-label="峇里島旅遊小助手" aria-hidden="true">
+    <div class="chat-header">
+      <div class="chat-title">
+        <span class="chat-avatar">🌴</span>
+        <div>
+          <strong>峇里島小助手</strong>
+          <span class="chat-status">隨時為您解答</span>
+        </div>
+      </div>
+      <button id="chatbot-close" aria-label="關閉">✕</button>
+    </div>
+
+    <div class="chat-messages" id="chat-messages">
+      <div class="msg bot">
+        <span class="msg-avatar">🌴</span>
+        <div class="msg-bubble">
+          你好！我是峇里島小助手 👋<br>有任何峇里島旅遊問題都可以問我！
+        </div>
+      </div>
+    </div>
+
+    <form class="chat-input-area" id="chat-form">
+      <input
+        type="text"
+        id="chat-input"
+        placeholder="輸入問題，例如：峇里島最佳旅遊季節？"
+        maxlength="200"
+        autocomplete="off"
+      />
+      <button type="submit" id="chat-send" aria-label="送出">
+        <svg viewBox="0 0 24 24" fill="currentColor"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
+      </button>
+    </form>
+  </div>
+</div>
+
+<script>
+  const API_URL = '/api/chat';
+  const toggle = document.getElementById('chatbot-toggle');
+  const win = document.getElementById('chatbot-window');
+  const closeBtn = document.getElementById('chatbot-close');
+  const form = document.getElementById('chat-form');
+  const input = document.getElementById('chat-input') as HTMLInputElement;
+  const messages = document.getElementById('chat-messages');
+  const badge = document.getElementById('chat-badge');
+
+  let isOpen = false;
+  let hasUnread = false;
+
+  function openChat() {
+    isOpen = true;
+    win.removeAttribute('aria-hidden');
+    win.classList.add('open');
+    toggle.setAttribute('aria-expanded', 'true');
+    hasUnread = false;
+    if (badge) badge.style.display = 'none';
+    setTimeout(() => input.focus(), 100);
+  }
+
+  function closeChat() {
+    isOpen = false;
+    win.setAttribute('aria-hidden', 'true');
+    win.classList.remove('open');
+    toggle.setAttribute('aria-expanded', 'false');
+  }
+
+  toggle.addEventListener('click', () => isOpen ? closeChat() : openChat());
+  closeBtn.addEventListener('click', closeChat);
+
+  function addMessage(text: string, role: 'user' | 'bot' | 'error') {
+    const div = document.createElement('div');
+    div.className = `msg ${role}`;
+    if (role === 'bot') {
+      div.innerHTML = `<span class="msg-avatar">🌴</span><div class="msg-bubble">${text.replace(/\n/g, '<br>')}</div>`;
+    } else if (role === 'error') {
+      div.innerHTML = `<div class="msg-bubble error">${text}</div>`;
+    } else {
+      div.innerHTML = `<div class="msg-bubble">${text}</div>`;
+    }
+    messages.appendChild(div);
+    messages.scrollTop = messages.scrollHeight;
+  }
+
+  function addTyping() {
+    const div = document.createElement('div');
+    div.className = 'msg bot typing';
+    div.id = 'typing-indicator';
+    div.innerHTML = '<span class="msg-avatar">🌴</span><div class="msg-bubble"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>';
+    messages.appendChild(div);
+    messages.scrollTop = messages.scrollHeight;
+  }
+
+  function removeTyping() {
+    document.getElementById('typing-indicator')?.remove();
+  }
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    const text = input.value.trim();
+    if (!text) return;
+
+    input.value = '';
+    const sendBtn = document.getElementById('chat-send') as HTMLButtonElement;
+    sendBtn.disabled = true;
+    input.disabled = true;
+
+    addMessage(text, 'user');
+    addTyping();
+
+    try {
+      const res = await fetch(API_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ message: text }),
+      });
+      const data = await res.json();
+      removeTyping();
+      if (data.reply) {
+        addMessage(data.reply, 'bot');
+        if (!isOpen) {
+          hasUnread = true;
+          if (badge) badge.style.display = 'flex';
+        }
+      } else {
+        addMessage(data.error || '抱歉，暫時無法回答，請稍後再試。', 'error');
+      }
+    } catch {
+      removeTyping();
+      addMessage('網路錯誤，請稍後再試。', 'error');
+    } finally {
+      sendBtn.disabled = false;
+      input.disabled = false;
+      input.focus();
+    }
+  });
+</script>
+
+<style>
+#chatbot-container {
+  position: fixed;
+  bottom: 1.5rem;
+  right: 1.5rem;
+  z-index: 999;
+}
+
+#chatbot-toggle {
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--ocean);
+  border: 2px solid var(--gold);
+  color: var(--gold-light);
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 20px rgba(10, 22, 40, 0.35);
+  transition: transform 0.2s, box-shadow 0.2s;
+  position: relative;
+}
+#chatbot-toggle:hover { transform: scale(1.08); box-shadow: 0 6px 24px rgba(10,22,40,0.45); }
+#chatbot-toggle svg { width: 24px; height: 24px; }
+
+.chat-badge {
+  position: absolute;
+  top: 0; right: 0;
+  width: 14px; height: 14px;
+  background: #e53e3e;
+  border-radius: 50%;
+  border: 2px solid white;
+  display: none;
+}
+
+#chatbot-window {
+  position: absolute;
+  bottom: 68px;
+  right: 0;
+  width: 340px;
+  max-height: 500px;
+  background: var(--white);
+  border-radius: 16px;
+  box-shadow: 0 8px 40px rgba(10,22,40,0.25);
+  border: 1px solid rgba(197,160,89,0.3);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  opacity: 0;
+  pointer-events: none;
+  transform: translateY(10px) scale(0.97);
+  transition: opacity 0.2s, transform 0.2s;
+}
+#chatbot-window.open {
+  opacity: 1;
+  pointer-events: auto;
+  transform: translateY(0) scale(1);
+}
+
+.chat-header {
+  background: linear-gradient(135deg, var(--ocean), #2a5298);
+  padding: 0.9em 1em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-bottom: 1px solid rgba(197,160,89,0.3);
+  flex-shrink: 0;
+}
+.chat-title {
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
+}
+.chat-avatar { font-size: 1.3em; }
+.chat-title strong { display: block; color: var(--gold-light); font-size: 0.9em; }
+.chat-status { font-size: 0.72em; color: rgba(255,255,255,0.6); }
+.chat-header button {
+  background: none; border: none; color: rgba(255,255,255,0.6);
+  cursor: pointer; font-size: 1em; padding: 0.2em 0.4em;
+  border-radius: 4px; transition: color 0.15s;
+}
+.chat-header button:hover { color: white; }
+
+.chat-messages {
+  flex: 1;
+  overflow-y: auto;
+  padding: 1em;
+  display: flex;
+  flex-direction: column;
+  gap: 0.8em;
+  scroll-behavior: smooth;
+}
+.chat-messages::-webkit-scrollbar { width: 4px; }
+.chat-messages::-webkit-scrollbar-thumb { background: rgba(197,160,89,0.3); border-radius: 2px; }
+
+.msg {
+  display: flex;
+  align-items: flex-end;
+  gap: 0.5em;
+}
+.msg.user { flex-direction: row-reverse; }
+.msg-avatar { font-size: 1.1em; flex-shrink: 0; margin-bottom: 2px; }
+
+.msg-bubble {
+  max-width: 78%;
+  padding: 0.6em 0.9em;
+  border-radius: 14px;
+  font-size: 0.85em;
+  line-height: 1.55;
+}
+.msg.bot .msg-bubble {
+  background: #f0f4fa;
+  color: var(--text);
+  border-bottom-left-radius: 4px;
+}
+.msg.user .msg-bubble {
+  background: var(--ocean);
+  color: var(--gold-light);
+  border-bottom-right-radius: 4px;
+}
+.msg-bubble.error {
+  background: #fff5f5;
+  color: #c53030;
+  border: 1px solid #fed7d7;
+  font-size: 0.82em;
+}
+
+/* 打字動畫 */
+.typing .msg-bubble {
+  padding: 0.7em 1em;
+  display: flex;
+  gap: 4px;
+  align-items: center;
+}
+.dot {
+  width: 7px; height: 7px;
+  background: var(--gold);
+  border-radius: 50%;
+  animation: bounce 1.2s infinite;
+}
+.dot:nth-child(2) { animation-delay: 0.2s; }
+.dot:nth-child(3) { animation-delay: 0.4s; }
+@keyframes bounce {
+  0%, 60%, 100% { transform: translateY(0); }
+  30% { transform: translateY(-6px); }
+}
+
+.chat-input-area {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  padding: 0.7em 0.8em;
+  border-top: 1px solid rgba(197,160,89,0.2);
+  flex-shrink: 0;
+  background: var(--white);
+}
+#chat-input {
+  flex: 1;
+  border: 1px solid rgba(197,160,89,0.35);
+  border-radius: 20px;
+  padding: 0.5em 0.9em;
+  font-size: 0.85em;
+  font-family: inherit;
+  outline: none;
+  background: var(--white);
+  color: var(--text);
+}
+#chat-input:focus { border-color: var(--gold); }
+
+#chat-send {
+  width: 36px; height: 36px;
+  border-radius: 50%;
+  background: var(--ocean);
+  border: none;
+  color: var(--gold-light);
+  cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+  transition: background 0.15s;
+}
+#chat-send:hover { background: var(--ocean-light); }
+#chat-send:disabled { opacity: 0.5; cursor: not-allowed; }
+#chat-send svg { width: 16px; height: 16px; }
+
+@media (max-width: 400px) {
+  #chatbot-window { width: calc(100vw - 2rem); right: -0.5rem; }
+}
+</style>
