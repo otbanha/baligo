@@ -17,11 +17,20 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
   coverImage: p.data.coverImage || null,
 })));
 
+function extractFirstImage(body: string): string {
+  const m = body?.match(/!\[.*?\]\((https?:\/\/[^)\s]+)\)/);
+  return m ? m[1] : '';
+}
+
 const allPosts = (await getCollection('blog'))
   .filter(p => p.data.pubDate)
   .map(p => ({
     ...p,
-    data: { ...p.data, pubDate: new Date(p.data.pubDate) }
+    data: {
+      ...p.data,
+      pubDate: new Date(p.data.pubDate),
+      heroImage: p.data.heroImage || extractFirstImage(p.body),
+    }
   }))
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 

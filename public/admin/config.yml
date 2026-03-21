@@ -38,6 +38,7 @@ collections:
         widget: list
         field: { label: Tag, name: tag, widget: string }
         required: false
+      - { label: 首圖, name: heroImage, widget: image, required: false, hint: "不填則自動抓取內文第一張圖" }
       - { label: 原始網址, name: originalUrl, widget: string, required: false }
       - { label: 內文, name: body, widget: markdown }
       - label: 影片嵌入
