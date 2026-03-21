@@ -35,7 +35,7 @@ const promotions = defineCollection({
     url: z.string(),
     coverImage: z.string().optional(),
     note: z.string().optional(),
-    expiresAt: z.string().optional().transform(v => v ? new Date(v) : undefined),
+    expiresAt: z.string().nullish().transform(v => v ? new Date(v) : undefined),
   }),
 });
 

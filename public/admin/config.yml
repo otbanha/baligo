@@ -69,7 +69,7 @@ collections:
       - { label: 連結網址, name: url, widget: string }
       - { label: 封面圖網址（自動抓取後可修改）, name: coverImage, widget: string, required: false }
       - { label: 備注（內部用）, name: note, widget: text, required: false }
-      - { label: 截止日期, name: expiresAt, widget: datetime, required: false, hint: "不填表示長期有效" }
+      - { label: 截止日期, name: expiresAt, widget: datetime, required: false, default: '', hint: "不填表示長期有效" }
 
   - name: blocks
     label: 內容區塊
