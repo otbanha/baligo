@@ -1,0 +1,256 @@
+---
+export const prerender = true;
+
+import shortlinks from '../../data/shortlinks.json';
+
+interface ShortLink {
+  id: string;
+  url: string;
+  note?: string;
+}
+
+const links: ShortLink[] = shortlinks;
+---
+
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>短網址管理 — gobaligo.id</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+      background: #f5f5f5;
+      color: #222;
+      padding: 2rem 1rem;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: 1.4rem;
+      font-weight: 700;
+      margin-bottom: 1.25rem;
+      color: #111;
+    }
+
+    .search-wrap {
+      margin-bottom: 1.25rem;
+    }
+
+    #search {
+      width: 100%;
+      max-width: 360px;
+      padding: 0.55rem 0.85rem;
+      border: 1px solid #ccc;
+      border-radius: 6px;
+      font-size: 0.95rem;
+      outline: none;
+      transition: border-color 0.15s;
+    }
+
+    #search:focus {
+      border-color: #f97316;
+    }
+
+    .count {
+      font-size: 0.82rem;
+      color: #888;
+      margin-top: 0.4rem;
+    }
+
+    table {
+      width: 100%;
+      border-collapse: collapse;
+      background: #fff;
+      border-radius: 8px;
+      overflow: hidden;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+      font-size: 0.9rem;
+    }
+
+    thead {
+      background: #f97316;
+      color: #fff;
+    }
+
+    th {
+      padding: 0.75rem 1rem;
+      text-align: left;
+      font-weight: 600;
+    }
+
+    td {
+      padding: 0.7rem 1rem;
+      border-bottom: 1px solid #f0f0f0;
+      vertical-align: top;
+      word-break: break-all;
+    }
+
+    tr:last-child td {
+      border-bottom: none;
+    }
+
+    tr:hover td {
+      background: #fff8f4;
+    }
+
+    .short-link {
+      font-family: monospace;
+      font-size: 0.88rem;
+      color: #f97316;
+      text-decoration: none;
+      font-weight: 600;
+    }
+
+    .short-link:hover {
+      text-decoration: underline;
+    }
+
+    .target-url {
+      color: #555;
+      font-size: 0.83rem;
+      max-width: 380px;
+      display: block;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      white-space: nowrap;
+    }
+
+    .note {
+      color: #888;
+      font-size: 0.83rem;
+    }
+
+    .copy-btn {
+      background: none;
+      border: 1px solid #e0e0e0;
+      border-radius: 4px;
+      padding: 0.2rem 0.5rem;
+      font-size: 0.75rem;
+      cursor: pointer;
+      color: #666;
+      margin-left: 0.5rem;
+      transition: all 0.15s;
+    }
+
+    .copy-btn:hover {
+      border-color: #f97316;
+      color: #f97316;
+    }
+
+    .empty {
+      text-align: center;
+      padding: 3rem;
+      color: #aaa;
+      font-size: 0.9rem;
+    }
+
+    #no-results {
+      display: none;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>🔗 短網址管理</h1>
+
+    <div class="search-wrap">
+      <input
+        type="text"
+        id="search"
+        placeholder="搜尋 ID 或備註…"
+        autocomplete="off"
+        autofocus
+      />
+      <div class="count" id="count">
+        共 {links.length} 筆
+      </div>
+    </div>
+
+    {links.length === 0 ? (
+      <div class="empty">還沒有短網址，請在 shortlinks.json 新增資料。</div>
+    ) : (
+      <table>
+        <thead>
+          <tr>
+            <th>短網址</th>
+            <th>目標網址</th>
+            <th>備註</th>
+          </tr>
+        </thead>
+        <tbody id="list">
+          {links.map((link) => (
+            <tr data-search={`${link.id} ${link.note ?? ''}`}>
+              <td>
+                <a
+                  class="short-link"
+                  href={`/go/${link.id}`}
+                  target="_blank"
+                  rel="noopener"
+                >
+                  /go/{link.id}
+                </a>
+                <button
+                  class="copy-btn"
+                  data-url={`https://gobaligo.id/go/${link.id}`}
+                >
+                  複製
+                </button>
+              </td>
+              <td>
+                <span class="target-url" title={link.url}>{link.url}</span>
+              </td>
+              <td>
+                <span class="note">{link.note ?? '—'}</span>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+    )}
+
+    <div id="no-results" class="empty">沒有符合的結果</div>
+  </div>
+
+  <script>
+    const input = document.getElementById('search') as HTMLInputElement;
+    const rows = document.querySelectorAll<HTMLTableRowElement>('#list tr');
+    const countEl = document.getElementById('count')!;
+    const noResults = document.getElementById('no-results')!;
+    const total = rows.length;
+
+    input?.addEventListener('input', () => {
+      const q = input.value.toLowerCase().trim();
+      let visible = 0;
+
+      rows.forEach((row) => {
+        const match = row.dataset.search?.toLowerCase().includes(q);
+        row.style.display = match ? '' : 'none';
+        if (match) visible++;
+      });
+
+      countEl.textContent = q ? `${visible} / ${total} 筆` : `共 ${total} 筆`;
+      noResults.style.display = visible === 0 && q ? 'block' : 'none';
+    });
+
+    // 複製按鈕
+    document.querySelectorAll<HTMLButtonElement>('.copy-btn').forEach((btn) => {
+      btn.addEventListener('click', async () => {
+        const url = btn.dataset.url ?? '';
+        await navigator.clipboard.writeText(url);
+        const orig = btn.textContent;
+        btn.textContent = '✓ 已複製';
+        setTimeout(() => { btn.textContent = orig; }, 1500);
+      });
+    });
+  </script>
+</body>
+</html>

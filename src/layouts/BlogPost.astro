@@ -54,7 +54,7 @@ const getRandomPosts = (categoryName: string, count: number) => {
 
 const randomArea = getRandomPosts('峇里島分區攻略', 5);
 const randomAccom = getRandomPosts('住宿推薦', 4);
-const randomPosts = [...randomArea, ...randomAccom].sort(() => Math.random() - 0.5).slice(0, 9);
+const randomPosts = [...randomArea, ...randomAccom].sort(() => Math.random() - 0.5).slice(0, 6);
 
 // 促銷活動：過濾未過期的
 const allPromos = await getCollection('promotions');
