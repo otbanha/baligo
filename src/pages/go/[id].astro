@@ -1,14 +1,21 @@
 ---
-export const prerender = false;
-
 import shortlinks from '../../data/shortlinks.json';
 
-const { id } = Astro.params;
-const match = shortlinks.find((link: { id: string }) => link.id === id);
-
-if (match) {
-  return Astro.redirect((match as { url: string }).url, 301);
-} else {
-  return Astro.redirect('/404', 302);
+export function getStaticPaths() {
+  return shortlinks.map((link: { id: string; url: string }) => ({
+    params: { id: link.id },
+    props: { url: link.url },
+  }));
 }
+
+const { url } = Astro.props;
 ---
+<html>
+  <head>
+    <meta http-equiv="refresh" content={`0; url=${url}`} />
+    <title>Redirecting...</title>
+  </head>
+  <body>
+    <p>Redirecting to <a href={url}>{url}</a>...</p>
+  </body>
+</html>
