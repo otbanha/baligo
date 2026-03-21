@@ -5,10 +5,11 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import ChatBot from '../components/ChatBot.astro';
+import AIArticleQA from '../components/AIArticleQA.astro';
 import { getCollection } from 'astro:content';
 
-type Props = CollectionEntry<'blog'>['data'];
-const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {} } = Astro.props;
+type Props = CollectionEntry<'blog'>['data'] & { body?: string };
+const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '' } = Astro.props;
 
 const allPosts = await getCollection('blog');
 
@@ -206,6 +207,7 @@ window.addEventListener('load', () => {
 });
 </script>
 
+  <AIArticleQA title={title} body={body} />
   <ChatBot />
   <Footer />
 </body>

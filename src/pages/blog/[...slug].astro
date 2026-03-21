@@ -44,6 +44,6 @@ rawEmbeds.forEach((e: any) => {
 });
 ---
 
-<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap}>
+<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body}>
   <Content />
 </BlogPost>

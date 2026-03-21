@@ -1,0 +1,219 @@
+---
+interface Props {
+  title: string;
+  body: string;
+}
+const { title, body } = Astro.props;
+// 截取前 3000 字傳給前端（build time 截短，避免 HTML 過大）
+const excerpt = body.slice(0, 3000);
+---
+
+<section class="article-qa" id="article-qa">
+  <div class="qa-header">
+    <h2 class="qa-title">🤖 本文 AI 問答</h2>
+    <p class="qa-desc">根據文章內容自動生成，點擊問題查看解答</p>
+  </div>
+  <div class="qa-body" id="qa-body">
+    <div class="qa-loading" id="qa-loading">
+      <span class="dot"></span><span class="dot"></span><span class="dot"></span>
+      <span class="qa-loading-text">正在生成問答⋯</span>
+    </div>
+  </div>
+</section>
+
+<script define:vars={{ title, excerpt }}>
+  let generated = false;
+
+  async function generateQA() {
+    if (generated) return;
+    generated = true;
+
+    const body = document.getElementById('qa-body');
+    const loading = document.getElementById('qa-loading');
+
+    try {
+      const res = await fetch('/api/article-qa', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ title, body: excerpt }),
+      });
+      const data = await res.json();
+
+      if (!data.qa || !Array.isArray(data.qa)) throw new Error(data.error || '無法生成');
+
+      loading.remove();
+      data.qa.forEach((item, i) => {
+        const div = document.createElement('div');
+        div.className = 'qa-item';
+        div.innerHTML = `
+          <button class="qa-question" aria-expanded="false" aria-controls="qa-answer-${i}">
+            <span class="qa-q-icon">Q</span>
+            <span>${item.q}</span>
+            <span class="qa-arrow">▼</span>
+          </button>
+          <div class="qa-answer" id="qa-answer-${i}" hidden>
+            <span class="qa-a-icon">A</span>
+            <p>${item.a}</p>
+          </div>
+        `;
+        body.appendChild(div);
+
+        div.querySelector('.qa-question').addEventListener('click', function () {
+          const answer = div.querySelector('.qa-answer');
+          const isOpen = !answer.hidden;
+          answer.hidden = isOpen;
+          this.setAttribute('aria-expanded', String(!isOpen));
+          div.querySelector('.qa-arrow').style.transform = isOpen ? '' : 'rotate(180deg)';
+        });
+      });
+    } catch (err) {
+      loading.innerHTML = `<span class="qa-error">⚠️ ${err.message || '生成失敗，請稍後重試'}</span>`;
+    }
+  }
+
+  // 滾動進入視野時才觸發（節省 API 呼叫）
+  const section = document.getElementById('article-qa');
+  if ('IntersectionObserver' in window) {
+    const observer = new IntersectionObserver((entries) => {
+      if (entries[0].isIntersecting) {
+        generateQA();
+        observer.disconnect();
+      }
+    }, { rootMargin: '200px' });
+    observer.observe(section);
+  } else {
+    generateQA();
+  }
+</script>
+
+<style>
+.article-qa {
+  background: linear-gradient(135deg, #f5efe6 0%, #ede4d3 100%);
+  border-top: 2px solid var(--gold);
+  padding: 2em 1.5em;
+}
+
+.qa-header {
+  margin-bottom: 1.2em;
+}
+
+.qa-title {
+  font-size: 1.1em;
+  color: var(--ocean);
+  margin: 0 0 0.3em;
+}
+
+.qa-desc {
+  font-size: 0.82em;
+  color: var(--text-light);
+  margin: 0;
+}
+
+.qa-body {
+  max-width: 760px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap: 0.6em;
+}
+
+/* Loading */
+.qa-loading {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 1em 0;
+  color: var(--text-light);
+  font-size: 0.88em;
+}
+.qa-loading-text { margin-left: 0.3em; }
+.dot {
+  width: 7px; height: 7px;
+  background: var(--gold);
+  border-radius: 50%;
+  animation: bounce 1.2s infinite;
+}
+.dot:nth-child(2) { animation-delay: 0.2s; }
+.dot:nth-child(3) { animation-delay: 0.4s; }
+@keyframes bounce {
+  0%, 60%, 100% { transform: translateY(0); }
+  30% { transform: translateY(-5px); }
+}
+.qa-error { color: #c53030; font-size: 0.88em; }
+
+/* Q&A items */
+.qa-item {
+  background: white;
+  border: 1px solid rgba(197, 160, 89, 0.3);
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.qa-question {
+  width: 100%;
+  display: flex;
+  align-items: center;
+  gap: 0.7em;
+  padding: 0.9em 1em;
+  background: none;
+  border: none;
+  cursor: pointer;
+  font-family: inherit;
+  font-size: 0.92em;
+  font-weight: 600;
+  color: var(--ocean);
+  text-align: left;
+  transition: background 0.15s;
+}
+.qa-question:hover { background: rgba(197, 160, 89, 0.08); }
+
+.qa-q-icon {
+  width: 24px; height: 24px;
+  background: var(--ocean);
+  color: var(--gold-light);
+  border-radius: 6px;
+  font-size: 0.8em;
+  font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+}
+
+.qa-question span:nth-child(2) { flex: 1; line-height: 1.4; }
+
+.qa-arrow {
+  font-size: 0.7em;
+  color: var(--gold);
+  transition: transform 0.2s;
+  flex-shrink: 0;
+}
+
+.qa-answer {
+  display: flex;
+  gap: 0.7em;
+  padding: 0 1em 1em;
+  align-items: flex-start;
+}
+
+.qa-a-icon {
+  width: 24px; height: 24px;
+  background: var(--gold);
+  color: var(--ocean);
+  border-radius: 6px;
+  font-size: 0.8em;
+  font-weight: 700;
+  display: flex; align-items: center; justify-content: center;
+  flex-shrink: 0;
+  margin-top: 2px;
+}
+
+.qa-answer p {
+  font-size: 0.88em;
+  color: var(--text);
+  line-height: 1.65;
+  margin: 0;
+}
+
+@media (max-width: 600px) {
+  .article-qa { padding: 1.5em 1em; }
+}
+</style>
