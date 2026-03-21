@@ -97,20 +97,27 @@ function findRelatedArticles(query, articles) {
 }
 
 function buildSystemPrompt(lang, relatedArticles) {
-  const articleContext = relatedArticles.length > 0
-    ? '\n\n可引用的文章（請以 Markdown 連結格式嵌入回答中）：\n' + relatedArticles.map(a => `- [${a.title}](${a.url})`).join('\n')
-    : '';
+  if (relatedArticles.length > 0) {
+    const links = relatedArticles.map(a => `[${a.title}](${a.url})`).join('、');
+    if (lang === 'en') {
+      return `You are "Baligo AI" from gobaligo.id. A relevant article exists for this question.
+DO NOT answer the question yourself. Instead, briefly say the answer can be found in the article, and embed the link using Markdown format.
+Keep it under 2 sentences. Relevant articles: ${links}`;
+    }
+    return `你是「峇里島知識庫AI」，代表旅遊網站 gobaligo.id。
+這個問題有對應的專業文章，請勿自行回答細節，以免給出錯誤資訊。
+請用一到兩句話引導讀者點擊閱讀，並以 Markdown 格式 [文章標題](URL) 嵌入連結。語氣親切自然。
+相關文章：${links}`;
+  }
 
   if (lang === 'en') {
-    return `You are "Baligo AI", a Bali travel expert from gobaligo.id. Answer in English, concisely (under 100 words).
-Only answer Bali-related travel questions. If relevant articles exist, embed them as Markdown links [title](url) naturally in your reply.
-Do not make up information.${articleContext}`;
+    return `You are "Baligo AI", a Bali travel expert from gobaligo.id. Answer in English, concisely (under 80 words).
+Only answer Bali-related travel questions. Do not make up specific details; if unsure, say so.`;
   }
 
   return `你是「峇里島知識庫AI」，代表旅遊網站 gobaligo.id，專門回答峇里島旅遊相關問題。
-請用繁體中文回答，語氣親切自然，簡潔（100字以內）。
-如果有相關文章，請將連結以 Markdown 格式 [文章標題](文章URL) 直接嵌入回答句子中，讓讀者點擊。
-不確定的資訊請如實說明，不要捏造資訊。只回答峇里島旅遊相關問題。${articleContext}`;
+請用繁體中文回答，語氣親切自然，簡潔（80字以內）。
+不確定的資訊請如實說明，不要捏造細節。只回答峇里島旅遊相關問題。`;
 }
 
 async function checkRateLimit(kv, ip) {
