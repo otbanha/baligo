@@ -128,6 +128,8 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
           <slot />
         </div>
 
+        <AIArticleQA title={title} body={body} />
+
         <!-- 文章底部推薦 -->
         {randomPosts.length > 0 && (
           <div class="related-posts">
@@ -207,7 +209,6 @@ window.addEventListener('load', () => {
 });
 </script>
 
-  <AIArticleQA title={title} body={body} />
   <ChatBot />
   <Footer />
 </body>
