@@ -1,3 +1,5 @@
 ---
-return Astro.redirect('/blog');
+// Redirect handled by public/_redirects (Cloudflare Pages HTTP 302)
+// Using window.location.replace so browser back button skips this page
 ---
+<script>window.location.replace('/blog');</script>
