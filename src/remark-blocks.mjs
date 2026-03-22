@@ -25,12 +25,26 @@ export function remarkBlocks(embedMap = {}) {
       return;
     }
 
+    function mdToHtml(content) {
+      return content
+        .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<img src="$2" alt="$1" style="max-width:100%;height:auto;" />')
+        .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
+        .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+        .replace(/\*([^*]+)\*/g, '<em>$1</em>')
+        .replace(/^#{1,6}\s+(.+)$/mg, (m, t) => {
+          const level = m.match(/^(#+)/)[1].length;
+          return '<h' + level + '>' + t + '</h' + level + '>';
+        })
+        .replace(/\n{2,}/g, '</p><p>')
+        .replace(/^(?!<[h|p|i|s|u|a])(.+)$/mg, '<p>$1</p>');
+    }
+
     function processBlock(slug) {
       const block = blocks[slug.trim()];
       if (!block) return '[區塊不存在: ' + slug + ']';
 
       if (block.type === 'normal') {
-        return block.content;
+        return mdToHtml(block.content);
       }
 
       if (block.type === 'random-cards' || block.type === 'random-list') {

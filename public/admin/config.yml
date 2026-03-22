@@ -25,6 +25,7 @@ collections:
       - pubDate
       - title
     summary: "{{title}}\n/blog/{{slug}}/"
+    thumbnail_field: heroImage
     fields:
       - { label: 標題, name: title, widget: string }
       - { label: 描述, name: description, widget: text, required: false }
@@ -35,9 +36,9 @@ collections:
         field: { label: 分類, name: category, widget: string }
       - label: Tags
         name: tags
-        widget: list
-        field: { label: Tag, name: tag, widget: string }
+        widget: string
         required: false
+        hint: "多個 tag 以「, 」分隔，例如：峇里島, 住宿, 推薦"
       - { label: 首圖, name: heroImage, widget: image, required: false, hint: "不填則自動抓取內文第一張圖" }
       - { label: 原始網址, name: originalUrl, widget: string, required: false }
       - { label: 內文, name: body, widget: markdown }

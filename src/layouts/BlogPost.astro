@@ -120,6 +120,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
               {updatedDate && (
                 <span class="last-updated-on">· 更新於 <FormattedDate date={updatedDate} /></span>
               )}
+              <a href={`/admin/#/collections/blog/entries/${Astro.params.slug}`} class="edit-link" target="_blank" rel="noopener">✏️ 編輯文章</a>
             </div>
             <hr />
           </div>
@@ -352,7 +353,9 @@ main {
 }
 
 .title h1 { font-size: 1.6em; line-height: 1.4; font-weight: 700; color: var(--ocean); margin: 0 0 0.4em; }
-.date { font-size: 0.85em; color: var(--text-light); margin-bottom: 1em; }
+.date { font-size: 0.85em; color: var(--text-light); margin-bottom: 1em; display: flex; align-items: center; gap: 0.8em; flex-wrap: wrap; }
+.edit-link { font-size: 0.8em; color: var(--text-light); text-decoration: none; border: 1px solid rgba(0,0,0,0.15); border-radius: 6px; padding: 0.1em 0.5em; }
+.edit-link:hover { color: var(--ocean); border-color: var(--ocean); }
 hr { margin: 1.2em 0 1.8em; }
 
 .prose :global(h2) {
