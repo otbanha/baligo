@@ -5,10 +5,7 @@ backend:
   base_url: https://baligo-auth.otbanha.workers.dev
 
 media_library:
-  name: cloudinary
-  config:
-    cloud_name: dksxqobud
-    api_key: 524988319775462
+  name: r2
 
 media_folder: ""
 public_folder: ""

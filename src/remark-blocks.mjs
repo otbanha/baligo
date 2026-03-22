@@ -89,43 +89,72 @@ return (headingHtml ? headingHtml : '') + listHtml;
       return block.content;
     }
 
+    function buildVideoEmbed(url) {
+      const ytMatch = url.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
+      if (ytMatch) {
+        return '<div class="video-embed"><iframe src="https://www.youtube.com/embed/' + ytMatch[1] + '" frameborder="0" allowfullscreen loading="lazy"></iframe></div>';
+      }
+      const igMatch = url.match(/instagram\.com\/(?:reel|p)\/([A-Za-z0-9_-]+)/);
+      if (igMatch) {
+        const s = '<' + 'script'; const e = '</' + 'script>';
+        return '<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/' + igMatch[1] + '/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote>' + s + ' async src="//www.instagram.com/embed.js">' + e + '</div>';
+      }
+      const ttMatch = url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
+      if (ttMatch) {
+        const s = '<' + 'script'; const e = '</' + 'script>';
+        return '<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="' + url + '" data-video-id="' + ttMatch[1] + '" style="width:100%;margin:0;"><section></section></blockquote>' + s + ' async src="https://www.tiktok.com/embed.js">' + e + '</div>';
+      }
+      return null;
+    }
+
     function visit(node) {
       if (node.type === 'paragraph' && node.children) {
-        node.children = node.children.map(child => {
-          if (child.type === 'link' && child.children && child.children[0] && child.children[0].value === 'video') {
-            const url = child.url;
-            const ytMatch = url.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
-            if (ytMatch) {
-              return { type: 'html', value: '<div class="video-embed"><iframe src="https://www.youtube.com/embed/' + ytMatch[1] + '" frameborder="0" allowfullscreen loading="lazy"></iframe></div>' };
-            }
-            const igMatch = url.match(/instagram\.com\/(?:reel|p)\/([A-Za-z0-9_-]+)/);
-            if (igMatch) {
-              const s = '<' + 'script';
-              const e = '</' + 'script>';
-              return { type: 'html', value: '<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/' + igMatch[1] + '/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote>' + s + ' async src="//www.instagram.com/embed.js">' + e + '</div>' };
-            }
-            const ttMatch = url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
-            if (ttMatch) {
-              const s = '<' + 'script';
-              const e = '</' + 'script>';
-              return { type: 'html', value: '<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="' + url + '" data-video-id="' + ttMatch[1] + '" style="width:100%;margin:0;"><section></section></blockquote>' + s + ' async src="https://www.tiktok.com/embed.js">' + e + '</div>' };
+        // Auto-embed: paragraph containing only a bare video URL (paste URL → instant embed)
+        if (node.children.length === 1) {
+          const only = node.children[0];
+          let candidateUrl = null;
+          if (only.type === 'link' && only.children?.length === 1 && only.children[0].value === only.url) {
+            candidateUrl = only.url; // GFM auto-linked bare URL
+          } else if (only.type === 'text') {
+            const t = only.value.trim();
+            if (/^https?:\/\/\S+$/.test(t)) candidateUrl = t; // plain-text URL
+          }
+          if (candidateUrl) {
+            const embed = buildVideoEmbed(candidateUrl);
+            if (embed) {
+              node.type = 'html';
+              node.value = embed;
+              delete node.children;
+              return;
             }
           }
-          if (child.type === 'text') {
-            let newValue = child.value;
-            let hasVideo = false;
-            newValue = newValue.replace(/\{\{block:([^}]+)\}\}/g, function(match, slug) {
-              hasVideo = true;
-              return processBlock(slug);
-            });
-            newValue = newValue.replace(/\{\{(video\d+)\}\}/g, function(match, position) {
-              hasVideo = true;
-              return '<span class="video-placeholder" data-position="' + position + '"></span>';
-            });
-            if (hasVideo) {
-              return { type: 'html', value: newValue };
-            }
-            return Object.assign({}, child, { value: newValue });
+        }
+
+        // Block references produce block-level HTML (h5, img, div…).
+        // Replacing just the text child leaves <p><h5>…</h5></p> — invalid HTML.
+        // Instead, convert the whole paragraph node to an html node.
+        const hasBlockRef = node.children.some(
+          c => c.type === 'text' && /\{\{block:|{{(video\d+)}}/.test(c.value)
+        );
+        if (hasBlockRef) {
+          const html = node.children.map(child => {
+            if (child.type !== 'text') return '';
+            return child.value
+              .replace(/\{\{block:([^}]+)\}\}/g, (_, slug) => processBlock(slug))
+              .replace(/\{\{(video\d+)\}\}/g, (_, pos) =>
+                '<span class="video-placeholder" data-position="' + pos + '"></span>'
+              );
+          }).join('');
+          node.type = 'html';
+          node.value = html;
+          delete node.children;
+          return;
+        }
+
+        node.children = node.children.map(child => {
+          if (child.type === 'link' && child.children && child.children[0] && child.children[0].value === 'video') {
+            const embed = buildVideoEmbed(child.url);
+            if (embed) return { type: 'html', value: embed };
           }
           return child;
         });

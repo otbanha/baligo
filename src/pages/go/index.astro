@@ -1,17 +1,6 @@
 ---
 export const prerender = true;
-
-import shortlinks from '../../data/shortlinks.json';
-
-interface ShortLink {
-  id: string;
-  url: string;
-  note?: string;
-}
-
-const links: ShortLink[] = shortlinks;
 ---
-
 <!DOCTYPE html>
 <html lang="zh-TW">
 <head>
@@ -21,236 +10,301 @@ const links: ShortLink[] = shortlinks;
   <meta name="robots" content="noindex, nofollow" />
   <style>
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif; background: #f5f5f5; color: #222; padding: 2rem 1rem; }
+    .container { max-width: 860px; margin: 0 auto; }
+    h1 { font-size: 1.35rem; font-weight: 700; margin-bottom: 1.5rem; }
 
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-      background: #f5f5f5;
-      color: #222;
-      padding: 2rem 1rem;
-    }
+    /* Auth */
+    #auth-wall { background: #fff; border-radius: 10px; padding: 2rem; box-shadow: 0 1px 6px rgba(0,0,0,.1); max-width: 360px; }
+    #auth-wall h2 { font-size: 1rem; margin-bottom: 1rem; }
+    .auth-row { display: flex; gap: .5rem; }
+    .auth-row input { flex: 1; padding: .5rem .8rem; border: 1px solid #ccc; border-radius: 6px; font-size: .95rem; }
+    .auth-err { color: #c53030; font-size: .82rem; margin-top: .5rem; display: none; }
 
-    .container {
-      max-width: 900px;
-      margin: 0 auto;
-    }
+    /* Add form */
+    #add-form { background: #fff; border-radius: 10px; padding: 1.4rem 1.5rem; box-shadow: 0 1px 6px rgba(0,0,0,.1); margin-bottom: 1.5rem; }
+    #add-form h2 { font-size: .95rem; font-weight: 700; margin-bottom: 1rem; color: #555; }
+    .form-row { display: grid; grid-template-columns: 1fr 2fr 1.5fr auto; gap: .6rem; align-items: end; }
+    .field label { display: block; font-size: .75rem; font-weight: 600; color: #777; margin-bottom: .3rem; }
+    .field input { width: 100%; padding: .5rem .75rem; border: 1px solid #ccc; border-radius: 6px; font-size: .9rem; font-family: inherit; }
+    .field input:focus { outline: none; border-color: #f97316; }
+    .preview { font-size: .75rem; color: #aaa; margin-top: .3rem; font-family: monospace; }
+    #form-status { font-size: .82rem; margin-top: .75rem; min-height: 1.1em; }
 
-    h1 {
-      font-size: 1.4rem;
-      font-weight: 700;
-      margin-bottom: 1.25rem;
-      color: #111;
-    }
+    /* Table */
+    .toolbar { display: flex; gap: .6rem; margin-bottom: .9rem; align-items: center; flex-wrap: wrap; }
+    #search { padding: .45rem .8rem; border: 1px solid #ccc; border-radius: 6px; font-size: .9rem; width: 220px; }
+    #search:focus { outline: none; border-color: #f97316; }
+    .count { font-size: .8rem; color: #999; }
 
-    .search-wrap {
-      margin-bottom: 1.25rem;
-    }
+    table { width: 100%; border-collapse: collapse; background: #fff; border-radius: 10px; overflow: hidden; box-shadow: 0 1px 6px rgba(0,0,0,.1); font-size: .88rem; }
+    thead { background: #1A365D; color: #fff; }
+    th { padding: .65rem 1rem; text-align: left; font-size: .8rem; font-weight: 600; }
+    td { padding: .65rem 1rem; border-bottom: 1px solid #f2f2f2; vertical-align: middle; }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: #faf8f4; }
+    .id-cell { font-family: monospace; font-weight: 700; color: #f97316; font-size: .9rem; }
+    .url-cell { color: #555; font-size: .82rem; max-width: 300px; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .note-cell { color: #888; font-size: .82rem; }
+    .actions { display: flex; gap: .4rem; }
 
-    #search {
-      width: 100%;
-      max-width: 360px;
-      padding: 0.55rem 0.85rem;
-      border: 1px solid #ccc;
-      border-radius: 6px;
-      font-size: 0.95rem;
-      outline: none;
-      transition: border-color 0.15s;
-    }
+    /* Buttons */
+    .btn { padding: .4rem .9rem; border: none; border-radius: 6px; cursor: pointer; font-size: .85rem; font-weight: 600; font-family: inherit; transition: opacity .15s; }
+    .btn:hover { opacity: .85; }
+    .btn:disabled { opacity: .45; cursor: not-allowed; }
+    .btn-primary { background: #f97316; color: #fff; }
+    .btn-ocean { background: #1A365D; color: #fff; }
+    .btn-sm { padding: .28rem .65rem; font-size: .78rem; }
+    .btn-ghost { background: none; border: 1px solid #ddd; color: #555; }
+    .btn-del { background: none; border: 1px solid #fca5a5; color: #c53030; }
+    .btn-del:hover { background: #fef2f2; opacity: 1; }
 
-    #search:focus {
-      border-color: #f97316;
-    }
+    .empty { text-align: center; padding: 2.5rem; color: #aaa; font-size: .9rem; }
+    #main-ui { display: none; }
 
-    .count {
-      font-size: 0.82rem;
-      color: #888;
-      margin-top: 0.4rem;
-    }
-
-    table {
-      width: 100%;
-      border-collapse: collapse;
-      background: #fff;
-      border-radius: 8px;
-      overflow: hidden;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
-      font-size: 0.9rem;
-    }
-
-    thead {
-      background: #f97316;
-      color: #fff;
-    }
-
-    th {
-      padding: 0.75rem 1rem;
-      text-align: left;
-      font-weight: 600;
-    }
-
-    td {
-      padding: 0.7rem 1rem;
-      border-bottom: 1px solid #f0f0f0;
-      vertical-align: top;
-      word-break: break-all;
-    }
-
-    tr:last-child td {
-      border-bottom: none;
-    }
-
-    tr:hover td {
-      background: #fff8f4;
-    }
-
-    .short-link {
-      font-family: monospace;
-      font-size: 0.88rem;
-      color: #f97316;
-      text-decoration: none;
-      font-weight: 600;
-    }
-
-    .short-link:hover {
-      text-decoration: underline;
-    }
-
-    .target-url {
-      color: #555;
-      font-size: 0.83rem;
-      max-width: 380px;
-      display: block;
-      overflow: hidden;
-      text-overflow: ellipsis;
-      white-space: nowrap;
-    }
-
-    .note {
-      color: #888;
-      font-size: 0.83rem;
-    }
-
-    .copy-btn {
-      background: none;
-      border: 1px solid #e0e0e0;
-      border-radius: 4px;
-      padding: 0.2rem 0.5rem;
-      font-size: 0.75rem;
-      cursor: pointer;
-      color: #666;
-      margin-left: 0.5rem;
-      transition: all 0.15s;
-    }
-
-    .copy-btn:hover {
-      border-color: #f97316;
-      color: #f97316;
-    }
-
-    .empty {
-      text-align: center;
-      padding: 3rem;
-      color: #aaa;
-      font-size: 0.9rem;
-    }
-
-    #no-results {
-      display: none;
+    @media (max-width: 640px) {
+      .form-row { grid-template-columns: 1fr 1fr; }
+      .form-row > :last-child { grid-column: span 2; }
+      td.url-cell, th.url-th { display: none; }
     }
   </style>
 </head>
 <body>
-  <div class="container">
-    <h1>🔗 短網址管理</h1>
+<div class="container">
+  <h1>🔗 短網址管理</h1>
 
-    <div class="search-wrap">
-      <input
-        type="text"
-        id="search"
-        placeholder="搜尋 ID 或備註…"
-        autocomplete="off"
-        autofocus
-      />
-      <div class="count" id="count">
-        共 {links.length} 筆
-      </div>
+  <!-- Auth wall -->
+  <div id="auth-wall">
+    <h2>請輸入管理密碼</h2>
+    <div class="auth-row">
+      <input type="password" id="token-input" placeholder="Admin token" />
+      <button class="btn btn-ocean" id="token-submit">進入</button>
     </div>
-
-    {links.length === 0 ? (
-      <div class="empty">還沒有短網址，請在 shortlinks.json 新增資料。</div>
-    ) : (
-      <table>
-        <thead>
-          <tr>
-            <th>短網址</th>
-            <th>目標網址</th>
-            <th>備註</th>
-          </tr>
-        </thead>
-        <tbody id="list">
-          {links.map((link) => (
-            <tr data-search={`${link.id} ${link.note ?? ''}`}>
-              <td>
-                <a
-                  class="short-link"
-                  href={`/go/${link.id}`}
-                  target="_blank"
-                  rel="noopener"
-                >
-                  /go/{link.id}
-                </a>
-                <button
-                  class="copy-btn"
-                  data-url={`https://gobaligo.id/go/${link.id}`}
-                >
-                  複製
-                </button>
-              </td>
-              <td>
-                <span class="target-url" title={link.url}>{link.url}</span>
-              </td>
-              <td>
-                <span class="note">{link.note ?? '—'}</span>
-              </td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
-    )}
-
-    <div id="no-results" class="empty">沒有符合的結果</div>
+    <div class="auth-err" id="auth-err">密碼錯誤，請再試一次</div>
   </div>
 
-  <script>
-    const input = document.getElementById('search') as HTMLInputElement;
-    const rows = document.querySelectorAll<HTMLTableRowElement>('#list tr');
-    const countEl = document.getElementById('count')!;
-    const noResults = document.getElementById('no-results')!;
-    const total = rows.length;
+  <!-- Main UI (hidden until authed) -->
+  <div id="main-ui">
+    <!-- Add form -->
+    <div id="add-form">
+      <h2>➕ 新增短網址</h2>
+      <div class="form-row">
+        <div class="field">
+          <label>短網址 ID</label>
+          <input type="text" id="f-id" placeholder="my-link" maxlength="60" autocomplete="off" />
+          <div class="preview" id="id-preview">gobaligo.id/go/</div>
+        </div>
+        <div class="field">
+          <label>目標網址</label>
+          <input type="url" id="f-url" placeholder="https://..." />
+        </div>
+        <div class="field">
+          <label>備註（選填）</label>
+          <input type="text" id="f-note" placeholder="說明用途" maxlength="100" />
+        </div>
+        <div class="field">
+          <label>&nbsp;</label>
+          <button class="btn btn-primary" id="add-btn">新增</button>
+        </div>
+      </div>
+      <div id="form-status"></div>
+    </div>
 
-    input?.addEventListener('input', () => {
-      const q = input.value.toLowerCase().trim();
-      let visible = 0;
+    <!-- List -->
+    <div class="toolbar">
+      <input type="text" id="search" placeholder="搜尋 ID 或備註…" autocomplete="off" />
+      <span class="count" id="count"></span>
+    </div>
 
-      rows.forEach((row) => {
-        const match = row.dataset.search?.toLowerCase().includes(q);
-        row.style.display = match ? '' : 'none';
-        if (match) visible++;
-      });
+    <table>
+      <thead>
+        <tr>
+          <th>短網址</th>
+          <th class="url-th">目標網址</th>
+          <th>備註</th>
+          <th>操作</th>
+        </tr>
+      </thead>
+      <tbody id="list">
+        <tr><td colspan="4" class="empty" id="loading">載入中…</td></tr>
+      </tbody>
+    </table>
+  </div>
+</div>
 
-      countEl.textContent = q ? `${visible} / ${total} 筆` : `共 ${total} 筆`;
-      noResults.style.display = visible === 0 && q ? 'block' : 'none';
+<script>
+  const BASE = 'https://gobaligo.id';
+  let token = '';
+  let allLinks = [];
+
+  // ── Auth ──────────────────────────────────────────────────────────────────
+  const tokenInput = document.getElementById('token-input');
+  const tokenSubmit = document.getElementById('token-submit');
+  const authWall = document.getElementById('auth-wall');
+  const mainUi = document.getElementById('main-ui');
+  const authErr = document.getElementById('auth-err');
+
+  // Restore from sessionStorage
+  const saved = sessionStorage.getItem('sl-token');
+  if (saved) { token = saved; unlock(); }
+
+  tokenInput.addEventListener('keydown', e => { if (e.key === 'Enter') tokenSubmit.click(); });
+  tokenSubmit.addEventListener('click', async () => {
+    const t = tokenInput.value.trim();
+    if (!t) return;
+    // Verify by attempting a POST with a dummy non-existent delete
+    const res = await fetch('/api/shortlinks?id=__verify__', {
+      method: 'DELETE',
+      headers: { 'X-Admin-Token': t },
     });
+    if (res.status === 401) {
+      authErr.style.display = 'block';
+      return;
+    }
+    token = t;
+    sessionStorage.setItem('sl-token', token);
+    authErr.style.display = 'none';
+    unlock();
+  });
 
-    // 複製按鈕
-    document.querySelectorAll<HTMLButtonElement>('.copy-btn').forEach((btn) => {
+  function unlock() {
+    authWall.style.display = 'none';
+    mainUi.style.display = 'block';
+    loadLinks();
+  }
+
+  // ── Load links ────────────────────────────────────────────────────────────
+  async function loadLinks() {
+    const res = await fetch('/api/shortlinks');
+    allLinks = res.ok ? await res.json() : [];
+    renderList(allLinks);
+  }
+
+  // ── Render ────────────────────────────────────────────────────────────────
+  const tbody = document.getElementById('list');
+  const countEl = document.getElementById('count');
+
+  function renderList(links) {
+    countEl.textContent = `共 ${links.length} 筆`;
+    if (links.length === 0) {
+      tbody.innerHTML = '<tr><td colspan="4" class="empty">還沒有短網址，用上方表單新增吧！</td></tr>';
+      return;
+    }
+    tbody.innerHTML = links.map(l => `
+      <tr data-search="${(l.id + ' ' + l.note).toLowerCase()}">
+        <td class="id-cell">
+          <a href="/go/${esc(l.id)}" target="_blank" style="color:inherit;text-decoration:none">/go/${esc(l.id)}</a>
+        </td>
+        <td class="url-cell" title="${esc(l.url)}">${esc(l.url)}</td>
+        <td class="note-cell">${esc(l.note) || '—'}</td>
+        <td>
+          <div class="actions">
+            <button class="btn btn-sm btn-ghost copy-btn" data-url="${BASE}/go/${esc(l.id)}">複製</button>
+            <button class="btn btn-sm btn-del del-btn" data-id="${esc(l.id)}">刪除</button>
+          </div>
+        </td>
+      </tr>
+    `).join('');
+
+    // Copy buttons
+    tbody.querySelectorAll('.copy-btn').forEach(btn => {
       btn.addEventListener('click', async () => {
-        const url = btn.dataset.url ?? '';
-        await navigator.clipboard.writeText(url);
+        await navigator.clipboard.writeText(btn.dataset.url).catch(() => {});
         const orig = btn.textContent;
         btn.textContent = '✓ 已複製';
         setTimeout(() => { btn.textContent = orig; }, 1500);
       });
     });
-  </script>
+
+    // Delete buttons
+    tbody.querySelectorAll('.del-btn').forEach(btn => {
+      btn.addEventListener('click', async () => {
+        const id = btn.dataset.id;
+        if (!confirm(`確定刪除 /go/${id}？`)) return;
+        btn.disabled = true;
+        const res = await fetch(`/api/shortlinks?id=${encodeURIComponent(id)}`, {
+          method: 'DELETE',
+          headers: { 'X-Admin-Token': token },
+        });
+        if (res.ok) {
+          allLinks = allLinks.filter(l => l.id !== id);
+          renderList(filterLinks(document.getElementById('search').value));
+        } else {
+          const d = await res.json();
+          alert(d.error || '刪除失敗');
+          btn.disabled = false;
+        }
+      });
+    });
+  }
+
+  function filterLinks(q) {
+    q = q.toLowerCase().trim();
+    return q ? allLinks.filter(l => (l.id + ' ' + l.note).toLowerCase().includes(q)) : allLinks;
+  }
+
+  // ── Search ────────────────────────────────────────────────────────────────
+  document.getElementById('search').addEventListener('input', e => {
+    renderList(filterLinks(e.target.value));
+  });
+
+  // ── ID preview ────────────────────────────────────────────────────────────
+  const idInput = document.getElementById('f-id');
+  const idPreview = document.getElementById('id-preview');
+  idInput.addEventListener('input', () => {
+    idPreview.textContent = `gobaligo.id/go/${idInput.value || '…'}`;
+  });
+
+  // ── Add ───────────────────────────────────────────────────────────────────
+  const addBtn = document.getElementById('add-btn');
+  const statusEl = document.getElementById('form-status');
+
+  addBtn.addEventListener('click', async () => {
+    const id = idInput.value.trim();
+    const url = document.getElementById('f-url').value.trim();
+    const note = document.getElementById('f-note').value.trim();
+
+    if (!id || !url) { setStatus('請填寫 ID 和目標網址', 'red'); return; }
+
+    addBtn.disabled = true;
+    setStatus('新增中…', '#888');
+
+    const res = await fetch('/api/shortlinks', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json', 'X-Admin-Token': token },
+      body: JSON.stringify({ id, url, note }),
+    });
+    const data = await res.json();
+
+    if (data.ok) {
+      setStatus(`✓ 已建立 gobaligo.id/go/${id}`, 'green');
+      idInput.value = '';
+      document.getElementById('f-url').value = '';
+      document.getElementById('f-note').value = '';
+      idPreview.textContent = 'gobaligo.id/go/';
+      allLinks.unshift({ id, url, note, createdAt: new Date().toISOString() });
+      renderList(allLinks);
+    } else {
+      setStatus(data.error || '新增失敗', 'red');
+    }
+    addBtn.disabled = false;
+  });
+
+  // Enter key in form fields
+  ['f-id', 'f-url', 'f-note'].forEach(id => {
+    document.getElementById(id).addEventListener('keydown', e => {
+      if (e.key === 'Enter') addBtn.click();
+    });
+  });
+
+  function setStatus(msg, color) {
+    statusEl.textContent = msg;
+    statusEl.style.color = color;
+  }
+
+  function esc(str) {
+    return String(str ?? '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+</script>
 </body>
 </html>

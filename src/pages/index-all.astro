@@ -2,40 +2,183 @@
 import { getCollection } from 'astro:content';
 const posts = await getCollection('blog');
 const sorted = posts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
+
+// Build slug → title map for client-side use
+const articleMap = Object.fromEntries(
+  posts.map(p => [`/blog/${p.id}/`, p.data.title])
+);
 ---
 <html>
 <head>
   <meta charset="utf-8" />
-  <title>文章索引</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>文章索引 — gobaligo</title>
   <style>
-    body { font-family: sans-serif; padding: 2rem; max-width: 900px; margin: 0 auto; }
-    input { width: 100%; padding: 0.5rem; margin-bottom: 1rem; font-size: 1rem; box-sizing: border-box; }
-    .item { margin-bottom: 0.8rem; border-bottom: 1px solid #eee; padding-bottom: 0.8rem; }
-    .title { font-weight: bold; margin-bottom: 0.2rem; }
-    .url { font-family: monospace; font-size: 0.85rem; color: #555; cursor: pointer; user-select: all; }
-    .url:hover { background: #f0f0f0; }
+    body { font-family: sans-serif; padding: 1.5rem; max-width: 960px; margin: 0 auto; color: #1a1a1a; }
+    h1 { font-size: 1.3rem; margin-bottom: 0.5rem; }
+    .toolbar { display: flex; gap: 0.6rem; margin-bottom: 1rem; flex-wrap: wrap; align-items: center; }
+    input { flex: 1; min-width: 180px; padding: 0.45rem 0.8rem; font-size: 0.95rem; border: 1px solid #ccc; border-radius: 8px; }
+    .tabs { display: flex; gap: 0.4rem; }
+    .tab {
+      padding: 0.4rem 1rem; border-radius: 8px; border: 1px solid #ccc;
+      background: #fff; cursor: pointer; font-size: 0.88rem; font-weight: 600;
+      transition: all 0.15s;
+    }
+    .tab.active { background: #1A365D; color: #fff; border-color: #1A365D; }
+    #stats-status { font-size: 0.8rem; color: #888; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+    th {
+      background: #1A365D; color: #d4b47a; padding: 0.55rem 0.8rem;
+      text-align: left; font-size: 0.82rem; letter-spacing: 0.03em; position: sticky; top: 0;
+    }
+    td { padding: 0.5rem 0.8rem; border-bottom: 1px solid #eee; vertical-align: middle; }
+    tr:hover td { background: #faf8f3; }
+    .num { color: #888; font-size: 0.8rem; }
+    .views-cell { font-weight: 700; color: #1A365D; white-space: nowrap; }
+    .views-bar {
+      display: inline-block; height: 6px; background: #C5A059;
+      border-radius: 3px; margin-left: 0.4rem; vertical-align: middle; opacity: 0.7;
+    }
+    .title-link { color: #1A365D; text-decoration: none; font-weight: 500; }
+    .title-link:hover { text-decoration: underline; color: #C5A059; }
+    .slug-cell { font-family: monospace; font-size: 0.78rem; color: #777; cursor: pointer; user-select: all; }
+    .slug-cell:hover { background: #f5f5f5; }
+    .hidden { display: none !important; }
+    @media (max-width: 600px) {
+      td.slug-cell { display: none; }
+      th.slug-th { display: none; }
+    }
   </style>
 </head>
 <body>
   <h1>文章索引（共 {sorted.length} 篇）</h1>
-  <input type="text" id="search" placeholder="搜尋標題..." />
-  <div id="list">
-    {sorted.map(post => (
-      <div class="item" data-title={post.data.title.toLowerCase()}>
-        <div class="title">{post.data.title}</div>
-        <div class="url">/blog/{post.id}/</div>
-      </div>
-    ))}
+
+  <div class="toolbar">
+    <input type="text" id="search" placeholder="搜尋標題..." autocomplete="off" />
+    <div class="tabs">
+      <button class="tab active" id="tab-latest">最新</button>
+      <button class="tab" id="tab-popular">🔥 最多人看</button>
+    </div>
+    <span id="stats-status">載入瀏覽數中…</span>
   </div>
-  <script>
-    const input = document.getElementById('search');
-    const items = document.querySelectorAll('.item');
-    input.addEventListener('input', () => {
-      const q = input.value.toLowerCase();
-      items.forEach(item => {
-        item.style.display = item.dataset.title.includes(q) ? '' : 'none';
+
+  <table>
+    <thead>
+      <tr>
+        <th style="width:2.5rem">#</th>
+        <th>標題</th>
+        <th class="slug-th" style="width:220px">網址</th>
+        <th style="width:90px">瀏覽</th>
+      </tr>
+    </thead>
+    <tbody id="list">
+      {sorted.map((post, i) => (
+        <tr
+          class="row"
+          data-slug={`/blog/${post.id}/`}
+          data-title={post.data.title.toLowerCase()}
+          data-date={new Date(post.data.pubDate).getTime()}
+        >
+          <td class="num">{i + 1}</td>
+          <td>
+            <a class="title-link" href={`/blog/${post.id}/`} target="_blank">
+              {post.data.title}
+            </a>
+          </td>
+          <td class="slug-cell">/blog/{post.id}/</td>
+          <td class="views-cell" data-views="0">—</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+
+  <script define:vars={{ articleMap }}>
+    const rows = Array.from(document.querySelectorAll('.row'));
+    const tbody = document.getElementById('list');
+    const searchInput = document.getElementById('search');
+    const statusEl = document.getElementById('stats-status');
+    const tabLatest = document.getElementById('tab-latest');
+    const tabPopular = document.getElementById('tab-popular');
+
+    let viewsMap = {}; // slug → views
+    let sortMode = 'latest'; // 'latest' | 'popular'
+
+    // ── Search filter ──────────────────────────────────────────────────────────
+    searchInput.addEventListener('input', () => {
+      const q = searchInput.value.toLowerCase();
+      rows.forEach(row => {
+        row.classList.toggle('hidden', q.length > 0 && !row.dataset.title.includes(q));
       });
     });
+
+    // ── Sort ───────────────────────────────────────────────────────────────────
+    function applySort() {
+      const visible = rows.filter(r => !r.classList.contains('hidden'));
+      if (sortMode === 'popular') {
+        visible.sort((a, b) => {
+          const va = viewsMap[a.dataset.slug] || 0;
+          const vb = viewsMap[b.dataset.slug] || 0;
+          return vb - va;
+        });
+      } else {
+        visible.sort((a, b) => Number(b.dataset.date) - Number(a.dataset.date));
+      }
+      // Re-index
+      visible.forEach((row, i) => {
+        row.querySelector('.num').textContent = i + 1;
+        tbody.appendChild(row);
+      });
+    }
+
+    tabLatest.addEventListener('click', () => {
+      sortMode = 'latest';
+      tabLatest.classList.add('active');
+      tabPopular.classList.remove('active');
+      applySort();
+    });
+
+    tabPopular.addEventListener('click', () => {
+      sortMode = 'popular';
+      tabPopular.classList.add('active');
+      tabLatest.classList.remove('active');
+      applySort();
+    });
+
+    // ── Load view counts ───────────────────────────────────────────────────────
+    async function loadViews() {
+      try {
+        const res = await fetch('/api/pageview');
+        if (!res.ok) throw new Error('API error');
+        const data = await res.json(); // [{ slug, views }]
+
+        // Build map
+        data.forEach(({ slug, views }) => { viewsMap[slug] = views; });
+
+        // Compute max for bar scaling
+        const maxViews = data.length > 0 ? data[0].views : 1;
+
+        // Update cells
+        rows.forEach(row => {
+          const views = viewsMap[row.dataset.slug] || 0;
+          const cell = row.querySelector('.views-cell');
+          const barWidth = Math.max(4, Math.round((views / maxViews) * 60));
+          cell.dataset.views = views;
+          cell.innerHTML = views > 0
+            ? `${views.toLocaleString()}<span class="views-bar" style="width:${barWidth}px"></span>`
+            : '<span style="color:#ccc">0</span>';
+        });
+
+        statusEl.textContent = `共追蹤 ${data.length} 篇有瀏覽數`;
+
+        // If already in popular mode, re-sort with actual data
+        if (sortMode === 'popular') applySort();
+
+      } catch {
+        statusEl.textContent = '瀏覽數載入失敗';
+      }
+    }
+
+    loadViews();
   </script>
 </body>
 </html>

@@ -229,6 +229,23 @@ window.addEventListener('load', () => {
 </body>
 </html>
 
+<script>
+  // Page view counter — session-deduped (same tab only counts once)
+  (function () {
+    const slug = location.pathname.replace(/\/?$/, '/').replace(/^(?!\/)/, '/');
+    if (!slug.startsWith('/blog/')) return;
+    const key = '_pv' + slug;
+    if (sessionStorage.getItem(key)) return;
+    sessionStorage.setItem(key, '1');
+    fetch('/api/pageview', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ slug }),
+      keepalive: true,
+    }).catch(() => {});
+  })();
+</script>
+
 <style>
 .layout {
   display: grid;

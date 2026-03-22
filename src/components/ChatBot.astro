@@ -7,7 +7,7 @@
   <button class="chatbot-close" id="chatbot-close" aria-label="關閉">✕</button>
   <div class="chatbot-inner">
     <div class="chatbot-header">
-      <span class="chatbot-icon">🌴</span>
+      <img src="/favicon-32x32.png" alt="" class="chatbot-icon" />
       <div>
         <h2 class="chatbot-title">最精準的峇里島知識庫AI</h2>
         <p class="chatbot-subtitle">有任何峇里島旅遊問題都可以問我！</p>
@@ -16,7 +16,7 @@
 
     <div class="chat-messages" id="chat-messages">
       <div class="msg bot">
-        <span class="msg-avatar">🌴</span>
+        <img src="/favicon-32x32.png" alt="" class="msg-avatar" />
         <div class="msg-bubble">
           你好！我是峇里島知識庫AI 👋<br>
           簽證、交通、住宿、行程⋯⋯隨時為您解答！
@@ -92,7 +92,7 @@
   function addBotMessage(reply: string) {
     const div = document.createElement('div');
     div.className = 'msg bot';
-    div.innerHTML = `<span class="msg-avatar">🌴</span><div class="msg-bubble">${renderReply(reply)}</div>`;
+    div.innerHTML = `<img src="/favicon-32x32.png" alt="" class="msg-avatar" /><div class="msg-bubble">${renderReply(reply)}</div>`;
     messages!.appendChild(div);
     messages!.scrollTop = messages!.scrollHeight;
   }
@@ -101,7 +101,7 @@
     const div = document.createElement('div');
     div.className = 'msg bot typing';
     div.id = 'typing-indicator';
-    div.innerHTML = '<span class="msg-avatar">🌴</span><div class="msg-bubble"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>';
+    div.innerHTML = '<img src="/favicon-32x32.png" alt="" class="msg-avatar" /><div class="msg-bubble"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>';
     messages!.appendChild(div);
     messages!.scrollTop = messages!.scrollHeight;
   }
@@ -171,7 +171,7 @@
   margin-bottom: 1.2em;
 }
 
-.chatbot-icon { font-size: 2em; line-height: 1; }
+.chatbot-icon { width: 36px; height: 36px; border-radius: 6px; flex-shrink: 0; }
 
 .chatbot-title {
   font-size: 1.1em;
@@ -205,7 +205,7 @@
 
 .msg { display: flex; align-items: flex-start; gap: 0.5em; }
 .msg.user { flex-direction: row-reverse; }
-.msg-avatar { font-size: 1.1em; flex-shrink: 0; margin-top: 4px; }
+.msg-avatar { width: 24px; height: 24px; border-radius: 4px; flex-shrink: 0; margin-top: 4px; }
 
 .msg-bubble {
   max-width: 85%;
