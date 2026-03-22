@@ -5,7 +5,6 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import ChatBot from '../components/ChatBot.astro';
-import AIArticleQA from '../components/AIArticleQA.astro';
 import { getCollection } from 'astro:content';
 
 type Props = CollectionEntry<'blog'>['data'] & { body?: string };
@@ -127,8 +126,6 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
           </div>
           <slot />
         </div>
-
-        <AIArticleQA title={title} body={body} />
 
         <!-- 文章底部推薦 -->
         {randomPosts.length > 0 && (

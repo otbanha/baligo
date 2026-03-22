@@ -1,9 +1,10 @@
 ---
-// 峇里島旅遊 AI 問答機器人（頁面內嵌版）
-// 需要在 Cloudflare Pages 後台設定 Workers AI binding（名稱：AI）
+// 峇里島旅遊 AI 問答機器人
 ---
 
-<section class="chatbot-section">
+<!-- 桌機版：inline section -->
+<section class="chatbot-section" id="chatbot-section">
+  <button class="chatbot-close" id="chatbot-close" aria-label="關閉">✕</button>
   <div class="chatbot-inner">
     <div class="chatbot-header">
       <span class="chatbot-icon">🌴</span>
@@ -39,18 +40,36 @@
   </div>
 </section>
 
+<!-- Mobile 浮動按鈕 -->
+<button class="chat-bubble-btn" id="chat-bubble-btn" aria-label="開啟AI問答">
+  🌴
+</button>
+
 <script>
   const API_URL = '/api/chat';
   const form = document.getElementById('chat-form');
   const input = document.getElementById('chat-input') as HTMLInputElement;
   const messages = document.getElementById('chat-messages');
+  const section = document.getElementById('chatbot-section');
+  const bubbleBtn = document.getElementById('chat-bubble-btn');
+  const closeBtn = document.getElementById('chatbot-close');
+
+  // Mobile bubble toggle
+  bubbleBtn?.addEventListener('click', () => {
+    section?.classList.add('mobile-open');
+    bubbleBtn?.classList.add('hidden');
+    input?.focus();
+  });
+  closeBtn?.addEventListener('click', () => {
+    section?.classList.remove('mobile-open');
+    bubbleBtn?.classList.remove('hidden');
+  });
 
   function escapeHtml(str: string) {
     return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
   }
 
   function renderReply(text: string) {
-    // Parse markdown links [title](url) → <a>, escape everything else
     const parts = text.split(/(\[[^\]]+\]\([^)]+\))/g);
     return parts.map(part => {
       const match = part.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
@@ -64,45 +83,15 @@
   function addMessage(text: string, role: 'user' | 'error') {
     const div = document.createElement('div');
     div.className = `msg ${role}`;
-    if (role === 'error') {
-      div.innerHTML = `<div class="msg-bubble error">${escapeHtml(text)}</div>`;
-    } else {
-      div.innerHTML = `<div class="msg-bubble">${escapeHtml(text)}</div>`;
-    }
+    div.innerHTML = `<div class="msg-bubble${role === 'error' ? ' error' : ''}">${escapeHtml(text)}</div>`;
     messages!.appendChild(div);
     messages!.scrollTop = messages!.scrollHeight;
   }
 
-  function addBotResponse(data: { reply: string; articles?: {title: string; url: string}[]; affiliate?: string | null; affiliateLink?: string | null }) {
+  function addBotMessage(reply: string) {
     const div = document.createElement('div');
     div.className = 'msg bot';
-
-    let articlesHtml = '';
-    if (data.articles && data.articles.length > 0) {
-      articlesHtml = `<div class="related-articles">
-        <div class="related-label">📖 相關文章</div>
-        ${data.articles.map(a => `<a href="${a.url}" class="related-card" target="_blank" rel="noopener">${escapeHtml(a.title)}</a>`).join('')}
-      </div>`;
-    }
-
-    let affiliateHtml = '';
-    if (data.affiliate === 'agoda' && data.affiliateLink) {
-      affiliateHtml = `<a href="${data.affiliateLink}" class="affiliate-btn agoda-btn" target="_blank" rel="noopener sponsored">
-        🏨 Agoda 搜尋峇里島住宿
-      </a>`;
-    } else if (data.affiliate === 'klook' && data.affiliateLink) {
-      affiliateHtml = `<a href="${data.affiliateLink}" class="affiliate-btn klook-btn" target="_blank" rel="noopener sponsored">
-        🎟️ Klook 峇里島活動 & 行程
-      </a>`;
-    }
-
-    div.innerHTML = `<span class="msg-avatar">🌴</span>
-      <div class="msg-content">
-        <div class="msg-bubble">${renderReply(data.reply)}</div>
-        ${articlesHtml}
-        ${affiliateHtml}
-      </div>`;
-
+    div.innerHTML = `<span class="msg-avatar">🌴</span><div class="msg-bubble">${renderReply(reply)}</div>`;
     messages!.appendChild(div);
     messages!.scrollTop = messages!.scrollHeight;
   }
@@ -142,7 +131,7 @@
       const data = await res.json();
       removeTyping();
       if (data.reply) {
-        addBotResponse(data);
+        addBotMessage(data.reply);
       } else {
         addMessage(data.error || '抱歉，暫時無法回答，請稍後再試。', 'error');
       }
@@ -162,6 +151,11 @@
   background: linear-gradient(135deg, #f5efe6 0%, #ede4d3 100%);
   border-top: 2px solid var(--gold);
   padding: 2em 1.5em;
+  position: relative;
+}
+
+.chatbot-close {
+  display: none;
 }
 
 .chatbot-inner {
@@ -176,10 +170,7 @@
   margin-bottom: 1.2em;
 }
 
-.chatbot-icon {
-  font-size: 2em;
-  line-height: 1;
-}
+.chatbot-icon { font-size: 2em; line-height: 1; }
 
 .chatbot-title {
   font-size: 1.1em;
@@ -200,7 +191,7 @@
   border-radius: 12px;
   padding: 1em;
   min-height: 120px;
-  max-height: 420px;
+  max-height: 320px;
   overflow-y: auto;
   display: flex;
   flex-direction: column;
@@ -211,118 +202,27 @@
 .chat-messages::-webkit-scrollbar { width: 4px; }
 .chat-messages::-webkit-scrollbar-thumb { background: rgba(197,160,89,0.3); border-radius: 2px; }
 
-.msg {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.5em;
-}
+.msg { display: flex; align-items: flex-start; gap: 0.5em; }
 .msg.user { flex-direction: row-reverse; }
 .msg-avatar { font-size: 1.1em; flex-shrink: 0; margin-top: 4px; }
 
-.msg-content {
-  display: flex;
-  flex-direction: column;
-  gap: 0.5em;
-  max-width: 85%;
-}
-
 .msg-bubble {
+  max-width: 85%;
   padding: 0.65em 1em;
   border-radius: 14px;
   font-size: 0.88em;
   line-height: 1.6;
 }
-.msg.bot .msg-bubble {
-  background: #f0ece4;
-  color: var(--text);
-  border-top-left-radius: 4px;
-}
-.msg.user .msg-bubble {
-  background: var(--gold);
-  color: var(--ocean);
-  font-weight: 600;
-  border-top-right-radius: 4px;
-  max-width: 80%;
-}
-.msg-bubble.error {
-  background: rgba(229, 62, 62, 0.15);
-  color: #c53030;
-  border: 1px solid rgba(229, 62, 62, 0.3);
-}
+.msg.bot .msg-bubble { background: #f0ece4; color: var(--text); border-top-left-radius: 4px; }
+.msg.user .msg-bubble { background: var(--gold); color: var(--ocean); font-weight: 600; border-top-right-radius: 4px; }
+.msg-bubble.error { background: rgba(229,62,62,0.15); color: #c53030; border: 1px solid rgba(229,62,62,0.3); }
 
-/* 回答內嵌連結 */
-.chat-link {
-  color: var(--ocean);
-  text-decoration: underline;
-  text-underline-offset: 2px;
-  font-weight: 600;
-}
+.chat-link { color: var(--ocean); text-decoration: underline; text-underline-offset: 2px; font-weight: 600; }
 .chat-link:hover { opacity: 0.75; }
 
-/* 相關文章卡片 */
-.related-articles {
-  display: flex;
-  flex-direction: column;
-  gap: 0.4em;
-}
-.related-label {
-  font-size: 0.78em;
-  color: var(--text-light);
-  font-weight: 600;
-}
-.related-card {
-  display: block;
-  background: white;
-  border: 1px solid rgba(197, 160, 89, 0.4);
-  border-radius: 8px;
-  padding: 0.5em 0.8em;
-  font-size: 0.82em;
-  color: var(--ocean);
-  text-decoration: none;
-  line-height: 1.4;
-  transition: background 0.15s, border-color 0.15s;
-}
-.related-card:hover {
-  background: #fdf6ec;
-  border-color: var(--gold);
-}
-
-/* 聯盟行銷按鈕 */
-.affiliate-btn {
-  display: inline-flex;
-  align-items: center;
-  gap: 0.4em;
-  padding: 0.55em 1em;
-  border-radius: 8px;
-  font-size: 0.82em;
-  font-weight: 700;
-  text-decoration: none;
-  width: fit-content;
-  transition: opacity 0.15s;
-}
-.affiliate-btn:hover { opacity: 0.85; }
-.agoda-btn {
-  background: #e74c3c;
-  color: white;
-}
-.klook-btn {
-  background: #ff6b35;
-  color: white;
-}
-
 /* 打字動畫 */
-.typing .msg-bubble {
-  padding: 0.8em 1em;
-  display: flex;
-  gap: 5px;
-  align-items: center;
-}
-.dot {
-  width: 7px; height: 7px;
-  background: var(--gold);
-  border-radius: 50%;
-  animation: bounce 1.2s infinite;
-}
+.typing .msg-bubble { padding: 0.8em 1em; display: flex; gap: 5px; align-items: center; }
+.dot { width: 7px; height: 7px; background: var(--gold); border-radius: 50%; animation: bounce 1.2s infinite; }
 .dot:nth-child(2) { animation-delay: 0.2s; }
 .dot:nth-child(3) { animation-delay: 0.4s; }
 @keyframes bounce {
@@ -330,10 +230,7 @@
   30% { transform: translateY(-6px); }
 }
 
-.chat-input-area {
-  display: flex;
-  gap: 0.6em;
-}
+.chat-input-area { display: flex; gap: 0.6em; }
 
 #chat-input {
   flex: 1;
@@ -371,9 +268,63 @@
 #chat-send:disabled { opacity: 0.5; cursor: not-allowed; }
 #chat-send svg { width: 15px; height: 15px; }
 
-@media (max-width: 600px) {
-  .chatbot-section { padding: 1.5em 1em; }
+/* 浮動按鈕（手機專用） */
+.chat-bubble-btn {
+  display: none;
+  position: fixed;
+  bottom: 1.5em;
+  right: 1.5em;
+  width: 56px;
+  height: 56px;
+  border-radius: 50%;
+  background: var(--ocean);
+  border: none;
+  font-size: 1.6em;
+  cursor: pointer;
+  box-shadow: 0 4px 16px rgba(10,22,40,0.3);
+  z-index: 999;
+  transition: transform 0.15s;
+}
+.chat-bubble-btn:hover { transform: scale(1.08); }
+.chat-bubble-btn.hidden { display: none !important; }
+
+@media (max-width: 768px) {
+  /* 桌機版 inline section 隱藏 */
+  .chatbot-section {
+    display: none;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    border-radius: 16px 16px 0 0;
+    padding: 1.2em 1em 1.5em;
+    max-height: 85vh;
+    overflow-y: auto;
+    box-shadow: 0 -4px 24px rgba(10,22,40,0.2);
+  }
+  .chatbot-section.mobile-open {
+    display: block;
+  }
+  .chatbot-close {
+    display: block;
+    position: absolute;
+    top: 0.8em;
+    right: 1em;
+    background: none;
+    border: none;
+    font-size: 1.1em;
+    color: var(--text-light);
+    cursor: pointer;
+    padding: 0.3em;
+  }
+  .chat-bubble-btn {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
   #chat-send span { display: none; }
   #chat-send { padding: 0.65em 0.9em; }
+  .chat-messages { max-height: 45vh; }
 }
 </style>
