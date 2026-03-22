@@ -29,16 +29,22 @@ collections:
     fields:
       - { label: 標題, name: title, widget: string }
       - { label: 描述, name: description, widget: text, required: false }
-      - { label: 發佈日期, name: pubDate, widget: datetime }
+      - label: 發佈日期
+        name: pubDate
+        widget: datetime
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        format: "YYYY-MM-DD"
       - label: 分類
         name: category
         widget: list
         field: { label: 分類, name: category, widget: string }
       - label: Tags
         name: tags
-        widget: string
+        widget: list
         required: false
-        hint: "多個 tag 以「, 」分隔，例如：峇里島, 住宿, 推薦"
+        field: { label: Tag, name: tag, widget: string }
+        hint: "每個 tag 獨立輸入，例如：峇里島、住宿、推薦"
       - { label: 首圖, name: heroImage, widget: image, required: false, hint: "不填則自動抓取內文第一張圖" }
       - { label: 原始網址, name: originalUrl, widget: string, required: false }
       - { label: 內文, name: body, widget: markdown }
