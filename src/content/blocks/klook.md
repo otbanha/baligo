@@ -1,12 +1,10 @@
 ---
 title: klook
 type: random-list
-randomCount: 10
+randomCount: 12
 ---
 
-##### 峇里島之旅不能錯過的
-
-## 👇峇里島玩家優惠行程👇
+## 👇峇里島內行玩家優惠行程👇
 
 - [🍽️峇里島美食優惠 ▶Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E7%25BE%258E%25E9%25A3%259F%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D4566e922d5)
 - [🎟️峇里島門票優惠 ▶Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%25E9%2596%2580%25E7%25A5%25A8%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D8e786a21ea)
