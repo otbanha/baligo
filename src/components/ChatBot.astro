@@ -42,7 +42,8 @@
 
 <!-- Mobile 浮動按鈕 -->
 <button class="chat-bubble-btn" id="chat-bubble-btn" aria-label="開啟AI問答">
-  🌴
+  <img src="/favicon-32x32.png" alt="" class="bubble-icon" />
+  <span class="bubble-label">峇里島旅遊AI</span>
 </button>
 
 <script>
@@ -273,20 +274,23 @@
   display: none;
   position: fixed;
   bottom: 1.5em;
-  right: 1.5em;
-  width: 56px;
-  height: 56px;
-  border-radius: 50%;
+  right: 1em;
+  height: 48px;
+  padding: 0 1.1em 0 0.8em;
+  border-radius: 24px;
   background: var(--ocean);
   border: none;
-  font-size: 1.6em;
   cursor: pointer;
-  box-shadow: 0 4px 16px rgba(10,22,40,0.3);
+  box-shadow: 0 4px 16px rgba(10,22,40,0.35);
   z-index: 999;
-  transition: transform 0.15s;
+  transition: transform 0.15s, box-shadow 0.15s;
+  align-items: center;
+  gap: 0.5em;
 }
-.chat-bubble-btn:hover { transform: scale(1.08); }
+.chat-bubble-btn:hover { transform: scale(1.05); box-shadow: 0 6px 20px rgba(10,22,40,0.4); }
 .chat-bubble-btn.hidden { display: none !important; }
+.bubble-icon { width: 26px; height: 26px; border-radius: 4px; flex-shrink: 0; }
+.bubble-label { color: #fff; font-size: 0.88em; font-weight: 700; white-space: nowrap; letter-spacing: 0.02em; }
 
 @media (max-width: 768px) {
   /* 桌機版 inline section 隱藏 */
@@ -321,7 +325,6 @@
   .chat-bubble-btn {
     display: flex;
     align-items: center;
-    justify-content: center;
   }
   #chat-send span { display: none; }
   #chat-send { padding: 0.65em 0.9em; }
