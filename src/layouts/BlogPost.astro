@@ -59,9 +59,11 @@ const randomPosts = [...randomArea, ...randomAccom].sort(() => Math.random() - 0
 // 促銷活動：過濾未過期的
 const allPromos = await getCollection('promotions');
 const now = new Date();
-const activePromos = allPromos.filter(p =>
-  !p.data.expiresAt || p.data.expiresAt > now
-);
+const activePromos = allPromos.filter(p => {
+  if (!p.data.expiresAt) return true;
+  const d = new Date(p.data.expiresAt);
+  return isNaN(d.getTime()) || d > now;
+});
 const promosJson = JSON.stringify(activePromos.map(p => ({
   title: p.data.title,
   url: p.data.url,
