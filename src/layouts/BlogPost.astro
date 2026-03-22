@@ -112,6 +112,22 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
     </aside>
 
     <main>
+      <!-- Mobile 分類導覽（桌機版有 sidebar，手機版才顯示） -->
+      <nav class="mobile-breadcrumb" aria-label="分類導覽">
+        <a href="/blog" class="breadcrumb-home">← 所有文章</a>
+        {category && (
+          <>
+            <span class="breadcrumb-sep">›</span>
+            <a
+              href={`/blog?cat=${encodeURIComponent(Array.isArray(category) ? category[0] : category)}`}
+              class="breadcrumb-cat"
+            >
+              {Array.isArray(category) ? category[0] : category}
+            </a>
+          </>
+        )}
+      </nav>
+
       <article>
         <div class="prose">
           <div class="title">
@@ -486,6 +502,11 @@ hr { margin: 1.2em 0 1.8em; }
   word-break: break-word;
 }
 
+/* Mobile 麵包屑：桌機隱藏，手機才顯示 */
+.mobile-breadcrumb {
+  display: none;
+}
+
 @media (max-width: 900px) {
   .layout { grid-template-columns: 1fr; }
   .sidebar { display: none; }
@@ -495,6 +516,30 @@ hr { margin: 1.2em 0 1.8em; }
     max-width: 100%;
   }
   .related-grid { grid-template-columns: repeat(2, 1fr); }
+
+  .mobile-breadcrumb {
+    display: flex;
+    align-items: center;
+    gap: 0.4em;
+    padding: 0.7em 1em;
+    background: rgba(201, 168, 76, 0.08);
+    border-bottom: 1px solid rgba(201, 168, 76, 0.2);
+    font-size: 0.85em;
+    flex-wrap: wrap;
+  }
+  .breadcrumb-home {
+    color: var(--ocean);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .breadcrumb-home:hover { text-decoration: underline; }
+  .breadcrumb-sep { color: var(--text-light); }
+  .breadcrumb-cat {
+    color: var(--gold);
+    font-weight: 600;
+    text-decoration: none;
+  }
+  .breadcrumb-cat:hover { text-decoration: underline; }
 }
 
 @media (max-width: 600px) {
