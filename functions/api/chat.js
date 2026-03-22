@@ -47,6 +47,12 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['獨棟', 'villa', 'Villa', 'VILLA', '包棟', '別墅', '三房', '四房', '五房', '六房', '家庭villa', '包villa'],
+    articles: [
+      { title: '峇里島團體自由行旅遊：包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦', url: '/blog/2024-04-30-662e156bfd8978000130c73c/' },
+    ],
+  },
+  {
     keywords: ['水上活動', '浮潛', '潛水', '香蕉船', '拖曳傘'],
     articles: [
       { title: '峇里島水上活動推薦：浮潛、潛水、香蕉船', url: '/blog/2026-01-20-694122b8fd89780001f514c9/' },
