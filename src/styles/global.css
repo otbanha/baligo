@@ -24,6 +24,10 @@
   box-sizing: border-box;
 }
 
+html {
+  overflow-x: hidden;
+}
+
 body {
   background-color: #ffffff;
   font-family: 'Noto Sans TC', sans-serif;
@@ -39,10 +43,14 @@ body {
 }
 
 main {
-  width: 780px;
-  max-width: calc(100% - 2em);
-  margin: auto;
+  max-width: 780px;
+  width: 100%;
+  margin: 0 auto;
   padding: 3em 1em;
+}
+
+iframe, embed, object {
+  max-width: 100%;
 }
 
 h1, h2, h3, h4, h5, h6 {
