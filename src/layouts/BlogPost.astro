@@ -454,14 +454,61 @@ hr { margin: 1.2em 0 1.8em; }
   overflow: hidden;
 }
 
+/* Prose 內容響應式 */
+.prose :global(img) {
+  max-width: 100%;
+  height: auto;
+  border-radius: 8px;
+  display: block;
+}
+
+.prose :global(table) {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9em;
+}
+
+.prose :global(th),
+.prose :global(td) {
+  border: 1px solid rgba(201, 168, 76, 0.3);
+  padding: 0.5em 0.8em;
+  text-align: left;
+}
+
+.prose :global(pre) {
+  overflow-x: auto;
+  border-radius: 8px;
+  padding: 1em;
+  font-size: 0.85em;
+}
+
+.prose :global(a) {
+  word-break: break-word;
+}
+
 @media (max-width: 900px) {
   .layout { grid-template-columns: 1fr; }
-  .sidebar { position: static; height: auto; border-right: none; border-bottom: 1px solid rgba(201, 168, 76, 0.2); }
-  main { padding: 1.5em 1em; }
+  .sidebar { display: none; }
+  main {
+    padding: 1.2em 1em;
+    max-width: 100%;
+  }
   .related-grid { grid-template-columns: repeat(2, 1fr); }
 }
 
 @media (max-width: 600px) {
+  main { padding: 1em 0.9em; }
+  .title h1 { font-size: 1.25em; }
+  .prose { font-size: 0.97em; line-height: 1.8; }
+  .prose :global(h2) { font-size: 1.1em; }
+  .prose :global(h3) { font-size: 1em; }
   .related-grid { grid-template-columns: 1fr; }
+
+  /* 表格在小螢幕加水平捲動 */
+  .prose :global(table) {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
 }
 </style>
