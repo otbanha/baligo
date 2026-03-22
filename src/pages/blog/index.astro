@@ -365,6 +365,7 @@ const socialLinks = [
 
     const POSTS_PER_PAGE = 18;
     let currentPage = 1;
+    let currentCat = 'all';
     let filteredCards = [];
 
     const buttons = document.querySelectorAll('.category-item');
@@ -394,7 +395,15 @@ const socialLinks = [
       section.style.display = 'block';
     }
 
-    function renderPage() {
+    function buildUrl(cat, page) {
+      const params = new URLSearchParams();
+      if (cat !== 'all') params.set('cat', cat);
+      if (page > 1) params.set('page', String(page));
+      return '/blog' + (params.toString() ? '?' + params.toString() : '');
+    }
+
+    // Render cards + pagination for current state — no history side effects
+    function renderCards() {
       const start = (currentPage - 1) * POSTS_PER_PAGE;
       const end = start + POSTS_PER_PAGE;
       filteredCards.forEach((card, i) => {
@@ -413,7 +422,12 @@ const socialLinks = [
       prev.textContent = '← 上一頁';
       prev.className = 'page-btn';
       prev.disabled = currentPage === 1;
-      prev.onclick = () => { currentPage--; renderPage(); window.scrollTo(0, 0); };
+      prev.onclick = () => {
+        currentPage--;
+        window.history.pushState({ cat: currentCat, page: currentPage }, '', buildUrl(currentCat, currentPage));
+        renderCards();
+        window.scrollTo(0, 0);
+      };
       pagination.appendChild(prev);
 
       const info = document.createElement('span');
@@ -425,20 +439,24 @@ const socialLinks = [
       next.textContent = '下一頁 →';
       next.className = 'page-btn';
       next.disabled = currentPage === totalPages;
-      next.onclick = () => { currentPage++; renderPage(); window.scrollTo(0, 0); };
+      next.onclick = () => {
+        currentPage++;
+        window.history.pushState({ cat: currentCat, page: currentPage }, '', buildUrl(currentCat, currentPage));
+        renderCards();
+        window.scrollTo(0, 0);
+      };
       pagination.appendChild(next);
     }
 
-    function filterCategory(cat) {
-      currentPage = 1;
-      const newUrl = cat === 'all' ? '/blog' : `/blog?cat=${encodeURIComponent(cat)}`;
-      window.history.pushState({}, '', newUrl);
+    // Apply a cat+page state to the UI (no history changes)
+    function applyState(cat, page) {
+      currentCat = cat;
+      currentPage = page;
 
       buttons.forEach(b => b.classList.remove('active'));
       const activeBtn = document.querySelector(`[data-category="${cat}"]`);
       if (activeBtn) activeBtn.classList.add('active');
 
-      // 首頁專屬區塊顯示/隱藏
       const homepageBlocks = document.getElementById('homepage-blocks');
       if (homepageBlocks) homepageBlocks.style.display = cat === 'all' ? 'block' : 'none';
 
@@ -458,9 +476,13 @@ const socialLinks = [
 
       cards.forEach(card => card.style.display = 'none');
       updateFeatured(cat);
-      renderPage();
+      renderCards();
+    }
 
-      // 換影片
+    // Category button click: push new history entry at page 1
+    function filterCategory(cat) {
+      window.history.pushState({ cat, page: 1 }, '', buildUrl(cat, 1));
+      applyState(cat, 1);
       const newVideo = youtubeVideos[Math.floor(Math.random() * youtubeVideos.length)];
       const iframe = document.getElementById('yt-iframe');
       if (iframe) iframe.src = `https://www.youtube.com/embed/${newVideo}?rel=0`;
@@ -470,25 +492,21 @@ const socialLinks = [
       btn.addEventListener('click', () => filterCategory(btn.dataset.category));
     });
 
+    // Browser back/forward: restore state without pushing new history
+    window.addEventListener('popstate', (e) => {
+      const state = e.state;
+      applyState(state?.cat || 'all', state?.page || 1);
+    });
+
+    // Init: read URL params, stamp state onto current history entry, then render
     const urlParams = new URLSearchParams(window.location.search);
-    const catParam = urlParams.get('cat');
-    if (catParam) {
-      setTimeout(() => filterCategory(catParam), 100);
+    const catParam = urlParams.get('cat') || 'all';
+    const pageParam = Math.max(1, parseInt(urlParams.get('page') || '1', 10));
+    window.history.replaceState({ cat: catParam, page: pageParam }, '', window.location.href);
+    if (catParam !== 'all') {
+      setTimeout(() => applyState(catParam, pageParam), 100);
     } else {
-      filteredCards = [...cards].filter(card => {
-        try {
-          const cats = JSON.parse(card.dataset.category || '[]');
-          const catList = Array.isArray(cats) ? cats : [cats];
-          return !catList.includes('新聞存檔');
-        } catch {
-          return card.dataset.category !== '新聞存檔';
-        }
-      });
-      // 隱藏不在 filteredCards 內的卡片（如新聞存檔），避免殘留顯示
-      cards.forEach(card => {
-        if (!filteredCards.includes(card)) card.style.display = 'none';
-      });
-      renderPage();
+      applyState('all', pageParam);
     }
 
   });
