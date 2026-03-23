@@ -7,8 +7,11 @@ import Header from '../components/Header.astro';
 import ChatBot from '../components/ChatBot.astro';
 import { getCollection } from 'astro:content';
 
-type Props = CollectionEntry<'blog'>['data'] & { body?: string };
-const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '' } = Astro.props;
+type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[] };
+const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [] } = Astro.props;
+
+const tocHeadings = headings.filter(h => h.depth === 2 || h.depth === 3);
+const showToc = tocHeadings.length >= 2;
 
 const allPosts = await getCollection('blog');
 
@@ -142,6 +145,23 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
             </div>
             <hr />
           </div>
+
+          {showToc && (
+            <nav class="toc" aria-label="文章目錄">
+              <div class="toc-header">
+                <span class="toc-title">📋 目錄</span>
+                <button class="toc-toggle" aria-expanded="true" aria-controls="toc-list">收起</button>
+              </div>
+              <ol id="toc-list" class="toc-list">
+                {tocHeadings.map(h => (
+                  <li class={h.depth === 3 ? 'toc-h3' : 'toc-h2'}>
+                    <a href={`#${h.slug}`}>{h.text}</a>
+                  </li>
+                ))}
+              </ol>
+            </nav>
+          )}
+
           <slot />
         </div>
 
@@ -228,6 +248,35 @@ window.addEventListener('load', () => {
   <Footer />
 </body>
 </html>
+
+<script>
+  // TOC toggle + scroll highlight
+  const tocToggle = document.querySelector('.toc-toggle') as HTMLButtonElement | null;
+  const tocList = document.getElementById('toc-list');
+  if (tocToggle && tocList) {
+    tocToggle.addEventListener('click', () => {
+      const collapsed = tocList.classList.toggle('hidden');
+      tocToggle.textContent = collapsed ? '展開' : '收起';
+      tocToggle.setAttribute('aria-expanded', String(!collapsed));
+    });
+
+    // Scroll spy
+    const tocLinks = Array.from(tocList.querySelectorAll('a')) as HTMLAnchorElement[];
+    const headingEls = tocLinks.map(a => document.getElementById(a.getAttribute('href')!.slice(1))).filter(Boolean) as HTMLElement[];
+
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          tocLinks.forEach(a => a.classList.remove('active'));
+          const idx = headingEls.indexOf(entry.target as HTMLElement);
+          if (idx !== -1) tocLinks[idx].classList.add('active');
+        }
+      });
+    }, { rootMargin: '0px 0px -60% 0px', threshold: 0 });
+
+    headingEls.forEach(el => observer.observe(el));
+  }
+</script>
 
 <script>
   // Page view counter — session-deduped (same tab only counts once)
@@ -486,6 +535,76 @@ hr { margin: 1.2em 0 1.8em; }
   -webkit-box-orient: vertical;
   overflow: hidden;
 }
+
+/* TOC */
+.toc {
+  background: rgba(201, 168, 76, 0.07);
+  border: 1px solid rgba(201, 168, 76, 0.3);
+  border-left: 4px solid var(--gold);
+  border-radius: 10px;
+  padding: 0.9em 1.1em;
+  margin-bottom: 2em;
+  font-size: 0.88em;
+}
+
+.toc-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.6em;
+}
+
+.toc-title {
+  font-weight: 700;
+  color: var(--ocean);
+  font-size: 0.92em;
+  letter-spacing: 0.03em;
+}
+
+.toc-toggle {
+  background: none;
+  border: 1px solid rgba(201, 168, 76, 0.4);
+  border-radius: 6px;
+  color: var(--text-light);
+  font-size: 0.78em;
+  padding: 0.1em 0.6em;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.toc-toggle:hover { background: rgba(201, 168, 76, 0.15); color: var(--ocean); }
+
+.toc-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.toc-list.hidden { display: none; }
+
+.toc-h2 { padding: 0.2em 0; }
+.toc-h3 { padding: 0.15em 0 0.15em 1.2em; }
+
+.toc-h2 > a,
+.toc-h3 > a {
+  color: var(--ocean);
+  text-decoration: none;
+  line-height: 1.4;
+  display: block;
+  border-radius: 4px;
+  padding: 0.1em 0.3em;
+  transition: background 0.12s, color 0.12s;
+}
+
+.toc-h2 > a { font-weight: 600; }
+.toc-h3 > a { color: var(--text-light); font-size: 0.95em; }
+
+.toc-h2 > a:hover,
+.toc-h3 > a:hover { background: rgba(201, 168, 76, 0.15); color: var(--gold); }
+
+/* TOC active highlight */
+.toc-h2 > a.active,
+.toc-h3 > a.active { color: var(--gold); font-weight: 700; }
 
 /* Prose 內容響應式 */
 .prose :global(img) {

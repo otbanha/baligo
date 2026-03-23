@@ -65,6 +65,19 @@ export const prerender = true;
     .tab.active { color: #e8e0d4; border-bottom-color: #C5A059; background: rgba(197,160,89,.08); }
     .tab .icon  { font-size: 1.2em; }
 
+    /* ── CMS Launch Button ────────────────────────────────────────── */
+    .tabbar-spacer { flex: 1; }
+    .cms-btn {
+      display: flex; align-items: center; gap: .5em;
+      margin: auto 0; padding: .45rem 1.1rem;
+      background: #1A365D; color: #e8e0d4; border: none;
+      border-radius: 8px; font-size: .95rem; font-weight: 700;
+      cursor: pointer; text-decoration: none; white-space: nowrap;
+      transition: background .15s; font-family: inherit;
+    }
+    .cms-btn:hover { background: #254d85; }
+    .cms-btn .icon { font-size: 1.1em; }
+
     /* ── Content ──────────────────────────────────────────────────── */
     #content { flex: 1; overflow: hidden; position: relative; }
 
@@ -123,35 +136,21 @@ export const prerender = true;
   <!-- Tab Bar -->
   <nav class="tabbar">
     <div class="tabbar-brand">Atlas</div>
-    <button class="tab active" data-tab="cms">     <span class="icon">✏️</span> CMS</button>
-    <button class="tab"        data-tab="index">   <span class="icon">📊</span> 索引</button>
+    <button class="tab active" data-tab="index">   <span class="icon">📊</span> 索引</button>
     <button class="tab"        data-tab="upload">  <span class="icon">🖼️</span> 圖片</button>
     <button class="tab"        data-tab="shorturl"><span class="icon">🔗</span> 短網址</button>
     <button class="tab"        data-tab="hot">      <span class="icon">🔥</span> 本週熱門</button>
     <button class="tab"        data-tab="featured"><span class="icon">⭐</span> 編輯精選</button>
     <button class="tab"        data-tab="cf">      <span class="icon">☁️</span> Cloudflare</button>
     <button class="tab"        data-tab="deepinfra"><span class="icon">🤖</span> DeepInfra</button>
+    <div class="tabbar-spacer"></div>
+    <a class="cms-btn" href="/admin/#/collections/blog" target="_blank" rel="noopener">
+      <span class="icon">✏️</span> 開啟 CMS
+    </a>
   </nav>
 
   <!-- Content Panels -->
   <div id="content">
-
-    <!-- CMS (cannot iframe — auth breaks inside iframe) -->
-    <div class="panel active" id="panel-cms">
-      <div class="ext-panel">
-        <div class="ext-card">
-          <div class="ext-icon">✏️</div>
-          <h2>Sveltia CMS</h2>
-          <p>CMS 登入功能在 iframe 內無法正常運作。<br>請在新分頁開啟使用。</p>
-          <a class="open-btn" href="/admin/#/collections/blog" target="_blank" rel="noopener">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-            </svg>
-            在新分頁開啟 CMS
-          </a>
-        </div>
-      </div>
-    </div>
 
     <!-- 索引 -->
     <div class="panel" id="panel-index">
@@ -247,7 +246,7 @@ export const prerender = true;
   function unlock() {
     document.getElementById('auth-wall').style.display = 'none';
     document.getElementById('shell').style.display = 'flex';
-    activateTab('cms');
+    activateTab('index');
   }
 
   document.querySelectorAll('.tab').forEach(function(btn) {

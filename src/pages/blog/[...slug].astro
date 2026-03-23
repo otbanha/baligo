@@ -15,7 +15,7 @@ export async function getStaticPaths() {
 type Props = CollectionEntry<'blog'>;
 
 const post = Astro.props;
-const { Content } = await render(post);
+const { Content, headings } = await render(post);
 
 // 直接讀取 markdown 檔案取得 embeds
 const blogDir = join(process.cwd(), 'src/content/blog');
@@ -44,6 +44,6 @@ rawEmbeds.forEach((e: any) => {
 });
 ---
 
-<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body}>
+<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings}>
   <Content />
 </BlogPost>
