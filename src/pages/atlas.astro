@@ -127,7 +127,8 @@ export const prerender = true;
     <button class="tab"        data-tab="index">   <span class="icon">📊</span> 索引</button>
     <button class="tab"        data-tab="upload">  <span class="icon">🖼️</span> 圖片</button>
     <button class="tab"        data-tab="shorturl"><span class="icon">🔗</span> 短網址</button>
-    <button class="tab"        data-tab="hot">     <span class="icon">🔥</span> 本週熱門</button>
+    <button class="tab"        data-tab="hot">      <span class="icon">🔥</span> 本週熱門</button>
+    <button class="tab"        data-tab="featured"><span class="icon">⭐</span> 編輯精選</button>
     <button class="tab"        data-tab="cf">      <span class="icon">☁️</span> Cloudflare</button>
     <button class="tab"        data-tab="deepinfra"><span class="icon">🤖</span> DeepInfra</button>
   </nav>
@@ -170,6 +171,11 @@ export const prerender = true;
     <!-- 本週熱門 -->
     <div class="panel" id="panel-hot">
       <iframe id="iframe-hot" title="本週熱門文章"></iframe>
+    </div>
+
+    <!-- 編輯精選 -->
+    <div class="panel" id="panel-featured">
+      <iframe id="iframe-featured" title="編輯精選"></iframe>
     </div>
 
     <!-- Cloudflare (external — cannot iframe) -->
@@ -219,6 +225,7 @@ export const prerender = true;
     upload:   '/admin/upload/',
     shorturl: '/go/',
     hot:      '/admin/hot/',
+    featured: '/admin/featured/',
   };
 
   var loaded = {};

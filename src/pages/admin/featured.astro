@@ -1,0 +1,370 @@
+---
+export const prerender = true;
+---
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>編輯精選 — gobaligo 後台</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+           background: #f5f5f5; color: #222; padding: 1.5rem 1rem; }
+    .container { max-width: 900px; margin: 0 auto; }
+    h1 { font-size: 1.25rem; font-weight: 700; margin-bottom: 1.5rem; }
+
+    /* Auth */
+    #auth-wall { background: #fff; border-radius: 10px; padding: 2rem;
+                 box-shadow: 0 1px 6px rgba(0,0,0,.1); max-width: 360px; }
+    #auth-wall h2 { font-size: 1rem; margin-bottom: 1rem; }
+    .auth-row { display: flex; gap: .5rem; }
+    .auth-row input { flex: 1; padding: .5rem .8rem; border: 1px solid #ccc;
+                      border-radius: 6px; font-size: .95rem; }
+    .auth-err { color: #c53030; font-size: .82rem; margin-top: .5rem; display: none; }
+    #main-ui { display: none; }
+
+    .layout { display: grid; grid-template-columns: 200px 1fr 1fr; gap: 1.2rem; }
+    @media (max-width: 700px) { .layout { grid-template-columns: 1fr; } }
+
+    /* Category list */
+    .cat-panel { background: #fff; border-radius: 10px; box-shadow: 0 1px 6px rgba(0,0,0,.1);
+                 overflow: hidden; align-self: start; }
+    .cat-panel h2 { font-size: .85rem; font-weight: 700; color: #555; padding: .9rem 1rem .6rem;
+                    border-bottom: 1px solid #f0f0f0; }
+    .cat-btn { display: block; width: 100%; text-align: left; padding: .6rem 1rem;
+               border: none; background: none; cursor: pointer; font-size: .88rem;
+               font-family: inherit; color: #333; transition: background .1s;
+               border-left: 3px solid transparent; }
+    .cat-btn:hover { background: #faf8f4; }
+    .cat-btn.active { background: #fff8ee; border-left-color: #f97316;
+                      color: #c05a00; font-weight: 700; }
+    .cat-count { font-size: .75rem; color: #aaa; margin-left: .3rem; }
+
+    /* Panels */
+    .panel { background: #fff; border-radius: 10px; padding: 1.2rem 1.4rem;
+             box-shadow: 0 1px 6px rgba(0,0,0,.1); }
+    .panel h2 { font-size: .95rem; font-weight: 700; color: #555; margin-bottom: 1rem; }
+
+    /* Featured list */
+    #feat-list { display: flex; flex-direction: column; gap: .4rem; margin-bottom: 1rem; min-height: 40px; }
+    .feat-item { display: flex; align-items: center; gap: .5rem; padding: .5rem .7rem;
+                 background: #f9f6f0; border: 1px solid #e5d9c5; border-radius: 7px; }
+    .feat-num { font-size: .82rem; font-weight: 700; color: #f97316; width: 18px;
+                text-align: center; flex-shrink: 0; }
+    .feat-title { flex: 1; font-size: .84rem; line-height: 1.4; }
+    .feat-actions { display: flex; gap: .25rem; flex-shrink: 0; }
+    .btn-icon { background: none; border: 1px solid #ddd; border-radius: 5px;
+                padding: .18rem .42rem; font-size: .78rem; cursor: pointer;
+                color: #666; transition: background .1s; }
+    .btn-icon:hover { background: #f0f0f0; }
+    .btn-icon.del:hover { background: #fff0f0; border-color: #fca5a5; color: #c53030; }
+    .btn-icon:disabled { opacity: .3; cursor: not-allowed; }
+
+    .empty-hint { font-size: .84rem; color: #bbb; padding: .5rem 0; }
+    .max-hint   { font-size: .78rem; color: #aaa; margin-bottom: .8rem; }
+
+    .save-row { display: flex; align-items: center; gap: .8rem; margin-top: .2rem; }
+    #save-btn { padding: .5rem 1.4rem; background: #1A365D; color: #fff; border: none;
+                border-radius: 8px; font-size: .92rem; font-weight: 700;
+                cursor: pointer; font-family: inherit; }
+    #save-btn:hover { background: #254d85; }
+    #save-btn:disabled { opacity: .45; cursor: not-allowed; }
+    #save-status { font-size: .84rem; }
+
+    /* Search */
+    #search-input { width: 100%; padding: .5rem .75rem; border: 1px solid #ccc;
+                    border-radius: 7px; font-size: .9rem; font-family: inherit;
+                    margin-bottom: .7rem; outline: none; }
+    #search-input:focus { border-color: #f97316; }
+    #search-results { max-height: 420px; overflow-y: auto;
+                      display: flex; flex-direction: column; gap: .3rem; }
+    .search-item { padding: .45rem .65rem; border-radius: 6px; cursor: pointer;
+                   font-size: .84rem; line-height: 1.4; border: 1px solid #eee;
+                   transition: background .1s; }
+    .search-item:hover { background: #fff8ee; border-color: #f97316; }
+    .search-item.in-list { opacity: .4; cursor: not-allowed; }
+    .search-item-cat { font-size: .71rem; color: #aaa; margin-top: .1rem; }
+
+    .btn-ocean { background: #1A365D; color: #fff; border: none; border-radius: 6px;
+                 padding: .4rem .9rem; font-size: .85rem; font-weight: 600; cursor: pointer; }
+  </style>
+</head>
+<body>
+<div class="container">
+  <h1>⭐ 編輯精選文章</h1>
+
+  <div id="auth-wall">
+    <h2>請輸入管理密碼</h2>
+    <div class="auth-row">
+      <input type="password" id="token-input" placeholder="Admin token" />
+      <button class="btn-ocean" id="token-submit">進入</button>
+    </div>
+    <div class="auth-err" id="auth-err">密碼錯誤，請再試一次</div>
+  </div>
+
+  <div id="main-ui">
+    <div class="layout">
+
+      <!-- Category list -->
+      <div class="cat-panel">
+        <h2>分類</h2>
+        <div id="cat-list"></div>
+      </div>
+
+      <!-- Featured list for selected category -->
+      <div class="panel">
+        <h2 id="feat-heading">精選文章</h2>
+        <div class="max-hint">最多 5 篇，依序顯示</div>
+        <div id="feat-list"></div>
+        <div class="save-row">
+          <button id="save-btn">儲存全部</button>
+          <span id="save-status"></span>
+        </div>
+      </div>
+
+      <!-- Search panel -->
+      <div class="panel">
+        <h2>搜尋文章加入</h2>
+        <input type="text" id="search-input" placeholder="輸入關鍵字搜尋…" autocomplete="off" />
+        <div id="search-results"></div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script is:inline>
+  var token = '';
+  var allArticles = [];
+  // featuredMap: { catName: [{id, title}, ...] }
+  var featuredMap = {};
+  var currentCat = '';
+
+  var CATEGORIES = [
+    '新手指南','住宿推薦','峇里島分區攻略','簽證通關',
+    '叫車包車','家庭親子','遊記分享','美食景點活動','新聞存檔'
+  ];
+
+  // ── Auth ──────────────────────────────────────────────────────────────────
+  var saved = sessionStorage.getItem('sl-token');
+  if (saved) { token = saved; unlock(); }
+
+  document.getElementById('token-input').addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') document.getElementById('token-submit').click();
+  });
+  document.getElementById('token-submit').addEventListener('click', async function() {
+    var t = document.getElementById('token-input').value.trim();
+    if (!t) return;
+    var res = await fetch('/api/shortlinks?id=__verify__', {
+      method: 'DELETE', headers: { 'X-Admin-Token': t }
+    });
+    if (res.status === 401) { document.getElementById('auth-err').style.display = 'block'; return; }
+    token = t;
+    sessionStorage.setItem('sl-token', t);
+    document.getElementById('auth-err').style.display = 'none';
+    unlock();
+  });
+
+  async function unlock() {
+    document.getElementById('auth-wall').style.display = 'none';
+    document.getElementById('main-ui').style.display = 'block';
+    await Promise.all([loadFeatured(), loadArticles()]);
+    renderCatList();
+    selectCat(CATEGORIES[0]);
+  }
+
+  // ── Load data ─────────────────────────────────────────────────────────────
+  async function loadFeatured() {
+    try {
+      var res = await fetch('/api/featured');
+      var data = res.ok ? await res.json() : {};
+      // Convert {cat: [id,...]} → {cat: [{id, title}, ...]} after articles load
+      // Store raw for now, will hydrate after articles are loaded
+      featuredMap = data;
+    } catch(e) { featuredMap = {}; }
+  }
+
+  async function loadArticles() {
+    try {
+      var res = await fetch('/article-index.json');
+      var data = res.ok ? await res.json() : [];
+      allArticles = data.filter(function(a) {
+        return a.id && a.id.match(/^\d{4}-\d{2}-\d{2}-/) && a.title;
+      });
+    } catch(e) { allArticles = []; }
+  }
+
+  // Hydrate: convert ID arrays → [{id, title}] using allArticles
+  function hydrateMap() {
+    CATEGORIES.forEach(function(cat) {
+      var ids = featuredMap[cat];
+      if (!ids) { featuredMap[cat] = []; return; }
+      // Support both [{id,title}] and [id,...] formats
+      if (ids.length > 0 && typeof ids[0] === 'string') {
+        featuredMap[cat] = ids.map(function(id) {
+          var a = allArticles.find(function(x) { return x.id === id; });
+          return { id: id, title: a ? a.title : id };
+        });
+      }
+    });
+  }
+
+  // ── Category list ─────────────────────────────────────────────────────────
+  function renderCatList() {
+    hydrateMap();
+    var el = document.getElementById('cat-list');
+    el.innerHTML = CATEGORIES.map(function(cat) {
+      var count = (featuredMap[cat] || []).length;
+      return '<button class="cat-btn" data-cat="' + esc(cat) + '" onclick="selectCat(\'' + esc(cat) + '\')">' +
+        esc(cat) + (count ? '<span class="cat-count">(' + count + ')</span>' : '') +
+      '</button>';
+    }).join('');
+  }
+
+  function selectCat(cat) {
+    currentCat = cat;
+    document.querySelectorAll('.cat-btn').forEach(function(btn) {
+      btn.classList.toggle('active', btn.getAttribute('data-cat') === cat);
+    });
+    document.getElementById('feat-heading').textContent = '⭐ ' + cat + ' 精選';
+    renderFeatList();
+    renderSearch(document.getElementById('search-input').value);
+  }
+
+  // ── Featured list ─────────────────────────────────────────────────────────
+  function renderFeatList() {
+    var items = featuredMap[currentCat] || [];
+    var el = document.getElementById('feat-list');
+    if (items.length === 0) {
+      el.innerHTML = '<div class="empty-hint">尚無精選，從右側搜尋加入</div>';
+      return;
+    }
+    el.innerHTML = items.map(function(item, i) {
+      return '<div class="feat-item">' +
+        '<span class="feat-num">' + (i + 1) + '</span>' +
+        '<span class="feat-title">' + esc(item.title) + '</span>' +
+        '<div class="feat-actions">' +
+          '<button class="btn-icon" onclick="moveUp(\'' + esc(currentCat) + '\',' + i + ')" ' + (i === 0 ? 'disabled' : '') + '>↑</button>' +
+          '<button class="btn-icon" onclick="moveDown(\'' + esc(currentCat) + '\',' + i + ')" ' + (i === items.length - 1 ? 'disabled' : '') + '>↓</button>' +
+          '<button class="btn-icon del" onclick="removeItem(\'' + esc(currentCat) + '\',' + i + ')">✕</button>' +
+        '</div>' +
+      '</div>';
+    }).join('');
+  }
+
+  function moveUp(cat, i) {
+    var arr = featuredMap[cat];
+    if (i === 0) return;
+    var tmp = arr[i-1]; arr[i-1] = arr[i]; arr[i] = tmp;
+    renderFeatList(); renderCatList(); selectCat(cat);
+  }
+  function moveDown(cat, i) {
+    var arr = featuredMap[cat];
+    if (i >= arr.length - 1) return;
+    var tmp = arr[i+1]; arr[i+1] = arr[i]; arr[i] = tmp;
+    renderFeatList(); renderCatList(); selectCat(cat);
+  }
+  function removeItem(cat, i) {
+    featuredMap[cat].splice(i, 1);
+    renderFeatList(); renderCatList();
+    // Restore active state
+    document.querySelectorAll('.cat-btn').forEach(function(btn) {
+      btn.classList.toggle('active', btn.getAttribute('data-cat') === cat);
+    });
+    renderSearch(document.getElementById('search-input').value);
+  }
+
+  function addItem(id, title) {
+    if (!currentCat) return;
+    var arr = featuredMap[currentCat] || (featuredMap[currentCat] = []);
+    if (arr.length >= 5) { alert('每個分類最多 5 篇'); return; }
+    if (arr.find(function(a) { return a.id === id; })) return;
+    arr.push({ id: id, title: title });
+    renderFeatList(); renderCatList();
+    document.querySelectorAll('.cat-btn').forEach(function(btn) {
+      btn.classList.toggle('active', btn.getAttribute('data-cat') === currentCat);
+    });
+    renderSearch(document.getElementById('search-input').value);
+  }
+
+  // ── Search ────────────────────────────────────────────────────────────────
+  document.getElementById('search-input').addEventListener('input', function() {
+    renderSearch(this.value);
+  });
+
+  function renderSearch(q) {
+    var container = document.getElementById('search-results');
+    q = q.trim().toLowerCase();
+    var inListIds = (featuredMap[currentCat] || []).map(function(a) { return a.id; });
+
+    var filtered = q
+      ? allArticles.filter(function(a) {
+          return a.title.toLowerCase().includes(q) ||
+            (a.description || '').toLowerCase().includes(q) ||
+            (Array.isArray(a.category) ? a.category.join(' ') : (a.category || '')).toLowerCase().includes(q);
+        })
+      : allArticles.filter(function(a) {
+          // Show articles matching current category first
+          var cats = Array.isArray(a.category) ? a.category : [a.category || ''];
+          return cats.includes(currentCat);
+        }).slice(0, 30);
+
+    if (filtered.length === 0) {
+      container.innerHTML = '<div class="empty-hint">找不到文章</div>';
+      return;
+    }
+
+    container.innerHTML = filtered.slice(0, 50).map(function(a) {
+      var inList = inListIds.includes(a.id);
+      var cats = Array.isArray(a.category) ? a.category.join(', ') : (a.category || '');
+      return '<div class="search-item' + (inList ? ' in-list' : '') + '" ' +
+        (inList ? '' : 'onclick="addItem(\'' + a.id.replace(/'/g, "\\'") + '\', \'' + a.title.replace(/'/g, "\\'").replace(/\\/g, '\\\\') + '\')"') + '>' +
+        '<div>' + esc(a.title) + (inList ? ' ✓' : '') + '</div>' +
+        (cats ? '<div class="search-item-cat">' + esc(cats) + '</div>' : '') +
+      '</div>';
+    }).join('');
+  }
+
+  // ── Save ──────────────────────────────────────────────────────────────────
+  document.getElementById('save-btn').addEventListener('click', async function() {
+    var btn = document.getElementById('save-btn');
+    var status = document.getElementById('save-status');
+    btn.disabled = true;
+    status.textContent = '儲存中…'; status.style.color = '#888';
+
+    // Convert to {cat: [id,...]} format for storage
+    var payload = {};
+    CATEGORIES.forEach(function(cat) {
+      var items = featuredMap[cat] || [];
+      if (items.length > 0) {
+        payload[cat] = items.map(function(a) { return a.id; });
+      }
+    });
+
+    try {
+      var res = await fetch('/api/featured', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'X-Admin-Token': token },
+        body: JSON.stringify(payload),
+      });
+      var data = await res.json();
+      if (data.ok) {
+        status.textContent = '✓ 已儲存！首頁即時生效'; status.style.color = '#38a169';
+      } else {
+        status.textContent = '❌ ' + (data.error || '失敗'); status.style.color = '#c53030';
+      }
+    } catch(e) {
+      status.textContent = '❌ 網路錯誤'; status.style.color = '#c53030';
+    }
+    btn.disabled = false;
+    setTimeout(function() { status.textContent = ''; }, 4000);
+  });
+
+  function esc(s) {
+    return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+</script>
+</body>
+</html>

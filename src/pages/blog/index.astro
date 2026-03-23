@@ -357,6 +357,16 @@ const socialLinks = [
       section.style.display = '';
     }).catch(() => {});
 
+    // 從 KV 動態載入精選文章（若有資料則覆蓋靜態清單）
+    let dynamicFeatured = null;
+    fetch('/api/featured').then(r => r.json()).then(data => {
+      if (data && typeof data === 'object' && Object.keys(data).length > 0) {
+        dynamicFeatured = data;
+        // 若目前已在某分類，重新渲染精選
+        if (currentCat && currentCat !== 'all') updateFeatured(currentCat);
+      }
+    }).catch(() => {});
+
     const POSTS_PER_PAGE = 18;
     let currentPage = 1;
     let currentCat = 'all';
@@ -367,7 +377,8 @@ const socialLinks = [
 
     function updateFeatured(cat) {
       const section = document.getElementById('featured-section');
-      const ids = featuredData[cat] || [];
+      const source = dynamicFeatured || featuredData;
+      const ids = source[cat] || [];
       if (cat === 'all' || ids.length === 0) {
         section.style.display = 'none';
         return;
