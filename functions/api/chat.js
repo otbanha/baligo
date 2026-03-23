@@ -154,6 +154,13 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['庫塔', 'kuta', 'Kuta', 'KUTA'],
+    articles: [
+      { title: '峇里島旅遊庫塔攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集', url: '/blog/2026-03-08-657598bdfd8978000120fe20/' },
+      { title: '峇里島攻略之認識峇里島區域：峇里島住宿推薦指南 - 認識庫塔 水明漾 倉古 烏布', url: '/blog/2026-02-24-65839fbafd89780001e876b5/' },
+    ],
+  },
+  {
     keywords: ['金巴蘭', 'jimbaran', 'Jimbaran', 'JIMBARAN', '武吉', 'bukit', 'Bukit', 'BUKIT'],
     articles: [
       { title: '峇里島自由行金巴蘭攻略：推薦30個玩樂景點全攻略｜2026旅遊指南', url: '/blog/2023-11-09-654b8438fd897800016bf4cc/' },
