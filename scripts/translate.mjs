@@ -18,7 +18,7 @@ import matter from 'gray-matter';
 
 // ── 設定 ──────────────────────────────────────────────────────────────────────
 
-const DEEPSEEK_API_KEY = process.env.DEEPSEEK_API_KEY;
+const DEEPSEEK_API_KEY = process.env.DEEPINFRA_API_KEY ?? process.env.DEEPSEEK_API_KEY;
 const SOURCE_DIR = 'src/content/blog';
 const CACHE_FILE = '.translation-cache.json';
 const BATCH_SIZE = 10; // 每次 API 呼叫最多幾個段落
@@ -155,14 +155,14 @@ function rebuildBody(segments, translatedMap) {
 async function callDeepSeek(texts, lang) {
   if (!DEEPSEEK_API_KEY) throw new Error('DEEPSEEK_API_KEY 未設定');
 
-  const res = await fetch('https://api.deepseek.com/chat/completions', {
+  const res = await fetch('https://api.deepinfra.com/v1/openai/chat/completions', {
     method: 'POST',
     headers: {
       'Content-Type': 'application/json',
       Authorization: `Bearer ${DEEPSEEK_API_KEY}`,
     },
     body: JSON.stringify({
-      model: 'deepseek-chat',
+      model: 'deepseek-ai/DeepSeek-V3',
       messages: [
         { role: 'system', content: SYSTEM_PROMPTS[lang] },
         { role: 'user', content: JSON.stringify(texts) },
