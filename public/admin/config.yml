@@ -34,8 +34,20 @@ collections:
         format: "YYYY-MM-DD"
       - label: 分類
         name: category
-        widget: list
-        field: { label: 分類, name: category, widget: string }
+        widget: select
+        multiple: true
+        required: false
+        options:
+          - 新手指南
+          - 住宿推薦
+          - 峇里島分區攻略
+          - 簽證通關
+          - 叫車包車
+          - 家庭親子
+          - 遊記分享
+          - 美食景點活動
+          - 旅行技巧
+          - 新聞存檔
       - label: Tags
         name: tags
         widget: list
