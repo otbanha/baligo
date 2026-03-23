@@ -7,9 +7,10 @@
   <script src="https://unpkg.com/@sveltia/cms@0.147.2/dist/sveltia-cms.js" type="module"></script>
 </head>
 <body>
+<!-- registerMediaLibrary() removed: not supported in Sveltia CMS 0.147.x -->
+<!--
 <script>
 (function () {
-  // Register custom R2 media library once window.CMS is available
   function register() {
     if (!window.CMS || !window.CMS.registerMediaLibrary) {
       return setTimeout(register, 80);
@@ -176,5 +177,6 @@
   register();
 })();
 </script>
+-->
 </body>
 </html>
