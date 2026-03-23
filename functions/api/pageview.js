@@ -7,7 +7,7 @@ const PREFIX = 'pv:';
 
 export async function onRequestPost(context) {
   const { request, env } = context;
-  if (!env.RATE_LIMIT) return new Response('ok');
+  if (!env.PAGEVIEW_KV) return new Response('ok');
 
   let slug;
   try {
@@ -22,19 +22,19 @@ export async function onRequestPost(context) {
   }
 
   const key = PREFIX + slug;
-  const existing = await env.RATE_LIMIT.getWithMetadata(key);
+  const existing = await env.PAGEVIEW_KV.getWithMetadata(key);
   const count = ((existing.metadata && existing.metadata.views) || 0) + 1;
-  await env.RATE_LIMIT.put(key, '', { metadata: { views: count } });
+  await env.PAGEVIEW_KV.put(key, '', { metadata: { views: count } });
 
   return new Response('ok');
 }
 
 export async function onRequestGet(context) {
   const { env } = context;
-  if (!env.RATE_LIMIT) return Response.json([]);
+  if (!env.PAGEVIEW_KV) return Response.json([]);
 
   // list() returns all keys + metadata in one round-trip — no per-key gets needed
-  const list = await env.RATE_LIMIT.list({ prefix: PREFIX, limit: 1000 });
+  const list = await env.PAGEVIEW_KV.list({ prefix: PREFIX, limit: 1000 });
   const results = list.keys
     .map(({ name, metadata }) => ({
       slug: name.slice(PREFIX.length),
