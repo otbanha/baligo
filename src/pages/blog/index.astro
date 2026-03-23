@@ -345,23 +345,17 @@ const socialLinks = [
       if (title) title.textContent = random.title;
     }
 
-    // Top 5 亂數排序
-    if (top5Posts.length > 0) {
+    // 從 KV 動態載入熱門文章（若有資料則覆蓋靜態清單）
+    fetch('/api/hot-articles').then(r => r.json()).then(data => {
+      if (!Array.isArray(data) || data.length === 0) return;
+      const section = document.getElementById('top5-section');
       const list = document.getElementById('top5-list');
-      if (list) {
-        const items = [...list.querySelectorAll('.top5-item')];
-        // Fisher-Yates shuffle
-        for (let i = items.length - 1; i > 0; i--) {
-          const j = Math.floor(Math.random() * (i + 1));
-          list.appendChild(items[j]);
-          items.splice(j, 1);
-        }
-        // 重新編號
-        list.querySelectorAll('.top5-num').forEach((num, i) => {
-          num.textContent = i + 1;
-        });
-      }
-    }
+      if (!section || !list) return;
+      list.innerHTML = data.map((item, i) =>
+        `<li class="top5-item"><a href="/blog/${item.id}/"><span class="top5-num">${i + 1}</span><span class="top5-title">${item.title}</span></a></li>`
+      ).join('');
+      section.style.display = '';
+    }).catch(() => {});
 
     const POSTS_PER_PAGE = 18;
     let currentPage = 1;
