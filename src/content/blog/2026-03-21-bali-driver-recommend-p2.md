@@ -9,7 +9,7 @@ originalUrl: ''
 embeds: []
 ---
 
-第一頁推薦的司機在[這裡](https://vocus.cc/article/668aaea7fd89780001981840)
+第一頁推薦的司機在這裡
 
 ## Manx Liega
 
