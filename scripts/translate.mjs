@@ -341,7 +341,7 @@ function estimateCost(files) {
 
 // ── 並發控制 ─────────────────────────────────────────────────────────────────
 
-const CONCURRENCY = parseInt(process.env.TRANSLATE_CONCURRENCY ?? '10', 10);
+const CONCURRENCY = parseInt(process.env.TRANSLATE_CONCURRENCY ?? '40', 10);
 
 async function runPool(tasks, concurrency) {
   const results = [];
