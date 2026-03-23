@@ -1,0 +1,265 @@
+---
+export const prerender = true;
+---
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Atlas — gobaligo 後台</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; overflow: hidden; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+           background: #0f1923; color: #e8e0d4; display: flex; flex-direction: column; }
+
+    /* ── Auth ─────────────────────────────────────────────────────── */
+    #auth-wall {
+      position: fixed; inset: 0; background: #0f1923;
+      display: flex; align-items: center; justify-content: center; z-index: 999;
+    }
+    .auth-box {
+      background: #1a2535; border: 1px solid #2e3d52; border-radius: 14px;
+      padding: 2.2rem 2.4rem; width: 340px; box-shadow: 0 8px 40px rgba(0,0,0,.5);
+    }
+    .auth-logo { font-size: 1.5rem; font-weight: 800; color: #C5A059; margin-bottom: .3rem; }
+    .auth-sub  { font-size: .82rem; color: #6b7a8d; margin-bottom: 1.5rem; }
+    .auth-row  { display: flex; gap: .5rem; }
+    .auth-row input {
+      flex: 1; padding: .6rem .9rem; background: #111c2a;
+      border: 1px solid #2e3d52; border-radius: 8px; color: #e8e0d4;
+      font-size: .95rem; outline: none;
+    }
+    .auth-row input:focus { border-color: #C5A059; }
+    .auth-btn {
+      padding: .6rem 1.2rem; background: #1A365D; color: #fff; border: none;
+      border-radius: 8px; font-size: .9rem; font-weight: 700; cursor: pointer;
+    }
+    .auth-btn:hover { background: #254d85; }
+    .auth-err { color: #fc8181; font-size: .8rem; margin-top: .6rem; display: none; }
+
+    /* ── Shell ────────────────────────────────────────────────────── */
+    #shell { display: none; flex-direction: column; height: 100%; }
+
+    /* ── Tab Bar ──────────────────────────────────────────────────── */
+    .tabbar {
+      display: flex; align-items: stretch; gap: 2px;
+      background: #111c2a; border-bottom: 1px solid #1f2f42;
+      padding: 0 1rem; flex-shrink: 0; height: 48px;
+    }
+    .tabbar-brand {
+      font-size: .95rem; font-weight: 800; color: #C5A059;
+      display: flex; align-items: center; padding-right: 1.2rem;
+      border-right: 1px solid #1f2f42; margin-right: .4rem; letter-spacing: .04em;
+    }
+    .tab {
+      display: flex; align-items: center; gap: .4em;
+      padding: 0 1.1rem; border: none; background: none;
+      color: #7a8fa8; font-size: .87rem; font-weight: 600;
+      cursor: pointer; border-bottom: 2px solid transparent;
+      transition: color .15s, border-color .15s; white-space: nowrap;
+      font-family: inherit;
+    }
+    .tab:hover  { color: #c5d0dc; }
+    .tab.active { color: #e8e0d4; border-bottom-color: #C5A059; }
+    .tab .icon  { font-size: 1em; }
+
+    /* ── Content ──────────────────────────────────────────────────── */
+    #content { flex: 1; overflow: hidden; position: relative; }
+
+    .panel {
+      position: absolute; inset: 0;
+      display: none;
+    }
+    .panel.active { display: flex; flex-direction: column; }
+
+    /* iframe panels */
+    .panel iframe {
+      width: 100%; flex: 1; border: none;
+      background: #fff;
+    }
+
+    /* external link panels */
+    .ext-panel {
+      flex: 1; display: flex; align-items: center; justify-content: center;
+      background: #0f1923;
+    }
+    .ext-card {
+      background: #1a2535; border: 1px solid #2e3d52; border-radius: 16px;
+      padding: 2.4rem 2.8rem; text-align: center; max-width: 420px;
+      box-shadow: 0 8px 40px rgba(0,0,0,.4);
+    }
+    .ext-card .ext-icon { font-size: 2.8rem; margin-bottom: .8rem; }
+    .ext-card h2 { font-size: 1.25rem; color: #C5A059; margin-bottom: .5rem; font-weight: 800; }
+    .ext-card p  { font-size: .85rem; color: #6b7a8d; margin-bottom: 1.6rem; line-height: 1.6; }
+    .open-btn {
+      display: inline-flex; align-items: center; gap: .5em;
+      background: #1A365D; color: #fff; border: none; border-radius: 10px;
+      padding: .75rem 1.8rem; font-size: 1rem; font-weight: 700;
+      cursor: pointer; text-decoration: none; transition: background .15s;
+    }
+    .open-btn:hover { background: #254d85; }
+    .open-btn svg { width: 16px; height: 16px; flex-shrink: 0; }
+  </style>
+</head>
+<body>
+
+<!-- Auth Wall -->
+<div id="auth-wall">
+  <div class="auth-box">
+    <div class="auth-logo">⚙️ Atlas</div>
+    <div class="auth-sub">gobaligo 後台管理中心</div>
+    <div class="auth-row">
+      <input type="password" id="token-input" placeholder="Admin token" />
+      <button class="auth-btn" id="token-submit">進入</button>
+    </div>
+    <div class="auth-err" id="auth-err">密碼錯誤，請再試一次</div>
+  </div>
+</div>
+
+<!-- Main Shell -->
+<div id="shell">
+  <!-- Tab Bar -->
+  <nav class="tabbar">
+    <div class="tabbar-brand">Atlas</div>
+    <button class="tab active" data-tab="cms">     <span class="icon">✏️</span> CMS</button>
+    <button class="tab"        data-tab="index">   <span class="icon">📊</span> 索引</button>
+    <button class="tab"        data-tab="upload">  <span class="icon">🖼️</span> 圖片</button>
+    <button class="tab"        data-tab="shorturl"><span class="icon">🔗</span> 短網址</button>
+    <button class="tab"        data-tab="cf">      <span class="icon">☁️</span> Cloudflare</button>
+    <button class="tab"        data-tab="deepinfra"><span class="icon">🤖</span> DeepInfra</button>
+  </nav>
+
+  <!-- Content Panels -->
+  <div id="content">
+
+    <!-- CMS -->
+    <div class="panel active" id="panel-cms">
+      <iframe id="iframe-cms" title="CMS"></iframe>
+    </div>
+
+    <!-- 索引 -->
+    <div class="panel" id="panel-index">
+      <iframe id="iframe-index" title="文章索引"></iframe>
+    </div>
+
+    <!-- 圖片上傳 -->
+    <div class="panel" id="panel-upload">
+      <iframe id="iframe-upload" title="圖片上傳"></iframe>
+    </div>
+
+    <!-- 短網址 -->
+    <div class="panel" id="panel-shorturl">
+      <iframe id="iframe-shorturl" title="短網址管理"></iframe>
+    </div>
+
+    <!-- Cloudflare (external — cannot iframe) -->
+    <div class="panel" id="panel-cf">
+      <div class="ext-panel">
+        <div class="ext-card">
+          <div class="ext-icon">☁️</div>
+          <h2>Cloudflare Dashboard</h2>
+          <p>Cloudflare 不允許嵌入 iframe。<br>請點下方按鈕在新分頁開啟。</p>
+          <a class="open-btn"
+             href="https://dash.cloudflare.com/8539451c59b0447bc90fea01f29d10c8/pages/view/baligo2"
+             target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+            在新分頁開啟
+          </a>
+        </div>
+      </div>
+    </div>
+
+    <!-- DeepInfra (external — cannot iframe) -->
+    <div class="panel" id="panel-deepinfra">
+      <div class="ext-panel">
+        <div class="ext-card">
+          <div class="ext-icon">🤖</div>
+          <h2>DeepInfra Dashboard</h2>
+          <p>DeepInfra 不允許嵌入 iframe。<br>請點下方按鈕在新分頁開啟。</p>
+          <a class="open-btn"
+             href="https://deepinfra.com/dash/usage"
+             target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+            在新分頁開啟
+          </a>
+        </div>
+      </div>
+    </div>
+
+  </div><!-- /content -->
+</div><!-- /shell -->
+
+<script>
+  // ── Tab URL config ───────────────────────────────────────────────────────
+  const TAB_URLS: Record<string, string> = {
+    cms:      '/admin/#/collections/blog',
+    index:    '/index-all/',
+    upload:   '/admin/upload/',
+    shorturl: '/go/',
+  };
+
+  // ── Auth ─────────────────────────────────────────────────────────────────
+  const authWall   = document.getElementById('auth-wall')!;
+  const shell      = document.getElementById('shell')!;
+  const tokenInput = document.getElementById('token-input') as HTMLInputElement;
+  const tokenSubmit = document.getElementById('token-submit')!;
+  const authErr    = document.getElementById('auth-err')!;
+
+  const saved = sessionStorage.getItem('sl-token');
+  if (saved) unlock();
+
+  tokenInput.addEventListener('keydown', (e) => { if (e.key === 'Enter') tokenSubmit.click(); });
+  tokenSubmit.addEventListener('click', async () => {
+    const t = tokenInput.value.trim();
+    if (!t) return;
+    const res = await fetch('/api/shortlinks?id=__verify__', {
+      method: 'DELETE',
+      headers: { 'X-Admin-Token': t },
+    });
+    if (res.status === 401) { authErr.style.display = 'block'; return; }
+    sessionStorage.setItem('sl-token', t);
+    authErr.style.display = 'none';
+    unlock();
+  });
+
+  function unlock() {
+    authWall.style.display = 'none';
+    shell.style.display = 'flex';
+    activateTab('cms');
+  }
+
+  // ── Tabs ─────────────────────────────────────────────────────────────────
+  const loaded = new Set<string>();
+
+  function activateTab(tabId: string) {
+    // Update tab buttons
+    document.querySelectorAll<HTMLElement>('.tab').forEach(btn => {
+      btn.classList.toggle('active', btn.dataset.tab === tabId);
+    });
+    // Show/hide panels
+    document.querySelectorAll<HTMLElement>('.panel').forEach(panel => {
+      panel.classList.toggle('active', panel.id === `panel-${tabId}`);
+    });
+    // Lazy-load iframes
+    const iframeId = `iframe-${tabId}`;
+    const iframe = document.getElementById(iframeId) as HTMLIFrameElement | null;
+    if (iframe && !loaded.has(tabId)) {
+      iframe.src = TAB_URLS[tabId];
+      loaded.add(tabId);
+    }
+  }
+
+  document.querySelectorAll<HTMLElement>('.tab').forEach(btn => {
+    btn.addEventListener('click', () => {
+      if (btn.dataset.tab) activateTab(btn.dataset.tab);
+    });
+  });
+</script>
+</body>
+</html>
