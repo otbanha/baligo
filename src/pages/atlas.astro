@@ -135,9 +135,21 @@ export const prerender = true;
   <!-- Content Panels -->
   <div id="content">
 
-    <!-- CMS -->
+    <!-- CMS (cannot iframe — auth breaks inside iframe) -->
     <div class="panel active" id="panel-cms">
-      <iframe id="iframe-cms" title="CMS"></iframe>
+      <div class="ext-panel">
+        <div class="ext-card">
+          <div class="ext-icon">✏️</div>
+          <h2>Sveltia CMS</h2>
+          <p>CMS 登入功能在 iframe 內無法正常運作。<br>請在新分頁開啟使用。</p>
+          <a class="open-btn" href="/admin/#/collections/blog" target="_blank" rel="noopener">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
+              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
+            </svg>
+            在新分頁開啟 CMS
+          </a>
+        </div>
+      </div>
     </div>
 
     <!-- 索引 -->
@@ -203,7 +215,6 @@ export const prerender = true;
 
 <script is:inline>
   var TAB_URLS = {
-    cms:      '/admin/#/collections/blog',
     index:    '/index-all/',
     upload:   '/admin/upload/',
     shorturl: '/go/',
