@@ -1,5 +1,12 @@
 ---
 import { SITE_TITLE } from '../consts';
+import LanguageSwitcher from './LanguageSwitcher.astro';
+
+interface Props {
+  lang?: string;
+  slug?: string;
+}
+const { lang, slug } = Astro.props;
 ---
 
 <header>
@@ -20,6 +27,8 @@ import { SITE_TITLE } from '../consts';
         placeholder="🔍 搜尋峇里島攻略..."
       />
     </form>
+
+    <LanguageSwitcher currentLang={lang ?? 'blog'} slug={slug ?? ''} />
   </nav>
 </header>
 

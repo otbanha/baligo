@@ -1,0 +1,123 @@
+---
+interface Props {
+  currentLang?: string; // 'blog'(zh-tw) | 'zh-cn' | 'zh-hk' | 'en'
+  slug?: string;        // 文章 slug，用於跨語言連結
+}
+
+const { currentLang = 'blog', slug = '' } = Astro.props;
+
+const LANGS = [
+  { code: 'blog',  label: '繁中', title: '繁體中文（台灣）' },
+  { code: 'zh-hk', label: '粵語', title: '廣東話（香港）' },
+  { code: 'zh-cn', label: '简中', title: '简体中文' },
+  { code: 'en',    label: 'EN',   title: 'English' },
+];
+
+function buildUrl(langCode: string, slug: string) {
+  if (!slug) return `/${langCode}/`;
+  return `/${langCode}/blog/${slug}/`;
+}
+---
+
+<div class="lang-switcher" id="lang-switcher">
+  <button class="lang-current" aria-haspopup="listbox" aria-expanded="false" id="lang-btn">
+    <span class="lang-globe">🌐</span>
+    <span class="lang-label">{LANGS.find(l => l.code === currentLang)?.label ?? '繁中'}</span>
+    <span class="lang-arrow">▾</span>
+  </button>
+  <ul class="lang-menu" role="listbox" id="lang-menu" hidden>
+    {LANGS.map(lang => (
+      <li role="option" aria-selected={lang.code === currentLang}>
+        {lang.code === currentLang
+          ? <span class="lang-item lang-item--active" title={lang.title}>{lang.label}</span>
+          : <a class="lang-item" href={buildUrl(lang.code, slug)} title={lang.title} hreflang={lang.code === 'blog' ? 'zh-TW' : lang.code}>
+              {lang.label}
+            </a>
+        }
+      </li>
+    ))}
+  </ul>
+</div>
+
+<style>
+.lang-switcher {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.lang-current {
+  display: flex;
+  align-items: center;
+  gap: 0.3em;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(201, 168, 76, 0.5);
+  border-radius: 8px;
+  padding: 0.3em 0.7em;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--gold-light, #e8d5a3);
+  transition: all 0.15s;
+  white-space: nowrap;
+  font-family: inherit;
+}
+
+.lang-current:hover {
+  background: rgba(201, 168, 76, 0.2);
+  border-color: var(--gold, #C5A059);
+  color: #fff;
+}
+
+.lang-arrow { font-size: 0.7em; transition: transform 0.15s; }
+.lang-current[aria-expanded="true"] .lang-arrow { transform: rotate(180deg); }
+
+.lang-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  background: #fff;
+  border: 1px solid rgba(201, 168, 76, 0.3);
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+  list-style: none;
+  margin: 0;
+  padding: 0.4em 0;
+  min-width: 90px;
+  z-index: 100;
+}
+
+.lang-item {
+  display: block;
+  padding: 0.45em 1em;
+  font-size: 0.88rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--ocean, #1A365D);
+  white-space: nowrap;
+  transition: background 0.12s;
+  cursor: pointer;
+}
+
+.lang-item:hover { background: rgba(201, 168, 76, 0.1); color: var(--gold, #C5A059); }
+.lang-item--active { color: var(--gold, #C5A059); cursor: default; }
+</style>
+
+<script>
+  const btn = document.getElementById('lang-btn');
+  const menu = document.getElementById('lang-menu');
+
+  if (btn && menu) {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const open = menu.hidden;
+      menu.hidden = !open;
+      btn.setAttribute('aria-expanded', String(open));
+    });
+
+    document.addEventListener('click', () => {
+      menu.hidden = true;
+      btn.setAttribute('aria-expanded', 'false');
+    });
+  }
+</script>

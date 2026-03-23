@@ -7,8 +7,8 @@ import Header from '../components/Header.astro';
 import ChatBot from '../components/ChatBot.astro';
 import { getCollection } from 'astro:content';
 
-type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[] };
-const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [] } = Astro.props;
+type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[]; lang?: string; slug?: string };
+const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug } = Astro.props;
 
 const tocHeadings = headings.filter(h => h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= 2;
@@ -77,10 +77,14 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
 <html lang="zh-TW">
 <head>
   <BaseHead title={title} description={description} />
+  {lang === 'zh-cn' && <link rel="alternate" hreflang="zh-CN" href={`https://gobaligo.id/zh-cn/blog/${slug}/`} />}
+  {lang === 'zh-hk' && <link rel="alternate" hreflang="zh-HK" href={`https://gobaligo.id/zh-hk/blog/${slug}/`} />}
+  {lang === 'en' && <link rel="alternate" hreflang="en" href={`https://gobaligo.id/en/blog/${slug}/`} />}
+  {!lang && slug && <link rel="alternate" hreflang="zh-TW" href={`https://gobaligo.id/blog/${slug}/`} />}
 </head>
 
 <body>
-  <Header />
+  <Header lang={lang ?? 'blog'} slug={slug} />
   <div class="layout">
 
     <aside class="sidebar">
