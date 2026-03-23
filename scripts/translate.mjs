@@ -18,7 +18,7 @@ import matter from 'gray-matter';
 
 // ── 設定 ──────────────────────────────────────────────────────────────────────
 
-const DEEPSEEK_API_KEY = process.env.DEEPINFRA_API_KEY ?? process.env.DEEPSEEK_API_KEY;
+const DEEPSEEK_API_KEY = process.env.DEEPSEEK_API_KEY;
 const SOURCE_DIR = 'src/content/blog';
 const CACHE_FILE = '.translation-cache.json';
 const BATCH_SIZE = 10; // 每次 API 呼叫最多幾個段落
