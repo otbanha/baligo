@@ -1,0 +1,282 @@
+---
+export const prerender = true;
+---
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>圖片上傳到 R2 — gobaligo.id</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+           background: #f5f5f5; color: #222; padding: 2rem 1rem; }
+    .container { max-width: 700px; margin: 0 auto; }
+    h1 { font-size: 1.25rem; font-weight: 700; margin-bottom: 1.5rem; }
+
+    /* Auth */
+    #auth-wall { background: #fff; border-radius: 10px; padding: 2rem;
+                 box-shadow: 0 1px 6px rgba(0,0,0,.1); max-width: 360px; }
+    #auth-wall h2 { font-size: 1rem; margin-bottom: 1rem; }
+    .auth-row { display: flex; gap: .5rem; }
+    .auth-row input { flex: 1; padding: .5rem .8rem; border: 1px solid #ccc;
+                      border-radius: 6px; font-size: .95rem; }
+    .auth-err { color: #c53030; font-size: .82rem; margin-top: .5rem; display: none; }
+
+    /* Upload UI */
+    #upload-ui { display: none; }
+
+    .drop-zone {
+      border: 2px dashed #C5A059; border-radius: 12px; padding: 3rem 2rem;
+      text-align: center; cursor: pointer; color: #888; background: #fff;
+      transition: background .15s, border-color .15s; margin-bottom: 1.2rem;
+    }
+    .drop-zone.over { background: #fdf8f0; border-color: #f97316; }
+    .drop-zone p { font-size: 1rem; margin-bottom: .4rem; }
+    .drop-zone small { font-size: .8rem; color: #bbb; }
+    #file-input { display: none; }
+
+    /* Previews */
+    #previews { display: flex; flex-wrap: wrap; gap: .75rem; margin-bottom: 1rem; }
+    .preview-item {
+      background: #fff; border-radius: 8px; padding: .6rem;
+      box-shadow: 0 1px 4px rgba(0,0,0,.1); width: 160px;
+    }
+    .preview-item img { width: 100%; height: 110px; object-fit: cover;
+                        border-radius: 5px; display: block; margin-bottom: .4rem; }
+    .preview-item .fname { font-size: .72rem; color: #888; word-break: break-all;
+                           margin-bottom: .35rem; }
+    .preview-item .url-row { display: flex; gap: .3rem; }
+    .preview-item input { flex: 1; font-size: .72rem; padding: .25rem .4rem;
+                          border: 1px solid #ddd; border-radius: 4px;
+                          font-family: monospace; color: #333; min-width: 0; }
+    .copy-btn { background: #1A365D; color: #fff; border: none; border-radius: 4px;
+                padding: .25rem .5rem; font-size: .7rem; cursor: pointer; white-space: nowrap; }
+    .copy-btn.copied { background: #38a169; }
+    .status-badge { font-size: .72rem; margin-top: .3rem; }
+    .status-badge.ok { color: #38a169; }
+    .status-badge.err { color: #c53030; }
+    .status-badge.uploading { color: #888; }
+
+    /* Buttons */
+    .btn { padding: .5rem 1.2rem; border: none; border-radius: 6px; cursor: pointer;
+           font-size: .9rem; font-weight: 600; font-family: inherit; }
+    .btn-primary { background: #f97316; color: #fff; }
+    .btn-ocean  { background: #1A365D; color: #fff; }
+    .btn:disabled { opacity: .45; cursor: not-allowed; }
+
+    .actions { display: flex; gap: .6rem; align-items: center; margin-bottom: 1.5rem; }
+    #upload-all-btn { display: none; }
+
+    .tip { background: #fffbeb; border: 1px solid #fde68a; border-radius: 8px;
+           padding: .8rem 1rem; font-size: .82rem; color: #92400e; margin-top: 1.5rem; }
+    .tip strong { display: block; margin-bottom: .3rem; }
+  </style>
+</head>
+<body>
+<div class="container">
+  <h1>🖼️ 圖片上傳到 R2</h1>
+
+  <!-- Auth -->
+  <div id="auth-wall">
+    <h2>請輸入管理密碼</h2>
+    <div class="auth-row">
+      <input type="password" id="token-input" placeholder="Admin token" />
+      <button class="btn btn-ocean" id="token-submit">進入</button>
+    </div>
+    <div class="auth-err" id="auth-err">密碼錯誤，請再試一次</div>
+  </div>
+
+  <!-- Upload UI -->
+  <div id="upload-ui">
+    <div class="drop-zone" id="drop-zone">
+      <p>點擊或拖曳圖片到這裡</p>
+      <small>JPG · PNG · GIF · WebP · AVIF，最大 15 MB，可多選</small>
+    </div>
+    <input type="file" id="file-input" accept="image/*" multiple />
+
+    <div class="actions">
+      <button class="btn btn-primary" id="upload-all-btn">上傳全部</button>
+      <span id="action-status" style="font-size:.85rem;color:#888;"></span>
+    </div>
+
+    <div id="previews"></div>
+
+    <div class="tip">
+      <strong>💡 如何在 Sveltia CMS 使用</strong>
+      在文章編輯器的圖片欄位 → 點擊選圖 → 左側選「Enter URL」→ 貼上上方複製的網址
+    </div>
+  </div>
+</div>
+
+<script>
+  let token = '';
+
+  // ── Auth ──────────────────────────────────────────────────────────────────
+  const tokenInput  = document.getElementById('token-input');
+  const tokenSubmit = document.getElementById('token-submit');
+  const authWall    = document.getElementById('auth-wall');
+  const uploadUi    = document.getElementById('upload-ui');
+  const authErr     = document.getElementById('auth-err');
+
+  const saved = sessionStorage.getItem('sl-token');
+  if (saved) { token = saved; unlock(); }
+
+  tokenInput.addEventListener('keydown', e => { if (e.key === 'Enter') tokenSubmit.click(); });
+  tokenSubmit.addEventListener('click', async () => {
+    const t = tokenInput.value.trim();
+    if (!t) return;
+    const res = await fetch('/api/shortlinks?id=__verify__', {
+      method: 'DELETE',
+      headers: { 'X-Admin-Token': t },
+    });
+    if (res.status === 401) { authErr.style.display = 'block'; return; }
+    token = t;
+    sessionStorage.setItem('sl-token', token);
+    authErr.style.display = 'none';
+    unlock();
+  });
+
+  function unlock() {
+    authWall.style.display = 'none';
+    uploadUi.style.display = 'block';
+  }
+
+  // ── File selection ────────────────────────────────────────────────────────
+  const dropZone      = document.getElementById('drop-zone');
+  const fileInput     = document.getElementById('file-input');
+  const previews      = document.getElementById('previews');
+  const uploadAllBtn  = document.getElementById('upload-all-btn');
+  const actionStatus  = document.getElementById('action-status');
+
+  let pendingFiles = [];
+
+  dropZone.addEventListener('click', () => fileInput.click());
+  fileInput.addEventListener('change', () => addFiles(Array.from(fileInput.files)));
+
+  dropZone.addEventListener('dragover', e => { e.preventDefault(); dropZone.classList.add('over'); });
+  dropZone.addEventListener('dragleave', () => dropZone.classList.remove('over'));
+  dropZone.addEventListener('drop', e => {
+    e.preventDefault();
+    dropZone.classList.remove('over');
+    addFiles(Array.from(e.dataTransfer.files).filter(f => f.type.startsWith('image/')));
+  });
+
+  function addFiles(files) {
+    files.forEach(file => {
+      if (file.size > 15 * 1024 * 1024) {
+        alert(`${file.name} 超過 15MB，已略過`);
+        return;
+      }
+      const id = Date.now() + Math.random();
+      pendingFiles.push({ id, file, status: 'pending', url: '' });
+      renderPreview({ id, file, status: 'pending', url: '' });
+    });
+    uploadAllBtn.style.display = pendingFiles.some(f => f.status === 'pending') ? 'block' : 'none';
+  }
+
+  function renderPreview({ id, file, status, url }) {
+    const existing = document.querySelector(`[data-id="${id}"]`);
+    if (existing) { updatePreview(id, status, url); return; }
+
+    const div = document.createElement('div');
+    div.className = 'preview-item';
+    div.dataset.id = id;
+
+    const img = document.createElement('img');
+    img.src = URL.createObjectURL(file);
+    div.appendChild(img);
+
+    const fname = document.createElement('div');
+    fname.className = 'fname';
+    fname.textContent = file.name;
+    div.appendChild(fname);
+
+    const urlRow = document.createElement('div');
+    urlRow.className = 'url-row';
+    const urlInput = document.createElement('input');
+    urlInput.type = 'text';
+    urlInput.readOnly = true;
+    urlInput.placeholder = '上傳後顯示網址';
+    const copyBtn = document.createElement('button');
+    copyBtn.className = 'copy-btn';
+    copyBtn.textContent = '複製';
+    copyBtn.onclick = () => {
+      navigator.clipboard.writeText(urlInput.value).catch(() => {});
+      copyBtn.textContent = '✓';
+      copyBtn.classList.add('copied');
+      setTimeout(() => { copyBtn.textContent = '複製'; copyBtn.classList.remove('copied'); }, 1500);
+    };
+    urlRow.appendChild(urlInput);
+    urlRow.appendChild(copyBtn);
+    div.appendChild(urlRow);
+
+    const badge = document.createElement('div');
+    badge.className = 'status-badge';
+    badge.textContent = '等待上傳';
+    div.appendChild(badge);
+
+    previews.appendChild(div);
+  }
+
+  function updatePreview(id, status, url) {
+    const div = document.querySelector(`[data-id="${id}"]`);
+    if (!div) return;
+    const badge = div.querySelector('.status-badge');
+    const urlInput = div.querySelector('input[type=text]');
+    if (status === 'uploading') {
+      badge.textContent = '上傳中…';
+      badge.className = 'status-badge uploading';
+    } else if (status === 'ok') {
+      badge.textContent = '✓ 上傳成功';
+      badge.className = 'status-badge ok';
+      urlInput.value = url;
+    } else if (status === 'error') {
+      badge.textContent = '❌ 失敗：' + url;
+      badge.className = 'status-badge err';
+    }
+  }
+
+  // ── Upload ────────────────────────────────────────────────────────────────
+  uploadAllBtn.addEventListener('click', uploadAll);
+
+  async function uploadAll() {
+    const toUpload = pendingFiles.filter(f => f.status === 'pending');
+    if (!toUpload.length) return;
+
+    uploadAllBtn.disabled = true;
+    actionStatus.textContent = `上傳中 0 / ${toUpload.length}…`;
+
+    let done = 0;
+    for (const item of toUpload) {
+      item.status = 'uploading';
+      updatePreview(item.id, 'uploading', '');
+
+      const fd = new FormData();
+      fd.append('file', item.file);
+
+      try {
+        const res = await fetch('/api/upload', { method: 'POST', body: fd });
+        const data = await res.json();
+        if (!data.url) throw new Error(data.error || '未知錯誤');
+        item.status = 'ok';
+        item.url = data.url;
+        updatePreview(item.id, 'ok', data.url);
+      } catch (err) {
+        item.status = 'error';
+        updatePreview(item.id, 'error', err.message);
+      }
+
+      done++;
+      actionStatus.textContent = `上傳中 ${done} / ${toUpload.length}…`;
+    }
+
+    actionStatus.textContent = `完成 ${toUpload.filter(f => f.status === 'ok').length} / ${toUpload.length}`;
+    uploadAllBtn.disabled = false;
+    pendingFiles = pendingFiles.filter(f => f.status === 'pending');
+    uploadAllBtn.style.display = pendingFiles.length ? 'block' : 'none';
+  }
+</script>
+</body>
+</html>
