@@ -44,26 +44,26 @@ export const prerender = true;
 
     /* ── Tab Bar ──────────────────────────────────────────────────── */
     .tabbar {
-      display: flex; align-items: stretch; gap: 2px;
-      background: #111c2a; border-bottom: 1px solid #1f2f42;
-      padding: 0 1rem; flex-shrink: 0; height: 48px;
+      display: flex; align-items: stretch; gap: 4px;
+      background: #111c2a; border-bottom: 2px solid #1f2f42;
+      padding: 0 1.2rem; flex-shrink: 0; height: 64px;
     }
     .tabbar-brand {
-      font-size: .95rem; font-weight: 800; color: #C5A059;
-      display: flex; align-items: center; padding-right: 1.2rem;
-      border-right: 1px solid #1f2f42; margin-right: .4rem; letter-spacing: .04em;
+      font-size: 1.15rem; font-weight: 800; color: #C5A059;
+      display: flex; align-items: center; padding-right: 1.4rem;
+      border-right: 1px solid #2e3d52; margin-right: .6rem; letter-spacing: .04em;
     }
     .tab {
-      display: flex; align-items: center; gap: .4em;
-      padding: 0 1.1rem; border: none; background: none;
-      color: #7a8fa8; font-size: .87rem; font-weight: 600;
-      cursor: pointer; border-bottom: 2px solid transparent;
-      transition: color .15s, border-color .15s; white-space: nowrap;
-      font-family: inherit;
+      display: flex; align-items: center; gap: .5em;
+      padding: 0 1.6rem; border: none; background: none;
+      color: #7a8fa8; font-size: 1.05rem; font-weight: 700;
+      cursor: pointer; border-bottom: 3px solid transparent;
+      transition: color .15s, border-color .15s, background .15s;
+      white-space: nowrap; font-family: inherit; border-radius: 6px 6px 0 0;
     }
-    .tab:hover  { color: #c5d0dc; }
-    .tab.active { color: #e8e0d4; border-bottom-color: #C5A059; }
-    .tab .icon  { font-size: 1em; }
+    .tab:hover  { color: #c5d0dc; background: rgba(255,255,255,.04); }
+    .tab.active { color: #e8e0d4; border-bottom-color: #C5A059; background: rgba(197,160,89,.08); }
+    .tab .icon  { font-size: 1.2em; }
 
     /* ── Content ──────────────────────────────────────────────────── */
     #content { flex: 1; overflow: hidden; position: relative; }
