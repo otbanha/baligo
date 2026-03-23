@@ -3,7 +3,10 @@ const ALLOWED_ORIGIN = 'https://gobaligo.id';
 // 關鍵字 → 優先顯示文章（每組可有多篇，依序顯示）
 const PINNED_ARTICLES = [
   {
-    keywords: ['包車', '司機', '交通推薦', '中文司機'],
+    keywords: ['包車', '司機', '交通推薦', '中文司機', '地陪', '私家車', '搭車', '叫車', '租車',
+               'driver', 'Driver', 'charter', 'Charter', 'chartered', 'Chartered',
+               'private car', 'private driver', 'private transport', 'hired car', 'car hire',
+               'hire a driver', 'book a driver', 'bali driver', 'Bali driver'],
     articles: [
       { title: '【峇里島包車司機推薦名人榜】巴里島司機網友評鑑大全：看網友真實點評找到適合你的好司機', url: '/blog/2024-07-07-668aaea7fd89780001981840/' },
       { title: '峇里島包車自由行全攻略 - 常見問題、費用、預訂方式、優勢分析', url: '/blog/2024-01-12-65a0a163fd8978000115f37a/' },
@@ -11,74 +14,93 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['第一次', '新手', '初次', '請教', '首次'],
+    keywords: ['第一次', '新手', '初次', '請教', '首次', '初嚟', '唔識', '點玩', '點開始',
+               'first time', 'first visit', 'first trip', 'beginner', 'newbie',
+               'guide for beginners', 'travel tips', 'where to start', 'how to plan'],
     articles: [
       { title: '峇里島新手必讀完整攻略', url: '/blog/2026-03-08-657598bdfd8978000120fe20/' },
     ],
   },
   {
-    keywords: ['換匯', '換錢', '匯率', '印尼盾', '台幣', '印尼幣', '划算'],
+    keywords: ['換匯', '換錢', '匯率', '印尼盾', '台幣', '印尼幣', '划算', '換散紙', '兌換',
+               'money exchange', 'currency exchange', 'money changer', 'exchange rate',
+               'rupiah', 'IDR', 'where to exchange', 'exchange money', 'best exchange'],
     articles: [
       { title: '峇里島換匯攻略，哪裡換最划算？', url: '/blog/2024-01-28-65b5c7e2fd89780001e96fac/' },
     ],
   },
   {
-    keywords: ['多少美金', '帶多少錢', '帶多少現金', '現金夠用', '費用', '花費', '預算'],
+    keywords: ['多少美金', '帶多少錢', '帶多少現金', '現金夠用', '費用', '花費', '預算',
+               '使費', '洗費', '要幾多錢', '夠唔夠錢', '要帶幾多',
+               'budget', 'cost', 'how much money', 'expenses', 'spending', 'travel cost',
+               'how much to bring', 'daily budget', 'how much cash', 'bali cost'],
     articles: [
       { title: '峇里島旅遊費用? 峇里島旅遊要準備多少現金？', url: '/blog/2023-09-11-64fdaddefd89780001bdb780/' },
     ],
   },
   {
-    keywords: ['SIM卡', 'SIM', 'sim卡', 'sim', '網路', '電話', '最穩'],
+    keywords: ['SIM卡', 'SIM', 'sim卡', 'sim', '網路', '電話', '最穩', '上網', '上網卡', '數據卡',
+               'SIM card', 'data plan', 'internet', 'mobile data', 'eSIM', 'e-SIM',
+               'wifi', 'roaming', 'data roaming', 'bali sim', 'prepaid sim'],
     articles: [
       { title: '峇里島 SIM 卡推薦，最穩上網方案', url: '/blog/2024-03-21-65f916bbfd89780001b916e0/' },
     ],
   },
   {
-    keywords: ['簽證', 'visa', 'VISA', '海關', '申請', '通關', '入境', '電子簽', '落地簽'],
+    keywords: ['簽證', '簽証', 'visa', 'VISA', '海關', '申請', '通關', '入境', '電子簽', '落地簽',
+               '落地簽証', 'VoA', 'VOA', 'visa on arrival', 'on arrival visa',
+               'e-visa', 'evisa', 'immigration', 'passport', 'entry requirement'],
     articles: [
       { title: '峇里島簽證申請攻略', url: '/blog/2025-08-14-689dcce7fd8978000125fc52/' },
     ],
   },
   {
-    keywords: ['ATV', 'atv'],
+    keywords: ['ATV', 'atv', 'quad bike', 'quad biking', 'off-road', '越野車', '越野'],
     articles: [
       { title: '峇里島 ATV 越野車體驗推薦', url: '/blog/2024-01-30-65b6ef65fd89780001f5d032/' },
     ],
   },
   {
-    keywords: ['泛舟'],
+    keywords: ['泛舟', 'rafting', 'Rafting', 'white water rafting', 'river rafting', '激流泛舟'],
     articles: [
       { title: '峇里島泛舟體驗推薦', url: '/blog/2025-03-28-67e62aa8fd89780001888620/' },
     ],
   },
   {
-    keywords: ['獨棟', 'villa', 'Villa', 'VILLA', '包棟', '別墅', '三房', '四房', '五房', '六房', '家庭villa', '包villa'],
+    keywords: ['獨棟', 'villa', 'Villa', 'VILLA', '包棟', '別墅', '三房', '四房', '五房', '六房',
+               '家庭villa', '包villa', '租villa', '住villa',
+               'private villa', 'Private Villa', 'romantic villa', 'Romantic Villa',
+               'family villa', 'Family Villa', 'big villa', 'large villa', 'luxury villa',
+               'pool villa', 'villa rental', 'villa bali', 'Bali villa', 'group villa',
+               'villa with pool', 'private pool villa'],
     articles: [
       { title: '峇里島團體自由行旅遊：包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦', url: '/blog/2024-04-30-662e156bfd8978000130c73c/' },
     ],
   },
   {
-    keywords: ['水上活動', '浮潛', '潛水', '香蕉船', '拖曳傘'],
+    keywords: ['水上活動', '浮潛', '潛水', '香蕉船', '拖曳傘', '水上玩意',
+               'water sports', 'water activities', 'snorkeling', 'snorkelling',
+               'diving', 'scuba', 'banana boat', 'parasailing', 'jet ski', 'surfing'],
     articles: [
       { title: '峇里島水上活動推薦：浮潛、潛水、香蕉船', url: '/blog/2026-01-20-694122b8fd89780001f514c9/' },
     ],
   },
   {
-    keywords: ['佩尼達', '佩妮達', '珀尼達', 'penida', 'Penida', 'PENIDA', 'nusa penida', 'Nusa Penida', 'manta', '曼塔'],
+    keywords: ['佩尼達', '佩妮達', '珀尼達', 'penida', 'Penida', 'PENIDA',
+               'nusa penida', 'Nusa Penida', 'manta', '曼塔', 'manta ray', 'Manta Ray'],
     articles: [
       { title: '【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點', url: '/blog/2023-08-16-64db6b82fd897800013a9942/' },
       { title: '【Nusa Penida攻略五】佩尼達島的住宿推薦: 14間從奢華到平價的 Nusa Penida 好評住宿', url: '/blog/2024-02-12-65c8e2dffd89780001346aa9/' },
     ],
   },
   {
-    keywords: ['ijen', 'Ijen', 'IJEN', '伊真', '伊真火山', '藍火'],
+    keywords: ['ijen', 'Ijen', 'IJEN', '伊真', '伊真火山', '藍火', 'blue fire', 'Blue Fire', 'blue flame'],
     articles: [
       { title: '🌋【伊真火山+峇里島】夢幻藍火+賽武瀑布+布羅莫日出｜輕奢五日遊全包', url: '/blog/2025-04-01-67eb9e4afd89780001eb48fb/' },
     ],
   },
   {
-    keywords: ['canggu', 'Canggu', 'CANGGU', '長谷', '倉古'],
+    keywords: ['canggu', 'Canggu', 'CANGGU', '長谷', '倉古', 'Berawa', 'berawa', 'Batu Bolong', 'batu bolong'],
     articles: [
       { title: '峇里島Canggu完美探險地圖：100個長谷/倉古必遊景點｜2025指南', url: '/blog/2023-02-11-64db6b7efd897800013a9815/' },
       { title: '長谷區16間私人泳池別墅推薦 Canggu Villa 你不能錯過的峇里島別墅', url: '/blog/2024-08-07-66b20b15fd89780001ceef6b/' },
@@ -86,7 +108,7 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['seminyak', 'Seminyak', 'SEMINYAK', '水明漾'],
+    keywords: ['seminyak', 'Seminyak', 'SEMINYAK', '水明漾', 'Legian', 'legian', '雷吉安'],
     articles: [
       { title: '【水明漾攻略】峇里島水明漾景點Seminyak必去地點地圖：100個吃喝玩樂全面介紹｜2026最佳旅遊指南', url: '/blog/2023-08-15-64db7fc2fd897800013d367c/' },
       { title: '【峇里島住宿推薦】巴里島VILLA泳池別墅私密天堂:水明漾22間令人驚艷的峇里島villa', url: '/blog/2025-08-11-660e6e92fd89780001e6047e/' },
@@ -94,7 +116,7 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['ubud', 'Ubud', 'UBUD', '烏布'],
+    keywords: ['ubud', 'Ubud', 'UBUD', '烏布', 'Tegallalang', 'tegallalang', 'rice terrace', 'monkey forest'],
     articles: [
       { title: '2026峇里島完整烏布攻略：100種深入認識烏布的方式｜探索烏布的魅力', url: '/blog/2023-11-17-655054b1fd897800011d4d2c/' },
       { title: '【烏布住宿推薦】烏布泳池別墅私密天堂: 20間令人驚艷的峇里島villa推薦', url: '/blog/2024-04-24-6628f08cfd8978000190a575/' },
@@ -102,7 +124,8 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['uluwatu', 'Uluwatu', 'ULUWATU', '烏魯瓦圖', '情人崖'],
+    keywords: ['uluwatu', 'Uluwatu', 'ULUWATU', '烏魯瓦圖', '情人崖',
+               'cliff temple', 'sunset temple', 'kecak', 'Kecak', '火舞', 'bali temple'],
     articles: [
       { title: '【烏魯瓦圖攻略】Uluwatu烏魯瓦圖景點 50個吃喝玩樂推薦', url: '/blog/2024-03-07-65dfd410fd897800019f4b40/' },
       { title: '烏魯瓦圖 Uluwatu住宿推薦：14間無敵海景的私密別墅渡假村', url: '/blog/2023-11-04-6544f321fd89780001bb240c/' },
@@ -110,7 +133,8 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['nusa dua', 'Nusa Dua', 'NUSA DUA', 'benoa', 'Benoa', 'BENOA', '努沙杜瓦', '南灣', '丹絨貝諾'],
+    keywords: ['nusa dua', 'Nusa Dua', 'NUSA DUA', 'benoa', 'Benoa', 'BENOA',
+               '努沙杜瓦', '南灣', '丹絨貝諾', 'tanjung benoa', 'Tanjung Benoa'],
     articles: [
       { title: '努沙杜瓦、南灣：峇里島豪華度假的首選之地40個住宿、美食、活動攻略地圖 Nusa Dua/Tanjung Benoa', url: '/blog/2024-01-25-65afb7bbfd897800017023b4/' },
     ],
@@ -124,13 +148,17 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['kids club', 'Kids Club', 'KIDS CLUB', 'kidsclub'],
+    keywords: ['kids club', 'Kids Club', 'KIDS CLUB', 'kidsclub', 'kids pool', 'waterpark', 'water park'],
     articles: [
       { title: '峇里島18家 kids club 親子度假村｜庫塔、水明漾、長谷、金巴蘭、烏魯瓦圖、烏布適合家庭度假的最佳選擇', url: '/blog/2024-05-14-66405077fd89780001f23b72/' },
     ],
   },
   {
-    keywords: ['親子', '家庭', '小朋友', '小孩', '帶孩子', '帶小孩', '兒童'],
+    keywords: ['親子', '家庭', '小朋友', '小孩', '帶孩子', '帶小孩', '兒童',
+               '一家大細', '帶細路', '帶BB', '帶囡囡', '帶仔女',
+               'family travel', 'family friendly', 'family trip', 'family vacation',
+               'family holiday', 'kids', 'children', 'with kids', 'travelling with kids',
+               'baby', 'toddler', 'infant', 'child friendly'],
     articles: [
       { title: '【峇里島親子遊】峇里島家庭親子友善景點大全｜巴里島超過100樣適合親子同樂活動', url: '/blog/2023-03-05-64db6b81fd897800013a98b4/' },
       { title: '峇里島親子樂園：十五家擁有滑水道溜滑梯的親子渡假村 TOP 15', url: '/blog/2024-01-16-65a51edbfd89780001ffc7b2/' },
@@ -138,7 +166,11 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['暑假', '寒假', '七月', '八月', '過年', '旺季', '連假', '開齋節', '聖誕節'],
+    keywords: ['暑假', '寒假', '七月', '八月', '過年', '旺季', '連假', '開齋節', '聖誕節',
+               '假期', '長假', '出行',
+               'peak season', 'high season', 'holiday season', 'summer holiday',
+               'summer vacation', 'Chinese New Year', 'Christmas', 'school holiday',
+               'busy season', 'when to go', 'best time'],
     articles: [
       { title: '峇里島居然有五個旅遊旺季！如何避開旺季聰明旅遊？', url: '/blog/2024-06-04-665ef28dfd89780001adfa98/' },
       { title: '峇里島旺季旅遊攻略：如何避開交通擁堵，輕鬆享受假期', url: '/blog/2024-12-10-67581b8ffd89780001f5b5dc/' },
@@ -146,7 +178,9 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['雨季', '下雨', '雨天', '濕季', '旱季', '天氣'],
+    keywords: ['雨季', '下雨', '雨天', '濕季', '旱季', '天氣', '落雨', '幾時去好',
+               'rainy season', 'dry season', 'weather', 'rain', 'monsoon',
+               'best time to visit', 'when to visit', 'wet season'],
     articles: [
       { title: '峇里島的天氣怎麼看？會不會下雨？旅人常見誤解一次破解！', url: '/blog/2025-04-09-67f65841fd897800017d3ea2/' },
       { title: '峇里島雨季：旅遊峇里島碰到下雨天怎麼辦？峇里島下雨天的60個備案攻略', url: '/blog/2024-01-06-6598c6fffd89780001047d76/' },
@@ -154,7 +188,7 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['庫塔', 'kuta', 'Kuta', 'KUTA'],
+    keywords: ['庫塔', 'kuta', 'Kuta', 'KUTA', 'Kuta Beach', 'kuta beach', 'Legian', 'legian', '雷吉安'],
     articles: [
       { title: '峇里島旅遊庫塔攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集', url: '/blog/2026-03-08-657598bdfd8978000120fe20/' },
       { title: '峇里島攻略之認識峇里島區域：峇里島住宿推薦指南 - 認識庫塔 水明漾 倉古 烏布', url: '/blog/2026-02-24-65839fbafd89780001e876b5/' },
@@ -162,7 +196,8 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['金巴蘭', 'jimbaran', 'Jimbaran', 'JIMBARAN', '武吉', 'bukit', 'Bukit', 'BUKIT'],
+    keywords: ['金巴蘭', 'jimbaran', 'Jimbaran', 'JIMBARAN', '武吉', 'bukit', 'Bukit', 'BUKIT',
+               'Jimbaran beach', 'jimbaran beach', 'Bukit peninsula', 'southern Bali'],
     articles: [
       { title: '峇里島自由行金巴蘭攻略：推薦30個玩樂景點全攻略｜2026旅遊指南', url: '/blog/2023-11-09-654b8438fd897800016bf4cc/' },
       { title: '【武吉半島冒險指南】從金巴蘭日落到烏魯瓦圖懸崖寺廟：峇里島南端的隱藏天堂', url: '/blog/2024-10-31-67061b07fd897800012f87b5/' },
@@ -170,13 +205,15 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['海鮮', 'seafood', 'Seafood', 'SEAFOOD'],
+    keywords: ['海鮮', 'seafood', 'Seafood', 'SEAFOOD', '海鮮餐廳', '食海鮮',
+               'fish', 'prawn', 'lobster', 'seafood dinner', 'seafood restaurant'],
     articles: [
       { title: '峇里島金巴蘭海鮮推薦：10家海鮮餐廳不踩雷推薦', url: '/blog/2023-09-17-6506748dfd897800018d6be2/' },
     ],
   },
   {
-    keywords: ['ayana', 'Ayana', 'AYANA', '阿雅那', '阿雅娜', 'rockbar', 'rock bar', 'Rock Bar', 'ROCKBAR'],
+    keywords: ['ayana', 'Ayana', 'AYANA', '阿雅那', '阿雅娜', 'rockbar', 'rock bar', 'Rock Bar', 'ROCKBAR',
+               'sunset bar', 'cliff bar', 'infinity pool bar', 'RIMBA', 'rimba', 'Rimba'],
     articles: [
       { title: '【峇里島阿雅那】Ayana Bali 住宿懶人包》Ayana Segara, RIMBA, Ayana Resort..', url: '/blog/2023-10-26-653914f6fd89780001fef733/' },
       { title: '【峇里島】阿雅娜度假村體驗之旅：Ayana Villa 奢華別墅與金巴蘭的五星級享受', url: '/blog/2024-11-10-66fcb508fd897800012664ef/' },
@@ -184,7 +221,10 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['行程', '安排', '幾天', '幾日', '規劃', '怎麼玩', '怎麼安排', '幾天幾夜'],
+    keywords: ['行程', '安排', '幾天', '幾日', '規劃', '怎麼玩', '怎麼安排', '幾天幾夜',
+               '點安排', '幾日幾夜', '點玩好', '行程建議',
+               'itinerary', 'travel plan', 'day trip', 'how many days', 'how long',
+               'schedule', 'trip planning', 'bali itinerary', 'days in bali'],
     intro: '在給你行程建議之前，請先參考',
     articles: [
       { title: '「如何規劃峇里島自由行？」峇里島旅行規劃攻略：7 個步驟輕鬆搞定巴里島完美旅程！', url: '/blog/2023-12-06-65708c78fd89780001f418c2/' },
