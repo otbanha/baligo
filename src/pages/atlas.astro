@@ -195,30 +195,55 @@ export const prerender = true;
   </div><!-- /content -->
 </div><!-- /shell -->
 
-<script>
-  // ── Tab URL config ───────────────────────────────────────────────────────
-  const TAB_URLS: Record<string, string> = {
+<script is:inline>
+  var TAB_URLS = {
     cms:      '/admin/#/collections/blog',
     index:    '/index-all/',
     upload:   '/admin/upload/',
     shorturl: '/go/',
   };
 
-  // ── Auth ─────────────────────────────────────────────────────────────────
-  const authWall   = document.getElementById('auth-wall')!;
-  const shell      = document.getElementById('shell')!;
-  const tokenInput = document.getElementById('token-input') as HTMLInputElement;
-  const tokenSubmit = document.getElementById('token-submit')!;
-  const authErr    = document.getElementById('auth-err')!;
+  var loaded = {};
 
-  const saved = sessionStorage.getItem('sl-token');
-  if (saved) unlock();
+  function activateTab(tabId) {
+    document.querySelectorAll('.tab').forEach(function(btn) {
+      btn.classList.toggle('active', btn.getAttribute('data-tab') === tabId);
+    });
+    document.querySelectorAll('.panel').forEach(function(panel) {
+      panel.classList.toggle('active', panel.id === 'panel-' + tabId);
+    });
+    var iframe = document.getElementById('iframe-' + tabId);
+    if (iframe && !loaded[tabId] && TAB_URLS[tabId]) {
+      iframe.src = TAB_URLS[tabId];
+      loaded[tabId] = true;
+    }
+  }
 
-  tokenInput.addEventListener('keydown', (e) => { if (e.key === 'Enter') tokenSubmit.click(); });
-  tokenSubmit.addEventListener('click', async () => {
-    const t = tokenInput.value.trim();
+  function unlock() {
+    document.getElementById('auth-wall').style.display = 'none';
+    document.getElementById('shell').style.display = 'flex';
+    activateTab('cms');
+  }
+
+  document.querySelectorAll('.tab').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var tabId = btn.getAttribute('data-tab');
+      if (tabId) activateTab(tabId);
+    });
+  });
+
+  var tokenInput  = document.getElementById('token-input');
+  var tokenSubmit = document.getElementById('token-submit');
+  var authErr     = document.getElementById('auth-err');
+
+  tokenInput.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') tokenSubmit.click();
+  });
+
+  tokenSubmit.addEventListener('click', async function() {
+    var t = tokenInput.value.trim();
     if (!t) return;
-    const res = await fetch('/api/shortlinks?id=__verify__', {
+    var res = await fetch('/api/shortlinks?id=__verify__', {
       method: 'DELETE',
       headers: { 'X-Admin-Token': t },
     });
@@ -228,38 +253,8 @@ export const prerender = true;
     unlock();
   });
 
-  function unlock() {
-    authWall.style.display = 'none';
-    shell.style.display = 'flex';
-    activateTab('cms');
-  }
-
-  // ── Tabs ─────────────────────────────────────────────────────────────────
-  const loaded = new Set<string>();
-
-  function activateTab(tabId: string) {
-    // Update tab buttons
-    document.querySelectorAll<HTMLElement>('.tab').forEach(btn => {
-      btn.classList.toggle('active', btn.dataset.tab === tabId);
-    });
-    // Show/hide panels
-    document.querySelectorAll<HTMLElement>('.panel').forEach(panel => {
-      panel.classList.toggle('active', panel.id === `panel-${tabId}`);
-    });
-    // Lazy-load iframes
-    const iframeId = `iframe-${tabId}`;
-    const iframe = document.getElementById(iframeId) as HTMLIFrameElement | null;
-    if (iframe && !loaded.has(tabId)) {
-      iframe.src = TAB_URLS[tabId];
-      loaded.add(tabId);
-    }
-  }
-
-  document.querySelectorAll<HTMLElement>('.tab').forEach(btn => {
-    btn.addEventListener('click', () => {
-      if (btn.dataset.tab) activateTab(btn.dataset.tab);
-    });
-  });
+  var saved = sessionStorage.getItem('sl-token');
+  if (saved) unlock();
 </script>
 </body>
 </html>
