@@ -339,6 +339,25 @@ function estimateCost(files) {
   return { totalChars, inputTokens: Math.round(inputTokens), costPerLang };
 }
 
+// ── 並發控制 ─────────────────────────────────────────────────────────────────
+
+const CONCURRENCY = parseInt(process.env.TRANSLATE_CONCURRENCY ?? '10', 10);
+
+async function runPool(tasks, concurrency) {
+  const results = [];
+  let idx = 0;
+
+  async function worker() {
+    while (idx < tasks.length) {
+      const i = idx++;
+      results[i] = await tasks[i]();
+    }
+  }
+
+  await Promise.all(Array.from({ length: Math.min(concurrency, tasks.length) }, worker));
+  return results;
+}
+
 // ── 入口 ─────────────────────────────────────────────────────────────────────
 
 async function main() {
@@ -350,41 +369,55 @@ async function main() {
     process.exit(1);
   }
 
+  // 確保目標資料夾存在
+  for (const lang of targetLangs) {
+    const targetDir = `src/content/${lang}`;
+    if (!existsSync(targetDir)) mkdirSync(targetDir, { recursive: true });
+  }
+
   const { totalChars, inputTokens, costPerLang } = estimateCost(files);
 
   console.log('\n📚 gobaligo 翻譯腳本');
   console.log('─'.repeat(50));
   console.log(`來源檔案：${files.length} 篇`);
   console.log(`目標語言：${targetLangs.join(', ')}`);
+  console.log(`並發數：${CONCURRENCY}`);
   console.log(`估計字元：~${totalChars.toLocaleString()} 字元 / ~${inputTokens.toLocaleString()} tokens`);
   console.log(`估計費用：~$${(costPerLang * targetLangs.length).toFixed(3)} USD（全部未快取）`);
   if (isDryRun) console.log('\n🔍 DRY RUN — 不會呼叫 API\n');
   console.log('─'.repeat(50));
 
+  // 展開所有 (file × lang) 任務
+  const tasks = [];
   for (const lang of targetLangs) {
-    const targetDir = `src/content/${lang}`;
-    if (!existsSync(targetDir)) mkdirSync(targetDir, { recursive: true });
-
-    console.log(`\n▶ ${lang.toUpperCase()}`);
-    let translated = 0, cached = 0, errors = 0;
-
     for (const file of files) {
-      process.stdout.write(`  ${file.slice(0, 45).padEnd(46)}`);
-      try {
-        const result = await translateFile(file, lang);
-        if (result === 'cached') { process.stdout.write('✓ (快取)\n'); cached++; }
-        else if (result === 'empty') { process.stdout.write('— (空)\n'); }
-        else { process.stdout.write('✓ 翻譯完成\n'); translated++; }
-      } catch (e) {
-        process.stdout.write(`✗ ${e.message.slice(0, 60)}\n`);
-        errors++;
-      }
+      tasks.push({ file, lang });
     }
-
-    console.log(`  → 翻譯：${translated}，快取：${cached}，錯誤：${errors}`);
   }
 
-  console.log('\n✅ 完成\n');
+  let translated = 0, cached = 0, errors = 0;
+  const total = tasks.length;
+  let done = 0;
+
+  await runPool(tasks.map(({ file, lang }) => async () => {
+    try {
+      const result = await translateFile(file, lang);
+      done++;
+      if (result === 'cached') {
+        cached++;
+      } else if (result === 'translated') {
+        translated++;
+        console.log(`  [${done}/${total}] ✓ ${lang} / ${file.slice(0, 40)}`);
+      }
+    } catch (e) {
+      done++;
+      errors++;
+      console.log(`  [${done}/${total}] ✗ ${lang} / ${file.slice(0, 30)} — ${e.message.slice(0, 50)}`);
+    }
+  }), CONCURRENCY);
+
+  console.log('\n─'.repeat(50));
+  console.log(`✅ 完成｜翻譯：${translated}，快取跳過：${cached}，錯誤：${errors}\n`);
 }
 
 main().catch(e => { console.error('Fatal:', e.message); process.exit(1); });
