@@ -1,15 +1,31 @@
 ---
 export const prerender = true;
-import { getCollection } from 'astro:content';
 import BaseHead from '../../../components/BaseHead.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import ChatBot from '../../../components/ChatBot.astro';
+import { getCollection, render } from 'astro:content';
+import featuredData from '../../../featured.json';
+import top5Data from '../../../top5.json';
+
+const blogBase = '/zh-cn/blog';
 
 function extractFirstImage(body: string): string {
   const m = body?.match(/!\[.*?\]\((https?:\/\/[^)\s]+)\)/);
   return m ? m[1] : '';
 }
+
+const allPosts = (await getCollection('blog'))
+  .filter(p => p.data.pubDate)
+  .map(p => ({
+    ...p,
+    data: {
+      ...p.data,
+      pubDate: new Date(p.data.pubDate),
+      heroImage: p.data.heroImage || extractFirstImage(p.body),
+    }
+  }))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const getCategories = (cat: any): string[] => {
   if (!cat) return [];
@@ -18,40 +34,21 @@ const getCategories = (cat: any): string[] => {
   return [];
 };
 
-const allPosts = (await getCollection('zh-cn'))
-  .filter(p => p.data.pubDate)
-  .map(p => ({
-    ...p,
-    heroImage: p.data.heroImage || extractFirstImage(p.body ?? ''),
-  }))
-  .sort((a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf());
-
-// 繁體 → 簡體分類名稱對應
 const CAT_ZH_CN: Record<string, string> = {
   '新手指南': '新手指南',
-  '住宿推薦': '住宿推荐',
-  '住宿推荐': '住宿推荐',
-  '峇里島分區攻略': '峇里岛分区攻略',
-  '峇里岛分区攻略': '峇里岛分区攻略',
-  '簽證通關': '签证通关',
-  '签证通关': '签证通关',
-  '叫車包車': '叫车包车',
-  '叫车包车': '叫车包车',
-  '家庭親子': '家庭亲子',
-  '家庭亲子': '家庭亲子',
-  '遊記分享': '游记分享',
-  '游记分享': '游记分享',
-  '美食景點活動': '美食景点活动',
-  '美食景点活动': '美食景点活动',
-  '新聞存檔': '新闻存档',
-  '新闻存档': '新闻存档',
+  '住宿推薦': '住宿推荐', '住宿推荐': '住宿推荐',
+  '峇里島分區攻略': '峇里岛分区攻略', '峇里岛分区攻略': '峇里岛分区攻略',
+  '簽證通關': '签证通关', '签证通关': '签证通关',
+  '叫車包車': '叫车包车', '叫车包车': '叫车包车',
+  '家庭親子': '家庭亲子', '家庭亲子': '家庭亲子',
+  '遊記分享': '游记分享', '游记分享': '游记分享',
+  '美食景點活動': '美食景点活动', '美食景点活动': '美食景点活动',
+  '新聞存檔': '新闻存档', '新闻存档': '新闻存档',
 };
 
 const categoryOrder = [
   '新手指南','住宿推薦','峇里島分區攻略','簽證通關',
   '叫車包車','家庭親子','遊記分享','美食景點活動','新聞存檔',
-  '住宿推荐','峇里岛分区攻略','签证通关',
-  '叫车包车','家庭亲子','游记分享','美食景点活动','新闻存档',
 ];
 
 const allCategories = [...new Set(allPosts.flatMap(p => getCategories(p.data.category)).filter(Boolean))];
@@ -64,13 +61,47 @@ const categoryCounts = categories.reduce((acc, cat) => {
   return acc;
 }, {} as Record<string, number>);
 
-const allPostsData = allPosts.map(p => ({
-  id: p.id,
-  title: p.data.title,
-  description: p.data.description || '',
-  heroImage: p.heroImage,
-  category: getCategories(p.data.category),
-}));
+const allPostsData = allPosts
+  .filter(p => !getCategories(p.data.category).includes('新聞存檔'))
+  .map(p => ({
+    id: p.id,
+    title: p.data.title,
+    heroImage: p.data.heroImage || '',
+    category: getCategories(p.data.category),
+  }));
+
+const accommodations = allPosts
+  .filter(p => getCategories(p.data.category).includes('住宿推薦'))
+  .slice(0, 5)
+  .map(p => ({ id: p.id, title: p.data.title, heroImage: p.data.heroImage || '' }));
+
+const allBlogRaw = await getCollection('blog');
+const baliNewsRaw = allBlogRaw
+  .filter(p => getCategories(p.data.category).includes('新聞存檔'))
+  .sort((a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf())
+  .at(0);
+
+const { Content: BaliNewsContent } = baliNewsRaw
+  ? await render(baliNewsRaw)
+  : { Content: null };
+
+const top5Posts = top5Data.articles
+  .map(id => allPosts.find(p => p.id === id))
+  .filter(Boolean)
+  .map(p => ({ id: p!.id, title: p!.data.title }));
+
+const youtubeVideos = [
+  '0fqEvAzAy9A','GivvqCXp11A','H5N5_UuK7TI','EotdDxXHFwE','7JIqxDIyDF0','ePutHL_Ob1Q'
+];
+
+const socialLinks = [
+  { label: 'FB 粉丝团', url: 'https://www.facebook.com/bali.guide.blog', type: 'facebook' },
+  { label: '峇里岛/印尼旅游', url: 'https://www.facebook.com/groups/indonesia.travelguide', type: 'facebook' },
+  { label: '峇里岛旅游', url: 'https://www.facebook.com/groups/baligo', type: 'facebook' },
+  { label: 'Instagram', url: 'https://www.instagram.com/go.bali.go/', type: 'instagram' },
+  { label: 'YouTube', url: 'https://www.youtube.com/@j_indonesia', type: 'youtube' },
+  { label: 'Threads', url: 'https://www.threads.com/@go.bali.go', type: 'threads' },
+];
 ---
 
 <!doctype html>
@@ -106,12 +137,6 @@ const allPostsData = allPosts.map(p => ({
       </button>
       <div class="sidebar-inner" id="sidebar-inner">
         <div class="sidebar-section">
-          <div class="listing-banner">
-            🌐 目前为简体中文翻译版本。
-            <a href="/blog/" onclick="document.cookie='gobaligo_lang=zh-tw; path=/; max-age=31536000; SameSite=Lax'">查看繁体中文版 →</a>
-          </div>
-        </div>
-        <div class="sidebar-section">
           <h3 class="sidebar-title">📂 文章分类</h3>
           <ul class="category-list">
             <li>
@@ -134,12 +159,102 @@ const allPostsData = allPosts.map(p => ({
     </aside>
 
     <main>
+      <div id="homepage-blocks">
+
+        <div class="top-widgets" id="top-widgets">
+          <div class="widget-box">
+            <h2 class="widget-title">🏨 Accommodations</h2>
+            {accommodations.length > 0 ? (
+              <a href="#" id="accom-link" class="accom-card">
+                <div class="accom-image">
+                  <img id="accom-img" src={accommodations[0].heroImage} alt="" loading="lazy" />
+                </div>
+                <div class="accom-body">
+                  <p id="accom-title">{accommodations[0].title}</p>
+                </div>
+              </a>
+            ) : (
+              <div class="widget-empty">即将推出</div>
+            )}
+          </div>
+
+          <div class="widget-box">
+            <h2 class="widget-title">📰 Bali News</h2>
+            {baliNewsRaw ? (
+              <div class="news-scroll">
+                <a href={`${blogBase}/${baliNewsRaw.id}/`} class="news-post-date">
+                  {new Date(baliNewsRaw.data.pubDate).toISOString().split('T')[0]}
+                </a>
+                <div class="news-body">
+                  <BaliNewsContent />
+                </div>
+              </div>
+            ) : (
+              <div class="widget-empty">即将推出</div>
+            )}
+          </div>
+        </div>
+
+        {top5Posts.length > 0 && (
+          <div class="top5-section" id="top5-section">
+            <h2 class="section-title">🔥 本周热门文章</h2>
+            <ul class="top5-list" id="top5-list">
+              {top5Posts.map((post, i) => (
+                <li class="top5-item" data-index={i}>
+                  <a href={`${blogBase}/${post.id}/`}>
+                    <span class="top5-num">{i + 1}</span>
+                    <span class="top5-title">{post.title}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        <div class="youtube-section">
+          <div class="youtube-player">
+            <iframe id="yt-iframe" width="100%" height="100%" src=""
+              title="峇里岛旅游影片" frameborder="0"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen></iframe>
+          </div>
+        </div>
+
+        <div class="social-section">
+          {socialLinks.map(s => (
+            <a href={s.url} target="_blank" rel="noopener" class={`social-btn ${s.type}`}>
+              {s.type === 'facebook' && <svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>}
+              {s.type === 'instagram' && <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>}
+              {s.type === 'youtube' && <svg viewBox="0 0 24 24" fill="currentColor"><path d="M23.495 6.205a3.007 3.007 0 00-2.088-2.088c-1.87-.501-9.396-.501-9.396-.501s-7.507-.01-9.396.501A3.007 3.007 0 00.527 6.205a31.247 31.247 0 00-.522 5.805 31.247 31.247 0 00.522 5.783 3.007 3.007 0 002.088 2.088c1.868.502 9.396.502 9.396.502s7.506 0 9.396-.502a3.007 3.007 0 002.088-2.088 31.247 31.247 0 00.5-5.783 31.247 31.247 0 00-.5-5.805zM9.609 15.601V8.408l6.264 3.602z"/></svg>}
+              {s.type === 'threads' && <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1V9.01a6.27 6.27 0 00-.79-.05 6.34 6.34 0 00-6.34 6.34 6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.33-6.34V8.69a8.27 8.27 0 004.84 1.56V6.79a4.85 4.85 0 01-1.07-.1z"/></svg>}
+              <span>{s.label}</span>
+            </a>
+          ))}
+        </div>
+
+      </div>
+
+      <div id="featured-section" style="display:none">
+        <h2 class="section-title">⭐ 编辑精选</h2>
+        <div class="featured-grid">
+          {[0,1,2].map(i => (
+            <a href="#" class="featured-card" data-index={i}>
+              <div class="featured-image"><img src="" alt="" loading="lazy" /></div>
+              <div class="featured-body">
+                <span class="featured-badge">精选</span>
+                <h3></h3>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+
       <div class="grid" id="posts-grid">
         {allPosts.map(post => (
-          <a href={`/zh-cn/blog/${post.id}/`} class="card" data-category={JSON.stringify(getCategories(post.data.category))}>
+          <a href={`${blogBase}/${post.id}/`} class="card" data-category={JSON.stringify(getCategories(post.data.category))}>
             <div class="card-image">
-              {post.heroImage
-                ? <img src={post.heroImage} alt={post.data.title} loading="lazy" />
+              {post.data.heroImage
+                ? <img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
                 : <div class="card-image-placeholder">🌴</div>
               }
               {post.data.category && (
@@ -155,6 +270,7 @@ const allPostsData = allPosts.map(p => ({
           </a>
         ))}
       </div>
+
       <div id="pagination" class="pagination"></div>
     </main>
   </div>
@@ -163,9 +279,8 @@ const allPostsData = allPosts.map(p => ({
   <Footer />
 </body>
 
-<script is:inline define:vars={{ allPostsData }}>
+<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts, blogBase }}>
   window.addEventListener('DOMContentLoaded', () => {
-    // Sidebar toggle (mobile)
     const sidebarToggle = document.getElementById('sidebar-toggle');
     const sidebarInner = document.getElementById('sidebar-inner');
     if (sidebarToggle && sidebarInner) {
@@ -175,6 +290,43 @@ const allPostsData = allPosts.map(p => ({
       });
     }
 
+    let activeVideos = youtubeVideos;
+    fetch('/api/videos').then(r => r.ok ? r.json() : null).then(data => {
+      if (Array.isArray(data) && data.length > 0) activeVideos = data;
+    }).catch(() => {}).finally(() => {
+      const randomVideo = activeVideos[Math.floor(Math.random() * activeVideos.length)];
+      document.getElementById('yt-iframe').src = `https://www.youtube.com/embed/${randomVideo}?rel=0`;
+    });
+
+    if (accommodations.length > 0) {
+      const random = accommodations[Math.floor(Math.random() * accommodations.length)];
+      const link = document.getElementById('accom-link');
+      const img = document.getElementById('accom-img');
+      const title = document.getElementById('accom-title');
+      if (link) link.href = `${blogBase}/${random.id}/`;
+      if (img) { img.src = random.heroImage; img.alt = random.title; }
+      if (title) title.textContent = random.title;
+    }
+
+    fetch('/api/hot-articles').then(r => r.json()).then(data => {
+      if (!Array.isArray(data) || data.length === 0) return;
+      const section = document.getElementById('top5-section');
+      const list = document.getElementById('top5-list');
+      if (!section || !list) return;
+      list.innerHTML = data.map((item, i) =>
+        `<li class="top5-item"><a href="${blogBase}/${item.id}/"><span class="top5-num">${i + 1}</span><span class="top5-title">${item.title}</span></a></li>`
+      ).join('');
+      section.style.display = '';
+    }).catch(() => {});
+
+    let dynamicFeatured = null;
+    fetch('/api/featured').then(r => r.json()).then(data => {
+      if (data && typeof data === 'object' && Object.keys(data).length > 0) {
+        dynamicFeatured = data;
+        if (currentCat && currentCat !== 'all') updateFeatured(currentCat);
+      }
+    }).catch(() => {});
+
     const POSTS_PER_PAGE = 18;
     let currentPage = 1;
     let currentCat = 'all';
@@ -182,11 +334,31 @@ const allPostsData = allPosts.map(p => ({
     const buttons = document.querySelectorAll('.category-item');
     const cards = document.querySelectorAll('.card');
 
+    function updateFeatured(cat) {
+      const section = document.getElementById('featured-section');
+      const source = dynamicFeatured || featuredData;
+      const ids = source[cat] || [];
+      if (cat === 'all' || ids.length === 0) { section.style.display = 'none'; return; }
+      const matchedPosts = ids.map(id => allPostsData.find(p => p.id === id)).filter(Boolean);
+      if (matchedPosts.length === 0) { section.style.display = 'none'; return; }
+      const featuredCardEls = document.querySelectorAll('.featured-card');
+      featuredCardEls.forEach((card, i) => {
+        if (matchedPosts[i]) {
+          card.href = `${blogBase}/${matchedPosts[i].id}/`;
+          card.querySelector('h3').textContent = matchedPosts[i].title;
+          const img = card.querySelector('img');
+          if (img) { img.src = matchedPosts[i].heroImage; img.alt = matchedPosts[i].title; }
+          card.style.display = 'flex';
+        } else { card.style.display = 'none'; }
+      });
+      section.style.display = 'block';
+    }
+
     function buildUrl(cat, page) {
       const params = new URLSearchParams();
       if (cat !== 'all') params.set('cat', cat);
       if (page > 1) params.set('page', String(page));
-      return '/zh-cn/blog' + (params.toString() ? '?' + params.toString() : '');
+      return blogBase + (params.toString() ? '?' + params.toString() : '');
     }
 
     function renderCards() {
@@ -203,24 +375,21 @@ const allPostsData = allPosts.map(p => ({
       const pagination = document.getElementById('pagination');
       pagination.innerHTML = '';
       if (totalPages <= 1) return;
-
       const prev = document.createElement('button');
       prev.textContent = '← 上一页';
       prev.className = 'page-btn';
       prev.disabled = currentPage === 1;
-      prev.onclick = () => { currentPage--; window.history.pushState({}, '', buildUrl(currentCat, currentPage)); renderCards(); window.scrollTo(0, 0); };
+      prev.onclick = () => { currentPage--; window.history.pushState({ cat: currentCat, page: currentPage }, '', buildUrl(currentCat, currentPage)); renderCards(); window.scrollTo(0, 0); };
       pagination.appendChild(prev);
-
       const info = document.createElement('span');
       info.className = 'page-info';
       info.textContent = `第 ${currentPage} / ${totalPages} 页`;
       pagination.appendChild(info);
-
       const next = document.createElement('button');
       next.textContent = '下一页 →';
       next.className = 'page-btn';
       next.disabled = currentPage === totalPages;
-      next.onclick = () => { currentPage++; window.history.pushState({}, '', buildUrl(currentCat, currentPage)); renderCards(); window.scrollTo(0, 0); };
+      next.onclick = () => { currentPage++; window.history.pushState({ cat: currentCat, page: currentPage }, '', buildUrl(currentCat, currentPage)); renderCards(); window.scrollTo(0, 0); };
       pagination.appendChild(next);
     }
 
@@ -230,102 +399,117 @@ const allPostsData = allPosts.map(p => ({
       buttons.forEach(b => b.classList.remove('active'));
       const activeBtn = document.querySelector(`[data-category="${cat}"]`);
       if (activeBtn) activeBtn.classList.add('active');
-
+      const homepageBlocks = document.getElementById('homepage-blocks');
+      if (homepageBlocks) homepageBlocks.style.display = cat === 'all' ? 'block' : 'none';
       filteredCards = [...cards].filter(card => {
         try {
           const cats = JSON.parse(card.dataset.category || '[]');
+          const catList = Array.isArray(cats) ? cats : [cats];
+          if (catList.includes('新聞存檔')) return false;
           if (cat === 'all') return true;
-          return cats.includes(cat);
+          return catList.includes(cat);
         } catch {
+          if (card.dataset.category === '新聞存檔') return false;
           return cat === 'all' || card.dataset.category === cat;
         }
       });
       cards.forEach(card => card.style.display = 'none');
+      updateFeatured(cat);
       renderCards();
     }
 
-    buttons.forEach(btn => {
-      btn.addEventListener('click', () => {
-        const cat = btn.dataset.category;
-        window.history.pushState({ cat, page: 1 }, '', buildUrl(cat, 1));
-        applyState(cat, 1);
-      });
-    });
+    function filterCategory(cat) {
+      window.history.pushState({ cat, page: 1 }, '', buildUrl(cat, 1));
+      applyState(cat, 1);
+      const newVideo = activeVideos[Math.floor(Math.random() * activeVideos.length)];
+      const iframe = document.getElementById('yt-iframe');
+      if (iframe) iframe.src = `https://www.youtube.com/embed/${newVideo}?rel=0`;
+    }
 
-    window.addEventListener('popstate', (e) => {
-      applyState(e.state?.cat || 'all', e.state?.page || 1);
-    });
+    buttons.forEach(btn => btn.addEventListener('click', () => filterCategory(btn.dataset.category)));
+    window.addEventListener('popstate', (e) => { applyState(e.state?.cat || 'all', e.state?.page || 1); });
 
     const urlParams = new URLSearchParams(window.location.search);
     const catParam = urlParams.get('cat') || 'all';
     const pageParam = Math.max(1, parseInt(urlParams.get('page') || '1', 10));
     window.history.replaceState({ cat: catParam, page: pageParam }, '', window.location.href);
-    applyState(catParam, pageParam);
+    if (catParam !== 'all') {
+      setTimeout(() => applyState(catParam, pageParam), 100);
+    } else {
+      applyState('all', pageParam);
+    }
   });
 </script>
 
 <style>
-.layout {
-  display: grid;
-  grid-template-columns: 260px 1fr;
-  max-width: 1400px;
-  margin: 0 auto;
-  min-height: calc(100vh - 64px);
-  align-items: start;
-}
-.sidebar {
-  position: sticky;
-  top: 64px;
-  height: calc(100vh - 64px);
-  overflow-y: auto;
-  background: var(--white);
-  border-right: 1px solid rgba(197,160,89,0.2);
-  padding: 1.5em 1em;
-}
+:global(.promo-card) { display: block; font-size: 13px; text-decoration: none; border-radius: 10px; overflow: hidden; border: 1px solid rgba(201,168,76,0.3); transition: transform 0.2s, box-shadow 0.2s; background: var(--white); }
+:global(.promo-card):hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(10,22,40,0.1); }
+:global(.promo-image) { aspect-ratio: 16/9; overflow: hidden; }
+:global(.promo-image) img { width: 100%; height: 100%; object-fit: cover; }
+:global(.promo-body) { padding: 0.7em 0.8em; }
+:global(.promo-title) { font-size: 13px !important; font-weight: 600; color: var(--ocean); margin: 0 0 0.4em !important; line-height: 1.4; }
+:global(.promo-cta) { font-size: 13px; font-weight: 700; color: var(--gold); }
+.layout { display: grid; grid-template-columns: 260px 1fr; max-width: 1400px; margin: 0 auto; min-height: calc(100vh - 64px); align-items: start; }
+.sidebar { position: sticky; top: 64px; height: calc(100vh - 64px); overflow-y: auto; background: var(--white); border-right: 1px solid rgba(197,160,89,0.2); padding: 1.5em 1em; }
 .sidebar::-webkit-scrollbar { width: 4px; }
 .sidebar::-webkit-scrollbar-thumb { background: rgba(197,160,89,0.3); border-radius: 2px; }
 .sidebar-section { margin-bottom: 1.8em; }
-.sidebar-title {
-  font-size: 0.85em; font-weight: 700; color: var(--ocean);
-  letter-spacing: 0.05em; margin: 0 0 0.8em;
-  padding-bottom: 0.5em; border-bottom: 1px solid rgba(197,160,89,0.2);
-}
-.listing-banner {
-  background: rgba(197,160,89,0.1);
-  border: 1px solid rgba(197,160,89,0.25);
-  border-radius: 8px;
-  padding: 0.6em 0.8em;
-  font-size: 0.78em;
-  color: var(--ocean);
-  line-height: 1.5;
-}
-.listing-banner a { color: var(--gold); font-weight: 600; display: block; margin-top: 0.2em; }
+.sidebar-title { font-size: 0.85em; font-weight: 700; color: var(--ocean); letter-spacing: 0.05em; margin: 0 0 0.8em; padding-bottom: 0.5em; border-bottom: 1px solid rgba(197,160,89,0.2); }
 .category-list { list-style: none; margin: 0; padding: 0; }
-.category-item {
-  display: flex; justify-content: space-between; align-items: center;
-  width: 100%; min-height: 44px; padding: 0.45em 0.7em;
-  border-radius: 8px; border: none; background: none; cursor: pointer;
-  color: var(--text); font-size: 0.88em; font-family: inherit;
-  text-align: left; transition: all 0.15s; margin-bottom: 0.2em;
-}
+.category-item { display: flex; justify-content: space-between; align-items: center; width: 100%; min-height: 44px; padding: 0.45em 0.7em; border-radius: 8px; border: none; background: none; cursor: pointer; color: var(--text); font-size: 0.88em; font-family: inherit; text-align: left; transition: all 0.15s; margin-bottom: 0.2em; }
 .category-item:hover { background: rgba(197,160,89,0.1); color: var(--ocean); }
 .category-item.active { background: var(--ocean); color: var(--gold-light); }
 .cat-name { flex: 1; }
-.cat-count {
-  font-size: 0.78em; background: rgba(197,160,89,0.15);
-  color: var(--gold); padding: 0.1em 0.5em; border-radius: 10px; font-weight: 600;
-}
+.cat-count { font-size: 0.78em; background: rgba(197,160,89,0.15); color: var(--gold); padding: 0.1em 0.5em; border-radius: 10px; font-weight: 600; }
 .category-item.active .cat-count { background: rgba(255,255,255,0.15); color: var(--gold-light); }
 .sidebar-toggle { display: none; }
 main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
+.top-widgets { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2em; margin-bottom: 1.5em; align-items: start; }
+.widget-box { background: linear-gradient(135deg, #0a1628 0%, #1a3560 100%); border-radius: 12px; padding: 1.2em; box-shadow: 0 8px 32px rgba(0,0,0,0.25), inset 0 1px 0 rgba(197,160,89,0.3); border: 1px solid rgba(197,160,89,0.25); position: relative; }
+.widget-box::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, transparent, var(--gold), transparent); }
+.widget-title { font-size: 0.95em; font-weight: 700; color: var(--gold-light); margin: 0 0 1em; padding-bottom: 0.5em; border-bottom: 1px solid rgba(197,160,89,0.2); letter-spacing: 0.05em; }
+.widget-empty { color: rgba(255,255,255,0.4); font-size: 0.88em; text-align: center; padding: 2em 0; }
+.accom-card { display: block; text-decoration: none; color: inherit; border-radius: 8px; overflow: hidden; transition: transform 0.2s; }
+.accom-card:hover { transform: translateY(-2px); }
+.accom-image { height: 220px; overflow: hidden; border-radius: 8px; margin-bottom: 0.7em; background: var(--ocean-mid); }
+.accom-image img { width: 100%; height: 100%; object-fit: cover; border-radius: 8px; }
+.accom-body p { font-size: 0.88em; font-weight: 600; color: rgba(255,255,255,0.9); margin: 0; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.news-scroll { overflow-y: auto; max-height: 280px; scrollbar-width: thin; scrollbar-color: rgba(197,160,89,0.4) transparent; }
+.news-scroll::-webkit-scrollbar { width: 4px; }
+.news-scroll::-webkit-scrollbar-thumb { background: rgba(197,160,89,0.4); border-radius: 2px; }
+.news-post-date { display: block; font-size: 0.75em; color: var(--gold); text-decoration: none; margin-bottom: 0.6em; }
+.news-body { font-size: 0.82em; color: rgba(255,255,255,0.88); line-height: 1.7; }
+.news-body :global(*) { color: rgba(255,255,255,0.88) !important; }
+.news-body :global(img) { width: 100%; height: auto; border-radius: 6px; margin-bottom: 0.4em; }
+.news-body :global(a) { color: var(--gold) !important; }
+.top5-section { margin-bottom: 1.5em; background: var(--white); border-radius: 12px; padding: 1.2em 1.5em; box-shadow: 0 2px 12px rgba(10,22,40,0.07); border: 1px solid rgba(197,160,89,0.15); }
+.section-title { font-size: 1em; font-weight: 700; color: var(--ocean); margin: 0 0 1em; padding-bottom: 0.5em; border-bottom: 2px solid var(--gold); }
+.top5-list { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5em; }
+.top5-item a { display: flex; align-items: center; gap: 0.5em; text-decoration: none; color: var(--text); padding: 0.4em 0.8em; border-radius: 20px; border: 1px solid rgba(197,160,89,0.25); font-size: 0.85em; transition: all 0.15s; background: var(--sand); }
+.top5-item a:hover { background: var(--ocean); color: var(--gold-light); border-color: var(--ocean); }
+.top5-num { width: 20px; height: 20px; flex-shrink: 0; background-image: url('/favicon-32x32.png'); background-size: cover; background-repeat: no-repeat; border-radius: 4px; font-size: 0; }
+.top5-title { line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+.youtube-section { margin-bottom: 1.2em; }
+.youtube-player { position: relative; width: 100%; aspect-ratio: 16/9; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(26,54,93,0.15); background: var(--ocean); }
+.youtube-player iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.social-section { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.6em; margin-bottom: 2em; }
+.social-btn { display: flex; align-items: center; justify-content: center; gap: 0.45em; padding: 0.55em 0.8em; border-radius: 10px; text-decoration: none; font-size: 0.82em; font-weight: 600; color: white !important; transition: opacity 0.2s, transform 0.2s; }
+.social-btn:hover { opacity: 0.85; transform: translateY(-2px); }
+.social-btn svg { width: 16px; height: 16px; flex-shrink: 0; }
+.social-btn.facebook { background: #1877F2; }
+.social-btn.instagram { background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); }
+.social-btn.youtube { background: #FF0000; }
+.social-btn.threads { background: #000000; }
+.featured-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1em; margin-bottom: 2.5em; }
+.featured-card { display: flex; flex-direction: column; border-radius: 12px; overflow: hidden; text-decoration: none; color: inherit; border: 2px solid var(--gold); transition: transform 0.2s; }
+.featured-card:hover { transform: translateY(-3px); }
+.featured-image { aspect-ratio: 16/9; overflow: hidden; background: var(--ocean); }
+.featured-image img { width: 100%; height: 100%; object-fit: cover; }
+.featured-body { padding: 0.8em 1em; background: var(--white); }
+.featured-badge { font-size: 0.7em; background: var(--gold); color: var(--ocean); padding: 0.15em 0.6em; border-radius: 10px; font-weight: 700; margin-bottom: 0.4em; display: inline-block; }
+.featured-body h3 { font-size: 0.88em; margin: 0; line-height: 1.4; color: var(--ocean); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 .grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1.5em; }
-.card {
-  background: var(--white); border-radius: 16px; overflow: hidden;
-  text-decoration: none; color: inherit;
-  box-shadow: 0 2px 12px rgba(10,22,40,0.08);
-  transition: transform 0.25s ease, box-shadow 0.25s ease;
-  display: flex; flex-direction: column; min-width: 0;
-}
+.card { background: var(--white); border-radius: 16px; overflow: hidden; text-decoration: none; color: inherit; box-shadow: 0 2px 12px rgba(10,22,40,0.08); transition: transform 0.25s ease, box-shadow 0.25s ease; display: flex; flex-direction: column; min-width: 0; }
 .card:hover { transform: translateY(-5px); box-shadow: 0 8px 32px rgba(10,22,40,0.15); }
 .card-image { position: relative; aspect-ratio: 16/10; overflow: hidden; background: var(--ocean-mid); }
 .card-image img { width: 100%; height: 100%; object-fit: cover; border-radius: 0; transition: transform 0.4s ease; }
@@ -340,20 +524,22 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 .page-btn:hover:not(:disabled) { background: var(--ocean-light); }
 .page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 .page-info { font-size: 0.88em; color: var(--text-light); }
-
-@media (max-width: 1100px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 1100px) { .grid { grid-template-columns: repeat(2, 1fr); } .featured-grid { grid-template-columns: repeat(2, 1fr); } .top-widgets { grid-template-columns: 1fr; } }
 @media (max-width: 900px) {
   .layout { grid-template-columns: 1fr; }
   .sidebar { position: static; height: auto; border-right: none; border-bottom: 1px solid rgba(197,160,89,0.2); padding: 0; }
-  .sidebar-toggle {
-    display: flex; align-items: center; justify-content: space-between;
-    width: 100%; padding: 0.9em 1.2em; border: none; background: var(--white);
-    color: var(--ocean); font-size: 0.95em; font-weight: 700; font-family: inherit; cursor: pointer;
-  }
-  .sidebar-inner { display: none; padding: 1em 1.2em; }
+  .sidebar-toggle { display: flex; align-items: center; justify-content: space-between; width: 100%; padding: 0.8em 1.2em; background: var(--ocean); color: var(--gold-light); font-size: 0.9em; font-weight: 700; font-family: inherit; border: none; cursor: pointer; letter-spacing: 0.03em; }
+  .toggle-arrow { font-size: 0.75em; transition: transform 0.25s; }
+  .sidebar-toggle[aria-expanded="true"] .toggle-arrow { transform: rotate(180deg); }
+  .sidebar-inner { display: none; padding: 0.8em 1em 1em; }
   .sidebar-inner.open { display: block; }
-  main { padding: 1.5em 1em 3em; }
+  .sidebar-title { display: none; }
+  main { padding: 1.2em 1em 3em; }
+  .top-widgets { gap: 0.8em; margin-bottom: 1em; }
+  .accom-image { height: 160px; }
+  .widget-box { padding: 1em; }
+  .widget-title { font-size: 0.88em; margin-bottom: 0.7em; }
 }
-@media (max-width: 600px) { .grid { grid-template-columns: 1fr; } }
+@media (max-width: 600px) { .grid { grid-template-columns: 1fr; } .featured-grid { grid-template-columns: 1fr; } .social-section { grid-template-columns: repeat(2, 1fr); } .accom-image { height: 140px; } .top5-list { flex-direction: column; } .top5-item a { border-radius: 8px; } }
 </style>
 </html>
