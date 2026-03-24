@@ -120,6 +120,18 @@ function buildUrl(langCode: string, slug: string) {
       btn.setAttribute('aria-expanded', String(!isHidden));
     });
 
+    // 點選語言連結時，更新 cookie 記憶使用者選擇
+    menu.addEventListener('click', (e) => {
+      const link = (e.target as Element).closest('a[hreflang]');
+      if (!link) return;
+      const hreflang = link.getAttribute('hreflang') ?? '';
+      // hreflang: zh-TW → zh-tw, zh-cn → zh-cn, zh-hk → zh-hk, en → en
+      const lang = hreflang === 'zh-TW' ? 'zh-tw' : hreflang;
+      if (lang) {
+        document.cookie = `gobaligo_lang=${lang}; path=/; max-age=${60 * 60 * 24 * 365}; SameSite=Lax`;
+      }
+    });
+
     // Close menu on outside click, but NOT if clicking inside menu
     document.addEventListener('click', (e) => {
       if (!menu.contains(e.target as Node)) {

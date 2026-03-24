@@ -1,51 +1,109 @@
 /**
  * Cloudflare Pages Functions Middleware
- * 語言自動偵測：只在使用者訪問根路徑 / 時執行
- * 根據 Accept-Language header 跳轉至對應語言版本
+ * 語言自動偵測：進入任何頁面時，根據 Accept-Language 自動跳轉
+ * - 使用 cookie 記憶使用者選擇，避免每次強制跳轉
+ * - 已在翻譯語系路徑下則不重複跳轉
  */
+
+const LANG_COOKIE = 'gobaligo_lang';
+const COOKIE_MAX_AGE = 60 * 60 * 24 * 365; // 1 年
+
+/**
+ * 從 Accept-Language 判斷語系
+ * 回傳 'zh-tw' | 'zh-cn' | 'zh-hk' | 'en'
+ */
+function detectLang(acceptLang) {
+  const primary = (acceptLang ?? '')
+    .toLowerCase()
+    .split(',')[0]
+    .split(';')[0]
+    .trim();
+
+  if (/^zh-(hk|mo)|^yue/.test(primary)) return 'zh-hk';
+  if (/^zh-(cn|sg|hans)/.test(primary)) return 'zh-cn';
+  if (/^zh/.test(primary)) return 'zh-tw'; // zh-tw, zh-hant, zh 都算繁中
+  if (primary) return 'en';
+  return 'zh-tw';
+}
+
+/**
+ * 根據語系和當前路徑，建立目標 URL
+ */
+function buildRedirectUrl(lang, pathname) {
+  // 根路徑
+  if (pathname === '/') {
+    if (lang === 'zh-tw') return '/blog/';
+    return `/${lang}/blog/`;
+  }
+
+  // /blog/xxx/ 文章頁 → 跳轉至對應翻譯語系
+  const articleMatch = pathname.match(/^\/blog\/(.+)$/);
+  if (articleMatch) {
+    if (lang === 'zh-tw') return null; // 已在正確語系
+    return `/${lang}/blog/${articleMatch[1]}`;
+  }
+
+  return null;
+}
 
 export async function onRequest({ request, next }) {
   const url = new URL(request.url);
+  const pathname = url.pathname;
 
-  // 只處理根路徑（/ 會被 _redirects 導到 /blog，但這裡先攔截）
-  // 已在語言子路徑下則不重複跳轉
+  // 已在翻譯語系路徑下，設定 cookie 記憶後直接放行
+  const translatedMatch = pathname.match(/^\/(zh-cn|zh-hk|en)(\/|$)/);
+  if (translatedMatch) {
+    const response = await next();
+    const res = new Response(response.body, response);
+    res.headers.append(
+      'Set-Cookie',
+      `${LANG_COOKIE}=${translatedMatch[1]}; Path=/; Max-Age=${COOKIE_MAX_AGE}; SameSite=Lax`
+    );
+    return res;
+  }
+
+  // 靜態資源、admin、atlas 等不處理
   if (
-    url.pathname !== '/' ||
-    request.headers.get('x-lang-redirected') === '1'
+    pathname.startsWith('/_astro/') ||
+    pathname.startsWith('/admin/') ||
+    pathname.startsWith('/atlas') ||
+    pathname.startsWith('/index-all') ||
+    pathname.startsWith('/pagefind/') ||
+    pathname.includes('.')  // 有副檔名的靜態檔案
   ) {
     return next();
   }
 
-  const acceptLang = (request.headers.get('accept-language') ?? '').toLowerCase();
-
-  // 解析 Accept-Language header，取第一個有效語言
-  const primaryLang = acceptLang
-    .split(',')[0]          // 取第一個語言偏好
-    .split(';')[0]          // 移除 q 值
-    .trim();
-
-  let redirect = null;
-
-  if (/^zh-(hk|mo)|^yue/.test(primaryLang)) {
-    redirect = '/zh-hk/blog/';
-  } else if (/^zh-(cn|sg|hans)/.test(primaryLang)) {
-    redirect = '/zh-cn/blog/';
-  } else if (/^zh-(tw|hant)/.test(primaryLang) || primaryLang === 'zh') {
-    redirect = null; // zh-tw 是預設，讓 _redirects 的 / → /blog 處理
-  } else if (!primaryLang.startsWith('zh')) {
-    redirect = '/en/blog/';
+  // 已有語言 cookie → 尊重使用者選擇
+  const cookies = request.headers.get('cookie') ?? '';
+  const cookieMatch = cookies.match(new RegExp(`${LANG_COOKIE}=([^;]+)`));
+  if (cookieMatch) {
+    return next(); // 已選過語言，不強制跳轉
   }
 
-  if (redirect) {
+  // 第一次造訪：根據 Accept-Language 自動跳轉
+  const acceptLang = request.headers.get('accept-language') ?? '';
+  const detectedLang = detectLang(acceptLang);
+
+  const redirectTo = buildRedirectUrl(detectedLang, pathname);
+
+  if (redirectTo) {
     return new Response(null, {
       status: 302,
       headers: {
-        Location: redirect,
-        'Cache-Control': 'no-store', // 不讓 CDN 快取，每個用戶獨立判斷
-        'X-Lang-Detected': primaryLang,
+        'Location': redirectTo,
+        'Cache-Control': 'no-store',
+        'Set-Cookie': `${LANG_COOKIE}=${detectedLang}; Path=/; Max-Age=${COOKIE_MAX_AGE}; SameSite=Lax`,
       },
     });
   }
 
-  return next();
+  // zh-tw 路徑：設定 cookie 並放行
+  const response = await next();
+  const res = new Response(response.body, response);
+  res.headers.append(
+    'Set-Cookie',
+    `${LANG_COOKIE}=zh-tw; Path=/; Max-Age=${COOKIE_MAX_AGE}; SameSite=Lax`
+  );
+  return res;
 }
