@@ -1,0 +1,212 @@
+---
+export const prerender = true;
+import { getCollection } from 'astro:content';
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import Footer from '../../../components/Footer.astro';
+import ChatBot from '../../../components/ChatBot.astro';
+
+function extractFirstImage(body: string): string {
+  const m = body?.match(/!\[.*?\]\((https?:\/\/[^)\s]+)\)/);
+  return m ? m[1] : '';
+}
+
+const allPosts = (await getCollection('en'))
+  .filter(p => p.data.pubDate)
+  .map(p => ({
+    ...p,
+    heroImage: p.data.heroImage || extractFirstImage(p.body ?? ''),
+  }))
+  .sort((a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf());
+
+const LANG = 'en';
+const LANG_PREFIX = '/en';
+const HTML_LANG = 'en';
+
+const allPostsData = allPosts.map(p => ({
+  id: p.id,
+  title: p.data.title,
+  description: p.data.description || '',
+  heroImage: p.heroImage,
+}));
+
+const i18n = {
+  siteTitle: 'Bali Travel Guide | gobaligo',
+  siteDesc: 'Your ultimate Bali travel guide.',
+  sectionTitle: '🌴 Latest Articles',
+  bannerText: `🌐 Currently showing ${allPosts.length} English-translated articles.`,
+  bannerLink: 'View all Traditional Chinese articles',
+  prevPage: '← Previous',
+  nextPage: 'Next →',
+  pageInfo: (cur: number, total: number) => `Page ${cur} / ${total}`,
+};
+---
+
+<!doctype html>
+<html lang={HTML_LANG}>
+<head>
+  <BaseHead title={i18n.siteTitle} description={i18n.siteDesc} />
+</head>
+<body>
+  <Header lang={LANG} />
+
+  <div class="listing-wrap">
+    <div class="listing-banner">
+      {i18n.bannerText}
+      <a href="/blog/">{i18n.bannerLink}</a>
+    </div>
+
+    <h1 class="listing-heading">{i18n.sectionTitle}</h1>
+
+    <div class="grid" id="posts-grid">
+      {allPosts.map(post => (
+        <a href={`${LANG_PREFIX}/blog/${post.id}/`} class="card">
+          <div class="card-image">
+            {post.heroImage
+              ? <img src={post.heroImage} alt={post.data.title} loading="lazy" />
+              : <div class="card-image-placeholder">🌴</div>
+            }
+          </div>
+          <div class="card-body">
+            <h2 class="card-title">{post.data.title}</h2>
+            <p class="card-desc">{post.data.description}</p>
+          </div>
+        </a>
+      ))}
+    </div>
+
+    <div id="pagination" class="pagination"></div>
+  </div>
+
+  <ChatBot />
+  <Footer />
+</body>
+
+<script is:inline define:vars={{ allPostsData, LANG_PREFIX }}>
+  const POSTS_PER_PAGE = 18;
+  let currentPage = 1;
+  const cards = Array.from(document.querySelectorAll('.card'));
+  let filteredCards = cards;
+
+  function renderCards() {
+    const start = (currentPage - 1) * POSTS_PER_PAGE;
+    const end = start + POSTS_PER_PAGE;
+    filteredCards.forEach((card, i) => {
+      card.style.display = (i >= start && i < end) ? 'flex' : 'none';
+    });
+    updatePagination();
+  }
+
+  function updatePagination() {
+    const totalPages = Math.ceil(filteredCards.length / POSTS_PER_PAGE);
+    const pagination = document.getElementById('pagination');
+    pagination.innerHTML = '';
+    if (totalPages <= 1) return;
+
+    const prev = document.createElement('button');
+    prev.textContent = '← Previous';
+    prev.className = 'page-btn';
+    prev.disabled = currentPage === 1;
+    prev.onclick = () => { currentPage--; renderCards(); window.scrollTo(0, 0); };
+    pagination.appendChild(prev);
+
+    const info = document.createElement('span');
+    info.className = 'page-info';
+    info.textContent = `Page ${currentPage} / ${totalPages}`;
+    pagination.appendChild(info);
+
+    const next = document.createElement('button');
+    next.textContent = 'Next →';
+    next.className = 'page-btn';
+    next.disabled = currentPage === totalPages;
+    next.onclick = () => { currentPage++; renderCards(); window.scrollTo(0, 0); };
+    pagination.appendChild(next);
+  }
+
+  renderCards();
+</script>
+
+<style>
+  .listing-wrap {
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 2em 1.5em 4em;
+  }
+  .listing-banner {
+    background: rgba(197,160,89,0.12);
+    border: 1px solid rgba(197,160,89,0.3);
+    border-radius: 10px;
+    padding: 0.75em 1.2em;
+    font-size: 0.88em;
+    color: var(--ocean);
+    margin-bottom: 1.5em;
+  }
+  .listing-banner a {
+    color: var(--gold);
+    font-weight: 600;
+    margin-left: 0.4em;
+  }
+  .listing-heading {
+    font-size: 1.4em;
+    color: var(--ocean);
+    margin: 0 0 1.2em;
+    padding-bottom: 0.5em;
+    border-bottom: 2px solid var(--gold);
+  }
+  .grid {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 1.5em;
+  }
+  .card {
+    background: var(--white);
+    border-radius: 16px;
+    overflow: hidden;
+    text-decoration: none;
+    color: inherit;
+    box-shadow: 0 2px 12px rgba(10,22,40,0.08);
+    transition: transform 0.25s ease, box-shadow 0.25s ease;
+    display: flex;
+    flex-direction: column;
+  }
+  .card:hover { transform: translateY(-5px); box-shadow: 0 8px 32px rgba(10,22,40,0.15); }
+  .card-image {
+    aspect-ratio: 16/10;
+    overflow: hidden;
+    background: var(--ocean-mid);
+  }
+  .card-image img { width: 100%; height: 100%; object-fit: cover; border-radius: 0; }
+  .card-image-placeholder {
+    width: 100%; height: 100%;
+    display: flex; align-items: center; justify-content: center;
+    font-size: 3em;
+    background: linear-gradient(135deg, var(--ocean) 0%, var(--ocean-light) 100%);
+  }
+  .card-body { padding: 1.2em 1.4em 1.4em; flex: 1; display: flex; flex-direction: column; }
+  .card-title {
+    font-size: 1em; font-weight: 700; color: var(--ocean);
+    margin: 0 0 0.5em; line-height: 1.4;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .card-desc {
+    font-size: 0.82em; color: var(--text-light); line-height: 1.5; margin: 0; flex: 1;
+    display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden;
+  }
+  .pagination {
+    display: flex; align-items: center; justify-content: center;
+    gap: 1em; margin-top: 2.5em; padding-top: 1.5em;
+    border-top: 1px solid rgba(197,160,89,0.2);
+  }
+  .page-btn {
+    background: var(--ocean); color: var(--white); border: none;
+    padding: 0.5em 1.2em; border-radius: 8px; cursor: pointer;
+    font-size: 0.9em; font-family: inherit; transition: background 0.2s;
+  }
+  .page-btn:hover:not(:disabled) { background: var(--ocean-light); }
+  .page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+  .page-info { font-size: 0.88em; color: var(--text-light); }
+
+  @media (max-width: 1100px) { .grid { grid-template-columns: repeat(2, 1fr); } }
+  @media (max-width: 600px) { .grid { grid-template-columns: 1fr; } }
+</style>
+</html>

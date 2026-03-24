@@ -7,12 +7,16 @@ interface Props {
   slug?: string;
 }
 const { lang, slug } = Astro.props;
+
+const homeUrl = lang === 'en' ? '/en/blog/' :
+                lang === 'zh-cn' ? '/zh-cn/blog/' :
+                lang === 'zh-hk' ? '/zh-hk/blog/' : '/blog/';
 ---
 
 <header>
   <nav>
     <div class="brand">
-      <a href="/blog">
+      <a href={homeUrl}>
         <img src="/favicon-32x32.png" alt="logo" class="logo-icon" />
         <span class="logo-text">{SITE_TITLE}</span>
       </a>

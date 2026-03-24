@@ -36,6 +36,12 @@ function buildRedirectUrl(lang, pathname) {
     return `/${lang}/blog/`;
   }
 
+  // /blog/ 列表頁 → 跳轉至對應語系列表頁
+  if (pathname === '/blog/' || pathname === '/blog') {
+    if (lang === 'zh-tw') return null;
+    return `/${lang}/blog/`;
+  }
+
   // /blog/xxx/ 文章頁 → 跳轉至對應翻譯語系
   const articleMatch = pathname.match(/^\/blog\/(.+)$/);
   if (articleMatch) {
@@ -79,6 +85,14 @@ export async function onRequest({ request, next }) {
   const cookies = request.headers.get('cookie') ?? '';
   const cookieMatch = cookies.match(new RegExp(`${LANG_COOKIE}=([^;]+)`));
   if (cookieMatch) {
+    const savedLang = cookieMatch[1];
+    // 對 /blog/ 列表頁：非繁中使用者導向對應語系列表頁
+    if (savedLang !== 'zh-tw' && (pathname === '/blog/' || pathname === '/blog')) {
+      return new Response(null, {
+        status: 302,
+        headers: { 'Location': `/${savedLang}/blog/`, 'Cache-Control': 'no-store' },
+      });
+    }
     return next(); // 已選過語言，不強制跳轉
   }
 
