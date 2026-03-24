@@ -1,13 +1,55 @@
 ---
+interface Props { lang?: string; }
+const { lang } = Astro.props;
+
 const today = new Date();
+
+const blogBase = lang === 'en' ? '/en/blog' :
+                 lang === 'zh-cn' ? '/zh-cn/blog' :
+                 lang === 'zh-hk' ? '/zh-hk/blog' : '/blog';
+
+const CAT_EN: Record<string, string> = {
+  '新手指南': "Beginner's Guide",
+  '住宿推薦': 'Accommodation',
+  '峇里島分區攻略': 'Area Guide',
+  '簽證通關': 'Visa & Entry',
+  '美食景點活動': 'Food & Activities',
+  '遊記分享': 'Travel Stories',
+};
+const CAT_CN: Record<string, string> = {
+  '新手指南': '新手指南',
+  '住宿推薦': '住宿推荐',
+  '峇里島分區攻略': '峇里岛分区攻略',
+  '簽證通關': '签证通关',
+  '美食景點活動': '美食景点活动',
+  '遊記分享': '游记分享',
+};
+
 const categories = [
-  { name: '新手指南', slug: '新手指南' },
-  { name: '住宿推薦', slug: '住宿推薦' },
-  { name: '峇里島分區攻略', slug: '峇里島分區攻略' },
-  { name: '簽證通關', slug: '簽證通關' },
-  { name: '美食景點活動', slug: '美食景點活動' },
-  { name: '遊記分享', slug: '遊記分享' },
+  { slug: '新手指南' },
+  { slug: '住宿推薦' },
+  { slug: '峇里島分區攻略' },
+  { slug: '簽證通關' },
+  { slug: '美食景點活動' },
+  { slug: '遊記分享' },
 ];
+
+const getCatName = (slug: string) =>
+  lang === 'en' ? (CAT_EN[slug] ?? slug) :
+  lang === 'zh-cn' ? (CAT_CN[slug] ?? slug) : slug;
+
+const tagline = lang === 'en' ? 'Bali Travel Guide · Your Free Independent Travel Expert' :
+                lang === 'zh-cn' ? '峇里岛旅游攻略 · 自由行达人指南' :
+                '峇里島旅遊攻略 · 自由行達人指南';
+
+const catTitle = lang === 'en' ? 'Categories' :
+                 lang === 'zh-cn' ? '文章分类' : '文章分類';
+
+const disclaimer = lang === 'en'
+  ? 'Content is for reference only. Travel information may change; please verify before departure. Some links are affiliate links.'
+  : lang === 'zh-cn'
+  ? '本网站内容仅供参考，旅游资讯可能随时变动，出发前请自行确认最新资讯。本站部分链接为联盟营销链接。'
+  : '本網站內容僅供參考，旅遊資訊可能隨時變動，出發前請自行確認最新資訊。本站部分連結為聯盟行銷連結。';
 ---
 
 <footer>
@@ -15,17 +57,19 @@ const categories = [
 
     <!-- 品牌 -->
     <div class="footer-brand">
-      <div class="footer-logo"><img src="/favicon-32x32.png" alt="logo" /> Go Bali Go</div>
-      <p class="footer-tagline">峇里島旅遊攻略 · 自由行達人指南</p>
+      <a href={`${blogBase}/`} class="footer-logo">
+        <img src="/favicon-32x32.png" alt="logo" /> Go Bali Go
+      </a>
+      <p class="footer-tagline">{tagline}</p>
     </div>
 
     <!-- 分類快速連結 -->
     <div class="footer-links">
-      <h4>文章分類</h4>
+      <h4>{catTitle}</h4>
       <ul>
         {categories.map(cat => (
           <li>
-            <a href={`/blog?cat=${encodeURIComponent(cat.slug)}`}>{cat.name}</a>
+            <a href={`${blogBase}?cat=${encodeURIComponent(cat.slug)}`}>{getCatName(cat.slug)}</a>
           </li>
         ))}
       </ul>
@@ -58,7 +102,7 @@ const categories = [
   <!-- 底部版權+免責聲明 -->
   <div class="footer-bottom">
     <p class="copyright">&copy; {today.getFullYear()} Go Bali Go. All rights reserved.</p>
-    <p class="disclaimer">本網站內容僅供參考，旅遊資訊可能隨時變動，出發前請自行確認最新資訊。本站部分連結為聯盟行銷連結。</p>
+    <p class="disclaimer">{disclaimer}</p>
   </div>
 </footer>
 
@@ -87,6 +131,10 @@ footer {
   margin-bottom: 0.5em;
   display: flex;
   align-items: center;
+  text-decoration: none;
+}
+.footer-brand .footer-logo:hover {
+  color: var(--gold);
 }
 
 .footer-logo img {
