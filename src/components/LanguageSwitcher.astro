@@ -106,12 +106,10 @@ function buildUrl(langCode: string, slug: string) {
 </style>
 
 <script>
-  function initLangSwitcher() {
-    const btn = document.getElementById('lang-btn') as HTMLButtonElement | null;
-    const menu = document.getElementById('lang-menu') as HTMLElement | null;
+  const btn = document.getElementById('lang-btn');
+  const menu = document.getElementById('lang-menu');
 
-    if (!btn || !menu) return;
-
+  if (btn && menu) {
     btn.addEventListener('click', (e) => {
       e.stopPropagation();
       const isHidden = menu.hidden;
@@ -119,13 +117,12 @@ function buildUrl(langCode: string, slug: string) {
       btn.setAttribute('aria-expanded', String(!isHidden));
     });
 
-    document.addEventListener('click', () => {
-      menu.hidden = true;
-      btn.setAttribute('aria-expanded', 'false');
+    // Close menu on outside click, but NOT if clicking inside menu
+    document.addEventListener('click', (e) => {
+      if (!menu.contains(e.target as Node)) {
+        menu.hidden = true;
+        btn.setAttribute('aria-expanded', 'false');
+      }
     });
   }
-
-  document.addEventListener('DOMContentLoaded', initLangSwitcher);
-  // Also run immediately in case DOMContentLoaded already fired
-  if (document.readyState !== 'loading') initLangSwitcher();
 </script>
