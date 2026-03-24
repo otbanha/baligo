@@ -1,12 +1,44 @@
 ---
 // 峇里島旅遊 AI 問答機器人
+interface Props {
+  lang?: string;
+}
+const { lang } = Astro.props;
+
+const i18n = {
+  bubbleLabel:  lang === 'en'    ? 'Bali Travel AI'
+              : lang === 'zh-cn' ? '峇里岛旅游AI'
+              :                    '峇里島旅遊AI',
+  title:        lang === 'en'    ? 'The Most Accurate Bali AI'
+              : lang === 'zh-cn' ? '最精准的峇里岛知识库AI'
+              :                    '最精準的峇里島知識庫AI',
+  subtitle:     lang === 'en'    ? 'Ask me anything about Bali travel!'
+              : lang === 'zh-cn' ? '有任何峇里岛旅游问题都可以问我！'
+              :                    '有任何峇里島旅遊問題都可以問我！',
+  closeLabel:   lang === 'en'    ? 'Close' : '關閉',
+  greeting:     lang === 'en'    ? 'Hi! I\'m the Bali Travel AI 👋<br>Visas, transport, hotels, itineraries… ask me anything!'
+              : lang === 'zh-cn' ? '你好！我是峇里岛知识库AI 👋<br>签证、交通、住宿、行程⋯⋯随时为您解答！'
+              :                    '你好！我是峇里島知識庫AI 👋<br>簽證、交通、住宿、行程⋯⋯隨時為您解答！',
+  placeholder:  lang === 'en'    ? 'Ask a question, e.g. Best time to visit Bali?'
+              : lang === 'zh-cn' ? '输入问题，例如：峇里岛最佳旅游季节？'
+              :                    '輸入問題，例如：峇里島最佳旅遊季節？',
+  send:         lang === 'en'    ? 'Send' : lang === 'zh-cn' ? '发送' : '送出',
+  errNetwork:   lang === 'en'    ? 'Network error, please try again.'
+              : lang === 'zh-cn' ? '网络错误，请稍后再试。'
+              :                    '網路錯誤，請稍後再試。',
+  errFallback:  lang === 'en'    ? 'Sorry, unable to answer right now. Please try again later.'
+              : lang === 'zh-cn' ? '抱歉，暂时无法回答，请稍后再试。'
+              :                    '抱歉，暫時無法回答，請稍後再試。',
+};
+
+const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
 ---
 
 <!-- 浮動 Bubble 按鈕（桌機 + 手機） -->
-<button class="chat-bubble-btn" id="chat-bubble-btn" aria-label="開啟AI問答">
+<button class="chat-bubble-btn" id="chat-bubble-btn" aria-label={i18n.bubbleLabel}>
   <span class="bubble-ping"></span>
   <img src="/favicon-32x32.png" alt="" class="bubble-icon" />
-  <span class="bubble-label">峇里島旅遊AI</span>
+  <span class="bubble-label">{i18n.bubbleLabel}</span>
 </button>
 
 <!-- 聊天視窗 -->
@@ -15,19 +47,16 @@
     <div class="chatbot-header">
       <img src="/favicon-32x32.png" alt="" class="chatbot-icon" />
       <div>
-        <h2 class="chatbot-title">最精準的峇里島知識庫AI</h2>
-        <p class="chatbot-subtitle">有任何峇里島旅遊問題都可以問我！</p>
+        <h2 class="chatbot-title">{i18n.title}</h2>
+        <p class="chatbot-subtitle">{i18n.subtitle}</p>
       </div>
-      <button class="chatbot-close" id="chatbot-close" aria-label="關閉">✕</button>
+      <button class="chatbot-close" id="chatbot-close" aria-label={i18n.closeLabel}>✕</button>
     </div>
 
     <div class="chat-messages" id="chat-messages">
       <div class="msg bot">
         <img src="/favicon-32x32.png" alt="" class="msg-avatar" />
-        <div class="msg-bubble">
-          你好！我是峇里島知識庫AI 👋<br>
-          簽證、交通、住宿、行程⋯⋯隨時為您解答！
-        </div>
+        <div class="msg-bubble" set:html={i18n.greeting} />
       </div>
     </div>
 
@@ -35,22 +64,22 @@
       <input
         type="text"
         id="chat-input"
-        placeholder="輸入問題，例如：峇里島最佳旅遊季節？"
+        placeholder={i18n.placeholder}
         maxlength="200"
         autocomplete="off"
       />
       <button type="submit" id="chat-send">
         <svg viewBox="0 0 24 24" fill="currentColor"><path d="M2.01 21L23 12 2.01 3 2 10l15 2-15 2z"/></svg>
-        <span>送出</span>
+        <span>{i18n.send}</span>
       </button>
     </form>
   </div>
 </div>
 
-<script>
+<script define:vars={{ htmlLang, errNetwork: i18n.errNetwork, errFallback: i18n.errFallback }}>
   const API_URL = '/api/chat';
   const form = document.getElementById('chat-form');
-  const input = document.getElementById('chat-input') as HTMLInputElement;
+  const input = document.getElementById('chat-input');
   const messages = document.getElementById('chat-messages');
   const panel = document.getElementById('chatbot-panel');
   const bubbleBtn = document.getElementById('chat-bubble-btn');
@@ -69,11 +98,11 @@
     bubbleBtn?.classList.remove('hidden');
   });
 
-  function escapeHtml(str: string) {
+  function escapeHtml(str) {
     return str.replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
   }
 
-  function renderReply(text: string) {
+  function renderReply(text) {
     const parts = text.split(/(\[[^\]]+\]\([^)]+\))/g);
     return parts.map(part => {
       const match = part.match(/^\[([^\]]+)\]\(([^)]+)\)$/);
@@ -84,20 +113,20 @@
     }).join('');
   }
 
-  function addMessage(text: string, role: 'user' | 'error') {
+  function addMessage(text, role) {
     const div = document.createElement('div');
     div.className = `msg ${role}`;
     div.innerHTML = `<div class="msg-bubble${role === 'error' ? ' error' : ''}">${escapeHtml(text)}</div>`;
-    messages!.appendChild(div);
-    messages!.scrollTop = messages!.scrollHeight;
+    messages.appendChild(div);
+    messages.scrollTop = messages.scrollHeight;
   }
 
-  function addBotMessage(reply: string) {
+  function addBotMessage(reply) {
     const div = document.createElement('div');
     div.className = 'msg bot';
     div.innerHTML = `<img src="/favicon-32x32.png" alt="" class="msg-avatar" /><div class="msg-bubble">${renderReply(reply)}</div>`;
-    messages!.appendChild(div);
-    messages!.scrollTop = messages!.scrollHeight;
+    messages.appendChild(div);
+    messages.scrollTop = messages.scrollHeight;
   }
 
   function addTyping() {
@@ -105,21 +134,21 @@
     div.className = 'msg bot typing';
     div.id = 'typing-indicator';
     div.innerHTML = '<img src="/favicon-32x32.png" alt="" class="msg-avatar" /><div class="msg-bubble"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>';
-    messages!.appendChild(div);
-    messages!.scrollTop = messages!.scrollHeight;
+    messages.appendChild(div);
+    messages.scrollTop = messages.scrollHeight;
   }
 
   function removeTyping() {
     document.getElementById('typing-indicator')?.remove();
   }
 
-  form!.addEventListener('submit', async (e) => {
+  form.addEventListener('submit', async (e) => {
     e.preventDefault();
     const text = input.value.trim();
     if (!text) return;
 
     input.value = '';
-    const sendBtn = document.getElementById('chat-send') as HTMLButtonElement;
+    const sendBtn = document.getElementById('chat-send');
     sendBtn.disabled = true;
     input.disabled = true;
 
@@ -127,22 +156,21 @@
     addTyping();
 
     try {
-      const pageLang = document.documentElement.lang || 'zh-TW';
       const res = await fetch(API_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message: text, lang: pageLang }),
+        body: JSON.stringify({ message: text, lang: htmlLang }),
       });
       const data = await res.json();
       removeTyping();
       if (data.reply) {
         addBotMessage(data.reply);
       } else {
-        addMessage(data.error || '抱歉，暫時無法回答，請稍後再試。', 'error');
+        addMessage(data.error || errFallback, 'error');
       }
     } catch {
       removeTyping();
-      addMessage('網路錯誤，請稍後再試。', 'error');
+      addMessage(errNetwork, 'error');
     } finally {
       sendBtn.disabled = false;
       input.disabled = false;
