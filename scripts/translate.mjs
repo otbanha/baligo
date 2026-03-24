@@ -19,6 +19,32 @@ import matter from 'gray-matter';
 // ── 設定 ──────────────────────────────────────────────────────────────────────
 
 const DEEPSEEK_API_KEY = process.env.DEEPSEEK_API_KEY;
+
+// Video URL 保留（YouTube / Instagram / TikTok）
+const VIDEO_RES = [
+  /https?:\/\/(?:www\.)?youtube\.com\/watch\?[^\s\)"'`\]]+/g,
+  /https?:\/\/youtu\.be\/[^\s\)"'`\]]+/g,
+  /https?:\/\/(?:www\.)?instagram\.com\/(?:p|reel)\/[A-Za-z0-9_-]+\/?[^\s\)"'`\]]*/g,
+  /https?:\/\/(?:www\.)?tiktok\.com\/@[^\s\)"'`\]]+\/video\/\d+[^\s\)"'`\]]*/g,
+];
+
+function extractVideoUrls(text) {
+  const saved = [];
+  let out = text;
+  for (const re of VIDEO_RES) {
+    out = out.replace(re, (match) => {
+      const idx = saved.length;
+      saved.push(match);
+      return `__VID${idx}__`;
+    });
+  }
+  return { text: out, saved };
+}
+
+function restoreVideoUrls(text, saved) {
+  if (!saved.length) return text;
+  return text.replace(/__VID(\d+)__/g, (_, i) => saved[parseInt(i, 10)] ?? '');
+}
 const SOURCE_DIR = 'src/content/blog';
 const CACHE_FILE = '.translation-cache.json';
 const BATCH_SIZE = 10; // 每次 API 呼叫最多幾個段落
@@ -32,7 +58,8 @@ const SYSTEM_PROMPTS = {
 2. 地名統一對照（不論原文寫法）：長谷/倉古/蒼古/坎古→坎古、水明漾→水明漾、庫塔→库塔、沙努爾→沙努尔、金巴蘭→金巴兰、努沙杜瓦→努沙杜瓦
 3. 語氣自然，符合大陸讀者習慣
 4. 金額換算：將台幣（NT$、新台幣、台幣）金額換算成美金（USD），匯率 31:1，四捨五入至整數，例如 NT$3,100 → USD$100
-5. 以 JSON 物件回傳，格式：{"translations": ["翻譯1", "翻譯2", ...]}
+5. 文字中若出現 __VID0__、__VID1__ 等佔位符，必須原封不動保留，不可翻譯或修改
+6. 以 JSON 物件回傳，格式：{"translations": ["翻譯1", "翻譯2", ...]}
    陣列長度必須與輸入相同`,
 
   'zh-hk': `你是專業翻譯，將繁體中文翻譯成香港粵語書寫體。
@@ -41,7 +68,8 @@ const SYSTEM_PROMPTS = {
 2. 地名統一對照（不論原文寫法）：長谷/倉古/蒼古/坎古→坎古、峇里島→峇里島、烏布→烏布、水明漾→水明漾、庫塔→庫塔、沙努爾→沙努爾、金巴蘭→金巴蘭、努沙杜瓦→努沙杜瓦
 3. 語氣自然口語化，符合香港讀者習慣
 4. 金額換算：將台幣（NT$、新台幣、台幣）金額換算成美金（USD），匯率 31:1，四捨五入至整數，例如 NT$3,100 → USD$100
-5. 以 JSON 物件回傳，格式：{"translations": ["翻譯1", "翻譯2", ...]}
+5. 文字中若出現 __VID0__、__VID1__ 等佔位符，必須原封不動保留，不可翻譯或修改
+6. 以 JSON 物件回傳，格式：{"translations": ["翻譯1", "翻譯2", ...]}
    陣列長度必須與輸入相同`,
 
   'en': `You are a professional translator. Translate Traditional Chinese travel content to natural English.
@@ -51,7 +79,8 @@ Requirements:
    長谷/倉古/蒼古/坎古→Canggu (these all refer to the same place)
 2. Natural, engaging travel writing style
 3. Currency conversion: Convert all NT$ / 新台幣 / 台幣 amounts to USD at a rate of 31:1, rounded to the nearest dollar. Example: NT$3,100 → USD$100
-4. Return JSON: {"translations": ["translation1", "translation2", ...]}
+4. If the text contains placeholders like __VID0__, __VID1__, keep them exactly as-is — do not translate or modify them
+5. Return JSON: {"translations": ["translation1", "translation2", ...]}
    Array length must match input`,
 };
 
@@ -201,14 +230,16 @@ async function callDeepSeek(texts, lang) {
  */
 async function translateTexts(texts, lang) {
   const results = new Array(texts.length).fill(null);
-  const needTranslate = []; // { origIdx, text }
+  const needTranslate = []; // { origIdx, text, stripped, videosSaved }
 
   for (let i = 0; i < texts.length; i++) {
     const cacheKey = `${md5(texts[i])}:${lang}`;
     if (cache.paragraphs[cacheKey]) {
       results[i] = cache.paragraphs[cacheKey];
     } else {
-      needTranslate.push({ origIdx: i, text: texts[i] });
+      // 提取 video URL，換成佔位符後再送翻譯
+      const { text: stripped, saved: videosSaved } = extractVideoUrls(texts[i]);
+      needTranslate.push({ origIdx: i, text: texts[i], stripped, videosSaved });
     }
   }
 
@@ -226,7 +257,7 @@ async function translateTexts(texts, lang) {
   // 批次呼叫
   for (let start = 0; start < needTranslate.length; start += BATCH_SIZE) {
     const batch = needTranslate.slice(start, start + BATCH_SIZE);
-    const batchTexts = batch.map(b => b.text);
+    const batchTexts = batch.map(b => b.stripped); // 送已去除 video URL 的版本
 
     let translated;
     for (let attempt = 0; attempt < 3; attempt++) {
@@ -240,8 +271,10 @@ async function translateTexts(texts, lang) {
     }
 
     for (let j = 0; j < batch.length; j++) {
-      const { origIdx, text } = batch[j];
-      const result = translated[j] ?? text;
+      const { origIdx, text, videosSaved } = batch[j];
+      // 翻譯結果還原 video URL
+      const raw = translated[j] ?? text;
+      const result = restoreVideoUrls(raw, videosSaved);
       cache.paragraphs[`${md5(text)}:${lang}`] = result;
       results[origIdx] = result;
     }
