@@ -29,15 +29,16 @@ const SYSTEM_PROMPTS = {
   'zh-cn': `你是專業翻譯，將繁體中文翻譯成簡體中文。
 要求：
 1. 使用中國大陸慣用詞彙和地名（如峇里島→巴厘岛、烏布→乌布、廟宇→寺庙、計程車→出租车）
-2. 語氣自然，符合大陸讀者習慣
-3. 金額換算：將台幣（NT$、新台幣、台幣）金額換算成美金（USD），匯率 31:1，四捨五入至整數，例如 NT$3,100 → USD$100
-4. 以 JSON 物件回傳，格式：{"translations": ["翻譯1", "翻譯2", ...]}
+2. 地名統一對照（不論原文寫法）：長谷/倉古/蒼古/坎古→坎古、水明漾→水明漾、庫塔→库塔、沙努爾→沙努尔、金巴蘭→金巴兰、努沙杜瓦→努沙杜瓦
+3. 語氣自然，符合大陸讀者習慣
+4. 金額換算：將台幣（NT$、新台幣、台幣）金額換算成美金（USD），匯率 31:1，四捨五入至整數，例如 NT$3,100 → USD$100
+5. 以 JSON 物件回傳，格式：{"translations": ["翻譯1", "翻譯2", ...]}
    陣列長度必須與輸入相同`,
 
   'zh-hk': `你是專業翻譯，將繁體中文翻譯成香港粵語書寫體。
 要求：
-1. 使用香港慣用詞彙（如的士→的士、巴士、超市、結帳→埋單、雪糕）
-2. 地名使用香港慣用譯名（峇里島、烏布等保持不變，因為這已是香港用法）
+1. 使用香港慣用詞彙（如的士、巴士、超市、埋單、雪糕）
+2. 地名統一對照（不論原文寫法）：長谷/倉古/蒼古/坎古→坎古、峇里島→峇里島、烏布→烏布、水明漾→水明漾、庫塔→庫塔、沙努爾→沙努爾、金巴蘭→金巴蘭、努沙杜瓦→努沙杜瓦
 3. 語氣自然口語化，符合香港讀者習慣
 4. 金額換算：將台幣（NT$、新台幣、台幣）金額換算成美金（USD），匯率 31:1，四捨五入至整數，例如 NT$3,100 → USD$100
 5. 以 JSON 物件回傳，格式：{"translations": ["翻譯1", "翻譯2", ...]}
@@ -45,7 +46,9 @@ const SYSTEM_PROMPTS = {
 
   'en': `You are a professional translator. Translate Traditional Chinese travel content to natural English.
 Requirements:
-1. Use standard English place names (峇里島→Bali, 烏布→Ubud, 庫塔→Kuta, 水明漾→Seminyak, 沙努爾→Sanur, 金巴蘭→Jimbaran, 努沙杜瓦→Nusa Dua, 坎古→Canggu)
+1. Use standard English place names. Important mappings (regardless of how they appear in source):
+   峇里島→Bali, 烏布→Ubud, 庫塔→Kuta, 水明漾→Seminyak, 沙努爾→Sanur, 金巴蘭→Jimbaran, 努沙杜瓦→Nusa Dua
+   長谷/倉古/蒼古/坎古→Canggu (these all refer to the same place)
 2. Natural, engaging travel writing style
 3. Currency conversion: Convert all NT$ / 新台幣 / 台幣 amounts to USD at a rate of 31:1, rounded to the nearest dollar. Example: NT$3,100 → USD$100
 4. Return JSON: {"translations": ["translation1", "translation2", ...]}

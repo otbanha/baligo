@@ -1,0 +1,32 @@
+---
+title: 使用 MDX
+description: Lorem ipsum dolor sit amet
+pubDate: Jun 01 2024
+heroImage: ../../assets/blog-placeholder-5.jpg
+lang: zh-hk
+---
+
+呢個主題已經安裝咗 [@astrojs/mdx](https://docs.astro.build/en/guides/integrations-guide/mdx/) 整合，並且喺你嘅 `astro.config.mjs` 設定檔案入面配置好咗。如果你唔想用 MDX，你可以透過從設定檔案移除呢個整合嚟停用支援。
+
+## 點解要用 MDX？
+
+MDX 係一種特別嘅 Markdown 風格，支援嵌入式 JavaScript 同 JSX 語法。咁樣就可以 [喺你嘅 Markdown 內容入面混合 JavaScript 同 UI 組件](https://docs.astro.build/en/guides/integrations-guide/mdx/#mdx-in-astro)，用嚟做啲互動式圖表或者提示之類嘅嘢。
+
+如果你已經有啲用 MDX 寫嘅內容，呢個整合應該可以令你輕鬆咁遷移到 Astro。
+
+## 例子
+
+呢度示範咗點樣喺 MDX 入面導入同使用一個 UI 組件。
+當你喺瀏覽器打開呢一頁，你應該會見到下面嗰個可以點擊嘅按鈕。
+
+import HeaderLink from '../../components/HeaderLink.astro';
+
+<HeaderLink href="#" onclick="alert('clicked!')">
+	喺 MDX 入面嵌入嘅組件
+</HeaderLink>
+
+## 更多連結
+
+- [MDX 語法文件](https://mdxjs.com/docs/what-is-mdx)
+- [Astro 使用文件](https://docs.astro.build/en/basics/astro-pages/#markdownmdx-pages)
+- **注意：** [Client Directives](https://docs.astro.build/en/reference/directives-reference/#client-directives) 仍然需要嚟建立互動組件。否則，你嘅 MDX 入面所有組件預設會渲染成靜態 HTML（冇 JavaScript）。
