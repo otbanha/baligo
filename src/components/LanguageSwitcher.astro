@@ -14,8 +14,10 @@ const LANGS = [
 ];
 
 function buildUrl(langCode: string, slug: string) {
-  if (!slug) return `/${langCode}/`;
-  return `/${langCode}/blog/${slug}/`;
+  if (langCode === 'blog') {
+    return slug ? `/blog/${slug}/` : '/blog/';
+  }
+  return slug ? `/${langCode}/blog/${slug}/` : `/${langCode}/blog/`;
 }
 ---
 
@@ -104,15 +106,17 @@ function buildUrl(langCode: string, slug: string) {
 </style>
 
 <script>
-  const btn = document.getElementById('lang-btn');
-  const menu = document.getElementById('lang-menu');
+  function initLangSwitcher() {
+    const btn = document.getElementById('lang-btn') as HTMLButtonElement | null;
+    const menu = document.getElementById('lang-menu') as HTMLElement | null;
 
-  if (btn && menu) {
+    if (!btn || !menu) return;
+
     btn.addEventListener('click', (e) => {
       e.stopPropagation();
-      const open = menu.hidden;
-      menu.hidden = !open;
-      btn.setAttribute('aria-expanded', String(open));
+      const isHidden = menu.hidden;
+      menu.hidden = !isHidden;
+      btn.setAttribute('aria-expanded', String(!isHidden));
     });
 
     document.addEventListener('click', () => {
@@ -120,4 +124,8 @@ function buildUrl(langCode: string, slug: string) {
       btn.setAttribute('aria-expanded', 'false');
     });
   }
+
+  document.addEventListener('DOMContentLoaded', initLangSwitcher);
+  // Also run immediately in case DOMContentLoaded already fired
+  if (document.readyState !== 'loading') initLangSwitcher();
 </script>
