@@ -392,6 +392,46 @@ window.addEventListener('load', () => {
 </script>
 
 <script>
+  // 圖片燈箱 + 浮水印包裝
+  (function () {
+    function openLightbox(src: string, alt: string) {
+      const overlay = document.createElement('div');
+      overlay.className = 'lb-overlay';
+      overlay.innerHTML = `
+        <button class="lb-close" aria-label="Close">✕</button>
+        <img src="${src}" alt="${alt}" class="lb-img" />
+      `;
+      document.body.appendChild(overlay);
+      document.body.style.overflow = 'hidden';
+      requestAnimationFrame(() => overlay.classList.add('lb-open'));
+
+      const close = () => {
+        overlay.classList.remove('lb-open');
+        document.body.style.overflow = '';
+        overlay.addEventListener('transitionend', () => overlay.remove(), { once: true });
+        document.removeEventListener('keydown', onKey);
+      };
+      const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') close(); };
+      overlay.addEventListener('click', (e) => { if (e.target === overlay) close(); });
+      (overlay.querySelector('.lb-close') as HTMLElement).addEventListener('click', close);
+      document.addEventListener('keydown', onKey);
+    }
+
+    document.querySelectorAll<HTMLImageElement>('.prose img').forEach(img => {
+      // 包 wrapper（浮水印用）
+      const wrap = document.createElement('div');
+      wrap.className = 'img-wrap';
+      img.parentNode!.insertBefore(wrap, img);
+      wrap.appendChild(img);
+
+      // 點擊放大
+      img.style.cursor = 'zoom-in';
+      img.addEventListener('click', () => openLightbox(img.src, img.alt));
+    });
+  })();
+</script>
+
+<script>
   // Page view counter — session-deduped (same tab only counts once)
   (function () {
     const slug = location.pathname.replace(/\/?$/, '/').replace(/^(?!\/)/, '/');
@@ -749,6 +789,79 @@ hr { margin: 1.2em 0 1.8em; }
 
 .prose :global(a) {
   word-break: break-word;
+}
+
+/* 圖片 wrapper（浮水印用） */
+:global(.prose .img-wrap) {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+:global(.prose .img-wrap::after) {
+  content: 'gobaligo.id';
+  position: absolute;
+  bottom: 0.45em;
+  right: 0.65em;
+  font-size: 0.72em;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.75);
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.7);
+  letter-spacing: 0.06em;
+  pointer-events: none;
+  user-select: none;
+}
+
+/* 燈箱 */
+:global(.lb-overlay) {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  transition: background 0.25s ease;
+  padding: 1em;
+  cursor: zoom-out;
+}
+:global(.lb-overlay.lb-open) {
+  background: rgba(0, 0, 0, 0.92);
+}
+:global(.lb-img) {
+  max-width: min(90vw, 1200px);
+  max-height: 88vh;
+  object-fit: contain;
+  border-radius: 6px;
+  opacity: 0;
+  transform: scale(0.93);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+  cursor: default;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.6);
+}
+:global(.lb-overlay.lb-open .lb-img) {
+  opacity: 1;
+  transform: scale(1);
+}
+:global(.lb-close) {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: white;
+  font-size: 1.1em;
+  width: 2.2em;
+  height: 2.2em;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s;
+  line-height: 1;
+}
+:global(.lb-close:hover) {
+  background: rgba(255, 255, 255, 0.3);
 }
 
 /* Mobile 麵包屑：桌機隱藏，手機才顯示 */
