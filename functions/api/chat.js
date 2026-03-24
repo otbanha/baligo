@@ -238,9 +238,10 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 500;
 const CACHE_TTL = 86400; // 24h response cache
+const CACHE_VERSION = 'v3'; // increment to bust stale cached responses
 
 async function msgCacheKey(msg) {
-  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(msg.toLowerCase().trim()));
+  const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(CACHE_VERSION + ':' + msg.toLowerCase().trim()));
   return 'qc:' + Array.from(new Uint8Array(buf)).slice(0, 10).map(b => b.toString(16).padStart(2, '0')).join('');
 }
 
@@ -321,8 +322,8 @@ function findPinnedArticles(query) {
 
 /** 從查詢文字產生搜尋詞（支援 CJK n-gram 斷詞 + 簡繁轉換） */
 function getSearchTerms(text, lang) {
-  // 空格/標點分詞（英文、混合文）
-  const words = text.toLowerCase().split(/[\s,，。？！、。\n！？]+/).filter(w => w.length >= 2);
+  // 空格/標點分詞（英文、混合文）；先去掉 ASCII 標點避免 "kempinski?" 無法匹配
+  const words = text.toLowerCase().replace(/[?!.,;:'"()\[\]]/g, ' ').split(/[\s,，。？！、。\n！？]+/).filter(w => w.length >= 2);
 
   // CJK n-gram（2~4字）：讓「凱賓斯基」可從「凱賓斯基好嗎？」中被抓到
   const cjk = text.replace(/[^\u4e00-\u9fff]/g, '');
@@ -385,7 +386,7 @@ ${linkList}`;
 【强制规则】：
 1. 不可自行回答问题细节，一律引导至以下文章。
 2. 回复格式：${intro}
-3. 每个链接单独一行，格式为 [标题](URL)。
+3. 每个链接单独一行，格式为 [简体中文标题](URL)——将方括号内的标题翻译成简体中文，URL 保持不变。
 4. 禁止提到「客服」「联系我们」——本站无客服。
 5. 若问到报价，只说「直接咨询司机」。
 
