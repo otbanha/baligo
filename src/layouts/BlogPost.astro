@@ -13,7 +13,50 @@ const { title, description, pubDate, updatedDate, heroImage, category, embeds, e
 const tocHeadings = headings.filter(h => h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= 2;
 
-const allPosts = await getCollection('blog');
+const collectionName = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-cn' : lang === 'zh-hk' ? 'zh-hk' : 'blog';
+const allPosts = await getCollection(collectionName as any);
+
+const CAT_EN: Record<string, string> = {
+  '新手指南': "Beginner's Guide",
+  '住宿推薦': 'Accommodation', '住宿推荐': 'Accommodation',
+  '峇里島分區攻略': 'Area Guide', '峇里岛分区攻略': 'Area Guide',
+  '簽證通關': 'Visa & Entry', '签证通关': 'Visa & Entry',
+  '叫車包車': 'Transport', '叫车包车': 'Transport',
+  '家庭親子': 'Family Travel', '家庭亲子': 'Family Travel',
+  '遊記分享': 'Travel Stories', '游记分享': 'Travel Stories',
+  '美食景點活動': 'Food & Activities', '美食景点活动': 'Food & Activities',
+  '新聞存檔': 'News Archive', '新闻存档': 'News Archive',
+  '旅行技巧': 'Travel Tips',
+};
+
+const CAT_ZH_CN: Record<string, string> = {
+  '新手指南': '新手指南',
+  '住宿推薦': '住宿推荐', '住宿推荐': '住宿推荐',
+  '峇里島分區攻略': '峇里岛分区攻略', '峇里岛分区攻略': '峇里岛分区攻略',
+  '簽證通關': '签证通关', '签证通关': '签证通关',
+  '叫車包車': '叫车包车', '叫车包车': '叫车包车',
+  '家庭親子': '家庭亲子', '家庭亲子': '家庭亲子',
+  '遊記分享': '游记分享', '游记分享': '游记分享',
+  '美食景點活動': '美食景点活动', '美食景点活动': '美食景点活动',
+  '新聞存檔': '新闻存档', '新闻存档': '新闻存档',
+};
+
+const getCatLabel = (cat: string) => {
+  if (lang === 'en') return CAT_EN[cat] ?? cat;
+  if (lang === 'zh-cn') return CAT_ZH_CN[cat] ?? cat;
+  return cat;
+};
+
+const blogBase = lang === 'en' ? '/en/blog' : lang === 'zh-cn' ? '/zh-cn/blog' : lang === 'zh-hk' ? '/zh-hk/blog' : '/blog';
+
+const i18n = {
+  sidebarTitle: lang === 'en' ? '📂 Categories' : lang === 'zh-cn' ? '📂 文章分类' : '📂 文章分類',
+  allArticles: lang === 'en' ? 'All Articles' : '全部文章',
+  breadcrumbAll: lang === 'en' ? '← All Articles' : '← 所有文章',
+  tocTitle: lang === 'en' ? '📋 Contents' : lang === 'zh-cn' ? '📋 目录' : '📋 目錄',
+  tocCollapse: lang === 'en' ? 'Collapse' : '收起',
+  tocExpand: lang === 'en' ? 'Expand' : lang === 'zh-cn' ? '展开' : '展開',
+};
 
 const categoryOrder = [
   '新手指南',
@@ -89,19 +132,19 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
 
     <aside class="sidebar">
       <div class="sidebar-section">
-        <h3 class="sidebar-title">📂 文章分類</h3>
+        <h3 class="sidebar-title">{i18n.sidebarTitle}</h3>
         <ul class="category-list">
           <li>
-            <a href="/blog" class="category-item">
-              <span class="cat-name">全部文章</span>
+            <a href={blogBase} class="category-item">
+              <span class="cat-name">{i18n.allArticles}</span>
               <span class="cat-count">{allPosts.length}</span>
             </a>
           </li>
           {categories.map(cat => (
             <li>
-              <a href={`/blog?cat=${encodeURIComponent(cat)}`}
+              <a href={`${blogBase}?cat=${encodeURIComponent(cat)}`}
                  class={`category-item ${(Array.isArray(category) ? category : [category]).includes(cat) ? 'active' : ''}`}
-                <span class="cat-name">{cat}</span>
+                <span class="cat-name">{getCatLabel(cat)}</span>
                 <span class="cat-count">{categoryCounts[cat]}</span>
               </a>
             </li>
@@ -121,15 +164,15 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
     <main>
       <!-- Mobile 分類導覽（桌機版有 sidebar，手機版才顯示） -->
       <nav class="mobile-breadcrumb" aria-label="分類導覽">
-        <a href="/blog" class="breadcrumb-home">← 所有文章</a>
+        <a href={blogBase} class="breadcrumb-home">{i18n.breadcrumbAll}</a>
         {category && (
           <>
             <span class="breadcrumb-sep">›</span>
             <a
-              href={`/blog?cat=${encodeURIComponent(Array.isArray(category) ? category[0] : category)}`}
+              href={`${blogBase}?cat=${encodeURIComponent(Array.isArray(category) ? category[0] : category)}`}
               class="breadcrumb-cat"
             >
-              {Array.isArray(category) ? category[0] : category}
+              {getCatLabel(Array.isArray(category) ? category[0] : category)}
             </a>
           </>
         )}
@@ -138,7 +181,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
       <article>
         <div class="prose">
           <div class="title">
-            {category && <span class="article-category">{category}</span>}
+            {category && <span class="article-category">{getCatLabel(Array.isArray(category) ? category[0] : category)}</span>}
             <h1>{title}</h1>
             <div class="date">
               <FormattedDate date={pubDate} />
@@ -153,8 +196,8 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
           {showToc && (
             <nav class="toc" aria-label="文章目錄">
               <div class="toc-header">
-                <span class="toc-title">📋 目錄</span>
-                <button class="toc-toggle" aria-expanded="true" aria-controls="toc-list">收起</button>
+                <span class="toc-title">{i18n.tocTitle}</span>
+                <button class="toc-toggle" aria-expanded="true" aria-controls="toc-list" data-collapse={i18n.tocCollapse} data-expand={i18n.tocExpand}>{i18n.tocCollapse}</button>
               </div>
               <ol id="toc-list" class="toc-list">
                 {tocHeadings.map(h => (
@@ -175,7 +218,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
             <h2 class="related-title">🗺️ 你可能也想看</h2>
             <div class="related-grid">
               {randomPosts.map(post => (
-                <a href={`/blog/${post.id}/`} class="related-card">
+                <a href={`${blogBase}/${post.id}/`} class="related-card">
                   {post.data.heroImage && (
                     <div class="related-image">
                       <img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
@@ -260,7 +303,7 @@ window.addEventListener('load', () => {
   if (tocToggle && tocList) {
     tocToggle.addEventListener('click', () => {
       const collapsed = tocList.classList.toggle('hidden');
-      tocToggle.textContent = collapsed ? '展開' : '收起';
+      tocToggle.textContent = collapsed ? (tocToggle.dataset.expand || '展開') : (tocToggle.dataset.collapse || '收起');
       tocToggle.setAttribute('aria-expanded', String(!collapsed));
     });
 
