@@ -123,11 +123,52 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
 
 <html lang={lang === 'zh-cn' ? 'zh-CN' : lang === 'zh-hk' ? 'zh-HK' : lang === 'en' ? 'en' : 'zh-TW'}>
 <head>
-  <BaseHead title={title} description={description} />
-  {lang === 'zh-cn' && <link rel="alternate" hreflang="zh-CN" href={`https://gobaligo.id/zh-cn/blog/${slug}/`} />}
-  {lang === 'zh-hk' && <link rel="alternate" hreflang="zh-HK" href={`https://gobaligo.id/zh-hk/blog/${slug}/`} />}
-  {lang === 'en' && <link rel="alternate" hreflang="en" href={`https://gobaligo.id/en/blog/${slug}/`} />}
-  {!lang && slug && <link rel="alternate" hreflang="zh-TW" href={`https://gobaligo.id/blog/${slug}/`} />}
+  <BaseHead
+    title={title}
+    description={description ?? ''}
+    image={typeof heroImage === 'string' ? heroImage : undefined}
+    type="article"
+    publishedTime={pubDate ? new Date(pubDate).toISOString() : undefined}
+    modifiedTime={updatedDate ? new Date(updatedDate).toISOString() : (pubDate ? new Date(pubDate).toISOString() : undefined)}
+  />
+
+  <!-- hreflang: 列出全部語言版本，讓 Google 了解多語系關係 -->
+  {slug && <>
+    <link rel="alternate" hreflang="x-default"  href={`https://gobaligo.id/blog/${slug}/`} />
+    <link rel="alternate" hreflang="zh-TW"      href={`https://gobaligo.id/blog/${slug}/`} />
+    <link rel="alternate" hreflang="zh-HK"      href={`https://gobaligo.id/zh-hk/blog/${slug}/`} />
+    <link rel="alternate" hreflang="zh-CN"      href={`https://gobaligo.id/zh-cn/blog/${slug}/`} />
+    <link rel="alternate" hreflang="en"         href={`https://gobaligo.id/en/blog/${slug}/`} />
+  </>}
+
+  <!-- JSON-LD: Article 結構化資料 -->
+  {slug && <script type="application/ld+json" set:text={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": title,
+    "description": description ?? '',
+    "image": heroImage || 'https://gobaligo.id/og-default.jpg',
+    "datePublished": pubDate ? new Date(pubDate).toISOString() : undefined,
+    "dateModified": updatedDate ? new Date(updatedDate).toISOString() : (pubDate ? new Date(pubDate).toISOString() : undefined),
+    "author": { "@type": "Organization", "name": "Go Bali Go", "url": "https://gobaligo.id" },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Go Bali Go 峇里島旅遊攻略",
+      "logo": { "@type": "ImageObject", "url": "https://gobaligo.id/favicon-32x32.png" }
+    },
+    "mainEntityOfPage": { "@type": "WebPage", "@id": `https://gobaligo.id/${lang && lang !== 'blog' ? lang + '/' : ''}blog/${slug}/` }
+  })} />}
+
+  <!-- JSON-LD: BreadcrumbList -->
+  {slug && <script type="application/ld+json" set:text={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "Go Bali Go", "item": "https://gobaligo.id" },
+      { "@type": "ListItem", "position": 2, "name": lang === 'en' ? "Bali Travel Blog" : "峇里島旅遊攻略", "item": `https://gobaligo.id/${lang && lang !== 'blog' ? lang + '/' : ''}blog/` },
+      { "@type": "ListItem", "position": 3, "name": title, "item": `https://gobaligo.id/${lang && lang !== 'blog' ? lang + '/' : ''}blog/${slug}/` }
+    ]
+  })} />}
 </head>
 
 <body>

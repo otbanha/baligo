@@ -76,7 +76,25 @@ const allPostsData = allPosts.map(p => ({
 <!doctype html>
 <html lang="zh-CN">
 <head>
-  <BaseHead title="巴厘岛旅游攻略 | gobaligo" description="您的巴厘岛终极旅游指南：签证、交通、住宿、行程一网打尽。" />
+  <BaseHead title="峇里岛旅游攻略 | Go Bali Go" description="峇里岛旅游最完整的中文攻略网站。签证、交通、住宿、美食、景点、行程规划，600+ 篇深度文章。" noSuffix={true} />
+  <link rel="alternate" hreflang="x-default" href="https://gobaligo.id/blog/" />
+  <link rel="alternate" hreflang="zh-TW"     href="https://gobaligo.id/blog/" />
+  <link rel="alternate" hreflang="zh-HK"     href="https://gobaligo.id/zh-hk/blog/" />
+  <link rel="alternate" hreflang="zh-CN"     href="https://gobaligo.id/zh-cn/blog/" />
+  <link rel="alternate" hreflang="en"        href="https://gobaligo.id/en/blog/" />
+  <script type="application/ld+json" set:text={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Go Bali Go 峇里岛旅游攻略",
+    "url": "https://gobaligo.id",
+    "description": "峇里岛旅游最完整的中文攻略网站，600+ 篇深度文章。",
+    "inLanguage": ["zh-TW", "zh-HK", "zh-CN", "en"],
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": { "@type": "EntryPoint", "urlTemplate": "https://www.google.com/search?sitesearch=gobaligo.id/zh-cn/blog&q={search_term_string}" },
+      "query-input": "required name=search_term_string"
+    }
+  })} />
 </head>
 <body>
   <Header lang="zh-cn" />

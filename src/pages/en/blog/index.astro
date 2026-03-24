@@ -71,7 +71,25 @@ const allPostsData = allPosts.map(p => ({
 <!doctype html>
 <html lang="en">
 <head>
-  <BaseHead title="Bali Travel Guide | gobaligo" description="Your ultimate Bali travel guide: visas, transport, accommodation, itineraries and more." />
+  <BaseHead title="Bali Travel Guide | Go Bali Go" description="Your ultimate Bali travel guide — 600+ articles on visas, transport, accommodation, food, itineraries and more." noSuffix={true} />
+  <link rel="alternate" hreflang="x-default" href="https://gobaligo.id/blog/" />
+  <link rel="alternate" hreflang="zh-TW"     href="https://gobaligo.id/blog/" />
+  <link rel="alternate" hreflang="zh-HK"     href="https://gobaligo.id/zh-hk/blog/" />
+  <link rel="alternate" hreflang="zh-CN"     href="https://gobaligo.id/zh-cn/blog/" />
+  <link rel="alternate" hreflang="en"        href="https://gobaligo.id/en/blog/" />
+  <script type="application/ld+json" set:text={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Go Bali Go — Bali Travel Guide",
+    "url": "https://gobaligo.id",
+    "description": "Your ultimate Bali travel guide — 600+ articles on visas, transport, accommodation, food and itineraries.",
+    "inLanguage": ["zh-TW", "zh-HK", "zh-CN", "en"],
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": { "@type": "EntryPoint", "urlTemplate": "https://www.google.com/search?sitesearch=gobaligo.id/en/blog&q={search_term_string}" },
+      "query-input": "required name=search_term_string"
+    }
+  })} />
 </head>
 <body>
   <Header lang="en" />
