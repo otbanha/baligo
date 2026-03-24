@@ -11,6 +11,16 @@ const { lang, slug } = Astro.props;
 const homeUrl = lang === 'en' ? '/en/blog/' :
                 lang === 'zh-cn' ? '/zh-cn/blog/' :
                 lang === 'zh-hk' ? '/zh-hk/blog/' : '/blog/';
+
+const searchPlaceholder = lang === 'en'    ? '🔍 Search Bali travel tips...' :
+                          lang === 'zh-cn' ? '🔍 搜索巴厘岛攻略...' :
+                          lang === 'zh-hk' ? '🔍 搜尋峇里島攻略...' :
+                                             '🔍 搜尋峇里島攻略...';
+
+const searchSite = lang === 'en'    ? 'gobaligo.id/en/blog' :
+                   lang === 'zh-cn' ? 'gobaligo.id/zh-cn/blog' :
+                   lang === 'zh-hk' ? 'gobaligo.id/zh-hk/blog' :
+                                      'gobaligo.id/blog';
 ---
 
 <header>
@@ -23,12 +33,12 @@ const homeUrl = lang === 'en' ? '/en/blog/' :
     </div>
 
     <form class="search-right" action="https://www.google.com/search" method="get" target="_blank">
-      <input type="hidden" name="sitesearch" value="gobaligo.id" />
+      <input type="hidden" name="sitesearch" value={searchSite} />
       <input
         type="text"
         name="q"
         class="search-input"
-        placeholder="🔍 搜尋峇里島攻略..."
+        placeholder={searchPlaceholder}
       />
     </form>
 
