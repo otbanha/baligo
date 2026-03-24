@@ -1,0 +1,290 @@
+---
+export const prerender = true;
+---
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>首頁視頻 — gobaligo 後台</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+           background: #f5f5f5; color: #222; padding: 1.5rem 1rem; }
+    .container { max-width: 860px; margin: 0 auto; }
+    h1 { font-size: 1.25rem; font-weight: 700; margin-bottom: 1.5rem; }
+
+    /* Auth */
+    #auth-wall { background: #fff; border-radius: 10px; padding: 2rem;
+                 box-shadow: 0 1px 6px rgba(0,0,0,.1); max-width: 360px; }
+    #auth-wall h2 { font-size: 1rem; margin-bottom: 1rem; }
+    .auth-row { display: flex; gap: .5rem; }
+    .auth-row input { flex: 1; padding: .5rem .8rem; border: 1px solid #ccc;
+                      border-radius: 6px; font-size: .95rem; }
+    .auth-err { color: #c53030; font-size: .82rem; margin-top: .5rem; display: none; }
+    #main-ui { display: none; }
+
+    .layout { display: grid; grid-template-columns: 1fr 340px; gap: 1.2rem; align-items: start; }
+    @media (max-width: 700px) { .layout { grid-template-columns: 1fr; } }
+
+    .panel { background: #fff; border-radius: 10px; padding: 1.2rem 1.4rem;
+             box-shadow: 0 1px 6px rgba(0,0,0,.1); }
+    .panel h2 { font-size: .95rem; font-weight: 700; color: #555; margin-bottom: 1rem; }
+
+    /* Video list */
+    #video-list { display: flex; flex-direction: column; gap: .6rem; margin-bottom: 1rem; min-height: 40px; }
+    .video-item {
+      display: flex; align-items: center; gap: .7rem;
+      padding: .5rem .7rem; background: #f9f6f0;
+      border: 1px solid #e5d9c5; border-radius: 8px;
+    }
+    .video-thumb {
+      width: 80px; height: 45px; object-fit: cover;
+      border-radius: 5px; flex-shrink: 0; background: #ddd;
+    }
+    .video-info { flex: 1; min-width: 0; }
+    .video-id { font-size: .8rem; color: #888; font-family: monospace; }
+    .video-actions { display: flex; gap: .25rem; flex-shrink: 0; }
+    .btn-icon { background: none; border: 1px solid #ddd; border-radius: 5px;
+                padding: .18rem .42rem; font-size: .78rem; cursor: pointer;
+                color: #666; transition: background .1s; }
+    .btn-icon:hover { background: #f0f0f0; }
+    .btn-icon.del:hover { background: #fff0f0; border-color: #fca5a5; color: #c53030; }
+    .btn-icon:disabled { opacity: .3; cursor: not-allowed; }
+
+    .empty-hint { font-size: .84rem; color: #bbb; padding: .5rem 0; }
+
+    .save-row { display: flex; align-items: center; gap: .8rem; margin-top: .2rem; }
+    #save-btn { padding: .5rem 1.4rem; background: #1A365D; color: #fff; border: none;
+                border-radius: 8px; font-size: .92rem; font-weight: 700;
+                cursor: pointer; font-family: inherit; }
+    #save-btn:hover { background: #254d85; }
+    #save-btn:disabled { opacity: .45; cursor: not-allowed; }
+    #save-status { font-size: .84rem; }
+
+    /* Add video panel */
+    .add-panel label { font-size: .85rem; font-weight: 600; color: #555;
+                       display: block; margin-bottom: .4rem; }
+    #add-input { width: 100%; padding: .5rem .75rem; border: 1px solid #ccc;
+                 border-radius: 7px; font-size: .9rem; font-family: inherit;
+                 margin-bottom: .6rem; outline: none; }
+    #add-input:focus { border-color: #f97316; }
+    #add-input::placeholder { color: #bbb; }
+    #add-btn { width: 100%; padding: .55rem 1rem; background: #f97316; color: #fff;
+               border: none; border-radius: 8px; font-size: .9rem; font-weight: 700;
+               cursor: pointer; font-family: inherit; transition: background .15s; }
+    #add-btn:hover { background: #e05a00; }
+    #add-preview { margin-top: .8rem; display: none; }
+    #add-preview img { width: 100%; border-radius: 7px; aspect-ratio: 16/9;
+                       object-fit: cover; background: #ddd; }
+    #add-preview .preview-id { font-size: .78rem; color: #888; font-family: monospace;
+                                margin-top: .3rem; }
+    .hint { font-size: .78rem; color: #aaa; margin-top: .4rem; line-height: 1.5; }
+
+    .btn-ocean { background: #1A365D; color: #fff; border: none; border-radius: 6px;
+                 padding: .4rem .9rem; font-size: .85rem; font-weight: 600; cursor: pointer; }
+  </style>
+</head>
+<body>
+<div class="container">
+  <h1>🎬 首頁視頻管理</h1>
+
+  <div id="auth-wall">
+    <h2>請輸入管理密碼</h2>
+    <div class="auth-row">
+      <input type="password" id="token-input" placeholder="Admin token" />
+      <button class="btn-ocean" id="token-submit">進入</button>
+    </div>
+    <div class="auth-err" id="auth-err">密碼錯誤，請再試一次</div>
+  </div>
+
+  <div id="main-ui">
+    <div class="layout">
+
+      <!-- Current video list -->
+      <div class="panel">
+        <h2>目前視頻列表（隨機播放）</h2>
+        <div id="video-list"></div>
+        <div class="save-row">
+          <button id="save-btn">儲存</button>
+          <span id="save-status"></span>
+        </div>
+      </div>
+
+      <!-- Add video -->
+      <div class="panel add-panel">
+        <h2>新增視頻</h2>
+        <label for="add-input">YouTube 網址或 Video ID</label>
+        <input type="text" id="add-input"
+               placeholder="https://youtube.com/watch?v=... 或 ID"
+               autocomplete="off" />
+        <div id="add-preview">
+          <img id="preview-img" src="" alt="預覽" />
+          <div class="preview-id" id="preview-id"></div>
+        </div>
+        <button id="add-btn">+ 加入列表</button>
+        <div class="hint">
+          支援格式：<br>
+          youtube.com/watch?v=<b>ID</b><br>
+          youtu.be/<b>ID</b><br>
+          或直接貼上 Video ID
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script is:inline>
+  var token = '';
+  var videos = []; // array of video ID strings
+  var pendingId = '';
+
+  // ── Auth ───────────────────────────────────────────────────────────────────
+  var saved = sessionStorage.getItem('sl-token');
+  if (saved) { token = saved; unlock(); }
+
+  document.getElementById('token-input').addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') document.getElementById('token-submit').click();
+  });
+  document.getElementById('token-submit').addEventListener('click', async function() {
+    var t = document.getElementById('token-input').value.trim();
+    if (!t) return;
+    var res = await fetch('/api/shortlinks?id=__verify__', {
+      method: 'DELETE', headers: { 'X-Admin-Token': t }
+    });
+    if (res.status === 401) { document.getElementById('auth-err').style.display = 'block'; return; }
+    token = t;
+    sessionStorage.setItem('sl-token', t);
+    document.getElementById('auth-err').style.display = 'none';
+    unlock();
+  });
+
+  async function unlock() {
+    document.getElementById('auth-wall').style.display = 'none';
+    document.getElementById('main-ui').style.display = 'block';
+    await loadVideos();
+    renderList();
+  }
+
+  // ── Load ───────────────────────────────────────────────────────────────────
+  async function loadVideos() {
+    try {
+      var res = await fetch('/api/videos');
+      videos = res.ok ? await res.json() : [];
+    } catch(e) { videos = []; }
+  }
+
+  // ── Render list ────────────────────────────────────────────────────────────
+  function renderList() {
+    var el = document.getElementById('video-list');
+    if (videos.length === 0) {
+      el.innerHTML = '<div class="empty-hint">尚無視頻，從右側新增</div>';
+      return;
+    }
+    el.innerHTML = videos.map(function(id, i) {
+      var thumb = 'https://img.youtube.com/vi/' + esc(id) + '/mqdefault.jpg';
+      return '<div class="video-item">' +
+        '<img class="video-thumb" src="' + thumb + '" alt="" loading="lazy" />' +
+        '<div class="video-info"><div class="video-id">' + esc(id) + '</div></div>' +
+        '<div class="video-actions">' +
+          '<button class="btn-icon" onclick="moveUp(' + i + ')" ' + (i === 0 ? 'disabled' : '') + '>↑</button>' +
+          '<button class="btn-icon" onclick="moveDown(' + i + ')" ' + (i === videos.length - 1 ? 'disabled' : '') + '>↓</button>' +
+          '<button class="btn-icon del" onclick="removeVideo(' + i + ')">✕</button>' +
+        '</div>' +
+      '</div>';
+    }).join('');
+  }
+
+  function moveUp(i) {
+    if (i === 0) return;
+    var tmp = videos[i-1]; videos[i-1] = videos[i]; videos[i] = tmp;
+    renderList();
+  }
+  function moveDown(i) {
+    if (i >= videos.length - 1) return;
+    var tmp = videos[i+1]; videos[i+1] = videos[i]; videos[i] = tmp;
+    renderList();
+  }
+  function removeVideo(i) {
+    videos.splice(i, 1);
+    renderList();
+  }
+
+  // ── Add video ──────────────────────────────────────────────────────────────
+  function extractVideoId(raw) {
+    raw = raw.trim();
+    // youtu.be/ID
+    var m = raw.match(/youtu\.be\/([A-Za-z0-9_-]{11})/);
+    if (m) return m[1];
+    // ?v=ID or &v=ID
+    m = raw.match(/[?&]v=([A-Za-z0-9_-]{11})/);
+    if (m) return m[1];
+    // /embed/ID or /shorts/ID
+    m = raw.match(/\/(?:embed|shorts)\/([A-Za-z0-9_-]{11})/);
+    if (m) return m[1];
+    // raw 11-char ID
+    if (/^[A-Za-z0-9_-]{11}$/.test(raw)) return raw;
+    return null;
+  }
+
+  var addInput = document.getElementById('add-input');
+  var addPreview = document.getElementById('add-preview');
+  var previewImg = document.getElementById('preview-img');
+  var previewIdEl = document.getElementById('preview-id');
+
+  addInput.addEventListener('input', function() {
+    var id = extractVideoId(this.value);
+    pendingId = id || '';
+    if (id) {
+      previewImg.src = 'https://img.youtube.com/vi/' + id + '/mqdefault.jpg';
+      previewIdEl.textContent = 'Video ID: ' + id;
+      addPreview.style.display = 'block';
+    } else {
+      addPreview.style.display = 'none';
+    }
+  });
+
+  document.getElementById('add-btn').addEventListener('click', function() {
+    if (!pendingId) { alert('請輸入有效的 YouTube 網址或 Video ID'); return; }
+    if (videos.includes(pendingId)) { alert('此視頻已在列表中'); return; }
+    videos.push(pendingId);
+    renderList();
+    addInput.value = '';
+    addPreview.style.display = 'none';
+    pendingId = '';
+  });
+
+  // ── Save ───────────────────────────────────────────────────────────────────
+  document.getElementById('save-btn').addEventListener('click', async function() {
+    var btn = document.getElementById('save-btn');
+    var status = document.getElementById('save-status');
+    btn.disabled = true;
+    status.textContent = '儲存中…'; status.style.color = '#888';
+
+    try {
+      var res = await fetch('/api/videos', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'X-Admin-Token': token },
+        body: JSON.stringify(videos),
+      });
+      var data = await res.json();
+      if (data.ok) {
+        status.textContent = '✓ 已儲存！首頁即時生效'; status.style.color = '#38a169';
+      } else {
+        status.textContent = '❌ ' + (data.error || '失敗'); status.style.color = '#c53030';
+      }
+    } catch(e) {
+      status.textContent = '❌ 網路錯誤'; status.style.color = '#c53030';
+    }
+    btn.disabled = false;
+    setTimeout(function() { status.textContent = ''; }, 4000);
+  });
+
+  function esc(s) {
+    return String(s || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+</script>
+</body>
+</html>

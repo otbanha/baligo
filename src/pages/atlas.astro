@@ -142,6 +142,7 @@ export const prerender = true;
     <button class="tab"        data-tab="hot">      <span class="icon">🔥</span> 本週熱門</button>
     <button class="tab"        data-tab="featured"><span class="icon">⭐</span> 編輯精選</button>
     <button class="tab"        data-tab="cf">      <span class="icon">☁️</span> Cloudflare</button>
+    <button class="tab"        data-tab="videos">   <span class="icon">🎬</span> 首頁視頻</button>
     <button class="tab"        data-tab="deepinfra"><span class="icon">🤖</span> DeepInfra</button>
     <div class="tabbar-spacer"></div>
     <a class="cms-btn" href="/admin/#/collections/blog" target="_blank" rel="noopener">
@@ -175,6 +176,11 @@ export const prerender = true;
     <!-- 編輯精選 -->
     <div class="panel" id="panel-featured">
       <iframe id="iframe-featured" title="編輯精選"></iframe>
+    </div>
+
+    <!-- 首頁視頻 -->
+    <div class="panel" id="panel-videos">
+      <iframe id="iframe-videos" title="首頁視頻管理"></iframe>
     </div>
 
     <!-- Cloudflare (external — cannot iframe) -->
@@ -225,6 +231,7 @@ export const prerender = true;
     shorturl: '/go/',
     hot:      '/admin/hot/',
     featured: '/admin/featured/',
+    videos:   '/admin/videos/',
   };
 
   var loaded = {};

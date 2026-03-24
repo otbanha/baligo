@@ -330,9 +330,14 @@ const socialLinks = [
       });
     }
 
-    // 初始化影片
-    const randomVideo = youtubeVideos[Math.floor(Math.random() * youtubeVideos.length)];
-    document.getElementById('yt-iframe').src = `https://www.youtube.com/embed/${randomVideo}?rel=0`;
+    // 初始化影片（從 API 取得，fallback 到靜態列表）
+    let activeVideos = youtubeVideos;
+    fetch('/api/videos').then(r => r.ok ? r.json() : null).then(data => {
+      if (Array.isArray(data) && data.length > 0) activeVideos = data;
+    }).catch(() => {}).finally(() => {
+      const randomVideo = activeVideos[Math.floor(Math.random() * activeVideos.length)];
+      document.getElementById('yt-iframe').src = `https://www.youtube.com/embed/${randomVideo}?rel=0`;
+    });
 
     // 亂數顯示住宿
     if (accommodations.length > 0) {
@@ -488,7 +493,7 @@ const socialLinks = [
     function filterCategory(cat) {
       window.history.pushState({ cat, page: 1 }, '', buildUrl(cat, 1));
       applyState(cat, 1);
-      const newVideo = youtubeVideos[Math.floor(Math.random() * youtubeVideos.length)];
+      const newVideo = activeVideos[Math.floor(Math.random() * activeVideos.length)];
       const iframe = document.getElementById('yt-iframe');
       if (iframe) iframe.src = `https://www.youtube.com/embed/${newVideo}?rel=0`;
     }
