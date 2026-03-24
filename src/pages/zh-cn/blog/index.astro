@@ -26,11 +26,32 @@ const allPosts = (await getCollection('zh-cn'))
   }))
   .sort((a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf());
 
+// 繁體 → 簡體分類名稱對應
+const CAT_ZH_CN: Record<string, string> = {
+  '新手指南': '新手指南',
+  '住宿推薦': '住宿推荐',
+  '住宿推荐': '住宿推荐',
+  '峇里島分區攻略': '峇里岛分区攻略',
+  '峇里岛分区攻略': '峇里岛分区攻略',
+  '簽證通關': '签证通关',
+  '签证通关': '签证通关',
+  '叫車包車': '叫车包车',
+  '叫车包车': '叫车包车',
+  '家庭親子': '家庭亲子',
+  '家庭亲子': '家庭亲子',
+  '遊記分享': '游记分享',
+  '游记分享': '游记分享',
+  '美食景點活動': '美食景点活动',
+  '美食景点活动': '美食景点活动',
+  '新聞存檔': '新闻存档',
+  '新闻存档': '新闻存档',
+};
+
 const categoryOrder = [
-  '新手指南','住宿推荐','峇里岛分区攻略','签证通关',
+  '新手指南','住宿推薦','峇里島分區攻略','簽證通關',
+  '叫車包車','家庭親子','遊記分享','美食景點活動','新聞存檔',
+  '住宿推荐','峇里岛分区攻略','签证通关',
   '叫车包车','家庭亲子','游记分享','美食景点活动','新闻存档',
-  // fallback to zh-tw names if not translated
-  '住宿推薦','峇里島分區攻略','簽證通關','叫車包車','家庭親子','遊記分享','美食景點活動','新聞存檔',
 ];
 
 const allCategories = [...new Set(allPosts.flatMap(p => getCategories(p.data.category)).filter(Boolean))];
@@ -84,7 +105,7 @@ const allPostsData = allPosts.map(p => ({
             {categories.map(cat => (
               <li>
                 <button class="category-item" data-category={cat}>
-                  <span class="cat-name">{cat}</span>
+                  <span class="cat-name">{CAT_ZH_CN[cat] ?? cat}</span>
                   <span class="cat-count">{categoryCounts[cat]}</span>
                 </button>
               </li>
@@ -105,7 +126,7 @@ const allPostsData = allPosts.map(p => ({
               }
               {post.data.category && (
                 <span class="category-badge">
-                  {Array.isArray(post.data.category) ? post.data.category[0] : post.data.category}
+                  {CAT_ZH_CN[Array.isArray(post.data.category) ? post.data.category[0] : post.data.category] ?? (Array.isArray(post.data.category) ? post.data.category[0] : post.data.category)}
                 </span>
               )}
             </div>
