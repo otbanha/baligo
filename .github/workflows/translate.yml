@@ -59,9 +59,8 @@ jobs:
         uses: actions/cache@v4
         with:
           path: .translation-cache.json
-          key: translation-cache-${{ github.sha }}
-          restore-keys: |
-            translation-cache-
+          key: translation-cache-persistent
+          save-always: true
 
       - name: 執行翻譯
         if: env.SKIP != 'true'
