@@ -69,6 +69,34 @@ export const prerender = true;
     .actions { display: flex; gap: .6rem; align-items: center; margin-bottom: 1.5rem; }
     #upload-all-btn { display: none; }
 
+    /* Carousel code block */
+    #carousel-box {
+      display: none;
+      background: #1a2535; border: 1px solid #2e4a6e; border-radius: 10px;
+      padding: 1rem 1.2rem; margin-bottom: 1.2rem;
+    }
+    #carousel-box .cb-header {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: .7rem;
+    }
+    #carousel-box .cb-title {
+      font-size: .9rem; font-weight: 700; color: #C5A059;
+    }
+    #carousel-box .cb-btns { display: flex; gap: .5rem; }
+    #carousel-box textarea {
+      width: 100%; background: #111c2a; color: #a8d4a8;
+      border: 1px solid #2e4a6e; border-radius: 6px;
+      font-family: monospace; font-size: .8rem; line-height: 1.6;
+      padding: .6rem .8rem; resize: vertical; min-height: 80px;
+      outline: none;
+    }
+    #carousel-box .cb-hint {
+      font-size: .75rem; color: #6b7a8d; margin-top: .5rem;
+    }
+    .btn-green { background: #276749; color: #fff; }
+    .btn-green.copied { background: #38a169; }
+    .btn-slate { background: #374151; color: #d1d5db; }
+
     .tip { background: #fffbeb; border: 1px solid #fde68a; border-radius: 8px;
            padding: .8rem 1rem; font-size: .82rem; color: #92400e; margin-top: 1.5rem; }
     .tip strong { display: block; margin-bottom: .3rem; }
@@ -99,6 +127,19 @@ export const prerender = true;
     <div class="actions">
       <button class="btn btn-primary" id="upload-all-btn">上傳全部</button>
       <span id="action-status" style="font-size:.85rem;color:#888;"></span>
+    </div>
+
+    <!-- Carousel code box（上傳完 2+ 張後自動出現） -->
+    <div id="carousel-box">
+      <div class="cb-header">
+        <span class="cb-title">🎠 輪播 Markdown Code</span>
+        <div class="cb-btns">
+          <button class="btn btn-slate" id="cb-clear-btn">清除</button>
+          <button class="btn btn-green" id="cb-copy-btn">複製全部</button>
+        </div>
+      </div>
+      <textarea id="cb-textarea" readonly></textarea>
+      <div class="cb-hint">貼到文章 markdown 中，連續圖片會自動變輪播（不能有空行）</div>
     </div>
 
     <div id="previews"></div>
@@ -276,7 +317,59 @@ export const prerender = true;
     uploadAllBtn.disabled = false;
     pendingFiles = pendingFiles.filter(f => f.status === 'pending');
     uploadAllBtn.style.display = pendingFiles.length ? 'block' : 'none';
+    updateCarouselBox();
   }
+
+  // ── Carousel code box ─────────────────────────────────────────────────────
+  const carouselBox  = document.getElementById('carousel-box');
+  const cbTextarea   = document.getElementById('cb-textarea');
+  const cbCopyBtn    = document.getElementById('cb-copy-btn');
+  const cbClearBtn   = document.getElementById('cb-clear-btn');
+
+  function updateCarouselBox() {
+    const doneUrls = pendingFiles
+      .filter(f => f.status === 'ok' && f.url)
+      .map(f => `![raw-image](${f.url})`);
+
+    // Also grab any already-rendered items in the DOM that have a URL
+    document.querySelectorAll('.preview-item input[type=text]').forEach(inp => {
+      if (inp.value && !doneUrls.includes(`![raw-image](${inp.value})`)) {
+        doneUrls.push(`![raw-image](${inp.value})`);
+      }
+    });
+
+    const unique = [...new Set(doneUrls)];
+
+    if (unique.length >= 2) {
+      cbTextarea.value = unique.join('\n');
+      cbTextarea.rows = Math.min(unique.length + 1, 12);
+      carouselBox.style.display = 'block';
+    } else if (unique.length === 1) {
+      cbTextarea.value = unique[0];
+      cbTextarea.rows = 2;
+      carouselBox.style.display = 'block';
+    } else {
+      carouselBox.style.display = 'none';
+    }
+  }
+
+  cbCopyBtn.addEventListener('click', () => {
+    navigator.clipboard.writeText(cbTextarea.value).catch(() => {});
+    cbCopyBtn.textContent = '✓ 已複製！';
+    cbCopyBtn.classList.add('copied');
+    setTimeout(() => {
+      cbCopyBtn.textContent = '複製全部';
+      cbCopyBtn.classList.remove('copied');
+    }, 2000);
+  });
+
+  cbClearBtn.addEventListener('click', () => {
+    pendingFiles = [];
+    document.getElementById('previews').innerHTML = '';
+    carouselBox.style.display = 'none';
+    actionStatus.textContent = '';
+    uploadAllBtn.style.display = 'none';
+  });
 </script>
 </body>
 </html>
