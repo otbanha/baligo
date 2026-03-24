@@ -112,6 +112,9 @@ const activePromos = allPromos.filter(p => {
 });
 const promosJson = JSON.stringify(activePromos.map(p => ({
   title: p.data.title,
+  title_en: p.data.title_en || null,
+  title_zh_cn: p.data.title_zh_cn || null,
+  title_zh_hk: p.data.title_zh_hk || null,
   url: p.data.url,
   coverImage: p.data.coverImage || null,
 })));
@@ -242,7 +245,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
 
   </div>
 
-<script define:vars={{ embedMap, promosJson }}>
+<script define:vars={{ embedMap, promosJson, lang }}>
 // 影片嵌入
 window.addEventListener('load', () => {
   document.querySelectorAll('.video-placeholder').forEach(el => {
@@ -277,14 +280,28 @@ window.addEventListener('load', () => {
   const block = document.getElementById('promo-block');
   if (!block) return;
 
+  // 依語系選標題
+  const promoTitle = (lang === 'en' && promo.title_en) ? promo.title_en
+    : (lang === 'zh-cn' && promo.title_zh_cn) ? promo.title_zh_cn
+    : (lang === 'zh-hk' && promo.title_zh_hk) ? promo.title_zh_hk
+    : promo.title;
+
+  // 依語系本地化連結
+  const promoUrl = (lang && lang !== 'zh-tw' && promo.url.startsWith('/blog/'))
+    ? `/${lang}${promo.url}` : promo.url;
+
+  const ctaText = lang === 'en' ? 'View Offer →'
+    : lang === 'zh-cn' ? '查看优惠 →'
+    : '查看優惠 →';
+
   block.innerHTML = `
-    <a href="${promo.url}" target="_blank" rel="noopener" class="promo-card">
+    <a href="${promoUrl}" target="_blank" rel="noopener" class="promo-card">
       <div class="promo-body">
-        <p class="promo-title">${promo.title}</p>
-        <span class="promo-cta">查看優惠 →</span>
+        <p class="promo-title">${promoTitle}</p>
+        <span class="promo-cta">${ctaText}</span>
       </div>
       ${promo.coverImage
-        ? `<div class="promo-image"><img src="${promo.coverImage}" alt="${promo.title}" loading="lazy" /></div>`
+        ? `<div class="promo-image"><img src="${promo.coverImage}" alt="${promoTitle}" loading="lazy" /></div>`
         : ''}
     </a>
   `;

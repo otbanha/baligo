@@ -81,7 +81,10 @@ collections:
     sort_direction: Ascending
     summary: "{{title}} — 截止：{{expiresAt}}"
     fields:
-      - { label: 標題（自動抓取後可修改）, name: title, widget: string }
+      - { label: 標題（繁體中文）, name: title, widget: string }
+      - { label: "標題 English（選填）", name: title_en, widget: string, required: false }
+      - { label: "標題简体中文（選填）", name: title_zh_cn, widget: string, required: false }
+      - { label: "標題香港繁體（選填）", name: title_zh_hk, widget: string, required: false }
       - { label: 連結網址, name: url, widget: string }
       - { label: 封面圖網址（自動抓取後可修改）, name: coverImage, widget: string, required: false }
       - { label: 備注（內部用）, name: note, widget: text, required: false }

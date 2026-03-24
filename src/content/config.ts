@@ -33,6 +33,9 @@ const promotions = defineCollection({
   type: 'content',
   schema: z.object({
     title: z.string(),
+    title_en: z.string().optional(),
+    title_zh_cn: z.string().optional(),
+    title_zh_hk: z.string().optional(),
     url: z.string(),
     coverImage: z.string().optional(),
     note: z.string().optional(),
