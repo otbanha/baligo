@@ -62,8 +62,9 @@ export async function onRequest({ request, next }) {
     return res;
   }
 
-  // 靜態資源、admin、atlas 等不處理
+  // API、靜態資源、admin 等不處理
   if (
+    pathname.startsWith('/api/') ||
     pathname.startsWith('/_astro/') ||
     pathname.startsWith('/admin/') ||
     pathname.startsWith('/atlas') ||

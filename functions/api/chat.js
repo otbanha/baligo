@@ -244,8 +244,34 @@ async function msgCacheKey(msg) {
   return 'qc:' + Array.from(new Uint8Array(buf)).slice(0, 10).map(b => b.toString(16).padStart(2, '0')).join('');
 }
 
-function detectLanguage(text) {
+function detectLanguage(text, pageLang) {
+  // pageLang 優先（來自 <html lang>）
+  if (pageLang) {
+    const l = pageLang.toLowerCase();
+    if (l === 'zh-cn') return 'zh-CN';
+    if (l === 'zh-hk') return 'zh-HK';
+    if (l === 'en') return 'en';
+    if (l.startsWith('zh')) return 'zh-TW';
+  }
+  // fallback：從問題文字判斷
   return /[\u4e00-\u9fff]/.test(text) ? 'zh-TW' : 'en';
+}
+
+/** 依語系取得文章 URL prefix */
+function getLangUrlPrefix(lang) {
+  if (lang === 'zh-CN') return '/zh-cn';
+  if (lang === 'zh-HK') return '/zh-hk';
+  if (lang === 'en') return '/en';
+  return ''; // zh-TW 預設路徑
+}
+
+/** 將 /blog/xxx/ 轉換為語系版本 URL */
+function localizeUrl(url, lang) {
+  const prefix = getLangUrlPrefix(lang);
+  if (!prefix) return url;
+  // /blog/xxx/ → /zh-cn/blog/xxx/
+  if (url.startsWith('/blog/')) return prefix + url;
+  return url;
 }
 
 function findPinnedArticles(query) {
@@ -292,9 +318,27 @@ function buildSystemPrompt(lang, relatedArticles, customIntro) {
     if (lang === 'en') {
       return `You are "Baligo AI" from gobaligo.id.
 STRICT RULE: You MUST output ONLY the article links below — do not answer the question yourself.
-Start with one short sentence introducing the links, then list them in Markdown format.
+Start with one short sentence in English introducing the links, then list them.
+Translate each link's display text into English naturally. Keep the URL exactly as provided.
+Format: [English Title](URL)
 
 Articles:
+${linkList}`;
+    }
+    if (lang === 'zh-CN') {
+      const intro = customIntro
+        ? `先说「${customIntro}」，再逐行列出下方文章链接。`
+        : '用一句话引导读者，再逐行列出下方文章链接。';
+      return `你是「峇里岛知识库AI」，代表 gobaligo.id。
+
+【强制规则】：
+1. 不可自行回答问题细节，一律引导至以下文章。
+2. 回复格式：${intro}
+3. 每个链接单独一行，格式为 [标题](URL)。
+4. 禁止提到「客服」「联系我们」——本站无客服。
+5. 若问到报价，只说「直接咨询司机」。
+
+相关文章：
 ${linkList}`;
     }
     const intro = customIntro
@@ -317,6 +361,16 @@ ${linkList}`;
     return `You are "Baligo AI", a Bali travel expert from gobaligo.id. Answer in English, concisely (under 80 words).
 Answer questions related to Bali travel, including departure logistics, returning home, or transit questions that affect Bali trip planning.
 Do not make up specific details; if unsure, say so.`;
+  }
+
+  if (lang === 'zh-CN') {
+    return `你是「峇里岛知识库AI」，代表旅游网站 gobaligo.id，专门回答巴厘岛旅游相关问题。
+请用简体中文回答，语气亲切自然，简洁（80字以内）。
+不确定的信息请如实说明，不要捏造细节。
+
+【严格禁止】：
+- 绝对不可提到「客服」「联系我们」——本站没有客服。
+- 若问到包车报价，只能说「直接咨询司机报价」。`;
   }
 
   return `你是「峇里島知識庫AI」，代表旅遊網站 gobaligo.id，專門回答峇里島旅遊相關問題。
@@ -356,10 +410,11 @@ export async function onRequestPost(context) {
     return Response.json({ error: '尚未設定 DEEPINFRA_API_KEY' }, { status: 503, headers: corsHeaders });
   }
 
-  let message;
+  let message, pageLang;
   try {
     const body = await request.json();
     message = (body.message || '').trim().slice(0, INPUT_MAX_CHARS);
+    pageLang = body.lang || '';
   } catch {
     return Response.json({ error: '請求格式錯誤' }, { status: 400, headers: corsHeaders });
   }
@@ -391,11 +446,14 @@ export async function onRequestPost(context) {
     if (indexRes.ok) articles = await indexRes.json();
   } catch { /* silently fail */ }
 
-  const lang = detectLanguage(message);
+  const lang = detectLanguage(message, pageLang);
   const { articles: pinned, customIntro } = findPinnedArticles(message);
   const fromIndex = findRelatedArticles(message, articles);
   const pinnedUrls = new Set(pinned.map(a => a.url));
-  const relatedArticles = [...pinned, ...fromIndex.filter(a => !pinnedUrls.has(a.url))].slice(0, 3);
+  // 將文章 URL 轉換為對應語系版本
+  const relatedArticles = [...pinned, ...fromIndex.filter(a => !pinnedUrls.has(a.url))]
+    .slice(0, 3)
+    .map(a => ({ ...a, url: localizeUrl(a.url, lang) }));
   const systemPrompt = buildSystemPrompt(lang, relatedArticles, customIntro);
 
   // ── DeepInfra / DeepSeek API (OpenAI-compatible) ─────────────────────────────

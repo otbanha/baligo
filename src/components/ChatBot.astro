@@ -127,10 +127,11 @@
     addTyping();
 
     try {
+      const pageLang = document.documentElement.lang || 'zh-TW';
       const res = await fetch(API_URL, {
         method: 'POST',
         headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify({ message: text }),
+        body: JSON.stringify({ message: text, lang: pageLang }),
       });
       const data = await res.json();
       removeTyping();
