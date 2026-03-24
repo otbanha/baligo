@@ -91,10 +91,11 @@ collections:
       - { label: 截止日期, name: expiresAt, widget: datetime, required: false, hint: "不填表示長期有效" }
 
   - name: blocks
-    label: 內容區塊
+    label: 內容區塊（繁體中文）
     folder: src/content/blocks
     create: true
     slug: "{{slug}}"
+    filter: {field: title, pattern: "^(?!.*\\(EN\\)|.*\\(ZH-CN\\))"}
     fields:
       - { label: 區塊名稱, name: title, widget: string }
       - label: 區塊類型
@@ -112,3 +113,49 @@ collections:
         required: false
         hint: "只有亂數類型才需要填，例如從20個項目中隨機顯示5個"
       - { label: 內容, name: body, widget: markdown }
+
+  - name: blocks-en
+    label: 內容區塊（English）
+    folder: src/content/blocks/en
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Block Name, name: title, widget: string }
+      - label: Block Type
+        name: type
+        widget: select
+        options:
+          - { label: Normal Content, value: normal }
+          - { label: Card Grid (Random), value: random-cards }
+          - { label: Text List (Random), value: random-list }
+        default: normal
+      - label: Random Display Count
+        name: randomCount
+        widget: number
+        default: 5
+        required: false
+        hint: "Only needed for random types, e.g. show 5 out of 20 items"
+      - { label: Content, name: body, widget: markdown }
+
+  - name: blocks-zh-cn
+    label: 內容區塊（简体中文）
+    folder: src/content/blocks/zh-cn
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: 区块名称, name: title, widget: string }
+      - label: 区块类型
+        name: type
+        widget: select
+        options:
+          - { label: 一般内容, value: normal }
+          - { label: 卡片网格（乱数）, value: random-cards }
+          - { label: 文字列表（乱数）, value: random-list }
+        default: normal
+      - label: 乱数显示数量
+        name: randomCount
+        widget: number
+        default: 5
+        required: false
+        hint: "只有乱数类型才需要填，例如从20个项目中随机显示5个"
+      - { label: 内容, name: body, widget: markdown }

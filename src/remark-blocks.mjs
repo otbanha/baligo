@@ -3,27 +3,40 @@ import { join } from 'path';
 import matter from 'gray-matter';
 
 export function remarkBlocks(embedMap = {}) {
-  return (tree) => {
-    const blocksDir = join(process.cwd(), 'src/content/blocks');
-    let blocks = {};
+  return (tree, vfile) => {
+    const baseDir = join(process.cwd(), 'src/content/blocks');
 
-    try {
-      const files = readdirSync(blocksDir);
-      for (const file of files) {
-        if (!file.endsWith('.md')) continue;
-        const raw = readFileSync(join(blocksDir, file), 'utf-8');
-        const { data, content } = matter(raw);
-        const slug = file.replace('.md', '');
-        blocks[slug] = {
-          type: data.type || 'normal',
-          randomCount: data.randomCount || 5,
-          content: content.trim(),
-          title: data.title || '',
-        };
-      }
-    } catch (e) {
-      return;
+    // Determine language from the source file path
+    const filePath = vfile?.history?.[0] || vfile?.path || '';
+    let lang = 'default';
+    if (filePath.includes('/content/en/'))     lang = 'en';
+    else if (filePath.includes('/content/zh-cn/')) lang = 'zh-cn';
+    else if (filePath.includes('/content/zh-hk/')) lang = 'zh-hk';
+
+    function loadBlocksFromDir(dir) {
+      const blocks = {};
+      try {
+        const files = readdirSync(dir);
+        for (const file of files) {
+          if (!file.endsWith('.md')) continue;
+          const raw = readFileSync(join(dir, file), 'utf-8');
+          const { data, content } = matter(raw);
+          const slug = file.replace('.md', '');
+          blocks[slug] = {
+            type: data.type || 'normal',
+            randomCount: data.randomCount || 5,
+            content: content.trim(),
+            title: data.title || '',
+          };
+        }
+      } catch (e) { /* dir may not exist */ }
+      return blocks;
     }
+
+    // Load default blocks, then overlay language-specific ones
+    const defaultBlocks = loadBlocksFromDir(baseDir);
+    const langBlocks = lang !== 'default' ? loadBlocksFromDir(join(baseDir, lang)) : {};
+    const blocks = { ...defaultBlocks, ...langBlocks };
 
     function mdToHtml(content) {
       return content
