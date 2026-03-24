@@ -12,9 +12,4 @@ export default defineConfig({
     format: 'directory'
   },
   output: 'static',
-  i18n: {
-    defaultLocale: 'zh-tw',
-    locales: ['zh-tw', 'zh-cn', 'zh-hk', 'en'],
-    routing: { prefixDefaultLocale: false },
-  },
 });

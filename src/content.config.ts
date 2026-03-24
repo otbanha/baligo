@@ -34,4 +34,36 @@ const promotions = defineCollection({
   }),
 });
 
-export const collections = { blog, blocks, promotions };
+const translatedSchema = z.object({
+  title: z.string(),
+  description: z.string().optional(),
+  pubDate: z.coerce.date().optional(),
+  updatedDate: z.coerce.date().optional(),
+  heroImage: z.string().optional(),
+  category: z.union([z.string(), z.array(z.string())]).optional(),
+  tags: z.array(z.string()).optional(),
+  originalUrl: z.string().optional(),
+  lang: z.string().optional(),
+});
+
+const zhcn = defineCollection({
+  loader: glob({ base: './src/content/zh-cn', pattern: '**/*.md' }),
+  schema: translatedSchema,
+});
+
+const zhhk = defineCollection({
+  loader: glob({ base: './src/content/zh-hk', pattern: '**/*.md' }),
+  schema: translatedSchema,
+});
+
+const en = defineCollection({
+  loader: glob({ base: './src/content/en', pattern: '**/*.md' }),
+  schema: translatedSchema,
+});
+
+export const collections = {
+  blog, blocks, promotions,
+  'zh-cn': zhcn,
+  'zh-hk': zhhk,
+  'en': en,
+};
