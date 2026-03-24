@@ -429,20 +429,21 @@ window.addEventListener('load', () => {
       img.addEventListener('click', () => openLightbox(img.src, img.alt));
     }
 
-    // ── 判斷 <p> 是否只含一張 <img>（忽略空白文字節點） ──
-    function isSingleImgPara(el: Element | null): el is HTMLParagraphElement {
-      if (!el || el.tagName !== 'P') return false;
+    // ── 取出 <p> 中所有 img（忽略空白文字節點）──────────
+    function getImgsOnly(el: Element): HTMLImageElement[] | null {
       const kids = Array.from(el.childNodes).filter(
         n => !(n.nodeType === 3 && !(n as Text).textContent!.trim())
       );
-      return kids.length === 1 && (kids[0] as Element).tagName === 'IMG';
+      if (kids.length === 0) return null;
+      if (kids.every(k => (k as Element).tagName === 'IMG'))
+        return kids as HTMLImageElement[];
+      return null;
     }
 
-    // ── 建立輪播 ──────────────────────────────────────────
-    function buildCarousel(paras: HTMLParagraphElement[]) {
-      const imgs = paras.map(p => p.querySelector('img') as HTMLImageElement);
-      const parent = paras[0].parentNode!;
-      const anchor = paras[0];
+    // ── 建立輪播（接受圖片陣列 + 要替換的元素陣列）────────
+    function buildCarousel(imgs: HTMLImageElement[], toRemove: Element[]) {
+      const parent = toRemove[0].parentNode!;
+      const anchor = toRemove[0];
       const total = imgs.length;
 
       // 外框
@@ -502,9 +503,9 @@ window.addEventListener('load', () => {
       footer.appendChild(counter);
       carousel.appendChild(footer);
 
-      // 插入並移除原 <p> 標籤
+      // 插入並移除原來的元素
       parent.insertBefore(carousel, anchor);
-      paras.forEach(p => p.remove());
+      toRemove.forEach(el => el.remove());
 
       // ── 輪播邏輯 ──
       let current = 0;
@@ -544,23 +545,36 @@ window.addEventListener('load', () => {
 
     const visited = new WeakSet<Element>();
 
-    // 找出所有單圖 <p>，分組處理連續者
-    Array.from(prose.querySelectorAll('p')).filter(isSingleImgPara).forEach(para => {
+    Array.from(prose.querySelectorAll('p')).forEach(para => {
       if (visited.has(para)) return;
 
-      // 往下收集連續的單圖 <p>
-      const group: HTMLParagraphElement[] = [para];
-      let sib = para.nextElementSibling;
-      while (sib && isSingleImgPara(sib)) {
-        group.push(sib);
-        sib = sib.nextElementSibling;
-      }
-      group.forEach(p => visited.add(p));
+      const imgs = getImgsOnly(para);
+      if (!imgs) return; // 含文字或非圖片內容 → 略過
 
-      if (group.length >= 2) {
-        buildCarousel(group);
+      visited.add(para);
+
+      if (imgs.length >= 2) {
+        // 情況 A：單一 <p> 內含多張圖（無空行，最常見）
+        buildCarousel(imgs, [para]);
       } else {
-        wrapImg(para.querySelector('img') as HTMLImageElement);
+        // 情況 B：<p> 只有一張圖 → 往下收集連續的同類 <p>
+        const group: Element[] = [para];
+        let sib = para.nextElementSibling;
+        while (sib) {
+          const sibImgs = getImgsOnly(sib);
+          if (!sibImgs || sibImgs.length !== 1) break;
+          group.push(sib);
+          visited.add(sib);
+          sib = sib.nextElementSibling;
+        }
+
+        if (group.length >= 2) {
+          // 多個單圖 <p> 連續排列（有空行）
+          const allImgs = group.map(p => p.querySelector('img') as HTMLImageElement);
+          buildCarousel(allImgs, group);
+        } else {
+          wrapImg(imgs[0]);
+        }
       }
     });
 
