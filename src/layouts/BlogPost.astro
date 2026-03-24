@@ -392,8 +392,9 @@ window.addEventListener('load', () => {
 </script>
 
 <script>
-  // 圖片燈箱 + 浮水印包裝
+  // 圖片燈箱 + 浮水印包裝 + 連續圖片自動輪播
   (function () {
+    // ── 燈箱 ──────────────────────────────────────────────
     function openLightbox(src: string, alt: string) {
       const overlay = document.createElement('div');
       overlay.className = 'lb-overlay';
@@ -413,21 +414,158 @@ window.addEventListener('load', () => {
       };
       const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') close(); };
       overlay.addEventListener('click', (e) => { if (e.target === overlay) close(); });
-      (overlay.querySelector('.lb-close') as HTMLElement).addEventListener('click', close);
+      (overlay.querySelector('.lb-close') as HTMLElement)!.addEventListener('click', close);
       document.addEventListener('keydown', onKey);
     }
 
-    document.querySelectorAll<HTMLImageElement>('.prose img').forEach(img => {
-      // 包 wrapper（浮水印用）
+    // ── 圖片 wrapper（浮水印 + 燈箱） ────────────────────
+    function wrapImg(img: HTMLImageElement) {
+      if (img.closest('.img-wrap')) return;
       const wrap = document.createElement('div');
       wrap.className = 'img-wrap';
       img.parentNode!.insertBefore(wrap, img);
       wrap.appendChild(img);
-
-      // 點擊放大
       img.style.cursor = 'zoom-in';
       img.addEventListener('click', () => openLightbox(img.src, img.alt));
+    }
+
+    // ── 判斷 <p> 是否只含一張 <img>（忽略空白文字節點） ──
+    function isSingleImgPara(el: Element | null): el is HTMLParagraphElement {
+      if (!el || el.tagName !== 'P') return false;
+      const kids = Array.from(el.childNodes).filter(
+        n => !(n.nodeType === 3 && !(n as Text).textContent!.trim())
+      );
+      return kids.length === 1 && (kids[0] as Element).tagName === 'IMG';
+    }
+
+    // ── 建立輪播 ──────────────────────────────────────────
+    function buildCarousel(paras: HTMLParagraphElement[]) {
+      const imgs = paras.map(p => p.querySelector('img') as HTMLImageElement);
+      const parent = paras[0].parentNode!;
+      const anchor = paras[0];
+      const total = imgs.length;
+
+      // 外框
+      const carousel = document.createElement('div');
+      carousel.className = 'carousel';
+
+      // 捲動軌道
+      const track = document.createElement('div');
+      track.className = 'carousel-track';
+      carousel.appendChild(track);
+
+      imgs.forEach(img => {
+        const slide = document.createElement('div');
+        slide.className = 'carousel-slide';
+        const wrap = document.createElement('div');
+        wrap.className = 'img-wrap';
+        img.style.cursor = 'zoom-in';
+        img.addEventListener('click', () => openLightbox(img.src, img.alt));
+        wrap.appendChild(img);
+        slide.appendChild(wrap);
+        track.appendChild(slide);
+      });
+
+      // Prev / Next 按鈕（覆蓋在圖片上）
+      const prevBtn = document.createElement('button');
+      prevBtn.className = 'carousel-prev';
+      prevBtn.innerHTML = '&#8249;';
+      prevBtn.setAttribute('aria-label', 'Previous');
+      carousel.appendChild(prevBtn);
+
+      const nextBtn = document.createElement('button');
+      nextBtn.className = 'carousel-next';
+      nextBtn.innerHTML = '&#8250;';
+      nextBtn.setAttribute('aria-label', 'Next');
+      carousel.appendChild(nextBtn);
+
+      // Footer：點點 + 計數
+      const footer = document.createElement('div');
+      footer.className = 'carousel-footer';
+
+      const dots = document.createElement('div');
+      dots.className = 'carousel-dots';
+
+      const counter = document.createElement('span');
+      counter.className = 'carousel-counter';
+      counter.textContent = `1 / ${total}`;
+
+      for (let i = 0; i < total; i++) {
+        const dot = document.createElement('button');
+        dot.className = 'carousel-dot' + (i === 0 ? ' active' : '');
+        dot.setAttribute('aria-label', `Slide ${i + 1}`);
+        dot.addEventListener('click', () => goTo(i));
+        dots.appendChild(dot);
+      }
+
+      footer.appendChild(dots);
+      footer.appendChild(counter);
+      carousel.appendChild(footer);
+
+      // 插入並移除原 <p> 標籤
+      parent.insertBefore(carousel, anchor);
+      paras.forEach(p => p.remove());
+
+      // ── 輪播邏輯 ──
+      let current = 0;
+      const allDots = Array.from(dots.querySelectorAll<HTMLButtonElement>('.carousel-dot'));
+
+      function goTo(idx: number) {
+        current = ((idx % total) + total) % total;
+        track.style.transform = `translateX(-${current * 100}%)`;
+        allDots.forEach((d, i) => d.classList.toggle('active', i === current));
+        counter.textContent = `${current + 1} / ${total}`;
+      }
+
+      prevBtn.addEventListener('click', () => goTo(current - 1));
+      nextBtn.addEventListener('click', () => goTo(current + 1));
+
+      // 鍵盤
+      carousel.setAttribute('tabindex', '0');
+      carousel.addEventListener('keydown', (e: KeyboardEvent) => {
+        if (e.key === 'ArrowLeft') goTo(current - 1);
+        if (e.key === 'ArrowRight') goTo(current + 1);
+      });
+
+      // 觸控滑動
+      let touchX = 0;
+      carousel.addEventListener('touchstart', (e: TouchEvent) => {
+        touchX = e.touches[0].clientX;
+      }, { passive: true });
+      carousel.addEventListener('touchend', (e: TouchEvent) => {
+        const diff = touchX - e.changedTouches[0].clientX;
+        if (Math.abs(diff) > 40) goTo(current + (diff > 0 ? 1 : -1));
+      }, { passive: true });
+    }
+
+    // ── 主流程 ────────────────────────────────────────────
+    const prose = document.querySelector('.prose');
+    if (!prose) return;
+
+    const visited = new WeakSet<Element>();
+
+    // 找出所有單圖 <p>，分組處理連續者
+    Array.from(prose.querySelectorAll('p')).filter(isSingleImgPara).forEach(para => {
+      if (visited.has(para)) return;
+
+      // 往下收集連續的單圖 <p>
+      const group: HTMLParagraphElement[] = [para];
+      let sib = para.nextElementSibling;
+      while (sib && isSingleImgPara(sib)) {
+        group.push(sib);
+        sib = sib.nextElementSibling;
+      }
+      group.forEach(p => visited.add(p));
+
+      if (group.length >= 2) {
+        buildCarousel(group);
+      } else {
+        wrapImg(para.querySelector('img') as HTMLImageElement);
+      }
     });
+
+    // 剩餘未包裝的圖片（inline、表格內等）
+    prose.querySelectorAll<HTMLImageElement>('img').forEach(wrapImg);
   })();
 </script>
 
@@ -809,6 +947,98 @@ hr { margin: 1.2em 0 1.8em; }
   letter-spacing: 0.06em;
   pointer-events: none;
   user-select: none;
+}
+
+/* 輪播 */
+:global(.carousel) {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  margin: 1.4em 0;
+  background: #000;
+}
+:global(.carousel-track) {
+  display: flex;
+  transition: transform 0.35s ease;
+  will-change: transform;
+}
+:global(.carousel-slide) {
+  flex: 0 0 100%;
+  width: 100%;
+}
+:global(.carousel-slide .img-wrap) {
+  display: block;
+  width: 100%;
+}
+:global(.carousel-slide .img-wrap img) {
+  width: 100%;
+  height: auto;
+  max-height: 72vh;
+  object-fit: contain;
+  border-radius: 0;
+  background: #000;
+}
+:global(.carousel-prev),
+:global(.carousel-next) {
+  position: absolute;
+  top: calc(50% - 1.6em);
+  background: rgba(0, 0, 0, 0.45);
+  border: none;
+  color: #fff;
+  font-size: 2em;
+  width: 2.2em;
+  height: 2.2em;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  transition: background 0.15s;
+  line-height: 1;
+  padding: 0;
+  user-select: none;
+}
+:global(.carousel-prev) { left: 0.45em; }
+:global(.carousel-next) { right: 0.45em; }
+:global(.carousel-prev:hover),
+:global(.carousel-next:hover) { background: rgba(0, 0, 0, 0.72); }
+:global(.carousel-footer) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.8em;
+  padding: 0.45em 0.6em;
+  background: rgba(0, 0, 0, 0.55);
+}
+:global(.carousel-dots) {
+  display: flex;
+  gap: 0.35em;
+}
+:global(.carousel-dot) {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.35);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.2s;
+}
+:global(.carousel-dot.active) {
+  background: var(--gold, #c9a84c);
+}
+:global(.carousel-counter) {
+  font-size: 0.75em;
+  color: rgba(255, 255, 255, 0.75);
+  font-weight: 600;
+  min-width: 2.8em;
+  text-align: center;
+}
+/* 輪播內的浮水印 ::after 保持不變 */
+:global(.carousel .img-wrap::after) {
+  bottom: 0.3em;
+  right: 0.5em;
 }
 
 /* 燈箱 */
