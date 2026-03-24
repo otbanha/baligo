@@ -1,23 +1,26 @@
 ---
-import { type CollectionEntry, getCollection, render } from 'astro:content';
+import { getCollection, render } from 'astro:content';
 import BlogPost from '../../../layouts/BlogPost.astro';
 import { readFileSync, readdirSync } from 'fs';
 import { join } from 'path';
 import matter from 'gray-matter';
 
 export async function getStaticPaths() {
-  const posts = await getCollection('zh-hk');
-  return posts.map((post) => ({
-    params: { slug: post.id },
-    props: post,
+  const blogPosts = await getCollection('blog');
+  const langPosts = await getCollection('zh-hk');
+  const langMap = new Map(langPosts.map(p => [p.id, p]));
+
+  return blogPosts.map((blogPost) => ({
+    params: { slug: blogPost.id },
+    props: {
+      post: langMap.get(blogPost.id) ?? blogPost,
+    },
   }));
 }
-type Props = CollectionEntry<'zh-hk'>;
 
-const post = Astro.props;
-const { Content, headings } = await render(post);
+const { post } = Astro.props;
+const { Content, headings } = await render(post as any);
 
-// embeds 從原始 zh-tw 檔案讀取（影片連結不翻譯）
 const blogDir = join(process.cwd(), 'src/content/blog');
 let rawEmbeds: any[] = [];
 let firstImage: string = post.data.heroImage || '';
