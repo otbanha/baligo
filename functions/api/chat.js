@@ -244,17 +244,43 @@ async function msgCacheKey(msg) {
   return 'qc:' + Array.from(new Uint8Array(buf)).slice(0, 10).map(b => b.toString(16).padStart(2, '0')).join('');
 }
 
+// 廣東話特有字符（不出現在普通話書寫）
+const CANTONESE_RE = /[咁喺唔嗰咩嘅囉喎冇啩㗎]/;
+// 簡體中文特有字符（不出現在繁體/廣東話書寫）
+const SIMPLIFIED_RE = /[们来这说学从还国车吗岛凯宾问时东为动实际门话联发观边过进样设华总应线费]/;
+
+// 簡體 → 繁體對應表（用於搜尋文章索引）
+const SIMP_TO_TRAD = {
+  '们':'們','来':'來','这':'這','说':'說','学':'學','从':'從','还':'還',
+  '国':'國','车':'車','话':'話','门':'門','问':'問','时':'時','东':'東',
+  '为':'為','动':'動','实':'實','际':'際','岛':'島','凯':'凱','宾':'賓',
+  '吗':'嗎','么':'麼','长':'長','爱':'愛','历':'歷','专':'專','发':'發',
+  '观':'觀','边':'邊','过':'過','进':'進','约':'約','级':'級','样':'樣',
+  '设':'設','华':'華','总':'總','应':'應','线':'線','费':'費','联':'聯',
+  '试':'試','认':'認','锁':'鎖','场':'場','换':'換','针':'針','坏':'壞',
+};
+function toTraditional(text) {
+  return text.split('').map(c => SIMP_TO_TRAD[c] || c).join('');
+}
+
 function detectLanguage(text, pageLang) {
-  // pageLang 優先（來自 <html lang>）
+  // 1. 沒有 CJK 字符 → 英文
+  if (!/[\u4e00-\u9fff]/.test(text)) return 'en';
+
+  // 2. 廣東話特有字 → zh-HK
+  if (CANTONESE_RE.test(text)) return 'zh-HK';
+
+  // 3. 簡體特有字 → zh-CN
+  if (SIMPLIFIED_RE.test(text)) return 'zh-CN';
+
+  // 4. 以 pageLang 判斷繁中變體
   if (pageLang) {
     const l = pageLang.toLowerCase();
-    if (l === 'zh-cn') return 'zh-CN';
     if (l === 'zh-hk') return 'zh-HK';
-    if (l === 'en') return 'en';
-    if (l.startsWith('zh')) return 'zh-TW';
+    if (l === 'zh-cn') return 'zh-CN';
   }
-  // fallback：從問題文字判斷
-  return /[\u4e00-\u9fff]/.test(text) ? 'zh-TW' : 'en';
+
+  return 'zh-TW';
 }
 
 /** 依語系取得文章 URL prefix */
@@ -293,19 +319,44 @@ function findPinnedArticles(query) {
   return { articles: matched, customIntro };
 }
 
-function findRelatedArticles(query, articles) {
-  const queryWords = query.toLowerCase().split(/[\s,，。？！、\n]+/).filter(w => w.length >= 2);
+/** 從查詢文字產生搜尋詞（支援 CJK n-gram 斷詞 + 簡繁轉換） */
+function getSearchTerms(text, lang) {
+  // 空格/標點分詞（英文、混合文）
+  const words = text.toLowerCase().split(/[\s,，。？！、。\n！？]+/).filter(w => w.length >= 2);
+
+  // CJK n-gram（2~4字）：讓「凱賓斯基」可從「凱賓斯基好嗎？」中被抓到
+  const cjk = text.replace(/[^\u4e00-\u9fff]/g, '');
+  const ngrams = [];
+  for (let n = 2; n <= 4; n++) {
+    for (let i = 0; i <= cjk.length - n; i++) {
+      ngrams.push(cjk.slice(i, i + n).toLowerCase());
+    }
+  }
+
+  let terms = [...new Set([...words, ...ngrams])];
+
+  // zh-CN：加入繁體版本以便匹配繁體文章索引
+  if (lang === 'zh-CN') {
+    const tradTerms = terms.map(t => toTraditional(t));
+    terms = [...new Set([...terms, ...tradTerms])];
+  }
+
+  return terms;
+}
+
+function findRelatedArticles(query, articles, lang) {
+  const queryTerms = getSearchTerms(query, lang);
   const scored = articles.map(article => {
     let score = 0;
     const titleLower = (article.title || '').toLowerCase();
     const descLower = (article.description || '').toLowerCase();
     const categoriesStr = (article.category || []).join(' ').toLowerCase();
     const tagsStr = (article.tags || []).join(' ').toLowerCase();
-    for (const word of queryWords) {
-      if (titleLower.includes(word)) score += 3;
-      if (categoriesStr.includes(word)) score += 2;
-      if (tagsStr.includes(word)) score += 2;
-      if (descLower.includes(word)) score += 1;
+    for (const term of queryTerms) {
+      if (titleLower.includes(term)) score += 3;
+      if (categoriesStr.includes(term)) score += 2;
+      if (tagsStr.includes(term)) score += 2;
+      if (descLower.includes(term)) score += 1;
     }
     return { ...article, score };
   });
@@ -341,6 +392,22 @@ ${linkList}`;
 相关文章：
 ${linkList}`;
     }
+    if (lang === 'zh-HK') {
+      const intro = customIntro
+        ? `先講「${customIntro}」，再逐行列出下方文章連結。`
+        : '用一句話引導讀者，再逐行列出下方文章連結。';
+      return `你係「峇里島知識庫AI」，代表 gobaligo.id。請用廣東話（香港用語）回覆。
+
+【強制規則】：
+1. 唔可以自己回答問題細節，一律引導去以下文章。
+2. 回覆格式：${intro}
+3. 每條連結單獨一行，格式為 [標題](URL)。
+4. 禁止提到「客服」「聯絡我們」——本站冇客服。
+5. 問到報價，只係話「直接問司機」。
+
+相關文章：
+${linkList}`;
+    }
     const intro = customIntro
       ? `先說「${customIntro}」，再逐行列出下方文章連結。`
       : '用一句話引導讀者，再逐行列出下方文章連結。';
@@ -358,9 +425,18 @@ ${linkList}`;
   }
 
   if (lang === 'en') {
-    return `You are "Baligo AI", a Bali travel expert from gobaligo.id. Answer in English, concisely (under 80 words).
-Answer questions related to Bali travel, including departure logistics, returning home, or transit questions that affect Bali trip planning.
-Do not make up specific details; if unsure, say so.`;
+    return `You are "Baligo AI", a Bali travel expert from gobaligo.id. Answer in English only, concisely (under 80 words).
+Answer questions related to Bali travel. Do not make up specific details; if unsure, say so.`;
+  }
+
+  if (lang === 'zh-HK') {
+    return `你係「峇里島知識庫AI」，代表旅遊網站 gobaligo.id，專門回答峇里島旅遊相關問題。
+請用廣東話（香港慣用語）回覆，語氣親切自然，簡潔（80字以內）。
+唔確定嘅資訊請如實說明，唔好捏造細節。
+
+【嚴格禁止】：
+- 絕對唔可以提到「客服」「聯絡我們」——本站冇客服。
+- 問到包車報價，只係話「直接問司機報價」。`;
   }
 
   if (lang === 'zh-CN') {
@@ -448,7 +524,7 @@ export async function onRequestPost(context) {
 
   const lang = detectLanguage(message, pageLang);
   const { articles: pinned, customIntro } = findPinnedArticles(message);
-  const fromIndex = findRelatedArticles(message, articles);
+  const fromIndex = findRelatedArticles(message, articles, lang);
   const pinnedUrls = new Set(pinned.map(a => a.url));
   // 將文章 URL 轉換為對應語系版本
   const relatedArticles = [...pinned, ...fromIndex.filter(a => !pinnedUrls.has(a.url))]
