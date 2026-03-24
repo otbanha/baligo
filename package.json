@@ -9,7 +9,8 @@
     "dev": "astro dev",
     "build": "node scripts/generate-article-index.mjs && astro build && npx pagefind --site dist",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "sync-blocks": "node scripts/sync-blocks.mjs"
   },
   "dependencies": {
     "@astrojs/mdx": "^5.0.0",
