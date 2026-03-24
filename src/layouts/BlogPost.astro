@@ -13,6 +13,13 @@ const { title, description, pubDate, updatedDate, heroImage, category, embeds, e
 const tocHeadings = headings.filter(h => h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= 2;
 
+// 若無 heroImage，抓文章內容第一張圖作為 OG image
+function extractFirstImage(text: string): string {
+  const m = text?.match(/!\[.*?\]\((https?:\/\/[^\)\s]+)\)/);
+  return m ? m[1] : '';
+}
+const ogImage = (typeof heroImage === 'string' ? heroImage : '') || extractFirstImage(body);
+
 const collectionName = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-cn' : lang === 'zh-hk' ? 'zh-hk' : 'blog';
 const allPosts = await getCollection(collectionName as any);
 
@@ -126,7 +133,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
   <BaseHead
     title={title}
     description={description ?? ''}
-    image={typeof heroImage === 'string' ? heroImage : undefined}
+    image={ogImage || undefined}
     type="article"
     publishedTime={pubDate ? new Date(pubDate).toISOString() : undefined}
     modifiedTime={updatedDate ? new Date(updatedDate).toISOString() : (pubDate ? new Date(pubDate).toISOString() : undefined)}
@@ -147,7 +154,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
     "@type": "Article",
     "headline": title,
     "description": description ?? '',
-    "image": heroImage || 'https://gobaligo.id/og-default.jpg',
+    "image": ogImage || 'https://gobaligo.id/og-default.jpg',
     "datePublished": pubDate ? new Date(pubDate).toISOString() : undefined,
     "dateModified": updatedDate ? new Date(updatedDate).toISOString() : (pubDate ? new Date(pubDate).toISOString() : undefined),
     "author": { "@type": "Organization", "name": "Go Bali Go", "url": "https://gobaligo.id" },
