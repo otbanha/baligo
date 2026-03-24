@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Noto+Sans+TC:wght@300;400;500;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Noto+Sans+TC:wght@300;400;500;700&family=Noto+Sans+SC:wght@300;400;500;700&family=Inter:wght@300;400;500;700&display=swap');
 
 :root {
   --ocean: #1A365D;
@@ -28,9 +28,20 @@ html {
   overflow-x: hidden;
 }
 
+/* ── 語言專屬字型 ── */
+:lang(zh-TW) body, :lang(zh-HK) body {
+  font-family: 'PingFang TC', 'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+}
+:lang(zh-CN) body {
+  font-family: 'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;
+}
+:lang(en) body {
+  font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+
 body {
   background-color: #ffffff;
-  font-family: 'Noto Sans TC', sans-serif;
+  font-family: 'PingFang TC', 'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
   margin: 0;
   padding: 0;
   background-color: var(--sand);

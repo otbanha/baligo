@@ -74,7 +74,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
 })));
 ---
 
-<html lang="zh-TW">
+<html lang={lang === 'zh-cn' ? 'zh-CN' : lang === 'zh-hk' ? 'zh-HK' : lang === 'en' ? 'en' : 'zh-TW'}>
 <head>
   <BaseHead title={title} description={description} />
   {lang === 'zh-cn' && <link rel="alternate" hreflang="zh-CN" href={`https://gobaligo.id/zh-cn/blog/${slug}/`} />}
