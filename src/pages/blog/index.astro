@@ -140,6 +140,18 @@ const socialLinks = [
   <link rel="alternate" hreflang="zh-HK"     href="https://gobaligo.id/zh-hk/blog/" />
   <link rel="alternate" hreflang="zh-CN"     href="https://gobaligo.id/zh-cn/blog/" />
   <link rel="alternate" hreflang="en"        href="https://gobaligo.id/en/blog/" />
+  <!-- 瀏覽器語言自動偵測：只在首次進入首頁時生效，?lang=tw 可強制停留 -->
+  <script is:inline>
+    (function() {
+      if (new URLSearchParams(location.search).has('lang')) return; // ?lang=tw 跳過
+      var nav = (navigator.language || navigator.languages && navigator.languages[0] || '').toLowerCase();
+      var dest = null;
+      if (nav.startsWith('en')) dest = '/en/blog/';
+      else if (nav === 'zh-cn' || nav === 'zh-hans' || nav === 'zh-sg' || nav === 'zh-my') dest = '/zh-cn/blog/';
+      else if (nav === 'zh-hk' || nav === 'zh-mo') dest = '/zh-hk/blog/';
+      if (dest) window.location.replace(dest);
+    })();
+  </script>
   <script type="application/ld+json" set:text={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "WebSite",

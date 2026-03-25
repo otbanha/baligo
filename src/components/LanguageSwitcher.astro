@@ -6,9 +6,6 @@ interface Props {
 
 const { currentLang = 'blog', slug = '' } = Astro.props;
 
-// 沒有 slug（列表頁）時不顯示語言切換
-const showSwitcher = !!slug;
-
 const LANGS = [
   { code: 'blog',  label: '繁中', title: '繁體中文（台灣）' },
   { code: 'zh-hk', label: '粵語', title: '廣東話（香港）' },
@@ -24,7 +21,7 @@ function buildUrl(langCode: string, slug: string) {
 }
 ---
 
-{showSwitcher && <div class="lang-switcher" id="lang-switcher">
+<div class="lang-switcher" id="lang-switcher">
   <button class="lang-current" aria-haspopup="listbox" aria-expanded="false" id="lang-btn">
     <span class="lang-globe">🌐</span>
     <span class="lang-label">{LANGS.find(l => l.code === currentLang)?.label ?? '繁中'}</span>
@@ -42,7 +39,7 @@ function buildUrl(langCode: string, slug: string) {
       </li>
     ))}
   </ul>
-</div>}
+</div>
 
 <style>
 .lang-switcher {
