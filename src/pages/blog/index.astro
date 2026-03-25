@@ -428,13 +428,15 @@ const socialLinks = [
       }
       const matchedPosts = ids.map(id => allPostsData.find(p => p.id === id)).filter(Boolean);
       if (matchedPosts.length === 0) { section.style.display = 'none'; return; }
+      // 從最多 5 篇中亂數取 3 篇
+      const shuffled = matchedPosts.sort(() => Math.random() - 0.5).slice(0, 3);
       const featuredCardEls = document.querySelectorAll('.featured-card');
       featuredCardEls.forEach((card, i) => {
-        if (matchedPosts[i]) {
-          card.href = `/blog/${matchedPosts[i].id}/`;
-          card.querySelector('h3').textContent = matchedPosts[i].title;
+        if (shuffled[i]) {
+          card.href = `/blog/${shuffled[i].id}/`;
+          card.querySelector('h3').textContent = shuffled[i].title;
           const img = card.querySelector('img');
-          if (img) { img.src = matchedPosts[i].heroImage; img.alt = matchedPosts[i].title; }
+          if (img) { img.src = shuffled[i].heroImage; img.alt = shuffled[i].title; }
           card.style.display = 'flex';
         } else {
           card.style.display = 'none';

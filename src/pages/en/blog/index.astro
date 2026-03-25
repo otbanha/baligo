@@ -90,8 +90,9 @@ const baliNewsRaw = allBlogRaw
   .sort((a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf())
   .at(0);
 
-const { Content: BaliNewsContent } = baliNewsRaw
-  ? await render(baliNewsRaw)
+const baliNewsToRender = (baliNewsRaw && langMap.get(baliNewsRaw.id)) ?? baliNewsRaw;
+const { Content: BaliNewsContent } = baliNewsToRender
+  ? await render(baliNewsToRender)
   : { Content: null };
 
 const top5Posts = top5Data.articles
