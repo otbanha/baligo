@@ -118,6 +118,16 @@ function buildUrl(langCode: string, slug: string) {
       btn.setAttribute('aria-expanded', String(!isHidden));
     });
 
+    // 若目前 URL 有 ?cat= 參數，動態補到各語系連結上
+    const catParam = new URLSearchParams(window.location.search).get('cat');
+    if (catParam) {
+      menu.querySelectorAll('a[hreflang]').forEach(a => {
+        const url = new URL((a as HTMLAnchorElement).href);
+        url.searchParams.set('cat', catParam);
+        (a as HTMLAnchorElement).href = url.toString();
+      });
+    }
+
     // 點選語言連結時，更新 cookie 記憶使用者選擇
     menu.addEventListener('click', (e) => {
       const link = (e.target as Element).closest('a[hreflang]');
