@@ -15,7 +15,8 @@ const LANGS = [
 
 function buildUrl(langCode: string, slug: string) {
   if (langCode === 'blog') {
-    return slug ? `/blog/${slug}/` : '/blog/';
+    // ?lang=tw 告訴首頁腳本：這是使用者主動選擇，不要再自動偵測跳轉
+    return slug ? `/blog/${slug}/` : '/blog/?lang=tw';
   }
   return slug ? `/${langCode}/blog/${slug}/` : `/${langCode}/blog/`;
 }
