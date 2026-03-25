@@ -551,7 +551,16 @@ window.addEventListener('load', () => {
       if (visited.has(para)) { console.log(`[carousel] p[${myIndex}] skipped (visited)`); return; }
 
       const imgs = getImgsOnly(para);
-      if (!imgs) return; // 含文字或非圖片內容 → 略過
+      if (!imgs) {
+        const imgCount = para.querySelectorAll('img').length;
+        if (imgCount > 0) {
+          const childTags = Array.from(para.childNodes)
+            .filter(n => !(n.nodeType === 3 && !(n as Text).textContent!.trim()))
+            .map(n => (n as Element).tagName || `TEXT:${JSON.stringify((n as Text).textContent?.slice(0,20))}`);
+          console.log(`[carousel] p[${myIndex}] REJECTED: ${imgCount} imgs but non-img children: ${JSON.stringify(childTags)}`);
+        }
+        return;
+      }
 
       visited.add(para);
 
