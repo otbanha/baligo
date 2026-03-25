@@ -368,8 +368,10 @@ const socialLinks = [
           card.style.display = 'flex';
           const delay = si++ * 0.1;
           requestAnimationFrame(() => {
-            card.style.transitionDelay = `${delay}s`;
-            card.classList.add('visible');
+            requestAnimationFrame(() => {
+              card.style.transitionDelay = `${delay}s`;
+              card.classList.add('visible');
+            });
           });
         } else {
           card.style.display = 'none';

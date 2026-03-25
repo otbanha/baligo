@@ -140,13 +140,18 @@ const socialLinks = [
   <link rel="alternate" hreflang="zh-HK"     href="https://gobaligo.id/zh-hk/blog/" />
   <link rel="alternate" hreflang="zh-CN"     href="https://gobaligo.id/zh-cn/blog/" />
   <link rel="alternate" hreflang="en"        href="https://gobaligo.id/en/blog/" />
-  <!-- 瀏覽器語言自動偵測：只在首次進入首頁時生效，?lang=tw 可強制停留 -->
+  <!-- 瀏覽器語言自動偵測：只在同一 session 的第一次進入時生效，?lang=tw 可強制停留 -->
   <script is:inline>
     (function() {
+      // ?lang=tw：使用者主動選擇繁體中文，清掉 query param 並記錄已偵測
       if (new URLSearchParams(location.search).has('lang')) {
-        history.replaceState(null, '', location.pathname); // 清掉 ?lang=tw，保持乾淨網址
+        history.replaceState(null, '', location.pathname);
+        sessionStorage.setItem('gobaligo_lang_checked', '1');
         return;
       }
+      // 同一 session 已偵測過（包含從文章按 BACK 回來的情況），不重複跳轉
+      if (sessionStorage.getItem('gobaligo_lang_checked')) return;
+      sessionStorage.setItem('gobaligo_lang_checked', '1');
       var nav = (navigator.language || navigator.languages && navigator.languages[0] || '').toLowerCase();
       var dest = null;
       if (nav.startsWith('en')) dest = '/en/blog/';
@@ -457,8 +462,10 @@ const socialLinks = [
           card.style.display = 'flex';
           const delay = si++ * 0.1;
           requestAnimationFrame(() => {
-            card.style.transitionDelay = `${delay}s`;
-            card.classList.add('visible');
+            requestAnimationFrame(() => {
+              card.style.transitionDelay = `${delay}s`;
+              card.classList.add('visible');
+            });
           });
         } else {
           card.style.display = 'none';
