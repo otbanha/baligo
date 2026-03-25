@@ -351,13 +351,14 @@ const socialLinks = [
       if (cat === 'all' || ids.length === 0) { section.style.display = 'none'; return; }
       const matchedPosts = ids.map(id => allPostsData.find(p => p.id === id)).filter(Boolean);
       if (matchedPosts.length === 0) { section.style.display = 'none'; return; }
+      const shuffled = matchedPosts.sort(() => Math.random() - 0.5).slice(0, 3);
       const featuredCardEls = document.querySelectorAll('.featured-card');
       featuredCardEls.forEach((card, i) => {
-        if (matchedPosts[i]) {
-          card.href = `${blogBase}/${matchedPosts[i].id}/`;
-          card.querySelector('h3').textContent = matchedPosts[i].title;
+        if (shuffled[i]) {
+          card.href = `${blogBase}/${shuffled[i].id}/`;
+          card.querySelector('h3').textContent = shuffled[i].title;
           const img = card.querySelector('img');
-          if (img) { img.src = matchedPosts[i].heroImage; img.alt = matchedPosts[i].title; }
+          if (img) { img.src = shuffled[i].heroImage; img.alt = shuffled[i].title; }
           card.style.display = 'flex';
         } else { card.style.display = 'none'; }
       });
@@ -526,7 +527,8 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 .social-btn.instagram { background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); }
 .social-btn.youtube { background: #FF0000; }
 .social-btn.threads { background: #000000; }
-.featured-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1em; margin-bottom: 2.5em; }
+.featured-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1em; margin-bottom: 1.5em; }
+#featured-section { border-bottom: 1px solid var(--gold); padding-bottom: 1.5em; margin-bottom: 1.5em; }
 .featured-card { display: flex; flex-direction: column; border-radius: 12px; overflow: hidden; text-decoration: none; color: inherit; border: 2px solid var(--gold); transition: transform 0.2s; }
 .featured-card:hover { transform: translateY(-3px); }
 .featured-image { aspect-ratio: 16/9; overflow: hidden; background: var(--ocean); }
