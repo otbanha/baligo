@@ -15,16 +15,24 @@ function extractFirstImage(body: string): string {
   return m ? m[1] : '';
 }
 
+const langPosts = await getCollection('zh-hk');
+const langMap = new Map(langPosts.map(p => [p.id, p]));
+
 const allPosts = (await getCollection('blog'))
   .filter(p => p.data.pubDate)
-  .map(p => ({
-    ...p,
-    data: {
-      ...p.data,
-      pubDate: new Date(p.data.pubDate),
-      heroImage: p.data.heroImage || extractFirstImage(p.body),
-    }
-  }))
+  .map(p => {
+    const t = langMap.get(p.id);
+    return {
+      ...p,
+      data: {
+        ...p.data,
+        title: t?.data.title ?? p.data.title,
+        description: t?.data.description ?? p.data.description,
+        pubDate: new Date(p.data.pubDate),
+        heroImage: p.data.heroImage || extractFirstImage(p.body),
+      }
+    };
+  })
   .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
 
 const getCategories = (cat: any): string[] => {
