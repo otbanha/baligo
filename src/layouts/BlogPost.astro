@@ -544,9 +544,11 @@ window.addEventListener('load', () => {
     if (!prose) return;
 
     const visited = new WeakSet<Element>();
+    let paraIndex = 0;
 
     Array.from(prose.querySelectorAll('p')).forEach(para => {
-      if (visited.has(para)) return;
+      const myIndex = paraIndex++;
+      if (visited.has(para)) { console.log(`[carousel] p[${myIndex}] skipped (visited)`); return; }
 
       const imgs = getImgsOnly(para);
       if (!imgs) return; // 含文字或非圖片內容 → 略過
@@ -555,6 +557,7 @@ window.addEventListener('load', () => {
 
       if (imgs.length >= 2) {
         // 情況 A：單一 <p> 內含多張圖（無空行，最常見）
+        console.log(`[carousel] p[${myIndex}] → Situation A, ${imgs.length} imgs, inDOM=${document.contains(para)}`);
         buildCarousel(imgs, [para]);
       } else {
         // 情況 B：<p> 只有一張圖 → 往下收集連續的同類 <p>

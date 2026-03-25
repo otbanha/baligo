@@ -50,9 +50,9 @@ collections:
           - 新聞存檔
       - label: Tags
         name: tags
-        widget: list
+        widget: text
         required: false
-        hint: "多個 tag 用「, 」隔開，例如：峇里島, 住宿, 推薦"
+        hint: "一行一個 tag，例如：\n峇里島\n住宿\n推薦"
       - { label: 首圖, name: heroImage, widget: image, required: false, hint: "不填則自動抓取內文第一張圖" }
       - { label: 原始網址, name: originalUrl, widget: string, required: false }
       - { label: 內文, name: body, widget: markdown }
