@@ -42,9 +42,13 @@ export const prerender = true;
                 gap: .5rem; margin-bottom: 1rem; }
     .preview-item {
       position: relative; border-radius: 8px; overflow: hidden;
-      box-shadow: 0 1px 4px rgba(0,0,0,.12); aspect-ratio: 1; background: #e5e7eb;
+      box-shadow: 0 1px 4px rgba(0,0,0,.12); background: #e5e7eb;
+      padding-bottom: 100%; height: 0;
     }
-    .preview-item img { width: 100%; height: 100%; object-fit: cover; display: block; }
+    .preview-item img {
+      position: absolute; inset: 0; width: 100%; height: 100%;
+      object-fit: cover; display: block;
+    }
     /* Overlay on hover */
     .preview-overlay {
       position: absolute; inset: 0; background: rgba(0,0,0,.55);
