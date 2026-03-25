@@ -171,7 +171,7 @@ const socialLinks = [
 
         <div class="top-widgets" id="top-widgets">
           <div class="widget-box">
-            <h2 class="widget-title">🏨 Accommodations</h2>
+            <h2 class="widget-title fade-in">🏨 Accommodations</h2>
             {accommodations.length > 0 ? (
               <a href="#" id="accom-link" class="accom-card">
                 <div class="accom-image">
@@ -187,7 +187,7 @@ const socialLinks = [
           </div>
 
           <div class="widget-box">
-            <h2 class="widget-title">📰 Bali News</h2>
+            <h2 class="widget-title fade-in">📰 Bali News</h2>
             {baliNewsRaw ? (
               <div class="news-scroll">
                 <a href={`${blogBase}/${baliNewsRaw.id}/`} class="news-post-date">
@@ -205,7 +205,7 @@ const socialLinks = [
 
         {top5Posts.length > 0 && (
           <div class="top5-section" id="top5-section">
-            <h2 class="section-title">🔥 本周热门文章</h2>
+            <h2 class="section-title fade-in">🔥 本周热门文章</h2>
             <ul class="top5-list" id="top5-list">
               {top5Posts.map((post, i) => (
                 <li class="top5-item" data-index={i}>
@@ -243,7 +243,7 @@ const socialLinks = [
       </div>
 
       <div id="featured-section" style="display:none">
-        <h2 class="section-title">⭐ 编辑精选</h2>
+        <h2 class="section-title fade-in">⭐ 编辑精选</h2>
         <div class="featured-grid">
           {[0,1,2].map(i => (
             <a href="#" class="featured-card" data-index={i}>
@@ -259,7 +259,7 @@ const socialLinks = [
 
       <div class="grid" id="posts-grid">
         {allPosts.map(post => (
-          <a href={`${blogBase}/${post.id}/`} class="card" data-category={JSON.stringify(getCategories(post.data.category))}>
+          <a href={`${blogBase}/${post.id}/`} class="card fade-in" data-category={JSON.stringify(getCategories(post.data.category))}>
             <div class="card-image">
               {post.data.heroImage
                 ? <img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
@@ -372,8 +372,22 @@ const socialLinks = [
     function renderCards() {
       const start = (currentPage - 1) * POSTS_PER_PAGE;
       const end = start + POSTS_PER_PAGE;
+      let si = 0;
       filteredCards.forEach((card, i) => {
-        card.style.display = (i >= start && i < end) ? 'flex' : 'none';
+        if (i >= start && i < end) {
+          card.classList.remove('visible');
+          card.style.transitionDelay = '';
+          card.style.display = 'flex';
+          const delay = si++ * 0.1;
+          requestAnimationFrame(() => {
+            card.style.transitionDelay = `${delay}s`;
+            card.classList.add('visible');
+          });
+        } else {
+          card.style.display = 'none';
+          card.classList.remove('visible');
+          card.style.transitionDelay = '';
+        }
       });
       updatePagination();
     }

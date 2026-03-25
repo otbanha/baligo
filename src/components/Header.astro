@@ -1,6 +1,7 @@
 ---
 import { SITE_TITLE } from '../consts';
 import LanguageSwitcher from './LanguageSwitcher.astro';
+import ScrollReveal from './ScrollReveal.astro';
 
 interface Props {
   lang?: string;
@@ -23,6 +24,7 @@ const searchSite = lang === 'en'    ? 'gobaligo.id/en/blog' :
                                       'gobaligo.id/blog';
 ---
 
+<ScrollReveal />
 <header>
   <nav>
     <div class="brand">

@@ -1,0 +1,27 @@
+---
+// ScrollReveal.astro
+// 使用 IntersectionObserver 讓 .fade-in 元素滾入時淡入
+// 卡片（.card.fade-in）的動畫由各頁面的 renderCards() 控制，這裡不處理
+---
+
+<script>
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+      if (entry.isIntersecting) {
+        entry.target.classList.add('visible');
+        io.unobserve(entry.target);
+      }
+    });
+  }, { threshold: 0.1 });
+
+  function init() {
+    // 只觀察非卡片的 .fade-in 元素（h2、section 標題等）
+    document.querySelectorAll('.fade-in:not(.card)').forEach(el => io.observe(el));
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+</script>
