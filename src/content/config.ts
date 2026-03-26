@@ -50,7 +50,7 @@ const translatedSchema = z.object({
   updatedDate: z.coerce.date().optional(),
   heroImage: z.string().optional(),
   category: z.array(z.string()).optional(),
-  tags: z.array(z.string()).optional(),
+  tags: z.any().optional(),
   originalUrl: z.string().optional(),
   lang: z.string().optional(),
   embeds: z.array(z.object({
