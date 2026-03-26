@@ -569,11 +569,7 @@ const socialLinks = [
     const catParam = urlParams.get('cat') || 'all';
     const pageParam = Math.max(1, parseInt(urlParams.get('page') || '1', 10));
     window.history.replaceState({ cat: catParam, page: pageParam }, '', window.location.href);
-    if (catParam !== 'all') {
-      setTimeout(() => applyState(catParam, pageParam), 100);
-    } else {
-      applyState('all', pageParam);
-    }
+    applyState(catParam, pageParam);
 
   });
 </script>

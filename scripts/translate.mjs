@@ -45,11 +45,11 @@ function restoreVideoUrls(text, saved) {
   if (!saved.length) return text;
   return text.replace(/__VID(\d+)__/g, (_, i) => saved[parseInt(i, 10)] ?? '');
 }
-const SOURCE_DIR = 'src/content/blog';
 const CACHE_FILE = '.translation-cache.json';
 const BATCH_SIZE = 10; // 每次 API 呼叫最多幾個段落
 
 const ALL_LANGS = ['zh-cn', 'zh-hk', 'en'];
+const BLOCK_LANGS = ['zh-cn', 'en']; // blocks 不需要 zh-hk
 
 const SYSTEM_PROMPTS = {
   'zh-cn': `你是專業翻譯，將繁體中文翻譯成簡體中文。
@@ -88,8 +88,10 @@ Requirements:
 
 const args = process.argv.slice(2);
 const isDryRun = args.includes('--dry-run');
+const isBlocks = args.includes('--blocks');
+const SOURCE_DIR = isBlocks ? 'src/content/blocks' : 'src/content/blog';
 const langIdx = args.indexOf('--lang');
-const targetLangs = langIdx !== -1 ? [args[langIdx + 1]] : ALL_LANGS;
+const targetLangs = langIdx !== -1 ? [args[langIdx + 1]] : (isBlocks ? BLOCK_LANGS : ALL_LANGS);
 const fileIdx = args.indexOf('--file');
 const targetFile = fileIdx !== -1 ? args[fileIdx + 1] : null;
 
@@ -288,10 +290,12 @@ async function translateTexts(texts, lang) {
 
 async function translateFile(filename, lang) {
   const srcPath = join(SOURCE_DIR, filename);
-  const destPath = join(`src/content/${lang}`, filename);
+  const destPath = isBlocks
+    ? join(`src/content/blocks/${lang}`, filename)
+    : join(`src/content/${lang}`, filename);
   const srcContent = readFileSync(srcPath, 'utf-8');
   const srcHash = md5(srcContent);
-  const fileCacheKey = `${filename}:${lang}`;
+  const fileCacheKey = `${isBlocks ? 'blocks:' : ''}${filename}:${lang}`;
 
   // 跳過未變動的已翻譯檔案
   if (!isDryRun && existsSync(destPath) && cache.files[fileCacheKey] === srcHash) {
@@ -407,7 +411,7 @@ async function main() {
 
   // 確保目標資料夾存在
   for (const lang of targetLangs) {
-    const targetDir = `src/content/${lang}`;
+    const targetDir = isBlocks ? `src/content/blocks/${lang}` : `src/content/${lang}`;
     if (!existsSync(targetDir)) mkdirSync(targetDir, { recursive: true });
   }
 
