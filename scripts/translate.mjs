@@ -307,7 +307,8 @@ async function translateFile(filename, lang) {
   // Frontmatter 可翻譯欄位
   const fmTranslatables = [];
   const fmKeys = [];
-  if (fm.title) { fmTranslatables.push(fm.title); fmKeys.push('title'); }
+  // blocks 的 title 是區塊 slug 參考用，不能翻譯（否則文章找不到區塊）
+  if (fm.title && !isBlocks) { fmTranslatables.push(fm.title); fmKeys.push('title'); }
   if (fm.description) { fmTranslatables.push(fm.description); fmKeys.push('description'); }
 
   // Body 分割
