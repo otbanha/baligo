@@ -9,8 +9,8 @@ const blog = defineCollection({
     pubDate: z.coerce.date().optional(),
     updatedDate: z.coerce.date().optional(),
     heroImage: z.string().optional(),
-    category: z.union([z.array(z.string()), z.string().transform(s => s ? [s] : [])]).optional(),
-    tags: z.union([z.array(z.string()), z.string().transform(s => s ? s.split(/[\n,]/).map(t => t.trim()).filter(Boolean) : [])]).optional(),
+    category: z.array(z.string()).optional(),
+    tags: z.array(z.string()).optional(),
     originalUrl: z.string().optional(),
     embeds: z.array(z.object({
       position: z.string(),
@@ -49,8 +49,8 @@ const translatedSchema = z.object({
   pubDate: z.coerce.date().optional(),
   updatedDate: z.coerce.date().optional(),
   heroImage: z.string().optional(),
-  category: z.union([z.array(z.string()), z.string().transform(s => s ? [s] : [])]).optional(),
-  tags: z.union([z.array(z.string()), z.string().transform(s => s ? s.split(/[\n,]/).map(t => t.trim()).filter(Boolean) : [])]).optional(),
+  category: z.array(z.string()).optional(),
+  tags: z.array(z.string()).optional(),
   originalUrl: z.string().optional(),
   lang: z.string().optional(),
   embeds: z.array(z.object({
