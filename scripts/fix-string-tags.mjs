@@ -50,24 +50,25 @@ for (const filename of files) {
     }
   );
 
-  // ── Pattern 2: single-line string (quoted or bare) ─────────────────────────
-  // Only runs if not already an array (array lines start with "  -")
-  // tags: "tag1,tag2" or tags: tag1 tag2
-  // tags: 'tag1'
-  // Does NOT touch lines where value starts with [ (inline JSON array – valid YAML)
+  // ── Pattern 2: empty string  tags: '' or tags: "" or tags: ~  ───────────────
+  // Replace with empty array so Astro JSON Schema validation passes
   newContent = newContent.replace(
-    /^tags: (?![\[\n])(["']?)(.+?)\1[ \t]*$/m,
+    /^tags: (?:''|""|~|null)[ \t]*$/m,
+    'tags: []'
+  );
+
+  // ── Pattern 3: single-line string (quoted or bare) ──────────────────────────
+  // tags: "tag1,tag2"  /  tags: 'tag1'  /  tags: tag1 tag2
+  // Does NOT touch lines where value starts with [ (inline JSON array) or \n (block)
+  newContent = newContent.replace(
+    /^tags: (?![\[\n])(["'])(.+?)\1[ \t]*$/m,
     (_, _q, val) => {
       const raw = val.trim();
-      if (!raw) return _;
+      if (!raw) return `tags: []`;
       const lines = raw.includes(',')
         ? raw.split(',').map(l => l.trim()).filter(Boolean)
-        : raw.split(/\s*\n\s*/).map(l => l.trim()).filter(Boolean);
-      if (lines.length === 0) return _;
-      if (lines.length === 1 && !lines[0].includes(',')) {
-        // Probably already a meaningful single value; wrap as single-item array
-        return `tags:\n  - ${lines[0]}`;
-      }
+        : [raw];
+      if (lines.length === 0) return `tags: []`;
       return `tags:\n` + lines.map(l => `  - ${l}`).join('\n');
     }
   );
