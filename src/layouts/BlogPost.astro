@@ -321,6 +321,9 @@ window.addEventListener('load', () => {
     } else if (embed.platform === 'tiktok') {
       const r = embed.url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
       if (r) embedHtml = '<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="' + embed.url + '" data-video-id="' + r[1] + '" style="width:100%;margin:0;"><section></section></blockquote></div>';
+    } else if (embed.platform === 'facebook') {
+      const fbUrl = encodeURIComponent(embed.url);
+      embedHtml = '<div class="video-embed video-embed--fb"><iframe src="https://www.facebook.com/plugins/video.php?href=' + fbUrl + '&show_text=0&width=560&mute=0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen loading="lazy"></iframe></div>';
     }
 
     if (embedHtml) {
@@ -797,6 +800,12 @@ hr { margin: 1.2em 0 1.8em; }
 .prose :global(.video-embed--tt) {
   aspect-ratio: unset;
   max-width: 540px;
+  margin: 1.5em auto;
+}
+
+.prose :global(.video-embed--fb) {
+  aspect-ratio: 16 / 9;
+  max-width: 560px;
   margin: 1.5em auto;
 }
 
