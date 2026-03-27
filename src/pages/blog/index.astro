@@ -904,22 +904,41 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
     align-items: center;
     justify-content: space-between;
     width: 100%;
-    padding: 0.8em 1.2em;
-    background: var(--ocean);
-    color: var(--gold-light);
-    font-size: 0.9em;
+    padding: 0.85em 1.2em;
+    background: linear-gradient(135deg, var(--ocean) 0%, #1e4a7a 100%);
+    color: #fff;
+    font-size: 1em;
     font-weight: 700;
     font-family: inherit;
     border: none;
+    border-left: 4px solid var(--gold);
     cursor: pointer;
     letter-spacing: 0.03em;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.18);
+  }
+  .sidebar-toggle::before {
+    content: '📂';
+    margin-right: 0.4em;
+    font-size: 1.1em;
   }
   .toggle-arrow {
-    font-size: 0.75em;
-    transition: transform 0.25s;
+    font-size: 0.85em;
+    background: rgba(201,168,76,0.25);
+    border-radius: 50%;
+    width: 1.8em;
+    height: 1.8em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    transition: transform 0.25s, background 0.2s;
+    flex-shrink: 0;
   }
   .sidebar-toggle[aria-expanded="true"] .toggle-arrow {
     transform: rotate(180deg);
+    background: rgba(201,168,76,0.45);
+  }
+  .sidebar-toggle:active {
+    background: #1e4a7a;
   }
   .sidebar-inner {
     display: none;
@@ -930,6 +949,22 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   }
   /* 手機版隱藏桌面版 sidebar-title（已有 toggle 按鈕取代） */
   .sidebar-title { display: none; }
+
+  /* 手機版展開後分類項目加大字體、間距更明顯 */
+  .sidebar-inner .category-item {
+    font-size: 0.95em;
+    padding: 0.6em 0.8em;
+    min-height: 48px;
+    border: 1px solid transparent;
+  }
+  .sidebar-inner .category-item:hover,
+  .sidebar-inner .category-item.active {
+    border-color: rgba(201,168,76,0.3);
+  }
+  .sidebar-inner .cat-count {
+    font-size: 0.82em;
+    padding: 0.15em 0.6em;
+  }
 
   main { padding: 1.2em 1em 3em; }
   .top-widgets { gap: 0.8em; margin-bottom: 1em; }
