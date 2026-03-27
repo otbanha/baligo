@@ -372,6 +372,17 @@ window.addEventListener('load', () => {
 </html>
 
 <script>
+  // 所有文章內的外部連結自動開新視窗
+  document.querySelectorAll('.prose a[href]').forEach(a => {
+    const href = (a as HTMLAnchorElement).href;
+    if (href && !href.startsWith(location.origin) && !href.startsWith('#')) {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+</script>
+
+<script>
   // TOC toggle + scroll highlight
   const tocToggle = document.querySelector('.toc-toggle') as HTMLButtonElement | null;
   const tocList = document.getElementById('toc-list');
