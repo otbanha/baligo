@@ -298,8 +298,15 @@ async function translateFile(filename, lang) {
   const fileCacheKey = `${isBlocks ? 'blocks:' : ''}${filename}:${lang}`;
 
   // 跳過未變動的已翻譯檔案
-  if (!isDryRun && existsSync(destPath) && cache.files[fileCacheKey] === srcHash) {
-    return 'cached';
+  // 優先讀取翻譯檔 frontmatter 裡存的 _srcHash（不依賴外部 cache，重啟後也有效）
+  if (!isDryRun && existsSync(destPath)) {
+    try {
+      const destContent = readFileSync(destPath, 'utf-8');
+      const { data: destFm } = matter(destContent);
+      if (destFm._srcHash === srcHash) return 'cached';
+    } catch { /* fallthrough */ }
+    // fallback: 舊版只有外部 cache 記錄
+    if (cache.files[fileCacheKey] === srcHash) return 'cached';
   }
 
   const { data: fm, content: body } = matter(srcContent);
@@ -326,7 +333,7 @@ async function translateFile(filename, lang) {
   const translated = await translateTexts(allTexts, lang);
 
   // 更新 frontmatter
-  const newFm = { ...fm, lang };
+  const newFm = { ...fm, lang, _srcHash: srcHash };
   fmKeys.forEach((key, i) => { newFm[key] = translated[i] ?? fm[key]; });
 
   // 重建 body

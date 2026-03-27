@@ -32,6 +32,13 @@ jobs:
       - name: 確認執行時間（push 觸發限 UTC 18:00-22:00；schedule/手動不限）
         run: |
           if [ "${{ github.event_name }}" = "push" ]; then
+            # [skip ci] 或 [skip translate] 的 commit 直接跳過
+            COMMIT_MSG="${{ github.event.head_commit.message }}"
+            if echo "$COMMIT_MSG" | grep -qE '\[(skip ci|skip translate)\]'; then
+              echo "⏭️ Commit 含 [skip ci] 或 [skip translate]，跳過翻譯"
+              echo "SKIP=true" >> $GITHUB_ENV
+              exit 0
+            fi
             HOUR=$(date -u +%H)
             echo "目前 UTC 時間：$(date -u)"
             if [ "$HOUR" -lt 18 ] || [ "$HOUR" -ge 22 ]; then
