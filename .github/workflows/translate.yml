@@ -7,6 +7,10 @@ on:
       - 'src/content/blog/**'
       - 'src/content/blocks/**'
 
+  # 每天台灣時間凌晨 2:00（UTC 18:00）自動同步內容區塊
+  schedule:
+    - cron: '0 18 * * *'
+
   # 允許手動觸發（不限時間）
   workflow_dispatch:
     inputs:
@@ -25,14 +29,17 @@ jobs:
     timeout-minutes: 360
 
     steps:
-      - name: 確認執行時間（push 觸發限 UTC 18:00-22:00）
-        if: github.event_name == 'push'
+      - name: 確認執行時間（push 觸發限 UTC 18:00-22:00；schedule/手動不限）
         run: |
-          HOUR=$(date -u +%H)
-          echo "目前 UTC 時間：$(date -u)"
-          if [ "$HOUR" -lt 18 ] || [ "$HOUR" -ge 22 ]; then
-            echo "⏭️ 目前在台灣白天，跳過翻譯（UTC $HOUR 時，僅 18-22 時執行）"
-            echo "SKIP=true" >> $GITHUB_ENV
+          if [ "${{ github.event_name }}" = "push" ]; then
+            HOUR=$(date -u +%H)
+            echo "目前 UTC 時間：$(date -u)"
+            if [ "$HOUR" -lt 18 ] || [ "$HOUR" -ge 22 ]; then
+              echo "⏭️ 目前在台灣白天，跳過翻譯（UTC $HOUR 時，僅 18-22 時執行）"
+              echo "SKIP=true" >> $GITHUB_ENV
+            else
+              echo "SKIP=false" >> $GITHUB_ENV
+            fi
           else
             echo "SKIP=false" >> $GITHUB_ENV
           fi
@@ -76,8 +83,14 @@ jobs:
           if [ -n "${{ github.event.inputs.file }}" ]; then
             FILE_ARG="--file ${{ github.event.inputs.file }}"
           fi
-          node scripts/translate.mjs $LANG_ARG $FILE_ARG
-          node scripts/translate.mjs --blocks $LANG_ARG
+          # schedule 觸發：只同步區塊（不翻文章，省費用）
+          if [ "${{ github.event_name }}" = "schedule" ]; then
+            echo "📅 排程觸發：只翻譯內容區塊"
+            node scripts/translate.mjs --blocks
+          else
+            node scripts/translate.mjs $LANG_ARG $FILE_ARG
+            node scripts/translate.mjs --blocks $LANG_ARG
+          fi
 
       - name: Commit 翻譯結果
         if: env.SKIP != 'true'
