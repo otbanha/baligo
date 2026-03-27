@@ -966,9 +966,9 @@ hr { margin: 1.2em 0 1.8em; }
 
 /* Prose 內容響應式 */
 .prose :global(img) {
-  max-width: 100%;
+  width: 100%;
   height: auto;
-  border-radius: 8px;
+  border-radius: 0;
   display: block;
 }
 
@@ -1039,11 +1039,16 @@ hr { margin: 1.2em 0 1.8em; }
 }
 :global(.carousel-slide .img-wrap img) {
   width: 100%;
-  height: auto;
-  max-height: 72vh;
-  object-fit: contain;
+  height: 420px;
+  object-fit: cover;
   border-radius: 0;
   background: #000;
+  display: block;
+}
+@media (max-width: 600px) {
+  :global(.carousel-slide .img-wrap img) {
+    height: 260px;
+  }
 }
 :global(.carousel-prev),
 :global(.carousel-next) {
