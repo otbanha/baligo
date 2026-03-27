@@ -38,6 +38,10 @@ for (const filename of files) {
   // ── 規則 3: ***text**** 或 ****text*** (不對稱) → **text** ────────
   body = body.replace(/\*{3,4}([^*\n]+?)\*{3,4}/g, '**$1**');
 
+  // ── 規則 4: **_text_** → **text** (CMS 產生的 bold+italic 混用) ───
+  // Sveltia CMS 編輯後會把標題寫成 **_text_**，渲染為 <strong><em>
+  body = body.replace(/\*\*_([^_\n]+?)_\*\*/g, '**$1**');
+
   const newContent = fm + body;
   if (newContent !== original) {
     writeFileSync(filepath, newContent, 'utf-8');
