@@ -121,8 +121,10 @@ nav {
 
 @media (max-width: 600px) {
   .logo-text { font-size: 1em; }
-  .search-right { width: 200px; }
+  .search-right { width: 180px; }
   nav { padding: 0 1em; }
+  /* 手機版隱藏語言切換選單 */
+  :global(.lang-switcher) { display: none !important; }
 }
 
 @media (max-width: 400px) {
