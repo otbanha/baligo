@@ -974,13 +974,58 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 }
 
 @media (max-width: 600px) {
-  .grid { grid-template-columns: 1fr; }
   .featured-grid { grid-template-columns: 1fr; }
   .social-section { grid-template-columns: repeat(2, 1fr); }
   .accom-image { height: 140px; }
   .accom-body p { font-size: 0.85em; }
   .top5-list { flex-direction: column; }
   .top5-item a { border-radius: 8px; }
+
+  /* 文章列表改成小縮圖 + list 樣式 */
+  .grid {
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+  }
+  .card {
+    flex-direction: row;
+    align-items: center;
+    border-radius: 0;
+    box-shadow: none;
+    border-bottom: 1px solid rgba(201,168,76,0.15);
+    background: var(--white);
+    min-height: 76px;
+    padding: 0;
+  }
+  .card:first-child { border-top: 1px solid rgba(201,168,76,0.15); }
+  .card:hover { transform: none; box-shadow: none; background: rgba(201,168,76,0.05); }
+  .card-image {
+    width: 80px;
+    min-width: 80px;
+    height: 76px;
+    aspect-ratio: unset;
+    border-radius: 0;
+    flex-shrink: 0;
+  }
+  .card-image img { border-radius: 0; }
+  .card-image-placeholder { font-size: 1.6em; }
+  /* 分類 badge 移到卡片內部，縮小 */
+  .category-badge {
+    font-size: 0.62em;
+    padding: 0.1em 0.4em;
+  }
+  .card-body {
+    padding: 0.5em 0.8em;
+    justify-content: center;
+    gap: 0.2em;
+  }
+  .card-title {
+    font-size: 0.88em;
+    -webkit-line-clamp: 2;
+    margin: 0;
+  }
+  /* 手機 list 模式隱藏 description，節省空間 */
+  .card-desc { display: none; }
 }
 .news-scroll {
   overflow-y: auto;
