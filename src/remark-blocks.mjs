@@ -39,7 +39,7 @@ export function remarkBlocks(embedMap = {}) {
     const blocks = { ...defaultBlocks, ...langBlocks };
 
     function mdToHtml(content) {
-      return content
+      let html = content
         .replace(/!\[([^\]]*)\]\(([^)]+)\)/g, '<img src="$2" alt="$1" style="max-width:100%;height:auto;" />')
         .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>')
         .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
@@ -47,9 +47,20 @@ export function remarkBlocks(embedMap = {}) {
         .replace(/^#{1,6}\s+(.+)$/mg, (m, t) => {
           const level = m.match(/^(#+)/)[1].length;
           return '<h' + level + '>' + t + '</h' + level + '>';
-        })
+        });
+
+      // 把連續的 "- item" 行轉為 <ul><li>（必須在段落處理前）
+      html = html.replace(/((?:^- .+(?:\n|$))+)/mg, (match) => {
+        const items = match.trim().split('\n')
+          .filter(l => l.startsWith('- '))
+          .map(l => '<li>' + l.slice(2) + '</li>')
+          .join('');
+        return '<ul>' + items + '</ul>';
+      });
+
+      return html
         .replace(/\n{2,}/g, '</p><p>')
-        .replace(/^(?!<[h|p|i|s|u|a])(.+)$/mg, '<p>$1</p>');
+        .replace(/^(?!<[hpuolia])(.+)$/mg, '<p>$1</p>');
     }
 
     function processBlock(slug) {
