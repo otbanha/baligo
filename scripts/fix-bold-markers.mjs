@@ -42,6 +42,10 @@ for (const filename of files) {
   // Sveltia CMS 編輯後會把標題寫成 **_text_**，渲染為 <strong><em>
   body = body.replace(/\*\*_([^_\n]+?)_\*\*/g, '**$1**');
 
+  // ── 規則 5: \*\*_text_\*\* → **text** (反斜線轉義的 bold+italic) ──
+  // Vocus/CMS 有時輸出 \*\*_text_\*\*，在瀏覽器顯示為 **text** 字面文字
+  body = body.replace(/\\\*\\\*_([^_\n]+?)_\\\*\\\*/g, '**$1**');
+
   const newContent = fm + body;
   if (newContent !== original) {
     writeFileSync(filepath, newContent, 'utf-8');
