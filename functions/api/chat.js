@@ -55,6 +55,16 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['bali belly', 'Bali belly', 'BALI BELLY',
+               '峇里島肚子', '峇里島腹瀉', '髒水病', '拉肚子', '水土不服', '腸胃炎', '腸胃不適',
+               '肚子痛', '肚痛', '腹痛', '上吐下瀉', '腹瀉', '食物中毒',
+               'diarrhea', 'diarrhoea', 'food poisoning', 'stomach bug', 'stomach ache',
+               'upset stomach', 'sick stomach', 'traveler diarrhea'],
+    articles: [
+      { title: '峇里島肚子不適/Bali Belly完整攻略：預防、症狀與治療方法', url: '/blog/2026-01-02-69523427fd89780001caa652/' },
+    ],
+  },
+  {
     keywords: ['ATV', 'atv', 'quad bike', 'quad biking', 'off-road', '越野車', '越野'],
     articles: [
       { title: '峇里島 ATV 越野車體驗推薦', url: '/blog/2024-01-30-65b6ef65fd89780001f5d032/' },
