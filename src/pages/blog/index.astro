@@ -548,6 +548,11 @@ const socialLinks = [
       const newVideo = activeVideos[Math.floor(Math.random() * activeVideos.length)];
       const iframe = document.getElementById('yt-iframe');
       if (iframe) iframe.src = `https://www.youtube.com/embed/${newVideo}?rel=0`;
+      // 手機版：選完分類後自動收合 sidebar
+      if (sidebarInner && window.innerWidth <= 900) {
+        sidebarInner.classList.remove('open');
+        if (sidebarToggle) sidebarToggle.setAttribute('aria-expanded', 'false');
+      }
     }
 
     buttons.forEach(btn => {
