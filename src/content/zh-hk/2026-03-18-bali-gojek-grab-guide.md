@@ -19,6 +19,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/ByGkcmys01g'
 lang: zh-hk
+_srcHash: 157bbde39b69f4b665fb90445027cade
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)

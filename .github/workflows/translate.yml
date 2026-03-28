@@ -22,6 +22,10 @@ on:
         description: '指定檔案（留空翻譯全部）'
         required: false
         default: ''
+      only_blocks:
+        description: '只翻譯內容區塊（true = 跳過文章翻譯，省費用）'
+        required: false
+        default: 'false'
 
 jobs:
   translate:
@@ -90,10 +94,10 @@ jobs:
           if [ -n "${{ github.event.inputs.file }}" ]; then
             FILE_ARG="--file ${{ github.event.inputs.file }}"
           fi
-          # schedule 觸發：只同步區塊（不翻文章，省費用）
-          if [ "${{ github.event_name }}" = "schedule" ]; then
-            echo "📅 排程觸發：只翻譯內容區塊"
-            node scripts/translate.mjs --blocks
+          # schedule 觸發 或 only_blocks=true：只同步區塊（不翻文章，省費用）
+          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event.inputs.only_blocks }}" = "true" ]; then
+            echo "📅 只翻譯內容區塊（跳過文章）"
+            node scripts/translate.mjs --blocks $LANG_ARG
           else
             node scripts/translate.mjs $LANG_ARG $FILE_ARG
             node scripts/translate.mjs --blocks $LANG_ARG
