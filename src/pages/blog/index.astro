@@ -173,6 +173,51 @@ const socialLinks = [
       "query-input": "required name=search_term_string"
     }
   })} />
+  <script type="application/ld+json" set:text={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "@id": "https://gobaligo.id/#organization",
+    "name": "Go Bali Go",
+    "alternateName": "Go Bali Go 峇里島旅遊攻略",
+    "url": "https://gobaligo.id",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://gobaligo.id/favicon-32x32.png",
+      "width": 32,
+      "height": 32
+    },
+    "sameAs": [
+      "https://www.facebook.com/bali.guide.blog",
+      "https://www.instagram.com/go.bali.go/",
+      "https://www.youtube.com/@j_indonesia",
+      "https://www.threads.com/@go.bali.go"
+    ],
+    "areaServed": {
+      "@type": "Place",
+      "name": "Bali",
+      "address": { "@type": "PostalAddress", "addressCountry": "ID", "addressRegion": "Bali" }
+    },
+    "knowsAbout": ["Bali travel", "峇里島旅遊", "住宿推薦", "簽證通關", "峇里島分區攻略"]
+  })} />
+  <script type="application/ld+json" set:text={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "ItemList",
+    "name": "峇里島旅遊分類攻略",
+    "url": "https://gobaligo.id/blog/",
+    "description": "涵蓋住宿推薦、簽證通關、分區攻略、美食景點等峇里島旅遊主題分類",
+    "numberOfItems": 9,
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "新手指南", "url": "https://gobaligo.id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97" },
+      { "@type": "ListItem", "position": 2, "name": "住宿推薦", "url": "https://gobaligo.id/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6" },
+      { "@type": "ListItem", "position": 3, "name": "峇里島分區攻略", "url": "https://gobaligo.id/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5" },
+      { "@type": "ListItem", "position": 4, "name": "簽證通關", "url": "https://gobaligo.id/blog/?cat=%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C" },
+      { "@type": "ListItem", "position": 5, "name": "叫車包車", "url": "https://gobaligo.id/blog/?cat=%E5%8F%AB%E8%BB%8A%E5%8C%85%E8%BB%8A" },
+      { "@type": "ListItem", "position": 6, "name": "家庭親子", "url": "https://gobaligo.id/blog/?cat=%E5%AE%B6%E5%BA%AD%E8%A6%AA%E5%AD%90" },
+      { "@type": "ListItem", "position": 7, "name": "遊記分享", "url": "https://gobaligo.id/blog/?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB" },
+      { "@type": "ListItem", "position": 8, "name": "美食景點活動", "url": "https://gobaligo.id/blog/?cat=%E7%BE%8E%E9%A3%9F%E6%99%AF%E9%BB%9E%E6%B4%BB%E5%8B%95" },
+      { "@type": "ListItem", "position": 9, "name": "旅行技巧", "url": "https://gobaligo.id/blog/?cat=%E6%97%85%E8%A1%8C%E6%8A%80%E5%B7%A7" }
+    ]
+  })} />
 </head>
 <body>
   <Header />
@@ -802,7 +847,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   border-bottom: 2px solid var(--gold);
 }
 
-.top5-list { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5em; }
+.top5-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5em; }
 
 .top5-item a {
   display: flex;
@@ -979,7 +1024,6 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   .social-section { grid-template-columns: repeat(2, 1fr); }
   .accom-image { height: 140px; }
   .accom-body p { font-size: 0.85em; }
-  .top5-list { flex-direction: column; }
   .top5-item a { border-radius: 8px; }
 
   /* 手機版：縮小縮圖，隱藏 description */

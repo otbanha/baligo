@@ -7,6 +7,7 @@ import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import ChatBot from '../components/ChatBot.astro';
 import { getCollection } from 'astro:content';
+import { enhancedTitle, enhancedDescription, COMPANION_CAT } from '../utils/seo-keywords';
 
 type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[]; lang?: string; slug?: string };
 const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug } = Astro.props;
@@ -20,6 +21,11 @@ function extractFirstImage(text: string): string {
   return m ? m[1] : '';
 }
 const ogImage = (typeof heroImage === 'string' ? heroImage : '') || extractFirstImage(body);
+
+// Keyword-enhanced title & description for <meta> tags
+const cats = Array.isArray(category) ? category : (category ? [category] : []);
+const metaTitle = enhancedTitle(title, cats, lang ?? 'zh-tw');
+const metaDesc  = enhancedDescription(description ?? '', cats, lang ?? 'zh-tw');
 
 const collectionName = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-cn' : lang === 'zh-hk' ? 'zh-hk' : 'blog';
 const allPosts = await getCollection(collectionName as any);
@@ -96,20 +102,24 @@ const categoryCounts = categories.reduce((acc, cat) => {
   return acc;
 }, {});
 
-// 亂數推薦文章
+// 相關文章推薦：同分類優先，補足用 companion 分類（Topical Authority Siloing）
 const getRandomPosts = (categoryName: string, count: number) => {
   return allPosts
     .filter(p => {
-      const cats = Array.isArray(p.data.category) ? p.data.category : [p.data.category];
-      return cats.includes(categoryName) && p.data.title !== title;
+      const pCats = Array.isArray(p.data.category) ? p.data.category : [p.data.category];
+      return pCats.includes(categoryName) && p.data.title !== title;
     })
     .sort(() => Math.random() - 0.5)
     .slice(0, count);
 };
 
-const randomArea = getRandomPosts('峇里島分區攻略', 5);
-const randomAccom = getRandomPosts('住宿推薦', 4);
-const randomPosts = [...randomArea, ...randomAccom].sort(() => Math.random() - 0.5).slice(0, 6);
+const primaryCat = cats[0] ?? '峇里島分區攻略';
+const sameCatPosts = getRandomPosts(primaryCat, 4);
+const companionCat = COMPANION_CAT[primaryCat] ?? '峇里島分區攻略';
+const companionPosts = companionCat !== primaryCat
+  ? getRandomPosts(companionCat, Math.max(2, 6 - sameCatPosts.length))
+  : [];
+const randomPosts = [...sameCatPosts, ...companionPosts].slice(0, 6);
 
 // 促銷活動：過濾未過期的
 const allPromos = await getCollection('promotions');
@@ -132,13 +142,18 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
 <html lang={lang === 'zh-cn' ? 'zh-CN' : lang === 'zh-hk' ? 'zh-HK' : lang === 'en' ? 'en' : 'zh-TW'}>
 <head>
   <BaseHead
-    title={title}
-    description={description ?? ''}
+    title={metaTitle}
+    description={metaDesc}
     image={ogImage || undefined}
     type="article"
     publishedTime={pubDate ? new Date(pubDate).toISOString() : undefined}
     modifiedTime={updatedDate ? new Date(updatedDate).toISOString() : (pubDate ? new Date(pubDate).toISOString() : undefined)}
   />
+
+  <!-- LCP preload: fetch hero image early to reduce Largest Contentful Paint -->
+  {ogImage && ogImage !== 'https://gobaligo.id/og-default.jpg' && (
+    <link rel="preload" as="image" href={ogImage} fetchpriority="high" />
+  )}
 
   <!-- hreflang: 列出全部語言版本，讓 Google 了解多語系關係 -->
   {slug && <>
@@ -168,7 +183,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
   <Header lang={lang ?? 'blog'} slug={slug} />
   <div class="layout">
 
-    <aside class="sidebar">
+    <aside class="sidebar" data-pagefind-ignore>
       <div class="sidebar-section">
         <h3 class="sidebar-title">{i18n.sidebarTitle}</h3>
         <ul class="category-list">
@@ -216,10 +231,10 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
         )}
       </nav>
 
-      <article>
+      <article data-pagefind-body>
         <div class="prose">
           <div class="title">
-            {category && <span class="article-category">{getCatLabel(Array.isArray(category) ? category[0] : category)}</span>}
+            {category && <span class="article-category" data-pagefind-meta="category">{getCatLabel(Array.isArray(category) ? category[0] : category)}</span>}
             <h1>{title}</h1>
             <div class="date">
               <FormattedDate date={pubDate} />
@@ -252,7 +267,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
 
         <!-- 文章底部推薦 -->
         {randomPosts.length > 0 && (
-          <div class="related-posts">
+          <div class="related-posts" data-pagefind-ignore>
             <h2 class="related-title">{i18n.relatedTitle}</h2>
             <div class="related-grid">
               {randomPosts.map(post => (
@@ -277,7 +292,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
         )}
 
         <!-- 熱門分區攻略快速連結 (Semantic Siloing / Internal Linking) -->
-        <nav class="region-links" aria-label={lang === 'en' ? 'Popular Bali Areas' : '熱門峇里島分區'}>
+        <nav class="region-links" data-pagefind-ignore aria-label={lang === 'en' ? 'Popular Bali Areas' : '熱門峇里島分區'}>
           <p class="region-links-title">
             {lang === 'en' ? '🗺️ Explore Bali by Area' : lang === 'zh-cn' ? '🗺️ 峇里岛热门分区攻略' : '🗺️ 峇里島熱門分區攻略'}
           </p>

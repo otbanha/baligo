@@ -18,6 +18,7 @@
  */
 
 import { readFileSync, existsSync } from 'fs';
+import { enhancedTitle, enhancedDescription, applyHkSubs } from '../utils/seo-keywords';
 
 interface Props {
   title: string;
@@ -53,6 +54,10 @@ const cats = Array.isArray(category) ? category : (category ? [category] : []);
 const langPath = (lang && lang !== 'zh-tw') ? `${lang}/` : '';
 const articleUrl = `https://gobaligo.id/${langPath}blog/${slug}/`;
 const blogUrl    = `https://gobaligo.id/${langPath}blog/`;
+
+// Keyword-enhanced title & description for JSON-LD
+const seoTitle = enhancedTitle(title, cats, lang ?? 'zh-tw');
+const seoDesc  = enhancedDescription(description, cats, lang ?? 'zh-tw');
 
 const ogImage = (typeof heroImage === 'string' && heroImage.startsWith('http'))
   ? heroImage
@@ -94,8 +99,8 @@ if (cats.includes('住宿推薦')) {
 const schemaArticle = {
   "@context": "https://schema.org",
   "@type": "Article",
-  "headline": title,
-  "description": description,
+  "headline": seoTitle,
+  "description": seoDesc,
   "image": ogImage,
   "datePublished": pubIso,
   "dateModified": modIso,
@@ -175,13 +180,13 @@ if (cats.includes('住宿推薦')) {
   }
 }
 
-// ── [峇里島分區攻略] TouristDestination ──────────────────────────────────────
+// ── [峇里島分區攻略] TouristDestination + Guide ───────────────────────────────
 if (cats.includes('峇里島分區攻略') || cats.includes('峇里岛分区攻略')) {
   extraSchemas.push({
     "@context": "https://schema.org",
     "@type": "TouristDestination",
-    "name": title,
-    "description": description,
+    "name": seoTitle,
+    "description": seoDesc,
     "image": ogImage,
     "url": articleUrl,
     "touristType": {
@@ -199,6 +204,27 @@ if (cats.includes('峇里島分區攻略') || cats.includes('峇里岛分区攻�
       "url": `${articleUrl}#${h.slug}`,
     })),
   });
+  // Guide schema signals topical authority for area guides
+  if (h2s.length >= 2) {
+    extraSchemas.push({
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "@id": `${articleUrl}#guide`,
+      "additionalType": "https://schema.org/TravelAction",
+      "name": seoTitle,
+      "description": seoDesc,
+      "about": {
+        "@type": "Place",
+        "name": "Bali",
+        "address": { "@type": "PostalAddress", "addressCountry": "ID", "addressRegion": "Bali" },
+      },
+      "hasPart": h2s.slice(0, 6).map(h => ({
+        "@type": "WebPageElement",
+        "name": h.text,
+        "url": `${articleUrl}#${h.slug}`,
+      })),
+    });
+  }
 }
 
 // ── [簽證通關] HowTo ──────────────────────────────────────────────────────────
@@ -206,8 +232,8 @@ if ((cats.includes('簽證通關') || cats.includes('签证通关')) && h2s.leng
   extraSchemas.push({
     "@context": "https://schema.org",
     "@type": "HowTo",
-    "name": title,
-    "description": description,
+    "name": seoTitle,
+    "description": seoDesc,
     "image": ogImage,
     "totalTime": "PT30M",
     "estimatedCost": { "@type": "MonetaryAmount", "currency": "USD", "value": "0" },
@@ -251,8 +277,8 @@ if (cats.includes('美食景點活動') || cats.includes('美食景点活动')) 
   extraSchemas.push({
     "@context": "https://schema.org",
     "@type": "LocalBusiness",
-    "name": title,
-    "description": description,
+    "name": seoTitle,
+    "description": seoDesc,
     "image": ogImage,
     "url": articleUrl,
     "address": {

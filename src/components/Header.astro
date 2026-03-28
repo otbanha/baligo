@@ -13,15 +13,14 @@ const homeUrl = lang === 'en' ? '/en/blog/' :
                 lang === 'zh-cn' ? '/zh-cn/blog/' :
                 lang === 'zh-hk' ? '/zh-hk/blog/' : '/blog/';
 
-const searchPlaceholder = lang === 'en'    ? '🔍 Search Go Bali Go...' :
-                          lang === 'zh-cn' ? '🔍 搜索巴厘岛攻略...' :
-                          lang === 'zh-hk' ? '🔍 搜尋峇里島攻略...' :
-                                             '🔍 搜尋峇里島攻略...';
+const searchPlaceholder = lang === 'en'    ? '🔍 Search articles...' :
+                          lang === 'zh-cn' ? '🔍 搜索文章...' :
+                          lang === 'zh-hk' ? '🔍 搜尋文章...' :
+                                             '🔍 搜尋文章...';
 
-const searchSite = lang === 'en'    ? 'gobaligo.id/en/blog' :
-                   lang === 'zh-cn' ? 'gobaligo.id/zh-cn/blog' :
-                   lang === 'zh-hk' ? 'gobaligo.id/zh-hk/blog' :
-                                      'gobaligo.id/blog';
+const closeLabel = lang === 'en' ? 'Close search' : '關閉搜尋';
+const noResultsLabel = lang === 'en' ? 'No results found.' :
+                       lang === 'zh-cn' ? '找不到相關文章。' : '找不到相關文章。';
 ---
 
 <ScrollReveal />
@@ -34,19 +33,105 @@ const searchSite = lang === 'en'    ? 'gobaligo.id/en/blog' :
       </a>
     </div>
 
-    <form class="search-right" action="https://www.google.com/search" method="get" target="_blank">
-      <input type="hidden" name="sitesearch" value={searchSite} />
-      <input
-        type="text"
-        name="q"
-        class="search-input"
-        placeholder={searchPlaceholder}
-      />
-    </form>
+    <!-- 搜尋觸發器（點擊開啟 Pagefind modal） -->
+    <div class="search-right">
+      <button type="button" id="search-trigger" class="search-input" aria-label="開啟搜尋">
+        {searchPlaceholder}
+      </button>
+    </div>
 
     <LanguageSwitcher currentLang={lang ?? 'blog'} slug={slug ?? ''} />
   </nav>
 </header>
+
+<!-- Pagefind 搜尋 Modal -->
+<div id="search-modal" class="search-modal" hidden aria-modal="true" role="dialog" aria-label={closeLabel}>
+  <div class="search-modal-backdrop" id="search-backdrop"></div>
+  <div class="search-modal-box">
+    <div class="search-modal-header">
+      <div id="pagefind-container"></div>
+      <button type="button" class="search-close-btn" id="search-close" aria-label={closeLabel}>✕</button>
+    </div>
+    <p class="search-hint" id="search-hint">
+      {lang === 'en' ? 'Type to search 600+ Bali travel articles' : '搜尋 600+ 篇峇里島旅遊文章'}
+    </p>
+  </div>
+</div>
+
+<script define:vars={{ noResultsLabel }}>
+  let pagefindLoaded = false;
+
+  function openModal() {
+    const modal = document.getElementById('search-modal');
+    if (!modal) return;
+    modal.hidden = false;
+    document.body.style.overflow = 'hidden';
+
+    if (!pagefindLoaded) {
+      pagefindLoaded = true;
+      loadPagefind();
+    } else {
+      // Focus the input already inside the Pagefind UI
+      setTimeout(() => {
+        const input = modal.querySelector('input[type="text"],input[type="search"]');
+        if (input) input.focus();
+      }, 50);
+    }
+  }
+
+  function closeModal() {
+    const modal = document.getElementById('search-modal');
+    if (!modal) return;
+    modal.hidden = true;
+    document.body.style.overflow = '';
+  }
+
+  function loadPagefind() {
+    // Pagefind UI CSS
+    const link = document.createElement('link');
+    link.rel = 'stylesheet';
+    link.href = '/pagefind/pagefind-ui.css';
+    document.head.appendChild(link);
+
+    // Pagefind UI JS
+    const script = document.createElement('script');
+    script.src = '/pagefind/pagefind-ui.js';
+    script.onload = () => {
+      if (typeof PagefindUI !== 'undefined') {
+        new PagefindUI({
+          element: '#pagefind-container',
+          showImages: false,
+          showSubResults: false,
+          resetStyles: false,
+          translations: { placeholder: '🔍 搜尋文章關鍵字...', zero_results: noResultsLabel },
+        });
+        // Auto-focus after UI is mounted
+        setTimeout(() => {
+          const input = document.querySelector('#pagefind-container input');
+          if (input) input.focus();
+          // Hide the hint once the user starts typing
+          const hint = document.getElementById('search-hint');
+          if (input && hint) {
+            input.addEventListener('input', () => {
+              hint.style.display = input.value ? 'none' : '';
+            }, { once: false });
+          }
+        }, 100);
+      }
+    };
+    document.head.appendChild(script);
+  }
+
+  // Trigger
+  document.getElementById('search-trigger')?.addEventListener('click', openModal);
+  document.getElementById('search-close')?.addEventListener('click', closeModal);
+  document.getElementById('search-backdrop')?.addEventListener('click', closeModal);
+
+  // Close on Escape
+  document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') closeModal();
+  });
+</script>
 
 <style>
 header {
@@ -97,34 +182,134 @@ nav {
   flex-shrink: 0;
 }
 
-.search-input {
+/* 搜尋觸發按鈕：外觀與舊 input 完全相同 */
+button.search-input {
+  display: block;
   width: 100%;
   background: rgba(255,255,255,0.12);
   border: 1px solid rgba(197,160,89,0.4);
-  color: white;
+  color: rgba(255,255,255,0.5);
   border-radius: 8px;
   font-size: 0.88em;
   padding: 0.5em 1em;
   font-family: inherit;
   box-sizing: border-box;
+  text-align: left;
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s;
 }
-
-.search-input::placeholder {
-  color: rgba(255,255,255,0.5);
-}
-
-.search-input:focus {
+button.search-input:hover,
+button.search-input:focus {
   outline: none;
   border-color: var(--gold);
   background: rgba(255,255,255,0.18);
+  color: rgba(255,255,255,0.7);
+}
+
+/* ── Search Modal ─────────────────────────────────────── */
+.search-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 80px;
+}
+.search-modal[hidden] { display: none; }
+
+.search-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.65);
+  backdrop-filter: blur(4px);
+}
+
+.search-modal-box {
+  position: relative;
+  width: 100%;
+  max-width: 680px;
+  margin: 0 1em;
+  background: var(--white, #fff);
+  border-radius: 12px;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+  overflow: hidden;
+}
+
+.search-modal-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5em;
+  padding: 1em 1em 0;
+}
+
+.search-modal-header > #pagefind-container {
+  flex: 1;
+  min-width: 0;
+}
+
+.search-close-btn {
+  flex-shrink: 0;
+  background: none;
+  border: none;
+  font-size: 1.2em;
+  color: #666;
+  cursor: pointer;
+  padding: 0.3em 0.5em;
+  line-height: 1;
+  border-radius: 4px;
+  margin-top: 0.25em;
+}
+.search-close-btn:hover { background: #eee; color: #333; }
+
+.search-hint {
+  margin: 0.5em 1em 0.75em;
+  font-size: 0.8em;
+  color: #999;
+}
+
+/* Pagefind UI 覆蓋樣式 */
+:global(#pagefind-container .pagefind-ui) {
+  --pagefind-ui-scale: 0.9;
+  --pagefind-ui-primary: #0a1628;
+  --pagefind-ui-text: #1a1a1a;
+  --pagefind-ui-background: #fff;
+  --pagefind-ui-border: #d4a843;
+  --pagefind-ui-tag: #f0e6cc;
+  font-family: inherit;
+}
+
+:global(#pagefind-container .pagefind-ui__search-input) {
+  border-radius: 8px;
+  border: 1.5px solid #c5a059 !important;
+  font-size: 1em;
+}
+
+:global(#pagefind-container .pagefind-ui__result-link) {
+  color: #0a1628;
+  font-weight: 600;
+}
+:global(#pagefind-container .pagefind-ui__result-link:hover) {
+  color: #c5a059;
+}
+
+:global(#pagefind-container .pagefind-ui__results) {
+  max-height: 60vh;
+  overflow-y: auto;
+  padding-bottom: 0.5em;
+}
+
+:global(#pagefind-container .pagefind-ui__result) {
+  border-bottom: 1px solid #eee;
+  padding: 0.75em 0;
 }
 
 @media (max-width: 600px) {
   .logo-text { font-size: 1em; }
   .search-right { width: 180px; }
   nav { padding: 0 1em; }
-  /* 手機版隱藏語言切換選單 */
   :global(.lang-switcher) { display: none !important; }
+  .search-modal { padding-top: 20px; }
 }
 
 @media (max-width: 400px) {
