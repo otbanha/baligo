@@ -118,10 +118,12 @@ return (headingHtml ? headingHtml : '') + listHtml;
       if (ytMatch) {
         return '<div class="video-embed"><iframe src="https://www.youtube.com/embed/' + ytMatch[1] + '" frameborder="0" allowfullscreen loading="lazy"></iframe></div>';
       }
-      const igMatch = url.match(/instagram\.com\/(?:reel|p)\/([A-Za-z0-9_-]+)/);
+      const igMatch = url.match(/instagram\.com\/(reel|p)\/([A-Za-z0-9_-]+)/);
       if (igMatch) {
+        const igType = igMatch[1]; // preserve 'reel' or 'p' — embed.js needs correct type
+        const igId = igMatch[2];
         const s = '<' + 'script'; const e = '</' + 'script>';
-        return '<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/' + igMatch[1] + '/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote>' + s + ' async src="//www.instagram.com/embed.js">' + e + '</div>';
+        return '<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/' + igType + '/' + igId + '/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote>' + s + ' async src="//www.instagram.com/embed.js">' + e + '</div>';
       }
       const ttMatch = url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
       if (ttMatch) {
@@ -137,7 +139,9 @@ return (headingHtml ? headingHtml : '') + listHtml;
         if (node.children.length === 1) {
           const only = node.children[0];
           let candidateUrl = null;
-          if (only.type === 'link' && only.children?.length === 1 && only.children[0].value === only.url) {
+          if (only.type === 'link' && only.children?.length === 1 &&
+              (only.children[0].value === only.url ||
+               only.children[0].value === only.url.replace(/&amp;/g, '&'))) {
             candidateUrl = only.url; // GFM auto-linked bare URL
           } else if (only.type === 'text') {
             const t = only.value.trim();
