@@ -55,6 +55,20 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['美食', '必吃', '好吃', '食物', '餐廳', '吃什麼', '吃甚麼', '食乜', '食邊樣',
+               '髒鴨飯', '烤乳豬', '沙嗲', '街頭小吃', '小吃', '烏布美食', '庫塔美食', '水明漾美食',
+               'culinary', 'culiner', 'food', 'Food', 'restaurant', 'Restaurant',
+               'must eat', 'must try', 'best food', 'local food', 'bali food',
+               'where to eat', 'what to eat', 'dining', 'eat in bali'],
+    articles: [
+      { title: '【2026 峇里島美食攻略】10 大必吃經典與街頭小吃：烤乳豬、沙嗲到髒鴨飯全紀錄', url: '/blog/2026-01-12-693aaf9dfd897800013bfe3f/' },
+      { title: '峇里島必嚐10大印尼美食指南：從髒鴨餐到烤乳豬，舌尖上的南洋風情', url: '/blog/2025-05-10-681ed810fd89780001472eb1/' },
+      { title: '烏布美食推薦｜峇里島最強食記：從髒鴨飯、豬肋排到稻田網美咖啡廳', url: '/blog/2026-02-02-69809444fd897800019bddac/' },
+      { title: '庫塔美食推薦｜峇里島最強美食攻略', url: '/blog/2025-06-03-683ea99cfd897800010202aa/' },
+      { title: '水明漾美食攻略｜浪漫、精緻與地道峇里島的完美結合', url: '/blog/2025-06-02-683c262efd89780001852be7/' },
+    ],
+  },
+  {
     keywords: ['bali belly', 'Bali belly', 'BALI BELLY',
                '峇里島肚子', '峇里島腹瀉', '髒水病', '拉肚子', '水土不服', '腸胃炎', '腸胃不適',
                '肚子痛', '肚痛', '腹痛', '上吐下瀉', '腹瀉', '食物中毒',
