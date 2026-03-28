@@ -46,6 +46,12 @@ for (const filename of files) {
   // Vocus/CMS 有時輸出 \*\*_text_\*\*，在瀏覽器顯示為 **text** 字面文字
   body = body.replace(/\\\*\\\*_([^_\n]+?)_\\\*\\\*/g, '**$1**');
 
+  // ── 規則 6: \*\*\*\*text\*\*\*\* → **text** (四個反斜線星號) ──────────
+  // Vocus 抓取後每個 * 都被反斜線轉義，造成字面顯示 ****text****
+  body = body.replace(/(?:\\\*){4}([^*\n]+?)(?:\\\*){4}/g, '**$1**');
+  // 不對稱版本：三或四個反斜線星號
+  body = body.replace(/(?:\\\*){3,4}([^*\n]+?)(?:\\\*){3,4}/g, '**$1**');
+
   const newContent = fm + body;
   if (newContent !== original) {
     writeFileSync(filepath, newContent, 'utf-8');
