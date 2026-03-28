@@ -31,6 +31,8 @@ jobs:
   translate:
     runs-on: ubuntu-latest
     timeout-minutes: 360
+    permissions:
+      contents: write
 
     steps:
       - name: 確認執行時間（push 觸發限 UTC 18:00-22:00；schedule/手動不限）
