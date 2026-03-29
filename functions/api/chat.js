@@ -232,6 +232,14 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['金巴蘭海鮮', '金巴蘭餐廳', '金巴蘭吃', '金巴蘭食',
+               'jimbaran seafood', 'Jimbaran seafood', 'jimbaran restaurant', 'jimbaran food',
+               'seafood jimbaran', 'eat in jimbaran', 'dinner jimbaran'],
+    articles: [
+      { title: '峇里島金巴蘭海鮮推薦：11家海鮮餐廳不踩雷推薦', url: '/blog/2023-09-17-6506748dfd897800018d6be2/' },
+    ],
+  },
+  {
     keywords: ['金巴蘭', 'jimbaran', 'Jimbaran', 'JIMBARAN', '武吉', 'bukit', 'Bukit', 'BUKIT',
                'Jimbaran beach', 'jimbaran beach', 'Bukit peninsula', 'southern Bali'],
     articles: [
