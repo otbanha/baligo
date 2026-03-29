@@ -55,6 +55,18 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['衝浪', '沖浪', '學衝浪', '學沖浪', '衝浪教練', '沖浪教練', '衝浪課', '沖浪課',
+               '衝浪海灘', '沖浪海灘', '衝浪點', '沖浪點', '庫塔衝浪', '水明漾衝浪',
+               'surfing', 'Surfing', 'SURFING', 'surf', 'Surf', 'SURF',
+               'surf lesson', 'surf school', 'surf spot', 'surf beach',
+               'learn to surf', 'surfing lesson', 'surfing beach',
+               'kuta surf', 'seminyak surf', 'canggu surf'],
+    articles: [
+      { title: '峇里島衝浪完全攻略：初學者必看的場地、課程與注意事項', url: '/blog/2024-04-20-66236818fd89780001389aaa/' },
+      { title: '峇里島衝浪推薦：最適合初學者的海灘與衝浪學校', url: '/blog/2026-01-20-694122b8fd89780001f514c9/' },
+    ],
+  },
+  {
     keywords: ['美食', '必吃', '好吃', '食物', '餐廳', '吃什麼', '吃甚麼', '食乜', '食邊樣',
                '髒鴨飯', '烤乳豬', '沙嗲', '街頭小吃', '小吃', '烏布美食', '庫塔美食', '水明漾美食',
                'culinary', 'culiner', 'food', 'Food', 'restaurant', 'Restaurant',
