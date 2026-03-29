@@ -274,7 +274,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 500;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v3'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v4'; // increment to bust stale cached responses
 
 async function msgCacheKey(msg) {
   const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(CACHE_VERSION + ':' + msg.toLowerCase().trim()));
