@@ -40,6 +40,10 @@ const noResultsLabel = lang === 'en' ? 'No results found.' :
       </button>
     </div>
 
+    <a href="/bookmarks/" class="bk-icon" id="bk-icon-link" aria-label="我的書籤" title="我的書籤">
+      🔖<span class="bk-badge" id="bk-badge" hidden></span>
+    </a>
+
     <LanguageSwitcher currentLang={lang ?? 'blog'} slug={slug ?? ''} />
   </nav>
 </header>
@@ -57,6 +61,21 @@ const noResultsLabel = lang === 'en' ? 'No results found.' :
     </p>
   </div>
 </div>
+
+<script>
+  // 書籤數量 badge
+  (function () {
+    try {
+      const saved = JSON.parse(localStorage.getItem('bk') || '{}');
+      const count = Object.keys(saved).length;
+      const badge = document.getElementById('bk-badge');
+      if (badge && count > 0) {
+        badge.textContent = String(count);
+        badge.hidden = false;
+      }
+    } catch {}
+  })();
+</script>
 
 <script define:vars={{ noResultsLabel }}>
   let pagefindLoaded = false;
@@ -302,6 +321,31 @@ button.search-input:focus {
 :global(#pagefind-container .pagefind-ui__result) {
   border-bottom: 1px solid #eee;
   padding: 0.75em 0;
+}
+
+.bk-icon {
+  position: relative;
+  font-size: 1.3em;
+  text-decoration: none;
+  line-height: 1;
+  flex-shrink: 0;
+}
+.bk-badge {
+  position: absolute;
+  top: -6px;
+  right: -8px;
+  background: #ef4444;
+  color: #fff;
+  font-size: 0.45em;
+  font-weight: 700;
+  min-width: 1.4em;
+  height: 1.4em;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0.2em;
+  line-height: 1;
 }
 
 @media (max-width: 600px) {

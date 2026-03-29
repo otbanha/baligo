@@ -1,0 +1,124 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="zh-TW">
+  <head>
+    <BaseHead title="我的書籤 — 峇里島知識庫" description="你儲存的峇里島旅遊文章書籤" />
+  </head>
+  <body>
+    <Header />
+    <main class="bk-page">
+      <h1>🔖 我的書籤</h1>
+      <p class="bk-hint">書籤儲存在您的瀏覽器，換裝置或清除瀏覽器資料後會消失。</p>
+      <div id="bk-list"><p class="bk-empty">載入中…</p></div>
+    </main>
+    <Footer />
+
+    <script>
+      const BOOKMARK_KEY = 'bk';
+
+      function getSaved(): Record<string, string> {
+        try { return JSON.parse(localStorage.getItem(BOOKMARK_KEY) || '{}'); } catch { return {}; }
+      }
+
+      function render() {
+        const saved = getSaved();
+        const list = document.getElementById('bk-list')!;
+        const entries = Object.entries(saved);
+
+        if (entries.length === 0) {
+          list.innerHTML = '<p class="bk-empty">還沒有書籤。閱讀文章時，按下「🔖 書籤」按鈕即可儲存。</p>';
+          return;
+        }
+
+        list.innerHTML = `
+          <p class="bk-count">共 ${entries.length} 篇</p>
+          <ul class="bk-items">
+            ${entries.map(([url, title]) => `
+              <li class="bk-item">
+                <a href="${url}" class="bk-title">${title}</a>
+                <button class="bk-remove" data-url="${url}" aria-label="移除書籤">✕</button>
+              </li>
+            `).join('')}
+          </ul>
+          <button class="bk-clear">清除全部書籤</button>
+        `;
+
+        list.querySelectorAll<HTMLButtonElement>('.bk-remove').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const saved = getSaved();
+            delete saved[btn.dataset.url!];
+            localStorage.setItem(BOOKMARK_KEY, JSON.stringify(saved));
+            render();
+          });
+        });
+
+        list.querySelector('.bk-clear')?.addEventListener('click', () => {
+          if (confirm('確定要清除所有書籤嗎？')) {
+            localStorage.removeItem(BOOKMARK_KEY);
+            render();
+          }
+        });
+      }
+
+      render();
+    </script>
+
+    <style>
+      .bk-page {
+        max-width: 720px;
+        margin: 2.5em auto;
+        padding: 0 1.5em;
+        min-height: 60vh;
+      }
+      .bk-page h1 { font-size: 1.6em; margin-bottom: 0.3em; }
+      .bk-hint { font-size: 0.82em; color: #888; margin-bottom: 1.5em; }
+      .bk-count { font-size: 0.85em; color: #666; margin-bottom: 0.8em; }
+      .bk-empty { color: #888; font-size: 0.95em; }
+      .bk-items { list-style: none; padding: 0; margin: 0 0 1.5em; display: flex; flex-direction: column; gap: 0.5em; }
+      .bk-item {
+        display: flex;
+        align-items: center;
+        gap: 0.75em;
+        padding: 0.7em 0.9em;
+        background: #f8fafc;
+        border-radius: 8px;
+        border: 1px solid #e2e8f0;
+      }
+      .bk-title {
+        flex: 1;
+        color: var(--ocean, #0a1628);
+        font-weight: 600;
+        text-decoration: none;
+        font-size: 0.92em;
+        line-height: 1.4;
+      }
+      .bk-title:hover { color: var(--gold, #c5a059); text-decoration: underline; }
+      .bk-remove {
+        flex-shrink: 0;
+        background: none;
+        border: none;
+        color: #aaa;
+        cursor: pointer;
+        font-size: 0.9em;
+        padding: 0.2em 0.4em;
+        border-radius: 4px;
+      }
+      .bk-remove:hover { background: #fee2e2; color: #dc2626; }
+      .bk-clear {
+        background: none;
+        border: 1px solid #e2e8f0;
+        border-radius: 6px;
+        padding: 0.4em 1em;
+        font-size: 0.82em;
+        color: #888;
+        cursor: pointer;
+      }
+      .bk-clear:hover { border-color: #dc2626; color: #dc2626; }
+    </style>
+  </body>
+</html>
