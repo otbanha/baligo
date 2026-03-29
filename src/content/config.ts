@@ -39,7 +39,13 @@ const promotions = defineCollection({
     url: z.string(),
     coverImage: z.string().optional(),
     note: z.string().optional(),
-    expiresAt: z.preprocess(v => (v === '' || v == null) ? undefined : v, z.coerce.date().optional()),
+    expiresAt: z.union([z.date(), z.string(), z.null(), z.undefined()]).optional()
+      .transform(v => {
+        if (v == null || v === '') return undefined;
+        if (v instanceof Date) return isNaN(v.getTime()) ? undefined : v;
+        const d = new Date(v as string);
+        return isNaN(d.getTime()) ? undefined : d;
+      }),
   }),
 });
 
