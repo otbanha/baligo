@@ -18,7 +18,7 @@ const PINNED_ARTICLES = [
                'first time', 'first visit', 'first trip', 'beginner', 'newbie',
                'guide for beginners', 'travel tips', 'where to start', 'how to plan'],
     articles: [
-      { title: '峇里島新手必讀完整攻略', url: '/blog/2026-03-08-657598bdfd8978000120fe20/' },
+      { title: '【峇里島旅遊指南】新手必看 8 大注意事項：飲水安全、電壓插頭、文化禁忌與防坑建議', url: '/blog/2023-08-15-64db6b7dfd897800013a97bc/' },
     ],
   },
   {
@@ -565,7 +565,7 @@ export async function onRequestPost(context) {
   const pinnedUrls = new Set(pinned.map(a => a.url));
   // 將文章 URL 轉換為對應語系版本
   const relatedArticles = [...pinned, ...fromIndex.filter(a => !pinnedUrls.has(a.url))]
-    .slice(0, 3)
+    .slice(0, 5)
     .map(a => ({ ...a, url: localizeUrl(a.url, lang) }));
   const systemPrompt = buildSystemPrompt(lang, relatedArticles, customIntro);
 
