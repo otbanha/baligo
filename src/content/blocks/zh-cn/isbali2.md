@@ -3,7 +3,7 @@ title: isbali2
 type: random-list
 randomCount: 8
 lang: zh-cn
-_srcHash: eb087d2288cb1088bc87a42c283ab865
+_srcHash: 732b7fa405037a5f7328b86cae3397c6
 ---
 
 ## ▼更多正在进行的优惠
@@ -16,3 +16,4 @@ _srcHash: eb087d2288cb1088bc87a42c283ab865
 - [📸【顶级巴厘岛豪华VIP旅游】Alphard专车+五星住宿](/blog/2025-03-15-67d2fb9efd89780001013b91/)
 - [👨‍👨‍👦‍👦【团体旅游如何安排】团体旅游易踩雷？5大难题你想过了吗？](/blog/2025-03-05-67c7ed8afd89780001d9cadc/)
 - [🕍【巴厘岛凯宾斯基】限时促销 USD317 含税+早餐+下午茶](/blog/2026-03-06-69aa4faefd897800016bbeda/)
+- [🦒【巴厘岛豪华亲子团】与动物共眠：入住野生动物园酒店，6D5N USD769](/blog/2026-03-29-023447/)
