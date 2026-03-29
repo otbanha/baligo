@@ -1043,6 +1043,12 @@ hr { margin: 1.2em 0 1.8em; }
   display: block;
   width: 100%;
 }
+/* list item 裡的圖片突破 ul/ol padding-left 對齊 carousel */
+:global(.prose li .img-wrap),
+:global(.prose li .carousel) {
+  margin-left: -40px;
+  width: calc(100% + 40px);
+}
 :global(.prose .img-wrap::after) {
   content: 'gobaligo.id';
   position: absolute;
