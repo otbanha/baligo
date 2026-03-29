@@ -4,7 +4,7 @@ description: Gojek / Grab 的使用方式。在峇里島旅遊，Gojek 和 Grab 
 pubDate: 2026-03-18
 category:
   - 叫車包車
-tags: ''
+tags: []
 heroImage: https://images.gobaligo.id/vocus/vocus_890916f7109e541004494eb740f7c950.png
 originalUrl: ''
 embeds:
