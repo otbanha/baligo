@@ -567,6 +567,18 @@ export async function onRequestPost(context) {
   const relatedArticles = [...pinned, ...fromIndex.filter(a => !pinnedUrls.has(a.url))]
     .slice(0, 5)
     .map(a => ({ ...a, url: localizeUrl(a.url, lang) }));
+
+  // ── 有 pinned 文章時直接回傳，不經過 AI（避免 AI 自行篩選或改標題）───────────────
+  if (pinned.length > 0 && relatedArticles.length > 0) {
+    const intro = customIntro || '關於您的問題，以下文章有詳細介紹：';
+    const links = relatedArticles.map(a => `[${a.title}](${a.url})`).join('\n');
+    const reply = `${intro}\n\n${links}`;
+    if (env.RATE_LIMIT) {
+      await env.RATE_LIMIT.put(cacheKey, reply, { expirationTtl: CACHE_TTL });
+    }
+    return Response.json({ reply }, { headers: corsHeaders });
+  }
+
   const systemPrompt = buildSystemPrompt(lang, relatedArticles, customIntro);
 
   // ── DeepInfra / DeepSeek API (OpenAI-compatible) ─────────────────────────────
