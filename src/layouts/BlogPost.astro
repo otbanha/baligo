@@ -246,6 +246,12 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
             <hr />
           </div>
 
+          {heroImage && heroImage !== extractFirstImage(body) && (
+            <div class="hero-image">
+              <img src={heroImage} alt={title} loading="eager" fetchpriority="high" />
+            </div>
+          )}
+
           {showToc && (
             <nav class="toc" aria-label="文章目錄">
               <div class="toc-header">
