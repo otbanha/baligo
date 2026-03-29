@@ -92,11 +92,8 @@ export function remarkBlocks(embedMap = {}) {
             }
             return '<li>' + i + '</li>';
           }).join('') + '</ul>';
-          const headingHtml = nonListLines.replace(/^#{1,6}\s+(.+)$/mg, function(m, t) {
-  const level = m.match(/^(#+)/)[1].length;
-  return '<h' + level + '>' + t + '</h' + level + '>';
-});
-return (headingHtml ? headingHtml : '') + listHtml;
+          const headingHtml = mdToHtml(nonListLines);
+          return (headingHtml ? headingHtml : '') + listHtml;
         }
 
         if (block.type === 'random-cards') {
