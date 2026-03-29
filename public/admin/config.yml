@@ -77,7 +77,7 @@ collections:
     label: 促銷活動
     folder: src/content/promotions
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: "{{year}}-{{month}}-{{day}}-{{hour}}{{minute}}{{second}}"
     sort_field: expiresAt
     sort_direction: Ascending
     summary: "{{title}} — 截止：{{expiresAt}}"
@@ -88,8 +88,15 @@ collections:
       - { label: "標題香港繁體（選填）", name: title_zh_hk, widget: string, required: false }
       - { label: 連結網址, name: url, widget: string }
       - { label: 封面圖網址（自動抓取後可修改）, name: coverImage, widget: string, required: false }
-      - { label: 備注（內部用）, name: note, widget: text, required: false }
-      - { label: 截止日期, name: expiresAt, widget: datetime, required: false, hint: "不填表示長期有效" }
+      - { label: 備注（內部用）, name: note, widget: string, required: false }
+      - label: 截止日期
+        name: expiresAt
+        widget: datetime
+        required: false
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        format: "YYYY-MM-DD"
+        hint: "不填表示長期有效"
 
   - name: blocks
     label: 內容區塊（繁體中文）
