@@ -117,10 +117,10 @@ export function remarkBlocks(embedMap = {}) {
       }
       const igMatch = url.match(/instagram\.com\/(reel|p)\/([A-Za-z0-9_-]+)/);
       if (igMatch) {
-        const igType = igMatch[1]; // preserve 'reel' or 'p' — embed.js needs correct type
+        const igType = igMatch[1];
         const igId = igMatch[2];
-        const s = '<' + 'script'; const e = '</' + 'script>';
-        return '<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/' + igType + '/' + igId + '/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote>' + s + ' async src="//www.instagram.com/embed.js">' + e + '</div>';
+        const embedPath = igType === 'reel' ? 'reel' : 'p';
+        return '<div class="video-embed video-embed--ig"><iframe src="https://www.instagram.com/' + embedPath + '/' + igId + '/embed/" frameborder="0" scrolling="no" allowtransparency="true" allow="encrypted-media" loading="lazy" style="width:100%;aspect-ratio:9/16;border:none;max-width:540px;margin:0 auto;display:block;"></iframe></div>';
       }
       const ttMatch = url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
       if (ttMatch) {
