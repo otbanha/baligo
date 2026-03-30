@@ -1,5 +1,23 @@
 ---
 export const prerender = true;
+import { getCollection } from 'astro:content';
+
+const privatePosts = (await getCollection('blog'))
+  .filter(p => p.data.private === true)
+  .sort((a, b) => {
+    const da = a.data.pubDate ? new Date(a.data.pubDate).valueOf() : 0;
+    const db = b.data.pubDate ? new Date(b.data.pubDate).valueOf() : 0;
+    return db - da;
+  });
+
+const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
+  id: p.id,
+  title: p.data.title,
+  description: p.data.description || '',
+  pubDate: p.data.pubDate ? new Date(p.data.pubDate).toISOString().split('T')[0] : '',
+  category: Array.isArray(p.data.category) ? p.data.category[0] : (p.data.category || ''),
+  url: `/blog/${p.id}/`,
+})));
 ---
 <!DOCTYPE html>
 <html lang="zh-TW">
@@ -114,6 +132,61 @@ export const prerender = true;
     }
     .open-btn:hover { background: #254d85; }
     .open-btn svg { width: 16px; height: 16px; flex-shrink: 0; }
+
+    /* ── Private Posts Panel ──────────────────────────────────────── */
+    .private-panel {
+      flex: 1; overflow-y: auto; padding: 1.4rem 1.8rem;
+      background: #0f1923;
+    }
+    .private-header {
+      display: flex; align-items: center; gap: 1rem; margin-bottom: 1.2rem;
+    }
+    .private-header h2 { font-size: 1.05rem; font-weight: 800; color: #C5A059; }
+    .private-count {
+      background: #1a2535; border: 1px solid #2e3d52;
+      color: #9ab; font-size: 0.78rem; font-weight: 700;
+      padding: 0.2em 0.8em; border-radius: 20px;
+    }
+    .private-cms-link {
+      margin-left: auto; font-size: 0.8rem; color: #7a8fa8;
+      text-decoration: none; border: 1px solid #2e3d52;
+      border-radius: 6px; padding: 0.3em 0.9em;
+      transition: border-color .15s, color .15s;
+    }
+    .private-cms-link:hover { border-color: #C5A059; color: #C5A059; }
+    .private-list { display: flex; flex-direction: column; gap: 0.5rem; }
+    .private-item {
+      background: #1a2535; border: 1px solid #2e3d52; border-radius: 8px;
+      padding: 0.8em 1.1em; display: flex; align-items: center; gap: 1em;
+      transition: border-color .15s;
+    }
+    .private-item:hover { border-color: #C5A059; }
+    .private-meta { flex-shrink: 0; text-align: right; min-width: 80px; }
+    .private-date { font-size: 0.72rem; color: #4a5d72; }
+    .private-cat {
+      font-size: 0.68rem; background: rgba(197,160,89,.15); color: #C5A059;
+      padding: 0.15em 0.5em; border-radius: 10px; font-weight: 600;
+      display: inline-block; margin-top: 0.2em;
+    }
+    .private-body { flex: 1; min-width: 0; }
+    .private-title {
+      font-size: 0.88rem; font-weight: 700; color: #e8e0d4;
+      text-decoration: none; display: block; line-height: 1.4;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .private-title:hover { color: #C5A059; }
+    .private-desc {
+      font-size: 0.72rem; color: #4a5d72; margin-top: 0.2em;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .private-copy {
+      flex-shrink: 0; background: none; border: 1px solid #2e3d52;
+      border-radius: 6px; padding: 0.3em 0.8em; font-size: 0.73rem;
+      color: #7a8fa8; cursor: pointer; transition: all .15s; white-space: nowrap;
+    }
+    .private-copy:hover { border-color: #C5A059; color: #C5A059; }
+    .private-copy.copied { border-color: #48bb78; color: #48bb78; }
+    .private-empty { color: #4a5d72; font-size: 0.9rem; text-align: center; padding: 3rem 0; }
   </style>
 </head>
 <body>
@@ -141,13 +214,8 @@ export const prerender = true;
     <button class="tab"        data-tab="shorturl"><span class="icon">🔗</span> 短網址</button>
     <button class="tab"        data-tab="hot">      <span class="icon">🔥</span> 本週熱門</button>
     <button class="tab"        data-tab="featured"><span class="icon">⭐</span> 編輯精選</button>
-    <button class="tab"        data-tab="cf">      <span class="icon">☁️</span> Cloudflare</button>
     <button class="tab"        data-tab="videos">   <span class="icon">🎬</span> 首頁視頻</button>
-    <button class="tab"        data-tab="deepinfra"><span class="icon">🤖</span> DeepInfra</button>
-    <div class="tabbar-spacer"></div>
-    <a class="cms-btn" href="/admin/#/collections/blog" target="_blank" rel="noopener">
-      <span class="icon">✏️</span> 開啟 CMS
-    </a>
+    <button class="tab"        data-tab="private"> <span class="icon">🔒</span> 私密文章</button>
   </nav>
 
   <!-- Content Panels -->
@@ -183,48 +251,22 @@ export const prerender = true;
       <iframe id="iframe-videos" title="首頁視頻管理"></iframe>
     </div>
 
-    <!-- Cloudflare (external — cannot iframe) -->
-    <div class="panel" id="panel-cf">
-      <div class="ext-panel">
-        <div class="ext-card">
-          <div class="ext-icon">☁️</div>
-          <h2>Cloudflare Dashboard</h2>
-          <p>Cloudflare 不允許嵌入 iframe。<br>請點下方按鈕在新分頁開啟。</p>
-          <a class="open-btn"
-             href="https://dash.cloudflare.com/8539451c59b0447bc90fea01f29d10c8/pages/view/baligo2"
-             target="_blank" rel="noopener">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-            </svg>
-            在新分頁開啟
-          </a>
+    <!-- 🔒 私密文章 -->
+    <div class="panel" id="panel-private">
+      <div class="private-panel">
+        <div class="private-header">
+          <h2>🔒 私密文章</h2>
+          <span class="private-count" id="private-count">0 篇</span>
+          <a class="private-cms-link" href="/admin/#/collections/blog" target="_blank">→ 前往 CMS</a>
         </div>
-      </div>
-    </div>
-
-    <!-- DeepInfra (external — cannot iframe) -->
-    <div class="panel" id="panel-deepinfra">
-      <div class="ext-panel">
-        <div class="ext-card">
-          <div class="ext-icon">🤖</div>
-          <h2>DeepInfra Dashboard</h2>
-          <p>DeepInfra 不允許嵌入 iframe。<br>請點下方按鈕在新分頁開啟。</p>
-          <a class="open-btn"
-             href="https://deepinfra.com/dash/usage"
-             target="_blank" rel="noopener">
-            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2">
-              <path d="M18 13v6a2 2 0 01-2 2H5a2 2 0 01-2-2V8a2 2 0 012-2h6M15 3h6v6M10 14L21 3"/>
-            </svg>
-            在新分頁開啟
-          </a>
-        </div>
+        <div class="private-list" id="private-list"></div>
       </div>
     </div>
 
   </div><!-- /content -->
 </div><!-- /shell -->
 
-<script is:inline>
+<script is:inline define:vars={{ privatePostsJson }}>
   var TAB_URLS = {
     index:    '/index-all/',
     upload:   '/admin/upload/',
@@ -233,6 +275,41 @@ export const prerender = true;
     featured: '/admin/featured/',
     videos:   '/admin/videos/',
   };
+
+  var privatePosts = JSON.parse(privatePostsJson);
+
+  function renderPrivate() {
+    var list = document.getElementById('private-list');
+    var badge = document.getElementById('private-count');
+    badge.textContent = privatePosts.length + ' 篇';
+    if (privatePosts.length === 0) {
+      list.innerHTML = '<p class="private-empty">目前沒有私密文章</p>';
+      return;
+    }
+    list.innerHTML = privatePosts.map(function(p) {
+      return '<div class="private-item">' +
+        '<div class="private-meta">' +
+          '<div class="private-date">' + p.pubDate + '</div>' +
+          (p.category ? '<div class="private-cat">' + p.category + '</div>' : '') +
+        '</div>' +
+        '<div class="private-body">' +
+          '<a class="private-title" href="' + p.url + '" target="_blank">' + p.title + '</a>' +
+          (p.description ? '<div class="private-desc">' + p.description + '</div>' : '') +
+        '</div>' +
+        '<button class="private-copy" data-url="https://gobaligo.id' + p.url + '">複製連結</button>' +
+      '</div>';
+    }).join('');
+
+    list.querySelectorAll('.private-copy').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        navigator.clipboard.writeText(btn.dataset.url).then(function() {
+          btn.textContent = '已複製 ✓';
+          btn.classList.add('copied');
+          setTimeout(function() { btn.textContent = '複製連結'; btn.classList.remove('copied'); }, 2000);
+        });
+      });
+    });
+  }
 
   var loaded = {};
 
@@ -247,6 +324,10 @@ export const prerender = true;
     if (iframe && !loaded[tabId] && TAB_URLS[tabId]) {
       iframe.src = TAB_URLS[tabId];
       loaded[tabId] = true;
+    }
+    if (tabId === 'private' && !loaded['private']) {
+      renderPrivate();
+      loaded['private'] = true;
     }
   }
 
