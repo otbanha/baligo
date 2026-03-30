@@ -23,7 +23,7 @@ function extractFirstImage(body: string): string {
 }
 
 const allPosts = (await getCollection('blog'))
-  .filter(p => p.data.pubDate)
+  .filter(p => p.data.pubDate && !p.data.private)
   .map(p => ({
     ...p,
     data: {

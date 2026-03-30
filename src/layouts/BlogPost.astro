@@ -10,7 +10,7 @@ import { getCollection } from 'astro:content';
 import { enhancedTitle, enhancedDescription, COMPANION_CAT } from '../utils/seo-keywords';
 
 type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[]; lang?: string; slug?: string };
-const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate } = Astro.props;
 
 const tocHeadings = headings.filter(h => h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= 2;
@@ -167,6 +167,8 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
     modifiedTime={updatedDate ? new Date(updatedDate).toISOString() : (pubDate ? new Date(pubDate).toISOString() : undefined)}
   />
 
+  {isPrivate && <meta name="robots" content="noindex,nofollow" />}
+
   <!-- LCP preload: fetch hero image early to reduce Largest Contentful Paint -->
   {ogImage && ogImage !== 'https://gobaligo.id/og-default.jpg' && (
     <link rel="preload" as="image" href={ogImage} fetchpriority="high" />
@@ -248,7 +250,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
         )}
       </nav>
 
-      <article data-pagefind-body>
+      <article {...(isPrivate ? { 'data-pagefind-ignore': true } : { 'data-pagefind-body': true })}>
         <div class="prose">
           <div class="title">
             {category && <span class="article-category" data-pagefind-meta="category">{getCatLabel(Array.isArray(category) ? category[0] : category)}</span>}

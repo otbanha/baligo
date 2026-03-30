@@ -19,7 +19,7 @@ const langPosts = await getCollection('zh-hk');
 const langMap = new Map(langPosts.map(p => [p.id, p]));
 
 const allPosts = (await getCollection('blog'))
-  .filter(p => p.data.pubDate)
+  .filter(p => p.data.pubDate && !p.data.private)
   .map(p => {
     const t = langMap.get(p.id);
     return {

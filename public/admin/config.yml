@@ -55,6 +55,7 @@ collections:
         hint: "一行一個 tag，例如：\n峇里島\n住宿\n推薦"
       - { label: 首圖, name: heroImage, widget: image, required: false, hint: "不填則自動抓取內文第一張圖" }
       - { label: 原始網址, name: originalUrl, widget: string, required: false }
+      - { label: 🔒 私密發布（有連結才能看）, name: private, widget: boolean, required: false, default: false, hint: "勾選後此文章不會出現在文章列表和搜尋，但有直接連結仍可訪問" }
       - { label: 內文, name: body, widget: markdown }
       - label: 影片嵌入
         name: embeds

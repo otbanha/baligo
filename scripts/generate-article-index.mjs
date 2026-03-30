@@ -55,6 +55,7 @@ for (const file of files) {
     || (fm.tags ? [fm.tags] : []);
 
   if (!fm.title) continue;
+  if (fm.private === 'true' || fm.private === true) continue;
 
   // 新文章優先（用 pubDate 排序）
   const pubDate = fm.pubDate || '2000-01-01';
