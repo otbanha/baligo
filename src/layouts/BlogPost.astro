@@ -937,7 +937,12 @@ hr { margin: 1.2em 0 1.8em; }
   height: 100%;
 }
 
-.prose :global(.video-embed--ig),
+.prose :global(.video-embed--ig) {
+  aspect-ratio: 9/16;
+  max-width: 340px;
+  margin: 1.5em auto;
+}
+
 .prose :global(.video-embed--tt) {
   aspect-ratio: unset;
   max-width: 540px;
