@@ -9,44 +9,47 @@ const SITE_DESCRIPTION = '峇里島旅遊最完整的中文攻略網站。簽證
 const SITE_OG_IMAGE = 'https://gobaligo.id/og-default.jpg';
 const SITE_BASE = 'https://gobaligo.id';
 
-// 分類名稱 → 頁面標題
-const CAT_TITLES = {
-  '新手指南':     '新手指南',
-  '住宿推薦':     '住宿推薦',
-  '峇里島分區攻略': '峇里島分區攻略',
-  '簽證通關':     '簽證通關',
-  '叫車包車':     '叫車包車',
-  '家庭親子':     '家庭親子',
-  '遊記分享':     '遊記分享',
-  '美食景點活動': '美食景點活動',
-  '旅行技巧':     '旅行技巧',
-  '新聞存檔':     '新聞存檔',
+// 分類名稱 → { label, image }
+// image：上傳 1200×630 的分類封面圖到 public/ 後填入路徑
+const CAT_META = {
+  '新手指南':       { label: '新手指南',       image: 'https://gobaligo.id/og-default.jpg' },
+  '住宿推薦':       { label: '住宿推薦',       image: 'https://gobaligo.id/og-default.jpg' },
+  '峇里島分區攻略': { label: '峇里島分區攻略', image: 'https://gobaligo.id/og-default.jpg' },
+  '簽證通關':       { label: '簽證通關',       image: 'https://gobaligo.id/og-default.jpg' },
+  '叫車包車':       { label: '叫車包車',       image: 'https://gobaligo.id/og-default.jpg' },
+  '家庭親子':       { label: '家庭親子',       image: 'https://gobaligo.id/og-default.jpg' },
+  '遊記分享':       { label: '遊記分享',       image: 'https://gobaligo.id/og-default.jpg' },
+  '美食景點活動':   { label: '美食景點活動',   image: 'https://gobaligo.id/og-default.jpg' },
+  '旅行技巧':       { label: '旅行技巧',       image: 'https://gobaligo.id/og-default.jpg' },
+  '新聞存檔':       { label: '新聞存檔',       image: 'https://gobaligo.id/og-default.jpg' },
 };
 
-function extractPageTitle(url, note) {
+function extractMeta(destUrl, note) {
   try {
-    const u = new URL(url);
+    const u = new URL(destUrl);
     const cat = u.searchParams.get('cat') || u.searchParams.get('category') || '';
-    if (cat && CAT_TITLES[cat]) {
-      return `${CAT_TITLES[cat]} — ${SITE_TITLE}`;
+    if (cat && CAT_META[cat]) {
+      const { label, image } = CAT_META[cat];
+      return { title: `${label} — ${SITE_TITLE}`, image };
     }
-    // pathname hint: /go/bali-tips type labels from note
-    if (note) return `${note} — ${SITE_TITLE}`;
+    if (note) return { title: `${note} — ${SITE_TITLE}`, image: SITE_OG_IMAGE };
   } catch { /* ignore */ }
-  return SITE_TITLE;
+  return { title: SITE_TITLE, image: SITE_OG_IMAGE };
 }
 
-function buildHtml(url, title, description) {
+function buildHtml(destUrl, selfUrl, title, description, ogImage) {
   const esc = s => s.replace(/&/g, '&amp;').replace(/"/g, '&quot;').replace(/</g, '&lt;');
   return `<!DOCTYPE html>
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8" />
-  <meta http-equiv="refresh" content="0; url=${esc(url)}" />
+  <meta http-equiv="refresh" content="0; url=${esc(destUrl)}" />
+  <link rel="canonical" href="${esc(selfUrl)}" />
   <title>${esc(title)}</title>
+  <meta property="og:url" content="${esc(selfUrl)}" />
   <meta property="og:title" content="${esc(title)}" />
   <meta property="og:description" content="${esc(description)}" />
-  <meta property="og:image" content="${SITE_OG_IMAGE}" />
+  <meta property="og:image" content="${esc(ogImage)}" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
   <meta property="og:type" content="website" />
@@ -54,24 +57,25 @@ function buildHtml(url, title, description) {
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
-  <meta name="twitter:image" content="${SITE_OG_IMAGE}" />
+  <meta name="twitter:image" content="${esc(ogImage)}" />
 </head>
 <body>
-  <p>正在跳轉… <a href="${esc(url)}">點此前往</a></p>
+  <p>正在跳轉… <a href="${esc(destUrl)}">點此前往</a></p>
 </body>
 </html>`;
 }
 
 export async function onRequest({ params, env, request }) {
   const id = params.id;
+  const selfUrl = new URL(request.url).origin + '/go/' + id;
 
   // KV lookup first (dynamic links take priority)
   if (env.RATE_LIMIT) {
     const { value: url, metadata } = await env.RATE_LIMIT.getWithMetadata(`sl:${id}`);
     if (url) {
       const note = metadata?.note || '';
-      const title = extractPageTitle(url, note);
-      const html = buildHtml(url, title, SITE_DESCRIPTION);
+      const { title, image } = extractMeta(url, note);
+      const html = buildHtml(url, selfUrl, title, SITE_DESCRIPTION, image);
       return new Response(html, {
         headers: { 'Content-Type': 'text/html;charset=UTF-8', 'Cache-Control': 'public,max-age=300' },
       });
@@ -81,8 +85,8 @@ export async function onRequest({ params, env, request }) {
   // Fall back to static JSON
   const entry = staticMap[id];
   if (entry) {
-    const title = extractPageTitle(entry.url, entry.note || entry.title);
-    const html = buildHtml(entry.url, title, SITE_DESCRIPTION);
+    const { title, image } = extractMeta(entry.url, entry.note || entry.title);
+    const html = buildHtml(entry.url, selfUrl, title, SITE_DESCRIPTION, image);
     return new Response(html, {
       headers: { 'Content-Type': 'text/html;charset=UTF-8', 'Cache-Control': 'public,max-age=300' },
     });
