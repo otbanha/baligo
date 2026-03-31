@@ -14,6 +14,14 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['插座', '插頭', '電壓', '轉接器', '轉接頭', '變壓器', '充電', '插電', '幾伏', '幾V',
+               'plug', 'socket', 'adapter', 'voltage', 'converter', 'power adapter',
+               'travel adapter', 'type C', 'type F', '220V', '110V', 'outlet'],
+    articles: [
+      { title: '2026年峇里島自由行｜行前終極指南：出發前必看 7 大重點！簽證、換匯、住宿、電壓/轉接器...一次搞定', url: '/blog/2026-02-15-6991b0a7fd8978000189e837/' },
+    ],
+  },
+  {
     keywords: ['第一次', '新手', '初次', '請教', '首次', '初嚟', '唔識', '點玩', '點開始',
                'first time', 'first visit', 'first trip', 'beginner', 'newbie',
                'guide for beginners', 'travel tips', 'where to start', 'how to plan'],
