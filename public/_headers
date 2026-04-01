@@ -1,3 +1,53 @@
+# Astro build assets (content-hashed filenames) — cache forever
+/_astro/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Self-hosted fonts — cache forever + allow cross-origin
+/fonts/*
+  Cache-Control: public, max-age=31536000, immutable
+  Access-Control-Allow-Origin: *
+
+# Pagefind search index
+/pagefind/*
+  Cache-Control: public, max-age=86400
+  Access-Control-Allow-Origin: *
+
+# Article index JSON (search / chatbot)
+/article-index.json
+  Cache-Control: public, max-age=3600, stale-while-revalidate=86400
+  Access-Control-Allow-Origin: *
+
+# Static images in public/
+/images/*
+  Cache-Control: public, max-age=86400
+
+# Favicon & icons — cache a week
+/favicon*
+  Cache-Control: public, max-age=604800
+/apple-touch-icon*
+  Cache-Control: public, max-age=604800
+/android-chrome*
+  Cache-Control: public, max-age=604800
+
+# Sitemap & RSS — short cache
+/sitemap*.xml
+  Cache-Control: public, max-age=3600
+/rss.xml
+  Cache-Control: public, max-age=3600
+
+# API endpoints — no cache
+/api/*
+  Cache-Control: no-store
+  Access-Control-Allow-Origin: https://gobaligo.id
+  Access-Control-Allow-Methods: POST, OPTIONS
+  Access-Control-Allow-Headers: Content-Type
+
+# All pages — security headers
 /*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: SAMEORIGIN
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Strict-Transport-Security: max-age=31536000; includeSubDomains
   Access-Control-Allow-Origin: *
   Access-Control-Allow-Methods: GET, OPTIONS

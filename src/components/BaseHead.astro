@@ -42,6 +42,9 @@ const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
 <link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href={new URL('rss.xml', Astro.site)} />
 <meta name="generator" content={Astro.generator} />
 
+<!-- Preconnect to image CDN (R2) to reduce first-image latency -->
+<link rel="preconnect" href="https://images.gobaligo.id" />
+
 <!-- Font preloads -->
 <link rel="preload" href="/fonts/atkinson-regular.woff" as="font" type="font/woff" crossorigin />
 <link rel="preload" href="/fonts/atkinson-bold.woff" as="font" type="font/woff" crossorigin />
