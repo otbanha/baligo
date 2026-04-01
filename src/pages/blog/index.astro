@@ -71,7 +71,6 @@ const categoryCounts = categories.reduce((acc, cat) => {
 }, {});
 
 const allPostsData = allPosts
-  .filter(p => !getCategories(p.data.category).includes('新聞存檔'))
   .map(p => ({
     id: p.id,
     title: p.data.title,
@@ -571,11 +570,11 @@ const socialLinks = [
         try {
           const cats = JSON.parse(card.dataset.category || '[]');
           const catList = Array.isArray(cats) ? cats : [cats];
-          if (catList.includes('新聞存檔')) return false;
+          if (catList.includes('新聞存檔') && cat !== '新聞存檔') return false;
           if (cat === 'all') return true;
           return catList.includes(cat);
         } catch {
-          if (card.dataset.category === '新聞存檔') return false;
+          if (card.dataset.category === '新聞存檔' && cat !== '新聞存檔') return false;
           if (cat === 'all') return true;
           return card.dataset.category === cat;
         }

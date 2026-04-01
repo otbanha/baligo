@@ -46,7 +46,7 @@ function restoreVideoUrls(text, saved) {
   return text.replace(/__VID(\d+)__/g, (_, i) => saved[parseInt(i, 10)] ?? '');
 }
 const CACHE_FILE = '.translation-cache.json';
-const BATCH_SIZE = 10; // 每次 API 呼叫最多幾個段落
+const BATCH_SIZE = parseInt(process.env.TRANSLATE_BATCH_SIZE ?? '10', 10); // 每次 API 呼叫最多幾個段落
 
 const ALL_LANGS = ['zh-cn', 'zh-hk', 'en'];
 const BLOCK_LANGS = ['zh-cn', 'en']; // blocks 不需要 zh-hk
