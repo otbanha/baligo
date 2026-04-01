@@ -6,20 +6,15 @@ description: >-
 pubDate: 2026-03-18T00:00:00.000Z
 category:
   - 叫車包車
+tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_890916f7109e541004494eb740f7c950.png'
-tags:
-  - 峇里島
-  - Bali Grab
-  - Bali Gojek
-  - 峇里島叫車
-  - 峇里島網約車
 originalUrl: ''
 embeds:
   - position: '{{video1}}'
     platform: youtube
     url: 'https://youtu.be/ByGkcmys01g'
 lang: zh-hk
-_srcHash: 157bbde39b69f4b665fb90445027cade
+_srcHash: 74a06721b79851dae7bad937cca1da1f
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
