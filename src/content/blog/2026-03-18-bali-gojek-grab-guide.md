@@ -4,7 +4,7 @@ description: Gojek / Grab 的使用方式。在峇里島旅遊，Gojek 和 Grab 
 pubDate: 2026-03-18
 category:
   - 叫車包車
-tags: []
+tags: ''
 heroImage: https://images.gobaligo.id/vocus/vocus_890916f7109e541004494eb740f7c950.png
 originalUrl: ''
 embeds:
@@ -68,6 +68,8 @@ embeds:
 
 - 下車後，若已綁定信用卡，直接下車即可。
 - **小費：** 若覺得司機服務很好（例如幫忙搬重物或繞過嚴重塞車），可以在 App 上給予 5,000–10,000 IDR 的小額小費以表心意。
+
+https://youtu.be/ByGkcmys01g
 
 ## 使用有限制
 
