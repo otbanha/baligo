@@ -291,6 +291,29 @@ const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 500;
 const CACHE_TTL = 86400; // 24h response cache
 const CACHE_VERSION = 'v5'; // increment to bust stale cached responses
+const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
+
+// Spam / abuse keyword blacklist (case-insensitive)
+const SPAM_PATTERNS = [
+  /\b(fuck|shit|ass|bitch|porn|sex|nude|naked|xxx|viagra|casino|lottery|crypto|bitcoin|invest)\b/i,
+  /https?:\/\//i,  // no URLs in input
+  /\b(hack|inject|prompt|ignore previous|disregard|jailbreak|DAN|do anything now)\b/i,
+  /(.)\1{6,}/, // 7+ repeated chars (aaaaaaa...)
+];
+
+function isSpam(text) {
+  return SPAM_PATTERNS.some(re => re.test(text));
+}
+
+async function checkDailyGlobal(kv) {
+  const today = new Date().toISOString().slice(0, 10); // YYYY-MM-DD UTC
+  const key = `daily:${today}`;
+  const current = await kv.get(key);
+  const count = current ? parseInt(current, 10) : 0;
+  if (count >= DAILY_GLOBAL_MAX) return false;
+  await kv.put(key, String(count + 1), { expirationTtl: 86400 });
+  return true;
+}
 
 async function msgCacheKey(msg) {
   const buf = await crypto.subtle.digest('SHA-256', new TextEncoder().encode(CACHE_VERSION + ':' + msg.toLowerCase().trim()));
@@ -552,6 +575,11 @@ export async function onRequestPost(context) {
     return Response.json({ error: '訊息不能為空' }, { status: 400, headers: corsHeaders });
   }
 
+  // ── Spam / abuse filter ───────────────────────────────────────────────────────
+  if (isSpam(message)) {
+    return Response.json({ error: '您的訊息包含不允許的內容。' }, { status: 400, headers: corsHeaders });
+  }
+
   // ── Response cache (checked before rate limit — cached hits are free) ────────
   const cacheKey = await msgCacheKey(message);
   if (env.RATE_LIMIT) {
@@ -565,6 +593,10 @@ export async function onRequestPost(context) {
     const allowed = await checkRateLimit(env.RATE_LIMIT, ip);
     if (!allowed) {
       return Response.json({ error: '您的提問次數已達上限，請一小時後再試。' }, { status: 429, headers: corsHeaders });
+    }
+    const dailyOk = await checkDailyGlobal(env.RATE_LIMIT);
+    if (!dailyOk) {
+      return Response.json({ error: '今日問答次數已達上限，請明天再試。' }, { status: 429, headers: corsHeaders });
     }
   }
 
