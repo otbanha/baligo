@@ -547,6 +547,15 @@ async function checkRateLimit(kv, ip) {
   return true;
 }
 
+async function logChat(env, question, answer, lang) {
+  if (!env.DB) return;
+  try {
+    await env.DB.prepare(
+      'INSERT INTO chats (question, answer, lang, created_at) VALUES (?, ?, ?, ?)'
+    ).bind(question, answer, lang || 'zh-TW', Date.now()).run();
+  } catch { /* non-critical, silently ignore */ }
+}
+
 export async function onRequestPost(context) {
   const { request, env } = context;
 
@@ -626,6 +635,7 @@ export async function onRequestPost(context) {
     if (env.RATE_LIMIT) {
       await env.RATE_LIMIT.put(cacheKey, reply, { expirationTtl: CACHE_TTL });
     }
+    context.waitUntil(logChat(env, message, reply, pageLang));
     return Response.json({ reply }, { headers: corsHeaders });
   }
 
@@ -662,6 +672,7 @@ export async function onRequestPost(context) {
     await env.RATE_LIMIT.put(cacheKey, reply, { expirationTtl: CACHE_TTL });
   }
 
+  context.waitUntil(logChat(env, message, reply, pageLang));
   return Response.json({ reply }, { headers: corsHeaders });
 }
 

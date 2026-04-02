@@ -6,3 +6,8 @@ binding = "AI"
 [[r2_buckets]]
 binding = "R2_BUCKET"
 bucket_name = "baligo-image"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "bali-chat-logs"
+database_id = "680c2cb9-e863-4f43-85e9-7435df71fcdf"
