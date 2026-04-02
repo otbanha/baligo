@@ -7,21 +7,13 @@ on:
       - 'src/content/blog/**'
       - 'src/content/blocks/**'
 
-  # 每天台灣時間凌晨 2:00（UTC 18:00）自動同步內容區塊
+  # 每天 Jakarta 時間凌晨 2:00（UTC 19:00）自動同步
   schedule:
-    - cron: '0 18 * * *'
+    - cron: '0 19 * * *'
 
-  # 允許手動觸發（不限時間）
+  # 允許手動觸發
   workflow_dispatch:
     inputs:
-      lang:
-        description: '指定語言（留空翻譯全部）'
-        required: false
-        default: ''
-      file:
-        description: '指定檔案（留空翻譯全部）'
-        required: false
-        default: ''
       only_blocks:
         description: '只翻譯內容區塊（true = 跳過文章翻譯，省費用）'
         required: false
@@ -35,10 +27,9 @@ jobs:
       contents: write
 
     steps:
-      - name: 確認執行時間（push 觸發限 UTC 18:00-22:00；schedule/手動不限）
+      - name: 確認是否跳過（push 觸發限 UTC 19:00-23:00；schedule/手動不限）
         run: |
           if [ "${{ github.event_name }}" = "push" ]; then
-            # [skip ci] 或 [skip translate] 的 commit 直接跳過
             COMMIT_MSG="${{ github.event.head_commit.message }}"
             if echo "$COMMIT_MSG" | grep -qE '\[(skip ci|skip translate)\]'; then
               echo "⏭️ Commit 含 [skip ci] 或 [skip translate]，跳過翻譯"
@@ -47,8 +38,8 @@ jobs:
             fi
             HOUR=$(date -u +%H)
             echo "目前 UTC 時間：$(date -u)"
-            if [ "$HOUR" -lt 18 ] || [ "$HOUR" -ge 22 ]; then
-              echo "⏭️ 目前在台灣白天，跳過翻譯（UTC $HOUR 時，僅 18-22 時執行）"
+            if [ "$HOUR" -lt 19 ] || [ "$HOUR" -ge 23 ]; then
+              echo "⏭️ 目前在白天，跳過翻譯（UTC $HOUR 時，僅 19-23 時執行）"
               echo "SKIP=true" >> $GITHUB_ENV
             else
               echo "SKIP=false" >> $GITHUB_ENV
@@ -71,7 +62,7 @@ jobs:
           node-version: '22'
           cache: 'npm'
 
-      - name: 安裝依賴
+      - name: 安裝 Node 依賴
         if: env.SKIP != 'true'
         run: npm ci
 
@@ -83,26 +74,23 @@ jobs:
           key: translation-cache-persistent
           save-always: true
 
+      - name: 同步圖片路徑（不需 API key）
+        if: env.SKIP != 'true'
+        run: python3 sync_translations.py --auto
+
       - name: 執行翻譯
         if: env.SKIP != 'true'
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          TRANSLATE_BATCH_SIZE: '1'
         run: |
-          LANG_ARG=""
-          FILE_ARG=""
-          if [ -n "${{ github.event.inputs.lang }}" ]; then
-            LANG_ARG="--lang ${{ github.event.inputs.lang }}"
-          fi
-          if [ -n "${{ github.event.inputs.file }}" ]; then
-            FILE_ARG="--file ${{ github.event.inputs.file }}"
-          fi
-          # schedule 觸發 或 only_blocks=true：只同步區塊（不翻文章，省費用）
-          if [ "${{ github.event_name }}" = "schedule" ] || [ "${{ github.event.inputs.only_blocks }}" = "true" ]; then
-            echo "📅 只翻譯內容區塊（跳過文章）"
-            node scripts/translate.mjs --blocks $LANG_ARG
+          if [ "${{ github.event.inputs.only_blocks }}" = "true" ]; then
+            echo "📦 只翻譯內容區塊"
+            node scripts/translate.mjs --blocks
           else
-            node scripts/translate.mjs $LANG_ARG $FILE_ARG
-            node scripts/translate.mjs --blocks $LANG_ARG
+            echo "📝 翻譯文章 + 內容區塊"
+            node scripts/translate.mjs
+            node scripts/translate.mjs --blocks
           fi
 
       - name: Commit 翻譯結果
