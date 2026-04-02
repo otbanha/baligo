@@ -336,6 +336,12 @@ async function translateFile(filename, lang) {
   const newFm = { ...fm, lang, _srcHash: srcHash };
   fmKeys.forEach((key, i) => { newFm[key] = translated[i] ?? fm[key]; });
 
+  // 修正無效 tags（空字串、多行字串 → 空陣列或正確陣列）
+  if (newFm.tags != null && !Array.isArray(newFm.tags)) {
+    const raw = String(newFm.tags).trim();
+    newFm.tags = raw ? raw.split(/\n/).map(t => t.trim()).filter(Boolean) : [];
+  }
+
   // 重建 body
   const translatedMap = new Map();
   let textSegIdx = 0;
