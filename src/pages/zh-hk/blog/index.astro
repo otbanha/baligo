@@ -324,9 +324,10 @@ const socialLinks = [
       const section = document.getElementById('top5-section');
       const list = document.getElementById('top5-list');
       if (!section || !list) return;
-      list.innerHTML = data.map((item, i) =>
-        `<li class="top5-item"><a href="${blogBase}/${item.id}/"><span class="top5-num">${i + 1}</span><span class="top5-title">${item.title}</span></a></li>`
-      ).join('');
+      list.innerHTML = data.map((item) => {
+        const localTitle = allPostsData.find(p => p.id === item.id)?.title || item.title;
+        return `<li class="top5-item"><a href="${blogBase}/${item.id}/"><span class="top5-num"></span><span class="top5-title">${localTitle}</span></a></li>`;
+      }).join('');
       section.style.display = '';
     }).catch(() => {});
 
