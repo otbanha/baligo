@@ -10,6 +10,15 @@ import top5Data from '../../../top5.json';
 
 const blogBase = '/zh-cn/blog';
 
+const allPromos = await getCollection('promotions');
+const now = new Date();
+const activePromos = allPromos.filter(p => !p.data.expiresAt || p.data.expiresAt > now);
+const promosJson = JSON.stringify(activePromos.map(p => ({
+  title: p.data.title_zh_cn || p.data.title,
+  url: p.data.url.startsWith('/blog/') ? `/zh-cn${p.data.url}` : p.data.url,
+  coverImage: p.data.coverImage || null,
+})));
+
 function extractFirstImage(body: string): string {
   const m = body?.match(/!\[.*?\]\((https?:\/\/[^)\s]+)\)/);
   return m ? m[1] : '';
@@ -164,6 +173,11 @@ const socialLinks = [
             ))}
           </ul>
         </div>
+        {activePromos.length > 0 && (
+          <div class="sidebar-section">
+            <div id="promo-block-index"></div>
+          </div>
+        )}
       </div>
     </aside>
 
@@ -571,4 +585,22 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 }
 @media (max-width: 600px) { .featured-grid { grid-template-columns: 1fr; } .social-section { grid-template-columns: repeat(2, 1fr); } .accom-image { height: 140px; } .top5-list { flex-direction: column; } .top5-item a { border-radius: 8px; } .card { min-height: 72px; } .card-image { width: 90px; min-width: 90px; height: 72px; border-radius: 8px 0 0 8px; } .card-body { padding: 0.5em 0.75em; } .card-title { font-size: 0.85em; } .card-desc { display: none; } }
 </style>
+<script define:vars={{ promosJson }}>
+window.addEventListener('load', () => {
+  const promos = JSON.parse(promosJson);
+  if (promos.length === 0) return;
+  const promo = promos[Math.floor(Math.random() * promos.length)];
+  const block = document.getElementById('promo-block-index');
+  if (!block) return;
+  block.innerHTML = `
+    <a href="${promo.url}" target="_blank" rel="noopener" class="promo-card">
+      <div class="promo-body">
+        <p class="promo-title">${promo.title}</p>
+        <span class="promo-cta">查看优惠 →</span>
+      </div>
+      ${promo.coverImage ? `<div class="promo-image"><img src="${promo.coverImage}" alt="${promo.title}" loading="lazy" /></div>` : ''}
+    </a>
+  `;
+});
+</script>
 </html>

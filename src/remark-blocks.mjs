@@ -13,6 +13,16 @@ export function remarkBlocks(embedMap = {}) {
     else if (filePath.includes('/content/zh-cn/')) lang = 'zh-cn';
     else if (filePath.includes('/content/zh-hk/')) lang = 'zh-hk';
 
+    // Fallback for Content Layer API (glob loader): file path may not include the collection directory.
+    // Read the lang field from frontmatter instead.
+    if (lang === 'default') {
+      const fmLang = vfile?.data?.astro?.frontmatter?.lang
+                  ?? vfile?.data?.frontmatter?.lang;
+      if (fmLang === 'en') lang = 'en';
+      else if (fmLang === 'zh-cn') lang = 'zh-cn';
+      else if (fmLang === 'zh-hk') lang = 'zh-hk';
+    }
+
     function loadBlocksFromDir(dir) {
       const blocks = {};
       try {
@@ -63,12 +73,20 @@ export function remarkBlocks(embedMap = {}) {
         .replace(/^(?!<[hpuolia])(.+)$/mg, '<p>$1</p>');
     }
 
+    // Rewrite /blog/ links to language-specific path for translated pages
+    function rewriteLinks(html) {
+      if (lang === 'default') return html;
+      return html
+        .replace(/href="\/blog\//g, `href="/${lang}/blog/`)
+        .replace(/href="https:\/\/gobaligo\.id\/blog\//g, `href="https://gobaligo.id/${lang}/blog/`);
+    }
+
     function processBlock(slug) {
       const block = blocks[slug.trim()];
       if (!block) return '[區塊不存在: ' + slug + ']';
 
       if (block.type === 'normal') {
-        return mdToHtml(block.content);
+        return rewriteLinks(mdToHtml(block.content));
       }
 
       if (block.type === 'random-cards' || block.type === 'random-list') {
@@ -93,21 +111,21 @@ export function remarkBlocks(embedMap = {}) {
             return '<li>' + i + '</li>';
           }).join('') + '</ul>';
           const headingHtml = mdToHtml(nonListLines);
-          return (headingHtml ? headingHtml : '') + listHtml;
+          return rewriteLinks((headingHtml ? headingHtml : '') + listHtml);
         }
 
         if (block.type === 'random-cards') {
-          return '<div class="block-cards">' + shuffled.map(i => {
+          return rewriteLinks('<div class="block-cards">' + shuffled.map(i => {
             const match = i.match(/\[([^\]]+)\]\(([^)]+)\)/);
             if (match) {
               return '<a href="' + match[2] + '" class="block-card">' + match[1] + '</a>';
             }
             return '<div class="block-card">' + i + '</div>';
-          }).join('') + '</div>';
+          }).join('') + '</div>');
         }
       }
 
-      return block.content;
+      return rewriteLinks(block.content);
     }
 
     function buildVideoEmbed(url) {
