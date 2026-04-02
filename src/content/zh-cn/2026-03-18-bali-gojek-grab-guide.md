@@ -6,7 +6,7 @@ description: >-
 pubDate: 2026-03-18T00:00:00.000Z
 category:
   - 叫車包車
-tags: []
+tags: ''
 heroImage: 'https://images.gobaligo.id/vocus/vocus_890916f7109e541004494eb740f7c950.png'
 originalUrl: ''
 embeds:
@@ -14,7 +14,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/ByGkcmys01g'
 lang: zh-cn
-_srcHash: 74a06721b79851dae7bad937cca1da1f
+_srcHash: 41522b461cea6858c7615a1b5679959a
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
@@ -72,6 +72,8 @@ _srcHash: 74a06721b79851dae7bad937cca1da1f
 
 - 下车后，若已绑定信用卡，直接下车即可。
 - **小费：** 若觉得司机服务很好（例如帮忙搬重物或绕过严重堵车），可以在 App 上给予 0.34–0.68 USD 的小额小费以表心意。
+
+https://youtu.be/ByGkcmys01g
 
 ## 使用有限制
 

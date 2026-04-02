@@ -6,7 +6,7 @@ description: >-
 pubDate: 2026-03-18T00:00:00.000Z
 category:
   - 叫車包車
-tags: []
+tags: ''
 heroImage: 'https://images.gobaligo.id/vocus/vocus_890916f7109e541004494eb740f7c950.png'
 originalUrl: ''
 embeds:
@@ -14,7 +14,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/ByGkcmys01g'
 lang: zh-hk
-_srcHash: 74a06721b79851dae7bad937cca1da1f
+_srcHash: 41522b461cea6858c7615a1b5679959a
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
@@ -72,6 +72,8 @@ _srcHash: 74a06721b79851dae7bad937cca1da1f
 
 - 落車之後，如果已經綁定咗信用卡，直接落車就得。
 - **貼士：** 如果覺得司機服務好好（例如幫手搬重嘢或者避開嚴重塞車），可以喺 App 上面俾 0.3–0.6 USD 嘅小額貼士以表心意。
+
+https://youtu.be/ByGkcmys01g
 
 ## 使用有啲限制
 

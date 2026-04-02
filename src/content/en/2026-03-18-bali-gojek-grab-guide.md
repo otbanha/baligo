@@ -9,7 +9,7 @@ description: >-
 pubDate: 2026-03-18T00:00:00.000Z
 category:
   - 叫車包車
-tags: []
+tags: ''
 heroImage: 'https://images.gobaligo.id/vocus/vocus_890916f7109e541004494eb740f7c950.png'
 originalUrl: ''
 embeds:
@@ -17,7 +17,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/ByGkcmys01g'
 lang: en
-_srcHash: 74a06721b79851dae7bad937cca1da1f
+_srcHash: 41522b461cea6858c7615a1b5679959a
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
@@ -76,6 +76,8 @@ Regardless of which app you use, the operation logic is quite similar:
 
 - After exiting the vehicle, if your credit card is already linked, you can simply leave.
 - **Tips:** If you feel the driver provided excellent service (e.g., helping with heavy luggage or navigating around severe traffic), you can show your appreciation by leaving a small tip of 5,000–10,000 IDR through the app.
+
+https://youtu.be/ByGkcmys01g
 
 ## Usage Restrictions
 
