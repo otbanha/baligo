@@ -3,7 +3,7 @@ title: dua
 type: normal
 randomCount: 5
 lang: zh-cn
-_srcHash: c53ce9b524b39959cbd30621169f43b7
+_srcHash: 369321c51712735b30f49ea318f2f944
 ---
 
 ## 更多努沙杜瓦吃喝玩乐介绍
@@ -14,8 +14,4 @@ _srcHash: c53ce9b524b39959cbd30621169f43b7
 
 ## 努沙杜瓦住宿主题介绍
 
-- [巴厘岛 Nusa Dua 努沙杜瓦16家公认最棒的五星度假村住宿推荐](https://gobaligo.id/blog/2024-07-27-66a4562afd89780001d70329/)
-- [独一无二的巴厘岛度假体验 - 巴厘岛奢华住宿：凯宾斯基 Apurva Kempinski Bali酒店](https://gobaligo.id/blog/2024-04-22-660ff581fd89780001f31315/)
-- [巴厘岛18家 kids club 亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图、乌布适合家庭度假的最佳选择](https://gobaligo.id/blog/2024-05-14-66405077fd89780001f23b72/)
-- [巴厘岛亲子乐园：十五家拥有滑水道滑梯的亲子度假村 TOP 15](https://gobaligo.id/blog/2024-01-16-65a51edbfd89780001ffc7b2/)
-- [巴厘岛团体自由行旅游：努沙杜瓦包栋villa 三房/四房/五房/六房以上的家庭别墅住宿推荐](https://gobaligo.id/blog/2024-04-30-662e156bfd8978000130c73c/)
+- [巴厘岛努沙杜瓦16家公认最棒的五星度假村住宿推荐](https://gobaligo.id/blog/2024-07-27-66a4562afd89780001d70329/)
