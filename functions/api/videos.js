@@ -18,7 +18,7 @@ export async function onRequestGet(context) {
   if (!env.RATE_LIMIT) return Response.json(DEFAULT_VIDEOS);
   const raw = await env.RATE_LIMIT.get(KV_KEY);
   const data = raw ? JSON.parse(raw) : DEFAULT_VIDEOS;
-  return Response.json(data, { headers: { 'Cache-Control': 'no-store' } });
+  return Response.json(data, { headers: { 'Cache-Control': 'public, max-age=300' } });
 }
 
 export async function onRequestPost(context) {

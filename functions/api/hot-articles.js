@@ -10,7 +10,7 @@ export async function onRequestGet(context) {
 
   const raw = await env.RATE_LIMIT.get(KV_KEY);
   const list = raw ? JSON.parse(raw) : [];
-  return Response.json(list, { headers: { 'Cache-Control': 'no-store' } });
+  return Response.json(list, { headers: { 'Cache-Control': 'public, max-age=300' } });
 }
 
 export async function onRequestPost(context) {

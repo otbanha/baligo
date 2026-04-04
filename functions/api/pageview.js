@@ -22,8 +22,13 @@ export async function onRequestPost(context) {
   }
 
   const key = PREFIX + slug;
+  // Probabilistic write: only write 1 in 20 requests, increment by 20 each time.
+  // Statistically accurate while reducing KV writes by ~95%.
+  if (Math.random() >= 0.05) {
+    return new Response('ok');
+  }
   const existing = await env.PAGEVIEW_KV.getWithMetadata(key);
-  const count = ((existing.metadata && existing.metadata.views) || 0) + 1;
+  const count = ((existing.metadata && existing.metadata.views) || 0) + 20;
   await env.PAGEVIEW_KV.put(key, '', { metadata: { views: count } });
 
   return new Response('ok');
