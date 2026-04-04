@@ -168,6 +168,15 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['海神廟', 'tanah lot', 'Tanah Lot', 'TANAH LOT', 'tanahlot',
+               '塔那羅', '海神寺', '塔納拿', '塔納洛',
+               'tanah lot temple', 'tanah lot ticket', 'tanah lot opening',
+               'tanah lot hours', 'tanah lot tide', 'tanah lot sunset'],
+    articles: [
+      { title: '峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南', url: '/blog/2024-10-28-671f86f1fd89780001de9fae/' },
+    ],
+  },
+  {
     keywords: ['uluwatu', 'Uluwatu', 'ULUWATU', '烏魯瓦圖', '情人崖',
                'cliff temple', 'sunset temple', 'kecak', 'Kecak', '火舞', 'bali temple'],
     articles: [
@@ -290,7 +299,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 500;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v5'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v6'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
