@@ -1,0 +1,490 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>峇里島 6 天 5 夜親子遊詢問</title>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,300;0,400;0,600;1,300;1,400&family=DM+Sans:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+  :root {
+    --gold: #C9A84C; --gold-light: #E8D5A3; --gold-pale: #FAF5E8;
+    --dark: #1A1610; --mid: #3D3325; --muted: #8B7D6B;
+    --border: rgba(201,168,76,0.25); --bg: #FDFBF7; --white: #FFFFFF;
+  }
+  body { font-family: 'DM Sans', sans-serif; background: var(--bg); color: var(--dark); min-height: 100vh; }
+
+  .lang-bar { background: var(--dark); display: flex; justify-content: flex-end; padding: 8px 1.5rem; gap: 4px; }
+  .lang-btn { font-family: 'DM Sans', sans-serif; font-size: 11px; font-weight: 500; letter-spacing: 0.08em; color: rgba(255,255,255,0.45); background: transparent; border: none; padding: 4px 10px; cursor: pointer; border-radius: 2px; transition: all 0.15s; }
+  .lang-btn:hover { color: var(--gold-light); }
+  .lang-btn.active { color: var(--gold); background: rgba(201,168,76,0.12); }
+
+  .hero { background: var(--dark); padding: 2.5rem 2rem 2.25rem; text-align: center; position: relative; overflow: hidden; }
+  .hero::before { content: ''; position: absolute; inset: 0; background: radial-gradient(ellipse at 50% 120%, rgba(201,168,76,0.18) 0%, transparent 65%); pointer-events: none; }
+  .hero-eyebrow { font-size: 11px; font-weight: 500; letter-spacing: 0.25em; color: var(--gold); text-transform: uppercase; margin-bottom: 0.75rem; }
+  .hero-title { font-family: 'Cormorant Garamond', serif; font-size: clamp(1.8rem, 4.5vw, 3rem); font-weight: 300; color: var(--white); line-height: 1.25; margin-bottom: 0.5rem; }
+  .hero-title em { font-style: italic; color: var(--gold-light); }
+  .hero-sub { font-size: 13px; color: rgba(255,255,255,0.5); margin-top: 0.75rem; font-weight: 300; }
+  .hero-divider { width: 48px; height: 1px; background: var(--gold); margin: 1.25rem auto 0; opacity: 0.6; }
+
+  .form-wrap { max-width: 680px; margin: 0 auto; padding: 2.5rem 1.5rem 4rem; }
+  .section { margin-bottom: 2rem; }
+  .section-label { font-size: 10px; font-weight: 500; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gold); margin-bottom: 1rem; display: flex; align-items: center; gap: 10px; }
+  .section-label::after { content: ''; flex: 1; height: 1px; background: var(--border); }
+  .field { margin-bottom: 1rem; }
+  .field-label { font-size: 12px; font-weight: 500; color: var(--muted); margin-bottom: 6px; display: block; letter-spacing: 0.03em; }
+  .field-row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
+
+  input[type="date"], input[type="text"], input[type="email"], select, textarea {
+    width: 100%; font-family: 'DM Sans', sans-serif; font-size: 14px; font-weight: 400;
+    color: var(--dark); background: var(--white); border: 1px solid var(--border);
+    border-radius: 4px; padding: 10px 14px; outline: none; transition: border-color 0.2s;
+    appearance: none; -webkit-appearance: none;
+  }
+  input:focus, select:focus, textarea:focus { border-color: var(--gold); box-shadow: 0 0 0 3px rgba(201,168,76,0.1); }
+  select { background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' fill='none'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%238B7D6B' stroke-width='1.5' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E"); background-repeat: no-repeat; background-position: right 12px center; padding-right: 36px; }
+  textarea { resize: vertical; min-height: 80px; }
+
+  .pill-group { display: flex; flex-wrap: wrap; gap: 8px; }
+  .pill { font-size: 12px; font-weight: 400; color: var(--muted); background: var(--white); border: 1px solid var(--border); border-radius: 2px; padding: 7px 14px; cursor: pointer; transition: all 0.15s; user-select: none; }
+  .pill:hover { border-color: var(--gold); color: var(--mid); }
+  .pill.sel { background: var(--dark); border-color: var(--dark); color: var(--gold-light); }
+
+  .child-ages { display: flex; flex-direction: column; gap: 10px; margin-top: 4px; }
+  .child-age-row { display: flex; align-items: center; gap: 10px; background: var(--gold-pale); border: 1px solid var(--border); border-radius: 4px; padding: 8px 12px; }
+  .child-age-num { font-size: 11px; font-weight: 500; color: var(--gold); min-width: 80px; letter-spacing: 0.03em; }
+  .child-age-row select { flex: 1; background: transparent; border: none; border-bottom: 1px solid var(--border); border-radius: 0; padding: 4px 28px 4px 0; font-size: 13px; }
+  .child-age-row select:focus { box-shadow: none; border-color: var(--gold); }
+
+  .submit-section { margin-top: 2.5rem; text-align: center; }
+  .submit-btn { font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 500; letter-spacing: 0.15em; text-transform: uppercase; color: var(--dark); background: var(--gold); border: none; border-radius: 2px; padding: 14px 48px; cursor: pointer; transition: all 0.2s; width: 100%; max-width: 320px; }
+  .submit-btn:hover { background: var(--gold-light); transform: translateY(-1px); }
+  .submit-note { font-size: 11px; color: var(--muted); margin-top: 10px; }
+
+  .success-screen { display: none; text-align: center; padding: 4rem 2rem; }
+  .success-icon { width: 52px; height: 52px; border: 1px solid var(--gold); border-radius: 50%; margin: 0 auto 1.5rem; display: flex; align-items: center; justify-content: center; color: var(--gold); font-size: 22px; }
+  .success-title { font-family: 'Cormorant Garamond', serif; font-size: 2rem; font-weight: 300; color: var(--dark); margin-bottom: 0.5rem; }
+  .success-sub { font-size: 14px; color: var(--muted); }
+
+  @media (max-width: 500px) { .field-row { grid-template-columns: 1fr; } .hero { padding: 2rem 1.25rem 1.75rem; } }
+</style>
+</head>
+<body>
+
+<div class="lang-bar">
+  <button class="lang-btn" onclick="setLang('tw')">繁體</button>
+  <button class="lang-btn" onclick="setLang('cn')">简体</button>
+  <button class="lang-btn" onclick="setLang('hk')">廣東話</button>
+  <button class="lang-btn" onclick="setLang('en')">EN</button>
+</div>
+
+<div class="hero">
+  <p class="hero-eyebrow">Bali Family Trip</p>
+  <h1 class="hero-title" id="heroTitle"></h1>
+  <p class="hero-sub" id="heroDesc"></p>
+  <div class="hero-divider"></div>
+</div>
+
+<div class="form-wrap">
+  <form id="tripForm" novalidate>
+
+    <!-- 1. 出發日期 -->
+    <div class="section">
+      <div class="section-label" id="sec1"></div>
+      <div class="field">
+        <label class="field-label" id="lbl_depart"></label>
+        <input type="date" id="depart" name="depart" required>
+      </div>
+    </div>
+
+    <!-- 3. 機票 -->
+    <div class="section">
+      <div class="section-label" id="sec3"></div>
+      <div class="field">
+        <div class="pill-group" id="flightPills"></div>
+      </div>
+      <div class="field" id="flightNumWrap" style="display:none;">
+        <label class="field-label" id="lbl_flightnum"></label>
+        <input type="text" name="flight_number" id="flightNumInput">
+      </div>
+    </div>
+
+    <!-- 4. 人數 -->
+    <div class="section">
+      <div class="section-label" id="sec4"></div>
+      <div class="field">
+        <div class="field-row">
+          <div><label class="field-label" id="lbl_adults"></label><select id="adults" name="adults"></select></div>
+          <div><label class="field-label" id="lbl_children"></label><select id="children" name="children" onchange="updateChildAges()"></select></div>
+        </div>
+      </div>
+      <div class="field" id="childAgesWrap" style="display:none;">
+        <label class="field-label" id="lbl_childages"></label>
+        <div class="child-ages" id="childAgesList"></div>
+      </div>
+    </div>
+
+    <!-- 5. 飲食需求 -->
+    <div class="section">
+      <div class="section-label" id="sec5"></div>
+      <div class="field">
+        <div class="pill-group" id="dietPills"></div>
+      </div>
+    </div>
+
+    <!-- 6. 其他需求 -->
+    <div class="section">
+      <div class="section-label" id="sec6"></div>
+      <div class="field">
+        <label class="field-label" id="lbl_itinerary"></label>
+        <textarea name="itinerary_notes" id="itineraryInput"></textarea>
+      </div>
+      <div class="field">
+        <label class="field-label" id="lbl_notes"></label>
+        <textarea name="notes" id="notesInput"></textarea>
+      </div>
+    </div>
+
+    <!-- 7. 聯絡方式 -->
+    <div class="section">
+      <div class="section-label" id="sec7"></div>
+      <div class="field">
+        <div class="field-row">
+          <div><label class="field-label" id="lbl_name"></label><input type="text" name="name" id="nameInput" required></div>
+          <div><label class="field-label" id="lbl_line"></label><input type="text" name="line" id="lineInput" required></div>
+        </div>
+      </div>
+      <div class="field">
+        <label class="field-label" id="lbl_email"></label>
+        <input type="email" name="email" id="emailInput" placeholder="your@email.com">
+      </div>
+    </div>
+
+    <div class="submit-section">
+      <button type="submit" class="submit-btn" id="submitBtn"></button>
+      <p class="submit-note" id="submitNote"></p>
+    </div>
+  </form>
+
+  <div class="success-screen" id="successScreen">
+    <div class="success-icon">✓</div>
+    <h2 class="success-title" id="successTitle"></h2>
+    <p class="success-sub" id="successSub"></p>
+  </div>
+</div>
+
+<script>
+const T = {
+  tw: {
+    heroTitle: '峇里島六天五夜親子遊', heroSub: '行程詢問',
+    heroDesc: '填寫後我們將於 24 小時內回覆行程規劃建議',
+    sec1:'預計出發日期', sec2:'旅遊天數', sec3:'機票狀況', sec4:'參加人數',
+    sec5:'飲食需求', sec6:'其他需求', sec7:'聯絡方式',
+    lbl_depart:'預計出發日期',
+    lbl_flightnum:'航班號碼（例如：CI771）',
+    lbl_adults:'大人', lbl_children:'小孩（12 歲以下）', lbl_childages:'各小孩年齡',
+    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email（選填）',
+    lbl_itinerary:'想增加或刪除的景點／活動',
+    lbl_notes:'其他需求',
+    ph_name:'稱呼', ph_line:'帳號或電話',
+    ph_itinerary:'例如：想加水上活動、不需要泛舟、想去烏布市場...',
+    ph_notes:'住宿需求、特殊安排...',
+    adultsOpts: ['1 位','2 位','3 位','4 位','5 位','6 位','7 位以上'],
+    childrenOpts: ['無','1 位','2 位','3 位','4 位'],
+    childLabel: ['第一位小孩','第二位小孩','第三位小孩','第四位小孩'],
+    ages: ['未滿 1 歲','1 歲','2 歲','3 歲','4 歲','5 歲','6 歲','7 歲','8 歲','9 歲','10 歲','11 歲','12 歲'],
+    flights: ['已自行購買','自行購買（尚未訂）','由你們代購'],
+    diets: ['不吃牛肉','素食','海鮮過敏','無特殊需求'],
+    submitBtn:'送出詢問', submitNote:'我們將於 24 小時內透過 LINE 或 Email 與您聯繫',
+    submitting:'送出中...', submitFail:'送出失敗，請稍後再試或直接聯繫我們。',
+    successTitle:'詢問已送出', successSub:'感謝您的詢問，我們將於 24 小時內與您聯繫。',
+    emailHeader:'=== 峇里島六天五夜親子遊行程詢問 ===',
+    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'預計出發',flight:'機票狀況',flight_number:'航班號碼',adults:'大人人數',children:'小孩人數',child_ages:'小孩年齡',diet:'飲食需求',itinerary_notes:'景點／活動調整',notes:'其他需求'},
+  },
+  cn: {
+    heroTitle: '巴厘岛六天五夜亲子游', heroSub: '行程咨询',
+    heroDesc: '填写后我们将在 24 小时内回复行程规划建议',
+    sec1:'预计出发日期', sec2:'旅游天数', sec3:'机票情况', sec4:'参加人数',
+    sec5:'饮食需求', sec6:'其他需求', sec7:'联系方式',
+    lbl_depart:'预计出发日期',
+    lbl_flightnum:'航班号码（例如：CI771）',
+    lbl_adults:'成人', lbl_children:'儿童（12 岁以下）', lbl_childages:'各儿童年龄',
+    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email（选填）',
+    lbl_itinerary:'想增加或删除的景点／活动',
+    lbl_notes:'其他需求',
+    ph_name:'称呼', ph_line:'账号或电话',
+    ph_itinerary:'例如：想加水上活动、不需要泛舟、想去乌布市场...',
+    ph_notes:'住宿需求、特殊安排...',
+    adultsOpts: ['1 位','2 位','3 位','4 位','5 位','6 位','7 位以上'],
+    childrenOpts: ['无','1 位','2 位','3 位','4 位'],
+    childLabel: ['第一位儿童','第二位儿童','第三位儿童','第四位儿童'],
+    ages: ['不足 1 岁','1 岁','2 岁','3 岁','4 岁','5 岁','6 岁','7 岁','8 岁','9 岁','10 岁','11 岁','12 岁'],
+    flights: ['已自行购买','自行购买（尚未订）','由你们代购'],
+    diets: ['不吃牛肉','素食','海鲜过敏','无特殊需求'],
+    submitBtn:'提交咨询', submitNote:'我们将在 24 小时内通过 LINE 或 Email 与您联系',
+    submitting:'提交中...', submitFail:'提交失败，请稍后再试或直接联系我们。',
+    successTitle:'咨询已提交', successSub:'感谢您的咨询，我们将在 24 小时内与您联系。',
+    emailHeader:'=== 巴厘岛六天五夜亲子游行程咨询 ===',
+    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'预计出发',flight:'机票情况',flight_number:'航班号码',adults:'成人人数',children:'儿童人数',child_ages:'儿童年龄',diet:'饮食需求',itinerary_notes:'景点／活动调整',notes:'其他需求'},
+  },
+  hk: {
+    heroTitle: '峇里島六天五夜親子遊', heroSub: '行程查詢',
+    heroDesc: '填寫後我們將於 24 小時內回覆行程規劃建議',
+    sec1:'預計出發日期', sec2:'旅遊天數', sec3:'機票情況', sec4:'參加人數',
+    sec5:'飲食需求', sec6:'其他需求', sec7:'聯絡方式',
+    lbl_depart:'預計出發日期',
+    lbl_flightnum:'航班號碼（例如：CX654）',
+    lbl_adults:'成人', lbl_children:'小朋友（12 歲以下）', lbl_childages:'各小朋友年齡',
+    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email（可不填）',
+    lbl_itinerary:'想增加或刪除嘅景點／活動',
+    lbl_notes:'其他需求',
+    ph_name:'稱呼', ph_line:'帳號或電話',
+    ph_itinerary:'例如：想加水上活動、唔需要泛舟、想去烏布市場...',
+    ph_notes:'住宿需求、特殊安排...',
+    adultsOpts: ['1 位','2 位','3 位','4 位','5 位','6 位','7 位或以上'],
+    childrenOpts: ['冇','1 位','2 位','3 位','4 位'],
+    childLabel: ['第一位小朋友','第二位小朋友','第三位小朋友','第四位小朋友'],
+    ages: ['未足 1 歲','1 歲','2 歲','3 歲','4 歲','5 歲','6 歲','7 歲','8 歲','9 歲','10 歲','11 歲','12 歲'],
+    flights: ['已自行購買','自行購買（未訂）','由你哋代購'],
+    diets: ['唔食牛肉','素食','海鮮過敏','冇特殊需求'],
+    submitBtn:'提交查詢', submitNote:'我們將於 24 小時內透過 LINE 或 Email 聯絡您',
+    submitting:'提交中...', submitFail:'提交失敗，請稍後再試或直接聯絡我們。',
+    successTitle:'查詢已送出', successSub:'多謝您嘅查詢，我們將於 24 小時內聯絡您。',
+    emailHeader:'=== 峇里島六天五夜親子遊行程查詢 ===',
+    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'預計出發',flight:'機票情況',flight_number:'航班號碼',adults:'成人人數',children:'小朋友人數',child_ages:'小朋友年齡',diet:'飲食需求',itinerary_notes:'景點／活動調整',notes:'其他需求'},
+  },
+  en: {
+    heroTitle: 'Bali 6D5N Family Trip', heroSub: 'Trip Enquiry',
+    heroDesc: "We'll respond with a personalised itinerary proposal within 24 hours.",
+    sec1:'Departure Date', sec2:'Trip Duration', sec3:'Flight Status', sec4:'Group Size',
+    sec5:'Dietary Needs', sec6:'Special Requests', sec7:'Contact Details',
+    lbl_depart:'Estimated departure date',
+    lbl_flightnum:'Flight number (e.g. CI771)',
+    lbl_adults:'Adults', lbl_children:'Children (under 12)', lbl_childages:"Children's ages",
+    lbl_name:'Name', lbl_line:'LINE / WhatsApp', lbl_email:'Email (optional)',
+    lbl_itinerary:'Attractions / activities to add or remove',
+    lbl_notes:'Other requests',
+    ph_name:'Your name', ph_line:'Account or phone number',
+    ph_itinerary:'e.g. Add water sports, skip rafting, visit Ubud Market...',
+    ph_notes:'Accommodation preferences, special arrangements...',
+    adultsOpts: ['1 adult','2 adults','3 adults','4 adults','5 adults','6 adults','7 or more'],
+    childrenOpts: ['None','1 child','2 children','3 children','4 children'],
+    childLabel: ['1st child','2nd child','3rd child','4th child'],
+    ages: ['Under 1','1 yr','2 yrs','3 yrs','4 yrs','5 yrs','6 yrs','7 yrs','8 yrs','9 yrs','10 yrs','11 yrs','12 yrs'],
+    flights: ['Already purchased','Will buy ourselves','Please arrange for us'],
+    diets: ['No beef','Vegetarian','Seafood allergy','No restrictions'],
+    submitBtn:'Submit Enquiry', submitNote:"We'll reach out via LINE or Email within 24 hours.",
+    submitting:'Sending...', submitFail:'Submission failed. Please try again or contact us directly.',
+    successTitle:'Enquiry Sent', successSub:"Thank you! We'll be in touch within 24 hours.",
+    emailHeader:'=== Bali 6D5N Family Trip Enquiry ===',
+    emailKeys:{name:'Name',line:'LINE/WhatsApp',email:'Email',depart:'Departure',flight:'Flights',flight_number:'Flight no.',adults:'Adults',children:'Children',child_ages:'Children ages',diet:'Dietary',itinerary_notes:'Itinerary changes',notes:'Other requests'},
+  }
+};
+
+function detectLang() {
+  const langs = navigator.languages || [navigator.language || 'zh-TW'];
+  for (const l of langs) {
+    const c = l.toLowerCase();
+    if (c.startsWith('zh-hk') || c.startsWith('zh-yue') || c === 'yue') return 'hk';
+    if (c.startsWith('zh-tw') || c.startsWith('zh-hant')) return 'tw';
+    if (c.startsWith('zh-cn') || c.startsWith('zh-hans') || c === 'zh') return 'cn';
+    if (c.startsWith('en')) return 'en';
+  }
+  return 'tw';
+}
+
+let currentLang = detectLang();
+
+function buildPills(containerId, options, multiSelect) {
+  const container = document.getElementById(containerId);
+  container.innerHTML = '';
+  options.forEach((opt, idx) => {
+    const label = document.createElement('label');
+    label.className = 'pill' + (idx === 0 && !multiSelect ? ' sel' : '');
+    label.dataset.val = opt;
+    const input = document.createElement('input');
+    input.type = multiSelect ? 'checkbox' : 'radio';
+    input.name = containerId;
+    input.value = opt;
+    if (idx === 0 && !multiSelect) input.checked = true;
+    input.style.display = 'none';
+    label.appendChild(input);
+    label.appendChild(document.createTextNode(' ' + opt));
+    label.addEventListener('click', function() {
+      if (multiSelect) {
+        this.classList.toggle('sel');
+      } else {
+        container.querySelectorAll('.pill').forEach(p => p.classList.remove('sel'));
+        this.classList.add('sel');
+      }
+    });
+    container.appendChild(label);
+  });
+}
+
+function setLang(lang) {
+  currentLang = lang;
+  const t = T[lang];
+  document.documentElement.lang = {tw:'zh-TW',cn:'zh-CN',hk:'zh-HK',en:'en'}[lang];
+  document.title = t.heroTitle + ' — ' + t.heroSub;
+
+  document.querySelectorAll('.lang-btn').forEach((btn, i) => {
+    btn.classList.toggle('active', ['tw','cn','hk','en'][i] === lang);
+  });
+
+  document.getElementById('heroTitle').innerHTML = t.heroTitle + '<br><em>' + t.heroSub + '</em>';
+  document.getElementById('heroDesc').textContent = t.heroDesc;
+
+  ['sec1','sec3','sec4','sec5','sec6','sec7'].forEach(id => {
+    document.getElementById(id).textContent = t[id];
+  });
+  ['lbl_depart','lbl_flightnum','lbl_adults','lbl_children','lbl_childages','lbl_name','lbl_line','lbl_email','lbl_itinerary','lbl_notes'].forEach(id => {
+    const el = document.getElementById(id);
+    if (el) el.textContent = t[id];
+  });
+
+  document.getElementById('nameInput').placeholder = t.ph_name;
+  document.getElementById('lineInput').placeholder = t.ph_line;
+  document.getElementById('itineraryInput').placeholder = t.ph_itinerary;
+  document.getElementById('notesInput').placeholder = t.ph_notes;
+  document.getElementById('flightNumInput').placeholder = t.lbl_flightnum;
+  document.getElementById('submitBtn').textContent = t.submitBtn;
+  document.getElementById('submitNote').textContent = t.submitNote;
+  document.getElementById('successTitle').textContent = t.successTitle;
+  document.getElementById('successSub').textContent = t.successSub;
+
+  // Adults select
+  const adultsEl = document.getElementById('adults');
+  const prevAdults = adultsEl.value || '2';
+  adultsEl.innerHTML = '';
+  t.adultsOpts.forEach((opt, i) => {
+    const o = document.createElement('option');
+    o.value = i + 1; o.textContent = opt;
+    adultsEl.appendChild(o);
+  });
+  adultsEl.value = prevAdults;
+
+  // Children select
+  const childrenEl = document.getElementById('children');
+  const prevChildren = childrenEl.value || '0';
+  childrenEl.innerHTML = '';
+  t.childrenOpts.forEach((opt, i) => {
+    const o = document.createElement('option');
+    o.value = i; o.textContent = opt;
+    childrenEl.appendChild(o);
+  });
+  childrenEl.value = prevChildren;
+
+  // Flight pills (single select) + show flight number if already purchased
+  buildPills('flightPills', t.flights, false);
+  document.querySelectorAll('#flightPills .pill').forEach(pill => {
+    pill.addEventListener('click', function() {
+      const val = this.dataset.val;
+      const isOwn = ['已自行購買','已自行购买','已自行購買','Already purchased'].includes(val);
+      document.getElementById('flightNumWrap').style.display = isOwn ? 'block' : 'none';
+    });
+  });
+  document.getElementById('flightNumWrap').style.display = 'none';
+
+  // Diet pills (multi select)
+  buildPills('dietPills', t.diets, true);
+
+  updateChildAges();
+}
+
+function updateChildAges() {
+  const t = T[currentLang];
+  const n = parseInt(document.getElementById('children').value);
+  const wrap = document.getElementById('childAgesWrap');
+  const list = document.getElementById('childAgesList');
+  list.innerHTML = '';
+  if (n === 0) { wrap.style.display = 'none'; return; }
+  wrap.style.display = 'block';
+  for (let i = 0; i < n; i++) {
+    const row = document.createElement('div');
+    row.className = 'child-age-row';
+    const lbl = document.createElement('span');
+    lbl.className = 'child-age-num';
+    lbl.textContent = t.childLabel[i];
+    const sel = document.createElement('select');
+    sel.name = 'child_age_' + (i + 1);
+    t.ages.forEach(a => {
+      const opt = document.createElement('option');
+      opt.value = a; opt.textContent = a;
+      sel.appendChild(opt);
+    });
+    row.appendChild(lbl); row.appendChild(sel);
+    list.appendChild(row);
+  }
+}
+
+const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyWzEbMDdD4A5aKgNDuen6ojIQBC2pPEJdGsWsLWDW7fhBtb7PdV6x4ghk7WobNTqCl/exec';
+
+document.getElementById('tripForm').addEventListener('submit', async function(e) {
+  e.preventDefault();
+  const t = T[currentLang];
+  const btn = document.getElementById('submitBtn');
+  btn.textContent = t.submitting;
+  btn.disabled = true;
+
+  const data = new FormData(this);
+
+  // Child ages
+  const childCount = parseInt(document.getElementById('children').value);
+  const childAges = [];
+  for (let i = 1; i <= childCount; i++) {
+    const v = document.querySelector(`select[name="child_age_${i}"]`);
+    if (v) childAges.push(v.value);
+  }
+  data.append('child_ages', childAges.join(' / ') || '-');
+
+  // Flight (single)
+  const flightSel = document.querySelector('#flightPills .pill.sel');
+  data.append('flight', flightSel ? flightSel.dataset.val : '-');
+
+  // Diet (multi)
+  const dietSel = [...document.querySelectorAll('#dietPills .pill.sel')].map(p => p.dataset.val);
+  data.append('diet', dietSel.length ? dietSel.join('、') : '-');
+
+  data.append('lang', currentLang);
+  data.append('form_type', 'Bali Family Trip Enquiry');
+  data.append('summary', buildSummary(data, t));
+
+  try {
+    await fetch(SCRIPT_URL, { method: 'POST', body: data, mode: 'no-cors' });
+    document.getElementById('tripForm').style.display = 'none';
+    document.getElementById('successScreen').style.display = 'block';
+  } catch(err) {
+    btn.textContent = t.submitBtn;
+    btn.disabled = false;
+    alert(t.submitFail);
+  }
+});
+
+function buildSummary(data, t) {
+  const get = k => data.get(k) || '-';
+  const k = t.emailKeys;
+  return [
+    t.emailHeader, '',
+    `[${k.name}] ${get('name')}`,
+    `[${k.line}] ${get('line')}`,
+    `[${k.email}] ${get('email')}`,
+    '',
+    `[${k.depart}] ${get('depart')}`,
+    `[${k.flight}] ${get('flight')}`,
+    `[${k.flight_number}] ${get('flight_number') || '-'}`,
+    '',
+    `[${k.adults}] ${get('adults')}`,
+    `[${k.children}] ${get('children')}`,
+    `[${k.child_ages}] ${get('child_ages')}`,
+    '',
+    `[${k.diet}] ${get('diet')}`,
+    `[${k.itinerary_notes}] ${get('itinerary_notes')}`,
+    `[${k.notes}] ${get('notes')}`,
+  ].join('\n');
+}
+
+setLang(currentLang);
+</script>
+</body>
+</html>
