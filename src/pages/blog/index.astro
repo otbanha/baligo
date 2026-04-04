@@ -159,7 +159,7 @@ const socialLinks = [
       if (dest) window.location.replace(dest);
     })();
   </script>
-  <script type="application/ld+json" set:text={JSON.stringify({
+  <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "WebSite",
     "name": "Go Bali Go 峇里島旅遊攻略",
@@ -172,7 +172,7 @@ const socialLinks = [
       "query-input": "required name=search_term_string"
     }
   })} />
-  <script type="application/ld+json" set:text={JSON.stringify({
+  <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "Organization",
     "@id": "https://gobaligo.id/#organization",
@@ -198,7 +198,7 @@ const socialLinks = [
     },
     "knowsAbout": ["Bali travel", "峇里島旅遊", "住宿推薦", "簽證通關", "峇里島分區攻略"]
   })} />
-  <script type="application/ld+json" set:text={JSON.stringify({
+  <script type="application/ld+json" set:html={JSON.stringify({
     "@context": "https://schema.org",
     "@type": "ItemList",
     "name": "峇里島旅遊分類攻略",

@@ -51,7 +51,7 @@ const {
 const cats = Array.isArray(category) ? category : (category ? [category] : []);
 
 // Build URL prefix for this language
-const langPath = (lang && lang !== 'zh-tw') ? `${lang}/` : '';
+const langPath = (lang && lang !== 'zh-tw' && lang !== 'blog') ? `${lang}/` : '';
 const articleUrl = `https://gobaligo.id/${langPath}blog/${slug}/`;
 const blogUrl    = `https://gobaligo.id/${langPath}blog/`;
 
@@ -298,5 +298,5 @@ const allSchemas = [schemaArticle, schemaBreadcrumb, ...extraSchemas];
 ---
 
 {allSchemas.map(schema => (
-  <script type="application/ld+json" set:text={JSON.stringify(schema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
 ))}

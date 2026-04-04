@@ -27,6 +27,10 @@ const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
 // Article pages get "標題 | Go Bali Go" format; index pages already have the brand name
 const title = noSuffix ? rawTitle : (rawTitle.includes('Go Bali Go') ? rawTitle : `${rawTitle} | Go Bali Go`);
 
+// Strip emoji from OG/social titles so Facebook/Twitter previews look clean
+const stripEmoji = (str: string) => str.replace(/[\p{Emoji_Presentation}\p{Extended_Pictographic}]/gu, '').replace(/\s{2,}/g, ' ').trim();
+const ogTitle = stripEmoji(title);
+
 // Use provided heroImage URL, or fall back to default OG image
 const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
 ---
@@ -62,7 +66,7 @@ const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
 <meta property="og:site_name" content={SITE_TITLE} />
 <meta property="og:type" content={type} />
 <meta property="og:url" content={canonicalURL} />
-<meta property="og:title" content={title} />
+<meta property="og:title" content={ogTitle} />
 <meta property="og:description" content={description} />
 <meta property="og:image" content={ogImage} />
 <meta property="og:image:width" content="1200" />
@@ -74,6 +78,6 @@ const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
 <!-- Twitter / X -->
 <meta property="twitter:card" content="summary_large_image" />
 <meta property="twitter:url" content={canonicalURL} />
-<meta property="twitter:title" content={title} />
+<meta property="twitter:title" content={ogTitle} />
 <meta property="twitter:description" content={description} />
 <meta property="twitter:image" content={ogImage} />
