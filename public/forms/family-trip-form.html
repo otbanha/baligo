@@ -187,7 +187,7 @@ const T = {
     lbl_itinerary:'想增加或刪除的景點／活動',
     lbl_notes:'其他需求',
     ph_name:'稱呼', ph_line:'帳號或電話',
-    ph_itinerary:'例如：想加水上活動、不需要泛舟、想去烏布市場...',
+    ph_itinerary:'想去XXX、不想去XXX',
     ph_notes:'住宿需求、特殊安排...',
     adultsOpts: ['1 位','2 位','3 位','4 位','5 位','6 位','7 位以上'],
     childrenOpts: ['無','1 位','2 位','3 位','4 位'],
@@ -213,7 +213,7 @@ const T = {
     lbl_itinerary:'想增加或删除的景点／活动',
     lbl_notes:'其他需求',
     ph_name:'称呼', ph_line:'账号或电话',
-    ph_itinerary:'例如：想加水上活动、不需要泛舟、想去乌布市场...',
+    ph_itinerary:'想去XXX、不想去XXX',
     ph_notes:'住宿需求、特殊安排...',
     adultsOpts: ['1 位','2 位','3 位','4 位','5 位','6 位','7 位以上'],
     childrenOpts: ['无','1 位','2 位','3 位','4 位'],
@@ -239,7 +239,7 @@ const T = {
     lbl_itinerary:'想增加或刪除嘅景點／活動',
     lbl_notes:'其他需求',
     ph_name:'稱呼', ph_line:'帳號或電話',
-    ph_itinerary:'例如：想加水上活動、唔需要泛舟、想去烏布市場...',
+    ph_itinerary:'想去XXX、唔想去XXX',
     ph_notes:'住宿需求、特殊安排...',
     adultsOpts: ['1 位','2 位','3 位','4 位','5 位','6 位','7 位或以上'],
     childrenOpts: ['冇','1 位','2 位','3 位','4 位'],
@@ -265,7 +265,7 @@ const T = {
     lbl_itinerary:'Attractions / activities to add or remove',
     lbl_notes:'Other requests',
     ph_name:'Your name', ph_line:'Account or phone number',
-    ph_itinerary:'e.g. Add water sports, skip rafting, visit Ubud Market...',
+    ph_itinerary:'Want to visit XXX / Skip XXX',
     ph_notes:'Accommodation preferences, special arrangements...',
     adultsOpts: ['1 adult','2 adults','3 adults','4 adults','5 adults','6 adults','7 or more'],
     childrenOpts: ['None','1 child','2 children','3 children','4 children'],
@@ -300,13 +300,13 @@ function buildPills(containerId, options, multiSelect) {
   container.innerHTML = '';
   options.forEach((opt, idx) => {
     const label = document.createElement('label');
-    label.className = 'pill' + (idx === 0 && !multiSelect ? ' sel' : '');
+    label.className = 'pill' + (idx === 0 && !multiSelect && containerId !== 'flightPills' ? ' sel' : '');
     label.dataset.val = opt;
     const input = document.createElement('input');
     input.type = multiSelect ? 'checkbox' : 'radio';
     input.name = containerId;
     input.value = opt;
-    if (idx === 0 && !multiSelect) input.checked = true;
+    if (idx === 0 && !multiSelect && containerId !== 'flightPills') input.checked = true;
     input.style.display = 'none';
     label.appendChild(input);
     label.appendChild(document.createTextNode(' ' + opt));
