@@ -58,8 +58,11 @@
 
   .submit-section { margin-top: 2.5rem; text-align: center; }
   .submit-btn { font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 500; letter-spacing: 0.15em; text-transform: uppercase; color: var(--dark); background: var(--gold); border: none; border-radius: 2px; padding: 14px 48px; cursor: pointer; transition: all 0.2s; width: 100%; max-width: 320px; }
-  .submit-btn:hover { background: var(--gold-light); transform: translateY(-1px); }
+  .submit-btn:hover:not(:disabled) { background: var(--gold-light); transform: translateY(-1px); }
+  .submit-btn:disabled { opacity: 0.35; cursor: not-allowed; transform: none; }
   .submit-note { font-size: 11px; color: var(--muted); margin-top: 10px; }
+  .field-error { font-size: 11px; color: #c0392b; margin-top: 4px; display: none; }
+  input.err, select.err { border-color: #c0392b !important; }
 
   .success-screen { display: none; text-align: center; padding: 4rem 2rem; }
   .success-icon { width: 52px; height: 52px; border: 1px solid var(--gold); border-radius: 50%; margin: 0 auto 1.5rem; display: flex; align-items: center; justify-content: center; color: var(--gold); font-size: 22px; }
@@ -93,7 +96,8 @@
       <div class="section-label" id="sec1"></div>
       <div class="field">
         <label class="field-label" id="lbl_depart"></label>
-        <input type="date" id="depart" name="depart" required>
+        <input type="date" id="depart" name="depart">
+        <span class="field-error" id="err_depart"></span>
       </div>
     </div>
 
@@ -102,6 +106,7 @@
       <div class="section-label" id="sec3"></div>
       <div class="field">
         <div class="pill-group" id="flightPills"></div>
+        <span class="field-error" id="err_flight"></span>
       </div>
       <div class="field" id="flightNumWrap" style="display:none;">
         <div class="field-row">
@@ -137,6 +142,7 @@
       <div class="section-label" id="sec5"></div>
       <div class="field">
         <div class="pill-group" id="dietPills"></div>
+        <span class="field-error" id="err_diet"></span>
       </div>
     </div>
 
@@ -158,8 +164,16 @@
       <div class="section-label" id="sec7"></div>
       <div class="field">
         <div class="field-row">
-          <div><label class="field-label" id="lbl_name"></label><input type="text" name="name" id="nameInput" required></div>
-          <div><label class="field-label" id="lbl_line"></label><input type="text" name="line" id="lineInput" required></div>
+          <div>
+            <label class="field-label" id="lbl_name"></label>
+            <input type="text" name="name" id="nameInput">
+            <span class="field-error" id="err_name"></span>
+          </div>
+          <div>
+            <label class="field-label" id="lbl_line"></label>
+            <input type="text" name="line" id="lineInput">
+            <span class="field-error" id="err_line"></span>
+          </div>
         </div>
       </div>
       <div class="field">
@@ -205,6 +219,7 @@ const T = {
     diets: ['不吃牛肉','素食','海鮮過敏','無特殊需求'],
     submitBtn:'送出詢問', submitNote:'我們將於 24 小時內透過 LINE 或 Email 與您聯繫',
     submitting:'送出中...', submitFail:'送出失敗，請稍後再試或直接聯繫我們。',
+    errRequired:'此欄位為必填', errDepart:'請選擇出發日期', errFlight:'請選擇機票狀況', errDiet:'請選擇飲食需求',
     successTitle:'詢問已送出', successSub:'感謝您的詢問，我們將於 24 小時內與您聯繫。',
     emailHeader:'=== 峇里島六天五夜親子遊行程詢問 ===',
     emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'預計出發',flight:'機票狀況',flight_out:'去程航班',flight_ret:'回程航班',adults:'大人人數',children:'小孩人數',child_ages:'小孩年齡',diet:'飲食需求',itinerary_notes:'景點／活動調整',notes:'其他需求'},
@@ -231,6 +246,7 @@ const T = {
     diets: ['不吃牛肉','素食','海鲜过敏','无特殊需求'],
     submitBtn:'提交咨询', submitNote:'我们将在 24 小时内通过 LINE 或 Email 与您联系',
     submitting:'提交中...', submitFail:'提交失败，请稍后再试或直接联系我们。',
+    errRequired:'此栏为必填', errDepart:'请选择出发日期', errFlight:'请选择机票情况', errDiet:'请选择饮食需求',
     successTitle:'咨询已提交', successSub:'感谢您的咨询，我们将在 24 小时内与您联系。',
     emailHeader:'=== 巴厘岛六天五夜亲子游行程咨询 ===',
     emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'预计出发',flight:'机票情况',flight_out:'去程航班',flight_ret:'回程航班',adults:'成人人数',children:'儿童人数',child_ages:'儿童年龄',diet:'饮食需求',itinerary_notes:'景点／活动调整',notes:'其他需求'},
@@ -257,6 +273,7 @@ const T = {
     diets: ['唔食牛肉','素食','海鮮過敏','冇特殊需求'],
     submitBtn:'提交查詢', submitNote:'我們將於 24 小時內透過 LINE 或 Email 聯絡您',
     submitting:'提交中...', submitFail:'提交失敗，請稍後再試或直接聯絡我們。',
+    errRequired:'此欄為必填', errDepart:'請選擇出發日期', errFlight:'請選擇機票情況', errDiet:'請選擇飲食需求',
     successTitle:'查詢已送出', successSub:'多謝您嘅查詢，我們將於 24 小時內聯絡您。',
     emailHeader:'=== 峇里島六天五夜親子遊行程查詢 ===',
     emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'預計出發',flight:'機票情況',flight_out:'去程航班',flight_ret:'回程航班',adults:'成人人數',children:'小朋友人數',child_ages:'小朋友年齡',diet:'飲食需求',itinerary_notes:'景點／活動調整',notes:'其他需求'},
@@ -283,6 +300,7 @@ const T = {
     diets: ['No beef','Vegetarian','Seafood allergy','No restrictions'],
     submitBtn:'Submit Enquiry', submitNote:"We'll reach out via LINE or Email within 24 hours.",
     submitting:'Sending...', submitFail:'Submission failed. Please try again or contact us directly.',
+    errRequired:'This field is required', errDepart:'Please select a departure date', errFlight:'Please select a flight option', errDiet:'Please select a dietary preference',
     successTitle:'Enquiry Sent', successSub:"Thank you! We'll be in touch within 24 hours.",
     emailHeader:'=== Bali 6D5N Family Trip Enquiry ===',
     emailKeys:{name:'Name',line:'LINE/WhatsApp',email:'Email',depart:'Departure',flight:'Flights',flight_out:'Outbound flight',flight_ret:'Return flight',adults:'Adults',children:'Children',child_ages:'Children ages',diet:'Dietary',itinerary_notes:'Itinerary changes',notes:'Other requests'},
@@ -325,6 +343,7 @@ function buildPills(containerId, options, multiSelect) {
         container.querySelectorAll('.pill').forEach(p => p.classList.remove('sel'));
         this.classList.add('sel');
       }
+      updateSubmitBtn();
     });
     container.appendChild(label);
   });
@@ -429,8 +448,73 @@ function updateChildAges() {
 
 const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyWzEbMDdD4A5aKgNDuen6ojIQBC2pPEJdGsWsLWDW7fhBtb7PdV6x4ghk7WobNTqCl/exec';
 
+function showErr(id, msg) {
+  const el = document.getElementById('err_' + id);
+  const input = document.getElementById(id);
+  if (el) { el.textContent = msg; el.style.display = msg ? 'block' : 'none'; }
+  if (input) { msg ? input.classList.add('err') : input.classList.remove('err'); }
+}
+
+function validateForm() {
+  const t = T[currentLang];
+  let valid = true;
+
+  // Departure date
+  const depart = document.getElementById('depart').value;
+  if (!depart) { showErr('depart', t.errDepart); valid = false; } else showErr('depart', '');
+
+  // Flight pill
+  const flightSel = document.querySelector('#flightPills .pill.sel');
+  const errFlight = document.getElementById('err_flight');
+  if (!flightSel) {
+    if (errFlight) { errFlight.textContent = t.errFlight; errFlight.style.display = 'block'; }
+    valid = false;
+  } else {
+    if (errFlight) errFlight.style.display = 'none';
+  }
+
+  // Diet pill (at least one)
+  const dietSel = document.querySelectorAll('#dietPills .pill.sel');
+  const errDiet = document.getElementById('err_diet');
+  if (dietSel.length === 0) {
+    if (errDiet) { errDiet.textContent = t.errDiet; errDiet.style.display = 'block'; }
+    valid = false;
+  } else {
+    if (errDiet) errDiet.style.display = 'none';
+  }
+
+  // Name
+  if (!document.getElementById('nameInput').value.trim()) { showErr('name', t.errRequired); valid = false; } else showErr('name', '');
+
+  // Line
+  if (!document.getElementById('lineInput').value.trim()) { showErr('line', t.errRequired); valid = false; } else showErr('line', '');
+
+  return valid;
+}
+
+function isFormReady() {
+  const depart = document.getElementById('depart').value;
+  const flightSel = document.querySelector('#flightPills .pill.sel');
+  const dietSel = document.querySelectorAll('#dietPills .pill.sel');
+  const name = document.getElementById('nameInput').value.trim();
+  const line = document.getElementById('lineInput').value.trim();
+  return depart && flightSel && dietSel.length > 0 && name && line;
+}
+
+function updateSubmitBtn() {
+  document.getElementById('submitBtn').disabled = !isFormReady();
+}
+
+// Live listeners
+['depart','nameInput','lineInput'].forEach(id => {
+  const el = document.getElementById(id);
+  if (el) el.addEventListener('input', updateSubmitBtn);
+});
+
 document.getElementById('tripForm').addEventListener('submit', async function(e) {
   e.preventDefault();
+  if (!validateForm()) return;
+
   const t = T[currentLang];
   const btn = document.getElementById('submitBtn');
   btn.textContent = t.submitting;
@@ -438,7 +522,6 @@ document.getElementById('tripForm').addEventListener('submit', async function(e)
 
   const data = new FormData(this);
 
-  // Child ages
   const childCount = parseInt(document.getElementById('children').value);
   const childAges = [];
   for (let i = 1; i <= childCount; i++) {
@@ -447,11 +530,9 @@ document.getElementById('tripForm').addEventListener('submit', async function(e)
   }
   data.append('child_ages', childAges.join(' / ') || '-');
 
-  // Flight (single)
   const flightSel = document.querySelector('#flightPills .pill.sel');
   data.append('flight', flightSel ? flightSel.dataset.val : '-');
 
-  // Diet (multi)
   const dietSel = [...document.querySelectorAll('#dietPills .pill.sel')].map(p => p.dataset.val);
   data.append('diet', dietSel.length ? dietSel.join('、') : '-');
 
@@ -495,6 +576,7 @@ function buildSummary(data, t) {
 }
 
 setLang(currentLang);
+document.getElementById('submitBtn').disabled = true;
 </script>
 </body>
 </html>
