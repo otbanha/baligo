@@ -331,25 +331,19 @@ function buildPills(containerId, options, multiSelect) {
   const container = document.getElementById(containerId);
   container.innerHTML = '';
   options.forEach((opt, idx) => {
-    const label = document.createElement('label');
+    const label = document.createElement('span');
     label.className = 'pill' + (idx === 0 && !multiSelect && containerId !== 'flightPills' ? ' sel' : '');
     label.dataset.val = opt;
-    const input = document.createElement('input');
-    input.type = multiSelect ? 'checkbox' : 'radio';
-    input.name = containerId;
-    input.value = opt;
-    if (idx === 0 && !multiSelect && containerId !== 'flightPills') input.checked = true;
-    input.style.display = 'none';
-    label.appendChild(input);
-    label.appendChild(document.createTextNode(' ' + opt));
-    label.addEventListener('click', function() {
+    label.textContent = opt;
+    label.addEventListener('mousedown', function(e) {
+      e.preventDefault();
       if (multiSelect) {
         this.classList.toggle('sel');
       } else {
         container.querySelectorAll('.pill').forEach(p => p.classList.remove('sel'));
         this.classList.add('sel');
       }
-      setTimeout(updateSubmitBtn, 0);
+      updateSubmitBtn();
     });
     container.appendChild(label);
   });
@@ -421,10 +415,12 @@ function setLang(lang) {
   // Flight pills (single select) + show flight number if already purchased
   buildPills('flightPills', t.flights, false);
   document.querySelectorAll('#flightPills .pill').forEach(pill => {
-    pill.addEventListener('click', function() {
+    pill.addEventListener('mousedown', function() {
       const val = this.dataset.val;
       const isOwn = ['已自行購買','已自行购买','已自行購買','Already purchased'].includes(val);
-      document.getElementById('flightNumWrap').style.display = isOwn ? 'block' : 'none';
+      setTimeout(() => {
+        document.getElementById('flightNumWrap').style.display = isOwn ? 'block' : 'none';
+      }, 0);
     });
   });
   document.getElementById('flightNumWrap').style.display = 'none';
