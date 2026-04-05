@@ -336,15 +336,20 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
           </div>
         </div>
 
-        <!-- Facebook Comments -->
-        <div class="fb-comments-wrap" data-pagefind-ignore>
-          <h2 class="fb-comments-title">留言討論</h2>
-          <div
-            class="fb-comments"
-            data-href={canonicalUrl}
-            data-width="700"
-            data-numposts="10"
-          ></div>
+        <!-- 留言區 -->
+        <div class="comments-section" id="comments-section" data-pagefind-ignore data-slug={slug}>
+          <h2 class="comments-title">留言討論</h2>
+          <div class="comments-list" id="comments-list"></div>
+          <form class="comment-form" id="comment-form" novalidate>
+            <div class="comment-form-fields">
+              <input type="text"     id="comment-name"    placeholder="你的名字 *" maxlength="50" autocomplete="name" />
+              <textarea              id="comment-content" placeholder="留下你的想法⋯ *" maxlength="1000" rows="4"></textarea>
+            </div>
+            <div class="comment-form-footer">
+              <button type="submit" id="comment-submit">送出留言</button>
+              <span class="comment-msg" id="comment-msg"></span>
+            </div>
+          </form>
         </div>
 
         <!-- 文章底部推薦 -->
@@ -469,20 +474,84 @@ window.addEventListener('load', () => {
   <ChatBot lang={lang} />
   <Footer lang={lang} />
 
-  <!-- Facebook SDK -->
-  <div id="fb-root"></div>
-  <script is:inline>
-    window.fbAsyncInit = function() {
-      FB.init({ xfbml: true, version: 'v21.0' });
-    };
-    (function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = 'https://connect.facebook.net/zh_TW/sdk.js';
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
+  <script>
+  (function() {
+    var section = document.getElementById('comments-section');
+    if (!section) return;
+    var slug    = section.dataset.slug;
+    var list    = document.getElementById('comments-list');
+    var form    = document.getElementById('comment-form');
+    var nameEl  = document.getElementById('comment-name');
+    var bodyEl  = document.getElementById('comment-content');
+    var submitEl= document.getElementById('comment-submit');
+    var msgEl   = document.getElementById('comment-msg');
+
+    function formatDate(ts) {
+      return new Date(ts).toLocaleDateString('zh-TW', { year: 'numeric', month: 'short', day: 'numeric' });
+    }
+
+    function renderComments(items) {
+      if (!items.length) {
+        list.innerHTML = '<p class="comments-empty">還沒有留言，來第一個留言吧！</p>';
+        return;
+      }
+      list.innerHTML = items.map(function(c) {
+        return '<div class="comment-item">' +
+          '<div class="comment-header">' +
+            '<span class="comment-name">' + c.name + '</span>' +
+            '<span class="comment-date">' + formatDate(c.created_at) + '</span>' +
+          '</div>' +
+          '<div class="comment-body">' + c.content + '</div>' +
+        '</div>';
+      }).join('');
+    }
+
+    function setMsg(text, type) {
+      msgEl.textContent = text;
+      msgEl.className = 'comment-msg ' + type;
+    }
+
+    // Load comments
+    list.innerHTML = '<p class="comments-empty">載入中⋯</p>';
+    fetch('/api/comments?slug=' + encodeURIComponent(slug))
+      .then(function(r) { return r.json(); })
+      .then(renderComments)
+      .catch(function() { list.innerHTML = '<p class="comments-empty">載入失敗</p>'; });
+
+    // Submit
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var name    = nameEl.value.trim();
+      var content = bodyEl.value.trim();
+      if (!name || !content) { setMsg('請填寫姓名和留言', 'err'); return; }
+
+      submitEl.disabled = true;
+      setMsg('', '');
+
+      fetch('/api/comments', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ slug: slug, name: name, content: content }),
+      })
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        if (data.ok) {
+          nameEl.value = '';
+          bodyEl.value = '';
+          setMsg('留言已送出！', 'ok');
+          return fetch('/api/comments?slug=' + encodeURIComponent(slug))
+            .then(function(r) { return r.json(); })
+            .then(renderComments);
+        } else {
+          setMsg(data.error || '送出失敗', 'err');
+        }
+      })
+      .catch(function() { setMsg('網路錯誤，請稍後再試', 'err'); })
+      .finally(function() { submitEl.disabled = false; });
+    });
+  })();
   </script>
+
 </body>
 </html>
 
@@ -981,22 +1050,67 @@ hr { margin: 1.2em 0 1.8em; }
   margin: 1.5em auto;
 }
 
-/* Facebook Comments */
-.fb-comments-wrap {
+/* ── 自建留言區 ────────────────────────────────────────────── */
+.comments-section {
   margin-top: 3em;
   padding-top: 2em;
   border-top: 1px solid var(--border, #e5e7eb);
 }
-.fb-comments-title {
+.comments-title {
   font-size: 1.1rem;
   font-weight: 700;
-  margin-bottom: 1em;
+  margin-bottom: 1.2em;
   color: var(--text, #1a1a1a);
 }
-.fb-comments-wrap .fb-comments {
-  width: 100% !important;
+.comments-list { display: flex; flex-direction: column; gap: 1em; margin-bottom: 2em; }
+.comment-item {
+  background: #faf8f4;
+  border: 1px solid #e8e0d0;
+  border-radius: 10px;
+  padding: 0.9em 1.1em;
 }
-.fb-comments-wrap iframe { max-width: 100% !important; }
+.comment-header {
+  display: flex; align-items: center; gap: 0.6em; margin-bottom: 0.4em;
+}
+.comment-name   { font-weight: 700; font-size: 0.88rem; color: var(--ocean, #1A365D); }
+.comment-date   { font-size: 0.75rem; color: #999; }
+.comment-body   { font-size: 0.88rem; line-height: 1.65; color: #333; white-space: pre-wrap; }
+.comments-empty { font-size: 0.88rem; color: #aaa; text-align: center; padding: 1.5em 0; }
+
+.comment-form { margin-top: 1em; }
+.comment-form-fields { display: flex; flex-direction: column; gap: 0.6em; }
+.comment-form-fields input,
+.comment-form-fields textarea {
+  width: 100%;
+  border: 1px solid #d4c9b5;
+  border-radius: 8px;
+  padding: 0.6em 0.9em;
+  font-size: 0.88rem;
+  font-family: inherit;
+  background: #fff;
+  color: var(--text, #222);
+  outline: none;
+  resize: vertical;
+  transition: border-color 0.15s;
+}
+.comment-form-fields input:focus,
+.comment-form-fields textarea:focus { border-color: var(--gold, #C5A059); }
+.comment-form-footer {
+  display: flex; align-items: center; gap: 1em; margin-top: 0.7em; flex-wrap: wrap;
+}
+#comment-submit {
+  background: var(--gold, #C5A059);
+  color: var(--ocean, #1A365D);
+  border: none; border-radius: 8px;
+  padding: 0.55em 1.4em;
+  font-size: 0.9rem; font-weight: 700; font-family: inherit;
+  cursor: pointer; transition: background 0.15s;
+}
+#comment-submit:hover   { background: #d4b06a; }
+#comment-submit:disabled { opacity: 0.5; cursor: not-allowed; }
+.comment-msg { font-size: 0.82rem; }
+.comment-msg.ok  { color: #2f855a; }
+.comment-msg.err { color: #c53030; }
 
 /* 推薦文章 */
 .related-posts {

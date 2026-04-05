@@ -247,6 +247,7 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
     <button class="tab"        data-tab="featured"><span class="icon">⭐</span><span class="tab-label"> 精選</span></button>
     <button class="tab"        data-tab="videos">   <span class="icon">🎬</span><span class="tab-label"> 視頻</span></button>
     <button class="tab"        data-tab="private"> <span class="icon">🔒</span><span class="tab-label"> 私密</span></button>
+    <button class="tab"        data-tab="comments"><span class="icon">💬</span><span class="tab-label"> 留言</span></button>
   </nav>
 
   <!-- Content Panels -->
@@ -291,6 +292,18 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
           <a class="private-cms-link" href="/admin/#/collections/blog" target="_blank">→ 前往 CMS</a>
         </div>
         <div class="private-list" id="private-list"></div>
+      </div>
+    </div>
+
+    <!-- 💬 留言管理 -->
+    <div class="panel" id="panel-comments">
+      <div class="private-panel" id="comments-mgmt">
+        <div class="private-header">
+          <h2>💬 留言管理</h2>
+          <span class="private-count" id="comments-count">0 則</span>
+          <button class="private-cms-link" id="comments-refresh" style="cursor:pointer;border:1px solid #2e3d52;border-radius:6px;padding:0.3em 0.9em;background:none;color:#7a8fa8;font-size:0.8rem;">↺ 重新整理</button>
+        </div>
+        <div class="private-list" id="comments-list-mgmt"></div>
       </div>
     </div>
 
@@ -360,9 +373,71 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
       renderPrivate();
       loaded['private'] = true;
     }
+    if (tabId === 'comments') {
+      loadComments();
+    }
   }
 
-  function unlock() {
+  var adminToken = '';
+
+  function loadComments() {
+    var list  = document.getElementById('comments-list-mgmt');
+    var badge = document.getElementById('comments-count');
+    list.innerHTML = '<p class="private-empty">載入中⋯</p>';
+    fetch('/api/comments/all', {
+      headers: { 'X-Admin-Token': adminToken },
+    })
+      .then(function(r) { return r.json(); })
+      .then(function(items) { renderCommentsMgmt(items, badge, list); })
+      .catch(function() {
+        list.innerHTML = '<p class="private-empty">載入失敗</p>';
+      });
+  }
+
+  function renderCommentsMgmt(items, badge, list) {
+    badge.textContent = items.length + ' 則';
+    if (!items.length) {
+      list.innerHTML = '<p class="private-empty">目前沒有留言</p>';
+      return;
+    }
+    list.innerHTML = items.map(function(c) {
+      var date = new Date(c.created_at).toISOString().replace('T',' ').slice(0,16);
+      return '<div class="private-item" id="comment-row-' + c.id + '">' +
+        '<div class="private-meta">' +
+          '<div class="private-date">' + date + '</div>' +
+          '<div class="private-cat">' + (c.slug || '') + '</div>' +
+        '</div>' +
+        '<div class="private-body">' +
+          '<span class="private-title" style="display:block;white-space:normal;cursor:default">' + c.name + '</span>' +
+          '<div class="private-desc" style="white-space:normal;max-height:none">' + c.content + '</div>' +
+        '</div>' +
+        '<button class="private-copy" style="color:#fc8181;border-color:#fc8181" data-id="' + c.id + '">刪除</button>' +
+      '</div>';
+    }).join('');
+
+    list.querySelectorAll('[data-id]').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        if (!confirm('確定刪除這則留言？')) return;
+        var id = btn.dataset.id;
+        fetch('/api/comments?id=' + id, {
+          method: 'DELETE',
+          headers: { 'X-Admin-Token': adminToken },
+        }).then(function(r) {
+          if (r.ok) {
+            var row = document.getElementById('comment-row-' + id);
+            if (row) row.remove();
+            var cur = parseInt(badge.textContent);
+            badge.textContent = (cur - 1) + ' 則';
+          }
+        });
+      });
+    });
+  }
+
+  document.getElementById('comments-refresh')?.addEventListener('click', loadComments);
+
+  function unlock(token) {
+    if (token) adminToken = token;
     document.getElementById('auth-wall').style.display = 'none';
     document.getElementById('shell').style.display = 'flex';
     activateTab('index');
@@ -393,11 +468,11 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
     if (res.status === 401) { authErr.style.display = 'block'; return; }
     sessionStorage.setItem('sl-token', t);
     authErr.style.display = 'none';
-    unlock();
+    unlock(t);
   });
 
   var saved = sessionStorage.getItem('sl-token');
-  if (saved) unlock();
+  if (saved) unlock(saved);
 </script>
 </body>
 </html>
