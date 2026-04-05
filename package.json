@@ -7,7 +7,7 @@
   },
   "scripts": {
     "dev": "astro dev",
-    "build": "node scripts/fix-string-tags.mjs && node scripts/fix-bold-markers.mjs && node scripts/generate-article-index.mjs && astro build && npx pagefind --site dist --language zh-Hant",
+    "build": "node scripts/fix-string-tags.mjs && node scripts/fix-bold-markers.mjs && node scripts/generate-article-index.mjs && astro build && npx pagefind --site dist --force-language zh",
     "preview": "astro preview",
     "astro": "astro",
     "sync-blocks": "node scripts/sync-blocks.mjs"
