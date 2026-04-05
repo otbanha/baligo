@@ -32,7 +32,9 @@
   .section-label { font-size: 10px; font-weight: 500; letter-spacing: 0.2em; text-transform: uppercase; color: var(--gold); margin-bottom: 1rem; display: flex; align-items: center; gap: 10px; }
   .section-label::after { content: ''; flex: 1; height: 1px; background: var(--border); }
   .field { margin-bottom: 1rem; }
-  .field-label { font-size: 12px; font-weight: 500; color: var(--muted); margin-bottom: 6px; display: block; letter-spacing: 0.03em; }
+  .field-label { font-size: 12px; font-weight: 500; color: var(--muted); margin-bottom: 6px; display: flex; align-items: center; gap: 6px; letter-spacing: 0.03em; }
+  .badge-req { font-size: 9px; font-weight: 500; letter-spacing: 0.08em; color: #9B7B2E; background: var(--gold-pale); border: 1px solid rgba(201,168,76,0.35); border-radius: 2px; padding: 1px 5px; flex-shrink: 0; }
+  .badge-opt { font-size: 9px; font-weight: 500; letter-spacing: 0.08em; color: var(--muted); background: transparent; border: 1px solid var(--border); border-radius: 2px; padding: 1px 5px; flex-shrink: 0; }
   .field-row { display: grid; grid-template-columns: 1fr 1fr; gap: 10px; }
 
   input[type="date"], input[type="text"], input[type="email"], select, textarea {
@@ -211,6 +213,7 @@ const T = {
     ph_name:'稱呼', ph_line:'帳號或電話',
     ph_itinerary:'想去XXX、不想去XXX',
     ph_notes:'住宿需求、特殊安排...',
+    req:'必填', opt:'選填',
     adultsOpts: ['1 位','2 位','3 位','4 位','5 位','6 位','7 位以上'],
     childrenOpts: ['無','1 位','2 位','3 位','4 位'],
     childLabel: ['第一位小孩','第二位小孩','第三位小孩','第四位小孩'],
@@ -238,6 +241,7 @@ const T = {
     ph_name:'称呼', ph_line:'账号或电话',
     ph_itinerary:'想去XXX、不想去XXX',
     ph_notes:'住宿需求、特殊安排...',
+    req:'必填', opt:'选填',
     adultsOpts: ['1 位','2 位','3 位','4 位','5 位','6 位','7 位以上'],
     childrenOpts: ['无','1 位','2 位','3 位','4 位'],
     childLabel: ['第一位儿童','第二位儿童','第三位儿童','第四位儿童'],
@@ -265,6 +269,7 @@ const T = {
     ph_name:'稱呼', ph_line:'帳號或電話',
     ph_itinerary:'想去XXX、唔想去XXX',
     ph_notes:'住宿需求、特殊安排...',
+    req:'必填', opt:'選填',
     adultsOpts: ['1 位','2 位','3 位','4 位','5 位','6 位','7 位或以上'],
     childrenOpts: ['冇','1 位','2 位','3 位','4 位'],
     childLabel: ['第一位小朋友','第二位小朋友','第三位小朋友','第四位小朋友'],
@@ -292,6 +297,7 @@ const T = {
     ph_name:'Your name', ph_line:'Account or phone number',
     ph_itinerary:'Want to visit XXX / Skip XXX',
     ph_notes:'Accommodation preferences, special arrangements...',
+    req:'Required', opt:'Optional',
     adultsOpts: ['1 adult','2 adults','3 adults','4 adults','5 adults','6 adults','7 or more'],
     childrenOpts: ['None','1 child','2 children','3 children','4 children'],
     childLabel: ['1st child','2nd child','3rd child','4th child'],
@@ -362,12 +368,21 @@ function setLang(lang) {
   document.getElementById('heroTitle').innerHTML = t.heroTitle + '<br><em>' + t.heroSub + '</em>';
   document.getElementById('heroDesc').textContent = t.heroDesc;
 
-  ['sec1','sec3','sec4','sec5','sec6','sec7'].forEach(id => {
+  // Section labels — sec3 (flight) and sec5 (diet) are required, sec6 (other) is optional
+  ['sec1','sec4','sec7'].forEach(id => {
     document.getElementById(id).textContent = t[id];
   });
+  document.getElementById('sec3').innerHTML = t.sec3 + ` <span class="badge-req">${t.req}</span>`;
+  document.getElementById('sec5').innerHTML = t.sec5 + ` <span class="badge-req">${t.req}</span>`;
+  document.getElementById('sec6').innerHTML = t.sec6 + ` <span class="badge-opt" style="font-size:9px;font-weight:500;letter-spacing:0.08em;color:var(--muted);background:transparent;border:1px solid var(--border);border-radius:2px;padding:1px 5px;">${t.opt}</span>`;
+
+  // Field labels
+  const optIds = new Set(['lbl_email','lbl_itinerary','lbl_notes','lbl_flight_out','lbl_flight_ret']);
   ['lbl_depart','lbl_flight_out','lbl_flight_ret','lbl_adults','lbl_children','lbl_childages','lbl_name','lbl_line','lbl_email','lbl_itinerary','lbl_notes'].forEach(id => {
     const el = document.getElementById(id);
-    if (el) el.textContent = t[id];
+    if (!el) return;
+    const isOpt = optIds.has(id);
+    el.innerHTML = `<span>${t[id]}</span><span class="${isOpt ? 'badge-opt' : 'badge-req'}">${isOpt ? t.opt : t.req}</span>`;
   });
 
   document.getElementById('nameInput').placeholder = t.ph_name;
