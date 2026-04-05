@@ -32,6 +32,15 @@ collections:
         date_format: "YYYY-MM-DD"
         time_format: false
         format: "YYYY-MM-DD"
+      - label: 發佈時間（整點）
+        name: pubHour
+        widget: number
+        value_type: int
+        min: 0
+        max: 23
+        step: 1
+        required: false
+        hint: "0–23，例如 8 = 早上 8 點，14 = 下午 2 點"
       - label: 分類
         name: category
         widget: select
