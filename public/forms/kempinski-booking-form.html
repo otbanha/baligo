@@ -67,8 +67,12 @@
 
   .submit-section { margin-top: 2.5rem; text-align: center; }
   .submit-btn { font-family: 'DM Sans', sans-serif; font-size: 13px; font-weight: 500; letter-spacing: 0.15em; text-transform: uppercase; color: var(--dark); background: var(--gold); border: none; border-radius: 2px; padding: 14px 48px; cursor: pointer; transition: all 0.2s; width: 100%; max-width: 320px; }
-  .submit-btn:hover { background: var(--gold-light); transform: translateY(-1px); }
+  .submit-btn:hover:not(:disabled) { background: var(--gold-light); transform: translateY(-1px); }
+  .submit-btn:disabled { opacity: 0.35; cursor: not-allowed; transform: none; }
   .submit-note { font-size: 11px; color: var(--muted); margin-top: 10px; }
+  .field-error { font-size: 11px; color: #c0392b; margin-top: 4px; display: none; }
+  input.err, select.err { border-color: #c0392b !important; }
+  .input-wrap { position: relative; }
 
   .success-screen { display: none; text-align: center; padding: 4rem 2rem; }
   .success-icon { width: 52px; height: 52px; border: 1px solid var(--gold); border-radius: 50%; margin: 0 auto 1.5rem; display: flex; align-items: center; justify-content: center; color: var(--gold); font-size: 22px; }
@@ -101,8 +105,16 @@
       <div class="section-label" id="sec1"></div>
       <div class="field">
         <div class="field-row">
-          <div><label class="field-label" id="lbl_checkin"></label><input type="date" id="checkin" name="checkin" required></div>
-          <div><label class="field-label" id="lbl_checkout"></label><input type="date" id="checkout" name="checkout" required></div>
+          <div>
+            <label class="field-label" id="lbl_checkin"></label>
+            <input type="date" id="checkin" name="checkin">
+            <span class="field-error" id="err_checkin"></span>
+          </div>
+          <div>
+            <label class="field-label" id="lbl_checkout"></label>
+            <input type="date" id="checkout" name="checkout">
+            <span class="field-error" id="err_checkout"></span>
+          </div>
         </div>
       </div>
     </div>
@@ -140,8 +152,16 @@
       <div class="section-label" id="sec6"></div>
       <div class="field">
         <div class="field-row">
-          <div><label class="field-label" id="lbl_name"></label><input type="text" name="name" id="nameInput" required></div>
-          <div><label class="field-label" id="lbl_line"></label><input type="text" name="line" id="lineInput" required></div>
+          <div>
+            <label class="field-label" id="lbl_name"></label>
+            <input type="text" name="name" id="nameInput">
+            <span class="field-error" id="err_name"></span>
+          </div>
+          <div>
+            <label class="field-label" id="lbl_line"></label>
+            <input type="text" name="line" id="lineInput">
+            <span class="field-error" id="err_line"></span>
+          </div>
         </div>
       </div>
       <div class="field">
@@ -190,6 +210,10 @@ const T = {
     ],
     submitBtn:'送出詢問', submitNote:'我們將於 24 小時內透過 LINE 或 Email 與您聯繫',
     submitting:'送出中...', submitFail:'送出失敗，請稍後再試或直接聯繫我們。',
+    errRequired:'此欄位為必填',
+    errCheckin:'請選擇入住日期',
+    errCheckout:'請選擇退房日期',
+    errCheckoutOrder:'退房日期必須晚於入住日期',
     successTitle:'詢問已送出', successSub:'感謝您的詢問，我們將於 24 小時內與您聯繫。',
     emailHeader:'=== 凱賓斯基訂房詢問 ===',
     emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',checkin:'入住日期',checkout:'退房日期',adults:'大人人數',children:'小孩人數',child_ages:'小孩年齡',bed:'需求床型',room:'指定房型',notes:'其他需求'},
@@ -219,6 +243,10 @@ const T = {
     ],
     submitBtn:'提交咨询', submitNote:'我们将在 24 小时内通过 LINE 或 Email 与您联系',
     submitting:'提交中...', submitFail:'提交失败，请稍后再试或直接联系我们。',
+    errRequired:'此栏为必填',
+    errCheckin:'请选择入住日期',
+    errCheckout:'请选择退房日期',
+    errCheckoutOrder:'退房日期须晚于入住日期',
     successTitle:'咨询已提交', successSub:'感谢您的咨询，我们将在 24 小时内与您联系。',
     emailHeader:'=== 凯宾斯基订房咨询 ===',
     emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',checkin:'入住日期',checkout:'退房日期',adults:'成人人数',children:'儿童人数',child_ages:'儿童年龄',bed:'床型需求',room:'指定房型',notes:'其他需求'},
@@ -248,6 +276,10 @@ const T = {
     ],
     submitBtn:'提交查詢', submitNote:'我們將於 24 小時內透過 LINE 或 Email 聯絡您',
     submitting:'提交中...', submitFail:'提交失敗，請稍後再試或直接聯絡我們。',
+    errRequired:'此欄為必填',
+    errCheckin:'請選擇入住日期',
+    errCheckout:'請選擇退房日期',
+    errCheckoutOrder:'退房日期須晚於入住日期',
     successTitle:'查詢已送出', successSub:'多謝您嘅查詢，我們將於 24 小時內聯絡您。',
     emailHeader:'=== 凱賓斯基訂房查詢 ===',
     emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',checkin:'入住日期',checkout:'退房日期',adults:'成人人數',children:'小朋友人數',child_ages:'小朋友年齡',bed:'床型需求',room:'指定房型',notes:'其他需求'},
@@ -277,6 +309,10 @@ const T = {
     ],
     submitBtn:'Submit Enquiry', submitNote:"We'll reach out via LINE or Email within 24 hours.",
     submitting:'Sending...', submitFail:'Submission failed. Please try again or contact us directly.',
+    errRequired:'This field is required',
+    errCheckin:'Please select a check-in date',
+    errCheckout:'Please select a check-out date',
+    errCheckoutOrder:'Check-out must be after check-in',
     successTitle:'Enquiry Sent', successSub:"Thank you! We'll be in touch within 24 hours.",
     emailHeader:'=== Kempinski Booking Enquiry ===',
     emailKeys:{name:'Name',line:'LINE/WhatsApp',email:'Email',checkin:'Check-in',checkout:'Check-out',adults:'Adults',children:'Children',child_ages:'Children ages',bed:'Bed type',room:'Room type',notes:'Special requests'},
@@ -423,8 +459,62 @@ function updateChildAges() {
 
 const SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbyWzEbMDdD4A5aKgNDuen6ojIQBC2pPEJdGsWsLWDW7fhBtb7PdV6x4ghk7WobNTqCl/exec';
 
+function showErr(id, msg) {
+  const el = document.getElementById('err_' + id);
+  const input = document.getElementById(id) || document.querySelector(`[name="${id}"]`);
+  if (el) { el.textContent = msg; el.style.display = msg ? 'block' : 'none'; }
+  if (input) { msg ? input.classList.add('err') : input.classList.remove('err'); }
+}
+
+function clearErr(id) { showErr(id, ''); }
+
+function validateForm() {
+  const t = T[currentLang];
+  let valid = true;
+
+  // Checkin
+  const checkin = document.getElementById('checkin').value;
+  if (!checkin) { showErr('checkin', t.errCheckin); valid = false; } else clearErr('checkin');
+
+  // Checkout
+  const checkout = document.getElementById('checkout').value;
+  if (!checkout) { showErr('checkout', t.errCheckout); valid = false; }
+  else if (checkin && checkout <= checkin) { showErr('checkout', t.errCheckoutOrder); valid = false; }
+  else clearErr('checkout');
+
+  // Name
+  const name = document.getElementById('nameInput').value.trim();
+  if (!name) { showErr('name', t.errRequired); valid = false; } else clearErr('name');
+
+  // Line
+  const line = document.getElementById('lineInput').value.trim();
+  if (!line) { showErr('line', t.errRequired); valid = false; } else clearErr('line');
+
+  return valid;
+}
+
+// Live validation on change to re-enable button
+['checkin','checkout','nameInput','lineInput'].forEach(id => {
+  const el = document.getElementById(id);
+  if (el) el.addEventListener('input', () => {
+    validateForm();
+    updateSubmitBtn();
+  });
+});
+
+function updateSubmitBtn() {
+  const checkin = document.getElementById('checkin').value;
+  const checkout = document.getElementById('checkout').value;
+  const name = document.getElementById('nameInput').value.trim();
+  const line = document.getElementById('lineInput').value.trim();
+  const ok = checkin && checkout && checkout > checkin && name && line;
+  document.getElementById('submitBtn').disabled = !ok;
+}
+
 document.getElementById('bookingForm').addEventListener('submit', async function(e) {
   e.preventDefault();
+  if (!validateForm()) return;
+
   const t = T[currentLang];
   const btn = document.getElementById('submitBtn');
   btn.textContent = t.submitting;
@@ -477,6 +567,7 @@ function buildSummary(data) {
 }
 
 setLang(currentLang);
+document.getElementById('submitBtn').disabled = true;
 </script>
 </body>
 </html>
