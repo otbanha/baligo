@@ -292,6 +292,12 @@ const PINNED_ARTICLES = [
       { title: '只想放鬆？這些峇里島Klook一日遊行程讓你0規劃也能玩得盡興', url: '/blog/2025-05-01-6812dc5dfd897800018e284b/' },
     ],
   },
+  {
+    keywords: ['啤酒巴士', '啤酒車', 'beer bus', 'Beer Bus', 'BEER BUS', 'beer truck', 'party bus'],
+    articles: [
+      { title: '峇里島啤酒巴士（啤酒車）完整攻略', url: '/blog/2025-03-15-67d4f8e0fd897800017aca0f/' },
+    ],
+  },
 ];
 
 const RATE_LIMIT_MAX = 20;
