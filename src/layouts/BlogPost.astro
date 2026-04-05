@@ -336,6 +336,18 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
           </div>
         </div>
 
+        <!-- Facebook Comments -->
+        <div class="fb-comments-wrap" data-pagefind-ignore>
+          <h2 class="fb-comments-title">留言討論</h2>
+          <div
+            class="fb-comments"
+            data-href={canonicalUrl}
+            data-width="100%"
+            data-numposts="10"
+            data-lazy="true"
+          ></div>
+        </div>
+
         <!-- 文章底部推薦 -->
         {randomPosts.length > 0 && (
           <div class="related-posts" data-pagefind-ignore>
@@ -457,6 +469,10 @@ window.addEventListener('load', () => {
 
   <ChatBot lang={lang} />
   <Footer lang={lang} />
+
+  <!-- Facebook SDK -->
+  <div id="fb-root"></div>
+  <script async defer crossorigin="anonymous" src="https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v21.0&appId=1994862907907037"></script>
 </body>
 </html>
 
@@ -954,6 +970,23 @@ hr { margin: 1.2em 0 1.8em; }
   max-width: 560px;
   margin: 1.5em auto;
 }
+
+/* Facebook Comments */
+.fb-comments-wrap {
+  margin-top: 3em;
+  padding-top: 2em;
+  border-top: 1px solid var(--border, #e5e7eb);
+}
+.fb-comments-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 1em;
+  color: var(--text, #1a1a1a);
+}
+.fb-comments-wrap .fb-comments {
+  width: 100% !important;
+}
+.fb-comments-wrap iframe { max-width: 100% !important; }
 
 /* 推薦文章 */
 .related-posts {
