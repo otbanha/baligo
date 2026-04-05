@@ -205,17 +205,8 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
       .cms-btn .cms-label { display: none; }
       .cms-btn { padding: .45rem .7rem; }
 
-      /* iframe notice */
-      .iframe-notice {
-        display: flex !important; flex-direction: column; align-items: center;
-        justify-content: center; gap: 1rem; padding: 2rem 1.5rem; text-align: center;
-      }
-      .iframe-notice p { font-size: .85rem; color: #6b7a8d; line-height: 1.6; }
-      .iframe-notice a {
-        display: inline-flex; align-items: center; gap: .4em;
-        background: #1A365D; color: #fff; text-decoration: none;
-        border-radius: 10px; padding: .65rem 1.4rem; font-size: .95rem; font-weight: 700;
-      }
+      /* iframe: 手機上可以 scroll */
+      .panel iframe { -webkit-overflow-scrolling: touch; overflow: auto; }
 
       /* Private panel: stack vertically */
       .private-panel { padding: 1rem; }
@@ -263,55 +254,31 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
 
     <!-- 索引 -->
     <div class="panel" id="panel-index">
-      <div class="iframe-notice" style="display:none;background:#0f1923;flex:1">
-        <p>此工具在手機上需全頁開啟</p>
-        <a href="/index-all/" target="_blank">開啟文章索引 ↗</a>
-      </div>
       <iframe id="iframe-index" title="文章索引"></iframe>
     </div>
 
     <!-- 圖片上傳 -->
     <div class="panel" id="panel-upload">
-      <div class="iframe-notice" style="display:none;background:#0f1923;flex:1">
-        <p>此工具在手機上需全頁開啟</p>
-        <a href="/admin/upload/" target="_blank">開啟圖片上傳 ↗</a>
-      </div>
       <iframe id="iframe-upload" title="圖片上傳"></iframe>
     </div>
 
     <!-- 短網址 -->
     <div class="panel" id="panel-shorturl">
-      <div class="iframe-notice" style="display:none;background:#0f1923;flex:1">
-        <p>此工具在手機上需全頁開啟</p>
-        <a href="/go/" target="_blank">開啟短網址管理 ↗</a>
-      </div>
       <iframe id="iframe-shorturl" title="短網址管理"></iframe>
     </div>
 
     <!-- 本週熱門 -->
     <div class="panel" id="panel-hot">
-      <div class="iframe-notice" style="display:none;background:#0f1923;flex:1">
-        <p>此工具在手機上需全頁開啟</p>
-        <a href="/admin/hot/" target="_blank">開啟本週熱門 ↗</a>
-      </div>
       <iframe id="iframe-hot" title="本週熱門文章"></iframe>
     </div>
 
     <!-- 編輯精選 -->
     <div class="panel" id="panel-featured">
-      <div class="iframe-notice" style="display:none;background:#0f1923;flex:1">
-        <p>此工具在手機上需全頁開啟</p>
-        <a href="/admin/featured/" target="_blank">開啟編輯精選 ↗</a>
-      </div>
       <iframe id="iframe-featured" title="編輯精選"></iframe>
     </div>
 
     <!-- 首頁視頻 -->
     <div class="panel" id="panel-videos">
-      <div class="iframe-notice" style="display:none;background:#0f1923;flex:1">
-        <p>此工具在手機上需全頁開啟</p>
-        <a href="/admin/videos/" target="_blank">開啟首頁視頻 ↗</a>
-      </div>
       <iframe id="iframe-videos" title="首頁視頻管理"></iframe>
     </div>
 
@@ -377,8 +344,6 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
 
   var loaded = {};
 
-  var isMobile = window.innerWidth <= 640;
-
   function activateTab(tabId) {
     document.querySelectorAll('.tab').forEach(function(btn) {
       btn.classList.toggle('active', btn.getAttribute('data-tab') === tabId);
@@ -387,17 +352,9 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
       panel.classList.toggle('active', panel.id === 'panel-' + tabId);
     });
     var iframe = document.getElementById('iframe-' + tabId);
-    var notice = iframe && iframe.previousElementSibling;
-    if (iframe && TAB_URLS[tabId]) {
-      if (isMobile) {
-        // show notice, hide iframe
-        if (notice && notice.classList.contains('iframe-notice')) notice.style.display = 'flex';
-        iframe.style.display = 'none';
-      } else {
-        if (!loaded[tabId]) { iframe.src = TAB_URLS[tabId]; loaded[tabId] = true; }
-        if (notice && notice.classList.contains('iframe-notice')) notice.style.display = 'none';
-        iframe.style.display = '';
-      }
+    if (iframe && !loaded[tabId] && TAB_URLS[tabId]) {
+      iframe.src = TAB_URLS[tabId];
+      loaded[tabId] = true;
     }
     if (tabId === 'private' && !loaded['private']) {
       renderPrivate();
