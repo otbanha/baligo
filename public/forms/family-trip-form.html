@@ -104,8 +104,16 @@
         <div class="pill-group" id="flightPills"></div>
       </div>
       <div class="field" id="flightNumWrap" style="display:none;">
-        <label class="field-label" id="lbl_flightnum"></label>
-        <input type="text" name="flight_number" id="flightNumInput">
+        <div class="field-row">
+          <div>
+            <label class="field-label" id="lbl_flight_out"></label>
+            <input type="text" name="flight_out" id="flightOutInput">
+          </div>
+          <div>
+            <label class="field-label" id="lbl_flight_ret"></label>
+            <input type="text" name="flight_ret" id="flightRetInput">
+          </div>
+        </div>
       </div>
     </div>
 
@@ -181,7 +189,7 @@ const T = {
     sec1:'預計出發日期', sec2:'旅遊天數', sec3:'機票狀況', sec4:'參加人數',
     sec5:'飲食需求', sec6:'其他需求', sec7:'聯絡方式',
     lbl_depart:'預計出發日期',
-    lbl_flightnum:'航班號碼（例如：CI771）',
+    lbl_flight_out:'去程航班（例如：CI771）', lbl_flight_ret:'回程航班（例如：CI772）',
     lbl_adults:'大人', lbl_children:'小孩（12 歲以下）', lbl_childages:'各小孩年齡',
     lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email（選填）',
     lbl_itinerary:'想增加或刪除的景點／活動',
@@ -199,7 +207,7 @@ const T = {
     submitting:'送出中...', submitFail:'送出失敗，請稍後再試或直接聯繫我們。',
     successTitle:'詢問已送出', successSub:'感謝您的詢問，我們將於 24 小時內與您聯繫。',
     emailHeader:'=== 峇里島六天五夜親子遊行程詢問 ===',
-    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'預計出發',flight:'機票狀況',flight_number:'航班號碼',adults:'大人人數',children:'小孩人數',child_ages:'小孩年齡',diet:'飲食需求',itinerary_notes:'景點／活動調整',notes:'其他需求'},
+    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'預計出發',flight:'機票狀況',flight_out:'去程航班',flight_ret:'回程航班',adults:'大人人數',children:'小孩人數',child_ages:'小孩年齡',diet:'飲食需求',itinerary_notes:'景點／活動調整',notes:'其他需求'},
   },
   cn: {
     heroTitle: '巴厘岛六天五夜亲子游', heroSub: '行程咨询',
@@ -207,7 +215,7 @@ const T = {
     sec1:'预计出发日期', sec2:'旅游天数', sec3:'机票情况', sec4:'参加人数',
     sec5:'饮食需求', sec6:'其他需求', sec7:'联系方式',
     lbl_depart:'预计出发日期',
-    lbl_flightnum:'航班号码（例如：CI771）',
+    lbl_flight_out:'去程航班（例如：CI771）', lbl_flight_ret:'回程航班（例如：CI772）',
     lbl_adults:'成人', lbl_children:'儿童（12 岁以下）', lbl_childages:'各儿童年龄',
     lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email（选填）',
     lbl_itinerary:'想增加或删除的景点／活动',
@@ -225,7 +233,7 @@ const T = {
     submitting:'提交中...', submitFail:'提交失败，请稍后再试或直接联系我们。',
     successTitle:'咨询已提交', successSub:'感谢您的咨询，我们将在 24 小时内与您联系。',
     emailHeader:'=== 巴厘岛六天五夜亲子游行程咨询 ===',
-    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'预计出发',flight:'机票情况',flight_number:'航班号码',adults:'成人人数',children:'儿童人数',child_ages:'儿童年龄',diet:'饮食需求',itinerary_notes:'景点／活动调整',notes:'其他需求'},
+    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'预计出发',flight:'机票情况',flight_out:'去程航班',flight_ret:'回程航班',adults:'成人人数',children:'儿童人数',child_ages:'儿童年龄',diet:'饮食需求',itinerary_notes:'景点／活动调整',notes:'其他需求'},
   },
   hk: {
     heroTitle: '峇里島六天五夜親子遊', heroSub: '行程查詢',
@@ -233,7 +241,7 @@ const T = {
     sec1:'預計出發日期', sec2:'旅遊天數', sec3:'機票情況', sec4:'參加人數',
     sec5:'飲食需求', sec6:'其他需求', sec7:'聯絡方式',
     lbl_depart:'預計出發日期',
-    lbl_flightnum:'航班號碼（例如：CX654）',
+    lbl_flight_out:'去程航班（例如：CX654）', lbl_flight_ret:'回程航班（例如：CX655）',
     lbl_adults:'成人', lbl_children:'小朋友（12 歲以下）', lbl_childages:'各小朋友年齡',
     lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email（可不填）',
     lbl_itinerary:'想增加或刪除嘅景點／活動',
@@ -251,7 +259,7 @@ const T = {
     submitting:'提交中...', submitFail:'提交失敗，請稍後再試或直接聯絡我們。',
     successTitle:'查詢已送出', successSub:'多謝您嘅查詢，我們將於 24 小時內聯絡您。',
     emailHeader:'=== 峇里島六天五夜親子遊行程查詢 ===',
-    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'預計出發',flight:'機票情況',flight_number:'航班號碼',adults:'成人人數',children:'小朋友人數',child_ages:'小朋友年齡',diet:'飲食需求',itinerary_notes:'景點／活動調整',notes:'其他需求'},
+    emailKeys:{name:'姓名',line:'LINE/WhatsApp',email:'Email',depart:'預計出發',flight:'機票情況',flight_out:'去程航班',flight_ret:'回程航班',adults:'成人人數',children:'小朋友人數',child_ages:'小朋友年齡',diet:'飲食需求',itinerary_notes:'景點／活動調整',notes:'其他需求'},
   },
   en: {
     heroTitle: 'Bali 6D5N Family Trip', heroSub: 'Trip Enquiry',
@@ -259,7 +267,7 @@ const T = {
     sec1:'Departure Date', sec2:'Trip Duration', sec3:'Flight Status', sec4:'Group Size',
     sec5:'Dietary Needs', sec6:'Special Requests', sec7:'Contact Details',
     lbl_depart:'Estimated departure date',
-    lbl_flightnum:'Flight number (e.g. CI771)',
+    lbl_flight_out:'Outbound flight (e.g. CI771)', lbl_flight_ret:'Return flight (e.g. CI772)',
     lbl_adults:'Adults', lbl_children:'Children (under 12)', lbl_childages:"Children's ages",
     lbl_name:'Name', lbl_line:'LINE / WhatsApp', lbl_email:'Email (optional)',
     lbl_itinerary:'Attractions / activities to add or remove',
@@ -277,7 +285,7 @@ const T = {
     submitting:'Sending...', submitFail:'Submission failed. Please try again or contact us directly.',
     successTitle:'Enquiry Sent', successSub:"Thank you! We'll be in touch within 24 hours.",
     emailHeader:'=== Bali 6D5N Family Trip Enquiry ===',
-    emailKeys:{name:'Name',line:'LINE/WhatsApp',email:'Email',depart:'Departure',flight:'Flights',flight_number:'Flight no.',adults:'Adults',children:'Children',child_ages:'Children ages',diet:'Dietary',itinerary_notes:'Itinerary changes',notes:'Other requests'},
+    emailKeys:{name:'Name',line:'LINE/WhatsApp',email:'Email',depart:'Departure',flight:'Flights',flight_out:'Outbound flight',flight_ret:'Return flight',adults:'Adults',children:'Children',child_ages:'Children ages',diet:'Dietary',itinerary_notes:'Itinerary changes',notes:'Other requests'},
   }
 };
 
@@ -338,7 +346,7 @@ function setLang(lang) {
   ['sec1','sec3','sec4','sec5','sec6','sec7'].forEach(id => {
     document.getElementById(id).textContent = t[id];
   });
-  ['lbl_depart','lbl_flightnum','lbl_adults','lbl_children','lbl_childages','lbl_name','lbl_line','lbl_email','lbl_itinerary','lbl_notes'].forEach(id => {
+  ['lbl_depart','lbl_flight_out','lbl_flight_ret','lbl_adults','lbl_children','lbl_childages','lbl_name','lbl_line','lbl_email','lbl_itinerary','lbl_notes'].forEach(id => {
     const el = document.getElementById(id);
     if (el) el.textContent = t[id];
   });
@@ -347,7 +355,8 @@ function setLang(lang) {
   document.getElementById('lineInput').placeholder = t.ph_line;
   document.getElementById('itineraryInput').placeholder = t.ph_itinerary;
   document.getElementById('notesInput').placeholder = t.ph_notes;
-  document.getElementById('flightNumInput').placeholder = t.lbl_flightnum;
+  document.getElementById('flightOutInput').placeholder = t.lbl_flight_out;
+  document.getElementById('flightRetInput').placeholder = t.lbl_flight_ret;
   document.getElementById('submitBtn').textContent = t.submitBtn;
   document.getElementById('submitNote').textContent = t.submitNote;
   document.getElementById('successTitle').textContent = t.successTitle;
@@ -472,7 +481,8 @@ function buildSummary(data, t) {
     '',
     `[${k.depart}] ${get('depart')}`,
     `[${k.flight}] ${get('flight')}`,
-    `[${k.flight_number}] ${get('flight_number') || '-'}`,
+    `[${k.flight_out}] ${get('flight_out') || '-'}`,
+    `[${k.flight_ret}] ${get('flight_ret') || '-'}`,
     '',
     `[${k.adults}] ${get('adults')}`,
     `[${k.children}] ${get('children')}`,
