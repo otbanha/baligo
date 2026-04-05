@@ -39,7 +39,7 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
     }
     .auth-box {
       background: #1a2535; border: 1px solid #2e3d52; border-radius: 14px;
-      padding: 2.2rem 2.4rem; width: 340px; box-shadow: 0 8px 40px rgba(0,0,0,.5);
+      padding: 2.2rem 2.4rem; width: min(340px, calc(100vw - 2rem)); box-shadow: 0 8px 40px rgba(0,0,0,.5);
     }
     .auth-logo { font-size: 1.5rem; font-weight: 800; color: #C5A059; margin-bottom: .3rem; }
     .auth-sub  { font-size: .82rem; color: #6b7a8d; margin-bottom: 1.5rem; }
@@ -65,11 +65,15 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
       display: flex; align-items: stretch; gap: 4px;
       background: #111c2a; border-bottom: 2px solid #1f2f42;
       padding: 0 1.2rem; flex-shrink: 0; height: 64px;
+      overflow-x: auto; -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
     }
+    .tabbar::-webkit-scrollbar { display: none; }
     .tabbar-brand {
       font-size: 1.15rem; font-weight: 800; color: #C5A059;
       display: flex; align-items: center; padding-right: 1.4rem;
       border-right: 1px solid #2e3d52; margin-right: .6rem; letter-spacing: .04em;
+      flex-shrink: 0;
     }
     .tab {
       display: flex; align-items: center; gap: .5em;
@@ -78,20 +82,21 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
       cursor: pointer; border-bottom: 3px solid transparent;
       transition: color .15s, border-color .15s, background .15s;
       white-space: nowrap; font-family: inherit; border-radius: 6px 6px 0 0;
+      flex-shrink: 0;
     }
     .tab:hover  { color: #c5d0dc; background: rgba(255,255,255,.04); }
     .tab.active { color: #e8e0d4; border-bottom-color: #C5A059; background: rgba(197,160,89,.08); }
     .tab .icon  { font-size: 1.2em; }
 
     /* ── CMS Launch Button ────────────────────────────────────────── */
-    .tabbar-spacer { flex: 1; }
+    .tabbar-spacer { flex: 1; min-width: .5rem; }
     .cms-btn {
       display: flex; align-items: center; gap: .5em;
       margin: auto 0; padding: .45rem 1.1rem;
       background: #1A365D; color: #e8e0d4; border: none;
       border-radius: 8px; font-size: .95rem; font-weight: 700;
       cursor: pointer; text-decoration: none; white-space: nowrap;
-      transition: background .15s; font-family: inherit;
+      transition: background .15s; font-family: inherit; flex-shrink: 0;
     }
     .cms-btn:hover { background: #254d85; }
     .cms-btn .icon { font-size: 1.1em; }
@@ -187,6 +192,41 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
     .private-copy:hover { border-color: #C5A059; color: #C5A059; }
     .private-copy.copied { border-color: #48bb78; color: #48bb78; }
     .private-empty { color: #4a5d72; font-size: 0.9rem; text-align: center; padding: 3rem 0; }
+
+    /* ── Mobile ───────────────────────────────────────────────────── */
+    @media (max-width: 640px) {
+      /* Tab bar: smaller height, icon-only labels */
+      .tabbar { height: 52px; padding: 0 .5rem; gap: 2px; }
+      .tabbar-brand { font-size: .95rem; padding-right: .9rem; margin-right: .3rem; }
+      .tab { padding: 0 .9rem; font-size: .78rem; gap: .3em; }
+      .tab .tab-label { display: none; }
+      .tab .icon { font-size: 1.3em; }
+      .tab.active .tab-label { display: inline; font-size: .7rem; }
+      .cms-btn .cms-label { display: none; }
+      .cms-btn { padding: .45rem .7rem; }
+
+      /* iframe notice */
+      .iframe-notice {
+        display: flex !important; flex-direction: column; align-items: center;
+        justify-content: center; gap: 1rem; padding: 2rem 1.5rem; text-align: center;
+      }
+      .iframe-notice p { font-size: .85rem; color: #6b7a8d; line-height: 1.6; }
+      .iframe-notice a {
+        display: inline-flex; align-items: center; gap: .4em;
+        background: #1A365D; color: #fff; text-decoration: none;
+        border-radius: 10px; padding: .65rem 1.4rem; font-size: .95rem; font-weight: 700;
+      }
+
+      /* Private panel: stack vertically */
+      .private-panel { padding: 1rem; }
+      .private-header { flex-wrap: wrap; gap: .5rem; }
+      .private-cms-link { margin-left: 0; }
+      .private-item { flex-direction: column; align-items: flex-start; gap: .6em; }
+      .private-meta { text-align: left; min-width: unset; display: flex; gap: .5em; align-items: center; }
+      .private-title { white-space: normal; font-size: .85rem; }
+      .private-desc { white-space: normal; -webkit-line-clamp: 2; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; }
+      .private-copy { align-self: flex-start; }
+    }
   </style>
 </head>
 <body>
@@ -209,13 +249,13 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
   <!-- Tab Bar -->
   <nav class="tabbar">
     <div class="tabbar-brand">Atlas</div>
-    <button class="tab active" data-tab="index">   <span class="icon">📊</span> 索引</button>
-    <button class="tab"        data-tab="upload">  <span class="icon">🖼️</span> 圖片</button>
-    <button class="tab"        data-tab="shorturl"><span class="icon">🔗</span> 短網址</button>
-    <button class="tab"        data-tab="hot">      <span class="icon">🔥</span> 本週熱門</button>
-    <button class="tab"        data-tab="featured"><span class="icon">⭐</span> 編輯精選</button>
-    <button class="tab"        data-tab="videos">   <span class="icon">🎬</span> 首頁視頻</button>
-    <button class="tab"        data-tab="private"> <span class="icon">🔒</span> 私密文章</button>
+    <button class="tab active" data-tab="index">   <span class="icon">📊</span><span class="tab-label"> 索引</span></button>
+    <button class="tab"        data-tab="upload">  <span class="icon">🖼️</span><span class="tab-label"> 圖片</span></button>
+    <button class="tab"        data-tab="shorturl"><span class="icon">🔗</span><span class="tab-label"> 短網址</span></button>
+    <button class="tab"        data-tab="hot">      <span class="icon">🔥</span><span class="tab-label"> 熱門</span></button>
+    <button class="tab"        data-tab="featured"><span class="icon">⭐</span><span class="tab-label"> 精選</span></button>
+    <button class="tab"        data-tab="videos">   <span class="icon">🎬</span><span class="tab-label"> 視頻</span></button>
+    <button class="tab"        data-tab="private"> <span class="icon">🔒</span><span class="tab-label"> 私密</span></button>
   </nav>
 
   <!-- Content Panels -->
@@ -223,31 +263,55 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
 
     <!-- 索引 -->
     <div class="panel" id="panel-index">
+      <div class="iframe-notice" style="display:none;background:#0f1923;flex:1">
+        <p>此工具在手機上需全頁開啟</p>
+        <a href="/index-all/" target="_blank">開啟文章索引 ↗</a>
+      </div>
       <iframe id="iframe-index" title="文章索引"></iframe>
     </div>
 
     <!-- 圖片上傳 -->
     <div class="panel" id="panel-upload">
+      <div class="iframe-notice" style="display:none;background:#0f1923;flex:1">
+        <p>此工具在手機上需全頁開啟</p>
+        <a href="/admin/upload/" target="_blank">開啟圖片上傳 ↗</a>
+      </div>
       <iframe id="iframe-upload" title="圖片上傳"></iframe>
     </div>
 
     <!-- 短網址 -->
     <div class="panel" id="panel-shorturl">
+      <div class="iframe-notice" style="display:none;background:#0f1923;flex:1">
+        <p>此工具在手機上需全頁開啟</p>
+        <a href="/go/" target="_blank">開啟短網址管理 ↗</a>
+      </div>
       <iframe id="iframe-shorturl" title="短網址管理"></iframe>
     </div>
 
     <!-- 本週熱門 -->
     <div class="panel" id="panel-hot">
+      <div class="iframe-notice" style="display:none;background:#0f1923;flex:1">
+        <p>此工具在手機上需全頁開啟</p>
+        <a href="/admin/hot/" target="_blank">開啟本週熱門 ↗</a>
+      </div>
       <iframe id="iframe-hot" title="本週熱門文章"></iframe>
     </div>
 
     <!-- 編輯精選 -->
     <div class="panel" id="panel-featured">
+      <div class="iframe-notice" style="display:none;background:#0f1923;flex:1">
+        <p>此工具在手機上需全頁開啟</p>
+        <a href="/admin/featured/" target="_blank">開啟編輯精選 ↗</a>
+      </div>
       <iframe id="iframe-featured" title="編輯精選"></iframe>
     </div>
 
     <!-- 首頁視頻 -->
     <div class="panel" id="panel-videos">
+      <div class="iframe-notice" style="display:none;background:#0f1923;flex:1">
+        <p>此工具在手機上需全頁開啟</p>
+        <a href="/admin/videos/" target="_blank">開啟首頁視頻 ↗</a>
+      </div>
       <iframe id="iframe-videos" title="首頁視頻管理"></iframe>
     </div>
 
@@ -313,6 +377,8 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
 
   var loaded = {};
 
+  var isMobile = window.innerWidth <= 640;
+
   function activateTab(tabId) {
     document.querySelectorAll('.tab').forEach(function(btn) {
       btn.classList.toggle('active', btn.getAttribute('data-tab') === tabId);
@@ -321,9 +387,17 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
       panel.classList.toggle('active', panel.id === 'panel-' + tabId);
     });
     var iframe = document.getElementById('iframe-' + tabId);
-    if (iframe && !loaded[tabId] && TAB_URLS[tabId]) {
-      iframe.src = TAB_URLS[tabId];
-      loaded[tabId] = true;
+    var notice = iframe && iframe.previousElementSibling;
+    if (iframe && TAB_URLS[tabId]) {
+      if (isMobile) {
+        // show notice, hide iframe
+        if (notice && notice.classList.contains('iframe-notice')) notice.style.display = 'flex';
+        iframe.style.display = 'none';
+      } else {
+        if (!loaded[tabId]) { iframe.src = TAB_URLS[tabId]; loaded[tabId] = true; }
+        if (notice && notice.classList.contains('iframe-notice')) notice.style.display = 'none';
+        iframe.style.display = '';
+      }
     }
     if (tabId === 'private' && !loaded['private']) {
       renderPrivate();
