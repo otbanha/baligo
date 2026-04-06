@@ -123,6 +123,16 @@ const noResultsLabel = lang === 'en' ? 'No results found.' :
           showSubResults: false,
           resetStyles: false,
           translations: { placeholder: '🔍 搜尋文章關鍵字...', zero_results: noResultsLabel },
+          // 中文查詢自動轉成 phrase search，解決 pagefind 中文字符分詞問題
+          // processTerm 接收完整 query，回傳值直接送入 F.search()
+          processTerm: function(query) {
+            // 若查詢全為 CJK 字元（無空格、無英數），自動加引號做 phrase search
+            // Pagefind exact search 會依 token position 做順序比對，可找到相鄰漢字
+            if (/^[\u3400-\u9fff]+$/.test(query.trim())) {
+              return '"' + query.trim() + '"';
+            }
+            return query;
+          },
         });
         // Auto-focus after UI is mounted
         setTimeout(() => {
