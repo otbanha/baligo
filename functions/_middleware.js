@@ -56,6 +56,12 @@ export async function onRequest({ request, next }) {
   const url = new URL(request.url);
   const pathname = url.pathname;
 
+  // 爬蟲/社群媒體抓取器不做語言轉址，否則 Facebook/LINE 等無法正確抓取 OG 標籤
+  const ua = request.headers.get('user-agent') ?? '';
+  if (/facebookexternalhit|facebot|twitterbot|linkedinbot|slackbot|telegrambot|whatsapp|discordbot|applebot|googlebot|bingbot|yandex|curl|wget/i.test(ua)) {
+    return next();
+  }
+
   // 已在翻譯語系路徑下，設定 cookie 記憶後直接放行
   const translatedMatch = pathname.match(/^\/(zh-cn|zh-hk|en)(\/|$)/);
   if (translatedMatch) {
