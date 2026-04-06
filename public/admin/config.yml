@@ -4,11 +4,8 @@ backend:
   branch: main
   base_url: https://baligo-auth.otbanha.workers.dev
 
-media_library:
-  name: r2
-
-media_folder: ""
-public_folder: ""
+media_folder: "public/images"
+public_folder: "/images"
 
 collections:
   - name: blog
