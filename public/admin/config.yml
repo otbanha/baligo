@@ -59,9 +59,9 @@ collections:
           - 新聞存檔
       - label: Tags
         name: tags
-        widget: text
+        widget: list
         required: false
-        hint: "一行一個 tag，例如：\n峇里島\n住宿\n推薦"
+        hint: "點 Add 新增標籤，每個標籤獨立一項"
       - { label: 首圖, name: heroImage, widget: image, required: false, hint: "不填則自動抓取內文第一張圖" }
       - { label: 原始網址, name: originalUrl, widget: string, required: false }
       - { label: 🔒 私密發布（有連結才能看）, name: private, widget: boolean, required: false, default: false, hint: "勾選後此文章不會出現在文章列表和搜尋，但有直接連結仍可訪問" }
