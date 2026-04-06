@@ -676,16 +676,13 @@ window.addEventListener('load', () => {
         track.appendChild(slide);
 
         // 直幅圖不強制撐滿寬度
-        function checkVertical() {
-          if (img.naturalWidth > 0 && img.naturalHeight > img.naturalWidth) {
+        // img.decode() 強制載入並等待解碼完成，確保能讀到 naturalWidth/Height
+        img.loading = 'eager';
+        img.decode().then(() => {
+          if (img.naturalHeight > img.naturalWidth) {
             slide.classList.add('is-vertical');
           }
-        }
-        if (img.complete) {
-          checkVertical();
-        } else {
-          img.addEventListener('load', checkVertical);
-        }
+        }).catch(() => {});
       });
 
       // Prev / Next 按鈕（覆蓋在圖片上）
