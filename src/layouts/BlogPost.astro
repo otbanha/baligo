@@ -674,6 +674,18 @@ window.addEventListener('load', () => {
         wrap.appendChild(img);
         slide.appendChild(wrap);
         track.appendChild(slide);
+
+        // 直幅圖不強制撐滿寬度
+        function checkVertical() {
+          if (img.naturalWidth > 0 && img.naturalHeight > img.naturalWidth) {
+            slide.classList.add('is-vertical');
+          }
+        }
+        if (img.complete) {
+          checkVertical();
+        } else {
+          img.addEventListener('load', checkVertical);
+        }
       });
 
       // Prev / Next 按鈕（覆蓋在圖片上）
@@ -1428,8 +1440,25 @@ hr { margin: 1.2em 0 1.8em; }
   background: #000;
   display: block;
 }
+/* 直幅圖：保持自然寬度，置中顯示 */
+:global(.carousel-slide.is-vertical) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #111;
+}
+:global(.carousel-slide.is-vertical .img-wrap) {
+  width: auto;
+}
+:global(.carousel-slide.is-vertical .img-wrap img) {
+  width: auto;
+  max-width: 100%;
+  height: 420px;
+  object-fit: contain;
+}
 @media (max-width: 600px) {
-  :global(.carousel-slide .img-wrap img) {
+  :global(.carousel-slide .img-wrap img),
+  :global(.carousel-slide.is-vertical .img-wrap img) {
     height: 260px;
   }
 }
