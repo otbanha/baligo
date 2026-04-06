@@ -89,6 +89,10 @@ export function remarkBlocks(embedMap = {}) {
         return rewriteLinks(mdToHtml(block.content));
       }
 
+      if (block.type === 'html') {
+        return block.content;
+      }
+
       if (block.type === 'random-cards' || block.type === 'random-list') {
         const items = block.content
           .split('\n')
