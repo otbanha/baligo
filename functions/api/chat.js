@@ -298,6 +298,14 @@ const PINNED_ARTICLES = [
       { title: '峇里島啤酒巴士（啤酒車）完整攻略', url: '/blog/2025-03-15-67d4f8e0fd897800017aca0f/' },
     ],
   },
+  {
+    keywords: ['獨旅', '一個人旅行', '一個人去', '單獨旅行', '一人旅遊', '一個人遊', '自己去', '自己一個人',
+               'solo travel', 'solo trip', 'solo traveler', 'solo traveller', 'traveling alone', 'travelling alone',
+               'travel alone', 'go alone', 'by myself', 'single traveler'],
+    articles: [
+      { title: '峇里島獨旅全攻略', url: '/blog/2026-04-05-001845/' },
+    ],
+  },
 ];
 
 const RATE_LIMIT_MAX = 20;
