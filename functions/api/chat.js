@@ -451,11 +451,13 @@ function findRelatedArticles(query, articles, lang) {
     const descLower = (article.description || '').toLowerCase();
     const categoriesStr = (article.category || []).join(' ').toLowerCase();
     const tagsStr = (article.tags || []).join(' ').toLowerCase();
+    const snippetLower = (article.snippet || '').toLowerCase();
     for (const term of queryTerms) {
       if (titleLower.includes(term)) score += 3;
       if (categoriesStr.includes(term)) score += 2;
       if (tagsStr.includes(term)) score += 2;
       if (descLower.includes(term)) score += 1;
+      if (snippetLower.includes(term)) score += 1;
     }
     return { ...article, score };
   });

@@ -60,6 +60,17 @@ for (const file of files) {
   // 新文章優先（用 pubDate 排序）
   const pubDate = fm.pubDate || '2000-01-01';
 
+  // 擷取正文前 300 字作為搜尋用 snippet
+  const bodyRaw = raw.split(/^---$/m).slice(2).join('---');
+  const snippet = bodyRaw
+    .replace(/\{\{block:[^}]+\}\}/g, '')        // 移除 block 語法
+    .replace(/!\[.*?\]\(.*?\)/g, '')             // 移除圖片
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, '$1')    // 連結保留文字
+    .replace(/[#*`>_~\[\]]/g, '')               // 移除 markdown 符號
+    .replace(/\s+/g, ' ')
+    .trim()
+    .slice(0, 300);
+
   articles.push({
     id,
     title: fm.title,
@@ -68,6 +79,7 @@ for (const file of files) {
     category: Array.isArray(category) ? category : [category].filter(Boolean),
     tags: Array.isArray(tags) ? tags : [tags].filter(Boolean),
     pubDate,
+    snippet,
   });
 }
 
