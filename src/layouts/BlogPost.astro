@@ -174,6 +174,11 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
     <link rel="preload" as="image" href={ogImage} fetchpriority="high" />
   )}
 
+  <!-- 繁體中文文章：設定 session 標記，防止 /blog/ 首頁偵測瀏覽器語言後把使用者跳轉到其他語系 -->
+  {(!lang || lang === 'zh-tw') && (
+    <script is:inline>sessionStorage.setItem('gobaligo_lang_checked', '1');</script>
+  )}
+
   <!-- hreflang: 列出全部語言版本，讓 Google 了解多語系關係 -->
   {slug && <>
     <link rel="alternate" hreflang="x-default"  href={`https://gobaligo.id/blog/${slug}/`} />
