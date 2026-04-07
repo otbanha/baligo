@@ -362,6 +362,11 @@ const socialLinks = [
 
       </div>
 
+      <!-- 分類大標題 -->
+      <div id="cat-heading" style="display:none">
+        <h1 id="cat-heading-text" class="cat-heading-title"></h1>
+      </div>
+
       <!-- 編輯精選區塊 -->
       <div id="featured-section" style="display:none">
         <h2 class="section-title fade-in">⭐ 編輯精選</h2>
@@ -474,6 +479,16 @@ const socialLinks = [
 
     function updateFeatured(cat) {
       const section = document.getElementById('featured-section');
+      const catHeading = document.getElementById('cat-heading');
+      const catHeadingText = document.getElementById('cat-heading-text');
+      if (catHeading && catHeadingText) {
+        if (cat === 'all') {
+          catHeading.style.display = 'none';
+        } else {
+          catHeadingText.textContent = cat;
+          catHeading.style.display = 'block';
+        }
+      }
       const source = dynamicFeatured || featuredData;
       const ids = source[cat] || [];
       if (cat === 'all' || ids.length === 0) {
@@ -849,6 +864,23 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   padding: 1.2em 1.5em;
   box-shadow: 0 2px 12px rgba(10,22,40,0.07);
   border: 1px solid rgba(197,160,89,0.15);
+}
+
+/* 分類大標題 */
+#cat-heading {
+  padding: 0.6em 0 0.2em;
+}
+.cat-heading-title {
+  font-size: 2em;
+  font-weight: 800;
+  color: var(--ocean);
+  margin: 0;
+  line-height: 1.2;
+  border-left: 5px solid var(--gold);
+  padding-left: 0.5em;
+}
+@media (max-width: 600px) {
+  .cat-heading-title { font-size: 1.5em; }
 }
 
 .section-title {
