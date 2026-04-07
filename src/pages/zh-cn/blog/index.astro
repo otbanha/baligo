@@ -257,6 +257,10 @@ const socialLinks = [
 
       </div>
 
+      <div id="cat-heading" style="display:none">
+        <h1 id="cat-heading-text" class="cat-heading-title"></h1>
+      </div>
+
       <div id="featured-section" style="display:none">
         <h2 class="section-title fade-in">⭐ 编辑精选</h2>
         <div class="featured-grid">
@@ -361,6 +365,12 @@ const socialLinks = [
 
     function updateFeatured(cat) {
       const section = document.getElementById('featured-section');
+      const catHeading = document.getElementById('cat-heading');
+      const catHeadingText = document.getElementById('cat-heading-text');
+      if (catHeading && catHeadingText) {
+        if (cat === 'all') { catHeading.style.display = 'none'; }
+        else { catHeadingText.textContent = cat; catHeading.style.display = 'block'; }
+      }
       const source = dynamicFeatured || featuredData;
       const ids = source[cat] || [];
       if (cat === 'all' || ids.length === 0) { section.style.display = 'none'; return; }
@@ -526,6 +536,9 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 .news-body :global(a) { color: var(--gold) !important; }
 .news-body :global(strong), .news-body :global(b) { color: rgba(255,255,255,0.95) !important; }
 .top5-section { margin-bottom: 1.5em; background: var(--white); border-radius: 12px; padding: 1.2em 1.5em; box-shadow: 0 2px 12px rgba(10,22,40,0.07); border: 1px solid rgba(197,160,89,0.15); }
+#cat-heading { padding: 0.6em 0 0.2em; }
+.cat-heading-title { font-size: 2em; font-weight: 800; color: var(--ocean); margin: 0; line-height: 1.2; border-left: 5px solid var(--gold); padding-left: 0.5em; }
+@media (max-width: 600px) { .cat-heading-title { font-size: 1.5em; } }
 .section-title { font-size: 1em; font-weight: 700; color: var(--ocean); margin: 0 0 1em; padding-bottom: 0.5em; border-bottom: 2px solid var(--gold); }
 .top5-list { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5em; }
 .top5-item a { display: flex; align-items: center; gap: 0.5em; text-decoration: none; color: var(--text); padding: 0.4em 0.8em; border-radius: 20px; border: 1px solid rgba(197,160,89,0.25); font-size: 0.85em; transition: all 0.15s; background: var(--sand); }
