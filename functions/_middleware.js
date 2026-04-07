@@ -81,12 +81,22 @@ export async function onRequest({ request, next }) {
       const response = await next();
       const html = await response.text();
       const imageUrl = `https://gobaligo.id${ogImagePath}`;
+      const catUrl = `https://gobaligo.id/blog/?cat=${encodeURIComponent(cat)}`;
+      const catTitle = `${cat} | Go Bali Go 峇里島旅遊攻略`;
       const modified = html
-        .replace(/(<meta\s+property="og:image"\s+content=")[^"]*(")/i, `$1${imageUrl}$2`)
-        .replace(/(<meta\s+name="twitter:image"\s+content=")[^"]*(")/i, `$1${imageUrl}$2`);
+        .replace(/(<meta\s+property="og:url"\s+content=")[^"]*(")/i,      `$1${catUrl}$2`)
+        .replace(/(<meta\s+property="twitter:url"\s+content=")[^"]*(")/i,  `$1${catUrl}$2`)
+        .replace(/(<meta\s+property="og:title"\s+content=")[^"]*(")/i,     `$1${catTitle}$2`)
+        .replace(/(<meta\s+property="twitter:title"\s+content=")[^"]*(")/i,`$1${catTitle}$2`)
+        .replace(/(<meta\s+property="og:image"\s+content=")[^"]*(")/i,     `$1${imageUrl}$2`)
+        .replace(/(<meta\s+property="twitter:image"\s+content=")[^"]*(")/i,`$1${imageUrl}$2`);
+      // 重建 headers：移除 content-length（內容已修改，長度不同）
+      const newHeaders = new Headers(response.headers);
+      newHeaders.delete('content-length');
+      newHeaders.set('content-type', 'text/html; charset=utf-8');
       return new Response(modified, {
         status: response.status,
-        headers: response.headers,
+        headers: newHeaders,
       });
     }
   }
