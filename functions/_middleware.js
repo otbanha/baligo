@@ -79,7 +79,7 @@ export async function onRequest({ request, next }) {
     const ogImagePath = cat ? CATEGORY_OG[cat] : null;
     if (ogImagePath) {
       const imageUrl = `https://gobaligo.id${ogImagePath}`;
-      const catUrl = `https://gobaligo.id/blog/?cat=${encodeURIComponent(cat)}`;
+      const catUrl = url.href; // 使用當前請求的完整 URL，避免 Facebook 追蹤 og:url 跑到別頁
       const catTitle = `${cat} | Go Bali Go 峇里島旅遊攻略`;
       const ogHtml = `<!DOCTYPE html><html lang="zh-TW"><head>
 <meta charset="utf-8">
