@@ -251,9 +251,6 @@ const socialLinks = [
           {categories.map(cat => (
             <li>
               <button class="category-item" data-category={cat}>
-                {categoryImages[cat] && (
-                  <img class="cat-thumb" src={categoryImages[cat]} alt={cat} loading="lazy" />
-                )}
                 <span class="cat-name">{cat}</span>
                 <span class="cat-count">{categoryCounts[cat]}</span>
               </button>
@@ -733,15 +730,6 @@ const socialLinks = [
 
 .category-item:hover { background: rgba(197, 160, 89, 0.1); color: var(--ocean); }
 .category-item.active { background: var(--ocean); color: var(--gold-light); }
-.cat-thumb {
-  width: 40px;
-  height: 28px;
-  object-fit: cover;
-  border-radius: 4px;
-  margin-right: 0.5em;
-  flex-shrink: 0;
-}
-.category-item.active .cat-thumb { opacity: 0.9; }
 .cat-name { flex: 1; }
 
 .cat-count {

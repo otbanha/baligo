@@ -8,6 +8,19 @@
 const LANG_COOKIE = 'gobaligo_lang';
 const COOKIE_MAX_AGE = 60 * 60 * 24 * 365; // 1 年
 
+// 分類縮圖：用於社群分享 OG image
+const CATEGORY_OG = {
+  '新手指南':       '/cat_pix/1.jpg',
+  '住宿推薦':       '/cat_pix/2.jpg',
+  '峇里島分區攻略': '/cat_pix/3.jpg',
+  '簽證通關':       '/cat_pix/4.jpg',
+  '叫車包車':       '/cat_pix/5.jpg',
+  '家庭親子':       '/cat_pix/6.jpg',
+  '遊記分享':       '/cat_pix/7.jpg',
+  '美食景點活動':   '/cat_pix/8.jpg',
+  '旅行技巧':       '/cat_pix/9.jpg',
+};
+
 /**
  * 從 Accept-Language 判斷語系
  * 回傳 'zh-tw' | 'zh-cn' | 'zh-hk' | 'en'
@@ -56,11 +69,29 @@ export async function onRequest({ request, next }) {
   const url = new URL(request.url);
   const pathname = url.pathname;
 
-  // 爬蟲/社群媒體抓取器不做語言轉址，否則 Facebook/LINE 等無法正確抓取 OG 標籤
+  // 爬蟲/社群媒體抓取器
   const ua = request.headers.get('user-agent') ?? '';
-  if (/facebookexternalhit|facebot|twitterbot|linkedinbot|slackbot|telegrambot|whatsapp|discordbot|applebot|googlebot|bingbot|yandex|curl|wget/i.test(ua)) {
-    return next();
+  const isBot = /facebookexternalhit|facebot|twitterbot|linkedinbot|slackbot|telegrambot|whatsapp|discordbot|applebot|googlebot|bingbot|yandex|curl|wget/i.test(ua);
+
+  // 社群分享分類頁：注入分類專屬 OG image
+  if (isBot && (pathname === '/blog' || pathname === '/blog/')) {
+    const cat = url.searchParams.get('cat');
+    const ogImagePath = cat ? CATEGORY_OG[decodeURIComponent(cat)] : null;
+    if (ogImagePath) {
+      const response = await next();
+      const html = await response.text();
+      const imageUrl = `https://gobaligo.id${ogImagePath}`;
+      const modified = html
+        .replace(/(<meta\s+property="og:image"\s+content=")[^"]*(")/i, `$1${imageUrl}$2`)
+        .replace(/(<meta\s+name="twitter:image"\s+content=")[^"]*(")/i, `$1${imageUrl}$2`);
+      return new Response(modified, {
+        status: response.status,
+        headers: response.headers,
+      });
+    }
   }
+
+  if (isBot) return next();
 
   // 已在翻譯語系路徑下，設定 cookie 記憶後直接放行
   const translatedMatch = pathname.match(/^\/(zh-cn|zh-hk|en)(\/|$)/);
