@@ -53,6 +53,18 @@ const categoryOrder = [
   '新聞存檔',
 ];
 
+const categoryImages: Record<string, string> = {
+  '新手指南':       '/cat_pix/1.jpg',
+  '住宿推薦':       '/cat_pix/2.jpg',
+  '峇里島分區攻略': '/cat_pix/3.jpg',
+  '簽證通關':       '/cat_pix/4.jpg',
+  '叫車包車':       '/cat_pix/5.jpg',
+  '家庭親子':       '/cat_pix/6.jpg',
+  '遊記分享':       '/cat_pix/7.jpg',
+  '美食景點活動':   '/cat_pix/8.jpg',
+  '旅行技巧':       '/cat_pix/9.jpg',
+};
+
 const allCategories = [...new Set(allPosts.flatMap(p =>
   getCategories(p.data.category)
 ).filter(Boolean))];
@@ -239,6 +251,9 @@ const socialLinks = [
           {categories.map(cat => (
             <li>
               <button class="category-item" data-category={cat}>
+                {categoryImages[cat] && (
+                  <img class="cat-thumb" src={categoryImages[cat]} alt={cat} loading="lazy" />
+                )}
                 <span class="cat-name">{cat}</span>
                 <span class="cat-count">{categoryCounts[cat]}</span>
               </button>
@@ -718,6 +733,15 @@ const socialLinks = [
 
 .category-item:hover { background: rgba(197, 160, 89, 0.1); color: var(--ocean); }
 .category-item.active { background: var(--ocean); color: var(--gold-light); }
+.cat-thumb {
+  width: 40px;
+  height: 28px;
+  object-fit: cover;
+  border-radius: 4px;
+  margin-right: 0.5em;
+  flex-shrink: 0;
+}
+.category-item.active .cat-thumb { opacity: 0.9; }
 .cat-name { flex: 1; }
 
 .cat-count {
