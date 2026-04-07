@@ -73,30 +73,32 @@ export async function onRequest({ request, next }) {
   const ua = request.headers.get('user-agent') ?? '';
   const isBot = /facebookexternalhit|facebot|twitterbot|linkedinbot|slackbot|telegrambot|whatsapp|discordbot|applebot|googlebot|bingbot|yandex|curl|wget/i.test(ua);
 
-  // 社群分享分類頁：注入分類專屬 OG image
+  // 社群分享分類頁：直接回傳含分類 OG 的輕量 HTML
   if (isBot && (pathname === '/blog' || pathname === '/blog/')) {
     const cat = url.searchParams.get('cat');
-    const ogImagePath = cat ? CATEGORY_OG[decodeURIComponent(cat)] : null;
+    const ogImagePath = cat ? CATEGORY_OG[cat] : null;
     if (ogImagePath) {
-      const response = await next();
-      const html = await response.text();
       const imageUrl = `https://gobaligo.id${ogImagePath}`;
       const catUrl = `https://gobaligo.id/blog/?cat=${encodeURIComponent(cat)}`;
       const catTitle = `${cat} | Go Bali Go 峇里島旅遊攻略`;
-      const modified = html
-        .replace(/(<meta\s+property="og:url"\s+content=")[^"]*(")/i,      `$1${catUrl}$2`)
-        .replace(/(<meta\s+property="twitter:url"\s+content=")[^"]*(")/i,  `$1${catUrl}$2`)
-        .replace(/(<meta\s+property="og:title"\s+content=")[^"]*(")/i,     `$1${catTitle}$2`)
-        .replace(/(<meta\s+property="twitter:title"\s+content=")[^"]*(")/i,`$1${catTitle}$2`)
-        .replace(/(<meta\s+property="og:image"\s+content=")[^"]*(")/i,     `$1${imageUrl}$2`)
-        .replace(/(<meta\s+property="twitter:image"\s+content=")[^"]*(")/i,`$1${imageUrl}$2`);
-      // 重建 headers：移除 content-length（內容已修改，長度不同）
-      const newHeaders = new Headers(response.headers);
-      newHeaders.delete('content-length');
-      newHeaders.set('content-type', 'text/html; charset=utf-8');
-      return new Response(modified, {
-        status: response.status,
-        headers: newHeaders,
+      const ogHtml = `<!DOCTYPE html><html lang="zh-TW"><head>
+<meta charset="utf-8">
+<meta property="og:type" content="website">
+<meta property="og:url" content="${catUrl}">
+<meta property="og:site_name" content="Go Bali Go 峇里島旅遊攻略">
+<meta property="og:title" content="${catTitle}">
+<meta property="og:description" content="峇里島旅遊攻略 — ${cat}分類精選文章">
+<meta property="og:image" content="${imageUrl}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="twitter:card" content="summary_large_image">
+<meta property="twitter:url" content="${catUrl}">
+<meta property="twitter:title" content="${catTitle}">
+<meta property="twitter:image" content="${imageUrl}">
+</head><body></body></html>`;
+      return new Response(ogHtml, {
+        status: 200,
+        headers: { 'content-type': 'text/html; charset=utf-8', 'cache-control': 'no-store' },
       });
     }
   }
