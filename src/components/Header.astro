@@ -21,6 +21,9 @@ const searchPlaceholder = lang === 'en'    ? '🔍 Search articles...' :
 const closeLabel = lang === 'en' ? 'Close search' : '關閉搜尋';
 const noResultsLabel = lang === 'en' ? 'No results found.' :
                        lang === 'zh-cn' ? '找不到相關文章。' : '找不到相關文章。';
+const pagefindLang = lang === 'en' ? 'en' :
+                     lang === 'zh-cn' ? 'zh-cn' :
+                     lang === 'zh-hk' ? 'zh-hk' : 'zh-tw';
 ---
 
 <ScrollReveal />
@@ -77,7 +80,7 @@ const noResultsLabel = lang === 'en' ? 'No results found.' :
   })();
 </script>
 
-<script define:vars={{ noResultsLabel }}>
+<script define:vars={{ noResultsLabel, pagefindLang }}>
   let pagefindLoaded = false;
 
   function openModal() {
@@ -105,12 +108,18 @@ const noResultsLabel = lang === 'en' ? 'No results found.' :
     document.body.style.overflow = '';
   }
 
-  function loadPagefind() {
+  async function loadPagefind() {
     // Pagefind UI CSS
     const link = document.createElement('link');
     link.rel = 'stylesheet';
     link.href = '/pagefind/pagefind-ui.css';
     document.head.appendChild(link);
+
+    // 先設定語言 mergeFilter，讓 pagefind-ui.js 使用同一個 module 實例時自動套用
+    try {
+      const pf = await import('/pagefind/pagefind.js');
+      await pf.options({ mergeFilter: { lang: pagefindLang } });
+    } catch(e) {}
 
     // Pagefind UI JS
     const script = document.createElement('script');

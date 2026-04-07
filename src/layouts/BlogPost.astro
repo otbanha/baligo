@@ -256,6 +256,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
       </nav>
 
       <article {...(isPrivate ? { 'data-pagefind-ignore': true } : { 'data-pagefind-body': true })}>
+        {!isPrivate && <span data-pagefind-filter={`lang:${lang ?? 'zh-tw'}`} hidden aria-hidden="true"></span>}
         <div class="prose">
           <div class="title">
             {category && <span class="article-category" data-pagefind-meta="category">{getCatLabel(Array.isArray(category) ? category[0] : category)}</span>}
