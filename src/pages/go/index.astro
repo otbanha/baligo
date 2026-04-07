@@ -25,6 +25,7 @@ export const prerender = true;
     #add-form { background: #fff; border-radius: 10px; padding: 1.4rem 1.5rem; box-shadow: 0 1px 6px rgba(0,0,0,.1); margin-bottom: 1.5rem; }
     #add-form h2 { font-size: .95rem; font-weight: 700; margin-bottom: 1rem; color: #555; }
     .form-row { display: grid; grid-template-columns: 1fr 2fr 1.5fr auto; gap: .6rem; align-items: end; }
+    .form-row-2 { display: grid; grid-template-columns: 1fr 1fr 2fr; gap: .6rem; margin-top: .5rem; }
     .field label { display: block; font-size: .75rem; font-weight: 600; color: #777; margin-bottom: .3rem; }
     .field input { width: 100%; padding: .5rem .75rem; border: 1px solid #ccc; border-radius: 6px; font-size: .9rem; font-family: inherit; }
     .field input:focus { outline: none; border-color: #f97316; }
@@ -65,6 +66,7 @@ export const prerender = true;
     @media (max-width: 640px) {
       .form-row { grid-template-columns: 1fr 1fr; }
       .form-row > :last-child { grid-column: span 2; }
+      .form-row-2 { grid-template-columns: 1fr; }
       td.url-cell, th.url-th { display: none; }
     }
   </style>
@@ -105,6 +107,20 @@ export const prerender = true;
         <div class="field">
           <label>&nbsp;</label>
           <button class="btn btn-primary" id="add-btn">新增</button>
+        </div>
+      </div>
+      <div class="form-row-2">
+        <div class="field">
+          <label>OG 標題（選填）</label>
+          <input type="text" id="f-title" placeholder="分享時顯示的標題" maxlength="200" />
+        </div>
+        <div class="field">
+          <label>OG 說明（選填）</label>
+          <input type="text" id="f-description" placeholder="分享時顯示的說明" maxlength="300" />
+        </div>
+        <div class="field">
+          <label>OG 圖片網址（選填）</label>
+          <input type="url" id="f-image" placeholder="https://… 建議 1200×630" />
         </div>
       </div>
       <div id="form-status"></div>
@@ -263,6 +279,9 @@ export const prerender = true;
     const id = idInput.value.trim();
     const url = document.getElementById('f-url').value.trim();
     const note = document.getElementById('f-note').value.trim();
+    const title = document.getElementById('f-title').value.trim();
+    const description = document.getElementById('f-description').value.trim();
+    const image = document.getElementById('f-image').value.trim();
 
     if (!id || !url) { setStatus('請填寫 ID 和目標網址', 'red'); return; }
 
@@ -272,7 +291,7 @@ export const prerender = true;
     const res = await fetch('/api/shortlinks', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json', 'X-Admin-Token': token },
-      body: JSON.stringify({ id, url, note }),
+      body: JSON.stringify({ id, url, note, title, description, image }),
     });
     const data = await res.json();
 
@@ -281,8 +300,11 @@ export const prerender = true;
       idInput.value = '';
       document.getElementById('f-url').value = '';
       document.getElementById('f-note').value = '';
+      document.getElementById('f-title').value = '';
+      document.getElementById('f-description').value = '';
+      document.getElementById('f-image').value = '';
       idPreview.textContent = 'gobaligo.id/go/';
-      allLinks.unshift({ id, url, note, createdAt: new Date().toISOString() });
+      allLinks.unshift({ id, url, note, title, description, image, createdAt: new Date().toISOString() });
       renderList(allLinks);
     } else {
       setStatus(data.error || '新增失敗', 'red');

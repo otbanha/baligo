@@ -1,6 +1,6 @@
 // Short link CRUD API
 // GET    /api/shortlinks          → list all
-// POST   /api/shortlinks  { id, url, note }  → create
+// POST   /api/shortlinks  { id, url, note, title, description, image }  → create
 // DELETE /api/shortlinks?id=xxx   → delete
 //
 // Auth: X-Admin-Token header must match env.ADMIN_TOKEN (if set)
@@ -32,6 +32,9 @@ export async function onRequestGet({ env }) {
     id: name.slice(PREFIX.length),
     url: metadata?.url || '',
     note: metadata?.note || '',
+    title: metadata?.title || '',
+    description: metadata?.description || '',
+    image: metadata?.image || '',
     createdAt: metadata?.createdAt || '',
   })).sort((a, b) => b.createdAt.localeCompare(a.createdAt));
 
@@ -55,6 +58,9 @@ export async function onRequestPost({ request, env }) {
   const id = (body.id || '').trim();
   const url = (body.url || '').trim();
   const note = (body.note || '').trim().slice(0, 100);
+  const title = (body.title || '').trim().slice(0, 200);
+  const description = (body.description || '').trim().slice(0, 300);
+  const image = (body.image || '').trim().slice(0, 500);
 
   if (!ID_RE.test(id)) {
     return Response.json({ error: 'ID 只能用英數字、- 和 _，最多 60 字元' }, { status: 400, headers: cors });
@@ -70,7 +76,7 @@ export async function onRequestPost({ request, env }) {
   }
 
   await env.RATE_LIMIT.put(`${PREFIX}${id}`, url, {
-    metadata: { url, note, createdAt: new Date().toISOString() },
+    metadata: { url, note, title, description, image, createdAt: new Date().toISOString() },
   });
 
   return Response.json({ ok: true, id, url }, { headers: cors });
