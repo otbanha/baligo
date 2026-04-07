@@ -2,20 +2,44 @@
 import shortlinks from '../../data/shortlinks.json';
 
 export function getStaticPaths() {
-  return shortlinks.map((link: { id: string; url: string }) => ({
+  return shortlinks.map((link: { id: string; url: string; title?: string; description?: string; image?: string }) => ({
     params: { id: link.id },
-    props: { url: link.url },
+    props: { url: link.url, title: link.title, description: link.description, image: link.image },
   }));
 }
 
-const { url } = Astro.props;
+const { url, title, description, image } = Astro.props;
+const pageTitle = title || 'Go Bali Go 峇里島旅遊攻略';
+const pageDesc = description || '峇里島旅遊攻略';
+const pageImage = image || 'https://gobaligo.id/og-2026.jpg';
+const canonical = `https://gobaligo.id/go/${Astro.params.id}`;
 ---
-<html>
+<html lang="zh-TW">
   <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>{pageTitle}</title>
+    <link rel="canonical" href={canonical} />
+    <!-- Open Graph -->
+    <meta property="og:type" content="article" />
+    <meta property="og:url" content={canonical} />
+    <meta property="og:title" content={pageTitle} />
+    <meta property="og:description" content={pageDesc} />
+    <meta property="og:image" content={pageImage} />
+    <meta property="og:image:width" content="1200" />
+    <meta property="og:image:height" content="630" />
+    <meta property="og:site_name" content="Go Bali Go 峇里島旅遊攻略" />
+    <!-- Twitter -->
+    <meta property="twitter:card" content="summary_large_image" />
+    <meta property="twitter:url" content={canonical} />
+    <meta property="twitter:title" content={pageTitle} />
+    <meta property="twitter:description" content={pageDesc} />
+    <meta property="twitter:image" content={pageImage} />
+    <!-- Redirect -->
     <meta http-equiv="refresh" content={`0; url=${url}`} />
-    <title>Redirecting...</title>
+    <script define:vars={{ url }}>window.location.replace(url);</script>
   </head>
   <body>
-    <p>Redirecting to <a href={url}>{url}</a>...</p>
+    <p><a href={url}>{pageTitle}</a></p>
   </body>
 </html>
