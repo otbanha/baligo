@@ -123,13 +123,13 @@ const noResultsLabel = lang === 'en' ? 'No results found.' :
           showSubResults: false,
           resetStyles: false,
           translations: { placeholder: '🔍 搜尋文章關鍵字...', zero_results: noResultsLabel },
-          // 中文查詢自動轉成 phrase search，解決 pagefind 中文字符分詞問題
-          // processTerm 接收完整 query，回傳值直接送入 F.search()
+          // 中文查詢：拆成單字 AND 搜尋，解決 Pagefind 中文分詞問題
+          // Pagefind 索引時把漢字分成 unigram，但 query 端不會自動拆，
+          // 加空格讓 Pagefind 做 AND 多詞搜尋，大幅提升中文召回率
           processTerm: function(query) {
-            // 若查詢全為 CJK 字元（無空格、無英數），自動加引號做 phrase search
-            // Pagefind exact search 會依 token position 做順序比對，可找到相鄰漢字
-            if (/^[\u3400-\u9fff]+$/.test(query.trim())) {
-              return '"' + query.trim() + '"';
+            const trimmed = query.trim();
+            if (/^[\u3400-\u9fff\u4e00-\u9fff]+$/.test(trimmed)) {
+              return trimmed.split('').join(' ');
             }
             return query;
           },
