@@ -1104,19 +1104,20 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   color: rgba(255,255,255,0.88);
   line-height: 1.7;
 }
-.news-body p { margin: 0 0 0.7em; }
-.news-body img {
+.news-body :global(*) { color: rgba(255,255,255,0.88); }
+.news-body :global(p) { margin: 0 0 0.7em; }
+.news-body :global(img) {
   width: 100%;
   height: auto;
   border-radius: 6px;
   margin: 0.5em 0;
 }
-.news-body h1, .news-body h2, .news-body h3 {
+.news-body :global(h1), .news-body :global(h2), .news-body :global(h3) {
   color: var(--gold-light);
   font-size: 0.95em;
   margin: 0.8em 0 0.4em;
 }
-.news-body a { color: var(--gold); }
+.news-body :global(a) { color: var(--gold); }
 .news-body :global(strong), .news-body :global(b) { color: rgba(255,255,255,0.95); }
 </style>
 <script define:vars={{ promosJson }}>
