@@ -108,13 +108,21 @@ export async function onRequest({ request, next }) {
   // 已在翻譯語系路徑下，設定 cookie 記憶後直接放行
   const translatedMatch = pathname.match(/^\/(zh-cn|zh-hk|en)(\/|$)/);
   if (translatedMatch) {
-    const response = await next();
-    const res = new Response(response.body, response);
-    res.headers.append(
-      'Set-Cookie',
-      `${LANG_COOKIE}=${translatedMatch[1]}; Path=/; Max-Age=${COOKIE_MAX_AGE}; SameSite=Lax`
-    );
-    return res;
+    try {
+      const response = await next();
+      const res = new Response(response.body, {
+        status: response.status,
+        statusText: response.statusText,
+        headers: new Headers(response.headers),
+      });
+      res.headers.append(
+        'Set-Cookie',
+        `${LANG_COOKIE}=${translatedMatch[1]}; Path=/; Max-Age=${COOKIE_MAX_AGE}; SameSite=Lax`
+      );
+      return res;
+    } catch {
+      return next();
+    }
   }
 
   // API、靜態資源、admin 等不處理
