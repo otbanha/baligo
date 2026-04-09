@@ -7,11 +7,12 @@ category:
   - 叫車包車
 tags: []
 originalUrl: ''
+shuffle_h2: true
 embeds: []
 lang: en
-_srcHash: c30849124f19ea071c61c5cc58a768fd
+_srcHash: 68bfcae4594801d5bbd29db589e22fc1
 ---
-Page one: Find our top recommended drivers [here](https://gobaligo.id/blog/2024-07-07-668aaea7fd89780001981840/)
+Page one: Get our top recommended drivers [here](https://gobaligo.id/blog/2024-07-07-668aaea7fd89780001981840/).
 
 ## Manx Liega
 
@@ -29,19 +30,19 @@ Page one: Find our top recommended drivers [here](https://gobaligo.id/blog/2024-
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787507921-pinsky_new.jpg)
 
-👍🏼[Netizen Recommendation 1](https://www.facebook.com/groups/baligo/permalink/1424008058146435/) 👍🏼[Netizen Recommendation 2](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[Netizen Recommendation 3](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[Netizen Recommendation 4](https://www.facebook.com/groups/baligo/permalink/1520187905195116/) 👍🏼[Netizen Recommendation 5](https://www.facebook.com/groups/baligo/permalink/1566672470546659/) 👍🏼[Netizen Recommendation 6](https://www.facebook.com/groups/baligo/permalink/1572613913285848/) 👍🏼[Netizen Recommendation 7](https://www.facebook.com/groups/baligo/permalink/1580841709129735/) 👍🏼[Netizen Recommendation 8](https://www.facebook.com/groups/baligo/permalink/1585601355320437/) 👍🏼[Netizen Recommendation 9](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) 👍🏼[Netizen Recommendation 10](https://www.facebook.com/share/p/8VRYThs4s1pGYjvh/) 👍🏼[Netizen Recommendation 11](https://www.facebook.com/share/p/153msrhAUp/) 👍🏼[Netizen Recommendation 12](https://www.facebook.com/share/p/14pukgECBh/) 👍🏼[Netizen Recommendation 13](https://www.facebook.com/share/p/15tH9LntDp/) 👍🏼[Netizen Recommendation 14](https://www.facebook.com/share/p/1AGnbS7Usi/) 👍🏼[Netizen Recommendation 15](https://www.facebook.com/share/p/1578r5eaTS/) 👍🏼[Netizen Recommendation 16](https://www.facebook.com/share/p/1ANZSYxXA5/) 👍🏼[Netizen Recommendation 17](https://www.facebook.com/share/p/1ANYFF9HPd/) 👍🏼[Netizen Recommendation 18](https://www.facebook.com/share/p/166PNTDsEF/) 👍🏼[Netizen Recommendation 19](https://www.facebook.com/share/p/1AoyTQa6Ut/) 👍🏼[Netizen Recommendation 20](https://www.facebook.com/share/p/1YvZrMzod9/) 👍🏼[Netizen Recommendation 21](https://www.facebook.com/share/p/1Hfu77tmut/) 👍🏼[Netizen Recommendation 22](https://www.facebook.com/share/p/14XwwPmVjhX/)
+👍🏼[User Recommendation 1](https://www.facebook.com/groups/baligo/permalink/1424008058146435/) 👍🏼[User Recommendation 2](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[User Recommendation 3](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[User Recommendation 4](https://www.facebook.com/groups/baligo/permalink/1520187905195116/) 👍🏼[User Recommendation 5](https://www.facebook.com/groups/baligo/permalink/1566672470546659/) 👍🏼[User Recommendation 6](https://www.facebook.com/groups/baligo/permalink/1572613913285848/) 👍🏼[User Recommendation 7](https://www.facebook.com/groups/baligo/permalink/1580841709129735/) 👍🏼[User Recommendation 8](https://www.facebook.com/groups/baligo/permalink/1585601355320437/) 👍🏼[User Recommendation 9](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) 👍🏼[User Recommendation 10](https://www.facebook.com/share/p/8VRYThs4s1pGYjvh/) 👍🏼[User Recommendation 11](https://www.facebook.com/share/p/153msrhAUp/) 👍🏼[User Recommendation 12](https://www.facebook.com/share/p/14pukgECBh/) 👍🏼[User Recommendation 13](https://www.facebook.com/share/p/15tH9LntDp/) 👍🏼[User Recommendation 14](https://www.facebook.com/share/p/1AGnbS7Usi/) 👍🏼[User Recommendation 15](https://www.facebook.com/share/p/1578r5eaTS/) 👍🏼[User Recommendation 16](https://www.facebook.com/share/p/1ANZSYxXA5/) 👍🏼[User Recommendation 17](https://www.facebook.com/share/p/1ANYFF9HPd/) 👍🏼[User Recommendation 18](https://www.facebook.com/share/p/166PNTDsEF/) 👍🏼[User Recommendation 19](https://www.facebook.com/share/p/1AoyTQa6Ut/) 👍🏼[User Recommendation 20](https://www.facebook.com/share/p/1YvZrMzod9/) 👍🏼[User Recommendation 21](https://www.facebook.com/share/p/1Hfu77tmut/) 👍🏼[User Recommendation 22](https://www.facebook.com/share/p/14XwwPmVjhX/)
 
 ## Any
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787562092-ani_new.jpg)
 
-👍🏼[Netizen Recommendation 1](https://www.facebook.com/share/p/t1AjzrpojJZJ6TrX/) 👍🏼[Netizen Recommendation 2](https://www.facebook.com/share/p/Q2VierKidpryTDSb/) 👍🏼[Netizen Recommendation 3](https://www.facebook.com/share/p/pjH5Gy6bA8ieUDoi/) 👍🏼[Netizen Recommendation 4](https://www.facebook.com/share/p/qyrihKgNQskXH3T6/) 👍🏼[Netizen Recommendation 5](https://www.facebook.com/share/p/c1gpCbdRC2ZovPC2/) 👍🏼[Netizen Recommendation 6](https://www.facebook.com/share/p/FGK8VhmKjqcFHGwr/) 👍🏼[Netizen Recommendation 7](https://www.facebook.com/share/18KnP7ogYk/) 👍🏼[Netizen Recommendation 8](https://www.facebook.com/share/p/mApJVCx8yfdMP6hm/) 👍🏼[Netizen Recommendation 9](https://www.facebook.com/share/r/1G6NPpGQU9/) 👍🏼[Netizen Recommendation 10](https://www.facebook.com/share/p/1P8yNWzcQY/) 👍🏼[Netizen Recommendation 11](https://www.facebook.com/share/p/18N1R1pSCT/) 👍🏼[Netizen Recommendation 12](https://www.facebook.com/share/p/1Fth5Xxn6V/) 👍🏼[Netizen Recommendation 13](https://www.facebook.com/share/p/1YizNyLiLL/) 👍🏼[Netizen Recommendation 14](https://www.facebook.com/share/p/1Bi98GVdS6/) 👍🏼[Netizen Recommendation 15](https://www.facebook.com/share/p/12HbHNrnvBw/) 👍🏼[Netizen Recommendation 16](https://www.facebook.com/share/p/1Tb4KRhLgh/) 👍🏼[Netizen Recommendation 17](https://www.facebook.com/share/p/1AL5MUeHvV/) 👍🏼[Netizen Recommendation 18](https://www.facebook.com/share/p/1BK94sYKiU/) 👍🏼[Netizen Recommendation 19](https://www.facebook.com/share/p/1AAScdQHZf/) 👍🏼[Netizen Recommendation 20](https://www.facebook.com/share/p/1KGKcTamcm/) 👍🏼[Netizen Recommendation 21](https://www.facebook.com/share/p/15guC2dRgi/) 👍🏼[Netizen Recommendation 22](https://www.facebook.com/share/p/19wqbfjdUv/) 👍🏼[Netizen Recommendation 23](https://www.facebook.com/share/p/1AR5GKUhSg/) 👍🏼[Netizen Recommendation 24](https://www.facebook.com/share/p/17GW1ayfXM/) 👍🏼[Netizen Recommendation 25](https://www.facebook.com/share/p/17LNUJpCMX/) 👍🏼[Netizen Recommendation 26](https://www.facebook.com/share/p/1bDL3oTt2b/) 👍🏼[Netizen Recommendation 27](https://www.facebook.com/share/p/1C9Rb9RNm4/)
+👍🏼[Netizen Recommendation 1](https://www.facebook.com/share/p/t1AjzrpojJZJ6TrX/) 👍🏼[Netizen Recommendation 2](https://www.facebook.com/share/p/Q2VierKidpryTDSb/) 👍🏼[Netizen Recommendation 3](https://www.facebook.com/share/p/pjH5Gy6bA8ieUDoi/) 👍🏼[Netizen Recommendation 4](https://www.facebook.com/share/p/qyrihKgNQskXH3T6/) 👍🏼[Netizen Recommendation 5](https://www.facebook.com/share/p/c1gpCbdRC2ZovPC2/) 👍🏼[Netizen Recommendation 6](https://www.facebook.com/share/p/FGK8VhmKjqcFHGwr/) 👍🏼[Netizen Recommendation 7](https://www.facebook.com/share/18KnP7ogYk/) 👍🏼[Netizen Recommendation 8](https://www.facebook.com/share/p/mApJVCx8yfdMP6hm/) 👍🏼[Netizen Recommendation 9](https://www.facebook.com/share/r/1G6NPpGQU9/) 👍🏼[Netizen Recommendation 10](https://www.facebook.com/share/p/1P8yNWzcQY/) 👍🏼[Netizen Recommendation 11](https://www.facebook.com/share/p/18N1R1pSCT/) 👍🏼[Netizen Recommendation 12](https://www.facebook.com/share/p/1Fth5Xxn6V/) 👍🏼[Netizen Recommendation 13](https://www.facebook.com/share/p/1YizNyLiLL/) 👍🏼 [Netizen Recommendation 14](https://www.facebook.com/share/p/1Bi98GVdS6/) 👍🏼[Netizen Recommendation 15](https://www.facebook.com/share/p/12HbHNrnvBw/) 👍🏼[Netizen Recommendation 16](https://www.facebook.com/share/p/1Tb4KRhLgh/) 👍🏼[Netizen Recommendation 17](https://www.facebook.com/share/p/1AL5MUeHvV/) 👍🏼[Netizen Recommendation 18](https://www.facebook.com/share/p/1BK94sYKiU/)👍🏼[Netizen Recommendation 19](https://www.facebook.com/share/p/1AAScdQHZf/) 👍🏼[Netizen Recommendation 20](https://www.facebook.com/share/p/1KGKcTamcm/) 👍🏼[Netizen Recommendation 21](https://www.facebook.com/share/p/15guC2dRgi/) 👍🏼[Netizen Recommendation 22](https://www.facebook.com/share/p/19wqbfjdUv/) 👍🏼[Netizen Recommendation 23](https://www.facebook.com/share/p/1AR5GKUhSg/) 👍🏼[Netizen Recommendation 24](https://www.facebook.com/share/p/17GW1ayfXM/) 👍🏼[Netizen Recommendation 25](https://www.facebook.com/share/p/17LNUJpCMX/) 👍🏼[Netizen Recommendation 26](https://www.facebook.com/share/p/1bDL3oTt2b/) 👍🏼[Netizen Recommendation 27](https://www.facebook.com/share/p/1C9Rb9RNm4/) 👍🏼[Netizen Recommendation 28](https://www.facebook.com/share/p/1Y7NeH7oNR/)
 
 ## Komang WikaSutresna
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787613775-new.jpg)
 
-👍🏼[Recommendation 1](https://www.facebook.com/share/p/6QZjPKdCgCxZpjnm/) 👍🏼[Recommendation 2](https://www.facebook.com/share/p/XGvXmo4XfR77nEe3/) 👍🏼[Recommendation 3](https://www.facebook.com/share/p/NCJtqGxCyfKoE3ui/) 👍🏼[Recommendation 4](https://www.facebook.com/share/p/nCVRmvfDAcNaKp8W/) 👍🏼[Recommendation 5](https://www.facebook.com/share/p/rr3fzN8pC2VkZ43S/) 👍🏼[Recommendation 6](https://www.facebook.com/share/p/15M7yLuYSg/) 👍🏼[Recommendation 7](https://www.facebook.com/share/15KzeArBUc/) 👍🏼[Recommendation 8](https://www.facebook.com/share/1873vCmEZA/) 👍🏼[Recommendation 9](https://www.facebook.com/share/p/uKuPgbFNhDmEUbGd/) 👍🏼[Recommendation 10](https://www.facebook.com/share/p/18ZKxDQfKs/) 👍🏼[Recommendation 11](https://www.facebook.com/share/p/14wD7kryTo/) 👍🏼[Recommendation 12](https://www.facebook.com/share/p/15yA7juHso/) 👍🏼[Recommendation 13](https://www.facebook.com/share/p/14sjTapax2/)
+👍🏼[Netizen Recommendation 1](https://www.facebook.com/share/p/6QZjPKdCgCxZpjnm/) 👍🏼[Netizen Recommendation 2](https://www.facebook.com/share/p/XGvXmo4XfR77nEe3/) 👍🏼[Netizen Recommendation 3](https://www.facebook.com/share/p/NCJtqGxCyfKoE3ui/) 👍🏼[Netizen Recommendation 4](https://www.facebook.com/share/p/nCVRmvfDAcNaKp8W/) 👍🏼[Netizen Recommendation 5](https://www.facebook.com/share/p/rr3fzN8pC2VkZ43S/) 👍🏼[Netizen Recommendation 6](https://www.facebook.com/share/p/15M7yLuYSg/) 👍🏼[Netizen Recommendation 7](https://www.facebook.com/share/15KzeArBUc/) 👍🏼[Netizen Recommendation 8](https://www.facebook.com/share/1873vCmEZA/) 👍🏼[Netizen Recommendation 9](https://www.facebook.com/share/p/uKuPgbFNhDmEUbGd/) 👍🏼[Netizen Recommendation 10](https://www.facebook.com/share/p/18ZKxDQfKs/) 👍🏼[Netizen Recommendation 11](https://www.facebook.com/share/p/14wD7kryTo/) 👍🏼[Netizen Recommendation 12](https://www.facebook.com/share/p/15yA7juHso/) 👍🏼[Netizen Recommendation 13](https://www.facebook.com/share/p/14sjTapax2/)
 
 ## Fery Kyo
 
@@ -73,7 +74,7 @@ Page one: Find our top recommended drivers [here](https://gobaligo.id/blog/2024-
 
 👍🏼[Netizen Recommendation 1](https://www.facebook.com/share/p/5wgq1Z6i5eqUBJKj/) 👍🏼[Netizen Recommendation 2](https://www.facebook.com/share/p/AEiVmT3yQBo3DKhm/) 👍🏼[Netizen Recommendation 3](https://www.facebook.com/share/p/8J5yshrP6CtvTjGQ/) 👍🏼[Netizen Recommendation 4](https://www.facebook.com/share/p/NY997TTXwZruajcj/) 👍🏼[Netizen Recommendation 5](https://www.facebook.com/share/p/AjvWujMgEdwYyBKo/) 👍🏼[Netizen Recommendation 6](https://www.facebook.com/groups/baligo/permalink/1645280722685833/) 👍🏼[Netizen Recommendation 7](https://www.facebook.com/share/18Ya4FGwZX/) 👍🏼[Netizen Recommendation 8](https://www.facebook.com/share/p/19u7ydTkaB/) 👍🏼[Netizen Recommendation 9](https://www.facebook.com/share/p/1AyrDVV6WG/)
 
-## Ok Bali___
+## Ok Bali
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787856119-ok_bali_new.jpg)
 
@@ -95,9 +96,9 @@ Page one: Find our top recommended drivers [here](https://gobaligo.id/blog/2024-
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787980830-new.jpg)
 
-👍🏼[User Recommendation 1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[User Recommendation 2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[User Recommendation 3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[User Recommendation 4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[User Recommendation 5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[User Recommendation 6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[User Recommendation 7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[User Recommendation 8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[User Recommendation 9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[User Recommendation 10](https://www.facebook.com/share/p/17nCf6g5RC/) 👍🏼[User Recommendation 11](https://www.facebook.com/share/p/1HxpK37UN8/)
+👍🏼[Netizen Recommendation 1](https://www.facebook.com/share/p/1ALefWHdMF/) 👍🏼[Netizen Recommendation 2](https://www.facebook.com/share/p/19K4zEzd5E/) 👍🏼[Netizen Recommendation 3](https://www.facebook.com/share/p/1CNDuc9iDz/) 👍🏼[Netizen Recommendation 4](https://www.facebook.com/share/p/19quQXbPKN/) 👍🏼[Netizen Recommendation 5](https://www.facebook.com/share/p/1J3RUkQCu7/) 👍🏼[Netizen Recommendation 6](https://www.facebook.com/share/p/1FvFgCvpwQ/) 👍🏼[Netizen Recommendation 7](https://www.facebook.com/share/p/1G75rquYe4/) 👍🏼[Netizen Recommendation 8](https://www.facebook.com/share/p/1BLkuF2sBC/) 👍🏼[Netizen Recommendation 9](https://www.facebook.com/share/p/1ZRqKd5Ux9/) 👍🏼[Netizen Recommendation 10](https://www.facebook.com/share/p/17nCf6g5RC/)
 
-## Iwayan Suantara (Kang Ge)
+## Iwayan Suantara Canggu
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774788022936-_new.jpg)
 
@@ -107,7 +108,7 @@ Page one: Find our top recommended drivers [here](https://gobaligo.id/blog/2024-
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774788060634-kadek_puri_new.jpg)
 
-👍🏼[Netizen Recommendation 1](https://www.facebook.com/share/p/ikjZaN47Mkqx4dRt/) 👍🏼[Netizen Recommendation 2](https://www.facebook.com/groups/baligo/permalink/1496555740891666/) 👍🏼[Netizen Recommendation 3](https://www.facebook.com/groups/baligo/permalink/1503824840164756/) 👍🏼[Netizen Recommendation 4](https://www.facebook.com/groups/baligo/permalink/1560547227825850/) 👍🏼[Netizen Recommendation 5](https://www.facebook.com/share/p/1AgQcowhq1seW59v/) 👍🏼[Netizen Recommendation 6](https://www.facebook.com/share/p/1KdjNhGDoh/)
+👍🏼[Recommendation 1](https://www.facebook.com/share/p/ikjZaN47Mkqx4dRt/) 👍🏼[Recommendation 2](https://www.facebook.com/groups/baligo/permalink/1496555740891666/) 👍🏼[Recommendation 3](https://www.facebook.com/groups/baligo/permalink/1503824840164756/) 👍🏼[Recommendation 4](https://www.facebook.com/groups/baligo/permalink/1560547227825850/) 👍🏼[Recommendation 5](https://www.facebook.com/share/p/1AgQcowhq1seW59v/) 👍🏼[Recommendation 6](https://www.facebook.com/share/p/1KdjNhGDoh/)
 
 ## Dwik
 
@@ -119,13 +120,13 @@ Page one: Find our top recommended drivers [here](https://gobaligo.id/blog/2024-
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774788129506-odon_new.jpg)
 
-👍🏼[User Recommendation 1](https://www.facebook.com/share/p/1AMUy8XQJC/) 👍🏼[User Recommendation 2](https://www.facebook.com/share/p/186Vs8hbsD/) 👍🏼[User Recommendation 3](https://www.facebook.com/share/1ED9boaUC7/) 👍🏼[User Recommendation 4](https://www.facebook.com/share/p/1AK9XoQjiH/) 👍🏼[User Recommendation 5](https://www.facebook.com/share/p/15tr79GCtL/) 👍🏼[User Recommendation 6](https://www.facebook.com/share/p/1GHbhFPc3F/)
+👍🏼[Netizen Recommendation 1](https://www.facebook.com/share/p/1AMUy8XQJC/) 👍🏼[Netizen Recommendation 2](https://www.facebook.com/share/p/186Vs8hbsD/) 👍🏼[Netizen Recommendation 3](https://www.facebook.com/share/1ED9boaUC7/) 👍🏼[Netizen Recommendation 4](https://www.facebook.com/share/p/1AK9XoQjiH/) 👍🏼[Netizen Recommendation 5](https://www.facebook.com/share/p/15tr79GCtL/) 👍🏼[Netizen Recommendation 6](https://www.facebook.com/share/p/1GHbhFPc3F/)
 
 ## Putu Dimas
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774788166261-new.jpg)
 
-👍🏼[Netizen Recommendation 1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[Netizen Recommendation 2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[Netizen Recommendation 3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[Netizen Recommendation 4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[Netizen Recommendation 5](https://www.facebook.com/share/p/1DXtpVrXjz/).
+👍🏼[Netizen Recommendation 1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[Netizen Recommendation 2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[Netizen Recommendation 3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[Netizen Recommendation 4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[Netizen Recommendation 5](https://www.facebook.com/share/p/1DXtpVrXjz/)
 
  BLOCK0 .
 
