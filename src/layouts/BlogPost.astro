@@ -1641,15 +1641,32 @@ hr { margin: 1.2em 0 1.8em; }
   if (articleBody && articleBody.dataset.shuffle === 'true') {
     const children = Array.from(articleBody.childNodes);
 
-    // 分組：preamble（第一個 H2 之前）+ 各 H2 區塊
+    // 分組：preamble（第一個 H2 之前）+ 各 H2 區塊 + postamble（<!-- no-shuffle --> 標記後的 H2 及其後內容）
     const preamble: ChildNode[] = [];
     const sections: ChildNode[][] = [];
+    const postamble: ChildNode[] = [];
     let current: ChildNode[] | null = null;
+    let noShuffleNext = false;
+    let inPostamble = false;
 
     for (const node of children) {
-      if ((node as Element).tagName === 'H2') {
-        current = [node];
-        sections.push(current);
+      // 偵測 <!-- no-shuffle --> HTML comment
+      if (node.nodeType === Node.COMMENT_NODE && (node as Comment).data.trim() === 'no-shuffle') {
+        noShuffleNext = true;
+        postamble.push(node);
+        continue;
+      }
+      if (inPostamble) {
+        postamble.push(node);
+      } else if ((node as Element).tagName === 'H2') {
+        if (noShuffleNext) {
+          inPostamble = true;
+          postamble.push(node);
+        } else {
+          current = [node];
+          sections.push(current);
+        }
+        noShuffleNext = false;
       } else if (current) {
         current.push(node);
       } else {
@@ -1665,12 +1682,13 @@ hr { margin: 1.2em 0 1.8em; }
         [sections[i], sections[j]] = [sections[j], sections[i]];
       }
 
-      // 清空並重新插入
+      // 清空並重新插入（postamble 固定在最後）
       articleBody.innerHTML = '';
       for (const node of preamble) articleBody.appendChild(node);
       for (const section of sections) {
         for (const node of section) articleBody.appendChild(node);
       }
+      for (const node of postamble) articleBody.appendChild(node);
 
       // TOC 同步：依新 H2 順序重排目錄項目（H3 跟著所屬 H2 移動）
       const tocList = document.getElementById('toc-list');
