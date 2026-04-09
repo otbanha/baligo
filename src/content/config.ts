@@ -18,6 +18,8 @@ const blog = defineCollection({
       platform: z.enum(['youtube', 'instagram', 'tiktok']),
       url: z.string(),
     })).optional(),
+    private: z.boolean().optional(),
+    shuffle_h2: z.boolean().optional(),
   }),
 });
 
@@ -65,6 +67,8 @@ const translatedSchema = z.object({
     platform: z.enum(['youtube', 'instagram', 'tiktok']),
     url: z.string(),
   })).optional(),
+  private: z.boolean().optional(),
+  shuffle_h2: z.boolean().optional(),
 });
 
 // 翻譯文章集合 — 使用 glob loader 支援連字號目錄名稱

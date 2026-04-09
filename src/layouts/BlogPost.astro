@@ -10,7 +10,7 @@ import { getCollection } from 'astro:content';
 import { enhancedTitle, enhancedDescription, COMPANION_CAT } from '../utils/seo-keywords';
 
 type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[]; lang?: string; slug?: string };
-const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate } = Astro.props;
+const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate, shuffle_h2: shuffleH2 } = Astro.props;
 
 const tocHeadings = headings.filter(h => h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= 2;
@@ -316,7 +316,9 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
             </nav>
           )}
 
-          <slot />
+          <div id="article-body" data-shuffle={shuffleH2 ? 'true' : 'false'}>
+            <slot />
+          </div>
 
           <!-- 分享列（底部） -->
           <div class="share-bar share-bar--bottom" data-url={canonicalUrl} data-title={title} data-bookmark-label={i18nShare.bookmark} data-bookmarked-label={i18nShare.bookmarked} data-copy-label={i18nShare.copy} data-copied-label={i18nShare.copied}>
@@ -1632,3 +1634,43 @@ hr { margin: 1.2em 0 1.8em; }
   }
 }
 </style>
+
+<script>
+  // H2 區塊亂數排列
+  const articleBody = document.getElementById('article-body');
+  if (articleBody && articleBody.dataset.shuffle === 'true') {
+    const children = Array.from(articleBody.childNodes);
+
+    // 分組：preamble（第一個 H2 之前）+ 各 H2 區塊
+    const preamble: ChildNode[] = [];
+    const sections: ChildNode[][] = [];
+    let current: ChildNode[] | null = null;
+
+    for (const node of children) {
+      if ((node as Element).tagName === 'H2') {
+        current = [node];
+        sections.push(current);
+      } else if (current) {
+        current.push(node);
+      } else {
+        preamble.push(node);
+      }
+    }
+
+    // 只有超過一個 H2 區塊才需要亂數
+    if (sections.length > 1) {
+      // Fisher-Yates shuffle
+      for (let i = sections.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [sections[i], sections[j]] = [sections[j], sections[i]];
+      }
+
+      // 清空並重新插入
+      articleBody.innerHTML = '';
+      for (const node of preamble) articleBody.appendChild(node);
+      for (const section of sections) {
+        for (const node of section) articleBody.appendChild(node);
+      }
+    }
+  }
+</script>
