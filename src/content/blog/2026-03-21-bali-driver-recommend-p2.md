@@ -73,7 +73,7 @@ embeds: []
 
 👍🏼[網友推薦1](https://www.facebook.com/share/p/5wgq1Z6i5eqUBJKj/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/AEiVmT3yQBo3DKhm/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/8J5yshrP6CtvTjGQ/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/NY997TTXwZruajcj/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/AjvWujMgEdwYyBKo/) 👍🏼[網友推薦6](https://www.facebook.com/groups/baligo/permalink/1645280722685833/) 👍🏼[網友推薦7](https://www.facebook.com/share/18Ya4FGwZX/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/19u7ydTkaB/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1AyrDVV6WG/)
 
-## Ok Bali___
+## Ok Bali
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787856119-ok_bali_new.jpg)
 
@@ -125,7 +125,7 @@ embeds: []
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774788166261-new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1DXtpVrXjz/).
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1DXtpVrXjz/)
 
 {{block:klook}}.
 
