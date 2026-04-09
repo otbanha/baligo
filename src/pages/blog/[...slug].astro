@@ -28,10 +28,12 @@ const mdPath = join(blogDir, matchFile || post.id + '.md');
 
 let rawEmbeds: any[] = [];
 let firstImage: string = post.data.heroImage || '';
+let rawShuffleH2: boolean = false;
 try {
   const raw = readFileSync(mdPath, 'utf-8');
   const { data, content } = matter(raw);
   rawEmbeds = data.embeds || [];
+  rawShuffleH2 = data.shuffle_h2 === true;
   if (!firstImage) {
     const imgMatch = content.match(/!\[.*?\]\((https?:\/\/[^)]+)\)/);
     if (imgMatch) firstImage = imgMatch[1];
@@ -44,6 +46,6 @@ rawEmbeds.forEach((e: any) => {
 });
 ---
 
-<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="zh-tw" slug={post.id}>
+<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="zh-tw" slug={post.id} shuffle_h2={rawShuffleH2}>
   <Content />
 </BlogPost>
