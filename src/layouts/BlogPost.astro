@@ -1671,6 +1671,34 @@ hr { margin: 1.2em 0 1.8em; }
       for (const section of sections) {
         for (const node of section) articleBody.appendChild(node);
       }
+
+      // TOC 同步：依新 H2 順序重排目錄項目（H3 跟著所屬 H2 移動）
+      const tocList = document.getElementById('toc-list');
+      if (tocList) {
+        const shuffledIds = sections.map(s => (s[0] as Element).id).filter(Boolean);
+        const h2IdSet = new Set(shuffledIds);
+        // 將 TOC 項目分組：每組 = 一個 H2 <li> + 其後的 H3 <li>
+        const tocItems = Array.from(tocList.children) as HTMLElement[];
+        const tocGroups = new Map<string, HTMLElement[]>();
+        let currentGroup: HTMLElement[] | null = null;
+        let currentId = '';
+        for (const li of tocItems) {
+          const href = li.querySelector('a')?.getAttribute('href') ?? '';
+          const id = href.replace('#', '');
+          if (li.classList.contains('toc-h2') && h2IdSet.has(id)) {
+            currentId = id;
+            currentGroup = [li];
+            tocGroups.set(id, currentGroup);
+          } else if (currentGroup) {
+            currentGroup.push(li);
+          }
+        }
+        tocList.innerHTML = '';
+        for (const id of shuffledIds) {
+          const group = tocGroups.get(id);
+          if (group) group.forEach(li => tocList.appendChild(li));
+        }
+      }
     }
   }
 </script>
