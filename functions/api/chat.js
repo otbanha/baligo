@@ -365,6 +365,17 @@ const PINNED_ARTICLES = [
       { title: 'Go Bali Go 峇里島旅遊 臉書社團', url: 'https://www.facebook.com/groups/baligo' },
     ],
   },
+  {
+    keywords: ['inquiry', 'Inquiry', 'INQUIRY', 'enquiry', 'Enquiry',
+               'book a tour', 'private tour', 'tour booking', 'tour package', 'book tour',
+               'I want to book', 'I\'d like to book', 'I want to join', 'join the tour',
+               'send inquiry', 'make a booking', 'reservation', 'custom tour',
+               'komodo', 'Komodo', 'KOMODO', 'flores', 'Flores', 'labuan bajo', 'Labuan Bajo'],
+    intro: 'Please fill in the inquiry form and we\'ll get back to you shortly',
+    articles: [
+      { title: 'Tour Inquiry Form — Bali & Komodo Private Tours', url: '/blog/2024-11-19-673c7478fd89780001db176b/' },
+    ],
+  },
 ];
 
 const RATE_LIMIT_MAX = 20;
@@ -372,7 +383,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v14'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v15'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
@@ -538,6 +549,7 @@ function buildSystemPrompt(lang, relatedArticles, customIntro, allArticles = [])
     if (lang === 'en') {
       return `You are "Baligo AI" from gobaligo.id, a Bali travel expert.
 Answer the user's question concisely (1-3 sentences). Then, from the candidate articles below, include only the ones that are genuinely relevant to the question (1-3 max) as markdown links [Title](URL) on separate lines. If none are relevant, skip the links.
+When someone sends a tour inquiry or asks to book a tour: reply "Please fill in our inquiry form and we'll get back to you shortly: [Tour Inquiry Form](https://gobaligo.id/en/blog/2024-11-19-673c7478fd89780001db176b/)"
 Do NOT mention "customer service" or "contact us" — this site has no support team.
 
 Candidate articles:
@@ -576,7 +588,9 @@ ${candidateList}`;
     const articleSection = articleContext
       ? `\n\nAvailable articles on this site — pick 1-3 most relevant to include as links [Title](URL), or none if not relevant:\n${articleContext}`
       : '';
-    return `You are "Baligo AI" from gobaligo.id, a Bali travel expert. Answer in English, concisely (under 80 words). Do not make up specific details. Do NOT mention customer service — this site has no support team.${articleSection}`;
+    return `You are "Baligo AI" from gobaligo.id, a Bali travel expert. Answer in English, concisely (under 80 words). Do not make up specific details.
+When someone sends a tour inquiry or asks to book a tour: reply "Please fill in our inquiry form and we'll get back to you shortly: [Tour Inquiry Form](https://gobaligo.id/en/blog/2024-11-19-673c7478fd89780001db176b/)"
+Do NOT mention customer service — this site has no customer support team.${articleSection}`;
   }
 
   if (lang === 'zh-HK') {
