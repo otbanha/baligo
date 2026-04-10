@@ -1656,17 +1656,21 @@ hr { margin: 1.2em 0 1.8em; }
         postamble.push(node);
         continue;
       }
+      const tag = (node as Element).tagName;
+      // H1 在文章內文中自動觸發 postamble（固定在底部）
+      if (tag === 'H1' && sections.length > 0) {
+        inPostamble = true;
+      }
+      // <!-- no-shuffle --> 後遇到任何非空白節點都進入 postamble
+      if (noShuffleNext && !inPostamble) {
+        inPostamble = true;
+        noShuffleNext = false;
+      }
       if (inPostamble) {
         postamble.push(node);
-      } else if ((node as Element).tagName === 'H2') {
-        if (noShuffleNext) {
-          inPostamble = true;
-          postamble.push(node);
-        } else {
-          current = [node];
-          sections.push(current);
-        }
-        noShuffleNext = false;
+      } else if (tag === 'H2') {
+        current = [node];
+        sections.push(current);
       } else if (current) {
         current.push(node);
       } else {
