@@ -847,21 +847,27 @@ function buildTargetAreas(mentioned) {
 }
 
 // ── HTML Builders ─────────────────────────────────────────────────────
+// Card format — used in highlight sections (Must-Read, Accom, Global)
 function cardHtml({title,url,tag}) {
   return `<a href="${url}" class="acard" target="_blank" rel="noopener"><span class="acard-tag">${tag}</span><p class="acard-title">${title}</p><span class="acard-arrow">→</span></a>`;
+}
+
+// Favicon list format — used in region sections and interest extras
+function listItemHtml({title,url,tag}) {
+  return `<a href="${url}" class="alist-item" target="_blank" rel="noopener"><img src="/favicon-16x16.png" class="alist-icon" alt="" aria-hidden="true"><span class="alist-tag">${tag}</span><span class="alist-title">${title}</span><span class="alist-arrow">→</span></a>`;
 }
 
 function regionSection(key) {
   const r = REGIONS[key]; if(!r) return '';
   const desc = LS.regionDescs?.[key] || '';
-  const cards = [cardHtml(r.guide), ...r.spots.map(cardHtml)].join('');
-  return `<div class="results-section region-section"><h3 class="section-title region-title"><span>${r.emoji}</span>${r.name}<span class="region-desc">${desc}</span></h3><div class="article-grid">${cards}</div></div>`;
+  const items = [listItemHtml(r.guide), ...r.spots.map(listItemHtml)].join('');
+  return `<div class="results-section region-section"><h3 class="section-title region-title"><span>${r.emoji}</span>${r.name}<span class="region-desc">${desc}</span></h3><div class="article-list">${items}</div></div>`;
 }
 
 function extraSection(key) {
   const ex = INTEREST_EXTRAS[key]; if(!ex) return '';
   const title = LS.extras?.[key] || key;
-  return `<div class="results-section"><h3 class="section-title">${title}</h3><div class="article-grid">${ex.articles.map(cardHtml).join('')}</div></div>`;
+  return `<div class="results-section"><h3 class="section-title">${title}</h3><div class="article-list">${ex.articles.map(listItemHtml).join('')}</div></div>`;
 }
 
 function buildAccomSection(areas) {
@@ -1054,6 +1060,7 @@ function buildResults() {
 .region-title { display: flex; align-items: baseline; gap: 0.4em; flex-wrap: wrap; }
 .region-desc { font-size: 0.8rem; font-weight: 400; color: #888; margin-left: 0.2em; }
 
+/* ── Card grid (highlight sections) ── */
 .article-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 0.8rem; }
 .acard {
   display: flex; flex-direction: column; gap: 0.4rem;
@@ -1065,6 +1072,31 @@ function buildResults() {
 .acard-tag { font-size: 0.72rem; font-weight: 700; color: var(--gold); text-transform: uppercase; letter-spacing: 0.04em; }
 .acard-title { font-size: 0.88rem; font-weight: 600; color: var(--ocean); line-height: 1.5; margin: 0; flex: 1; }
 .acard-arrow { font-size: 0.85rem; color: var(--gold); font-weight: 700; margin-top: 0.2rem; align-self: flex-end; }
+
+/* ── Favicon list (region & extra sections) ── */
+.article-list { display: flex; flex-direction: column; }
+.alist-item {
+  display: flex; align-items: center; gap: 0.65rem;
+  padding: 0.62em 0.5em;
+  border-bottom: 1px solid rgba(197,160,89,0.13);
+  text-decoration: none;
+  border-radius: 7px;
+  transition: background 0.13s, padding-left 0.13s;
+}
+.alist-item:last-child { border-bottom: none; }
+.alist-item:hover { background: rgba(197,160,89,0.09); padding-left: 0.9em; }
+.alist-icon { width: 16px; height: 16px; flex-shrink: 0; border-radius: 3px; opacity: 0.75; }
+.alist-tag {
+  font-size: 0.66rem; font-weight: 700; color: var(--ocean);
+  background: rgba(197,160,89,0.18); border: 1px solid rgba(197,160,89,0.35);
+  padding: 0.15em 0.55em; border-radius: 99px;
+  white-space: nowrap; flex-shrink: 0; letter-spacing: 0.02em;
+}
+.alist-title {
+  font-size: 0.875rem; font-weight: 600; color: var(--ocean);
+  line-height: 1.45; flex: 1;
+}
+.alist-arrow { color: var(--gold); font-weight: 700; font-size: 0.82rem; flex-shrink: 0; opacity: 0.8; }
 
 .route-tip-box {
   background: linear-gradient(135deg, #eef4ff 0%, #f5f0e8 100%);
@@ -1097,5 +1129,7 @@ function buildResults() {
   .article-grid { grid-template-columns: 1fr; }
   .snav-line { max-width: 40px; }
   .snav-label { font-size: 0.7rem; }
+  .results-section.highlight { padding: 1rem 1rem; }
+  .alist-title { font-size: 0.83rem; }
 }
 </style>
