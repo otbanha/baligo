@@ -1,0 +1,22 @@
+---
+export const prerender = true;
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import TripPlannerContent from '../../components/TripPlannerContent.astro';
+---
+
+<!doctype html>
+<html lang="zh-HK">
+<head>
+  <BaseHead
+    title="峇里島行程規劃工具｜個人化攻略景點推薦 2026"
+    description="輸入你的旅遊風格，立即獲得個人化峇里島攻略推薦。分區景點、美食、活動按區域整理清楚，適合第一次去峇里島或想補足空缺天的旅人。"
+  />
+</head>
+<body>
+  <Header />
+  <TripPlannerContent lang="zh-hk" />
+  <Footer />
+</body>
+</html>

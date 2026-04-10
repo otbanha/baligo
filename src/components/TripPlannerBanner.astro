@@ -1,0 +1,68 @@
+---
+interface Props { lang?: 'zh-tw' | 'zh-cn' | 'zh-hk' | 'en'; }
+const { lang = 'zh-tw' } = Astro.props;
+
+const url = lang === 'en' ? '/en/trip-planner/'
+          : lang === 'zh-cn' ? '/zh-cn/trip-planner/'
+          : lang === 'zh-hk' ? '/zh-hk/trip-planner/'
+          : '/trip-planner/';
+
+const t = {
+  'zh-tw': { title: '🗺️ 峇里島行程規劃工具', desc: '告訴我你的旅行風格，立即獲得個人化分區攻略與景點推薦', btn: '開始規劃我的行程 →' },
+  'zh-hk': { title: '🗺️ 峇里島行程規劃工具', desc: '告訴我你的旅遊風格，立即獲得個人化分區攻略與景點推薦', btn: '開始規劃我的行程 →' },
+  'zh-cn': { title: '🗺️ 巴厘岛行程规划工具', desc: '告诉我你的旅行风格，立即获得个性化区域攻略与景点推荐', btn: '开始规划我的行程 →' },
+  'en':    { title: '🗺️ Bali Trip Planner', desc: 'Tell us your travel style — get personalised area guides & activity picks instantly', btn: 'Plan My Trip →' },
+}[lang];
+---
+
+<div class="tp-banner">
+  <div class="tp-banner-inner">
+    <div class="tp-banner-text">
+      <h2 class="tp-banner-title">{t.title}</h2>
+      <p class="tp-banner-desc">{t.desc}</p>
+    </div>
+    <a href={url} class="tp-banner-btn">{t.btn}</a>
+  </div>
+</div>
+
+<style>
+.tp-banner {
+  background: linear-gradient(135deg, var(--ocean) 0%, #2a5298 100%);
+  border-radius: 14px;
+  padding: 1.35rem 1.6rem;
+  margin-bottom: 1.5em;
+  box-shadow: 0 4px 20px rgba(26,54,93,0.18);
+}
+.tp-banner-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+}
+.tp-banner-text { flex: 1; min-width: 180px; }
+.tp-banner-title {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #fff;
+  margin: 0 0 0.3em;
+}
+.tp-banner-desc { font-size: 0.86rem; color: rgba(255,255,255,0.82); margin: 0; }
+.tp-banner-btn {
+  display: inline-block;
+  background: var(--gold);
+  color: var(--ocean);
+  font-weight: 800;
+  font-size: 0.9rem;
+  padding: 0.65em 1.5em;
+  border-radius: 99px;
+  text-decoration: none;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: background 0.15s, transform 0.1s;
+}
+.tp-banner-btn:hover { background: var(--gold-light); transform: translateY(-1px); }
+@media (max-width: 600px) {
+  .tp-banner-inner { flex-direction: column; align-items: flex-start; }
+}
+</style>

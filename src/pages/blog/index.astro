@@ -3,6 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import ChatBot from '../../components/ChatBot.astro';
+import TripPlannerBanner from '../../components/TripPlannerBanner.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection, render } from 'astro:content';
 import featuredData from '../../featured.json';
@@ -270,6 +271,8 @@ const socialLinks = [
 
       <!-- 首頁專屬區塊（分類時隱藏） -->
       <div id="homepage-blocks">
+
+        <TripPlannerBanner lang="zh-tw" />
 
         <!-- Accommodations + Bali News -->
         <div class="top-widgets" id="top-widgets">

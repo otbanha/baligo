@@ -1,0 +1,22 @@
+---
+export const prerender = true;
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import TripPlannerContent from '../../components/TripPlannerContent.astro';
+---
+
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <BaseHead
+    title="巴厘岛行程规划工具｜个性化攻略景点推荐 2026"
+    description="输入你的旅行风格，立即获得个性化巴厘岛攻略推荐。分区景点、美食、活动按区域整理清楚，适合第一次去巴厘岛或想补齐空缺天的旅行者。"
+  />
+</head>
+<body>
+  <Header />
+  <TripPlannerContent lang="zh-cn" />
+  <Footer />
+</body>
+</html>

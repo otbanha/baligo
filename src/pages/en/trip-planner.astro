@@ -1,0 +1,22 @@
+---
+export const prerender = true;
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import TripPlannerContent from '../../components/TripPlannerContent.astro';
+---
+
+<!doctype html>
+<html lang="en">
+<head>
+  <BaseHead
+    title="Bali Trip Planner | Personalised Area Guides & Activity Picks 2026"
+    description="Tell us your travel style and get personalised Bali itinerary recommendations instantly. Areas, food, activities and more — organised by region."
+  />
+</head>
+<body>
+  <Header />
+  <TripPlannerContent lang="en" />
+  <Footer />
+</body>
+</html>
