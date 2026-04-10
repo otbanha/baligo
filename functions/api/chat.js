@@ -163,6 +163,16 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['水明漾平價', '水明漾便宜', '水明漾budget', '水明漾cp值', '水明漾cp',
+               '平價水明漾', '便宜水明漾', '水明漾低價', '水明漾100美金',
+               'seminyak budget', 'seminyak cheap', 'cheap seminyak', 'affordable seminyak',
+               'budget seminyak villa', 'seminyak under 100'],
+    articles: [
+      { title: '【水明漾】不超過100美元的平價峇里島villa推薦', url: '/blog/2024-09-21-66ee9770fd89780001306753/' },
+      { title: '峇里島住宿推薦：10間水明漾精華區平價住宿好評推薦！', url: '/blog/2023-08-19-64e063fafd8978000123ea12/' },
+    ],
+  },
+  {
     keywords: ['seminyak', 'Seminyak', 'SEMINYAK', '水明漾', 'Legian', 'legian', '雷吉安'],
     articles: [
       { title: '【水明漾攻略】峇里島水明漾景點Seminyak必去地點地圖：100個吃喝玩樂全面介紹｜2026最佳旅遊指南', url: '/blog/2023-08-15-64db7fc2fd897800013d367c/' },
@@ -333,7 +343,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v10'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v11'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
