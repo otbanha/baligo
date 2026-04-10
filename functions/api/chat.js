@@ -141,6 +141,15 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['佩尼達包車', '佩尼達司機', '佩妮達包車', '珀尼達包車',
+               'penida charter', 'penida driver', 'nusa penida driver', 'nusa penida charter',
+               'hire driver penida', 'book driver penida', 'penida car hire',
+               '佩尼達交通', '佩尼達怎麼玩', '佩尼達移動', 'penida transport'],
+    articles: [
+      { title: '佩尼達島包車司機怎麼選?｜旅人實用推薦包車與安排方式', url: '/blog/2025-06-17-685101c0fd89780001e221f4/' },
+    ],
+  },
+  {
     keywords: ['佩尼達', '佩妮達', '珀尼達', 'penida', 'Penida', 'PENIDA',
                'nusa penida', 'Nusa Penida', 'manta', '曼塔', 'manta ray', 'Manta Ray'],
     articles: [
@@ -343,7 +352,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v11'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v12'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
