@@ -311,9 +311,9 @@ const PINNED_ARTICLES = [
 const RATE_LIMIT_MAX = 20;
 const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
-const OUTPUT_MAX_TOKENS = 500;
+const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v6'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v7'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
@@ -461,94 +461,87 @@ function findRelatedArticles(query, articles, lang) {
     }
     return { ...article, score };
   });
-  return scored.filter(a => a.score > 0).sort((a, b) => b.score - a.score).slice(0, 3);
+  return scored.filter(a => a.score > 0).sort((a, b) => b.score - a.score).slice(0, 6);
 }
 
-function buildSystemPrompt(lang, relatedArticles, customIntro) {
-  if (relatedArticles.length > 0) {
-    const linkList = relatedArticles.map(a => `- [${a.title}](${a.url})`).join('\n');
-    if (lang === 'en') {
-      return `You are "Baligo AI" from gobaligo.id.
-STRICT RULE: You MUST output ONLY the article links below — do not answer the question yourself.
-Start with one short sentence in English introducing the links, then list them.
-Translate each link's display text into English naturally. Keep the URL exactly as provided.
-Format: [English Title](URL)
+/** 將文章陣列壓縮成 AI 可讀的連結清單字串 */
+function buildArticleList(articles, limit = 250) {
+  return articles
+    .slice(0, limit)
+    .map(a => `[${a.title}](${a.url})`)
+    .join('\n');
+}
 
-Articles:
-${linkList}`;
+function buildSystemPrompt(lang, relatedArticles, customIntro, allArticles = []) {
+  // 有候選文章時：傳給 AI 讓它驗證相關性並回答
+  if (relatedArticles.length > 0) {
+    const candidateList = relatedArticles.map(a => `[${a.title}](${a.url})`).join('\n');
+    if (lang === 'en') {
+      return `You are "Baligo AI" from gobaligo.id, a Bali travel expert.
+Answer the user's question concisely (1-3 sentences). Then, from the candidate articles below, include only the ones that are genuinely relevant to the question (1-3 max) as markdown links [Title](URL) on separate lines. If none are relevant, skip the links.
+Do NOT mention "customer service" or "contact us" — this site has no support team.
+
+Candidate articles:
+${candidateList}`;
     }
     if (lang === 'zh-CN') {
-      const intro = customIntro
-        ? `先说「${customIntro}」，再逐行列出下方文章链接。`
-        : '用一句话引导读者，再逐行列出下方文章链接。';
       return `你是「峇里岛知识库AI」，代表 gobaligo.id。
+用简体中文简短回答问题（1-3句话）。然后从下方候选文章中，选出真正与问题相关的 1-3 篇，以 [简体中文标题](URL) 格式逐行附在回答后。若无相关文章则不附链接。
+禁止提到「客服」「联系我们」；问到包车报价只说「直接咨询司机」。
 
-【强制规则】：
-1. 不可自行回答问题细节，一律引导至以下文章。
-2. 回复格式：${intro}
-3. 每个链接单独一行，格式为 [简体中文标题](URL)——将方括号内的标题翻译成简体中文，URL 保持不变。
-4. 禁止提到「客服」「联系我们」——本站无客服。
-5. 若问到报价，只说「直接咨询司机」。
-
-相关文章：
-${linkList}`;
+候选文章：
+${candidateList}`;
     }
     if (lang === 'zh-HK') {
-      const intro = customIntro
-        ? `先講「${customIntro}」，再逐行列出下方文章連結。`
-        : '用一句話引導讀者，再逐行列出下方文章連結。';
       return `你係「峇里島知識庫AI」，代表 gobaligo.id。請用廣東話（香港用語）回覆。
+簡短回答問題（1-3句）。然後從下方候選文章中，揀出真正相關嘅 1-3 篇，以 [標題](URL) 格式逐行附喺回答後面。若無相關文章就唔附連結。
+禁止提到「客服」「聯絡我們」；問到包車報價只係話「直接問司機」。
 
-【強制規則】：
-1. 唔可以自己回答問題細節，一律引導去以下文章。
-2. 回覆格式：${intro}
-3. 每條連結單獨一行，格式為 [標題](URL)。
-4. 禁止提到「客服」「聯絡我們」——本站冇客服。
-5. 問到報價，只係話「直接問司機」。
-
-相關文章：
-${linkList}`;
+候選文章：
+${candidateList}`;
     }
-    const intro = customIntro
-      ? `先說「${customIntro}」，再逐行列出下方文章連結。`
-      : '用一句話引導讀者，再逐行列出下方文章連結。';
     return `你是「峇里島知識庫AI」，代表 gobaligo.id。
+用繁體中文簡短回答問題（1-3句）。然後從下方候選文章中，選出真正與問題相關的 1-3 篇，以 [標題](URL) 格式逐行附在回答後面。若無相關文章則不附連結。
+禁止提到「客服」「聯繫我們」；問到包車報價只說「直接洽詢司機」。
 
-【強制規則】：
-1. 不可自行回答問題細節，一律引導至以下文章。
-2. 回覆格式：${intro}
-3. 每個連結單獨一行，格式為 [標題](URL)。
-4. 禁止提到「客服」「聯繫我們」——本站無客服。
-5. 若問到報價，只說「直接洽詢司機」。
-
-相關文章：
-${linkList}`;
+候選文章：
+${candidateList}`;
   }
 
+  // 無關鍵字命中時：傳入全站文章讓 AI 語意選出最相關的
+  const articleContext = allArticles.length > 0
+    ? buildArticleList(allArticles)
+    : '';
+
   if (lang === 'en') {
-    return `You are "Baligo AI", a Bali travel expert from gobaligo.id. Answer in English only, concisely (under 80 words).
-Answer questions related to Bali travel. Do not make up specific details; if unsure, say so.`;
+    const articleSection = articleContext
+      ? `\n\nAvailable articles on this site — pick 1-3 most relevant to include as links [Title](URL), or none if not relevant:\n${articleContext}`
+      : '';
+    return `You are "Baligo AI" from gobaligo.id, a Bali travel expert. Answer in English, concisely (under 80 words). Do not make up specific details. Do NOT mention customer service — this site has no support team.${articleSection}`;
   }
 
   if (lang === 'zh-HK') {
-    return `你係「峇里島知識庫AI」，代表旅遊網站 gobaligo.id，專門回答峇里島旅遊相關問題。
-請用廣東話（香港慣用語）回覆，語氣親切自然，簡潔（80字以內）。
+    const articleSection = articleContext
+      ? `\n\n本站文章（語意選出 1-3 篇最相關的，以 [標題](URL) 附在回答後；若無相關則略去）：\n${articleContext}`
+      : '';
+    return `你係「峇里島知識庫AI」，代表旅遊網站 gobaligo.id。請用廣東話（香港慣用語）回覆，語氣親切自然，簡潔（80字以內）。
 唔確定嘅資訊請如實說明，唔好捏造細節。
-
-【嚴格禁止】：
-- 絕對唔可以提到「客服」「聯絡我們」——本站冇客服。
-- 問到包車報價，只係話「直接問司機報價」。`;
+禁止提到「客服」「聯絡我們」；問到包車報價只係話「直接問司機報價」。${articleSection}`;
   }
 
   if (lang === 'zh-CN') {
+    const articleSection = articleContext
+      ? `\n\n本站文章（语意选出 1-3 篇最相关的，以 [简体中文标题](URL) 附在回答后；若无相关则略去）：\n${articleContext}`
+      : '';
     return `你是「峇里岛知识库AI」，代表旅游网站 gobaligo.id，专门回答巴厘岛旅游相关问题。
 请用简体中文回答，语气亲切自然，简洁（80字以内）。
 不确定的信息请如实说明，不要捏造细节。
-
-【严格禁止】：
-- 绝对不可提到「客服」「联系我们」——本站没有客服。
-- 若问到包车报价，只能说「直接咨询司机报价」。`;
+禁止提到「客服」「联系我们」；若问到包车报价只说「直接咨询司机报价」。${articleSection}`;
   }
+
+  const articleSection = articleContext
+    ? `\n\n本站文章（請語意選出 1-3 篇最相關的，以 [標題](URL) 格式逐行附在回答後；若無相關文章則略去）：\n${articleContext}`
+    : '';
 
   return `你是「峇里島知識庫AI」，代表旅遊網站 gobaligo.id，專門回答峇里島旅遊相關問題。
 請用繁體中文回答，語氣親切自然，簡潔（80字以內）。
@@ -556,11 +549,11 @@ Answer questions related to Bali travel. Do not make up specific details; if uns
 不確定的資訊請如實說明，不要捏造細節。
 
 【特定知識】：
-- 當被問到「佩尼達島/Nusa Penida 一日遊還是住宿」時，正確回答是：雖然一日遊的確方便，可以快速走訪最熱門的景點，但若能留宿一晚，你將擁有更大的自由，能慢慢探索人少的秘境，甚至有機會欣賞到日出或日落時最空靈的景色。住宿一晚的好處還有一個，就是時間可以完全錯開恐怖的一日遊觀光人潮，許多著名景點在清晨或傍晚幾乎只剩下少數旅人，氛圍截然不同。因此，如果行程允許，不妨給自己多一點時間，好好體驗佩尼達島的獨特魅力。
+- 當被問到「佩尼達島/Nusa Penida 一日遊還是住宿」時，回答是：一日遊方便可快速走訪熱門景點，但若能留宿一晚，可錯開人潮、欣賞日出日落，體驗更深入。行程允許的話建議住一晚。
 
 【嚴格禁止】：
-- 絕對不可提到「客服」「客服團隊」「聯繫我們」或任何暗示 gobaligo.id 有客服人員的說法——本站沒有客服。
-- 若問到包車報價，只能說「直接洽詢司機報價」，不可說聯繫客服或網站。`;
+- 絕對不可提到「客服」「聯繫我們」或暗示本站有客服——本站沒有客服。
+- 若問到包車報價，只能說「直接洽詢司機報價」。${articleSection}`;
 }
 
 async function checkRateLimit(kv, ip) {
@@ -664,7 +657,11 @@ export async function onRequestPost(context) {
     return Response.json({ reply }, { headers: corsHeaders });
   }
 
-  const systemPrompt = buildSystemPrompt(lang, relatedArticles, customIntro);
+  // 非 zh-TW 語系時，將全站文章 URL 加上語系前綴
+  const localizedAllArticles = lang === 'zh-TW'
+    ? articles
+    : articles.map(a => ({ title: a.title, url: localizeUrl(a.url, lang) }));
+  const systemPrompt = buildSystemPrompt(lang, relatedArticles, customIntro, localizedAllArticles);
 
   // ── DeepInfra / DeepSeek API (OpenAI-compatible) ─────────────────────────────
   const aiRes = await fetch('https://api.deepinfra.com/v1/openai/chat/completions', {
@@ -676,7 +673,7 @@ export async function onRequestPost(context) {
     body: JSON.stringify({
       model: 'deepseek-ai/DeepSeek-V3',
       max_tokens: OUTPUT_MAX_TOKENS,
-      temperature: relatedArticles.length > 0 ? 0 : 0.6,
+      temperature: 0.2,
       messages: [
         { role: 'system', content: systemPrompt },
         { role: 'user', content: message },
