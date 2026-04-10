@@ -313,7 +313,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v7'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v8'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
@@ -639,23 +639,11 @@ export async function onRequestPost(context) {
   const fromIndex = findRelatedArticles(message, articles, lang);
   const pinnedUrls = new Set(pinned.map(a => a.url));
   // 將文章 URL 轉換為對應語系版本
+  // PINNED 文章作為高優先候選，與 article-index 合併後一起傳給 AI 驗證
+  // （移除直接回傳的快速路徑：讓 AI 依查詢語意篩選，避免「金巴蘭住宿」回傳景點文章）
   const relatedArticles = [...pinned, ...fromIndex.filter(a => !pinnedUrls.has(a.url))]
-    .slice(0, 5)
+    .slice(0, 6)
     .map(a => ({ ...a, url: localizeUrl(a.url, lang) }));
-
-  // ── 有 pinned 文章時直接回傳，不經過 AI（避免 AI 自行篩選或改標題）───────────────
-  if (pinned.length > 0 && relatedArticles.length > 0) {
-    const intro = customIntro || '關於您的問題，以下文章有詳細介紹：';
-    // 只顯示 pinned 文章，不混入 fromIndex（避免「飯店」等詞帶出不相關分類）
-    const pinnedLocalized = pinned.map(a => ({ ...a, url: localizeUrl(a.url, lang) }));
-    const links = pinnedLocalized.map(a => `[${a.title}](${a.url})`).join('\n');
-    const reply = `${intro}\n\n${links}`;
-    if (env.RATE_LIMIT) {
-      await env.RATE_LIMIT.put(cacheKey, reply, { expirationTtl: CACHE_TTL });
-    }
-    context.waitUntil(logChat(env, message, reply, pageLang));
-    return Response.json({ reply }, { headers: corsHeaders });
-  }
 
   // 非 zh-TW 語系時，將全站文章 URL 加上語系前綴
   const localizedAllArticles = lang === 'zh-TW'
