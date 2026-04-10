@@ -190,6 +190,16 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['身心靈', '瑜伽', '冥想', '靜修', '療癒', '靈性', '修行', '排毒', '淨化',
+               '克里帕魯', '阿育吠陀', '脈輪', '能量', '靜心',
+               'yoga', 'Yoga', 'YOGA', 'meditation', 'retreat', 'wellness', 'healing',
+               'spiritual', 'detox', 'sound healing', 'chakra', 'ayurveda',
+               'bali yoga', 'yoga retreat', 'wellness retreat', 'spiritual experience'],
+    articles: [
+      { title: '2026峇里島完整烏布攻略：100種深入認識烏布的方式｜探索烏布的魅力', url: '/blog/2023-11-17-655054b1fd897800011d4d2c/' },
+    ],
+  },
+  {
     keywords: ['ubud', 'Ubud', 'UBUD', '烏布', 'Tegallalang', 'tegallalang', 'rice terrace', 'monkey forest'],
     articles: [
       { title: '2026峇里島完整烏布攻略：100種深入認識烏布的方式｜探索烏布的魅力', url: '/blog/2023-11-17-655054b1fd897800011d4d2c/' },
@@ -352,7 +362,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v12'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v13'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
