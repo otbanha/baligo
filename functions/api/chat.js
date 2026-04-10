@@ -355,6 +355,16 @@ const PINNED_ARTICLES = [
       { title: '峇里島獨旅全攻略', url: '/blog/2026-04-05-001845/' },
     ],
   },
+  {
+    keywords: ['聯絡', '聯繫', '客服', '詢問', '問客服', '怎麼聯絡', '如何聯絡', '怎麼問',
+               '有問題', '找誰', '找你們', '管理員', '版主', '社團',
+               'contact', 'Contact', 'customer service', 'support', 'reach you',
+               'how to contact', 'get in touch', 'ask admin'],
+    intro: '本站沒有客服，但你可以到我們的臉書社團留言給管理員',
+    articles: [
+      { title: 'Go Bali Go 峇里島旅遊 臉書社團', url: 'https://www.facebook.com/groups/baligo' },
+    ],
+  },
 ];
 
 const RATE_LIMIT_MAX = 20;
@@ -362,7 +372,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v13'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v14'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
@@ -575,7 +585,8 @@ ${candidateList}`;
       : '';
     return `你係「峇里島知識庫AI」，代表旅遊網站 gobaligo.id。請用廣東話（香港慣用語）回覆，語氣親切自然，簡潔（80字以內）。
 唔確定嘅資訊請如實說明，唔好捏造細節。
-禁止提到「客服」「聯絡我們」；問到包車報價只係話「直接問司機報價」。${articleSection}`;
+被問到如何聯絡時：話「本站冇客服，可以去臉書社團留言畀管理員：[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo)」
+禁止說「聯絡客服」；問到包車報價只係話「直接問司機報價」。${articleSection}`;
   }
 
   if (lang === 'zh-CN') {
@@ -585,7 +596,8 @@ ${candidateList}`;
     return `你是「峇里岛知识库AI」，代表旅游网站 gobaligo.id，专门回答巴厘岛旅游相关问题。
 请用简体中文回答，语气亲切自然，简洁（80字以内）。
 不确定的信息请如实说明，不要捏造细节。
-禁止提到「客服」「联系我们」；若问到包车报价只说「直接咨询司机报价」。${articleSection}`;
+被问到如何联络时：回答「本站没有客服，可以在脸书社团留言给管理员：[Go Bali Go 峇里岛旅游](https://www.facebook.com/groups/baligo)」
+禁止说「联系客服」；若问到包车报价只说「直接咨询司机报价」。${articleSection}`;
   }
 
   const articleSection = articleContext
@@ -600,8 +612,11 @@ ${candidateList}`;
 【特定知識】：
 - 當被問到「佩尼達島/Nusa Penida 一日遊還是住宿」時，回答是：一日遊方便可快速走訪熱門景點，但若能留宿一晚，可錯開人潮、欣賞日出日落，體驗更深入。行程允許的話建議住一晚。
 
+【特定回答】：
+- 被問到如何聯絡/客服/詢問時：回答「本站沒有客服，但你可以到臉書社團『Go Bali Go 峇里島旅遊』留言給管理員：[Go Bali Go 峇里島旅遊 臉書社團](https://www.facebook.com/groups/baligo)」
+
 【嚴格禁止】：
-- 絕對不可提到「客服」「聯繫我們」或暗示本站有客服——本站沒有客服。
+- 不可說「聯繫客服」「客服團隊」或暗示本站有任何客服人員。
 - 若問到包車報價，只能說「直接洽詢司機報價」。${articleSection}`;
 }
 
