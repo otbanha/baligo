@@ -122,6 +122,17 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['住宿推薦', '住宿選擇', '住哪', '哪裡住', '住哪裡', '住哪好', '住宿攻略',
+               '訂房', '飯店推薦', '酒店推薦', '渡假村推薦', '旅館推薦',
+               '住宿分類', '住宿總覽', '住宿列表',
+               'accommodation', 'where to stay', 'hotel recommendation', 'best hotel',
+               'resort recommendation', 'place to stay', 'stay in bali', 'hotels in bali'],
+    intro: '以下是本站的住宿推薦總覽，你可以依區域篩選',
+    articles: [
+      { title: '峇里島住宿推薦（全區分類）', url: '/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6' },
+    ],
+  },
+  {
     keywords: ['水上活動', '浮潛', '潛水', '香蕉船', '拖曳傘', '水上玩意',
                'water sports', 'water activities', 'snorkeling', 'snorkelling',
                'diving', 'scuba', 'banana boat', 'parasailing', 'jet ski', 'surfing'],
@@ -322,7 +333,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v9'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v10'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
