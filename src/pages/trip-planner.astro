@@ -1,0 +1,1000 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+---
+
+<!doctype html>
+<html lang="zh-TW">
+<head>
+  <BaseHead
+    title="峇里島行程規劃工具｜個人化攻略景點推薦 2026"
+    description="輸入你的旅行風格，立即獲得個人化峇里島攻略推薦。分區景點、美食、活動以區域整理清楚，適合第一次去峇里島或想補足空缺天的旅人。"
+  />
+</head>
+<body>
+  <Header />
+
+  <main id="planner">
+
+    <!-- ── Hero ── -->
+    <div class="planner-hero">
+      <div class="hero-inner">
+        <div class="hero-badge">免費規劃工具</div>
+        <h1>峇里島行程規劃</h1>
+        <p>告訴我你的旅行風格，我幫你找到最適合的攻略與景點推薦</p>
+      </div>
+    </div>
+
+    <!-- ── Wizard ── -->
+    <div class="wizard-wrap">
+
+      <!-- Steps nav -->
+      <div class="steps-nav">
+        <div class="snav-item active" id="snav-1">
+          <span class="snav-num">1</span>
+          <span class="snav-label">旅行風格</span>
+        </div>
+        <div class="snav-line"></div>
+        <div class="snav-item" id="snav-2">
+          <span class="snav-num">2</span>
+          <span class="snav-label">行程草稿</span>
+        </div>
+        <div class="snav-line"></div>
+        <div class="snav-item" id="snav-3">
+          <span class="snav-num">3</span>
+          <span class="snav-label">推薦攻略</span>
+        </div>
+      </div>
+
+      <!-- ── Step 1: Travel Style ── -->
+      <div class="step" id="step-1">
+        <h2 class="step-title">你的旅行風格</h2>
+
+        <div class="q-block">
+          <div class="q-label">和誰一起去？</div>
+          <div class="chips single" id="q-companion">
+            <button class="chip" data-val="solo">🧍 個人獨旅</button>
+            <button class="chip" data-val="couple">💑 情侶蜜月</button>
+            <button class="chip" data-val="family">👨‍👩‍👧 家庭親子</button>
+            <button class="chip" data-val="friends">👯 朋友同行</button>
+          </div>
+        </div>
+
+        <div class="q-block">
+          <div class="q-label">幾天幾夜？</div>
+          <div class="chips single" id="q-days">
+            <button class="chip" data-val="3">3天2夜</button>
+            <button class="chip" data-val="4">4天3夜</button>
+            <button class="chip" data-val="5">5天4夜</button>
+            <button class="chip" data-val="67">6–7天</button>
+            <button class="chip" data-val="8">8天以上</button>
+          </div>
+        </div>
+
+        <div class="q-block">
+          <div class="q-label">最想做什麼？<span class="q-hint">可多選</span></div>
+          <div class="chips multi" id="q-interests">
+            <button class="chip" data-val="beach">☀️ 海灘放鬆</button>
+            <button class="chip" data-val="surf">🏄 衝浪</button>
+            <button class="chip" data-val="culture">⛩️ 文化寺廟</button>
+            <button class="chip" data-val="spa">💆 SPA按摩</button>
+            <button class="chip" data-val="food">🍜 美食探索</button>
+            <button class="chip" data-val="shop">🛍️ 購物</button>
+            <button class="chip" data-val="yoga">🧘 瑜伽靈修</button>
+            <button class="chip" data-val="night">🌙 夜生活</button>
+            <button class="chip" data-val="kids">🧒 親子活動</button>
+            <button class="chip" data-val="snorkel">🤿 浮潛潛水</button>
+            <button class="chip" data-val="nature">🌿 自然健行</button>
+            <button class="chip" data-val="photo">📸 網美打卡</button>
+          </div>
+        </div>
+
+        <div class="q-block">
+          <div class="q-label">預算感覺？</div>
+          <div class="chips single" id="q-budget">
+            <button class="chip" data-val="budget">💰 省錢不浪費</button>
+            <button class="chip" data-val="mid">🫰 均衡舒適</button>
+            <button class="chip" data-val="luxury">💎 品質優先</button>
+          </div>
+        </div>
+
+        <div class="step-actions">
+          <button class="btn-next" id="btn-1-next">下一步：填寫行程草稿 →</button>
+        </div>
+      </div>
+
+      <!-- ── Step 2: Areas + Draft ── -->
+      <div class="step hidden" id="step-2">
+        <h2 class="step-title">行程草稿</h2>
+
+        <div class="q-block">
+          <div class="q-label">已想去的地區？<span class="q-hint">可多選，不確定就跳過</span></div>
+          <div class="chips multi" id="q-areas">
+            <button class="chip" data-val="kuta">🏖️ 庫塔/雷吉安</button>
+            <button class="chip" data-val="seminyak">💅 水明漾</button>
+            <button class="chip" data-val="canggu">☕ 倉古/長谷</button>
+            <button class="chip" data-val="ubud">🌿 烏布</button>
+            <button class="chip" data-val="jimbaran">🦞 金巴蘭</button>
+            <button class="chip" data-val="uluwatu">🌅 烏魯瓦圖</button>
+            <button class="chip" data-val="nusadua">🏨 努沙杜瓦</button>
+            <button class="chip" data-val="sanur">⛵ 沙努爾</button>
+            <button class="chip" data-val="penida">🤿 努沙佩尼達</button>
+            <button class="chip" data-val="east">⛩️ 東部峇里</button>
+          </div>
+        </div>
+
+        <div class="q-block">
+          <div class="q-label">
+            把你的草稿行程貼上來
+            <span class="q-hint">選填，我幫你找出空缺和推薦景點</span>
+          </div>
+          <textarea
+            id="q-itinerary"
+            rows="9"
+            placeholder="例如：
+D1 晚上抵達庫塔，入住飯店，逛 Discovery Mall
+D2 烏布：Tegallalang 梯田、猴子森林、烏布市場
+D3 ???（不知道要幹嘛）
+D4 努沙佩尼達一日遊
+D5 早上 SPA，下午自由活動，晚上金巴蘭海鮮
+D6 購物，下午飛回台灣"
+          ></textarea>
+        </div>
+
+        <div class="step-actions">
+          <button class="btn-back" id="btn-2-back">← 上一步</button>
+          <button class="btn-next" id="btn-2-next">查看推薦攻略 →</button>
+        </div>
+      </div>
+
+      <!-- ── Step 3: Results ── -->
+      <div class="step hidden" id="step-3">
+
+        <div class="results-header">
+          <h2 class="step-title">你的個人化推薦</h2>
+          <p id="results-summary" class="results-summary"></p>
+        </div>
+
+        <!-- Empty days alert -->
+        <div class="empty-alert hidden" id="empty-alert">
+          <span>📌</span>
+          <span id="empty-alert-text"></span>
+        </div>
+
+        <!-- Dynamic region sections (JS-rendered) -->
+        <div id="region-sections"></div>
+
+        <!-- Interest-based extras (JS-rendered) -->
+        <div id="interest-extras"></div>
+
+        <!-- Route flow tip (JS-rendered) -->
+        <div id="route-tip"></div>
+
+        <!-- Always visible: 規劃前必讀 -->
+        <div class="results-section">
+          <h3 class="section-title">📚 規劃前必讀</h3>
+          <div class="article-grid">
+            <a href="/blog/2023-12-06-65708c78fd89780001f418c2/" class="acard" target="_blank" rel="noopener">
+              <span class="acard-tag">新手指南</span>
+              <p class="acard-title">【2026 峇里島自由行】7 步驟輕鬆規劃完美旅程</p>
+              <span class="acard-arrow">→</span>
+            </a>
+            <a href="/blog/2025-01-07-672e2c1afd897800014c3fbc/" class="acard" target="_blank" rel="noopener">
+              <span class="acard-tag">新手Q&A</span>
+              <p class="acard-title">99% 遊客都在偷偷搜尋的超尷尬 41 個問題大解答</p>
+              <span class="acard-arrow">→</span>
+            </a>
+            <a href="/blog/2024-03-18-65ba3bfefd89780001650f07/" class="acard" target="_blank" rel="noopener">
+              <span class="acard-tag">行程參考</span>
+              <p class="acard-title">【這樣玩居然不塞車！】8 天 7 夜爽玩峇里島全方位攻略</p>
+              <span class="acard-arrow">→</span>
+            </a>
+            <a href="/blog/2026-02-24-65839fbafd89780001e876b5/" class="acard" target="_blank" rel="noopener">
+              <span class="acard-tag">住宿選擇</span>
+              <p class="acard-title">五大熱門區域比較：庫塔、水明漾、倉古、烏布怎麼選？</p>
+              <span class="acard-arrow">→</span>
+            </a>
+            <a href="/blog/2024-03-09-65df201efd89780001994d11/" class="acard" target="_blank" rel="noopener">
+              <span class="acard-tag">景點地圖</span>
+              <p class="acard-title">2026 峇里島 500 個最新人氣景點一次蒐全</p>
+              <span class="acard-arrow">→</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- Always visible: 全島必看 -->
+        <div class="results-section">
+          <h3 class="section-title">🌏 全島必看</h3>
+          <div class="article-grid">
+            <a href="/blog/2019-08-19-64db6b5afd897800013a8f86/" class="acard" target="_blank" rel="noopener">
+              <span class="acard-tag">美食</span>
+              <p class="acard-title">峇里島必吃人氣美食清單｜必吃路邊小吃</p>
+              <span class="acard-arrow">→</span>
+            </a>
+            <a href="/blog/2023-05-02-64db6b81fd897800013a98e3/" class="acard" target="_blank" rel="noopener">
+              <span class="acard-tag">美食</span>
+              <p class="acard-title">峇里島十大美食（第二版）</p>
+              <span class="acard-arrow">→</span>
+            </a>
+            <a href="/blog/2023-01-22-64db6b7efd897800013a97ed/" class="acard" target="_blank" rel="noopener">
+              <span class="acard-tag">SPA按摩</span>
+              <p class="acard-title">峇里島好評SPA、到府按摩推薦大集合（以區域劃分）</p>
+              <span class="acard-arrow">→</span>
+            </a>
+            <a href="/blog/2024-07-10-668e837dfd89780001357d06/" class="acard" target="_blank" rel="noopener">
+              <span class="acard-tag">必體驗</span>
+              <p class="acard-title">七大峇里島日落夕陽觀賞地點，你去過幾個？</p>
+              <span class="acard-arrow">→</span>
+            </a>
+            <a href="/blog/2019-09-02-64db6b5cfd897800013a9015/" class="acard" target="_blank" rel="noopener">
+              <span class="acard-tag">購物</span>
+              <p class="acard-title">峇里島推薦必買伴手禮：零食/食品篇</p>
+              <span class="acard-arrow">→</span>
+            </a>
+            <a href="/blog/2024-01-06-6598c6fffd89780001047d76/" class="acard" target="_blank" rel="noopener">
+              <span class="acard-tag">備案</span>
+              <p class="acard-title">下雨/躲太陽行程備案：60 個超強室內行程</p>
+              <span class="acard-arrow">→</span>
+            </a>
+          </div>
+        </div>
+
+        <div class="restart-wrap">
+          <button class="btn-restart" id="btn-restart">重新規劃 ↺</button>
+        </div>
+
+      </div>
+    </div>
+  </main>
+
+  <Footer />
+</body>
+</html>
+
+<script>
+// ── Data ────────────────────────────────────────────────────────────
+const REGIONS = {
+  kuta: {
+    name: '庫塔/雷吉安',
+    emoji: '🏖️',
+    desc: '衝浪聖地・購物熱區・熱鬧夜生活',
+    interestMatch: ['beach','surf','shop','night'],
+    keywords: ['庫塔','库塔','kuta','kuta','legian','雷吉安'],
+    guide: { title: '峇里島庫塔攻略玩樂指南：50 個必訪熱點與旅遊秘訣', url: '/blog/2026-03-08-657598bdfd8978000120fe20/', tag: '分區攻略' },
+    spots: [
+      { title: '峇里島庫塔衝浪推薦｜初學者衝浪初體驗', url: '/blog/2020-10-12-64db6b70fd897800013a9419/', tag: '衝浪' },
+    ],
+  },
+  seminyak: {
+    name: '水明漾',
+    emoji: '💅',
+    desc: '精品購物・網美咖啡廳・頂級SPA',
+    interestMatch: ['shop','spa','food','photo','night'],
+    keywords: ['水明漾','seminyak'],
+    guide: { title: '【2026 水明漾攻略】100 個必去地點地圖', url: '/blog/2023-08-15-64db7fc2fd897800013d367c/', tag: '分區攻略' },
+    spots: [],
+  },
+  canggu: {
+    name: '倉古/長谷',
+    emoji: '☕',
+    desc: '潮流衝浪・網美咖啡廳・創意市集',
+    interestMatch: ['surf','food','photo','night','yoga'],
+    keywords: ['倉古','仓古','長谷','长谷','canggu'],
+    guide: { title: '【2026 長谷攻略】Canggu 旅遊地圖 100 選', url: '/blog/2023-02-11-64db6b7efd897800013a9815/', tag: '分區攻略' },
+    spots: [
+      { title: '【長谷攻略】探索峇里島：Canggu 導覽指南', url: '/blog/2024-04-25-661e365bfd8978000126675a/', tag: '導覽' },
+      { title: '【峇里島必訪】Canggu攻略：衝浪、美食和潮流', url: '/blog/2024-04-16-661de06efd897800012195a4/', tag: '景點' },
+    ],
+  },
+  ubud: {
+    name: '烏布',
+    emoji: '🌿',
+    desc: '梯田・猴子森林・瀑布・靈修SPA',
+    interestMatch: ['culture','spa','nature','yoga','photo','food'],
+    keywords: ['烏布','乌布','ubud'],
+    guide: { title: '2026峇里島完整烏布攻略：100種深入認識烏布的方式', url: '/blog/2023-11-17-655054b1fd897800011d4d2c/', tag: '分區攻略' },
+    spots: [
+      { title: '峇里島烏布附近的三大知名瀑布攻略', url: '/blog/2023-07-19-64db6b82fd897800013a995f/', tag: '瀑布' },
+      { title: '推薦峇里島烏布必去網紅美照盪鞦韆', url: '/blog/2020-10-12-64db6b70fd897800013a940a/', tag: '打卡' },
+      { title: '烏布熱門景點：猴子森林、烏布皇宮、烏布市場', url: '/blog/2021-01-14-64db6b72fd897800013a948b/', tag: '必訪' },
+      { title: '峇里島的仙境瀑布 Tukad Cepung Waterfall', url: '/blog/2020-11-14-64db6b72fd897800013a9459/', tag: '自然' },
+    ],
+  },
+  jimbaran: {
+    name: '金巴蘭',
+    emoji: '🦞',
+    desc: '夕陽海鮮晚餐・寧靜海灘・浪漫',
+    interestMatch: ['food','beach'],
+    keywords: ['金巴蘭','金巴兰','jimbaran'],
+    guide: { title: '峇里島自由行金巴蘭攻略：推薦 30 個玩樂景點', url: '/blog/2023-11-09-654b8438fd897800016bf4cc/', tag: '分區攻略' },
+    spots: [
+      { title: '峇里島金巴蘭海鮮推薦：11 家海鮮餐廳不踩雷', url: '/blog/2023-09-17-6506748dfd897800018d6be2/', tag: '美食' },
+    ],
+  },
+  uluwatu: {
+    name: '烏魯瓦圖',
+    emoji: '🌅',
+    desc: '懸崖日落・海神廟・高端海灘俱樂部',
+    interestMatch: ['beach','surf','culture','photo'],
+    keywords: ['烏魯瓦圖','乌鲁瓦图','uluwatu'],
+    guide: { title: '【烏魯瓦圖攻略】Uluwatu 景點 50 個吃喝玩樂推薦', url: '/blog/2024-03-07-65dfd410fd897800019f4b40/', tag: '分區攻略' },
+    spots: [
+      { title: '峇里島烏魯瓦圖十大景點/必做活動', url: '/blog/2024-06-16-66042a22fd8978000103c100/', tag: '景點' },
+      { title: '探索峇里島秘境沙灘 Green Bowl Beach', url: '/blog/2023-08-15-64db6b57fd897800013a8e30/', tag: '秘境沙灘' },
+      { title: '如何規劃你的烏魯瓦圖之旅？', url: '/blog/2024-03-23-65fe3e8bfd897800015f8dbe/', tag: '行程建議' },
+    ],
+  },
+  nusadua: {
+    name: '努沙杜瓦/南灣',
+    emoji: '🏨',
+    desc: '五星飯店・水上活動・豪華度假',
+    interestMatch: ['beach','kids'],
+    keywords: ['努沙杜瓦','nusa dua','nusadua','南灣','南湾','tanjung benoa'],
+    guide: { title: '努沙杜瓦、南灣：豪華度假首選 40 個攻略地圖', url: '/blog/2024-01-25-65afb7bbfd897800017023b4/', tag: '分區攻略' },
+    spots: [
+      { title: 'Nusa Dua 最棒的海灘俱樂部 Manarai Beach House', url: '/blog/2019-07-15-64db6b57fd897800013a8e48/', tag: '海灘俱樂部' },
+      { title: '努沙杜瓦購物中心 Bali Collection：晚餐與採購一站式', url: '/blog/2019-07-28-64db6b58fd897800013a8ea3/', tag: '購物' },
+    ],
+  },
+  sanur: {
+    name: '沙努爾',
+    emoji: '⛵',
+    desc: '前往佩尼達的出發港・家庭友善・寧靜',
+    interestMatch: ['kids','beach','snorkel'],
+    keywords: ['沙努爾','沙努尔','sanur'],
+    guide: { title: '探索峇里島獨特魅力：Sanur 沙努爾攻略地圖', url: '/blog/2023-08-21-64e2de1bfd897800018eff0b/', tag: '分區攻略' },
+    spots: [
+      { title: '峇里島家庭親子自由行：Sanur 沙努爾攻略（50+ 項目）', url: '/blog/2024-02-11-65bf2f75fd89780001dbf162/', tag: '親子' },
+    ],
+  },
+  penida: {
+    name: '努沙佩尼達',
+    emoji: '🤿',
+    desc: '天使之路・浮潛曼塔魚・碧藍海水',
+    interestMatch: ['snorkel','beach','photo','nature'],
+    keywords: ['佩尼達','佩尼达','penida','nusa penida'],
+    guide: { title: '【Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通', url: '/blog/2023-08-16-64db6b82fd897800013a9942/', tag: '全攻略' },
+    spots: [
+      { title: '努沙佩尼達島如何參加浮潛？一日遊船票預約指南', url: '/blog/2023-11-02-654249defd89780001041c87/', tag: '浮潛' },
+      { title: '佩尼達島美食：Nusa Penida Top 10 餐廳', url: '/blog/2023-10-22-65348754fd89780001b2a259/', tag: '美食' },
+      { title: '【跳島攻略】佩尼達/藍夢島/吉利群島/龍目島快艇船票', url: '/blog/2024-04-17-661f1a51fd89780001f72b31/', tag: '交通' },
+      { title: 'Nusa Penida 交通：計程車、Gojek、包車、摩托車攻略', url: '/blog/2024-01-16-65a5e069fd897800010625d0/', tag: '交通' },
+    ],
+  },
+  east: {
+    name: '東部峇里',
+    emoji: '⛩️',
+    desc: '天空之門・聖泉寺・古老村莊・火山湖',
+    interestMatch: ['culture','nature','photo'],
+    keywords: ['天空之門','天空之门','東部','东部','east bali','恆河','恒河','阿貢','阿贡','kintamani','金塔馬尼'],
+    guide: { title: '【2026 峇里島東部攻略】天空之門、恆河聖泉、烏戎水宮', url: '/blog/2024-01-29-65b79bfdfd89780001948d10/', tag: '分區攻略' },
+    spots: [
+      { title: '峇里島天空之門 Lempuyang Temple 攻略（不用排隊）', url: '/blog/2021-01-14-64db6b72fd897800013a9475/', tag: '必拍' },
+      { title: '探索峇里島聖泉：Tirta Gangga 到 Tirta Empul', url: '/blog/2024-10-10-6707c8e2fd897800014d3db5/', tag: '文化' },
+      { title: '【峇里島聖泉寺】Tirta Empul 完整指南：千年聖水淨化儀式', url: '/blog/2025-06-18-6852cdc2fd89780001e0b7ad/', tag: '文化' },
+      { title: '穿越時空的 Penglipuran 村莊：體驗峇里古老魅力', url: '/blog/2023-08-26-64e9e8e9fd89780001f28d6b/', tag: '村落' },
+    ],
+  },
+};
+
+const INTEREST_EXTRAS = {
+  surf: {
+    title: '🏄 衝浪推薦',
+    articles: [
+      { title: '【峇里島衝浪攻略】適合不同等級的衝浪海灘介紹', url: '/blog/2024-04-20-66236818fd89780001389aaa/', tag: '全攻略' },
+      { title: '峇里島衝浪推薦：最適合初學者的海灘與衝浪學校', url: '/blog/2026-01-20-694122b8fd89780001f514c9/', tag: '初學者' },
+    ],
+  },
+  kids: {
+    title: '🧒 親子活動推薦',
+    articles: [
+      { title: '【2026 峇里島親子遊】100+ 親子友善景點與活動大全', url: '/blog/2023-03-05-64db6b81fd897800013a98b4/', tag: '全攻略' },
+      { title: '巴里島親子遊：峇里島動物園 Bali Safari 夜宿攻略', url: '/blog/2023-07-25-64db6b8cfd897800013a9ab1/', tag: '動物園' },
+      { title: '【烏布親子旅遊】精選 55 項小朋友最愛活動', url: '/blog/2024-01-10-659cf4a5fd89780001d6fb69/', tag: '烏布' },
+      { title: '【2026 烏布親子旅遊】梯田健行、猴子森林與傳統工藝', url: '/blog/2025-02-16-67b0a910fd89780001798c4e/', tag: '烏布' },
+    ],
+  },
+  snorkel: {
+    title: '🤿 浮潛/離島推薦',
+    articles: [
+      { title: '【跳島攻略】峇里島跳島到離島？快艇船票如何買？', url: '/blog/2024-04-17-661f1a51fd89780001f72b31/', tag: '交通' },
+      { title: '【Gili Islands 吉利群島攻略】極致度假勝地', url: '/blog/2024-04-10-6615f2a8fd89780001eb72fc/', tag: '離島' },
+    ],
+  },
+  nature: {
+    title: '🌿 自然秘境推薦',
+    articles: [
+      { title: '探索峇里島的無人秘境：6 個峇里島秘境沙灘攻略', url: '/blog/2023-08-22-64e4c0c9fd897800014e31bf/', tag: '秘境' },
+      { title: '【地標】GWK 神鷹廣場文化公園全攻略', url: '/blog/2025-07-17-68785bf9fd89780001822053/', tag: '地標' },
+    ],
+  },
+  klook: {
+    title: '🛒 不想規劃？Klook 懶人包一日遊',
+    articles: [
+      { title: '【峇里島懶人包】Klook 一日遊行程推薦：0 規劃也能玩遍網美打卡點', url: '/blog/2025-05-01-6812dc5dfd897800018e284b/', tag: '懶人首選' },
+    ],
+  },
+};
+
+// ── State ────────────────────────────────────────────────────────────
+const state = {
+  companion: '',
+  days: '',
+  interests: [],
+  budget: '',
+  areas: [],
+  itinerary: '',
+};
+
+// ── Chip Selection ───────────────────────────────────────────────────
+document.querySelectorAll('.chips').forEach(group => {
+  const isMulti = group.classList.contains('multi');
+  group.addEventListener('click', e => {
+    const chip = e.target.closest('.chip');
+    if (!chip) return;
+    if (isMulti) {
+      chip.classList.toggle('selected');
+    } else {
+      group.querySelectorAll('.chip').forEach(c => c.classList.remove('selected'));
+      chip.classList.add('selected');
+    }
+  });
+});
+
+// ── Step Navigation ──────────────────────────────────────────────────
+function getChipVals(id) {
+  return [...document.querySelectorAll(`#${id} .chip.selected`)].map(c => c.dataset.val);
+}
+
+function setNavActive(step) {
+  document.querySelectorAll('.snav-item').forEach((el, i) => {
+    el.classList.toggle('active', i + 1 <= step);
+    el.classList.toggle('done', i + 1 < step);
+  });
+}
+
+function showStep(n) {
+  document.querySelectorAll('.step').forEach((s, i) => {
+    s.classList.toggle('hidden', i + 1 !== n);
+  });
+  setNavActive(n);
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+document.getElementById('btn-1-next').addEventListener('click', () => {
+  state.companion = getChipVals('q-companion')[0] || '';
+  state.days      = getChipVals('q-days')[0] || '';
+  state.interests = getChipVals('q-interests');
+  state.budget    = getChipVals('q-budget')[0] || '';
+  showStep(2);
+});
+
+document.getElementById('btn-2-back').addEventListener('click', () => showStep(1));
+
+document.getElementById('btn-2-next').addEventListener('click', () => {
+  state.areas     = getChipVals('q-areas');
+  state.itinerary = document.getElementById('q-itinerary').value.trim();
+  buildResults();
+  showStep(3);
+});
+
+document.getElementById('btn-restart').addEventListener('click', () => {
+  // Reset all chips
+  document.querySelectorAll('.chip').forEach(c => c.classList.remove('selected'));
+  document.getElementById('q-itinerary').value = '';
+  Object.assign(state, { companion:'', days:'', interests:[], budget:'', areas:[], itinerary:'' });
+  showStep(1);
+});
+
+// ── Itinerary Analysis ───────────────────────────────────────────────
+function analyzeItinerary(text) {
+  if (!text) return { mentionedAreas: [], emptyDays: [] };
+
+  const emptyKeywords = ['???','待定','tbd','空白','未定','不知道','還沒想','未排','空'];
+  const mentionedAreas = new Set();
+  const emptyDays = [];
+
+  text.split('\n').forEach(line => {
+    const lower = line.toLowerCase();
+
+    for (const [key, reg] of Object.entries(REGIONS)) {
+      if (reg.keywords.some(kw => lower.includes(kw.toLowerCase()))) {
+        mentionedAreas.add(key);
+      }
+    }
+
+    const dayMatch = line.match(/[Dd](\d+)|第\s*(\d+)\s*[天日]|[Dd]ay\s*(\d+)/);
+    if (dayMatch && emptyKeywords.some(kw => lower.includes(kw.toLowerCase()))) {
+      const n = dayMatch[1] ?? dayMatch[2] ?? dayMatch[3];
+      emptyDays.push(`第 ${n} 天`);
+    }
+  });
+
+  return { mentionedAreas: [...mentionedAreas], emptyDays };
+}
+
+// ── Recommendation Engine ────────────────────────────────────────────
+function buildTargetAreas(mentionedAreas) {
+  const chosen = new Set([...state.areas, ...mentionedAreas]);
+  chosen.delete('undecided');
+
+  // If nothing selected, infer from interests + companion
+  if (chosen.size === 0) {
+    const interestMap = {
+      surf:    ['kuta','canggu'],
+      culture: ['ubud','east'],
+      spa:     ['ubud','seminyak'],
+      food:    ['seminyak','jimbaran'],
+      shop:    ['seminyak','kuta'],
+      yoga:    ['ubud','canggu'],
+      snorkel: ['penida','sanur'],
+      beach:   ['nusadua','uluwatu'],
+      night:   ['kuta','seminyak'],
+      photo:   ['ubud','uluwatu'],
+      kids:    ['nusadua','sanur'],
+      nature:  ['ubud','east'],
+    };
+    state.interests.forEach(i => {
+      (interestMap[i] || []).forEach(a => chosen.add(a));
+    });
+    if (state.companion === 'family') { chosen.add('nusadua'); chosen.add('sanur'); }
+    if (state.budget === 'luxury')    { chosen.add('nusadua'); chosen.add('seminyak'); }
+    if (chosen.size === 0)            { ['kuta','ubud','seminyak'].forEach(a => chosen.add(a)); }
+  }
+
+  // Days-based pruning: short trips → stay south
+  const days = parseInt(state.days) || 5;
+  if (days <= 3 && chosen.size > 3) {
+    // Keep only top 3 by interest match
+    const sorted = [...chosen].sort((a, b) => {
+      const scoreA = (REGIONS[a]?.interestMatch || []).filter(i => state.interests.includes(i)).length;
+      const scoreB = (REGIONS[b]?.interestMatch || []).filter(i => state.interests.includes(i)).length;
+      return scoreB - scoreA;
+    });
+    return sorted.slice(0, 3);
+  }
+
+  return [...chosen];
+}
+
+// ── HTML Builders ────────────────────────────────────────────────────
+function cardHtml({ title, url, tag }) {
+  return `<a href="${url}" class="acard" target="_blank" rel="noopener">
+    <span class="acard-tag">${tag}</span>
+    <p class="acard-title">${title}</p>
+    <span class="acard-arrow">→</span>
+  </a>`;
+}
+
+function regionSectionHtml(key) {
+  const r = REGIONS[key];
+  if (!r) return '';
+  const allCards = [
+    cardHtml({ ...r.guide }),
+    ...r.spots.map(s => cardHtml(s)),
+  ].join('');
+  return `<div class="results-section region-section">
+    <h3 class="section-title region-title">
+      <span class="region-emoji">${r.emoji}</span>
+      ${r.name}
+      <span class="region-desc">${r.desc}</span>
+    </h3>
+    <div class="article-grid">${allCards}</div>
+  </div>`;
+}
+
+function interestSectionHtml(key) {
+  const ex = INTEREST_EXTRAS[key];
+  if (!ex) return '';
+  const cards = ex.articles.map(a => cardHtml(a)).join('');
+  return `<div class="results-section">
+    <h3 class="section-title">${ex.title}</h3>
+    <div class="article-grid">${cards}</div>
+  </div>`;
+}
+
+// ── Route Tip ────────────────────────────────────────────────────────
+// Based on: 「這樣玩居然不塞車！」8天7夜不塞車路線邏輯
+// Recommended geographic flow: 機場 → 水明漾/倉古 → 沙努爾/佩尼達 → 烏布 → 庫塔/金巴蘭 → 機場
+const ROUTE_FLOW = ['seminyak','canggu','nusadua','sanur','penida','east','ubud','uluwatu','jimbaran','kuta'];
+
+function buildRouteTip(targetAreas) {
+  // Only show if 2+ areas selected
+  const ordered = ROUTE_FLOW.filter(a => targetAreas.includes(a));
+  if (ordered.length < 2) return '';
+
+  const steps = ordered.map(a => {
+    const r = REGIONS[a];
+    return `<span class="route-step">${r.emoji} ${r.name}</span>`;
+  });
+
+  return `<div class="route-tip-box">
+    <div class="route-tip-label">🗺️ 建議移動順序（從機場出發，避免走回頭路）</div>
+    <div class="route-flow">
+      <span class="route-step route-airport">✈️ 機場</span>
+      <span class="route-arrow">→</span>
+      ${steps.join('<span class="route-arrow">→</span>')}
+      <span class="route-arrow">→</span>
+      <span class="route-step route-airport">✈️ 機場</span>
+    </div>
+    <div class="route-tip-note">依地理位置順向移動，塞車時間最少。詳細規劃參考：<a href="/blog/2024-03-18-65ba3bfefd89780001650f07/" target="_blank" rel="noopener">8天不塞車攻略</a></div>
+  </div>`;
+}
+
+// ── Build Results ────────────────────────────────────────────────────
+function buildResults() {
+  const { mentionedAreas, emptyDays } = analyzeItinerary(state.itinerary);
+  const targetAreas = buildTargetAreas(mentionedAreas);
+
+  // Summary text
+  const companionLabel = { solo:'個人獨旅', couple:'情侶蜜月', family:'家庭親子', friends:'朋友同行' }[state.companion] || '';
+  const daysLabel = state.days ? (state.days === '8' ? '8天以上' : state.days.replace('67','6–7') + '天') : '';
+  const parts = [companionLabel, daysLabel].filter(Boolean);
+  document.getElementById('results-summary').textContent =
+    parts.length ? `根據你的條件（${parts.join('・')}）為你整理了以下推薦：` :
+    '根據你的選擇，為你整理了以下推薦：';
+
+  // Empty day alert
+  const alertEl = document.getElementById('empty-alert');
+  if (emptyDays.length > 0) {
+    document.getElementById('empty-alert-text').textContent =
+      `行程中偵測到空缺天數（${emptyDays.join('、')}），以下分區攻略可以幫你補上！`;
+    alertEl.classList.remove('hidden');
+  } else {
+    alertEl.classList.add('hidden');
+  }
+
+  // Region sections
+  document.getElementById('region-sections').innerHTML =
+    targetAreas.map(regionSectionHtml).join('');
+
+  // Interest extras
+  const interestExtraKeys = [];
+  if (state.interests.includes('surf') || state.areas.includes('kuta') || state.areas.includes('canggu')) interestExtraKeys.push('surf');
+  if (state.interests.includes('kids') || state.companion === 'family') interestExtraKeys.push('kids');
+  if (state.interests.includes('snorkel') || state.areas.includes('penida')) interestExtraKeys.push('snorkel');
+  if (state.interests.includes('nature')) interestExtraKeys.push('nature');
+  // 短天數或完全沒勾選任何興趣 → 推薦懶人包
+  const days = parseInt(state.days) || 5;
+  if (days <= 4 || state.interests.length === 0) interestExtraKeys.push('klook');
+
+  document.getElementById('interest-extras').innerHTML =
+    [...new Set(interestExtraKeys)].map(interestSectionHtml).join('');
+
+  // Route flow tip (based on 8-day anti-traffic logic)
+  document.getElementById('route-tip').innerHTML = buildRouteTip(targetAreas);
+}
+</script>
+
+<style>
+/* ── Base ── */
+#planner { background: #faf7f2; min-height: 100vh; }
+
+/* ── Hero ── */
+.planner-hero {
+  background: linear-gradient(135deg, var(--ocean) 0%, #2a5298 100%);
+  padding: 3.5rem 1rem 3rem;
+  text-align: center;
+  color: #fff;
+}
+.hero-inner { max-width: 640px; margin: 0 auto; }
+.hero-badge {
+  display: inline-block;
+  background: rgba(197,160,89,0.3);
+  border: 1px solid rgba(197,160,89,0.6);
+  color: var(--gold-light);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  padding: 0.3em 0.9em;
+  border-radius: 99px;
+  margin-bottom: 1rem;
+  text-transform: uppercase;
+}
+.planner-hero h1 {
+  font-size: clamp(1.6rem, 5vw, 2.4rem);
+  font-weight: 800;
+  margin: 0 0 0.6rem;
+  color: #fff;
+}
+.planner-hero p {
+  font-size: 1.05rem;
+  opacity: 0.88;
+  margin: 0;
+}
+
+/* ── Wizard Wrap ── */
+.wizard-wrap {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 2rem 1rem 4rem;
+}
+
+/* ── Steps Nav ── */
+.steps-nav {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0;
+  margin-bottom: 2.5rem;
+}
+.snav-item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.35em;
+  opacity: 0.4;
+  transition: opacity 0.2s;
+}
+.snav-item.active { opacity: 1; }
+.snav-num {
+  width: 34px; height: 34px;
+  border-radius: 50%;
+  background: #ddd;
+  color: #888;
+  display: flex; align-items: center; justify-content: center;
+  font-weight: 700; font-size: 0.9rem;
+  transition: background 0.2s, color 0.2s;
+}
+.snav-item.active .snav-num {
+  background: var(--ocean);
+  color: #fff;
+}
+.snav-item.done .snav-num {
+  background: var(--gold);
+  color: var(--ocean);
+}
+.snav-label { font-size: 0.78rem; font-weight: 600; color: var(--ocean); white-space: nowrap; }
+.snav-line {
+  flex: 1;
+  height: 2px;
+  background: #ddd;
+  margin: 0 0.5rem;
+  max-width: 80px;
+  align-self: flex-start;
+  margin-top: 17px;
+}
+
+/* ── Step ── */
+.step { background: #fff; border-radius: 16px; padding: 2rem; box-shadow: 0 2px 20px rgba(26,54,93,0.08); }
+.step.hidden { display: none; }
+.step-title { font-size: 1.3rem; font-weight: 800; color: var(--ocean); margin: 0 0 1.8rem; }
+
+/* ── Question Block ── */
+.q-block { margin-bottom: 1.8rem; }
+.q-label {
+  font-weight: 700;
+  font-size: 0.97rem;
+  color: var(--ocean);
+  margin-bottom: 0.7rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  flex-wrap: wrap;
+}
+.q-hint { font-weight: 400; font-size: 0.82rem; color: #999; }
+
+/* ── Chips ── */
+.chips { display: flex; flex-wrap: wrap; gap: 0.5rem; }
+.chip {
+  padding: 0.45em 1em;
+  border-radius: 99px;
+  border: 1.5px solid #ddd;
+  background: #fff;
+  color: var(--text-light);
+  font-size: 0.88rem;
+  font-weight: 500;
+  cursor: pointer;
+  transition: border-color 0.15s, background 0.15s, color 0.15s, transform 0.1s;
+  font-family: inherit;
+}
+.chip:hover { border-color: var(--gold); color: var(--ocean); transform: translateY(-1px); }
+.chip.selected {
+  background: var(--ocean);
+  border-color: var(--ocean);
+  color: #fff;
+  font-weight: 700;
+}
+
+/* ── Textarea ── */
+#q-itinerary {
+  width: 100%;
+  border: 1.5px solid #ddd;
+  border-radius: 10px;
+  padding: 0.8em 1em;
+  font-size: 0.9rem;
+  font-family: inherit;
+  color: var(--text);
+  line-height: 1.7;
+  resize: vertical;
+  transition: border-color 0.15s;
+  background: #fafafa;
+}
+#q-itinerary:focus { outline: none; border-color: var(--gold); background: #fff; }
+#q-itinerary::placeholder { color: #bbb; }
+
+/* ── Buttons ── */
+.step-actions { display: flex; gap: 0.75rem; justify-content: flex-end; margin-top: 2rem; flex-wrap: wrap; }
+.btn-next {
+  padding: 0.7em 1.6em;
+  background: var(--ocean);
+  color: #fff;
+  border: none;
+  border-radius: 10px;
+  font-weight: 700;
+  font-size: 0.95rem;
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.15s, transform 0.1s;
+}
+.btn-next:hover { background: var(--ocean-light); transform: translateY(-1px); }
+.btn-back {
+  padding: 0.7em 1.4em;
+  background: none;
+  color: var(--text-light);
+  border: 1.5px solid #ddd;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 0.92rem;
+  cursor: pointer;
+  font-family: inherit;
+  transition: border-color 0.15s, color 0.15s;
+}
+.btn-back:hover { border-color: var(--ocean); color: var(--ocean); }
+.btn-restart {
+  padding: 0.65em 1.5em;
+  background: none;
+  color: var(--text-light);
+  border: 1.5px solid #ddd;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  cursor: pointer;
+  font-family: inherit;
+  transition: border-color 0.15s, color 0.15s;
+  margin-top: 1rem;
+}
+.btn-restart:hover { border-color: var(--gold); color: var(--ocean); }
+
+/* ── Results ── */
+.results-header { margin-bottom: 1.5rem; }
+.results-summary { font-size: 0.95rem; color: var(--text-light); margin: 0.3rem 0 0; }
+
+.empty-alert {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.5rem;
+  background: #fff8e6;
+  border: 1px solid rgba(197,160,89,0.5);
+  border-radius: 10px;
+  padding: 0.9em 1.1em;
+  font-size: 0.9rem;
+  color: var(--ocean);
+  font-weight: 600;
+  margin-bottom: 1.5rem;
+}
+.empty-alert.hidden { display: none; }
+
+.results-section { margin-bottom: 2.2rem; }
+.section-title {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: var(--ocean);
+  margin: 0 0 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 2px solid var(--gold-pale);
+}
+
+.region-title {
+  display: flex;
+  align-items: baseline;
+  gap: 0.4em;
+  flex-wrap: wrap;
+}
+.region-emoji { font-size: 1.2rem; }
+.region-desc {
+  font-size: 0.8rem;
+  font-weight: 400;
+  color: #888;
+  margin-left: 0.2em;
+}
+
+/* ── Article Grid ── */
+.article-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(230px, 1fr));
+  gap: 0.8rem;
+}
+.acard {
+  display: flex;
+  flex-direction: column;
+  gap: 0.4rem;
+  padding: 0.9rem 1rem;
+  background: #f9f6f0;
+  border: 1px solid rgba(197,160,89,0.25);
+  border-radius: 10px;
+  text-decoration: none;
+  transition: border-color 0.15s, box-shadow 0.15s, transform 0.1s;
+  position: relative;
+}
+.acard:hover {
+  border-color: var(--gold);
+  box-shadow: 0 4px 16px rgba(197,160,89,0.18);
+  transform: translateY(-2px);
+}
+.acard-tag {
+  font-size: 0.72rem;
+  font-weight: 700;
+  color: var(--gold);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.acard-title {
+  font-size: 0.88rem;
+  font-weight: 600;
+  color: var(--ocean);
+  line-height: 1.5;
+  margin: 0;
+  flex: 1;
+}
+.acard-arrow {
+  font-size: 0.85rem;
+  color: var(--gold);
+  font-weight: 700;
+  margin-top: 0.2rem;
+  align-self: flex-end;
+}
+
+/* ── Route Tip ── */
+.route-tip-box {
+  background: linear-gradient(135deg, #eef4ff 0%, #f5f0e8 100%);
+  border: 1px solid rgba(42,82,152,0.2);
+  border-radius: 12px;
+  padding: 1.1rem 1.2rem;
+  margin-bottom: 2rem;
+}
+.route-tip-label {
+  font-size: 0.85rem;
+  font-weight: 700;
+  color: var(--ocean);
+  margin-bottom: 0.8rem;
+}
+.route-flow {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.3rem;
+  margin-bottom: 0.7rem;
+}
+.route-step {
+  background: #fff;
+  border: 1px solid rgba(26,54,93,0.15);
+  border-radius: 99px;
+  padding: 0.3em 0.75em;
+  font-size: 0.8rem;
+  font-weight: 600;
+  color: var(--ocean);
+  white-space: nowrap;
+}
+.route-airport { background: var(--ocean); color: #fff; border-color: var(--ocean); }
+.route-arrow { color: var(--gold); font-weight: 700; font-size: 0.9rem; }
+.route-tip-note {
+  font-size: 0.78rem;
+  color: #888;
+}
+.route-tip-note a { color: var(--ocean); text-decoration: underline; text-underline-offset: 2px; }
+
+.restart-wrap { text-align: center; padding: 1.5rem 0 0.5rem; }
+
+/* ── Mobile ── */
+@media (max-width: 600px) {
+  .wizard-wrap { padding: 1.2rem 0.75rem 3rem; }
+  .step { padding: 1.4rem 1rem; }
+  .step-title { font-size: 1.1rem; }
+  .article-grid { grid-template-columns: 1fr; }
+  .steps-nav { gap: 0; }
+  .snav-line { max-width: 40px; }
+  .snav-label { font-size: 0.7rem; }
+}
+</style>
