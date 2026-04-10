@@ -257,6 +257,15 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['金巴蘭住宿', '金巴蘭飯店', '金巴蘭酒店', '金巴蘭渡假', '金巴蘭resort', '金巴蘭villa',
+               'jimbaran hotel', 'jimbaran resort', 'jimbaran villa', 'jimbaran accommodation',
+               'stay in jimbaran', 'hotel jimbaran', 'sleep in jimbaran', 'jimbaran stay'],
+    articles: [
+      { title: '峇里島住宿推薦：無敵海景金巴蘭住宿篇', url: '/blog/2025-07-22-654c6271fd8978000174ff5e/' },
+      { title: '【峇里島阿雅那】Ayana Bali 住宿懶人包》Ayana Segara, RIMBA, Ayana Resort..', url: '/blog/2023-10-26-653914f6fd89780001fef733/' },
+    ],
+  },
+  {
     keywords: ['金巴蘭', 'jimbaran', 'Jimbaran', 'JIMBARAN', '武吉', 'bukit', 'Bukit', 'BUKIT',
                'Jimbaran beach', 'jimbaran beach', 'Bukit peninsula', 'southern Bali'],
     articles: [
@@ -313,7 +322,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v8'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v9'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
