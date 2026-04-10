@@ -18,7 +18,7 @@ const T = {
     i_spa: '💆 SPA按摩', i_food: '🍜 美食探索', i_shop: '🛍️ 購物',
     i_yoga: '🧘 瑜伽靈修', i_night: '🌙 夜生活', i_kids: '🧒 親子活動',
     i_snorkel: '🤿 浮潛潛水', i_nature: '🌿 自然健行', i_photo: '📸 網美打卡',
-    i_adventure: '🏍️ 冒險活動', i_beachclub: '🍹 海灘俱樂部', i_volcano: '🌋 火山健行', i_performance: '🎭 文化表演',
+    i_rafting: '🚣 泛舟激流', i_atv: '🏍️ ATV叢林越野', i_beachclub: '🍹 海灘俱樂部', i_volcano: '🌋 火山健行', i_performance: '🎭 文化表演',
     q4: '預算感覺？',
     b_budget: '💰 省錢不浪費', b_mid: '🫰 均衡舒適', b_luxury: '💎 品質優先',
     s2title: '行程草稿',
@@ -52,7 +52,7 @@ const T = {
     i_spa: '💆 SPA按摩', i_food: '🍜 美食探索', i_shop: '🛍️ 購物',
     i_yoga: '🧘 瑜伽靈修', i_night: '🌙 夜生活', i_kids: '🧒 親子活動',
     i_snorkel: '🤿 浮潛潛水', i_nature: '🌿 自然健行', i_photo: '📸 打卡影相',
-    i_adventure: '🏍️ 冒險活動', i_beachclub: '🍹 海灘俱樂部', i_volcano: '🌋 火山行山', i_performance: '🎭 文化表演',
+    i_rafting: '🚣 泛舟激流', i_atv: '🏍️ ATV叢林越野', i_beachclub: '🍹 海灘俱樂部', i_volcano: '🌋 火山行山', i_performance: '🎭 文化表演',
     q4: '預算大概係？',
     b_budget: '💰 慳錢唔浪費', b_mid: '🫰 均衡舒適', b_luxury: '💎 品質優先',
     s2title: '行程草稿',
@@ -86,7 +86,7 @@ const T = {
     i_spa: '💆 SPA按摩', i_food: '🍜 美食探索', i_shop: '🛍️ 购物',
     i_yoga: '🧘 瑜伽灵修', i_night: '🌙 夜生活', i_kids: '🧒 亲子活动',
     i_snorkel: '🤿 浮潜潜水', i_nature: '🌿 自然徒步', i_photo: '📸 网红打卡',
-    i_adventure: '🏍️ 冒险活动', i_beachclub: '🍹 海滩俱乐部', i_volcano: '🌋 火山登山', i_performance: '🎭 文化表演',
+    i_rafting: '🚣 泛舟激流', i_atv: '🏍️ ATV丛林越野', i_beachclub: '🍹 海滩俱乐部', i_volcano: '🌋 火山登山', i_performance: '🎭 文化表演',
     q4: '预算感觉？',
     b_budget: '💰 省钱不浪费', b_mid: '🫰 均衡舒适', b_luxury: '💎 品质优先',
     s2title: '行程草稿',
@@ -120,7 +120,7 @@ const T = {
     i_spa: '💆 Spa & Massage', i_food: '🍜 Food & Dining', i_shop: '🛍️ Shopping',
     i_yoga: '🧘 Yoga & Wellness', i_night: '🌙 Nightlife', i_kids: '🧒 Kids Activities',
     i_snorkel: '🤿 Snorkelling & Diving', i_nature: '🌿 Nature & Hiking', i_photo: '📸 Instagram Spots',
-    i_adventure: '🏍️ Adventure Sports', i_beachclub: '🍹 Beach Clubs', i_volcano: '🌋 Volcano Hike', i_performance: '🎭 Cultural Performances',
+    i_rafting: '🚣 White-Water Rafting', i_atv: '🏍️ ATV Jungle Ride', i_beachclub: '🍹 Beach Clubs', i_volcano: '🌋 Volcano Hike', i_performance: '🎭 Cultural Performances',
     q4: 'Budget?',
     b_budget: '💰 Budget-Friendly', b_mid: '🫰 Comfortable', b_luxury: '💎 Luxury',
     s2title: 'Draft Itinerary',
@@ -217,7 +217,8 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
           <button class="chip" data-val="snorkel">{T.i_snorkel}</button>
           <button class="chip" data-val="nature">{T.i_nature}</button>
           <button class="chip" data-val="photo">{T.i_photo}</button>
-          <button class="chip" data-val="adventure">{T.i_adventure}</button>
+          <button class="chip" data-val="rafting">{T.i_rafting}</button>
+          <button class="chip" data-val="atv">{T.i_atv}</button>
           <button class="chip" data-val="beachclub">{T.i_beachclub}</button>
           <button class="chip" data-val="volcano">{T.i_volcano}</button>
           <button class="chip" data-val="performance">{T.i_performance}</button>
@@ -290,7 +291,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
       <div id="accom-section"></div>
 
       <!-- Must-Read -->
-      <div class="results-section">
+      <div class="results-section highlight">
         <h3 class="section-title">{T.secMustRead}</h3>
         <div class="article-grid">
           <a href="/blog/2023-12-06-65708c78fd89780001f418c2/" class="acard" target="_blank" rel="noopener">
@@ -322,7 +323,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
       </div>
 
       <!-- Global -->
-      <div class="results-section">
+      <div class="results-section highlight">
         <h3 class="section-title">{T.secGlobal}</h3>
         <div class="article-grid" id="global-picks-grid"></div>
       </div>
@@ -355,7 +356,9 @@ const LANG_STRINGS = {
       kids:        '🧒 親子活動推薦',
       snorkel:     '🤿 浮潛 / 離島推薦',
       nature:      '🌿 自然秘境推薦',
-      adventure:   '🏍️ 冒險活動推薦（ATV / 泛舟）',
+      rafting:     '🚣 泛舟推薦',
+      atv:         '🏍️ ATV越野推薦',
+      atv_rafting: '🏍️🚣 ATV + 泛舟組合推薦',
       beachclub:   '🍹 海灘俱樂部推薦',
       volcano:     '🌋 火山健行推薦',
       performance: '🎭 文化表演推薦',
@@ -364,6 +367,9 @@ const LANG_STRINGS = {
       group:       '👥 團體旅遊推薦',
       klook:       '🛒 不想規劃？Klook 懶人包一日遊',
     },
+    airportWarning: '⚠️ 最後一天若需從烏布或東部峇里直接前往機場，車程難以估算，請預留至少 3 小時緩衝。建議最後一天安排在庫塔、金巴蘭、沙努爾或努沙杜瓦一帶。',
+    airportWarningLink: '烏布到機場要多久？',
+    airportWarningUrl: '/blog/2024-10-28-671f108efd89780001d31e6e/',
     regionDescs: {
       kuta:     '衝浪聖地・購物熱區・熱鬧夜生活',
       seminyak: '精品購物・網美咖啡廳・頂級SPA',
@@ -394,7 +400,9 @@ const LANG_STRINGS = {
       kids:        '🧒 親子活動推薦',
       snorkel:     '🤿 浮潛 / 離島推薦',
       nature:      '🌿 自然秘境推薦',
-      adventure:   '🏍️ 冒險活動推薦（ATV / 泛舟）',
+      rafting:     '🚣 泛舟推薦',
+      atv:         '🏍️ ATV越野推薦',
+      atv_rafting: '🏍️🚣 ATV + 泛舟組合推薦',
       beachclub:   '🍹 海灘俱樂部推薦',
       volcano:     '🌋 火山行山推薦',
       performance: '🎭 文化表演推薦',
@@ -403,6 +411,9 @@ const LANG_STRINGS = {
       group:       '👥 團體旅遊推薦',
       klook:       '🛒 唔想規劃？Klook 懶人包一日遊',
     },
+    airportWarning: '⚠️ 最後一天若需從烏布或東部峇里直接前往機場，車程難以估算，請預留至少 3 小時緩衝。建議最後一天安排在庫塔、金巴蘭、沙努爾或努沙杜瓦一帶。',
+    airportWarningLink: '烏布到機場要多久？',
+    airportWarningUrl: '/blog/2024-10-28-671f108efd89780001d31e6e/',
     regionDescs: {
       kuta:     '衝浪聖地・購物熱區・熱鬧夜生活',
       seminyak: '精品購物・網美咖啡廳・頂級SPA',
@@ -433,7 +444,9 @@ const LANG_STRINGS = {
       kids:        '🧒 亲子活动推荐',
       snorkel:     '🤿 浮潜 / 跳岛推荐',
       nature:      '🌿 自然秘境推荐',
-      adventure:   '🏍️ 冒险活动推荐（ATV / 泛舟）',
+      rafting:     '🚣 泛舟推荐',
+      atv:         '🏍️ ATV越野推荐',
+      atv_rafting: '🏍️🚣 ATV + 泛舟组合推荐',
       beachclub:   '🍹 海滩俱乐部推荐',
       volcano:     '🌋 火山登山推荐',
       performance: '🎭 文化表演推荐',
@@ -442,6 +455,9 @@ const LANG_STRINGS = {
       group:       '👥 团体旅游推荐',
       klook:       '🛒 不想规划？Klook 懒人包一日游',
     },
+    airportWarning: '⚠️ 最后一天若需从乌布或东部巴厘直接前往机场，车程难以预估，请预留至少 3 小时缓冲。建议最后一天安排在库塔、金巴兰、沙努尔或努沙杜瓦一带。',
+    airportWarningLink: '乌布到机场要多久？',
+    airportWarningUrl: '/blog/2024-10-28-671f108efd89780001d31e6e/',
     regionDescs: {
       kuta:     '冲浪圣地・购物热区・热闹夜生活',
       seminyak: '精品购物・网红咖啡厅・顶级SPA',
@@ -476,11 +492,17 @@ const LANG_STRINGS = {
       beachclub:   '🍹 Beach Clubs',
       volcano:     '🌋 Volcano & Mountain Hiking',
       performance: '🎭 Cultural Performances',
+      rafting:     '🚣 White-Water Rafting',
+      atv:         '🏍️ ATV Jungle Ride',
+      atv_rafting: '🏍️🚣 ATV + Rafting Combo',
       romance:     '💑 Romantic / Honeymoon Ideas',
       elder:       '👴 Travelling with Elderly',
       group:       '👥 Group Travel Tips',
       klook:       '🛒 No Plans? Try Klook Day Tours',
     },
+    airportWarning: '⚠️ If your last day involves travelling from Ubud or East Bali to the airport, allow at least 3 hours — traffic is highly unpredictable. Plan your last day near Kuta, Jimbaran, Sanur or Nusa Dua instead.',
+    airportWarningLink: 'How long from Ubud to the airport?',
+    airportWarningUrl: '/blog/2024-10-28-671f108efd89780001d31e6e/',
     regionDescs: {
       kuta:     'Surf beach · Busy shopping · Nightlife hub',
       seminyak: 'Boutique shopping · Trendy cafés · Top Spas',
@@ -517,7 +539,7 @@ const REGIONS = {
   },
   canggu: {
     name: 'Canggu', emoji: '☕',
-    interestMatch: ['surf','food','photo','night','yoga','beachclub','adventure'],
+    interestMatch: ['surf','food','photo','night','yoga','beachclub','atv','rafting'],
     keywords: ['倉古','仓古','長谷','长谷','canggu'],
     guide: { title: '【2026 長谷攻略】Canggu 旅遊地圖 100 選', url: '/blog/2023-02-11-64db6b7efd897800013a9815/', tag: '分區攻略' },
     spots: [
@@ -526,7 +548,7 @@ const REGIONS = {
   },
   ubud: {
     name: 'Ubud', emoji: '🌿',
-    interestMatch: ['culture','spa','nature','yoga','photo','food','adventure','performance'],
+    interestMatch: ['culture','spa','nature','yoga','photo','food','atv','rafting','performance'],
     keywords: ['烏布','乌布','ubud'],
     guide: { title: '2026峇里島完整烏布攻略：100種深入認識烏布的方式', url: '/blog/2023-11-17-655054b1fd897800011d4d2c/', tag: '分區攻略' },
     spots: [
@@ -620,10 +642,15 @@ const INTEREST_EXTRAS = {
     { title: '探索峇里島的無人秘境：6 個峇里島秘境沙灘攻略', url: '/blog/2023-08-22-64e4c0c9fd897800014e31bf/', tag: '秘境' },
     { title: '【地標】GWK 神鷹廣場文化公園全攻略', url: '/blog/2025-07-17-68785bf9fd89780001822053/', tag: '地標' },
   ]},
-  adventure: { articles: [
+  atv: { articles: [
     { title: '峇里島 ATV 四輪越野車探險：感受熱帶天堂的刺激與自由', url: '/blog/2024-01-30-65b6ef65fd89780001f5d032/', tag: 'ATV' },
-    { title: '峇里島 ATV 越野車 vs 阿勇河泛舟懶人包：行程排法與安全須知', url: '/blog/2025-07-27-68861b2efd8978000104cf9b/', tag: 'ATV/泛舟' },
-    { title: '【峇里島泛舟 FAQ】不會游泳也能玩？年齡限制與安全須知', url: '/blog/2025-03-28-67e62aa8fd89780001888620/', tag: '泛舟' },
+    { title: '峇里島戶外活動玩什麼？50種最受歡迎的戶外體驗', url: '/blog/2025-04-02-67ecf440fd897800012cb31b/', tag: '戶外' },
+  ]},
+  rafting: { articles: [
+    { title: '【峇里島泛舟 FAQ】不會游泳也能玩？年齡限制與安全須知', url: '/blog/2025-03-28-67e62aa8fd89780001888620/', tag: '泛舟FAQ' },
+  ]},
+  atv_rafting: { articles: [
+    { title: '峇里島 ATV 越野車 vs 阿勇河泛舟懶人包：行程排法與安全須知', url: '/blog/2025-07-27-68861b2efd8978000104cf9b/', tag: 'ATV+泛舟' },
     { title: '峇里島戶外活動玩什麼？50種最受歡迎的戶外體驗', url: '/blog/2025-04-02-67ecf440fd897800012cb31b/', tag: '戶外' },
   ]},
   beachclub: { articles: [
@@ -782,7 +809,10 @@ function analyzeItinerary(text) {
 }
 
 // ── Recommendation Engine ─────────────────────────────────────────────
-const ROUTE_FLOW = ['seminyak','canggu','nusadua','sanur','penida','east','ubud','uluwatu','jimbaran','kuta'];
+// Route flows inland→east first, then back to airport-proximate south/west areas last
+const ROUTE_FLOW = ['canggu','seminyak','ubud','east','sanur','penida','nusadua','uluwatu','jimbaran','kuta'];
+// Areas far from airport — warn if these are last in planned route
+const AIRPORT_FAR_AREAS = new Set(['ubud','east']);
 
 function buildTargetAreas(mentioned) {
   const chosen = new Set([...state.areas, ...mentioned]);
@@ -793,7 +823,7 @@ function buildTargetAreas(mentioned) {
       food:['seminyak','jimbaran'], shop:['seminyak','kuta'], yoga:['ubud','canggu'],
       snorkel:['penida','sanur'], beach:['nusadua','uluwatu'], night:['kuta','seminyak'],
       photo:['ubud','uluwatu'], kids:['nusadua','sanur'], nature:['ubud','east'],
-      adventure:['ubud','canggu'], beachclub:['seminyak','canggu','nusadua'],
+      atv:['ubud','canggu'], rafting:['ubud','canggu'], beachclub:['seminyak','canggu','nusadua'],
       volcano:['east'], performance:['uluwatu','ubud'],
     };
     state.interests.forEach(i => (map[i]||[]).forEach(a => chosen.add(a)));
@@ -839,14 +869,19 @@ function buildAccomSection(areas) {
   areas.forEach(key => { const list = ACCOM_BY_REGION[key]; if (list) items.push(...list); });
   if (items.length === 0) return '';
   const title = LS.secAccom || '🏨 住宿推薦';
-  return `<div class="results-section"><h3 class="section-title">${title}</h3><div class="article-grid">${items.map(cardHtml).join('')}</div></div>`;
+  return `<div class="results-section highlight"><h3 class="section-title">${title}</h3><div class="article-grid">${items.map(cardHtml).join('')}</div></div>`;
 }
 
 function buildRouteTip(areas) {
   const ordered = ROUTE_FLOW.filter(a => areas.includes(a));
   if (ordered.length < 2) return '';
+  const lastArea = ordered[ordered.length - 1];
+  const showWarning = AIRPORT_FAR_AREAS.has(lastArea);
   const steps = ordered.map(a => `<span class="route-step">${REGIONS[a].emoji} ${REGIONS[a].name}</span>`);
-  return `<div class="route-tip-box"><div class="route-tip-label">${LS.routeLabel}</div><div class="route-flow"><span class="route-step route-airport">${LS.airport}</span><span class="route-arrow">→</span>${steps.join('<span class="route-arrow">→</span>')}<span class="route-arrow">→</span><span class="route-step route-airport">${LS.airport}</span></div><div class="route-tip-note">${LS.routeNote}<a href="/blog/2024-03-18-65ba3bfefd89780001650f07/" target="_blank" rel="noopener">${LS.routeLink}</a></div></div>`;
+  const warningHtml = showWarning && LS.airportWarning
+    ? `<div class="route-warning">${LS.airportWarning} <a href="${LS.airportWarningUrl}" target="_blank" rel="noopener">${LS.airportWarningLink}</a></div>`
+    : '';
+  return `<div class="route-tip-box"><div class="route-tip-label">${LS.routeLabel}</div><div class="route-flow"><span class="route-step route-airport">${LS.airport}</span><span class="route-arrow">→</span>${steps.join('<span class="route-arrow">→</span>')}<span class="route-arrow">→</span><span class="route-step route-airport">${LS.airport}</span></div><div class="route-tip-note">${LS.routeNote}<a href="/blog/2024-03-18-65ba3bfefd89780001650f07/" target="_blank" rel="noopener">${LS.routeLink}</a></div>${warningHtml}</div>`;
 }
 
 // ── Build Results ─────────────────────────────────────────────────────
@@ -880,7 +915,14 @@ function buildResults() {
   if (state.interests.includes('kids') || state.companion === 'family') extraKeys.push('kids');
   if (state.interests.includes('snorkel') || state.areas.includes('penida')) extraKeys.push('snorkel');
   if (state.interests.includes('nature')) extraKeys.push('nature');
-  if (state.interests.includes('adventure')) extraKeys.push('adventure');
+  const hasAtv = state.interests.includes('atv');
+  const hasRafting = state.interests.includes('rafting');
+  if (hasAtv && hasRafting) {
+    extraKeys.push('atv_rafting');
+  } else {
+    if (hasAtv) extraKeys.push('atv');
+    if (hasRafting) extraKeys.push('rafting');
+  }
   if (state.interests.includes('beachclub')) extraKeys.push('beachclub');
   if (state.interests.includes('volcano')) extraKeys.push('volcano');
   if (state.interests.includes('performance')) extraKeys.push('performance');
@@ -994,6 +1036,16 @@ function buildResults() {
 .empty-alert.hidden { display: none; }
 
 .results-section { margin-bottom: 2.2rem; }
+.results-section.highlight {
+  background: #f9f6ee;
+  border-radius: 14px;
+  padding: 1.4rem 1.5rem;
+  margin-bottom: 1.5rem;
+  border: 1px solid rgba(197,160,89,0.25);
+}
+.results-section.highlight .section-title {
+  border-bottom-color: rgba(197,160,89,0.45);
+}
 .section-title {
   font-size: 1.1rem; font-weight: 800; color: var(--ocean);
   margin: 0 0 1rem; padding-bottom: 0.5rem;
@@ -1029,6 +1081,12 @@ function buildResults() {
 .route-arrow { color: var(--gold); font-weight: 700; font-size: 0.9rem; }
 .route-tip-note { font-size: 0.78rem; color: #888; }
 .route-tip-note a { color: var(--ocean); text-decoration: underline; text-underline-offset: 2px; }
+.route-warning {
+  margin-top: 0.75rem; padding: 0.65em 0.9em;
+  background: #fff8e6; border-left: 3px solid var(--gold);
+  border-radius: 0 8px 8px 0; font-size: 0.82rem; color: var(--ocean); font-weight: 500;
+}
+.route-warning a { color: var(--ocean); text-decoration: underline; text-underline-offset: 2px; }
 
 .restart-wrap { text-align: center; padding: 1.5rem 0 0.5rem; }
 
