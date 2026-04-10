@@ -366,6 +366,16 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['海豚', '看海豚', '海豚之旅', '海豚體驗', '羅威納', 'lovina', 'Lovina', 'LOVINA',
+               'dolphin', 'Dolphin', 'DOLPHIN', 'dolphin watching', 'dolphin tour',
+               'see dolphin', 'watch dolphin', 'bali dolphin', 'north bali dolphin'],
+    intro: '峇里島看海豚要去北部的羅威納（Lovina），距離南部約2-3小時車程，建議包車前往。以下文章有詳細介紹，另外也推薦你找好的包車司機',
+    articles: [
+      { title: '峇里島自由行注意事項：15個前往峇里島北部旅遊的小貼士', url: '/blog/2024-08-31-66c895c1fd89780001455e7f/' },
+      { title: '【2026 峇里島包車推薦】網友評鑑司機名人榜：不踩雷真實點評與預約教學', url: '/blog/2024-07-07-668aaea7fd89780001981840/' },
+    ],
+  },
+  {
     keywords: ['inquiry', 'Inquiry', 'INQUIRY', 'enquiry', 'Enquiry',
                'book a tour', 'private tour', 'tour booking', 'tour package', 'book tour',
                'I want to book', 'I\'d like to book', 'I want to join', 'join the tour',
@@ -383,7 +393,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v15'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v16'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
@@ -556,24 +566,27 @@ Candidate articles:
 ${candidateList}`;
     }
     if (lang === 'zh-CN') {
+      const introHint = customIntro ? `\n回答时请以这个重点开头：「${customIntro}」` : '';
       return `你是「峇里岛知识库AI」，代表 gobaligo.id。
 用简体中文简短回答问题（1-3句话）。然后从下方候选文章中，选出真正与问题相关的 1-3 篇，以 [简体中文标题](URL) 格式逐行附在回答后。若无相关文章则不附链接。
-禁止提到「客服」「联系我们」；问到包车报价只说「直接咨询司机」。
+禁止提到「客服」「联系我们」；问到包车报价只说「直接咨询司机」。${introHint}
 
 候选文章：
 ${candidateList}`;
     }
     if (lang === 'zh-HK') {
+      const introHint = customIntro ? `\n回答時請以呢個重點開頭：「${customIntro}」` : '';
       return `你係「峇里島知識庫AI」，代表 gobaligo.id。請用廣東話（香港用語）回覆。
 簡短回答問題（1-3句）。然後從下方候選文章中，揀出真正相關嘅 1-3 篇，以 [標題](URL) 格式逐行附喺回答後面。若無相關文章就唔附連結。
-禁止提到「客服」「聯絡我們」；問到包車報價只係話「直接問司機」。
+禁止提到「客服」「聯絡我們」；問到包車報價只係話「直接問司機」。${introHint}
 
 候選文章：
 ${candidateList}`;
     }
+    const introHint = customIntro ? `\n回答時請以這個重點開頭：「${customIntro}」` : '';
     return `你是「峇里島知識庫AI」，代表 gobaligo.id。
 用繁體中文簡短回答問題（1-3句）。然後從下方候選文章中，選出真正與問題相關的 1-3 篇，以 [標題](URL) 格式逐行附在回答後面。若無相關文章則不附連結。
-禁止提到「客服」「聯繫我們」；問到包車報價只說「直接洽詢司機」。
+禁止提到「客服」「聯繫我們」；問到包車報價只說「直接洽詢司機」。${introHint}
 
 候選文章：
 ${candidateList}`;
