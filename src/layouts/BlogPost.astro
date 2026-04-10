@@ -12,7 +12,7 @@ import { enhancedTitle, enhancedDescription, COMPANION_CAT } from '../utils/seo-
 type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[]; lang?: string; slug?: string };
 const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate, shuffle_h2: shuffleH2 } = Astro.props;
 
-const tocHeadings = headings.filter(h => h.depth === 2 || h.depth === 3);
+const tocHeadings = headings.filter(h => h.depth === 1 || h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= 2;
 
 // OG image：優先用文章內容第一張圖，無圖才用 heroImage
@@ -308,7 +308,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
               </div>
               <ol id="toc-list" class="toc-list">
                 {tocHeadings.map(h => (
-                  <li class={h.depth === 3 ? 'toc-h3' : 'toc-h2'}>
+                  <li class={h.depth === 1 ? 'toc-h1' : h.depth === 3 ? 'toc-h3' : 'toc-h2'}>
                     <a href={`#${h.slug}`}>{h.text}</a>
                   </li>
                 ))}
@@ -1280,9 +1280,11 @@ hr { margin: 1.2em 0 1.8em; }
 
 .toc-list.hidden { display: none; }
 
+.toc-h1 { padding: 0.25em 0; border-top: 1px solid var(--border, #e0d9cc); margin-top: 0.3em; }
 .toc-h2 { padding: 0.2em 0; }
 .toc-h3 { padding: 0.15em 0 0.15em 1.2em; }
 
+.toc-h1 > a,
 .toc-h2 > a,
 .toc-h3 > a {
   color: var(--ocean);
@@ -1294,13 +1296,16 @@ hr { margin: 1.2em 0 1.8em; }
   transition: background 0.12s, color 0.12s;
 }
 
+.toc-h1 > a { font-weight: 700; font-size: 1em; }
 .toc-h2 > a { font-weight: 600; }
 .toc-h3 > a { color: var(--text-light); font-size: 0.95em; }
 
+.toc-h1 > a:hover,
 .toc-h2 > a:hover,
 .toc-h3 > a:hover { background: rgba(201, 168, 76, 0.15); color: var(--gold); }
 
 /* TOC active highlight */
+.toc-h1 > a.active,
 .toc-h2 > a.active,
 .toc-h3 > a.active { color: var(--gold); font-weight: 700; }
 
@@ -1702,13 +1707,21 @@ hr { margin: 1.2em 0 1.8em; }
         // 將 TOC 項目分組：每組 = 一個 H2 <li> + 其後的 H3 <li>
         const tocItems = Array.from(tocList.children) as HTMLElement[];
         const tocGroups = new Map<string, HTMLElement[]>();
+        const tocPostamble: HTMLElement[] = [];
         let currentGroup: HTMLElement[] | null = null;
-        let currentId = '';
+        let inTocPostamble = false;
         for (const li of tocItems) {
+          // toc-h1 及其後的項目視為 postamble，固定在底部
+          if (li.classList.contains('toc-h1')) {
+            inTocPostamble = true;
+          }
+          if (inTocPostamble) {
+            tocPostamble.push(li);
+            continue;
+          }
           const href = li.querySelector('a')?.getAttribute('href') ?? '';
           const id = href.replace('#', '');
           if (li.classList.contains('toc-h2') && h2IdSet.has(id)) {
-            currentId = id;
             currentGroup = [li];
             tocGroups.set(id, currentGroup);
           } else if (currentGroup) {
@@ -1720,6 +1733,7 @@ hr { margin: 1.2em 0 1.8em; }
           const group = tocGroups.get(id);
           if (group) group.forEach(li => tocList.appendChild(li));
         }
+        tocPostamble.forEach(li => tocList.appendChild(li));
       }
     }
   }
