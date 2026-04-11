@@ -319,6 +319,11 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
             <p class="acard-title">2026 峇里島 500 個最新人氣景點一次蒐全</p>
             <span class="acard-arrow">→</span>
           </a>
+          <a href="/blog/2024-02-01-65b60902fd89780001ec8bb1/" class="acard" target="_blank" rel="noopener">
+            <span class="acard-tag">{T.tagNewbie}</span>
+            <p class="acard-title">【新手攻略】第一次去峇里島必看的 32 項旅遊攻略</p>
+            <span class="acard-arrow">→</span>
+          </a>
         </div>
       </div>
 
@@ -876,7 +881,7 @@ function buildAccomSection(areas) {
   areas.forEach(key => { const list = ACCOM_BY_REGION[key]; if (list) items.push(...list); });
   if (items.length === 0) return '';
   const title = LS.secAccom || '🏨 住宿推薦';
-  return `<div class="results-section highlight"><h3 class="section-title">${title}</h3><div class="article-grid">${items.map(cardHtml).join('')}</div></div>`;
+  return `<div class="results-section highlight"><h3 class="section-title">${title}</h3><div class="article-grid">${items.slice(0, 10).map(cardHtml).join('')}</div></div>`;
 }
 
 function buildRouteTip(areas) {
@@ -943,9 +948,9 @@ function buildResults() {
   // Accommodation section
   document.getElementById('accom-section').innerHTML = buildAccomSection(areas);
 
-  // Global picks — shuffle and show 12 of 19
+  // Global picks — shuffle and show 10 of 19
   const shuffled = [...GLOBAL_PICKS].sort(() => Math.random() - 0.5);
-  document.getElementById('global-picks-grid').innerHTML = shuffled.slice(0, 12).map(cardHtml).join('');
+  document.getElementById('global-picks-grid').innerHTML = shuffled.slice(0, 10).map(cardHtml).join('');
 }
 </script>
 
