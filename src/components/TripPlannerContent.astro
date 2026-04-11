@@ -1670,16 +1670,28 @@ function buildAccomSection(areas) {
 }
 
 function buildRouteTip(areas) {
-  const ordered = ROUTE_FLOW.filter(a => areas.includes(a));
+  let ordered = ROUTE_FLOW.filter(a => areas.includes(a));
   if (ordered.length < 2) return '';
+
+  // Preferred last stops in priority order (close to airport)
+  const GOOD_LAST = ['jimbaran', 'uluwatu', 'nusadua', 'sanur', 'kuta', 'seminyak'];
+  const currentLast = ordered[ordered.length - 1];
+  if (!GOOD_LAST.includes(currentLast)) {
+    const bestLast = GOOD_LAST.find(a => ordered.includes(a));
+    if (bestLast) {
+      ordered = [...ordered.filter(a => a !== bestLast), bestLast];
+    }
+  }
+
   const lastArea = ordered[ordered.length - 1];
   const showWarning = AIRPORT_FAR_AREAS.has(lastArea);
+  // Only show reorder tip when the best we could do is still not ideal (e.g. all areas are far)
+  const reorderTip = (!showWarning && !AIRPORT_NEAR_AREAS.has(lastArea) && lastArea !== 'kuta' && lastArea !== 'seminyak')
+    ? `<div class="route-tip-note" style="color: var(--gold); font-size: 0.9rem;">💡 ${LS.routeReorderTip || '建議將最後一天改為金巴蘭、烏魯瓦圖、努沙杜瓦或沙努爾，更接近機場。'}</div>`
+    : '';
   const steps = ordered.map(a => `<span class="route-step">${REGIONS[a].emoji} ${REGIONS[a].name}</span>`);
   const warningHtml = showWarning && LS.airportWarning
     ? `<div class="route-warning">${LS.airportWarning} <a href="${LS.airportWarningUrl}" target="_blank" rel="noopener">${LS.airportWarningLink}</a></div>`
-    : '';
-  const reorderTip = (!showWarning && lastArea && !AIRPORT_NEAR_AREAS.has(lastArea))
-    ? `<div class="route-tip-note" style="color: var(--gold); font-size: 0.9rem;">💡 ${LS.routeReorderTip || '建議將最後一天改為金巴蘭、烏魯瓦圖、努沙杜瓦或沙努爾，更接近機場。'}</div>`
     : '';
   return `<div class="route-tip-box"><div class="route-tip-label">${LS.routeLabel}</div><div class="route-flow"><span class="route-step route-airport">${LS.airport}</span><span class="route-arrow">→</span>${steps.join('<span class="route-arrow">→</span>')}<span class="route-arrow">→</span><span class="route-step route-airport">${LS.airport}</span></div><div class="route-tip-note">${LS.routeNote}<a href="/blog/2024-03-18-65ba3bfefd89780001650f07/" target="_blank" rel="noopener">${LS.routeLink}</a></div>${warningHtml}${reorderTip}</div>`;
 }
