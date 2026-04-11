@@ -33,8 +33,7 @@ const T = {
     btnShare: '分享給旅伴',
     btnWechat: '微信分享',
     btnEdit: '編輯此行程',
-    btnExport: '💾 下載此旅程',
-    btnImport: '📂 導入上次保存',
+    btnExport: '🔗 複製旅程連結',
     btnRestore: '↩️ 載入上次旅程',
     wechatTitle: '用微信掃描二維碼分享',
     wechatClose: '關閉',
@@ -108,8 +107,7 @@ const T = {
     btnShare: '分享俾旅伴',
     btnWechat: '微信分享',
     btnEdit: '編輯此行程',
-    btnExport: '💾 下載此旅程',
-    btnImport: '📂 導入上次保存',
+    btnExport: '🔗 複製旅程連結',
     btnRestore: '↩️ 載入上次旅程',
     wechatTitle: '用微信掃描二維碼分享',
     wechatClose: '關閉',
@@ -183,8 +181,7 @@ const T = {
     btnShare: '分享给旅伴',
     btnWechat: '微信分享',
     btnEdit: '编辑此行程',
-    btnExport: '💾 下载此旅程',
-    btnImport: '📂 导入上次保存',
+    btnExport: '🔗 复制旅程链接',
     btnRestore: '↩️ 载入上次旅程',
     wechatTitle: '用微信扫描二维码分享',
     wechatClose: '关闭',
@@ -258,8 +255,7 @@ const T = {
     btnShare: 'Share with Travel Mates',
     btnWechat: 'Share via WeChat',
     btnEdit: 'Edit This Plan',
-    btnExport: '💾 Download This Trip',
-    btnImport: '📂 Restore Last Save',
+    btnExport: '🔗 Copy Trip Link',
     btnRestore: '↩️ Load Last Trip',
     wechatTitle: 'Scan QR code with WeChat to share',
     wechatClose: 'Close',
@@ -632,11 +628,11 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
 <script define:vars={{ lang }}>
 // ── Client-side i18n for buttons ─────────────────────────────────────
 const clientT = {
-  'zh-tw': { btnRestore: '↩️ 載入上次旅程', btnImport: '📂 導入上次保存' },
-  'zh-hk': { btnRestore: '↩️ 載入上次旅程', btnImport: '📂 導入上次保存' },
-  'zh-cn': { btnRestore: '↩️ 载入上次旅程', btnImport: '📂 导入上次保存' },
-  'en': { btnRestore: '↩️ Load Last Trip', btnImport: '📂 Restore Last Save' },
-}[lang] || { btnRestore: '↩️ Load Last Trip', btnImport: '📂 Restore Last Save' };
+  'zh-tw': { btnRestore: '↩️ 載入上次旅程', btnExportCopied: '✅ 已複製！' },
+  'zh-hk': { btnRestore: '↩️ 載入上次旅程', btnExportCopied: '✅ 已複製！' },
+  'zh-cn': { btnRestore: '↩️ 载入上次旅程', btnExportCopied: '✅ 已复制！' },
+  'en': { btnRestore: '↩️ Load Last Trip', btnExportCopied: '✅ Copied!' },
+}[lang] || { btnRestore: '↩️ Load Last Trip', btnExportCopied: '✅ Copied!' };
 
 // ── i18n ─────────────────────────────────────────────────────────────
 const LANG_STRINGS = {
@@ -1121,16 +1117,15 @@ function showRestoreButton() {
   }
 }
 
-function exportAsJSON() {
-  const saved = { companion: state.companion, days: state.days, interests: state.interests, budget: state.budget, areas: state.areas, itinerary: state.itinerary, allSpots: state.allSpots, timestamp: new Date().toISOString() };
-  const dataStr = JSON.stringify(saved, null, 2);
-  const dataBlob = new Blob([dataStr], { type: 'application/json' });
-  const url = URL.createObjectURL(dataBlob);
-  const link = document.createElement('a');
-  link.href = url;
-  link.download = `trip-plan-${new Date().toISOString().split('T')[0]}.json`;
-  link.click();
-  URL.revokeObjectURL(url);
+function buildTripUrl() {
+  const params = new URLSearchParams();
+  if (state.companion) params.set('c', state.companion);
+  if (state.days) params.set('d', state.days);
+  if (state.interests.length) params.set('i', state.interests.join(','));
+  if (state.budget) params.set('b', state.budget);
+  if (state.areas.length) params.set('a', state.areas.join(','));
+  if (state.allSpots.length) params.set('s', state.allSpots.join(','));
+  return `${window.location.origin}/trip-planner/?${params.toString()}`;
 }
 
 function importFromJSON() {
@@ -1252,15 +1247,7 @@ document.getElementById('btn-restart').addEventListener('click', () => {
 });
 
 document.getElementById('btn-share').addEventListener('click', () => {
-  const params = new URLSearchParams();
-  if (state.companion) params.set('c', state.companion);
-  if (state.days) params.set('d', state.days);
-  if (state.interests.length) params.set('i', state.interests.join(','));
-  if (state.budget) params.set('b', state.budget);
-  if (state.areas.length) params.set('a', state.areas.join(','));
-  if (state.allSpots.length) params.set('s', state.allSpots.join(','));
-  const shareUrl = `${window.location.origin}/trip-planner/?${params.toString()}`;
-
+  const shareUrl = buildTripUrl();
   if (navigator.share) {
     navigator.share({ title: '峇里島行程規劃', url: shareUrl }).catch(err => console.log(err));
   } else {
@@ -1273,14 +1260,7 @@ document.getElementById('btn-share').addEventListener('click', () => {
 });
 
 document.getElementById('btn-wechat').addEventListener('click', () => {
-  const params = new URLSearchParams();
-  if (state.companion) params.set('c', state.companion);
-  if (state.days) params.set('d', state.days);
-  if (state.interests.length) params.set('i', state.interests.join(','));
-  if (state.budget) params.set('b', state.budget);
-  if (state.areas.length) params.set('a', state.areas.join(','));
-  if (state.allSpots.length) params.set('s', state.allSpots.join(','));
-  const shareUrl = `${window.location.origin}/trip-planner/?${params.toString()}`;
+  const shareUrl = buildTripUrl();
   const qrUrl = `https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=${encodeURIComponent(shareUrl)}`;
 
   document.getElementById('wechat-qr').src = qrUrl;
@@ -1303,16 +1283,17 @@ document.getElementById('btn-edit').addEventListener('click', () => {
 });
 
 document.getElementById('btn-export').addEventListener('click', () => {
-  exportAsJSON();
+  const url = buildTripUrl();
+  const btn = document.getElementById('btn-export');
+  const original = btn.textContent;
+  navigator.clipboard.writeText(url).then(() => {
+    btn.textContent = clientT.btnExportCopied;
+    setTimeout(() => { btn.textContent = original; }, 2000);
+  }).catch(() => {
+    prompt('複製旅程連結：', url);
+  });
 });
 
-const btnImport = document.createElement('button');
-btnImport.className = 'btn-import';
-btnImport.id = 'btn-import';
-btnImport.textContent = clientT.btnImport;
-btnImport.addEventListener('click', () => {
-  importFromJSON();
-});
 const actions = document.querySelector('#step-1 .step-actions');
 if (actions) {
   actions.insertBefore(btnImport, actions.firstChild);
@@ -1897,18 +1878,6 @@ function buildResults() {
   box-shadow: 0 6px 16px rgba(0, 102, 153, 0.3);
 }
 
-.btn-import {
-  padding: 0.8em 2em; background: #5ab1e0; color: white;
-  border: none; border-radius: 12px; font-weight: 700;
-  font-size: 1rem; cursor: pointer; font-family: inherit;
-  transition: background 0.2s, color 0.2s, transform 0.15s, box-shadow 0.2s;
-  box-shadow: 0 4px 12px rgba(90, 177, 224, 0.2);
-}
-.btn-import:hover {
-  background: #3a95d4;
-  transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(90, 177, 224, 0.3);
-}
 
 .btn-restore {
   padding: 0.8em 2em; background: #5ab1e0; color: white;
