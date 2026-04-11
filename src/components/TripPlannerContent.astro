@@ -1394,8 +1394,23 @@ function listItemHtml({title,url,tag}) {
 function regionSection(key) {
   const r = REGIONS[key]; if(!r) return '';
   const desc = LS.regionDescs?.[key] || '';
-  const items = [r.guide ? listItemHtml(r.guide) : '', ...r.spots.map(listItemHtml)].join('');
-  return `<div class="results-section region-section"><h3 class="section-title region-title"><span>${r.emoji}</span>${r.name}<span class="region-desc">${desc}</span></h3><div class="article-list">${items}</div></div>`;
+
+  // Selected spots for this region — shown at top
+  const seenUrls = new Set();
+  const selectedSpotItems = (state.allSpots || [])
+    .filter(val => SPOT_REGION_MAP[val] === key)
+    .map(val => { const s = ALL_SPOTS_DATA[val]; if (!s || seenUrls.has(s.url)) return ''; seenUrls.add(s.url); return listItemHtml(s); })
+    .filter(Boolean).join('');
+  const spotBlock = selectedSpotItems
+    ? `<div class="region-selected-spots"><div class="region-spots-label">${LS.secSpots || '📍 你選擇的景點'}</div><div class="article-list">${selectedSpotItems}</div></div>`
+    : '';
+
+  // Regular region articles (skip any URL already shown above)
+  const items = [r.guide ? listItemHtml(r.guide) : '', ...r.spots.map(listItemHtml)]
+    .filter(html => { if (!html) return false; const m = html.match(/href="([^"]+)"/); return m ? !seenUrls.has(m[1]) : true; })
+    .join('');
+
+  return `<div class="results-section region-section"><h3 class="section-title region-title"><span>${r.emoji}</span>${r.name}<span class="region-desc">${desc}</span></h3>${spotBlock}<div class="article-list">${items}</div></div>`;
 }
 
 function extraSection(key) {
@@ -1645,26 +1660,6 @@ const SPOT_IMAGES = {
   window.addEventListener('resize', () => { if (activeBtn) positionPopover(activeBtn); });
 })();
 
-function buildSpotsSection() {
-  const selected = [...(state.allSpots || [])];
-  if (selected.length === 0) return '';
-  // Sort spots by region to match the route tip order
-  selected.sort((a, b) => {
-    const ia = ROUTE_FLOW.indexOf(SPOT_REGION_MAP[a] || '');
-    const ib = ROUTE_FLOW.indexOf(SPOT_REGION_MAP[b] || '');
-    return (ia === -1 ? 999 : ia) - (ib === -1 ? 999 : ib);
-  });
-  const title = LS.secSpots || '📍 你選擇的景點攻略';
-  const seen = new Set();
-  const items = selected.map(val => {
-    const s = ALL_SPOTS_DATA[val];
-    if (!s || seen.has(s.url)) return '';
-    seen.add(s.url);
-    return listItemHtml(s);
-  }).filter(Boolean).join('');
-  if (!items) return '';
-  return `<div class="results-section highlight"><h3 class="section-title">${title}</h3><div class="article-list">${items}</div></div>`;
-}
 
 function buildAccomSection(areas) {
   const items = [];
@@ -1712,7 +1707,7 @@ function buildResults() {
 
   // Sections
   document.getElementById('route-tip').innerHTML = buildRouteTip(areas);
-  document.getElementById('spots-section').innerHTML = buildSpotsSection();
+  document.getElementById('spots-section').innerHTML = '';
   document.getElementById('region-sections').innerHTML = areas.map(regionSection).join('');
 
   // Extras
@@ -1977,6 +1972,8 @@ function buildResults() {
 }
 :global(.region-title) { display: flex; align-items: baseline; gap: 0.4em; flex-wrap: wrap; }
 :global(.region-desc) { font-size: 0.82rem; font-weight: 400; color: #888; margin-left: 0.2em; }
+:global(.region-selected-spots) { margin-bottom: 0.8rem; padding-bottom: 0.8rem; border-bottom: 1.5px dashed #e0d9ce; }
+:global(.region-spots-label) { font-size: 0.75rem; font-weight: 700; color: var(--gold, #c5a059); margin-bottom: 0.4rem; letter-spacing: 0.02em; }
 
 /* ── Card grid (global) ── */
 :global(.article-grid) { display: grid; grid-template-columns: repeat(auto-fill, minmax(230px, 1fr)); gap: 0.8rem; }
