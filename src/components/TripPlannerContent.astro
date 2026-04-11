@@ -602,6 +602,7 @@ const LANG_STRINGS = {
     routeLabel: '🗺️ 建議移動順序（從機場出發，避免走回頭路）',
     routeNote: '依地理位置順向移動，塞車時間最少。詳細規劃參考：',
     routeLink: '8天不塞車攻略',
+    routeReorderTip: '💡 建議將最後一天改為金巴蘭、烏魯瓦圖、努沙杜瓦或沙努爾，更接近機場。',
     airport: '✈️ 機場',
     extras: {
       surf:        '🏄 衝浪推薦',
@@ -649,6 +650,7 @@ const LANG_STRINGS = {
     routeLabel: '🗺️ 建議移動順序（從機場出發，避免走回頭路）',
     routeNote: '依地理位置順向移動，塞車時間最少。詳細參考：',
     routeLink: '8天不塞車攻略',
+    routeReorderTip: '💡 建議將最後一天改為金巴蘭、烏魯瓦圖、努沙杜瓦或沙努爾，更接近機場。',
     airport: '✈️ 機場',
     extras: {
       surf:        '🏄 衝浪推薦',
@@ -696,6 +698,7 @@ const LANG_STRINGS = {
     routeLabel: '🗺️ 建议移动顺序（从机场出发，避免走回头路）',
     routeNote: '依地理位置顺向移动，堵车时间最少。详细规划参考：',
     routeLink: '8天不堵车攻略',
+    routeReorderTip: '💡 建议将最后一天改为金巴兰、乌鲁瓦图、努沙杜瓦或沙努尔，更接近机场。',
     airport: '✈️ 机场',
     extras: {
       surf:        '🏄 冲浪推荐',
@@ -743,6 +746,7 @@ const LANG_STRINGS = {
     routeLabel: '🗺️ Suggested travel order (no backtracking from the airport)',
     routeNote: 'Follow this geographic sequence to minimise traffic. Details: ',
     routeLink: '8-day anti-traffic guide',
+    routeReorderTip: '💡 Consider ending your trip in Jimbaran, Uluwatu, Nusa Dua or Sanur for easier airport access.',
     airport: '✈️ Airport',
     extras: {
       surf:        '🏄 Surfing Guides',
@@ -1093,10 +1097,13 @@ function analyzeItinerary(text) {
 }
 
 // ── Recommendation Engine ─────────────────────────────────────────────
-// Route flows inland→east first, then back to airport-proximate south/west areas last
-const ROUTE_FLOW = ['canggu','seminyak','ubud','east','sanur','penida','lembongan','komodo','nusadua','uluwatu','jimbaran','kuta'];
-// Areas far from airport — warn if these are last in planned route
-const AIRPORT_FAR_AREAS = new Set(['ubud','east']);
+// Route flows: 機場 → 庫塔 → 水明漾 → 長谷 → 烏布 → 東部 → 努沙杜瓦 → 金巴蘭 → 機場
+// North → Central → South/East (back to airport)
+const ROUTE_FLOW = ['kuta', 'seminyak', 'canggu', 'ubud', 'east', 'sanur', 'penida', 'lembongan', 'komodo', 'nusadua', 'uluwatu', 'jimbaran'];
+// Areas far from airport — avoid as last stop
+const AIRPORT_FAR_AREAS = new Set(['ubud', 'east', 'penida', 'lembongan', 'komodo']);
+// Ideal last-day areas (closest to airport)
+const AIRPORT_NEAR_AREAS = new Set(['jimbaran', 'uluwatu', 'nusadua', 'sanur']);
 
 const SPOT_REGION_MAP = {
   u_palace:'ubud', u_market:'ubud', u_tirta:'ubud', u_monkey:'ubud', u_terraces:'ubud',
@@ -1285,7 +1292,10 @@ function buildRouteTip(areas) {
   const warningHtml = showWarning && LS.airportWarning
     ? `<div class="route-warning">${LS.airportWarning} <a href="${LS.airportWarningUrl}" target="_blank" rel="noopener">${LS.airportWarningLink}</a></div>`
     : '';
-  return `<div class="route-tip-box"><div class="route-tip-label">${LS.routeLabel}</div><div class="route-flow"><span class="route-step route-airport">${LS.airport}</span><span class="route-arrow">→</span>${steps.join('<span class="route-arrow">→</span>')}<span class="route-arrow">→</span><span class="route-step route-airport">${LS.airport}</span></div><div class="route-tip-note">${LS.routeNote}<a href="/blog/2024-03-18-65ba3bfefd89780001650f07/" target="_blank" rel="noopener">${LS.routeLink}</a></div>${warningHtml}</div>`;
+  const reorderTip = (!showWarning && lastArea && !AIRPORT_NEAR_AREAS.has(lastArea))
+    ? `<div class="route-tip-note" style="color: var(--gold); font-size: 0.9rem;">💡 ${LS.routeReorderTip || '建議將最後一天改為金巴蘭、烏魯瓦圖、努沙杜瓦或沙努爾，更接近機場。'}</div>`
+    : '';
+  return `<div class="route-tip-box"><div class="route-tip-label">${LS.routeLabel}</div><div class="route-flow"><span class="route-step route-airport">${LS.airport}</span><span class="route-arrow">→</span>${steps.join('<span class="route-arrow">→</span>')}<span class="route-arrow">→</span><span class="route-step route-airport">${LS.airport}</span></div><div class="route-tip-note">${LS.routeNote}<a href="/blog/2024-03-18-65ba3bfefd89780001650f07/" target="_blank" rel="noopener">${LS.routeLink}</a></div>${warningHtml}${reorderTip}</div>`;
 }
 
 // ── Build Results ─────────────────────────────────────────────────────
