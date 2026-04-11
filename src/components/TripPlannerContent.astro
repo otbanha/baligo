@@ -639,7 +639,15 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
   </div>
 </main>
 
-<script define:vars={{ lang, T }}>
+<script define:vars={{ lang }}>
+// ── Client-side i18n for buttons ─────────────────────────────────────
+const clientT = {
+  'zh-tw': { btnRestore: '↩️ 載入上次旅程', btnImport: '📂 導入上次保存' },
+  'zh-hk': { btnRestore: '↩️ 載入上次旅程', btnImport: '📂 導入上次保存' },
+  'zh-cn': { btnRestore: '↩️ 载入上次旅程', btnImport: '📂 导入上次保存' },
+  'en': { btnRestore: '↩️ Load Last Trip', btnImport: '📂 Restore Last Save' },
+}[lang] || { btnRestore: '↩️ Load Last Trip', btnImport: '📂 Restore Last Save' };
+
 // ── i18n ─────────────────────────────────────────────────────────────
 const LANG_STRINGS = {
   'zh-tw': {
@@ -1101,7 +1109,7 @@ function showRestoreButton() {
   const restoreBtn = document.createElement('button');
   restoreBtn.className = 'btn-restore';
   restoreBtn.id = 'btn-restore';
-  restoreBtn.textContent = T.btnRestore;
+  restoreBtn.textContent = clientT.btnRestore;
   restoreBtn.addEventListener('click', () => {
     document.querySelectorAll('.chip').forEach(c => c.classList.remove('selected'));
     document.getElementById('q-itinerary').value = '';
@@ -1310,7 +1318,7 @@ document.getElementById('btn-export').addEventListener('click', () => {
 const btnImport = document.createElement('button');
 btnImport.className = 'btn-import';
 btnImport.id = 'btn-import';
-btnImport.textContent = T.btnImport;
+btnImport.textContent = clientT.btnImport;
 btnImport.addEventListener('click', () => {
   importFromJSON();
 });
