@@ -30,6 +30,7 @@ const T = {
     placeholder: '例如：\nD1 晚上抵達庫塔，入住飯店\nD2 烏布：梯田、猴子森林\nD3 ???（不知道要幹嘛）\nD4 努沙佩尼達一日遊\nD5 SPA + 金巴蘭海鮮',
     btnNext1: '下一步：填寫行程草稿 →', btnBack: '← 上一步',
     btnNext2: '查看推薦攻略 →', btnRestart: '重新規劃 ↺',
+    btnShare: '分享給旅伴',
     s3title: '你的個人化推薦',
     secMustRead: '📚 規劃前必讀', secGlobal: '🌏 全島必看',
     tagNewbie: '新手指南', tagQA: '新手Q&A', tagRoute: '行程參考',
@@ -97,6 +98,7 @@ const T = {
     placeholder: '例如：\nD1 晚上抵達庫塔，入住酒店\nD2 烏布：梯田、猴子森林\nD3 ???（唔知去邊）\nD4 努沙佩尼達一日遊\nD5 SPA + 金巴蘭海鮮',
     btnNext1: '下一步：填寫行程草稿 →', btnBack: '← 上一步',
     btnNext2: '睇推薦攻略 →', btnRestart: '重新規劃 ↺',
+    btnShare: '分享俾旅伴',
     s3title: '你的個人化推薦',
     secMustRead: '📚 出發前必讀', secGlobal: '🌏 全島必看',
     tagNewbie: '新手指南', tagQA: '新手Q&A', tagRoute: '行程參考',
@@ -164,6 +166,7 @@ const T = {
     placeholder: '例如：\nD1 晚上抵达库塔，入住酒店\nD2 乌布：梯田、猴子森林\nD3 ???（不知道去哪）\nD4 努沙佩尼达一日游\nD5 SPA + 金巴兰海鲜',
     btnNext1: '下一步：填写行程草稿 →', btnBack: '← 上一步',
     btnNext2: '查看推荐攻略 →', btnRestart: '重新规划 ↺',
+    btnShare: '分享给旅伴',
     s3title: '你的个性化推荐',
     secMustRead: '📚 规划前必读', secGlobal: '🌏 全岛必看',
     tagNewbie: '新手指南', tagQA: '新手Q&A', tagRoute: '行程参考',
@@ -231,6 +234,7 @@ const T = {
     placeholder: 'e.g.:\nDay 1: Arrive Kuta, check in\nDay 2: Ubud rice terraces, Monkey Forest\nDay 3: ??? (no idea)\nDay 4: Nusa Penida day trip\nDay 5: Spa + Jimbaran seafood',
     btnNext1: 'Next: Draft Itinerary →', btnBack: '← Back',
     btnNext2: 'See Recommendations →', btnRestart: 'Start Over ↺',
+    btnShare: 'Share with Travel Mates',
     s3title: 'Your Personalised Picks',
     secMustRead: '📚 Must-Read Before You Go', secGlobal: '🌏 Island-Wide Essentials',
     tagNewbie: 'Beginner Guide', tagQA: 'FAQ', tagRoute: 'Itinerary Reference',
@@ -577,6 +581,10 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
       <div class="results-section highlight">
         <h3 class="section-title">{T.secGlobal}</h3>
         <div class="article-grid" id="global-picks-grid"></div>
+      </div>
+
+      <div class="share-wrap">
+        <button class="btn-share" id="btn-share">{T.btnShare}</button>
       </div>
 
       <div class="restart-wrap">
@@ -1031,6 +1039,19 @@ const GLOBAL_PICKS = [
 // ── State ─────────────────────────────────────────────────────────────
 const state = { companion:'', days:'', interests:[], budget:'', areas:[], itinerary:'', allSpots:[] };
 
+// ── Load shared parameters from URL ────────────────────────────────────
+function loadSharedState() {
+  const params = new URLSearchParams(window.location.search);
+  const c = params.get('c'); if (c) { state.companion = c; document.querySelector(`#q-companion .chip[data-val="${c}"]`)?.classList.add('selected'); }
+  const d = params.get('d'); if (d) { state.days = d; document.querySelector(`#q-days .chip[data-val="${d}"]`)?.classList.add('selected'); }
+  const i = params.get('i'); if (i) { i.split(',').forEach(v => { state.interests.push(v); document.querySelector(`#q-interests .chip[data-val="${v}"]`)?.classList.add('selected'); }); }
+  const b = params.get('b'); if (b) { state.budget = b; document.querySelector(`#q-budget .chip[data-val="${b}"]`)?.classList.add('selected'); }
+  const a = params.get('a'); if (a) { a.split(',').forEach(v => { state.areas.push(v); document.querySelector(`#q-areas .chip[data-val="${v}"]`)?.classList.add('selected'); }); }
+  const s = params.get('s'); if (s) { state.allSpots = s.split(','); s.split(',').forEach(v => { document.querySelector(`[id^="q-spots-"] .chip[data-val="${v}"]`)?.classList.add('selected'); }); }
+  if (c || d || i || b || a || s) showStep(3); // Jump to results if params provided
+}
+loadSharedState();
+
 // ── Chip Selection ────────────────────────────────────────────────────
 document.querySelectorAll('.chips').forEach(group => {
   const isMulti = group.classList.contains('multi');
@@ -1075,6 +1096,27 @@ document.getElementById('btn-restart').addEventListener('click', () => {
   document.getElementById('q-itinerary').value = '';
   Object.assign(state, { companion:'', days:'', interests:[], budget:'', areas:[], itinerary:'', allSpots:[] });
   showStep(1);
+});
+
+document.getElementById('btn-share').addEventListener('click', () => {
+  const params = new URLSearchParams();
+  if (state.companion) params.set('c', state.companion);
+  if (state.days) params.set('d', state.days);
+  if (state.interests.length) params.set('i', state.interests.join(','));
+  if (state.budget) params.set('b', state.budget);
+  if (state.areas.length) params.set('a', state.areas.join(','));
+  if (state.allSpots.length) params.set('s', state.allSpots.join(','));
+  const shareUrl = `${window.location.origin}/trip-planner/?${params.toString()}`;
+
+  if (navigator.share) {
+    navigator.share({ title: '峇里島行程規劃', url: shareUrl }).catch(err => console.log(err));
+  } else {
+    navigator.clipboard.writeText(shareUrl).then(() => {
+      alert('✅ 分享連結已復製到剪貼板！');
+    }).catch(() => {
+      prompt('分享連結：', shareUrl);
+    });
+  }
 });
 
 // ── Itinerary Analysis ────────────────────────────────────────────────
@@ -1441,6 +1483,19 @@ function buildResults() {
 }
 .btn-restart:hover { border-color: var(--gold); color: var(--ocean); }
 
+.btn-share {
+  padding: 0.8em 2em; background: var(--ocean); color: white;
+  border: none; border-radius: 12px; font-weight: 700;
+  font-size: 1rem; cursor: pointer; font-family: inherit;
+  transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+  box-shadow: 0 4px 12px rgba(26, 54, 93, 0.2);
+}
+.btn-share:hover {
+  background: var(--forest, #2d6a4f);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(26, 54, 93, 0.3);
+}
+
 .results-header { margin-bottom: 1.5rem; }
 .results-summary { font-size: 0.95rem; color: var(--text-light); margin: 0.3rem 0 0; }
 
@@ -1564,6 +1619,7 @@ function buildResults() {
 :global(.route-warning a) { color: var(--gold-light); text-decoration: underline; text-underline-offset: 2px; }
 
 .restart-wrap { text-align: center; padding: 1.5rem 0 0.5rem; }
+.share-wrap { text-align: center; padding: 2rem 0 1rem; }
 
 @media (max-width: 600px) {
   .wizard-wrap { padding: 1.2rem 0.75rem 3rem; }
