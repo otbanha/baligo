@@ -1344,6 +1344,7 @@ const SPOT_REGION_MAP = {
   nd_devdan:'nusadua', nd_turtle_island:'nusadua', nd_spa:'nusadua', nd_snorkel:'nusadua',
   sa_icon:'sanur', sa_cycling:'sanur', sa_turtle:'sanur', sa_fishing:'sanur',
   sa_aerox:'sanur', sa_climbing:'sanur', sa_spa:'sanur', sa_snorkel:'sanur',
+  rafting:'ubud', atv:'ubud', volcano:'east',
 };
 
 function buildTargetAreas(mentioned) {
@@ -1647,6 +1648,12 @@ const SPOT_IMAGES = {
 function buildSpotsSection() {
   const selected = [...(state.allSpots || [])];
   if (selected.length === 0) return '';
+  // Sort spots by region to match the route tip order
+  selected.sort((a, b) => {
+    const ia = ROUTE_FLOW.indexOf(SPOT_REGION_MAP[a] || '');
+    const ib = ROUTE_FLOW.indexOf(SPOT_REGION_MAP[b] || '');
+    return (ia === -1 ? 999 : ia) - (ib === -1 ? 999 : ib);
+  });
   const title = LS.secSpots || '📍 你選擇的景點攻略';
   const seen = new Set();
   const items = selected.map(val => {
