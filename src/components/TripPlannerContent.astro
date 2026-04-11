@@ -25,7 +25,7 @@ const T = {
     q5: '已想去的地區？', q5hint: '可多選，不確定就跳過',
     a_kuta: '🏖️ 庫塔/雷吉安', a_seminyak: '💅 水明漾', a_canggu: '☕ 倉古/長谷',
     a_ubud: '🌿 烏布', a_jimbaran: '🦞 金巴蘭', a_uluwatu: '🌅 烏魯瓦圖',
-    a_nusadua: '🏨 努沙杜瓦', a_sanur: '⛵ 沙努爾', a_penida: '🤿 努沙佩尼達', a_east: '⛩️ 東部峇里',
+    a_nusadua: '🏨 努沙杜瓦', a_sanur: '⛵ 沙努爾', a_penida: '🤿 努沙佩尼達', a_lembongan: '🏝️ 藍夢島', a_komodo: '🦎 科摩多島', a_east: '⛩️ 東部峇里',
     q6: '把你的草稿行程貼上來', q6hint: '選填，我幫你找出空缺和推薦景點',
     placeholder: '例如：\nD1 晚上抵達庫塔，入住飯店\nD2 烏布：梯田、猴子森林\nD3 ???（不知道要幹嘛）\nD4 努沙佩尼達一日遊\nD5 SPA + 金巴蘭海鮮',
     btnNext1: '下一步：填寫行程草稿 →', btnBack: '← 上一步',
@@ -36,6 +36,39 @@ const T = {
     tagAccom: '住宿選擇', tagMap: '景點地圖',
     tagFood: '美食', tagSpa: 'SPA按摩', tagSunset: '必體驗',
     tagSouvenir: '購物', tagRain: '備案',
+    q_spots: '有特定想去的景點嗎？', q_spots_hint: '可多選',
+    spots_ubud: '🌿 烏布必訪景點',
+    secSpots: '📍 你選擇的景點攻略',
+    su_palace: '烏布皇宮', su_market: '烏布市場', su_tirta: '聖泉寺',
+    su_monkey: '聖猴森林', su_terraces: '烏布梯田', su_skywalk: '烏布天空步道',
+    su_coffee: '火山咖啡', su_zoo: '峇里島野生動物園', su_waterfall: '瀑布探秘',
+    su_fairy: '仙女園', su_junglepool: '烏布叢林泳池俱樂部', su_jeep: '日出火山吉普車',
+    su_singing: '頌缽音療', su_swing: '叢林鞦韆', su_mario: '叢林瑪利歐賽車',
+    su_food: '想吃烏布美食', u_spa: '烏布SPA', u_penglipuran: 'Penglipuran 傳統村落',
+    spots_kuta: '🏖️ 庫塔必訪景點',
+    k_surf: '庫塔海灘學衝浪', k_waterbom: 'Waterbom 水上樂園', k_beachwalk: 'Beachwalk 購物中心',
+    k_turtle: '海龜中心', k_beerbus: '庫塔啤酒巴士', k_food: '庫塔美食', k_spa: 'SPA按摩',
+    spots_seminyak: '💅 水明漾必訪景點',
+    se_daytour: '水明漾一日遊', se_surf: '水明漾衝浪', se_food: '水明漾美食',
+    se_club: '水明漾五大夜店', se_spa: 'SPA按摩',
+    spots_canggu: '☕ 長谷必訪景點',
+    cg_tanah: '海神廟（Tanah Lot）', cg_labrisa: 'La Brisa 最美餐廳', cg_horse: '沙灘騎馬',
+    cg_nuanu: 'Nuanu Creative City', cg_surf: '長谷衝浪', cg_spa: 'SPA按摩',
+    spots_jimbaran: '🦞 金巴蘭必訪景點',
+    ji_gwk: '神鷹文化廣場（GWK）', ji_rockbar: '預約 Rock Bar', ji_seafood: '夕陽海鮮餐廳',
+    ji_shopping: '金巴蘭逛街', ji_annspa: '台灣老闆娘五星SPA', ji_spa: 'SPA按摩',
+    spots_uluwatu: '🌅 烏魯瓦圖必訪景點',
+    ul_temple: '烏魯瓦圖廟', ul_kecak: '震撼火舞（Kecak）', ul_oneeighty: 'Oneeighty 懸崖泳池',
+    ul_highway: '藍色/斷崖公路', ul_beach: '秘境沙灘探索', ul_paraglide: '玩滑翔翼',
+    ul_vw: 'VW敞篷車觀光', ul_surf: '衝浪課程', ul_spa: 'SPA按摩',
+    spots_nusadua: '🏨 努沙杜瓦必訪景點',
+    nd_buffet: '五星餐廳吃到飽', nd_lobster: '龍蝦先生海鮮大餐', nd_bali_collection: 'Bali Collection 購物',
+    nd_watersport: '水上活動大本營', nd_devdan: 'Devdan Show 天譚秀', nd_turtle_island: '海龜島+玻璃船',
+    nd_spa: 'SPA按摩', nd_snorkel: '（兒童）浮潛',
+    spots_sanur: '⛵ 沙努爾必訪景點',
+    sa_icon: 'Icon Bali 購物中心', sa_cycling: '海灘日出自行車', sa_turtle: '海龜中心',
+    sa_fishing: '出海釣魚', sa_aerox: 'AeroXSpace 室內遊樂場', sa_climbing: "Clip'n'Climb 攀岩",
+    sa_spa: 'SPA按摩', sa_snorkel: '離岸浮潛',
   },
   'zh-hk': {
     badge: '免費規劃工具', title: '峇里島行程規劃',
@@ -59,7 +92,7 @@ const T = {
     q5: '想去哪個地區？', q5hint: '可多選，唔肯定就跳過',
     a_kuta: '🏖️ 庫塔/雷吉安', a_seminyak: '💅 水明漾', a_canggu: '☕ 長谷/倉古',
     a_ubud: '🌿 烏布', a_jimbaran: '🦞 金巴蘭', a_uluwatu: '🌅 烏魯瓦圖',
-    a_nusadua: '🏨 努沙杜瓦', a_sanur: '⛵ 沙努爾', a_penida: '🤿 努沙佩尼達', a_east: '⛩️ 峇里東部',
+    a_nusadua: '🏨 努沙杜瓦', a_sanur: '⛵ 沙努爾', a_penida: '🤿 努沙佩尼達', a_lembongan: '🏝️ 藍夢島', a_komodo: '🦎 科摩多島', a_east: '⛩️ 峇里東部',
     q6: '貼上你的行程草稿', q6hint: '自選，我幫你搵出空缺同推薦景點',
     placeholder: '例如：\nD1 晚上抵達庫塔，入住酒店\nD2 烏布：梯田、猴子森林\nD3 ???（唔知去邊）\nD4 努沙佩尼達一日遊\nD5 SPA + 金巴蘭海鮮',
     btnNext1: '下一步：填寫行程草稿 →', btnBack: '← 上一步',
@@ -70,6 +103,39 @@ const T = {
     tagAccom: '住宿選擇', tagMap: '景點地圖',
     tagFood: '美食', tagSpa: 'SPA按摩', tagSunset: '必體驗',
     tagSouvenir: '購物', tagRain: '備案',
+    q_spots: '有特定想去嘅景點嗎？', q_spots_hint: '可多選',
+    spots_ubud: '🌿 烏布必訪景點',
+    secSpots: '📍 你選擇嘅景點攻略',
+    su_palace: '烏布皇宮', su_market: '烏布市場', su_tirta: '聖泉寺',
+    su_monkey: '聖猴森林', su_terraces: '烏布梯田', su_skywalk: '烏布天空步道',
+    su_coffee: '火山咖啡', su_zoo: '峇里島野生動物園', su_waterfall: '瀑布探秘',
+    su_fairy: '仙女園', su_junglepool: '烏布叢林泳池俱樂部', su_jeep: '日出火山吉普車',
+    su_singing: '頌缽音療', su_swing: '叢林鞦韆', su_mario: '叢林瑪利歐賽車',
+    su_food: '食烏布美食', u_spa: '烏布SPA', u_penglipuran: 'Penglipuran 傳統村落',
+    spots_kuta: '🏖️ 庫塔必訪景點',
+    k_surf: '庫塔海灘學衝浪', k_waterbom: 'Waterbom 水上樂園', k_beachwalk: 'Beachwalk 購物中心',
+    k_turtle: '海龜中心', k_beerbus: '庫塔啤酒巴士', k_food: '庫塔美食', k_spa: 'SPA按摩',
+    spots_seminyak: '💅 水明漾必訪景點',
+    se_daytour: '水明漾一日遊', se_surf: '水明漾衝浪', se_food: '水明漾美食',
+    se_club: '水明漾五大夜店', se_spa: 'SPA按摩',
+    spots_canggu: '☕ 長谷必訪景點',
+    cg_tanah: '海神廟（Tanah Lot）', cg_labrisa: 'La Brisa 最美餐廳', cg_horse: '沙灘騎馬',
+    cg_nuanu: 'Nuanu Creative City', cg_surf: '長谷衝浪', cg_spa: 'SPA按摩',
+    spots_jimbaran: '🦞 金巴蘭必訪景點',
+    ji_gwk: '神鷹文化廣場（GWK）', ji_rockbar: '預約 Rock Bar', ji_seafood: '夕陽海鮮餐廳',
+    ji_shopping: '金巴蘭行街', ji_annspa: '台灣老闆娘五星SPA', ji_spa: 'SPA按摩',
+    spots_uluwatu: '🌅 烏魯瓦圖必訪景點',
+    ul_temple: '烏魯瓦圖廟', ul_kecak: '震撼火舞（Kecak）', ul_oneeighty: 'Oneeighty 懸崖泳池',
+    ul_highway: '藍色/斷崖公路', ul_beach: '秘境沙灘探索', ul_paraglide: '玩滑翔翼',
+    ul_vw: 'VW敞篷車觀光', ul_surf: '衝浪課程', ul_spa: 'SPA按摩',
+    spots_nusadua: '🏨 努沙杜瓦必訪景點',
+    nd_buffet: '五星餐廳任食', nd_lobster: '龍蝦先生海鮮大餐', nd_bali_collection: 'Bali Collection 購物',
+    nd_watersport: '水上活動大本營', nd_devdan: 'Devdan Show 天譚秀', nd_turtle_island: '海龜島+玻璃船',
+    nd_spa: 'SPA按摩', nd_snorkel: '（兒童）浮潛',
+    spots_sanur: '⛵ 沙努爾必訪景點',
+    sa_icon: 'Icon Bali 購物中心', sa_cycling: '海灘日出自行車', sa_turtle: '海龜中心',
+    sa_fishing: '出海釣魚', sa_aerox: 'AeroXSpace 室內遊樂場', sa_climbing: "Clip'n'Climb 攀岩",
+    sa_spa: 'SPA按摩', sa_snorkel: '離岸浮潛',
   },
   'zh-cn': {
     badge: '免费规划工具', title: '巴厘岛行程规划',
@@ -93,7 +159,7 @@ const T = {
     q5: '已想去的地区？', q5hint: '可多选，不确定就跳过',
     a_kuta: '🏖️ 库塔/雷吉安', a_seminyak: '💅 水明漾', a_canggu: '☕ 仓古/长谷',
     a_ubud: '🌿 乌布', a_jimbaran: '🦞 金巴兰', a_uluwatu: '🌅 乌鲁瓦图',
-    a_nusadua: '🏨 努沙杜瓦', a_sanur: '⛵ 沙努尔', a_penida: '🤿 努沙佩尼达', a_east: '⛩️ 巴里岛东部',
+    a_nusadua: '🏨 努沙杜瓦', a_sanur: '⛵ 沙努尔', a_penida: '🤿 努沙佩尼达', a_lembongan: '🏝️ 蓝梦岛', a_komodo: '🦎 科莫多岛', a_east: '⛩️ 巴里岛东部',
     q6: '把你的草稿行程贴上来', q6hint: '选填，我帮你找出空缺和推荐景点',
     placeholder: '例如：\nD1 晚上抵达库塔，入住酒店\nD2 乌布：梯田、猴子森林\nD3 ???（不知道去哪）\nD4 努沙佩尼达一日游\nD5 SPA + 金巴兰海鲜',
     btnNext1: '下一步：填写行程草稿 →', btnBack: '← 上一步',
@@ -104,6 +170,39 @@ const T = {
     tagAccom: '住宿选择', tagMap: '景点地图',
     tagFood: '美食', tagSpa: 'SPA按摩', tagSunset: '必体验',
     tagSouvenir: '购物', tagRain: '备案',
+    q_spots: '有特定想去的景点吗？', q_spots_hint: '可多选',
+    spots_ubud: '🌿 乌布必访景点',
+    secSpots: '📍 你选择的景点攻略',
+    su_palace: '乌布皇宫', su_market: '乌布市场', su_tirta: '圣泉寺',
+    su_monkey: '圣猴森林', su_terraces: '乌布梯田', su_skywalk: '乌布天空步道',
+    su_coffee: '火山咖啡', su_zoo: '巴里岛野生动物园', su_waterfall: '瀑布探秘',
+    su_fairy: '仙女园', su_junglepool: '乌布丛林泳池俱乐部', su_jeep: '日出火山吉普车',
+    su_singing: '颂钵音疗', su_swing: '丛林秋千', su_mario: '丛林马里奥赛车',
+    su_food: '想吃乌布美食', u_spa: '乌布SPA', u_penglipuran: 'Penglipuran 传统村落',
+    spots_kuta: '🏖️ 库塔必访景点',
+    k_surf: '库塔海滩学冲浪', k_waterbom: 'Waterbom 水上乐园', k_beachwalk: 'Beachwalk 购物中心',
+    k_turtle: '海龟中心', k_beerbus: '库塔啤酒巴士', k_food: '库塔美食', k_spa: 'SPA按摩',
+    spots_seminyak: '💅 水明漾必访景点',
+    se_daytour: '水明漾一日游', se_surf: '水明漾冲浪', se_food: '水明漾美食',
+    se_club: '水明漾五大夜店', se_spa: 'SPA按摩',
+    spots_canggu: '☕ 长谷必访景点',
+    cg_tanah: '海神庙（Tanah Lot）', cg_labrisa: 'La Brisa 最美餐厅', cg_horse: '沙滩骑马',
+    cg_nuanu: 'Nuanu Creative City', cg_surf: '长谷冲浪', cg_spa: 'SPA按摩',
+    spots_jimbaran: '🦞 金巴兰必访景点',
+    ji_gwk: '神鹰文化广场（GWK）', ji_rockbar: '预约 Rock Bar', ji_seafood: '夕阳海鲜餐厅',
+    ji_shopping: '金巴兰逛街', ji_annspa: '台湾老板娘五星SPA', ji_spa: 'SPA按摩',
+    spots_uluwatu: '🌅 乌鲁瓦图必访景点',
+    ul_temple: '乌鲁瓦图庙', ul_kecak: '震撼火舞（Kecak）', ul_oneeighty: 'Oneeighty 悬崖泳池',
+    ul_highway: '蓝色/断崖公路', ul_beach: '秘境沙滩探索', ul_paraglide: '玩滑翔翼',
+    ul_vw: 'VW敞篷车观光', ul_surf: '冲浪课程', ul_spa: 'SPA按摩',
+    spots_nusadua: '🏨 努沙杜瓦必访景点',
+    nd_buffet: '五星餐厅吃到饱', nd_lobster: '龙虾先生海鲜大餐', nd_bali_collection: 'Bali Collection 购物',
+    nd_watersport: '水上活动大本营', nd_devdan: 'Devdan Show 天谭秀', nd_turtle_island: '海龟岛+玻璃船',
+    nd_spa: 'SPA按摩', nd_snorkel: '（儿童）浮潜',
+    spots_sanur: '⛵ 沙努尔必访景点',
+    sa_icon: 'Icon Bali 购物中心', sa_cycling: '海滩日出自行车', sa_turtle: '海龟中心',
+    sa_fishing: '出海钓鱼', sa_aerox: 'AeroXSpace 室内游乐场', sa_climbing: "Clip'n'Climb 攀岩",
+    sa_spa: 'SPA按摩', sa_snorkel: '近海浮潜',
   },
   'en': {
     badge: 'Free Planning Tool', title: 'Bali Trip Planner',
@@ -127,7 +226,7 @@ const T = {
     q5: 'Areas you want to visit?', q5hint: 'Multi-select, skip if unsure',
     a_kuta: '🏖️ Kuta / Legian', a_seminyak: '💅 Seminyak', a_canggu: '☕ Canggu',
     a_ubud: '🌿 Ubud', a_jimbaran: '🦞 Jimbaran', a_uluwatu: '🌅 Uluwatu',
-    a_nusadua: '🏨 Nusa Dua', a_sanur: '⛵ Sanur', a_penida: '🤿 Nusa Penida', a_east: '⛩️ East Bali',
+    a_nusadua: '🏨 Nusa Dua', a_sanur: '⛵ Sanur', a_penida: '🤿 Nusa Penida', a_lembongan: '🏝️ Nusa Lembongan', a_komodo: '🦎 Komodo Island', a_east: '⛩️ East Bali',
     q6: 'Paste your draft itinerary', q6hint: 'Optional — I\'ll spot gaps and suggest activities',
     placeholder: 'e.g.:\nDay 1: Arrive Kuta, check in\nDay 2: Ubud rice terraces, Monkey Forest\nDay 3: ??? (no idea)\nDay 4: Nusa Penida day trip\nDay 5: Spa + Jimbaran seafood',
     btnNext1: 'Next: Draft Itinerary →', btnBack: '← Back',
@@ -138,6 +237,39 @@ const T = {
     tagAccom: 'Accommodation', tagMap: 'Attraction Map',
     tagFood: 'Food', tagSpa: 'Spa', tagSunset: 'Must-Do',
     tagSouvenir: 'Shopping', tagRain: 'Rainy Day',
+    q_spots: 'Any specific attractions?', q_spots_hint: 'Multi-select',
+    spots_ubud: '🌿 Ubud Must-Visit',
+    secSpots: '📍 Your Selected Attractions',
+    su_palace: 'Ubud Palace', su_market: 'Ubud Market', su_tirta: 'Tirta Empul (Holy Spring)',
+    su_monkey: 'Sacred Monkey Forest', su_terraces: 'Ubud Rice Terraces', su_skywalk: 'Ubud Sky Walk',
+    su_coffee: 'Volcano Coffee', su_zoo: 'Bali Wildlife Park', su_waterfall: 'Ubud Waterfalls',
+    su_fairy: 'Fairy Garden', su_junglepool: 'Jungle Pool Club', su_jeep: 'Sunrise Volcano Jeep',
+    su_singing: 'Singing Bowl Healing', su_swing: 'Jungle Swing', su_mario: 'Jungle Kart Racing',
+    su_food: 'Ubud Food & Dining', u_spa: 'Ubud Spa & Wellness', u_penglipuran: 'Penglipuran Village',
+    spots_kuta: '🏖️ Kuta Must-Do',
+    k_surf: 'Kuta Surf Lesson', k_waterbom: 'Waterbom Water Park', k_beachwalk: 'Beachwalk Mall',
+    k_turtle: 'Turtle Conservation', k_beerbus: 'Kuta Beer Bus', k_food: 'Kuta Dining', k_spa: 'Spa & Massage',
+    spots_seminyak: '💅 Seminyak Must-Do',
+    se_daytour: 'Seminyak Day Tour', se_surf: 'Seminyak Surfing', se_food: 'Seminyak Dining',
+    se_club: 'Top 5 Nightclubs', se_spa: 'Spa & Massage',
+    spots_canggu: '☕ Canggu Must-Do',
+    cg_tanah: 'Tanah Lot Temple', cg_labrisa: 'La Brisa Restaurant', cg_horse: 'Beach Horse Riding',
+    cg_nuanu: 'Nuanu Creative City', cg_surf: 'Canggu Surfing', cg_spa: 'Spa & Massage',
+    spots_jimbaran: '🦞 Jimbaran Must-Do',
+    ji_gwk: 'GWK Cultural Park', ji_rockbar: 'Rock Bar Reservation', ji_seafood: 'Sunset Seafood Dinner',
+    ji_shopping: 'Jimbaran Shopping', ji_annspa: 'Ann Spa (Taiwanese-owned)', ji_spa: 'Spa & Massage',
+    spots_uluwatu: '🌅 Uluwatu Must-Do',
+    ul_temple: 'Uluwatu Temple', ul_kecak: 'Kecak Fire Dance', ul_oneeighty: 'Oneeighty Cliff Pool',
+    ul_highway: 'Blue Point Road', ul_beach: 'Hidden Beaches', ul_paraglide: 'Paragliding',
+    ul_vw: 'VW Safari Tour', ul_surf: 'Surf Lesson', ul_spa: 'Spa & Massage',
+    spots_nusadua: '🏨 Nusa Dua Must-Do',
+    nd_buffet: '5-Star Buffet Dinner', nd_lobster: 'Mr Lobster Seafood', nd_bali_collection: 'Bali Collection Mall',
+    nd_watersport: 'Water Sports Hub', nd_devdan: 'Devdan Show', nd_turtle_island: 'Turtle Island + Glass Boat',
+    nd_spa: 'Spa & Massage', nd_snorkel: 'Kids Snorkelling',
+    spots_sanur: '⛵ Sanur Must-Do',
+    sa_icon: 'Icon Bali Mall', sa_cycling: 'Sunrise Beach Cycling', sa_turtle: 'Turtle Conservation',
+    sa_fishing: 'Offshore Fishing', sa_aerox: 'AeroXSpace Indoor Play', sa_climbing: "Clip'n'Climb",
+    sa_spa: 'Spa & Massage', sa_snorkel: 'Coastal Snorkelling',
   },
 }[lang] ?? {} as any;
 
@@ -226,6 +358,117 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
       </div>
 
       <div class="q-block">
+        <div class="q-label">{T.q_spots} <span class="q-hint">{T.q_spots_hint}</span></div>
+        <div class="spots-region-group">
+          <div class="spots-region-label">{T.spots_ubud}</div>
+          <div class="chips multi" id="q-spots-ubud">
+            <button class="chip" data-val="u_palace">{T.su_palace}</button>
+            <button class="chip" data-val="u_market">{T.su_market}</button>
+            <button class="chip" data-val="u_tirta">{T.su_tirta}</button>
+            <button class="chip" data-val="u_monkey">{T.su_monkey}</button>
+            <button class="chip" data-val="u_terraces">{T.su_terraces}</button>
+            <button class="chip" data-val="u_skywalk">{T.su_skywalk}</button>
+            <button class="chip" data-val="u_coffee">{T.su_coffee}</button>
+            <button class="chip" data-val="u_zoo">{T.su_zoo}</button>
+            <button class="chip" data-val="u_waterfall">{T.su_waterfall}</button>
+            <button class="chip" data-val="u_fairy">{T.su_fairy}</button>
+            <button class="chip" data-val="u_junglepool">{T.su_junglepool}</button>
+            <button class="chip" data-val="u_jeep">{T.su_jeep}</button>
+            <button class="chip" data-val="u_singing">{T.su_singing}</button>
+            <button class="chip" data-val="u_swing">{T.su_swing}</button>
+            <button class="chip" data-val="u_mario">{T.su_mario}</button>
+            <button class="chip" data-val="u_food">{T.su_food}</button>
+            <button class="chip" data-val="u_spa">{T.u_spa}</button>
+            <button class="chip" data-val="u_penglipuran">{T.u_penglipuran}</button>
+          </div>
+        </div>
+        <div class="spots-region-group">
+          <div class="spots-region-label">{T.spots_kuta}</div>
+          <div class="chips multi" id="q-spots-kuta">
+            <button class="chip" data-val="k_surf">{T.k_surf}</button>
+            <button class="chip" data-val="k_waterbom">{T.k_waterbom}</button>
+            <button class="chip" data-val="k_beachwalk">{T.k_beachwalk}</button>
+            <button class="chip" data-val="k_turtle">{T.k_turtle}</button>
+            <button class="chip" data-val="k_beerbus">{T.k_beerbus}</button>
+            <button class="chip" data-val="k_food">{T.k_food}</button>
+            <button class="chip" data-val="k_spa">{T.k_spa}</button>
+          </div>
+        </div>
+        <div class="spots-region-group">
+          <div class="spots-region-label">{T.spots_seminyak}</div>
+          <div class="chips multi" id="q-spots-seminyak">
+            <button class="chip" data-val="se_daytour">{T.se_daytour}</button>
+            <button class="chip" data-val="se_surf">{T.se_surf}</button>
+            <button class="chip" data-val="se_food">{T.se_food}</button>
+            <button class="chip" data-val="se_club">{T.se_club}</button>
+            <button class="chip" data-val="se_spa">{T.se_spa}</button>
+          </div>
+        </div>
+        <div class="spots-region-group">
+          <div class="spots-region-label">{T.spots_canggu}</div>
+          <div class="chips multi" id="q-spots-canggu">
+            <button class="chip" data-val="cg_tanah">{T.cg_tanah}</button>
+            <button class="chip" data-val="cg_labrisa">{T.cg_labrisa}</button>
+            <button class="chip" data-val="cg_horse">{T.cg_horse}</button>
+            <button class="chip" data-val="cg_nuanu">{T.cg_nuanu}</button>
+            <button class="chip" data-val="cg_surf">{T.cg_surf}</button>
+            <button class="chip" data-val="cg_spa">{T.cg_spa}</button>
+          </div>
+        </div>
+        <div class="spots-region-group">
+          <div class="spots-region-label">{T.spots_jimbaran}</div>
+          <div class="chips multi" id="q-spots-jimbaran">
+            <button class="chip" data-val="ji_gwk">{T.ji_gwk}</button>
+            <button class="chip" data-val="ji_rockbar">{T.ji_rockbar}</button>
+            <button class="chip" data-val="ji_seafood">{T.ji_seafood}</button>
+            <button class="chip" data-val="ji_shopping">{T.ji_shopping}</button>
+            <button class="chip" data-val="ji_annspa">{T.ji_annspa}</button>
+            <button class="chip" data-val="ji_spa">{T.ji_spa}</button>
+          </div>
+        </div>
+        <div class="spots-region-group">
+          <div class="spots-region-label">{T.spots_uluwatu}</div>
+          <div class="chips multi" id="q-spots-uluwatu">
+            <button class="chip" data-val="ul_temple">{T.ul_temple}</button>
+            <button class="chip" data-val="ul_kecak">{T.ul_kecak}</button>
+            <button class="chip" data-val="ul_oneeighty">{T.ul_oneeighty}</button>
+            <button class="chip" data-val="ul_highway">{T.ul_highway}</button>
+            <button class="chip" data-val="ul_beach">{T.ul_beach}</button>
+            <button class="chip" data-val="ul_paraglide">{T.ul_paraglide}</button>
+            <button class="chip" data-val="ul_vw">{T.ul_vw}</button>
+            <button class="chip" data-val="ul_surf">{T.ul_surf}</button>
+            <button class="chip" data-val="ul_spa">{T.ul_spa}</button>
+          </div>
+        </div>
+        <div class="spots-region-group">
+          <div class="spots-region-label">{T.spots_nusadua}</div>
+          <div class="chips multi" id="q-spots-nusadua">
+            <button class="chip" data-val="nd_buffet">{T.nd_buffet}</button>
+            <button class="chip" data-val="nd_lobster">{T.nd_lobster}</button>
+            <button class="chip" data-val="nd_bali_collection">{T.nd_bali_collection}</button>
+            <button class="chip" data-val="nd_watersport">{T.nd_watersport}</button>
+            <button class="chip" data-val="nd_devdan">{T.nd_devdan}</button>
+            <button class="chip" data-val="nd_turtle_island">{T.nd_turtle_island}</button>
+            <button class="chip" data-val="nd_spa">{T.nd_spa}</button>
+            <button class="chip" data-val="nd_snorkel">{T.nd_snorkel}</button>
+          </div>
+        </div>
+        <div class="spots-region-group">
+          <div class="spots-region-label">{T.spots_sanur}</div>
+          <div class="chips multi" id="q-spots-sanur">
+            <button class="chip" data-val="sa_icon">{T.sa_icon}</button>
+            <button class="chip" data-val="sa_cycling">{T.sa_cycling}</button>
+            <button class="chip" data-val="sa_turtle">{T.sa_turtle}</button>
+            <button class="chip" data-val="sa_fishing">{T.sa_fishing}</button>
+            <button class="chip" data-val="sa_aerox">{T.sa_aerox}</button>
+            <button class="chip" data-val="sa_climbing">{T.sa_climbing}</button>
+            <button class="chip" data-val="sa_spa">{T.sa_spa}</button>
+            <button class="chip" data-val="sa_snorkel">{T.sa_snorkel}</button>
+          </div>
+        </div>
+      </div>
+
+      <div class="q-block">
         <div class="q-label">{T.q4}</div>
         <div class="chips single" id="q-budget">
           <button class="chip" data-val="budget">{T.b_budget}</button>
@@ -255,6 +498,8 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
           <button class="chip" data-val="nusadua">{T.a_nusadua}</button>
           <button class="chip" data-val="sanur">{T.a_sanur}</button>
           <button class="chip" data-val="penida">{T.a_penida}</button>
+          <button class="chip" data-val="lembongan">{T.a_lembongan}</button>
+          <button class="chip" data-val="komodo">{T.a_komodo}</button>
           <button class="chip" data-val="east">{T.a_east}</button>
         </div>
       </div>
@@ -286,6 +531,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
       </div>
 
       <div id="route-tip"></div>
+      <div id="spots-section"></div>
       <div id="region-sections"></div>
       <div id="interest-extras"></div>
       <div id="accom-section"></div>
@@ -348,6 +594,7 @@ const LANG_STRINGS = {
     companionMap: { solo:'個人獨旅', couple:'情侶蜜月', family:'家庭親子', friends:'朋友同行', elder:'長輩同行', group:'10人以上團體' },
     daysMap: { '4':'4天以內', '5':'5天', '68':'6–8天', '9':'9天以上' },
     secAccom: '🏨 住宿推薦',
+    secSpots: '📍 你選擇的景點攻略',
     summaryTpl: (parts) => `根據你的條件（${parts.join('・')}）為你整理了以下推薦：`,
     summaryFallback: '根據你的選擇，為你整理了以下推薦：',
     emptyTpl: (days) => `行程中偵測到空缺天數（${days.join('、')}），以下分區攻略可以幫你補上！`,
@@ -385,6 +632,8 @@ const LANG_STRINGS = {
       nusadua:  '五星飯店・水上活動・豪華度假',
       sanur:    '前往佩尼達的出發港・家庭友善・寧靜',
       penida:   '天使之路・浮潛曼塔魚・碧藍海水',
+      lembongan:'碧海浮潛・曼塔魚・悠閒跳島',
+      komodo:   '科摩多龍・潛水聖地・原始自然',
       east:     '天空之門・聖泉寺・古老村莊・火山湖',
     },
   },
@@ -392,6 +641,7 @@ const LANG_STRINGS = {
     companionMap: { solo:'個人獨遊', couple:'情侶/蜜月', family:'家庭親子', friends:'朋友同行', elder:'長輩同行', group:'10人以上團體' },
     daysMap: { '4':'4日以內', '5':'5天4夜', '68':'6–8日', '9':'9日以上' },
     secAccom: '🏨 住宿推薦',
+    secSpots: '📍 你選擇嘅景點攻略',
     summaryTpl: (parts) => `根據你的條件（${parts.join('・')}）為你整理了以下推薦：`,
     summaryFallback: '根據你的選擇，為你整理了以下推薦：',
     emptyTpl: (days) => `行程中偵測到空缺天數（${days.join('、')}），以下攻略可以幫你補上！`,
@@ -429,6 +679,8 @@ const LANG_STRINGS = {
       nusadua:  '五星酒店・水上活動・豪華度假',
       sanur:    '前往佩尼達的出發港・家庭友善・寧靜',
       penida:   '天使之路・浮潛曼塔魚・碧藍海水',
+      lembongan:'碧海浮潛・曼塔魚・悠閒跳島',
+      komodo:   '科摩多龍・潛水聖地・原始自然',
       east:     '天空之門・聖泉廟・古老村落・火山湖',
     },
   },
@@ -436,6 +688,7 @@ const LANG_STRINGS = {
     companionMap: { solo:'个人独旅', couple:'情侣蜜月', family:'家庭亲子', friends:'朋友同行', elder:'长辈同行', group:'10人以上团体' },
     daysMap: { '4':'4天以内', '5':'5天4夜', '68':'6–8天', '9':'9天以上' },
     secAccom: '🏨 住宿推荐',
+    secSpots: '📍 你选择的景点攻略',
     summaryTpl: (parts) => `根据你的条件（${parts.join('・')}）为你整理了以下推荐：`,
     summaryFallback: '根据你的选择，为你整理了以下推荐：',
     emptyTpl: (days) => `行程中检测到空缺天数（${days.join('、')}），以下区域攻略可以帮你补上！`,
@@ -473,6 +726,8 @@ const LANG_STRINGS = {
       nusadua:  '五星酒店・水上活动・豪华度假',
       sanur:    '前往佩尼达的出发港・亲子友好・宁静',
       penida:   '天使之路・浮潜蝠鲼・碧蓝海水',
+      lembongan:'碧海浮潜・蝠鲼・悠闲跳岛',
+      komodo:   '科莫多龙・潜水圣地・原始自然',
       east:     '天空之门・圣泉寺・古老村庄・火山湖',
     },
   },
@@ -480,6 +735,7 @@ const LANG_STRINGS = {
     companionMap: { solo:'Solo', couple:'Couple', family:'Family', friends:'Friends', elder:'With Elderly', group:'Group (10+)' },
     daysMap: { '4':'4 days or under', '5':'5 days', '68':'6–8 days', '9':'9+ days' },
     secAccom: '🏨 Accommodation Picks',
+    secSpots: '📍 Your Selected Attractions',
     summaryTpl: (parts) => `Based on your profile (${parts.join(', ')}) here are your picks:`,
     summaryFallback: 'Based on your selections, here are your picks:',
     emptyTpl: (days) => `Empty day(s) detected (${days.join(', ')}). These guides can fill the gap!`,
@@ -518,6 +774,8 @@ const LANG_STRINGS = {
       nusadua:  '5-star resorts · Water sports · Luxury holiday',
       sanur:    'Gateway to Penida · Family-friendly · Laid-back',
       penida:   'Angel\'s Billabong · Manta ray snorkelling · Crystal waters',
+      lembongan:'Crystal waters · Manta rays · Laid-back island hopping',
+      komodo:   'Komodo dragons · World-class diving · Pristine nature',
       east:     'Gate of Heaven · Holy Springs · Ancient villages',
     },
   },
@@ -611,6 +869,24 @@ const REGIONS = {
       { title: '佩尼達島美食：Nusa Penida Top 10 餐廳', url: '/blog/2023-10-22-65348754fd89780001b2a259/', tag: '美食' },
       { title: '【跳島攻略】佩尼達/藍夢島/吉利群島/龍目島快艇船票', url: '/blog/2024-04-17-661f1a51fd89780001f72b31/', tag: '交通' },
       { title: 'Nusa Penida 交通：計程車、Gojek、包車、摩托車攻略', url: '/blog/2024-01-16-65a5e069fd897800010625d0/', tag: '交通' },
+    ],
+  },
+  lembongan: {
+    name: 'Nusa Lembongan', emoji: '🏝️',
+    interestMatch: ['snorkel','beach','photo','nature'],
+    keywords: ['藍夢島','蓝梦岛','lembongan','nusa lembongan'],
+    guide: { title: '藍夢島旅遊攻略：浮潛、海灘與跳島一日遊完整指南', url: '/blog/2024-10-23-66adfb9afd89780001f62df1/', tag: '全攻略' },
+    spots: [
+      { title: '【跳島攻略】佩尼達/藍夢島/吉利群島/龍目島快艇船票', url: '/blog/2024-04-17-661f1a51fd89780001f72b31/', tag: '交通' },
+    ],
+  },
+  komodo: {
+    name: 'Komodo Island', emoji: '🦎',
+    interestMatch: ['snorkel','nature','photo'],
+    keywords: ['科摩多','科莫多','komodo'],
+    guide: { title: '科摩多島旅遊完整攻略：科摩多龍、浮潛與行程安排', url: '/blog/2025-05-04-681601c6fd8978000139f8a3/', tag: '全攻略' },
+    spots: [
+      { title: '科摩多島旅遊指南：科摩多龍棲息地、潛水聖地與旅行資訊', url: '/blog/2024-11-19-673c7478fd89780001db176b/', tag: '旅遊指南' },
     ],
   },
   east: {
@@ -749,7 +1025,7 @@ const GLOBAL_PICKS = [
 ];
 
 // ── State ─────────────────────────────────────────────────────────────
-const state = { companion:'', days:'', interests:[], budget:'', areas:[], itinerary:'' };
+const state = { companion:'', days:'', interests:[], budget:'', areas:[], itinerary:'', allSpots:[] };
 
 // ── Chip Selection ────────────────────────────────────────────────────
 document.querySelectorAll('.chips').forEach(group => {
@@ -779,7 +1055,9 @@ function showStep(n) {
 }
 
 document.getElementById('btn-1-next').addEventListener('click', () => {
-  Object.assign(state, { companion: getVals('q-companion')[0]||'', days: getVals('q-days')[0]||'', interests: getVals('q-interests'), budget: getVals('q-budget')[0]||'' });
+  const allSpots = [];
+  document.querySelectorAll('[id^="q-spots-"]').forEach(el => allSpots.push(...getVals(el.id)));
+  Object.assign(state, { companion: getVals('q-companion')[0]||'', days: getVals('q-days')[0]||'', interests: getVals('q-interests'), budget: getVals('q-budget')[0]||'', allSpots });
   showStep(2);
 });
 document.getElementById('btn-2-back').addEventListener('click', () => showStep(1));
@@ -791,7 +1069,7 @@ document.getElementById('btn-2-next').addEventListener('click', () => {
 document.getElementById('btn-restart').addEventListener('click', () => {
   document.querySelectorAll('.chip').forEach(c => c.classList.remove('selected'));
   document.getElementById('q-itinerary').value = '';
-  Object.assign(state, { companion:'', days:'', interests:[], budget:'', areas:[], itinerary:'' });
+  Object.assign(state, { companion:'', days:'', interests:[], budget:'', areas:[], itinerary:'', allSpots:[] });
   showStep(1);
 });
 
@@ -816,13 +1094,33 @@ function analyzeItinerary(text) {
 
 // ── Recommendation Engine ─────────────────────────────────────────────
 // Route flows inland→east first, then back to airport-proximate south/west areas last
-const ROUTE_FLOW = ['canggu','seminyak','ubud','east','sanur','penida','nusadua','uluwatu','jimbaran','kuta'];
+const ROUTE_FLOW = ['canggu','seminyak','ubud','east','sanur','penida','lembongan','komodo','nusadua','uluwatu','jimbaran','kuta'];
 // Areas far from airport — warn if these are last in planned route
 const AIRPORT_FAR_AREAS = new Set(['ubud','east']);
+
+const SPOT_REGION_MAP = {
+  u_palace:'ubud', u_market:'ubud', u_tirta:'ubud', u_monkey:'ubud', u_terraces:'ubud',
+  u_skywalk:'ubud', u_coffee:'ubud', u_zoo:'ubud', u_waterfall:'ubud', u_fairy:'ubud',
+  u_junglepool:'ubud', u_jeep:'ubud', u_singing:'ubud', u_swing:'ubud', u_mario:'ubud',
+  u_food:'ubud', u_spa:'ubud', u_penglipuran:'ubud',
+  k_surf:'kuta', k_waterbom:'kuta', k_beachwalk:'kuta', k_turtle:'kuta', k_beerbus:'kuta',
+  k_food:'kuta', k_spa:'kuta',
+  se_daytour:'seminyak', se_surf:'seminyak', se_food:'seminyak', se_club:'seminyak', se_spa:'seminyak',
+  cg_tanah:'canggu', cg_labrisa:'canggu', cg_horse:'canggu', cg_nuanu:'canggu', cg_surf:'canggu', cg_spa:'canggu',
+  ji_gwk:'jimbaran', ji_rockbar:'jimbaran', ji_seafood:'jimbaran', ji_shopping:'jimbaran',
+  ji_annspa:'jimbaran', ji_spa:'jimbaran',
+  ul_temple:'uluwatu', ul_kecak:'uluwatu', ul_oneeighty:'uluwatu', ul_highway:'uluwatu',
+  ul_beach:'uluwatu', ul_paraglide:'uluwatu', ul_vw:'uluwatu', ul_surf:'uluwatu', ul_spa:'uluwatu',
+  nd_buffet:'nusadua', nd_lobster:'nusadua', nd_bali_collection:'nusadua', nd_watersport:'nusadua',
+  nd_devdan:'nusadua', nd_turtle_island:'nusadua', nd_spa:'nusadua', nd_snorkel:'nusadua',
+  sa_icon:'sanur', sa_cycling:'sanur', sa_turtle:'sanur', sa_fishing:'sanur',
+  sa_aerox:'sanur', sa_climbing:'sanur', sa_spa:'sanur', sa_snorkel:'sanur',
+};
 
 function buildTargetAreas(mentioned) {
   const chosen = new Set([...state.areas, ...mentioned]);
   chosen.delete('undecided');
+  (state.allSpots || []).forEach(val => { const r = SPOT_REGION_MAP[val]; if (r) chosen.add(r); });
   if (chosen.size === 0) {
     const map = {
       surf:['kuta','canggu'], culture:['ubud','east'], spa:['ubud','seminyak'],
@@ -866,7 +1164,7 @@ function listItemHtml({title,url,tag}) {
 function regionSection(key) {
   const r = REGIONS[key]; if(!r) return '';
   const desc = LS.regionDescs?.[key] || '';
-  const items = [listItemHtml(r.guide), ...r.spots.map(listItemHtml)].join('');
+  const items = [r.guide ? listItemHtml(r.guide) : '', ...r.spots.map(listItemHtml)].join('');
   return `<div class="results-section region-section"><h3 class="section-title region-title"><span>${r.emoji}</span>${r.name}<span class="region-desc">${desc}</span></h3><div class="article-list">${items}</div></div>`;
 }
 
@@ -874,6 +1172,100 @@ function extraSection(key) {
   const ex = INTEREST_EXTRAS[key]; if(!ex) return '';
   const title = LS.extras?.[key] || key;
   return `<div class="results-section"><h3 class="section-title">${title}</h3><div class="article-list">${ex.articles.map(listItemHtml).join('')}</div></div>`;
+}
+
+// ── All Spots Data ────────────────────────────────────────────────────
+const ALL_SPOTS_DATA = {
+  // Ubud
+  u_palace:    { title: '烏布皇宮 Puri Saren 完整攻略', url: '/blog/2024-11-05-6728cc00fd89780001c9bbdc/', tag: '文化' },
+  u_market:    { title: '烏布傳統市場購物攻略', url: '/blog/2024-10-19-6712fb1dfd89780001f69011/', tag: '市場' },
+  u_tirta:     { title: '聖泉寺（Tirta Empul）淨身體驗攻略', url: '/blog/2025-06-18-6852cdc2fd89780001e0b7ad/', tag: '寺廟' },
+  u_monkey:    { title: '烏布聖猴森林完整攻略', url: '/blog/2024-03-19-65f97cf5fd897800019eeca0/', tag: '自然' },
+  u_terraces:  { title: '烏布梯田景點攻略', url: '/blog/2024-11-15-673167e4fd897800017c44a9/', tag: '景觀' },
+  u_skywalk:   { title: '烏布天空步道體驗攻略', url: '/blog/2023-10-29-653dc7f3fd89780001f4f90a/', tag: '打卡' },
+  u_coffee:    { title: '火山咖啡體驗：峇里島咖啡農場攻略', url: '/blog/2025-10-09-68e786abfd89780001c1b9b7/', tag: '咖啡' },
+  u_zoo:       { title: '峇里島野生動物園完整攻略', url: '/blog/2025-12-06-69131b8dfd89780001c8e3c4/', tag: '動物園' },
+  u_waterfall: { title: '烏布瀑布探秘：三大知名瀑布攻略', url: '/blog/2023-07-19-64db6b82fd897800013a995f/', tag: '瀑布' },
+  u_fairy:     { title: '仙女園（Alas Harum）網美打卡攻略', url: '/blog/2025-01-26-6795adf1fd8978000133fe10/', tag: '網美' },
+  u_junglepool:{ title: '烏布叢林泳池俱樂部推薦', url: '/blog/2025-05-01-68134e91fd89780001ab5b55/', tag: '泳池' },
+  u_jeep:      { title: '日出火山吉普車探險攻略', url: '/blog/2025-04-17-68011484fd897800010d1643/', tag: '探險' },
+  u_singing:   { title: '頌缽音療（Singing Bowl）靈修體驗', url: '/blog/2026-02-07-6986c5c0fd897800017582f6/', tag: '靈修' },
+  u_swing:     { title: '叢林鞦韆：烏布高空打卡完整攻略', url: '/blog/2025-08-15-689eb518fd897800014fbb28/', tag: '打卡' },
+  u_mario:     { title: '叢林瑪利歐賽車體驗攻略', url: '/blog/2024-07-06-66892d20fd8978000183776c/', tag: '娛樂' },
+  u_food:      { title: '烏布美食完整攻略：必吃餐廳推薦', url: '/blog/2026-02-02-69809444fd897800019bddac/', tag: '美食' },
+  u_spa:       { title: '烏布 SPA 按摩推薦：分區評比攻略', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'SPA' },
+  u_penglipuran:{ title: 'Penglipuran 傳統村落：穿越時空的峇里古老魅力', url: '/blog/2023-08-26-64e9e8e9fd89780001f28d6b/', tag: '村落' },
+  // Kuta
+  k_surf:      { title: '峇里島水上活動指南：15 種必玩衝浪體驗', url: '/blog/2026-01-20-694122b8fd89780001f514c9/', tag: '衝浪' },
+  k_waterbom:  { title: 'Waterbom Bali 水上樂園完整攻略', url: '/blog/2025-07-28-68875c61fd8978000143d895/', tag: '水上樂園' },
+  k_beachwalk: { title: 'Beachwalk Shopping Center 庫塔購物中心', url: 'https://youtu.be/IReL1ztxL7c', tag: '購物' },
+  k_turtle:    { title: '峇里島海龜中心完整攻略', url: '/blog/2025-10-23-68f9b567fd89780001795353/', tag: '海龜' },
+  k_beerbus:   { title: '庫塔啤酒巴士：峇里島最特別的夜遊體驗', url: '/blog/2025-03-15-67d4f8e0fd897800017aca0f/', tag: '夜遊' },
+  k_food:      { title: '庫塔美食攻略：必吃餐廳與在地小吃推薦', url: '/blog/2025-06-03-683ea99cfd897800010202aa/', tag: '美食' },
+  k_spa:       { title: '峇里島全區精華 SPA 推薦（以區域劃分）', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'SPA' },
+  // Seminyak
+  se_daytour:  { title: '水明漾一日遊完整行程攻略', url: '/blog/2024-07-20-669b1d59fd89780001def381/', tag: '一日遊' },
+  se_surf:     { title: '峇里島衝浪攻略：適合不同等級的衝浪海灘', url: '/blog/2024-04-20-66236818fd89780001389aaa/', tag: '衝浪' },
+  se_food:     { title: '水明漾美食攻略：必吃餐廳推薦', url: '/blog/2025-06-02-683c262efd89780001852be7/', tag: '美食' },
+  se_club:     { title: '水明漾五大夜店：峇里島夜生活精選', url: '/blog/2024-10-16-670cc030fd89780001a10577/', tag: '夜生活' },
+  se_spa:      { title: '峇里島全區精華 SPA 推薦（以區域劃分）', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'SPA' },
+  // Canggu
+  cg_tanah:    { title: '長谷海神廟（Tanah Lot）攻略', url: '/blog/2024-10-28-671f86f1fd89780001de9fae/', tag: '景點' },
+  cg_labrisa:  { title: '峇里島最美餐廳 La Brisa 完整攻略', url: '/blog/2023-12-04-656d19fffd897800019cb6ed/', tag: '餐廳' },
+  cg_horse:    { title: '峇里島沙灘騎馬體驗（Klook）', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D509d71363f', tag: '活動' },
+  cg_nuanu:    { title: 'Nuanu Creative City 藝術創意城市攻略', url: '/blog/2025-04-18-68026619fd89780001f56243/', tag: '藝術' },
+  cg_surf:     { title: '峇里島衝浪攻略：適合不同等級的衝浪海灘', url: '/blog/2024-04-20-66236818fd89780001389aaa/', tag: '衝浪' },
+  cg_spa:      { title: '峇里島全區精華 SPA 推薦（以區域劃分）', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'SPA' },
+  // Jimbaran
+  ji_gwk:      { title: '神鷹文化廣場（GWK）完整攻略', url: '/blog/2025-07-17-68785bf9fd89780001822053/', tag: '文化' },
+  ji_rockbar:  { title: '峇里島 AYANA Rock Bar 預約攻略', url: '/blog/2024-11-03-67270573fd89780001adf758/', tag: 'Rock Bar' },
+  ji_seafood:  { title: '金巴蘭海鮮餐廳推薦：夕陽海灘晚餐攻略', url: '/blog/2023-09-17-6506748dfd897800018d6be2/', tag: '海鮮' },
+  ji_shopping: { title: '金巴蘭逛街購物指南', url: 'https://youtu.be/RodQvCZKwD0', tag: '購物' },
+  ji_annspa:   { title: '台灣老闆娘五星好評 Ann SPA Jimbaran', url: '/blog/ann-spa-jimbaran/', tag: 'SPA' },
+  ji_spa:      { title: '峇里島全區精華 SPA 推薦（以區域劃分）', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'SPA' },
+  // Uluwatu
+  ul_temple:   { title: '烏魯瓦圖廟完整攻略：門票、時間與注意事項', url: '/blog/2025-01-18-678b1d81fd89780001f7fe4d/', tag: '寺廟' },
+  ul_kecak:    { title: 'Kecak Fire Dance 卡恰火舞：峇里島必看震撼表演', url: '/blog/2024-01-29-65b6e533fd89780001f51eaf/', tag: '火舞' },
+  ul_oneeighty:{ title: 'Oneeighty° 懸崖無邊際泳池攻略', url: '/blog/2023-12-07-6571846ffd89780001fe97ee/', tag: '泳池' },
+  ul_highway:  { title: '烏魯瓦圖藍色公路/斷崖公路騎行攻略', url: '/blog/2025-03-06-67c9a234fd897800014b5a11/', tag: '騎行' },
+  ul_beach:    { title: '探索峇里島無人秘境：6 個秘境沙灘攻略', url: '/blog/2023-08-22-64e4c0c9fd897800014e31bf/', tag: '秘境' },
+  ul_paraglide:{ title: '峇里島滑翔翼體驗攻略', url: '/blog/2025-05-02-6814aa9efd89780001f68acc/', tag: '滑翔翼' },
+  ul_vw:       { title: '峇里島 VW 敞篷車觀光體驗（Klook）', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74691-vw-safari-tour-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25ba5059df', tag: '觀光' },
+  ul_surf:     { title: '烏魯瓦圖衝浪課程（初級＆中級）（Klook）', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=824613&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F105831-surfing-lesson-cakrawala-asia-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcdd2e27de9', tag: '衝浪' },
+  ul_spa:      { title: '峇里島全區精華 SPA 推薦（以區域劃分）', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'SPA' },
+  // Nusa Dua
+  nd_buffet:   { title: '努沙杜瓦五星吃到飽餐廳攻略', url: '/blog/2024-01-25-65afb7bbfd897800017023b4/', tag: '吃到飽' },
+  nd_lobster:  { title: '龍蝦先生 Mr Lobster 海鮮大餐攻略', url: '/blog/2024-08-08-66a3943afd89780001cde8eb/', tag: '海鮮' },
+  nd_bali_collection: { title: 'Bali Collection 購物中心逛街指南', url: 'https://youtu.be/3AqPucmnSLE?si=MMb-VYeC97q3rjMA', tag: '購物' },
+  nd_watersport:{ title: '努沙杜瓦水上活動大本營：熱門項目攻略', url: '/blog/2025-08-13-689c185efd8978000170dbdc/', tag: '水上活動' },
+  nd_devdan:   { title: 'Devdan Show 天譚秀：峇里島必看綜藝表演', url: '/blog/2025-06-21-68557a29fd897800017f4272/', tag: '表演' },
+  nd_turtle_island: { title: '海龜島+玻璃船+紅樹林一日遊（Klook）', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=1248772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F59606-turtle-island-glass-bottom-boat-mangrove-cruise-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D7198b6daf6', tag: '跳島' },
+  nd_spa:      { title: '峇里島全區精華 SPA 推薦（以區域劃分）', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'SPA' },
+  nd_snorkel:  { title: '努沙杜瓦兒童浮潛體驗（Klook）', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=1248772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53090-snorkeling-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc77cbb5762', tag: '浮潛' },
+  // Sanur
+  sa_icon:     { title: 'Icon Bali 購物中心逛街攻略', url: '/blog/2024-06-08-666425e6fd8978000121dadc/', tag: '購物' },
+  sa_cycling:  { title: '沙努爾海灘日出自行車體驗（Klook）', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F72445-bali-sanur-beach-sunrise-half-day-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfa9dd7db84', tag: '自行車' },
+  sa_turtle:   { title: '峇里島海龜中心完整攻略', url: '/blog/2025-10-23-68f9b567fd89780001795353/', tag: '海龜' },
+  sa_fishing:  { title: '峇里島出海釣魚體驗（Klook）', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F57653-bali-fishing-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5b6b4e95f9', tag: '釣魚' },
+  sa_aerox:    { title: 'AeroXSpace 超大室內遊樂場攻略', url: '/blog/2024-08-25-66cab3d1fd89780001669923/', tag: '親子' },
+  sa_climbing: { title: "Clip'n'Climb 沙努爾室內攀岩攻略", url: '/blog/2025-04-06-67f250eafd897800017f2dd3/', tag: '攀岩' },
+  sa_spa:      { title: '峇里島全區精華 SPA 推薦（以區域劃分）', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'SPA' },
+  sa_snorkel:  { title: '沙努爾離岸浮潛體驗（Klook）', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F134495-snorkeling-experience-in-sanur-coastal%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dd9d7485ad9', tag: '浮潛' },
+};
+
+function buildSpotsSection() {
+  const selected = [...(state.allSpots || [])];
+  if (selected.length === 0) return '';
+  const title = LS.secSpots || '📍 你選擇的景點攻略';
+  const seen = new Set();
+  const items = selected.map(val => {
+    const s = ALL_SPOTS_DATA[val];
+    if (!s || seen.has(s.url)) return '';
+    seen.add(s.url);
+    return listItemHtml(s);
+  }).filter(Boolean).join('');
+  if (!items) return '';
+  return `<div class="results-section highlight"><h3 class="section-title">${title}</h3><div class="article-list">${items}</div></div>`;
 }
 
 function buildAccomSection(areas) {
@@ -919,6 +1311,7 @@ function buildResults() {
 
   // Sections
   document.getElementById('route-tip').innerHTML = buildRouteTip(areas);
+  document.getElementById('spots-section').innerHTML = buildSpotsSection();
   document.getElementById('region-sections').innerHTML = areas.map(regionSection).join('');
 
   // Extras
@@ -995,6 +1388,8 @@ function buildResults() {
 .q-label { font-weight: 700; font-size: 0.97rem; color: var(--ocean); margin-bottom: 0.7rem; display: flex; align-items: center; gap: 0.5em; flex-wrap: wrap; }
 .q-hint { font-weight: 400; font-size: 0.82rem; color: #999; }
 
+.spots-region-group { margin-bottom: 1rem; }
+.spots-region-label { font-size: 0.85rem; font-weight: 700; color: var(--forest, #2d6a4f); margin-bottom: 0.5rem; padding: 0.2rem 0; border-left: 3px solid var(--forest, #2d6a4f); padding-left: 0.6rem; }
 .chips { display: flex; flex-wrap: wrap; gap: 0.5rem; }
 .chip {
   padding: 0.45em 1em; border-radius: 99px; border: 1.5px solid #ddd;
