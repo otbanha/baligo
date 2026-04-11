@@ -1231,10 +1231,19 @@ document.getElementById('btn-1-next').addEventListener('click', () => {
 });
 document.getElementById('btn-2-back').addEventListener('click', () => showStep(1));
 document.getElementById('btn-2-next').addEventListener('click', () => {
-  Object.assign(state, { areas: getVals('q-areas'), itinerary: document.getElementById('q-itinerary').value.trim() });
-  buildResults();
-  saveState();
-  showStep(3);
+  try {
+    Object.assign(state, { areas: getVals('q-areas'), itinerary: document.getElementById('q-itinerary').value.trim() });
+    console.log('[Trip Planner] Step 2 → Step 3 - State:', state);
+    buildResults();
+    console.log('[Trip Planner] Results built');
+    saveState();
+    console.log('[Trip Planner] State saved');
+    showStep(3);
+    console.log('[Trip Planner] Shown step 3');
+  } catch (err) {
+    console.error('[Trip Planner] Error in btn-2-next:', err);
+    alert('❌ 發生錯誤：' + err.message);
+  }
 });
 document.getElementById('btn-restart').addEventListener('click', () => {
   document.querySelectorAll('.chip').forEach(c => c.classList.remove('selected'));
