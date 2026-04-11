@@ -33,6 +33,9 @@ const T = {
     btnShare: '分享給旅伴',
     btnWechat: '微信分享',
     btnEdit: '編輯此行程',
+    btnExport: '💾 匯出為 JSON',
+    btnImport: '📂 導入上次保存',
+    btnRestore: '↩️ 載入上次旅程',
     wechatTitle: '用微信掃描二維碼分享',
     wechatClose: '關閉',
     s3title: '你的個人化推薦',
@@ -105,6 +108,9 @@ const T = {
     btnShare: '分享俾旅伴',
     btnWechat: '微信分享',
     btnEdit: '編輯此行程',
+    btnExport: '💾 匯出做 JSON',
+    btnImport: '📂 導入上次保存',
+    btnRestore: '↩️ 載入上次旅程',
     wechatTitle: '用微信掃描二維碼分享',
     wechatClose: '關閉',
     s3title: '你的個人化推薦',
@@ -177,6 +183,9 @@ const T = {
     btnShare: '分享给旅伴',
     btnWechat: '微信分享',
     btnEdit: '编辑此行程',
+    btnExport: '💾 导出为 JSON',
+    btnImport: '📂 导入上次保存',
+    btnRestore: '↩️ 载入上次旅程',
     wechatTitle: '用微信扫描二维码分享',
     wechatClose: '关闭',
     s3title: '你的个性化推荐',
@@ -249,6 +258,9 @@ const T = {
     btnShare: 'Share with Travel Mates',
     btnWechat: 'Share via WeChat',
     btnEdit: 'Edit This Plan',
+    btnExport: '💾 Export as JSON',
+    btnImport: '📂 Restore Last Save',
+    btnRestore: '↩️ Load Last Trip',
     wechatTitle: 'Scan QR code with WeChat to share',
     wechatClose: 'Close',
     s3title: 'Your Personalised Picks',
@@ -603,6 +615,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
         <button class="btn-share" id="btn-share">{T.btnShare}</button>
         <button class="btn-wechat" id="btn-wechat">{T.btnWechat}</button>
         <button class="btn-edit" id="btn-edit">{T.btnEdit}</button>
+        <button class="btn-export" id="btn-export">{T.btnExport}</button>
       </div>
 
       <!-- WeChat QR Modal -->
@@ -1070,6 +1083,104 @@ const GLOBAL_PICKS = [
 // ── State ─────────────────────────────────────────────────────────────
 const state = { companion:'', days:'', interests:[], budget:'', areas:[], itinerary:'', allSpots:[] };
 
+// ── LocalStorage Operations ────────────────────────────────────────────
+function saveState() {
+  const saved = { companion: state.companion, days: state.days, interests: state.interests, budget: state.budget, areas: state.areas, itinerary: state.itinerary, allSpots: state.allSpots, timestamp: new Date().toISOString() };
+  localStorage.setItem('tripPlannerState', JSON.stringify(saved));
+}
+
+function loadSavedState() {
+  const saved = localStorage.getItem('tripPlannerState');
+  if (!saved) return null;
+  try { return JSON.parse(saved); } catch (e) { return null; }
+}
+
+function showRestoreButton() {
+  const saved = loadSavedState();
+  if (!saved) return;
+  const restoreBtn = document.createElement('button');
+  restoreBtn.className = 'btn-restore';
+  restoreBtn.id = 'btn-restore';
+  restoreBtn.textContent = T.btnRestore;
+  restoreBtn.addEventListener('click', () => {
+    document.querySelectorAll('.chip').forEach(c => c.classList.remove('selected'));
+    document.getElementById('q-itinerary').value = '';
+
+    // Restore all state
+    if (saved.companion) { state.companion = saved.companion; document.querySelector(`#q-companion .chip[data-val="${saved.companion}"]`)?.classList.add('selected'); }
+    if (saved.days) { state.days = saved.days; document.querySelector(`#q-days .chip[data-val="${saved.days}"]`)?.classList.add('selected'); }
+    saved.interests.forEach(v => { state.interests.push(v); document.querySelector(`#q-interests .chip[data-val="${v}"]`)?.classList.add('selected'); });
+    if (saved.budget) { state.budget = saved.budget; document.querySelector(`#q-budget .chip[data-val="${saved.budget}"]`)?.classList.add('selected'); }
+    state.allSpots = saved.allSpots;
+    saved.allSpots.forEach(v => { document.querySelector(`[id^="q-spots-"] .chip[data-val="${v}"]`)?.classList.add('selected'); });
+
+    showStep(2);
+  });
+
+  const actions = document.querySelector('#step-1 .step-actions');
+  if (actions) {
+    actions.insertBefore(restoreBtn, actions.firstChild);
+  }
+}
+
+function exportAsJSON() {
+  const saved = { companion: state.companion, days: state.days, interests: state.interests, budget: state.budget, areas: state.areas, itinerary: state.itinerary, allSpots: state.allSpots, timestamp: new Date().toISOString() };
+  const dataStr = JSON.stringify(saved, null, 2);
+  const dataBlob = new Blob([dataStr], { type: 'application/json' });
+  const url = URL.createObjectURL(dataBlob);
+  const link = document.createElement('a');
+  link.href = url;
+  link.download = `trip-plan-${new Date().toISOString().split('T')[0]}.json`;
+  link.click();
+  URL.revokeObjectURL(url);
+}
+
+function importFromJSON() {
+  const input = document.createElement('input');
+  input.type = 'file';
+  input.accept = '.json';
+  input.addEventListener('change', (e) => {
+    const file = e.target.files?.[0];
+    if (!file) return;
+    const reader = new FileReader();
+    reader.onload = (event) => {
+      try {
+        const imported = JSON.parse(event.target?.result || '{}');
+
+        // Clear current state
+        document.querySelectorAll('.chip').forEach(c => c.classList.remove('selected'));
+        document.getElementById('q-itinerary').value = '';
+        Object.assign(state, { companion:'', days:'', interests:[], budget:'', areas:[], itinerary:'', allSpots:[] });
+
+        // Restore imported state
+        if (imported.companion) { state.companion = imported.companion; document.querySelector(`#q-companion .chip[data-val="${imported.companion}"]`)?.classList.add('selected'); }
+        if (imported.days) { state.days = imported.days; document.querySelector(`#q-days .chip[data-val="${imported.days}"]`)?.classList.add('selected'); }
+        if (Array.isArray(imported.interests)) {
+          state.interests = imported.interests;
+          imported.interests.forEach(v => { document.querySelector(`#q-interests .chip[data-val="${v}"]`)?.classList.add('selected'); });
+        }
+        if (imported.budget) { state.budget = imported.budget; document.querySelector(`#q-budget .chip[data-val="${imported.budget}"]`)?.classList.add('selected'); }
+        if (Array.isArray(imported.allSpots)) {
+          state.allSpots = imported.allSpots;
+          imported.allSpots.forEach(v => { document.querySelector(`[id^="q-spots-"] .chip[data-val="${v}"]`)?.classList.add('selected'); });
+        }
+        if (imported.itinerary) { state.itinerary = imported.itinerary; document.getElementById('q-itinerary').value = imported.itinerary; }
+        if (Array.isArray(imported.areas)) {
+          state.areas = imported.areas;
+          imported.areas.forEach(v => { document.querySelector(`#q-areas .chip[data-val="${v}"]`)?.classList.add('selected'); });
+        }
+
+        saveState();
+        showStep(2);
+      } catch (err) {
+        alert('❌ JSON 檔案格式錯誤，請檢查檔案');
+      }
+    };
+    reader.readAsText(file);
+  });
+  input.click();
+}
+
 // ── Load shared parameters from URL ────────────────────────────────────
 function loadSharedState() {
   const params = new URLSearchParams(window.location.search);
@@ -1082,6 +1193,7 @@ function loadSharedState() {
   if (c || d || i || b || a || s) showStep(3); // Jump to results if params provided
 }
 loadSharedState();
+showRestoreButton();
 
 // ── Chip Selection ────────────────────────────────────────────────────
 document.querySelectorAll('.chips').forEach(group => {
@@ -1114,12 +1226,14 @@ document.getElementById('btn-1-next').addEventListener('click', () => {
   const allSpots = [];
   document.querySelectorAll('[id^="q-spots-"]').forEach(el => allSpots.push(...getVals(el.id)));
   Object.assign(state, { companion: getVals('q-companion')[0]||'', days: getVals('q-days')[0]||'', interests: getVals('q-interests'), budget: getVals('q-budget')[0]||'', allSpots });
+  saveState();
   showStep(2);
 });
 document.getElementById('btn-2-back').addEventListener('click', () => showStep(1));
 document.getElementById('btn-2-next').addEventListener('click', () => {
   Object.assign(state, { areas: getVals('q-areas'), itinerary: document.getElementById('q-itinerary').value.trim() });
   buildResults();
+  saveState();
   showStep(3);
 });
 document.getElementById('btn-restart').addEventListener('click', () => {
@@ -1179,6 +1293,22 @@ document.getElementById('btn-edit').addEventListener('click', () => {
   showStep(1);
   window.scrollTo({ top: 0, behavior: 'smooth' });
 });
+
+document.getElementById('btn-export').addEventListener('click', () => {
+  exportAsJSON();
+});
+
+const btnImport = document.createElement('button');
+btnImport.className = 'btn-import';
+btnImport.id = 'btn-import';
+btnImport.textContent = T.btnImport;
+btnImport.addEventListener('click', () => {
+  importFromJSON();
+});
+const actions = document.querySelector('#step-1 .step-actions');
+if (actions) {
+  actions.insertBefore(btnImport, actions.firstChild);
+}
 
 // ── Itinerary Analysis ────────────────────────────────────────────────
 function analyzeItinerary(text) {
@@ -1582,6 +1712,45 @@ function buildResults() {
   background: var(--gold-light, #e8d4b8);
   transform: translateY(-2px);
   box-shadow: 0 6px 16px rgba(197, 160, 89, 0.3);
+}
+
+.btn-export {
+  padding: 0.8em 2em; background: var(--ocean); color: white;
+  border: none; border-radius: 12px; font-weight: 700;
+  font-size: 1rem; cursor: pointer; font-family: inherit;
+  transition: background 0.2s, color 0.2s, transform 0.15s, box-shadow 0.2s;
+  box-shadow: 0 4px 12px rgba(0, 102, 153, 0.2);
+}
+.btn-export:hover {
+  background: #005a99;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(0, 102, 153, 0.3);
+}
+
+.btn-import {
+  padding: 0.8em 2em; background: #5ab1e0; color: white;
+  border: none; border-radius: 12px; font-weight: 700;
+  font-size: 1rem; cursor: pointer; font-family: inherit;
+  transition: background 0.2s, color 0.2s, transform 0.15s, box-shadow 0.2s;
+  box-shadow: 0 4px 12px rgba(90, 177, 224, 0.2);
+}
+.btn-import:hover {
+  background: #3a95d4;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(90, 177, 224, 0.3);
+}
+
+.btn-restore {
+  padding: 0.8em 2em; background: #5ab1e0; color: white;
+  border: none; border-radius: 12px; font-weight: 700;
+  font-size: 1rem; cursor: pointer; font-family: inherit;
+  transition: background 0.2s, color 0.2s, transform 0.15s, box-shadow 0.2s;
+  box-shadow: 0 4px 12px rgba(90, 177, 224, 0.2);
+}
+.btn-restore:hover {
+  background: #3a95d4;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(90, 177, 224, 0.3);
 }
 
 .wechat-modal {
