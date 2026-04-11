@@ -33,7 +33,7 @@ const T = {
     btnShare: '分享給旅伴',
     btnWechat: '微信分享',
     btnEdit: '編輯此行程',
-    btnExport: '💾 匯出為 JSON',
+    btnExport: '💾 下載此旅程',
     btnImport: '📂 導入上次保存',
     btnRestore: '↩️ 載入上次旅程',
     wechatTitle: '用微信掃描二維碼分享',
@@ -108,7 +108,7 @@ const T = {
     btnShare: '分享俾旅伴',
     btnWechat: '微信分享',
     btnEdit: '編輯此行程',
-    btnExport: '💾 匯出做 JSON',
+    btnExport: '💾 下載此旅程',
     btnImport: '📂 導入上次保存',
     btnRestore: '↩️ 載入上次旅程',
     wechatTitle: '用微信掃描二維碼分享',
@@ -183,7 +183,7 @@ const T = {
     btnShare: '分享给旅伴',
     btnWechat: '微信分享',
     btnEdit: '编辑此行程',
-    btnExport: '💾 导出为 JSON',
+    btnExport: '💾 下载此旅程',
     btnImport: '📂 导入上次保存',
     btnRestore: '↩️ 载入上次旅程',
     wechatTitle: '用微信扫描二维码分享',
@@ -258,7 +258,7 @@ const T = {
     btnShare: 'Share with Travel Mates',
     btnWechat: 'Share via WeChat',
     btnEdit: 'Edit This Plan',
-    btnExport: '💾 Export as JSON',
+    btnExport: '💾 Download This Trip',
     btnImport: '📂 Restore Last Save',
     btnRestore: '↩️ Load Last Trip',
     wechatTitle: 'Scan QR code with WeChat to share',
@@ -367,29 +367,6 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
       </div>
 
       <div class="q-block">
-        <div class="q-label">{T.q3} <span class="q-hint">{T.q3hint}</span></div>
-        <div class="chips multi" id="q-interests">
-          <button class="chip" data-val="beach">{T.i_beach}</button>
-          <button class="chip" data-val="surf">{T.i_surf}</button>
-          <button class="chip" data-val="culture">{T.i_culture}</button>
-          <button class="chip" data-val="spa">{T.i_spa}</button>
-          <button class="chip" data-val="food">{T.i_food}</button>
-          <button class="chip" data-val="shop">{T.i_shop}</button>
-          <button class="chip" data-val="yoga">{T.i_yoga}</button>
-          <button class="chip" data-val="night">{T.i_night}</button>
-          <button class="chip" data-val="kids">{T.i_kids}</button>
-          <button class="chip" data-val="snorkel">{T.i_snorkel}</button>
-          <button class="chip" data-val="nature">{T.i_nature}</button>
-          <button class="chip" data-val="photo">{T.i_photo}</button>
-          <button class="chip" data-val="rafting">{T.i_rafting}</button>
-          <button class="chip" data-val="atv">{T.i_atv}</button>
-          <button class="chip" data-val="beachclub">{T.i_beachclub}</button>
-          <button class="chip" data-val="volcano">{T.i_volcano}</button>
-          <button class="chip" data-val="performance">{T.i_performance}</button>
-        </div>
-      </div>
-
-      <div class="q-block">
         <div class="q-label">{T.q_spots} <span class="q-hint">{T.q_spots_hint}</span></div>
         <div class="spots-region-group">
           <div class="spots-region-label">{T.spots_ubud}</div>
@@ -412,6 +389,9 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
             <button class="chip" data-val="u_food">{T.su_food}</button>
             <button class="chip" data-val="u_spa">{T.u_spa}</button>
             <button class="chip" data-val="u_penglipuran">{T.u_penglipuran}</button>
+            <button class="chip" data-val="rafting">{T.i_rafting}</button>
+            <button class="chip" data-val="atv">{T.i_atv}</button>
+            <button class="chip" data-val="volcano">{T.i_volcano}</button>
           </div>
         </div>
         <div class="spots-region-group">
@@ -638,6 +618,16 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
     </div>
   </div>
 </main>
+
+<!-- Spot preview popover (singleton, positioned via JS) -->
+<div id="spot-popover" aria-hidden="true" aria-live="polite">
+  <img id="spot-pop-img" src="" alt="" loading="lazy" />
+  <div class="spot-pop-body">
+    <span id="spot-pop-tag"></span>
+    <div id="spot-pop-title"></div>
+    <a id="spot-pop-link" href="#" target="_blank" rel="noopener noreferrer">了解更多 ↗</a>
+  </div>
+</div>
 
 <script define:vars={{ lang }}>
 // ── Client-side i18n for buttons ─────────────────────────────────────
@@ -1233,7 +1223,8 @@ function showStep(n) {
 document.getElementById('btn-1-next').addEventListener('click', () => {
   const allSpots = [];
   document.querySelectorAll('[id^="q-spots-"]').forEach(el => allSpots.push(...getVals(el.id)));
-  Object.assign(state, { companion: getVals('q-companion')[0]||'', days: getVals('q-days')[0]||'', interests: getVals('q-interests'), budget: getVals('q-budget')[0]||'', allSpots });
+  const adventureActivities = ['rafting','atv','volcano'].filter(v => allSpots.includes(v));
+  Object.assign(state, { companion: getVals('q-companion')[0]||'', days: getVals('q-days')[0]||'', interests: adventureActivities, budget: getVals('q-budget')[0]||'', allSpots });
   saveState();
   showStep(2);
 });
@@ -1508,7 +1499,160 @@ const ALL_SPOTS_DATA = {
   sa_climbing: { title: "Clip'n'Climb 沙努爾室內攀岩攻略", url: '/blog/2025-04-06-67f250eafd897800017f2dd3/', tag: '攀岩' },
   sa_spa:      { title: '峇里島全區精華 SPA 推薦（以區域劃分）', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'SPA' },
   sa_snorkel:  { title: '沙努爾離岸浮潛體驗（Klook）', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F134495-snorkeling-experience-in-sanur-coastal%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dd9d7485ad9', tag: '浮潛' },
+  // Adventure (also appear in Ubud spots)
+  rafting:     { title: '【峇里島泛舟 FAQ】不會游泳也能玩？年齡限制與安全須知', url: '/blog/2025-03-28-67e62aa8fd89780001888620/', tag: '泛舟' },
+  atv:         { title: '峇里島 ATV 四輪越野車探險：感受熱帶天堂的刺激與自由', url: '/blog/2024-01-30-65b6ef65fd89780001f5d032/', tag: 'ATV' },
+  volcano:     { title: '峇里島金塔馬尼巴杜爾火山湖｜日出登山 × 皇家遊船全攻略', url: '/blog/2025-10-09-68e786abfd89780001c1b9b7/', tag: '火山' },
 };
+
+// ── Spot Preview Images ───────────────────────────────────────────────
+const SPOT_IMAGES = {
+  // Ubud
+  u_palace:     'https://images.gobaligo.id/vocus/vocus_5a0249c2416d34d9faa70c164c0fbf56.jpg',
+  u_market:     'https://images.gobaligo.id/vocus/vocus_fc7f3da47eadb345f044cbd06455d214.jpg',
+  u_tirta:      'https://images.gobaligo.id/vocus/vocus_ea059ffc95268e16ff2815ce4d13f7a9.jpg',
+  u_monkey:     'https://images.gobaligo.id/vocus/vocus_6614b94e4dbd763830fa8bcec020aa64.png',
+  u_terraces:   'https://images.gobaligo.id/vocus/vocus_7954b979e215fc1714f578e8902d7e09.png',
+  u_skywalk:    'https://images.gobaligo.id/vocus/vocus_3dba799dbbf88a08d80f720169f80421.jpg',
+  u_coffee:     'https://images.gobaligo.id/vocus/vocus_45e08046ec421469e25833e462a90f5f.jpg',
+  u_zoo:        'https://images.gobaligo.id/vocus/vocus_7350b0aa61ea1a86594fde6e5db46812.jpg',
+  u_waterfall:  'https://images.gobaligo.id/vocus/vocus_e74bbb16a16cd1b0f28c1d1b99c23329.jpg',
+  u_fairy:      'https://images.gobaligo.id/vocus/vocus_af793a02c768b26700df81f73fe8356f.jpg',
+  u_junglepool: 'https://images.gobaligo.id/vocus/vocus_cbcb3dcfef832d05b8df6806e839d3e2.jpg',
+  u_jeep:       'https://images.gobaligo.id/vocus/vocus_997139cf653d2e06d7213660fbc2cde4.png',
+  u_singing:    'https://images.gobaligo.id/vocus/vocus_8f4c523d5f5a290a5bf5c83a79493923.jpg',
+  u_swing:      'https://images.gobaligo.id/vocus/vocus_92b68a7d40fbfcaf218c4c70dff68f6f.jpg',
+  u_mario:      'https://images.gobaligo.id/vocus/vocus_dc2ce1f87419cee62706ce6b07caeefd.jpg',
+  u_food:       'https://images.gobaligo.id/vocus/vocus_7967360076c821375ec01e8c60a7c56e.png',
+  u_spa:        'https://images.gobaligo.id/vocus/vocus_6579b0d7e4eb39f222791c28427fa7fb.jpg',
+  u_penglipuran:'https://images.gobaligo.id/vocus/vocus_f48a7964b7329cadd4c36a4ad63e845a.jpg',
+  rafting:      'https://images.gobaligo.id/vocus/vocus_0fbf0fa6cbdf5a3d06b5e9a8b4a461a0.jpg',
+  atv:          'https://images.gobaligo.id/vocus/vocus_039bb6ec789bf69b006e73bb591203f8.jpg',
+  volcano:      'https://images.gobaligo.id/vocus/vocus_45e08046ec421469e25833e462a90f5f.jpg',
+  // Kuta
+  k_surf:       'https://images.gobaligo.id/vocus/vocus_879f4fdb8dbb83fac3a613828dec0a3f.png',
+  k_waterbom:   'https://images.gobaligo.id/vocus/vocus_63ef5e2e4331b05fa400334cc1a4a4b9.jpg',
+  k_beachwalk:  'https://img.youtube.com/vi/IReL1ztxL7c/hqdefault.jpg',
+  k_turtle:     'https://images.gobaligo.id/vocus/vocus_ed1ea6cbc2b41221a0a57d6e6ed75985.jpg',
+  k_beerbus:    'https://images.gobaligo.id/vocus/vocus_aa77bb3f2f0ffee906fdccf34ddbdbcc.jpg',
+  k_food:       'https://images.gobaligo.id/vocus/vocus_379163a23650c3f251e94357f93c0736.jpg',
+  k_spa:        'https://images.gobaligo.id/vocus/vocus_6579b0d7e4eb39f222791c28427fa7fb.jpg',
+  // Seminyak
+  se_daytour:   'https://images.gobaligo.id/vocus/vocus_d9d929150c54e9a96490136e18b3e11a.jpg',
+  se_surf:      'https://images.gobaligo.id/vocus/vocus_072768a98cc9dfc8bf4b4bca8e2f8b39.jpg',
+  se_food:      'https://images.gobaligo.id/vocus/vocus_8eb6c3d66e8b70069b54f1cdf1700579.jpg',
+  se_club:      'https://images.gobaligo.id/vocus/vocus_631d63d1f01506557ac81fa110c373c6.jpg',
+  se_spa:       'https://images.gobaligo.id/vocus/vocus_6579b0d7e4eb39f222791c28427fa7fb.jpg',
+  // Canggu
+  cg_tanah:     'https://images.gobaligo.id/vocus/vocus_3a3647bbd28b5fe748c00b69b5d9c430.jpg',
+  cg_labrisa:   'https://images.gobaligo.id/vocus/vocus_a1d286264ed333dad9574c961065d669.jpg',
+  cg_nuanu:     'https://images.gobaligo.id/vocus/vocus_55ede6433e92d99ef451b578d4341434.jpg',
+  cg_surf:      'https://images.gobaligo.id/vocus/vocus_072768a98cc9dfc8bf4b4bca8e2f8b39.jpg',
+  cg_spa:       'https://images.gobaligo.id/vocus/vocus_6579b0d7e4eb39f222791c28427fa7fb.jpg',
+  // Jimbaran
+  ji_gwk:       'https://images.gobaligo.id/vocus/vocus_59dd74c824c1b08c87059ea0d45e3f93.jpg',
+  ji_rockbar:   'https://images.gobaligo.id/vocus/vocus_bc5effe6be71d08b10556ee097f70753.jpg',
+  ji_seafood:   'https://images.gobaligo.id/vocus/vocus_f7b93b1f90cd8c43ed9ba897b930f64a.jpg',
+  ji_shopping:  'https://img.youtube.com/vi/RodQvCZKwD0/hqdefault.jpg',
+  ji_spa:       'https://images.gobaligo.id/vocus/vocus_6579b0d7e4eb39f222791c28427fa7fb.jpg',
+  // Uluwatu
+  ul_temple:    'https://images.gobaligo.id/vocus/vocus_6a954ba9156a573d305372ef3915d066.jpg',
+  ul_kecak:     'https://images.gobaligo.id/vocus/vocus_dae81434517c1f3155bd2d7f3dad6b78.jpg',
+  ul_oneeighty: 'https://images.gobaligo.id/vocus/vocus_796a7726285dc90f4c9e926629c7be3b.jpg',
+  ul_highway:   'https://images.gobaligo.id/vocus/vocus_b6047d6cb9e26f87bdbf416907acf6fe.jpg',
+  ul_beach:     'https://images.gobaligo.id/vocus/vocus_a620733c94c49dc8ea080f79b317e293.jpg',
+  ul_paraglide: 'https://images.gobaligo.id/vocus/vocus_214329c952f788b942561a41d700944d.jpg',
+  ul_spa:       'https://images.gobaligo.id/vocus/vocus_6579b0d7e4eb39f222791c28427fa7fb.jpg',
+  // Nusa Dua
+  nd_buffet:    'https://images.gobaligo.id/vocus/vocus_be2045caad5454e6a13a7441774fca50.png',
+  nd_lobster:   'https://images.gobaligo.id/vocus/vocus_efd9c614033396ce83bfc6bda22041ac.jpg',
+  nd_bali_collection: 'https://img.youtube.com/vi/3AqPucmnSLE/hqdefault.jpg',
+  nd_watersport:'https://images.gobaligo.id/vocus/vocus_3300dc8a58bc532d7df11537b9bac64b.jpg',
+  nd_devdan:    'https://images.gobaligo.id/vocus/vocus_127a8e6469f56bdbefac0f605a55d6a8.jpg',
+  nd_spa:       'https://images.gobaligo.id/vocus/vocus_6579b0d7e4eb39f222791c28427fa7fb.jpg',
+  // Sanur
+  sa_icon:      'https://images.gobaligo.id/vocus/vocus_518bf6250894fe40dd8bb2a87de767b5.jpg',
+  sa_turtle:    'https://images.gobaligo.id/vocus/vocus_ed1ea6cbc2b41221a0a57d6e6ed75985.jpg',
+  sa_aerox:     'https://images.gobaligo.id/vocus/vocus_7c93b6fe6f8a109d963dc6aa5b1aefa4.jpg',
+  sa_climbing:  'https://images.gobaligo.id/vocus/vocus_3869790ee9324934ceb718ad5b7493e1.jpg',
+  sa_spa:       'https://images.gobaligo.id/vocus/vocus_6579b0d7e4eb39f222791c28427fa7fb.jpg',
+};
+
+// ── Spot Preview Popover ──────────────────────────────────────────────
+(function initSpotPopovers() {
+  // Inject ⓘ button into every spot chip that has data
+  document.querySelectorAll('[id^="q-spots-"] .chip').forEach(chip => {
+    const key = chip.dataset.val;
+    if (!ALL_SPOTS_DATA[key]) return;
+    const btn = document.createElement('span');
+    btn.className = 'chip-info-btn';
+    btn.setAttribute('aria-label', '預覽');
+    btn.textContent = 'ⓘ';
+    btn.dataset.spot = key;
+    chip.appendChild(btn);
+    btn.addEventListener('click', e => {
+      e.stopPropagation();
+      togglePopover(btn);
+    });
+  });
+
+  const pop = document.getElementById('spot-popover');
+  const popImg = document.getElementById('spot-pop-img');
+  const popTag = document.getElementById('spot-pop-tag');
+  const popTitle = document.getElementById('spot-pop-title');
+  const popLink = document.getElementById('spot-pop-link');
+  let activeBtn = null;
+
+  function positionPopover(btn) {
+    const rect = btn.getBoundingClientRect();
+    const popW = 220;
+    const margin = 8;
+    let left = rect.left + rect.width / 2 - popW / 2;
+    left = Math.max(margin, Math.min(left, window.innerWidth - popW - margin));
+    const hasImg = !pop.classList.contains('no-img');
+    const estimatedH = hasImg ? 235 : 115;
+    let top = rect.bottom + 8;
+    if (top + estimatedH > window.innerHeight - margin) top = rect.top - estimatedH - 8;
+    pop.style.left = left + 'px';
+    pop.style.top = top + 'px';
+  }
+
+  function showPopover(btn) {
+    const key = btn.dataset.spot;
+    const info = ALL_SPOTS_DATA[key];
+    if (!info) return;
+    const img = SPOT_IMAGES[key] || '';
+    pop.classList.toggle('no-img', !img);
+    if (img) { popImg.src = img; popImg.alt = info.title; }
+    popTag.textContent = info.tag;
+    popTitle.textContent = info.title;
+    popLink.href = info.url;
+    positionPopover(btn);
+    pop.classList.add('visible');
+    pop.setAttribute('aria-hidden', 'false');
+    activeBtn = btn;
+  }
+
+  function hidePopover() {
+    pop.classList.remove('visible');
+    pop.setAttribute('aria-hidden', 'true');
+    activeBtn = null;
+  }
+
+  function togglePopover(btn) {
+    if (activeBtn === btn) { hidePopover(); return; }
+    showPopover(btn);
+  }
+
+  document.addEventListener('click', e => {
+    if (!activeBtn) return;
+    if (pop.contains(e.target)) return;
+    hidePopover();
+  });
+
+  window.addEventListener('scroll', hidePopover, { passive: true });
+  window.addEventListener('resize', () => { if (activeBtn) positionPopover(activeBtn); });
+})();
 
 function buildSpotsSection() {
   const selected = [...(state.allSpots || [])];
@@ -1945,4 +2089,48 @@ function buildResults() {
   :global(.alist-title) { font-size: 0.87rem; }
   :global(.route-tip-box) { padding: 1.1rem 1.1rem; }
 }
+
+/* ── Spot info button ─────────────────────────────────────────────── */
+.chip-info-btn {
+  display: inline-flex; align-items: center; justify-content: center;
+  width: 1.35em; height: 1.35em; margin-left: 0.35em;
+  border-radius: 50%; background: rgba(26,54,93,0.13);
+  color: var(--ocean, #1a365d); font-size: 0.7em; font-weight: 700;
+  line-height: 1; vertical-align: middle; cursor: pointer;
+  transition: background 0.15s, color 0.15s; flex-shrink: 0; user-select: none;
+}
+.chip:hover .chip-info-btn { background: rgba(26,54,93,0.22); }
+.chip.selected .chip-info-btn { background: rgba(255,255,255,0.28); color: #fff; }
+.chip.selected .chip-info-btn:hover { background: rgba(255,255,255,0.5); }
+
+/* ── Spot preview popover ─────────────────────────────────────────── */
+#spot-popover {
+  position: fixed; z-index: 9999; width: 220px;
+  background: #fff; border-radius: 14px;
+  box-shadow: 0 8px 32px rgba(26,54,93,0.2), 0 2px 8px rgba(0,0,0,0.07);
+  overflow: hidden; opacity: 0; pointer-events: none;
+  transform: scale(0.95) translateY(4px);
+  transition: opacity 0.14s ease, transform 0.14s ease;
+}
+#spot-popover.visible { opacity: 1; pointer-events: auto; transform: scale(1) translateY(0); }
+#spot-popover img { width: 100%; height: 130px; object-fit: cover; display: block; }
+#spot-popover.no-img img { display: none; }
+.spot-pop-body { padding: 0.75rem; }
+#spot-pop-tag {
+  display: inline-block; background: var(--ocean, #1a365d); color: #fff;
+  font-size: 0.68rem; font-weight: 700; padding: 0.15em 0.55em;
+  border-radius: 99px; margin-bottom: 0.45rem;
+}
+#spot-pop-title {
+  font-size: 0.82rem; font-weight: 600; color: var(--ocean, #1a365d);
+  line-height: 1.45; margin-bottom: 0.6rem;
+}
+#spot-pop-link {
+  display: block; text-align: center;
+  background: var(--gold, #c5a059); color: var(--ocean, #1a365d);
+  padding: 0.42em 0.8em; border-radius: 8px;
+  font-weight: 700; font-size: 0.8rem; text-decoration: none;
+  transition: background 0.15s, color 0.15s;
+}
+#spot-pop-link:hover { background: var(--ocean, #1a365d); color: #fff; }
 </style>
