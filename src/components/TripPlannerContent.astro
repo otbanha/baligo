@@ -32,6 +32,7 @@ const T = {
     btnNext2: '查看推薦攻略 →', btnRestart: '重新規劃 ↺',
     btnShare: '分享給旅伴',
     btnWechat: '微信分享',
+    btnEdit: '編輯此行程',
     wechatTitle: '用微信掃描二維碼分享',
     wechatClose: '關閉',
     s3title: '你的個人化推薦',
@@ -103,6 +104,7 @@ const T = {
     btnNext2: '睇推薦攻略 →', btnRestart: '重新規劃 ↺',
     btnShare: '分享俾旅伴',
     btnWechat: '微信分享',
+    btnEdit: '編輯此行程',
     wechatTitle: '用微信掃描二維碼分享',
     wechatClose: '關閉',
     s3title: '你的個人化推薦',
@@ -174,6 +176,7 @@ const T = {
     btnNext2: '查看推荐攻略 →', btnRestart: '重新规划 ↺',
     btnShare: '分享给旅伴',
     btnWechat: '微信分享',
+    btnEdit: '编辑此行程',
     wechatTitle: '用微信扫描二维码分享',
     wechatClose: '关闭',
     s3title: '你的个性化推荐',
@@ -245,6 +248,7 @@ const T = {
     btnNext2: 'See Recommendations →', btnRestart: 'Start Over ↺',
     btnShare: 'Share with Travel Mates',
     btnWechat: 'Share via WeChat',
+    btnEdit: 'Edit This Plan',
     wechatTitle: 'Scan QR code with WeChat to share',
     wechatClose: 'Close',
     s3title: 'Your Personalised Picks',
@@ -598,6 +602,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
       <div class="share-wrap">
         <button class="btn-share" id="btn-share">{T.btnShare}</button>
         <button class="btn-wechat" id="btn-wechat">{T.btnWechat}</button>
+        <button class="btn-edit" id="btn-edit">{T.btnEdit}</button>
       </div>
 
       <!-- WeChat QR Modal -->
@@ -1170,6 +1175,11 @@ document.getElementById('wechat-modal').addEventListener('click', (e) => {
   }
 });
 
+document.getElementById('btn-edit').addEventListener('click', () => {
+  showStep(1);
+  window.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
 // ── Itinerary Analysis ────────────────────────────────────────────────
 function analyzeItinerary(text) {
   if (!text) return { mentionedAreas: [], emptyDays: [] };
@@ -1559,6 +1569,19 @@ function buildResults() {
   background: #078c33;
   transform: translateY(-2px);
   box-shadow: 0 6px 16px rgba(9, 184, 62, 0.3);
+}
+
+.btn-edit {
+  padding: 0.8em 2em; background: var(--gold); color: var(--ocean);
+  border: none; border-radius: 12px; font-weight: 700;
+  font-size: 1rem; cursor: pointer; font-family: inherit;
+  transition: background 0.2s, color 0.2s, transform 0.15s, box-shadow 0.2s;
+  box-shadow: 0 4px 12px rgba(197, 160, 89, 0.2);
+}
+.btn-edit:hover {
+  background: var(--gold-light, #e8d4b8);
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(197, 160, 89, 0.3);
 }
 
 .wechat-modal {
