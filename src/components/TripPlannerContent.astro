@@ -587,6 +587,8 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
         <div class="article-grid" id="global-picks-grid"></div>
       </div>
 
+      <div class="autosave-notice">💾 您所選擇的行程已自動儲存</div>
+
       <div class="share-wrap">
         <button class="btn-share" id="btn-share">{T.btnShare}</button>
         <button class="btn-wechat" id="btn-wechat">{T.btnWechat}</button>
@@ -1055,7 +1057,7 @@ const ACCOM_BY_REGION = {
 const GLOBAL_PICKS = [
   { title: '【精華篇】峇里島好評 SPA、到府按摩推薦（以區域劃分）', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'SPA推薦' },
   { title: '峇里島推薦必買伴手禮：零食/食品篇', url: '/blog/2019-09-02-64db6b5cfd897800013a9015/', tag: '伴手禮' },
-  { title: '【下雨備案】60 個超強室內行程：購物中心・五星下午茶・手作體驗', url: '/blog/2024-01-06-6598c6fffd89780001047d76/', tag: '備案行程' },
+  { title: '【下雨/躲太陽必備】60 個超強室內行程：購物中心・五星下午茶・手作體驗', url: '/blog/2024-01-06-6598c6fffd89780001047d76/', tag: '備案行程' },
   { title: 'Bali Belly 腸胃炎如何自救？紓解成藥攻略', url: '/blog/2026-01-02-69523427fd89780001caa652/', tag: '健康須知' },
   { title: '別再搜必去清單！解鎖你的專屬行程公式與隱藏版秘境', url: '/blog/2025-08-16-68a00fc1fd89780001f621c5/', tag: '景點公式' },
   { title: '新手必看 8 大注意事項：飲水安全、電壓插頭、文化禁忌與防坑建議', url: '/blog/2023-08-15-64db6b7dfd897800013a97bc/', tag: '新手必看' },
@@ -2065,7 +2067,8 @@ function buildResults() {
 :global(.route-warning a) { color: var(--gold-light); text-decoration: underline; text-underline-offset: 2px; }
 
 .restart-wrap { text-align: center; padding: 1.5rem 0 0.5rem; }
-.share-wrap { text-align: center; padding: 2rem 0 1rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+.autosave-notice { text-align: center; font-size: 0.85rem; color: #888; padding: 1.5rem 0 0.5rem; }
+.share-wrap { text-align: center; padding: 0.75rem 0 1rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
 
 @media (max-width: 600px) {
   .wizard-wrap { padding: 1.2rem 0.75rem 3rem; }
