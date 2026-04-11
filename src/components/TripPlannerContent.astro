@@ -31,6 +31,9 @@ const T = {
     btnNext1: '下一步：填寫行程草稿 →', btnBack: '← 上一步',
     btnNext2: '查看推薦攻略 →', btnRestart: '重新規劃 ↺',
     btnShare: '分享給旅伴',
+    btnWechat: '微信分享',
+    wechatTitle: '用微信掃描二維碼分享',
+    wechatClose: '關閉',
     s3title: '你的個人化推薦',
     secMustRead: '📚 規劃前必讀', secGlobal: '🌏 全島必看',
     tagNewbie: '新手指南', tagQA: '新手Q&A', tagRoute: '行程參考',
@@ -99,6 +102,9 @@ const T = {
     btnNext1: '下一步：填寫行程草稿 →', btnBack: '← 上一步',
     btnNext2: '睇推薦攻略 →', btnRestart: '重新規劃 ↺',
     btnShare: '分享俾旅伴',
+    btnWechat: '微信分享',
+    wechatTitle: '用微信掃描二維碼分享',
+    wechatClose: '關閉',
     s3title: '你的個人化推薦',
     secMustRead: '📚 出發前必讀', secGlobal: '🌏 全島必看',
     tagNewbie: '新手指南', tagQA: '新手Q&A', tagRoute: '行程參考',
@@ -167,6 +173,9 @@ const T = {
     btnNext1: '下一步：填写行程草稿 →', btnBack: '← 上一步',
     btnNext2: '查看推荐攻略 →', btnRestart: '重新规划 ↺',
     btnShare: '分享给旅伴',
+    btnWechat: '微信分享',
+    wechatTitle: '用微信扫描二维码分享',
+    wechatClose: '关闭',
     s3title: '你的个性化推荐',
     secMustRead: '📚 规划前必读', secGlobal: '🌏 全岛必看',
     tagNewbie: '新手指南', tagQA: '新手Q&A', tagRoute: '行程参考',
@@ -235,6 +244,9 @@ const T = {
     btnNext1: 'Next: Draft Itinerary →', btnBack: '← Back',
     btnNext2: 'See Recommendations →', btnRestart: 'Start Over ↺',
     btnShare: 'Share with Travel Mates',
+    btnWechat: 'Share via WeChat',
+    wechatTitle: 'Scan QR code with WeChat to share',
+    wechatClose: 'Close',
     s3title: 'Your Personalised Picks',
     secMustRead: '📚 Must-Read Before You Go', secGlobal: '🌏 Island-Wide Essentials',
     tagNewbie: 'Beginner Guide', tagQA: 'FAQ', tagRoute: 'Itinerary Reference',
@@ -585,6 +597,20 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
 
       <div class="share-wrap">
         <button class="btn-share" id="btn-share">{T.btnShare}</button>
+        <button class="btn-wechat" id="btn-wechat">{T.btnWechat}</button>
+      </div>
+
+      <!-- WeChat QR Modal -->
+      <div class="wechat-modal hidden" id="wechat-modal">
+        <div class="wechat-modal-content">
+          <div class="wechat-modal-header">
+            <h3>{T.wechatTitle}</h3>
+            <button class="wechat-modal-close" id="wechat-modal-close">&times;</button>
+          </div>
+          <div class="wechat-qr-container">
+            <img id="wechat-qr" src="" alt="WeChat QR Code" class="wechat-qr" />
+          </div>
+        </div>
       </div>
 
       <div class="restart-wrap">
@@ -1119,6 +1145,31 @@ document.getElementById('btn-share').addEventListener('click', () => {
   }
 });
 
+document.getElementById('btn-wechat').addEventListener('click', () => {
+  const params = new URLSearchParams();
+  if (state.companion) params.set('c', state.companion);
+  if (state.days) params.set('d', state.days);
+  if (state.interests.length) params.set('i', state.interests.join(','));
+  if (state.budget) params.set('b', state.budget);
+  if (state.areas.length) params.set('a', state.areas.join(','));
+  if (state.allSpots.length) params.set('s', state.allSpots.join(','));
+  const shareUrl = `${window.location.origin}/trip-planner/?${params.toString()}`;
+  const qrUrl = `https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=${encodeURIComponent(shareUrl)}`;
+
+  document.getElementById('wechat-qr').src = qrUrl;
+  document.getElementById('wechat-modal').classList.remove('hidden');
+});
+
+document.getElementById('wechat-modal-close').addEventListener('click', () => {
+  document.getElementById('wechat-modal').classList.add('hidden');
+});
+
+document.getElementById('wechat-modal').addEventListener('click', (e) => {
+  if (e.target === document.getElementById('wechat-modal')) {
+    document.getElementById('wechat-modal').classList.add('hidden');
+  }
+});
+
 // ── Itinerary Analysis ────────────────────────────────────────────────
 function analyzeItinerary(text) {
   if (!text) return { mentionedAreas: [], emptyDays: [] };
@@ -1489,11 +1540,64 @@ function buildResults() {
   font-size: 1rem; cursor: pointer; font-family: inherit;
   transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
   box-shadow: 0 4px 12px rgba(26, 54, 93, 0.2);
+  margin-right: 0.8rem;
 }
 .btn-share:hover {
   background: var(--forest, #2d6a4f);
   transform: translateY(-2px);
   box-shadow: 0 6px 16px rgba(26, 54, 93, 0.3);
+}
+
+.btn-wechat {
+  padding: 0.8em 2em; background: #09b83e; color: white;
+  border: none; border-radius: 12px; font-weight: 700;
+  font-size: 1rem; cursor: pointer; font-family: inherit;
+  transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
+  box-shadow: 0 4px 12px rgba(9, 184, 62, 0.2);
+}
+.btn-wechat:hover {
+  background: #078c33;
+  transform: translateY(-2px);
+  box-shadow: 0 6px 16px rgba(9, 184, 62, 0.3);
+}
+
+.wechat-modal {
+  position: fixed; top: 0; left: 0; right: 0; bottom: 0;
+  background: rgba(0, 0, 0, 0.6); display: flex;
+  align-items: center; justify-content: center;
+  z-index: 1000; padding: 1rem;
+}
+.wechat-modal.hidden { display: none; }
+
+.wechat-modal-content {
+  background: white; border-radius: 16px;
+  padding: 1.5rem; max-width: 400px; width: 100%;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
+}
+
+.wechat-modal-header {
+  display: flex; justify-content: space-between;
+  align-items: center; margin-bottom: 1.5rem;
+}
+
+.wechat-modal-header h3 {
+  margin: 0; font-size: 1.1rem; color: var(--ocean);
+}
+
+.wechat-modal-close {
+  background: none; border: none; font-size: 1.8rem;
+  cursor: pointer; color: #ccc; padding: 0; width: 32px; height: 32px;
+  display: flex; align-items: center; justify-content: center;
+  transition: color 0.2s;
+}
+.wechat-modal-close:hover { color: var(--ocean); }
+
+.wechat-qr-container {
+  text-align: center;
+}
+
+.wechat-qr {
+  max-width: 100%; height: auto; border-radius: 8px;
 }
 
 .results-header { margin-bottom: 1.5rem; }
@@ -1619,7 +1723,7 @@ function buildResults() {
 :global(.route-warning a) { color: var(--gold-light); text-decoration: underline; text-underline-offset: 2px; }
 
 .restart-wrap { text-align: center; padding: 1.5rem 0 0.5rem; }
-.share-wrap { text-align: center; padding: 2rem 0 1rem; }
+.share-wrap { text-align: center; padding: 2rem 0 1rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
 
 @media (max-width: 600px) {
   .wizard-wrap { padding: 1.2rem 0.75rem 3rem; }
