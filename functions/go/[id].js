@@ -24,8 +24,12 @@ function buildHtml(destUrl, selfUrl, title, description, ogImage) {
   <meta property="og:image" content="${esc(ogImage)}" />
   <meta property="og:image:width" content="1200" />
   <meta property="og:image:height" content="630" />
+  <meta property="og:image:type" content="image/jpeg" />
+  <meta property="og:image:alt" content="${esc(title)}" />
   <meta property="og:type" content="website" />
   <meta property="og:site_name" content="${esc(SITE_TITLE)}" />
+  <meta property="og:locale" content="zh_TW" />
+  <meta property="fb:app_id" content="1994862997907037" />
   <meta name="twitter:card" content="summary_large_image" />
   <meta name="twitter:title" content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />

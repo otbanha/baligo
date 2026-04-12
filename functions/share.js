@@ -75,7 +75,13 @@ export async function onRequestGet(context) {
 <meta property="og:type" content="website">
 <meta property="og:url" content="${escHtml(url.href)}">
 <meta property="og:image" content="${escHtml(ogImage)}">
+<meta property="og:image:width" content="1200">
+<meta property="og:image:height" content="630">
+<meta property="og:image:type" content="image/jpeg">
+<meta property="og:image:alt" content="${escHtml(title)}">
 <meta property="og:site_name" content="gobaligo.id">
+<meta property="og:locale" content="zh_TW">
+<meta property="fb:app_id" content="1994862997907037">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="${escHtml(title)}">
 <meta name="twitter:description" content="${escHtml(desc)}">
