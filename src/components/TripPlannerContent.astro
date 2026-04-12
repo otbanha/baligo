@@ -363,24 +363,6 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
       </div>
 
       <div class="q-block">
-        <div class="q-label">{T.q5} <span class="q-hint">{T.q5hint}</span></div>
-        <div class="chips multi" id="q-areas">
-          <button class="chip" data-val="kuta">{T.a_kuta}</button>
-          <button class="chip" data-val="seminyak">{T.a_seminyak}</button>
-          <button class="chip" data-val="canggu">{T.a_canggu}</button>
-          <button class="chip" data-val="ubud">{T.a_ubud}</button>
-          <button class="chip" data-val="jimbaran">{T.a_jimbaran}</button>
-          <button class="chip" data-val="uluwatu">{T.a_uluwatu}</button>
-          <button class="chip" data-val="nusadua">{T.a_nusadua}</button>
-          <button class="chip" data-val="sanur">{T.a_sanur}</button>
-          <button class="chip" data-val="penida">{T.a_penida}</button>
-          <button class="chip" data-val="lembongan">{T.a_lembongan}</button>
-          <button class="chip" data-val="komodo">{T.a_komodo}</button>
-          <button class="chip" data-val="east">{T.a_east}</button>
-        </div>
-      </div>
-
-      <div class="q-block">
         <div class="q-label">{T.q_spots} <span class="q-hint">{T.q_spots_hint}</span></div>
         <div class="spots-region-group">
           <div class="spots-region-label">{T.spots_ubud}</div>
@@ -513,6 +495,24 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
       <h2 class="step-title">{T.s2title}</h2>
 
       <div class="q-block">
+        <div class="q-label">{T.q5} <span class="q-hint">{T.q5hint}</span></div>
+        <div class="chips multi" id="q-areas">
+          <button class="chip" data-val="kuta">{T.a_kuta}</button>
+          <button class="chip" data-val="seminyak">{T.a_seminyak}</button>
+          <button class="chip" data-val="canggu">{T.a_canggu}</button>
+          <button class="chip" data-val="ubud">{T.a_ubud}</button>
+          <button class="chip" data-val="jimbaran">{T.a_jimbaran}</button>
+          <button class="chip" data-val="uluwatu">{T.a_uluwatu}</button>
+          <button class="chip" data-val="nusadua">{T.a_nusadua}</button>
+          <button class="chip" data-val="sanur">{T.a_sanur}</button>
+          <button class="chip" data-val="penida">{T.a_penida}</button>
+          <button class="chip" data-val="lembongan">{T.a_lembongan}</button>
+          <button class="chip" data-val="komodo">{T.a_komodo}</button>
+          <button class="chip" data-val="east">{T.a_east}</button>
+        </div>
+      </div>
+
+      <div class="q-block">
         <div class="q-label">
           {T.q6} <span class="q-hint">{T.q6hint}</span>
         </div>
@@ -587,8 +587,6 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
         <div class="article-grid" id="global-picks-grid"></div>
       </div>
 
-      <div class="autosave-notice">💾 您所選擇的行程已自動儲存</div>
-
       <div class="share-wrap">
         <button class="btn-share" id="btn-share">{T.btnShare}</button>
         <button class="btn-wechat" id="btn-wechat">{T.btnWechat}</button>
@@ -642,6 +640,8 @@ const LANG_STRINGS = {
     companionMap: { solo:'個人獨旅', couple:'情侶蜜月', family:'家庭親子', friends:'朋友同行', elder:'長輩同行', group:'10人以上團體' },
     daysMap: { '4':'4天以內', '5':'5天', '68':'6–8天', '9':'9天以上' },
     secAccom: '🏨 住宿推薦',
+    secKidsAccom: '👶 親子住宿推薦',
+    accomRegionNames: { kuta: '庫塔/雷吉安', seminyak: '水明漾', canggu: '長谷/倉古', ubud: '烏布', jimbaran: '金巴蘭', uluwatu: '烏魯瓦圖', nusadua: '努沙杜瓦', sanur: '沙努爾', penida: '努沙佩尼達', lembongan: '藍夢島', komodo: '科摩多島', east: '東部峇里' },
     secSpots: '📍 你選擇的景點攻略',
     summaryTpl: (parts) => `根據你的條件（${parts.join('・')}）為你整理了以下推薦：`,
     summaryFallback: '根據你的選擇，為你整理了以下推薦：',
@@ -690,6 +690,8 @@ const LANG_STRINGS = {
     companionMap: { solo:'個人獨遊', couple:'情侶/蜜月', family:'家庭親子', friends:'朋友同行', elder:'長輩同行', group:'10人以上團體' },
     daysMap: { '4':'4日以內', '5':'5天4夜', '68':'6–8日', '9':'9日以上' },
     secAccom: '🏨 住宿推薦',
+    secKidsAccom: '👶 親子住宿推薦',
+    accomRegionNames: { kuta: '庫塔/雷吉安', seminyak: '水明漾', canggu: '長谷/倉古', ubud: '烏布', jimbaran: '金巴蘭', uluwatu: '烏魯瓦圖', nusadua: '努沙杜瓦', sanur: '沙努爾', penida: '努沙佩尼達', lembongan: '藍夢島', komodo: '科摩多島', east: '東部峇里' },
     secSpots: '📍 你選擇嘅景點攻略',
     summaryTpl: (parts) => `根據你的條件（${parts.join('・')}）為你整理了以下推薦：`,
     summaryFallback: '根據你的選擇，為你整理了以下推薦：',
@@ -738,6 +740,8 @@ const LANG_STRINGS = {
     companionMap: { solo:'个人独旅', couple:'情侣蜜月', family:'家庭亲子', friends:'朋友同行', elder:'长辈同行', group:'10人以上团体' },
     daysMap: { '4':'4天以内', '5':'5天4夜', '68':'6–8天', '9':'9天以上' },
     secAccom: '🏨 住宿推荐',
+    secKidsAccom: '👶 亲子住宿推荐',
+    accomRegionNames: { kuta: '库塔/雷吉安', seminyak: '水明漾', canggu: '长谷/仓古', ubud: '乌布', jimbaran: '金巴兰', uluwatu: '乌鲁瓦图', nusadua: '努沙杜瓦', sanur: '沙努尔', penida: '努沙佩尼达', lembongan: '蓝梦岛', komodo: '科莫多岛', east: '东部巴厘' },
     secSpots: '📍 你选择的景点攻略',
     summaryTpl: (parts) => `根据你的条件（${parts.join('・')}）为你整理了以下推荐：`,
     summaryFallback: '根据你的选择，为你整理了以下推荐：',
@@ -786,6 +790,8 @@ const LANG_STRINGS = {
     companionMap: { solo:'Solo', couple:'Couple', family:'Family', friends:'Friends', elder:'With Elderly', group:'Group (10+)' },
     daysMap: { '4':'4 days or under', '5':'5 days', '68':'6–8 days', '9':'9+ days' },
     secAccom: '🏨 Accommodation Picks',
+    secKidsAccom: '👶 Family-Friendly Stays',
+    accomRegionNames: { kuta: 'Kuta / Legian', seminyak: 'Seminyak', canggu: 'Canggu', ubud: 'Ubud', jimbaran: 'Jimbaran', uluwatu: 'Uluwatu', nusadua: 'Nusa Dua', sanur: 'Sanur', penida: 'Nusa Penida', lembongan: 'Nusa Lembongan', komodo: 'Komodo Island', east: 'East Bali' },
     secSpots: '📍 Your Selected Attractions',
     summaryTpl: (parts) => `Based on your profile (${parts.join(', ')}) here are your picks:`,
     summaryFallback: 'Based on your selections, here are your picks:',
@@ -1017,7 +1023,7 @@ const INTEREST_EXTRAS = {
 };
 
 // ── Accommodation by Region ───────────────────────────────────────────
-const ACCOM_BY_REGION = {
+let ACCOM_BY_REGION = {
   seminyak: [
     { title: '水明漾 22 間令人驚艷的峇里島 Villa 泳池別墅推薦', url: '/blog/2025-08-11-660e6e92fd89780001e6047e/', tag: 'Villa' },
     { title: '【水明漾住宿】Hotel Indigo Bali Seminyak 台幣5千入住五星濱海渡假村', url: '/blog/2025-07-24-68818eddfd897800017a2dfb/', tag: '五星' },
@@ -1053,11 +1059,18 @@ const ACCOM_BY_REGION = {
   ],
 };
 
+// ── Kids / Family Accommodation ───────────────────────────────────────
+let KIDS_ACCOM = [
+  { title: 'Holiday Inn Resort Bali Canggu 峇里島長谷假日酒店', url: '/blog/2025-10-07-68e51c8efd897800014e36a6/', tag: '親子' },
+  { title: '巴里島親子遊：峇里島動物園 Bali Safari 夜宿攻略', url: '/blog/2023-07-25-64db6b8cfd897800013a9ab1/', tag: '動物園' },
+  { title: '【2026 峇里島親子遊】100+ 親子友善景點與活動大全', url: '/blog/2023-03-05-64db6b81fd897800013a98b4/', tag: '全攻略' },
+];
+
 // ── Global Must-See Picks (19 articles, display 12 randomly) ─────────
 const GLOBAL_PICKS = [
   { title: '【精華篇】峇里島好評 SPA、到府按摩推薦（以區域劃分）', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'SPA推薦' },
   { title: '峇里島推薦必買伴手禮：零食/食品篇', url: '/blog/2019-09-02-64db6b5cfd897800013a9015/', tag: '伴手禮' },
-  { title: '【下雨/躲太陽必備】60 個超強室內行程：購物中心・五星下午茶・手作體驗', url: '/blog/2024-01-06-6598c6fffd89780001047d76/', tag: '備案行程' },
+  { title: '【下雨備案】60 個超強室內行程：購物中心・五星下午茶・手作體驗', url: '/blog/2024-01-06-6598c6fffd89780001047d76/', tag: '備案行程' },
   { title: 'Bali Belly 腸胃炎如何自救？紓解成藥攻略', url: '/blog/2026-01-02-69523427fd89780001caa652/', tag: '健康須知' },
   { title: '別再搜必去清單！解鎖你的專屬行程公式與隱藏版秘境', url: '/blog/2025-08-16-68a00fc1fd89780001f621c5/', tag: '景點公式' },
   { title: '新手必看 8 大注意事項：飲水安全、電壓插頭、文化禁忌與防坑建議', url: '/blog/2023-08-15-64db6b7dfd897800013a97bc/', tag: '新手必看' },
@@ -1127,7 +1140,8 @@ function buildTripUrl() {
   if (state.budget) params.set('b', state.budget);
   if (state.areas.length) params.set('a', state.areas.join(','));
   if (state.allSpots.length) params.set('s', state.allSpots.join(','));
-  return `${window.location.origin}/trip-planner/?${params.toString()}`;
+  // Use /share/ so LINE/social scrapers see a friendly OG title instead of the tool name
+  return `${window.location.origin}/share/?${params.toString()}`;
 }
 
 function importFromJSON() {
@@ -1185,10 +1199,23 @@ function loadSharedState() {
   const b = params.get('b'); if (b) { state.budget = b; document.querySelector(`#q-budget .chip[data-val="${b}"]`)?.classList.add('selected'); }
   const a = params.get('a'); if (a) { a.split(',').forEach(v => { state.areas.push(v); document.querySelector(`#q-areas .chip[data-val="${v}"]`)?.classList.add('selected'); }); }
   const s = params.get('s'); if (s) { state.allSpots = s.split(','); s.split(',').forEach(v => { document.querySelector(`[id^="q-spots-"] .chip[data-val="${v}"]`)?.classList.add('selected'); }); }
-  if (c || d || i || b || a || s) showStep(3); // Jump to results if params provided
+  if (c || d || i || b || a || s) { buildResults(); showStep(3); } // Jump to results if params provided
 }
-loadSharedState();
-showRestoreButton();
+
+// ── Dynamic link loading from KV (Atlas-managed) ──────────────────────
+async function initLinks() {
+  try {
+    const res = await fetch('/api/trip-planner-links');
+    if (res.ok) {
+      const data = await res.json();
+      if (data.accom && typeof data.accom === 'object') ACCOM_BY_REGION = data.accom;
+      if (Array.isArray(data.kidsAccom)) KIDS_ACCOM = data.kidsAccom;
+    }
+  } catch (e) { /* use hardcoded defaults */ }
+  loadSharedState();
+  showRestoreButton();
+}
+initLinks();
 
 // ── Chip Selection ────────────────────────────────────────────────────
 document.querySelectorAll('.chips').forEach(group => {
@@ -1221,14 +1248,14 @@ document.getElementById('btn-1-next').addEventListener('click', () => {
   const allSpots = [];
   document.querySelectorAll('[id^="q-spots-"]').forEach(el => allSpots.push(...getVals(el.id)));
   const adventureActivities = ['rafting','atv','volcano'].filter(v => allSpots.includes(v));
-  Object.assign(state, { companion: getVals('q-companion')[0]||'', days: getVals('q-days')[0]||'', interests: adventureActivities, budget: getVals('q-budget')[0]||'', allSpots, areas: getVals('q-areas') });
+  Object.assign(state, { companion: getVals('q-companion')[0]||'', days: getVals('q-days')[0]||'', interests: adventureActivities, budget: getVals('q-budget')[0]||'', allSpots });
   saveState();
   showStep(2);
 });
 document.getElementById('btn-2-back').addEventListener('click', () => showStep(1));
 document.getElementById('btn-2-next').addEventListener('click', () => {
   try {
-    Object.assign(state, { itinerary: document.getElementById('q-itinerary').value.trim() });
+    Object.assign(state, { areas: getVals('q-areas'), itinerary: document.getElementById('q-itinerary').value.trim() });
     console.log('[Trip Planner] Step 2 → Step 3 - State:', state);
     buildResults();
     console.log('[Trip Planner] Results built');
@@ -1295,6 +1322,11 @@ document.getElementById('btn-export').addEventListener('click', () => {
     prompt('複製旅程連結：', url);
   });
 });
+
+const actions = document.querySelector('#step-1 .step-actions');
+if (actions) {
+  actions.insertBefore(btnImport, actions.firstChild);
+}
 
 // ── Itinerary Analysis ────────────────────────────────────────────────
 function analyzeItinerary(text) {
@@ -1659,11 +1691,34 @@ const SPOT_IMAGES = {
 
 
 function buildAccomSection(areas) {
-  const items = [];
-  areas.forEach(key => { const list = ACCOM_BY_REGION[key]; if (list) items.push(...list); });
-  if (items.length === 0) return '';
-  const title = LS.secAccom || '🏨 住宿推薦';
-  return `<div class="results-section highlight"><h3 class="section-title">${title}</h3><div class="article-grid">${items.slice(0, 10).map(cardHtml).join('')}</div></div>`;
+  const isFamily = state.companion === 'family' || state.interests.includes('kids');
+  const sections = [];
+
+  // 親子住宿 block at top when family companion selected
+  if (isFamily && KIDS_ACCOM.length > 0) {
+    const kidsTitle = LS.secKidsAccom || '👶 親子住宿推薦';
+    sections.push(`<div class="results-section highlight"><h3 class="section-title">${kidsTitle}</h3><div class="article-grid">${KIDS_ACCOM.slice(0, 4).map(cardHtml).join('')}</div></div>`);
+  }
+
+  // Per-region accommodation blocks (max 4 each)
+  const regionNames = LS.accomRegionNames || {};
+  const regionRows = [];
+  areas.forEach(key => {
+    const list = ACCOM_BY_REGION[key];
+    if (!list || list.length === 0) return;
+    const region = REGIONS[key];
+    const emoji = region ? region.emoji + ' ' : '';
+    const name = regionNames[key] || (region ? region.name : key);
+    const suffix = lang === 'en' ? ' Stays' : '住宿';
+    regionRows.push(`<h4 class="accom-region-title">${emoji}${name}${suffix}</h4><div class="article-grid">${list.slice(0, 4).map(cardHtml).join('')}</div>`);
+  });
+
+  if (regionRows.length > 0) {
+    const title = LS.secAccom || '🏨 住宿推薦';
+    sections.push(`<div class="results-section highlight"><h3 class="section-title">${title}</h3>${regionRows.join('')}</div>`);
+  }
+
+  return sections.join('');
 }
 
 function buildRouteTip(areas) {
@@ -1979,6 +2034,12 @@ function buildResults() {
   margin: 0 0 1rem; padding-bottom: 0.5rem;
   border-bottom: 2px solid var(--gold-pale);
 }
+:global(.accom-region-title) {
+  font-size: 0.95rem; font-weight: 700; color: var(--ocean);
+  margin: 1.2rem 0 0.7rem; padding-bottom: 0.35rem;
+  border-bottom: 1px dashed rgba(197,160,89,0.45);
+}
+:global(.accom-region-title:first-of-type) { margin-top: 0.2rem; }
 :global(.region-title) { display: flex; align-items: baseline; gap: 0.4em; flex-wrap: wrap; }
 :global(.region-desc) { font-size: 0.82rem; font-weight: 400; color: #888; margin-left: 0.2em; }
 :global(.region-selected-spots) { margin-bottom: 0.8rem; padding-bottom: 0.8rem; border-bottom: 1.5px dashed #e0d9ce; }
@@ -2067,8 +2128,7 @@ function buildResults() {
 :global(.route-warning a) { color: var(--gold-light); text-decoration: underline; text-underline-offset: 2px; }
 
 .restart-wrap { text-align: center; padding: 1.5rem 0 0.5rem; }
-.autosave-notice { text-align: center; font-size: 0.85rem; color: #888; padding: 1.5rem 0 0.5rem; }
-.share-wrap { text-align: center; padding: 0.75rem 0 1rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
+.share-wrap { text-align: center; padding: 2rem 0 1rem; display: flex; gap: 1rem; justify-content: center; flex-wrap: wrap; }
 
 @media (max-width: 600px) {
   .wizard-wrap { padding: 1.2rem 0.75rem 3rem; }

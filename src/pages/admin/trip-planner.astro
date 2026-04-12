@@ -1,0 +1,348 @@
+---
+export const prerender = true;
+---
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>行程規劃連結 — gobaligo 後台</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+           background: #f5f5f5; color: #222; padding: 1.5rem 1rem; }
+    .container { max-width: 1000px; margin: 0 auto; }
+    h1 { font-size: 1.25rem; font-weight: 700; margin-bottom: 1.5rem; }
+
+    #auth-wall { background: #fff; border-radius: 10px; padding: 2rem;
+                 box-shadow: 0 1px 6px rgba(0,0,0,.1); max-width: 360px; }
+    #auth-wall h2 { font-size: 1rem; margin-bottom: 1rem; }
+    .auth-row { display: flex; gap: .5rem; }
+    .auth-row input { flex: 1; padding: .5rem .8rem; border: 1px solid #ccc;
+                      border-radius: 6px; font-size: .95rem; }
+    .auth-err { color: #c53030; font-size: .82rem; margin-top: .5rem; display: none; }
+    #main-ui { display: none; }
+
+    .layout { display: grid; grid-template-columns: 180px 1fr 1fr; gap: 1.2rem; }
+    @media (max-width: 720px) { .layout { grid-template-columns: 1fr; } }
+
+    .cat-panel { background: #fff; border-radius: 10px; box-shadow: 0 1px 6px rgba(0,0,0,.1);
+                 overflow: hidden; align-self: start; }
+    .cat-panel h2 { font-size: .85rem; font-weight: 700; color: #555; padding: .9rem 1rem .6rem;
+                    border-bottom: 1px solid #f0f0f0; }
+    .cat-btn { display: block; width: 100%; text-align: left; padding: .6rem 1rem;
+               border: none; background: none; cursor: pointer; font-size: .88rem;
+               font-family: inherit; color: #333; transition: background .1s;
+               border-left: 3px solid transparent; }
+    .cat-btn:hover { background: #faf8f4; }
+    .cat-btn.active { background: #f0f7ff; border-left-color: #1A365D; color: #1A365D; font-weight: 700; }
+    .cat-count { font-size: .75rem; color: #aaa; margin-left: .3rem; }
+
+    .panel { background: #fff; border-radius: 10px; padding: 1.2rem 1.4rem;
+             box-shadow: 0 1px 6px rgba(0,0,0,.1); }
+    .panel h2 { font-size: .95rem; font-weight: 700; color: #555; margin-bottom: .8rem; }
+    .panel-hint { font-size: .78rem; color: #aaa; margin-bottom: .8rem; }
+
+    #link-list { display: flex; flex-direction: column; gap: .4rem; margin-bottom: 1rem; min-height: 40px; }
+    .link-item { display: flex; align-items: flex-start; gap: .5rem; padding: .55rem .7rem;
+                 background: #f9f9f9; border: 1px solid #e5e5e5; border-radius: 7px; }
+    .link-num { font-size: .82rem; font-weight: 700; color: #1A365D; width: 18px; flex-shrink: 0; padding-top: 2px; }
+    .link-body { flex: 1; min-width: 0; }
+    .link-title { font-size: .84rem; line-height: 1.4; }
+    .link-url { font-size: .73rem; color: #999; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+    .link-tag { display: inline-block; font-size: .7rem; background: #eef3ff; color: #1A365D;
+                padding: .1em .45em; border-radius: 4px; margin-top: .2rem; font-weight: 600; }
+    .link-actions { display: flex; gap: .25rem; flex-shrink: 0; }
+    .btn-icon { background: none; border: 1px solid #ddd; border-radius: 5px;
+                padding: .18rem .42rem; font-size: .78rem; cursor: pointer;
+                color: #666; transition: background .1s; font-family: inherit; }
+    .btn-icon:hover { background: #f0f0f0; }
+    .btn-icon.del:hover { background: #fff0f0; border-color: #fca5a5; color: #c53030; }
+    .btn-icon:disabled { opacity: .3; cursor: not-allowed; }
+    .empty-hint { font-size: .84rem; color: #bbb; padding: .5rem 0; }
+
+    .save-row { display: flex; align-items: center; gap: .8rem; margin-top: .6rem; }
+    #save-btn { padding: .5rem 1.4rem; background: #1A365D; color: #fff; border: none;
+                border-radius: 8px; font-size: .92rem; font-weight: 700;
+                cursor: pointer; font-family: inherit; }
+    #save-btn:hover { background: #254d85; }
+    #save-btn:disabled { opacity: .45; cursor: not-allowed; }
+    #save-status { font-size: .84rem; }
+
+    .add-form { display: flex; flex-direction: column; gap: .6rem; }
+    .add-form label { font-size: .82rem; font-weight: 600; color: #555; display: block; margin-bottom: .25rem; }
+    .add-form input { width: 100%; padding: .45rem .7rem; border: 1px solid #ccc;
+                      border-radius: 6px; font-size: .88rem; font-family: inherit; outline: none; }
+    .add-form input:focus { border-color: #1A365D; }
+    #add-btn { padding: .5rem 1.2rem; background: #2d6a4f; color: #fff; border: none;
+               border-radius: 8px; font-size: .9rem; font-weight: 700;
+               cursor: pointer; font-family: inherit; align-self: flex-start; }
+    #add-btn:hover { background: #1b4332; }
+    .add-hint { font-size: .75rem; color: #aaa; }
+
+    .btn-ocean { background: #1A365D; color: #fff; border: none; border-radius: 6px;
+                 padding: .4rem .9rem; font-size: .85rem; font-weight: 600; cursor: pointer; font-family: inherit; }
+    .btn-ocean:hover { background: #254d85; }
+  </style>
+</head>
+<body>
+<div class="container">
+  <h1>🗺️ 行程規劃第三步推薦連結</h1>
+
+  <div id="auth-wall">
+    <h2>請輸入管理密碼</h2>
+    <div class="auth-row">
+      <input type="password" id="token-input" placeholder="Admin token" />
+      <button class="btn-ocean" id="token-submit">進入</button>
+    </div>
+    <div class="auth-err" id="auth-err">密碼錯誤，請再試一次</div>
+  </div>
+
+  <div id="main-ui">
+    <div class="layout">
+
+      <!-- Region selector -->
+      <div class="cat-panel">
+        <h2>區域</h2>
+        <div id="region-list"></div>
+      </div>
+
+      <!-- Current links -->
+      <div class="panel">
+        <h2 id="links-heading">住宿連結</h2>
+        <div class="panel-hint">最多顯示前 4 則（依序排列）</div>
+        <div id="link-list"></div>
+        <div class="save-row">
+          <button id="save-btn">儲存全部</button>
+          <span id="save-status"></span>
+        </div>
+      </div>
+
+      <!-- Add new link -->
+      <div class="panel">
+        <h2>新增連結</h2>
+        <div class="add-form">
+          <div>
+            <label>文章標題</label>
+            <input type="text" id="add-title" placeholder="例：烏布 30 間森林系渡假村推薦" />
+          </div>
+          <div>
+            <label>文章網址 <span class="add-hint">（/blog/xxx/ 格式）</span></label>
+            <input type="text" id="add-url" placeholder="/blog/2024-01-01-xxxxxxxx/" />
+          </div>
+          <div>
+            <label>標籤 <span class="add-hint">（簡短分類標籤）</span></label>
+            <input type="text" id="add-tag" placeholder="例：Villa / 五星 / 平價" />
+          </div>
+          <button id="add-btn">＋ 新增到此區域</button>
+        </div>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+<script is:inline>
+  var token = '';
+  var linksData = { accom: {}, kidsAccom: [] };
+  var currentRegion = '';
+
+  var REGIONS = [
+    { key: 'seminyak',  label: '💅 水明漾' },
+    { key: 'canggu',    label: '☕ 長谷/倉古' },
+    { key: 'ubud',      label: '🌿 烏布' },
+    { key: 'jimbaran',  label: '🦞 金巴蘭' },
+    { key: 'uluwatu',   label: '🌅 烏魯瓦圖' },
+    { key: 'nusadua',   label: '🏨 努沙杜瓦' },
+    { key: 'kuta',      label: '🏖️ 庫塔/雷吉安' },
+    { key: 'sanur',     label: '⛵ 沙努爾' },
+    { key: 'penida',    label: '🤿 努沙佩尼達' },
+    { key: 'lembongan', label: '🏝️ 藍夢島' },
+    { key: 'komodo',    label: '🦎 科摩多島' },
+    { key: 'east',      label: '⛩️ 東部峇里' },
+    { key: '__kids__',  label: '👶 親子住宿推薦' },
+  ];
+
+  function esc(s) {
+    return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+  }
+
+  // ── Auth ──────────────────────────────────────────────────────────────────
+  var saved = sessionStorage.getItem('sl-token');
+  if (saved) { token = saved; unlock(); }
+
+  document.getElementById('token-input').addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') document.getElementById('token-submit').click();
+  });
+  document.getElementById('token-submit').addEventListener('click', async function() {
+    var t = document.getElementById('token-input').value.trim();
+    if (!t) return;
+    var res = await fetch('/api/shortlinks?id=__verify__', {
+      method: 'DELETE', headers: { 'X-Admin-Token': t }
+    });
+    if (res.status === 401) { document.getElementById('auth-err').style.display = 'block'; return; }
+    token = t;
+    sessionStorage.setItem('sl-token', t);
+    document.getElementById('auth-err').style.display = 'none';
+    unlock();
+  });
+
+  async function unlock() {
+    document.getElementById('auth-wall').style.display = 'none';
+    document.getElementById('main-ui').style.display = 'block';
+    await loadLinks();
+    renderRegionList();
+    selectRegion(REGIONS[0].key);
+  }
+
+  // ── Load data ─────────────────────────────────────────────────────────────
+  async function loadLinks() {
+    try {
+      var res = await fetch('/api/trip-planner-links');
+      var data = res.ok ? await res.json() : {};
+      linksData = {
+        accom: data.accom || {},
+        kidsAccom: data.kidsAccom || [],
+      };
+    } catch(e) { linksData = { accom: {}, kidsAccom: [] }; }
+  }
+
+  function getCurrentList() {
+    if (currentRegion === '__kids__') return linksData.kidsAccom;
+    return linksData.accom[currentRegion] || [];
+  }
+
+  function setCurrentList(arr) {
+    if (currentRegion === '__kids__') {
+      linksData.kidsAccom = arr;
+    } else {
+      linksData.accom[currentRegion] = arr;
+    }
+  }
+
+  // ── Region list ───────────────────────────────────────────────────────────
+  function renderRegionList() {
+    var el = document.getElementById('region-list');
+    el.innerHTML = REGIONS.map(function(r) {
+      var list = r.key === '__kids__' ? linksData.kidsAccom : (linksData.accom[r.key] || []);
+      var count = list.length;
+      return '<button class="cat-btn" data-key="' + r.key + '">' +
+        esc(r.label) + (count ? '<span class="cat-count">(' + count + ')</span>' : '') +
+      '</button>';
+    }).join('');
+    el.querySelectorAll('.cat-btn').forEach(function(btn) {
+      btn.addEventListener('click', function() { selectRegion(btn.getAttribute('data-key')); });
+    });
+  }
+
+  function selectRegion(key) {
+    currentRegion = key;
+    document.querySelectorAll('.cat-btn').forEach(function(btn) {
+      btn.classList.toggle('active', btn.getAttribute('data-key') === key);
+    });
+    var r = REGIONS.find(function(x) { return x.key === key; });
+    document.getElementById('links-heading').textContent = (r ? r.label : key) + ' 住宿連結';
+    renderLinkList();
+  }
+
+  // ── Link list ─────────────────────────────────────────────────────────────
+  function renderLinkList() {
+    var items = getCurrentList();
+    var el = document.getElementById('link-list');
+    document.getElementById('save-status').textContent = '';
+    if (items.length === 0) {
+      el.innerHTML = '<div class="empty-hint">尚無連結，從右側新增</div>';
+      return;
+    }
+    el.innerHTML = items.map(function(item, i) {
+      return '<div class="link-item">' +
+        '<span class="link-num">' + (i + 1) + '</span>' +
+        '<div class="link-body">' +
+          '<div class="link-title">' + esc(item.title) + '</div>' +
+          '<div class="link-url">' + esc(item.url) + '</div>' +
+          (item.tag ? '<span class="link-tag">' + esc(item.tag) + '</span>' : '') +
+        '</div>' +
+        '<div class="link-actions">' +
+          '<button class="btn-icon" data-action="up" data-idx="' + i + '" ' + (i === 0 ? 'disabled' : '') + '>↑</button>' +
+          '<button class="btn-icon" data-action="down" data-idx="' + i + '" ' + (i === items.length - 1 ? 'disabled' : '') + '>↓</button>' +
+          '<button class="btn-icon del" data-action="del" data-idx="' + i + '">✕</button>' +
+        '</div>' +
+      '</div>';
+    }).join('');
+
+    el.querySelectorAll('[data-action]').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        var action = btn.getAttribute('data-action');
+        var idx = parseInt(btn.getAttribute('data-idx'));
+        var list = getCurrentList().slice();
+        if (action === 'up' && idx > 0) {
+          var t = list[idx]; list[idx] = list[idx-1]; list[idx-1] = t;
+        } else if (action === 'down' && idx < list.length - 1) {
+          var t = list[idx]; list[idx] = list[idx+1]; list[idx+1] = t;
+        } else if (action === 'del') {
+          if (!confirm('確定刪除？')) return;
+          list.splice(idx, 1);
+        }
+        setCurrentList(list);
+        renderLinkList();
+        renderRegionList();
+        // Re-mark active
+        document.querySelectorAll('.cat-btn').forEach(function(b) {
+          b.classList.toggle('active', b.getAttribute('data-key') === currentRegion);
+        });
+      });
+    });
+  }
+
+  // ── Add new link ──────────────────────────────────────────────────────────
+  document.getElementById('add-btn').addEventListener('click', function() {
+    var title = document.getElementById('add-title').value.trim();
+    var url   = document.getElementById('add-url').value.trim();
+    var tag   = document.getElementById('add-tag').value.trim();
+    if (!title || !url) { alert('請填寫標題和網址'); return; }
+    if (!url.startsWith('/') && !url.startsWith('http')) { alert('網址請以 / 或 http 開頭'); return; }
+
+    var list = getCurrentList().slice();
+    list.push({ title: title, url: url, tag: tag });
+    setCurrentList(list);
+    renderLinkList();
+    renderRegionList();
+    document.querySelectorAll('.cat-btn').forEach(function(b) {
+      b.classList.toggle('active', b.getAttribute('data-key') === currentRegion);
+    });
+
+    document.getElementById('add-title').value = '';
+    document.getElementById('add-url').value = '';
+    document.getElementById('add-tag').value = '';
+  });
+
+  // ── Save ──────────────────────────────────────────────────────────────────
+  document.getElementById('save-btn').addEventListener('click', async function() {
+    var btn = document.getElementById('save-btn');
+    var status = document.getElementById('save-status');
+    btn.disabled = true;
+    status.textContent = '儲存中…';
+    try {
+      var res = await fetch('/api/trip-planner-links', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json', 'X-Admin-Token': token },
+        body: JSON.stringify(linksData),
+      });
+      if (res.ok) {
+        status.textContent = '✅ 已儲存';
+        status.style.color = '#276749';
+      } else {
+        status.textContent = '❌ 儲存失敗 ('+res.status+')';
+        status.style.color = '#c53030';
+      }
+    } catch(e) {
+      status.textContent = '❌ 網路錯誤';
+      status.style.color = '#c53030';
+    }
+    btn.disabled = false;
+    setTimeout(function() { status.textContent = ''; }, 4000);
+  });
+</script>
+</body>
+</html>

@@ -246,6 +246,7 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
     <button class="tab"        data-tab="hot">      <span class="icon">🔥</span><span class="tab-label"> 熱門</span></button>
     <button class="tab"        data-tab="featured"><span class="icon">⭐</span><span class="tab-label"> 精選</span></button>
     <button class="tab"        data-tab="videos">   <span class="icon">🎬</span><span class="tab-label"> 視頻</span></button>
+    <button class="tab"        data-tab="triplinks"><span class="icon">🗺️</span><span class="tab-label"> 行程規劃</span></button>
     <button class="tab"        data-tab="private"> <span class="icon">🔒</span><span class="tab-label"> 私密</span></button>
     <button class="tab"        data-tab="comments"><span class="icon">💬</span><span class="tab-label"> 留言</span></button>
   </nav>
@@ -283,6 +284,11 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
       <iframe id="iframe-videos" title="首頁視頻管理"></iframe>
     </div>
 
+    <!-- 🗺️ 行程規劃連結 -->
+    <div class="panel" id="panel-triplinks">
+      <iframe id="iframe-triplinks" title="行程規劃連結管理"></iframe>
+    </div>
+
     <!-- 🔒 私密文章 -->
     <div class="panel" id="panel-private">
       <div class="private-panel">
@@ -312,12 +318,13 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
 
 <script is:inline define:vars={{ privatePostsJson }}>
   var TAB_URLS = {
-    index:    '/index-all/',
-    upload:   '/admin/upload/',
-    shorturl: '/go/',
-    hot:      '/admin/hot/',
-    featured: '/admin/featured/',
-    videos:   '/admin/videos/',
+    index:     '/index-all/',
+    upload:    '/admin/upload/',
+    shorturl:  '/go/',
+    hot:       '/admin/hot/',
+    featured:  '/admin/featured/',
+    videos:    '/admin/videos/',
+    triplinks: '/admin/trip-planner/',
   };
 
   var privatePosts = JSON.parse(privatePostsJson);
