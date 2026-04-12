@@ -1722,11 +1722,13 @@ function buildAccomSection(areas) {
   return sections.join('');
 }
 
-function buildRouteTip(areas) {
+// Returns the areas sorted by ROUTE_FLOW with airport-friendly last stop applied.
+// Used by buildRouteTip, regionSection loop, and buildAccomSection so all three stay in sync.
+function routeOrderAreas(areas) {
   let ordered = ROUTE_FLOW.filter(a => areas.includes(a));
-  if (ordered.length < 2) return '';
-
-  // Preferred last stops in priority order (close to airport)
+  // Also append any areas not in ROUTE_FLOW (edge cases like future additions)
+  areas.forEach(a => { if (!ROUTE_FLOW.includes(a) && !ordered.includes(a)) ordered.push(a); });
+  if (ordered.length < 2) return ordered;
   const GOOD_LAST = ['jimbaran', 'uluwatu', 'nusadua', 'sanur', 'kuta', 'seminyak'];
   const currentLast = ordered[ordered.length - 1];
   if (!GOOD_LAST.includes(currentLast)) {
@@ -1735,6 +1737,12 @@ function buildRouteTip(areas) {
       ordered = [...ordered.filter(a => a !== bestLast), bestLast];
     }
   }
+  return ordered;
+}
+
+function buildRouteTip(areas) {
+  const ordered = routeOrderAreas(areas);
+  if (ordered.length < 2) return '';
 
   const lastArea = ordered[ordered.length - 1];
   const showWarning = AIRPORT_FAR_AREAS.has(lastArea);
@@ -1770,10 +1778,11 @@ function buildResults() {
     alertEl.classList.add('hidden');
   }
 
-  // Sections
+  // Sections — use same route order for tip, region blocks, and accom
+  const orderedAreas = routeOrderAreas(areas);
   document.getElementById('route-tip').innerHTML = buildRouteTip(areas);
   document.getElementById('spots-section').innerHTML = '';
-  document.getElementById('region-sections').innerHTML = areas.map(regionSection).join('');
+  document.getElementById('region-sections').innerHTML = orderedAreas.map(regionSection).join('');
 
   // Extras
   const extraKeys = [];
@@ -1800,7 +1809,7 @@ function buildResults() {
   document.getElementById('interest-extras').innerHTML = [...new Set(extraKeys)].map(extraSection).join('');
 
   // Accommodation section
-  document.getElementById('accom-section').innerHTML = buildAccomSection(areas);
+  document.getElementById('accom-section').innerHTML = buildAccomSection(orderedAreas);
 
   // Global picks — shuffle and show 10 of 19
   const shuffled = [...GLOBAL_PICKS].sort(() => Math.random() - 0.5);
