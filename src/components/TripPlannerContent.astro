@@ -507,15 +507,6 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
         </div>
       </div>
 
-      <div class="q-block">
-        <div class="q-label">{T.q4}</div>
-        <div class="chips single" id="q-budget">
-          <button class="chip" data-val="budget">{T.b_budget}</button>
-          <button class="chip" data-val="mid">{T.b_mid}</button>
-          <button class="chip" data-val="luxury">{T.b_luxury}</button>
-        </div>
-      </div>
-
       <div class="step-actions">
         <button class="btn-next" id="btn-1-next">{T.btnNext1}</button>
       </div>
@@ -1259,7 +1250,7 @@ document.getElementById('btn-1-next').addEventListener('click', () => {
   const allSpots = [];
   document.querySelectorAll('[id^="q-spots-"]').forEach(el => allSpots.push(...getVals(el.id)));
   const adventureActivities = ['rafting','atv','volcano'].filter(v => allSpots.includes(v));
-  Object.assign(state, { companion: getVals('q-companion')[0]||'', days: getVals('q-days')[0]||'', interests: adventureActivities, budget: getVals('q-budget')[0]||'', areas: getVals('q-areas'), allSpots });
+  Object.assign(state, { companion: getVals('q-companion')[0]||'', days: getVals('q-days')[0]||'', interests: adventureActivities, areas: getVals('q-areas'), allSpots });
   saveState();
   showStep(2);
 });
