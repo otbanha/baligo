@@ -380,6 +380,10 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
         </div>
       </div>
 
+      <div class="bali-map-block">
+        <img src="/images/bali-map.png" alt="峇里島熱門旅遊區域地圖" class="bali-map-img" loading="lazy" />
+      </div>
+
       <div class="q-block">
         <div class="q-label">{T.q_spots} <span class="q-hint">{T.q_spots_hint}</span></div>
         <div class="spots-region-group">
@@ -2030,6 +2034,17 @@ function buildResults() {
   font-size: 1.15rem; font-weight: 800; color: var(--ocean);
   margin: 0 0 1rem; padding-bottom: 0.5rem;
   border-bottom: 2px solid var(--gold-pale);
+}
+.bali-map-block {
+  margin: 0.5rem 0 1.2rem;
+  text-align: center;
+}
+.bali-map-img {
+  width: 100%;
+  max-width: 520px;
+  border-radius: 12px;
+  box-shadow: 0 2px 12px rgba(0,0,0,0.15);
+  display: inline-block;
 }
 :global(.accom-region-title) {
   font-size: 0.95rem; font-weight: 700; color: var(--ocean);
