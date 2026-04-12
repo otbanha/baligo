@@ -363,6 +363,24 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
       </div>
 
       <div class="q-block">
+        <div class="q-label">{T.q5} <span class="q-hint">{T.q5hint}</span></div>
+        <div class="chips multi" id="q-areas">
+          <button class="chip" data-val="kuta">{T.a_kuta}</button>
+          <button class="chip" data-val="seminyak">{T.a_seminyak}</button>
+          <button class="chip" data-val="canggu">{T.a_canggu}</button>
+          <button class="chip" data-val="ubud">{T.a_ubud}</button>
+          <button class="chip" data-val="jimbaran">{T.a_jimbaran}</button>
+          <button class="chip" data-val="uluwatu">{T.a_uluwatu}</button>
+          <button class="chip" data-val="nusadua">{T.a_nusadua}</button>
+          <button class="chip" data-val="sanur">{T.a_sanur}</button>
+          <button class="chip" data-val="penida">{T.a_penida}</button>
+          <button class="chip" data-val="lembongan">{T.a_lembongan}</button>
+          <button class="chip" data-val="komodo">{T.a_komodo}</button>
+          <button class="chip" data-val="east">{T.a_east}</button>
+        </div>
+      </div>
+
+      <div class="q-block">
         <div class="q-label">{T.q_spots} <span class="q-hint">{T.q_spots_hint}</span></div>
         <div class="spots-region-group">
           <div class="spots-region-label">{T.spots_ubud}</div>
@@ -493,24 +511,6 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
     <!-- Step 2 -->
     <div class="step hidden" id="step-2">
       <h2 class="step-title">{T.s2title}</h2>
-
-      <div class="q-block">
-        <div class="q-label">{T.q5} <span class="q-hint">{T.q5hint}</span></div>
-        <div class="chips multi" id="q-areas">
-          <button class="chip" data-val="kuta">{T.a_kuta}</button>
-          <button class="chip" data-val="seminyak">{T.a_seminyak}</button>
-          <button class="chip" data-val="canggu">{T.a_canggu}</button>
-          <button class="chip" data-val="ubud">{T.a_ubud}</button>
-          <button class="chip" data-val="jimbaran">{T.a_jimbaran}</button>
-          <button class="chip" data-val="uluwatu">{T.a_uluwatu}</button>
-          <button class="chip" data-val="nusadua">{T.a_nusadua}</button>
-          <button class="chip" data-val="sanur">{T.a_sanur}</button>
-          <button class="chip" data-val="penida">{T.a_penida}</button>
-          <button class="chip" data-val="lembongan">{T.a_lembongan}</button>
-          <button class="chip" data-val="komodo">{T.a_komodo}</button>
-          <button class="chip" data-val="east">{T.a_east}</button>
-        </div>
-      </div>
 
       <div class="q-block">
         <div class="q-label">
@@ -1248,14 +1248,14 @@ document.getElementById('btn-1-next').addEventListener('click', () => {
   const allSpots = [];
   document.querySelectorAll('[id^="q-spots-"]').forEach(el => allSpots.push(...getVals(el.id)));
   const adventureActivities = ['rafting','atv','volcano'].filter(v => allSpots.includes(v));
-  Object.assign(state, { companion: getVals('q-companion')[0]||'', days: getVals('q-days')[0]||'', interests: adventureActivities, budget: getVals('q-budget')[0]||'', allSpots });
+  Object.assign(state, { companion: getVals('q-companion')[0]||'', days: getVals('q-days')[0]||'', interests: adventureActivities, budget: getVals('q-budget')[0]||'', areas: getVals('q-areas'), allSpots });
   saveState();
   showStep(2);
 });
 document.getElementById('btn-2-back').addEventListener('click', () => showStep(1));
 document.getElementById('btn-2-next').addEventListener('click', () => {
   try {
-    Object.assign(state, { areas: getVals('q-areas'), itinerary: document.getElementById('q-itinerary').value.trim() });
+    Object.assign(state, { itinerary: document.getElementById('q-itinerary').value.trim() });
     console.log('[Trip Planner] Step 2 → Step 3 - State:', state);
     buildResults();
     console.log('[Trip Planner] Results built');
@@ -1323,10 +1323,7 @@ document.getElementById('btn-export').addEventListener('click', () => {
   });
 });
 
-const actions = document.querySelector('#step-1 .step-actions');
-if (actions) {
-  actions.insertBefore(btnImport, actions.firstChild);
-}
+// (import button removed)
 
 // ── Itinerary Analysis ────────────────────────────────────────────────
 function analyzeItinerary(text) {
