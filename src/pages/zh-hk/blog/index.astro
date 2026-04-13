@@ -350,6 +350,7 @@ const socialLinks = [
     const POSTS_PER_PAGE = 18;
     let currentPage = 1;
     let currentCat = 'all';
+    let currentQ = '';
     let filteredCards = [];
     const buttons = document.querySelectorAll('.category-item');
     const cards = document.querySelectorAll('.card');
@@ -381,9 +382,10 @@ const socialLinks = [
       section.style.display = 'block';
     }
 
-    function buildUrl(cat, page) {
+    function buildUrl(cat, page, q = '') {
       const params = new URLSearchParams();
       if (cat !== 'all') params.set('cat', cat);
+      if (q) params.set('q', q);
       if (page > 1) params.set('page', String(page));
       return blogBase + (params.toString() ? '?' + params.toString() : '');
     }
@@ -422,7 +424,7 @@ const socialLinks = [
       prev.textContent = '← 上一頁';
       prev.className = 'page-btn';
       prev.disabled = currentPage === 1;
-      prev.onclick = () => { currentPage--; window.history.pushState({ cat: currentCat, page: currentPage }, '', buildUrl(currentCat, currentPage)); renderCards(); window.scrollTo(0, 0); };
+      prev.onclick = () => { currentPage--; window.history.pushState({ cat: currentCat, page: currentPage, q: currentQ }, '', buildUrl(currentCat, currentPage, currentQ)); renderCards(); window.scrollTo(0, 0); };
       pagination.appendChild(prev);
       const info = document.createElement('span');
       info.className = 'page-info';
@@ -432,29 +434,35 @@ const socialLinks = [
       next.textContent = '下一頁 →';
       next.className = 'page-btn';
       next.disabled = currentPage === totalPages;
-      next.onclick = () => { currentPage++; window.history.pushState({ cat: currentCat, page: currentPage }, '', buildUrl(currentCat, currentPage)); renderCards(); window.scrollTo(0, 0); };
+      next.onclick = () => { currentPage++; window.history.pushState({ cat: currentCat, page: currentPage, q: currentQ }, '', buildUrl(currentCat, currentPage, currentQ)); renderCards(); window.scrollTo(0, 0); };
       pagination.appendChild(next);
     }
 
-    function applyState(cat, page) {
+    function applyState(cat, page, q = '') {
       currentCat = cat;
       currentPage = page;
+      currentQ = q;
       buttons.forEach(b => b.classList.remove('active'));
       const activeBtn = document.querySelector(`[data-category="${cat}"]`);
       if (activeBtn) activeBtn.classList.add('active');
       const homepageBlocks = document.getElementById('homepage-blocks');
-      if (homepageBlocks) homepageBlocks.style.display = cat === 'all' ? 'block' : 'none';
+      if (homepageBlocks) homepageBlocks.style.display = (cat === 'all' && !q) ? 'block' : 'none';
+      const qLower = q ? q.toLowerCase() : '';
       filteredCards = [...cards].filter(card => {
         try {
           const cats = JSON.parse(card.dataset.category || '[]');
           const catList = Array.isArray(cats) ? cats : [cats];
           if (catList.includes('新聞存檔') && cat !== '新聞存檔') return false;
-          if (cat === 'all') return true;
-          return catList.includes(cat);
+          if (cat !== 'all' && !catList.includes(cat)) return false;
         } catch {
           if (card.dataset.category === '新聞存檔' && cat !== '新聞存檔') return false;
-          return cat === 'all' || card.dataset.category === cat;
+          if (cat !== 'all' && card.dataset.category !== cat) return false;
         }
+        if (qLower) {
+          const title = (card.querySelector('.card-title')?.textContent || '').toLowerCase();
+          return title.includes(qLower);
+        }
+        return true;
       });
       cards.forEach(card => card.style.display = 'none');
       updateFeatured(cat);
@@ -462,24 +470,25 @@ const socialLinks = [
     }
 
     function filterCategory(cat) {
-      window.history.pushState({ cat, page: 1 }, '', buildUrl(cat, 1));
-      applyState(cat, 1);
+      window.history.pushState({ cat, page: 1, q: '' }, '', buildUrl(cat, 1));
+      applyState(cat, 1, '');
       const newVideo = activeVideos[Math.floor(Math.random() * activeVideos.length)];
       const iframe = document.getElementById('yt-iframe');
       if (iframe) iframe.src = `https://www.youtube.com/embed/${newVideo}?rel=0`;
     }
 
     buttons.forEach(btn => btn.addEventListener('click', () => filterCategory(btn.dataset.category)));
-    window.addEventListener('popstate', (e) => { applyState(e.state?.cat || 'all', e.state?.page || 1); });
+    window.addEventListener('popstate', (e) => { applyState(e.state?.cat || 'all', e.state?.page || 1, e.state?.q || ''); });
 
     const urlParams = new URLSearchParams(window.location.search);
     const catParam = urlParams.get('cat') || 'all';
+    const qParam = urlParams.get('q') || '';
     const pageParam = Math.max(1, parseInt(urlParams.get('page') || '1', 10));
-    window.history.replaceState({ cat: catParam, page: pageParam }, '', window.location.href);
-    if (catParam !== 'all') {
-      setTimeout(() => applyState(catParam, pageParam), 100);
+    window.history.replaceState({ cat: catParam, page: pageParam, q: qParam }, '', window.location.href);
+    if (catParam !== 'all' || qParam) {
+      setTimeout(() => applyState(catParam, pageParam, qParam), 100);
     } else {
-      applyState('all', pageParam);
+      applyState('all', pageParam, '');
     }
   });
 </script>

@@ -6,6 +6,7 @@ import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
 import ChatBot from '../components/ChatBot.astro';
+import TripPlannerBanner from '../components/TripPlannerBanner.astro';
 import { getCollection } from 'astro:content';
 import { enhancedTitle, enhancedDescription, COMPANION_CAT } from '../utils/seo-keywords';
 
@@ -320,6 +321,9 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
             <slot />
           </div>
 
+          <!-- Trip Planner Banner -->
+          <TripPlannerBanner lang={lang === 'zh-cn' ? 'zh-cn' : lang === 'zh-hk' ? 'zh-hk' : lang === 'en' ? 'en' : 'zh-tw'} />
+
           <!-- 分享列（底部） -->
           <div class="share-bar share-bar--bottom" data-url={canonicalUrl} data-title={title} data-bookmark-label={i18nShare.bookmark} data-bookmarked-label={i18nShare.bookmarked} data-copy-label={i18nShare.copy} data-copied-label={i18nShare.copied}>
             <span class="share-label">{i18nShare.label}：</span>
@@ -386,28 +390,6 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
           </div>
         )}
 
-        <!-- 熱門分區攻略快速連結 (Semantic Siloing / Internal Linking) -->
-        <nav class="region-links" data-pagefind-ignore aria-label={lang === 'en' ? 'Popular Bali Areas' : '熱門峇里島分區'}>
-          <p class="region-links-title">
-            {lang === 'en' ? '🗺️ Explore Bali by Area' : lang === 'zh-cn' ? '🗺️ 峇里岛热门分区攻略' : '🗺️ 峇里島熱門分區攻略'}
-          </p>
-          <ul class="region-links-list">
-            {[
-              { area: 'Kuta',     zh: '庫塔 Kuta',     zhcn: '库塔 Kuta'     },
-              { area: 'Seminyak', zh: '水明漾 Seminyak', zhcn: '水明漾 Seminyak' },
-              { area: 'Canggu',   zh: '長谷/倉古/蒼古 Canggu',   zhcn: '长谷/苍古 Canggu'   },
-              { area: 'Ubud',     zh: '烏布 Ubud',     zhcn: '乌布 Ubud'     },
-              { area: 'Uluwatu',  zh: '烏魯瓦圖 Uluwatu', zhcn: '乌鲁瓦图 Uluwatu' },
-              { area: 'Jimbaran', zh: '金巴蘭 Jimbaran', zhcn: '金巴兰 Jimbaran' },
-            ].map(({ area, zh, zhcn }) => (
-              <li>
-                <a href={`${blogBase}?cat=${encodeURIComponent('峇里島分區攻略')}&q=${area}`}>
-                  {lang === 'en' ? area : lang === 'zh-cn' ? zhcn : zh}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </nav>
       </article>
     </main>
 
@@ -1188,50 +1170,6 @@ hr { margin: 1.2em 0 1.8em; }
   -webkit-line-clamp: 2;
   -webkit-box-orient: vertical;
   overflow: hidden;
-}
-
-/* 熱門分區快速連結 */
-.region-links {
-  margin-top: 2.5em;
-  padding: 1.2em 1.5em;
-  background: rgba(201, 168, 76, 0.07);
-  border: 1px solid rgba(201, 168, 76, 0.3);
-  border-radius: 12px;
-}
-
-.region-links-title {
-  font-size: 0.9em;
-  font-weight: 700;
-  color: var(--ocean);
-  margin: 0 0 0.8em;
-}
-
-.region-links-list {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.5em;
-  list-style: none;
-  margin: 0;
-  padding: 0;
-}
-
-.region-links-list a {
-  display: inline-block;
-  padding: 0.3em 0.9em;
-  background: var(--white);
-  border: 1px solid rgba(201, 168, 76, 0.4);
-  border-radius: 20px;
-  font-size: 0.82em;
-  font-weight: 600;
-  color: var(--ocean);
-  text-decoration: none;
-  transition: background 0.15s, border-color 0.15s;
-}
-
-.region-links-list a:hover {
-  background: var(--gold);
-  border-color: var(--gold);
-  color: var(--white);
 }
 
 /* TOC */
