@@ -5,7 +5,6 @@ randomCount: 5
 lang: zh-cn
 _srcHash: 6d7bab9b36210880fd2c43567952dda7
 ---
-
 ## 更多库塔吃喝玩乐介绍
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774669972553-kuta_cover.jpg)
@@ -16,3 +15,5 @@ _srcHash: 6d7bab9b36210880fd2c43567952dda7
 ## 库塔住宿主题介绍
 
 - [巴厘岛18家 kids club 亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图、乌布适合家庭度假的最佳选择](https://gobaligo.id/blog/2024-05-14-66405077fd89780001f23b72/)
+- ⚠️ [峇里島親子樂園：十五家擁有滑水道溜滑梯的親子渡假村](https://gobaligo.id/blog/2024-01-16-65a51edbfd89780001ffc7b2/)
+- ⚠️ [峇里島團體自由行旅遊：庫塔包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦](https://gobaligo.id/blog/2024-04-30-662e156bfd8978000130c73c/)
