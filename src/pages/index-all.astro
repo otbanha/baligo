@@ -7,6 +7,14 @@ const sorted = posts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Dat
 const articleMap = Object.fromEntries(
   posts.map(p => [`/blog/${p.id}/`, p.data.title])
 );
+
+// Collect unique categories
+const allCats = new Set<string>();
+posts.forEach(p => {
+  const cats = Array.isArray(p.data.category) ? p.data.category : (p.data.category ? [p.data.category] : []);
+  cats.forEach((c: string) => { if (c) allCats.add(c); });
+});
+const categories = Array.from(allCats).sort();
 ---
 <html>
 <head>
@@ -44,6 +52,11 @@ const articleMap = Object.fromEntries(
     .slug-cell { font-family: monospace; font-size: 0.78rem; color: #777; cursor: pointer; user-select: all; transition: background 0.15s, color 0.15s; }
     .slug-cell:hover { background: #f0f0f0; }
     .slug-cell.copied { background: #d4edda; color: #1a6b35; }
+    .cat-select {
+      padding: 0.4rem 0.75rem; font-size: 0.88rem; border: 1px solid #ccc;
+      border-radius: 8px; background: #fff; cursor: pointer; color: #1a1a1a;
+    }
+    .cat-select:focus { outline: none; border-color: #1A365D; }
     .hidden { display: none !important; }
     @media (max-width: 600px) {
       td.slug-cell { display: none; }
@@ -56,6 +69,10 @@ const articleMap = Object.fromEntries(
 
   <div class="toolbar">
     <input type="text" id="search" placeholder="搜尋標題..." autocomplete="off" />
+    <select class="cat-select" id="cat-filter">
+      <option value="">全部分類</option>
+      {categories.map(c => <option value={c}>{c}</option>)}
+    </select>
     <div class="tabs">
       <button class="tab active" id="tab-latest">最新</button>
       <button class="tab" id="tab-popular">🔥 最多人看</button>
@@ -79,6 +96,7 @@ const articleMap = Object.fromEntries(
           data-slug={`/blog/${post.id}/`}
           data-title={post.data.title.toLowerCase()}
           data-date={new Date(post.data.pubDate).getTime()}
+          data-category={(Array.isArray(post.data.category) ? post.data.category : (post.data.category ? [post.data.category] : [])).join(',')}
         >
           <td class="num">{i + 1}</td>
           <td>
@@ -97,6 +115,7 @@ const articleMap = Object.fromEntries(
     const rows = Array.from(document.querySelectorAll('.row'));
     const tbody = document.getElementById('list');
     const searchInput = document.getElementById('search');
+    const catFilter = document.getElementById('cat-filter');
     const statusEl = document.getElementById('stats-status');
     const tabLatest = document.getElementById('tab-latest');
     const tabPopular = document.getElementById('tab-popular');
@@ -104,13 +123,20 @@ const articleMap = Object.fromEntries(
     let viewsMap = {}; // slug → views
     let sortMode = 'latest'; // 'latest' | 'popular'
 
-    // ── Search filter ──────────────────────────────────────────────────────────
-    searchInput.addEventListener('input', () => {
+    // ── Combined filter ────────────────────────────────────────────────────────
+    function applyFilter() {
       const q = searchInput.value.toLowerCase();
+      const cat = catFilter.value;
       rows.forEach(row => {
-        row.classList.toggle('hidden', q.length > 0 && !row.dataset.title.includes(q));
+        const matchSearch = !q || row.dataset.title.includes(q);
+        const matchCat = !cat || (row.dataset.category || '').split(',').includes(cat);
+        row.classList.toggle('hidden', !matchSearch || !matchCat);
       });
-    });
+      applySort();
+    }
+
+    searchInput.addEventListener('input', applyFilter);
+    catFilter.addEventListener('change', applyFilter);
 
     // ── Sort ───────────────────────────────────────────────────────────────────
     function applySort() {
