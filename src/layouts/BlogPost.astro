@@ -1005,7 +1005,7 @@ main {
 .edit-link:hover { color: var(--ocean); border-color: var(--ocean); }
 hr { margin: 1.2em 0 1.8em; }
 
-.prose :global(h2) {
+.prose :global(h2:not(.tp-banner-title)) {
   font-size: 1.2em; font-weight: 700; color: var(--ocean);
   border-left: 4px solid var(--gold); padding-left: 0.7em;
   margin-top: 2em; margin-bottom: 0.8em; line-height: 1.4;
@@ -1565,7 +1565,7 @@ hr { margin: 1.2em 0 1.8em; }
   main { padding: 1em 0.9em; }
   .title h1 { font-size: 1.25em; }
   .prose { font-size: 0.97em; line-height: 1.8; }
-  .prose :global(h2) { font-size: 1.1em; }
+  .prose :global(h2:not(.tp-banner-title)) { font-size: 1.1em; }
   .prose :global(h3) { font-size: 1em; }
   .related-grid { grid-template-columns: 1fr; }
 
