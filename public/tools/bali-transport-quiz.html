@@ -1,0 +1,296 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>峇里島交通方式選擇測驗</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif; background: #fff; color: #1a1a1a; }
+.quiz-wrap { padding: 1.5rem 1rem; max-width: 600px; margin: 0 auto; }
+.progress-bar { height: 3px; background: #e5e5e5; border-radius: 2px; margin-bottom: 1.75rem; }
+.progress-fill { height: 100%; border-radius: 2px; background: #1D9E75; transition: width 0.4s ease; }
+.step { display: none; animation: fadeIn 0.25s ease; }
+.step.active { display: block; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+.q-label { font-size: 11px; color: #888; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; }
+.q-text { font-size: 18px; font-weight: 500; line-height: 1.4; margin-bottom: 0.4rem; }
+.q-hint { font-size: 12px; color: #888; margin-bottom: 1rem; }
+.options { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.options.single-col { grid-template-columns: 1fr; }
+.opt-btn {
+  background: #fff;
+  border: 1.5px solid #ddd;
+  border-radius: 12px;
+  padding: 12px 14px;
+  text-align: left;
+  cursor: pointer;
+  font-size: 13px;
+  color: #1a1a1a;
+  transition: all 0.15s;
+  line-height: 1.4;
+  font-weight: 400;
+  font-family: inherit;
+}
+.opt-btn:hover { border-color: #0F6E56; background: #E1F5EE; }
+.opt-btn[data-selected="green"] { border-color: #0F6E56 !important; background: #9FE1CB !important; color: #04342C !important; font-weight: 500 !important; }
+.opt-btn[data-selected="blue"]  { border-color: #185FA5 !important; background: #B5D4F4 !important; color: #042C53 !important; font-weight: 500 !important; }
+.opt-btn[data-selected="amber"] { border-color: #854F0B !important; background: #FAC775 !important; color: #412402 !important; font-weight: 500 !important; }
+.nav-row { display: flex; justify-content: space-between; align-items: center; margin-top: 1.25rem; }
+.btn-back { background: transparent; border: 0.5px solid #ddd; border-radius: 8px; padding: 8px 16px; cursor: pointer; font-size: 13px; color: #888; font-family: inherit; }
+.btn-back:hover { background: #f5f5f5; }
+.btn-next { background: #1D9E75; border: none; border-radius: 8px; padding: 8px 20px; cursor: pointer; font-size: 13px; color: #fff; font-weight: 500; opacity: 0.35; pointer-events: none; transition: opacity 0.2s; font-family: inherit; }
+.btn-next.ready { opacity: 1; pointer-events: auto; }
+.result-card { background: #fff; border: 0.5px solid #ddd; border-radius: 12px; padding: 1.25rem; margin-bottom: 0.75rem; }
+.result-hero { display: flex; align-items: center; gap: 14px; margin-bottom: 0.75rem; }
+.result-icon { width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 22px; flex-shrink: 0; }
+.ri-charter { background: #E1F5EE; } .ri-app { background: #E6F1FB; } .ri-moto { background: #FAEEDA; }
+.result-title { font-size: 20px; font-weight: 500; }
+.result-sub { font-size: 13px; color: #888; }
+.result-desc { font-size: 14px; line-height: 1.7; margin-bottom: 0.75rem; }
+.reason-section-label { font-size: 11px; color: #888; margin-bottom: 5px; font-weight: 500; letter-spacing: 0.05em; text-transform: uppercase; }
+.reason-list { display: flex; flex-direction: column; gap: 5px; margin-bottom: 0.75rem; }
+.reason-item { display: flex; align-items: flex-start; gap: 8px; font-size: 13px; line-height: 1.5; }
+.rdot { width: 5px; height: 5px; border-radius: 50%; background: #1D9E75; margin-top: 7px; flex-shrink: 0; }
+.tip-box { background: #f5f5f5; border-radius: 8px; padding: 10px 14px; font-size: 13px; color: #555; line-height: 1.6; margin-bottom: 0.75rem; }
+.tip-box strong { color: #1a1a1a; font-weight: 500; }
+.score-section-label { font-size: 11px; color: #888; margin-bottom: 6px; font-weight: 500; letter-spacing: 0.05em; text-transform: uppercase; }
+.score-row { display: flex; align-items: center; gap: 10px; margin-bottom: 5px; font-size: 12px; }
+.score-label { width: 72px; color: #888; }
+.score-track { flex: 1; height: 6px; background: #e5e5e5; border-radius: 3px; overflow: hidden; }
+.score-fill { height: 100%; border-radius: 3px; transition: width 0.6s ease 0.15s; }
+.fc { background: #1D9E75; } .fa { background: #378ADD; } .fm { background: #EF9F27; }
+.score-num { width: 28px; text-align: right; font-weight: 500; font-size: 12px; }
+.link-btn { display: block; width: 100%; border: 0.5px solid #ddd; border-radius: 8px; padding: 10px 16px; text-align: center; cursor: pointer; font-size: 13px; color: #555; background: transparent; margin-bottom: 0.5rem; font-family: inherit; text-decoration: none; }
+.link-btn:hover { background: #f5f5f5; }
+.restart-btn { display: block; width: 100%; border: none; background: transparent; padding: 8px; text-align: center; cursor: pointer; font-size: 12px; color: #aaa; font-family: inherit; }
+.restart-btn:hover { color: #555; }
+@media (max-width: 400px) {
+  .options { grid-template-columns: 1fr; }
+  .q-text { font-size: 16px; }
+}
+</style>
+</head>
+<body>
+
+<div class="quiz-wrap">
+  <div class="progress-bar"><div class="progress-fill" id="prog" style="width:0%"></div></div>
+  <div id="quiz-area"></div>
+</div>
+
+<script>
+const STEPS = [
+  {
+    id: 'situation',
+    text: '你的情況是？',
+    hint: '可多選，全部點完再按下一步',
+    multi: true,
+    cols: 2,
+    options: [
+      { label: '剛抵達，需換匯辦SIM卡', color: 'green', score: { charter: 3, app: 0, moto: 0 } },
+      { label: '跨區換宿＋跑景點', color: 'green', score: { charter: 3, app: 0, moto: -3 } },
+      { label: '三人以上 / 家庭出遊', color: 'green', score: { charter: 3, app: 0, moto: 0 } },
+      { label: '鬧區移動', color: 'blue', score: { charter: 0, app: 2, moto: 1 } },
+      { label: '女生獨旅', color: 'green', score: { charter: 3, app: 0, moto: -1 } },
+      { label: '雨季 / 天氣不穩定', color: 'amber', score: { charter: 2, app: 0, moto: -2 } },
+      { label: '住郊區或偏遠地區', color: 'green', score: { charter: 3, app: 0, moto: 0 } },
+      { label: '需要有人拍照 / 講解', color: 'green', score: { charter: 2, app: 0, moto: 0 } },
+    ]
+  },
+  {
+    id: 'itinerary',
+    text: '今天的行程？',
+    cols: 1,
+    options: [
+      { label: '多景點跨區移動', color: 'green', score: { charter: 3, app: 0, moto: 0 } },
+      { label: '鬧區單點來回', color: 'blue', score: { charter: 0, app: 2, moto: 1 } },
+      { label: '還沒決定，隨興走', color: 'amber', score: { charter: 0, app: 1, moto: 0 } },
+    ]
+  },
+  {
+    id: 'solo_mode',
+    text: '一個人的話，偏好？',
+    cols: 1,
+    skipIf: function(a) { var s = a.situation || []; return s.some(function(i){ return i === 2; }); },
+    options: [
+      { label: '省錢優先', color: 'amber', score: { charter: 0, app: 0, moto: 2 } },
+      { label: '安全舒適優先', color: 'blue', score: { charter: 1, app: 1, moto: 0 } },
+    ]
+  },
+];
+
+var current = 0;
+var answers = {};
+var visibleSteps = [];
+
+function buildVisibleSteps() {
+  visibleSteps = STEPS.filter(function(s){ return !s.skipIf || !s.skipIf(answers); });
+}
+
+function render() {
+  buildVisibleSteps();
+  var area = document.getElementById('quiz-area');
+  if (current >= visibleSteps.length) { showResult(); return; }
+  var q = visibleSteps[current];
+  var total = visibleSteps.length;
+  document.getElementById('prog').style.width = Math.round((current / total) * 100) + '%';
+
+  var optClass = 'options' + (q.cols === 1 ? ' single-col' : '');
+  var prev = answers[q.id];
+
+  var opts = q.options.map(function(o, i) {
+    var isSelected = Array.isArray(prev) ? prev.includes(i) : prev === i;
+    var selAttr = isSelected ? 'data-selected="' + o.color + '"' : '';
+    return '<button class="opt-btn" data-idx="' + i + '" data-color="' + o.color + '" ' + selAttr + ' onclick="selectOpt(this,' + i + ')">' + o.label + '</button>';
+  }).join('');
+
+  var hasAnswer = prev !== undefined && (!Array.isArray(prev) || prev.length > 0);
+  var isLast = current === total - 1;
+
+  area.innerHTML = '<div class="step active">'
+    + '<div class="q-label">步驟 ' + (current + 1) + ' / ' + total + '</div>'
+    + '<div class="q-text">' + q.text + '</div>'
+    + (q.hint ? '<div class="q-hint">' + q.hint + '</div>' : '')
+    + '<div class="' + optClass + '">' + opts + '</div>'
+    + '<div class="nav-row">'
+    + (current > 0 ? '<button class="btn-back" onclick="goBack()">← 上一步</button>' : '<span></span>')
+    + '<button class="btn-next ' + (hasAnswer ? 'ready' : '') + '" id="btn-next" onclick="goNext()">' + (isLast ? '查看結果 →' : '下一步 →') + '</button>'
+    + '</div></div>';
+}
+
+function selectOpt(btn, idx) {
+  var q = visibleSteps[current];
+  var color = btn.getAttribute('data-color');
+  if (q.multi) {
+    var isSelected = btn.hasAttribute('data-selected');
+    if (isSelected) { btn.removeAttribute('data-selected'); }
+    else { btn.setAttribute('data-selected', color); }
+    var sel = Array.from(document.querySelectorAll('.opt-btn[data-selected]')).map(function(b){ return +b.getAttribute('data-idx'); });
+    answers[q.id] = sel;
+    document.getElementById('btn-next').classList.add('ready');
+  } else {
+    document.querySelectorAll('.opt-btn').forEach(function(b){ b.removeAttribute('data-selected'); });
+    btn.setAttribute('data-selected', color);
+    answers[q.id] = idx;
+    document.getElementById('btn-next').classList.add('ready');
+  }
+}
+
+function goNext() {
+  var q = visibleSteps[current];
+  var ans = answers[q.id];
+  if (ans === undefined || (Array.isArray(ans) && ans.length === 0)) return;
+  current++;
+  buildVisibleSteps();
+  while (current < visibleSteps.length && visibleSteps[current].skipIf && visibleSteps[current].skipIf(answers)) current++;
+  render();
+}
+
+function goBack() { current--; render(); }
+
+function calcScores() {
+  var s = { charter: 0, app: 0, moto: 0 };
+  visibleSteps.forEach(function(q) {
+    var ans = answers[q.id];
+    if (ans === undefined) return;
+    (Array.isArray(ans) ? ans : [ans]).forEach(function(i) {
+      var sc = q.options[i] && q.options[i].score;
+      if (!sc) return;
+      s.charter += sc.charter || 0; s.app += sc.app || 0; s.moto += sc.moto || 0;
+    });
+  });
+  return s;
+}
+
+var results = {
+  charter: {
+    icon: '🚗', cls: 'ri-charter', title: '包車', sub: '最安心、最划算的選擇',
+    desc: '根據你的狀況，包車是最適合的選擇。一天下來通常比多次叫車更省，司機全程陪同，安全、省心、彈性。',
+    tip: '<strong>建議：</strong>提前與司機溝通行程，通常不需要另付餐費，可邀請司機一起吃在地小吃，體驗更道地。',
+    link: 'https://gobaligo.id/go/bali-transport-guide',
+  },
+  app: {
+    icon: '📱', cls: 'ri-app', title: 'App 叫車（四輪）', sub: 'Grab / Gojek 轎車',
+    desc: '行程單純、鬧區移動，App 叫車最彈性，費用透明，隨叫隨到，不用提前預約。',
+    tip: '<strong>建議：</strong>目的地用英文輸入較準，熱門景點可能需要走到路邊才叫得到車。',
+    link: 'https://gobaligo.id/go/bali-transport-guide',
+  },
+  moto: {
+    icon: '🛵', cls: 'ri-moto', title: 'App 叫機車', sub: 'Grab / Gojek 兩輪',
+    desc: '輕裝獨行、鬧區短途，叫機車最快最省。車資通常只有四輪的一半，鑽巷不卡車。',
+    tip: '<strong>建議：</strong>上車前確認司機評分與車牌。雨天或距離較遠時建議改叫四輪。',
+    link: 'https://gobaligo.id/go/bali-transport-guide',
+  }
+};
+
+function getReasons(winner) {
+  var sit = answers.situation || [];
+  var r = [];
+  if (winner === 'charter') {
+    if (sit.includes(0)) r.push('剛抵達，換匯辦SIM卡一次搞定');
+    if (sit.includes(1)) r.push('跨區換宿行李多，包車空間充裕');
+    if (sit.includes(2)) r.push('多人同行分攤，費用比想像划算');
+    if (sit.includes(4)) r.push('女生獨旅，全程有司機陪同更安全');
+    if (sit.includes(5)) r.push('雨季天氣不穩，包車有空調可避雨');
+    if (sit.includes(6)) r.push('住郊區，App車輛少，包車更可靠');
+    if (sit.includes(7)) r.push('需要拍照講解，司機樂意協助');
+    if (answers.itinerary === 0) r.push('多景點跨區，費用固定不跳錶');
+  } else if (winner === 'app') {
+    r.push('行程單純，隨叫隨到最彈性');
+    if (sit.includes(3) || answers.itinerary === 1) r.push('鬧區移動，車輛密集等待時間短');
+    if (answers.solo_mode === 1) r.push('安全舒適，四輪比機車穩定');
+  } else {
+    r.push('一人輕裝，費用只有四輪一半');
+    if (sit.includes(3) || answers.itinerary === 1) r.push('鬧區短途，機車最快不卡車');
+    if (answers.solo_mode === 0) r.push('省錢優先，機車是最划算選擇');
+  }
+  return r.slice(0, 4);
+}
+
+function showResult() {
+  document.getElementById('prog').style.width = '100%';
+  var scores = calcScores();
+  var max = Math.max(scores.charter, scores.app, scores.moto);
+  var winner = scores.charter >= max ? 'charter' : scores.app >= scores.moto ? 'app' : 'moto';
+  var r = results[winner];
+  var reasons = getReasons(winner);
+  var allMax = Math.max(1, max);
+  var bars = {
+    charter: Math.round(Math.max(0, scores.charter) / allMax * 100),
+    app: Math.round(Math.max(0, scores.app) / allMax * 100),
+    moto: Math.round(Math.max(0, scores.moto) / allMax * 100),
+  };
+
+  var reasonHtml = reasons.map(function(rs){ return '<div class="reason-item"><div class="rdot"></div><span>' + rs + '</span></div>'; }).join('');
+
+  document.getElementById('quiz-area').innerHTML = '<div class="step active">'
+    + '<div class="result-card">'
+    + '<div class="result-hero"><div class="result-icon ' + r.cls + '">' + r.icon + '</div>'
+    + '<div><div class="result-title">推薦：' + r.title + '</div><div class="result-sub">' + r.sub + '</div></div></div>'
+    + '<p class="result-desc">' + r.desc + '</p>'
+    + (reasons.length ? '<div class="reason-section-label">推薦原因</div><div class="reason-list">' + reasonHtml + '</div>' : '')
+    + '<div class="tip-box">' + r.tip + '</div>'
+    + '<div class="score-section-label">各選項適合程度</div>'
+    + '<div class="score-row"><span class="score-label">包車</span><div class="score-track"><div class="score-fill fc" id="b1" style="width:0%"></div></div><span class="score-num">' + bars.charter + '%</span></div>'
+    + '<div class="score-row"><span class="score-label">App 四輪</span><div class="score-track"><div class="score-fill fa" id="b2" style="width:0%"></div></div><span class="score-num">' + bars.app + '%</span></div>'
+    + '<div class="score-row"><span class="score-label">App 機車</span><div class="score-track"><div class="score-fill fm" id="b3" style="width:0%"></div></div><span class="score-num">' + bars.moto + '%</span></div>'
+    + '</div>'
+    + '<a class="link-btn" href="' + r.link + '" target="_blank" rel="noopener">閱讀完整交通攻略 →</a>'
+    + '<button class="restart-btn" onclick="restart()">重新測驗</button>'
+    + '</div>';
+
+  setTimeout(function() {
+    var b1 = document.getElementById('b1');
+    var b2 = document.getElementById('b2');
+    var b3 = document.getElementById('b3');
+    if (b1) b1.style.width = bars.charter + '%';
+    if (b2) b2.style.width = bars.app + '%';
+    if (b3) b3.style.width = bars.moto + '%';
+  }, 100);
+}
+
+function restart() { current = 0; answers = {}; render(); }
+render();
+</script>
+</body>
+</html>
