@@ -89,7 +89,7 @@ embeds: []
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787943866-dody_new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1VXqNsk4dP/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/15s61pbqgP/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/12FP8bmqqKV/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1BrE9Bwfc3/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/18uBBsVQ54/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1Acxiogodn/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1ErBNVZgiL/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/19u4bKB5qN/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/17aye3oM8x/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1C6r8pfDsG/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/1DXoxBorWJ/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1FgemyygNF/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1VXqNsk4dP/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/15s61pbqgP/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/12FP8bmqqKV/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1BrE9Bwfc3/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/18uBBsVQ54/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1Acxiogodn/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1ErBNVZgiL/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/19u4bKB5qN/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/17aye3oM8x/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1C6r8pfDsG/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/1DXoxBorWJ/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1FgemyygNF/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1JqpWvJjBy/)
 
 ## Vina
 
