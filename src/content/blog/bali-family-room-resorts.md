@@ -5,6 +5,7 @@ pubDate: 2026-04-14
 pubHour: null
 category:
   - 住宿推薦
+  - 家庭親子
 tags:
   - 2026 峇里島親子住宿推薦
   - 峇里島飯店四人房清單
