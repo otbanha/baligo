@@ -130,7 +130,8 @@ The Club Villas Seminyak 是一個走傳統巴里島風格的私人 Villa 物業
 ***
 
 ## 📌 訂房資訊
+
 > 評分：Agoda 整體 8.2 ⭐ | 位置 9.1 | Tripadvisor 4.3/5（886則評價）
-[👉 點此查看 Agoda 最新房價與空房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2971764)
+> [👉 點此查看 Agoda 最新房價與空房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2971764)
 
 {{block:smk}}
