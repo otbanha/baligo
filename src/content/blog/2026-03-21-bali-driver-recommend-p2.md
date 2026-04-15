@@ -13,6 +13,8 @@ embeds: []
 
 第一頁，獲得我們優先推薦的司機在[這裡](https://gobaligo.id/blog/2024-07-07-668aaea7fd89780001981840/)
 
+<!-- shuffle-start -->
+
 ## Manx Liega
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787378794-new.jpg)
