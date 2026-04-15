@@ -138,6 +138,6 @@ embeds: []
 ## 📌 訂房資訊
 
 > 評分：入選「Agoda Preferred」Agoda 住客評分 8.5⭐ | Tripadvisor #34（393間住宿中）
-[👉 點此查看 Agoda 最新房價與空房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=59330108)
+> [👉 點此查看 Agoda 最新房價與空房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=59330108)
 
 {{block:smk}}
