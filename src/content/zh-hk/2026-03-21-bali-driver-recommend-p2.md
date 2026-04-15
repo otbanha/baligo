@@ -1,5 +1,5 @@
 ---
-title: 峇里島包車司機推介（第二頁）
+title: 峇里島包車司機推薦（第二頁）
 description: ''
 pubDate: 2026-01-01T00:00:00.000Z
 pubHour: null
@@ -10,10 +10,12 @@ originalUrl: ''
 shuffle_h2: true
 embeds: []
 lang: zh-hk
-_srcHash: 7be4c50ab276ff489aac681f871e6c9e
+_srcHash: d5d672c812d99ec1ef31248bffcdd78e
 ---
 
-第一頁，獲得我哋優先推薦嘅司機喺[呢度](https://gobaligo.id/blog/2024-07-07-668aaea7fd89780001981840/)
+第一頁，我哋優先推薦嘅司機喺[呢度](https://gobaligo.id/blog/2024-07-07-668aaea7fd89780001981840/)
+
+<!-- shuffle-start -->
 
 ## Manx Liega
 
@@ -27,13 +29,13 @@ _srcHash: 7be4c50ab276ff489aac681f871e6c9e
 
 👍🏼[網友推薦1](https://www.facebook.com/share/p/CGPsriMfi2eDeEQX/) 👍🏼[網友推薦2](https://www.facebook.com/share/v/kjsQ2TwqsEqUMFx9/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/15fjFWAbXM/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/15nNA4aGZz/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/15iBddik33/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/17nFfb2u9j/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/17gKzp4xNs/)
 
-## Betty Pinsky 同 小吳
+## Betty Pinsky & 小吳
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787507921-pinsky_new.jpg)
 
 👍🏼[網友推薦1](https://www.facebook.com/groups/baligo/permalink/1424008058146435/) 👍🏼[網友推薦2](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[網友推薦3](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[網友推薦4](https://www.facebook.com/groups/baligo/permalink/1520187905195116/) 👍🏼[網友推薦5](https://www.facebook.com/groups/baligo/permalink/1566672470546659/) 👍🏼[網友推薦6](https://www.facebook.com/groups/baligo/permalink/1572613913285848/) 👍🏼[網友推薦7](https://www.facebook.com/groups/baligo/permalink/1580841709129735/) 👍🏼[網友推薦8](https://www.facebook.com/groups/baligo/permalink/1585601355320437/) 👍🏼[網友推薦9](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/8VRYThs4s1pGYjvh/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/153msrhAUp/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/14pukgECBh/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/15tH9LntDp/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/1AGnbS7Usi/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/1578r5eaTS/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/1ANZSYxXA5/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1ANYFF9HPd/) 👍🏼[網友推薦18](https://www.facebook.com/share/p/166PNTDsEF/) 👍🏼[網友推薦19](https://www.facebook.com/share/p/1AoyTQa6Ut/) 👍🏼[網友推薦20](https://www.facebook.com/share/p/1YvZrMzod9/) 👍🏼[網友推薦21](https://www.facebook.com/share/p/1Hfu77tmut/) 👍🏼[網友推薦22](https://www.facebook.com/share/p/14XwwPmVjhX/)
 
-## 任何
+## Any
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787562092-ani_new.jpg)
 
@@ -55,7 +57,7 @@ _srcHash: 7be4c50ab276ff489aac681f871e6c9e
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787696068-new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/Cvqq2n427oB9oHeh/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/FF2GnBbXJwGgfHUu/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/UTmwgoSFWbk5Du5F/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/15dZEeu1fd/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1CBA9FJQmj/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1Cgc9bvyut/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1BP23fTwFA/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/14XuPRuYQ8r/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1Gg1tfgYQr/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/Cvqq2n427oB9oHeh/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/FF2GnBbXJwGgfHUu/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/UTmwgoSFWbk5Du5F/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/15dZEeu1fd/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1CBA9FJQmj/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1Cgc9bvyut/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1BP23fTwFA/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/14XuPRuYQ8r/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1Gg1tfgYQr/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1CGp9yXvui/)
 
 ## Gede Ari
 
@@ -75,7 +77,7 @@ _srcHash: 7be4c50ab276ff489aac681f871e6c9e
 
 👍🏼[網友推薦1](https://www.facebook.com/share/p/5wgq1Z6i5eqUBJKj/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/AEiVmT3yQBo3DKhm/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/8J5yshrP6CtvTjGQ/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/NY997TTXwZruajcj/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/AjvWujMgEdwYyBKo/) 👍🏼[網友推薦6](https://www.facebook.com/groups/baligo/permalink/1645280722685833/) 👍🏼[網友推薦7](https://www.facebook.com/share/18Ya4FGwZX/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/19u7ydTkaB/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1AyrDVV6WG/)
 
-## Ok 峇里島
+## Ok Bali
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787856119-ok_bali_new.jpg)
 
@@ -103,7 +105,7 @@ _srcHash: 7be4c50ab276ff489aac681f871e6c9e
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774788022936-_new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/groups/baligo/permalink/1303317733548802/)
+👍🏼[網友推薦1](https://www.facebook.com/groups/baligo/permalink/1303317733548802/) 👍🏼[網友推薦2](https://www.facebook.com/groups/baligo/permalink/1328527967694445/) 👍🏼[網友推薦3](https://www.facebook.com/groups/baligo/permalink/1328945090986066/) 👍🏼[網友推薦4](https://www.facebook.com/groups/baligo/permalink/1429430927604148/) 👍🏼[網友推薦5](https://www.facebook.com/groups/baligo/permalink/1429435184270389/) 👍🏼[網友推薦6](https://www.facebook.com/groups/baligo/permalink/1447013362512571/) 👍🏼[網友推薦7](https://www.facebook.com/groups/baligo/permalink/1504043050142935/) 👍🏼[網友推薦8](https://www.facebook.com/groups/baligo/permalink/1544564106090829/) 👍🏼[網友推薦9](https://www.facebook.com/groups/baligo/permalink/1560878421126064/) 👍🏼[網友推薦10](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/Dht7Npq9dB6t6Acj/?mibextid=A7sQZp) 👍🏼[網友推薦12](https://www.facebook.com/share/p/XjCCr7h3jUcoihZL/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/hE24S7RrBZuDKB4R/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/19eYb9HkPn/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/18sj6jAcV3/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/16LwXDKR1H/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1EW8DqQ7ex/) 👍🏼[網友推薦18](https://www.facebook.com/share/p/1P1ABiSqn6/) 👍🏼[網友推薦19](https://www.facebook.com/share/p/1FtxCvDbr9/) 👍🏼[網友推薦20](https://www.facebook.com/share/p/17TuGZieHU/)
 
 ## Kadek Puri
 
