@@ -191,7 +191,7 @@ export const prerender = true;
       var res = await fetch('/article-index.json');
       var data = res.ok ? await res.json() : [];
       allArticles = data.filter(function(a) {
-        return a.id && a.id.match(/^\d{4}-\d{2}-\d{2}-/) && a.title;
+        return a.id && a.title;
       });
     } catch(e) { allArticles = []; }
   }
