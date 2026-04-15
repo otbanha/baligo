@@ -58,9 +58,52 @@ const categories = Array.from(allCats).sort();
     }
     .cat-select:focus { outline: none; border-color: #1A365D; }
     .hidden { display: none !important; }
+
+    /* ── 近7天排行榜 ──────────────────────────────────────────────────────── */
+    #panel-7d { display: none; }
+    #panel-7d.active { display: block; }
+    .rank-header {
+      display: flex; align-items: center; gap: 0.6rem; margin-bottom: 1rem;
+    }
+    .rank-header h2 { font-size: 1rem; font-weight: 800; color: #1A365D; margin: 0; }
+    .rank-badge {
+      font-size: 0.75rem; background: #f0ece2; color: #8B6914;
+      padding: 0.2em 0.7em; border-radius: 12px; font-weight: 700;
+    }
+    .rank-list { display: flex; flex-direction: column; gap: 0.55rem; max-width: 780px; }
+    .rank-item {
+      display: flex; align-items: center; gap: 0.9rem;
+      background: #fff; border: 1px solid #e8e4da; border-radius: 10px;
+      padding: 0.65rem 1rem; transition: border-color 0.15s;
+    }
+    .rank-item:hover { border-color: #C5A059; }
+    .rank-pos {
+      flex-shrink: 0; width: 2rem; text-align: center;
+      font-size: 1.1rem; font-weight: 900; color: #ccc;
+    }
+    .rank-pos.gold   { color: #C5A059; }
+    .rank-pos.silver { color: #8a9ba8; }
+    .rank-pos.bronze { color: #b87040; }
+    .rank-title {
+      flex: 1; min-width: 0;
+      font-size: 0.88rem; font-weight: 600; color: #1A365D;
+      text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .rank-title:hover { color: #C5A059; text-decoration: underline; }
+    .rank-views {
+      flex-shrink: 0; font-size: 0.82rem; font-weight: 700;
+      color: #1A365D; white-space: nowrap;
+    }
+    .rank-views span { color: #aaa; font-weight: 400; margin-left: 0.2em; font-size: 0.75rem; }
+    .rank-bar-wrap { flex-shrink: 0; width: 60px; }
+    .rank-bar {
+      height: 5px; background: #C5A059; border-radius: 3px; opacity: 0.6;
+    }
+    .rank-empty { color: #aaa; font-size: 0.88rem; padding: 1.5rem 0; }
     @media (max-width: 600px) {
       td.slug-cell { display: none; }
       th.slug-th { display: none; }
+      .rank-bar-wrap { display: none; }
     }
   </style>
 </head>
@@ -76,11 +119,23 @@ const categories = Array.from(allCats).sort();
     <div class="tabs">
       <button class="tab active" id="tab-latest">最新</button>
       <button class="tab" id="tab-popular">🔥 最多人看</button>
+      <button class="tab" id="tab-7d">📅 近7天</button>
     </div>
     <span id="stats-status">載入瀏覽數中…</span>
   </div>
 
-  <table>
+  <!-- 近7天排行榜 -->
+  <div id="panel-7d">
+    <div class="rank-header">
+      <h2>近 7 天瀏覽排行</h2>
+      <span class="rank-badge" id="rank-date-range"></span>
+    </div>
+    <div class="rank-list" id="rank-list">
+      <p class="rank-empty">載入中…</p>
+    </div>
+  </div>
+
+  <table id="panel-table">
     <thead>
       <tr>
         <th style="width:2.5rem">#</th>
@@ -157,10 +212,30 @@ const categories = Array.from(allCats).sort();
       });
     }
 
+    const tab7d = document.getElementById('tab-7d');
+    const panelTable = document.getElementById('panel-table');
+    const panel7d = document.getElementById('panel-7d');
+    const rankList = document.getElementById('rank-list');
+    const rankDateRange = document.getElementById('rank-date-range');
+    let rank7dLoaded = false;
+
+    function showTablePanel() {
+      panelTable.style.display = '';
+      panel7d.classList.remove('active');
+    }
+
+    function show7dPanel() {
+      panelTable.style.display = 'none';
+      panel7d.classList.add('active');
+      if (!rank7dLoaded) load7dRanking();
+    }
+
     tabLatest.addEventListener('click', () => {
       sortMode = 'latest';
       tabLatest.classList.add('active');
       tabPopular.classList.remove('active');
+      tab7d.classList.remove('active');
+      showTablePanel();
       applySort();
     });
 
@@ -168,8 +243,59 @@ const categories = Array.from(allCats).sort();
       sortMode = 'popular';
       tabPopular.classList.add('active');
       tabLatest.classList.remove('active');
+      tab7d.classList.remove('active');
+      showTablePanel();
       applySort();
     });
+
+    tab7d.addEventListener('click', () => {
+      tab7d.classList.add('active');
+      tabLatest.classList.remove('active');
+      tabPopular.classList.remove('active');
+      show7dPanel();
+    });
+
+    // ── 近7天排行榜 ────────────────────────────────────────────────────────────
+    async function load7dRanking() {
+      rank7dLoaded = true;
+      try {
+        const res = await fetch('/api/pageview?range=7d');
+        if (!res.ok) throw new Error('API error');
+        const data = await res.json(); // [{ slug, views }]
+
+        // Set date range badge
+        const today = new Date();
+        const weekAgo = new Date(today);
+        weekAgo.setDate(weekAgo.getDate() - 6);
+        const fmt = d => `${d.getMonth() + 1}/${d.getDate()}`;
+        rankDateRange.textContent = `${fmt(weekAgo)} – ${fmt(today)}`;
+
+        const top10 = data.slice(0, 10);
+        if (!top10.length) {
+          rankList.innerHTML = '<p class="rank-empty">近 7 天尚無瀏覽資料（資料從啟用後開始累積）</p>';
+          return;
+        }
+
+        const maxViews = top10[0].views || 1;
+        const medals = ['🥇', '🥈', '🥉'];
+        const posClass = ['gold', 'silver', 'bronze'];
+
+        rankList.innerHTML = top10.map(({ slug, views }, i) => {
+          const title = articleMap[slug] || slug;
+          const barWidth = Math.max(4, Math.round((views / maxViews) * 60));
+          const posLabel = medals[i] || (i + 1);
+          const cls = posClass[i] || '';
+          return `<div class="rank-item">
+  <span class="rank-pos ${cls}">${posLabel}</span>
+  <a class="rank-title" href="${slug}" target="_blank">${title}</a>
+  <div class="rank-bar-wrap"><div class="rank-bar" style="width:${barWidth}px"></div></div>
+  <span class="rank-views">${views.toLocaleString()}<span>次</span></span>
+</div>`;
+        }).join('');
+      } catch {
+        rankList.innerHTML = '<p class="rank-empty">載入失敗，請稍後再試</p>';
+      }
+    }
 
     // ── Load view counts ───────────────────────────────────────────────────────
     async function loadViews() {
