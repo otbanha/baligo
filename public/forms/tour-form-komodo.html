@@ -180,7 +180,8 @@
       </div>
       <div class="field">
         <label class="field-label" id="lbl_email"></label>
-        <input type="email" name="email" id="emailInput" placeholder="your@email.com">
+        <input type="email" name="email" id="emailInput" placeholder="your@email.com" required>
+        <span class="field-error" id="err_emailInput"></span>
       </div>
     </div>
 
@@ -207,7 +208,7 @@ const T = {
     lbl_depart:'預計出發日期',
     lbl_flight_out:'去程航班（例如：CI771）', lbl_flight_ret:'回程航班（例如：CI772）',
     lbl_adults:'大人', lbl_children:'小孩（12 歲以下）', lbl_childages:'各小孩年齡',
-    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email（選填）',
+    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email',
     lbl_itinerary:'想增加或刪除的景點／活動',
     lbl_notes:'其他需求',
     ph_name:'稱呼', ph_line:'帳號或電話',
@@ -235,7 +236,7 @@ const T = {
     lbl_depart:'预计出发日期',
     lbl_flight_out:'去程航班（例如：CI771）', lbl_flight_ret:'回程航班（例如：CI772）',
     lbl_adults:'成人', lbl_children:'儿童（12 岁以下）', lbl_childages:'各儿童年龄',
-    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email（选填）',
+    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email',
     lbl_itinerary:'想增加或删除的景点／活动',
     lbl_notes:'其他需求',
     ph_name:'称呼', ph_line:'账号或电话',
@@ -263,7 +264,7 @@ const T = {
     lbl_depart:'預計出發日期',
     lbl_flight_out:'去程航班（例如：CX654）', lbl_flight_ret:'回程航班（例如：CX655）',
     lbl_adults:'成人', lbl_children:'小朋友（12 歲以下）', lbl_childages:'各小朋友年齡',
-    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email（可不填）',
+    lbl_name:'姓名', lbl_line:'LINE / WhatsApp', lbl_email:'Email',
     lbl_itinerary:'想增加或刪除嘅景點／活動',
     lbl_notes:'其他需求',
     ph_name:'稱呼', ph_line:'帳號或電話',
@@ -291,7 +292,7 @@ const T = {
     lbl_depart:'Estimated departure date',
     lbl_flight_out:'Outbound flight (e.g. CI771)', lbl_flight_ret:'Return flight (e.g. CI772)',
     lbl_adults:'Adults', lbl_children:'Children (under 12)', lbl_childages:"Children's ages",
-    lbl_name:'Name', lbl_line:'LINE / WhatsApp', lbl_email:'Email (optional)',
+    lbl_name:'Name', lbl_line:'LINE / WhatsApp', lbl_email:'Email',
     lbl_itinerary:'Attractions / activities to add or remove',
     lbl_notes:'Other requests',
     ph_name:'Your name', ph_line:'Account or phone number',
@@ -371,7 +372,7 @@ function setLang(lang) {
   document.getElementById('sec6').innerHTML = t.sec6 + ` <span class="badge-opt" style="font-size:9px;font-weight:500;letter-spacing:0.08em;color:var(--muted);background:transparent;border:1px solid var(--border);border-radius:2px;padding:1px 5px;">${t.opt}</span>`;
 
   // Field labels
-  const optIds = new Set(['lbl_email','lbl_itinerary','lbl_notes','lbl_flight_out','lbl_flight_ret']);
+  const optIds = new Set(['lbl_itinerary','lbl_notes','lbl_flight_out','lbl_flight_ret']);
   ['lbl_depart','lbl_flight_out','lbl_flight_ret','lbl_adults','lbl_children','lbl_childages','lbl_name','lbl_line','lbl_email','lbl_itinerary','lbl_notes'].forEach(id => {
     const el = document.getElementById(id);
     if (!el) return;
@@ -500,6 +501,10 @@ function validateForm() {
   // Line
   if (!document.getElementById('lineInput').value.trim()) { showErr('line', t.errRequired); valid = false; } else showErr('line', '');
 
+  // Email
+  const email = document.getElementById('emailInput').value.trim();
+  if (!email) { showErr('emailInput', t.errRequired); valid = false; } else showErr('emailInput', '');
+
   return valid;
 }
 
@@ -509,7 +514,8 @@ function isFormReady() {
   const dietSel = document.querySelectorAll('#dietPills .pill.sel');
   const name = document.getElementById('nameInput').value.trim();
   const line = document.getElementById('lineInput').value.trim();
-  return depart && flightSel && dietSel.length > 0 && name && line;
+  const email = document.getElementById('emailInput').value.trim();
+  return depart && flightSel && dietSel.length > 0 && name && line && email;
 }
 
 function updateSubmitBtn() {
@@ -517,7 +523,7 @@ function updateSubmitBtn() {
 }
 
 // Live listeners
-['depart','nameInput','lineInput'].forEach(id => {
+['depart','nameInput','lineInput','emailInput'].forEach(id => {
   const el = document.getElementById(id);
   if (el) el.addEventListener('input', updateSubmitBtn);
 });
