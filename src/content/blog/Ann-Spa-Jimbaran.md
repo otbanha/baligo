@@ -56,6 +56,8 @@ ANN SPA 是2025年底才新開幕的會館，由台灣老闆娘親自打造。
 
 👉_「舒服到會想再來一次」_
 
+![raw-image](https://images.gobaligo.id/images/2026-04/1776254488895-flower_mixcollage.jpg)
+
 ***
 
 ## 💬真實體驗 & 評價整理（精華版）
@@ -134,5 +136,9 @@ ANN SPA 的定位是這樣：
 我會說——
 
 👉 **可以把 ANN SPA 放進清單裡，不太會後悔的那種。**
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776254533717-ann.jpg)
+
+▲台灣老闆娘期待您的光臨！
 
 {{block:ann-spa-map}}
