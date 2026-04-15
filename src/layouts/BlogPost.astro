@@ -1584,17 +1584,35 @@ hr { margin: 1.2em 0 1.8em; }
   if (articleBody && articleBody.dataset.shuffle === 'true') {
     const children = Array.from(articleBody.childNodes);
 
-    // 分組：preamble（第一個 H2 之前）+ 各 H2 區塊 + postamble（<!-- no-shuffle --> 標記後的 H2 及其後內容）
+    // 分組：preamble（第一個 H2 之前，或 <!-- shuffle-start --> 之前的 H2 區塊）
+    //       + 各 H2 區塊（隨機排列）
+    //       + postamble（<!-- no-shuffle --> 標記後的 H2 及其後內容）
+    //
+    // 使用方式：
+    //   <!-- shuffle-start -->  放在「要開始 shuffle 的 H2」之前，其前的 H2 固定在頂部
+    //   <!-- no-shuffle -->     放在「要固定在底部的 H2」之前
     const preamble: ChildNode[] = [];
     const sections: ChildNode[][] = [];
     const postamble: ChildNode[] = [];
     let current: ChildNode[] | null = null;
     let noShuffleNext = false;
     let inPostamble = false;
+    let shuffleStarted = false;
 
     for (const node of children) {
+      const isComment = node.nodeType === Node.COMMENT_NODE;
+      const commentText = isComment ? (node as Comment).data.trim() : '';
+
+      // 偵測 <!-- shuffle-start --> HTML comment
+      if (isComment && commentText === 'shuffle-start') {
+        shuffleStarted = true;
+        // 若目前有尚未進入 sections 的 H2 區塊（因為還在 preamble 等待），
+        // 此 comment 本身不需要插入內容
+        continue;
+      }
+
       // 偵測 <!-- no-shuffle --> HTML comment
-      if (node.nodeType === Node.COMMENT_NODE && (node as Comment).data.trim() === 'no-shuffle') {
+      if (isComment && commentText === 'no-shuffle') {
         noShuffleNext = true;
         postamble.push(node);
         continue;
@@ -1611,11 +1629,20 @@ hr { margin: 1.2em 0 1.8em; }
       }
       if (inPostamble) {
         postamble.push(node);
-      } else if (tag === 'H2') {
+      } else if (tag === 'H2' && shuffleStarted) {
+        // shuffle-start 之後的 H2 才進入隨機區
         current = [node];
         sections.push(current);
-      } else if (current) {
-        current.push(node);
+      } else if (tag === 'H2' && !shuffleStarted) {
+        // shuffle-start 之前的 H2 視為 preamble（固定）
+        current = [node];
+        preamble.push(node);
+      } else if (current && !inPostamble) {
+        if (shuffleStarted && sections.length > 0) {
+          sections[sections.length - 1].push(node);
+        } else {
+          preamble.push(node);
+        }
       } else {
         preamble.push(node);
       }
