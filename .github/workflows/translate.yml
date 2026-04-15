@@ -5,17 +5,16 @@ on:
     branches: [main]
     paths:
       - 'src/content/blog/**'
-      - 'src/content/blocks/**'
 
-  # 每天 Jakarta 時間凌晨 2:00（UTC 19:00）自動同步
+  # 每天 Jakarta 時間凌晨 2:00（UTC 19:00）自動同步文章
   schedule:
     - cron: '0 19 * * *'
 
-  # 允許手動觸發
+  # 允許手動觸發（用於區塊翻譯）
   workflow_dispatch:
     inputs:
       only_blocks:
-        description: '只翻譯內容區塊（true = 跳過文章翻譯，省費用）'
+        description: '只翻譯內容區塊（true = 跳過文章翻譯）'
         required: false
         default: 'false'
 
@@ -82,15 +81,14 @@ jobs:
         if: env.SKIP != 'true'
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
-          TRANSLATE_BATCH_SIZE: '1'
+          TRANSLATE_BATCH_SIZE: '10'
         run: |
           if [ "${{ github.event.inputs.only_blocks }}" = "true" ]; then
             echo "📦 只翻譯內容區塊"
             node scripts/translate.mjs --blocks
           else
-            echo "📝 翻譯文章 + 內容區塊"
+            echo "📝 翻譯文章"
             node scripts/translate.mjs
-            node scripts/translate.mjs --blocks
           fi
 
       - name: Commit 翻譯結果

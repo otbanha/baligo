@@ -242,10 +242,10 @@ if ((cats.includes('簽證通關') || cats.includes('签证通关')) && h2s.leng
       { "@type": "HowToSupply", "name": lang === 'en' ? "Return flight ticket" : "來回機票" },
       { "@type": "HowToSupply", "name": lang === 'en' ? "Hotel reservation" : "住宿訂單" },
     ],
-    "step": h2s.map((h, i) => ({
+    "step": h2s.filter(h => h.text?.trim()).map((h, i) => ({
       "@type": "HowToStep",
       "position": i + 1,
-      "name": h.text,
+      "name": h.text.trim(),
       "url": `${articleUrl}#${h.slug}`,
       "image": ogImage,
     })),
@@ -260,9 +260,9 @@ if (
   extraSchemas.push({
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    "mainEntity": h2s.slice(0, 10).map(h => ({
+    "mainEntity": h2s.filter(h => h.text?.trim()).slice(0, 10).map(h => ({
       "@type": "Question",
-      "name": h.text,
+      "name": h.text.trim(),
       "acceptedAnswer": {
         "@type": "Answer",
         "text": description || `詳見：${articleUrl}#${h.slug}`,
