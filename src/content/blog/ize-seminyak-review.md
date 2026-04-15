@@ -156,6 +156,6 @@ IZE Seminyak 共有四個主要房型，每種定位清晰：
 ## 📌 訂房資訊
 
 > 評分：Tripadvisor 4.0/5（2,274則評價）⭐ | Agoda 綜合評分 8.7 / 位置 9.3
-[👉 點此查看 Agoda 最新房價與空房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=337808)
+> [👉 點此查看 Agoda 最新房價與空房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=337808)
 
 {{block:smk}}
