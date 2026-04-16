@@ -2,7 +2,7 @@
 title: 峇里島（印尼）外國遊客購物退稅（VAT Refund for Tourists）完整指南
 description: 在峇里島購物也能省錢！深度解析印尼外國遊客購物退稅（VAT Refund for Tourists）制度：包含最低消費門檻、認可商店標誌、機場辦理流程與所需文件。本篇特別提醒 2026 最新退稅時限與領取方式，教您如何在伍拉·賴機場優雅拿回 11% 稅金，讓您的海島血拼更划算。
 pubDate: 2026-04-16
-pubHour: 14
+pubHour: null
 category:
   - 旅行技巧
 tags:
@@ -52,6 +52,7 @@ embeds: []
 
 1. **購物完成後**：收集所有稅務發票。
 2. **離境當天（峇里島伍拉·賴國際機場 DPS）**：
+
     - 先用手機或電腦上官方 App 預申請： 進入 [**https://vatrefundapp.pajak.go.id/**](https://vatrefundapp.pajak.go.id/) 登入或註冊 → 建立新退稅申請 → 填入地址、離境/入境日期 → 選擇要退稅的發票 → 選擇退稅方式 → 拍攝商品照片 → 提交。
     - 前往 **Tax Refund 櫃檯**： **位置**：國際航廈（International Terminal）**3樓**（靠近出境區）。
     - 出示：護照、登機證、所有稅務發票、實體商品（供檢查）。
