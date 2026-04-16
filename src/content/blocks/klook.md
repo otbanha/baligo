@@ -1,8 +1,101 @@
 ---
 title: klook
-type: random-list
+type: normal
 randomCount: 12
 ---
+
+<div style="margin: 1.5rem 0; font-family: inherit;">
+
+  <div style="display: grid; grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 8px;">
+
+    <a href="你的連結" style="display:flex;flex-direction:column;gap:6px;padding:12px 14px;border:1px solid #e8d9b0;border-radius:10px;text-decoration:none;color:inherit;background:#fffdf7;">
+      <span style="font-size:20px;">🍽️</span>
+      <span style="font-size:13px;font-weight:600;color:#3a3020;">峇里島美食優惠</span>
+      <span style="font-size:11px;background:#fff0cc;color:#7a5500;padding:2px 8px;border-radius:99px;width:fit-content;">Klook 優惠</span>
+    </a>
+
+    <a href="你的連結" style="display:flex;flex-direction:column;gap:6px;padding:12px 14px;border:1px solid #e8d9b0;border-radius:10px;text-decoration:none;color:inherit;background:#fffdf7;">
+      <span style="font-size:20px;">🎟️</span>
+      <span style="font-size:13px;font-weight:600;color:#3a3020;">峇里島門票優惠</span>
+      <span style="font-size:11px;background:#fff0cc;color:#7a5500;padding:2px 8px;border-radius:99px;width:fit-content;">Klook 優惠</span>
+    </a>
+
+    <a href="你的連結" style="display:flex;flex-direction:column;gap:6px;padding:12px 14px;border:1px solid #e8d9b0;border-radius:10px;text-decoration:none;color:inherit;background:#fffdf7;">
+      <span style="font-size:20px;">📱</span>
+      <span style="font-size:13px;font-weight:600;color:#3a3020;">印尼/峇里島 SIM 卡</span>
+      <span style="font-size:11px;background:#fff0cc;color:#7a5500;padding:2px 8px;border-radius:99px;width:fit-content;">Klook 優惠</span>
+    </a>
+
+    <a href="你的連結" style="display:flex;flex-direction:column;gap:6px;padding:12px 14px;border:1px solid #e8d9b0;border-radius:10px;text-decoration:none;color:inherit;background:#fffdf7;">
+      <span style="font-size:20px;">🤿</span>
+      <span style="font-size:13px;font-weight:600;color:#3a3020;">峇里島水上活動</span>
+      <span style="font-size:11px;background:#fff0cc;color:#7a5500;padding:2px 8px;border-radius:99px;width:fit-content;">Klook 優惠</span>
+    </a>
+
+    <a href="你的連結" style="display:flex;flex-direction:column;gap:6px;padding:12px 14px;border:1px solid #e8d9b0;border-radius:10px;text-decoration:none;color:inherit;background:#fffdf7;">
+      <span style="font-size:20px;">🏎️</span>
+      <span style="font-size:13px;font-weight:600;color:#3a3020;">峇里島 ATV 活動</span>
+      <span style="font-size:11px;background:#fff0cc;color:#7a5500;padding:2px 8px;border-radius:99px;width:fit-content;">Klook 優惠</span>
+    </a>
+
+    <a href="你的連結" style="display:flex;flex-direction:column;gap:6px;padding:12px 14px;border:1px solid #e8d9b0;border-radius:10px;text-decoration:none;color:inherit;background:#fffdf7;">
+      <span style="font-size:20px;">🚣</span>
+      <span style="font-size:13px;font-weight:600;color:#3a3020;">峇里島泛舟活動</span>
+      <span style="font-size:11px;background:#fff0cc;color:#7a5500;padding:2px 8px;border-radius:99px;width:fit-content;">Klook 優惠</span>
+    </a>
+
+    <a href="你的連結" style="display:flex;flex-direction:column;gap:6px;padding:12px 14px;border:1px solid #e8d9b0;border-radius:10px;text-decoration:none;color:inherit;background:#fffdf7;">
+      <span style="font-size:20px;">🌋</span>
+      <span style="font-size:13px;font-weight:600;color:#3a3020;">巴杜爾火山日出</span>
+      <span style="font-size:11px;background:#fff0cc;color:#7a5500;padding:2px 8px;border-radius:99px;width:fit-content;">Klook 優惠</span>
+    </a>
+
+    <a href="你的連結" style="display:flex;flex-direction:column;gap:6px;padding:12px 14px;border:1px solid #e8d9b0;border-radius:10px;text-decoration:none;color:inherit;background:#fffdf7;">
+      <span style="font-size:20px;">🎭</span>
+      <span style="font-size:13px;font-weight:600;color:#3a3020;">峇里島看表演</span>
+      <span style="font-size:11px;background:#fff0cc;color:#7a5500;padding:2px 8px;border-radius:99px;width:fit-content;">Klook 優惠</span>
+    </a>
+
+    <a href="你的連結" style="display:flex;flex-direction:column;gap:6px;padding:12px 14px;border:1px solid #e8d9b0;border-radius:10px;text-decoration:none;color:inherit;background:#fffdf7;">
+      <span style="font-size:20px;">🏝️</span>
+      <span style="font-size:13px;font-weight:600;color:#3a3020;">佩尼達島行程</span>
+      <span style="font-size:11px;background:#fff0cc;color:#7a5500;padding:2px 8px;border-radius:99px;width:fit-content;">Klook 優惠</span>
+    </a>
+
+    <a href="你的連結" style="display:flex;flex-direction:column;gap:6px;padding:12px 14px;border:1px solid #e8d9b0;border-radius:10px;text-decoration:none;color:inherit;background:#fffdf7;">
+      <span style="font-size:20px;">📦</span>
+      <span style="font-size:13px;font-weight:600;color:#3a3020;">套裝一日遊</span>
+      <span style="font-size:11px;background:#fff0cc;color:#7a5500;padding:2px 8px;border-radius:99px;width:fit-content;">Klook 優惠</span>
+    </a>
+
+    <a href="你的連結" style="display:flex;flex-direction:column;gap:6px;padding:12px 14px;border:1px solid #e8d9b0;border-radius:10px;text-decoration:none;color:inherit;background:#fffdf7;">
+      <span style="font-size:20px;">👙</span>
+      <span style="font-size:13px;font-weight:600;color:#3a3020;">熱門海灘/渡假村通票</span>
+      <span style="font-size:11px;background:#fff0cc;color:#7a5500;padding:2px 8px;border-radius:99px;width:fit-content;">Klook 優惠</span>
+    </a>
+
+    <a href="你的連結" style="display:flex;flex-direction:column;gap:6px;padding:12px 14px;border:1px solid #d4ead8;border-radius:10px;text-decoration:none;color:inherit;background:#f5fbf6;">
+      <span style="font-size:20px;">🏞️</span>
+      <span style="font-size:13px;font-weight:600;color:#1a3020;">烏布盪鞦韆</span>
+      <span style="font-size:11px;background:#d4ead8;color:#1a5c2a;padding:2px 8px;border-radius:99px;width:fit-content;">本站推薦</span>
+    </a>
+
+    <a href="你的連結" style="display:flex;flex-direction:column;gap:6px;padding:12px 14px;border:1px solid #d4ead8;border-radius:10px;text-decoration:none;color:inherit;background:#f5fbf6;">
+      <span style="font-size:20px;">🧴</span>
+      <span style="font-size:13px;font-weight:600;color:#1a3020;">好評 SPA 推薦</span>
+      <span style="font-size:11px;background:#d4ead8;color:#1a5c2a;padding:2px 8px;border-radius:99px;width:fit-content;">本站推薦</span>
+    </a>
+
+    <a href="你的連結" style="display:flex;flex-direction:column;gap:6px;padding:12px 14px;border:1px solid #d4ead8;border-radius:10px;text-decoration:none;color:inherit;background:#f5fbf6;">
+      <span style="font-size:20px;">📸</span>
+      <span style="font-size:13px;font-weight:600;color:#1a3020;">隨行攝影師 / 傳統服飾寫真</span>
+      <span style="font-size:11px;background:#d4ead8;color:#1a5c2a;padding:2px 8px;border-radius:99px;width:fit-content;">本站推薦</span>
+    </a>
+
+  </div>
+</div>
+
+
 
 ## 👇峇里島內行玩家優惠票券👇
 
