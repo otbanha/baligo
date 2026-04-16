@@ -19,11 +19,8 @@ const searchPlaceholder = lang === 'en'    ? '🔍 Search articles...' :
                                              '🔍 搜尋文章...';
 
 const closeLabel = lang === 'en' ? 'Close search' : '關閉搜尋';
-const noResultsLabel = lang === 'en' ? 'No results found.' :
-                       lang === 'zh-cn' ? '找不到相關文章。' : '找不到相關文章。';
-const pagefindLang = lang === 'en' ? 'en' :
-                     lang === 'zh-cn' ? 'zh-cn' :
-                     lang === 'zh-hk' ? 'zh-hk' : 'zh-tw';
+const searchLabel = lang === 'en' ? 'Search' : '搜尋';
+const inputPlaceholder = lang === 'en' ? 'Search 600+ Bali travel articles...' : '搜尋 600+ 篇峇里島旅遊文章...';
 ---
 
 <ScrollReveal />
@@ -51,17 +48,24 @@ const pagefindLang = lang === 'en' ? 'en' :
   </nav>
 </header>
 
-<!-- Pagefind 搜尋 Modal -->
+<!-- Google 本站搜尋 Modal -->
 <div id="search-modal" class="search-modal" hidden aria-modal="true" role="dialog" aria-label={closeLabel}>
   <div class="search-modal-backdrop" id="search-backdrop"></div>
   <div class="search-modal-box">
-    <div class="search-modal-header">
-      <div id="pagefind-container"></div>
+    <form id="google-search-form" class="search-form">
+      <input
+        type="search"
+        id="google-search-input"
+        class="google-search-input"
+        placeholder={inputPlaceholder}
+        autocomplete="off"
+        autocorrect="off"
+        spellcheck="false"
+      />
+      <button type="submit" class="google-search-btn">{searchLabel}</button>
       <button type="button" class="search-close-btn" id="search-close" aria-label={closeLabel}>✕</button>
-    </div>
-    <p class="search-hint" id="search-hint">
-      {lang === 'en' ? 'Type to search 600+ Bali travel articles' : '搜尋 600+ 篇峇里島旅遊文章'}
-    </p>
+    </form>
+    <p class="search-hint">Powered by Google</p>
   </div>
 </div>
 
@@ -80,25 +84,16 @@ const pagefindLang = lang === 'en' ? 'en' :
   })();
 </script>
 
-<script define:vars={{ noResultsLabel, pagefindLang }}>
-  let pagefindLoaded = false;
-
+<script>
   function openModal() {
     const modal = document.getElementById('search-modal');
     if (!modal) return;
     modal.hidden = false;
     document.body.style.overflow = 'hidden';
-
-    if (!pagefindLoaded) {
-      pagefindLoaded = true;
-      loadPagefind();
-    } else {
-      // Focus the input already inside the Pagefind UI
-      setTimeout(() => {
-        const input = modal.querySelector('input[type="text"],input[type="search"]');
-        if (input) input.focus();
-      }, 50);
-    }
+    setTimeout(() => {
+      const input = document.getElementById('google-search-input');
+      if (input) input.focus();
+    }, 50);
   }
 
   function closeModal() {
@@ -108,56 +103,18 @@ const pagefindLang = lang === 'en' ? 'en' :
     document.body.style.overflow = '';
   }
 
-  async function loadPagefind() {
-    // Pagefind UI CSS
-    const link = document.createElement('link');
-    link.rel = 'stylesheet';
-    link.href = '/pagefind/pagefind-ui.css';
-    document.head.appendChild(link);
-
-    // 先設定語言 mergeFilter，讓 pagefind-ui.js 使用同一個 module 實例時自動套用
-    try {
-      const pf = await import('/pagefind/pagefind.js');
-      await pf.options({ mergeFilter: { lang: pagefindLang } });
-    } catch(e) {}
-
-    // Pagefind UI JS
-    const script = document.createElement('script');
-    script.src = '/pagefind/pagefind-ui.js';
-    script.onload = () => {
-      if (typeof PagefindUI !== 'undefined') {
-        new PagefindUI({
-          element: '#pagefind-container',
-          showImages: false,
-          showSubResults: false,
-          resetStyles: false,
-          translations: { placeholder: '🔍 搜尋文章關鍵字...', zero_results: noResultsLabel },
-        });
-        // Auto-focus after UI is mounted
-        setTimeout(() => {
-          const input = document.querySelector('#pagefind-container input');
-          if (input) input.focus();
-          // Hide the hint once the user starts typing
-          const hint = document.getElementById('search-hint');
-          if (input && hint) {
-            input.addEventListener('input', () => {
-              hint.style.display = input.value ? 'none' : '';
-            }, { once: false });
-          }
-        }, 100);
-      }
-    };
-    document.head.appendChild(script);
-  }
-
-  // Trigger
   document.getElementById('search-trigger')?.addEventListener('click', openModal);
   document.getElementById('search-close')?.addEventListener('click', closeModal);
   document.getElementById('search-backdrop')?.addEventListener('click', closeModal);
+  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeModal(); });
 
-  // Close on Escape
-  document.addEventListener('keydown', (e) => {
-    if (e.key === 'Escape') closeModal();
+  document.getElementById('google-search-form')?.addEventListener('submit', (e) => {
+    e.preventDefault();
+    const q = (document.getElementById('google-search-input') as HTMLInputElement)?.value.trim();
+    if (q) {
+      window.open('https://www.google.com/search?q=site:gobaligo.id+' + encodeURIComponent(q), '_blank');
+      closeModal();
+    }
   });
 </script>
 
@@ -256,24 +213,11 @@ button.search-input:focus {
 .search-modal-box {
   position: relative;
   width: 100%;
-  max-width: 680px;
+  max-width: 640px;
   margin: 0 1em;
   background: var(--white, #fff);
   border-radius: 12px;
   box-shadow: 0 20px 60px rgba(0,0,0,0.4);
-  overflow: hidden;
-}
-
-.search-modal-header {
-  display: flex;
-  align-items: flex-start;
-  gap: 0.5em;
-  padding: 1em 1em 0;
-}
-
-.search-modal-header > #pagefind-container {
-  flex: 1;
-  min-width: 0;
 }
 
 .search-close-btn {
@@ -286,57 +230,52 @@ button.search-input:focus {
   padding: 0.3em 0.5em;
   line-height: 1;
   border-radius: 4px;
-  margin-top: 0.25em;
 }
 .search-close-btn:hover { background: #eee; color: #333; }
 
 .search-hint {
-  margin: 0.5em 1em 0.75em;
-  font-size: 0.8em;
-  color: #999;
+  margin: 0.4em 1em 0.8em;
+  font-size: 0.75em;
+  color: #aaa;
+  text-align: right;
 }
 
-/* 隱藏 Pagefind 語言 filter 下拉 */
-:global(#pagefind-container .pagefind-ui__filter-panel),
-:global(#pagefind-container .pagefind-ui__filters) {
-  display: none !important;
+.search-form {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  padding: 1em;
 }
 
-/* Pagefind UI 覆蓋樣式 */
-:global(#pagefind-container .pagefind-ui) {
-  --pagefind-ui-scale: 0.9;
-  --pagefind-ui-primary: #0a1628;
-  --pagefind-ui-text: #1a1a1a;
-  --pagefind-ui-background: #fff;
-  --pagefind-ui-border: #d4a843;
-  --pagefind-ui-tag: #f0e6cc;
-  font-family: inherit;
-}
-
-:global(#pagefind-container .pagefind-ui__search-input) {
+.google-search-input {
+  flex: 1;
+  min-width: 0;
+  border: 1.5px solid #c5a059;
   border-radius: 8px;
-  border: 1.5px solid #c5a059 !important;
+  padding: 0.6em 1em;
   font-size: 1em;
+  font-family: inherit;
+  outline: none;
+  color: #1a1a1a;
+}
+.google-search-input:focus {
+  border-color: #0a1628;
+  box-shadow: 0 0 0 3px rgba(10,22,40,0.1);
 }
 
-:global(#pagefind-container .pagefind-ui__result-link) {
-  color: #0a1628;
-  font-weight: 600;
+.google-search-btn {
+  flex-shrink: 0;
+  background: #0a1628;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 0.6em 1.2em;
+  font-size: 0.95em;
+  font-family: inherit;
+  cursor: pointer;
+  white-space: nowrap;
 }
-:global(#pagefind-container .pagefind-ui__result-link:hover) {
-  color: #c5a059;
-}
-
-:global(#pagefind-container .pagefind-ui__results) {
-  max-height: 60vh;
-  overflow-y: auto;
-  padding-bottom: 0.5em;
-}
-
-:global(#pagefind-container .pagefind-ui__result) {
-  border-bottom: 1px solid #eee;
-  padding: 0.75em 0;
-}
+.google-search-btn:hover { background: #c5a059; }
 
 .bk-icon {
   position: relative;
