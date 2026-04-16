@@ -132,16 +132,6 @@ const pagefindLang = lang === 'en' ? 'en' :
           showSubResults: false,
           resetStyles: false,
           translations: { placeholder: '🔍 搜尋文章關鍵字...', zero_results: noResultsLabel },
-          // 中文查詢：拆成單字 AND 搜尋，解決 Pagefind 中文分詞問題
-          // Pagefind 索引時把漢字分成 unigram，但 query 端不會自動拆，
-          // 加空格讓 Pagefind 做 AND 多詞搜尋，大幅提升中文召回率
-          processTerm: function(query) {
-            const trimmed = query.trim();
-            if (/^[\u3400-\u9fff\u4e00-\u9fff]+$/.test(trimmed)) {
-              return trimmed.split('').join(' ');
-            }
-            return query;
-          },
         });
         // Auto-focus after UI is mounted
         setTimeout(() => {
@@ -304,6 +294,12 @@ button.search-input:focus {
   margin: 0.5em 1em 0.75em;
   font-size: 0.8em;
   color: #999;
+}
+
+/* 隱藏 Pagefind 語言 filter 下拉 */
+:global(#pagefind-container .pagefind-ui__filter-panel),
+:global(#pagefind-container .pagefind-ui__filters) {
+  display: none !important;
 }
 
 /* Pagefind UI 覆蓋樣式 */
