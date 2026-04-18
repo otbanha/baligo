@@ -173,10 +173,26 @@ const socialLinks = [
         sessionStorage.setItem('gobaligo_lang_checked', '1');
         return;
       }
-      // 同一 session 已偵測過（包含從文章按 BACK 回來的情況），不重複跳轉
+      // 同一 session 已偵測過，不重複跳轉
       if (sessionStorage.getItem('gobaligo_lang_checked')) return;
       sessionStorage.setItem('gobaligo_lang_checked', '1');
-      var nav = (navigator.language || navigator.languages && navigator.languages[0] || '').toLowerCase();
+
+      // 優先尊重 cookie（使用者曾主動選擇語言）
+      var cookieLang = (document.cookie.match(/(?:^|;\s*)gobaligo_lang=([^;]+)/) || [])[1];
+      if (cookieLang === 'zh-tw') return;
+      if (cookieLang === 'zh-cn') { window.location.replace('/zh-cn/blog/'); return; }
+      if (cookieLang === 'zh-hk') { window.location.replace('/zh-hk/blog/'); return; }
+      if (cookieLang === 'en')    { window.location.replace('/en/blog/'); return; }
+
+      // 沒有 cookie，看瀏覽器語言（檢查整個 navigator.languages 陣列）
+      var langs = Array.from(navigator.languages || [navigator.language || '']).map(function(l){ return l.toLowerCase(); });
+      function matchAny(fn) { return langs.some(fn); }
+
+      // 任何 zh-tw / zh-hant 變體 → 留在繁體中文（不做跳轉）
+      if (matchAny(function(l){ return l === 'zh-tw' || l === 'zh-hant' || l.startsWith('zh-hant-'); })) return;
+
+      // 其他語系：取第一個語言決定跳轉目標
+      var nav = langs[0] || '';
       var dest = null;
       if (nav.startsWith('en')) dest = '/en/blog/';
       else if (nav === 'zh-cn' || nav === 'zh-hans' || nav === 'zh-sg' || nav === 'zh-my') dest = '/zh-cn/blog/';
