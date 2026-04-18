@@ -376,6 +376,13 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['檳榔', '帶檳榔', '攜帶檳榔', '檳榔入境', '檳榔違禁', '檳榔禁止',
+               'betel nut', 'betel', 'pinang', 'areca'],
+    articles: [
+      { title: '可以攜帶檳榔入境峇里島/印尼嗎?', url: '/blog/2024-04-16-661e7b1ffd89780001f1da05/' },
+    ],
+  },
+  {
     keywords: ['inquiry', 'Inquiry', 'INQUIRY', 'enquiry', 'Enquiry',
                'book a tour', 'private tour', 'tour booking', 'tour package', 'book tour',
                'I want to book', 'I\'d like to book', 'I want to join', 'join the tour',
@@ -393,7 +400,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v16'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v17'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
@@ -572,6 +579,7 @@ ${candidateList}`;
 禁止提到「客服」「联系我们」；问到包车报价只说「直接咨询司机」。${introHint}
 
 【重要知识】台币换汇：台币不是主要流通货币，在巴厘岛汇率极差，1元台币约只能换350印尼盾。建议带美金去巴厘岛换，汇率远比台币好。绝对不可说「带台币直接换比较划算」。
+【重要知识】槟榔入境：槟榔可以携带入境印尼/巴厘岛，根据印尼海关规定不是禁止物品。但数量以个人自用为限，含石灰添加剂的槟榔可能被海关询问，保持冷静配合即可。凡涉及海关禁带物品的问题，若本站无专门文章，请说「建议查询印尼海关官方规定」，不可自行给出确定性答案。
 
 候选文章：
 ${candidateList}`;
@@ -583,6 +591,7 @@ ${candidateList}`;
 禁止提到「客服」「聯絡我們」；問到包車報價只係話「直接問司機」。${introHint}
 
 【重要知識】台幣換匯：台幣唔係主要流通貨幣，喺峇里島匯率極差，1蚊台幣大約只能換350印尼盾。建議帶美金去峇里島換，匯率遠比台幣好。絕對唔可以話「帶台幣直接換比較划算」。
+【重要知識】檳榔入境：檳榔可以攜帶入境印尼/峇里島，根據印尼海關規定唔係禁帶物品。但數量要以個人自用為限，含石灰添加劑嘅檳榔可能被海關查詢，保持冷靜配合即可。凡涉及海關禁帶物品嘅問題，若本站冇專門文章，請話「建議查詢印尼海關官方規定」，唔可以自行給出確定性答案。
 
 候選文章：
 ${candidateList}`;
@@ -645,6 +654,10 @@ Do NOT mention customer service — this site has no customer support team.${art
 【特定知識】：
 - 當被問到「佩尼達島/Nusa Penida 一日遊還是住宿」時，回答是：一日遊方便可快速走訪熱門景點，但若能留宿一晚，可錯開人潮、欣賞日出日落，體驗更深入。行程允許的話建議住一晚。
 - 當被問到「帶台幣去換印尼盾還是美金比較划算」或任何關於台幣換匯的問題時，必須回答：台幣不是主要流通貨幣，在峇里島的匯率極差，通常1元台幣只能換到約350印尼盾。建議帶美金去峇里島換，匯率遠比台幣好得多。詳細換匯攻略請參考文章。
+- 當被問到「檳榔可不可以帶去峇里島/印尼」時，必須回答：**可以攜帶**，根據印尼海關規定檳榔不是禁止入境物品，峇里島每日的宗教供品中也有檳榔。但數量以個人自用為限，且含紅灰/白灰的台灣檳榔可能會被海關詢問，保持冷靜、配合即可。詳情請參考文章。
+
+【海關／入境規定原則】：
+- 凡涉及「可不可以帶XXX入境」「XXX是不是違禁品」「XXX過海關會不會被查」等海關規定問題，必須優先以本站文章為準，若無相關文章則說「本站目前沒有這方面的專門文章，建議查詢印尼海關官方規定或詢問航空公司」，絕對不可直接根據自身訓練資料給出「可以」或「不可以」的確定性答案。
 
 【特定回答】：
 - 被問到如何聯絡/客服/詢問時：回答「本站沒有客服，但你可以到臉書社團『Go Bali Go 峇里島旅遊』留言給管理員：[Go Bali Go 峇里島旅遊 臉書社團](https://www.facebook.com/groups/baligo)」
@@ -749,7 +762,7 @@ export async function onRequestPost(context) {
     : articles.map(a => ({ title: a.title, url: localizeUrl(a.url, lang) }));
   const systemPrompt = buildSystemPrompt(lang, relatedArticles, customIntro, localizedAllArticles);
 
-  // ── DeepInfra / DeepSeek API (OpenAI-compatible) ─────────────────────────────
+  // ── DeepInfra / DeepSeek API — streaming ────────────────────────────────────
   const aiRes = await fetch('https://api.deepinfra.com/v1/openai/chat/completions', {
     method: 'POST',
     headers: {
@@ -760,6 +773,7 @@ export async function onRequestPost(context) {
       model: 'deepseek-ai/DeepSeek-V3',
       max_tokens: OUTPUT_MAX_TOKENS,
       temperature: 0.2,
+      stream: true,
       messages: [
         { role: 'system', content: systemPrompt },
         { role: 'user', content: message },
@@ -772,16 +786,52 @@ export async function onRequestPost(context) {
     return Response.json({ error: '抱歉，AI 暫時無法回應，請稍後再試。' }, { status: 502, headers: corsHeaders });
   }
 
-  const aiData = await aiRes.json();
-  const reply = aiData.choices?.[0]?.message?.content || '抱歉，無法取得回覆。';
+  // Pipe SSE stream to client while accumulating full reply for cache/log
+  const { readable, writable } = new TransformStream();
+  const writer = writable.getWriter();
+  const enc = new TextEncoder();
+  const dec = new TextDecoder();
 
-  // ── Store reply in cache ───────────────────────────────────────────────────────
-  if (env.RATE_LIMIT) {
-    await env.RATE_LIMIT.put(cacheKey, reply, { expirationTtl: CACHE_TTL });
-  }
+  context.waitUntil((async () => {
+    const reader = aiRes.body.getReader();
+    let fullReply = '';
+    let buf = '';
+    try {
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        const chunk = dec.decode(value, { stream: true });
+        buf += chunk;
+        // Forward raw SSE bytes to client
+        await writer.write(enc.encode(chunk));
+        // Accumulate tokens for cache
+        const lines = buf.split('\n');
+        buf = lines.pop(); // keep incomplete line
+        for (const line of lines) {
+          if (!line.startsWith('data: ') || line === 'data: [DONE]') continue;
+          try {
+            const token = JSON.parse(line.slice(6))?.choices?.[0]?.delta?.content || '';
+            fullReply += token;
+          } catch {}
+        }
+      }
+    } finally {
+      await writer.close();
+    }
+    if (env.RATE_LIMIT && fullReply) {
+      await env.RATE_LIMIT.put(cacheKey, fullReply, { expirationTtl: CACHE_TTL });
+    }
+    await logChat(env, message, fullReply, pageLang);
+  })());
 
-  context.waitUntil(logChat(env, message, reply, pageLang));
-  return Response.json({ reply }, { headers: corsHeaders });
+  return new Response(readable, {
+    headers: {
+      ...corsHeaders,
+      'Content-Type': 'text/event-stream; charset=utf-8',
+      'Cache-Control': 'no-cache',
+      'X-Accel-Buffering': 'no',
+    },
+  });
 }
 
 export async function onRequestOptions() {

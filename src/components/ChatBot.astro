@@ -171,7 +171,15 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
     input.disabled = true;
 
     addMessage(text, 'user');
-    addTyping();
+
+    // 建立 bot 訊息泡泡，逐字填入
+    const botDiv = document.createElement('div');
+    botDiv.className = 'msg bot';
+    botDiv.innerHTML = '<img src="/favicon-32x32.png" alt="" class="msg-avatar spinning" /><div class="msg-bubble"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>';
+    messages.appendChild(botDiv);
+    messages.scrollTop = messages.scrollHeight;
+    const bubble = botDiv.querySelector('.msg-bubble');
+    const avatar = botDiv.querySelector('.msg-avatar');
 
     try {
       const res = await fetch(API_URL, {
@@ -179,16 +187,55 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
         headers: { 'Content-Type': 'application/json' },
         body: JSON.stringify({ message: text, lang: htmlLang }),
       });
-      const data = await res.json();
-      removeTyping();
-      if (data.reply) {
-        addBotMessage(data.reply);
+
+      if (!res.ok) {
+        const data = await res.json().catch(() => ({}));
+        bubble.innerHTML = `<span class="error">${data.error || errFallback}</span>`;
+        return;
+      }
+
+      const ct = res.headers.get('content-type') || '';
+
+      if (ct.includes('text/event-stream')) {
+        // Streaming: 逐 token 顯示
+        const reader = res.body.getReader();
+        const dec = new TextDecoder();
+        let fullText = '';
+        let buf = '';
+        let firstToken = true;
+        bubble.innerHTML = '';
+
+        while (true) {
+          const { done, value } = await reader.read();
+          if (done) break;
+          buf += dec.decode(value, { stream: true });
+          const lines = buf.split('\n');
+          buf = lines.pop();
+          for (const line of lines) {
+            if (!line.startsWith('data: ') || line === 'data: [DONE]') continue;
+            try {
+              const token = JSON.parse(line.slice(6))?.choices?.[0]?.delta?.content || '';
+              if (token) {
+                if (firstToken) { avatar.classList.remove('spinning'); firstToken = false; }
+                fullText += token;
+                bubble.innerHTML = renderReply(fullText);
+                messages.scrollTop = messages.scrollHeight;
+              }
+            } catch {}
+          }
+        }
+        avatar.classList.remove('spinning');
+        if (!fullText) bubble.innerHTML = `<span class="error">${errFallback}</span>`;
       } else {
-        addMessage(data.error || errFallback, 'error');
+        // Fallback: cached JSON response
+        const data = await res.json();
+        avatar.classList.remove('spinning');
+        bubble.innerHTML = data.reply ? renderReply(data.reply) : `<span class="error">${data.error || errFallback}</span>`;
+        messages.scrollTop = messages.scrollHeight;
       }
     } catch {
-      removeTyping();
-      addMessage(errNetwork, 'error');
+      avatar?.classList.remove('spinning');
+      bubble.innerHTML = `<span class="error">${errNetwork}</span>`;
     } finally {
       sendBtn.disabled = false;
       input.disabled = false;
@@ -329,7 +376,9 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
 
 .msg { display: flex; align-items: flex-start; gap: 0.5em; }
 .msg.user { flex-direction: row-reverse; }
-.msg-avatar { width: 22px; height: 22px; border-radius: 4px; flex-shrink: 0; margin-top: 4px; }
+.msg-avatar { width: 22px; height: 22px; border-radius: 4px; flex-shrink: 0; margin-top: 4px; transition: transform 0.3s; }
+@keyframes spin { to { transform: rotate(360deg); } }
+.msg-avatar.spinning { animation: spin 1s linear infinite; }
 
 .msg-bubble {
   max-width: 85%;
