@@ -167,9 +167,12 @@ const socialLinks = [
   <!-- 瀏覽器語言自動偵測：只在同一 session 的第一次進入時生效，?lang=tw 可強制停留 -->
   <script is:inline>
     (function() {
-      // ?lang=tw：使用者主動選擇繁體中文，清掉 query param 並記錄已偵測
+      // ?lang=tw：使用者主動選擇繁體中文，只移除 lang param（保留 cat 等其他參數）
       if (new URLSearchParams(location.search).has('lang')) {
-        history.replaceState(null, '', location.pathname);
+        var p = new URLSearchParams(location.search);
+        p.delete('lang');
+        var qs = p.toString();
+        history.replaceState(null, '', location.pathname + (qs ? '?' + qs : ''));
         sessionStorage.setItem('gobaligo_lang_checked', '1');
         return;
       }
