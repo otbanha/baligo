@@ -290,11 +290,6 @@ const socialLinks = [
           ))}
         </ul>
       </div>
-      {activePromos.length > 0 && (
-  <div class="sidebar-section">
-    <div id="promo-block-index"></div>
-  </div>
-)}
       </div><!-- end sidebar-inner -->
     </aside>
 
@@ -439,6 +434,12 @@ const socialLinks = [
       </div>
 
       <div id="pagination" class="pagination"></div>
+
+      {activePromos.length > 0 && (
+        <div id="promo-block-main">
+          <div id="promo-block-index"></div>
+        </div>
+      )}
     </main>
   </div>
 
@@ -1012,6 +1013,11 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 .page-btn:hover:not(:disabled) { background: var(--ocean-light); }
 .page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 .page-info { font-size: 0.88em; color: var(--text-light); }
+
+#promo-block-main {
+  margin-top: 1.5em;
+  padding-bottom: 1em;
+}
 
 /* Sidebar toggle button — 手機才顯示 */
 .sidebar-toggle {
