@@ -210,7 +210,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
   border: none;
   cursor: pointer;
   box-shadow: 0 4px 20px rgba(10,22,40,0.4);
-  z-index: 1000;
+  z-index: 9999;
   display: flex;
   align-items: center;
   gap: 0.5em;
@@ -259,7 +259,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
   border: 1.5px solid rgba(197,160,89,0.4);
   border-radius: 18px;
   box-shadow: 0 8px 40px rgba(10,22,40,0.25);
-  z-index: 1000;
+  z-index: 9999;
   overflow: hidden;
   transform: scale(0.85) translateY(20px);
   transform-origin: bottom right;
@@ -413,7 +413,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
     opacity: 1;
   }
   .chat-bubble-btn {
-    bottom: 1.2em;
+    bottom: 9em;
     right: 1em;
     transition: transform 0.18s ease, opacity 0.18s ease;
   }
