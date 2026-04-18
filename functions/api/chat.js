@@ -762,7 +762,7 @@ export async function onRequestPost(context) {
     : articles.map(a => ({ title: a.title, url: localizeUrl(a.url, lang) }));
   const systemPrompt = buildSystemPrompt(lang, relatedArticles, customIntro, localizedAllArticles);
 
-  // ── DeepInfra / DeepSeek API (OpenAI-compatible) ─────────────────────────────
+  // ── DeepInfra / DeepSeek API — streaming ────────────────────────────────────
   const aiRes = await fetch('https://api.deepinfra.com/v1/openai/chat/completions', {
     method: 'POST',
     headers: {
@@ -773,6 +773,7 @@ export async function onRequestPost(context) {
       model: 'deepseek-ai/DeepSeek-V3',
       max_tokens: OUTPUT_MAX_TOKENS,
       temperature: 0.2,
+      stream: true,
       messages: [
         { role: 'system', content: systemPrompt },
         { role: 'user', content: message },
@@ -785,16 +786,52 @@ export async function onRequestPost(context) {
     return Response.json({ error: '抱歉，AI 暫時無法回應，請稍後再試。' }, { status: 502, headers: corsHeaders });
   }
 
-  const aiData = await aiRes.json();
-  const reply = aiData.choices?.[0]?.message?.content || '抱歉，無法取得回覆。';
+  // Pipe SSE stream to client while accumulating full reply for cache/log
+  const { readable, writable } = new TransformStream();
+  const writer = writable.getWriter();
+  const enc = new TextEncoder();
+  const dec = new TextDecoder();
 
-  // ── Store reply in cache ───────────────────────────────────────────────────────
-  if (env.RATE_LIMIT) {
-    await env.RATE_LIMIT.put(cacheKey, reply, { expirationTtl: CACHE_TTL });
-  }
+  context.waitUntil((async () => {
+    const reader = aiRes.body.getReader();
+    let fullReply = '';
+    let buf = '';
+    try {
+      while (true) {
+        const { done, value } = await reader.read();
+        if (done) break;
+        const chunk = dec.decode(value, { stream: true });
+        buf += chunk;
+        // Forward raw SSE bytes to client
+        await writer.write(enc.encode(chunk));
+        // Accumulate tokens for cache
+        const lines = buf.split('\n');
+        buf = lines.pop(); // keep incomplete line
+        for (const line of lines) {
+          if (!line.startsWith('data: ') || line === 'data: [DONE]') continue;
+          try {
+            const token = JSON.parse(line.slice(6))?.choices?.[0]?.delta?.content || '';
+            fullReply += token;
+          } catch {}
+        }
+      }
+    } finally {
+      await writer.close();
+    }
+    if (env.RATE_LIMIT && fullReply) {
+      await env.RATE_LIMIT.put(cacheKey, fullReply, { expirationTtl: CACHE_TTL });
+    }
+    await logChat(env, message, fullReply, pageLang);
+  })());
 
-  context.waitUntil(logChat(env, message, reply, pageLang));
-  return Response.json({ reply }, { headers: corsHeaders });
+  return new Response(readable, {
+    headers: {
+      ...corsHeaders,
+      'Content-Type': 'text/event-stream; charset=utf-8',
+      'Cache-Control': 'no-cache',
+      'X-Accel-Buffering': 'no',
+    },
+  });
 }
 
 export async function onRequestOptions() {
