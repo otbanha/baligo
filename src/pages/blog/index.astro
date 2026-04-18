@@ -1041,6 +1041,8 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   .sidebar-toggle { display: none; }
   .sidebar-inner { display: block; padding: 0; }
   .sidebar-inner.open { display: block; }
+  /* 隱藏促銷區塊，只保留分類 pills */
+  .sidebar-inner .sidebar-section:not(:first-child) { display: none; }
   .sidebar-title { display: none; }
   .sidebar-section { margin: 0; }
 
