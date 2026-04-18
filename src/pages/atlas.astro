@@ -412,7 +412,7 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
       return '<div class="private-item" id="comment-row-' + c.id + '">' +
         '<div class="private-meta">' +
           '<div class="private-date">' + date + '</div>' +
-          (c.slug ? '<a class="private-cat" href="/' + c.slug + '/" target="_blank" style="text-decoration:none;">' + c.slug + ' ↗</a>' : '') +
+          (c.slug ? '<a class="private-cat" href="/blog/' + c.slug + '/" target="_blank" style="text-decoration:none;">' + c.slug + ' ↗</a>' : '') +
         '</div>' +
         '<div class="private-body">' +
           '<span class="private-title" style="display:block;white-space:normal;cursor:default">' + c.name + '</span>' +
