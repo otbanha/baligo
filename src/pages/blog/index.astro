@@ -1022,79 +1022,76 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 
 @media (max-width: 900px) {
   .layout { grid-template-columns: 1fr; }
+
+  /* Sticky 橫滑 pill 列 */
   .sidebar {
-    position: static;
+    position: sticky;
+    top: 64px;
+    z-index: 90;
     height: auto;
     border-right: none;
-    border-bottom: 1px solid rgba(197,160,89,0.2);
+    border-bottom: 2px solid rgba(197,160,89,0.25);
     padding: 0;
+    background: var(--ocean, #1A365D);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
   }
-  /* 手機版 sidebar — 預設收合，顯示 toggle 按鈕 */
-  .sidebar-toggle {
-    display: flex;
-    align-items: center;
-    justify-content: space-between;
-    width: 100%;
-    padding: 0.85em 1.2em;
-    background: linear-gradient(135deg, var(--ocean) 0%, #1e4a7a 100%);
-    color: #fff;
-    font-size: 1em;
-    font-weight: 700;
-    font-family: inherit;
-    border: none;
-    border-left: 4px solid var(--gold);
-    cursor: pointer;
-    letter-spacing: 0.03em;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.18);
-  }
-  .sidebar-toggle::before {
-    content: '📂';
-    margin-right: 0.4em;
-    font-size: 1.1em;
-  }
-  .toggle-arrow {
-    font-size: 0.85em;
-    background: rgba(201,168,76,0.25);
-    border-radius: 50%;
-    width: 1.8em;
-    height: 1.8em;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    transition: transform 0.25s, background 0.2s;
-    flex-shrink: 0;
-  }
-  .sidebar-toggle[aria-expanded="true"] .toggle-arrow {
-    transform: rotate(180deg);
-    background: rgba(201,168,76,0.45);
-  }
-  .sidebar-toggle:active {
-    background: #1e4a7a;
-  }
-  .sidebar-inner {
-    display: none;
-    padding: 0.8em 1em 1em;
-  }
-  .sidebar-inner.open {
-    display: block;
-  }
-  /* 手機版隱藏桌面版 sidebar-title（已有 toggle 按鈕取代） */
+  .sidebar-toggle { display: none; }
+  .sidebar-inner { display: block; padding: 0; }
+  .sidebar-inner.open { display: block; }
   .sidebar-title { display: none; }
+  .sidebar-section { margin: 0; }
 
-  /* 手機版展開後分類項目加大字體、間距更明顯 */
-  .sidebar-inner .category-item {
-    font-size: 0.95em;
-    padding: 0.6em 0.8em;
-    min-height: 48px;
-    border: 1px solid transparent;
+  /* 橫滑容器 */
+  .category-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 0.45em;
+    padding: 0.55em 1em;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
   }
-  .sidebar-inner .category-item:hover,
-  .sidebar-inner .category-item.active {
-    border-color: rgba(201,168,76,0.3);
+  .category-list::-webkit-scrollbar { display: none; }
+  .category-list li { flex-shrink: 0; }
+
+  /* Pill 樣式 */
+  .category-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3em;
+    width: auto;
+    min-height: 34px;
+    padding: 0.3em 0.85em;
+    border-radius: 20px;
+    border: 1px solid rgba(197,160,89,0.35);
+    background: rgba(255,255,255,0.08);
+    color: #e8d5a3;
+    font-size: 0.83em;
+    font-weight: 600;
+    white-space: nowrap;
+    margin-bottom: 0;
+    justify-content: center;
+    transition: background 0.15s, border-color 0.15s;
   }
-  .sidebar-inner .cat-count {
-    font-size: 0.82em;
-    padding: 0.15em 0.6em;
+  .category-item:hover { background: rgba(197,160,89,0.2); color: #fff; }
+  .category-item.active {
+    background: var(--gold, #C5A059);
+    color: var(--ocean, #1A365D);
+    border-color: var(--gold, #C5A059);
+    font-weight: 700;
+  }
+  .cat-count {
+    font-size: 0.72em;
+    background: rgba(197,160,89,0.2);
+    color: rgba(232,213,163,0.85);
+    padding: 0.05em 0.4em;
+    border-radius: 10px;
+    font-weight: 600;
+  }
+  .category-item.active .cat-count {
+    background: rgba(26,54,93,0.25);
+    color: var(--ocean, #1A365D);
   }
 
   main { padding: 1.2em 1em 3em; }
