@@ -63,6 +63,9 @@ const getCatLabel = (cat: string) => {
 };
 
 const blogBase = lang === 'en' ? '/en/blog' : lang === 'zh-cn' ? '/zh-cn/blog' : lang === 'zh-hk' ? '/zh-hk/blog' : '/blog';
+const isZhTw = lang !== 'en' && lang !== 'zh-cn' && lang !== 'zh-hk';
+const blogIndexUrl = isZhTw ? `${blogBase}/?lang=tw` : `${blogBase}/`;
+const catBaseUrl   = isZhTw ? `${blogBase}/?lang=tw&cat=` : `${blogBase}?cat=`;
 
 const canonicalUrl = `https://gobaligo.id${blogBase}/${slug}/`;
 const shareText = encodeURIComponent(title);
@@ -213,14 +216,14 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
         <h3 class="sidebar-title">{i18n.sidebarTitle}</h3>
         <ul class="category-list">
           <li>
-            <a href={blogBase} class="category-item">
+            <a href={blogIndexUrl} class="category-item">
               <span class="cat-name">{i18n.allArticles}</span>
               <span class="cat-count">{allPosts.length}</span>
             </a>
           </li>
           {categories.map(cat => (
             <li>
-              <a href={`${blogBase}?cat=${encodeURIComponent(cat)}`}
+              <a href={`${catBaseUrl}${encodeURIComponent(cat)}`}
                  class={`category-item ${(Array.isArray(category) ? category : [category]).includes(cat) ? 'active' : ''}`}
                 <span class="cat-name">{getCatLabel(cat)}</span>
                 <span class="cat-count">{categoryCounts[cat]}</span>
@@ -242,12 +245,12 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
     <main>
       <!-- Mobile 分類導覽（桌機版有 sidebar，手機版才顯示） -->
       <nav class="mobile-breadcrumb" aria-label="分類導覽">
-        <a href={blogBase} class="breadcrumb-home">{i18n.breadcrumbAll}</a>
+        <a href={blogIndexUrl} class="breadcrumb-home">{i18n.breadcrumbAll}</a>
         {category && (
           <>
             <span class="breadcrumb-sep">›</span>
             <a
-              href={`${blogBase}?cat=${encodeURIComponent(Array.isArray(category) ? category[0] : category)}`}
+              href={`${catBaseUrl}${encodeURIComponent(Array.isArray(category) ? category[0] : category)}`}
               class="breadcrumb-cat"
             >
               {getCatLabel(Array.isArray(category) ? category[0] : category)}

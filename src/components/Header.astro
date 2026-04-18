@@ -11,7 +11,7 @@ const { lang, slug } = Astro.props;
 
 const homeUrl = lang === 'en' ? '/en/blog/' :
                 lang === 'zh-cn' ? '/zh-cn/blog/' :
-                lang === 'zh-hk' ? '/zh-hk/blog/' : '/blog/';
+                lang === 'zh-hk' ? '/zh-hk/blog/' : '/blog/?lang=tw';
 
 const searchPlaceholder = lang === 'en'    ? '🔍 Search articles...' :
                           lang === 'zh-cn' ? '🔍 搜索文章...' :
