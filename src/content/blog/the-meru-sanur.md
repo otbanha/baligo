@@ -16,7 +16,7 @@ tags:
   - 巴厘岛沙努尔豪华酒店推荐 2026
   - The Meru Sanur wellness center
   - Best luxury stay in Sanur Bali
-heroImage: ''
+heroImage: 'https://images.gobaligo.id/images/2026-04/1776438711480-549267171.jpg'
 originalUrl: ''
 private: false
 shuffle_h2: false
