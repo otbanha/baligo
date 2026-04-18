@@ -175,11 +175,14 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
     // 建立 bot 訊息泡泡，逐字填入
     const botDiv = document.createElement('div');
     botDiv.className = 'msg bot';
-    botDiv.innerHTML = '<img src="/favicon-32x32.png" alt="" class="msg-avatar spinning" /><div class="msg-bubble"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>';
+    botDiv.innerHTML = '<img src="/favicon-32x32.png" alt="" class="msg-avatar" /><div class="msg-bubble"><span class="dot"></span><span class="dot"></span><span class="dot"></span></div>';
     messages.appendChild(botDiv);
     messages.scrollTop = messages.scrollHeight;
     const bubble = botDiv.querySelector('.msg-bubble');
     const avatar = botDiv.querySelector('.msg-avatar');
+
+    // 開始旋轉（在 fetch 之前，確保一定看得到）
+    requestAnimationFrame(() => avatar.classList.add('spinning'));
 
     try {
       const res = await fetch(API_URL, {

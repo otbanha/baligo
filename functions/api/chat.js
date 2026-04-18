@@ -400,7 +400,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v17'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v18'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
@@ -602,6 +602,8 @@ ${candidateList}`;
 禁止提到「客服」「聯繫我們」；問到包車報價只說「直接洽詢司機」。${introHint}
 
 【重要知識】台幣換匯：台幣不是主要流通貨幣，在峇里島匯率極差，1元台幣約只能換350印尼盾。建議帶美金去峇里島換，匯率遠比台幣好得多。絕對不可說「帶台幣直接換比較划算」。
+【重要知識】檳榔入境：檳榔**可以**攜帶入境印尼/峇里島，根據印尼海關規定檳榔不是禁止入境物品，峇里島宗教供品中本就有檳榔。但數量以個人自用為限；含紅灰/白灰的台灣檳榔可能被海關詢問，保持冷靜配合即可。若有人問「可以帶檳榔嗎」，必須回答「可以」。
+【海關原則】涉及「可不可以帶XXX入境」的問題，必須以本站文章為準。若候選文章標題已說明答案，請採用文章立場回答，不可用自己的訓練資料覆蓋。若本站無相關文章，請說「建議查詢印尼海關官方規定」。
 
 候選文章：
 ${candidateList}`;
