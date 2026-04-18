@@ -16,12 +16,12 @@ const { title, description, pubDate, updatedDate, heroImage, category, embeds, e
 const tocHeadings = headings.filter(h => h.depth === 1 || h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= 2;
 
-// OG image：優先用文章內容第一張圖，無圖才用 heroImage
+// OG image：優先用 heroImage，沒有才抓文章第一張圖
 function extractFirstImage(text: string): string {
   const m = text?.match(/!\[.*?\]\((https?:\/\/[^\)\s]+)\)/);
   return m ? m[1] : '';
 }
-const ogImage = extractFirstImage(body) || (typeof heroImage === 'string' ? heroImage : '');
+const ogImage = (typeof heroImage === 'string' && heroImage) ? heroImage : extractFirstImage(body);
 
 // Keyword-enhanced title & description for <meta> tags
 const cats = Array.isArray(category) ? category : (category ? [category] : []);
