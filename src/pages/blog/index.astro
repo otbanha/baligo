@@ -276,8 +276,7 @@ const socialLinks = [
         <ul class="category-list">
           <li>
             <button class="category-item active" data-category="all">
-              <span class="cat-name">全部文章</span>
-              <span class="cat-count">{allPosts.length}</span>
+              <span class="cat-name">首頁</span>
             </button>
           </li>
           {categories.map(cat => (
@@ -290,11 +289,6 @@ const socialLinks = [
           ))}
         </ul>
       </div>
-      {activePromos.length > 0 && (
-  <div class="sidebar-section">
-    <div id="promo-block-index"></div>
-  </div>
-)}
       </div><!-- end sidebar-inner -->
     </aside>
 
@@ -439,6 +433,12 @@ const socialLinks = [
       </div>
 
       <div id="pagination" class="pagination"></div>
+
+      {activePromos.length > 0 && (
+        <div id="promo-block-main">
+          <div id="promo-block-index"></div>
+        </div>
+      )}
     </main>
   </div>
 
@@ -1013,6 +1013,11 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 .page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
 .page-info { font-size: 0.88em; color: var(--text-light); }
 
+#promo-block-main {
+  margin-top: 1.5em;
+  padding-bottom: 1em;
+}
+
 /* Sidebar toggle button — 手機才顯示 */
 .sidebar-toggle {
   display: none;
@@ -1041,6 +1046,8 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   .sidebar-toggle { display: none; }
   .sidebar-inner { display: block; padding: 0; }
   .sidebar-inner.open { display: block; }
+  /* 隱藏促銷區塊，只保留分類 pills */
+  .sidebar-inner .sidebar-section:not(:first-child) { display: none; }
   .sidebar-title { display: none; }
   .sidebar-section { margin: 0; }
 
@@ -1085,6 +1092,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
     font-weight: 700;
   }
   .cat-count {
+    display: none;
     font-size: 0.72em;
     background: rgba(197,160,89,0.2);
     color: rgba(232,213,163,0.85);
