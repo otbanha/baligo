@@ -30,7 +30,7 @@ const T = {
     placeholder: '例如：\nD1 晚上抵達庫塔，入住飯店\nD2 烏布：梯田、猴子森林\nD3 ???（不知道要幹嘛）\nD4 努沙佩尼達一日遊\nD5 SPA + 金巴蘭海鮮',
     btnNext1: '下一步：填寫行程草稿 →', btnBack: '← 上一步',
     btnNext2: '查看推薦攻略 →', btnRestart: '重新規劃 ↺',
-    btnShare: '分享給旅伴',
+    btnShare: '📄 存成 PDF 分享旅伴',
     btnWechat: '微信分享',
     btnEdit: '編輯此行程',
     btnExport: '🔗 複製旅程連結',
@@ -105,7 +105,7 @@ const T = {
     placeholder: '例如：\nD1 晚上抵達庫塔，入住酒店\nD2 烏布：梯田、猴子森林\nD3 ???（唔知去邊）\nD4 努沙佩尼達一日遊\nD5 SPA + 金巴蘭海鮮',
     btnNext1: '下一步：填寫行程草稿 →', btnBack: '← 上一步',
     btnNext2: '睇推薦攻略 →', btnRestart: '重新規劃 ↺',
-    btnShare: '分享俾旅伴',
+    btnShare: '📄 存成 PDF 分享旅伴',
     btnWechat: '微信分享',
     btnEdit: '編輯此行程',
     btnExport: '🔗 複製旅程連結',
@@ -180,7 +180,7 @@ const T = {
     placeholder: '例如：\nD1 晚上抵达库塔，入住酒店\nD2 乌布：梯田、猴子森林\nD3 ???（不知道去哪）\nD4 努沙佩尼达一日游\nD5 SPA + 金巴兰海鲜',
     btnNext1: '下一步：填写行程草稿 →', btnBack: '← 上一步',
     btnNext2: '查看推荐攻略 →', btnRestart: '重新规划 ↺',
-    btnShare: '分享给旅伴',
+    btnShare: '📄 存成 PDF 分享旅伴',
     btnWechat: '微信分享',
     btnEdit: '编辑此行程',
     btnExport: '🔗 复制旅程链接',
@@ -255,7 +255,7 @@ const T = {
     placeholder: 'e.g.:\nDay 1: Arrive Kuta, check in\nDay 2: Ubud rice terraces, Monkey Forest\nDay 3: ??? (no idea)\nDay 4: Nusa Penida day trip\nDay 5: Spa + Jimbaran seafood',
     btnNext1: 'Next: Draft Itinerary →', btnBack: '← Back',
     btnNext2: 'See Recommendations →', btnRestart: 'Start Over ↺',
-    btnShare: 'Share with Travel Mates',
+    btnShare: '📄 Save as PDF',
     btnWechat: 'Share via WeChat',
     btnEdit: 'Edit This Plan',
     btnExport: '🔗 Copy Trip Link',
@@ -1283,16 +1283,7 @@ document.getElementById('btn-restart').addEventListener('click', () => {
 });
 
 document.getElementById('btn-share').addEventListener('click', () => {
-  const shareUrl = buildTripUrl();
-  if (navigator.share) {
-    navigator.share({ title: '峇里島行程規劃', url: shareUrl }).catch(err => console.log(err));
-  } else {
-    navigator.clipboard.writeText(shareUrl).then(() => {
-      alert('✅ 分享連結已復製到剪貼板！');
-    }).catch(() => {
-      prompt('分享連結：', shareUrl);
-    });
-  }
+  window.print();
 });
 
 document.getElementById('btn-wechat').addEventListener('click', () => {
@@ -2356,4 +2347,27 @@ function buildResults() {
   transition: background 0.15s, color 0.15s;
 }
 #spot-pop-link:hover { background: var(--ocean, #1a365d); color: #fff; }
+
+@media print {
+  /* Hide everything except Step 3 results */
+  :global(header), :global(nav), :global(footer) { display: none !important; }
+  .snav-wrap { display: none !important; }
+  .share-wrap, .restart-wrap { display: none !important; }
+  #spot-popover, .wechat-modal, .map-lightbox { display: none !important; }
+  #step-1, #step-2 { display: none !important; }
+  #step-3 { display: block !important; }
+
+  /* Remove decorative backgrounds for cleaner print */
+  :global(body) { background: #fff !important; }
+  .wizard-wrap { box-shadow: none !important; border-radius: 0 !important; padding: 0 !important; background: transparent !important; }
+  .step { box-shadow: none !important; padding: 0 !important; }
+
+  /* Ensure links are visible and clickable */
+  :global(a) { color: var(--ocean, #1a365d) !important; text-decoration: underline; }
+  :global(.acard), :global(.alist-item) { break-inside: avoid; }
+  :global(.results-section) { break-inside: avoid; }
+
+  /* Page setup */
+  @page { margin: 15mm 12mm; }
+}
 </style>
