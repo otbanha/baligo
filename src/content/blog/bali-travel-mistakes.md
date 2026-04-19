@@ -67,7 +67,7 @@ https://youtu.be/GivvqCXp11A
 
 烏布、水明漾、金巴蘭都有不少評價穩定的按摩店，價格透明、師傅訓練有素。但路邊隨意走進去的小店，品質就真的很參差不齊。
 
-出發前看看我們整理網友評價的**「**🔗[**峇里島按摩推薦**](https://gobaligo.id/go/spa)**」，**可以按照區域挑選，體驗差距可以天差地別**。**
+出發前看看我們整理網友評價的「🔗[**峇里島按摩推薦**](https://gobaligo.id/go/spa)」，可以按照區域挑選，體驗差距可以天差地別。
 
 ***
 
@@ -101,7 +101,7 @@ https://youtu.be/ePutHL_Ob1Q
 
 - **觀光區定價至少打對折再談**，開口殺50%是正常的起手式
 - **烏布市場、Seminyak 一帶的小巷**有很多質感不錯又實惠的選擇
-- **知道行情很重要**：一件棉麻上衣，合理價格大概在 60,000 到 100,000 印尼盾之間（約台幣120到200元）
+- **知道行情很重要**：一件棉麻上衣，合理價格大概在 50,000 到 100,000 印尼盾之間（約台幣100到200元）
 
 不了解行情直接買，當然會覺得「驚為天人」。
 
@@ -123,7 +123,7 @@ https://youtu.be/ePutHL_Ob1Q
 
 我們的峇里島社團：
 
-> [峇里島/印尼吃喝玩樂 Indonesia, Bali Travel Guide](https://www.facebook.com/groups/indonesia.travelguide/)
+> [峇里島/印尼吃喝玩樂 Indonesia, Bali Travel Guide](https://www.facebook.com/groups/indonesia.travelguide/) ｜ 
 > [Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/)
 
 ***
