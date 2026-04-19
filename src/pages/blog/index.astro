@@ -479,16 +479,19 @@ const socialLinks = [
       if (title) title.textContent = random.title;
     }
 
-    // 亂數從全部文章中挑選 6 則顯示
-    (function() {
+    // 從 KV 載入手動選定的熱門文章，亂數顯示 6 則
+    fetch('/api/hot-articles').then(r => r.json()).then(data => {
+      if (!Array.isArray(data) || data.length === 0) return;
       const section = document.getElementById('top5-section');
       const list = document.getElementById('top5-list');
-      if (!section || !list || allPostsData.length === 0) return;
-      const shuffled = allPostsData.slice().sort(() => Math.random() - 0.5).slice(0, 6);
-      list.innerHTML = shuffled.map((post, i) =>
-        `<li class="top5-item" data-index="${i}"><a href="/blog/${post.id}/"><span class="top5-num">${i + 1}</span><span class="top5-title">${post.title}</span></a></li>`
-      ).join('');
-    })();
+      if (!section || !list) return;
+      const shuffled = data.slice().sort(() => Math.random() - 0.5).slice(0, 6);
+      list.innerHTML = shuffled.map((item, i) => {
+        const localTitle = allPostsData.find(p => p.id === item.id)?.title || item.title;
+        return `<li class="top5-item" data-index="${i}"><a href="/blog/${item.id}/"><span class="top5-num">${i + 1}</span><span class="top5-title">${localTitle}</span></a></li>`;
+      }).join('');
+      section.style.display = '';
+    }).catch(() => {});
 
     // 從 KV 動態載入精選文章（若有資料則覆蓋靜態清單）
     let dynamicFeatured = null;
