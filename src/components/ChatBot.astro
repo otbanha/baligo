@@ -86,15 +86,23 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
   const closeBtn = document.getElementById('chatbot-close');
 
   function openPanel() {
-    bubbleBtn?.classList.add('exploding');
-    setTimeout(() => {
+    if (window.innerWidth <= 768) {
+      // 手機：立即隱藏 bubble，直接展開 panel
       bubbleBtn?.classList.add('hidden');
-      bubbleBtn?.classList.remove('exploding');
       panel?.classList.add('open');
       panel?.setAttribute('aria-hidden', 'false');
       adjustPanelHeight();
       setTimeout(() => input?.focus(), 300);
-    }, 180);
+    } else {
+      bubbleBtn?.classList.add('exploding');
+      setTimeout(() => {
+        bubbleBtn?.classList.add('hidden');
+        bubbleBtn?.classList.remove('exploding');
+        panel?.classList.add('open');
+        panel?.setAttribute('aria-hidden', 'false');
+        setTimeout(() => input?.focus(), 300);
+      }, 180);
+    }
   }
 
   function closePanel() {
@@ -476,5 +484,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : 'zh-TW';
   #chat-send span { display: none; }
   #chat-send { padding: 0.6em 0.85em; }
   .chat-messages { max-height: 40vh; }
+  .chatbot-header { display: flex !important; flex-wrap: nowrap; align-items: center; }
+  .chatbot-inner { display: block; }
 }
 </style>
