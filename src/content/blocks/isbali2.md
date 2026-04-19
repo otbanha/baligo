@@ -1,7 +1,7 @@
 ---
 title: isbali2
 type: random-list
-randomCount: 8
+randomCount: 4
 ---
 
 ## ▼更多正在進行的優惠
