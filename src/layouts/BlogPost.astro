@@ -1543,7 +1543,7 @@ hr { margin: 1.2em 0 1.8em; }
     padding: 0;
     background: var(--ocean, #1A365D);
     box-shadow: 0 2px 10px rgba(0,0,0,0.3);
-    overflow: visible;
+    overflow: hidden;
   }
   /* 隱藏促銷區塊，只保留分類 pills */
   .sidebar .sidebar-section:not(:first-child) { display: none; }
@@ -1588,6 +1588,7 @@ hr { margin: 1.2em 0 1.8em; }
     font-weight: 700;
   }
   .cat-count {
+    display: none;
     font-size: 0.72em;
     background: rgba(197,160,89,0.2);
     color: rgba(232,213,163,0.85);
