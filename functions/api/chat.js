@@ -91,7 +91,7 @@ const PINNED_ARTICLES = [
   {
     keywords: ['bali belly', 'Bali belly', 'BALI BELLY',
                '峇里島肚子', '峇里島腹瀉', '髒水病', '拉肚子', '水土不服', '腸胃炎', '腸胃不適',
-               '肚子痛', '肚痛', '腹痛', '上吐下瀉', '腹瀉', '食物中毒',
+               '腸胃藥', '止瀉藥', '腸胃', '肚子痛', '肚痛', '腹痛', '上吐下瀉', '腹瀉', '食物中毒',
                'diarrhea', 'diarrhoea', 'food poisoning', 'stomach bug', 'stomach ache',
                'upset stomach', 'sick stomach', 'traveler diarrhea'],
     articles: [
@@ -217,7 +217,7 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['uluwatu', 'Uluwatu', 'ULUWATU', '烏魯瓦圖', '情人崖',
+    keywords: ['uluwatu', 'Uluwatu', 'ULUWATU', '烏魯瓦圖', '屋魯瓦圖', '情人崖',
                'cliff temple', 'sunset temple', 'kecak', 'Kecak', '火舞', 'bali temple'],
     articles: [
       { title: '【烏魯瓦圖攻略】Uluwatu烏魯瓦圖景點 50個吃喝玩樂推薦', url: '/blog/2024-03-07-65dfd410fd897800019f4b40/' },
