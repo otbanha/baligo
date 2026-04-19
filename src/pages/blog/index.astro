@@ -131,6 +131,7 @@ const { Content: BaliNewsContent } = baliNewsRaw
 const top5Posts = top5Data.articles
   .map(id => allPosts.find(p => p.id === id))
   .filter(Boolean)
+  .slice(0, 6)
   .map(p => ({
     id: p.id,
     title: p.data.title,
@@ -479,16 +480,16 @@ const socialLinks = [
       if (title) title.textContent = random.title;
     }
 
-    // 從 KV 動態載入熱門文章（若有資料則覆蓋靜態清單）
+    // 從 KV 載入手動選定的熱門文章，亂數顯示 6 則
     fetch('/api/hot-articles').then(r => r.json()).then(data => {
       if (!Array.isArray(data) || data.length === 0) return;
       const section = document.getElementById('top5-section');
       const list = document.getElementById('top5-list');
       if (!section || !list) return;
-      const shuffled = data.slice().sort(() => Math.random() - 0.5);
-      list.innerHTML = shuffled.map((item) => {
+      const shuffled = data.slice().sort(() => Math.random() - 0.5).slice(0, 6);
+      list.innerHTML = shuffled.map((item, i) => {
         const localTitle = allPostsData.find(p => p.id === item.id)?.title || item.title;
-        return `<li class="top5-item"><a href="/blog/${item.id}/"><span style="display:inline-block;width:20px;height:20px;flex-shrink:0;background-image:url('/favicon-32x32.png');background-size:cover;background-repeat:no-repeat;border-radius:4px"></span><span class="top5-title">${localTitle}</span></a></li>`;
+        return `<li class="top5-item" data-index="${i}"><a href="/blog/${item.id}/"><span class="top5-num">${i + 1}</span><span class="top5-title">${localTitle}</span></a></li>`;
       }).join('');
       section.style.display = '';
     }).catch(() => {});
