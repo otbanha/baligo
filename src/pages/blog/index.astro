@@ -131,6 +131,7 @@ const { Content: BaliNewsContent } = baliNewsRaw
 const top5Posts = top5Data.articles
   .map(id => allPosts.find(p => p.id === id))
   .filter(Boolean)
+  .slice(0, 6)
   .map(p => ({
     id: p.id,
     title: p.data.title,
