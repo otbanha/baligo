@@ -32,3 +32,5 @@ embeds: []
 ---
 
 rrr
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
