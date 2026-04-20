@@ -19,7 +19,7 @@ tags:
   - 巴厘岛宝格丽度假村 2026
   - Bvlgari Resort Bali private beach
   - Most luxurious resort in Uluwatu Bali
-heroImage: >-
+heroImage: https://images.gobaligo.id/images/2026-04/1776591241490-4fe6b9930ebc15dd000a4e23814f6ccc.webp
   https://images.gobaligo.id/images/2026-04/1776591241490-4fe6b9930ebc15dd000a4e23814f6ccc.webp
 originalUrl: ''
 private: false
