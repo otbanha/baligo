@@ -1,9 +1,9 @@
 name: 定時重建發佈
 
 on:
-  # 每天 Bali 時間 07:00（WITA = UTC+8）= UTC 23:00
+  # 每天 Jakarta 時間 05:30（WIB = UTC+7）= UTC 22:30
   schedule:
-    - cron: '0 23 * * *'
+    - cron: '30 22 * * *'
 
   # 允許手動觸發（測試用）
   workflow_dispatch:
@@ -15,6 +15,6 @@ jobs:
       - name: 觸發 Cloudflare Pages 重建
         run: |
           echo "觸發時間（UTC）：$(date -u)"
-          echo "Bali 時間（WITA UTC+8）：$(TZ='Asia/Makassar' date)"
+          echo "Jakarta 時間（WIB UTC+7）：$(TZ='Asia/Jakarta' date)"
           curl -s -o /dev/null -w "HTTP status: %{http_code}" \
             -X POST "${{ secrets.CF_PAGES_DEPLOY_HOOK }}"
