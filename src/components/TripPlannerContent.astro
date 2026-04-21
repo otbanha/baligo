@@ -1405,14 +1405,18 @@ function buildTargetAreas(mentioned) {
 }
 
 // ── HTML Builders ─────────────────────────────────────────────────────
+function langUrl(url) {
+  return (lang !== 'zh-tw' && url.startsWith('/')) ? `/${lang}${url}` : url;
+}
+
 // Card format — used in highlight sections (Must-Read, Accom, Global)
 function cardHtml({title,url,tag}) {
-  return `<a href="${url}" class="acard" target="_blank" rel="noopener"><span class="acard-tag">${tag}</span><p class="acard-title">${title}</p><span class="acard-arrow">→</span></a>`;
+  return `<a href="${langUrl(url)}" class="acard" target="_blank" rel="noopener"><span class="acard-tag">${tag}</span><p class="acard-title">${title}</p><span class="acard-arrow">→</span></a>`;
 }
 
 // List item format — used in region sections and interest extras
 function listItemHtml({title,url,tag}) {
-  return `<a href="${url}" class="alist-item" target="_blank" rel="noopener"><img src="/favicon-16x16.png" class="alist-favicon" alt="" aria-hidden="true"><span class="alist-tag">${tag}</span><span class="alist-title">${title}</span><span class="alist-arrow">→</span></a>`;
+  return `<a href="${langUrl(url)}" class="alist-item" target="_blank" rel="noopener"><img src="/favicon-16x16.png" class="alist-favicon" alt="" aria-hidden="true"><span class="alist-tag">${tag}</span><span class="alist-title">${title}</span><span class="alist-arrow">→</span></a>`;
 }
 
 function regionSection(key) {
@@ -1657,7 +1661,7 @@ const SPOT_IMAGES = {
     if (img) { popImg.src = img; popImg.alt = info.title; }
     popTag.textContent = info.tag;
     popTitle.textContent = info.title;
-    popLink.href = info.url;
+    popLink.href = langUrl(info.url);
     positionPopover(btn);
     pop.classList.add('visible');
     pop.setAttribute('aria-hidden', 'false');
