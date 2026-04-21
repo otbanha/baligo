@@ -343,7 +343,7 @@ const socialLinks = [
               {top5Posts.map((post, i) => (
                 <li class="top5-item" data-index={i}>
                   <a href={`/blog/${post.id}/`}>
-                    <span class="top5-num">{i + 1}</span>
+                    <span class="top5-num"></span>
                     <span class="top5-title">{post.title}</span>
                   </a>
                 </li>
@@ -489,7 +489,7 @@ const socialLinks = [
       const shuffled = data.slice().sort(() => Math.random() - 0.5).slice(0, 6);
       list.innerHTML = shuffled.map((item, i) => {
         const localTitle = allPostsData.find(p => p.id === item.id)?.title || item.title;
-        return `<li class="top5-item" data-index="${i}"><a href="/blog/${item.id}/"><span class="top5-num">${i + 1}</span><span class="top5-title">${localTitle}</span></a></li>`;
+        return `<li class="top5-item" data-index="${i}"><a href="/blog/${item.id}/"><span class="top5-num"></span><span class="top5-title">${localTitle}</span></a></li>`;
       }).join('');
       section.style.display = '';
     }).catch(() => {});
