@@ -26,7 +26,7 @@ tags:
   - 峇里島自由行
   - 巴厘岛自由行
   - BaliTravelTips
-heroImage: >-
+heroImage: https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
 originalUrl: ''
 private: false
