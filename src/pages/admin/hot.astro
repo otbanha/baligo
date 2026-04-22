@@ -164,7 +164,7 @@ export const prerender = true;
       var data = res.ok ? await res.json() : [];
       // Filter out test/non-real articles
       allArticles = data.filter(function(a) {
-        return a.id && a.id.match(/^\d{4}-\d{2}-\d{2}-/) && a.title;
+        return a.id && a.title;
       });
     } catch (e) { allArticles = []; }
   }
