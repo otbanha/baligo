@@ -42,7 +42,7 @@ collections:
         name: category
         widget: select
         multiple: true
-        required: false
+        required: true
         options:
           - 新手指南
           - 住宿推薦
