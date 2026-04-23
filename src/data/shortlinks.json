@@ -1,9 +1,63 @@
 [
   {
     "id": "new-to-bali",
-    "url": "https://gobaligo.id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97",
+    "url": "https://gobaligo.id/blog?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97",
     "title": "峇里島新手指南 — Go Bali Go",
     "description": "第一次去峇里島？從簽證、交通、住宿到必玩景點，新手必看完整攻略。"
+  },
+  {
+    "id": "bali-transport",
+    "url": "https://gobaligo.id/blog?cat=%E5%8F%AB%E8%BB%8A%E5%8C%85%E8%BB%8A",
+    "title": "峇里島交通包車攻略 — Go Bali Go",
+    "description": "峇里島叫車、包車全攻略，費用、預約方式一次搞定。"
+  },
+  {
+    "id": "accommodations",
+    "url": "https://gobaligo.id/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6",
+    "title": "峇里島住宿推薦 — Go Bali Go",
+    "description": "精選峇里島飯店、Villa、民宿住宿推薦，各區最佳選擇。"
+  },
+  {
+    "id": "bali-areas-guide",
+    "url": "https://gobaligo.id/blog?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5",
+    "title": "峇里島分區攻略 — Go Bali Go",
+    "description": "庫塔、水明漾、烏布、努沙杜瓦等各區特色與旅遊重點一次掌握。"
+  },
+  {
+    "id": "bali-visa-entry",
+    "url": "https://gobaligo.id/blog?cat=%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C",
+    "title": "峇里島簽證通關攻略 — Go Bali Go",
+    "description": "峇里島簽證申請、入境流程、海關規定完整說明。"
+  },
+  {
+    "id": "family-guide",
+    "url": "https://gobaligo.id/blog?cat=%E5%AE%B6%E5%BA%AD%E8%A6%AA%E5%AD%90",
+    "title": "峇里島家庭親子旅遊 — Go Bali Go",
+    "description": "帶孩子去峇里島的親子旅遊攻略，景點、住宿、注意事項全整理。"
+  },
+  {
+    "id": "sim-internet",
+    "url": "https://gobaligo.id/blog/2024-03-21-65f916bbfd89780001b916e0/",
+    "title": "峇里島 SIM 卡與網路攻略 — Go Bali Go",
+    "description": "峇里島上網攻略：SIM 卡購買、eSIM 推薦、網路速度比較。"
+  },
+  {
+    "id": "bali-money-guide",
+    "url": "https://gobaligo.id/blog/2024-01-28-65b5c7e2fd89780001e96fac/",
+    "title": "峇里島換匯懶人包 — Go Bali Go",
+    "description": "峇里島換匯攻略：哪裡換最划算？印尼盾兌換教學、避免被坑指南。"
+  },
+  {
+    "id": "spa",
+    "url": "https://gobaligo.id/blog/2023-01-22-64db6b7efd897800013a97ed/",
+    "title": "峇里島優質 SPA 推薦 — Go Bali Go",
+    "description": "精選峇里島最值得體驗的 SPA 按摩，放鬆身心的最佳選擇。"
+  },
+  {
+    "id": "bali-activities",
+    "url": "https://gobaligo.id/blog/2025-04-02-67ecf440fd897800012cb31b/",
+    "title": "峇里島戶外活動攻略 — Go Bali Go",
+    "description": "峇里島最熱門戶外活動整理：衝浪、浮潛、ATV、白水漂流等完整推薦。"
   },
   {
     "id": "iSuite-by-Ekosistem",
