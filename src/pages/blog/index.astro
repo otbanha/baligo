@@ -168,12 +168,13 @@ const socialLinks = [
   <!-- 瀏覽器語言自動偵測：只在同一 session 的第一次進入時生效，?lang=tw 可強制停留 -->
   <script is:inline>
     (function() {
-      // ?lang=tw：使用者主動選擇繁體中文，只移除 lang param（保留 cat 等其他參數）
+      // ?lang=tw：使用者主動選擇繁體中文，寫入 cookie、移除 lang param
       if (new URLSearchParams(location.search).has('lang')) {
         var p = new URLSearchParams(location.search);
         p.delete('lang');
         var qs = p.toString();
         history.replaceState(null, '', location.pathname + (qs ? '?' + qs : ''));
+        document.cookie = 'gobaligo_lang=zh-tw; path=/; max-age=' + (60*60*24*365) + '; SameSite=Lax';
         sessionStorage.setItem('gobaligo_lang_checked', '1');
         return;
       }
@@ -195,15 +196,17 @@ const socialLinks = [
       var langs = Array.from(navigator.languages || [navigator.language || '']).map(function(l){ return l.toLowerCase(); });
       function matchAny(fn) { return langs.some(fn); }
 
-      // 任何 zh-tw / zh-hant 變體 → 留在繁體中文（不做跳轉）
-      if (matchAny(function(l){ return l === 'zh-tw' || l === 'zh-hant' || l.startsWith('zh-hant-'); })) return;
+      // 繁體中文系列（含 zh-HK：許多 Android 手機回報 zh-HK 而非 zh-TW）→ 留在繁中
+      if (matchAny(function(l){
+        return l === 'zh-tw' || l === 'zh-hk' || l === 'zh-mo' ||
+               l === 'zh-hant' || l.startsWith('zh-hant-');
+      })) return;
 
-      // 其他語系：取第一個語言決定跳轉目標
+      // 其他語系：只在確認是簡中或英文時才自動跳轉
       var nav = langs[0] || '';
       var dest = null;
       if (nav.startsWith('en')) dest = '/en/blog/';
       else if (nav === 'zh-cn' || nav === 'zh-hans' || nav === 'zh-sg' || nav === 'zh-my') dest = '/zh-cn/blog/';
-      else if (nav === 'zh-hk' || nav === 'zh-mo') dest = '/zh-hk/blog/';
       if (dest) window.location.replace(dest + qs);
     })();
   </script>
