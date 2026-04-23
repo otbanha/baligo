@@ -630,18 +630,43 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
   <div class="spot-pop-body">
     <span id="spot-pop-tag"></span>
     <div id="spot-pop-title"></div>
-    <a id="spot-pop-link" href="#" target="_blank" rel="noopener noreferrer">了解更多 ↗</a>
+    <a id="spot-pop-link" href="#" target="_blank" rel="noopener noreferrer"></a>
   </div>
 </div>
 
 <script define:vars={{ lang }}>
 // ── Client-side i18n for buttons ─────────────────────────────────────
 const clientT = {
-  'zh-tw': { btnRestore: '↩️ 載入上次旅程', btnExportCopied: '✅ 已複製！' },
-  'zh-hk': { btnRestore: '↩️ 載入上次旅程', btnExportCopied: '✅ 已複製！' },
-  'zh-cn': { btnRestore: '↩️ 载入上次旅程', btnExportCopied: '✅ 已复制！' },
-  'en': { btnRestore: '↩️ Load Last Trip', btnExportCopied: '✅ Copied!' },
-}[lang] || { btnRestore: '↩️ Load Last Trip', btnExportCopied: '✅ Copied!' };
+  'zh-tw': { btnRestore: '↩️ 載入上次旅程', btnExportCopied: '✅ 已複製！', spotLearnMore: '了解更多 ↗' },
+  'zh-hk': { btnRestore: '↩️ 載入上次旅程', btnExportCopied: '✅ 已複製！', spotLearnMore: '了解更多 ↗' },
+  'zh-cn': { btnRestore: '↩️ 载入上次旅程', btnExportCopied: '✅ 已复制！', spotLearnMore: '了解更多 ↗' },
+  'en': { btnRestore: '↩️ Load Last Trip', btnExportCopied: '✅ Copied!', spotLearnMore: 'Learn More ↗' },
+}[lang] || { btnRestore: '↩️ Load Last Trip', btnExportCopied: '✅ Copied!', spotLearnMore: 'Learn More ↗' };
+
+// ── Spot tag translation for zh-cn / en ──────────────────────────────
+const SPOT_TAG_MAP = lang === 'en' ? {
+  '文化': 'Culture', '市場': 'Market', '寺廟': 'Temple', '自然': 'Nature',
+  '景觀': 'Scenery', '打卡': 'Photo Spot', '咖啡': 'Coffee', '動物園': 'Zoo',
+  '瀑布': 'Waterfall', '網美': 'Instagram', '泳池': 'Pool', '探險': 'Adventure',
+  '靈修': 'Wellness', '娛樂': 'Fun', '美食': 'Food', 'SPA': 'Spa',
+  '村落': 'Village', '漂流': 'Rafting', '衝浪': 'Surf', '水上樂園': 'Water Park',
+  '購物': 'Shopping', '海龜': 'Turtles', '夜遊': 'Nightlife', '一日遊': 'Day Tour',
+  '夜生活': 'Nightlife', '景點': 'Attraction', '餐廳': 'Restaurant', '活動': 'Activity',
+  '藝術': 'Arts', '火舞': 'Fire Dance', '騎行': 'Cycling', '秘境': 'Hidden Gem',
+  '滑翔翼': 'Paragliding', '觀光': 'Sightseeing', '吃到飽': 'Buffet', '海鮮': 'Seafood',
+  '跳島': 'Island Hop', '浮潛': 'Snorkelling', '自行車': 'Cycling', '釣魚': 'Fishing',
+  '親子': 'Family', '攀岩': 'Climbing', '泛舟': 'Rafting', 'ATV': 'ATV', '火山': 'Volcano',
+  'Rock Bar': 'Rock Bar',
+} : lang === 'zh-cn' ? {
+  '市場': '市场', '寺廟': '寺庙', '自然': '自然', '景觀': '景观', '打卡': '打卡',
+  '動物園': '动物园', '瀑布': '瀑布', '網美': '网红打卡', '泳池': '泳池', '探險': '探险',
+  '靈修': '灵修', '娛樂': '娱乐', '美食': '美食', '村落': '村落', '漂流': '漂流',
+  '衝浪': '冲浪', '水上樂園': '水上乐园', '購物': '购物', '海龜': '海龟', '夜遊': '夜游',
+  '一日遊': '一日游', '夜生活': '夜生活', '景點': '景点', '餐廳': '餐厅', '活動': '活动',
+  '藝術': '艺术', '火舞': '火舞', '騎行': '骑行', '秘境': '秘境', '滑翔翼': '滑翔翼',
+  '觀光': '观光', '吃到飽': '自助餐', '海鮮': '海鲜', '跳島': '跳岛', '浮潛': '浮潜',
+  '自行車': '自行车', '釣魚': '钓鱼', '親子': '亲子', '攀岩': '攀岩', '泛舟': '泛舟',
+} : null;
 
 // ── i18n ─────────────────────────────────────────────────────────────
 const LANG_STRINGS = {
@@ -1624,6 +1649,7 @@ const SPOT_IMAGES = {
     btn.setAttribute('aria-label', '預覽');
     btn.textContent = 'ⓘ';
     btn.dataset.spot = key;
+    btn.dataset.label = chip.textContent.trim();
     chip.appendChild(btn);
     btn.addEventListener('click', e => {
       e.stopPropagation();
@@ -1658,10 +1684,12 @@ const SPOT_IMAGES = {
     if (!info) return;
     const img = SPOT_IMAGES[key] || '';
     pop.classList.toggle('no-img', !img);
-    if (img) { popImg.src = img; popImg.alt = info.title; }
-    popTag.textContent = info.tag;
-    popTitle.textContent = info.title;
+    const displayTitle = btn.dataset.label || info.title;
+    if (img) { popImg.src = img; popImg.alt = displayTitle; }
+    popTag.textContent = (SPOT_TAG_MAP && SPOT_TAG_MAP[info.tag]) || info.tag;
+    popTitle.textContent = displayTitle;
     popLink.href = langUrl(info.url);
+    popLink.textContent = clientT.spotLearnMore;
     positionPopover(btn);
     pop.classList.add('visible');
     pop.setAttribute('aria-hidden', 'false');
