@@ -181,12 +181,15 @@ const socialLinks = [
       if (sessionStorage.getItem('gobaligo_lang_checked')) return;
       sessionStorage.setItem('gobaligo_lang_checked', '1');
 
+      // 保留當前 query string（cat、page、q 等），帶到目標語言頁面
+      var qs = location.search;
+
       // 優先尊重 cookie（使用者曾主動選擇語言）
       var cookieLang = (document.cookie.match(/(?:^|;\s*)gobaligo_lang=([^;]+)/) || [])[1];
       if (cookieLang === 'zh-tw') return;
-      if (cookieLang === 'zh-cn') { window.location.replace('/zh-cn/blog/'); return; }
-      if (cookieLang === 'zh-hk') { window.location.replace('/zh-hk/blog/'); return; }
-      if (cookieLang === 'en')    { window.location.replace('/en/blog/'); return; }
+      if (cookieLang === 'zh-cn') { window.location.replace('/zh-cn/blog/' + qs); return; }
+      if (cookieLang === 'zh-hk') { window.location.replace('/zh-hk/blog/' + qs); return; }
+      if (cookieLang === 'en')    { window.location.replace('/en/blog/' + qs); return; }
 
       // 沒有 cookie，看瀏覽器語言（檢查整個 navigator.languages 陣列）
       var langs = Array.from(navigator.languages || [navigator.language || '']).map(function(l){ return l.toLowerCase(); });
@@ -201,7 +204,7 @@ const socialLinks = [
       if (nav.startsWith('en')) dest = '/en/blog/';
       else if (nav === 'zh-cn' || nav === 'zh-hans' || nav === 'zh-sg' || nav === 'zh-my') dest = '/zh-cn/blog/';
       else if (nav === 'zh-hk' || nav === 'zh-mo') dest = '/zh-hk/blog/';
-      if (dest) window.location.replace(dest);
+      if (dest) window.location.replace(dest + qs);
     })();
   </script>
   <script type="application/ld+json" set:html={JSON.stringify({
