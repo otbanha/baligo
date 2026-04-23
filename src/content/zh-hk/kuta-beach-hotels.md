@@ -29,7 +29,7 @@ tags:
   - 峇里島自由行
   - 巴厘岛自由行
   - BaliTravelTips
-heroImage: 'https://images.gobaligo.id/images/2026-04/1776817530430-index.jpg'
+heroImage: 'https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png'
 originalUrl: ''
 private: false
 shuffle_h2: true
@@ -47,6 +47,17 @@ _srcHash: 71b230930844c3fc98cd15c3d7dad93a
 <!-- shuffle-start -->
 
 ## Sheraton Bali Kuta Resort ⭐⭐⭐⭐⭐
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776787717774-44dd2bdf752e5b0f5c5a522e31478510.webp)
+![raw-image](https://images.gobaligo.id/images/2026-04/1776787718985-8428bcdabf28e18884c3980ec2213ee9.jpeg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1776787719727-486613751.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1776787720353-551528029.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1776787721377-612979436.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1776787722010-612979450.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1776787722494-f3e2c2bf3ede5e459cd029b6269881b2.webp)
+![raw-image](https://images.gobaligo.id/images/2026-04/1776787723422-0ce2004d51e47077c2b420225475539a.jpeg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1776787723966-4cbbe192205a47af48d92e49c4fed467.jpeg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1776787724838-9b6a2f82b542f5eef6a9fa09b9fc3a7a.jpeg)
 
 __VID0__
 __VID1__
@@ -72,7 +83,6 @@ Marriott 旗下五星品牌「喜來登」，直對庫塔海灘，同 Beachwalk 
 > Agoda 2024 旅行者精選，評價8.8⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502)
 
 ---
-
 ## Hard Rock Hotel Bali ⭐⭐⭐⭐
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776787795087-175322400.jpg)
