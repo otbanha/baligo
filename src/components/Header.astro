@@ -21,6 +21,14 @@ const searchPlaceholder = lang === 'en'    ? '🔍 Search articles...' :
 const closeLabel = lang === 'en' ? 'Close search' : '關閉搜尋';
 const searchLabel = lang === 'en' ? 'Search' : '搜尋';
 const inputPlaceholder = lang === 'en' ? 'Search 600+ Bali travel articles...' : '搜尋 600+ 篇峇里島旅遊文章...';
+
+const logoSubtitle = lang === 'en'    ? 'Smart Bali Guide' :
+                     lang === 'zh-cn' ? '巴厘岛旅游攻略' :
+                                        '峇里島旅遊攻略';
+
+const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
+                 lang === 'zh-cn' ? 'Go Bali Go 巴厘岛旅游攻略' :
+                                    SITE_TITLE;
 ---
 
 <ScrollReveal />
@@ -29,7 +37,11 @@ const inputPlaceholder = lang === 'en' ? 'Search 600+ Bali travel articles...' :
     <div class="brand">
       <a href={homeUrl}>
         <img src="/favicon-32x32.png" alt="logo" class="logo-icon" />
-        <span class="logo-text">{SITE_TITLE}</span>
+        <span class="logo-text">
+          <span class="logo-desktop">{logoFull}</span>
+          <span class="logo-line1">Go Bali Go</span>
+          <span class="logo-line2">{logoSubtitle}</span>
+        </span>
       </a>
     </div>
 
@@ -160,7 +172,12 @@ nav {
   font-weight: 700;
   color: var(--gold-light);
   letter-spacing: 0.02em;
+  display: block;
 }
+
+.logo-desktop { display: inline; }
+.logo-line1 { display: none; }
+.logo-line2 { display: none; }
 
 .search-right {
   width: 360px;
@@ -303,15 +320,16 @@ button.search-input:focus {
 }
 
 @media (max-width: 600px) {
-  .logo-text { font-size: 1em; }
-  .search-right { width: 180px; }
-  nav { padding: 0 1em; }
-  :global(.lang-switcher) { display: none !important; }
+  nav { padding: 0 0.75em; gap: 0.5em; }
+  .logo-text { font-size: 0.95em; line-height: 1.2; }
+  .logo-desktop { display: none; }
+  .logo-line1 { display: block; }
+  .logo-line2 { display: block; font-size: 0.72em; opacity: 0.85; }
+  .search-right { width: 120px; flex-shrink: 0; }
   .search-modal { padding-top: 20px; }
-}
-
-@media (max-width: 400px) {
-  .logo-text { display: none; }
-  .search-right { width: auto; flex: 1; min-width: 0; }
+  :global(.lang-switcher) { flex-shrink: 0; }
+  :global(.lang-current) { padding: 0.25em 0.45em; font-size: 0.78rem; }
+  :global(.lang-globe) { display: none; }
+  .bk-icon { font-size: 1.1em; }
 }
 </style>

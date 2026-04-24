@@ -24,6 +24,14 @@ const {
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
 
+const pathLang = Astro.url.pathname.startsWith('/en/')     ? 'en'    :
+                 Astro.url.pathname.startsWith('/zh-cn/')  ? 'zh-cn' :
+                 Astro.url.pathname.startsWith('/zh-hk/')  ? 'zh-hk' : 'zh-tw';
+
+const siteName = pathLang === 'en'    ? 'Go Bali Go — Smart Bali Guide' :
+                 pathLang === 'zh-cn' ? 'Go Bali Go 巴厘岛旅游攻略' :
+                 SITE_TITLE;
+
 // Article pages get "標題 | Go Bali Go" format; index pages already have the brand name
 const title = noSuffix ? rawTitle : (rawTitle.includes('Go Bali Go') ? rawTitle : `${rawTitle} | Go Bali Go`);
 
@@ -43,7 +51,7 @@ const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png" />
 <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
 <link rel="sitemap" href="/sitemap-index.xml" />
-<link rel="alternate" type="application/rss+xml" title={SITE_TITLE} href={new URL('rss.xml', Astro.site)} />
+<link rel="alternate" type="application/rss+xml" title={siteName} href={new URL('rss.xml', Astro.site)} />
 <meta name="generator" content={Astro.generator} />
 
 <!-- Preconnect to image CDN (R2) to reduce first-image latency -->
@@ -64,7 +72,7 @@ const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
 
 <!-- Open Graph -->
 <meta property="fb:app_id" content="1994862997907037" />
-<meta property="og:site_name" content={SITE_TITLE} />
+<meta property="og:site_name" content={siteName} />
 <meta property="og:type" content={type} />
 <meta property="og:url" content={canonicalURL} />
 <meta property="og:title" content={ogTitle} />
