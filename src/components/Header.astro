@@ -170,8 +170,8 @@ nav {
   display: block;
 }
 
-.logo-line1 { display: block; }
-.logo-line2 { display: none; }
+.logo-line1 { display: inline; }
+.logo-line2 { display: inline; }
 
 .search-right {
   width: 360px;
@@ -316,6 +316,7 @@ button.search-input:focus {
 @media (max-width: 600px) {
   nav { padding: 0 0.75em; gap: 0.5em; }
   .logo-text { font-size: 0.95em; line-height: 1.2; }
+  .logo-line1 { display: block; }
   .logo-line2 { display: block; font-size: 0.72em; opacity: 0.85; }
   .search-right { width: 120px; flex-shrink: 0; }
   .search-modal { padding-top: 20px; }
