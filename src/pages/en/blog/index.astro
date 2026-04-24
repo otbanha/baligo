@@ -310,7 +310,7 @@ const socialLinks = [
   <Footer lang="en" />
 </body>
 
-<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts, blogBase }}>
+<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts, blogBase, CAT_EN }}>
   window.addEventListener('DOMContentLoaded', () => {
     const sidebarToggle = document.getElementById('sidebar-toggle');
     const sidebarInner = document.getElementById('sidebar-inner');
@@ -374,7 +374,7 @@ const socialLinks = [
       const catHeadingText = document.getElementById('cat-heading-text');
       if (catHeading && catHeadingText) {
         if (cat === 'all') { catHeading.style.display = 'none'; }
-        else { catHeadingText.textContent = cat; catHeading.style.display = 'block'; }
+        else { catHeadingText.textContent = CAT_EN[cat] ?? cat; catHeading.style.display = 'block'; }
       }
       const source = dynamicFeatured || featuredData;
       const ids = source[cat] || [];
