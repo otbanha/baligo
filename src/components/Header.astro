@@ -310,21 +310,13 @@ button.search-input:focus {
 }
 
 @media (max-width: 600px) {
-  header { height: auto; }
-  nav {
-    flex-wrap: wrap;
-    height: auto;
-    padding: 0.45em 1em;
-    gap: 0.4em;
-  }
-  .brand { width: 100%; }
-  .brand a { gap: 0.4em; }
-  .logo-text { font-size: 1em; line-height: 1.2; }
+  nav { padding: 0 0.75em; gap: 0.5em; }
+  .logo-text { font-size: 0.95em; line-height: 1.2; }
   .logo-line2 { display: block; font-size: 0.72em; opacity: 0.85; }
-  .search-right { flex: 1; min-width: 0; width: auto; }
+  .search-right { width: 120px; flex-shrink: 0; }
   .search-modal { padding-top: 20px; }
   :global(.lang-switcher) { flex-shrink: 0; }
-  :global(.lang-current) { padding: 0.3em 0.5em; font-size: 0.8rem; }
+  :global(.lang-current) { padding: 0.25em 0.45em; font-size: 0.78rem; }
   :global(.lang-globe) { display: none; }
   .bk-icon { font-size: 1.1em; }
 }
