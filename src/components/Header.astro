@@ -304,14 +304,16 @@ button.search-input:focus {
 
 @media (max-width: 600px) {
   .logo-text { font-size: 1em; }
-  .search-right { width: 180px; }
-  nav { padding: 0 1em; }
-  :global(.lang-switcher) { display: none !important; }
+  .search-right { width: 130px; }
+  nav { padding: 0 0.75em; gap: 0.6em; }
   .search-modal { padding-top: 20px; }
+  :global(.lang-switcher) { flex-shrink: 0; }
+  :global(.lang-current) { padding: 0.3em 0.45em; font-size: 0.78rem; }
+  :global(.lang-globe) { display: none; }
 }
 
 @media (max-width: 400px) {
   .logo-text { display: none; }
-  .search-right { width: auto; flex: 1; min-width: 0; }
+  .search-right { width: 100px; }
 }
 </style>
