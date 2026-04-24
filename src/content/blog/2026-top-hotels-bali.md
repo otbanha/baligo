@@ -61,14 +61,23 @@ embeds: []
 客房全部都是「套房」規格起跳——最基本的 Tropical Suite 也有 83 平方公尺，獨立浴缸、雨淋浴、私人陽台一樣不少。最高等級的 Presidential Suite 則達到 209 平方公尺，進去大概要走一下子才能找到廁所在哪。設計上融入了大量印尼本地木材和傳統峇里島工藝，不是那種冰冷的現代豪華，而是有溫度的精緻感。
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776477261153-537982534.jpg)
+
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776477261595-537983614.jpg)
+
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776477262414-575293685.jpg)
+
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776477262854-537982447.jpg)
+
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776477263396-2ce8751393783e79ec077dd2adf4dc61.webp)
+
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776477263994-8b8afa9c27b4d95ba8efe416dfe60ec5.webp)
+
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776477264527-0267ab8bb759f1442ea29ba0efff2808.webp)
+
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776477265019-549267171.jpg)
+
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776477265525-2024-07-02.webp)
+
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776477265942-a654724c299c2c110131e3bcb1612476.webp)
 
 餐飲方面，主餐廳 Arunika 提供自助早餐，每天早上 6:30 開始。另外聽說週日 Brunch 的陣勢非常嚇人，烤羊、烤豬、活烤明蝦、生魚片還有甜點站，等級完全不輸峇里島老牌飯店的特色餐。水療 Taru Pramana 則走療癒系路線，強調身心靈平衡，不只是一般的 massage 服務。
