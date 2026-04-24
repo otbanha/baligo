@@ -21,6 +21,10 @@ const searchPlaceholder = lang === 'en'    ? '🔍 Search articles...' :
 const closeLabel = lang === 'en' ? 'Close search' : '關閉搜尋';
 const searchLabel = lang === 'en' ? 'Search' : '搜尋';
 const inputPlaceholder = lang === 'en' ? 'Search 600+ Bali travel articles...' : '搜尋 600+ 篇峇里島旅遊文章...';
+
+const logoSubtitle = lang === 'en'    ? 'Smart Bali Guide' :
+                     lang === 'zh-cn' ? '峇里岛旅游攻略' :
+                                        '峇里島旅遊攻略';
 ---
 
 <ScrollReveal />
@@ -31,7 +35,7 @@ const inputPlaceholder = lang === 'en' ? 'Search 600+ Bali travel articles...' :
         <img src="/favicon-32x32.png" alt="logo" class="logo-icon" />
         <span class="logo-text">
           <span class="logo-line1">Go Bali Go</span>
-          <span class="logo-line2">峇里島旅遊攻略</span>
+          <span class="logo-line2">{logoSubtitle}</span>
         </span>
       </a>
     </div>
