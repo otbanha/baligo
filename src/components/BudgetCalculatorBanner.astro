@@ -1,0 +1,87 @@
+---
+interface Props { lang?: 'zh-tw' | 'zh-cn' | 'zh-hk' | 'en'; }
+const { lang = 'zh-tw' } = Astro.props;
+
+const url = '/bali-budget-calculator/';
+
+const t = {
+  'zh-tw': { title: '💰 峇里島預算計算器', desc: '輸入天數、人數與旅遊方式，立即估算每人峇里島旅費', btn: '前往計算器 →' },
+  'zh-hk': { title: '💰 峇里島預算計算器', desc: '輸入天數、人數與旅遊方式，即時估算每人峇里島旅費', btn: '前往計算器 →' },
+  'zh-cn': { title: '💰 巴厘岛预算计算器', desc: '输入天数、人数与旅游方式，立即估算每人巴厘岛旅费', btn: '前往计算器 →' },
+  'en':    { title: '💰 Bali Budget Calculator', desc: 'Enter trip length, group size and travel style — get an instant per-person cost estimate', btn: 'Open Calculator →' },
+}[lang];
+---
+
+<div class="bc-banner">
+  <div class="bc-banner-inner">
+    <div class="bc-banner-text">
+      <div class="bc-title-row">
+        <h2 class="bc-banner-title">{t.title}</h2>
+        <span class="bc-coming-soon">Coming soon</span>
+      </div>
+      <p class="bc-banner-desc">{t.desc}</p>
+    </div>
+    <a href={url} class="bc-banner-btn">{t.btn}</a>
+  </div>
+</div>
+
+<style>
+.bc-banner {
+  background: linear-gradient(135deg, #1a4a2e 0%, #2d7a4f 100%);
+  border-radius: 14px;
+  padding: 1.35rem 1.6rem;
+  margin-bottom: 1.5em;
+  box-shadow: 0 4px 20px rgba(26, 74, 46, 0.22);
+}
+.bc-banner-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+}
+.bc-banner-text { flex: 1; min-width: 180px; }
+.bc-title-row {
+  display: flex;
+  align-items: center;
+  gap: 0.6em;
+  flex-wrap: wrap;
+  margin-bottom: 0.3em;
+}
+.bc-banner-title {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #fff;
+  margin: 0;
+}
+.bc-coming-soon {
+  display: inline-block;
+  background: rgba(255, 255, 255, 0.18);
+  color: #ffe8a0;
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.15em 0.7em;
+  border-radius: 99px;
+  border: 1px solid rgba(255, 232, 160, 0.4);
+  letter-spacing: 0.05em;
+  white-space: nowrap;
+}
+.bc-banner-desc { font-size: 0.86rem; color: rgba(255,255,255,0.82); margin: 0; }
+.bc-banner-btn {
+  display: inline-block;
+  background: #ffe8a0;
+  color: #1a4a2e;
+  font-weight: 800;
+  font-size: 0.9rem;
+  padding: 0.65em 1.5em;
+  border-radius: 99px;
+  text-decoration: none;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: background 0.15s, transform 0.1s;
+}
+.bc-banner-btn:hover { background: #fff; transform: translateY(-1px); }
+@media (max-width: 600px) {
+  .bc-banner-inner { flex-direction: column; align-items: flex-start; }
+}
+</style>
