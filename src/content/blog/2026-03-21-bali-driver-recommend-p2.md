@@ -55,7 +55,7 @@ embeds: []
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787696068-new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/Cvqq2n427oB9oHeh/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/FF2GnBbXJwGgfHUu/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/UTmwgoSFWbk5Du5F/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/15dZEeu1fd/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1CBA9FJQmj/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1Cgc9bvyut/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1BP23fTwFA/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/14XuPRuYQ8r/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1Gg1tfgYQr/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1CGp9yXvui/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/Cvqq2n427oB9oHeh/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/FF2GnBbXJwGgfHUu/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/UTmwgoSFWbk5Du5F/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/15dZEeu1fd/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1CBA9FJQmj/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1Cgc9bvyut/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1BP23fTwFA/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/14XuPRuYQ8r/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1Gg1tfgYQr/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1CGp9yXvui/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/1AK18NcVBd/)
 
 ## Gede Ari
 
