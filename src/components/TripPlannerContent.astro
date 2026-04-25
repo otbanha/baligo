@@ -31,12 +31,8 @@ const T = {
     btnNext1: '下一步：填寫行程草稿 →', btnBack: '← 上一步',
     btnNext2: '查看推薦攻略 →', btnRestart: '重新規劃 ↺',
     btnShare: '📄 存成 PDF 分享旅伴',
-    btnWechat: '微信分享',
     btnEdit: '編輯此行程',
-    btnExport: '🔗 複製旅程連結',
     btnRestore: '↩️ 載入上次旅程',
-    wechatTitle: '用微信掃描二維碼分享',
-    wechatClose: '關閉',
     s3title: '你的個人化推薦',
     secMustRead: '📚 規劃前必讀', secGlobal: '🌏 全島必看',
     tagNewbie: '新手指南', tagQA: '新手Q&A', tagRoute: '行程參考',
@@ -106,12 +102,8 @@ const T = {
     btnNext1: '下一步：填寫行程草稿 →', btnBack: '← 上一步',
     btnNext2: '睇推薦攻略 →', btnRestart: '重新規劃 ↺',
     btnShare: '📄 存成 PDF 分享旅伴',
-    btnWechat: '微信分享',
     btnEdit: '編輯此行程',
-    btnExport: '🔗 複製旅程連結',
     btnRestore: '↩️ 載入上次旅程',
-    wechatTitle: '用微信掃描二維碼分享',
-    wechatClose: '關閉',
     s3title: '你的個人化推薦',
     secMustRead: '📚 出發前必讀', secGlobal: '🌏 全島必看',
     tagNewbie: '新手指南', tagQA: '新手Q&A', tagRoute: '行程參考',
@@ -181,12 +173,8 @@ const T = {
     btnNext1: '下一步：填写行程草稿 →', btnBack: '← 上一步',
     btnNext2: '查看推荐攻略 →', btnRestart: '重新规划 ↺',
     btnShare: '📄 存成 PDF 分享旅伴',
-    btnWechat: '微信分享',
     btnEdit: '编辑此行程',
-    btnExport: '🔗 复制旅程链接',
     btnRestore: '↩️ 载入上次旅程',
-    wechatTitle: '用微信扫描二维码分享',
-    wechatClose: '关闭',
     s3title: '你的个性化推荐',
     secMustRead: '📚 规划前必读', secGlobal: '🌏 全岛必看',
     tagNewbie: '新手指南', tagQA: '新手Q&A', tagRoute: '行程参考',
@@ -256,12 +244,8 @@ const T = {
     btnNext1: 'Next: Draft Itinerary →', btnBack: '← Back',
     btnNext2: 'See Recommendations →', btnRestart: 'Start Over ↺',
     btnShare: '📄 Save as PDF',
-    btnWechat: 'Share via WeChat',
     btnEdit: 'Edit This Plan',
-    btnExport: '🔗 Copy Trip Link',
     btnRestore: '↩️ Load Last Trip',
-    wechatTitle: 'Scan QR code with WeChat to share',
-    wechatClose: 'Close',
     s3title: 'Your Personalised Picks',
     secMustRead: '📚 Must-Read Before You Go', secGlobal: '🌏 Island-Wide Essentials',
     tagNewbie: 'Beginner Guide', tagQA: 'FAQ', tagRoute: 'Itinerary Reference',
@@ -598,22 +582,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
 
       <div class="share-wrap">
         <button class="btn-share" id="btn-share">{T.btnShare}</button>
-        <button class="btn-wechat" id="btn-wechat">{T.btnWechat}</button>
         <button class="btn-edit" id="btn-edit">{T.btnEdit}</button>
-        <button class="btn-export" id="btn-export">{T.btnExport}</button>
-      </div>
-
-      <!-- WeChat QR Modal -->
-      <div class="wechat-modal hidden" id="wechat-modal">
-        <div class="wechat-modal-content">
-          <div class="wechat-modal-header">
-            <h3>{T.wechatTitle}</h3>
-            <button class="wechat-modal-close" id="wechat-modal-close">&times;</button>
-          </div>
-          <div class="wechat-qr-container">
-            <img id="wechat-qr" src="" alt="WeChat QR Code" class="wechat-qr" />
-          </div>
-        </div>
       </div>
 
       <div class="restart-wrap">
@@ -1311,39 +1280,9 @@ document.getElementById('btn-share').addEventListener('click', () => {
   window.print();
 });
 
-document.getElementById('btn-wechat').addEventListener('click', () => {
-  const shareUrl = buildTripUrl();
-  const qrUrl = `https://api.qrserver.com/v1/create-qr-code/?size=300x300&data=${encodeURIComponent(shareUrl)}`;
-
-  document.getElementById('wechat-qr').src = qrUrl;
-  document.getElementById('wechat-modal').classList.remove('hidden');
-});
-
-document.getElementById('wechat-modal-close').addEventListener('click', () => {
-  document.getElementById('wechat-modal').classList.add('hidden');
-});
-
-document.getElementById('wechat-modal').addEventListener('click', (e) => {
-  if (e.target === document.getElementById('wechat-modal')) {
-    document.getElementById('wechat-modal').classList.add('hidden');
-  }
-});
-
 document.getElementById('btn-edit').addEventListener('click', () => {
   showStep(1);
   window.scrollTo({ top: 0, behavior: 'smooth' });
-});
-
-document.getElementById('btn-export').addEventListener('click', () => {
-  const url = buildTripUrl();
-  const btn = document.getElementById('btn-export');
-  const original = btn.textContent;
-  navigator.clipboard.writeText(url).then(() => {
-    btn.textContent = clientT.btnExportCopied;
-    setTimeout(() => { btn.textContent = original; }, 2000);
-  }).catch(() => {
-    prompt('複製旅程連結：', url);
-  });
 });
 
 // (import button removed)
@@ -2053,19 +1992,6 @@ function buildResults() {
   box-shadow: 0 6px 16px rgba(26, 54, 93, 0.3);
 }
 
-.btn-wechat {
-  padding: 0.8em 2em; background: #09b83e; color: white;
-  border: none; border-radius: 12px; font-weight: 700;
-  font-size: 1rem; cursor: pointer; font-family: inherit;
-  transition: background 0.2s, transform 0.15s, box-shadow 0.2s;
-  box-shadow: 0 4px 12px rgba(9, 184, 62, 0.2);
-}
-.btn-wechat:hover {
-  background: #078c33;
-  transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(9, 184, 62, 0.3);
-}
-
 .btn-edit {
   padding: 0.8em 2em; background: var(--gold); color: var(--ocean);
   border: none; border-radius: 12px; font-weight: 700;
@@ -2079,20 +2005,6 @@ function buildResults() {
   box-shadow: 0 6px 16px rgba(197, 160, 89, 0.3);
 }
 
-.btn-export {
-  padding: 0.8em 2em; background: var(--ocean); color: white;
-  border: none; border-radius: 12px; font-weight: 700;
-  font-size: 1rem; cursor: pointer; font-family: inherit;
-  transition: background 0.2s, color 0.2s, transform 0.15s, box-shadow 0.2s;
-  box-shadow: 0 4px 12px rgba(0, 102, 153, 0.2);
-}
-.btn-export:hover {
-  background: #005a99;
-  transform: translateY(-2px);
-  box-shadow: 0 6px 16px rgba(0, 102, 153, 0.3);
-}
-
-
 .btn-restore {
   padding: 0.8em 2em; background: #5ab1e0; color: white;
   border: none; border-radius: 12px; font-weight: 700;
@@ -2104,45 +2016,6 @@ function buildResults() {
   background: #3a95d4;
   transform: translateY(-2px);
   box-shadow: 0 6px 16px rgba(90, 177, 224, 0.3);
-}
-
-.wechat-modal {
-  position: fixed; top: 0; left: 0; right: 0; bottom: 0;
-  background: rgba(0, 0, 0, 0.6); display: flex;
-  align-items: center; justify-content: center;
-  z-index: 1000; padding: 1rem;
-}
-.wechat-modal.hidden { display: none; }
-
-.wechat-modal-content {
-  background: white; border-radius: 16px;
-  padding: 1.5rem; max-width: 400px; width: 100%;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.15);
-}
-
-.wechat-modal-header {
-  display: flex; justify-content: space-between;
-  align-items: center; margin-bottom: 1.5rem;
-}
-
-.wechat-modal-header h3 {
-  margin: 0; font-size: 1.1rem; color: var(--ocean);
-}
-
-.wechat-modal-close {
-  background: none; border: none; font-size: 1.8rem;
-  cursor: pointer; color: #ccc; padding: 0; width: 32px; height: 32px;
-  display: flex; align-items: center; justify-content: center;
-  transition: color 0.2s;
-}
-.wechat-modal-close:hover { color: var(--ocean); }
-
-.wechat-qr-container {
-  text-align: center;
-}
-
-.wechat-qr {
-  max-width: 100%; height: auto; border-radius: 8px;
 }
 
 .results-header { margin-bottom: 1.5rem; }
@@ -2385,7 +2258,7 @@ function buildResults() {
   :global(header), :global(nav), :global(footer) { display: none !important; }
   .snav-wrap { display: none !important; }
   .share-wrap, .restart-wrap { display: none !important; }
-  #spot-popover, .wechat-modal, .map-lightbox { display: none !important; }
+  #spot-popover, .map-lightbox { display: none !important; }
   #step-1, #step-2 { display: none !important; }
   #step-3 { display: block !important; }
 
