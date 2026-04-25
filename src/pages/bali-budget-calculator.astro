@@ -559,11 +559,11 @@ function bbcPDF() {
   }).join('');
   const recHTML=bbcLastRecs.map(r=>`<div style="margin:5px 0;"><a href="${r.url}" style="color:#C5A059;text-decoration:none;font-size:13px;">${r.name}</a></div>`).join('');
 
-  const footerHTML=`<a href="https://gobaligo.id" style="display:flex;align-items:center;gap:10px;text-decoration:none;">
-    <img src="https://gobaligo.id/favicon.ico" width="20" height="20" style="border-radius:4px;flex-shrink:0;" />
+  const footerHTML=`<a href="https://gobaligo.id" style="display:flex;align-items:center;gap:14px;text-decoration:none;">
+    <img src="https://gobaligo.id/favicon-32x32.png" width="36" height="36" style="border-radius:6px;flex-shrink:0;" />
     <div>
-      <div style="font-size:13px;font-weight:700;color:#C5A059;letter-spacing:0.02em;">峇里島旅遊攻略</div>
-      <div style="font-size:11px;color:rgba(197,160,89,0.7);margin-top:1px;">gobaligo.id</div>
+      <div style="font-size:17px;font-weight:700;color:#C5A059;letter-spacing:0.02em;">峇里島旅遊攻略</div>
+      <div style="font-size:13px;color:rgba(197,160,89,0.75);margin-top:3px;">gobaligo.id</div>
     </div>
   </a>`;
 
@@ -577,7 +577,7 @@ function bbcPDF() {
     body {
       font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
       color: #222;
-      padding-bottom: 80px;
+      padding-bottom: 100px;
     }
     .page-body {
       max-width: 580px;
@@ -591,16 +591,18 @@ function bbcPDF() {
       left: 0;
       right: 0;
       background: #1A365D;
-      padding: 12px 28px;
+      padding: 16px 32px;
       display: flex;
       align-items: center;
       justify-content: space-between;
       z-index: 999;
+      min-height: 72px;
     }
     .pdf-footer-note {
-      font-size: 11px;
-      color: rgba(197,160,89,0.6);
-      line-height: 1.5;
+      font-size: 13px;
+      color: rgba(197,160,89,0.7);
+      line-height: 1.7;
+      text-align: right;
     }
     @media print {
       .pdf-footer {
@@ -611,15 +613,16 @@ function bbcPDF() {
         -webkit-print-color-adjust: exact;
         print-color-adjust: exact;
       }
-      body { padding-bottom: 72px; }
+      body { padding-bottom: 100px; }
     }
   </style>
 </head>
 <body>
 
   <div class="page-body">
-    <h1 style="font-size:20px;font-weight:600;margin:0 0 4px;color:#1A365D;">峇里島旅費預算估算</h1>
-    <div style="font-size:12px;color:#888;margin-bottom:20px;">${days} 天・${ppl} 人・每人預估</div>
+    <h1 style="font-size:20px;font-weight:600;margin:0 0 6px;color:#1A365D;">峇里島旅費預算估算</h1>
+    <div style="font-size:12px;color:#999;margin-bottom:6px;">此預算表未包含機票及住宿</div>
+    <div style="font-size:12px;color:#888;margin-bottom:20px;">${days} 天・${ppl} 人・一個人需準備的估算美金</div>
     <div style="font-size:38px;font-weight:700;color:#1A365D;margin-bottom:6px;">${total} <span style="font-size:18px;font-weight:500;color:#888;">USD</span></div>
     <div style="font-size:11px;color:#aaa;margin-bottom:24px;">粗估金額，實際費用依個人消費習慣而異</div>
 
