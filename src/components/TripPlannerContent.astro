@@ -591,6 +591,18 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
 
     </div>
   </div>
+
+  <!-- PDF fixed footer (only visible when printing) -->
+  <div class="tp-pdf-footer" id="tp-pdf-footer">
+    <a href="https://gobaligo.id" style="display:flex;align-items:center;gap:14px;text-decoration:none;">
+      <img src="https://gobaligo.id/favicon-32x32.png" width="36" height="36" style="border-radius:6px;flex-shrink:0;" />
+      <div>
+        <div style="font-size:17px;font-weight:700;color:#C5A059;letter-spacing:0.02em;">峇里島旅遊攻略</div>
+        <div style="font-size:13px;color:rgba(197,160,89,0.75);margin-top:3px;">gobaligo.id</div>
+      </div>
+    </a>
+    <div class="tp-pdf-footer-note">Go Bali Go · gobaligo.id<br>免費峇里島旅遊攻略</div>
+  </div>
 </main>
 
 <!-- Spot preview popover (singleton, positioned via JS) -->
@@ -2253,6 +2265,11 @@ function buildResults() {
 }
 #spot-pop-link:hover { background: var(--ocean, #1a365d); color: #fff; }
 
+/* PDF footer — hidden on screen, shown when printing */
+.tp-pdf-footer {
+  display: none;
+}
+
 @media print {
   /* Hide everything except Step 3 results */
   :global(header), :global(nav), :global(footer) { display: none !important; }
@@ -2263,7 +2280,7 @@ function buildResults() {
   #step-3 { display: block !important; }
 
   /* Remove decorative backgrounds for cleaner print */
-  :global(body) { background: #fff !important; }
+  :global(body) { background: #fff !important; padding-bottom: 80px !important; }
   .wizard-wrap { box-shadow: none !important; border-radius: 0 !important; padding: 0 !important; background: transparent !important; }
   .step { box-shadow: none !important; padding: 0 !important; }
 
@@ -2272,7 +2289,27 @@ function buildResults() {
   :global(.acard), :global(.alist-item) { break-inside: avoid; }
   :global(.results-section) { break-inside: avoid; }
 
+  /* PDF footer */
+  .tp-pdf-footer {
+    display: flex !important;
+    position: fixed;
+    bottom: 0; left: 0; right: 0;
+    background: #1A365D;
+    padding: 14px 28px;
+    align-items: center;
+    justify-content: space-between;
+    min-height: 68px;
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
+  .tp-pdf-footer-note {
+    font-size: 12px;
+    color: rgba(197,160,89,0.75);
+    line-height: 1.7;
+    text-align: right;
+  }
+
   /* Page setup */
-  @page { margin: 15mm 12mm; }
+  @page { margin: 15mm 12mm 25mm; }
 }
 </style>
