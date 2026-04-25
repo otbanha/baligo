@@ -6,8 +6,9 @@ import ScrollReveal from './ScrollReveal.astro';
 interface Props {
   lang?: string;
   slug?: string;
+  basePath?: string;
 }
-const { lang, slug } = Astro.props;
+const { lang, slug, basePath } = Astro.props;
 
 const homeUrl = lang === 'en' ? '/en/blog/' :
                 lang === 'zh-cn' ? '/zh-cn/blog/' :
@@ -56,7 +57,7 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
       🔖<span class="bk-badge" id="bk-badge" hidden></span>
     </a>
 
-    <LanguageSwitcher currentLang={lang ?? 'blog'} slug={slug ?? ''} />
+    <LanguageSwitcher currentLang={lang ?? 'blog'} slug={slug ?? ''} basePath={basePath} />
   </nav>
 </header>
 

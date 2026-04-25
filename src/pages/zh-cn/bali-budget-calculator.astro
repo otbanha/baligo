@@ -7,7 +7,7 @@ import Footer from '../../components/Footer.astro';
 const title = '巴厘岛旅费预算计算器 2026';
 const description = '免费巴厘岛旅费预算计算器，输入天数、人数、景点与活动，立即估算每人花费。';
 const lang = 'zh-cn';
-const slug = 'bali-budget-calculator';
+const basePath = 'bali-budget-calculator';
 ---
 
 <html lang="zh-CN">
@@ -16,7 +16,7 @@ const slug = 'bali-budget-calculator';
 </head>
 
 <body>
-  <Header lang={lang} slug={slug} />
+  <Header lang={lang} basePath={basePath} />
 
   <!-- Mobile 导航 pills（只在 ≤900px 显示，桌机隐藏） -->
   <nav class="bbc-pills-nav" aria-label="导航">

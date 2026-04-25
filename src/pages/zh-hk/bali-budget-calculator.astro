@@ -8,7 +8,7 @@ import { getCollection } from 'astro:content';
 const title = '峇里島旅費預算計算器 2026';
 const description = '免費峇里島旅費預算計算器，輸入天數、人數、景點與活動，即時估算每人花費。';
 const lang = 'zh-hk';
-const slug = 'bali-budget-calculator';
+const basePath = 'bali-budget-calculator';
 
 // 抓分類清單給 mobile pills
 const allPosts = await getCollection('blog');
@@ -23,7 +23,7 @@ const categories = [...categoryOrder.filter(c => allCats.includes(c)), ...allCat
 </head>
 
 <body>
-  <Header lang={lang} slug={slug} />
+  <Header lang={lang} basePath={basePath} />
 
   <!-- Mobile 分類 pills（只在 ≤900px 顯示，桌機隱藏） -->
   <nav class="bbc-pills-nav" aria-label="文章分類">

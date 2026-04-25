@@ -5,7 +5,7 @@ import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 
 const lang = 'en';
-const slug = 'bali-budget-calculator';
+const basePath = 'bali-budget-calculator';
 const title = 'Bali Budget Calculator 2026 – Estimate Your Trip Cost';
 const description = 'Free Bali trip budget calculator. Enter days, group size, attractions and activities to get an instant per-person cost estimate in USD.';
 ---
@@ -16,7 +16,7 @@ const description = 'Free Bali trip budget calculator. Enter days, group size, a
 </head>
 
 <body>
-  <Header lang={lang} slug={slug} />
+  <Header lang={lang} basePath={basePath} />
 
   <!-- Mobile category pills (visible only at ≤900px) -->
   <nav class="bbc-pills-nav" aria-label="Navigation">

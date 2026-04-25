@@ -2,9 +2,10 @@
 interface Props {
   currentLang?: string; // 'blog'(zh-tw) | 'zh-cn' | 'zh-hk' | 'en'
   slug?: string;        // 文章 slug，用於跨語言連結
+  basePath?: string;    // 獨立頁面路徑，如 'bali-budget-calculator'
 }
 
-const { currentLang = 'blog', slug = '' } = Astro.props;
+const { currentLang = 'blog', slug = '', basePath } = Astro.props;
 
 const LANGS = [
   { code: 'blog',  label: '繁中', title: '繁體中文（台灣）' },
@@ -13,7 +14,11 @@ const LANGS = [
   { code: 'en',    label: 'EN',   title: 'English' },
 ];
 
-function buildUrl(langCode: string, slug: string) {
+function buildUrl(langCode: string, slug: string, basePath?: string) {
+  if (basePath) {
+    // 獨立頁面（非 blog）：/basePath/ 或 /lang/basePath/
+    return langCode === 'blog' ? `/${basePath}/` : `/${langCode}/${basePath}/`;
+  }
   if (langCode === 'blog') {
     // ?lang=tw 告訴首頁腳本：這是使用者主動選擇，不要再自動偵測跳轉
     return slug ? `/blog/${slug}/` : '/blog/?lang=tw';
@@ -33,7 +38,7 @@ function buildUrl(langCode: string, slug: string) {
       <li role="option" aria-selected={lang.code === currentLang}>
         {lang.code === currentLang
           ? <span class="lang-item lang-item--active" title={lang.title}>{lang.label}</span>
-          : <a class="lang-item" href={buildUrl(lang.code, slug)} title={lang.title} hreflang={lang.code === 'blog' ? 'zh-TW' : lang.code}>
+          : <a class="lang-item" href={buildUrl(lang.code, slug, basePath)} title={lang.title} hreflang={lang.code === 'blog' ? 'zh-TW' : lang.code}>
               {lang.label}
             </a>
         }
