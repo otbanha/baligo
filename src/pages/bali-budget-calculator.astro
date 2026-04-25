@@ -6,6 +6,7 @@ import Footer from '../components/Footer.astro';
 const title = '峇里島旅費預算計算器 2026';
 const description = '免費峇里島旅費預算計算器，輸入天數、人數、景點與活動，立即估算每人花費。';
 const lang = 'zh-tw';
+const slug = 'bali-budget-calculator';
 ---
 
 <html lang="zh-TW">
@@ -14,27 +15,29 @@ const lang = 'zh-tw';
 </head>
 
 <body>
-  <Header lang={lang} />
+  <Header lang={lang} slug={slug} />
 
-  <main class="calc-page">
-    <div class="calc-page-header">
+  <main class="bbc-page">
+    <div class="bbc-page-header">
       <h1>峇里島旅費預算計算器</h1>
       <p>選擇你的旅遊方式，立即估算每人花費</p>
     </div>
 
-    <div class="calc-wrap">
+    <div class="bbc-wrap">
 
-      <div class="card">
-        <h2><span class="step-badge">1</span> 基本設定</h2>
-        <div class="row"><label>旅遊天數</label>
-          <select id="days" onchange="calc()">
+      <div class="bbc-card">
+        <h2><span class="bbc-badge">1</span> 基本設定</h2>
+        <div class="bbc-row">
+          <label>旅遊天數</label>
+          <select id="bbc-days" onchange="bbcCalc()">
             <option value="3">3 天</option><option value="4">4 天</option><option value="5" selected>5 天</option>
             <option value="6">6 天</option><option value="7">7 天</option><option value="8">8 天</option>
             <option value="10">10 天</option><option value="14">14 天</option>
           </select>
         </div>
-        <div class="row"><label>旅遊人數</label>
-          <select id="people" onchange="calc()">
+        <div class="bbc-row">
+          <label>旅遊人數</label>
+          <select id="bbc-people" onchange="bbcCalc()">
             <option value="1">1 人（獨旅）</option><option value="2" selected>2 人</option>
             <option value="3">3 人</option><option value="4">4 人</option><option value="5">5 人</option>
             <option value="6">6 人</option><option value="8">8 人</option><option value="10">10 人</option>
@@ -42,71 +45,87 @@ const lang = 'zh-tw';
         </div>
       </div>
 
-      <div class="card">
-        <h2><span class="step-badge">2</span> 交通方式</h2>
-        <div class="grid2" id="t-opts">
-          <div class="chip on" data-v="van5" onclick="selT(this)"><div><div class="cn">包車 5人座</div><div class="cp">$40 / 天</div></div></div>
-          <div class="chip" data-v="van10" onclick="selT(this)"><div><div class="cn">包車 10人座</div><div class="cp">$90 / 天</div></div></div>
-          <div class="chip" data-v="scooter" onclick="selT(this)"><div><div class="cn">租機車</div><div class="cp">$6 / 天（2人共乘）</div></div></div>
-          <div class="chip" data-v="grab" onclick="selT(this)"><div><div class="cn">網約車（Gojek/Grab）</div><div class="cp">$15 / 天</div></div></div>
-          <div class="chip" data-v="unsure" onclick="selT(this)"><div><div class="cn">不確定</div><div class="cp">以包車 5人座估算</div></div></div>
+      <div class="bbc-card">
+        <h2><span class="bbc-badge">2</span> 交通方式</h2>
+        <div class="bbc-grid2" id="bbc-t-opts">
+          <div class="bbc-chip bbc-on" data-v="van5" onclick="bbcSelT(this)">
+            <div class="bbc-cn">包車 5人座</div><div class="bbc-cp">$40 / 天</div>
+          </div>
+          <div class="bbc-chip" data-v="van10" onclick="bbcSelT(this)">
+            <div class="bbc-cn">包車 10人座</div><div class="bbc-cp">$90 / 天</div>
+          </div>
+          <div class="bbc-chip" data-v="scooter" onclick="bbcSelT(this)">
+            <div class="bbc-cn">租機車</div><div class="bbc-cp">$6 / 天（2人共乘）</div>
+          </div>
+          <div class="bbc-chip" data-v="grab" onclick="bbcSelT(this)">
+            <div class="bbc-cn">網約車（Gojek/Grab）</div><div class="bbc-cp">$15 / 天</div>
+          </div>
+          <div class="bbc-chip" data-v="unsure" onclick="bbcSelT(this)">
+            <div class="bbc-cn">不確定</div><div class="bbc-cp">以包車 5人座估算</div>
+          </div>
         </div>
-        <div class="van-days-row" id="vd-row">
+        <div class="bbc-van-row" id="bbc-vd-row">
           <label>包車天數</label>
-          <select id="van-days" onchange="calc()">
+          <select id="bbc-van-days" onchange="bbcCalc()">
             <option value="1">1 天</option><option value="2">2 天</option><option value="3" selected>3 天</option>
             <option value="4">4 天</option><option value="5">5 天</option><option value="6">6 天</option><option value="7">7 天</option>
           </select>
         </div>
-        <p class="note">網約車備註：以五人座市區短途移動粗估，實際依搭乘次數而異</p>
+        <p class="bbc-note">網約車備註：以五人座市區短途移動粗估，實際依搭乘次數而異</p>
       </div>
 
-      <div class="card">
-        <h2><span class="step-badge">3</span> 景點 / 門票</h2>
-        <p class="hint">勾選計畫前往的景點（IDR 費用以 1 USD = 17,000 換算，實際費用以現場公告為準）</p>
-        <div class="grid2" id="attr-list"></div>
+      <div class="bbc-card">
+        <h2><span class="bbc-badge">3</span> 景點 / 門票</h2>
+        <p class="bbc-hint">勾選計畫前往的景點（IDR 費用以 1 USD = 17,000 換算，實際費用以現場公告為準）</p>
+        <div class="bbc-grid2" id="bbc-attr-list"></div>
       </div>
 
-      <div class="card">
-        <h2><span class="step-badge">4</span> 活動體驗</h2>
-        <div class="grid2" id="act-list"></div>
-        <div class="sep"></div>
-        <div class="sub-label">中高階 Spa / 按摩（每人每小時 $30～$100）</div>
-        <div class="spa-row">次數 <input type="number" class="mini-inp" id="spa-n" min="0" max="20" value="0" oninput="calc()"> 次</div>
-        <div class="sub-label">海灘 / 森林俱樂部（每人 $20～$40）</div>
-        <div class="spa-row">次數 <input type="number" class="mini-inp" id="bc-n" min="0" max="20" value="0" oninput="calc()"> 次</div>
+      <div class="bbc-card">
+        <h2><span class="bbc-badge">4</span> 活動體驗</h2>
+        <div class="bbc-grid2" id="bbc-act-list"></div>
+        <div class="bbc-sep"></div>
+        <div class="bbc-sublabel">中高階 Spa / 按摩（每人每小時 $30～$100）</div>
+        <div class="bbc-spa-row">次數 <input type="number" class="bbc-num" id="bbc-spa-n" min="0" max="20" value="0" oninput="bbcCalc()"> 次</div>
+        <div class="bbc-sublabel">海灘 / 森林俱樂部（每人 $20～$40）</div>
+        <div class="bbc-spa-row">次數 <input type="number" class="bbc-num" id="bbc-bc-n" min="0" max="20" value="0" oninput="bbcCalc()"> 次</div>
       </div>
 
-      <div class="card">
-        <h2><span class="step-badge">5</span> 餐飲預算</h2>
-        <div class="grid2" id="meal-opts">
-          <div class="chip" data-v="luxury" onclick="selM(this)"><div><div class="cn">享受型</div><div class="cp">$100～$200 / 天</div></div></div>
-          <div class="chip on" data-v="balanced" onclick="selM(this)"><div><div class="cn">均衡型</div><div class="cp">$30～$60 / 天</div></div></div>
-          <div class="chip" data-v="local" onclick="selM(this)"><div><div class="cn">精省型</div><div class="cp">$10～$20 / 天</div></div></div>
+      <div class="bbc-card">
+        <h2><span class="bbc-badge">5</span> 餐飲預算</h2>
+        <div class="bbc-grid2" id="bbc-meal-opts">
+          <div class="bbc-chip" data-v="luxury" onclick="bbcSelM(this)">
+            <div class="bbc-cn">享受型</div><div class="bbc-cp">$100～$200 / 天</div>
+          </div>
+          <div class="bbc-chip bbc-on" data-v="balanced" onclick="bbcSelM(this)">
+            <div class="bbc-cn">均衡型</div><div class="bbc-cp">$30～$60 / 天</div>
+          </div>
+          <div class="bbc-chip" data-v="local" onclick="bbcSelM(this)">
+            <div class="bbc-cn">精省型</div><div class="bbc-cp">$10～$20 / 天</div>
+          </div>
         </div>
       </div>
 
-      <div class="card">
-        <h2><span class="step-badge">6</span> 小費 / 購物</h2>
-        <div class="row" style="margin-bottom:0">
-          <span style="flex:1;font-size:14px;color:#666;">粗估 $20 × 旅遊天數</span>
-          <span id="tips-p" style="font-size:14px;font-weight:500;">$100</span>
+      <div class="bbc-card">
+        <h2><span class="bbc-badge">6</span> 小費 / 購物</h2>
+        <div class="bbc-tips-row">
+          <span>粗估 $20 × 旅遊天數</span>
+          <span id="bbc-tips-p">$100</span>
         </div>
       </div>
 
-      <div class="result-card">
-        <div class="result-eyebrow">以下為一個人預估的總旅費</div>
-        <div class="total-num" id="total-disp">$0</div>
-        <div class="total-sub">費用明細（美金 USD）</div>
-        <div class="bd" id="breakdown"></div>
-        <div class="bd-total"><span>合計</span><span id="total2">$0</span></div>
-        <div class="recs" id="recs-wrap">
-          <div class="recs-title">推薦以下攻略文章</div>
-          <div class="rec-links" id="rec-links"></div>
+      <div class="bbc-result">
+        <div class="bbc-eyebrow">以下為一個人預估的總旅費</div>
+        <div class="bbc-total" id="bbc-total-disp">$0</div>
+        <div class="bbc-total-sub">費用明細（美金 USD）</div>
+        <div class="bbc-bd" id="bbc-breakdown"></div>
+        <div class="bbc-grand"><span>合計</span><span id="bbc-total2">$0</span></div>
+        <div class="bbc-recs" id="bbc-recs-wrap">
+          <div class="bbc-recs-title">推薦以下攻略文章</div>
+          <div class="bbc-rec-links" id="bbc-rec-links"></div>
         </div>
-        <div class="btn-row">
-          <button class="btn" onclick="resetAll()">↺ 重新計算</button>
-          <button class="btn" onclick="savePDF()">儲存 PDF 分享給旅伴</button>
+        <div class="bbc-btn-row">
+          <button class="bbc-btn" onclick="bbcReset()">↺ 重新計算</button>
+          <button class="bbc-btn" onclick="bbcPDF()">儲存 PDF 分享給旅伴</button>
         </div>
       </div>
 
@@ -118,76 +137,222 @@ const lang = 'zh-tw';
 </html>
 
 <style>
-  .calc-page { max-width: 780px; margin: 0 auto; padding: 32px 16px 80px; }
-  .calc-page-header { text-align: center; margin-bottom: 28px; }
-  .calc-page-header h1 { font-size: 22px; font-weight: 500; }
-  .calc-page-header p { font-size: 14px; color: #888; margin-top: 6px; }
-  .calc-wrap { max-width: 680px; margin: 0 auto; }
+  /* ── 全部用 bbc- 前綴，避免與網站全域樣式衝突 ── */
+  .bbc-page { max-width: 780px; margin: 0 auto; padding: 32px 16px 80px; }
+  .bbc-page-header { text-align: center; margin-bottom: 28px; }
+  .bbc-page-header h1 { font-size: 22px; font-weight: 600; margin: 0; }
+  .bbc-page-header p { font-size: 14px; color: #888; margin: 6px 0 0; }
+  .bbc-wrap { max-width: 680px; margin: 0 auto; }
 
-  .card { background: #fff; border: 1px solid #e8e6e0; border-radius: 12px; padding: 20px; margin-bottom: 14px; }
-  .card h2 { font-size: 15px; font-weight: 500; margin-bottom: 16px; display: flex; align-items: center; gap: 8px; }
-  .step-badge { display: inline-flex; align-items: center; justify-content: center; width: 22px; height: 22px; border-radius: 50%; background: #f0ede6; border: 1px solid #ddd; font-size: 11px; font-weight: 500; color: #666; flex-shrink: 0; }
+  /* Card */
+  .bbc-card {
+    background: #ffffff !important;
+    border: 1px solid #e0ddd6 !important;
+    border-radius: 12px !important;
+    padding: 20px !important;
+    margin-bottom: 14px !important;
+    box-shadow: none !important;
+  }
+  .bbc-card h2 {
+    font-size: 15px !important;
+    font-weight: 600 !important;
+    margin: 0 0 16px !important;
+    padding: 0 !important;
+    display: flex !important;
+    align-items: center !important;
+    gap: 8px !important;
+    border: none !important;
+    color: #1a1a1a !important;
+  }
+  .bbc-badge {
+    display: inline-flex !important;
+    align-items: center !important;
+    justify-content: center !important;
+    width: 22px !important;
+    height: 22px !important;
+    border-radius: 50% !important;
+    background: #f0ede6 !important;
+    border: 1px solid #ddd !important;
+    font-size: 11px !important;
+    font-weight: 600 !important;
+    color: #666 !important;
+    flex-shrink: 0 !important;
+    line-height: 1 !important;
+  }
 
-  .row { display: flex; gap: 12px; align-items: center; margin-bottom: 10px; }
-  .row label { font-size: 14px; color: #666; min-width: 80px; }
-  .row select { flex: 1; height: 38px; border-radius: 8px; border: 1px solid #ddd; background: #fafaf8; font-size: 14px; padding: 0 10px; }
+  /* Row selects */
+  .bbc-row {
+    display: flex !important;
+    gap: 12px !important;
+    align-items: center !important;
+    margin-bottom: 10px !important;
+  }
+  .bbc-row label {
+    font-size: 14px !important;
+    color: #666 !important;
+    min-width: 80px !important;
+    margin: 0 !important;
+  }
+  .bbc-row select {
+    flex: 1 !important;
+    height: 38px !important;
+    border-radius: 8px !important;
+    border: 1px solid #ddd !important;
+    background: #fafaf8 !important;
+    color: #1a1a1a !important;
+    font-size: 14px !important;
+    padding: 0 10px !important;
+  }
 
-  .grid2 { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; }
-  .chip { display: flex; align-items: flex-start; gap: 8px; padding: 9px 11px; border-radius: 8px; border: 1px solid #e4e2dc; cursor: pointer; transition: border-color 0.15s, background 0.15s; user-select: none; background: #fafaf8; }
-  .chip:hover { border-color: #bbb; }
-  .chip.on { border-color: #1a6fa8; background: #eef5fb; }
-  .chip input[type=checkbox] { margin-top: 2px; flex-shrink: 0; accent-color: #1a6fa8; }
-  .chip .cn { font-size: 13px; line-height: 1.4; }
-  .chip .cp { font-size: 11px; color: #999; margin-top: 2px; }
-  .chip.on .cp { color: #1a6fa8; }
+  /* Grid */
+  .bbc-grid2 {
+    display: grid !important;
+    grid-template-columns: 1fr 1fr !important;
+    gap: 6px !important;
+  }
 
-  .hint { font-size: 12px; color: #aaa; margin-bottom: 12px; line-height: 1.6; }
-  .note { font-size: 12px; color: #aaa; padding: 8px 10px; border-radius: 8px; background: #fafaf8; margin-top: 10px; line-height: 1.6; }
-  .sep { height: 1px; background: #eee; margin: 14px 0; }
-  .mini-inp { width: 64px; height: 32px; border-radius: 8px; border: 1px solid #ddd; background: #fafaf8; font-size: 13px; padding: 0 8px; }
-  .spa-row { display: flex; gap: 8px; align-items: center; font-size: 13px; color: #666; margin-bottom: 6px; }
-  .sub-label { font-size: 13px; color: #666; margin-bottom: 6px; margin-top: 12px; }
-  .van-days-row { display: flex; gap: 12px; align-items: center; margin-top: 12px; }
-  .van-days-row label { font-size: 14px; color: #666; min-width: 80px; }
-  .van-days-row select { flex: 1; height: 38px; border-radius: 8px; border: 1px solid #ddd; background: #fafaf8; font-size: 14px; padding: 0 10px; }
+  /* Chip — 核心修正：強制 block，不用 flex，避免被全域覆蓋 */
+  .bbc-chip {
+    display: block !important;
+    padding: 10px 12px !important;
+    border-radius: 8px !important;
+    border: 1px solid #e0ddd6 !important;
+    cursor: pointer !important;
+    background: #fafaf8 !important;
+    transition: border-color 0.15s, background 0.15s !important;
+    user-select: none !important;
+    box-sizing: border-box !important;
+  }
+  .bbc-chip:hover { border-color: #aaa !important; }
+  .bbc-chip.bbc-on { border-color: #1a6fa8 !important; background: #eef5fb !important; }
+  .bbc-cn {
+    font-size: 13px !important;
+    color: #1a1a1a !important;
+    font-weight: 500 !important;
+    line-height: 1.4 !important;
+    display: block !important;
+    margin: 0 !important;
+  }
+  .bbc-cp {
+    font-size: 11px !important;
+    color: #999 !important;
+    margin: 3px 0 0 !important;
+    display: block !important;
+  }
+  .bbc-chip.bbc-on .bbc-cp { color: #1a6fa8 !important; }
 
-  .result-card { background: #fff; border: 1px solid #e8e6e0; border-radius: 12px; padding: 20px; margin-bottom: 14px; }
-  .result-eyebrow { font-size: 13px; color: #888; }
-  .total-num { font-size: 36px; font-weight: 500; margin: 6px 0 2px; }
-  .total-sub { font-size: 12px; color: #aaa; margin-bottom: 16px; }
-  .bd { border-top: 1px solid #eee; padding-top: 12px; }
-  .bd-row { padding: 7px 0; border-bottom: 1px solid #f0ede6; }
-  .bd-row:last-child { border-bottom: none; }
-  .bd-main { display: flex; justify-content: space-between; align-items: baseline; }
-  .bd-lbl { font-size: 14px; color: #666; }
-  .bd-val { font-size: 14px; font-weight: 500; }
-  .bd-formula { font-size: 11px; color: #bbb; margin-top: 3px; line-height: 1.5; }
-  .bd-total { display: flex; justify-content: space-between; align-items: baseline; padding: 12px 0 0; font-size: 15px; font-weight: 500; margin-top: 4px; border-top: 1px solid #ccc; }
+  /* Checkbox chips (景點/活動) */
+  .bbc-check-chip {
+    display: flex !important;
+    align-items: flex-start !important;
+    gap: 8px !important;
+    padding: 10px 12px !important;
+    border-radius: 8px !important;
+    border: 1px solid #e0ddd6 !important;
+    cursor: pointer !important;
+    background: #fafaf8 !important;
+    transition: border-color 0.15s, background 0.15s !important;
+    user-select: none !important;
+    box-sizing: border-box !important;
+  }
+  .bbc-check-chip:hover { border-color: #aaa !important; }
+  .bbc-check-chip.bbc-on { border-color: #1a6fa8 !important; background: #eef5fb !important; }
+  .bbc-check-chip input[type="checkbox"] {
+    width: 15px !important;
+    height: 15px !important;
+    flex-shrink: 0 !important;
+    margin: 2px 0 0 !important;
+    accent-color: #1a6fa8 !important;
+    cursor: pointer !important;
+  }
+  .bbc-check-chip .bbc-cn { font-size: 13px !important; color: #1a1a1a !important; font-weight: 500 !important; line-height: 1.4 !important; display: block !important; margin: 0 !important; }
+  .bbc-check-chip .bbc-cp { font-size: 11px !important; color: #999 !important; margin: 3px 0 0 !important; display: block !important; }
+  .bbc-check-chip.bbc-on .bbc-cp { color: #1a6fa8 !important; }
 
-  .recs { margin-top: 18px; border-top: 1px solid #eee; padding-top: 14px; }
-  .recs-title { font-size: 12px; font-weight: 500; color: #999; margin-bottom: 10px; letter-spacing: 0.04em; }
-  .rec-links { display: flex; flex-direction: column; gap: 6px; }
-  .rec-link { display: flex; align-items: center; justify-content: space-between; padding: 9px 13px; border-radius: 8px; border: 1px solid #e4e2dc; text-decoration: none; background: #fafaf8; transition: border-color 0.15s; }
-  .rec-link:hover { border-color: #bbb; }
-  .rec-link-name { font-size: 13px; color: #1a1a1a; }
-  .rec-link-arr { font-size: 13px; color: #bbb; }
+  .bbc-hint { font-size: 12px !important; color: #aaa !important; margin: 0 0 12px !important; line-height: 1.6 !important; }
+  .bbc-note { font-size: 12px !important; color: #aaa !important; padding: 8px 10px !important; border-radius: 8px !important; background: #fafaf8 !important; margin: 10px 0 0 !important; line-height: 1.6 !important; }
+  .bbc-sep { height: 1px !important; background: #eee !important; margin: 14px 0 !important; }
+  .bbc-sublabel { font-size: 13px !important; color: #555 !important; margin: 0 0 6px !important; }
+  .bbc-spa-row { display: flex !important; gap: 8px !important; align-items: center !important; font-size: 13px !important; color: #666 !important; margin-bottom: 10px !important; }
+  .bbc-num { width: 64px !important; height: 32px !important; border-radius: 8px !important; border: 1px solid #ddd !important; background: #fafaf8 !important; color: #1a1a1a !important; font-size: 13px !important; padding: 0 8px !important; text-align: center !important; }
+  .bbc-van-row { display: flex !important; gap: 12px !important; align-items: center !important; margin-top: 12px !important; }
+  .bbc-van-row label { font-size: 14px !important; color: #666 !important; min-width: 80px !important; margin: 0 !important; }
+  .bbc-van-row select { flex: 1 !important; height: 38px !important; border-radius: 8px !important; border: 1px solid #ddd !important; background: #fafaf8 !important; color: #1a1a1a !important; font-size: 14px !important; padding: 0 10px !important; }
+  .bbc-tips-row { display: flex !important; justify-content: space-between !important; align-items: center !important; font-size: 14px !important; color: #666 !important; }
+  #bbc-tips-p { font-weight: 600 !important; color: #1a1a1a !important; }
 
-  .btn-row { display: flex; gap: 8px; margin-top: 16px; flex-wrap: wrap; }
-  .btn { display: inline-flex; align-items: center; gap: 6px; padding: 9px 18px; border-radius: 8px; border: 1px solid #ddd; font-size: 13px; background: #fafaf8; cursor: pointer; transition: background 0.15s; font-family: inherit; }
-  .btn:hover { background: #f0ede6; }
+  /* Result card */
+  .bbc-result {
+    background: #ffffff !important;
+    border: 1px solid #e0ddd6 !important;
+    border-radius: 12px !important;
+    padding: 20px !important;
+    margin-bottom: 14px !important;
+  }
+  .bbc-eyebrow { font-size: 13px !important; color: #888 !important; margin: 0 !important; }
+  .bbc-total { font-size: 36px !important; font-weight: 700 !important; color: #1a1a1a !important; margin: 6px 0 2px !important; line-height: 1.2 !important; }
+  .bbc-total-sub { font-size: 12px !important; color: #aaa !important; margin: 0 0 16px !important; }
+
+  /* Breakdown */
+  .bbc-bd { border-top: 1px solid #eee !important; padding-top: 12px !important; }
+  .bbc-bd-row { padding: 8px 0 !important; border-bottom: 1px solid #f0ede6 !important; }
+  .bbc-bd-row:last-child { border-bottom: none !important; }
+  .bbc-bd-main { display: flex !important; justify-content: space-between !important; align-items: baseline !important; }
+  .bbc-bd-lbl { font-size: 14px !important; color: #555 !important; }
+  .bbc-bd-val { font-size: 14px !important; font-weight: 600 !important; color: #1a1a1a !important; }
+  .bbc-bd-formula { font-size: 11px !important; color: #bbb !important; margin: 3px 0 0 !important; line-height: 1.5 !important; }
+  .bbc-grand { display: flex !important; justify-content: space-between !important; align-items: baseline !important; padding: 12px 0 0 !important; font-size: 15px !important; font-weight: 700 !important; margin-top: 4px !important; border-top: 1px solid #ccc !important; }
+
+  /* Recs */
+  .bbc-recs { margin-top: 18px !important; border-top: 1px solid #eee !important; padding-top: 14px !important; }
+  .bbc-recs-title { font-size: 12px !important; font-weight: 600 !important; color: #999 !important; margin: 0 0 10px !important; letter-spacing: 0.04em !important; text-transform: uppercase !important; }
+  .bbc-rec-links { display: flex !important; flex-direction: column !important; gap: 6px !important; }
+  .bbc-rec-link {
+    display: flex !important;
+    align-items: center !important;
+    justify-content: space-between !important;
+    padding: 9px 13px !important;
+    border-radius: 8px !important;
+    border: 1px solid #e0ddd6 !important;
+    text-decoration: none !important;
+    background: #fafaf8 !important;
+    transition: border-color 0.15s !important;
+  }
+  .bbc-rec-link:hover { border-color: #aaa !important; text-decoration: none !important; }
+  .bbc-rec-link-name { font-size: 13px !important; color: #1a1a1a !important; }
+  .bbc-rec-link-arr { font-size: 13px !important; color: #bbb !important; }
+
+  /* Buttons */
+  .bbc-btn-row { display: flex !important; gap: 8px !important; margin-top: 16px !important; flex-wrap: wrap !important; }
+  .bbc-btn {
+    display: inline-flex !important;
+    align-items: center !important;
+    gap: 6px !important;
+    padding: 9px 18px !important;
+    border-radius: 8px !important;
+    border: 1px solid #ddd !important;
+    font-size: 13px !important;
+    color: #1a1a1a !important;
+    background: #fafaf8 !important;
+    cursor: pointer !important;
+    font-family: inherit !important;
+    transition: background 0.15s !important;
+  }
+  .bbc-btn:hover { background: #f0ede6 !important; }
 
   @media (max-width: 480px) {
-    .grid2 { grid-template-columns: 1fr; }
-    .total-num { font-size: 28px; }
+    .bbc-grid2 { grid-template-columns: 1fr !important; }
+    .bbc-total { font-size: 28px !important; }
+    .bbc-page { padding: 20px 12px 60px !important; }
   }
 </style>
 
 <script>
-const IDR = 17000;
-const FIXED_TOP = { name:'峇里島包車攻略', url:'https://gobaligo.id/go/bali-car-charter-guide' };
-const FIXED_BTM = { name:'峇里島活動推薦', url:'https://gobaligo.id/go/bali-activities' };
+const BBC_IDR = 17000;
+const BBC_FIXED_TOP = { name:'峇里島包車攻略', url:'https://gobaligo.id/go/bali-car-charter-guide' };
+const BBC_FIXED_BTM = { name:'峇里島活動推薦', url:'https://gobaligo.id/go/bali-activities' };
 
-const LINKS = {
+const BBC_LINKS = {
   '烏布皇宮':'https://gobaligo.id/blog/2024-11-05-6728cc00fd89780001c9bbdc/',
   '烏布市場':'https://gobaligo.id/blog/2024-10-19-6712fb1dfd89780001f69011/',
   '聖泉寺':'https://gobaligo.id/blog/2025-06-18-6852cdc2fd89780001e0b7ad/',
@@ -221,226 +386,212 @@ const LINKS = {
   '佩尼達藍夢島船票':'https://www.klook.com/zh-TW/destination/p50308327-nusa-penida/',
 };
 
-const ATTRS = [
-  { id:'a1',  name:'烏布皇宮',              note:'Ubud Palace',       iMin:0,      iMax:0,       lk:'烏布皇宮' },
-  { id:'a2',  name:'烏布藝術市場',          note:'Ubud Art Market',   iMin:0,      iMax:0,       lk:'烏布市場' },
-  { id:'a19', name:'烏布水皇宮',            note:'Ubud Water Palace', iMin:60000,  iMax:60000,   lk:null },
-  { id:'a20', name:'佩尼達/藍夢島來回船票', note:'Fast boat',         usdMin:12,   usdMax:20,    lk:'佩尼達藍夢島船票' },
-  { id:'a3',  name:'海神廟',                note:'Tanah Lot',         iMin:75000,  iMax:75000,   lk:'海神廟' },
-  { id:'a4',  name:'烏魯瓦圖廟',            note:'Uluwatu',           iMin:50000,  iMax:50000,   lk:'烏魯瓦圖廟' },
-  { id:'a5',  name:'聖泉寺',                note:'Tirta Empul',       iMin:75000,  iMax:75000,   lk:'聖泉寺' },
-  { id:'a6',  name:'水神廟',                note:'Ulun Danu Beratan', iMin:75000,  iMax:75000,   lk:null },
-  { id:'a7',  name:'彭麗普蘭村',            note:'Penglipuran',       iMin:50000,  iMax:50000,   lk:'Penglipuran村' },
-  { id:'a8',  name:'神鷹文化公園',          note:'GWK',               iMin:150000, iMax:150000,  lk:'神鷹文化公園' },
-  { id:'a9',  name:'聖猴森林',              note:'Monkey Forest',     iMin:100000, iMax:120000,  lk:'聖猴森林' },
-  { id:'a10', name:'烏布梯田',              note:'Alas Harum',        iMin:63000,  iMax:63000,   lk:'烏布梯田' },
-  { id:'a11', name:'烏布叢林鞦韆',          note:'Ubud Swing',        iMin:200000, iMax:500000,  lk:'烏布叢林鞦韆' },
-  { id:'a12', name:'仙女園',                note:'Taman Dedari',      iMin:50000,  iMax:50000,   lk:'仙女園' },
-  { id:'a13', name:'瀑布探秘',              note:'Tegenungan 等',     iMin:20000,  iMax:50000,   lk:'瀑布探秘' },
-  { id:'a14', name:'烏魯瓦圖火舞',          note:'Kecak',             iMin:150000, iMax:150000,  lk:'烏魯瓦圖火舞' },
-  { id:'a15', name:'天壇秀',                note:'Devdan Show',       iMin:300000, iMax:1300000, lk:'天壇秀' },
-  { id:'a16', name:'藍色斷崖公路',          note:'Tanah Barak',       iMin:8000,   iMax:8000,    lk:'藍色斷崖公路' },
-  { id:'a17', name:'秘境沙灘',              note:'Uluwatu',           iMin:5000,   iMax:15000,   lk:'秘境沙灘' },
-  { id:'a18', name:'Nuanu Creative City',   note:'',                  iMin:50000,  iMax:75000,   lk:'Nuanu Creative City' },
+const BBC_ATTRS = [
+  { id:'ba1',  name:'烏布皇宮',              note:'Ubud Palace',       iMin:0,      iMax:0,       lk:'烏布皇宮' },
+  { id:'ba2',  name:'烏布藝術市場',          note:'Ubud Art Market',   iMin:0,      iMax:0,       lk:'烏布市場' },
+  { id:'ba19', name:'烏布水皇宮',            note:'Ubud Water Palace', iMin:60000,  iMax:60000,   lk:null },
+  { id:'ba20', name:'佩尼達/藍夢島來回船票', note:'Fast boat',         usdMin:12,   usdMax:20,    lk:'佩尼達藍夢島船票' },
+  { id:'ba3',  name:'海神廟',                note:'Tanah Lot',         iMin:75000,  iMax:75000,   lk:'海神廟' },
+  { id:'ba4',  name:'烏魯瓦圖廟',            note:'Uluwatu',           iMin:50000,  iMax:50000,   lk:'烏魯瓦圖廟' },
+  { id:'ba5',  name:'聖泉寺',                note:'Tirta Empul',       iMin:75000,  iMax:75000,   lk:'聖泉寺' },
+  { id:'ba6',  name:'水神廟',                note:'Ulun Danu Beratan', iMin:75000,  iMax:75000,   lk:null },
+  { id:'ba7',  name:'彭麗普蘭村',            note:'Penglipuran',       iMin:50000,  iMax:50000,   lk:'Penglipuran村' },
+  { id:'ba8',  name:'神鷹文化公園',          note:'GWK',               iMin:150000, iMax:150000,  lk:'神鷹文化公園' },
+  { id:'ba9',  name:'聖猴森林',              note:'Monkey Forest',     iMin:100000, iMax:120000,  lk:'聖猴森林' },
+  { id:'ba10', name:'烏布梯田',              note:'Alas Harum',        iMin:63000,  iMax:63000,   lk:'烏布梯田' },
+  { id:'ba11', name:'烏布叢林鞦韆',          note:'Ubud Swing',        iMin:200000, iMax:500000,  lk:'烏布叢林鞦韆' },
+  { id:'ba12', name:'仙女園',                note:'Taman Dedari',      iMin:50000,  iMax:50000,   lk:'仙女園' },
+  { id:'ba13', name:'瀑布探秘',              note:'Tegenungan 等',     iMin:20000,  iMax:50000,   lk:'瀑布探秘' },
+  { id:'ba14', name:'烏魯瓦圖火舞',          note:'Kecak',             iMin:150000, iMax:150000,  lk:'烏魯瓦圖火舞' },
+  { id:'ba15', name:'天壇秀',                note:'Devdan Show',       iMin:300000, iMax:1300000, lk:'天壇秀' },
+  { id:'ba16', name:'藍色斷崖公路',          note:'Tanah Barak',       iMin:8000,   iMax:8000,    lk:'藍色斷崖公路' },
+  { id:'ba17', name:'秘境沙灘',              note:'Uluwatu',           iMin:5000,   iMax:15000,   lk:'秘境沙灘' },
+  { id:'ba18', name:'Nuanu Creative City',   note:'',                  iMin:50000,  iMax:75000,   lk:'Nuanu Creative City' },
 ];
 
-const ACTS = [
-  { id:'ac1',  name:'衝浪（1對1）',      note:'1小時·每人',        mn:20,  mx:20,  lk:'衝浪' },
-  { id:'ac2',  name:'佩尼達島浮潛',      note:'搭船',              mn:-1,  mx:-1,  type:'d150',      lk:null },
-  { id:'ac3',  name:'沙努爾外海浮潛',    note:'每人',              mn:20,  mx:20,  lk:'沙努爾外海浮潛' },
-  { id:'ac4',  name:'Waterbom 水上樂園', note:'每人',              mn:36,  mx:36,  lk:'Waterbom水上樂園' },
-  { id:'ac5',  name:'金塔瑪尼火山日出',  note:'依人數計算',        mn:-1,  mx:-1,  type:'kintamani', lk:'金塔瑪尼火山日出' },
-  { id:'ac6',  name:'玩 ATV',            note:'每人',              mn:70,  mx:70,  lk:null },
-  { id:'ac7',  name:'泛舟',              note:'依人數計算',        mn:-1,  mx:-1,  type:'d100',      lk:null },
-  { id:'ac8',  name:'Bali Safari Park',  note:'每人',              mn:36,  mx:36,  lk:null },
-  { id:'ac9',  name:'烏布烹飪課程',      note:'每人',              mn:20,  mx:20,  lk:null },
-  { id:'ac10', name:'金巴蘭晚餐',        note:'每人',              mn:15,  mx:60,  lk:'金巴蘭晚餐' },
-  { id:'ac11', name:'洞穴漂流河',        note:'依人數計算',        mn:-1,  mx:-1,  type:'tubing',    lk:null },
-  { id:'ac12', name:'叢林馬利歐賽車',    note:'Jungle Kart·每人',  mn:23,  mx:23,  lk:'叢林馬利歐賽車' },
-  { id:'ac13', name:'頌缽音療',          note:'Singing Bowl·每人', mn:90,  mx:90,  lk:'頌缽音療' },
-  { id:'ac14', name:'南灣水上活動',      note:'每人',              mn:12,  mx:90,  lk:'南灣水上活動' },
-  { id:'ac15', name:'VW 敞篷車遊覽',     note:'每人',              mn:120, mx:120, lk:'VW敞篷車' },
-  { id:'ac16', name:'滑翔翼',            note:'每人',              mn:100, mx:100, lk:'滑翔翼' },
-  { id:'ac17', name:'海龜島 + 玻璃船',   note:'每人',              mn:60,  mx:60,  lk:'海龜島+玻璃船' },
-  { id:'ac18', name:'出海釣魚',          note:'每人',              mn:250, mx:250, lk:'出海釣魚' },
+const BBC_ACTS = [
+  { id:'bc1',  name:'衝浪（1對1）',      note:'1小時·每人',        mn:20,  mx:20,  lk:'衝浪' },
+  { id:'bc2',  name:'佩尼達島浮潛',      note:'',                  mn:-1,  mx:-1,  type:'d150',      lk:null },
+  { id:'bc3',  name:'沙努爾外海浮潛',    note:'每人',              mn:20,  mx:20,  lk:'沙努爾外海浮潛' },
+  { id:'bc4',  name:'Waterbom 水上樂園', note:'每人',              mn:36,  mx:36,  lk:'Waterbom水上樂園' },
+  { id:'bc5',  name:'金塔瑪尼火山日出',  note:'',                  mn:-1,  mx:-1,  type:'kintamani', lk:'金塔瑪尼火山日出' },
+  { id:'bc6',  name:'玩 ATV',            note:'每人',              mn:70,  mx:70,  lk:null },
+  { id:'bc7',  name:'泛舟',              note:'',                  mn:-1,  mx:-1,  type:'d100',      lk:null },
+  { id:'bc8',  name:'Bali Safari Park',  note:'每人',              mn:36,  mx:36,  lk:null },
+  { id:'bc9',  name:'烏布烹飪課程',      note:'每人',              mn:20,  mx:20,  lk:null },
+  { id:'bc10', name:'金巴蘭晚餐',        note:'每人',              mn:15,  mx:60,  lk:'金巴蘭晚餐' },
+  { id:'bc11', name:'洞穴漂流河',        note:'',                  mn:-1,  mx:-1,  type:'tubing',    lk:null },
+  { id:'bc12', name:'叢林馬利歐賽車',    note:'Jungle Kart·每人',  mn:23,  mx:23,  lk:'叢林馬利歐賽車' },
+  { id:'bc13', name:'頌缽音療',          note:'Singing Bowl·每人', mn:90,  mx:90,  lk:'頌缽音療' },
+  { id:'bc14', name:'南灣水上活動',      note:'每人',              mn:12,  mx:90,  lk:'南灣水上活動' },
+  { id:'bc15', name:'VW 敞篷車遊覽',     note:'每人',              mn:120, mx:120, lk:'VW敞篷車' },
+  { id:'bc16', name:'滑翔翼',            note:'每人',              mn:100, mx:100, lk:'滑翔翼' },
+  { id:'bc17', name:'海龜島 + 玻璃船',   note:'每人',              mn:60,  mx:60,  lk:'海龜島+玻璃船' },
+  { id:'bc18', name:'出海釣魚',          note:'每人',              mn:250, mx:250, lk:'出海釣魚' },
 ];
 
-function attrPrice(item) {
+function bbcAttrPrice(item) {
   if (item.usdMin !== undefined) return item.usdMin===item.usdMax ? '$'+item.usdMin : '$'+item.usdMin+'～$'+item.usdMax;
   if (item.iMin === 0) return '免費';
-  const a = +(item.iMin/IDR).toFixed(2), b = +(item.iMax/IDR).toFixed(2);
+  const a = +(item.iMin/BBC_IDR).toFixed(2), b = +(item.iMax/BBC_IDR).toFixed(2);
   return a===b ? '$'+a : '$'+a+'～$'+b;
 }
-function actPrice(item) {
-  if (item.type) return item.note;
-  return item.mn===item.mx ? '$'+item.mn : '$'+item.mn+'～$'+item.mx;
+
+function bbcActPrice(item) {
+  if (item.type === 'd150') return '$150 ÷ 人數';
+  if (item.type === 'd100') return '$100 ÷ 人數';
+  if (item.type === 'kintamani') return '依人數計算';
+  if (item.type === 'tubing') return '依人數計算';
+  return item.mn === item.mx ? '$'+item.mn : '$'+item.mn+'～$'+item.mx;
 }
 
-function buildList(items, cid, priceFn) {
-  const c = document.getElementById(cid); c.innerHTML = '';
+function bbcBuildList(items, cid, priceFn) {
+  const c = document.getElementById(cid);
+  c.innerHTML = '';
   items.forEach(item => {
-    const d = document.createElement('div'); d.className = 'chip';
-    const noteStr = item.note ? item.note+'・' : '';
-    d.innerHTML = `<input type="checkbox" id="${item.id}" style="flex-shrink:0;margin-top:2px;accent-color:#1a6fa8">
-      <div><div class="cn">${item.name}</div><div class="cp">${noteStr}${priceFn(item)}</div></div>`;
+    const d = document.createElement('div');
+    d.className = 'bbc-check-chip';
+    const noteStr = item.note ? item.note + '・' : '';
+    d.innerHTML = `<input type="checkbox" id="${item.id}" /><div><div class="bbc-cn">${item.name}</div><div class="bbc-cp">${noteStr}${priceFn(item)}</div></div>`;
     d.onclick = function(e) {
-      if (e.target.tagName !== 'INPUT') { const cb = d.querySelector('input'); cb.checked = !cb.checked; }
-      d.classList.toggle('on', d.querySelector('input').checked); calc();
+      if (e.target.tagName !== 'INPUT') {
+        const cb = d.querySelector('input'); cb.checked = !cb.checked;
+      }
+      d.classList.toggle('bbc-on', d.querySelector('input').checked);
+      bbcCalc();
     };
     c.appendChild(d);
   });
 }
 
-function selT(el) {
-  document.querySelectorAll('#t-opts .chip').forEach(x => x.classList.remove('on')); el.classList.add('on');
+function bbcSelT(el) {
+  document.querySelectorAll('#bbc-t-opts .bbc-chip').forEach(x => x.classList.remove('bbc-on'));
+  el.classList.add('bbc-on');
   const v = el.dataset.v;
-  document.getElementById('vd-row').style.display = (v==='van5'||v==='van10'||v==='unsure') ? 'flex' : 'none';
-  calc();
+  document.getElementById('bbc-vd-row').style.display = (v==='van5'||v==='van10'||v==='unsure') ? 'flex' : 'none';
+  bbcCalc();
 }
-function selM(el) { document.querySelectorAll('#meal-opts .chip').forEach(x => x.classList.remove('on')); el.classList.add('on'); calc(); }
-function getT() { return (document.querySelector('#t-opts .chip.on') || {dataset:{v:'van5'}}).dataset.v; }
-function getM() { return (document.querySelector('#meal-opts .chip.on') || {dataset:{v:'balanced'}}).dataset.v; }
-function fmtR(mn, mx) { mn = Math.round(mn); mx = Math.round(mx); return mn===mx ? '$'+mn : '$'+mn+'～$'+mx; }
+function bbcSelM(el) {
+  document.querySelectorAll('#bbc-meal-opts .bbc-chip').forEach(x => x.classList.remove('bbc-on'));
+  el.classList.add('bbc-on'); bbcCalc();
+}
+function bbcGetT() { return (document.querySelector('#bbc-t-opts .bbc-chip.bbc-on') || {dataset:{v:'van5'}}).dataset.v; }
+function bbcGetM() { return (document.querySelector('#bbc-meal-opts .bbc-chip.bbc-on') || {dataset:{v:'balanced'}}).dataset.v; }
+function bbcFmt(mn, mx) { mn = Math.round(mn); mx = Math.round(mx); return mn===mx ? '$'+mn : '$'+mn+'～$'+mx; }
 
-let lastRecItems = [];
+let bbcLastRecs = [];
 
-function calc() {
-  const days = +document.getElementById('days').value;
-  const ppl  = +document.getElementById('people').value;
-  const vdays = +document.getElementById('van-days').value;
-  const transport = getT(), meal = getM();
-  const spaN = +document.getElementById('spa-n').value || 0;
-  const bcN  = +document.getElementById('bc-n').value  || 0;
-  document.getElementById('tips-p').textContent = '$' + (20 * days);
+function bbcCalc() {
+  const days  = +document.getElementById('bbc-days').value;
+  const ppl   = +document.getElementById('bbc-people').value;
+  const vdays = +document.getElementById('bbc-van-days').value;
+  const transport = bbcGetT(), meal = bbcGetM();
+  const spaN = +document.getElementById('bbc-spa-n').value || 0;
+  const bcN  = +document.getElementById('bbc-bc-n').value  || 0;
+  document.getElementById('bbc-tips-p').textContent = '$' + (20 * days);
 
   let rows = [], totMin = 0, totMax = 0;
   function add(lbl, mn, mx, formula) { rows.push({lbl, mn, mx, formula}); totMin += mn; totMax += mx; }
 
   if (transport==='van5'||transport==='unsure') {
-    const v = (40*vdays)/ppl; add('包車（5人座）', v, v, `$40 × ${vdays} 天 ÷ ${ppl} 人 = $${Math.round(v)}`);
+    const v=(40*vdays)/ppl; add('包車（5人座）',v,v,`$40 × ${vdays} 天 ÷ ${ppl} 人 = $${Math.round(v)}`);
   } else if (transport==='van10') {
-    const v = (90*vdays)/ppl; add('包車（10人座）', v, v, `$90 × ${vdays} 天 ÷ ${ppl} 人 = $${Math.round(v)}`);
+    const v=(90*vdays)/ppl; add('包車（10人座）',v,v,`$90 × ${vdays} 天 ÷ ${ppl} 人 = $${Math.round(v)}`);
   } else if (transport==='scooter') {
-    const v = ppl===1 ? 6*days : (6*days)/2;
-    add('租機車', v, v, ppl===1 ? `$6 × ${days} 天 = $${Math.round(v)}` : `$6 × ${days} 天 ÷ 2（共乘）= $${Math.round(v)}`);
+    const v=ppl===1?6*days:(6*days)/2;
+    add('租機車',v,v,ppl===1?`$6 × ${days} 天 = $${Math.round(v)}`:`$6 × ${days} 天 ÷ 2（共乘）= $${Math.round(v)}`);
   } else if (transport==='grab') {
-    const v = (15*days)/ppl; add('網約車（Gojek/Grab）', v, v, `$15 × ${days} 天 ÷ ${ppl} 人 = $${Math.round(v)}`);
+    const v=(15*days)/ppl; add('網約車（Gojek/Grab）',v,v,`$15 × ${days} 天 ÷ ${ppl} 人 = $${Math.round(v)}`);
   }
 
-  let aMin = 0, aMax = 0, aCnt = 0, aParts = [];
-  ATTRS.forEach(item => {
-    const cb = document.getElementById(item.id); if (!cb || !cb.checked) return;
-    let mn, mx;
-    if (item.usdMin !== undefined) { mn = item.usdMin; mx = item.usdMax; }
-    else { mn = item.iMin/IDR; mx = item.iMax/IDR; }
-    aMin += mn; aMax += mx; aCnt++;
-    const p = item.iMin === 0 ? '免費' : (mn===mx ? `$${+(mn).toFixed(2)}` : `$${+(mn).toFixed(2)}～$${+(mx).toFixed(2)}`);
+  let aMin=0,aMax=0,aCnt=0,aParts=[];
+  BBC_ATTRS.forEach(item => {
+    const cb=document.getElementById(item.id); if(!cb||!cb.checked) return;
+    let mn,mx;
+    if(item.usdMin!==undefined){mn=item.usdMin;mx=item.usdMax;}
+    else{mn=item.iMin/BBC_IDR;mx=item.iMax/BBC_IDR;}
+    aMin+=mn;aMax+=mx;aCnt++;
+    const p=item.iMin===0&&item.usdMin===undefined?'免費':(mn===mx?`$${+(mn).toFixed(2)}`:`$${+(mn).toFixed(2)}～$${+(mx).toFixed(2)}`);
     aParts.push(`${item.name} ${p}`);
   });
-  if (aCnt > 0) add(`景點門票（${aCnt} 個）`, aMin, aMax, aParts.join('　'));
+  if(aCnt>0) add(`景點門票（${aCnt} 個）`,aMin,aMax,aParts.join('　'));
 
-  let acMin = 0, acMax = 0, acCnt = 0, acParts = [];
-  ACTS.forEach(item => {
-    const cb = document.getElementById(item.id); if (!cb || !cb.checked) return;
-    let mn = 0, mx = 0, f = '';
-    if (item.type==='d150')      { mn = mx = 150/ppl; f = `${item.name}：$150 ÷ ${ppl} 人 = $${Math.round(mn)}`; }
-    else if (item.type==='d100') { mn = mx = 100/ppl; f = `${item.name}：$100 ÷ ${ppl} 人 = $${Math.round(mn)}`; }
-    else if (item.type==='kintamani') { mn = mx = ppl===1 ? 100 : 50; f = `${item.name}：${ppl===1 ? '獨旅 $100' : '2~4人每人 $50'}`; }
-    else if (item.type==='tubing') {
-      const v = ppl===1 ? 50 : ppl===2 ? 32 : ppl<=4 ? 25 : 21; mn = mx = v;
-      f = `${item.name}：${ppl} 人 → 每人 $${v}`;
-    } else { mn = item.mn; mx = item.mx; f = mn===mx ? `${item.name}：$${mn}` : `${item.name}：$${mn}～$${mx}`; }
-    acMin += mn; acMax += mx; acCnt++; acParts.push(f);
+  let acMin=0,acMax=0,acCnt=0,acParts=[];
+  BBC_ACTS.forEach(item => {
+    const cb=document.getElementById(item.id); if(!cb||!cb.checked) return;
+    let mn=0,mx=0,f='';
+    if(item.type==='d150'){mn=mx=150/ppl;f=`${item.name}：$150 ÷ ${ppl} 人 = $${Math.round(mn)}`;}
+    else if(item.type==='d100'){mn=mx=100/ppl;f=`${item.name}：$100 ÷ ${ppl} 人 = $${Math.round(mn)}`;}
+    else if(item.type==='kintamani'){mn=mx=ppl===1?100:50;f=`${item.name}：${ppl===1?'獨旅 $100':'2~4人每人 $50'}`;}
+    else if(item.type==='tubing'){const v=ppl===1?50:ppl===2?32:ppl<=4?25:21;mn=mx=v;f=`${item.name}：${ppl} 人 → 每人 $${v}`;}
+    else{mn=item.mn;mx=item.mx;f=mn===mx?`${item.name}：$${mn}`:`${item.name}：$${mn}～$${mx}`;}
+    acMin+=mn;acMax+=mx;acCnt++;acParts.push(f);
   });
-  if (spaN > 0) { acMin += spaN*30; acMax += spaN*100; acCnt++; acParts.push(`Spa ${spaN} 次：$${spaN*30}～$${spaN*100}`); }
-  if (bcN  > 0) { acMin += bcN*20;  acMax += bcN*40;   acCnt++; acParts.push(`俱樂部 ${bcN} 次：$${bcN*20}～$${bcN*40}`); }
-  if (acCnt > 0) add(`活動體驗（${acCnt} 項）`, acMin, acMax, acParts.join('　'));
+  if(spaN>0){acMin+=spaN*30;acMax+=spaN*100;acCnt++;acParts.push(`Spa ${spaN} 次：$${spaN*30}～$${spaN*100}`);}
+  if(bcN>0){acMin+=bcN*20;acMax+=bcN*40;acCnt++;acParts.push(`俱樂部 ${bcN} 次：$${bcN*20}～$${bcN*40}`);}
+  if(acCnt>0) add(`活動體驗（${acCnt} 項）`,acMin,acMax,acParts.join('　'));
 
-  const md = days - 1;
-  if (meal==='luxury')   add('餐飲（享受型）',  100*md, 200*md, `$100～$200 × ${md} 天 = $${100*md}～$${200*md}`);
-  else if (meal==='balanced') add('餐飲（均衡型）', 30*md, 60*md, `$30～$60 × ${md} 天 = $${30*md}～$${60*md}`);
-  else                   add('餐飲（精省型）',  10*md,  20*md,  `$10～$20 × ${md} 天 = $${10*md}～$${20*md}`);
-  add('小費 / 購物', 20*days, 20*days, `$20 × ${days} 天 = $${20*days}`);
+  const md=days-1;
+  if(meal==='luxury') add('餐飲（享受型）',100*md,200*md,`$100～$200 × ${md} 天 = $${100*md}～$${200*md}`);
+  else if(meal==='balanced') add('餐飲（均衡型）',30*md,60*md,`$30～$60 × ${md} 天 = $${30*md}～$${60*md}`);
+  else add('餐飲（精省型）',10*md,20*md,`$10～$20 × ${md} 天 = $${10*md}～$${20*md}`);
+  add('小費 / 購物',20*days,20*days,`$20 × ${days} 天 = $${20*days}`);
 
-  const ts = fmtR(totMin, totMax);
-  document.getElementById('total-disp').textContent = ts;
-  document.getElementById('total2').textContent = ts;
-  document.getElementById('breakdown').innerHTML = rows.map(r =>
-    `<div class="bd-row">
-      <div class="bd-main"><span class="bd-lbl">${r.lbl}</span><span class="bd-val">${fmtR(r.mn, r.mx)}</span></div>
-      ${r.formula ? `<div class="bd-formula">${r.formula}</div>` : ''}
-    </div>`
+  const ts=bbcFmt(totMin,totMax);
+  document.getElementById('bbc-total-disp').textContent=ts;
+  document.getElementById('bbc-total2').textContent=ts;
+  document.getElementById('bbc-breakdown').innerHTML=rows.map(r=>
+    `<div class="bbc-bd-row"><div class="bbc-bd-main"><span class="bbc-bd-lbl">${r.lbl}</span><span class="bbc-bd-val">${bbcFmt(r.mn,r.mx)}</span></div>${r.formula?`<div class="bbc-bd-formula">${r.formula}</div>`:''}</div>`
   ).join('');
 
-  const seen = new Set(), dynItems = [];
-  ATTRS.forEach(item => { const cb = document.getElementById(item.id);
-    if (cb && cb.checked && item.lk && LINKS[item.lk] && !seen.has(item.lk)) { seen.add(item.lk); dynItems.push({name: item.name, url: LINKS[item.lk]}); }
+  const seen=new Set(),dynItems=[];
+  BBC_ATTRS.forEach(item=>{const cb=document.getElementById(item.id);
+    if(cb&&cb.checked&&item.lk&&BBC_LINKS[item.lk]&&!seen.has(item.lk)){seen.add(item.lk);dynItems.push({name:item.name,url:BBC_LINKS[item.lk]});}
   });
-  ACTS.forEach(item => { const cb = document.getElementById(item.id);
-    if (cb && cb.checked && item.lk && LINKS[item.lk] && !seen.has(item.lk)) { seen.add(item.lk); dynItems.push({name: item.name, url: LINKS[item.lk]}); }
+  BBC_ACTS.forEach(item=>{const cb=document.getElementById(item.id);
+    if(cb&&cb.checked&&item.lk&&BBC_LINKS[item.lk]&&!seen.has(item.lk)){seen.add(item.lk);dynItems.push({name:item.name,url:BBC_LINKS[item.lk]});}
   });
-  if (spaN > 0 && !seen.has('Spa')) { seen.add('Spa'); dynItems.push({name: 'Spa / 按摩攻略', url: LINKS['Spa']}); }
-  lastRecItems = [FIXED_TOP, ...dynItems, FIXED_BTM];
-  document.getElementById('rec-links').innerHTML = lastRecItems.map(r =>
-    `<a class="rec-link" href="${r.url}" target="_blank"><span class="rec-link-name">${r.name}</span><span class="rec-link-arr">→</span></a>`
+  if(spaN>0&&!seen.has('Spa')){seen.add('Spa');dynItems.push({name:'Spa / 按摩攻略',url:BBC_LINKS['Spa']});}
+  bbcLastRecs=[BBC_FIXED_TOP,...dynItems,BBC_FIXED_BTM];
+  document.getElementById('bbc-rec-links').innerHTML=bbcLastRecs.map(r=>
+    `<a class="bbc-rec-link" href="${r.url}" target="_blank"><span class="bbc-rec-link-name">${r.name}</span><span class="bbc-rec-link-arr">→</span></a>`
   ).join('');
 }
 
-function resetAll() {
-  document.getElementById('days').value = '5';
-  document.getElementById('people').value = '2';
-  document.getElementById('van-days').value = '3';
-  document.getElementById('spa-n').value = '0';
-  document.getElementById('bc-n').value = '0';
-  document.getElementById('vd-row').style.display = 'flex';
-  document.querySelectorAll('#t-opts .chip').forEach(x => x.classList.remove('on'));
-  document.querySelector('#t-opts .chip[data-v="van5"]').classList.add('on');
-  document.querySelectorAll('#meal-opts .chip').forEach(x => x.classList.remove('on'));
-  document.querySelector('#meal-opts .chip[data-v="balanced"]').classList.add('on');
-  document.querySelectorAll('#attr-list input, #act-list input').forEach(cb => { cb.checked = false; cb.closest('.chip').classList.remove('on'); });
-  calc();
+function bbcReset() {
+  document.getElementById('bbc-days').value='5';
+  document.getElementById('bbc-people').value='2';
+  document.getElementById('bbc-van-days').value='3';
+  document.getElementById('bbc-spa-n').value='0';
+  document.getElementById('bbc-bc-n').value='0';
+  document.getElementById('bbc-vd-row').style.display='flex';
+  document.querySelectorAll('#bbc-t-opts .bbc-chip').forEach(x=>x.classList.remove('bbc-on'));
+  document.querySelector('#bbc-t-opts .bbc-chip[data-v="van5"]').classList.add('bbc-on');
+  document.querySelectorAll('#bbc-meal-opts .bbc-chip').forEach(x=>x.classList.remove('bbc-on'));
+  document.querySelector('#bbc-meal-opts .bbc-chip[data-v="balanced"]').classList.add('bbc-on');
+  document.querySelectorAll('#bbc-attr-list input,#bbc-act-list input').forEach(cb=>{cb.checked=false;cb.closest('.bbc-check-chip').classList.remove('bbc-on');});
+  bbcCalc();
 }
 
-function savePDF() {
-  const days = document.getElementById('days').value;
-  const ppl  = document.getElementById('people').value;
-  const total = document.getElementById('total-disp').textContent;
-  const rows = [...document.querySelectorAll('#breakdown .bd-row')].map(r => ({
-    lbl: r.querySelector('.bd-lbl').textContent,
-    val: r.querySelector('.bd-val').textContent,
-    formula: r.querySelector('.bd-formula') ? r.querySelector('.bd-formula').textContent : ''
+function bbcPDF() {
+  const days=document.getElementById('bbc-days').value;
+  const ppl=document.getElementById('bbc-people').value;
+  const total=document.getElementById('bbc-total-disp').textContent;
+  const rows=[...document.querySelectorAll('#bbc-breakdown .bbc-bd-row')].map(r=>({
+    lbl:r.querySelector('.bbc-bd-lbl').textContent,
+    val:r.querySelector('.bbc-bd-val').textContent,
+    formula:r.querySelector('.bbc-bd-formula')?r.querySelector('.bbc-bd-formula').textContent:''
   }));
-  const recLinksHTML = lastRecItems.map(r =>
-    `<div style="margin:5px 0;"><a href="${r.url}" style="color:#1a6fa8;font-size:13px;text-decoration:none;">${r.name}</a></div>`
-  ).join('');
-  const rowsHTML = rows.map(r =>
-    `<tr>
-      <td style="padding:7px 0;color:#555;font-size:13px;vertical-align:top;border-bottom:1px solid #eee;">
-        ${r.lbl}${r.formula ? `<div style="font-size:11px;color:#aaa;margin-top:2px;">${r.formula}</div>` : ''}
-      </td>
-      <td style="padding:7px 0;font-weight:500;font-size:13px;text-align:right;vertical-align:top;border-bottom:1px solid #eee;">${r.val}</td>
-    </tr>`
-  ).join('');
-  const html = `<!DOCTYPE html><html><head><meta charset="utf-8"><title>峇里島旅費預算</title></head>
-<body style="font-family:sans-serif;max-width:580px;margin:40px auto;padding:0 24px;color:#222;">
-<div style="font-size:11px;color:#aaa;margin-bottom:6px;">Go Bali Go · gobaligo.id</div>
-<h1 style="font-size:20px;font-weight:500;margin:0 0 4px;">峇里島旅費預算估算</h1>
-<div style="font-size:12px;color:#888;margin-bottom:20px;">${days} 天・${ppl} 人・每人預估</div>
-<div style="font-size:36px;font-weight:500;margin-bottom:20px;">${total} USD</div>
-<div style="font-size:11px;font-weight:500;color:#888;letter-spacing:.05em;margin-bottom:8px;">費用明細</div>
-<table style="width:100%;border-collapse:collapse;margin-bottom:20px;">${rowsHTML}</table>
-<div style="display:flex;justify-content:space-between;font-size:15px;font-weight:500;padding-top:12px;border-top:1px solid #ccc;margin-bottom:28px;"><span>合計</span><span>${total} USD</span></div>
-<div style="font-size:11px;font-weight:500;color:#888;letter-spacing:.05em;margin-bottom:8px;">推薦攻略文章</div>
-${recLinksHTML}
-<div style="font-size:11px;color:#bbb;margin-top:32px;line-height:1.6;">本預算為粗估參考，實際費用依個人消費習慣而異。<br>© Go Bali Go · gobaligo.id</div>
-</body></html>`;
-  const blob = new Blob([html], {type:'text/html'});
-  const url = URL.createObjectURL(blob);
-  const w = window.open(url, '_blank');
-  if (w) setTimeout(() => w.print(), 600);
+  const recHTML=bbcLastRecs.map(r=>`<div style="margin:5px 0;"><a href="${r.url}" style="color:#1a6fa8;font-size:13px;text-decoration:none;">${r.name}</a></div>`).join('');
+  const rowsHTML=rows.map(r=>`<tr><td style="padding:7px 0;color:#555;font-size:13px;vertical-align:top;border-bottom:1px solid #eee;">${r.lbl}${r.formula?`<div style="font-size:11px;color:#aaa;margin-top:2px;">${r.formula}</div>`:''}</td><td style="padding:7px 0;font-weight:600;font-size:13px;text-align:right;vertical-align:top;border-bottom:1px solid #eee;">${r.val}</td></tr>`).join('');
+  const html=`<!DOCTYPE html><html><head><meta charset="utf-8"><title>峇里島旅費預算</title></head><body style="font-family:sans-serif;max-width:580px;margin:40px auto;padding:0 24px;color:#222;"><div style="font-size:11px;color:#aaa;margin-bottom:6px;">Go Bali Go · gobaligo.id</div><h1 style="font-size:20px;font-weight:600;margin:0 0 4px;">峇里島旅費預算估算</h1><div style="font-size:12px;color:#888;margin-bottom:20px;">${days} 天・${ppl} 人・每人預估</div><div style="font-size:36px;font-weight:700;margin-bottom:20px;">${total} USD</div><div style="font-size:11px;font-weight:600;color:#888;letter-spacing:.05em;margin-bottom:8px;">費用明細</div><table style="width:100%;border-collapse:collapse;margin-bottom:20px;">${rowsHTML}</table><div style="display:flex;justify-content:space-between;font-size:15px;font-weight:600;padding-top:12px;border-top:1px solid #ccc;margin-bottom:28px;"><span>合計</span><span>${total} USD</span></div><div style="font-size:11px;font-weight:600;color:#888;letter-spacing:.05em;margin-bottom:8px;">推薦攻略文章</div>${recHTML}<div style="font-size:11px;color:#bbb;margin-top:32px;line-height:1.6;">本預算為粗估參考，實際費用依個人消費習慣而異。<br>© Go Bali Go · gobaligo.id</div></body></html>`;
+  const blob=new Blob([html],{type:'text/html'});
+  const url=URL.createObjectURL(blob);
+  const w=window.open(url,'_blank');
+  if(w) setTimeout(()=>w.print(),600);
 }
 
-buildList(ATTRS, 'attr-list', attrPrice);
-buildList(ACTS,  'act-list',  actPrice);
-calc();
+bbcBuildList(BBC_ATTRS,'bbc-attr-list',bbcAttrPrice);
+bbcBuildList(BBC_ACTS,'bbc-act-list',bbcActPrice);
+bbcCalc();
 </script>
