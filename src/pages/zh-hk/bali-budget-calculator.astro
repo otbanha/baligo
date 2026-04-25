@@ -1,0 +1,657 @@
+---
+export const prerender = true;
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+
+const title = '峇里島旅費預算計算器 2026';
+const description = '免費峇里島旅費預算計算器，輸入天數、人數、景點與活動，即時估算每人花費。';
+const lang = 'zh-hk';
+const slug = 'bali-budget-calculator';
+
+// 抓分類清單給 mobile pills
+const allPosts = await getCollection('blog');
+const categoryOrder = ['新手指南','住宿推薦','峇里島分區攻略','簽證通關','叫車包車','家庭親子','遊記分享','美食景點活動','新聞存檔'];
+const allCats = [...new Set(allPosts.flatMap(p => Array.isArray(p.data.category) ? p.data.category : [p.data.category]).filter(Boolean))];
+const categories = [...categoryOrder.filter(c => allCats.includes(c)), ...allCats.filter(c => !categoryOrder.includes(c))];
+---
+
+<html lang="zh-HK">
+<head>
+  <BaseHead title={title} description={description} />
+</head>
+
+<body>
+  <Header lang={lang} slug={slug} />
+
+  <!-- Mobile 分類 pills（只在 ≤900px 顯示，桌機隱藏） -->
+  <nav class="bbc-pills-nav" aria-label="文章分類">
+    <ul class="bbc-pills-list">
+      <li><a href="/zh-hk/blog/?lang=hk" class="bbc-pill">首頁</a></li>
+      {categories.map(cat => (
+        <li><a href={`/zh-hk/blog/?lang=hk&cat=${encodeURIComponent(cat)}`} class="bbc-pill">{cat}</a></li>
+      ))}
+    </ul>
+  </nav>
+
+  <main style="max-width:780px;margin:0 auto;padding:32px 16px 80px;box-sizing:border-box;">
+
+    <div style="text-align:center;margin-bottom:28px;">
+      <h1 style="font-size:22px;font-weight:600;margin:0;padding:0;color:#1a1a1a;">峇里島旅費預算計算器</h1>
+      <p style="font-size:14px;color:#888;margin:6px 0 0;">選擇你的旅遊方式，即時估算每人花費</p>
+    </div>
+
+    <div style="max-width:680px;margin:0 auto;" id="bbc-root">
+
+      <!-- Step 1 -->
+      <div style="background:#fff;border:1px solid #e0ddd6;border-radius:12px;padding:20px;margin-bottom:14px;box-sizing:border-box;">
+        <h2 style="font-size:15px;font-weight:600;margin:0 0 16px;padding:0;display:flex;align-items:center;gap:8px;color:#1a1a1a;border:none;">
+          <span style="display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:#f0ede6;border:1px solid #ddd;font-size:11px;font-weight:600;color:#666;flex-shrink:0;">1</span>
+          基本設定
+        </h2>
+        <div style="display:flex;gap:12px;align-items:center;margin-bottom:10px;">
+          <label style="font-size:14px;color:#666;min-width:80px;margin:0;">旅遊天數</label>
+          <select id="bbc-days" onchange="bbcCalc()" style="flex:1;height:38px;border-radius:8px;border:1px solid #ddd;background:#fafaf8;color:#1a1a1a;font-size:14px;padding:0 10px;">
+            <option value="3">3 天</option><option value="4">4 天</option><option value="5" selected>5 天</option>
+            <option value="6">6 天</option><option value="7">7 天</option><option value="8">8 天</option>
+            <option value="10">10 天</option><option value="14">14 天</option>
+          </select>
+        </div>
+        <div style="display:flex;gap:12px;align-items:center;">
+          <label style="font-size:14px;color:#666;min-width:80px;margin:0;">旅遊人數</label>
+          <select id="bbc-people" onchange="bbcCalc()" style="flex:1;height:38px;border-radius:8px;border:1px solid #ddd;background:#fafaf8;color:#1a1a1a;font-size:14px;padding:0 10px;">
+            <option value="1">1 人（獨遊）</option><option value="2" selected>2 人</option>
+            <option value="3">3 人</option><option value="4">4 人</option><option value="5">5 人</option>
+            <option value="6">6 人</option><option value="8">8 人</option><option value="10">10 人</option>
+          </select>
+        </div>
+      </div>
+
+      <!-- Step 2 -->
+      <div style="background:#fff;border:1px solid #e0ddd6;border-radius:12px;padding:20px;margin-bottom:14px;box-sizing:border-box;">
+        <h2 style="font-size:15px;font-weight:600;margin:0 0 16px;padding:0;display:flex;align-items:center;gap:8px;color:#1a1a1a;border:none;">
+          <span style="display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:#f0ede6;border:1px solid #ddd;font-size:11px;font-weight:600;color:#666;flex-shrink:0;">2</span>
+          交通方式
+        </h2>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;" id="bbc-t-opts">
+          <div onclick="bbcSelT(this,'van5')" data-v="van5" style="padding:10px 12px;border-radius:8px;border:2px solid #1a6fa8;background:#eef5fb;cursor:pointer;box-sizing:border-box;">
+            <div style="font-size:13px;font-weight:500;color:#1a1a1a;">包車 5人座</div>
+            <div style="font-size:11px;color:#1a6fa8;margin-top:3px;">$40 / 天</div>
+          </div>
+          <div onclick="bbcSelT(this,'van10')" data-v="van10" style="padding:10px 12px;border-radius:8px;border:1px solid #e0ddd6;background:#fafaf8;cursor:pointer;box-sizing:border-box;">
+            <div style="font-size:13px;font-weight:500;color:#1a1a1a;">包車 10人座</div>
+            <div style="font-size:11px;color:#999;margin-top:3px;">$90 / 天</div>
+          </div>
+          <div onclick="bbcSelT(this,'scooter')" data-v="scooter" style="padding:10px 12px;border-radius:8px;border:1px solid #e0ddd6;background:#fafaf8;cursor:pointer;box-sizing:border-box;">
+            <div style="font-size:13px;font-weight:500;color:#1a1a1a;">租機車</div>
+            <div style="font-size:11px;color:#999;margin-top:3px;">$6 / 天（2人共乘）</div>
+          </div>
+          <div onclick="bbcSelT(this,'grab')" data-v="grab" style="padding:10px 12px;border-radius:8px;border:1px solid #e0ddd6;background:#fafaf8;cursor:pointer;box-sizing:border-box;">
+            <div style="font-size:13px;font-weight:500;color:#1a1a1a;">網約車（Gojek/Grab）</div>
+            <div style="font-size:11px;color:#999;margin-top:3px;">$15 / 天</div>
+          </div>
+          <div onclick="bbcSelT(this,'unsure')" data-v="unsure" style="padding:10px 12px;border-radius:8px;border:1px solid #e0ddd6;background:#fafaf8;cursor:pointer;box-sizing:border-box;">
+            <div style="font-size:13px;font-weight:500;color:#1a1a1a;">不確定</div>
+            <div style="font-size:11px;color:#999;margin-top:3px;">以包車 5人座估算</div>
+          </div>
+        </div>
+        <div id="bbc-vd-row" style="display:flex;gap:12px;align-items:center;margin-top:12px;">
+          <label style="font-size:14px;color:#666;min-width:80px;margin:0;">包車天數</label>
+          <select id="bbc-van-days" onchange="bbcCalc()" style="flex:1;height:38px;border-radius:8px;border:1px solid #ddd;background:#fafaf8;color:#1a1a1a;font-size:14px;padding:0 10px;">
+            <option value="1">1 天</option><option value="2">2 天</option><option value="3" selected>3 天</option>
+            <option value="4">4 天</option><option value="5">5 天</option><option value="6">6 天</option><option value="7">7 天</option>
+          </select>
+        </div>
+        <p style="font-size:12px;color:#aaa;padding:8px 10px;border-radius:8px;background:#fafaf8;margin:10px 0 0;line-height:1.6;">網約車備註：以五人座市區短途移動粗估，實際依搭乘次數而異</p>
+      </div>
+
+      <!-- Step 3 -->
+      <div style="background:#fff;border:1px solid #e0ddd6;border-radius:12px;padding:20px;margin-bottom:14px;box-sizing:border-box;">
+        <h2 style="font-size:15px;font-weight:600;margin:0 0 8px;padding:0;display:flex;align-items:center;gap:8px;color:#1a1a1a;border:none;">
+          <span style="display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:#f0ede6;border:1px solid #ddd;font-size:11px;font-weight:600;color:#666;flex-shrink:0;">3</span>
+          景點 / 門票
+        </h2>
+        <p style="font-size:12px;color:#aaa;margin:0 0 12px;line-height:1.6;">勾選計畫前往的景點（<span id="bbc-rate-hint">IDR 費用以 1 USD = 17,000 換算</span>，實際費用以現場公告為準）</p>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;" id="bbc-attr-list"></div>
+      </div>
+
+      <!-- Step 4 -->
+      <div style="background:#fff;border:1px solid #e0ddd6;border-radius:12px;padding:20px;margin-bottom:14px;box-sizing:border-box;">
+        <h2 style="font-size:15px;font-weight:600;margin:0 0 16px;padding:0;display:flex;align-items:center;gap:8px;color:#1a1a1a;border:none;">
+          <span style="display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:#f0ede6;border:1px solid #ddd;font-size:11px;font-weight:600;color:#666;flex-shrink:0;">4</span>
+          活動體驗
+        </h2>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;" id="bbc-act-list"></div>
+        <div style="height:1px;background:#eee;margin:14px 0;"></div>
+        <div style="font-size:13px;color:#555;margin-bottom:6px;">中高階 Spa / 按摩（每人每小時 $30～$100）</div>
+        <div style="display:flex;gap:8px;align-items:center;margin-bottom:10px;font-size:13px;color:#666;">
+          次數 <input type="number" id="bbc-spa-n" min="0" max="20" value="0" oninput="bbcCalc()" style="width:64px;height:32px;border-radius:8px;border:1px solid #ddd;background:#fafaf8;color:#1a1a1a;font-size:13px;padding:0 8px;text-align:center;"> 次
+        </div>
+        <div style="font-size:13px;color:#555;margin-bottom:6px;">海灘 / 森林俱樂部（每人 $20～$40）</div>
+        <div style="display:flex;gap:8px;align-items:center;font-size:13px;color:#666;">
+          次數 <input type="number" id="bbc-bc-n" min="0" max="20" value="0" oninput="bbcCalc()" style="width:64px;height:32px;border-radius:8px;border:1px solid #ddd;background:#fafaf8;color:#1a1a1a;font-size:13px;padding:0 8px;text-align:center;"> 次
+        </div>
+      </div>
+
+      <!-- Step 5 -->
+      <div style="background:#fff;border:1px solid #e0ddd6;border-radius:12px;padding:20px;margin-bottom:14px;box-sizing:border-box;">
+        <h2 style="font-size:15px;font-weight:600;margin:0 0 16px;padding:0;display:flex;align-items:center;gap:8px;color:#1a1a1a;border:none;">
+          <span style="display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:#f0ede6;border:1px solid #ddd;font-size:11px;font-weight:600;color:#666;flex-shrink:0;">5</span>
+          餐飲預算
+        </h2>
+        <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;" id="bbc-meal-opts">
+          <div onclick="bbcSelM(this,'luxury')" data-v="luxury" style="padding:10px 12px;border-radius:8px;border:1px solid #e0ddd6;background:#fafaf8;cursor:pointer;box-sizing:border-box;">
+            <div style="font-size:13px;font-weight:500;color:#1a1a1a;">享受型</div>
+            <div style="font-size:11px;color:#999;margin-top:3px;">$100～$200 / 天</div>
+          </div>
+          <div onclick="bbcSelM(this,'balanced')" data-v="balanced" style="padding:10px 12px;border-radius:8px;border:2px solid #1a6fa8;background:#eef5fb;cursor:pointer;box-sizing:border-box;">
+            <div style="font-size:13px;font-weight:500;color:#1a1a1a;">均衡型</div>
+            <div style="font-size:11px;color:#1a6fa8;margin-top:3px;">$30～$60 / 天</div>
+          </div>
+          <div onclick="bbcSelM(this,'local')" data-v="local" style="padding:10px 12px;border-radius:8px;border:1px solid #e0ddd6;background:#fafaf8;cursor:pointer;box-sizing:border-box;">
+            <div style="font-size:13px;font-weight:500;color:#1a1a1a;">慳家型</div>
+            <div style="font-size:11px;color:#999;margin-top:3px;">$10～$20 / 天</div>
+          </div>
+        </div>
+      </div>
+
+      <!-- Step 6 -->
+      <div style="background:#fff;border:1px solid #e0ddd6;border-radius:12px;padding:20px;margin-bottom:14px;box-sizing:border-box;">
+        <h2 style="font-size:15px;font-weight:600;margin:0 0 12px;padding:0;display:flex;align-items:center;gap:8px;color:#1a1a1a;border:none;">
+          <span style="display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:#f0ede6;border:1px solid #ddd;font-size:11px;font-weight:600;color:#666;flex-shrink:0;">6</span>
+          小費 / 購物
+        </h2>
+        <div style="display:flex;justify-content:space-between;align-items:center;font-size:14px;color:#666;">
+          <span>粗估 $20 × 旅遊天數</span>
+          <span id="bbc-tips-p" style="font-weight:600;color:#1a1a1a;">$100</span>
+        </div>
+      </div>
+
+      <!-- Result -->
+      <div style="background:#fff;border:1px solid #e0ddd6;border-radius:12px;padding:20px;margin-bottom:14px;box-sizing:border-box;">
+        <div style="font-size:13px;color:#888;">以下為一個人預估的總旅費</div>
+        <div id="bbc-total-disp" style="font-size:36px;font-weight:700;color:#1a1a1a;margin:6px 0 2px;line-height:1.2;">$0</div>
+        <div style="font-size:12px;color:#aaa;margin-bottom:16px;">費用明細（美金 USD）</div>
+        <div id="bbc-breakdown" style="border-top:1px solid #eee;padding-top:12px;"></div>
+        <div style="display:flex;justify-content:space-between;align-items:baseline;padding:12px 0 0;font-size:15px;font-weight:700;margin-top:4px;border-top:1px solid #ccc;">
+          <span>合計</span><span id="bbc-total2">$0</span>
+        </div>
+        <div style="margin-top:18px;border-top:1px solid #eee;padding-top:14px;">
+          <div style="font-size:12px;font-weight:600;color:#999;margin-bottom:10px;letter-spacing:0.04em;text-transform:uppercase;">推薦以下攻略文章</div>
+          <div id="bbc-rec-links" style="display:flex;flex-direction:column;gap:6px;"></div>
+        </div>
+        <div style="display:flex;gap:8px;margin-top:16px;flex-wrap:wrap;">
+          <button onclick="bbcReset()" style="display:inline-flex;align-items:center;gap:6px;padding:9px 18px;border-radius:8px;border:1px solid #ddd;font-size:13px;color:#1a1a1a;background:#fafaf8;cursor:pointer;font-family:inherit;">↺ 重新計算</button>
+          <button onclick="bbcPDF()" style="display:inline-flex;align-items:center;gap:6px;padding:9px 18px;border-radius:8px;border:1px solid #ddd;font-size:13px;color:#1a1a1a;background:#fafaf8;cursor:pointer;font-family:inherit;">儲存 PDF 分享給旅伴</button>
+        </div>
+      </div>
+
+    </div>
+  </main>
+
+  <Footer />
+</body>
+</html>
+
+<style>
+  .bbc-pills-nav { display: none; }
+  @media (max-width: 900px) {
+    .bbc-pills-nav {
+      display: block;
+      position: sticky;
+      top: 64px;
+      z-index: 90;
+      background: #1A365D;
+      border-bottom: 2px solid rgba(197,160,89,0.25);
+      box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+      overflow: hidden;
+    }
+    .bbc-pills-list {
+      display: flex;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      gap: 0.45em;
+      padding: 0.55em 1em;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      list-style: none;
+      margin: 0;
+    }
+    .bbc-pills-list::-webkit-scrollbar { display: none; }
+    .bbc-pills-list li { flex-shrink: 0; }
+    .bbc-pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.3em 0.85em;
+      border-radius: 20px;
+      border: 1px solid rgba(197,160,89,0.35);
+      background: rgba(255,255,255,0.08);
+      color: #e8d5a3;
+      font-size: 0.83em;
+      font-weight: 600;
+      white-space: nowrap;
+      text-decoration: none;
+      transition: background 0.15s, border-color 0.15s;
+    }
+    .bbc-pill:hover { background: rgba(197,160,89,0.2); color: #fff; }
+  }
+</style>
+
+<script is:inline>
+let BBC_IDR = 17000; // 預設值，會被即時匯率覆蓋
+
+// GMT+8 當天日期字串，用作 localStorage key
+function bbcTodayKey() {
+  const now = new Date(Date.now() + 8 * 60 * 60 * 1000);
+  return 'bbc_idr_' + now.toISOString().slice(0, 10);
+}
+
+// 更新畫面上的匯率說明文字
+function bbcUpdateRateHint(rate) {
+  const el = document.getElementById('bbc-rate-hint');
+  if (el) el.textContent = `IDR 費用以 1 USD = ${rate.toLocaleString()} 換算`;
+}
+
+// 抓取匯率：先查 localStorage，沒有才呼叫 API
+async function bbcFetchRate() {
+  const key = bbcTodayKey();
+  const cached = localStorage.getItem(key);
+  if (cached) {
+    BBC_IDR = parseInt(cached, 10);
+    bbcUpdateRateHint(BBC_IDR);
+    bbcBuildList(BBC_ATTRS, 'bbc-attr-list', bbcAttrPrice);
+    bbcCalc();
+    return;
+  }
+  try {
+    const res = await fetch('https://api.frankfurter.app/latest?from=USD&to=IDR');
+    const data = await res.json();
+    const raw = Math.round(data.rates.IDR);
+    BBC_IDR = raw - 400;
+    localStorage.setItem(key, BBC_IDR);
+    Object.keys(localStorage).forEach(k => { if (k.startsWith('bbc_idr_') && k !== key) localStorage.removeItem(k); });
+    bbcUpdateRateHint(BBC_IDR);
+    bbcBuildList(BBC_ATTRS, 'bbc-attr-list', bbcAttrPrice);
+    bbcCalc();
+  } catch(e) {
+    console.warn('匯率抓取失敗，使用預設值', e);
+  }
+}
+const BBC_FIXED_TOP = { name:'峇里島包車攻略', url:'https://gobaligo.id/go/bali-car-charter-guide' };
+const BBC_FIXED_BTM = { name:'峇里島活動推薦', url:'https://gobaligo.id/go/bali-activities' };
+
+const BBC_LINKS = {
+  '烏布皇宮':'https://gobaligo.id/blog/2024-11-05-6728cc00fd89780001c9bbdc/',
+  '烏布市場':'https://gobaligo.id/blog/2024-10-19-6712fb1dfd89780001f69011/',
+  '聖泉寺':'https://gobaligo.id/blog/2025-06-18-6852cdc2fd89780001e0b7ad/',
+  '聖猴森林':'https://gobaligo.id/blog/2024-03-19-65f97cf5fd897800019eeca0/',
+  '烏布梯田':'https://gobaligo.id/blog/2024-11-15-673167e4fd897800017c44a9/',
+  '瀑布探秘':'https://gobaligo.id/blog/2023-07-19-64db6b82fd897800013a995f/',
+  '仙女園':'https://gobaligo.id/blog/2025-01-26-6795adf1fd8978000133fe10/',
+  '烏布叢林鞦韆':'https://gobaligo.id/blog/2025-08-15-689eb518fd897800014fbb28/',
+  '叢林馬利歐賽車':'https://gobaligo.id/blog/2024-07-06-66892d20fd8978000183776c/',
+  '頌缽音療':'https://gobaligo.id/blog/2026-02-07-6986c5c0fd897800017582f6/',
+  'Penglipuran村':'https://gobaligo.id/blog/2023-08-26-64e9e8e9fd89780001f28d6b/',
+  '衝浪':'https://gobaligo.id/blog/2026-01-20-694122b8fd89780001f514c9/',
+  'Waterbom水上樂園':'https://gobaligo.id/blog/2025-07-28-68875c61fd8978000143d895/',
+  '海神廟':'https://gobaligo.id/blog/2024-10-28-671f86f1fd89780001de9fae/',
+  'Nuanu Creative City':'https://gobaligo.id/blog/2025-04-18-68026619fd89780001f56243/',
+  '神鷹文化公園':'https://gobaligo.id/blog/2025-07-17-68785bf9fd89780001822053/',
+  '金巴蘭晚餐':'https://gobaligo.id/blog/2023-09-17-6506748dfd897800018d6be2/',
+  '烏魯瓦圖廟':'https://gobaligo.id/blog/2025-01-18-678b1d81fd89780001f7fe4d/',
+  '烏魯瓦圖火舞':'https://gobaligo.id/blog/2024-01-29-65b6e533fd89780001f51eaf/',
+  '藍色斷崖公路':'https://gobaligo.id/blog/2025-03-06-67c9a234fd897800014b5a11/',
+  '秘境沙灘':'https://gobaligo.id/blog/2023-08-22-64e4c0c9fd897800014e31bf/',
+  '滑翔翼':'https://gobaligo.id/blog/2025-05-02-6814aa9efd89780001f68acc/',
+  'VW敞篷車':'https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74691-vw-safari-tour-uluwatu-bali%2F',
+  '南灣水上活動':'https://gobaligo.id/blog/2025-08-13-689c185efd8978000170dbdc/',
+  '天壇秀':'https://gobaligo.id/blog/2025-06-21-68557a29fd897800017f4272/',
+  '海龜島+玻璃船':'https://affiliate.klook.com/redirect?aid=116349&aff_adid=1248772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F59606-turtle-island-glass-bottom-boat-mangrove-cruise-bali%2F',
+  '出海釣魚':'https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F57653-bali-fishing-trip%2F',
+  '沙努爾外海浮潛':'https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F134495-snorkeling-experience-in-sanur-coastal%2F',
+  'Spa':'https://gobaligo.id/blog/2023-01-22-64db6b7efd897800013a97ed/',
+  '金塔瑪尼火山日出':'https://gobaligo.id/blog/2025-04-17-68011484fd897800010d1643/',
+  '佩尼達藍夢島船票':'https://www.klook.com/zh-TW/destination/p50308327-nusa-penida/',
+};
+
+const BBC_ATTRS = [
+  { id:'ba1',  name:'烏布皇宮',              note:'Ubud Palace',       iMin:0,      iMax:0,       lk:'烏布皇宮' },
+  { id:'ba2',  name:'烏布藝術市場',          note:'Ubud Art Market',   iMin:0,      iMax:0,       lk:'烏布市場' },
+  { id:'ba19', name:'烏布水皇宮',            note:'Ubud Water Palace', iMin:60000,  iMax:60000,   lk:null },
+  { id:'ba20', name:'佩尼達/藍夢島來回船票', note:'Fast boat',         usdMin:12,   usdMax:20,    lk:'佩尼達藍夢島船票' },
+  { id:'ba3',  name:'海神廟',                note:'Tanah Lot',         iMin:75000,  iMax:75000,   lk:'海神廟' },
+  { id:'ba4',  name:'烏魯瓦圖廟',            note:'Uluwatu',           iMin:50000,  iMax:50000,   lk:'烏魯瓦圖廟' },
+  { id:'ba5',  name:'聖泉寺',                note:'Tirta Empul',       iMin:75000,  iMax:75000,   lk:'聖泉寺' },
+  { id:'ba6',  name:'水神廟',                note:'Ulun Danu Beratan', iMin:75000,  iMax:75000,   lk:null },
+  { id:'ba7',  name:'彭麗普蘭村',            note:'Penglipuran',       iMin:50000,  iMax:50000,   lk:'Penglipuran村' },
+  { id:'ba8',  name:'神鷹文化公園',          note:'GWK',               iMin:150000, iMax:150000,  lk:'神鷹文化公園' },
+  { id:'ba9',  name:'聖猴森林',              note:'Monkey Forest',     iMin:100000, iMax:120000,  lk:'聖猴森林' },
+  { id:'ba10', name:'烏布梯田',              note:'Alas Harum',        iMin:63000,  iMax:63000,   lk:'烏布梯田' },
+  { id:'ba11', name:'烏布叢林鞦韆',          note:'Ubud Swing',        iMin:200000, iMax:500000,  lk:'烏布叢林鞦韆' },
+  { id:'ba12', name:'仙女園',                note:'Taman Dedari',      iMin:50000,  iMax:50000,   lk:'仙女園' },
+  { id:'ba13', name:'瀑布探秘',              note:'Tegenungan 等',     iMin:20000,  iMax:50000,   lk:'瀑布探秘' },
+  { id:'ba14', name:'烏魯瓦圖火舞',          note:'Kecak',             iMin:150000, iMax:150000,  lk:'烏魯瓦圖火舞' },
+  { id:'ba15', name:'天壇秀',                note:'Devdan Show',       iMin:300000, iMax:1300000, lk:'天壇秀' },
+  { id:'ba16', name:'藍色斷崖公路',          note:'Tanah Barak',       iMin:8000,   iMax:8000,    lk:'藍色斷崖公路' },
+  { id:'ba17', name:'秘境沙灘',              note:'Uluwatu',           iMin:5000,   iMax:15000,   lk:'秘境沙灘' },
+  { id:'ba18', name:'Nuanu Creative City',   note:'',                  iMin:50000,  iMax:75000,   lk:'Nuanu Creative City' },
+];
+
+const BBC_ACTS = [
+  { id:'bc1',  name:'衝浪（1對1）',      note:'1小時·每人',        mn:20,  mx:20,  lk:'衝浪' },
+  { id:'bc2',  name:'佩尼達島浮潛',      note:'',                  mn:-1,  mx:-1,  type:'d150',      lk:null },
+  { id:'bc3',  name:'沙努爾外海浮潛',    note:'每人',              mn:20,  mx:20,  lk:'沙努爾外海浮潛' },
+  { id:'bc4',  name:'Waterbom 水上樂園', note:'每人',              mn:36,  mx:36,  lk:'Waterbom水上樂園' },
+  { id:'bc5',  name:'金塔瑪尼火山日出',  note:'',                  mn:-1,  mx:-1,  type:'kintamani', lk:'金塔瑪尼火山日出' },
+  { id:'bc6',  name:'玩 ATV',            note:'每人',              mn:70,  mx:70,  lk:null },
+  { id:'bc7',  name:'泛舟',              note:'',                  mn:-1,  mx:-1,  type:'d100',      lk:null },
+  { id:'bc8',  name:'Bali Safari Park',  note:'每人',              mn:36,  mx:36,  lk:null },
+  { id:'bc9',  name:'烏布烹飪課程',      note:'每人',              mn:20,  mx:20,  lk:null },
+  { id:'bc10', name:'金巴蘭晚餐',        note:'每人',              mn:15,  mx:60,  lk:'金巴蘭晚餐' },
+  { id:'bc11', name:'洞穴漂流河',        note:'',                  mn:-1,  mx:-1,  type:'tubing',    lk:null },
+  { id:'bc12', name:'叢林馬利歐賽車',    note:'Jungle Kart·每人',  mn:23,  mx:23,  lk:'叢林馬利歐賽車' },
+  { id:'bc13', name:'頌缽音療',          note:'Singing Bowl·每人', mn:90,  mx:90,  lk:'頌缽音療' },
+  { id:'bc14', name:'南灣水上活動',      note:'每人',              mn:12,  mx:90,  lk:'南灣水上活動' },
+  { id:'bc15', name:'VW 敞篷車遊覽',     note:'每人',              mn:120, mx:120, lk:'VW敞篷車' },
+  { id:'bc16', name:'滑翔翼',            note:'每人',              mn:100, mx:100, lk:'滑翔翼' },
+  { id:'bc17', name:'海龜島 + 玻璃船',   note:'每人',              mn:60,  mx:60,  lk:'海龜島+玻璃船' },
+  { id:'bc18', name:'出海釣魚',          note:'每人',              mn:250, mx:250, lk:'出海釣魚' },
+];
+
+const CS_OFF = 'padding:10px 12px;border-radius:8px;border:1px solid #e0ddd6;background:#fafaf8;cursor:pointer;box-sizing:border-box;';
+const CS_ON  = 'padding:10px 12px;border-radius:8px;border:2px solid #1a6fa8;background:#eef5fb;cursor:pointer;box-sizing:border-box;';
+
+function bbcSelT(el, val) {
+  document.querySelectorAll('#bbc-t-opts > div').forEach(d => {
+    d.style.cssText = CS_OFF;
+    d.querySelectorAll('div')[1].style.color = '#999';
+  });
+  el.style.cssText = CS_ON;
+  el.querySelectorAll('div')[1].style.color = '#1a6fa8';
+  document.getElementById('bbc-vd-row').style.display = (val==='van5'||val==='van10'||val==='unsure') ? 'flex' : 'none';
+  bbcCalc();
+}
+
+function bbcSelM(el, val) {
+  document.querySelectorAll('#bbc-meal-opts > div').forEach(d => {
+    d.style.cssText = CS_OFF;
+    d.querySelectorAll('div')[1].style.color = '#999';
+  });
+  el.style.cssText = CS_ON;
+  el.querySelectorAll('div')[1].style.color = '#1a6fa8';
+  bbcCalc();
+}
+
+function bbcGetT() {
+  const el = document.querySelector('#bbc-t-opts > div[style*="2px solid"]');
+  return el ? el.dataset.v : 'van5';
+}
+function bbcGetM() {
+  const el = document.querySelector('#bbc-meal-opts > div[style*="2px solid"]');
+  return el ? el.dataset.v : 'balanced';
+}
+
+function bbcAttrPrice(item) {
+  if (item.usdMin !== undefined) return item.usdMin===item.usdMax ? '$'+item.usdMin : '$'+item.usdMin+'～$'+item.usdMax;
+  if (item.iMin === 0) return '免費';
+  const a = +(item.iMin/BBC_IDR).toFixed(2), b = +(item.iMax/BBC_IDR).toFixed(2);
+  return a===b ? '$'+a : '$'+a+'～$'+b;
+}
+
+function bbcActPrice(item) {
+  if (item.type==='d150') return '$150 ÷ 人數';
+  if (item.type==='d100') return '$100 ÷ 人數';
+  if (item.type==='kintamani'||item.type==='tubing') return '依人數計算';
+  return item.mn===item.mx ? '$'+item.mn : '$'+item.mn+'～$'+item.mx;
+}
+
+const CHIP_OFF = 'display:flex;align-items:flex-start;gap:8px;padding:10px 12px;border-radius:8px;border:1px solid #e0ddd6;background:#fafaf8;cursor:pointer;box-sizing:border-box;';
+const CHIP_ON  = 'display:flex;align-items:flex-start;gap:8px;padding:10px 12px;border-radius:8px;border:2px solid #1a6fa8;background:#eef5fb;cursor:pointer;box-sizing:border-box;';
+
+function bbcBuildList(items, cid, priceFn) {
+  const c = document.getElementById(cid);
+  c.innerHTML = '';
+  items.forEach(item => {
+    const noteStr = item.note ? item.note + '・' : '';
+    const wrap = document.createElement('div');
+    wrap.style.cssText = CHIP_OFF;
+    wrap.innerHTML = `
+      <input type="checkbox" id="${item.id}" style="width:15px;height:15px;flex-shrink:0;margin-top:2px;accent-color:#1a6fa8;cursor:pointer;" />
+      <div style="flex:1;min-width:0;">
+        <div style="font-size:13px;font-weight:500;color:#1a1a1a;line-height:1.4;">${item.name}</div>
+        <div class="bbc-sub-price" style="font-size:11px;color:#999;margin-top:3px;">${noteStr}${priceFn(item)}</div>
+      </div>`;
+    wrap.onclick = function(e) {
+      if (e.target.tagName !== 'INPUT') {
+        const cb = wrap.querySelector('input'); cb.checked = !cb.checked;
+      }
+      const on = wrap.querySelector('input').checked;
+      wrap.style.cssText = on ? CHIP_ON : CHIP_OFF;
+      wrap.querySelector('.bbc-sub-price').style.color = on ? '#1a6fa8' : '#999';
+      bbcCalc();
+    };
+    c.appendChild(wrap);
+  });
+}
+
+function bbcFmt(mn, mx) { mn=Math.round(mn); mx=Math.round(mx); return mn===mx ? '$'+mn : '$'+mn+'～$'+mx; }
+
+let bbcLastRecs = [];
+
+function bbcCalc() {
+  const days  = +document.getElementById('bbc-days').value;
+  const ppl   = +document.getElementById('bbc-people').value;
+  const vdays = +document.getElementById('bbc-van-days').value;
+  const transport = bbcGetT(), meal = bbcGetM();
+  const spaN = +document.getElementById('bbc-spa-n').value || 0;
+  const bcN  = +document.getElementById('bbc-bc-n').value  || 0;
+  document.getElementById('bbc-tips-p').textContent = '$' + (20*days);
+
+  let rows=[], totMin=0, totMax=0;
+  function add(lbl,mn,mx,formula){rows.push({lbl,mn,mx,formula});totMin+=mn;totMax+=mx;}
+
+  if(transport==='van5'||transport==='unsure'){const v=(40*vdays)/ppl;add('包車（5人座）',v,v,`$40 × ${vdays} 天 ÷ ${ppl} 人 = $${Math.round(v)}`);}
+  else if(transport==='van10'){const v=(90*vdays)/ppl;add('包車（10人座）',v,v,`$90 × ${vdays} 天 ÷ ${ppl} 人 = $${Math.round(v)}`);}
+  else if(transport==='scooter'){const v=ppl===1?6*days:(6*days)/2;add('租機車',v,v,ppl===1?`$6 × ${days} 天 = $${Math.round(v)}`:`$6 × ${days} 天 ÷ 2（共乘）= $${Math.round(v)}`);}
+  else if(transport==='grab'){const v=(15*days)/ppl;add('網約車（Gojek/Grab）',v,v,`$15 × ${days} 天 ÷ ${ppl} 人 = $${Math.round(v)}`);}
+
+  let aMin=0,aMax=0,aCnt=0,aParts=[];
+  BBC_ATTRS.forEach(item=>{
+    const cb=document.getElementById(item.id);if(!cb||!cb.checked)return;
+    let mn,mx;
+    if(item.usdMin!==undefined){mn=item.usdMin;mx=item.usdMax;}else{mn=item.iMin/BBC_IDR;mx=item.iMax/BBC_IDR;}
+    aMin+=mn;aMax+=mx;aCnt++;
+    const p=(item.iMin===0&&item.usdMin===undefined)?'免費':(mn===mx?`$${+(mn).toFixed(2)}`:`$${+(mn).toFixed(2)}～$${+(mx).toFixed(2)}`);
+    aParts.push(`${item.name} ${p}`);
+  });
+  if(aCnt>0) add(`景點門票（${aCnt} 個）`,aMin,aMax,aParts.join('　'));
+
+  let acMin=0,acMax=0,acCnt=0,acParts=[];
+  BBC_ACTS.forEach(item=>{
+    const cb=document.getElementById(item.id);if(!cb||!cb.checked)return;
+    let mn=0,mx=0,f='';
+    if(item.type==='d150'){mn=mx=150/ppl;f=`${item.name}：$150 ÷ ${ppl} 人 = $${Math.round(mn)}`;}
+    else if(item.type==='d100'){mn=mx=100/ppl;f=`${item.name}：$100 ÷ ${ppl} 人 = $${Math.round(mn)}`;}
+    else if(item.type==='kintamani'){mn=mx=ppl===1?100:50;f=`${item.name}：${ppl===1?'獨遊 $100':'2~4人每人 $50'}`;}
+    else if(item.type==='tubing'){const v=ppl===1?50:ppl===2?32:ppl<=4?25:21;mn=mx=v;f=`${item.name}：${ppl} 人 → 每人 $${v}`;}
+    else{mn=item.mn;mx=item.mx;f=mn===mx?`${item.name}：$${mn}`:`${item.name}：$${mn}～$${mx}`;}
+    acMin+=mn;acMax+=mx;acCnt++;acParts.push(f);
+  });
+  if(spaN>0){acMin+=spaN*30;acMax+=spaN*100;acCnt++;acParts.push(`Spa ${spaN} 次：$${spaN*30}～$${spaN*100}`);}
+  if(bcN>0){acMin+=bcN*20;acMax+=bcN*40;acCnt++;acParts.push(`俱樂部 ${bcN} 次：$${bcN*20}～$${bcN*40}`);}
+  if(acCnt>0) add(`活動體驗（${acCnt} 項）`,acMin,acMax,acParts.join('　'));
+
+  const md=days-1;
+  if(meal==='luxury') add('餐飲（享受型）',100*md,200*md,`$100～$200 × ${md} 天 = $${100*md}～$${200*md}`);
+  else if(meal==='balanced') add('餐飲（均衡型）',30*md,60*md,`$30～$60 × ${md} 天 = $${30*md}～$${60*md}`);
+  else add('餐飲（慳家型）',10*md,20*md,`$10～$20 × ${md} 天 = $${10*md}～$${20*md}`);
+  add('小費 / 購物',20*days,20*days,`$20 × ${days} 天 = $${20*days}`);
+
+  const ts=bbcFmt(totMin,totMax);
+  document.getElementById('bbc-total-disp').textContent=ts;
+  document.getElementById('bbc-total2').textContent=ts;
+  document.getElementById('bbc-breakdown').innerHTML=rows.map(r=>
+    `<div style="padding:8px 0;border-bottom:1px solid #f0ede6;">
+      <div style="display:flex;justify-content:space-between;align-items:baseline;">
+        <span style="font-size:14px;color:#555;">${r.lbl}</span>
+        <span style="font-size:14px;font-weight:600;color:#1a1a1a;white-space:nowrap;margin-left:12px;">${bbcFmt(r.mn,r.mx)}</span>
+      </div>
+      ${r.formula?`<div style="font-size:11px;color:#bbb;margin-top:3px;line-height:1.5;">${r.formula}</div>`:''}
+    </div>`
+  ).join('');
+
+  const seen=new Set(),dynItems=[];
+  BBC_ATTRS.forEach(item=>{const cb=document.getElementById(item.id);
+    if(cb&&cb.checked&&item.lk&&BBC_LINKS[item.lk]&&!seen.has(item.lk)){seen.add(item.lk);dynItems.push({name:item.name,url:BBC_LINKS[item.lk]});}
+  });
+  BBC_ACTS.forEach(item=>{const cb=document.getElementById(item.id);
+    if(cb&&cb.checked&&item.lk&&BBC_LINKS[item.lk]&&!seen.has(item.lk)){seen.add(item.lk);dynItems.push({name:item.name,url:BBC_LINKS[item.lk]});}
+  });
+  if(spaN>0&&!seen.has('Spa')){seen.add('Spa');dynItems.push({name:'Spa / 按摩攻略',url:BBC_LINKS['Spa']});}
+  bbcLastRecs=[BBC_FIXED_TOP,...dynItems,BBC_FIXED_BTM];
+  document.getElementById('bbc-rec-links').innerHTML=bbcLastRecs.map(r=>
+    `<a href="${r.url}" target="_blank" style="display:flex;align-items:center;justify-content:space-between;padding:9px 13px;border-radius:8px;border:1px solid #e0ddd6;text-decoration:none;background:#fafaf8;margin-bottom:0;">
+      <span style="font-size:13px;color:#1a1a1a;">${r.name}</span>
+      <span style="font-size:13px;color:#bbb;margin-left:8px;">→</span>
+    </a>`
+  ).join('');
+}
+
+function bbcReset() {
+  document.getElementById('bbc-days').value='5';
+  document.getElementById('bbc-people').value='2';
+  document.getElementById('bbc-van-days').value='3';
+  document.getElementById('bbc-spa-n').value='0';
+  document.getElementById('bbc-bc-n').value='0';
+  document.getElementById('bbc-vd-row').style.display='flex';
+  document.querySelectorAll('#bbc-t-opts > div').forEach(d=>{
+    d.style.cssText=CS_OFF; d.querySelectorAll('div')[1].style.color='#999';
+  });
+  const van5=document.querySelector('#bbc-t-opts > div[data-v="van5"]');
+  van5.style.cssText=CS_ON; van5.querySelectorAll('div')[1].style.color='#1a6fa8';
+  document.querySelectorAll('#bbc-meal-opts > div').forEach(d=>{
+    d.style.cssText=CS_OFF; d.querySelectorAll('div')[1].style.color='#999';
+  });
+  const bal=document.querySelector('#bbc-meal-opts > div[data-v="balanced"]');
+  bal.style.cssText=CS_ON; bal.querySelectorAll('div')[1].style.color='#1a6fa8';
+  document.querySelectorAll('#bbc-attr-list > div, #bbc-act-list > div').forEach(wrap=>{
+    const cb=wrap.querySelector('input');
+    if(cb) cb.checked=false;
+    wrap.style.cssText=CHIP_OFF;
+    const sub=wrap.querySelector('.bbc-sub-price');
+    if(sub) sub.style.color='#999';
+  });
+  bbcCalc();
+}
+
+function bbcPDF() {
+  const days=document.getElementById('bbc-days').value;
+  const ppl=document.getElementById('bbc-people').value;
+  const total=document.getElementById('bbc-total-disp').textContent;
+  const rowEls=[...document.querySelectorAll('#bbc-breakdown > div')];
+  const rowsHTML=rowEls.map(r=>{
+    const spans=r.querySelectorAll('span');
+    const lbl=spans[0]?.textContent||'';
+    const val=spans[1]?.textContent||'';
+    const sub=r.querySelector('div[style*="11px"]');
+    const formula=sub?.textContent||'';
+    return `<tr><td style="padding:7px 0;color:#555;font-size:13px;vertical-align:top;border-bottom:1px solid #eee;">${lbl}${formula?`<div style="font-size:11px;color:#aaa;margin-top:2px;">${formula}</div>`:''}</td><td style="padding:7px 0;font-weight:600;font-size:13px;text-align:right;vertical-align:top;border-bottom:1px solid #eee;white-space:nowrap;">${val}</td></tr>`;
+  }).join('');
+  const recHTML=bbcLastRecs.map(r=>`<div style="margin:5px 0;"><a href="${r.url}" style="color:#C5A059;text-decoration:none;font-size:13px;">${r.name}</a></div>`).join('');
+
+  const footerHTML=`<a href="https://gobaligo.id" style="display:flex;align-items:center;gap:14px;text-decoration:none;">
+    <img src="https://gobaligo.id/favicon-32x32.png" width="36" height="36" style="border-radius:6px;flex-shrink:0;" />
+    <div>
+      <div style="font-size:17px;font-weight:700;color:#C5A059;letter-spacing:0.02em;">峇里島旅遊攻略</div>
+      <div style="font-size:13px;color:rgba(197,160,89,0.75);margin-top:3px;">gobaligo.id</div>
+    </div>
+  </a>`;
+
+  const html=`<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>峇里島旅費預算</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
+      color: #222;
+      padding-bottom: 100px;
+    }
+    .page-body {
+      max-width: 580px;
+      margin: 40px auto;
+      padding: 0 24px;
+    }
+    .pdf-footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: #1A365D;
+      padding: 16px 32px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 999;
+      min-height: 72px;
+    }
+    .pdf-footer-note {
+      font-size: 13px;
+      color: rgba(197,160,89,0.7);
+      line-height: 1.7;
+      text-align: right;
+    }
+    @media print {
+      .pdf-footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+      body { padding-bottom: 100px; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="page-body">
+    <h1 style="font-size:20px;font-weight:600;margin:0 0 6px;color:#1A365D;">峇里島旅費預算估算</h1>
+    <div style="font-size:12px;color:#999;margin-bottom:6px;">此預算表未包含機票及住宿</div>
+    <div style="font-size:12px;color:#888;margin-bottom:20px;">${days} 天・${ppl} 人・一個人需準備的估算美金</div>
+    <div style="font-size:38px;font-weight:700;color:#1A365D;margin-bottom:6px;">${total} <span style="font-size:18px;font-weight:500;color:#888;">USD</span></div>
+    <div style="font-size:11px;color:#aaa;margin-bottom:24px;">粗估金額，實際費用依個人消費習慣而異</div>
+
+    <div style="font-size:11px;font-weight:600;color:#888;letter-spacing:.06em;text-transform:uppercase;margin-bottom:8px;">費用明細</div>
+    <table style="width:100%;border-collapse:collapse;margin-bottom:20px;">${rowsHTML}</table>
+    <div style="display:flex;justify-content:space-between;font-size:15px;font-weight:700;padding:12px 0;border-top:2px solid #1A365D;border-bottom:1px solid #eee;margin-bottom:28px;color:#1A365D;">
+      <span>合計</span><span>${total} USD</span>
+    </div>
+
+    <div style="font-size:11px;font-weight:600;color:#888;letter-spacing:.06em;text-transform:uppercase;margin-bottom:10px;">推薦攻略文章</div>
+    <div style="background:#f7f5f0;border-radius:8px;padding:14px 16px;margin-bottom:8px;">${recHTML}</div>
+  </div>
+
+  <div class="pdf-footer">
+    ${footerHTML}
+    <div class="pdf-footer-note">本預算為粗估參考<br>實際費用因人而異</div>
+  </div>
+
+</body>
+</html>`;
+
+  const blob=new Blob([html],{type:'text/html'});
+  const url=URL.createObjectURL(blob);
+  const w=window.open(url,'_blank');
+  if(w) setTimeout(()=>w.print(),600);
+}
+
+bbcBuildList(BBC_ATTRS,'bbc-attr-list',bbcAttrPrice);
+bbcBuildList(BBC_ACTS,'bbc-act-list',bbcActPrice);
+bbcCalc();
+bbcFetchRate(); // 非同步抓匯率，完成後自動更新
+</script>
