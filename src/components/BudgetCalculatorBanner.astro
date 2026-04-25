@@ -2,13 +2,11 @@
 interface Props { lang?: 'zh-tw' | 'zh-cn' | 'zh-hk' | 'en'; }
 const { lang = 'zh-tw' } = Astro.props;
 
-const url = '/bali-budget-calculator/';
-
 const t = {
-  'zh-tw': { title: '💰 峇里島預算計算器', desc: '輸入天數、人數與旅遊方式，立即估算每人峇里島旅費', btn: '前往計算器 →' },
-  'zh-hk': { title: '💰 峇里島預算計算器', desc: '輸入天數、人數與旅遊方式，即時估算每人峇里島旅費', btn: '前往計算器 →' },
-  'zh-cn': { title: '💰 巴厘岛预算计算器', desc: '输入天数、人数与旅游方式，立即估算每人巴厘岛旅费', btn: '前往计算器 →' },
-  'en':    { title: '💰 Bali Budget Calculator', desc: 'Enter trip length, group size and travel style — get an instant per-person cost estimate', btn: 'Open Calculator →' },
+  'zh-tw': { title: '💰 峇里島預算計算器', desc: '輸入天數、人數與旅遊方式，立即估算每人峇里島旅費' },
+  'zh-hk': { title: '💰 峇里島預算計算器', desc: '輸入天數、人數與旅遊方式，即時估算每人峇里島旅費' },
+  'zh-cn': { title: '💰 巴厘岛预算计算器', desc: '输入天数、人数与旅游方式，立即估算每人巴厘岛旅费' },
+  'en':    { title: '💰 Bali Budget Calculator', desc: 'Enter trip length, group size and travel style — get an instant per-person cost estimate' },
 }[lang];
 ---
 
@@ -21,7 +19,7 @@ const t = {
       </div>
       <p class="bc-banner-desc">{t.desc}</p>
     </div>
-    <a href={url} class="bc-banner-btn">{t.btn}</a>
+    <span class="bc-banner-btn">Coming Soon!</span>
   </div>
 </div>
 
@@ -80,7 +78,7 @@ const t = {
   flex-shrink: 0;
   transition: background 0.15s, transform 0.1s;
 }
-.bc-banner-btn:hover { background: #fff; transform: translateY(-1px); }
+.bc-banner-btn { cursor: default; }
 @media (max-width: 600px) {
   .bc-banner-inner { flex-direction: column; align-items: flex-start; }
 }
