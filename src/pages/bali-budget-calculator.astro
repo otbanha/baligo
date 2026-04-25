@@ -2,11 +2,18 @@
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
+import { getCollection } from 'astro:content';
 
 const title = '峇里島旅費預算計算器 2026';
 const description = '免費峇里島旅費預算計算器，輸入天數、人數、景點與活動，立即估算每人花費。';
 const lang = 'zh-tw';
 const slug = 'bali-budget-calculator';
+
+// 抓分類清單給 mobile pills
+const allPosts = await getCollection('blog');
+const categoryOrder = ['新手指南','住宿推薦','峇里島分區攻略','簽證通關','叫車包車','家庭親子','遊記分享','美食景點活動','新聞存檔'];
+const allCats = [...new Set(allPosts.flatMap(p => Array.isArray(p.data.category) ? p.data.category : [p.data.category]).filter(Boolean))];
+const categories = [...categoryOrder.filter(c => allCats.includes(c)), ...allCats.filter(c => !categoryOrder.includes(c))];
 ---
 
 <html lang="zh-TW">
@@ -16,6 +23,16 @@ const slug = 'bali-budget-calculator';
 
 <body>
   <Header lang={lang} slug={slug} />
+
+  <!-- Mobile 分類 pills（只在 ≤900px 顯示，桌機隱藏） -->
+  <nav class="bbc-pills-nav" aria-label="文章分類">
+    <ul class="bbc-pills-list">
+      <li><a href="/blog/?lang=tw" class="bbc-pill">首頁</a></li>
+      {categories.map(cat => (
+        <li><a href={`/blog/?lang=tw&cat=${encodeURIComponent(cat)}`} class="bbc-pill">{cat}</a></li>
+      ))}
+    </ul>
+  </nav>
 
   <main style="max-width:780px;margin:0 auto;padding:32px 16px 80px;box-sizing:border-box;">
 
@@ -94,7 +111,7 @@ const slug = 'bali-budget-calculator';
           <span style="display:inline-flex;align-items:center;justify-content:center;width:22px;height:22px;border-radius:50%;background:#f0ede6;border:1px solid #ddd;font-size:11px;font-weight:600;color:#666;flex-shrink:0;">3</span>
           景點 / 門票
         </h2>
-        <p style="font-size:12px;color:#aaa;margin:0 0 12px;line-height:1.6;">勾選計畫前往的景點（IDR 費用以 1 USD = 17,000 換算，實際費用以現場公告為準）</p>
+        <p style="font-size:12px;color:#aaa;margin:0 0 12px;line-height:1.6;">勾選計畫前往的景點（<span id="bbc-rate-hint">IDR 費用以 1 USD = 17,000 換算</span>，實際費用以現場公告為準）</p>
         <div style="display:grid;grid-template-columns:1fr 1fr;gap:6px;" id="bbc-attr-list"></div>
       </div>
 
@@ -176,8 +193,90 @@ const slug = 'bali-budget-calculator';
 </body>
 </html>
 
+<style>
+  .bbc-pills-nav { display: none; }
+  @media (max-width: 900px) {
+    .bbc-pills-nav {
+      display: block;
+      position: sticky;
+      top: 64px;
+      z-index: 90;
+      background: #1A365D;
+      border-bottom: 2px solid rgba(197,160,89,0.25);
+      box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+      overflow: hidden;
+    }
+    .bbc-pills-list {
+      display: flex;
+      flex-wrap: nowrap;
+      overflow-x: auto;
+      gap: 0.45em;
+      padding: 0.55em 1em;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      list-style: none;
+      margin: 0;
+    }
+    .bbc-pills-list::-webkit-scrollbar { display: none; }
+    .bbc-pills-list li { flex-shrink: 0; }
+    .bbc-pill {
+      display: inline-flex;
+      align-items: center;
+      padding: 0.3em 0.85em;
+      border-radius: 20px;
+      border: 1px solid rgba(197,160,89,0.35);
+      background: rgba(255,255,255,0.08);
+      color: #e8d5a3;
+      font-size: 0.83em;
+      font-weight: 600;
+      white-space: nowrap;
+      text-decoration: none;
+      transition: background 0.15s, border-color 0.15s;
+    }
+    .bbc-pill:hover { background: rgba(197,160,89,0.2); color: #fff; }
+  }
+</style>
+
 <script is:inline>
-const BBC_IDR = 17000;
+let BBC_IDR = 17000; // 預設值，會被即時匯率覆蓋
+
+// GMT+8 當天日期字串，用作 localStorage key
+function bbcTodayKey() {
+  const now = new Date(Date.now() + 8 * 60 * 60 * 1000);
+  return 'bbc_idr_' + now.toISOString().slice(0, 10);
+}
+
+// 更新畫面上的匯率說明文字
+function bbcUpdateRateHint(rate) {
+  const el = document.getElementById('bbc-rate-hint');
+  if (el) el.textContent = `IDR 費用以 1 USD = ${rate.toLocaleString()} 換算`;
+}
+
+// 抓取匯率：先查 localStorage，沒有才呼叫 API
+async function bbcFetchRate() {
+  const key = bbcTodayKey();
+  const cached = localStorage.getItem(key);
+  if (cached) {
+    BBC_IDR = parseInt(cached, 10);
+    bbcUpdateRateHint(BBC_IDR);
+    bbcBuildList(BBC_ATTRS, 'bbc-attr-list', bbcAttrPrice);
+    bbcCalc();
+    return;
+  }
+  try {
+    const res = await fetch('https://api.frankfurter.app/latest?from=USD&to=IDR');
+    const data = await res.json();
+    const raw = Math.round(data.rates.IDR);
+    BBC_IDR = raw - 400;
+    localStorage.setItem(key, BBC_IDR);
+    Object.keys(localStorage).forEach(k => { if (k.startsWith('bbc_idr_') && k !== key) localStorage.removeItem(k); });
+    bbcUpdateRateHint(BBC_IDR);
+    bbcBuildList(BBC_ATTRS, 'bbc-attr-list', bbcAttrPrice);
+    bbcCalc();
+  } catch(e) {
+    console.warn('匯率抓取失敗，使用預設值', e);
+  }
+}
 const BBC_FIXED_TOP = { name:'峇里島包車攻略', url:'https://gobaligo.id/go/bali-car-charter-guide' };
 const BBC_FIXED_BTM = { name:'峇里島活動推薦', url:'https://gobaligo.id/go/bali-activities' };
 
@@ -458,8 +557,91 @@ function bbcPDF() {
     const formula=sub?.textContent||'';
     return `<tr><td style="padding:7px 0;color:#555;font-size:13px;vertical-align:top;border-bottom:1px solid #eee;">${lbl}${formula?`<div style="font-size:11px;color:#aaa;margin-top:2px;">${formula}</div>`:''}</td><td style="padding:7px 0;font-weight:600;font-size:13px;text-align:right;vertical-align:top;border-bottom:1px solid #eee;white-space:nowrap;">${val}</td></tr>`;
   }).join('');
-  const recHTML=bbcLastRecs.map(r=>`<div style="margin:5px 0;"><a href="${r.url}" style="color:#1a6fa8;font-size:13px;text-decoration:none;">${r.name}</a></div>`).join('');
-  const html=`<!DOCTYPE html><html><head><meta charset="utf-8"><title>峇里島旅費預算</title></head><body style="font-family:sans-serif;max-width:580px;margin:40px auto;padding:0 24px;color:#222;"><div style="font-size:11px;color:#aaa;margin-bottom:6px;">Go Bali Go · gobaligo.id</div><h1 style="font-size:20px;font-weight:600;margin:0 0 4px;">峇里島旅費預算估算</h1><div style="font-size:12px;color:#888;margin-bottom:20px;">${days} 天・${ppl} 人・每人預估</div><div style="font-size:36px;font-weight:700;margin-bottom:20px;">${total} USD</div><div style="font-size:11px;font-weight:600;color:#888;letter-spacing:.05em;margin-bottom:8px;">費用明細</div><table style="width:100%;border-collapse:collapse;margin-bottom:20px;">${rowsHTML}</table><div style="display:flex;justify-content:space-between;font-size:15px;font-weight:600;padding-top:12px;border-top:1px solid #ccc;margin-bottom:28px;"><span>合計</span><span>${total} USD</span></div><div style="font-size:11px;font-weight:600;color:#888;letter-spacing:.05em;margin-bottom:8px;">推薦攻略文章</div>${recHTML}<div style="font-size:11px;color:#bbb;margin-top:32px;line-height:1.6;">本預算為粗估參考，實際費用依個人消費習慣而異。<br>© Go Bali Go · gobaligo.id</div></body></html>`;
+  const recHTML=bbcLastRecs.map(r=>`<div style="margin:5px 0;"><a href="${r.url}" style="color:#C5A059;text-decoration:none;font-size:13px;">${r.name}</a></div>`).join('');
+
+  const footerHTML=`<a href="https://gobaligo.id" style="display:flex;align-items:center;gap:10px;text-decoration:none;">
+    <img src="https://gobaligo.id/favicon.ico" width="20" height="20" style="border-radius:4px;flex-shrink:0;" />
+    <div>
+      <div style="font-size:13px;font-weight:700;color:#C5A059;letter-spacing:0.02em;">峇里島旅遊攻略</div>
+      <div style="font-size:11px;color:rgba(197,160,89,0.7);margin-top:1px;">gobaligo.id</div>
+    </div>
+  </a>`;
+
+  const html=`<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <title>峇里島旅費預算</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
+      color: #222;
+      padding-bottom: 80px;
+    }
+    .page-body {
+      max-width: 580px;
+      margin: 40px auto;
+      padding: 0 24px;
+    }
+    /* 每頁固定顯示的 footer */
+    .pdf-footer {
+      position: fixed;
+      bottom: 0;
+      left: 0;
+      right: 0;
+      background: #1A365D;
+      padding: 12px 28px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      z-index: 999;
+    }
+    .pdf-footer-note {
+      font-size: 11px;
+      color: rgba(197,160,89,0.6);
+      line-height: 1.5;
+    }
+    @media print {
+      .pdf-footer {
+        position: fixed;
+        bottom: 0;
+        left: 0;
+        right: 0;
+        -webkit-print-color-adjust: exact;
+        print-color-adjust: exact;
+      }
+      body { padding-bottom: 72px; }
+    }
+  </style>
+</head>
+<body>
+
+  <div class="page-body">
+    <h1 style="font-size:20px;font-weight:600;margin:0 0 4px;color:#1A365D;">峇里島旅費預算估算</h1>
+    <div style="font-size:12px;color:#888;margin-bottom:20px;">${days} 天・${ppl} 人・每人預估</div>
+    <div style="font-size:38px;font-weight:700;color:#1A365D;margin-bottom:6px;">${total} <span style="font-size:18px;font-weight:500;color:#888;">USD</span></div>
+    <div style="font-size:11px;color:#aaa;margin-bottom:24px;">粗估金額，實際費用依個人消費習慣而異</div>
+
+    <div style="font-size:11px;font-weight:600;color:#888;letter-spacing:.06em;text-transform:uppercase;margin-bottom:8px;">費用明細</div>
+    <table style="width:100%;border-collapse:collapse;margin-bottom:20px;">${rowsHTML}</table>
+    <div style="display:flex;justify-content:space-between;font-size:15px;font-weight:700;padding:12px 0;border-top:2px solid #1A365D;border-bottom:1px solid #eee;margin-bottom:28px;color:#1A365D;">
+      <span>合計</span><span>${total} USD</span>
+    </div>
+
+    <div style="font-size:11px;font-weight:600;color:#888;letter-spacing:.06em;text-transform:uppercase;margin-bottom:10px;">推薦攻略文章</div>
+    <div style="background:#f7f5f0;border-radius:8px;padding:14px 16px;margin-bottom:8px;">${recHTML}</div>
+  </div>
+
+  <!-- 每頁固定 footer -->
+  <div class="pdf-footer">
+    ${footerHTML}
+    <div class="pdf-footer-note">本預算為粗估參考<br>實際費用依個人消費習慣而異</div>
+  </div>
+
+</body>
+</html>`;
+
   const blob=new Blob([html],{type:'text/html'});
   const url=URL.createObjectURL(blob);
   const w=window.open(url,'_blank');
@@ -469,4 +651,5 @@ function bbcPDF() {
 bbcBuildList(BBC_ATTRS,'bbc-attr-list',bbcAttrPrice);
 bbcBuildList(BBC_ACTS,'bbc-act-list',bbcActPrice);
 bbcCalc();
+bbcFetchRate(); // 非同步抓匯率，完成後自動更新
 </script>
