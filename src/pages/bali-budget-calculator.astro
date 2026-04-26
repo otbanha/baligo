@@ -264,7 +264,7 @@ async function bbcFetchRate() {
     return;
   }
   try {
-    const res = await fetch('https://api.frankfurter.app/latest?from=USD&to=IDR');
+    const res = await fetch('/api/exchange-rate');
     const data = await res.json();
     const raw = Math.round(data.rates.IDR);
     BBC_IDR = raw - 400;
