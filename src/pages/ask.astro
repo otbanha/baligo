@@ -1,0 +1,544 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+import { getCollection, render } from 'astro:content';
+import { SITE_URL } from '../consts';
+
+const title = '峇里島求救箱｜你的問題，我幫你搞定';
+const description = '不知道怎麼規劃峇里島？直接問。我們整理真實旅客問題，轉成最實用攻略。簽證、交通、住宿、行程、預算通通都有。';
+const lang = 'zh-tw';
+const basePath = 'ask';
+
+const allQA = await getCollection('qa');
+const featured = allQA
+  .filter(q => q.data.featured)
+  .sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
+const recent = allQA
+  .filter(q => !q.data.featured)
+  .sort((a, b) => (b.data.pubDate?.getTime() ?? 0) - (a.data.pubDate?.getTime() ?? 0))
+  .slice(0, 8);
+
+const allPosts = await getCollection('blog');
+const categoryOrder = ['新手指南','住宿推薦','峇里島分區攻略','簽證通關','叫車包車','家庭親子','遊記分享','美食景點活動','新聞存檔'];
+const allCats = [...new Set(allPosts.flatMap(p => Array.isArray(p.data.category) ? p.data.category : [p.data.category]).filter(Boolean))];
+const categories = [...categoryOrder.filter(c => allCats.includes(c)), ...allCats.filter(c => !categoryOrder.includes(c))];
+
+const qaCategoryMap: Record<string, { label: string; icon: string; slug: string }> = {
+  entry:         { label: '入境 / 簽證',  icon: '🛂', slug: 'entry' },
+  transport:     { label: '交通 / 包車',  icon: '🚗', slug: 'transport' },
+  accommodation: { label: '住宿 / 區域',  icon: '🏨', slug: 'accommodation' },
+  family:        { label: '親子旅遊',     icon: '👨‍👩‍👧', slug: 'family' },
+  itinerary:     { label: '行程安排',     icon: '🌴', slug: 'itinerary' },
+  food:          { label: '餐廳 / 美食',  icon: '🍽', slug: 'food' },
+  budget:        { label: '預算 / 花費',  icon: '💰', slug: 'budget' },
+  weather:       { label: '天氣 / 季節',  icon: '🌦', slug: 'weather' },
+};
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: featured.map(q => ({
+    '@type': 'Question',
+    name: q.data.title,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: q.data.title,
+    },
+  })),
+};
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead title={title} description={description} />
+  <meta property="og:title" content={title} />
+  <meta property="og:description" content={description} />
+  <meta property="og:url" content={`${SITE_URL}/ask/`} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+</head>
+
+<body>
+  <Header lang={lang} basePath={basePath} />
+
+  <!-- Mobile category pills -->
+  <nav class="bbc-pills-nav" aria-label="文章分類">
+    <ul class="bbc-pills-list">
+      <li><a href="/blog/?lang=tw" class="bbc-pill">首頁</a></li>
+      {categories.map(cat => (
+        <li><a href={`/blog/?lang=tw&cat=${encodeURIComponent(cat)}`} class="bbc-pill">{cat}</a></li>
+      ))}
+    </ul>
+  </nav>
+
+  <main>
+
+    <!-- Hero -->
+    <section class="ask-hero">
+      <div class="ask-hero-badge">🆘 求救箱</div>
+      <h1 class="ask-hero-title">峇里島求救箱<br><span class="ask-hero-sub">你的問題，我幫你搞定</span></h1>
+      <p class="ask-hero-desc">不用爬一堆文章，直接問<br>我們整理真實旅客問題，轉成最實用攻略</p>
+      <div class="ask-hero-btns">
+        <a href="#ask-form" class="ask-btn-primary">✉️ 我要發問</a>
+        <a href="#featured-qa" class="ask-btn-secondary">🔥 看熱門問題</a>
+      </div>
+    </section>
+
+    <!-- Category quick nav -->
+    <section class="ask-section" id="categories">
+      <h2 class="ask-section-title">👇 大部分人都卡在這裡</h2>
+      <div class="ask-cat-grid">
+        {Object.values(qaCategoryMap).map(cat => (
+          <a href={`/ask/category/${cat.slug}/`} class="ask-cat-card">
+            <span class="ask-cat-icon">{cat.icon}</span>
+            <span class="ask-cat-label">{cat.label}</span>
+          </a>
+        ))}
+      </div>
+    </section>
+
+    <!-- Featured Q&As -->
+    <section class="ask-section" id="featured-qa">
+      <h2 class="ask-section-title">🔥 最多人問的問題</h2>
+      <div class="ask-qa-list">
+        {featured.map(async (q) => {
+          const { Content } = await render(q);
+          const cat = qaCategoryMap[q.data.category];
+          return (
+            <article class="ask-qa-card">
+              <div class="ask-qa-header">
+                {cat && <span class="ask-qa-cat">{cat.icon} {cat.label}</span>}
+                <h3 class="ask-qa-q"><a href={`/ask/${q.id}/`}>{q.data.title}</a></h3>
+              </div>
+              <div class="ask-qa-body">
+                <Content />
+              </div>
+              <div class="ask-qa-footer">
+                {q.data.relatedSlug && (
+                  <a href={`/${q.data.relatedSlug}/`} class="ask-qa-more">
+                    📖 {q.data.relatedLabel ?? '延伸閱讀'} →
+                  </a>
+                )}
+                <a href={`/ask/${q.id}/`} class="ask-qa-permalink">完整說明 →</a>
+              </div>
+            </article>
+          );
+        })}
+      </div>
+    </section>
+
+    <!-- Submit form -->
+    <section class="ask-section ask-form-section" id="ask-form">
+      <h2 class="ask-section-title">✉️ 有問題，直接丟過來</h2>
+      <p class="ask-form-desc">
+        不管你是第一次來峇里島，還是已經來過幾次但卡關，都可以直接把問題丟過來。<br>
+        我們會整理最常見的問題做成攻略，讓後面的人不用再踩雷。
+      </p>
+      <p class="ask-form-note">👉 你的問題，也可能幫到下一個人</p>
+
+      <!-- Tally 表單 embed — 替換 YOUR_TALLY_FORM_ID 為你的 Tally 表單 ID -->
+      <!-- 到 tally.so 建立免費表單後，把 form ID 貼過來 -->
+      <div class="ask-form-placeholder">
+        <div class="ask-form-fields">
+          <div class="ask-form-field">
+            <label>旅遊日期（例：2026/07）</label>
+            <input type="text" placeholder="2026/07" disabled />
+          </div>
+          <div class="ask-form-field">
+            <label>人數（是否親子）</label>
+            <input type="text" placeholder="例：2大人 / 2大1小" disabled />
+          </div>
+          <div class="ask-form-field">
+            <label>目前卡關的問題 *</label>
+            <textarea rows="4" placeholder="把你的問題直接寫在這裡..." disabled></textarea>
+          </div>
+          <div class="ask-form-field">
+            <label>Email（選填，有完整攻略時通知你）</label>
+            <input type="email" placeholder="your@email.com" disabled />
+          </div>
+          <div class="ask-form-submit-wrap">
+            <a
+              href="https://tally.so/r/YOUR_TALLY_FORM_ID"
+              target="_blank"
+              rel="noopener"
+              class="ask-btn-primary ask-form-cta"
+            >
+              ✉️ 前往發問（Tally 表單）
+            </a>
+            <p class="ask-form-privacy">我們不會寄垃圾信，只在有整理出完整攻略時通知你</p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- Recent questions -->
+    <section class="ask-section" id="recent">
+      <h2 class="ask-section-title">🆕 最近大家在問</h2>
+      <ul class="ask-recent-list">
+        {recent.map(q => {
+          const cat = qaCategoryMap[q.data.category];
+          return (
+            <li class="ask-recent-item">
+              <a href={`/ask/${q.id}/`} class="ask-recent-link">
+                {cat && <span class="ask-recent-cat">{cat.icon}</span>}
+                <span class="ask-recent-title">{q.data.title}</span>
+                <span class="ask-recent-arrow">→</span>
+              </a>
+            </li>
+          );
+        })}
+      </ul>
+    </section>
+
+    <!-- Footer CTA -->
+    <section class="ask-cta-section">
+      <h2 class="ask-cta-title">還是不確定怎麼安排？</h2>
+      <p class="ask-cta-desc">如果你不想自己慢慢拼湊資訊，可以直接用我們的工具快速找到適合的區域與行程。</p>
+      <div class="ask-cta-btns">
+        <a href="/trip-planner/" class="ask-btn-primary">🗓 行程規劃工具</a>
+        <a href="/bali-budget-calculator/" class="ask-btn-secondary">💰 旅費計算器</a>
+      </div>
+    </section>
+
+  </main>
+
+  <Footer />
+</body>
+</html>
+
+<style>
+main {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 0 1rem 5rem;
+  box-sizing: border-box;
+}
+
+/* Hero */
+.ask-hero {
+  text-align: center;
+  padding: 3rem 1rem 2.5rem;
+  border-bottom: 1px solid #f0ede6;
+  margin-bottom: 2.5rem;
+}
+.ask-hero-badge {
+  display: inline-block;
+  background: #fff3cd;
+  color: #856404;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 12px;
+  border-radius: 20px;
+  border: 1px solid #ffc107;
+  margin-bottom: 1rem;
+  letter-spacing: 0.04em;
+}
+.ask-hero-title {
+  font-size: clamp(24px, 5vw, 36px);
+  font-weight: 700;
+  color: var(--ocean, #1A365D);
+  margin: 0 0 0.5rem;
+  line-height: 1.3;
+}
+.ask-hero-sub {
+  font-size: clamp(18px, 3.5vw, 26px);
+  color: var(--gold, #C5A059);
+}
+.ask-hero-desc {
+  color: #666;
+  font-size: 15px;
+  line-height: 1.7;
+  margin: 1rem 0 1.5rem;
+}
+.ask-hero-btns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+
+/* Buttons */
+.ask-btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--ocean, #1A365D);
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+.ask-btn-primary:hover { background: #2a5298; }
+.ask-btn-secondary {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: #fff;
+  color: var(--ocean, #1A365D);
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  border: 1.5px solid var(--ocean, #1A365D);
+  transition: background 0.2s;
+}
+.ask-btn-secondary:hover { background: #f5f2ec; }
+
+/* Sections */
+.ask-section {
+  margin-bottom: 3rem;
+}
+.ask-section-title {
+  font-size: 20px;
+  font-weight: 700;
+  color: var(--ocean, #1A365D);
+  margin: 0 0 1.25rem;
+  padding-bottom: 0.6rem;
+  border-bottom: 2px solid var(--gold, #C5A059);
+  display: inline-block;
+}
+
+/* Category grid */
+.ask-cat-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 10px;
+}
+@media (max-width: 600px) {
+  .ask-cat-grid { grid-template-columns: repeat(2, 1fr); }
+}
+.ask-cat-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 16px 8px;
+  background: #fff;
+  border: 1px solid #e0ddd6;
+  border-radius: 12px;
+  text-decoration: none;
+  transition: border-color 0.2s, box-shadow 0.2s;
+}
+.ask-cat-card:hover {
+  border-color: var(--gold, #C5A059);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+.ask-cat-icon { font-size: 22px; }
+.ask-cat-label {
+  font-size: 13px;
+  font-weight: 600;
+  color: #333;
+  text-align: center;
+}
+
+/* Q&A cards */
+.ask-qa-list {
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+}
+.ask-qa-card {
+  background: #fff;
+  border: 1px solid #e0ddd6;
+  border-radius: 12px;
+  overflow: hidden;
+}
+.ask-qa-header {
+  padding: 16px 20px 0;
+}
+.ask-qa-cat {
+  font-size: 11px;
+  font-weight: 600;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+}
+.ask-qa-q {
+  font-size: 17px;
+  font-weight: 700;
+  color: var(--ocean, #1A365D);
+  margin: 6px 0 0;
+  line-height: 1.4;
+}
+.ask-qa-q a {
+  color: inherit;
+  text-decoration: none;
+}
+.ask-qa-q a:hover { text-decoration: underline; }
+.ask-qa-body {
+  padding: 12px 20px;
+  font-size: 14px;
+  color: #444;
+  line-height: 1.75;
+}
+.ask-qa-body :global(p) { margin: 0 0 0.6em; }
+.ask-qa-body :global(p:last-child) { margin-bottom: 0; }
+.ask-qa-body :global(ul) { margin: 0.4em 0; padding-left: 1.3em; }
+.ask-qa-body :global(li) { margin-bottom: 2px; }
+.ask-qa-body :global(strong) { color: #222; }
+.ask-qa-body :global(table) {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  margin: 0.5em 0;
+}
+.ask-qa-body :global(th) {
+  background: #f5f2ec;
+  padding: 6px 10px;
+  text-align: left;
+  font-weight: 600;
+  border: 1px solid #e0ddd6;
+}
+.ask-qa-body :global(td) {
+  padding: 6px 10px;
+  border: 1px solid #e0ddd6;
+}
+.ask-qa-footer {
+  padding: 10px 20px 16px;
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  border-top: 1px solid #f0ede6;
+}
+.ask-qa-more {
+  font-size: 13px;
+  color: var(--gold, #C5A059);
+  text-decoration: none;
+  font-weight: 600;
+}
+.ask-qa-more:hover { text-decoration: underline; }
+.ask-qa-permalink {
+  font-size: 13px;
+  color: #999;
+  text-decoration: none;
+  margin-left: auto;
+}
+.ask-qa-permalink:hover { color: #555; text-decoration: underline; }
+
+/* Form section */
+.ask-form-section {
+  background: #f8f5f0;
+  border-radius: 16px;
+  padding: 2rem;
+  margin-bottom: 3rem;
+}
+.ask-form-desc {
+  color: #555;
+  font-size: 15px;
+  line-height: 1.7;
+  margin: 0 0 0.5rem;
+}
+.ask-form-note {
+  font-size: 14px;
+  color: var(--ocean, #1A365D);
+  font-weight: 600;
+  margin: 0 0 1.5rem;
+}
+.ask-form-fields {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+}
+.ask-form-field label {
+  display: block;
+  font-size: 13px;
+  font-weight: 600;
+  color: #555;
+  margin-bottom: 5px;
+}
+.ask-form-field input,
+.ask-form-field textarea {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  font-size: 14px;
+  background: #fafaf8;
+  color: #aaa;
+  box-sizing: border-box;
+  font-family: inherit;
+}
+.ask-form-field textarea { resize: vertical; }
+.ask-form-submit-wrap {
+  text-align: center;
+  padding-top: 6px;
+}
+.ask-form-cta {
+  font-size: 16px;
+  padding: 14px 32px;
+}
+.ask-form-privacy {
+  font-size: 12px;
+  color: #999;
+  margin: 10px 0 0;
+}
+
+/* Recent list */
+.ask-recent-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  border: 1px solid #e0ddd6;
+  border-radius: 12px;
+  overflow: hidden;
+}
+.ask-recent-item { border-bottom: 1px solid #f0ede6; }
+.ask-recent-item:last-child { border-bottom: none; }
+.ask-recent-link {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 14px 18px;
+  text-decoration: none;
+  color: #333;
+  font-size: 15px;
+  transition: background 0.15s;
+}
+.ask-recent-link:hover { background: #f8f5f0; }
+.ask-recent-cat { font-size: 18px; flex-shrink: 0; }
+.ask-recent-title { flex: 1; font-weight: 500; }
+.ask-recent-arrow { color: #ccc; font-size: 14px; }
+
+/* Footer CTA */
+.ask-cta-section {
+  text-align: center;
+  padding: 2.5rem 1rem;
+  background: linear-gradient(135deg, #1A365D 0%, #2a5298 100%);
+  border-radius: 16px;
+  color: #fff;
+}
+.ask-cta-title {
+  font-size: 22px;
+  font-weight: 700;
+  margin: 0 0 0.75rem;
+  color: #fff;
+}
+.ask-cta-desc {
+  font-size: 15px;
+  color: rgba(255,255,255,0.85);
+  margin: 0 0 1.5rem;
+  line-height: 1.6;
+}
+.ask-cta-btns {
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.ask-cta-section .ask-btn-primary {
+  background: var(--gold, #C5A059);
+  color: #fff;
+}
+.ask-cta-section .ask-btn-primary:hover { background: #d4b47a; }
+.ask-cta-section .ask-btn-secondary {
+  border-color: rgba(255,255,255,0.6);
+  color: #fff;
+  background: transparent;
+}
+.ask-cta-section .ask-btn-secondary:hover { background: rgba(255,255,255,0.1); }
+</style>

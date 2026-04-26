@@ -68,8 +68,21 @@ const en = defineCollection({
   schema: translatedSchema,
 });
 
+const qa = defineCollection({
+  loader: glob({ base: './src/content/qa', pattern: '**/*.{md,mdx}' }),
+  schema: z.object({
+    title: z.string(),
+    category: z.string(),
+    relatedSlug: z.string().optional(),
+    relatedLabel: z.string().optional(),
+    featured: z.boolean().optional(),
+    order: z.number().optional(),
+    pubDate: z.coerce.date().optional(),
+  }),
+});
+
 export const collections = {
-  blog, blocks, promotions,
+  blog, blocks, promotions, qa,
   'zh-cn': zhcn,
   'zh-hk': zhhk,
   'en': en,

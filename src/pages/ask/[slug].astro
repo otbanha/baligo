@@ -1,0 +1,297 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection, render } from 'astro:content';
+import { SITE_URL } from '../../consts';
+
+export async function getStaticPaths() {
+  const allQA = await getCollection('qa');
+  return allQA.map(q => ({
+    params: { slug: q.id },
+    props: { q },
+  }));
+}
+
+const { q } = Astro.props;
+const { Content } = await render(q);
+
+const qaCategoryMap: Record<string, { label: string; icon: string; slug: string }> = {
+  entry:         { label: '入境 / 簽證',  icon: '🛂', slug: 'entry' },
+  transport:     { label: '交通 / 包車',  icon: '🚗', slug: 'transport' },
+  accommodation: { label: '住宿 / 區域',  icon: '🏨', slug: 'accommodation' },
+  family:        { label: '親子旅遊',     icon: '👨‍👩‍👧', slug: 'family' },
+  itinerary:     { label: '行程安排',     icon: '🌴', slug: 'itinerary' },
+  food:          { label: '餐廳 / 美食',  icon: '🍽', slug: 'food' },
+  budget:        { label: '預算 / 花費',  icon: '💰', slug: 'budget' },
+  weather:       { label: '天氣 / 季節',  icon: '🌦', slug: 'weather' },
+};
+
+const cat = qaCategoryMap[q.data.category];
+
+const allQA = await getCollection('qa');
+const related = allQA
+  .filter(r => r.id !== q.id && r.data.category === q.data.category)
+  .slice(0, 4);
+
+const faqSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  mainEntity: [{
+    '@type': 'Question',
+    name: q.data.title,
+    acceptedAnswer: {
+      '@type': 'Answer',
+      text: q.data.title,
+    },
+  }],
+};
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead title={`${q.data.title} — 峇里島求救箱`} description={`峇里島旅遊問答：${q.data.title}。實用解答，幫你規劃無障礙的峇里島旅程。`} />
+  <meta property="og:title" content={`${q.data.title} — 峇里島求救箱`} />
+  <meta property="og:url" content={`${SITE_URL}/ask/${q.id}/`} />
+  <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />
+</head>
+
+<body>
+  <Header lang="zh-tw" basePath="ask" />
+
+  <main>
+
+    <!-- Breadcrumb -->
+    <nav class="qa-breadcrumb" aria-label="breadcrumb">
+      <a href="/ask/">求救箱</a>
+      {cat && (
+        <>
+          <span>›</span>
+          <a href={`/ask/category/${cat.slug}/`}>{cat.icon} {cat.label}</a>
+        </>
+      )}
+      <span>›</span>
+      <span aria-current="page">{q.data.title}</span>
+    </nav>
+
+    <!-- Question -->
+    <article class="qa-article">
+      <header class="qa-header">
+        {cat && <span class="qa-cat-badge">{cat.icon} {cat.label}</span>}
+        <h1 class="qa-title">{q.data.title}</h1>
+      </header>
+
+      <div class="qa-answer">
+        <div class="qa-answer-label">📋 快速解答</div>
+        <Content />
+      </div>
+
+      {q.data.relatedSlug && (
+        <div class="qa-related-article">
+          <span class="qa-related-label">延伸閱讀</span>
+          <a href={`/${q.data.relatedSlug}/`} class="qa-related-link">
+            📖 {q.data.relatedLabel ?? '完整攻略'} →
+          </a>
+        </div>
+      )}
+    </article>
+
+    <!-- Related questions -->
+    {related.length > 0 && (
+      <section class="qa-related-section">
+        <h2 class="qa-related-title">同類問題</h2>
+        <ul class="qa-related-list">
+          {related.map(r => (
+            <li>
+              <a href={`/ask/${r.id}/`} class="qa-related-q">
+                {r.data.title} →
+              </a>
+            </li>
+          ))}
+        </ul>
+      </section>
+    )}
+
+    <!-- Ask your own -->
+    <section class="qa-ask-cta">
+      <p>沒找到你要的答案？</p>
+      <a href="/ask/#ask-form" class="ask-btn-primary">✉️ 直接發問</a>
+    </section>
+
+  </main>
+
+  <Footer />
+</body>
+</html>
+
+<style>
+main {
+  max-width: 680px;
+  margin: 0 auto;
+  padding: 1.5rem 1rem 5rem;
+  box-sizing: border-box;
+}
+
+/* Breadcrumb */
+.qa-breadcrumb {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-size: 13px;
+  color: #999;
+  margin-bottom: 1.5rem;
+  flex-wrap: wrap;
+}
+.qa-breadcrumb a {
+  color: var(--gold, #C5A059);
+  text-decoration: none;
+}
+.qa-breadcrumb a:hover { text-decoration: underline; }
+
+/* Article */
+.qa-article {
+  margin-bottom: 2rem;
+}
+.qa-header { margin-bottom: 1rem; }
+.qa-cat-badge {
+  display: inline-block;
+  font-size: 12px;
+  font-weight: 600;
+  color: #666;
+  background: #f5f2ec;
+  padding: 3px 10px;
+  border-radius: 20px;
+  margin-bottom: 10px;
+}
+.qa-title {
+  font-size: clamp(20px, 4vw, 28px);
+  font-weight: 700;
+  color: var(--ocean, #1A365D);
+  line-height: 1.3;
+  margin: 0;
+}
+
+/* Answer block */
+.qa-answer {
+  background: #fff;
+  border: 1px solid #e0ddd6;
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1rem;
+}
+.qa-answer-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: #888;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-bottom: 12px;
+}
+.qa-answer :global(p) { margin: 0 0 0.8em; color: #333; line-height: 1.8; }
+.qa-answer :global(p:last-child) { margin-bottom: 0; }
+.qa-answer :global(ul) { padding-left: 1.4em; margin: 0.4em 0; }
+.qa-answer :global(li) { margin-bottom: 4px; color: #333; line-height: 1.7; }
+.qa-answer :global(strong) { color: #111; }
+.qa-answer :global(table) {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 13px;
+  margin: 0.75em 0;
+  overflow-x: auto;
+  display: block;
+}
+.qa-answer :global(th) {
+  background: #f5f2ec;
+  padding: 8px 12px;
+  text-align: left;
+  font-weight: 600;
+  border: 1px solid #e0ddd6;
+}
+.qa-answer :global(td) {
+  padding: 8px 12px;
+  border: 1px solid #e0ddd6;
+}
+
+/* Related article link */
+.qa-related-article {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 12px 16px;
+  background: #f8f5f0;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+.qa-related-label {
+  font-size: 12px;
+  font-weight: 600;
+  color: #888;
+  white-space: nowrap;
+}
+.qa-related-link {
+  font-size: 14px;
+  color: var(--gold, #C5A059);
+  font-weight: 600;
+  text-decoration: none;
+}
+.qa-related-link:hover { text-decoration: underline; }
+
+/* Related questions */
+.qa-related-section {
+  margin-bottom: 2rem;
+  padding: 1.25rem 1.5rem;
+  background: #fff;
+  border: 1px solid #e0ddd6;
+  border-radius: 12px;
+}
+.qa-related-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: #555;
+  margin: 0 0 1rem;
+}
+.qa-related-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+}
+.qa-related-q {
+  font-size: 14px;
+  color: var(--ocean, #1A365D);
+  text-decoration: none;
+  font-weight: 500;
+}
+.qa-related-q:hover { text-decoration: underline; }
+
+/* Ask CTA */
+.qa-ask-cta {
+  text-align: center;
+  padding: 1.5rem;
+  background: #f8f5f0;
+  border-radius: 12px;
+}
+.qa-ask-cta p {
+  font-size: 15px;
+  color: #555;
+  margin: 0 0 1rem;
+}
+
+/* Shared button */
+.ask-btn-primary {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  background: var(--ocean, #1A365D);
+  color: #fff;
+  padding: 12px 24px;
+  border-radius: 8px;
+  font-size: 15px;
+  font-weight: 600;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+.ask-btn-primary:hover { background: #2a5298; }
+</style>
