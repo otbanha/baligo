@@ -16,15 +16,15 @@ export async function getStaticPaths() {
 const { q } = Astro.props;
 const { Content } = await render(q);
 
-const qaCategoryMap: Record<string, { label: string; icon: string; slug: string }> = {
-  entry:         { label: '入境 / 簽證',  icon: '🛂', slug: 'entry' },
-  transport:     { label: '交通 / 包車',  icon: '🚗', slug: 'transport' },
-  accommodation: { label: '住宿 / 區域',  icon: '🏨', slug: 'accommodation' },
-  family:        { label: '親子旅遊',     icon: '👨‍👩‍👧', slug: 'family' },
-  itinerary:     { label: '行程安排',     icon: '🌴', slug: 'itinerary' },
-  food:          { label: '餐廳 / 美食',  icon: '🍽', slug: 'food' },
-  budget:        { label: '預算 / 花費',  icon: '💰', slug: 'budget' },
-  weather:       { label: '天氣 / 季節',  icon: '🌦', slug: 'weather' },
+const qaCategoryMap: Record<string, { label: string; icon: string; blogCat: string }> = {
+  entry:         { label: '入境 / 簽證',  icon: '🛂', blogCat: '簽證通關' },
+  transport:     { label: '交通 / 包車',  icon: '🚗', blogCat: '叫車包車' },
+  accommodation: { label: '住宿 / 區域',  icon: '🏨', blogCat: '住宿推薦' },
+  family:        { label: '親子旅遊',     icon: '👨‍👩‍👧', blogCat: '家庭親子' },
+  itinerary:     { label: '行程安排',     icon: '🌴', blogCat: '新手指南' },
+  food:          { label: '餐廳 / 美食',  icon: '🍽', blogCat: '美食景點活動' },
+  budget:        { label: '預算 / 花費',  icon: '💰', blogCat: '新手指南' },
+  weather:       { label: '天氣 / 季節',  icon: '🌦', blogCat: '新手指南' },
 };
 
 const cat = qaCategoryMap[q.data.category];
@@ -67,7 +67,7 @@ const faqSchema = {
       {cat && (
         <>
           <span>›</span>
-          <a href={`/ask/category/${cat.slug}/`}>{cat.icon} {cat.label}</a>
+          <a href={`/blog/?lang=tw&cat=${encodeURIComponent(cat.blogCat)}`}>{cat.icon} {cat.label}</a>
         </>
       )}
       <span>›</span>

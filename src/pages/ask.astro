@@ -19,20 +19,15 @@ const recent = allQA
   .sort((a, b) => (b.data.pubDate?.getTime() ?? 0) - (a.data.pubDate?.getTime() ?? 0))
   .slice(0, 8);
 
-const allPosts = await getCollection('blog');
-const categoryOrder = ['新手指南','住宿推薦','峇里島分區攻略','簽證通關','叫車包車','家庭親子','遊記分享','美食景點活動','新聞存檔'];
-const allCats = [...new Set(allPosts.flatMap(p => Array.isArray(p.data.category) ? p.data.category : [p.data.category]).filter(Boolean))];
-const categories = [...categoryOrder.filter(c => allCats.includes(c)), ...allCats.filter(c => !categoryOrder.includes(c))];
-
-const qaCategoryMap: Record<string, { label: string; icon: string; slug: string }> = {
-  entry:         { label: '入境 / 簽證',  icon: '🛂', slug: 'entry' },
-  transport:     { label: '交通 / 包車',  icon: '🚗', slug: 'transport' },
-  accommodation: { label: '住宿 / 區域',  icon: '🏨', slug: 'accommodation' },
-  family:        { label: '親子旅遊',     icon: '👨‍👩‍👧', slug: 'family' },
-  itinerary:     { label: '行程安排',     icon: '🌴', slug: 'itinerary' },
-  food:          { label: '餐廳 / 美食',  icon: '🍽', slug: 'food' },
-  budget:        { label: '預算 / 花費',  icon: '💰', slug: 'budget' },
-  weather:       { label: '天氣 / 季節',  icon: '🌦', slug: 'weather' },
+const qaCategoryMap: Record<string, { label: string; icon: string; blogCat: string }> = {
+  entry:         { label: '入境 / 簽證',  icon: '🛂', blogCat: '簽證通關' },
+  transport:     { label: '交通 / 包車',  icon: '🚗', blogCat: '叫車包車' },
+  accommodation: { label: '住宿 / 區域',  icon: '🏨', blogCat: '住宿推薦' },
+  family:        { label: '親子旅遊',     icon: '👨‍👩‍👧', blogCat: '家庭親子' },
+  itinerary:     { label: '行程安排',     icon: '🌴', blogCat: '新手指南' },
+  food:          { label: '餐廳 / 美食',  icon: '🍽', blogCat: '美食景點活動' },
+  budget:        { label: '預算 / 花費',  icon: '💰', blogCat: '新手指南' },
+  weather:       { label: '天氣 / 季節',  icon: '🌦', blogCat: '新手指南' },
 };
 
 const faqSchema = {
@@ -61,16 +56,6 @@ const faqSchema = {
 <body>
   <Header lang={lang} basePath={basePath} />
 
-  <!-- Mobile category pills -->
-  <nav class="bbc-pills-nav" aria-label="文章分類">
-    <ul class="bbc-pills-list">
-      <li><a href="/blog/?lang=tw" class="bbc-pill">首頁</a></li>
-      {categories.map(cat => (
-        <li><a href={`/blog/?lang=tw&cat=${encodeURIComponent(cat)}`} class="bbc-pill">{cat}</a></li>
-      ))}
-    </ul>
-  </nav>
-
   <main>
 
     <!-- Hero -->
@@ -89,7 +74,7 @@ const faqSchema = {
       <h2 class="ask-section-title">👇 大部分人都卡在這裡</h2>
       <div class="ask-cat-grid">
         {Object.values(qaCategoryMap).map(cat => (
-          <a href={`/ask/category/${cat.slug}/`} class="ask-cat-card">
+          <a href={`/blog/?lang=tw&cat=${encodeURIComponent(cat.blogCat)}`} class="ask-cat-card">
             <span class="ask-cat-icon">{cat.icon}</span>
             <span class="ask-cat-label">{cat.label}</span>
           </a>
@@ -158,7 +143,7 @@ const faqSchema = {
           </div>
           <div class="ask-form-submit-wrap">
             <a
-              href="https://tally.so/r/YOUR_TALLY_FORM_ID"
+              href="https://tally.so/r/ja00d6"
               target="_blank"
               rel="noopener"
               class="ask-btn-primary ask-form-cta"
