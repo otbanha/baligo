@@ -86,12 +86,21 @@ const faqSchema = {
         <Content />
       </div>
 
-      {q.data.relatedSlug && (
+      {(q.data.relatedLinks?.length || q.data.relatedSlug) && (
         <div class="qa-related-article">
           <span class="qa-related-label">延伸閱讀</span>
-          <a href={`/${q.data.relatedSlug}/`} class="qa-related-link">
-            📖 {q.data.relatedLabel ?? '完整攻略'} →
-          </a>
+          <div class="qa-related-links">
+            {q.data.relatedLinks
+              ? q.data.relatedLinks.map(l => (
+                  <a href={`/${l.slug}/`} class="qa-related-link">📖 {l.label} →</a>
+                ))
+              : (
+                  <a href={`/${q.data.relatedSlug}/`} class="qa-related-link">
+                    📖 {q.data.relatedLabel ?? '完整攻略'} →
+                  </a>
+                )
+            }
+          </div>
         </div>
       )}
     </article>
@@ -215,12 +224,17 @@ main {
 /* Related article link */
 .qa-related-article {
   display: flex;
-  align-items: center;
+  align-items: flex-start;
   gap: 10px;
   padding: 12px 16px;
   background: #f8f5f0;
   border-radius: 8px;
   margin-bottom: 1rem;
+}
+.qa-related-links {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
 }
 .qa-related-label {
   font-size: 12px;

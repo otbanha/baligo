@@ -75,6 +75,10 @@ const qa = defineCollection({
     category: z.string(),
     relatedSlug: z.string().optional(),
     relatedLabel: z.string().optional(),
+    relatedLinks: z.array(z.object({
+      slug: z.string(),
+      label: z.string(),
+    })).optional(),
     featured: z.boolean().optional(),
     order: z.number().optional(),
     pubDate: z.coerce.date().optional(),
