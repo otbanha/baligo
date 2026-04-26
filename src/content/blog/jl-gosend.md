@@ -35,7 +35,7 @@ embeds: []
 
 ***
 
-引用自jefflin8008: 
+引用自jefflin8008:
 
 ## 🎒一顆被遺忘的頸枕
 
@@ -119,7 +119,7 @@ https://youtu.be/ByGkcmys01g
 👉 約1小時
 👉 僅110台幣
 
-![raw-image](https://images.gobaligo.id/images/2026-04/1777187885962-screenshot_20260426_133622.jpg) 
+![raw-image](https://images.gobaligo.id/images/2026-04/1777187885962-screenshot_20260426_133622.jpg)
 
 最終，他們決定透過平台額外補上30,000印尼盾作為小費，表達感謝。
 
