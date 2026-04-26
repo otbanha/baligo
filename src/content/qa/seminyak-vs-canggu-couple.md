@@ -1,6 +1,11 @@
 ---
 title: 水明漾還是 Canggu 比較適合情侶？
 category: accommodation
+relatedLinks:
+- slug: go/seminyak-guide
+  label: 水明漾完整攻略
+- slug: go/canggu-guide
+  label: Canggu 完整攻略
 featured: false
 pubDate: 2026-04-26
 ---

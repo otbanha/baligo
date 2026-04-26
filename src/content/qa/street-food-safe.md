@@ -1,6 +1,9 @@
 ---
-title: 路邊攤可以吃嗎？
+title: 路邊攤可以吃嗎？Bali belly怎麼處理？
 category: food
+relatedLinks:
+- slug: go/bali-belly
+  label: Bali Belly 峇里島腹瀉/腸胃炎/髒水病如何自救?Bali Belly 紓解成藥攻略
 featured: false
 pubDate: 2026-04-26
 ---

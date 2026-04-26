@@ -29,7 +29,7 @@ embeds: []
 
 這篇整理 12 間，分成兩大類：**靠近市區**的 10 間和**靠近機場**的 2 間，讓你依照自己的旅遊需求對號入座。
 
-**_PS. 如果妳想找的是海灘旁的庫塔飯店？請看_**[**_這裡_**](https://gobaligo.id/blog/kuta-beach-hotels/)
+**PS. 如果妳想找的是海灘旁的庫塔飯店？請看**[**這裡**](https://gobaligo.id/blog/kuta-beach-hotels/)
 
 ***
 
