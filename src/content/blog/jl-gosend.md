@@ -174,6 +174,8 @@ https://youtu.be/ByGkcmys01g
 有時候，一個看似微小的工具，
 真的能拯救整趟旅程。
 
+※本文故事靈感來自 Threads 用戶分享，已進行改寫整理。
+
 {{block:klook}}
 
 ***
