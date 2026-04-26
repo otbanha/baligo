@@ -99,6 +99,9 @@ const faqSchema = {
                 <Content />
               </div>
               <div class="ask-qa-footer">
+                {(q.data.relatedLinks?.length || q.data.relatedSlug) && (
+                  <span class="ask-qa-ref-label">完整說明請參考：</span>
+                )}
                 <div class="ask-qa-links">
                   {q.data.relatedLinks
                     ? q.data.relatedLinks.map(l => (
@@ -392,8 +395,8 @@ main {
 .ask-qa-footer {
   padding: 10px 20px 16px;
   display: flex;
-  align-items: flex-start;
-  gap: 16px;
+  flex-direction: column;
+  gap: 6px;
   border-top: 1px solid #f0ede6;
 }
 .ask-qa-links {
@@ -401,6 +404,11 @@ main {
   flex-direction: column;
   gap: 4px;
   flex: 1;
+}
+.ask-qa-ref-label {
+  font-size: 12px;
+  color: #999;
+  font-weight: 500;
 }
 .ask-qa-more {
   font-size: 13px;
