@@ -174,7 +174,7 @@ https://youtu.be/ByGkcmys01g
 有時候，一個看似微小的工具，
 真的能拯救整趟旅程。
 
-※本文故事靈感來自 Threads 用戶分享，已進行改寫整理。
+※本文故事靈感來自 [Threads 用戶分享](https://www.threads.com/@jefflin8008/post/DXlZVEYEc6s?xmt=AQF0IpSuVLS5uQWZc04wQ1l2ZEPQha9O967cpv-QfdCCCw)，原作同意改寫整理。
 
 {{block:klook}}
 
