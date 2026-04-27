@@ -28,7 +28,7 @@ tags:
   - Bali travel tips
   - Bali Gojek GoSend
   - Bali delivery service
-heroImage: >-
+heroImage: https://images.gobaligo.id/images/2026-04/1777187667446-chatgpt_image_2026_4_26_02_10_06.png
   https://images.gobaligo.id/images/2026-04/1777187667446-chatgpt_image_2026_4_26_02_10_06.png
 originalUrl: ''
 private: false
