@@ -128,6 +128,10 @@ const { Content: BaliNewsContent } = baliNewsRaw
   ? await render(baliNewsRaw)
   : { Content: null };
 
+// 求救箱問題（隨機顯示用）
+const qaCollection = await getCollection('qa');
+const qaData = qaCollection.map(q => ({ title: q.data.title }));
+
 // Top 5 文章
 const top5Posts = top5Data.articles
   .map(id => allPosts.find(p => p.id === id))
@@ -399,6 +403,16 @@ const socialLinks = [
 
       </div>
 
+      <!-- 求救箱隨機問題 -->
+      <div class="qa-widget" id="qa-widget">
+        <div class="qa-widget-header">
+          <span class="qa-widget-title">🆘 其他人也在問這些問題</span>
+          <a href="/ask/" class="qa-widget-more">看全部 →</a>
+        </div>
+        <ul class="qa-widget-list" id="qa-widget-list"></ul>
+        <a href="/ask/" class="qa-widget-cta">✉️ 我也有問題想問</a>
+      </div>
+
       <!-- 分類大標題 -->
       <div id="cat-heading" style="display:none">
         <h1 id="cat-heading-text" class="cat-heading-title"></h1>
@@ -455,7 +469,7 @@ const socialLinks = [
   <Footer />
 </body>
 
-<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts }}>
+<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts, qaData }}>
   window.addEventListener('DOMContentLoaded', () => {
 
     // Sidebar 收合（手機版）
@@ -697,6 +711,22 @@ const socialLinks = [
     applyState(catParam, pageParam, qParam);
 
   });
+
+  // 求救箱隨機問題
+  (function() {
+    const list = document.getElementById('qa-widget-list');
+    if (!list || !qaData || !qaData.length) return;
+    const shuffled = [...qaData].sort(() => Math.random() - 0.5).slice(0, 4);
+    shuffled.forEach(q => {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = '/ask/';
+      a.textContent = q.title;
+      li.appendChild(a);
+      list.appendChild(li);
+    });
+  })();
+
 </script>
 </html>
 
@@ -1175,6 +1205,70 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 }
 .news-body :global(a) { color: var(--gold); }
 .news-body :global(strong), .news-body :global(b) { color: rgba(255,255,255,0.95); }
+
+/* 求救箱 widget */
+.qa-widget {
+  background: #f8f5f0;
+  border: 1px solid #e0ddd6;
+  border-radius: 12px;
+  padding: 18px 20px;
+  margin-bottom: 24px;
+}
+.qa-widget-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 12px;
+}
+.qa-widget-title {
+  font-size: 15px;
+  font-weight: 700;
+  color: var(--ocean, #1A365D);
+}
+.qa-widget-more {
+  font-size: 13px;
+  color: var(--gold, #C5A059);
+  font-weight: 600;
+  text-decoration: none;
+}
+.qa-widget-more:hover { text-decoration: underline; }
+.qa-widget-list {
+  list-style: none;
+  margin: 0 0 14px;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+.qa-widget-list li a {
+  display: block;
+  padding: 8px 12px;
+  border-radius: 8px;
+  font-size: 14px;
+  color: #333;
+  text-decoration: none;
+  background: #fff;
+  border: 1px solid #e8e4dc;
+  transition: border-color 0.15s, background 0.15s;
+}
+.qa-widget-list li a:hover {
+  border-color: var(--gold, #C5A059);
+  background: #fffdf8;
+  color: var(--ocean, #1A365D);
+}
+.qa-widget-list li a::before { content: "❓ "; }
+.qa-widget-cta {
+  display: inline-block;
+  font-size: 13px;
+  font-weight: 600;
+  color: #fff;
+  background: var(--ocean, #1A365D);
+  padding: 8px 18px;
+  border-radius: 8px;
+  text-decoration: none;
+  transition: background 0.2s;
+}
+.qa-widget-cta:hover { background: #2a5298; color: #fff; }
 </style>
 <script define:vars={{ promosJson }}>
 window.addEventListener('load', () => {
