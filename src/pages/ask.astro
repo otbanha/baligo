@@ -11,13 +11,12 @@ const lang = 'zh-tw';
 const basePath = 'ask';
 
 const allQA = await getCollection('qa');
-const featured = allQA
-  .filter(q => q.data.featured)
-  .sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99));
-const recent = allQA
-  .filter(q => !q.data.featured)
-  .sort((a, b) => (b.data.pubDate?.getTime() ?? 0) - (a.data.pubDate?.getTime() ?? 0))
-  .slice(0, 8);
+// featured first (by order), then non-featured (by date)
+const sortedQA = [
+  ...allQA.filter(q => q.data.featured).sort((a, b) => (a.data.order ?? 99) - (b.data.order ?? 99)),
+  ...allQA.filter(q => !q.data.featured).sort((a, b) => (b.data.pubDate?.getTime() ?? 0) - (a.data.pubDate?.getTime() ?? 0)),
+];
+const featured = allQA.filter(q => q.data.featured);
 
 const qaCategoryMap: Record<string, { label: string; icon: string; blogCat: string }> = {
   entry:         { label: '入境 / 簽證',  icon: '🛂', blogCat: '簽證通關' },
@@ -86,15 +85,16 @@ const faqSchema = {
       </div>
     </section>
 
-    <!-- Featured Q&As -->
+    <!-- All Q&As (unified, filterable) -->
     <section class="ask-section" id="featured-qa">
       <h2 class="ask-section-title" id="qa-section-title">🔥 最多人問的問題</h2>
       <div class="ask-qa-list" id="qa-list">
-        {featured.map(async (q) => {
+        {sortedQA.map(async (q) => {
           const { Content } = await render(q);
           const cat = qaCategoryMap[q.data.category];
+          const isFeatured = q.data.featured ? 'true' : 'false';
           return (
-            <article class="ask-qa-card" data-category={q.data.category}>
+            <article class="ask-qa-card" data-category={q.data.category} data-featured={isFeatured}>
               <div class="ask-qa-header">
                 {cat && <span class="ask-qa-cat">{cat.icon} {cat.label}</span>}
                 <h3 class="ask-qa-q"><a href={`/ask/${q.id}/`}>{q.data.title}</a></h3>
@@ -150,25 +150,6 @@ const faqSchema = {
       <p class="ask-form-privacy">我們不會寄垃圾信，只在有整理出完整攻略時通知你</p>
     </section>
 
-    <!-- Recent questions -->
-    <section class="ask-section" id="recent">
-      <h2 class="ask-section-title">🆕 最近大家在問</h2>
-      <ul class="ask-recent-list" id="recent-list">
-        {recent.map(q => {
-          const cat = qaCategoryMap[q.data.category];
-          return (
-            <li class="ask-recent-item" data-category={q.data.category}>
-              <a href={`/ask/${q.id}/`} class="ask-recent-link">
-                {cat && <span class="ask-recent-cat">{cat.icon}</span>}
-                <span class="ask-recent-title">{q.data.title}</span>
-                <span class="ask-recent-arrow">→</span>
-              </a>
-            </li>
-          );
-        })}
-      </ul>
-    </section>
-
     <!-- Footer CTA -->
     <section class="ask-cta-section">
       <h2 class="ask-cta-title">還是不確定怎麼安排？</h2>
@@ -187,8 +168,7 @@ const faqSchema = {
 
 <script>
   const catBtns = document.querySelectorAll<HTMLButtonElement>('.ask-cat-card[data-cat]');
-  const qaCards = document.querySelectorAll<HTMLElement>('#qa-list .ask-qa-card[data-category]');
-  const recentItems = document.querySelectorAll<HTMLElement>('#recent-list .ask-recent-item[data-category]');
+  const qaCards = document.querySelectorAll<HTMLElement>('#qa-list .ask-qa-card');
   const sectionTitle = document.getElementById('qa-section-title');
 
   const categoryLabels: Record<string, string> = {
@@ -207,24 +187,21 @@ const faqSchema = {
     btn.addEventListener('click', () => {
       const selected = btn.dataset.cat ?? 'all';
 
-      // update active button
       catBtns.forEach(b => b.classList.remove('active'));
       btn.classList.add('active');
 
-      // update section title
       if (sectionTitle) sectionTitle.textContent = categoryLabels[selected] ?? '';
 
-      // filter Q&A cards
       qaCards.forEach(card => {
-        card.style.display = (selected === 'all' || card.dataset.category === selected) ? '' : 'none';
+        if (selected === 'all') {
+          // default: only show featured
+          card.style.display = card.dataset.featured === 'true' ? '' : 'none';
+        } else {
+          // category selected: show all in that category
+          card.style.display = card.dataset.category === selected ? '' : 'none';
+        }
       });
 
-      // filter recent items
-      recentItems.forEach(item => {
-        item.style.display = (selected === 'all' || item.dataset.category === selected) ? '' : 'none';
-      });
-
-      // scroll to Q&A section smoothly
       document.getElementById('featured-qa')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
     });
   });
