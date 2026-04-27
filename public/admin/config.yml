@@ -22,6 +22,7 @@ collections:
     thumbnail_field: heroImage
     fields:
       - { label: 標題, name: title, widget: string }
+      - { label: 自訂網址 Slug（選填）, name: slug, widget: string, required: false, hint: "留空則自動以檔名（時間戳）為網址，填入後網址變為 /blog/你的slug/" }
       - { label: 描述, name: description, widget: text, required: false }
       - label: 發佈日期
         name: pubDate

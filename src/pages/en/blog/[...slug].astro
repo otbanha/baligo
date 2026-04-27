@@ -11,7 +11,7 @@ export async function getStaticPaths() {
   const langMap = new Map(langPosts.map(p => [p.id, p]));
 
   return blogPosts.map((blogPost) => ({
-    params: { slug: blogPost.id },
+    params: { slug: blogPost.data.slug || blogPost.id },
     props: {
       post: langMap.get(blogPost.id) ?? blogPost,
     },
