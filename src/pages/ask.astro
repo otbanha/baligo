@@ -130,39 +130,20 @@ const faqSchema = {
       </p>
       <p class="ask-form-note">👉 你的問題，也可能幫到下一個人</p>
 
-      <!-- Tally 表單 embed — 替換 YOUR_TALLY_FORM_ID 為你的 Tally 表單 ID -->
-      <!-- 到 tally.so 建立免費表單後，把 form ID 貼過來 -->
-      <div class="ask-form-placeholder">
-        <div class="ask-form-fields">
-          <div class="ask-form-field">
-            <label>旅遊日期（例：2026/07）</label>
-            <input type="text" placeholder="2026/07" disabled />
-          </div>
-          <div class="ask-form-field">
-            <label>人數（是否親子）</label>
-            <input type="text" placeholder="例：2大人 / 2大1小" disabled />
-          </div>
-          <div class="ask-form-field">
-            <label>目前卡關的問題 *</label>
-            <textarea rows="4" placeholder="把你的問題直接寫在這裡..." disabled></textarea>
-          </div>
-          <div class="ask-form-field">
-            <label>Email（選填，有完整攻略時通知你）</label>
-            <input type="email" placeholder="your@email.com" disabled />
-          </div>
-          <div class="ask-form-submit-wrap">
-            <a
-              href="https://tally.so/r/ja00d6"
-              target="_blank"
-              rel="noopener"
-              class="ask-btn-primary ask-form-cta"
-            >
-              ✉️ 前往發問（Tally 表單）
-            </a>
-            <p class="ask-form-privacy">我們不會寄垃圾信，只在有整理出完整攻略時通知你</p>
-          </div>
-        </div>
-      </div>
+      <iframe
+        data-tally-src="https://tally.so/embed/ja00d6?alignLeft=1&hideTitle=1&transparentBackground=1&dynamicHeight=1"
+        loading="lazy"
+        width="100%"
+        height="400"
+        frameborder="0"
+        marginheight="0"
+        marginwidth="0"
+        title="峇里島求救箱發問表單"
+      ></iframe>
+      <script>
+        var d=document,w="https://tally.so/widgets/embed.js",v=function(){"undefined"!=typeof Tally?Tally.loadEmbeds():d.querySelectorAll("iframe[data-tally-src]:not([src])").forEach((function(e){e.src=e.dataset.tallySrc}))};if("undefined"!=typeof Tally)v();else if(d.querySelector('script[src="'+w+'"]')==null){var s=d.createElement("script");s.src=w,s.onload=v,s.onerror=v,d.body.appendChild(s);}
+      </script>
+      <p class="ask-form-privacy">我們不會寄垃圾信，只在有整理出完整攻略時通知你</p>
     </section>
 
     <!-- Recent questions -->
