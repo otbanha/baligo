@@ -8,8 +8,7 @@ relatedLinks:
   label: 庫塔海灘的 18 間精選飯店
 - slug: 2024-01-10-659cf4a5fd89780001d6fb69/
   label: 烏布精選 55 項小朋友最愛活動
-featured: true
-order: 1
+featured: false
 pubDate: 2026-04-26
 ---
 
