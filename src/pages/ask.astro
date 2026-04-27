@@ -69,28 +69,32 @@ const faqSchema = {
       </div>
     </section>
 
-    <!-- Category quick nav -->
+    <!-- Category filter -->
     <section class="ask-section" id="categories">
       <h2 class="ask-section-title">👇 大部分人都卡在這裡</h2>
       <div class="ask-cat-grid">
-        {Object.values(qaCategoryMap).map(cat => (
-          <a href={`/blog/?lang=tw&cat=${encodeURIComponent(cat.blogCat)}`} class="ask-cat-card">
+        <button class="ask-cat-card active" data-cat="all">
+          <span class="ask-cat-icon">📋</span>
+          <span class="ask-cat-label">全部問題</span>
+        </button>
+        {Object.entries(qaCategoryMap).map(([key, cat]) => (
+          <button class="ask-cat-card" data-cat={key}>
             <span class="ask-cat-icon">{cat.icon}</span>
             <span class="ask-cat-label">{cat.label}</span>
-          </a>
+          </button>
         ))}
       </div>
     </section>
 
     <!-- Featured Q&As -->
     <section class="ask-section" id="featured-qa">
-      <h2 class="ask-section-title">🔥 最多人問的問題</h2>
-      <div class="ask-qa-list">
+      <h2 class="ask-section-title" id="qa-section-title">🔥 最多人問的問題</h2>
+      <div class="ask-qa-list" id="qa-list">
         {featured.map(async (q) => {
           const { Content } = await render(q);
           const cat = qaCategoryMap[q.data.category];
           return (
-            <article class="ask-qa-card">
+            <article class="ask-qa-card" data-category={q.data.category}>
               <div class="ask-qa-header">
                 {cat && <span class="ask-qa-cat">{cat.icon} {cat.label}</span>}
                 <h3 class="ask-qa-q"><a href={`/ask/${q.id}/`}>{q.data.title}</a></h3>
@@ -149,11 +153,11 @@ const faqSchema = {
     <!-- Recent questions -->
     <section class="ask-section" id="recent">
       <h2 class="ask-section-title">🆕 最近大家在問</h2>
-      <ul class="ask-recent-list">
+      <ul class="ask-recent-list" id="recent-list">
         {recent.map(q => {
           const cat = qaCategoryMap[q.data.category];
           return (
-            <li class="ask-recent-item">
+            <li class="ask-recent-item" data-category={q.data.category}>
               <a href={`/ask/${q.id}/`} class="ask-recent-link">
                 {cat && <span class="ask-recent-cat">{cat.icon}</span>}
                 <span class="ask-recent-title">{q.data.title}</span>
@@ -180,6 +184,51 @@ const faqSchema = {
   <Footer />
 </body>
 </html>
+
+<script>
+  const catBtns = document.querySelectorAll<HTMLButtonElement>('.ask-cat-card[data-cat]');
+  const qaCards = document.querySelectorAll<HTMLElement>('#qa-list .ask-qa-card[data-category]');
+  const recentItems = document.querySelectorAll<HTMLElement>('#recent-list .ask-recent-item[data-category]');
+  const sectionTitle = document.getElementById('qa-section-title');
+
+  const categoryLabels: Record<string, string> = {
+    all:           '🔥 最多人問的問題',
+    entry:         '🛂 入境 / 簽證',
+    transport:     '🚗 交通 / 包車',
+    accommodation: '🏨 住宿 / 區域',
+    family:        '👨‍👩‍👧 親子旅遊',
+    itinerary:     '🌴 行程安排',
+    food:          '🍽 餐廳 / 美食',
+    budget:        '💰 預算 / 花費',
+    weather:       '🌦 天氣 / 季節',
+  };
+
+  catBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      const selected = btn.dataset.cat ?? 'all';
+
+      // update active button
+      catBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+
+      // update section title
+      if (sectionTitle) sectionTitle.textContent = categoryLabels[selected] ?? '';
+
+      // filter Q&A cards
+      qaCards.forEach(card => {
+        card.style.display = (selected === 'all' || card.dataset.category === selected) ? '' : 'none';
+      });
+
+      // filter recent items
+      recentItems.forEach(item => {
+        item.style.display = (selected === 'all' || item.dataset.category === selected) ? '' : 'none';
+      });
+
+      // scroll to Q&A section smoothly
+      document.getElementById('featured-qa')?.scrollIntoView({ behavior: 'smooth', block: 'start' });
+    });
+  });
+</script>
 
 <style>
 main {
@@ -296,12 +345,20 @@ main {
   background: #fff;
   border: 1px solid #e0ddd6;
   border-radius: 12px;
-  text-decoration: none;
-  transition: border-color 0.2s, box-shadow 0.2s;
+  cursor: pointer;
+  font-family: inherit;
+  transition: border-color 0.2s, box-shadow 0.2s, background 0.2s;
 }
 .ask-cat-card:hover {
   border-color: var(--gold, #C5A059);
   box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+}
+.ask-cat-card.active {
+  border-color: var(--ocean, #1A365D);
+  background: var(--ocean, #1A365D);
+}
+.ask-cat-card.active .ask-cat-label {
+  color: #fff;
 }
 .ask-cat-icon { font-size: 22px; }
 .ask-cat-label {
