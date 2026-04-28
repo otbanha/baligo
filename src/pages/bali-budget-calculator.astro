@@ -242,7 +242,9 @@ let BBC_IDR = 17000; // 預設值，會被即時匯率覆蓋
 
 // GMT+8 當天日期字串，用作 localStorage key
 function bbcTodayKey() {
+  // 以峇里島時間（WITA, UTC+8）下午 4 點為換日點
   const now = new Date(Date.now() + 8 * 60 * 60 * 1000);
+  if (now.getUTCHours() < 16) now.setUTCDate(now.getUTCDate() - 1);
   return 'bbc_idr_' + now.toISOString().slice(0, 10);
 }
 

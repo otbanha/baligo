@@ -234,6 +234,7 @@ let BBC_IDR = 17000; // default value, overridden by live rate
 // Date string (GMT+8) used as localStorage key
 function bbcTodayKey() {
   const now = new Date(Date.now() + 8 * 60 * 60 * 1000);
+  if (now.getUTCHours() < 16) now.setUTCDate(now.getUTCDate() - 1);
   return 'bbc_idr_' + now.toISOString().slice(0, 10);
 }
 
