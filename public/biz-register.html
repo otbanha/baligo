@@ -1,0 +1,1120 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>峇里島商家登錄 | gobaligo.id</title>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+TC:wght@400;600;700&family=Noto+Sans+TC:wght@300;400;500&display=swap" rel="stylesheet">
+<style>
+  :root {
+    --bg: #0f1410;
+    --surface: #1a211b;
+    --surface2: #212b22;
+    --gold: #c9a84c;
+    --gold-light: #e4c97a;
+    --gold-dim: rgba(201,168,76,0.15);
+    --text: #e8e0d0;
+    --text-muted: #8a9b84;
+    --green: #3d6b3f;
+    --green-light: #4e8a51;
+    --border: rgba(201,168,76,0.2);
+    --error: #c97a6a;
+  }
+
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+
+  body {
+    background: var(--bg);
+    color: var(--text);
+    font-family: 'Noto Sans TC', sans-serif;
+    min-height: 100vh;
+    overflow-x: hidden;
+  }
+
+  /* Background tropical texture */
+  body::before {
+    content: '';
+    position: fixed;
+    inset: 0;
+    background:
+      radial-gradient(ellipse 80% 60% at 20% 10%, rgba(61,107,63,0.12) 0%, transparent 60%),
+      radial-gradient(ellipse 60% 80% at 80% 90%, rgba(201,168,76,0.06) 0%, transparent 60%);
+    pointer-events: none;
+    z-index: 0;
+  }
+
+  /* Leaf decorations */
+  .leaf {
+    position: fixed;
+    opacity: 0.04;
+    pointer-events: none;
+    z-index: 0;
+  }
+  .leaf-1 { top: -80px; right: -60px; font-size: 320px; transform: rotate(25deg); }
+  .leaf-2 { bottom: -100px; left: -80px; font-size: 280px; transform: rotate(-15deg); }
+
+  .wrapper {
+    position: relative;
+    z-index: 1;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 40px 20px 80px;
+  }
+
+  /* Header */
+  .header {
+    text-align: center;
+    margin-bottom: 48px;
+    animation: fadeDown 0.8s ease forwards;
+  }
+
+  .logo-tag {
+    display: inline-block;
+    font-size: 12px;
+    letter-spacing: 3px;
+    color: var(--gold);
+    text-transform: uppercase;
+    border: 1px solid var(--border);
+    padding: 5px 16px;
+    border-radius: 20px;
+    margin-bottom: 20px;
+  }
+
+  .header h1 {
+    font-family: 'Noto Serif TC', serif;
+    font-size: clamp(26px, 5vw, 38px);
+    font-weight: 700;
+    color: var(--text);
+    line-height: 1.3;
+    margin-bottom: 12px;
+  }
+
+  .header h1 span {
+    color: var(--gold);
+  }
+
+  .header p {
+    color: var(--text-muted);
+    font-size: 14px;
+    font-weight: 300;
+    line-height: 1.7;
+    max-width: 420px;
+    margin: 0 auto;
+  }
+
+  /* Progress bar */
+  .progress-bar {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    margin-bottom: 40px;
+    animation: fadeUp 0.8s 0.2s ease both;
+  }
+
+  .step-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    position: relative;
+  }
+
+  .step-circle {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 14px;
+    font-weight: 600;
+    border: 2px solid var(--border);
+    background: var(--surface);
+    color: var(--text-muted);
+    transition: all 0.4s ease;
+    position: relative;
+    z-index: 1;
+  }
+
+  .step-circle.active {
+    border-color: var(--gold);
+    background: var(--gold-dim);
+    color: var(--gold-light);
+    box-shadow: 0 0 0 4px rgba(201,168,76,0.1);
+  }
+
+  .step-circle.done {
+    border-color: var(--green-light);
+    background: rgba(78,138,81,0.2);
+    color: var(--green-light);
+  }
+
+  .step-label {
+    font-size: 11px;
+    color: var(--text-muted);
+    white-space: nowrap;
+    transition: color 0.3s;
+  }
+
+  .step-item.active .step-label { color: var(--gold-light); }
+  .step-item.done .step-label { color: var(--green-light); }
+
+  .step-line {
+    width: 64px;
+    height: 2px;
+    background: var(--border);
+    margin-bottom: 20px;
+    transition: background 0.4s ease;
+    position: relative;
+  }
+  .step-line.done { background: var(--green-light); }
+  .step-line.active { background: linear-gradient(90deg, var(--green-light), var(--gold)); }
+
+  /* Card */
+  .card {
+    width: 100%;
+    max-width: 600px;
+    background: var(--surface);
+    border: 1px solid var(--border);
+    border-radius: 20px;
+    padding: 40px;
+    animation: fadeUp 0.6s 0.3s ease both;
+    position: relative;
+    overflow: hidden;
+  }
+
+  .card::before {
+    content: '';
+    position: absolute;
+    top: 0; left: 0; right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, transparent, var(--gold), transparent);
+  }
+
+  .step-panel { display: none; }
+  .step-panel.active { display: block; }
+
+  .step-title {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 20px;
+    font-weight: 600;
+    color: var(--gold-light);
+    margin-bottom: 6px;
+  }
+
+  .step-subtitle {
+    font-size: 13px;
+    color: var(--text-muted);
+    margin-bottom: 32px;
+    line-height: 1.6;
+  }
+
+  /* Category selector */
+  .category-grid {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 12px;
+    margin-bottom: 32px;
+  }
+
+  .cat-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 8px;
+    padding: 20px 16px;
+    background: var(--surface2);
+    border: 2px solid var(--border);
+    border-radius: 14px;
+    cursor: pointer;
+    transition: all 0.25s ease;
+    color: var(--text-muted);
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 13px;
+    font-weight: 400;
+    text-align: center;
+  }
+
+  .cat-btn:hover {
+    border-color: rgba(201,168,76,0.5);
+    color: var(--text);
+    transform: translateY(-2px);
+  }
+
+  .cat-btn.selected {
+    border-color: var(--gold);
+    background: var(--gold-dim);
+    color: var(--gold-light);
+    box-shadow: 0 4px 20px rgba(201,168,76,0.15);
+  }
+
+  .cat-icon { font-size: 28px; line-height: 1; }
+
+  /* Form fields */
+  .field {
+    margin-bottom: 22px;
+  }
+
+  .field label {
+    display: block;
+    font-size: 12px;
+    font-weight: 500;
+    color: var(--text-muted);
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    margin-bottom: 8px;
+  }
+
+  .field label .req {
+    color: var(--gold);
+    margin-left: 3px;
+  }
+
+  .field input,
+  .field textarea,
+  .field select {
+    width: 100%;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    padding: 13px 16px;
+    color: var(--text);
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 14px;
+    outline: none;
+    transition: border-color 0.25s, box-shadow 0.25s;
+    -webkit-appearance: none;
+  }
+
+  .field input::placeholder,
+  .field textarea::placeholder {
+    color: rgba(138,155,132,0.5);
+  }
+
+  .field input:focus,
+  .field textarea:focus,
+  .field select:focus {
+    border-color: var(--gold);
+    box-shadow: 0 0 0 3px rgba(201,168,76,0.1);
+  }
+
+  .field textarea { resize: vertical; min-height: 100px; }
+
+  .field select {
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%238a9b84' stroke-width='2' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: right 16px center;
+    padding-right: 40px;
+    cursor: pointer;
+  }
+
+  .field select option { background: var(--surface2); }
+
+  .field-hint {
+    font-size: 11px;
+    color: var(--text-muted);
+    margin-top: 6px;
+    line-height: 1.5;
+  }
+
+  .field-row {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 16px;
+  }
+
+  /* Contact type radio */
+  .contact-types {
+    display: flex;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+
+  .contact-type-btn {
+    padding: 8px 18px;
+    border: 1px solid var(--border);
+    border-radius: 8px;
+    background: var(--surface2);
+    color: var(--text-muted);
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 13px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .contact-type-btn.selected {
+    border-color: var(--gold);
+    background: var(--gold-dim);
+    color: var(--gold-light);
+  }
+
+  /* Review card */
+  .review-section {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 14px;
+    padding: 20px 24px;
+    margin-bottom: 16px;
+  }
+
+  .review-section-title {
+    font-size: 11px;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+    color: var(--gold);
+    margin-bottom: 14px;
+  }
+
+  .review-row {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 10px;
+    font-size: 14px;
+  }
+
+  .review-row:last-child { margin-bottom: 0; }
+
+  .review-key {
+    color: var(--text-muted);
+    min-width: 90px;
+    flex-shrink: 0;
+  }
+
+  .review-val {
+    color: var(--text);
+    line-height: 1.5;
+  }
+
+  .cat-badge {
+    display: inline-flex;
+    align-items: center;
+    gap: 6px;
+    padding: 4px 12px;
+    border: 1px solid var(--gold);
+    border-radius: 20px;
+    background: var(--gold-dim);
+    color: var(--gold-light);
+    font-size: 13px;
+  }
+
+  /* Buttons */
+  .btn-row {
+    display: flex;
+    gap: 12px;
+    margin-top: 32px;
+  }
+
+  .btn-back {
+    flex: 0 0 auto;
+    padding: 13px 24px;
+    background: transparent;
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    color: var(--text-muted);
+    font-family: 'Noto Sans TC', sans-serif;
+    font-size: 14px;
+    cursor: pointer;
+    transition: all 0.2s;
+  }
+
+  .btn-back:hover {
+    border-color: var(--text-muted);
+    color: var(--text);
+  }
+
+  .btn-next {
+    flex: 1;
+    padding: 14px 24px;
+    background: linear-gradient(135deg, var(--gold) 0%, #a87c2a 100%);
+    border: none;
+    border-radius: 10px;
+    color: #1a1200;
+    font-family: 'Noto Serif TC', serif;
+    font-size: 15px;
+    font-weight: 700;
+    cursor: pointer;
+    transition: all 0.25s;
+    letter-spacing: 0.5px;
+  }
+
+  .btn-next:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(201,168,76,0.3);
+  }
+
+  .btn-next:active { transform: translateY(0); }
+
+  /* Success state */
+  .success-panel {
+    display: none;
+    text-align: center;
+    padding: 20px 0;
+  }
+
+  .success-icon {
+    font-size: 60px;
+    margin-bottom: 20px;
+    animation: popIn 0.5s ease;
+  }
+
+  .success-panel h2 {
+    font-family: 'Noto Serif TC', serif;
+    font-size: 24px;
+    color: var(--gold-light);
+    margin-bottom: 12px;
+  }
+
+  .success-panel p {
+    color: var(--text-muted);
+    font-size: 14px;
+    line-height: 1.8;
+    max-width: 380px;
+    margin: 0 auto 28px;
+  }
+
+  .success-detail {
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 12px;
+    padding: 16px 20px;
+    font-size: 13px;
+    color: var(--text-muted);
+    line-height: 1.7;
+    margin-bottom: 24px;
+  }
+
+  /* Error */
+  .field-error {
+    font-size: 11px;
+    color: var(--error);
+    margin-top: 5px;
+  }
+
+  .field input.error,
+  .field textarea.error,
+  .field select.error {
+    border-color: var(--error);
+  }
+
+  /* Upload zone */
+  .upload-zone {
+    border: 2px dashed var(--border);
+    border-radius: 12px;
+    background: var(--surface2);
+    cursor: pointer;
+    transition: border-color 0.25s, background 0.25s;
+    overflow: hidden;
+    min-height: 130px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+
+  .upload-zone:hover {
+    border-color: rgba(201,168,76,0.5);
+    background: rgba(201,168,76,0.04);
+  }
+
+  .upload-placeholder {
+    text-align: center;
+    padding: 28px 20px;
+  }
+
+  .upload-icon { font-size: 32px; margin-bottom: 10px; opacity: 0.7; }
+
+  .upload-text {
+    font-size: 14px;
+    color: var(--text-muted);
+    margin-bottom: 4px;
+  }
+
+  .upload-hint {
+    font-size: 11px;
+    color: rgba(138,155,132,0.5);
+  }
+
+  .upload-preview {
+    position: relative;
+    width: 100%;
+  }
+
+  .upload-preview img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+    display: block;
+  }
+
+  .remove-photo {
+    position: absolute;
+    top: 10px; right: 10px;
+    background: rgba(0,0,0,0.7);
+    border: 1px solid rgba(255,255,255,0.2);
+    border-radius: 6px;
+    color: #fff;
+    font-size: 12px;
+    padding: 5px 10px;
+    cursor: pointer;
+    transition: background 0.2s;
+    font-family: 'Noto Sans TC', sans-serif;
+  }
+
+  .remove-photo:hover { background: rgba(180,60,60,0.8); }
+
+  /* Footer note */
+  .footer-note {
+    margin-top: 32px;
+    font-size: 11px;
+    color: rgba(138,155,132,0.5);
+    text-align: center;
+    line-height: 1.7;
+    animation: fadeUp 0.8s 0.5s ease both;
+  }
+
+  @keyframes fadeDown {
+    from { opacity: 0; transform: translateY(-20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes fadeUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+  }
+
+  @keyframes popIn {
+    from { transform: scale(0.5); opacity: 0; }
+    to { transform: scale(1); opacity: 1; }
+  }
+
+  @media (max-width: 500px) {
+    .card { padding: 28px 20px; }
+    .category-grid { grid-template-columns: repeat(2, 1fr); }
+    .field-row { grid-template-columns: 1fr; }
+    .step-label { font-size: 10px; }
+    .step-line { width: 40px; }
+  }
+</style>
+</head>
+<body>
+<div class="leaf leaf-1">🌿</div>
+<div class="leaf leaf-2">🌴</div>
+
+<div class="wrapper">
+
+  <!-- Header -->
+  <div class="header">
+    <div class="logo-tag">gobaligo.id</div>
+    <h1>峇里島<span>中文商家</span>登錄</h1>
+    <p>只要你能提供中文的服務，歡迎免費刊登你的商家資訊，讓更多來自台灣、中國、新加坡、香港、馬來西亞的旅客找到你</p>
+  </div>
+
+  <!-- Progress -->
+  <div class="progress-bar" id="progressBar">
+    <div class="step-item active" id="si1">
+      <div class="step-circle active" id="sc1">1</div>
+      <div class="step-label">商家類型</div>
+    </div>
+    <div class="step-line" id="sl1"></div>
+    <div class="step-item" id="si2">
+      <div class="step-circle" id="sc2">2</div>
+      <div class="step-label">基本資訊</div>
+    </div>
+    <div class="step-line" id="sl2"></div>
+    <div class="step-item" id="si3">
+      <div class="step-circle" id="sc3">3</div>
+      <div class="step-label">聯絡方式</div>
+    </div>
+    <div class="step-line" id="sl3"></div>
+    <div class="step-item" id="si4">
+      <div class="step-circle" id="sc4">✓</div>
+      <div class="step-label">確認送出</div>
+    </div>
+  </div>
+
+  <!-- Card -->
+  <div class="card" id="mainCard">
+
+    <!-- Step 1: 選擇類型 -->
+    <div class="step-panel active" id="step1">
+      <div class="step-title">你的商家是做什麼的？</div>
+      <div class="step-subtitle">選擇最符合你的業務類型，之後可以再補充說明</div>
+
+      <div class="category-grid">
+        <button class="cat-btn" data-cat="restaurant" onclick="selectCat(this)">
+          <span class="cat-icon">🍜</span>
+          餐廳 / 美食
+        </button>
+        <button class="cat-btn" data-cat="tour" onclick="selectCat(this)">
+          <span class="cat-icon">🏍️</span>
+          旅遊服務 / 導遊
+        </button>
+        <button class="cat-btn" data-cat="spa" onclick="selectCat(this)">
+          <span class="cat-icon">💆</span>
+          美容美甲 / SPA
+        </button>
+        <button class="cat-btn" data-cat="stay" onclick="selectCat(this)">
+          <span class="cat-icon">🏡</span>
+          住宿 / Villa
+        </button>
+        <button class="cat-btn" data-cat="shop" onclick="selectCat(this)">
+          <span class="cat-icon">🛍️</span>
+          購物 / 伴手禮
+        </button>
+        <button class="cat-btn" data-cat="other" onclick="selectCat(this)">
+          <span class="cat-icon">✨</span>
+          其他服務
+        </button>
+      </div>
+
+      <div id="catError" class="field-error" style="margin-bottom:12px; display:none">請先選擇商家類型</div>
+
+      <div class="btn-row">
+        <button class="btn-next" onclick="goStep(2)">下一步：填寫基本資訊 →</button>
+      </div>
+    </div>
+
+    <!-- Step 2: 基本資訊 -->
+    <div class="step-panel" id="step2">
+      <div class="step-title">告訴我們你的商家資訊</div>
+      <div class="step-subtitle">以下資料將顯示在 gobaligo.id 的商家目錄頁面</div>
+
+      <div class="field">
+        <label>商家名稱（中文）<span class="req">*</span></label>
+        <input type="text" id="bizNameZh" placeholder="例：阿美峇里島美食館" />
+      </div>
+
+      <div class="field">
+        <label>商家名稱（英文）</label>
+        <input type="text" id="bizNameEn" placeholder="例：Amy Bali Restaurant" />
+        <div class="field-hint">英文名稱可以幫助外國旅客找到你</div>
+      </div>
+
+      <div class="field">
+        <label>所在區域<span class="req">*</span></label>
+        <select id="bizArea">
+          <option value="">-- 請選擇 --</option>
+          <option>庫塔 Kuta</option>
+          <option>水明漾 Seminyak</option>
+          <option>水明漾北 Canggu</option>
+          <option>烏布 Ubud</option>
+          <option>沙努爾 Sanur</option>
+          <option>努沙杜阿 Nusa Dua</option>
+          <option>金巴蘭 Jimbaran</option>
+          <option>烏魯瓦圖 Uluwatu</option>
+          <option>登巴薩 Denpasar</option>
+          <option>其他</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label>詳細地址</label>
+        <input type="text" id="bizAddr" placeholder="例：Jl. Raya Seminyak No.17" />
+      </div>
+
+      <div class="field">
+        <label>商家簡介<span class="req">*</span></label>
+        <textarea id="bizDesc" placeholder="用2〜5句話介紹你的商家，包括特色、服務項目、為什麼值得來..."></textarea>
+      </div>
+
+      <div class="field">
+        <label>Google Maps 連結</label>
+        <input type="url" id="bizMap" placeholder="https://maps.google.com/..." />
+        <div class="field-hint">方便旅客導航，強烈建議填寫</div>
+      </div>
+
+      <div class="field">
+        <label>商家封面照片</label>
+        <div class="upload-zone" id="uploadZone" onclick="document.getElementById('bizPhoto').click()">
+          <input type="file" id="bizPhoto" accept="image/*" style="display:none" onchange="handlePhoto(this)" />
+          <div class="upload-placeholder" id="uploadPlaceholder">
+            <div class="upload-icon">📷</div>
+            <div class="upload-text">點擊上傳圖片</div>
+            <div class="upload-hint">建議尺寸：1280×720px（16:9 橫向）· JPG / PNG / WebP · 最大 5MB</div>
+          </div>
+          <div class="upload-preview" id="uploadPreview" style="display:none">
+            <img id="previewImg" src="" alt="預覽" />
+            <button class="remove-photo" onclick="removePhoto(event)">✕ 移除</button>
+          </div>
+        </div>
+        <div class="field-hint">圖片將以 16:9 比例固定高度顯示。若上傳直向圖片，左右會自動留黑</div>
+      </div>
+
+      <div class="btn-row">
+        <button class="btn-back" onclick="goStep(1)">← 返回</button>
+        <button class="btn-next" onclick="goStep(3)">下一步：聯絡方式 →</button>
+      </div>
+    </div>
+
+    <!-- Step 3: 聯絡方式 -->
+    <div class="step-panel" id="step3">
+      <div class="step-title">旅客如何聯絡你？</div>
+      <div class="step-subtitle">至少填寫一種聯絡方式，方便旅客詢問與預訂</div>
+
+      <div class="field">
+        <label>主要聯絡方式</label>
+        <div class="contact-types">
+          <button class="contact-type-btn selected" onclick="setContact(this,'line')">LINE</button>
+          <button class="contact-type-btn" onclick="setContact(this,'whatsapp')">WhatsApp</button>
+          <button class="contact-type-btn" onclick="setContact(this,'wechat')">微信</button>
+          <button class="contact-type-btn" onclick="setContact(this,'ig')">Instagram</button>
+          <button class="contact-type-btn" onclick="setContact(this,'fb')">Facebook</button>
+        </div>
+      </div>
+
+      <div class="field">
+        <label id="contactLabel">LINE ID<span class="req">*</span></label>
+        <input type="text" id="contactVal" placeholder="輸入你的 LINE ID" />
+      </div>
+
+      <div class="field">
+        <label>WhatsApp 號碼</label>
+        <input type="text" id="whatsappNum" placeholder="+62 812 xxxx xxxx（印尼號碼）" />
+      </div>
+
+      <div class="field-row">
+        <div class="field">
+          <label>Instagram</label>
+          <input type="text" id="igHandle" placeholder="@yourhandle" />
+        </div>
+        <div class="field">
+          <label>營業時間</label>
+          <input type="text" id="bizHours" placeholder="例：10:00–22:00" />
+        </div>
+      </div>
+
+      <div class="field">
+        <label>你的電子信箱<span class="req">*</span></label>
+        <input type="email" id="ownerEmail" placeholder="用於接收審核通知" />
+        <div class="field-hint">不會公開顯示，僅供 gobaligo.id 聯絡你</div>
+      </div>
+
+      <div class="field">
+        <label>業主姓名</label>
+        <input type="text" id="ownerName" placeholder="你的稱呼（不公開顯示）" />
+      </div>
+
+      <div class="btn-row">
+        <button class="btn-back" onclick="goStep(2)">← 返回</button>
+        <button class="btn-next" onclick="goStep(4)">下一步：確認資料 →</button>
+      </div>
+    </div>
+
+    <!-- Step 4: 確認 -->
+    <div class="step-panel" id="step4">
+      <div class="step-title">確認你的商家資料</div>
+      <div class="step-subtitle">請確認以下資訊無誤，送出後我們將於 3〜5 個工作天內審核</div>
+
+      <div class="review-section">
+        <div class="review-section-title">商家類型</div>
+        <div class="review-row">
+          <div class="review-val"><span class="cat-badge" id="reviewCat"></span></div>
+        </div>
+      </div>
+
+      <div class="review-section">
+        <div class="review-section-title">基本資訊</div>
+        <div class="review-row"><div class="review-key">商家名稱</div><div class="review-val" id="reviewName">—</div></div>
+        <div class="review-row"><div class="review-key">所在區域</div><div class="review-val" id="reviewArea">—</div></div>
+        <div class="review-row"><div class="review-key">地址</div><div class="review-val" id="reviewAddr">—</div></div>
+        <div class="review-row"><div class="review-key">簡介</div><div class="review-val" id="reviewDesc" style="font-size:13px;opacity:0.8">—</div></div>
+      </div>
+
+      <div class="review-section">
+        <div class="review-section-title">聯絡方式</div>
+        <div class="review-row"><div class="review-key" id="reviewContactKey">主要聯絡</div><div class="review-val" id="reviewContact">—</div></div>
+        <div class="review-row"><div class="review-key">WhatsApp</div><div class="review-val" id="reviewWhatsapp">—</div></div>
+        <div class="review-row"><div class="review-key">業主信箱</div><div class="review-val" id="reviewEmail">—</div></div>
+      </div>
+
+      <div class="btn-row">
+        <button class="btn-back" onclick="goStep(3)">← 返回修改</button>
+        <button class="btn-next" onclick="submitForm()" id="submitBtn">✓ 確認送出登錄申請</button>
+      </div>
+    </div>
+
+    <!-- Success -->
+    <div class="success-panel" id="successPanel">
+      <div class="success-icon">🌺</div>
+      <h2>登錄申請已送出！</h2>
+      <p>感謝你加入 gobaligo.id 商家目錄<br>我們將在 <strong style="color:var(--gold-light)">3〜5 個工作天</strong> 內完成審核並通知你</p>
+      <div class="success-detail">
+        📩 確認信已寄送至你填寫的信箱，請記得查收<br>
+        ✅ 通過審核後你的商家將出現在目錄頁面<br>
+        📝 若需修改資料，請 Email 聯絡我們，註明商家名稱即可<br>
+        &nbsp;&nbsp;&nbsp;&nbsp;詳細辦法請查看您的 Email
+      </div>
+      <button class="btn-next" style="max-width:260px;margin:0 auto;display:block" onclick="resetForm()">再登錄一個商家</button>
+    </div>
+
+  </div><!-- /card -->
+
+  <div class="footer-note">
+    gobaligo.id 峇里島旅遊資訊平台 · 提供給台灣、中國、馬來西亞旅客<br>
+    商家登錄完全免費 · 審核後即可刊登
+  </div>
+
+</div>
+
+<script>
+  let state = {
+    step: 1,
+    cat: '',
+    catLabel: '',
+    contactType: 'LINE',
+  };
+
+  const catMap = {
+    restaurant: { icon: '🍜', label: '餐廳 / 美食' },
+    tour:       { icon: '🏍️', label: '旅遊服務 / 導遊' },
+    spa:        { icon: '💆', label: '美容美甲 / SPA' },
+    stay:       { icon: '🏡', label: '住宿 / Villa' },
+    shop:       { icon: '🛍️', label: '購物 / 伴手禮' },
+    other:      { icon: '✨', label: '其他服務' },
+  };
+
+  const contactPlaceholders = {
+    line: 'LINE ID',
+    whatsapp: 'WhatsApp 號碼',
+    wechat: '微信 ID',
+    ig: 'Instagram 帳號',
+    fb: 'Facebook 頁面名稱',
+  };
+
+  function selectCat(el) {
+    document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('selected'));
+    el.classList.add('selected');
+    state.cat = el.dataset.cat;
+    state.catLabel = catMap[state.cat];
+    document.getElementById('catError').style.display = 'none';
+  }
+
+  function setContact(el, type) {
+    document.querySelectorAll('.contact-type-btn').forEach(b => b.classList.remove('selected'));
+    el.classList.add('selected');
+    state.contactType = el.textContent.trim();
+    const key = type;
+    document.getElementById('contactLabel').innerHTML = contactPlaceholders[key] + '<span class="req">*</span>';
+    document.getElementById('contactVal').placeholder = '輸入你的 ' + contactPlaceholders[key];
+  }
+
+  function updateProgress(step) {
+    for (let i = 1; i <= 4; i++) {
+      const ci = document.getElementById('sc' + i);
+      const si = document.getElementById('si' + i);
+      if (i < step) {
+        ci.classList.add('done'); ci.classList.remove('active');
+        si.classList.add('done'); si.classList.remove('active');
+        ci.textContent = '✓';
+      } else if (i === step) {
+        ci.classList.add('active'); ci.classList.remove('done');
+        si.classList.add('active'); si.classList.remove('done');
+        ci.textContent = i;
+      } else {
+        ci.classList.remove('active','done');
+        si.classList.remove('active','done');
+        ci.textContent = i;
+      }
+    }
+    for (let i = 1; i <= 3; i++) {
+      const sl = document.getElementById('sl' + i);
+      if (i < step - 1) sl.className = 'step-line done';
+      else if (i === step - 1) sl.className = 'step-line active';
+      else sl.className = 'step-line';
+    }
+  }
+
+  function goStep(target) {
+    // Validate
+    if (target > 1 && state.step === 1) {
+      if (!state.cat) {
+        document.getElementById('catError').style.display = 'block';
+        return;
+      }
+    }
+    if (target > 2 && state.step === 2) {
+      if (!v('bizNameZh') || !v('bizArea') || !v('bizDesc')) {
+        if (!v('bizNameZh')) markError('bizNameZh');
+        if (!v('bizArea')) markError('bizArea');
+        if (!v('bizDesc')) markError('bizDesc');
+        return;
+      }
+    }
+    if (target > 3 && state.step === 3) {
+      if (!v('contactVal') || !v('ownerEmail')) {
+        if (!v('contactVal')) markError('contactVal');
+        if (!v('ownerEmail')) markError('ownerEmail');
+        return;
+      }
+    }
+
+    // If going to step 4, populate review
+    if (target === 4) {
+      const cat = catMap[state.cat];
+      document.getElementById('reviewCat').innerHTML = cat.icon + ' ' + cat.label;
+      const zh = v('bizNameZh'), en = v('bizNameEn');
+      document.getElementById('reviewName').textContent = zh + (en ? ' (' + en + ')' : '');
+      document.getElementById('reviewArea').textContent = v('bizArea') || '—';
+      document.getElementById('reviewAddr').textContent = v('bizAddr') || '—';
+      document.getElementById('reviewDesc').textContent = v('bizDesc');
+      document.getElementById('reviewContactKey').textContent = state.contactType;
+      document.getElementById('reviewContact').textContent = v('contactVal') || '—';
+      document.getElementById('reviewWhatsapp').textContent = v('whatsappNum') || '—';
+      document.getElementById('reviewEmail').textContent = v('ownerEmail');
+    }
+
+    document.getElementById('step' + state.step).classList.remove('active');
+    state.step = target;
+    document.getElementById('step' + state.step).classList.add('active');
+    updateProgress(state.step);
+
+    // Scroll to top of card
+    document.getElementById('mainCard').scrollIntoView({ behavior: 'smooth', block: 'start' });
+  }
+
+  function v(id) {
+    const el = document.getElementById(id);
+    return el ? el.value.trim() : '';
+  }
+
+  function markError(id) {
+    const el = document.getElementById(id);
+    if (!el) return;
+    el.classList.add('error');
+    el.addEventListener('input', () => el.classList.remove('error'), { once: true });
+  }
+
+  const WORKER_URL = 'https://biz-upload-worker.otbanha.workers.dev';
+  const MAX_SIZE = 5 * 1024 * 1024;
+
+  function handlePhoto(input) {
+    const file = input.files[0];
+    if (!file) return;
+    if (file.size > MAX_SIZE) {
+      input.value = '';
+      showUploadError('圖片超過 5MB，請重新選擇');
+      return;
+    }
+    const allowed = ['image/jpeg', 'image/png', 'image/webp'];
+    if (!allowed.includes(file.type)) {
+      input.value = '';
+      showUploadError('只接受 JPG、PNG、WebP 格式');
+      return;
+    }
+    hideUploadError();
+    const reader = new FileReader();
+    reader.onload = (e) => {
+      document.getElementById('previewImg').src = e.target.result;
+      document.getElementById('uploadPlaceholder').style.display = 'none';
+      document.getElementById('uploadPreview').style.display = 'block';
+    };
+    reader.readAsDataURL(file);
+  }
+
+  function showUploadError(msg) {
+    let el = document.getElementById('uploadError');
+    if (!el) {
+      el = document.createElement('div');
+      el.id = 'uploadError';
+      el.className = 'field-error';
+      el.style.marginTop = '8px';
+      document.getElementById('uploadZone').insertAdjacentElement('afterend', el);
+    }
+    el.textContent = '⚠ ' + msg;
+  }
+
+  function hideUploadError() {
+    const el = document.getElementById('uploadError');
+    if (el) el.textContent = '';
+  }
+
+  async function submitForm() {
+    const btn = document.getElementById('submitBtn');
+    btn.disabled = true;
+    hideUploadError();
+
+    try {
+      // Step 1: 上傳圖片到 R2（如果有選）
+      let photoUrl = '';
+      const photoFile = document.getElementById('bizPhoto').files[0];
+      if (photoFile) {
+        btn.textContent = '上傳圖片中...';
+        const fd = new FormData();
+        fd.append('photo', photoFile);
+        const res = await fetch(WORKER_URL, { method: 'POST', body: fd });
+        const data = await res.json();
+        if (!res.ok) throw new Error(data.error || '圖片上傳失敗');
+        photoUrl = data.url;
+      }
+
+      // Step 2: 送出資料到 Google Apps Script（寫入 Sheets + 寄確認信）
+      btn.textContent = '送出資料中...';
+      const payload = {
+        category: state.cat,
+        nameZh: v('bizNameZh'),
+        nameEn: v('bizNameEn'),
+        area: v('bizArea'),
+        address: v('bizAddr'),
+        description: v('bizDesc'),
+        googleMap: v('bizMap'),
+        photoUrl,
+        contactType: state.contactType,
+        contactVal: v('contactVal'),
+        whatsapp: v('whatsappNum'),
+        instagram: v('igHandle'),
+        hours: v('bizHours'),
+        ownerEmail: v('ownerEmail'),
+        ownerName: v('ownerName'),
+        submittedAt: new Date().toISOString(),
+      };
+
+      const APPS_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxuv6fLjnmUJ7OQzGqFk-oxv2D0xn3BgMFDyef_YX5XBwUpj8jhwEcK55Q6nM8xuw8/exec'; // 部署後填入
+      await fetch(APPS_SCRIPT_URL, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+        mode: 'no-cors', // Apps Script 不回傳 CORS header
+      });
+
+      // Step 3: 顯示成功畫面
+      document.getElementById('step4').classList.remove('active');
+      document.getElementById('successPanel').style.display = 'block';
+      document.querySelector('.progress-bar').style.opacity = '0.3';
+      document.getElementById('mainCard').scrollIntoView({ behavior: 'smooth', block: 'start' });
+
+    } catch (err) {
+      btn.disabled = false;
+      btn.textContent = '✓ 確認送出登錄申請';
+      showUploadError(err.message || '送出失敗，請稍後再試');
+      document.getElementById('mainCard').scrollIntoView({ behavior: 'smooth', block: 'start' });
+    }
+  }
+
+  function removePhoto(e) {
+    e.stopPropagation();
+    document.getElementById('bizPhoto').value = '';
+    document.getElementById('uploadPlaceholder').style.display = 'block';
+    document.getElementById('uploadPreview').style.display = 'none';
+  }
+
+  function resetForm() {
+    document.getElementById('successPanel').style.display = 'none';
+    document.querySelector('.progress-bar').style.opacity = '1';
+    document.querySelectorAll('.step-panel').forEach(p => p.classList.remove('active'));
+    document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('selected'));
+    removePhoto({ stopPropagation: () => {} });
+    ['bizNameZh','bizNameEn','bizArea','bizAddr','bizDesc','bizMap','contactVal',
+     'whatsappNum','igHandle','bizHours','ownerEmail','ownerName'].forEach(id => {
+      const el = document.getElementById(id);
+      if (el) el.value = '';
+    });
+    state = { step: 1, cat: '', catLabel: '', contactType: 'LINE' };
+    document.getElementById('step1').classList.add('active');
+    updateProgress(1);
+    document.getElementById('submitBtn').textContent = '✓ 確認送出登錄申請';
+    document.getElementById('submitBtn').disabled = false;
+  }
+</script>
+</body>
+</html>
