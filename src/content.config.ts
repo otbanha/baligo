@@ -6,14 +6,22 @@ const blog = defineCollection({
   loader: glob({ base: './src/content/blog', pattern: '**/*.{md,mdx}' }),
   schema: z.object({
     title: z.string(),
+    slug: z.string().optional(),
     description: z.string().optional(),
     pubDate: z.coerce.date().optional(),
+    pubHour: z.number().optional().catch(undefined),
     updatedDate: z.coerce.date().optional(),
     heroImage: z.string().optional(),
     category: z.union([z.string(), z.array(z.string())]).optional(),
-    tags: z.array(z.string()).optional(),
+    tags: z.any().optional(),
     originalUrl: z.string().optional(),
+    embeds: z.array(z.object({
+      position: z.string(),
+      platform: z.enum(['youtube', 'instagram', 'tiktok']),
+      url: z.string(),
+    })).optional(),
     private: z.boolean().optional(),
+    shuffle_h2: z.boolean().optional(),
   }),
 });
 
