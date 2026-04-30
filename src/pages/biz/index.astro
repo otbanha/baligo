@@ -1,0 +1,59 @@
+---
+import BizLayout from '../../layouts/BizLayout.astro';
+import BizCard from '../../components/BizCard.astro';
+import { getBizListings } from '../../lib/getBizListings';
+
+const all = await getBizListings();
+const featuredAll = all
+  .filter(b => b.featured)
+  .sort(() => Math.random() - 0.5);
+
+const CATEGORIES = [
+  { key: 'restaurant', label: '餐廳 / 美食',      icon: '🍜', href: '/biz/restaurant' },
+  { key: 'tour',       label: '旅遊服務 / 導遊',   icon: '🌴', href: '/biz/tour'       },
+  { key: 'spa',        label: '美容美甲 / SPA',    icon: '💆', href: '/biz/spa'        },
+  { key: 'stay',       label: '住宿 / Villa',      icon: '🏡', href: '/biz/stay'       },
+  { key: 'shop',       label: '購物 / 伴手禮',     icon: '🛍️', href: '/biz/shop'       },
+  { key: 'other',      label: '其他服務',           icon: '✨', href: '/biz/restaurant' },
+];
+---
+
+<BizLayout
+  title="峇里島中文商家目錄 | Go Bali Go"
+  description="峇里島中文商家目錄，收錄餐廳、旅遊服務、SPA、住宿、購物等提供中文服務的優質商家。"
+>
+  <div class="biz-hero">
+    <h1>峇里島中文商家目錄</h1>
+    <p>精選峇里島提供中文服務的優質商家，讓你旅途無語言障礙</p>
+  </div>
+
+  {featuredAll.length > 0 && (
+    <>
+      <p class="biz-section-title">精選推薦</p>
+      <div class="biz-grid">
+        {featuredAll.map(b => <BizCard biz={b} />)}
+      </div>
+    </>
+  )}
+
+  <p class="biz-section-title">瀏覽類別</p>
+  <div class="cat-grid">
+    {CATEGORIES.map(c => (
+      <a href={c.href} class="cat-card">
+        <span class="cat-card__icon">{c.icon}</span>
+        <span class="cat-card__label">{c.label}</span>
+      </a>
+    ))}
+  </div>
+
+  {featuredAll.length === 0 && (
+    <p style="text-align:center;color:#8a9880;padding:3rem 0">
+      目前尚無商家資料，歡迎第一個登錄你的商家！
+    </p>
+  )}
+
+  <div class="biz-register-cta">
+    <p>你的商家也想出現在這裡嗎？</p>
+    <a href="/biz-register.html" class="btn btn--gold">免費登錄你的商家</a>
+  </div>
+</BizLayout>

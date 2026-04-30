@@ -1,0 +1,65 @@
+---
+import type { BizListing } from '../lib/getBizListings';
+
+const SERVICE_LABELS: Record<string, string> = {
+  owner:   '華人店主',
+  staff:   '中文員工',
+  speak:   '中文服務',
+  menu:    '中文菜單',
+  service: '華文資訊',
+};
+
+interface Props {
+  biz: BizListing;
+}
+const { biz } = Astro.props;
+
+const lineHref = biz.contactVal
+  ? `https://line.me/ti/p/~${biz.contactVal.replace(/^~/, '')}`
+  : null;
+const waHref = biz.whatsapp
+  ? `https://wa.me/${biz.whatsapp.replace(/\D/g, '')}`
+  : null;
+const igHref = biz.instagram
+  ? `https://instagram.com/${biz.instagram.replace('@', '')}`
+  : null;
+---
+
+<div class="biz-card">
+  <div class="biz-card__photo">
+    {biz.photoUrl
+      ? <img src={biz.photoUrl} alt={biz.nameZh} loading="lazy" />
+      : <div class="biz-card__photo-placeholder"></div>
+    }
+  </div>
+  <div class="biz-card__body">
+    <h3 class="biz-card__name">
+      {biz.nameZh}
+      {biz.nameEn && <span class="biz-card__name-en">{biz.nameEn}</span>}
+    </h3>
+    {biz.area && <span class="biz-card__area">{biz.area}</span>}
+    {biz.chineseServices.length > 0 && (
+      <div class="biz-card__tags">
+        {biz.chineseServices.map(s => (
+          <span class="biz-card__tag">{SERVICE_LABELS[s] ?? s}</span>
+        ))}
+      </div>
+    )}
+    {biz.description && <p class="biz-card__desc">{biz.description}</p>}
+    {biz.hours && <p class="biz-card__hours">🕐 {biz.hours}</p>}
+    <div class="biz-card__actions">
+      {biz.contactType === 'LINE' && lineHref && (
+        <a href={lineHref} target="_blank" rel="noopener noreferrer" class="btn btn--line">LINE</a>
+      )}
+      {waHref && (
+        <a href={waHref} target="_blank" rel="noopener noreferrer" class="btn btn--wa">WhatsApp</a>
+      )}
+      {igHref && (
+        <a href={igHref} target="_blank" rel="noopener noreferrer" class="btn btn--ig">Instagram</a>
+      )}
+      {biz.googleMap && (
+        <a href={biz.googleMap} target="_blank" rel="noopener noreferrer" class="btn btn--map">地圖</a>
+      )}
+    </div>
+  </div>
+</div>

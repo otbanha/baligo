@@ -1,0 +1,22 @@
+---
+import BizLayout from '../../layouts/BizLayout.astro';
+import BizCategory from '../../components/BizCategory.astro';
+import { getBizListings } from '../../lib/getBizListings';
+
+const all = await getBizListings();
+const listings = all.filter(b => b.category === 'shop');
+const featured = listings.filter(b => b.featured).sort(() => Math.random() - 0.5);
+const regular  = listings.filter(b => !b.featured);
+---
+
+<BizLayout
+  title="峇里島購物 / 伴手禮推薦"
+  description="峇里島中文購物推薦，伴手禮、手工藝品、特色商店一次找到。"
+>
+  <BizCategory
+    title="🛍️ 購物 / 伴手禮"
+    description="峇里島必買伴手禮與特色購物店，中文服務讓你買得開心"
+    featured={featured}
+    regular={regular}
+  />
+</BizLayout>

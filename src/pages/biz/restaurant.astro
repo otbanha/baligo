@@ -1,0 +1,22 @@
+---
+import BizLayout from '../../layouts/BizLayout.astro';
+import BizCategory from '../../components/BizCategory.astro';
+import { getBizListings } from '../../lib/getBizListings';
+
+const all = await getBizListings();
+const listings = all.filter(b => b.category === 'restaurant');
+const featured = listings.filter(b => b.featured).sort(() => Math.random() - 0.5);
+const regular  = listings.filter(b => !b.featured);
+---
+
+<BizLayout
+  title="峇里島中文餐廳推薦"
+  description="峇里島提供中文服務的餐廳美食推薦，含中文菜單、華人店主等資訊。"
+>
+  <BizCategory
+    title="🍜 餐廳 / 美食"
+    description="在峇里島找到說中文的餐廳，輕鬆點餐不踩雷"
+    featured={featured}
+    regular={regular}
+  />
+</BizLayout>

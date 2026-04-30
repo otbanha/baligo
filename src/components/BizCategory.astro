@@ -1,0 +1,88 @@
+---
+import BizCard from './BizCard.astro';
+import type { BizListing } from '../lib/getBizListings';
+
+const SERVICE_LABELS: Record<string, string> = {
+  owner:   '華人店主',
+  staff:   '中文員工',
+  speak:   '中文服務',
+  menu:    '中文菜單',
+  service: '華文資訊',
+};
+
+interface Props {
+  title: string;
+  description?: string;
+  featured: BizListing[];
+  regular: BizListing[];
+}
+const { title, description, featured, regular } = Astro.props;
+---
+
+<div class="biz-hero">
+  <h1>{title}</h1>
+  {description && <p>{description}</p>}
+</div>
+
+{featured.length > 0 && (
+  <>
+    <p class="biz-section-title">精選推薦</p>
+    <div class="biz-grid">
+      {featured.map(b => <BizCard biz={b} />)}
+    </div>
+  </>
+)}
+
+{regular.length > 0 && (
+  <>
+    <p class="biz-section-title">更多商家</p>
+    <div class="biz-accordion">
+      {regular.map(b => (
+        <details>
+          <summary>
+            {b.nameZh}
+            {b.area && <span style="font-size:0.75rem;color:#8a9880;margin-left:6px">{b.area}</span>}
+          </summary>
+          <div class="detail-body">
+            {b.nameEn && <span style="color:#a09070">{b.nameEn}</span>}
+            {b.description && <p style="margin:0">{b.description}</p>}
+            {b.hours && <p style="margin:0">🕐 {b.hours}</p>}
+            {b.chineseServices.length > 0 && (
+              <div class="biz-card__tags">
+                {b.chineseServices.map(s => (
+                  <span class="biz-card__tag">{SERVICE_LABELS[s] ?? s}</span>
+                ))}
+              </div>
+            )}
+            <div class="biz-card__actions">
+              {b.contactType === 'LINE' && b.contactVal && (
+                <a href={`https://line.me/ti/p/~${b.contactVal.replace(/^~/, '')}`}
+                   target="_blank" rel="noopener noreferrer" class="btn btn--line">LINE</a>
+              )}
+              {b.whatsapp && (
+                <a href={`https://wa.me/${b.whatsapp.replace(/\D/g, '')}`}
+                   target="_blank" rel="noopener noreferrer" class="btn btn--wa">WhatsApp</a>
+              )}
+              {b.instagram && (
+                <a href={`https://instagram.com/${b.instagram.replace('@', '')}`}
+                   target="_blank" rel="noopener noreferrer" class="btn btn--ig">Instagram</a>
+              )}
+              {b.googleMap && (
+                <a href={b.googleMap} target="_blank" rel="noopener noreferrer" class="btn btn--map">地圖</a>
+              )}
+            </div>
+          </div>
+        </details>
+      ))}
+    </div>
+  </>
+)}
+
+{featured.length === 0 && regular.length === 0 && (
+  <p style="text-align:center;color:#8a9880;padding:3rem 0">目前此類別尚無商家資料，敬請期待。</p>
+)}
+
+<div class="biz-register-cta">
+  <p>你的商家也想出現在這裡嗎？</p>
+  <a href="/biz-register.html" class="btn btn--gold">免費登錄你的商家</a>
+</div>
