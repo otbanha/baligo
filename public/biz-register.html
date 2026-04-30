@@ -399,11 +399,11 @@
       <div class="field">
         <label><span data-i18n="lbl_chineseService"></span></label>
         <div class="checkbox-group" id="chineseServiceGroup">
-          <label class="check-item"><input type="checkbox" value="owner" /> <span data-i18n="chk_owner"></span></label>
-          <label class="check-item"><input type="checkbox" value="staff" /> <span data-i18n="chk_staff"></span></label>
-          <label class="check-item"><input type="checkbox" value="speak" /> <span data-i18n="chk_speak"></span></label>
-          <label class="check-item"><input type="checkbox" value="menu" /> <span data-i18n="chk_menu"></span></label>
-          <label class="check-item"><input type="checkbox" value="service" /> <span data-i18n="chk_service"></span></label>
+          <div class="check-item" data-val="owner" onclick="toggleCheck(this)"><span data-i18n="chk_owner"></span></div>
+          <div class="check-item" data-val="staff" onclick="toggleCheck(this)"><span data-i18n="chk_staff"></span></div>
+          <div class="check-item" data-val="speak" onclick="toggleCheck(this)"><span data-i18n="chk_speak"></span></div>
+          <div class="check-item" data-val="menu" onclick="toggleCheck(this)"><span data-i18n="chk_menu"></span></div>
+          <div class="check-item" data-val="service" onclick="toggleCheck(this)"><span data-i18n="chk_service"></span></div>
         </div>
       </div>
 
@@ -436,6 +436,7 @@
       <div class="field">
         <label><span data-i18n="lbl_desc"></span><span class="req">*</span></label>
         <textarea id="bizDesc" data-i18n-placeholder="ph_desc"></textarea>
+        <div class="field-hint" data-i18n="hint_desc"></div>
       </div>
       <div class="field">
         <label><span data-i18n="lbl_map"></span></label>
@@ -593,6 +594,7 @@ const i18n = {
     lbl_addr:    '詳細地址',
     lbl_desc:    '商家簡介',
     ph_desc:     '用 2〜5 句話介紹你的商家，包括特色、服務項目、為什麼值得來...',
+    hint_desc:   '必須填入中文，繁體或簡體皆可',
     lbl_map:     'Google Maps 連結',
     hint_map:    '方便旅客導航，強烈建議填寫',
     lbl_photo:   '商家封面照片',
@@ -674,6 +676,7 @@ const i18n = {
     lbl_addr:    '详细地址',
     lbl_desc:    '商家简介',
     ph_desc:     '用 2〜5 句话介绍你的商家，包括特色、服务项目...',
+    hint_desc:   '必须填入中文，繁体或简体均可',
     lbl_map:     'Google Maps 链接',
     hint_map:    '方便游客导航，强烈建议填写',
     lbl_photo:   '商家封面照片',
@@ -756,6 +759,7 @@ const i18n = {
     lbl_addr:    'Address',
     lbl_desc:    'Business Description',
     ph_desc:     'Describe your business in 2–5 sentences: highlights, services, why visit...',
+    hint_desc:   'Must be written in Chinese (Traditional or Simplified)',
     lbl_map:     'Google Maps Link',
     hint_map:    'Strongly recommended — helps customers navigate to you',
     lbl_photo:   'Cover Photo',
@@ -875,17 +879,13 @@ const catMap = {
 };
 
 // ── Checkboxes ──────────────────────────────────────────────
-document.addEventListener('click', function(e) {
-  const item = e.target.closest('.check-item');
-  if (!item) return;
-  item.classList.toggle('checked');
-  const cb = item.querySelector('input[type="checkbox"]');
-  if (cb) cb.checked = !cb.checked;
-});
+function toggleCheck(el) {
+  el.classList.toggle('checked');
+}
 
 function getCheckedServices() {
-  return Array.from(document.querySelectorAll('#chineseServiceGroup input:checked'))
-    .map(cb => cb.value);
+  return Array.from(document.querySelectorAll('#chineseServiceGroup .check-item.checked'))
+    .map(el => el.dataset.val);
 }
 
 function selectCat(el) {
@@ -1076,7 +1076,6 @@ function resetForm() {
   removePhoto({ stopPropagation: () => {} });
   document.querySelectorAll('#chineseServiceGroup .check-item').forEach(el => {
     el.classList.remove('checked');
-    const cb = el.querySelector('input'); if (cb) cb.checked = false;
   });
   ['bizNameZh','bizNameEn','bizArea','bizAddr','bizDesc','bizMap',
    'contactVal','whatsappNum','igHandle','bizHours','ownerEmail','ownerName'].forEach(id => {
