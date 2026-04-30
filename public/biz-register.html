@@ -260,6 +260,44 @@
 
   .footer-note { margin-top: 32px; font-size: 11px; color: rgba(138,155,132,0.5); text-align: center; line-height: 1.7; animation: fadeUp 0.8s 0.5s ease both; }
 
+  /* Checkboxes */
+  .checkbox-group { display: flex; flex-direction: column; gap: 10px; }
+  .check-item {
+    display: flex; align-items: center; gap: 12px;
+    padding: 12px 16px;
+    background: var(--surface2);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    cursor: pointer;
+    font-size: 14px;
+    color: var(--text-muted);
+    transition: all 0.2s;
+    user-select: none;
+  }
+  .check-item:hover { border-color: rgba(201,168,76,0.4); color: var(--text); }
+  .check-item input[type="checkbox"] { display: none; }
+  .check-item::before {
+    content: '';
+    width: 18px; height: 18px;
+    border: 2px solid var(--border);
+    border-radius: 5px;
+    flex-shrink: 0;
+    transition: all 0.2s;
+    background: transparent;
+  }
+  .check-item.checked {
+    border-color: var(--gold);
+    background: var(--gold-dim);
+    color: var(--gold-light);
+  }
+  .check-item.checked::before {
+    background: var(--gold);
+    border-color: var(--gold);
+    background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='10' viewBox='0 0 12 10'%3E%3Cpath d='M1 5l3.5 3.5L11 1' stroke='%231a1200' stroke-width='2' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+    background-repeat: no-repeat;
+    background-position: center;
+  }
+
   @keyframes fadeDown { from { opacity: 0; transform: translateY(-20px); } to { opacity: 1; transform: translateY(0); } }
   @keyframes fadeUp { from { opacity: 0; transform: translateY(20px); } to { opacity: 1; transform: translateY(0); } }
   @keyframes popIn { from { transform: scale(0.5); opacity: 0; } to { transform: scale(1); opacity: 1; } }
@@ -359,6 +397,17 @@
         <input type="text" id="bizNameZh" data-i18n-placeholder="ph_nameZh" />
       </div>
       <div class="field">
+        <label><span data-i18n="lbl_chineseService"></span></label>
+        <div class="checkbox-group" id="chineseServiceGroup">
+          <label class="check-item"><input type="checkbox" value="owner" /> <span data-i18n="chk_owner"></span></label>
+          <label class="check-item"><input type="checkbox" value="staff" /> <span data-i18n="chk_staff"></span></label>
+          <label class="check-item"><input type="checkbox" value="speak" /> <span data-i18n="chk_speak"></span></label>
+          <label class="check-item"><input type="checkbox" value="menu" /> <span data-i18n="chk_menu"></span></label>
+          <label class="check-item"><input type="checkbox" value="service" /> <span data-i18n="chk_service"></span></label>
+        </div>
+      </div>
+
+      <div class="field">
         <label><span data-i18n="lbl_nameEn"></span></label>
         <input type="text" id="bizNameEn" placeholder="Amy Bali Restaurant" />
         <div class="field-hint" data-i18n="hint_nameEn"></div>
@@ -376,6 +425,7 @@
           <option value="金巴蘭 Jimbaran">金巴蘭 Jimbaran</option>
           <option value="烏魯瓦圖 Uluwatu">烏魯瓦圖 Uluwatu</option>
           <option value="登巴薩 Denpasar">登巴薩 Denpasar</option>
+          <option value="全島服務 Island-wide" data-i18n-opt="area_islandwide"></option>
           <option value="其他 Other" data-i18n-opt="area_other"></option>
         </select>
       </div>
@@ -525,12 +575,20 @@ const i18n = {
     btn_next1:   '下一步：填寫基本資訊 →',
     s2title:     '告訴我們你的商家資訊',
     s2sub:       '以下資料將顯示在 gobaligo.id 的商家目錄頁面',
+    lbl_chineseService: '中文服務能力（可多選）',
+    chk_owner:   '店主／核心管理層為華人',
+    chk_staff:   '聘有專業中文員工',
+    chk_speak:   '我會說中文',
+    chk_menu:    '我們有中文菜單／說明文件',
+    chk_service: '我們可以提供華文資訊／服務',
     lbl_nameZh:  '商家名稱（中文）',
     ph_nameZh:   '例：阿美峇里島美食館',
     lbl_nameEn:  '商家名稱（英文）',
     hint_nameEn: '英文名稱可以幫助外國旅客找到你',
     lbl_area:    '所在區域',
     area_placeholder: '-- 請選擇 --',
+    area_islandwide: '全島服務',
+    area_islandwide: '全岛服务',
     area_other:  '其他',
     lbl_addr:    '詳細地址',
     lbl_desc:    '商家簡介',
@@ -600,6 +658,12 @@ const i18n = {
     btn_next1:   '下一步：填写基本信息 →',
     s2title:     '告诉我们你的商家信息',
     s2sub:       '以下资料将显示在 gobaligo.id 的商家目录页面',
+    lbl_chineseService: '中文服务能力（可多选）',
+    chk_owner:   '店主／核心管理层为华人',
+    chk_staff:   '聘有专业中文员工',
+    chk_speak:   '我会说中文',
+    chk_menu:    '我们有中文菜单／说明文件',
+    chk_service: '我们可以提供华文信息／服务',
     lbl_nameZh:  '商家名称（中文）',
     ph_nameZh:   '例：阿美巴厘岛美食馆',
     lbl_nameEn:  '商家名称（英文）',
@@ -675,12 +739,19 @@ const i18n = {
     btn_next1:   'Next: Business Info →',
     s2title:     'Tell us about your business',
     s2sub:       'This information will appear on the gobaligo.id business directory',
+    lbl_chineseService: 'Chinese Service Capabilities (select all that apply)',
+    chk_owner:   'Owner / management is Chinese',
+    chk_staff:   'Chinese-speaking staff on team',
+    chk_speak:   'I speak Chinese',
+    chk_menu:    'Chinese menu / materials available',
+    chk_service: 'Full service available in Chinese',
     lbl_nameZh:  'Business Name (Chinese)',
     ph_nameZh:   'e.g. 阿美巴里島美食館',
     lbl_nameEn:  'Business Name (English)',
     hint_nameEn: 'An English name helps international visitors find you',
     lbl_area:    'Area',
     area_placeholder: '-- Select --',
+    area_islandwide: 'Island-wide',
     area_other:  'Other',
     lbl_addr:    'Address',
     lbl_desc:    'Business Description',
@@ -766,6 +837,8 @@ function setLang(l, btn) {
   // Select first option
   const areaPlaceholder = document.querySelector('#bizArea option[value=""]');
   if (areaPlaceholder) areaPlaceholder.textContent = i18n[lang]['area_placeholder'];
+  const areaIslandwide = document.querySelector('#bizArea option[data-i18n-opt="area_islandwide"]');
+  if (areaIslandwide) areaIslandwide.textContent = i18n[lang]['area_islandwide'];
   const areaOther = document.querySelector('#bizArea option[data-i18n-opt="area_other"]');
   if (areaOther) areaOther.textContent = i18n[lang]['area_other'];
 
@@ -800,6 +873,20 @@ const catMap = {
   shop:       { icon: '🛍️', label: '購物 / 伴手禮' },
   other:      { icon: '✨', label: '其他服務' },
 };
+
+// ── Checkboxes ──────────────────────────────────────────────
+document.addEventListener('click', function(e) {
+  const item = e.target.closest('.check-item');
+  if (!item) return;
+  item.classList.toggle('checked');
+  const cb = item.querySelector('input[type="checkbox"]');
+  if (cb) cb.checked = !cb.checked;
+});
+
+function getCheckedServices() {
+  return Array.from(document.querySelectorAll('#chineseServiceGroup input:checked'))
+    .map(cb => cb.value);
+}
 
 function selectCat(el) {
   document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('selected'));
@@ -987,6 +1074,10 @@ function resetForm() {
   document.querySelectorAll('.step-panel').forEach(p => p.classList.remove('active'));
   document.querySelectorAll('.cat-btn').forEach(b => b.classList.remove('selected'));
   removePhoto({ stopPropagation: () => {} });
+  document.querySelectorAll('#chineseServiceGroup .check-item').forEach(el => {
+    el.classList.remove('checked');
+    const cb = el.querySelector('input'); if (cb) cb.checked = false;
+  });
   ['bizNameZh','bizNameEn','bizArea','bizAddr','bizDesc','bizMap',
    'contactVal','whatsappNum','igHandle','bizHours','ownerEmail','ownerName'].forEach(id => {
     const el = document.getElementById(id);
