@@ -1060,6 +1060,7 @@ async function submitForm() {
       contactType: state.contactType, contactVal: v('contactVal'),
       whatsapp: v('whatsappNum'), instagram: v('igHandle'),
       hours: v('bizHours'), ownerEmail: v('ownerEmail'), ownerName: v('ownerName'),
+      chineseServices: getCheckedServices(),
       submittedAt: new Date().toISOString(),
     };
     await fetch(APPS_SCRIPT_URL, {
