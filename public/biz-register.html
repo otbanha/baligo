@@ -444,6 +444,11 @@
         <div class="field-hint" data-i18n="hint_map"></div>
       </div>
       <div class="field">
+        <label><span data-i18n="lbl_website"></span></label>
+        <input type="url" id="bizWebsite" data-i18n-placeholder="ph_website" />
+      </div>
+
+      <div class="field">
         <label><span data-i18n="lbl_photo"></span></label>
         <div class="upload-zone" id="uploadZone" onclick="document.getElementById('bizPhoto').click()">
           <input type="file" id="bizPhoto" accept="image/*" style="display:none" onchange="handlePhoto(this)" />
@@ -597,6 +602,8 @@ const i18n = {
     hint_desc:   '必須填入中文，繁體或簡體皆可',
     lbl_map:     'Google Maps 連結',
     hint_map:    '方便旅客導航，強烈建議填寫',
+    lbl_website: '網站',
+    ph_website:  'https://www.yourwebsite.com',
     lbl_photo:   '商家封面照片',
     upload_text: '點擊上傳圖片',
     upload_hint: '建議尺寸：1280×720px（16:9 橫向）· JPG / PNG / WebP · 最大 5MB',
@@ -679,6 +686,8 @@ const i18n = {
     hint_desc:   '必须填入中文，繁体或简体均可',
     lbl_map:     'Google Maps 链接',
     hint_map:    '方便游客导航，强烈建议填写',
+    lbl_website: '网站',
+    ph_website:  'https://www.yourwebsite.com',
     lbl_photo:   '商家封面照片',
     upload_text: '点击上传图片',
     upload_hint: '建议尺寸：1280×720px（16:9 横向）· JPG / PNG / WebP · 最大 5MB',
@@ -762,6 +771,8 @@ const i18n = {
     hint_desc:   'Must be written in Chinese (Traditional or Simplified)',
     lbl_map:     'Google Maps Link',
     hint_map:    'Strongly recommended — helps customers navigate to you',
+    lbl_website: 'Website',
+    ph_website:  'https://www.yourwebsite.com',
     lbl_photo:   'Cover Photo',
     upload_text: 'Click to upload',
     upload_hint: 'Recommended: 1280×720px (16:9 landscape) · JPG / PNG / WebP · Max 5MB',
@@ -1045,7 +1056,7 @@ async function submitForm() {
     const payload = {
       category: state.cat, nameZh: v('bizNameZh'), nameEn: v('bizNameEn'),
       area: v('bizArea'), address: v('bizAddr'), description: v('bizDesc'),
-      googleMap: v('bizMap'), photoUrl,
+      googleMap: v('bizMap'), website: v('bizWebsite'), photoUrl,
       contactType: state.contactType, contactVal: v('contactVal'),
       whatsapp: v('whatsappNum'), instagram: v('igHandle'),
       hours: v('bizHours'), ownerEmail: v('ownerEmail'), ownerName: v('ownerName'),
@@ -1078,7 +1089,7 @@ function resetForm() {
     el.classList.remove('checked');
   });
   ['bizNameZh','bizNameEn','bizArea','bizAddr','bizDesc','bizMap',
-   'contactVal','whatsappNum','igHandle','bizHours','ownerEmail','ownerName'].forEach(id => {
+   'bizWebsite','contactVal','whatsappNum','igHandle','bizHours','ownerEmail','ownerName'].forEach(id => {
     const el = document.getElementById(id);
     if (el) el.value = '';
   });
