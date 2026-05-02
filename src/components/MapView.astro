@@ -287,6 +287,24 @@ const { area } = Astro.props;
       });
     }
 
+    function fitToFeatures(features) {
+      if (features.length === 0) return;
+      if (features.length === 1) {
+        map.flyTo({ center: features[0].geometry.coordinates, zoom: 15 });
+        return;
+      }
+      let minLng = Infinity, maxLng = -Infinity, minLat = Infinity, maxLat = -Infinity;
+      features.forEach(f => {
+        const [lng, lat] = f.geometry.coordinates;
+        minLng = Math.min(minLng, lng); maxLng = Math.max(maxLng, lng);
+        minLat = Math.min(minLat, lat); maxLat = Math.max(maxLat, lat);
+      });
+      map.fitBounds(
+        [[minLng - 0.005, minLat - 0.005], [maxLng + 0.005, maxLat + 0.005]],
+        { padding: 60, maxZoom: 15, duration: 600 }
+      );
+    }
+
     function refreshData() {
       if (map.getSource('places')) {
         map.getSource('places').setData({ type: 'FeatureCollection', features: getFilteredFeatures() });
@@ -699,6 +717,10 @@ const { area } = Astro.props;
           pill.classList.add('active');
           activeCat = pill.dataset.cat || '全部';
           refreshData();
+          if (activeCat !== '全部') {
+            const filtered = getFilteredFeatures();
+            if (filtered.length > 0) fitToFeatures(filtered);
+          }
         });
       }
     } catch (err) {
