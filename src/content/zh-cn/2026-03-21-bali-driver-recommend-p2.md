@@ -11,7 +11,7 @@ originalUrl: ''
 shuffle_h2: true
 embeds: []
 lang: zh-cn
-_srcHash: d7bd8829155b91bd3d56f3e376713717
+_srcHash: 97adbcb579e51c797ccc97282dcd96e3
 ---
 
 第一页，获得我们优先推荐的司机在[这里](https://gobaligo.id/blog/2024-07-07-668aaea7fd89780001981840/)
@@ -52,7 +52,7 @@ _srcHash: d7bd8829155b91bd3d56f3e376713717
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787651434-ferry_new.jpg)
 
-👍🏼[网友推荐1](https://www.facebook.com/groups/baligo/permalink/1314748505739058/) 👍🏼[网友推荐2](https://www.facebook.com/groups/baligo/permalink/1374937543053487/) 👍🏼[网友推荐3](https://www.facebook.com/groups/baligo/permalink/1455792474967993/) 👍🏼[网友推荐4](https://www.facebook.com/groups/baligo/permalink/1475140399699867/) 👍🏼[网友推荐5](https://www.facebook.com/groups/baligo/permalink/1499906240556616/) 👍🏼[网友推荐6](https://www.facebook.com/groups/baligo/permalink/1513341542546419/) 👍🏼[网友推荐7](https://www.facebook.com/groups/baligo/permalink/1518802185333688/) 👍🏼[网友推荐8](https://www.facebook.com/groups/baligo/permalink/1583829478830958/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/SHb4XS51u7Bw93Gd/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/yJW1NU71CcRUJ1sK/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/VVtukQnTPYug5XMs/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1LRZUxJSof/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/16ti13tia3/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/16qQgKgrQp/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/18vHZPZk7U/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/14TkJXfNWnZ/)
+👍🏼[网友推荐1](https://www.facebook.com/groups/baligo/permalink/1314748505739058/) 👍🏼[网友推荐2](https://www.facebook.com/groups/baligo/permalink/1374937543053487/) 👍🏼[网友推荐3](https://www.facebook.com/groups/baligo/permalink/1455792474967993/) 👍🏼[网友推荐4](https://www.facebook.com/groups/baligo/permalink/1475140399699867/) 👍🏼[网友推荐5](https://www.facebook.com/groups/baligo/permalink/1499906240556616/) 👍🏼[网友推荐6](https://www.facebook.com/groups/baligo/permalink/1513341542546419/) 👍🏼[网友推荐7](https://www.facebook.com/groups/baligo/permalink/1518802185333688/) 👍🏼[网友推荐8](https://www.facebook.com/groups/baligo/permalink/1583829478830958/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/SHb4XS51u7Bw93Gd/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/yJW1NU71CcRUJ1sK/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/VVtukQnTPYug5XMs/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1LRZUxJSof/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/16ti13tia3/) 👍🏼[网友推荐14](https://www.facebook.com/share/p/16qQgKgrQp/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/18vHZPZk7U/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/14TkJXfNWnZ/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/1Ftwd7LbNj/)
 
 ## 阿弘 Adi Wang
 
