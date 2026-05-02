@@ -1,0 +1,426 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>峇里島金巴蘭攻略地圖 by gobaligo</name>
+    <description>「峇里島旅遊攻略」https://gobaligo.id/</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>金巴蘭必訪景點</name>
+      <Placemark>
+        <name>Jimbaran Beach</name>
+        <description>請看「金巴蘭完整攻略」的介紹：https://vocus.cc/article/654b8438fd897800016bf4cc</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1663701,-8.7765946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Samasta Lifestyle Village</name>
+        <description>請看「金巴蘭完整攻略」的介紹：https://gobaligo.id/go/jimbaran-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1646306,-8.7854194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GO KART BALI</name>
+        <description>請看「金巴蘭完整攻略」的介紹：https://gobaligo.id/go/jimbaran-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1489664,-8.7925746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Garuda Wisnu Kencana Cultural Park</name>
+        <description>請看「金巴蘭完整攻略」的介紹：https://gobaligo.id/go/jimbaran-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1675986,-8.8104228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Suluban Beach</name>
+        <description>請看「金巴蘭完整攻略」的介紹：https://gobaligo.id/go/jimbaran-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.0882875,-8.8160171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azure beach restaurant</name>
+        <description>請看「金巴蘭完整攻略」的介紹：https://gobaligo.id/go/jimbaran-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1667934,-8.7554184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Locca Sea House</name>
+        <description>請看「金巴蘭完整攻略」的介紹：https://gobaligo.id/go/jimbaran-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1479086,-8.7805601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rock Bar</name>
+        <description>請看「金巴蘭完整攻略」的介紹：https://gobaligo.id/go/jimbaran-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1384712,-8.7842394,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>騎駱駝</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7fkjSv5WFx39PvrMcyDxV5HBbHbzQM4LoJ1PVeb4AyyNRbvAOuCcpbyEJPHAfaWTS-B70kyl5-24NGrn6HuJwotE6PhjSMmKJVR3sI2u-FkZJJkwWYXo1h7f1UqJrG2DUieR6GX4UP5J0sK23AgxFvuNWqtPMHgwqTYL8WI_gJpu55nh5rCLue-8xT0I7Y8doFetLoZDAHE46oMP87AfPnbXLUS_x29tY12udC9YQcGSg3DngujidODW4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「金巴蘭完整攻略」的介紹：https://gobaligo.id/go/jimbaran-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7fkjSv5WFx39PvrMcyDxV5HBbHbzQM4LoJ1PVeb4AyyNRbvAOuCcpbyEJPHAfaWTS-B70kyl5-24NGrn6HuJwotE6PhjSMmKJVR3sI2u-FkZJJkwWYXo1h7f1UqJrG2DUieR6GX4UP5J0sK23AgxFvuNWqtPMHgwqTYL8WI_gJpu55nh5rCLue-8xT0I7Y8doFetLoZDAHE46oMP87AfPnbXLUS_x29tY12udC9YQcGSg3DngujidODW4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1637172,-8.7525851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>海鮮料理夕陽餐廳不踩雷推薦</name>
+      <Placemark>
+        <name>Menega Cafe</name>
+        <description>金巴蘭海鮮餐廳推薦：https://gobaligo.id/go/jimbaran-seafood-recommend</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1645264,-8.7808331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kisik Seafood Bar and Grill</name>
+        <description>金巴蘭海鮮餐廳推薦：https://gobaligo.id/go/jimbaran-seafood-recommend</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1372862,-8.7854781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cuca Restaurant</name>
+        <description>金巴蘭海鮮餐廳推薦：https://gobaligo.id/go/jimbaran-seafood-recommend</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.169743,-8.7727194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sundara</name>
+        <description>金巴蘭海鮮餐廳推薦：https://gobaligo.id/go/jimbaran-seafood-recommend</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1617606,-8.7828563,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jimbaran Beach Club</name>
+        <description>金巴蘭海鮮餐廳推薦：https://gobaligo.id/go/jimbaran-seafood-recommend</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1631605,-8.7817145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Nyoman</name>
+        <description>金巴蘭海鮮餐廳推薦：https://gobaligo.id/go/jimbaran-seafood-recommend</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.173097,-8.7715053,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lia Cafe</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=5gg10paCxfY"><img src="https://img.youtube.com/vi/5gg10paCxfY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/5gg10paCxfY">https://www.youtube.com/embed/5gg10paCxfY</a><br><br>金巴蘭海鮮餐廳推薦：https://gobaligo.id/go/jimbaran-seafood-recommend]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/5gg10paCxfY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1688399,-8.7706682,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AKUA de Bilbao</name>
+        <description>金巴蘭海鮮餐廳推薦：https://gobaligo.id/go/jimbaran-seafood-recommend</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1693428,-8.7698189,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Made Bagus Cafe Jimbaran</name>
+        <description>金巴蘭海鮮餐廳推薦：https://gobaligo.id/go/jimbaran-seafood-recommend</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1648722,-8.7804395,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wr Mang Ayu ex Waroenk Djadoel</name>
+        <description><![CDATA[（李秋雄提供）想必大家對金巴蘭的日落海鮮印象多半是「又貴又難吃」吧？但 Wr Mang Ayu（前身 Waroenk Djadoel）完全顛覆了這個刻板印象。這家小餐館我們已經來第二次了，2023 年初訪時只是隨意點了簡餐配啤酒，卻被實惠的價格與美味程度深深驚豔。這次再次回來特地選擇在這裡享用晚餐迎接日落，依然沒有讓我們失望。台幣 600 元的套餐裡，有一隻龍蝦、一條魚、四隻烤蝦、蛤蜊、魷魚串、炒青菜、白飯加上一罐水，雖然龍蝦不算大，但味道絲毫不打折。店主一家人熱情親切，加上眼前無價的金巴蘭夕陽，讓這頓餐成為我們此行峇里島最後一晚最完美的回憶。<br><br>金巴蘭海鮮餐廳推薦：https://gobaligo.id/go/jimbaran-seafood-recommend]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1689834,-8.7695516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kekeluargaan Pandan Sari Cafe</name>
+        <description>金巴蘭海鮮餐廳推薦：https://gobaligo.id/go/jimbaran-seafood-recommend</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1641852,-8.7811489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>不吃海鮮的可以來這裡</name>
+      <Placemark>
+        <name>White Sands Beach House</name>
+        <description>金巴蘭海鮮餐廳推薦：https://gobaligo.id/go/jimbaran-seafood-recommend</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1637649,-8.7812252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waroeng Kampoeng</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5dcuZutI5XbjapLnHDzHuAhdhfOGQXLwto02ttpumSCm8GrIDygq_vnpxAaKKaglyXkasGqeCTRFY4pD_XrD9G6H9Pp78zH_pBnbnrWaaVUSuNTQMjHu5tyO44mDJEX16F7Bn-IppfYimyw8a2Kg8V3o3NUdSXux3XCV4xDTftHZt-jYB5quHJZHc-rZcGyt5yplxi4Vll2CMR_czRMhQHAgyEX5yeNxXAwJKQMajN4ilt8HjKA55lh74?authuser=0&fife=s16383" height="200" width="auto" /><br><br>（李秋雄提供）位於金巴蘭附近的這家餐廳,  我們在2016年第一次造訪峇里島時, 第一個晚餐, 第一個食物, 就是帶我們來這家餐廳, 一吃就愛上了, 之後2018跟2023再次來峇里島, 一定都會來這裡用餐<br><br>這家的沙嗲個人覺得很厲害, 濃濃的醬香味, 搭配上炭烤過的雞肉沙嗲, OMG!! 只能說是目前心中的第一名, 其他菜色像是炒麵, 糖醋魚, 烤蛤蜊, 炸蝦, 炒青菜, 都很有水準, 我們一行5人, 加上酒水, 吃了大概1500台幣<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X76JQF4jwZku660Q5w0v1aUqjZaR6iVP6PZUT8LXi1vjCgImmWg-Zr29bTe--pXvB0l2C0A4MuDwqgZgDA1d5q_tFsl8RGJxZmrH7fJaDKJDJTydzCh2RPfNLOltk5xK6b8_rulkF8aLzMV0Yxal1Xskh0QXSbr75rVMToPaA7tiOeYEazgrF7JKExAGPUwkDg2VAkHmZsbhMf6Pla6qW9z3BHttKzmm6at_X6vKDxaqRyJtnfBHxqr1uk?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5dcuZutI5XbjapLnHDzHuAhdhfOGQXLwto02ttpumSCm8GrIDygq_vnpxAaKKaglyXkasGqeCTRFY4pD_XrD9G6H9Pp78zH_pBnbnrWaaVUSuNTQMjHu5tyO44mDJEX16F7Bn-IppfYimyw8a2Kg8V3o3NUdSXux3XCV4xDTftHZt-jYB5quHJZHc-rZcGyt5yplxi4Vll2CMR_czRMhQHAgyEX5yeNxXAwJKQMajN4ilt8HjKA55lh74?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X76JQF4jwZku660Q5w0v1aUqjZaR6iVP6PZUT8LXi1vjCgImmWg-Zr29bTe--pXvB0l2C0A4MuDwqgZgDA1d5q_tFsl8RGJxZmrH7fJaDKJDJTydzCh2RPfNLOltk5xK6b8_rulkF8aLzMV0Yxal1Xskh0QXSbr75rVMToPaA7tiOeYEazgrF7JKExAGPUwkDg2VAkHmZsbhMf6Pla6qW9z3BHttKzmm6at_X6vKDxaqRyJtnfBHxqr1uk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1811695,-8.7826701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>SPA 推薦</name>
+      <Placemark>
+        <name>Hua Spa</name>
+        <description>詳細介紹：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1758699,-8.7808504,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sekar Jepun Spa</name>
+        <description>詳細介紹：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1796049,-8.7812046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ayutaya Spa Bali</name>
+        <description>詳細介紹：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.170536,-8.8016736,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ANN SPA</name>
+        <description>台灣老闆娘，超好評SPA: https://gobaligo.id/blog/ann-spa-jimbaran/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1773273,-8.7839934,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>金巴蘭住宿推薦</name>
+      <Placemark>
+        <name>峇里島洲際度假村</name>
+        <description>詳細介紹【金巴蘭無敵海景飯店推薦】：https://gobaligo.id/go/jimbaran-ocean-view-hotels</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1676792,-8.7796489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島金巴蘭灣四季渡假村</name>
+        <description>詳細介紹【金巴蘭無敵海景飯店推薦】：https://gobaligo.id/go/jimbaran-ocean-view-hotels</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1588225,-8.7843023,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AYANA Villas Bali</name>
+        <description>詳細介紹【金巴蘭無敵海景飯店推薦】：https://gobaligo.id/go/jimbaran-ocean-view-hotels</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1366264,-8.788001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kayumanis Jimbaran Private Estate</name>
+        <description>詳細介紹【金巴蘭無敵海景飯店推薦】：https://gobaligo.id/go/jimbaran-ocean-view-hotels</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1698389,-8.7731699,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Joya Biu Biu Resort</name>
+        <description>詳細介紹【金巴蘭無敵海景飯店推薦】：https://gobaligo.id/go/jimbaran-ocean-view-hotels</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1294298,-8.7910667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Milo's Home]]></name>
+        <description>詳細介紹【金巴蘭無敵海景飯店推薦】：https://gobaligo.id/go/jimbaran-ocean-view-hotels</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1288121,-8.7909281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Platinum hotel jimbaran beach</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7Eymm-J5HMp99J7kIPLrUFPREw1cqkOFNS_IXSWWG0XJU5vAAA6IlZx97C5AMTTNl2TcjsZj7xvU6jJmhXr8jh3QR7rkwiO8w1wU5ra-shY_33ncAvZcmYZdZKXggeZHFPKrbhJiZFO1WnBak52i04yh-tNgoDK2Z_M4eiU4olCJbbOBSrQB0oj0uXA_cZdViFQHY9zL5CV1h9CC9DyzDxogkeSL1VDTeJk6mW4ng7mUg5NEWOlzZ06Eg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹【金巴蘭無敵海景飯店推薦】：https://gobaligo.id/go/jimbaran-ocean-view-hotels]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7Eymm-J5HMp99J7kIPLrUFPREw1cqkOFNS_IXSWWG0XJU5vAAA6IlZx97C5AMTTNl2TcjsZj7xvU6jJmhXr8jh3QR7rkwiO8w1wU5ra-shY_33ncAvZcmYZdZKXggeZHFPKrbhJiZFO1WnBak52i04yh-tNgoDK2Z_M4eiU4olCJbbOBSrQB0oj0uXA_cZdViFQHY9zL5CV1h9CC9DyzDxogkeSL1VDTeJk6mW4ng7mUg5NEWOlzZ06Eg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.170323,-8.7629706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Arpana Villas & Private estate]]></name>
+        <description>詳細介紹【金巴蘭無敵海景飯店推薦】：https://gobaligo.id/go/jimbaran-ocean-view-hotels</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1695757,-8.7910136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島萊佛士酒店</name>
+        <description>詳細介紹【金巴蘭無敵海景飯店推薦】：https://gobaligo.id/go/jimbaran-ocean-view-hotels</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.15788,-8.7863798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nuanu Creative City 攻略地圖 by gobaligo</name>
+    <description>峇里島旅遊攻略: https://gobaligo.id/</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Nauru 景點介紹</name>
+      <Placemark>
+        <name>The Earth Sentinels</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6KPxvQ2_yGZ0-HgzeCItzEXGjq2U7zAZnEHNsl8tO-ppx20emG60ty9KWgUnBsTAgqBB4PiYetYC0RrmeUNWC3KO-vPI22mx5T6Wf83VSAJ6EkYD1Y5ZnPKRxWeOWXoCJawGRcuX7Ia4nyZp7CNve4avrV00EjXI7kG9YqoCvJkc07Pq5jJYAdfmfCGQf277NZ5k0EoCHv3riLnl9KCrwymjgqPVya4uMj-YoZg9YSFKgajyaIk5fk6Gg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>地球衛兵雕像，象徵人類與地球的連結，是一處令人震撼的藝術地標。詳細介紹：https://gobaligo.id/go/nuanu-creative-city-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6KPxvQ2_yGZ0-HgzeCItzEXGjq2U7zAZnEHNsl8tO-ppx20emG60ty9KWgUnBsTAgqBB4PiYetYC0RrmeUNWC3KO-vPI22mx5T6Wf83VSAJ6EkYD1Y5ZnPKRxWeOWXoCJawGRcuX7Ia4nyZp7CNve4avrV00EjXI7kG9YqoCvJkc07Pq5jJYAdfmfCGQf277NZ5k0EoCHv3riLnl9KCrwymjgqPVya4uMj-YoZg9YSFKgajyaIk5fk6Gg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0956159,-8.6288295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>THK Tower</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7KMtqg2oQ3vWxngzBeVbQ1arreyGVwBnr_R5QL1wJVoN9Z4cxaGSsyyTJo4JWj_iy0DRbpmLZ30n7-PDMR_MwIRgKsJzCiWFcp7NqIn78RWUr0ZMDj6dbHt4HSYsRfdmDu786brZ1Yd2lGTvKaOVD9BM-d8QBxA2Niy6pfb_U6UbFST74ZOnPNs2xLEzmeMyGM0c8P7-ZjxsnKPSlfhx_969GdvFK3GjSO448yXbu6h7Uj9lDaKUyZYh8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>峇里島的建築奇蹟：https://gobaligo.id/go/nuanu-creative-city-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7KMtqg2oQ3vWxngzBeVbQ1arreyGVwBnr_R5QL1wJVoN9Z4cxaGSsyyTJo4JWj_iy0DRbpmLZ30n7-PDMR_MwIRgKsJzCiWFcp7NqIn78RWUr0ZMDj6dbHt4HSYsRfdmDu786brZ1Yd2lGTvKaOVD9BM-d8QBxA2Niy6pfb_U6UbFST74ZOnPNs2xLEzmeMyGM0c8P7-ZjxsnKPSlfhx_969GdvFK3GjSO448yXbu6h7Uj9lDaKUyZYh8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0945092,-8.6303897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Luna Beach Club</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5aHR5RC7ypjaESZqu1nInGOhnLEifRvhHaH8Ci8fLE3C7OixL2sXg2LGak6bQsoRfitvMgqmYw0RdknsM44EoiZSmWR13Roi-xc1CKHBtGJlY9sOxW-yh-3D7szLG-RL1h4pVZQnU_H16rwuA0heWjCZtp8PIPL6y-eou0DQP1agz615Ovhmy2uiXIvMjrnKPVqB6GihQUzWjOMO84u741Y4ZNBrFOhxWa_fc3QE-TLhhi7kocTfpu29k?authuser=0&fife=s16383" height="200" width="auto" /><br><br>夢幻海灘俱樂部：https://gobaligo.id/go/nuanu-creative-city-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5aHR5RC7ypjaESZqu1nInGOhnLEifRvhHaH8Ci8fLE3C7OixL2sXg2LGak6bQsoRfitvMgqmYw0RdknsM44EoiZSmWR13Roi-xc1CKHBtGJlY9sOxW-yh-3D7szLG-RL1h4pVZQnU_H16rwuA0heWjCZtp8PIPL6y-eou0DQP1agz615Ovhmy2uiXIvMjrnKPVqB6GihQUzWjOMO84u741Y4ZNBrFOhxWa_fc3QE-TLhhi7kocTfpu29k?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1006557,-8.6307848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Magic Garden</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5lw5zl4jLqej7oFIBlIRURyT4yrBGZkOkp1FMVVGAYuLwue6lpsHQj7494lHdG8bRF6QQouzCWsdC1e3bPZ_VNIWg2A1P6DTBX_9FXJ3nh4fue5BXvGG4qeo-wX7H7KSBVQ7JVWebjPCL3J0xocz_dAgYIjDgKSgHY7Rc2R3ZsFHvcHm_krGWihB93hAOKe1k2z0J7USeobDDozae3nRkkNGYn5f1YOQ7w1HKgJ70bJztYdPsvIKdd4tg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹：https://gobaligo.id/go/nuanu-creative-city-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5lw5zl4jLqej7oFIBlIRURyT4yrBGZkOkp1FMVVGAYuLwue6lpsHQj7494lHdG8bRF6QQouzCWsdC1e3bPZ_VNIWg2A1P6DTBX_9FXJ3nh4fue5BXvGG4qeo-wX7H7KSBVQ7JVWebjPCL3J0xocz_dAgYIjDgKSgHY7Rc2R3ZsFHvcHm_krGWihB93hAOKe1k2z0J7USeobDDozae3nRkkNGYn5f1YOQ7w1HKgJ70bJztYdPsvIKdd4tg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0975364,-8.627021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pacha alpaca</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4A4gdmukJZm66_so1RrxRrNqeOTEfLNPWMpn2G-LH3zqQRYSc_1-tILi9bkdMyOWFdiFfKS8pzl368ZH8KeOcpu3ucg30YycfLv8aNSCnorLMpxFdEz7Q-S1IF9Xs_XQJgSIGjLhWkuhTLlx7nGV-T5zOc6v1mR3jqluRpJwOodU81_-f_2g3MUHM9ICDT1kESukF4q712w056KxiUkr1hYO3-Bzw5x6U_p0aexAOWLeQKzanBJBGfHpQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹：https://gobaligo.id/go/nuanu-creative-city-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4A4gdmukJZm66_so1RrxRrNqeOTEfLNPWMpn2G-LH3zqQRYSc_1-tILi9bkdMyOWFdiFfKS8pzl368ZH8KeOcpu3ucg30YycfLv8aNSCnorLMpxFdEz7Q-S1IF9Xs_XQJgSIGjLhWkuhTLlx7nGV-T5zOc6v1mR3jqluRpJwOodU81_-f_2g3MUHM9ICDT1kESukF4q712w056KxiUkr1hYO3-Bzw5x6U_p0aexAOWLeQKzanBJBGfHpQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0998369,-8.6302296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aurora Media Park</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7USGYelg1h1OeytbTepGnrwvKgyYQgiJyvbjvoSn1hs6QP-8OweJ6nV8_LII173VFjmwHJrJ8EPcIj6JjggQlxJv2fDaQBh486NIoC3PPyS9-ITel6U-s1U3BUbeSiMOQWVeW1iZiBYRnyApEGWH4qiG3MG9x19G3CdC45spMCYc0tyREDJ0bUjWsppITFcxth0-ePN-IKmT4XyIwy5RjuhrFfPQbPF3IJQY3n8hXYErdy_2cyBDLSiRs?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹：https://gobaligo.id/go/nuanu-creative-city-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7USGYelg1h1OeytbTepGnrwvKgyYQgiJyvbjvoSn1hs6QP-8OweJ6nV8_LII173VFjmwHJrJ8EPcIj6JjggQlxJv2fDaQBh486NIoC3PPyS9-ITel6U-s1U3BUbeSiMOQWVeW1iZiBYRnyApEGWH4qiG3MG9x19G3CdC45spMCYc0tyREDJ0bUjWsppITFcxth0-ePN-IKmT4XyIwy5RjuhrFfPQbPF3IJQY3n8hXYErdy_2cyBDLSiRs?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0964277,-8.6291148,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Labyrinth Collective</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4Q3iiSxO8oY19FsmvJMKL3cZPhk3a3cBz-6sVyriQ1Uo9J__y_voYq4191taYUbtOfb0FpPIFm7gsI4D5YLehgv8vemWib9F7kKoLJgwBP-a4b9e6bEcVpFUXqmjFk3tvtdImmWVHCQvtXjjrmsKV9ULKy6SDohSoaRLGx7tk5YSN7FplByVRZSHloop0-VEY9hSra6J4Jni4AgfE63eYY2smFEeDSZByOSYJauLW6ZHEoMD4idSvN_68?authuser=0&fife=s16383" height="200" width="auto" /><br><br>融合藝術、科技與永續發展的創新空間：https://gobaligo.id/go/nuanu-creative-city-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4Q3iiSxO8oY19FsmvJMKL3cZPhk3a3cBz-6sVyriQ1Uo9J__y_voYq4191taYUbtOfb0FpPIFm7gsI4D5YLehgv8vemWib9F7kKoLJgwBP-a4b9e6bEcVpFUXqmjFk3tvtdImmWVHCQvtXjjrmsKV9ULKy6SDohSoaRLGx7tk5YSN7FplByVRZSHloop0-VEY9hSra6J4Jni4AgfE63eYY2smFEeDSZByOSYJauLW6ZHEoMD4idSvN_68?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.099833,-8.6302213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jungle Kids</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4yX4HNflcmvnWN9ovY1V7d-_A-M0XJEmcbMXbhEsB5UJ3HpeLUcVBxFI-aUju-GHMi17x__Zy2kBAtaEU5u6f6pSOr9xh5qb-CO5hJk7j9upVo594NsN5mbq7io61lx7MqeY5yauVFhQ5uysj9UH2fQVXi_1e6VXh1BP8Ghmov_vBUrxKTrCAakHw__mPvSNkIk9UqEttMvfDMK8PGYZg_GOnN7h9rRTpgBEe58o3oXbeVxafBv46yDxw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹：https://gobaligo.id/go/nuanu-creative-city-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4yX4HNflcmvnWN9ovY1V7d-_A-M0XJEmcbMXbhEsB5UJ3HpeLUcVBxFI-aUju-GHMi17x__Zy2kBAtaEU5u6f6pSOr9xh5qb-CO5hJk7j9upVo594NsN5mbq7io61lx7MqeY5yauVFhQ5uysj9UH2fQVXi_1e6VXh1BP8Ghmov_vBUrxKTrCAakHw__mPvSNkIk9UqEttMvfDMK8PGYZg_GOnN7h9rRTpgBEe58o3oXbeVxafBv46yDxw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1004375,-8.6259375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LUMEIRA NUANU - Social Wellness Complex</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4QVTUyvheAzU2fABDvcTorc-gMTw2WfJ9cUSVeZ-8__P4I8wGPhgqLGlTqJ3PuuP-W2nDiZpuT7xoT1bVxK9m2cy9Q0nvJoInq5gDlBh1kjGeqn_sAF87sq4Jq_wkowTj8fjDxfgxa_99h1KZlr6_gnPCr1txcTlXimAP3qljB2PeKirZ_Cp_uyWsOnq_1yoLP8CIywQnFhIGQVfowHb5nypHPkbOpyJhwjQRUjL4c0-L0zAy-Hrhpxrs?authuser=0&fife=s16383" height="200" width="auto" /><br><br>全球最大的木火熱蒸氣浴：https://gobaligo.id/go/nuanu-creative-city-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4QVTUyvheAzU2fABDvcTorc-gMTw2WfJ9cUSVeZ-8__P4I8wGPhgqLGlTqJ3PuuP-W2nDiZpuT7xoT1bVxK9m2cy9Q0nvJoInq5gDlBh1kjGeqn_sAF87sq4Jq_wkowTj8fjDxfgxa_99h1KZlr6_gnPCr1txcTlXimAP3qljB2PeKirZ_Cp_uyWsOnq_1yoLP8CIywQnFhIGQVfowHb5nypHPkbOpyJhwjQRUjL4c0-L0zAy-Hrhpxrs?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0992899,-8.6268919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oshom Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X75HrPSMZ45vz_Ml-ddky6G5NgHTlDTS_D9CUMyp_WDl6A1HeQGPDkmsqKTmCaHXwMmajh9hc_vuREdd25QJnh1utIUeIxYme6-2-EJGVjjeR8zN7SQIF4jxXo7uDCiOyj2ZTTCxyhWUUrIfoJlapeUAGRBWFMJR2Uf9Buzk0f_jgdzUbAC_Its8ZFwXR9Q3It0CnRo05WGj_-BjpFrMxRmEmtaSjgWVfBXt33j_AZp2WWBXaEQ76jKCKQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>精品旅館：https://gobaligo.id/blog/2025-02-02-679f6ce7fd89780001f18c4a/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X75HrPSMZ45vz_Ml-ddky6G5NgHTlDTS_D9CUMyp_WDl6A1HeQGPDkmsqKTmCaHXwMmajh9hc_vuREdd25QJnh1utIUeIxYme6-2-EJGVjjeR8zN7SQIF4jxXo7uDCiOyj2ZTTCxyhWUUrIfoJlapeUAGRBWFMJR2Uf9Buzk0f_jgdzUbAC_Its8ZFwXR9Q3It0CnRo05WGj_-BjpFrMxRmEmtaSjgWVfBXt33j_AZp2WWBXaEQ76jKCKQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0955625,-8.6306875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nuanu Suites & Accommodations]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6b_MhFDQS5fmUry6QQkbqlemyyy0RNQeyt0_51TgI100phAdarCrbCuQSsBT7Es2AgwJlcI8iemP7ifx_Y2a9Aja_1LqLWqcZF9W3fj2LXVCfptH16Wk_v_yOVIydRRkZ7gN8DM1L-G9mbhMSN-wP8uFTEguDEcbyVN-aVfTAvTWSh5OREiPPPohHu6mmLmKgGT1okO3Kncxn8ojh-m9SiwJpyE2e9k6iLz69b3JE1aru8WxoG1ZJAFhg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>可容納2～4名旅客入住的 Nuanu Suites & Accommodations: https://gobaligo.id/go/nuanu-creative-city-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6b_MhFDQS5fmUry6QQkbqlemyyy0RNQeyt0_51TgI100phAdarCrbCuQSsBT7Es2AgwJlcI8iemP7ifx_Y2a9Aja_1LqLWqcZF9W3fj2LXVCfptH16Wk_v_yOVIydRRkZ7gN8DM1L-G9mbhMSN-wP8uFTEguDEcbyVN-aVfTAvTWSh5OREiPPPohHu6mmLmKgGT1okO3Kncxn8ojh-m9SiwJpyE2e9k6iLz69b3JE1aru8WxoG1ZJAFhg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0991504,-8.630099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

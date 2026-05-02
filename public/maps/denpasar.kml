@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>登巴薩攻略地圖 by gobaligo</name>
+    <description>峇里島旅遊攻略: https://gobaligo.id/</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>登巴薩的必訪景點</name>
+      <Placemark>
+        <name>Badung Market</name>
+        <description>請看「登巴薩攻略」介紹：https://gobaligo.id/go/denpasar-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2124193,-8.6565343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pasar Seni Kumbasari</name>
+        <description>請看「登巴薩攻略」介紹：https://gobaligo.id/go/denpasar-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2119652,-8.6560335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>巴加山迪紀念碑</name>
+        <description>請看「登巴薩攻略」介紹：https://gobaligo.id/go/denpasar-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.233902,-8.6717348,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里博物館</name>
+        <description>請看「登巴薩攻略」介紹：https://gobaligo.id/go/denpasar-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2185908,-8.6575741,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pura Jagatnatha Intan Asri, Sedang</name>
+        <description>請看「登巴薩攻略」介紹：https://gobaligo.id/go/denpasar-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2336219,-8.5721897,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taman Tukad Korea</name>
+        <description>請看「登巴薩攻略」介紹：https://gobaligo.id/go/denpasar-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2122018,-8.6557322,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kreneng Market</name>
+        <description>峇里島最大夜市。請看「登巴薩攻略」介紹：https://gobaligo.id/go/denpasar-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2249756,-8.6554565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>塔曼阿尤寺</name>
+        <description>請看「登巴薩攻略」介紹：https://gobaligo.id/go/denpasar-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1726013,-8.5416323,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Living World Denpasar</name>
+        <description>請看「登巴薩攻略」介紹：https://gobaligo.id/go/denpasar-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2318282,-8.6356413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>美食</name>
+      <Placemark>
+        <name>Kaneshiro Resto All You Can Eat</name>
+        <description>吃到飽餐廳</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2094447,-8.6422762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ameno Coffee and Eatery</name>
+        <description>我們來這裡兩次，他們的咖啡很讚，價格又平民</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2105046,-8.6585485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

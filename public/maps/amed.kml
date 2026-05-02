@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Amed/Tulamben攻略地圖 by gobaligo</name>
+    <description>「峇里島旅遊攻略」: https://gobaligo.id</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Amed重要地標</name>
+      <Placemark>
+        <name>Jemeluk Bay</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6604231,-8.3375772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lipah Beach</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6846672,-8.3510287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunset Point Amed - Bali</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6629849,-8.3379178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tulamben</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.5799503,-8.3124043,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>USAT Liberty Wreck</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.5930373,-8.2742022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>美食餐廳</name>
+      <Placemark>
+        <name>Warung Agung Amed</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6830181,-8.3515286,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Enak and Bungalows</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6495065,-8.3359534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bukit Segara Restaurant</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6793182,-8.3466702,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Galanga</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6692417,-8.3441523,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Di Lipah Warung</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6794291,-8.3472633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Gusto Resto & Cafe]]></name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6765311,-8.3458987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green Melon Warung</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6929578,-8.3580858,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trattoria Amed</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6984687,-8.3611982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sails Restaurant</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6872324,-8.3523824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Bobo</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6534083,-8.334899,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rimba Cafe</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.651806,-8.3356533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asmat Restaurant Amed</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6720027,-8.3721945,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>住宿推薦</name>
+      <Placemark>
+        <name>Mathis Lodge, Amed</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.672005,-8.3721867,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Abing Villas Spa & Beach Bar]]></name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6981279,-8.3601162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aquaterrace Amed</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.694868,-8.3576074,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sama Villa Amed</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6321673,-8.3352597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Angsa villas</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6982132,-8.3595703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DHAUTEYA VILLA AMED | Beach Front</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6666664,-8.3413938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blue Moon Villas</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6946169,-8.3572601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Bukit Segara</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6794993,-8.3464922,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>emOcean Beach Boutique Resort</name>
+        <description>攻略說明在這兒：https://gobaligo.id/go/amed-tulamben-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6383121,-8.3315028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

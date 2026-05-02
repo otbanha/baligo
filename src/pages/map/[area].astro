@@ -1,0 +1,234 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import MapView from '../../components/MapView.astro';
+import RecommendForm from '../../components/RecommendForm.astro';
+import { maps, getMapBySlug } from '../../data/maps';
+
+export function getStaticPaths() {
+  return maps.map(area => ({
+    params: { area: area.slug },
+  }));
+}
+
+const { area: areaSlug } = Astro.params;
+const area = getMapBySlug(areaSlug!);
+
+if (!area) return Astro.redirect('/map/');
+
+const title = `${area.name} 攻略地圖｜峇里島景點推薦`;
+const description = area.description;
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead title={title} description={description} />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
+      overflow: hidden;
+      height: 100dvh;
+    }
+
+    .map-topbar {
+      height: 52px;
+      background: #fff;
+      border-bottom: 1px solid #efefef;
+      display: flex;
+      align-items: center;
+      padding: 0 16px;
+      gap: 12px;
+      position: relative;
+      z-index: 10;
+    }
+
+    .back-btn {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      color: #2d8653;
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+      -webkit-tap-highlight-color: transparent;
+      flex-shrink: 0;
+    }
+
+    .topbar-info {
+      flex: 1;
+      overflow: hidden;
+    }
+
+    .topbar-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: #1a1a1a;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .topbar-desc {
+      font-size: 11px;
+      color: #999;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .topbar-emoji {
+      font-size: 22px;
+      flex-shrink: 0;
+    }
+
+    #dark-btn {
+      background: none;
+      border: none;
+      font-size: 20px;
+      cursor: pointer;
+      padding: 4px;
+      flex-shrink: 0;
+      -webkit-tap-highlight-color: transparent;
+      line-height: 1;
+    }
+
+    #itin-topbar-btn {
+      display: none;
+      align-items: center;
+      gap: 4px;
+      background: #2d8653;
+      color: #fff;
+      border-radius: 20px;
+      padding: 5px 10px;
+      font-size: 12px;
+      font-weight: 700;
+      text-decoration: none;
+      flex-shrink: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+    [data-dark] #itin-topbar-btn { background: #1a5c3a; }
+
+    /* Dark mode topbar */
+    [data-dark] body {
+      background: #121212;
+    }
+
+    [data-dark] .map-topbar {
+      background: #1e1e1e;
+      border-bottom-color: #2a2a2a;
+    }
+
+    [data-dark] .back-btn {
+      color: #4caf8a;
+    }
+
+    [data-dark] .topbar-title {
+      color: #f0f0f0;
+    }
+
+    [data-dark] .topbar-desc {
+      color: #777;
+    }
+
+    [data-dark] #gps-btn {
+      background: #1e1e1e;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.5);
+    }
+
+    [data-dark] #gps-btn.active {
+      background: #1a3a2a;
+    }
+
+    #gps-btn {
+      position: fixed;
+      bottom: 90px;
+      left: 16px;
+      width: 44px;
+      height: 44px;
+      background: #fff;
+      border: none;
+      border-radius: 50%;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      font-size: 20px;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      cursor: pointer;
+      z-index: 900;
+      -webkit-tap-highlight-color: transparent;
+      transition: background 0.2s;
+    }
+
+    #gps-btn.active {
+      background: #e8f5ee;
+    }
+  </style>
+</head>
+
+<body>
+  <div class="map-topbar">
+    <a href="/map/" class="back-btn">‹ 返回</a>
+    <div class="topbar-info">
+      <div class="topbar-title">{area.name} {area.isThematic ? '' : '攻略地圖'}</div>
+      <div class="topbar-desc">{area.description}</div>
+    </div>
+    <a href="/map/itinerary/" id="itin-topbar-btn" aria-label="行程規劃">
+      📋 <span id="itin-topbar-count">0</span>
+    </a>
+    <button id="dark-btn" aria-label="深色模式">🌙</button>
+    <span class="topbar-emoji">{area.emoji}</span>
+  </div>
+
+  <MapView area={area} />
+  <button id="gps-btn" aria-label="顯示附近景點">📍</button>
+  <RecommendForm areaName={area.name} areaSlug={area.slug} />
+
+  <script>
+    (function() {
+      const btn = document.getElementById('dark-btn');
+      const html = document.documentElement;
+
+      function applyDark(dark) {
+        if (dark) {
+          html.setAttribute('data-dark', '');
+          btn.textContent = '☀️';
+        } else {
+          html.removeAttribute('data-dark');
+          btn.textContent = '🌙';
+        }
+      }
+
+      applyDark(localStorage.getItem('map_dark') === '1');
+
+      btn?.addEventListener('click', () => {
+        const nowDark = !html.hasAttribute('data-dark');
+        applyDark(nowDark);
+        localStorage.setItem('map_dark', nowDark ? '1' : '0');
+      });
+    })();
+
+    // Itinerary badge
+    (function() {
+      const itinBtn = document.getElementById('itin-topbar-btn');
+      const itinCount = document.getElementById('itin-topbar-count');
+
+      function updateItinBadge() {
+        try {
+          const count = JSON.parse(localStorage.getItem('map_itinerary') || '[]').length;
+          if (count > 0) {
+            itinBtn.style.display = 'flex';
+            itinCount.textContent = count;
+          } else {
+            itinBtn.style.display = 'none';
+          }
+        } catch {}
+      }
+
+      updateItinBadge();
+      window.updateItinBadge = updateItinBadge;
+    })();
+  </script>
+</body>
+</html>

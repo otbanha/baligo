@@ -1,0 +1,265 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+
+const title = '我的收藏景點｜峇里島攻略地圖';
+const description = '你收藏的峇里島景點清單';
+const lang = 'zh-tw';
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead title={title} description={description} />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #f7f5f2;
+      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
+      min-height: 100dvh;
+    }
+
+    .page-hero {
+      background: linear-gradient(135deg, #1a5c3a 0%, #2d8653 100%);
+      color: #fff;
+      padding: 24px 20px 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .back-btn {
+      color: rgba(255,255,255,0.8);
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+      flex-shrink: 0;
+    }
+
+    .page-hero h1 {
+      font-size: 20px;
+      font-weight: 700;
+    }
+
+    .page-hero .count {
+      font-size: 13px;
+      opacity: 0.8;
+      margin-top: 2px;
+    }
+
+    #fav-list { padding: 16px 16px 40px; }
+
+    .empty-state {
+      text-align: center;
+      padding: 60px 20px;
+      color: #aaa;
+    }
+
+    .empty-state .icon { font-size: 48px; margin-bottom: 12px; }
+    .empty-state p { font-size: 15px; line-height: 1.6; }
+    .empty-state a {
+      display: inline-block;
+      margin-top: 20px;
+      background: #2d8653;
+      color: #fff;
+      padding: 12px 28px;
+      border-radius: 12px;
+      text-decoration: none;
+      font-weight: 600;
+      font-size: 15px;
+    }
+
+    .area-group { margin-bottom: 24px; }
+
+    .area-label {
+      font-size: 12px;
+      font-weight: 600;
+      color: #888;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      margin-bottom: 10px;
+      padding-left: 2px;
+    }
+
+    .fav-card {
+      background: #fff;
+      border-radius: 14px;
+      padding: 14px;
+      margin-bottom: 10px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+      display: flex;
+      align-items: flex-start;
+      gap: 12px;
+    }
+
+    .fav-card-info { flex: 1; min-width: 0; }
+
+    .fav-card-name {
+      font-size: 15px;
+      font-weight: 700;
+      color: #1a1a1a;
+      margin-bottom: 4px;
+    }
+
+    .fav-card-desc {
+      font-size: 12px;
+      color: #888;
+      line-height: 1.5;
+      word-break: break-word;
+    }
+
+    .fav-card-desc a {
+      color: #2d8653;
+      text-decoration: underline;
+      word-break: break-all;
+    }
+
+    .fav-card-actions {
+      display: flex;
+      gap: 8px;
+      margin-top: 10px;
+    }
+
+    .fav-card-actions a {
+      font-size: 12px;
+      font-weight: 600;
+      color: #2d8653;
+      text-decoration: none;
+    }
+
+    .fav-card-actions .sep { color: #ddd; }
+
+    .unfav-btn {
+      background: none;
+      border: none;
+      font-size: 20px;
+      cursor: pointer;
+      padding: 0;
+      flex-shrink: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .clear-all {
+      display: block;
+      width: 100%;
+      background: none;
+      border: 1.5px solid #e0e0e0;
+      border-radius: 12px;
+      padding: 13px;
+      font-size: 14px;
+      color: #e55;
+      font-weight: 600;
+      cursor: pointer;
+      margin-top: 8px;
+      font-family: inherit;
+    }
+  </style>
+</head>
+
+<body>
+  <Header lang={lang} slug="map" />
+
+  <div class="page-hero">
+    <a href="/map/" class="back-btn">‹</a>
+    <div>
+      <h1>❤️ 我的收藏</h1>
+      <div class="count" id="fav-count">載入中…</div>
+    </div>
+  </div>
+
+  <div id="fav-list"></div>
+
+  <div style="padding: 0 16px 40px;">
+    <button class="clear-all" id="clear-all" style="display:none">清除所有收藏</button>
+  </div>
+
+  <Footer />
+
+  <script>
+    const FAV_KEY = 'map_favs';
+
+    function load() {
+      try { return JSON.parse(localStorage.getItem(FAV_KEY) || '{}'); } catch { return {}; }
+    }
+
+    function save(favs) {
+      localStorage.setItem(FAV_KEY, JSON.stringify(favs));
+    }
+
+    function linkifyDesc(text) {
+      if (!text) return '';
+      return text.replace(/(https?:\/\/[^\s]+)/g, url => `<a href="${url}" target="_blank" rel="noopener">${url}</a>`);
+    }
+
+    function render() {
+      const favs = load();
+      const entries = Object.entries(favs);
+      const countEl = document.getElementById('fav-count');
+      const listEl = document.getElementById('fav-list');
+      const clearBtn = document.getElementById('clear-all');
+
+      countEl.textContent = entries.length > 0 ? `共 ${entries.length} 個景點` : '尚無收藏';
+
+      if (entries.length === 0) {
+        listEl.innerHTML = `
+          <div class="empty-state">
+            <div class="icon">🗺️</div>
+            <p>還沒有收藏任何景點<br>去地圖上點 🤍 開始收藏吧</p>
+            <a href="/map/">前往攻略地圖</a>
+          </div>`;
+        clearBtn.style.display = 'none';
+        return;
+      }
+
+      clearBtn.style.display = 'block';
+
+      // Group by area
+      const byArea = {};
+      entries.forEach(([id, fav]) => {
+        const key = fav.area || '其他';
+        if (!byArea[key]) byArea[key] = [];
+        byArea[key].push({ id, ...fav });
+      });
+
+      listEl.innerHTML = Object.entries(byArea).map(([area, items]) => `
+        <div class="area-group">
+          <div class="area-label">${area}</div>
+          ${items.map(fav => `
+            <div class="fav-card" data-id="${fav.id}">
+              <div class="fav-card-info">
+                <div class="fav-card-name">${fav.name}</div>
+                ${fav.desc ? `<div class="fav-card-desc">${linkifyDesc(fav.desc)}</div>` : ''}
+                <div class="fav-card-actions">
+                  <a href="/map/${fav.areaSlug}/">在地圖上看</a>
+                  <span class="sep">·</span>
+                  <a href="https://www.google.com/maps/search/?api=1&query=${fav.lat},${fav.lng}" target="_blank" rel="noopener">Google Maps</a>
+                </div>
+              </div>
+              <button class="unfav-btn" data-id="${fav.id}" aria-label="取消收藏">❤️</button>
+            </div>
+          `).join('')}
+        </div>
+      `).join('');
+    }
+
+    document.getElementById('fav-list').addEventListener('click', (e) => {
+      const btn = e.target.closest('.unfav-btn');
+      if (!btn) return;
+      const favs = load();
+      delete favs[btn.dataset.id];
+      save(favs);
+      render();
+    });
+
+    document.getElementById('clear-all').addEventListener('click', () => {
+      if (confirm('確定要清除所有收藏嗎？')) {
+        save({});
+        render();
+      }
+    });
+
+    render();
+  </script>
+</body>
+</html>

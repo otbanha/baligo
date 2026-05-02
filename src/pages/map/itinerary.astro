@@ -1,0 +1,635 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+
+const title = '我的行程規劃｜峇里島攻略地圖';
+const description = '規劃你的峇里島行程，地理自動分組、車程估算、拖拉排序、一鍵分享';
+const lang = 'zh-tw';
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead title={title} description={description} />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #f7f5f2;
+      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
+      min-height: 100dvh;
+    }
+
+    .page-hero {
+      background: linear-gradient(135deg, #1a5c3a 0%, #2d8653 100%);
+      color: #fff;
+      padding: 24px 20px 20px;
+      display: flex;
+      align-items: center;
+      gap: 12px;
+    }
+
+    .back-btn {
+      color: rgba(255,255,255,0.8);
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+      flex-shrink: 0;
+    }
+
+    .hero-text { flex: 1; }
+    .page-hero h1 { font-size: 20px; font-weight: 700; }
+    .page-hero .count { font-size: 13px; opacity: 0.8; margin-top: 2px; }
+
+    /* Action bar */
+    .action-bar {
+      display: flex;
+      gap: 8px;
+      padding: 12px 16px;
+      background: #fff;
+      border-bottom: 1px solid #efefef;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+    }
+    .action-bar::-webkit-scrollbar { display: none; }
+
+    .action-btn {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+      background: #f5f5f5;
+      border: none;
+      border-radius: 20px;
+      padding: 8px 14px;
+      font-size: 13px;
+      font-weight: 600;
+      color: #333;
+      cursor: pointer;
+      white-space: nowrap;
+      font-family: inherit;
+      -webkit-tap-highlight-color: transparent;
+      transition: background 0.15s;
+      flex-shrink: 0;
+      text-decoration: none;
+    }
+    .action-btn:active { background: #e8e8e8; }
+    .action-btn.primary { background: #2d8653; color: #fff; }
+    .action-btn.primary:active { background: #1a5c3a; }
+    .action-btn.danger { background: #fff0f0; color: #e55; border: 1.5px solid #fdd; }
+
+    /* Import banner */
+    #import-banner {
+      margin: 12px 16px;
+      background: #fffbe8;
+      border: 1.5px solid #f0c87a;
+      border-radius: 14px;
+      padding: 12px 16px;
+      display: none;
+    }
+    .import-title { font-size: 14px; font-weight: 700; color: #333; margin-bottom: 4px; }
+    .import-sub { font-size: 12px; color: #888; margin-bottom: 10px; }
+    .import-btns { display: flex; gap: 8px; }
+    .import-btns button {
+      flex: 1; padding: 8px; border-radius: 10px; border: none;
+      font-size: 13px; font-weight: 600; cursor: pointer; font-family: inherit;
+    }
+    #import-btn { background: #2d8653; color: #fff; }
+    #dismiss-btn { background: #f0f0f0; color: #555; }
+
+    /* List */
+    #itin-list { padding: 12px 16px 80px; }
+
+    .empty-state {
+      text-align: center; padding: 60px 20px; color: #aaa;
+    }
+    .empty-state .icon { font-size: 48px; margin-bottom: 12px; }
+    .empty-state p { font-size: 15px; line-height: 1.6; }
+    .empty-state a {
+      display: inline-block; margin-top: 20px; background: #2d8653; color: #fff;
+      padding: 12px 28px; border-radius: 12px; text-decoration: none;
+      font-weight: 600; font-size: 15px;
+    }
+
+    /* Day section */
+    .day-section { margin-bottom: 20px; }
+
+    .day-header {
+      font-size: 12px; font-weight: 700; color: #555;
+      letter-spacing: 0.5px; text-transform: uppercase;
+      margin-bottom: 8px;
+      display: flex; align-items: center; gap: 8px;
+    }
+    .day-header .day-label { flex: 1; font-size: 13px; color: #333; }
+    .day-header .day-spots { font-size: 11px; color: #aaa; font-weight: 500; }
+    .day-gmaps-btn {
+      font-size: 11px; color: #2d8653; font-weight: 600; text-decoration: none;
+      background: #e8f5ee; padding: 3px 8px; border-radius: 10px; white-space: nowrap;
+    }
+
+    /* Item card */
+    .itin-card {
+      background: #fff; border-radius: 14px; padding: 12px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+      display: flex; align-items: flex-start; gap: 10px;
+      transition: box-shadow 0.15s, opacity 0.15s;
+      cursor: default;
+    }
+    .itin-card.dragging { opacity: 0.45; }
+    .itin-card.drag-over { box-shadow: 0 0 0 2.5px #2d8653; }
+
+    .drag-handle {
+      font-size: 18px; color: #ccc; cursor: grab; padding: 1px 3px 0 0;
+      flex-shrink: 0; touch-action: none; user-select: none; line-height: 1.2;
+    }
+
+    .order-num {
+      width: 22px; height: 22px; background: #2d8653; color: #fff;
+      font-size: 11px; font-weight: 700; border-radius: 50%;
+      display: flex; align-items: center; justify-content: center;
+      flex-shrink: 0; margin-top: 1px;
+    }
+
+    .itin-info { flex: 1; min-width: 0; }
+    .itin-name {
+      font-size: 14px; font-weight: 700; color: #1a1a1a; margin-bottom: 2px;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .itin-meta { font-size: 11px; color: #999; margin-bottom: 5px; }
+    .itin-actions { display: flex; gap: 10px; }
+    .itin-actions a {
+      font-size: 11px; font-weight: 600; color: #2d8653; text-decoration: none;
+    }
+
+    /* Item control buttons */
+    .itin-item-btns {
+      display: flex; flex-direction: column; gap: 3px; flex-shrink: 0; align-items: center;
+    }
+    .day-move-btn {
+      background: #f0f0f0; border: none; border-radius: 6px;
+      width: 28px; height: 22px; font-size: 10px; color: #555;
+      cursor: pointer; display: flex; align-items: center; justify-content: center;
+      -webkit-tap-highlight-color: transparent; font-family: inherit;
+    }
+    .day-move-btn:active { background: #2d8653; color: #fff; }
+    .remove-btn {
+      background: none; border: none; font-size: 15px; color: #ccc;
+      cursor: pointer; padding: 2px 0; flex-shrink: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .remove-btn:active { color: #e55; }
+
+    /* Day drop zone */
+    .day-drop-zone {
+      border: 1.5px dashed #d0d0d0; border-radius: 12px;
+      padding: 10px; text-align: center; font-size: 12px; color: #ccc;
+      margin-top: 6px; transition: all 0.15s;
+    }
+    .day-drop-zone.drop-zone-active {
+      border-color: #2d8653; color: #2d8653; background: #f0faf5;
+    }
+
+    /* Share modal */
+    #share-modal {
+      position: fixed; inset: 0; background: rgba(0,0,0,0.5);
+      z-index: 1000; align-items: flex-end; display: none;
+    }
+    #share-modal.open { display: flex; }
+    .share-sheet {
+      background: #fff; width: 100%; border-radius: 20px 20px 0 0;
+      padding: 20px 20px 40px;
+    }
+    .share-sheet h3 { font-size: 16px; font-weight: 700; margin-bottom: 4px; }
+    .share-sheet p { font-size: 12px; color: #888; margin-bottom: 12px; }
+    #share-url-input {
+      width: 100%; background: #f5f5f5; border: 1.5px solid #e0e0e0;
+      border-radius: 10px; padding: 10px 12px; font-size: 12px;
+      font-family: monospace; margin-bottom: 12px; color: #333; outline: none;
+      resize: none; word-break: break-all;
+    }
+    .share-sheet-btns { display: flex; gap: 8px; }
+    .share-sheet-btns button {
+      flex: 1; padding: 12px; border-radius: 12px; border: none;
+      font-size: 14px; font-weight: 600; cursor: pointer; font-family: inherit;
+    }
+    #copy-btn { background: #2d8653; color: #fff; }
+    #close-share-btn { background: #f0f0f0; color: #555; }
+
+    /* Print */
+    @media print {
+      .action-bar, #import-banner, .drag-handle, .itin-item-btns,
+      .day-drop-zone, header, footer, #share-modal { display: none !important; }
+      body { background: #fff; }
+      .page-hero { background: #333 !important; -webkit-print-color-adjust: exact; print-color-adjust: exact; }
+      .itin-card { break-inside: avoid; box-shadow: none; border: 1px solid #eee; margin-bottom: 6px; }
+      #itin-list { padding: 0; }
+    }
+  </style>
+</head>
+
+<body>
+  <Header lang={lang} slug="map" />
+
+  <div class="page-hero">
+    <a href="/map/" class="back-btn">‹</a>
+    <div class="hero-text">
+      <h1>📋 我的行程規劃</h1>
+      <div class="count" id="itin-count">載入中…</div>
+    </div>
+  </div>
+
+  <div class="action-bar">
+    <button class="action-btn primary" id="share-btn">🔗 分享行程</button>
+    <button class="action-btn" onclick="window.print()">🖨️ 列印 / PDF</button>
+    <a href="/map/" class="action-btn">➕ 繼續新增景點</a>
+    <button class="action-btn" id="regroup-btn">🔄 重新分組</button>
+    <button class="action-btn danger" id="clear-btn">🗑️ 清除行程</button>
+  </div>
+
+  <div id="import-banner">
+    <div class="import-title">📩 收到分享的行程</div>
+    <div class="import-sub" id="import-sub">共 0 個景點，是否匯入？</div>
+    <div class="import-btns">
+      <button id="import-btn">匯入行程</button>
+      <button id="dismiss-btn">忽略</button>
+    </div>
+  </div>
+
+  <div id="itin-list"></div>
+
+  <div id="share-modal">
+    <div class="share-sheet">
+      <h3>🔗 分享行程連結</h3>
+      <p>將以下連結傳送給朋友，對方可查看你的行程規劃</p>
+      <textarea id="share-url-input" rows="3" readonly></textarea>
+      <div class="share-sheet-btns">
+        <button id="copy-btn">複製連結</button>
+        <button id="close-share-btn">關閉</button>
+      </div>
+    </div>
+  </div>
+
+  <Footer />
+
+  <script>
+    const ITIN_KEY = 'map_itinerary';
+    const GROUPS_KEY = 'map_itinerary_groups';
+
+    function loadItems() {
+      try { return JSON.parse(localStorage.getItem(ITIN_KEY) || '[]'); } catch { return []; }
+    }
+    function loadGroups() {
+      try {
+        const v = localStorage.getItem(GROUPS_KEY);
+        return v ? JSON.parse(v) : null;
+      } catch { return null; }
+    }
+    function saveItems(items) { localStorage.setItem(ITIN_KEY, JSON.stringify(items)); }
+    function saveGroups(groups) { localStorage.setItem(GROUPS_KEY, JSON.stringify(groups)); }
+
+    // ─── Geo helpers ──────────────────────────────────────────
+    function haversine(lat1, lng1, lat2, lng2) {
+      const R = 6371, dLat = (lat2-lat1)*Math.PI/180, dLng = (lng2-lng1)*Math.PI/180;
+      const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180)*Math.cos(lat2*Math.PI/180)*Math.sin(dLng/2)**2;
+      return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+    }
+
+    // ─── Auto-group by geography ──────────────────────────────
+    function autoGroup(items) {
+      if (items.length === 0) return [];
+      const remaining = [...items];
+      const groups = [];
+      while (remaining.length > 0) {
+        const group = [remaining.shift()];
+        while (group.length < 4 && remaining.length > 0) {
+          const last = group[group.length - 1];
+          let bestIdx = -1, bestDist = Infinity;
+          remaining.forEach((item, i) => {
+            const d = haversine(last.lat, last.lng, item.lat, item.lng);
+            if (d < 35 && d < bestDist) { bestDist = d; bestIdx = i; }
+          });
+          if (bestIdx === -1) break;
+          group.push(remaining.splice(bestIdx, 1)[0]);
+        }
+        groups.push(group.map(x => x.id));
+      }
+      return groups;
+    }
+
+    // Validate and sync groups with current item list
+    function getValidGroups(items) {
+      const itemMap = new Map(items.map(x => [x.id, x]));
+      let groups = loadGroups();
+
+      if (!groups) return autoGroup(items);
+
+      // Remove IDs no longer in items; drop empty days
+      groups = groups.map(g => g.filter(id => itemMap.has(id))).filter(g => g.length > 0);
+
+      // Find items missing from groups
+      const inGroups = new Set(groups.flat());
+      const missing = items.filter(x => !inGroups.has(x.id));
+      if (missing.length > 0) {
+        const newGroup = autoGroup(missing);
+        groups = groups.concat(newGroup);
+      }
+
+      if (groups.length === 0) return autoGroup(items);
+      return groups;
+    }
+
+    function buildRouteUrl(dayItems) {
+      if (dayItems.length === 0) return '';
+      if (dayItems.length === 1) {
+        return `https://www.google.com/maps/dir/?api=1&destination=${dayItems[0].lat},${dayItems[0].lng}`;
+      }
+      const origin = `${dayItems[0].lat},${dayItems[0].lng}`;
+      const dest = `${dayItems[dayItems.length-1].lat},${dayItems[dayItems.length-1].lng}`;
+      const waypoints = dayItems.slice(1, -1).slice(0, 21).map(p => `${p.lat},${p.lng}`).join('|');
+      return `https://www.google.com/maps/dir/?api=1&origin=${origin}&destination=${dest}${waypoints ? `&waypoints=${waypoints}` : ''}`;
+    }
+
+    // ─── Render ───────────────────────────────────────────────
+    function render() {
+      const items = loadItems();
+      const countEl = document.getElementById('itin-count');
+      const listEl = document.getElementById('itin-list');
+
+      countEl.textContent = items.length > 0 ? `共 ${items.length} 個景點` : '尚無景點';
+
+      if (items.length === 0) {
+        listEl.innerHTML = `
+          <div class="empty-state">
+            <div class="icon">🗺️</div>
+            <p>還沒有加入任何景點<br>去地圖上點 📋 開始規劃吧</p>
+            <a href="/map/">前往攻略地圖</a>
+          </div>`;
+        return;
+      }
+
+      const groups = getValidGroups(items);
+      saveGroups(groups);
+
+      const itemMap = new Map(items.map(x => [x.id, x]));
+      const totalDays = groups.length;
+
+      listEl.innerHTML = groups.map((dayIds, dayIdx) => {
+        const dayItems = dayIds.map(id => itemMap.get(id)).filter(Boolean);
+        const routeUrl = buildRouteUrl(dayItems);
+
+        const cardsHtml = dayItems.map((item, posInDay) => {
+          const moveBtns = [];
+          if (dayIdx > 0) moveBtns.push(`<button class="day-move-btn" data-action="prev" data-id="${item.id}" data-day="${dayIdx}" title="移到前一天">◀</button>`);
+          if (dayIdx < totalDays - 1) moveBtns.push(`<button class="day-move-btn" data-action="next" data-id="${item.id}" data-day="${dayIdx}" title="移到後一天">▶</button>`);
+          moveBtns.push(`<button class="remove-btn" data-id="${item.id}" title="移除">✕</button>`);
+
+          return `
+            <div class="itin-card" draggable="true" data-id="${item.id}" data-day="${dayIdx}" data-pos="${posInDay}">
+              <span class="drag-handle" title="拖曳排序">⠿</span>
+              <div class="order-num">${posInDay + 1}</div>
+              <div class="itin-info">
+                <div class="itin-name">${item.name}</div>
+                <div class="itin-meta">${[item.category, item.areaName].filter(Boolean).join(' · ')}</div>
+                <div class="itin-actions">
+                  <a href="/map/${item.areaSlug}/">在地圖上看</a>
+                  <a href="https://www.google.com/maps/dir/?api=1&destination=${item.lat},${item.lng}&travelmode=driving" target="_blank" rel="noopener">導航</a>
+                </div>
+              </div>
+              <div class="itin-item-btns">${moveBtns.join('')}</div>
+            </div>`;
+        }).join('');
+
+        return `
+          <div class="day-section">
+            <div class="day-header">
+              <span class="day-label">第 ${dayIdx + 1} 天</span>
+              <span class="day-spots">${dayItems.length} 個景點</span>
+              ${routeUrl ? `<a class="day-gmaps-btn" href="${routeUrl}" target="_blank" rel="noopener">🗺️ 一鍵路線</a>` : ''}
+            </div>
+            <div class="day-cards" data-day="${dayIdx}">
+              ${cardsHtml}
+              <div class="day-drop-zone" data-day="${dayIdx}">拖曳景點到此加入第 ${dayIdx + 1} 天</div>
+            </div>
+          </div>`;
+      }).join('');
+
+      setupDragDrop();
+    }
+
+    // ─── Drag & Drop ──────────────────────────────────────────
+    let dragState = null;
+
+    function setupDragDrop() {
+      document.querySelectorAll('.itin-card').forEach(card => {
+        card.addEventListener('dragstart', (e) => {
+          dragState = {
+            id: card.dataset.id,
+            srcDay: parseInt(card.dataset.day),
+            srcPos: parseInt(card.dataset.pos),
+          };
+          setTimeout(() => card.classList.add('dragging'), 0);
+          e.dataTransfer.effectAllowed = 'move';
+        });
+
+        card.addEventListener('dragend', () => {
+          card.classList.remove('dragging');
+          document.querySelectorAll('.drag-over, .drop-zone-active').forEach(el => {
+            el.classList.remove('drag-over', 'drop-zone-active');
+          });
+        });
+
+        card.addEventListener('dragover', (e) => {
+          e.preventDefault();
+          if (!dragState || dragState.id === card.dataset.id) return;
+          document.querySelectorAll('.drag-over').forEach(el => el.classList.remove('drag-over'));
+          card.classList.add('drag-over');
+        });
+
+        card.addEventListener('drop', (e) => {
+          e.preventDefault();
+          e.stopPropagation();
+          if (!dragState || dragState.id === card.dataset.id) { dragState = null; return; }
+
+          const targetDay = parseInt(card.dataset.day);
+          const targetPos = parseInt(card.dataset.pos);
+          const { id, srcDay, srcPos } = dragState;
+          dragState = null;
+
+          const items = loadItems();
+          const groups = getValidGroups(items);
+
+          const srcIdx = groups[srcDay].indexOf(id);
+          if (srcIdx === -1) return;
+          groups[srcDay].splice(srcIdx, 1);
+
+          let insertPos = targetPos;
+          if (srcDay === targetDay && srcIdx < targetPos) insertPos = Math.max(0, insertPos - 1);
+
+          if (!groups[targetDay]) groups[targetDay] = [];
+          groups[targetDay].splice(Math.max(0, insertPos), 0, id);
+
+          const newGroups = groups.filter(g => g.length > 0);
+          saveGroups(newGroups);
+          render();
+        });
+      });
+
+      document.querySelectorAll('.day-drop-zone').forEach(zone => {
+        zone.addEventListener('dragover', (e) => {
+          e.preventDefault();
+          if (!dragState) return;
+          document.querySelectorAll('.drop-zone-active').forEach(el => el.classList.remove('drop-zone-active'));
+          document.querySelectorAll('.drag-over').forEach(el => el.classList.remove('drag-over'));
+          zone.classList.add('drop-zone-active');
+        });
+
+        zone.addEventListener('dragleave', (e) => {
+          if (!zone.contains(e.relatedTarget)) zone.classList.remove('drop-zone-active');
+        });
+
+        zone.addEventListener('drop', (e) => {
+          e.preventDefault();
+          zone.classList.remove('drop-zone-active');
+          if (!dragState) return;
+
+          const targetDay = parseInt(zone.dataset.day);
+          const { id, srcDay } = dragState;
+          dragState = null;
+
+          const items = loadItems();
+          const groups = getValidGroups(items);
+
+          const srcIdx = groups[srcDay].indexOf(id);
+          if (srcIdx === -1) return;
+          groups[srcDay].splice(srcIdx, 1);
+          if (!groups[targetDay]) groups[targetDay] = [];
+          groups[targetDay].push(id);
+
+          const newGroups = groups.filter(g => g.length > 0);
+          saveGroups(newGroups);
+          render();
+        });
+      });
+    }
+
+    // ─── Button actions ───────────────────────────────────────
+    document.getElementById('itin-list').addEventListener('click', (e) => {
+      const removeBtn = e.target.closest('.remove-btn');
+      if (removeBtn) {
+        const id = removeBtn.dataset.id;
+        const items = loadItems().filter(x => x.id !== id);
+        saveItems(items);
+        // Sync groups
+        const groups = (loadGroups() || []).map(g => g.filter(gid => gid !== id)).filter(g => g.length > 0);
+        saveGroups(groups);
+        render();
+        return;
+      }
+
+      const dayMoveBtn = e.target.closest('.day-move-btn');
+      if (dayMoveBtn) {
+        const id = dayMoveBtn.dataset.id;
+        const srcDay = parseInt(dayMoveBtn.dataset.day);
+        const dir = dayMoveBtn.dataset.action;
+        const targetDay = dir === 'prev' ? srcDay - 1 : srcDay + 1;
+
+        const items = loadItems();
+        const groups = getValidGroups(items);
+        if (targetDay < 0 || targetDay >= groups.length) return;
+
+        const srcIdx = groups[srcDay].indexOf(id);
+        if (srcIdx === -1) return;
+        groups[srcDay].splice(srcIdx, 1);
+        groups[targetDay].push(id);
+
+        const newGroups = groups.filter(g => g.length > 0);
+        saveGroups(newGroups);
+        render();
+      }
+    });
+
+    document.getElementById('regroup-btn').addEventListener('click', () => {
+      const items = loadItems();
+      if (items.length === 0) return;
+      saveGroups(autoGroup(items));
+      render();
+    });
+
+    document.getElementById('clear-btn').addEventListener('click', () => {
+      if (confirm('確定要清除整個行程嗎？')) {
+        saveItems([]);
+        saveGroups(null);
+        render();
+      }
+    });
+
+    // ─── Share ────────────────────────────────────────────────
+    document.getElementById('share-btn').addEventListener('click', () => {
+      const items = loadItems();
+      if (items.length === 0) { alert('行程是空的，請先加入景點'); return; }
+      const groups = getValidGroups(items);
+      const payload = { items, groups };
+      const encoded = btoa(unescape(encodeURIComponent(JSON.stringify(payload))));
+      const url = `${location.origin}/map/itinerary/#share=${encoded}`;
+      document.getElementById('share-url-input').value = url;
+      document.getElementById('share-modal').classList.add('open');
+    });
+
+    document.getElementById('copy-btn').addEventListener('click', async () => {
+      const input = document.getElementById('share-url-input');
+      try {
+        await navigator.clipboard.writeText(input.value);
+        document.getElementById('copy-btn').textContent = '✅ 已複製！';
+        setTimeout(() => { document.getElementById('copy-btn').textContent = '複製連結'; }, 2000);
+      } catch {
+        input.select();
+        document.execCommand('copy');
+      }
+    });
+
+    document.getElementById('close-share-btn').addEventListener('click', () => {
+      document.getElementById('share-modal').classList.remove('open');
+    });
+    document.getElementById('share-modal').addEventListener('click', (e) => {
+      if (e.target === document.getElementById('share-modal')) {
+        document.getElementById('share-modal').classList.remove('open');
+      }
+    });
+
+    // ─── Import from shared link ──────────────────────────────
+    (function checkImport() {
+      const match = location.hash.match(/[#&]share=([A-Za-z0-9+/=]+)/);
+      if (!match) return;
+      try {
+        const payload = JSON.parse(decodeURIComponent(escape(atob(match[1]))));
+        let imported, importedGroups = null;
+        if (Array.isArray(payload)) {
+          imported = payload; // legacy format
+        } else {
+          imported = payload.items || [];
+          importedGroups = payload.groups || null;
+        }
+        if (!Array.isArray(imported) || imported.length === 0) return;
+
+        const banner = document.getElementById('import-banner');
+        document.getElementById('import-sub').textContent = `共 ${imported.length} 個景點，是否匯入到你的行程？`;
+        banner.style.display = 'block';
+
+        document.getElementById('import-btn').addEventListener('click', () => {
+          saveItems(imported);
+          saveGroups(importedGroups);
+          banner.style.display = 'none';
+          history.replaceState(null, '', location.pathname);
+          render();
+        });
+        document.getElementById('dismiss-btn').addEventListener('click', () => {
+          banner.style.display = 'none';
+          history.replaceState(null, '', location.pathname);
+        });
+      } catch {}
+    })();
+
+    render();
+  </script>
+</body>
+</html>

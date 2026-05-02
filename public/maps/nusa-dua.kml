@@ -1,0 +1,636 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Nusa Dua攻略地圖 by gobaligo</name>
+    <description>峇里島旅遊攻略：https://gobaligo.id/</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>努沙杜瓦/南灣美食</name>
+      <Placemark>
+        <name>Kayumanis Nusa Dua Private Villa</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyqk7lRQuuXuUQ4rqQWZoqkuNsYgguIJkWko1KtXsxSoHP-jgoHA_ApK_JAfEcxkgMwSuyVgwyKciVnmvc3ApwPLg1X83zyIK0LGara_KtnQo6GVdFFsZAFHiG4k2GJYBvnj2IIVXrzYeZTe8_Fpzl_w7lUjuIoO4RGVIbTpNk-NRm9SEiaJHQX0ZrY3iE52k18ODN0-E1pVBdTrU9J1msjTf3AA2CNKSXoSWSGZSXjLs5YIqHoSZ8vHdc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyqk7lRQuuXuUQ4rqQWZoqkuNsYgguIJkWko1KtXsxSoHP-jgoHA_ApK_JAfEcxkgMwSuyVgwyKciVnmvc3ApwPLg1X83zyIK0LGara_KtnQo6GVdFFsZAFHiG4k2GJYBvnj2IIVXrzYeZTe8_Fpzl_w7lUjuIoO4RGVIbTpNk-NRm9SEiaJHQX0ZrY3iE52k18ODN0-E1pVBdTrU9J1msjTf3AA2CNKSXoSWSGZSXjLs5YIqHoSZ8vHdc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2282522,-8.7944228,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mulia Resort</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzJ2Q4W1ujKaWgu34efD6rik8tle5-cs6G7iYudWyBf_ni6JIXNgc4DHfx_0WY8_oxAsdc4O66FdWuH78h1aENvRKe6dm4V4mQCGvrdEFZuG7Gi-c89Bh2eJShvFiPjR3gR9_ToVSQCq1HzHkDXkM1aEtGBkrHPjSPTcqvbVQSvQkvz0x3JArUe__hlWjRvDneo83jDJH9JfPvs5AuBpwG8mEmQD8IUM02yz_tbgTP_DbtASG95L-zp0lk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzJ2Q4W1ujKaWgu34efD6rik8tle5-cs6G7iYudWyBf_ni6JIXNgc4DHfx_0WY8_oxAsdc4O66FdWuH78h1aENvRKe6dm4V4mQCGvrdEFZuG7Gi-c89Bh2eJShvFiPjR3gR9_ToVSQCq1HzHkDXkM1aEtGBkrHPjSPTcqvbVQSvQkvz0x3JArUe__hlWjRvDneo83jDJH9JfPvs5AuBpwG8mEmQD8IUM02yz_tbgTP_DbtASG95L-zp0lk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.221174,-8.8162105,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里麗思卡爾頓酒店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyY2moU0-VbbOjRKIvPp7mKrgR-P8_S45oh15nRF2Qw8QoKGICK3RSk4UqeV0l36Id2DwABnTJnEhLg7vwX6AgPe5m4gASwLuW7rcFIqesrblYdzIwHWI4aafDnc9dSJy-x_cPe0AizwDlgrzaJiI9MP9Blov3QfdnFWFBWHMQp7PEholoe1Eu6QdkciFPO_7_fta5GfGJD-TONrSuGMdDdq6CbHLLSaScDR3HcWAbw9xTA3j3eSiqIjDM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyY2moU0-VbbOjRKIvPp7mKrgR-P8_S45oh15nRF2Qw8QoKGICK3RSk4UqeV0l36Id2DwABnTJnEhLg7vwX6AgPe5m4gASwLuW7rcFIqesrblYdzIwHWI4aafDnc9dSJy-x_cPe0AizwDlgrzaJiI9MP9Blov3QfdnFWFBWHMQp7PEholoe1Eu6QdkciFPO_7_fta5GfGJD-TONrSuGMdDdq6CbHLLSaScDR3HcWAbw9xTA3j3eSiqIjDM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2153312,-8.8306709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Samabe Bali Suites & Villas]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxehn2wEyalWwLv6B4kGywukirfxpns2Hy07gSurdKZ82yp0Maiajsr729YWu4gOrsjYcqhHtnK0vamwMdC2df52xKeanr_euZtKONX3lIl_M-uiU6nxhjyi1cZgdVAyM_G8oU3FSqSG2bd9vT8T9-oNwfcerGJwzWKteCzgr9viE8fGvID_fadsYQJBCQ3Ve7ArXEMwHTyOs9HJ28apkPF1735nETJ-Oui___niFbRwkjFCS-9wZVVfbk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxehn2wEyalWwLv6B4kGywukirfxpns2Hy07gSurdKZ82yp0Maiajsr729YWu4gOrsjYcqhHtnK0vamwMdC2df52xKeanr_euZtKONX3lIl_M-uiU6nxhjyi1cZgdVAyM_G8oU3FSqSG2bd9vT8T9-oNwfcerGJwzWKteCzgr9viE8fGvID_fadsYQJBCQ3Ve7ArXEMwHTyOs9HJ28apkPF1735nETJ-Oui___niFbRwkjFCS-9wZVVfbk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2116751,-8.8335762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島阿普爾瓦凱賓斯基酒店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxEM7Zhm0QUKyQfJlPpm9j7ipfrB-um_6o52cXNk6tgm7J2mC4kLIDahb8iUWiwA2ZWZ-FY1v7P1mqimCu3Q3Eq5Lr7hyi-ss9GiA9xc1WByQ3O-URD2Hxv_yecJU9n66mcKSCFvXY3_ShmXGbZmxclslo8J4Ko3Ueb5fGNLAer2Nqqv5dpuj0usAhTr935d9ul0GDXsvamVFgNpbAmNCI5hYWc-8CDcCUFNtZXpO7kHjLh-EFpx4vzCPo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxEM7Zhm0QUKyQfJlPpm9j7ipfrB-um_6o52cXNk6tgm7J2mC4kLIDahb8iUWiwA2ZWZ-FY1v7P1mqimCu3Q3Eq5Lr7hyi-ss9GiA9xc1WByQ3O-URD2Hxv_yecJU9n66mcKSCFvXY3_ShmXGbZmxclslo8J4Ko3Ueb5fGNLAer2Nqqv5dpuj0usAhTr935d9ul0GDXsvamVFgNpbAmNCI5hYWc-8CDcCUFNtZXpO7kHjLh-EFpx4vzCPo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.215578,-8.8285518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bumbu Bali Restaurant & Cooking School]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzuP0CI_oi2uBsTEjUIMj5X8qx20ghGHmAyKIddL5v9gJL1cZl_XECH6VmJNGGoROEf3sim2u_kGIX6bJwyMcYIEtCWhR5hk6gKMIl-t5mAh1F38dAVT_0hCU2xTS0lj9sqkaatHHJHu_VzMw4EwzQaUt-J4u4_IVbnWzG4tLMZeETG1ISutPgEyOYQdIziLbtszrgwa-swAns7i57AUt23bMV5Mkab5zFFgqIj0UEZ6_Oao1p69kgBojw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzuP0CI_oi2uBsTEjUIMj5X8qx20ghGHmAyKIddL5v9gJL1cZl_XECH6VmJNGGoROEf3sim2u_kGIX6bJwyMcYIEtCWhR5hk6gKMIl-t5mAh1F38dAVT_0hCU2xTS0lj9sqkaatHHJHu_VzMw4EwzQaUt-J4u4_IVbnWzG4tLMZeETG1ISutPgEyOYQdIziLbtszrgwa-swAns7i57AUt23bMV5Mkab5zFFgqIj0UEZ6_Oao1p69kgBojw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2217865,-8.7694645,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ketut's BBQ Kitchen]]></name>
+        <description>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2226437,-8.7742352,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mr Bob Bar and Grill Nusadua ( Main Restaurant)</name>
+        <description>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2226125,-8.7747354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mr Bob Bar and Grill Nusadua (Second Outlet)</name>
+        <description>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2238669,-8.7982918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atlichnaya Bar</name>
+        <description>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2218393,-8.7654968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atlichnaya Bar 2</name>
+        <description>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2224831,-8.7729291,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Atlichnaya 3</name>
+        <description>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2239061,-8.7795783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Manarai Beach House</name>
+        <description>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2311495,-8.7913444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bebek Bengil Crispy Duck - Nusa Dua</name>
+        <description>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2352851,-8.80149,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Royal Kitchen Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwqpG9rAgzKMgS9r1qiMhrDCPf0OnDEN046qxbpY2EwJRzS6MDkHETxF5vgm2OPncre1luCIjCjp188qGHDmlSou7QgnYjmtZH4qcn9El1DtY-ES-Q2ggmFP7kG3QqgYsoNz3xGcr7DwhMUSHRimUBjjr8VBcAHBLAmzYVOLWu3k9Ia8yygvRZVp2dFVg_RaSFVLcn-1fPgwHlPK_yRIkaB1JIRZfxjtipBpUwAevGnyIpN_YgzpPynHLM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>好吃的印度料理餐廳，劉燦榮社長大力推薦<br>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwqpG9rAgzKMgS9r1qiMhrDCPf0OnDEN046qxbpY2EwJRzS6MDkHETxF5vgm2OPncre1luCIjCjp188qGHDmlSou7QgnYjmtZH4qcn9El1DtY-ES-Q2ggmFP7kG3QqgYsoNz3xGcr7DwhMUSHRimUBjjr8VBcAHBLAmzYVOLWu3k9Ia8yygvRZVp2dFVg_RaSFVLcn-1fPgwHlPK_yRIkaB1JIRZfxjtipBpUwAevGnyIpN_YgzpPynHLM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2295259,-8.8018638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Babi Guling Sari Dewi Bp. Dobil</name>
+        <description><![CDATA[峇里島的國民美食, 烤豬飯Babi Guling, 是每個遊客來訪峇里島必吃的美食之一<br><br>這家位於Nusa Dua區附近的小店, 就算是過了用餐時段, 還是擠得水洩不通, 烤的香脆的豬皮, 軟嫩的豬肉, 搭配上特殊香料的小菜及沙嗲, 現在分享文章, 還是邊打字邊流口水啊!<br><br>這家店去年我們二訪, 雖然店家因為忙碌, 忘記我們是點了不辣版本的, 真的是超級無敵辣, 不敢吃辣的我們, 真的是一把鼻涕一把眼淚, 不然真的是人間美味啊!!<br><br>不敢吃辣的, 一定要叮囑店家不要忘記了,不要加辣, 真的會噴火, 哈哈哈<br><br>ps:如果有人去吃過, 知道那杯果汁是什麼? 麻煩請告訴我, 不知道是不是柚子汁? 超好喝<br><br>～團友李秋雄提供～]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2227627,-8.8007139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>龍蝦先生 Mr lobster restaurant. Tanjung Benoa. 龙虾先生餐厅 南湾店</name>
+        <description><![CDATA[台灣人經營的平價海鮮店，料理新鮮實在，人氣超高，常有優惠回饋給社團成員。推薦給海鮮控！這裡有聯絡方式，建議跟許老闆提前預約喔！<br>https://gobaligo.id/go/Mr-Lobster]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2224472,-8.7728414,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>努沙杜瓦/南灣逛街購物</name>
+      <Placemark>
+        <name>Bali Collection</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwuxK966J_IIbd1Ll-nOkBM8Q9k2u5RGNK7iQKFx5HDn9ylIQiSeiNtnncYr-CuA8sd_RhiBp6SJZnw6Pcp89Szu9oaGUpQ-zYkNNIWOClK6FgGS9TlGAN27VPtvA58eOVqBIVq-BTyMiXm8Mt2QdCXrdAIldgeXSOIbMzx2T264rLgGf98CzhJzkYKZfpqBdviIDN1KJkYn56zrZq4Vovyq1K-iHUykvTOUp68vO3vP26rK7_YPkyixMs?authuser=0&fife=s16383" height="200" width="auto" /><br><br>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwuxK966J_IIbd1Ll-nOkBM8Q9k2u5RGNK7iQKFx5HDn9ylIQiSeiNtnncYr-CuA8sd_RhiBp6SJZnw6Pcp89Szu9oaGUpQ-zYkNNIWOClK6FgGS9TlGAN27VPtvA58eOVqBIVq-BTyMiXm8Mt2QdCXrdAIldgeXSOIbMzx2T264rLgGf98CzhJzkYKZfpqBdviIDN1KJkYn56zrZq4Vovyq1K-iHUykvTOUp68vO3vP26rK7_YPkyixMs?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.23006,-8.8024416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>努沙杜瓦/南灣活動</name>
+      <Placemark>
+        <name>Nusa Dua Beach</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw6oJrUlvKsHVVeQbTjK3tjgTm5Xv-7nQzWaM9DNpQ2eVD4RukvL5tcasgryYyS26ysQWnxLXSMAzx9LGQdswd4vY3X5KOkVnkRVKf199ban6ozHBC6uCOmSpDS1k9K4Z9uesq8HvTzNPkul7WlDH2eExmpBlWYWEC_RA3pVgATSbYh11eTeP4nTjYaF5RqF-lmcWmXXUjoEo3HCP1vuKdpXtoPpOcBrOZPuj5aSjG6J-wuPG8xbx7ljTY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw6oJrUlvKsHVVeQbTjK3tjgTm5Xv-7nQzWaM9DNpQ2eVD4RukvL5tcasgryYyS26ysQWnxLXSMAzx9LGQdswd4vY3X5KOkVnkRVKf199ban6ozHBC6uCOmSpDS1k9K4Z9uesq8HvTzNPkul7WlDH2eExmpBlWYWEC_RA3pVgATSbYh11eTeP4nTjYaF5RqF-lmcWmXXUjoEo3HCP1vuKdpXtoPpOcBrOZPuj5aSjG6J-wuPG8xbx7ljTY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2360119,-8.8004121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanjung Benoa南灣水上活動</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwiu0Z_uPBgQnboPcRlQbh_W74bCx76kot3SDq49pAvcjwc80lC7LP2xPKMHXYO1sGRLdoxbIXzkWcpTZ-BU-6TURqvxjPRXGrtK9n9B0sa11AgNDPMvjPIoP1S_IF8Px_-O5kxVQHX0qa5yU2_zJ_IvbLLE4-O1ZEwPr-IcucWgp3CFOkwJ8m_JKCT4DIgXtTH07rBmsxNXkgoPwvzEeiF8SZOfQak2kXM4-uzOd5hiXveva2_0dDEdkg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwiu0Z_uPBgQnboPcRlQbh_W74bCx76kot3SDq49pAvcjwc80lC7LP2xPKMHXYO1sGRLdoxbIXzkWcpTZ-BU-6TURqvxjPRXGrtK9n9B0sa11AgNDPMvjPIoP1S_IF8Px_-O5kxVQHX0qa5yU2_zJ_IvbLLE4-O1ZEwPr-IcucWgp3CFOkwJ8m_JKCT4DIgXtTH07rBmsxNXkgoPwvzEeiF8SZOfQak2kXM4-uzOd5hiXveva2_0dDEdkg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2225147,-8.7582127,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali National Golf Club</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzoYh0KR-lf0TOACy7gYm3pIlJA5VwC8YokcOuhNvpz1DxO0C-JnpJGQLPIzBvkoL7f-2MNioD1oBILGplTnb8pN5Pmc2QF8QVxXjfE7fQ0GYJSeQe9fj5suxlqP_4k3bMXPLtkgmafUNgbfpCeGa7aBI3N7POz_N9D8ja43K2dsKDpX8qAIuFibzwOgIBPyarKXe2bgC2HKSn-sasujvO5aP7kel-YzBysM3pvy0mNV3Lw115ckGrojEE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzoYh0KR-lf0TOACy7gYm3pIlJA5VwC8YokcOuhNvpz1DxO0C-JnpJGQLPIzBvkoL7f-2MNioD1oBILGplTnb8pN5Pmc2QF8QVxXjfE7fQ0GYJSeQe9fj5suxlqP_4k3bMXPLtkgmafUNgbfpCeGa7aBI3N7POz_N9D8ja43K2dsKDpX8qAIuFibzwOgIBPyarKXe2bgC2HKSn-sasujvO5aP7kel-YzBysM3pvy0mNV3Lw115ckGrojEE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2215936,-8.8105592,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dapur Bali Nusa Dua Cooking Class</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw925VDirP3Yy1rYR8Ca4TuRCl_9Qu9jXXXdETPmpUm-q35rp8eURfU0lWzijnoVo1jCaDLDYEznYx7rMVIvrhbPHgbWWVXmYzEntVXCpBHsBlLiJ9-kT4bfPwa64g2FBX2SmeySINZWoWIKB_YXGqsgh402KkREmEt2SD5Q_EISsKCLBMfS95Of6A1P5gKRpd89YbeJ0hMwNBwMlxI2YU39e9oOrIMbSNvq3DZV27ICGRx-I9OEzTobIg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw925VDirP3Yy1rYR8Ca4TuRCl_9Qu9jXXXdETPmpUm-q35rp8eURfU0lWzijnoVo1jCaDLDYEznYx7rMVIvrhbPHgbWWVXmYzEntVXCpBHsBlLiJ9-kT4bfPwa64g2FBX2SmeySINZWoWIKB_YXGqsgh402KkREmEt2SD5Q_EISsKCLBMfS95Of6A1P5gKRpd89YbeJ0hMwNBwMlxI2YU39e9oOrIMbSNvq3DZV27ICGRx-I9OEzTobIg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2280828,-8.7944486,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Canna Beach Club</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyrFniZRft5GdDALpWeD8tBYUAEnDQ8FeG21ipH30ZTqIPJifKmb8-OGTfOq3zN95XzvHYBDMTr8114Tk1qzmDV2RQaEPQlLHPJN_0hMSx58x8u_E2vvvrjcTeqFay4cgjR0mSW6qMMF2P-TspB1iO8grgrHQCJuOOdXdlh0WXd8zZkfoXTw14uAs6OvjiswsEnV5GYY_uazOp77P1nFloA9BwnsLsc1ZXX2ePscRZ34rgGi1SO62SXIq8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>看「峇里島旅遊攻略」的介紹：https://gobaligo.id/go/nusa-dua-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyrFniZRft5GdDALpWeD8tBYUAEnDQ8FeG21ipH30ZTqIPJifKmb8-OGTfOq3zN95XzvHYBDMTr8114Tk1qzmDV2RQaEPQlLHPJN_0hMSx58x8u_E2vvvrjcTeqFay4cgjR0mSW6qMMF2P-TspB1iO8grgrHQCJuOOdXdlh0WXd8zZkfoXTw14uAs6OvjiswsEnV5GYY_uazOp77P1nFloA9BwnsLsc1ZXX2ePscRZ34rgGi1SO62SXIq8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2136181,-8.8331752,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天壇秀 Devdan Show</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx2Hk0cSGasefmoLCJRDcWlFRXKDih2Bit6boxE_-llIGjk5L1pV0HIW8M53niOu2T8rCwPCV0xbDgAGxAikQn_t-zscxB8s4eg1PffEILCheVuUP5OTfxiAIDik1BrMsFzbj3Ly-TIu7mdGydaQ-9gnAzeCbaGkzmxz6c-lfe3KmqLt0NwvjkVXxkzFOisIun0FVBRbG1skq8zzNtKKqz1r4pC2xLeaQBoIO29q_I0PBNodHnlZ7QkttY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Bali Nusa Dua Theatre<br>請看我們專文介紹：https://gobaligo.id/blog/2025-06-21-68557a29fd897800017f4272/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx2Hk0cSGasefmoLCJRDcWlFRXKDih2Bit6boxE_-llIGjk5L1pV0HIW8M53niOu2T8rCwPCV0xbDgAGxAikQn_t-zscxB8s4eg1PffEILCheVuUP5OTfxiAIDik1BrMsFzbj3Ly-TIu7mdGydaQ-9gnAzeCbaGkzmxz6c-lfe3KmqLt0NwvjkVXxkzFOisIun0FVBRbG1skq8zzNtKKqz1r4pC2xLeaQBoIO29q_I0PBNodHnlZ7QkttY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2338681,-8.800629,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>SPA推薦</name>
+      <Placemark>
+        <name>峇里麗思卡爾頓酒店</name>
+        <description>「峇里島旅遊攻略」的預約/優惠券：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2153312,-8.8306709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kayumanis Spa Nusa Dua</name>
+        <description>「峇里島旅遊攻略」的預約/優惠券：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2277773,-8.7943648,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Heavenly Spa by Westin</name>
+        <description>「峇里島旅遊攻略」的預約/優惠券：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2305838,-8.7957071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Royal Orchid Spa & Resto]]></name>
+        <description>「峇里島旅遊攻略」的預約/優惠券：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2251176,-8.7855258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ZEN Family Spa (Nusa Dua - Bali)</name>
+        <description>「峇里島旅遊攻略」的預約/優惠券：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.204776,-8.786785,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nusa Bali Spa</name>
+        <description>「峇里島旅遊攻略」的預約/優惠券：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2252225,-8.7841499,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Spa Bali - by Karaniya Experience</name>
+        <description>「峇里島旅遊攻略」的預約/優惠券：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2224894,-8.7737448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sekar Jepun Spa</name>
+        <description>「峇里島旅遊攻略」的預約/優惠券：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1796049,-8.7812046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Zahra Spa</name>
+        <description>「峇里島旅遊攻略」的預約/優惠券：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2241845,-8.7985898,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>五星級旅館推薦</name>
+      <Placemark>
+        <name>峇里島美利亞酒店</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2319056,-8.7990235,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Mulia - Nusa Dua, Bali</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.225381,-8.8157126,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島努沙杜瓦威斯汀酒店</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.23051,-8.795935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島努沙杜瓦海灘酒店及水療中心</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2301618,-8.7940956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島努沙杜瓦海灘索菲特度假酒店</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2299719,-8.7917051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Samabe Bali Suites & Villas]]></name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2116751,-8.8335762,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島希爾頓度假酒店</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2186745,-8.8256848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島君悅酒店</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2332213,-8.8036711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島康萊德酒店</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2252736,-8.7809667,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島阿普爾瓦凱賓斯基酒店</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.215578,-8.8285518,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島瑞吉度假酒店</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2264772,-8.8128275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里麗思卡爾頓酒店</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2153312,-8.8306709,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Royal Santrian Luxury Beach Villas</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.225559,-8.7830688,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島努沙杜瓦萬麗度假酒店</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2137612,-8.8065755,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>REVĪVŌ Wellness Resort Nusa Dua Bali</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2104973,-8.8111011,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ayodya Resort Bali</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2282773,-8.808104,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島貝諾瓦假日度假酒店</name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2253819,-8.7822717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Grand Mirage Resort & Thalasso Bali]]></name>
+        <description>詳細介紹在這裡：https://gobaligo.id/go/nusa-dua-resorts</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2227403,-8.7670783,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,2569 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>水明漾攻略地圖 by: GoBaliGo</name>
+    <description><![CDATA[峇里島旅遊攻略<br>https://gobaligo.id/]]></description>
+    <Style id="icon-1577-F9A825-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1577-F9A825-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1577-F9A825">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-F9A825-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-F9A825-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1577-FBC02D-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1577-FBC02D-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1577-FBC02D">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-FBC02D-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-FBC02D-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1684-7CB342-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1684-7CB342-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1684-7CB342">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1684-7CB342-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1684-7CB342-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1684-7CB342-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1684-7CB342-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1684-7CB342-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1684-7CB342-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1684-7CB342-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0F9D58-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0F9D58-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0F9D58">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0F9D58-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0F9D58-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Shopping Guide 血拼指南</name>
+      <Placemark>
+        <name>Uma and Leopold</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=z62ILjId_A8"><img src="https://img.youtube.com/vi/z62ILjId_A8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/z62ILjId_A8">https://www.youtube.com/embed/z62ILjId_A8</a><br><br>Uma and Leopold 擁有美麗的印花、柔美的廓形和優質的材料，是島上熱帶衣櫥的最愛。 包括 Seminyak 和 Canggu 在內的全島都有商店，每家精品店都擁有涼爽和輕鬆的氛圍，為您帶來愉快的購物體驗。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/z62ILjId_A8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1575055,-8.6831416,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gooseberry Intimates</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4GzYL9r1uGJ3DC8wTdwstV-KGt9i9TjOeJoUYul6JAYMq_8VQDNROl1ZC4pouSILwIesRaeLNSZLkKgd2WHWVMOnnCz7m7WhVh9ha2T5sbsJkcOVEW_qgy4J1vSOHAiFbkhcI7GjXNHMCluTd8B4BLUHvHxXaQgX4DTCR2OSEQYrFZQ04yBrMTaa_6UbOYCiJMrz6N1Oyd?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Gooseberry Intimates 是峇里島上最著名的品牌之一，銷售精緻漂亮的內衣和舒適的泳裝。 他們的商店坐落在繁華的Kayu Aya大街上，乾淨別緻的風格使購物變得輕鬆。 尋找令人難以置信的蕾絲內衣和令人驚嘆的泳裝，讓您充滿自信]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4GzYL9r1uGJ3DC8wTdwstV-KGt9i9TjOeJoUYul6JAYMq_8VQDNROl1ZC4pouSILwIesRaeLNSZLkKgd2WHWVMOnnCz7m7WhVh9ha2T5sbsJkcOVEW_qgy4J1vSOHAiFbkhcI7GjXNHMCluTd8B4BLUHvHxXaQgX4DTCR2OSEQYrFZQ04yBrMTaa_6UbOYCiJMrz6N1Oyd?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1629477,-8.6839512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bamboo Blonde</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=UffZBofLZDo"><img src="https://img.youtube.com/vi/UffZBofLZDo/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/UffZBofLZDo">https://www.youtube.com/embed/UffZBofLZDo</a><br><br>Bamboo Blonde 坐落在巴厘島的所有主要商業區，是舒適飄逸連衣裙和別緻晚裝的島上主打品牌。 它以合理的價格提供適合各種場合的一切。 Bamboo Blonde 以熱帶圖案、輕質材料和活潑的風格為特色，是熱帶島嶼衣櫥的必備單品。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/UffZBofLZDo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1400248,-8.6599474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Niconico Swimwear Oceano</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X71z0xghmFgAhXwET2HZgfKMOQpLx3OqbJUuJYUYiz6aRoTfv8aq1_U8h-oKkhpfkV8yN-_eRF1i4J-6P-3vwERCdKETlAdt0pUB_wkP-3bxEnY5IVkf-3BZg8_ZY0NtGWKSgZNL63-zUsMiqr7d9rJVxLoVvZwPtvnhHxZPDtSSFMfIA0E9SuUtm5HmpqeFM5VnNJtony8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Nico Nico 是巴厘島創立的泳裝系列，適合各種尺碼。 該品牌的款式迎合季節潮流和島上明媚的晴天，現已涉足度假裝，為在海灘度過一天后遮掩肌膚。 Nico Nico 採用鮮豔的色彩、獨特的圖案和有趣的形狀設計，是巴厘島人的最愛。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X71z0xghmFgAhXwET2HZgfKMOQpLx3OqbJUuJYUYiz6aRoTfv8aq1_U8h-oKkhpfkV8yN-_eRF1i4J-6P-3vwERCdKETlAdt0pUB_wkP-3bxEnY5IVkf-3BZg8_ZY0NtGWKSgZNL63-zUsMiqr7d9rJVxLoVvZwPtvnhHxZPDtSSFMfIA0E9SuUtm5HmpqeFM5VnNJtony8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1608597,-8.6842161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bali Tailor</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5CshW8ilFBzPcc5vrqhEV2SkYvylzNKfY4rNpBVusP3sJzr6tk83rykib45k7zvwsKdvvjHsm9PrbGKH-G5e_GV37JkkIEXsos5RHJ1a5a2AHqjA_6viMYqkQhds_JGe7uXJJXnDB2ufqTxltm-48Q8rwjRjv3Ah4c3iV5h90jhMjJvJWJtk3CSPmoxpY2OWQqVdl-aTZQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>在尋找可以穿一輩子的別緻時尚服裝時，The Bali Tailor 是必去之地。 每件單品均採用優質材料，既耐穿又美觀，營造出輕鬆的島嶼風格。 提供量身定制的白襯衫、連衣裙和鞋子，它們擁有您想要的時尚海島度假所需的一切。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5CshW8ilFBzPcc5vrqhEV2SkYvylzNKfY4rNpBVusP3sJzr6tk83rykib45k7zvwsKdvvjHsm9PrbGKH-G5e_GV37JkkIEXsos5RHJ1a5a2AHqjA_6viMYqkQhds_JGe7uXJJXnDB2ufqTxltm-48Q8rwjRjv3Ah4c3iV5h90jhMjJvJWJtk3CSPmoxpY2OWQqVdl-aTZQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1609215,-8.6816099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Boat Shed</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5U22GAdvc7XcYAwItOo_8gx5NzY9HrHAk_Ux-GaluolHl0rKi12sa-iY-mpZQlVXSYEowYMB5VDQxNH_lrBcgES_mIWnlwHQMEOXwtBhRSZixFlcm4Eyf7TgaCGEAunvHQTWUJy8JNgTiTEdcTwrZs2T3bevGSq3spvbILtNLzqJeayUUWbMtiwtm4PSCG7Em0zr2tJAp_?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Bali Boat Shed 擁有許多小品牌，提供從裙子到連衣裙和男士必需品的島上基本商品。 憑藉明亮的圖案、塊狀顏色和配飾，您可以穿著打扮或只是在一些舒適的休閒用品中閒逛。 在水明漾的中心地帶，這是一個停下來為您的島嶼衣櫥挑選新衣服的好地方。<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5emvueeuTXI0Tq_uPVW5bB4IEAVyEpdMOFD9OxHdTQ_w_ZZ3KDqMcs3qSZHkcwQXx4CBdVkrDk33WXCIhe2xnEZI0VvaANNeitd1R5V3-ZqgarIqPhPgQl7EXzmHcH9Tu0nvDcm-iNC0QzAK6lJsrtaAY5yHJY_zRfkQgIT3qPLk5Es4-DuaeoD3Zgz6ptmeSX96w1c13D?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5U22GAdvc7XcYAwItOo_8gx5NzY9HrHAk_Ux-GaluolHl0rKi12sa-iY-mpZQlVXSYEowYMB5VDQxNH_lrBcgES_mIWnlwHQMEOXwtBhRSZixFlcm4Eyf7TgaCGEAunvHQTWUJy8JNgTiTEdcTwrZs2T3bevGSq3spvbILtNLzqJeayUUWbMtiwtm4PSCG7Em0zr2tJAp_?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5emvueeuTXI0Tq_uPVW5bB4IEAVyEpdMOFD9OxHdTQ_w_ZZ3KDqMcs3qSZHkcwQXx4CBdVkrDk33WXCIhe2xnEZI0VvaANNeitd1R5V3-ZqgarIqPhPgQl7EXzmHcH9Tu0nvDcm-iNC0QzAK6lJsrtaAY5yHJY_zRfkQgIT3qPLk5Es4-DuaeoD3Zgz6ptmeSX96w1c13D?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1533087,-8.6824439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>My Cup Of Love</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X55mtaT-lAI8V5L59KiGMeHZ-EqLtfv58neIHoItGmMPmTROsfjXLpSmp-nI9dwJ1aYfIf9PESPRcIYLzGHBKrvzmiml15mAZLwdrvpx2GXQhg3Iy1z2fsUTjddcZh7drHukpByws2GrQhSf7BDuGRohmxUMYsn8FxSjYCPxGCg5gjzeYN14IRXEooxn2HWoquPDmE3LDbF?authuser=0&fife=s16383" height="200" width="auto" /><br><br>My Cup of Love 提供家居裝飾、珠寶、配飾和小擺設，是一家獨立的精品店，出售手工製品、傳統巴厘島商品和島上製作的配飾，可為您的家居或裝束增光添彩。 為您的親人購買紀念品回家，為特別的生日買禮物，或犒賞自己。 My Cup of Love 適合各種場合。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X55mtaT-lAI8V5L59KiGMeHZ-EqLtfv58neIHoItGmMPmTROsfjXLpSmp-nI9dwJ1aYfIf9PESPRcIYLzGHBKrvzmiml15mAZLwdrvpx2GXQhg3Iy1z2fsUTjddcZh7drHukpByws2GrQhSf7BDuGRohmxUMYsn8FxSjYCPxGCg5gjzeYN14IRXEooxn2HWoquPDmE3LDbF?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.157431,-8.6836015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Canaan Boutique Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7faFdp5Wy8BkMs45SrFoDiZYTm4UdhTkzK28y_kmLlRj23_aocJDm2jE-ftanqTDqVdsviIN_rf6_E1Om-LIXObJkrzlRdxqs6wWxLGe22sBTxd_ZaH_k7r9rYjJGUUToJedfw1fh3bx1CjZrctbdArfu57uSDYRWFsR-8hFL1TBUG5zyKSO_mrYyWdOg3vDZRJn7XCjs6?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Canaan Bali 是一家明亮的精品店，不僅僅屬於一類商品。 備有書籍、衣服、珠寶、可持續產品、服裝、家居用品、配飾——它是獨特商品的一站式商店，也是安靜享用咖啡的好去處。<br><br>他們的網上商店是一個額外的避風港，裡面裝滿了您在其他地方找不到的獨一無二的商品。<br><br>如果您喜歡有點不同的東西，Canaan Bali 是水明漾的一家精品店，值得一試。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7faFdp5Wy8BkMs45SrFoDiZYTm4UdhTkzK28y_kmLlRj23_aocJDm2jE-ftanqTDqVdsviIN_rf6_E1Om-LIXObJkrzlRdxqs6wWxLGe22sBTxd_ZaH_k7r9rYjJGUUToJedfw1fh3bx1CjZrctbdArfu57uSDYRWFsR-8hFL1TBUG5zyKSO_mrYyWdOg3vDZRJn7XCjs6?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1652415,-8.6864491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paulina Katarina Boutique Seminyak</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=Unri-WQRU_A"><img src="https://img.youtube.com/vi/Unri-WQRU_A/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Unri-WQRU_A">https://www.youtube.com/embed/Unri-WQRU_A</a><br><br>迷人的海島女士們，我在看著你。 放下你正在做的事情，現在就去寶琳娜卡塔琳娜吧！<br><br>這家位於塞米亞克的精品店擁有熱帶辦公室女性所需的一切，從絲質透明襯衫、剪裁考究的褲子到專業優雅的連身褲。 Paulina Katarina 不僅適合商務女性，也適合那些只喜歡時髦而休閒的人，擁有漂亮的柔和印花、輕盈活潑的面料和寬鬆的設計，看起來別緻、優雅、隨性。<br><br>探索他們的商店，找到製作精良的單品，讓您的衣櫥充滿輕鬆魅力。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/Unri-WQRU_A</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1573704,-8.6839069,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mrs Sippy Bazaar</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7ix76IDNaEaub9eqpba2B6gCl7sl60HdbX-rFAkJnKj3ORccV-1GGa45UQYKVNNchLeZm1nmbj37q1MsCUiP72v_OsPASw8qRCt5qPCxTTexJ2rH8HvZuRf3SLG2_8f3k6NsZbVfM19E2msIJHdgDJLxHa7xzULpjxDUYs1zm7R9mandyT-8px2qemCa3k7uY_ylA1-TXd?authuser=0&fife=s16383" height="200" width="auto" /><br><br>前往 Mrs Sippy 泳池俱樂部的即興旅行，但沒有比基尼？ – 不用擔心，Mrs Sippy Bazaar 備有您在俱樂部度過一天所需的一切。<br><br>選擇知名品牌的泳裝、度假服、防曬霜、太陽鏡和涼鞋，您可以穿上您的周日最佳裝扮，並能夠在 Bazaar 的產品裝扮下舒適地享受陽光下的一天。<br><br>對我來說，這聽起來像是購物和放鬆的完美結合！]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7ix76IDNaEaub9eqpba2B6gCl7sl60HdbX-rFAkJnKj3ORccV-1GGa45UQYKVNNchLeZm1nmbj37q1MsCUiP72v_OsPASw8qRCt5qPCxTTexJ2rH8HvZuRf3SLG2_8f3k6NsZbVfM19E2msIJHdgDJLxHa7xzULpjxDUYs1zm7R9mandyT-8px2qemCa3k7uY_ylA1-TXd?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1512453,-8.679803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BIASA 旗艦店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4q8PAaLdIXvfLXGpVJpNv5i_D1YMlCry_PPRKKdgbUeqXNbC8kbCkScJ_zdlpy90s2EoPOI4zPhtqSDuAuyQPKRwc55XH_qi2sgi698pVobky9NM9z3Wmlk6CX5iQt60MqNNnGlg2ZAFN5NiOrM7sq7N_E2Sx7uGeuwWNLiYFUrE4buEHb5dajBZe5IqEEuwQGiMlc72-k?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Biasa 是巴厘島最知名的海島品牌之一，別緻的款式、奢華的材料和現代設計讓海島風格盡顯奢華。 這家商店提供男女裝和配飾，您可以在這裡輕鬆找到適合特殊場合的服裝。 用超級奢華的單品裝點您的衣櫥，或犒賞自己參加一場大型活動。 Biasa 有適合每個人的東西。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4q8PAaLdIXvfLXGpVJpNv5i_D1YMlCry_PPRKKdgbUeqXNbC8kbCkScJ_zdlpy90s2EoPOI4zPhtqSDuAuyQPKRwc55XH_qi2sgi698pVobky9NM9z3Wmlk6CX5iQt60MqNNnGlg2ZAFN5NiOrM7sq7N_E2Sx7uGeuwWNLiYFUrE4buEHb5dajBZe5IqEEuwQGiMlc72-k?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1680304,-8.6926333,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>the tailor and his lover</name>
+        <description><![CDATA[每個人都喜歡一件簡單的白襯衫——適合任何場合和任何天氣，它是衣櫥必備單品。 The Tailor and His Lover 以全新的現代風格和前衛風格完美演繹了這件白襯衫，使其成為每個人都想要的東西。<br><br>這家新西蘭精品店位於 Batu Belig，裡面擺滿了簡約但令人驚豔的單品，可以提升任何人的島嶼形象。 由於他們具有生態意識的限量生產，系列有限，使衣服更加獨特。<br><br>光顧水明漾的精品店，瀏覽柔軟的亞麻製品、結構感襯衫和垂感十足的連衣裙。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            115.1549016,-8.6860393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SOUQ Store Seminyak</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X67kP3pJ3mFv0uR5pVD5x_g2UiO2F7VALeoNr_aKyATQ9SgIUql17-Koyioqxsk8S41tzcLuZNR7bMqfeNA_KfZoTzKNOqFaj8WHaoqerPCsSYt89HnEbF_ZwgvAQQox7aLPB6i4DI7oP1_IKWLm7MEo0PnsEnChYdwyZqjiMXDLrCm4vrV1cBv0-G003Mnm23m7v4tASm-?authuser=0&fife=s16383" height="200" width="auto" /><br><br>對於優雅的家具、巴厘島風格的家居用品和令人驚嘆的引人注目的裝飾，Souq 是您的不二之選。 家用紡織品會讓任何無聊的沙髮變得活潑起來，而精緻的小擺設將為您的海島別墅增添額外的溫馨氣息。 儲備好餐具、配飾以及傳統蠟染圍裙和和服，您可以將它們作為禮物送給家裡所有的親人。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X67kP3pJ3mFv0uR5pVD5x_g2UiO2F7VALeoNr_aKyATQ9SgIUql17-Koyioqxsk8S41tzcLuZNR7bMqfeNA_KfZoTzKNOqFaj8WHaoqerPCsSYt89HnEbF_ZwgvAQQox7aLPB6i4DI7oP1_IKWLm7MEo0PnsEnChYdwyZqjiMXDLrCm4vrV1cBv0-G003Mnm23m7v4tASm-?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.166106,-8.682906,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Indigo & Rose]]></name>
+        <description><![CDATA[Indigo & Rose 是一系列高品質、美麗的度假裝，可輕鬆帶您從海灘到夜總會。 流暢、明亮、舒適，是騎摩托車探索巴厘島和在城裡所有最好的海灘酒吧閒逛的完美衣櫥。 在澳大利亞設計，在印度尼西亞各地創建，這個品牌充滿了激情和愛。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            115.157097,-8.6842254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>69 SLAM</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4y_Y83-VMWEOkS1t4Tz25BRFNAZL-smNIACWI82FXHFnA-ar2xgp5c8X3HcwQgGtyIUjapZsCDs3EZL947UfrOjITu-M3lu2IsHZkMKBxbeaCQ06aybkO48QQuLHK9T1xoRwh0Joc3dR5hdgFvRC_Xe0InMtFLdsTSyuPWiTr8Luq0t8TfqLiV5lzVRnSJcxW89c9yDNnN?authuser=0&fife=s16383" height="200" width="auto" /><br><br>69 Slam 以其引人注目的設計、俏皮的幽默和卓越的品質而成為一座不可或缺的島嶼。 他們的史詩設計被印在內衣、泳裝、配飾等上，這樣你就可以協調你的衝浪服，從人群中脫穎而出。 它的商店遍布巴厘島，是最容易接近和知名的品牌之一。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4y_Y83-VMWEOkS1t4Tz25BRFNAZL-smNIACWI82FXHFnA-ar2xgp5c8X3HcwQgGtyIUjapZsCDs3EZL947UfrOjITu-M3lu2IsHZkMKBxbeaCQ06aybkO48QQuLHK9T1xoRwh0Joc3dR5hdgFvRC_Xe0InMtFLdsTSyuPWiTr8Luq0t8TfqLiV5lzVRnSJcxW89c9yDNnN?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1733173,-8.6908059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uluwatu Handmade Balinese Lace - Oberoi Shop</name>
+        <description>巴厘島人創造、設計和生產的 Uluwatu Lace 是島上最奢華、最美麗的本土品牌之一。 Uluwatu Lace 僱用了數百名當地工匠並遵循公平貿易標準，打造出令人驚豔的服裝，包括連衣裙、連身褲、傳統 kebaya 和婚紗。 如果您正在尋找一些特別的東西，並想支持一家女性擁有的本地企業，那麼烏魯瓦圖蕾絲是您的必去之地。</description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            115.161174,-8.68404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ABANG SHOP</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7Y9g6EE2WsgBuHLFh7NE2gcgPckmZOu3N1qCqWefyUyUa1wrQtWi-VfR2IVvJJuoqyiQ0tD9qqhaX9MP1R4Z6CTJD8SBEm1j2EJ5jIZXAopAPk4I3uQJGhnUfX324d8PY8Hm03H9B8Zdos911Un5wpO7iGChybXqHcXEC7m9NEc70rY6EohBTbEwdak4mod0d2sCJNEsjL?authuser=0&fife=s16383" height="200" width="auto" /><br><br>要重新裝修您的空間或為您的親人收集紀念品回家，Abang Shop 是完美的停留點。 它擺滿了您可以在市場攤位上找到的物品，包括花邊壁掛和波西米亞風格的裝飾。 位置在水明漾的主要街道上，您可以討價還價，以超低價購買吊床、可愛的小擺設和島嶼風格的裝飾品。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7Y9g6EE2WsgBuHLFh7NE2gcgPckmZOu3N1qCqWefyUyUa1wrQtWi-VfR2IVvJJuoqyiQ0tD9qqhaX9MP1R4Z6CTJD8SBEm1j2EJ5jIZXAopAPk4I3uQJGhnUfX324d8PY8Hm03H9B8Zdos911Un5wpO7iGChybXqHcXEC7m9NEc70rY6EohBTbEwdak4mod0d2sCJNEsjL?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1681339,-8.6946834,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lily Jean Kayu Aya</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5hGTJVAFG-MVDJxmtk1GEwzA3Pg_3m8fJQ4hxzxVdvdvIaZsQ9kvd6DOTkRoW-yeHTWVX7Ph0mOJG7N13EUJ798RmzK1z-dl8CYAs-ODnnkf1RI5pDg9hI_Twdvn0Iki7_hqpfv3YJKcfbpyuy4Qlit2EyLPlihNj42CAqfq-3PAM_5Zlaw5D8cegGEELRYMneEaYbvqgd?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Lily Jean 將他們的位置作為水明漾購物之旅的必遊之地，採用時尚的島嶼別緻並使其舒適。 每個膠囊系列都遵循緩慢的時尚潮流，每件都限量生產。 Lily Jean 是巴厘人創立和擁有的品牌，是一些零售療法的傑出競爭者。<br><br>明亮美麗的精品店既提供基本款單品又提供衣櫥宣言，總有一款適合您。 在獨家商品售罄之前，根據您的尺碼搜索欄杆。<br><br>從閃閃發光的亮片到簡單的白色背心，Lily Jean 應有盡有！]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5hGTJVAFG-MVDJxmtk1GEwzA3Pg_3m8fJQ4hxzxVdvdvIaZsQ9kvd6DOTkRoW-yeHTWVX7Ph0mOJG7N13EUJ798RmzK1z-dl8CYAs-ODnnkf1RI5pDg9hI_Twdvn0Iki7_hqpfv3YJKcfbpyuy4Qlit2EyLPlihNj42CAqfq-3PAM_5Zlaw5D8cegGEELRYMneEaYbvqgd?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1621845,-8.6840185,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Religion Clothing Store</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4ddju84KmEG9NKbClMmWyCbApkL1scVNUn898jvbX7kB-1vbPYdC6crwCeeQ0o97UcRdsS8dV39sNQVASPRsLuyuo4_5Bm0pX0W4enK6wXXo5qwnnNb7vI1xQ3c_Ug48rt6OUNqIobjETI-DW9izUTRBOpvBuDcwfYgw9yykFjFoEmaPA-vuqur16FMJ4YfcAgzlQtTl_V?authuser=0&fife=s16383" height="200" width="auto" /><br><br>作為具有龐克影響力和前衛形象的世界知名英國品牌，Religion 為水明漾購物場景增添了一絲搖滾樂氣息。 他們的休閒 T 卹、皮革配飾和醒目的印花為任何衣櫥增色不少。<br><br>擁有男裝和女裝系列，您可以穿著帶有吸血鬼風格的標誌性街頭服飾風靡巴厘島街頭。 Religion 位於 Kayu Aya 的中心地帶，與島上的其他地點一樣，是享受西式購物療法的好去處。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4ddju84KmEG9NKbClMmWyCbApkL1scVNUn898jvbX7kB-1vbPYdC6crwCeeQ0o97UcRdsS8dV39sNQVASPRsLuyuo4_5Bm0pX0W4enK6wXXo5qwnnNb7vI1xQ3c_Ug48rt6OUNqIobjETI-DW9izUTRBOpvBuDcwfYgw9yykFjFoEmaPA-vuqur16FMJ4YfcAgzlQtTl_V?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.161942,-8.684083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rose Avenue</name>
+        <description><![CDATA[Rose Avenue 的 Instagram 很令人著迷……<br><br>他們的風格本質上是熱帶風格，配有棕櫚樹靠墊套、儲物籃和菠蘿餐具，讓您可以讓您的別墅煥然一新，或者回家時為您的臥室增添一絲島嶼生活氣息。 Rose Avenue 擁有裝飾性的裝飾品、藤製家具、木製廚房用具和黃銅配件，是您夢想的家居用品。<br><br>他們美麗的粉紅色商店位於 Kayu Aya 的盡頭，有一面花牆和巨大的窗戶，讓櫥窗購物變得容易。 一定要去這里美化一下島上的內部環境。]]></description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            115.1534584,-8.6830476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>屈臣氏</name>
+        <styleUrl>#icon-1684-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.15665,-8.683583,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>QUIKSILVER 衝浪運動服裝店</name>
+        <styleUrl>#icon-1684-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.1569257,-8.683565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Billabong 泳裝/運動服裝店</name>
+        <styleUrl>#icon-1684-7CB342-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.1566643,-8.6836717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GUARDIAN - Seminyak Square</name>
+        <description>印尼最大的藥妝店</description>
+        <styleUrl>#icon-1684-7CB342</styleUrl>
+        <Point>
+          <coordinates>
+            115.156802,-8.6842401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seminyak Village</name>
+        <description>Seminyak Village，一座充滿現代感的玻璃與光影結合的建築，這裡是峇里島時尚的購物和美食天堂。位於Seminyak的中心地帶，這座生活商場為亞洲各大海灘度假村常見的購物場景增添了新的維度。不僅如此，旁邊就是 Seminyak Square，讓您在雨天也能享受舒適的購物與餐飲體驗。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.157134,-8.6833565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Fancy Eating Guide 高檔美食餐廳</name>
+      <Placemark>
+        <name>Motel Mexicola</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4yxrr4j2VnsFH3dVss1_NxeZBxRe_W1VoYcMFb5O5yWsNvp6-7qyJbD3Wcgp_GUiqFze906Qq7Qv-8FQ-61dUSqHLil03nirVgWL8IrHkW1dirAhtFHgIbmZfMESsGxp6Ca3yl4P3TAxbNOn7Gx-brepP5d9nAFJI_dJ5JoOpKGXx2gWib83r62yzkZg0ZyB-5FK8Qc7S4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>说明: Motel Mexicola無疑是水明漾街區最炙手可熱的餐廳。 喜歡 1960 年代 Acupulco 復古風格嗎？在這個墨西哥風格的餐廳裡，明亮的霓虹燈和美味佳餚。 主廚Steven Skelly名副其實，他提供一些美味的傳統墨西哥美食，旨在與您的夥伴分享。 <br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value>Motel Mexicola無疑是水明漾街區最炙手可熱的餐廳。 喜歡 1960 年代 Acupulco 復古風格嗎？在這個墨西哥風格的餐廳裡，明亮的霓虹燈和美味佳餚。 主廚Steven Skelly名副其實，他提供一些美味的傳統墨西哥美食，旨在與您的夥伴分享。 </value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4yxrr4j2VnsFH3dVss1_NxeZBxRe_W1VoYcMFb5O5yWsNvp6-7qyJbD3Wcgp_GUiqFze906Qq7Qv-8FQ-61dUSqHLil03nirVgWL8IrHkW1dirAhtFHgIbmZfMESsGxp6Ca3yl4P3TAxbNOn7Gx-brepP5d9nAFJI_dJ5JoOpKGXx2gWib83r62yzkZg0ZyB-5FK8Qc7S4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1538719,-8.6822338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Lucciola</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X79gzF1VS8jBtFcRHEiw176QLVTuMviO9WDS3-zFg79GeuPoxJd33iAAlV2ikeUX4gsLHSfqIqO09QaqmQN7KiHM5Vbc34StqyJY0apGkYioUcwq5mRJH6Bfsso8tdrTRaiXw8s5FfalOq8fCeTnWgXtFMcEINMtAzP10DFcFL0vNaeYGpp6l7S7pPVKboGNU7I61B_Vsk8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>说明: 在海濱的綠草皮！這裡是您享用地中海美食和種類繁多的葡萄酒的好去處。 不可能不愛上“La Looch”，因為它總是提供令人驚嘆的服務、傳奇般的美食和絕佳的景色。 它可能是水明漾唯一沒有 Wi-Fi 的地方——就像過去的巴厘島一樣。<br><br>reservations@lalucciolabali.com； 週二至週五中午 12 點開放，週六和周日上午 9 點開放。<br><br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value>在海濱的綠草皮！這裡是您享用地中海美食和種類繁多的葡萄酒的好去處。 不可能不愛上“La Looch”，因為它總是提供令人驚嘆的服務、傳奇般的美食和絕佳的景色。 它可能是水明漾唯一沒有 Wi-Fi 的地方——就像過去的巴厘島一樣。
+
+reservations@lalucciolabali.com； 週二至週五中午 12 點開放，週六和周日上午 9 點開放。
+</value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X79gzF1VS8jBtFcRHEiw176QLVTuMviO9WDS3-zFg79GeuPoxJd33iAAlV2ikeUX4gsLHSfqIqO09QaqmQN7KiHM5Vbc34StqyJY0apGkYioUcwq5mRJH6Bfsso8tdrTRaiXw8s5FfalOq8fCeTnWgXtFMcEINMtAzP10DFcFL0vNaeYGpp6l7S7pPVKboGNU7I61B_Vsk8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1519759,-8.6828463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Da Maria</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X55pYzj8oiycEl2DGYRHEgyZw0udtQnyrV-ikJC-C5TmIGhjpbCKKlgouwzlVwtxjjE_A8xLNeyrPF_r5fwgVO05-kwUVO8dPVEAURwX8fGksUrTFgrvxeA0MMP2cBeA-2sp3zQXeXmLHLTzbqW3hdbeVQo9dDXUdkDQ36MbhXMCDNDM2R9m6Wx4pFQi_KjH_DseE5KeZF3?authuser=0&fife=s16383" height="200" width="auto" /><br><br>说明: Da Maria 是巴厘島品嚐義大利美味佳餚的好地方，是水明漾地帶上的超時尚意大利餐廳，它知道如何滿足我們對披薩的渴望。 這個引人注目的午餐和晚餐場所是澳大利亞餐館老闆 Maurice Terzini 的心血結晶，擁有美味的比薩餅和一些最酷的雞尾酒創意——更不用說周圍最熱門的周日派對之一了。<br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value>Da Maria 是巴厘島品嚐義大利美味佳餚的好地方，是水明漾地帶上的超時尚意大利餐廳，它知道如何滿足我們對披薩的渴望。 這個引人注目的午餐和晚餐場所是澳大利亞餐館老闆 Maurice Terzini 的心血結晶，擁有美味的比薩餅和一些最酷的雞尾酒創意——更不用說周圍最熱門的周日派對之一了。</value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X55pYzj8oiycEl2DGYRHEgyZw0udtQnyrV-ikJC-C5TmIGhjpbCKKlgouwzlVwtxjjE_A8xLNeyrPF_r5fwgVO05-kwUVO8dPVEAURwX8fGksUrTFgrvxeA0MMP2cBeA-2sp3zQXeXmLHLTzbqW3hdbeVQo9dDXUdkDQ36MbhXMCDNDM2R9m6Wx4pFQi_KjH_DseE5KeZF3?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1621311,-8.6718674,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mamasan Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Hi-WeEDPV9LcTqX47ehGKUBCT6EUpyoNvks1qjkkF6EEEUGoeS9gOKUQvbNa_4CHp9R8YaBip6GKAsqUaOboL_ic8xKCASKjg_4s1GQg1i328U0IF9-y0W639dAAS7Al2U5jTNoaGDkwGHxDQEsKoOwug60thRSSP0waevoCxGrAQ4s4VA0gSgsnnjFAiFqJtfMLq-DZx?authuser=0&fife=s16383" height="200" width="auto" /><br><br>说明: 美味的亞洲綜合美食。 <br><br>這家時尚餐廳同樣由主廚威爾·梅里克 (Will Meyrick) 主理，提供令人印象深刻的豐富菜單，從現代風味到聽起來簡單的亞洲小吃，如慢烤北京烤鴨配中國煎餅和黃咖哩鯛魚。 但不要搞錯了——原料都是來自全國各地的頂級品質，而且標準是世界一流的。 將其與高檔內飾相結合，您將擁有一個永遠不想離開的餐廳。<br><br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value>美味的亞洲綜合美食。 
+
+這家時尚餐廳同樣由主廚威爾·梅里克 (Will Meyrick) 主理，提供令人印象深刻的豐富菜單，從現代風味到聽起來簡單的亞洲小吃，如慢烤北京烤鴨配中國煎餅和黃咖哩鯛魚。 但不要搞錯了——原料都是來自全國各地的頂級品質，而且標準是世界一流的。 將其與高檔內飾相結合，您將擁有一個永遠不想離開的餐廳。
+</value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Hi-WeEDPV9LcTqX47ehGKUBCT6EUpyoNvks1qjkkF6EEEUGoeS9gOKUQvbNa_4CHp9R8YaBip6GKAsqUaOboL_ic8xKCASKjg_4s1GQg1i328U0IF9-y0W639dAAS7Al2U5jTNoaGDkwGHxDQEsKoOwug60thRSSP0waevoCxGrAQ4s4VA0gSgsnnjFAiFqJtfMLq-DZx?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.164686,-8.682115,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Italian Job Bali</name>
+        <description><![CDATA[说明: 主打義大利料理。該餐廳成立於 2019 年，目前由一位義大利人經營。<br><br>Italian Job 的菜單包括各種義大利經典菜餚，如披薩、意大利麵、燉飯等。此外，餐廳還提供一些特色菜，如烤羊排、海鮮拼盤等。<br><br>Italian Job 的裝潢簡約時尚，氛圍溫馨舒適。餐廳位於 Seminyak 的中心地帶，交通便利。<br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value>主打義大利料理。該餐廳成立於 2019 年，目前由一位義大利人經營。
+
+Italian Job 的菜單包括各種義大利經典菜餚，如披薩、意大利麵、燉飯等。此外，餐廳還提供一些特色菜，如烤羊排、海鮮拼盤等。
+
+Italian Job 的裝潢簡約時尚，氛圍溫馨舒適。餐廳位於 Seminyak 的中心地帶，交通便利。</value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.160082,-8.6840605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seasalt Seminyak</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7cnEUvoeamQn16P7DYBAKZ7TLJNCOiSm2sGWqYIxfzb4JYbZLyseomrZT7IxTEzWBSgzyF81OU8uj9cdMGGIYdsEsSMplZGjvytIHS13OMy7_DaloTpsBio1tZ1dE3KgnP63_uqq82ttS2VnpKAIQgZF_NYHGmq5avCdMY-Q6wZf7F8kayKCf_DRPEAO7kvityjki198S8rXUn3MGFA_KIMJzZUEP8PMB-X7TgtV2NZzClUn86gl01ROY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>说明: 受其壯觀的海濱環境和當地收穫的海鹽的啟發，Seasalt Seminyak 是享受海濱用餐的完美場所！<br>Seasalt是在水明漾地區漫步時必去的海鮮目的地！<br>Seasalt 標誌著誘人的全新海景用餐體驗的開始，融入了日式元素. 帶您的家人或親人來這美妙的海濱用餐！<br><br>點擊獲取優惠：https://gobaligo.id/go/seminyak-guide<br><br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value>受其壯觀的海濱環境和當地收穫的海鹽的啟發，Seasalt Seminyak 是享受海濱用餐的完美場所！
+Seasalt是在水明漾地區漫步時必去的海鮮目的地！
+Seasalt 標誌著誘人的全新海景用餐體驗的開始，融入了日式元素. 帶您的家人或親人來這美妙的海濱用餐！
+
+點擊獲取優惠：https://gobaligo.id/go/seminyak-guide
+</value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7cnEUvoeamQn16P7DYBAKZ7TLJNCOiSm2sGWqYIxfzb4JYbZLyseomrZT7IxTEzWBSgzyF81OU8uj9cdMGGIYdsEsSMplZGjvytIHS13OMy7_DaloTpsBio1tZ1dE3KgnP63_uqq82ttS2VnpKAIQgZF_NYHGmq5avCdMY-Q6wZf7F8kayKCf_DRPEAO7kvityjki198S8rXUn3MGFA_KIMJzZUEP8PMB-X7TgtV2NZzClUn86gl01ROY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1506309,-8.6803254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Restaurant at The Legian Seminyak</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5nDR_Kh_lssgbeULzVFZsyse2ck5R4Jda6NOwRrK42CVCTbUaW33MhP6XCQ0vKgwRN1kd9a0zRwz01J-dzEqw0-05up4CtZRgLMkK66jYuwkxVLAsWfbp7frmB7DzAbqvu854DuDaA0iQHjAomqkK3tXduceKuyrFLr53ftu7GIZzVa4ZgLmNUH0twVjCoonMmn4BpbEAjw9JWsKK2r8hF4glgDEGLpaZ5E4J_oLXRnLw68puH4aC1Ko4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>说明: 位於水明漾的The Legian Bali度假村內，這家餐廳提供精緻的印尼與國際料理，搭配絕美的海景與浪漫氛圍。開放式設計讓賓客能一邊享用美食，一邊欣賞印度洋日落。菜單強調新鮮當地食材，適合追求高品質用餐體驗的旅客。<br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value>位於水明漾的The Legian Bali度假村內，這家餐廳提供精緻的印尼與國際料理，搭配絕美的海景與浪漫氛圍。開放式設計讓賓客能一邊享用美食，一邊欣賞印度洋日落。菜單強調新鮮當地食材，適合追求高品質用餐體驗的旅客。</value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5nDR_Kh_lssgbeULzVFZsyse2ck5R4Jda6NOwRrK42CVCTbUaW33MhP6XCQ0vKgwRN1kd9a0zRwz01J-dzEqw0-05up4CtZRgLMkK66jYuwkxVLAsWfbp7frmB7DzAbqvu854DuDaA0iQHjAomqkK3tXduceKuyrFLr53ftu7GIZzVa4ZgLmNUH0twVjCoonMmn4BpbEAjw9JWsKK2r8hF4glgDEGLpaZ5E4J_oLXRnLw68puH4aC1Ko4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1533328,-8.6843561,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BKeto Seminyak 餐飲和烹飪課程體驗</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6WCZDsTr1MV9fnkyMx_FjCIVYuwk1RTf-TSicl3orcqoG9HtRdujrUg7YRfjTgaiVkOfCYXYcN6d8RlBLWOlGAMPDwkUE101tNM1-ApYBOeXPM_BLT5KnGInCLKUwVMJ0FU-Mb2fQUgc4IZ-aoM4GxPHD-9rUKG0AAWvwwI5DV0g6ZagKNtZrPskQ4bXxB6prYs-nciqKjEpEJw5inLAxk51xddJdw-HQg6CYnWb4UMRsI8ugpWQjpJOM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>说明: 在 BKeto Seminyak Bali 享受健康與美味兼具的用餐體驗，讓您的峇里島假期更加難忘。不僅能品嚐精緻的健康料理，還可參加糕點或烹飪課程，學習地道的料理技巧。您也可以與親人共度浪漫晚餐，搭配舒壓水療套餐，放鬆身心。無論是體驗式學習或悠閒享受，BKeto 都是提升旅程質感的理想之選。<br><br>請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide<br><br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value><![CDATA[在 BKeto Seminyak Bali 享受健康與美味兼具的用餐體驗，讓您的峇里島假期更加難忘。不僅能品嚐精緻的健康料理，還可參加糕點或烹飪課程，學習地道的料理技巧。您也可以與親人共度浪漫晚餐，搭配舒壓水療套餐，放鬆身心。無論是體驗式學習或悠閒享受，BKeto 都是提升旅程質感的理想之選。
+
+請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide
+]]></value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6WCZDsTr1MV9fnkyMx_FjCIVYuwk1RTf-TSicl3orcqoG9HtRdujrUg7YRfjTgaiVkOfCYXYcN6d8RlBLWOlGAMPDwkUE101tNM1-ApYBOeXPM_BLT5KnGInCLKUwVMJ0FU-Mb2fQUgc4IZ-aoM4GxPHD-9rUKG0AAWvwwI5DV0g6ZagKNtZrPskQ4bXxB6prYs-nciqKjEpEJw5inLAxk51xddJdw-HQg6CYnWb4UMRsI8ugpWQjpJOM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1673856,-8.6917976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Jackson Lily's by Ginger Moon]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7PFA1G_4vKUYtwSRVAOitrck4AJ4ovU1eXQhxWJ_TnVDR8ItBCNhRf0Cfo5xsmRgvFmFPSLf8uO8s9Ui4xPhsOXRlwz4J6pCyanIQ4AW46cBMMmrjuN5SkHk7QnmJIdpd-r51mTJXBCxrgxpYQblanl7HrI3eIYyAJexU5SdU9YP8gk2eMlZfc75bpX0fFLqWbZMU_ndXr-hb2RHJx5CdHJOZZlm4t83BMU2RSeyLG2KRcZywoc2sC6S8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>说明: 這家由主廚Chef Dean Keddell經營的亞洲餐廳，他擁有30年餐飲業經驗，是峇里島餐飲界的領導人物。Dean Keddell被讚譽為"first class chef"（頂級廚師），以創意的東西融合料理聞名。<br><br>請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide<br><br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value><![CDATA[這家由主廚Chef Dean Keddell經營的亞洲餐廳，他擁有30年餐飲業經驗，是峇里島餐飲界的領導人物。Dean Keddell被讚譽為"first class chef"（頂級廚師），以創意的東西融合料理聞名。
+
+請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide
+]]></value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7PFA1G_4vKUYtwSRVAOitrck4AJ4ovU1eXQhxWJ_TnVDR8ItBCNhRf0Cfo5xsmRgvFmFPSLf8uO8s9Ui4xPhsOXRlwz4J6pCyanIQ4AW46cBMMmrjuN5SkHk7QnmJIdpd-r51mTJXBCxrgxpYQblanl7HrI3eIYyAJexU5SdU9YP8gk2eMlZfc75bpX0fFLqWbZMU_ndXr-hb2RHJx5CdHJOZZlm4t83BMU2RSeyLG2KRcZywoc2sC6S8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1675514,-8.6889758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>水明漾空中餐廳體驗</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7cFYFX9d3CzRCbUezzRRHjP78_6M685mOaLM8pWzGqHXBIlOC3d1GKLUceMe6xhM_DoIOLP0m8UKjNn1GGjUEWVOoOG2icmFEIMMu32JSrbK7SU2Wd-XqNZXFphy6Z8pcQP0wOs194BwclBY5PuUUD1uiPD4YRoIIn1R5GMInlbYrO3yYKjsagmRxseKDleZ_l-0zDwoEznPlPGNqwzomgiPHqZ9IlBfAnvnNZu5k_N1tlLP50Sktuiik?authuser=0&fife=s16383" height="200" width="auto" /><br><br>说明: 位於水明漾的熱門露天頂樓餐廳，結合悠閒的波西米亞風與熱帶氛圍，主打健康輕食、創意早午餐和特色調酒。菜單包含新鮮沙拉、酪梨吐司、印尼風味料理等，適合白天享用陽光早午餐或傍晚欣賞日落。現場常有DJ音樂，營造輕鬆愉悅的度假氛圍，是當地潮人與遊客的聚集地。<br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value>位於水明漾的熱門露天頂樓餐廳，結合悠閒的波西米亞風與熱帶氛圍，主打健康輕食、創意早午餐和特色調酒。菜單包含新鮮沙拉、酪梨吐司、印尼風味料理等，適合白天享用陽光早午餐或傍晚欣賞日落。現場常有DJ音樂，營造輕鬆愉悅的度假氛圍，是當地潮人與遊客的聚集地。</value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7cFYFX9d3CzRCbUezzRRHjP78_6M685mOaLM8pWzGqHXBIlOC3d1GKLUceMe6xhM_DoIOLP0m8UKjNn1GGjUEWVOoOG2icmFEIMMu32JSrbK7SU2Wd-XqNZXFphy6Z8pcQP0wOs194BwclBY5PuUUD1uiPD4YRoIIn1R5GMInlbYrO3yYKjsagmRxseKDleZ_l-0zDwoEznPlPGNqwzomgiPHqZ9IlBfAnvnNZu5k_N1tlLP50Sktuiik?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1571286,-8.6838721,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Frestro & Bar]]></name>
+        <description><![CDATA[说明: Frestro & Bar Seminyak 是水明漾備受推崇的知名餐廳，深受熱愛國際料理食客的喜愛。這裡匯聚來自世界各地的精緻美食，無論是輕鬆聚餐還是精緻饗宴，都能滿足味蕾。推薦嘗試他們的 VIP 套餐，包括煙燻鮭魚抹醬、海鮮清湯、和牛菲力或塔斯馬尼亞黑鱈魚，以及咖啡香提拉米蘇，完美展現高級餐飲魅力。<br><br>請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide<br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value><![CDATA[Frestro & Bar Seminyak 是水明漾備受推崇的知名餐廳，深受熱愛國際料理食客的喜愛。這裡匯聚來自世界各地的精緻美食，無論是輕鬆聚餐還是精緻饗宴，都能滿足味蕾。推薦嘗試他們的 VIP 套餐，包括煙燻鮭魚抹醬、海鮮清湯、和牛菲力或塔斯馬尼亞黑鱈魚，以及咖啡香提拉米蘇，完美展現高級餐飲魅力。
+
+請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide]]></value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1555587,-8.6765489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五星級villa渡假村 Breeze at The Samaya Seminyak</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6lkoNWdNEgbyA-nZVGmYdLDPN5KOcMav9-3jpFDN9Se7u73FWe_BKz0huIyrokD8nW48EAhQxoI1ZH4bI_yZNhxAoCnj2pUw6J8a2gSrgyZgbWxvijP828lwK7NU-ePyfbi2pVfwdCPw-6AhBifLFNI1Lk1I_fqU1AzQShcBtpxHRpgzK-Y7e3uq9BQ9lyhsdFqS7WLMgSuq5hh_5PNebJjGFM4mu_tFZRZnWS67r4WWJ5jlIT9qkvSXc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>说明: Breeze by The Samaya Seminyak 坐落於迷人海濱，擁有無敵海景與浪漫日落，是情侶約會與特別慶祝的理想地點。餐廳以精緻料理、熱情服務與寧靜氛圍聞名，讓人能在自然美景中享受難忘的用餐體驗。<br><br>請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide<br><br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value><![CDATA[Breeze by The Samaya Seminyak 坐落於迷人海濱，擁有無敵海景與浪漫日落，是情侶約會與特別慶祝的理想地點。餐廳以精緻料理、熱情服務與寧靜氛圍聞名，讓人能在自然美景中享受難忘的用餐體驗。
+
+請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide
+]]></value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6lkoNWdNEgbyA-nZVGmYdLDPN5KOcMav9-3jpFDN9Se7u73FWe_BKz0huIyrokD8nW48EAhQxoI1ZH4bI_yZNhxAoCnj2pUw6J8a2gSrgyZgbWxvijP828lwK7NU-ePyfbi2pVfwdCPw-6AhBifLFNI1Lk1I_fqU1AzQShcBtpxHRpgzK-Y7e3uq9BQ9lyhsdFqS7WLMgSuq5hh_5PNebJjGFM4mu_tFZRZnWS67r4WWJ5jlIT9qkvSXc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.153281,-8.6830616,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SugarSand用餐優惠</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4KYe93F1UkqSi8In6NN0gtrWQ6hIem5CuA1jUBerVqC3DApwNVG1s4suc_zMiRtw8mZ6NcyHwV6l51QUTVx4g700R3QhXH5g_bsLWwfo6lG0E32F1-5cqBX1pyDyHr15Yu6_5ukyH_z9q4Drqv0PfUw6Fo3rh3MJ6Fcm_mdnblUIx-j-hLukzykQqSJgpMsppFbURgQbkJWp4OG-5IJJw284tT2SuN5der7UsQ5g_t_4MatXWQW4fD8iY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>说明: 在水明漾英迪格酒店體驗結合峇里傳統魅力與現代設計的極致奢華。於知名的 SugarSand 餐廳享用精緻的三道式午餐或豐盛的四道式晚餐，品味創意料理與海景共舞的饗宴。<br><br>請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide<br><br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value><![CDATA[在水明漾英迪格酒店體驗結合峇里傳統魅力與現代設計的極致奢華。於知名的 SugarSand 餐廳享用精緻的三道式午餐或豐盛的四道式晚餐，品味創意料理與海景共舞的饗宴。
+
+請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide
+]]></value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4KYe93F1UkqSi8In6NN0gtrWQ6hIem5CuA1jUBerVqC3DApwNVG1s4suc_zMiRtw8mZ6NcyHwV6l51QUTVx4g700R3QhXH5g_bsLWwfo6lG0E32F1-5cqBX1pyDyHr15Yu6_5ukyH_z9q4Drqv0PfUw6Fo3rh3MJ6Fcm_mdnblUIx-j-hLukzykQqSJgpMsppFbURgQbkJWp4OG-5IJJw284tT2SuN5der7UsQ5g_t_4MatXWQW4fD8iY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1604594,-8.6951718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MoonLite Kitchen and Bar</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5zO25Wy7seK2ldcKhiQhaXJEdTKQWTPUh5UavcKcy8TT21s8naECAoH0p2degSqhEi_dvv98MtvWBXBzVoUmSD4Bq_Kr6vOteQN4Zl1e2ZlAUtOOU-48pgoNdX9YqrFMI034fqX2qafv9QUU6C4uFeKhglzO669e9U444tsG7oWsX9mU5jontoTpgsuWFMNduuTjxIVsKr1Z9jewoerU2BWsepCViWG6uZoZvbNXiAbeStd3xVB7DUH5Q?authuser=0&fife=s16383" height="200" width="auto" /><br><br>说明: <br>名稱: <br>說明: Moonlite Kitchen and Bar 是一家俯瞰印度洋和壯麗日落的餐廳。 提供現代亞洲美食和巴厘島風味的餐飲，是在巴厘島享用私密餐點的理想場所。 它的開胃菜和主餐價格適中，價格從 9 美元到 28 美元不等。 MoonliteKitchenandBar 是一邊聆聽現場音樂一邊享用現代亞洲美食的好地方，是尋找浪漫夜晚的情侶的絕佳選擇。<br><br>請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide]]></description>
+        <styleUrl>#icon-1577-FBC02D</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value><![CDATA[Moonlite Kitchen and Bar 是一家俯瞰印度洋和壯麗日落的餐廳。 提供現代亞洲美食和巴厘島風味的餐飲，是在巴厘島享用私密餐點的理想場所。 它的開胃菜和主餐價格適中，價格從 9 美元到 28 美元不等。 MoonliteKitchenandBar 是一邊聆聽現場音樂一邊享用現代亞洲美食的好地方，是尋找浪漫夜晚的情侶的絕佳選擇。
+
+請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide]]></value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5zO25Wy7seK2ldcKhiQhaXJEdTKQWTPUh5UavcKcy8TT21s8naECAoH0p2degSqhEi_dvv98MtvWBXBzVoUmSD4Bq_Kr6vOteQN4Zl1e2ZlAUtOOU-48pgoNdX9YqrFMI034fqX2qafv9QUU6C4uFeKhglzO669e9U444tsG7oWsX9mU5jontoTpgsuWFMNduuTjxIVsKr1Z9jewoerU2BWsepCViWG6uZoZvbNXiAbeStd3xVB7DUH5Q?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1590236,-8.6926534,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shichirin Seminyak Japanese Teppanyaki by Wonderspace</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5wBx1UrfuNJ4Tf6Z8So1fkrC4FNpXigUujTBx0ax2srDstO8J5xHnlvNHP9dQFnXmQOqVxCeAc-7OCokyo2EE3GTc5n7Sz0ZUlVTkAHqtorIg4UeT7ZHg3VsN4jPNToqW8YQAcqs1KGZMMG0vrUbw9Uc274fVf-BkKoIat7jFW4qcgWt7MfMZmrELQ_hn6YWAlJFJZn-phVeDs9Ow0rQRtFlkr7hGdfUeckT304dc0XSVhuJyZ0KrH5-Y?authuser=0&fife=s16383" height="200" width="auto" /><br><br>说明: Shichirin Seminyak 是一間精緻的日式料理餐廳，提供多樣化的經典菜色，從壽司到燒烤皆精心烹製。餐廳擁有舒適座位與溫馨氛圍，無論是家庭聚餐還是朋友小聚，都是享受日式美食的理想場所。<br><br>點擊獲取優惠：https://gobaligo.id/go/seminyak-guide<br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value>Shichirin Seminyak 是一間精緻的日式料理餐廳，提供多樣化的經典菜色，從壽司到燒烤皆精心烹製。餐廳擁有舒適座位與溫馨氛圍，無論是家庭聚餐還是朋友小聚，都是享受日式美食的理想場所。
+
+點擊獲取優惠：https://gobaligo.id/go/seminyak-guide</value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5wBx1UrfuNJ4Tf6Z8So1fkrC4FNpXigUujTBx0ax2srDstO8J5xHnlvNHP9dQFnXmQOqVxCeAc-7OCokyo2EE3GTc5n7Sz0ZUlVTkAHqtorIg4UeT7ZHg3VsN4jPNToqW8YQAcqs1KGZMMG0vrUbw9Uc274fVf-BkKoIat7jFW4qcgWt7MfMZmrELQ_hn6YWAlJFJZn-phVeDs9Ow0rQRtFlkr7hGdfUeckT304dc0XSVhuJyZ0KrH5-Y?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1721362,-8.6814007,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bebek Tepi Sawah Restaurant</name>
+        <description><![CDATA[说明: Bebek Tepi Sawah 是峇里島知名餐廳，以香脆可口的脆皮炸鴨聞名，搭配峇里島特製香料炒長豆及三種風味辣椒醬，風味十足。菜單融合巴厘、印尼、亞洲及西式料理，適合多種口味，且全套餐無豬肉，穆斯林也可安心享用。餐廳分店遍布烏布、庫塔、水明漾，是遊峇里島不可錯過的美食體驗。<br><br>點擊獲取優惠：https://gobaligo.id/go/seminyak-guide<br>名稱: <br>說明: ]]></description>
+        <styleUrl>#icon-1577-F9A825</styleUrl>
+        <ExtendedData>
+          <Data name="说明">
+            <value>Bebek Tepi Sawah 是峇里島知名餐廳，以香脆可口的脆皮炸鴨聞名，搭配峇里島特製香料炒長豆及三種風味辣椒醬，風味十足。菜單融合巴厘、印尼、亞洲及西式料理，適合多種口味，且全套餐無豬肉，穆斯林也可安心享用。餐廳分店遍布烏布、庫塔、水明漾，是遊峇里島不可錯過的美食體驗。
+
+點擊獲取優惠：https://gobaligo.id/go/seminyak-guide</value>
+          </Data>
+          <Data name="名稱">
+            <value/>
+          </Data>
+          <Data name="說明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1562973,-8.6726773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>cheap eating guide 平價美食</name>
+      <Placemark>
+        <name>Blue 9 Beach ( B9B )</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5otjjv6hW4d_8gMjLlRbftHrDmj8BdzvOF2mC6IIAY6s9Ta6s5FwP_FcQF0lzfWZpWuM1d10dcCRjhuBEZVru5XE4noL9KXQWRsO3EJ1z8SBy1XTLlqq1y7oUrlKo3rg65FURr8VM_ZsPXfM-FKkALLeXQQmL2WTLgPzJx36I8OzbQwrtmMYGJKt7HovqEsesIltwDVhwWl8zrZ3JYppVWq5eEGbR-9hi7dE_lMYwms1ilLySoRz_zcNc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: <br>名称: Blue 9 Beach ( B9B )沙灘用餐優惠<br>说明: B9B 是水明漾海灘最受歡迎的海灘酒吧與餐廳，特別適合熱愛日落與音樂的旅人。坐在柔軟沙灘上用餐，一邊品嚐美味料理，一邊欣賞壯麗夕陽，享受無與倫比的海邊氛圍。從峇里島在地風味到墨西哥美食，菜色多元，滿足各種口味。B9B 適合各年齡層，無論是親子出遊還是好友相聚，都是在海灘共度悠閒時光的完美去處。<br><br>請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide<br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="名称">
+            <value>Blue 9 Beach ( B9B )沙灘用餐優惠</value>
+          </Data>
+          <Data name="说明">
+            <value><![CDATA[B9B 是水明漾海灘最受歡迎的海灘酒吧與餐廳，特別適合熱愛日落與音樂的旅人。坐在柔軟沙灘上用餐，一邊品嚐美味料理，一邊欣賞壯麗夕陽，享受無與倫比的海邊氛圍。從峇里島在地風味到墨西哥美食，菜色多元，滿足各種口味。B9B 適合各年齡層，無論是親子出遊還是好友相聚，都是在海灘共度悠閒時光的完美去處。
+
+請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide
+]]></value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5otjjv6hW4d_8gMjLlRbftHrDmj8BdzvOF2mC6IIAY6s9Ta6s5FwP_FcQF0lzfWZpWuM1d10dcCRjhuBEZVru5XE4noL9KXQWRsO3EJ1z8SBy1XTLlqq1y7oUrlKo3rg65FURr8VM_ZsPXfM-FKkALLeXQQmL2WTLgPzJx36I8OzbQwrtmMYGJKt7HovqEsesIltwDVhwWl8zrZ3JYppVWq5eEGbR-9hi7dE_lMYwms1ilLySoRz_zcNc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1614557,-8.697005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sisterfields</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4fRXXrVcE6RluzAqzNERQhLa3XdzEOQhNMCd1Whb4lq3GCHqnObmfF6uZ_Q0PmT6lpHXp7C_ZSr90hSJv9ugepiDwtSZQbVlGje3cIFUJEjKSiPmUXyZKZ9kKE0zglOyiPQYMQ5_Y1nDGpWnPMh3m6ORzEkITmiQHlZOEvUZJBI-HW9PQTDjV5TJIfONbtAGpzWumM3wtYtQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: 水明漾市中心最受歡迎的餐館之一，早餐、午餐和晚餐前都排起了長隊。 不過不用擔心，這項服務完美無缺，而且永遠微笑的工作人員很快就會讓您安頓下來，小口啜飲和吃著令人難以置信的 Instagram 上的著名菜餚——sticky nam jim pork belly, Original Dirty Burger,  Acai berry bowls<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>水明漾市中心最受歡迎的餐館之一，早餐、午餐和晚餐前都排起了長隊。 不過不用擔心，這項服務完美無缺，而且永遠微笑的工作人員很快就會讓您安頓下來，小口啜飲和吃著令人難以置信的 Instagram 上的著名菜餚——sticky nam jim pork belly, Original Dirty Burger,  Acai berry bowls</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4fRXXrVcE6RluzAqzNERQhLa3XdzEOQhNMCd1Whb4lq3GCHqnObmfF6uZ_Q0PmT6lpHXp7C_ZSr90hSJv9ugepiDwtSZQbVlGje3cIFUJEjKSiPmUXyZKZ9kKE0zglOyiPQYMQ5_Y1nDGpWnPMh3m6ORzEkITmiQHlZOEvUZJBI-HW9PQTDjV5TJIfONbtAGpzWumM3wtYtQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1575097,-8.6829819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KYND COMMUNITY SEMINYAK</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6RPyHYLCFKBTSR06CLfCCzKn77oUoJeTLUz0_eSXxIU4_2XYlyfeCJXCCBTJ4tEw73A4OmV6K4p09-iBQK7LhPDGiejV4KfMwlr_2M6NXlMnqmDl7vhOWHqn-vkadyp889AXCaxWoH2c3AvLQ3ycIquVb1IWYYNW8xZQMvRlHYO-pnrYKaXBnauqmj6nfcq4-0HI3EMDmEiQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: 素食網美餐廳Kynd 是一家位於水明漾的素食餐廳，非常適合早午餐、午餐、晚餐<br><br>KYND 不僅僅是一家華麗的咖啡館，它還是一個由具有地球意識的美食家組成的社區，為喜歡輕食的人們提供植物性菜餚和飲料。 蔬菜和純素食者會喜歡他們富有創意的菜單，這是一場風味盛宴——甜味和鹹味兼而有之。 想想沙拉碗和美味的吐司，配上一系列超級有益健康的配料，以及一些城裡最好的冰沙和華夫餅。<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>素食網美餐廳Kynd 是一家位於水明漾的素食餐廳，非常適合早午餐、午餐、晚餐
+
+KYND 不僅僅是一家華麗的咖啡館，它還是一個由具有地球意識的美食家組成的社區，為喜歡輕食的人們提供植物性菜餚和飲料。 蔬菜和純素食者會喜歡他們富有創意的菜單，這是一場風味盛宴——甜味和鹹味兼而有之。 想想沙拉碗和美味的吐司，配上一系列超級有益健康的配料，以及一些城裡最好的冰沙和華夫餅。</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6RPyHYLCFKBTSR06CLfCCzKn77oUoJeTLUz0_eSXxIU4_2XYlyfeCJXCCBTJ4tEw73A4OmV6K4p09-iBQK7LhPDGiejV4KfMwlr_2M6NXlMnqmDl7vhOWHqn-vkadyp889AXCaxWoH2c3AvLQ3ycIquVb1IWYYNW8xZQMvRlHYO-pnrYKaXBnauqmj6nfcq4-0HI3EMDmEiQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1566466,-8.6747474,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Sand - Hotel Kumala Pantai</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7GbsvRMxYFBrekuk54ZT-PLe8daZuC_2uUCyv6nTkE0QI-dp0ngS4h-sy7U8z0Rs_kf2OVrQWPWqWm_7iww_Sou9f7pF0Z6gUiS8Qqps9DISjCGlafS4P7awXBAjerYfIJev7Ey8YefAIwV9oRxGV-SN0YDh5vASABGF5p8lxkxua7AYn1J1mOXH22nOJq0NYpHWN3fpACTg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: <br>名称: The Sand - Hotel Kumala Pantai<br>说明: 平價義大利海灘餐廳。披薩和豬排很有名]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="名称">
+            <value>The Sand - Hotel Kumala Pantai</value>
+          </Data>
+          <Data name="说明">
+            <value>平價義大利海灘餐廳。披薩和豬排很有名</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7GbsvRMxYFBrekuk54ZT-PLe8daZuC_2uUCyv6nTkE0QI-dp0ngS4h-sy7U8z0Rs_kf2OVrQWPWqWm_7iww_Sou9f7pF0Z6gUiS8Qqps9DISjCGlafS4P7awXBAjerYfIJev7Ey8YefAIwV9oRxGV-SN0YDh5vASABGF5p8lxkxua7AYn1J1mOXH22nOJq0NYpHWN3fpACTg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1628207,-8.6993032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sea Circus Restaurant & Bar]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5kxofIpbE00oDojSvTod_hFVP4ASox39koK7vpJUy3q9BdNC5mUgUZDiWmQouf9E-awcXTxEK_cTWI1Nrhla0Ki3-hQV5bkPrssWG5o6KACzheTajWrDclMGKiIp_GwuAbWvk9jZuD1xbSDv6J20w4_OwGrIVWc-JITF8nD927qaPCR6vAybJzG3KnpHPccq8MduYsyv8s?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: 這個顏色鮮豔的海綠色和霓虹粉色調的Sea Circus，用美味的咖啡、設計過的早餐或現壓榨果汁來提振您的早晨。<br><br>Sea Circus 的食物選擇也超多，可以滿足你挑剔的胃口<br><br>7.30am – 10pm<br><br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>這個顏色鮮豔的海綠色和霓虹粉色調的Sea Circus，用美味的咖啡、設計過的早餐或現壓榨果汁來提振您的早晨。
+
+Sea Circus 的食物選擇也超多，可以滿足你挑剔的胃口
+
+7.30am – 10pm
+</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5kxofIpbE00oDojSvTod_hFVP4ASox39koK7vpJUy3q9BdNC5mUgUZDiWmQouf9E-awcXTxEK_cTWI1Nrhla0Ki3-hQV5bkPrssWG5o6KACzheTajWrDclMGKiIp_GwuAbWvk9jZuD1xbSDv6J20w4_OwGrIVWc-JITF8nD927qaPCR6vAybJzG3KnpHPccq8MduYsyv8s?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1533358,-8.6827666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monsieur Spoon Seminyak</name>
+        <description><![CDATA[說明: 巴厘島稻田景色下的法式烘焙：Monsieur Spoon Seminyak<br><br>牛角麵包愛好者，勺子先生適合你！ 每一口都能感受到麵包的柔軟和黃油味。 <br>除了著名的牛角麵包，他們的餐點Gazpacho, Avocado Bruschetta, Quiche Loraine, New York Bagel, and Chicken Cordon Bleu.也很有名.<br><br>走到這家餐廳的後院還有一個驚喜喔！.<br><br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>巴厘島稻田景色下的法式烘焙：Monsieur Spoon Seminyak
+
+牛角麵包愛好者，勺子先生適合你！ 每一口都能感受到麵包的柔軟和黃油味。 
+除了著名的牛角麵包，他們的餐點Gazpacho, Avocado Bruschetta, Quiche Loraine, New York Bagel, and Chicken Cordon Bleu.也很有名.
+
+走到這家餐廳的後院還有一個驚喜喔！.
+</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1574576,-8.6833434,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waroeng Bernadette Seminyak</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7UfmElRw1-v_2pTGekbxQUy2JyZzaRTREIhyL2lKqO7Q8NxwpXb8m21-8drA6UwFI_hDOyT8P33FfWkTL8vOH_9du8HeiUXr6j1B1tuyNMHTuLkRNTraC4CWUdtje-mp9iaFGZqmLCt1U5s9RFFbOtKNZzFRLBPjRYk2Uiiv3iBYIlF-_CV9d9440fMGAbxZz6pfr-S4Ty2A?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: 2022 Travelers' Choice<br>品嚐傳統印尼美食<br>印尼有什麼出名的美食？請看：https://youtu.be/06e_rwxz5RU<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value><![CDATA[2022 Travelers' Choice
+品嚐傳統印尼美食
+印尼有什麼出名的美食？請看：https://youtu.be/06e_rwxz5RU]]></value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7UfmElRw1-v_2pTGekbxQUy2JyZzaRTREIhyL2lKqO7Q8NxwpXb8m21-8drA6UwFI_hDOyT8P33FfWkTL8vOH_9du8HeiUXr6j1B1tuyNMHTuLkRNTraC4CWUdtje-mp9iaFGZqmLCt1U5s9RFFbOtKNZzFRLBPjRYk2Uiiv3iBYIlF-_CV9d9440fMGAbxZz6pfr-S4Ty2A?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1563538,-8.6860981,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Lucciola</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5K3LiJh69986Lwuxg3zF9FaaKhjZldQcCu35JuyKLRLQ8-yZFDGyLTREeOOKV19Y9xGJW90QgsxBboBsT4pqSPk2lC2ZGjZti2Jj1wLNApXPb1NT7vMRwdb8qmyG86HbB4UfIdcmH7j2KMJaUVxa3a_SkMqxzJC2i1KhxQyXtaT_bnmNd85Rev6mMunY95noqROWJ5lb38?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: 位於水明漾海灘的標誌性海景餐廳，坐落於傳統的雙層茅草屋頂建築內，被譽為峇里島最浪漫的用餐地點之一。主打現代義大利料理與地中海風味，嚴選當地新鮮食材，招牌菜包括手工義大利麵、炭烤海鮮和提拉米蘇。<br><br>餐廳坐擁絕美印度洋景緻，棕櫚樹環繞的開放式空間充滿殖民時期優雅氛圍，特別適合日落晚餐。建議提前預訂海濱座位，享受浪聲相伴的精緻用餐體驗。<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>位於水明漾海灘的標誌性海景餐廳，坐落於傳統的雙層茅草屋頂建築內，被譽為峇里島最浪漫的用餐地點之一。主打現代義大利料理與地中海風味，嚴選當地新鮮食材，招牌菜包括手工義大利麵、炭烤海鮮和提拉米蘇。
+
+餐廳坐擁絕美印度洋景緻，棕櫚樹環繞的開放式空間充滿殖民時期優雅氛圍，特別適合日落晚餐。建議提前預訂海濱座位，享受浪聲相伴的精緻用餐體驗。</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5K3LiJh69986Lwuxg3zF9FaaKhjZldQcCu35JuyKLRLQ8-yZFDGyLTREeOOKV19Y9xGJW90QgsxBboBsT4pqSPk2lC2ZGjZti2Jj1wLNApXPb1NT7vMRwdb8qmyG86HbB4UfIdcmH7j2KMJaUVxa3a_SkMqxzJC2i1KhxQyXtaT_bnmNd85Rev6mMunY95noqROWJ5lb38?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1519759,-8.6828463,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asparagus Seminyak</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X49X2y7LoYAgoXR9j76mz0fV9a0Ace2LBuxRFmt8Mt9SwTEPBG5PUsxlwFW4bVqotsdvmRwNgw_Ljdv2Ifh7Y5nIUqBc1hXPm161swWcngxpLR9mRKc2DkBdzOxxoO_lNhcRvmZw43B2nY95nkf9PsGIR1XUQ00y0dDRgo_zM0hIL8RNd7BRfSdWqZdMpFMGA5-svnyLsiz?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: 一旦我們去了 Asparagus Seminyak，我們就再也沒有去其他地方吃早餐了。 <br><br>這個地方吸引了來自世界各地的遊客，因為它提供了種類繁多的食物。 在巴厘島這樣的地方，我很想在這麼乾淨、經營良好的地方吃飯。<br><br> Asparagus Seminyak 的另一個重點是吃到飽自助早餐，還包括咖啡/茶、果汁和保健品，台幣200不到，還有一道100台幣的主餐可供選擇。 這是驚人的划算，食物新鮮可口。 當你在巴厘島的時候去那裡，這是一個非常開放的氛圍，是一個吃飯的好地方。<br><br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>一旦我們去了 Asparagus Seminyak，我們就再也沒有去其他地方吃早餐了。 
+
+這個地方吸引了來自世界各地的遊客，因為它提供了種類繁多的食物。 在巴厘島這樣的地方，我很想在這麼乾淨、經營良好的地方吃飯。
+
+ Asparagus Seminyak 的另一個重點是吃到飽自助早餐，還包括咖啡/茶、果汁和保健品，台幣200不到，還有一道100台幣的主餐可供選擇。 這是驚人的划算，食物新鮮可口。 當你在巴厘島的時候去那裡，這是一個非常開放的氛圍，是一個吃飯的好地方。
+</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X49X2y7LoYAgoXR9j76mz0fV9a0Ace2LBuxRFmt8Mt9SwTEPBG5PUsxlwFW4bVqotsdvmRwNgw_Ljdv2Ifh7Y5nIUqBc1hXPm161swWcngxpLR9mRKc2DkBdzOxxoO_lNhcRvmZw43B2nY95nkf9PsGIR1XUQ00y0dDRgo_zM0hIL8RNd7BRfSdWqZdMpFMGA5-svnyLsiz?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1610203,-8.6842753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Warung Nia Balinese Food & Pork Ribs]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4DdUVa7PgT73Mobq7bZ3QyWd8zQm-KC9x_wPWSiqFE2r2m8Ikp64AijJLMIoGu98gtOXcbJTvMAFnFtUBiXOGUn2GNDRBR9N9KpGw6bvCEy7JNoE4q6sljKezFJkQ1JXky9IAHX8xfl6cXBQSYEJjiQAdwjka595rEAVJ7AziEHk3w4eu2ZsuOmYDZpdRJb2Gq94kpCdsl?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: 超棒的店…店員服務很熱情，沙爹串很好吃……豬排超級好吃…而且分量特別大……是值得經常來的店……還有一隻可愛的小狗……是我在巴厘島吃過最好吃的店之一了！飲料也是清爽又好喝<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>超棒的店…店員服務很熱情，沙爹串很好吃……豬排超級好吃…而且分量特別大……是值得經常來的店……還有一隻可愛的小狗……是我在巴厘島吃過最好吃的店之一了！飲料也是清爽又好喝</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4DdUVa7PgT73Mobq7bZ3QyWd8zQm-KC9x_wPWSiqFE2r2m8Ikp64AijJLMIoGu98gtOXcbJTvMAFnFtUBiXOGUn2GNDRBR9N9KpGw6bvCEy7JNoE4q6sljKezFJkQ1JXky9IAHX8xfl6cXBQSYEJjiQAdwjka595rEAVJ7AziEHk3w4eu2ZsuOmYDZpdRJb2Gq94kpCdsl?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1565444,-8.6860852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blue 9 Beach ( B9B )</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6InldZHnVWJHn1P1lRyiNAtzGI9tBV-O9Dm6vpl6NairYmQzY3UizAK4To0vp0ZTJskCOLFVJBp3p14wXD0JIgqjLNW0C5x8lRi3zoHU7T7CUdxQ5yC7qzZd-PD26qLl_piZNj-yPRWaQKwT9SSQ6KMAkal7jmYqRim5u5lN1cqlXcicknYorV14IuK09ggvgfJIoCby1V?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: 快速而愉快的服務，特別是在日落時推薦這個地方。可以坐在沙灘上的豆袋上聽優質的現場音樂。 人們在海濱氛圍中聚會和放鬆的地方。<br><br>點擊獲取優惠：https://gobaligo.id/go/seminyak-guide<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>快速而愉快的服務，特別是在日落時推薦這個地方。可以坐在沙灘上的豆袋上聽優質的現場音樂。 人們在海濱氛圍中聚會和放鬆的地方。
+
+點擊獲取優惠：https://gobaligo.id/go/seminyak-guide</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6InldZHnVWJHn1P1lRyiNAtzGI9tBV-O9Dm6vpl6NairYmQzY3UizAK4To0vp0ZTJskCOLFVJBp3p14wXD0JIgqjLNW0C5x8lRi3zoHU7T7CUdxQ5yC7qzZd-PD26qLl_piZNj-yPRWaQKwT9SSQ6KMAkal7jmYqRim5u5lN1cqlXcicknYorV14IuK09ggvgfJIoCby1V?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1614557,-8.697005,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nirvana Restaurant</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5O5_jmA5SyFT-9dZHs9kTqoR1Sb9zgttYwIuBm_xZUzZFno8fqTx_b8LdSpHVpeiKhkKTLHyJMSDlySlmZRi2weuriElC3oqG04j_nMrQjzHnbvOt_YuwKh6l_K5DtKZ4VLce6Hn68JRF7VVl3lpXJgVghia_QnfQcdRIk1cUH2QKkGfLv4UYojAKnPo4P8CM3fth4knDw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: Nirvana 位於 Seminyak 的 Oberoi 區的 Seminyak 餐廳地帶的中心。 這是一個非常有趣的地方，因為大多數晚上，尤其是周末，他們都有舞蹈表演，有時還有火舞者。 表演範圍從傳統的巴厘島舞蹈到狂野嘈雜的火舞和旋轉舞。 食物的價格和質量都處於中等水平<br><br>Nirvana 是一家相當標準的中檔巴厘島餐廳，現場表演使其與眾不同。<br><br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>Nirvana 位於 Seminyak 的 Oberoi 區的 Seminyak 餐廳地帶的中心。 這是一個非常有趣的地方，因為大多數晚上，尤其是周末，他們都有舞蹈表演，有時還有火舞者。 表演範圍從傳統的巴厘島舞蹈到狂野嘈雜的火舞和旋轉舞。 食物的價格和質量都處於中等水平
+
+Nirvana 是一家相當標準的中檔巴厘島餐廳，現場表演使其與眾不同。
+</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5O5_jmA5SyFT-9dZHs9kTqoR1Sb9zgttYwIuBm_xZUzZFno8fqTx_b8LdSpHVpeiKhkKTLHyJMSDlySlmZRi2weuriElC3oqG04j_nMrQjzHnbvOt_YuwKh6l_K5DtKZ4VLce6Hn68JRF7VVl3lpXJgVghia_QnfQcdRIk1cUH2QKkGfLv4UYojAKnPo4P8CM3fth4knDw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1550099,-8.6821596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Jerami</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4f_lEYx2wVWKOQlvIh_ZC06K3JVwnUZY8bKcy76_i6EX0mwyddxxNFDLwMz3RXnwgH8J9_zaI6vPdkCn-5RYzZC4efDRIY2xUUhNj1aAqehrbWDr1cgK13BdpUn7ZuSX2F8tB7mIpmJesH9-Hz_CYmieXUFYm-6np6D5w_E3Q4E7pwBN7gDHWV0kS60uJFp6mzD1TKmqsN?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: Warung Jerami 是一家室內餐廳，可容納約 70 個座位和酒吧。<br><br>只需在觸手可及的地方盡情享用您最喜愛的食物或飲料。 如果您喜歡在寂靜的早晨或浪漫的夜幕降臨之前在池塘旁的環境中盡情享受，可以在餐廳對面的甲板上享用飲品或小吃。<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>Warung Jerami 是一家室內餐廳，可容納約 70 個座位和酒吧。
+
+只需在觸手可及的地方盡情享用您最喜愛的食物或飲料。 如果您喜歡在寂靜的早晨或浪漫的夜幕降臨之前在池塘旁的環境中盡情享受，可以在餐廳對面的甲板上享用飲品或小吃。</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4f_lEYx2wVWKOQlvIh_ZC06K3JVwnUZY8bKcy76_i6EX0mwyddxxNFDLwMz3RXnwgH8J9_zaI6vPdkCn-5RYzZC4efDRIY2xUUhNj1aAqehrbWDr1cgK13BdpUn7ZuSX2F8tB7mIpmJesH9-Hz_CYmieXUFYm-6np6D5w_E3Q4E7pwBN7gDHWV0kS60uJFp6mzD1TKmqsN?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1699306,-8.6880028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nasi Ayam Kedewatan Ibu Mangku - Petitenget Seminyak</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4fOv_Ywe0uo7J6onmO2XYFZHunyGWck2sWAaaf0WMAL6_2kPzndVMdCI-VrmvaPugHGHcs7G4nEivAi5xFTOGsNGjqzrWo5HikJeyPWsGrZ_pPBju2-i6_RujxaY6a7rCNgyJ79qkg2sGhT774iNsrBnr-81n7uAtJb5djICen2CTBUbCK_hWimu32-qYcqujx4QIVqlVd?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: 在金巴蘭、烏布等地有分店的知名雞肉飯<br><br>Nasi Ayam：又名“雞肉飯”。他們提供各種美味的雞肉菜餚。 從炸雞到雞肉沙爹，這裡是滿足肉食慾望的不二之選。 每道菜都配有各式各樣的配菜和他們的招牌辣叁巴醬（辣醬）——價格實惠。<br><br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>在金巴蘭、烏布等地有分店的知名雞肉飯
+
+Nasi Ayam：又名“雞肉飯”。他們提供各種美味的雞肉菜餚。 從炸雞到雞肉沙爹，這裡是滿足肉食慾望的不二之選。 每道菜都配有各式各樣的配菜和他們的招牌辣叁巴醬（辣醬）——價格實惠。
+</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4fOv_Ywe0uo7J6onmO2XYFZHunyGWck2sWAaaf0WMAL6_2kPzndVMdCI-VrmvaPugHGHcs7G4nEivAi5xFTOGsNGjqzrWo5HikJeyPWsGrZ_pPBju2-i6_RujxaY6a7rCNgyJ79qkg2sGhT774iNsrBnr-81n7uAtJb5djICen2CTBUbCK_hWimu32-qYcqujx4QIVqlVd?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.154902,-8.682287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Murah Double Six</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4XZ_kW0oi_ey_kcDUO7nlypuDxrfNvkZ1TxC3dwZYHWSZBJE7NWZqOvUl_6XdtTInoKDDg4Rj1RcT2pHOwuIj81s9m6RV5A0hxt3M_9ss398iWU-XODuZuRXD7wzujWG59YD2imsx-NvmKAqvqRskPRwCjSASiFXSfZFqcUboNeaBggC0Ywc2DIEgDfZUAEREoyPnEQ2i7Dg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: 這家店乾淨整潔，物美價廉。有紅米、黃米、betutu雞、雞肉沙爹、牛肉仁當、咖哩雞、cap cay、凱撒沙拉、富容海等菜單。雞肉沙爹味道鮮美，肉質細嫩，佐料極佳。凱撒沙拉新鮮可口。雞肉betutu味道鮮美，肉質細嫩香辣。<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>這家店乾淨整潔，物美價廉。有紅米、黃米、betutu雞、雞肉沙爹、牛肉仁當、咖哩雞、cap cay、凱撒沙拉、富容海等菜單。雞肉沙爹味道鮮美，肉質細嫩，佐料極佳。凱撒沙拉新鮮可口。雞肉betutu味道鮮美，肉質細嫩香辣。</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4XZ_kW0oi_ey_kcDUO7nlypuDxrfNvkZ1TxC3dwZYHWSZBJE7NWZqOvUl_6XdtTInoKDDg4Rj1RcT2pHOwuIj81s9m6RV5A0hxt3M_9ss398iWU-XODuZuRXD7wzujWG59YD2imsx-NvmKAqvqRskPRwCjSASiFXSfZFqcUboNeaBggC0Ywc2DIEgDfZUAEREoyPnEQ2i7Dg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1642252,-8.6968028,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Naughty Nuri's Warung Seminyak]]></name>
+        <description><![CDATA[說明: 有名的豬肋排<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>有名的豬肋排</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1676261,-8.6775848,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>707 Beachberm</name>
+        <description><![CDATA[說明: 沙灘上海景第一排的用餐體驗<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>沙灘上海景第一排的用餐體驗</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1469378,-8.6757139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corner House</name>
+        <description><![CDATA[說明: 水明漾的Corner House是當年很受歡迎的早餐地點，現在看來會更加擁擠。 他們改進了設計和菜單，使其成為外國人周日早上在水明漾的好去處。 業主是一對法國和澳大利亞混血夫婦。<br><br>午餐晚餐的豬肋排、GRILLED CHICKEN FAJITA PLATTER很推薦<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>水明漾的Corner House是當年很受歡迎的早餐地點，現在看來會更加擁擠。 他們改進了設計和菜單，使其成為外國人周日早上在水明漾的好去處。 業主是一對法國和澳大利亞混血夫婦。
+
+午餐晚餐的豬肋排、GRILLED CHICKEN FAJITA PLATTER很推薦</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1642761,-8.6834354,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wahaha Pork Ribs</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7EYmSWh94OkTXf23LnKsD0SBy7PA1m-IOHgFCn2GoTXyTAAKEGgowWBbJNtmMa7JvtVWL_YaO6r5F7yVFSHJ-csjuTIWeb09nt_PwBM50cTEYJdbO_93y5ks3kB2nUn0UyBfPfp0_fgnQcr858N6BSMZMYtngMbte7koHWEqX-pk-ayCKnV9VfMjVLeYcAe_tB0pWynTWGBTWKiY1yFl08oePzqtaYIeGKuzH6KtogWLFpSngaN0M2oRY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: WAHAHA是一家在巴厘島以烤排骨聞名的餐廳！<br>排骨塗上燒烤調味料和巴厘島香料的組合，非常美味<br>-用餐區寬敞，您可以帶家人或愛人到金巴蘭或水明漾的WAHAHA分店<br><br>獲取用餐優惠：https://gobaligo.id/go/seminyak-guide<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>WAHAHA是一家在巴厘島以烤排骨聞名的餐廳！
+排骨塗上燒烤調味料和巴厘島香料的組合，非常美味
+-用餐區寬敞，您可以帶家人或愛人到金巴蘭或水明漾的WAHAHA分店
+
+獲取用餐優惠：https://gobaligo.id/go/seminyak-guide</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7EYmSWh94OkTXf23LnKsD0SBy7PA1m-IOHgFCn2GoTXyTAAKEGgowWBbJNtmMa7JvtVWL_YaO6r5F7yVFSHJ-csjuTIWeb09nt_PwBM50cTEYJdbO_93y5ks3kB2nUn0UyBfPfp0_fgnQcr858N6BSMZMYtngMbte7koHWEqX-pk-ayCKnV9VfMjVLeYcAe_tB0pWynTWGBTWKiY1yFl08oePzqtaYIeGKuzH6KtogWLFpSngaN0M2oRY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.169393,-8.6854533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Top Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X42rcYtp2lWZIALUfxTEv5tROiko3qOCe230NzXiZljbi6l5Q0Fx00IAiDv2h1w8QdRSoL7A_zAnL9YlLuzbLyEpa2ugR3MHqL60fzeco5dcTIZlXVqLv1jEKcNC_W6UnnwaReBTa01a4zil-xqa6rKRV3MOg9Iw3cbNIuF5lvDlDCemgxbwc214GS2kGmx6GaiTI3xY4JsrDprS-l8ocjEi4L_IdZeUcpiY3zWJJeenExLlFylGOAbhvc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: 非常推薦到這裡吃，正統台灣桶仔雞、台式熱炒，鳳梨雪花冰，來吃過的都說讚，最常聽到的回饋就是好吃便宜，環境超舒服～CP值很高的餐廳（臉書社團網友·陳寶寶提供）<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>非常推薦到這裡吃，正統台灣桶仔雞、台式熱炒，鳳梨雪花冰，來吃過的都說讚，最常聽到的回饋就是好吃便宜，環境超舒服～CP值很高的餐廳（臉書社團網友·陳寶寶提供）</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X42rcYtp2lWZIALUfxTEv5tROiko3qOCe230NzXiZljbi6l5Q0Fx00IAiDv2h1w8QdRSoL7A_zAnL9YlLuzbLyEpa2ugR3MHqL60fzeco5dcTIZlXVqLv1jEKcNC_W6UnnwaReBTa01a4zil-xqa6rKRV3MOg9Iw3cbNIuF5lvDlDCemgxbwc214GS2kGmx6GaiTI3xY4JsrDprS-l8ocjEi4L_IdZeUcpiY3zWJJeenExLlFylGOAbhvc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1695503,-8.6848287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Baliterraneo Restaurant Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7rKhm9ivvn8SNSibCvuPy-15CcvdGz_K_GMb2kqt8BqmAHQvc8f0LWu8OoPR5dD7qNyoF6GO4jHnirVyt7iZEgpo_3QETFG-HtPbb7ArdMW_uygDm4u0QdPvfEYjjpRp9sx4o79cesIffikFtFAOaEo9uK81nNcyiXZHM9HKkLXK2hp3svYdlAftOSumeQeVM_aRINffJ3yA22s_Yi0PEqlXc9pXF2SwNTT5STofSTDNwmoQuTAZ9VJfA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: <br>名称: <br>说明: 晚餐時段我們是自費單點，點了豬肋排、手工義大利麵（那個墨魚麵跟菠菜起司餃）、印尼炒麵、火腿蘑菇披薩🍕跟幾杯特調飲品。<br>晚上搭著桌上的小金燈，氣氛真的滿分，口味也滿符合台灣人的胃，完全沒踩雷！✨<br>至於住宿附贈的免費早餐也很有誠意。不管是經典的西式大拼盤（培根香腸配炒蛋就是讚🍳），還是道地的印尼炒飯配太陽蛋+ 冰咖啡，水準都不錯。<br>推薦給準備來峇里島放空的你們～（Gary哥不想上班 提供）]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value>晚餐時段我們是自費單點，點了豬肋排、手工義大利麵（那個墨魚麵跟菠菜起司餃）、印尼炒麵、火腿蘑菇披薩🍕跟幾杯特調飲品。
+晚上搭著桌上的小金燈，氣氛真的滿分，口味也滿符合台灣人的胃，完全沒踩雷！✨
+至於住宿附贈的免費早餐也很有誠意。不管是經典的西式大拼盤（培根香腸配炒蛋就是讚🍳），還是道地的印尼炒飯配太陽蛋+ 冰咖啡，水準都不錯。
+推薦給準備來峇里島放空的你們～（Gary哥不想上班 提供）</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7rKhm9ivvn8SNSibCvuPy-15CcvdGz_K_GMb2kqt8BqmAHQvc8f0LWu8OoPR5dD7qNyoF6GO4jHnirVyt7iZEgpo_3QETFG-HtPbb7ArdMW_uygDm4u0QdPvfEYjjpRp9sx4o79cesIffikFtFAOaEo9uK81nNcyiXZHM9HKkLXK2hp3svYdlAftOSumeQeVM_aRINffJ3yA22s_Yi0PEqlXc9pXF2SwNTT5STofSTDNwmoQuTAZ9VJfA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1760259,-8.6914076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gyukatsu Tenjin</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5Ny0NQWgb6ledD9Id-z5xgj4FL7hX84eUTjdVw-SXZjIOexRZrr1s5xyXaYR-OAg5UK3S7Zztrdct9kkKpwWskAzBrxVhYBtDYVWXK7dsDfI2oFjXT1pg_-ygL95FIFAsvYCAuhzRTp0t7MOLK0c_9m7qxfnJ8DJ1bMHNe9nScg7rsFyiRHlFtn40R2d2Tq0pIFN2aVFQNkjPC9aBoEO5ldP7OJAHxoz4-pi2XtBOG3ipVBKzBw3NjUeo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: （水明漾店，烏布另有分店）<br>名称: <br>说明: 來到峇里島度假，如果南洋料理吃膩了想換換口味，推薦這間日式炸牛排店「Gyukatsu Tenjin 天神」！🇯🇵✨<br>這次我們直接點了兩份大份的炸牛排套餐和一份大份的和牛套餐。<br>看看那個肉的鮮紅切面和酥脆外皮，配上專屬的小石板，感覺自己好像在東京炸牛排店一樣。<br>重點來了，三份大肉量套餐四個人吃下來，結帳折合台幣大概1565元，覺得還行！參考看看囉～（Gary哥不想上班 提供）]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>（水明漾店，烏布另有分店）</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value>來到峇里島度假，如果南洋料理吃膩了想換換口味，推薦這間日式炸牛排店「Gyukatsu Tenjin 天神」！🇯🇵✨
+這次我們直接點了兩份大份的炸牛排套餐和一份大份的和牛套餐。
+看看那個肉的鮮紅切面和酥脆外皮，配上專屬的小石板，感覺自己好像在東京炸牛排店一樣。
+重點來了，三份大肉量套餐四個人吃下來，結帳折合台幣大概1565元，覺得還行！參考看看囉～（Gary哥不想上班 提供）</value>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5Ny0NQWgb6ledD9Id-z5xgj4FL7hX84eUTjdVw-SXZjIOexRZrr1s5xyXaYR-OAg5UK3S7Zztrdct9kkKpwWskAzBrxVhYBtDYVWXK7dsDfI2oFjXT1pg_-ygL95FIFAsvYCAuhzRTp0t7MOLK0c_9m7qxfnJ8DJ1bMHNe9nScg7rsFyiRHlFtn40R2d2Tq0pIFN2aVFQNkjPC9aBoEO5ldP7OJAHxoz4-pi2XtBOG3ipVBKzBw3NjUeo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1596144,-8.6767799,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Where to play? 玩樂指南</name>
+      <Placemark>
+        <name>CrossFit Seminyak</name>
+        <description><![CDATA[說明: <br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1651015,-8.6896241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soham Wellness Center</name>
+        <description><![CDATA[說明: <br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1579764,-8.6766832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Daily Gym Bali</name>
+        <description><![CDATA[說明: <br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.154254,-8.676927,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Woo Bar Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6evyo5onqXGdhUjKZFvUnQi2b3wgUU7TlUekVFxnjyEGXZzsTQ4RhRHHoMCNhZpyzwSoY-sQzn0MgNWeGYmh-sOs6GSfrvHRMdbP4XdYr_IMvzrxKYF0B0kj9L-kT3NbJn8NWVbSuJmk1oya_ZGCoPYpBV9hn5Rrl3bC6KK3n8sdI6SsIkF7IpLYRF3FONnV-NJ5_40f34?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: W Hotel 在水明漾的濱海俱樂部酒吧。<br><br>入場免费的，最低消费 250,000 印尼盾<br>名称: Woobar<br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>W Hotel 在水明漾的濱海俱樂部酒吧。
+
+入場免费的，最低消费 250,000 印尼盾</value>
+          </Data>
+          <Data name="名称">
+            <value>Woobar</value>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6evyo5onqXGdhUjKZFvUnQi2b3wgUU7TlUekVFxnjyEGXZzsTQ4RhRHHoMCNhZpyzwSoY-sQzn0MgNWeGYmh-sOs6GSfrvHRMdbP4XdYr_IMvzrxKYF0B0kj9L-kT3NbJn8NWVbSuJmk1oya_ZGCoPYpBV9hn5Rrl3bC6KK3n8sdI6SsIkF7IpLYRF3FONnV-NJ5_40f34?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1491494,-8.6781331,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mari Beach Club Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X53KTsnTyK6fsiiH3khiNFBZLnt3zGqYZYEZgEGuU5u0I6BBqkGm34nLNMGL--AEuOI2bm0aG7OED3Fwf38J-fXMWUFBmT8lPckVNmUZUYWpRbVY3WUzRHBUpu5J9bCMKxboGobCNxzmqVlXvGPxdZih4EYOoKt6rQakOojGb4YfC7-SmnQOpG97y2qcSPABqXR6bnjhaFM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: 位在水明漾Batu Belig 海灘的Mari Beach Club把文化、創意、美食和音樂相結合，營造出與眾不同的氛圍！<br><br>值得特別一提的是他們有一個「沙灘游泳池」，感覺是不是很特別呢？這個地方入場也是免費的。<br><br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>位在水明漾Batu Belig 海灘的Mari Beach Club把文化、創意、美食和音樂相結合，營造出與眾不同的氛圍！
+
+值得特別一提的是他們有一個「沙灘游泳池」，感覺是不是很特別呢？這個地方入場也是免費的。
+</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X53KTsnTyK6fsiiH3khiNFBZLnt3zGqYZYEZgEGuU5u0I6BBqkGm34nLNMGL--AEuOI2bm0aG7OED3Fwf38J-fXMWUFBmT8lPckVNmUZUYWpRbVY3WUzRHBUpu5J9bCMKxboGobCNxzmqVlXvGPxdZih4EYOoKt6rQakOojGb4YfC7-SmnQOpG97y2qcSPABqXR6bnjhaFM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1462209,-8.6732392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mano Beach House</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Ntawh5SB4jS9keizmuo1Ghs_pN9CikZY9I7I76wu9HTr70mHub4b-Esr6MDSGyAtN8RfyTXV--VYSum3FSmuQQfO3TbJjSG71jrp4go1EIi-kkX9gOf4fMEsj89XPeFmOGlkk4CD3wKlV-EMLzS5BwgGhM_43eKURc-h4QmZ7Uld2BSbKYHIhz2-VCk-QX2lgWIu4NhM2?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: Mano Beach House 是Seminyak Petitenget 海灘上一個迷人的小海灘俱樂部。踏入這家海灘俱樂部幾乎就像把自己帶回到過去，回到一切都是用木頭和稻草做的日子。令人難以置信的可愛！泳池、沙灘、夕陽、音樂、飲料、美食、原始的氛圍，一切都是慢活的節奏！<br>Mano Beach House入場免費，低消為租用daybed Rp. 250,000（約台幣$500），最好先預約。<br><br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>Mano Beach House 是Seminyak Petitenget 海灘上一個迷人的小海灘俱樂部。踏入這家海灘俱樂部幾乎就像把自己帶回到過去，回到一切都是用木頭和稻草做的日子。令人難以置信的可愛！泳池、沙灘、夕陽、音樂、飲料、美食、原始的氛圍，一切都是慢活的節奏！
+Mano Beach House入場免費，低消為租用daybed Rp. 250,000（約台幣$500），最好先預約。
+</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Ntawh5SB4jS9keizmuo1Ghs_pN9CikZY9I7I76wu9HTr70mHub4b-Esr6MDSGyAtN8RfyTXV--VYSum3FSmuQQfO3TbJjSG71jrp4go1EIi-kkX9gOf4fMEsj89XPeFmOGlkk4CD3wKlV-EMLzS5BwgGhM_43eKURc-h4QmZ7Uld2BSbKYHIhz2-VCk-QX2lgWIu4NhM2?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1514832,-8.6818168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Potato Head Beach Club</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7iwV6RFuN4PBmIr3KNECKQU-vKmKysZnxUCn-kw143lhUxMCx4R8odn71Whk9crrKqGMRse_9jiLl4UqIViTuo10vDicDLIKz2h8xD3TR931y1DSNHQRbvnj3vLIbIbM_xNbYYbvEGRnkH7ScmUJqs1S5CE_ncedN18-cUsq4aAytqSK8kjx9g2qKXGTDe42MFYO13c36S7w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: <br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7iwV6RFuN4PBmIr3KNECKQU-vKmKysZnxUCn-kw143lhUxMCx4R8odn71Whk9crrKqGMRse_9jiLl4UqIViTuo10vDicDLIKz2h8xD3TR931y1DSNHQRbvnj3vLIbIbM_xNbYYbvEGRnkH7ScmUJqs1S5CE_ncedN18-cUsq4aAytqSK8kjx9g2qKXGTDe42MFYO13c36S7w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1499342,-8.6794353,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mrs Sippy Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4wWUszQV0xYLfpVMcnxJNVrPxWrzKf472VJc-Pv7fbZ2GJ72O98Tc-wBmYgSjARlOEydLgMVIwx4FJp8JSEsh4YBtGWcQku9_Y0U_KYs8XzCbSVKABXOcSWho_jCgfIrhuPAiuk2ksG6NvbOKqo6Az6GLLceED3RoczoTreN9qXH6VFnxbs3TzVh3uD0xR2oPxDnInu19UkTQ9cYB2wPq9m_mXMMAGUK6XQ75zyXimNjrsVNjjA4lndDs?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: 是水明漾一個受歡迎的海濱度假勝地。這個時尚的地方結合了泳池俱樂部、餐廳和娛樂場所，為遊客提供了一個兼具休閒和娛樂的完美場所。你可以在這裡享受陽光，放鬆於寬敞的泳池區域，品嚐美味的美食和飲品，並參與各種派對和活動。無論是白天還是夜晚，Mrs Sippy Bali 都是一個絕佳的去處，讓你沉浸在巴厘島的放鬆和歡樂氛圍中。<br>名称: <br>说明: <br><br><a href="https://www.youtube.com/watch?v=6CLaiuAloo8"><img src="https://img.youtube.com/vi/6CLaiuAloo8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/6CLaiuAloo8">https://www.youtube.com/embed/6CLaiuAloo8</a>]]></description>
+        <styleUrl>#icon-1899-0F9D58</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>是水明漾一個受歡迎的海濱度假勝地。這個時尚的地方結合了泳池俱樂部、餐廳和娛樂場所，為遊客提供了一個兼具休閒和娛樂的完美場所。你可以在這裡享受陽光，放鬆於寬敞的泳池區域，品嚐美味的美食和飲品，並參與各種派對和活動。無論是白天還是夜晚，Mrs Sippy Bali 都是一個絕佳的去處，讓你沉浸在巴厘島的放鬆和歡樂氛圍中。</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4wWUszQV0xYLfpVMcnxJNVrPxWrzKf472VJc-Pv7fbZ2GJ72O98Tc-wBmYgSjARlOEydLgMVIwx4FJp8JSEsh4YBtGWcQku9_Y0U_KYs8XzCbSVKABXOcSWho_jCgfIrhuPAiuk2ksG6NvbOKqo6Az6GLLceED3RoczoTreN9qXH6VFnxbs3TzVh3uD0xR2oPxDnInu19UkTQ9cYB2wPq9m_mXMMAGUK6XQ75zyXimNjrsVNjjA4lndDs?authuser=0&fife=s16383 https://www.youtube.com/embed/6CLaiuAloo8]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1512453,-8.679803,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SugarSand</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X74rb28heip1b7KjzGJWjjA5NeYpBOM3OwbVLe0YOOM-5NYGdmt4EHCpgB73me10m9UnucQgHotnhExVC7PET_PGw6xvfkj97xJE096el2WwRgwNyiPLj_KteoxWW-vYyFAcbJ39Jfa11E6Kd9E57ZUJiiozCeyxPrVHShs9SDjPiEAVwPP3ruO1Ww2dbX1XPGg5lxPzeUV?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: <br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X74rb28heip1b7KjzGJWjjA5NeYpBOM3OwbVLe0YOOM-5NYGdmt4EHCpgB73me10m9UnucQgHotnhExVC7PET_PGw6xvfkj97xJE096el2WwRgwNyiPLj_KteoxWW-vYyFAcbJ39Jfa11E6Kd9E57ZUJiiozCeyxPrVHShs9SDjPiEAVwPP3ruO1Ww2dbX1XPGg5lxPzeUV?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1604594,-8.6951718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KU DE TA</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5aCYtPJbb7Rvdy3XuGhAptyQ57PeGRXIBfVQRAGenLSeo9d_CqjyAcx3P-Q47EImAzoT-fRFdgCRY0wDdaIwNax1r0Z4TpmZBSKpdz6BeyWMfQ4TI2g0WcvUfgNSMa0boJ5xGXaOyJ5eshc3u2jP6uhwYN_n1M009qlsio2BeNyyZk0K9Q2VIKgm_opTld_FqzNnyi3rch?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: <br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5aCYtPJbb7Rvdy3XuGhAptyQ57PeGRXIBfVQRAGenLSeo9d_CqjyAcx3P-Q47EImAzoT-fRFdgCRY0wDdaIwNax1r0Z4TpmZBSKpdz6BeyWMfQ4TI2g0WcvUfgNSMa0boJ5xGXaOyJ5eshc3u2jP6uhwYN_n1M009qlsio2BeNyyZk0K9Q2VIKgm_opTld_FqzNnyi3rch?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1547502,-8.6871361,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Plancha Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5KFrzhDUu-Coj5mGBlk7HncmEFCdZeF0w0CadzcJDRddpMuNRdXJwc6ILkIAuy0eeG0TMJPqEF8wGtR-xfxARbYhklCAgC3URyCrpPlNdOgGjqqbWFCd9zHxUyweOcMft32FRxHOva1ZhDBDcGYENmg4yixd5vaxm4_JjHltFBytPtKyr1aC4Tz2K8n1tNAXzPgDFvoDW0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: <br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value/>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5KFrzhDUu-Coj5mGBlk7HncmEFCdZeF0w0CadzcJDRddpMuNRdXJwc6ILkIAuy0eeG0TMJPqEF8wGtR-xfxARbYhklCAgC3URyCrpPlNdOgGjqqbWFCd9zHxUyweOcMft32FRxHOva1ZhDBDcGYENmg4yixd5vaxm4_JjHltFBytPtKyr1aC4Tz2K8n1tNAXzPgDFvoDW0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1597708,-8.6945086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Flea Market</name>
+        <description><![CDATA[說明: 一個東西沒有特別便宜的散貨市場<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>一個東西沒有特別便宜的散貨市場</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1561829,-8.6859085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shooters Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7SL1J7aiv40eYvEjrvHXZ8f1xmFRYxiw7AisBCqpvHip3kM-5jZjcZ1B4h-KcjZffk-lI7rg-xk5TjtvR9q2MNhv4MYYkSmhitCWeMo-3RbgYWvg0SbnCDNjUR4MYaQD9EBmjSyGQfRGDoQf_UGMvoViXLtSJ7rHLj6gUZ9D8vXwGuHWBIlDSSF4fJMH8YbJFwshyprxBz?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: SHOOTERS BALI 是一個有趣的娛樂中心，在繁華的 Jalan Petitenget 路段與眾不同。 Shooters 有一個奇特的迷你高爾夫球場，其設計旨在創造微笑，還有用於練習籃球投擲的籃球架，以及更放鬆的草地滾球，Shooters 適合一家人一同玩樂。<br><br>迷你高爾夫每人只需30k，其他14場全部免費。 藍色、紅色和白色的裝飾完全是關於雜耍小巷和集市的樂趣。 搭配一些飲料和小吃，您將擁有一個令人興奮的場地和幾個小時的樂趣。 捲起袖子來，是時候享受一些當個射手的樂趣了！<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>SHOOTERS BALI 是一個有趣的娛樂中心，在繁華的 Jalan Petitenget 路段與眾不同。 Shooters 有一個奇特的迷你高爾夫球場，其設計旨在創造微笑，還有用於練習籃球投擲的籃球架，以及更放鬆的草地滾球，Shooters 適合一家人一同玩樂。
+
+迷你高爾夫每人只需30k，其他14場全部免費。 藍色、紅色和白色的裝飾完全是關於雜耍小巷和集市的樂趣。 搭配一些飲料和小吃，您將擁有一個令人興奮的場地和幾個小時的樂趣。 捲起袖子來，是時候享受一些當個射手的樂趣了！</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7SL1J7aiv40eYvEjrvHXZ8f1xmFRYxiw7AisBCqpvHip3kM-5jZjcZ1B4h-KcjZffk-lI7rg-xk5TjtvR9q2MNhv4MYYkSmhitCWeMo-3RbgYWvg0SbnCDNjUR4MYaQD9EBmjSyGQfRGDoQf_UGMvoViXLtSJ7rHLj6gUZ9D8vXwGuHWBIlDSSF4fJMH8YbJFwshyprxBz?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1571426,-8.6742973,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seminyak Village</name>
+        <description><![CDATA[說明: shoppingmall<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>shoppingmall</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1570232,-8.6832837,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trans Studio Bali Theme Park</name>
+        <description><![CDATA[說明: 超好玩的室內遊樂場。請看小傑介紹：https://youtube.com/shorts/POSTtRPKK5c<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>超好玩的室內遊樂場。請看小傑介紹：https://youtube.com/shorts/POSTtRPKK5c</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1847671,-8.7025328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ESTE CAFE AND RESTO</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5OfJbwHw5gUAUO2Vx9gPlxy64MIAkH6XvE8PLf5yJYeaPKO6qyyjkl2FySdim95hdics0VFKkFFSKff_UuNwp2wXATYWWfRknz9IDEapvm5q-L8KrYJyktQPGMI95XuHGTO9q11FAP4Dkg0od6acXnVD0n6AaP4KVKYGG-VqoN5afn0fbEsbI8z-d-it8WrQLOxTT7gMo8gWj2__xONsg5S_lcuu4cVd4Fvxekr29o7AkJ_NjU62l24vQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>說明: Este Cafe and Resto是一家坐落在巴厘島水明漾的摩洛哥和馬拉喀什風格的休閒場所！<br>Este Cafe 和 Resto 擴展了 3 個區域，分別是餐廳、精品店和 Instagram 拍照點<br>享受美妙的後院，每個角落都有值得分享的裝飾，並拍攝許多美麗的照片！<br>在 Este Cafe 和 Resto 提升您在巴厘島的假期，並與您所愛的人一起享受樂趣！<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value>Este Cafe and Resto是一家坐落在巴厘島水明漾的摩洛哥和馬拉喀什風格的休閒場所！
+Este Cafe 和 Resto 擴展了 3 個區域，分別是餐廳、精品店和 Instagram 拍照點
+享受美妙的後院，每個角落都有值得分享的裝飾，並拍攝許多美麗的照片！
+在 Este Cafe 和 Resto 提升您在巴厘島的假期，並與您所愛的人一起享受樂趣！</value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5OfJbwHw5gUAUO2Vx9gPlxy64MIAkH6XvE8PLf5yJYeaPKO6qyyjkl2FySdim95hdics0VFKkFFSKff_UuNwp2wXATYWWfRknz9IDEapvm5q-L8KrYJyktQPGMI95XuHGTO9q11FAP4Dkg0od6acXnVD0n6AaP4KVKYGG-VqoN5afn0fbEsbI8z-d-it8WrQLOxTT7gMo8gWj2__xONsg5S_lcuu4cVd4Fvxekr29o7AkJ_NjU62l24vQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1615604,-8.6691792,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azul Beach Club Bali</name>
+        <description><![CDATA[說明: 請看網誌的介紹&優惠項目：https://vocus.cc/article/65472977fd89780001cf3ce6<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value><![CDATA[請看網誌的介紹&優惠項目：https://vocus.cc/article/65472977fd89780001cf3ce6]]></value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1664586,-8.7072715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mookiland Park Bali</name>
+        <description><![CDATA[說明: 請看網誌的介紹&優惠項目：https://gobaligo.id/go/seminyak-guide<br>名称: <br>说明: ]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="說明">
+            <value><![CDATA[請看網誌的介紹&優惠項目：https://gobaligo.id/go/seminyak-guide]]></value>
+          </Data>
+          <Data name="名称">
+            <value/>
+          </Data>
+          <Data name="说明">
+            <value/>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1722327,-8.6653768,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>SPA Guide 水療指南</name>
+      <Placemark>
+        <name>Icon Spa</name>
+        <description>這裡有優惠：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1693443,-8.6863282,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prana Spa</name>
+        <description><![CDATA[享受中東國王/皇后般尊榮<br>這裡有優惠：https://gobaligo.id/go/spa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1703933,-8.6887857,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Melah Spa</name>
+        <description>這裡有優惠：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1556593,-8.6765439,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LLuvia Spa</name>
+        <description>請看這裡的介紹：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1749402,-8.6945944,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Spa at Peppers Seminyak</name>
+        <description>這裡有優惠：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1562732,-8.6802075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Away Spa, W Bali - Seminyak</name>
+        <description>這裡有優惠：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1488372,-8.6773236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sava Spa Hotel Indigo Seminyak</name>
+        <description><![CDATA[水明漾值得推薦的spa<br>這裡有優惠：https://gobaligo.id/go/spa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.152882,-8.679392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bodyworks Spa</name>
+        <description>這裡有優惠：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.157191,-8.6763214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Cooking Class烹飪課程</name>
+      <Placemark>
+        <name>Nia Bali Cooking Class Seminyak</name>
+        <description><![CDATA[請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1565393,-8.6861417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kin Vegan Cooking Class</name>
+        <description><![CDATA[請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1565515,-8.6860492,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Laneway Restaurant & Bar]]></name>
+        <description><![CDATA[請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1569017,-8.6802732,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starbucks Reserve Dewata</name>
+        <description><![CDATA[咖啡大師課程<br>請看網誌的介紹&點擊獲取優惠：https://gobaligo.id/go/seminyak-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1732347,-8.6916485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>夜店狂歡</name>
+      <Placemark>
+        <name>La Favela</name>
+        <description>詳細介紹請看這裡：https://gobaligo.id/go/seminyak-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.162887,-8.6838646,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Motel Mexicola</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5Z-iUm5DoSD37INhaO6JNkNgWKwc4LAdXhFB17TXM32n9HUMEETJ6WIPyK96SFqwFh7GAN5vyxvjRiM5L2Rxe2OIlPOrNvP55YixG4lcSnI9oMzkhcfJuls1QpEnmW6Y1BZQjCgOYtbiv8BgSCIx-CsRXqq3KeDtV3lbKWW6_B4rrvgtG-FUJgJSnYrf-yBkH1HRb179uddT7fDkTFwtT4GQGzVNtdqHoW4PvYNQZdfyJxY-iqL7RNv54?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/seminyak-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5Z-iUm5DoSD37INhaO6JNkNgWKwc4LAdXhFB17TXM32n9HUMEETJ6WIPyK96SFqwFh7GAN5vyxvjRiM5L2Rxe2OIlPOrNvP55YixG4lcSnI9oMzkhcfJuls1QpEnmW6Y1BZQjCgOYtbiv8BgSCIx-CsRXqq3KeDtV3lbKWW6_B4rrvgtG-FUJgJSnYrf-yBkH1HRb179uddT7fDkTFwtT4GQGzVNtdqHoW4PvYNQZdfyJxY-iqL7RNv54?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1538719,-8.6822338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BaliJoe Bar</name>
+        <description>詳細介紹請看這裡：https://gobaligo.id/go/seminyak-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1649186,-8.6913006,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FINNS Beach Club</name>
+        <description>詳細介紹請看這裡：https://gobaligo.id/go/seminyak-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1393984,-8.6667652,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Ruby</name>
+        <description>詳細介紹請看這裡：https://gobaligo.id/go/seminyak-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1536502,-8.6780777,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>水明漾濱海住宿</name>
+      <Placemark>
+        <name>峇里島水明漾W酒店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5cvAq9NPTGb6gpIMtbkgiY6o9rjevs0Qly6BoHsebRqFVeYG5jSCj4XIhCAQCEnSNmq-xZVjWwjIKO3pNS5IPLogK5sowWR2nEFdluFjlohZOeeFsluycEaQInadUREt0K6cw9MnM9tvaAGHUYX0veKyYg5kJx815wEcq9EZV_cD3mWz01JExmKzI9seL7OkOCvYFf5JxII2b0exsss7ugExUJ-7VotNodnkDeGepE3U9G62QqTKsRWLk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5cvAq9NPTGb6gpIMtbkgiY6o9rjevs0Qly6BoHsebRqFVeYG5jSCj4XIhCAQCEnSNmq-xZVjWwjIKO3pNS5IPLogK5sowWR2nEFdluFjlohZOeeFsluycEaQInadUREt0K6cw9MnM9tvaAGHUYX0veKyYg5kJx815wEcq9EZV_cD3mWz01JExmKzI9seL7OkOCvYFf5JxII2b0exsss7ugExUJ-7VotNodnkDeGepE3U9G62QqTKsRWLk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1491632,-8.6772946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島水明漾海灘英迪格酒店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7mB-3cQf78q0_bI3ah-SwfxopxnOaD3VwH2NU-Lfk0WgyPO5T-HavB2hCeqRdVY_2jgKelPQ2pgdvix6E4UjrpQApEQZgPDV0CrL-kvvAbzvvZTke5ruu5LAi-9soI8XPz6cSKJ6mvBZw0i-Die8WnGkxdMNtXMaSg5EXJqyjOzMqUZCdQEoMAFIGAhl5dFyDeyox9GT9N6R994ld7rjwv4tzwHWqAmosR_6QmCn-gPaNqlz1Jxr7CjQo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7mB-3cQf78q0_bI3ah-SwfxopxnOaD3VwH2NU-Lfk0WgyPO5T-HavB2hCeqRdVY_2jgKelPQ2pgdvix6E4UjrpQApEQZgPDV0CrL-kvvAbzvvZTke5ruu5LAi-9soI8XPz6cSKJ6mvBZw0i-Die8WnGkxdMNtXMaSg5EXJqyjOzMqUZCdQEoMAFIGAhl5dFyDeyox9GT9N6R994ld7rjwv4tzwHWqAmosR_6QmCn-gPaNqlz1Jxr7CjQo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.162367,-8.695094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Legian Seminyak, Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7UkQl_Pnjamn-BHXiLLWfcisul8F1OfxclDmDgTqJZNoikCnWRnOi69PrUhEixLJiGkd0ibUKp3aYktPypoiRbD7aekHcueTFPMgqj9HpFtSYe2dh_EEiIRv2LZG284tj11Cndl8g1lN8VHCKcXvAfzkedcMWI1qz8cp-rZHuHOEUpoG_yo0EMCHTuSDk2ByKMjLkte3XMjBMTq388Huqr6b_9lQPp_6Y5-2orE_t5yEE2Y5a4EXAQxbY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7UkQl_Pnjamn-BHXiLLWfcisul8F1OfxclDmDgTqJZNoikCnWRnOi69PrUhEixLJiGkd0ibUKp3aYktPypoiRbD7aekHcueTFPMgqj9HpFtSYe2dh_EEiIRv2LZG284tj11Cndl8g1lN8VHCKcXvAfzkedcMWI1qz8cp-rZHuHOEUpoG_yo0EMCHTuSDk2ByKMjLkte3XMjBMTq388Huqr6b_9lQPp_6Y5-2orE_t5yEE2Y5a4EXAQxbY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.153314,-8.6844988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Oberoi Beach Resort, Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6_BTn6NuzmgYjLYb8-jDadYt0UbMLal9rKYMBrn5lCx8xfV0Yu0s8165YtBd9sts9wA9vcu2YD8mOuiyMBPay9_dlS70NzfCBfmLN8rU32DiNn8t99_ry0PnklOQCtrooICUQ6q6ZBLrqGAOHXel_WMZpJo0arBJWk8Z6GZGJ88cRm9-Bj2J2O9EyDgM4B7jhHDdrtgatLHHXW-JEnk4p_gHPbktg321GRZVEZ-H1DdJM-ry2u-xbZ488?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6_BTn6NuzmgYjLYb8-jDadYt0UbMLal9rKYMBrn5lCx8xfV0Yu0s8165YtBd9sts9wA9vcu2YD8mOuiyMBPay9_dlS70NzfCBfmLN8rU32DiNn8t99_ry0PnklOQCtrooICUQ6q6ZBLrqGAOHXel_WMZpJo0arBJWk8Z6GZGJ88cRm9-Bj2J2O9EyDgM4B7jhHDdrtgatLHHXW-JEnk4p_gHPbktg321GRZVEZ-H1DdJM-ry2u-xbZ488?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1559562,-8.6881811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alila Seminyak</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X505ZYLY7xgD3Bc7k2zgRWoc5cixYVCrv4EuceR51iWMXde68jvuJvmKnhFCcSamo_4SlM7UGUm78J1IrU_lZS24WUKZ0MN6qpfuyI1hRDcKQjvzkP135_ZT-1NdbWi-tnvn9wdV9yT20VP7ITqrJ9Lh6jqoBGrusPp69oH77n-rEoHgk9nuMIFG_mICWhZKDixe6917bBGRXEz_7BmFs9NZ1vChu2Sb5GBYxk7Y8e-nKbj9XKTqE5qPfQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X505ZYLY7xgD3Bc7k2zgRWoc5cixYVCrv4EuceR51iWMXde68jvuJvmKnhFCcSamo_4SlM7UGUm78J1IrU_lZS24WUKZ0MN6qpfuyI1hRDcKQjvzkP135_ZT-1NdbWi-tnvn9wdV9yT20VP7ITqrJ9Lh6jqoBGrusPp69oH77n-rEoHgk9nuMIFG_mICWhZKDixe6917bBGRXEz_7BmFs9NZ1vChu2Sb5GBYxk7Y8e-nKbj9XKTqE5qPfQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.150905,-8.680121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Potato Head Suites & Studios]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4x_r2mdRC-pKqVU8aH41nUIm0FZ7mShUGnG3K4BgU2dLqNbrM5Had7PdP0z4guZLJ0eZdzCK7ZQcl_GAG5846d5AWe7b3guiBDsTs1NLV8jT_z9IAOiH-Hx2ZYk7pib5t_ht_oabQSJoxNasIH6zLJ-bzenIwpTcJTszyrokoKNThiTQthlWutw-VhIlFn6m8___TmF57yCnVp9cPESi6SoT9bHtta-Gopj_9yPkL4GHFPV5COREch0tM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4x_r2mdRC-pKqVU8aH41nUIm0FZ7mShUGnG3K4BgU2dLqNbrM5Had7PdP0z4guZLJ0eZdzCK7ZQcl_GAG5846d5AWe7b3guiBDsTs1NLV8jT_z9IAOiH-Hx2ZYk7pib5t_ht_oabQSJoxNasIH6zLJ-bzenIwpTcJTszyrokoKNThiTQthlWutw-VhIlFn6m8___TmF57yCnVp9cPESi6SoT9bHtta-Gopj_9yPkL4GHFPV5COREch0tM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1505633,-8.6790786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Double Six Luxury Hotel</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X49IYqWARlyb3kDx0zlZhsm_tR3alK6HdSigCjmPnte_KKpBTqS19vFHNAX-HPWWiTyT9qm_gi61RDA4tjyniozl1oZp61wCaWjkP0v8Tm8Y1I6nx3Z0JGeDJXLjkTQhOKwSkoSwQejW6vsQzsLun7QlIsmUbOSgqOpLWU437ZhH1qyOlPSp6BMh7_K_uGPq8-nqhe-RmMqzWcqZeWpe4nRYZjr95-cQchCW7MtuGbKXbatglxofwOjoIQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X49IYqWARlyb3kDx0zlZhsm_tR3alK6HdSigCjmPnte_KKpBTqS19vFHNAX-HPWWiTyT9qm_gi61RDA4tjyniozl1oZp61wCaWjkP0v8Tm8Y1I6nx3Z0JGeDJXLjkTQhOKwSkoSwQejW6vsQzsLun7QlIsmUbOSgqOpLWU437ZhH1qyOlPSp6BMh7_K_uGPq8-nqhe-RmMqzWcqZeWpe4nRYZjr95-cQchCW7MtuGbKXbatglxofwOjoIQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.161405,-8.6964476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Samaya Seminyak Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5JF8PIvhJd3QgGZuyfrrUt-iRoeHiQkbvpEfMokSNR2MaShSIcnLUbNjJmw5uvnMdpLNm2NF1cyGQ_Zd6PiRhlxRxj9Gttk3mJUocAYdQD2gs7TH6osgyBkgZ_8ywzjzmDsAmdLMogERCHWqg2sBVRfn2lRxHifUXDHq-3NOETbUTk8ddwiPs0feix-DNwsXWsPzfAsIiUgMW1MeVU3aE6cZPoHFTqguxHXQG1BBE6-pN5kr1BqwLHxtM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5JF8PIvhJd3QgGZuyfrrUt-iRoeHiQkbvpEfMokSNR2MaShSIcnLUbNjJmw5uvnMdpLNm2NF1cyGQ_Zd6PiRhlxRxj9Gttk3mJUocAYdQD2gs7TH6osgyBkgZ_8ywzjzmDsAmdLMogERCHWqg2sBVRfn2lRxHifUXDHq-3NOETbUTk8ddwiPs0feix-DNwsXWsPzfAsIiUgMW1MeVU3aE6cZPoHFTqguxHXQG1BBE6-pN5kr1BqwLHxtM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1528888,-8.6831666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FuramaXclusive Ocean Beach Seminyak</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5nHcNokVLlN69AIvg-6LMaIlq_W6q57PgzxwzRxPbKdFJIn_WZOuuh5vWfhqmyrNhIrMteeyA9smQu6PZR3yGlNSGKSoMLQNdMwatL2E3Kh-6HvPQI87UYmxCtNuzVw3fra55UzUVezJ5KqUkBtch-2PZdWETOtA0G7CgVgs6McCinZXMpAvfIo0xcZ-AWAOkWAr17r4XF4gKUnDA8rGE3Vc5CmGGQtdy6HENBur8sZdlcRNkMMkHh5TY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5nHcNokVLlN69AIvg-6LMaIlq_W6q57PgzxwzRxPbKdFJIn_WZOuuh5vWfhqmyrNhIrMteeyA9smQu6PZR3yGlNSGKSoMLQNdMwatL2E3Kh-6HvPQI87UYmxCtNuzVw3fra55UzUVezJ5KqUkBtch-2PZdWETOtA0G7CgVgs6McCinZXMpAvfIo0xcZ-AWAOkWAr17r4XF4gKUnDA8rGE3Vc5CmGGQtdy6HENBur8sZdlcRNkMMkHh5TY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1623429,-8.6982977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>水明漾villa推薦</name>
+      <Placemark>
+        <name>The Buah Bali Villas</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1526598,-8.6784731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Maya Seminyak Villas</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1595127,-8.6838188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cyrus Villa Seminyak by iNi Vie Hospitality</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1747202,-8.6765841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mayaloka Villas Seminyak, Seminyak</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1535771,-8.674819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Javana Royal Villas</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1586569,-8.6733742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Suites Infinity Beyond - Villa with Private Pool</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.157219,-8.6813603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Claremont Luxury Villas</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.162778,-8.6808566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Berry Amour Romantic Villas</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.157225,-8.671744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Mia Seminyak - Boutique Villas - I</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1595752,-8.6899064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Mia Seminyak - Boutique Villas - II</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1596427,-8.6893551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eden The Residence at the Sea Seminyak</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1459653,-8.6727737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gajah Villas</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1621984,-8.688478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Chocolat 1</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1587952,-8.6862983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Chocolat 2</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1600245,-8.6863144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Wahah</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1601647,-8.6827774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Daluman Villa Seminyak</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1716847,-8.696948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O Villas Seminyak – 2026 Earlybirds ON SALE!</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1580901,-8.6779008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INSPIRA Seminyak</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1630789,-8.6820298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peppers Seminyak</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1544226,-8.6812696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dusun The Villas</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            110.4329704,-7.2391418,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Tukad Villa</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1790373,-8.6947196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ziva a Boutique Villa</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1610867,-8.681569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pradha Villas Seminyak</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1551905,-8.6820604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>住在美食街上</name>
+      <Placemark>
+        <name>Cross Paasha Bali Seminyak</name>
+        <description>下樓就是美食逛街最熱鬧的街區：https://gobaligo.id/blog/cross-paasha-bali-seminyak/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1593342,-8.6842669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seminyak Square Hotel</name>
+        <description>下樓就是美食逛街最熱鬧的街區：https://gobaligo.id/blog/seminyak-square-hotel-and-villas/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1567312,-8.6836824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IZE Seminyak by LifestyleRetreats</name>
+        <description>下樓就是美食逛街最熱鬧的街區：https://gobaligo.id/blog/ize-seminyak-review/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1605229,-8.6846054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Maya Seminyak Villas</name>
+        <description>鬧區中的villa秘境：https://gobaligo.id/blog/the-maya-seminyak/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1595127,-8.6838188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>eqUILIBRIA SEMINYAK</name>
+        <description>鬧區中的villa秘境：https://gobaligo.id/blog/equilibria-seminyak/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1628907,-8.6827081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Club Villas Seminyak</name>
+        <description>鬧區中的villa秘境：https://gobaligo.id/blog/the-club-villas-seminyak/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1596795,-8.6846099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RC Villas</name>
+        <description>鬧區中的villa秘境：https://gobaligo.id/blog/rc-villas-seminyak/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1568016,-8.6853209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

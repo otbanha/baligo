@@ -1,0 +1,749 @@
+---
+import type { MapArea } from '../data/maps';
+interface Props { area: MapArea; }
+const { area } = Astro.props;
+---
+
+<div id="map-container">
+  <div id="map"></div>
+  <div id="map-loading">
+    <div class="spinner"></div>
+    <p>載入地圖中…</p>
+  </div>
+  <div id="nearby-bar" class="hidden">
+    <span id="nearby-label">附近景點</span>
+    <div id="radius-pills">
+      <button class="radius-pill active" data-km="1">1km</button>
+      <button class="radius-pill" data-km="2">2km</button>
+      <button class="radius-pill" data-km="3">3km</button>
+    </div>
+    <button id="nearby-close">✕</button>
+  </div>
+  <div id="cat-bar" class="hidden">
+    <div id="cat-pills"></div>
+  </div>
+</div>
+
+<link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
+
+<style>
+  #map-container {
+    position: relative;
+    width: 100%;
+    height: calc(100dvh - 56px - 52px);
+  }
+
+  #map { width: 100%; height: 100%; }
+
+  #map-loading {
+    position: absolute;
+    inset: 0;
+    background: #f0ede8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
+    z-index: 2;
+    transition: opacity 0.3s;
+  }
+  [data-dark] #map-loading { background: #1a1f1a; }
+  #map-loading.hidden { opacity: 0; pointer-events: none; }
+
+  .spinner {
+    width: 36px; height: 36px;
+    border: 3px solid #ddd;
+    border-top-color: #2d8653;
+    border-radius: 50%;
+    animation: spin 0.8s linear infinite;
+  }
+  #map-loading p { font-size: 14px; color: #888; }
+  @keyframes spin { to { transform: rotate(360deg); } }
+
+  /* MapLibre popup overrides */
+  :global(.maplibregl-popup-content) {
+    padding: 0 !important;
+    border-radius: 14px !important;
+    overflow: hidden;
+    box-shadow: 0 4px 20px rgba(0,0,0,0.18) !important;
+    min-width: 260px;
+  }
+  [data-dark] :global(.maplibregl-popup-content) {
+    background: #242424 !important;
+  }
+  [data-dark] :global(.maplibregl-popup-tip) {
+    border-top-color: #242424 !important;
+  }
+  :global(.maplibregl-popup-close-button) {
+    font-size: 18px !important;
+    color: #aaa !important;
+    top: 6px !important;
+    right: 8px !important;
+    line-height: 1 !important;
+    background: transparent !important;
+    z-index: 10;
+  }
+
+  /* Popup content */
+  :global(.popup-thumb) {
+    width: 100%; height: 140px;
+    background-color: #ddd;
+    background-size: 256px 256px;
+    background-repeat: no-repeat;
+    position: relative;
+    overflow: hidden;
+  }
+  :global(.popup-thumb img) { width: 100%; height: 100%; object-fit: cover; display: block; }
+  :global(.popup-thumb-dot) {
+    position: absolute; top: 50%; left: 50%;
+    transform: translate(-50%, -50%);
+    width: 12px; height: 12px;
+    background: #e33;
+    border: 2.5px solid #fff;
+    border-radius: 50%;
+    box-shadow: 0 1px 5px rgba(0,0,0,0.4);
+  }
+
+  :global(.map-popup) { padding: 12px 14px 14px; }
+
+  :global(.cat-badge) {
+    display: inline-block;
+    color: #fff;
+    font-size: 10px;
+    font-weight: 600;
+    border-radius: 8px;
+    padding: 2px 7px;
+    margin-bottom: 6px;
+  }
+
+  :global(.map-popup h3) {
+    font-size: 15px; font-weight: 700;
+    color: #1a1a1a; margin-bottom: 4px; line-height: 1.3;
+  }
+  [data-dark] :global(.map-popup h3) { color: #f0f0f0; }
+
+  :global(.map-popup p) {
+    font-size: 12px; color: #666; line-height: 1.5; margin-bottom: 10px;
+  }
+  [data-dark] :global(.map-popup p) { color: #aaa; }
+
+  :global(.nav-btn) {
+    display: block; background: #1a73e8; color: #fff !important;
+    text-align: center; border-radius: 10px; padding: 9px 14px;
+    font-size: 13px; font-weight: 700; text-decoration: none; margin-bottom: 8px;
+  }
+
+  :global(.share-row) { display: flex; gap: 6px; margin-bottom: 10px; }
+  :global(.share-btn) {
+    flex: 1; display: block; text-align: center;
+    border-radius: 10px; padding: 7px 8px;
+    font-size: 11px; font-weight: 700; text-decoration: none;
+  }
+  :global(.share-wa) { background: #25d366; color: #fff !important; }
+  :global(.share-line) { background: #06c755; color: #fff !important; }
+
+  :global(.popup-footer) {
+    display: flex; align-items: center;
+    justify-content: space-between; gap: 8px;
+  }
+  :global(.gmaps-link) {
+    font-size: 12px; color: #2d8653; font-weight: 600; text-decoration: none;
+  }
+  [data-dark] :global(.gmaps-link) { color: #4caf8a; }
+  :global(.popup-action-btns) { display: flex; gap: 6px; }
+  :global(.fav-btn), :global(.itin-btn) {
+    background: none; border: none;
+    font-size: 20px; cursor: pointer; padding: 0; line-height: 1;
+    -webkit-tap-highlight-color: transparent;
+    transition: transform 0.15s;
+  }
+  :global(.fav-btn:active), :global(.itin-btn:active) { transform: scale(1.3); }
+
+  /* Nearby bar */
+  #nearby-bar {
+    position: absolute; top: 12px; left: 50%; transform: translateX(-50%);
+    background: #fff; border-radius: 24px; padding: 8px 14px;
+    display: flex; align-items: center; gap: 10px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+    z-index: 500; white-space: nowrap;
+  }
+  [data-dark] #nearby-bar { background: #2a2a2a; box-shadow: 0 2px 12px rgba(0,0,0,0.5); }
+  #nearby-bar.hidden { display: none; }
+  #nearby-label { font-size: 13px; font-weight: 600; color: #1a1a1a; }
+  [data-dark] #nearby-label { color: #f0f0f0; }
+  #radius-pills { display: flex; gap: 4px; }
+  .radius-pill {
+    background: #f0f0f0; border: none; border-radius: 12px;
+    padding: 4px 10px; font-size: 12px; font-weight: 600;
+    cursor: pointer; color: #555; font-family: inherit;
+    -webkit-tap-highlight-color: transparent; transition: background 0.15s;
+  }
+  [data-dark] .radius-pill { background: #3a3a3a; color: #ccc; }
+  .radius-pill.active { background: #2d8653; color: #fff; }
+  #nearby-close {
+    background: none; border: none; font-size: 14px; color: #aaa;
+    cursor: pointer; padding: 0 2px; -webkit-tap-highlight-color: transparent;
+  }
+
+  /* Category bar */
+  #cat-bar {
+    position: absolute; bottom: 60px; left: 0; right: 0;
+    z-index: 500; pointer-events: none;
+  }
+  #cat-bar.hidden { display: none; }
+  #cat-pills {
+    display: flex; gap: 6px; padding: 0 12px;
+    overflow-x: auto; -webkit-overflow-scrolling: touch;
+    scrollbar-width: none; pointer-events: all;
+  }
+  #cat-pills::-webkit-scrollbar { display: none; }
+  :global(.cat-pill) {
+    display: flex; align-items: center; gap: 4px;
+    background: #fff; border: 1.5px solid #e8e8e8;
+    border-radius: 20px; padding: 6px 12px;
+    font-size: 12px; font-weight: 600; color: #555;
+    white-space: nowrap; cursor: pointer;
+    box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+    font-family: inherit; -webkit-tap-highlight-color: transparent;
+    transition: all 0.15s; flex-shrink: 0;
+  }
+  [data-dark] :global(.cat-pill) {
+    background: #2a2a2a; border-color: #3a3a3a; color: #ccc;
+  }
+  :global(.cat-pill.active) { background: #1a1a1a; border-color: #1a1a1a; color: #fff; }
+  [data-dark] :global(.cat-pill.active) { background: #2d8653; border-color: #2d8653; }
+
+  /* MapLibre control dark overrides */
+  [data-dark] :global(.maplibregl-ctrl-group) {
+    background: #2a2a2a !important;
+    box-shadow: 0 0 0 1px #3a3a3a !important;
+  }
+  [data-dark] :global(.maplibregl-ctrl button) {
+    background-color: #2a2a2a !important;
+  }
+  [data-dark] :global(.maplibregl-ctrl button span) {
+    filter: invert(1);
+  }
+</style>
+
+<script define:vars={{ area }}>
+  async function initMap() {
+    // Load MapLibre GL UMD
+    if (!window.maplibregl) {
+      await new Promise((res, rej) => {
+        const s = document.createElement('script');
+        s.src = 'https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.js';
+        s.onload = res; s.onerror = rej;
+        document.head.appendChild(s);
+      });
+    }
+    const mgl = window.maplibregl;
+
+    const STYLE_LIGHT = 'https://tiles.openfreemap.org/styles/liberty';
+    const STYLE_DARK = 'https://basemaps.cartocdn.com/gl/dark-matter-gl-style/style.json';
+    const isDark = () => document.documentElement.hasAttribute('data-dark');
+
+    const map = new mgl.Map({
+      container: 'map',
+      style: isDark() ? STYLE_DARK : STYLE_LIGHT,
+      center: [area.center[1], area.center[0]], // MapLibre: [lng, lat]
+      zoom: area.zoom,
+      attributionControl: { compact: true },
+    });
+
+    map.addControl(new mgl.NavigationControl({ showCompass: false }), 'bottom-right');
+
+    const geolocate = new mgl.GeolocateControl({
+      positionOptions: { enableHighAccuracy: true },
+      trackUserLocation: true,
+      showUserHeading: false,
+      showAccuracyCircle: true,
+    });
+    map.addControl(geolocate, 'bottom-right');
+
+    // ─── State ────────────────────────────────────────────────
+    let allFeatures = [];
+    let categories = [];
+    let activeCat = '全部';
+    let nearbyActive = false;
+    let nearbyRadius = 1;
+    let userLat = null, userLng = null;
+    let eventsSetup = false;
+    let kmlParsed = false;
+
+    // ─── Helpers ──────────────────────────────────────────────
+    function haversine(lat1, lng1, lat2, lng2) {
+      const R = 6371, dLat = (lat2-lat1)*Math.PI/180, dLng = (lng2-lng1)*Math.PI/180;
+      const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180)*Math.cos(lat2*Math.PI/180)*Math.sin(dLng/2)**2;
+      return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+    }
+
+    function getFilteredFeatures() {
+      return allFeatures.filter(f => {
+        const { category, lat, lng } = f.properties;
+        const catOk = activeCat === '全部' || category === activeCat;
+        const nearbyOk = !nearbyActive || userLat === null || haversine(userLat, userLng, lat, lng) <= nearbyRadius;
+        return catOk && nearbyOk;
+      });
+    }
+
+    function refreshData() {
+      if (map.getSource('places')) {
+        map.getSource('places').setData({ type: 'FeatureCollection', features: getFilteredFeatures() });
+      }
+    }
+
+    function createEmojiIcon(emoji, color, size = 40) {
+      const c = document.createElement('canvas');
+      c.width = c.height = size;
+      const ctx = c.getContext('2d');
+      ctx.shadowColor = 'rgba(0,0,0,0.3)';
+      ctx.shadowBlur = 4;
+      ctx.shadowOffsetY = 1.5;
+      ctx.beginPath();
+      ctx.arc(size/2, size/2, size/2 - 3, 0, Math.PI*2);
+      ctx.fillStyle = color;
+      ctx.fill();
+      ctx.shadowColor = 'transparent';
+      ctx.strokeStyle = '#fff';
+      ctx.lineWidth = 2.5;
+      ctx.stroke();
+      ctx.font = `${Math.floor(size*0.43)}px serif`;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText(emoji, size/2, size/2 + 0.5);
+      const d = ctx.getImageData(0, 0, size, size);
+      return { width: size, height: size, data: d.data };
+    }
+
+    function getCatStyle(name) {
+      const s = name.toLowerCase();
+      if (s.includes('美食') || s.includes('eating') || s.includes('餐廳') || s.includes('food'))
+        return { emoji: '🍽️', color: '#e67e22' };
+      if (s.includes('咖啡') || s.includes('cafe') || s.includes('coffee'))
+        return { emoji: '☕', color: '#795548' };
+      if (s.includes('住宿') || s.includes('hotel') || s.includes('villa') || s.includes('resort'))
+        return { emoji: '🏨', color: '#3498db' };
+      if (s.includes('購物') || s.includes('shopping') || s.includes('血拼'))
+        return { emoji: '🛍️', color: '#9b59b6' };
+      if (s.includes('spa') || s.includes('水療') || s.includes('按摩'))
+        return { emoji: '💆', color: '#1abc9c' };
+      if (s.includes('夜店') || s.includes('bar') || s.includes('nightlife') || s.includes('酒吧'))
+        return { emoji: '🍸', color: '#e91e63' };
+      if (s.includes('瀑布') || s.includes('waterfall'))
+        return { emoji: '💧', color: '#00bcd4' };
+      if (s.includes('親子') || s.includes('family') || s.includes('kids'))
+        return { emoji: '👨‍👩‍👧', color: '#ff9800' };
+      if (s.includes('烹飪') || s.includes('cooking'))
+        return { emoji: '👨‍🍳', color: '#607d8b' };
+      if (s.includes('衝浪') || s.includes('surf'))
+        return { emoji: '🏄', color: '#00bcd4' };
+      if (s.includes('潛水') || s.includes('dive') || s.includes('snorkel'))
+        return { emoji: '🤿', color: '#0288d1' };
+      if (s.includes('活動') || s.includes('activities') || s.includes('必訪'))
+        return { emoji: '🎯', color: '#e74c3c' };
+      if (s.includes('景點') || s.includes('sight') || s.includes('temple'))
+        return { emoji: '🏛️', color: '#2d8653' };
+      if (s.includes('秋千') || s.includes('swing'))
+        return { emoji: '🎪', color: '#ff5722' };
+      if (s.includes('步道') || s.includes('trail') || s.includes('trek'))
+        return { emoji: '🥾', color: '#8bc34a' };
+      return { emoji: '📍', color: '#546e7a' };
+    }
+
+    function getOsmTile(lat, lng) {
+      const zoom = 15, n = Math.pow(2, zoom);
+      const xF = (lng+180)/360*n;
+      const latRad = lat*Math.PI/180;
+      const yF = (1 - Math.log(Math.tan(latRad)+1/Math.cos(latRad))/Math.PI)/2*n;
+      const xT = Math.floor(xF), yT = Math.floor(yF);
+      return {
+        url: `https://tile.openstreetmap.org/${zoom}/${xT}/${yT}.png`,
+        bgX: Math.round(-((xF-xT)*256-120)),
+        bgY: Math.round(-((yF-yT)*256-65)),
+      };
+    }
+
+    function extractImg(raw) {
+      const m = raw.match(/<img[^>]+src=["'](https?:\/\/[^"']+)["']/i);
+      return m ? m[1] : null;
+    }
+
+    function formatDesc(raw) {
+      if (!raw) return '';
+      const withLinks = raw
+        .replace(/<a\s+href="([^"]+)"[^>]*>(.*?)<\/a>/gi, '§§§$1§§§$2§§§')
+        .replace(/<[^>]*>/g, '')
+        .replace(/§§§([^§]+)§§§([^§]*)§§§/g, (_, href, text) =>
+          `<a href="${href}" target="_blank" rel="noopener">${text.trim() || href}</a>`);
+      return withLinks.replace(
+        /(?<![">])(https?:\/\/[^\s<）)]+)/g,
+        url => `<a href="${url}" target="_blank" rel="noopener">${url}</a>`
+      );
+    }
+
+    // ─── Layer setup (called after initial load + after style change) ────
+    function setupLayers() {
+      if (!kmlParsed) return;
+
+      // Register emoji icons
+      categories.forEach(cat => {
+        const id = `icon-${cat.name}`;
+        if (!map.hasImage(id)) map.addImage(id, createEmojiIcon(cat.style.emoji, cat.style.color));
+      });
+
+      const data = { type: 'FeatureCollection', features: getFilteredFeatures() };
+
+      if (!map.getSource('places')) {
+        map.addSource('places', {
+          type: 'geojson', data,
+          cluster: true, clusterMaxZoom: 13, clusterRadius: 50,
+        });
+      } else {
+        map.getSource('places').setData(data);
+      }
+
+      if (!map.getLayer('clusters')) {
+        map.addLayer({
+          id: 'clusters', type: 'circle', source: 'places',
+          filter: ['has', 'point_count'],
+          paint: {
+            'circle-color': ['step', ['get', 'point_count'], '#2d8653', 10, '#1a5c3a', 30, '#0f3d27'],
+            'circle-radius': ['step', ['get', 'point_count'], 20, 10, 26, 30, 32],
+            'circle-stroke-width': 2.5,
+            'circle-stroke-color': '#fff',
+            'circle-opacity': 0.92,
+          },
+        });
+        map.addLayer({
+          id: 'cluster-count', type: 'symbol', source: 'places',
+          filter: ['has', 'point_count'],
+          layout: {
+            'text-field': '{point_count_abbreviated}',
+            'text-size': 13,
+            'text-font': ['Open Sans Bold', 'Arial Unicode MS Bold'],
+          },
+          paint: { 'text-color': '#fff' },
+        });
+        map.addLayer({
+          id: 'unclustered-point', type: 'symbol', source: 'places',
+          filter: ['!', ['has', 'point_count']],
+          layout: {
+            'icon-image': ['get', 'iconImage'],
+            'icon-size': 1,
+            'icon-allow-overlap': true,
+          },
+        });
+      }
+
+      // Register events once
+      if (!eventsSetup) {
+        eventsSetup = true;
+
+        map.on('click', 'clusters', (e) => {
+          const id = e.features[0].properties.cluster_id;
+          map.getSource('places').getClusterExpansionZoom(id).then(zoom => {
+            map.easeTo({ center: e.features[0].geometry.coordinates, zoom: zoom + 1 });
+          });
+        });
+
+        map.on('click', 'unclustered-point', (e) => {
+          const props = e.features[0].properties;
+          const coords = e.features[0].geometry.coordinates.slice();
+          while (Math.abs(e.lngLat.lng - coords[0]) > 180) {
+            coords[0] += e.lngLat.lng > coords[0] ? 360 : -360;
+          }
+          new mgl.Popup({ maxWidth: '280px', offset: 20 })
+            .setLngLat(coords)
+            .setDOMContent(buildPopupDOM(props))
+            .addTo(map);
+        });
+
+        map.on('mouseenter', 'clusters', () => { map.getCanvas().style.cursor = 'pointer'; });
+        map.on('mouseleave', 'clusters', () => { map.getCanvas().style.cursor = ''; });
+        map.on('mouseenter', 'unclustered-point', () => { map.getCanvas().style.cursor = 'pointer'; });
+        map.on('mouseleave', 'unclustered-point', () => { map.getCanvas().style.cursor = ''; });
+      }
+    }
+
+    // ─── Popup DOM builder ────────────────────────────────────
+    function isFaved(id) {
+      try { return !!JSON.parse(localStorage.getItem('map_favs')||'{}')[id]; } catch { return false; }
+    }
+    function isInItinerary(id) {
+      try { return (JSON.parse(localStorage.getItem('map_itinerary')||'[]')).some(x => x.id === id); } catch { return false; }
+    }
+
+    function buildPopupDOM(props) {
+      const lat = parseFloat(props.lat), lng = parseFloat(props.lng);
+      const tile = getOsmTile(lat, lng);
+      const shareText = encodeURIComponent(`${props.name}\nhttps://www.google.com/maps/search/?api=1&query=${lat},${lng}`);
+      const waUrl = `https://wa.me/?text=${shareText}`;
+      const lineUrl = `https://line.me/R/msg/text/?${shareText}`;
+
+      const wrap = document.createElement('div');
+
+      // Thumbnail
+      const thumb = document.createElement('div');
+      thumb.className = 'popup-thumb';
+      if (props.imgUrl) {
+        const img = document.createElement('img');
+        img.src = props.imgUrl;
+        img.alt = props.name;
+        img.width = 280; img.height = 140;
+        img.loading = 'lazy';
+        img.onerror = () => {
+          img.remove();
+          thumb.style.backgroundImage = `url('${tile.url}')`;
+          thumb.style.backgroundPosition = `${tile.bgX}px ${tile.bgY}px`;
+          const dot = document.createElement('div');
+          dot.className = 'popup-thumb-dot';
+          thumb.appendChild(dot);
+        };
+        thumb.appendChild(img);
+      } else {
+        thumb.style.backgroundImage = `url('${tile.url}')`;
+        thumb.style.backgroundPosition = `${tile.bgX}px ${tile.bgY}px`;
+        const dot = document.createElement('div');
+        dot.className = 'popup-thumb-dot';
+        thumb.appendChild(dot);
+      }
+      wrap.appendChild(thumb);
+
+      // Body
+      const body = document.createElement('div');
+      body.className = 'map-popup';
+
+      const badge = document.createElement('span');
+      badge.className = 'cat-badge';
+      badge.style.background = props.catColor;
+      badge.textContent = `${props.catEmoji} ${props.category}`;
+      body.appendChild(badge);
+
+      const title = document.createElement('h3');
+      title.textContent = props.name;
+      body.appendChild(title);
+
+      const descHtml = formatDesc(props.rawDesc || '');
+      if (descHtml) {
+        const p = document.createElement('p');
+        p.innerHTML = descHtml;
+        body.appendChild(p);
+      }
+
+      // Navigate button
+      const navBtn = document.createElement('a');
+      navBtn.className = 'nav-btn';
+      navBtn.href = `https://www.google.com/maps/dir/?api=1&destination=${lat},${lng}&travelmode=driving`;
+      navBtn.target = '_blank';
+      navBtn.rel = 'noopener';
+      navBtn.textContent = '🧭 使用 Google Maps 導航';
+      body.appendChild(navBtn);
+
+      // Share row
+      const shareRow = document.createElement('div');
+      shareRow.className = 'share-row';
+      shareRow.innerHTML = `
+        <a class="share-btn share-wa" href="${waUrl}" target="_blank" rel="noopener">📱 WhatsApp</a>
+        <a class="share-btn share-line" href="${lineUrl}" target="_blank" rel="noopener">💬 LINE</a>`;
+      body.appendChild(shareRow);
+
+      // Footer: gmaps link + action buttons
+      const footer = document.createElement('div');
+      footer.className = 'popup-footer';
+
+      const gmapsLink = document.createElement('a');
+      gmapsLink.className = 'gmaps-link';
+      gmapsLink.href = `https://www.google.com/maps/search/?api=1&query=${lat},${lng}`;
+      gmapsLink.target = '_blank';
+      gmapsLink.rel = 'noopener';
+      gmapsLink.textContent = '查看詳情 →';
+      footer.appendChild(gmapsLink);
+
+      const actionBtns = document.createElement('div');
+      actionBtns.className = 'popup-action-btns';
+
+      const favBtn = document.createElement('button');
+      favBtn.className = 'fav-btn';
+      favBtn.title = '收藏';
+      favBtn.textContent = isFaved(props.id) ? '❤️' : '🤍';
+      favBtn.addEventListener('click', () => {
+        try {
+          const favs = JSON.parse(localStorage.getItem('map_favs')||'{}');
+          if (favs[props.id]) {
+            delete favs[props.id];
+            favBtn.textContent = '🤍';
+          } else {
+            favs[props.id] = { name: props.name, area: props.areaName, lat, lng, desc: (props.rawDesc||'').replace(/<[^>]*>/g,'').substring(0,300), areaSlug: props.areaSlug };
+            favBtn.textContent = '❤️';
+          }
+          localStorage.setItem('map_favs', JSON.stringify(favs));
+        } catch {}
+      });
+      actionBtns.appendChild(favBtn);
+
+      const itinBtn = document.createElement('button');
+      itinBtn.className = 'itin-btn';
+      itinBtn.title = '加入行程';
+      itinBtn.textContent = isInItinerary(props.id) ? '✅' : '📋';
+      itinBtn.addEventListener('click', () => {
+        try {
+          let itin = JSON.parse(localStorage.getItem('map_itinerary')||'[]');
+          const idx = itin.findIndex(x => x.id === props.id);
+          if (idx >= 0) {
+            itin.splice(idx, 1);
+            itinBtn.textContent = '📋';
+          } else {
+            itin.push({
+              id: props.id, name: props.name,
+              areaName: props.areaName, areaSlug: props.areaSlug,
+              lat, lng,
+              desc: (props.rawDesc||'').replace(/<[^>]*>/g,'').substring(0,80),
+              category: props.category,
+            });
+            itinBtn.textContent = '✅';
+          }
+          localStorage.setItem('map_itinerary', JSON.stringify(itin));
+          localStorage.removeItem('map_itinerary_groups'); // force re-group on itinerary page
+          window.updateItinBadge?.();
+        } catch {}
+      });
+      actionBtns.appendChild(itinBtn);
+
+      footer.appendChild(actionBtns);
+      body.appendChild(footer);
+      wrap.appendChild(body);
+      return wrap;
+    }
+
+    // ─── KML parse ────────────────────────────────────────────
+    map.on('style.load', () => { if (kmlParsed) setupLayers(); });
+
+    // Wait for map load with 20s timeout (handles environments where WebGL may be limited)
+    await new Promise((resolve) => {
+      if (map.loaded()) { resolve(); return; }
+      const timer = setTimeout(resolve, 20000);
+      map.once('load', () => { clearTimeout(timer); resolve(); });
+      map.once('error', (e) => {
+        console.warn('MapLibre load error:', e.error?.message);
+        clearTimeout(timer); resolve();
+      });
+    });
+
+    try {
+      const res = await fetch(area.kml);
+      const kmlText = await res.text();
+      const kmlDoc = new DOMParser().parseFromString(kmlText, 'text/xml');
+      const folders = kmlDoc.querySelectorAll('Document > Folder, Folder');
+
+      function parsePlacemarks(pms, catName) {
+        const style = getCatStyle(catName);
+        if (!categories.find(c => c.name === catName)) categories.push({ name: catName, style });
+        pms.forEach(pm => {
+          const name = pm.querySelector('name')?.textContent?.trim() || '';
+          const rawDesc = pm.querySelector('description')?.textContent?.trim() || '';
+          const coordsEl = pm.querySelector('coordinates');
+          if (!coordsEl) return;
+          const parts = coordsEl.textContent?.trim().split(',');
+          if (!parts || parts.length < 2) return;
+          const lng = parseFloat(parts[0]), lat = parseFloat(parts[1]);
+          if (isNaN(lat) || isNaN(lng)) return;
+          allFeatures.push({
+            type: 'Feature',
+            geometry: { type: 'Point', coordinates: [lng, lat] },
+            properties: {
+              id: `${area.slug}::${lat},${lng}`,
+              name, rawDesc,
+              category: catName, catColor: style.color, catEmoji: style.emoji,
+              iconImage: `icon-${catName}`,
+              lat, lng,
+              areaSlug: area.slug, areaName: area.name,
+              imgUrl: extractImg(rawDesc) || '',
+            },
+          });
+        });
+      }
+
+      folders.forEach(folder => {
+        const catName = folder.querySelector(':scope > name')?.textContent?.trim() || '其他';
+        const pms = folder.querySelectorAll(':scope > Placemark');
+        if (pms.length > 0) parsePlacemarks(pms, catName);
+      });
+
+      const topPms = kmlDoc.querySelectorAll('Document > Placemark');
+      if (topPms.length > 0) parsePlacemarks(topPms, '景點');
+
+      kmlParsed = true;
+      setupLayers();
+
+      // Category filter pills
+      const catPillsEl = document.getElementById('cat-pills');
+      const catBar = document.getElementById('cat-bar');
+      if (catPillsEl && categories.length > 1) {
+        catBar?.classList.remove('hidden');
+        const allPill = document.createElement('button');
+        allPill.className = 'cat-pill active';
+        allPill.textContent = '全部';
+        catPillsEl.appendChild(allPill);
+        categories.forEach(cat => {
+          const pill = document.createElement('button');
+          pill.className = 'cat-pill';
+          pill.innerHTML = `${cat.style.emoji} ${cat.name}`;
+          pill.dataset.cat = cat.name;
+          catPillsEl.appendChild(pill);
+        });
+        catPillsEl.addEventListener('click', (e) => {
+          const pill = e.target.closest('.cat-pill');
+          if (!pill) return;
+          catPillsEl.querySelectorAll('.cat-pill').forEach(p => p.classList.remove('active'));
+          pill.classList.add('active');
+          activeCat = pill.dataset.cat || '全部';
+          refreshData();
+        });
+      }
+    } catch (err) {
+      console.error('KML error:', err);
+    }
+
+    document.getElementById('map-loading')?.classList.add('hidden');
+
+    // ─── GPS / Nearby ─────────────────────────────────────────
+    geolocate.on('geolocate', (e) => {
+      userLat = e.coords.latitude;
+      userLng = e.coords.longitude;
+      if (nearbyActive) refreshData();
+    });
+
+    const gpsBtn = document.getElementById('gps-btn');
+    gpsBtn?.addEventListener('click', () => {
+      nearbyActive = true;
+      document.getElementById('nearby-bar')?.classList.remove('hidden');
+      gpsBtn.classList.add('active');
+      geolocate.trigger();
+      if (userLat !== null) refreshData();
+    });
+
+    document.getElementById('nearby-close')?.addEventListener('click', () => {
+      nearbyActive = false;
+      document.getElementById('nearby-bar')?.classList.add('hidden');
+      gpsBtn?.classList.remove('active');
+      refreshData();
+    });
+
+    document.getElementById('radius-pills')?.addEventListener('click', (e) => {
+      const pill = e.target.closest('.radius-pill');
+      if (!pill) return;
+      document.querySelectorAll('.radius-pill').forEach(p => p.classList.remove('active'));
+      pill.classList.add('active');
+      nearbyRadius = parseFloat(pill.dataset.km);
+      if (nearbyActive) refreshData();
+    });
+
+    // ─── Dark mode tile switching ─────────────────────────────
+    new MutationObserver(() => {
+      map.setStyle(isDark() ? STYLE_DARK : STYLE_LIGHT);
+    }).observe(document.documentElement, { attributes: true, attributeFilter: ['data-dark'] });
+  }
+
+  initMap();
+</script>

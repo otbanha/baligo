@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>烏魯瓦圖攻略地圖 by gobaligo</name>
+    <description>峇里島旅遊攻略: https://gobaligo.id/</description>
+    <Style id="icon-1603-C2185B-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-C2185B-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-C2185B">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-C2185B-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-C2185B-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>知名景點</name>
+      <Placemark>
+        <name>烏魯瓦圖廟</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6jU6N_1AbyIbB1ngsetBlW7uLKCgsJC7gPd_xAEtoq9K6rD9mucL91UlOrU4Ogkp2fS3mBIl1--vdCrnyNvd9khd6X_h5dVqD-pTJevIvsVDmdEszBsrJtjWtzTBCkVpX78JMH4ulQS71h7U8eKkvlSaHSse-HUTwJ7rfG-rlXLPqIscONjTIWzqey81AcBQT6n3xrEKK51nkvrFEWbbkDnf6mzjbRjsb6pAyJS-WdrbT0vu8zLUHnT-M?authuser=0&fife=s16383" height="200" width="auto" /><br><br>攻略介紹：https://gobaligo.id/go/Uluwatu-Temple-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6jU6N_1AbyIbB1ngsetBlW7uLKCgsJC7gPd_xAEtoq9K6rD9mucL91UlOrU4Ogkp2fS3mBIl1--vdCrnyNvd9khd6X_h5dVqD-pTJevIvsVDmdEszBsrJtjWtzTBCkVpX78JMH4ulQS71h7U8eKkvlSaHSse-HUTwJ7rfG-rlXLPqIscONjTIWzqey81AcBQT6n3xrEKK51nkvrFEWbbkDnf6mzjbRjsb6pAyJS-WdrbT0vu8zLUHnT-M?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0849069,-8.8291432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>卡恰火舞 Kecak Dance Amphitheater Uluwatu Temple</name>
+        <description>購票、攻略介紹：https://gobaligo.id/go/Uluwatu-Kecak-Fire-Dance</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.0853836,-8.830719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Balangan Viewpoint</name>
+        <description>攻略介紹：https://gobaligo.id/go/uluwatu-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1251549,-8.7896794,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanah Barak Cliff</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4j9JTsfdtCPHSaKp_xYBuoWQNr4kgV7tyWXU7JZbanM4UIh3Z4TfwsvL4dmUV9MEmzsL2zMJ0o9UTJ8B5A-vW5PDVHvP6E9FXG_c8bEgs6G79QyuCsx7meieLbuyceepsVMusjSFgVhFXS1Xe8UF6uAlUVC-1C_QNEGRneuEkv6KIeHY2hUN2WAJ3F3p4mcH6MYKmOCuv1eYB_YDXUG1MrP1FSuCeBprBdNg5bpYcdjLaImrQiqzg4fHk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>攻略介紹：https://gobaligo.id/blog/2025-03-06-67c9a234fd897800014b5a11/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4j9JTsfdtCPHSaKp_xYBuoWQNr4kgV7tyWXU7JZbanM4UIh3Z4TfwsvL4dmUV9MEmzsL2zMJ0o9UTJ8B5A-vW5PDVHvP6E9FXG_c8bEgs6G79QyuCsx7meieLbuyceepsVMusjSFgVhFXS1Xe8UF6uAlUVC-1C_QNEGRneuEkv6KIeHY2hUN2WAJ3F3p4mcH6MYKmOCuv1eYB_YDXUG1MrP1FSuCeBprBdNg5bpYcdjLaImrQiqzg4fHk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1742984,-8.8448298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>秘境海灘</name>
+      <Placemark>
+        <name>Suluban Beach</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=hQbBTktqEqY"><img src="https://img.youtube.com/vi/hQbBTktqEqY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/hQbBTktqEqY">https://www.youtube.com/embed/hQbBTktqEqY</a><br><br>攻略介紹：https://gobaligo.id/blog/2024-11-12-673207e9fd897800018987e7/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/hQbBTktqEqY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0882875,-8.8160171,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thomas Beach</name>
+        <description>攻略介紹：https://gobaligo.id/blog/2023-08-22-64e4c0c9fd897800014e31bf/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.0962459,-8.8134521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Padang Padang Beach</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=isVxI2UEq6U"><img src="https://img.youtube.com/vi/isVxI2UEq6U/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/isVxI2UEq6U">https://www.youtube.com/embed/isVxI2UEq6U</a><br><br>攻略介紹：https://gobaligo.id/blog/2023-08-22-64e4c0c9fd897800014e31bf/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/isVxI2UEq6U</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1037658,-8.8111377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green Bowl Beach</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=8mzJm_UrjSg"><img src="https://img.youtube.com/vi/8mzJm_UrjSg/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/8mzJm_UrjSg">https://www.youtube.com/embed/8mzJm_UrjSg</a><br><br>攻略介紹：https://gobaligo.id/blog/2023-08-22-64e4c0c9fd897800014e31bf/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/8mzJm_UrjSg</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1710301,-8.8486708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bingin Beach</name>
+        <description>攻略介紹：https://gobaligo.id/blog/2023-08-22-64e4c0c9fd897800014e31bf/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1131384,-8.8053739,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dreamland Beach</name>
+        <description>攻略介紹：https://gobaligo.id/blog/2023-08-22-64e4c0c9fd897800014e31bf/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1177233,-8.7992774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nyang Nyang Beach</name>
+        <description>攻略介紹：https://gobaligo.id/blog/2023-08-22-64e4c0c9fd897800014e31bf/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.0934172,-8.8391636,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>烏魯瓦圖美食</name>
+      <Placemark>
+        <name><![CDATA[Mana Uluwatu Restaurant & Bar]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4rjXgGBdivfNcOmqKfHy8I4-RYcL8dbqcUDLKMnc9qRJSKU3AlKcJTU700OZwLl7LiMfQBB3or7ylU_-40LtZUkzu77VQBJLNHy4J9cGQvqGP2EBvZY6LvKMMNt5JgU8Y99ROnUJokwp9QmocCBj4sd2B4pdMdiUg2gx4GJXlm-O-O_MhDBV9u8dGs3ngIhLUTFl7aYGycVolQhAQ4b9oMkNKyV15fthPEUQwUnBYWrRTBNs8RIgrAwDg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>來這裡享受史詩般的景色，留下來品嚐魂魄食物和極致雞尾酒。Mana Uluwatu位於Uluwatu Surf Villas的懸崖上，俯瞰著湧動的浪潮和閃閃發光的地平線。以真正衝浪者的風格，這裡的食物都是關於來自陸地和海洋的豐富滋養小吃。想像一下巴哈魚肉塔科斯和植物基炒蛋餅。或者炸鵪鶉配醃製木瓜，燒烤的黑安格斯肋排配煙燻辣味味噌奶油。所有這些都是在一個由再生柚木和鐵木建造的華麗露天涼亭中供應的。最佳享受的觀點、食物和良好的氛圍都是與Mana雞尾酒和每晚日落秀的金色光芒一起享受的。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4rjXgGBdivfNcOmqKfHy8I4-RYcL8dbqcUDLKMnc9qRJSKU3AlKcJTU700OZwLl7LiMfQBB3or7ylU_-40LtZUkzu77VQBJLNHy4J9cGQvqGP2EBvZY6LvKMMNt5JgU8Y99ROnUJokwp9QmocCBj4sd2B4pdMdiUg2gx4GJXlm-O-O_MhDBV9u8dGs3ngIhLUTFl7aYGycVolQhAQ4b9oMkNKyV15fthPEUQwUnBYWrRTBNs8RIgrAwDg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0818711,-8.8272997,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oyà Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4dN6lELh2bvZpdB-ZP2I-iSnRzqcYZGwscfY3nmRTYwaDMtPswWlHWRObv-BFJgB6s8rty6WjyUCT0dClIb3xa6Y7cep3cWn59ERFXZkd_orOSnqp89X8n8QVX5JGZMDI3FjqHGVjBtlglGfexdAKw6wVQJCK2IRWlNH-PYptCFmG3QeeyEjm-k9jJpUej_ufrR_YbZl27qSpFtHj0RIGAM_9tyFFBWpx3ZYXwQSo9WBPi4406pXuB7qw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>在Oyà，您可以環遊世界，品嚐世界各地最受喜愛的美食。受到巴厘島多元文化的啟發，Oyà的才華洋溢的當地廚師每天手工製作每道菜肴，為您帶來美味。您可以用無麩質的Oyà貝尼迪克特來開啟您的早晨，配有玉米煎餅、菠菜、培根、水煮蛋和荷蘭醬，旁邊還有一杯辣味馬薩拉茶。或者，如果您想要輕食午餐，可以嘗試素食法拉費爾碗或者馬希馬希香草醬中的她慢烤馬希馬希，夾在軟烤餐包之間。在整整一天的衝浪後，來享用一頓放縱的島嶼風格晚餐。我們喜歡白鯛魚酸橘醃魚、奶油青醬意大利炒麵上的烤章魚，以及罐裝的檸檬塔的酸味。最重要的提示：不要離開而不嚐嚐標誌性的Golden Sour – 一種巴厘島風味的經典飲品，使用了巴厘島蛇果浸泡的酒。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4dN6lELh2bvZpdB-ZP2I-iSnRzqcYZGwscfY3nmRTYwaDMtPswWlHWRObv-BFJgB6s8rty6WjyUCT0dClIb3xa6Y7cep3cWn59ERFXZkd_orOSnqp89X8n8QVX5JGZMDI3FjqHGVjBtlglGfexdAKw6wVQJCK2IRWlNH-PYptCFmG3QeeyEjm-k9jJpUej_ufrR_YbZl27qSpFtHj0RIGAM_9tyFFBWpx3ZYXwQSo9WBPi4406pXuB7qw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1134574,-8.8171501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Banana Lounge</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5Dtut2BQUVq9_OXuk0t-jLnTBkmqK3n2ATfmABUqg3uleE2dYKC15Z3s7XrBuyf32BaCB_22pB6HSexGRiDOkcFKt2_2O78tOD5IlIx66PbP6CXS1ud3tD7AqGlU6SzknO8tceA5KEeMtw_p4i1Y4SaAlN3N6NM23kzozqgCFgvRUwZY86G7YXNC0WcB_yoDHFpW92PwExMu81BXstE2CwIaYDRjJtFuOhLI1JQnbeJvAeenX-Ahh7aNU?authuser=0&fife=s16383" height="200" width="auto" /><br><br>攜帶食慾和比基尼前來，因為Banana Lounge是Bingin的泳池休閒區和餐廳，您可以整天在這裡品嘗美味的小吃，品味精心調製的雞尾酒，並在泳池邊休息，沐浴在陽光和清爽的Bingin氛圍中。早早來享用早午餐和新鮮沖泡的咖啡，然後留下來享用煎炸魚、牛肉串或共享的12隻鹹蝦。在躺椅上點一瓶氣泡酒，或者在陽光浴床上點一杯瑪格麗塔。還有，我們有提到Banana Lounge距離Impossibles Beach的入口只有幾步之遙嗎？強烈推薦下到沙灘，然後返回泳池，在海景屋頂上觀賞日落晚餐和雞尾酒。還不想離開？Banana Lounge是竹製美麗的Jellyfish別墅的一部分，這意味著您可以入住，明天再來一次，甚至將其作為您的婚禮場地！]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5Dtut2BQUVq9_OXuk0t-jLnTBkmqK3n2ATfmABUqg3uleE2dYKC15Z3s7XrBuyf32BaCB_22pB6HSexGRiDOkcFKt2_2O78tOD5IlIx66PbP6CXS1ud3tD7AqGlU6SzknO8tceA5KEeMtw_p4i1Y4SaAlN3N6NM23kzozqgCFgvRUwZY86G7YXNC0WcB_yoDHFpW92PwExMu81BXstE2CwIaYDRjJtFuOhLI1JQnbeJvAeenX-Ahh7aNU?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1117806,-8.8087987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Drifter Surf Shop Cafe & Gallery]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7r_PXlJvW22NZ74WhcnbtcolYZcUlMkjiNCPe03L7oozwufGXoP9oNltFkBFEPcmF8cva7_zGI3GEz7TSPcgjpuKjVfeukjlHnrtpbEjzYvhMLg0MvR3s0SHQ3elxHVTXnhHEy7VL6YKIcPE4J10VGkD-6mM1_BZTLOLM236vdYE1aauz-8VCfnsi5QY4yHbRDjgjXCmMh-6QcXyobu--O21Xhh49FPyjEKTmQsCBFnRwj0KHb6UYyPBQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>在烏魯瓦圖哪裡可以吃飯 - Drifter Surf<br>Drifter Surf是一個對一切老派衝浪的神龕，自豪地展示其復古氛圍，貨架上擺滿了各種地下標籤和一些最美麗的海洋靈感藝術品。瀏覽完商店後，到後面的寧靜花園咖啡廳區域，您會發現出色的咖啡和各種美味健康的菜餚。從早餐盤和日間米紙卷，到晚上的巴厘咖喱和鍋煎魚，我們經常透過整個Drifter菜單品嚐美食。專家提示：星期五晚上順路過來，也許你會遇到輕鬆的現場音樂之夜。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7r_PXlJvW22NZ74WhcnbtcolYZcUlMkjiNCPe03L7oozwufGXoP9oNltFkBFEPcmF8cva7_zGI3GEz7TSPcgjpuKjVfeukjlHnrtpbEjzYvhMLg0MvR3s0SHQ3elxHVTXnhHEy7VL6YKIcPE4J10VGkD-6mM1_BZTLOLM236vdYE1aauz-8VCfnsi5QY4yHbRDjgjXCmMh-6QcXyobu--O21Xhh49FPyjEKTmQsCBFnRwj0KHb6UYyPBQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1123204,-8.8149139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kelly's Warung]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7ku1C-fgcRJnZIcfpOz1bq1lHuO8XChjBWoe9cS5pxwiNCctIcoE77K-MdUgqMon0ODS3zM2hewhyJ3Pq4xy8a2CsNQ8BlrlMqOClV2ez7Y28khAj9r4Owil43n0qAfVUf4PFNtu-yrEIU_TP3QcHX8nMVh4kwZMr8cxVxpZAk1ccl9QgYxBf0ggJBGOBk7xGlIUjCSKiGbxAz2YhuCeFyDOKMPLm2lyyuGo_sSyq9LET5P9UrCjDpuO0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>位於Bingin Beach懸崖底部，Kelly's是這個地方的一種機構（也是Bukit地區唯一的一家本地咖啡館！）。俯瞰著海浪，並且有通往沙灘的台階，幾乎沒有比這更好的地方可以度過悠閒的Bingin一天。食物簡單、健康而豐盛，有令人耳目一新的飲料列表和一些最冷的啤酒。早餐可以嘗試多彩的火龍果碗，午餐後可以享用豐盛的卷餅。我們喜歡二樓時尚的休息室和波西克風情的氛圍...]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7ku1C-fgcRJnZIcfpOz1bq1lHuO8XChjBWoe9cS5pxwiNCctIcoE77K-MdUgqMon0ODS3zM2hewhyJ3Pq4xy8a2CsNQ8BlrlMqOClV2ez7Y28khAj9r4Owil43n0qAfVUf4PFNtu-yrEIU_TP3QcHX8nMVh4kwZMr8cxVxpZAk1ccl9QgYxBf0ggJBGOBk7xGlIUjCSKiGbxAz2YhuCeFyDOKMPLm2lyyuGo_sSyq9LET5P9UrCjDpuO0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1137244,-8.8053874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alchemy Uluwatu</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5onMuoDQeA4w_CPaFnntkUPuX9CUKbbMmqJSLaCMjTmFOqn6WK5LPvt5PdlsJeStUgkZITHkC-LZzyrplhitnAozKjvS9lrrqMss0OoWb_MLtoZSqtECHvzDrsOcVgoq5f5JtXlVB0YYsVM_-1izWuuvNS8_bTHoq1Lq2kiObLAlJbLq8jMKtVq-U3EP-b6yQd-5C7TfJXSd6oefVrP7Px9ydSs6jZZcsWoutNQkfOG1elbD-yp7bypB8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>巴厘島的OG純素餐廳在烏魯瓦圖找到了第二個家，這次是在寧靜的Bingin街區。就像它位於烏布的第一個位置一樣，Alchemy Uluwatu通過使用全天然、可持續和有機的成分來尊重大自然。廚房提供一系列純素和無麩質的生食和溫和烹製的創作，如豐富多彩的沙拉碗、厚實的三明治和全天早餐菜單。早晨從薑黃拿鐵開始，然後在衝浪間隙中拿起菠菜蘑菇鹹派。至於晚餐，分享一個南瓜辣木比薩，配上Alchemy自製的康寶葛。我們也喜歡這裡的室內裝潢]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5onMuoDQeA4w_CPaFnntkUPuX9CUKbbMmqJSLaCMjTmFOqn6WK5LPvt5PdlsJeStUgkZITHkC-LZzyrplhitnAozKjvS9lrrqMss0OoWb_MLtoZSqtECHvzDrsOcVgoq5f5JtXlVB0YYsVM_-1izWuuvNS8_bTHoq1Lq2kiObLAlJbLq8jMKtVq-U3EP-b6yQd-5C7TfJXSd6oefVrP7Px9ydSs6jZZcsWoutNQkfOG1elbD-yp7bypB8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1132266,-8.8145001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ulu Garden</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7rDBKUErxMk0_ZcChzYEu1YwAYB6nXfMnVwEDN5lU8Y52tAIN_DOS2GrhtlG-c_S8iBhWmS7_hJumfqWFWAW7F6Il3aB7uWJQEBlDn8xCopyEDf4iqbX3AtIoXKL3e7N8LoFN5v2BDbWSPRNQOy9oyxjc0OMyZDC0HqY8LA2fXcirXg9GAlXbxfNuhV38qg6lIUWUOXDRJmXalR-WYiuFZakqYOFJfX7W4lFUb_zFiy7U0nvOrI0m2xtc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>坐落在烏魯瓦圖的心臟地帶是Ulu Garden - 一個多功能場所，您可以來這裡享用美食，品味雞尾酒，或者在筆記本電腦上工作。涼爽的熱帶花園隨著太陽的升起和落下而變化，白天是一個輕鬆愜意的空間，晚上則是帶有現場音樂的更加熱鬧的氛圍。甚至還有一個兒童角落，讓小朋友在大人們享用受到當地季節性產品啟發的豐盛菜肴時可以有所作為。我們最喜歡的是烤蔬菜碗，裝滿了羽衣甘藍、南瓜、西葫蘆、藜麥和綠芝麻醬。或者是檸檬金槍魚，配有蘆筍、甜薯和奶油椰子香蔻。最重要的提示：留意每週的時間表，因為您可以觀賞到巴厘舞蹈表演、戲劇以及巴厘島傳奇的雷鬼樂隊Ulu Roots的演出。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7rDBKUErxMk0_ZcChzYEu1YwAYB6nXfMnVwEDN5lU8Y52tAIN_DOS2GrhtlG-c_S8iBhWmS7_hJumfqWFWAW7F6Il3aB7uWJQEBlDn8xCopyEDf4iqbX3AtIoXKL3e7N8LoFN5v2BDbWSPRNQOy9oyxjc0OMyZDC0HqY8LA2fXcirXg9GAlXbxfNuhV38qg6lIUWUOXDRJmXalR-WYiuFZakqYOFJfX7W4lFUb_zFiy7U0nvOrI0m2xtc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0933469,-8.8166019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tarabelle</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X54K39ID4mHf7o49Hn5MLTE_1hbhSJlaSuW-T73153uG_4PftGhDj7ZtFd4lfJX8_rzHgguM9gxlgegQxd4SU6UmUFcuuCQSH5aWaXy3yiIJsJGUn9LA6uJhuJ2HLhPfuO1jovWzqDXO8s-_966wXkSasmRGopy1pehflI7Kvw0TYLuLP9d_KwJ1awOge0bAyslPRcghnjMcKSO6SKe4oVB0MXXpCFrWPc1O0qj8RF1d3-HtSPZrT8NROw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Tarabelle Coffee & Eats是一家專業的咖啡館和甜甜圈店，位於通往烏魯瓦圖的主要道路上，提供全天早午餐和晚餐菜單。早晨加油的話，經典的雞蛋班尼迪克特是一個不錯的選擇，或者如果你感覺冒險，可以試試泡菜炒蛋。午餐主要是關於每個人都喜歡的：漢堡、意大利面、捕捉碗和卷餅。試試納什維爾雞肉漢堡或素食友好的青醬意大利面，並查看日曆，以在Tarabelle的原聲樂之夜中安排您的晚餐時間。至於飲料，可以選擇本地的Jamu（巴厘島傳統的香料姜黃靈劑）或花生醬焦糖爆米花奶昔（是的，你沒看錯！）。喜歡甜食嗎？不妨看看甜甜圈櫃台，那裡有一些島上最好的手工甜甜圈。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X54K39ID4mHf7o49Hn5MLTE_1hbhSJlaSuW-T73153uG_4PftGhDj7ZtFd4lfJX8_rzHgguM9gxlgegQxd4SU6UmUFcuuCQSH5aWaXy3yiIJsJGUn9LA6uJhuJ2HLhPfuO1jovWzqDXO8s-_966wXkSasmRGopy1pehflI7Kvw0TYLuLP9d_KwJ1awOge0bAyslPRcghnjMcKSO6SKe4oVB0MXXpCFrWPc1O0qj8RF1d3-HtSPZrT8NROw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1503454,-8.8201321,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[NOURISH CAFE WHOLEFOODS PIZZERIA & BAKERY - UNGASAN]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7AyY2LakYstfLi2VxnaaPjSscUe7iKpRT8svlKvRnGS0wGsj0KlnXAO2kUPjICDFhwYqN6ss2U9c2HQVEdLuBhNeqeUCZqVyI94d8-XmCITVC8oMA4gmFv9ywdDIPUXi6BWtYESPLErT4PjLVOJzxvmasvaGnvv6dukAbCfjYcDa6UmxcO2Sa-kke5N-TuKyCPZHGOkCOym-TWAIFlQZ2zluLnBZ9s5Gz6Ktm3rD9kJsE8DkCt2PTtjmQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>美味、有機、本地採購的食材，Nourish正是如此：它用營養豐富的食物、冷壓果汁、健康沙拉和超級食物碗來滋養您的胃。這家全天候咖啡館和比奇圖薩餐廳在Bukit地區有兩個地點；一個位於烏加森，另一個位於Bingin，後者附設有自己的美食全食店。你知道，這些人對高品質、滿足靈魂的食材著迷，盡可能使用和創造有機、本地採購的產品。試試Smashed Avo Stack、Green Bowl和Vegan Morning Glory，再從商店採購所有您最喜愛的營養零食和好吃的東西，你就會明白我們的意思了。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7AyY2LakYstfLi2VxnaaPjSscUe7iKpRT8svlKvRnGS0wGsj0KlnXAO2kUPjICDFhwYqN6ss2U9c2HQVEdLuBhNeqeUCZqVyI94d8-XmCITVC8oMA4gmFv9ywdDIPUXi6BWtYESPLErT4PjLVOJzxvmasvaGnvv6dukAbCfjYcDa6UmxcO2Sa-kke5N-TuKyCPZHGOkCOym-TWAIFlQZ2zluLnBZ9s5Gz6Ktm3rD9kJsE8DkCt2PTtjmQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1412525,-8.8251255,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Buda Bukit</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4kI_Wvy6ZAGzZ8DHe7uMuB6dNP4o4du7osWcWZQt6E3rnvcbJUEU3fugFmfvcWMSoVnvqsbPbGHQnijMth1eQXZx0bPTDhAbK7PIkFQYwlGea864DYNj4qA_erEt_V-CCZygbglO5id5tdiwnRFa63LUzqSIIcyvmRWf9ndED97OwUvdg34N8xvbl5rEP2E5rmb2N8OdeqESmx_GChyOnLjfFa7KL2HYnqj06AfaE2ESDKxpvA9FCw8Vw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Bali Buda是巴厘島的本地有機餐廳兼雜貨店，擁有豐富的新鮮產品和食材。這個擁有25年歷史的巴厘島機構不提供Wi-Fi，提供一系列生素食菜肴、大沙拉碗、濃郁的湯和無基因改造的豆腐，所有這些都在一個家庭式的咖啡廳環境中。這個島嶼標誌如此受歡迎，它的分店遍及Canggu、Kerobokan、Renon、Batbulan和烏布。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4kI_Wvy6ZAGzZ8DHe7uMuB6dNP4o4du7osWcWZQt6E3rnvcbJUEU3fugFmfvcWMSoVnvqsbPbGHQnijMth1eQXZx0bPTDhAbK7PIkFQYwlGea864DYNj4qA_erEt_V-CCZygbglO5id5tdiwnRFa63LUzqSIIcyvmRWf9ndED97OwUvdg34N8xvbl5rEP2E5rmb2N8OdeqESmx_GChyOnLjfFa7KL2HYnqj06AfaE2ESDKxpvA9FCw8Vw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1533346,-8.8192967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gooseberry Restaurant</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6QyFHoKcVvmBeHfP47KVAxWrvoQiV_Pgy1l_cg4hjQOTNPe0S_ImdD-f-BZO9pCbT-2lbxJeFcVlRIoLh8AacOKVSQiMPc5gAmWF-MWM0C-kZSO2dU8Yvol32Z29MqDHi2sITi0nZtAHOtNWZPFUi_miEcmZTImovSZoRZ03B5gvO5NSgnS9c9HN3Ua4bagdng13pv5s1D5p1JOLmjvm7tthyQL3SQGhqJ_G-R9sgJ_ErLOTzDSHJJVuc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>隱藏在Bingin Beach上方的Gooseberry Restaurant咖啡館是一個現代美食的熱帶綠洲，配有空調室內和陽光灑落的游泳池，供您在早午餐後享受一下泳池。品嚐咖啡館的早午餐招牌菜（哈羅，平滑果昔碗，三文魚和酪梨多士），然後在晚餐時全力以赴，享受木火爐烹製的乾式熟成頂級牛排烤製而成的美食。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6QyFHoKcVvmBeHfP47KVAxWrvoQiV_Pgy1l_cg4hjQOTNPe0S_ImdD-f-BZO9pCbT-2lbxJeFcVlRIoLh8AacOKVSQiMPc5gAmWF-MWM0C-kZSO2dU8Yvol32Z29MqDHi2sITi0nZtAHOtNWZPFUi_miEcmZTImovSZoRZ03B5gvO5NSgnS9c9HN3Ua4bagdng13pv5s1D5p1JOLmjvm7tthyQL3SQGhqJ_G-R9sgJ_ErLOTzDSHJJVuc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1186827,-8.8120982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ulu Cliffhouse</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X58LAqXFka9dHVKVWUSBHoqP3XNl-xXdJkyIoqayjLS-4KjP1g5eyg10OZV646BgsVYcViqk6XgOTu_qbWkxH_JRNxmfjjBjKfcjxOPcDOEFKp_LMvyjt14NXJbrXa-nWC4RxLmHHyNQWkCW6wtrmz11SHSlf4BPU__NBmFMPj6fxPaNbVj-1IxPWDnqGdBEiRdxzEhO938ML0hLXVWYgc9RMUjRdM4rmXhWDu8qfd4RQaMB8i4so12pWQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>烏魯瓦圖最放縱的大人遊樂場若沒有出色的美食也難以稱霸，因此這家位於高聳懸崖上的俱樂部在美食領域中擁有所有優點。菜單上的所有美食都是以泳池邊的氛圍為主設計的；想像一下小吃點心、分享盤，還有比薩、牡蠣和美味的甜點。我們的建議？早點到來，以獲得最佳的懸崖前日落座位，並一直留到深夜享受現場DJ和特別活動。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X58LAqXFka9dHVKVWUSBHoqP3XNl-xXdJkyIoqayjLS-4KjP1g5eyg10OZV646BgsVYcViqk6XgOTu_qbWkxH_JRNxmfjjBjKfcjxOPcDOEFKp_LMvyjt14NXJbrXa-nWC4RxLmHHyNQWkCW6wtrmz11SHSlf4BPU__NBmFMPj6fxPaNbVj-1IxPWDnqGdBEiRdxzEhO938ML0hLXVWYgc9RMUjRdM4rmXhWDu8qfd4RQaMB8i4so12pWQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0916222,-8.8139684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Single Fin Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7xUOauILs18cEfTHoyLT5bc1YNYtQLAX-tvbr0IvAGy51xlnAGKPcCW0VD02zAmtsHcL-fnFm5SJE3s6YHbBNq1EDN1Bvm6WEAT36wVjMcm6Z29RQY1TMhHhenGz22ijjjstmOYg0Ud7nCmAKBkAqH84Eqa3CegcJ-x_7MALuGbF6AdT-76bO_W1NKwrSZt9FcbgxBJojGHxmhoDW00P0Y_2ihYcqx116g_caJWpbgxFnU1gJqIAdSMTg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>這家懸崖頂上的衝浪酒吧經常吸引一周中的每一天（和夜晚）聚集的人群，俯瞰烏魯瓦圖著名的衝浪點。令人印象深刻的現場樂隊和DJ陣容讓Single Fin的巨大陽台上不斷流動著好的氛圍，而冰冷的啤酒、招牌雞尾酒和豐盛的美食是我們早早來晚餐的原因。想想玉米餅、漢堡、比薩和沙拉——所有這些都是與Single Fin標誌性的景色一起享用的。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7xUOauILs18cEfTHoyLT5bc1YNYtQLAX-tvbr0IvAGy51xlnAGKPcCW0VD02zAmtsHcL-fnFm5SJE3s6YHbBNq1EDN1Bvm6WEAT36wVjMcm6Z29RQY1TMhHhenGz22ijjjstmOYg0Ud7nCmAKBkAqH84Eqa3CegcJ-x_7MALuGbF6AdT-76bO_W1NKwrSZt9FcbgxBJojGHxmhoDW00P0Y_2ihYcqx116g_caJWpbgxFnU1gJqIAdSMTg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0888956,-8.8149719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morabito Restaurant</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4h2VvV27nnMuaZk_di4I3cdo0IljrwG2VIOgYX_0MJ3UpNoMXlu8A4QV3aETNm9ZsKSIsLTpDaLfvpOH0BW-waBHOnOH9fugFHImGFriGdJkXEsqdX1T8GR-76hsYJna5n-ftb-xYGaxp_mIcsbIxxSh0yjY8Mh_pr4rzcYDssW0vdIgxTEBSMLvP1C6-ndsL9rGGE9-nP5uVBnqA3xbakuCy-bfgUnP_CmZ3uDjlnp-TRRF-OvkAAqnw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>像極了聖托里尼島的餐廳]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4h2VvV27nnMuaZk_di4I3cdo0IljrwG2VIOgYX_0MJ3UpNoMXlu8A4QV3aETNm9ZsKSIsLTpDaLfvpOH0BW-waBHOnOH9fugFHImGFriGdJkXEsqdX1T8GR-76hsYJna5n-ftb-xYGaxp_mIcsbIxxSh0yjY8Mh_pr4rzcYDssW0vdIgxTEBSMLvP1C6-ndsL9rGGE9-nP5uVBnqA3xbakuCy-bfgUnP_CmZ3uDjlnp-TRRF-OvkAAqnw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.113335,-8.805806,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Drifter Surf Shop Cafe & Gallery]]></name>
+        <description><![CDATA[Drifter Cafe位於烏魯瓦圖區,不僅是一家漂亮的網紅咖啡館,更是一處集surfshop、畫廊於一身的複合式空間。走進Drifter,首先映入眼簾的是精心設計的用餐區,裝潢風格時尚又不失熱帶風情,是一處理想的早餐聚會場所。她在這裡點了一份她最鍾愛的牛油果吐司早餐。<br><br>除了提供美味餐飲,Drifter的一大特色就是它同時也是一家surfshop,販售各式衝浪裝備和服飾,為這個熱門衝浪天堂的遊客提供所需用品。店內更設有一處小型畫廊,展示當地藝術家的作品,充滿文青氣息。<br><br>在前往其他景點的路上,不妨先在Drifter Cafe稍作歇息,不僅能品嚐美食,更能感受當地獨特的衝浪文化氛圍,以及浸淫在藝術與設計的用心氛圍中,為烏魯瓦圖之行開啟精彩的前奏。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1123204,-8.8149139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>五星餐飲峇里島烏魯瓦圖萬麗度假酒店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7snFmBRuUI0hESYaoWF5T_jvBHRYEYzAcYEfSk6e2Rm_QCbMbVFy4ef0lxijzulW67y9xYvomQaNzPx6zSU9385f4XvKM4Rvymjk5mLl6RGNwVvnRxnqSYCredGxVg7JQSkHBwnaa6eNtUcMbgYoeANU3acN_TZhcHZOKugnuigA7vaEGpyG5r7ilabpXqccQ-2zeSc6b2BM3S33CykEnEirAU61JM2YNHZ-uTXK1JetOp10DkBXQAunA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>來享受烏魯瓦圖萬麗度假酒店提供的五星級服務吧！在R酒吧、Clay Craft餐廳和Double Ikat餐廳品嚐美味佳餚，欣賞令人驚嘆的無邊泳池景觀，為您的體驗增添樂趣。在烏魯瓦圖萬麗度假酒店及水療中心度過寶貴時光，品味精選的各種美味佳餚。在節日體驗期間，記得拍攝一些值得上傳到Instagram的照片，與親朋好友分享您的美好時刻！]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7snFmBRuUI0hESYaoWF5T_jvBHRYEYzAcYEfSk6e2Rm_QCbMbVFy4ef0lxijzulW67y9xYvomQaNzPx6zSU9385f4XvKM4Rvymjk5mLl6RGNwVvnRxnqSYCredGxVg7JQSkHBwnaa6eNtUcMbgYoeANU3acN_TZhcHZOKugnuigA7vaEGpyG5r7ilabpXqccQ-2zeSc6b2BM3S33CykEnEirAU61JM2YNHZ-uTXK1JetOp10DkBXQAunA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.144855,-8.812979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waroeng De Dusun</name>
+        <description>峇里島包車司機私房清單，這間餐廳供應的印尼風味中式美食美味而經濟，果然沒有踩雷，口味清爽，令人滿足！（張家偉提供）</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1450343,-8.8215521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Cliff Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7zuyqeLDprG_C5ywn_-OJsRHAmSKmH6FQc3pD-nJQ4ftP5MvSoN49himp6oqqg4jDBwQHbNlRkneGfb4dyJqL7fdUsdNWiEoLemKdNZyXFrofkM-3jZEfmZmQPd1zV2kW3VmJLYD9wFEO6AxrO6x-p2y3ekkNwoPiChI91t8--GpfsoRAN0S-bgczEP47ZJoGRBokCmdjf8mX1dVTzFcLe4wVZ6B3tbCE7Vsl45W5WJ8-yM7Lg98n3Q8s?authuser=0&fife=s16383" height="200" width="auto" /><br><br>「Le Cliff」，實際上是一家酒店（是的，你可以在這裡醒來，享受海景），但他們的餐廳也對外開放，我強烈推薦你來峇里島時把這裡列入你的清單！帶上你的比基尼，因為你可以在海灘上游泳⁣。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7zuyqeLDprG_C5ywn_-OJsRHAmSKmH6FQc3pD-nJQ4ftP5MvSoN49himp6oqqg4jDBwQHbNlRkneGfb4dyJqL7fdUsdNWiEoLemKdNZyXFrofkM-3jZEfmZmQPd1zV2kW3VmJLYD9wFEO6AxrO6x-p2y3ekkNwoPiChI91t8--GpfsoRAN0S-bgczEP47ZJoGRBokCmdjf8mX1dVTzFcLe4wVZ6B3tbCE7Vsl45W5WJ8-yM7Lg98n3Q8s?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1052015,-8.8102828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Malini Uluwatu</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6LnqGnLrro7_QthW9-v0_yi_-xUzVy_8deky-32ktemR2_ccRQs_b_uQiipyLdzMiRXa0kxLtUYddtl_mGE24TwIAq83yFS0WxRVq7SSx2L2IHFHfbQowno-2ayMyRoyLRPgPKliZFhErUM8Ytg2tC-9uWLwl3NwqTI2zy3dQI33jNG67br2qY_oewDaNNIg3OHl72JqU9YX2b1FM2oHeeZ7VEXhLEGCjmHqqIoxl7T4rNSGOwi9gBlR4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>餐廳坐落於烏魯瓦圖的懸崖邊，可俯瞰印度洋的遼闊海景，尤其是日落時分景色格外迷人，是浪漫晚餐的熱門選擇。<br>主打當日捕撈的新鮮海鮮，提供烤魚、螃蟹、龍蝦等菜餚，搭配印尼傳統香料或西式烹調方式，口味多元。<br><br>餐廳周圍環繞著綠植，開放式設計讓用餐時能感受海風與自然氣息，裝潢融入峇里島木雕等在地元素。部分時段有現場音樂表演，附近還有小型農場（Agro Park）可參觀，適合家庭或情侶同遊。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6LnqGnLrro7_QthW9-v0_yi_-xUzVy_8deky-32ktemR2_ccRQs_b_uQiipyLdzMiRXa0kxLtUYddtl_mGE24TwIAq83yFS0WxRVq7SSx2L2IHFHfbQowno-2ayMyRoyLRPgPKliZFhErUM8Ytg2tC-9uWLwl3NwqTI2zy3dQI33jNG67br2qY_oewDaNNIg3OHl72JqU9YX2b1FM2oHeeZ7VEXhLEGCjmHqqIoxl7T4rNSGOwi9gBlR4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.087026,-8.8322231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Surya Cafe</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=B-TmfyqLzAU"><img src="https://img.youtube.com/vi/B-TmfyqLzAU/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/B-TmfyqLzAU">https://www.youtube.com/embed/B-TmfyqLzAU</a><br><br>Surya Cafe是一間擁有絕佳海景視野的休閒咖啡館，位於著名的衝浪勝地——蘇魯班海灘（Suluban Beach）附近。這裡不僅能欣賞壯觀的懸崖景致，更是觀賞日落的熱門地點。咖啡館提供無邊際泳池和舒適的沙發區，讓遊客可以一邊享受陽光，一邊品嚐美味的海鮮與輕食，還有DJ音樂，非常適合拍照打卡。這裡目前免費入場，無低消，建議傍晚前往避開烈日。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/B-TmfyqLzAU</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0887122,-8.8150325,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tsune Uluwatu by Wonderspace</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7cLdHdwXC0RXBF_BGqAsKe1a5f6I7fWn5-IbsZMTvr2KmIgPFQ102SBuQgGwedHAnxZTyhTny5zSMh_CxDc32yvOJA2-bEn5juJ36tIzefXHIHtZQFXLJtbUA6-V1Dlhz7A1VPFCTHNy01-hbsnthORKAT5qsCr5QjxyIZy1gEI_NlvPTMF5WD0DrwbvNm3qcR7ahzThBS2TSb-feR7A6KxU9_F51jzXFM5Jx5L8v_kIyD-lbrpc1cjjI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>這裡有八折優惠券：https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7cLdHdwXC0RXBF_BGqAsKe1a5f6I7fWn5-IbsZMTvr2KmIgPFQ102SBuQgGwedHAnxZTyhTny5zSMh_CxDc32yvOJA2-bEn5juJ36tIzefXHIHtZQFXLJtbUA6-V1Dlhz7A1VPFCTHNy01-hbsnthORKAT5qsCr5QjxyIZy1gEI_NlvPTMF5WD0DrwbvNm3qcR7ahzThBS2TSb-feR7A6KxU9_F51jzXFM5Jx5L8v_kIyD-lbrpc1cjjI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1161492,-8.821873,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abracadabra by Mu Bunglaow</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=_Pq2aoXylF4"><img src="https://img.youtube.com/vi/_Pq2aoXylF4/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/_Pq2aoXylF4">https://www.youtube.com/embed/_Pq2aoXylF4</a><br><br>落在烏魯瓦圖懸崖邊的 Abracadabra by Mu Bungalow，最引人矚目的便是那片如魔法般的 夕陽海景。當金色陽光慢慢潛入大海，整座懸崖上彷彿被披上一層金色薄紗，浪漫氛圍無可取代。無論你是靜靜凝望遠方，或是看著衝浪者在夕陽餘暉中劃過浪頭，那一刻彷彿時間也為之停頓，是療癒心靈的完美背景。<br><br>在這壯麗夕陽下，Abracadabra 的 海鮮燒烤饗宴 更加值得期待。餐廳每日從當地漁夫取得新鮮漁獲，如鮮蝦、魷魚與 Mahi-Mahi，經過炭火燒烤後香氣四溢，再搭配紅米、清爽蔬菜與特製 sambal matah，口感與視覺皆獲滿足。這樣的海景搭配海味，在心情上給人的加乘效果，更是讓人難以忘懷。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/_Pq2aoXylF4</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1121318,-8.8070231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Artisan - Uluwatu</name>
+        <description>必點： 烤茄子酸種三明治(lunch)、開心果提拉米蘇、開心果Gelato</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.0929111,-8.8163956,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Satu Uluwatu</name>
+        <description>很乾淨的自選餐，Kimchi omelette 跟miso potatoes kale salad 好好吃</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1125113,-8.8165346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Suka Espresso [Uluwatu]</name>
+        <description>brunch時段生意超好，但我是為了avocado affogato </description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.0960547,-8.8164072,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Single Fin Bali</name>
+        <description><![CDATA[看夕陽view最好的泳池餐廳，夕陽時段人超級多，<br>往下走也很多餐廳，最下面是blue point 衝浪點，退潮的日子在沙灘看夕陽最棒。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.0888956,-8.8149719,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rockfish at The Uluwatu</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6twqRlY04aD4Wcpgh0wRDgebk_Up7lonlhmwuqRW72h6PZN0CIz44z7h2qiLwqa1dxoXku_SNq0OSr0wdczqg_pZ8gmcq__Rg9CJ4olc6JQZB7D-4E0QMwszQE5Btuv2aUR-jo7w6iyeUCMxxqDEcfZsg6lMZAd6YUJgGOMtyInegFYknMU17BUV0DxWnrEYzQwlj7yy2RiQgMa2EO8oyS-Hkag2jRBl1iD0sr4PsIkqTBHIeuk7ucPe8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>rockfish 洞穴餐廳（不是很貴的那家），沒有低消，可以只喝飲料 【羅惠郡提供】]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6twqRlY04aD4Wcpgh0wRDgebk_Up7lonlhmwuqRW72h6PZN0CIz44z7h2qiLwqa1dxoXku_SNq0OSr0wdczqg_pZ8gmcq__Rg9CJ4olc6JQZB7D-4E0QMwszQE5Btuv2aUR-jo7w6iyeUCMxxqDEcfZsg6lMZAd6YUJgGOMtyInegFYknMU17BUV0DxWnrEYzQwlj7yy2RiQgMa2EO8oyS-Hkag2jRBl1iD0sr4PsIkqTBHIeuk7ucPe8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1033488,-8.8406774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Uma Beach House</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6XFrmNH2MlbWgDCMfkETA1TkzzUXnhdQnfY5-jmYKeJ2v10gGuqyDqTrtbvDuHavfoqiNCSBtKMwuV8JBekSv9C5ok2tJjoJOzweInjHPl72bAdptteW4bT9wdtakWnIKuu_VA96mwzz6OZPGrkguAH3tH8iG69lGxJBgmfISFEvJtbUsoPUT3wbCL6Ud8tJ8MqDf2-sZXOyRkqUdR91Hl3eSJrW99ggOxefGwK5GTBtFEU36NRqpw9xo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Umana Bali LXR 是希爾頓旗下頂級品牌，吃一頓飯不只可以賞海景還可以免費使用游泳池！<br><br>請看這裡的詳細介紹：https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6XFrmNH2MlbWgDCMfkETA1TkzzUXnhdQnfY5-jmYKeJ2v10gGuqyDqTrtbvDuHavfoqiNCSBtKMwuV8JBekSv9C5ok2tJjoJOzweInjHPl72bAdptteW4bT9wdtakWnIKuu_VA96mwzz6OZPGrkguAH3tH8iG69lGxJBgmfISFEvJtbUsoPUT3wbCL6Ud8tJ8MqDf2-sZXOyRkqUdR91Hl3eSJrW99ggOxefGwK5GTBtFEU36NRqpw9xo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1588054,-8.8483413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>烏魯瓦圖親子餐廳</name>
+      <Placemark>
+        <name><![CDATA[Ohana Bali Restaurant, Bar & Kidsparadise]]></name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=rtgyCnmGfEs"><img src="https://img.youtube.com/vi/rtgyCnmGfEs/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/rtgyCnmGfEs">https://www.youtube.com/embed/rtgyCnmGfEs</a><br><br>Ohana Uluwatu 餐廳。該餐廳位於峇里島烏魯瓦圖的 Jl. Labuan Sait No. 33，距離烏魯瓦圖寺約 2.5 公里。餐廳提供各種菜餚，包括印尼菜、西餐和兒童餐。餐廳還有一個兒童遊樂場和電影院，適合家庭用餐。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/rtgyCnmGfEs</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1419472,-8.8244891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cashew Tree</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=zpc6L_iRHxo"><img src="https://img.youtube.com/vi/zpc6L_iRHxo/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/zpc6L_iRHxo">https://www.youtube.com/embed/zpc6L_iRHxo</a><br><br>離Bingin懸崖頂只有一步之遙，The Cashew Tree提供從露天早午餐到家庭友好午餐，再到晚上的現場吉他表演的一切。豐富的菜單新鮮、健康、有機（想像一下碗、豐盛早餐和咖哩），有許多素食和純素菜餚，還有一個豐富的雞尾酒清單。甚至這裡還有超受歡迎的兒童戶外遊樂場]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/zpc6L_iRHxo</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1170434,-8.8069026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pangolin Kids Club</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=h5OjAxob8e8"><img src="https://img.youtube.com/vi/h5OjAxob8e8/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/h5OjAxob8e8">https://www.youtube.com/embed/h5OjAxob8e8</a><br><br>Pangolin Kids Club 是專為 0–16 歲兒童打造的遊樂空間，面積高達 1,000 m²，有兩層樓和戶外區。營運時間為每日 08:00–20:00（5 歲以下孩童需有成人陪同）。這裡結合攀爬網架、繩橋、樹屋等多元設備，並由專業人員設計每日活動，讓孩子安全放電、盡情探索。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/h5OjAxob8e8</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1229445,-8.8149125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>烏魯瓦圖購物</name>
+      <Placemark>
+        <name>ELCE - Uluwatu</name>
+        <description><![CDATA[峇里島製造的比基尼精品店<br>攻略介紹：https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.0952293,-8.8170684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Find Bali</name>
+        <description><![CDATA[設計師服飾精品店<br>攻略介紹：https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.0908172,-8.8160435,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Drifter Surf Shop</name>
+        <description><![CDATA[島嶼海洋服裝<br>攻略介紹：https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1582297,-8.6841729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SUNDAZE ULUWATU MARKET</name>
+        <description><![CDATA[烏魯瓦圖假日市集<br>攻略介紹：https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1120827,-8.8144961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>海灘俱樂部</name>
+      <Placemark>
+        <name>Oneeighty Dayclub</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=Czw4ALduV14"><img src="https://img.youtube.com/vi/Czw4ALduV14/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/Czw4ALduV14">https://www.youtube.com/embed/Czw4ALduV14</a><br><br>攻略介紹：https://gobaligo.id/blog/2023-12-07-6571846ffd89780001fe97ee/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/Czw4ALduV14</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1251216,-8.8462706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sundays Beach Club</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.1485772,-8.8459438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>White Rock Beach Club</name>
+        <description><![CDATA[這裡有優惠券：<br>https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1571038,-8.8480604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Savaya Bali</name>
+        <description><![CDATA[這裡有優惠券：<br>https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1407208,-8.8464743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tropical Temptation Beach Club by iNi Vie Hospitality</name>
+        <description>優惠券：https://gobaligo.id/go/uluwatu-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1603802,-8.8481875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karma Beach</name>
+        <description><![CDATA[這裡有優惠券：<br>https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1528783,-8.8476219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mïnoo Beach Club</name>
+        <description><![CDATA[這裡有優惠券：<br>https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.161177,-8.8482789,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Roosterfish Beach Club</name>
+        <description><![CDATA[這裡有優惠券：<br>https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1881721,-8.8438231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ulu Cliffhouse</name>
+        <description><![CDATA[這裡有優惠券：<br>https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.0916222,-8.8139684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Palmilla Bali Beach Club</name>
+        <description><![CDATA[這裡有優惠券：<br>https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1576875,-8.8479375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>El Kabron</name>
+        <description><![CDATA[這裡有優惠券：<br>https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1173275,-8.8018946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klive Beach Club</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4mOdgAqRvN5D-KKwoNScrGbjJWv1LzEj7EblJkw5Lq8s5UUxqUHM9YwzMfiKQxH6ZLPGVBFARDLi8YSQ5hgpXoSXZ93KOyhwm4cnWbyKw8uVDEb3gRTUCZD01vdZ8T4kUPuHmAMvOqOtOIMnJGpPhshN80VZubKen6whVPVa-lA9HjSsS-48zWMZsJ-xPkPJMHwSBpTJVG0B_WLQ94cRFGZOXzKRxM1zIIE_q1tQIeE4FNU8dRGOz_5_E?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看我們的攻略介紹：<br>https://gobaligo.id/go/uluwatu-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4mOdgAqRvN5D-KKwoNScrGbjJWv1LzEj7EblJkw5Lq8s5UUxqUHM9YwzMfiKQxH6ZLPGVBFARDLi8YSQ5hgpXoSXZ93KOyhwm4cnWbyKw8uVDEb3gRTUCZD01vdZ8T4kUPuHmAMvOqOtOIMnJGpPhshN80VZubKen6whVPVa-lA9HjSsS-48zWMZsJ-xPkPJMHwSBpTJVG0B_WLQ94cRFGZOXzKRxM1zIIE_q1tQIeE4FNU8dRGOz_5_E?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1518434,-8.8472501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>無敵海景villa/渡假村</name>
+      <Placemark>
+        <name>峇里島烏魯瓦圖安納塔拉度假酒店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4tuLf0j00GFTkrbz-EP_jVfclxeyeN2VQx3kd79tPn1-Ad2KIMSdKrXEkt_vgi0_AI88LXqN6Ms5A15ht1rcslZrjNxU1Dtfl4E5ZARHJ4CRSyR0cv17dy4sSnjFpnk0Wu3QP6VXlgNE-jLpI4D9Uz9IueFdSXbAQX2_JGYp3JLZwnow4RDaWfa8qFedKEiHzK_h5sdteN8MPsMhZSiShhVgGJ9wePbna8GPZygQrxaSX9f5YazGW3uNI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹 & 訂房連結：<br>https://gobaligo.id/go/uluwatu-ocean-view-stay]]></description>
+        <styleUrl>#icon-1603-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4tuLf0j00GFTkrbz-EP_jVfclxeyeN2VQx3kd79tPn1-Ad2KIMSdKrXEkt_vgi0_AI88LXqN6Ms5A15ht1rcslZrjNxU1Dtfl4E5ZARHJ4CRSyR0cv17dy4sSnjFpnk0Wu3QP6VXlgNE-jLpI4D9Uz9IueFdSXbAQX2_JGYp3JLZwnow4RDaWfa8qFedKEiHzK_h5sdteN8MPsMhZSiShhVgGJ9wePbna8GPZygQrxaSX9f5YazGW3uNI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.107911,-8.8085355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Ungasan</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7_fkahUGRCV8PWTEED1mgZFNl4CuE1mhwUIsM61kzsAIsvqUAmvRu9OWUjXBh7svQi0MXBkhx_t0QRyUB8DKZzCcqA6IF4FyHLQr-TAWJsCIqAu6rpBwDfw4oGCnsbi4xRtt6HbRL0OznRwHoxu8sbHLfZnLk3ca8jpbUbJrCKHHz5-ArgFu5M8o2hM6t7JlYZc25Jv5pOj3VCx3_3r1-OVxKvFroLbqNZKn6u5WTuyhRA1HdokW8fqPE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹 & 訂房連結：<br>https://gobaligo.id/go/uluwatu-ocean-view-stay]]></description>
+        <styleUrl>#icon-1603-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7_fkahUGRCV8PWTEED1mgZFNl4CuE1mhwUIsM61kzsAIsvqUAmvRu9OWUjXBh7svQi0MXBkhx_t0QRyUB8DKZzCcqA6IF4FyHLQr-TAWJsCIqAu6rpBwDfw4oGCnsbi4xRtt6HbRL0OznRwHoxu8sbHLfZnLk3ca8jpbUbJrCKHHz5-ArgFu5M8o2hM6t7JlYZc25Jv5pOj3VCx3_3r1-OVxKvFroLbqNZKn6u5WTuyhRA1HdokW8fqPE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1485396,-8.8459287,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Radisson Blu Resort, Bali Uluwatu</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4V1QzoNtqlMu-AZaGTxXbUBdflsX5WAX-Je40Z1i6TgJyusY0hCoa6-MzQ-0YV9RtYQUSSrq8lc96PLEdOGQCWRa_WZnLiTaR3FCcKC7VLSwVpnt_0r4xjpeMWzfBfzGXqdZ1km2S46ApvV9h_y_eh1hgi4Vy-lMR862S6qI0zZCQ0GZsmYq-hTsAsW3QkGUTEL8hv66vjcNkOyKQi7yDTY3Y0SdzxAREiPHGo1EO60Fv5wexSmZhbXm0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹 & 訂房連結：<br>https://gobaligo.id/blog/2025-01-20-678e30cbfd89780001f72fc6/]]></description>
+        <styleUrl>#icon-1603-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4V1QzoNtqlMu-AZaGTxXbUBdflsX5WAX-Je40Z1i6TgJyusY0hCoa6-MzQ-0YV9RtYQUSSrq8lc96PLEdOGQCWRa_WZnLiTaR3FCcKC7VLSwVpnt_0r4xjpeMWzfBfzGXqdZ1km2S46ApvV9h_y_eh1hgi4Vy-lMR862S6qI0zZCQ0GZsmYq-hTsAsW3QkGUTEL8hv66vjcNkOyKQi7yDTY3Y0SdzxAREiPHGo1EO60Fv5wexSmZhbXm0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1104224,-8.8090744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karma Kandara</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4qIR182LvaaQNcknX2wwV46_OTMD2RsXhwO3cyNT7ymyhuANJoQGYH6kpSmvrdGdRA2SCzTP9-4g2j7rfylN_2QEJ-G-kubJu_2N6iIjdRAFPM-rpulZ_eQnWXyt9hoaeYWcLgfgwqcuhbUQWg8JOZdmrbAmXdpmhQq7JhroicxmZRy1wWwxiTc9qaWwzbx3a_MTZN0bOILc4gRoWDmxT0vZSyGxyZRpOnGBlQI3rgZmy7pY01lAelyVI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹 & 訂房連結：<br>https://gobaligo.id/go/uluwatu-ocean-view-stay]]></description>
+        <styleUrl>#icon-1603-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4qIR182LvaaQNcknX2wwV46_OTMD2RsXhwO3cyNT7ymyhuANJoQGYH6kpSmvrdGdRA2SCzTP9-4g2j7rfylN_2QEJ-G-kubJu_2N6iIjdRAFPM-rpulZ_eQnWXyt9hoaeYWcLgfgwqcuhbUQWg8JOZdmrbAmXdpmhQq7JhroicxmZRy1wWwxiTc9qaWwzbx3a_MTZN0bOILc4gRoWDmxT0vZSyGxyZRpOnGBlQI3rgZmy7pY01lAelyVI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1521449,-8.8451021,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島烏魯瓦圖萬麗度假酒店及水療中心</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6lJfnkXVp92PpfYetyEOMgqGpaUExphV7IUYmvJGXDWP7EGQcMJoAeQM1TUP5acKGksEBLmsepAal0UajgwhfqpwVuWiHf-7-whOPIuH-bargkHbu4WkiOFKgyV6_X7Bmh1zHHkZJhsKPGuDYEKc7h98NO2Z5AsNJMfP6peiUYaNdg07YNM6JovBy02-p-xN9NSZ9wv9_O-Z3bz734FeTzDZ4PTt2pZVFzCQ0PVEGCRVh4nG2rhoLzaVk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹 & 訂房連結：<br>https://gobaligo.id/blog/2025-04-10-67f76284fd89780001bede9f/]]></description>
+        <styleUrl>#icon-1603-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6lJfnkXVp92PpfYetyEOMgqGpaUExphV7IUYmvJGXDWP7EGQcMJoAeQM1TUP5acKGksEBLmsepAal0UajgwhfqpwVuWiHf-7-whOPIuH-bargkHbu4WkiOFKgyV6_X7Bmh1zHHkZJhsKPGuDYEKc7h98NO2Z5AsNJMfP6peiUYaNdg07YNM6JovBy02-p-xN9NSZ9wv9_O-Z3bz734FeTzDZ4PTt2pZVFzCQ0PVEGCRVh4nG2rhoLzaVk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.144855,-8.812979,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alila Villas Uluwatu</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6CyQSGNvySpnxOA1-jnk6ZVe784V293p-lODR6XuM4rYNOMu-2v05yi8kfSd4m7MxQ4l_i_btuua-_Z8ZLFzZ63YBgw0edwpBie9f9r_MBPup17LgNN1pqWSZ4FNiikDbuGfIf-bI4dsWct73NDATv6PHBytNGBBjaEraY_B5qdNUdjtWWevLOMxI0dl-pCE4eaqPq6eHAoSGncNO2EGjA7rPExshQQTkaVTJSjKkhXNdoV8IszrEbRVg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹 & 訂房連結：<br>https://gobaligo.id/blog/2025-04-06-67f1f8fbfd89780001607840/]]></description>
+        <styleUrl>#icon-1603-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6CyQSGNvySpnxOA1-jnk6ZVe784V293p-lODR6XuM4rYNOMu-2v05yi8kfSd4m7MxQ4l_i_btuua-_Z8ZLFzZ63YBgw0edwpBie9f9r_MBPup17LgNN1pqWSZ4FNiikDbuGfIf-bI4dsWct73NDATv6PHBytNGBBjaEraY_B5qdNUdjtWWevLOMxI0dl-pCE4eaqPq6eHAoSGncNO2EGjA7rPExshQQTkaVTJSjKkhXNdoV8IszrEbRVg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1371257,-8.8461296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Edge Bali Villas</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7fQkS38k93FOJalYap96A3U-iiA0OqGrizkTECXbqoECTFOYSqGpC1UwAq541Tsfvt9zvsP42x4cVnqD7XE_TI5Rvqsrtz2I53zTtSpqjOhhexHV_BcFdTtGYvSBgZU2dz3kEO2huhLFHyamFMCrsxdAJ0UClok8QKZGwk42vzPqV3eCte1j2kAiEE4CXN8LtbFgACHkRGE1sie1tG5qV0-A8MRPFRywD5rO5fQfAH2jThI08qcp_8Wvg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹 & 訂房連結：<br>https://gobaligo.id/go/uluwatu-ocean-view-stay]]></description>
+        <styleUrl>#icon-1603-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7fQkS38k93FOJalYap96A3U-iiA0OqGrizkTECXbqoECTFOYSqGpC1UwAq541Tsfvt9zvsP42x4cVnqD7XE_TI5Rvqsrtz2I53zTtSpqjOhhexHV_BcFdTtGYvSBgZU2dz3kEO2huhLFHyamFMCrsxdAJ0UClok8QKZGwk42vzPqV3eCte1j2kAiEE4CXN8LtbFgACHkRGE1sie1tG5qV0-A8MRPFRywD5rO5fQfAH2jThI08qcp_8Wvg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1380981,-8.8348308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島寶格麗度假村</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7_i0AeFjgIA8VS8loCk-DxSx049auLZAED8inHRlLq96nXCcejOca6YY1Z2kHJW1mi2i7PKv2B64i2np99eHPFQQtKGxjnECJTlTHIO7pZwN5R4hbZ7ckXkgzct-Cu4dhJyL4Hr4vyeml-dGktSQIXxZ-MP9EOQA-FilaRCuqYN88JeXlOz0SGzxmyANUjPTEvy9SudkUXhsJjR9AtbOyv0gJ_CMBGB3RS5bA4kI8Ff0Y9DEFvmS8UBSw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹 & 訂房連結：<br>https://gobaligo.id/blog/bvlgari-resort-bali/]]></description>
+        <styleUrl>#icon-1603-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7_i0AeFjgIA8VS8loCk-DxSx049auLZAED8inHRlLq96nXCcejOca6YY1Z2kHJW1mi2i7PKv2B64i2np99eHPFQQtKGxjnECJTlTHIO7pZwN5R4hbZ7ckXkgzct-Cu4dhJyL4Hr4vyeml-dGktSQIXxZ-MP9EOQA-FilaRCuqYN88JeXlOz0SGzxmyANUjPTEvy9SudkUXhsJjR9AtbOyv0gJ_CMBGB3RS5bA4kI8Ff0Y9DEFvmS8UBSw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1216909,-8.8429187,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AYANA Villas Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5bgFHNpLV1P7-y-3AxxbTwrLLFxzocVqQYL6OoIMtwVr3FtiwST22QolOfPbJssdqJy1PXYfKsCLiToYZtyLCmrLgUU1UGMKf8fZzvHOrvsjMKKBCSH5zug_phyGvhXFEixiIkVRX5orwR4qbFi0hhC2S8QYVH9A7gzpp_9lEDGe9RvMzbTPNY3FH3ktUnRCiR9JMyrfbpwWt-dn1YdDUvwi0bN08w709WyNJA0R0D-S9-9oYQPkjLLkM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹 & 訂房連結：<br>https://gobaligo.id/go/ayana-guide]]></description>
+        <styleUrl>#icon-1603-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5bgFHNpLV1P7-y-3AxxbTwrLLFxzocVqQYL6OoIMtwVr3FtiwST22QolOfPbJssdqJy1PXYfKsCLiToYZtyLCmrLgUU1UGMKf8fZzvHOrvsjMKKBCSH5zug_phyGvhXFEixiIkVRX5orwR4qbFi0hhC2S8QYVH9A7gzpp_9lEDGe9RvMzbTPNY3FH3ktUnRCiR9JMyrfbpwWt-dn1YdDUvwi0bN08w709WyNJA0R0D-S9-9oYQPkjLLkM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1366264,-8.788001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島烏魯瓦圖六善酒店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4U_vYSqWr7_LVfVaTs83DyBeO64-7ppDon9WcIsqBA6d2oKoV0vZJKq9ny59NP4NFMUA2AJCOOzhC8k7Uvcm7UxQinPzuJa87ecT-YWH3il7f_x2PQzOwdOrZm0LeL7P5wBqUInE9PJGALHLiLYBqeZP73HGMAjlg6opHM8B4oEL2pIxcS-b83IkCRumkLpK-SqNNvw6usdlMsrgtl8PUdbAybWddc9cS82q_uUH68gwtS_wtawzvUPpo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹 & 訂房連結：<br>https://gobaligo.id/go/six-sense-uluwatu-unboxing]]></description>
+        <styleUrl>#icon-1603-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4U_vYSqWr7_LVfVaTs83DyBeO64-7ppDon9WcIsqBA6d2oKoV0vZJKq9ny59NP4NFMUA2AJCOOzhC8k7Uvcm7UxQinPzuJa87ecT-YWH3il7f_x2PQzOwdOrZm0LeL7P5wBqUInE9PJGALHLiLYBqeZP73HGMAjlg6opHM8B4oEL2pIxcS-b83IkCRumkLpK-SqNNvw6usdlMsrgtl8PUdbAybWddc9cS82q_uUH68gwtS_wtawzvUPpo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1298202,-8.8442826,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Le Cliff Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6r912CA4DDsG-eOBrSfjOxXnyrqqpKJ_gVIstB_oaP-PUM12zXNQ39kd5UnW0wlSu1gL54k-iCBG-RZzpDoFsu5QPU_kWPneqwlgVCaD_Xjk-h3Ydrxsw968NR6GclCoV4pfrbWQg6jt_OMNbJxQPTKrjT2L2R9kgPe9ms_CwbqM8eLsnGqRbabst4pH28BrCUVFNurm13iiLdC_X-ZO7h_Vt-SPG3660T9K94phcLjZqOiPNNmbrP0kY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹 & 訂房連結：<br>https://gobaligo.id/blog/le-cliff-bali/]]></description>
+        <styleUrl>#icon-1603-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6r912CA4DDsG-eOBrSfjOxXnyrqqpKJ_gVIstB_oaP-PUM12zXNQ39kd5UnW0wlSu1gL54k-iCBG-RZzpDoFsu5QPU_kWPneqwlgVCaD_Xjk-h3Ydrxsw968NR6GclCoV4pfrbWQg6jt_OMNbJxQPTKrjT2L2R9kgPe9ms_CwbqM8eLsnGqRbabst4pH28BrCUVFNurm13iiLdC_X-ZO7h_Vt-SPG3660T9K94phcLjZqOiPNNmbrP0kY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1052015,-8.8102828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hidden Hills Villas</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X40C-NkUkclJevvbMYj3U3JWiRIkLpgTTvqGws0exLoyaDTn9V44-Vw7oMoTZjoeI2VIa5IJVm7hDmd06NBtwl7qlsetVuw7_ARm8g-RGAFPwClHnREP-2FON8ftyCUeGtF_1t__21IJMNK71URGORH7FNqVIFI4o6soohHrF7H3ZVorQIVHcWtls3p6nGX9SGG_qFDATq1bQYGhSir8KFwwE764WEFLpe2hZogif_k2UEDfc1CtBoAYqM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹 & 訂房連結：<br>https://gobaligo.id/go/uluwatu-ocean-view-stay]]></description>
+        <styleUrl>#icon-1603-C2185B</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X40C-NkUkclJevvbMYj3U3JWiRIkLpgTTvqGws0exLoyaDTn9V44-Vw7oMoTZjoeI2VIa5IJVm7hDmd06NBtwl7qlsetVuw7_ARm8g-RGAFPwClHnREP-2FON8ftyCUeGtF_1t__21IJMNK71URGORH7FNqVIFI4o6soohHrF7H3ZVorQIVHcWtls3p6nGX9SGG_qFDATq1bQYGhSir8KFwwE764WEFLpe2hZogif_k2UEDfc1CtBoAYqM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.119271,-8.820433,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

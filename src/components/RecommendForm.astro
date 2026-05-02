@@ -1,0 +1,307 @@
+---
+interface Props {
+  areaName: string;
+  areaSlug: string;
+}
+
+const { areaName, areaSlug } = Astro.props;
+
+const APPS_SCRIPT_URL = import.meta.env.PUBLIC_MAP_FORM_URL || '';
+---
+
+<div id="recommend-overlay" class="overlay hidden" aria-modal="true" role="dialog">
+  <div class="sheet">
+    <div class="sheet-handle"></div>
+    <div class="sheet-header">
+      <h2>推薦景點</h2>
+      <button id="close-form" aria-label="關閉">✕</button>
+    </div>
+
+    <form id="recommend-form">
+      <input type="hidden" name="area" value={areaName} />
+      <input type="hidden" name="areaSlug" value={areaSlug} />
+
+      <div class="field">
+        <label for="spot-name">景點名稱 <span class="required">*</span></label>
+        <input type="text" id="spot-name" name="spotName" placeholder="例：Warung Babi Guling Pak Malen" required />
+      </div>
+
+      <div class="field">
+        <label for="spot-type">類別 <span class="required">*</span></label>
+        <select id="spot-type" name="spotType" required>
+          <option value="" disabled selected>請選擇類別</option>
+          <option>美食餐廳</option>
+          <option>咖啡廳</option>
+          <option>景點活動</option>
+          <option>購物市集</option>
+          <option>住宿</option>
+          <option>水上活動</option>
+          <option>寺廟文化</option>
+          <option>其他</option>
+        </select>
+      </div>
+
+      <div class="field">
+        <label for="gmaps-url">Google Maps 連結</label>
+        <input type="url" id="gmaps-url" name="gmapsUrl" placeholder="https://maps.app.goo.gl/..." />
+      </div>
+
+      <div class="field">
+        <label for="note">說明（選填）</label>
+        <textarea id="note" name="note" rows="3" placeholder="推薦理由、開放時間、注意事項…"></textarea>
+      </div>
+
+      <button type="submit" class="submit-btn" id="submit-btn">送出推薦</button>
+      <p class="hint">感謝你的貢獻！景點經審核後會加入地圖 🙌</p>
+    </form>
+
+    <div id="form-success" class="success-msg hidden">
+      <div class="success-icon">✅</div>
+      <h3>已收到，謝謝！</h3>
+      <p>我們會盡快審核並加入地圖</p>
+      <button id="close-success">關閉</button>
+    </div>
+  </div>
+</div>
+
+<button id="open-recommend" class="fab">
+  <span>＋</span> 推薦景點
+</button>
+
+<style>
+  .fab {
+    position: fixed;
+    bottom: calc(20px + env(safe-area-inset-bottom, 0px));
+    right: 16px;
+    background: #2d8653;
+    color: #fff;
+    border: none;
+    border-radius: 24px;
+    padding: 13px 20px;
+    font-size: 15px;
+    font-weight: 600;
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    box-shadow: 0 4px 16px rgba(45,134,83,0.45);
+    cursor: pointer;
+    z-index: 900;
+    -webkit-tap-highlight-color: transparent;
+    font-family: inherit;
+  }
+
+  .fab:active {
+    transform: scale(0.96);
+  }
+
+  .overlay {
+    position: fixed;
+    inset: 0;
+    background: rgba(0,0,0,0.45);
+    z-index: 1000;
+    display: flex;
+    align-items: flex-end;
+    transition: opacity 0.25s;
+  }
+
+  .overlay.hidden {
+    display: none;
+  }
+
+  .sheet {
+    background: #fff;
+    border-radius: 20px 20px 0 0;
+    width: 100%;
+    max-height: 92dvh;
+    overflow-y: auto;
+    padding: 0 20px calc(24px + env(safe-area-inset-bottom, 0px));
+    -webkit-overflow-scrolling: touch;
+  }
+
+  .sheet-handle {
+    width: 40px;
+    height: 4px;
+    background: #e0e0e0;
+    border-radius: 2px;
+    margin: 12px auto 0;
+  }
+
+  .sheet-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 16px 0 12px;
+  }
+
+  .sheet-header h2 {
+    font-size: 18px;
+    font-weight: 700;
+    color: #1a1a1a;
+  }
+
+  #close-form {
+    background: none;
+    border: none;
+    font-size: 18px;
+    color: #999;
+    cursor: pointer;
+    padding: 4px 8px;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  .field {
+    margin-bottom: 16px;
+  }
+
+  label {
+    display: block;
+    font-size: 13px;
+    font-weight: 600;
+    color: #444;
+    margin-bottom: 6px;
+  }
+
+  .required { color: #e55; }
+
+  .hidden { display: none !important; }
+
+  input[type="text"],
+  input[type="url"],
+  select,
+  textarea {
+    width: 100%;
+    border: 1.5px solid #e0e0e0;
+    border-radius: 10px;
+    padding: 12px 14px;
+    font-size: 15px;
+    font-family: inherit;
+    color: #1a1a1a;
+    background: #fafafa;
+    outline: none;
+    -webkit-appearance: none;
+    transition: border-color 0.2s;
+  }
+
+  input:focus, select:focus, textarea:focus {
+    border-color: #2d8653;
+    background: #fff;
+  }
+
+  textarea { resize: none; }
+
+  .submit-btn {
+    width: 100%;
+    background: #2d8653;
+    color: #fff;
+    border: none;
+    border-radius: 12px;
+    padding: 15px;
+    font-size: 16px;
+    font-weight: 700;
+    cursor: pointer;
+    margin-top: 4px;
+    font-family: inherit;
+    -webkit-tap-highlight-color: transparent;
+    transition: opacity 0.2s;
+  }
+
+  .submit-btn:disabled {
+    opacity: 0.6;
+  }
+
+  .hint {
+    text-align: center;
+    font-size: 12px;
+    color: #aaa;
+    margin-top: 10px;
+  }
+
+  .success-msg {
+    text-align: center;
+    padding: 32px 0;
+  }
+
+  .success-msg.hidden { display: none; }
+
+  .success-icon { font-size: 48px; margin-bottom: 12px; }
+
+  .success-msg h3 {
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 8px;
+  }
+
+  .success-msg p {
+    font-size: 14px;
+    color: #777;
+    margin-bottom: 24px;
+  }
+
+  #close-success {
+    background: #f0f0f0;
+    border: none;
+    border-radius: 10px;
+    padding: 12px 32px;
+    font-size: 15px;
+    font-weight: 600;
+    cursor: pointer;
+    font-family: inherit;
+  }
+</style>
+
+<script define:vars={{ APPS_SCRIPT_URL }}>
+  const overlay = document.getElementById('recommend-overlay');
+  const openBtn = document.getElementById('open-recommend');
+  const closeBtn = document.getElementById('close-form');
+  const form = document.getElementById('recommend-form');
+  const submitBtn = document.getElementById('submit-btn');
+  const successDiv = document.getElementById('form-success');
+  const closeSuccess = document.getElementById('close-success');
+
+  openBtn?.addEventListener('click', () => {
+    overlay?.classList.remove('hidden');
+    document.body.style.overflow = 'hidden';
+  });
+
+  function closeOverlay() {
+    overlay?.classList.add('hidden');
+    document.body.style.overflow = '';
+  }
+
+  closeBtn?.addEventListener('click', closeOverlay);
+  closeSuccess?.addEventListener('click', closeOverlay);
+
+  overlay?.addEventListener('click', (e) => {
+    if (e.target === overlay) closeOverlay();
+  });
+
+  form?.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (!APPS_SCRIPT_URL) {
+      alert('表單尚未設定，請聯絡管理員');
+      return;
+    }
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = '送出中…';
+
+    const data = new FormData(form);
+    const payload = Object.fromEntries(data.entries());
+
+    try {
+      await fetch(APPS_SCRIPT_URL, {
+        method: 'POST',
+        mode: 'no-cors',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(payload),
+      });
+
+      form.classList.add('hidden');
+      successDiv?.classList.remove('hidden');
+    } catch (err) {
+      alert('送出失敗，請稍後再試');
+      submitBtn.disabled = false;
+      submitBtn.textContent = '送出推薦';
+    }
+  });
+</script>

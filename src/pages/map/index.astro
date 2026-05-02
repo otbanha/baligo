@@ -1,0 +1,231 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import { areaMaps, thematicMaps } from '../../data/maps';
+
+const title = '峇里島攻略地圖｜各區景點互動地圖';
+const description = '峇里島 13 大區域攻略地圖，含庫塔、烏布、長谷、佩尼達島等熱門區域景點、美食、住宿一次看，手機瀏覽最佳化。';
+const lang = 'zh-tw';
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead title={title} description={description} />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #f7f5f2;
+      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
+      min-height: 100dvh;
+    }
+
+    .page-hero {
+      background: linear-gradient(135deg, #1a5c3a 0%, #2d8653 100%);
+      color: #fff;
+      padding: 28px 20px 24px;
+      text-align: center;
+    }
+
+    .page-hero h1 {
+      font-size: 22px;
+      font-weight: 700;
+      margin-bottom: 8px;
+      letter-spacing: 0.5px;
+    }
+
+    .page-hero p {
+      font-size: 14px;
+      opacity: 0.85;
+      line-height: 1.5;
+    }
+
+    .section-label {
+      font-size: 12px;
+      font-weight: 600;
+      color: #888;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      padding: 20px 16px 10px;
+    }
+
+    .map-grid {
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 12px;
+      padding: 0 16px 16px;
+    }
+
+    .map-card {
+      background: #fff;
+      border-radius: 16px;
+      padding: 16px 14px;
+      text-decoration: none;
+      color: inherit;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+      display: flex;
+      flex-direction: column;
+      gap: 6px;
+      transition: transform 0.15s, box-shadow 0.15s;
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .map-card:active {
+      transform: scale(0.97);
+      box-shadow: 0 1px 2px rgba(0,0,0,0.06);
+    }
+
+    .map-card .emoji {
+      font-size: 28px;
+      line-height: 1;
+    }
+
+    .map-card .name {
+      font-size: 15px;
+      font-weight: 700;
+      color: #1a1a1a;
+      line-height: 1.3;
+    }
+
+    .map-card .desc {
+      font-size: 12px;
+      color: #777;
+      line-height: 1.4;
+      display: -webkit-box;
+      -webkit-line-clamp: 2;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+    }
+
+    .map-card-thematic {
+      grid-column: 1 / -1;
+      flex-direction: row;
+      align-items: center;
+      gap: 14px;
+      background: linear-gradient(135deg, #fff9f0, #fff);
+      border: 1.5px solid #f0c87a;
+    }
+
+    .map-card-thematic .emoji {
+      font-size: 36px;
+      flex-shrink: 0;
+    }
+
+    .map-card-thematic .text { flex: 1; }
+
+    .arrow {
+      color: #ccc;
+      font-size: 16px;
+      flex-shrink: 0;
+    }
+
+    .footer-wrap {
+      padding-bottom: env(safe-area-inset-bottom, 0px);
+    }
+
+    .fav-entry {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      background: #fff;
+      border-radius: 14px;
+      padding: 14px 16px;
+      margin: 12px 16px 0;
+      text-decoration: none;
+      color: inherit;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.07);
+      -webkit-tap-highlight-color: transparent;
+    }
+
+    .fav-entry .icon { font-size: 24px; flex-shrink: 0; }
+
+    .fav-entry .text { flex: 1; }
+
+    .fav-entry .title {
+      font-size: 15px;
+      font-weight: 700;
+      color: #1a1a1a;
+    }
+
+    .fav-entry .sub {
+      font-size: 12px;
+      color: #999;
+      margin-top: 1px;
+    }
+
+    .fav-entry .arr { color: #ccc; font-size: 16px; }
+  </style>
+</head>
+
+<body>
+  <Header lang={lang} slug="map" />
+
+  <div class="page-hero">
+    <h1>🗺️ 峇里島攻略地圖</h1>
+    <p>選擇你要探索的區域<br>景點、美食、住宿一次掌握</p>
+  </div>
+
+  <a href="/map/favorites/" class="fav-entry">
+    <span class="icon">❤️</span>
+    <div class="text">
+      <div class="title">我的收藏</div>
+      <div class="sub" id="fav-count-index">查看已收藏的景點</div>
+    </div>
+    <span class="arr">›</span>
+  </a>
+
+  <a href="/map/itinerary/" class="fav-entry" style="border-left: 3px solid #2d8653;">
+    <span class="icon">📋</span>
+    <div class="text">
+      <div class="title">行程規劃</div>
+      <div class="sub" id="itin-count-index">規劃並分享你的行程</div>
+    </div>
+    <span class="arr">›</span>
+  </a>
+
+  <div class="section-label">分區攻略地圖</div>
+
+  <div class="map-grid">
+    {areaMaps.map(area => (
+      <a href={`/map/${area.slug}/`} class="map-card">
+        <span class="emoji">{area.emoji}</span>
+        <span class="name">{area.name}</span>
+        <span class="desc">{area.description}</span>
+      </a>
+    ))}
+  </div>
+
+  <div class="section-label">主題地圖</div>
+
+  <div class="map-grid" style="padding-bottom: 32px;">
+    {thematicMaps.map(area => (
+      <a href={`/map/${area.slug}/`} class="map-card map-card-thematic">
+        <span class="emoji">{area.emoji}</span>
+        <div class="text">
+          <div class="name">{area.name}</div>
+          <div class="desc">{area.description}</div>
+        </div>
+        <span class="arrow">›</span>
+      </a>
+    ))}
+  </div>
+
+  <div class="footer-wrap">
+    <Footer />
+  </div>
+
+  <script>
+    try {
+      const count = Object.keys(JSON.parse(localStorage.getItem('map_favs') || '{}')).length;
+      const el = document.getElementById('fav-count-index');
+      if (el && count > 0) el.textContent = `已收藏 ${count} 個景點`;
+    } catch {}
+    try {
+      const count = (JSON.parse(localStorage.getItem('map_itinerary') || '[]')).length;
+      const el = document.getElementById('itin-count-index');
+      if (el && count > 0) el.textContent = `已加入 ${count} 個景點`;
+    } catch {}
+  </script>
+</body>
+</html>

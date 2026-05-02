@@ -1,0 +1,410 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>峇里島 Top 26 素食友善餐廳 by gobaligo</name>
+    <description>「峇里島旅遊攻略」：https://gobaligo.id/</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>依受歡迎程度排名</name>
+      <Placemark>
+        <name>1. Kaukau Restaurant Ubud</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4WHOjK5L4zDy2U0dALu6fQI3z3mJQA2jKeiAs_zBcKJ7_6F-IZosR3JRTY_8EP-5a66E_O1vb4zKESO0oM_3o6bD9BAcpda2mHGsmWgfDTX9AcIYCYdIkARkkfcpY3BwVKBNUBXtvl1CxEL9ghVBbSyeyCwtMl5INoq-d5coIItzpkh-ww0jHbRJgq4ym2hGkY5Qqvh6B1BD87kt_9bdL-4uaEp5ZMciw3LEtaNgb2twgYw6ezs25QlSk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>【Travelors' Choice 2023】<br><br>KauKau 名字的靈感來自於可可或椰子殼，它是巴厘島許多菜餚的主要成分，也是巴厘島周圍常見的一種樹，象徵著對宇宙的尊重和感激。在 Kaukau，椰子的出現在菜單上得到了擴展，用大量複雜的調味料為正宗的印尼菜餚營造出優雅的氛圍。這家全日制餐廳位於底樓，其烹飪靈感來自印尼美食。如果您正在尋找精緻的體驗，考考絕對能滿足您對餐飲選擇的期望。它為餐桌帶來了風味和文化的奇妙融合。菜餚的突出之處在於採用了新鮮的食材和當地農產品，使其美味且令人難以抗拒。每天早上 7 點至晚上 10 點供應早餐、午餐、下午茶和晚餐。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4WHOjK5L4zDy2U0dALu6fQI3z3mJQA2jKeiAs_zBcKJ7_6F-IZosR3JRTY_8EP-5a66E_O1vb4zKESO0oM_3o6bD9BAcpda2mHGsmWgfDTX9AcIYCYdIkARkkfcpY3BwVKBNUBXtvl1CxEL9ghVBbSyeyCwtMl5INoq-d5coIItzpkh-ww0jHbRJgq4ym2hGkY5Qqvh6B1BD87kt_9bdL-4uaEp5ZMciw3LEtaNgb2twgYw6ezs25QlSk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2528255,-8.5222661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>2. Grazing on the Green</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6mhQQKaS_xXN-nzOXGsBt1tY2tWbHmy7wVJT6Pf-WBuBStGqjMcoBh30l5yt1ummQI9pWmLkhsRYdcYBO4XD2K1tJ7GPgkc6glW_j8lbe1pH3v6z0xUG6CHju2z6_1-O_a0CQGZdYB5NMwRiFGDT6PB7c-8S5lOfiGNDTTa_eSkqFYm_KJ1YqHLAIYtXzg1SLjT9P51ah6o-gb-RvYphosh2h3lBhhRf3kA9vCQwVtzzUWFpyuIiO_-Qw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>【Travelors' Choice 2023】<br><br>在草坪上享用地中海美食 - Finns VIP 海灘俱樂部獨有的特色；在修剪整齊的海濱草坪上享受野餐。週三至週日下午 3 點開放野餐設施，包括毯子和枕頭！<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6mhQQKaS_xXN-nzOXGsBt1tY2tWbHmy7wVJT6Pf-WBuBStGqjMcoBh30l5yt1ummQI9pWmLkhsRYdcYBO4XD2K1tJ7GPgkc6glW_j8lbe1pH3v6z0xUG6CHju2z6_1-O_a0CQGZdYB5NMwRiFGDT6PB7c-8S5lOfiGNDTTa_eSkqFYm_KJ1YqHLAIYtXzg1SLjT9P51ah6o-gb-RvYphosh2h3lBhhRf3kA9vCQwVtzzUWFpyuIiO_-Qw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1390678,-8.6662918,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>3. Bondi Restaurant</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6DGIsm2Bc3ztdw8JA-a1ksxzWZR-2s2WOQStTsgTYolsccUWO74vfuVvyTyQ-tb9xB761gHwjUVzc1_GT2jFCztNiR3LjOQ9VD9D3HwB9BhdlCGv2W9_I3zHBOjpSUYTnYbjIDiFCr-xF5AYPhFi-IzJ9oI-EmLzNBDPlI3ubi4o1et5mnttx06rYzDe86OXVs3wqJggrg5Qd4Yn-rcFhL6rmClBbj3n2ofjT5Jjmv_It2r7NorcA5Xy4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Bondi 餐廳提供現代國際美食，以最新鮮的食材烹調出從早到晚的誘人菜餚。參觀展示櫃，展示每日新鮮出爐的麵包、羊角麵包、甜甜圈、布朗尼蛋糕、餅乾、鬆餅、蛋糕、派等。全天餐飲選擇包括新鮮沙拉、綜合放牧區、令人驚嘆的燃木披薩以及專為分享而設計的精選拼盤。 Bondi 注重新鮮和風味，盡可能使用新鮮的當地食材。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6DGIsm2Bc3ztdw8JA-a1ksxzWZR-2s2WOQStTsgTYolsccUWO74vfuVvyTyQ-tb9xB761gHwjUVzc1_GT2jFCztNiR3LjOQ9VD9D3HwB9BhdlCGv2W9_I3zHBOjpSUYTnYbjIDiFCr-xF5AYPhFi-IzJ9oI-EmLzNBDPlI3ubi4o1et5mnttx06rYzDe86OXVs3wqJggrg5Qd4Yn-rcFhL6rmClBbj3n2ofjT5Jjmv_It2r7NorcA5Xy4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.139537,-8.66685,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>4. Ivy Cafe</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7FbQkp-F5Im_KDPC05-DWATx5FYDarveN15ISs2jCum0fkkTc0gYbKIpoOJEpbzcE2xN5zi7fTVn9J9j2mAIBibFfC8qUxfkc5vJq1ED9wHJLVayC3TRo7oC1bBQKPyI-oJMNjwfQVZHpOWNHMCSZkw6vlnOOSVyaQwB2ks30kP8NHIv2YY-z9NzEsbprpTgo5zKwLDxIIDScegjKwwBvSLmKC4OdpErssALOnzMU1R0HzRH5AGyNHo-Q?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Ivy 是一家舒適的餐廳，供應由最新鮮的當地食材製成的新鮮、健康和美味的食物，為您的身心提供能量。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7FbQkp-F5Im_KDPC05-DWATx5FYDarveN15ISs2jCum0fkkTc0gYbKIpoOJEpbzcE2xN5zi7fTVn9J9j2mAIBibFfC8qUxfkc5vJq1ED9wHJLVayC3TRo7oC1bBQKPyI-oJMNjwfQVZHpOWNHMCSZkw6vlnOOSVyaQwB2ks30kP8NHIv2YY-z9NzEsbprpTgo5zKwLDxIIDScegjKwwBvSLmKC4OdpErssALOnzMU1R0HzRH5AGyNHo-Q?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2628996,-8.5209276,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5. Tanah Liat</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4foUhVQtt_z5U_QainYwN5fir08wCEH4ZUGurzLvCac06MdB97y3XrmHBlNGwuUo75kFtqfRqz7cFMLzFk3Dvpc9xHSiTD3R27ygITcWxWK1pUJf4BChf2-lG7nSX8x0HYKfauQ9SvUv-LTZoymKrNePhwTTwn9w-Drtra-do7SFtL0uQeG3gZRVm2OFLEP2K-JWoLrAJcRaK7HyPBuqTZQKm5mRRC5nZSlpkeRbbkIobOrIUXQrvgqjU?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Tanah Liat 白天是陶器工作室和烹飪實驗室，晚上則搖身一變，成為一家以藝術和手工藝為靈感的餐廳，專注於體驗式美食，突出巴厘島採購的新鮮時令海鮮和植物性美食。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4foUhVQtt_z5U_QainYwN5fir08wCEH4ZUGurzLvCac06MdB97y3XrmHBlNGwuUo75kFtqfRqz7cFMLzFk3Dvpc9xHSiTD3R27ygITcWxWK1pUJf4BChf2-lG7nSX8x0HYKfauQ9SvUv-LTZoymKrNePhwTTwn9w-Drtra-do7SFtL0uQeG3gZRVm2OFLEP2K-JWoLrAJcRaK7HyPBuqTZQKm5mRRC5nZSlpkeRbbkIobOrIUXQrvgqjU?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2140328,-8.8073505,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>6. Kulkul Beach House</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4_BxBqHIVsWDKENRYcCt5I53Mf25rWeAlxZVv3cg3P7CrtHL9x7j4ID63cfDxK1CxQgdX-ndnx_O0N6x4VbBhrZ42RUuDrAd4Y3-55vVTK6XRA6t-9QizlF4Y_75jr0qXovgi5cWXkQWtLA_hScvdRsaFKRiHCuha0JEXpA5HD3R5JkGJ3KUHZHv4w_aqyQo2_NhIT6agfIl5Kq8zJp1_VBxfCQjk8maX1U_h3UNLEfEI0o6yGnp3mxio?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Kulkul 是一座別緻而悠閒的海濱別墅，最近重新開放，在充滿異國情調的努沙杜瓦海灘上可以欣賞到印度洋的最佳景觀。 Kulkul 提供輕鬆的氛圍，並在泳池旁提供小屋。全天菜單和雞尾酒專注於零浪費餐飲和以當地食材烹製的創意菜單。 Kulkul 鼓勵客人全天和晚上休閒放鬆，是體驗峇裡島海灘寧靜氛圍的完美目的地。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4_BxBqHIVsWDKENRYcCt5I53Mf25rWeAlxZVv3cg3P7CrtHL9x7j4ID63cfDxK1CxQgdX-ndnx_O0N6x4VbBhrZ42RUuDrAd4Y3-55vVTK6XRA6t-9QizlF4Y_75jr0qXovgi5cWXkQWtLA_hScvdRsaFKRiHCuha0JEXpA5HD3R5JkGJ3KUHZHv4w_aqyQo2_NhIT6agfIl5Kq8zJp1_VBxfCQjk8maX1U_h3UNLEfEI0o6yGnp3mxio?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2329138,-8.7971009,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[7. Sleeping Gajah Kitchen & Lounge]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5l3nZrHZ5YOULMUfyZnZBIr-gYmK5rYJ8P1MIT1RSYgivyEj0-h8ZoyBX2BYtqRyR0iFkn2kpATFiodhz4Cv9KAUGYcSyMOmi7FPZ_8ZhSU-C1jioUexDbK57I2-bYg5aHhijtRUvBdbIQWJPJ1_vFBxTEOc88TPW_24Y-hC5DkP0hGJqXQCU7oF9RmHLQYlihGtpl2E05k-ySmoOHMIpfad6_3IKOLOMitdarkr2a3KVUidRWHdq-lnE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>【Travelors' Choice 2023】<br><br>露天餐廳可容納 70 個座位，您可以欣賞到山丘全景和烏達河的自然聲音。我們的早餐、午餐和晚餐均採用休閒輕鬆的用餐方式，旨在以優質美食滿足您的口味。我們提供各種菜餚，如一般印尼菜、西餐，其中以我們的招牌菜為特色。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5l3nZrHZ5YOULMUfyZnZBIr-gYmK5rYJ8P1MIT1RSYgivyEj0-h8ZoyBX2BYtqRyR0iFkn2kpATFiodhz4Cv9KAUGYcSyMOmi7FPZ_8ZhSU-C1jioUexDbK57I2-bYg5aHhijtRUvBdbIQWJPJ1_vFBxTEOc88TPW_24Y-hC5DkP0hGJqXQCU7oF9RmHLQYlihGtpl2E05k-ySmoOHMIpfad6_3IKOLOMitdarkr2a3KVUidRWHdq-lnE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.4386131,-8.4772845,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>8. Kepitu Restaurant</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6ayHBoRKH2RRZaYmrPyxz_lXGCNo0p2q1DXRpiOZcJlRLbwAjT07fb2n9dkjiZ3WNSeDR_oVHXkgxYn8E_r9v4X09ASfGTnokfH9dgoB1ls_81V8O2nhr7DxYhXLsCrT8gpx9znUODxQSQ7v58waiDsW4-WC2r8Bb_CZgUeYYj7dOsZnI8wJOBN4xcXArm67csMz3nMPgFoal4YWenp8nLCGs0-yA0DbDLlnDDuZx57DtNwumfEMp2Png?authuser=0&fife=s16383" height="200" width="auto" /><br><br>【Travelors' Choice 2023】<br><br>卡永叢林度假村的 Kepitu 餐廳位於度假村的右手邊，享有 360 度的神奇景觀。供應早餐、午餐和晚餐，提供品種豐富的菜單，如全套素食、西式、印尼菜和峇裡島當地菜。 15 歲以下的兒童、老年人/行動不便的人士、無人機、榴槤不得進入我們位於 Kayon Jungle 的 Kepitu 餐廳。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6ayHBoRKH2RRZaYmrPyxz_lXGCNo0p2q1DXRpiOZcJlRLbwAjT07fb2n9dkjiZ3WNSeDR_oVHXkgxYn8E_r9v4X09ASfGTnokfH9dgoB1ls_81V8O2nhr7DxYhXLsCrT8gpx9znUODxQSQ7v58waiDsW4-WC2r8Bb_CZgUeYYj7dOsZnI8wJOBN4xcXArm67csMz3nMPgFoal4YWenp8nLCGs0-yA0DbDLlnDDuZx57DtNwumfEMp2Png?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.275087,-8.4231078,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>9. Melali Ubud</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4YwBbb4HAKw7Big5e_0Q6-D3DQ8sfYdgq_0ExxAjAV2_62noSEMr2aE98_zwWnL1z3xOatmHfRF4YZ6ZvZG0cTerge-difg-5yZM1ULIQbGZFwlR9uWne9aRYH4raq7HY1xuhwhrwY0VW8EkNz5oAeLu3fy7yb1g3xrAheYJTUoKpO3AQnC2mK9eQk8P8bTq71lguf-eYkiPiJoLl2UTzrETaVAXu8xjjzpWvzUksgOEdfCMvcoUbP_VA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>【Travelors' Choice 2023】<br><br>Melali Ubud 以其臨街的黃金位置，提供色彩繽紛的現代美食菜單，其靈感源自新鮮食材，這些食材均經過精心採購和精心準備。從豐盛的沙拉和冰沙碗到當天捕獲的海鮮、富含蛋白質的豆類和適量的紅肉，每道菜都是充滿天然美味的盤子上的慶祝活動。 Melali Ubud 的風格體現了無憂無慮的夏季庭院，可容納 40 人，提供室內和室外座位選擇。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4YwBbb4HAKw7Big5e_0Q6-D3DQ8sfYdgq_0ExxAjAV2_62noSEMr2aE98_zwWnL1z3xOatmHfRF4YZ6ZvZG0cTerge-difg-5yZM1ULIQbGZFwlR9uWne9aRYH4raq7HY1xuhwhrwY0VW8EkNz5oAeLu3fy7yb1g3xrAheYJTUoKpO3AQnC2mK9eQk8P8bTq71lguf-eYkiPiJoLl2UTzrETaVAXu8xjjzpWvzUksgOEdfCMvcoUbP_VA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2669997,-8.4848109,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>10. Bai Yun Hot Pot</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6zGf9zyIqcYY-eQfoWzBnpFdhpKfEbf0WIUJLpXDiyXS6aaTmxVH7qne62Ioshi8dVnc2Mar5_WkjXmRV3qwSCVH6Spelu927HSyFrirKjdKR_FafDY07xjj7ORu8N9z6AQFnrWP57fyE4X2hDHC7bdolEr5VZss-uZ0phQmVH_jA1b9umHzKhA_ZcCNfDgX07mJ053mr-FXBweAS6QzweDRwM4EMagtD6gaacXkXOyEoCeEOovUzE7No?authuser=0&fife=s16383" height="200" width="auto" /><br><br>【Travelors' Choice 2023 Best of the Best】<br><br>從蒙古到中國，如今又風靡東南亞，巴厘島阿普爾瓦凱賓斯基酒店最新的餐飲場所——白雲，可以享受火鍋歡樂的用餐體驗。白雲在漢語中意為“白雲”，與這家餐廳的餐飲理念產生共鳴。當火鍋產生熱量時，空氣中飄浮著蒸汽，就像白雲一樣。營業時間: 點心: 12:00 - 16:00 火鍋: 16:00 - 22:00<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6zGf9zyIqcYY-eQfoWzBnpFdhpKfEbf0WIUJLpXDiyXS6aaTmxVH7qne62Ioshi8dVnc2Mar5_WkjXmRV3qwSCVH6Spelu927HSyFrirKjdKR_FafDY07xjj7ORu8N9z6AQFnrWP57fyE4X2hDHC7bdolEr5VZss-uZ0phQmVH_jA1b9umHzKhA_ZcCNfDgX07mJ053mr-FXBweAS6QzweDRwM4EMagtD6gaacXkXOyEoCeEOovUzE7No?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.215675,-8.8291091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>11. Hiiragi Restaurant</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4S49VZnkzTZczi7OHmih8eBny_8R3pbPLop2cI9qg6ibvMw8Ul7OyGCLzlqbKym0h6SuyzDv0naSQCKuRtLjQi4yObo0G267ojIca_V3miLngyOatju49KcIEkg3vJsbM66qWNOZwWsrZj7LF4wOexFQVWu09axrxgK7bXVlijhdc2jPHGg2Y02VHWs_s9ssQ5mxdcPSAdd0ouh0vxMFjvs33ucRZIPLMqwRxR4xvqC36r_BMfofUSDhc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>讓自己沉浸在融合和品味的境界中，日本和秘魯烹飪傳統的無縫融合孕育出真正非凡的東西。加入我們，享受無與倫比的用餐體驗。我們全天供應輕鬆的菜單，供應時間為上午 7 點至下午 6 點，提供各種令人愉悅的均衡且美味的菜餚，均採用新鮮的當地食材精心製作。下午 6 點至晚上 11 點，我們的菜單提供各種精美菜餚，精心烹製，體現了日經美食的真正精髓。讓我們帶您進入一個充滿融合和風味的境界。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4S49VZnkzTZczi7OHmih8eBny_8R3pbPLop2cI9qg6ibvMw8Ul7OyGCLzlqbKym0h6SuyzDv0naSQCKuRtLjQi4yObo0G267ojIca_V3miLngyOatju49KcIEkg3vJsbM66qWNOZwWsrZj7LF4wOexFQVWu09axrxgK7bXVlijhdc2jPHGg2Y02VHWs_s9ssQ5mxdcPSAdd0ouh0vxMFjvs33ucRZIPLMqwRxR4xvqC36r_BMfofUSDhc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1507073,-8.6683241,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>12. Asri Dining by Samanvaya</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5WLkB4tgr1NW5NekRNks0_00XIGPjUXmJkATqZkxc8j-LQIqZX-3sh8pxa2QX_CY6eLZ7gzuhchL95qYkYC4w27DrVJ3alyvDJFxtzph-bpnE-pD9Eh1zuLbek7g5BfscXbHbD7kWFSlT9co1GyVY8V_IiNLQFlMWO8LNuYq_hQeSlSN4hj6Bil8tpSQXDxtIWRms4hfoDImtcucjP8Q7FWNX45HCJR-Ai_JWL1ckkR96lqOTu_oHp8Ks?authuser=0&fife=s16383" height="200" width="auto" /><br><br>【Travelors' Choice 2023】<br><br>Samanvaya 對其烹飪理念和從圍場到餐桌的美食感到自豪。盡可能採用當季、有機和當地食材，我們甚至為客人提供與我們的廚師一起探索當地食品市場的機會。從傳統的印尼菜餚到歐洲風味美食，我們致力於滿足所有口味和要求。我們飯店歡迎 10 歲以下兒童入住，直到每晚下午 6 點為止。在此之後，我們的餐廳僅向 12 歲以上的客人開放。我們也要求，如果兒童在下午 6 點前進入餐廳，請勿打擾其他用餐客人。狗：我們只允許狗進入我們餐廳的花園，所有狗都必須拴在餐桌上<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5WLkB4tgr1NW5NekRNks0_00XIGPjUXmJkATqZkxc8j-LQIqZX-3sh8pxa2QX_CY6eLZ7gzuhchL95qYkYC4w27DrVJ3alyvDJFxtzph-bpnE-pD9Eh1zuLbek7g5BfscXbHbD7kWFSlT9co1GyVY8V_IiNLQFlMWO8LNuYq_hQeSlSN4hj6Bil8tpSQXDxtIWRms4hfoDImtcucjP8Q7FWNX45HCJR-Ai_JWL1ckkR96lqOTu_oHp8Ks?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.4407987,-8.4747729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[13. Pala Restaurant & Rooftop Bar]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X56-whdHJ_l27s-C6QEZHVXJ4kFCFICwv9mVS3mL9Rjsyv5pqSaYzHEs2KMyjZDTHjfm4ak5S35Yhf8fReW2j4Rtrk5PSDfYGdJ8Ruva1JhRBzPpbxu54skc87nfTmAWed9EU0dQty6405_vIuo1gQV7Cy9yfoGM6q0Vz9BfAnskS6t5JS8ML1qt5aWgQkCEc8BfymAsHm5dLCUhLFIorzEsaz_8nvNCOzaPSFPL6p_V-iaVNbV1KDAcdw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>【Travelors' Choice 2023】<br><br>Pala Restaurant 餐廳坐落在主花園內的長水池中央，設有現場烹飪台，供應各種當地和國際美食。餐廳二樓還設有精緻的屋頂酒吧，是與朋友和家人全天放鬆的理想場所。太陽落山後，賓客將受邀在夜空下共進晚餐，揭開星星的秘密。餐廳政策： - 請注意，我們可能無法滿足您對特定座位的要求。 - 服裝要求為度假時尚：僅晚餐時間不可穿無袖上衣、短褲或夾腳拖。 - 為了方便客人，餐桌的保留時間將從預訂時間起計算為15分鐘，如果達到規定的時間，餐桌將自動釋放。 - 菜單供應情況如有變更，恕不另行通知。請聯絡餐廳以了解更多詳情。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X56-whdHJ_l27s-C6QEZHVXJ4kFCFICwv9mVS3mL9Rjsyv5pqSaYzHEs2KMyjZDTHjfm4ak5S35Yhf8fReW2j4Rtrk5PSDfYGdJ8Ruva1JhRBzPpbxu54skc87nfTmAWed9EU0dQty6405_vIuo1gQV7Cy9yfoGM6q0Vz9BfAnskS6t5JS8ML1qt5aWgQkCEc8BfymAsHm5dLCUhLFIorzEsaz_8nvNCOzaPSFPL6p_V-iaVNbV1KDAcdw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2175429,-8.8297968,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>14. St Tropez Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6OcsqImNCyJwLJp0L4Wq2h77nWklEfj_a4GQnHOcFfLzCifJn0ArNJADQT9VYA4lw8thx3CSrSWsv6JWxF7Ze7TCB75Gyc6WIk7hgdeVjc1Vt9KvWDtV6_BaYlmjCUQ3q6UIXfY0Tbh2dA7pz58TKyNiQ_xtW__ESJqUyBy65B-0YeGgIOS2sOoOMSengbO0cetwkw-LpRVLjdM4FlfAD4F0Eb1l-_XbyJufb6uC7Ix_9yPdeXcICdhJs?authuser=0&fife=s16383" height="200" width="auto" /><br><br>位於世界最佳海灘俱樂部，加入我們的聖特羅佩，享用世界一流的地中海美食和美味飲料。來享用午餐、日落、晚餐，並觀看我們的現場表演和娛樂活動的派對。用餐、跳舞，享受適合所有年齡層的難忘體驗。很快在聖特羅佩再見！<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6OcsqImNCyJwLJp0L4Wq2h77nWklEfj_a4GQnHOcFfLzCifJn0ArNJADQT9VYA4lw8thx3CSrSWsv6JWxF7Ze7TCB75Gyc6WIk7hgdeVjc1Vt9KvWDtV6_BaYlmjCUQ3q6UIXfY0Tbh2dA7pz58TKyNiQ_xtW__ESJqUyBy65B-0YeGgIOS2sOoOMSengbO0cetwkw-LpRVLjdM4FlfAD4F0Eb1l-_XbyJufb6uC7Ix_9yPdeXcICdhJs?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.139073,-8.6661613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>15. Botanist Restaurant Ubud</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5p8U_TJJN_WDUwaOjdxjoNSjLEko3xpEJgwSESqjUp2IgzRhFgvvp42_x_wAjqcbyhS2oeHbU9JtTWnt7yV5w4e6wQ42I-NDFN6T8Z47DwiL7x-IOAjNK15YnFEZJ12ZLVjS-LX3Snhso3-0di-OWfNc9wfEMZ1PLrOeqFG1qBuitOez50pxuYeFDfFEtPEt7wFs-BnOnaG_6ETDN_xgjuRek_nqKgD6iUr3a8UfPMW0-GUvnWpXIjom0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>【Travelors' Choice 2023】<br><br>在 Blue Karma Dijiwa Ubud 的 Botanist 餐廳享用全球風味美食和健康美食。我們富有創意的廚師選用當地食材和超級食品，為全天的餐點打造美味佳餚。特色菜餚包括促進健康的辣木和抹茶，以及來自陸地和海洋的其他產品。走進 Botanist 餐廳的開放式環境，您會發現自己置身於一個充滿天然木材和印尼藝術品和紡織品的迷人鄉村別緻空間。坐在一張桌子或一張舒適的沙發上，讓微風拂面。用一杯新鮮果汁和一碗富含維生素的冰沙開始新的一天。午餐供應包括絲滑湯、抹茶烤鮭魚和色彩繽紛的脆沙拉。晚上來這裡享用豐盛的燒烤豬肋排、義大利麵或素食咖哩。您的餐點可搭配我們自製的康普茶、一杯冷雞尾酒或一杯葡萄酒。我們的菜單旨在滿足所有類型的飲食需求<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5p8U_TJJN_WDUwaOjdxjoNSjLEko3xpEJgwSESqjUp2IgzRhFgvvp42_x_wAjqcbyhS2oeHbU9JtTWnt7yV5w4e6wQ42I-NDFN6T8Z47DwiL7x-IOAjNK15YnFEZJ12ZLVjS-LX3Snhso3-0di-OWfNc9wfEMZ1PLrOeqFG1qBuitOez50pxuYeFDfFEtPEt7wFs-BnOnaG_6ETDN_xgjuRek_nqKgD6iUr3a8UfPMW0-GUvnWpXIjom0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2629199,-8.4777558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>16. Prego at The Westin Resort Nusa Dua, Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X56Q5hPHuO6hW1IvYxoz-ScGFrKYCmg_FukJd4FNek-FiEwYO5iAPCDrVA8iHGKO0hx9PNxTIx-3NA5Ecmn9oZTFFxgxXi12OFR6ZmSvzSZUBmumq5-qlnzVxDAugO-SuErGmlnoaI2eRudxTLX7zIsA2anUUmKuDn8oMgBddMzFwPkuNvtzvZAiHOGbDfaUIyY5uhq2QiWQYiJwQVgc5DdxYUzziJ7DPtQXVn5kBFhy1HKJ9Sp0eoLUjo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>【Travelors' Choice 2023】<br><br>這家熱鬧的餐廳被視為峇裡島頗受歡迎的義大利餐廳，是全家人享用正宗義大利美食的理想場所。這將是一個誘人的空間，色彩繽紛的裝飾和開放式廚房中烹飪的食物的香氣吸引著感官。從新鮮出爐的麵包和披薩到配有經典醬汁的自製麵食，整個菜單將為那些在巴厘島尋找正宗意大利餐廳的人們提供誘人的選擇。即使只是一杯美味的咖啡和甜點或深夜一杯葡萄酒，每個人都會在 Prego 感到受歡迎！每週日中午 12 點至下午 4 點供應週日早午餐。探索無限暢吃的義大利節日，如開胃菜桌、義式烤麵包吧、義大利熟食店、冰上海鮮、托斯卡納廚房、Bistecca Di Fiorentina、披薩吧、義大利麵實驗室、燒烤店、Dolce -我們的甜點和冰淇淋杯還有更多。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X56Q5hPHuO6hW1IvYxoz-ScGFrKYCmg_FukJd4FNek-FiEwYO5iAPCDrVA8iHGKO0hx9PNxTIx-3NA5Ecmn9oZTFFxgxXi12OFR6ZmSvzSZUBmumq5-qlnzVxDAugO-SuErGmlnoaI2eRudxTLX7zIsA2anUUmKuDn8oMgBddMzFwPkuNvtzvZAiHOGbDfaUIyY5uhq2QiWQYiJwQVgc5DdxYUzziJ7DPtQXVn5kBFhy1HKJ9Sp0eoLUjo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2305694,-8.7962003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>17. Kemangi Ubud Resto</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X59w7-lJCEGAtUS8lzyjcFxLSfhfXITJEWppKOIhxLK5VV5b0WduQYuutwZfNZ_F1X5E2GfM2myQXJMpDortJYlX7hXne7M5jtqjzXSECOXGiD72_o89wF1IdaGqXjrYDJh7WJQyD9fU2IQPJg-MasZb_XV1_RLzJ3Yped5Fpme0KVrnKzOECic9v2gEEqIoN7Q-No3KSj2ImQa9A6fD41MgcQ9EFaNPtiTlCibXFbDnPxR8fyPUsfbSrc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>在烏布市中心的 Kemangi Ubud Resto 餐廳，盡情享受充滿異國風味的正宗巴厘島和國際菜餚的美食之旅。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X59w7-lJCEGAtUS8lzyjcFxLSfhfXITJEWppKOIhxLK5VV5b0WduQYuutwZfNZ_F1X5E2GfM2myQXJMpDortJYlX7hXne7M5jtqjzXSECOXGiD72_o89wF1IdaGqXjrYDJh7WJQyD9fU2IQPJg-MasZb_XV1_RLzJ3Yped5Fpme0KVrnKzOECic9v2gEEqIoN7Q-No3KSj2ImQa9A6fD41MgcQ9EFaNPtiTlCibXFbDnPxR8fyPUsfbSrc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.254381,-8.5075453,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>18. Seminyak Kitchen</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X52DIyZgVvAhF7lsiRPBUNbtmZnFa56km-7iWeHW7oAmeFt_zTiO1MXU-qouaYAlLabQwLcVC0jJxaH1kGgP3sk3KcFmrITZRvnk0-oE2uiWqy2hg0kJ18EzfJTm9RB_LV30QZA1n20EDjfnlgc3dhZVzjWaBUFozi4XhNj0nPTzxyfYB9TTRvzc8as2Gb9F2LbH3ErmH-4CKV7X97OV7iNyCZIfqmWqZmmaWhvqij1u8eyPyKoKlVvcMw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>【Travelors' Choice 2023】<br><br>水明漾廚房提供多種當地最受歡迎的亞洲和國際菜餚，我們才華橫溢的廚師在我們的開放式廚房中在您眼前展示他們的技能。最重要的是，我們訓練有素且細心的團隊將確保您在水明漾中心享受難忘的用餐體驗。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X52DIyZgVvAhF7lsiRPBUNbtmZnFa56km-7iWeHW7oAmeFt_zTiO1MXU-qouaYAlLabQwLcVC0jJxaH1kGgP3sk3KcFmrITZRvnk0-oE2uiWqy2hg0kJ18EzfJTm9RB_LV30QZA1n20EDjfnlgc3dhZVzjWaBUFozi4XhNj0nPTzxyfYB9TTRvzc8as2Gb9F2LbH3ErmH-4CKV7X97OV7iNyCZIfqmWqZmmaWhvqij1u8eyPyKoKlVvcMw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.162374,-8.691726,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>19. Bee Cafe Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4rwLEKPYURgcMZl82RsSu9Bm-6STJjFkkfViuGV0MoZyCSdkTFlt7TXPAoWg2BJJ1HtwF-TLthFr0XvysnH9wQSTw_dcSONR-MQ3OM7Bxhbsu9pbbbAObjiKMXXyMzT47RY8cy7yUw25xpg3xWahkSPRyimdOhicW5-iVUfB9ECcdDp19P_xA5dcLq__OtrDGGS1ufKq-KQ9jXNoE-hh4Bvh4VARrfVqPJJ1VgVxj2a6SkbYFZTiJ6_As?authuser=0&fife=s16383" height="200" width="auto" /><br><br>【Travelors' Choice 2023】<br><br>蜜蜂咖啡館 (Bee Café) 坐擁鬱鬱蔥蔥的稻田美景，其建造時考慮了 Wantilan Subak（灌溉社區住宅）。這裡是所有農民勞作後聚集休息吃飯的地方。因此，如果您正在尋找正宗的巴厘島體驗，同時享受美味的印尼美食，那麼這裡就是您的最佳選擇。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4rwLEKPYURgcMZl82RsSu9Bm-6STJjFkkfViuGV0MoZyCSdkTFlt7TXPAoWg2BJJ1HtwF-TLthFr0XvysnH9wQSTw_dcSONR-MQ3OM7Bxhbsu9pbbbAObjiKMXXyMzT47RY8cy7yUw25xpg3xWahkSPRyimdOhicW5-iVUfB9ECcdDp19P_xA5dcLq__OtrDGGS1ufKq-KQ9jXNoE-hh4Bvh4VARrfVqPJJ1VgVxj2a6SkbYFZTiJ6_As?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2741602,-8.5169923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>20. Herb Library Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7f87jTDNj86VfsrWkmwfoGHo6P_gGOQpX3-tK88_GP3BYI0BBCGb4LZ8rA2REu7bbWcZ1bG_VGRbgNAb_kI7jZ9pW86k_3baEMdLl1TkKHI9NQ05Ks0ck217LkGWpCqUmKnbNwSPBYtywCrVA7ibQr7Cd8MFxfiVcBgrlHGhTOtYFzQBvXOY6qNP_wXO7VOKVkfZxl6SkgH-cG0lvzhiMc0d4v3li0knYCXqF7mGHwACNYWKNSiR4wESI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>【Travelors' Choice 2023 Best of the Best】<br><br>它提供由生食倡導者精心製作且營養均衡的菜單。與度假村的阿育吠陀健康理念相得益彰。明確聚焦在植物性美食以及可持續養殖的雞肉和魚。<br><br>介紹文：https://gobaligo.id/go/bali-vegan-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7f87jTDNj86VfsrWkmwfoGHo6P_gGOQpX3-tK88_GP3BYI0BBCGb4LZ8rA2REu7bbWcZ1bG_VGRbgNAb_kI7jZ9pW86k_3baEMdLl1TkKHI9NQ05Ks0ck217LkGWpCqUmKnbNwSPBYtywCrVA7ibQr7Cd8MFxfiVcBgrlHGhTOtYFzQBvXOY6qNP_wXO7VOKVkfZxl6SkgH-cG0lvzhiMc0d4v3li0knYCXqF7mGHwACNYWKNSiR4wESI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2668399,-8.5099788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>烏布額外推薦（陳芊伊提供）</name>
+      <Placemark>
+        <name>Sawobali</name>
+        <description>這家應該是烏布最有名的 vegan 自助餐之一，IDR 75,000 吃到飽！菜色超級多樣，從咖哩、炒蔬菜、豆腐料理到沙拉，每樣都新鮮可口。甜點也很用心，尤其是我一喝就愛上的「檸檬香茅 Soto 湯」，酸香清爽，我竟然連喝三碗 😆。店面位置就在烏布皇宮附近，地點非常方便，無論是觀光還是散步都能順路走來用餐。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2684268,-8.5118791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Run's Warung]]></name>
+        <description>這間餐廳不是純素，但菜單上有多款蔬食選擇，味道也很不錯。我特別推薦他們的 Grilled Coconut 烤椰子🥥，真的太驚豔了！在臺灣我幾乎不太會點椰子水，但在這裡喝到之後徹底改觀，第一次覺得椰子水可以這麼甘甜順口。小店氛圍輕鬆，很適合旅途中停下來休息。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2669564,-8.509384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wulan Vegetarian Warung</name>
+        <description>這家是專賣素食的 warung，價格親民，份量十足。他們的餐點幾乎每一碗都大到驚人，食材簡單卻很有味道。最喜歡那種「很隨興卻很用心」的感覺，一個人來用餐也完全不尷尬。烏布待久了會想再三回訪的那種店。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2659441,-8.5087744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warteg Bulango</name>
+        <description>這是我心目中「宵夜救星」💯。這間店走的是印尼傳統自助餐（warteg）風格，重點是 24 小時營業，完全不怕太晚肚子餓！每天菜色都不同，幾乎全是素食或方便素，種類豐富到我常常站在櫃檯前猶豫超久才決定 😂。價格更是佛心，隨便夾個三四樣菜也就幾萬盾，有次還買了一個 IDR 5,000 的麵包，結果驚為天人，好吃到覺得自己挖到寶。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.271841,-8.5446511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>長谷額外推薦（陳芊伊提供）</name>
+      <Placemark>
+        <name>OMA JAMU VEGAN</name>
+        <description>這是一家頗受歡迎的 vegan 自助餐廳，從早餐、午餐到晚餐都有供應。早餐在網路上的評價特別高，不過因為我的住宿已經附早餐，所以我是來這裡吃晚餐。菜色選擇豐富，色彩繽紛，每樣看起來都很乾淨健康。我在這裡吃到一份「豆腐排」，外酥內嫩，味道超棒，讓我印象很深刻。整體用餐環境也很舒服，帶點小清新的 vibe，很適合慢慢享用。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1434387,-8.6405998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Pande Vegan</name>
+        <description>如果想體驗在地平價美食，這間一定要來！招牌的 Nasi Campur（印尼什錦飯）只要 IDR 35,000，份量十足，味道更是好吃到停不下來。椰子水也是必點，一大顆冰冰涼涼的只要 IDR 15,000，邊吃邊喝特別過癮。印尼的 Nasi Campur 幾乎都會附一點花生醬，我超愛這個味道，甜甜鹹鹹又帶點堅果香，完全是靈魂所在 ❤️。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1512671,-8.6290448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
