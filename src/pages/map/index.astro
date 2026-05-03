@@ -22,23 +22,15 @@ const lang = 'zh-tw';
     }
 
     .page-hero {
-      background: linear-gradient(135deg, #1a5c3a 0%, #2d8653 100%);
-      color: #fff;
-      padding: 28px 20px 24px;
-      text-align: center;
+      display: block;
+      width: 100%;
+      line-height: 0;
     }
 
-    .page-hero h1 {
-      font-size: 22px;
-      font-weight: 700;
-      margin-bottom: 8px;
-      letter-spacing: 0.5px;
-    }
-
-    .page-hero p {
-      font-size: 14px;
-      opacity: 0.85;
-      line-height: 1.5;
+    .page-hero img {
+      width: 100%;
+      height: auto;
+      display: block;
     }
 
     .section-label {
@@ -162,8 +154,7 @@ const lang = 'zh-tw';
   <Header lang={lang} slug="map" />
 
   <div class="page-hero">
-    <h1>🗺️ 峇里島攻略地圖</h1>
-    <p>選擇你要探索的區域<br>景點、美食、住宿一次掌握</p>
+    <img src="/map-banner.jpg" alt="峇里島攻略地圖 — 選擇你要探索的區域，景點、美食、住宿一次掌握" width="800" height="400" />
   </div>
 
   <a href="/map/favorites/" class="fav-entry">
