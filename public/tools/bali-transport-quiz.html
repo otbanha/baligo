@@ -44,7 +44,9 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-seri
 .result-card { background: #fff; border: 0.5px solid #ddd; border-radius: 12px; padding: 1.25rem; margin-bottom: 0.75rem; }
 .result-hero { display: flex; align-items: center; gap: 14px; margin-bottom: 0.75rem; }
 .result-icon { width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 22px; flex-shrink: 0; }
-.ri-charter { background: #E1F5EE; } .ri-app { background: #E6F1FB; } .ri-moto { background: #FAEEDA; }
+.ri-charter { background: #E1F5EE; }
+.ri-app { background: #E6F1FB; }
+.ri-moto { background: #FAEEDA; }
 .result-title { font-size: 20px; font-weight: 500; }
 .result-sub { font-size: 13px; color: #888; }
 .result-desc { font-size: 14px; line-height: 1.7; margin-bottom: 0.75rem; }
@@ -59,12 +61,15 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-seri
 .score-label { width: 72px; color: #888; }
 .score-track { flex: 1; height: 6px; background: #e5e5e5; border-radius: 3px; overflow: hidden; }
 .score-fill { height: 100%; border-radius: 3px; transition: width 0.6s ease 0.15s; }
-.fc { background: #1D9E75; } .fa { background: #378ADD; } .fm { background: #EF9F27; }
+.fc { background: #1D9E75; }
+.fa { background: #378ADD; }
+.fm { background: #EF9F27; }
 .score-num { width: 28px; text-align: right; font-weight: 500; font-size: 12px; }
 .link-btn { display: block; width: 100%; border: 0.5px solid #ddd; border-radius: 8px; padding: 10px 16px; text-align: center; cursor: pointer; font-size: 13px; color: #555; background: transparent; margin-bottom: 0.5rem; font-family: inherit; text-decoration: none; }
 .link-btn:hover { background: #f5f5f5; }
 .restart-btn { display: block; width: 100%; border: none; background: transparent; padding: 8px; text-align: center; cursor: pointer; font-size: 12px; color: #aaa; font-family: inherit; }
 .restart-btn:hover { color: #555; }
+.multi-counter { font-size: 11px; color: #888; margin-top: 8px; text-align: right; }
 @media (max-width: 400px) {
   .options { grid-template-columns: 1fr; }
   .q-text { font-size: 16px; }
@@ -79,42 +84,64 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-seri
 </div>
 
 <script>
+/*
+ * 計分邏輯 v2 — 整合 17 條判斷規則
+ * --------------------------------
+ * 規則對應：
+ * - 跨區長途 / 多景點 / 換住宿 / 打卡景點 → Q2「行程強度」涵蓋
+ * - 鬧區移動 / 短途來回 → Q2 鬧區單點選項
+ * - 兩三人以上 / 帶小孩 / 拍大合照 → Q1 + Q3「帶小孩」選項（家庭已選則隱藏避免重複）
+ * - 抵達需換匯辦SIM、女生獨旅、雨季、郊區、需講解、行李多 → Q3 多選情境
+ * - 不想等車/貴賓禮遇/想交朋友 → 結果頁 desc 文案，非計分題
+ *
+ * 平衡原則：Q1/Q2 ±2~4 為主軸，Q3 多選每項 ±1.5 最多 4 項
+ */
+
 const STEPS = [
   {
-    id: 'situation',
-    text: '你的情況是？',
-    hint: '可多選，全部點完再按下一步',
-    multi: true,
-    cols: 2,
+    id: 'group_size',
+    text: '這趟峇里島是幾個人？',
+    cols: 1,
     options: [
-      { label: '剛抵達，需換匯辦SIM卡', color: 'green', score: { charter: 3, app: 0, moto: 0 } },
-      { label: '跨區換宿＋跑景點', color: 'green', score: { charter: 3, app: 0, moto: -3 } },
-      { label: '三人以上 / 家庭出遊', color: 'green', score: { charter: 3, app: 0, moto: 0 } },
-      { label: '鬧區移動', color: 'blue', score: { charter: 0, app: 2, moto: 1 } },
-      { label: '女生獨旅', color: 'green', score: { charter: 3, app: 0, moto: -1 } },
-      { label: '雨季 / 天氣不穩定', color: 'amber', score: { charter: 2, app: 0, moto: -2 } },
-      { label: '住郊區或偏遠地區', color: 'green', score: { charter: 3, app: 0, moto: 0 } },
-      { label: '需要有人拍照 / 講解', color: 'green', score: { charter: 2, app: 0, moto: 0 } },
+      { label: '一個人', color: 'amber', score: { charter: 0, app: 1, moto: 2 } },
+      { label: '兩個人 / 情侶', color: 'blue',  score: { charter: 2, app: 2, moto: -1 } },
+      { label: '三人以上 / 家庭出遊（含帶小孩）', color: 'green', score: { charter: 4, app: 0, moto: -4 } },
     ]
   },
   {
     id: 'itinerary',
-    text: '今天的行程？',
+    text: '今天的行程性質？',
     cols: 1,
     options: [
-      { label: '多景點跨區移動', color: 'green', score: { charter: 3, app: 0, moto: 0 } },
-      { label: '鬧區單點來回', color: 'blue', score: { charter: 0, app: 2, moto: 1 } },
-      { label: '還沒決定，隨興走', color: 'amber', score: { charter: 0, app: 1, moto: 0 } },
+      { label: '跨區長途移動（庫塔→烏布、海神廟等）', color: 'green', score: { charter: 4, app: -2, moto: -3 } },
+      { label: '一天跑兩三個以上景點', color: 'green', score: { charter: 3, app: -1, moto: -2 } },
+      { label: '熱門打卡景點（需長時間排隊）', color: 'green', score: { charter: 2.5, app: -0.5, moto: -1 } },
+      { label: '鬧區短途、單點來回', color: 'blue', score: { charter: -1, app: 2, moto: 2 } },
+      { label: '還沒決定，隨興走', color: 'amber', score: { charter: 1, app: 1, moto: 0 } },
     ]
   },
   {
-    id: 'solo_mode',
-    text: '一個人的話，偏好？',
-    cols: 1,
-    skipIf: function(a) { var s = a.situation || []; return s.some(function(i){ return i === 2; }); },
+    id: 'situation',
+    text: '還有哪些狀況？',
+    hint: '可複選最多 4 項，沒有也可以略過',
+    multi: true,
+    maxSelect: 4,
+    optional: true,
+    cols: 2,
     options: [
-      { label: '省錢優先', color: 'amber', score: { charter: 0, app: 0, moto: 2 } },
-      { label: '安全舒適優先', color: 'blue', score: { charter: 1, app: 1, moto: 0 } },
+      { label: '剛抵達，需換匯辦SIM卡上超市', color: 'green', score: { charter: 2, app: 0, moto: -1 } },
+      { label: '行李多 / 換住宿 / 趕飛機', color: 'green', score: { charter: 2, app: -0.5, moto: -3 } },
+      { label: '雨季 / 天氣不穩定', color: 'amber', score: { charter: 1.5, app: 0, moto: -2.5 } },
+      { label: '住郊區或偏遠地區', color: 'green', score: { charter: 2, app: -1, moto: -1.5 } },
+      { label: '需要有人拍照 / 講解', color: 'green', score: { charter: 1.5, app: 0, moto: -2 } },
+      // 「帶小孩」只在非家庭出遊時出現（家庭已 +4，不重複加分）
+      { label: '帶小孩，希望多人照顧', color: 'green', score: { charter: 1.5, app: 0, moto: -3 },
+        showIf: function(a) { return a.group_size !== 2; } },
+      { label: '女生獨旅，安全第一', color: 'green', score: { charter: 2, app: 0, moto: -1.5 },
+        showIf: function(a) { return a.group_size === 0; } },
+      { label: '預算很緊', color: 'amber', score: { charter: -1, app: 0.5, moto: 1.5 } },
+      { label: '想體驗在地騎車感', color: 'amber', score: { charter: -1, app: 0, moto: 2 },
+        showIf: function(a) { return a.group_size !== 2; } },
     ]
   },
 ];
@@ -124,7 +151,12 @@ var answers = {};
 var visibleSteps = [];
 
 function buildVisibleSteps() {
-  visibleSteps = STEPS.filter(function(s){ return !s.skipIf || !s.skipIf(answers); });
+  visibleSteps = STEPS.filter(function(s){ return !s.showIf || s.showIf(answers); });
+}
+
+function getVisibleOptions(q) {
+  return q.options.map(function(o, i){ return { o: o, i: i }; })
+    .filter(function(x){ return !x.o.showIf || x.o.showIf(answers); });
 }
 
 function render() {
@@ -133,28 +165,39 @@ function render() {
   if (current >= visibleSteps.length) { showResult(); return; }
   var q = visibleSteps[current];
   var total = visibleSteps.length;
-  document.getElementById('prog').style.width = Math.round((current / total) * 100) + '%';
+  document.getElementById('prog').style.width = Math.round(((current + 1) / (total + 1)) * 100) + '%';
 
   var optClass = 'options' + (q.cols === 1 ? ' single-col' : '');
   var prev = answers[q.id];
+  var visOpts = getVisibleOptions(q);
 
-  var opts = q.options.map(function(o, i) {
-    var isSelected = Array.isArray(prev) ? prev.includes(i) : prev === i;
+  var opts = visOpts.map(function(x) {
+    var o = x.o;
+    var origIdx = x.i;
+    var isSelected = Array.isArray(prev) ? prev.indexOf(origIdx) !== -1 : prev === origIdx;
     var selAttr = isSelected ? 'data-selected="' + o.color + '"' : '';
-    return '<button class="opt-btn" data-idx="' + i + '" data-color="' + o.color + '" ' + selAttr + ' onclick="selectOpt(this,' + i + ')">' + o.label + '</button>';
+    return '<button class="opt-btn" data-idx="' + origIdx + '" data-color="' + o.color + '" ' + selAttr + ' onclick="selectOpt(this,' + origIdx + ')">' + o.label + '</button>';
   }).join('');
 
   var hasAnswer = prev !== undefined && (!Array.isArray(prev) || prev.length > 0);
+  var canProceed = hasAnswer || q.optional;
   var isLast = current === total - 1;
+
+  var counterHtml = '';
+  if (q.multi && q.maxSelect) {
+    var selCount = Array.isArray(prev) ? prev.length : 0;
+    counterHtml = '<div class="multi-counter">已選 ' + selCount + ' / ' + q.maxSelect + (q.optional ? '（可略過）' : '') + '</div>';
+  }
 
   area.innerHTML = '<div class="step active">'
     + '<div class="q-label">步驟 ' + (current + 1) + ' / ' + total + '</div>'
     + '<div class="q-text">' + q.text + '</div>'
     + (q.hint ? '<div class="q-hint">' + q.hint + '</div>' : '')
     + '<div class="' + optClass + '">' + opts + '</div>'
+    + counterHtml
     + '<div class="nav-row">'
     + (current > 0 ? '<button class="btn-back" onclick="goBack()">← 上一步</button>' : '<span></span>')
-    + '<button class="btn-next ' + (hasAnswer ? 'ready' : '') + '" id="btn-next" onclick="goNext()">' + (isLast ? '查看結果 →' : '下一步 →') + '</button>'
+    + '<button class="btn-next ' + (canProceed ? 'ready' : '') + '" id="btn-next" onclick="goNext()">' + (isLast ? '查看結果 →' : '下一步 →') + '</button>'
     + '</div></div>';
 }
 
@@ -163,10 +206,23 @@ function selectOpt(btn, idx) {
   var color = btn.getAttribute('data-color');
   if (q.multi) {
     var isSelected = btn.hasAttribute('data-selected');
-    if (isSelected) { btn.removeAttribute('data-selected'); }
-    else { btn.setAttribute('data-selected', color); }
+    if (isSelected) {
+      btn.removeAttribute('data-selected');
+    } else {
+      var currentSel = Array.from(document.querySelectorAll('.opt-btn[data-selected]'));
+      if (q.maxSelect && currentSel.length >= q.maxSelect) {
+        btn.style.transform = 'translateX(2px)';
+        setTimeout(function(){ btn.style.transform = ''; }, 100);
+        return;
+      }
+      btn.setAttribute('data-selected', color);
+    }
     var sel = Array.from(document.querySelectorAll('.opt-btn[data-selected]')).map(function(b){ return +b.getAttribute('data-idx'); });
     answers[q.id] = sel;
+    if (q.maxSelect) {
+      var counter = document.querySelector('.multi-counter');
+      if (counter) counter.innerHTML = '已選 ' + sel.length + ' / ' + q.maxSelect + (q.optional ? '（可略過）' : '');
+    }
     document.getElementById('btn-next').classList.add('ready');
   } else {
     document.querySelectorAll('.opt-btn').forEach(function(b){ b.removeAttribute('data-selected'); });
@@ -179,10 +235,13 @@ function selectOpt(btn, idx) {
 function goNext() {
   var q = visibleSteps[current];
   var ans = answers[q.id];
-  if (ans === undefined || (Array.isArray(ans) && ans.length === 0)) return;
+  if (!q.optional) {
+    if (ans === undefined || (Array.isArray(ans) && ans.length === 0)) return;
+  }
+  if (q.id === 'group_size') {
+    delete answers.situation;
+  }
   current++;
-  buildVisibleSteps();
-  while (current < visibleSteps.length && visibleSteps[current].skipIf && visibleSteps[current].skipIf(answers)) current++;
   render();
 }
 
@@ -196,7 +255,9 @@ function calcScores() {
     (Array.isArray(ans) ? ans : [ans]).forEach(function(i) {
       var sc = q.options[i] && q.options[i].score;
       if (!sc) return;
-      s.charter += sc.charter || 0; s.app += sc.app || 0; s.moto += sc.moto || 0;
+      s.charter += sc.charter || 0;
+      s.app     += sc.app     || 0;
+      s.moto    += sc.moto    || 0;
     });
   });
   return s;
@@ -205,60 +266,98 @@ function calcScores() {
 var results = {
   charter: {
     icon: '🚗', cls: 'ri-charter', title: '包車', sub: '最安心、最划算的選擇',
-    desc: '根據你的狀況，包車是最適合的選擇。一天下來通常比多次叫車更省，司機全程陪同，安全、省心、彈性。',
+    desc: '根據你的狀況，包車是最適合的選擇。一天下來通常比多次叫車更省，司機全程陪同，不用排隊等車、不必擔心找不到回程，還能順便認識在地朋友、聽司機講解，有貴賓級的禮遇感。',
     tip: '<strong>建議：</strong>提前與司機溝通行程，通常不需要另付餐費，可邀請司機一起吃在地小吃，體驗更道地。',
-    link: 'https://gobaligo.id/go/bali-transport-guide',
+    link: 'https://gobaligo.id/blog/2024-01-12-65a0a163fd8978000115f37a/',
   },
   app: {
     icon: '📱', cls: 'ri-app', title: 'App 叫車（四輪）', sub: 'Grab / Gojek 轎車',
     desc: '行程單純、鬧區移動，App 叫車最彈性，費用透明，隨叫隨到，不用提前預約。',
     tip: '<strong>建議：</strong>目的地用英文輸入較準，熱門景點可能需要走到路邊才叫得到車。',
-    link: 'https://gobaligo.id/go/bali-transport-guide',
+    link: 'https://gobaligo.id/blog/2024-10-13-670b5191fd8978000185cf37/',
   },
   moto: {
     icon: '🛵', cls: 'ri-moto', title: 'App 叫機車', sub: 'Grab / Gojek 兩輪',
     desc: '輕裝獨行、鬧區短途，叫機車最快最省。車資通常只有四輪的一半，鑽巷不卡車。',
     tip: '<strong>建議：</strong>上車前確認司機評分與車牌。雨天或距離較遠時建議改叫四輪。',
-    link: 'https://gobaligo.id/go/bali-transport-guide',
+    link: 'https://gobaligo.id/blog/2024-05-03-6634d110fd897800012a9d6b/',
   }
 };
 
 function getReasons(winner) {
   var sit = answers.situation || [];
+  var size = answers.group_size; // 0 solo / 1 pair / 2 group
+  var iti = answers.itinerary;   // 0 cross / 1 multi / 2 hotspot / 3 local / 4 free
   var r = [];
+
   if (winner === 'charter') {
-    if (sit.includes(0)) r.push('剛抵達，換匯辦SIM卡一次搞定');
-    if (sit.includes(1)) r.push('跨區換宿行李多，包車空間充裕');
-    if (sit.includes(2)) r.push('多人同行分攤，費用比想像划算');
-    if (sit.includes(4)) r.push('女生獨旅，全程有司機陪同更安全');
-    if (sit.includes(5)) r.push('雨季天氣不穩，包車有空調可避雨');
-    if (sit.includes(6)) r.push('住郊區，App車輛少，包車更可靠');
-    if (sit.includes(7)) r.push('需要拍照講解，司機樂意協助');
-    if (answers.itinerary === 0) r.push('多景點跨區，費用固定不跳錶');
+    if (size === 2) r.push('多人同行分攤費用，比想像中划算');
+    if (size === 1) r.push('兩人同行，包車舒適度比叫車高');
+    if (size === 0) r.push('一人獨旅，全程有司機陪同更安心');
+    if (iti === 0) r.push('跨區長途，固定費用不跳錶');
+    if (iti === 1) r.push('一天跑多景點，包車不用重複叫車等待');
+    if (iti === 2) r.push('熱門景點要排隊，包車不怕找不到回程');
+    if (sit.indexOf(0) !== -1) r.push('剛抵達，換匯辦SIM上超市一次搞定');
+    if (sit.indexOf(1) !== -1) r.push('行李多／換住宿，包車空間充裕');
+    if (sit.indexOf(2) !== -1) r.push('雨季天氣不穩，包車有空調可避雨');
+    if (sit.indexOf(3) !== -1) r.push('住郊區，App車輛少，包車更可靠');
+    if (sit.indexOf(4) !== -1) r.push('需要拍照講解，司機樂意協助');
+    if (sit.indexOf(5) !== -1) r.push('帶小孩多一個人照顧，安心很多');
+    if (sit.indexOf(6) !== -1) r.push('女生獨旅，包車比叫車更安全');
   } else if (winner === 'app') {
-    r.push('行程單純，隨叫隨到最彈性');
-    if (sit.includes(3) || answers.itinerary === 1) r.push('鬧區移動，車輛密集等待時間短');
-    if (answers.solo_mode === 1) r.push('安全舒適，四輪比機車穩定');
-  } else {
-    r.push('一人輕裝，費用只有四輪一半');
-    if (sit.includes(3) || answers.itinerary === 1) r.push('鬧區短途，機車最快不卡車');
-    if (answers.solo_mode === 0) r.push('省錢優先，機車是最划算選擇');
+    if (iti === 3) r.push('鬧區短途，叫車比包車划算彈性');
+    if (iti === 4) r.push('行程隨興，叫車最有彈性');
+    if (size === 2 && iti === 3) r.push('家庭鬧區單點，叫車比包車一日方案省');
+    if (size === 1 && iti !== 3) r.push('兩人出行，App 四輪剛剛好');
+    if (size === 1 && iti === 3) r.push('兩人鬧區走走，叫車隨叫隨到最方便');
+    if (size === 0) r.push('一人獨旅，App 四輪比機車舒適');
+    if (sit.indexOf(7) !== -1) r.push('預算考量，比包車省下整日費用');
+    if (r.length === 0) r.push('行程單純，叫車最彈性');
+  } else { // moto
+    if (size === 0) r.push('一人輕裝，機車最方便');
+    if (iti === 3) r.push('鬧區短途，機車不卡車最快');
+    if (sit.indexOf(7) !== -1) r.push('預算很緊，機車車資只有四輪一半');
+    if (sit.indexOf(8) !== -1) r.push('體驗在地騎車感，這就是峇里島日常');
+    if (r.length === 0) r.push('輕裝短途，機車最快最省');
   }
-  return r.slice(0, 4);
+  return r.slice(0, 5);
 }
 
 function showResult() {
   document.getElementById('prog').style.width = '100%';
   var scores = calcScores();
-  var max = Math.max(scores.charter, scores.app, scores.moto);
-  var winner = scores.charter >= max ? 'charter' : scores.app >= scores.moto ? 'app' : 'moto';
+
+  var winner;
+  var maxScore = Math.max(scores.charter, scores.app, scores.moto);
+
+  // 硬規則：鬧區短途、單點來回 → 永遠推叫車（不管幾人、不管其他狀況）
+  // 在 app 和 moto 之間用分數決定
+  if (answers.itinerary === 3) {
+    winner = scores.app >= scores.moto ? 'app' : 'moto';
+  } else if (scores.charter === maxScore && scores.charter > 0) {
+    winner = 'charter';
+  } else if (scores.app === maxScore) {
+    winner = 'app';
+  } else if (scores.moto === maxScore) {
+    winner = 'moto';
+  } else {
+    winner = 'charter';
+  }
+
   var r = results[winner];
   var reasons = getReasons(winner);
-  var allMax = Math.max(1, max);
+
+  var minScore = Math.min(scores.charter, scores.app, scores.moto, 0);
+  var shifted = {
+    charter: scores.charter - minScore,
+    app: scores.app - minScore,
+    moto: scores.moto - minScore,
+  };
+  var maxShifted = Math.max(shifted.charter, shifted.app, shifted.moto, 1);
   var bars = {
-    charter: Math.round(Math.max(0, scores.charter) / allMax * 100),
-    app: Math.round(Math.max(0, scores.app) / allMax * 100),
-    moto: Math.round(Math.max(0, scores.moto) / allMax * 100),
+    charter: Math.round(shifted.charter / maxShifted * 100),
+    app:     Math.round(shifted.app     / maxShifted * 100),
+    moto:    Math.round(shifted.moto    / maxShifted * 100),
   };
 
   var reasonHtml = reasons.map(function(rs){ return '<div class="reason-item"><div class="rdot"></div><span>' + rs + '</span></div>'; }).join('');
@@ -290,7 +389,9 @@ function showResult() {
 }
 
 function restart() { current = 0; answers = {}; render(); }
+
 render();
 </script>
+
 </body>
 </html>

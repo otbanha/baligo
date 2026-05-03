@@ -36,7 +36,8 @@ function getPublishTime(p): Date {
 const isPublished = (p) =>
   p.data.pubDate && !p.data.private && getPublishTime(p) <= now;
 
-const allPosts = (await getCollection('blog'))
+const allPostsRaw = await getCollection('blog');
+const allPosts = allPostsRaw
   .filter(isPublished)
   .map(p => ({
     ...p,

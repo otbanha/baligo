@@ -1,19 +1,11 @@
 name: 定時重建發佈
 
 on:
-  # 峇里時間（WITA = UTC+8）每小時重建，涵蓋早上 6:00 到下午 1:00
-  # UTC 22 = Bali 06:00, UTC 23 = Bali 07:00, UTC 00 = Bali 08:00
-  # UTC 01 = Bali 09:00, UTC 02 = Bali 10:00, UTC 03 = Bali 11:00
-  # UTC 04 = Bali 12:00, UTC 05 = Bali 13:00
+  # 峇里時間（WITA = UTC+8）
+  # UTC 22 = Bali 06:00, UTC 23 = Bali 07:00
   schedule:
     - cron: '0 22 * * *'   # Bali 06:00
     - cron: '0 23 * * *'   # Bali 07:00
-    - cron: '0 0 * * *'    # Bali 08:00
-    - cron: '0 1 * * *'    # Bali 09:00
-    - cron: '0 2 * * *'    # Bali 10:00
-    - cron: '0 3 * * *'    # Bali 11:00
-    - cron: '0 4 * * *'    # Bali 12:00
-    - cron: '0 5 * * *'    # Bali 13:00
 
   # 允許手動觸發（測試用）
   workflow_dispatch:
