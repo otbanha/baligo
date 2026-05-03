@@ -4,8 +4,6 @@ import BaseHead from '../../../components/BaseHead.astro';
 import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import ChatBot from '../../../components/ChatBot.astro';
-import TripPlannerBanner from '../../../components/TripPlannerBanner.astro';
-import BudgetCalculatorBanner from '../../../components/BudgetCalculatorBanner.astro';
 import { getCollection, render } from 'astro:content';
 import featuredData from '../../../featured.json';
 import top5Data from '../../../top5.json';
@@ -643,7 +641,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 }
 @media (max-width: 600px) { .featured-grid { grid-template-columns: 1fr; } .social-section { grid-template-columns: repeat(2, 1fr); } .accom-image { height: 140px; } .top5-list { flex-direction: column; } .top5-item a { border-radius: 8px; } .card { min-height: 72px; } .card-image { width: 90px; min-width: 90px; height: 72px; border-radius: 8px 0 0 8px; } .card-body { padding: 0.5em 0.75em; } .card-title { font-size: 0.85em; } .card-desc { display: none; } }
 .quick-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 1.5em; }
-.qg-btn { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; padding: 1.2rem 1rem; border-radius: 14px; text-decoration: none; color: #fff; text-align: center; transition: filter 0.15s, transform 0.1s; -webkit-tap-highlight-color: transparent; }
+.qg-btn { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; padding: 1.4rem 1rem; min-height: 110px; border-radius: 14px; text-decoration: none; color: #fff; text-align: center; transition: filter 0.15s, transform 0.1s; -webkit-tap-highlight-color: transparent; }
 .qg-btn:hover { filter: brightness(1.08); transform: translateY(-2px); }
 .qg-btn:active { filter: brightness(0.92); transform: scale(0.97); }
 .qg-icon { font-size: 2rem; line-height: 1; }
@@ -653,7 +651,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 .qg-green  { background: linear-gradient(135deg, #1a7a3e 0%, #2d7a4f 100%); box-shadow: 0 4px 16px rgba(26,74,46,0.22); }
 .qg-orange { background: linear-gradient(135deg, #e07a00 0%, #c45b00 100%); box-shadow: 0 4px 16px rgba(180,80,0,0.22); }
 .qg-teal   { background: linear-gradient(135deg, #0e8fa0 0%, #096878 100%); box-shadow: 0 4px 16px rgba(9,104,120,0.22); }
-@media (max-width: 480px) { .qg-title { font-size: 0.88rem; } .qg-desc { display: none; } }
+@media (max-width: 480px) { .qg-btn { min-height: 88px; padding: 1rem 0.75rem; } .qg-title { font-size: 0.88rem; } .qg-desc { display: none; } }
 </style>
 <script define:vars={{ promosJson }}>
 window.addEventListener('load', () => {
