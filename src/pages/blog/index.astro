@@ -480,17 +480,6 @@ const socialLinks = [
 
       <div id="pagination" class="pagination"></div>
 
-      <a href="/map/" class="map-entry-banner">
-        <div class="map-entry-left">
-          <span class="map-entry-emoji">🗺️</span>
-          <div>
-            <div class="map-entry-title">峇里島攻略地圖</div>
-            <div class="map-entry-desc">13 區景點互動地圖，點標記直接開 Google Maps</div>
-          </div>
-        </div>
-        <span class="map-entry-arrow">›</span>
-      </a>
-
       {activePromos.length > 0 && (
         <div id="promo-block-main">
           <div id="promo-block-index"></div>
@@ -1083,13 +1072,6 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 
 /* 分頁 */
 .pagination { display: flex; align-items: center; justify-content: center; gap: 1em; margin-top: 2.5em; padding-top: 1.5em; border-top: 1px solid rgba(197, 160, 89, 0.2); }
-.map-entry-banner { display: flex; align-items: center; justify-content: space-between; background: linear-gradient(135deg, #1a5c3a, #2d8653); color: #fff; border-radius: 14px; padding: 16px 18px; margin: 20px 0 0; text-decoration: none; -webkit-tap-highlight-color: transparent; }
-@media (min-width: 768px) { .map-entry-banner { display: none; } }
-.map-entry-left { display: flex; align-items: center; gap: 12px; }
-.map-entry-emoji { font-size: 32px; line-height: 1; flex-shrink: 0; }
-.map-entry-title { font-size: 16px; font-weight: 700; margin-bottom: 3px; }
-.map-entry-desc { font-size: 12px; opacity: 0.85; line-height: 1.4; }
-.map-entry-arrow { font-size: 24px; opacity: 0.7; flex-shrink: 0; }
 .page-btn { background: var(--ocean); color: var(--white); border: none; padding: 0.5em 1.2em; border-radius: 8px; cursor: pointer; font-size: 0.9em; font-family: inherit; transition: background 0.2s; }
 .page-btn:hover:not(:disabled) { background: var(--ocean-light); }
 .page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
