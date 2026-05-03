@@ -270,6 +270,8 @@ const { area } = Astro.props;
     let userLat = null, userLng = null;
     let eventsSetup = false;
     let kmlParsed = false;
+    let mapStyleReady = false;
+    let initialFitDone = false;
 
     // ─── Helpers ──────────────────────────────────────────────
     function haversine(lat1, lng1, lat2, lng2) {
@@ -644,16 +646,28 @@ const { area } = Astro.props;
       return wrap;
     }
 
-    // ─── KML parse ────────────────────────────────────────────
-    map.on('style.load', () => { if (kmlParsed) setupLayers(); });
+    // ─── KML + map init (parallel, decoupled) ────────────────
+    // trySetupLayers runs when BOTH style and KML are ready.
+    // style.load fires as soon as the style JSON is parsed — no need
+    // to wait for tiles — so addSource/addLayer work immediately.
+    function trySetupLayers() {
+      if (!mapStyleReady || !kmlParsed) return;
+      setupLayers();
+      if (!initialFitDone && allFeatures.length > 0) {
+        fitToFeatures(allFeatures);
+        initialFitDone = true;
+      }
+    }
 
-    // Wait for map load with 20s timeout
-    await new Promise((resolve) => {
-      if (map.loaded()) { resolve(); return; }
-      const timer = setTimeout(resolve, 20000);
-      map.once('load', () => { clearTimeout(timer); resolve(); });
+    map.on('style.load', () => {
+      mapStyleReady = true;
+      trySetupLayers();
     });
 
+    // Safety net: if style.load never fires (rare network failure), try after 10s
+    setTimeout(() => { if (!mapStyleReady) { mapStyleReady = true; trySetupLayers(); } }, 10000);
+
+    // Fetch KML immediately — don't wait for map tiles
     try {
       const res = await fetch(area.kml);
       const kmlText = await res.text();
@@ -698,12 +712,7 @@ const { area } = Astro.props;
       if (topPms.length > 0) parsePlacemarks(topPms, '景點');
 
       kmlParsed = true;
-      setupLayers();
-
-      // Auto-fit to show all parsed features on initial load
-      if (allFeatures.length > 0) {
-        fitToFeatures(allFeatures);
-      }
+      trySetupLayers(); // runs immediately if style is already ready
 
       // Category filter pills
       const catPillsEl = document.getElementById('cat-pills');
@@ -774,7 +783,9 @@ const { area } = Astro.props;
 
     // ─── Dark mode tile switching ─────────────────────────────
     new MutationObserver(() => {
+      mapStyleReady = false;
       map.setStyle(isDark() ? STYLE_DARK : STYLE_LIGHT);
+      // style.load will fire and call trySetupLayers() → setupLayers()
     }).observe(document.documentElement, { attributes: true, attributeFilter: ['data-dark'] });
   }
 
