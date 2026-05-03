@@ -2,7 +2,6 @@
 title: 峇里島（印尼）外國遊客購物退稅（VAT Refund for Tourists）完整指南
 description: 在峇里島購物也能省錢！深度解析印尼外國遊客購物退稅（VAT Refund for Tourists）制度：包含最低消費門檻、認可商店標誌、機場辦理流程與所需文件。本篇特別提醒 2026 最新退稅時限與領取方式，教您如何在伍拉·賴機場優雅拿回 11% 稅金，讓您的海島血拼更划算。
 pubDate: 2026-04-16
-pubHour: null
 category:
   - 旅行技巧
 tags:
