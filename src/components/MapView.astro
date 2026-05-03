@@ -289,12 +289,18 @@ const { area } = Astro.props;
 
     function fitToFeatures(features) {
       if (features.length === 0) return;
-      if (features.length === 1) {
-        map.flyTo({ center: features[0].geometry.coordinates, zoom: 15 });
+      // Filter out coordinates outside Bali (data errors)
+      const valid = features.filter(f => {
+        const [lng, lat] = f.geometry.coordinates;
+        return lng > 114.4 && lng < 116.0 && lat > -9.0 && lat < -7.8;
+      });
+      const toFit = valid.length > 0 ? valid : features;
+      if (toFit.length === 1) {
+        map.flyTo({ center: toFit[0].geometry.coordinates, zoom: 15 });
         return;
       }
       let minLng = Infinity, maxLng = -Infinity, minLat = Infinity, maxLat = -Infinity;
-      features.forEach(f => {
+      toFit.forEach(f => {
         const [lng, lat] = f.geometry.coordinates;
         minLng = Math.min(minLng, lng); maxLng = Math.max(maxLng, lng);
         minLat = Math.min(minLat, lat); maxLat = Math.max(maxLat, lat);
@@ -693,6 +699,11 @@ const { area } = Astro.props;
 
       kmlParsed = true;
       setupLayers();
+
+      // Auto-fit to show all parsed features on initial load
+      if (allFeatures.length > 0) {
+        fitToFeatures(allFeatures);
+      }
 
       // Category filter pills
       const catPillsEl = document.getElementById('cat-pills');
