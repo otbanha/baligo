@@ -340,6 +340,10 @@ const { area } = Astro.props;
       return { width: size, height: size, data: d.data };
     }
 
+    function sanitizeIconId(name) {
+      return name.replace(/[^a-zA-Z0-9一-鿿぀-ヿ]/g, '_');
+    }
+
     function getCatStyle(name) {
       const s = name.toLowerCase();
       if (s.includes('美食') || s.includes('eating') || s.includes('餐廳') || s.includes('food'))
@@ -412,7 +416,7 @@ const { area } = Astro.props;
 
       // Register emoji icons
       categories.forEach(cat => {
-        const id = `icon-${cat.name}`;
+        const id = `icon-${sanitizeIconId(cat.name)}`;
         if (!map.hasImage(id)) map.addImage(id, createEmojiIcon(cat.style.emoji, cat.style.color));
       });
 
@@ -421,7 +425,7 @@ const { area } = Astro.props;
       if (!map.getSource('places')) {
         map.addSource('places', {
           type: 'geojson', data,
-          cluster: true, clusterMaxZoom: 13, clusterRadius: 50,
+          cluster: true, clusterMaxZoom: 11, clusterRadius: 50,
         });
       } else {
         map.getSource('places').setData(data);
@@ -643,15 +647,11 @@ const { area } = Astro.props;
     // ─── KML parse ────────────────────────────────────────────
     map.on('style.load', () => { if (kmlParsed) setupLayers(); });
 
-    // Wait for map load with 20s timeout (handles environments where WebGL may be limited)
+    // Wait for map load with 20s timeout
     await new Promise((resolve) => {
       if (map.loaded()) { resolve(); return; }
       const timer = setTimeout(resolve, 20000);
       map.once('load', () => { clearTimeout(timer); resolve(); });
-      map.once('error', (e) => {
-        console.warn('MapLibre load error:', e.error?.message);
-        clearTimeout(timer); resolve();
-      });
     });
 
     try {
@@ -679,7 +679,7 @@ const { area } = Astro.props;
               id: `${area.slug}::${lat},${lng}`,
               name, rawDesc,
               category: catName, catColor: style.color, catEmoji: style.emoji,
-              iconImage: `icon-${catName}`,
+              iconImage: `icon-${sanitizeIconId(catName)}`,
               lat, lng,
               areaSlug: area.slug, areaName: area.name,
               imgUrl: extractImg(rawDesc) || '',
