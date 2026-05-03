@@ -427,7 +427,7 @@ const { area } = Astro.props;
       if (!map.getSource('places')) {
         map.addSource('places', {
           type: 'geojson', data,
-          cluster: true, clusterMaxZoom: 9, clusterRadius: 50,
+          cluster: true, clusterMaxZoom: 7, clusterRadius: 50,
         });
       } else {
         map.getSource('places').setData(data);
