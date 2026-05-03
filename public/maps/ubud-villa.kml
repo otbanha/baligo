@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>烏布villa推薦 by gobaligo</name>
+    <description>峇里島旅遊攻略: https://gobaligo.id</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Best Private Pool Villas in Ubud</name>
+      <Placemark>
+        <name>The Purist Villas</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4uegEYm7c5bXNsRfdKrCfQxH8dHmFZEzHBlOeExeBLAhN1MbYaZIuWrg2C2WD3OaJitUqeDCZXtdu4Yhjjbs3yRBLjU2UxPqCIP-okdzWXk9XuTcpmu-Oxf0gEPerseTrQAbEsmpSUk78scTVZeb6gbI6WXtaxOwqXj1COJd36HvjzEqlpt86OOyHx_zhAHj_OY_5lzQDuir4PNJ6_hQdh6ksqkBuiF0djqjLUj6zjdANcBnX_qJP5LUc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4uegEYm7c5bXNsRfdKrCfQxH8dHmFZEzHBlOeExeBLAhN1MbYaZIuWrg2C2WD3OaJitUqeDCZXtdu4Yhjjbs3yRBLjU2UxPqCIP-okdzWXk9XuTcpmu-Oxf0gEPerseTrQAbEsmpSUk78scTVZeb6gbI6WXtaxOwqXj1COJd36HvjzEqlpt86OOyHx_zhAHj_OY_5lzQDuir4PNJ6_hQdh6ksqkBuiF0djqjLUj6zjdANcBnX_qJP5LUc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.270393,-8.494914,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tejaprana Bisma</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5gxeJlGCrtkREq-UkjrJB8jcQ27ow5z6-ImmKrXk7MACVfTsjkaRD3-6WUXRirR_Aahhl4k4zovvb1Ci8spdaTpxNkw-GnDPKQ6lTAX7yTlFDd9X_LorNJOr__xPvwbusSCD3EQGmc0JGvlIkGlGgUJQaQj2yIoTHy1RBc9O1f3O2ScAY88zXiaeYCAK0sOnhNsKgTYYzz04VP7KOI3xI7U0N0jtc2C_1CzBXEGWeseNa7Jiu2BmHiN0U?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5gxeJlGCrtkREq-UkjrJB8jcQ27ow5z6-ImmKrXk7MACVfTsjkaRD3-6WUXRirR_Aahhl4k4zovvb1Ci8spdaTpxNkw-GnDPKQ6lTAX7yTlFDd9X_LorNJOr__xPvwbusSCD3EQGmc0JGvlIkGlGgUJQaQj2yIoTHy1RBc9O1f3O2ScAY88zXiaeYCAK0sOnhNsKgTYYzz04VP7KOI3xI7U0N0jtc2C_1CzBXEGWeseNa7Jiu2BmHiN0U?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2573531,-8.5170096,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bliss Spa Ubud Hotel</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X51eyODhOxD0rcVhUk3So-Cxe6YHWZ-q6eStAIrr_gCZPctMMt6etBBbHy7xqoXXgZMbU-hJd5rQNoUlyUVk6T3CUm_3hRchKEs8Q71SYUXmVoAuhhaDnJZtvzcL3jwDWD9OHaB7Ab5DuDL6Q91415veBqss0r8EFRsYZYurc60-rUbaqe3W3DMxVtBuJuuofEX0PugFNbiBGmljYdcPBRDV2CNHbiDFUFp5Mpd99qbin0RMShHNeS7a-M?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X51eyODhOxD0rcVhUk3So-Cxe6YHWZ-q6eStAIrr_gCZPctMMt6etBBbHy7xqoXXgZMbU-hJd5rQNoUlyUVk6T3CUm_3hRchKEs8Q71SYUXmVoAuhhaDnJZtvzcL3jwDWD9OHaB7Ab5DuDL6Q91415veBqss0r8EFRsYZYurc60-rUbaqe3W3DMxVtBuJuuofEX0PugFNbiBGmljYdcPBRDV2CNHbiDFUFp5Mpd99qbin0RMShHNeS7a-M?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2534002,-8.4881042,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amora Ubud Boutique Villas</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6J0K9tUPWU83m0_efB8wBT-p2YbQN2pay1OntSAEekIf3f793a4Bmm9QIA6KgB_4lrLGmBeBlM2GLjzpKPYdetFxh54fDbzdMf4nYOk6Br_oxGcv4FEB5nYggiTOjjyIHTi7-AWOwOdKIRq_U5oNJ9bNXCfOBIo00pa9prV6tsxXC4p_cSFyK3Im_fHImVTbbudH1oVxNvwfGHVFmF3SiVPMRj8shobjA_wxLzmdAyDOtt-9pTprmJEcc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6J0K9tUPWU83m0_efB8wBT-p2YbQN2pay1OntSAEekIf3f793a4Bmm9QIA6KgB_4lrLGmBeBlM2GLjzpKPYdetFxh54fDbzdMf4nYOk6Br_oxGcv4FEB5nYggiTOjjyIHTi7-AWOwOdKIRq_U5oNJ9bNXCfOBIo00pa9prV6tsxXC4p_cSFyK3Im_fHImVTbbudH1oVxNvwfGHVFmF3SiVPMRj8shobjA_wxLzmdAyDOtt-9pTprmJEcc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2572357,-8.4928833,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Homayoon private villa</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5U3PPFbRLm4QG3wrkr-itqU_9rAcFMmYDjDn2EOoXuaxs3zo-epoKvdSlji6kmW79RImVHMAVwkEzCrxv_S8pbTdZeLU3w1x1zFKi8GRjdPQkjydBc45aCoHD_Cw3ZbGoZxUXkfE88g2b2OwKOSFOH5KhChSabI6coGjSOMMugmgVtYmBxu5LfbpRJcp-sD15BriOVwDFNCQV2zB8ouzkNdsyeXBYKzYJQVTvJ4dCpd9gwCTO2Vzvscq0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5U3PPFbRLm4QG3wrkr-itqU_9rAcFMmYDjDn2EOoXuaxs3zo-epoKvdSlji6kmW79RImVHMAVwkEzCrxv_S8pbTdZeLU3w1x1zFKi8GRjdPQkjydBc45aCoHD_Cw3ZbGoZxUXkfE88g2b2OwKOSFOH5KhChSabI6coGjSOMMugmgVtYmBxu5LfbpRJcp-sD15BriOVwDFNCQV2zB8ouzkNdsyeXBYKzYJQVTvJ4dCpd9gwCTO2Vzvscq0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2729691,-8.5077438,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beehouse Dijiwa Ubud</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5Y-ANl7zdrRer0nWdkLKFZbOzJ8n02B-o3zsQuAKpuEyYwL0-bhEFRmMBqIgjUoDzn__bogpSaknqJMBJI6MvG61el9MAr4LzVS_GloBmqL1QH9Q0AAuzjMCobeAPAScFZyFwdbGTEwECHaPM-GPkmRc2TU8EgCbqX2zjWkgIIbn6Im62C88fey8UtyniE9g2yPQAtsys_VGYykox22JQ__ARJrxkKaGD0OgF8n8RoMMGme8MqBVBag1E?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5Y-ANl7zdrRer0nWdkLKFZbOzJ8n02B-o3zsQuAKpuEyYwL0-bhEFRmMBqIgjUoDzn__bogpSaknqJMBJI6MvG61el9MAr4LzVS_GloBmqL1QH9Q0AAuzjMCobeAPAScFZyFwdbGTEwECHaPM-GPkmRc2TU8EgCbqX2zjWkgIIbn6Im62C88fey8UtyniE9g2yPQAtsys_VGYykox22JQ__ARJrxkKaGD0OgF8n8RoMMGme8MqBVBag1E?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2741694,-8.5169758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ayuterra Resort</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5eMHQDQEii7BdG4WjzzJx7c8g7KwpHXMjsYxf-bSYfR9SCTcJDoF79rRw5-ct4ZifOMQd43XRlNTMQc4FDh0CtvJsKkUiadd46EN7RkqoRri2bTHwVS1s3b5KrSRcBtEXwLj1bEKpjmTy7jktLBd6UDgsyiG3kvRyU8Af-OLzuf-vuCUJ2h9pT5ED0VEuw1Tdv2Fsf0PaRGDFvZKLK9kY2Jjx1cW5VUG5nLdLDJpCWgs9ctYwNVXJK6us?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5eMHQDQEii7BdG4WjzzJx7c8g7KwpHXMjsYxf-bSYfR9SCTcJDoF79rRw5-ct4ZifOMQd43XRlNTMQc4FDh0CtvJsKkUiadd46EN7RkqoRri2bTHwVS1s3b5KrSRcBtEXwLj1bEKpjmTy7jktLBd6UDgsyiG3kvRyU8Af-OLzuf-vuCUJ2h9pT5ED0VEuw1Tdv2Fsf0PaRGDFvZKLK9kY2Jjx1cW5VUG5nLdLDJpCWgs9ctYwNVXJK6us?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.24566,-8.482998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Hidden Paradise Ubud</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6ta0e_XXLIS5P96GWq6xSGZ9ahoTUqSN56hk24fWvcjoKtF_zp0F3fNKkMxTnZXB4OL0wg2WsIhHPNGRdf0HrwoOWb7nRBFRxBmSLquw62hnVkZ1rt2vikeI6GvyYQC0qFmqEZPZPDOtlg-CzZRBROwdjBOcX_2DYiVptldrYzAKaHsZYB5mIE6Gz1TjYUzF1Fb-sWmd8z11ydsv5XOnzQ3AoeuQA78AqK_QRMaHLjjqvvyOMt-WV47DQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6ta0e_XXLIS5P96GWq6xSGZ9ahoTUqSN56hk24fWvcjoKtF_zp0F3fNKkMxTnZXB4OL0wg2WsIhHPNGRdf0HrwoOWb7nRBFRxBmSLquw62hnVkZ1rt2vikeI6GvyYQC0qFmqEZPZPDOtlg-CzZRBROwdjBOcX_2DYiVptldrYzAKaHsZYB5mIE6Gz1TjYUzF1Fb-sWmd8z11ydsv5XOnzQ3AoeuQA78AqK_QRMaHLjjqvvyOMt-WV47DQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2799664,-8.5136853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mandana Ubud Villa</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7s8XOaHJGdFsGFgJl4rbMXg0eNDWAASYKzpPU1GO6SeMUjMapZDwy2L7AD_6ODX6678DHbPxv5lmPlSzQLCivQsD6TeJGb8IUcVb962YMhrxEnswIzuE-v3PrK0WPMFynAmKT-W9twSeR3VjBvtyjx3UwmCLMrXn9tr5k0n996W7ROAEGQa3dOo152p2VMDyiqkDsutXlA3rB9H0ch_yo5CRXG40FRyKREbqNBsqGJgJGNQPK2YcbkSko?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7s8XOaHJGdFsGFgJl4rbMXg0eNDWAASYKzpPU1GO6SeMUjMapZDwy2L7AD_6ODX6678DHbPxv5lmPlSzQLCivQsD6TeJGb8IUcVb962YMhrxEnswIzuE-v3PrK0WPMFynAmKT-W9twSeR3VjBvtyjx3UwmCLMrXn9tr5k0n996W7ROAEGQa3dOo152p2VMDyiqkDsutXlA3rB9H0ch_yo5CRXG40FRyKREbqNBsqGJgJGNQPK2YcbkSko?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.277631,-8.462024,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Madani Antique Villas</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7txekuupEbMeaBgvL5qZAbJgWJs6NeciL-2Wiv1zon4vDC49wscXOdferJbrhkASNB84Vd1zwvMX_6d_JhBeDPxZrouu_EhQ4199hCeZen8gcxF6k13FtnHkzd1C4nFi6IrvgTNeel5QbMEokWpLH4Q5XpHvg8qad-KF5MOuuidhQwLwvvmi4sH2RQlbRNAuv4PPARcYTPfk_bt1FI7hacVuzQcgMVpzBKa5XrBS00c__H3FfL0KnWZhc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7txekuupEbMeaBgvL5qZAbJgWJs6NeciL-2Wiv1zon4vDC49wscXOdferJbrhkASNB84Vd1zwvMX_6d_JhBeDPxZrouu_EhQ4199hCeZen8gcxF6k13FtnHkzd1C4nFi6IrvgTNeel5QbMEokWpLH4Q5XpHvg8qad-KF5MOuuidhQwLwvvmi4sH2RQlbRNAuv4PPARcYTPfk_bt1FI7hacVuzQcgMVpzBKa5XrBS00c__H3FfL0KnWZhc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2715474,-8.467364,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Airsania Ubud Antique Villas</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7tWlySfXOGiDDpbCdkMQE6J1YgLtk0DZ091U9r1dhCh3V1HEItUmsrBcAjm096MUnA6-6lnZ62E3l032gO6Ox-vYyZHk0dgqubt1iCfWpc9ALOwHcHAaj4-pGzQlsy7v0j2u2LPcgq-FW-ernsxrZOwzc-jZonwqdzhOp6pNdbEvmt67BdbU-Qdz2kqlekWvvuK3QOnWYolBnTuazYMJKhOo3zh95cKbOKNuSE1IlDbThasiMDxGDmOTA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7tWlySfXOGiDDpbCdkMQE6J1YgLtk0DZ091U9r1dhCh3V1HEItUmsrBcAjm096MUnA6-6lnZ62E3l032gO6Ox-vYyZHk0dgqubt1iCfWpc9ALOwHcHAaj4-pGzQlsy7v0j2u2LPcgq-FW-ernsxrZOwzc-jZonwqdzhOp6pNdbEvmt67BdbU-Qdz2kqlekWvvuK3QOnWYolBnTuazYMJKhOo3zh95cKbOKNuSE1IlDbThasiMDxGDmOTA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2583541,-8.5000923,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ume Sri Villas</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4WPnwY9yai8ZJMkIXZ0QY3MCtgtYb96mXSno_e0xBZqBrLyF35Enl2PTOanBZ9CgrRg5JfB_nyeSOTQrxn5pqtzi3hmghasbyhPvaYZ9yjOzf_pV7eB_J1gjNqo4n5VxoMGz5S4GLTsAYAFOgACSqEQ5vy0JXdEx9t6w3zvQaPFSpWRTsb_8EmWgssNuGlQwHptd5_VsjLL4CQ3UUlDjGKPfQ5jLC-nWXpe_4Q-qj_gM085JBd0ttYiY0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4WPnwY9yai8ZJMkIXZ0QY3MCtgtYb96mXSno_e0xBZqBrLyF35Enl2PTOanBZ9CgrRg5JfB_nyeSOTQrxn5pqtzi3hmghasbyhPvaYZ9yjOzf_pV7eB_J1gjNqo4n5VxoMGz5S4GLTsAYAFOgACSqEQ5vy0JXdEx9t6w3zvQaPFSpWRTsb_8EmWgssNuGlQwHptd5_VsjLL4CQ3UUlDjGKPfQ5jLC-nWXpe_4Q-qj_gM085JBd0ttYiY0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2695216,-8.5291708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jungleight Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7yrYD8PSaGuieSGMMRzE71gY_lzrWTXeHpCoYOSSxdLWdtKElEDLb5DBr14u-4z8VPqqgw-Pucv6-PK8iOwQAnhRpaHX0nMcCk7ZheCE7N0yvKEE-qv6ZO6SO4c7493rmtDVnBf_JZl7esGIuXf6YJv_RZ7OaoP0nKXGUF137lx4yOh0c6tHy0ktAFjveD2nokl3ZhmufAu4GVCq3Cow7x0B20kTrGqv8cpaA4tzyjnnDhJd_gsCeHj1k?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7yrYD8PSaGuieSGMMRzE71gY_lzrWTXeHpCoYOSSxdLWdtKElEDLb5DBr14u-4z8VPqqgw-Pucv6-PK8iOwQAnhRpaHX0nMcCk7ZheCE7N0yvKEE-qv6ZO6SO4c7493rmtDVnBf_JZl7esGIuXf6YJv_RZ7OaoP0nKXGUF137lx4yOh0c6tHy0ktAFjveD2nokl3ZhmufAu4GVCq3Cow7x0B20kTrGqv8cpaA4tzyjnnDhJd_gsCeHj1k?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2816318,-8.4575633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alam Wayang Resort</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6yTlQAzFlEynP1t-mMds7wwklBn1yOCLj-Jou-lLFKE3S8n93ABv5PfafDLxkkMuzfjvUBeOi_Mmmi5DIcg1k7vFfauICyGAJqigyIdwVujDYUgxxsJ871AkRgp5bZrC6_ni7Jp57gKHUYKp-_ALqXp5nh1t-DdZjK0LsYms0DULERoer4l3TAzqX0Okl4PArKc-8V4TOgTZZZ8iKmmtW4c5B50U3kfoLuHKbobpIq5aMTgYiOaJ-sevE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6yTlQAzFlEynP1t-mMds7wwklBn1yOCLj-Jou-lLFKE3S8n93ABv5PfafDLxkkMuzfjvUBeOi_Mmmi5DIcg1k7vFfauICyGAJqigyIdwVujDYUgxxsJ871AkRgp5bZrC6_ni7Jp57gKHUYKp-_ALqXp5nh1t-DdZjK0LsYms0DULERoer4l3TAzqX0Okl4PArKc-8V4TOgTZZZ8iKmmtW4c5B50U3kfoLuHKbobpIq5aMTgYiOaJ-sevE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2480513,-8.5036556,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanah Gajah, a Resort by Hadiprana</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7mVD0OX-RPNv_OMQg4bmY8Fgp9JvzUzlboaVFFhIim9MbNu2dbzD166vJX7inxL62-LDrftjWz5cT7DGzdprbSZOaOSbRyO1S-ux6Sfw8IKcoxP_lsbotTJLcY3fsoEsmB-Ypu-Fcs3gPiXn0ssl6eAh1peW3XyxQXayEJTJ2tpbyALRXrnwQQxbtLCp0EQz8-VP0auyVhcXkXFcbMEiAAwb6IPsc0gFOWxVac-ziBbFDRww2qtd1Bh0Q?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7mVD0OX-RPNv_OMQg4bmY8Fgp9JvzUzlboaVFFhIim9MbNu2dbzD166vJX7inxL62-LDrftjWz5cT7DGzdprbSZOaOSbRyO1S-ux6Sfw8IKcoxP_lsbotTJLcY3fsoEsmB-Ypu-Fcs3gPiXn0ssl6eAh1peW3XyxQXayEJTJ2tpbyALRXrnwQQxbtLCp0EQz8-VP0auyVhcXkXFcbMEiAAwb6IPsc0gFOWxVac-ziBbFDRww2qtd1Bh0Q?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2828328,-8.5233758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ubud Paradise luxury villa</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6t5s953bR1GoAvI5oI--x28FblRsgXgASwZtLSHuU23QwINQUXMxZUcLK2m5LGXXCcw74kJEg47nj65C1MhC8Xgce86sSThcO2TAqZPNmsFmtp7JtPscWG9PzYIwISH9XSgGr5smtEZ3S5VbaDBvbXdyDVEumHnYMy8zAGVYciBPXzaAWVlJE7oASlExU5C4Tm6ZbQjeObpIoEeMjMDemCIRFC7Q-GNMRDZGeE4f21RRF5WOX1uUosYKU?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6t5s953bR1GoAvI5oI--x28FblRsgXgASwZtLSHuU23QwINQUXMxZUcLK2m5LGXXCcw74kJEg47nj65C1MhC8Xgce86sSThcO2TAqZPNmsFmtp7JtPscWG9PzYIwISH9XSgGr5smtEZ3S5VbaDBvbXdyDVEumHnYMy8zAGVYciBPXzaAWVlJE7oASlExU5C4Tm6ZbQjeObpIoEeMjMDemCIRFC7Q-GNMRDZGeE4f21RRF5WOX1uUosYKU?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2537945,-8.4844681,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Inara Alas Harum</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5cusGoIVRLUaNkQDYz__H-hQ5qcFrN9PIMIz3Sg7cfA17oeJeBD4rfstfEYLGsFVFhrURN9zl1JDzKJpjshI67yuQ3qMJGP8JLFjDTysJcBOZa7nn4D6FqNzVwpgE6JRu45WyolpjHrwmaQgfELOWEiqXxBAeDL5op---ifdJVRhXOiNzOtHOknlzicuxLiYUQRM96M0XT_KJJNHewp_XnMvVEtd8MFkcdbjyP-2jvLsY4nBrjOB5ZKOc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5cusGoIVRLUaNkQDYz__H-hQ5qcFrN9PIMIz3Sg7cfA17oeJeBD4rfstfEYLGsFVFhrURN9zl1JDzKJpjshI67yuQ3qMJGP8JLFjDTysJcBOZa7nn4D6FqNzVwpgE6JRu45WyolpjHrwmaQgfELOWEiqXxBAeDL5op---ifdJVRhXOiNzOtHOknlzicuxLiYUQRM96M0XT_KJJNHewp_XnMvVEtd8MFkcdbjyP-2jvLsY4nBrjOB5ZKOc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2684375,-8.4229375,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bidadari Private Villas & Retreat]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4NZfHcAyIg8Yd_ila9V9OArcGxzajlnQFjMfxvWR_z-Cxs70bLBZoQJAUhIVfLu4R3SdSJCjOUrjLkaZ2NvEq3HYxF5fcmC5zkXU3JBBdtk-dB3kFY7Joc6CzFkwuJTD4OWVhQKB99rD5RQFrk3gIBOas_v1nMnPtOtcdHPsjUOyDJC6LF9YdGiPcNoeHs12dezQNKTnQXkv9atESiqf9EXmDhByZNw6qJaaRu30CbGc-k9ORcU-I7Au8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4NZfHcAyIg8Yd_ila9V9OArcGxzajlnQFjMfxvWR_z-Cxs70bLBZoQJAUhIVfLu4R3SdSJCjOUrjLkaZ2NvEq3HYxF5fcmC5zkXU3JBBdtk-dB3kFY7Joc6CzFkwuJTD4OWVhQKB99rD5RQFrk3gIBOas_v1nMnPtOtcdHPsjUOyDJC6LF9YdGiPcNoeHs12dezQNKTnQXkv9atESiqf9EXmDhByZNw6qJaaRu30CbGc-k9ORcU-I7Au8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2642992,-8.4703304,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>E. Sanctuary Resort and Beiji Rainforest Restaurant</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4CyAsTLBzKzxAjJqA5YV-onwOmI_FhA7whgQ7ekRbLY87niyUpN_sarVy-tAoiTqjPRZx_0ol9CPkBcLkSsRjzQ_m4ygJPm3vRvzPLICprnAnNhxDZYA1W47O2HzgxONxM3Q_EsaPVE5kFVzE0Fh4PRvMDPlgGaKMW9sOZ0YDPAz7O2qYdDDZ9jGevFAZIy5OVukAmLPFgvn6P2UNAzGQKn29YwcBmqtlN20RCRVCBVjB3zZAWoZ-Kq3o?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4CyAsTLBzKzxAjJqA5YV-onwOmI_FhA7whgQ7ekRbLY87niyUpN_sarVy-tAoiTqjPRZx_0ol9CPkBcLkSsRjzQ_m4ygJPm3vRvzPLICprnAnNhxDZYA1W47O2HzgxONxM3Q_EsaPVE5kFVzE0Fh4PRvMDPlgGaKMW9sOZ0YDPAz7O2qYdDDZ9jGevFAZIy5OVukAmLPFgvn6P2UNAzGQKn29YwcBmqtlN20RCRVCBVjB3zZAWoZ-Kq3o?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2359574,-8.5409301,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Ambengan Ubud by Pramana Villas</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Db-JYtJQBdTLKHffVCgU-KWXkqI5Qb80eCInl9Xx7ZwP7tEZ1hnREdmIpWwdSeWdm_EQgaFhwV8rox9s7zP4Ztp7MKi-hFTX6xlGCbLtYzBakbVW88oObbt1jj2pkKzztlfCriRLXHVWFTGx53zm-VeegNLZSF_uRSwQ2oXrckqb78DhHfmxm0wIAp8H8_UoM0xuqPChqxuKwjLfPlEJylKlg7V5IPB0DhVYJV3dQxasZMTXMWUVUD-A?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看這裡：https://gobaligo.id/go/ubud-villa]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Db-JYtJQBdTLKHffVCgU-KWXkqI5Qb80eCInl9Xx7ZwP7tEZ1hnREdmIpWwdSeWdm_EQgaFhwV8rox9s7zP4Ztp7MKi-hFTX6xlGCbLtYzBakbVW88oObbt1jj2pkKzztlfCriRLXHVWFTGx53zm-VeegNLZSF_uRSwQ2oXrckqb78DhHfmxm0wIAp8H8_UoM0xuqPChqxuKwjLfPlEJylKlg7V5IPB0DhVYJV3dQxasZMTXMWUVUD-A?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2354928,-8.527319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

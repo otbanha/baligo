@@ -152,6 +152,17 @@ export const maps: MapArea[] = [
     emoji: "🥗",
     isThematic: true,
   },
+  {
+    slug: "ubud-villa",
+    name: "烏布 Villa 推薦",
+    nameEn: "Best Villas in Ubud",
+    description: "精選烏布私人泳池 Villa，含地圖定位與詳細介紹",
+    center: [-8.5069, 115.2625],
+    zoom: 14,
+    kml: "/maps/ubud-villa.kml",
+    emoji: "🏡",
+    isThematic: true,
+  },
 ];
 
 export function getMapBySlug(slug: string): MapArea | undefined {
