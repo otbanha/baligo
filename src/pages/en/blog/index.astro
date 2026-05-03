@@ -27,8 +27,17 @@ function extractFirstImage(body: string): string {
 const langPosts = await getCollection('en');
 const langMap = new Map(langPosts.map(p => [p.id, p]));
 
+function getPublishTime(p: any): Date {
+  const d = new Date(p.data.pubDate);
+  if (p.data.pubHour != null) {
+    d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
+  }
+  return d;
+}
+const isPublished = (p: any) => p.data.pubDate && !p.data.private && getPublishTime(p) <= now;
+
 const allPosts = (await getCollection('blog'))
-  .filter(p => p.data.pubDate && !p.data.private)
+  .filter(isPublished)
   .map(p => {
     const t = langMap.get(p.id);
     return {
@@ -95,8 +104,8 @@ const accommodations = allPosts
 
 const allBlogRaw = await getCollection('blog');
 const baliNewsRaw = allBlogRaw
-  .filter(p => getCategories(p.data.category).includes('新聞存檔') && !p.data.private)
-  .sort((a, b) => new Date(b.data.pubDate).valueOf() - new Date(a.data.pubDate).valueOf())
+  .filter(p => getCategories(p.data.category).includes('新聞存檔') && isPublished(p))
+  .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf())
   .at(0);
 
 const baliNewsToRender = (baliNewsRaw && langMap.get(baliNewsRaw.id)) ?? baliNewsRaw;
@@ -108,6 +117,9 @@ const top5Posts = top5Data.articles
   .map(id => allPosts.find(p => p.id === id))
   .filter(Boolean)
   .map(p => ({ id: p!.id, title: p!.data.title }));
+
+const qaCollection = await getCollection('qa');
+const qaData = qaCollection.map(q => ({ title: q.data.title }));
 
 const youtubeVideos = [
   '0fqEvAzAy9A','GivvqCXp11A','H5N5_UuK7TI','EotdDxXHFwE','7JIqxDIyDF0','ePutHL_Ob1Q'
@@ -259,12 +271,24 @@ const socialLinks = [
           </div>
         )}
 
-        <div class="youtube-section">
-          <div class="youtube-player">
-            <iframe id="yt-iframe" width="100%" height="100%" src=""
-              title="Bali Travel Videos" frameborder="0"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen></iframe>
+        <!-- YouTube + Ask Bali two-column -->
+        <div class="yt-qa-row">
+          <div class="youtube-section">
+            <div class="youtube-player">
+              <iframe id="yt-iframe" width="100%" height="100%" src=""
+                title="Bali Travel Videos" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+            </div>
+          </div>
+          <div class="qa-widget" id="qa-widget">
+            <div class="qa-widget-header">
+              <h2 class="qa-widget-title">🆘 Ask About Bali</h2>
+              <a href="/ask/" class="qa-widget-more">See All →</a>
+            </div>
+            <p class="qa-widget-desc">Others are asking these questions</p>
+            <ul class="qa-widget-list" id="qa-widget-list"></ul>
+            <a href="/ask/" class="qa-widget-cta">✉️ Ask a Question</a>
           </div>
         </div>
 
@@ -331,7 +355,7 @@ const socialLinks = [
   <Footer lang="en" />
 </body>
 
-<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts, blogBase, CAT_EN }}>
+<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts, blogBase, CAT_EN, qaData }}>
   window.addEventListener('DOMContentLoaded', () => {
     const sidebarToggle = document.getElementById('sidebar-toggle');
     const sidebarInner = document.getElementById('sidebar-inner');
@@ -525,6 +549,21 @@ const socialLinks = [
       applyState('all', pageParam, '');
     }
   });
+
+  // Randomise Ask Bali questions
+  (function() {
+    const list = document.getElementById('qa-widget-list');
+    if (!list || !qaData || !qaData.length) return;
+    const shuffled = [...qaData].sort(() => Math.random() - 0.5).slice(0, 4);
+    shuffled.forEach(q => {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = '/ask/';
+      a.textContent = q.title;
+      li.appendChild(a);
+      list.appendChild(li);
+    });
+  })();
 </script>
 
 <style>
@@ -579,9 +618,23 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 .top5-item a:hover { background: var(--ocean); color: var(--gold-light); border-color: var(--ocean); }
 .top5-num { width: 20px; height: 20px; flex-shrink: 0; background-image: url('/favicon-32x32.png'); background-size: cover; background-repeat: no-repeat; border-radius: 4px; font-size: 0; }
 .top5-title { line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
-.youtube-section { margin-bottom: 1.2em; }
+.yt-qa-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 1.2em; align-items: start; }
+@media (max-width: 720px) { .yt-qa-row { grid-template-columns: 1fr; } }
+.youtube-section { margin-bottom: 0; }
 .youtube-player { position: relative; width: 100%; aspect-ratio: 16/9; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(26,54,93,0.15); background: var(--ocean); }
 .youtube-player iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.qa-widget { background: #f8f5f0; border: 1px solid #e0ddd6; border-radius: 12px; padding: 18px 20px; margin-bottom: 24px; }
+.qa-widget-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+.qa-widget-title { font-size: 17px; font-weight: 700; color: var(--ocean, #1A365D); margin: 0; }
+.qa-widget-desc { font-size: 13px; color: #888; margin: 0 0 10px; }
+.qa-widget-more { font-size: 13px; color: var(--gold, #C5A059); font-weight: 600; text-decoration: none; }
+.qa-widget-more:hover { text-decoration: underline; }
+.qa-widget-list { list-style: none; margin: 0 0 14px; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+.qa-widget-list li a { display: block; padding: 8px 12px; border-radius: 8px; font-size: 14px; color: #333; text-decoration: none; background: #fff; border: 1px solid #e8e4dc; transition: border-color 0.15s, background 0.15s; }
+.qa-widget-list li a:hover { border-color: var(--gold, #C5A059); background: #fffdf8; color: var(--ocean, #1A365D); }
+.qa-widget-list li a::before { content: "❓ "; }
+.qa-widget-cta { display: inline-block; font-size: 13px; font-weight: 600; color: #fff; background: var(--ocean, #1A365D); padding: 8px 18px; border-radius: 8px; text-decoration: none; transition: background 0.2s; }
+.qa-widget-cta:hover { background: #2a5298; color: #fff; }
 .social-section { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.6em; margin-bottom: 2em; }
 .social-btn { display: flex; align-items: center; justify-content: center; gap: 0.45em; padding: 0.55em 0.8em; border-radius: 10px; text-decoration: none; font-size: 0.82em; font-weight: 600; color: white !important; transition: opacity 0.2s, transform 0.2s; }
 .social-btn:hover { opacity: 0.85; transform: translateY(-2px); }
