@@ -186,8 +186,29 @@ const socialLinks = [
     <main>
       <div id="homepage-blocks">
 
-        <TripPlannerBanner lang="zh-cn" />
-        <BudgetCalculatorBanner lang="zh-cn" />
+        <!-- 田字格 2×2 快速入口 -->
+        <div class="quick-grid">
+          <a href="/zh-cn/trip-planner/" class="qg-btn qg-blue">
+            <span class="qg-icon">🗺️</span>
+            <span class="qg-title">行程规划工具</span>
+            <span class="qg-desc">个性化分区攻略与景点推荐</span>
+          </a>
+          <a href="/zh-cn/bali-budget-calculator/" class="qg-btn qg-green">
+            <span class="qg-icon">💰</span>
+            <span class="qg-title">预算计算器</span>
+            <span class="qg-desc">立即估算每人巴厘岛旅费</span>
+          </a>
+          <a href="https://gobaligo.id/blog/bali-transport-quiz/" class="qg-btn qg-orange">
+            <span class="qg-icon">🚗</span>
+            <span class="qg-title">包车？叫车？</span>
+            <span class="qg-desc">一分钟测验选出最省钱移动方式</span>
+          </a>
+          <a href="https://gobaligo.id/map/" class="qg-btn qg-teal">
+            <span class="qg-icon">📍</span>
+            <span class="qg-title">攻略地图</span>
+            <span class="qg-desc">景点、住宿、餐厅互动地图</span>
+          </a>
+        </div>
 
         <div class="top-widgets" id="top-widgets">
           <div class="widget-box">
@@ -621,6 +642,18 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   .widget-title { font-size: 0.88em; margin-bottom: 0.7em; }
 }
 @media (max-width: 600px) { .featured-grid { grid-template-columns: 1fr; } .social-section { grid-template-columns: repeat(2, 1fr); } .accom-image { height: 140px; } .top5-list { flex-direction: column; } .top5-item a { border-radius: 8px; } .card { min-height: 72px; } .card-image { width: 90px; min-width: 90px; height: 72px; border-radius: 8px 0 0 8px; } .card-body { padding: 0.5em 0.75em; } .card-title { font-size: 0.85em; } .card-desc { display: none; } }
+.quick-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 1.5em; }
+.qg-btn { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; padding: 1.2rem 1rem; border-radius: 14px; text-decoration: none; color: #fff; text-align: center; transition: filter 0.15s, transform 0.1s; -webkit-tap-highlight-color: transparent; }
+.qg-btn:hover { filter: brightness(1.08); transform: translateY(-2px); }
+.qg-btn:active { filter: brightness(0.92); transform: scale(0.97); }
+.qg-icon { font-size: 2rem; line-height: 1; }
+.qg-title { font-size: 1rem; font-weight: 800; line-height: 1.2; }
+.qg-desc  { font-size: 0.78rem; color: rgba(255,255,255,0.82); line-height: 1.3; }
+.qg-blue   { background: linear-gradient(135deg, #1a6ee1 0%, #2a5298 100%); box-shadow: 0 4px 16px rgba(26,54,93,0.22); }
+.qg-green  { background: linear-gradient(135deg, #1a7a3e 0%, #2d7a4f 100%); box-shadow: 0 4px 16px rgba(26,74,46,0.22); }
+.qg-orange { background: linear-gradient(135deg, #e07a00 0%, #c45b00 100%); box-shadow: 0 4px 16px rgba(180,80,0,0.22); }
+.qg-teal   { background: linear-gradient(135deg, #0e8fa0 0%, #096878 100%); box-shadow: 0 4px 16px rgba(9,104,120,0.22); }
+@media (max-width: 480px) { .qg-title { font-size: 0.88rem; } .qg-desc { display: none; } }
 </style>
 <script define:vars={{ promosJson }}>
 window.addEventListener('load', () => {
