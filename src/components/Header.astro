@@ -7,8 +7,9 @@ interface Props {
   lang?: string;
   slug?: string;
   basePath?: string;
+  hideLangSwitcher?: boolean;
 }
-const { lang, slug, basePath } = Astro.props;
+const { lang, slug, basePath, hideLangSwitcher } = Astro.props;
 
 const homeUrl = lang === 'en' ? '/en/blog/' :
                 lang === 'zh-cn' ? '/zh-cn/blog/' :
@@ -57,7 +58,7 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
       🔖<span class="bk-badge" id="bk-badge" hidden></span>
     </a>
 
-    <LanguageSwitcher currentLang={lang ?? 'blog'} slug={slug ?? ''} basePath={basePath} />
+    {!hideLangSwitcher && <LanguageSwitcher currentLang={lang ?? 'blog'} slug={slug ?? ''} basePath={basePath} />}
   </nav>
 </header>
 
