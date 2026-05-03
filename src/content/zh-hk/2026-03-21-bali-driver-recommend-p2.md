@@ -3,7 +3,6 @@ title: 峇里島包車司機推薦（第二頁）
 slug: ''
 description: ''
 pubDate: 2026-01-01T00:00:00.000Z
-pubHour: null
 category:
   - 叫車包車
 tags: []
@@ -11,7 +10,7 @@ originalUrl: ''
 shuffle_h2: true
 embeds: []
 lang: zh-hk
-_srcHash: 97adbcb579e51c797ccc97282dcd96e3
+_srcHash: facf150d45395de96967f689d1bc571f
 ---
 
 第一頁，獲得我哋優先推薦嘅司機喺[呢度](https://gobaligo.id/blog/2024-07-07-668aaea7fd89780001981840/)
