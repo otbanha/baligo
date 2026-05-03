@@ -278,6 +278,26 @@ const socialLinks = [
 <body>
   <Header />
 
+  <!-- 田字格快速入口：僅手機版顯示 -->
+  <div class="quick-links" id="quick-links">
+    <a href="/trip-planner/" class="ql-btn ql-blue">
+      <span class="ql-icon">🗺️</span>
+      <span class="ql-label">行程規劃工具</span>
+    </a>
+    <a href="/bali-budget-calculator/" class="ql-btn ql-green">
+      <span class="ql-icon">💰</span>
+      <span class="ql-label">預算計算器</span>
+    </a>
+    <a href="https://gobaligo.id/blog/bali-transport-quiz/" class="ql-btn ql-orange">
+      <span class="ql-icon">🚗</span>
+      <span class="ql-label">包車？叫車？</span>
+    </a>
+    <a href="https://gobaligo.id/map/" class="ql-btn ql-teal">
+      <span class="ql-icon">📍</span>
+      <span class="ql-label">攻略地圖</span>
+    </a>
+  </div>
+
   <div class="layout">
     <aside class="sidebar" id="sidebar">
       <button class="sidebar-toggle" id="sidebar-toggle" aria-expanded="false">
@@ -312,6 +332,16 @@ const socialLinks = [
 
         <TripPlannerBanner lang="zh-tw" />
         <BudgetCalculatorBanner lang="zh-tw" />
+
+        <div class="tq-banner">
+          <div class="tq-banner-inner">
+            <div class="tq-banner-text">
+              <h2 class="tq-banner-title">🚗 包車？叫車？</h2>
+              <p class="tq-banner-desc">一分鐘小測驗選出最省錢、不踩雷的移動方式</p>
+            </div>
+            <a href="https://gobaligo.id/blog/bali-transport-quiz/" class="tq-banner-btn">開始測驗 →</a>
+          </div>
+        </div>
 
         <!-- Accommodations + Bali News -->
         <div class="top-widgets" id="top-widgets">
@@ -1297,6 +1327,86 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   transition: background 0.2s;
 }
 .qa-widget-cta:hover { background: #2a5298; color: #fff; }
+
+/* ── 包車叫車 Banner ── */
+.tq-banner {
+  background: linear-gradient(135deg, #e07a00 0%, #c45b00 100%);
+  border-radius: 14px;
+  padding: 1.35rem 1.6rem;
+  margin-bottom: 1.5em;
+  box-shadow: 0 4px 20px rgba(180, 80, 0, 0.22);
+}
+.tq-banner-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+}
+.tq-banner-text { flex: 1; min-width: 180px; }
+.tq-banner-title {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #fff;
+  margin: 0 0 0.3em;
+}
+.tq-banner-desc { font-size: 0.86rem; color: rgba(255,255,255,0.82); margin: 0; }
+.tq-banner-btn {
+  display: inline-block;
+  background: var(--gold, #C5A059);
+  color: #7a3000;
+  font-weight: 800;
+  font-size: 0.9rem;
+  padding: 0.65em 1.5em;
+  border-radius: 99px;
+  text-decoration: none;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: background 0.15s, transform 0.1s;
+}
+.tq-banner-btn:hover { background: var(--gold-light, #e8d4b8); transform: translateY(-1px); }
+@media (max-width: 600px) {
+  .tq-banner-inner { flex-direction: column; align-items: flex-start; }
+}
+
+/* ── 田字格快速入口 ── */
+.quick-links {
+  display: none; /* 預設隱藏；手機版才顯示 */
+}
+@media (max-width: 767px) {
+  .quick-links {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    padding: 12px 14px;
+    background: #f5f6fa;
+    border-bottom: 1px solid #e5e7eb;
+  }
+  .ql-btn {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 6px;
+    padding: 14px 8px;
+    border-radius: 12px;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 0.82rem;
+    line-height: 1.25;
+    text-align: center;
+    color: #fff;
+    transition: filter 0.15s, transform 0.1s;
+    -webkit-tap-highlight-color: transparent;
+  }
+  .ql-btn:active { filter: brightness(0.9); transform: scale(0.97); }
+  .ql-icon { font-size: 1.6rem; line-height: 1; }
+  .ql-label { letter-spacing: 0.02em; }
+  .ql-blue   { background: linear-gradient(135deg, #1a6ee1 0%, #2a5298 100%); }
+  .ql-green  { background: linear-gradient(135deg, #1a7a3e 0%, #2d7a4f 100%); }
+  .ql-orange { background: linear-gradient(135deg, #e07a00 0%, #c45b00 100%); }
+  .ql-teal   { background: linear-gradient(135deg, #0e8fa0 0%, #096878 100%); }
+}
 </style>
 <script define:vars={{ promosJson }}>
 window.addEventListener('load', () => {
