@@ -91,6 +91,7 @@ const allPostsData = allPosts
   .filter(p => true /* include 新聞存檔 */)
   .map(p => ({
     id: p.id,
+    slug: p.data.slug || p.id,
     title: p.data.title,
     heroImage: p.data.heroImage || '',
     category: getCategories(p.data.category),
@@ -185,11 +186,6 @@ const socialLinks = [
             ))}
           </ul>
         </div>
-        {activePromos.length > 0 && (
-          <div class="sidebar-section">
-            <div id="promo-block-index"></div>
-          </div>
-        )}
       </div>
     </aside>
 
@@ -347,6 +343,12 @@ const socialLinks = [
       </div>
 
       <div id="pagination" class="pagination"></div>
+
+      {activePromos.length > 0 && (
+        <div id="promo-block-main">
+          <div id="promo-block-index"></div>
+        </div>
+      )}
     </main>
   </div>
 
@@ -390,8 +392,10 @@ const socialLinks = [
       if (!section || !list) return;
       const shuffled = data.slice().sort(() => Math.random() - 0.5).slice(0, 6);
       list.innerHTML = shuffled.map((item) => {
-        const localTitle = allPostsData.find(p => p.id === item.id)?.title || item.title;
-        return `<li class="top5-item"><a href="${blogBase}/${item.id}/"><span style="display:inline-block;width:20px;height:20px;flex-shrink:0;background-image:url('/favicon-32x32.png');background-size:cover;background-repeat:no-repeat;border-radius:4px"></span><span class="top5-title">${localTitle}</span></a></li>`;
+        const postData = allPostsData.find(p => p.id === item.id);
+        const localTitle = postData?.title || item.title;
+        const slug = postData?.slug || item.id;
+        return `<li class="top5-item"><a href="${blogBase}/${slug}/"><span style="display:inline-block;width:20px;height:20px;flex-shrink:0;background-image:url('/favicon-32x32.png');background-size:cover;background-repeat:no-repeat;border-radius:4px"></span><span class="top5-title">${localTitle}</span></a></li>`;
       }).join('');
       section.style.display = '';
     }).catch(() => {});
@@ -665,6 +669,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 .card-title { font-size: 0.95em; font-weight: 700; color: var(--ocean); margin: 0 0 0.3em; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 .card-desc { font-size: 0.8em; color: var(--text-light); line-height: 1.45; margin: 0; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
 .pagination { display: flex; align-items: center; justify-content: center; gap: 1em; margin-top: 2.5em; padding-top: 1.5em; border-top: 1px solid rgba(197,160,89,0.2); }
+#promo-block-main { margin-top: 1.5em; padding-bottom: 1em; }
 .page-btn { background: var(--ocean); color: var(--white); border: none; padding: 0.5em 1.2em; border-radius: 8px; cursor: pointer; font-size: 0.9em; font-family: inherit; transition: background 0.2s; }
 .page-btn:hover:not(:disabled) { background: var(--ocean-light); }
 .page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
