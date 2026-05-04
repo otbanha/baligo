@@ -1,5 +1,8 @@
 ---
 title: 包車一天多少錢合理？
+title_en: "What's a Reasonable Price for a Full-Day Car Charter?"
+title_zh_cn: "包车一天多少钱合理？"
+title_zh_hk: "包車一日幾錢合理？"
 category: transport
 relatedLinks:
 - slug: go/bali-car-charter-guide

@@ -1,5 +1,8 @@
 ---
 title: 5 天 4 夜怎麼排比較順？
+title_en: "What's the Best Way to Plan a 5-Day 4-Night Bali Itinerary?"
+title_zh_cn: "5天4夜行程怎么安排比较顺？"
+title_zh_hk: "5天4夜行程點排先順？"
 category: itinerary
 relatedLinks:
 - slug: trip-planner/

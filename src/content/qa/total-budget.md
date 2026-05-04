@@ -1,5 +1,8 @@
 ---
 title: 峇里島一趟大概要花多少？換匯怎麼換才不會被騙？
+title_en: "How Much Does a Bali Trip Cost, and How to Exchange Money Safely?"
+title_zh_cn: "峇里岛一趟大概要花多少？换汇怎么换才不会被骗？"
+title_zh_hk: "峇里島一程大概使幾多？換匯點換先唔會畀人呃？"
 category: budget
 relatedLinks:
 - slug: bali-budget-calculator

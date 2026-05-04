@@ -1,5 +1,8 @@
 ---
 title: 峇里島需要包車嗎？還是用 GoJek/Grab 就好？
+title_en: "Should I Charter a Car in Bali or Just Use GoJek/Grab?"
+title_zh_cn: "峇里岛需要包车吗？还是用 GoJek/Grab 就好？"
+title_zh_hk: "峇里島需要包車咩？定係用 GoJek/Grab 就得？"
 category: transport
 relatedLinks:
 - slug: blog/bali-transport-quiz/

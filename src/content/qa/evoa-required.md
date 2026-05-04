@@ -1,5 +1,8 @@
 ---
 title: 簽證一定要先辦嗎？
+title_en: "Do I Need to Get a Visa Before Arriving in Bali?"
+title_zh_cn: "签证一定要先办吗？"
+title_zh_hk: "簽證一定要先辦咩？"
 category: entry
 relatedLinks:
 - slug: blog/2024-05-06-6638e732fd89780001565d48/

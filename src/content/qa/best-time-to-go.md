@@ -1,5 +1,8 @@
 ---
 title: 峇里島什麼時候去最好？
+title_en: "When Is the Best Time to Visit Bali?"
+title_zh_cn: "峇里岛什么时候去最好？"
+title_zh_hk: "峇里島幾時去最好？"
 category: weather
 relatedLinks:
 - slug: blog/2025-04-02-67ecc962fd89780001212629/

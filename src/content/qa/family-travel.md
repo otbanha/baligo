@@ -1,5 +1,8 @@
 ---
 title: 帶小孩適合去峇里島嗎？
+title_en: "Is Bali a Good Destination for Families with Kids?"
+title_zh_cn: "带小孩适合去峇里岛吗？"
+title_zh_hk: "帶細路適合去峇里島咩？"
 category: family
 relatedLinks:
 - slug: 2026-03-30-113245/

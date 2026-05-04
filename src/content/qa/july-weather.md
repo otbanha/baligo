@@ -1,5 +1,8 @@
 ---
 title: 7/8 月去峇里島會不會下雨？
+title_en: "Will It Rain if I Visit Bali in July or August?"
+title_zh_cn: "7/8 月去峇里岛会不会下雨？"
+title_zh_hk: "7/8月去峇里島會唔會落雨？"
 category: weather
 featured: false
 pubDate: 2026-04-26

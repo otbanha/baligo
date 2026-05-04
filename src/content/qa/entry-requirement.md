@@ -1,5 +1,8 @@
 ---
 title: 入境印尼/峇里島需要哪些文件？
+title_en: "What Documents Do I Need to Enter Indonesia/Bali?"
+title_zh_cn: "入境印尼/峇里岛需要哪些文件？"
+title_zh_hk: "入境印尼/峇里島需要咩文件？"
 category: entry
 relatedLinks:
 - slug: blog/2025-08-14-689dcce7fd8978000125fc52/
