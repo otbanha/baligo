@@ -1780,6 +1780,7 @@ const SPOT_REGION_MAP = {
 };
 
 function buildTargetAreas(mentioned) {
+  const userSelectedAreas = state.areas.filter(a => a !== 'undecided');
   const chosen = new Set([...state.areas, ...mentioned]);
   chosen.delete('undecided');
   (state.allSpots || []).forEach(val => { const r = SPOT_REGION_MAP[val]; if (r) chosen.add(r); });
@@ -1800,15 +1801,54 @@ function buildTargetAreas(mentioned) {
     if (state.budget === 'luxury')    { chosen.add('nusadua'); chosen.add('seminyak'); }
     if (chosen.size === 0) ['kuta','ubud','seminyak'].forEach(a => chosen.add(a));
   }
-  const days = parseInt(state.days) || 5;
-  if (days <= 3 && chosen.size > 3) {
-    const sorted = [...chosen].sort((a,b) => {
-      const sa = (REGIONS[a]?.interestMatch||[]).filter(i=>state.interests.includes(i)).length;
-      const sb = (REGIONS[b]?.interestMatch||[]).filter(i=>state.interests.includes(i)).length;
-      return sb-sa;
-    });
-    return sorted.slice(0,3);
+
+  const OFFSHORE = ['penida', 'lembongan', 'komodo'];
+  // Mainland fill priority (sanur excluded — added explicitly as ferry hub)
+  const MAINLAND_FILL = ['ubud', 'seminyak', 'kuta', 'canggu', 'jimbaran', 'nusadua', 'uluwatu'];
+
+  if (userSelectedAreas.length === 0 && mentioned.length === 0) {
+    // Hard rules when user didn't pick regions
+    if (state.days === '4' || state.days === '5') {
+      // No offshore; 2 regions for 4d, 3 for 5d
+      OFFSHORE.forEach(i => chosen.delete(i));
+      const target = state.days === '4' ? 2 : 3;
+      for (const r of [...MAINLAND_FILL, 'sanur']) {
+        if (chosen.size >= target) break;
+        chosen.add(r);
+      }
+    } else if (state.days === '68') {
+      // 4 regions: 2 mainland + sanur + penida
+      OFFSHORE.forEach(i => chosen.delete(i));
+      chosen.delete('sanur');
+      const mainland = [...chosen];
+      const fill = MAINLAND_FILL.filter(a => !mainland.includes(a));
+      const top2 = [...mainland, ...fill].slice(0, 2);
+      chosen.clear();
+      top2.forEach(a => chosen.add(a));
+      chosen.add('sanur');
+      chosen.add('penida');
+    } else {
+      // '9': 6 regions: 4 mainland + sanur + penida
+      OFFSHORE.forEach(i => chosen.delete(i));
+      chosen.delete('sanur');
+      const mainland = [...chosen];
+      const fill = MAINLAND_FILL.filter(a => !mainland.includes(a));
+      const top4 = [...mainland, ...fill].slice(0, 4);
+      chosen.clear();
+      top4.forEach(a => chosen.add(a));
+      chosen.add('sanur');
+      chosen.add('penida');
+    }
+  } else {
+    // User selected areas: enforce rules
+    if (state.days === '4' || state.days === '5') {
+      OFFSHORE.forEach(i => chosen.delete(i));
+    }
+    if ((chosen.has('penida') || chosen.has('lembongan')) && !chosen.has('sanur')) {
+      chosen.add('sanur');
+    }
   }
+
   return [...chosen];
 }
 
@@ -2149,11 +2189,26 @@ function routeOrderAreas(areas) {
   areas.forEach(a => { if (!ROUTE_FLOW.includes(a) && !ordered.includes(a)) ordered.push(a); });
   if (ordered.length < 2) return ordered;
   const GOOD_LAST = ['jimbaran', 'uluwatu', 'nusadua', 'sanur', 'kuta', 'seminyak'];
+  const OFFSHORE = ['penida', 'lembongan'];
   const currentLast = ordered[ordered.length - 1];
   if (!GOOD_LAST.includes(currentLast)) {
     const bestLast = GOOD_LAST.find(a => ordered.includes(a));
     if (bestLast) {
       ordered = [...ordered.filter(a => a !== bestLast), bestLast];
+    }
+  }
+  // Offshore islands must never be last — move them before sanur (their ferry hub)
+  if (OFFSHORE.includes(ordered[ordered.length - 1])) {
+    const islands = ordered.filter(a => OFFSHORE.includes(a));
+    const rest = ordered.filter(a => !OFFSHORE.includes(a));
+    const sanurIdx = rest.indexOf('sanur');
+    if (sanurIdx !== -1) {
+      rest.splice(sanurIdx, 0, ...islands);
+      ordered = rest;
+    } else {
+      // No sanur — put islands before the last stop
+      const last = rest.pop();
+      ordered = [...rest, ...islands, last];
     }
   }
   return ordered;
