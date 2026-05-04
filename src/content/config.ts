@@ -72,6 +72,20 @@ const translatedSchema = z.object({
   shuffle_h2: z.boolean().optional(),
 });
 
+const qa = defineCollection({
+  type: 'content',
+  schema: z.object({
+    title: z.string(),
+    title_en: z.string().optional(),
+    title_zh_cn: z.string().optional(),
+    title_zh_hk: z.string().optional(),
+    category: z.string().optional(),
+    relatedLinks: z.array(z.object({ slug: z.string(), label: z.string() })).optional(),
+    featured: z.boolean().optional(),
+    pubDate: z.coerce.date().optional(),
+  }),
+});
+
 // 翻譯文章集合 — 使用 glob loader 支援連字號目錄名稱
 const zhcn = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/zh-cn' }),
@@ -87,7 +101,7 @@ const en = defineCollection({
 });
 
 export const collections = {
-  blog, blocks, promotions,
+  blog, blocks, promotions, qa,
   'zh-cn': zhcn,
   'zh-hk': zhhk,
   'en': en,
