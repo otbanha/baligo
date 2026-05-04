@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 1915c1eb797ee9c3da6f413a7bf51f86
+_srcHash: e272aedbcbd96f012606151645e7f303
 ---
 
 峇里島烏魯瓦圖有好多間望海嘅酒店，但係可以令你字面意義上「住喺懸崖邊」嘅，大概得呢一間。

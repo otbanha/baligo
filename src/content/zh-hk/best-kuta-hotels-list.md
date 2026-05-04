@@ -24,7 +24,7 @@ private: false
 shuffle_h2: true
 embeds: []
 lang: zh-hk
-_srcHash: 6670cea00b15a26931c0f400a4ea953a
+_srcHash: 3a9e3320ebda06eb5ea5c4c259333ad7
 ---
 
 講到庫塔住宿，大家第一個諗到嘅永遠係海灘酒店——但海景房唔一定係最聰明嘅選擇。

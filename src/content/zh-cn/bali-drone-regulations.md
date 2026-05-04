@@ -26,14 +26,15 @@ tags:
   - 峇里島自由行
   - 巴厘岛自由行
   - BaliTravelTips
-heroImage: https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
+heroImage: >-
+  https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
 originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 836cca84851a4cb600426f443d4d5c27
+_srcHash: 5f94b8ff648a51ad32bda161eb6a2c6f
 ---
 
 休闲玩家免申请也能飞的超简单懒人包，附禁飞区＆实用 checklist

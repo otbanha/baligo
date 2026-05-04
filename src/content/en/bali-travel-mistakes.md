@@ -37,14 +37,15 @@ tags:
   - 巴厘岛腹
   - '#BaliBelly'
   - '#避雷指南'
-heroImage: https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
+heroImage: >-
+  https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
   https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
 originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 0184649ac3a91fcb2de7dff300b9f4a3
+_srcHash: ed038f0919f06b2cefaba8d8979d3ec5
 ---
 
 Recently, I came across a Threads post that resonated deeply with me.

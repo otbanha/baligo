@@ -24,7 +24,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 60c89d8a92583626ed7f57789fde167d
+_srcHash: 2d6f440c7e6ac0f0666d51bdb6f96dd3
 ---
 
 如果你去巴厘岛旅游，想住私人泳池 Villa 却不想跑到偏僻的地方，The Maya Seminyak Villas（又叫 Maya Sayang Seminyak）是个很值得考虑的选项。就藏在 Seminyak 最热闹的 Eat Street（Kayu Aya 街）旁边，走路几分钟就能到餐厅和购物商场，但进了 Villa 大门又马上安静下来，完全不像身处市中心。整个物业只有11间 Villa，规模小，私密感很强。

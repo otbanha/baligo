@@ -35,14 +35,15 @@ tags:
   - 峇里島自由行
   - 巴厘岛自由行
   - BaliTravelTips
-heroImage: https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
+heroImage: >-
+  https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
   https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
 originalUrl: ''
 private: false
 shuffle_h2: true
 embeds: []
 lang: en
-_srcHash: 8a1a0d71bf928006a32cb5b0b56d074c
+_srcHash: 9c7b6a4749db1108bb41153be87a98e8
 ---
 
 In Bali, Kuta is where most journeys begin.

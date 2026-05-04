@@ -116,6 +116,15 @@ function md5(text) {
   return createHash('md5').update(text).digest('hex');
 }
 
+// Hash only translatable content — strip image lines and heroImage so that
+// bulk image URL updates (synced by sync_translations.py) don't invalidate the cache.
+function contentHash(text) {
+  const stripped = text
+    .replace(/^heroImage:.*$/m, 'heroImage: __img__')
+    .replace(/^!\[.*?\]\(.*?\)\s*$/gm, '');
+  return md5(stripped);
+}
+
 /**
  * 將 markdown body 分割成「可翻譯段落」和「保留段落」。
  * 返回 segment 陣列：{ type: 'text'|'code'|'image'|'block'|'empty', content: string }
@@ -294,7 +303,7 @@ async function translateFile(filename, lang) {
     ? join(`src/content/blocks/${lang}`, filename)
     : join(`src/content/${lang}`, filename);
   const srcContent = readFileSync(srcPath, 'utf-8');
-  const srcHash = md5(srcContent);
+  const srcHash = contentHash(srcContent);
   const fileCacheKey = `${isBlocks ? 'blocks:' : ''}${filename}:${lang}`;
 
   // 跳過未變動的已翻譯檔案

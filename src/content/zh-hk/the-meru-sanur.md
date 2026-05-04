@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 15547e07c6315c7284702325343d6f41
+_srcHash: 41495ab8431eb7b8bb54f7a10b52e40d
 ---
 如果你對峇里島嘅印象只停留喺庫塔嘅喧囂或者水明漾嘅夜生活，咁 The Meru Sanur 可能會令你重新定義「峇里島度假」呢件事。
 

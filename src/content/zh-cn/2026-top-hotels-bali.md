@@ -35,7 +35,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: f97123967061a50a16b99d520f27d5de
+_srcHash: 91206a35bd6d970e34be0a46ad9be5a5
 ---
 
 巴厘岛的五星酒店多到让人选择困难。乌布有 [Capella](https://gobaligo.id/blog/2025-03-20-671263f0fd89780001ee6da7/)、乌鲁瓦图有 [Alila](https://gobaligo.id/blog/2025-04-06-67f1f8fbfd89780001607840/)、努沙杜瓦有 [Apurva Kempinski](https://gobaligo.id/blog/2024-04-22-660ff581fd89780001f31315/)…… 但 2026 年最让人惊喜的，是一间盖在沙努尔的全新度假村——**The Meru Sanur**。

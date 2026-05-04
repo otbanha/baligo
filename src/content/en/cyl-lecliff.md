@@ -29,7 +29,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 31e22d4aa9fd65649bbf8b04dac98782
+_srcHash: 0df4a6ffd76e85b4d69b92a4a1e64060
 ---
 > Adapted from group member [Cheng Yi Lin's travelogue](https://www.facebook.com/share/p/1cFj662JSR/)
 

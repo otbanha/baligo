@@ -31,7 +31,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 15547e07c6315c7284702325343d6f41
+_srcHash: 41495ab8431eb7b8bb54f7a10b52e40d
 ---
 
 If your impression of Bali is limited to Kuta's hustle or Seminyak's nightlife, The Meru Sanur might redefine what 'Bali vacation' means to you.

@@ -13,7 +13,7 @@ tags:
   - 接駁
 originalUrl: ''
 lang: en
-_srcHash: 802fc91942d01e8e25b6cb4bf001c5b0
+_srcHash: cf771ad42ba7e79ea09d254dd9fd3449
 ---
 Many travelers choose late flights when returning from Bali to Taiwan, squeezing every last moment out of their final day. However, when the flight schedule shows an arrival time of 9:20 PM at Taoyuan Airport, a pressing question arises—**is there still a chance to catch the last southbound high-speed train at 10:30 PM?**
 

@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 1915c1eb797ee9c3da6f413a7bf51f86
+_srcHash: e272aedbcbd96f012606151645e7f303
 ---
 
 巴厘岛乌鲁瓦图有很多面海的酒店，但能让你字面意义上「住在悬崖岸边上」的，大概只有这一间。

@@ -25,14 +25,15 @@ tags:
   - Bali travel tips
   - Bali Gojek GoSend
   - Bali delivery service
-heroImage: https://images.gobaligo.id/images/2026-04/1777187667446-chatgpt_image_2026_4_26_02_10_06.png
+heroImage: >-
+  https://images.gobaligo.id/images/2026-04/1777187667446-chatgpt_image_2026_4_26_02_10_06.png
   https://images.gobaligo.id/images/2026-04/1777187667446-chatgpt_image_2026_4_26_02_10_06.png
 originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 297a439c9aa2a5d36a456d9c5cf0d49b
+_srcHash: a3a17bfbd04dce0a6a9cff14d0dd690e
 ---
 
 喺好多人印象中，峇里島係放鬆、度假、慢節奏嘅代名詞。

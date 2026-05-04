@@ -3,7 +3,7 @@ title: jim
 type: normal
 randomCount: 5
 lang: en
-_srcHash: 915cf78cc913eb710b445164de6a717e
+_srcHash: 1b6a074d167d79e12e3207c0b9b57848
 ---
 ## More Jimbaran Dining and Entertainment Guide
 

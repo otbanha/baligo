@@ -30,7 +30,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 1915c1eb797ee9c3da6f413a7bf51f86
+_srcHash: e272aedbcbd96f012606151645e7f303
 ---
 
 Uluwatu, Bali, has many ocean-facing hotels, but only this one literally lets you 'live on the cliffside.'
