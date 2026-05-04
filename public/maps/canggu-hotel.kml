@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Canggu住宿推薦地圖  by gobaligo.id</name>
+    <description>峇里島旅遊攻略：https://gobaligo.id</description>
+    <Style id="icon-1603-880E4F-normal">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-880E4F-highlight">
+      <IconStyle>
+        <color>ff4f0e88</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Canggu住宿推薦</name>
+      <Placemark>
+        <name>COMO Uma Canggu</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyGandINgsq2vRLjiKzgMqktzZvzuANXrymqrqkTZsgMGIHkXRlqwBImuqVpYdTZVD3aAzQtXoEjWZV1NLl7EW4QNjY73X6OJEkBJHGFFZUis99AWoB5cu47dHxJE8X74DRF4xFu1E_csGF8AdOvBc-bPqSSRSWeGMTroy62tKlwWSdYPT4hIdYKySXtdOYpxdR66eaaL9FK-mIMxgGRwpdn-Xm8fKLnXjkMnKb0jei__q2HoHcUPQ9Sdc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyGandINgsq2vRLjiKzgMqktzZvzuANXrymqrqkTZsgMGIHkXRlqwBImuqVpYdTZVD3aAzQtXoEjWZV1NLl7EW4QNjY73X6OJEkBJHGFFZUis99AWoB5cu47dHxJE8X74DRF4xFu1E_csGF8AdOvBc-bPqSSRSWeGMTroy62tKlwWSdYPT4hIdYKySXtdOYpxdR66eaaL9FK-mIMxgGRwpdn-Xm8fKLnXjkMnKb0jei__q2HoHcUPQ9Sdc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1258693,-8.654501,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hotel Tugu Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy0DXCuEyaW31tNuxWLq5rvmdXWLhaUGOHI73cXBr6Sl91shdkfMvpyrRsDlnmIBxMd9bS76CdSSYet6ETXq2kSHxTlt8YyHmLd9e8xBnpRwfrhyB5goLG8T6tX9APXqq76PeLZrWlyUPn7IjI8-XwTrUSZg4XFrZvxh3hixOU592xRp-zyOnWtc2FlhfdD_aKKURZJIKg-2h4RuZ5fyKLDkkKJ18AcICHzC_snlrokZbDB6E1rBAL7WCs?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy0DXCuEyaW31tNuxWLq5rvmdXWLhaUGOHI73cXBr6Sl91shdkfMvpyrRsDlnmIBxMd9bS76CdSSYet6ETXq2kSHxTlt8YyHmLd9e8xBnpRwfrhyB5goLG8T6tX9APXqq76PeLZrWlyUPn7IjI8-XwTrUSZg4XFrZvxh3hixOU592xRp-zyOnWtc2FlhfdD_aKKURZJIKg-2h4RuZ5fyKLDkkKJ18AcICHzC_snlrokZbDB6E1rBAL7WCs?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1306922,-8.6585671,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eastin Ashta Resort</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzslt41xwIaKB0hCO7vEMZWzsIJYc0YcmtB27bQ4jUSHydcDwcJVvcm7ntnXl_CrLn8liRhgoT6S_J4snl4JvlIURm8pWoX8RE0sLVrRMPQ7aPx_t69WvuE46tl0MkGHfE7-yCzDRvL8F69gqxR8QfvMBj-y0KRSXVujlppRORX3TIh4TgjdO-cEF7QnVIVWtZX5pY9ztim90Vm3PArpFSm1gZBfMQnRQm9t8u-TPPKE_P9EAhVtlBAp64?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzslt41xwIaKB0hCO7vEMZWzsIJYc0YcmtB27bQ4jUSHydcDwcJVvcm7ntnXl_CrLn8liRhgoT6S_J4snl4JvlIURm8pWoX8RE0sLVrRMPQ7aPx_t69WvuE46tl0MkGHfE7-yCzDRvL8F69gqxR8QfvMBj-y0KRSXVujlppRORX3TIh4TgjdO-cEF7QnVIVWtZX5pY9ztim90Vm3PArpFSm1gZBfMQnRQm9t8u-TPPKE_P9EAhVtlBAp64?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.12958,-8.6547909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LA RESERVE 1785 CANGGU BEACH</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gykl6ej4rBZSajOA3Ih3CW47jV0EwREygKBP1XNcCKZ3cCSCt0kb88aKkSbGTA17ugUrF6skXMhlMKm1_Vz8tp4mIJtcfFpW0_5nbZ1blrU1dnaVjfm-56ZqBXbpWQrPmQnFzcc7x-R9McEcYs4W283jYOzjZ-Sbq_R68aDb-8_PuXRe_lOMXIbTXDoK_icjDD_I_0ghni5_TZIit8nS83WImyfMadr7hyBw7zSoTsQ7CBzSb41VmETV7w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gykl6ej4rBZSajOA3Ih3CW47jV0EwREygKBP1XNcCKZ3cCSCt0kb88aKkSbGTA17ugUrF6skXMhlMKm1_Vz8tp4mIJtcfFpW0_5nbZ1blrU1dnaVjfm-56ZqBXbpWQrPmQnFzcc7x-R9McEcYs4W283jYOzjZ-Sbq_R68aDb-8_PuXRe_lOMXIbTXDoK_icjDD_I_0ghni5_TZIit8nS83WImyfMadr7hyBw7zSoTsQ7CBzSb41VmETV7w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1283033,-8.6488319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[ZIN Canggu Resort & Villas]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwrgfKoRQJe0RDzhp8zga2ZWBQuqHUdAL3RhOk1MxY7pLIBfjC9jIy18umwdnpEOWqxRutGX7-t4UTQHWDoH0ScuIBl-9FkVK0PJv4qoAoBRDoVs69Uj0NQIrvdZiuuvTYmhv-tHiD_gIQ0Kd69wqDpRWoZ_utCic0M3upACdv4PtNvBkzxDxvRel0roB9YC_O1C74tqjSgGoEekMCjWhlC4sNYMX6x1xWaZB86CjnNuUv4K5np-JyNIw4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwrgfKoRQJe0RDzhp8zga2ZWBQuqHUdAL3RhOk1MxY7pLIBfjC9jIy18umwdnpEOWqxRutGX7-t4UTQHWDoH0ScuIBl-9FkVK0PJv4qoAoBRDoVs69Uj0NQIrvdZiuuvTYmhv-tHiD_gIQ0Kd69wqDpRWoZ_utCic0M3upACdv4PtNvBkzxDxvRel0roB9YC_O1C74tqjSgGoEekMCjWhlC4sNYMX6x1xWaZB86CjnNuUv4K5np-JyNIw4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1335731,-8.6599178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shore Amora Canggu</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxR_XweKQVm_yX8m4j3JV7jo7lvUxIwwnABeLzy99n7cVNA_FOZoCtLcQpS6yhTU8eNhGNn6rAlbqlYLB_gRNZ0IRZ06qUfhu83hKbWk6izkjjj0fIHWxAiJNBesfOMrFeFPV9YGe7SYqVFtoIcTr_zLvZRiLDgIsQzloDuC_k0jYxl1IkBZe6h74Ctpjk0M_CTpRrTu8RDdTH1HJolYsecPpfhbwB_EV4Qy1SHBQoKYXCsRamfjb6wVmg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxR_XweKQVm_yX8m4j3JV7jo7lvUxIwwnABeLzy99n7cVNA_FOZoCtLcQpS6yhTU8eNhGNn6rAlbqlYLB_gRNZ0IRZ06qUfhu83hKbWk6izkjjj0fIHWxAiJNBesfOMrFeFPV9YGe7SYqVFtoIcTr_zLvZRiLDgIsQzloDuC_k0jYxl1IkBZe6h74Ctpjk0M_CTpRrTu8RDdTH1HJolYsecPpfhbwB_EV4Qy1SHBQoKYXCsRamfjb6wVmg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1223608,-8.6502891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Theanna Villa & Spa, Canggu]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwdLkS020F-qIb6rXb478m11oeroalUSsrNtn1GwfODaw8g15nRAzPWCg7SixibzR7LjlWZclk-7EKx_EVuolyylgk7Yp2NdAcNGCvqKnBeybdbSyH523I2vl3QVgnHROSYvu2G0A7Jo6nUiyhpgQyMgtdGgEtsa6OT3IpwSMnf76oMZcpZyQVeNbiq86VlRRVWBZC079JdkTgGPo4aT_Q0WWbHxA7Yio-YJGuQnn9StFXdn7twnKp5X4U?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwdLkS020F-qIb6rXb478m11oeroalUSsrNtn1GwfODaw8g15nRAzPWCg7SixibzR7LjlWZclk-7EKx_EVuolyylgk7Yp2NdAcNGCvqKnBeybdbSyH523I2vl3QVgnHROSYvu2G0A7Jo6nUiyhpgQyMgtdGgEtsa6OT3IpwSMnf76oMZcpZyQVeNbiq86VlRRVWBZC079JdkTgGPo4aT_Q0WWbHxA7Yio-YJGuQnn9StFXdn7twnKp5X4U?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1403904,-8.6467183,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ASTON Canggu Beach Resort</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GysIQGpbwkVxDgQ3zFe7r8Qjt_PXMFveI8yYC7vzxFnncy4xm-jnIugdwS-GB2qgmnfcbXvMhFSviB6hlNwI8OINsW7B7A4nkNyjlrZnD__LngH4rfEH8SOoFD8fyx6ngEGXwYrWqsJcaYxipsOMRZ1CMO9cG0Lr1Y52P5p8Ngs1DYmTRK64ZkTE91BiBJoU3RaswdOrcrrrVYyTzlWBva3kd46-OEQoeN0waGV8jHgzHW-47frgJPzXgI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GysIQGpbwkVxDgQ3zFe7r8Qjt_PXMFveI8yYC7vzxFnncy4xm-jnIugdwS-GB2qgmnfcbXvMhFSviB6hlNwI8OINsW7B7A4nkNyjlrZnD__LngH4rfEH8SOoFD8fyx6ngEGXwYrWqsJcaYxipsOMRZ1CMO9cG0Lr1Y52P5p8Ngs1DYmTRK64ZkTE91BiBJoU3RaswdOrcrrrVYyTzlWBva3kd46-OEQoeN0waGV8jHgzHW-47frgJPzXgI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1307874,-8.6580454,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kalapa Resort</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzI2-X0n6r-aWnexD1teFxNx4PHyiZbBQD6AjidKBXUGgFZHWvquv1-4eD6yYHPN5oPMJ4py2-2wV-HCwl6IOiYfgTiRCSQ6CX3K5JcN6MEi9G-WUC3bYGTlKX5cOQluE1psQrU8sDTgOClWB6--bW8G2BlEAmHQgjP0QoiDQWIMr5FXkYXUVnutCWbwUMVq2zg2FDRdLUdAyHMPA3EznqGsxi2wVZq-iu0lLK2dCoVPIzqXxlEVNjGhr8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzI2-X0n6r-aWnexD1teFxNx4PHyiZbBQD6AjidKBXUGgFZHWvquv1-4eD6yYHPN5oPMJ4py2-2wV-HCwl6IOiYfgTiRCSQ6CX3K5JcN6MEi9G-WUC3bYGTlKX5cOQluE1psQrU8sDTgOClWB6--bW8G2BlEAmHQgjP0QoiDQWIMr5FXkYXUVnutCWbwUMVq2zg2FDRdLUdAyHMPA3EznqGsxi2wVZq-iu0lLK2dCoVPIzqXxlEVNjGhr8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1520848,-8.6356219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Swarga Suites Bali Berawa, Marclan Collection</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzr-3jhyX9DtsmlFSH3VerV7jdVR3nMlcMYfvhGA8dEpiratS-N0-c_V1rfopRzesE7RY0ak3Vd3bGPSgLNnnu454REi2oCPnYbCk3HHN5-NgSrhDHWFc5iEH5t-ETqQQUKsYTLkMBo62Y_JDkHjC-HQ0xLNKgLZ8ry8H_JHgPmh524uwRpIja_nYtHqrmeTw91nWZEFaGihs_Pb9-yJTCwhBf-RVGrCMNebsEcjA5M9Jrsk2z_ms6gYkw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzr-3jhyX9DtsmlFSH3VerV7jdVR3nMlcMYfvhGA8dEpiratS-N0-c_V1rfopRzesE7RY0ak3Vd3bGPSgLNnnu454REi2oCPnYbCk3HHN5-NgSrhDHWFc5iEH5t-ETqQQUKsYTLkMBo62Y_JDkHjC-HQ0xLNKgLZ8ry8H_JHgPmh524uwRpIja_nYtHqrmeTw91nWZEFaGihs_Pb9-yJTCwhBf-RVGrCMNebsEcjA5M9Jrsk2z_ms6gYkw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1363136,-8.661774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holiday Inn Resort Bali Canggu, an IHG Hotel</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwN81PslXAghRhYErIS1UTGG4QiPD5pyw6DOBHBUY04co8x7h05QzicJSmbu5c6egJjVQfE3B01_ZAwDgOz7y4tPLFJSTANQi1cGOCdfRjAm2Yvf1rqq8sGd18wAQ8yWVt85aPgcm7pwNodQmccDEyBKiwfThMTtJxnHn-x9cOvvkpRCR66U-L942ztTy_CUwJkLfyBTwoRF9o3w-pIWJTi086594XLv5M6Asu8mThlyyQqMNA8tu3v_Vo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwN81PslXAghRhYErIS1UTGG4QiPD5pyw6DOBHBUY04co8x7h05QzicJSmbu5c6egJjVQfE3B01_ZAwDgOz7y4tPLFJSTANQi1cGOCdfRjAm2Yvf1rqq8sGd18wAQ8yWVt85aPgcm7pwNodQmccDEyBKiwfThMTtJxnHn-x9cOvvkpRCR66U-L942ztTy_CUwJkLfyBTwoRF9o3w-pIWJTi086594XLv5M6Asu8mThlyyQqMNA8tu3v_Vo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1308883,-8.6567073,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TUI BLUE Berawa Hotel and Villas</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzA5Gsx338CdjMmltTAPBAmkUtPUzj7dpIPAvVjfBst_YF9yFHfh-gfdAV3xRLZdxI_LjNJ4zTzkSPU89W3mk9iVdK660xs_H1w7EFdZ6znA3Mb4i5BYxOPAzMqrEu_pGUT-1vr0mNoScwcV3BIzubuXzBEp2L3LTUmntMQRuGYQ0GuWI2f9jlAu0bREsAlE7v79zmUGzPioPTteb79ljqV_mL9cxxY6oOFR4i9E23kyUR4nN69mzAAw4I?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看<br>https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzA5Gsx338CdjMmltTAPBAmkUtPUzj7dpIPAvVjfBst_YF9yFHfh-gfdAV3xRLZdxI_LjNJ4zTzkSPU89W3mk9iVdK660xs_H1w7EFdZ6znA3Mb4i5BYxOPAzMqrEu_pGUT-1vr0mNoScwcV3BIzubuXzBEp2L3LTUmntMQRuGYQ0GuWI2f9jlAu0bREsAlE7v79zmUGzPioPTteb79ljqV_mL9cxxY6oOFR4i9E23kyUR4nN69mzAAw4I?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1403188,-8.6607877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Oshom Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwBnvTtl-ofpPvmR5ESP0F7wQD70WVkucxLtzJFQ30hPZlvG0IV-QwSWKJJscDB5Sa7dbVoRp5mXRUuFcrHL9YOC_zg0gi_v1YSFKhJRYEpCfWZ3sf4QbkvVsHHtXi4ZEhdndR0qGaysiW-Bjfwgsq4QUpeI5qn2F3tU6uGvN7lR6Fs5BAFrRKIuILjmEldQ5ltp8D-MGNlLngB8digRpCAm6I2aUWeZROWP6GbAxnC9SpAIDRbetDKsg4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwBnvTtl-ofpPvmR5ESP0F7wQD70WVkucxLtzJFQ30hPZlvG0IV-QwSWKJJscDB5Sa7dbVoRp5mXRUuFcrHL9YOC_zg0gi_v1YSFKhJRYEpCfWZ3sf4QbkvVsHHtXi4ZEhdndR0qGaysiW-Bjfwgsq4QUpeI5qn2F3tU6uGvN7lR6Fs5BAFrRKIuILjmEldQ5ltp8D-MGNlLngB8digRpCAm6I2aUWeZROWP6GbAxnC9SpAIDRbetDKsg4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.0955625,-8.6306875,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Leafy Lofts Canggu</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwNYuFXq-FihkSJunjwzB9NgMzARGTTtZil1CGE-m2JhMkFO-yCqsQAAcuooJG7faE6qfTFBVfFTGEl5yRY0qcx9UBL4z9Q0QUStg6tN1ycAY6126pxyrFRrVGtmrD_NFMPpZRvZsTOvIZgDQ_I41Ja4KChVCVYLfIXO2CwyiI2fpSFT1TdcivHKEjcurEij4q2sdjm7OjCpVYlmdL_GAT2RvLM9J8D-QG2e2-_E5xWROBVftxO3HASyM4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwNYuFXq-FihkSJunjwzB9NgMzARGTTtZil1CGE-m2JhMkFO-yCqsQAAcuooJG7faE6qfTFBVfFTGEl5yRY0qcx9UBL4z9Q0QUStg6tN1ycAY6126pxyrFRrVGtmrD_NFMPpZRvZsTOvIZgDQ_I41Ja4KChVCVYLfIXO2CwyiI2fpSFT1TdcivHKEjcurEij4q2sdjm7OjCpVYlmdL_GAT2RvLM9J8D-QG2e2-_E5xWROBVftxO3HASyM4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1415595,-8.6406686,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Belajar Bali Boutique Hotel & Retreat]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyX6GCA6-MDVNWFWPvCR5-l0v-v8wQsub_GyjevxTZsnhphG7_KTZs2Mhe4XnuM04Sn7lBkC9Tc9ZrYTLSkaQ3x_f8bjmn9LocR8-hqQjpH6OcziJ3ESYlNi_LGyGWEtoel5zfk6tmsSCfPp7PHAM2GokZNgJ39EI3umTYcHX_kgdsN9QU4xIslVnl1wEs06zKGMp8loqpzCVto6py2qAKJblL_05uXfSl-PVJMJfgPlA4yY2KiskeMevo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyX6GCA6-MDVNWFWPvCR5-l0v-v8wQsub_GyjevxTZsnhphG7_KTZs2Mhe4XnuM04Sn7lBkC9Tc9ZrYTLSkaQ3x_f8bjmn9LocR8-hqQjpH6OcziJ3ESYlNi_LGyGWEtoel5zfk6tmsSCfPp7PHAM2GokZNgJ39EI3umTYcHX_kgdsN9QU4xIslVnl1wEs06zKGMp8loqpzCVto6py2qAKJblL_05uXfSl-PVJMJfgPlA4yY2KiskeMevo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1424218,-8.6422921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>MAJA Canggu</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzWIFwe9OS6TB-0kYNxazeEC87G3vO-gPsYX_8c09zUpRu-TvCRFoJI6s32cnliM8zPpSbwRG3OsIFvbEfGNvRvTn1z-Y1UTlVz5MngcR8BPs6uJ0itjo-txEe07G95OjliPm3vJDCicLppjJ4A-tUTGx-e1eVmyAUQWN-db7HTxtFIjvVdCqvzQyVZX0UVdfNs7oKBxLyKAlT4Rg3FT2hn8PshEyXHOvxWSNj1DbkvGJLdjoxrsuw9XsM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹請看這裡：https://gobaligo.id/go/canggu-top-accommodation]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzWIFwe9OS6TB-0kYNxazeEC87G3vO-gPsYX_8c09zUpRu-TvCRFoJI6s32cnliM8zPpSbwRG3OsIFvbEfGNvRvTn1z-Y1UTlVz5MngcR8BPs6uJ0itjo-txEe07G95OjliPm3vJDCicLppjJ4A-tUTGx-e1eVmyAUQWN-db7HTxtFIjvVdCqvzQyVZX0UVdfNs7oKBxLyKAlT4Rg3FT2hn8PshEyXHOvxWSNj1DbkvGJLdjoxrsuw9XsM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1426897,-8.6423758,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島長谷麗晶度假酒店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxgGzWmcAFZgmzvprliPIO2h-BExvO-9B-efOGHuCEjuZW8xgcDxwjuh4prHBlo9ZykdSdUqO9qofRcunXPMU_rOEGKN0ljonVtgTLf6BC1-6R0nTdvhzvWoeHIGkaHlfRWhZjFhkY8Ds9w88EuXlZhh-Gs5xzgzsQ4H_V3EMElJ3MyN7Vq7ouZ6-k00P3lJsnpDGw7gilaBpFi6VB6MQd2dMZsYem0akIIAVuEr2E7Nh6RyogM4VlwnYs?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹：https://gobaligo.id/blog/regent-bali-canggu/]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxgGzWmcAFZgmzvprliPIO2h-BExvO-9B-efOGHuCEjuZW8xgcDxwjuh4prHBlo9ZykdSdUqO9qofRcunXPMU_rOEGKN0ljonVtgTLf6BC1-6R0nTdvhzvWoeHIGkaHlfRWhZjFhkY8Ds9w88EuXlZhh-Gs5xzgzsQ4H_V3EMElJ3MyN7Vq7ouZ6-k00P3lJsnpDGw7gilaBpFi6VB6MQd2dMZsYem0akIIAVuEr2E7Nh6RyogM4VlwnYs?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.129369,-8.655963,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Canggu Villa推薦</name>
+      <Placemark>
+        <name><![CDATA[ZIN Canggu Resort & Villas]]></name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1335731,-8.6599178,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Kharista Villas & Retreat - by Ekosistem]]></name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1378183,-8.6419045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Paradis Villa</name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.12497,-8.648145,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The River Studio</name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1245843,-8.6474017,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>THE WĀVE BALI [villas]</name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1348858,-8.6452039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ametis Villa</name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1314514,-8.6567281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Theanna Villa & Spa, Canggu]]></name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1396915,-8.6464872,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Clifton Canggu Villas</name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1333663,-8.6589016,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Cali Villas Canggu</name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1351661,-8.6580953,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shore Amora Canggu</name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1223608,-8.6502891,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Larose Villas and Boutique Camp</name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1324074,-8.6543519,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Canggu by Plataran</name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1666168,-8.6505962,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Morning Glory Villa</name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1322477,-8.6399355,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Yasa Canggu by Bali Villas R Us</name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1338532,-8.652641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Umami</name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1317521,-8.648869,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>OXO Townhouses Berawa Canggu</name>
+        <description>中文介紹：https://gobaligo.id/go/canggu-villa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1431535,-8.662166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
