@@ -1,8 +1,10 @@
 // Trip Planner accommodation links — stored in RATE_LIMIT KV under key "config:trip-planner-links"
-// GET  /api/trip-planner-links   → { accom: { seminyak: [...], ... }, kidsAccom: [...] }
-// POST /api/trip-planner-links   → save data (requires X-Admin-Token)
+// GET  /api/trip-planner-links?lang=zh-tw  → { accom: { seminyak: [...], ... }, kidsAccom: [...] }
+// POST /api/trip-planner-links             → save data for zh-tw (requires X-Admin-Token)
+// POST /api/trip-planner-links?lang=en     → save data for English (requires X-Admin-Token)
 
 const KV_KEY = 'config:trip-planner-links';
+const KV_KEY_EN = 'config:trip-planner-links:en';
 
 const DEFAULT_LINKS = {
   accom: {
@@ -52,11 +54,67 @@ const DEFAULT_LINKS = {
   ],
 };
 
+const DEFAULT_LINKS_EN = {
+  accom: {
+    kuta: [],
+    seminyak: [
+      { title: '22 Stunning Pool Villas in Seminyak, Bali', url: '/blog/2025-08-11-660e6e92fd89780001e6047e/', tag: 'Villa' },
+      { title: 'Hotel Indigo Bali Seminyak: Beachfront 5-Star Resort', url: '/blog/2025-07-24-68818eddfd897800017a2dfb/', tag: '5-Star' },
+      { title: 'Budget Bali Villas Under $100 in Seminyak', url: '/blog/2024-09-21-66ee9770fd89780001306753/', tag: 'Budget' },
+      { title: 'iSuite by Ekosistem: Boutique Design Hotel in Seminyak', url: '/blog/2026-04-07-044334/', tag: 'Boutique' },
+      { title: 'Seminyak Accommodation Guide: Themed Beachside Hotels', url: '/blog/2023-11-06-65472977fd89780001cf3ce6/', tag: 'Guide' },
+    ],
+    canggu: [
+      { title: '16 Private Pool Villas in Canggu You Cannot Miss', url: '/blog/2024-08-07-66b20b15fd89780001ceef6b/', tag: 'Villa' },
+      { title: 'TUI BLUE Berawa: Stylish New Hotel in Canggu', url: '/blog/2025-01-20-678dada2fd897800015779fb/', tag: 'New' },
+      { title: 'Holiday Inn Resort Bali Canggu: Best Family Hotel', url: '/blog/2025-10-07-68e51c8efd897800014e36a6/', tag: 'Family' },
+    ],
+    ubud: [
+      { title: '30 Forest Resorts in Ubud: From Cliff Villas to Rice Terrace Hideaways', url: '/blog/2024-02-20-65d21157fd897800013be576/', tag: 'Forest Villa' },
+      { title: '20 Private Pool Villas in Ubud: Your Secret Paradise', url: '/blog/2024-04-24-6628f08cfd8978000190a575/', tag: 'Villa' },
+      { title: 'Bidadari Private Villas & Retreat — Ubud\'s Hidden Heaven', url: '/blog/2025-01-17-6789be68fd89780001c3ec93/', tag: 'Hidden' },
+      { title: 'Hiliwatu Ubud: Marriott Autograph Collection Opens in Bali', url: '/blog/2026-01-19-696d9b87fd89780001ca2885/', tag: 'New' },
+    ],
+    uluwatu: [
+      { title: 'Alila Villas Uluwatu: World Top 10 Infinity Pool Luxury Villa', url: '/blog/2025-04-06-67f1f8fbfd89780001607840/', tag: 'Luxury' },
+      { title: 'Radisson Blu Bali Uluwatu: 5-Star Clifftop Hotel', url: '/blog/2025-01-20-678e30cbfd89780001f72fc6/', tag: '5-Star' },
+      { title: 'La Cabane Bali: Dreamy Boutique Stay in Uluwatu', url: '/blog/2025-09-04-68b8d2e3fd897800017acaee/', tag: 'Boutique' },
+    ],
+    nusadua: [
+      { title: 'Apurva Kempinski Bali: Ultimate Luxury Resort in Nusa Dua', url: '/blog/2024-04-22-660ff581fd89780001f31315/', tag: 'Luxury' },
+    ],
+    jimbaran: [
+      { title: '10 Ocean-View Hotels in Jimbaran: Sunset Dining & Infinity Pools', url: '/blog/2025-07-22-654c6271fd8978000174ff5e/', tag: 'Ocean View' },
+      { title: 'Raffles Bali, Jimbaran: One of the World\'s Best Luxury Resorts', url: '/blog/2024-10-11-67094049fd8978000167f9f9/', tag: 'Luxury' },
+    ],
+    penida: [
+      { title: 'Nusa Penida Accommodation Guide: 14 Stays from Luxury to Budget', url: '/blog/2024-02-12-65c8e2dffd89780001346aa9/', tag: 'Full Guide' },
+    ],
+    sanur: [],
+    lembongan: [],
+    komodo: [],
+    east: [],
+  },
+  kidsAccom: [
+    { title: 'Holiday Inn Resort Bali Canggu: Best Family Hotel', url: '/blog/2025-10-07-68e51c8efd897800014e36a6/', tag: 'Family' },
+    { title: 'Bali Safari Night Camp: Family Overnight Stay Guide', url: '/blog/2023-07-25-64db6b8cfd897800013a9ab1/', tag: 'Safari' },
+    { title: '2026 Bali Family Travel: 100+ Family-Friendly Spots & Activities', url: '/blog/2023-03-05-64db6b81fd897800013a98b4/', tag: 'Full Guide' },
+  ],
+};
+
 export async function onRequestGet(context) {
-  const { env } = context;
-  if (!env.RATE_LIMIT) return Response.json(DEFAULT_LINKS, { headers: { 'Cache-Control': 'public, max-age=300' } });
-  const raw = await env.RATE_LIMIT.get(KV_KEY);
-  const data = raw ? JSON.parse(raw) : DEFAULT_LINKS;
+  const { env, request } = context;
+  const url = new URL(request.url);
+  const lang = url.searchParams.get('lang') || 'zh-tw';
+
+  const isEn = lang === 'en';
+  const kvKey = isEn ? KV_KEY_EN : KV_KEY;
+  const defaultData = isEn ? DEFAULT_LINKS_EN : DEFAULT_LINKS;
+
+  if (!env.RATE_LIMIT) return Response.json(defaultData, { headers: { 'Cache-Control': 'public, max-age=300' } });
+  const raw = await env.RATE_LIMIT.get(kvKey);
+  // For English, fall back to DEFAULT_LINKS_EN (not the Chinese KV data)
+  const data = raw ? JSON.parse(raw) : defaultData;
   return Response.json(data, { headers: { 'Cache-Control': 'public, max-age=300' } });
 }
 
@@ -68,6 +126,10 @@ export async function onRequestPost(context) {
   }
   if (!env.RATE_LIMIT) return Response.json({ error: 'KV not configured' }, { status: 500 });
 
+  const url = new URL(request.url);
+  const lang = url.searchParams.get('lang') || 'zh-tw';
+  const kvKey = lang === 'en' ? KV_KEY_EN : KV_KEY;
+
   let data;
   try {
     data = await request.json();
@@ -76,6 +138,6 @@ export async function onRequestPost(context) {
     return Response.json({ error: 'Invalid body' }, { status: 400 });
   }
 
-  await env.RATE_LIMIT.put(KV_KEY, JSON.stringify(data));
+  await env.RATE_LIMIT.put(kvKey, JSON.stringify(data));
   return Response.json({ ok: true });
 }
