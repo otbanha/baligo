@@ -119,7 +119,7 @@ const top5Posts = top5Data.articles
   .map(p => ({ id: p!.id, title: p!.data.title }));
 
 const qaCollection = await getCollection('qa');
-const qaData = qaCollection.map(q => ({ title: (q.data as any).title_zh_cn ?? q.data.title }));
+const qaData = qaCollection.map(q => ({ title: q.data.title_zh_cn ?? q.data.title }));
 
 const youtubeVideos = [
   '0fqEvAzAy9A','GivvqCXp11A','H5N5_UuK7TI','EotdDxXHFwE','7JIqxDIyDF0','ePutHL_Ob1Q'
