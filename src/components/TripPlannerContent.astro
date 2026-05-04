@@ -1564,6 +1564,7 @@ const SPOT_REGION_MAP = {
 };
 
 function buildTargetAreas(mentioned) {
+  const userSelectedAreas = state.areas.filter(a => a !== 'undecided');
   const chosen = new Set([...state.areas, ...mentioned]);
   chosen.delete('undecided');
   (state.allSpots || []).forEach(val => { const r = SPOT_REGION_MAP[val]; if (r) chosen.add(r); });
@@ -1583,6 +1584,22 @@ function buildTargetAreas(mentioned) {
     if (state.companion === 'group') { chosen.add('ubud'); chosen.add('kuta'); }
     if (state.budget === 'luxury')    { chosen.add('nusadua'); chosen.add('seminyak'); }
     if (chosen.size === 0) ['kuta','ubud','seminyak'].forEach(a => chosen.add(a));
+  }
+  // Ensure sanur precedes any offshore island (penida/lembongan) — it's the ferry hub
+  if ((chosen.has('penida') || chosen.has('lembongan')) && !chosen.has('sanur')) {
+    chosen.add('sanur');
+  }
+  // When user didn't pick specific regions, expand to "2 days per region" minimum
+  if (userSelectedAreas.length === 0 && mentioned.length === 0) {
+    const actualDays = state.days === '68' ? 7 : (state.days === '9' ? 9 : (parseInt(state.days) || 5));
+    const minRegions = Math.ceil(actualDays / 2);
+    if (chosen.size < minRegions) {
+      const FILL_ORDER = ['ubud','seminyak','kuta','canggu','jimbaran','nusadua','uluwatu','sanur'];
+      for (const r of FILL_ORDER) {
+        if (chosen.size >= minRegions) break;
+        chosen.add(r);
+      }
+    }
   }
   const days = parseInt(state.days) || 5;
   if (days <= 3 && chosen.size > 3) {
@@ -1929,11 +1946,26 @@ function routeOrderAreas(areas) {
   areas.forEach(a => { if (!ROUTE_FLOW.includes(a) && !ordered.includes(a)) ordered.push(a); });
   if (ordered.length < 2) return ordered;
   const GOOD_LAST = ['jimbaran', 'uluwatu', 'nusadua', 'sanur', 'kuta', 'seminyak'];
+  const OFFSHORE = ['penida', 'lembongan'];
   const currentLast = ordered[ordered.length - 1];
   if (!GOOD_LAST.includes(currentLast)) {
     const bestLast = GOOD_LAST.find(a => ordered.includes(a));
     if (bestLast) {
       ordered = [...ordered.filter(a => a !== bestLast), bestLast];
+    }
+  }
+  // Offshore islands must never be last — move them before sanur (their ferry hub)
+  if (OFFSHORE.includes(ordered[ordered.length - 1])) {
+    const islands = ordered.filter(a => OFFSHORE.includes(a));
+    const rest = ordered.filter(a => !OFFSHORE.includes(a));
+    const sanurIdx = rest.indexOf('sanur');
+    if (sanurIdx !== -1) {
+      rest.splice(sanurIdx, 0, ...islands);
+      ordered = rest;
+    } else {
+      // No sanur — put islands before the last stop
+      const last = rest.pop();
+      ordered = [...rest, ...islands, last];
     }
   }
   return ordered;
