@@ -7,6 +7,7 @@ import ChatBot from '../../../components/ChatBot.astro';
 import { getCollection, render } from 'astro:content';
 import featuredData from '../../../featured.json';
 import top5Data from '../../../top5.json';
+import qaI18n from '../../../qa-i18n.json';
 
 const blogBase = '/zh-hk/blog';
 
@@ -107,7 +108,7 @@ const top5Posts = top5Data.articles
   .map(p => ({ id: p!.id, title: p!.data.title }));
 
 const qaCollection = await getCollection('qa');
-const qaData = qaCollection.map(q => ({ title: q.data.title_zh_hk ?? q.data.title }));
+const qaData = qaCollection.map(q => ({ title: (qaI18n as any)[q.id]?.['zh-hk'] ?? q.data.title }));
 
 const youtubeVideos = [
   '0fqEvAzAy9A','GivvqCXp11A','H5N5_UuK7TI','EotdDxXHFwE','7JIqxDIyDF0','ePutHL_Ob1Q'
