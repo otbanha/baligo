@@ -2,9 +2,11 @@
 // GET  /api/trip-planner-links?lang=zh-tw  → { accom: { seminyak: [...], ... }, kidsAccom: [...] }
 // POST /api/trip-planner-links             → save data for zh-tw (requires X-Admin-Token)
 // POST /api/trip-planner-links?lang=en     → save data for English (requires X-Admin-Token)
+// POST /api/trip-planner-links?lang=zh-cn  → save data for Simplified Chinese (requires X-Admin-Token)
 
 const KV_KEY = 'config:trip-planner-links';
 const KV_KEY_EN = 'config:trip-planner-links:en';
+const KV_KEY_ZH_CN = 'config:trip-planner-links:zh-cn';
 
 const DEFAULT_LINKS = {
   accom: {
@@ -102,18 +104,66 @@ const DEFAULT_LINKS_EN = {
   ],
 };
 
+const DEFAULT_LINKS_ZH_CN = {
+  accom: {
+    kuta: [],
+    seminyak: [
+      { title: '水明漾22间令人惊艳的巴厘岛Villa泳池别墅推荐', url: '/blog/2025-08-11-660e6e92fd89780001e6047e/', tag: 'Villa' },
+      { title: '【水明漾住宿】Hotel Indigo Bali Seminyak 五星滨海度假村', url: '/blog/2025-07-24-68818eddfd897800017a2dfb/', tag: '五星' },
+      { title: '【水明漾】100美元以内的平价巴厘岛Villa推荐', url: '/blog/2024-09-21-66ee9770fd89780001306753/', tag: '平价' },
+      { title: '【水明漾住宿推荐】iSuite by Ekosistem 设计感精品住宿', url: '/blog/2026-04-07-044334/', tag: '精品' },
+      { title: '巴厘岛住宿推荐：水明漾的滨海精致主题住宿指南', url: '/blog/2023-11-06-65472977fd89780001cf3ce6/', tag: '主题住宿' },
+    ],
+    canggu: [
+      { title: '长谷16间私人泳池别墅Canggu Villa你不能错过的推荐', url: '/blog/2024-08-07-66b20b15fd89780001ceef6b/', tag: 'Villa' },
+      { title: '【Canggu酒店推荐】新开幕TUI BLUE Berawa Hotel and Villas', url: '/blog/2025-01-20-678dada2fd897800015779fb/', tag: '新开幕' },
+      { title: 'Holiday Inn Resort Bali Canggu 巴厘岛长谷假日酒店', url: '/blog/2025-10-07-68e51c8efd897800014e36a6/', tag: '亲子' },
+    ],
+    ubud: [
+      { title: '【乌布住宿推荐】30间森林系度假村：河谷悬崖到隐世梯田Villa', url: '/blog/2024-02-20-65d21157fd897800013be576/', tag: '森林Villa' },
+      { title: '【乌布住宿推荐】乌布Villa泳池别墅私密天堂20间推荐', url: '/blog/2024-04-24-6628f08cfd8978000190a575/', tag: 'Villa' },
+      { title: 'Bidadari Private Villas & Retreat — 巴厘岛乌布的隐世天堂', url: '/blog/2025-01-17-6789be68fd89780001c3ec93/', tag: '隐世' },
+      { title: '乌布新地标开幕：Hiliwatu万豪精选酒店打造巴厘岛奢华新体验', url: '/blog/2026-01-19-696d9b87fd89780001ca2885/', tag: '新开幕' },
+    ],
+    uluwatu: [
+      { title: '【Alila Villas Uluwatu】世界十大无边际泳池奢华别墅', url: '/blog/2025-04-06-67f1f8fbfd89780001607840/', tag: '奢华' },
+      { title: '【乌鲁瓦图五星酒店推荐】Radisson Blu Bali Uluwatu', url: '/blog/2025-01-20-678e30cbfd89780001f72fc6/', tag: '五星' },
+      { title: '巴厘岛乌鲁瓦图住宿推荐：La Cabane Bali梦幻小天堂', url: '/blog/2025-09-04-68b8d2e3fd897800017acaee/', tag: '精品' },
+    ],
+    nusadua: [
+      { title: '凯宾斯基Apurva Kempinski Bali：巴厘岛顶级奢华度假住宿', url: '/blog/2024-04-22-660ff581fd89780001f31315/', tag: '奢华' },
+    ],
+    jimbaran: [
+      { title: '【金巴兰住宿】10间无敌海景酒店：世界级日落、悬崖无边际泳池与顶级Villa', url: '/blog/2025-07-22-654c6271fd8978000174ff5e/', tag: '海景住宿' },
+      { title: '巴厘岛金巴兰Raffles Bali：全球最佳奢华度假村之一', url: '/blog/2024-10-11-67094049fd8978000167f9f9/', tag: '奢华' },
+    ],
+    penida: [
+      { title: '佩尼达岛住宿推荐：14间从奢华到平价的Nusa Penida好评住宿', url: '/blog/2024-02-12-65c8e2dffd89780001346aa9/', tag: '全攻略' },
+    ],
+    sanur: [],
+    lembongan: [],
+    komodo: [],
+    east: [],
+  },
+  kidsAccom: [
+    { title: 'Holiday Inn Resort Bali Canggu 巴厘岛长谷假日酒店', url: '/blog/2025-10-07-68e51c8efd897800014e36a6/', tag: '亲子' },
+    { title: '巴厘岛亲子游：巴厘岛动物园Bali Safari夜宿攻略', url: '/blog/2023-07-25-64db6b8cfd897800013a9ab1/', tag: '动物园' },
+    { title: '【2026巴厘岛亲子游】100+亲子友善景点与活动大全', url: '/blog/2023-03-05-64db6b81fd897800013a98b4/', tag: '全攻略' },
+  ],
+};
+
 export async function onRequestGet(context) {
   const { env, request } = context;
   const url = new URL(request.url);
   const lang = url.searchParams.get('lang') || 'zh-tw';
 
-  const isEn = lang === 'en';
-  const kvKey = isEn ? KV_KEY_EN : KV_KEY;
-  const defaultData = isEn ? DEFAULT_LINKS_EN : DEFAULT_LINKS;
+  let kvKey, defaultData;
+  if (lang === 'en') { kvKey = KV_KEY_EN; defaultData = DEFAULT_LINKS_EN; }
+  else if (lang === 'zh-cn') { kvKey = KV_KEY_ZH_CN; defaultData = DEFAULT_LINKS_ZH_CN; }
+  else { kvKey = KV_KEY; defaultData = DEFAULT_LINKS; }
 
   if (!env.RATE_LIMIT) return Response.json(defaultData, { headers: { 'Cache-Control': 'public, max-age=300' } });
   const raw = await env.RATE_LIMIT.get(kvKey);
-  // For English, fall back to DEFAULT_LINKS_EN (not the Chinese KV data)
   const data = raw ? JSON.parse(raw) : defaultData;
   return Response.json(data, { headers: { 'Cache-Control': 'public, max-age=300' } });
 }
@@ -128,7 +178,7 @@ export async function onRequestPost(context) {
 
   const url = new URL(request.url);
   const lang = url.searchParams.get('lang') || 'zh-tw';
-  const kvKey = lang === 'en' ? KV_KEY_EN : KV_KEY;
+  const kvKey = lang === 'en' ? KV_KEY_EN : lang === 'zh-cn' ? KV_KEY_ZH_CN : KV_KEY;
 
   let data;
   try {

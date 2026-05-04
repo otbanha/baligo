@@ -193,12 +193,12 @@ const T = {
     tagAccom: '住宿选择', tagMap: '景点地图',
     tagFood: '美食', tagSpa: 'SPA按摩', tagSunset: '必体验',
     tagSouvenir: '购物', tagRain: '备案',
-    mrTitle1: '【2026 峇里島自由行】7 步驟輕鬆規劃完美旅程',
-    mrTitle2: '99% 遊客都在偷偷搜尋的超尷尬 41 個問題大解答',
-    mrTitle3: '【這樣玩居然不塞車！】8 天 7 夜爽玩峇里島全方位攻略',
-    mrTitle4: '五大熱門區域比較：庫塔、水明漾、倉古、烏布怎麼選？',
-    mrTitle5: '2026 峇里島 500 個最新人氣景點一次蒐全',
-    mrTitle6: '【新手攻略】第一次去峇里島必看的 32 項旅遊攻略',
+    mrTitle1: '【2026 巴厘岛自由行】7步骤轻松规划完美旅程',
+    mrTitle2: '99%游客都在偷偷搜索的超尴尬41个问题大解答',
+    mrTitle3: '【这样玩居然不堵车！】8天7夜爽玩巴厘岛全方位攻略',
+    mrTitle4: '五大热门区域比较：库塔、水明漾、仓古、乌布怎么选？',
+    mrTitle5: '2026 巴厘岛500个最新人气景点一次收全',
+    mrTitle6: '【新手攻略】第一次去巴厘岛必看的32项旅游攻略',
     q_spots: '有特定想去的景点吗？', q_spots_hint: '可多选',
     spots_ubud: '🌿 乌布必访景点',
     secSpots: '📍 你选择的景点攻略',
@@ -1085,6 +1085,79 @@ const REGIONS_EN = {
   },
 };
 
+// Simplified Chinese overrides for REGIONS guide + spots
+const REGIONS_ZH_CN = {
+  kuta: {
+    guide: { title: '峇里岛库塔攻略玩乐指南：50个必访热点与旅游秘诀', url: '/blog/2026-03-08-657598bdfd8978000120fe20/', tag: '分区攻略' },
+    spots: [{ title: '峇里岛库塔冲浪推荐｜初学者冲浪初体验', url: '/blog/2020-10-12-64db6b70fd897800013a9419/', tag: '冲浪' }],
+  },
+  seminyak: {
+    guide: { title: '【2026水明漾攻略】100个必去地点地图', url: '/blog/2023-08-15-64db7fc2fd897800013d367c/', tag: '分区攻略' },
+    spots: [],
+  },
+  canggu: {
+    guide: { title: '【2026长谷攻略】Canggu旅游地图100选', url: '/blog/2023-02-11-64db6b7efd897800013a9815/', tag: '分区攻略' },
+    spots: [{ title: '【长谷攻略】探索峇里岛：Canggu导览指南', url: '/blog/2024-04-25-661e365bfd8978000126675a/', tag: '导览' }],
+  },
+  ubud: {
+    guide: { title: '2026峇里岛完整乌布攻略：100种深入认识乌布的方式', url: '/blog/2023-11-17-655054b1fd897800011d4d2c/', tag: '分区攻略' },
+    spots: [
+      { title: '峇里岛乌布附近的三大知名瀑布攻略', url: '/blog/2023-07-19-64db6b82fd897800013a995f/', tag: '瀑布' },
+      { title: '推荐峇里岛乌布必去网红美照荡秋千', url: '/blog/2020-10-12-64db6b70fd897800013a940a/', tag: '打卡' },
+      { title: '乌布热门景点：猴子森林、乌布皇宫、乌布市场', url: '/blog/2021-01-14-64db6b72fd897800013a948b/', tag: '必访' },
+      { title: '峇里岛的仙境瀑布 Tukad Cepung Waterfall', url: '/blog/2020-11-14-64db6b72fd897800013a9459/', tag: '自然' },
+    ],
+  },
+  jimbaran: {
+    guide: { title: '峇里岛自由行金巴兰攻略：推荐30个玩乐景点', url: '/blog/2023-11-09-654b8438fd897800016bf4cc/', tag: '分区攻略' },
+    spots: [{ title: '峇里岛金巴兰海鲜推荐：11家海鲜餐厅不踩雷', url: '/blog/2023-09-17-6506748dfd897800018d6be2/', tag: '美食' }],
+  },
+  uluwatu: {
+    guide: { title: '【乌鲁瓦图攻略】Uluwatu景点50个吃喝玩乐推荐', url: '/blog/2024-03-07-65dfd410fd897800019f4b40/', tag: '分区攻略' },
+    spots: [
+      { title: '峇里岛乌鲁瓦图十大景点/必做活动', url: '/blog/2024-06-16-66042a22fd8978000103c100/', tag: '景点' },
+      { title: '探索峇里岛秘境沙滩 Green Bowl Beach', url: '/blog/2023-08-15-64db6b57fd897800013a8e30/', tag: '秘境沙滩' },
+    ],
+  },
+  nusadua: {
+    guide: { title: '努沙杜瓦、南湾：豪华度假首选40个攻略地图', url: '/blog/2024-01-25-65afb7bbfd897800017023b4/', tag: '分区攻略' },
+    spots: [
+      { title: 'Nusa Dua最棒的海滩俱乐部 Manarai Beach House', url: '/blog/2019-07-15-64db6b57fd897800013a8e48/', tag: '海滩俱乐部' },
+      { title: '努沙杜瓦水上活动大本营：热门项目与亲子注意事项', url: '/blog/2025-08-13-689c185efd8978000170dbdc/', tag: '水上活动' },
+    ],
+  },
+  sanur: {
+    guide: { title: '探索峇里岛独特魅力：Sanur沙努尔攻略地图', url: '/blog/2023-08-21-64e2de1bfd897800018eff0b/', tag: '分区攻略' },
+    spots: [{ title: '峇里岛家庭亲子自由行：Sanur沙努尔攻略（50+项目）', url: '/blog/2024-02-11-65bf2f75fd89780001dbf162/', tag: '亲子' }],
+  },
+  penida: {
+    guide: { title: '【Nusa Penida佩尼达岛全攻略】地图、搭船、住宿、交通', url: '/blog/2023-08-16-64db6b82fd897800013a9942/', tag: '全攻略' },
+    spots: [
+      { title: '努沙佩尼达岛如何参加浮潜？一日游船票预约指南', url: '/blog/2023-11-02-654249defd89780001041c87/', tag: '浮潜' },
+      { title: '佩尼达岛美食：Nusa Penida Top 10餐厅', url: '/blog/2023-10-22-65348754fd89780001b2a259/', tag: '美食' },
+      { title: '【跳岛攻略】佩尼达/蓝梦岛/吉利群岛/龙目岛快艇船票', url: '/blog/2024-04-17-661f1a51fd89780001f72b31/', tag: '交通' },
+      { title: 'Nusa Penida交通：计程车、Gojek、包车、摩托车攻略', url: '/blog/2024-01-16-65a5e069fd897800010625d0/', tag: '交通' },
+    ],
+  },
+  lembongan: {
+    guide: { title: '蓝梦岛旅游攻略：浮潜、海滩与跳岛一日游完整指南', url: '/blog/2024-10-23-66adfb9afd89780001f62df1/', tag: '全攻略' },
+    spots: [{ title: '【跳岛攻略】佩尼达/蓝梦岛/吉利群岛/龙目岛快艇船票', url: '/blog/2024-04-17-661f1a51fd89780001f72b31/', tag: '交通' }],
+  },
+  komodo: {
+    guide: { title: '科摩多岛旅游完整攻略：科摩多龙、浮潜与行程安排', url: '/blog/2025-05-04-681601c6fd8978000139f8a3/', tag: '全攻略' },
+    spots: [{ title: '科摩多岛旅游指南：科摩多龙栖息地、潜水圣地与旅行资讯', url: '/blog/2024-11-19-673c7478fd89780001db176b/', tag: '旅游指南' }],
+  },
+  east: {
+    guide: { title: '【2026峇里岛东部攻略】天空之门、恒河圣泉、乌戎水宫', url: '/blog/2024-01-29-65b79bfdfd89780001948d10/', tag: '分区攻略' },
+    spots: [
+      { title: '峇里岛天空之门Lempuyang Temple攻略（不用排队）', url: '/blog/2021-01-14-64db6b72fd897800013a9475/', tag: '必拍' },
+      { title: '探索峇里岛圣泉：Tirta Gangga到Tirta Empul', url: '/blog/2024-10-10-6707c8e2fd897800014d3db5/', tag: '文化' },
+      { title: '穿越时空的Penglipuran村庄：体验峇里古老魅力', url: '/blog/2023-08-26-64e9e8e9fd89780001f28d6b/', tag: '村落' },
+      { title: '峇里岛金塔马尼巴杜尔火山湖｜日出登山×皇家游船全攻略', url: '/blog/2025-10-09-68e786abfd89780001c1b9b7/', tag: '火山' },
+    ],
+  },
+};
+
 const INTEREST_EXTRAS = {
   surf: { articles: [
     { title: '【峇里島衝浪攻略】適合不同等級的衝浪海灘介紹', url: '/blog/2024-04-20-66236818fd89780001389aaa/', tag: '全攻略' },
@@ -1207,6 +1280,67 @@ const INTEREST_EXTRAS_EN = {
   ]},
 };
 
+const INTEREST_EXTRAS_ZH_CN = {
+  surf: { articles: [
+    { title: '【峇里岛冲浪攻略】适合不同等级的冲浪海滩介绍', url: '/blog/2024-04-20-66236818fd89780001389aaa/', tag: '全攻略' },
+    { title: '【2026峇里岛水上活动指南】15种必玩体验', url: '/blog/2026-01-20-694122b8fd89780001f514c9/', tag: '水上活动' },
+  ]},
+  kids: { articles: [
+    { title: '【2026峇里岛亲子游】100+亲子友善景点与活动大全', url: '/blog/2023-03-05-64db6b81fd897800013a98b4/', tag: '全攻略' },
+    { title: '巴里岛亲子游：峇里岛动物园Bali Safari夜宿攻略', url: '/blog/2023-07-25-64db6b8cfd897800013a9ab1/', tag: '动物园' },
+    { title: '【乌布亲子旅游】精选55项小朋友最爱活动', url: '/blog/2024-01-10-659cf4a5fd89780001d6fb69/', tag: '乌布' },
+    { title: '【2026乌布亲子旅游】梯田健行、猴子森林与传统工艺', url: '/blog/2025-02-16-67b0a910fd89780001798c4e/', tag: '乌布' },
+  ]},
+  snorkel: { articles: [
+    { title: '【跳岛攻略】峇里岛跳岛到离岛？快艇船票如何买？', url: '/blog/2024-04-17-661f1a51fd89780001f72b31/', tag: '交通' },
+    { title: '峇里岛最美浮潜地点大收集：新手友善海洋冒险指南', url: '/blog/2025-07-09-686e0ee6fd8978000139782d/', tag: '浮潜地点' },
+    { title: '【Gili Islands吉利群岛攻略】极致度假胜地', url: '/blog/2024-04-10-6615f2a8fd89780001eb72fc/', tag: '离岛' },
+  ]},
+  nature: { articles: [
+    { title: '探索峇里岛的无人秘境：6个峇里岛秘境沙滩攻略', url: '/blog/2023-08-22-64e4c0c9fd897800014e31bf/', tag: '秘境' },
+    { title: '【地标】GWK神鹰广场文化公园全攻略', url: '/blog/2025-07-17-68785bf9fd89780001822053/', tag: '地标' },
+  ]},
+  atv: { articles: [
+    { title: '峇里岛ATV四轮越野车探险：感受热带天堂的刺激与自由', url: '/blog/2024-01-30-65b6ef65fd89780001f5d032/', tag: 'ATV' },
+    { title: '峇里岛户外活动玩什么？50种最受欢迎的户外体验', url: '/blog/2025-04-02-67ecf440fd897800012cb31b/', tag: '户外' },
+  ]},
+  rafting: { articles: [
+    { title: '【峇里岛泛舟FAQ】不会游泳也能玩？年龄限制与安全须知', url: '/blog/2025-03-28-67e62aa8fd89780001888620/', tag: '泛舟FAQ' },
+  ]},
+  atv_rafting: { articles: [
+    { title: '峇里岛ATV越野车vs阿勇河泛舟懒人包：行程排法与安全须知', url: '/blog/2025-07-27-68861b2efd8978000104cf9b/', tag: 'ATV+泛舟' },
+    { title: '峇里岛户外活动玩什么？50种最受欢迎的户外体验', url: '/blog/2025-04-02-67ecf440fd897800012cb31b/', tag: '户外' },
+  ]},
+  beachclub: { articles: [
+    { title: '峇里岛海滩俱乐部推荐：20个免门票无最低消费高CP值清单', url: '/blog/2024-08-15-66bbfca7fd89780001c1ee0a/', tag: '全攻略' },
+    { title: '【2026峇里岛AYANA全攻略】Rock Bar预约密技', url: '/blog/2023-10-26-653914f6fd89780001fef733/', tag: 'AYANA' },
+  ]},
+  volcano: { articles: [
+    { title: '峇里岛金塔马尼巴杜尔火山湖｜日出登山×皇家游船全攻略', url: '/blog/2025-10-09-68e786abfd89780001c1b9b7/', tag: '火山湖' },
+    { title: '峇里岛Mt. Batur巴杜尔火山日出健行探险：10个注意事项', url: '/blog/2024-08-16-66bea086fd8978000125a35f/', tag: '日出健行' },
+  ]},
+  performance: { articles: [
+    { title: 'Kecak Fire Dance卡恰火舞秀 峇里岛必看的震撼表演（附订票资讯）', url: '/blog/2024-01-29-65b6e533fd89780001f51eaf/', tag: '火舞表演' },
+    { title: '乌布热门景点：猴子森林、乌布皇宫与传统表演', url: '/blog/2021-01-14-64db6b72fd897800013a948b/', tag: '乌布' },
+  ]},
+  romance: { articles: [
+    { title: '峇里岛度蜜月/情人共游，十大创造浪漫活动推荐！', url: '/blog/2023-08-21-64e35774fd89780001ace043/', tag: '蜜月活动' },
+    { title: '峇里岛蜜月浪漫指南：情侣/蜜月旅行的36种玩法', url: '/blog/2024-02-18-65d0e089fd89780001320e4c/', tag: '蜜月攻略' },
+    { title: '为何越来越多人选择峇里岛度蜜月？常见问题解答', url: '/blog/2024-03-10-65d07704fd897800012d51fe/', tag: '蜜月须知' },
+  ]},
+  elder: { articles: [
+    { title: '带长辈去旅行：适合长者的峇里岛旅行指南', url: '/blog/2023-11-29-655a0f5bfd89780001a49e07/', tag: '长者指南' },
+    { title: '带长辈去峇里岛：适合年长者的旅游地点全攻略', url: '/blog/2024-11-27-6746742bfd897800018d4906/', tag: '长者友善景点' },
+  ]},
+  group: { articles: [
+    { title: '【峇里岛团体旅游攻略】10人以上峇里岛团体旅游，如何避免踩雷？', url: '/blog/2025-03-05-67c7ed8afd89780001d9cadc/', tag: '团体攻略' },
+    { title: '峇里岛团体自由行：包栋Villa三房/四房/五房以上家庭别墅推荐', url: '/blog/2024-04-30-662e156bfd8978000130c73c/', tag: '包栋Villa' },
+  ]},
+  klook: { articles: [
+    { title: '【峇里岛懒人包】Klook一日游行程推荐：0规划也能玩遍网红打卡点', url: '/blog/2025-05-01-6812dc5dfd897800018e284b/', tag: '懒人首选' },
+  ]},
+};
+
 // ── Accommodation by Region ───────────────────────────────────────────
 const ACCOM_DEFAULTS = {
   'zh-tw': {
@@ -1279,6 +1413,41 @@ const ACCOM_DEFAULTS = {
       { title: 'Nusa Penida Accommodation Guide: 14 Stays from Luxury to Budget', url: '/blog/2024-02-12-65c8e2dffd89780001346aa9/', tag: 'Full Guide' },
     ],
   },
+  'zh-cn': {
+    seminyak: [
+      { title: '水明漾22间令人惊艳的巴厘岛Villa泳池别墅推荐', url: '/blog/2025-08-11-660e6e92fd89780001e6047e/', tag: 'Villa' },
+      { title: '【水明漾住宿】Hotel Indigo Bali Seminyak 五星滨海度假村', url: '/blog/2025-07-24-68818eddfd897800017a2dfb/', tag: '五星' },
+      { title: '【水明漾】100美元以内的平价巴厘岛Villa推荐', url: '/blog/2024-09-21-66ee9770fd89780001306753/', tag: '平价' },
+      { title: '【水明漾住宿推荐】iSuite by Ekosistem 设计感精品住宿', url: '/blog/2026-04-07-044334/', tag: '精品' },
+      { title: '巴厘岛住宿推荐：水明漾的滨海精致主题住宿指南', url: '/blog/2023-11-06-65472977fd89780001cf3ce6/', tag: '主题住宿' },
+    ],
+    canggu: [
+      { title: '长谷16间私人泳池别墅Canggu Villa你不能错过的推荐', url: '/blog/2024-08-07-66b20b15fd89780001ceef6b/', tag: 'Villa' },
+      { title: '【Canggu酒店推荐】新开幕TUI BLUE Berawa Hotel and Villas', url: '/blog/2025-01-20-678dada2fd897800015779fb/', tag: '新开幕' },
+      { title: 'Holiday Inn Resort Bali Canggu 巴厘岛长谷假日酒店', url: '/blog/2025-10-07-68e51c8efd897800014e36a6/', tag: '亲子' },
+    ],
+    ubud: [
+      { title: '【乌布住宿推荐】30间森林系度假村：河谷悬崖到隐世梯田Villa', url: '/blog/2024-02-20-65d21157fd897800013be576/', tag: '森林Villa' },
+      { title: '【乌布住宿推荐】乌布Villa泳池别墅私密天堂20间推荐', url: '/blog/2024-04-24-6628f08cfd8978000190a575/', tag: 'Villa' },
+      { title: 'Bidadari Private Villas & Retreat — 巴厘岛乌布的隐世天堂', url: '/blog/2025-01-17-6789be68fd89780001c3ec93/', tag: '隐世' },
+      { title: '乌布新地标开幕：Hiliwatu万豪精选酒店打造巴厘岛奢华新体验', url: '/blog/2026-01-19-696d9b87fd89780001ca2885/', tag: '新开幕' },
+    ],
+    uluwatu: [
+      { title: '【Alila Villas Uluwatu】世界十大无边际泳池奢华别墅', url: '/blog/2025-04-06-67f1f8fbfd89780001607840/', tag: '奢华' },
+      { title: '【乌鲁瓦图五星酒店推荐】Radisson Blu Bali Uluwatu', url: '/blog/2025-01-20-678e30cbfd89780001f72fc6/', tag: '五星' },
+      { title: '巴厘岛乌鲁瓦图住宿推荐：La Cabane Bali梦幻小天堂', url: '/blog/2025-09-04-68b8d2e3fd897800017acaee/', tag: '精品' },
+    ],
+    nusadua: [
+      { title: '凯宾斯基Apurva Kempinski Bali：巴厘岛顶级奢华度假住宿', url: '/blog/2024-04-22-660ff581fd89780001f31315/', tag: '奢华' },
+    ],
+    jimbaran: [
+      { title: '【金巴兰住宿】10间无敌海景酒店：世界级日落、悬崖无边际泳池与顶级Villa', url: '/blog/2025-07-22-654c6271fd8978000174ff5e/', tag: '海景住宿' },
+      { title: '巴厘岛金巴兰Raffles Bali：全球最佳奢华度假村之一', url: '/blog/2024-10-11-67094049fd8978000167f9f9/', tag: '奢华' },
+    ],
+    penida: [
+      { title: '佩尼达岛住宿推荐：14间从奢华到平价的Nusa Penida好评住宿', url: '/blog/2024-02-12-65c8e2dffd89780001346aa9/', tag: '全攻略' },
+    ],
+  },
 };
 let ACCOM_BY_REGION = ACCOM_DEFAULTS[lang] || ACCOM_DEFAULTS['zh-tw'];
 
@@ -1294,29 +1463,76 @@ const KIDS_ACCOM_DEFAULTS = {
     { title: 'Bali Safari Night Camp: Family Overnight Stay Guide', url: '/blog/2023-07-25-64db6b8cfd897800013a9ab1/', tag: 'Safari' },
     { title: '2026 Bali Family Travel: 100+ Family-Friendly Spots & Activities', url: '/blog/2023-03-05-64db6b81fd897800013a98b4/', tag: 'Full Guide' },
   ],
+  'zh-cn': [
+    { title: 'Holiday Inn Resort Bali Canggu 巴厘岛长谷假日酒店', url: '/blog/2025-10-07-68e51c8efd897800014e36a6/', tag: '亲子' },
+    { title: '巴厘岛亲子游：巴厘岛动物园Bali Safari夜宿攻略', url: '/blog/2023-07-25-64db6b8cfd897800013a9ab1/', tag: '动物园' },
+    { title: '【2026巴厘岛亲子游】100+亲子友善景点与活动大全', url: '/blog/2023-03-05-64db6b81fd897800013a98b4/', tag: '全攻略' },
+  ],
 };
 let KIDS_ACCOM = KIDS_ACCOM_DEFAULTS[lang] || KIDS_ACCOM_DEFAULTS['zh-tw'];
 
-// ── Global Must-See Picks (19 articles, display 12 randomly) ─────────
-const GLOBAL_PICKS = [
-  { title: '【精華篇】峇里島好評 SPA、到府按摩推薦（以區域劃分）', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'SPA推薦' },
-  { title: '峇里島推薦必買伴手禮：零食/食品篇', url: '/blog/2019-09-02-64db6b5cfd897800013a9015/', tag: '伴手禮' },
-  { title: '【下雨備案】60 個超強室內行程：購物中心・五星下午茶・手作體驗', url: '/blog/2024-01-06-6598c6fffd89780001047d76/', tag: '備案行程' },
-  { title: 'Bali Belly 腸胃炎如何自救？紓解成藥攻略', url: '/blog/2026-01-02-69523427fd89780001caa652/', tag: '健康須知' },
-  { title: '別再搜必去清單！解鎖你的專屬行程公式與隱藏版秘境', url: '/blog/2025-08-16-68a00fc1fd89780001f621c5/', tag: '景點公式' },
-  { title: '新手必看 8 大注意事項：飲水安全、電壓插頭、文化禁忌與防坑建議', url: '/blog/2023-08-15-64db6b7dfd897800013a97bc/', tag: '新手必看' },
-  { title: '【Klook 懶人包】0 規劃也能玩遍網美打卡點、文化遺產與熱門活動', url: '/blog/2025-05-01-6812dc5dfd897800018e284b/', tag: 'Klook' },
-  { title: '峇里島雨季月份/降雨機率/降雨天數/平均氣溫/適合旅遊指數大解析', url: '/blog/2025-04-02-67ecc962fd89780001212629/', tag: '氣候' },
-  { title: '峇里島戶外活動玩什麼？50 種最受歡迎的戶外體驗', url: '/blog/2025-04-02-67ecf440fd897800012cb31b/', tag: '戶外活動' },
-  { title: '2026 年印尼國定假日 & 峇里島節慶一整年完整指南', url: '/blog/2026-01-16-696a37c5fd89780001f0790b/', tag: '節慶' },
-  { title: '峇里島旺季旅遊攻略：如何避開交通擁堵，輕鬆享受假期', url: '/blog/2024-12-10-67581b8ffd89780001f5b5dc/', tag: '旺季' },
-  { title: '峇里島不踩雷攻略：18 個常見錯誤與建議', url: '/blog/2024-10-20-6714c06cfd8978000116322a/', tag: '防踩雷' },
-  { title: 'Grab vs Gojek？印尼/峇里島 Gojek 與 GoPay 註冊使用教學', url: '/blog/2024-10-13-670b5191fd8978000185cf37/', tag: '交通' },
-  { title: '峇里島居然有五個旅遊旺季！如何避開旺季聰明旅遊？', url: '/blog/2024-06-04-665ef28dfd89780001adfa98/', tag: '旺季' },
-  { title: '【小費攻略】包車司機、按摩 SPA、飯店床頭小費行情全解析', url: '/blog/2024-05-07-663a126bfd89780001390b63/', tag: '小費' },
-  { title: '峇里島旅行要帶什麼？必備的 21 項物品', url: '/blog/2023-02-12-64db6b7efd897800013a9821/', tag: '行李' },
-  { title: '峇里島旅遊攻略：網路・換匯・交通・購物全解析', url: '/blog/2022-12-05-64db6b7dfd897800013a9767/', tag: '全攻略' },
-];
+// ── Global Must-See Picks — per language (display 10 randomly) ────────
+const GLOBAL_PICKS_DATA = {
+  'zh-tw': [
+    { title: '【精華篇】峇里島好評 SPA、到府按摩推薦（以區域劃分）', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'SPA推薦' },
+    { title: '峇里島推薦必買伴手禮：零食/食品篇', url: '/blog/2019-09-02-64db6b5cfd897800013a9015/', tag: '伴手禮' },
+    { title: '【下雨備案】60 個超強室內行程：購物中心・五星下午茶・手作體驗', url: '/blog/2024-01-06-6598c6fffd89780001047d76/', tag: '備案行程' },
+    { title: 'Bali Belly 腸胃炎如何自救？紓解成藥攻略', url: '/blog/2026-01-02-69523427fd89780001caa652/', tag: '健康須知' },
+    { title: '別再搜必去清單！解鎖你的專屬行程公式與隱藏版秘境', url: '/blog/2025-08-16-68a00fc1fd89780001f621c5/', tag: '景點公式' },
+    { title: '新手必看 8 大注意事項：飲水安全、電壓插頭、文化禁忌與防坑建議', url: '/blog/2023-08-15-64db6b7dfd897800013a97bc/', tag: '新手必看' },
+    { title: '【Klook 懶人包】0 規劃也能玩遍網美打卡點、文化遺產與熱門活動', url: '/blog/2025-05-01-6812dc5dfd897800018e284b/', tag: 'Klook' },
+    { title: '峇里島雨季月份/降雨機率/降雨天數/平均氣溫/適合旅遊指數大解析', url: '/blog/2025-04-02-67ecc962fd89780001212629/', tag: '氣候' },
+    { title: '峇里島戶外活動玩什麼？50 種最受歡迎的戶外體驗', url: '/blog/2025-04-02-67ecf440fd897800012cb31b/', tag: '戶外活動' },
+    { title: '2026 年印尼國定假日 & 峇里島節慶一整年完整指南', url: '/blog/2026-01-16-696a37c5fd89780001f0790b/', tag: '節慶' },
+    { title: '峇里島旺季旅遊攻略：如何避開交通擁堵，輕鬆享受假期', url: '/blog/2024-12-10-67581b8ffd89780001f5b5dc/', tag: '旺季' },
+    { title: '峇里島不踩雷攻略：18 個常見錯誤與建議', url: '/blog/2024-10-20-6714c06cfd8978000116322a/', tag: '防踩雷' },
+    { title: 'Grab vs Gojek？印尼/峇里島 Gojek 與 GoPay 註冊使用教學', url: '/blog/2024-10-13-670b5191fd8978000185cf37/', tag: '交通' },
+    { title: '峇里島居然有五個旅遊旺季！如何避開旺季聰明旅遊？', url: '/blog/2024-06-04-665ef28dfd89780001adfa98/', tag: '旺季' },
+    { title: '【小費攻略】包車司機、按摩 SPA、飯店床頭小費行情全解析', url: '/blog/2024-05-07-663a126bfd89780001390b63/', tag: '小費' },
+    { title: '峇里島旅行要帶什麼？必備的 21 項物品', url: '/blog/2023-02-12-64db6b7efd897800013a9821/', tag: '行李' },
+    { title: '峇里島旅遊攻略：網路・換匯・交通・購物全解析', url: '/blog/2022-12-05-64db6b7dfd897800013a9767/', tag: '全攻略' },
+  ],
+  'zh-cn': [
+    { title: '峇里岛好评SPA、上门按摩推荐（以区域划分）', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'SPA推荐' },
+    { title: '峇里岛必买手信：零食/食品篇', url: '/blog/2019-09-02-64db6b5cfd897800013a9015/', tag: '手信' },
+    { title: '【下雨备案】60个超强室内行程：购物中心·五星下午茶·手作体验', url: '/blog/2024-01-06-6598c6fffd89780001047d76/', tag: '备案行程' },
+    { title: 'Bali Belly 肠胃炎如何自救？缓解成药攻略', url: '/blog/2026-01-02-69523427fd89780001caa652/', tag: '健康须知' },
+    { title: '别再搜必去清单！解锁你的专属行程公式与隐藏版秘境', url: '/blog/2025-08-16-68a00fc1fd89780001f621c5/', tag: '景点公式' },
+    { title: '新手必看8大注意事项：饮水安全、电压插头、文化禁忌与防坑建议', url: '/blog/2023-08-15-64db6b7dfd897800013a97bc/', tag: '新手必看' },
+    { title: '【Klook懒人包】0规划也能玩遍网红打卡点、文化遗产与热门活动', url: '/blog/2025-05-01-6812dc5dfd897800018e284b/', tag: 'Klook' },
+    { title: '峇里岛雨季月份/降雨概率/降雨天数/平均气温/适合旅游指数大解析', url: '/blog/2025-04-02-67ecc962fd89780001212629/', tag: '气候' },
+    { title: '峇里岛户外活动玩什么？50种最受欢迎的户外体验', url: '/blog/2025-04-02-67ecf440fd897800012cb31b/', tag: '户外活动' },
+    { title: '2026年印尼国定假日 & 峇里岛节庆一整年完整指南', url: '/blog/2026-01-16-696a37c5fd89780001f0790b/', tag: '节庆' },
+    { title: '峇里岛旺季旅游攻略：如何避开交通拥堵，轻松享受假期', url: '/blog/2024-12-10-67581b8ffd89780001f5b5dc/', tag: '旺季' },
+    { title: '峇里岛避坑攻略：18个常见错误与建议', url: '/blog/2024-10-20-6714c06cfd8978000116322a/', tag: '避坑' },
+    { title: 'Grab vs Gojek？印尼/峇里岛Gojek与GoPay注册使用教学', url: '/blog/2024-10-13-670b5191fd8978000185cf37/', tag: '交通' },
+    { title: '峇里岛居然有五个旅游旺季！如何避开旺季聪明旅游？', url: '/blog/2024-06-04-665ef28dfd89780001adfa98/', tag: '旺季' },
+    { title: '【小费攻略】包车司机、按摩SPA、酒店床头小费行情全解析', url: '/blog/2024-05-07-663a126bfd89780001390b63/', tag: '小费' },
+    { title: '峇里岛旅行要带什么？必备的21项物品', url: '/blog/2023-02-12-64db6b7efd897800013a9821/', tag: '行李' },
+    { title: '峇里岛旅游攻略：网络·换汇·交通·购物全解析', url: '/blog/2022-12-05-64db6b7dfd897800013a9767/', tag: '全攻略' },
+  ],
+  'en': [
+    { title: 'Bali SPA Guide: Best Massage & Spa Picks by Area', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', tag: 'Spa Guide' },
+    { title: 'Best Bali Souvenirs to Buy: Snacks & Food Edition', url: '/blog/2019-09-02-64db6b5cfd897800013a9015/', tag: 'Shopping' },
+    { title: 'Rainy Day in Bali: 60 Indoor Activities — Malls, High Tea & Workshops', url: '/blog/2024-01-06-6598c6fffd89780001047d76/', tag: 'Rainy Day' },
+    { title: 'Bali Belly: How to Recover Fast — Remedies & Medicine Guide', url: '/blog/2026-01-02-69523427fd89780001caa652/', tag: 'Health' },
+    { title: 'Stop Googling "Must-See Lists" — Unlock Your Personal Bali Formula', url: '/blog/2025-08-16-68a00fc1fd89780001f621c5/', tag: 'Itinerary Tips' },
+    { title: '8 Bali Safety Tips Every First-Timer Must Know (Water, Power & Customs)', url: '/blog/2023-08-15-64db6b7dfd897800013a97bc/', tag: 'Beginner' },
+    { title: 'Klook Bali: Zero-Planning Day Tours for Instagrammers & Culture Lovers', url: '/blog/2025-05-01-6812dc5dfd897800018e284b/', tag: 'Klook' },
+    { title: 'Bali Rainy Season: Monthly Rainfall, Chance of Rain & Travel Index', url: '/blog/2025-04-02-67ecc962fd89780001212629/', tag: 'Weather' },
+    { title: '50 Best Outdoor Activities in Bali: Most Popular Experiences', url: '/blog/2025-04-02-67ecf440fd897800012cb31b/', tag: 'Outdoor' },
+    { title: '2026 Indonesia Public Holidays & Bali Festivals: Year-Round Guide', url: '/blog/2026-01-16-696a37c5fd89780001f0790b/', tag: 'Festivals' },
+    { title: 'Bali Peak Season Travel Tips: Beat the Traffic & Enjoy Your Holiday', url: '/blog/2024-12-10-67581b8ffd89780001f5b5dc/', tag: 'Peak Season' },
+    { title: '18 Common Bali Mistakes (and How to Avoid Them)', url: '/blog/2024-10-20-6714c06cfd8978000116322a/', tag: 'Avoid Traps' },
+    { title: 'Grab vs Gojek? How to Register & Use Gojek + GoPay in Bali', url: '/blog/2024-10-13-670b5191fd8978000185cf37/', tag: 'Transport' },
+    { title: 'Bali Has 5 Peak Seasons — How to Travel Smart & Beat the Crowds', url: '/blog/2024-06-04-665ef28dfd89780001adfa98/', tag: 'Peak Season' },
+    { title: 'Bali Tipping Guide: Drivers, Spa, Massage & Hotel — What to Give', url: '/blog/2024-05-07-663a126bfd89780001390b63/', tag: 'Tipping' },
+    { title: 'What to Pack for Bali: 21 Essential Items You Must Bring', url: '/blog/2023-02-12-64db6b7efd897800013a9821/', tag: 'Packing' },
+    { title: 'Bali Travel Essentials: SIM Card, Money Exchange, Transport & Shopping', url: '/blog/2022-12-05-64db6b7dfd897800013a9767/', tag: 'Essentials' },
+  ],
+};
+// zh-hk uses same Traditional Chinese as zh-tw
+const GLOBAL_PICKS = GLOBAL_PICKS_DATA[lang] || GLOBAL_PICKS_DATA['zh-tw'];
 
 // ── State ─────────────────────────────────────────────────────────────
 const state = { companion:'', days:'', interests:[], budget:'', areas:[], itinerary:'', allSpots:[] };
@@ -1615,8 +1831,10 @@ function listItemHtml({title,url,tag}) {
 function regionSection(key) {
   const r = REGIONS[key]; if(!r) return '';
   const rEn = (lang === 'en' && REGIONS_EN[key]) ? REGIONS_EN[key] : null;
-  const guide = rEn ? rEn.guide : r.guide;
-  const spots = rEn ? rEn.spots : r.spots;
+  const rCn = (lang === 'zh-cn' && REGIONS_ZH_CN[key]) ? REGIONS_ZH_CN[key] : null;
+  const rLang = rEn || rCn;
+  const guide = rLang ? rLang.guide : r.guide;
+  const spots = rLang ? rLang.spots : r.spots;
   const desc = LS.regionDescs?.[key] || '';
 
   // Selected spots for this region — shown at top
@@ -1638,7 +1856,9 @@ function regionSection(key) {
 }
 
 function extraSection(key) {
-  const extras = (lang === 'en' && INTEREST_EXTRAS_EN[key]) ? INTEREST_EXTRAS_EN[key] : INTEREST_EXTRAS[key];
+  const extras = (lang === 'en' && INTEREST_EXTRAS_EN[key]) ? INTEREST_EXTRAS_EN[key]
+    : (lang === 'zh-cn' && INTEREST_EXTRAS_ZH_CN[key]) ? INTEREST_EXTRAS_ZH_CN[key]
+    : INTEREST_EXTRAS[key];
   if(!extras) return '';
   const title = LS.extras?.[key] || key;
   return `<div class="results-section"><h3 class="section-title">${title}</h3><div class="article-list">${extras.articles.map(listItemHtml).join('')}</div></div>`;
