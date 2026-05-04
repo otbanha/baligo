@@ -39,6 +39,12 @@ const T = {
     tagAccom: '住宿選擇', tagMap: '景點地圖',
     tagFood: '美食', tagSpa: 'SPA按摩', tagSunset: '必體驗',
     tagSouvenir: '購物', tagRain: '備案',
+    mrTitle1: '【2026 峇里島自由行】7 步驟輕鬆規劃完美旅程',
+    mrTitle2: '99% 遊客都在偷偷搜尋的超尷尬 41 個問題大解答',
+    mrTitle3: '【這樣玩居然不塞車！】8 天 7 夜爽玩峇里島全方位攻略',
+    mrTitle4: '五大熱門區域比較：庫塔、水明漾、倉古、烏布怎麼選？',
+    mrTitle5: '2026 峇里島 500 個最新人氣景點一次蒐全',
+    mrTitle6: '【新手攻略】第一次去峇里島必看的 32 項旅遊攻略',
     q_spots: '有特定想去的景點嗎？', q_spots_hint: '可多選',
     spots_ubud: '🌿 烏布必訪景點',
     secSpots: '📍 你選擇的景點攻略',
@@ -110,6 +116,12 @@ const T = {
     tagAccom: '住宿選擇', tagMap: '景點地圖',
     tagFood: '美食', tagSpa: 'SPA按摩', tagSunset: '必體驗',
     tagSouvenir: '購物', tagRain: '備案',
+    mrTitle1: '【2026 峇里島自由行】7 步驟輕鬆規劃完美旅程',
+    mrTitle2: '99% 遊客都在偷偷搜尋的超尷尬 41 個問題大解答',
+    mrTitle3: '【這樣玩居然不塞車！】8 天 7 夜爽玩峇里島全方位攻略',
+    mrTitle4: '五大熱門區域比較：庫塔、水明漾、倉古、烏布怎麼選？',
+    mrTitle5: '2026 峇里島 500 個最新人氣景點一次蒐全',
+    mrTitle6: '【新手攻略】第一次去峇里島必看的 32 項旅遊攻略',
     q_spots: '有特定想去嘅景點嗎？', q_spots_hint: '可多選',
     spots_ubud: '🌿 烏布必訪景點',
     secSpots: '📍 你選擇嘅景點攻略',
@@ -181,6 +193,12 @@ const T = {
     tagAccom: '住宿选择', tagMap: '景点地图',
     tagFood: '美食', tagSpa: 'SPA按摩', tagSunset: '必体验',
     tagSouvenir: '购物', tagRain: '备案',
+    mrTitle1: '【2026 峇里島自由行】7 步驟輕鬆規劃完美旅程',
+    mrTitle2: '99% 遊客都在偷偷搜尋的超尷尬 41 個問題大解答',
+    mrTitle3: '【這樣玩居然不塞車！】8 天 7 夜爽玩峇里島全方位攻略',
+    mrTitle4: '五大熱門區域比較：庫塔、水明漾、倉古、烏布怎麼選？',
+    mrTitle5: '2026 峇里島 500 個最新人氣景點一次蒐全',
+    mrTitle6: '【新手攻略】第一次去峇里島必看的 32 項旅遊攻略',
     q_spots: '有特定想去的景点吗？', q_spots_hint: '可多选',
     spots_ubud: '🌿 乌布必访景点',
     secSpots: '📍 你选择的景点攻略',
@@ -252,6 +270,12 @@ const T = {
     tagAccom: 'Accommodation', tagMap: 'Attraction Map',
     tagFood: 'Food', tagSpa: 'Spa', tagSunset: 'Must-Do',
     tagSouvenir: 'Shopping', tagRain: 'Rainy Day',
+    mrTitle1: '2026 Bali Travel Planning: 7 Steps to Your Perfect Trip',
+    mrTitle2: '41 Awkward Questions Every Bali Traveller Secretly Googles',
+    mrTitle3: 'The No-Traffic Bali Itinerary: 8-Day Complete Strategy',
+    mrTitle4: 'Top 5 Bali Regions Compared: Kuta, Seminyak, Canggu or Ubud?',
+    mrTitle5: "2026 Bali's 500 Most Popular Attractions — All in One Place",
+    mrTitle6: "First-Timer's Bali Guide: 32 Essential Things to Know Before You Go",
     q_spots: 'Any specific attractions?', q_spots_hint: 'Multi-select',
     spots_ubud: '🌿 Ubud Must-Visit',
     secSpots: '📍 Your Selected Attractions',
@@ -541,34 +565,34 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
       <div class="results-section highlight">
         <h3 class="section-title">{T.secMustRead}</h3>
         <div class="article-grid">
-          <a href="/blog/2023-12-06-65708c78fd89780001f418c2/" class="acard" target="_blank" rel="noopener">
+          <a href={lang === 'zh-tw' ? '/blog/2023-12-06-65708c78fd89780001f418c2/' : `/${lang}/blog/2023-12-06-65708c78fd89780001f418c2/`} class="acard" target="_blank" rel="noopener">
             <span class="acard-tag">{T.tagNewbie}</span>
-            <p class="acard-title">【2026 峇里島自由行】7 步驟輕鬆規劃完美旅程</p>
+            <p class="acard-title">{T.mrTitle1}</p>
             <span class="acard-arrow">→</span>
           </a>
-          <a href="/blog/2025-01-07-672e2c1afd897800014c3fbc/" class="acard" target="_blank" rel="noopener">
+          <a href={lang === 'zh-tw' ? '/blog/2025-01-07-672e2c1afd897800014c3fbc/' : `/${lang}/blog/2025-01-07-672e2c1afd897800014c3fbc/`} class="acard" target="_blank" rel="noopener">
             <span class="acard-tag">{T.tagQA}</span>
-            <p class="acard-title">99% 遊客都在偷偷搜尋的超尷尬 41 個問題大解答</p>
+            <p class="acard-title">{T.mrTitle2}</p>
             <span class="acard-arrow">→</span>
           </a>
-          <a href="/blog/2024-03-18-65ba3bfefd89780001650f07/" class="acard" target="_blank" rel="noopener">
+          <a href={lang === 'zh-tw' ? '/blog/2024-03-18-65ba3bfefd89780001650f07/' : `/${lang}/blog/2024-03-18-65ba3bfefd89780001650f07/`} class="acard" target="_blank" rel="noopener">
             <span class="acard-tag">{T.tagRoute}</span>
-            <p class="acard-title">【這樣玩居然不塞車！】8 天 7 夜爽玩峇里島全方位攻略</p>
+            <p class="acard-title">{T.mrTitle3}</p>
             <span class="acard-arrow">→</span>
           </a>
-          <a href="/blog/2026-02-24-65839fbafd89780001e876b5/" class="acard" target="_blank" rel="noopener">
+          <a href={lang === 'zh-tw' ? '/blog/2026-02-24-65839fbafd89780001e876b5/' : `/${lang}/blog/2026-02-24-65839fbafd89780001e876b5/`} class="acard" target="_blank" rel="noopener">
             <span class="acard-tag">{T.tagAccom}</span>
-            <p class="acard-title">五大熱門區域比較：庫塔、水明漾、倉古、烏布怎麼選？</p>
+            <p class="acard-title">{T.mrTitle4}</p>
             <span class="acard-arrow">→</span>
           </a>
-          <a href="/blog/2024-03-09-65df201efd89780001994d11/" class="acard" target="_blank" rel="noopener">
+          <a href={lang === 'zh-tw' ? '/blog/2024-03-09-65df201efd89780001994d11/' : `/${lang}/blog/2024-03-09-65df201efd89780001994d11/`} class="acard" target="_blank" rel="noopener">
             <span class="acard-tag">{T.tagMap}</span>
-            <p class="acard-title">2026 峇里島 500 個最新人氣景點一次蒐全</p>
+            <p class="acard-title">{T.mrTitle5}</p>
             <span class="acard-arrow">→</span>
           </a>
-          <a href="/blog/2024-02-01-65b60902fd89780001ec8bb1/" class="acard" target="_blank" rel="noopener">
+          <a href={lang === 'zh-tw' ? '/blog/2024-02-01-65b60902fd89780001ec8bb1/' : `/${lang}/blog/2024-02-01-65b60902fd89780001ec8bb1/`} class="acard" target="_blank" rel="noopener">
             <span class="acard-tag">{T.tagNewbie}</span>
-            <p class="acard-title">【新手攻略】第一次去峇里島必看的 32 項旅遊攻略</p>
+            <p class="acard-title">{T.mrTitle6}</p>
             <span class="acard-arrow">→</span>
           </a>
         </div>
