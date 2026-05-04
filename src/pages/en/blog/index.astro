@@ -94,6 +94,7 @@ const allPostsData = allPosts
   .map(p => ({
     id: p.id,
     slug: p.data.slug || p.id,
+    hasEnTranslation: langMap.has(p.id),
     title: p.data.title,
     heroImage: p.data.heroImage || '',
     category: getCategories(p.data.category),
@@ -392,9 +393,14 @@ const socialLinks = [
       const section = document.getElementById('top5-section');
       const list = document.getElementById('top5-list');
       if (!section || !list) return;
-      const shuffled = data.slice().sort(() => Math.random() - 0.5).slice(0, 6);
-      list.innerHTML = shuffled.map((item) => {
-        const postData = allPostsData.find(p => p.id === item.id);
+      const findPost = id => allPostsData.find(p => p.id === id || p.slug === id);
+      const enOnly = data
+        .map(item => ({ item, postData: findPost(item.id) }))
+        .filter(({ postData }) => postData?.hasEnTranslation)
+        .sort(() => Math.random() - 0.5)
+        .slice(0, 6);
+      if (enOnly.length === 0) return;
+      list.innerHTML = enOnly.map(({ item, postData }) => {
         const localTitle = postData?.title || item.title;
         const slug = postData?.slug || item.id;
         return `<li class="top5-item"><a href="${blogBase}/${slug}/"><span style="display:inline-block;width:20px;height:20px;flex-shrink:0;background-image:url('/favicon-32x32.png');background-size:cover;background-repeat:no-repeat;border-radius:4px"></span><span class="top5-title">${localTitle}</span></a></li>`;
