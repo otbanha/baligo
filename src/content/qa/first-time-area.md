@@ -1,5 +1,8 @@
 ---
 title: 第一次去峇里島住哪一區？
+title_en: "Which Area Should First-Time Visitors Stay in Bali?"
+title_zh_cn: "第一次去峇里岛住哪一区？"
+title_zh_hk: "第一次去峇里島住邊區？"
 category: accommodation
 relatedLinks:
 - slug: blog/2026-02-24-65839fbafd89780001e876b5/

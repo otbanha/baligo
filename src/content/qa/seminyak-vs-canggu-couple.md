@@ -1,5 +1,8 @@
 ---
 title: 水明漾還是 Canggu 比較適合情侶？
+title_en: "Seminyak or Canggu — Which Is Better for Couples?"
+title_zh_cn: "水明漾还是 Canggu 比较适合情侣？"
+title_zh_hk: "水明漾定 Canggu 比較適合情侶？"
 category: accommodation
 relatedLinks:
 - slug: go/seminyak-guide

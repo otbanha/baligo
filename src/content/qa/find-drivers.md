@@ -1,5 +1,8 @@
 ---
 title: 如何找到可靠的司機/中文司機？
+title_en: "How Do I Find a Reliable Driver in Bali?"
+title_zh_cn: "如何找到可靠的司机/中文司机？"
+title_zh_hk: "點搵可靠司機/中文司機？"
 category: transport
 relatedLinks:
 - slug: go/bali-drivers-reviews

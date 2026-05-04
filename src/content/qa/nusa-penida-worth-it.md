@@ -1,5 +1,8 @@
 ---
 title: 佩尼達島適合一日遊嗎？
+title_en: "Is Nusa Penida Worth a Day Trip from Bali?"
+title_zh_cn: "佩尼达岛适合一日游吗？"
+title_zh_hk: "佩尼達島適合一日遊咩？"
 category: itinerary
 relatedLinks:
 - slug: blog/2023-08-16-64db6b82fd897800013a9942/

@@ -1,5 +1,8 @@
 ---
 title: 峇里島有什麼美食推薦？
+title_en: "What Are Some Must-Try Foods in Bali?"
+title_zh_cn: "峇里岛有什么美食推荐？"
+title_zh_hk: "峇里島有咩美食推薦？"
 category: food
 relatedLinks:
 - slug: blog/2026-01-12-693aaf9dfd897800013bfe3f/

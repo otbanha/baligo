@@ -1,5 +1,8 @@
 ---
 title: 路邊攤可以吃嗎？Bali belly怎麼處理？
+title_en: "Is Street Food Safe in Bali? How Do I Handle Bali Belly?"
+title_zh_cn: "路边摊可以吃吗？Bali belly 怎么处理？"
+title_zh_hk: "路邊攤可以食咩？Bali belly點處理？"
 category: food
 relatedLinks:
 - slug: go/bali-belly

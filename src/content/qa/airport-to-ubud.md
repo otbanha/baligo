@@ -1,5 +1,8 @@
 ---
 title: 機場到烏布要多久？
+title_en: "How Long Does It Take to Get from the Airport to Ubud?"
+title_zh_cn: "机场到乌布要多久？"
+title_zh_hk: "機場去烏布要幾耐？"
 category: transport
 relatedLinks:
 - slug: blog/2024-06-05-665d6a8efd897800013337a9/
