@@ -267,7 +267,7 @@ async function bbcFetchRate() {
     const res = await fetch('/api/exchange-rate');
     const data = await res.json();
     const raw = Math.round(data.rates.IDR);
-    BBC_IDR = raw - 400;
+    BBC_IDR = raw - 475;
     localStorage.setItem(key, BBC_IDR);
     Object.keys(localStorage).forEach(k => { if (k.startsWith('bbc_idr_') && k !== key) localStorage.removeItem(k); });
     bbcUpdateRateHint(BBC_IDR);
