@@ -164,6 +164,17 @@ export const maps: MapArea[] = [
     isThematic: true,
   },
   {
+    slug: "seminyak-eat-street",
+    name: "水明漾 Eat Street 指南",
+    nameEn: "Seminyak Eat Street Guide",
+    description: "水明漾美食街精選餐廳，從早午餐到晚餐一次掌握",
+    center: [-8.6897, 115.1612],
+    zoom: 15,
+    kml: "/maps/seminyak-eat-street.kml",
+    emoji: "🍽️",
+    isThematic: true,
+  },
+  {
     slug: "ubud-villa",
     name: "烏布 Villa 推薦",
     nameEn: "Best Villas in Ubud",

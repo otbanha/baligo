@@ -1,0 +1,919 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>Seminyak Eat Street Guide by GoBaliGo</name>
+    <description>峇里島旅遊攻略: https://gobaligo.id/</description>
+    <Style id="icon-1602-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1602-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1602-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1602-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1602-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1684-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1684-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1684-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1684-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1684-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1684-0288D1-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1684-0288D1-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1684-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1684-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1684-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Eat Street Eating Guide</name>
+      <Placemark>
+        <name>SECRET GARDEN</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.1570962,-8.6836377,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starbucks Kayu Aya</name>
+        <description>Eat Street 西端的 Starbucks，裝潢比一般門市更有峇里島特色，位置方便，Wi-Fi 穩定，是需要工作的旅客休息站。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1572154,-8.6840859,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chandi</name>
+        <description>Eat Street 上最老牌的泛亞料理餐廳之一，以有機食材和峇里島在地農產品入菜。招牌有味噌焦糖奶油魚（Miso Caramelised Butterfish）、熱石沙嗲拼盤、鮮蝦沙嗲佐塔瑪林醬。午後有 Happy Hour，適合找個位子慢慢享用下午茶加雞尾酒。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1588854,-8.6840589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KUUKI Rooftop Dining</name>
+        <description>Eat Street 上少數有屋頂（Rooftop）座位的餐廳，可以俯瞰街景享用晚餐或雞尾酒，夜風習習的時候氣氛相當迷人。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1592689,-8.6842985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafe Bali</name>
+        <description>一間帶著濃濃舊峇里情懷的餐廳，裝潢以古董餐具、復古布料和印尼傳統建築元素打造「Warung 復古風」。菜單從亞洲料理到國際料理都有，每日特餐也有不同選擇，價格親民，是不想花大錢卻想吃得舒服的好選擇。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1594488,-8.684035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Library</name>
+        <description>The Library</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1595657,-8.6840369,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ginger Moon Canteen</name>
+        <description><![CDATA[2012 年開業，是 Eat Street 上的「老字號傳奇」，以現代亞洲料理（Modern Asian Canteen）為定位，強調多人分享的用餐文化。裝潢走殖民地風格，氣氛熱鬧卻不失優雅。<br>招牌必點：黑椒蟹、松葉蟹、北京烤鴨配薄餅、Ayam Betutu（峇里香料烤雞）、蟹肉餃子。主廚 Dean 堅持從在地農場採購有機食材。近年部分評論認為菜色稍有下滑，但整體仍是 Eat Street 上最值得排隊的餐廳之一。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.159654,-8.6840392,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Italian Job Bali</name>
+        <description>爪哇料理小餐館，提供真正的在地風味，預算旅客的選擇，用餐環境簡樸但食物真實美味。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.160082,-8.6840605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pool & Cafe Upaasha]]></name>
+        <description>附設泳池的餐廳酒吧，可以買票使用泳池後再用餐，是一次解決曬太陽和吃飯的懶人選擇。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1602537,-8.684275,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sumak Turkish Cuisine Seminyak</name>
+        <description>峇里島少見的土耳其料理餐廳，Kebab 和 Mezze 拼盤是人氣選項，口味道地，吸引不少想嚐鮮的旅客。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1605685,-8.6841158,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seken Bali | Jazz and Cocktails</name>
+        <description>以爵士樂現場演奏搭配精緻雞尾酒為特色，是 Eat Street 上氣質最獨特的小酒吧。想要逃離嘈雜舞池、安靜享受音樂和好酒的旅客，非常推薦。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1605238,-8.6842368,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Salazon Bali</name>
+        <description>主打西班牙 / 地中海風味，氣氛輕鬆，調酒選項豐富，適合晚餐後繼續小酌。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.160623,-8.6842407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Buzo Seminyak – Sushi, Pizza & Itameshi]]></name>
+        <description>融合日式與義式料理（Itameshi 即日義融合），提供壽司、披薩等多元選擇，是 Eat Street 上的創意料理代表之一。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.160703,-8.6842821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Asparagus Seminyak</name>
+        <description>Asparagus 是 Amadea Resort 附設的餐廳，提供早、午、晚餐，全日菜單強調有機在地食材，也有豐富的蔬食／純素選項。不少評論特別點名**自助早餐（Buffet Breakfast）**是水明漾數一數二的選擇——種類涵蓋印尼料理、西式料理、現做蛋品、煎餅站（Pancake Station）、新鮮果汁，份量充足且品質穩定，有評論直接稱它是「Seminyak 早餐冠軍」。晚間有現場演奏，整體 CP 值在 Eat Street 上屬於高水準。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1610203,-8.6842753,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mr.Smash Burger - Seminyak</name>
+        <description>Smash Burger 風格（高溫壓薄牛肉餅），口感焦脆外表鮮嫩，是近年在峇里島快速竄紅的漢堡類型。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1627388,-8.6838749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Goat Seminyak</name>
+        <description>現代歐式小酒館，以烤肉料理和手工調酒著稱，晚間氣氛輕鬆，很受年輕旅客喜愛。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.16265,-8.683911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Favela</name>
+        <description><![CDATA[Eat Street 上最傳奇的夜生活地標。2012 年由一棟小商店改建，融合了巴西 Favela、印尼叢林、倫敦地下酒吧等元素，人工瀑布、池塘、拱橋、復古腳踏車收藏交錯其中，每個角落都是一個故事。<br>晚餐時段（19:00–23:00）以拉美料理為主，Taco、Tostada、Wagyu 牛排都有好評；23:00 後搖身成為三層樓夜店，每層音樂風格不同——從流行、嘻哈到 Reggaeton。人氣最旺在午夜過後。女生通常免費入場，男生如 21:00 後入場需付 IDR 200,000–250,000（含一杯飲品）。<br>整體而言：氣氛滿分、調酒不錯、服務略嫌參差，但不去一次在水明漾算是沒玩到。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.162865,-8.6838942,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cocos bar and grill</name>
+        <description>輕鬆的戶外燒烤酒吧，提供漢堡、烤肉、炸雞等下酒菜，冷啤酒配燒烤在熱帶夜晚是絕配。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1627592,-8.6837393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Natys Restaurant Seminyak</name>
+        <description>家常菜風格的小餐廳，評價集中在食物份量實在、價格合理。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1628372,-8.6837117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Malverde Tequileria & Nightclub]]></name>
+        <description>以龍舌蘭酒和墨西哥調酒為主題的夜店，就在 La Favela 旁邊，是從 La Favela 人太多轉移過來的好選項。氣氛偏拉美風，音樂活力充沛。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1630236,-8.683905,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Johnny Rockets</name>
+        <description>美式復古連鎖品牌，提供漢堡、奶昔、薯條等經典美式速食，適合帶小朋友或懷念美式餐廳的旅客。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.163291,-8.683459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung dickolini / verace pizza</name>
+        <description>在地的薄底拿坡里披薩，Verace 代表正宗義大利傳統工法，窯烤出爐的披薩外脆內軟，評價高。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1634652,-8.6836384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Mr & Mrs Dick]]></name>
+        <description>風格隨性的餐廳，提供漢堡、炸物等美式料理，是 Eat Street 上偏休閒輕鬆的選項。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1634635,-8.6836958,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shawarma Beirut Seminyak</name>
+        <description>黎巴嫩風味沙瓦瑪，在 Eat Street 上是獨樹一幟的中東料理選擇，肉質多汁、份量實在。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1637184,-8.683445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gambinos Bali</name>
+        <description>義式風格餐廳，提供披薩、義大利麵，適合不想花大錢卻想吃到還不錯義式料理的旅客。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1641191,-8.6834448,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Corner House Bali</name>
+        <description>白天是早午餐咖啡廳，晚上搖身一變成為活潑的社交餐酒館，提供現代歐式料理，豬肋排是一絕！氣氛輕鬆不做作，從早到晚都有客人。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1643012,-8.6833902,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Thaikhun Bali</name>
+        <description>連鎖泰式料理品牌，味道標準化，適合想吃泰式料理卻不確定要選哪家的旅客，翠綠裝潢搶眼。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1643342,-8.6835476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LACALITA Seminyak</name>
+        <description>拉美風情餐廳，提供 Taco、Tostadas 等墨西哥料理，調酒選項多元，氣氛活潑，週末夜晚特別熱鬧。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1643746,-8.6837924,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Seamaniac Fish & Chips Bar]]></name>
+        <description>英式炸魚薯條專賣，在峇里島找到這樣的店算是稀奇，份量豪邁，搭配冰啤酒是夏日標配。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1645112,-8.6842877,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Red Carpet Champagne Bar</name>
+        <description>2009 年開業，是 Eat Street 上最老牌的夜生活場所之一，擁有全印尼最大的香檳收藏（超過 100 款），服務人員身著復古制服，宛如「香檳空姐」。整晚播放 70–90 年代懷舊音樂 MV，不定時免費送上小點心（Canapés）。調酒水準一流，Espresso Martini 獲得無數讚美。氣氛浮誇有趣，完全不裝高冷，是偏向 30 歲以上旅客的好去處。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.163017,-8.683555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Aneka Rasa Jawa</name>
+        <description>爪哇料理小餐館，提供真正的在地風味，預算旅客的選擇，用餐環境簡樸但食物真實美味。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1622464,-8.6837025,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ultimo Restaurant</name>
+        <description>提供義大利料理，在 Eat Street 的義式選擇中評價穩定，適合想吃道地義大利麵或披薩的旅客。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1609809,-8.683775,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nirvana Lounge Bali</name>
+        <description>運動酒吧，直播各大球賽，提供漢堡、炸雞等下酒食物，是看球賽配啤酒的首選。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1595119,-8.6842892,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Nirvana Sports Bar & Restaurant]]></name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.1594375,-8.6843125,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kunis Backyard Seminyak</name>
+        <description>Eat Street 上的隱藏小店，走輕鬆休閒風，提供輕食和飲品，適合逛街途中歇腳。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1586031,-8.6840085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Le'Bleu]]></name>
+        <description>海鮮為主的餐廳酒吧，提供生蠔、龍蝦等海鮮料理，配上清爽白酒，適合想吃高檔一點的旅客。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1584575,-8.6839471,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung 3 Putri</name>
+        <description>平實的在地 Warung，提供傳統印尼家常菜，是 Eat Street 上少數可以吃到道地峇里島口味且消費低廉的選項，深受背包客喜愛。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1586116,-8.6843312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mad Pops Ice Cream</name>
+        <description>手工冰棒專賣店，使用天然食材製作各種熱帶口味，視覺系十足，是吃完正餐後甜點的好選擇，也很受拍照打卡旅客喜愛。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1583789,-8.684229,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mykonos Greek Restaurant Bali</name>
+        <description>希臘料理餐廳，提供 Tzatziki、烤肉拼盤等地中海風味，裝潢走希臘藍白風，氣氛明朗。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1580883,-8.6839929,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frozen Yogi</name>
+        <description>凍優格（Frozen Yogurt）專賣，可自選口味和配料，清爽不膩，天氣熱的時候特別受歡迎。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1574768,-8.6838001,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monsieur Spoon Seminyak</name>
+        <description><![CDATA[012 年由兩位巴黎表兄弟創立的法式麵包咖啡廳，在峇里島已有多家分店。水明漾店位於 Sisterfields 旁邊，很多人路過卻沒注意到，可說是被低估的隱藏版寶藏。<br>招牌是奶油可頌（Croissant），還有松露炒蛋可頌三明治，一口咬下就能聞到松露香氣，評價極高。比 Sisterfields 或 Revolver 便宜，也幾乎不需要等位。喜歡法式點心的人強烈推薦。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1574812,-8.683214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bangkok Kitchen</name>
+        <description>泰式料理餐廳，在 Eat Street 的泰式選項中頗受歡迎，咖哩和炒河粉評價不錯，價格平易近人。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1575059,-8.6835613,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Junction House - Cafe & Restaurant Seminyak]]></name>
+        <description>休閒風格的咖啡餐廳，提供早午餐至晚餐，裝潢溫馨，適合不趕時間慢慢用餐的旅客。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1574746,-8.6836711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Bakery Seminyak</name>
+        <description>峇里島老牌烘焙店，提供各式麵包、蛋糕、三明治，適合買外帶當早餐，也有內用空間。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1571766,-8.6835076,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Endo</name>
+        <description>日式料理餐廳，提供壽司、拉麵等日式定番，環境整潔，適合不想嘗試印尼菜的旅客。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1566704,-8.6836491,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aviary Bistro, Seminyak Square</name>
+        <description>位於 Seminyak Square 商場內，環境舒適有冷氣，提供全日早午餐菜單，價格實惠，服務品質穩定，是逛完商場後順道用餐的好選擇。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1564135,-8.6836521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sisterfields</name>
+        <description><![CDATA[Eat Street 上最知名的澳式早午餐咖啡廳，沒有之一。一開門就座無虛席，週末更要等位 20–45 分鐘。室內空間明亮寬敞，自然採光充足，瀰漫著墨爾本咖啡館的氛圍。<br>招牌必點：松露炒蛋（Truffle Scrambled Eggs）、培根班尼迪克蛋（Bacon Benedict）、巴西莓碗（Acai Berry Bowl），以及各種厚實的漢堡。咖啡由 Sibling Espresso 供應，品質穩定。價格比附近同類選手略高，但勝在口味一致、服務親切。適合想好好吃一頓早午餐的旅客。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1575518,-8.6830307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BOSSMAN Burgers Seminyak</name>
+        <description>水明漾知名漢堡品牌，以厚實多汁的美式漢堡聞名，搭配自製醬料，份量很能吃飽，是漢堡愛好者的必去清單。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1576173,-8.683117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BAKED. Seminyak</name>
+        <description><![CDATA[Sisterfields 旁邊的小夥伴：BAKED. Seminyak<br>地址： 鄰近 Sisterfields 區域<br>現代烘焙咖啡廳，以手工麵包和甜點為主，適合想來份精緻下午茶的旅客。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1572774,-8.6831597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Grill'd Burgers - Bali]]></name>
+        <description>澳洲知名連鎖漢堡品牌的峇里島分店，以新鮮食材和多樣選擇見長，相對健康的漢堡選項。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1574427,-8.6826746,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Revolver Seminyak</name>
+        <description><![CDATA[2011 年開業，被視為峇里島精品咖啡的先驅之一。藏身小巷裡，沿著黑暗的入口走進去，迎面是牛仔槍枝主題的復古工業風裝潢——深色木材、裸磚牆、皮革座椅。<br>咖啡豆自家烘焙，Flat White 和手沖都是強項，也有早午餐全日供應。人氣菜單有 Birria Toastie、巧克力熱十字麵包。咖啡控必訪，要早去才搶得到座位。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1579758,-8.6843706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bread Yard</name>
+        <description><![CDATA[Eat Street 東側末端<br>近年新開的精品麵包咖啡廳，手工麵包品質出色，裝潢現代簡潔，越來越受到 Eat Street 食客的注意。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1645853,-8.6831013,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Shopping</name>
+      <Placemark>
+        <name>水明漾廣場</name>
+        <description>位在 Kayu Aya No.1，是這條街最核心的購物地標，集服飾、紀念品、餐廳、按摩於一體，開放式露天設計、綠意盎然，營業至晚上10點。</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1570486,-8.6835334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seminyak Village</name>
+        <description>室內冷氣商場，有 Birkenstock 等品牌店，適合想避暑的旅客，也設有咖啡廳和手工皂體驗課程，緊鄰 Kayu Aya 主街。</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.157134,-8.6833565,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Supermarket Seminyak</name>
+        <description>大型超市</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1629226,-8.6835849,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Watsons Bali Seminyak Square</name>
+        <styleUrl>#icon-1684-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.1566285,-8.6837469,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GUARDIAN - Seminyak Square</name>
+        <description>藥妝店</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.156802,-8.6842401,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Skin - Post Atomic Wear</name>
+        <description>主打亞麻棉質休閒服飾，每款限量一件不撞衫，是長期回頭客最愛的老字號精品店。</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1622155,-8.684019,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>DUA by Favor Seminyak</name>
+        <description>走高端路線，販售精緻設計師款包包與服飾，品質好但定價較高，購買前請確認退換貨政策。</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1614953,-8.6841477,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Seminyak Gallery - Bali Arts & Crafts]]></name>
+        <description>峇里島手工藝品、傳統服飾、木製品一應俱全，品質比一般攤位好，適合挑選有品味的紀念品。</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1572105,-8.682587,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kayu Aya Square Market</name>
+        <description>約30個攤位，販售服飾、捕夢網、木雕、太陽眼鏡等，開放式市集氛圍濃厚，記得砍價！建議出價不超過標價的30%。</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1561829,-8.6859085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Flea Market</name>
+        <description>觀光客最常來的跳蚤市場，紗籠、藤編包、手工飾品種類豐富，賣家親切，可大膽議價，有時可壓到標價的1/3。</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1561591,-8.6862313,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seminyak Markets</name>
+        <description>街邊露天市集，服飾、紀念品為主，貨品與其他市集類似，適合搭配逛街順路走走。</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1562261,-8.6858611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rip Curl Kayu Aya</name>
+        <description>知名海灘用品店</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1590239,-8.6840737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mega Mart Seminyak Square</name>
+        <description>賣很多藝品、紀念品的大型超市</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1561055,-8.683664,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Home Store</name>
+        <description>家飾服飾混合（評價較低）</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1580369,-8.6841382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Accommodation</name>
+      <Placemark>
+        <name>Seminyak Square Hotel</name>
+        <description>本站介紹：https://gobaligo.id/blog/seminyak-square-hotel-and-villas/</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1567312,-8.6836824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cross Paasha Bali Seminyak</name>
+        <description>本站介紹：https://gobaligo.id/blog/cross-paasha-bali-seminyak/</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1593342,-8.6842669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Maya Seminyak Villas</name>
+        <description>本站介紹：https://gobaligo.id/blog/the-maya-seminyak/</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1595127,-8.6838188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IZE Seminyak by LifestyleRetreats</name>
+        <description>本站介紹：https://gobaligo.id/blog/ize-seminyak-review/</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1605229,-8.6846054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>eqUILIBRIA SEMINYAK</name>
+        <description>本站介紹：https://gobaligo.id/blog/equilibria-seminyak/</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1628907,-8.6827081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Club Villas Seminyak</name>
+        <description>本站介紹：https://gobaligo.id/blog/the-club-villas-seminyak/</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1596795,-8.6846099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RC Villas</name>
+        <description>本站介紹：https://gobaligo.id/blog/RC-Villas-Spa-Seminyak/</description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1568016,-8.6853209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
