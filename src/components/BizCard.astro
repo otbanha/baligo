@@ -15,13 +15,13 @@ interface Props {
 const { biz } = Astro.props;
 
 const lineHref = biz.contactVal
-  ? `https://line.me/ti/p/~${biz.contactVal.replace(/^~/, '')}`
+  ? `https://line.me/ti/p/~${String(biz.contactVal).replace(/^~/, '')}`
   : null;
 const waHref = biz.whatsapp
-  ? `https://wa.me/${biz.whatsapp.replace(/\D/g, '')}`
+  ? `https://wa.me/${String(biz.whatsapp).replace(/\D/g, '')}`
   : null;
 const igHref = biz.instagram
-  ? `https://instagram.com/${biz.instagram.replace('@', '')}`
+  ? `https://instagram.com/${String(biz.instagram).replace('@', '')}`
   : null;
 ---
 
