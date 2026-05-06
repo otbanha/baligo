@@ -14,6 +14,5 @@ randomCount: 5
 
 - [峇里島住宿推薦：水明漾的濱海精緻主題住宿指南](https://gobaligo.id/blog/2023-11-06-65472977fd89780001cf3ce6/)
 - [【峇里島住宿推薦】巴里島VILLA泳池別墅私密天堂:水明漾22間令人驚艷的峇里島villa](https://gobaligo.id/blog/2025-08-11-660e6e92fd89780001e6047e/)
-- [峇里島18家 kids club 親子度假村｜庫塔、水明漾、長谷、金巴蘭、烏魯瓦圖、烏布適合家庭度假的最佳選擇](https://gobaligo.id/blog/2024-05-14-66405077fd89780001f23b72/)
-- [峇里島親子樂園：十五家擁有滑水道溜滑梯的親子渡假村 TOP 15](https://gobaligo.id/blog/2024-01-16-65a51edbfd89780001ffc7b2/)
+- [50+ 水明漾 Eat Street 美食攻略](https://gobaligo.id/blog/seminyak-eat-street-guide/)
 - [峇里島團體自由行旅遊：水明漾包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦](https://gobaligo.id/blog/2024-04-30-662e156bfd8978000130c73c/)
