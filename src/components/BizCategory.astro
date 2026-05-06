@@ -56,15 +56,15 @@ const { title, description, featured, regular } = Astro.props;
             )}
             <div class="biz-card__actions">
               {b.contactType === 'LINE' && b.contactVal && (
-                <a href={`https://line.me/ti/p/~${b.contactVal.replace(/^~/, '')}`}
+                <a href={`https://line.me/ti/p/~${String(b.contactVal).replace(/^~/, '')}`}
                    target="_blank" rel="noopener noreferrer" class="btn btn--line">LINE</a>
               )}
               {b.whatsapp && (
-                <a href={`https://wa.me/${b.whatsapp.replace(/\D/g, '')}`}
+                <a href={`https://wa.me/${String(b.whatsapp).replace(/\D/g, '')}`}
                    target="_blank" rel="noopener noreferrer" class="btn btn--wa">WhatsApp</a>
               )}
               {b.instagram && (
-                <a href={`https://instagram.com/${b.instagram.replace('@', '')}`}
+                <a href={`https://instagram.com/${String(b.instagram).replace('@', '')}`}
                    target="_blank" rel="noopener noreferrer" class="btn btn--ig">Instagram</a>
               )}
               {b.googleMap && (
