@@ -1,7 +1,14 @@
 ---
 import { getCollection } from 'astro:content';
+function getPublishTime(p: any): number {
+  if (!p.data.pubDate) return 0;
+  const d = new Date(p.data.pubDate);
+  if (p.data.pubHour != null) d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
+  return d.valueOf();
+}
+
 const posts = await getCollection('blog');
-const sorted = posts.sort((a, b) => new Date(b.data.pubDate).getTime() - new Date(a.data.pubDate).getTime());
+const sorted = posts.sort((a, b) => getPublishTime(b) - getPublishTime(a));
 
 // Build slug → title map for client-side use
 const articleMap = Object.fromEntries(

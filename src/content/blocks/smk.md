@@ -13,6 +13,6 @@ randomCount: 5
 ## 水明漾住宿主題介紹
 
 - [峇里島住宿推薦：水明漾的濱海精緻主題住宿指南](https://gobaligo.id/blog/2023-11-06-65472977fd89780001cf3ce6/)
-- [【峇里島住宿推薦】巴里島VILLA泳池別墅私密天堂:水明漾22間令人驚艷的峇里島villa](https://gobaligo.id/blog/2025-08-11-660e6e92fd89780001e6047e/)
+- [水明漾](https://gobaligo.id/blog/2025-08-11-660e6e92fd89780001e6047e/)[VILLA泳池別墅私密天堂:水明漾22間令人驚艷的峇里島villa](https://gobaligo.id/blog/2025-08-11-660e6e92fd89780001e6047e/)
 - [50+ 水明漾 Eat Street 美食攻略](https://gobaligo.id/blog/seminyak-eat-street-guide/)
-- [峇里島團體自由行旅遊：水明漾包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦](https://gobaligo.id/blog/2024-04-30-662e156bfd8978000130c73c/)
+- [水明漾包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦](https://gobaligo.id/blog/2024-04-30-662e156bfd8978000130c73c/)

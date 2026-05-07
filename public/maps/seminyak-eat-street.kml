@@ -67,44 +67,6 @@
         <styleUrl>#icon-1684-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-1684-0288D1-nodesc-normal">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>images/icon-2.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1684-0288D1-nodesc-highlight">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>images/icon-2.png</href>
-        </Icon>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1684-0288D1-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1684-0288D1-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1684-0288D1-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Style id="icon-1899-0288D1-normal">
       <IconStyle>
         <scale>1</scale>
@@ -139,57 +101,8 @@
         <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
       </Pair>
     </StyleMap>
-    <Style id="icon-1899-0288D1-nodesc-normal">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>images/icon-1.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>0</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <Style id="icon-1899-0288D1-nodesc-highlight">
-      <IconStyle>
-        <scale>1</scale>
-        <Icon>
-          <href>images/icon-1.png</href>
-        </Icon>
-        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
-      </IconStyle>
-      <LabelStyle>
-        <scale>1</scale>
-      </LabelStyle>
-      <BalloonStyle>
-        <text><![CDATA[<h3>$[name]</h3>]]></text>
-      </BalloonStyle>
-    </Style>
-    <StyleMap id="icon-1899-0288D1-nodesc">
-      <Pair>
-        <key>normal</key>
-        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
-      </Pair>
-      <Pair>
-        <key>highlight</key>
-        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
-      </Pair>
-    </StyleMap>
     <Folder>
       <name>Eat Street Eating Guide</name>
-      <Placemark>
-        <name>SECRET GARDEN</name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            115.1570962,-8.6836377,0
-          </coordinates>
-        </Point>
-      </Placemark>
       <Placemark>
         <name>Starbucks Kayu Aya</name>
         <description>Eat Street 西端的 Starbucks，裝潢比一般門市更有峇里島特色，位置方便，Wi-Fi 穩定，是需要工作的旅客休息站。</description>
@@ -232,7 +145,7 @@
       </Placemark>
       <Placemark>
         <name>The Library</name>
-        <description>The Library</description>
+        <description>是一間以書房為主題的餐廳——高挑天花板、書牆裝潢，走進去就像進了一間沙龍圖書館。菜單涵蓋義式麵食、沙拉、豬肋排等西式料理，份量扎實、價格在 Eat Street 上算實惠，且不加服務稅，所見即所得。咖啡品質不錯，二樓圖書閱覽區適合久坐。適合想逃離大街燥熱、找個安靜角落吃頓舒服午餐的旅客。</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -312,7 +225,7 @@
       </Placemark>
       <Placemark>
         <name>Asparagus Seminyak</name>
-        <description>Asparagus 是 Amadea Resort 附設的餐廳，提供早、午、晚餐，全日菜單強調有機在地食材，也有豐富的蔬食／純素選項。不少評論特別點名**自助早餐（Buffet Breakfast）**是水明漾數一數二的選擇——種類涵蓋印尼料理、西式料理、現做蛋品、煎餅站（Pancake Station）、新鮮果汁，份量充足且品質穩定，有評論直接稱它是「Seminyak 早餐冠軍」。晚間有現場演奏，整體 CP 值在 Eat Street 上屬於高水準。</description>
+        <description>Asparagus 是 Amadea Resort 附設的餐廳，提供早、午、晚餐，全日菜單強調有機在地食材，也有豐富的蔬食／純素選項。不少評論特別點名自助早餐（Buffet Breakfast）是水明漾數一數二的選擇——種類涵蓋印尼料理、西式料理、現做蛋品、煎餅站（Pancake Station）、新鮮果汁，份量充足且品質穩定，有評論直接稱它是「Seminyak 早餐冠軍」。晚間有現場演奏，整體 CP 值在 Eat Street 上屬於高水準。</description>
         <styleUrl>#icon-1899-0288D1</styleUrl>
         <Point>
           <coordinates>
@@ -507,15 +420,6 @@
         <Point>
           <coordinates>
             115.1595119,-8.6842892,0
-          </coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name><![CDATA[Nirvana Sports Bar & Restaurant]]></name>
-        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
-        <Point>
-          <coordinates>
-            115.1594375,-8.6843125,0
           </coordinates>
         </Point>
       </Placemark>
@@ -734,7 +638,8 @@
       </Placemark>
       <Placemark>
         <name>Watsons Bali Seminyak Square</name>
-        <styleUrl>#icon-1684-0288D1-nodesc</styleUrl>
+        <description>屈臣氏藥妝店</description>
+        <styleUrl>#icon-1684-0288D1</styleUrl>
         <Point>
           <coordinates>
             115.1566285,-8.6837469,0

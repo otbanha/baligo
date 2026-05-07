@@ -45,7 +45,7 @@ const allPosts = allPostsRaw
       heroImage: p.data.heroImage || extractFirstImage(p.body),
     }
   }))
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+  .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf());
 
 const getCategories = (cat) => {
   if (!cat) return [];
