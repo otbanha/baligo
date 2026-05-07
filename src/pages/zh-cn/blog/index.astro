@@ -52,7 +52,7 @@ const allPosts = (await getCollection('blog'))
       }
     };
   })
-  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+  .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf());
 
 const getCategories = (cat: any): string[] => {
   if (!cat) return [];
