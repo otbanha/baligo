@@ -164,7 +164,7 @@ const description = area.description;
   </div>
 
   <MapView area={area} />
-  <button id="gps-btn" aria-label="顯示附近景點">📍</button>
+  <button id="gps-btn" aria-label="顯示附近景點" onclick="window._gpsClick(this)">📍</button>
   <RecommendForm areaName={area.name} areaSlug={area.slug} />
 
   <script>
@@ -211,37 +211,29 @@ const description = area.description;
       updateItinBadge();
       window.updateItinBadge = updateItinBadge;
     })();
+  </script>
 
-    // GPS button
-    (function() {
-      const gpsBtn = document.getElementById('gps-btn');
-      let geoWatchId = null;
-
-      gpsBtn?.addEventListener('click', () => {
-        if (!navigator.geolocation) return;
-        gpsBtn.classList.add('active');
-
-        navigator.geolocation.getCurrentPosition(
-          (pos) => {
-            const lat = pos.coords.latitude, lng = pos.coords.longitude;
-            const api = window._mapApi;
-            if (api) {
-              api.flyTo(lat, lng);
-              api.setUserLocation(lat, lng);
-              api.enableNearby();
-            }
-            if (geoWatchId === null) {
-              geoWatchId = navigator.geolocation.watchPosition(
-                (p) => window._mapApi?.setUserLocation(p.coords.latitude, p.coords.longitude),
-                null, { enableHighAccuracy: true }
-              );
-            }
-          },
-          () => { gpsBtn.classList.remove('active'); },
-          { enableHighAccuracy: true, timeout: 15000, maximumAge: 30000 }
-        );
-      });
-    })();
+  <script is:inline>
+    var _gpsWatchId = null;
+    window._gpsClick = function(btn) {
+      if (!navigator.geolocation) return;
+      btn.classList.add('active');
+      navigator.geolocation.getCurrentPosition(
+        function(pos) {
+          var lat = pos.coords.latitude, lng = pos.coords.longitude;
+          var api = window._mapApi;
+          if (api) { api.flyTo(lat, lng); api.setUserLocation(lat, lng); api.enableNearby(); }
+          if (_gpsWatchId === null) {
+            _gpsWatchId = navigator.geolocation.watchPosition(
+              function(p) { window._mapApi && window._mapApi.setUserLocation(p.coords.latitude, p.coords.longitude); },
+              null, { enableHighAccuracy: true }
+            );
+          }
+        },
+        function() { btn.classList.remove('active'); },
+        { enableHighAccuracy: true, timeout: 15000, maximumAge: 30000 }
+      );
+    };
   </script>
 </body>
 </html>
