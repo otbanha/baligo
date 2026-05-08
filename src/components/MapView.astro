@@ -24,7 +24,6 @@ const { area } = Astro.props;
   </div>
 </div>
 
-<button id="gps-btn" aria-label="顯示附近景點">📍</button>
 
 
 <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
@@ -216,21 +215,6 @@ const { area } = Astro.props;
   :global(.cat-pill.active) { background: #1a1a1a; border-color: #1a1a1a; color: #fff; }
   [data-dark] :global(.cat-pill.active) { background: #2d8653; border-color: #2d8653; }
 
-  /* GPS button */
-  #gps-btn {
-    position: fixed;
-    top: 62px; left: 16px;
-    width: 44px; height: 44px;
-    background: #fff; border: none; border-radius: 50%;
-    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-    font-size: 20px; display: flex; align-items: center; justify-content: center;
-    cursor: pointer; z-index: 900;
-    -webkit-tap-highlight-color: transparent; transition: background 0.2s;
-  }
-  #gps-btn.active { background: #e8f5ee; }
-  [data-dark] #gps-btn { background: #1e1e1e; box-shadow: 0 2px 8px rgba(0,0,0,0.5); }
-  [data-dark] #gps-btn.active { background: #1a3a2a; }
-
   /* Hide native geolocate button (we use custom #gps-btn) */
   :global(.maplibregl-ctrl-geolocate) { display: none !important; }
 
@@ -293,65 +277,38 @@ const { area } = Astro.props;
     let kmlParsed = false;
     let mapStyleReady = false;
     let initialFitDone = false;
-    let geoWatchId = null;
 
-    // ─── GPS button — bind immediately so it works before KML loads ───
-    function updateUserLocation(lat, lng) {
-      userLat = lat; userLng = lng;
-      if (!map.getSource('user-loc')) {
-        map.addSource('user-loc', { type: 'geojson', data: { type: 'Feature', geometry: { type: 'Point', coordinates: [lng, lat] } } });
-        map.addLayer({ id: 'user-loc-dot', type: 'circle', source: 'user-loc', paint: { 'circle-radius': 8, 'circle-color': '#1a6ef5', 'circle-stroke-width': 2, 'circle-stroke-color': '#fff' } });
-      } else {
-        map.getSource('user-loc').setData({ type: 'Feature', geometry: { type: 'Point', coordinates: [lng, lat] } });
-      }
-      if (nearbyActive) refreshData?.();
-    }
-
-    const gpsBtn = document.getElementById('gps-btn');
-
-    gpsBtn?.addEventListener('click', () => {
-      if (!navigator.geolocation) return;
-
-      if (userLat !== null) {
-        map.flyTo({ center: [userLng, userLat], zoom: Math.max(map.getZoom(), 14) });
+    // ─── Expose map API for GPS handler in [area].astro ──────────
+    window._mapApi = {
+      flyTo: (lat, lng, zoom = 14) => map.flyTo({ center: [lng, lat], zoom }),
+      getZoom: () => map.getZoom(),
+      setUserLocation(lat, lng) {
+        userLat = lat; userLng = lng;
+        if (!map.getSource('user-loc')) {
+          map.addSource('user-loc', { type: 'geojson', data: { type: 'Feature', geometry: { type: 'Point', coordinates: [lng, lat] } } });
+          map.addLayer({ id: 'user-loc-dot', type: 'circle', source: 'user-loc', paint: { 'circle-radius': 8, 'circle-color': '#1a6ef5', 'circle-stroke-width': 2, 'circle-stroke-color': '#fff' } });
+        } else {
+          map.getSource('user-loc').setData({ type: 'Feature', geometry: { type: 'Point', coordinates: [lng, lat] } });
+        }
+        if (nearbyActive) refreshData();
+      },
+      enableNearby() {
         nearbyActive = true;
-        gpsBtn.classList.add('active');
         document.getElementById('nearby-bar')?.classList.remove('hidden');
-        refreshData?.();
-        return;
-      }
+        refreshData();
+      },
+      disableNearby() {
+        nearbyActive = false;
+        userLat = null; userLng = null;
+        document.getElementById('nearby-bar')?.classList.add('hidden');
+        document.getElementById('gps-btn')?.classList.remove('active');
+        if (map.getLayer('user-loc-dot')) map.removeLayer('user-loc-dot');
+        if (map.getSource('user-loc')) map.removeSource('user-loc');
+        refreshData();
+      },
+    };
 
-      gpsBtn.classList.add('active');
-
-      navigator.geolocation.getCurrentPosition(
-        (pos) => {
-          const { latitude: lat, longitude: lng } = pos.coords;
-          nearbyActive = true;
-          document.getElementById('nearby-bar')?.classList.remove('hidden');
-          map.flyTo({ center: [lng, lat], zoom: 14 });
-          updateUserLocation(lat, lng);
-          if (geoWatchId === null) {
-            geoWatchId = navigator.geolocation.watchPosition(
-              (p) => updateUserLocation(p.coords.latitude, p.coords.longitude),
-              null, { enableHighAccuracy: true }
-            );
-          }
-        },
-        () => { gpsBtn.classList.remove('active'); },
-        { enableHighAccuracy: true, timeout: 15000, maximumAge: 30000 }
-      );
-    });
-
-    document.getElementById('nearby-close')?.addEventListener('click', () => {
-      nearbyActive = false;
-      document.getElementById('nearby-bar')?.classList.add('hidden');
-      gpsBtn?.classList.remove('active');
-      if (geoWatchId !== null) { navigator.geolocation.clearWatch(geoWatchId); geoWatchId = null; }
-      userLat = null; userLng = null;
-      if (map.getLayer('user-loc-dot')) map.removeLayer('user-loc-dot');
-      if (map.getSource('user-loc')) map.removeSource('user-loc');
-      refreshData?.();
-    });
+    document.getElementById('nearby-close')?.addEventListener('click', () => window._mapApi.disableNearby());
 
     document.getElementById('radius-pills')?.addEventListener('click', (e) => {
       const pill = e.target.closest('.radius-pill');
@@ -359,7 +316,7 @@ const { area } = Astro.props;
       document.querySelectorAll('.radius-pill').forEach(p => p.classList.remove('active'));
       pill.classList.add('active');
       nearbyRadius = parseFloat(pill.dataset.km);
-      if (nearbyActive) refreshData?.();
+      if (nearbyActive) refreshData();
     });
 
     // ─── Helpers ──────────────────────────────────────────────
