@@ -24,6 +24,8 @@ const { area } = Astro.props;
   </div>
 </div>
 
+<button id="gps-btn" aria-label="顯示附近景點">📍</button>
+
 
 <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
 
@@ -213,6 +215,21 @@ const { area } = Astro.props;
   }
   :global(.cat-pill.active) { background: #1a1a1a; border-color: #1a1a1a; color: #fff; }
   [data-dark] :global(.cat-pill.active) { background: #2d8653; border-color: #2d8653; }
+
+  /* GPS button */
+  #gps-btn {
+    position: fixed;
+    top: 62px; left: 16px;
+    width: 44px; height: 44px;
+    background: #fff; border: none; border-radius: 50%;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    font-size: 20px; display: flex; align-items: center; justify-content: center;
+    cursor: pointer; z-index: 900;
+    -webkit-tap-highlight-color: transparent; transition: background 0.2s;
+  }
+  #gps-btn.active { background: #e8f5ee; }
+  [data-dark] #gps-btn { background: #1e1e1e; box-shadow: 0 2px 8px rgba(0,0,0,0.5); }
+  [data-dark] #gps-btn.active { background: #1a3a2a; }
 
   /* Hide native geolocate button (we use custom #gps-btn) */
   :global(.maplibregl-ctrl-geolocate) { display: none !important; }

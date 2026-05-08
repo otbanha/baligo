@@ -141,29 +141,6 @@ const description = area.description;
       background: #1a3a2a;
     }
 
-    #gps-btn {
-      position: fixed;
-      top: 62px;
-      left: 16px;
-      width: 44px;
-      height: 44px;
-      background: #fff;
-      border: none;
-      border-radius: 50%;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-      font-size: 20px;
-      display: flex;
-      align-items: center;
-      justify-content: center;
-      cursor: pointer;
-      z-index: 900;
-      -webkit-tap-highlight-color: transparent;
-      transition: background 0.2s;
-    }
-
-    #gps-btn.active {
-      background: #e8f5ee;
-    }
   </style>
 </head>
 
@@ -182,7 +159,6 @@ const description = area.description;
   </div>
 
   <MapView area={area} />
-  <button id="gps-btn" aria-label="顯示附近景點">📍</button>
   <RecommendForm areaName={area.name} areaSlug={area.slug} />
 
   <script>
