@@ -24,23 +24,6 @@ const { area } = Astro.props;
   </div>
 </div>
 
-<div id="location-modal" class="loc-modal hidden">
-  <div class="loc-modal-box">
-    <div class="loc-modal-icon">📍</div>
-    <div class="loc-modal-title">需要開啟位置權限</div>
-    <div class="loc-modal-body">
-      您的瀏覽器已封鎖本網站的位置存取。<br>請依照以下步驟重新開啟：
-      <ol class="loc-steps">
-        <li>點右上角 <strong>⋮</strong> 選單</li>
-        <li>選「<strong>網站設定</strong>」</li>
-        <li>點「<strong>位置</strong>」→ 選「<strong>允許</strong>」</li>
-        <li>返回地圖，再次點擊 📍</li>
-      </ol>
-    </div>
-    <button id="loc-modal-retry" class="loc-modal-btn">已開啟，重新嘗試</button>
-    <button id="loc-modal-close" class="loc-modal-close">關閉</button>
-  </div>
-</div>
 
 <link rel="stylesheet" href="https://unpkg.com/maplibre-gl@4.7.1/dist/maplibre-gl.css" />
 
@@ -234,41 +217,6 @@ const { area } = Astro.props;
   /* Hide native geolocate button (we use custom #gps-btn) */
   :global(.maplibregl-ctrl-geolocate) { display: none !important; }
 
-  /* Location permission modal */
-  .loc-modal {
-    position: fixed; inset: 0; z-index: 9999;
-    background: rgba(0,0,0,0.55); display: flex;
-    align-items: flex-end; justify-content: center;
-    padding-bottom: env(safe-area-inset-bottom, 0);
-  }
-  .loc-modal.hidden { display: none; }
-  .loc-modal-box {
-    background: #fff; border-radius: 20px 20px 0 0;
-    padding: 24px 24px 32px; width: 100%; max-width: 480px;
-    text-align: center;
-  }
-  [data-dark] .loc-modal-box { background: #1e1e1e; color: #f0f0f0; }
-  .loc-modal-icon { font-size: 40px; margin-bottom: 8px; }
-  .loc-modal-title { font-size: 18px; font-weight: 700; margin-bottom: 12px; color: #1a1a1a; }
-  [data-dark] .loc-modal-title { color: #f0f0f0; }
-  .loc-modal-body { font-size: 14px; color: #555; line-height: 1.6; text-align: left; }
-  [data-dark] .loc-modal-body { color: #bbb; }
-  .loc-steps { margin: 12px 0 0 16px; }
-  .loc-steps li { margin-bottom: 6px; }
-  .loc-modal-btn {
-    margin-top: 20px; width: 100%; padding: 14px;
-    background: #2d8653; color: #fff; border: none;
-    border-radius: 12px; font-size: 15px; font-weight: 700;
-    cursor: pointer; font-family: inherit;
-    -webkit-tap-highlight-color: transparent;
-  }
-  .loc-modal-close {
-    margin-top: 10px; width: 100%; padding: 10px;
-    background: none; color: #aaa; border: none;
-    font-size: 14px; cursor: pointer; font-family: inherit;
-    -webkit-tap-highlight-color: transparent;
-  }
-
   /* MapLibre control dark overrides */
   [data-dark] :global(.maplibregl-ctrl-group) {
     background: #2a2a2a !important;
@@ -343,70 +291,38 @@ const { area } = Astro.props;
     }
 
     const gpsBtn = document.getElementById('gps-btn');
-    const locModal = document.getElementById('location-modal');
 
-    function showLocModal() {
-      locModal?.classList.remove('hidden');
-    }
-    function hideLocModal() {
-      locModal?.classList.add('hidden');
-    }
-    document.getElementById('loc-modal-close')?.addEventListener('click', hideLocModal);
-    document.getElementById('loc-modal-retry')?.addEventListener('click', () => {
-      hideLocModal();
-      doGeolocate();
-    });
-    locModal?.addEventListener('click', (e) => { if (e.target === locModal) hideLocModal(); });
-
-    function doGeolocate() {
-      if (!navigator.geolocation) { showLocModal(); return; }
-
-      nearbyActive = true;
-      gpsBtn?.classList.add('active');
-      document.getElementById('nearby-bar')?.classList.remove('hidden');
+    gpsBtn?.addEventListener('click', () => {
+      if (!navigator.geolocation) return;
 
       if (userLat !== null) {
         map.flyTo({ center: [userLng, userLat], zoom: Math.max(map.getZoom(), 14) });
+        nearbyActive = true;
+        gpsBtn.classList.add('active');
+        document.getElementById('nearby-bar')?.classList.remove('hidden');
         refreshData?.();
         return;
       }
 
+      gpsBtn.classList.add('active');
+
       navigator.geolocation.getCurrentPosition(
         (pos) => {
           const { latitude: lat, longitude: lng } = pos.coords;
+          nearbyActive = true;
+          document.getElementById('nearby-bar')?.classList.remove('hidden');
           map.flyTo({ center: [lng, lat], zoom: 14 });
           updateUserLocation(lat, lng);
           if (geoWatchId === null) {
             geoWatchId = navigator.geolocation.watchPosition(
               (p) => updateUserLocation(p.coords.latitude, p.coords.longitude),
-              null,
-              { enableHighAccuracy: true }
+              null, { enableHighAccuracy: true }
             );
           }
         },
-        (err) => {
-          gpsBtn?.classList.remove('active');
-          nearbyActive = false;
-          document.getElementById('nearby-bar')?.classList.add('hidden');
-          if (err.code === 1) showLocModal(); // PERMISSION_DENIED
-        },
+        () => { gpsBtn.classList.remove('active'); },
         { enableHighAccuracy: true, timeout: 15000, maximumAge: 30000 }
       );
-    }
-
-    gpsBtn?.addEventListener('click', () => {
-      // Check permission state first if API available
-      if (navigator.permissions) {
-        navigator.permissions.query({ name: 'geolocation' }).then((result) => {
-          if (result.state === 'denied') {
-            showLocModal();
-          } else {
-            doGeolocate(); // 'granted' or 'prompt' — browser will ask if needed
-          }
-        }).catch(() => doGeolocate());
-      } else {
-        doGeolocate();
-      }
     });
 
     document.getElementById('nearby-close')?.addEventListener('click', () => {
