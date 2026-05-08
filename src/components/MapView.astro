@@ -213,6 +213,9 @@ const { area } = Astro.props;
   :global(.cat-pill.active) { background: #1a1a1a; border-color: #1a1a1a; color: #fff; }
   [data-dark] :global(.cat-pill.active) { background: #2d8653; border-color: #2d8653; }
 
+  /* Hide native geolocate button (we use custom #gps-btn) */
+  :global(.maplibregl-ctrl-geolocate) { display: none !important; }
+
   /* MapLibre control dark overrides */
   [data-dark] :global(.maplibregl-ctrl-group) {
     background: #2a2a2a !important;
@@ -750,25 +753,66 @@ const { area } = Astro.props;
     document.getElementById('map-loading')?.classList.add('hidden');
 
     // ─── GPS / Nearby ─────────────────────────────────────────
-    geolocate.on('geolocate', (e) => {
-      userLat = e.coords.latitude;
-      userLng = e.coords.longitude;
+    let userMarker = null;
+    let geoWatchId = null;
+
+    function updateUserLocation(lat, lng) {
+      userLat = lat;
+      userLng = lng;
+      // Draw/move a dot for user position
+      if (!map.getSource('user-loc')) {
+        map.addSource('user-loc', { type: 'geojson', data: { type: 'Feature', geometry: { type: 'Point', coordinates: [lng, lat] } } });
+        map.addLayer({ id: 'user-loc-dot', type: 'circle', source: 'user-loc', paint: { 'circle-radius': 8, 'circle-color': '#1a6ef5', 'circle-stroke-width': 2, 'circle-stroke-color': '#fff' } });
+      } else {
+        map.getSource('user-loc').setData({ type: 'Feature', geometry: { type: 'Point', coordinates: [lng, lat] } });
+      }
       if (nearbyActive) refreshData();
-    });
+    }
 
     const gpsBtn = document.getElementById('gps-btn');
     gpsBtn?.addEventListener('click', () => {
+      if (!navigator.geolocation) { alert('您的裝置不支援定位'); return; }
       nearbyActive = true;
       document.getElementById('nearby-bar')?.classList.remove('hidden');
       gpsBtn.classList.add('active');
-      geolocate.trigger();
-      if (userLat !== null) refreshData();
+
+      if (userLat !== null) {
+        map.flyTo({ center: [userLng, userLat], zoom: Math.max(map.getZoom(), 14) });
+        refreshData();
+        return;
+      }
+
+      navigator.geolocation.getCurrentPosition(
+        (pos) => {
+          const { latitude: lat, longitude: lng } = pos.coords;
+          map.flyTo({ center: [lng, lat], zoom: 14 });
+          updateUserLocation(lat, lng);
+          // Also start watching for updates
+          if (geoWatchId === null) {
+            geoWatchId = navigator.geolocation.watchPosition(
+              (p) => updateUserLocation(p.coords.latitude, p.coords.longitude),
+              null,
+              { enableHighAccuracy: true }
+            );
+          }
+        },
+        () => {
+          gpsBtn.classList.remove('active');
+          nearbyActive = false;
+          document.getElementById('nearby-bar')?.classList.add('hidden');
+        },
+        { enableHighAccuracy: true, timeout: 10000 }
+      );
     });
 
     document.getElementById('nearby-close')?.addEventListener('click', () => {
       nearbyActive = false;
       document.getElementById('nearby-bar')?.classList.add('hidden');
       gpsBtn?.classList.remove('active');
+      if (geoWatchId !== null) { navigator.geolocation.clearWatch(geoWatchId); geoWatchId = null; }
+      userLat = null; userLng = null;
+      if (map.getLayer('user-loc-dot')) map.removeLayer('user-loc-dot');
+      if (map.getSource('user-loc')) map.removeSource('user-loc');
       refreshData();
     });
 
