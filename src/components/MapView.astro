@@ -275,6 +275,78 @@ const { area } = Astro.props;
     let kmlParsed = false;
     let mapStyleReady = false;
     let initialFitDone = false;
+    let geoWatchId = null;
+
+    // ─── GPS button — bind immediately so it works before KML loads ───
+    function updateUserLocation(lat, lng) {
+      userLat = lat; userLng = lng;
+      if (!map.getSource('user-loc')) {
+        map.addSource('user-loc', { type: 'geojson', data: { type: 'Feature', geometry: { type: 'Point', coordinates: [lng, lat] } } });
+        map.addLayer({ id: 'user-loc-dot', type: 'circle', source: 'user-loc', paint: { 'circle-radius': 8, 'circle-color': '#1a6ef5', 'circle-stroke-width': 2, 'circle-stroke-color': '#fff' } });
+      } else {
+        map.getSource('user-loc').setData({ type: 'Feature', geometry: { type: 'Point', coordinates: [lng, lat] } });
+      }
+      if (nearbyActive) refreshData?.();
+    }
+
+    const gpsBtn = document.getElementById('gps-btn');
+    gpsBtn?.addEventListener('click', () => {
+      if (!navigator.geolocation) { alert('您的裝置不支援定位'); return; }
+
+      // Immediate UI feedback
+      nearbyActive = true;
+      gpsBtn.classList.add('active');
+      document.getElementById('nearby-bar')?.classList.remove('hidden');
+
+      if (userLat !== null) {
+        map.flyTo({ center: [userLng, userLat], zoom: Math.max(map.getZoom(), 14) });
+        refreshData?.();
+        return;
+      }
+
+      navigator.geolocation.getCurrentPosition(
+        (pos) => {
+          const { latitude: lat, longitude: lng } = pos.coords;
+          map.flyTo({ center: [lng, lat], zoom: 14 });
+          updateUserLocation(lat, lng);
+          if (geoWatchId === null) {
+            geoWatchId = navigator.geolocation.watchPosition(
+              (p) => updateUserLocation(p.coords.latitude, p.coords.longitude),
+              null,
+              { enableHighAccuracy: true }
+            );
+          }
+        },
+        (err) => {
+          gpsBtn.classList.remove('active');
+          nearbyActive = false;
+          document.getElementById('nearby-bar')?.classList.add('hidden');
+          const msgs = ['', '位置存取遭拒，請在瀏覽器設定中允許位置權限', '定位逾時，請確認 GPS 已開啟', '無法取得位置'];
+          alert(msgs[err.code] || '定位失敗');
+        },
+        { enableHighAccuracy: true, timeout: 15000, maximumAge: 30000 }
+      );
+    });
+
+    document.getElementById('nearby-close')?.addEventListener('click', () => {
+      nearbyActive = false;
+      document.getElementById('nearby-bar')?.classList.add('hidden');
+      gpsBtn?.classList.remove('active');
+      if (geoWatchId !== null) { navigator.geolocation.clearWatch(geoWatchId); geoWatchId = null; }
+      userLat = null; userLng = null;
+      if (map.getLayer('user-loc-dot')) map.removeLayer('user-loc-dot');
+      if (map.getSource('user-loc')) map.removeSource('user-loc');
+      refreshData?.();
+    });
+
+    document.getElementById('radius-pills')?.addEventListener('click', (e) => {
+      const pill = e.target.closest('.radius-pill');
+      if (!pill) return;
+      document.querySelectorAll('.radius-pill').forEach(p => p.classList.remove('active'));
+      pill.classList.add('active');
+      nearbyRadius = parseFloat(pill.dataset.km);
+      if (nearbyActive) refreshData?.();
+    });
 
     // ─── Helpers ──────────────────────────────────────────────
     function haversine(lat1, lng1, lat2, lng2) {
@@ -751,79 +823,6 @@ const { area } = Astro.props;
     }
 
     document.getElementById('map-loading')?.classList.add('hidden');
-
-    // ─── GPS / Nearby ─────────────────────────────────────────
-    let userMarker = null;
-    let geoWatchId = null;
-
-    function updateUserLocation(lat, lng) {
-      userLat = lat;
-      userLng = lng;
-      // Draw/move a dot for user position
-      if (!map.getSource('user-loc')) {
-        map.addSource('user-loc', { type: 'geojson', data: { type: 'Feature', geometry: { type: 'Point', coordinates: [lng, lat] } } });
-        map.addLayer({ id: 'user-loc-dot', type: 'circle', source: 'user-loc', paint: { 'circle-radius': 8, 'circle-color': '#1a6ef5', 'circle-stroke-width': 2, 'circle-stroke-color': '#fff' } });
-      } else {
-        map.getSource('user-loc').setData({ type: 'Feature', geometry: { type: 'Point', coordinates: [lng, lat] } });
-      }
-      if (nearbyActive) refreshData();
-    }
-
-    const gpsBtn = document.getElementById('gps-btn');
-    gpsBtn?.addEventListener('click', () => {
-      if (!navigator.geolocation) { alert('您的裝置不支援定位'); return; }
-      nearbyActive = true;
-      document.getElementById('nearby-bar')?.classList.remove('hidden');
-      gpsBtn.classList.add('active');
-
-      if (userLat !== null) {
-        map.flyTo({ center: [userLng, userLat], zoom: Math.max(map.getZoom(), 14) });
-        refreshData();
-        return;
-      }
-
-      navigator.geolocation.getCurrentPosition(
-        (pos) => {
-          const { latitude: lat, longitude: lng } = pos.coords;
-          map.flyTo({ center: [lng, lat], zoom: 14 });
-          updateUserLocation(lat, lng);
-          // Also start watching for updates
-          if (geoWatchId === null) {
-            geoWatchId = navigator.geolocation.watchPosition(
-              (p) => updateUserLocation(p.coords.latitude, p.coords.longitude),
-              null,
-              { enableHighAccuracy: true }
-            );
-          }
-        },
-        () => {
-          gpsBtn.classList.remove('active');
-          nearbyActive = false;
-          document.getElementById('nearby-bar')?.classList.add('hidden');
-        },
-        { enableHighAccuracy: true, timeout: 10000 }
-      );
-    });
-
-    document.getElementById('nearby-close')?.addEventListener('click', () => {
-      nearbyActive = false;
-      document.getElementById('nearby-bar')?.classList.add('hidden');
-      gpsBtn?.classList.remove('active');
-      if (geoWatchId !== null) { navigator.geolocation.clearWatch(geoWatchId); geoWatchId = null; }
-      userLat = null; userLng = null;
-      if (map.getLayer('user-loc-dot')) map.removeLayer('user-loc-dot');
-      if (map.getSource('user-loc')) map.removeSource('user-loc');
-      refreshData();
-    });
-
-    document.getElementById('radius-pills')?.addEventListener('click', (e) => {
-      const pill = e.target.closest('.radius-pill');
-      if (!pill) return;
-      document.querySelectorAll('.radius-pill').forEach(p => p.classList.remove('active'));
-      pill.classList.add('active');
-      nearbyRadius = parseFloat(pill.dataset.km);
-      if (nearbyActive) refreshData();
-    });
 
     // ─── Dark mode tile switching ─────────────────────────────
     new MutationObserver(() => {
