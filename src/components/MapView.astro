@@ -569,14 +569,16 @@ const { area } = Astro.props;
 
         try {
           map.addLayer({
-            id: 'unclustered-point', type: 'symbol', source: 'places',
+            id: 'unclustered-point', type: 'circle', source: 'places',
             filter: ['!', ['has', 'point_count']],
-            layout: {
-              'icon-image': ['get', 'iconImage'],
-              'icon-size': 1,
-              'icon-allow-overlap': true,
+            paint: {
+              'circle-color': ['coalesce', ['get', 'catColor'], '#546e7a'],
+              'circle-radius': 8,
+              'circle-stroke-width': 2,
+              'circle-stroke-color': '#fff',
             },
           });
+          console.log('[map] unclustered-point layer added (circle mode)');
         } catch (e) { console.error('[map] addLayer unclustered-point failed:', e); }
       }
 
