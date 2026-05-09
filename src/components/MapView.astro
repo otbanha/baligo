@@ -831,6 +831,7 @@ const { area } = Astro.props;
         console.error('[map] KML XML parse error:', parseError.textContent?.slice(0, 200));
       }
       const folders = kmlDoc.querySelectorAll('Document > Folder, Folder');
+      console.log(`[map] KML loaded: ${kmlText.length} bytes, ${folders.length} folders, root tag: ${kmlDoc.documentElement?.tagName}`);
 
       function parsePlacemarks(pms, catName) {
         const style = getCatStyle(catName);
@@ -868,6 +869,7 @@ const { area } = Astro.props;
 
       const topPms = kmlDoc.querySelectorAll('Document > Placemark');
       if (topPms.length > 0) parsePlacemarks(topPms, '景點');
+      console.log(`[map] Parsed ${allFeatures.length} features across ${categories.length} categories`);
 
       kmlParsed = true;
       trySetupLayers(); // runs immediately if style is already ready
