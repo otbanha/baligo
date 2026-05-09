@@ -545,39 +545,29 @@ const { area } = Astro.props;
             id: 'clusters', type: 'circle', source: 'places',
             filter: ['has', 'point_count'],
             paint: {
-              'circle-color': ['step', ['get', 'point_count'], '#2d8653', 10, '#1a5c3a', 30, '#0f3d27'],
-              'circle-radius': ['step', ['get', 'point_count'], 20, 10, 26, 30, 32],
+              'circle-color': ['step', ['coalesce', ['get', 'point_count'], 0], '#2d8653', 10, '#1a5c3a', 30, '#0f3d27'],
+              'circle-radius': ['step', ['coalesce', ['get', 'point_count'], 0], 20, 10, 26, 30, 32],
               'circle-stroke-width': 2.5,
               'circle-stroke-color': '#fff',
               'circle-opacity': 0.92,
             },
           });
+          console.log('[map] clusters layer added');
         } catch (e) { console.error('[map] addLayer clusters failed:', e); }
 
         try {
           map.addLayer({
-            id: 'cluster-count', type: 'symbol', source: 'places',
-            filter: ['has', 'point_count'],
-            layout: {
-              'text-field': ['to-string', ['get', 'point_count_abbreviated']],
-              'text-size': 13,
-              'text-font': ['Open Sans Semibold', 'Arial Unicode MS Bold'],
-            },
-            paint: { 'text-color': '#fff' },
-          });
-        } catch (e) { console.error('[map] addLayer cluster-count failed:', e); }
-
-        try {
-          map.addLayer({
-            id: 'unclustered-point', type: 'symbol', source: 'places',
+            id: 'unclustered-point', type: 'circle', source: 'places',
             filter: ['!', ['has', 'point_count']],
-            layout: {
-              'icon-image': ['get', 'iconImage'],
-              'icon-size': 1,
-              'icon-allow-overlap': true,
+            paint: {
+              'circle-color': ['to-color', ['coalesce', ['get', 'catColor'], '#546e7a']],
+              'circle-radius': 9,
+              'circle-stroke-width': 2,
+              'circle-stroke-color': '#fff',
+              'circle-opacity': 0.95,
             },
           });
-          console.log('[map] all layers added');
+          console.log('[map] unclustered-point layer added');
         } catch (e) { console.error('[map] addLayer unclustered-point failed:', e); }
       }
 
