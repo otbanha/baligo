@@ -816,9 +816,20 @@ const { area } = Astro.props;
     // Fetch KML immediately — don't wait for map tiles
     try {
       const kmlUrl = area.myMapsId ? `/api/kml?mid=${area.myMapsId}` : area.kml;
-      const res = await fetch(kmlUrl);
+      let res = await fetch(kmlUrl);
+      if (!res.ok) {
+        console.error('[map] KML proxy failed:', res.status, kmlUrl, '— falling back to local KML');
+        res = await fetch(area.kml);
+      }
+      if (!res.ok) {
+        console.error('[map] Local KML also failed:', res.status, area.kml);
+      }
       const kmlText = await res.text();
       const kmlDoc = new DOMParser().parseFromString(kmlText, 'text/xml');
+      const parseError = kmlDoc.querySelector('parsererror');
+      if (parseError) {
+        console.error('[map] KML XML parse error:', parseError.textContent?.slice(0, 200));
+      }
       const folders = kmlDoc.querySelectorAll('Document > Folder, Folder');
 
       function parsePlacemarks(pms, catName) {
