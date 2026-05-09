@@ -556,15 +556,29 @@ const { area } = Astro.props;
         } catch (e) { console.error('[map] addLayer clusters failed:', e); }
 
         try {
+          // cluster count label — use single font name to avoid combined-stack 404
           map.addLayer({
-            id: 'unclustered-point', type: 'circle', source: 'places',
+            id: 'cluster-count', type: 'symbol', source: 'places',
+            filter: ['has', 'point_count'],
+            layout: {
+              'text-field': ['to-string', ['get', 'point_count']],
+              'text-size': 13,
+              'text-font': ['Noto Sans Regular'],
+              'text-allow-overlap': true,
+            },
+            paint: { 'text-color': '#fff' },
+          });
+        } catch (e) { console.error('[map] addLayer cluster-count failed:', e); }
+
+        try {
+          map.addLayer({
+            id: 'unclustered-point', type: 'symbol', source: 'places',
             filter: ['!', ['has', 'point_count']],
-            paint: {
-              'circle-color': ['to-color', ['coalesce', ['get', 'catColor'], '#546e7a']],
-              'circle-radius': 9,
-              'circle-stroke-width': 2,
-              'circle-stroke-color': '#fff',
-              'circle-opacity': 0.95,
+            layout: {
+              'icon-image': ['get', 'iconImage'],
+              'icon-size': 1,
+              'icon-allow-overlap': true,
+              'icon-ignore-placement': true,
             },
           });
           console.log('[map] unclustered-point layer added');
