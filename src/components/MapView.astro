@@ -517,6 +517,7 @@ const { area } = Astro.props;
     // ─── Layer setup (called after initial load + after style change) ────
     function setupLayers() {
       if (!kmlParsed) return;
+      console.log('[map] setupLayers running, features:', allFeatures.length, 'hasSource:', !!map.getSource('places'), 'hasLayer:', !!map.getLayer('clusters'));
 
       // Register emoji icons
       categories.forEach(cat => {
@@ -525,14 +526,17 @@ const { area } = Astro.props;
       });
 
       const data = { type: 'FeatureCollection', features: getFilteredFeatures() };
+      console.log('[map] GeoJSON data ready, feature count:', data.features.length);
 
       if (!map.getSource('places')) {
         map.addSource('places', {
           type: 'geojson', data,
           cluster: true, clusterMaxZoom: 14, clusterRadius: 50,
         });
+        console.log('[map] source added');
       } else {
         map.getSource('places').setData(data);
+        console.log('[map] source data updated');
       }
 
       if (!map.getLayer('clusters')) {
@@ -805,6 +809,7 @@ const { area } = Astro.props;
     // style.load fires as soon as the style JSON is parsed — no need
     // to wait for tiles — so addSource/addLayer work immediately.
     function trySetupLayers() {
+      console.log('[map] trySetupLayers: mapStyleReady=', mapStyleReady, 'kmlParsed=', kmlParsed);
       if (!mapStyleReady || !kmlParsed) return;
       setupLayers();
       if (!initialFitDone && allFeatures.length > 0) {
