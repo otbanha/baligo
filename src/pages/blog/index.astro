@@ -3,6 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import ChatBot from '../../components/ChatBot.astro';
+import ExchangeRateWidget from '../../components/ExchangeRateWidget.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection, render } from 'astro:content';
 import featuredData from '../../featured.json';
@@ -332,6 +333,9 @@ const socialLinks = [
             <span class="qg-desc">景點、住宿、餐廳互動地圖</span>
           </a>
         </div>
+
+        <!-- 每日參考匯率 -->
+        <ExchangeRateWidget />
 
         <!-- Accommodations + Bali News -->
         <div class="top-widgets" id="top-widgets">

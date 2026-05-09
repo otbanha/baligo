@@ -1,0 +1,163 @@
+---
+// ExchangeRateWidget.astro
+// Fetches /api/exchange-rate at runtime; shows adjusted IDR rates for USD/AUD/SGD/HKD
+---
+
+<div class="exchange-widget" id="exchange-widget">
+  <div class="exchange-header">
+    <span class="exchange-title">💱 每日參考匯率</span>
+    <span class="exchange-date" id="exchange-date"></span>
+  </div>
+  <div class="exchange-grid" id="exchange-grid">
+    <div class="exchange-loading">載入中…</div>
+  </div>
+  <p class="exchange-disclaimer">參考匯率，實際匯率以各換匯所更新為準</p>
+</div>
+
+<script is:inline>
+(function () {
+  const CURRENCIES = [
+    { code: 'USD', flag: '🇺🇸', label: 'USD' },
+    { code: 'AUD', flag: '🇦🇺', label: 'AUD' },
+    { code: 'SGD', flag: '🇸🇬', label: 'SGD' },
+    { code: 'HKD', flag: '🇭🇰', label: 'HKD' },
+  ];
+
+  function fmt(n) {
+    return Number(n).toLocaleString('en-US');
+  }
+
+  fetch('/api/exchange-rate')
+    .then(r => r.ok ? r.json() : Promise.reject())
+    .then(data => {
+      const grid = document.getElementById('exchange-grid');
+      const dateEl = document.getElementById('exchange-date');
+      if (!grid) return;
+
+      if (data.date && dateEl) dateEl.textContent = data.date;
+
+      if (!data.rates) {
+        grid.innerHTML = '<div class="exchange-error">資料暫時無法取得</div>';
+        return;
+      }
+
+      grid.innerHTML = CURRENCIES.map(c => {
+        const val = data.rates[c.code];
+        return `
+          <div class="exchange-item">
+            <span class="exchange-flag">${c.flag}</span>
+            <span class="exchange-code">1 ${c.label}</span>
+            <span class="exchange-rate">≈ Rp ${val != null ? fmt(val) : '—'}</span>
+          </div>`;
+      }).join('');
+    })
+    .catch(() => {
+      const grid = document.getElementById('exchange-grid');
+      if (grid) grid.innerHTML = '<div class="exchange-error">資料暫時無法取得</div>';
+    });
+})();
+</script>
+
+<style>
+.exchange-widget {
+  background: linear-gradient(135deg, #0a1628 0%, #1a3560 100%);
+  border: 1px solid rgba(197, 160, 89, 0.25);
+  border-radius: 12px;
+  padding: 1.1em 1.3em;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25), inset 0 1px 0 rgba(197, 160, 89, 0.3);
+  position: relative;
+  margin-bottom: 1.2em;
+}
+
+.exchange-widget::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0;
+  height: 2px;
+  background: linear-gradient(90deg, transparent, var(--gold, #C5A059), transparent);
+}
+
+.exchange-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.9em;
+  padding-bottom: 0.55em;
+  border-bottom: 1px solid rgba(197, 160, 89, 0.2);
+}
+
+.exchange-title {
+  font-size: 0.92em;
+  font-weight: 700;
+  color: var(--gold-light, #d4b47a);
+  letter-spacing: 0.04em;
+}
+
+.exchange-date {
+  font-size: 0.72em;
+  color: rgba(197, 160, 89, 0.65);
+}
+
+.exchange-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.55em 1em;
+}
+
+.exchange-item {
+  display: flex;
+  align-items: center;
+  gap: 0.45em;
+  padding: 0.45em 0.6em;
+  border-radius: 8px;
+  background: rgba(255, 255, 255, 0.05);
+  border: 1px solid rgba(197, 160, 89, 0.12);
+}
+
+.exchange-flag {
+  font-size: 1.1em;
+  flex-shrink: 0;
+}
+
+.exchange-code {
+  font-size: 0.78em;
+  color: rgba(255, 255, 255, 0.6);
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.exchange-rate {
+  font-size: 0.88em;
+  font-weight: 700;
+  color: var(--gold-light, #d4b47a);
+  margin-left: auto;
+  white-space: nowrap;
+}
+
+.exchange-loading,
+.exchange-error {
+  grid-column: 1 / -1;
+  font-size: 0.82em;
+  color: rgba(255, 255, 255, 0.4);
+  text-align: center;
+  padding: 0.8em 0;
+}
+
+.exchange-disclaimer {
+  margin: 0.75em 0 0;
+  font-size: 0.68em;
+  color: rgba(255, 255, 255, 0.35);
+  text-align: right;
+  line-height: 1.4;
+}
+
+@media (max-width: 480px) {
+  .exchange-grid {
+    grid-template-columns: 1fr;
+    gap: 0.45em;
+  }
+  .exchange-rate {
+    font-size: 0.85em;
+  }
+}
+</style>
