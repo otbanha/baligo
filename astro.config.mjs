@@ -53,4 +53,18 @@ export default defineConfig({
     format: 'directory'
   },
   output: 'static',
+  vite: {
+    server: {
+      proxy: {
+        '/api/kml': {
+          target: 'https://www.google.com',
+          changeOrigin: true,
+          rewrite: (path) => {
+            const u = new URL(path, 'http://localhost');
+            return `/maps/d/kml?mid=${u.searchParams.get('mid')}&forcekml=1`;
+          },
+        },
+      },
+    },
+  },
 });
