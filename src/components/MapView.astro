@@ -517,6 +517,7 @@ const { area } = Astro.props;
     // ─── Layer setup (called after initial load + after style change) ────
     function setupLayers() {
       if (!kmlParsed) return;
+      console.log('[map] setupLayers running, features:', allFeatures.length, 'hasSource:', !!map.getSource('places'), 'hasLayer:', !!map.getLayer('clusters'));
 
       // Register emoji icons
       categories.forEach(cat => {
@@ -525,47 +526,58 @@ const { area } = Astro.props;
       });
 
       const data = { type: 'FeatureCollection', features: getFilteredFeatures() };
+      console.log('[map] GeoJSON data ready, feature count:', data.features.length);
 
       if (!map.getSource('places')) {
         map.addSource('places', {
           type: 'geojson', data,
           cluster: true, clusterMaxZoom: 14, clusterRadius: 50,
         });
+        console.log('[map] source added');
       } else {
         map.getSource('places').setData(data);
+        console.log('[map] source data updated');
       }
 
       if (!map.getLayer('clusters')) {
-        map.addLayer({
-          id: 'clusters', type: 'circle', source: 'places',
-          filter: ['has', 'point_count'],
-          paint: {
-            'circle-color': ['step', ['get', 'point_count'], '#2d8653', 10, '#1a5c3a', 30, '#0f3d27'],
-            'circle-radius': ['step', ['get', 'point_count'], 20, 10, 26, 30, 32],
-            'circle-stroke-width': 2.5,
-            'circle-stroke-color': '#fff',
-            'circle-opacity': 0.92,
-          },
-        });
-        map.addLayer({
-          id: 'cluster-count', type: 'symbol', source: 'places',
-          filter: ['has', 'point_count'],
-          layout: {
-            'text-field': '{point_count_abbreviated}',
-            'text-size': 13,
-            'text-font': ['Open Sans Bold', 'Arial Unicode MS Bold'],
-          },
-          paint: { 'text-color': '#fff' },
-        });
-        map.addLayer({
-          id: 'unclustered-point', type: 'symbol', source: 'places',
-          filter: ['!', ['has', 'point_count']],
-          layout: {
-            'icon-image': ['get', 'iconImage'],
-            'icon-size': 1,
-            'icon-allow-overlap': true,
-          },
-        });
+        try {
+          map.addLayer({
+            id: 'clusters', type: 'circle', source: 'places',
+            filter: ['has', 'point_count'],
+            paint: {
+              'circle-color': ['step', ['coalesce', ['get', 'point_count'], 0], '#2d8653', 10, '#1a5c3a', 30, '#0f3d27'],
+              'circle-radius': ['step', ['coalesce', ['get', 'point_count'], 0], 20, 10, 26, 30, 32],
+              'circle-stroke-width': 2.5,
+              'circle-stroke-color': '#fff',
+              'circle-opacity': 0.92,
+            },
+          });
+        } catch (e) { console.error('[map] addLayer clusters failed:', e); }
+
+        try {
+          map.addLayer({
+            id: 'cluster-count', type: 'symbol', source: 'places',
+            filter: ['has', 'point_count'],
+            layout: {
+              'text-field': ['to-string', ['get', 'point_count_abbreviated']],
+              'text-size': 13,
+              'text-font': ['Noto Sans Regular', 'Arial Unicode MS Regular'],
+            },
+            paint: { 'text-color': '#fff' },
+          });
+        } catch (e) { console.error('[map] addLayer cluster-count failed:', e); }
+
+        try {
+          map.addLayer({
+            id: 'unclustered-point', type: 'symbol', source: 'places',
+            filter: ['!', ['has', 'point_count']],
+            layout: {
+              'icon-image': ['get', 'iconImage'],
+              'icon-size': 1,
+              'icon-allow-overlap': true,
+            },
+          });
+        } catch (e) { console.error('[map] addLayer unclustered-point failed:', e); }
       }
 
       // Register events once
@@ -797,6 +809,7 @@ const { area } = Astro.props;
     // style.load fires as soon as the style JSON is parsed — no need
     // to wait for tiles — so addSource/addLayer work immediately.
     function trySetupLayers() {
+      console.log('[map] trySetupLayers: mapStyleReady=', mapStyleReady, 'kmlParsed=', kmlParsed);
       if (!mapStyleReady || !kmlParsed) return;
       setupLayers();
       if (!initialFitDone && allFeatures.length > 0) {
