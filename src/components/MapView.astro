@@ -830,15 +830,30 @@ const { area } = Astro.props;
       if (parseError) {
         console.error('[map] KML XML parse error:', parseError.textContent?.slice(0, 200));
       }
-      const folders = kmlDoc.querySelectorAll('Document > Folder, Folder');
+      // Use localName comparison — more reliable than CSS selectors on XML namespaced docs
+      function kids(el, tag) {
+        return Array.from(el.childNodes).filter(n => n.nodeType === 1 && n.localName === tag);
+      }
+      function descendant(el, tag) {
+        return el.getElementsByTagName
+          ? (el.getElementsByTagName(tag)[0] || el.getElementsByTagNameNS('*', tag)[0] || null)
+          : null;
+      }
+      function childText(el, tag) {
+        return kids(el, tag)[0]?.textContent?.trim() || '';
+      }
+
+      const docEl = kids(kmlDoc.documentElement, 'Document')[0] || kmlDoc.documentElement;
+      const folders = Array.from(kmlDoc.getElementsByTagName('Folder'));
+      console.log(`[map] KML loaded: ${kmlText.length} bytes, ${folders.length} folders, root: ${kmlDoc.documentElement?.localName}`);
 
       function parsePlacemarks(pms, catName) {
         const style = getCatStyle(catName);
         if (!categories.find(c => c.name === catName)) categories.push({ name: catName, style });
         pms.forEach(pm => {
-          const name = pm.querySelector('name')?.textContent?.trim() || '';
-          const rawDesc = pm.querySelector('description')?.textContent?.trim() || '';
-          const coordsEl = pm.querySelector('coordinates');
+          const name = childText(pm, 'name');
+          const rawDesc = childText(pm, 'description');
+          const coordsEl = descendant(pm, 'coordinates');
           if (!coordsEl) return;
           const parts = coordsEl.textContent?.trim().split(',');
           if (!parts || parts.length < 2) return;
@@ -861,13 +876,14 @@ const { area } = Astro.props;
       }
 
       folders.forEach(folder => {
-        const catName = folder.querySelector(':scope > name')?.textContent?.trim() || '其他';
-        const pms = folder.querySelectorAll(':scope > Placemark');
+        const catName = childText(folder, 'name') || '其他';
+        const pms = kids(folder, 'Placemark');
         if (pms.length > 0) parsePlacemarks(pms, catName);
       });
 
-      const topPms = kmlDoc.querySelectorAll('Document > Placemark');
+      const topPms = kids(docEl, 'Placemark');
       if (topPms.length > 0) parsePlacemarks(topPms, '景點');
+      console.log(`[map] Parsed ${allFeatures.length} features across ${categories.length} categories`);
 
       kmlParsed = true;
       trySetupLayers(); // runs immediately if style is already ready

@@ -29,7 +29,7 @@ export async function onRequest(context) {
     try {
       const googleUrl = `https://www.google.com/maps/d/kml?mid=${mid}&forcekml=1`;
       const res = await fetch(googleUrl, {
-        cf: { cacheEverything: true, cacheTtl: 3600 },
+        cf: { cacheEverything: true, cacheTtl: 300 },
       });
       if (!res.ok) {
         return new Response('MyMaps fetch failed', { status: 502 });
@@ -38,7 +38,7 @@ export async function onRequest(context) {
       return new Response(body, {
         headers: {
           ...KML_HEADERS,
-          'Cache-Control': 'public, max-age=3600, stale-while-revalidate=1800',
+          'Cache-Control': 'public, max-age=300, stale-while-revalidate=600',
         },
       });
     } catch {
