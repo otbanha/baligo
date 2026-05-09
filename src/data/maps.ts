@@ -8,6 +8,7 @@ export interface MapArea {
   kml: string;
   emoji: string;
   isThematic?: boolean;
+  myMapsId?: string;
 }
 
 export const maps: MapArea[] = [
@@ -20,6 +21,7 @@ export const maps: MapArea[] = [
     zoom: 15,
     kml: "/maps/kuta.kml",
     emoji: "🏄",
+    myMapsId: "1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz",
   },
   {
     slug: "seminyak",
@@ -30,6 +32,7 @@ export const maps: MapArea[] = [
     zoom: 15,
     kml: "/maps/seminyak.kml",
     emoji: "🍹",
+    myMapsId: "1il-sYTIMNMSVrVWqSnUPgdlsbCfMPP0",
   },
   {
     slug: "canggu",
@@ -40,6 +43,7 @@ export const maps: MapArea[] = [
     zoom: 15,
     kml: "/maps/canggu.kml",
     emoji: "🌊",
+    myMapsId: "1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U",
   },
   {
     slug: "nuanu",
@@ -50,6 +54,7 @@ export const maps: MapArea[] = [
     zoom: 15,
     kml: "/maps/nuanu.kml",
     emoji: "🎨",
+    myMapsId: "13MZ5FZXTW3NWiHdIPugSY3ahZx6110U",
   },
   {
     slug: "ubud",
@@ -60,6 +65,7 @@ export const maps: MapArea[] = [
     zoom: 15,
     kml: "/maps/ubud.kml",
     emoji: "🌿",
+    myMapsId: "1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4",
   },
   {
     slug: "jimbaran",
@@ -70,6 +76,7 @@ export const maps: MapArea[] = [
     zoom: 13,
     kml: "/maps/jimbaran.kml",
     emoji: "🦞",
+    myMapsId: "1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U",
   },
   {
     slug: "uluwatu",
@@ -80,6 +87,7 @@ export const maps: MapArea[] = [
     zoom: 13,
     kml: "/maps/uluwatu.kml",
     emoji: "🏯",
+    myMapsId: "1caV88xn9M89ulNo9cVhNF6dyakGSo0g",
   },
   {
     slug: "nusa-dua",
@@ -90,6 +98,7 @@ export const maps: MapArea[] = [
     zoom: 15,
     kml: "/maps/nusa-dua.kml",
     emoji: "🏨",
+    myMapsId: "1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0",
   },
   {
     slug: "sanur",
@@ -100,6 +109,7 @@ export const maps: MapArea[] = [
     zoom: 15,
     kml: "/maps/sanur.kml",
     emoji: "🌅",
+    myMapsId: "12W9y9WtufmH2a430BAds6QtTa5TyHoE",
   },
   {
     slug: "amed",
@@ -110,6 +120,7 @@ export const maps: MapArea[] = [
     zoom: 12,
     kml: "/maps/amed.kml",
     emoji: "🤿",
+    myMapsId: "1IrHQ5679D68HUAXlXWyqhgnvITAONfE",
   },
   {
     slug: "nusa-penida",
@@ -120,6 +131,7 @@ export const maps: MapArea[] = [
     zoom: 13,
     kml: "/maps/nusa-penida.kml",
     emoji: "🦅",
+    myMapsId: "1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk",
   },
   {
     slug: "lembongan",
@@ -130,6 +142,7 @@ export const maps: MapArea[] = [
     zoom: 14,
     kml: "/maps/lembongan.kml",
     emoji: "🏝️",
+    myMapsId: "1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30",
   },
   {
     slug: "denpasar",
@@ -140,6 +153,7 @@ export const maps: MapArea[] = [
     zoom: 14,
     kml: "/maps/denpasar.kml",
     emoji: "🏙️",
+    myMapsId: "1qf8jdykPPjEIcpg0_e62iM58ye_8dK4",
   },
   {
     slug: "canggu-hotel",
@@ -151,6 +165,7 @@ export const maps: MapArea[] = [
     kml: "/maps/canggu-hotel.kml",
     emoji: "🛏️",
     isThematic: true,
+    myMapsId: "1BYgJ-BGp8_un1OjN2-zrpxIJm4E3SwM",
   },
   {
     slug: "seminyak-hotel",
@@ -162,6 +177,7 @@ export const maps: MapArea[] = [
     kml: "/maps/seminyak-hotel.kml",
     emoji: "🏖️",
     isThematic: true,
+    myMapsId: "1ByEwZvgijf9ClsVJ0A6zjGQHj5JTTq4",
   },
   {
     slug: "seminyak-eat-street",
@@ -173,6 +189,7 @@ export const maps: MapArea[] = [
     kml: "/maps/seminyak-eat-street.kml",
     emoji: "🍽️",
     isThematic: true,
+    myMapsId: "1-vHujmBvEtF5Tvu4BPIp1NdX4bSbkq8",
   },
   {
     slug: "ubud-villa",
@@ -195,6 +212,7 @@ export const maps: MapArea[] = [
     kml: "/maps/vegetarian.kml",
     emoji: "🥗",
     isThematic: true,
+    myMapsId: "1ug1RGef4u9r08yJTg-H8cZzYMIKs-w0",
   },
 ];
 
