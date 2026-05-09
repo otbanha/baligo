@@ -529,56 +529,27 @@ const { area } = Astro.props;
       console.log('[map] GeoJSON data ready, feature count:', data.features.length);
 
       if (!map.getSource('places')) {
-        map.addSource('places', {
-          type: 'geojson', data,
-          cluster: true, clusterMaxZoom: 14, clusterRadius: 50,
-        });
-        console.log('[map] source added');
+        // cluster:false for diagnosis — remove all clustering variables
+        map.addSource('places', { type: 'geojson', data });
+        console.log('[map] source added (no cluster)');
       } else {
         map.getSource('places').setData(data);
         console.log('[map] source data updated');
       }
 
-      if (!map.getLayer('clusters')) {
+      if (!map.getLayer('unclustered-point')) {
         try {
-          map.addLayer({
-            id: 'clusters', type: 'circle', source: 'places',
-            filter: ['has', 'point_count'],
-            paint: {
-              'circle-color': ['step', ['coalesce', ['get', 'point_count'], 0], '#2d8653', 10, '#1a5c3a', 30, '#0f3d27'],
-              'circle-radius': ['step', ['coalesce', ['get', 'point_count'], 0], 20, 10, 26, 30, 32],
-              'circle-stroke-width': 2.5,
-              'circle-stroke-color': '#fff',
-              'circle-opacity': 0.92,
-            },
-          });
-        } catch (e) { console.error('[map] addLayer clusters failed:', e); }
-
-        try {
-          map.addLayer({
-            id: 'cluster-count', type: 'symbol', source: 'places',
-            filter: ['has', 'point_count'],
-            layout: {
-              'text-field': ['to-string', ['get', 'point_count_abbreviated']],
-              'text-size': 13,
-              'text-font': ['Noto Sans Regular', 'Arial Unicode MS Regular'],
-            },
-            paint: { 'text-color': '#fff' },
-          });
-        } catch (e) { console.error('[map] addLayer cluster-count failed:', e); }
-
-        try {
+          // Simplest possible layer: static red circles, no filter, no expression
           map.addLayer({
             id: 'unclustered-point', type: 'circle', source: 'places',
-            filter: ['!', ['has', 'point_count']],
             paint: {
-              'circle-color': ['coalesce', ['get', 'catColor'], '#546e7a'],
-              'circle-radius': 8,
+              'circle-color': '#e74c3c',
+              'circle-radius': 10,
               'circle-stroke-width': 2,
               'circle-stroke-color': '#fff',
             },
           });
-          console.log('[map] unclustered-point layer added (circle mode)');
+          console.log('[map] unclustered-point layer added (static red circles)');
         } catch (e) { console.error('[map] addLayer unclustered-point failed:', e); }
       }
 
