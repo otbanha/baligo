@@ -201,6 +201,7 @@ export const maps: MapArea[] = [
     kml: "/maps/ubud-villa.kml",
     emoji: "🏡",
     isThematic: true,
+    myMapsId: "1PWEp5tMdYpPcNV-iJrhhSD70HPtxVsE",
   },
   {
     slug: "vegetarian",
