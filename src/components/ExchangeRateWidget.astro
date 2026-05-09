@@ -1,6 +1,5 @@
 ---
 // ExchangeRateWidget.astro
-// Fetches /api/exchange-rate at runtime; shows adjusted IDR rates for USD/AUD/SGD/HKD
 ---
 
 <div class="exchange-widget" id="exchange-widget">
@@ -8,10 +7,10 @@
     <span class="exchange-title">💱 每日參考匯率</span>
     <span class="exchange-date" id="exchange-date"></span>
   </div>
-  <div class="exchange-grid" id="exchange-grid">
+  <div class="exchange-row" id="exchange-grid">
     <div class="exchange-loading">載入中…</div>
   </div>
-  <p class="exchange-disclaimer">參考匯率，實際匯率以各換匯所更新為準</p>
+  <p class="exchange-disclaimer">參考匯率，非換匯所實際報價</p>
 </div>
 
 <script is:inline>
@@ -33,27 +32,23 @@
       const grid = document.getElementById('exchange-grid');
       const dateEl = document.getElementById('exchange-date');
       if (!grid) return;
-
       if (data.date && dateEl) dateEl.textContent = data.date;
+      if (!data.rates) { grid.innerHTML = '<span class="exchange-error">資料暫時無法取得</span>'; return; }
 
-      if (!data.rates) {
-        grid.innerHTML = '<div class="exchange-error">資料暫時無法取得</div>';
-        return;
-      }
-
-      grid.innerHTML = CURRENCIES.map(c => {
+      grid.innerHTML = CURRENCIES.map((c, i) => {
         const val = data.rates[c.code];
-        return `
+        return `${i > 0 ? '<span class="exchange-divider">|</span>' : ''}
           <div class="exchange-item">
             <span class="exchange-flag">${c.flag}</span>
-            <span class="exchange-code">1 ${c.label}</span>
-            <span class="exchange-rate">≈ Rp ${val != null ? fmt(val) : '—'}</span>
+            <span class="exchange-label">1&nbsp;${c.label}</span>
+            <span class="exchange-eq">≈</span>
+            <span class="exchange-rate">Rp&nbsp;${val != null ? fmt(val) : '—'}</span>
           </div>`;
       }).join('');
     })
     .catch(() => {
       const grid = document.getElementById('exchange-grid');
-      if (grid) grid.innerHTML = '<div class="exchange-error">資料暫時無法取得</div>';
+      if (grid) grid.innerHTML = '<span class="exchange-error">資料暫時無法取得</span>';
     });
 })();
 </script>
@@ -61,10 +56,10 @@
 <style>
 .exchange-widget {
   background: linear-gradient(135deg, #0a1628 0%, #1a3560 100%);
-  border: 1px solid rgba(197, 160, 89, 0.25);
+  border: 1px solid rgba(197, 160, 89, 0.3);
   border-radius: 12px;
-  padding: 1.1em 1.3em;
-  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.25), inset 0 1px 0 rgba(197, 160, 89, 0.3);
+  padding: 0.85em 1.3em 0.7em;
+  box-shadow: 0 8px 32px rgba(0,0,0,0.25), inset 0 1px 0 rgba(197,160,89,0.3);
   position: relative;
   margin-bottom: 1.2em;
 }
@@ -74,91 +69,107 @@
   position: absolute;
   top: 0; left: 0; right: 0;
   height: 2px;
-  background: linear-gradient(90deg, transparent, var(--gold, #C5A059), transparent);
+  border-radius: 12px 12px 0 0;
+  background: linear-gradient(90deg, transparent, #C5A059, transparent);
 }
 
 .exchange-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 0.9em;
-  padding-bottom: 0.55em;
-  border-bottom: 1px solid rgba(197, 160, 89, 0.2);
+  margin-bottom: 0.6em;
 }
 
 .exchange-title {
-  font-size: 0.92em;
+  font-size: 0.85em;
   font-weight: 700;
-  color: var(--gold-light, #d4b47a);
+  color: #d4b47a;
   letter-spacing: 0.04em;
 }
 
 .exchange-date {
   font-size: 0.72em;
-  color: rgba(197, 160, 89, 0.65);
+  color: rgba(197, 160, 89, 0.6);
 }
 
-.exchange-grid {
+/* ── 橫條主體 ── */
+.exchange-row {
   display: flex;
-  flex-direction: row;
-  gap: 0.5em;
+  align-items: center;
+  justify-content: space-around;
+  gap: 0;
+  min-height: 2.6em;
 }
 
 .exchange-item {
-  flex: 1;
   display: flex;
-  flex-direction: column;
   align-items: center;
-  gap: 0.2em;
-  padding: 0.55em 0.4em;
-  border-radius: 8px;
-  background: rgba(255, 255, 255, 0.05);
-  border: 1px solid rgba(197, 160, 89, 0.12);
-  text-align: center;
-  min-width: 0;
+  gap: 0.35em;
+  flex: 1;
+  justify-content: center;
+  padding: 0.3em 0;
+  flex-wrap: nowrap;
+}
+
+.exchange-divider {
+  color: rgba(197, 160, 89, 0.3);
+  font-size: 1.2em;
+  flex-shrink: 0;
 }
 
 .exchange-flag {
-  font-size: 1.15em;
+  font-size: 1.25em;
   line-height: 1;
+  flex-shrink: 0;
 }
 
-.exchange-code {
-  font-size: 0.72em;
-  color: rgba(255, 255, 255, 0.55);
+.exchange-label {
+  font-size: 0.88em;
+  color: rgba(255, 255, 255, 0.75);
   white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.exchange-eq {
+  font-size: 0.82em;
+  color: rgba(255, 255, 255, 0.4);
+  flex-shrink: 0;
 }
 
 .exchange-rate {
-  font-size: 0.82em;
-  font-weight: 700;
-  color: var(--gold-light, #d4b47a);
+  font-size: 1em;
+  font-weight: 800;
+  color: #ffffff;
   white-space: nowrap;
+  flex-shrink: 0;
+  letter-spacing: 0.01em;
 }
 
 .exchange-loading,
 .exchange-error {
-  width: 100%;
-  font-size: 0.82em;
-  color: rgba(255, 255, 255, 0.4);
+  font-size: 0.85em;
+  color: rgba(255,255,255,0.4);
   text-align: center;
-  padding: 0.8em 0;
+  width: 100%;
+  padding: 0.5em 0;
 }
 
 .exchange-disclaimer {
-  margin: 0.75em 0 0;
-  font-size: 0.68em;
-  color: rgba(255, 255, 255, 0.35);
+  margin: 0.5em 0 0;
+  font-size: 0.65em;
+  color: rgba(255, 255, 255, 0.3);
   text-align: right;
-  line-height: 1.4;
 }
 
-@media (max-width: 480px) {
-  .exchange-rate {
-    font-size: 0.75em;
-  }
-  .exchange-code {
-    font-size: 0.66em;
-  }
+@media (max-width: 600px) {
+  .exchange-label { font-size: 0.78em; }
+  .exchange-rate  { font-size: 0.88em; }
+  .exchange-flag  { font-size: 1.1em; }
+}
+
+@media (max-width: 400px) {
+  .exchange-eq    { display: none; }
+  .exchange-label { font-size: 0.72em; }
+  .exchange-rate  { font-size: 0.82em; }
 }
 </style>
