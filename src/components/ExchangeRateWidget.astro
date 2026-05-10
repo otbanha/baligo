@@ -37,7 +37,7 @@ const t = i18n[lang] ?? i18n['zh-tw'];
     <span class="exr-title">{t.title}</span>
     <span class="exr-date" id="exr-date"></span>
   </div>
-  <div class="exr-row" id="exr-row">
+  <div class="exr-grid" id="exr-row">
     <span class="exr-loading">{lang === 'en' ? 'Loading…' : '載入中…'}</span>
   </div>
   <p class="exr-disclaimer">{t.disclaimer}</p>
@@ -70,13 +70,12 @@ const t = i18n[lang] ?? i18n['zh-tw'];
         row.innerHTML = '<span style="color:rgba(255,255,255,0.4);font-size:0.85em">—</span>';
         return;
       }
-      row.innerHTML = CURRENCIES.map(function(c, i) {
+      row.innerHTML = CURRENCIES.map(function(c) {
         var val = c.fixed != null ? c.fixed : data.rates[c.code];
-        var rp = val != null ? 'Rp ' + fmt(val) : '—';
-        return (i > 0 ? '<span class="exr-sep">|</span>' : '') +
-          '<div class="exr-item">' +
+        var rp = val != null ? 'Rp ' + fmt(val) : '—';
+        return '<div class="exr-item">' +
             '<span class="exr-flag">' + c.flag + '</span>' +
-            '<span class="exr-code">1 ' + c.code + '</span>' +
+            '<span class="exr-code">1 ' + c.code + '</span>' +
             '<span class="exr-amt">' + rp + '</span>' +
           '</div>';
       }).join('');
@@ -97,19 +96,19 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   box-shadow: 0 8px 32px rgba(0,0,0,0.25), inset 0 1px 0 rgba(197,160,89,0.3);
   position: relative;
   margin-bottom: 1.2em;
+  overflow: hidden;
 }
 .exr-widget::before {
   content: '';
   position: absolute;
   top: 0; left: 0; right: 0; height: 2px;
-  border-radius: 12px 12px 0 0;
   background: linear-gradient(90deg, transparent, #C5A059, transparent);
 }
 .exr-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: 0.55em;
+  margin-bottom: 0.6em;
   gap: 0.5em;
 }
 .exr-title {
@@ -118,67 +117,85 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   color: #d4b47a;
   letter-spacing: 0.04em;
   white-space: nowrap;
+  flex-shrink: 0;
 }
 .exr-date {
-  font-size: 0.68em;
+  font-size: 0.65em;
   color: rgba(197,160,89,0.6);
   text-align: right;
+  line-height: 1.3;
 }
-.exr-row {
-  display: flex;
-  align-items: center;
-  justify-content: space-around;
-  min-height: 2.8em;
+
+/* ── Grid layout: 7 欄桌機 → 4 欄手機（自動換行） ── */
+.exr-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 0.3em 0;
 }
 .exr-loading {
+  grid-column: 1 / -1;
   color: rgba(255,255,255,0.4);
   font-size: 0.85em;
+  text-align: center;
+  padding: 0.6em 0;
 }
 .exr-disclaimer {
-  margin: 0.5em 0 0;
+  margin: 0.55em 0 0;
   font-size: 0.65em;
   color: rgba(255,255,255,0.3);
   text-align: right;
 }
 
+/* ── 各幣別格子 ── */
 :global(.exr-item) {
   display: flex;
   flex-direction: column;
   align-items: center;
-  gap: 0.18em;
-  flex: 1;
-  padding: 0.2em 0;
+  gap: 0.15em;
+  padding: 0.35em 0.15em;
+  border-right: 1px solid rgba(197,160,89,0.15);
 }
-:global(.exr-sep) {
-  color: rgba(197,160,89,0.35);
-  font-size: 1.1em;
-  flex-shrink: 0;
-  padding: 0 0.1em;
+:global(.exr-item:last-child) {
+  border-right: none;
 }
 :global(.exr-flag) {
-  font-size: 1.3em;
+  font-size: 1.25em;
   line-height: 1;
 }
 :global(.exr-code) {
-  font-size: 0.75em;
-  color: rgba(255,255,255,0.65);
+  font-size: 0.72em;
+  color: rgba(255,255,255,0.6);
   white-space: nowrap;
 }
 :global(.exr-amt) {
-  font-size: 0.95em;
+  font-size: 0.9em;
   font-weight: 800;
   color: #ffffff;
   white-space: nowrap;
-  letter-spacing: 0.01em;
 }
 
-@media (max-width: 600px) {
+/* ── 手機版：改成 4 欄，自動換 2 排 ── */
+@media (max-width: 640px) {
+  .exr-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  /* 第 5～7 個格子（第二排）去掉右 border，讓第 4 個有 */
+  :global(.exr-item:nth-child(4)) {
+    border-right: 1px solid rgba(197,160,89,0.15);
+  }
+  :global(.exr-item:nth-child(7)) {
+    border-right: none;
+  }
+  /* 第二排加上頂部分隔線 */
+  :global(.exr-item:nth-child(5)),
+  :global(.exr-item:nth-child(6)),
+  :global(.exr-item:nth-child(7)) {
+    border-top: 1px solid rgba(197,160,89,0.12);
+  }
+  :global(.exr-flag) { font-size: 1.1em; }
   :global(.exr-code) { font-size: 0.68em; }
   :global(.exr-amt)  { font-size: 0.82em; }
-  :global(.exr-flag) { font-size: 1.1em; }
   .exr-date { font-size: 0.6em; }
-}
-@media (max-width: 400px) {
-  :global(.exr-code) { display: none; }
+  .exr-header { align-items: flex-start; }
 }
 </style>
