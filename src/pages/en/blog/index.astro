@@ -5,6 +5,7 @@ import Header from '../../../components/Header.astro';
 import Footer from '../../../components/Footer.astro';
 import ChatBot from '../../../components/ChatBot.astro';
 import ExchangeRateWidget from '../../../components/ExchangeRateWidget.astro';
+import BaliWeather from '../../../components/BaliWeather.astro';
 import { getCollection, render } from 'astro:content';
 import featuredData from '../../../featured.json';
 import top5Data from '../../../top5.json';
@@ -307,6 +308,8 @@ const socialLinks = [
         </div>
 
       </div>
+
+      <BaliWeather lang="en" />
 
       <div id="cat-heading" style="display:none">
         <h1 id="cat-heading-text" class="cat-heading-title"></h1>
