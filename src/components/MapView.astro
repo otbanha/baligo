@@ -22,7 +22,11 @@ const { area } = Astro.props;
   <div id="cat-bar" class="hidden">
     <div id="cat-pills"></div>
   </div>
-
+  <div id="search-bar">
+    <span id="search-icon">🔍</span>
+    <input id="search-input" type="search" placeholder="搜尋景點名稱…" autocomplete="off" />
+    <button id="search-clear" class="hidden">✕</button>
+  </div>
 </div>
 
 
@@ -188,6 +192,36 @@ const { area } = Astro.props;
     cursor: pointer; padding: 0 2px; -webkit-tap-highlight-color: transparent;
   }
 
+  /* Search bar */
+  #search-bar {
+    position: absolute; top: 12px; left: 12px;
+    display: flex; align-items: center; gap: 6px;
+    background: #fff; border-radius: 24px; padding: 7px 12px;
+    box-shadow: 0 2px 12px rgba(0,0,0,0.18);
+    z-index: 500;
+    width: 44px; /* collapsed: just icon */
+    overflow: hidden;
+    transition: width 0.25s ease;
+  }
+  #search-bar.open { width: min(260px, calc(100vw - 80px)); }
+  [data-dark] #search-bar { background: #2a2a2a; box-shadow: 0 2px 12px rgba(0,0,0,0.5); }
+  #search-icon { font-size: 18px; line-height: 1; flex-shrink: 0; cursor: pointer; }
+  #search-input {
+    border: none; outline: none; background: transparent;
+    font-size: 13px; font-family: inherit; color: #1a1a1a;
+    width: 0; flex: 1; min-width: 0;
+    transition: width 0.25s;
+  }
+  #search-bar.open #search-input { width: 100%; }
+  [data-dark] #search-input { color: #f0f0f0; }
+  #search-input::placeholder { color: #aaa; }
+  #search-clear {
+    background: none; border: none; font-size: 13px; color: #aaa;
+    cursor: pointer; padding: 0 2px; flex-shrink: 0;
+    -webkit-tap-highlight-color: transparent;
+  }
+  #search-clear.hidden { display: none; }
+
   /* Category bar */
   #cat-bar {
     position: absolute; bottom: 60px; left: 0; right: 0;
@@ -271,6 +305,7 @@ const { area } = Astro.props;
     let allFeatures = [];
     let categories = [];
     let activeCat = '全部';
+    let searchQuery = '';
     let nearbyActive = false;
     let nearbyRadius = 1;
     let userLat = null, userLng = null;
@@ -309,6 +344,50 @@ const { area } = Astro.props;
       },
     };
 
+    // ─── Search bar ───────────────────────────────────────────
+    const searchBar = document.getElementById('search-bar');
+    const searchInput = document.getElementById('search-input');
+    const searchClear = document.getElementById('search-clear');
+    let composing = false;
+
+    searchBar?.addEventListener('click', (e) => {
+      if (!searchBar.classList.contains('open')) {
+        searchBar.classList.add('open');
+        searchInput?.focus();
+      }
+    });
+
+    searchInput?.addEventListener('compositionstart', () => { composing = true; });
+    searchInput?.addEventListener('compositionend', () => {
+      composing = false;
+      searchQuery = searchInput.value.trim();
+      searchClear?.classList.toggle('hidden', !searchQuery);
+      refreshData();
+    });
+
+    searchInput?.addEventListener('input', () => {
+      if (composing) return;
+      searchQuery = searchInput.value.trim();
+      searchClear?.classList.toggle('hidden', !searchQuery);
+      refreshData();
+    });
+
+    searchClear?.addEventListener('click', (e) => {
+      e.stopPropagation();
+      searchQuery = '';
+      if (searchInput) searchInput.value = '';
+      searchClear.classList.add('hidden');
+      refreshData();
+      searchInput?.focus();
+    });
+
+    // Close search bar when clicking outside
+    document.addEventListener('click', (e) => {
+      if (!searchBar?.contains(e.target) && searchBar?.classList.contains('open') && !searchQuery) {
+        searchBar.classList.remove('open');
+      }
+    });
+
     document.getElementById('nearby-close')?.addEventListener('click', () => window._mapApi.disableNearby());
 
     document.getElementById('radius-pills')?.addEventListener('click', (e) => {
@@ -328,11 +407,13 @@ const { area } = Astro.props;
     }
 
     function getFilteredFeatures() {
+      const q = searchQuery.toLowerCase();
       return allFeatures.filter(f => {
-        const { category, lat, lng } = f.properties;
+        const { category, lat, lng, name } = f.properties;
         const catOk = activeCat === '全部' || category === activeCat;
         const nearbyOk = !nearbyActive || userLat === null || haversine(userLat, userLng, lat, lng) <= nearbyRadius;
-        return catOk && nearbyOk;
+        const searchOk = !q || name.toLowerCase().includes(q);
+        return catOk && nearbyOk && searchOk;
       });
     }
 
