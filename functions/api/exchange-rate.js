@@ -1,10 +1,10 @@
 export async function onRequest(context) {
   try {
-    const res = await fetch('https://api.frankfurter.dev/v1/latest?base=USD&symbols=IDR,AUD,SGD,HKD,MYR');
+    const res = await fetch('https://api.frankfurter.dev/v1/latest?base=USD&symbols=IDR,AUD,SGD,HKD,MYR,CNY');
     if (!res.ok) throw new Error('upstream error');
     const data = await res.json();
 
-    const { IDR, AUD, SGD, HKD, MYR } = data.rates;
+    const { IDR, AUD, SGD, HKD, MYR, CNY } = data.rates;
 
     const rates = {
       USD: Math.round(IDR - 500),
@@ -12,6 +12,7 @@ export async function onRequest(context) {
       SGD: Math.round(IDR / SGD - 500),
       HKD: Math.round(IDR / HKD - 200),
       MYR: Math.round(IDR / MYR - 480),
+      CNY: Math.round(IDR / CNY - 150),
     };
 
     return new Response(JSON.stringify({ date: data.date, rates }), {
