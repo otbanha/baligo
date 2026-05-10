@@ -22,6 +22,7 @@
     { code: 'HKD', flag: '🇭🇰' },
     { code: 'MYR', flag: '🇲🇾' },
     { code: 'CNY', flag: '🇨🇳' },
+    { code: 'TWD', flag: '🇹🇼', fixed: 350 },
   ];
 
   function fmt(n) {
@@ -40,7 +41,7 @@
         return;
       }
       row.innerHTML = CURRENCIES.map(function(c, i) {
-        var val = data.rates[c.code];
+        var val = c.fixed != null ? c.fixed : data.rates[c.code];
         var rp = val != null ? 'Rp ' + fmt(val) : '—';
         return (i > 0 ? '<span class="exr-sep">|</span>' : '') +
           '<div class="exr-item">' +
