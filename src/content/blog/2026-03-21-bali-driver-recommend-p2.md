@@ -3,6 +3,7 @@ title: 峇里島包車司機推薦（第二頁）
 slug: ''
 description: ''
 pubDate: 2026-01-01
+pubHour: null
 category:
   - 叫車包車
 tags: []
@@ -128,6 +129,12 @@ embeds: []
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774788166261-new.jpg)
 
 👍🏼[網友推薦1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1DXtpVrXjz/)
+
+## Gung Bali Wangzi（中文司機）
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
+
+👍🏼[網友推薦1 ](https://www.facebook.com/share/p/1Cd1X626mG/)👍🏼[網友推薦2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1DvCnKCrA7/) 
 
 {{block:klook}}.
 
