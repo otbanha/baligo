@@ -977,15 +977,15 @@ window.addEventListener('load', () => {
 }
 
 :global(.promo-image) {
-  aspect-ratio: 16/9;
   overflow: hidden;
   background: var(--ocean-mid);
 }
 
 :global(.promo-image) img {
   width: 100%;
-  height: 100%;
+  aspect-ratio: 16 / 9;
   object-fit: cover;
+  display: block;
 }
 
 :global(.promo-body) {
