@@ -33,7 +33,7 @@
       var row = document.getElementById('exr-row');
       var dateEl = document.getElementById('exr-date');
       if (!row) return;
-      if (data.date && dateEl) dateEl.textContent = data.date;
+      if (data.date && dateEl) dateEl.textContent = '最新：' + data.date + '（週末/假日維持前一工作日）';
       if (!data.rates) {
         row.innerHTML = '<span style="color:rgba(255,255,255,0.4);font-size:0.85em">資料暫時無法取得</span>';
         return;
