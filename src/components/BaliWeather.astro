@@ -1,0 +1,340 @@
+---
+// BaliWeather.astro — 峇里島即時天氣（Open-Meteo，無需 API Key）
+const { lang = 'zh-tw' } = Astro.props;
+
+const i18n: Record<string, {
+  title: string;
+  location: string;
+  loading: string;
+  humidity: string;
+  wind: string;
+  precip: string;
+  updated: string;
+  source: string;
+  error: string;
+  wita: string;
+}> = {
+  'zh-tw': {
+    title: '峇里島現在天氣',
+    location: '📍 登巴薩・峇里島',
+    loading: '載入中…',
+    humidity: '濕度',
+    wind: '風速',
+    precip: '降雨',
+    updated: '更新：',
+    source: '資料來源：',
+    error: '無法載入天氣資料',
+    wita: 'WITA',
+  },
+  'zh-hk': {
+    title: '峇里島現在天氣',
+    location: '📍 登巴薩・峇里島',
+    loading: '載入中…',
+    humidity: '濕度',
+    wind: '風速',
+    precip: '降雨',
+    updated: '更新：',
+    source: '資料來源：',
+    error: '無法載入天氣資料',
+    wita: 'WITA',
+  },
+  'zh-cn': {
+    title: '巴厘岛当前天气',
+    location: '📍 登巴萨・巴厘岛',
+    loading: '加载中…',
+    humidity: '湿度',
+    wind: '风速',
+    precip: '降雨',
+    updated: '更新：',
+    source: '数据来源：',
+    error: '无法加载天气数据',
+    wita: 'WITA',
+  },
+  'en': {
+    title: 'Bali Weather Now',
+    location: '📍 Denpasar · Bali',
+    loading: 'Loading…',
+    humidity: 'Humidity',
+    wind: 'Wind',
+    precip: 'Rain',
+    updated: 'Updated: ',
+    source: 'Source: ',
+    error: 'Unable to load weather data',
+    wita: 'WITA',
+  },
+};
+
+const t = i18n[lang] ?? i18n['zh-tw'];
+
+const codeMapJson = JSON.stringify({
+  zh: {
+    0:  ['晴天', '☀️'],
+    1:  ['晴時多雲', '🌤️'],
+    2:  ['多雲', '⛅'],
+    3:  ['陰天', '☁️'],
+    45: ['霧', '🌫️'],
+    48: ['霧', '🌫️'],
+    51: ['毛毛雨', '🌦️'],
+    53: ['毛毛雨', '🌦️'],
+    55: ['毛毛雨', '🌦️'],
+    61: ['雨', '🌧️'],
+    63: ['大雨', '🌧️'],
+    65: ['豪雨', '🌧️'],
+    80: ['陣雨', '🌩️'],
+    81: ['大陣雨', '🌩️'],
+    82: ['強陣雨', '🌩️'],
+    95: ['雷陣雨', '⛈️'],
+  },
+  en: {
+    0:  ['Clear sky', '☀️'],
+    1:  ['Mainly clear', '🌤️'],
+    2:  ['Partly cloudy', '⛅'],
+    3:  ['Overcast', '☁️'],
+    45: ['Foggy', '🌫️'],
+    48: ['Icy fog', '🌫️'],
+    51: ['Light drizzle', '🌦️'],
+    53: ['Moderate drizzle', '🌦️'],
+    55: ['Dense drizzle', '🌦️'],
+    61: ['Light rain', '🌧️'],
+    63: ['Moderate rain', '🌧️'],
+    65: ['Heavy rain', '🌧️'],
+    80: ['Rain showers', '🌩️'],
+    81: ['Heavy showers', '🌩️'],
+    82: ['Violent showers', '🌩️'],
+    95: ['Thunderstorm', '⛈️'],
+  },
+});
+---
+
+<div class="bali-weather" id="bali-weather" data-lang={lang} data-codemap={codeMapJson} data-t={JSON.stringify({error: t.error, wita: t.wita, updated: t.updated})}>
+  <div class="bw-header">
+    <span class="bw-icon" id="bw-icon">🌤️</span>
+    <div class="bw-title-group">
+      <h3 class="bw-title">{t.title}</h3>
+      <p class="bw-location">{t.location}</p>
+    </div>
+  </div>
+
+  <div class="bw-body">
+    <div class="bw-temp-block">
+      <span class="bw-temp" id="bw-temp">--</span>
+      <span class="bw-unit">°C</span>
+    </div>
+    <p class="bw-condition" id="bw-condition">{t.loading}</p>
+  </div>
+
+  <div class="bw-stats">
+    <div class="bw-stat">
+      <span class="bw-stat-icon">💧</span>
+      <span class="bw-stat-label">{t.humidity}</span>
+      <span class="bw-stat-val" id="bw-humidity">--%</span>
+    </div>
+    <div class="bw-stat">
+      <span class="bw-stat-icon">💨</span>
+      <span class="bw-stat-label">{t.wind}</span>
+      <span class="bw-stat-val" id="bw-wind">-- km/h</span>
+    </div>
+    <div class="bw-stat">
+      <span class="bw-stat-icon">🌧️</span>
+      <span class="bw-stat-label">{t.precip}</span>
+      <span class="bw-stat-val" id="bw-precip">-- mm</span>
+    </div>
+  </div>
+
+  <p class="bw-updated">{t.updated}<span id="bw-time">--</span></p>
+  <p class="bw-source">{t.source}<a href="https://open-meteo.com" target="_blank" rel="noopener">Open-Meteo</a></p>
+</div>
+
+<style>
+.bali-weather {
+  background: linear-gradient(135deg, #0077b6 0%, #0096c7 60%, #48cae4 100%);
+  color: #fff;
+  border-radius: 16px;
+  padding: 1.2em 1.4em 1em;
+  margin-bottom: 1.5em;
+  box-shadow: 0 4px 20px rgba(0,119,182,0.25);
+  position: relative;
+  overflow: hidden;
+  font-family: inherit;
+}
+.bali-weather::before {
+  content: '';
+  position: absolute;
+  top: -30px;
+  right: -30px;
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.08);
+}
+.bali-weather::after {
+  content: '';
+  position: absolute;
+  bottom: -20px;
+  left: 30px;
+  width: 80px;
+  height: 80px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.06);
+}
+
+.bw-header {
+  display: flex;
+  align-items: center;
+  gap: 0.7em;
+  margin-bottom: 0.8em;
+}
+.bw-icon {
+  font-size: 2.4em;
+  line-height: 1;
+  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
+}
+.bw-title-group { display: flex; flex-direction: column; }
+.bw-title {
+  margin: 0;
+  font-size: 1em;
+  font-weight: 700;
+  letter-spacing: 0.02em;
+  color: #fff;
+}
+.bw-location {
+  margin: 0;
+  font-size: 0.75em;
+  opacity: 0.85;
+}
+
+.bw-body {
+  display: flex;
+  align-items: baseline;
+  gap: 0.3em;
+  margin-bottom: 0.8em;
+  flex-wrap: wrap;
+}
+.bw-temp {
+  font-size: 3em;
+  font-weight: 800;
+  line-height: 1;
+  letter-spacing: -0.02em;
+}
+.bw-unit {
+  font-size: 1.3em;
+  font-weight: 600;
+  opacity: 0.85;
+  align-self: flex-start;
+  margin-top: 0.4em;
+}
+.bw-condition {
+  margin: 0 0 0.8em;
+  font-size: 1em;
+  font-weight: 600;
+  opacity: 0.95;
+  width: 100%;
+}
+
+.bw-stats {
+  display: flex;
+  gap: 0;
+  background: rgba(255,255,255,0.15);
+  border-radius: 10px;
+  margin-bottom: 0.8em;
+  overflow: hidden;
+}
+.bw-stat {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.5em 0.3em;
+  border-right: 1px solid rgba(255,255,255,0.2);
+}
+.bw-stat:last-child { border-right: none; }
+.bw-stat-icon { font-size: 1.1em; }
+.bw-stat-label {
+  font-size: 0.65em;
+  opacity: 0.8;
+  margin: 0.1em 0;
+  white-space: nowrap;
+}
+.bw-stat-val {
+  font-size: 0.85em;
+  font-weight: 700;
+}
+
+.bw-updated {
+  margin: 0 0 0.2em;
+  font-size: 0.7em;
+  opacity: 0.75;
+}
+.bw-source {
+  margin: 0;
+  font-size: 0.65em;
+  opacity: 0.65;
+}
+.bw-source a {
+  color: #fff;
+  text-decoration: underline;
+  opacity: 0.8;
+}
+
+@media (max-width: 480px) {
+  .bw-temp { font-size: 2.4em; }
+  .bw-stat-label { font-size: 0.6em; }
+}
+</style>
+
+<script>
+(function () {
+  const el = document.getElementById('bali-weather');
+  if (!el) return;
+
+  const lang = el.dataset.lang ?? 'zh-tw';
+  const isEn = lang === 'en';
+  const codeMapAll = JSON.parse(el.dataset.codemap ?? '{}');
+  const codeMap: Record<number, [string, string]> = codeMapAll[isEn ? 'en' : 'zh'] ?? {};
+  const tData = JSON.parse(el.dataset.t ?? '{}');
+
+  function getDesc(code: number): [string, string] {
+    if (codeMap[code]) return codeMap[code];
+    if (code >= 1 && code <= 3) return codeMap[2] ?? ['Partly cloudy', '⛅'];
+    if (code >= 45 && code <= 48) return codeMap[45] ?? ['Foggy', '🌫️'];
+    if (code >= 51 && code <= 55) return codeMap[51] ?? ['Drizzle', '🌦️'];
+    if (code >= 61 && code <= 65) return codeMap[61] ?? ['Rain', '🌧️'];
+    if (code >= 80 && code <= 82) return codeMap[80] ?? ['Showers', '🌩️'];
+    return [isEn ? 'Unknown' : '未知', '🌡️'];
+  }
+
+  function formatWITA(iso: string): string {
+    try {
+      const d = new Date(iso.replace('T', ' ') + '+08:00');
+      const locale = isEn ? 'en-US' : 'zh-TW';
+      return d.toLocaleTimeString(locale, { hour: '2-digit', minute: '2-digit', hour12: false });
+    } catch { return iso; }
+  }
+
+  async function loadWeather() {
+    const url =
+      'https://api.open-meteo.com/v1/forecast' +
+      '?latitude=-8.4095&longitude=115.1889' +
+      '&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m,precipitation' +
+      '&timezone=Asia%2FMakassar&forecast_days=1';
+    try {
+      const res = await fetch(url);
+      const data = await res.json();
+      const c = data.current;
+      const [desc, icon] = getDesc(c.weather_code);
+      (document.getElementById('bw-temp') as HTMLElement).textContent = Math.round(c.temperature_2m).toString();
+      (document.getElementById('bw-condition') as HTMLElement).textContent = desc;
+      (document.getElementById('bw-icon') as HTMLElement).textContent = icon;
+      (document.getElementById('bw-humidity') as HTMLElement).textContent = c.relative_humidity_2m + '%';
+      (document.getElementById('bw-wind') as HTMLElement).textContent = c.wind_speed_10m + ' km/h';
+      (document.getElementById('bw-precip') as HTMLElement).textContent = c.precipitation + ' mm';
+      (document.getElementById('bw-time') as HTMLElement).textContent =
+        formatWITA(c.time) + ' ' + (tData.wita ?? 'WITA');
+    } catch {
+      (document.getElementById('bw-condition') as HTMLElement).textContent = tData.error ?? 'Error';
+    }
+  }
+
+  loadWeather();
+})();
+</script>
