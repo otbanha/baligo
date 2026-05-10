@@ -22,13 +22,7 @@ const { area } = Astro.props;
   <div id="cat-bar" class="hidden">
     <div id="cat-pills"></div>
   </div>
-  <div id="cluster-drawer" class="hidden">
-    <div id="cluster-drawer-header">
-      <span id="cluster-drawer-title">景點列表</span>
-      <button id="cluster-drawer-close">✕</button>
-    </div>
-    <div id="cluster-drawer-list"></div>
-  </div>
+
 </div>
 
 
@@ -222,52 +216,6 @@ const { area } = Astro.props;
   :global(.cat-pill.active) { background: #1a1a1a; border-color: #1a1a1a; color: #fff; }
   [data-dark] :global(.cat-pill.active) { background: #2d8653; border-color: #2d8653; }
 
-  /* Cluster drawer */
-  #cluster-drawer {
-    position: absolute;
-    bottom: 0; left: 0; right: 0;
-    background: #fff;
-    border-radius: 16px 16px 0 0;
-    max-height: 50%;
-    overflow-y: auto;
-    z-index: 600;
-    box-shadow: 0 -4px 20px rgba(0,0,0,0.15);
-  }
-  [data-dark] #cluster-drawer { background: #1e1e1e; }
-  #cluster-drawer.hidden { display: none; }
-  #cluster-drawer-header {
-    position: sticky; top: 0;
-    display: flex; align-items: center; justify-content: space-between;
-    padding: 12px 16px 8px;
-    background: #fff;
-    border-bottom: 1px solid #f0f0f0;
-    z-index: 1;
-  }
-  [data-dark] #cluster-drawer-header { background: #1e1e1e; border-bottom-color: #2a2a2a; }
-  #cluster-drawer-title { font-size: 14px; font-weight: 700; color: #1a1a1a; }
-  [data-dark] #cluster-drawer-title { color: #f0f0f0; }
-  #cluster-drawer-close {
-    background: none; border: none; font-size: 16px; color: #aaa;
-    cursor: pointer; padding: 2px 4px; -webkit-tap-highlight-color: transparent;
-  }
-  :global(.cluster-item) {
-    display: flex; align-items: center; gap: 10px;
-    padding: 10px 16px; cursor: pointer;
-    border-bottom: 1px solid #f5f5f5;
-    -webkit-tap-highlight-color: transparent;
-  }
-  :global(.cluster-item:last-child) { border-bottom: none; }
-  :global(.cluster-item:active) { background: #f5f5f5; }
-  [data-dark] :global(.cluster-item) { border-bottom-color: #2a2a2a; }
-  [data-dark] :global(.cluster-item:active) { background: #2a2a2a; }
-  :global(.cluster-item-emoji) { font-size: 20px; flex-shrink: 0; }
-  :global(.cluster-item-name) {
-    flex: 1; font-size: 14px; font-weight: 600; color: #1a1a1a;
-    min-width: 0; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
-  }
-  [data-dark] :global(.cluster-item-name) { color: #f0f0f0; }
-  :global(.cluster-item-cat) { font-size: 11px; color: #999; flex-shrink: 0; }
-
   /* Hide native geolocate button (we use custom #gps-btn) */
   :global(.maplibregl-ctrl-geolocate) { display: none !important; }
 
@@ -362,9 +310,6 @@ const { area } = Astro.props;
     };
 
     document.getElementById('nearby-close')?.addEventListener('click', () => window._mapApi.disableNearby());
-    document.getElementById('cluster-drawer-close')?.addEventListener('click', () => {
-      document.getElementById('cluster-drawer')?.classList.add('hidden');
-    });
 
     document.getElementById('radius-pills')?.addEventListener('click', (e) => {
       const pill = e.target.closest('.radius-pill');
@@ -525,48 +470,15 @@ const { area } = Astro.props;
 
       const data = { type: 'FeatureCollection', features: getFilteredFeatures() };
       if (!map.getSource('places')) {
-        map.addSource('places', {
-          type: 'geojson', data,
-          cluster: true, clusterMaxZoom: 14, clusterRadius: 50,
-        });
+        map.addSource('places', { type: 'geojson', data });
       } else {
         map.getSource('places').setData(data);
       }
 
-      if (!map.getLayer('clusters')) {
+      if (!map.getLayer('points')) {
         try {
           map.addLayer({
-            id: 'clusters', type: 'circle', source: 'places',
-            filter: ['has', 'point_count'],
-            paint: {
-              'circle-color': ['step', ['coalesce', ['get', 'point_count'], 0], '#2d8653', 10, '#1a5c3a', 30, '#0f3d27'],
-              'circle-radius': ['step', ['coalesce', ['get', 'point_count'], 0], 20, 10, 26, 30, 32],
-              'circle-stroke-width': 2.5,
-              'circle-stroke-color': '#fff',
-              'circle-opacity': 0.92,
-            },
-          });
-        } catch (e) { console.error('[map] addLayer clusters failed:', e); }
-
-        try {
-          // cluster count label — use single font name to avoid combined-stack 404
-          map.addLayer({
-            id: 'cluster-count', type: 'symbol', source: 'places',
-            filter: ['has', 'point_count'],
-            layout: {
-              'text-field': ['to-string', ['get', 'point_count']],
-              'text-size': 13,
-              'text-font': ['Noto Sans Regular'],
-              'text-allow-overlap': true,
-            },
-            paint: { 'text-color': '#fff' },
-          });
-        } catch (e) { console.error('[map] addLayer cluster-count failed:', e); }
-
-        try {
-          map.addLayer({
-            id: 'unclustered-point', type: 'symbol', source: 'places',
-            filter: ['!', ['has', 'point_count']],
+            id: 'points', type: 'symbol', source: 'places',
             layout: {
               'icon-image': ['get', 'iconImage'],
               'icon-size': 1,
@@ -574,65 +486,14 @@ const { area } = Astro.props;
               'icon-ignore-placement': true,
             },
           });
-        } catch (e) { console.error('[map] addLayer unclustered-point failed:', e); }
+        } catch (e) { console.error('[map] addLayer points failed:', e); }
       }
 
       // Register events once
       if (!eventsSetup) {
         eventsSetup = true;
 
-        map.on('click', 'clusters', (e) => {
-          const feature = e.features[0];
-          const clusterId = feature.properties.cluster_id;
-          const coords = feature.geometry.coordinates;
-          const source = map.getSource('places');
-
-          source.getClusterExpansionZoom(clusterId).then(zoom => {
-            map.easeTo({ center: coords, zoom: zoom + 1 });
-          });
-
-          source.getClusterLeaves(clusterId, 100, 0).then(leaves => {
-            const drawer = document.getElementById('cluster-drawer');
-            const title = document.getElementById('cluster-drawer-title');
-            const list = document.getElementById('cluster-drawer-list');
-            if (!drawer || !list) return;
-
-            title.textContent = `此區域 ${leaves.length} 個景點`;
-            list.innerHTML = leaves.map(leaf => {
-              const p = leaf.properties;
-              return `<div class="cluster-item" data-lat="${p.lat}" data-lng="${p.lng}">
-                <span class="cluster-item-emoji">${p.catEmoji || '📍'}</span>
-                <span class="cluster-item-name">${p.name}</span>
-                <span class="cluster-item-cat">${p.category || ''}</span>
-              </div>`;
-            }).join('');
-
-            drawer.classList.remove('hidden');
-
-            list.querySelectorAll('.cluster-item').forEach(item => {
-              item.addEventListener('click', () => {
-                const lat = parseFloat(item.dataset.lat);
-                const lng = parseFloat(item.dataset.lng);
-                drawer.classList.add('hidden');
-                map.flyTo({ center: [lng, lat], zoom: 16 });
-                setTimeout(() => {
-                  const hits = map.queryRenderedFeatures(
-                    map.project([lng, lat]),
-                    { layers: ['unclustered-point'] }
-                  );
-                  if (hits.length > 0) {
-                    new mgl.Popup({ maxWidth: '280px', offset: 20 })
-                      .setLngLat(hits[0].geometry.coordinates)
-                      .setDOMContent(buildPopupDOM(hits[0].properties))
-                      .addTo(map);
-                  }
-                }, 700);
-              });
-            });
-          });
-        });
-
-        map.on('click', 'unclustered-point', (e) => {
+        map.on('click', 'points', (e) => {
           const props = e.features[0].properties;
           const coords = e.features[0].geometry.coordinates.slice();
           while (Math.abs(e.lngLat.lng - coords[0]) > 180) {
@@ -644,10 +505,8 @@ const { area } = Astro.props;
             .addTo(map);
         });
 
-        map.on('mouseenter', 'clusters', () => { map.getCanvas().style.cursor = 'pointer'; });
-        map.on('mouseleave', 'clusters', () => { map.getCanvas().style.cursor = ''; });
-        map.on('mouseenter', 'unclustered-point', () => { map.getCanvas().style.cursor = 'pointer'; });
-        map.on('mouseleave', 'unclustered-point', () => { map.getCanvas().style.cursor = ''; });
+        map.on('mouseenter', 'points', () => { map.getCanvas().style.cursor = 'pointer'; });
+        map.on('mouseleave', 'points', () => { map.getCanvas().style.cursor = ''; });
       }
     }
 
