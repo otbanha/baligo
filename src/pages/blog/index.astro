@@ -439,18 +439,14 @@ const socialLinks = [
         </div>
 
         <!-- 峇里島即時 Live Cam -->
-        <div class="livecam-section">
-          <h2 class="livecam-heading">🎥 峇里島即時現場｜南峇里全景</h2>
+        <div class="livecam-section" id="livecam-section">
+          <h2 class="livecam-heading">🎥 峇里島即時現場</h2>
           <p class="livecam-sub">看看現在峇里島的天氣和海況</p>
-          <div class="livecam-player">
-            <iframe
-              src="https://www.youtube.com/embed/L1duJDAqbJY?autoplay=1&mute=1"
-              title="峇里島即時現場 — 南峇里全景"
-              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-              allowfullscreen
-            ></iframe>
+          <div class="livecam-player" id="livecam-player"></div>
+          <div class="livecam-footer">
+            <button class="livecam-switch-btn" id="livecam-switch">📡 畫面無法載入？試試其他鏡頭</button>
+            <span class="livecam-counter" id="livecam-counter">鏡頭 1 / 4</span>
           </div>
-          <p class="livecam-hint">若畫面無法載入，代表直播暫時離線</p>
         </div>
 
       </div>
@@ -1401,18 +1397,86 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   height: 100%;
   border: none;
 }
-.livecam-hint {
+.livecam-footer {
+  display: flex;
+  align-items: center;
+  gap: 0.8em;
+  margin-top: 0.6em;
+  flex-wrap: wrap;
+}
+.livecam-switch-btn {
+  background: rgba(255,255,255,0.08);
+  border: 1px solid rgba(255,255,255,0.15);
+  border-radius: 20px;
+  color: rgba(255,255,255,0.55);
   font-size: 0.75em;
-  color: rgba(255,255,255,0.35);
-  text-align: center;
-  margin: 0.6em 0 0;
+  padding: 0.35em 0.9em;
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.15s, color 0.15s;
+}
+.livecam-switch-btn:hover { background: rgba(255,255,255,0.14); color: rgba(255,255,255,0.85); }
+.livecam-counter {
+  font-size: 0.72em;
+  color: rgba(255,255,255,0.3);
 }
 @media (max-width: 600px) {
   .livecam-section { padding: 1em 1em 0.9em; border-radius: 10px; }
   .livecam-heading { font-size: 1em; }
-  .lc-tab { font-size: 0.78em; padding: 0.35em 0.75em; }
 }
 </style>
+<script is:inline>
+(function () {
+  var CAMS = [
+    'L1duJDAqbJY',
+    'Sv5NSQ2A1RU',
+    'x28S0imVkU0',
+    '9yT659mJKR4',
+  ];
+  var currentIndex = 0;
+  var loaded = false;
+
+  function loadCam(index) {
+    var player = document.getElementById('livecam-player');
+    var counter = document.getElementById('livecam-counter');
+    if (!player) return;
+    player.innerHTML = '';
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.youtube.com/embed/' + CAMS[index] + '?autoplay=1&mute=1';
+    iframe.title = '峇里島即時現場';
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+    iframe.allowFullscreen = true;
+    player.appendChild(iframe);
+    if (counter) counter.textContent = '鏡頭 ' + (index + 1) + ' / ' + CAMS.length;
+  }
+
+  function init() {
+    var section = document.getElementById('livecam-section');
+    var btn = document.getElementById('livecam-switch');
+    if (!section || !btn) return;
+
+    var observer = new IntersectionObserver(function (entries) {
+      if (entries[0].isIntersecting && !loaded) {
+        loaded = true;
+        loadCam(currentIndex);
+        observer.disconnect();
+      }
+    }, { threshold: 0.3 });
+    observer.observe(section);
+
+    btn.addEventListener('click', function () {
+      currentIndex = (currentIndex + 1) % CAMS.length;
+      loadCam(currentIndex);
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
 <script define:vars={{ promosJson }}>
 window.addEventListener('load', () => {
   const promos = JSON.parse(promosJson);
