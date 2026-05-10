@@ -70,7 +70,7 @@ const t = i18n[lang] ?? i18n['zh-tw'];
         row.innerHTML = '<span style="color:rgba(255,255,255,0.4);font-size:0.85em">—</span>';
         return;
       }
-      row.innerHTML = CURRENCIES.map(function(c) {
+      var items = CURRENCIES.map(function(c) {
         var val = c.fixed != null ? c.fixed : data.rates[c.code];
         var rp = val != null ? 'Rp ' + fmt(val) : '—';
         return '<div class="exr-item">' +
@@ -79,6 +79,12 @@ const t = i18n[lang] ?? i18n['zh-tw'];
             '<span class="exr-amt">' + rp + '</span>' +
           '</div>';
       }).join('');
+      var cta = '<a class="exr-item exr-cta" href="https://gobaligo.id/blog/2024-01-28-65b5c7e2fd89780001e96fac/" target="_blank" rel="noopener">' +
+        '<span class="exr-flag">💡</span>' +
+        '<span class="exr-code">換匯攻略</span>' +
+        '<span class="exr-amt exr-cta-text">點我 →</span>' +
+      '</a>';
+      row.innerHTML = items + cta;
     })
     .catch(function() {
       var row = document.getElementById('exr-row');
@@ -174,23 +180,44 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   white-space: nowrap;
 }
 
-/* ── 手機版：改成 4 欄，自動換 2 排 ── */
+/* ── CTA（換匯攻略）桌機隱藏，手機才顯示 ── */
+:global(.exr-cta) {
+  display: none !important;
+}
+:global(.exr-cta-text) {
+  color: #d4b47a !important;
+}
+
+/* ── 手機版：改成 4 欄，自動換 2 排（4+4） ── */
 @media (max-width: 640px) {
   .exr-grid {
     grid-template-columns: repeat(4, 1fr);
   }
-  /* 第 5～7 個格子（第二排）去掉右 border，讓第 4 個有 */
+  /* 第 4 格保留右 border */
   :global(.exr-item:nth-child(4)) {
     border-right: 1px solid rgba(197,160,89,0.15);
   }
-  :global(.exr-item:nth-child(7)) {
+  /* 第 8 格（CTA）無右 border */
+  :global(.exr-item:nth-child(8)) {
     border-right: none;
   }
-  /* 第二排加上頂部分隔線 */
+  /* 第二排（5～8）加頂部分隔線 */
   :global(.exr-item:nth-child(5)),
   :global(.exr-item:nth-child(6)),
-  :global(.exr-item:nth-child(7)) {
+  :global(.exr-item:nth-child(7)),
+  :global(.exr-item:nth-child(8)) {
     border-top: 1px solid rgba(197,160,89,0.12);
+  }
+  /* 顯示 CTA */
+  :global(.exr-cta) {
+    display: flex !important;
+    background: rgba(197,160,89,0.07);
+    cursor: pointer;
+    text-decoration: none;
+    transition: background 0.2s;
+  }
+  :global(.exr-cta:hover) {
+    background: rgba(197,160,89,0.16);
   }
   :global(.exr-flag) { font-size: 1.1em; }
   :global(.exr-code) { font-size: 0.68em; }
