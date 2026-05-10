@@ -1,242 +1,264 @@
 ---
-// BaliWeather.astro — 峇里島即時天氣（Open-Meteo，無需 API Key）
+// BaliWeather.astro — 峇里島即時天氣 + 5天預報（Open-Meteo，無需 API Key）
 const { lang = 'zh-tw' } = Astro.props;
 
-const i18n: Record<string, {
-  title: string;
-  location: string;
-  loading: string;
-  humidity: string;
-  wind: string;
-  precip: string;
-  updated: string;
-  source: string;
-  error: string;
-  wita: string;
-}> = {
-  'zh-tw': {
-    title: '峇里島現在天氣',
-    location: '📍 登巴薩・峇里島',
-    loading: '載入中…',
-    humidity: '濕度',
-    wind: '風速',
-    precip: '降雨',
-    updated: '更新：',
-    source: '資料來源：',
-    error: '無法載入天氣資料',
-    wita: 'WITA',
-  },
-  'zh-hk': {
-    title: '峇里島現在天氣',
-    location: '📍 登巴薩・峇里島',
-    loading: '載入中…',
-    humidity: '濕度',
-    wind: '風速',
-    precip: '降雨',
-    updated: '更新：',
-    source: '資料來源：',
-    error: '無法載入天氣資料',
-    wita: 'WITA',
-  },
-  'zh-cn': {
-    title: '巴厘岛当前天气',
-    location: '📍 登巴萨・巴厘岛',
-    loading: '加载中…',
-    humidity: '湿度',
-    wind: '风速',
-    precip: '降雨',
-    updated: '更新：',
-    source: '数据来源：',
-    error: '无法加载天气数据',
-    wita: 'WITA',
-  },
-  'en': {
-    title: 'Bali Weather Now',
-    location: '📍 Denpasar · Bali',
-    loading: 'Loading…',
-    humidity: 'Humidity',
-    wind: 'Wind',
-    precip: 'Rain',
-    updated: 'Updated: ',
-    source: 'Source: ',
-    error: 'Unable to load weather data',
-    wita: 'WITA',
-  },
+const isEn = lang === 'en';
+const isCn = lang === 'zh-cn';
+
+const regions = [
+  { id: 'kuta',     zh: '庫塔',   en: 'Kuta',      lat: -8.7215,  lon: 115.1685 },
+  { id: 'canggu',   zh: '水明漾', en: 'Canggu',    lat: -8.6478,  lon: 115.1385 },
+  { id: 'seminyak', zh: '水族館', en: 'Seminyak',  lat: -8.6921,  lon: 115.1619 },
+  { id: 'ubud',     zh: '烏布',   en: 'Ubud',      lat: -8.5069,  lon: 115.2625 },
+  { id: 'sanur',    zh: '沙努爾', en: 'Sanur',     lat: -8.6835,  lon: 115.2625 },
+  { id: 'nusadua',  zh: '努沙杜瓦', en: 'Nusa Dua', lat: -8.7932, lon: 115.2313 },
+  { id: 'jimbaran', zh: '金巴蘭', en: 'Jimbaran',  lat: -8.7842,  lon: 115.1630 },
+  { id: 'uluwatu',  zh: '烏魯瓦圖', en: 'Uluwatu', lat: -8.8291,  lon: 115.0849 },
+];
+
+const t = {
+  title:    isEn ? 'Bali Weather' : isCn ? '巴厘岛天气' : '峇里島天氣',
+  loading:  isEn ? 'Loading…' : '載入中…',
+  humidity: isEn ? 'Humidity' : '濕度',
+  wind:     isEn ? 'Wind' : '風速',
+  precip:   isEn ? 'Rain' : '降雨',
+  updated:  isEn ? 'Updated: ' : '更新：',
+  source:   isEn ? 'Source: ' : '資料來源：',
+  error:    isEn ? 'Unable to load weather data' : '無法載入天氣資料',
+  wita:     'WITA',
+  today:    isEn ? 'Today' : isCn ? '今天' : '今天',
+  feels:    isEn ? 'Feels like' : '體感',
+  high:     isEn ? 'H' : '高',
+  low:      isEn ? 'L' : '低',
+  days:     isEn
+    ? ['Sun','Mon','Tue','Wed','Thu','Fri','Sat']
+    : ['日','一','二','三','四','五','六'],
 };
 
-const t = i18n[lang] ?? i18n['zh-tw'];
+const codeMapZh: Record<string, [string, string]> = {
+  '0':  ['晴天', '☀️'],
+  '1':  ['晴時多雲', '🌤️'],
+  '2':  ['多雲', '⛅'],
+  '3':  ['陰天', '☁️'],
+  '45': ['霧', '🌫️'],
+  '48': ['濃霧', '🌫️'],
+  '51': ['毛毛雨', '🌦️'],
+  '53': ['毛毛雨', '🌦️'],
+  '55': ['毛毛雨', '🌦️'],
+  '61': ['小雨', '🌧️'],
+  '63': ['中雨', '🌧️'],
+  '65': ['大雨', '🌧️'],
+  '80': ['陣雨', '🌩️'],
+  '81': ['大陣雨', '🌩️'],
+  '82': ['強陣雨', '🌩️'],
+  '95': ['雷陣雨', '⛈️'],
+};
 
-const codeMapJson = JSON.stringify({
-  zh: {
-    0:  ['晴天', '☀️'],
-    1:  ['晴時多雲', '🌤️'],
-    2:  ['多雲', '⛅'],
-    3:  ['陰天', '☁️'],
-    45: ['霧', '🌫️'],
-    48: ['霧', '🌫️'],
-    51: ['毛毛雨', '🌦️'],
-    53: ['毛毛雨', '🌦️'],
-    55: ['毛毛雨', '🌦️'],
-    61: ['雨', '🌧️'],
-    63: ['大雨', '🌧️'],
-    65: ['豪雨', '🌧️'],
-    80: ['陣雨', '🌩️'],
-    81: ['大陣雨', '🌩️'],
-    82: ['強陣雨', '🌩️'],
-    95: ['雷陣雨', '⛈️'],
-  },
-  en: {
-    0:  ['Clear sky', '☀️'],
-    1:  ['Mainly clear', '🌤️'],
-    2:  ['Partly cloudy', '⛅'],
-    3:  ['Overcast', '☁️'],
-    45: ['Foggy', '🌫️'],
-    48: ['Icy fog', '🌫️'],
-    51: ['Light drizzle', '🌦️'],
-    53: ['Moderate drizzle', '🌦️'],
-    55: ['Dense drizzle', '🌦️'],
-    61: ['Light rain', '🌧️'],
-    63: ['Moderate rain', '🌧️'],
-    65: ['Heavy rain', '🌧️'],
-    80: ['Rain showers', '🌩️'],
-    81: ['Heavy showers', '🌩️'],
-    82: ['Violent showers', '🌩️'],
-    95: ['Thunderstorm', '⛈️'],
-  },
-});
+const codeMapEn: Record<string, [string, string]> = {
+  '0':  ['Clear', '☀️'],
+  '1':  ['Mostly Clear', '🌤️'],
+  '2':  ['Partly Cloudy', '⛅'],
+  '3':  ['Overcast', '☁️'],
+  '45': ['Foggy', '🌫️'],
+  '48': ['Dense Fog', '🌫️'],
+  '51': ['Light Drizzle', '🌦️'],
+  '53': ['Drizzle', '🌦️'],
+  '55': ['Heavy Drizzle', '🌦️'],
+  '61': ['Light Rain', '🌧️'],
+  '63': ['Rain', '🌧️'],
+  '65': ['Heavy Rain', '🌧️'],
+  '80': ['Showers', '🌩️'],
+  '81': ['Heavy Showers', '🌩️'],
+  '82': ['Violent Showers', '🌩️'],
+  '95': ['Thunderstorm', '⛈️'],
+};
 ---
 
-<div class="bali-weather" id="bali-weather" data-lang={lang} data-codemap={codeMapJson} data-t={JSON.stringify({error: t.error, wita: t.wita, updated: t.updated})}>
+<div
+  class="bali-weather"
+  id="bali-weather"
+  data-lang={lang}
+  data-regions={JSON.stringify(regions)}
+  data-codemap-zh={JSON.stringify(codeMapZh)}
+  data-codemap-en={JSON.stringify(codeMapEn)}
+  data-t={JSON.stringify(t)}
+>
+  <!-- 區域選擇 -->
+  <div class="bw-region-bar" id="bw-region-bar">
+    {regions.map((r, i) => (
+      <button
+        class={`bw-region-btn${i === 0 ? ' active' : ''}`}
+        data-id={r.id}
+      >
+        {isEn ? r.en : r.zh}
+      </button>
+    ))}
+  </div>
+
+  <!-- 標題 -->
   <div class="bw-header">
     <span class="bw-icon" id="bw-icon">🌤️</span>
     <div class="bw-title-group">
       <h3 class="bw-title">{t.title}</h3>
-      <p class="bw-location">{t.location}</p>
+      <p class="bw-region-name" id="bw-region-name">
+        {isEn ? regions[0].en : regions[0].zh}
+      </p>
     </div>
-  </div>
-
-  <div class="bw-body">
     <div class="bw-temp-block">
       <span class="bw-temp" id="bw-temp">--</span>
       <span class="bw-unit">°C</span>
     </div>
-    <p class="bw-condition" id="bw-condition">{t.loading}</p>
   </div>
 
+  <p class="bw-condition" id="bw-condition">{t.loading}</p>
+
+  <!-- 統計列 -->
   <div class="bw-stats">
     <div class="bw-stat">
       <span class="bw-stat-icon">💧</span>
       <span class="bw-stat-label">{t.humidity}</span>
-      <span class="bw-stat-val" id="bw-humidity">--%</span>
+      <span class="bw-stat-val" id="bw-humidity">--</span>
     </div>
     <div class="bw-stat">
       <span class="bw-stat-icon">💨</span>
       <span class="bw-stat-label">{t.wind}</span>
-      <span class="bw-stat-val" id="bw-wind">-- km/h</span>
+      <span class="bw-stat-val" id="bw-wind">--</span>
     </div>
     <div class="bw-stat">
       <span class="bw-stat-icon">🌧️</span>
       <span class="bw-stat-label">{t.precip}</span>
-      <span class="bw-stat-val" id="bw-precip">-- mm</span>
+      <span class="bw-stat-val" id="bw-precip">--</span>
     </div>
   </div>
 
-  <p class="bw-updated">{t.updated}<span id="bw-time">--</span></p>
-  <p class="bw-source">{t.source}<a href="https://open-meteo.com" target="_blank" rel="noopener">Open-Meteo</a></p>
+  <!-- 5天預報 -->
+  <div class="bw-forecast" id="bw-forecast">
+    {[0,1,2,3,4].map(i => (
+      <div class="bw-fday" id={`bw-fday-${i}`}>
+        <span class="bw-fday-name" id={`bw-fname-${i}`}>--</span>
+        <span class="bw-fday-icon" id={`bw-ficon-${i}`}>--</span>
+        <span class="bw-fday-precip" id={`bw-fprecip-${i}`}>--</span>
+        <span class="bw-fday-hi" id={`bw-fhi-${i}`}>--</span>
+        <span class="bw-fday-lo" id={`bw-flo-${i}`}>--</span>
+      </div>
+    ))}
+  </div>
+
+  <div class="bw-footer">
+    <p class="bw-updated">{t.updated}<span id="bw-time">--</span></p>
+    <p class="bw-source">{t.source}<a href="https://open-meteo.com" target="_blank" rel="noopener">Open-Meteo</a></p>
+  </div>
 </div>
 
 <style>
 .bali-weather {
-  background: linear-gradient(135deg, #0077b6 0%, #0096c7 60%, #48cae4 100%);
+  background: linear-gradient(160deg, #023e8a 0%, #0077b6 45%, #0096c7 100%);
   color: #fff;
-  border-radius: 16px;
-  padding: 1.2em 1.4em 1em;
+  border-radius: 18px;
+  padding: 0 0 1em;
   margin-bottom: 1.5em;
-  box-shadow: 0 4px 20px rgba(0,119,182,0.25);
-  position: relative;
+  box-shadow: 0 6px 28px rgba(0,60,140,0.28);
   overflow: hidden;
   font-family: inherit;
 }
-.bali-weather::before {
-  content: '';
-  position: absolute;
-  top: -30px;
-  right: -30px;
-  width: 120px;
-  height: 120px;
-  border-radius: 50%;
-  background: rgba(255,255,255,0.08);
+
+/* ── 區域選擇列 ── */
+.bw-region-bar {
+  display: flex;
+  gap: 0;
+  overflow-x: auto;
+  scrollbar-width: none;
+  background: rgba(0,0,0,0.25);
+  padding: 0.4em 0.8em;
+  -webkit-overflow-scrolling: touch;
 }
-.bali-weather::after {
-  content: '';
-  position: absolute;
-  bottom: -20px;
-  left: 30px;
-  width: 80px;
-  height: 80px;
-  border-radius: 50%;
-  background: rgba(255,255,255,0.06);
+.bw-region-bar::-webkit-scrollbar { display: none; }
+.bw-region-btn {
+  flex-shrink: 0;
+  background: transparent;
+  color: rgba(255,255,255,0.65);
+  border: 1px solid rgba(255,255,255,0.2);
+  border-radius: 20px;
+  padding: 0.25em 0.85em;
+  font-size: 0.78em;
+  font-family: inherit;
+  cursor: pointer;
+  margin-right: 0.4em;
+  transition: all 0.18s;
+  white-space: nowrap;
+}
+.bw-region-btn:hover {
+  color: #fff;
+  border-color: rgba(255,255,255,0.5);
+}
+.bw-region-btn.active {
+  background: rgba(255,255,255,0.22);
+  color: #fff;
+  border-color: rgba(255,255,255,0.6);
+  font-weight: 600;
 }
 
+/* ── 主要資訊區 ── */
 .bw-header {
   display: flex;
   align-items: center;
-  gap: 0.7em;
-  margin-bottom: 0.8em;
+  gap: 0.6em;
+  padding: 1em 1.3em 0.4em;
 }
 .bw-icon {
-  font-size: 2.4em;
+  font-size: 2.6em;
   line-height: 1;
-  filter: drop-shadow(0 2px 4px rgba(0,0,0,0.2));
+  filter: drop-shadow(0 2px 6px rgba(0,0,0,0.25));
+  flex-shrink: 0;
 }
-.bw-title-group { display: flex; flex-direction: column; }
+.bw-title-group { flex: 1; min-width: 0; }
 .bw-title {
   margin: 0;
-  font-size: 1em;
+  font-size: 0.82em;
   font-weight: 700;
-  letter-spacing: 0.02em;
+  opacity: 0.8;
+  color: #fff;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.bw-region-name {
+  margin: 0;
+  font-size: 1.05em;
+  font-weight: 700;
   color: #fff;
 }
-.bw-location {
-  margin: 0;
-  font-size: 0.75em;
-  opacity: 0.85;
-}
-
-.bw-body {
+.bw-temp-block {
   display: flex;
-  align-items: baseline;
-  gap: 0.3em;
-  margin-bottom: 0.8em;
-  flex-wrap: wrap;
+  align-items: flex-start;
+  margin-left: auto;
 }
 .bw-temp {
-  font-size: 3em;
+  font-size: 3.2em;
   font-weight: 800;
   line-height: 1;
-  letter-spacing: -0.02em;
+  letter-spacing: -0.03em;
 }
 .bw-unit {
-  font-size: 1.3em;
+  font-size: 1.1em;
   font-weight: 600;
-  opacity: 0.85;
-  align-self: flex-start;
-  margin-top: 0.4em;
+  opacity: 0.75;
+  margin-top: 0.3em;
 }
+
 .bw-condition {
   margin: 0 0 0.8em;
   font-size: 1em;
   font-weight: 600;
-  opacity: 0.95;
-  width: 100%;
+  opacity: 0.92;
+  padding: 0 1.3em;
 }
 
+/* ── 統計列 ── */
 .bw-stats {
   display: flex;
-  gap: 0;
-  background: rgba(255,255,255,0.15);
-  border-radius: 10px;
-  margin-bottom: 0.8em;
+  background: rgba(255,255,255,0.12);
+  margin: 0 1em 1em;
+  border-radius: 12px;
   overflow: hidden;
 }
 .bw-stat {
@@ -244,97 +266,240 @@ const codeMapJson = JSON.stringify({
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0.5em 0.3em;
-  border-right: 1px solid rgba(255,255,255,0.2);
+  padding: 0.55em 0.3em;
+  border-right: 1px solid rgba(255,255,255,0.15);
 }
 .bw-stat:last-child { border-right: none; }
 .bw-stat-icon { font-size: 1.1em; }
 .bw-stat-label {
-  font-size: 0.65em;
-  opacity: 0.8;
-  margin: 0.1em 0;
+  font-size: 0.62em;
+  opacity: 0.75;
+  margin: 0.1em 0 0.15em;
   white-space: nowrap;
 }
 .bw-stat-val {
-  font-size: 0.85em;
+  font-size: 0.9em;
   font-weight: 700;
 }
 
-.bw-updated {
-  margin: 0 0 0.2em;
-  font-size: 0.7em;
-  opacity: 0.75;
+/* ── 5天預報 ── */
+.bw-forecast {
+  display: flex;
+  gap: 0;
+  margin: 0 1em 0.9em;
+  background: rgba(255,255,255,0.1);
+  border-radius: 12px;
+  overflow: hidden;
 }
-.bw-source {
+.bw-fday {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 0.6em 0.2em;
+  border-right: 1px solid rgba(255,255,255,0.12);
+  gap: 0.15em;
+}
+.bw-fday:last-child { border-right: none; }
+.bw-fday-name {
+  font-size: 0.65em;
+  font-weight: 700;
+  opacity: 0.85;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+.bw-fday-icon { font-size: 1.3em; line-height: 1.2; }
+.bw-fday-precip {
+  font-size: 0.58em;
+  opacity: 0.7;
+  white-space: nowrap;
+}
+.bw-fday-hi {
+  font-size: 0.82em;
+  font-weight: 700;
+}
+.bw-fday-lo {
+  font-size: 0.72em;
+  opacity: 0.65;
+}
+
+/* ── footer ── */
+.bw-footer {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 1.3em;
+  flex-wrap: wrap;
+  gap: 0.2em;
+}
+.bw-updated, .bw-source {
   margin: 0;
   font-size: 0.65em;
-  opacity: 0.65;
+  opacity: 0.6;
 }
 .bw-source a {
   color: #fff;
   text-decoration: underline;
-  opacity: 0.8;
 }
 
-@media (max-width: 480px) {
-  .bw-temp { font-size: 2.4em; }
-  .bw-stat-label { font-size: 0.6em; }
+/* ── loading skeleton ── */
+@keyframes bw-pulse {
+  0%,100% { opacity: 0.4; }
+  50% { opacity: 0.8; }
+}
+.bw-loading .bw-temp,
+.bw-loading .bw-condition,
+.bw-loading .bw-stat-val,
+.bw-loading .bw-fday-icon,
+.bw-loading .bw-fday-hi,
+.bw-loading .bw-fday-lo {
+  animation: bw-pulse 1.2s infinite;
+}
+
+@media (max-width: 520px) {
+  .bw-temp { font-size: 2.6em; }
+  .bw-fday-name { font-size: 0.6em; }
+  .bw-fday-icon { font-size: 1.1em; }
 }
 </style>
 
 <script>
 (function () {
-  const el = document.getElementById('bali-weather');
-  if (!el) return;
+  const root = document.getElementById('bali-weather');
+  if (!root) return;
 
-  const lang = el.dataset.lang ?? 'zh-tw';
+  const lang: string = (root as HTMLElement).dataset.lang ?? 'zh-tw';
   const isEn = lang === 'en';
-  const codeMapAll = JSON.parse(el.dataset.codemap ?? '{}');
-  const codeMap: Record<number, [string, string]> = codeMapAll[isEn ? 'en' : 'zh'] ?? {};
-  const tData = JSON.parse(el.dataset.t ?? '{}');
+  const regions: { id: string; zh: string; en: string; lat: number; lon: number }[] =
+    JSON.parse((root as HTMLElement).dataset.regions ?? '[]');
+  const codeMapZh: Record<string, [string, string]> =
+    JSON.parse((root as HTMLElement).dataset.codemapZh ?? '{}');
+  const codeMapEn: Record<string, [string, string]> =
+    JSON.parse((root as HTMLElement).dataset.codemapEn ?? '{}');
+  const t: Record<string, string | string[]> =
+    JSON.parse((root as HTMLElement).dataset.t ?? '{}');
+
+  const codeMap = isEn ? codeMapEn : codeMapZh;
 
   function getDesc(code: number): [string, string] {
-    if (codeMap[code]) return codeMap[code];
-    if (code >= 1 && code <= 3) return codeMap[2] ?? ['Partly cloudy', '⛅'];
-    if (code >= 45 && code <= 48) return codeMap[45] ?? ['Foggy', '🌫️'];
-    if (code >= 51 && code <= 55) return codeMap[51] ?? ['Drizzle', '🌦️'];
-    if (code >= 61 && code <= 65) return codeMap[61] ?? ['Rain', '🌧️'];
-    if (code >= 80 && code <= 82) return codeMap[80] ?? ['Showers', '🌩️'];
-    return [isEn ? 'Unknown' : '未知', '🌡️'];
+    const key = String(code);
+    if (codeMap[key]) return codeMap[key];
+    const fallbacks: [number, string][] = [[3,'3'],[48,'48'],[55,'55'],[65,'65'],[82,'82'],[95,'95']];
+    for (const [max, k] of fallbacks) {
+      if (code <= max) return codeMap[k] ?? ['--','🌡️'];
+    }
+    return ['--', '🌡️'];
   }
 
-  function formatWITA(iso: string): string {
+  function formatTime(iso: string): string {
     try {
       const d = new Date(iso.replace('T', ' ') + '+08:00');
       const locale = isEn ? 'en-US' : 'zh-TW';
-      return d.toLocaleTimeString(locale, { hour: '2-digit', minute: '2-digit', hour12: false });
+      return d.toLocaleTimeString(locale, { hour: '2-digit', minute: '2-digit', hour12: false }) + ' WITA';
     } catch { return iso; }
   }
 
-  async function loadWeather() {
+  function getDayName(dateStr: string, idx: number): string {
+    if (idx === 0) return t.today as string;
+    const d = new Date(dateStr + 'T12:00:00+08:00');
+    const days = t.days as string[];
+    return days[d.getDay()];
+  }
+
+  function q(id: string): HTMLElement | null {
+    return document.getElementById(id);
+  }
+
+  const cache: Record<string, { ts: number; data: any }> = {};
+  let currentRegion = regions[0];
+
+  async function fetchWeather(region: typeof regions[0]) {
+    const cacheKey = region.id;
+    const now = Date.now();
+    if (cache[cacheKey] && now - cache[cacheKey].ts < 10 * 60 * 1000) {
+      return cache[cacheKey].data;
+    }
     const url =
-      'https://api.open-meteo.com/v1/forecast' +
-      '?latitude=-8.4095&longitude=115.1889' +
-      '&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m,precipitation' +
-      '&timezone=Asia%2FMakassar&forecast_days=1';
+      `https://api.open-meteo.com/v1/forecast` +
+      `?latitude=${region.lat}&longitude=${region.lon}` +
+      `&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m,precipitation` +
+      `&daily=temperature_2m_max,temperature_2m_min,weather_code,precipitation_sum` +
+      `&timezone=Asia%2FMakassar&forecast_days=6`;
+    const res = await fetch(url);
+    const data = await res.json();
+    cache[cacheKey] = { ts: now, data };
+    return data;
+  }
+
+  async function render(region: typeof regions[0]) {
+    root.classList.add('bw-loading');
+
+    // update region name
+    const nameEl = q('bw-region-name');
+    if (nameEl) nameEl.textContent = isEn ? region.en : region.zh;
+
+    // reset displays
+    const condEl = q('bw-condition');
+    if (condEl) condEl.textContent = t.loading as string;
+
     try {
-      const res = await fetch(url);
-      const data = await res.json();
+      const data = await fetchWeather(region);
       const c = data.current;
+      const daily = data.daily;
+
+      // current
       const [desc, icon] = getDesc(c.weather_code);
-      (document.getElementById('bw-temp') as HTMLElement).textContent = Math.round(c.temperature_2m).toString();
-      (document.getElementById('bw-condition') as HTMLElement).textContent = desc;
-      (document.getElementById('bw-icon') as HTMLElement).textContent = icon;
-      (document.getElementById('bw-humidity') as HTMLElement).textContent = c.relative_humidity_2m + '%';
-      (document.getElementById('bw-wind') as HTMLElement).textContent = c.wind_speed_10m + ' km/h';
-      (document.getElementById('bw-precip') as HTMLElement).textContent = c.precipitation + ' mm';
-      (document.getElementById('bw-time') as HTMLElement).textContent =
-        formatWITA(c.time) + ' ' + (tData.wita ?? 'WITA');
+      const tempEl = q('bw-temp'); if (tempEl) tempEl.textContent = Math.round(c.temperature_2m).toString();
+      const condEl2 = q('bw-condition'); if (condEl2) condEl2.textContent = desc;
+      const iconEl = q('bw-icon'); if (iconEl) iconEl.textContent = icon;
+      const humEl = q('bw-humidity'); if (humEl) humEl.textContent = c.relative_humidity_2m + '%';
+      const windEl = q('bw-wind'); if (windEl) windEl.textContent = c.wind_speed_10m + ' km/h';
+      const precipEl = q('bw-precip'); if (precipEl) precipEl.textContent = c.precipitation + ' mm';
+      const timeEl = q('bw-time'); if (timeEl) timeEl.textContent = formatTime(c.time);
+
+      // forecast — skip index 0 (today already shown), show days 0-4
+      for (let i = 0; i < 5; i++) {
+        const di = i; // show today + 4 days
+        const nameEl2 = q(`bw-fname-${i}`);
+        const iconEl2 = q(`bw-ficon-${i}`);
+        const precipEl2 = q(`bw-fprecip-${i}`);
+        const hiEl = q(`bw-fhi-${i}`);
+        const loEl = q(`bw-flo-${i}`);
+
+        if (!daily.time[di]) continue;
+        const [fdesc, ficon] = getDesc(daily.weather_code[di]);
+
+        if (nameEl2) nameEl2.textContent = getDayName(daily.time[di], di);
+        if (iconEl2) iconEl2.textContent = ficon;
+        if (iconEl2) iconEl2.title = fdesc;
+        if (precipEl2) precipEl2.textContent = (daily.precipitation_sum[di] ?? 0).toFixed(1) + 'mm';
+        if (hiEl) hiEl.textContent = Math.round(daily.temperature_2m_max[di]) + '°';
+        if (loEl) loEl.textContent = Math.round(daily.temperature_2m_min[di]) + '°';
+      }
     } catch {
-      (document.getElementById('bw-condition') as HTMLElement).textContent = tData.error ?? 'Error';
+      const condElErr = q('bw-condition');
+      if (condElErr) condElErr.textContent = t.error as string;
+    } finally {
+      root.classList.remove('bw-loading');
     }
   }
 
-  loadWeather();
+  // 區域按鈕點擊
+  const bar = document.getElementById('bw-region-bar');
+  if (bar) {
+    bar.addEventListener('click', (e) => {
+      const btn = (e.target as HTMLElement).closest('.bw-region-btn') as HTMLElement | null;
+      if (!btn) return;
+      const id = btn.dataset.id;
+      const region = regions.find(r => r.id === id);
+      if (!region || region.id === currentRegion.id) return;
+      currentRegion = region;
+      bar.querySelectorAll('.bw-region-btn').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      render(region);
+    });
+  }
+
+  render(currentRegion);
 })();
 </script>
