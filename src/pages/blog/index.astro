@@ -439,17 +439,17 @@ const socialLinks = [
         </div>
 
         <!-- 峇里島即時 Live Cam -->
-        <div class="livecam-section" id="livecam-section">
-          <h2 class="livecam-heading">🎥 峇里島即時現場</h2>
+        <div class="livecam-section">
+          <h2 class="livecam-heading">🎥 峇里島即時現場｜南峇里全景</h2>
           <p class="livecam-sub">看看現在峇里島的天氣和海況</p>
-          <div class="livecam-tabs" id="livecam-tabs" role="tablist">
-            <button class="lc-tab active" data-cam="0" role="tab" aria-selected="true">🌅 南峇里全景</button>
-            <button class="lc-tab" data-cam="1" role="tab" aria-selected="false">🏄 長谷海灘</button>
-            <button class="lc-tab" data-cam="2" role="tab" aria-selected="false">🌊 金巴蘭海灘</button>
-            <button class="lc-tab" data-cam="3" role="tab" aria-selected="false">🐘 夢幻海灘</button>
-            <button class="lc-tab" data-cam="4" role="tab" aria-selected="false">🌿 艾眉海灘</button>
+          <div class="livecam-player">
+            <iframe
+              src="https://www.youtube.com/embed/L1duJDAqbJY?autoplay=1&mute=1"
+              title="峇里島即時現場 — 南峇里全景"
+              allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+              allowfullscreen
+            ></iframe>
           </div>
-          <div class="livecam-player" id="livecam-player"></div>
           <p class="livecam-hint">若畫面無法載入，代表直播暫時離線</p>
         </div>
 
@@ -1384,36 +1384,6 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   color: rgba(255,255,255,0.55);
   margin: 0 0 1em;
 }
-.livecam-tabs {
-  display: flex;
-  gap: 0.5em;
-  overflow-x: auto;
-  scrollbar-width: none;
-  margin-bottom: 1em;
-  padding-bottom: 2px;
-}
-.livecam-tabs::-webkit-scrollbar { display: none; }
-.lc-tab {
-  flex-shrink: 0;
-  background: rgba(255,255,255,0.06);
-  border: 1px solid rgba(201,168,76,0.25);
-  border-radius: 20px;
-  color: rgba(255,255,255,0.7);
-  font-size: 0.82em;
-  font-weight: 600;
-  padding: 0.4em 0.9em;
-  cursor: pointer;
-  font-family: inherit;
-  transition: background 0.15s, border-color 0.15s, color 0.15s;
-  white-space: nowrap;
-}
-.lc-tab:hover { background: rgba(201,168,76,0.15); color: #fff; }
-.lc-tab.active {
-  background: rgba(201,168,76,0.18);
-  border-color: #C9A84C;
-  color: #C9A84C;
-  border-bottom: 2px solid #C9A84C;
-}
 .livecam-player {
   position: relative;
   width: 100%;
@@ -1443,56 +1413,6 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   .lc-tab { font-size: 0.78em; padding: 0.35em 0.75em; }
 }
 </style>
-<script is:inline>
-(function() {
-  var CAMS = [
-    { id: 'L1duJDAqbJY', label: '南峇里全景' },
-    { id: 'x28S0imVkU0', label: '長谷海灘' },
-    { id: 'Sv5NSQ2A1RU', label: '金巴蘭海灘' },
-    { id: '9yT659mJKR4', label: '夢幻海灘' },
-    { id: 'oGti-ErIZag', label: '艾眉海灘' },
-  ];
-  var currentCamIndex = -1;
-
-  function loadCam(index) {
-    if (index === currentCamIndex) return;
-    currentCamIndex = index;
-    var player = document.getElementById('livecam-player');
-    if (!player) return;
-    player.innerHTML = '';
-    var iframe = document.createElement('iframe');
-    iframe.src = 'https://www.youtube.com/embed/' + CAMS[index].id + '?autoplay=1&mute=1';
-    iframe.title = '峇里島即時現場 — ' + CAMS[index].label;
-    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
-    iframe.allowFullscreen = true;
-    player.appendChild(iframe);
-  }
-
-  function initLiveCam() {
-    var tabs = document.querySelectorAll('.lc-tab');
-    if (!tabs.length) return;
-    tabs.forEach(function(tab) {
-      tab.addEventListener('click', function() {
-        tabs.forEach(function(t) {
-          t.classList.remove('active');
-          t.setAttribute('aria-selected', 'false');
-        });
-        tab.classList.add('active');
-        tab.setAttribute('aria-selected', 'true');
-        loadCam(parseInt(tab.dataset.cam, 10));
-      });
-    });
-    loadCam(0);
-  }
-
-  // Script runs after </body> — DOM is already parsed; DOMContentLoaded may have fired.
-  if (document.readyState === 'loading') {
-    document.addEventListener('DOMContentLoaded', initLiveCam);
-  } else {
-    initLiveCam();
-  }
-})();
-</script>
 <script define:vars={{ promosJson }}>
 window.addEventListener('load', () => {
   const promos = JSON.parse(promosJson);
