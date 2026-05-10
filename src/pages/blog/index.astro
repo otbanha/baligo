@@ -442,7 +442,7 @@ const socialLinks = [
         <div class="livecam-section" id="livecam-section">
           <div class="livecam-header">
             <h2 class="livecam-heading">🎥 峇里島即時現場</h2>
-            <p class="livecam-sub">看看現在峇里島的天氣和海況</p>
+            <p class="livecam-sub">看看現在峇里島即時的天氣</p>
           </div>
           <div class="livecam-player" id="livecam-player"></div>
           <div class="livecam-links">
@@ -792,13 +792,11 @@ const socialLinks = [
   box-shadow: 0 4px 16px rgba(10, 22, 40, 0.1);
 }
 :global(.promo-image) {
-  aspect-ratio: 16/9;
-  overflow: hidden;
 }
 :global(.promo-image) img {
   width: 100%;
-  height: 100%;
-  object-fit: cover;
+  height: auto;
+  display: block;
 }
 :global(.promo-body) {
   padding: 0.7em 0.8em;
