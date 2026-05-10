@@ -438,6 +438,21 @@ const socialLinks = [
           ))}
         </div>
 
+        <!-- 峇里島即時 Live Cam -->
+        <div class="livecam-section" id="livecam-section">
+          <h2 class="livecam-heading">🎥 峇里島即時現場</h2>
+          <p class="livecam-sub">看看現在峇里島的天氣和海況</p>
+          <div class="livecam-tabs" id="livecam-tabs" role="tablist">
+            <button class="lc-tab active" data-cam="0" role="tab" aria-selected="true">🌅 南峇里全景</button>
+            <button class="lc-tab" data-cam="1" role="tab" aria-selected="false">🏄 長谷海灘</button>
+            <button class="lc-tab" data-cam="2" role="tab" aria-selected="false">🌊 金巴蘭海灘</button>
+            <button class="lc-tab" data-cam="3" role="tab" aria-selected="false">🐘 夢幻海灘</button>
+            <button class="lc-tab" data-cam="4" role="tab" aria-selected="false">🌿 艾眉海灘</button>
+          </div>
+          <div class="livecam-player" id="livecam-player"></div>
+          <p class="livecam-hint">若畫面無法載入，代表直播暫時離線</p>
+        </div>
+
       </div>
 
       <!-- 峇里島即時天氣 -->
@@ -486,21 +501,6 @@ const socialLinks = [
       </div>
 
       <div id="pagination" class="pagination"></div>
-
-      <!-- 峇里島即時 Live Cam -->
-      <div class="livecam-section" id="livecam-section">
-        <h2 class="livecam-heading">🎥 峇里島即時現場</h2>
-        <p class="livecam-sub">看看現在峇里島的天氣和海況</p>
-        <div class="livecam-tabs" id="livecam-tabs" role="tablist">
-          <button class="lc-tab active" data-cam="0" role="tab" aria-selected="true">🌅 南峇里全景</button>
-          <button class="lc-tab" data-cam="1" role="tab" aria-selected="false">🏄 長谷海灘</button>
-          <button class="lc-tab" data-cam="2" role="tab" aria-selected="false">🌊 金巴蘭海灘</button>
-          <button class="lc-tab" data-cam="3" role="tab" aria-selected="false">🐘 夢幻海灘</button>
-          <button class="lc-tab" data-cam="4" role="tab" aria-selected="false">🌿 艾眉海灘</button>
-        </div>
-        <div class="livecam-player" id="livecam-player"></div>
-        <p class="livecam-hint">若畫面無法載入，代表直播暫時離線</p>
-      </div>
 
       {activePromos.length > 0 && (
         <div id="promo-block-main">
@@ -1467,8 +1467,9 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
     player.appendChild(iframe);
   }
 
-  document.addEventListener('DOMContentLoaded', function() {
+  function initLiveCam() {
     var tabs = document.querySelectorAll('.lc-tab');
+    if (!tabs.length) return;
     tabs.forEach(function(tab) {
       tab.addEventListener('click', function() {
         tabs.forEach(function(t) {
@@ -1480,9 +1481,15 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
         loadCam(parseInt(tab.dataset.cam, 10));
       });
     });
-    // Load first cam on page load
     loadCam(0);
-  });
+  }
+
+  // Script runs after </body> — DOM is already parsed; DOMContentLoaded may have fired.
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', initLiveCam);
+  } else {
+    initLiveCam();
+  }
 })();
 </script>
 <script define:vars={{ promosJson }}>
