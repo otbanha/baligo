@@ -438,18 +438,6 @@ const socialLinks = [
           ))}
         </div>
 
-        <!-- 峇里島即時 Live Cam -->
-        <div class="livecam-section" id="livecam-section">
-          <div class="livecam-header">
-            <h2 class="livecam-heading">🎥 峇里島即時現場</h2>
-            <p class="livecam-sub">看看現在峇里島即時的天氣</p>
-          </div>
-          <div class="livecam-player" id="livecam-player"></div>
-          <div class="livecam-links">
-            <span class="livecam-links-label">其他即時鏡頭 →</span>
-            <a href="https://www.youtube.com/watch?v=xuSvwBMhysw" target="_blank" rel="noopener" class="lc-link">🌿 烏布</a>
-          </div>
-        </div>
 
       </div>
 
@@ -499,6 +487,24 @@ const socialLinks = [
       </div>
 
       <div id="pagination" class="pagination"></div>
+
+      <!-- Live Cam + Coming Soon 並排 -->
+      <div class="livecam-row" id="livecam-section">
+        <div class="livecam-col livecam-main">
+          <div class="livecam-header">
+            <h2 class="livecam-heading">🎥 峇里島即時現場</h2>
+            <p class="livecam-sub">看看現在峇里島的天氣和海況</p>
+          </div>
+          <div class="livecam-player" id="livecam-player"></div>
+          <div class="livecam-links">
+            <span class="livecam-links-label">其他即時鏡頭 →</span>
+            <a href="https://www.youtube.com/watch?v=xuSvwBMhysw" target="_blank" rel="noopener" class="lc-link">🌿 烏布</a>
+          </div>
+        </div>
+        <div class="livecam-col livecam-aside">
+          <p class="livecam-coming">Coming soon</p>
+        </div>
+      </div>
 
       {activePromos.length > 0 && (
         <div id="promo-block-main">
@@ -1360,15 +1366,30 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 }
 
 /* ── Live Cam ── */
-.livecam-section {
+.livecam-row {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1em;
+  margin: 2em 0 1.5em;
+  align-items: stretch;
+}
+.livecam-col {
   box-sizing: border-box;
-  width: 100%;
-  max-width: 720px;
   background: #1a1a2e;
   border-radius: 10px;
-  padding: 1em 1.2em 0.9em;
-  margin: 1.2em 0 1em;
   border: 1px solid rgba(201,168,76,0.25);
+  padding: 1em 1.2em 0.9em;
+}
+.livecam-aside {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.livecam-coming {
+  font-size: 0.9em;
+  color: rgba(255,255,255,0.25);
+  margin: 0;
+  font-style: italic;
 }
 .livecam-header { margin-bottom: 0.7em; }
 .livecam-heading {
@@ -1424,8 +1445,9 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   white-space: nowrap;
 }
 .lc-link:hover { border-color: #C9A84C; }
-@media (max-width: 600px) {
-  .livecam-section { padding: 0.8em 0.9em 0.75em; }
+@media (max-width: 720px) {
+  .livecam-row { grid-template-columns: 1fr; }
+  .livecam-aside { display: none; }
 }
 </style>
 <script is:inline>
