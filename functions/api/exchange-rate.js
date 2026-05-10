@@ -9,7 +9,7 @@ export async function onRequest(context) {
     const rates = {
       USD: Math.round(IDR - 500),
       AUD: Math.round(IDR / AUD - 370),
-      SGD: Math.round(IDR / SGD - 380),
+      SGD: Math.round(IDR / SGD - 500),
       HKD: Math.round(IDR / HKD - 200),
       MYR: Math.round(IDR / MYR - 480),
     };
