@@ -487,6 +487,21 @@ const socialLinks = [
 
       <div id="pagination" class="pagination"></div>
 
+      <!-- 峇里島即時 Live Cam -->
+      <div class="livecam-section" id="livecam-section">
+        <h2 class="livecam-heading">🎥 峇里島即時現場</h2>
+        <p class="livecam-sub">看看現在峇里島的天氣和海況</p>
+        <div class="livecam-tabs" id="livecam-tabs" role="tablist">
+          <button class="lc-tab active" data-cam="0" role="tab" aria-selected="true">🌅 南峇里全景</button>
+          <button class="lc-tab" data-cam="1" role="tab" aria-selected="false">🏄 長谷海灘</button>
+          <button class="lc-tab" data-cam="2" role="tab" aria-selected="false">🌊 金巴蘭海灘</button>
+          <button class="lc-tab" data-cam="3" role="tab" aria-selected="false">🐘 夢幻海灘</button>
+          <button class="lc-tab" data-cam="4" role="tab" aria-selected="false">🌿 艾眉海灘</button>
+        </div>
+        <div class="livecam-player" id="livecam-player"></div>
+        <p class="livecam-hint">若畫面無法載入，代表直播暫時離線</p>
+      </div>
+
       {activePromos.length > 0 && (
         <div id="promo-block-main">
           <div id="promo-block-index"></div>
@@ -1347,7 +1362,129 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   .qg-title { font-size: 0.88rem; }
   .qg-desc  { display: none; }
 }
+
+/* ── Live Cam ── */
+.livecam-section {
+  background: #1a1a2e;
+  border-radius: 14px;
+  padding: 1.5em 1.5em 1.2em;
+  margin: 2em 0 1.5em;
+  border: 1px solid rgba(201,168,76,0.3);
+  box-shadow: 0 4px 24px rgba(0,0,0,0.35);
+}
+.livecam-heading {
+  font-size: 1.1em;
+  font-weight: 800;
+  color: #C9A84C;
+  margin: 0 0 0.25em;
+  letter-spacing: 0.03em;
+}
+.livecam-sub {
+  font-size: 0.82em;
+  color: rgba(255,255,255,0.55);
+  margin: 0 0 1em;
+}
+.livecam-tabs {
+  display: flex;
+  gap: 0.5em;
+  overflow-x: auto;
+  scrollbar-width: none;
+  margin-bottom: 1em;
+  padding-bottom: 2px;
+}
+.livecam-tabs::-webkit-scrollbar { display: none; }
+.lc-tab {
+  flex-shrink: 0;
+  background: rgba(255,255,255,0.06);
+  border: 1px solid rgba(201,168,76,0.25);
+  border-radius: 20px;
+  color: rgba(255,255,255,0.7);
+  font-size: 0.82em;
+  font-weight: 600;
+  padding: 0.4em 0.9em;
+  cursor: pointer;
+  font-family: inherit;
+  transition: background 0.15s, border-color 0.15s, color 0.15s;
+  white-space: nowrap;
+}
+.lc-tab:hover { background: rgba(201,168,76,0.15); color: #fff; }
+.lc-tab.active {
+  background: rgba(201,168,76,0.18);
+  border-color: #C9A84C;
+  color: #C9A84C;
+  border-bottom: 2px solid #C9A84C;
+}
+.livecam-player {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16/9;
+  background: #0d0d1a;
+  border-radius: 8px;
+  overflow: hidden;
+  border: 1px solid rgba(201,168,76,0.2);
+}
+.livecam-player iframe {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  border: none;
+}
+.livecam-hint {
+  font-size: 0.75em;
+  color: rgba(255,255,255,0.35);
+  text-align: center;
+  margin: 0.6em 0 0;
+}
+@media (max-width: 600px) {
+  .livecam-section { padding: 1em 1em 0.9em; border-radius: 10px; }
+  .livecam-heading { font-size: 1em; }
+  .lc-tab { font-size: 0.78em; padding: 0.35em 0.75em; }
+}
 </style>
+<script is:inline>
+(function() {
+  var CAMS = [
+    { id: 'AgqG0iOuvBs', label: '南峇里全景' },
+    { id: 'x28S0imVkU0', label: '長谷海灘' },
+    { id: 'Sv5NSQ2A1RU', label: '金巴蘭海灘' },
+    { id: 'HKv7XJLbgp4', label: '夢幻海灘' },
+    { id: 'DQR8yF_FNwA', label: '艾眉海灘' },
+  ];
+  var currentCamIndex = -1;
+
+  function loadCam(index) {
+    if (index === currentCamIndex) return;
+    currentCamIndex = index;
+    var player = document.getElementById('livecam-player');
+    if (!player) return;
+    player.innerHTML = '';
+    var iframe = document.createElement('iframe');
+    iframe.src = 'https://www.youtube.com/embed/' + CAMS[index].id + '?autoplay=1&mute=1';
+    iframe.title = '峇里島即時現場 — ' + CAMS[index].label;
+    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+    iframe.allowFullscreen = true;
+    player.appendChild(iframe);
+  }
+
+  document.addEventListener('DOMContentLoaded', function() {
+    var tabs = document.querySelectorAll('.lc-tab');
+    tabs.forEach(function(tab) {
+      tab.addEventListener('click', function() {
+        tabs.forEach(function(t) {
+          t.classList.remove('active');
+          t.setAttribute('aria-selected', 'false');
+        });
+        tab.classList.add('active');
+        tab.setAttribute('aria-selected', 'true');
+        loadCam(parseInt(tab.dataset.cam, 10));
+      });
+    });
+    // Load first cam on page load
+    loadCam(0);
+  });
+})();
+</script>
 <script define:vars={{ promosJson }}>
 window.addEventListener('load', () => {
   const promos = JSON.parse(promosJson);
