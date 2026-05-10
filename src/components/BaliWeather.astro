@@ -150,15 +150,16 @@ const codeMapEn: Record<string, [string, string]> = {
 .bali-weather {
   background: linear-gradient(160deg, #023e8a 0%, #0077b6 45%, #0096c7 100%);
   color: #fff;
-  border-radius: 18px;
-  padding: 0 0 1em;
-  margin-bottom: 1.5em;
-  box-shadow: 0 6px 28px rgba(0,60,140,0.28);
+  border-radius: 14px;
+  padding: 0 0 0.7em;
+  margin-bottom: 1.2em;
+  box-shadow: 0 4px 18px rgba(0,60,140,0.22);
   overflow: hidden;
   font-family: inherit;
   width: 100%;
   box-sizing: border-box;
   min-width: 0;
+  font-size: 0.9em;
 }
 
 /* ── 區域選擇列 ── */
@@ -392,7 +393,7 @@ const codeMapEn: Record<string, [string, string]> = {
     return days[d.getDay()];
   }
 
-  // 從 hourly 資料取某時段的主要天氣狀況
+  // 從 hourly 資料取某時段的天氣資訊
   function getPeriodInfo(
     hourlyTime: string[],
     hourlyCode: number[],
@@ -401,40 +402,64 @@ const codeMapEn: Record<string, [string, string]> = {
     todayDate: string,
     startHour: number,
     endHour: number,
-  ): { desc: string; icon: string; precipPct: number; avgTemp: number; rainyHours: number; totalHours: number } {
+  ): { clearCode: number; rainCode: number; rainyHours: number; totalHours: number; precipPct: number; avgTemp: number } {
     const idxs: number[] = [];
     hourlyTime.forEach((t, i) => {
       if (!t.startsWith(todayDate)) return;
       const h = parseInt(t.slice(11, 13));
       if (h >= startHour && h < endHour) idxs.push(i);
     });
-    if (!idxs.length) return { desc: '--', icon: '🌡️', precipPct: 0, avgTemp: 0, rainyHours: 0, totalHours: 0 };
+    if (!idxs.length) return { clearCode: 2, rainCode: 61, rainyHours: 0, totalHours: 0, precipPct: 0, avgTemp: 28 };
 
-    // 眾數（最多時段的天氣碼）作為代表
-    const freq: Record<number, number> = {};
-    idxs.forEach(i => { freq[hourlyCode[i]] = (freq[hourlyCode[i]] ?? 0) + 1; });
-    const modeCode = Number(Object.entries(freq).sort((a, b) => b[1] - a[1])[0][0]);
-    const [desc, icon] = getDesc(modeCode);
+    const codes = idxs.map(i => hourlyCode[i]);
+    const rainyIdxs = idxs.filter(i => hourlyCode[i] >= 51);
+    const clearIdxs = idxs.filter(i => hourlyCode[i] < 51);
 
-    // 降雨小時數（code >= 51 = 任何降水）
-    const rainyHours = idxs.filter(i => hourlyCode[i] >= 51).length;
+    // 晴/雲的眾數代碼
+    const clearFreq: Record<number, number> = {};
+    clearIdxs.forEach(i => { clearFreq[hourlyCode[i]] = (clearFreq[hourlyCode[i]] ?? 0) + 1; });
+    const clearCode = clearIdxs.length
+      ? Number(Object.entries(clearFreq).sort((a, b) => b[1] - a[1])[0][0])
+      : 2;
+
+    // 降雨代碼取「最具代表性」（眾數，而非最糟）
+    const rainFreq: Record<number, number> = {};
+    rainyIdxs.forEach(i => { rainFreq[hourlyCode[i]] = (rainFreq[hourlyCode[i]] ?? 0) + 1; });
+    const rainCode = rainyIdxs.length
+      ? Number(Object.entries(rainFreq).sort((a, b) => b[1] - a[1])[0][0])
+      : 61;
+
+    const rainyHours = rainyIdxs.length;
     const precipPct = Math.round(Math.max(...idxs.map(i => hourlyPrecipProb[i] ?? 0)));
     const avgTemp = Math.round(idxs.reduce((s, i) => s + hourlyTemp[i], 0) / idxs.length);
-    return { desc, icon, precipPct, avgTemp, rainyHours, totalHours: idxs.length };
+    return { clearCode, rainCode, rainyHours, totalHours: idxs.length, precipPct, avgTemp };
   }
 
-  // 根據降雨比例加前綴
-  function rainPrefix(rainyHours: number, total: number, precipPct: number, period: 'day' | 'night'): string {
-    if (rainyHours === 0) return '';
-    const ratio = rainyHours / total;
-    if (isEn) {
-      if (ratio >= 0.6) return 'rainy, ';
-      if (ratio >= 0.3 || precipPct >= 50) return 'some showers, ';
-      return 'chance of showers, ';
+  // 依降雨比例組成描述文字（雨永遠附帶機率前綴，不單獨出現）
+  function describePeriod(info: ReturnType<typeof getPeriodInfo>): string {
+    const { clearCode, rainCode, rainyHours, totalHours, precipPct } = info;
+    const ratio = totalHours > 0 ? rainyHours / totalHours : 0;
+    const [clearDesc, clearIcon] = getDesc(clearCode);
+    const [rainDesc] = getDesc(rainCode);
+
+    if (rainyHours === 0) {
+      return `${clearIcon} ${clearDesc}`;
     }
-    if (ratio >= 0.6) return '';           // 眾數已是雨，不加前綴
-    if (ratio >= 0.3 || precipPct >= 50) return '部分時段有雨，';
-    return '偶有短暫降雨，';
+    if (ratio >= 0.65) {
+      // 多數時段有雨，仍加「很大機會」避免誤解為持續整天
+      return isEn
+        ? `${clearIcon} ${clearDesc}, high chance of ${rainDesc.toLowerCase()}`
+        : `${clearIcon} ${clearDesc}，很大機會有${rainDesc}`;
+    }
+    if (ratio >= 0.3 || precipPct >= 50) {
+      return isEn
+        ? `${clearIcon} ${clearDesc}, chance of ${rainDesc.toLowerCase()}`
+        : `${clearIcon} ${clearDesc}，有機會${rainDesc}`;
+    }
+    // 三成以下
+    return isEn
+      ? `${clearIcon} ${clearDesc}, brief showers possible`
+      : `${clearIcon} ${clearDesc}，局部偶有短暫降雨`;
   }
 
   function buildSummary(
@@ -448,21 +473,13 @@ const codeMapEn: Record<string, [string, string]> = {
   ): string {
     const day = getPeriodInfo(hourlyTime, hourlyCode, hourlyPrecipProb, hourlyTemp, todayDate, 7, 18);
     const night = getPeriodInfo(hourlyTime, hourlyCode, hourlyPrecipProb, hourlyTemp, todayDate, 18, 24);
+    const dayText = describePeriod(day);
+    const nightText = describePeriod(night);
 
     if (isEn) {
-      const dayPrefix = rainPrefix(day.rainyHours, day.totalHours, day.precipPct, 'day');
-      const nightPrefix = rainPrefix(night.rainyHours, night.totalHours, night.precipPct, 'night');
-      return (
-        `Daytime: ${dayPrefix}${day.icon} ${day.desc}, ${todayLo}–${todayHi}°C. ` +
-        `Tonight: ${nightPrefix}${night.icon} ${night.desc}, around ${night.avgTemp}°C.`
-      );
+      return `Daytime: ${dayText}, ${todayLo}–${todayHi}°C. Tonight: ${nightText}, around ${night.avgTemp}°C.`;
     }
-    const dayPrefix = rainPrefix(day.rainyHours, day.totalHours, day.precipPct, 'day');
-    const nightPrefix = rainPrefix(night.rainyHours, night.totalHours, night.precipPct, 'night');
-    return (
-      `今天白天：${dayPrefix}${day.icon} ${day.desc}，氣溫 ${todayLo}–${todayHi}°C。` +
-      `入夜後：${nightPrefix}${night.icon} ${night.desc}，約 ${night.avgTemp}°C。`
-    );
+    return `今天白天：${dayText}，氣溫 ${todayLo}–${todayHi}°C。入夜後：${nightText}，約 ${night.avgTemp}°C。`;
   }
 
   function q(id: string): HTMLElement | null { return document.getElementById(id); }
