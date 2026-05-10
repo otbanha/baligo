@@ -1,36 +1,32 @@
 ---
-// BaliWeather.astro — 峇里島即時天氣 + 5天預報（Open-Meteo，無需 API Key）
+// BaliWeather.astro — 峇里島即時天氣 + 7天預報（Open-Meteo，無需 API Key）
 const { lang = 'zh-tw' } = Astro.props;
 
 const isEn = lang === 'en';
 const isCn = lang === 'zh-cn';
 
 const regions = [
-  { id: 'kuta',     zh: '庫塔',   en: 'Kuta',      lat: -8.7215,  lon: 115.1685 },
-  { id: 'canggu',   zh: '水明漾', en: 'Canggu',    lat: -8.6478,  lon: 115.1385 },
-  { id: 'seminyak', zh: '水族館', en: 'Seminyak',  lat: -8.6921,  lon: 115.1619 },
-  { id: 'ubud',     zh: '烏布',   en: 'Ubud',      lat: -8.5069,  lon: 115.2625 },
-  { id: 'sanur',    zh: '沙努爾', en: 'Sanur',     lat: -8.6835,  lon: 115.2625 },
-  { id: 'nusadua',  zh: '努沙杜瓦', en: 'Nusa Dua', lat: -8.7932, lon: 115.2313 },
-  { id: 'jimbaran', zh: '金巴蘭', en: 'Jimbaran',  lat: -8.7842,  lon: 115.1630 },
-  { id: 'uluwatu',  zh: '烏魯瓦圖', en: 'Uluwatu', lat: -8.8291,  lon: 115.0849 },
+  { id: 'kuta',    zh: '庫塔',     en: 'Kuta',     lat: -8.7215, lon: 115.1685 },
+  { id: 'ubud',    zh: '烏布',     en: 'Ubud',     lat: -8.5069, lon: 115.2625 },
+  { id: 'nusadua', zh: '努沙杜瓦', en: 'Nusa Dua', lat: -8.7932, lon: 115.2313 },
 ];
 
 const t = {
-  title:    isEn ? 'Bali Weather' : isCn ? '巴厘岛天气' : '峇里島天氣',
-  loading:  isEn ? 'Loading…' : '載入中…',
-  humidity: isEn ? 'Humidity' : '濕度',
-  wind:     isEn ? 'Wind' : '風速',
-  precip:   isEn ? 'Rain' : '降雨',
-  updated:  isEn ? 'Updated: ' : '更新：',
-  source:   isEn ? 'Source: ' : '資料來源：',
-  error:    isEn ? 'Unable to load weather data' : '無法載入天氣資料',
-  wita:     'WITA',
-  today:    isEn ? 'Today' : isCn ? '今天' : '今天',
-  feels:    isEn ? 'Feels like' : '體感',
-  high:     isEn ? 'H' : '高',
-  low:      isEn ? 'L' : '低',
-  days:     isEn
+  title:      isEn ? 'Bali Weather' : isCn ? '巴厘岛天气' : '峇里島天氣',
+  loading:    isEn ? 'Loading…' : '載入中…',
+  humidity:   isEn ? 'Humidity' : '濕度',
+  wind:       isEn ? 'Wind' : '風速',
+  precip:     isEn ? 'Rain' : '降雨',
+  updated:    isEn ? 'Updated: ' : '更新：',
+  source:     isEn ? 'Source: ' : '資料來源：',
+  error:      isEn ? 'Unable to load weather data' : '無法載入天氣資料',
+  today:      isEn ? 'Today' : '今天',
+  daytime:    isEn ? 'Daytime' : '白天',
+  night:      isEn ? 'Tonight' : '入夜後',
+  tempRange:  isEn ? '' : '，氣溫',
+  rainChance: isEn ? '% chance of rain' : '% 降雨機率',
+  around:     isEn ? 'around ' : '約 ',
+  days:       isEn
     ? ['Sun','Mon','Tue','Wed','Thu','Fri','Sat']
     : ['日','一','二','三','四','五','六'],
 };
@@ -86,23 +82,18 @@ const codeMapEn: Record<string, [string, string]> = {
   <!-- 區域選擇 -->
   <div class="bw-region-bar" id="bw-region-bar">
     {regions.map((r, i) => (
-      <button
-        class={`bw-region-btn${i === 0 ? ' active' : ''}`}
-        data-id={r.id}
-      >
+      <button class={`bw-region-btn${i === 0 ? ' active' : ''}`} data-id={r.id}>
         {isEn ? r.en : r.zh}
       </button>
     ))}
   </div>
 
-  <!-- 標題 -->
+  <!-- 標題 + 即時溫度 -->
   <div class="bw-header">
     <span class="bw-icon" id="bw-icon">🌤️</span>
     <div class="bw-title-group">
       <h3 class="bw-title">{t.title}</h3>
-      <p class="bw-region-name" id="bw-region-name">
-        {isEn ? regions[0].en : regions[0].zh}
-      </p>
+      <p class="bw-region-name" id="bw-region-name">{isEn ? regions[0].en : regions[0].zh}</p>
     </div>
     <div class="bw-temp-block">
       <span class="bw-temp" id="bw-temp">--</span>
@@ -111,6 +102,11 @@ const codeMapEn: Record<string, [string, string]> = {
   </div>
 
   <p class="bw-condition" id="bw-condition">{t.loading}</p>
+
+  <!-- 今日概況 -->
+  <div class="bw-summary" id="bw-summary">
+    <p class="bw-summary-text" id="bw-summary-text"></p>
+  </div>
 
   <!-- 統計列 -->
   <div class="bw-stats">
@@ -131,9 +127,9 @@ const codeMapEn: Record<string, [string, string]> = {
     </div>
   </div>
 
-  <!-- 5天預報 -->
+  <!-- 7天預報 -->
   <div class="bw-forecast" id="bw-forecast">
-    {[0,1,2,3,4].map(i => (
+    {[0,1,2,3,4,5,6].map(i => (
       <div class="bw-fday" id={`bw-fday-${i}`}>
         <span class="bw-fday-name" id={`bw-fname-${i}`}>--</span>
         <span class="bw-fday-icon" id={`bw-ficon-${i}`}>--</span>
@@ -165,48 +161,44 @@ const codeMapEn: Record<string, [string, string]> = {
 /* ── 區域選擇列 ── */
 .bw-region-bar {
   display: flex;
-  gap: 0;
   overflow-x: auto;
   scrollbar-width: none;
   background: rgba(0,0,0,0.25);
-  padding: 0.4em 0.8em;
+  padding: 0.45em 0.8em;
   -webkit-overflow-scrolling: touch;
+  gap: 0.4em;
 }
 .bw-region-bar::-webkit-scrollbar { display: none; }
 .bw-region-btn {
   flex-shrink: 0;
   background: transparent;
-  color: rgba(255,255,255,0.65);
+  color: rgba(255,255,255,0.6);
   border: 1px solid rgba(255,255,255,0.2);
   border-radius: 20px;
-  padding: 0.25em 0.85em;
+  padding: 0.22em 0.85em;
   font-size: 0.78em;
   font-family: inherit;
   cursor: pointer;
-  margin-right: 0.4em;
   transition: all 0.18s;
   white-space: nowrap;
 }
-.bw-region-btn:hover {
-  color: #fff;
-  border-color: rgba(255,255,255,0.5);
-}
+.bw-region-btn:hover { color: #fff; border-color: rgba(255,255,255,0.5); }
 .bw-region-btn.active {
   background: rgba(255,255,255,0.22);
   color: #fff;
-  border-color: rgba(255,255,255,0.6);
+  border-color: rgba(255,255,255,0.65);
   font-weight: 600;
 }
 
-/* ── 主要資訊區 ── */
+/* ── 主資訊區 ── */
 .bw-header {
   display: flex;
   align-items: center;
   gap: 0.6em;
-  padding: 1em 1.3em 0.4em;
+  padding: 1em 1.3em 0.2em;
 }
 .bw-icon {
-  font-size: 2.6em;
+  font-size: 2.8em;
   line-height: 1;
   filter: drop-shadow(0 2px 6px rgba(0,0,0,0.25));
   flex-shrink: 0;
@@ -214,26 +206,22 @@ const codeMapEn: Record<string, [string, string]> = {
 .bw-title-group { flex: 1; min-width: 0; }
 .bw-title {
   margin: 0;
-  font-size: 0.82em;
+  font-size: 0.75em;
   font-weight: 700;
-  opacity: 0.8;
+  opacity: 0.75;
   color: #fff;
   text-transform: uppercase;
-  letter-spacing: 0.06em;
+  letter-spacing: 0.07em;
 }
 .bw-region-name {
   margin: 0;
-  font-size: 1.05em;
+  font-size: 1.1em;
   font-weight: 700;
   color: #fff;
 }
-.bw-temp-block {
-  display: flex;
-  align-items: flex-start;
-  margin-left: auto;
-}
+.bw-temp-block { display: flex; align-items: flex-start; margin-left: auto; }
 .bw-temp {
-  font-size: 3.2em;
+  font-size: 3.4em;
   font-weight: 800;
   line-height: 1;
   letter-spacing: -0.03em;
@@ -242,22 +230,37 @@ const codeMapEn: Record<string, [string, string]> = {
   font-size: 1.1em;
   font-weight: 600;
   opacity: 0.75;
-  margin-top: 0.3em;
+  margin-top: 0.35em;
 }
 
 .bw-condition {
-  margin: 0 0 0.8em;
+  margin: 0.1em 0 0;
   font-size: 1em;
   font-weight: 600;
   opacity: 0.92;
   padding: 0 1.3em;
 }
 
+/* ── 今日概況 ── */
+.bw-summary {
+  margin: 0.6em 1em 0.7em;
+  background: rgba(0,0,0,0.18);
+  border-radius: 10px;
+  padding: 0.6em 0.85em;
+  min-height: 2.4em;
+}
+.bw-summary-text {
+  margin: 0;
+  font-size: 0.82em;
+  line-height: 1.55;
+  opacity: 0.92;
+}
+
 /* ── 統計列 ── */
 .bw-stats {
   display: flex;
   background: rgba(255,255,255,0.12);
-  margin: 0 1em 1em;
+  margin: 0 1em 0.9em;
   border-radius: 12px;
   overflow: hidden;
 }
@@ -271,113 +274,84 @@ const codeMapEn: Record<string, [string, string]> = {
 }
 .bw-stat:last-child { border-right: none; }
 .bw-stat-icon { font-size: 1.1em; }
-.bw-stat-label {
-  font-size: 0.62em;
-  opacity: 0.75;
-  margin: 0.1em 0 0.15em;
-  white-space: nowrap;
-}
-.bw-stat-val {
-  font-size: 0.9em;
-  font-weight: 700;
-}
+.bw-stat-label { font-size: 0.62em; opacity: 0.75; margin: 0.1em 0 0.15em; white-space: nowrap; }
+.bw-stat-val { font-size: 0.9em; font-weight: 700; }
 
-/* ── 5天預報 ── */
+/* ── 7天預報 ── */
 .bw-forecast {
   display: flex;
-  gap: 0;
   margin: 0 1em 0.9em;
   background: rgba(255,255,255,0.1);
   border-radius: 12px;
-  overflow: hidden;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -webkit-overflow-scrolling: touch;
 }
+.bw-forecast::-webkit-scrollbar { display: none; }
 .bw-fday {
-  flex: 1;
+  flex: 0 0 calc(100% / 7);
+  min-width: 44px;
   display: flex;
   flex-direction: column;
   align-items: center;
-  padding: 0.6em 0.2em;
+  padding: 0.6em 0.15em;
   border-right: 1px solid rgba(255,255,255,0.12);
-  gap: 0.15em;
+  gap: 0.12em;
 }
 .bw-fday:last-child { border-right: none; }
 .bw-fday-name {
-  font-size: 0.65em;
+  font-size: 0.62em;
   font-weight: 700;
   opacity: 0.85;
-  text-transform: uppercase;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.02em;
 }
-.bw-fday-icon { font-size: 1.3em; line-height: 1.2; }
-.bw-fday-precip {
-  font-size: 0.58em;
-  opacity: 0.7;
-  white-space: nowrap;
-}
-.bw-fday-hi {
-  font-size: 0.82em;
-  font-weight: 700;
-}
-.bw-fday-lo {
-  font-size: 0.72em;
-  opacity: 0.65;
-}
+.bw-fday.is-today .bw-fday-name { color: #ffd166; }
+.bw-fday-icon { font-size: 1.25em; line-height: 1.2; }
+.bw-fday-precip { font-size: 0.55em; opacity: 0.65; white-space: nowrap; }
+.bw-fday-hi { font-size: 0.8em; font-weight: 700; }
+.bw-fday-lo { font-size: 0.7em; opacity: 0.6; }
 
 /* ── footer ── */
 .bw-footer {
   display: flex;
   justify-content: space-between;
-  align-items: center;
   padding: 0 1.3em;
   flex-wrap: wrap;
   gap: 0.2em;
 }
-.bw-updated, .bw-source {
-  margin: 0;
-  font-size: 0.65em;
-  opacity: 0.6;
-}
-.bw-source a {
-  color: #fff;
-  text-decoration: underline;
-}
+.bw-updated, .bw-source { margin: 0; font-size: 0.63em; opacity: 0.55; }
+.bw-source a { color: #fff; text-decoration: underline; }
 
-/* ── loading skeleton ── */
-@keyframes bw-pulse {
-  0%,100% { opacity: 0.4; }
-  50% { opacity: 0.8; }
-}
+/* ── loading ── */
+@keyframes bw-pulse { 0%,100%{opacity:.35} 50%{opacity:.75} }
 .bw-loading .bw-temp,
 .bw-loading .bw-condition,
+.bw-loading .bw-summary-text,
 .bw-loading .bw-stat-val,
 .bw-loading .bw-fday-icon,
 .bw-loading .bw-fday-hi,
-.bw-loading .bw-fday-lo {
-  animation: bw-pulse 1.2s infinite;
-}
+.bw-loading .bw-fday-lo { animation: bw-pulse 1.2s infinite; }
 
 @media (max-width: 520px) {
-  .bw-temp { font-size: 2.6em; }
-  .bw-fday-name { font-size: 0.6em; }
+  .bw-temp { font-size: 2.8em; }
+  .bw-fday-name { font-size: 0.58em; }
   .bw-fday-icon { font-size: 1.1em; }
+  .bw-fday { min-width: 40px; }
 }
 </style>
 
 <script>
 (function () {
-  const root = document.getElementById('bali-weather');
+  const root = document.getElementById('bali-weather') as HTMLElement | null;
   if (!root) return;
 
-  const lang: string = (root as HTMLElement).dataset.lang ?? 'zh-tw';
+  const lang: string = root.dataset.lang ?? 'zh-tw';
   const isEn = lang === 'en';
   const regions: { id: string; zh: string; en: string; lat: number; lon: number }[] =
-    JSON.parse((root as HTMLElement).dataset.regions ?? '[]');
-  const codeMapZh: Record<string, [string, string]> =
-    JSON.parse((root as HTMLElement).dataset.codemapZh ?? '{}');
-  const codeMapEn: Record<string, [string, string]> =
-    JSON.parse((root as HTMLElement).dataset.codemapEn ?? '{}');
-  const t: Record<string, string | string[]> =
-    JSON.parse((root as HTMLElement).dataset.t ?? '{}');
+    JSON.parse(root.dataset.regions ?? '[]');
+  const codeMapZh: Record<string, [string, string]> = JSON.parse(root.dataset.codemapZh ?? '{}');
+  const codeMapEn: Record<string, [string, string]> = JSON.parse(root.dataset.codemapEn ?? '{}');
+  const t: Record<string, string | string[]> = JSON.parse(root.dataset.t ?? '{}');
 
   const codeMap = isEn ? codeMapEn : codeMapZh;
 
@@ -386,7 +360,7 @@ const codeMapEn: Record<string, [string, string]> = {
     if (codeMap[key]) return codeMap[key];
     const fallbacks: [number, string][] = [[3,'3'],[48,'48'],[55,'55'],[65,'65'],[82,'82'],[95,'95']];
     for (const [max, k] of fallbacks) {
-      if (code <= max) return codeMap[k] ?? ['--','🌡️'];
+      if (code <= max) return codeMap[k] ?? ['--', '🌡️'];
     }
     return ['--', '🌡️'];
   }
@@ -394,8 +368,9 @@ const codeMapEn: Record<string, [string, string]> = {
   function formatTime(iso: string): string {
     try {
       const d = new Date(iso.replace('T', ' ') + '+08:00');
-      const locale = isEn ? 'en-US' : 'zh-TW';
-      return d.toLocaleTimeString(locale, { hour: '2-digit', minute: '2-digit', hour12: false }) + ' WITA';
+      return d.toLocaleTimeString(isEn ? 'en-US' : 'zh-TW', {
+        hour: '2-digit', minute: '2-digit', hour12: false,
+      }) + ' WITA';
     } catch { return iso; }
   }
 
@@ -406,75 +381,139 @@ const codeMapEn: Record<string, [string, string]> = {
     return days[d.getDay()];
   }
 
-  function q(id: string): HTMLElement | null {
-    return document.getElementById(id);
+  // 從 hourly 資料取某時段的主要天氣狀況
+  function getPeriodInfo(
+    hourlyTime: string[],
+    hourlyCode: number[],
+    hourlyPrecipProb: number[],
+    hourlyTemp: number[],
+    todayDate: string,
+    startHour: number,
+    endHour: number,
+  ): { desc: string; icon: string; precipPct: number; avgTemp: number } {
+    const idxs: number[] = [];
+    hourlyTime.forEach((t, i) => {
+      if (!t.startsWith(todayDate)) return;
+      const h = parseInt(t.slice(11, 13));
+      if (h >= startHour && h < endHour) idxs.push(i);
+    });
+    if (!idxs.length) return { desc: '--', icon: '🌡️', precipPct: 0, avgTemp: 0 };
+
+    // 取 worst weather code (最大值 = 最惡劣)
+    const worstCode = Math.max(...idxs.map(i => hourlyCode[i]));
+    const [desc, icon] = getDesc(worstCode);
+    const precipPct = Math.round(Math.max(...idxs.map(i => hourlyPrecipProb[i] ?? 0)));
+    const avgTemp = Math.round(idxs.reduce((s, i) => s + hourlyTemp[i], 0) / idxs.length);
+    return { desc, icon, precipPct, avgTemp };
   }
 
-  const cache: Record<string, { ts: number; data: any }> = {};
+  function buildSummary(
+    hourlyTime: string[],
+    hourlyCode: number[],
+    hourlyPrecipProb: number[],
+    hourlyTemp: number[],
+    todayDate: string,
+    todayHi: number,
+    todayLo: number,
+  ): string {
+    const day = getPeriodInfo(hourlyTime, hourlyCode, hourlyPrecipProb, hourlyTemp, todayDate, 7, 18);
+    const night = getPeriodInfo(hourlyTime, hourlyCode, hourlyPrecipProb, hourlyTemp, todayDate, 18, 24);
+
+    if (isEn) {
+      return (
+        `Daytime: ${day.icon} ${day.desc}, ${todayLo}–${todayHi}°C` +
+        (day.precipPct > 10 ? `, ${day.precipPct}% chance of rain` : '') +
+        `. Tonight: ${night.icon} ${night.desc}, around ${night.avgTemp}°C` +
+        (night.precipPct > 10 ? `, ${night.precipPct}% chance of rain` : '') +
+        `.`
+      );
+    }
+    return (
+      `今天白天：${day.icon} ${day.desc}，氣溫 ${todayLo}–${todayHi}°C` +
+      (day.precipPct > 10 ? `，降雨機率 ${day.precipPct}%` : '') +
+      `。入夜後：${night.icon} ${night.desc}，約 ${night.avgTemp}°C` +
+      (night.precipPct > 10 ? `，降雨機率 ${night.precipPct}%` : '') +
+      `。`
+    );
+  }
+
+  function q(id: string): HTMLElement | null { return document.getElementById(id); }
+
+  const cache: Record<string, { ts: number; data: unknown }> = {};
   let currentRegion = regions[0];
 
   async function fetchWeather(region: typeof regions[0]) {
-    const cacheKey = region.id;
     const now = Date.now();
-    if (cache[cacheKey] && now - cache[cacheKey].ts < 10 * 60 * 1000) {
-      return cache[cacheKey].data;
+    if (cache[region.id] && now - cache[region.id].ts < 10 * 60 * 1000) {
+      return cache[region.id].data;
     }
     const url =
       `https://api.open-meteo.com/v1/forecast` +
       `?latitude=${region.lat}&longitude=${region.lon}` +
       `&current=temperature_2m,relative_humidity_2m,weather_code,wind_speed_10m,precipitation` +
       `&daily=temperature_2m_max,temperature_2m_min,weather_code,precipitation_sum` +
-      `&timezone=Asia%2FMakassar&forecast_days=6`;
+      `&hourly=temperature_2m,weather_code,precipitation_probability` +
+      `&timezone=Asia%2FMakassar&forecast_days=7`;
     const res = await fetch(url);
     const data = await res.json();
-    cache[cacheKey] = { ts: now, data };
+    cache[region.id] = { ts: now, data };
     return data;
   }
 
   async function render(region: typeof regions[0]) {
     root.classList.add('bw-loading');
-
-    // update region name
     const nameEl = q('bw-region-name');
     if (nameEl) nameEl.textContent = isEn ? region.en : region.zh;
-
-    // reset displays
-    const condEl = q('bw-condition');
-    if (condEl) condEl.textContent = t.loading as string;
+    const condEl0 = q('bw-condition');
+    if (condEl0) condEl0.textContent = t.loading as string;
+    const summaryEl = q('bw-summary-text');
+    if (summaryEl) summaryEl.textContent = '';
 
     try {
-      const data = await fetchWeather(region);
+      const data: any = await fetchWeather(region);
       const c = data.current;
       const daily = data.daily;
+      const hourly = data.hourly;
 
       // current
       const [desc, icon] = getDesc(c.weather_code);
-      const tempEl = q('bw-temp'); if (tempEl) tempEl.textContent = Math.round(c.temperature_2m).toString();
-      const condEl2 = q('bw-condition'); if (condEl2) condEl2.textContent = desc;
+      const set = (id: string, v: string) => { const el = q(id); if (el) el.textContent = v; };
+      set('bw-temp', Math.round(c.temperature_2m).toString());
+      set('bw-condition', desc);
       const iconEl = q('bw-icon'); if (iconEl) iconEl.textContent = icon;
-      const humEl = q('bw-humidity'); if (humEl) humEl.textContent = c.relative_humidity_2m + '%';
-      const windEl = q('bw-wind'); if (windEl) windEl.textContent = c.wind_speed_10m + ' km/h';
-      const precipEl = q('bw-precip'); if (precipEl) precipEl.textContent = c.precipitation + ' mm';
-      const timeEl = q('bw-time'); if (timeEl) timeEl.textContent = formatTime(c.time);
+      set('bw-humidity', c.relative_humidity_2m + '%');
+      set('bw-wind', c.wind_speed_10m + ' km/h');
+      set('bw-precip', c.precipitation + ' mm');
+      set('bw-time', formatTime(c.time));
 
-      // forecast — skip index 0 (today already shown), show days 0-4
-      for (let i = 0; i < 5; i++) {
-        const di = i; // show today + 4 days
-        const nameEl2 = q(`bw-fname-${i}`);
-        const iconEl2 = q(`bw-ficon-${i}`);
-        const precipEl2 = q(`bw-fprecip-${i}`);
-        const hiEl = q(`bw-fhi-${i}`);
-        const loEl = q(`bw-flo-${i}`);
+      // 今日概況
+      if (summaryEl && daily.time[0]) {
+        summaryEl.textContent = buildSummary(
+          hourly.time,
+          hourly.weather_code,
+          hourly.precipitation_probability,
+          hourly.temperature_2m,
+          daily.time[0],
+          Math.round(daily.temperature_2m_max[0]),
+          Math.round(daily.temperature_2m_min[0]),
+        );
+      }
 
-        if (!daily.time[di]) continue;
-        const [fdesc, ficon] = getDesc(daily.weather_code[di]);
-
-        if (nameEl2) nameEl2.textContent = getDayName(daily.time[di], di);
-        if (iconEl2) iconEl2.textContent = ficon;
-        if (iconEl2) iconEl2.title = fdesc;
-        if (precipEl2) precipEl2.textContent = (daily.precipitation_sum[di] ?? 0).toFixed(1) + 'mm';
-        if (hiEl) hiEl.textContent = Math.round(daily.temperature_2m_max[di]) + '°';
-        if (loEl) loEl.textContent = Math.round(daily.temperature_2m_min[di]) + '°';
+      // 7天預報
+      for (let i = 0; i < 7; i++) {
+        if (!daily.time[i]) continue;
+        const [, ficon] = getDesc(daily.weather_code[i]);
+        const fdayEl = q(`bw-fday-${i}`);
+        if (fdayEl) {
+          if (i === 0) fdayEl.classList.add('is-today');
+          else fdayEl.classList.remove('is-today');
+        }
+        set(`bw-fname-${i}`, getDayName(daily.time[i], i));
+        const fi = q(`bw-ficon-${i}`);
+        if (fi) { fi.textContent = ficon; fi.title = getDesc(daily.weather_code[i])[0]; }
+        set(`bw-fprecip-${i}`, (daily.precipitation_sum[i] ?? 0).toFixed(1) + 'mm');
+        set(`bw-fhi-${i}`, Math.round(daily.temperature_2m_max[i]) + '°');
+        set(`bw-flo-${i}`, Math.round(daily.temperature_2m_min[i]) + '°');
       }
     } catch {
       const condElErr = q('bw-condition');
@@ -484,14 +523,13 @@ const codeMapEn: Record<string, [string, string]> = {
     }
   }
 
-  // 區域按鈕點擊
+  // 區域切換
   const bar = document.getElementById('bw-region-bar');
   if (bar) {
     bar.addEventListener('click', (e) => {
       const btn = (e.target as HTMLElement).closest('.bw-region-btn') as HTMLElement | null;
       if (!btn) return;
-      const id = btn.dataset.id;
-      const region = regions.find(r => r.id === id);
+      const region = regions.find(r => r.id === btn.dataset.id);
       if (!region || region.id === currentRegion.id) return;
       currentRegion = region;
       bar.querySelectorAll('.bw-region-btn').forEach(b => b.classList.remove('active'));
