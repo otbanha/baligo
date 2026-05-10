@@ -440,12 +440,16 @@ const socialLinks = [
 
         <!-- 峇里島即時 Live Cam -->
         <div class="livecam-section" id="livecam-section">
-          <h2 class="livecam-heading">🎥 峇里島即時現場</h2>
-          <p class="livecam-sub">看看現在峇里島的天氣和海況</p>
+          <div class="livecam-header">
+            <h2 class="livecam-heading">🎥 峇里島即時現場</h2>
+            <p class="livecam-sub">看看現在峇里島的天氣和海況</p>
+          </div>
           <div class="livecam-player" id="livecam-player"></div>
-          <div class="livecam-footer">
-            <button class="livecam-switch-btn" id="livecam-switch">📡 畫面無法載入？試試其他鏡頭</button>
-            <span class="livecam-counter" id="livecam-counter">鏡頭 1 / 4</span>
+          <div class="livecam-links">
+            <span class="livecam-links-label">其他即時鏡頭 →</span>
+            <a href="https://www.youtube.com/watch?v=Sv5NSQ2A1RU" target="_blank" rel="noopener" class="lc-link">🏖️ 金巴蘭海灘</a>
+            <a href="https://www.youtube.com/watch?v=x28S0imVkU0" target="_blank" rel="noopener" class="lc-link">🏄 長谷海灘</a>
+            <a href="https://www.youtube.com/watch?v=9yT659mJKR4" target="_blank" rel="noopener" class="lc-link">🌊 烏魯瓦圖海灘</a>
           </div>
         </div>
 
@@ -1364,23 +1368,22 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   box-sizing: border-box;
   width: 100%;
   background: #1a1a2e;
-  border-radius: 14px;
-  padding: 1.5em 1.5em 1.2em;
-  margin: 2em 0 1.5em;
-  border: 1px solid rgba(201,168,76,0.3);
-  box-shadow: 0 4px 24px rgba(0,0,0,0.35);
+  border-radius: 10px;
+  padding: 1em 1.2em 0.9em;
+  margin: 1.2em 0 1em;
+  border: 1px solid rgba(201,168,76,0.25);
 }
+.livecam-header { margin-bottom: 0.7em; }
 .livecam-heading {
-  font-size: 1.1em;
-  font-weight: 800;
+  font-size: 0.95em;
+  font-weight: 700;
   color: #C9A84C;
-  margin: 0 0 0.25em;
-  letter-spacing: 0.03em;
+  margin: 0 0 0.15em;
 }
 .livecam-sub {
-  font-size: 0.82em;
-  color: rgba(255,255,255,0.55);
-  margin: 0 0 1em;
+  font-size: 0.76em;
+  color: rgba(255,255,255,0.45);
+  margin: 0;
 }
 .livecam-player {
   position: relative;
@@ -1388,9 +1391,9 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   max-width: 720px;
   aspect-ratio: 16/9;
   background: #0d0d1a;
-  border-radius: 8px;
+  border-radius: 6px;
   overflow: hidden;
-  border: 1px solid rgba(201,168,76,0.2);
+  border: 1px solid rgba(201,168,76,0.15);
 }
 .livecam-player iframe {
   position: absolute;
@@ -1399,77 +1402,58 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
   height: 100%;
   border: none;
 }
-.livecam-footer {
+.livecam-links {
   display: flex;
   align-items: center;
-  gap: 0.8em;
-  margin-top: 0.6em;
   flex-wrap: wrap;
+  gap: 0.45em;
+  margin-top: 0.6em;
 }
-.livecam-switch-btn {
-  background: rgba(255,255,255,0.08);
-  border: 1px solid rgba(255,255,255,0.15);
-  border-radius: 20px;
-  color: rgba(255,255,255,0.55);
-  font-size: 0.75em;
-  padding: 0.35em 0.9em;
-  cursor: pointer;
-  font-family: inherit;
-  transition: background 0.15s, color 0.15s;
-}
-.livecam-switch-btn:hover { background: rgba(255,255,255,0.14); color: rgba(255,255,255,0.85); }
-.livecam-counter {
+.livecam-links-label {
   font-size: 0.72em;
-  color: rgba(255,255,255,0.3);
+  color: rgba(255,255,255,0.35);
+  white-space: nowrap;
 }
+.lc-link {
+  display: inline-block;
+  background: #2a2a3e;
+  color: #C9A84C;
+  font-size: 0.75em;
+  font-weight: 600;
+  padding: 0.3em 0.8em;
+  border-radius: 20px;
+  border: 1px solid transparent;
+  text-decoration: none;
+  transition: border-color 0.15s;
+  white-space: nowrap;
+}
+.lc-link:hover { border-color: #C9A84C; }
 @media (max-width: 600px) {
-  .livecam-section { padding: 1em 1em 0.9em; border-radius: 10px; }
-  .livecam-heading { font-size: 1em; }
+  .livecam-section { padding: 0.8em 0.9em 0.75em; }
 }
 </style>
 <script is:inline>
 (function () {
-  var CAMS = [
-    'L1duJDAqbJY',
-    'Sv5NSQ2A1RU',
-    'x28S0imVkU0',
-    '9yT659mJKR4',
-  ];
-  var currentIndex = 0;
   var loaded = false;
-
-  function loadCam(index) {
-    var player = document.getElementById('livecam-player');
-    var counter = document.getElementById('livecam-counter');
-    if (!player) return;
-    player.innerHTML = '';
-    var iframe = document.createElement('iframe');
-    iframe.src = 'https://www.youtube.com/embed/' + CAMS[index] + '?autoplay=1&mute=1';
-    iframe.title = '峇里島即時現場';
-    iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
-    iframe.allowFullscreen = true;
-    player.appendChild(iframe);
-    if (counter) counter.textContent = '鏡頭 ' + (index + 1) + ' / ' + CAMS.length;
-  }
 
   function init() {
     var section = document.getElementById('livecam-section');
-    var btn = document.getElementById('livecam-switch');
-    if (!section || !btn) return;
+    var player = document.getElementById('livecam-player');
+    if (!section || !player) return;
 
     var observer = new IntersectionObserver(function (entries) {
       if (entries[0].isIntersecting && !loaded) {
         loaded = true;
-        loadCam(currentIndex);
+        var iframe = document.createElement('iframe');
+        iframe.src = 'https://www.youtube.com/embed/L1duJDAqbJY?autoplay=1&mute=1';
+        iframe.title = '峇里島即時現場';
+        iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+        iframe.allowFullscreen = true;
+        player.appendChild(iframe);
         observer.disconnect();
       }
     }, { threshold: 0.3 });
     observer.observe(section);
-
-    btn.addEventListener('click', function () {
-      currentIndex = (currentIndex + 1) % CAMS.length;
-      loadCam(currentIndex);
-    });
   }
 
   if (document.readyState === 'loading') {
