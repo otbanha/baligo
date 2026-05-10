@@ -495,9 +495,7 @@ const socialLinks = [
           <p class="livecam-sub">看看現在峇里島的天氣和海況</p>
         </div>
         <div class="livecam-row">
-          <div class="livecam-main">
-            <div class="livecam-player" id="livecam-player"></div>
-          </div>
+          <div class="livecam-main" id="livecam-player"></div>
           <div class="livecam-aside">
             <p class="livecam-coming">Coming soon</p>
           </div>
@@ -1392,23 +1390,11 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 }
 .livecam-main {
   aspect-ratio: 16/9;
-  border-radius: 8px;
+  position: relative;
   overflow: hidden;
+  border-radius: 8px;
   background: #0d0d1a;
   border: 1px solid rgba(201,168,76,0.2);
-  position: relative;
-}
-.livecam-player {
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  inset: 0;
-}
-.livecam-player iframe {
-  width: 100%;
-  height: 100%;
-  border: none;
-  display: block;
 }
 .livecam-aside {
   aspect-ratio: 16/9;
@@ -1473,6 +1459,8 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
         iframe.title = '峇里島即時現場';
         iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
         iframe.allowFullscreen = true;
+        // inline styles bypass Astro CSS scoping on dynamic elements
+        iframe.style.cssText = 'position:absolute;top:0;left:0;width:100%;height:100%;border:none;display:block;';
         player.appendChild(iframe);
         observer.disconnect();
       }
