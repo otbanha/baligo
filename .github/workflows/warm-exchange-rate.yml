@@ -1,0 +1,26 @@
+name: 匯率 Cache 暖機
+
+on:
+  schedule:
+    # 每天 09:00–16:00 Bali time (WITA = UTC+8)，每兩小時執行一次
+    - cron: '0 1 * * *'   # 09:00 Bali
+    - cron: '0 3 * * *'   # 11:00 Bali
+    - cron: '0 5 * * *'   # 13:00 Bali
+    - cron: '0 7 * * *'   # 15:00 Bali
+  workflow_dispatch:
+
+jobs:
+  warm-cache:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 呼叫匯率 API 暖機 cache
+        run: |
+          echo "觸發時間（UTC）：$(date -u)"
+          echo "峇里時間（WITA UTC+8）：$(TZ='Asia/Makassar' date)"
+          STATUS=$(curl -s -o /dev/null -w "%{http_code}" \
+            "https://gobaligo.id/api/exchange-rate")
+          echo "API 回應狀態：$STATUS"
+          if [ "$STATUS" != "200" ]; then
+            echo "警告：API 回應非 200，請檢查匯率服務"
+            exit 1
+          fi
