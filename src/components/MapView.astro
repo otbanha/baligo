@@ -194,7 +194,7 @@ const { area } = Astro.props;
 
   /* Search bar */
   #search-bar {
-    position: absolute; top: 12px; left: 12px;
+    position: absolute; top: 12px; right: 12px;
     display: flex; align-items: center; gap: 6px;
     background: #fff; border-radius: 24px; padding: 7px 12px;
     box-shadow: 0 2px 12px rgba(0,0,0,0.18);
@@ -202,8 +202,9 @@ const { area } = Astro.props;
     width: 44px; /* collapsed: just icon */
     overflow: hidden;
     transition: width 0.25s ease;
+    flex-direction: row-reverse;
   }
-  #search-bar.open { width: min(260px, calc(100vw - 80px)); }
+  #search-bar.open { width: min(260px, calc(100vw - 80px)); flex-direction: row; }
   [data-dark] #search-bar { background: #2a2a2a; box-shadow: 0 2px 12px rgba(0,0,0,0.5); }
   #search-icon { font-size: 18px; line-height: 1; flex-shrink: 0; cursor: pointer; }
   #search-input {
