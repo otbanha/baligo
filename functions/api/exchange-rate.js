@@ -61,7 +61,7 @@ async function fetchFromBI() {
       if (match) rates[code] = Math.round(parseFloat(match[1].replace(/,/g, '')));
     }
     if (Object.keys(rates).length >= 4) {
-      return { rates, date: getBaliDateStr() };
+      return { rates, date: getBaliDateStr(), source: 'BI-kurs_beli' };
     }
   }
   return null;
@@ -83,7 +83,7 @@ async function fetchFromCurrencyAPI() {
       rates[code.toUpperCase()] = Math.round(1 / rate);
     }
   }
-  return Object.keys(rates).length >= 4 ? { rates, date: data.date || getBaliDateStr() } : null;
+  return Object.keys(rates).length >= 4 ? { rates, date: data.date || getBaliDateStr(), source: 'currency-api' } : null;
 }
 
 export async function onRequest(context) {
@@ -112,7 +112,7 @@ export async function onRequest(context) {
     if (!result) throw new Error('All exchange rate sources unavailable');
 
     const ttl = secondsUntilNextUpdate();
-    const body = JSON.stringify({ date: result.date, rates: result.rates, source: 'currency-api' });
+    const body = JSON.stringify({ date: result.date, rates: result.rates, source: result.source });
 
     context.waitUntil(
       cache.put(cacheKey, new Response(body, {
