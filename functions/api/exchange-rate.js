@@ -22,7 +22,12 @@ function getBaliDateStr(daysBack = 0) {
 // 向 Bank Indonesia 官方 API 抓指定日期的 kurs tengah（中間匯率）
 async function fetchBIRates(dateStr) {
   const url = `https://www.bi.go.id/biwebservice/wskursbi.asmx/getCursBI?mts=${dateStr}`;
-  const res = await fetch(url);
+  const res = await fetch(url, {
+    headers: {
+      'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1)',
+      'Accept': 'text/xml, application/xml, */*',
+    },
+  });
   if (!res.ok) return null;
   const xml = await res.text();
 
