@@ -84,7 +84,7 @@ export async function onRequest(context) {
     const cache = caches.default;
     const slot = getCacheSlot();
     const cacheKey = new Request(
-      new URL(`/api/exchange-rate?v=2&s=${slot}`, context.request.url).toString()
+      new URL(`/api/exchange-rate?v=3&s=${slot}`, context.request.url).toString()
     );
 
     const cached = await cache.match(cacheKey);
