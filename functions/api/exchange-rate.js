@@ -1,12 +1,30 @@
-// 峇里島時間 = UTC+8，每天更新
-function secondsUntilNext11amBali() {
+// 每天兩次更新：10:00 Bali (02:00 UTC) 和 17:00 Bali (09:00 UTC)
+function secondsUntilNextUpdate() {
   const now = new Date();
+  const h = now.getUTCHours();
   const next = new Date(now);
-  next.setUTCHours(3, 0, 0, 0);
-  if (now.getUTCHours() >= 3) {
-    next.setUTCDate(next.getUTCDate() + 1);
+  if (h < 2) {
+    next.setUTCHours(2, 0, 0, 0);           // 今天 10:00 Bali
+  } else if (h < 9) {
+    next.setUTCHours(9, 0, 0, 0);           // 今天 17:00 Bali
+  } else {
+    next.setUTCDate(next.getUTCDate() + 1);  // 明天 10:00 Bali
+    next.setUTCHours(2, 0, 0, 0);
   }
   return Math.max(60, Math.floor((next - now) / 1000));
+}
+
+// cache key 時段：am = 10:00–17:00 Bali，pm = 17:00–隔日10:00 Bali
+function getCacheSlot() {
+  const h = new Date().getUTCHours();
+  const ms = Date.now() + 8 * 3600 * 1000;
+  const d = new Date(ms);
+  const date = `${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, '0')}-${String(d.getUTCDate()).padStart(2, '0')}`;
+  if (h >= 2 && h < 9) return `${date}-am`;  // 10:00–17:00 Bali
+  if (h >= 9) return `${date}-pm`;            // 17:00+ Bali
+  // 00:00–02:00 UTC = 08:00–10:00 Bali，仍屬前一天 pm 時段
+  const prev = new Date(ms - 86400 * 1000);
+  return `${prev.getUTCFullYear()}-${String(prev.getUTCMonth() + 1).padStart(2, '0')}-${String(prev.getUTCDate()).padStart(2, '0')}-pm`;
 }
 
 function getBaliDateStr() {
@@ -71,9 +89,9 @@ async function fetchFromBI() {
 export async function onRequest(context) {
   try {
     const cache = caches.default;
-    const todayBali = getBaliDateStr();
+    const slot = getCacheSlot();
     const cacheKey = new Request(
-      new URL(`/api/exchange-rate?d=${todayBali}`, context.request.url).toString()
+      new URL(`/api/exchange-rate?s=${slot}`, context.request.url).toString()
     );
 
     const cached = await cache.match(cacheKey);
@@ -93,7 +111,7 @@ export async function onRequest(context) {
     const result = await fetchFromCurrencyAPI() || await fetchFromBI();
     if (!result) throw new Error('All exchange rate sources unavailable');
 
-    const ttl = secondsUntilNext11amBali();
+    const ttl = secondsUntilNextUpdate();
     const body = JSON.stringify({ date: result.date, rates: result.rates, source: 'currency-api' });
 
     context.waitUntil(
