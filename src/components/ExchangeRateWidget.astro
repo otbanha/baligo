@@ -2,29 +2,25 @@
 // ExchangeRateWidget.astro
 const { lang = 'zh-tw' } = Astro.props;
 
-const i18n: Record<string, { title: string; datePrefix: string; dateSuffix: string; disclaimer: string }> = {
+const i18n: Record<string, { title: string; datePrefix: string; disclaimer: string }> = {
   'zh-tw': {
     title: '💱 每日參考匯率',
-    datePrefix: '最新：',
-    dateSuffix: '（每日09:00–16:00每兩小時更新，週末/假日維持前一工作日）',
+    datePrefix: '最新更新：',
     disclaimer: '參考市場中間匯率，實際匯率以各換匯所為準',
   },
   'zh-hk': {
     title: '💱 每日參考匯率',
-    datePrefix: '最新：',
-    dateSuffix: '（每日09:00–16:00每兩小時更新，週末/假日維持前一工作日）',
+    datePrefix: '最新更新：',
     disclaimer: '參考市場中間匯率，實際匯率以各換匯所為準',
   },
   'zh-cn': {
     title: '💱 每日参考汇率',
-    datePrefix: '最新：',
-    dateSuffix: '（每日09:00–16:00每两小时更新，周末/节假日维持前一工作日）',
+    datePrefix: '最新更新：',
     disclaimer: '参考市场中间汇率，实际汇率以各换汇所为准',
   },
   'en': {
     title: '💱 Daily Exchange Rate',
-    datePrefix: 'Latest: ',
-    dateSuffix: ' (updated every 2h, 09:00–16:00 Bali time)',
+    datePrefix: 'Updated: ',
     disclaimer: 'Reference mid-market rate. Actual rates vary by money changer.',
   },
 };
@@ -43,7 +39,7 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   <p class="exr-disclaimer">{t.disclaimer}</p>
 </div>
 
-<script is:inline define:vars={{ datePrefix: t.datePrefix, dateSuffix: t.dateSuffix }}>
+<script is:inline define:vars={{ datePrefix: t.datePrefix }}>
 (function () {
   var CURRENCIES = [
     { code: 'USD', flag: '🇺🇸' },
@@ -65,7 +61,7 @@ const t = i18n[lang] ?? i18n['zh-tw'];
       var row = document.getElementById('exr-row');
       var dateEl = document.getElementById('exr-date');
       if (!row) return;
-      if (data.date && dateEl) dateEl.textContent = datePrefix + data.date + dateSuffix;
+      if (data.date && dateEl) dateEl.textContent = datePrefix + data.date;
       if (!data.rates) {
         row.innerHTML = '<span style="color:rgba(255,255,255,0.4);font-size:0.85em">—</span>';
         return;

@@ -46,13 +46,15 @@ function getCacheSlot() {
   return `${prev.getUTCFullYear()}-${String(prev.getUTCMonth() + 1).padStart(2, '0')}-${String(prev.getUTCDate()).padStart(2, '0')}-16`;
 }
 
-function getBaliDateStr() {
+function getBaliDateTimeStr() {
   const ms = Date.now() + 8 * 3600 * 1000;
   const d = new Date(ms);
   const y = d.getUTCFullYear();
-  const m = String(d.getUTCMonth() + 1).padStart(2, '0');
+  const mo = String(d.getUTCMonth() + 1).padStart(2, '0');
   const day = String(d.getUTCDate()).padStart(2, '0');
-  return `${y}-${m}-${day}`;
+  const h = String(d.getUTCHours()).padStart(2, '0');
+  const mi = String(d.getUTCMinutes()).padStart(2, '0');
+  return `${y}-${mo}-${day} ${h}:${mi}`;
 }
 
 // 唯一來源：currency-api 市場中間價，扣除固定值後顯示
@@ -73,7 +75,7 @@ async function fetchRates() {
     }
   }
   return Object.keys(rates).length >= 4
-    ? { rates, date: data.date || getBaliDateStr() }
+    ? { rates, date: getBaliDateTimeStr() }
     : null;
 }
 
@@ -82,7 +84,7 @@ export async function onRequest(context) {
     const cache = caches.default;
     const slot = getCacheSlot();
     const cacheKey = new Request(
-      new URL(`/api/exchange-rate?s=${slot}`, context.request.url).toString()
+      new URL(`/api/exchange-rate?v=2&s=${slot}`, context.request.url).toString()
     );
 
     const cached = await cache.match(cacheKey);
