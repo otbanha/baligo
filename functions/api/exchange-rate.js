@@ -2,11 +2,43 @@
 function secondsUntilNext10amBali() {
   const now = new Date();
   const next = new Date(now);
-  next.setUTCHours(2, 0, 0, 0); // 02:00 UTC = 10:00 AM WITA
+  next.setUTCHours(2, 0, 0, 0);
   if (now.getUTCHours() >= 2) {
-    next.setUTCDate(next.getUTCDate() + 1); // 已過今天 10am → 等明天
+    next.setUTCDate(next.getUTCDate() + 1);
   }
   return Math.max(60, Math.floor((next - now) / 1000));
+}
+
+// 取得峇里島日期字串（往回 daysBack 天），回傳 { str: 'YYYYMMDD', display: 'YYYY-MM-DD' }
+function getBaliDateStr(daysBack = 0) {
+  const ms = Date.now() + 8 * 3600 * 1000 - daysBack * 86400 * 1000;
+  const d = new Date(ms);
+  const y = d.getUTCFullYear();
+  const m = String(d.getUTCMonth() + 1).padStart(2, '0');
+  const day = String(d.getUTCDate()).padStart(2, '0');
+  return { str: `${y}${m}${day}`, display: `${y}-${m}-${day}` };
+}
+
+// 向 Bank Indonesia 官方 API 抓指定日期的 kurs tengah（中間匯率）
+async function fetchBIRates(dateStr) {
+  const url = `https://www.bi.go.id/biwebservice/wskursbi.asmx/getCursBI?mts=${dateStr}`;
+  const res = await fetch(url);
+  if (!res.ok) return null;
+  const xml = await res.text();
+
+  const CODES = ['USD', 'AUD', 'SGD', 'HKD', 'MYR', 'CNY'];
+  const rates = {};
+  for (const code of CODES) {
+    const re = new RegExp(
+      `<nm_kurs>\\s*${code}\\s*<\\/nm_kurs>[\\s\\S]*?<kurs_tengah>([\\d,.]+)<\\/kurs_tengah>`,
+      'i'
+    );
+    const match = xml.match(re);
+    if (match) {
+      rates[code] = Math.round(parseFloat(match[1].replace(/,/g, '')));
+    }
+  }
+  return Object.keys(rates).length >= 4 ? rates : null;
 }
 
 export async function onRequest(context) {
@@ -19,32 +51,24 @@ export async function onRequest(context) {
 
     const cached = await cache.match(cacheKey);
     if (cached) {
-      // 直接回傳 edge cache 結果（加上 CORS header）
       const headers = new Headers(cached.headers);
       headers.set('Access-Control-Allow-Origin', '*');
       headers.set('X-Cache', 'HIT');
       return new Response(cached.body, { headers });
     }
 
-    // ── Cache miss：向 Frankfurter 抓最新匯率 ──
-    const res = await fetch(
-      'https://api.frankfurter.dev/v1/latest?base=USD&symbols=IDR,AUD,SGD,HKD,MYR,CNY'
-    );
-    if (!res.ok) throw new Error('upstream error');
-    const data = await res.json();
-
-    const { IDR, AUD, SGD, HKD, MYR, CNY } = data.rates;
-    const rates = {
-      USD: Math.round(IDR - 500),
-      AUD: Math.round(IDR / AUD - 370),
-      SGD: Math.round(IDR / SGD - 500),
-      HKD: Math.round(IDR / HKD - 200),
-      MYR: Math.round(IDR / MYR - 480),
-      CNY: Math.round(IDR / CNY - 150),
-    };
+    // ── Cache miss：向 Bank Indonesia 抓最新匯率（週末/假日往回找最多 5 天）──
+    let rates = null;
+    let dateDisplay = '';
+    for (let i = 0; i <= 5; i++) {
+      const { str, display } = getBaliDateStr(i);
+      rates = await fetchBIRates(str);
+      if (rates) { dateDisplay = display; break; }
+    }
+    if (!rates) throw new Error('BI API unavailable');
 
     const ttl = secondsUntilNext10amBali();
-    const body = JSON.stringify({ date: data.date, rates });
+    const body = JSON.stringify({ date: dateDisplay, rates, source: 'Bank Indonesia' });
     const headers = {
       'Content-Type': 'application/json',
       'Access-Control-Allow-Origin': '*',
@@ -53,7 +77,6 @@ export async function onRequest(context) {
       'X-TTL': String(ttl),
     };
 
-    // 存入 edge cache（到下一個峇里島 10:00 AM 過期）
     context.waitUntil(
       cache.put(cacheKey, new Response(body, { headers }))
     );
