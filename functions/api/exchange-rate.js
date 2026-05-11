@@ -57,10 +57,16 @@ export async function onRequest(context) {
 
     const cached = await cache.match(cacheKey);
     if (cached) {
-      const headers = new Headers(cached.headers);
-      headers.set('Access-Control-Allow-Origin', '*');
-      headers.set('X-Cache', 'HIT');
-      return new Response(cached.body, { headers });
+      const body = await cached.text();
+      // 回傳給瀏覽器時加 max-age=0，避免瀏覽器自行快取
+      return new Response(body, {
+        headers: {
+          'Content-Type': 'application/json',
+          'Access-Control-Allow-Origin': '*',
+          'Cache-Control': 'public, max-age=0, s-maxage=3600',
+          'X-Cache': 'HIT',
+        },
+      });
     }
 
     // ── Cache miss：向 Bank Indonesia 抓最新匯率（週末/假日往回找最多 5 天）──
@@ -75,23 +81,35 @@ export async function onRequest(context) {
 
     const ttl = secondsUntilNext11amBali();
     const body = JSON.stringify({ date: dateDisplay, rates, source: 'Bank Indonesia' });
-    const headers = {
-      'Content-Type': 'application/json',
-      'Access-Control-Allow-Origin': '*',
-      'Cache-Control': `public, max-age=0, s-maxage=${ttl}`,
-      'X-Cache': 'MISS',
-      'X-TTL': String(ttl),
-    };
 
+    // 存入 edge cache 時用完整 TTL（s-maxage），讓 Cloudflare 快取到次日 11:00 AM
     context.waitUntil(
-      cache.put(cacheKey, new Response(body, { headers }))
+      cache.put(cacheKey, new Response(body, {
+        headers: {
+          'Content-Type': 'application/json',
+          'Cache-Control': `public, max-age=${ttl}, s-maxage=${ttl}`,
+        },
+      }))
     );
 
-    return new Response(body, { headers });
+    // 回傳給瀏覽器時 max-age=0，強制每次重新向 Cloudflare 取值
+    return new Response(body, {
+      headers: {
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*',
+        'Cache-Control': `public, max-age=0, s-maxage=${ttl}`,
+        'X-Cache': 'MISS',
+        'X-TTL': String(ttl),
+      },
+    });
   } catch (e) {
     return new Response(JSON.stringify({ error: 'fetch failed' }), {
       status: 500,
-      headers: { 'Content-Type': 'application/json' },
+      headers: {
+        'Content-Type': 'application/json',
+        'Access-Control-Allow-Origin': '*',
+        'Cache-Control': 'no-store',
+      },
     });
   }
 }
