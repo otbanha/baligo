@@ -1,30 +1,43 @@
-// 每天兩次更新：10:00 Bali (02:00 UTC) 和 16:00 Bali (08:00 UTC)
+// 每天 09:00–16:00 Bali 每 2 小時更新一次（09/11/13/15/16）
+// UTC 對應：01/03/05/07/08
+const SLOTS = [
+  { utc: 1,  label: '09' },  // 09:00 Bali
+  { utc: 3,  label: '11' },  // 11:00 Bali
+  { utc: 5,  label: '13' },  // 13:00 Bali
+  { utc: 7,  label: '15' },  // 15:00 Bali
+  { utc: 8,  label: '16' },  // 16:00 Bali（最後一次，持續到隔日09:00）
+];
+
 function secondsUntilNextUpdate() {
   const now = new Date();
   const h = now.getUTCHours();
   const next = new Date(now);
-  if (h < 2) {
-    next.setUTCHours(2, 0, 0, 0);           // 今天 10:00 Bali
-  } else if (h < 8) {
-    next.setUTCHours(8, 0, 0, 0);           // 今天 16:00 Bali
+  const nextSlot = SLOTS.find(s => s.utc > h);
+  if (nextSlot) {
+    next.setUTCHours(nextSlot.utc, 0, 0, 0);
   } else {
-    next.setUTCDate(next.getUTCDate() + 1);  // 明天 10:00 Bali
-    next.setUTCHours(2, 0, 0, 0);
+    // 已過 16:00 Bali，等到明天 09:00 Bali (01:00 UTC)
+    next.setUTCDate(next.getUTCDate() + 1);
+    next.setUTCHours(1, 0, 0, 0);
   }
   return Math.max(60, Math.floor((next - now) / 1000));
 }
 
-// cache key 時段：am = 10:00–16:00 Bali，pm = 16:00–隔日10:00 Bali
+// cache key = 日期 + 時段標籤
 function getCacheSlot() {
   const h = new Date().getUTCHours();
   const ms = Date.now() + 8 * 3600 * 1000;
   const d = new Date(ms);
   const date = `${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, '0')}-${String(d.getUTCDate()).padStart(2, '0')}`;
-  if (h >= 2 && h < 8) return `${date}-am`;  // 10:00–16:00 Bali
-  if (h >= 8) return `${date}-pm`;            // 16:00+ Bali
-  // 00:00–02:00 UTC = 08:00–10:00 Bali，仍屬前一天 pm 時段
+  // 找目前所屬時段（最後一個 utc <= h 的 slot）
+  let label = null;
+  for (const s of SLOTS) {
+    if (h >= s.utc) label = s.label;
+  }
+  if (label) return `${date}-${label}`;
+  // h < 1（UTC）= 還未到 09:00 Bali，屬前一天 16 時段
   const prev = new Date(ms - 86400 * 1000);
-  return `${prev.getUTCFullYear()}-${String(prev.getUTCMonth() + 1).padStart(2, '0')}-${String(prev.getUTCDate()).padStart(2, '0')}-pm`;
+  return `${prev.getUTCFullYear()}-${String(prev.getUTCMonth() + 1).padStart(2, '0')}-${String(prev.getUTCDate()).padStart(2, '0')}-16`;
 }
 
 function getBaliDateStr() {
