@@ -2,34 +2,30 @@
 // ExchangeRateWidget.astro
 const { lang = 'zh-tw' } = Astro.props;
 
-const i18n: Record<string, { title: string; datePrefix: string; dateSuffix: string; disclaimerBI: string; disclaimerMid: string }> = {
+const i18n: Record<string, { title: string; datePrefix: string; dateSuffix: string; disclaimer: string }> = {
   'zh-tw': {
     title: '💱 每日參考匯率',
     datePrefix: '最新：',
-    dateSuffix: '（每日10:00、16:00更新，週末/假日維持前一工作日）',
-    disclaimerBI: '印尼央行銀行買價，實際匯率以各換匯所為準',
-    disclaimerMid: '市場中間匯率（央行資料暫不可用），實際匯率以各換匯所為準',
+    dateSuffix: '（每日09:00–16:00每兩小時更新，週末/假日維持前一工作日）',
+    disclaimer: '參考市場中間匯率，實際匯率以各換匯所為準',
   },
   'zh-hk': {
     title: '💱 每日參考匯率',
     datePrefix: '最新：',
-    dateSuffix: '（每日10:00、16:00更新，週末/假日維持前一工作日）',
-    disclaimerBI: '印尼央行銀行買價，實際匯率以各換匯所為準',
-    disclaimerMid: '市場中間匯率（央行資料暫不可用），實際匯率以各換匯所為準',
+    dateSuffix: '（每日09:00–16:00每兩小時更新，週末/假日維持前一工作日）',
+    disclaimer: '參考市場中間匯率，實際匯率以各換匯所為準',
   },
   'zh-cn': {
     title: '💱 每日参考汇率',
     datePrefix: '最新：',
-    dateSuffix: '（每日10:00、16:00更新，周末/节假日维持前一工作日）',
-    disclaimerBI: '印尼央行银行买价，实际汇率以各换汇所为准',
-    disclaimerMid: '市场中间汇率（央行数据暂不可用），实际汇率以各换汇所为准',
+    dateSuffix: '（每日09:00–16:00每两小时更新，周末/节假日维持前一工作日）',
+    disclaimer: '参考市场中间汇率，实际汇率以各换汇所为准',
   },
   'en': {
     title: '💱 Daily Exchange Rate',
     datePrefix: 'Latest: ',
-    dateSuffix: ' (updated 10:00 & 16:00 daily, weekends/holidays use prev. business day)',
-    disclaimerBI: 'Bank Indonesia buy rate. Actual rates vary by money changer.',
-    disclaimerMid: 'Mid-market rate (BI data unavailable). Actual rates vary by money changer.',
+    dateSuffix: ' (updated every 2h, 09:00–16:00 Bali time)',
+    disclaimer: 'Reference mid-market rate. Actual rates vary by money changer.',
   },
 };
 
@@ -44,10 +40,10 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   <div class="exr-grid" id="exr-row">
     <span class="exr-loading">{lang === 'en' ? 'Loading…' : '載入中…'}</span>
   </div>
-  <p class="exr-disclaimer" id="exr-disclaimer"></p>
+  <p class="exr-disclaimer">{t.disclaimer}</p>
 </div>
 
-<script is:inline define:vars={{ datePrefix: t.datePrefix, dateSuffix: t.dateSuffix, disclaimerBI: t.disclaimerBI, disclaimerMid: t.disclaimerMid }}>
+<script is:inline define:vars={{ datePrefix: t.datePrefix, dateSuffix: t.dateSuffix }}>
 (function () {
   var CURRENCIES = [
     { code: 'USD', flag: '🇺🇸' },
@@ -70,8 +66,6 @@ const t = i18n[lang] ?? i18n['zh-tw'];
       var dateEl = document.getElementById('exr-date');
       if (!row) return;
       if (data.date && dateEl) dateEl.textContent = datePrefix + data.date + dateSuffix;
-      var disclaimerEl = document.getElementById('exr-disclaimer');
-      if (disclaimerEl) disclaimerEl.textContent = data.source === 'BI-kurs_beli' ? disclaimerBI : disclaimerMid;
       if (!data.rates) {
         row.innerHTML = '<span style="color:rgba(255,255,255,0.4);font-size:0.85em">—</span>';
         return;

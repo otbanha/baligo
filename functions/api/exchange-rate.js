@@ -8,6 +8,16 @@ const SLOTS = [
   { utc: 8,  label: '16' },  // 16:00 Bali（最後一次，持續到隔日09:00）
 ];
 
+// 中間價扣除值（模擬換匯所買入價）
+const DEDUCTIONS = {
+  USD: 450,
+  AUD: 400,
+  SGD: 400,
+  MYR: 450,
+  HKD: 190,
+  CNY: 100,
+};
+
 function secondsUntilNextUpdate() {
   const now = new Date();
   const h = now.getUTCHours();
@@ -16,26 +26,22 @@ function secondsUntilNextUpdate() {
   if (nextSlot) {
     next.setUTCHours(nextSlot.utc, 0, 0, 0);
   } else {
-    // 已過 16:00 Bali，等到明天 09:00 Bali (01:00 UTC)
     next.setUTCDate(next.getUTCDate() + 1);
     next.setUTCHours(1, 0, 0, 0);
   }
   return Math.max(60, Math.floor((next - now) / 1000));
 }
 
-// cache key = 日期 + 時段標籤
 function getCacheSlot() {
   const h = new Date().getUTCHours();
   const ms = Date.now() + 8 * 3600 * 1000;
   const d = new Date(ms);
   const date = `${d.getUTCFullYear()}-${String(d.getUTCMonth() + 1).padStart(2, '0')}-${String(d.getUTCDate()).padStart(2, '0')}`;
-  // 找目前所屬時段（最後一個 utc <= h 的 slot）
   let label = null;
   for (const s of SLOTS) {
     if (h >= s.utc) label = s.label;
   }
   if (label) return `${date}-${label}`;
-  // h < 1（UTC）= 還未到 09:00 Bali，屬前一天 16 時段
   const prev = new Date(ms - 86400 * 1000);
   return `${prev.getUTCFullYear()}-${String(prev.getUTCMonth() + 1).padStart(2, '0')}-${String(prev.getUTCDate()).padStart(2, '0')}-16`;
 }
@@ -49,39 +55,8 @@ function getBaliDateStr() {
   return `${y}-${m}-${day}`;
 }
 
-// 主要來源：Bank Indonesia kurs_beli（銀行買價，較低）
-async function fetchFromBI() {
-  const ms = Date.now() + 8 * 3600 * 1000;
-  const d = new Date(ms);
-  const dateStr = `${d.getUTCFullYear()}${String(d.getUTCMonth() + 1).padStart(2, '0')}${String(d.getUTCDate()).padStart(2, '0')}`;
-
-  for (let i = 0; i <= 5; i++) {
-    const ds = String(Number(dateStr) - i).padStart(8, '0');
-    const url = `https://www.bi.go.id/biwebservice/wskursbi.asmx/getCursBI?mts=${ds}`;
-    const res = await fetch(url, {
-      headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1)',
-        'Accept': 'text/xml, application/xml, */*',
-      },
-    });
-    if (!res.ok) continue;
-    const xml = await res.text();
-    const CODES = ['USD', 'AUD', 'SGD', 'HKD', 'MYR', 'CNY'];
-    const rates = {};
-    for (const code of CODES) {
-      const re = new RegExp(`<nm_kurs>\\s*${code}\\s*<\\/nm_kurs>[\\s\\S]*?<kurs_beli>([\\d,.]+)<\\/kurs_beli>`, 'i');
-      const match = xml.match(re);
-      if (match) rates[code] = Math.round(parseFloat(match[1].replace(/,/g, '')));
-    }
-    if (Object.keys(rates).length >= 4) {
-      return { rates, date: getBaliDateStr(), source: 'BI-kurs_beli' };
-    }
-  }
-  return null;
-}
-
-// 備用來源：currency-api（Cloudflare Pages 託管，無 IP 限制，中間匯率）
-async function fetchFromCurrencyAPI() {
+// 唯一來源：currency-api 市場中間價，扣除固定值後顯示
+async function fetchRates() {
   const CODES = ['usd', 'aud', 'sgd', 'hkd', 'myr', 'cny'];
   const url = 'https://latest.currency-api.pages.dev/v1/currencies/idr.json';
   const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
@@ -91,12 +66,15 @@ async function fetchFromCurrencyAPI() {
 
   const rates = {};
   for (const code of CODES) {
-    const rate = data.idr[code];
-    if (rate && rate > 0) {
-      rates[code.toUpperCase()] = Math.round(1 / rate);
+    const mid = Math.round(1 / data.idr[code]);
+    if (mid > 0) {
+      const deduct = DEDUCTIONS[code.toUpperCase()] ?? 0;
+      rates[code.toUpperCase()] = Math.max(1, mid - deduct);
     }
   }
-  return Object.keys(rates).length >= 4 ? { rates, date: data.date || getBaliDateStr(), source: 'currency-api' } : null;
+  return Object.keys(rates).length >= 4
+    ? { rates, date: data.date || getBaliDateStr() }
+    : null;
 }
 
 export async function onRequest(context) {
@@ -120,12 +98,11 @@ export async function onRequest(context) {
       });
     }
 
-    // 先試 BI（有買/賣價），失敗再用 currency-api（中間匯率）
-    const result = await fetchFromBI() || await fetchFromCurrencyAPI();
-    if (!result) throw new Error('All exchange rate sources unavailable');
+    const result = await fetchRates();
+    if (!result) throw new Error('Exchange rate source unavailable');
 
     const ttl = secondsUntilNextUpdate();
-    const body = JSON.stringify({ date: result.date, rates: result.rates, source: result.source });
+    const body = JSON.stringify({ date: result.date, rates: result.rates });
 
     context.waitUntil(
       cache.put(cacheKey, new Response(body, {
