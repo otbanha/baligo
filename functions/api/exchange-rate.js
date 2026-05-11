@@ -94,7 +94,7 @@ export async function onRequest(context) {
         headers: {
           'Content-Type': 'application/json',
           'Access-Control-Allow-Origin': '*',
-          'Cache-Control': 'public, max-age=0, s-maxage=3600',
+          'Cache-Control': 'no-store',
           'X-Cache': 'HIT',
         },
       });
@@ -119,7 +119,7 @@ export async function onRequest(context) {
       headers: {
         'Content-Type': 'application/json',
         'Access-Control-Allow-Origin': '*',
-        'Cache-Control': `public, max-age=0, s-maxage=${ttl}`,
+        'Cache-Control': 'no-store',
         'X-Cache': 'MISS',
       },
     });
