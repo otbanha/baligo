@@ -78,7 +78,7 @@ export async function onRequest(context) {
     const headers = {
       'Content-Type': 'application/json',
       'Access-Control-Allow-Origin': '*',
-      'Cache-Control': `public, max-age=${ttl}, s-maxage=${ttl}`,
+      'Cache-Control': `public, max-age=0, s-maxage=${ttl}`,
       'X-Cache': 'MISS',
       'X-TTL': String(ttl),
     };
