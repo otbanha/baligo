@@ -1,9 +1,9 @@
-// 峇里島時間 = UTC+8，每天 10:00 AM WITA = 02:00 UTC
-function secondsUntilNext10amBali() {
+// 峇里島時間 = UTC+8，每天 11:00 AM WITA = 03:00 UTC
+function secondsUntilNext11amBali() {
   const now = new Date();
   const next = new Date(now);
-  next.setUTCHours(2, 0, 0, 0);
-  if (now.getUTCHours() >= 2) {
+  next.setUTCHours(3, 0, 0, 0);
+  if (now.getUTCHours() >= 3) {
     next.setUTCDate(next.getUTCDate() + 1);
   }
   return Math.max(60, Math.floor((next - now) / 1000));
@@ -67,7 +67,7 @@ export async function onRequest(context) {
     }
     if (!rates) throw new Error('BI API unavailable');
 
-    const ttl = secondsUntilNext10amBali();
+    const ttl = secondsUntilNext11amBali();
     const body = JSON.stringify({ date: dateDisplay, rates, source: 'Bank Indonesia' });
     const headers = {
       'Content-Type': 'application/json',
