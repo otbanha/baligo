@@ -48,10 +48,11 @@ async function fetchBIRates(dateStr) {
 
 export async function onRequest(context) {
   try {
-    // ── Cloudflare Edge Cache：快取到下一個峇里島 10:00 AM ──
+    // ── Cloudflare Edge Cache：以峇里島當日日期作為 key，確保每天更新 ──
     const cache = caches.default;
+    const todayBali = getBaliDateStr(0).display;
     const cacheKey = new Request(
-      new URL('/api/exchange-rate', context.request.url).toString()
+      new URL(`/api/exchange-rate?d=${todayBali}`, context.request.url).toString()
     );
 
     const cached = await cache.match(cacheKey);
