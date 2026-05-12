@@ -15,10 +15,10 @@ const CODES = ['USD', 'AUD', 'SGD', 'HKD', 'MYR', 'CNY'];
 // 中間價與銀行買入價的典型差距（根據 BCA E-Rate 實際觀察值）
 const BANK_SPREAD = {
   USD: 150,
-  AUD: 150,
-  SGD: 150,
-  HKD: 50,
-  MYR: 100,
+  AUD: 140,
+  SGD: 125,
+  HKD: 25,
+  MYR: 60,
   CNY: 80,
 };
 
