@@ -3,10 +3,9 @@ interface Props {
   currentLang?: string; // 'blog'(zh-tw) | 'zh-cn' | 'zh-hk' | 'en'
   slug?: string;        // 文章 slug，用於跨語言連結
   basePath?: string;    // 獨立頁面路徑，如 'bali-budget-calculator'
-  stayUrl?: string;     // 無翻譯頁面（如 /biz/）：切換語言時維持在此 URL
 }
 
-const { currentLang = 'blog', slug = '', basePath, stayUrl } = Astro.props;
+const { currentLang = 'blog', slug = '', basePath } = Astro.props;
 
 const LANGS = [
   { code: 'blog',  label: '繁中', title: '繁體中文（台灣）' },
@@ -15,11 +14,7 @@ const LANGS = [
   { code: 'en',    label: 'EN',   title: 'English' },
 ];
 
-function buildUrl(langCode: string, slug: string, basePath?: string, stayUrl?: string) {
-  if (stayUrl) {
-    // 無翻譯頁面（如 /biz/）：切換語言時維持在同一頁面
-    return stayUrl;
-  }
+function buildUrl(langCode: string, slug: string, basePath?: string) {
   if (basePath) {
     // 獨立頁面（非 blog）：/basePath/ 或 /lang/basePath/
     return langCode === 'blog' ? `/${basePath}/` : `/${langCode}/${basePath}/`;
@@ -43,7 +38,7 @@ function buildUrl(langCode: string, slug: string, basePath?: string, stayUrl?: s
       <li role="option" aria-selected={lang.code === currentLang}>
         {lang.code === currentLang
           ? <span class="lang-item lang-item--active" title={lang.title}>{lang.label}</span>
-          : <a class="lang-item" href={buildUrl(lang.code, slug, basePath, stayUrl)} title={lang.title} hreflang={lang.code === 'blog' ? 'zh-TW' : lang.code}>
+          : <a class="lang-item" href={buildUrl(lang.code, slug, basePath)} title={lang.title} hreflang={lang.code === 'blog' ? 'zh-TW' : lang.code}>
               {lang.label}
             </a>
         }

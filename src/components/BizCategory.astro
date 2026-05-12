@@ -2,7 +2,24 @@
 import BizCard from './BizCard.astro';
 import type { BizListing } from '../lib/getBizListings';
 
-const SERVICE_LABELS: Record<string, string> = {
+interface Props {
+  title: string;
+  description?: string;
+  featured: BizListing[];
+  regular: BizListing[];
+  lang?: string;
+}
+const { title, description, featured, regular, lang = 'blog' } = Astro.props;
+
+const isCN = lang === 'zh-cn';
+
+const SERVICE_LABELS: Record<string, string> = isCN ? {
+  owner:   '华人店主',
+  staff:   '中文员工',
+  speak:   '中文服务',
+  menu:    '中文菜单',
+  service: '华文资讯',
+} : {
   owner:   '華人店主',
   staff:   '中文員工',
   speak:   '中文服務',
@@ -10,13 +27,14 @@ const SERVICE_LABELS: Record<string, string> = {
   service: '華文資訊',
 };
 
-interface Props {
-  title: string;
-  description?: string;
-  featured: BizListing[];
-  regular: BizListing[];
-}
-const { title, description, featured, regular } = Astro.props;
+const t = {
+  featured:   isCN ? '精选推荐' : '精選推薦',
+  more:       isCN ? '更多商家' : '更多商家',
+  empty:      isCN ? '目前此类别暂无商家资料，敬请期待。' : '目前此類別尚無商家資料，敬請期待。',
+  ctaText:    isCN ? '你的商家也想出现在这里吗？' : '你的商家也想出現在這裡嗎？',
+  ctaBtn:     isCN ? '免费登录你的商家' : '免費登錄你的商家',
+  map:        isCN ? '地图' : '地圖',
+};
 ---
 
 <div class="biz-hero">
@@ -26,7 +44,7 @@ const { title, description, featured, regular } = Astro.props;
 
 {featured.length > 0 && (
   <>
-    <p class="biz-section-title">精選推薦</p>
+    <p class="biz-section-title">{t.featured}</p>
     <div class="biz-grid">
       {featured.map(b => <BizCard biz={b} />)}
     </div>
@@ -35,7 +53,7 @@ const { title, description, featured, regular } = Astro.props;
 
 {regular.length > 0 && (
   <>
-    <p class="biz-section-title">更多商家</p>
+    <p class="biz-section-title">{t.more}</p>
     <div class="biz-accordion">
       {regular.map(b => (
         <details>
@@ -68,7 +86,7 @@ const { title, description, featured, regular } = Astro.props;
                    target="_blank" rel="noopener noreferrer" class="btn btn--ig">Instagram</a>
               )}
               {b.googleMap && (
-                <a href={b.googleMap} target="_blank" rel="noopener noreferrer" class="btn btn--map">地圖</a>
+                <a href={b.googleMap} target="_blank" rel="noopener noreferrer" class="btn btn--map">{t.map}</a>
               )}
             </div>
           </div>
@@ -79,10 +97,10 @@ const { title, description, featured, regular } = Astro.props;
 )}
 
 {featured.length === 0 && regular.length === 0 && (
-  <p style="text-align:center;color:#8a9880;padding:3rem 0">目前此類別尚無商家資料，敬請期待。</p>
+  <p style="text-align:center;color:#8a9880;padding:3rem 0">{t.empty}</p>
 )}
 
 <div class="biz-register-cta">
-  <p>你的商家也想出現在這裡嗎？</p>
-  <a href="/biz-register.html" class="btn btn--gold">免費登錄你的商家</a>
+  <p>{t.ctaText}</p>
+  <a href="/biz-register.html" class="btn btn--gold">{t.ctaBtn}</a>
 </div>
