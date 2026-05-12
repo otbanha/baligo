@@ -62,24 +62,25 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
   </nav>
 </header>
 
-<!-- Google 本站搜尋 Modal -->
+<!-- Fuse.js 站內搜尋 Modal -->
 <div id="search-modal" class="search-modal" hidden aria-modal="true" role="dialog" aria-label={closeLabel}>
   <div class="search-modal-backdrop" id="search-backdrop"></div>
   <div class="search-modal-box">
-    <form id="google-search-form" class="search-form">
+    <div class="search-form">
       <input
         type="search"
-        id="google-search-input"
-        class="google-search-input"
+        id="fuse-search-input"
+        class="fuse-search-input"
         placeholder={inputPlaceholder}
         autocomplete="off"
         autocorrect="off"
         spellcheck="false"
+        data-lang={lang ?? 'zh-tw'}
       />
-      <button type="submit" class="google-search-btn">{searchLabel}</button>
       <button type="button" class="search-close-btn" id="search-close" aria-label={closeLabel}>✕</button>
-    </form>
-    <p class="search-hint">Powered by Google</p>
+    </div>
+    <div id="search-results" class="search-results"></div>
+    <p class="search-hint">站內搜尋</p>
   </div>
 </div>
 
@@ -99,14 +100,57 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
 </script>
 
 <script>
+  import Fuse from 'fuse.js';
+
+  type Article = {
+    id: string;
+    title: string;
+    url: string;
+    description: string;
+    category: string[];
+    tags: string[];
+    pubDate: string;
+    snippet: string;
+  };
+
+  let fuse: Fuse<Article> | null = null;
+  let indexLoaded = false;
+  let loadingIndex = false;
+  let debounceTimer: ReturnType<typeof setTimeout> | null = null;
+
+  async function loadIndex() {
+    if (indexLoaded || loadingIndex) return;
+    loadingIndex = true;
+    try {
+      const res = await fetch('/article-index.json');
+      const articles: Article[] = await res.json();
+      fuse = new Fuse(articles, {
+        keys: [
+          { name: 'title', weight: 3 },
+          { name: 'tags', weight: 2 },
+          { name: 'description', weight: 1.5 },
+          { name: 'snippet', weight: 1 },
+        ],
+        threshold: 0.35,
+        ignoreLocation: true,
+        minMatchCharLength: 1,
+      });
+      indexLoaded = true;
+    } catch (e) {
+      console.error('Failed to load search index', e);
+    } finally {
+      loadingIndex = false;
+    }
+  }
+
   function openModal() {
     const modal = document.getElementById('search-modal');
     if (!modal) return;
     modal.hidden = false;
     document.body.style.overflow = 'hidden';
+    loadIndex();
     setTimeout(() => {
-      const input = document.getElementById('google-search-input');
-      if (input) input.focus();
+      (document.getElementById('fuse-search-input') as HTMLInputElement)?.focus();
     }, 50);
   }
 
@@ -115,6 +159,36 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
     if (!modal) return;
     modal.hidden = true;
     document.body.style.overflow = '';
+    const input = document.getElementById('fuse-search-input') as HTMLInputElement;
+    if (input) input.value = '';
+    const results = document.getElementById('search-results');
+    if (results) results.innerHTML = '';
+  }
+
+  function renderResults(q: string) {
+    const resultsEl = document.getElementById('search-results');
+    if (!resultsEl) return;
+
+    if (!fuse) {
+      if (q.length > 0) resultsEl.innerHTML = '<p class="search-loading">載入中...</p>';
+      return;
+    }
+
+    const results = fuse.search(q, { limit: 8 });
+    if (results.length === 0) {
+      resultsEl.innerHTML = '<p class="search-no-results">找不到相關文章</p>';
+      return;
+    }
+
+    resultsEl.innerHTML = results.map(({ item }) => {
+      const cat = item.category?.[0] ?? '';
+      const snippet = item.snippet ? item.snippet.slice(0, 80) : '';
+      return `<a href="${item.url}" class="search-result-item">
+        <div class="search-result-title">${item.title}</div>
+        ${cat ? `<span class="search-result-cat">${cat}</span>` : ''}
+        ${snippet ? `<div class="search-result-snippet">${snippet}…</div>` : ''}
+      </a>`;
+    }).join('');
   }
 
   document.getElementById('search-trigger')?.addEventListener('click', openModal);
@@ -122,13 +196,15 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
   document.getElementById('search-backdrop')?.addEventListener('click', closeModal);
   document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeModal(); });
 
-  document.getElementById('google-search-form')?.addEventListener('submit', (e) => {
-    e.preventDefault();
-    const q = (document.getElementById('google-search-input') as HTMLInputElement)?.value.trim();
-    if (q) {
-      window.open('https://www.google.com/search?q=site:gobaligo.id+' + encodeURIComponent(q), '_blank');
-      closeModal();
+  document.getElementById('fuse-search-input')?.addEventListener('input', (e) => {
+    const q = (e.target as HTMLInputElement).value.trim();
+    const resultsEl = document.getElementById('search-results');
+    if (!q) {
+      if (resultsEl) resultsEl.innerHTML = '';
+      return;
     }
+    if (debounceTimer) clearTimeout(debounceTimer);
+    debounceTimer = setTimeout(() => renderResults(q), 200);
   });
 </script>
 
@@ -266,7 +342,7 @@ button.search-input:focus {
   padding: 1em;
 }
 
-.google-search-input {
+.fuse-search-input {
   flex: 1;
   min-width: 0;
   border: 1.5px solid #c5a059;
@@ -277,24 +353,58 @@ button.search-input:focus {
   outline: none;
   color: #1a1a1a;
 }
-.google-search-input:focus {
+.fuse-search-input:focus {
   border-color: #0a1628;
   box-shadow: 0 0 0 3px rgba(10,22,40,0.1);
 }
 
-.google-search-btn {
-  flex-shrink: 0;
-  background: #0a1628;
-  color: #fff;
-  border: none;
-  border-radius: 8px;
-  padding: 0.6em 1.2em;
-  font-size: 0.95em;
-  font-family: inherit;
-  cursor: pointer;
-  white-space: nowrap;
+.search-results {
+  max-height: 420px;
+  overflow-y: auto;
+  border-top: 1px solid #eee;
+  border-radius: 0 0 12px 12px;
 }
-.google-search-btn:hover { background: #c5a059; }
+.search-result-item {
+  display: block;
+  padding: 0.75em 1em;
+  text-decoration: none;
+  color: inherit;
+  border-bottom: 1px solid #f0f0f0;
+  transition: background 0.15s;
+}
+.search-result-item:last-child { border-bottom: none; }
+.search-result-item:hover { background: #f8f5ee; }
+.search-result-title {
+  font-weight: 600;
+  font-size: 0.95em;
+  color: #1a1a1a;
+  margin-bottom: 0.2em;
+}
+.search-result-cat {
+  display: inline-block;
+  font-size: 0.7em;
+  background: #c5a059;
+  color: #fff;
+  border-radius: 4px;
+  padding: 0.1em 0.45em;
+  margin-bottom: 0.2em;
+}
+.search-result-snippet {
+  font-size: 0.8em;
+  color: #666;
+  line-height: 1.4;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+.search-loading,
+.search-no-results {
+  padding: 1.2em 1em;
+  text-align: center;
+  color: #aaa;
+  font-size: 0.9em;
+}
 
 .bk-icon {
   position: relative;
