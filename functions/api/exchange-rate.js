@@ -12,6 +12,16 @@ const SLOTS = [
 const TWD_FIXED = 350;
 const CODES = ['USD', 'AUD', 'SGD', 'HKD', 'MYR', 'CNY'];
 
+// 中間價與銀行買入價的典型差距（根據 BCA E-Rate 實際觀察值）
+const BANK_SPREAD = {
+  USD: 150,
+  AUD: 150,
+  SGD: 150,
+  HKD: 50,
+  MYR: 100,
+  CNY: 80,
+};
+
 function secondsUntilNextUpdate() {
   const now = new Date();
   const h = now.getUTCHours();
@@ -88,7 +98,7 @@ async function fetchFromBI() {
   return Object.keys(rates).length >= 4 ? { rates, source: 'BI-beli' } : null;
 }
 
-// Source 2: currency-api 中間價（後備）
+// Source 2: currency-api 中間價減銀行差價（近似買入價）
 async function fetchFromCurrencyAPI() {
   const url = 'https://latest.currency-api.pages.dev/v1/currencies/idr.json';
   const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
@@ -99,9 +109,12 @@ async function fetchFromCurrencyAPI() {
   const rates = {};
   for (const code of CODES) {
     const mid = Math.round(1 / data.idr[code.toLowerCase()]);
-    if (mid > 0) rates[code] = mid;
+    if (mid > 0) {
+      const spread = BANK_SPREAD[code] ?? 100;
+      rates[code] = Math.max(1, mid - spread);
+    }
   }
-  return Object.keys(rates).length >= 4 ? { rates, source: 'currency-api' } : null;
+  return Object.keys(rates).length >= 4 ? { rates, source: 'currency-api-buy' } : null;
 }
 
 async function fetchRates() {
@@ -120,7 +133,7 @@ export async function onRequest(context) {
     const cache = caches.default;
     const slot = getCacheSlot();
     const cacheKey = new Request(
-      new URL(`/api/exchange-rate?v=5&s=${slot}`, context.request.url).toString()
+      new URL(`/api/exchange-rate?v=6&s=${slot}`, context.request.url).toString()
     );
 
     const cached = await cache.match(cacheKey);
