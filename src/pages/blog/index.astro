@@ -3,6 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import ChatBot from '../../components/ChatBot.astro';
+import BaliTicketTable from '../../components/BaliTicketTable.astro';
 import ExchangeRateWidget from '../../components/ExchangeRateWidget.astro';
 import BaliWeather from '../../components/BaliWeather.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
@@ -487,6 +488,9 @@ const socialLinks = [
       </div>
 
       <div id="pagination" class="pagination"></div>
+
+      <!-- 峇里島景點門票總表 -->
+      <BaliTicketTable />
 
       <!-- Live Cam + Coming Soon 並排 -->
       <div class="livecam-section" id="livecam-section">
