@@ -50,15 +50,22 @@ function getCacheSlot() {
   return `${prev.getUTCFullYear()}-${String(prev.getUTCMonth() + 1).padStart(2, '0')}-${String(prev.getUTCDate()).padStart(2, '0')}-16`;
 }
 
-function getBaliDateTimeStr() {
+function getSlotDateTimeStr() {
+  const utcH = new Date().getUTCHours();
   const ms = Date.now() + 8 * 3600 * 1000;
   const d = new Date(ms);
-  const y = d.getUTCFullYear();
-  const mo = String(d.getUTCMonth() + 1).padStart(2, '0');
-  const day = String(d.getUTCDate()).padStart(2, '0');
-  const h = String(d.getUTCHours()).padStart(2, '0');
-  const mi = String(d.getUTCMinutes()).padStart(2, '0');
-  return `${y}-${mo}-${day} ${h}:${mi}`;
+  let slotLabel = null;
+  for (const s of SLOTS) {
+    if (utcH >= s.utc) slotLabel = s.label;
+  }
+  if (slotLabel) {
+    const y = d.getUTCFullYear();
+    const mo = String(d.getUTCMonth() + 1).padStart(2, '0');
+    const day = String(d.getUTCDate()).padStart(2, '0');
+    return `${y}-${mo}-${day} ${slotLabel}:00`;
+  }
+  const prev = new Date(ms - 86400 * 1000);
+  return `${prev.getUTCFullYear()}-${String(prev.getUTCMonth() + 1).padStart(2, '0')}-${String(prev.getUTCDate()).padStart(2, '0')} 16:00`;
 }
 
 function getBaliDate() {
@@ -124,7 +131,7 @@ async function fetchRates() {
 
   if (!result) return null;
   result.rates['TWD'] = TWD_FIXED;
-  result.date = getBaliDateTimeStr();
+  result.date = getSlotDateTimeStr();
   return result;
 }
 
