@@ -8,15 +8,27 @@ interface Props {
   description: string;
 }
 const { title, description } = Astro.props;
-const currentPath = Astro.url.pathname;
+
+const pathname = Astro.url.pathname;
+const currentLang = pathname.startsWith('/zh-cn/') ? 'zh-cn'
+                  : pathname.startsWith('/zh-hk/') ? 'zh-hk'
+                  : pathname.startsWith('/en/')    ? 'en'
+                  : 'blog';
+const basePath = pathname
+  .replace(/^\/(zh-cn|zh-hk|en)\//, '')
+  .replace(/^\//, '')
+  .replace(/\/$/, '');
+const htmlLang = currentLang === 'zh-cn' ? 'zh-Hans'
+               : currentLang === 'en'    ? 'en'
+               : 'zh-TW';
 ---
 <!DOCTYPE html>
-<html lang="zh-TW">
+<html lang={htmlLang}>
   <head>
     <BaseHead title={title} description={description} />
   </head>
   <body>
-    <Header stayUrl={currentPath} />
+    <Header lang={currentLang} basePath={basePath} />
     <main class="biz-main">
       <slot />
     </main>
