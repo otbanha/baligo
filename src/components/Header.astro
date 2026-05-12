@@ -181,11 +181,9 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
     }
 
     resultsEl.innerHTML = results.map(({ item }) => {
-      const cat = item.category?.[0] ?? '';
       const snippet = item.snippet ? item.snippet.slice(0, 80) : '';
       return `<a href="${item.url}" class="search-result-item">
         <div class="search-result-title">${item.title}</div>
-        ${cat ? `<span class="search-result-cat">${cat}</span>` : ''}
         ${snippet ? `<div class="search-result-snippet">${snippet}…</div>` : ''}
       </a>`;
     }).join('');
