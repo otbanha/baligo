@@ -32,12 +32,12 @@ const qaCategoryMap: Record<string, { label: string; icon: string; blogCat: stri
 const faqSchema = {
   '@context': 'https://schema.org',
   '@type': 'FAQPage',
-  mainEntity: featured.map(q => ({
+  mainEntity: featured.filter(q => q.data.title?.trim()).map(q => ({
     '@type': 'Question',
     name: q.data.title,
     acceptedAnswer: {
       '@type': 'Answer',
-      text: q.data.title,
+      text: (q.body ?? '').replace(/[#*`_~[\]]/g, '').replace(/\(https?:\/\/[^\)]+\)/g, '').trim() || q.data.title,
     },
   })),
 };
