@@ -1,0 +1,48 @@
+---
+import BizLayout from '../../../layouts/BizLayout.astro';
+import { getBizListings } from '../../../lib/getBizListings';
+
+const all = await getBizListings();
+const areaCounts: Record<string, number> = {};
+for (const b of all) {
+  if (b.area) areaCounts[b.area] = (areaCounts[b.area] ?? 0) + 1;
+}
+const areas = Object.entries(areaCounts).sort((a, b) => b[1] - a[1]);
+---
+
+<BizLayout
+  title="峇里島各分區中文商家 | Go Bali Go"
+  description="按峇里島分區瀏覽中文商家，包含庫塔、水明漾、烏布等熱門區域。"
+>
+  <div class="biz-hero">
+    <h1>按分區瀏覽</h1>
+    <p>選擇你所在或計劃前往的峇里島分區，找到附近的中文商家</p>
+  </div>
+
+  {areas.length > 0 ? (
+    <div class="cat-grid">
+      {areas.map(([area, count]) => (
+        <a href={`/biz/area/${encodeURIComponent(area)}/`} class="cat-card">
+          <span class="cat-card__icon">📍</span>
+          <span class="cat-card__label">{area}</span>
+          <span class="area-count">{count} 家</span>
+        </a>
+      ))}
+    </div>
+  ) : (
+    <p style="text-align:center;color:#8a9880;padding:3rem 0">目前尚無商家資料，敬請期待。</p>
+  )}
+
+  <div class="biz-register-cta">
+    <p>你的商家也想出現在這裡嗎？</p>
+    <a href="/biz-register.html" class="btn btn--gold">免費登錄你的商家</a>
+  </div>
+</BizLayout>
+
+<style>
+  .area-count {
+    font-size: 0.75rem;
+    color: #8a9880;
+    margin-top: 2px;
+  }
+</style>

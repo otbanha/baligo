@@ -1,0 +1,30 @@
+---
+import BizLayout from '../../../../layouts/BizLayout.astro';
+import BizCategory from '../../../../components/BizCategory.astro';
+import { getBizListings } from '../../../../lib/getBizListings';
+
+export async function getStaticPaths() {
+  const all = await getBizListings();
+  const areas = [...new Set(all.map(b => b.area).filter(Boolean))];
+  return areas.map(area => ({ params: { area }, props: { area } }));
+}
+
+const { area } = Astro.props as { area: string };
+const all = await getBizListings();
+const listings = all.filter(b => b.area === area);
+const featured = listings.filter(b => b.featured).sort(() => Math.random() - 0.5);
+const regular  = listings.filter(b => !b.featured);
+---
+
+<BizLayout
+  title={`${area} 中文商家 | 巴厘岛商家目录`}
+  description={`${area} 提供中文服务的商家，包含餐厅、旅游、SPA、住宿等。`}
+>
+  <BizCategory
+    title={`📍 ${area}`}
+    description={`${area} 地区提供中文服务的优质商家`}
+    featured={featured}
+    regular={regular}
+    lang="zh-cn"
+  />
+</BizLayout>
