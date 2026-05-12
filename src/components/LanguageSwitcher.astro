@@ -15,11 +15,7 @@ const LANGS = [
   { code: 'en',    label: 'EN',   title: 'English' },
 ];
 
-function buildUrl(langCode: string, slug: string, basePath?: string, stayUrl?: string) {
-  if (stayUrl) {
-    // 無翻譯頁面（如 /biz/）：切換語言時維持在同一頁面
-    return stayUrl;
-  }
+function buildUrl(langCode: string, slug: string, basePath?: string) {
   if (basePath) {
     // 獨立頁面（非 blog）：/basePath/ 或 /lang/basePath/
     return langCode === 'blog' ? `/${basePath}/` : `/${langCode}/${basePath}/`;
@@ -43,9 +39,11 @@ function buildUrl(langCode: string, slug: string, basePath?: string, stayUrl?: s
       <li role="option" aria-selected={lang.code === currentLang}>
         {lang.code === currentLang
           ? <span class="lang-item lang-item--active" title={lang.title}>{lang.label}</span>
-          : <a class="lang-item" href={buildUrl(lang.code, slug, basePath, stayUrl)} title={lang.title} hreflang={lang.code === 'blog' ? 'zh-TW' : lang.code}>
-              {lang.label}
-            </a>
+          : stayUrl
+            ? <span class="lang-item lang-item--disabled" title="此頁面目前僅提供繁中版本">{lang.label}</span>
+            : <a class="lang-item" href={buildUrl(lang.code, slug, basePath)} title={lang.title} hreflang={lang.code === 'blog' ? 'zh-TW' : lang.code}>
+                {lang.label}
+              </a>
         }
       </li>
     ))}
@@ -114,6 +112,7 @@ function buildUrl(langCode: string, slug: string, basePath?: string, stayUrl?: s
 
 .lang-item:hover { background: rgba(201, 168, 76, 0.1); color: var(--gold, #C5A059); }
 .lang-item--active { color: var(--gold, #C5A059); cursor: default; }
+.lang-item--disabled { color: #bbb; cursor: not-allowed; opacity: 0.5; }
 </style>
 
 <script>
