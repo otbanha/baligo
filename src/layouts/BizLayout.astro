@@ -8,6 +8,7 @@ interface Props {
   description: string;
 }
 const { title, description } = Astro.props;
+const currentPath = Astro.url.pathname;
 ---
 <!DOCTYPE html>
 <html lang="zh-TW">
@@ -15,7 +16,7 @@ const { title, description } = Astro.props;
     <BaseHead title={title} description={description} />
   </head>
   <body>
-    <Header />
+    <Header stayUrl={currentPath} />
     <main class="biz-main">
       <slot />
     </main>
