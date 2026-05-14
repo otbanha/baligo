@@ -4,7 +4,7 @@ import Header from '../components/Header.astro';
 import Footer from '../components/Footer.astro';
 
 const title = '峇里島景點門票費用一覽 2026｜Bali Ticket Prices';
-const description = '峇里島 34 個熱門景點門票價格，含 Uluwatu、Waterbom、Nusa Penida，附 Klook/Agoda 訂票連結。';
+const description = '峇里島 34 個熱門景點門票價格，含 Uluwatu、Waterbom、Nusa Penida，附 Klook/Agoda/Trip.com 訂票連結。';
 const lang = 'zh-tw';
 const slug = 'tickets';
 ---
@@ -15,54 +15,55 @@ const slug = 'tickets';
   <BaseHead title={title} description={description} />
 </head>
 
-<body class="bg-[#f7f5f0] text-gray-800">
+<body>
   <Header lang={lang} slug={slug} />
 
-  <main class="max-w-6xl mx-auto px-4 py-10 pb-20">
-
-    <div class="text-center mb-8">
-      <h1 class="text-2xl font-bold text-gray-900 mb-2">峇里島景點門票費用一覽 2026</h1>
-      <p class="text-sm text-gray-500">34 個熱門景點，附 Klook／Agoda／Trip.com 訂票連結</p>
+  <!-- Hero -->
+  <div class="tickets-hero">
+    <div class="tickets-hero-inner">
+      <div class="tickets-hero-badge">2026 更新版</div>
+      <h1 class="tickets-hero-title">峇里島景點門票費用</h1>
+      <p class="tickets-hero-sub">34 個熱門景點 · 即時篩選 · 附 Klook / Agoda / Trip.com 訂票連結</p>
     </div>
+  </div>
 
-    <!-- 搜尋 + 排序 -->
-    <div class="flex flex-col sm:flex-row gap-3 mb-5">
-      <input
-        id="search-input"
-        type="text"
-        placeholder="搜尋景點名稱…"
-        class="flex-1 h-10 px-4 rounded-lg border border-gray-300 bg-white text-sm focus:outline-none focus:ring-2 focus:ring-orange-400"
-      />
-      <select
-        id="sort-select"
-        class="h-10 px-3 rounded-lg border border-gray-300 bg-white text-sm focus:outline-none focus:ring-2 focus:ring-orange-400"
-      >
+  <main class="tickets-main">
+
+    <!-- Controls -->
+    <div class="tickets-controls">
+      <div class="tickets-search-wrap">
+        <svg class="tickets-search-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-input" type="text" placeholder="搜尋景點名稱…" class="tickets-search" />
+      </div>
+      <select id="sort-select" class="tickets-sort">
         <option value="default">排序：預設</option>
         <option value="asc">票價低 → 高</option>
         <option value="desc">票價高 → 低</option>
       </select>
     </div>
 
-    <!-- 分類篩選 -->
-    <div id="filter-buttons" class="flex flex-wrap gap-2 mb-7">
-      <button data-cat="all"       class="filter-btn active px-4 py-1.5 rounded-full text-sm font-medium border transition-colors">全部</button>
-      <button data-cat="temple"    class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium border transition-colors">寺廟</button>
-      <button data-cat="nature"    class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium border transition-colors">自然景觀</button>
-      <button data-cat="island"    class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium border transition-colors">Nusa Penida</button>
-      <button data-cat="park"      class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium border transition-colors">文化園區</button>
-      <button data-cat="activity"  class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium border transition-colors">主題樂園</button>
-      <button data-cat="adventure" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium border transition-colors">冒險活動</button>
+    <!-- Category filters -->
+    <div id="filter-buttons" class="tickets-filters">
+      <button data-cat="all"       class="filter-btn active">🗺️ 全部</button>
+      <button data-cat="temple"    class="filter-btn">🛕 寺廟</button>
+      <button data-cat="nature"    class="filter-btn">🌿 自然景觀</button>
+      <button data-cat="island"    class="filter-btn">🏝️ Nusa Penida</button>
+      <button data-cat="park"      class="filter-btn">🎭 文化園區</button>
+      <button data-cat="activity"  class="filter-btn">🎢 主題樂園</button>
+      <button data-cat="adventure" class="filter-btn">🏄 冒險活動</button>
     </div>
+
+    <!-- Result count -->
+    <p id="result-count" class="tickets-count"></p>
 
     <!-- Card Grid -->
-    <div id="card-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-    </div>
+    <div id="card-grid" class="tickets-grid"></div>
 
-    <!-- 免責聲明 -->
-    <p class="mt-12 text-xs text-gray-400 text-center leading-relaxed">
-      票價資訊更新至 2026 年，現場價格可能隨時調整，建議出發前再次確認。<br/>
-      頁面含 Klook（AID: 116349）、Agoda（CID: 1961347）及 Trip.com（Allianceid: 6817581）聯盟連結。
-    </p>
+    <!-- Disclaimer -->
+    <div class="tickets-disclaimer">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;margin-top:2px"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+      <span>票價資訊更新至 2026 年，現場價格可能隨時調整，建議出發前再次確認。頁面含 Klook（AID: 116349）、Agoda（CID: 1961347）及 Trip.com（Allianceid: 6817581）聯盟連結。</span>
+    </div>
 
   </main>
 
@@ -71,19 +72,356 @@ const slug = 'tickets';
 </html>
 
 <style>
-  .filter-btn {
+  /* ── Design tokens ── */
+  :root {
+    --ocean: #1A365D;
+    --ocean-mid: #1e3f6e;
+    --gold: #C5A059;
+    --gold-pale: #f0e0b8;
+  }
+
+  /* ── Hero ── */
+  .tickets-hero {
+    background: linear-gradient(135deg, var(--ocean) 0%, #2a5298 60%, #1a365d 100%);
+    position: relative;
+    overflow: hidden;
+    padding: 64px 24px 56px;
+    text-align: center;
+  }
+  .tickets-hero::before {
+    content: '';
+    position: absolute;
+    inset: 0;
+    background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    pointer-events: none;
+  }
+  .tickets-hero::after {
+    content: '';
+    position: absolute;
+    bottom: -1px;
+    left: 0;
+    right: 0;
+    height: 40px;
+    background: #ffffff;
+    clip-path: ellipse(55% 100% at 50% 100%);
+  }
+  .tickets-hero-inner {
+    position: relative;
+    z-index: 1;
+    max-width: 600px;
+    margin: 0 auto;
+  }
+  .tickets-hero-badge {
+    display: inline-block;
+    background: rgba(197,160,89,0.25);
+    border: 1px solid rgba(197,160,89,0.5);
+    color: var(--gold-pale);
+    font-size: 11px;
+    font-weight: 600;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    padding: 4px 12px;
+    border-radius: 20px;
+    margin-bottom: 16px;
+  }
+  .tickets-hero-title {
+    font-family: 'TC-Heading-Nums', 'Playfair Display', 'PingFang TC', 'Noto Sans TC', serif;
+    font-size: clamp(26px, 5vw, 40px);
+    font-weight: 700;
+    color: #fff;
+    margin: 0 0 12px;
+    line-height: 1.2;
+    letter-spacing: -0.01em;
+  }
+  .tickets-hero-sub {
+    font-size: 14px;
+    color: rgba(255,255,255,0.7);
+    margin: 0;
+    line-height: 1.6;
+  }
+
+  /* ── Main wrapper ── */
+  .tickets-main {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 40px 20px 80px;
+  }
+
+  /* ── Controls ── */
+  .tickets-controls {
+    display: flex;
+    gap: 12px;
+    margin-bottom: 20px;
+    flex-wrap: wrap;
+  }
+  .tickets-search-wrap {
+    flex: 1;
+    min-width: 200px;
+    position: relative;
+  }
+  .tickets-search-icon {
+    position: absolute;
+    left: 14px;
+    top: 50%;
+    transform: translateY(-50%);
+    color: #9ca3af;
+    pointer-events: none;
+  }
+  .tickets-search {
+    width: 100%;
+    height: 44px;
+    padding: 0 16px 0 40px;
+    border: 1.5px solid #e5e7eb;
+    border-radius: 10px;
     background: #fff;
-    border-color: #d1d5db;
+    font-size: 14px;
+    color: #1a1a1a;
+    box-shadow: 0 1px 4px rgba(26,54,93,0.06);
+    transition: border-color 0.2s, box-shadow 0.2s;
+    font-family: inherit;
+    box-sizing: border-box;
+  }
+  .tickets-search:focus {
+    outline: none;
+    border-color: var(--ocean);
+    box-shadow: 0 0 0 3px rgba(26,54,93,0.1);
+  }
+  .tickets-sort {
+    height: 44px;
+    padding: 0 36px 0 14px;
+    border: 1.5px solid #e5e7eb;
+    border-radius: 10px;
+    background: #fff url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%236b7280' stroke-width='2.5' stroke-linecap='round' stroke-linejoin='round'%3E%3Cpolyline points='6 9 12 15 18 9'/%3E%3C/svg%3E") no-repeat right 12px center;
+    appearance: none;
+    font-size: 14px;
+    color: #374151;
+    box-shadow: 0 1px 4px rgba(26,54,93,0.06);
+    cursor: pointer;
+    font-family: inherit;
+    transition: border-color 0.2s;
+  }
+  .tickets-sort:focus {
+    outline: none;
+    border-color: var(--ocean);
+  }
+
+  /* ── Filters ── */
+  .tickets-filters {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 8px;
+  }
+  .filter-btn {
+    height: 36px;
+    padding: 0 16px;
+    border-radius: 20px;
+    border: 1.5px solid #e5e7eb;
+    background: #fff;
     color: #6b7280;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all 0.18s ease;
+    font-family: inherit;
+    white-space: nowrap;
   }
   .filter-btn:hover {
-    border-color: #f97316;
-    color: #f97316;
+    border-color: var(--ocean);
+    color: var(--ocean);
+    background: #f0f4fa;
   }
   .filter-btn.active {
-    background: #f97316;
-    border-color: #f97316;
+    background: var(--ocean);
+    border-color: var(--ocean);
     color: #fff;
+    box-shadow: 0 2px 8px rgba(26,54,93,0.25);
+  }
+
+  /* ── Result count ── */
+  .tickets-count {
+    font-size: 12px;
+    color: #9ca3af;
+    margin: 12px 0 24px;
+    font-weight: 500;
+    letter-spacing: 0.02em;
+  }
+
+  /* ── Grid ── */
+  .tickets-grid {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: 16px;
+  }
+  @media (min-width: 600px) {
+    .tickets-grid { grid-template-columns: repeat(2, 1fr); }
+  }
+  @media (min-width: 960px) {
+    .tickets-grid { grid-template-columns: repeat(3, 1fr); }
+  }
+
+  /* ── Card ── */
+  .ticket-card {
+    background: #fff;
+    border-radius: 16px;
+    border: 1px solid #eef0f5;
+    box-shadow: 0 2px 12px rgba(26,54,93,0.07);
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+    gap: 0;
+    transition: transform 0.2s ease, box-shadow 0.2s ease;
+    position: relative;
+    overflow: hidden;
+  }
+  .ticket-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 32px rgba(26,54,93,0.14);
+  }
+  .ticket-card-accent {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    border-radius: 16px 16px 0 0;
+  }
+  .ticket-card-head {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+    gap: 10px;
+    margin-bottom: 14px;
+  }
+  .ticket-card-name {
+    font-size: 15px;
+    font-weight: 700;
+    color: #111827;
+    line-height: 1.35;
+    margin: 0;
+  }
+  .ticket-cat-pill {
+    flex-shrink: 0;
+    font-size: 11px;
+    font-weight: 600;
+    padding: 3px 10px;
+    border-radius: 20px;
+    letter-spacing: 0.02em;
+    white-space: nowrap;
+  }
+
+  /* price row */
+  .ticket-price-row {
+    display: flex;
+    align-items: baseline;
+    gap: 6px;
+    margin-bottom: 10px;
+  }
+  .ticket-price-label {
+    font-size: 11px;
+    font-weight: 600;
+    color: #9ca3af;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+  }
+  .ticket-price {
+    font-size: 20px;
+    font-weight: 800;
+    color: var(--ocean);
+    letter-spacing: -0.02em;
+    font-variant-numeric: tabular-nums;
+  }
+
+  /* divider */
+  .ticket-divider {
+    height: 1px;
+    background: #f3f4f6;
+    margin: 0 0 12px;
+  }
+
+  .ticket-note {
+    font-size: 12.5px;
+    color: #6b7280;
+    line-height: 1.6;
+    margin: 0 0 10px;
+    flex: 1;
+  }
+  .ticket-warn {
+    display: inline-flex;
+    align-items: center;
+    gap: 4px;
+    font-size: 11.5px;
+    font-weight: 600;
+    color: #c2410c;
+    background: #fff7ed;
+    border: 1px solid #fed7aa;
+    border-radius: 6px;
+    padding: 4px 10px;
+    margin-bottom: 12px;
+  }
+  .ticket-btns {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    margin-top: auto;
+    padding-top: 4px;
+  }
+  .ticket-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 5px;
+    padding: 6px 12px;
+    border-radius: 8px;
+    border: 1.5px solid;
+    font-size: 12px;
+    font-weight: 600;
+    text-decoration: none;
+    transition: all 0.15s ease;
+    line-height: 1;
+    font-family: inherit;
+  }
+  .ticket-btn-klook {
+    border-color: #f97316;
+    color: #f97316;
+    background: #fff7ed;
+  }
+  .ticket-btn-klook:hover { background: #f97316; color: #fff; }
+  .ticket-btn-agoda {
+    border-color: #3b82f6;
+    color: #3b82f6;
+    background: #eff6ff;
+  }
+  .ticket-btn-agoda:hover { background: #3b82f6; color: #fff; }
+  .ticket-btn-trip {
+    border-color: #0066FF;
+    color: #0066FF;
+    background: #eff4ff;
+  }
+  .ticket-btn-trip:hover { background: #0066FF; color: #fff; }
+
+  /* ── Empty state ── */
+  .tickets-empty {
+    grid-column: 1 / -1;
+    text-align: center;
+    padding: 64px 20px;
+    color: #9ca3af;
+  }
+  .tickets-empty-icon { font-size: 40px; margin-bottom: 12px; }
+  .tickets-empty-text { font-size: 15px; }
+
+  /* ── Disclaimer ── */
+  .tickets-disclaimer {
+    display: flex;
+    align-items: flex-start;
+    gap: 8px;
+    margin-top: 48px;
+    background: #f9fafb;
+    border: 1px solid #e5e7eb;
+    border-radius: 10px;
+    padding: 14px 18px;
+    font-size: 12px;
+    color: #9ca3af;
+    line-height: 1.6;
   }
 </style>
 
@@ -142,102 +480,116 @@ const DATA = [
 ];
 
 const CAT_LABEL = {
-  temple: '寺廟',
-  nature: '自然景觀',
-  island: 'Nusa Penida',
-  park: '文化園區',
+  temple:   '寺廟',
+  nature:   '自然景觀',
+  island:   'Nusa Penida',
+  park:     '文化園區',
   activity: '主題樂園',
-  adventure: '冒險活動',
+  adventure:'冒險活動',
 };
 
-const CAT_COLOR = {
-  temple:   { bg:'bg-purple-100', text:'text-purple-700', border:'border-purple-300' },
-  nature:   { bg:'bg-green-100',  text:'text-green-700',  border:'border-green-300' },
-  island:   { bg:'bg-cyan-100',   text:'text-cyan-700',   border:'border-cyan-300' },
-  park:     { bg:'bg-orange-100', text:'text-orange-700', border:'border-orange-300' },
-  activity: { bg:'bg-blue-100',   text:'text-blue-700',   border:'border-blue-300' },
-  adventure:{ bg:'bg-red-100',    text:'text-red-700',    border:'border-red-300' },
+/* top accent bar colour per category */
+const CAT_ACCENT = {
+  temple:   '#7c3aed',
+  nature:   '#16a34a',
+  island:   '#0891b2',
+  park:     '#ea580c',
+  activity: '#2563eb',
+  adventure:'#dc2626',
+};
+
+/* pill background/text */
+const CAT_PILL = {
+  temple:   'background:#f3e8ff;color:#6d28d9;',
+  nature:   'background:#dcfce7;color:#15803d;',
+  island:   'background:#cffafe;color:#0e7490;',
+  park:     'background:#ffedd5;color:#c2410c;',
+  activity: 'background:#dbeafe;color:#1d4ed8;',
+  adventure:'background:#fee2e2;color:#b91c1c;',
 };
 
 function formatIDR(n) {
-  return 'IDR ' + n.toLocaleString('en-US');
+  return 'IDR ' + n.toLocaleString('en-US');
 }
 
 function buildCard(item) {
-  const c = CAT_COLOR[item.cat] || CAT_COLOR.temple;
-  const label = CAT_LABEL[item.cat] || item.cat;
+  const accent = CAT_ACCENT[item.cat] || '#1A365D';
+  const pill   = CAT_PILL[item.cat]   || '';
+  const label  = CAT_LABEL[item.cat]  || item.cat;
 
   const warnHtml = item.warn
-    ? `<span class="inline-block mt-2 px-2 py-0.5 rounded text-xs font-medium bg-orange-50 text-orange-600 border border-orange-200">${item.warn}</span>`
+    ? `<div class="ticket-warn">${item.warn}</div>`
     : '';
 
   const klookBtn = item.klook
-    ? `<a href="${item.klook}" target="_blank" rel="noopener noreferrer"
-          class="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs font-semibold border border-orange-400 text-orange-500 hover:bg-orange-50 transition-colors">
-          Klook 訂票
+    ? `<a href="${item.klook}" target="_blank" rel="noopener noreferrer" class="ticket-btn ticket-btn-klook">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        Klook
        </a>`
     : '';
 
   const agodaBtn = item.agoda
-    ? `<a href="https://www.agoda.com/zh-tw/bali-activities/?cid=1961347" target="_blank" rel="noopener noreferrer"
-          class="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs font-semibold border border-blue-400 text-blue-500 hover:bg-blue-50 transition-colors">
-          Agoda 訂票
+    ? `<a href="https://www.agoda.com/zh-tw/bali-activities/?cid=1961347" target="_blank" rel="noopener noreferrer" class="ticket-btn ticket-btn-agoda">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        Agoda
        </a>`
     : '';
 
   const tripcomBtn = item.tripcom
-    ? `<a href="${item.tripcom}" target="_blank" rel="noopener noreferrer"
-          style="border-color:#0066FF;color:#0066FF;"
-          class="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs font-semibold border hover:opacity-80 transition-opacity">
-          Trip.com
+    ? `<a href="${item.tripcom}" target="_blank" rel="noopener noreferrer" class="ticket-btn ticket-btn-trip">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        Trip.com
        </a>`
     : '';
 
   const hasBtn = item.klook || item.agoda || item.tripcom;
 
   return `
-    <div class="bg-white rounded-xl border border-gray-200 p-5 flex flex-col gap-3 shadow-sm hover:shadow-md transition-shadow" data-cat="${item.cat}">
-      <div class="flex items-start justify-between gap-2">
-        <h2 class="font-bold text-gray-900 text-base leading-snug">${item.name}</h2>
-        <span class="shrink-0 inline-block px-2 py-0.5 rounded-full text-xs font-medium border ${c.bg} ${c.text} ${c.border}">${label}</span>
+    <div class="ticket-card">
+      <div class="ticket-card-accent" style="background:${accent};"></div>
+      <div class="ticket-card-head">
+        <h2 class="ticket-card-name">${item.name}</h2>
+        <span class="ticket-cat-pill" style="${pill}">${label}</span>
       </div>
-      <div class="text-lg font-bold text-gray-800">${formatIDR(item.idr)}</div>
-      <p class="text-xs text-gray-500 leading-relaxed">${item.note}</p>
+      <div class="ticket-price-row">
+        <span class="ticket-price-label">票價</span>
+        <span class="ticket-price">${formatIDR(item.idr)}</span>
+      </div>
+      <div class="ticket-divider"></div>
+      <p class="ticket-note">${item.note}</p>
       ${warnHtml}
-      ${hasBtn ? `<div class="flex flex-wrap gap-2 mt-auto pt-1">${klookBtn}${agodaBtn}${tripcomBtn}</div>` : ''}
+      ${hasBtn ? `<div class="ticket-btns">${klookBtn}${agodaBtn}${tripcomBtn}</div>` : ''}
     </div>
   `;
 }
 
 let activeCat = 'all';
-let sortMode = 'default';
-let searchQuery = '';
+let sortMode  = 'default';
+let searchQ   = '';
 
 function render() {
   let items = [...DATA];
 
-  if (activeCat !== 'all') {
-    items = items.filter(i => i.cat === activeCat);
-  }
-  if (searchQuery) {
-    const q = searchQuery.toLowerCase();
+  if (activeCat !== 'all') items = items.filter(i => i.cat === activeCat);
+  if (searchQ) {
+    const q = searchQ.toLowerCase();
     items = items.filter(i => i.name.toLowerCase().includes(q) || i.note.toLowerCase().includes(q));
   }
-  if (sortMode === 'asc') {
-    items.sort((a, b) => a.idr - b.idr);
-  } else if (sortMode === 'desc') {
-    items.sort((a, b) => b.idr - a.idr);
-  }
+  if (sortMode === 'asc')  items.sort((a, b) => a.idr - b.idr);
+  if (sortMode === 'desc') items.sort((a, b) => b.idr - a.idr);
+
+  document.getElementById('result-count').textContent =
+    `顯示 ${items.length} 個景點`;
 
   const grid = document.getElementById('card-grid');
-  if (items.length === 0) {
-    grid.innerHTML = '<p class="col-span-full text-center text-gray-400 py-16">沒有符合條件的景點</p>';
-  } else {
-    grid.innerHTML = items.map(buildCard).join('');
-  }
+  grid.innerHTML = items.length
+    ? items.map(buildCard).join('')
+    : `<div class="tickets-empty">
+         <div class="tickets-empty-icon">🔍</div>
+         <p class="tickets-empty-text">沒有符合條件的景點</p>
+       </div>`;
 }
 
-// Filter buttons
 document.getElementById('filter-buttons').addEventListener('click', e => {
   const btn = e.target.closest('.filter-btn');
   if (!btn) return;
@@ -247,15 +599,13 @@ document.getElementById('filter-buttons').addEventListener('click', e => {
   render();
 });
 
-// Sort
 document.getElementById('sort-select').addEventListener('change', e => {
   sortMode = e.target.value;
   render();
 });
 
-// Search
 document.getElementById('search-input').addEventListener('input', e => {
-  searchQuery = e.target.value.trim();
+  searchQ = e.target.value.trim();
   render();
 });
 
