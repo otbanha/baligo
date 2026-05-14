@@ -1,5 +1,6 @@
 ---
 title: 【水明漾住宿推薦】IZE Seminyak：水明漾最潮設計精品飯店、下樓即是美食街、直通泳池房全開箱
+slug: ''
 description: 入住水明漾心臟地帶！開箱深受潮流旅人喜愛的 IZE Seminyak by LifestyleRetreats。解析其北歐簡約設計風格、獨特的頂樓天際泳池與超高 CP 值的直通泳池房。地理位置極佳，步行即可達熱門餐廳與精品店。2026 最新入住心得，帶您體驗結合都會時尚與海島悠閒的極致住宿饗宴。
 pubDate: 2026-04-18
 pubHour: 16
@@ -156,6 +157,6 @@ IZE Seminyak 共有四個主要房型，每種定位清晰：
 ## 📌 訂房資訊
 
 > 評分：Tripadvisor 4.0/5（2,274則評價）⭐ | Agoda 綜合評分 8.7 / 位置 9.3
-> [👉 點此查看 Agoda 最新房價與空房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=337808)
+> 👉 點此查看最新房價與空房：[Agoda ](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=337808)｜ [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=982037&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-M6ysTFJMEktY-Jo2Hmhx4mIWZDAyONoywGDxgttso7Bu2Qa30dWebg2X_oq0ZMdrVDAM8Mxqk_rDcyftOI6T_kGuKwg5HpBOOhqa4LmF6fe8V4ioWF48ATnkssexmjq5WyUyuVrEx0lEoyS3JSlayUni6a97Rhz_MVrUo6SimpxclAISArMTe_NK8EyDYysDQxN9IzMAAKliRWeKaANScn5iSX5iSWpIZUFgANMdJRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgiCji6D8zPw8iG4DFLGwxJzSVIhKoH1uqVArDGtjH7EwRce-YDnK8omF4RcLQxMrQxcrwyRWFg6gT3ex8vpa-kf6hekahuhG6RpeYF00NUhK0dDAwMDI1NTIXNcg0dLCKNXIQtfE0sTQwFDX1NjM0szYRGPFm95tj4yNTBQYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWxgaGRoaGRlZGuuZWKSZFVvkFVvkZkV4MAaxOTtbGDpbRtlwMYcGuwgu2mL-45CKtIMUs6dLkGLdA5aO2gRLey0QzxDGC2R6d2nbnxe89pEwkSTWqgzdkPCMDrECxgZGpi5GbgFGD8YIxgogj3EVIzsXs4GRoQDTBkbGHYz_YYDxFSPIWAB82CY7LAIAAA&masterhotelid_tracelogid=100025527-0a982e28-494101-5369634&detailFilters=17|1~17~1*31|982037~31~982037*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=616&isCT=true&isFlexible=F&isFirstEnterDetail=T&locale=zh-TW&isRightClick=T&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16944909)
 
 {{block:smk}}
