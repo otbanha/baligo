@@ -42,7 +42,7 @@ const faqSchema = {
     name: q.data.title,
     acceptedAnswer: {
       '@type': 'Answer',
-      text: q.data.title,
+      text: (q.body ?? '').replace(/[#*`_~[\]]/g, '').replace(/\(https?:\/\/[^\)]+\)/g, '').trim() || q.data.title,
     },
   }],
 };

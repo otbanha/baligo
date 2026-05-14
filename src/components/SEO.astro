@@ -253,14 +253,15 @@ if ((cats.includes('簽證通關') || cats.includes('签证通关')) && h2s.leng
 }
 
 // ── [新手指南] & [旅行技巧] FAQPage ──────────────────────────────────────────
+const faqQs = h2s.filter(h => h.text?.trim()).slice(0, 10);
 if (
   (cats.includes('新手指南') || cats.includes('旅行技巧')) &&
-  h2s.length > 0
+  faqQs.length > 0
 ) {
   extraSchemas.push({
     "@context": "https://schema.org",
     "@type": "FAQPage",
-    "mainEntity": h2s.filter(h => h.text?.trim()).slice(0, 10).map(h => ({
+    "mainEntity": faqQs.map(h => ({
       "@type": "Question",
       "name": h.text.trim(),
       "acceptedAnswer": {
