@@ -439,24 +439,6 @@ const socialLinks = [
           ))}
         </div>
 
-        <!-- 峇里島即時 Live Cam -->
-        <div class="livecam-section" id="livecam-section">
-          <div class="livecam-header">
-            <h2 class="livecam-heading">🎥 峇里島即時現場</h2>
-            <p class="livecam-sub">看看現在峇里島的天氣和海況</p>
-          </div>
-          <div class="livecam-row">
-            <div class="livecam-main" id="livecam-player"></div>
-            <div class="livecam-aside">
-              <p class="livecam-coming">Coming soon</p>
-            </div>
-          </div>
-          <div class="livecam-links">
-            <span class="livecam-links-label">其他即時鏡頭 →</span>
-            <a href="https://www.youtube.com/watch?v=xuSvwBMhysw" target="_blank" rel="noopener" class="lc-link">🌿 烏布</a>
-          </div>
-        </div>
-
         <!-- 峇里島即時天氣 -->
         <BaliWeather lang="zh-tw" />
 
@@ -505,6 +487,24 @@ const socialLinks = [
       </div>
 
       <div id="pagination" class="pagination"></div>
+
+      <!-- 峇里島即時 Live Cam（首頁限定，桌機） -->
+      <div class="livecam-section" id="livecam-section" style="display:none">
+        <div class="livecam-header">
+          <h2 class="livecam-heading">🎥 峇里島即時現場</h2>
+          <p class="livecam-sub">看看現在峇里島的天氣和海況</p>
+        </div>
+        <div class="livecam-row">
+          <div class="livecam-main" id="livecam-player"></div>
+          <div class="livecam-aside">
+            <p class="livecam-coming">Coming soon</p>
+          </div>
+        </div>
+        <div class="livecam-links">
+          <span class="livecam-links-label">其他即時鏡頭 →</span>
+          <a href="https://www.youtube.com/watch?v=xuSvwBMhysw" target="_blank" rel="noopener" class="lc-link">🌿 烏布</a>
+        </div>
+      </div>
 
       {activePromos.length > 0 && (
         <div id="promo-block-main">
@@ -706,6 +706,9 @@ const socialLinks = [
 
       const homepageBlocks = document.getElementById('homepage-blocks');
       if (homepageBlocks) homepageBlocks.style.display = (cat === 'all' && !q) ? 'block' : 'none';
+
+      const livecam = document.getElementById('livecam-section');
+      if (livecam) livecam.style.display = (cat === 'all' && !q) ? 'block' : 'none';
 
       const qLower = q ? q.toLowerCase() : '';
       filteredCards = [...cards].filter(card => {
