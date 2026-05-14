@@ -1,0 +1,253 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import Footer from '../components/Footer.astro';
+
+const title = '峇里島景點門票費用一覽 2026｜Bali Ticket Prices';
+const description = '峇里島 34 個熱門景點門票價格，含 Uluwatu、Waterbom、Nusa Penida，附 Klook/Agoda 訂票連結。';
+const lang = 'zh-tw';
+const slug = 'tickets';
+---
+
+<!doctype html>
+<html lang="zh-TW">
+<head>
+  <BaseHead title={title} description={description} />
+</head>
+
+<body class="bg-[#f7f5f0] text-gray-800">
+  <Header lang={lang} slug={slug} />
+
+  <main class="max-w-6xl mx-auto px-4 py-10 pb-20">
+
+    <div class="text-center mb-8">
+      <h1 class="text-2xl font-bold text-gray-900 mb-2">峇里島景點門票費用一覽 2026</h1>
+      <p class="text-sm text-gray-500">34 個熱門景點，附 Klook／Agoda 訂票連結</p>
+    </div>
+
+    <!-- 搜尋 + 排序 -->
+    <div class="flex flex-col sm:flex-row gap-3 mb-5">
+      <input
+        id="search-input"
+        type="text"
+        placeholder="搜尋景點名稱…"
+        class="flex-1 h-10 px-4 rounded-lg border border-gray-300 bg-white text-sm focus:outline-none focus:ring-2 focus:ring-orange-400"
+      />
+      <select
+        id="sort-select"
+        class="h-10 px-3 rounded-lg border border-gray-300 bg-white text-sm focus:outline-none focus:ring-2 focus:ring-orange-400"
+      >
+        <option value="default">排序：預設</option>
+        <option value="asc">票價低 → 高</option>
+        <option value="desc">票價高 → 低</option>
+      </select>
+    </div>
+
+    <!-- 分類篩選 -->
+    <div id="filter-buttons" class="flex flex-wrap gap-2 mb-7">
+      <button data-cat="all"       class="filter-btn active px-4 py-1.5 rounded-full text-sm font-medium border transition-colors">全部</button>
+      <button data-cat="temple"    class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium border transition-colors">寺廟</button>
+      <button data-cat="nature"    class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium border transition-colors">自然景觀</button>
+      <button data-cat="island"    class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium border transition-colors">Nusa Penida</button>
+      <button data-cat="park"      class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium border transition-colors">文化園區</button>
+      <button data-cat="activity"  class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium border transition-colors">主題樂園</button>
+      <button data-cat="adventure" class="filter-btn px-4 py-1.5 rounded-full text-sm font-medium border transition-colors">冒險活動</button>
+    </div>
+
+    <!-- Card Grid -->
+    <div id="card-grid" class="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+    </div>
+
+    <!-- 免責聲明 -->
+    <p class="mt-12 text-xs text-gray-400 text-center leading-relaxed">
+      票價資訊更新至 2026 年，現場價格可能隨時調整，建議出發前再次確認。<br/>
+      頁面含 Klook（AID: 116349）及 Agoda（CID: 1961347）聯盟連結。
+    </p>
+
+  </main>
+
+  <Footer />
+</body>
+</html>
+
+<style>
+  .filter-btn {
+    background: #fff;
+    border-color: #d1d5db;
+    color: #6b7280;
+  }
+  .filter-btn:hover {
+    border-color: #f97316;
+    color: #f97316;
+  }
+  .filter-btn.active {
+    background: #f97316;
+    border-color: #f97316;
+    color: #fff;
+  }
+</style>
+
+<script>
+const DATA = [
+  // 寺廟
+  { name:"Uluwatu Temple", cat:"temple", idr:150000, note:"含 Kecak Fire Dance。僅參觀神廟 IDR 50,000。現場付現/QRIS。", klook:"https://www.klook.com/zh-TW/activity/2679-uluwatu-temple-kecak-fire-dance-bali/?aid=116349", agoda:false, warn:null },
+  { name:"Tanah Lot", cat:"temple", idr:75000, note:"不接受刷卡，現場付現。", klook:"https://www.klook.com/zh-TW/activity/2688-tanah-lot-temple-bali/?aid=116349", agoda:false, warn:null },
+  { name:"Tirta Empul", cat:"temple", idr:50000, note:"含沙龍。可自費參加 Melukat 淨化浴儀式。", klook:"https://www.klook.com/zh-TW/search/?query=tirta+empul+bali&aid=116349", agoda:false, warn:null },
+  { name:"Goa Gajah", cat:"temple", idr:50000, note:"含沙龍。可與 Tirta Empul 同日遊覽。", klook:null, agoda:false, warn:null },
+  { name:"Lempuyang Temple", cat:"temple", idr:100000, note:"含沙龍。天堂之門拍照需接駁車 IDR 50,000。", klook:"https://www.klook.com/zh-TW/search/?query=lempuyang+temple+bali&aid=116349", agoda:false, warn:"⚠ 排隊可達 2–4 小時" },
+  { name:"Besakih Temple", cat:"temple", idr:150000, note:"峇里島最神聖母廟，阿貢火山山腰。必須著沙龍。", klook:"https://www.klook.com/zh-TW/search/?query=besakih+temple+bali&aid=116349", agoda:false, warn:null },
+  { name:"Ulun Danu Bratan", cat:"temple", idr:75000, note:"湖中水廟，含沙龍租借。", klook:"https://www.klook.com/zh-TW/search/?query=ulun+danu+bratan&aid=116349", agoda:false, warn:null },
+  { name:"Gunung Kawi", cat:"temple", idr:50000, note:"含沙龍。需步行下坡約 300 階。", klook:null, agoda:false, warn:null },
+
+  // 自然景觀
+  { name:"Ubud Monkey Forest", cat:"nature", idr:80000, note:"僅接受電子支付，不收現金。", klook:"https://www.klook.com/zh-TW/activity/2695-ubud-monkey-forest-bali/?aid=116349", agoda:false, warn:"⚠ 不收現金" },
+  { name:"Tegalalang Rice Terrace", cat:"nature", idr:50000, note:"各觀景台分別收費 IDR 15,000–25,000，入口管理費約 IDR 50,000。", klook:null, agoda:false, warn:null },
+  { name:"Jatiluwih Rice Terrace", cat:"nature", idr:50000, note:"UNESCO 世界文化遺產。停車另計 IDR 5,000。", klook:"https://www.klook.com/zh-TW/search/?query=jatiluwih+rice+terrace&aid=116349", agoda:false, warn:null },
+  { name:"Tegenungan Waterfall", cat:"nature", idr:25000, note:"含步道。玻璃橋另收 IDR 50,000。現場付現。", klook:"https://www.klook.com/zh-TW/search/?query=tegenungan+waterfall&aid=116349", agoda:false, warn:null },
+  { name:"Kintamani Volcano View", cat:"nature", idr:50000, note:"俯瞰 Mount Batur 與火山湖。登山健行另需嚮導費。", klook:"https://www.klook.com/zh-TW/search/?query=kintamani+bali&aid=116349", agoda:false, warn:null },
+  { name:"Tirta Gangga", cat:"nature", idr:50000, note:"東峇里王室水宮，含蓮花池步道。", klook:null, agoda:false, warn:null },
+  { name:"Taman Ayun Temple", cat:"nature", idr:20000, note:"皇家花園廟宇，UNESCO 遺產之一。", klook:null, agoda:false, warn:null },
+  { name:"Kanto Lampo Waterfall", cat:"nature", idr:20000, note:"拍照熱點，需走小徑下溪床，建議穿防滑鞋。現場付現。", klook:null, agoda:false, warn:null },
+
+  // Nusa Penida
+  { name:"Nusa Penida Retribution Fee", cat:"island", idr:25000, note:"2026年2月起改為線上預購，須持電子憑證上船。", klook:"https://www.klook.com/zh-TW/search/?query=nusa+penida+day+trip&aid=116349", agoda:false, warn:"⚠ 須線上預購" },
+  { name:"Nusa Penida Marine Conservation Fee", cat:"island", idr:100000, note:"進入海洋保護區（浮潛/潛水）另收。通常含在套裝行程內。", klook:"https://www.klook.com/zh-TW/search/?query=nusa+penida+snorkeling&aid=116349", agoda:false, warn:null },
+  { name:"Fast Boat Ticket (Sanur ↔ Nusa Penida)", cat:"island", idr:250000, note:"單程約 IDR 150,000–250,000，依船公司而異。建議線上預購對號入座。", klook:"https://www.klook.com/zh-TW/search/?query=fast+boat+nusa+penida&aid=116349", agoda:false, warn:null },
+  { name:"Nusa Penida Full Day Tour", cat:"island", idr:450000, note:"含接送、導遊、午餐。西線（Kelingking/Angel's Billabong）或東線（Atuh Beach）可選。", klook:"https://www.klook.com/zh-TW/search/?query=nusa+penida+full+day+tour&aid=116349", agoda:true, warn:null },
+
+  // 文化園區
+  { name:"GWK Cultural Park", cat:"park", idr:150000, note:"含文化表演區。線上購票可省 IDR 25,000。", klook:"https://www.klook.com/zh-TW/search/?query=GWK+cultural+park+bali&aid=116349", agoda:false, warn:null },
+  { name:"Ubud Palace Night Dance", cat:"park", idr:100000, note:"白天免費參觀。夜間傳統舞蹈約 IDR 100,000，每晚節目不同。", klook:"https://www.klook.com/zh-TW/search/?query=ubud+palace+dance&aid=116349", agoda:false, warn:null },
+  { name:"Bali Museum", cat:"park", idr:50000, note:"登巴薩市區，展示峇里島傳統文物與歷史。", klook:null, agoda:false, warn:null },
+
+  // 主題樂園
+  { name:"Waterbom Bali", cat:"activity", idr:600000, note:"票價依旺淡季浮動（IDR 550,000–700,000）。線上購票通常較便宜。", klook:"https://www.klook.com/zh-TW/search/?query=waterbom+bali&aid=116349", agoda:true, warn:null },
+  { name:"Bali Zoo", cat:"activity", idr:350000, note:"含園區入場及動物秀。與紅毛猩猩共進早餐為熱門加購項目。", klook:"https://www.klook.com/zh-TW/search/?query=bali+zoo&aid=116349", agoda:false, warn:null },
+  { name:"Bali Safari & Marine Park", cat:"activity", idr:500000, note:"Jungle Hopper 基本票含 Safari 車程。含 Bali Agung Show 的 Legend 票另計。", klook:"https://www.klook.com/zh-TW/search/?query=bali+safari+marine+park&aid=116349", agoda:false, warn:null },
+  { name:"Trans Studio Bali", cat:"activity", idr:250000, note:"室內主題樂園，適合親子。含多項機械遊樂設施。", klook:"https://www.klook.com/zh-TW/search/?query=trans+studio+bali&aid=116349", agoda:false, warn:null },
+
+  // 冒險活動
+  { name:"Bali Swing Ubud", cat:"adventure", idr:500000, note:"含午餐、開放式飲料吧。多種鞦韆高度（最高 78m）。含接送（Ubud 區）。", klook:"https://www.klook.com/zh-TW/search/?query=bali+swing+ubud&aid=116349", agoda:false, warn:null },
+  { name:"Ayung River Rafting", cat:"adventure", idr:350000, note:"約 2 小時，Class II–III 急流。含午餐、保險、裝備。", klook:"https://www.klook.com/zh-TW/search/?query=ayung+river+rafting+bali&aid=116349", agoda:false, warn:null },
+  { name:"ATV Ride Ubud", cat:"adventure", idr:550000, note:"約 1.5 小時，穿越稻田、叢林與村莊。含午餐、裝備。", klook:"https://www.klook.com/zh-TW/search/?query=atv+ride+ubud+bali&aid=116349", agoda:false, warn:null },
+  { name:"Mount Batur Sunrise Trek", cat:"adventure", idr:450000, note:"凌晨出發，約 2 小時登頂。含嚮導、早餐。建議線上預購。", klook:"https://www.klook.com/zh-TW/search/?query=mount+batur+sunrise+trek&aid=116349", agoda:false, warn:null },
+  { name:"Nusa Penida Snorkeling", cat:"adventure", idr:400000, note:"含 3 個浮潛點、裝備、午餐。通常含 Marine Conservation Fee。", klook:"https://www.klook.com/zh-TW/search/?query=nusa+penida+snorkeling+tour&aid=116349", agoda:false, warn:null },
+  { name:"Surfing Lesson Canggu", cat:"adventure", idr:350000, note:"約 2 小時，含教練、板子、蠟。適合初學者。", klook:"https://www.klook.com/zh-TW/search/?query=surfing+lesson+canggu&aid=116349", agoda:false, warn:null },
+  { name:"Surfing Lesson Kuta", cat:"adventure", idr:300000, note:"Kuta Beach 沙灘浪適合初學，約 2 小時含教練與板子。", klook:"https://www.klook.com/zh-TW/search/?query=surfing+lesson+kuta+bali&aid=116349", agoda:false, warn:null },
+  { name:"Ubud Cooking Class", cat:"adventure", idr:400000, note:"含市場採購、3–5 道菜烹飪、食譜帶回。約 4–5 小時。", klook:"https://www.klook.com/zh-TW/search/?query=ubud+cooking+class&aid=116349", agoda:false, warn:null },
+  { name:"Uluwatu Paragliding", cat:"adventure", idr:1500000, note:"雙人滑翔傘，俯瞰印度洋，約 15–20 分鐘。含接送。", klook:"https://www.klook.com/zh-TW/search/?query=paragliding+uluwatu+bali&aid=116349", agoda:false, warn:null },
+  { name:"River Tubing", cat:"adventure", idr:350000, note:"坐橡皮圈漂流峇里島叢林河道，約 2 小時。含裝備、午餐。", klook:"https://www.klook.com/zh-TW/search/?query=river+tubing+bali&aid=116349", agoda:false, warn:null },
+];
+
+const CAT_LABEL = {
+  temple: '寺廟',
+  nature: '自然景觀',
+  island: 'Nusa Penida',
+  park: '文化園區',
+  activity: '主題樂園',
+  adventure: '冒險活動',
+};
+
+const CAT_COLOR = {
+  temple:   { bg:'bg-purple-100', text:'text-purple-700', border:'border-purple-300' },
+  nature:   { bg:'bg-green-100',  text:'text-green-700',  border:'border-green-300' },
+  island:   { bg:'bg-cyan-100',   text:'text-cyan-700',   border:'border-cyan-300' },
+  park:     { bg:'bg-orange-100', text:'text-orange-700', border:'border-orange-300' },
+  activity: { bg:'bg-blue-100',   text:'text-blue-700',   border:'border-blue-300' },
+  adventure:{ bg:'bg-red-100',    text:'text-red-700',    border:'border-red-300' },
+};
+
+function formatIDR(n) {
+  return 'IDR ' + n.toLocaleString('en-US');
+}
+
+function buildCard(item) {
+  const c = CAT_COLOR[item.cat] || CAT_COLOR.temple;
+  const label = CAT_LABEL[item.cat] || item.cat;
+
+  const warnHtml = item.warn
+    ? `<span class="inline-block mt-2 px-2 py-0.5 rounded text-xs font-medium bg-orange-50 text-orange-600 border border-orange-200">${item.warn}</span>`
+    : '';
+
+  const klookBtn = item.klook
+    ? `<a href="${item.klook}" target="_blank" rel="noopener noreferrer"
+          class="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs font-semibold border border-orange-400 text-orange-500 hover:bg-orange-50 transition-colors">
+          Klook 訂票
+       </a>`
+    : '';
+
+  const agodaBtn = item.agoda
+    ? `<a href="https://www.agoda.com/zh-tw/bali-activities/?cid=1961347" target="_blank" rel="noopener noreferrer"
+          class="inline-flex items-center gap-1 px-3 py-1.5 rounded-lg text-xs font-semibold border border-blue-400 text-blue-500 hover:bg-blue-50 transition-colors">
+          Agoda 訂票
+       </a>`
+    : '';
+
+  const hasBtn = item.klook || item.agoda;
+
+  return `
+    <div class="bg-white rounded-xl border border-gray-200 p-5 flex flex-col gap-3 shadow-sm hover:shadow-md transition-shadow" data-cat="${item.cat}">
+      <div class="flex items-start justify-between gap-2">
+        <h2 class="font-bold text-gray-900 text-base leading-snug">${item.name}</h2>
+        <span class="shrink-0 inline-block px-2 py-0.5 rounded-full text-xs font-medium border ${c.bg} ${c.text} ${c.border}">${label}</span>
+      </div>
+      <div class="text-lg font-bold text-gray-800">${formatIDR(item.idr)}</div>
+      <p class="text-xs text-gray-500 leading-relaxed">${item.note}</p>
+      ${warnHtml}
+      ${hasBtn ? `<div class="flex flex-wrap gap-2 mt-auto pt-1">${klookBtn}${agodaBtn}</div>` : ''}
+    </div>
+  `;
+}
+
+let activeCat = 'all';
+let sortMode = 'default';
+let searchQuery = '';
+
+function render() {
+  let items = [...DATA];
+
+  if (activeCat !== 'all') {
+    items = items.filter(i => i.cat === activeCat);
+  }
+  if (searchQuery) {
+    const q = searchQuery.toLowerCase();
+    items = items.filter(i => i.name.toLowerCase().includes(q) || i.note.toLowerCase().includes(q));
+  }
+  if (sortMode === 'asc') {
+    items.sort((a, b) => a.idr - b.idr);
+  } else if (sortMode === 'desc') {
+    items.sort((a, b) => b.idr - a.idr);
+  }
+
+  const grid = document.getElementById('card-grid');
+  if (items.length === 0) {
+    grid.innerHTML = '<p class="col-span-full text-center text-gray-400 py-16">沒有符合條件的景點</p>';
+  } else {
+    grid.innerHTML = items.map(buildCard).join('');
+  }
+}
+
+// Filter buttons
+document.getElementById('filter-buttons').addEventListener('click', e => {
+  const btn = e.target.closest('.filter-btn');
+  if (!btn) return;
+  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  activeCat = btn.dataset.cat;
+  render();
+});
+
+// Sort
+document.getElementById('sort-select').addEventListener('change', e => {
+  sortMode = e.target.value;
+  render();
+});
+
+// Search
+document.getElementById('search-input').addEventListener('input', e => {
+  searchQuery = e.target.value.trim();
+  render();
+});
+
+render();
+</script>
