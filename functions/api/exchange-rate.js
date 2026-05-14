@@ -12,6 +12,16 @@ const SLOTS = [
 const TWD_FIXED = 350;
 const CODES = ['USD', 'AUD', 'SGD', 'HKD', 'MYR', 'CNY'];
 
+// 市場參考價額外調整（從BI買入價再扣，貼近換匯所實際行情）
+const MARKET_ADJUST = {
+  USD: 300,
+  AUD: 350,
+  SGD: 350,
+  HKD: 150,
+  MYR: 400,
+  CNY: 90,
+};
+
 // 中間價與銀行買入價的典型差距（根據 BCA E-Rate 實際觀察值）
 const BANK_SPREAD = {
   USD: 150,
@@ -130,6 +140,11 @@ async function fetchRates() {
     await fetchFromCurrencyAPI().catch(() => null);
 
   if (!result) return null;
+  for (const code of CODES) {
+    if (result.rates[code] != null && MARKET_ADJUST[code]) {
+      result.rates[code] = Math.max(1, result.rates[code] - MARKET_ADJUST[code]);
+    }
+  }
   result.rates['TWD'] = TWD_FIXED;
   result.date = getSlotDateTimeStr();
   return result;
