@@ -1,5 +1,6 @@
 ---
 title: 【水明漾住宿推薦】The Maya Seminyak Villas：水明漾鬧區中的傳統秘境、高隱私私人泳池 Villa 首選
+slug: ''
 description: 想在熱鬧的水明漾尋找一片寧靜？深度開箱 The Maya Seminyak Villas。這座隱身於巷弄中的寶藏 Villa，結合了經典峇里島傳統建築與現代舒適設備，擁有絕佳私密性的私人泳池。本篇解析其地理位置優勢、住客真實評價與預約建議，帶您在繁華中心體驗最純粹的南洋度假靈魂。
 pubDate: 2026-04-16
 pubHour: 16
@@ -138,6 +139,6 @@ embeds: []
 ## 📌 訂房資訊
 
 > 評分：入選「Agoda Preferred」Agoda 住客評分 8.5⭐ | Tripadvisor #34（393間住宿中）
-> [👉 點此查看 Agoda 最新房價與空房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=59330108)
+> [👉 ](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=59330108)點此查看 最新房價與空房： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=59330108) ｜ [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685535&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-M6wcTFJMEkdZCJ4_Tst_-ZhJgNDYw0jrIYPGC02Crv-E0jpv_Qzh4HT67riwtsMyc6BPDMYLz_WnMjY7XIOveHSRkOOxiZTjA-vb6ecQFT15VXjKdYWDimP5S7xLKXMbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUwNjS1NLPQMDoGBJYoVnClhzcmJOcmlOYklqSGUB0BAjHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSwIMroIys_Mz4PoNkARC0vMKU2FqATa55YKtcKwNvYRC1N07AuWoyyfWBh-sTA0sTJ0sTJMYmXlAHl1FyuvkaVvWJilrmGIbpSu4QXWVyuOMkopGxoYGJgaGpua6hokWlqkWZiZ65pYmhgaGOpaGBkbGZmaGxhqPHlwa-sjYyMTBUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWwuzi6GxhZRNlzMocEugou2mP84pCLtIMXs6RKkWPeApaM2wdJeC8QzhPECmd5d2vbnBa99JEwkibUqQzckPKNDrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCDIWAPU5LaUxAgAA&masterhotelid_tracelogid=100051355-0a98f867-494101-823225701&detailFilters=17|1~17~1*31|685535~31~685535*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1488&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16944692)
 
 {{block:smk}}
