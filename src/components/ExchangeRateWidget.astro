@@ -2,30 +2,26 @@
 // ExchangeRateWidget.astro
 const { lang = 'zh-tw' } = Astro.props;
 
-const i18n: Record<string, { title: string; datePrefix: string; dateSuffix: string; disclaimer: string }> = {
+const i18n: Record<string, { title: string; datePrefix: string; disclaimer: string }> = {
   'zh-tw': {
     title: '💱 每日參考匯率',
-    datePrefix: '最新：',
-    dateSuffix: '（週末/假日維持前一工作日）',
-    disclaimer: '參考匯率，實際匯率以各換匯所為準',
+    datePrefix: '最新更新：',
+    disclaimer: '資料來源：印尼銀行（BI）買入價，實際匯率以各換匯所為準',
   },
   'zh-hk': {
     title: '💱 每日參考匯率',
-    datePrefix: '最新：',
-    dateSuffix: '（週末/假日維持前一工作日）',
-    disclaimer: '參考匯率，實際匯率以各換匯所為準',
+    datePrefix: '最新更新：',
+    disclaimer: '資料來源：印尼銀行（BI）買入價，實際匯率以各換匯所為準',
   },
   'zh-cn': {
     title: '💱 每日参考汇率',
-    datePrefix: '最新：',
-    dateSuffix: '（周末/节假日维持前一工作日）',
-    disclaimer: '参考汇率，实际汇率以各换汇所为准',
+    datePrefix: '最新更新：',
+    disclaimer: '资料来源：印尼银行（BI）买入价，实际汇率以各换汇所为准',
   },
   'en': {
     title: '💱 Daily Exchange Rate',
-    datePrefix: 'Latest: ',
-    dateSuffix: ' (weekends/holidays use prev. business day)',
-    disclaimer: 'Reference rate only. Actual rates vary by money changer.',
+    datePrefix: 'Updated: ',
+    disclaimer: 'Source: Bank Indonesia (BI) buy rate. Actual rates vary by money changer.',
   },
 };
 
@@ -43,29 +39,31 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   <p class="exr-disclaimer">{t.disclaimer}</p>
 </div>
 
-<script is:inline define:vars={{ datePrefix: t.datePrefix, dateSuffix: t.dateSuffix }}>
+<script is:inline define:vars={{ datePrefix: t.datePrefix }}>
 (function () {
   var CURRENCIES = [
-    { code: 'USD', flag: '🇺🇸' },
-    { code: 'AUD', flag: '🇦🇺' },
-    { code: 'SGD', flag: '🇸🇬' },
-    { code: 'HKD', flag: '🇭🇰' },
-    { code: 'MYR', flag: '🇲🇾' },
-    { code: 'CNY', flag: '🇨🇳' },
-    { code: 'TWD', flag: '🇹🇼', fixed: 350 },
+    { code: 'USD', cc: 'us' },
+    { code: 'AUD', cc: 'au' },
+    { code: 'SGD', cc: 'sg' },
+    { code: 'HKD', cc: 'hk' },
+    { code: 'MYR', cc: 'my' },
+    { code: 'CNY', cc: 'cn' },
+    { code: 'TWD', cc: 'tw', fixed: 350 },
   ];
 
   function fmt(n) {
     return Number(n).toLocaleString('en-US');
   }
 
-  fetch('/api/exchange-rate')
+  var today = new Date(Date.now() + 8*3600000);
+  var dateKey = today.getUTCFullYear() + '-' + String(today.getUTCMonth()+1).padStart(2,'0') + '-' + String(today.getUTCDate()).padStart(2,'0');
+  fetch('/api/exchange-rate?d=' + dateKey)
     .then(function(r) { return r.ok ? r.json() : Promise.reject(); })
     .then(function(data) {
       var row = document.getElementById('exr-row');
       var dateEl = document.getElementById('exr-date');
       if (!row) return;
-      if (data.date && dateEl) dateEl.textContent = datePrefix + data.date + dateSuffix;
+      if (data.date && dateEl) dateEl.textContent = datePrefix + data.date;
       if (!data.rates) {
         row.innerHTML = '<span style="color:rgba(255,255,255,0.4);font-size:0.85em">—</span>';
         return;
@@ -74,7 +72,7 @@ const t = i18n[lang] ?? i18n['zh-tw'];
         var val = c.fixed != null ? c.fixed : data.rates[c.code];
         var rp = val != null ? 'Rp ' + fmt(val) : '—';
         return '<div class="exr-item">' +
-            '<span class="exr-flag">' + c.flag + '</span>' +
+            '<img class="exr-flag" src="https://flagcdn.com/24x18/' + c.cc + '.png" width="24" height="18" alt="' + c.code + '" loading="lazy">' +
             '<span class="exr-code">1 ' + c.code + '</span>' +
             '<span class="exr-amt">' + rp + '</span>' +
           '</div>';
@@ -165,8 +163,11 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   border-right: none;
 }
 :global(.exr-flag) {
-  font-size: 1.25em;
-  line-height: 1;
+  width: 24px;
+  height: 18px;
+  border-radius: 2px;
+  display: block;
+  object-fit: cover;
 }
 :global(.exr-code) {
   font-size: 0.72em;
@@ -219,7 +220,7 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   :global(.exr-cta:hover) {
     background: rgba(197,160,89,0.16);
   }
-  :global(.exr-flag) { font-size: 1.1em; }
+  :global(.exr-flag) { width: 20px; height: 15px; }
   :global(.exr-code) { font-size: 0.68em; }
   :global(.exr-amt)  { font-size: 0.82em; }
   .exr-date { font-size: 0.6em; }

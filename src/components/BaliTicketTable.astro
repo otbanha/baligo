@@ -1,0 +1,372 @@
+<section id="ticket-table-section" class="tt-section">
+  <div class="tt-header">
+    <h2 class="tt-title">🎟️ 峇里島景點門票參考票價</h2>
+    <div class="tt-controls">
+      <div class="tt-filters" id="tt-filters">
+        <button class="tt-filter active" data-cat="all">全部</button>
+        <button class="tt-filter" data-cat="temple">🛕 寺廟</button>
+        <button class="tt-filter" data-cat="nature">🌿 自然</button>
+        <button class="tt-filter" data-cat="island">🏝️ 離島</button>
+        <button class="tt-filter" data-cat="park">🏛️ 文化</button>
+        <button class="tt-filter" data-cat="activity">🎡 樂園</button>
+        <button class="tt-filter" data-cat="adventure">⚡ 冒險</button>
+      </div>
+      <div class="tt-sort-group">
+        <button class="tt-sort-btn active" data-sort="default">預設</button>
+        <button class="tt-sort-btn" data-sort="asc">↑ 票價</button>
+        <button class="tt-sort-btn" data-sort="desc">↓ 票價</button>
+      </div>
+    </div>
+  </div>
+
+  <div class="tt-list" id="tt-list"></div>
+
+  <p class="tt-disclaimer">票價更新至 2026 年，現場價格可能調整。Klook / Agoda 為聯盟連結。</p>
+</section>
+
+<script is:inline>
+(function () {
+  var AGODA_URL = 'https://www.agoda.com/zh-tw/bali-activities/?cid=1961347';
+
+  var CAT_LABEL = { temple:'寺廟', nature:'自然景觀', island:'Nusa Penida', park:'文化園區', activity:'主題樂園', adventure:'冒險活動' };
+  var CAT_CLS   = { temple:'cat-temple', nature:'cat-nature', island:'cat-island', park:'cat-park', activity:'cat-activity', adventure:'cat-adventure' };
+
+  var data = [
+    { name:'Uluwatu Temple', cat:'temple', idr:150000, note:'含 Kecak Fire Dance。僅參觀神廟 IDR 50,000。', klook:'https://www.klook.com/zh-TW/activity/2679-uluwatu-temple-kecak-fire-dance-bali/?aid=116349', agoda:false, warn:'⚠ 易塞車' },
+    { name:'Tanah Lot', cat:'temple', idr:75000, note:'不接受刷卡，現場付現。', klook:'https://www.klook.com/zh-TW/activity/2688-tanah-lot-temple-bali/?aid=116349', agoda:false, warn:null },
+    { name:'Tirta Empul', cat:'temple', idr:50000, note:'含沙龍。可自費參加 Melukat 淨化浴。', klook:'https://www.klook.com/zh-TW/search/?query=tirta+empul+bali&aid=116349', agoda:false, warn:null },
+    { name:'Goa Gajah', cat:'temple', idr:50000, note:'含沙龍。可與 Tirta Empul 同日遊覽。', klook:null, agoda:false, warn:null },
+    { name:'Lempuyang Temple', cat:'temple', idr:100000, note:'含沙龍。天堂之門拍照需接駁車 IDR 50,000。', klook:'https://www.klook.com/zh-TW/search/?query=lempuyang+temple+bali&aid=116349', agoda:false, warn:'⚠ 排隊 2–4h' },
+    { name:'Besakih Temple', cat:'temple', idr:150000, note:'峇里島最神聖母廟，阿貢火山山腰。', klook:'https://www.klook.com/zh-TW/search/?query=besakih+temple+bali&aid=116349', agoda:false, warn:null },
+    { name:'Ulun Danu Bratan', cat:'temple', idr:75000, note:'湖中水廟，含沙龍租借。', klook:'https://www.klook.com/zh-TW/search/?query=ulun+danu+bratan&aid=116349', agoda:false, warn:null },
+    { name:'Gunung Kawi', cat:'temple', idr:50000, note:'含沙龍。需步行下坡約 300 階。', klook:null, agoda:false, warn:null },
+    { name:'Ubud Monkey Forest', cat:'nature', idr:80000, note:'僅接受電子支付，不收現金。', klook:'https://www.klook.com/zh-TW/activity/2695-ubud-monkey-forest-bali/?aid=116349', agoda:false, warn:'⚠ 不收現金' },
+    { name:'Tegalalang Rice Terrace', cat:'nature', idr:50000, note:'各觀景台分別收費 IDR 15,000–25,000。', klook:null, agoda:false, warn:null },
+    { name:'Jatiluwih Rice Terrace', cat:'nature', idr:50000, note:'UNESCO 世界文化遺產。停車另計。', klook:'https://www.klook.com/zh-TW/search/?query=jatiluwih+rice+terrace&aid=116349', agoda:false, warn:null },
+    { name:'Tegenungan Waterfall', cat:'nature', idr:25000, note:'玻璃橋另收 IDR 50,000。現場付現。', klook:'https://www.klook.com/zh-TW/search/?query=tegenungan+waterfall&aid=116349', agoda:false, warn:null },
+    { name:'Kintamani Volcano View', cat:'nature', idr:50000, note:'俯瞰 Mount Batur 與火山湖。', klook:'https://www.klook.com/zh-TW/search/?query=kintamani+bali&aid=116349', agoda:false, warn:null },
+    { name:'Tirta Gangga', cat:'nature', idr:50000, note:'東峇里王室水宮，含蓮花池步道。', klook:null, agoda:false, warn:null },
+    { name:'Taman Ayun Temple', cat:'nature', idr:20000, note:'皇家花園廟宇，UNESCO 遺產。', klook:null, agoda:false, warn:null },
+    { name:'Kanto Lampo Waterfall', cat:'nature', idr:20000, note:'拍照熱點，建議穿防滑鞋。', klook:null, agoda:false, warn:null },
+    { name:'Nusa Penida 入島費', cat:'island', idr:25000, note:'2026年起須線上預購，持電子憑證上船。', klook:'https://www.klook.com/zh-TW/search/?query=nusa+penida+day+trip&aid=116349', agoda:false, warn:'⚠ 線上預購' },
+    { name:'Nusa Penida 海洋保育費', cat:'island', idr:100000, note:'浮潛/潛水進入保護區需繳，通常含套裝內。', klook:'https://www.klook.com/zh-TW/search/?query=nusa+penida+snorkeling&aid=116349', agoda:false, warn:null },
+    { name:'Fast Boat（Sanur ↔ Nusa Penida）', cat:'island', idr:250000, note:'單程 IDR 150,000–250,000，依船公司。', klook:'https://www.klook.com/zh-TW/search/?query=fast+boat+nusa+penida&aid=116349', agoda:false, warn:null },
+    { name:'Nusa Penida Full Day Tour', cat:'island', idr:450000, note:'含接送、導遊、午餐。西線或東線可選。', klook:'https://www.klook.com/zh-TW/search/?query=nusa+penida+full+day+tour&aid=116349', agoda:true, warn:null },
+    { name:'GWK Cultural Park', cat:'park', idr:150000, note:'含文化表演區。線上購票可省 IDR 25,000。', klook:'https://www.klook.com/zh-TW/search/?query=GWK+cultural+park+bali&aid=116349', agoda:false, warn:null },
+    { name:'Ubud Palace Night Dance', cat:'park', idr:100000, note:'白天免費。夜間傳統舞蹈每晚節目不同。', klook:'https://www.klook.com/zh-TW/search/?query=ubud+palace+dance&aid=116349', agoda:false, warn:null },
+    { name:'Bali Museum', cat:'park', idr:50000, note:'登巴薩市區，展示峇里島傳統文物。', klook:null, agoda:false, warn:null },
+    { name:'Waterbom Bali', cat:'activity', idr:600000, note:'票價依旺淡季浮動（550,000–700,000）。', klook:'https://www.klook.com/zh-TW/search/?query=waterbom+bali&aid=116349', agoda:true, warn:null },
+    { name:'Bali Zoo', cat:'activity', idr:350000, note:'含園區入場及動物秀。', klook:'https://www.klook.com/zh-TW/search/?query=bali+zoo&aid=116349', agoda:false, warn:null },
+    { name:'Bali Safari & Marine Park', cat:'activity', idr:500000, note:'Jungle Hopper 含 Safari 車程。', klook:'https://www.klook.com/zh-TW/search/?query=bali+safari+marine+park&aid=116349', agoda:false, warn:null },
+    { name:'Trans Studio Bali', cat:'activity', idr:250000, note:'室內主題樂園，適合親子。', klook:'https://www.klook.com/zh-TW/search/?query=trans+studio+bali&aid=116349', agoda:false, warn:null },
+    { name:'Bali Swing Ubud', cat:'adventure', idr:500000, note:'含午餐、飲料。最高 78m 鞦韆。', klook:'https://www.klook.com/zh-TW/search/?query=bali+swing+ubud&aid=116349', agoda:false, warn:null },
+    { name:'Ayung River Rafting', cat:'adventure', idr:350000, note:'約 2h，Class II–III。含午餐、裝備。', klook:'https://www.klook.com/zh-TW/search/?query=ayung+river+rafting+bali&aid=116349', agoda:false, warn:null },
+    { name:'ATV Ride Ubud', cat:'adventure', idr:550000, note:'約 1.5h，穿越稻田叢林。含午餐。', klook:'https://www.klook.com/zh-TW/search/?query=atv+ride+ubud+bali&aid=116349', agoda:false, warn:null },
+    { name:'Mount Batur Sunrise Trek', cat:'adventure', idr:450000, note:'凌晨出發，約 2h 登頂。含嚮導、早餐。', klook:'https://www.klook.com/zh-TW/search/?query=mount+batur+sunrise+trek&aid=116349', agoda:false, warn:null },
+    { name:'Nusa Penida Snorkeling', cat:'adventure', idr:400000, note:'含 3 浮潛點、裝備、午餐。', klook:'https://www.klook.com/zh-TW/search/?query=nusa+penida+snorkeling+tour&aid=116349', agoda:false, warn:null },
+    { name:'Surfing Lesson Canggu', cat:'adventure', idr:350000, note:'約 2h，含教練、板子。初學適合。', klook:'https://www.klook.com/zh-TW/search/?query=surfing+lesson+canggu&aid=116349', agoda:false, warn:null },
+    { name:'Surfing Lesson Kuta', cat:'adventure', idr:300000, note:'Kuta 沙灘浪適合初學，約 2h。', klook:'https://www.klook.com/zh-TW/search/?query=surfing+lesson+kuta+bali&aid=116349', agoda:false, warn:null },
+    { name:'Ubud Cooking Class', cat:'adventure', idr:400000, note:'含市場採購、3–5 道菜烹飪。約 4–5h。', klook:'https://www.klook.com/zh-TW/search/?query=ubud+cooking+class&aid=116349', agoda:false, warn:null },
+    { name:'Uluwatu Paragliding', cat:'adventure', idr:1500000, note:'雙人滑翔傘，俯瞰印度洋，約 15–20 分鐘。', klook:'https://www.klook.com/zh-TW/search/?query=paragliding+uluwatu+bali&aid=116349', agoda:false, warn:null },
+    { name:'River Tubing', cat:'adventure', idr:350000, note:'橡皮圈漂流叢林河道，約 2h。含裝備。', klook:'https://www.klook.com/zh-TW/search/?query=river+tubing+bali&aid=116349', agoda:false, warn:null },
+  ];
+
+  function fmtIdr(n) {
+    return 'IDR ' + n.toLocaleString('en-US');
+  }
+
+  function buildRow(item) {
+    var row = document.createElement('div');
+    row.className = 'tt-row';
+    row.dataset.cat = item.cat;
+
+    var left = '<div class="tt-row-left">';
+    left += '<span class="tt-cat-dot ' + (CAT_CLS[item.cat] || '') + '" title="' + (CAT_LABEL[item.cat] || '') + '"></span>';
+    left += '<span class="tt-row-name">' + item.name + '</span>';
+    if (item.warn) left += '<span class="tt-warn">' + item.warn + '</span>';
+    left += '</div>';
+
+    var mid = '<div class="tt-row-mid">';
+    mid += '<span class="tt-row-note">' + item.note + '</span>';
+    mid += '</div>';
+
+    var right = '<div class="tt-row-right">';
+    right += '<span class="tt-row-price">' + fmtIdr(item.idr) + '</span>';
+    right += '<div class="tt-btns">';
+    if (item.klook) {
+      right += '<a class="tt-btn tt-btn-klook" href="' + item.klook + '" target="_blank" rel="noopener">Klook</a>';
+    }
+    if (item.agoda) {
+      right += '<a class="tt-btn tt-btn-agoda" href="' + AGODA_URL + '" target="_blank" rel="noopener">Agoda</a>';
+    }
+    right += '</div></div>';
+
+    row.innerHTML = left + mid + right;
+    return row;
+  }
+
+  var originalData = data.slice();
+  var currentCat = 'all';
+  var currentSort = 'default';
+
+  function getFiltered() {
+    var list = currentCat === 'all' ? originalData.slice() : originalData.filter(function(d){ return d.cat === currentCat; });
+    if (currentSort === 'asc') list.sort(function(a,b){ return a.idr - b.idr; });
+    else if (currentSort === 'desc') list.sort(function(a,b){ return b.idr - a.idr; });
+    return list;
+  }
+
+  function render() {
+    var list = document.getElementById('tt-list');
+    if (!list) return;
+    list.innerHTML = '';
+    getFiltered().forEach(function(item){ list.appendChild(buildRow(item)); });
+  }
+
+  function init() {
+    render();
+
+    document.getElementById('tt-filters').addEventListener('click', function(e) {
+      var btn = e.target.closest('.tt-filter');
+      if (!btn) return;
+      document.querySelectorAll('.tt-filter').forEach(function(b){ b.classList.remove('active'); });
+      btn.classList.add('active');
+      currentCat = btn.dataset.cat;
+      render();
+    });
+
+    document.querySelectorAll('.tt-sort-btn').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        document.querySelectorAll('.tt-sort-btn').forEach(function(b){ b.classList.remove('active'); });
+        btn.classList.add('active');
+        currentSort = btn.dataset.sort;
+        render();
+      });
+    });
+  }
+
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
+
+<style>
+.tt-section {
+  margin: 1.5em 0;
+  background: var(--white);
+  border-radius: 12px;
+  border: 1px solid rgba(197,160,89,0.2);
+  padding: 1em 1.2em;
+  box-shadow: 0 2px 10px rgba(10,22,40,0.05);
+}
+
+.tt-header {
+  margin-bottom: 0.8em;
+}
+
+.tt-title {
+  font-size: 0.95em;
+  font-weight: 700;
+  color: var(--ocean);
+  margin: 0 0 0.6em;
+  padding: 0;
+  border: none;
+}
+
+.tt-controls {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 0.4em;
+  padding-bottom: 0.7em;
+  border-bottom: 1px solid rgba(197,160,89,0.15);
+}
+
+.tt-filters {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3em;
+}
+
+.tt-filter {
+  font-size: 0.75em;
+  font-weight: 600;
+  padding: 0.25em 0.7em;
+  border-radius: 20px;
+  border: 1px solid rgba(197,160,89,0.35);
+  background: transparent;
+  color: var(--text-light);
+  cursor: pointer;
+  font-family: inherit;
+  transition: all 0.12s;
+  white-space: nowrap;
+}
+.tt-filter:hover { border-color: var(--gold); color: var(--ocean); }
+.tt-filter.active { background: var(--ocean); color: var(--gold-light); border-color: var(--ocean); }
+
+.tt-sort-group {
+  display: flex;
+  gap: 0.25em;
+  flex-shrink: 0;
+}
+
+.tt-sort-btn {
+  font-size: 0.72em;
+  padding: 0.2em 0.6em;
+  border-radius: 20px;
+  border: 1px solid rgba(197,160,89,0.3);
+  background: transparent;
+  color: var(--text-light);
+  cursor: pointer;
+  font-family: inherit;
+  transition: all 0.12s;
+  white-space: nowrap;
+}
+.tt-sort-btn.active,
+.tt-sort-btn:hover {
+  background: var(--ocean);
+  color: var(--gold-light);
+  border-color: var(--ocean);
+}
+
+/* List rows */
+.tt-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.tt-row {
+  display: grid;
+  grid-template-columns: 1fr auto;
+  grid-template-rows: auto auto;
+  gap: 0 0.8em;
+  padding: 0.55em 0;
+  border-bottom: 1px solid rgba(197,160,89,0.1);
+  align-items: center;
+}
+.tt-row:last-child { border-bottom: none; }
+
+.tt-row-left {
+  grid-column: 1;
+  grid-row: 1;
+  display: flex;
+  align-items: center;
+  gap: 0.4em;
+  flex-wrap: wrap;
+  min-width: 0;
+}
+
+.tt-row-mid {
+  grid-column: 1;
+  grid-row: 2;
+  padding-left: 1em;
+}
+
+.tt-row-right {
+  grid-column: 2;
+  grid-row: 1 / 3;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: 0.35em;
+  flex-shrink: 0;
+}
+
+/* Coloured dot replacing text badge */
+.tt-cat-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+.cat-temple   { background: #7c3aed; }
+.cat-nature   { background: #16a34a; }
+.cat-island   { background: #0891b2; }
+.cat-park     { background: #ea580c; }
+.cat-activity { background: #2563eb; }
+.cat-adventure{ background: #dc2626; }
+
+.tt-row-name {
+  font-size: 0.88em;
+  font-weight: 700;
+  color: var(--ocean);
+  line-height: 1.3;
+}
+
+.tt-warn {
+  font-size: 0.68em;
+  font-weight: 600;
+  color: #c2410c;
+  background: #fff7ed;
+  border: 1px solid #fed7aa;
+  padding: 0.1em 0.45em;
+  border-radius: 20px;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.tt-row-note {
+  font-size: 0.75em;
+  color: var(--text-light);
+  line-height: 1.45;
+}
+
+.tt-row-price {
+  font-size: 0.88em;
+  font-weight: 800;
+  color: var(--ocean);
+  white-space: nowrap;
+}
+
+/* Buttons — solid filled */
+.tt-btns {
+  display: flex;
+  gap: 0.3em;
+}
+
+.tt-btn {
+  font-size: 0.72em;
+  font-weight: 700;
+  padding: 0.3em 0.75em;
+  border-radius: 6px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+  white-space: nowrap;
+  transition: opacity 0.15s, transform 0.1s;
+  display: inline-block;
+}
+.tt-btn:hover { opacity: 0.85; transform: translateY(-1px); }
+.tt-btn:active { transform: scale(0.97); }
+
+.tt-btn-klook {
+  background: #ff6602;
+  color: #fff;
+}
+
+.tt-btn-agoda {
+  background: #1a6ee1;
+  color: #fff;
+}
+
+.tt-disclaimer {
+  font-size: 0.68em;
+  color: #aaa;
+  margin: 0.7em 0 0;
+  padding-top: 0.6em;
+  border-top: 1px solid rgba(197,160,89,0.1);
+  line-height: 1.4;
+}
+
+@media (max-width: 560px) {
+  .tt-section { padding: 0.8em; }
+  .tt-row { grid-template-columns: 1fr; grid-template-rows: auto auto auto; gap: 0.2em 0; }
+  .tt-row-right { grid-column: 1; grid-row: 3; flex-direction: row; align-items: center; justify-content: space-between; padding-left: 1em; }
+  .tt-row-mid { padding-left: 1em; }
+  .tt-controls { flex-direction: column; align-items: flex-start; }
+}
+</style>

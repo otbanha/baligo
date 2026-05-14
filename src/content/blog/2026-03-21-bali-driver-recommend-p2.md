@@ -3,6 +3,7 @@ title: 峇里島包車司機推薦（第二頁）
 slug: ''
 description: ''
 pubDate: 2026-01-01
+pubHour: null
 category:
   - 叫車包車
 tags: []
@@ -21,7 +22,7 @@ embeds: []
 
 👍🏼[網友推薦1](https://www.facebook.com/groups/baligo/permalink/1499638277250079/) 👍🏼[網友推薦2](https://www.facebook.com/groups/baligo/permalink/1512064316007475/) 👍🏼[網友推薦3](https://www.facebook.com/groups/baligo/permalink/1556980068182566/) 👍🏼[網友推薦4](https://www.facebook.com/groups/baligo/permalink/1568532927027280/) 👍🏼[網友推薦5](https://www.facebook.com/groups/baligo/permalink/1574447266435846/) 👍🏼[網友推薦6](https://www.facebook.com/groups/baligo/permalink/1588447205035852/) 👍🏼[網友推薦7](https://www.facebook.com/groups/baligo/permalink/1577429806137592/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/q2YvJPRpehHGSVwX/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1Juf4rGtwAphDuv1/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/NJSBRHSQFbRyiSw1/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/1WtJZjUnVs/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/15kvdyEiQN/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/18ztpws3cC/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/1CGq8uAZaX/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/1LawWCzFjz/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/17HEkRf24L/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1CWDjmBc14/)
 
-## Jimmi Liu
+## Jimmi Liu 吉米劉
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787449808-jimmi_new.jpg)
 
@@ -33,7 +34,7 @@ embeds: []
 
 👍🏼[網友推薦1](https://www.facebook.com/groups/baligo/permalink/1424008058146435/) 👍🏼[網友推薦2](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[網友推薦3](https://www.facebook.com/groups/baligo/permalink/1491640674716506/) 👍🏼[網友推薦4](https://www.facebook.com/groups/baligo/permalink/1520187905195116/) 👍🏼[網友推薦5](https://www.facebook.com/groups/baligo/permalink/1566672470546659/) 👍🏼[網友推薦6](https://www.facebook.com/groups/baligo/permalink/1572613913285848/) 👍🏼[網友推薦7](https://www.facebook.com/groups/baligo/permalink/1580841709129735/) 👍🏼[網友推薦8](https://www.facebook.com/groups/baligo/permalink/1585601355320437/) 👍🏼[網友推薦9](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/8VRYThs4s1pGYjvh/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/153msrhAUp/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/14pukgECBh/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/15tH9LntDp/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/1AGnbS7Usi/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/1578r5eaTS/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/1ANZSYxXA5/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1ANYFF9HPd/) 👍🏼[網友推薦18](https://www.facebook.com/share/p/166PNTDsEF/) 👍🏼[網友推薦19](https://www.facebook.com/share/p/1AoyTQa6Ut/) 👍🏼[網友推薦20](https://www.facebook.com/share/p/1YvZrMzod9/) 👍🏼[網友推薦21](https://www.facebook.com/share/p/1Hfu77tmut/) 👍🏼[網友推薦22](https://www.facebook.com/share/p/14XwwPmVjhX/) 👍🏼[網友推薦23](https://www.facebook.com/share/p/1CKtSKs5k1/)
 
-## Any
+## Any 安妮
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787562092-ani_new.jpg)
 
@@ -51,7 +52,7 @@ embeds: []
 
 👍🏼[網友推薦1](https://www.facebook.com/groups/baligo/permalink/1314748505739058/) 👍🏼[網友推薦2](https://www.facebook.com/groups/baligo/permalink/1374937543053487/) 👍🏼[網友推薦3](https://www.facebook.com/groups/baligo/permalink/1455792474967993/) 👍🏼[網友推薦4](https://www.facebook.com/groups/baligo/permalink/1475140399699867/) 👍🏼[網友推薦5](https://www.facebook.com/groups/baligo/permalink/1499906240556616/) 👍🏼[網友推薦6](https://www.facebook.com/groups/baligo/permalink/1513341542546419/) 👍🏼[網友推薦7](https://www.facebook.com/groups/baligo/permalink/1518802185333688/) 👍🏼[網友推薦8](https://www.facebook.com/groups/baligo/permalink/1583829478830958/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/SHb4XS51u7Bw93Gd/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/yJW1NU71CcRUJ1sK/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/VVtukQnTPYug5XMs/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/1LRZUxJSof/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/16ti13tia3/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/16qQgKgrQp/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/18vHZPZk7U/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/14TkJXfNWnZ/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1Ftwd7LbNj/)
 
-## 阿弘 Adi Wang
+## Adi Wang 阿弘
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787696068-new.jpg)
 
@@ -128,6 +129,12 @@ embeds: []
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774788166261-new.jpg)
 
 👍🏼[網友推薦1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1DXtpVrXjz/)
+
+## Gung Bali Wangzi 王子
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
+
+👍🏼[網友推薦1 ](https://www.facebook.com/share/p/1Cd1X626mG/)👍🏼[網友推薦2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1DvCnKCrA7/)
 
 {{block:klook}}.
 

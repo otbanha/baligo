@@ -1,0 +1,23 @@
+---
+import BizLayout from '../../../layouts/BizLayout.astro';
+import BizCategory from '../../../components/BizCategory.astro';
+import { getBizListings } from '../../../lib/getBizListings';
+
+const all = await getBizListings();
+const listings = all.filter(b => b.category === 'stay');
+const featured = listings.filter(b => b.featured).sort(() => Math.random() - 0.5);
+const regular  = listings.filter(b => !b.featured);
+---
+
+<BizLayout
+  title="巴厘岛中文住宿 / Villa 推荐"
+  description="巴厘岛提供中文服务的住宿、Villa、饭店推荐，安心入住不怕语言不通。"
+>
+  <BizCategory
+    title="🏡 住宿 / Villa"
+    description="有中文服务的巴厘岛住宿，从精品 Villa 到实惠选择一次看"
+    featured={featured}
+    regular={regular}
+    lang="zh-cn"
+  />
+</BizLayout>

@@ -40,6 +40,6 @@
 
 ## 工作規則
 - 每次修改前先 git status 確認乾淨
-- 大改動前先建立 git branch
+- **直接 commit & push 到 main，不建立 feature branch，不開 PR**
 - 修改後執行 npm run build 確認沒有錯誤
 - 每個 P 級任務完成後 commit 一次

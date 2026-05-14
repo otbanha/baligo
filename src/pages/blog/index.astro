@@ -3,6 +3,7 @@ import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
 import Footer from '../../components/Footer.astro';
 import ChatBot from '../../components/ChatBot.astro';
+import BaliTicketTable from '../../components/BaliTicketTable.astro';
 import ExchangeRateWidget from '../../components/ExchangeRateWidget.astro';
 import BaliWeather from '../../components/BaliWeather.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
@@ -456,10 +457,10 @@ const socialLinks = [
           </div>
         </div>
 
-      </div>
+        <!-- 峇里島即時天氣 -->
+        <BaliWeather lang="zh-tw" />
 
-      <!-- 峇里島即時天氣 -->
-      <BaliWeather lang="zh-tw" />
+      </div>
 
       <!-- 分類大標題 -->
       <div id="cat-heading" style="display:none">

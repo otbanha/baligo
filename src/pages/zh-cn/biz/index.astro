@@ -1,0 +1,59 @@
+---
+import BizLayout from '../../../layouts/BizLayout.astro';
+import BizCard from '../../../components/BizCard.astro';
+import { getBizListings } from '../../../lib/getBizListings';
+
+const all = await getBizListings();
+const featuredAll = all
+  .filter(b => b.featured)
+  .sort(() => Math.random() - 0.5);
+
+const CATEGORIES = [
+  { key: 'restaurant', label: '餐厅 / 美食',      icon: '🍜', href: '/zh-cn/biz/restaurant' },
+  { key: 'tour',       label: '旅游服务 / 导游',   icon: '🌴', href: '/zh-cn/biz/tour'       },
+  { key: 'spa',        label: '美容美甲 / SPA',    icon: '💆', href: '/zh-cn/biz/spa'        },
+  { key: 'stay',       label: '住宿 / Villa',      icon: '🏡', href: '/zh-cn/biz/stay'       },
+  { key: 'shop',       label: '购物 / 手信',       icon: '🛍️', href: '/zh-cn/biz/shop'       },
+  { key: 'other',      label: '其他服务',           icon: '✨', href: '/zh-cn/biz/restaurant' },
+];
+---
+
+<BizLayout
+  title="巴厘岛中文商家目录 | Go Bali Go"
+  description="巴厘岛中文商家目录，收录餐厅、旅游服务、SPA、住宿、购物等提供中文服务的优质商家。"
+>
+  <div class="biz-hero">
+    <h1>巴厘岛中文商家目录</h1>
+    <p>精选巴厘岛提供中文服务的优质商家，让你旅途无语言障碍</p>
+  </div>
+
+  {featuredAll.length > 0 && (
+    <>
+      <p class="biz-section-title">精选推荐</p>
+      <div class="biz-grid">
+        {featuredAll.map(b => <BizCard biz={b} />)}
+      </div>
+    </>
+  )}
+
+  <p class="biz-section-title">浏览类别</p>
+  <div class="cat-grid">
+    {CATEGORIES.map(c => (
+      <a href={c.href} class="cat-card">
+        <span class="cat-card__icon">{c.icon}</span>
+        <span class="cat-card__label">{c.label}</span>
+      </a>
+    ))}
+  </div>
+
+  {featuredAll.length === 0 && (
+    <p style="text-align:center;color:#8a9880;padding:3rem 0">
+      目前暂无商家资料，欢迎第一个登录你的商家！
+    </p>
+  )}
+
+  <div class="biz-register-cta">
+    <p>你的商家也想出现在这里吗？</p>
+    <a href="/biz-register.html" class="btn btn--gold">免费登录你的商家</a>
+  </div>
+</BizLayout>
