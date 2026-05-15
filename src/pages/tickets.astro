@@ -51,7 +51,7 @@ const ticketsData = rawTickets
         <input id="search-input" type="text" placeholder="搜尋景點名稱…" class="tickets-search" />
       </div>
       <select id="sort-select" class="tickets-sort">
-        <option value="default">排序：預設</option>
+        <option value="default">排序：隨機</option>
         <option value="asc">票價低 → 高</option>
         <option value="desc">票價高 → 低</option>
       </select>
@@ -638,7 +638,13 @@ function render() {
     items = items.filter(i => i.name.toLowerCase().includes(q) || i.note.toLowerCase().includes(q));
   }
   if (sortMode === 'asc')  items.sort((a, b) => a.idr - b.idr);
-  if (sortMode === 'desc') items.sort((a, b) => b.idr - a.idr);
+  else if (sortMode === 'desc') items.sort((a, b) => b.idr - a.idr);
+  else { // default: shuffle
+    for (let i = items.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [items[i], items[j]] = [items[j], items[i]];
+    }
+  }
 
   document.getElementById('result-count').textContent =
     `顯示 ${items.length} 個景點`;
