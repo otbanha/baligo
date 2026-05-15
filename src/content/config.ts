@@ -100,8 +100,23 @@ const en = defineCollection({
   schema: translatedSchema,
 });
 
+const tickets = defineCollection({
+  loader: glob({ pattern: '**/*.md', base: './src/content/tickets' }),
+  schema: z.object({
+    name: z.string(),
+    cat: z.enum(['temple', 'nature', 'island', 'park', 'activity', 'adventure']),
+    idr: z.number(),
+    note: z.string(),
+    klook: z.string().nullable().optional(),
+    agoda: z.boolean().optional(),
+    tripcom: z.string().nullable().optional(),
+    warn: z.string().nullable().optional(),
+    order: z.number().optional(),
+  }),
+});
+
 export const collections = {
-  blog, blocks, promotions, qa,
+  blog, blocks, promotions, qa, tickets,
   'zh-cn': zhcn,
   'zh-hk': zhhk,
   'en': en,

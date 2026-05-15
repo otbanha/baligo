@@ -176,3 +176,32 @@ collections:
         required: false
         hint: "只有乱数类型才需要填，例如从20个项目中随机显示5个"
       - { label: 内容, name: body, widget: markdown }
+
+  - name: tickets
+    label: 🎟️ 景點門票
+    folder: src/content/tickets
+    create: true
+    delete: true
+    slug: "{{cat}}-{{slug}}"
+    summary: "{{name}} — IDR {{idr}}"
+    sort_field: order
+    sort_direction: Ascending
+    fields:
+      - { label: 景點名稱, name: name, widget: string }
+      - label: 分類
+        name: cat
+        widget: select
+        options:
+          - { label: 🛕 寺廟, value: temple }
+          - { label: 🌿 自然景觀, value: nature }
+          - { label: 🏝️ Nusa Penida, value: island }
+          - { label: 🎭 文化園區, value: park }
+          - { label: 🎢 主題樂園, value: activity }
+          - { label: 🏄 冒險活動, value: adventure }
+      - { label: 票價 (IDR), name: idr, widget: number, value_type: int, hint: "只填數字，例如 150000" }
+      - { label: 備註說明, name: note, widget: text, hint: "簡短說明，含支付方式、注意事項等" }
+      - { label: Klook 連結, name: klook, widget: string, required: false, hint: "留空則不顯示 Klook 按鈕" }
+      - { label: Agoda 按鈕, name: agoda, widget: boolean, default: false, hint: "開啟後顯示 Agoda 按鈕（固定連結）" }
+      - { label: Trip.com 連結, name: tripcom, widget: string, required: false, hint: "留空則不顯示 Trip.com 按鈕" }
+      - { label: 警示文字, name: warn, widget: string, required: false, hint: "例如：⚠ 排隊可達 2–4 小時，留空不顯示" }
+      - { label: 排序順序, name: order, widget: number, value_type: int, default: 99, hint: "數字越小越前面" }
