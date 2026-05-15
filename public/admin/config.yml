@@ -200,7 +200,9 @@ collections:
           - { label: 🌊 Water Sports, value: watersports }
           - { label: ☕ 休閒, value: leisure }
       - { label: 票價 (IDR), name: idr, widget: number, value_type: int, hint: "只填數字，例如 150000" }
-      - { label: 備註說明, name: note, widget: text, hint: "簡短說明，含支付方式、注意事項等" }
+      - { label: 備註說明（繁體中文）, name: note, widget: text, hint: "簡短說明，含支付方式、注意事項等" }
+      - { label: 備註說明（English）, name: note_en, widget: text, required: false }
+      - { label: 備註說明（简体中文）, name: note_zh_cn, widget: text, required: false }
       - { label: Klook 連結, name: klook, widget: string, required: false, hint: "留空則不顯示 Klook 按鈕" }
       - { label: Agoda 按鈕, name: agoda, widget: boolean, default: false, hint: "開啟後顯示 Agoda 按鈕（固定連結）" }
       - { label: Trip.com 連結, name: tripcom, widget: string, required: false, hint: "留空則不顯示 Trip.com 按鈕" }

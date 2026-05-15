@@ -100,6 +100,8 @@ const tickets = defineCollection({
     cat: z.enum(['temple', 'nature', 'island', 'park', 'activity', 'adventure', 'course', 'watersports', 'leisure']),
     idr: z.number(),
     note: z.string(),
+    note_en: z.string().optional(),
+    note_zh_cn: z.string().optional(),
     klook: z.string().nullable().optional(),
     agoda: z.boolean().optional(),
     tripcom: z.string().nullable().optional(),

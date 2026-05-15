@@ -1,13 +1,13 @@
 ---
-import BaseHead from '../components/BaseHead.astro';
-import Header from '../components/Header.astro';
-import Footer from '../components/Footer.astro';
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
 import { getCollection } from 'astro:content';
-import '../styles/tickets.css';
+import '../../styles/tickets.css';
 
-const title = '峇里島景點門票費用一覽 2026｜Bali Ticket Prices';
-const description = '峇里島熱門景點門票價格，含 Uluwatu、Waterbom、Nusa Penida，附 Klook/Agoda/Trip.com 訂票連結。';
-const lang = 'zh-tw';
+const title = 'Bali Attraction Ticket Prices 2026 | Entrance Fees Guide';
+const description = 'Bali attraction ticket prices for Uluwatu, Waterbom, Nusa Penida and more. Compare prices and book via Klook, Agoda, or Trip.com.';
+const lang = 'en';
 const slug = 'tickets';
 
 const rawTickets = await getCollection('tickets');
@@ -16,7 +16,7 @@ const ticketsData = rawTickets
     name: t.data.name,
     cat: t.data.cat,
     idr: t.data.idr,
-    note: t.data.note,
+    note: t.data.note_en ?? t.data.note,
     klook: t.data.klook ?? null,
     agoda: t.data.agoda ?? false,
     tripcom: t.data.tripcom ?? null,
@@ -25,7 +25,7 @@ const ticketsData = rawTickets
 ---
 
 <!doctype html>
-<html lang="zh-TW">
+<html lang="en">
 <head>
   <BaseHead title={title} description={description} />
 </head>
@@ -36,9 +36,9 @@ const ticketsData = rawTickets
   <!-- Hero -->
   <div class="tickets-hero">
     <div class="tickets-hero-inner">
-      <div class="tickets-hero-badge">2026 更新版</div>
-      <h1 class="tickets-hero-title">峇里島景點門票費用</h1>
-      <p class="tickets-hero-sub">{ticketsData.length} 個熱門景點 · 即時篩選 · 附 Klook / Agoda / Trip.com 訂票連結</p>
+      <div class="tickets-hero-badge">Updated 2026</div>
+      <h1 class="tickets-hero-title">Bali Attraction Ticket Prices</h1>
+      <p class="tickets-hero-sub">{ticketsData.length} Top Attractions · Filter Instantly · Book via Klook / Agoda / Trip.com</p>
     </div>
   </div>
 
@@ -48,27 +48,27 @@ const ticketsData = rawTickets
     <div class="tickets-controls">
       <div class="tickets-search-wrap">
         <svg class="tickets-search-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
-        <input id="search-input" type="text" placeholder="搜尋景點名稱…" class="tickets-search" />
+        <input id="search-input" type="text" placeholder="Search attractions…" class="tickets-search" />
       </div>
       <select id="sort-select" class="tickets-sort">
-        <option value="default">排序：隨機</option>
-        <option value="asc">票價低 → 高</option>
-        <option value="desc">票價高 → 低</option>
+        <option value="default">Sort: Random</option>
+        <option value="asc">Price: Low → High</option>
+        <option value="desc">Price: High → Low</option>
       </select>
     </div>
 
     <!-- Category filters -->
     <div id="filter-buttons" class="tickets-filters">
-      <button data-cat="all"       class="tickets-filter-btn active">🗺️ 全部</button>
-      <button data-cat="temple"    class="tickets-filter-btn">🛕 寺廟</button>
-      <button data-cat="nature"    class="tickets-filter-btn">🌿 自然景觀</button>
-      <button data-cat="island"    class="tickets-filter-btn">🏝️ Nusa Penida</button>
-      <button data-cat="park"      class="tickets-filter-btn">🎭 文化園區</button>
-      <button data-cat="activity"  class="tickets-filter-btn">🎢 主題樂園</button>
-      <button data-cat="adventure" class="tickets-filter-btn">🏄 冒險活動</button>
-      <button data-cat="course"    class="tickets-filter-btn">📚 進修課程</button>
+      <button data-cat="all"         class="tickets-filter-btn active">🗺️ All</button>
+      <button data-cat="temple"      class="tickets-filter-btn">🛕 Temples</button>
+      <button data-cat="nature"      class="tickets-filter-btn">🌿 Nature</button>
+      <button data-cat="island"      class="tickets-filter-btn">🏝️ Nusa Penida</button>
+      <button data-cat="park"        class="tickets-filter-btn">🎭 Cultural Parks</button>
+      <button data-cat="activity"    class="tickets-filter-btn">🎢 Theme Parks</button>
+      <button data-cat="adventure"   class="tickets-filter-btn">🏄 Adventure</button>
+      <button data-cat="course"      class="tickets-filter-btn">📚 Courses</button>
       <button data-cat="watersports" class="tickets-filter-btn">🌊 Water Sports</button>
-      <button data-cat="leisure"    class="tickets-filter-btn">☕ 休閒</button>
+      <button data-cat="leisure"     class="tickets-filter-btn">☕ Leisure</button>
     </div>
 
     <!-- Result count -->
@@ -79,7 +79,7 @@ const ticketsData = rawTickets
 
     <!-- Trip.com Banner -->
     <div class="tickets-affiliate-section">
-      <p class="tickets-affiliate-label">更多峇里島活動與體驗</p>
+      <p class="tickets-affiliate-label">More Bali Activities & Experiences</p>
       <a
         href="https://www.trip.com/things-to-do/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389"
         target="_blank"
@@ -87,8 +87,8 @@ const ticketsData = rawTickets
         class="tickets-tripcom-banner"
       >
         <span class="tickets-tripcom-logo">Trip.com</span>
-        <span class="tickets-tripcom-text">探索更多峇里島活動 · 景點票券 · 當地體驗</span>
-        <span class="tickets-tripcom-cta">立即搜尋 →</span>
+        <span class="tickets-tripcom-text">Discover More Bali Activities · Tickets · Local Experiences</span>
+        <span class="tickets-tripcom-cta">Search Now →</span>
       </a>
     </div>
 
@@ -110,7 +110,7 @@ const ticketsData = rawTickets
     <!-- Disclaimer -->
     <div class="tickets-disclaimer">
       <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;margin-top:2px"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
-      <span>票價資訊更新至 2026 年，現場價格可能隨時調整，建議出發前再次確認。頁面含 Klook（AID: 116349）、Agoda（CID: 1961347）及 Trip.com（Allianceid: 6817581）聯盟連結。</span>
+      <span>Prices updated as of 2026. On-site prices may change at any time — please verify before your visit. This page contains affiliate links from Klook (AID: 116349), Agoda (CID: 1961347), and Trip.com (Allianceid: 6817581).</span>
     </div>
 
   </main>
@@ -119,50 +119,47 @@ const ticketsData = rawTickets
 </body>
 </html>
 
-
 <script define:vars={{ ticketsData }}>
 const DATA = ticketsData;
 
 const CAT_LABEL = {
-  temple:   '寺廟',
-  nature:   '自然景觀',
-  island:   'Nusa Penida',
-  park:     '文化園區',
-  activity: '主題樂園',
-  adventure:'冒險活動',
-  course:      '進修課程',
+  temple:      'Temples',
+  nature:      'Nature',
+  island:      'Nusa Penida',
+  park:        'Cultural Parks',
+  activity:    'Theme Parks',
+  adventure:   'Adventure',
+  course:      'Courses',
   watersports: 'Water Sports',
-  leisure:     '休閒',
+  leisure:     'Leisure',
 };
 
-/* top accent bar colour per category */
 const CAT_ACCENT = {
-  temple:   '#7c3aed',
-  nature:   '#16a34a',
-  island:   '#0891b2',
-  park:     '#ea580c',
-  activity: '#2563eb',
-  adventure:'#dc2626',
+  temple:      '#7c3aed',
+  nature:      '#16a34a',
+  island:      '#0891b2',
+  park:        '#ea580c',
+  activity:    '#2563eb',
+  adventure:   '#dc2626',
   course:      '#0d9488',
   watersports: '#0284c7',
   leisure:     '#7c3aed',
 };
 
-/* pill background/text */
 const CAT_PILL = {
-  temple:   'background:#f3e8ff;color:#6d28d9;',
-  nature:   'background:#dcfce7;color:#15803d;',
-  island:   'background:#cffafe;color:#0e7490;',
-  park:     'background:#ffedd5;color:#c2410c;',
-  activity: 'background:#dbeafe;color:#1d4ed8;',
-  adventure:'background:#fee2e2;color:#b91c1c;',
+  temple:      'background:#f3e8ff;color:#6d28d9;',
+  nature:      'background:#dcfce7;color:#15803d;',
+  island:      'background:#cffafe;color:#0e7490;',
+  park:        'background:#ffedd5;color:#c2410c;',
+  activity:    'background:#dbeafe;color:#1d4ed8;',
+  adventure:   'background:#fee2e2;color:#b91c1c;',
   course:      'background:#ccfbf1;color:#0f766e;',
   watersports: 'background:#e0f2fe;color:#0369a1;',
   leisure:     'background:#ede9fe;color:#6d28d9;',
 };
 
 function formatIDR(n) {
-  return 'IDR ' + n.toLocaleString('en-US');
+  return 'IDR ' + n.toLocaleString('en-US');
 }
 
 function buildCard(item) {
@@ -182,7 +179,7 @@ function buildCard(item) {
     : '';
 
   const agodaBtn = item.agoda
-    ? `<a href="https://www.agoda.com/zh-tw/bali-activities/?cid=1961347" target="_blank" rel="noopener noreferrer" class="ticket-btn ticket-btn-agoda">
+    ? `<a href="https://www.agoda.com/en-gb/bali-activities/?cid=1961347" target="_blank" rel="noopener noreferrer" class="ticket-btn ticket-btn-agoda">
         <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
         Agoda
        </a>`
@@ -205,7 +202,7 @@ function buildCard(item) {
         <span class="ticket-cat-pill" style="${pill}">${label}</span>
       </div>
       <div class="ticket-price-row">
-        <span class="ticket-price-label">票價</span>
+        <span class="ticket-price-label">Price</span>
         <span class="ticket-price">${formatIDR(item.idr)}</span>
       </div>
       <div class="ticket-divider"></div>
@@ -230,7 +227,7 @@ function render() {
   }
   if (sortMode === 'asc')  items.sort((a, b) => a.idr - b.idr);
   else if (sortMode === 'desc') items.sort((a, b) => b.idr - a.idr);
-  else { // default: shuffle
+  else {
     for (let i = items.length - 1; i > 0; i--) {
       const j = Math.floor(Math.random() * (i + 1));
       [items[i], items[j]] = [items[j], items[i]];
@@ -238,14 +235,14 @@ function render() {
   }
 
   document.getElementById('result-count').textContent =
-    `顯示 ${items.length} 個景點`;
+    `Showing ${items.length} attractions`;
 
   const grid = document.getElementById('card-grid');
   grid.innerHTML = items.length
     ? items.map(buildCard).join('')
     : `<div class="tickets-empty">
          <div class="tickets-empty-icon">🔍</div>
-         <p class="tickets-empty-text">沒有符合條件的景點</p>
+         <p class="tickets-empty-text">No attractions found</p>
        </div>`;
 }
 
