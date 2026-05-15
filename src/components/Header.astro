@@ -99,113 +99,109 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
   })();
 </script>
 
-<script>
-  import Fuse from 'fuse.js';
+<script is:inline>
+(function () {
+  var fuse = null;
+  var indexLoaded = false;
+  var loadingIndex = false;
+  var debounceTimer = null;
 
-  type Article = {
-    id: string;
-    title: string;
-    url: string;
-    description: string;
-    category: string[];
-    tags: string[];
-    pubDate: string;
-    snippet: string;
-  };
-
-  let fuse: Fuse<Article> | null = null;
-  let indexLoaded = false;
-  let loadingIndex = false;
-  let debounceTimer: ReturnType<typeof setTimeout> | null = null;
-
-  async function loadIndex() {
+  function loadFuseAndIndex() {
     if (indexLoaded || loadingIndex) return;
     loadingIndex = true;
-    try {
-      const res = await fetch('/article-index.json');
-      const articles: Article[] = await res.json();
-      fuse = new Fuse(articles, {
-        keys: [
-          { name: 'title', weight: 3 },
-          { name: 'tags', weight: 2 },
-          { name: 'description', weight: 1.5 },
-          { name: 'snippet', weight: 1 },
-        ],
-        threshold: 0.35,
-        ignoreLocation: true,
-        minMatchCharLength: 1,
-      });
-      indexLoaded = true;
-    } catch (e) {
-      console.error('Failed to load search index', e);
-    } finally {
-      loadingIndex = false;
-    }
+    var s = document.createElement('script');
+    s.src = 'https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js';
+    s.onload = function () {
+      fetch('/article-index.json')
+        .then(function (r) { return r.json(); })
+        .then(function (articles) {
+          fuse = new Fuse(articles, {
+            keys: [
+              { name: 'title', weight: 3 },
+              { name: 'tags', weight: 2 },
+              { name: 'description', weight: 1.5 },
+              { name: 'snippet', weight: 1 },
+            ],
+            threshold: 0.35,
+            ignoreLocation: true,
+            minMatchCharLength: 1,
+          });
+          indexLoaded = true;
+          loadingIndex = false;
+        })
+        .catch(function (e) {
+          console.error('Search index load failed', e);
+          loadingIndex = false;
+        });
+    };
+    document.head.appendChild(s);
   }
 
   function openModal() {
-    const modal = document.getElementById('search-modal');
+    var modal = document.getElementById('search-modal');
     if (!modal) return;
     modal.hidden = false;
     document.body.style.overflow = 'hidden';
-    loadIndex();
-    setTimeout(() => {
-      (document.getElementById('fuse-search-input') as HTMLInputElement)?.focus();
+    loadFuseAndIndex();
+    setTimeout(function () {
+      var inp = document.getElementById('fuse-search-input');
+      if (inp) inp.focus();
     }, 50);
   }
 
   function closeModal() {
-    const modal = document.getElementById('search-modal');
+    var modal = document.getElementById('search-modal');
     if (!modal) return;
     modal.hidden = true;
     document.body.style.overflow = '';
-    const input = document.getElementById('fuse-search-input') as HTMLInputElement;
-    if (input) input.value = '';
-    const results = document.getElementById('search-results');
-    if (results) results.innerHTML = '';
+    var inp = document.getElementById('fuse-search-input');
+    if (inp) inp.value = '';
+    var res = document.getElementById('search-results');
+    if (res) res.innerHTML = '';
   }
 
-  function renderResults(q: string) {
-    const resultsEl = document.getElementById('search-results');
-    if (!resultsEl) return;
-
-    if (!fuse) {
-      if (q.length > 0) resultsEl.innerHTML = '<p class="search-loading">載入中...</p>';
-      return;
-    }
-
-    const results = fuse.search(q, { limit: 8 });
-    if (results.length === 0) {
-      resultsEl.innerHTML = '<p class="search-no-results">找不到相關文章</p>';
-      return;
-    }
-
-    resultsEl.innerHTML = results.map(({ item }) => {
-      const snippet = item.snippet ? item.snippet.slice(0, 80) : '';
-      const tags = (item.tags ?? []).slice(0, 3).map((t: string) => `<span class="search-result-tag">${t}</span>`).join('');
-      return `<a href="${item.url}" class="search-result-item">
-        <div class="search-result-title">${item.title}</div>
-        ${tags ? `<div class="search-result-tags">${tags}</div>` : ''}
-        ${snippet ? `<div class="search-result-snippet">${snippet}…</div>` : ''}
-      </a>`;
+  function renderResults(q) {
+    var el = document.getElementById('search-results');
+    if (!el) return;
+    if (!fuse) { el.innerHTML = '<p class="search-loading">載入中…</p>'; return; }
+    var results = fuse.search(q, { limit: 8 });
+    if (!results.length) { el.innerHTML = '<p class="search-no-results">找不到相關文章</p>'; return; }
+    el.innerHTML = results.map(function (r) {
+      var item = r.item;
+      var snippet = item.snippet ? item.snippet.slice(0, 80) : '';
+      var tags = (item.tags || []).slice(0, 3).map(function (t) {
+        return '<span class="search-result-tag">' + t + '</span>';
+      }).join('');
+      return '<a href="' + item.url + '" class="search-result-item">'
+        + '<div class="search-result-title">' + item.title + '</div>'
+        + (tags ? '<div class="search-result-tags">' + tags + '</div>' : '')
+        + (snippet ? '<div class="search-result-snippet">' + snippet + '…</div>' : '')
+        + '</a>';
     }).join('');
   }
 
-  document.getElementById('search-trigger')?.addEventListener('click', openModal);
-  document.getElementById('search-close')?.addEventListener('click', closeModal);
-  document.getElementById('search-backdrop')?.addEventListener('click', closeModal);
-  document.addEventListener('keydown', (e) => { if (e.key === 'Escape') closeModal(); });
+  document.addEventListener('DOMContentLoaded', function () {
+    var trigger = document.getElementById('search-trigger');
+    var closeBtn = document.getElementById('search-close');
+    var backdrop = document.getElementById('search-backdrop');
+    var inp = document.getElementById('fuse-search-input');
 
-  document.getElementById('fuse-search-input')?.addEventListener('input', (e) => {
-    const q = (e.target as HTMLInputElement).value.trim();
-    const resultsEl = document.getElementById('search-results');
-    if (!q) {
-      if (resultsEl) resultsEl.innerHTML = '';
-      return;
+    if (trigger) trigger.addEventListener('click', openModal);
+    if (closeBtn) closeBtn.addEventListener('click', closeModal);
+    if (backdrop) backdrop.addEventListener('click', closeModal);
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeModal(); });
+
+    if (inp) {
+      inp.addEventListener('input', function (e) {
+        var q = e.target.value.trim();
+        var el = document.getElementById('search-results');
+        if (!q) { if (el) el.innerHTML = ''; return; }
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(function () { renderResults(q); }, 200);
+      });
     }
-    if (debounceTimer) clearTimeout(debounceTimer);
-    debounceTimer = setTimeout(() => renderResults(q), 200);
   });
+})();
 </script>
 
 <style>
