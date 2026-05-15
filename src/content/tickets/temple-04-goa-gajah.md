@@ -1,11 +1,11 @@
 ---
-name: "Goa Gajah"
+name: Goa Gajah
 cat: temple
-idr: 50000
-note: "含沙龍。可與 Tirta Empul 同日遊覽。"
-klook:
+idr: 200000
+note: 含拜訪象洞的一日遊覽。
+klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DGoa%2520Gajah
 agoda: false
-tripcom: "https://www.trip.com/things-to-do/bali-344/products/?Allianceid=6817581&SID=311634184"
-warn:
+tripcom: https://tw.trip.com/things-to-do/list?pagetype=city&keyword=Goa Gajah&pshowcode=all&kwdfrom=srch&ext-searchpage=1&lasttraceid=c1b2ac31-afdd-4b05-7dd4-177881a41e81&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389
+warn: ''
 order: 4
 ---
