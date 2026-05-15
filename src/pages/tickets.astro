@@ -126,7 +126,7 @@ const slug = 'tickets';
   }
   .tickets-hero-title {
     font-family: 'TC-Heading-Nums', 'Playfair Display', 'PingFang TC', 'Noto Sans TC', serif;
-    font-size: clamp(26px, 5vw, 40px);
+    font-size: clamp(24px, 4vw, 36px) !important;
     font-weight: 700;
     color: #fff;
     margin: 0 0 12px;
@@ -258,6 +258,21 @@ const slug = 'tickets';
   }
   @media (min-width: 960px) {
     .tickets-grid { grid-template-columns: repeat(3, 1fr); }
+  }
+
+  /* ── Reset global body/heading bleed into this page ── */
+  .tickets-main,
+  .tickets-hero {
+    font-size: 14px;
+    line-height: 1.5;
+  }
+  .tickets-main h1,
+  .tickets-main h2,
+  .tickets-main h3 {
+    font-size: inherit;
+    line-height: inherit;
+    font-weight: inherit;
+    margin: 0;
   }
 
   /* ── Card ── */
