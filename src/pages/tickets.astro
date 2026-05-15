@@ -255,9 +255,15 @@ const ticketsData = rawTickets
   /* ── Filters ── */
   .tickets-filters {
     display: flex;
-    flex-wrap: wrap;
+    flex-wrap: nowrap;
     gap: 8px;
     margin-bottom: 8px;
+    overflow-x: auto;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+  }
+  .tickets-filters::-webkit-scrollbar {
+    display: none;
   }
   .tickets-filter-btn {
     height: 36px;
