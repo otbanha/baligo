@@ -5,8 +5,8 @@ import Footer from '../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import '../../styles/tickets.css';
 
-const title = 'Bali Attraction Ticket Prices 2026 | Entrance Fees Guide';
-const description = 'Bali attraction ticket prices for Uluwatu, Waterbom, Nusa Penida and more. Compare prices and book via Klook, Agoda, or Trip.com.';
+const title = 'Bali Attraction Ticket Prices 2026 | 42 Top Spots - Gobaligo';
+const description = 'Bali entrance fees for 42 top attractions including Uluwatu, Waterbom, and Nusa Penida. Compare Klook, Agoda, and Trip.com prices before you go.';
 const lang = 'en';
 const slug = 'tickets';
 
@@ -22,12 +22,45 @@ const ticketsData = rawTickets
     tripcom: t.data.tripcom ?? null,
     warn: t.data.warn ?? null,
   }));
+
+const schema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://gobaligo.id/en/" },
+        { "@type": "ListItem", "position": 2, "name": "Ticket Prices", "item": "https://gobaligo.id/en/tickets/" }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://gobaligo.id/en/tickets/",
+      "name": title,
+      "description": description,
+      "url": "https://gobaligo.id/en/tickets/",
+      "inLanguage": "en",
+      "numberOfItems": ticketsData.length,
+      "publisher": { "@type": "Organization", "name": "Go Bali Go", "url": "https://gobaligo.id" }
+    }
+  ]
+};
 ---
 
 <!doctype html>
 <html lang="en">
 <head>
-  <BaseHead title={title} description={description} />
+  <BaseHead title={title} description={description} noSuffix={true} />
+  <meta property="og:locale" content="en_US" />
+  <meta property="og:locale:alternate" content="zh_TW" />
+  <meta property="og:locale:alternate" content="zh_CN" />
+  <meta property="og:locale:alternate" content="zh_HK" />
+  <link rel="alternate" hreflang="zh-TW" href="https://gobaligo.id/tickets/" />
+  <link rel="alternate" hreflang="zh-HK" href="https://gobaligo.id/zh-hk/tickets/" />
+  <link rel="alternate" hreflang="zh-CN" href="https://gobaligo.id/zh-cn/tickets/" />
+  <link rel="alternate" hreflang="en"    href="https://gobaligo.id/en/tickets/" />
+  <link rel="alternate" hreflang="x-default" href="https://gobaligo.id/tickets/" />
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
 </head>
 
 <body>

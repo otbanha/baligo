@@ -42,6 +42,20 @@ export default defineConfig({
           ];
         }
 
+        // hreflang for /tickets/ pages
+        const ticketsMatch = path.match(/^(?:\/(en|zh-cn|zh-hk))?\/tickets\/?$/);
+        if (ticketsMatch) {
+          item.priority = 0.9;
+          item.changefreq = 'weekly';
+          item.links = [
+            { lang: 'x-default', url: 'https://gobaligo.id/tickets/' },
+            { lang: 'zh-TW',     url: 'https://gobaligo.id/tickets/' },
+            { lang: 'zh-HK',     url: 'https://gobaligo.id/zh-hk/tickets/' },
+            { lang: 'zh-CN',     url: 'https://gobaligo.id/zh-cn/tickets/' },
+            { lang: 'en',        url: 'https://gobaligo.id/en/tickets/' },
+          ];
+        }
+
         return item;
       },
     }),
