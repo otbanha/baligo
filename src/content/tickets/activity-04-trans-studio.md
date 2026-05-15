@@ -1,11 +1,11 @@
 ---
-name: "Trans Studio Bali"
+name: Trans Studio Bali
 cat: activity
 idr: 250000
-note: "室內主題樂園，適合親子。含多項機械遊樂設施。"
-klook: "https://www.klook.com/zh-TW/search/?query=trans+studio+bali&aid=116349"
+note: 峇里島最大的冷氣室內主題樂園，適合親子。含多項機械遊樂設施。建議購買 (門票 + 快速通關)才不會排隊排到地老天荒！
+klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99048-trans-studio-bali-ticket%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Deabeec4631
 agoda: false
-tripcom: "https://www.trip.com/things-to-do/bali-344/products/?Allianceid=6817581&SID=311634184"
-warn:
+tripcom: https://tw.trip.com/travel-guide/attraction/bali/trans-studio-bali-theme-park-142709856?curr=IDR&locale=zh-TW&poiType=3&ext-searchpage=1&lasttraceid=0f396bf3-b601-5196-228f-177882f59811&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389
+warn: ''
 order: 27
 ---
