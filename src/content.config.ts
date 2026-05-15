@@ -97,7 +97,7 @@ const tickets = defineCollection({
   loader: glob({ base: './src/content/tickets', pattern: '**/*.md' }),
   schema: z.object({
     name: z.string(),
-    cat: z.enum(['temple', 'nature', 'island', 'park', 'activity', 'adventure']),
+    cat: z.enum(['temple', 'nature', 'island', 'park', 'activity', 'adventure', 'course']),
     idr: z.number(),
     note: z.string(),
     klook: z.string().nullable().optional(),

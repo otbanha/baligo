@@ -66,6 +66,7 @@ const ticketsData = rawTickets
       <button data-cat="park"      class="tickets-filter-btn">🎭 文化園區</button>
       <button data-cat="activity"  class="tickets-filter-btn">🎢 主題樂園</button>
       <button data-cat="adventure" class="tickets-filter-btn">🏄 冒險活動</button>
+      <button data-cat="course"    class="tickets-filter-btn">📚 進修課程</button>
     </div>
 
     <!-- Result count -->
@@ -548,6 +549,7 @@ const CAT_LABEL = {
   park:     '文化園區',
   activity: '主題樂園',
   adventure:'冒險活動',
+  course:   '進修課程',
 };
 
 /* top accent bar colour per category */
@@ -558,6 +560,7 @@ const CAT_ACCENT = {
   park:     '#ea580c',
   activity: '#2563eb',
   adventure:'#dc2626',
+  course:   '#0d9488',
 };
 
 /* pill background/text */
@@ -568,6 +571,7 @@ const CAT_PILL = {
   park:     'background:#ffedd5;color:#c2410c;',
   activity: 'background:#dbeafe;color:#1d4ed8;',
   adventure:'background:#fee2e2;color:#b91c1c;',
+  course:   'background:#ccfbf1;color:#0f766e;',
 };
 
 function formatIDR(n) {

@@ -198,6 +198,7 @@ collections:
           - { label: 🎭 文化園區, value: park }
           - { label: 🎢 主題樂園, value: activity }
           - { label: 🏄 冒險活動, value: adventure }
+          - { label: 📚 進修課程, value: course }
       - { label: 票價 (IDR), name: idr, widget: number, value_type: int, hint: "只填數字，例如 150000" }
       - { label: 備註說明, name: note, widget: text, hint: "簡短說明，含支付方式、注意事項等" }
       - { label: Klook 連結, name: klook, widget: string, required: false, hint: "留空則不顯示 Klook 按鈕" }
