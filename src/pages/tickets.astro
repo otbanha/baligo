@@ -74,6 +74,36 @@ const ticketsData = rawTickets
     <!-- Card Grid -->
     <div id="card-grid" class="tickets-grid"></div>
 
+    <!-- Trip.com Banner -->
+    <div class="tickets-affiliate-section">
+      <p class="tickets-affiliate-label">更多峇里島活動與體驗</p>
+      <a
+        href="https://www.trip.com/things-to-do/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="tickets-tripcom-banner"
+      >
+        <span class="tickets-tripcom-logo">Trip.com</span>
+        <span class="tickets-tripcom-text">探索更多峇里島活動 · 景點票券 · 當地體驗</span>
+        <span class="tickets-tripcom-cta">立即搜尋 →</span>
+      </a>
+    </div>
+
+    <!-- Klook Widget -->
+    <div class="tickets-klook-widget">
+      <ins class="klk-aff-widget" data-adid="1277535" data-lang="" data-currency="IDR" data-cardH="126" data-padding="92" data-lgH="470" data-edgeValue="655" data-cid="-1" data-tid="3" data-amount="4" data-prod="dynamic_widget"><a href="https://www.klook.com/">Klook.com</a></ins>
+      <script type="text/javascript" is:inline>
+        (function (d, sc, u) {
+          var s = d.createElement(sc),
+            p = d.getElementsByTagName(sc)[0];
+          s.type = "text/javascript";
+          s.async = true;
+          s.src = u;
+          p.parentNode.insertBefore(s, p);
+        })(document, "script", "https://affiliate.klook.com/widget/fetch-iframe-init.js");
+      </script>
+    </div>
+
     <!-- Disclaimer -->
     <div class="tickets-disclaimer">
       <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;margin-top:2px"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
@@ -438,6 +468,59 @@ const ticketsData = rawTickets
   }
   .tickets-empty-icon { font-size: 40px; margin-bottom: 12px; }
   .tickets-empty-text { font-size: 15px; }
+
+  /* ── Affiliate sections ── */
+  .tickets-affiliate-section {
+    margin-top: 48px;
+  }
+  .tickets-affiliate-label {
+    font-size: 11px;
+    font-weight: 600;
+    color: #9ca3af;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    margin: 0 0 10px;
+  }
+  .tickets-tripcom-banner {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    background: linear-gradient(135deg, #0055cc 0%, #0066FF 100%);
+    border-radius: 12px;
+    padding: 16px 20px;
+    text-decoration: none;
+    transition: opacity 0.18s ease, transform 0.18s ease;
+  }
+  .tickets-tripcom-banner:hover {
+    opacity: 0.92;
+    transform: translateY(-1px);
+  }
+  .tickets-tripcom-logo {
+    font-size: 15px;
+    font-weight: 800;
+    color: #fff;
+    white-space: nowrap;
+    letter-spacing: -0.02em;
+  }
+  .tickets-tripcom-text {
+    font-size: 13px;
+    color: rgba(255,255,255,0.85);
+    flex: 1;
+  }
+  .tickets-tripcom-cta {
+    font-size: 13px;
+    font-weight: 600;
+    color: #fff;
+    white-space: nowrap;
+    background: rgba(255,255,255,0.15);
+    padding: 6px 14px;
+    border-radius: 20px;
+  }
+  .tickets-klook-widget {
+    margin-top: 20px;
+    overflow: hidden;
+    border-radius: 12px;
+  }
 
   /* ── Disclaimer ── */
   .tickets-disclaimer {
