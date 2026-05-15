@@ -10,6 +10,7 @@ interface Props {
   publishedTime?: string;   // ISO 8601
   modifiedTime?: string;    // ISO 8601
   noSuffix?: boolean;       // true = don't append " | Go Bali Go" to title
+  hreflangs?: Array<{ hreflang: string; href: string }>;
 }
 
 const {
@@ -20,6 +21,7 @@ const {
   publishedTime,
   modifiedTime,
   noSuffix = false,
+  hreflangs,
 } = Astro.props;
 
 const canonicalURL = new URL(Astro.url.pathname, Astro.site).href;
@@ -31,6 +33,10 @@ const pathLang = Astro.url.pathname.startsWith('/en/')     ? 'en'    :
 const siteName = pathLang === 'en'    ? 'Go Bali Go — Smart Bali Guide' :
                  pathLang === 'zh-cn' ? 'Go Bali Go 巴厘岛旅游攻略' :
                  SITE_TITLE;
+
+const ogLocale = pathLang === 'en'    ? 'en_US'  :
+                 pathLang === 'zh-cn' ? 'zh_CN'  :
+                 pathLang === 'zh-hk' ? 'zh_HK'  : 'zh_TW';
 
 // Article pages get "標題 | Go Bali Go" format; index pages already have the brand name
 const title = noSuffix ? rawTitle : (rawTitle.includes('Go Bali Go') ? rawTitle : `${rawTitle} | Go Bali Go`);
@@ -64,6 +70,11 @@ const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
 <!-- Canonical URL -->
 <link rel="canonical" href={canonicalURL} />
 
+<!-- Hreflang (passed from page for homepage; article hreflangs are in sitemap) -->
+{hreflangs && hreflangs.map(({ hreflang, href }) => (
+  <link rel="alternate" hreflang={hreflang} href={href} />
+))}
+
 <!-- Primary Meta Tags -->
 <title>{title}</title>
 <meta name="title" content={title} />
@@ -72,6 +83,7 @@ const ogImage = image && image.startsWith('http') ? image : SITE_OG_IMAGE;
 
 <!-- Open Graph -->
 <meta property="fb:app_id" content="1994862997907037" />
+<meta property="og:locale" content={ogLocale} />
 <meta property="og:site_name" content={siteName} />
 <meta property="og:type" content={type} />
 <meta property="og:url" content={canonicalURL} />

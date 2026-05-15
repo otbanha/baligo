@@ -1,1 +1,1 @@
-/  /blog  302
+# Root homepage is now src/pages/index.astro (SEO page with JS redirect to /blog)

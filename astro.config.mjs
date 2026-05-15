@@ -42,6 +42,20 @@ export default defineConfig({
           ];
         }
 
+        // hreflang for homepage (/ , /en/, /zh-cn/, /zh-hk/)
+        const homepageMatch = path.match(/^(?:\/(en|zh-cn|zh-hk))?\/?$/);
+        if (homepageMatch) {
+          item.priority = 1.0;
+          item.changefreq = 'daily';
+          item.links = [
+            { lang: 'x-default', url: 'https://gobaligo.id/' },
+            { lang: 'zh-TW',     url: 'https://gobaligo.id/' },
+            { lang: 'zh-HK',     url: 'https://gobaligo.id/zh-hk/' },
+            { lang: 'zh-CN',     url: 'https://gobaligo.id/zh-cn/' },
+            { lang: 'en',        url: 'https://gobaligo.id/en/' },
+          ];
+        }
+
         // hreflang for /tickets/ pages
         const ticketsMatch = path.match(/^(?:\/(en|zh-cn|zh-hk))?\/tickets\/?$/);
         if (ticketsMatch) {
