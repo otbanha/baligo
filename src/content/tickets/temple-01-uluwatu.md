@@ -1,10 +1,10 @@
 ---
-name: "Uluwatu Temple"
+name: Uluwatu Temple
 cat: temple
 idr: 150000
-note: "含 Kecak Fire Dance。僅參觀神廟 IDR 50,000。現場付現/QRIS。"
-klook: "https://www.klook.com/zh-TW/activity/2679-uluwatu-temple-kecak-fire-dance-bali/?aid=116349"
+note: 含 Kecak Fire Dance的各種套餐一日遊·。
+klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3DUluwatu%2520Temple
 agoda: false
-tripcom: "https://www.trip.com/things-to-do/bali-344/products/?Allianceid=6817581&SID=311634184"
-warn:
+tripcom: https://tw.trip.com/things-to-do/list?pagetype=city&keyword=Uluwatu Temple&pshowcode=all&kwdfrom=srch&ext-searchpage=1&lasttraceid=ff171d35-f530-23eb-fbb3-17a7c2940991&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389
+warn: ''
 ---
