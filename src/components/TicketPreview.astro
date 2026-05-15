@@ -75,15 +75,13 @@ const i18n = {
 
 <style>
   .tp-section {
-    margin: 1.5em -2em;
-    overflow-x: clip;
+    margin: 1.5em 0;
   }
 
   .tp-header {
     display: flex;
     align-items: center;
     justify-content: space-between;
-    padding: 0 2em;
     margin-bottom: 10px;
   }
 
@@ -114,10 +112,9 @@ const i18n = {
     overflow-x: auto;
     scroll-snap-type: x mandatory;
     -webkit-overflow-scrolling: touch;
-    padding: 4px 2em 8px;
+    padding: 4px 0 8px;
     scrollbar-width: none;
     -ms-overflow-style: none;
-    padding-bottom: 4px;
   }
 
   .tp-scroll::-webkit-scrollbar {
@@ -256,9 +253,4 @@ const i18n = {
     line-height: 1.4;
   }
 
-  @media (max-width: 720px) {
-    .tp-section { margin: 1.5em -1em; overflow-x: clip; }
-    .tp-header  { padding: 0 1em; }
-    .tp-scroll  { padding-left: 1em; padding-right: 1em; }
-  }
 </style>
