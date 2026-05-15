@@ -8,7 +8,6 @@ import '../../styles/tickets.css';
 const title = 'Bali Attraction Ticket Prices 2026 | 42 Top Spots - Gobaligo';
 const description = 'Bali entrance fees for 42 top attractions including Uluwatu, Waterbom, and Nusa Penida. Compare Klook, Agoda, and Trip.com prices before you go.';
 const lang = 'en';
-const slug = 'tickets';
 
 const rawTickets = await getCollection('tickets');
 const ticketsData = rawTickets
@@ -64,7 +63,7 @@ const schema = {
 </head>
 
 <body>
-  <Header lang={lang} slug={slug} />
+  <Header lang={lang} basePath="tickets" />
 
   <!-- Hero -->
   <div class="tickets-hero">

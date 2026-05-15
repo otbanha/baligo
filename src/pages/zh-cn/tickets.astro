@@ -8,7 +8,6 @@ import '../../styles/tickets.css';
 const title = '巴厘岛景点门票费用2026｜42个热门景点即时票价 - Gobaligo';
 const description = '巴厘岛42个热门景点门票即时票价，含乌鲁瓦图、Waterbom、Nusa Penida。比较Klook、Agoda、Trip.com优惠价格，出发前一站确认最新费用。';
 const lang = 'zh-cn';
-const slug = 'tickets';
 
 const rawTickets = await getCollection('tickets');
 const ticketsData = rawTickets
@@ -64,7 +63,7 @@ const schema = {
 </head>
 
 <body>
-  <Header lang={lang} slug={slug} />
+  <Header lang={lang} basePath="tickets" />
 
   <!-- Hero -->
   <div class="tickets-hero">

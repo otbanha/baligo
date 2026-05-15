@@ -8,7 +8,6 @@ import '../../styles/tickets.css';
 const title = '峇里島景點門票費用2026｜42個熱門景點即時票價 - Gobaligo';
 const description = '峇里島42個熱門景點門票即時票價，含烏魯瓦圖、Waterbom、Nusa Penida。比較Klook、Agoda、Trip.com優惠價格，出發前一站確認最新費用。';
 const lang = 'zh-hk';
-const slug = 'tickets';
 
 const rawTickets = await getCollection('tickets');
 const ticketsData = rawTickets
@@ -64,7 +63,7 @@ const schema = {
 </head>
 
 <body>
-  <Header lang={lang} slug={slug} />
+  <Header lang={lang} basePath="tickets" />
 
   <!-- Hero -->
   <div class="tickets-hero">
