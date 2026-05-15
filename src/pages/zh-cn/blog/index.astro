@@ -353,6 +353,24 @@ const socialLinks = [
 
       <div id="pagination" class="pagination"></div>
 
+      <!-- 峇里岛即时 Live Cam（首页限定） -->
+      <div class="livecam-section" id="livecam-section" style="display:none">
+        <div class="livecam-header">
+          <h2 class="livecam-heading">🎥 峇里岛即时现场</h2>
+          <p class="livecam-sub">看看现在峇里岛的天气和海况</p>
+        </div>
+        <div class="livecam-row">
+          <div class="livecam-main" id="livecam-player"></div>
+          <div class="livecam-aside">
+            <p class="livecam-coming">Coming soon</p>
+          </div>
+        </div>
+        <div class="livecam-links">
+          <span class="livecam-links-label">其他即时镜头 →</span>
+          <a href="https://www.youtube.com/watch?v=xuSvwBMhysw" target="_blank" rel="noopener" class="lc-link">🌿 乌布</a>
+        </div>
+      </div>
+
       {activePromos.length > 0 && (
         <div id="promo-block-main">
           <div id="promo-block-index"></div>
@@ -518,6 +536,8 @@ const socialLinks = [
       if (activeBtn) activeBtn.classList.add('active');
       const homepageBlocks = document.getElementById('homepage-blocks');
       if (homepageBlocks) homepageBlocks.style.display = (cat === 'all' && !q) ? 'block' : 'none';
+      const livecam = document.getElementById('livecam-section');
+      if (livecam) livecam.style.display = (cat === 'all' && !q) ? 'block' : 'none';
       const qLower = q ? q.toLowerCase() : '';
       filteredCards = [...cards].filter(card => {
         try {
@@ -719,7 +739,49 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; }
 .qg-orange { background: linear-gradient(135deg, #e07a00 0%, #c45b00 100%); box-shadow: 0 4px 16px rgba(180,80,0,0.22); }
 .qg-teal   { background: linear-gradient(135deg, #0e8fa0 0%, #096878 100%); box-shadow: 0 4px 16px rgba(9,104,120,0.22); }
 @media (max-width: 480px) { .qg-btn { min-height: 88px; padding: 1rem 0.75rem; } .qg-title { font-size: 0.88rem; } .qg-desc { display: none; } }
+.livecam-section { box-sizing: border-box; width: 100%; margin: 2em 0 1.5em; }
+.livecam-header { margin-bottom: 0.5em; }
+.livecam-heading { font-size: 0.95em; font-weight: 700; color: #C9A84C; margin: 0 0 0.1em; }
+.livecam-sub { font-size: 0.76em; color: rgba(255,255,255,0.45); margin: 0; }
+.livecam-row { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8em; }
+.livecam-main { aspect-ratio: 16/9; position: relative; overflow: hidden; border-radius: 8px; background: #0d0d1a; border: 1px solid rgba(201,168,76,0.2); }
+.livecam-aside { aspect-ratio: 16/9; border-radius: 8px; background: #1a1a2e; border: 1px solid rgba(201,168,76,0.15); display: flex; align-items: center; justify-content: center; }
+.livecam-coming { font-size: 0.85em; color: rgba(255,255,255,0.2); margin: 0; font-style: italic; }
+.livecam-links { display: flex; align-items: center; flex-wrap: wrap; gap: 0.45em; margin-top: 0.5em; }
+.livecam-links-label { font-size: 0.72em; color: var(--text-light, #888); white-space: nowrap; }
+.lc-link { display: inline-block; background: #2a2a3e; color: #C9A84C; font-size: 0.75em; font-weight: 600; padding: 0.3em 0.8em; border-radius: 20px; border: 1px solid transparent; text-decoration: none; transition: border-color 0.15s; white-space: nowrap; }
+.lc-link:hover { border-color: #C9A84C; }
+@media (max-width: 900px) { .livecam-row { grid-template-columns: 1fr; } .livecam-aside { display: none; } }
 </style>
+<script is:inline>
+(function () {
+  var loaded = false;
+  function init() {
+    var section = document.getElementById('livecam-section');
+    var player = document.getElementById('livecam-player');
+    if (!section || !player) return;
+    var observer = new IntersectionObserver(function (entries) {
+      if (entries[0].isIntersecting && !loaded) {
+        loaded = true;
+        var iframe = document.createElement('iframe');
+        iframe.src = 'https://www.youtube.com/embed/L1duJDAqbJY?autoplay=1&mute=1';
+        iframe.title = '峇里岛即时现场';
+        iframe.allow = 'accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture';
+        iframe.allowFullscreen = true;
+        iframe.style.cssText = 'position:absolute;top:0;left:0;width:100%;height:100%;border:none;display:block;';
+        player.appendChild(iframe);
+        observer.disconnect();
+      }
+    }, { threshold: 0.3 });
+    observer.observe(section);
+  }
+  if (document.readyState === 'loading') {
+    document.addEventListener('DOMContentLoaded', init);
+  } else {
+    init();
+  }
+})();
+</script>
 <script define:vars={{ promosJson }}>
 window.addEventListener('load', () => {
   const promos = JSON.parse(promosJson);
