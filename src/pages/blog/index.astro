@@ -6,6 +6,7 @@ import ChatBot from '../../components/ChatBot.astro';
 import BaliTicketTable from '../../components/BaliTicketTable.astro';
 import ExchangeRateWidget from '../../components/ExchangeRateWidget.astro';
 import BaliWeather from '../../components/BaliWeather.astro';
+import TicketPreview from '../../components/TicketPreview.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection, render } from 'astro:content';
 import featuredData from '../../featured.json';
@@ -487,6 +488,9 @@ const socialLinks = [
       </div>
 
       <div id="pagination" class="pagination"></div>
+
+      <!-- 景點門票預覽 -->
+      <TicketPreview lang="zh-tw" />
 
       <!-- 峇里島即時 Live Cam（首頁限定，桌機） -->
       <div class="livecam-section" id="livecam-section" style="display:none">

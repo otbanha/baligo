@@ -6,6 +6,7 @@ import Footer from '../../../components/Footer.astro';
 import ChatBot from '../../../components/ChatBot.astro';
 import ExchangeRateWidget from '../../../components/ExchangeRateWidget.astro';
 import BaliWeather from '../../../components/BaliWeather.astro';
+import TicketPreview from '../../../components/TicketPreview.astro';
 import { getCollection, render } from 'astro:content';
 import featuredData from '../../../featured.json';
 import top5Data from '../../../top5.json';
@@ -353,6 +354,9 @@ const socialLinks = [
       </div>
 
       <div id="pagination" class="pagination"></div>
+
+      <!-- Ticket Preview -->
+      <TicketPreview lang="en" />
 
       <!-- Bali Live Cam (homepage only) -->
       <div class="livecam-section" id="livecam-section" style="display:none">

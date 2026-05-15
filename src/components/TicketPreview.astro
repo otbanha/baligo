@@ -1,0 +1,255 @@
+---
+import { getCollection } from 'astro:content';
+import { FEATURED_TICKETS, CAT_LABEL, CAT_PILL } from '../data/tickets.js';
+
+interface Props {
+  lang?: string;
+}
+const { lang = 'zh-tw' } = Astro.props;
+
+const allTickets = await getCollection('tickets');
+const totalCount = allTickets.length;
+
+const ticketsPath = lang === 'en'    ? '/en/tickets/'
+                  : lang === 'zh-cn' ? '/zh-cn/tickets/'
+                  : lang === 'zh-hk' ? '/zh-hk/tickets/'
+                  : '/tickets/';
+
+const i18n = {
+  heading:  lang === 'en'    ? '🎟️ Ticket Prices'
+           : lang === 'zh-cn' ? '🎟️ 景点门票参考票价'
+           : '🎟️ 景點門票參考票價',
+  viewAll:  lang === 'en'    ? 'View all →'
+           : lang === 'zh-cn' ? '查看全部 →'
+           : '查看全部 →',
+  seeAllCard: lang === 'en'    ? `View all ${totalCount} attractions →`
+             : lang === 'zh-cn' ? `查看全部 ${totalCount} 個景點 →`
+             : `查看全部 ${totalCount} 個景點 →`,
+  price:    lang === 'en' ? 'Price' : lang === 'zh-cn' ? '票价' : '票價',
+  klook:    'Klook',
+  trip:     'Trip',
+};
+---
+
+<section class="tp-section">
+  <div class="tp-header">
+    <h2 class="tp-heading">{i18n.heading}</h2>
+    <a href={ticketsPath} class="tp-view-all">{i18n.viewAll}</a>
+  </div>
+
+  <div class="tp-scroll">
+    {FEATURED_TICKETS.map(t => {
+      const pillStyle = CAT_PILL[t.cat] ?? '';
+      const catLabel  = CAT_LABEL[t.cat] ?? t.cat;
+      return (
+        <div class="tp-card">
+          <span class="tp-pill" style={pillStyle}>{catLabel}</span>
+          <p class="tp-name">{t.name}</p>
+          <p class="tp-price">
+            <span class="tp-price-label">{i18n.price}</span>
+            <span class="tp-price-val">IDR {t.idr.toLocaleString('en-US')}</span>
+          </p>
+          <div class="tp-btns">
+            {t.klook && (
+              <a href={t.klook} target="_blank" rel="noopener noreferrer" class="tp-btn tp-btn-klook">
+                {i18n.klook}
+              </a>
+            )}
+            {t.tripcom && (
+              <a href={t.tripcom} target="_blank" rel="noopener noreferrer" class="tp-btn tp-btn-trip">
+                {i18n.trip}
+              </a>
+            )}
+          </div>
+        </div>
+      );
+    })}
+
+    <!-- See All card -->
+    <a href={ticketsPath} class="tp-card tp-card-all">
+      <span class="tp-all-icon">🎟️</span>
+      <span class="tp-all-text">{i18n.seeAllCard}</span>
+    </a>
+  </div>
+</section>
+
+<style>
+  .tp-section {
+    margin: 1.5em 0;
+  }
+
+  .tp-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 10px;
+  }
+
+  .tp-heading {
+    font-size: 15px !important;
+    font-weight: 700 !important;
+    color: #1a365d !important;
+    margin: 0 !important;
+    line-height: 1.3 !important;
+  }
+
+  .tp-view-all {
+    font-size: 13px;
+    color: #C5A059;
+    text-decoration: none;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+
+  .tp-view-all:hover {
+    color: #9a7a2e;
+  }
+
+  /* Scrollable row */
+  .tp-scroll {
+    display: flex;
+    gap: 10px;
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+    -ms-overflow-style: none;
+    padding-bottom: 4px;
+  }
+
+  .tp-scroll::-webkit-scrollbar {
+    display: none;
+  }
+
+  /* Card */
+  .tp-card {
+    flex-shrink: 0;
+    width: 170px;
+    scroll-snap-align: start;
+    background: #fff;
+    border: 1px solid #eef0f5;
+    border-radius: 12px;
+    padding: 12px;
+    box-shadow: 0 1px 6px rgba(26,54,93,0.07);
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    box-sizing: border-box;
+    max-height: 190px;
+  }
+
+  .tp-pill {
+    display: inline-block;
+    font-size: 10px;
+    font-weight: 600;
+    padding: 2px 8px;
+    border-radius: 20px;
+    white-space: nowrap;
+    align-self: flex-start;
+  }
+
+  .tp-name {
+    font-size: 13px;
+    font-weight: 700;
+    color: #111827;
+    margin: 0;
+    line-height: 1.35;
+    display: -webkit-box;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  .tp-price {
+    margin: 0;
+    display: flex;
+    align-items: baseline;
+    gap: 4px;
+  }
+
+  .tp-price-label {
+    font-size: 9px;
+    font-weight: 600;
+    color: #9ca3af;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+  }
+
+  .tp-price-val {
+    font-size: 13px;
+    font-weight: 800;
+    color: #1a365d;
+    letter-spacing: -0.01em;
+  }
+
+  .tp-btns {
+    display: flex;
+    gap: 5px;
+    margin-top: auto;
+  }
+
+  .tp-btn {
+    display: inline-flex;
+    align-items: center;
+    padding: 4px 9px;
+    border-radius: 6px;
+    border: 1.5px solid;
+    font-size: 11px;
+    font-weight: 600;
+    text-decoration: none;
+    line-height: 1;
+    white-space: nowrap;
+    transition: background 0.15s, color 0.15s;
+  }
+
+  .tp-btn-klook {
+    border-color: #f97316;
+    color: #f97316;
+    background: #fff7ed;
+  }
+
+  .tp-btn-klook:hover {
+    background: #f97316;
+    color: #fff;
+  }
+
+  .tp-btn-trip {
+    border-color: #0066FF;
+    color: #0066FF;
+    background: #eff4ff;
+  }
+
+  .tp-btn-trip:hover {
+    background: #0066FF;
+    color: #fff;
+  }
+
+  /* See All card */
+  .tp-card-all {
+    text-decoration: none;
+    background: linear-gradient(135deg, #1a365d 0%, #2a5298 100%);
+    border-color: transparent;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    gap: 10px;
+    min-width: 140px;
+    transition: opacity 0.15s, transform 0.15s;
+  }
+
+  .tp-card-all:hover {
+    opacity: 0.9;
+    transform: translateY(-1px);
+  }
+
+  .tp-all-icon {
+    font-size: 28px;
+  }
+
+  .tp-all-text {
+    font-size: 13px;
+    font-weight: 700;
+    color: #fff;
+    line-height: 1.4;
+  }
+</style>
