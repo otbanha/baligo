@@ -44,13 +44,13 @@ const slug = 'tickets';
 
     <!-- Category filters -->
     <div id="filter-buttons" class="tickets-filters">
-      <button data-cat="all"       class="filter-btn active">🗺️ 全部</button>
-      <button data-cat="temple"    class="filter-btn">🛕 寺廟</button>
-      <button data-cat="nature"    class="filter-btn">🌿 自然景觀</button>
-      <button data-cat="island"    class="filter-btn">🏝️ Nusa Penida</button>
-      <button data-cat="park"      class="filter-btn">🎭 文化園區</button>
-      <button data-cat="activity"  class="filter-btn">🎢 主題樂園</button>
-      <button data-cat="adventure" class="filter-btn">🏄 冒險活動</button>
+      <button data-cat="all"       class="tickets-filter-btn active">🗺️ 全部</button>
+      <button data-cat="temple"    class="tickets-filter-btn">🛕 寺廟</button>
+      <button data-cat="nature"    class="tickets-filter-btn">🌿 自然景觀</button>
+      <button data-cat="island"    class="tickets-filter-btn">🏝️ Nusa Penida</button>
+      <button data-cat="park"      class="tickets-filter-btn">🎭 文化園區</button>
+      <button data-cat="activity"  class="tickets-filter-btn">🎢 主題樂園</button>
+      <button data-cat="adventure" class="tickets-filter-btn">🏄 冒險活動</button>
     </div>
 
     <!-- Result count -->
@@ -71,7 +71,7 @@ const slug = 'tickets';
 </body>
 </html>
 
-<style>
+<style is:global>
   /* ── Design tokens ── */
   :root {
     --ocean: #1A365D;
@@ -212,7 +212,7 @@ const slug = 'tickets';
     gap: 8px;
     margin-bottom: 8px;
   }
-  .filter-btn {
+  .tickets-filter-btn {
     height: 36px;
     padding: 0 16px;
     border-radius: 20px;
@@ -226,12 +226,12 @@ const slug = 'tickets';
     font-family: inherit;
     white-space: nowrap;
   }
-  .filter-btn:hover {
+  .tickets-filter-btn:hover {
     border-color: var(--ocean);
     color: var(--ocean);
     background: #f0f4fa;
   }
-  .filter-btn.active {
+  .tickets-filter-btn.active {
     background: var(--ocean);
     border-color: var(--ocean);
     color: #fff;
@@ -606,9 +606,9 @@ function render() {
 }
 
 document.getElementById('filter-buttons').addEventListener('click', e => {
-  const btn = e.target.closest('.filter-btn');
+  const btn = e.target.closest('.tickets-filter-btn');
   if (!btn) return;
-  document.querySelectorAll('.filter-btn').forEach(b => b.classList.remove('active'));
+  document.querySelectorAll('.tickets-filter-btn').forEach(b => b.classList.remove('active'));
   btn.classList.add('active');
   activeCat = btn.dataset.cat;
   render();
