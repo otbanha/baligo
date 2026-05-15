@@ -1,6 +1,6 @@
 ---
 name: Surfing Lesson
-cat: adventure
+cat: watersports
 idr: 350000
 note: 包含庫塔、水明漾、長谷、烏魯瓦圖等衝浪課程約 2 小時，含教練、板子。適合初學者。
 klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520Surfing
