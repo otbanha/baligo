@@ -255,24 +255,19 @@ const ticketsData = rawTickets
   /* ── Filters ── */
   .tickets-filters {
     display: flex;
-    flex-wrap: nowrap;
-    gap: 8px;
+    flex-wrap: wrap;
+    gap: 6px;
     margin-bottom: 8px;
-    overflow-x: auto;
-    scrollbar-width: none;
-    -ms-overflow-style: none;
-  }
-  .tickets-filters::-webkit-scrollbar {
-    display: none;
+    justify-content: center;
   }
   .tickets-filter-btn {
-    height: 36px;
-    padding: 0 16px;
+    height: 30px;
+    padding: 0 10px;
     border-radius: 20px;
     border: 1.5px solid #e5e7eb;
     background: #fff;
     color: #6b7280;
-    font-size: 13px;
+    font-size: 12px;
     font-weight: 500;
     cursor: pointer;
     transition: all 0.18s ease;
