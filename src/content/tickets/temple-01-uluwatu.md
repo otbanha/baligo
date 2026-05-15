@@ -7,5 +7,4 @@ klook: "https://www.klook.com/zh-TW/activity/2679-uluwatu-temple-kecak-fire-danc
 agoda: false
 tripcom: "https://www.trip.com/things-to-do/bali-344/products/?Allianceid=6817581&SID=311634184"
 warn:
-order: 1
 ---

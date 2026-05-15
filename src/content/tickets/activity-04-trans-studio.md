@@ -7,5 +7,4 @@ klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=h
 agoda: false
 tripcom: https://tw.trip.com/travel-guide/attraction/bali/trans-studio-bali-theme-park-142709856?curr=IDR&locale=zh-TW&poiType=3&ext-searchpage=1&lasttraceid=0f396bf3-b601-5196-228f-177882f59811&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389
 warn: ''
-order: 27
 ---

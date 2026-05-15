@@ -7,5 +7,4 @@ klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=h
 agoda: true
 tripcom: https://tw.trip.com/things-to-do/list?pagetype=city&keyword=Nusa Penida&pshowcode=all&kwdfrom=srch&ext-searchpage=1&lasttraceid=56c062a6-7fa8-30a6-ceee-1778820d82a4&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389
 warn: ''
-order: 20
 ---

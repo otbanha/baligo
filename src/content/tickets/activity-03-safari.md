@@ -7,5 +7,4 @@ klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=h
 agoda: false
 tripcom: https://tw.trip.com/travel-guide/attraction/bali/taman-safari-bali-90756?curr=IDR&locale=zh-TW&poiType=3&ext-searchpage=1&lasttraceid=7e5e806f-3d4e-e128-6d7f-17788d236053&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389
 warn: ''
-order: 26
 ---

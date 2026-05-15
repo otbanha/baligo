@@ -7,5 +7,4 @@ klook: "https://www.klook.com/zh-TW/search/?query=paragliding+uluwatu+bali&aid=1
 agoda: false
 tripcom: "https://www.trip.com/things-to-do/bali-344/products/?Allianceid=6817581&SID=311634184"
 warn:
-order: 36
 ---

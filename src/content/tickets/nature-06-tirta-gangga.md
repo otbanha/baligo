@@ -7,5 +7,4 @@ klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=h
 agoda: false
 tripcom: https://tw.trip.com/things-to-do/list?pagetype=city&keyword=Tirta Gangga&pshowcode=all&kwdfrom=srch&ext-searchpage=1&lasttraceid=c9089c0e-3909-8caf-cf99-981723043527&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389
 warn: ''
-order: 14
 ---

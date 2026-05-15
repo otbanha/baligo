@@ -7,5 +7,4 @@ klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277506&k_site=h
 agoda: false
 tripcom: https://tw.trip.com/things-to-do/list?pagetype=city&keyword=ATV ubud&pshowcode=all&kwdfrom=srch&ext-searchpage=1&lasttraceid=8e3c1f4d-e8d4-d7d2-d55b-1777b4873251&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16961338
 warn: ''
-order: 30
 ---

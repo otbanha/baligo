@@ -7,5 +7,4 @@ klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=h
 agoda: false
 tripcom: https://tw.trip.com/things-to-do/list?pagetype=city&keyword=Tirta Empul&pshowcode=all&kwdfrom=srch&ext-searchpage=1&lasttraceid=1165faf5-10e9-cb97-ab76-17783bec5090&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389
 warn: ''
-order: 3
 ---

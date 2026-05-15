@@ -7,5 +7,4 @@ klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=h
 agoda: false
 tripcom: https://tw.trip.com/things-to-do/list?pagetype=city&keyword=Besakih Temple&pshowcode=all&kwdfrom=srch&ext-searchpage=1&lasttraceid=74be0e45-6e33-b2a1-6016-177f30a31523&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389
 warn: ''
-order: 30
 ---

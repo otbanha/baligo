@@ -7,5 +7,4 @@ klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=h
 agoda: false
 tripcom: https://tw.trip.com/things-to-do/list?pagetype=city&keyword=Kanto Lampo&pshowcode=all&kwdfrom=srch&ext-searchpage=1&lasttraceid=1de2aa79-4de4-595b-8086-1778817aa088&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389
 warn: ''
-order: 16
 ---

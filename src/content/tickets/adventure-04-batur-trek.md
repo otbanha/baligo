@@ -7,5 +7,4 @@ klook: https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=h
 agoda: false
 tripcom: https://tw.trip.com/things-to-do/list?pagetype=city&keyword=Mount Batur&pshowcode=all&kwdfrom=srch&ext-searchpage=1&lasttraceid=733e7342-6f39-05bd-a605-177887707477&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389
 warn: ''
-order: 31
 ---

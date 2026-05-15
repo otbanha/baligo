@@ -104,7 +104,6 @@ const tickets = defineCollection({
     agoda: z.boolean().optional(),
     tripcom: z.string().nullable().optional(),
     warn: z.string().nullable().optional(),
-    order: z.number().optional(),
   }),
 });
 

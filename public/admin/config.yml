@@ -184,8 +184,6 @@ collections:
     delete: true
     slug: "{{cat}}-{{slug}}"
     summary: "{{name}} — IDR {{idr}}"
-    sort_field: order
-    sort_direction: Ascending
     fields:
       - { label: 景點名稱, name: name, widget: string }
       - label: 分類
@@ -205,4 +203,3 @@ collections:
       - { label: Agoda 按鈕, name: agoda, widget: boolean, default: false, hint: "開啟後顯示 Agoda 按鈕（固定連結）" }
       - { label: Trip.com 連結, name: tripcom, widget: string, required: false, hint: "留空則不顯示 Trip.com 按鈕" }
       - { label: 警示文字, name: warn, widget: string, required: false, hint: "例如：⚠ 排隊可達 2–4 小時，留空不顯示" }
-      - { label: 排序順序, name: order, widget: number, value_type: int, default: 99, hint: "數字越小越前面" }
