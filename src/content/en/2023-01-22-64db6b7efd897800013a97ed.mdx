@@ -32,6 +32,10 @@ originalUrl: 'https://vocus.cc/article/64db6b7efd897800013a97ed'
 lang: en
 _srcHash: 944fd5f8e2af2da0192c2b2858b01cde
 ---
+
+import SpaList from '../../components/SpaList.astro';
+import d from '../../data/spa-list-en.json';
+
 When it comes to Bali, there's no end to the fun, interesting, fresh, and enjoyable experiences! As one of the world's top vacation paradises, you'll find everything here - from exotic beaches and breathtaking landscapes to a variety of delicious cuisines. Additionally, Bali is often recommended as the perfect place to relax and rejuvenate. You'll discover many spa venues that combine natural beauty with culturally-inspired decor. This is a must-try experience!
 
 So, are Bali's spas expensive? Don't worry, friends, keep reading...
@@ -48,7 +52,6 @@ Some of the spas on our list come highly recommended by fellow travelers. We've 
 
 On the Klook & "Bali Travel Guide" joint platform, you can find detailed service descriptions, ratings from travelers worldwide, and authentic experience reviews!
 
-import SpaList from '../../components/SpaList.astro';
 import d from '../../data/spa-list-en.json';
 
 ## **Five-Star Luxury Spas**
@@ -59,13 +62,13 @@ Indulge yourself, indulge your loved one
 
 <SpaList title={d.luxury_canggu.title} spas={d.luxury_canggu.spas} />
 
-![Prana Spa 本身就是一座中東城堡](https://images.gobaligo.id/vocus/vocus_a648794bf21db4674dde17dfe4c93ecc.png)
+![Prana Spa](https://images.gobaligo.id/vocus/vocus_a648794bf21db4674dde17dfe4c93ecc.png)
 
 Prana Spa is itself a Middle Eastern castle
 
 <SpaList title={d.luxury_ubud.title} spas={d.luxury_ubud.spas} />
 
-![Maya Ubud Resort 的 The Spa 獨享河谷美景](https://images.gobaligo.id/vocus/vocus_5723ddc758fbe9bcc60c822e2c059a97.png)
+![Maya Ubud Resort The Spa](https://images.gobaligo.id/vocus/vocus_5723ddc758fbe9bcc60c822e2c059a97.png)
 
 The Spa at Maya Ubud Resort offers exclusive views of the river valley
 
@@ -105,6 +108,6 @@ These are the top-rated spas by travelers! This list will continue to be updated
 
 ## Final Reminder
 
-Finally, a reminder to everyone: most spas, especially the highly-rated ones we recommend, require advance reservations. Trying to book on the spot might leave you waiting forever, wasting precious vacation time. Therefore, we suggest making good use of the [joint platform between Klook and 'Bali Travel Guide'](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D) to make your reservations.
+Finally, a reminder to everyone: most spas, especially the highly-rated ones we recommend, require advance reservations. Trying to book on the spot might leave you waiting forever, wasting precious vacation time. Therefore, we suggest making good use of the [Klook & "Bali Travel Guide" joint platform](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnon-network%26utm_campaign%3D40584%26utm_term%3D%26utm_content%3D) to make your reservations.
 
-{{block:戶外}}
+{{block:outdoor}}

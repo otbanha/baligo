@@ -151,9 +151,14 @@ const NAME = {
   '到府服務 Spa': { en: 'Home Service Spa', 'zh-cn': '上门服务Spa', 'zh-hk': '到府服務Spa' },
 };
 
+const TITLE = {
+  '選擇你的區域': { en: 'Choose Your Area', 'zh-cn': '选择你的区域', 'zh-hk': '揀選你嘅區域' },
+};
+
 function translateSection(section, lang) {
   return {
     ...section,
+    title: TITLE[section.title]?.[lang] ?? section.title,
     spas: section.spas.map(spa => ({
       ...spa,
       name: NAME[spa.name]?.[lang] ?? spa.name,

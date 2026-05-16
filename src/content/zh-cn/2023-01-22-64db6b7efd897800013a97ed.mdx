@@ -26,6 +26,9 @@ lang: zh-cn
 _srcHash: 944fd5f8e2af2da0192c2b2858b01cde
 ---
 
+import SpaList from '../../components/SpaList.astro';
+import d from '../../data/spa-list-zh-cn.json';
+
 说起巴厘岛，好玩的、有趣的、新鲜的、享受的就说完了！ 作为世界上的度假天堂之一，您可以在这里找到很多东西。 从充满异国风情的海滩、清新的绝美风景，到各式各样美味佳肴。 除此之外，巴厘岛也经常被推荐为放松身心的地方，让您的身心再次焕然一新。 因此，在巴厘岛，您会发现许多spa水疗场所通常结合了自然美景和富有文化特色的装饰。 这是必须尝试的！
 
 那么，巴厘岛的spa水疗中心不贵吗？ 小伙伴们别着急，请继续看下去...
@@ -42,7 +45,6 @@ _srcHash: 944fd5f8e2af2da0192c2b2858b01cde
 
 Klook 与「巴厘岛旅游攻略」联合平台上除了可以看到详细的服务内容，还有来自全世界网友的评分、最真实的体验评价喔！
 
-import SpaList from '../../components/SpaList.astro';
 import d from '../../data/spa-list-zh-cn.json';
 
 ## **五星奢华SPA**
@@ -53,13 +55,13 @@ import d from '../../data/spa-list-zh-cn.json';
 
 <SpaList title={d.luxury_canggu.title} spas={d.luxury_canggu.spas} />
 
-![Prana Spa 本身就是一座中東城堡](https://images.gobaligo.id/vocus/vocus_a648794bf21db4674dde17dfe4c93ecc.png)
+![Prana Spa](https://images.gobaligo.id/vocus/vocus_a648794bf21db4674dde17dfe4c93ecc.png)
 
 Prana Spa 本身就是一座中东城堡
 
 <SpaList title={d.luxury_ubud.title} spas={d.luxury_ubud.spas} />
 
-![Maya Ubud Resort 的 The Spa 獨享河谷美景](https://images.gobaligo.id/vocus/vocus_5723ddc758fbe9bcc60c822e2c059a97.png)
+![Maya Ubud Resort The Spa](https://images.gobaligo.id/vocus/vocus_5723ddc758fbe9bcc60c822e2c059a97.png)
 
 Maya Ubud Resort 的 The Spa 独享河谷美景
 
