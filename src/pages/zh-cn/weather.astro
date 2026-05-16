@@ -84,6 +84,19 @@ const schema = {
         line-height: 1.8;
       }
       .weather-tips ul li { margin-bottom: 0.2rem; }
+      .related-articles { margin-top: 1.6rem; }
+      .related-banner { display: block; width: 100%; border-radius: 12px; overflow: hidden; margin-bottom: 0.8rem; text-decoration: none; }
+      .related-banner img { width: 100%; height: auto; display: block; border-radius: 12px; }
+      .article-links { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem; }
+      .article-links li a { display: block; background: #f0f6ff; border: 1px solid #c8ddf8; border-left: 4px solid #1a6fad; border-radius: 8px; padding: 0.65rem 1rem; color: #1a3a6d; font-size: 0.9rem; font-weight: 600; line-height: 1.4; text-decoration: none; transition: background 0.15s, border-color 0.15s; }
+      .article-links li a:hover { background: #ddeeff; border-left-color: #c5a059; color: #0f2a55; }
+      .live-cams { margin-top: 1.6rem; }
+      .live-cams h2 { font-size: 1rem; margin: 0 0 0.8rem; color: #1a6fad; }
+      .cams-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem; }
+      .cam-label { font-size: 0.82rem; color: #555; margin: 0 0 0.3rem; font-weight: 600; }
+      .cam-wrap { position: relative; padding-bottom: 56.25%; height: 0; border-radius: 10px; overflow: hidden; background: #000; }
+      .cam-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
+      @media (max-width: 520px) { .cams-grid { grid-template-columns: 1fr; } }
     </style>
   </head>
   <body>
@@ -94,6 +107,51 @@ const schema = {
       <p class="subtitle">实时气温・湿度・降雨・UV 指数・未来 7 天预报，数据来源 Open-Meteo，每 10 分钟更新</p>
 
       <BaliWeather lang={lang} />
+
+      <div class="live-cams">
+        <h2>巴厘岛即时摄影机</h2>
+        <div class="cams-grid">
+          <div>
+            <p class="cam-label">巴厘岛南部</p>
+            <div class="cam-wrap">
+              <iframe
+                src="https://www.youtube.com/embed/L1duJDAqbJY?autoplay=1&mute=1"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                loading="lazy"
+              ></iframe>
+            </div>
+          </div>
+          <div>
+            <p class="cam-label">乌布</p>
+            <div class="cam-wrap">
+              <iframe
+                src="https://www.youtube.com/embed/xuSvwBMhysw?autoplay=1&mute=1"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                loading="lazy"
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="related-articles">
+        <a href="/zh-cn/blog/2025-04-02-67ecc962fd89780001212629/" class="related-banner">
+          <img
+            src="https://images.gobaligo.id/images/2026-05/1778906557521-1-12.png"
+            alt="巴厘岛1-12月适合旅游指数大解析"
+            loading="lazy"
+          />
+        </a>
+        <ul class="article-links">
+          <li><a href="/zh-cn/blog/2024-03-15-65f39bd0fd897800012287e9/">为什么别再问巴厘岛的天气？下雨又如何？</a></li>
+          <li><a href="/zh-cn/blog/2023-12-06-657078edfd89780001f2d88d/">巴厘岛最佳旅游时间？深入了解旱季、雨季／优缺点解析</a></li>
+          <li><a href="/zh-cn/blog/2024-10-16-670fc5b2fd89780001cea7ee/">巴厘岛雨季降雨分析 - 南部地区的雨季体验</a></li>
+          <li><a href="/zh-cn/blog/2025-04-02-67ecc962fd89780001212629/">巴厘岛雨季月份／降雨概率／降雨天数／平均气温／适合旅游指数…大解析</a></li>
+          <li><a href="/zh-cn/blog/2024-01-06-6598c6fffd89780001047d76/">巴厘岛雨季：旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备案攻略</a></li>
+        </ul>
+      </div>
 
       <div class="weather-tips">
         <h2>巴厘岛天气小知识</h2>
