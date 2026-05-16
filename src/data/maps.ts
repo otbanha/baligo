@@ -178,6 +178,17 @@ export const maps: MapArea[] = [
     isThematic: true,
   },
   {
+    slug: "hospital",
+    name: "醫院 / 診所",
+    nameEn: "Hospitals & Clinics in Bali",
+    description: "峇里島 211 間醫療設施，含 BIMC、Siloam、Kasih Ibu 等國際醫院、24H 急診與觀光區診所",
+    center: [-8.6705, 115.2126],
+    zoom: 11,
+    kml: "/maps/hospital.kml",
+    emoji: "🏥",
+    isThematic: true,
+  },
+  {
     slug: "canggu-hotel",
     name: "長谷住宿推薦",
     nameEn: "Best Hotels in Canggu",
