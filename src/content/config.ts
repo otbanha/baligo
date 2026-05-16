@@ -88,15 +88,15 @@ const qa = defineCollection({
 
 // 翻譯文章集合 — 使用 glob loader 支援連字號目錄名稱
 const zhcn = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/zh-cn' }),
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/zh-cn' }),
   schema: translatedSchema,
 });
 const zhhk = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/zh-hk' }),
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/zh-hk' }),
   schema: translatedSchema,
 });
 const en = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/en' }),
+  loader: glob({ pattern: '**/*.{md,mdx}', base: './src/content/en' }),
   schema: translatedSchema,
 });
 

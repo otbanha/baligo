@@ -1,0 +1,636 @@
+{
+  "luxury_jimbaran": {
+    "title": "Jimbaran / Uluwatu",
+    "category": "五星奢華SPA",
+    "spas": [
+      {
+        "name": "ASAI Spa Center",
+        "description": "Luxurious spa experience",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F104313-spa-in-jimbaran-bali-by-asai-village%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D54f839ce97",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "The Spa Experience",
+        "description": "at Renaissance Uluwatu Resort",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F73056-spa-renaissance-uluwatu-resort-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3d2d01a1b6",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Alila Villas Uluwatu Spa",
+        "description": "Bali's most exclusive spa",
+        "href": "/blog/2025-05-26-6833e882fd89780001853b1d/",
+        "links": {
+          "klook": "",
+          "kkday": "https://www.kkday.com/en/product/528043?cid=25072",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Raffles Spa",
+        "description": "Ultra five-star spa",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1117521&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F167025-balinese-healing-massage-at-raffles-spa-jimbaran%2F",
+          "kkday": "https://www.kkday.com/en/product/530239?qs=Raffles+Spa&cid=25072",
+          "trip": ""
+        }
+      }
+    ]
+  },
+  "luxury_canggu": {
+    "title": "Canggu / Seminyak",
+    "category": "五星奢華SPA",
+    "spas": [
+      {
+        "name": "Prana Spa Bali",
+        "description": "Experience royal treatment like a Middle Eastern king or queen",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F81346-prana-spa-get-great-deals-book%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D144da1f127",
+          "kkday": "https://www.kkday.com/zh-tw/product/134768-massage-and-treatment-deal-at-prana-spa-in-impiana-private-villas-seminyak-bali?cid=17351",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Sava Spa at Hotel Indigo",
+        "description": "",
+        "links": {
+          "klook": "",
+          "kkday": "https://www.kkday.com/zh-tw/product/132261-sava-spa-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=17351",
+          "trip": ""
+        }
+      },
+      {
+        "name": "AWAY Spa at W Hotel",
+        "description": "Experience",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=756711&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83004-away-spa-by-w-bali-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df71b796e77",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Goldust Spa",
+        "description": "Golden facial massage experience",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62617-goldust-beauty-lounge-treatment-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da0f89cc550",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Spa at Peppers Seminyak",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F97308-spa-at-peppers-seminyak-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D86826daf12",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Seminyak Icon Spa",
+        "description": "Experience",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F89805-seminyak-icon-spa-experience-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92f8e7b853",
+          "kkday": "",
+          "trip": ""
+        }
+      }
+    ]
+  },
+  "luxury_ubud": {
+    "title": "Ubud",
+    "category": "五星奢華SPA",
+    "spas": [
+      {
+        "name": "Spa Experience at Tanah Gajah",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F104817-spa-experience-tanah-gajah-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5d3c532587",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Radha Spa at The Sankara Suites & Villas",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F95733-radha-spa-at-the-sankara-suites-villa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7714086322",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Serayu Spa at The Kayon Jungle Resort",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F94005-serayu-spa-at-the-kayon-jungle-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1996e8ee57",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Mekar Ubud Jungle Spa",
+        "description": "Experience",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D24dcb28ae7",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "The Spa at Maya Ubud Resort",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1027632&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F147945-the-spa-experience-at-maya-ubud-resort%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2031dd951",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Heavenly Spa at The Westin Ubud",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1117521&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153161-heavenly-spa-at-the-westin-ubud%2F",
+          "kkday": "https://www.kkday.com/zh-tw/product/259262?cid=25072",
+          "trip": "https://tw.trip.com/things-to-do/detail/85420804?language=TW&locale=zh_tw&ext-searchpage=1&ext-mixlist=activity_main&ext-hasFilter=2&lasttraceid=253b07e5-603f-5d9d-f221-177889951056&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17000671"
+        }
+      }
+    ]
+  },
+  "luxury_nusadua": {
+    "title": "Nusa Dua",
+    "category": "五星奢華SPA",
+    "spas": [
+      {
+        "name": "Spa Experience at The Ritz Carlton",
+        "description": "A luxurious five-star spa experience",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F87731-spa-the-ritz-carlton-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6a2a07d679",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Kayumanis Spa Experience",
+        "description": "Kayumanis Spa experience",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F98871-kayumanis-spa-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2be4351df",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Heavenly Spa at Westin Resort",
+        "description": "Marriott member? The 'Heavenly Spa' at Westin Resort is your best choice",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F58448-heavenly-spa-treatment-westin-resort-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5ded587d54",
+          "kkday": "",
+          "trip": ""
+        }
+      }
+    ]
+  },
+  "mid_kuta": {
+    "title": "Kuta / Seminyak / Canggu",
+    "category": "中價位好評SPA",
+    "spas": [
+      {
+        "name": "Taman Air Spa",
+        "description": "Awarded 'Best Independent Spa' by the Indonesian tourism department",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F76134-taman-air-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1293072e87",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Bali Orchid Spa Kuta",
+        "description": "A well-known spa in the Kuta area",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F15940-bali-orchid-spa-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0e1293e819",
+          "kkday": "https://www.kkday.com/en/product/132442-bali-orchid-spa-experience-kuta-indonesia?qs=Bali+Orchid+Spa+Kuta&cid=25072",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Montigo Spa",
+        "description": "A highly recommended spa in Seminyak",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F27291-montigo-spa-experience-seminyak%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D20f9673960",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Lluvia Spa",
+        "description": "Seminyak spa. Highly recommended! Couples massage 3hr + hotel transfer for under USD$97",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=756704&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15906-spa-treatment-lluvia-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcdf84f7178",
+          "kkday": "https://www.kkday.com/zh-tw/product/132384-spa-treatment-at-lluvia-spa-seminyak-with-2-way-transfer-bali?cid=17351",
+          "trip": "https://tw.trip.com/travel-guide/attraction/bali/lluvia-spa-61930855?curr=IDR&locale=zh-TW&tagId=4315&poiType=66&scene=BASIC&lasttraceid=ic_traceid&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17000671"
+        }
+      },
+      {
+        "name": "The Lotus Spa",
+        "description": "Spa and massage experience",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F62315-spa-massage-experience-the-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Decee6d3f34",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Padma Spa Treatment",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F47667-padma-spa-treatment-plataran-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4b114890ac",
+          "kkday": "https://www.kkday.com/en/product/198120?cid=25072",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Bodyworks Spa",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfc5734c5d3",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Hot Bamboo SPA",
+        "description": "Known for its unique heated bamboo massage and powerful foot massage",
+        "href": "https://www.hotbamboospa.com/home",
+        "links": {
+          "klook": "",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Reborn Wellness and Spa",
+        "description": "Try their famous four-hand massage!",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1027632&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F43028-reborn-wellness-spa-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Deb826cc812",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Young Spa",
+        "description": "A highly-rated spa in Kuta",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1117521&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F166625-bali-massage-at-young-spa-in-kuta%2F",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Usadha Spa at Legian Beach Hotel",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1117521&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F159065-%2F",
+          "kkday": "https://www.kkday.com/en/product/529825?qs=Usadha+Spa+at+Legian+Beach+Hotel&cid=25072",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Rumah Wangi",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1277537&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F88008-rumah-wangi-spa-experience-kuta%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D0fa6db185f",
+          "kkday": "https://www.kkday.com/zh-tw/product/260328-bali-rumah-wangi-spa-kuta-indonesia?cid=25072",
+          "trip": "https://tw.trip.com/things-to-do/detail/49893689?language=TW&locale=zh_tw&districtId=438&districtType=1&ext-searchpage=1&ext-mixlist=activity_main&ext-hasFilter=2&lasttraceid=c47afb8c-81ce-067a-a92b-17eeef574671&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17000671"
+        },
+        "description": "10 minutes from the airport — ideal for layovers or your return journey"
+      }
+    ]
+  },
+  "mid_jimbaran": {
+    "title": "Jimbaran",
+    "category": "中價位好評SPA",
+    "spas": [
+      {
+        "name": "ANN Spa",
+        "description": "Opening October 2025, Taiwanese owner, Mandarin-speaking",
+        "href": "/blog/ann-spa-jimbaran/",
+        "links": {
+          "klook": "",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Hua Spa Jimbaran",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73137-hua-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2a20e8022",
+          "kkday": "https://www.kkday.com/en/product/132485-massage-and-treatment-hua-spa-jimbaran-bali-indonesia?qs=hua+spa&cid=25072",
+          "trip": "https://hk.trip.com/things-to-do/detail/79670552?ext-searchpage=1&lasttraceid=c47afb8c-81ce-067a-a92b-17eeef574671&locale=zh_hk&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17000671"
+        }
+      },
+      {
+        "name": "Sekar Jepun Spa",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84346-sekar-jepun-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbdce49c54a",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Calma Spa",
+        "description": "A spa near the airport in Jimbaran",
+        "href": "https://calmaspabali.com/",
+        "links": {
+          "klook": "",
+          "kkday": "",
+          "trip": "https://tw.trip.com/things-to-do/detail/49893689?language=TW&locale=zh_tw&districtId=438&districtType=1&ext-searchpage=1&ext-mixlist=activity_main&ext-hasFilter=2&lasttraceid=c47afb8c-81ce-067a-a92b-17eeef574671&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17000671"
+        }
+      },
+      {
+        "name": "Home Service Spa",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32944-home-service-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da9ea51fe1b",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Piramid Spa",
+        "links": {
+          "klook": "",
+          "kkday": "",
+          "trip": "https://tw.trip.com/things-to-do/detail/105116379?language=TW&locale=zh_tw&ext-searchpage=1&lasttraceid=1d54a562-2de9-ee79-bffa-177889134829&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17000671"
+        },
+        "description": "Highly-rated spa with stunning architecture worth photographing"
+      }
+    ]
+  },
+  "mid_ubud": {
+    "title": "Ubud",
+    "category": "中價位好評SPA",
+    "spas": [
+      {
+        "name": "Svaha Spa Bisma",
+        "description": "Forest View Spa & Massage Experience",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82335-svaha-spa-bisma-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df93f7493d7",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Svaha Spa Kenderan",
+        "description": "Valley View Spa & Massage Experience",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82339-svaha-spa-kenderan-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D685257358e",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Radha Spa at Sankara Resort",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54796-radha-spa-sankara-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De8dd628596",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Mekar Ubud Jungle Spa",
+        "description": "Massage experience",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4d2ec00d90",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Sungai Spa at Nandini Jungle Resort",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76292-sungai-spa-nandini-jungle-resort-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddc4550500f",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Padma Spa at Plataran Ubud",
+        "description": "按摩水療體驗",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47239-padma-spa-experience-plataran-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4e39b354ac",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Chapung Wellness Spa",
+        "description": "Massage experience",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25469-chapung-wellness-spa-experience-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4a071faffe",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Tejas Spa at Adiwana Bisma",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1027632&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F126492-spa-and-massage-at-tejas-spa-bisma-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da8256c6851",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Green Tara Spa",
+        "description": "Great environment with attention to detail!",
+        "href": "https://greentaraspa.com/",
+        "links": {
+          "klook": "",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Tejas Spa at Adiwana Suweta",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=1117521&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171262-spa-and-gym-experience-at-adiwana-suweta-ubud-bali%2F",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Jaens Spa",
+        "links": {
+          "klook": "",
+          "kkday": "",
+          "trip": "https://tw.trip.com/things-to-do/detail/56375205?language=TW&locale=zh_tw&ext-searchpage=1&lasttraceid=3b2aec55-a99f-d7f7-4262-17788922f736&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17000671"
+        },
+        "description": "Official spa of the 2022 Miss Universe pageant"
+      }
+    ]
+  },
+  "mid_nusadua": {
+    "title": "Nusa Dua",
+    "category": "中價位好評SPA",
+    "spas": [
+      {
+        "name": "Royal Orchid Spa Bali",
+        "description": "One of the best choices in Bali, combining rich Balinese massage techniques with a comfortable environment.",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F46807-spa-experience-royal-orchid-spa-bali-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3afed4ab80",
+          "kkday": "",
+          "trip": "https://tw.trip.com/things-to-do/detail/105550427?ext-searchpage=1&lasttraceid=50d36722-552c-56bf-ae73-1778079c7796&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17000671"
+        }
+      },
+      {
+        "name": "ZEN Family Spa",
+        "description": "A mid-range family spa offering a serene atmosphere, perfect for a relaxing family experience.",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84154-zen-family-spa-reflexology-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4a3ac10042",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Nusa Bali Spa",
+        "description": "2023 Travelers' Choice gem, offering diverse healing options that let you immerse in Balinese culture.",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90593-nusa-bali-spa-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3cccdbe0b8",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Rumah Spa Spa House",
+        "description": "A mid-range sanctuary with a minimalist and elegant style, offering a luxurious spa experience.",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89877-rumah-spa-experience-nusa-dua%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc9cd2300bd",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Sekar Jepun Spa",
+        "description": "A mid-range floral healing spa focusing on natural elements, bringing tranquility and relaxation.",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84346-sekar-jepun-spa-jimbaran-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9cc762c110",
+          "kkday": "https://www.kkday.com/en/product/132841-sekar-jepun-spa-experience-jimbaran-bali-indonesia?qs=Sekar+Jepun+Spa&cid=25072",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Zahra Spa",
+        "description": "A mid-range garden-like spa offering high-quality treatments surrounded by botanical aromas.",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcdc597388e",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "M Spa",
+        "description": "A popular spot among travelers, with high ratings on TripAdvisor.",
+        "href": "https://mspabali.com/",
+        "links": {
+          "klook": "",
+          "kkday": "",
+          "trip": ""
+        }
+      }
+    ]
+  },
+  "mid_sanur": {
+    "title": "Sanur",
+    "category": "中價位好評SPA",
+    "spas": [
+      {
+        "name": "The Nest Boutique Spa",
+        "description": "Winner of the 2022 Tripadvisor Travelers' Choice Award, highly praised by visitors.",
+        "href": "https://www.thenestboutiquespa.com/",
+        "links": {
+          "klook": "",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Byrd House Spa and Wellness",
+        "description": "Spa and wellness experience",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97393-spa-experience-byrd-spa-wellness-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db532f14425",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Balinese Massage & Floating Afternoon Tea in a 5-Star Villa",
+        "description": "",
+        "links": {
+          "klook": "",
+          "kkday": "https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=17351",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Sanur In-Home Massage Service",
+        "description": "",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dffa079b0ca",
+          "kkday": "",
+          "trip": ""
+        }
+      }
+    ]
+  },
+  "home_service": {
+    "title": "選擇你的區域",
+    "category": "到旅館/villa內按摩",
+    "spas": [
+      {
+        "name": "Around Kuta",
+        "description": "(Kuta, Legian, Seminyak, Kerobokan, Umalas and Berawa)",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=740979&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F5483-in-villa-massage-and-spa-packages-bali%2F%3Fspm%3DTNA_ActivityList.Activity_LIST%26clickId%3Dd3756bfa67",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Around Canggu",
+        "description": "(Canggu, Seminyak, and Sanur)",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=740979&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DTNA_ActivityList.Activity_LIST%26clickId%3D6de67d1cb6",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "In-Home Massage Service",
+        "description": "(Kuta, Legian, Seminyak, Jimbaran, Nusa Dua, Canggu, Uluwatu, Badung, and Mengwi)",
+        "links": {
+          "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32944-home-service-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dce3a661701",
+          "kkday": "",
+          "trip": ""
+        }
+      },
+      {
+        "name": "Around Ubud",
+        "description": "(Canggu, Kuta, Nusa Dua, Jimbaran, Ubud, Legian, Seminyak, Denpasar, Sanur, Gianyar)",
+        "links": {
+          "klook": "",
+          "kkday": "https://www.kkday.com/en-au/product/162572-bali-home-massage-indonesia?cid=17351",
+          "trip": ""
+        }
+      }
+    ]
+  }
+}
