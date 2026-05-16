@@ -10,9 +10,11 @@ const items = [
   { id: 'transport', icon: '🚗', url: '/blog/bali-transport-quiz/' },
   { id: 'map',       icon: '📍', url: '/map/' },
   { id: 'tickets',   icon: '🎟️', url: '/tickets/', publishedAt: '2026-05-15' },
+  { id: 'spa',       icon: '🧖', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', noLocalize: true },
 ] as const;
 
 type ItemId = typeof items[number]['id'];
+type Item = typeof items[number];
 
 const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { newBadge: string; navLabel: string }> = {
   'zh-tw': {
@@ -21,6 +23,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     transport: { full: '包車叫車', mobile: '包車' },
     map:       { full: '攻略地圖', mobile: '地圖' },
     tickets:   { full: '票券優惠', mobile: '票券' },
+    spa:       { full: 'SPA 推薦', mobile: 'SPA' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
@@ -30,6 +33,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     transport: { full: '包车叫车', mobile: '包车' },
     map:       { full: '攻略地图', mobile: '地图' },
     tickets:   { full: '票券优惠', mobile: '票券' },
+    spa:       { full: 'SPA 推荐', mobile: 'SPA' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
@@ -39,6 +43,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     transport: { full: '包車叫車', mobile: '包車' },
     map:       { full: '攻略地圖', mobile: '地圖' },
     tickets:   { full: '票券優惠', mobile: '票券' },
+    spa:       { full: 'SPA 推薦', mobile: 'SPA' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
@@ -48,6 +53,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     transport: { full: 'Transport',  mobile: 'Ride' },
     map:       { full: 'Map',        mobile: 'Map' },
     tickets:   { full: 'Tickets',    mobile: 'Tickets' },
+    spa:       { full: 'SPA',        mobile: 'SPA' },
     newBadge:  'NEW',
     navLabel:  'Main features',
   },
@@ -80,7 +86,7 @@ function isActive(url: string, l: string): boolean {
 
 <nav class="top-strip" aria-label={t.navLabel}>
   {items.map(item => {
-    const href = localizedUrl(item.url, normalizedLang);
+    const href = (item as any).noLocalize ? item.url : localizedUrl(item.url, normalizedLang);
     const active = isActive(item.url, normalizedLang);
     const showNew = isNew((item as any).publishedAt);
     return (
