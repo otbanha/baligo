@@ -167,6 +167,17 @@ export const maps: MapArea[] = [
     isThematic: true,
   },
   {
+    slug: "atm",
+    name: "ATM 提款機",
+    nameEn: "ATMs in Bali",
+    description: "峇里島 521 台 ATM 位置，含 BCA、Mandiri、BNI、BRI 等主要銀行，資料來源 OpenStreetMap",
+    center: [-8.6705, 115.2126],
+    zoom: 12,
+    kml: "/maps/atm.kml",
+    emoji: "🏧",
+    isThematic: true,
+  },
+  {
     slug: "canggu-hotel",
     name: "長谷住宿推薦",
     nameEn: "Best Hotels in Canggu",
