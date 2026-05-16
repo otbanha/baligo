@@ -1,0 +1,111 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
+import Footer from '../../components/Footer.astro';
+import BaliWeather from '../../components/BaliWeather.astro';
+
+const SITE_URL = 'https://gobaligo.id';
+const lang = 'zh-hk';
+const title = '峇里島天氣預報2026｜即時氣溫・7天預報・各地區天氣 - Gobaligo';
+const description = '峇里島即時天氣預報，涵蓋庫塔、烏布、努沙杜瓦三大區域。查詢今日氣溫、降雨機率、風速、UV指數，以及未來7天天氣預報，規劃行程最佳參考。';
+
+const hreflangs = [
+  { hreflang: 'zh-TW',     href: `${SITE_URL}/weather/` },
+  { hreflang: 'zh-CN',     href: `${SITE_URL}/zh-cn/weather/` },
+  { hreflang: 'zh-HK',     href: `${SITE_URL}/zh-hk/weather/` },
+  { hreflang: 'en',        href: `${SITE_URL}/en/weather/` },
+  { hreflang: 'x-default', href: `${SITE_URL}/weather/` },
+];
+
+const schema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "首頁", "item": `${SITE_URL}/zh-hk/` },
+        { "@type": "ListItem", "position": 2, "name": "峇里島天氣", "item": `${SITE_URL}/zh-hk/weather/` },
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": `${SITE_URL}/zh-hk/weather/`,
+      "name": title,
+      "description": description,
+      "url": `${SITE_URL}/zh-hk/weather/`,
+      "inLanguage": "zh-HK",
+    }
+  ]
+};
+---
+
+<html lang="zh-HK">
+  <head>
+    <BaseHead
+      title={title}
+      description={description}
+      noSuffix={true}
+      hreflangs={hreflangs}
+    />
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    <style>
+      .weather-page {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 1.5rem 1rem 3rem;
+      }
+      .weather-page h1 {
+        font-size: 1.5rem;
+        margin: 0 0 0.4rem;
+        color: #1a1a1a;
+      }
+      .weather-page .subtitle {
+        color: #666;
+        font-size: 0.92rem;
+        margin: 0 0 1.4rem;
+      }
+      .weather-tips {
+        margin-top: 1.6rem;
+        background: #f5f8ff;
+        border-radius: 12px;
+        padding: 1.1rem 1.3rem;
+      }
+      .weather-tips h2 {
+        font-size: 1rem;
+        margin: 0 0 0.7rem;
+        color: #1a6fad;
+      }
+      .weather-tips ul {
+        margin: 0;
+        padding-left: 1.2rem;
+        color: #444;
+        font-size: 0.88rem;
+        line-height: 1.8;
+      }
+      .weather-tips ul li { margin-bottom: 0.2rem; }
+    </style>
+  </head>
+  <body>
+    <Header basePath="/zh-hk" />
+    <TopStrip lang={lang} />
+    <main class="weather-page">
+      <h1>峇里島天氣預報</h1>
+      <p class="subtitle">即時氣溫・濕度・降雨・UV 指數・未來 7 天預報，資料來源 Open-Meteo，每 10 分鐘更新</p>
+
+      <BaliWeather lang={lang} />
+
+      <div class="weather-tips">
+        <h2>峇里島天氣小知識</h2>
+        <ul>
+          <li><strong>旱季（4–10 月）</strong>：氣溫 27–32°C，晴天為主，係旅遊旺季</li>
+          <li><strong>雨季（11–3 月）</strong>：下午常有短暫陣雨，早晚涼爽，仍可出遊</li>
+          <li><strong>庫塔 / 水明漾</strong>：海邊氣候，日曬強，UV 指數高，防曬必備</li>
+          <li><strong>烏布山區</strong>：海拔較高，氣溫比海邊低 2–4°C，早晚偏涼</li>
+          <li><strong>努沙杜瓦</strong>：南端，風浪較小，適合浮潛、水上活動</li>
+        </ul>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>
