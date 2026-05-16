@@ -1,5 +1,6 @@
 ---
 title: 【水明漾villa推薦】The Club Villas Seminyak：隱身水明漾美食街巷內的傳統泳池別墅、全家出遊高 CP 值首選
+slug: ''
 description: 想住進水明漾的心臟地帶？開箱 The Club Villas Seminyak。這座別墅緊鄰著名的 Eat Street，出門即是熱門餐廳，關門享有傳統峇里島風格的私人泳池空間。解析其適合家庭的 1-2 房型設計、極高隱私度與 2026 最新入住心得。帶您在繁華鬧區中，尋找最超值的南洋慢活秘境。
 pubDate: 2026-04-20
 pubHour: 16
@@ -132,6 +133,6 @@ The Club Villas Seminyak 是一個走傳統巴里島風格的私人 Villa 物業
 ## 📌 訂房資訊
 
 > 評分：Agoda 整體 8.2 ⭐ | 位置 9.1 | Tripadvisor 4.3/5（886則評價）
-> [👉 點此查看 Agoda 最新房價與空房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2971764)
+> 👉 點此查看最新房價與空房:[  Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2971764)｜[Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685527&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-NaxMLFJMEkNZuF49TDTdfYhBgNLH4LOh7-qhHTr1bt4Floy3V98bkGhwCeiCkHnk9jT7x4WmNadJqjQyEDCCTUOjQynj0DBDwVDl2MrGA1Mxivv9bcyFgtss794a1Ihx2MTCcYj7WGLmB6_8PqFAsLx6OVApdYfjNFVytlp1YqWZnoKJVkluSkKlkpPV0072nDnucrWpV0lFJSi5OBQkBWYm5-aV4JkG1obGxuYqpnYAAULEms8EwBa05OzEkuzUksSQ2pLAAaYqajlFnsXFKUWRCUmptZUpIKVJWWmFOcChIPSi0GyiSDBZX8gMYUQQUy8_Mg2g1RxMISc0pTIa4AWuiWCrXDsFYH0_HP5vQ-7Z75YtNuoh1vTm3HGxDjeOPa2EcsTNGxn1gYfgFj41KnVxMrQxcrC8eE_ayTgBQwqnaxsgV7RLobeF9gXXFuCaOUoqGBgYGRqamRua5BoqWFgYmZga6JpYmhiamuqaG5gaGFgcbup48aHxsbWUtB0oACo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNhczE3NHlygbLmZPlyDBkPvtHxTCLe2lQDxFGE-LOTTYxfC4t3mno4O0Q2D_7uJ300_z2kfC5JNYqzJ0Q8IzjosVMDYwMnUxcgswejBGMFYAeYyrGBk2MDLuYPwPA4yvGEGmAwCTitj3CQMAAA&masterhotelid_tracelogid=100025527-0a980460-494145-5170180&detailFilters=17|1~17~1*31|685527~31~685527*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=810&isCT=true&isFlexible=F&isFirstEnterDetail=T&locale=zh-TW&isRightClick=T&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17014118)
 
 {{block:smk}}
