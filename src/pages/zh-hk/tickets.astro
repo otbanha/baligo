@@ -1,6 +1,7 @@
 ---
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
 import Footer from '../../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import '../../styles/tickets.css';
@@ -64,6 +65,7 @@ const schema = {
 
 <body>
   <Header lang={lang} basePath="tickets" />
+  <TopStrip lang={lang ?? 'zh-hk'} />
 
   <!-- Hero -->
   <div class="tickets-hero">

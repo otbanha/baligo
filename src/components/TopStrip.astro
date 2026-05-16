@@ -1,0 +1,177 @@
+---
+interface Props {
+  lang?: string;
+}
+const { lang = 'zh-tw' } = Astro.props;
+
+const items = [
+  { id: 'trip',      icon: '🗺️', url: '/trip-planner/' },
+  { id: 'budget',    icon: '💰', url: '/bali-budget-calculator/' },
+  { id: 'transport', icon: '🚗', url: '/blog/bali-transport-quiz/' },
+  { id: 'map',       icon: '📍', url: '/map/' },
+  { id: 'tickets',   icon: '🎟️', url: '/tickets/', publishedAt: '2026-05-15' },
+] as const;
+
+type ItemId = typeof items[number]['id'];
+
+const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { newBadge: string; navLabel: string }> = {
+  'zh-tw': {
+    trip:      { full: '行程規劃', mobile: '行程' },
+    budget:    { full: '預算計算', mobile: '預算' },
+    transport: { full: '包車叫車', mobile: '包車' },
+    map:       { full: '攻略地圖', mobile: '地圖' },
+    tickets:   { full: '票券優惠', mobile: '票券' },
+    newBadge:  'NEW',
+    navLabel:  '主要功能',
+  },
+  'zh-cn': {
+    trip:      { full: '行程规划', mobile: '行程' },
+    budget:    { full: '预算计算', mobile: '预算' },
+    transport: { full: '包车叫车', mobile: '包车' },
+    map:       { full: '攻略地图', mobile: '地图' },
+    tickets:   { full: '票券优惠', mobile: '票券' },
+    newBadge:  'NEW',
+    navLabel:  '主要功能',
+  },
+  'zh-hk': {
+    trip:      { full: '行程規劃', mobile: '行程' },
+    budget:    { full: '預算計算', mobile: '預算' },
+    transport: { full: '包車叫車', mobile: '包車' },
+    map:       { full: '攻略地圖', mobile: '地圖' },
+    tickets:   { full: '票券優惠', mobile: '票券' },
+    newBadge:  'NEW',
+    navLabel:  '主要功能',
+  },
+  'en': {
+    trip:      { full: 'Itinerary',  mobile: 'Plan' },
+    budget:    { full: 'Budget',     mobile: 'Budget' },
+    transport: { full: 'Transport',  mobile: 'Ride' },
+    map:       { full: 'Map',        mobile: 'Map' },
+    tickets:   { full: 'Tickets',    mobile: 'Tickets' },
+    newBadge:  'NEW',
+    navLabel:  'Main features',
+  },
+};
+
+// Normalize lang key: 'blog' and unknown langs fall back to zh-tw
+const normalizedLang = (lang in i18n) ? lang : 'zh-tw';
+const t = i18n[normalizedLang];
+
+function localizedUrl(url: string, l: string): string {
+  if (l === 'zh-tw' || !(l in i18n)) return url;
+  return `/${l}${url}`;
+}
+
+function isNew(publishedAt?: string): boolean {
+  if (!publishedAt) return false;
+  const published = new Date(publishedAt);
+  const now = new Date();
+  const days = (now.getTime() - published.getTime()) / (1000 * 60 * 60 * 24);
+  return days >= 0 && days <= 30;
+}
+
+const pathname = Astro.url.pathname;
+
+function isActive(url: string, l: string): boolean {
+  const localized = localizedUrl(url, l);
+  return pathname === localized || pathname.startsWith(localized);
+}
+---
+
+<nav class="top-strip" aria-label={t.navLabel}>
+  {items.map(item => {
+    const href = localizedUrl(item.url, normalizedLang);
+    const active = isActive(item.url, normalizedLang);
+    const showNew = isNew((item as any).publishedAt);
+    return (
+      <a
+        href={href}
+        class={`strip-item${active ? ' active' : ''}`}
+        aria-current={active ? 'page' : undefined}
+      >
+        <span aria-hidden="true">{item.icon}</span>
+        <span class="strip-label-full">{(t as any)[item.id].full}</span>
+        <span class="strip-label-mobile">{(t as any)[item.id].mobile}</span>
+        {showNew && (
+          <span class="strip-badge">{t.newBadge}</span>
+        )}
+      </a>
+    );
+  })}
+</nav>
+
+<style>
+.top-strip {
+  display: flex;
+  align-items: stretch;
+  background: linear-gradient(90deg, #1e3a5f 0%, #2c5f7c 100%);
+  position: sticky;
+  top: 64px;
+  z-index: 40;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  /* Reserve layout space during load to prevent CLS */
+  min-height: 40px;
+}
+
+.top-strip::-webkit-scrollbar {
+  display: none;
+}
+
+.strip-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 11px 16px;
+  font-size: 14px;
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  white-space: nowrap;
+  position: relative;
+  transition: background 0.15s, color 0.15s;
+  border-bottom: 2px solid transparent;
+  flex-shrink: 0;
+}
+
+.strip-item:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+}
+
+.strip-item.active {
+  color: #fff;
+  font-weight: 500;
+  border-bottom-color: #f5b942;
+}
+
+.strip-badge {
+  background: #f5b942;
+  color: #0f2a44;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 1px 5px;
+  border-radius: 8px;
+  line-height: 1.4;
+  letter-spacing: 0.02em;
+}
+
+.strip-label-mobile {
+  display: none;
+}
+
+@media (max-width: 640px) {
+  .strip-item {
+    padding: 10px 12px;
+    font-size: 13px;
+  }
+
+  .strip-label-full {
+    display: none;
+  }
+
+  .strip-label-mobile {
+    display: inline;
+  }
+}
+</style>

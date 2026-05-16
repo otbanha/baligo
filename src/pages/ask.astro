@@ -1,6 +1,7 @@
 ---
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
+import TopStrip from '../components/TopStrip.astro';
 import Footer from '../components/Footer.astro';
 import { getCollection, render } from 'astro:content';
 import { SITE_URL } from '../consts';
@@ -54,6 +55,7 @@ const faqSchema = {
 
 <body>
   <Header lang={lang} basePath={basePath} />
+  <TopStrip lang={lang ?? 'zh-tw'} />
 
   <main>
 

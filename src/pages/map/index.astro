@@ -1,6 +1,7 @@
 ---
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
 import Footer from '../../components/Footer.astro';
 import { areaMaps, thematicMaps } from '../../data/maps';
 
@@ -152,6 +153,7 @@ const lang = 'zh-tw';
 
 <body>
   <Header lang={lang} slug="map" hideLangSwitcher={true} />
+  <TopStrip lang={lang ?? 'zh-tw'} />
 
   <div class="page-hero">
     <img src="https://images.gobaligo.id/images/2026-05/1777980867427-maps2.png" alt="峇里島旅遊地圖 — 探索峇里島的每一個角落" width="1512" height="630" />

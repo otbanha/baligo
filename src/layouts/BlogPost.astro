@@ -5,6 +5,7 @@ import SEO from '../components/SEO.astro';
 import Footer from '../components/Footer.astro';
 import FormattedDate from '../components/FormattedDate.astro';
 import Header from '../components/Header.astro';
+import TopStrip from '../components/TopStrip.astro';
 import ChatBot from '../components/ChatBot.astro';
 import TripPlannerBanner from '../components/TripPlannerBanner.astro';
 import { getCollection } from 'astro:content';
@@ -210,6 +211,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
 
 <body>
   <Header lang={lang ?? 'blog'} slug={slug} />
+  <TopStrip lang={lang ?? 'zh-tw'} />
   <div class="layout">
 
     <aside class="sidebar" data-pagefind-ignore>
