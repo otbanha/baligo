@@ -1,0 +1,397 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Bali Transportation Quiz</title>
+<style>
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif; background: #fff; color: #1a1a1a; }
+.quiz-wrap { padding: 1.5rem 1rem; max-width: 600px; margin: 0 auto; }
+.progress-bar { height: 3px; background: #e5e5e5; border-radius: 2px; margin-bottom: 1.75rem; }
+.progress-fill { height: 100%; border-radius: 2px; background: #1D9E75; transition: width 0.4s ease; }
+.step { display: none; animation: fadeIn 0.25s ease; }
+.step.active { display: block; }
+@keyframes fadeIn { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: translateY(0); } }
+.q-label { font-size: 11px; color: #888; letter-spacing: 0.08em; text-transform: uppercase; margin-bottom: 0.4rem; }
+.q-text { font-size: 18px; font-weight: 500; line-height: 1.4; margin-bottom: 0.4rem; }
+.q-hint { font-size: 12px; color: #888; margin-bottom: 1rem; }
+.options { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; }
+.options.single-col { grid-template-columns: 1fr; }
+.opt-btn {
+  background: #fff;
+  border: 1.5px solid #ddd;
+  border-radius: 12px;
+  padding: 12px 14px;
+  text-align: left;
+  cursor: pointer;
+  font-size: 13px;
+  color: #1a1a1a;
+  transition: all 0.15s;
+  line-height: 1.4;
+  font-weight: 400;
+  font-family: inherit;
+}
+.opt-btn:hover { border-color: #0F6E56; background: #E1F5EE; }
+.opt-btn[data-selected="green"] { border-color: #0F6E56 !important; background: #9FE1CB !important; color: #04342C !important; font-weight: 500 !important; }
+.opt-btn[data-selected="blue"]  { border-color: #185FA5 !important; background: #B5D4F4 !important; color: #042C53 !important; font-weight: 500 !important; }
+.opt-btn[data-selected="amber"] { border-color: #854F0B !important; background: #FAC775 !important; color: #412402 !important; font-weight: 500 !important; }
+.nav-row { display: flex; justify-content: space-between; align-items: center; margin-top: 1.25rem; }
+.btn-back { background: transparent; border: 0.5px solid #ddd; border-radius: 8px; padding: 8px 16px; cursor: pointer; font-size: 13px; color: #888; font-family: inherit; }
+.btn-back:hover { background: #f5f5f5; }
+.btn-next { background: #1D9E75; border: none; border-radius: 8px; padding: 8px 20px; cursor: pointer; font-size: 13px; color: #fff; font-weight: 500; opacity: 0.35; pointer-events: none; transition: opacity 0.2s; font-family: inherit; }
+.btn-next.ready { opacity: 1; pointer-events: auto; }
+.result-card { background: #fff; border: 0.5px solid #ddd; border-radius: 12px; padding: 1.25rem; margin-bottom: 0.75rem; }
+.result-hero { display: flex; align-items: center; gap: 14px; margin-bottom: 0.75rem; }
+.result-icon { width: 48px; height: 48px; border-radius: 50%; display: flex; align-items: center; justify-content: center; font-size: 22px; flex-shrink: 0; }
+.ri-charter { background: #E1F5EE; }
+.ri-app { background: #E6F1FB; }
+.ri-moto { background: #FAEEDA; }
+.result-title { font-size: 20px; font-weight: 500; }
+.result-sub { font-size: 13px; color: #888; }
+.result-desc { font-size: 14px; line-height: 1.7; margin-bottom: 0.75rem; }
+.reason-section-label { font-size: 11px; color: #888; margin-bottom: 5px; font-weight: 500; letter-spacing: 0.05em; text-transform: uppercase; }
+.reason-list { display: flex; flex-direction: column; gap: 5px; margin-bottom: 0.75rem; }
+.reason-item { display: flex; align-items: flex-start; gap: 8px; font-size: 13px; line-height: 1.5; }
+.rdot { width: 5px; height: 5px; border-radius: 50%; background: #1D9E75; margin-top: 7px; flex-shrink: 0; }
+.tip-box { background: #f5f5f5; border-radius: 8px; padding: 10px 14px; font-size: 13px; color: #555; line-height: 1.6; margin-bottom: 0.75rem; }
+.tip-box strong { color: #1a1a1a; font-weight: 500; }
+.score-section-label { font-size: 11px; color: #888; margin-bottom: 6px; font-weight: 500; letter-spacing: 0.05em; text-transform: uppercase; }
+.score-row { display: flex; align-items: center; gap: 10px; margin-bottom: 5px; font-size: 12px; }
+.score-label { width: 72px; color: #888; }
+.score-track { flex: 1; height: 6px; background: #e5e5e5; border-radius: 3px; overflow: hidden; }
+.score-fill { height: 100%; border-radius: 3px; transition: width 0.6s ease 0.15s; }
+.fc { background: #1D9E75; }
+.fa { background: #378ADD; }
+.fm { background: #EF9F27; }
+.score-num { width: 28px; text-align: right; font-weight: 500; font-size: 12px; }
+.link-btn { display: block; width: 100%; border: 0.5px solid #ddd; border-radius: 8px; padding: 10px 16px; text-align: center; cursor: pointer; font-size: 13px; color: #555; background: transparent; margin-bottom: 0.5rem; font-family: inherit; text-decoration: none; }
+.link-btn:hover { background: #f5f5f5; }
+.restart-btn { display: block; width: 100%; border: none; background: transparent; padding: 8px; text-align: center; cursor: pointer; font-size: 12px; color: #aaa; font-family: inherit; }
+.restart-btn:hover { color: #555; }
+.multi-counter { font-size: 11px; color: #888; margin-top: 8px; text-align: right; }
+@media (max-width: 400px) {
+  .options { grid-template-columns: 1fr; }
+  .q-text { font-size: 16px; }
+}
+</style>
+</head>
+<body>
+
+<div class="quiz-wrap">
+  <div class="progress-bar"><div class="progress-fill" id="prog" style="width:0%"></div></div>
+  <div id="quiz-area"></div>
+</div>
+
+<script>
+/*
+ * 計分邏輯 v2 — 整合 17 條判斷規則
+ * --------------------------------
+ * 規則對應：
+ * - 跨區長途 / 多景點 / 換住宿 / 打卡景點 → Q2「行程強度」涵蓋
+ * - 鬧區移動 / 短途來回 → Q2 鬧區單點選項
+ * - 兩三人以上 / 帶小孩 / 拍大合照 → Q1 + Q3「帶小孩」選項（家庭已選則隱藏避免重複）
+ * - 抵達需換匯辦SIM、女生獨旅、雨季、郊區、需講解、行李多 → Q3 多選情境
+ * - 不想等車/貴賓禮遇/想交朋友 → 結果頁 desc 文案，非計分題
+ *
+ * 平衡原則：Q1/Q2 ±2~4 為主軸，Q3 多選每項 ±1.5 最多 4 項
+ */
+
+const STEPS = [
+  {
+    id: 'group_size',
+    text: 'How many people on this Bali trip?',
+    cols: 1,
+    options: [
+      { label: 'Solo', color: 'amber', score: { charter: 0, app: 1, moto: 2 } },
+      { label: 'Two / Couple', color: 'blue',  score: { charter: 2, app: 2, moto: -1 } },
+      { label: '3+ people / Family (with kids)', color: 'green', score: { charter: 4, app: 0, moto: -4 } },
+    ]
+  },
+  {
+    id: 'itinerary',
+    text: "What's your itinerary like today?",
+    cols: 1,
+    options: [
+      { label: 'Long-distance trip (Kuta→Ubud, Tanah Lot, etc.)', color: 'green', score: { charter: 4, app: -2, moto: -3 } },
+      { label: 'Visiting 2–3+ attractions in one day', color: 'green', score: { charter: 3, app: -1, moto: -2 } },
+      { label: 'Popular photo spots (expect long queues)', color: 'green', score: { charter: 2.5, app: -0.5, moto: -1 } },
+      { label: 'Short trips in town, one destination', color: 'blue', score: { charter: -1, app: 2, moto: 2 } },
+      { label: 'No fixed plan, going with the flow', color: 'amber', score: { charter: 1, app: 1, moto: 0 } },
+    ]
+  },
+  {
+    id: 'situation',
+    text: 'Any other factors?',
+    hint: 'Pick up to 4, or skip if none apply',
+    multi: true,
+    maxSelect: 4,
+    optional: true,
+    cols: 2,
+    options: [
+      { label: 'Just arrived — need to exchange money, get SIM, go to a supermarket', color: 'green', score: { charter: 2, app: 0, moto: -1 } },
+      { label: 'Heavy luggage / changing hotels / catching a flight', color: 'green', score: { charter: 2, app: -0.5, moto: -3 } },
+      { label: 'Rainy season / unstable weather', color: 'amber', score: { charter: 1.5, app: 0, moto: -2.5 } },
+      { label: 'Staying in a suburb or remote area', color: 'green', score: { charter: 2, app: -1, moto: -1.5 } },
+      { label: 'Need someone to take photos / give explanations', color: 'green', score: { charter: 1.5, app: 0, moto: -2 } },
+      // 「帶小孩」只在非家庭出遊時出現（家庭已 +4，不重複加分）
+      { label: 'Traveling with kids, need extra help', color: 'green', score: { charter: 1.5, app: 0, moto: -3 },
+        showIf: function(a) { return a.group_size !== 2; } },
+      { label: 'Solo female traveler, safety first', color: 'green', score: { charter: 2, app: 0, moto: -1.5 },
+        showIf: function(a) { return a.group_size === 0; } },
+      { label: 'On a tight budget', color: 'amber', score: { charter: -1, app: 0.5, moto: 1.5 } },
+      { label: 'Want to experience riding like a local', color: 'amber', score: { charter: -1, app: 0, moto: 2 },
+        showIf: function(a) { return a.group_size !== 2; } },
+    ]
+  },
+];
+
+var current = 0;
+var answers = {};
+var visibleSteps = [];
+
+function buildVisibleSteps() {
+  visibleSteps = STEPS.filter(function(s){ return !s.showIf || s.showIf(answers); });
+}
+
+function getVisibleOptions(q) {
+  return q.options.map(function(o, i){ return { o: o, i: i }; })
+    .filter(function(x){ return !x.o.showIf || x.o.showIf(answers); });
+}
+
+function render() {
+  buildVisibleSteps();
+  var area = document.getElementById('quiz-area');
+  if (current >= visibleSteps.length) { showResult(); return; }
+  var q = visibleSteps[current];
+  var total = visibleSteps.length;
+  document.getElementById('prog').style.width = Math.round(((current + 1) / (total + 1)) * 100) + '%';
+
+  var optClass = 'options' + (q.cols === 1 ? ' single-col' : '');
+  var prev = answers[q.id];
+  var visOpts = getVisibleOptions(q);
+
+  var opts = visOpts.map(function(x) {
+    var o = x.o;
+    var origIdx = x.i;
+    var isSelected = Array.isArray(prev) ? prev.indexOf(origIdx) !== -1 : prev === origIdx;
+    var selAttr = isSelected ? 'data-selected="' + o.color + '"' : '';
+    return '<button class="opt-btn" data-idx="' + origIdx + '" data-color="' + o.color + '" ' + selAttr + ' onclick="selectOpt(this,' + origIdx + ')">' + o.label + '</button>';
+  }).join('');
+
+  var hasAnswer = prev !== undefined && (!Array.isArray(prev) || prev.length > 0);
+  var canProceed = hasAnswer || q.optional;
+  var isLast = current === total - 1;
+
+  var counterHtml = '';
+  if (q.multi && q.maxSelect) {
+    var selCount = Array.isArray(prev) ? prev.length : 0;
+    counterHtml = '<div class="multi-counter">Selected ' + selCount + ' / ' + q.maxSelect + (q.optional ? ' (optional)' : '') + '</div>';
+  }
+
+  area.innerHTML = '<div class="step active">'
+    + '<div class="q-label">Step ' + (current + 1) + ' / ' + total + '</div>'
+    + '<div class="q-text">' + q.text + '</div>'
+    + (q.hint ? '<div class="q-hint">' + q.hint + '</div>' : '')
+    + '<div class="' + optClass + '">' + opts + '</div>'
+    + counterHtml
+    + '<div class="nav-row">'
+    + (current > 0 ? '<button class="btn-back" onclick="goBack()">← Back</button>' : '<span></span>')
+    + '<button class="btn-next ' + (canProceed ? 'ready' : '') + '" id="btn-next" onclick="goNext()">' + (isLast ? 'See Results →' : 'Next →') + '</button>'
+    + '</div></div>';
+}
+
+function selectOpt(btn, idx) {
+  var q = visibleSteps[current];
+  var color = btn.getAttribute('data-color');
+  if (q.multi) {
+    var isSelected = btn.hasAttribute('data-selected');
+    if (isSelected) {
+      btn.removeAttribute('data-selected');
+    } else {
+      var currentSel = Array.from(document.querySelectorAll('.opt-btn[data-selected]'));
+      if (q.maxSelect && currentSel.length >= q.maxSelect) {
+        btn.style.transform = 'translateX(2px)';
+        setTimeout(function(){ btn.style.transform = ''; }, 100);
+        return;
+      }
+      btn.setAttribute('data-selected', color);
+    }
+    var sel = Array.from(document.querySelectorAll('.opt-btn[data-selected]')).map(function(b){ return +b.getAttribute('data-idx'); });
+    answers[q.id] = sel;
+    if (q.maxSelect) {
+      var counter = document.querySelector('.multi-counter');
+      if (counter) counter.innerHTML = 'Selected ' + sel.length + ' / ' + q.maxSelect + (q.optional ? ' (optional)' : '');
+    }
+    document.getElementById('btn-next').classList.add('ready');
+  } else {
+    document.querySelectorAll('.opt-btn').forEach(function(b){ b.removeAttribute('data-selected'); });
+    btn.setAttribute('data-selected', color);
+    answers[q.id] = idx;
+    document.getElementById('btn-next').classList.add('ready');
+  }
+}
+
+function goNext() {
+  var q = visibleSteps[current];
+  var ans = answers[q.id];
+  if (!q.optional) {
+    if (ans === undefined || (Array.isArray(ans) && ans.length === 0)) return;
+  }
+  if (q.id === 'group_size') {
+    delete answers.situation;
+  }
+  current++;
+  render();
+}
+
+function goBack() { current--; render(); }
+
+function calcScores() {
+  var s = { charter: 0, app: 0, moto: 0 };
+  visibleSteps.forEach(function(q) {
+    var ans = answers[q.id];
+    if (ans === undefined) return;
+    (Array.isArray(ans) ? ans : [ans]).forEach(function(i) {
+      var sc = q.options[i] && q.options[i].score;
+      if (!sc) return;
+      s.charter += sc.charter || 0;
+      s.app     += sc.app     || 0;
+      s.moto    += sc.moto    || 0;
+    });
+  });
+  return s;
+}
+
+var results = {
+  charter: {
+    icon: '🚗', cls: 'ri-charter', title: 'Private Charter', sub: 'Safest & most cost-effective',
+    desc: 'Based on your situation, a private charter is the best fit. Over a full day it often costs less than multiple ride-hail trips — your driver stays with you the entire time, no waiting for rides back, no worrying about getting stranded, and you get a local guide experience all in one.',
+    tip: '<strong>Tip:</strong> Discuss the itinerary with your driver beforehand. You generally don\'t need to cover their meal — feel free to invite them to eat local food with you for a more authentic experience.',
+    link: 'https://gobaligo.id/en/blog/2024-01-12-65a0a163fd8978000115f37a/',
+  },
+  app: {
+    icon: '📱', cls: 'ri-app', title: 'Ride-Hailing Car', sub: 'Grab / Gojek Car',
+    desc: 'For a simple itinerary or short trips around town, a ride-hailing car is the most flexible option — transparent pricing, on-demand, no advance booking needed.',
+    tip: '<strong>Tip:</strong> Enter your destination in English for better accuracy. At popular spots you may need to walk to the roadside to get picked up.',
+    link: 'https://gobaligo.id/en/blog/2024-10-13-670b5191fd8978000185cf37/',
+  },
+  moto: {
+    icon: '🛵', cls: 'ri-moto', title: 'Ride-Hailing Bike', sub: 'Grab / Gojek Bike',
+    desc: 'Traveling light and sticking to short rides around town? A bike is the fastest and cheapest option — fares are usually half the price of a car, and bikes can weave through traffic with ease.',
+    tip: '<strong>Tip:</strong> Check the driver\'s rating and license plate before hopping on. Switch to a car if it\'s raining or the distance is longer.',
+    link: 'https://gobaligo.id/en/blog/2024-05-03-6634d110fd897800012a9d6b/',
+  }
+};
+
+function getReasons(winner) {
+  var sit = answers.situation || [];
+  var size = answers.group_size; // 0 solo / 1 pair / 2 group
+  var iti = answers.itinerary;   // 0 cross / 1 multi / 2 hotspot / 3 local / 4 free
+  var r = [];
+
+  if (winner === 'charter') {
+    if (size === 2) r.push('Splitting the cost among a group makes it more affordable than you\'d expect');
+    if (size === 1) r.push('For two people, a charter is more comfortable than ride-hailing');
+    if (size === 0) r.push('Solo traveler — having a driver with you all day adds peace of mind');
+    if (iti === 0) r.push('Long-distance trip — fixed fare, no meter running');
+    if (iti === 1) r.push('Multiple attractions in one day — no need to re-hail a car each time');
+    if (iti === 2) r.push('Popular spots require queuing — charter means no stress finding a ride back');
+    if (sit.indexOf(0) !== -1) r.push('Just arrived — exchange money, get SIM, and hit the supermarket all in one go');
+    if (sit.indexOf(1) !== -1) r.push('Heavy luggage / hotel change — plenty of space in a charter');
+    if (sit.indexOf(2) !== -1) r.push('Rainy season — air-conditioned car keeps you dry');
+    if (sit.indexOf(3) !== -1) r.push('Remote area — fewer ride-hail cars available, charter is more reliable');
+    if (sit.indexOf(4) !== -1) r.push('Need photos taken / local tips — drivers are happy to help');
+    if (sit.indexOf(5) !== -1) r.push('Kids in tow — extra adult supervision makes everything easier');
+    if (sit.indexOf(6) !== -1) r.push('Solo female traveler — charter is safer than an unknown ride-hail driver');
+  } else if (winner === 'app') {
+    if (iti === 3) r.push('Short trips around town — ride-hailing beats a full-day charter on cost');
+    if (iti === 4) r.push('No fixed plan — ride-hailing gives you maximum flexibility');
+    if (size === 2 && iti === 3) r.push('Family in town for short errands — cheaper than a full-day charter');
+    if (size === 1 && iti !== 3) r.push('Two people — a ride-hailing car is just right');
+    if (size === 1 && iti === 3) r.push('Two people in town — on-demand ride-hailing is the easiest option');
+    if (size === 0) r.push('Solo traveler — a car is more comfortable than a bike');
+    if (sit.indexOf(7) !== -1) r.push('Budget-conscious — saves you the cost of a full-day charter');
+    if (r.length === 0) r.push('Simple itinerary — ride-hailing is the most flexible choice');
+  } else { // moto
+    if (size === 0) r.push('Traveling light and solo — bike is the easiest option');
+    if (iti === 3) r.push('Short town trip — bikes cut through traffic faster');
+    if (sit.indexOf(7) !== -1) r.push('Tight budget — bike fares are about half the price of a car');
+    if (sit.indexOf(8) !== -1) r.push('Want the local riding experience — this is everyday Bali life');
+    if (r.length === 0) r.push('Light and short trip — bike is the fastest and cheapest');
+  }
+  return r.slice(0, 5);
+}
+
+function showResult() {
+  document.getElementById('prog').style.width = '100%';
+  var scores = calcScores();
+
+  var winner;
+  var maxScore = Math.max(scores.charter, scores.app, scores.moto);
+
+  // 硬規則：鬧區短途、單點來回 → 永遠推叫車（不管幾人、不管其他狀況）
+  // 在 app 和 moto 之間用分數決定
+  if (answers.itinerary === 3) {
+    winner = scores.app >= scores.moto ? 'app' : 'moto';
+  } else if (scores.charter === maxScore && scores.charter > 0) {
+    winner = 'charter';
+  } else if (scores.app === maxScore) {
+    winner = 'app';
+  } else if (scores.moto === maxScore) {
+    winner = 'moto';
+  } else {
+    winner = 'charter';
+  }
+
+  var r = results[winner];
+  var reasons = getReasons(winner);
+
+  var minScore = Math.min(scores.charter, scores.app, scores.moto, 0);
+  var shifted = {
+    charter: scores.charter - minScore,
+    app: scores.app - minScore,
+    moto: scores.moto - minScore,
+  };
+  var maxShifted = Math.max(shifted.charter, shifted.app, shifted.moto, 1);
+  var bars = {
+    charter: Math.round(shifted.charter / maxShifted * 100),
+    app:     Math.round(shifted.app     / maxShifted * 100),
+    moto:    Math.round(shifted.moto    / maxShifted * 100),
+  };
+
+  var reasonHtml = reasons.map(function(rs){ return '<div class="reason-item"><div class="rdot"></div><span>' + rs + '</span></div>'; }).join('');
+
+  document.getElementById('quiz-area').innerHTML = '<div class="step active">'
+    + '<div class="result-card">'
+    + '<div class="result-hero"><div class="result-icon ' + r.cls + '">' + r.icon + '</div>'
+    + '<div><div class="result-title">Recommendation: ' + r.title + '</div><div class="result-sub">' + r.sub + '</div></div></div>'
+    + '<p class="result-desc">' + r.desc + '</p>'
+    + (reasons.length ? '<div class="reason-section-label">Why this suits you</div><div class="reason-list">' + reasonHtml + '</div>' : '')
+    + '<div class="tip-box">' + r.tip + '</div>'
+    + '<div class="score-section-label">How each option fits</div>'
+    + '<div class="score-row"><span class="score-label">Charter</span><div class="score-track"><div class="score-fill fc" id="b1" style="width:0%"></div></div><span class="score-num">' + bars.charter + '%</span></div>'
+    + '<div class="score-row"><span class="score-label">App Car</span><div class="score-track"><div class="score-fill fa" id="b2" style="width:0%"></div></div><span class="score-num">' + bars.app + '%</span></div>'
+    + '<div class="score-row"><span class="score-label">App Bike</span><div class="score-track"><div class="score-fill fm" id="b3" style="width:0%"></div></div><span class="score-num">' + bars.moto + '%</span></div>'
+    + '</div>'
+    + '<a class="link-btn" href="' + r.link + '" target="_blank" rel="noopener">Read the full transport guide →</a>'
+    + '<button class="restart-btn" onclick="restart()">Retake Quiz</button>'
+    + '</div>';
+
+  setTimeout(function() {
+    var b1 = document.getElementById('b1');
+    var b2 = document.getElementById('b2');
+    var b3 = document.getElementById('b3');
+    if (b1) b1.style.width = bars.charter + '%';
+    if (b2) b2.style.width = bars.app + '%';
+    if (b3) b3.style.width = bars.moto + '%';
+  }, 100);
+}
+
+function restart() { current = 0; answers = {}; render(); }
+
+render();
+</script>
+
+</body>
+</html>
