@@ -5,12 +5,14 @@ interface Props {
 const { lang = 'zh-tw' } = Astro.props;
 
 const items = [
+  { id: 'live',      icon: '🎥', url: '/weather/' },
   { id: 'trip',      icon: '🗺️', url: '/trip-planner/' },
   { id: 'budget',    icon: '💰', url: '/bali-budget-calculator/' },
   { id: 'transport', icon: '🚗', url: '/blog/bali-transport-quiz/' },
   { id: 'map',       icon: '📍', url: '/map/' },
   { id: 'spa',       icon: '🧖', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', noLocalize: true },
   { id: 'tickets',   icon: '🎟️', url: '/tickets/', publishedAt: '2026-05-15' },
+  { id: 'driver',    icon: '🚕', url: '/blog/2024-07-07-668aaea7fd89780001981840/', noLocalize: true },
 ] as const;
 
 type ItemId = typeof items[number]['id'];
@@ -18,42 +20,50 @@ type Item = typeof items[number];
 
 const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { newBadge: string; navLabel: string }> = {
   'zh-tw': {
+    live:      { full: 'Bali Live', mobile: 'Live' },
     trip:      { full: '行程規劃', mobile: '行程' },
     budget:    { full: '預算計算', mobile: '預算' },
     transport: { full: '包車叫車', mobile: '包車' },
     map:       { full: '攻略地圖', mobile: '地圖' },
     tickets:   { full: '票券優惠', mobile: '票券' },
     spa:       { full: 'SPA 推薦', mobile: 'SPA' },
+    driver:    { full: '司機推薦', mobile: '司機' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
   'zh-cn': {
+    live:      { full: 'Bali Live', mobile: 'Live' },
     trip:      { full: '行程规划', mobile: '行程' },
     budget:    { full: '预算计算', mobile: '预算' },
     transport: { full: '包车叫车', mobile: '包车' },
     map:       { full: '攻略地图', mobile: '地图' },
     tickets:   { full: '票券优惠', mobile: '票券' },
     spa:       { full: 'SPA 推荐', mobile: 'SPA' },
+    driver:    { full: '司机推荐', mobile: '司机' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
   'zh-hk': {
+    live:      { full: 'Bali Live', mobile: 'Live' },
     trip:      { full: '行程規劃', mobile: '行程' },
     budget:    { full: '預算計算', mobile: '預算' },
     transport: { full: '包車叫車', mobile: '包車' },
     map:       { full: '攻略地圖', mobile: '地圖' },
     tickets:   { full: '票券優惠', mobile: '票券' },
     spa:       { full: 'SPA 推薦', mobile: 'SPA' },
+    driver:    { full: '司機推薦', mobile: '司機' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
   'en': {
+    live:      { full: 'Bali Live', mobile: 'Live' },
     trip:      { full: 'Itinerary',  mobile: 'Plan' },
     budget:    { full: 'Budget',     mobile: 'Budget' },
     transport: { full: 'Transport',  mobile: 'Ride' },
     map:       { full: 'Map',        mobile: 'Map' },
     tickets:   { full: 'Tickets',    mobile: 'Tickets' },
     spa:       { full: 'SPA',        mobile: 'SPA' },
+    driver:    { full: 'Driver Rec', mobile: 'Driver' },
     newBadge:  'NEW',
     navLabel:  'Main features',
   },
