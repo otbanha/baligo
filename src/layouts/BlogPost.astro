@@ -525,7 +525,7 @@ window.addEventListener('load', () => {
       e.preventDefault();
       var name    = nameEl.value.trim();
       var content = bodyEl.value.trim();
-      if (!name || !content) { setMsg('請填寫姓名和留言', 'err'); return; }
+      if (name.length < 2 || content.length < 5) { setMsg('請填寫至少 2 字的姓名與 5 字的留言內容', 'err'); return; }
 
       submitEl.disabled = true;
       setMsg('', '');

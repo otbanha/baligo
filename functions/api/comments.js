@@ -73,8 +73,8 @@ export async function onRequest({ request, env }) {
     catch { return json({ error: 'Invalid JSON' }, 400); }
 
     const { slug: s, name, content } = body;
-    if (!s || !name?.trim() || !content?.trim()) {
-      return json({ error: '請填寫姓名和留言內容' }, 400);
+    if (!s || (name?.trim().length < 2) || (content?.trim().length < 5)) {
+      return json({ error: '請填寫至少 2 字的姓名與 5 字的留言內容' }, 400);
     }
     if (name.length > 50)    return json({ error: '姓名過長（最多 50 字）' }, 400);
     if (content.length > 1000) return json({ error: '留言過長（最多 1000 字）' }, 400);
