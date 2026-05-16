@@ -84,6 +84,19 @@ const schema = {
         line-height: 1.8;
       }
       .weather-tips ul li { margin-bottom: 0.2rem; }
+      .related-articles { margin-top: 1.6rem; }
+      .related-banner { display: block; width: 100%; border-radius: 12px; overflow: hidden; margin-bottom: 0.8rem; text-decoration: none; }
+      .related-banner img { width: 100%; height: auto; display: block; border-radius: 12px; }
+      .article-links { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem; }
+      .article-links li a { display: block; background: #f0f6ff; border: 1px solid #c8ddf8; border-left: 4px solid #1a6fad; border-radius: 8px; padding: 0.65rem 1rem; color: #1a3a6d; font-size: 0.9rem; font-weight: 600; line-height: 1.4; text-decoration: none; transition: background 0.15s, border-color 0.15s; }
+      .article-links li a:hover { background: #ddeeff; border-left-color: #c5a059; color: #0f2a55; }
+      .live-cams { margin-top: 1.6rem; }
+      .live-cams h2 { font-size: 1rem; margin: 0 0 0.8rem; color: #1a6fad; }
+      .cams-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem; }
+      .cam-label { font-size: 0.82rem; color: #555; margin: 0 0 0.3rem; font-weight: 600; }
+      .cam-wrap { position: relative; padding-bottom: 56.25%; height: 0; border-radius: 10px; overflow: hidden; background: #000; }
+      .cam-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
+      @media (max-width: 520px) { .cams-grid { grid-template-columns: 1fr; } }
     </style>
   </head>
   <body>
@@ -94,6 +107,51 @@ const schema = {
       <p class="subtitle">即時氣溫・濕度・降雨・UV 指數・未來 7 天預報，資料來源 Open-Meteo，每 10 分鐘更新</p>
 
       <BaliWeather lang={lang} />
+
+      <div class="live-cams">
+        <h2>峇里島即時攝影機</h2>
+        <div class="cams-grid">
+          <div>
+            <p class="cam-label">峇里島南部</p>
+            <div class="cam-wrap">
+              <iframe
+                src="https://www.youtube.com/embed/L1duJDAqbJY?autoplay=1&mute=1"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                loading="lazy"
+              ></iframe>
+            </div>
+          </div>
+          <div>
+            <p class="cam-label">烏布</p>
+            <div class="cam-wrap">
+              <iframe
+                src="https://www.youtube.com/embed/xuSvwBMhysw?autoplay=1&mute=1"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                loading="lazy"
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="related-articles">
+        <a href="/zh-hk/blog/2025-04-02-67ecc962fd89780001212629/" class="related-banner">
+          <img
+            src="https://images.gobaligo.id/images/2026-05/1778906557521-1-12.png"
+            alt="峇里島1-12月適合旅遊指數大解析"
+            loading="lazy"
+          />
+        </a>
+        <ul class="article-links">
+          <li><a href="/zh-hk/blog/2024-03-15-65f39bd0fd897800012287e9/">為咩唔好再問峇里島嘅天氣？落雨又點？</a></li>
+          <li><a href="/zh-hk/blog/2023-12-06-657078edfd89780001f2d88d/">峇里島最佳旅遊時間？旱季、雨季深入了解／優缺點解析</a></li>
+          <li><a href="/zh-hk/blog/2024-10-16-670fc5b2fd89780001cea7ee/">峇里島雨季降雨分析 - 南部地區嘅雨季體驗</a></li>
+          <li><a href="/zh-hk/blog/2025-04-02-67ecc962fd89780001212629/">峇里島雨季月份／降雨機率／降雨天數／平均氣溫／適合旅遊指數…大解析</a></li>
+          <li><a href="/zh-hk/blog/2024-01-06-6598c6fffd89780001047d76/">峇里島雨季：旅遊峇里島遇到落雨點算？峇里島落雨天嘅60個備案攻略</a></li>
+        </ul>
+      </div>
 
       <div class="weather-tips">
         <h2>峇里島天氣小知識</h2>
