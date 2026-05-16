@@ -100,7 +100,7 @@ function isActive(url: string, l: string): boolean {
   })}
 </nav>
 
-<style>
+<style is:global>
 .top-strip {
   display: flex;
   align-items: stretch;
@@ -111,7 +111,6 @@ function isActive(url: string, l: string): boolean {
   overflow-x: auto;
   scrollbar-width: none;
   -ms-overflow-style: none;
-  /* Reserve layout space during load to prevent CLS */
   min-height: 40px;
 }
 
@@ -119,7 +118,7 @@ function isActive(url: string, l: string): boolean {
   display: none;
 }
 
-.strip-item {
+.top-strip .strip-item {
   display: flex;
   align-items: center;
   gap: 5px;
@@ -134,18 +133,18 @@ function isActive(url: string, l: string): boolean {
   flex-shrink: 0;
 }
 
-.strip-item:hover {
+.top-strip .strip-item:hover {
   background: rgba(255, 255, 255, 0.08);
   color: #fff;
 }
 
-.strip-item.active {
+.top-strip .strip-item.active {
   color: #fff;
   font-weight: 500;
   border-bottom-color: #f5b942;
 }
 
-.strip-badge {
+.top-strip .strip-badge {
   background: #f5b942;
   color: #0f2a44;
   font-size: 10px;
@@ -156,21 +155,21 @@ function isActive(url: string, l: string): boolean {
   letter-spacing: 0.02em;
 }
 
-.strip-label-mobile {
+.top-strip .strip-label-mobile {
   display: none;
 }
 
 @media (max-width: 640px) {
-  .strip-item {
+  .top-strip .strip-item {
     padding: 10px 12px;
     font-size: 13px;
   }
 
-  .strip-label-full {
+  .top-strip .strip-label-full {
     display: none;
   }
 
-  .strip-label-mobile {
+  .top-strip .strip-label-mobile {
     display: inline;
   }
 }
