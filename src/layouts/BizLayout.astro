@@ -1,6 +1,7 @@
 ---
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
+import TopStrip from '../components/TopStrip.astro';
 import Footer from '../components/Footer.astro';
 
 interface Props {
@@ -29,6 +30,7 @@ const htmlLang = currentLang === 'zh-cn' ? 'zh-Hans'
   </head>
   <body>
     <Header lang={currentLang} basePath={basePath} />
+    <TopStrip lang={currentLang === 'blog' ? 'zh-tw' : currentLang} />
     <main class="biz-main">
       <slot />
     </main>

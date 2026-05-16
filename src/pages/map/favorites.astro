@@ -1,6 +1,7 @@
 ---
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
 import Footer from '../../components/Footer.astro';
 
 const title = '我的收藏景點｜峇里島攻略地圖';
@@ -159,6 +160,7 @@ const lang = 'zh-tw';
 
 <body>
   <Header lang={lang} slug="map" />
+  <TopStrip lang={lang ?? 'zh-tw'} />
 
   <div class="page-hero">
     <a href="/map/" class="back-btn">‹</a>

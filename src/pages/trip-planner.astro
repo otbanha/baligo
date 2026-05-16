@@ -1,6 +1,7 @@
 ---
 import BaseHead from '../components/BaseHead.astro';
 import Header from '../components/Header.astro';
+import TopStrip from '../components/TopStrip.astro';
 import Footer from '../components/Footer.astro';
 import TripPlannerContent from '../components/TripPlannerContent.astro';
 ---
@@ -15,6 +16,7 @@ import TripPlannerContent from '../components/TripPlannerContent.astro';
 </head>
 <body>
   <Header basePath="trip-planner" />
+  <TopStrip lang={'zh-tw'} />
   <TripPlannerContent lang="zh-tw" />
   <Footer />
 </body>

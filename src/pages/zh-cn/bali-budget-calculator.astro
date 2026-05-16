@@ -2,6 +2,7 @@
 export const prerender = true;
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
 import Footer from '../../components/Footer.astro';
 
 const title = '巴厘岛旅费预算计算器 2026';
@@ -17,6 +18,7 @@ const basePath = 'bali-budget-calculator';
 
 <body>
   <Header lang={lang} basePath={basePath} />
+  <TopStrip lang={lang ?? 'zh-cn'} />
 
   <!-- Mobile 导航 pills（只在 ≤900px 显示，桌机隐藏） -->
   <nav class="bbc-pills-nav" aria-label="导航">
