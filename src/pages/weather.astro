@@ -84,6 +84,42 @@ const schema = {
         line-height: 1.8;
       }
       .weather-tips ul li { margin-bottom: 0.2rem; }
+      .live-cams {
+        margin-top: 1.6rem;
+      }
+      .live-cams h2 {
+        font-size: 1rem;
+        margin: 0 0 0.8rem;
+        color: #1a6fad;
+      }
+      .cams-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 0.8rem;
+      }
+      .cam-label {
+        font-size: 0.82rem;
+        color: #555;
+        margin: 0 0 0.3rem;
+        font-weight: 600;
+      }
+      .cam-wrap {
+        position: relative;
+        padding-bottom: 56.25%;
+        height: 0;
+        border-radius: 10px;
+        overflow: hidden;
+        background: #000;
+      }
+      .cam-wrap iframe {
+        position: absolute;
+        top: 0; left: 0;
+        width: 100%; height: 100%;
+        border: none;
+      }
+      @media (max-width: 520px) {
+        .cams-grid { grid-template-columns: 1fr; }
+      }
     </style>
   </head>
   <body>
@@ -94,6 +130,34 @@ const schema = {
       <p class="subtitle">即時氣溫・濕度・降雨・UV 指數・未來 7 天預報，資料來源 Open-Meteo，每 10 分鐘更新</p>
 
       <BaliWeather lang={lang} />
+
+      <div class="live-cams">
+        <h2>峇里島即時攝影機</h2>
+        <div class="cams-grid">
+          <div>
+            <p class="cam-label">峇里島南部</p>
+            <div class="cam-wrap">
+              <iframe
+                src="https://www.youtube.com/embed/L1duJDAqbJY"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                loading="lazy"
+              ></iframe>
+            </div>
+          </div>
+          <div>
+            <p class="cam-label">烏布</p>
+            <div class="cam-wrap">
+              <iframe
+                src="https://www.youtube.com/embed/xuSvwBMhysw"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                loading="lazy"
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
 
       <div class="weather-tips">
         <h2>峇里島天氣小知識</h2>
