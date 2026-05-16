@@ -12,7 +12,6 @@ const regions = [
 ];
 
 const weatherUrl = isEn ? '/en/weather/' : isCn ? '/zh-cn/weather/' : lang === 'zh-hk' ? '/zh-hk/weather/' : '/weather/';
-const livecamUrl = 'https://www.youtube.com/watch?v=xuSvwBMhysw';
 
 const t = {
   title:   isEn ? 'Bali Weather' : isCn ? '巴厘岛天气' : '峇里島天氣',
@@ -143,9 +142,9 @@ const codeMapEn: Record<string, [string, string]> = {
   {compact && (
     <div class="bw-hint">
       <span class="bw-hint-prefix">{t.hintPrefix}</span>
-      <a href={weatherUrl} class="bw-hint-forecast">{t.hintForecast}</a>
+      <span class="bw-hint-forecast">{t.hintForecast}</span>
       <span class="bw-hint-sep">｜</span>
-      <a href={livecamUrl} target="_blank" rel="noopener" class="bw-hint-cam" onclick="event.stopPropagation()">Bali Live Cam 🎥</a>
+      <span class="bw-hint-cam">Bali Live Cam 🎥</span>
     </div>
   )}
 
@@ -415,12 +414,9 @@ const codeMapEn: Record<string, [string, string]> = {
   font-size: 0.68em;
   font-weight: 600;
   color: #ffd166;
-  text-decoration: none;
-  border-bottom: 1px solid rgba(255,209,102,0.4);
   flex-shrink: 0;
   white-space: nowrap;
 }
-.bw-hint-forecast:hover { border-bottom-color: #ffd166; }
 .bw-hint-sep {
   font-size: 0.68em;
   opacity: 0.4;
@@ -429,11 +425,9 @@ const codeMapEn: Record<string, [string, string]> = {
 .bw-hint-cam {
   font-size: 0.68em;
   color: rgba(255,255,255,0.7);
-  text-decoration: none;
   flex-shrink: 0;
   white-space: nowrap;
 }
-.bw-hint-cam:hover { color: #fff; }
 
 /* ── loading ── */
 @keyframes bw-pulse { 0%,100%{opacity:.35} 50%{opacity:.75} }
