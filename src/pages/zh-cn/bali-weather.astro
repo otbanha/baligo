@@ -1,0 +1,111 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
+import Footer from '../../components/Footer.astro';
+import BaliWeather from '../../components/BaliWeather.astro';
+
+const SITE_URL = 'https://gobaligo.id';
+const lang = 'zh-cn';
+const title = '巴厘岛天气预报2026｜实时气温・7天预报・各地区天气 - Gobaligo';
+const description = '巴厘岛实时天气预报，涵盖库塔、乌布、努沙杜瓦三大区域。查询今日气温、降雨概率、风速、UV指数，以及未来7天天气预报，规划行程最佳参考。';
+
+const hreflangs = [
+  { hreflang: 'zh-TW',     href: `${SITE_URL}/bali-weather/` },
+  { hreflang: 'zh-CN',     href: `${SITE_URL}/zh-cn/bali-weather/` },
+  { hreflang: 'zh-HK',     href: `${SITE_URL}/zh-hk/bali-weather/` },
+  { hreflang: 'en',        href: `${SITE_URL}/en/bali-weather/` },
+  { hreflang: 'x-default', href: `${SITE_URL}/bali-weather/` },
+];
+
+const schema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "首页", "item": `${SITE_URL}/zh-cn/` },
+        { "@type": "ListItem", "position": 2, "name": "巴厘岛天气", "item": `${SITE_URL}/zh-cn/bali-weather/` },
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": `${SITE_URL}/zh-cn/bali-weather/`,
+      "name": title,
+      "description": description,
+      "url": `${SITE_URL}/zh-cn/bali-weather/`,
+      "inLanguage": "zh-CN",
+    }
+  ]
+};
+---
+
+<html lang="zh-CN">
+  <head>
+    <BaseHead
+      title={title}
+      description={description}
+      noSuffix={true}
+      hreflangs={hreflangs}
+    />
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    <style>
+      .weather-page {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 1.5rem 1rem 3rem;
+      }
+      .weather-page h1 {
+        font-size: 1.5rem;
+        margin: 0 0 0.4rem;
+        color: #1a1a1a;
+      }
+      .weather-page .subtitle {
+        color: #666;
+        font-size: 0.92rem;
+        margin: 0 0 1.4rem;
+      }
+      .weather-tips {
+        margin-top: 1.6rem;
+        background: #f5f8ff;
+        border-radius: 12px;
+        padding: 1.1rem 1.3rem;
+      }
+      .weather-tips h2 {
+        font-size: 1rem;
+        margin: 0 0 0.7rem;
+        color: #1a6fad;
+      }
+      .weather-tips ul {
+        margin: 0;
+        padding-left: 1.2rem;
+        color: #444;
+        font-size: 0.88rem;
+        line-height: 1.8;
+      }
+      .weather-tips ul li { margin-bottom: 0.2rem; }
+    </style>
+  </head>
+  <body>
+    <Header basePath="/zh-cn" />
+    <TopStrip lang={lang} />
+    <main class="weather-page">
+      <h1>巴厘岛天气预报</h1>
+      <p class="subtitle">实时气温・湿度・降雨・UV 指数・未来 7 天预报，数据来源 Open-Meteo，每 10 分钟更新</p>
+
+      <BaliWeather lang={lang} />
+
+      <div class="weather-tips">
+        <h2>巴厘岛天气小知识</h2>
+        <ul>
+          <li><strong>旱季（4–10 月）</strong>：气温 27–32°C，以晴天为主，是旅游旺季</li>
+          <li><strong>雨季（11–3 月）</strong>：午后常有短暂阵雨，早晚凉爽，仍可出游</li>
+          <li><strong>库塔 / 水明漾</strong>：海边气候，日照强，UV 指数高，防晒必备</li>
+          <li><strong>乌布山区</strong>：海拔较高，气温比海边低 2–4°C，早晚偏凉</li>
+          <li><strong>努沙杜瓦</strong>：南端，风浪较小，适合浮潜、水上活动</li>
+        </ul>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>
