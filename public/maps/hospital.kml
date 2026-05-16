@@ -1,0 +1,1500 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- © OpenStreetMap contributors (ODbL) — https://www.openstreetmap.org/copyright -->
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>峇里島醫院 / 診所 by gobaligo</name>
+    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-05-16 | 總計 211 筆</description>
+    <Folder>
+      <name>國際醫院</name>
+      <Placemark>
+        <name>Kasih Ibu General Hospital (Uluwatu)</name>
+        <description><![CDATA[📍 Kuta<br>🗺️ Jalan Uluwatu<br>📞 +62 361 703270<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/node/600488283" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1758366,-8.7602199,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kasih Ibu</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/2279222389" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1712761,-8.6280229,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>International SOS Bali Clinic</name>
+        <description><![CDATA[📍 Kuta<br>🗺️ Jalan By Pass Ngurah Rai<br>📞 0361 710505<br><a href="https://www.openstreetmap.org/node/4258092975" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1914124,-8.7216974,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Udayana Veterinary Clinic</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>🗺️ Jl. Nuansa Udayana I<br><a href="https://www.openstreetmap.org/node/4261944591" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1857098,-8.7951938,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BIMC Ubud</name>
+        <description><![CDATA[📍 Ubud<br>🗺️ Raya Sanggingan<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/node/5396384059" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2538212,-8.487599,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Royal Hospital</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Tantular Nomor 6 Renon, Denpasar - Bali<br>🚨 急診 24H<br><a href="https://baliroyalhospital.co.id/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/9810776091" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2278393,-8.6684209,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BSI International Ungasan</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/10700029866" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.16385,-8.8076696,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali International Hospital</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Bypass Ngurah Rai<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/37374977" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2606345,-8.677385,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Universitas Udayana</name>
+        <description><![CDATA[🏥 Udayana University Hospital<br>📍 Nusa Dua / Jimbaran<br>🗺️ Jalan Pasraman Unud<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/304194714" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1742761,-8.7903198,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clinic of Udayana University</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/way/309181624" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2196426,-8.6728438,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSUP Sanglah Denpasar</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Diponegoro, Kota Denpasar, Bali<br>📞 +62 361 227913<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/311442210" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2118351,-8.675666,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RS Angkatan Darat Udayana Denpasar</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Jenderal Sudirman No.1, Dangin Puri Klod, Kecamatan Denpasar Timur, Kota Denpasar, Bali 80232<br>🚨 急診 24H<br><a href="https://rumahsakitudayanadenpasar.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/315576123" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2195697,-8.6631479,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSUD Wangaya</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Kartini<br>🚨 急診 24H<br><a href="https://rsudwangaya.denpasarkota.go.id/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/374695054" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2127124,-8.6485454,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Medical Center (BIMC)</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Bypass Ngurah Rai<br>📞 0361 761263<br>🚨 急診 24H<br><a href="https://www.bimcbali.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/416084292" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1844294,-8.7214972,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Umum Kasih Ibu</name>
+        <description><![CDATA[📍 Gianyar<br><a href="https://www.openstreetmap.org/way/459988602" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3132205,-8.605172,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sos Medika</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/way/560876120" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2591831,-8.6753315,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prima Medika Medical Service</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/way/561135006" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2109445,-8.7899647,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Umum Kasih Ibu</name>
+        <description><![CDATA[🏥 Kasih Ibu General Hospital<br>📍 Denpasar<br>🗺️ Jalan Teuku Umar<br>📞 +62 361 3003030<br><a href="http://kasihibuhospital.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/784433513" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2052468,-8.6776499,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Umum Kasih Ibu</name>
+        <description><![CDATA[🏥 Kasih Ibu General Hospital<br>📍 Denpasar<br><a href="https://www.openstreetmap.org/way/784433519" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.20528,-8.6776712,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Kasih Ibu</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/way/967291287" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.137887,-8.5529484,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit BIMC Siloam</name>
+        <description><![CDATA[🏥 BIMC Siloam Hospital<br>📍 Nusa Dua / Jimbaran<br><a href="https://bimcbali.com/bimc-siloam-nusa-dua" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/1029175777" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2283946,-8.7990325,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Siloam Hospital</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/way/1029920304" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1851659,-8.7151623,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kasih Ibu Hospital Tabanan</name>
+        <description><![CDATA[📍 Tabanan<br><a href="https://www.openstreetmap.org/way/1029989205" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1198206,-8.5466021,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>24H 急診醫院</name>
+      <Placemark>
+        <name>BaliMéd Canggu</name>
+        <description><![CDATA[📍 Canggu<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/node/5291631122" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1493506,-8.6384581,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Murni Teguh Hospitals</name>
+        <description><![CDATA[📍 Kuta<br>🗺️ Jalan Raya Tuban<br>⏰ 24/7<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/node/10997213225" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1783377,-8.7373482,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>醫院</name>
+      <Placemark>
+        <name>Rumah Sakit Umum Negara</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Wijaya Kusuma<br><a href="https://www.openstreetmap.org/node/429250405" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>114.6202709,-8.3540435,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik Putu Manuaba</name>
+        <description><![CDATA[📍 Kuta<br><a href="https://www.openstreetmap.org/node/1067112056" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1679516,-8.7368514,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Kelan</name>
+        <description><![CDATA[📍 Kuta<br><a href="https://www.openstreetmap.org/node/1836100369" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1774988,-8.7545182,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>puskesmas Sibang kaja</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/2491810790" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2209213,-8.5698912,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bidan</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/2491810825" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2213505,-8.5708354,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/node/2686683755" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.5474422,-8.4741486,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Gerokgak ll</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/4081168389" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>114.5895985,-8.1441468,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Jiwa Provinsi Bali</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jl. Kusumayudha No.29<br><a href="https://www.openstreetmap.org/node/4253752631" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3520053,-8.4539236,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Dharma Kerti</name>
+        <description><![CDATA[📍 Tabanan<br>🗺️ Jalan Teratai 16,<br><a href="https://www.openstreetmap.org/node/4253756220" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1190891,-8.5395546,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Umum Karya Dharma Husada</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br>🗺️ Jalan Yudistira No.7<br><a href="https://www.openstreetmap.org/node/4253766121" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.0948171,-8.1221635,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Umum Kertha Usada</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br>🗺️ Jalan Cendrawasih No. 5-7<br><a href="https://www.openstreetmap.org/node/4253769530" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.0861758,-8.1100428,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Umum Daerah Kabupaten Klungkung</name>
+        <description><![CDATA[📍 Gianyar<br>🗺️ Jl. Flamboyan<br><a href="https://www.openstreetmap.org/node/4253773047" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3949388,-8.5387815,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Umum Singaraja</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br>🗺️ Jalan Ngurah Rai No. 30<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/node/4253779882" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.0925921,-8.1204696,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit TNI-AD Singaraja</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br>🗺️ Jl. Ngurah Rai<br><a href="https://www.openstreetmap.org/node/4253787466" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.0916689,-8.1138198,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toya</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/4296616958" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2644531,-8.5241883,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/4467738303" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1844643,-8.4997234,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ubud Clinic</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/4531824791" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2554075,-8.5047105,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSU Premagana</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/4569917867" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2575308,-8.6148576,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SiloamMedika</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/4860940522" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1558842,-8.6435023,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSUD Bangli</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/5260909469" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3527596,-8.4564672,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Emergency</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/5647170129" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1605105,-8.6715871,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Emergency</name>
+        <description><![CDATA[📍 Canggu<br>📞 +6282299995911<br>⏰ Mo-Sa 08:00-22:00<br><a href="https://www.openstreetmap.org/node/5649137033" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1467671,-8.664188,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rejuvenate</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/7168374485" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1783917,-8.7084829,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BaliMéd</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br>🗺️ Gg. XIV<br><a href="https://www.openstreetmap.org/node/7309359985" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.0884129,-8.1274599,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Parama Sidhi Hospital</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br>🗺️ Jl. A Yani<br><a href="https://www.rsuparamasidhi.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/8046529285" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.0713879,-8.1229735,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Ibu Dan Anak Harapan Bunda</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Tukad Unda 1<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/node/9810808425" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2324413,-8.6736469,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Blahbatuh II</name>
+        <description><![CDATA[📍 Gianyar<br><a href="https://www.openstreetmap.org/node/10168238983" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3265226,-8.5717388,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Karang Asem 1</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/node/11765627123" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.6004992,-8.486028,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSU Bintang</name>
+        <description><![CDATA[📍 Gianyar<br><a href="https://www.openstreetmap.org/node/12168114442" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.397844,-8.5316171,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSUD Klungkung</name>
+        <description><![CDATA[📍 Gianyar<br><a href="https://www.openstreetmap.org/node/12168163173" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.394843,-8.5385889,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yasa Medical Clinic</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br>🗺️ Jalan I. Ketut Natih<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/node/13226755555" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.6501151,-8.3359463,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ciputra SMG Eye Clinic Bali</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Danau Tamblingan<br><a href="https://ciputrasmgeyeclinicbali.com" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/13420301145" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2633095,-8.6869341,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSUD Karangasem</name>
+        <description><![CDATA[🏥 Karangasem Regional Hospital<br>📍 Karangasem (East Bali)<br>🗺️ Jalan Ngurah Rai<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/209531912" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.6130839,-8.4355223,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>First Aid Station</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/way/241570299" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2143784,-8.5668083,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik Rahayu Asih</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>🗺️ Jalan Uluwatu 2<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/304198439" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1716541,-8.7835124,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Surya Husadha Hospital</name>
+        <description><![CDATA[🏥 Surya Husada Public Hospital<br>📍 Denpasar<br>🗺️ Jl. Pulau Serangan no. 7, Denpasar, Bali<br>📞 +62 361 233787<br>🚨 急診 24H<br><a href="https://suryahusadha.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/317142084" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2127699,-8.6782828,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Ibu &amp; Anak Harapan Bunda</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Tukad Unda<br><a href="https://www.openstreetmap.org/way/322208482" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2324383,-8.6736441,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Santhi Graha</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/way/323163547" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>114.9429362,-8.1957729,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RS Ari Canti</name>
+        <description><![CDATA[📍 Ubud<br>🗺️ Jalan Raya Mas No.88x, MAS, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571<br><a href="https://aricantihospital.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/328141196" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2732252,-8.5518222,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RUMAH SAKIT PRATAMA</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/way/335050543" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.4646312,-8.1817183,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Trijata</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Trijata<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/363142304" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2243605,-8.646053,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik Utama Padma Bahtera</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Hayam Wuruk<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/363343416" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2401487,-8.6640517,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Mata Bali Mandara</name>
+        <description><![CDATA[🏥 Bali Mandara Eye Hospital<br>📍 Denpasar<br>🗺️ Angsoka<br><a href="https://www.openstreetmap.org/way/371858199" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2232354,-8.6524429,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Umum Manuaba</name>
+        <description><![CDATA[🏥 Manuaba General Hospital<br>📍 Denpasar<br><a href="https://www.openstreetmap.org/way/375347711" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2101032,-8.6441211,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Ibu dan Anak Puri Bunda Denpasar</name>
+        <description><![CDATA[🏥 Puri Bunda Children & Maternal Hospital<br>📍 Denpasar<br>🗺️ Jalan Gatot Subroto VI/19, Denpasar, Bali<br>📞 +62 361 437999<br>🚨 急診 24H<br><a href="https://www.puribunda.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/375768956" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2165806,-8.6387778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bumi Sehat Clinic</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/way/376235890" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2563994,-8.5236431,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Umum Dharma Yadnya</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan WR Supratman<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/379896070" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2515839,-8.642499,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Graha Asih Hospital</name>
+        <description><![CDATA[📍 Kuta<br><a href="https://www.openstreetmap.org/way/386745464" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1789977,-8.7322544,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSIA Pucuk Permata Hati</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Teuku Umar Barat<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/424223270" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1858366,-8.6758101,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Bebandem</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/way/438388980" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.5557923,-8.4404958,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit BaliMéd Karangasem</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br>🗺️ Jalan Nenas - Bebandem<br>📞 +62 363 4301618<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/438389024" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.5854864,-8.4453931,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSU Bali Jimbaran</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>🗺️ Jalan Kampus Unud<br>📞 +6281238977403<br>🚨 急診 24H<br><a href="https://rsbalijimbaran.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/492592669" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1768312,-8.7908333,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Umum Sanjiwani Gianyar</name>
+        <description><![CDATA[📍 Ubud<br>🗺️ Jalan Ciung Wanara<br>📞 0361-943020<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/498074247" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3215322,-8.5370486,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSU Semara Ratih</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/way/498075795" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.195721,-8.3815877,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Manggis 2</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/way/503890332" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.5033543,-8.507368,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pusksesmas Kintamani I</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jalan Raya Pelaga<br>📞 (0366) 51040<br><a href="https://www.openstreetmap.org/way/541208050" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.274506,-8.221191,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Umum Family Husada</name>
+        <description><![CDATA[📍 Ubud<br>🗺️ Jalan Astina Timur No. 8A, Samplangan, Kecamatan Gianyar, Kabupaten Gianyar, Bali 80512<br><a href="https://www.rsufamilyhusada.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/550164555" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3346661,-8.5406115,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Dharma Kerti</name>
+        <description><![CDATA[📍 Tabanan<br><a href="https://www.openstreetmap.org/way/595835427" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.119084,-8.5395332,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giri Emas Pratama Hospital</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br><a href="https://www.openstreetmap.org/way/602497046" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1439477,-8.0817884,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giri Emas Pratama Hospital</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br><a href="https://www.openstreetmap.org/way/602497062" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1445102,-8.0827121,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giri Emas Pratama Hospital</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br><a href="https://www.openstreetmap.org/way/602497063" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1446739,-8.0825525,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giri Emas Pratama Hospital</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br><a href="https://www.openstreetmap.org/way/602497064" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1446078,-8.0824844,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giri Emas Pratama Hospital</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br><a href="https://www.openstreetmap.org/way/602497065" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1444941,-8.0823511,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RUMAH SAKIT UMUM DAERAH TANGGUWISIA</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br><a href="https://www.openstreetmap.org/way/609047481" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>114.9511569,-8.1910684,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Umum Daerah Bali Mandara</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan By Pass Ngurah Rai No.548, Sanur Kauh, Kec. Denpasar Selatan, Kota Denpasar, Bali<br><a href="https://rsbm.baliprov.go.id/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/722943088" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2488333,-8.7034946,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSUD Mangusada Badung</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jalan Raya Kapal, Mangupura, Mengwi, Badung<br><a href="rsudmangusada.badungkab.go.id" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/782943205" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1827394,-8.5788126,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Balimed</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Mahendradatta No.57 X, Padangsambian, Bali<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/783773571" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1908712,-8.656918,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Sakit Umum Daerah Tabanan</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jalan Pahlawan No.14, Delod Peken, Kecamatan Tabanan, Kabupaten Tabanan, Bali 82121<br>🚨 急診 24H<br><a href="https://rsud.tabanankab.go.id/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/783793571" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1320963,-8.5388084,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik Utama Rawat Inap Sari Dharma</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/way/912671375" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2137865,-8.6706356,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSU Surya Husadha</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/way/1027411862" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.21741,-8.804274,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSU Bhakti Rahayu</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/way/1030256661" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2210343,-8.6372022,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Giri Emas Pratama Hospital</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br><a href="https://www.openstreetmap.org/way/1053543757" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.144194,-8.0822263,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>24H 診所</name>
+      <Placemark>
+        <name>Ubud Care Clinic</name>
+        <description><![CDATA[📍 Ubud<br>🗺️ Jl. AA. Gede Mandera<br>📞 0811-3977-911<br>⏰ 24/7<br><a href="http://www.UbudCare.com" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/6427671586" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2693568,-8.5239427,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>911 Medical Clinic</name>
+        <description><![CDATA[📍 Uluwatu<br>🗺️ Jalan Pantai Bingin<br>📞 +6285195911911<br>⏰ 24/7<br><a href="https://911medical.id/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/13644806201" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1131957,-8.8134392,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nikki Diagnostic Centre</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Gatot Subroto 2A<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/way/375768950" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2210356,-8.6364658,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik Utama Quantum</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Raya Sesetan<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/way/416442945" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2148142,-8.6796898,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Clinic</name>
+        <description><![CDATA[📍 Canggu<br>📞 +62361733301<br>⏰ 24/7<br><a href="http://www.bali-clinic.com" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/1021730893" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.15806,-8.6839289,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>診所</name>
+      <Placemark>
+        <name>Padma Medical</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Padma Utara<br>📞 +62 0361 761484<br><a href="https://www.openstreetmap.org/node/2179212572" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1660579,-8.700402,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/node/2552336207" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3090153,-8.4191232,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Praktek Bidan PTT</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/2558088230" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.4720588,-8.1910116,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik Manuaba</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/3904018982" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1770714,-8.7295856,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Legian Clinic</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/3904018983" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1728269,-8.7119366,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Haryoga</name>
+        <description><![CDATA[📍 Denpasar<br>⏰ 15:30-21:30<br><a href="https://www.openstreetmap.org/node/3910937962" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2604138,-8.674071,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Karya Prima</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Raya Sesetan<br><a href="https://www.openstreetmap.org/node/4171857367" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.215697,-8.6848155,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Natasha Skin Clinic Center - Kuta</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Sunset Road<br><a href="https://www.openstreetmap.org/node/4180400889" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1840666,-8.7092845,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pertamedica clinic</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Teuku Umar Barat<br>📞 +62 361 490709<br><a href="https://pentamedica.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/4236778410" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1905897,-8.6812842,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Erha Clinic</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Raya Puputan<br>📞 0361 4723188<br><a href="https://www.openstreetmap.org/node/4412763827" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2385835,-8.6735226,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik Tiara Husada</name>
+        <description><![CDATA[📍 Kuta<br>🗺️ Jalan Raya Tuban<br>📞 +62 361 753676<br><a href="https://www.openstreetmap.org/node/4414153704" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1786158,-8.7411297,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Laboratorium Klinik Prodia</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Diponegoro<br>📞 +62 361 261001<br><a href="https://www.openstreetmap.org/node/4414443819" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2152889,-8.6718265,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Javanese alternative therapist</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>📞 +62 857-3845-0935<br>⏰ Mo-Sa 09:00-20:00<br><a href="https://m.facebook.com/alternatif.healerdewi?ref=bookmarks" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/4456513890" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1525384,-8.7997226,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tirta rahayu</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jalan Pangkung Sari<br><a href="https://www.openstreetmap.org/node/4702687390" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1605426,-8.6783565,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Doctor</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/4849235921" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.4384666,-8.6884902,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Canggu Medical</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/4860929323" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1431016,-8.6407601,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>pak Agung healer</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>🗺️ Jl. Bali Cliff<br><a href="https://www.openstreetmap.org/node/4882662421" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1677526,-8.835169,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maitri Medical</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/5008288026" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.263484,-8.5233608,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PMIK BLOOD donation</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/5139010521" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3226931,-8.543648,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Green Code Medical Assistance STITCHES</name>
+        <description><![CDATA[📍 Uluwatu<br>🗺️ Raya Uluwatu<br>📞 +6281337251987<br><a href="https://www.openstreetmap.org/node/5206045523" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1329427,-8.8305498,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Polindes Seraya Barat</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/node/5227543764" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.6455003,-8.4387687,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AmrtaSiddhi Aryuvedic Health Center</name>
+        <description><![CDATA[📍 Ubud<br>🗺️ Jalan Nyuh Bojog<br><a href="https://www.openstreetmap.org/node/5340388121" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2548832,-8.5222439,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sivana rehab</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/5392526221" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1598494,-8.6655916,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>East Medical Care Center</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jalan Mushroom Beach<br>📞 +62 81 339555515<br><a href="http://eastmedicalcarecenter.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/5502673561" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.4373897,-8.6878283,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ubud care</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/5502870327" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2678348,-8.5137374,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Praktik Dokter Jam Buka</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br>📞 085333775665<br><a href="https://www.openstreetmap.org/node/5527708261" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.5887971,-8.2735063,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prime plus medical</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/5655031357" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1467474,-8.6681501,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>bali med</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/6164660185" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1490883,-8.6382462,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toya Medical Clinic</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/6200632475" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2698181,-8.4888188,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ubud Care Clinic</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/6378551486" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.269633,-8.5240174,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SOS Clinic</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/6460723870" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1660573,-8.7841529,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik Adi Medica</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/6718195621" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1518346,-8.639982,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taruna Madical Services 24h</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/8459992617" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2677872,-8.5088338,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>puskesmas petang II</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/9810907082" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.225855,-8.2953139,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Polindes Seraya Barat</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/node/9810909182" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.6455491,-8.4388335,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Pembantu Desa Batu Madeg</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/9810948517" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.5071087,-8.7473943,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Bali Physio - Pererenan</name>
+        <description><![CDATA[📍 Canggu<br>🗺️ Jalan Sempol<br>📞 0821-4586-5105<br><a href="https://www.thebaliphysio.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/9895435217" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1350133,-8.641007,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Omsa Medic Seminyak</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/9916638786" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1536083,-8.6792267,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bhakti Vedanta Medical</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/9926449224" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1647664,-8.6910023,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Body Lab Slimming Spa</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/9933094051" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1674925,-8.6880809,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sos Medical Seminyak</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/9933129629" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1618611,-8.6902108,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunset Vet Legian</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/9933292383" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1804161,-8.7000432,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Aesthetic &amp; Beauty Clinic</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/10225116418" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1650903,-8.6894952,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/11581295378" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1775527,-8.7225765,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>General Practitioner Medical Service</name>
+        <description><![CDATA[📍 Canggu<br>🗺️ Jalan Pantai Batu Bolong<br><a href="https://www.openstreetmap.org/node/11644746592" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1411304,-8.6453209,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dr Syane TCM</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Gunung Catur V<br><a href="https://www.openstreetmap.org/node/12361182101" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1919601,-8.6320514,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Global Sehat</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/12570542944" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2589329,-8.6885707,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UPTD Puskesmas Gianyar II</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/13202132059" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3243278,-8.4732828,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Medical</name>
+        <description><![CDATA[📍 Canggu<br>🗺️ Jalan Pantai Batu Bolong<br><a href="https://www.openstreetmap.org/node/13437165120" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1409392,-8.6457959,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Medical Doctor General Practitioner</name>
+        <description><![CDATA[📍 Canggu<br>🗺️ Jalan Pantai Batu Bolong<br><a href="https://www.openstreetmap.org/node/13437165172" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1385745,-8.6483608,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hydro Medical</name>
+        <description><![CDATA[📍 Canggu<br>🗺️ Jalan Pantai Batu Bolong<br><a href="https://www.openstreetmap.org/node/13437165224" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1421864,-8.6436268,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abdi Medicca</name>
+        <description><![CDATA[📍 Canggu<br>🗺️ Jalan Pantai Batu Bolong<br><a href="https://www.openstreetmap.org/node/13437165245" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1433069,-8.6407729,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soma Aesthetics &amp; Longevity Club</name>
+        <description><![CDATA[📍 Uluwatu<br>⏰ Mo-Su 09:00-18:00<br><a href="https://www.somalongevityclub.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/13465417228" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.0899672,-8.8197627,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Healing Clinic</name>
+        <description><![CDATA[📍 Canggu<br>🗺️ Jalan Pantai Batu Bolong<br><a href="https://www.openstreetmap.org/node/13542381690" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1310345,-8.6572963,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanmed Medical</name>
+        <description><![CDATA[📍 Canggu<br>🗺️ Jalan Pantai Batu Bolong<br><a href="https://www.openstreetmap.org/node/13542381812" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1357639,-8.6508295,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Pembantu Subagan</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/way/209283007" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.6010148,-8.4548493,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik Tulus Ayu</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/way/209461312" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.6044615,-8.4511216,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Pembantu</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/way/226352345" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.4662254,-8.2030509,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Klinik</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/way/247562667" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.4542088,-8.2054216,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Merdeka Medical Centre</name>
+        <description><![CDATA[📍 Denpasar<br><a href="http://mmc-bali.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/311852049" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2382471,-8.664375,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik Umum Kimia Farma</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Dewi Sartika<br>⏰ Mo-Su 15:00-22:00<br><a href="https://www.openstreetmap.org/way/312030479" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2160171,-8.6697003,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>North Denpasar I Clinic</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jl. Angsoka, Dangin Puri Kangin, Kec. Denpasar Utara, Kota Denpasar, Bali<br><a href="https://www.openstreetmap.org/way/315785853" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2242732,-8.6524017,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Praktek Bersama</name>
+        <description><![CDATA[🏥 Joint Private Doctor Operations<br>📍 Denpasar<br>🗺️ Jalan Diponegoro<br><a href="https://www.openstreetmap.org/way/315896421" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2156468,-8.6678996,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Polikilnik Polda Bali</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Kamboja<br><a href="https://www.openstreetmap.org/way/318881440" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2246851,-8.6510044,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas I Denpasar Selatan</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Gurita<br><a href="https://www.openstreetmap.org/way/363059906" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2177207,-8.7043353,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas I Denpasar Timur</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jl. Pucuk, Sumerta, Kec. Denpasar Tim., Kota Denpasar, Bali<br><a href="https://www.puskesmasdentim1.denpasarkota.go.id/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/363142351" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2343579,-8.6499568,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Yayasan Kesehatan Telkom</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Serma Made Pil<br><a href="https://www.openstreetmap.org/way/367970490" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2165962,-8.6725341,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik Tulus Ayu</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Tukad Batanghari<br><a href="https://www.openstreetmap.org/way/374533482" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2299,-8.6799645,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gedung WM Sesetan (Yayasan Kerti Praja)</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Raya Sesetan<br><a href="https://kertipraja.org/implementation-research/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/374649724" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2198478,-8.7063438,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Pembantu Tegal Harum</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Gunung Rinjani<br><a href="https://www.openstreetmap.org/way/405961392" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1998495,-8.6677248,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>UPT Kesmas Blahbatuh</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jalan Wisma Gajah Mada<br><a href="https://www.openstreetmap.org/way/419898147" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2965112,-8.5658339,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pratama Wahyu Medika</name>
+        <description><![CDATA[📍 Ubud<br>🗺️ Jalan Udayana<br><a href="https://www.openstreetmap.org/way/419898191" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3027738,-8.5549118,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>JImbaran Medical Centre</name>
+        <description><![CDATA[📍 Kuta<br>🗺️ Jalan Bypass Ngurah Rai<br><a href="https://www.openstreetmap.org/way/424026230" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1777841,-8.7679148,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik Pembantu Ubung</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan H.O.S. Cokroaminoto<br><a href="https://www.openstreetmap.org/way/428482486" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2022831,-8.6322123,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas I Denpasar Barat</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Gunung Rinjani<br><a href="https://www.openstreetmap.org/way/428721295" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1991093,-8.663626,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Selat</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/way/431473695" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.4801063,-8.4388262,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Pembantu Bukit</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/way/440000008" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.6317322,-8.4217804,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Pembantu Tumbu</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/way/440000026" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.6250193,-8.4420695,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Denpasar Utara II</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ JL. Gunung Agung, Gang II, Pemecutan Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali<br><a href="https://www.openstreetmap.org/way/448761362" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2037047,-8.651547,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bidan Nengah Supriani</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/way/497979354" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1593158,-8.8028587,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Pembantu Bugbug</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/way/503000976" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.5805929,-8.5040431,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik Penta Medica</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/way/503233825" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.5163706,-8.4955288,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Kuta I</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Raya Kuta<br><a href="https://www.openstreetmap.org/way/520765278" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1778161,-8.7225011,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Medika Clinic</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Kalianget<br>📞 +623613700393<br>⏰ Mo-Fr 16:00-20:00; Sa 09:00-12:00<br><a href="https://balimedikainfo.wordpress.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/520799041" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1775926,-8.7244425,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik Pratama Inap Bina Usada</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/way/523522496" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1841465,-8.6369778,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Praktik Dokter Jam Buka</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/way/526711860" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.5887895,-8.2734939,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Polindes Desa Jungutan</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/way/530145176" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.5360706,-8.4326658,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Pembantu</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/way/538902797" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>114.9303912,-8.1873877,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Nusa Penida II Lembongan</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/way/542358895" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.4472334,-8.678339,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br><a href="https://www.openstreetmap.org/way/559671789" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>114.9659309,-8.1898878,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Klinik</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/way/560893600" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>114.9243587,-8.1931588,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Praktik Umum Dr. Ni Made Ayu Darma</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/way/561395574" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2219552,-8.7992953,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Praktik Dr. Ni Wayan Wildayanti</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/way/562639040" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2187758,-8.7993814,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas II Denpasar Barat</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jl. Gn. Soputan, Gg. Puskesmas, Pemecutan Klod, Kec. Denpasar Bar., Kota Denpasar, Bali<br><a href="https://www.openstreetmap.org/way/564619119" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1879395,-8.687326,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas III Denpasar Utara</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jl. Ahmad Yani Utara, Dauh Puri Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali<br><a href="https://www.openstreetmap.org/way/592784812" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2105652,-8.6342993,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali 911 Dental clinic</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/way/594316549" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2181432,-8.6492418,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Pembantu Padangsembian Kelod</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/way/595261728" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1790274,-8.6793085,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PUSKESMAS MARGA 2</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/way/595410481" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1545364,-8.5176878,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas II Denpasar Timur</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jl. Nagasari<br><a href="https://www.openstreetmap.org/way/596672011" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2445814,-8.6143856,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Canggu Medical Pererenan</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/way/597029838" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.127094,-8.6455069,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Pembantu Pererenan</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/way/597038752" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1348486,-8.6318625,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas IV Denpasar Selatan</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jl. Pulau Moyo, Pedungan, Denpasar Selatan, Kota Denpasar, Bali<br><a href="https://www.openstreetmap.org/way/747479717" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2099625,-8.6953236,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas Bangli</name>
+        <description><![CDATA[📍 Gianyar<br><a href="https://www.openstreetmap.org/way/968956600" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3496492,-8.5006534,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SOS Medical Emergency Room</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/way/1069198625" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1309161,-8.6527535,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Praktek Umum Dr A A Ayu Widiastari ,Mm</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/way/1069536596" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1359282,-8.6507447,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Healing Natural Healtcare Center Canggu</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/way/1069818057" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.131005,-8.6571695,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RSU GBM</name>
+        <description><![CDATA[📍 Gianyar<br><a href="https://www.openstreetmap.org/way/1110579562" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.376664,-8.5676315,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas II Denpasar Selatan</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jl. Danau Buyan III, Sanur, Denpasar Selatan, Kota Denpasar, Bali<br><a href="https://www.openstreetmap.org/way/1236050069" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2571846,-8.6830244,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Puskesmas III Denpasar Selatan</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jl. Glogor Carik, Pemogan, Denpasar Selatan, Kota Denpasar, Bali<br><a href="https://www.openstreetmap.org/way/1236050070" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1921454,-8.6970012,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

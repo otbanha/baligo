@@ -1,6 +1,7 @@
 ---
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
 import MapView from '../../components/MapView.astro';
 import RecommendForm from '../../components/RecommendForm.astro';
 import { maps, getMapBySlug } from '../../data/maps';
@@ -132,24 +133,58 @@ const description = area.description;
       color: #777;
     }
 
+    @keyframes pulse-attention {
+      0%, 100% { box-shadow: 0 2px 8px rgba(0,0,0,0.2), 0 0 0 0 rgba(45,134,83,0.45); }
+      50%       { box-shadow: 0 2px 8px rgba(0,0,0,0.1), 0 0 0 14px rgba(45,134,83,0); }
+    }
+    @keyframes spin-gps {
+      to { transform: rotate(360deg); }
+    }
+
     #gps-btn {
       position: fixed;
-      top: 62px; left: 16px;
-      width: 44px; height: 44px;
-      background: #fff; border: none; border-radius: 50%;
+      top: 166px; left: 16px;
+      height: 44px;
+      padding: 0 14px 0 10px;
+      background: #fff;
+      border: none;
+      border-radius: 22px;
       box-shadow: 0 2px 8px rgba(0,0,0,0.2);
-      font-size: 20px; display: flex; align-items: center; justify-content: center;
-      cursor: pointer; z-index: 900;
-      -webkit-tap-highlight-color: transparent; transition: background 0.2s;
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+      z-index: 900;
+      -webkit-tap-highlight-color: transparent;
+      transition: background 0.2s, color 0.2s;
+      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      color: #333;
+      white-space: nowrap;
     }
-    #gps-btn.active { background: #e8f5ee; }
-    [data-dark] #gps-btn { background: #1e1e1e; box-shadow: 0 2px 8px rgba(0,0,0,0.5); }
-    [data-dark] #gps-btn.active { background: #1a3a2a; }
+    #gps-btn .gps-icon { display: block; flex-shrink: 0; }
+    #gps-btn[data-state="loading"] .gps-icon { animation: spin-gps 1s linear infinite; }
+    #gps-btn[data-state="success"] { background: #e8f5ee; color: #1a5c3a; }
+    #gps-btn[data-state="error"]   { background: #fff0f0; color: #c33; }
+    #gps-btn.first-visit { animation: pulse-attention 1.5s ease-in-out 4; }
+
+    [data-dark] #gps-btn { background: #1e1e1e; color: #ccc; box-shadow: 0 2px 8px rgba(0,0,0,0.5); }
+    [data-dark] #gps-btn[data-state="success"] { background: #1a3a2a; color: #4caf8a; }
+    [data-dark] #gps-btn[data-state="error"]   { background: #2a1212; color: #f87171; }
+
+    @media (max-width: 767px) {
+      #gps-btn { width: 44px; padding: 0; border-radius: 50%; justify-content: center; }
+      #gps-btn .gps-label { display: none; }
+    }
 
   </style>
 </head>
 
 <body>
+  <Header lang="zh-tw" slug="map" hideLangSwitcher={true} />
+  <TopStrip lang="zh-tw" />
+
   <div class="map-topbar">
     <a href="/map/" class="back-btn">‹ 返回</a>
     <div class="topbar-info">
@@ -164,7 +199,17 @@ const description = area.description;
   </div>
 
   <MapView area={area} />
-  <button id="gps-btn" aria-label="顯示附近景點" onclick="window._gpsClick(this)">📍</button>
+  <button id="gps-btn" aria-label="定位到我的位置" onclick="window._gpsClick(this)" data-state="idle">
+    <svg class="gps-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+      <circle cx="12" cy="12" r="10"/>
+      <circle cx="12" cy="12" r="3"/>
+      <line x1="12" y1="2" x2="12" y2="4"/>
+      <line x1="12" y1="20" x2="12" y2="22"/>
+      <line x1="2" y1="12" x2="4" y2="12"/>
+      <line x1="20" y1="12" x2="22" y2="12"/>
+    </svg>
+    <span class="gps-label">我的位置</span>
+  </button>
   <RecommendForm areaName={area.name} areaSlug={area.slug} />
 
   <script>
@@ -215,14 +260,64 @@ const description = area.description;
 
   <script is:inline>
     var _gpsWatchId = null;
+    var _GPS_HINT_KEY = 'gobaligo_map_locate_hint_seen';
+
+    function _resetGpsBtn() {
+      var btn = document.getElementById('gps-btn');
+      if (!btn) return;
+      btn.dataset.state = 'idle';
+      var label = btn.querySelector('.gps-label');
+      if (label) label.textContent = '我的位置';
+    }
+
+    function _showGpsToast(msg) {
+      var old = document.getElementById('_gps_toast');
+      if (old) old.remove();
+      var t = document.createElement('div');
+      t.id = '_gps_toast';
+      t.style.cssText = 'position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:rgba(0,0,0,0.78);color:#fff;padding:10px 18px;border-radius:12px;font-size:13px;font-weight:600;z-index:9999;white-space:nowrap;pointer-events:none;transition:opacity 0.3s';
+      t.textContent = msg;
+      document.body.appendChild(t);
+      setTimeout(function() {
+        t.style.opacity = '0';
+        setTimeout(function() { if (t.parentNode) t.remove(); }, 300);
+      }, 3000);
+    }
+
     window._gpsClick = function(btn) {
-      if (!navigator.geolocation) return;
-      btn.classList.add('active');
+      if (btn.dataset.state === 'loading') return;
+      var label = btn.querySelector('.gps-label');
+
+      if (!navigator.geolocation) {
+        btn.dataset.state = 'error';
+        if (label) label.textContent = '不支援定位';
+        setTimeout(_resetGpsBtn, 2500);
+        return;
+      }
+
+      btn.dataset.state = 'loading';
+      if (label) label.textContent = '定位中…';
+
+      var done = false;
+      var tid = setTimeout(function() {
+        if (done) return;
+        done = true;
+        btn.dataset.state = 'error';
+        if (label) label.textContent = '逾時';
+        setTimeout(_resetGpsBtn, 2000);
+      }, 10000);
+
       navigator.geolocation.getCurrentPosition(
         function(pos) {
+          if (done) return;
+          done = true;
+          clearTimeout(tid);
           var lat = pos.coords.latitude, lng = pos.coords.longitude;
           var api = window._mapApi;
-          if (api) { api.flyTo(lat, lng); api.setUserLocation(lat, lng); api.enableNearby(); }
+          if (api) { api.flyTo(lat, lng, 15); api.setUserLocation(lat, lng); api.enableNearby(); }
+          btn.dataset.state = 'success';
+          if (label) label.textContent = '已定位';
+          setTimeout(_resetGpsBtn, 2000);
           if (_gpsWatchId === null) {
             _gpsWatchId = navigator.geolocation.watchPosition(
               function(p) { window._mapApi && window._mapApi.setUserLocation(p.coords.latitude, p.coords.longitude); },
@@ -230,10 +325,38 @@ const description = area.description;
             );
           }
         },
-        function() { btn.classList.remove('active'); },
-        { enableHighAccuracy: true, timeout: 15000, maximumAge: 30000 }
+        function(err) {
+          if (done) return;
+          done = true;
+          clearTimeout(tid);
+          btn.dataset.state = 'error';
+          if (err.code === 1) {
+            if (label) label.textContent = '無權限';
+            _showGpsToast('請在瀏覽器設定中開啟定位權限');
+          } else {
+            if (label) label.textContent = '定位失敗';
+          }
+          setTimeout(_resetGpsBtn, 2500);
+        },
+        { enableHighAccuracy: true, timeout: 10000, maximumAge: 30000 }
       );
     };
+
+    // First-visit pulse
+    (function() {
+      var btn = document.getElementById('gps-btn');
+      if (!btn) return;
+      var seen = false;
+      try { seen = localStorage.getItem(_GPS_HINT_KEY) === '1'; } catch {}
+      if (seen) return;
+      btn.classList.add('first-visit');
+      function markSeen() {
+        btn.classList.remove('first-visit');
+        try { localStorage.setItem(_GPS_HINT_KEY, '1'); } catch {}
+      }
+      btn.addEventListener('animationend', markSeen, { once: true });
+      setTimeout(markSeen, 7000); // fallback
+    })();
   </script>
 </body>
 </html>

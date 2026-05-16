@@ -1,0 +1,45 @@
+name: 更新醫院 / 診所地圖（每月）
+
+on:
+  schedule:
+    # 每月 1 號 UTC 17:00（台北時間隔日 01:00）
+    - cron: '0 17 1 * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-hospital-kml:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 抓取 Overpass 醫療設施資料並產生 KML
+        run: node scripts/fetch-hospitals.mjs
+
+      - name: 確認 KML 有變動
+        id: diff
+        run: |
+          git diff --quiet public/maps/hospital.kml && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit & Push 更新
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/maps/hospital.kml scripts/hospital-data.json
+          git commit -m "chore: update Bali hospital/clinic KML ($(date -u +%Y-%m-%d))"
+          git push
+
+      - name: 無變動時略過
+        if: steps.diff.outputs.changed == 'false'
+        run: echo "hospital KML 與現有版本相同，略過 commit。"
