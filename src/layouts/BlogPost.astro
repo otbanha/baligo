@@ -1760,6 +1760,7 @@ hr { margin: 1.2em 0 1.8em; }
         // 將 TOC 項目分組：每組 = 一個 H2 <li> + 其後的 H3 <li>
         const tocItems = Array.from(tocList.children) as HTMLElement[];
         const tocGroups = new Map<string, HTMLElement[]>();
+        const tocPreamble: HTMLElement[] = [];
         const tocPostamble: HTMLElement[] = [];
         let currentGroup: HTMLElement[] | null = null;
         let inTocPostamble = false;
@@ -1779,9 +1780,13 @@ hr { margin: 1.2em 0 1.8em; }
             tocGroups.set(id, currentGroup);
           } else if (currentGroup) {
             currentGroup.push(li);
+          } else {
+            // shuffle-start 之前的 H2（preamble）固定在目錄頂部
+            tocPreamble.push(li);
           }
         }
         tocList.innerHTML = '';
+        tocPreamble.forEach(li => tocList.appendChild(li));
         for (const id of shuffledIds) {
           const group = tocGroups.get(id);
           if (group) group.forEach(li => tocList.appendChild(li));
