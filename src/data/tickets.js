@@ -69,6 +69,30 @@ export const CAT_LABEL = {
   leisure:     '☕ 休閒',
 };
 
+export const CAT_LABEL_EN = {
+  temple:      '🛕 Temple',
+  nature:      '🌿 Nature',
+  island:      '🏝️ Nusa Penida',
+  park:        '🎭 Cultural Park',
+  activity:    '🎢 Theme Park',
+  adventure:   '🏄 Adventure',
+  course:      '📚 Course',
+  watersports: '🌊 Water Sports',
+  leisure:     '☕ Leisure',
+};
+
+export const CAT_LABEL_ZH_CN = {
+  temple:      '🛕 寺庙',
+  nature:      '🌿 自然景观',
+  island:      '🏝️ Nusa Penida',
+  park:        '🎭 文化园区',
+  activity:    '🎢 主题乐园',
+  adventure:   '🏄 冒险活动',
+  course:      '📚 进修课程',
+  watersports: '🌊 Water Sports',
+  leisure:     '☕ 休闲',
+};
+
 export const CAT_PILL = {
   temple:      'background:#f3e8ff;color:#6d28d9;',
   nature:      'background:#dcfce7;color:#15803d;',
