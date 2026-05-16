@@ -1,0 +1,576 @@
+---
+import spaData from '../../data/spa-list.json';
+
+const sections = Object.entries(spaData);
+const ARTICLE_URL = '/blog/2023-01-22-64db6b7efd897800013a97ed/';
+---
+
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SPA 聯盟連結編輯器</title>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif; background: #f5f5f5; color: #1a1a1a; }
+
+    .topbar {
+      background: #1A365D;
+      color: white;
+      padding: 14px 24px;
+      display: flex;
+      align-items: center;
+      gap: 16px;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+    }
+    .topbar h1 { font-size: 1rem; font-weight: 700; flex: 1; }
+    .topbar a { color: #C5A059; font-size: 0.85rem; text-decoration: none; }
+    .topbar a:hover { text-decoration: underline; }
+    .save-btn {
+      background: #C5A059;
+      color: #1A365D;
+      border: none;
+      padding: 8px 20px;
+      border-radius: 6px;
+      font-weight: 700;
+      font-size: 0.9rem;
+      cursor: pointer;
+      transition: background 0.15s;
+    }
+    .save-btn:hover { background: #d4b47a; }
+    .save-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+    .status-bar {
+      background: #e8f5e9;
+      border-left: 4px solid #4caf50;
+      padding: 10px 24px;
+      font-size: 0.85rem;
+      color: #2e7d32;
+      display: none;
+    }
+    .status-bar.error { background: #fdecea; border-color: #f44336; color: #c62828; }
+    .status-bar.show { display: block; }
+
+    .container { max-width: 1100px; margin: 0 auto; padding: 24px 16px; }
+
+    .progress-bar {
+      background: white;
+      border-radius: 8px;
+      padding: 16px 20px;
+      margin-bottom: 20px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+      display: flex;
+      align-items: center;
+      gap: 16px;
+    }
+    .progress-bar .label { font-size: 0.85rem; color: #555; white-space: nowrap; }
+    .progress-track { flex: 1; background: #e0e0e0; border-radius: 4px; height: 8px; overflow: hidden; }
+    .progress-fill { height: 100%; background: #4caf50; border-radius: 4px; transition: width 0.3s; }
+    .progress-count { font-size: 0.85rem; font-weight: 700; color: #1A365D; white-space: nowrap; }
+
+    .section-block {
+      background: white;
+      border-radius: 10px;
+      margin-bottom: 20px;
+      box-shadow: 0 1px 4px rgba(0,0,0,0.08);
+      overflow: hidden;
+    }
+    .section-header {
+      background: #1A365D;
+      color: white;
+      padding: 12px 20px;
+      display: flex;
+      align-items: center;
+      gap: 10px;
+    }
+    .section-header .cat { font-size: 0.75rem; background: rgba(197,160,89,0.3); color: #C5A059; padding: 2px 8px; border-radius: 4px; }
+    .section-header .title { font-size: 0.95rem; font-weight: 700; }
+    .section-header .count { margin-left: auto; font-size: 0.8rem; opacity: 0.7; }
+
+    table { width: 100%; border-collapse: collapse; }
+    th {
+      background: #f9f9f9;
+      padding: 10px 12px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      color: #555;
+      text-align: left;
+      border-bottom: 2px solid #eee;
+    }
+    td { padding: 8px 12px; border-bottom: 1px solid #f0f0f0; vertical-align: middle; }
+    tr:last-child td { border-bottom: none; }
+    tr:hover td { background: #fafafa; }
+
+    .spa-name { font-weight: 600; font-size: 0.9rem; }
+    .spa-desc { font-size: 0.78rem; color: #777; margin-top: 2px; }
+
+    .link-cell { display: flex; align-items: center; gap: 6px; }
+    .link-input {
+      flex: 1;
+      border: 1.5px solid #e0e0e0;
+      border-radius: 5px;
+      padding: 5px 8px;
+      font-size: 0.78rem;
+      font-family: inherit;
+      color: #1a1a1a;
+      transition: border-color 0.15s;
+      min-width: 0;
+    }
+    .link-input:focus { outline: none; border-color: #1A365D; }
+    .link-input.has-value { border-color: #4caf50; background: #f0fff4; }
+    .link-input.klook-field { border-color: #e8c98a; background: #fffbf0; color: #555; }
+    .link-input.klook-field:focus { border-color: #C5A059; }
+
+    .open-link {
+      color: #1A365D;
+      text-decoration: none;
+      font-size: 0.75rem;
+      padding: 3px 6px;
+      border: 1px solid #ddd;
+      border-radius: 4px;
+      white-space: nowrap;
+      flex-shrink: 0;
+      transition: background 0.1s;
+    }
+    .open-link:hover { background: #f0f0f0; }
+
+    .badge-dot {
+      width: 8px; height: 8px; border-radius: 50%;
+      flex-shrink: 0;
+      background: #e0e0e0;
+    }
+    .badge-dot.filled { background: #4caf50; }
+
+    .filter-bar {
+      display: flex;
+      gap: 8px;
+      margin-bottom: 16px;
+      flex-wrap: wrap;
+    }
+    .filter-btn {
+      padding: 6px 14px;
+      border-radius: 20px;
+      border: 1.5px solid #ddd;
+      background: white;
+      font-size: 0.82rem;
+      cursor: pointer;
+      transition: all 0.15s;
+    }
+    .filter-btn.active { border-color: #1A365D; background: #1A365D; color: white; }
+    .filter-btn:hover:not(.active) { border-color: #1A365D; color: #1A365D; }
+
+    /* Add SPA */
+    .section-footer {
+      padding: 10px 16px;
+      border-top: 1px solid #f0f0f0;
+    }
+    .add-spa-btn {
+      background: none;
+      border: 1.5px dashed #C5A059;
+      color: #C5A059;
+      padding: 6px 14px;
+      border-radius: 6px;
+      font-size: 0.82rem;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.15s;
+      width: 100%;
+    }
+    .add-spa-btn:hover { background: #fffbf0; border-style: solid; }
+
+    .add-form-row td { background: #fffde7; padding: 10px 12px; border-bottom: none; }
+    .add-form-row:hover td { background: #fffde7; }
+    .add-form-row td:first-child { border-left: 3px solid #C5A059; }
+
+    .form-field-group { display: flex; flex-direction: column; gap: 4px; }
+    .form-input {
+      border: 1.5px solid #e0e0e0;
+      border-radius: 5px;
+      padding: 5px 8px;
+      font-size: 0.78rem;
+      font-family: inherit;
+      color: #1a1a1a;
+      width: 100%;
+      transition: border-color 0.15s;
+    }
+    .form-input:focus { outline: none; border-color: #C5A059; }
+    .form-input.required-empty { border-color: #f44336; background: #fff8f8; }
+    .form-input::placeholder { color: #bbb; }
+    .form-label { font-size: 0.7rem; color: #999; }
+
+    .form-actions { display: flex; gap: 6px; margin-top: 6px; }
+    .btn-confirm {
+      background: #1A365D;
+      color: white;
+      border: none;
+      padding: 5px 14px;
+      border-radius: 5px;
+      font-size: 0.8rem;
+      font-weight: 600;
+      cursor: pointer;
+    }
+    .btn-confirm:hover { background: #22447a; }
+    .btn-cancel {
+      background: none;
+      color: #999;
+      border: 1px solid #ddd;
+      padding: 5px 12px;
+      border-radius: 5px;
+      font-size: 0.8rem;
+      cursor: pointer;
+    }
+    .btn-cancel:hover { background: #f5f5f5; }
+
+    @media (max-width: 768px) {
+      .topbar { padding: 10px 14px; }
+      table { font-size: 0.82rem; }
+      th, td { padding: 6px 8px; }
+      .link-input { font-size: 0.72rem; }
+    }
+  </style>
+</head>
+<body>
+
+<div class="topbar">
+  <h1>🌴 SPA 聯盟連結編輯器</h1>
+  <a href={ARTICLE_URL} target="_blank">預覽文章 →</a>
+  <button class="save-btn" id="saveBtn">儲存全部</button>
+</div>
+
+<div class="status-bar" id="statusBar"></div>
+
+<div class="container">
+
+  <div class="progress-bar">
+    <span class="label">KKday 完成度</span>
+    <div class="progress-track"><div class="progress-fill" id="kkdayProgress" style="width:0%"></div></div>
+    <span class="progress-count" id="kkdayCount">0 / 0</span>
+    <span class="label" style="margin-left:16px">Trip.com 完成度</span>
+    <div class="progress-track"><div class="progress-fill" id="tripProgress" style="width:0%; background:#2196f3"></div></div>
+    <span class="progress-count" id="tripCount">0 / 0</span>
+  </div>
+
+  <div class="filter-bar">
+    <button class="filter-btn active" data-filter="all">全部</button>
+    <button class="filter-btn" data-filter="missing-kkday">缺 KKday</button>
+    <button class="filter-btn" data-filter="missing-trip">缺 Trip.com</button>
+    <button class="filter-btn" data-filter="complete">已完成</button>
+  </div>
+
+  {sections.map(([sectionKey, section]) => (
+    <div class="section-block" data-section={sectionKey}>
+      <div class="section-header">
+        <span class="cat">{section.category}</span>
+        <span class="title">{section.title}</span>
+        <span class="count" data-count-label>{section.spas.length} 間</span>
+      </div>
+      <table>
+        <thead>
+          <tr>
+            <th style="width:28%">SPA 名稱</th>
+            <th style="width:8%">Klook</th>
+            <th style="width:32%">KKday 連結</th>
+            <th style="width:32%">Trip.com 連結</th>
+          </tr>
+        </thead>
+        <tbody>
+          {section.spas.map((spa, i) => (
+            <tr class="spa-row"
+                data-section={sectionKey}
+                data-index={i}
+                data-has-kkday={spa.links?.kkday ? 'true' : 'false'}
+                data-has-trip={spa.links?.trip ? 'true' : 'false'}>
+              <td>
+                <div class="spa-name">
+                  {spa.href
+                    ? <a href={spa.href} target="_blank" style="color:inherit">{spa.name}</a>
+                    : spa.name
+                  }
+                </div>
+                {spa.description && <div class="spa-desc">{spa.description}</div>}
+              </td>
+              <td>
+                <span class={`badge-dot ${spa.links?.klook ? 'filled' : ''}`} title={spa.links?.klook ? 'Klook 已設定' : '無 Klook 連結'}></span>
+              </td>
+              <td>
+                <div class="link-cell">
+                  <input
+                    class={`link-input ${spa.links?.kkday ? 'has-value' : ''}`}
+                    type="url"
+                    placeholder="貼上 KKday 連結…"
+                    value={spa.links?.kkday || ''}
+                    data-field="kkday"
+                    data-section={sectionKey}
+                    data-index={i}
+                  />
+                  {spa.links?.kkday && (
+                    <a class="open-link" href={spa.links.kkday} target="_blank">開啟</a>
+                  )}
+                </div>
+              </td>
+              <td>
+                <div class="link-cell">
+                  <input
+                    class={`link-input ${spa.links?.trip ? 'has-value' : ''}`}
+                    type="url"
+                    placeholder="貼上 Trip.com 連結…"
+                    value={spa.links?.trip || ''}
+                    data-field="trip"
+                    data-section={sectionKey}
+                    data-index={i}
+                  />
+                  {spa.links?.trip && (
+                    <a class="open-link" href={spa.links.trip} target="_blank">開啟</a>
+                  )}
+                </div>
+              </td>
+            </tr>
+          ))}
+        </tbody>
+      </table>
+      <div class="section-footer">
+        <button class="add-spa-btn" data-section={sectionKey}>＋ 新增 SPA</button>
+      </div>
+    </div>
+  ))}
+
+</div>
+
+<script define:vars={{ initialData: spaData }}>
+  const data = JSON.parse(JSON.stringify(initialData));
+
+  function updateProgress() {
+    const allRows = document.querySelectorAll('.spa-row');
+    let kkdayFilled = 0, tripFilled = 0, total = allRows.length;
+    allRows.forEach(row => {
+      const kkday = row.querySelector('[data-field="kkday"]').value.trim();
+      const trip = row.querySelector('[data-field="trip"]').value.trim();
+      if (kkday) kkdayFilled++;
+      if (trip) tripFilled++;
+      row.dataset.hasKkday = kkday ? 'true' : 'false';
+      row.dataset.hasTrip = trip ? 'true' : 'false';
+    });
+    document.getElementById('kkdayProgress').style.width = (kkdayFilled / total * 100) + '%';
+    document.getElementById('tripProgress').style.width = (tripFilled / total * 100) + '%';
+    document.getElementById('kkdayCount').textContent = `${kkdayFilled} / ${total}`;
+    document.getElementById('tripCount').textContent = `${tripFilled} / ${total}`;
+  }
+
+  function attachInputListeners(inputs) {
+    inputs.forEach(input => {
+      input.addEventListener('input', () => {
+        const { section, index, field } = input.dataset;
+        if (!data[section].spas[parseInt(index)].links) data[section].spas[parseInt(index)].links = {};
+        data[section].spas[parseInt(index)].links[field] = input.value.trim();
+        input.classList.toggle('has-value', !!input.value.trim());
+        const cell = input.closest('.link-cell');
+        let openLink = cell.querySelector('.open-link');
+        if (input.value.trim()) {
+          if (!openLink) {
+            openLink = document.createElement('a');
+            openLink.className = 'open-link';
+            openLink.textContent = '開啟';
+            openLink.target = '_blank';
+            cell.appendChild(openLink);
+          }
+          openLink.href = input.value.trim();
+        } else if (openLink) {
+          openLink.remove();
+        }
+        updateProgress();
+      });
+    });
+  }
+
+  attachInputListeners(document.querySelectorAll('.link-input'));
+
+  // Filter
+  const filterBtns = document.querySelectorAll('.filter-btn');
+  filterBtns.forEach(btn => {
+    btn.addEventListener('click', () => {
+      filterBtns.forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      const filter = btn.dataset.filter;
+      document.querySelectorAll('.spa-row').forEach(row => {
+        const hasKkday = row.dataset.hasKkday === 'true';
+        const hasTrip = row.dataset.hasTrip === 'true';
+        let show = true;
+        if (filter === 'missing-kkday') show = !hasKkday;
+        else if (filter === 'missing-trip') show = !hasTrip;
+        else if (filter === 'complete') show = hasKkday && hasTrip;
+        row.style.display = show ? '' : 'none';
+      });
+      document.querySelectorAll('.section-block').forEach(block => {
+        const visible = [...block.querySelectorAll('.spa-row')].some(r => r.style.display !== 'none');
+        block.style.display = visible ? '' : 'none';
+      });
+    });
+  });
+
+  // Add SPA form
+  function showAddForm(sectionKey, addBtn) {
+    const block = addBtn.closest('.section-block');
+    if (block.querySelector('.add-form-row')) return; // already open
+
+    const tbody = block.querySelector('tbody');
+    const newIndex = data[sectionKey].spas.length;
+
+    const tr = document.createElement('tr');
+    tr.className = 'add-form-row';
+    tr.innerHTML = `
+      <td>
+        <div class="form-field-group">
+          <span class="form-label">名稱 *</span>
+          <input class="form-input" type="text" placeholder="SPA 名稱" data-role="name" />
+          <span class="form-label" style="margin-top:4px">描述（選填）</span>
+          <input class="form-input" type="text" placeholder="簡短描述" data-role="description" />
+          <span class="form-label" style="margin-top:4px">官網連結（選填）</span>
+          <input class="form-input" type="url" placeholder="https://..." data-role="href" />
+        </div>
+        <div class="form-actions">
+          <button class="btn-confirm">確認新增</button>
+          <button class="btn-cancel">取消</button>
+        </div>
+      </td>
+      <td>
+        <div class="form-field-group">
+          <span class="form-label">Klook（選填）</span>
+          <input class="form-input" type="url" placeholder="https://affiliate.klook.com/…" data-role="klook" />
+        </div>
+      </td>
+      <td>
+        <div class="form-field-group">
+          <span class="form-label">KKday（選填）</span>
+          <input class="form-input" type="url" placeholder="https://www.kkday.com/…" data-role="kkday" />
+        </div>
+      </td>
+      <td>
+        <div class="form-field-group">
+          <span class="form-label">Trip.com（選填）</span>
+          <input class="form-input" type="url" placeholder="https://www.trip.com/…" data-role="trip" />
+        </div>
+      </td>
+    `;
+
+    tbody.appendChild(tr);
+    tr.querySelector('[data-role="name"]').focus();
+
+    tr.querySelector('.btn-cancel').addEventListener('click', () => tr.remove());
+
+    tr.querySelector('.btn-confirm').addEventListener('click', () => {
+      const nameInput = tr.querySelector('[data-role="name"]');
+      const name = nameInput.value.trim();
+      if (!name) {
+        nameInput.classList.add('required-empty');
+        nameInput.focus();
+        return;
+      }
+      nameInput.classList.remove('required-empty');
+
+      const description = tr.querySelector('[data-role="description"]').value.trim();
+      const href = tr.querySelector('[data-role="href"]').value.trim();
+      const klook = tr.querySelector('[data-role="klook"]').value.trim();
+      const kkday = tr.querySelector('[data-role="kkday"]').value.trim();
+      const trip = tr.querySelector('[data-role="trip"]').value.trim();
+
+      const newSpa = { name, links: { klook, kkday, trip } };
+      if (description) newSpa.description = description;
+      if (href) newSpa.href = href;
+
+      data[sectionKey].spas.push(newSpa);
+      tr.remove();
+
+      // Build real row
+      const realTr = document.createElement('tr');
+      realTr.className = 'spa-row';
+      realTr.dataset.section = sectionKey;
+      realTr.dataset.index = String(newIndex);
+      realTr.dataset.hasKkday = kkday ? 'true' : 'false';
+      realTr.dataset.hasTrip = trip ? 'true' : 'false';
+
+      const nameHtml = href
+        ? `<a href="${href}" target="_blank" style="color:inherit">${name}</a>`
+        : name;
+
+      realTr.innerHTML = `
+        <td>
+          <div class="spa-name">${nameHtml}</div>
+          ${description ? `<div class="spa-desc">${description}</div>` : ''}
+        </td>
+        <td>
+          <span class="badge-dot ${klook ? 'filled' : ''}" title="${klook ? 'Klook 已設定' : '無 Klook 連結'}"></span>
+        </td>
+        <td>
+          <div class="link-cell">
+            <input class="link-input ${kkday ? 'has-value' : ''}" type="url"
+              placeholder="貼上 KKday 連結…" value="${kkday}"
+              data-field="kkday" data-section="${sectionKey}" data-index="${newIndex}" />
+            ${kkday ? `<a class="open-link" href="${kkday}" target="_blank">開啟</a>` : ''}
+          </div>
+        </td>
+        <td>
+          <div class="link-cell">
+            <input class="link-input ${trip ? 'has-value' : ''}" type="url"
+              placeholder="貼上 Trip.com 連結…" value="${trip}"
+              data-field="trip" data-section="${sectionKey}" data-index="${newIndex}" />
+            ${trip ? `<a class="open-link" href="${trip}" target="_blank">開啟</a>` : ''}
+          </div>
+        </td>
+      `;
+
+      tbody.appendChild(realTr);
+      attachInputListeners(realTr.querySelectorAll('.link-input'));
+
+      // Update count badge
+      const countEl = block.querySelector('[data-count-label]');
+      if (countEl) countEl.textContent = data[sectionKey].spas.length + ' 間';
+
+      updateProgress();
+    });
+  }
+
+  document.querySelectorAll('.add-spa-btn').forEach(btn => {
+    btn.addEventListener('click', () => showAddForm(btn.dataset.section, btn));
+  });
+
+  // Save
+  document.getElementById('saveBtn').addEventListener('click', async () => {
+    const btn = document.getElementById('saveBtn');
+    const bar = document.getElementById('statusBar');
+    btn.disabled = true;
+    btn.textContent = '儲存中…';
+    bar.className = 'status-bar';
+    bar.style.display = 'none';
+
+    try {
+      const res = await fetch('/api/save-spa-links', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify(data),
+      });
+      const json = await res.json();
+      if (json.ok) {
+        bar.textContent = '✓ 已儲存！文章頁面將自動更新。';
+        bar.className = 'status-bar show';
+      } else {
+        throw new Error(json.error || '儲存失敗');
+      }
+    } catch (e) {
+      bar.textContent = '✗ 儲存失敗：' + e.message + '（請確認 dev server 仍在執行中）';
+      bar.className = 'status-bar error show';
+    }
+
+    btn.disabled = false;
+    btn.textContent = '儲存全部';
+    setTimeout(() => { bar.classList.remove('show'); }, 4000);
+  });
+
+  updateProgress();
+</script>
+
+</body>
+</html>
