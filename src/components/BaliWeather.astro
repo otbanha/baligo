@@ -1,6 +1,6 @@
 ---
 // BaliWeather.astro — 峇里島即時天氣 + 7天預報（Open-Meteo，無需 API Key）
-const { lang = 'zh-tw' } = Astro.props;
+const { lang = 'zh-tw', compact = false } = Astro.props;
 
 const isEn = lang === 'en';
 const isCn = lang === 'zh-cn';
@@ -10,6 +10,9 @@ const regions = [
   { id: 'ubud',    zh: '中部烏布山區', cn: '中部乌布山区', en: 'Ubud (Hills)',     lat: -8.5069, lon: 115.2625 },
   { id: 'nusadua', zh: '東岸努沙杜瓦一帶', cn: '东岸努沙杜瓦一带', en: 'Nusa Dua (East)', lat: -8.7932, lon: 115.2313 },
 ];
+
+const weatherUrl = isEn ? '/en/weather/' : isCn ? '/zh-cn/weather/' : lang === 'zh-hk' ? '/zh-hk/weather/' : '/weather/';
+const livecamUrl = 'https://www.youtube.com/watch?v=xuSvwBMhysw';
 
 const t = {
   title:   isEn ? 'Bali Weather' : isCn ? '巴厘岛天气' : '峇里島天氣',
@@ -21,6 +24,8 @@ const t = {
   source:  isEn ? 'Source: '    : isCn ? '数据来源：'  : '資料來源：',
   error:   isEn ? 'Unable to load weather data' : isCn ? '无法加载天气数据' : '無法載入天氣資料',
   today:   isEn ? 'Today'       : '今天',
+  hintForecast: isEn ? '7-Day Forecast' : isCn ? '七日预报' : '七日預報',
+  hintPrefix:   isEn ? 'Click for' : isCn ? '点击查看' : '點擊查看',
   // 概況描述用字（由 JS 組合）
   dayLabel:  isEn ? 'Daytime: ' : isCn ? '今天白天：' : '今天白天：',
   nightLabel:isEn ? 'Tonight: ' : isCn ? '入夜后：'   : '入夜後：',
@@ -95,7 +100,7 @@ const codeMapEn: Record<string, [string, string]> = {
 ---
 
 <div
-  class="bali-weather"
+  class={`bali-weather${compact ? ' bw-compact' : ''}`}
   id="bali-weather"
   data-lang={lang}
   data-regions={JSON.stringify(regions)}
@@ -103,6 +108,7 @@ const codeMapEn: Record<string, [string, string]> = {
   data-codemap-cn={JSON.stringify(codeMapCn)}
   data-codemap-en={JSON.stringify(codeMapEn)}
   data-t={JSON.stringify(t)}
+  data-href={compact ? weatherUrl : undefined}
 >
   <!-- 區域選擇 -->
   <div class="bw-region-bar" id="bw-region-bar">
@@ -133,52 +139,68 @@ const codeMapEn: Record<string, [string, string]> = {
     <p class="bw-summary-text" id="bw-summary-text"></p>
   </div>
 
+  <!-- 點擊提示（compact 模式） -->
+  {compact && (
+    <div class="bw-hint">
+      <span class="bw-hint-prefix">{t.hintPrefix}</span>
+      <a href={weatherUrl} class="bw-hint-forecast">{t.hintForecast}</a>
+      <span class="bw-hint-sep">｜</span>
+      <a href={livecamUrl} target="_blank" rel="noopener" class="bw-hint-cam" onclick="event.stopPropagation()">Bali Live Cam 🎥</a>
+    </div>
+  )}
+
   <!-- 統計列 -->
-  <div class="bw-stats">
-    <div class="bw-stat">
-      <span class="bw-stat-icon">💧</span>
-      <span class="bw-stat-label">{t.humidity}</span>
-      <span class="bw-stat-val" id="bw-humidity">--</span>
+  {!compact && (
+    <div class="bw-stats">
+      <div class="bw-stat">
+        <span class="bw-stat-icon">💧</span>
+        <span class="bw-stat-label">{t.humidity}</span>
+        <span class="bw-stat-val" id="bw-humidity">--</span>
+      </div>
+      <div class="bw-stat">
+        <span class="bw-stat-icon">💨</span>
+        <span class="bw-stat-label">{t.wind}</span>
+        <span class="bw-stat-val" id="bw-wind">--</span>
+      </div>
+      <div class="bw-stat">
+        <span class="bw-stat-icon">🌧️</span>
+        <span class="bw-stat-label">{t.precip}</span>
+        <span class="bw-stat-val" id="bw-precip">--</span>
+      </div>
+      <div class="bw-stat">
+        <span class="bw-stat-icon">🌡️</span>
+        <span class="bw-stat-label">{t.feelsLike}</span>
+        <span class="bw-stat-val" id="bw-feels">--</span>
+      </div>
+      <div class="bw-stat">
+        <span class="bw-stat-icon">🔆</span>
+        <span class="bw-stat-label">{t.uvIndex}</span>
+        <span class="bw-stat-val" id="bw-uv">--</span>
+      </div>
     </div>
-    <div class="bw-stat">
-      <span class="bw-stat-icon">💨</span>
-      <span class="bw-stat-label">{t.wind}</span>
-      <span class="bw-stat-val" id="bw-wind">--</span>
-    </div>
-    <div class="bw-stat">
-      <span class="bw-stat-icon">🌧️</span>
-      <span class="bw-stat-label">{t.precip}</span>
-      <span class="bw-stat-val" id="bw-precip">--</span>
-    </div>
-    <div class="bw-stat">
-      <span class="bw-stat-icon">🌡️</span>
-      <span class="bw-stat-label">{t.feelsLike}</span>
-      <span class="bw-stat-val" id="bw-feels">--</span>
-    </div>
-    <div class="bw-stat">
-      <span class="bw-stat-icon">🔆</span>
-      <span class="bw-stat-label">{t.uvIndex}</span>
-      <span class="bw-stat-val" id="bw-uv">--</span>
-    </div>
-  </div>
+  )}
 
   <!-- 7天預報 -->
-  <div class="bw-forecast" id="bw-forecast">
-    {[0,1,2,3,4,5,6].map(i => (
-      <div class="bw-fday" id={`bw-fday-${i}`}>
-        <span class="bw-fday-name" id={`bw-fname-${i}`}>--</span>
-        <span class="bw-fday-icon" id={`bw-ficon-${i}`}>--</span>
-        <span class="bw-fday-precip" id={`bw-fprecip-${i}`}>--</span>
-        <span class="bw-fday-hi" id={`bw-fhi-${i}`}>--</span>
-        <span class="bw-fday-lo" id={`bw-flo-${i}`}>--</span>
-      </div>
-    ))}
-  </div>
+  {!compact && (
+    <div class="bw-forecast" id="bw-forecast">
+      {[0,1,2,3,4,5,6].map(i => (
+        <div class="bw-fday" id={`bw-fday-${i}`}>
+          <span class="bw-fday-name" id={`bw-fname-${i}`}>--</span>
+          <span class="bw-fday-icon" id={`bw-ficon-${i}`}>--</span>
+          <span class="bw-fday-precip" id={`bw-fprecip-${i}`}>--</span>
+          <span class="bw-fday-hi" id={`bw-fhi-${i}`}>--</span>
+          <span class="bw-fday-lo" id={`bw-flo-${i}`}>--</span>
+        </div>
+      ))}
+    </div>
+  )}
 
-  <div class="bw-footer">
-    <p class="bw-updated">{t.updated}<span id="bw-time">--</span></p>
-    <p class="bw-source">{t.source}<a href="https://open-meteo.com" target="_blank" rel="noopener">Open-Meteo</a></p>
-  </div>
+  {!compact && (
+    <div class="bw-footer">
+      <p class="bw-updated">{t.updated}<span id="bw-time">--</span></p>
+      <p class="bw-source">{t.source}<a href="https://open-meteo.com" target="_blank" rel="noopener">Open-Meteo</a></p>
+    </div>
+  )}
 </div>
 
 <style>
@@ -361,6 +383,57 @@ const codeMapEn: Record<string, [string, string]> = {
 }
 .bw-updated, .bw-source { margin: 0; font-size: 0.63em; opacity: 0.55; }
 .bw-source a { color: #fff; text-decoration: underline; }
+
+/* ── compact clickable mode ── */
+.bw-compact {
+  cursor: pointer;
+  transition: box-shadow 0.18s, transform 0.18s;
+}
+.bw-compact:hover {
+  box-shadow: 0 6px 24px rgba(0,60,140,0.35);
+  transform: translateY(-1px);
+}
+
+/* ── hint bar ── */
+.bw-hint {
+  display: flex;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 0.3em;
+  padding: 0.45em 1em 0.55em;
+  flex-wrap: nowrap;
+  overflow: hidden;
+  min-width: 0;
+}
+.bw-hint-prefix {
+  font-size: 0.68em;
+  opacity: 0.65;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.bw-hint-forecast {
+  font-size: 0.68em;
+  font-weight: 600;
+  color: #ffd166;
+  text-decoration: none;
+  border-bottom: 1px solid rgba(255,209,102,0.4);
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.bw-hint-forecast:hover { border-bottom-color: #ffd166; }
+.bw-hint-sep {
+  font-size: 0.68em;
+  opacity: 0.4;
+  flex-shrink: 0;
+}
+.bw-hint-cam {
+  font-size: 0.68em;
+  color: rgba(255,255,255,0.7);
+  text-decoration: none;
+  flex-shrink: 0;
+  white-space: nowrap;
+}
+.bw-hint-cam:hover { color: #fff; }
 
 /* ── loading ── */
 @keyframes bw-pulse { 0%,100%{opacity:.35} 50%{opacity:.75} }
@@ -629,5 +702,14 @@ const codeMapEn: Record<string, [string, string]> = {
   }
 
   render(currentRegion);
+
+  // Compact: make card clickable (skip buttons and anchors)
+  if (root.dataset.href) {
+    root.addEventListener('click', (e) => {
+      const t = e.target as HTMLElement;
+      if (t.closest('button, a')) return;
+      window.location.href = root.dataset.href!;
+    });
+  }
 })();
 </script>
