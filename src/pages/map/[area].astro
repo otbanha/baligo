@@ -1,6 +1,7 @@
 ---
 import BaseHead from '../../components/BaseHead.astro';
 import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
 import MapView from '../../components/MapView.astro';
 import RecommendForm from '../../components/RecommendForm.astro';
 import { maps, getMapBySlug } from '../../data/maps';
@@ -134,7 +135,7 @@ const description = area.description;
 
     #gps-btn {
       position: fixed;
-      top: 62px; left: 16px;
+      top: 166px; left: 16px;
       width: 44px; height: 44px;
       background: #fff; border: none; border-radius: 50%;
       box-shadow: 0 2px 8px rgba(0,0,0,0.2);
@@ -150,6 +151,9 @@ const description = area.description;
 </head>
 
 <body>
+  <Header lang="zh-tw" slug="map" hideLangSwitcher={true} />
+  <TopStrip lang="zh-tw" />
+
   <div class="map-topbar">
     <a href="/map/" class="back-btn">‹ 返回</a>
     <div class="topbar-info">
