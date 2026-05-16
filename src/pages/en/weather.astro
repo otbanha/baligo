@@ -6,16 +6,16 @@ import Footer from '../../components/Footer.astro';
 import BaliWeather from '../../components/BaliWeather.astro';
 
 const SITE_URL = 'https://gobaligo.id';
-const lang = 'zh-hk';
-const title = '峇里島天氣預報2026｜即時氣溫・7天預報・各地區天氣 - Gobaligo';
-const description = '峇里島即時天氣預報，涵蓋庫塔、烏布、努沙杜瓦三大區域。查詢今日氣溫、降雨機率、風速、UV指數，以及未來7天天氣預報，規劃行程最佳參考。';
+const lang = 'en';
+const title = 'Bali Weather Forecast 2026 | Live Temperature & 7-Day Forecast - Gobaligo';
+const description = 'Live Bali weather forecast for Kuta, Ubud and Nusa Dua. Check today\'s temperature, rain probability, wind speed, UV index and 7-day outlook — plan your trip with confidence.';
 
 const hreflangs = [
-  { hreflang: 'zh-TW',     href: `${SITE_URL}/bali-weather/` },
-  { hreflang: 'zh-CN',     href: `${SITE_URL}/zh-cn/bali-weather/` },
-  { hreflang: 'zh-HK',     href: `${SITE_URL}/zh-hk/bali-weather/` },
-  { hreflang: 'en',        href: `${SITE_URL}/en/bali-weather/` },
-  { hreflang: 'x-default', href: `${SITE_URL}/bali-weather/` },
+  { hreflang: 'zh-TW',     href: `${SITE_URL}/weather/` },
+  { hreflang: 'zh-CN',     href: `${SITE_URL}/zh-cn/weather/` },
+  { hreflang: 'zh-HK',     href: `${SITE_URL}/zh-hk/weather/` },
+  { hreflang: 'en',        href: `${SITE_URL}/en/weather/` },
+  { hreflang: 'x-default', href: `${SITE_URL}/weather/` },
 ];
 
 const schema = {
@@ -24,23 +24,23 @@ const schema = {
     {
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "首頁", "item": `${SITE_URL}/zh-hk/` },
-        { "@type": "ListItem", "position": 2, "name": "峇里島天氣", "item": `${SITE_URL}/zh-hk/bali-weather/` },
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": `${SITE_URL}/en/` },
+        { "@type": "ListItem", "position": 2, "name": "Bali Weather", "item": `${SITE_URL}/en/weather/` },
       ]
     },
     {
       "@type": "WebPage",
-      "@id": `${SITE_URL}/zh-hk/bali-weather/`,
+      "@id": `${SITE_URL}/en/weather/`,
       "name": title,
       "description": description,
-      "url": `${SITE_URL}/zh-hk/bali-weather/`,
-      "inLanguage": "zh-HK",
+      "url": `${SITE_URL}/en/weather/`,
+      "inLanguage": "en",
     }
   ]
 };
 ---
 
-<html lang="zh-HK">
+<html lang="en">
   <head>
     <BaseHead
       title={title}
@@ -87,22 +87,22 @@ const schema = {
     </style>
   </head>
   <body>
-    <Header basePath="/zh-hk" />
+    <Header basePath="/en" />
     <TopStrip lang={lang} />
     <main class="weather-page">
-      <h1>峇里島天氣預報</h1>
-      <p class="subtitle">即時氣溫・濕度・降雨・UV 指數・未來 7 天預報，資料來源 Open-Meteo，每 10 分鐘更新</p>
+      <h1>Bali Weather Forecast</h1>
+      <p class="subtitle">Live temperature · humidity · rain · UV index · 7-day forecast. Data from Open-Meteo, updated every 10 minutes.</p>
 
       <BaliWeather lang={lang} />
 
       <div class="weather-tips">
-        <h2>峇里島天氣小知識</h2>
+        <h2>Bali Weather Tips</h2>
         <ul>
-          <li><strong>旱季（4–10 月）</strong>：氣溫 27–32°C，晴天為主，係旅遊旺季</li>
-          <li><strong>雨季（11–3 月）</strong>：下午常有短暫陣雨，早晚涼爽，仍可出遊</li>
-          <li><strong>庫塔 / 水明漾</strong>：海邊氣候，日曬強，UV 指數高，防曬必備</li>
-          <li><strong>烏布山區</strong>：海拔較高，氣溫比海邊低 2–4°C，早晚偏涼</li>
-          <li><strong>努沙杜瓦</strong>：南端，風浪較小，適合浮潛、水上活動</li>
+          <li><strong>Dry Season (Apr–Oct)</strong>: 27–32°C, mostly sunny — peak travel season</li>
+          <li><strong>Wet Season (Nov–Mar)</strong>: Brief afternoon showers, cooler mornings, still very travelable</li>
+          <li><strong>Kuta / Seminyak</strong>: Coastal, strong sun and high UV — sunscreen essential</li>
+          <li><strong>Ubud Highlands</strong>: Higher elevation, 2–4°C cooler than the coast, fresh evenings</li>
+          <li><strong>Nusa Dua</strong>: South tip, calmer waves — great for snorkelling and water sports</li>
         </ul>
       </div>
     </main>

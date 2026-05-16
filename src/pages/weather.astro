@@ -11,11 +11,11 @@ const title = '峇里島天氣預報2026｜即時氣溫・7天預報・各地區
 const description = '峇里島即時天氣預報，涵蓋庫塔、烏布、努沙杜瓦三大區域。查詢今日氣溫、降雨機率、風速、UV指數，以及未來7天天氣預報，規劃行程最佳參考。';
 
 const hreflangs = [
-  { hreflang: 'zh-TW',     href: `${SITE_URL}/bali-weather/` },
-  { hreflang: 'zh-CN',     href: `${SITE_URL}/zh-cn/bali-weather/` },
-  { hreflang: 'zh-HK',     href: `${SITE_URL}/zh-hk/bali-weather/` },
-  { hreflang: 'en',        href: `${SITE_URL}/en/bali-weather/` },
-  { hreflang: 'x-default', href: `${SITE_URL}/bali-weather/` },
+  { hreflang: 'zh-TW',     href: `${SITE_URL}/weather/` },
+  { hreflang: 'zh-CN',     href: `${SITE_URL}/zh-cn/weather/` },
+  { hreflang: 'zh-HK',     href: `${SITE_URL}/zh-hk/weather/` },
+  { hreflang: 'en',        href: `${SITE_URL}/en/weather/` },
+  { hreflang: 'x-default', href: `${SITE_URL}/weather/` },
 ];
 
 const schema = {
@@ -25,15 +25,15 @@ const schema = {
       "@type": "BreadcrumbList",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "首頁", "item": `${SITE_URL}/` },
-        { "@type": "ListItem", "position": 2, "name": "峇里島天氣", "item": `${SITE_URL}/bali-weather/` },
+        { "@type": "ListItem", "position": 2, "name": "峇里島天氣", "item": `${SITE_URL}/weather/` },
       ]
     },
     {
       "@type": "WebPage",
-      "@id": `${SITE_URL}/bali-weather/`,
+      "@id": `${SITE_URL}/weather/`,
       "name": title,
       "description": description,
-      "url": `${SITE_URL}/bali-weather/`,
+      "url": `${SITE_URL}/weather/`,
       "inLanguage": "zh-TW",
     }
   ]
