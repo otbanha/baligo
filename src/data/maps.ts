@@ -156,6 +156,17 @@ export const maps: MapArea[] = [
     myMapsId: "1qf8jdykPPjEIcpg0_e62iM58ye_8dK4",
   },
   {
+    slug: "money-changer",
+    name: "峇里島合法換匯所",
+    nameEn: "BI-Licensed Money Changers",
+    description: "印尼央行 BI 官方授權清單，568 間合法換匯，避開換匯詐騙",
+    center: [-8.6897, 115.1686],
+    zoom: 12,
+    kml: "/maps/money-changer.kml",
+    emoji: "💱",
+    isThematic: true,
+  },
+  {
     slug: "canggu-hotel",
     name: "長谷住宿推薦",
     nameEn: "Best Hotels in Canggu",
