@@ -9,8 +9,8 @@ const items = [
   { id: 'budget',    icon: '💰', url: '/bali-budget-calculator/' },
   { id: 'transport', icon: '🚗', url: '/blog/bali-transport-quiz/' },
   { id: 'map',       icon: '📍', url: '/map/' },
-  { id: 'tickets',   icon: '🎟️', url: '/tickets/', publishedAt: '2026-05-15' },
   { id: 'spa',       icon: '🧖', url: '/blog/2023-01-22-64db6b7efd897800013a97ed/', noLocalize: true },
+  { id: 'tickets',   icon: '🎟️', url: '/tickets/', publishedAt: '2026-05-15' },
 ] as const;
 
 type ItemId = typeof items[number]['id'];
@@ -110,6 +110,7 @@ function isActive(url: string, l: string): boolean {
 .top-strip {
   display: flex;
   align-items: stretch;
+  justify-content: center;
   background: linear-gradient(90deg, #1e3a5f 0%, #2c5f7c 100%);
   position: sticky;
   top: 64px;
