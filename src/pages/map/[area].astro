@@ -313,15 +313,31 @@ const description = area.description;
           done = true;
           clearTimeout(tid);
           var lat = pos.coords.latitude, lng = pos.coords.longitude;
-          var api = window._mapApi;
-          if (api) { api.flyTo(lat, lng, 15); api.setUserLocation(lat, lng); api.enableNearby(); }
+
           btn.dataset.state = 'success';
           if (label) label.textContent = '已定位';
           setTimeout(_resetGpsBtn, 2000);
+
+          // _mapApi 可能還在載入中（MapLibre 從 CDN 拉取）
+          // 最多重試 15 次 × 600ms = 9 秒
+          (function applyPos(retries) {
+            var api = window._mapApi;
+            if (api) {
+              api.flyTo(lat, lng, 15);
+              api.setUserLocation(lat, lng);
+              api.enableNearby();
+            } else if (retries > 0) {
+              setTimeout(function() { applyPos(retries - 1); }, 600);
+            }
+          })(15);
+
           if (_gpsWatchId === null) {
             _gpsWatchId = navigator.geolocation.watchPosition(
               function(p) { window._mapApi && window._mapApi.setUserLocation(p.coords.latitude, p.coords.longitude); },
-              null, { enableHighAccuracy: true }
+              function() {
+                if (_gpsWatchId !== null) { navigator.geolocation.clearWatch(_gpsWatchId); _gpsWatchId = null; }
+              },
+              { enableHighAccuracy: true }
             );
           }
         },
@@ -332,9 +348,13 @@ const description = area.description;
           btn.dataset.state = 'error';
           if (err.code === 1) {
             if (label) label.textContent = '無權限';
-            _showGpsToast('請在瀏覽器設定中開啟定位權限');
+            _showGpsToast('請在瀏覽器設定中開啟定位權限，或重新整理後再試');
+          } else if (err.code === 3) {
+            if (label) label.textContent = '逾時';
+            _showGpsToast('定位逾時，請確認 GPS 已開啟後再試');
           } else {
             if (label) label.textContent = '定位失敗';
+            _showGpsToast('無法取得位置，請確認 GPS 已開啟');
           }
           setTimeout(_resetGpsBtn, 2500);
         },
