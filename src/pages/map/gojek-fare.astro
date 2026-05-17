@@ -982,12 +982,15 @@ const ldJson = JSON.stringify({
 
     // Leaflet map
     function initMap() {
-      if (leafletMap) return;
-      leafletMap = L.map('gojek-map', { zoomControl: true, scrollWheelZoom: false }).setView([-8.65, 115.18], 10);
+      if (leafletMap || typeof L === 'undefined') return;
+      const container = document.getElementById('gojek-map');
+      if (!container) return;
+      leafletMap = L.map(container, { zoomControl: true, scrollWheelZoom: false }).setView([-8.65, 115.18], 10);
       L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
         attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
         maxZoom: 18,
       }).addTo(leafletMap);
+      setTimeout(function() { leafletMap.invalidateSize(); }, 100);
     }
 
     function updateMap(fromZone, toZone) {
@@ -1028,7 +1031,11 @@ const ldJson = JSON.stringify({
     }
 
     buildSelects();
-    initMap();
+    if (typeof L !== 'undefined') {
+      initMap();
+    } else {
+      window.addEventListener('load', initMap);
+    }
   </script>
 </body>
 </html>
