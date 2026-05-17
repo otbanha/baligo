@@ -408,34 +408,6 @@ const ldJson = JSON.stringify({
     }
     .faq-a.open { display: block; }
 
-    /* ── SEO Table ── */
-    .fare-table-wrap {
-      background: #fff;
-      border-radius: 16px;
-      overflow: hidden;
-      box-shadow: 0 1px 4px rgba(0,0,0,0.06);
-      margin-bottom: 16px;
-    }
-    .fare-table-wrap table {
-      width: 100%;
-      border-collapse: collapse;
-      font-size: 12px;
-    }
-    .fare-table-wrap th {
-      background: #f5f5f5;
-      padding: 10px 12px;
-      text-align: left;
-      font-weight: 700;
-      color: #555;
-      border-bottom: 1px solid #e8e8e8;
-    }
-    .fare-table-wrap td {
-      padding: 9px 12px;
-      border-bottom: 1px solid #f0f0f0;
-      color: #333;
-    }
-    .fare-table-wrap tr:last-child td { border-bottom: none; }
-    .fare-table-wrap tr:nth-child(even) td { background: #fafafa; }
 
     /* ── SEO Content ── */
     .seo-section {
@@ -580,7 +552,6 @@ const ldJson = JSON.stringify({
         gap: 20px;
       }
       .below-grid .section-title { grid-column: 1 / -1; }
-      .below-grid .fare-table-wrap { grid-column: 1 / -1; }
       .below-grid .faq-item { break-inside: avoid; }
 
       .calc-card { padding: 28px; }
@@ -590,9 +561,6 @@ const ldJson = JSON.stringify({
 
       .section-title { font-size: 20px; margin-bottom: 16px; }
 
-      .fare-table-wrap table { font-size: 13px; }
-      .fare-table-wrap th,
-      .fare-table-wrap td { padding: 11px 16px; }
     }
   </style>
 </head>
@@ -810,37 +778,6 @@ const ldJson = JSON.stringify({
     </div>
 
     <!-- SEO Table: Fare Reference -->
-    <div class="section-title">熱門路線費用參考表</div>
-    <div class="fare-table-wrap">
-      <table>
-        <thead>
-          <tr>
-            <th>路線</th>
-            <th>GoCar（Rp）</th>
-            <th>約合台幣</th>
-            <th>車程</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr><td>機場 → 庫塔</td><td>45,000–70,000</td><td>NT$ 90–140</td><td>15–30 分</td></tr>
-          <tr><td>機場 → 水明漾</td><td>70,000–110,000</td><td>NT$ 140–220</td><td>25–45 分</td></tr>
-          <tr><td>機場 → Canggu 長谷</td><td>120,000–180,000</td><td>NT$ 240–360</td><td>40–70 分</td></tr>
-          <tr><td>機場 → 烏布</td><td>180,000–250,000</td><td>NT$ 360–500</td><td>60–90 分</td></tr>
-          <tr><td>機場 → 努沙杜瓦</td><td>60,000–100,000</td><td>NT$ 120–200</td><td>20–35 分</td></tr>
-          <tr><td>機場 → 烏魯瓦圖</td><td>110,000–160,000</td><td>NT$ 220–320</td><td>35–60 分</td></tr>
-          <tr><td>庫塔 → 水明漾</td><td>25,000–40,000</td><td>NT$ 50–80</td><td>10–25 分</td></tr>
-          <tr><td>庫塔 → Canggu</td><td>60,000–90,000</td><td>NT$ 120–180</td><td>25–50 分</td></tr>
-          <tr><td>水明漾 → Canggu</td><td>40,000–65,000</td><td>NT$ 80–130</td><td>15–35 分</td></tr>
-          <tr><td>水明漾 → 烏布</td><td>140,000–200,000</td><td>NT$ 280–400</td><td>60–90 分</td></tr>
-          <tr><td>Canggu → 烏布</td><td>130,000–180,000</td><td>NT$ 260–360</td><td>60–90 分</td></tr>
-          <tr><td>烏布 → 沙努爾</td><td>100,000–140,000</td><td>NT$ 200–280</td><td>40–70 分</td></tr>
-          <tr><td>烏布 → 烏魯瓦圖</td><td>200,000–280,000</td><td>NT$ 400–560</td><td>75–110 分</td></tr>
-          <tr><td>沙努爾 → Padang Bai</td><td>120,000–170,000</td><td>NT$ 240–340</td><td>45–70 分</td></tr>
-          <tr><td>努沙杜瓦 → 烏魯瓦圖</td><td>60,000–90,000</td><td>NT$ 120–180</td><td>20–35 分</td></tr>
-        </tbody>
-      </table>
-    </div>
-
     <!-- No-Gojek Zone Guide -->
     <div class="seo-section">
       <h2>🚫 No-Gojek Zone 禁區完整指南</h2>
