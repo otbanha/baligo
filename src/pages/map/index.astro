@@ -113,6 +113,15 @@ const lang = 'zh-tw';
       flex-shrink: 0;
     }
 
+    @media (min-width: 640px) {
+      .map-grid-thematic {
+        grid-template-columns: 1fr 1fr 1fr;
+      }
+      .map-grid-thematic .map-card-thematic {
+        grid-column: auto;
+      }
+    }
+
     .footer-wrap {
       padding-bottom: env(safe-area-inset-bottom, 0px);
     }
@@ -191,7 +200,15 @@ const lang = 'zh-tw';
 
   <div class="section-label">主題地圖</div>
 
-  <div class="map-grid" style="padding-bottom: 32px;">
+  <div class="map-grid map-grid-thematic" style="padding-bottom: 32px;">
+    <a href="/map/gojek-fare/" class="map-card map-card-thematic" style="background: linear-gradient(135deg, #f0fff6, #fff); border-color: #00b14f;">
+      <span class="emoji">🚗</span>
+      <div class="text">
+        <div class="name">Gojek 費用查詢</div>
+        <div class="desc">查詢峇里島各區域間的預估車資，含 GoCar / GoRide 切換、尖峰加成、禁區提醒</div>
+      </div>
+      <span class="arrow">›</span>
+    </a>
     {thematicMaps.map(area => (
       <a href={`/map/${area.slug}/`} class="map-card map-card-thematic">
         <span class="emoji">{area.emoji}</span>

@@ -156,6 +156,7 @@ const description = area.description;
       cursor: pointer;
       z-index: 900;
       -webkit-tap-highlight-color: transparent;
+      touch-action: manipulation;
       transition: background 0.2s, color 0.2s;
       font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
       font-size: 13px;
@@ -163,7 +164,8 @@ const description = area.description;
       color: #333;
       white-space: nowrap;
     }
-    #gps-btn .gps-icon { display: block; flex-shrink: 0; }
+    #gps-btn .gps-icon { display: block; flex-shrink: 0; pointer-events: none; }
+    #gps-btn .gps-label { pointer-events: none; }
     #gps-btn[data-state="loading"] .gps-icon { animation: spin-gps 1s linear infinite; }
     #gps-btn[data-state="success"] { background: #e8f5ee; color: #1a5c3a; }
     #gps-btn[data-state="error"]   { background: #fff0f0; color: #c33; }
@@ -200,7 +202,7 @@ const description = area.description;
 
   <MapView area={area} />
   <button id="gps-btn" aria-label="定位到我的位置" onclick="window._gpsClick(this)" data-state="idle">
-    <svg class="gps-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
+    <svg class="gps-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="pointer-events:none">
       <circle cx="12" cy="12" r="10"/>
       <circle cx="12" cy="12" r="3"/>
       <line x1="12" y1="2" x2="12" y2="4"/>
@@ -313,15 +315,31 @@ const description = area.description;
           done = true;
           clearTimeout(tid);
           var lat = pos.coords.latitude, lng = pos.coords.longitude;
-          var api = window._mapApi;
-          if (api) { api.flyTo(lat, lng, 15); api.setUserLocation(lat, lng); api.enableNearby(); }
+
           btn.dataset.state = 'success';
           if (label) label.textContent = '已定位';
           setTimeout(_resetGpsBtn, 2000);
+
+          // _mapApi 可能還在載入中（MapLibre 從 CDN 拉取）
+          // 最多重試 15 次 × 600ms = 9 秒
+          (function applyPos(retries) {
+            var api = window._mapApi;
+            if (api) {
+              api.flyTo(lat, lng, 15);
+              api.setUserLocation(lat, lng);
+              api.enableNearby();
+            } else if (retries > 0) {
+              setTimeout(function() { applyPos(retries - 1); }, 600);
+            }
+          })(15);
+
           if (_gpsWatchId === null) {
             _gpsWatchId = navigator.geolocation.watchPosition(
               function(p) { window._mapApi && window._mapApi.setUserLocation(p.coords.latitude, p.coords.longitude); },
-              null, { enableHighAccuracy: true }
+              function() {
+                if (_gpsWatchId !== null) { navigator.geolocation.clearWatch(_gpsWatchId); _gpsWatchId = null; }
+              },
+              { enableHighAccuracy: true }
             );
           }
         },
@@ -332,9 +350,13 @@ const description = area.description;
           btn.dataset.state = 'error';
           if (err.code === 1) {
             if (label) label.textContent = '無權限';
-            _showGpsToast('請在瀏覽器設定中開啟定位權限');
+            _showGpsToast('請在瀏覽器設定中開啟定位權限，或重新整理後再試');
+          } else if (err.code === 3) {
+            if (label) label.textContent = '逾時';
+            _showGpsToast('定位逾時，請確認 GPS 已開啟後再試');
           } else {
             if (label) label.textContent = '定位失敗';
+            _showGpsToast('無法取得位置，請確認 GPS 已開啟');
           }
           setTimeout(_resetGpsBtn, 2500);
         },

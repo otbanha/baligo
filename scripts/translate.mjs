@@ -49,7 +49,7 @@ const CACHE_FILE = '.translation-cache.json';
 const BATCH_SIZE = parseInt(process.env.TRANSLATE_BATCH_SIZE ?? '10', 10); // 每次 API 呼叫最多幾個段落
 
 const ALL_LANGS = ['zh-cn', 'zh-hk', 'en'];
-const BLOCK_LANGS = ['zh-cn', 'en']; // blocks 不需要 zh-hk
+const BLOCK_LANGS = ['zh-cn', 'zh-hk', 'en'];
 
 const SYSTEM_PROMPTS = {
   'zh-cn': `你是專業翻譯，將繁體中文翻譯成簡體中文。
@@ -337,7 +337,17 @@ async function translateFile(filename, lang) {
   // 全部要翻譯的文字
   const allTexts = [...fmTranslatables, ...textSegments.map(s => s.content)];
 
-  if (allTexts.length === 0) return 'empty';
+  if (allTexts.length === 0) {
+    // 無可翻譯文字（純 iframe / HTML）：直接複製來源，加 lang + _srcHash
+    if (!isDryRun) {
+      const newFm = { ...fm, lang, _srcHash: srcHash };
+      const newContent = matter.stringify(body, newFm);
+      writeFileSync(destPath, newContent, 'utf-8');
+      cache.files[fileCacheKey] = srcHash;
+      saveCache();
+    }
+    return 'translated';
+  }
 
   const translated = await translateTexts(allTexts, lang);
 
