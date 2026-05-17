@@ -495,6 +495,45 @@ const ldJson = JSON.stringify({
     }
     .app-link:hover { opacity: 0.85; }
 
+    /* ── Airport Video Card ── */
+    .airport-video-card {
+      background: #fff;
+      border-radius: 20px;
+      padding: 16px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+      margin-bottom: 16px;
+      animation: fadeUp 0.25s ease;
+    }
+    .airport-video-title {
+      font-size: 14px;
+      font-weight: 700;
+      color: #1a1a1a;
+      margin-bottom: 12px;
+    }
+    .airport-video-wrap {
+      position: relative;
+      width: 100%;
+      padding-bottom: 56.25%;
+      height: 0;
+      border-radius: 12px;
+      overflow: hidden;
+      background: #000;
+    }
+    .airport-video-wrap iframe {
+      position: absolute;
+      top: 0; left: 0;
+      width: 100%; height: 100%;
+      border-radius: 12px;
+    }
+    .airport-video-tip {
+      font-size: 13px;
+      color: #2d7a4f;
+      margin-top: 10px;
+      background: #e8f8ee;
+      border-radius: 10px;
+      padding: 10px 12px;
+    }
+
     /* ── Desktop Layout ── */
     .tool-grid {
       display: grid;
@@ -652,13 +691,29 @@ const ldJson = JSON.stringify({
       <div class="data-source" id="data-source"></div>
     </div>
 
+    <!-- Airport Video -->
+    <div id="airport-video-card" class="airport-video-card" style="display:none">
+      <div class="airport-video-title">📍 機場如何叫 Gojek？看這支影片</div>
+      <div class="airport-video-wrap">
+        <iframe
+          src="https://www.youtube.com/embed/GyKb6DqdTcI"
+          title="峇里島機場叫 Gojek 教學"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+          loading="lazy"
+        ></iframe>
+      </div>
+      <div class="airport-video-tip">✅ 機場有 <strong>Gojek Customer Lounge</strong>，步行前往後即可在 App 叫車</div>
+    </div>
+
     <!-- Notice Box -->
     <div class="notice-box">
       <div class="notice-title">📌 重要提醒</div>
       <ul>
         <li>以上為參考價，實際費用以 Gojek App 即時報價為準</li>
         <li>尖峰時段和下雨天有 1.2–1.5 倍動態加成</li>
-        <li>部分區域（烏布、烏魯瓦圖、機場）有 No-Gojek Zone，需走到指定接駁點</li>
+        <li>部分區域（烏布、烏魯瓦圖）有 No-Gojek Zone，需走到指定接駁點</li>
         <li>距離超過 30 公里或超過 1 小時路線，建議改用包車（一日約 NT$ 1,200–1,800）</li>
       </ul>
     </div>
@@ -706,7 +761,7 @@ const ldJson = JSON.stringify({
         <span class="faq-arrow">›</span>
       </button>
       <div class="faq-a">
-        機場禁止 Gojek 在入境大廳接客。出境後需走到 <strong>Domestic Terminal（國內線航廈）外</strong>的指定接送區才能叫車。路程約步行 5–10 分鐘。建議在 App 上先設定目的地，走到指定點後再叫車，避免在禁區等候。
+        峇里島機場設有專屬的 <strong>Gojek Customer Lounge</strong>，在入境大廳出來後步行前往即可在 App 叫車，完全合法。建議出發前先在 App 設好目的地，到 Lounge 後直接叫車即可。詳細位置請看上方教學影片（選機場為起點後顯示）。
       </div>
     </div>
 
@@ -716,7 +771,7 @@ const ldJson = JSON.stringify({
         <span class="faq-arrow">›</span>
       </button>
       <div class="faq-a">
-        No-Gojek Zone 是由當地計程車工會設立的禁止網約車區域，在這些區域叫車可能導致司機被罰款或乘客發生糾紛。主要禁區包括：烏布市中心、烏魯瓦圖寺廟周邊、機場入境大廳、Tanah Lot 入口、Padang Bai 碼頭。遇到禁區建議走出主要景點區再叫車，或請住宿安排接駁。
+        No-Gojek Zone 是由當地計程車工會設立的禁止網約車區域，在這些區域叫車可能導致司機被罰款或乘客遭到騷擾。主要禁區包括：烏布市中心、烏魯瓦圖寺廟周邊、Tanah Lot 入口、Padang Bai 碼頭。注意：<strong>峇里島機場並非禁區</strong>，設有專屬 Gojek Customer Lounge，入境後步行前往即可叫車。
       </div>
     </div>
 
@@ -877,7 +932,7 @@ const ldJson = JSON.stringify({
 
     function getZoneWarning(zoneId) {
       const warnings = {
-        airport: '⚠️ 機場禁止 Gojek 接客。出境後需步行至 Domestic Terminal 外的指定接送區（約 5–10 分鐘）才能叫車。',
+        airport: '📍 峇里島機場設有 Gojek Customer Lounge，步行前往後即可在 App 叫車，詳見上方教學影片。',
         ubud: '⚠️ 烏布市中心是 No-Gojek Zone。需要走到 Jalan Raya Ubud 外圍才能叫車，或請住宿代叫當地計程車。',
         uluwatu: '⚠️ Uluwatu 是 No-Gojek Zone，特別是 Single Fin 周邊。建議用住宿安排的接駁或包車。',
         tanah_lot: '⚠️ 海神廟入口處禁止 Gojek 下車，需走到主要大路外圍再叫車。',
@@ -970,6 +1025,10 @@ const ldJson = JSON.stringify({
           }
         }
       });
+
+      // Airport video
+      const videoCard = document.getElementById('airport-video-card');
+      videoCard.style.display = fromId === 'airport' ? 'block' : 'none';
 
       document.getElementById('result-card').classList.add('show');
 
