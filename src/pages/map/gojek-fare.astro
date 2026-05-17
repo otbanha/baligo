@@ -285,7 +285,6 @@ const ldJson = JSON.stringify({
     .fare-icon { font-size: 22px; flex-shrink: 0; margin-top: 1px; }
     .fare-label { font-size: 12px; color: #666; font-weight: 600; margin-bottom: 3px; }
     .fare-amount { font-size: 18px; font-weight: 800; color: #1a1a1a; line-height: 1.2; }
-    .fare-twd { font-size: 12px; color: #888; margin-top: 2px; }
 
     .data-source {
       font-size: 12px;
@@ -672,7 +671,6 @@ const ldJson = JSON.stringify({
         <div>
           <div class="fare-label" id="fare-normal-label">一般時段</div>
           <div class="fare-amount" id="fare-normal-amount"></div>
-          <div class="fare-twd" id="fare-normal-twd"></div>
         </div>
       </div>
 
@@ -681,7 +679,6 @@ const ldJson = JSON.stringify({
         <div>
           <div class="fare-label">尖峰加成</div>
           <div class="fare-amount" id="fare-peak-amount"></div>
-          <div class="fare-twd" id="fare-peak-twd"></div>
         </div>
       </div>
 
@@ -920,13 +917,6 @@ const ldJson = JSON.stringify({
       return 'Rp ' + n.toLocaleString('id-ID');
     }
 
-    function rpToTwd(min, max) {
-      const tMin = Math.round(min / 500);
-      const tMax = Math.round(max / 500);
-      const uMin = Math.round(min / 16000);
-      const uMax = Math.round(max / 16000);
-      return `約 NT$ ${tMin.toLocaleString()}–${tMax.toLocaleString()} / US$ ${uMin}–${uMax}`;
-    }
 
     function getZoneWarning(zoneId) {
       const warnings = {
@@ -994,13 +984,11 @@ const ldJson = JSON.stringify({
       document.getElementById('result-meta').textContent = `${currentService === 'gocar' ? '🚗 GoCar' : '🛵 GoRide'} · ${durationText}`;
       document.getElementById('fare-normal-label').textContent = isPeak ? '一般時段（供比較）' : '預估費用';
       document.getElementById('fare-normal-amount').textContent = `${formatRp(normalMin)} – ${formatRp(normalMax)}`;
-      document.getElementById('fare-normal-twd').textContent = rpToTwd(normalMin, normalMax);
 
       const peakEl = document.getElementById('fare-peak');
       if (isPeak) {
         peakEl.style.display = 'flex';
         document.getElementById('fare-peak-amount').textContent = `${formatRp(peakMin)} – ${formatRp(peakMax)}`;
-        document.getElementById('fare-peak-twd').textContent = rpToTwd(peakMin, peakMax);
       } else {
         peakEl.style.display = 'none';
       }
