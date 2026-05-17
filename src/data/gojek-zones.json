@@ -1,7 +1,7 @@
 [
   { "id": "airport", "name_zh": "機場 (DPS)", "name_en": "Bali Airport (DPS)", "lat": -8.7467, "lng": 115.1668, "no_gojek_zone": "lounge" },
   { "id": "kuta", "name_zh": "庫塔 Kuta", "name_en": "Kuta", "lat": -8.7234, "lng": 115.1764, "no_gojek_zone": false },
-  { "id": "legian", "name_zh": "勒吉安 Legian", "name_en": "Legian", "lat": -8.7068, "lng": 115.1716, "no_gojek_zone": false },
+  { "id": "legian", "name_zh": "雷吉安 Legian", "name_en": "Legian", "lat": -8.7068, "lng": 115.1716, "no_gojek_zone": false },
   { "id": "seminyak", "name_zh": "水明漾 Seminyak", "name_en": "Seminyak", "lat": -8.6900, "lng": 115.1681, "no_gojek_zone": false },
   { "id": "canggu", "name_zh": "Canggu 長谷", "name_en": "Canggu", "lat": -8.6478, "lng": 115.1385, "no_gojek_zone": "partial" },
   { "id": "berawa", "name_zh": "Berawa", "name_en": "Berawa", "lat": -8.6620, "lng": 115.1432, "no_gojek_zone": false },
