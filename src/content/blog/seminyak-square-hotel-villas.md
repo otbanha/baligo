@@ -1,7 +1,7 @@
 ---
-title: 【水明漾住宿推薦】Seminyak Square Hotel：下樓就是商場！水明漾最便利機能飯店與私人 Villa 全解析
-slug: ''
-description: 追求極致便利的峇里島假期？開箱 Seminyak Square Hotel and Villas。坐擁水明漾廣場 (Seminyak Square) 二樓絕佳位置，樓下即是餐廳、超市與購物街。本篇解析其商務房與隱密 Villa 的混血優勢，並提供 2026 最新入住心得。教您如何在鬧區中心享受便利生活的同時，依然擁有高品質的度假放鬆感。
+title: "Seminyak Square Hotel and Villas｜水明漾購物中心正上方絕佳位置 2026 - Go Bali Go"
+slug: 'seminyak-square-hotel-villas'
+description: "峇里島最方便的住宿地點！Seminyak Square Hotel and Villas 坐落水明漾知名購物廣場樓上，步行即達頂級餐廳、SPA 與海灘。詳解各房型設施、適合族群與訂房攻略，第一次訪水明漾最省心的住宿選擇。"
 pubDate: 2026-04-17
 pubHour: 16
 category:

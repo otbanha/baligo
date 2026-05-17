@@ -1,6 +1,6 @@
 ---
 title: 【水明漾住宿推荐】The Maya Seminyak Villas：水明漾闹区中的传统秘境、高隐私私人泳池 Villa 首选
-slug: ''
+slug: 'the-maya-seminyak-villas'
 description: >-
   想在热闹的水明漾寻找一片宁静？深度开箱 The Maya Seminyak Villas。这座隐身于巷弄中的宝藏
   Villa，结合了经典巴厘岛传统建筑与现代舒适设备，拥有绝佳隐私性的私人泳池。本篇解析其地理位置优势、住客真实评价与预约建议，带您在繁华中心体验最纯粹的南洋度假灵魂。

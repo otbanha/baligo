@@ -1,7 +1,13 @@
 ---
+<<<<<<< HEAD
 title: 【水明漾住宿推薦】Seminyak 市中心最高評分的浪漫私人 Villa — eqUILIBRIA Seminyak
 slug: ''
 description: 尋找峇里島最完美的蜜月或浪漫退隱地？深度開箱 eqUILIBRIA Seminyak。這座屢獲殊榮的別墅結合了尖端環保設計與 100% 私人管家服務。解析其獨特的瀑布泳池、竹林建築與高科技房控系統。地理位置卓越且鬧中取靜，是您 2026 體驗奢華島嶼生活的終極選擇。
+=======
+slug: 'equilibria-seminyak'
+title: "eqUILIBRIA SEMINYAK｜水明漾藝術設計精品飯店完整開箱 2026 - Go Bali Go"
+description: "水明漾最具設計感的精品旅館！eqUILIBRIA SEMINYAK 以藝術裝置與極簡美學聞名，私人泳池套房與頂樓酒吧 SKYE 是社群熱門打卡地。詳解房型選擇、設施體驗與訂房攻略，峇里島設計旅宿愛好者必看指南。"
+>>>>>>> 98489d47 (SEO: add pillar page backlinks and redirects for bali-ultimate-guide-2026)
 pubDate: 2026-04-19
 pubHour: 16
 category:

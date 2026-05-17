@@ -3,7 +3,7 @@ title: >-
   【Seminyak Hotel Recommendation】IZE Seminyak: The Trendiest Design Boutique
   Hotel in Seminyak, Steps Away from the Food Street, Full Review of Pool Access
   Rooms
-slug: ''
+slug: 'ize-seminyak-hotel-review'
 description: >-
   Stay in the Heart of Seminyak! Unboxing the IZE Seminyak by LifestyleRetreats,
   beloved by trendy travelers. Explore its Nordic minimalist design, unique

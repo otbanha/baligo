@@ -1,4 +1,5 @@
 ---
+slug: 'le-cliff-bali-uluwatu-review'
 title: 【乌鲁瓦图住宿心得】听着海浪入睡！Le Cliff 悬崖酒店实测：行李搬运攻略、冲浪课预约与「猴子霸凌」荒谬现场
 description: >-
   深度记录巴厘岛乌鲁瓦图悬崖之旅。开箱 Le Cliff 震撼海景房，分享行李员搬运阶梯的真实体验与小费建议。解析 Padang Padang 浪点程度、1

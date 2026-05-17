@@ -1,4 +1,5 @@
 ---
+slug: 'le-cliff-bali-uluwatu-review'
 title: >-
   【Uluwatu Accommodation Review】Falling Asleep to the Sound of Waves! Le Cliff
   Hotel Review: Luggage Transport Tips, Surf Lesson Booking & 'Monkey Bullying'

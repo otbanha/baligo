@@ -1,6 +1,6 @@
 ---
 title: 【水明漾住宿推荐】Cross Paasha Bali Seminyak：水明漾市中心精品设计酒店、24小时弹性入住全解析
-slug: ''
+slug: 'cross-paasha-bali-seminyak'
 description: >-
   寻找水明漾最时髦的落脚处？深度开箱 Cross Paasha Bali
   Seminyak。解析这座精品设计酒店的极简套房、绝美高空露天泳池，以及让旅人疯狂的「随时入住、住满 24

@@ -1,6 +1,6 @@
 ---
 title: 【水明漾villa推薦】The Club Villas Seminyak：隱身水明漾美食街巷內嘅傳統泳池別墅、全家出遊高 CP 值首選
-slug: ''
+slug: 'the-club-villas-seminyak'
 description: >-
   想住入水明漾嘅心臟地帶？開箱 The Club Villas Seminyak。呢座別墅緊鄰著名嘅 Eat
   Street，出門口就係熱門餐廳，閂門就享有傳統峇里島風格嘅私人泳池空間。解析佢適合家庭嘅 1-2 房型設計、極高隱私度同 2026

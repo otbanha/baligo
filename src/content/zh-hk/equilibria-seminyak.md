@@ -1,4 +1,5 @@
 ---
+slug: 'equilibria-seminyak'
 title: 【水明漾住宿推薦】Seminyak 市中心最高評分嘅浪漫私人 Villa — eqUILIBRIA Seminyak
 slug: ''
 description: >-

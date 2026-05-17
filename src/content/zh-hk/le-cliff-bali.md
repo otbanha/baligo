@@ -1,4 +1,5 @@
 ---
+slug: 'le-cliff-bali-uluwatu'
 title: 【烏魯瓦圖住宿】Le Cliff Bali 全攻略：烏魯瓦圖懸崖海景第一排、聽住海浪聲入睡嘅極致浪漫
 description: >-
   想搵峇里島最震撼嘅海景房？開箱位於烏魯瓦圖懸崖上嘅 Le Cliff Bali。解析呢間精品酒店點樣實現「床上睇日落」嘅夢想，直通 Padang

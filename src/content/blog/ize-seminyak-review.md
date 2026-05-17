@@ -1,7 +1,7 @@
 ---
-title: 【水明漾住宿推薦】IZE Seminyak：水明漾最潮設計精品飯店、下樓即是美食街、直通泳池房全開箱
-slug: ''
-description: 入住水明漾心臟地帶！開箱深受潮流旅人喜愛的 IZE Seminyak by LifestyleRetreats。解析其北歐簡約設計風格、獨特的頂樓天際泳池與超高 CP 值的直通泳池房。地理位置極佳，步行即可達熱門餐廳與精品店。2026 最新入住心得，帶您體驗結合都會時尚與海島悠閒的極致住宿饗宴。
+title: "IZE Seminyak｜水明漾高 CP 值精品飯店深度評測 2026 - Go Bali Go"
+slug: 'ize-seminyak-hotel-review'
+description: "水明漾 CP 值最高的精品設計旅館之一！IZE Seminyak 以合理價位提供精緻設計感客房、屋頂無邊際泳池與超便利位置。詳解各房型差異、設施使用心得與訂房時機，首訪水明漾旅客的強力推薦。"
 pubDate: 2026-04-18
 pubHour: 16
 category:

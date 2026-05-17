@@ -1,4 +1,5 @@
 ---
+slug: 'the-club-villas-seminyak'
 title: >-
   【Seminyak Villa Recommendation】The Club Villas Seminyak: Traditional Pool
   Villas Hidden in Seminyak's Foodie Alley, Top CP Value Choice for Family Trips

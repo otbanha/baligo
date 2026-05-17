@@ -1,4 +1,5 @@
 ---
+slug: 'le-cliff-bali-uluwatu'
 title: 【乌鲁瓦图住宿】Le Cliff Bali 全攻略：乌鲁瓦图悬崖海景第一排、听着海浪入睡的极致浪漫
 description: >-
   寻找巴厘岛最震撼的海景房？开箱位于乌鲁瓦图悬崖上的 Le Cliff Bali。解析这座精品酒店如何实现「床上看夕阳」的梦想，直通 Padang

@@ -1,4 +1,5 @@
 ---
+slug: 'the-meru-sanur'
 title: 【巴厘岛住宿推荐】The Meru Sanur：沙努尔最美五星疗愈度假村、全海景套房与顶级 SPA 体验
 description: >-
   寻找巴厘岛最具层次的放松体验？深度开箱沙努尔最新地标 The Meru

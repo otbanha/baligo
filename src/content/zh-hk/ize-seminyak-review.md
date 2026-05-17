@@ -1,6 +1,6 @@
 ---
 title: 【水明漾住宿推薦】IZE Seminyak：水明漾最潮設計精品酒店、落樓就係美食街、直通泳池房全開箱
-slug: ''
+slug: 'ize-seminyak-hotel-review'
 description: >-
   入住水明漾心臟地帶！開箱深受潮流旅人喜愛嘅 IZE Seminyak by
   LifestyleRetreats。解析其北歐簡約設計風格、獨特嘅頂樓天際泳池與超高 CP

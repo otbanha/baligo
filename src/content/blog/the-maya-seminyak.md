@@ -1,7 +1,7 @@
 ---
-title: 【水明漾住宿推薦】The Maya Seminyak Villas：水明漾鬧區中的傳統秘境、高隱私私人泳池 Villa 首選
-slug: ''
-description: 想在熱鬧的水明漾尋找一片寧靜？深度開箱 The Maya Seminyak Villas。這座隱身於巷弄中的寶藏 Villa，結合了經典峇里島傳統建築與現代舒適設備，擁有絕佳私密性的私人泳池。本篇解析其地理位置優勢、住客真實評價與預約建議，帶您在繁華中心體驗最純粹的南洋度假靈魂。
+title: "The Maya Seminyak Villas｜水明漾鬧中取靜私人泳池 Villa 推薦 2026 - Go Bali Go"
+slug: 'the-maya-seminyak-villas'
+description: "水明漾最具隱私感的精品 Villa！The Maya Seminyak Villas 藏身 Kayu Aya 街巷弄，11 間全私人泳池別墅，步行可達頂級餐廳與購物中心。詳解住宿體驗、房型差異與 Maya Sayang Spa，水明漾蜜月 Villa 的絕佳選擇。"
 pubDate: 2026-04-16
 pubHour: 16
 category:

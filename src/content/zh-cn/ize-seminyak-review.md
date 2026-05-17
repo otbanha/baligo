@@ -1,6 +1,6 @@
 ---
 title: 【水明漾住宿推荐】IZE Seminyak：水明漾最潮设计精品酒店、下楼即是美食街、直通泳池房全开箱
-slug: ''
+slug: 'ize-seminyak-hotel-review'
 description: >-
   入住水明漾心脏地带！开箱深受潮流旅人喜爱的 IZE Seminyak by
   LifestyleRetreats。解析其北欧简约设计风格、独特的顶楼天际泳池与超高 CP

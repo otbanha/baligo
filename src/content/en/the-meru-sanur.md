@@ -1,4 +1,5 @@
 ---
+slug: 'the-meru-sanur'
 title: >-
   【Bali Accommodation Recommendation】The Meru Sanur: Sanur's Most Beautiful
   5-Star Healing Resort, All-Ocean View Suites & Premium SPA Experience

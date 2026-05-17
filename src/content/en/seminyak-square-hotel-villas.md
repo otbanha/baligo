@@ -3,7 +3,7 @@ title: >-
   【Seminyak Accommodation Recommendation】Seminyak Square Hotel: Shopping Mall
   Right Downstairs! A Complete Guide to Seminyak's Most Convenient Hotel and
   Private Villas
-slug: ''
+slug: 'seminyak-square-hotel-villas'
 description: >-
   Looking for the ultimate convenience for your Bali getaway? Check out Seminyak
   Square Hotel and Villas. Perched on the second floor of Seminyak Square, this

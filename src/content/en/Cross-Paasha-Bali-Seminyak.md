@@ -3,7 +3,7 @@ title: >-
   【Seminyak Accommodation Recommendation】Cross Paasha Bali Seminyak: A Boutique
   Design Hotel in the Heart of Seminyak, Full Analysis of 24-Hour Flexible
   Check-In
-slug: ''
+slug: 'cross-paasha-bali-seminyak'
 description: >-
   Looking for the most stylish place to stay in Seminyak? Dive into Cross Paasha
   Bali Seminyak. Explore the minimalist suites, stunning rooftop pool, and the

@@ -1,4 +1,5 @@
 ---
+slug: 'the-meru-sanur'
 title: 【峇里島住宿推薦】The Meru Sanur：沙努爾最靚五星療癒度假村、全海景套房同頂級 SPA 體驗
 description: >-
   想搵峇里島最層次嘅放鬆體驗？深度開箱沙努爾最新地標 The Meru

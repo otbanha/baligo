@@ -2,7 +2,7 @@
 title: >-
   【Seminyak Accommodation Recommendation】The Maya Seminyak Villas: A Traditional
   Hideaway in the Heart of Seminyak, Top Choice for Private Pool Villas
-slug: ''
+slug: 'the-maya-seminyak-villas'
 description: >-
   Looking for tranquility amidst the bustling Seminyak? Dive into The Maya
   Seminyak Villas. This hidden gem tucked away in the alleys combines classic

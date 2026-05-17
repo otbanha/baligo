@@ -1,4 +1,5 @@
 ---
+slug: 'bvlgari-resort-bali-uluwatu'
 title: >-
   【Bali Accommodation】Bvlgari Resort Bali: The Pinnacle of Uluwatu Cliffs, A
   Comprehensive Guide to the Celebrity-Favorite Luxury Secluded Villas

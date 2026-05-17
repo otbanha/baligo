@@ -1,4 +1,5 @@
 ---
+slug: 'bvlgari-resort-bali-uluwatu'
 title: 【峇里島住宿】寶格麗度假村 Bvlgari Resort Bali：烏魯瓦圖懸崖巔峰之作、名人首選嘅奢華隱世別墅全解析
 description: >-
   搵峇里島最極致嘅奢華體驗？開箱峇里島傳奇頂奢嘅寶格麗渡假村 Bvlgari Resort Bali。呢座坐落喺 150

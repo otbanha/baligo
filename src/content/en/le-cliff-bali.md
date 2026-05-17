@@ -1,4 +1,5 @@
 ---
+slug: 'le-cliff-bali-uluwatu'
 title: >-
   【Uluwatu Accommodation】Le Cliff Bali Complete Guide: Front Row Cliffside Ocean
   Views, Falling Asleep to the Sound of Waves for Ultimate Romance
