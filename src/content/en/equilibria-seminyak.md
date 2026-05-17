@@ -3,7 +3,6 @@ slug: 'equilibria-seminyak'
 title: >-
   【Seminyak Accommodation Recommendation】eqUILIBRIA Seminyak — The Highest Rated
   Romantic Private Villa in Central Seminyak
-slug: ''
 description: >-
   Looking for the perfect honeymoon or romantic retreat in Bali? Dive into an
   in-depth review of eqUILIBRIA Seminyak. This award-winning villa combines
