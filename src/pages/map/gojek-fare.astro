@@ -12,35 +12,36 @@ const lang = 'zh-tw';
 const lastUpdated = '2026-05-17';
 const zonesJson = JSON.stringify(zonesData);
 const faresJson = JSON.stringify(faresData);
+const ldJson = JSON.stringify({
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebApplication",
+      "name": "峇里島 Gojek 費用查詢",
+      "description": description,
+      "url": "https://gobaligo.id/map/gojek-fare/",
+      "applicationCategory": "TravelApplication",
+      "operatingSystem": "Web Browser",
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "TWD" },
+      "inLanguage": "zh-TW"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "首頁", "item": "https://gobaligo.id/" },
+        { "@type": "ListItem", "position": 2, "name": "主題地圖", "item": "https://gobaligo.id/map/" },
+        { "@type": "ListItem", "position": 3, "name": "Gojek 費用查詢", "item": "https://gobaligo.id/map/gojek-fare/" }
+      ]
+    }
+  ]
+});
 ---
 
 <html lang="zh-TW">
 <head>
   <BaseHead title={title} description={description} />
   <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
-  <script type="application/ld+json">{JSON.stringify({
-    "@context": "https://schema.org",
-    "@graph": [
-      {
-        "@type": "WebApplication",
-        "name": "峇里島 Gojek 費用查詢",
-        "description": description,
-        "url": "https://gobaligo.id/map/gojek-fare/",
-        "applicationCategory": "TravelApplication",
-        "operatingSystem": "Web Browser",
-        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "TWD" },
-        "inLanguage": "zh-TW"
-      },
-      {
-        "@type": "BreadcrumbList",
-        "itemListElement": [
-          { "@type": "ListItem", "position": 1, "name": "首頁", "item": "https://gobaligo.id/" },
-          { "@type": "ListItem", "position": 2, "name": "主題地圖", "item": "https://gobaligo.id/map/" },
-          { "@type": "ListItem", "position": 3, "name": "Gojek 費用查詢", "item": "https://gobaligo.id/map/gojek-fare/" }
-        ]
-      }
-    ]
-  })}</script>
+  <script type="application/ld+json" set:html={ldJson}></script>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -809,7 +810,7 @@ const faresJson = JSON.stringify(faresData);
 
   <Footer />
 
-  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV/XN/WLs=" crossorigin=""></script>
+  <script is:inline src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV/XN/WLs=" crossorigin=""></script>
 
   <script is:inline define:vars={{ zonesJson, faresJson }}>
     const zones = JSON.parse(zonesJson);
@@ -833,13 +834,13 @@ const faresJson = JSON.stringify(faresData);
       });
     }
 
-    function setService(svc) {
+    window.setService = function setService(svc) {
       currentService = svc;
       document.getElementById('btn-gocar').classList.toggle('active', svc === 'gocar');
       document.getElementById('btn-goride').classList.toggle('active', svc === 'goride');
     }
 
-    function swapZones() {
+    window.swapZones = function swapZones() {
       const fromEl = document.getElementById('from-zone');
       const toEl = document.getElementById('to-zone');
       const tmp = fromEl.value;
@@ -887,7 +888,7 @@ const faresJson = JSON.stringify(faresData);
       return warnings[zoneId] || null;
     }
 
-    function calcFare() {
+    window.calcFare = function calcFare() {
       const fromId = document.getElementById('from-zone').value;
       const toId = document.getElementById('to-zone').value;
       const isPeak = document.getElementById('peak-toggle').checked;
@@ -1014,7 +1015,7 @@ const faresJson = JSON.stringify(faresData);
       leafletMap.fitBounds([[fromZone.lat, fromZone.lng], [toZone.lat, toZone.lng]], { padding: [40, 40] });
     }
 
-    function toggleFaq(btn) {
+    window.toggleFaq = function toggleFaq(btn) {
       const ans = btn.nextElementSibling;
       const isOpen = ans.classList.contains('open');
       // Close all
