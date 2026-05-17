@@ -17,6 +17,8 @@ lang: zh-cn
 _srcHash: 03d81bfd181c7b524c2aac604ffea415
 ---
 
+[🚗 想預估 Gojek 車資？請點擊這裡](https://gobaligo.id/map/gojek-fare/)
+
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
 
 ## Gojek / Grab 的使用方法
