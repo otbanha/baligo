@@ -1,41 +1,14 @@
 # Root homepage is now src/pages/index.astro (SEO page with JS redirect to /blog)
 
 # =============================================
-# 住宿推薦 SEO 301 轉址 — P1 頂級品牌
+# 手寫 slug 別名轉址（大小寫、舊 slug 修正）
 # =============================================
 /blog/Bvlgari-Resort-Bali/ /blog/bvlgari-resort-bali-uluwatu/ 301
 /zh-cn/blog/Bvlgari-Resort-Bali/ /zh-cn/blog/bvlgari-resort-bali-uluwatu/ 301
 /zh-hk/blog/Bvlgari-Resort-Bali/ /zh-hk/blog/bvlgari-resort-bali-uluwatu/ 301
 /en/blog/Bvlgari-Resort-Bali/ /en/blog/bvlgari-resort-bali-uluwatu/ 301
 
-/blog/2024-04-22-660ff581fd89780001f31315/ /blog/apurva-kempinski-bali-nusa-dua/ 301
-/zh-cn/blog/2024-04-22-660ff581fd89780001f31315/ /zh-cn/blog/apurva-kempinski-bali-nusa-dua/ 301
-/zh-hk/blog/2024-04-22-660ff581fd89780001f31315/ /zh-hk/blog/apurva-kempinski-bali-nusa-dua/ 301
-/en/blog/2024-04-22-660ff581fd89780001f31315/ /en/blog/apurva-kempinski-bali-nusa-dua/ 301
 
-/blog/2023-10-26-653914f6fd89780001fef733/ /blog/ayana-resort-bali-guide/ 301
-/zh-cn/blog/2023-10-26-653914f6fd89780001fef733/ /zh-cn/blog/ayana-resort-bali-guide/ 301
-/zh-hk/blog/2023-10-26-653914f6fd89780001fef733/ /zh-hk/blog/ayana-resort-bali-guide/ 301
-/en/blog/2023-10-26-653914f6fd89780001fef733/ /en/blog/ayana-resort-bali-guide/ 301
-
-/blog/2025-04-06-67f1f8fbfd89780001607840/ /blog/alila-villas-uluwatu-bali/ 301
-/zh-cn/blog/2025-04-06-67f1f8fbfd89780001607840/ /zh-cn/blog/alila-villas-uluwatu-bali/ 301
-/zh-hk/blog/2025-04-06-67f1f8fbfd89780001607840/ /zh-hk/blog/alila-villas-uluwatu-bali/ 301
-/en/blog/2025-04-06-67f1f8fbfd89780001607840/ /en/blog/alila-villas-uluwatu-bali/ 301
-
-/blog/2024-08-09-66b5be79fd897800016df66e/ /blog/four-seasons-bali-jimbaran-bay/ 301
-/zh-cn/blog/2024-08-09-66b5be79fd897800016df66e/ /zh-cn/blog/four-seasons-bali-jimbaran-bay/ 301
-/zh-hk/blog/2024-08-09-66b5be79fd897800016df66e/ /zh-hk/blog/four-seasons-bali-jimbaran-bay/ 301
-/en/blog/2024-08-09-66b5be79fd897800016df66e/ /en/blog/four-seasons-bali-jimbaran-bay/ 301
-
-/blog/2025-01-20-678e30cbfd89780001f72fc6/ /blog/radisson-blu-bali-uluwatu/ 301
-/zh-cn/blog/2025-01-20-678e30cbfd89780001f72fc6/ /zh-cn/blog/radisson-blu-bali-uluwatu/ 301
-/zh-hk/blog/2025-01-20-678e30cbfd89780001f72fc6/ /zh-hk/blog/radisson-blu-bali-uluwatu/ 301
-/en/blog/2025-01-20-678e30cbfd89780001f72fc6/ /en/blog/radisson-blu-bali-uluwatu/ 301
-
-# =============================================
-# P2 — 水明漾 Villa 系列
-# =============================================
 /blog/Seminyak-Square%20Hotel%20and%20Villas/ /blog/seminyak-square-hotel-villas/ 301
 /zh-cn/blog/Seminyak-Square%20Hotel%20and%20Villas/ /zh-cn/blog/seminyak-square-hotel-villas/ 301
 /zh-hk/blog/Seminyak-Square%20Hotel%20and%20Villas/ /zh-hk/blog/seminyak-square-hotel-villas/ 301
@@ -66,45 +39,205 @@
 /zh-hk/blog/the-maya-seminyak/ /zh-hk/blog/the-maya-seminyak-villas/ 301
 /en/blog/the-maya-seminyak/ /en/blog/the-maya-seminyak-villas/ 301
 
-# =============================================
-# P3 — 區域攻略文章
-# =============================================
-/blog/2023-11-04-6544f321fd89780001bb240c/ /blog/uluwatu-bali-villas-resorts-guide/ 301
-/zh-cn/blog/2023-11-04-6544f321fd89780001bb240c/ /zh-cn/blog/uluwatu-bali-villas-resorts-guide/ 301
-/zh-hk/blog/2023-11-04-6544f321fd89780001bb240c/ /zh-hk/blog/uluwatu-bali-villas-resorts-guide/ 301
-/en/blog/2023-11-04-6544f321fd89780001bb240c/ /en/blog/uluwatu-bali-villas-resorts-guide/ 301
-
-/blog/2024-02-20-65d21157fd897800013be576/ /blog/ubud-villas-pool-guide/ 301
-/zh-cn/blog/2024-02-20-65d21157fd897800013be576/ /zh-cn/blog/ubud-villas-pool-guide/ 301
-/zh-hk/blog/2024-02-20-65d21157fd897800013be576/ /zh-hk/blog/ubud-villas-pool-guide/ 301
-/en/blog/2024-02-20-65d21157fd897800013be576/ /en/blog/ubud-villas-pool-guide/ 301
-
-/blog/2024-07-27-66a4562afd89780001d70329/ /blog/nusa-dua-resorts-guide/ 301
-/zh-cn/blog/2024-07-27-66a4562afd89780001d70329/ /zh-cn/blog/nusa-dua-resorts-guide/ 301
-/zh-hk/blog/2024-07-27-66a4562afd89780001d70329/ /zh-hk/blog/nusa-dua-resorts-guide/ 301
-/en/blog/2024-07-27-66a4562afd89780001d70329/ /en/blog/nusa-dua-resorts-guide/ 301
-
-/blog/2024-08-07-66b20b15fd89780001ceef6b/ /blog/canggu-villas-guide/ 301
-/zh-cn/blog/2024-08-07-66b20b15fd89780001ceef6b/ /zh-cn/blog/canggu-villas-guide/ 301
-/zh-hk/blog/2024-08-07-66b20b15fd89780001ceef6b/ /zh-hk/blog/canggu-villas-guide/ 301
-/en/blog/2024-08-07-66b20b15fd89780001ceef6b/ /en/blog/canggu-villas-guide/ 301
-
+# === auto-generated slug redirects (start) ===
 /blog/2023-08-03-64db6b88fd897800013a9a4c/ /blog/bali-honeymoon-resorts-guide/ 301
-/zh-cn/blog/2023-08-03-64db6b88fd897800013a9a4c/ /zh-cn/blog/bali-honeymoon-resorts-guide/ 301
-/zh-hk/blog/2023-08-03-64db6b88fd897800013a9a4c/ /zh-hk/blog/bali-honeymoon-resorts-guide/ 301
-/en/blog/2023-08-03-64db6b88fd897800013a9a4c/ /en/blog/bali-honeymoon-resorts-guide/ 301
-
 /blog/2023-08-15-64db6b6dfd897800013a930e/ /blog/bali-best-villas-top20-part1/ 301
-/zh-cn/blog/2023-08-15-64db6b6dfd897800013a930e/ /zh-cn/blog/bali-best-villas-top20-part1/ 301
-/zh-hk/blog/2023-08-15-64db6b6dfd897800013a930e/ /zh-hk/blog/bali-best-villas-top20-part1/ 301
-/en/blog/2023-08-15-64db6b6dfd897800013a930e/ /en/blog/bali-best-villas-top20-part1/ 301
-
 /blog/2023-08-15-64db6b74fd897800013a9512/ /blog/bali-best-villas-top20-part2/ 301
-/zh-cn/blog/2023-08-15-64db6b74fd897800013a9512/ /zh-cn/blog/bali-best-villas-top20-part2/ 301
-/zh-hk/blog/2023-08-15-64db6b74fd897800013a9512/ /zh-hk/blog/bali-best-villas-top20-part2/ 301
-/en/blog/2023-08-15-64db6b74fd897800013a9512/ /en/blog/bali-best-villas-top20-part2/ 301
-
 /blog/2023-08-19-64e063fafd8978000123ea12/ /blog/seminyak-budget-hotels-guide/ 301
-/zh-cn/blog/2023-08-19-64e063fafd8978000123ea12/ /zh-cn/blog/seminyak-budget-hotels-guide/ 301
-/zh-hk/blog/2023-08-19-64e063fafd8978000123ea12/ /zh-hk/blog/seminyak-budget-hotels-guide/ 301
+/blog/2023-10-26-653914f6fd89780001fef733/ /blog/ayana-resort-bali-guide/ 301
+/blog/2023-11-04-6544f321fd89780001bb240c/ /blog/uluwatu-bali-villas-resorts-guide/ 301
+/blog/2024-02-20-65d21157fd897800013be576/ /blog/ubud-villas-pool-guide/ 301
+/blog/2024-04-03-660d1d54fd89780001dc5bbb/ /blog/yt-things-to-do-in-Bali/ 301
+/blog/2024-04-22-660ff581fd89780001f31315/ /blog/apurva-kempinski-bali-nusa-dua/ 301
+/blog/2024-07-27-66a4562afd89780001d70329/ /blog/nusa-dua-resorts-guide/ 301
+/blog/2024-08-07-66b20b15fd89780001ceef6b/ /blog/canggu-villas-guide/ 301
+/blog/2024-08-09-66b5be79fd897800016df66e/ /blog/four-seasons-bali-jimbaran-bay/ 301
+/blog/2025-01-20-678e30cbfd89780001f72fc6/ /blog/radisson-blu-bali-uluwatu/ 301
+/blog/2025-04-06-67f1f8fbfd89780001607840/ /blog/alila-villas-uluwatu-bali/ 301
+/blog/2025-10-09-68c032e6fd89780001b54489/ /blog/ljs-travel-with-scooter-bali/ 301
+/blog/2026-04-27-012114/ /blog/bali-levy-check-warning/ 301
+/blog/2026-04-27-043902/ /blog/bali-food-entry-rules/ 301
+/blog/2026-04-28-073424/ /blog/bali-visa-extent-locations/ 301
+/blog/2026-04-28-093913/ /blog/regent-bali-canggu/ 301
+/blog/2026-04-29-143405/ /blog/alaya-suites-ubud/ 301
+/blog/2026-04-29-152044/ /blog/30-04-2026-bali-news/ 301
+/blog/2026-04-30-154841/ /blog/01-05-2026-bali-news/ 301
+/blog/2026-05-02-020621/ /blog/02052026-bali-news/ 301
+/blog/2026-05-02-030055/ /blog/bali-do-and-dont-2026/ 301
+/blog/2026-05-03-150058/ /blog/04-05-2026-bali-news/ 301
+/blog/2026-05-04-160413/ /blog/05-05-2026-bali-news/ 301
+/blog/2026-05-05-120914/ /blog/05-05-2026-indonesia-news/ 301
+/blog/2026-05-05-143838/ /blog/06-05-2026-bali-news/ 301
+/blog/2026-05-05-145258/ /blog/ubud-etle-parking/ 301
+/blog/2026-05-06-004619/ /blog/petai/ 301
+/blog/2026-05-06-012505/ /blog/bali-visitor-trends-2026/ 301
+/blog/2026-05-06-105230/ /blog/RC-Villas-Spa-Seminyak/ 301
+/blog/2026-05-06-135742/ /blog/seminyak-eat-street-guide/ 301
+/blog/2026-05-06-162200/ /blog/07-05-2026-bali-news/ 301
+/blog/2026-05-07-145041/ /blog/08-05-2026-bali-news/ 301
+/blog/2026-05-08-150807/ /blog/09-05-2026-bali-news/ 301
+/blog/2026-05-10-110156/ /blog/bali-waste-crisis-2026/ 301
+/blog/2026-05-10-153658/ /blog/11-may-2026-bali-news/ 301
+/blog/2026-05-12-002510/ /blog/12-may-2026-bali-news/ 301
+/blog/2026-05-12-073014/ /blog/bali-official-visa-guide/ 301
+/blog/2026-05-12-114041/ /blog/Locca-Sea-House/ 301
+/blog/2026-05-12-161449/ /blog/13-may-2026-Bali-News/ 301
+/blog/2026-05-13-062132/ /blog/2026-kuta-upgrade/ 301
+/blog/2026-05-14-005510/ /blog/14-may-2026-bali-news/ 301
+/blog/2026-05-14-152944/ /blog/15-may-2026-bali-news/ 301
+/blog/2026-05-15-154507/ /blog/16-May-2026-Bali-News/ 301
+/blog/2026-05-16-105122/ /blog/Jas-Green-Villas-and-Spa/ 301
+/blog/2026-05-16-150316/ /blog/seminyak-eat-street-hotels-villas/ 301
+/blog/2026-05-17-024144/ /blog/bali-travel-insurance-guide/ 301
+/blog/2026-05-17-050259/ /blog/bali-ultimate-guide-2026/ 301
+/en/blog/2023-08-03-64db6b88fd897800013a9a4c/ /en/blog/bali-honeymoon-resorts-guide/ 301
+/en/blog/2023-08-15-64db6b6dfd897800013a930e/ /en/blog/bali-best-villas-top20-part1/ 301
+/en/blog/2023-08-15-64db6b74fd897800013a9512/ /en/blog/bali-best-villas-top20-part2/ 301
 /en/blog/2023-08-19-64e063fafd8978000123ea12/ /en/blog/seminyak-budget-hotels-guide/ 301
+/en/blog/2023-10-26-653914f6fd89780001fef733/ /en/blog/ayana-resort-bali-guide/ 301
+/en/blog/2023-11-04-6544f321fd89780001bb240c/ /en/blog/uluwatu-bali-villas-resorts-guide/ 301
+/en/blog/2024-02-20-65d21157fd897800013be576/ /en/blog/ubud-villas-pool-guide/ 301
+/en/blog/2024-04-03-660d1d54fd89780001dc5bbb/ /en/blog/yt-things-to-do-in-Bali/ 301
+/en/blog/2024-04-22-660ff581fd89780001f31315/ /en/blog/apurva-kempinski-bali-nusa-dua/ 301
+/en/blog/2024-07-27-66a4562afd89780001d70329/ /en/blog/nusa-dua-resorts-guide/ 301
+/en/blog/2024-08-07-66b20b15fd89780001ceef6b/ /en/blog/canggu-villas-guide/ 301
+/en/blog/2024-08-09-66b5be79fd897800016df66e/ /en/blog/four-seasons-bali-jimbaran-bay/ 301
+/en/blog/2025-01-20-678e30cbfd89780001f72fc6/ /en/blog/radisson-blu-bali-uluwatu/ 301
+/en/blog/2025-04-06-67f1f8fbfd89780001607840/ /en/blog/alila-villas-uluwatu-bali/ 301
+/en/blog/2025-10-09-68c032e6fd89780001b54489/ /en/blog/ljs-travel-with-scooter-bali/ 301
+/en/blog/2026-04-27-012114/ /en/blog/bali-levy-check-warning/ 301
+/en/blog/2026-04-27-043902/ /en/blog/bali-food-entry-rules/ 301
+/en/blog/2026-04-28-073424/ /en/blog/bali-visa-extent-locations/ 301
+/en/blog/2026-04-28-093913/ /en/blog/regent-bali-canggu/ 301
+/en/blog/2026-04-29-143405/ /en/blog/alaya-suites-ubud/ 301
+/en/blog/2026-04-29-152044/ /en/blog/30-04-2026-bali-news/ 301
+/en/blog/2026-04-30-154841/ /en/blog/01-05-2026-bali-news/ 301
+/en/blog/2026-05-02-020621/ /en/blog/02052026-bali-news/ 301
+/en/blog/2026-05-02-030055/ /en/blog/bali-do-and-dont-2026/ 301
+/en/blog/2026-05-03-150058/ /en/blog/04-05-2026-bali-news/ 301
+/en/blog/2026-05-04-160413/ /en/blog/05-05-2026-bali-news/ 301
+/en/blog/2026-05-05-120914/ /en/blog/05-05-2026-indonesia-news/ 301
+/en/blog/2026-05-05-143838/ /en/blog/06-05-2026-bali-news/ 301
+/en/blog/2026-05-05-145258/ /en/blog/ubud-etle-parking/ 301
+/en/blog/2026-05-06-004619/ /en/blog/petai/ 301
+/en/blog/2026-05-06-012505/ /en/blog/bali-visitor-trends-2026/ 301
+/en/blog/2026-05-06-105230/ /en/blog/RC-Villas-Spa-Seminyak/ 301
+/en/blog/2026-05-06-135742/ /en/blog/seminyak-eat-street-guide/ 301
+/en/blog/2026-05-06-162200/ /en/blog/07-05-2026-bali-news/ 301
+/en/blog/2026-05-07-145041/ /en/blog/08-05-2026-bali-news/ 301
+/en/blog/2026-05-08-150807/ /en/blog/09-05-2026-bali-news/ 301
+/en/blog/2026-05-10-110156/ /en/blog/bali-waste-crisis-2026/ 301
+/en/blog/2026-05-10-153658/ /en/blog/11-may-2026-bali-news/ 301
+/en/blog/2026-05-12-002510/ /en/blog/12-may-2026-bali-news/ 301
+/en/blog/2026-05-12-073014/ /en/blog/bali-official-visa-guide/ 301
+/en/blog/2026-05-12-114041/ /en/blog/Locca-Sea-House/ 301
+/en/blog/2026-05-12-161449/ /en/blog/13-may-2026-Bali-News/ 301
+/en/blog/2026-05-13-062132/ /en/blog/2026-kuta-upgrade/ 301
+/en/blog/2026-05-14-005510/ /en/blog/14-may-2026-bali-news/ 301
+/en/blog/2026-05-14-152944/ /en/blog/15-may-2026-bali-news/ 301
+/en/blog/2026-05-15-154507/ /en/blog/16-May-2026-Bali-News/ 301
+/en/blog/2026-05-16-105122/ /en/blog/Jas-Green-Villas-and-Spa/ 301
+/en/blog/2026-05-16-150316/ /en/blog/seminyak-eat-street-hotels-villas/ 301
+/en/blog/2026-05-17-024144/ /en/blog/bali-travel-insurance-guide/ 301
+/en/blog/2026-05-17-050259/ /en/blog/bali-ultimate-guide-2026/ 301
+/zh-cn/blog/2023-08-03-64db6b88fd897800013a9a4c/ /zh-cn/blog/bali-honeymoon-resorts-guide/ 301
+/zh-cn/blog/2023-08-15-64db6b6dfd897800013a930e/ /zh-cn/blog/bali-best-villas-top20-part1/ 301
+/zh-cn/blog/2023-08-15-64db6b74fd897800013a9512/ /zh-cn/blog/bali-best-villas-top20-part2/ 301
+/zh-cn/blog/2023-08-19-64e063fafd8978000123ea12/ /zh-cn/blog/seminyak-budget-hotels-guide/ 301
+/zh-cn/blog/2023-10-26-653914f6fd89780001fef733/ /zh-cn/blog/ayana-resort-bali-guide/ 301
+/zh-cn/blog/2023-11-04-6544f321fd89780001bb240c/ /zh-cn/blog/uluwatu-bali-villas-resorts-guide/ 301
+/zh-cn/blog/2024-02-20-65d21157fd897800013be576/ /zh-cn/blog/ubud-villas-pool-guide/ 301
+/zh-cn/blog/2024-04-03-660d1d54fd89780001dc5bbb/ /zh-cn/blog/yt-things-to-do-in-Bali/ 301
+/zh-cn/blog/2024-04-22-660ff581fd89780001f31315/ /zh-cn/blog/apurva-kempinski-bali-nusa-dua/ 301
+/zh-cn/blog/2024-07-27-66a4562afd89780001d70329/ /zh-cn/blog/nusa-dua-resorts-guide/ 301
+/zh-cn/blog/2024-08-07-66b20b15fd89780001ceef6b/ /zh-cn/blog/canggu-villas-guide/ 301
+/zh-cn/blog/2024-08-09-66b5be79fd897800016df66e/ /zh-cn/blog/four-seasons-bali-jimbaran-bay/ 301
+/zh-cn/blog/2025-01-20-678e30cbfd89780001f72fc6/ /zh-cn/blog/radisson-blu-bali-uluwatu/ 301
+/zh-cn/blog/2025-04-06-67f1f8fbfd89780001607840/ /zh-cn/blog/alila-villas-uluwatu-bali/ 301
+/zh-cn/blog/2025-10-09-68c032e6fd89780001b54489/ /zh-cn/blog/ljs-travel-with-scooter-bali/ 301
+/zh-cn/blog/2026-04-27-012114/ /zh-cn/blog/bali-levy-check-warning/ 301
+/zh-cn/blog/2026-04-27-043902/ /zh-cn/blog/bali-food-entry-rules/ 301
+/zh-cn/blog/2026-04-28-073424/ /zh-cn/blog/bali-visa-extent-locations/ 301
+/zh-cn/blog/2026-04-28-093913/ /zh-cn/blog/regent-bali-canggu/ 301
+/zh-cn/blog/2026-04-29-143405/ /zh-cn/blog/alaya-suites-ubud/ 301
+/zh-cn/blog/2026-04-29-152044/ /zh-cn/blog/30-04-2026-bali-news/ 301
+/zh-cn/blog/2026-04-30-154841/ /zh-cn/blog/01-05-2026-bali-news/ 301
+/zh-cn/blog/2026-05-02-020621/ /zh-cn/blog/02052026-bali-news/ 301
+/zh-cn/blog/2026-05-02-030055/ /zh-cn/blog/bali-do-and-dont-2026/ 301
+/zh-cn/blog/2026-05-03-150058/ /zh-cn/blog/04-05-2026-bali-news/ 301
+/zh-cn/blog/2026-05-04-160413/ /zh-cn/blog/05-05-2026-bali-news/ 301
+/zh-cn/blog/2026-05-05-120914/ /zh-cn/blog/05-05-2026-indonesia-news/ 301
+/zh-cn/blog/2026-05-05-143838/ /zh-cn/blog/06-05-2026-bali-news/ 301
+/zh-cn/blog/2026-05-05-145258/ /zh-cn/blog/ubud-etle-parking/ 301
+/zh-cn/blog/2026-05-06-004619/ /zh-cn/blog/petai/ 301
+/zh-cn/blog/2026-05-06-012505/ /zh-cn/blog/bali-visitor-trends-2026/ 301
+/zh-cn/blog/2026-05-06-105230/ /zh-cn/blog/RC-Villas-Spa-Seminyak/ 301
+/zh-cn/blog/2026-05-06-135742/ /zh-cn/blog/seminyak-eat-street-guide/ 301
+/zh-cn/blog/2026-05-06-162200/ /zh-cn/blog/07-05-2026-bali-news/ 301
+/zh-cn/blog/2026-05-07-145041/ /zh-cn/blog/08-05-2026-bali-news/ 301
+/zh-cn/blog/2026-05-08-150807/ /zh-cn/blog/09-05-2026-bali-news/ 301
+/zh-cn/blog/2026-05-10-110156/ /zh-cn/blog/bali-waste-crisis-2026/ 301
+/zh-cn/blog/2026-05-10-153658/ /zh-cn/blog/11-may-2026-bali-news/ 301
+/zh-cn/blog/2026-05-12-002510/ /zh-cn/blog/12-may-2026-bali-news/ 301
+/zh-cn/blog/2026-05-12-073014/ /zh-cn/blog/bali-official-visa-guide/ 301
+/zh-cn/blog/2026-05-12-114041/ /zh-cn/blog/Locca-Sea-House/ 301
+/zh-cn/blog/2026-05-12-161449/ /zh-cn/blog/13-may-2026-Bali-News/ 301
+/zh-cn/blog/2026-05-13-062132/ /zh-cn/blog/2026-kuta-upgrade/ 301
+/zh-cn/blog/2026-05-14-005510/ /zh-cn/blog/14-may-2026-bali-news/ 301
+/zh-cn/blog/2026-05-14-152944/ /zh-cn/blog/15-may-2026-bali-news/ 301
+/zh-cn/blog/2026-05-15-154507/ /zh-cn/blog/16-May-2026-Bali-News/ 301
+/zh-cn/blog/2026-05-16-105122/ /zh-cn/blog/Jas-Green-Villas-and-Spa/ 301
+/zh-cn/blog/2026-05-16-150316/ /zh-cn/blog/seminyak-eat-street-hotels-villas/ 301
+/zh-cn/blog/2026-05-17-024144/ /zh-cn/blog/bali-travel-insurance-guide/ 301
+/zh-cn/blog/2026-05-17-050259/ /zh-cn/blog/bali-ultimate-guide-2026/ 301
+/zh-hk/blog/2023-08-03-64db6b88fd897800013a9a4c/ /zh-hk/blog/bali-honeymoon-resorts-guide/ 301
+/zh-hk/blog/2023-08-15-64db6b6dfd897800013a930e/ /zh-hk/blog/bali-best-villas-top20-part1/ 301
+/zh-hk/blog/2023-08-15-64db6b74fd897800013a9512/ /zh-hk/blog/bali-best-villas-top20-part2/ 301
+/zh-hk/blog/2023-08-19-64e063fafd8978000123ea12/ /zh-hk/blog/seminyak-budget-hotels-guide/ 301
+/zh-hk/blog/2023-10-26-653914f6fd89780001fef733/ /zh-hk/blog/ayana-resort-bali-guide/ 301
+/zh-hk/blog/2023-11-04-6544f321fd89780001bb240c/ /zh-hk/blog/uluwatu-bali-villas-resorts-guide/ 301
+/zh-hk/blog/2024-02-20-65d21157fd897800013be576/ /zh-hk/blog/ubud-villas-pool-guide/ 301
+/zh-hk/blog/2024-04-03-660d1d54fd89780001dc5bbb/ /zh-hk/blog/yt-things-to-do-in-Bali/ 301
+/zh-hk/blog/2024-04-22-660ff581fd89780001f31315/ /zh-hk/blog/apurva-kempinski-bali-nusa-dua/ 301
+/zh-hk/blog/2024-07-27-66a4562afd89780001d70329/ /zh-hk/blog/nusa-dua-resorts-guide/ 301
+/zh-hk/blog/2024-08-07-66b20b15fd89780001ceef6b/ /zh-hk/blog/canggu-villas-guide/ 301
+/zh-hk/blog/2024-08-09-66b5be79fd897800016df66e/ /zh-hk/blog/four-seasons-bali-jimbaran-bay/ 301
+/zh-hk/blog/2025-01-20-678e30cbfd89780001f72fc6/ /zh-hk/blog/radisson-blu-bali-uluwatu/ 301
+/zh-hk/blog/2025-04-06-67f1f8fbfd89780001607840/ /zh-hk/blog/alila-villas-uluwatu-bali/ 301
+/zh-hk/blog/2025-10-09-68c032e6fd89780001b54489/ /zh-hk/blog/ljs-travel-with-scooter-bali/ 301
+/zh-hk/blog/2026-04-27-012114/ /zh-hk/blog/bali-levy-check-warning/ 301
+/zh-hk/blog/2026-04-27-043902/ /zh-hk/blog/bali-food-entry-rules/ 301
+/zh-hk/blog/2026-04-28-073424/ /zh-hk/blog/bali-visa-extent-locations/ 301
+/zh-hk/blog/2026-04-28-093913/ /zh-hk/blog/regent-bali-canggu/ 301
+/zh-hk/blog/2026-04-29-143405/ /zh-hk/blog/alaya-suites-ubud/ 301
+/zh-hk/blog/2026-04-29-152044/ /zh-hk/blog/30-04-2026-bali-news/ 301
+/zh-hk/blog/2026-04-30-154841/ /zh-hk/blog/01-05-2026-bali-news/ 301
+/zh-hk/blog/2026-05-02-020621/ /zh-hk/blog/02052026-bali-news/ 301
+/zh-hk/blog/2026-05-02-030055/ /zh-hk/blog/bali-do-and-dont-2026/ 301
+/zh-hk/blog/2026-05-03-150058/ /zh-hk/blog/04-05-2026-bali-news/ 301
+/zh-hk/blog/2026-05-04-160413/ /zh-hk/blog/05-05-2026-bali-news/ 301
+/zh-hk/blog/2026-05-05-120914/ /zh-hk/blog/05-05-2026-indonesia-news/ 301
+/zh-hk/blog/2026-05-05-143838/ /zh-hk/blog/06-05-2026-bali-news/ 301
+/zh-hk/blog/2026-05-05-145258/ /zh-hk/blog/ubud-etle-parking/ 301
+/zh-hk/blog/2026-05-06-004619/ /zh-hk/blog/petai/ 301
+/zh-hk/blog/2026-05-06-012505/ /zh-hk/blog/bali-visitor-trends-2026/ 301
+/zh-hk/blog/2026-05-06-105230/ /zh-hk/blog/RC-Villas-Spa-Seminyak/ 301
+/zh-hk/blog/2026-05-06-135742/ /zh-hk/blog/seminyak-eat-street-guide/ 301
+/zh-hk/blog/2026-05-06-162200/ /zh-hk/blog/07-05-2026-bali-news/ 301
+/zh-hk/blog/2026-05-07-145041/ /zh-hk/blog/08-05-2026-bali-news/ 301
+/zh-hk/blog/2026-05-08-150807/ /zh-hk/blog/09-05-2026-bali-news/ 301
+/zh-hk/blog/2026-05-10-110156/ /zh-hk/blog/bali-waste-crisis-2026/ 301
+/zh-hk/blog/2026-05-10-153658/ /zh-hk/blog/11-may-2026-bali-news/ 301
+/zh-hk/blog/2026-05-12-002510/ /zh-hk/blog/12-may-2026-bali-news/ 301
+/zh-hk/blog/2026-05-12-073014/ /zh-hk/blog/bali-official-visa-guide/ 301
+/zh-hk/blog/2026-05-12-114041/ /zh-hk/blog/Locca-Sea-House/ 301
+/zh-hk/blog/2026-05-12-161449/ /zh-hk/blog/13-may-2026-Bali-News/ 301
+/zh-hk/blog/2026-05-13-062132/ /zh-hk/blog/2026-kuta-upgrade/ 301
+/zh-hk/blog/2026-05-14-005510/ /zh-hk/blog/14-may-2026-bali-news/ 301
+/zh-hk/blog/2026-05-14-152944/ /zh-hk/blog/15-may-2026-bali-news/ 301
+/zh-hk/blog/2026-05-15-154507/ /zh-hk/blog/16-May-2026-Bali-News/ 301
+/zh-hk/blog/2026-05-16-105122/ /zh-hk/blog/Jas-Green-Villas-and-Spa/ 301
+/zh-hk/blog/2026-05-16-150316/ /zh-hk/blog/seminyak-eat-street-hotels-villas/ 301
+/zh-hk/blog/2026-05-17-024144/ /zh-hk/blog/bali-travel-insurance-guide/ 301
+/zh-hk/blog/2026-05-17-050259/ /zh-hk/blog/bali-ultimate-guide-2026/ 301
+# === auto-generated slug redirects (end) ===
