@@ -52,7 +52,7 @@ const faresJson = JSON.stringify(faresData);
     }
 
     .page-wrap {
-      max-width: 600px;
+      max-width: 1120px;
       margin: 0 auto;
       padding: 16px 16px 40px;
     }
@@ -493,6 +493,69 @@ const faresJson = JSON.stringify(faresData);
       font-weight: 600;
     }
     .app-link:hover { opacity: 0.85; }
+
+    /* ── Desktop Layout ── */
+    .tool-grid {
+      display: grid;
+      grid-template-columns: 1fr;
+      gap: 0;
+    }
+
+    .below-grid {
+      /* single col on mobile, handled by desktop media query */
+    }
+
+    @media (min-width: 900px) {
+      .page-wrap {
+        padding: 24px 32px 60px;
+      }
+
+      .hero {
+        padding: 36px 40px 32px;
+        margin-bottom: 24px;
+        border-radius: 24px;
+      }
+      .hero::before { font-size: 80px; right: 40px; }
+      .hero h1 { font-size: 32px; margin-bottom: 8px; }
+      .hero p { font-size: 15px; }
+      .last-updated { font-size: 12px; margin-top: 10px; }
+
+      .tool-grid {
+        grid-template-columns: 400px 1fr;
+        gap: 20px;
+        align-items: start;
+        margin-bottom: 24px;
+      }
+
+      .left-col { display: flex; flex-direction: column; gap: 16px; }
+      .left-col .calc-card,
+      .left-col .result-card,
+      .left-col .notice-box { margin-bottom: 0; }
+
+      .right-col { position: sticky; top: 16px; }
+      .right-col .map-card { margin-bottom: 0; }
+      #gojek-map { height: 500px; }
+
+      .below-grid {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        gap: 20px;
+      }
+      .below-grid .section-title { grid-column: 1 / -1; }
+      .below-grid .fare-table-wrap { grid-column: 1 / -1; }
+      .below-grid .faq-item { break-inside: avoid; }
+
+      .calc-card { padding: 28px; }
+      .service-btn { font-size: 15px; padding: 12px 10px; }
+      select.zone-select { font-size: 16px; padding: 14px 16px; }
+      .calc-btn { font-size: 17px; padding: 16px; }
+
+      .section-title { font-size: 20px; margin-bottom: 16px; }
+
+      .fare-table-wrap table { font-size: 13px; }
+      .fare-table-wrap th,
+      .fare-table-wrap td { padding: 11px 16px; }
+    }
   </style>
 </head>
 
@@ -514,6 +577,9 @@ const faresJson = JSON.stringify(faresData);
       <p>GoCar / GoRide 預估車資，含禁區提醒</p>
       <div class="last-updated">最後更新：{lastUpdated}</div>
     </div>
+
+    <div class="tool-grid">
+    <div class="left-col">
 
     <!-- Calculator -->
     <div class="calc-card">
@@ -596,11 +662,19 @@ const faresJson = JSON.stringify(faresData);
       </ul>
     </div>
 
+    </div><!-- /.left-col -->
+
+    <div class="right-col">
     <!-- Map -->
     <div class="map-card">
       <div class="map-card-title">📍 路線地圖</div>
       <div id="gojek-map"></div>
     </div>
+
+    </div><!-- /.right-col -->
+    </div><!-- /.tool-grid -->
+
+    <div class="below-grid">
 
     <!-- FAQ -->
     <div class="section-title">常見問題 FAQ</div>
@@ -730,7 +804,9 @@ const faresJson = JSON.stringify(faresData);
       </ul>
     </div>
 
-  </div>
+    </div><!-- /.below-grid -->
+
+  </div><!-- /.page-wrap -->
 
   <Footer />
 
