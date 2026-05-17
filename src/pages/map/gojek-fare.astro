@@ -40,7 +40,6 @@ const ldJson = JSON.stringify({
 <html lang="zh-TW">
 <head>
   <BaseHead title={title} description={description} />
-  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY=" crossorigin="" />
   <script type="application/ld+json" set:html={ldJson}></script>
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -865,7 +864,6 @@ const ldJson = JSON.stringify({
 
   <Footer />
 
-  <script is:inline src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js" integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV/XN/WLs=" crossorigin=""></script>
 
   <script is:inline define:vars={{ zonesJson, faresJson }}>
     const zones = JSON.parse(zonesJson);
@@ -1039,17 +1037,38 @@ const ldJson = JSON.stringify({
       document.getElementById('result-card').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
 
-    // Leaflet map
+    // Leaflet map — dynamic load to avoid CDN timing / SRI issues
     function initMap() {
-      if (leafletMap || typeof L === 'undefined') return;
+      if (leafletMap) return;
       const container = document.getElementById('gojek-map');
       if (!container) return;
-      leafletMap = L.map(container, { zoomControl: true, scrollWheelZoom: false }).setView([-8.65, 115.18], 10);
-      L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-        attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-        maxZoom: 18,
-      }).addTo(leafletMap);
-      setTimeout(function() { leafletMap.invalidateSize(); }, 100);
+
+      function createMap() {
+        if (leafletMap) return;
+        leafletMap = L.map(container, { zoomControl: true, scrollWheelZoom: false }).setView([-8.65, 115.18], 10);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+          maxZoom: 18,
+        }).addTo(leafletMap);
+        setTimeout(function() { leafletMap.invalidateSize(); }, 200);
+      }
+
+      if (typeof L !== 'undefined') {
+        createMap();
+        return;
+      }
+
+      // Inject Leaflet CSS
+      const link = document.createElement('link');
+      link.rel = 'stylesheet';
+      link.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
+      document.head.appendChild(link);
+
+      // Inject Leaflet JS then create map
+      const script = document.createElement('script');
+      script.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
+      script.onload = createMap;
+      document.head.appendChild(script);
     }
 
     function updateMap(fromZone, toZone) {
@@ -1090,11 +1109,7 @@ const ldJson = JSON.stringify({
     }
 
     buildSelects();
-    if (typeof L !== 'undefined') {
-      initMap();
-    } else {
-      window.addEventListener('load', initMap);
-    }
+    initMap();
   </script>
 </body>
 </html>
