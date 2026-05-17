@@ -1,11 +1,6 @@
 ---
-<<<<<<< HEAD
 title: 【水明漾别墅推荐】The Club Villas Seminyak：隐藏在水明漾美食街巷内的传统泳池别墅，全家出游高性价比首选
-slug: ''
-=======
 slug: 'the-club-villas-seminyak'
-title: 【水明漾别墅推荐】The Club Villas Seminyak：隐身水明漾美食街巷内的传统泳池别墅、全家出游高性价比首选
->>>>>>> 98489d47 (SEO: add pillar page backlinks and redirects for bali-ultimate-guide-2026)
 description: >-
   想住进水明漾的心脏地带？开箱 The Club Villas Seminyak。这座别墅紧邻著名的 Eat
   Street，出门即是热门餐厅，关门享有传统巴厘岛风格的私人泳池空间。解析其适合家庭的 1-2 房型设计、极高隐私度与 2026

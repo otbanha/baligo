@@ -1,13 +1,7 @@
 ---
-<<<<<<< HEAD
 title: 【水明漾villa推薦】The Club Villas Seminyak：隱身水明漾美食街巷內的傳統泳池別墅、全家出遊高 CP 值首選
-slug: ''
-description: 想住進水明漾的心臟地帶？開箱 The Club Villas Seminyak。這座別墅緊鄰著名的 Eat Street，出門即是熱門餐廳，關門享有傳統峇里島風格的私人泳池空間。解析其適合家庭的 1-2 房型設計、極高隱私度與 2026 最新入住心得。帶您在繁華鬧區中，尋找最超值的南洋慢活秘境。
-=======
 slug: 'the-club-villas-seminyak'
-title: "The Club Villas Seminyak｜水明漾成人專屬私人泳池 Villa 推薦 2026 - Go Bali Go"
-description: "水明漾最具私密感的成人專屬 Villa！The Club Villas Seminyak 全別墅配備私人泳池、無邊際公共泳池與專屬管家服務。詳解房型選擇、入住體驗與訂房技巧，水明漾情侶 Villa 的頂級之選。"
->>>>>>> 98489d47 (SEO: add pillar page backlinks and redirects for bali-ultimate-guide-2026)
+description: 想住進水明漾的心臟地帶？開箱 The Club Villas Seminyak。這座別墅緊鄰著名的 Eat Street，出門即是熱門餐廳，關門享有傳統峇里島風格的私人泳池空間。解析其適合家庭的 1-2 房型設計、極高隱私度與 2026 最新入住心得。帶您在繁華鬧區中，尋找最超值的南洋慢活秘境。
 pubDate: 2026-04-20
 pubHour: 16
 category:
