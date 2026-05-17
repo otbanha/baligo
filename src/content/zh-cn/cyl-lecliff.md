@@ -1,9 +1,9 @@
 ---
-slug: 'le-cliff-bali-uluwatu-review'
-title: 【乌鲁瓦图住宿心得】听着海浪入睡！Le Cliff 悬崖酒店实测：行李搬运攻略、冲浪课预约与「猴子霸凌」荒谬现场
+slug: le-cliff-bali-uluwatu-review
+title: Le Cliff Bali 开箱评测｜乌鲁瓦图悬崖 Villa 私人泳池体验 2026 - Go Bali Go
 description: >-
-  深度记录巴厘岛乌鲁瓦图悬崖之旅。开箱 Le Cliff 震撼海景房，分享行李员搬运阶梯的真实体验与小费建议。解析 Padang Padang 浪点程度、1
-  对 1 冲浪课费用，以及针对长辈与小孩的入住警告。本篇带您直击最原始的印度洋力量，与那些地图上找不到的自然剧场。
+  乌鲁瓦图悬崖海景顶选！Le Cliff Bali 拥有一望无际的印度洋海景与高私密性私人泳池，是巴厘岛蜜月与情侣旅行的梦幻住所。真实开箱房型体验、餐厅与
+  SPA，带你了解 Le Cliff Bali 的真实样貌。
 pubDate: 2026-04-16T00:00:00.000Z
 pubHour: 21
 category:
@@ -23,7 +23,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 0df4a6ffd76e85b4d69b92a4a1e64060
+_srcHash: f55db40da764d49b45d69de5002584b3
 ---
 
 > 改编自团友 [Cheng Yi Lin 游记](https://www.facebook.com/share/p/1cFj662JSR/)
@@ -96,7 +96,7 @@ Check-in后我给了两万印尼盾的小费，真心觉得这是整趟旅程最
 
 ## 冲浪营：这里是Pro的游乐场
 
-乌鲁瓦图这一带几乎都是白人旅客，不太见到团体客，氛围很 chill，像个隐世的小社群。而我们住的地方本身就是一间冲浪营，楼下就是浪点。每天早上六点半和九点半准时开课，一对一两小时约四十一万印尼盾（大概 USD$27），以这种浪点的品质来说，价格算很合理。
+乌鲁瓦图这一带几乎都是白人旅客，不太见到团体客，氛围很 chill，像个隐世的小社群。而我们住的地方本身就是一间冲浪营，楼下就是浪点。每天早上六点半和九点半准时开课，一对一两小时约二十七美元（大概八百五十台币），以这种浪点的品质来说，价格算很合理。
 
 但我要认真说一句：**新手真的不要来。**
 
