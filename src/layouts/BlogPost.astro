@@ -398,7 +398,7 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
             <h2 class="related-title">{i18n.relatedTitle}</h2>
             <div class="related-grid">
               {randomPosts.map(post => (
-                <a href={`${blogBase}/${post.id}/`} class="related-card">
+                <a href={`${blogBase}/${post.data.slug || post.id}/`} class="related-card">
                   {post.data.heroImage && (
                     <div class="related-image">
                       <img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
