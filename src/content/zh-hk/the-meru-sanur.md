@@ -26,6 +26,11 @@ shuffle_h2: false
 embeds: []
 lang: zh-hk
 _srcHash: 4c31df3965fcbfc2b72e9f85708db8a3
+agoda_hotel_id: 50081294
+agoda_hotel_name: "美魯薩努爾飯店"
+agoda_star_rating: 5
+latitude: -8.678433418273926
+longitude: 115.2635269165039
 ---
 
 如果你對峇里島嘅印象只停留在庫塔嘅喧囂或者水明漾嘅夜生活，咁 The Meru Sanur 可能會令你重新定義「峇里島度假」呢件事。

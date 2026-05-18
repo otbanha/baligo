@@ -31,6 +31,11 @@ shuffle_h2: false
 embeds: []
 lang: en
 _srcHash: 449a3196e935145b9179960eb7480ed4
+agoda_hotel_id: 6383164
+agoda_hotel_name: "巴厘島懸崖旅館"
+agoda_star_rating: 4.5
+latitude: -8.810282707214355
+longitude: 115.1052017211914
 ---
 
 While there are many oceanfront hotels in Uluwatu, Bali, this is likely the only one where you can literally 'stay on the edge of a cliff.'

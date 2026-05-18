@@ -33,6 +33,11 @@ shuffle_h2: false
 embeds: []
 lang: en
 _srcHash: a0b8b14a569f70805f37f564232fdaff
+agoda_hotel_id: 77182
+agoda_hotel_name: "寶格麗度假村-峇里島"
+agoda_star_rating: 5
+latitude: -8.843924522399902
+longitude: 115.12069702148438
 ---
 
 If there's one hotel in Bali that represents the pinnacle of luxury accommodations, it's undoubtedly the Bvlgari Resort Bali.

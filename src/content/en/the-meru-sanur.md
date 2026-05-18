@@ -32,6 +32,11 @@ shuffle_h2: false
 embeds: []
 lang: en
 _srcHash: 4c31df3965fcbfc2b72e9f85708db8a3
+agoda_hotel_id: 50081294
+agoda_hotel_name: "美魯薩努爾飯店"
+agoda_star_rating: 5
+latitude: -8.678433418273926
+longitude: 115.2635269165039
 ---
 
 If your impression of Bali is limited to the hustle of Kuta or the nightlife of Seminyak, The Meru Sanur might redefine what 'Bali vacation' means to you.

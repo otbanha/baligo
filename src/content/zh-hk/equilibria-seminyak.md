@@ -26,6 +26,11 @@ shuffle_h2: false
 embeds: []
 lang: zh-hk
 _srcHash: 087b42e1272112cc224a69f3226dcb5e
+agoda_hotel_id: 290011
+agoda_hotel_name: "伊奎利布里亞水明漾"
+agoda_star_rating: 5
+latitude: -8.68280571514324
+longitude: 115.162677168846
 ---
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776258261888-b94a7bc5b4bc78f4b2e259f28f8227f0.webp)

@@ -26,6 +26,11 @@ shuffle_h2: false
 embeds: []
 lang: zh-hk
 _srcHash: bbcf523b0db89f791aa41e03aa6ee08d
+agoda_hotel_id: 337808
+agoda_hotel_name: "水明漾IZE生活方式度假飯店"
+agoda_star_rating: 4
+latitude: -8.68421363830566
+longitude: 115.161010742188
 ---
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776244520574-954a1216262b0375452a8286fe715ba5.webp)

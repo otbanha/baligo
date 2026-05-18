@@ -31,6 +31,11 @@ shuffle_h2: false
 embeds: []
 lang: en
 _srcHash: b05fe09dce1b53101fe705bbddb223b0
+agoda_hotel_id: 400375
+agoda_hotel_name: "塞米亞克廣場飯店"
+agoda_star_rating: 3
+latitude: -8.68357464032127
+longitude: 115.156612694263
 ---
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776240562733-438400134.jpg)

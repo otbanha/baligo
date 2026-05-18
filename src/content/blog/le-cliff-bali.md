@@ -22,6 +22,11 @@ originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+agoda_hotel_id: 6383164
+agoda_hotel_name: "巴厘島懸崖旅館"
+agoda_star_rating: 4.5
+latitude: -8.810282707214355
+longitude: 115.1052017211914
 ---
 
 峇里島烏魯瓦圖有很多面海的飯店，但能讓你字面意義上「住在懸崖岸邊上」的，大概只有這一間。

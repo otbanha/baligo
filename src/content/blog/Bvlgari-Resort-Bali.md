@@ -22,6 +22,11 @@ originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+agoda_hotel_id: 77182
+agoda_hotel_name: "寶格麗度假村-峇里島"
+agoda_star_rating: 5
+latitude: -8.843924522399902
+longitude: 115.12069702148438
 ---
 
 如果峇里島有一間飯店，是所有頂級奢華旅宿的「天花板」，那毫無疑問就是「寶格麗度假村」 Bvlgari Resort Bali。

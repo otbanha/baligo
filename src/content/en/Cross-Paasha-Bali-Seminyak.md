@@ -31,6 +31,11 @@ shuffle_h2: false
 embeds: []
 lang: en
 _srcHash: 094e0fa125af126e305fed84669baa5c
+agoda_hotel_id: 295644
+agoda_hotel_name: "巴厘島寰庭帕夏水明漾度假村"
+agoda_star_rating: 5
+latitude: -8.684345245361328
+longitude: 115.15927124023438
 ---
 
 If you want to stay right in the heart of Seminyak, where you can walk everywhere and return to a rooftop pool for sunset views, then Cross Paasha Bali Seminyak, a four-star design boutique hotel, is worth considering. Formerly known as U Paasha, this hotel is located at 77 Jl. Laksmana, in the core area of Kayu Aya Street. All 99 rooms are suite-level, spacious and strongly designed, making it one of the best value-for-money options in Seminyak.

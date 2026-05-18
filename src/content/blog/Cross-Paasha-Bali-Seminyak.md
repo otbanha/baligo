@@ -22,6 +22,11 @@ originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+agoda_hotel_id: 295644
+agoda_hotel_name: "巴厘島寰庭帕夏水明漾度假村"
+agoda_star_rating: 5
+latitude: -8.684345245361328
+longitude: 115.15927124023438
 ---
 
 如果你想住在 Seminyak 的正中心、步行就能到處逛、回飯店還有屋頂泳池可以看夕陽，那 Cross Paasha Bali Seminyak 這間四星設計風精品飯店很值得考慮。這間飯店以前叫 U Paasha，後來改名 Cross Paasha，位置一樣在 Jl. Laksmana 77 號，Kayu Aya 街的核心地帶，99間房全是套房等級，格局寬敞、設計感強，是 Seminyak 這一帶 CP 值頗高的選擇之一。
