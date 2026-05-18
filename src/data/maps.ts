@@ -189,6 +189,17 @@ export const maps: MapArea[] = [
     isThematic: true,
   },
   {
+    slug: "motorbike-rental",
+    name: "租機車據點",
+    nameEn: "Motorbike Rental in Bali",
+    description: "峇里島各熱門觀光區機車租賃店，含日租價格參考（約 Rp 60,000–100,000）、車款與注意事項",
+    center: [-8.6705, 115.2126],
+    zoom: 11,
+    kml: "/maps/motorbike-rental.kml",
+    emoji: "🛵",
+    isThematic: true,
+  },
+  {
     slug: "hospital",
     name: "醫院 / 診所",
     nameEn: "Hospitals & Clinics in Bali",

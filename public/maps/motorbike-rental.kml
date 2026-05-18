@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>峇里島租機車據點 by gobaligo</name>
+    <description>峇里島各熱門觀光區機車租賃店，含日租價格參考、車款與注意事項 | 最後更新：2026-05</description>
+
+    <Folder>
+      <name>庫塔 / 雷吉安 Kuta &amp; Legian</name>
+      <Placemark>
+        <name>Kuta Bike Rental</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Legian, Kuta<br>💰 日租約 Rp 70,000–90,000<br>🕐 每日 08:00–20:00<br>提供 Honda Beat / Vario / PCX<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7199,115.1680" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1680,-8.7199,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Legian Scooter Rental</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Melasti, Legian<br>💰 日租約 Rp 65,000–80,000<br>🕐 每日 08:00–21:00<br>可提供安全帽與雨衣<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7135,115.1665" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1665,-8.7135,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunset Road Motorbike Rental</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Sunset Road, Kuta<br>💰 日租約 Rp 70,000–100,000<br>🕐 每日 08:00–20:00<br>Honda PCX / NMAX 亦有提供<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7072,115.1839" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1839,-8.7072,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>水明漾 Seminyak</name>
+      <Placemark>
+        <name>Seminyak Scooter Hire</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Raya Seminyak<br>💰 日租約 Rp 75,000–90,000<br>🕐 每日 08:00–20:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6897,115.1612" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1612,-8.6897,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Oberoi Bike Rental</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Kayu Aya (Oberoi), Seminyak<br>💰 日租約 Rp 80,000–100,000<br>🕐 每日 08:00–19:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6840,115.1580" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1580,-8.6840,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>長谷 Canggu</name>
+      <Placemark>
+        <name>Canggu Motorbike Rental</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Raya Canggu<br>💰 日租約 Rp 70,000–90,000<br>🕐 每日 08:00–20:00<br>長期租借（週/月）另有優惠<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6478,115.1385" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1385,-8.6478,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Berawa Scooter Rental</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Pantai Berawa, Canggu<br>💰 日租約 Rp 65,000–85,000<br>🕐 每日 08:00–20:00<br>數位遊牧族長租首選<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6520,115.1310" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1310,-8.6520,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Echo Beach Bike Rental</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Batu Mejan, Echo Beach<br>💰 日租約 Rp 70,000–90,000<br>🕐 每日 08:00–19:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6430,115.1270" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1270,-8.6430,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>烏布 Ubud</name>
+      <Placemark>
+        <name>Ubud Scooter Rental</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Monkey Forest, Ubud<br>💰 日租約 Rp 60,000–80,000<br>🕐 每日 08:00–19:00<br>市區探索最佳方式<br><a href="https://www.google.com/maps/search/?api=1&query=-8.5160,115.2625" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2625,-8.5160,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Ubud Motorbike Hire — Raya Ubud</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Raya Ubud<br>💰 日租約 Rp 60,000–80,000<br>🕐 每日 08:00–20:00<br>可協助安排茅比延等遠程景點行程<br><a href="https://www.google.com/maps/search/?api=1&query=-8.5069,115.2622" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2622,-8.5069,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Campuhan Ridge Bike Rental</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Raya Sanggingan, Ubud<br>💰 日租約 Rp 60,000–75,000<br>🕐 每日 08:00–19:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.5050,115.2540" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2540,-8.5050,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>沙努爾 Sanur</name>
+      <Placemark>
+        <name>Sanur Scooter Rental</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Danau Tamblingan, Sanur<br>💰 日租約 Rp 65,000–85,000<br>🕐 每日 08:00–19:00<br>近海灘步道，適合沿岸遊覽<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6971,115.2568" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2568,-8.6971,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanur Beach Bike Hire</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Pantai Sindhu, Sanur<br>💰 日租約 Rp 65,000–80,000<br>🕐 每日 08:00–19:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7024,115.2580" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2580,-8.7024,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>烏魯瓦圖 / 金巴蘭 Uluwatu &amp; Jimbaran</name>
+      <Placemark>
+        <name>Uluwatu Scooter Rental</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Uluwatu, Pecatu<br>💰 日租約 Rp 70,000–90,000<br>🕐 每日 08:00–19:00<br>往 Uluwatu Temple / Padang Padang 必備<br><a href="https://www.google.com/maps/search/?api=1&query=-8.8220,115.1180" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1180,-8.8220,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Jimbaran Bike Rental</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Raya Jimbaran<br>💰 日租約 Rp 65,000–85,000<br>🕐 每日 08:00–19:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7880,115.1500" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1500,-8.7880,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>努沙杜瓦 / 登巴薩 Nusa Dua &amp; Denpasar</name>
+      <Placemark>
+        <name>Nusa Dua Scooter Rental</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. By Pass Ngurah Rai, Nusa Dua<br>💰 日租約 Rp 70,000–90,000<br>🕐 每日 08:00–19:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.8004,115.2320" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2320,-8.8004,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Denpasar Motorbike Rental</name>
+        <description><![CDATA[🛵 機車出租<br>🗺️ Jl. Teuku Umar, Denpasar<br>💰 日租約 Rp 55,000–75,000（本地區較便宜）<br>🕐 每日 08:00–18:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6665,115.2104" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2104,-8.6665,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+  </Document>
+</kml>
