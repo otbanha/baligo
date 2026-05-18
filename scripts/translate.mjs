@@ -299,10 +299,21 @@ async function translateTexts(texts, lang) {
 
 async function translateFile(filename, lang) {
   const srcPath = join(SOURCE_DIR, filename);
+  const srcContent = readFileSync(srcPath, 'utf-8');
+
+  // 若 blog 源文件有 frontmatter slug，翻譯版使用 slug 作為輸出檔名
+  let destFilename = filename;
+  if (!isBlocks) {
+    const { data: srcFm } = matter(srcContent);
+    if (srcFm.slug && srcFm.slug.trim()) {
+      const ext = filename.endsWith('.mdx') ? '.mdx' : '.md';
+      destFilename = srcFm.slug.trim() + ext;
+    }
+  }
+
   const destPath = isBlocks
     ? join(`src/content/blocks/${lang}`, filename)
-    : join(`src/content/${lang}`, filename);
-  const srcContent = readFileSync(srcPath, 'utf-8');
+    : join(`src/content/${lang}`, destFilename);
   const srcHash = contentHash(srcContent);
   const fileCacheKey = `${isBlocks ? 'blocks:' : ''}${filename}:${lang}`;
 
