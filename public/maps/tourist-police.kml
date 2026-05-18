@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>峇里島旅遊警察據點 by gobaligo</name>
+    <description>峇里島 Tourist Police 及各區警察局，遇竊盜、事故、遺失護照等緊急狀況可前往協助 | 緊急報案：110 | 最後更新：2026-05</description>
+
+    <Folder>
+      <name>旅遊警察 Tourist Police（英語服務）</name>
+      <Placemark>
+        <name>旅遊警察總站 Kuta（主要據點）</name>
+        <description><![CDATA[🚔 旅遊警察主要據點<br>🗺️ Jl. Raya Kuta No.141, Kuta（庫塔市場旁）<br>📞 (0361) 751598 / 752110<br>🌐 英語服務 ✅<br>🕐 24小時<br>提供旅遊事故報案、護照遺失協助、消費糾紛處理<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7204,115.1741" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1741,-8.7204,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>旅遊警察 — 努沙杜瓦 Nusa Dua</name>
+        <description><![CDATA[🚔 旅遊警察服務處<br>🗺️ Jl. By Pass Nusa Dua, Badung（Bualu 分局）<br>📞 (0361) 772110<br>🌐 英語服務 ✅<br>🕐 24小時<br>服務 Nusa Dua 度假村區旅客<br><a href="https://www.google.com/maps/search/?api=1&query=-8.8003,115.2298" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2298,-8.8003,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>旅遊警察 — 峇里島國際機場</name>
+        <description><![CDATA[🚔 旅遊警察機場服務處<br>🗺️ Ngurah Rai 國際機場（入境大廳）<br>📞 (+62 361) 751023<br>🌐 英語服務 ✅<br>🕐 24小時<br>入境時遭竊或遺失物品可直接洽詢<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7481,115.1671" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1671,-8.7481,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>各區警察局 District Police Stations</name>
+      <Placemark>
+        <name>庫塔警察局 Polsek Kuta</name>
+        <description><![CDATA[🚓 庫塔分局<br>🗺️ Jl. Raya Kuta, Badung<br>📞 (0361) 751598<br>🕐 24小時<br>管轄庫塔、雷吉安、土班地區<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7199,115.1739" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1739,-8.7199,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>克塔 / 水明漾警察局 Polsek Kuta Utara</name>
+        <description><![CDATA[🚓 北庫塔分局（管轄水明漾、長谷、克羅博坎）<br>🗺️ Jl. Raya Kerobokan, Kerobokan<br>📞 (0361) 731560<br>🕐 24小時<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6730,115.1700" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1700,-8.6730,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>貝諾阿警察局 Polsek Benoa</name>
+        <description><![CDATA[🚓 貝諾阿分局<br>🗺️ Benoa, Badung<br>📞 (+62 361) 721450<br>🕐 24小時<br>管轄 Benoa 港口及鄰近區域<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7490,115.2150" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2150,-8.7490,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>努沙杜瓦（布阿盧）警察局 Polsek Kuta Selatan</name>
+        <description><![CDATA[🚓 南庫塔分局（管轄 Nusa Dua、Jimbaran、Uluwatu）<br>🗺️ Jl. By Pass Ngurah Rai, Nusa Dua<br>📞 (0361) 772110<br>🕐 24小時<br><a href="https://www.google.com/maps/search/?api=1&query=-8.8004,115.2310" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2310,-8.8004,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>田納洛警察局 Polsek Kediri（Tanah Lot）</name>
+        <description><![CDATA[🚓 田納洛分局<br>🗺️ Tanah Lot, Tabanan<br>📞 (0361) 812399<br>🕐 24小時<br>管轄 Tanah Lot 廟宇觀光區<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6209,115.0950" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.0950,-8.6209,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>登巴薩警察局 Polresta Denpasar</name>
+        <description><![CDATA[🚓 登巴薩市警察局（峇里島最高警察機關之一）<br>🗺️ Jl. Gunung Sanghyang No.1, Denpasar<br>📞 (0361) 424346<br>🕐 24小時<br>護照遺失補辦、重大案件報案<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6527,115.2126" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2126,-8.6527,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>峇東警察局 Polres Badung</name>
+        <description><![CDATA[🚓 峇東縣警察局（管轄庫塔、水明漾、長谷等觀光重地）<br>🗺️ Jl. Raya Sempidi, Mangupura, Badung<br>📞 (0361) 9009110<br>🕐 24小時<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6100,115.1800" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1800,-8.6100,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>烏布警察局 Polsek Ubud</name>
+        <description><![CDATA[🚓 烏布分局<br>🗺️ Jl. Raya Andong, Ubud<br>📞 (0361) 975316<br>🕐 24小時<br>管轄烏布觀光區，可協助報案及問題協助<br><a href="https://www.google.com/maps/search/?api=1&query=-8.5069,115.2700" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2700,-8.5069,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>沙努爾警察局 Polsek Denpasar Selatan</name>
+        <description><![CDATA[🚓 南登巴薩分局（含沙努爾地區）<br>🗺️ Jl. Raya Sesetan, Denpasar<br>📞 (0361) 720110<br>🕐 24小時<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7100,115.2300" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2300,-8.7100,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>吉安雅警察局 Polres Gianyar</name>
+        <description><![CDATA[🚓 吉安雅縣警察局（管轄烏布、蘇卡瓦蒂、吉安雅等）<br>🗺️ Jl. Ciung Wanara, Gianyar<br>📞 (0361) 943110<br>🕐 24小時<br><a href="https://www.google.com/maps/search/?api=1&query=-8.5360,115.3320" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.3320,-8.5360,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>克隆孔警察局 Polres Klungkung</name>
+        <description><![CDATA[🚓 克隆孔縣警察局<br>🗺️ Jl. Diponegoro, Semarapura, Klungkung<br>📞 (0366) 21110<br>🕐 24小時<br>管轄 Klungkung、佩尼達島、藍夢島地區<br><a href="https://www.google.com/maps/search/?api=1&query=-8.5380,115.4060" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.4060,-8.5380,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>卡朗阿森警察局 Polres Karangasem</name>
+        <description><![CDATA[🚓 卡朗阿森縣警察局（管轄東峇里 Amed、Tulamben、Candidasa）<br>🗺️ Jl. Ngurah Rai, Amlapura<br>📞 (0363) 21110<br>🕐 24小時<br><a href="https://www.google.com/maps/search/?api=1&query=-8.4530,115.6090" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.6090,-8.4530,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>田納縣警察局 Polres Tabanan</name>
+        <description><![CDATA[🚓 田納縣警察局（管轄 Tabanan、Tanah Lot、Jatiluwih）<br>🗺️ Jl. Pahlawan, Tabanan<br>📞 (0361) 811110<br>🕐 24小時<br><a href="https://www.google.com/maps/search/?api=1&query=-8.5400,115.1270" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1270,-8.5400,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>新加拉惹警察局 Polres Buleleng（北峇里）</name>
+        <description><![CDATA[🚓 布勒楞縣警察局（管轄北峇里 Lovina、Singaraja、Pemuteran）<br>🗺️ Jl. Ahmad Yani, Singaraja<br>📞 (0362) 21110<br>🕐 24小時<br><a href="https://www.google.com/maps/search/?api=1&query=-8.1108,115.0900" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.0900,-8.1108,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>班格利警察局 Polres Bangli（金塔馬尼）</name>
+        <description><![CDATA[🚓 班格利縣警察局（管轄 Kintamani、Batur 火山區）<br>🗺️ Jl. Brigjen Ngurah Rai, Bangli<br>📞 (0366) 91110<br>🕐 24小時<br><a href="https://www.google.com/maps/search/?api=1&query=-8.4570,115.3560" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.3560,-8.4570,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>尼加拉警察局 Polres Jembrana（西峇里）</name>
+        <description><![CDATA[🚓 金巴拉納縣警察局（管轄西峇里 Negara、Medewi）<br>🗺️ Jl. Ngurah Rai, Negara, Jembrana<br>📞 (0365) 41110<br>🕐 24小時<br><a href="https://www.google.com/maps/search/?api=1&query=-8.3578,114.6350" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>114.6350,-8.3578,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>警察駐點 / 景點派出所 Police Posts</name>
+      <Placemark>
+        <name>警察駐點 — 烏魯瓦圖廟</name>
+        <description><![CDATA[🚔 景點警察派出所<br>🗺️ Pura Uluwatu 廟宇停車場附近<br>🕐 每日 07:00–19:00<br>協助遊客財物遺失、猴子搶劫事件報案<br><a href="https://www.google.com/maps/search/?api=1&query=-8.8292,115.0849" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.0849,-8.8292,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>警察駐點 — 田納洛廟</name>
+        <description><![CDATA[🚔 景點警察派出所<br>🗺️ Tanah Lot 廟宇觀光區入口<br>🕐 每日 07:00–19:00<br>📞 (0361) 812399<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6209,115.0868" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.0868,-8.6209,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>警察駐點 — 猴子森林（烏布）</name>
+        <description><![CDATA[🚔 景點警察派出所<br>🗺️ Jl. Monkey Forest, Ubud（猴子森林入口旁）<br>🕐 每日 08:00–18:00<br>協助遭猴子搶劫的旅客<br><a href="https://www.google.com/maps/search/?api=1&query=-8.5191,115.2625" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2625,-8.5191,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>警察駐點 — 貝薩基母廟</name>
+        <description><![CDATA[🚔 景點警察派出所<br>🗺️ Pura Besakih 停車場附近<br>🕐 每日 07:00–18:00<br>協助遊客處理導遊詐騙等問題<br><a href="https://www.google.com/maps/search/?api=1&query=-8.3740,115.4510" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.4510,-8.3740,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>警察駐點 — 沙努爾碼頭（往佩尼達快艇）</name>
+        <description><![CDATA[🚔 警察服務處<br>🗺️ Sanur Beach 快艇碼頭<br>🕐 每日 06:00–18:00<br>快艇購票糾紛或遺失物品協助<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7016,115.2622" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2622,-8.7016,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+  </Document>
+</kml>

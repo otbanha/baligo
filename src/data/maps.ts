@@ -200,6 +200,17 @@ export const maps: MapArea[] = [
     isThematic: true,
   },
   {
+    slug: "tourist-police",
+    name: "旅遊警察據點",
+    nameEn: "Tourist Police in Bali",
+    description: "峇里島旅遊警察站、各縣警察局與景點派出所，遇竊盜、事故、護照遺失可求助，部分站點提供英語服務",
+    center: [-8.6705, 115.2126],
+    zoom: 10,
+    kml: "/maps/tourist-police.kml",
+    emoji: "🚔",
+    isThematic: true,
+  },
+  {
     slug: "hospital",
     name: "醫院 / 診所",
     nameEn: "Hospitals & Clinics in Bali",
