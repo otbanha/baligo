@@ -272,25 +272,85 @@ if (
   });
 }
 
-// ── [美食景點活動] LocalBusiness ─────────────────────────────────────────────
+// ── [美食景點活動] Restaurant / TouristAttraction / LocalBusiness ─────────────
 if (cats.includes('美食景點活動') || cats.includes('美食景点活动')) {
+  const isRestaurant = /餐廳|咖啡廳|咖啡館|美食|料理|海鮮|燒烤|夜市|小吃|素食|餐飲|brunch|咖啡|bistro|cafe/i.test(title);
+  const isAttraction = /景點|寺廟|瀑布|海灘|梯田|天空|森林|猴子|公園|神廟|海神廟|temple|waterfall|beach|rice.terrace/i.test(title);
+
+  if (isRestaurant) {
+    extraSchemas.push({
+      "@context": "https://schema.org",
+      "@type": "Restaurant",
+      "name": seoTitle,
+      "description": seoDesc,
+      "image": ogImage,
+      "url": articleUrl,
+      "servesCuisine": "Indonesian",
+      "priceRange": "$$",
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bali",
+        "addressCountry": "ID",
+      },
+      "areaServed": "Bali",
+    });
+  } else if (isAttraction) {
+    extraSchemas.push({
+      "@context": "https://schema.org",
+      "@type": "TouristAttraction",
+      "name": seoTitle,
+      "description": seoDesc,
+      "image": ogImage,
+      "url": articleUrl,
+      "geo": {
+        "@type": "GeoCoordinates",
+        "addressCountry": "ID",
+        "addressRegion": "Bali",
+      },
+      "isAccessibleForFree": true,
+      "touristType": {
+        "@type": "Audience",
+        "audienceType": "旅遊者",
+      },
+    });
+  } else {
+    extraSchemas.push({
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": seoTitle,
+      "description": seoDesc,
+      "image": ogImage,
+      "url": articleUrl,
+      "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Bali",
+        "addressCountry": "ID",
+      },
+      "areaServed": {
+        "@type": "AdministrativeArea",
+        "name": "Bali",
+      },
+      "sameAs": ["https://gobaligo.id"],
+    });
+  }
+}
+
+// ── 行程類 ItemList schema ────────────────────────────────────────────────────
+const isItinerary = /(\d+天|\d+日|行程規劃|行程分享|行程安排|自由行攻略|day.trip|itinerary)/i.test(title);
+if (isItinerary && h2s.length >= 3) {
   extraSchemas.push({
     "@context": "https://schema.org",
-    "@type": "LocalBusiness",
+    "@type": "ItemList",
     "name": seoTitle,
     "description": seoDesc,
-    "image": ogImage,
     "url": articleUrl,
-    "address": {
-      "@type": "PostalAddress",
-      "addressLocality": "Bali",
-      "addressCountry": "ID",
-    },
-    "areaServed": {
-      "@type": "AdministrativeArea",
-      "name": "Bali",
-    },
-    "sameAs": ["https://gobaligo.id"],
+    "numberOfItems": h2s.length,
+    "itemListElement": h2s.slice(0, 10).map((h, i) => ({
+      "@type": "ListItem",
+      "position": i + 1,
+      "name": h.text,
+      "url": `${articleUrl}#${h.slug}`,
+    })),
   });
 }
 
