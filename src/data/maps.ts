@@ -178,6 +178,17 @@ export const maps: MapArea[] = [
     isThematic: true,
   },
   {
+    slug: "sim-card",
+    name: "峇里島 SIM 卡店家",
+    nameEn: "SIM Card Stores in Bali",
+    description: "峇里島四大電信商（Telkomsel、XL/AXIS、Indosat IM3、Tri）官方門市與機場購卡據點，含營業時間與方案說明",
+    center: [-8.6705, 115.2126],
+    zoom: 11,
+    kml: "/maps/sim-card.kml",
+    emoji: "📶",
+    isThematic: true,
+  },
+  {
     slug: "hospital",
     name: "醫院 / 診所",
     nameEn: "Hospitals & Clinics in Bali",
