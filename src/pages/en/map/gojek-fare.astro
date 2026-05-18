@@ -1,16 +1,15 @@
 ---
-import BaseHead from '../../components/BaseHead.astro';
-import Header from '../../components/Header.astro';
-import TopStrip from '../../components/TopStrip.astro';
-import Footer from '../../components/Footer.astro';
-import zonesData from '../../data/gojek-zones.json';
-import faresData from '../../data/gojek-fares.json';
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import TopStrip from '../../../components/TopStrip.astro';
+import Footer from '../../../components/Footer.astro';
+import zonesData from '../../../data/gojek-zones.json';
+import faresData from '../../../data/gojek-fares.json';
 
-const title = '峇里島 Gojek 費用查詢｜GoCar GoRide 車資計算';
-const description = '峇里島 Gojek 費用快速查詢！選擇起點和終點，立即取得 GoCar / GoRide 預估車資，含尖峰加成、No-Gojek Zone 禁區提醒，21 個熱門區域全覆蓋。';
-const lang = 'zh-tw';
+const title = 'Bali Gojek Fare Calculator 2026 | GoCar & GoRide Prices';
+const description = 'Instantly check Gojek fares between 21 Bali zones. Get GoCar / GoRide price estimates, peak surcharge info, and No-Gojek Zone warnings for Kuta, Seminyak, Ubud, Canggu and more.';
+const lang = 'en';
 const basePath = 'map/gojek-fare';
-const lastUpdated = '2026-05-17';
 const zonesJson = JSON.stringify(zonesData);
 const faresJson = JSON.stringify(faresData);
 const ldJson = JSON.stringify({
@@ -18,27 +17,27 @@ const ldJson = JSON.stringify({
   "@graph": [
     {
       "@type": "WebApplication",
-      "name": "峇里島 Gojek 費用查詢",
+      "name": "Bali Gojek Fare Calculator",
       "description": description,
-      "url": "https://gobaligo.id/map/gojek-fare/",
+      "url": "https://gobaligo.id/en/map/gojek-fare/",
       "applicationCategory": "TravelApplication",
       "operatingSystem": "Web Browser",
-      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "TWD" },
-      "inLanguage": "zh-TW"
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+      "inLanguage": "en"
     },
     {
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "首頁", "item": "https://gobaligo.id/" },
-        { "@type": "ListItem", "position": 2, "name": "主題地圖", "item": "https://gobaligo.id/map/" },
-        { "@type": "ListItem", "position": 3, "name": "Gojek 費用查詢", "item": "https://gobaligo.id/map/gojek-fare/" }
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://gobaligo.id/en/blog/" },
+        { "@type": "ListItem", "position": 2, "name": "Maps", "item": "https://gobaligo.id/map/" },
+        { "@type": "ListItem", "position": 3, "name": "Gojek Fare Calculator", "item": "https://gobaligo.id/en/map/gojek-fare/" }
       ]
     }
   ]
 });
 ---
 
-<html lang="zh-TW">
+<html lang="en">
 <head>
   <BaseHead title={title} description={description} />
   <script type="application/ld+json" set:html={ldJson}></script>
@@ -47,7 +46,7 @@ const ldJson = JSON.stringify({
 
     body {
       background: #f7f5f2;
-      font-family: 'PingFang TC', 'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+      font-family: 'Inter', -apple-system, BlinkMacSystemFont, sans-serif;
       min-height: 100dvh;
       color: #1a1a1a;
     }
@@ -58,7 +57,6 @@ const ldJson = JSON.stringify({
       padding: 16px 16px 40px;
     }
 
-    /* ── Breadcrumb ── */
     .breadcrumb {
       font-size: 12px;
       color: #999;
@@ -68,7 +66,6 @@ const ldJson = JSON.stringify({
     .breadcrumb a:hover { color: #1a6fa8; }
     .breadcrumb span { margin: 0 4px; }
 
-    /* ── Hero ── */
     .hero {
       background: linear-gradient(135deg, #00b14f 0%, #007a35 100%);
       border-radius: 20px;
@@ -100,13 +97,7 @@ const ldJson = JSON.stringify({
       color: rgba(255,255,255,0.85);
       line-height: 1.5;
     }
-    .last-updated {
-      font-size: 11px;
-      color: rgba(255,255,255,0.6);
-      margin-top: 8px;
-    }
 
-    /* ── Calculator Card ── */
     .calc-card {
       background: #fff;
       border-radius: 20px;
@@ -115,7 +106,6 @@ const ldJson = JSON.stringify({
       margin-bottom: 16px;
     }
 
-    /* ── Service Toggle ── */
     .service-toggle {
       display: flex;
       gap: 8px;
@@ -141,7 +131,6 @@ const ldJson = JSON.stringify({
       color: #007a35;
     }
 
-    /* ── Form Fields ── */
     .field-label {
       font-size: 12px;
       font-weight: 600;
@@ -150,9 +139,7 @@ const ldJson = JSON.stringify({
       text-transform: uppercase;
       letter-spacing: 0.5px;
     }
-    .field-wrap {
-      margin-bottom: 14px;
-    }
+    .field-wrap { margin-bottom: 14px; }
     select.zone-select {
       width: 100%;
       padding: 12px 14px;
@@ -169,10 +156,7 @@ const ldJson = JSON.stringify({
       cursor: pointer;
       transition: border-color 0.15s;
     }
-    select.zone-select:focus {
-      outline: none;
-      border-color: #00b14f;
-    }
+    select.zone-select:focus { outline: none; border-color: #00b14f; }
 
     .swap-btn {
       display: flex;
@@ -194,7 +178,6 @@ const ldJson = JSON.stringify({
     }
     .swap-btn button:active { transform: scale(0.9); }
 
-    /* ── Peak Toggle ── */
     .peak-toggle-wrap {
       display: flex;
       align-items: center;
@@ -227,7 +210,6 @@ const ldJson = JSON.stringify({
       margin-top: 1px;
     }
 
-    /* ── Submit Button ── */
     .calc-btn {
       width: 100%;
       padding: 14px;
@@ -244,7 +226,6 @@ const ldJson = JSON.stringify({
     }
     .calc-btn:active { opacity: 0.85; transform: scale(0.98); }
 
-    /* ── Result Card ── */
     .result-card {
       background: #fff;
       border-radius: 20px;
@@ -255,7 +236,6 @@ const ldJson = JSON.stringify({
       animation: fadeUp 0.25s ease;
     }
     .result-card.show { display: block; }
-
     @keyframes fadeUp {
       from { opacity: 0; transform: translateY(8px); }
       to { opacity: 1; transform: translateY(0); }
@@ -286,15 +266,8 @@ const ldJson = JSON.stringify({
     .fare-icon { font-size: 22px; flex-shrink: 0; margin-top: 1px; }
     .fare-label { font-size: 12px; color: #666; font-weight: 600; margin-bottom: 3px; }
     .fare-amount { font-size: 18px; font-weight: 800; color: #1a1a1a; line-height: 1.2; }
+    .data-source { font-size: 12px; color: #aaa; text-align: right; margin-top: 12px; }
 
-    .data-source {
-      font-size: 12px;
-      color: #aaa;
-      text-align: right;
-      margin-top: 12px;
-    }
-
-    /* ── Zone Warnings ── */
     .zone-warning {
       background: #fff3cd;
       border: 1.5px solid #ffc107;
@@ -307,7 +280,6 @@ const ldJson = JSON.stringify({
     }
     .zone-warning + .zone-warning { margin-top: 8px; }
 
-    /* ── Notice Box ── */
     .notice-box {
       background: #f0f7ff;
       border: 1.5px solid #b8d4f0;
@@ -321,10 +293,7 @@ const ldJson = JSON.stringify({
       color: #1a4a7a;
       margin-bottom: 8px;
     }
-    .notice-box ul {
-      list-style: none;
-      padding: 0;
-    }
+    .notice-box ul { list-style: none; padding: 0; }
     .notice-box ul li {
       font-size: 12px;
       color: #3a5a7a;
@@ -332,14 +301,8 @@ const ldJson = JSON.stringify({
       padding-left: 14px;
       position: relative;
     }
-    .notice-box ul li::before {
-      content: '•';
-      position: absolute;
-      left: 0;
-      color: #1a6fa8;
-    }
+    .notice-box ul li::before { content: '•'; position: absolute; left: 0; color: #1a6fa8; }
 
-    /* ── Map ── */
     .map-card {
       background: #fff;
       border-radius: 20px;
@@ -347,21 +310,10 @@ const ldJson = JSON.stringify({
       box-shadow: 0 2px 12px rgba(0,0,0,0.08);
       margin-bottom: 16px;
     }
-    .map-card-title {
-      padding: 12px 16px 0;
-      font-size: 13px;
-      font-weight: 700;
-      color: #555;
-    }
-    #gojek-map {
-      height: 280px;
-      width: 100%;
-    }
-    @media (min-width: 480px) {
-      #gojek-map { height: 360px; }
-    }
+    .map-card-title { padding: 12px 16px 0; font-size: 13px; font-weight: 700; color: #555; }
+    #gojek-map { height: 280px; width: 100%; }
+    @media (min-width: 480px) { #gojek-map { height: 360px; } }
 
-    /* ── FAQ ── */
     .section-title {
       font-size: 18px;
       font-weight: 800;
@@ -392,12 +344,7 @@ const ldJson = JSON.stringify({
       font-family: inherit;
       -webkit-tap-highlight-color: transparent;
     }
-    .faq-q .faq-arrow {
-      margin-left: auto;
-      color: #bbb;
-      font-size: 16px;
-      transition: transform 0.2s;
-    }
+    .faq-q .faq-arrow { margin-left: auto; color: #bbb; font-size: 16px; transition: transform 0.2s; }
     .faq-q.open .faq-arrow { transform: rotate(90deg); }
     .faq-a {
       display: none;
@@ -409,8 +356,6 @@ const ldJson = JSON.stringify({
     }
     .faq-a.open { display: block; }
 
-
-    /* ── SEO Content ── */
     .seo-section {
       background: #fff;
       border-radius: 16px;
@@ -418,41 +363,13 @@ const ldJson = JSON.stringify({
       box-shadow: 0 1px 4px rgba(0,0,0,0.06);
       margin-bottom: 16px;
     }
-    .seo-section h2 {
-      font-size: 17px;
-      font-weight: 800;
-      color: #1a365d;
-      margin-bottom: 12px;
-    }
-    .seo-section h3 {
-      font-size: 14px;
-      font-weight: 700;
-      color: #1a365d;
-      margin: 14px 0 6px;
-    }
-    .seo-section p {
-      font-size: 13px;
-      color: #555;
-      line-height: 1.8;
-      margin-bottom: 10px;
-    }
-    .seo-section ul {
-      padding-left: 18px;
-      margin-bottom: 10px;
-    }
-    .seo-section ul li {
-      font-size: 13px;
-      color: #555;
-      line-height: 1.7;
-      margin-bottom: 4px;
-    }
+    .seo-section h2 { font-size: 17px; font-weight: 800; color: #1a365d; margin-bottom: 12px; }
+    .seo-section h3 { font-size: 14px; font-weight: 700; color: #1a365d; margin: 14px 0 6px; }
+    .seo-section p { font-size: 13px; color: #555; line-height: 1.8; margin-bottom: 10px; }
+    .seo-section ul { padding-left: 18px; margin-bottom: 10px; }
+    .seo-section ul li { font-size: 13px; color: #555; line-height: 1.7; margin-bottom: 4px; }
 
-    /* ── App Links ── */
-    .app-links {
-      display: flex;
-      gap: 10px;
-      margin-top: 12px;
-    }
+    .app-links { display: flex; gap: 10px; margin-top: 12px; }
     .app-link {
       flex: 1;
       padding: 10px 14px;
@@ -466,7 +383,6 @@ const ldJson = JSON.stringify({
     }
     .app-link:hover { opacity: 0.85; }
 
-    /* ── Airport Video Card ── */
     .airport-video-card {
       background: #fff;
       border-radius: 20px;
@@ -475,12 +391,7 @@ const ldJson = JSON.stringify({
       margin-bottom: 16px;
       animation: fadeUp 0.25s ease;
     }
-    .airport-video-title {
-      font-size: 14px;
-      font-weight: 700;
-      color: #1a1a1a;
-      margin-bottom: 12px;
-    }
+    .airport-video-title { font-size: 14px; font-weight: 700; color: #1a1a1a; margin-bottom: 12px; }
     .airport-video-wrap {
       position: relative;
       width: 100%;
@@ -505,7 +416,6 @@ const ldJson = JSON.stringify({
       padding: 10px 12px;
     }
 
-    /* ── Related Links ── */
     .related-links-card {
       background: #fff;
       border-radius: 20px;
@@ -513,91 +423,44 @@ const ldJson = JSON.stringify({
       box-shadow: 0 2px 12px rgba(0,0,0,0.08);
       margin-top: 16px;
     }
-    .related-links-title {
-      font-size: 15px;
-      font-weight: 800;
-      color: #1a365d;
-      margin-bottom: 14px;
-    }
-    .related-link-item {
-      display: block;
-      padding: 12px 16px;
-      margin-bottom: 8px;
-      background: linear-gradient(135deg, #f0f7ff, #fff);
-      border: 1.5px solid #c0d8f0;
-      border-left: 4px solid #1a6fa8;
-      border-radius: 10px;
-      text-decoration: none;
-      color: #1a4a7a;
-      font-size: 14px;
-      font-weight: 600;
-      line-height: 1.4;
-      transition: background 0.15s, border-color 0.15s;
-      -webkit-tap-highlight-color: transparent;
-    }
-    .related-link-item:hover {
-      background: linear-gradient(135deg, #deeeff, #f5f9ff);
-      border-color: #1a6fa8;
-    }
-    .related-link-item:last-child { margin-bottom: 0; }
+    .related-links-title { font-size: 15px; font-weight: 800; color: #1a365d; margin-bottom: 14px; }
 
-    /* ── Desktop Layout ── */
     .tool-grid {
       display: grid;
       grid-template-columns: 1fr;
       gap: 0;
     }
 
-    .below-grid {
-      /* single col on mobile, handled by desktop media query */
-    }
-
     @media (min-width: 900px) {
-      .page-wrap {
-        padding: 24px 32px 60px;
-      }
-
-      .hero {
-        padding: 36px 40px 32px;
-        margin-bottom: 24px;
-        border-radius: 24px;
-      }
+      .page-wrap { padding: 24px 32px 60px; }
+      .hero { padding: 36px 40px 32px; margin-bottom: 24px; border-radius: 24px; }
       .hero::before { font-size: 80px; right: 40px; }
       .hero h1 { font-size: 32px; margin-bottom: 8px; }
       .hero p { font-size: 15px; }
-      .last-updated { font-size: 12px; margin-top: 10px; }
-
       .tool-grid {
         grid-template-columns: 400px 1fr;
         gap: 20px;
         align-items: start;
         margin-bottom: 24px;
       }
-
       .left-col { display: flex; flex-direction: column; gap: 16px; }
       .left-col .calc-card,
       .left-col .result-card,
       .left-col .notice-box { margin-bottom: 0; }
-
       .right-col { position: sticky; top: 16px; }
       .right-col .map-card { margin-bottom: 0; }
       #gojek-map { height: 500px; }
-
       .below-grid {
         display: grid;
         grid-template-columns: 1fr 1fr;
         gap: 20px;
       }
       .below-grid .section-title { grid-column: 1 / -1; }
-      .below-grid .faq-item { break-inside: avoid; }
-
       .calc-card { padding: 28px; }
       .service-btn { font-size: 15px; padding: 12px 10px; }
       select.zone-select { font-size: 16px; padding: 14px 16px; }
       .calc-btn { font-size: 17px; padding: 16px; }
-
       .section-title { font-size: 20px; margin-bottom: 16px; }
-
     }
   </style>
 </head>
@@ -609,63 +472,54 @@ const ldJson = JSON.stringify({
   <div class="page-wrap">
 
     <div class="breadcrumb">
-      <a href="/">首頁</a><span>›</span>
-      <a href="/map/">主題地圖</a><span>›</span>
-      Gojek 費用查詢
+      <a href="/en/blog/">Home</a><span>›</span>
+      <a href="/map/">Maps</a><span>›</span>
+      Gojek Fare Calculator
     </div>
 
-    <!-- Hero -->
     <div class="hero">
-      <h1>峇里島 Gojek<br>費用查詢</h1>
-      <p>GoCar / GoRide 預估車資，含禁區提醒</p>
+      <h1>Bali Gojek<br>Fare Calculator</h1>
+      <p>GoCar / GoRide price estimates with No-Gojek Zone warnings</p>
     </div>
 
     <div class="tool-grid">
     <div class="left-col">
 
-    <!-- Calculator -->
     <div class="calc-card">
-      <!-- Service Toggle -->
       <div class="service-toggle">
         <button class="service-btn active" id="btn-gocar" onclick="setService('gocar')">🚗 GoCar</button>
         <button class="service-btn" id="btn-goride" onclick="setService('goride')">🛵 GoRide</button>
       </div>
 
-      <!-- Origin -->
       <div class="field-wrap">
-        <div class="field-label">起點 Origin</div>
+        <div class="field-label">Origin</div>
         <select class="zone-select" id="from-zone">
-          <option value="">— 選擇起點 —</option>
+          <option value="">— Select origin —</option>
         </select>
       </div>
 
-      <!-- Swap -->
       <div class="swap-btn">
-        <button onclick="swapZones()" title="交換起終點">⇅</button>
+        <button onclick="swapZones()" title="Swap origin and destination">⇅</button>
       </div>
 
-      <!-- Destination -->
       <div class="field-wrap" style="margin-top:8px">
-        <div class="field-label">終點 Destination</div>
+        <div class="field-label">Destination</div>
         <select class="zone-select" id="to-zone">
-          <option value="">— 選擇終點 —</option>
+          <option value="">— Select destination —</option>
         </select>
       </div>
 
-      <!-- Peak Toggle -->
       <label class="peak-toggle-wrap" for="peak-toggle">
         <input type="checkbox" id="peak-toggle" />
         <div>
-          <div class="peak-toggle-label">⚡ 尖峰時段 / 下雨天</div>
-          <div class="peak-toggle-sub">早上 7–9 點、傍晚 5–7 點或雨天，費用較高</div>
+          <div class="peak-toggle-label">⚡ Peak hours / Rainy weather</div>
+          <div class="peak-toggle-sub">7–9 AM, 5–7 PM or rainy days — fares are higher</div>
         </div>
       </label>
 
-      <!-- Submit -->
-      <button class="calc-btn" onclick="calcFare()">查詢車資</button>
+      <button class="calc-btn" onclick="calcFare()">Check Fare</button>
     </div>
 
-    <!-- Result Card -->
     <div class="result-card" id="result-card">
       <div class="result-route" id="result-route"></div>
       <div class="result-meta" id="result-meta"></div>
@@ -673,7 +527,7 @@ const ldJson = JSON.stringify({
       <div class="fare-row normal" id="fare-normal">
         <div class="fare-icon">💰</div>
         <div>
-          <div class="fare-label" id="fare-normal-label">一般時段</div>
+          <div class="fare-label" id="fare-normal-label">Normal fare</div>
           <div class="fare-amount" id="fare-normal-amount"></div>
         </div>
       </div>
@@ -681,165 +535,153 @@ const ldJson = JSON.stringify({
       <div class="fare-row peak" id="fare-peak" style="display:none">
         <div class="fare-icon">⚡</div>
         <div>
-          <div class="fare-label">尖峰加成</div>
+          <div class="fare-label">Peak surcharge</div>
           <div class="fare-amount" id="fare-peak-amount"></div>
         </div>
       </div>
 
       <div id="zone-warnings"></div>
-
       <div class="data-source" id="data-source"></div>
     </div>
 
-    <!-- Airport Video -->
     <div id="airport-video-card" class="airport-video-card" style="display:none">
-      <div class="airport-video-title">📍 機場如何叫 Gojek？看這支影片</div>
+      <div class="airport-video-title">📍 How to get a Gojek at Bali Airport — watch this</div>
       <div class="airport-video-wrap">
         <iframe
           src="https://www.youtube.com/embed/GyKb6DqdTcI"
-          title="峇里島機場叫 Gojek 教學"
+          title="How to use Gojek at Bali Airport"
           frameborder="0"
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
           loading="lazy"
         ></iframe>
       </div>
-      <div class="airport-video-tip">✅ 機場有 <strong>Gojek Customer Lounge</strong>，步行前往後即可在 App 叫車</div>
+      <div class="airport-video-tip">✅ Bali Airport has a <strong>Gojek Customer Lounge</strong> — just walk there after arrivals and book via the app</div>
     </div>
 
-    <!-- Notice Box -->
     <div class="notice-box">
-      <div class="notice-title">📌 重要提醒</div>
+      <div class="notice-title">📌 Important Notes</div>
       <ul>
-        <li>以上為參考價，實際費用以 Gojek App 即時報價為準</li>
-        <li>尖峰時段和下雨天有 1.2–1.5 倍動態加成</li>
-        <li>部分區域（烏布、烏魯瓦圖）有 No-Gojek Zone，需走到指定接駁點</li>
-        <li>距離超過 30 公里或超過 1 小時路線，建議改用包車（一日約 USD$ 40–60）</li>
+        <li>Prices are estimates only — always check the live fare in the Gojek app before booking</li>
+        <li>Peak hours and rain can increase fares by 1.2–1.5×</li>
+        <li>Some areas (Ubud, Uluwatu) are No-Gojek Zones — you may need to walk to a designated pick-up point</li>
+        <li>For trips over 30 km or 1 hour, consider a private driver (approx. USD $40–60 per day)</li>
       </ul>
     </div>
 
     </div><!-- /.left-col -->
 
     <div class="right-col">
-    <!-- Map -->
     <div class="map-card">
-      <div class="map-card-title">📍 路線地圖</div>
+      <div class="map-card-title">📍 Route Map</div>
       <div id="gojek-map"></div>
     </div>
-
     </div><!-- /.right-col -->
     </div><!-- /.tool-grid -->
 
     <div class="below-grid">
 
-    <!-- FAQ -->
-    <div class="section-title">常見問題 FAQ</div>
+    <div class="section-title">FAQ</div>
 
     <div class="faq-item">
       <button class="faq-q" onclick="toggleFaq(this)">
-        <span>🔰</span> 外國人可以用 Gojek 嗎？
+        <span>🔰</span> Can foreigners use Gojek in Bali?
         <span class="faq-arrow">›</span>
       </button>
       <div class="faq-a">
-        可以！Gojek 支援外國手機號碼（含台灣 +886）註冊。下載 App 後，輸入手機號碼收取 OTP 驗證碼即可完成註冊。付款支援現金（最推薦）、信用卡（Visa / Mastercard）及 GoPay 電子錢包。
+        Yes! Gojek supports foreign phone numbers (including +886 Taiwan, +1 US/CA, +44 UK, etc.). Download the app, enter your number to receive an OTP, and you're ready to go. Payment options include cash (recommended), credit card (Visa / Mastercard) and GoPay e-wallet.
       </div>
     </div>
 
     <div class="faq-item">
       <button class="faq-q" onclick="toggleFaq(this)">
-        <span>💳</span> 可以用台灣信用卡嗎？
+        <span>💳</span> Can I pay by credit card?
         <span class="faq-arrow">›</span>
       </button>
       <div class="faq-a">
-        可以使用台灣發行的 Visa 或 Mastercard 信用卡。建議同時準備現金（印尼盾），因為部分司機偏好現金付款，且現金不需手續費。使用信用卡可能有跨國交易手續費（約 1.5%）。
+        Yes, Visa and Mastercard are accepted. It's still a good idea to carry Indonesian Rupiah cash, as some drivers prefer it and cash avoids foreign transaction fees (typically around 1.5%).
       </div>
     </div>
 
     <div class="faq-item">
       <button class="faq-q" onclick="toggleFaq(this)">
-        <span>✈️</span> 機場怎麼叫 Gojek？
+        <span>✈️</span> How do I get a Gojek from the airport?
         <span class="faq-arrow">›</span>
       </button>
       <div class="faq-a">
-        峇里島機場設有專屬的 <strong>Gojek Customer Lounge</strong>，在入境大廳出來後步行前往即可在 App 叫車，完全合法。建議出發前先在 App 設好目的地，到 Lounge 後直接叫車即可。詳細位置請看上方教學影片（選機場為起點後顯示）。
+        Bali Airport has a dedicated <strong>Gojek Customer Lounge</strong>. After clearing arrivals, walk to the lounge and book your ride through the app — it's completely legal. Set your destination in the app before arriving at the lounge for a smoother experience. Watch the tutorial video above (shown when Airport is selected as origin).
       </div>
     </div>
 
     <div class="faq-item">
       <button class="faq-q" onclick="toggleFaq(this)">
-        <span>🚫</span> 什麼是 No-Gojek Zone？
+        <span>🚫</span> What is a No-Gojek Zone?
         <span class="faq-arrow">›</span>
       </button>
       <div class="faq-a">
-        No-Gojek Zone 是由當地計程車工會設立的禁止網約車區域，在這些區域叫車可能導致司機被罰款或乘客遭到騷擾。主要禁區包括：烏布市中心、烏魯瓦圖寺廟周邊、Tanah Lot 入口、Padang Bai 碼頭。注意：<strong>峇里島機場並非禁區</strong>，設有專屬 Gojek Customer Lounge，入境後步行前往即可叫車。
+        No-Gojek Zones are areas where local taxi unions have banned ride-hailing apps. Attempting to pick up passengers there can result in fines for drivers or harassment of passengers. Key zones include: Ubud town centre, Uluwatu temple area, Tanah Lot entrance, and Padang Bai port. <strong>Bali Airport is NOT a No-Gojek Zone</strong> — it has an official Gojek Customer Lounge.
       </div>
     </div>
 
     <div class="faq-item">
       <button class="faq-q" onclick="toggleFaq(this)">
-        <span>🆚</span> Gojek 和 Grab 哪個比較便宜？
+        <span>🆚</span> Gojek vs Grab — which is cheaper?
         <span class="faq-arrow">›</span>
       </button>
       <div class="faq-a">
-        兩者價格相近，建議同時開啟兩個 App 比較當下報價再叫車。一般來說，Gojek 在尖峰時段的動態加成略低於 Grab，但實際費用因時間和路況而異。Gojek 在峇里島的司機數量較多，通常等待時間較短。
+        Prices are similar. It's worth opening both apps to compare quotes before booking. In Bali, Gojek generally has more drivers available, so wait times are shorter, and peak surcharges tend to be slightly lower than Grab.
       </div>
     </div>
 
     <div class="faq-item">
       <button class="faq-q" onclick="toggleFaq(this)">
-        <span>📱</span> 在哪裡下載 Gojek？
+        <span>📱</span> Where do I download Gojek?
         <span class="faq-arrow">›</span>
       </button>
       <div class="faq-a">
-        可直接在 iOS App Store 或 Google Play Store 搜尋「Gojek」下載，在台灣也可以下載。建議<strong>出發前</strong>先完成下載和手機號碼驗證，以免抵達峇里島後才在手機訊號不穩的情況下設定。
+        Search for "Gojek" on the iOS App Store or Google Play. It's available worldwide. We recommend downloading and registering <strong>before you travel</strong> so you're ready when you land.
         <div class="app-links">
-          <a href="https://apps.apple.com/app/gojek/id944875099" class="app-link" target="_blank" rel="noopener">📱 iOS 下載</a>
-          <a href="https://play.google.com/store/apps/details?id=com.gojek.app" class="app-link" target="_blank" rel="noopener">🤖 Android 下載</a>
+          <a href="https://apps.apple.com/app/gojek/id944875099" class="app-link" target="_blank" rel="noopener">📱 iOS</a>
+          <a href="https://play.google.com/store/apps/details?id=com.gojek.app" class="app-link" target="_blank" rel="noopener">🤖 Android</a>
         </div>
       </div>
     </div>
 
-    <!-- SEO Content: What is Gojek -->
     <div class="seo-section">
-      <h2>什麼是 Gojek？</h2>
-      <p>Gojek 是印尼最大的網約車平台，類似台灣的 Uber，提供 GoCar（轎車）和 GoRide（機車）兩種叫車服務。相比 Grab，Gojek 在峇里島有更多本地司機，通常等車時間較短，尖峰時段加成也略低。</p>
-      <p>Gojek 採用 App 內透明計費，出發前可以看到預估費用，不會有計程車常見的漫天開價問題。支援現金、信用卡和 GoPay 電子錢包付款。</p>
-      <h3>GoCar vs GoRide 怎麼選？</h3>
+      <h2>What is Gojek?</h2>
+      <p>Gojek is Indonesia's largest ride-hailing platform, similar to Uber or Grab. In Bali, it offers two main services: GoCar (car) and GoRide (motorbike taxi). It uses transparent app-based pricing — you see the estimated fare before you book, with no haggling.</p>
+      <h3>GoCar vs GoRide — which should I choose?</h3>
       <ul>
-        <li><strong>GoCar（轎車）</strong>：適合行李多、需要冷氣、不習慣機車的旅客。費用約為 GoRide 的 2–3 倍。</li>
-        <li><strong>GoRide（機車）</strong>：移動快速、容易穿越塞車路段，費用最低。需要接受戴安全帽乘坐機車。</li>
+        <li><strong>GoCar (car)</strong>: Best for luggage, air-conditioning, or if you're not comfortable on a motorbike. Costs roughly 2–3× more than GoRide.</li>
+        <li><strong>GoRide (motorbike)</strong>: Faster in traffic, much cheaper, great for short trips. Requires wearing a helmet.</li>
       </ul>
-      <h3>GoRide 安全嗎？</h3>
-      <p>Gojek 司機都有保險，但峇里島交通較複雜，建議對摩托車乘坐不熟悉的旅客優先選擇 GoCar，特別是夜間行程或長途路線。</p>
+      <h3>Is GoRide safe?</h3>
+      <p>Gojek drivers are insured. For those unfamiliar with motorbike riding, GoCar is the safer choice — especially at night or on longer journeys.</p>
     </div>
 
-    <!-- SEO Table: Fare Reference -->
-    <!-- No-Gojek Zone Guide -->
     <div class="seo-section">
-      <h2>🚫 No-Gojek Zone 禁區完整指南</h2>
-      <p>No-Gojek Zone 是在峇里島部分熱門觀光區設立的網約車禁制區，由當地計程車工會（Taksi Bali）推動。在禁區內叫車可能導致司機被攔截、乘客遭到騷擾，請務必注意。</p>
-      <h3>主要禁區說明</h3>
+      <h2>🚫 No-Gojek Zone Guide</h2>
+      <p>No-Gojek Zones are enforced by local taxi associations (Taksi Bali) in Bali's most popular tourist areas. Ride-hailing inside these zones can get drivers penalised or passengers hassled.</p>
+      <h3>Main No-Gojek Zones</h3>
       <ul>
-        <li><strong>烏布市中心</strong>：Jalan Monkey Forest、Ubud Palace 周邊為禁區。建議請住宿安排接駁，或走到 Jalan Raya Ubud 主幹道外圍叫車。</li>
-        <li><strong>烏魯瓦圖</strong>：Single Fin、Uluwatu Temple 周邊。建議用住宿安排的接駁或包車。</li>
-        <li><strong>Tanah Lot（海神廟）</strong>：入口處禁止下車，需從停車場外圍步行進入，叫車也需走到主要大路再上車。</li>
-        <li><strong>Padang Bai 碼頭</strong>：由當地計程車工會管控，Gojek 幾乎無法在碼頭附近接客。</li>
-        <li><strong>Canggu / Sanur 部分區域</strong>：Batu Bolong 主街、Echo Beach 等熱門點周邊有非正式禁區，建議走出主要觀光點再叫車。</li>
+        <li><strong>Ubud town centre</strong>: Jalan Monkey Forest and the area around Ubud Palace. Walk to the outskirts of Jalan Raya Ubud to hail a Gojek, or ask your accommodation to arrange a local taxi.</li>
+        <li><strong>Uluwatu</strong>: Around Single Fin and Uluwatu Temple. Use accommodation transfers or a private driver.</li>
+        <li><strong>Tanah Lot</strong>: No drop-off at the entrance. Walk to the main road before booking a pick-up.</li>
+        <li><strong>Padang Bai port</strong>: Controlled by the local taxi union — Gojek can barely operate near the port.</li>
+        <li><strong>Parts of Canggu / Sanur</strong>: Informal restrictions near Batu Bolong, Echo Beach, and Sanur beachfront. Walk away from the main tourist strip before booking.</li>
       </ul>
     </div>
 
     </div><!-- /.below-grid -->
 
-    <!-- Related Links -->
     <div class="related-links-card">
-      <div class="related-links-title">📖 延伸閱讀</div>
+      <div class="related-links-title">📖 Further Reading</div>
       <div id="related-links-list"></div>
     </div>
 
   </div><!-- /.page-wrap -->
 
   <Footer />
-
 
   <script is:inline define:vars={{ zonesJson, faresJson }}>
     const zones = JSON.parse(zonesJson);
@@ -851,15 +693,12 @@ const ldJson = JSON.stringify({
     let toMarker = null;
     let routeLine = null;
 
-    // Populate selects
     function buildSelects() {
       const fromEl = document.getElementById('from-zone');
       const toEl = document.getElementById('to-zone');
       zones.forEach(z => {
-        const o1 = new Option(z.name_zh, z.id);
-        const o2 = new Option(z.name_zh, z.id);
-        fromEl.add(o1);
-        toEl.add(o2);
+        fromEl.add(new Option(z.name_en, z.id));
+        toEl.add(new Option(z.name_en, z.id));
       });
     }
 
@@ -896,16 +735,15 @@ const ldJson = JSON.stringify({
       return 'Rp ' + n.toLocaleString('id-ID');
     }
 
-
     function getZoneWarning(zoneId) {
       const warnings = {
-        airport: '📍 峇里島機場設有 Gojek Customer Lounge，步行前往後即可在 App 叫車，詳見上方教學影片。',
-        ubud: '⚠️ 烏布市中心是 No-Gojek Zone。需要走到 Jalan Raya Ubud 外圍才能叫車，或請住宿代叫當地計程車。',
-        uluwatu: '⚠️ Uluwatu 是 No-Gojek Zone，特別是 Single Fin 周邊。建議用住宿安排的接駁或包車。',
-        tanah_lot: '⚠️ 海神廟入口處禁止 Gojek 下車，需走到主要大路外圍再叫車。',
-        padang_bai: '⚠️ Padang Bai 碼頭是 No-Gojek Zone，由當地計程車工會管控，建議改用當地計程車。',
-        canggu: '⚠️ Canggu 部分熱門區域（如 Echo Beach、Batu Bolong 主街）有非正式 Gojek 限制，建議走出主要觀光點再叫車。',
-        sanur: '⚠️ Sanur 海邊部分區域是 No-Gojek Zone，建議走到 Jalan Danau Tamblingan 主幹道再叫車。',
+        airport: '📍 Bali Airport has a Gojek Customer Lounge — walk there after arrivals and book via the app. See the tutorial video above.',
+        ubud: '⚠️ Ubud town centre is a No-Gojek Zone. Walk to the outskirts of Jalan Raya Ubud to book a ride, or ask your accommodation to arrange transport.',
+        uluwatu: '⚠️ Uluwatu (especially near Single Fin) is a No-Gojek Zone. Use accommodation transfers or a private driver.',
+        tanah_lot: '⚠️ No drop-off at Tanah Lot entrance. Walk to the main road before booking a Gojek pick-up.',
+        padang_bai: '⚠️ Padang Bai port is a No-Gojek Zone controlled by local taxi unions. Use a local taxi instead.',
+        canggu: '⚠️ Parts of Canggu (Echo Beach, Batu Bolong main strip) have informal Gojek restrictions. Walk away from the main tourist area before booking.',
+        sanur: '⚠️ Parts of Sanur beachfront are a No-Gojek Zone. Walk to Jalan Danau Tamblingan before booking.',
       };
       return warnings[zoneId] || null;
     }
@@ -915,14 +753,8 @@ const ldJson = JSON.stringify({
       const toId = document.getElementById('to-zone').value;
       const isPeak = document.getElementById('peak-toggle').checked;
 
-      if (!fromId || !toId) {
-        alert('請選擇起點和終點');
-        return;
-      }
-      if (fromId === toId) {
-        alert('請選擇不同的起點和終點');
-        return;
-      }
+      if (!fromId || !toId) { alert('Please select origin and destination'); return; }
+      if (fromId === toId) { alert('Please select different origin and destination'); return; }
 
       const fromZone = zones.find(z => z.id === fromId);
       const toZone = zones.find(z => z.id === toId);
@@ -932,14 +764,12 @@ const ldJson = JSON.stringify({
 
       if (route) {
         if (currentService === 'gocar') {
-          normalMin = route.gocar_min;
-          normalMax = route.gocar_max;
+          normalMin = route.gocar_min; normalMax = route.gocar_max;
         } else {
-          normalMin = route.goride_min;
-          normalMax = route.goride_max;
+          normalMin = route.goride_min; normalMax = route.goride_max;
         }
-        dataSourceText = '📍 資料來源：✅ 實測費用（僅供參考，以 App 報價為準）';
-        durationText = `約 ${route.duration_min}–${route.duration_max} 分鐘`;
+        dataSourceText = '📍 Source: ✅ Real-world fares (estimates only — check live quote in app)';
+        durationText = `approx. ${route.duration_min}–${route.duration_max} min`;
       } else {
         const dist = haversine(fromZone.lat, fromZone.lng, toZone.lat, toZone.lng) * 1.4;
         if (currentService === 'gocar') {
@@ -951,17 +781,16 @@ const ldJson = JSON.stringify({
         }
         const estMin = Math.round(dist / 35 * 60);
         const estMax = Math.round(dist / 20 * 60);
-        durationText = `約 ${estMin}–${estMax} 分鐘（${dist.toFixed(1)} 公里）`;
-        dataSourceText = '📐 公式估算，僅供參考——此路線尚無實測資料';
+        durationText = `approx. ${estMin}–${estMax} min (${dist.toFixed(1)} km)`;
+        dataSourceText = '📐 Formula estimate — no real-world data for this route yet';
       }
 
       const peakMin = Math.round(normalMax * 1.2 / 1000) * 1000;
       const peakMax = Math.round(normalMax * 1.5 / 1000) * 1000;
 
-      // Update result card
-      document.getElementById('result-route').textContent = `${fromZone.name_zh} → ${toZone.name_zh}`;
+      document.getElementById('result-route').textContent = `${fromZone.name_en} → ${toZone.name_en}`;
       document.getElementById('result-meta').textContent = `${currentService === 'gocar' ? '🚗 GoCar' : '🛵 GoRide'} · ${durationText}`;
-      document.getElementById('fare-normal-label').textContent = isPeak ? '一般時段（供比較）' : '預估費用';
+      document.getElementById('fare-normal-label').textContent = isPeak ? 'Normal fare (for comparison)' : 'Estimated fare';
       document.getElementById('fare-normal-amount').textContent = `${formatRp(normalMin)} – ${formatRp(normalMax)}`;
 
       const peakEl = document.getElementById('fare-peak');
@@ -974,11 +803,9 @@ const ldJson = JSON.stringify({
 
       document.getElementById('data-source').textContent = dataSourceText;
 
-      // Zone warnings
       const warnEl = document.getElementById('zone-warnings');
       warnEl.innerHTML = '';
-      const warnIds = new Set([fromId, toId]);
-      warnIds.forEach(id => {
+      new Set([fromId, toId]).forEach(id => {
         const zone = zones.find(z => z.id === id);
         if (zone && zone.no_gojek_zone) {
           const w = getZoneWarning(id);
@@ -991,20 +818,12 @@ const ldJson = JSON.stringify({
         }
       });
 
-      // Airport video
-      const videoCard = document.getElementById('airport-video-card');
-      videoCard.style.display = fromId === 'airport' ? 'block' : 'none';
-
+      document.getElementById('airport-video-card').style.display = fromId === 'airport' ? 'block' : 'none';
       document.getElementById('result-card').classList.add('show');
-
-      // Update map
       updateMap(fromZone, toZone);
-
-      // Scroll to result
       document.getElementById('result-card').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
     }
 
-    // Leaflet map — dynamic load to avoid CDN timing / SRI issues
     function initMap() {
       if (leafletMap) return;
       const container = document.getElementById('gojek-map');
@@ -1020,18 +839,13 @@ const ldJson = JSON.stringify({
         setTimeout(function() { leafletMap.invalidateSize(); }, 200);
       }
 
-      if (typeof L !== 'undefined') {
-        createMap();
-        return;
-      }
+      if (typeof L !== 'undefined') { createMap(); return; }
 
-      // Inject Leaflet CSS
       const link = document.createElement('link');
       link.rel = 'stylesheet';
       link.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
       document.head.appendChild(link);
 
-      // Inject Leaflet JS then create map
       const script = document.createElement('script');
       script.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
       script.onload = createMap;
@@ -1040,7 +854,6 @@ const ldJson = JSON.stringify({
 
     function updateMap(fromZone, toZone) {
       initMap();
-
       const greenIcon = L.divIcon({ className: '', html: '<div style="width:14px;height:14px;background:#00b14f;border:2px solid #fff;border-radius:50%;box-shadow:0 1px 4px rgba(0,0,0,0.4)"></div>', iconSize: [14,14], iconAnchor: [7,7] });
       const redIcon = L.divIcon({ className: '', html: '<div style="width:14px;height:14px;background:#e53935;border:2px solid #fff;border-radius:50%;box-shadow:0 1px 4px rgba(0,0,0,0.4)"></div>', iconSize: [14,14], iconAnchor: [7,7] });
 
@@ -1048,57 +861,39 @@ const ldJson = JSON.stringify({
       if (toMarker) leafletMap.removeLayer(toMarker);
       if (routeLine) leafletMap.removeLayer(routeLine);
 
-      fromMarker = L.marker([fromZone.lat, fromZone.lng], { icon: greenIcon })
-        .addTo(leafletMap)
-        .bindPopup(`<b>${fromZone.name_zh}</b><br>起點`);
-
-      toMarker = L.marker([toZone.lat, toZone.lng], { icon: redIcon })
-        .addTo(leafletMap)
-        .bindPopup(`<b>${toZone.name_zh}</b><br>終點`);
-
+      fromMarker = L.marker([fromZone.lat, fromZone.lng], { icon: greenIcon }).addTo(leafletMap).bindPopup(`<b>${fromZone.name_en}</b><br>Origin`);
+      toMarker = L.marker([toZone.lat, toZone.lng], { icon: redIcon }).addTo(leafletMap).bindPopup(`<b>${toZone.name_en}</b><br>Destination`);
       routeLine = L.polyline([[fromZone.lat, fromZone.lng], [toZone.lat, toZone.lng]], {
         color: '#00b14f', weight: 2.5, dashArray: '6, 8', opacity: 0.8
       }).addTo(leafletMap);
-
       leafletMap.fitBounds([[fromZone.lat, fromZone.lng], [toZone.lat, toZone.lng]], { padding: [40, 40] });
     }
 
     window.toggleFaq = function toggleFaq(btn) {
       const ans = btn.nextElementSibling;
       const isOpen = ans.classList.contains('open');
-      // Close all
       document.querySelectorAll('.faq-a').forEach(el => el.classList.remove('open'));
       document.querySelectorAll('.faq-q').forEach(el => el.classList.remove('open'));
-      if (!isOpen) {
-        ans.classList.add('open');
-        btn.classList.add('open');
-      }
+      if (!isOpen) { ans.classList.add('open'); btn.classList.add('open'); }
     }
 
-    // Related links — shuffle and pick 8
     const relatedLinks = [
-      { text: '峇里島包車須知 - 費用、預訂方式、優勢分析', href: '/blog/2024-01-12-65a0a163fd8978000115f37a/' },
-      { text: '【峇里島包車司機推薦】看網友真實點評找到適合你的好司機', href: '/blog/2024-07-07-668aaea7fd89780001981840/' },
-      { text: '抵達峇里島：接機的交通選擇及第一天的實用建議', href: '/blog/2024-06-05-665d6a8efd897800013337a9/' },
-      { text: '峇里島旅遊中文司機/中文導遊/中文包車行程推薦', href: '/blog/2024-01-29-65b75c45fd897800019130ff/' },
-      { text: '峇里島租摩托車攻略！應該租摩托車好，還是包車好？', href: '/blog/2024-01-22-65adf238fd89780001a798ea/' },
-      { text: '峇里島租機車攻略：價格、安全、注意事項一次看', href: '/blog/2024-11-06-672a0629fd897800010aa2bc/' },
-      { text: '什麼時候包車？什麼場合叫車？包車 vs. 叫車：如何選擇最適合你的旅行方式？', href: '/blog/2024-05-05-6636f348fd897800013df126/' },
-      { text: '在印尼/峇里島旅行，一定要下載的APP：Gojek全攻略', href: '/blog/2023-08-20-64e187dffd897800017304fe/' },
-      { text: '網約車Gojek如何使用？', href: '/blog/2023-08-20-64e187dffd897800017304fe/' },
-      { text: '印尼/峇里島的Gojek與GoPay註冊、使用、儲值教學全面指南', href: '/blog/2024-10-13-670b5191fd8978000185cf37/' },
-      { text: '峇里島APP網約車司機的套路：如何避免Grab/Gojek陷阱？', href: '/blog/2024-05-27-66546581fd8978000119d572/' },
-      { text: 'Nusa Penida佩尼達島計程車、Gojek/Grab、包車、摩托車交通攻略', href: '/blog/2024-01-16-65a5e069fd897800010625d0/' },
-      { text: '《峇里島機車租賃風險檢查清單》峇里島租機車攻略：價格、安全、注意事項一次看', href: '/blog/2024-11-06-672a0629fd897800010aa2bc/' },
-      { text: '【印尼/峇里島必備APP】Gojek / Grab 叫車圖文教學指南', href: '/blog/2026-03-18-bali-gojek-grab-guide/' },
+      { text: 'Bali Private Driver Guide — Cost, How to Book, and Why It\'s Worth It', href: '/blog/2024-01-12-65a0a163fd8978000115f37a/' },
+      { text: 'Best Bali Private Drivers — Real Reviews from Travellers', href: '/blog/2024-07-07-668aaea7fd89780001981840/' },
+      { text: 'Arriving in Bali: Airport Transfer Options and Day-One Tips', href: '/blog/2024-06-05-665d6a8efd897800013337a9/' },
+      { text: 'Renting a Scooter in Bali: Prices, Safety and What to Know', href: '/blog/2024-01-22-65adf238fd89780001a798ea/' },
+      { text: 'Private Driver vs Ride-Hailing in Bali: How to Choose', href: '/blog/2024-05-05-6636f348fd897800013df126/' },
+      { text: 'Gojek Bali Complete Guide — Register, Pay, and Ride', href: '/blog/2023-08-20-64e187dffd897800017304fe/' },
+      { text: 'How to Register and Top Up GoPay in Bali', href: '/blog/2024-10-13-670b5191fd8978000185cf37/' },
+      { text: 'Gojek & Grab Scams in Bali — How to Avoid Driver Tricks', href: '/blog/2024-05-27-66546581fd8978000119d572/' },
+      { text: 'Nusa Penida Transport Guide — Gojek, Taxis, Scooters & More', href: '/blog/2024-01-16-65a5e069fd897800010625d0/' },
+      { text: 'Gojek & Grab in Bali — Step-by-Step Photo Guide', href: '/blog/2026-03-18-bali-gojek-grab-guide/' },
     ];
     const shuffled = relatedLinks.sort(() => Math.random() - 0.5).slice(0, 8);
     const listEl = document.getElementById('related-links-list');
     if (listEl) {
       const s = 'display:block;padding:12px 16px;margin-bottom:8px;background:linear-gradient(135deg,#f0f7ff,#fff);border:1.5px solid #c0d8f0;border-left:4px solid #1a6fa8;border-radius:10px;text-decoration:none;color:#1a4a7a;font-size:14px;font-weight:600;line-height:1.4;';
-      listEl.innerHTML = shuffled.map(l =>
-        `<a style="${s}" href="${l.href}">${l.text}</a>`
-      ).join('');
+      listEl.innerHTML = shuffled.map(l => `<a style="${s}" href="${l.href}">${l.text}</a>`).join('');
     }
 
     buildSelects();
