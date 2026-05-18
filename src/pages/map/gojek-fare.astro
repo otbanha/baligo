@@ -1094,8 +1094,9 @@ const ldJson = JSON.stringify({
     const shuffled = relatedLinks.sort(() => Math.random() - 0.5).slice(0, 8);
     const listEl = document.getElementById('related-links-list');
     if (listEl) {
+      const s = 'display:block;padding:12px 16px;margin-bottom:8px;background:linear-gradient(135deg,#f0f7ff,#fff);border:1.5px solid #c0d8f0;border-left:4px solid #1a6fa8;border-radius:10px;text-decoration:none;color:#1a4a7a;font-size:14px;font-weight:600;line-height:1.4;';
       listEl.innerHTML = shuffled.map(l =>
-        `<a class="related-link-item" href="${l.href}">${l.text}</a>`
+        `<a style="${s}" href="${l.href}">${l.text}</a>`
       ).join('');
     }
 
