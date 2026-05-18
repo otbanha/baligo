@@ -5,15 +5,108 @@ import Header from '../../components/Header.astro';
 import TopStrip from '../../components/TopStrip.astro';
 import Footer from '../../components/Footer.astro';
 import TripPlannerContent from '../../components/TripPlannerContent.astro';
+
+const hreflangs = [
+  { hreflang: 'zh-TW', href: 'https://gobaligo.id/trip-planner/' },
+  { hreflang: 'zh-CN', href: 'https://gobaligo.id/zh-cn/trip-planner/' },
+  { hreflang: 'zh-HK', href: 'https://gobaligo.id/zh-hk/trip-planner/' },
+  { hreflang: 'en',    href: 'https://gobaligo.id/en/trip-planner/' },
+  { hreflang: 'x-default', href: 'https://gobaligo.id/trip-planner/' },
+];
 ---
 
 <!doctype html>
 <html lang="en">
 <head>
   <BaseHead
-    title="Bali Trip Planner | Personalised Area Guides & Activity Picks 2026"
-    description="Tell us your travel style and get personalised Bali itinerary recommendations instantly. Areas, food, activities and more — organised by region."
+    title="Bali Trip Planner | Free Personalised Itinerary Tool 2026"
+    description="Free Bali trip planner: choose your travel style and get personalised area guides, attraction picks and activity recommendations instantly. No sign-up needed."
+    hreflangs={hreflangs}
   />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebApplication",
+        "name": "Bali Trip Planner",
+        "description": "Free online Bali trip planning tool. Enter your travel style, trip length and preferences to instantly receive personalised attraction guides, area recommendations and must-read articles.",
+        "url": "https://gobaligo.id/en/trip-planner/",
+        "applicationCategory": "TravelApplication",
+        "operatingSystem": "Web",
+        "inLanguage": "en",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+        "featureList": [
+          "Travel style selection (family, honeymoon, friends, solo, elderly)",
+          "Draft itinerary analysis and gap-filling",
+          "Personalised area and attraction guide recommendations",
+          "Region-by-region accommodation advice",
+          "Save results as PDF to share with travel companions"
+        ],
+        "provider": {
+          "@type": "Organization",
+          "name": "Go Bali Go",
+          "url": "https://gobaligo.id"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://gobaligo.id/en/" },
+          { "@type": "ListItem", "position": 2, "name": "Bali Trip Planner", "item": "https://gobaligo.id/en/trip-planner/" }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "name": "3 Steps to Plan Your Bali Itinerary",
+        "description": "Use the free Bali Trip Planner to get personalised recommendations based on your travel style",
+        "step": [
+          { "@type": "HowToStep", "position": 1, "name": "Choose Your Travel Style", "text": "Select who you're travelling with, how many days you have, your preferred activities and rough budget — all single-tap choices." },
+          { "@type": "HowToStep", "position": 2, "name": "Paste Your Draft Itinerary", "text": "Optional: paste your existing rough plan. The tool spots empty days and fills in activity recommendations for the areas you've already chosen." },
+          { "@type": "HowToStep", "position": 3, "name": "Get Your Personalised Picks", "text": "Receive a tailored set of attraction guides, area recommendations and must-read articles. Save as PDF to share with your travel companions." }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How many days do I need in Bali?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Most travellers go for 5 to 7 days. First-timers should aim for at least 6 days to cover both the southern beach areas (Kuta, Seminyak, Uluwatu) and the cultural heart of Ubud. Under 5 days tends to feel rushed; 8+ days opens up island-hopping to Nusa Penida, Nusa Lembongan or Komodo." }
+          },
+          {
+            "@type": "Question",
+            "name": "Which areas should first-timers visit in Bali?",
+            "acceptedAnswer": { "@type": "Answer", "text": "The classic first-timer combination is Ubud plus one or two southern beach areas. Ubud gives you the rice terraces, Monkey Forest and Tirta Empul temple. For the south: Kuta for surf lessons and budget options; Seminyak for upscale restaurants and beach clubs; Uluwatu for dramatic cliffs and the Kecak fire dance. Try to stay at least two nights in each area." }
+          },
+          {
+            "@type": "Question",
+            "name": "Which area of Bali is best for families with kids?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Sanur and Nusa Dua are the top picks for families. Sanur has a calm, shallow beach, a turtle conservation centre and AeroXSpace indoor play; Nusa Dua has large resort hotels, good security and the Waterbom water park. In Ubud, the Bali Wildlife Park and white-water rafting are huge hits with older kids." }
+          },
+          {
+            "@type": "Question",
+            "name": "What's the best Bali itinerary for a honeymoon couple?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Uluwatu is the top honeymoon base — cliffside pool villas, the Kecak fire dance at sunset and Jimbaran seafood dinners. Seminyak works well for romantic dinners and boutique spas. Ubud adds a softer, jungle side with private pool villas. Avoid Kuta, and if budget allows, a day trip to Nusa Penida's Angel's Billabong is an unforgettable highlight." }
+          },
+          {
+            "@type": "Question",
+            "name": "How do I use the Bali Trip Planner?",
+            "acceptedAnswer": { "@type": "Answer", "text": "The whole process takes 1–2 minutes. In Step 1, select your travel companions, trip length, preferred activities and budget. In Step 2, optionally paste in your rough itinerary text. Then tap 'See Recommendations' and the tool generates a personalised set of guides, area tips and must-read articles." }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I save or share my results with travel companions?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Yes! Hit the 'Save as PDF' button at the bottom of the results page. Your browser's print dialog opens — choose 'Save as PDF' and you'll get a clean document with all your recommended spots and article links. You can also copy the page URL and share it with friends." }
+          },
+          {
+            "@type": "Question",
+            "name": "What's the best time of year to visit Bali?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Bali has a dry season (May–September) and a wet season (November–March). The dry season is peak time: reliable weather, ideal for island-hopping, but flights and accommodation cost more. The wet season brings short afternoon showers while mornings stay sunny — prices are lower and crowds are smaller. First-timers: aim for June–August. Budget travellers: April or October offer the best value." }
+          }
+        ]
+      }
+    ]
+  })} />
 </head>
 <body>
   <Header lang="en" basePath="trip-planner" />

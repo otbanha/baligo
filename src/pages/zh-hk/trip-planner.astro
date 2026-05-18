@@ -5,15 +5,108 @@ import Header from '../../components/Header.astro';
 import TopStrip from '../../components/TopStrip.astro';
 import Footer from '../../components/Footer.astro';
 import TripPlannerContent from '../../components/TripPlannerContent.astro';
+
+const hreflangs = [
+  { hreflang: 'zh-TW', href: 'https://gobaligo.id/trip-planner/' },
+  { hreflang: 'zh-CN', href: 'https://gobaligo.id/zh-cn/trip-planner/' },
+  { hreflang: 'zh-HK', href: 'https://gobaligo.id/zh-hk/trip-planner/' },
+  { hreflang: 'en',    href: 'https://gobaligo.id/en/trip-planner/' },
+  { hreflang: 'x-default', href: 'https://gobaligo.id/trip-planner/' },
+];
 ---
 
 <!doctype html>
 <html lang="zh-HK">
 <head>
   <BaseHead
-    title="峇里島行程規劃工具｜個人化攻略景點推薦 2026"
-    description="輸入你的旅遊風格，立即獲得個人化峇里島攻略推薦。分區景點、美食、活動按區域整理清楚，適合第一次去峇里島或想補足空缺天的旅人。"
+    title="峇里島行程規劃工具｜免費個人化攻略景點推薦 2026"
+    description="免費峇里島行程規劃工具，輸入旅遊風格立即獲得個人化景點攻略。分區景點、美食、活動整理清楚，適合第一次去峇里島嘅旅人。"
+    hreflangs={hreflangs}
   />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebApplication",
+        "name": "峇里島行程規劃工具",
+        "description": "免費線上峇里島行程規劃工具。依照旅遊風格、天數同偏好，即時產生個人化景點攻略、分區住宿建議同推薦文章。",
+        "url": "https://gobaligo.id/zh-hk/trip-planner/",
+        "applicationCategory": "TravelApplication",
+        "operatingSystem": "Web",
+        "inLanguage": "zh-HK",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "HKD" },
+        "featureList": [
+          "旅遊風格選擇（親子、蜜月、朋友、獨遊、長輩）",
+          "行程草稿分析與空缺補充",
+          "分區景點攻略推薦",
+          "個人化住宿區域建議",
+          "存成PDF分享旅伴"
+        ],
+        "provider": {
+          "@type": "Organization",
+          "name": "Go Bali Go",
+          "url": "https://gobaligo.id"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "主頁", "item": "https://gobaligo.id/zh-hk/" },
+          { "@type": "ListItem", "position": 2, "name": "峇里島行程規劃工具", "item": "https://gobaligo.id/zh-hk/trip-planner/" }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "name": "3步驟用峇里島行程規劃工具",
+        "description": "使用免費峇里島行程規劃工具，依照旅遊風格獲得個人化攻略推薦",
+        "step": [
+          { "@type": "HowToStep", "position": 1, "name": "選擇旅遊風格", "text": "選擇同行對象、天數、想做嘅活動同預算範圍，全程點擊操作。" },
+          { "@type": "HowToStep", "position": 2, "name": "貼上行程草稿", "text": "自選：貼上你已有嘅行程草稿，系統自動分析空缺並補充推薦。" },
+          { "@type": "HowToStep", "position": 3, "name": "取得個人化推薦", "text": "取得專屬嘅景點攻略、住宿區域推薦同必讀文章，可存成PDF共享。" }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "去峇里島自由行要幾日先夠？",
+            "acceptedAnswer": { "@type": "Answer", "text": "大部分旅客選擇5天4夜到7天6夜。第一次去建議最少安排6日，先可以同時涵蓋南部海灘（庫塔、水明漾、烏魯瓦圖）同中部文化區（烏布）兩大核心。少過5日容易走馬看花，超過8日就可以考慮加入努沙佩尼達、科摩多等離島行程，豐富度大升。" }
+          },
+          {
+            "@type": "Question",
+            "name": "第一次去峇里島應該安排邊啲區域？",
+            "acceptedAnswer": { "@type": "Answer", "text": "新手首推「烏布＋南部沿海」嘅組合。烏布係峇里島文化中心，梯田、猴子森林、聖泉寺係必去；南部可依喜好揀：鍾意衝浪就住庫塔，鍾意精品餐廳就揀水明漾，鍾意靜就去烏魯瓦圖或沙努爾。建議同一地區至少住2晚，避免每日搬行李。" }
+          },
+          {
+            "@type": "Question",
+            "name": "帶小朋友去峇里島住邊區好？",
+            "acceptedAnswer": { "@type": "Answer", "text": "帶細路旅遊首選沙努爾或努沙杜瓦。沙努爾有平靜沙灘、海龜保育中心、AeroXSpace室內遊樂場，好適合帶幼兒；努沙杜瓦酒店集中、治安好、有Waterbom水上樂園，係最多親子團嘅選擇。烏布嘅野生動物園同泛舟都非常受小朋友歡迎，適合安排1–2日去玩。" }
+          },
+          {
+            "@type": "Question",
+            "name": "峇里島蜜月點玩好？",
+            "acceptedAnswer": { "@type": "Answer", "text": "蜜月行程首選烏魯瓦圖嘅懸崖私人泳池別墅，配埋火舞表演同夕陽海鮮大餐；水明漾適合浪漫晚餐同精品SPA；烏布則有叢林泳池同Kecak文化表演。建議避開庫塔（較嘈），預算夠嘅話可以去努沙佩尼達安排一日遊，天使之眼藍潟湖係極靚嘅蜜月打卡位。" }
+          },
+          {
+            "@type": "Question",
+            "name": "峇里島行程規劃工具點用？",
+            "acceptedAnswer": { "@type": "Answer", "text": "整個流程只需1–2分鐘。先喺步驟一揀你嘅同行對象、天數、想做嘅活動，跟住步驟二可以自選填寫你已有嘅行程草稿（直接貼文字就得），最後撳「睇推薦攻略」，系統就會根據你嘅條件整理出個人化景點文章、住宿區域同注意事項清單。" }
+          },
+          {
+            "@type": "Question",
+            "name": "規劃結果可以存檔或分享畀旅伴嗎？",
+            "acceptedAnswer": { "@type": "Answer", "text": "可以！推薦結果頁面下方有「存成PDF」掣，撳咗之後會開瀏覽器列印功能，揀「另存PDF」就得。PDF入面包含你選擇嘅景點、推薦文章連結同gobaligo.id嘅網址，方便旅伴一齊參考。亦可以直接將頁面網址複製分享畀朋友。" }
+          },
+          {
+            "@type": "Question",
+            "name": "峇里島淡旺季差別大嗎？幾時去最好？",
+            "acceptedAnswer": { "@type": "Answer", "text": "峇里島全年溫暖，主要分乾季（5–9月）同雨季（11–3月）。乾季係旺季，天氣穩定、適合離島、戶外活動豐富，但機票同住宿較貴；雨季通常下晝短陣雨，其餘時間依然晴朗，物價較低、遊客較少，SPA同室內行程唔受影響。建議第一次去揀6–8月，有預算彈性嘅旅客可考慮4月或10月（性價比最高）。" }
+          }
+        ]
+      }
+    ]
+  })} />
 </head>
 <body>
   <Header lang="zh-hk" basePath="trip-planner" />
