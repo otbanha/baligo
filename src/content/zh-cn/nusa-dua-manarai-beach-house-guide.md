@@ -1,5 +1,6 @@
 ---
-title: Nusa Dua最棒的海滩俱乐部│Nusa Dua攻略│南湾区必玩│Manarai Beach House
+slug: nusa-dua-manarai-beach-house-guide
+title: 努沙杜瓦最棒的海滩俱乐部│努沙杜瓦攻略│南湾区必玩│Manarai Beach House
 description: >-
   谁说努沙杜瓦的 Beach Club 一定很贵？深度开箱 Manarai Beach House：坐拥南湾纯净白沙滩，入场完全免费！本篇分享最低消费
   (Minimum Spend)
@@ -21,18 +22,18 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a0202a8fecbbe830196c5755e35cdd7b.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b57fd897800013a8e48'
 lang: zh-cn
-_srcHash: a65da0255538adcbb075e1b2f969410f
+_srcHash: db63957fd001b6a1b77070a6b778917c
 ---
 
-来到南湾区/Nusa Dua必访的海滩俱乐部。最棒的是入场免费哦！
+来到南湾区/努沙杜瓦必访的海滩俱乐部。最棒的是入场免费喔！
 
-有沙滩和两个游泳池，吧台和餐厅 位于Nusa Dua区Sofitel Hotel的一角
+有沙滩和两个游泳池，吧台和餐厅 位于努沙杜瓦区Sofitel Hotel的一角
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_83f98f3ed3903a498793b4c00eb30e2f.jpg)
 
-Manarai Beach Club 是巴厘岛一个令人难以忘怀的度假胜地。这个豪华的沙滩俱乐部位于美丽的位于Nusa Dua区，提供绝佳的海滩景观和放松氛围。您可以在私人泳池中嬉水，美味的海鲜美食，并在舒适的躺椅上晒太阳。Manarai Beach Club 还经常举办精彩的活动和派对，带来无尽的娱乐乐趣。这是一个完美的地方，让您在巴厘岛度过愉快的一天，感受阳光、海滩和欢乐。
+Manarai Beach Club 是巴厘岛一个令人难忘的度假胜地。这个豪华的沙滩俱乐部位于美丽的位于努沙杜瓦区，提供绝佳的海滩景观和放松氛围。您可以在私人泳池中嬉水，享受美味的海鲜美食，并在舒适的躺椅上晒太阳。Manarai Beach Club 还经常举办精彩的活动和派对，带来无尽的娱乐乐趣。这是一个完美的地方，让您在巴厘岛度过愉快的一天，感受阳光、海滩和欢乐。
 
-# 看影片
+# 看视频
 
 https://youtu.be/BUl5vPzVHGw
 

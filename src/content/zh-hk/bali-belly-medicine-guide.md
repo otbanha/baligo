@@ -1,6 +1,7 @@
 ---
-title: Bali Belly 峇里島肚屙/腸胃炎/污糟水病點自救？Bali Belly 紓緩成藥攻略
-description: "\U0001F48A 峇里島當地藥房可以買到嘅藥品清單 (針對Bali Belly)"
+slug: bali-belly-medicine-guide
+title: 峇里島肚屙/腸胃炎/污糟水病點自救？Bali Belly 紓緩成藥攻略
+description: "\U0001F48A 峇里島當地藥房可買到嘅藥品清單 (針對Bali Belly)"
 pubDate: 2026-01-02T00:00:00.000Z
 category:
   - 旅行技巧
@@ -13,29 +14,24 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_eef45058d1c6971ff4946e72428f3b65.png'
 originalUrl: 'https://vocus.cc/article/69523427fd89780001caa652'
 lang: zh-hk
-_srcHash: 94a3076ffabc75a0486efa424f7a60d6
+_srcHash: 009984aba511124867aee4fc8b3e2e4b
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
 
-到咗峇里島之後，最驚嘅唔係曬黑，而係突如其來嘅 **Bali Belly（峇里島肚屙）**。無論係因為飲食水土不服、細菌感染，定係腸胃比較敏感，症狀一嚟真係會搞到成個旅程灰頭土臉。呢篇文章就幫大家整理一份「喺峇里島藥房就買得到嘅自救清單」，從補水、止屙、退燒到幾時應該睇醫生，一次過搞掂，遇到狀況都唔使慌！
+去到峇里島之後，最驚嘅唔係曬黑，而係突如其來嘅 **Bali Belly（峇里島肚屙）**。無論係因為飲食水土不服、細菌感染，定係腸胃比較敏感，症狀一嚟真係會搞到成個旅程好狼狽。呢篇文章就幫大家整理一份「喺峇里島藥房就買得到嘅自救清單」，由補水、止屙、退燒到幾時應該睇醫生，一次過搞掂，遇到狀況都唔會慌！
 
 ## Bali Belly 預防勝於治療
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a81dcdb7ad41f0217c48c227f3d2376a.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_29f49f8dcdb2f01829087cc9573e464d.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_f236c2f98d598a09ea38642c11f57cad.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_f1999375de63a55c0537c176c31bd193.jpg)
-
 https://youtu.be/GivvqCXp11A
-## 💊 峇里島當地藥房可以買到嘅藥品清單 (針對Bali Belly)
+
+## 💊 峇里島當地藥房可買到嘅藥品清單 (針對Bali Belly)
 
 ### 1. 口服補液鹽 (ORS) – 治療核心
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a81dcdb7ad41f0217c48c227f3d2376a.jpg)
 
-· 作用：預防同糾正肚屙引起嘅脫水，呢樣嘢比單純止屙更重要。
+· 作用：預防同糾正肚屙引起嘅脫水，呢樣比單純止屙更重要。
 
 · 當地常見品牌：Oralit, Hydralyte。
 
@@ -47,9 +43,9 @@ https://youtu.be/GivvqCXp11A
 
 · 作用：吸附腸道入面嘅細菌、毒素，舒緩症狀，唔係主要治療。
 
-· 當地常見牌子：Norit, Entrostop。
+· 當地常見品牌：Norit, Entrostop。
 
-· 關鍵提示：可能會影響其他藥物嘅吸收，建議同其他藥物（例如抗生素）分開至少2個鐘先食。
+· 關鍵提示：可能會影響其他藥物吸收，建議同其他藥物（例如抗生素）分開至少2個鐘先食。
 
 ### 3. 止瀉藥 (抗蠕動劑) – 應急使用
 
@@ -57,9 +53,9 @@ https://youtu.be/GivvqCXp11A
 
 · 作用：強效控制腹瀉次數，只係短期應急用（例如長途交通）。
 
-· 當地常見牌子：Loperamide (通用名，同Imodium成分一樣), Diapet, Lodia。
+· 當地常見品牌：Loperamide (通用名，同Imodium成分一樣), Diapet, Lodia。
 
-· 關鍵提示：發燒或者大便有血嘅人唔可以用，否則可能會令感染惡化。小朋友用之前一定要問醫生。
+· 關鍵提示：如果有發燒或者大便有血就唔好用，否則可能會令感染更加嚴重。小朋友用之前一定要問醫生。
 
 ### 4. 止痛/退燒藥
 
@@ -67,7 +63,7 @@ https://youtu.be/GivvqCXp11A
 
 · 作用：舒緩腹痛、發燒。
 
-· 當地常見牌子：Paracetamol (撲熱息痛通用名), Panadol, Sanmol, Ibuprofen。
+· 當地常見品牌：Paracetamol (撲熱息痛通用名), Panadol, Sanmol, Ibuprofen。
 
 · 關鍵提示：當地有登革熱風險，發燒時建議優先選用Paracetamol。Ibuprofen可能增加出血風險。
 
@@ -83,27 +79,27 @@ https://youtu.be/GivvqCXp11A
 
 · 當地常見品牌：Interlac, Lacto-B。
 
-· 關鍵提示：是輔助手段，不能替代補液或必要藥物。
+· 關鍵提示：係輔助手段，唔可以代替補液或必要藥物。
 
 ## ⚠️ 重要安全須知與就醫警訊
 
-**1. 唔好自己食抗生素**：Bali Belly可能由病毒或細菌引起，濫用抗生素無效且有害。抗生素需由醫生診斷後開出。
+**1. 唔好自己食抗生素**：Bali Belly可能由病毒或細菌引起，濫用抗生素無效且有害。抗生素需要由醫生診斷後開。
 
 **2.** **首要任務係補水**：無論係咪用藥，都必須持續、少量多次地補充口服補液鹽溶液或乾淨嘅樽裝水。
 
-**3. 留意危險信號**，即刻睇醫生：如果出現以下任何一種情況，請即刻停止自己用藥並尋求醫療幫助：
+**3. 留意危險信號**，即刻睇醫生：如果出現以下任何一種情況，請即刻停藥並去睇醫生：
 
 · 發燒超過 38.5°C。
 
-· 腹瀉或嘔吐物中帶血。
+· 屙嘔有血。
 
 · 嚴重肚痛。
 
 · 食唔到嘢飲唔到水、持續嘔吐。
 
-· 出現脫水跡象（口乾、小便少同顏色深、頭暈、極度虛弱）。
+· 出現脫水跡象（口乾、尿少色深、頭暈、極度虛弱）。
 
-· 症狀持續超過 48-72小時無改善。
+· 症狀持續超過 48-72小時 無改善。
 
 ## 🏥 點樣尋求醫療協助
 
@@ -111,9 +107,9 @@ https://youtu.be/GivvqCXp11A
 
 ## 💡 購買與溝通建議
 
-· 搵可靠藥房：可以優先搵連鎖藥房，例如Guardian、Kimia Farma、Watsons，呢啲地方嘅藥品來源正規。
+· 搵可靠藥房：可以優先搵連鎖藥房，例如 Guardian、Kimia Farma、Watsons，呢啲地方嘅藥品來源正規。
 
-· **溝通備用詞句：如果語言唔通，可以試下向藥劑師出示以下短句：**
+· **溝通備用句子：如果語言唔通，可以試下向藥劑師出示以下句子：**
 
 > ·“Oralit untuk diare.” (口服補液鹽用於肚屙。)
 
@@ -121,6 +117,6 @@ https://youtu.be/GivvqCXp11A
 
 > ·“Parasetamol untuk demam.” (撲熱息痛用於發燒。)
 
-**記住: 處理Bali Belly嘅原則係：補水優先、對症用藥、警惕危險信號、及時睇醫生。**
+**記住: 處理峇里島肚屙嘅原則是：補水優先、對症用藥、警惕危險信號、及時睇醫生。**
 
-**\*呢篇係網上收集嘅資訊, 唔係專業醫療建議. 情況嚴重都係建議睇醫生以策安全!**
+**\*呢篇係網上收集嘅資訊，唔係專業醫療建議。情況嚴重嘅話，建議睇醫生以策安全!**

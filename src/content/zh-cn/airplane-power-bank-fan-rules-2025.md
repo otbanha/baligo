@@ -1,4 +1,5 @@
 ---
+slug: airplane-power-bank-fan-rules-2025
 title: 移动电源/充电宝与随身USB风扇/挂脖风扇能否带上飞机？2025年最新规定总整理
 description: >-
   在搭乘飞机时，携带充电宝（移动电源）和含有电池的挂脖风扇确实需要遵守特定的航空安全规定。以下是针对这两类物品的携带指南：     ✈️
@@ -16,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/682ebdb1fd89780001b2f097'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: d826b50dcbf6656a488df2c271c3dafe
+_srcHash: 09572c253e3f4a92431abadf573749c4
 ---
 
 在搭乘飞机时，携带充电宝（移动电源）和含有电池的挂脖风扇确实需要遵守特定的航空安全规定。以下是针对这两类物品的携带指南：

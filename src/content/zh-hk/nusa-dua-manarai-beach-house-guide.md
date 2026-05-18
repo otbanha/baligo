@@ -1,9 +1,10 @@
 ---
-title: Nusa Dua最正嘅海灘俱樂部│Nusa Dua攻略│南灣區必玩│Manarai Beach House
+slug: nusa-dua-manarai-beach-house-guide
+title: 努沙杜瓦最正嘅海灘俱樂部│努沙杜瓦攻略│南灣區必玩│Manarai Beach House
 description: >-
-  邊個話努沙杜瓦嘅 Beach Club 一定好貴？深入開箱 Manarai Beach House：坐擁南灣純淨白沙灘，入場完全免費！呢篇分享最低消費
+  邊個話努沙杜瓦嘅 Beach Club 一定好貴？深度開箱 Manarai Beach House：坐擁南灣純淨白沙灘，入場完全免費！呢篇分享最低消費
   (Minimum Spend)
-  揀位技巧、兩座絕美湛藍泳池嘅打卡視角，以及結合國際同在地風味嘅必點料理。等您喺峇里島嘅陽光下，用最優雅嘅預算享受五星級嘅午後時光。
+  選位技巧、兩座絕美湛藍泳池嘅打卡視角，以及結合國際與在地風味嘅必點料理。等您喺峇里島嘅陽光下，用最優雅嘅預算享受五星級嘅午後時光。
 pubDate: 2019-07-15T00:00:00.000Z
 category:
   - 美食景點活動
@@ -21,18 +22,17 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a0202a8fecbbe830196c5755e35cdd7b.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b57fd897800013a8e48'
 lang: zh-hk
-_srcHash: a65da0255538adcbb075e1b2f969410f
+_srcHash: db63957fd001b6a1b77070a6b778917c
 ---
+嚟到南灣區/努沙杜瓦必訪嘅海灘俱樂部。最正嘅係入場免費㗎！
 
-嚟到南灣區/Nusa Dua必去嘅海灘俱樂部。最正嘅係入場免費㗎！
-
-有沙灘同兩個泳池，吧枱同餐廳 位於Nusa Dua區Sofitel Hotel嘅一角
+有沙灘同兩個泳池，吧台同餐廳 位於努沙杜瓦區 Sofitel Hotel 嘅一角
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_83f98f3ed3903a498793b4c00eb30e2f.jpg)
 
-Manarai Beach Club 係峇里島一個令人難忘嘅度假勝地。呢個豪華嘅沙灘俱樂部位於美麗嘅Nusa Dua區，提供絕佳嘅海灘景觀同放鬆氛圍。你可以喺私人泳池度玩水，享受美味嘅海鮮美食，並喺舒適嘅沙灘椅度曬太陽。Manarai Beach Club 仲經常舉辦精彩嘅活動同派對，帶嚟無盡嘅娛樂樂趣。呢度係一個完美嘅地方，等你喺峇里島度過愉快嘅一日，感受陽光、海灘同歡樂。
+Manarai Beach Club 係峇里島一個令人難以忘懷嘅度假勝地。呢個豪華嘅沙灘俱樂部位於美麗嘅努沙杜瓦區，提供絕佳嘅海灘景觀同放鬆氛圍。您可以喺私人泳池中嬉水，享受美味嘅海鮮美食，並喺舒適嘅躺椅上曬太陽。Manarai Beach Club 仲經常舉辦精彩嘅活動同派對，帶嚟無盡嘅娛樂樂趣。呢個係一個完美嘅地方，等您喺峇里島度過愉快嘅一日，感受陽光、海灘同歡樂。
 
-# 睇片 __VID0__
+# 睇片
 
 https://youtu.be/BUl5vPzVHGw
 

@@ -1,7 +1,8 @@
 ---
+slug: maluku-islands-indonesia-paradise
 title: "平价版马尔代夫：印尼的天堂岛屿：马鲁古（Maluku）介绍 \U0001F334"
 description: >-
-  马鲁古（马鲁古群岛）位于印度尼西亚东部地区，在地理位置上由多个岛屿组成，包括北马鲁古（Maluku
+  Maluku（马鲁古群岛）位于印度尼西亚东部地区，在地理位置上由多个岛屿组成，包括北马鲁古（Maluku
   Utara）和马鲁古（Maluku）两个省份。其中的马鲁古中部（Maluku Tengah）
 pubDate: '2024-11-19'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_daa9af16b7b20154a06b57cbb4aa1d65.jpg'
@@ -15,12 +16,12 @@ originalUrl: 'https://vocus.cc/article/673be498fd89780001da159b'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: dc98027b647ea918dc18ccf3e930bd12
+_srcHash: 2aee9dc520d972b3963a0cfd47d26e96
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_17da9c41fcd163fd15b07a37a4a2e397.jpg)
 
-马鲁古（马鲁古群岛）位于印度尼西亚东部地区，在地理位置上：
+Maluku（马鲁古群岛）位于印度尼西亚东部地区，在地理位置上：
 
 - 位于苏拉威西岛（Sulawesi）的东方
 - 在巴布亚（Papua）的西方
@@ -63,7 +64,7 @@ _srcHash: dc98027b647ea918dc18ccf3e930bd12
 
 ## 3. **文化与历史** 🛖
 
-马鲁古群岛曾经是世界著名的“香料群岛”，这里在16世纪时吸引了葡萄牙人、荷兰人和英国人的到来。他们竞相控制这里的丁香和肉豆蔻贸易。如今，这些岛屿仍然保留着多样的文化和丰富的历史遗迹。
+马鲁古群岛曾经是世界著名的「香料群岛」，这里在16世纪时吸引了葡萄牙人、荷兰人和英国人的到来。他们竞相控制这里的丁香和肉豆蔻贸易。如今，这些岛屿仍然保留着多样的文化和丰富的历史遗迹。
 
 - **当地部落文化**  
   马鲁古中部的居民以马来裔和巴布亚裔为主，他们拥有各自的传统舞蹈、音乐和仪式，展现出浓厚的地方文化特色。
@@ -92,7 +93,7 @@ _srcHash: dc98027b647ea918dc18ccf3e930bd12
 
 ![在Maluku住海上小屋，一晚$40美金起](https://images.gobaligo.id/vocus/vocus_ccc7dbb03a441a3390da98658236f243.jpg)
 
-在Maluku住海上小屋，一晚$40美金起
+在Maluku住海上小屋，一晚$40美元起
 
 [**Maluku订房：Agoda优惠**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=4898126)
 
@@ -106,10 +107,10 @@ _srcHash: dc98027b647ea918dc18ccf3e930bd12
 
 ✅深度攻略，让你的行程既省钱又无忧  
 
-✅独家推荐的私房景点与当地美食地图
+✅独家推荐的私房景点与当地美食地图  
 
-✅在Facebook社群上看不到的内容
+✅在Facebook群组上看不到的内容
 
-✅收集最多团友的行程规划建议，让每次旅行都是无缝体验
+✅收集最多群友的行程规划建议，让每次旅行都是无缝体验
 
 用谷歌或Facebook账号即可轻松完成注册！

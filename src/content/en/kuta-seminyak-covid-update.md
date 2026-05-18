@@ -1,4 +1,5 @@
 ---
+slug: kuta-seminyak-covid-update
 title: >-
   Bali Kuta | Seminyak Current Situation | Bali Without Tourists | Latest
   Updates
@@ -19,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/64db6b70fd897800013a93fe'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 75494833e94700cccbd1a27c5a4186c6
+_srcHash: 365a9c4e960379a8124937920515b94c
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5945f572e93cd251dcb51c84aa6a5af4.png)

@@ -1,4 +1,5 @@
 ---
+slug: indonesia-entry-system-upgrade
 title: 「All Indonesia」系统上线试运营，印尼入境流程全面升级
 description: 印尼政府试行「All Indonesia」系统，让入境旅客能够事先完成签证、海关申报、健康申报等程序。
 pubDate: '2025-07-26'
@@ -14,7 +15,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-cn
-_srcHash: f4a59b1dc8ee2e9c15f8470cad201105
+_srcHash: 29de004a27ffe85e8038780fd5b2e255
 ---
 
 ## **All Indonesia 是什么？一站式入境系统新概念**
@@ -43,7 +44,7 @@ _srcHash: f4a59b1dc8ee2e9c15f8470cad201105
 
 在谈及安全性方面，移民暨矫正部长 Agus Andrianto 表示，All Indonesia 已经历 ITSA BSSN 与外部机构的渗透测试及压力测试。
 
-系统采用 Sclron 技术防止资料重复，同时预备备援系统与扩充印尼数据中心容量，以应对未来大量旅客使用需求。
+系统采用 Sclron 技术防止数据重复，同时预备备援系统与扩充印尼数据中心容量，以应对未来大量旅客使用需求。
 
 ---
 

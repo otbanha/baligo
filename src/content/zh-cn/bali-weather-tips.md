@@ -1,6 +1,6 @@
 ---
 title: 为什么别再问巴厘岛的天气？下雨又如何？
-slug: ''
+slug: bali-weather-tips
 description: 巴厘岛雨季？旱季？——为什么别再问巴厘岛的天气如何？
 pubDate: 2024-03-15T00:00:00.000Z
 pubHour: null
@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f2d233b5cdc841409553c54fcd0d50a1.png'
 originalUrl: 'https://vocus.cc/article/65f39bd0fd897800012287e9'
 lang: zh-cn
-_srcHash: a051b014491a04564ebf759b46ad2cd8
+_srcHash: 9f3104cd3687bdc1bffdce2bcba53b80
 ---
 
 我今天想和大家聊聊一个可能让你们有些意外的话题——为什么别再问巴厘岛的天气如何？

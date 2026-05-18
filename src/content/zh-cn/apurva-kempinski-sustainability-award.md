@@ -1,7 +1,8 @@
 ---
+slug: apurva-kempinski-sustainability-award
 title: 巴厘岛凯宾斯基 The Apurva Kempinski Bali 荣获 2024「最佳可持续酒店」殊荣
 description: >-
-  位于巴厘岛的顶级奢华酒店 The Apurva Kempinski Bali 再次奠定其在全球旅游业的领先地位，甫于2022 年开业，在 2024 年第
+  位于巴厘岛的顶级奢华酒店 The Apurva Kempinski Bali 再次奠定其在全球旅游业界的领先地位，甫于2022 年开业，在 2024 年第
   18 届 Ultimate Luxury Travel Related Awards (ULTRAs) 上就荣膺「最佳可持续酒店」(Best Su
 pubDate: '2024-11-16'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c5c780a9262d6901c2139405a9097e28.jpg'
@@ -15,10 +16,10 @@ originalUrl: 'https://vocus.cc/article/67375f47fd89780001591deb'
 category:
   - 住宿推薦
 lang: zh-cn
-_srcHash: 96fc379673d04dc46df82655067a257a
+_srcHash: e07f00170ea3f59becd5edaed347b754
 ---
 
-位于巴厘岛的顶级奢华酒店 The Apurva Kempinski Bali 再次奠定其在全球旅游业的领先地位，甫于2022 年开业，在 **2024 年第 18 届 Ultimate Luxury Travel Related Awards (ULTRAs)** 上就荣膺「**最佳可持续酒店**」(Best Sustainable Hotel)。这一国际级殊荣肯定了酒店在可持续奢华方面的卓越表现，以及对环境、社会与公司治理（ESG）原则的全面承诺。
+位于巴厘岛的顶级奢华酒店 The Apurva Kempinski Bali 再次奠定其在全球旅游业界的领先地位，甫于2022 年开业，在 **2024 年第 18 届 Ultimate Luxury Travel Related Awards (ULTRAs)** 上就荣膺「**最佳可持续酒店**」(Best Sustainable Hotel)。这一国际级殊荣肯定了酒店在可持续奢华方面的卓越表现，以及对环境、社会与公司治理（ESG）原则的全面承诺。
 
 ![The Apurva Kempinski Bali 榮獲 ULTRAs 2024「最佳永續飯店」殊榮](https://images.gobaligo.id/vocus/vocus_6768a4363d1ad0d7996781ab6d84fe62.jpg)
 
@@ -30,7 +31,7 @@ The Apurva Kempinski Bali 荣获 ULTRAs 2024「最佳可持续酒店」殊荣
 
 ULTRAs 由全球知名的奢华旅游品牌 Ultratravel 主办，是年度最受瞩目的高端旅游奖项之一。颁奖典礼于 **英国伦敦肯辛顿宫（Kensington Palace）**举行，吸引了来自全球各地的顶级酒店、航空公司和旅游目的地代表参与。
 
-这项盛典由超过 **2800 万 GHA DISCOVERY 会员** 投票决定，旨在表彰全球旅游业的佼佼者。GHA DISCOVERY 是全球最大的独立酒店联盟——**Global Hotel Alliance (GHA)** 的独家忠诚计划合作伙伴。这不仅反映了 The Apurva Kempinski Bali 在可持续发展方面的成就，也突显其为全球旅客所认可的卓越服务。
+这项盛典由超过 **2800 万 GHA DISCOVERY 会员** 投票决定，旨在表彰全球旅游业界的佼佼者。GHA DISCOVERY 是全球最大的独立酒店联盟——**Global Hotel Alliance (GHA)** 的独家忠诚计划合作伙伴。这不仅反映了 The Apurva Kempinski Bali 在可持续发展方面的成就，也突显其为全球旅客所认可的卓越服务。
 
 ---
 
@@ -95,7 +96,7 @@ The Apurva Kempinski Bali 深信**支持当地社区是可持续发展的关键*
 
 ---
 
-## **奢华与可持续的典范**
+## **奢华与可持续发展的典范**
 
 ![Koral Restaurant 讓你置身於海綿寶寶的海底世界](https://images.gobaligo.id/vocus/vocus_9f3b0b7324ddd242b0887bc6940f20d6.jpg)
 
@@ -105,7 +106,7 @@ Koral Restaurant 让你置身于海绵宝宝的海底世界
 
 > [The Apurva Kempinski Bali订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)
 
-The Apurva Kempinski Bali 荣获 ULTRAs 2024「最佳可持续酒店」的殊荣，不仅是一个巨大的荣誉，也是对其在环保与社会责任方面努力的认可。酒店用行动证明，奢华与可持续可以完美融合，并为全球旅游业设立了新标杆。
+The Apurva Kempinski Bali 荣获 ULTRAs 2024「最佳可持续发展酒店」的殊荣，不仅是一个巨大的荣誉，也是对其在环保与社会责任方面努力的认可。酒店用行动证明，奢华与可持续发展可以完美融合，并为全球旅游业设立了新标杆。
 
 ## 周边景点
 

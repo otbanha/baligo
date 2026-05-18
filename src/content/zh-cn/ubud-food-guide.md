@@ -1,7 +1,8 @@
 ---
+slug: ubud-food-guide
 title: 乌布美食推荐｜巴厘岛最强食记：从脏鸭饭、猪肋排到稻田网红咖啡厅
 description: >-
-  乌布必吃什么？本篇精选乌布最强美食攻略！包含在地必吃脏鸭饭、超人气猪肋排、隐藏版稻田咖啡厅与精致素食餐厅。无论是想看着梯田用餐，还是探索热闹市集小吃，这份乌布美食清单让你的味蕾不踩雷！
+  乌布必吃什么？本篇精选乌布最强美食攻略！包含在地必吃脏鸭饭、超人气猪肋排、隐藏版稻田咖啡厅与精致素食餐厅。无论想看着梯田用餐，还是探索热闹市集小吃，这份乌布美食清单让你的味蕾不踩雷！
 pubDate: 2026-02-02T00:00:00.000Z
 category:
   - 峇里島分區攻略
@@ -20,10 +21,10 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7967360076c821375ec01e8c60a7c56e.png'
 originalUrl: 'https://vocus.cc/article/69809444fd897800019bddac'
 lang: zh-cn
-_srcHash: 703fdbbf04db44a26388af012b3ec409
+_srcHash: 5e72854282d50281be7299aca682e2e5
 ---
 
-来到巴厘岛乌布，除了欣赏梯田美景、探访古老寺庙，绝不能错过的还有这里的美食体验！从传统印尼料理到创意西式餐厅，从隐藏在稻田间的咖啡馆到热闹市集的街头小吃，乌布汇聚了巴厘岛最精彩的饮食文化。这篇攻略为你精选乌布必吃餐厅和在地美食，让你的味蕾也能享受一场难忘的巴厘岛之旅！
+来到巴厘岛乌布，除了欣赏梯田美景、探访古老寺庙，绝不能错过的还有这里的美食体验！从传统印尼料理到创意西式餐厅，从隐藏在稻田间的咖啡厅到热闹市集的街头小吃，乌布汇聚了巴厘岛最精彩的饮食文化。这篇攻略为你精选乌布必吃餐厅和在地美食，让你的味蕾也能享受一场难忘的巴厘岛之旅！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3cd45e03533c1da890554af789de5735.png)
 
@@ -37,7 +38,7 @@ _srcHash: 703fdbbf04db44a26388af012b3ec409
 
 [Taman Dedari 详细介绍](/blog/2025-01-26-6795adf1fd8978000133fe10/)
 
-> [Taman Dedari 门票、下午茶、游泳餐厅用餐体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F93907-taman-dedari-ubud-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D18eb8d34de)
+> [Taman Dedari 门票、下午茶、游泳餐厅用餐体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F93907-taman-dedari-ubud-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D18eb8d34de)
 
 ## 在D'Tukad River Club (谷歌评价4.5⭐) 👉🏼地图：[沉浸山水美景](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
@@ -75,7 +76,7 @@ https://youtube.com/shorts/MmqfkXw211k
 
 https://youtu.be/eJ0oL0O5OY8
 
-Wanna Jungle Pool & Bar是乌布的日间俱乐部，以其独特的三层无边泳池而闻名。在这里，你可以在清凉的水中畅游，沐浴在热带的放松氛围中，与茂密的森林和标志性的无边泳池融为一体。这里绝对是拍摄Instagram美照的绝佳地点，让你的社交媒体充满乌布独有的浓厚风情。
+Wanna Jungle Pool & Bar是乌布的日间俱乐部，以其独特的三层无边泳池而闻名。在这里，你可以在清凉的水中畅泳，沐浴在热带的放松氛围中，与茂密的森林和标志性的无边泳池融为一体。这里绝对是拍摄Instagram美照的绝佳地点，让你的社交媒体充满乌布独有的浓厚风情。
 
 > [Wanna Jungle Pool & Bar通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91999-wanna-jungle-pool-and-bar-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Da712e9efb5)
 
@@ -139,11 +140,11 @@ Bebek Tepi Sawah 是一家位于乌布的知名餐厅，其名字意为「稻田
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5046f26f284c95d89a998876cafa9852.jpg)
 
-一边眺望德格拉朗梯田的美景，一边享用印尼传统美食，是巴厘岛旅游的一大乐趣。
+一边眺望德格拉郎梯田的美景，一边享用印尼传统美食，是巴厘岛旅游的一大乐趣。
 
-德格拉朗梯田位于巴厘岛东北部，是世界文化遗产。梯田总面积达2,500公顷，由数千个阶梯状的稻田组成，层层叠叠，绵延至天际。梯田在阳光的照耀下，呈现出金黄、绿色、棕色等多彩的色彩，美不胜收。
+德格拉郎梯田位于巴厘岛东北部，是世界文化遗产。梯田总面积达2,500公顷，由数千个阶梯状的稻田组成，层层叠叠，绵延至天际。梯田在阳光的照耀下，呈现出金黄、绿色、棕色等多彩的色彩，美不胜收。
 
-Boni Bali Restaurant位在德格拉朗梯田的边上，提供印尼传统美食。游客可以在这里品尝到 Nasi Goreng、Sate Ayam 和 Rendang 等经典菜肴。
+Boni Bali Restaurant位在德格拉郎梯田的边上，提供印尼传统美食。游客可以在这里品尝到 Nasi Goreng、Sate Ayam 和 Rendang 等经典菜肴。
 
 > [Boni巴厘岛餐厅用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90187-dining-experience-boni-bali-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D95e0a37ff0)
 
@@ -219,7 +220,7 @@ Google评价4.7颗星。Sans Indian Cuisine 餐厅是位于乌布的一家正宗
 
 在饱览德哥拉郎梯田美景的 Cretya Ubub 大受欢迎后，Alas Harum集团推出全新力作——Cretya Sunset by Alas Harum, Ubud。这座位于乌布的日间俱乐部与餐厅，结合奢华、自然与娱乐，拥有无边泳池、时尚休闲区，以及融合现代与巴厘岛风格的设计，让您享受美食与鸡尾酒的同时，沉浸于绝美日落与梯田景致中。
 
-Cretya Sunset 坐落于乌布郁郁葱葱的稻田中，面向西边的地理位置使其成为欣赏日落的绝佳地点。每天傍晚，伴随着现场DJ音乐，您可以在这里放松身心，感受巴厘岛的自然与文化魅力，无论是静静欣赏美景还是享受热闹氛围，这里都是不可错过的梦幻目的地。进一步的介绍在[这里](/blog/2025-01-29-6799a185fd89780001c87e06/)。
+Cretya Sunset 坐落在乌布郁郁葱葱的稻田中，面向西边的地理位置使其成为欣赏日落的绝佳地点。每天傍晚，伴随着现场DJ音乐，您可以在这里放松身心，感受巴厘岛的自然与文化魅力，无论是静静欣赏美景还是享受热闹氛围，这里都是不可错过的梦幻目的地。进一步的介绍在[这里](/blog/2025-01-29-6799a185fd89780001c87e06/)。
 
 > Cretya Sunset ▶[Klook优惠券 Rp.125,000](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989669&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F78117-ubudsunset-pass-poolbar-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D09b568e351)
 
@@ -227,7 +228,7 @@ Cretya Sunset 坐落于乌布郁郁葱葱的稻田中，面向西边的地理位
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5b0556f47ff8e26625fbf54926703dbd.png)
 
-想要在巴厘岛乌布的丛林中享受一段宁静又浪漫的时光吗？「乌布浪漫游船野餐」将带您和挚爱、朋友、同事或家人，搭乘精心装饰的木船，航行于乌布丛林环绕的静谧湖面上，度过难忘的一小时。这不仅是情侣共创美好回忆的完美选择，也是与亲友共享独特体验的绝佳机会！船上还提供精致野餐篮，内含美味的三明治、蔬菜鹰嘴豆泥蘸酱、新鲜水果、酸奶谷物，以及一瓶气泡酒，让您边赏景边享用美食。
+想要在巴厘岛乌布的丛林中享受一段宁静又浪漫的时光吗？「乌布浪漫游船野餐」将带您和挚爱、朋友、同事或家人，搭乘精心装饰的木船，航行于乌布丛林环绕的静谧湖面上，度过难忘的一小时。这不仅是情侣共创美好回忆的完美选择，也是与亲友共享独特体验的绝佳机会！船上还提供精致野餐篮，内含美味的三明治、蔬菜鹰嘴豆泥沾酱、新鲜水果、酸奶谷物，以及一瓶气泡酒，让您边赏景边享用美食。
 
 乌布丛林的壮丽景观与湖面的宁静氛围，为您打造一个独特而亲密的体验。无论是庆祝特别日子，还是单纯想逃离日常喧嚣，这项活动都能为您带来无与伦比的回忆。强烈建议聘请专业摄影师，捕捉这难得的浪漫时刻，留下令人惊艳的照片！快来乌布，与挚爱一同沉浸在这片自然美景中吧！
 
@@ -245,7 +246,7 @@ Cretya Sunset 坐落于乌布郁郁葱葱的稻田中，面向西边的地理位
 
 > [Klook优惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1051341&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F138909-tuju-tropic-club-lounge-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D642cf000dc)
 
-## Sari Timbul/ST玻璃工厂 (谷歌评价4.5⭐) 👉🏼地图：[沉浸山水美景](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
+## Sari Timbul/ST玻璃工厂 (谷歌评价4.5⭐) 👉🏼地图：[沉浸山水美景](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e238001fbe0cdbd3b6a7710469c1ab47.jpg)
 
@@ -253,7 +254,7 @@ Cretya Sunset 坐落于乌布郁郁葱葱的稻田中，面向西边的地理位
 
 这里不仅是美食天堂，更是沉浸式的自然艺术空间。工作人员服务亲切，能协助游客在秋千上捕捉精彩瞬间，搭配流水声与热带花卉布置，营造出仙气十足的氛围。无论是想享受浪漫餐点、体验刺激秋千，还是单纯放松赏景，Sari Timbul 都能满足需求，成为德格拉朗地区不可错过的特色景点。
 
-> [参加包含 Sari Timbul 的超值乌布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1046276&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94299-instagrammable-glass-factory-taman-dedari-waterfall-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd57b760724)
+> [参加包含 Sari Timbul的超值乌布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1046276&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94299-instagrammable-glass-factory-taman-dedari-waterfall-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd57b760724)
 
 ## Kamandalu Ubud (谷歌评价4.5⭐) 👉🏼地图：[沉浸山水美景](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
@@ -263,23 +264,23 @@ Cretya Sunset 坐落于乌布郁郁葱葱的稻田中，面向西边的地理位
 
 专业摄影团队将为您捕捉这珍贵时刻，无需分心摆拍，自然流露的幸福神情将成为永恒纪念。无论是蜜月旅行、周年纪念，或是单纯想给爱人惊喜，这60分钟的梦幻体验都将成为巴厘岛之旅中最闪亮的回忆。这里有[进一步的介绍](/blog/2025-06-04-68404e54fd89780001530054/)。
 
-> [Klook 预订优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1061065&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F136296-dining-experience-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Debd9e9bd14)
+> [Klook预订优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1061065&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F136296-dining-experience-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Debd9e9bd14)
 
 ## D'Tukad Coffee Club (谷歌评价3.8⭐) 👉🏼地图：[沉浸山水美景](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_030de012eed182d27698f8168b019df1.jpg)
 
-位于巴厘岛乌布的 D'Tukad Coffee Club，以其面向德格拉朗梯田的绝佳位置闻名。游客可以一边享用美食，一边欣赏令人惊叹的层层稻田美景。俱乐部设有无边泳池，周围环绕舒适的日光浴床，让客人在热带氛围中尽情放松。这里提供丰富的国际美食和手工调制鸡尾酒，搭配专业友善的服务团队，营造出完美的用餐体验。
+位于巴厘岛乌布的D'Tukad Coffee Club，以其面向德格拉朗梯田的绝佳位置闻名。游客可以一边享用美食，一边欣赏令人惊叹的层层稻田美景。俱乐部设有无边泳池，周围环绕舒适的日光浴床，让客人在热带氛围中尽情放松。这里提供丰富的国际美食和手工调制鸡尾酒，搭配专业友善的服务团队，营造出完美的用餐体验。
 
-如果你喜欢壮丽的梯田美景，又不喜欢另一个梯田俱乐部人满为患，D'Tukad Coffee Club 提供同样精彩的氛围和体验却更具性价比。无论是朋友聚会还是浪漫约会，这里都是创造难忘回忆的理想场所。
+如果你喜欢壮丽的梯田美景，又不喜欢另一个梯田俱乐部人满为患，D'Tukad Coffee Club提供同样精彩的氛围和体验却更具性价比。无论是朋友聚会还是浪漫约会，这里都是创造难忘回忆的理想场所。
 
-> [Klook 套票优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068268&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F120659-d-tukad-coffee-club-in-ubud-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D8f47593caf%26dd_referrer%3Dhttps%3A%2F%2Fwww.klook.com%2Factivity%2F120659-d-tukad-coffee-club-in-ubud-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D1de2f6309a)
+> [Klook套票优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068268&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F120659-d-tukad-coffee-club-in-ubud-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D8f47593caf%26dd_referrer%3Dhttps%3A%2F%2Fwww.klook.com%2Factivity%2F120659-d-tukad-coffee-club-in-ubud-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D1de2f6309a)
 
-## Titi Batu Ubud Club (谷歌评价4.3⭐) 👉🏼地图：[沉浸山水美景](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
+## Titi Batu Ubud Club (谷歌评价4.3⭐) 👉🏼地图：[沉浸山水美景](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a2bf4eb4a96fb28e441b16ba81c0c21e.jpg)
 
-Titi Batu Ubud Club 是一个结合健身、休闲与亲子娱乐的生活俱乐部。这里拥有健身房、篮球场、壁球场、滑板公园、游泳池、SPA、舞蹈教室、瑜伽教室、桑拿、餐厅与儿童游乐设施，无论想运动流汗、放松身心，或是带着小朋友一起玩水，都能在这里找到合适的空间。由于环境宽敞舒适，氛围带点乌布独有的自然气息，也吸引不少长居巴厘岛的外籍家庭，成为他们日常生活的一部分，是大人和小朋友的天堂。
+Titi Batu Ubud Club 是一个结合健身、休闲与亲子娱乐的生活俱乐部。这里拥有健身房、篮球场、壁球场、滑板公园、游泳池、SPA、舞蹈教室、瑜伽教室、桑拿、餐厅与儿童游乐设施，无论是想运动流汗、放松身心，或是带着小朋友一起玩水，都能在这里找到合适的空间。由于环境宽敞舒适，氛围带点乌布独有的自然气息，也吸引不少长居巴厘岛的外籍家庭，成为他们日常生活的一部分，是大人和小朋友的天堂。
 
 > [一日通票优惠，可使用所有设施](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1117521&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F141599-titi-batu-ubud-club-day-pass-ticket%2F)
 
@@ -289,9 +290,9 @@ Titi Batu Ubud Club 是一个结合健身、休闲与亲子娱乐的生活俱乐
 
 在巴厘岛的乌布闹区，除了有数不完的商店、逛不完的特色艺品、好吃又健康的各国风味美食、舒展身心灵的Yoga和Spa... 之外，居然还隐藏了一个与世隔绝的世外桃源：Folk Pool & Garden
 
-这不是像一般的餐厅一样，人们通常就只是吃饭然后离开。 它与众不同，独特而宽敞。 你可以在这里度过一整天， 是一个很棒的拍照地点喔！
+这里不像一般的餐厅，人们通常只是吃饭然后离开。它与众不同，独特而宽敞。你可以在这里度过一整天，是一个很棒的拍照地点哦！
 
-这个地方可以安排为用一天的时间徒步漫游/逛街乌布闹区的最后一站，来这里放松休息，拍拍美照。这里晚上还有露天电影院播放电影哩！
+这个地方可以安排为用一天的时间徒步漫游/逛街乌布闹区的最后一站，来这里放松休息，拍拍美照。这里晚上还有露天电影院播放电影呢！
 
 进入Folk Pool & Garden如果要游泳，单人的SUN LOUNGER是印尼盾150,000，折合USD$10，他们会提供给你毛巾，你就可以在这里游泳拍照。如果要租用最多容纳四人的亭子则是印尼盾350,000，折合USD$23，最好[先预约](https://www.folkubud.com/)。
 

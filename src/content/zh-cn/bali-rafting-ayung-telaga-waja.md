@@ -1,4 +1,5 @@
 ---
+slug: bali-rafting-ayung-telaga-waja
 title: 【巴厘岛漂流 FAQ】不会游泳也能玩？年龄限制、安全须知与阿勇河 vs 泰拉嘉河全解析
 description: >-
   计划在巴厘岛挑战激流漂流？本篇整理最完整的漂流常见问题：从几岁可以参加、不会游泳的安全性，到雨季是否适合出发。详解阿勇河 (Ayung) 与泰拉嘉河
@@ -20,14 +21,14 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0fbf0fa6cbdf5a3d06b5e9a8b4a461a0.jpg'
 originalUrl: 'https://vocus.cc/article/67e62aa8fd89780001888620'
 lang: zh-cn
-_srcHash: e4938b2cb67b1c0f7d5614aeaa6a1a9b
+_srcHash: af9ee5f6a503cc18228d83781ce53631
 ---
 
-巴厘岛以其壮丽的自然景观和丰富的文化遗产闻名于世，其中漂流活动更是吸引无数游客前来体验的冒险项目。在蜿蜒的河流中穿梭，感受急流与宁静水域交替带来的刺激，并沿途欣赏茂密的热带雨林、壮观的峡谷和隐秘的瀑布，这些都是巴厘岛漂流的独特魅力所在。
+巴厘岛以其壮丽的自然景观和丰富的文化遗产闻名于世，其中漂流活动更是吸引无数游客前来体验的冒险项目。​在蜿蜒的河流中穿梭，感受急流与宁静水域交替带来的刺激，并沿途欣赏茂密的热带雨林、壮观的峡谷和隐秘的瀑布，这些都是巴厘岛漂流的独特魅力所在。​
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e76f3c320362392046cda14d6de1b379.jpg)
 
-然而，初次参与漂流活动的旅客可能会对相关细节有所疑问，例如活动的安全性、适合的河流、所需装备等。为了协助您充分准备并享受这段难忘的旅程，我们整理了一份常见问题解答（FAQ），涵盖了您可能关心的各个方面。通过阅读这些信息，您将对巴厘岛的漂流活动有更全面的了解，并能安心投入这场冒险之中。
+然而，初次参与漂流活动的旅客可能会对相关细节有所疑问，例如活动的安全性、适合的河流、所需装备等。为了协助您充分准备并享受这段难忘的旅程，我们整理了一份常见问题解答（FAQ），涵盖了您可能关心的各个方面。​通过阅读这些信息，您将对巴厘岛的漂流活动有更全面的了解，并能安心投入这场冒险之中。
 
 ## 漂流常见问题 FAQ
 
@@ -35,14 +36,14 @@ _srcHash: e4938b2cb67b1c0f7d5614aeaa6a1a9b
 
 ### **1. 巴厘岛有哪些适合漂流的河流？**
 
-巴厘岛主要有两条著名的漂流河流：
+巴厘岛主要有两条著名的漂流河流：​
 
 - **阿勇河（Ayung River）：** 位于乌布地区，适合初学者，沿途可欣赏河边岩壁的雕刻和丛林风光。​
 - **特拉加瓦查河（Telaga Waja River）：** 以较高的刺激度闻名，适合寻求冒险的漂流爱好者。​
 
 ### **2. 漂流活动适合儿童参加吗？**
 
-是的，巴厘岛的漂流活动适合6/7岁以上的儿童或65岁以下的长辈参加，实际年龄依照业者规定。
+是的，巴厘岛的漂流活动适合6/7岁以上的儿童或65岁以下的长辈参加，实际年龄依照业者规定。​
 
 ### **3. 参与漂流活动需要具备游泳能力吗？**
 
@@ -50,7 +51,7 @@ _srcHash: e4938b2cb67b1c0f7d5614aeaa6a1a9b
 
 ### **4. 身心障碍人士可以参加漂流活动吗？**
 
-出于安全考量，完全行动不便者（双腿残疾）不允许参加泛舟活动。若仅单腿残疾，则可参与。​
+出于安全考量，完全行动不便者（双腿残疾）不允许参加漂流活动。若仅单腿残疾，则可参与。​
 
 ### **5. 漂流活动时可以使用信用卡付款吗？**
 
@@ -58,17 +59,17 @@ _srcHash: e4938b2cb67b1c0f7d5614aeaa6a1a9b
 
 ### **6. 如果下雨，漂流活动会取消吗？**
 
-一般而言，泛舟活动不受雨天影响，甚至在雨中进行可能更有趣。但若遇到可能危及参与者安全的大雨，活动将取消并全额退款，或可改期至其他日期。​
+一般而言，漂流活动不受雨天影响，甚至在雨中进行可能更有趣。但若遇到可能危及参与者安全的大雨，活动将取消并全额退款，或可改期至其他日期。​
 
 ### **7. 一般漂流需时多久？**
 
-泛舟活动的时间取决于所选河流和行程安排。通常，泛舟本身约需2至3小时，包含接送、准备和休息时间，整个行程可能需要4至6小时。​
+漂流活动的时间取决于所选河流和行程安排。通常，漂流本身约需2至3小时，包含接送、准备和休息时间，整个行程可能需要4至6小时。​
 
-### **8. 漂流时应穿什么鞋子？**
+### **8. 泛舟时应穿什么鞋子？**
 
-建议穿着固定良好的凉鞋或专用的水上运动鞋，以确保在湿滑环境中的安全性和舒适度。​
+建议穿着固定良好的凉鞋或专用的水上运动鞋，以确保在湿滑环境中的安全性和舒适性。​
 
-### **9. 可以携带相机或摄影机参加漂流吗？**
+### **9. 可以携带相机或摄影机参加泛舟吗？**
 
 可以，但需注意以下事项：​
 
@@ -76,17 +77,17 @@ _srcHash: e4938b2cb67b1c0f7d5614aeaa6a1a9b
 - **解放双手：** 考虑使用运动相机等设备，并配备头盔或胸前固定支架。​
 - **安全第一：** 遵循导游的指示，选择适当的时机拍摄，避免影响自身和他人的安全。​
 
-### **10. 参加漂流活动需要业者提供保险吗？**
+### **10. 参加泛舟活动需要业者提供保险吗？**
 
-大多数漂流业者会为参与者提供基本的保险，建议使用合法的业者以提供更全面的保障。​[KKday预订](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=17351)｜ [Klook预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
+大多数泛舟业者会为参与者提供基本的保险，建议使用合法的业者以提供更全面的保障。​[KKday预订](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=17351)｜ [Klook预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
 
-### **11. 漂流活动的最佳时间是什么时候？**
+### **11. 泛舟活动的最佳时间是什么时候？**
 
-巴厘岛的干季，通常从4月到10月，是进行漂流活动的最佳时期。此时天气较稳定，河流水位适中，适合各种程度的漂流体验。​
+巴厘岛的干季，通常从4月到10月，是进行泛舟活动的最佳时期。此时天气较稳定，河流水位适中，适合各种程度的泛舟体验。​
 
-### **12. 漂流活动需要提前预订吗？**
+### **12. 泛舟活动需要提前预订吗？**
 
-为确保有位，特别是在旅游旺季，建议提前预订漂流行程。这也有助于了解行程细节，并与漂流公司确认相关安排。[KKday预订](https://www.kkday.com/en-id/product/productlist/%E5%B7%B4%E5%8E%98%E5%B2%9B?product_categories=CATEGORY_033&keyword=%E5%B7%B4%E5%8E%98%E5%B2%9B&currency=IDR&sort=prec&page=1&count=10&cid=17351)｜ [Klook预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
+为确保有位，特别是在旅游旺季，建议提前预订漂流行程。这也有助于了解行程细节，并与漂流公司确认相关安排。​[KKday预订](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=17351)｜ [Klook预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
 
 ### **13. 漂流活动的费用是多少？**
 
@@ -94,7 +95,7 @@ _srcHash: e4938b2cb67b1c0f7d5614aeaa6a1a9b
 
 ### **14. 漂流过程中如何保护个人物品？**
 
-现金、手机、相机、手表等贵重物品应寄存或留在安全的地方，不建议携带参与漂流。若需佩戴眼镜，请使用橡皮筋固定，避免掉落。
+现金、手机、相机、手表等贵重物品应寄存或留在安全的地方，不建议携带参与漂流。若需佩戴眼镜，请使用橡皮筋固定，避免掉落。​
 
 ### **15. 漂流前需要做哪些准备？**
 
@@ -106,7 +107,7 @@ _srcHash: e4938b2cb67b1c0f7d5614aeaa6a1a9b
 
 ### **16. 漂流过程中遇到翻船怎么办？**
 
-保持冷静，迅速浮出水面，避免呛水。穿着救生衣的情况下，保持颈部上扬，等待救援。切勿惊慌，并遵循教练的指示行动。
+保持冷静，迅速浮出水面，避免呛水。穿着救生衣的情况下，保持颈部上扬，等待救援。切勿惊慌，并遵循教练的指示行动。​
 
 ### **17. 漂流后是否有淋浴和更衣设施？**
 
@@ -118,10 +119,10 @@ _srcHash: e4938b2cb67b1c0f7d5614aeaa6a1a9b
 
 ### **19. 参加漂流活动需要携带哪些物品？**
 
-- **防晒用品：** 使用高防晒系数且防水的防晒霜，保护皮肤免受紫外线伤害。​
-- **替换衣物：** 携带一套干净的衣物，以便活动后更换。​
-- **毛巾：** 用于活动后擦干身体。​
-- **防水袋：** 用于存放个人物品，避免浸湿。​
+- **防晒用品：** 使用高防晒系数且防水的防晒霜，保护皮肤免受紫外线伤害。
+- **替换衣物：** 携带一套干净的衣物，以便活动后更换。
+- **毛巾：** 用于活动后擦干身体。
+- **防水袋：** 用于存放个人物品，避免浸湿。
 
 ### **20. 漂流活动的难度如何？**
 
@@ -153,7 +154,7 @@ _srcHash: e4938b2cb67b1c0f7d5614aeaa6a1a9b
 
 ✅ 使用商家提供的储物柜 🔐
 
-大部分漂流业者会提供储物柜，游客可以将贵重物品锁在里面，确保安全。但建议事先确认是否免费，或是否需要自备小锁。
+大部分漂流公司会提供储物柜，游客可以将贵重物品锁在里面，确保安全。但建议事先确认是否免费，或是否需要自备小锁。
 
 ✅ 交给包车司机保管 🚗
 
@@ -175,9 +176,9 @@ _srcHash: e4938b2cb67b1c0f7d5614aeaa6a1a9b
 
 ### 28. 有更安全体验漂流的方式吗？
 
-https://youtube.com/shorts/Z_vDb7AbMKg
+__VID0__
 
-漂流活动存在一定的危险性，其安全性取决于河水的状况。若想更安全地体验水上活动，洞穴漂流河（cave tubing/river tubing，如上视频介绍）则是一个较为安全的替代方案。预订高评分[洞穴漂流河](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F53430-ubud-cave-tubing-adventure-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D884c037566)
+漂流活动存在一定的危险性，其安全性取决于河水的状况。若想更安全地体验水上活动，洞穴漂流河（cave tubing/river tubing，如上视频介绍）则是一个较为安全的替代方案。预订高评分[洞穴漂流河](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53430-ubud-cave-tubing-adventure-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D884c037566)
 
 ***
 

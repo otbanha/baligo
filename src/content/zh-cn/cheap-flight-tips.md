@@ -1,4 +1,5 @@
 ---
+slug: cheap-flight-tips
 title: 机票这样买最划算！5大秘诀让你省下25%费用，提早半年订反而吃亏！
 description: 旅行时，大家都希望能买到便宜的机票，这样就能省下更多的钱在当地消费和购物。但如何才能买到便宜的机票呢？
 pubDate: '2025-02-28'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67c106e5fd897800015588ec'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: fbdb1529343f4986aacf6f9a78ee6540
+_srcHash: edfc31c71146370adefa63c450cd5e25
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5087195a099cef79d6a435a90cc7dab6.png)
@@ -45,10 +46,10 @@ _srcHash: fbdb1529343f4986aacf6f9a78ee6540
 
 ✅深度攻略，让你的行程既省钱又无忧  
 
-✅独家推荐的私房景点与当地美食地图
+✅独家推荐的私房景点与当地美食地图  
 
-✅在Facebook社群上看不到的内容
+✅在Facebook群组上看不到的内容
 
-✅收集最多团友的行程规划建议，让每次旅行都是无缝体验
+✅收集最多群友的行程规划建议，让每次旅行都是无缝体验
 
 用谷歌或Facebook账号即可轻松完成注册！

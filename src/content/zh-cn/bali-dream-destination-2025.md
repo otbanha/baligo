@@ -1,4 +1,5 @@
 ---
+slug: bali-dream-destination-2025
 title: 2025 年最梦幻的旅游目的地：巴厘岛再次荣登榜首
 description: 根据全球的旅游趋势整理出 2025 年最受欢迎的 15 个游客最想拜访的旅游目的地
 pubDate: '2025-01-12'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/678382f5fd897800013125a6'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: d0349408eff6448073a9aa710fcdfe04
+_srcHash: 1a70526c0076a4abb887aae498932cd0
 ---
 
 **2025 年最梦幻的旅游目的地：巴厘岛再次荣登榜首**
@@ -150,10 +151,10 @@ Julia Roberts主演的Eat, Pray, Love有很多在巴厘岛拍摄的片段
 
 ✅深度攻略，让你的行程既省钱又无忧  
 
-✅独家推荐的私房景点与当地美食地图
+✅独家推荐的私房景点与当地美食地图  
 
-✅在Facebook社群上看不到的内容
+✅在Facebook群组上看不到的内容
 
-✅收集最多团友的行程规划建议，让每次旅行都是无缝体验
+✅收集最多群友的行程规划建议，让每次旅行都是无缝体验
 
 用谷歌或Facebook账号即可轻松完成注册！

@@ -1,9 +1,10 @@
 ---
+slug: kumbasari-art-market-shopping
 title: 巴厘岛旅游购物哪里最便宜？巴厘岛购物推荐｜巴厘岛自由行行程｜巴厘岛最大艺术批发市场 Kumbasri Art Market
 description: >-
   巴厘岛最大的巴厘岛批发艺术市场 Kumbasari Art Market 介绍
   巴厘岛自由行的第二天，我们可是准备好要踏上巴厘岛购物踩点之旅。先说说我们的计划：中午才悠闲地出门，先在巴厘岛司机 Gede Arimbawa
-  那时候和老婆开设的小餐馆吃了一顿丰盛的午餐，吃得我们精神奕奕，准备好接下来的冒险
+  那时候和老婆开设的小餐馆吃了一顿丰盛的午餐，吃得我们精神奕奕，准备好接下来的冒险！
 pubDate: '2022-03-03'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_47c0ea8587ad8770b3f28dd6a4e9d61d.jpg'
 tags:
@@ -16,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/64db6b78fd897800013a9661'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 2b0320573b456c9a4b0a732d1d0c1742
+_srcHash: 917800082327edff9211aadd0c534d88
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8ffdd23b3ea35924d1c2b50895d7406d.jpg)

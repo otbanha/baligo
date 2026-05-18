@@ -1,6 +1,7 @@
 ---
+slug: bali-girls-trip-5-days
 title: "峇里島Girls Trip\U0001F467：上山下海嘅五日遊記"
-description: 喺峇里島呢五日四夜嘅旅程入面，由睇日出到浮潛，再到叢林瑜伽，每一刻都充滿驚喜同美好。
+description: 喺峇里島呢五日四夜嘅旅程中，由睇日出到浮潛，再到叢林瑜伽，每一刻都充滿咗驚喜同美好。
 pubDate: 2024-06-20T00:00:00.000Z
 category:
   - 遊記分享
@@ -13,14 +14,14 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4247795b82aced2551357471c02657b1.jpg'
 originalUrl: 'https://vocus.cc/article/6628aadefd897800018ca028'
 lang: zh-hk
-_srcHash: 57d25c64f54c2f630198bf564e1b6d88
+_srcHash: 941b8ea3e44bf986f009d21a172b638c
 ---
 
-喺峇里島呢五日四夜嘅旅程入面，Clairejenjen同佢嘅朋友們探索咗峇里島獨特而多樣嘅魅力。佢哋嘅行程充滿咗多姿多彩嘅活動同精彩嘅體驗，由睇日出到浮潛，再到叢林瑜伽，每一刻都充滿驚喜同美好。
+喺峇里島呢五日四夜嘅旅程中，Clairejenjen 同佢嘅朋友們探索咗峇里島獨特而多樣嘅魅力。佢哋嘅行程充滿咗多姿多彩嘅活動同精彩嘅體驗，由睇日出到浮潛，再到叢林瑜伽，每一刻都充滿咗驚喜同美好。
 
 Clairejenjen視頻截圖
 
-第二日一大清早，佢哋登上咗巴杜爾火山，準備睇峇里島獨特嘅日出景色。攀登嘅路程並唔輕鬆，但當佢哋到達山腰休息站時，眼前嘅壯麗景色同清新空氣令佢哋感到無比興奮。穿過曲折嘅山路，佢哋終於嚟到山頂，喺朝霞中欣賞住太陽緩緩升起嘅美景，呢一刻，佢哋嘅心情如同初升嘅陽光一樣明亮。
+第二日一大清早，佢哋登上咗巴杜爾火山，準備睇峇里島獨特嘅日出景色。攀登嘅路程並唔輕鬆，但當佢哋抵達山腰休息站時，眼前嘅壯麗景色同清新空氣令佢哋感到無比興奮。穿過曲折嘅山路，佢哋終於嚟到咗山頂，喺朝霞中欣賞住太陽緩緩升起嘅美景，呢一刻，佢哋嘅心情好似初升嘅陽光一樣明亮。
 
 ![Clairejenjen視頻截圖](https://images.gobaligo.id/vocus/vocus_6e47af0c58c90e28616fa726ba79252f.jpg)
 
@@ -28,11 +29,11 @@ Clairejenjen視頻截圖
 
 ▼參加巴杜爾火山嘅行程：
 
-> [巴杜爾火山吉普車越野+徒步之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)
+> [巴杜爾火山吉普車越野+行山之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)
 
 > [巴杜爾火山日出健行](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F7797-mount-batur-sunrise-trekking-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6645ae8416)
 
-之後，佢哋搭Gojek電單車返度假別墅，享受咗一頓豐富嘅早餐，然後去烏布嘅藝術市集，感受當地文化嘅獨特魅力。喺市集入面，佢哋試咗各種峇里島特色美食，欣賞咗當地手工藝品同藝術作品，好似置身於一個充滿生活氣息嘅異國小鎮。
+隨後，佢哋搭Gojek電單車返度假別墅，享受咗一頓豐富嘅早餐，然後去烏布嘅藝術市集，感受當地文化嘅獨特魅力。喺市集裡，佢哋品嚐咗各種峇里島特色美食，欣賞咗當地手工藝品同藝術作品，好似置身於一個充滿生活氣息嘅異國小鎮。
 
 > 延伸閱讀：推薦[烏布22間令人驚艷嘅峇里島villa](/blog/2024-04-24-6628f08cfd8978000190a575/)
 
@@ -42,7 +43,7 @@ Clairejenjen視頻截圖
 
 Clairejenjen視頻截圖
 
-跟住，佢哋搭船去佩尼達島投入咗浮潛嘅樂趣，着上潛水裝備，探索住大海中嘅神秘世界。初次嘗試嘅緊張同興奮交織埋一齊，當佢哋沉入海底，見到五顏六色嘅珊瑚同繽紛嘅魚群時，心中嘅驚喜無以言表。即使有啲恐懼，但佢哋勇敢咁克服咗，享受住海洋帶嚟嘅無盡樂趣同奇妙體驗。
+跟住，佢哋搭船去佩尼達島玩浮潛，著齊潛水裝備，探索海底嘅神秘世界。第一次嘗試，緊張同興奮交織，當佢哋潛落海底，見到七彩繽紛嘅珊瑚同魚群，個心真係驚喜到講唔出。雖然有啲驚，但佢哋勇敢克服咗，享受海洋帶嚟嘅無盡樂趣同奇妙體驗。
 
 ![Clairejenjen視頻截圖](https://images.gobaligo.id/vocus/vocus_f608f8be7f0f3f83eeb58f72b40eb5b5.jpg)
 
@@ -50,7 +51,7 @@ Clairejenjen視頻截圖
 
 {{block:penidaklook}}
 
-最後，佢哋喺烏布嘅叢林中進行咗一場深度嘅瑜伽體驗，沉浸喺大自然嘅懷抱中，感受住身心嘅平靜與寧靜。
+最後，佢哋喺烏布嘅叢林入面進行咗一場深度瑜伽體驗，沉浸喺大自然嘅懷抱中，感受身心嘅平靜同寧靜。
 
 ![Clairejenjen視頻截圖](https://images.gobaligo.id/vocus/vocus_2a80ca4d93b200cfe244a056fb99a788.jpg)
 
@@ -58,7 +59,7 @@ Clairejenjen視頻截圖
 
 ▼參加叢林瑜伽課程：
 
-> [烏布瑜珈中心瑜珈課](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23956-yoga-class-ubud-centre-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8dd8a5096c)
+> [烏布瑜珈中心瑜珈班](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23956-yoga-class-ubud-centre-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8dd8a5096c)
 
 > [烏布叢林日出瑜伽＆冥想體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774206&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73635-sunrise-yoga-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D84ba9d8d59)
 
@@ -66,26 +67,26 @@ Clairejenjen視頻截圖
 
 {{block:ubud}}
 
-喺呢趟峇里島之旅嘅最後，Clairejenjen 同佢嘅朋友們都感受到咗一股深深嘅滿足同感激之情。呢五日四夜嘅旅程唔單止豐富多彩，更加令佢哋深刻體驗到生命中嘅美好同感動。
+喺呢趟峇里島之旅嘅最後，Clairejenjen 同佢嘅朋友們感受到一股深深嘅滿足同感激之情。呢五日四夜嘅旅程唔單止豐富多彩，更加令佢哋深刻體驗到生命中嘅美好同感動。
 
-諗返呢段旅程，佢哋深深感受到大自然嘅奇妙魅力，由山川到海洋，由叢林到海灘，峇里島展現俾佢哋嘅唔單止係壯麗景色，更加係一種心靈嘅淨化同養分。每一個活動，每一個體驗，都令佢哋重新認識自己，搵返內心深處被遺忘嘅感動。
+諗返呢段旅程，佢哋深深感受到大自然嘅奇妙魅力，由山川到海洋，由叢林到海灘，峇里島展現畀佢哋嘅唔單止係壯麗景色，更加係一種心靈嘅淨化同養分。每一個活動，每一個體驗，都令佢哋重新認識自己，搵返內心深處被遺忘嘅感動。
 
-而呢次旅程亦令佢哋嘅友情更加深厚。喺挑戰同驚喜之間，佢哋彼此扶持，互相鼓勵，一齊度過咗難忘嘅時光，咁樣嘅經歷將會成為佢哋友誼中最珍貴嘅一部分，永遠銘記喺心。
+而呢次旅程亦令佢哋嘅友情更加深厚。喺挑戰同驚喜之間，佢哋互相扶持，互相鼓勵，一齊度過咗難忘嘅時光，咁樣嘅經歷會成為佢哋友誼中最珍貴嘅一部分，永遠銘記喺心。
 
-最後，當佢哋返到起點，面對住即將告別嘅瞬間，心中充滿咗感激同不捨。呢段旅程唔單止令佢哋收穫咗美好嘅回憶同深刻嘅體驗，更加令佢哋重新搵到對生活嘅熱愛同對未來嘅期待。峇里島，成為咗佢哋生命中一道美麗嘅風景線，永遠閃耀喺佢哋嘅回憶之中。
+最後，當佢哋返到起點，面對即將告別嘅瞬間，個心充滿咗感激同唔捨。呢段旅程唔單止令佢哋收穫咗美好嘅回憶同深刻嘅體驗，更加令佢哋重新搵到對生活嘅熱愛同對未來嘅期待。峇里島，成為咗佢哋生命中一道美麗嘅風景線，永遠閃耀喺佢哋嘅回憶之中。
 
-## 觀看完整視頻
+## 睇完整條片
 
 https://www.youtube.com/watch?v=faJH5pOjzpo
 
 {{block:戶外}}
 
-您覺得佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦歡迎大家到社團投稿您嘅行程喔！
+你覺得佢哋嘅行程好精彩咩？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去社團投稿你嘅行程㗎！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
-點擊呢度觀看更多峇里島精彩遊記
+點擊呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但唔知點落手嗎？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但係唔知點落手咩？可以參考吓「[點樣寫一篇精彩嘅峇里島遊記](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，幫你嘅遊記更加出彩！
 
 {{block:攻略}}

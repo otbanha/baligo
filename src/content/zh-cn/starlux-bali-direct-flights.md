@@ -1,4 +1,5 @@
 ---
+slug: starlux-bali-direct-flights
 title: 星宇飞巴厘岛有望！年底前成行
 description: 自2024年9月1日起星宇航空正式启航直飞印尼台北至雅加达的航班，每周飞行五次。星宇并计划飞巴厘岛的航线
 pubDate: '2024-09-04'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66d86afafd8978000199d546'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: d8a0ec26988d388a147f743b8472aded
+_srcHash: 1f54a14783ec95c9def660b47dad894e
 ---
 
 ### 认识台湾全服务航空公司「星宇」

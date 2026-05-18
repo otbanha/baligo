@@ -1,4 +1,5 @@
 ---
+slug: bali-news-april-22-2026
 title: 2026-04-22巴厘岛新闻
 description: ''
 pubDate: 2026-04-22T00:00:00.000Z
@@ -14,7 +15,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: e36dff4df050acd3ebf4fb05b87f83d9
+_srcHash: 096063fa21a7c110b78b24d536062201
 ---
 
 【今早美金汇率：16,725】（[巴厘岛换汇须知](https://gobaligo.id/blog/2024-01-28-65b5c7e2fd89780001e96fac/)）

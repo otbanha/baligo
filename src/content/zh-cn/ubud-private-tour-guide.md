@@ -1,4 +1,5 @@
 ---
+slug: ubud-private-tour-guide
 title: 超高评价乌布私人一日游，私人导游带你探索经典景点
 description: 体验巴厘岛乌布私人一日游，畅游猴林、瀑布、圣泉寺与梯田，专业导游陪伴，10K+人参加，高评价推荐！
 pubDate: '2025-08-27'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/68ad9f51fd8978000197d8c1'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: f2d48a0ab3fccb23dc1203a234df233f
+_srcHash: 80c2c50671a71a501d212527673a6973
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1352d09a9967b15bf558624bb13c65f9.jpg)

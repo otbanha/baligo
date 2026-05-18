@@ -1,4 +1,5 @@
 ---
+slug: ulun-danu-beratan-festival
 title: 巴厘岛文化魅力大爆发：7月与8月不容错过的水神庙游行
 description: 2025年7月与8月，Ulun Danu Beratan水神庙与Blooms Garden每日举办Gebogan文化游行，体验最原汁原味的巴厘传统文化！
 pubDate: '2025-06-10'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6847dc25fd89780001779046'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 1bde378b1f12339f56dbc067b4e59f06
+_srcHash: 89151fb3f61c01d542764b6b509b808c
 ---
 
 ### **巴厘岛迎接观光旺季，文化活动全面启动**

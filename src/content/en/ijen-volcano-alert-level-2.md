@@ -1,9 +1,10 @@
 ---
+slug: ijen-volcano-alert-level-2
 title: 'Volcano Alert! Mount Ijen Elevated to Level II Alert, Reasons Revealed'
 description: >-
-  Mount Ijen (Gunung Ijen), famous for its stunning volcanic lake, attracts
+  Mount Ijen (Gunung Ijen), famous for its stunning crater lake, attracts
   countless tourists. However, according to reports from Indonesia in mid-July
-  2024, the volcano's activity status has recently been elevated to Level II
+  2024, the volcano's activity status has recently been raised to Level II
   alert, and the reasons have been revealed...
 pubDate: '2024-07-30'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6c294bf2e4a241c535d12df38f67338f.jpg'
@@ -17,28 +18,28 @@ originalUrl: 'https://vocus.cc/article/66a8f541fd897800013efd61'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 4cb297f5f9a1e66d2bb91f590e39f327
+_srcHash: 51faed4d83fc04fa955fc8ac864220e3
 ---
 
-Mount Ijen (Gunung Ijen), renowned for its breathtaking volcanic lake, draws numerous visitors. However, as reported in mid-July 2024 in Indonesia, the volcano's activity status has recently been raised to Level II alert, and the reasons have been unveiled. Based on an assessment by the Center for Volcanology and Geological Hazard Mitigation (PVMBG) under the Ministry of Energy and Mineral Resources, Mount Ijen has shown a significant increase in activity, prompting the elevation of the alert level.
+Mount Ijen (Gunung Ijen), renowned for its magnificent crater lake, draws numerous visitors. However, according to reports from Indonesia in mid-July 2024, the volcano's activity status has recently been elevated to Level II alert, and the reasons have been unveiled. Based on an assessment by the Center for Volcanology and Geological Hazard Mitigation (PVMBG) under the Ministry of Energy and Mineral Resources, Mount Ijen has shown a significant increase in activity, prompting the alert level upgrade.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_55b09cfdbb9d40a520cfc527ec731075.jpg)
 
 ### Changes in Activity Status
 
-Previously, Mount Ijen's activity status was only at normal (Level I). However, with increased volcanic activity in Banyuwangi and Bondowoso, PVMBG decided to raise its status to Level II alert. Titan Roskusumah, the public relations officer at the Center for Volcanology and Geological Hazard Mitigation, detailed the changes in Mount Ijen's activity over the past few months during an interview.
+Previously, Mount Ijen's activity status was only at normal (Level I). However, with increased volcanic activity in Banyuwangi and Bondowoso, PVMBG decided to raise its status to Level II alert. Titan Roskusumah, the public relations officer at the Center for Volcanology and Geological Hazard Mitigation, detailed the changes in Mount Ijen's activity over recent months during an interview.
 
-### Changes in Lake Color and Temperature
+### Crater Lake Color and Temperature Changes
 
-Titan explained, 'One of the signs of increased activity at Mount Ijen's volcanic lake is the change in the lake's color from green to a pale white, caused by sediments rising to the surface due to intense gas pressure.' Additionally, the lake's water temperature rises with increased gas pressure or concentration. During periods of heightened activity, bubbles appear on the water's surface.
+Titan explained, "One of the signs of increased activity at Mount Ijen's crater lake is the change in the lake's color from green to pale white, caused by sediments rising to the surface due to intense gas pressure." Additionally, the lake's water temperature rises with increased gas pressure or concentration. During periods of heightened activity, bubbles appear on the water's surface.
 
 ### Volcanic Gas Eruptions
 
-Increased activity at Mount Ijen's volcanic lake is often accompanied by gas eruptions, primarily carbon dioxide (CO2). These gas eruptions can flow along valleys, as seen during the March 2018 gas eruption at Mount Ijen. CO2, being denser, spreads more easily along low-lying terrain compared to air.
+Increased activity at Mount Ijen's crater lake is often accompanied by gas eruptions, primarily carbon dioxide (CO2). These gas eruption events can flow along valleys, as demonstrated by the gas eruption at Mount Ijen's crater lake in March 2018. CO2, being denser, spreads more easily along lower terrains than air.
 
 ### Recent Seismic Activity
 
-From June 1, 2024 to July 12, 2024, the frequency of shallow and deep volcanic earthquakes decreased, but the number of other types of earthquakes fluctuated normally. Since 2023, the overall seismic energy has shown a fluctuating and gradually increasing trend, especially on July 12, 2024, when seismic energy significantly increased, and the amplitude of continuous tremors also notably amplified.
+From June 1, 2024, to July 12, 2024, the frequency of shallow and deep volcanic earthquakes decreased, but the number of other types of earthquakes fluctuated normally. Since 2023, the overall seismic energy has shown a fluctuating and gradually increasing trend, especially on July 12, 2024, when seismic energy significantly increased, and the amplitude of continuous tremors also notably amplified.
 
 ### Recent Volcanic Activity Records
 
@@ -48,7 +49,7 @@ From 17:00 to 21:00 on July 12, 2024, tremor activity significantly intensified,
 
 ### Preventive Measures
 
-In light of the increased activity of Mount Ijen, PVMBG has warned nearby residents and tourists to stay at least 1.5 kilometers away from the volcanic lake. This recommendation is based on the potential dangers posed by increased volcanic activity, including heightened concentrations of volcanic gases and possible eruptions.
+Given the increased activity of Mount Ijen, PVMBG warns nearby residents and tourists to stay at least 1.5 kilometers away from the volcanic lake. This recommendation is based on the potential dangers posed by increased volcanic activity, including higher concentrations of volcanic gases and possible eruptions.
 
 **Conclusion**
 

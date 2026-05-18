@@ -1,4 +1,5 @@
 ---
+slug: the-firefly-garden-ubud
 title: The Firefly Garden 螢火蟲花園：峇里島最閃耀嘅生態保育與旅遊勝地
 description: "體驗夜間螢火蟲之旅 \U0001F30C，享受當地茶飲與特色美食。呢度結合咗旅遊、保育與教育，係烏布唔可以錯過嘅永續景點。"
 pubDate: 2025-08-24T00:00:00.000Z
@@ -8,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_acc84e91c5ed724c93e3e9a11109338d.jpg'
 originalUrl: 'https://vocus.cc/article/68aa8849fd8978000171256a'
 lang: zh-hk
-_srcHash: 90ce4bf2089a466f578a15ebca3962b4
+_srcHash: c93b5b7889c0a91cf83e9551ae6ad2f1
 ---
 
 ## 峇里島螢火蟲花園榮獲生態旅遊大獎
@@ -37,21 +38,21 @@ _srcHash: 90ce4bf2089a466f578a15ebca3962b4
 
 ## 遊客體驗：自然與浪漫兼具
 
-- **螢火蟲夜間導覽**：只需10萬印尼盾，遊客就可以喺星空下欣賞螢火蟲飛舞，仲可以享用當地茶飲同炸木薯點心。
-- **浪漫晚餐套裝**：每對情侶50萬印尼盾，包螢火蟲導覽、專屬浪漫餐桌，同埋精緻嘅在地料理。
+- **螢火蟲夜間導覽**：僅需10萬印尼盾，遊客可以喺星空下欣賞螢火蟲飛舞，並享用當地茶飲與炸木薯點心。
+- **浪漫晚餐套裝**：每對情侶50萬印尼盾，包含螢火蟲導覽、專屬浪漫餐桌，以及精緻嘅在地料理。
 
-呢啲體驗讓遊客喺享受自然之美嘅同時，亦支持咗保育計劃。
+呢啲體驗等遊客可以享受大自然嘅美，同時支持保育計劃。
 
-> [螢火蟲花園之旅，含烏布亮點同金塔瑪尼咖啡之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1110614&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F148460-fireflies-garden-with-ubud-highlight-kintamani-cafe-tour%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Ded9d6d5bff)
+> [螢火蟲花園之旅，包烏布景點同金塔瑪尼咖啡之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1110614&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F148460-fireflies-garden-with-ubub-highlight-kintamani-cafe-tour%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Ded9d6d5bff)
 
 ***
 
-## 印尼生態創新獲獎者一覽
+## 印尼生態創新得獎者一覽
 
 除咗螢火蟲花園，其他得獎項目包括：
 
 - **最佳創新獎**：由Komang Wiratama Putra帶領嘅「Raja Prani農民團體」，專注提升高價值蔥作物嘅種植方法。
-- **海洋與漁業獎**：Ketut Adi Putra發明咗「Jukung Sky Boat」，幫助當地漁民提升捕魚效率。
+- **海洋與漁業獎**：Ketut Adi Putra發明嘅「Jukung Sky Boat」，幫助當地漁民提升捕魚效率。
 
 {{block:ubud}}
 
@@ -59,24 +60,24 @@ _srcHash: 90ce4bf2089a466f578a15ebca3962b4
 
 ## 常見問題 FAQ
 
-### 1. 峇里島螢火蟲花園喺邊度？
+### 1. 峇里島螢火蟲花園喺邊？
 
 位於烏布附近嘅塔羅村，距離市區唔遠，係一處當地人經營嘅生態旅遊景點。
 
 ### 2. 點解螢火蟲保育咁重要？
 
-螢火蟲對污染極度敏感，其存在象徵生態系統嘅健康與平衡。
+螢火蟲對污染極度敏感，佢哋嘅存在象徵生態系統嘅健康同平衡。
 
-### 3. 花園嘅遊客體驗有咩？
+### 3. 花園嘅遊客體驗有啲咩？
 
-主要包括夜間螢火蟲導覽、浪漫晚餐套裝，同埋有機農園參觀體驗。
+主要包括夜晚螢火蟲導賞、浪漫晚餐套餐，同埋有機農場參觀體驗。
 
-### 4. 門票價錢係幾多？
+### 4. 門票幾錢？
 
-夜間導覽係每人USD$7，浪漫晚餐雙人套裝係USD$34。
+夜晚導賞每位 10 萬印尼盾，浪漫晚餐雙人套餐 50 萬印尼盾。
 
-### 5. 一日遊套裝
+### 5. 一日遊套餐
 
-可以考慮 Klook 嘅一日遊套裝：[螢火蟲花園之旅，包烏布亮點同金塔瑪尼咖啡之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1110614&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F148460-fireflies-garden-with-ubud-highlight-kintamani-cafe-tour%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Ded9d6d5bff)
+可以考慮 Klook 嘅一日遊套餐：[螢火蟲花園之旅，包烏布景點同金塔瑪尼咖啡之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1110614&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F148460-fireflies-garden-with-ubud-highlight-kintamani-cafe-tour%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Ded9d6d5bff)
 
 {{block:親子}}

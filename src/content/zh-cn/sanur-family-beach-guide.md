@@ -1,4 +1,5 @@
 ---
+slug: sanur-family-beach-guide
 title: '巴厘岛家庭亲子旅游首选: 最安全的戏水海滩 - 沙努尔'
 description: 探索巴厘岛沙努尔区最适合亲子旅游的安全海滩，了解设施、住宿推荐与玩乐亮点，让全家安心同游天堂
 pubDate: 2025-06-25T00:00:00.000Z
@@ -8,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d28ee1e8e57db46d81bf20ec96f6ac93.jpg'
 originalUrl: 'https://vocus.cc/article/685a4e9dfd897800015f493d'
 lang: zh-cn
-_srcHash: fcf9a1d6b7676d776bc338f0f130d204
+_srcHash: f839a165ae40c8a6b30f2efae9f74da7
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_703008611ebd42c8436934b38f0c4796.jpg)

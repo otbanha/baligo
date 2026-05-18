@@ -1,4 +1,5 @@
 ---
+slug: renaissance-bali-uluwatu-resort
 title: 【乌鲁瓦图奢华天堂】乌鲁瓦图万丽度假村 Renaissance Bali Uluwatu 深度介绍与家庭推荐亮点
 description: >-
   位于巴厘岛南端的乌鲁瓦图，乌鲁瓦图万丽度假村(Renaissance Bali Uluwatu Resort & Spa)
@@ -16,17 +17,43 @@ tags:
   - Renaissance Bali Uluwatu
 heroImage: 'https://images.gobaligo.id/vocus/vocus_320e3fb7ed47a44021d7955a99a4eb6f.jpg'
 originalUrl: 'https://vocus.cc/article/67f76284fd89780001bede9f'
+agoda_hotel_id: 2562742
+agoda_hotel_name: 峇里島烏魯瓦圖萬麗度假飯店及SPA中心
+agoda_star_rating: 5
+latitude: -8.812800407409668
+longitude: 115.1447982788086
 lang: zh-cn
-_srcHash: 0a670373fefecfc7bfa184f57e39bd35
+_srcHash: aae582373ee447c43c383fbb88c20989
 ---
 
 ## 巴厘岛乌鲁瓦图的精品奢华度假天堂
 
 位于巴厘岛南端的乌鲁瓦图，乌鲁瓦图万丽度假村(Renaissance Bali Uluwatu Resort & Spa) 由万豪国际集团打造，2019年开幕的五星级度假村，位于著名的乌鲁瓦图海滩旁,拥有一览无遗的海景。将巴厘岛在地元素融入现代建筑，提供旅客高品质又充满当地文化气息的住宿体验。这里既适合寻求静谧放松的情侣，也非常适合带孩子出游的家庭。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_983ab3be12c708f9b8ec24c4b9670c3f.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774417812568-1.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774417814467-10.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774417815064-2.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774417815490-3.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774417816135-4.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774417816828-5.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774417817498-6.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774417818132-6.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774417818758-7.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774417819462-8.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774417819885-9.jpg)
 
 > ▶[查看预定日期的Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2562742)
+
 ## 住宿空间舒适雅致，满足各类旅客需求
 
 无论是情侣出游、家庭旅行或是朋友聚会，这里的住宿选项都非常多样：

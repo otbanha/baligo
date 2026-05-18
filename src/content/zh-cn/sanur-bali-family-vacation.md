@@ -1,4 +1,5 @@
 ---
+slug: sanur-bali-family-vacation
 title: 巴厘岛亲子度假胜地：沙努尔旅游计划
 description: 沙努尔是巴厘岛上一个非常适合亲子度假的地区。这里阳光明媚、海滩细软、物价相对便宜，加上丰富的亲子游乐设施，成为不少带着孩子度假的家庭的首选...
 pubDate: 2024-03-24T00:00:00.000Z
@@ -14,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d66488cbf12527aba9885db31c4f0b5a.jpg'
 originalUrl: 'https://vocus.cc/article/65ff99e2fd897800016c300e'
 lang: zh-cn
-_srcHash: 77f9ef82c79dbe8176eacd2532da5cc1
+_srcHash: ed8ce717cc4a1c8cf1109f46d4bef348
 ---
 
 沙努尔是巴厘岛上一个非常适合亲子度假的地区。这里阳光明媚、海滩细软、物价相对便宜，加上丰富的亲子游乐设施，成为不少带着孩子度假的家庭的首选。
@@ -27,7 +28,7 @@ https://youtu.be/P1KnRTERe-g?si=ITaE19UWpDyg0taR
 
 海边自然不缺乏水上活动，Sinduh海滩上有一处海龟保育中心，能让孩子们认识保育的重要性。而全新落成的海滨步道，非常适合一家人租借单车或电动辅助脚踏车同游。需注意的是，由于之前可以租借电动脚踏车的时候，常有路人被撞受伤，现在已经禁止出租电动脚踏车出租。
 
-另外，独木舟也是很受欢迎的选择哦！请看小杰的视频：
+另外，独木舟也是很受欢迎的选择喔！请看小杰的视频：
 
 https://youtu.be/Xp5gyMslrVE
 

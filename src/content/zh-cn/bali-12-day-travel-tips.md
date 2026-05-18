@@ -1,4 +1,5 @@
 ---
+slug: bali-12-day-travel-tips
 title: 如何轻松玩转巴厘岛12天？实用贴士与行程规划分享
 description: 在八月初，我们进行了一次为期12天的巴厘岛自由行旅行。这次旅行充满了惊喜和挑战，以下是我的一些心得与反馈，希望对计划前往巴厘岛的你有所帮助
 pubDate: '2024-09-27'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66d4538ffd897800012f025a'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: cf67e33756e2a4caf26286cce916ea07
+_srcHash: 683c5c4fa11e14437ecd5b7957e8ef3b
 ---
 
 ### 巴厘岛12天行程规划心得分享
@@ -66,15 +67,15 @@ _srcHash: cf67e33756e2a4caf26286cce916ea07
 
 （视频由林俊宏提供）
 
-[**▶Klook的努沙佩尼达优惠**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=909332&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fpoi%2F50190574-nusa-penida%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D21079c02f9)
+[**▶Klook的Nusa Penida优惠**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=909332&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fpoi%2F50190574-nusa-penida%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D21079c02f9)
 
-**编者按：来到这里“切记”不要下海哦！已经发生过**[**不少次致死意外了**](/blog/2024-08-22-66c69317fd8978000110fabc/)**～**
+**编者按：来到这里「切记」不要下海喔！已经发生过**[**不少次致死意外了**](/blog/2024-08-22-66c69317fd8978000110fabc/)**～**
 
-另一个是Tembeling Beach and Forest，这里人比较少，非常适合休息。不过，通往景点的路况不好，需要特别小心。Diamond Beach相对而言比较一般。由于佩尼达是新开发的离岛，住宿和餐饮的品质不高，价格也比巴厘岛本岛贵两倍左右。整体来说，我们的佩尼达岛之行还是非常不错的。
+另一个是Tembeling Beach and Forest，这里人比较少，非常适合休息。不过，通往景点的路况不好，需要特别小心。Diamond Beach相对而言比较一般。由于Penida是新开发的离岛，住宿和餐饮的品质不高，价格也比巴厘岛本岛贵两倍左右。整体来说，我们的Penida岛之行还是非常不错的。
 
 **延伸阅读：**
 
-[【巴厘岛 - 努沙佩尼达 佩尼达岛全攻略】](/blog/2023-08-16-64db6b82fd897800013a9942/)  
+[【巴厘岛 - Nusa Penida 佩尼达岛全攻略】](/blog/2023-08-16-64db6b82fd897800013a9942/)  
 [地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/2023-08-16-64db6b82fd897800013a9942/)
 
 ## 旅途中最特别的住宿推荐
@@ -83,12 +84,12 @@ _srcHash: cf67e33756e2a4caf26286cce916ea07
 
 [**▶Aurora Cabins by Panoramika 订房链接**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47466423)
 
-我们也在佩尼达岛住了4天，这里抱怨一下我们的Airbnb住宿居然需要自备毛巾等用品，因为业者提供的毛巾太脏，床垫也不干净。我们忍耐住完后向Airbnb反应，部分退款了。
+我们也在Penida岛住了4天，这里抱怨一下我们的Airbnb住宿居然需要自备毛巾等用品，因为业者提供的毛巾太脏，床垫也不干净。我们忍耐住完后向Airbnb反应，部分退款了。
 
 （视频由林俊宏提供）
 
 **延伸阅读：**  
-[佩尼达岛住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+[佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
 
 总的来说，巴厘岛是一个适合慢节奏生活和休息创作的好地方。希望这次的心得分享能对你的巴厘岛旅行有所帮助！🌴
 
@@ -114,5 +115,5 @@ _srcHash: cf67e33756e2a4caf26286cce916ea07
 - [佩尼达岛吃喝玩乐全攻略](/blog/2023-08-16-64db6b82fd897800013a9942/)
 - [蓝梦岛/金银岛景点全攻略](/blog/2024-10-23-66adfb9afd89780001f62df1/)
 - [Nuanu Creative City攻略](/blog/2025-04-18-68026619fd89780001f56243/)
-- [科莫多岛攻略](/blog/2025-05-04-681601c6fd8978000139f8a3/)
+- [科摩多岛攻略](/blog/2025-05-04-681601c6fd8978000139f8a3/)
 - [Amed/Tulamben攻略](/blog/2025-06-23-68578b01fd89780001dd5208/)

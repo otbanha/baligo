@@ -1,6 +1,7 @@
 ---
-title: 巴厘岛罗威纳看海豚游记
-description: 印尼巴厘岛北部罗威纳海滩的旅程，希望有机会能一睹传闻中的海豚群芳踪
+slug: lovina-dolphin-tour-bali
+title: 巴厘岛Lovina看海豚游记
+description: 印尼巴厘岛北部Lovina Beach的旅程，希望有机会能一睹传闻中的海豚群芳踪
 pubDate: '2024-04-23'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e904309c49a3175e3462349f40d9dcd3.jpg'
 tags:
@@ -13,30 +14,30 @@ originalUrl: 'https://vocus.cc/article/6627b8f4fd89780001823c77'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 1622300fc209d0ec930320cf8ee69198
+_srcHash: aa84006c306db3e51318ecd8513f3313
 ---
 
-身为印尼华人YouTuber的VY Journey冰冰晶晶，这次她展开了前往印尼巴厘岛北部罗威纳海滩的旅程。通过这支影片，她以自己的观点，生动记录了整个行程。
+身为印尼华人YouTuber的VY Journey冰冰晶晶,这次她展开了前往印尼巴厘岛北部Lovina Beach的旅程。通过这支影片,她以自己的观点,生动记录了整个行程。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_43ea8b73cf8a96d8efa3ca1b7c584d45.jpg)
 
-一开始，她说明了这次造访罗威纳的主因，就是希望有机会能一睹传闻中的海豚群芳踪。为了达成这个梦想，她特地安排在这里住上两天一夜。
+一开始,她说明了这次造访Lovina的主因,就是希望有机会能一睹传闻中的海豚群芳踪。为了达成这个梦想,她特地安排在这里住上两天一夜。
 
 ## 住宿选择
 
-抵达后，她首先带领观众参观入住的度假村。这间度假村地理位置优越，房间阳台直面无边无际的印度洋，能尽收壮阔的海景。不论是清晨日出或黄昏夕照，都是绝佳的赏景时机。
+抵达后,她首先带领观众参观入住的度假村。这间度假村地理位置优越,房间阳台直面无边无际的印度洋,能尽收壮阔的海景。不论是清晨日出或黄昏夕照,都是绝佳的赏景时机。
 
 ![冰冰晶晶視頻截圖](https://images.gobaligo.id/vocus/vocus_61c4cd00b751d231b61754804dd6480f.jpg)
 
 冰冰晶晶视频截图
 
-房间装修虽然朴素，但必备的双人床、浴室等设备一应俱全。令她最满意的，当属那片宽敞的阳台，可以尽情欣赏海天一色的美景。
+房间装潢虽然朴素,但必备的双人床、浴室等设备一应俱全。令她最满意的,当属那片宽敞的阳台,可以尽情欣赏海天一色的美景。
 
 ![他們入住的 Lovina Beach Club & Resort](https://images.gobaligo.id/vocus/vocus_6bf57fa7fba7d65835af20b1727a1f31.jpg)
 
-他们入住的罗威纳海滩俱乐部度假村
+他们入住的 Lovina Beach Club & Resort
 
-▶[罗威纳海滩俱乐部度假村 订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1110254)
+▶[Lovina Beach Club & Resort 订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1110254)
 
 度假村内也有多项游乐设施，如游泳池、溜索等，提供住客消遣。不过，这次她并未特地体验，因为时间实在太赶，只好作罢。
 

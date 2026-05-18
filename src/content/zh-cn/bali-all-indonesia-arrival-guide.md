@@ -1,4 +1,5 @@
 ---
+slug: bali-all-indonesia-arrival-guide
 title: 【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略
 description: >-
   计划 2026 年前往巴厘岛？最新电子入境海关申报（ECD）与「All Indonesia」系统全解析。本篇图解伍拉·赖国际机场 (DPS)
@@ -24,7 +25,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_79df9229a3131a48507912ff8ed38f07.png'
 originalUrl: 'https://vocus.cc/article/689dcce7fd8978000125fc52'
 lang: zh-cn
-_srcHash: 2e37cfa7e21993d7dd36b54b8b59c386
+_srcHash: 48bc7f1293cfd32273f6f5013254ec1a
 ---
 
 ### **📢 重要更新！2025年8月18日起，印尼全面启用「All Indonesia」入境卡申报系统**
@@ -49,7 +50,7 @@ _srcHash: 2e37cfa7e21993d7dd36b54b8b59c386
 ### **2️⃣ 办理落地签（Visa on Arrival, VoA）**
 
 - **若未先申请电子签证**，需先至「落地签」柜台排队缴费（2025费用：50万印尼盾，约USD$32）。
-- 持有电子签证eVisa/eVoA者跳过此步骤。
+- 持有电子签证eVisa/eVoA者略过此步骤。
 
 ### **3️⃣ 移民局查验（护照盖章）**
 
@@ -117,3 +118,9 @@ _srcHash: 2e37cfa7e21993d7dd36b54b8b59c386
 **📌 分享给即将旅行的朋友，避免卡关！**
 
 {{block:klook}}
+
+---
+
+👈 **回到巴厘岛自由行终极指南**
+
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

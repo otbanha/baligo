@@ -1,6 +1,7 @@
 ---
-title: 巴厘岛3日＋科莫多岛2D1N船宿：不可错过的旅游精华
-description: 这是一篇记录我们一家四口在巴厘岛与科莫多岛的精彩旅程。我们在巴厘岛停留了三天，随后前往科莫多岛度过五天的探险之旅，并且在那里参加了一个【梦幻科莫多岛】
+slug: bali-komodo-island-tour
+title: 巴厘岛3日＋科摩多岛2D1N船宿：不可错过的旅游精华
+description: 这是一篇记录我们一家四口在巴厘岛与科摩多岛的精彩旅程。我们在巴厘岛停留了三天，随后前往科摩多岛度过五天的探险之旅，并且在那里参加了一个【梦幻科摩多岛】
 pubDate: '2024-09-12'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0f22d157cfa287be743426ae95a50093.jpg'
 tags:
@@ -13,12 +14,12 @@ originalUrl: 'https://vocus.cc/article/66dd1eb3fd897800015bf1d0'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 90a040dc20d42469034be58a2a5b8934
+_srcHash: 919cc8558699613c536f360155b0c132
 ---
 
 > 以下内容改编自团友 [Tyty Chow](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) 分享游记：
 
-这是一篇记录我们一家四口在巴厘岛与科莫多岛的精彩旅程。我们在巴厘岛停留了三天，随后前往科莫多岛两天，度过总共五天的探险之旅，并且在那里参加了一个科莫多两天一夜船宿行程。
+这是一篇记录我们一家四口在巴厘岛与科摩多岛的精彩旅程。我们在巴厘岛停留了三天，随后前往科摩多岛两天，度过总共五天的探险之旅，并且在那里参加了一个科摩多两天一夜船宿行程。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2d9f08d24d85d4d49023c4b8db0a7e5f.jpg)
 
@@ -32,13 +33,13 @@ _srcHash: 90a040dc20d42469034be58a2a5b8934
 
 旅途中，小吴与我们一路闲聊，让我们了解了许多当地文化。他的安排无微不至，无论是餐厅还是活动，都是点对点的接洽，让我们玩得尽兴。他甚至会尽可能帮我们安排最好的座位，卡住最佳的风景。令人惊喜的是，在日出吉普车行程中，小吴还带了空拍机，并且他的吉普车搭档用iPhone 15为我们拍出了绝美的网红照，事后还帮忙编辑照片，让我们留下了满满的美好回忆！
 
-巴图尔火山+岩礁日出行程（Tyty Chow提供）：
+巴杜尔火山+岩礁日出行程（Tyty Chow提供）：
 
-**在线订购：**
+**线上订购：**
 
 [巴杜尔火山吉普车越野+徒步之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)
 
-阿勇河漂流，很长一条，不会太刺激也不会太平稳，很舒适的漂流体验（Tyty Chow提供）：
+阿勇河漂流，很长一段，不会太刺激也不会太平稳，很舒适的漂流体验（Tyty Chow提供）：
 
 **在线订购：**
 

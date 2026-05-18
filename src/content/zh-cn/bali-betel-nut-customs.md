@@ -1,4 +1,5 @@
 ---
+slug: bali-betel-nut-customs
 title: 可以携带槟榔入境巴厘岛/印尼吗?
 description: 槟榔是台湾常见的零食，许多人都有嚼槟榔的习惯。不过，槟榔在许多国家都被视为毒品或违禁品，因此携带槟榔出国需特别注意...
 pubDate: 2024-04-16T00:00:00.000Z
@@ -13,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_dd76f1e8177a1813dc222d3266ae811b.jpg'
 originalUrl: 'https://vocus.cc/article/661e7b1ffd89780001f1da05'
 lang: zh-cn
-_srcHash: ee6901e056a3e6dabdc28054bb724041
+_srcHash: b10503090fb8bb2f64a84d29f56a981e
 ---
 
 槟榔是台湾常见的零食，许多人都有嚼槟榔的习惯。不过，槟榔在许多国家都被视为毒品或违禁品，因此携带槟榔出国需特别注意。

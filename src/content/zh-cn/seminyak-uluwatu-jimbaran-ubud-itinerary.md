@@ -1,4 +1,5 @@
 ---
+slug: seminyak-uluwatu-jimbaran-ubud-itinerary
 title: 【水明漾-乌鲁瓦图-金巴兰-乌布】巴厘岛自由行完整行程分享
 description: 巴厘岛的水明漾-乌鲁瓦图-金巴兰-乌布，司机/住宿推荐完整行程
 pubDate: '2024-08-16'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/669488eafd89780001cc7d82'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: d7f0cb194613e8b9eda0d8daca752b45
+_srcHash: ca959ccfcb509578cd22bf4d9182ed81
 ---
 
 > 以下内容由团友 [连育谆](https://www.facebook.com/groups/baligo/permalink/1574999756380597/) 提供给我们重新编排：
@@ -78,17 +79,17 @@ _srcHash: d7f0cb194613e8b9eda0d8daca752b45
 
 圣泉寺。连育谆提供
 
-这天的行程是一个O字型，先从圣泉寺开始，然后去咖啡馆看火山。原本我们查到AKASA Specialty Coffee，但Komang推荐我们另一间Montana Del Café，说台湾人好像都喜欢这间。虽然因天气不好看不到火山，但这里的韩国可颂非常好吃！
+这天的行程是一个O字型，先从圣泉寺开始，然后去咖啡厅看火山。原本我们查到AKASA Specialty Coffee，但Komang推荐我们另一间Montana Del Café，说台湾人好像都喜欢这间。虽然因天气不好看不到火山，但这里的韩国可颂非常好吃！
 
 ![Montana Del Café可惜天氣不好。連育諄提供](https://images.gobaligo.id/vocus/vocus_8bba492232d63a05b16658986210416d.jpg)
 
 Montana Del Café可惜天气不好。连育谆提供
 
-最后，我们去了Tegallalang Rice Terrace，门票不包含秋千票，想玩的要在门口买票，里面也有特别的衣服可以租借，拍照非常漂亮。虽然这里偏向网红景点，但在梯田晃晃和听着荡秋千人的尖叫声也很享受。
+最后，我们去了德格拉朗梯田，门票不包含秋千票，想玩的要在门口买票，里面也有特别的衣服可以租借，拍照非常漂亮。虽然这里偏向网红景点，但在梯田晃晃和听着荡秋千人的尖叫声也很享受。
 
 > 可以参考一下：[巴厘岛乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/blog/2023-11-17-655054b1fd897800011d4d2c/)
 
-行程结束后，我们请Komang带我们去此行最喜欢的餐厅-Kebun Bistro，虽然最有名的羊排卖完了，但店员推荐的牛排也非常美味！点了五分熟，切开却没有血水，肉质非常嫩，连配菜都很好吃。因为顾客很多，建议在正餐时间提前订位。（已加入[乌布攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+行程结束后，我们请Komang带我们去了此行最喜欢的餐厅-Kebun Bistro，虽然最有名的羊排卖完了，但店员推荐的牛排也非常美味！点了五分熟，切开却没有血水，肉质非常嫩，连配菜都很好吃。因为顾客很多，建议在正餐时间提前订位。（已加入[乌布攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
 
 ## 第六天：
 
@@ -98,7 +99,7 @@ Montana Del Café可惜天气不好。连育谆提供
 
 结束海神庙行程后，我们前往坎古区逛街和海滩散步，喝了斐莉推荐的Blacklist Coffee Roasters，这真是我们这趟巴厘岛之行最喜欢的咖啡。
 
-> 请参考：[巴厘岛坎古完美探险地图：80个长谷必游景点](/blog/2023-02-11-64db6b7efd897800013a9815/)
+> 请参考：[巴厘岛坎古完美探险地图：80个坎古必游景点](/blog/2023-02-11-64db6b7efd897800013a9815/)
 
 行程的最后，我们邀请了Komang和我们一起吃晚餐，感谢他这几天的照顾。
 

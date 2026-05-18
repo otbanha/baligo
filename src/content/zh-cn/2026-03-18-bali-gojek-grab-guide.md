@@ -14,7 +14,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/ByGkcmys01g'
 lang: zh-cn
-_srcHash: dcf34b0de78f7e6f42ac0c798ae33245
+_srcHash: 3fe932db26ee5caf6f55a6657750c688
 ---
 
 [🚗 想预估 Gojek 车资？请点击这里](https://gobaligo.id/map/gojek-fare/)
@@ -61,7 +61,7 @@ _srcHash: dcf34b0de78f7e6f42ac0c798ae33245
 
 **第四步：与司机沟通**
 
-- **内置聊天：** 两款 App 都有内置聊天室，可以传讯息或照片告知确切位置。
+- **内置聊天：** 两款 App 都有内置聊天室，可以传消息或照片告知确切位置。
 - **翻译功能：** Grab 内置自动翻译，司机传印尼文会自动转成英文/中文；Gojek 则可能需要简单的英文沟通。
 - **常用接人地点表达**：
 
@@ -91,7 +91,7 @@ https://youtu.be/ByGkcmys01g
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
 
-### 🚗 对游客的实际影响与建议
+### 🚗 对游客的实际影响与建
 
 限制确实存在，但对游客的整体影响是有限的，你可以通过以下方式顺利出行：
 
@@ -112,3 +112,9 @@ __VID0__
 总结来说，线上叫车在巴厘岛大部分地区仍是可用的有效工具，只需避开有明确禁令的热门景点即可。提前规划好交通方式，将让你的旅程更加顺畅。
 
 {{block:包車}}
+
+---
+
+👈 **回到巴厘岛自由行终极指南**
+
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

@@ -1,8 +1,9 @@
 ---
+slug: kanto-lampo-waterfall-ig-spot
 title: 巴厘岛瀑布美照怎么能错过这里？Kanto Lampo Waterfall｜IG 乌布瀑布｜蛇皮果如何挑选？｜最后有心得/秘技分享不要漏掉喔！
 description: >-
-  巴厘岛乌布附近的瀑布，拍美照不能错过的瀑布就是 Kanto Lampo Waterfall, 探索仙境般的巴厘岛乌布，别错过令人屏息的Kanto
-  Lampo瀑布！这个隐藏在热带丛林中的瑰宝，绝对是摄影爱好者的天堂。快来感受清澈的溪水和瀑布的婀娜多姿，在气势磅礴的瀑布寻找完美的拍摄角度。计划您的巴厘
+  巴厘岛乌布附近的瀑布，拍美照不能错过的瀑布就是 Kanto Lampo Waterfall,  探索仙境般的巴厘岛乌布，别错过令人屏息的Kanto
+  Lampo瀑布！这个隐藏在热带丛林中的瑰宝，绝对是摄影爱好者的天堂。快来感受清澈的溪水和瀑布的婀娜多姿，在气势滂薄的瀑布寻找完美的拍摄角度。计划您的巴厘
 pubDate: 2020-11-06T00:00:00.000Z
 category:
   - 美食景點活動
@@ -10,11 +11,12 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4cc15f376c57006aeb3deaafc3b85328.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b71fd897800013a9435'
 lang: zh-cn
-_srcHash: 14967b27dd6aab8d749227d4e3459ca0
+_srcHash: 19d315e136bf95510da7afd664678c0d
 ---
+
 巴厘岛乌布附近的瀑布，拍美照不能错过的瀑布就是 Kanto Lampo Waterfall,
 
-探索仙境般的巴厘岛乌布，别错过令人屏息的Kanto Lampo瀑布！这个隐藏在热带丛林中的瑰宝，绝对是摄影爱好者的天堂。快来感受清澈的溪水和瀑布的婀娜多姿，在气势磅礴的瀑布寻找完美的拍摄角度。计划您的巴厘岛之旅，别忘了在Kanto Lampo瀑布中创造难忘的瞬间！
+探索仙境般的巴厘岛乌布，别错过令人屏息的Kanto Lampo瀑布！这个隐藏在热带丛林中的瑰宝，绝对是摄影爱好者的天堂。快来感受清澈的溪水和瀑布的婀娜多姿，在气势滂薄的瀑布寻找完美的拍摄角度。计划您的巴厘岛之旅，别忘了在Kanto Lampo瀑布中创造难忘的瞬间！
 
 https://youtu.be/-0KOzA9nPGY
 

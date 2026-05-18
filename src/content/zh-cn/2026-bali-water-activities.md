@@ -1,4 +1,5 @@
 ---
+slug: 2026-bali-water-activities
 title: 【2026 巴厘岛水上活动指南】15 种必玩体验：从初阶冲浪、沉船潜水到激流泛舟
 description: >-
   计划去巴厘岛玩水？本篇详细整理 15
@@ -21,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_879f4fdb8dbb83fac3a613828dec0a3f.png'
 originalUrl: 'https://vocus.cc/article/694122b8fd89780001f514c9'
 lang: zh-cn
-_srcHash: aef0920ae80e35f5c4ad973b1e8f882b
+_srcHash: e4dfe1cfba49de659ad6613eae56983c
 ---
 
 巴厘岛的水上活动非常丰富多元，从刺激的极限运动到悠闲的生态探索，应有尽有。以下是完整的水上活动推荐，适合不同兴趣和体能程度的游客。
@@ -42,11 +43,11 @@ https://youtu.be/gECdNvG16ww
 > [UP2U Surf School](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1254314&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83095-surfing-lesson-up2u-surf-school-bali-kuta-bali-kuta-beach%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D80aae4e08b)
 
 - **推荐地点**：
-    - **库塔海滩 (Kuta Beach)**： 最适合初学者，浪温和且沙滩底，有众多冲浪学校。
-    - **水明漾 (Seminyak)**：适合中级冲浪者，浪较大且人潮较少。
-    - **坎古 (Canggu)**：冲浪文化浓厚，有多个浪点可选，适合中高级冲浪者。
-    - **乌鲁瓦图 (Uluwatu)**：世界级礁石浪点，适合高级冲浪者，可观赏到壮观的管浪。
-    - **巴东巴东 (Padang Padang)**：经典浪点，适合进阶冲浪者。
+    - \*\*库塔海滩 (Kuta Beach)\*\*： 最适合初学者，浪温和且沙滩底，有众多冲浪学校。
+    - \*\*水明漾 (Seminyak)\*\*：适合中级冲浪者，浪较大且人潮较少。
+    - \*\*坎古 (Canggu)\*\*：冲浪文化浓厚，有多个浪点可选，适合中高级冲浪者。
+    - \*\*乌鲁瓦图 (Uluwatu)\*\*：世界级礁石浪点，适合高级冲浪者，可观赏到壮观的管浪。
+    - \*\*巴东巴东 (Padang Padang)\*\*：经典浪点，适合进阶冲浪者。
     -
 - **注意事项**：建议初学者先上1-2小时课程，了解安全规则和基本技巧。礁石浪点需穿冲浪鞋保护脚部。
  **快速参考：**[【巴厘岛冲浪攻略】适合不同等级的冲浪海滩介绍](/blog/2024-04-20-66236818fd89780001389aaa/)
@@ -184,23 +185,23 @@ https://youtube.com/shorts/0f-eAQ78no4?si=L7S8-kjpwt_VcsLh
 
 https://youtu.be/Z7yPLNwrOrQ?si=wlIUdZ89wdHRXzi3
 
-  **简介**：巴厘岛内陆有许多隐藏的瀑布与天然水潭，水质清凉干净，适合游泳、跳水和拍照。需要徒步一段路才能抵达,途中可欣赏热带雨林和梯田风光。
+  **简介**：巴厘岛内陆有许多隐藏的瀑布与天然水潭，水质清凉干净，适合游泳、跳水和拍照。需要徒步一段路才能抵达，途中可欣赏热带雨林和梯田风光。
 
 - **推荐地点**：
 - **特哥努恩安瀑布 (Tegenungan Waterfall)**：距乌布较近，适合初学者，有较宽广的水潭。
 - **坎多澜波瀑布 (Kanto Lampo Waterfall)**：独特的阶梯式瀑布，水流平缓，适合拍照。
 - **图卡杰普恩瀑布 (Tukad Cepung Waterfall)**：隐藏在岩洞中的秘境瀑布，光线照射时特别梦幻。
-- **塞坎佩瀑布 (Sekumpul Waterfall)**：巴厘岛最高瀑布之一,需徒步约1小时,适合冒险者。
-- **注意事项**：穿着防滑鞋,携带泳衣和毛巾。
+- **塞坎佩瀑布 (Sekumpul Waterfall)**：巴厘岛最高瀑布之一，需徒步约1小时，适合冒险者。
+- **注意事项**：穿着防滑鞋，携带泳衣和毛巾。
 
 ## 🎣 其他水域活动
 
 ### 14. 钓鱼之旅 (Fishing Trip)
 
-- **简介**：包船出海进行深海钓鱼,体验传统钓鱼或现代海钓技术。常见渔获有金枪鱼、鲭鱼、旗鱼等。适合喜爱钓鱼或想体验海上宁静时光的游客。有半日游和全日游可选。
+- **简介**：包船出海进行深海钓鱼，体验传统钓鱼或现代海钓技术。常见渔获有金枪鱼、鲭鱼、旗鱼等。适合喜爱钓鱼或想体验海上宁静时光的游客。有半日游和全日游可选。
 - **推荐地点**：沙努尔、努沙杜瓦、佩尼达岛出发。
 - **体验时间**：半日游 4-5 小时，全日游 8-10 小时。
-- **特色**：部分行程可将渔获带回餐厅料理,新鲜美味。
+- **特色**：部分行程可将渔获带回餐厅料理，新鲜美味。
 
 > ▶[参加钓鱼之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1194259&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F57653-bali-fishing-trip%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D87a7be763b)
 
@@ -239,8 +240,8 @@ https://youtu.be/wai2lSW3vVU?si=smSuWoB2Y5ygrC9t
 
 1. 所有水上活动建议穿着救生衣
 2. 选择有信誉的业者和合格教练
-3. 注意天气和海况，风浪大时避免出海
-4. 防晒措施不可少，建议使用海洋友善防晒乳
+3. 注意天气和海况,风浪大时避免出海
+4. 防晒措施不可少,建议使用海洋友善防晒乳
 5. 贵重物品妥善保管或寄存
 6. 购买旅游保险以保障安全
 

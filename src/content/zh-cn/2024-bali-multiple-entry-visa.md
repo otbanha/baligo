@@ -1,4 +1,5 @@
 ---
+slug: 2024-bali-multiple-entry-visa
 title: 巴厘岛D1多次入境签证：2024年最新巴厘岛签证更新
 description: '巴厘岛2024年开始的最新 [Multiple Entry Visa 多次入境签证] (D1签证)，如何获得这种签证以及其相关条件。'
 pubDate: '2024-02-05'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65c0796ffd89780001e8d6db'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: eb33ce0e39564b20b00d87032250203c
+_srcHash: 2abf1df69f8c1a05b7be78e58a019fbf
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_75a017bcc23776bfdf405a8361b72773.jpg)

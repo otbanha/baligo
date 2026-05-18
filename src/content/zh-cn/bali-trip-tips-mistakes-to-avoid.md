@@ -1,4 +1,5 @@
 ---
+slug: bali-trip-tips-mistakes-to-avoid
 title: 【巴厘岛自由行旅程心得分享】避免踩雷提醒！
 description: 这次要跟大家分享我在巴厘岛的旅行经历。这次旅行，我们从签证办理、包车服务到各大景点和餐厅，一一体验了当地的风情，当然也遇到了一些不愉快的小插曲...
 pubDate: '2024-08-03'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6691f675fd89780001832a5b'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 12e14f50ebb8a3a09c00e6f060f284d2
+_srcHash: 377733807e4fdc7d64cda5941b4c35bf
 ---
 
 > 以下内容由团友 [Li Wallis](https://www.facebook.com/share/p/JqkCsRBtYLDZtsnV/) 提供给我们重新编排：
@@ -36,7 +37,7 @@ _srcHash: 12e14f50ebb8a3a09c00e6f060f284d2
 
 司机说费用包含汽油和停车费，但在去断崖公路时，购买门票时被要求支付Rp5000的泊车费，而这个费用最终还是我们付了。因为一直都是司机和门票的人沟通，他不可能不知道有这个泊车费。这让我们感觉司机不够诚实，让人非常不满😅。
 
-更有一次，我们在结账当天，司机告诉我们因为是假日，需要额外加收Rp5万。这让我们非常困惑，因为出发前我特地确认了两次价格，司机都说不会有变动。这种临时加价的行为让我们感到不满。因此，大家在预订包车服务时，一定要仔细核对价格和条款，避免遇到类似的情况。
+更有一次，我们在结账当天，司机告诉我们因为是假日，需要额外加收 Rp5 万。这让我们非常困惑，因为出发前我特地确认了两次价格，司机都说不会有变动。这种临时加价的行为让我们感到不满。因此，大家在预订包车服务时，一定要仔细核对价格和条款，避免遇到类似的情况。
 
 > 延伸阅读：[【巴厘岛包车司机推荐名人榜】巴厘岛司机网友评鉴大全：看网友真实点评找到适合你的好司机](/blog/2024-07-07-668aaea7fd89780001981840/)
 
@@ -62,7 +63,7 @@ Li Wallis 提供
 
 乌鲁瓦图庙（Uluwatu Temple）同样美丽，建在峭壁上，俯瞰印度洋，风景非常壮观。不过，这里的猴子非常狡猾，会抢走你的眼镜、帽子和手机，所以要格外小心保管自己的物品。快速参考：[巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/blog/2025-01-18-678b1d81fd89780001f7fe4d/)
 
-🛕🌊🌅 乌鲁瓦图庙 ，悬崖之上的壮丽景点，还能欣赏传统的火舞表演 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50231639-uluwatu%2F1-things-to-do%2F)
+🛕🌊🌅 乌鲁瓦图庙，悬崖之上的壮丽景点，还能欣赏传统的火舞表演 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50231639-uluwatu%2F1-things-to-do%2F)
 
 ### 断崖公路：
 

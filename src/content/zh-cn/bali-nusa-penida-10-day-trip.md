@@ -1,4 +1,5 @@
 ---
+slug: bali-nusa-penida-10-day-trip
 title: 巴厘岛至佩尼达岛跳岛十天游记｜从山林到离岛的奇幻探险
 description: 佩尼达岛三天+巴厘岛乌布+水明漾+包车司机推荐
 pubDate: '2024-08-15'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66a504cbfd89780001e237b8'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: dd58ef9f2905487f249000218a5100fe
+_srcHash: 2fcea4475379fa7f2a06d7294c35dc32
 ---
 
 > 匿名发布

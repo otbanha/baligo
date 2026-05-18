@@ -1,4 +1,5 @@
 ---
+slug: ubud-yoga-retreats-bali
 title: 巴厘岛乌布瑜伽住宿推荐：10间结合瑜伽课程与心灵放松的梦幻选择
 description: >-
   在巴厘岛乌布这个灵性的文化中心，瑜伽已经不仅仅是一种运动，而是一种生活方式的体现。无论你是瑜伽初学者还是经验丰富的修行者，结合住宿与瑜伽课程的旅馆，将为你提供一场身心灵的盛宴。以下为你精选了10间乌布的住宿，不仅拥有舒适的环境，还提供优质的瑜伽课程，让你的巴厘岛假期更加丰富。
@@ -29,7 +30,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e3d6b1a238b2a132511ebd9395fda710.jpg'
 originalUrl: 'https://vocus.cc/article/67451f5afd89780001f002f2'
 lang: zh-cn
-_srcHash: fc474fff3c9c2e999f8261e920ce69f2
+_srcHash: ddbdfe8acd25995fe5e6382773874442
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7c732b073f5ce52b19b42925c798cc9d.jpg)
@@ -190,7 +191,7 @@ _srcHash: fc474fff3c9c2e999f8261e920ce69f2
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439442500-219176023.jpeg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439442899-_2024-11-26_09.34.49.png)
 
-这间结合传统与现代设计的奢华别墅，提供瑜伽课程与烹饪课程，还有Spa疗程。餐厅与咖啡厅供应巴厘岛小吃、新鲜果汁及鸡尾酒。位于当地村庄背后，这里是想深入了解巴厘岛文化的完美选择。
+这间结合传统与现代设计的奢华别墅，提供瑜伽课程与烹饪课程，还有Spa疗程。餐厅与咖啡厅供应巴厘岛小吃、新鲜果汁及鸡尾酒。位于当地村庄背后，这里是想深入巴厘岛文化的完美选择。
 
 👉 **特色：** 独特别墅设计、接近自然、个性化服务
 

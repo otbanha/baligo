@@ -1,7 +1,8 @@
 ---
+slug: nusa-penida-island-hopping-guide
 title: 巴厘岛六日自由行努沙佩尼达跳岛攻略
 description: >-
-  这是我们社团网友「Sophie）」在巴厘岛度过的六天精彩自由行程！有许多参考了「小杰印尼」的视频和我们「巴厘岛旅游攻略」的精彩攻略的组合。让我们一起看看这段她自己安排的充满冒险和探索旅程吧！
+  这是我们社团网友「Sophie」在巴厘岛度过的六天精彩自由行程！有许多参考了「小杰印尼」的视频和我们「巴厘岛旅游攻略」的精彩攻略的组合。让我们一起看看这段她自己安排的充满冒险和探索旅程吧！
 pubDate: '2024-01-28'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2eb0a8dae04d24a5cfc262605f45386b.jpg'
 tags:
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65b51f59fd89780001e498d4'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 64ee97133b1eeadb4cc34ebf3eae9b96
+_srcHash: 7111ea850f3c32a707777cd74dc0409e
 ---
 
 这是我们社团网友「[Sophie](https://www.facebook.com/soficia.chen)」在巴厘岛度过的六天精彩自由行程！有许多参考了「[小杰印尼](https://www.youtube.com/@j_indonesia)」的视频和我们「巴厘岛旅游攻略」的精彩攻略的组合。让我们一起看看这段她自己安排的充满冒险和探索旅程吧！
@@ -32,7 +33,7 @@ Sophie的六天巴厘岛自由行游记分享
 
 他会：
 
-- 👏以合理价格帮忙定漂流的票
+- 👏以合理价格帮忙定泛舟的票
 - 👏英文沟通完全没问题
 - 👏可以配合所有行程变动
 - 👏我们有帮家人庆生，他在金巴兰推荐餐厅并帮我们安排蛋糕及乐队合唱，非常细心
@@ -112,7 +113,7 @@ Omma Dayclub 图：Sophie提供
 
 - **09:00**：参观克林金海滩，探索精灵海岸。
 - **13:00**：探访破碎海滩和天使浴池，欣赏壮观的自然景观。
-- **16:00**：AMARTA Penida享受夕阳和美味的晚餐，这家餐厅有一个不用排队的天堂之门哦！
+- **16:00**：AMARTA Penida享受夕阳和美味的晚餐，这家餐厅有一个不用排队的天堂之门喔！
 
 ![不用排隊的天空之門  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_1fae087d3589421ea2550badb57cfabd.jpg)
 
@@ -120,14 +121,14 @@ Omma Dayclub 图：Sophie提供
 
 > （延伸阅读：[Amarta Penida介绍](/blog/2023-10-22-65348754fd89780001b2a259/)）
 
-## 1/22 第五天：努沙佩尼达岛和金巴兰
+## 1/22 第五天：Nusa Penida岛和金巴兰
 
 - **07:00**：在酒店附近进行最后一次浮潜活动。
-- **08:00**：参观佩尼达岛东岸的钻石海滩和阿图海滩，享受海滩的美景。
+- **08:00**：参观佩尼达岛东岸的Diamond Beach和Atuh Beach，享受海滩的美景。
 
 ![Diamond Beach  圖：Sophie提供 ](https://images.gobaligo.id/vocus/vocus_ac69b9dfc6e931ba3f0baaaac68d67d5.jpg)
 
-钻石海滩 图：Sophie提供
+Diamond Beach 图：Sophie提供
 
 - **17:00**：回到巴厘岛，在金巴兰海滩享受美味的晚餐+烤玉米，还有超梦幻的夕阳，结束一天的旅程。
 
@@ -146,7 +147,7 @@ Wahaha吃过的都说赞！
 
 - **13:30**：在Prema Rasa购买一些伴手礼，并准备前往机场。
 
-内行人都知道要去Prema Rasa买伴手礼
+内行的都知道要去Prema Rasa买伴手礼
 
 **快速参考：**[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
 

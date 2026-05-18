@@ -1,6 +1,6 @@
 ---
 title: 【巴厘岛家居挖宝】贝壳吊灯不到100美元！海运/空运攻略，把南洋度假风扛回家
-slug: ''
+slug: bali-home-decor-shopping-guide
 description: >-
   想把 Villa
   的浪漫带回家？深度开箱巴厘岛家居批发市场：从乌布手工木雕、金巴兰贝壳制品到各式编织吊灯，价格惊艳到让你直接想扛一箱！本篇整理必逛挖宝圣地、砍价技巧及寄送回中国的运费解析。由在地专家带路，教您如何用小预算打造梦幻南洋居家空间。
@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 788a85c09a1995760423f34fe692557c
+_srcHash: 3506c88e334680cb9d84498446dc4daa
 ---
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776061962467-mixcollage-13-apr-2026-01-25-pm-4838.jpg)
@@ -100,7 +100,7 @@ _srcHash: 788a85c09a1995760423f34fe692557c
 
 ## 💬 团友们怎么说
 
-> 钱包好危险 太美了❤️
+> 荷包好危险 太美了❤️
 > 太感谢你的分享了
 > 我好喜欢这种装饰喔
 > 我在机场丢了一个藤编篮😭 地勤说太大不能上机

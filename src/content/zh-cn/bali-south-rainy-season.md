@@ -1,6 +1,6 @@
 ---
 title: 巴厘岛雨季降雨分析 - 南部地区的雨季体验
-slug: ''
+slug: bali-south-rainy-season
 description: '想到巴厘岛,许多人脑海中浮现的是阳光、沙滩与冲浪的景象。但作为热带地区,巴厘岛也有其独特的雨季。今天就让我们来探讨巴厘岛南部地区的雨季降雨情况。'
 pubDate: 2024-10-16T00:00:00.000Z
 pubHour: null
@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6cb63d911d81b443322718ad53493ea0.png'
 originalUrl: 'https://vocus.cc/article/670fc5b2fd89780001cea7ee'
 lang: zh-cn
-_srcHash: 36e3bf4ad0276e8c56320407cfed0f42
+_srcHash: ff7bf489b1a0c97c65be44655e118ceb
 ---
 
 想到巴厘岛,许多人脑海中浮现的是阳光、沙滩与冲浪的景象。但作为热带地区,巴厘岛也有其独特的雨季。今天就让我们来探讨巴厘岛南部地区的雨季降雨情况。

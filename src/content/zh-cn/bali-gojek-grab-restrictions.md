@@ -1,4 +1,5 @@
 ---
+slug: bali-gojek-grab-restrictions
 title: 巴厘岛政府对网约车Gojek/Grab做出限制 以保障本地出租车司机收入
 description: >-
   巴厘岛政府即将推出一系列新规定，以保护本地出租车司机的生计。这项决定是在2025年1月5日，数百名出租车司机于登巴萨（Denpasar）举行大规模抗议后做出的。 
@@ -15,10 +16,10 @@ originalUrl: 'https://vocus.cc/article/679acca0fd89780001f544a0'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 32d995d7920bd13535567d1bf416b9ab
+_srcHash: bf73cd9ec4c4c9b63fa44c6c1631b495
 ---
 
-[🚗 想預估 Gojek 車資？請點擊這裡](https://gobaligo.id/map/gojek-fare/)
+[🚗 想预估 Gojek 车资？请点击这里](https://gobaligo.id/map/gojek-fare/)
 
 ## **🚖 巴厘岛出租车司机抗议后 政府加强监管网约车**
 
@@ -94,7 +95,7 @@ _srcHash: 32d995d7920bd13535567d1bf416b9ab
 
 根据新规定，只有持有巴厘岛身份证的居民才能注册为网约车司机。
 
-### **5. 这项政策是否有助改善巴厘岛交通？**
+### **5. 这项政策有助于改善巴厘岛交通吗？**
 
 是的，减少外地车辆的流入，有助于降低交通拥堵，改善当地的交通秩序。
 
@@ -114,10 +115,10 @@ _srcHash: 32d995d7920bd13535567d1bf416b9ab
 
 ✅深度攻略，让你的行程既省钱又无忧  
 
-✅独家推荐的私房景点与当地美食地图
+✅独家推荐的私房景点与当地美食地图  
 
-✅在Facebook社群上看不到的内容
+✅在Facebook群组上看不到的内容
 
-✅收集最多团友的行程规划建议，让每次旅行都是无缝体验
+✅收集最多群友的行程规划建议，让每次旅行都是无缝体验
 
 用谷歌或Facebook账号即可轻松完成注册！

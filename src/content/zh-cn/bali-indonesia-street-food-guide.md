@@ -1,7 +1,8 @@
 ---
+slug: bali-indonesia-street-food-guide
 title: 印尼/巴厘岛必吃人气美食清单｜巴厘岛必吃路边小吃｜印尼便宜小吃
 description: >-
-  来到印尼或巴厘岛 一定不能错过的就是当地地道的国民美食 这是印尼/巴厘岛的必吃美食 看视频介绍 ▽▽▽ 底下还有精彩攻略不要错过哦！▽▽▽
+  来到印尼或巴厘岛 一定不能错过的就是当地地道的国民美食 这是印尼/巴厘岛的必吃美食 看影片介绍 ▽▽▽ 底下还有精彩攻略不要错过喔！▽▽▽
   巴厘岛行前准备终极指南 巴厘岛旅行要带什么？必备的21项物品 出国旅游请留意！【护照有效期限】未注意 网友惨喷USD$158 签证&电子签证eVoA
   填写相关 FA
 pubDate: '2019-08-19'
@@ -16,14 +17,14 @@ originalUrl: 'https://vocus.cc/article/64db6b5afd897800013a8f86'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: d4241975482bd7ed6949e7b3e4551101
+_srcHash: bc1547a5b6acfff7f2047a4870c15efd
 ---
 
 来到印尼或巴厘岛 一定不能错过的就是当地地道的国民美食 这是印尼/巴厘岛的必吃美食
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e2ddcde23d6a0567f42e35a6547d104c.jpg)
 
-看视频介绍
+看影片介绍
 
 
 

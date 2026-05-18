@@ -1,4 +1,5 @@
 ---
+slug: indonesia-visa-guide-bali
 title: 如何正确申请印尼/巴厘岛签证？官方指南助你轻松通过审核！
 description: 如何正确申请印尼签证？官方指南助你轻松通过审核！
 pubDate: '2025-02-09'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67a88514fd897800017bc4be'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: d4d87111b1acabeb6d366a687f13a552
+_srcHash: d463f6fe403c45d3e71e8c8b61d14ccb
 ---
 
 ## **💡 如何避免印尼签证申请中的常见错误？**
@@ -158,10 +159,10 @@ _srcHash: d4d87111b1acabeb6d366a687f13a552
 
 ✅深度攻略，让你的行程既省钱又无忧  
 
-✅独家推荐的私房景点与当地美食地图
+✅独家推荐的私房景点与当地美食地图  
 
-✅在Facebook社群上看不到的内容
+✅在Facebook群组上看不到的内容
 
-✅收集最多团友的行程规划建议，让每次旅行都是无缝体验
+✅收集最多群友的行程规划建议，让每次旅行都是无缝体验
 
 用谷歌或Facebook账号即可轻松完成注册！

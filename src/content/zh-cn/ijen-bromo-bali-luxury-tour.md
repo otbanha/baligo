@@ -1,4 +1,5 @@
 ---
+slug: ijen-bromo-bali-luxury-tour
 title: "\U0001F30B【伊真火山+巴厘岛】梦幻蓝火+赛武瀑布+布罗莫日出｜轻奢五日游全包"
 description: >-
   想看火山又不想太辛苦？深度开箱「全包式」轻奢五日行程。解析如何通过 VIP 包车无缝衔接爪哇与巴厘岛、入住顶级私人 Villa 消除疲劳，并在罗威纳
@@ -10,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_abbcdb77075f99d883ef6f54309163fa.jpg'
 originalUrl: 'https://vocus.cc/article/67eb9e4afd89780001eb48fb'
 lang: zh-cn
-_srcHash: 35be586a57aaf6813153c136ba09afb8
+_srcHash: 76aa722d39c2f46c5ce1bbe858c20588
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_95d91a1539287683737d3e0a04d1e1c8.jpg)
@@ -33,17 +34,17 @@ _srcHash: 35be586a57aaf6813153c136ba09afb8
 
 ***
 
-## 💎 项目包含
+## 💎 专案包含
 
 ✅ **全程机票**（经济舱含税）
 
-✅ **4晚精选住宿**（含私人泳池别墅）
+✅ **4晚精选住宿**（含私人泳池VILLA）
 
 ✅ **所有景点门票**（伊真火山/布罗莫火山/赛武瀑布/追海豚船票）
 
 ✅ **每日早餐**+全程包车服务
 
-✅ **专业导游**+火山探险装备租赁
+✅ **专业导游**+火山探险装备租借
 
 ***
 
@@ -53,11 +54,11 @@ _srcHash: 35be586a57aaf6813153c136ba09afb8
 
 **适用日期** 即日起至2026年12月
 
-**注意事项** 特价项目不可取消退款
+**注意事项** 特价专案不可取消退款
 
 ***
 
-## 🌟 特色介绍
+## 🌟 特色说明
 
 ![行程內容，還有更多等你來洽詢！](https://images.gobaligo.id/vocus/vocus_5feb64fbff7a18ccf5950b6effdf37ca.jpg)
 

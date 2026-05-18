@@ -1,4 +1,5 @@
 ---
+slug: mr-lobster-seafood-bali
 title: 探索峇里島嘅美味寶藏：龍蝦先生 Mr. Lobster 海鮮餐廳
 description: >-
   當你嚟到峇里島，除咗欣賞美麗嘅海景同享受陽光沙灘之外，一定唔可以錯過嘅就係呢度嘅美食。今日我要介紹嘅係一間令你垂涎欲滴嘅海鮮餐廳——龍蝦先生 Mr.
@@ -15,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2cbac39774379bbcb2a04256d663206b.jpg'
 originalUrl: 'https://vocus.cc/article/667ff433fd897800017b331e'
 lang: zh-hk
-_srcHash: 87be116f0bada3fa360fe01bfd309e5d
+_srcHash: 546c21b5552dae94c24d28bd11550ac4
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3dc7be54d646651c0baffd85a2b0e7c2.jpg)
@@ -24,7 +25,7 @@ _srcHash: 87be116f0bada3fa360fe01bfd309e5d
 
 ## 新鮮海鮮嘅極致體驗
 
-龍蝦先生 Mr. Lobster 海鮮餐廳由一位來自台灣嘅老闆經營，佢嘅主業係峇里島水產批發。憑藉住呢一優勢，佢能夠為餐廳提供最新鮮嘅海鮮食材。比起著名嘅金巴蘭海灘，呢度嘅海鮮更加新鮮到極致，現撈現煮，令人無法抗拒。
+龍蝦先生 Mr. Lobster 海鮮餐廳由一位嚟自台灣嘅老闆經營，佢嘅主業係峇里島水產批發。憑藉住呢個優勢，佢能夠為餐廳提供最新鮮嘅海鮮食材。比起出名嘅金巴蘭海灘，呢度嘅海鮮更加新鮮到極致，現撈現煮，令人無法抗拒。
 
 ## 簡單烹製，保留天然鮮味
 
@@ -36,7 +37,7 @@ _srcHash: 87be116f0bada3fa360fe01bfd309e5d
 
 ## 絕佳嘅用餐體驗
 
-餐廳嘅環境闊落簡約，帶有樸素嘅風情。食飯前記得打電話預約，享受老闆親自提供嘅親切服務。如果唔方便過嚟，亦可以用 Grab 或者 Gojek 嘅外賣服務，喺屋企享受新鮮美味嘅海鮮料理。
+餐廳環境闊落簡約，帶有樸素嘅風情。食飯前記得打電話預約，享受老闆親自提供嘅親切服務。如果唔方便過嚟，亦可以用 Grab 或者 Gojek 嘅外賣服務，喺屋企享受新鮮美味嘅海鮮料理。
 
 ## 購買峇里島名產「魷魚片」
 
@@ -71,6 +72,6 @@ Facebook: [許炳輝](https://www.facebook.com/hsu.dick.7)
 
 ![許老闆的賴QRcode，敬請提前預約！](https://images.gobaligo.id/vocus/vocus_ccad95f653a0e70e8cd36b5e2c6cf845.jpg)
 
-許老闆嘅Line QR code，敬請提前預約！
+許老闆嘅Line QRcode，敬請提早預約！
 
-按讚追蹤 [峇里島旅遊攻略 粉絲團](https://www.facebook.com/groups/2254631208139349/user/61560184972795/?__cft__[0]=AZVu4xvT2MCwiGs_9QWA59-5fCRR0aCkzi6cDwnmlz_lVDohVZmLSIJmoONR-hwv49yEVEodgTk5bLnn9vlwBPYSlwtCDAtU1liEWfvcNpRf1W5vAy2Rw_6QFNV0-67CF9cbz2XM9EvJQTy9_zu0fIzanhxifMr7yY5O5Co86-wUpdPbJ7lorhe7s2Q_8gNtUi1e4OBTOxZ80l9oQeqIZytMcGKRIHkJnFZ2locJD02adZ0fkJenqpFz9Lruo90h14rI_A2i-2DssHcBOk-sK0fa&__tn__=-]K-y-R) 更多優惠等緊你！
+Like同Follow [峇里島旅遊攻略 粉絲團](https://www.facebook.com/groups/2254631208139349/user/61560184972795/?__cft__[0]=AZVu4xvT2MCwiGs_9QWA59-5fCRR0aCkzi6cDwnmlz_lVDohVZmLSIJmoONR-hwv49yEVEodgTk5bLnn9vlwBPYSlwtCDAtU1liEWfvcNpRf1W5vAy2Rw_6QFNV0-67CF9cbz2XM9EvJQTy9_zu0fIzanhxifMr7yY5O5Co86-wUpdPbJ7lorhe7s2Q_8gNtUi1e4OBTOxZ80l9oQeqIZytMcGKRIHkJnFZ2locJD02adZ0fkJenqpFz9Lruo90h14rI_A2i-2DssHcBOk-sK0fa&__tn__=-]K-y-R) 更多優惠等緊你！

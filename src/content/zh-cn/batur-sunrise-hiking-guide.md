@@ -1,4 +1,5 @@
 ---
+slug: batur-sunrise-hiking-guide
 title: 巴杜尔徒步登山日出攻略
 description: >-
   提到巴厘岛，大多数人首先想到的是美丽的沙滩和波光粼粼的海水。然而，巴厘岛的魅力远不止于此，还有一个不容错过的自然奇观，那就是巴杜尔山的壮丽日出。为什么选择在巴杜尔山登山观日出呢？这是一段能让人难以忘怀的体验，从登山的挑战到站在山顶看日出，每一步都是值得回忆的冒险。
@@ -9,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_683bd40a8676e52f320bb3d617abc30e.png'
 originalUrl: 'https://vocus.cc/article/66d31f77fd897800011851c1'
 lang: zh-cn
-_srcHash: a9f960c288465ccb04bdb4e6108187a5
+_srcHash: 09bc2bb0db864797072aa464d7f187ef
 ---
 
 ## **享受巴厘岛巴杜尔山巅的壮丽日出**

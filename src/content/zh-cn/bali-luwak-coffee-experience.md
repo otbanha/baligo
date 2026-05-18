@@ -1,4 +1,5 @@
 ---
+slug: bali-luwak-coffee-experience
 title: 巴厘岛麝香猫咖啡体验：是特色还是地雷？交通/美食/住宿真实心得分享
 description: >-
   这次带着70多岁的妈妈一起前往巴厘岛旅行，是一段充满温馨与挑战的旅程。从交通、住宿到美食，每一段经历都让我深刻感受到巴厘岛的独特魅力，同时也学到了许多宝贵的经验。希望通过这篇游记，
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/679370fefd89780001df01e0'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: f75d360c3749dfda462e3bb0e376989d
+_srcHash: 023dec4b4af1a73128903606ffd37f9a
 ---
 
 > 以下内容改编自团友 [I-Hsuan Chang](https://www.facebook.com/share/p/1A2YKPcp52/) 分享游记：
@@ -63,7 +64,7 @@ _srcHash: f75d360c3749dfda462e3bb0e376989d
 
 ### 司机的贴心服务：
 
-我们的司机经验非常丰富，带过很多中国客人，对巴厘岛的各个景点和活动都了如指掌。他特别考虑到我妈妈年纪较大，因此在安排ATV和漂流时，选择了比较新的公司和较温和的体验路线。漂流的部分，我们母女俩配备了一位专属教练，不仅全程照顾我们的安全，还帮我们拍了很多照片和视频，留下了美好的回忆。
+我们的司机经验非常丰富，带过很多台湾客人，对巴厘岛的各个景点和活动都了如指掌。他特别考虑到我妈妈年纪较大，因此在安排ATV和漂流时，选择了比较新的公司和较温和的体验路线。漂流的部分，我们母女俩配备了一位专属教练，不仅全程照顾我们的安全，还帮我们拍了很多照片和视频，留下了美好的回忆。
 
 司机的英文非常好，虽然不会中文，但沟通完全没问题🤣。他非常细心，每个行程都会全程陪同，随时帮忙顾行李或拍照。更贴心的是，他还会准备小抄，提醒我们该给教练或工作人员多少小费，完全不用我们操心这些细节。
 
@@ -77,13 +78,13 @@ _srcHash: f75d360c3749dfda462e3bb0e376989d
 
 ![立即聯絡 Karuna](https://images.gobaligo.id/vocus/vocus_b4db1976a12ecdc63f714f110a8ec392.png)
 
-立即联络 Karuna
+立即联系 Karuna
 
 👍🏼[网友推荐1](https://www.facebook.com/groups/baligo/permalink/1345860045961237/) 👍🏼[网友推荐2](https://www.facebook.com/groups/baligo/permalink/1370920406788534/) 👍🏼[网友推荐3](https://www.facebook.com/groups/baligo/permalink/1371775546703020/) 👍🏼[网友推荐4](https://www.facebook.com/groups/baligo/permalink/1331612710719304/) 👍🏼[网友推荐5](https://www.facebook.com/groups/baligo/permalink/1348327249047850/) 👍🏼[网友推荐6](https://www.facebook.com/groups/baligo/permalink/1353350018545573/) 👍🏼[网友推荐7](https://www.facebook.com/groups/indonesia.travelguide/permalink/3473233856279072/) 👍🏼[网友推荐8](https://www.facebook.com/groups/baligo/permalink/1413320669215174/) 👍🏼[网友推荐9](https://www.facebook.com/groups/baligo/permalink/1449822548898319/)👍🏼[网友推荐10](https://www.facebook.com/groups/baligo/permalink/1479702669243640/) 👍🏼[网友推荐11](https://www.facebook.com/groups/baligo/permalink/1516914005522506/) 👍🏼[网友推荐12](https://www.facebook.com/groups/baligo/permalink/1517960968751143/) 👍🏼[网友推荐13](https://www.facebook.com/groups/baligo/permalink/1522303938316846/)👍🏼[网友推荐14](https://www.facebook.com/groups/baligo/permalink/1522439521636621/) 👍🏼[网友推荐15](https://www.facebook.com/groups/baligo/permalink/1535487706998469/) 👍🏼[网友推荐16](https://www.facebook.com/groups/baligo/permalink/1540714953142411/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/6YgGmD6a3oeqZiox/?mibextid=A7sQZp) 👍🏼[网友推荐18](https://www.facebook.com/share/p/RkJJPB8KYWVW49mA/) 👍🏼[网友推荐19](https://www.facebook.com/groups/baligo/permalink/1568089410404965/) 👍🏼[网友推荐20](https://www.facebook.com/groups/baligo/permalink/1568192413727998/) 👍🏼[网友推荐21](https://www.facebook.com/groups/baligo/permalink/1589838918230014/) 👍🏼[网友推荐22](https://web.facebook.com/share/p/eBhBY5GUzo8SgQCy/) 👍🏼[网友推荐23](https://www.facebook.com/share/1RupaYetqG/) 👍🏼[网友推荐24](https://www.facebook.com/share/p/1DQ5V6pvDT/) 👍🏼[网友推荐25](https://www.facebook.com/share/p/1DYwTg4rde/) 👍🏼[网友推荐26](https://www.facebook.com/share/p/1A1SYyqA8w/) 👍🏼[网友推荐27](https://www.facebook.com/share/p/1Ep4mQrTSb/) 👍🏼[网友推荐28](https://www.facebook.com/share/p/1BeZF6swZA/) 👍🏼[网友推荐29](https://www.facebook.com/share/p/1FmRhqQYNK/) 👍🏼[网友推荐30](https://www.facebook.com/share/p/15rxtJSLgf/) 👍🏼[网友推荐31](https://www.facebook.com/share/p/1HffA6LNR7/)
 
 ### 整体体验：
 
-这次的包车体验让我觉得非常满意，司机的专业和贴心让整个旅程更加顺畅。如果你也计划带长辈或家人去巴厘岛，我非常推荐这种包车方式，不仅可以根��自己的需求安排行程，还能享受到司机的周到服务。巴厘岛的景点分散，交通又不算便利，包车绝对是最轻松的选择！
+这次的包车体验让我觉得非常满意，司机的专业和贴心让整个旅程更加顺畅。如果你也计划带长辈或家人去巴厘岛，我非常推荐这种包车方式，不仅可以根据自己的需求安排行程，还能享受到司机的周到服务。巴厘岛的景点分散，交通又不算便利，包车绝对是最轻松的选择！
 
 **快速参考：**
 
@@ -179,7 +180,7 @@ _srcHash: f75d360c3749dfda462e3bb0e376989d
 
 ### 金额表示方式与换算技巧：
 
-印尼盾的面额非常大，动辄就是几十万甚至上百万，这对于初次到访的游客来说可能会有点困惑。当地人习惯把金额后面的三个零用「K」来表示，例如50,000印尼盾会写成50K。跟人民币之间最简单的换算方式就是将「K」前面的数字乘以0.5，再多加一点点，就是大概的人民币金额。例如，50K印尼盾大约是25人民币多一点，这样计算起来非常方便，也能避免在购物或支付时搞错金额。
+印尼盾的面额非常大，动辄就是几十万甚至上百万，这对于初次到访的游客来说可能会有点困惑。当地人习惯把金额后面的三个零用「K」来表示，例如50,000印尼盾会写成50K。跟台币之间最简单的换算方式就是将「K」前面的数字乘以2，再多加一点点，就是大概的台币金额。例如，50K印尼盾大约是100台币多一点，这样计算起来非常方便，也能避免在购物或支付时搞错金额。
 
 ### 注意事项：
 
@@ -212,7 +213,7 @@ _srcHash: f75d360c3749dfda462e3bb0e376989d
 
 ### 住宿地点的选择：
 
-这次住宿的最大失误，就是我们住的地方离闹区比较远，周边几乎没有商店或餐厅，每次出门都要叫车，非常不方便。巴厘岛的景点分散，交通也不算便利，如果住的地方不在闹区，光是每天的交通费用就是一笔不小的开销。我们每次叫车都要花大约USD$39，而且一旦出门，中间根本不可能再回来拿东西或休息，这让我们的行程安排变得有些受限。
+这次住宿的最大失误，就是我们住的地方离闹区比较远，周边几乎没有商店或餐厅，每次出门都要叫车，非常不方便。巴厘岛的景点分散，交通也不算便利，如果住的地方不在闹区，光是每天的交通费用就是一笔不小的开销。我们每次叫车都要花大约USD$40，而且一旦出门，中间根本不可能再回来拿东西或休息，这让我们的行程安排变得有些受限。
 
 因此，**建议大家在选择住宿时，一定要考虑周边的便利性**。如果你喜欢热闹的氛围，可以选择住在库塔（Kuta）、水明漾（Seminyak）或乌布（Ubud）等闹市区，这些地方不仅餐厅和商店多，晚上也有不少娱乐活动。如果你选择住在比较偏远的Villa或度假村，就要做好心理准备，可能需要依赖Grab外卖或包车服务来解决日常需求。
 

@@ -1,4 +1,5 @@
 ---
+slug: bali-family-summer-trip
 title: 巴厘岛暑假亲子自由行旅行心得：深入体验热带天堂
 description: 这次巴厘岛的旅程我们体验了从入境、交通、天气到各种活动和美食，希望这些心得能对大家的旅行计划有所帮助...
 pubDate: 2024-08-18T00:00:00.000Z
@@ -15,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_95a9642de6dcbc7cdb2619d6cff98c89.jpg'
 originalUrl: 'https://vocus.cc/article/66965df4fd89780001c82960'
 lang: zh-cn
-_srcHash: b34d136c8a817cc00a193900259c22d2
+_srcHash: e71a41bb5dd66b47f1cfe02873517212
 ---
 
 > 以下内容由团友 [Fish Lee](https://www.facebook.com/groups/baligo/permalink/1575099593037280/) 提供：
@@ -56,7 +57,7 @@ https://youtu.be/EotdDxXHFwE
 
 ## Hard Rock酒店的Kids Club
 
-Hard Rock酒店真的非常适合带小孩入住。有一天我们让孩子们参加了整天的Kids Club活动，而我们大人则去附近的百货公司逛街和享受SPA。这样不仅让我们的耳根清净了一天，孩子们也玩得非常开心。最后三天我们都住在库塔的Hard Rock酒店。Hard Rock的Kids Club非常受欢迎，建议大家提前预约。饭店有提供WhatsApp联系方式，也可以写邮件先预约。如果你行程确定，提前预约比较保险，因为他们在10点前可以取消。我是到饭店才去预约，很幸运刚好剩最后的名额。
+Hard Rock酒店真的非常适合带小孩入住。有一天我们让孩子们参加了整天的Kids Club活动，而我们大人则去附近的百货公司逛街和享受SPA。这样不仅让我们的耳根清净了一天，孩子们也玩得非常开心。最后三天我们都住在库塔的Hard Rock酒店。Hard Rock的Kids Club非常受欢迎，建议大家提前预约。酒店有提供WhatsApp联系方式，也可以写邮件先预约。如果你行程确定，提前预约比较保险，因为他们在10点前可以取消。我是到酒店才去预约，很幸运刚好剩最后的名额。
 
 ![Hard Rock 非常適合帶小孩（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_c245c475159c2539a6a0b75472e53436.jpg)
 
@@ -80,13 +81,13 @@ Hard Rock 非常适合带小孩（Fish Lee提供）
 
 ![泛舟、OMMA Day Club（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_28669c7a5c5894f46e25196b63d37e90.jpg)
 
-漂流、OMMA Day Club（Fish Lee提供）
+泛舟、OMMA Day Club（Fish Lee提供）
 
-**快速参考：**[巴厘岛漂流攻略（漂流常见问题FAQ）](/blog/2025-03-28-67e62aa8fd89780001888620/)
+**快速参考：**[巴厘岛泛舟攻略（泛舟常见问题FAQ）](/blog/2025-03-28-67e62aa8fd89780001888620/)
 
-我们这次还去乌布体验了漂流，非常好玩。因为选择很多，我们直接请包车司机帮我们预订，他找了一个口碑不错的商家。建议选择从头到尾2小时的行程，不要选择1小时的，体验会更完整。我们有两个比较小的孩子，一个5岁多，一个7岁，他们都玩得很开心。漂流活动大概2小时，我们早上9点从乌布的Villa出发，有附简单午餐，吃完后大概13:00结束行程。要去漂流的地方需要走一段较长的下坡楼梯，我们家小孩慢慢走也能接受，并不困难。
+我们这次还去乌布体验了泛舟，非常好玩。因为选择很多，我们直接请包车司机帮我们预订，他找了一个口碑不错的业者。建议选择从头到尾2小时的行程，不要选择1小时的，体验会更完整。我们有两个比较小的孩子，一个5岁多，一个7岁，他们都玩得很开心。泛舟活动大概2小时，我们早上9点从乌布的Villa出发，有附简单午餐，吃完后大概13:00结束行程。要去泛舟的地方需要走一段较长的下坡楼梯，我们家小孩慢慢走也能接受，并不困难。
 
-**Klook高评价漂流预订：**
+**Klook高评价泛舟预订：**
 
 > [阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
 
@@ -114,7 +115,7 @@ Hard Rock 非常适合带小孩（Fish Lee提供）
 
 巴厘岛的编发体验非常有趣，让人感觉非常有度假的氛围。我看到很多国外的小朋友都编了各种颜色的头发，所以我也带着孩子们去体验了一下，非常特别。
 
-我们家是在库塔（Kuta）海边的 Jamie Oliver 餐厅这条路上编辫子的。这条街上有许多 Spa 店家，都提供编辫子的服务，还会在店门口摆放编辫子的样品展示。我原以为他们会用大量发胶来固定辫子，但实际上并没有。拆除辫子的时候，只需要剪掉假发的部分就可以了，还挺方便的。
+我们家是在库塔（Kuta）海边的 Jamie Oliver 餐厅这条路上编辫子的。这条街上有很多 Spa 店家，都提供编辫子的服务，还会在店门口摆放编辫子的样品展示。我原以为他们会用大量发胶来固定辫子，但实际上并没有。拆除辫子的时候，只需要剪掉假发的部分就可以了，还挺方便的。
 
 ![綁兩隻辮子這種大概半小時左右（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_c158cc5020c65c5d71593f43d6549fb7.jpg)
 

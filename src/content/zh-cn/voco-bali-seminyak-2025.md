@@ -1,4 +1,5 @@
 ---
+slug: voco-bali-seminyak-2025
 title: 【2025水明漾新酒店】voco Bali Seminyak
 description: >-
   巴厘岛作为全球最受欢迎的旅游目的地之一，每年吸引无数旅客前来探索其独特的自然美景与文化魅力。2025年，巴厘岛迎来了一座全新的四星奢华酒店——voco
@@ -14,8 +15,13 @@ tags:
 originalUrl: 'https://vocus.cc/article/679b6130fd897800011593a6'
 category:
   - 住宿推薦
+agoda_hotel_id: 51062976
+agoda_hotel_name: 峇里島水明漾 voco 飯店 - 洲際飯店集團旗下
+agoda_star_rating: 4
+latitude: -8.68145751953125
+longitude: 115.16397857666016
 lang: zh-cn
-_srcHash: cdb1be7c6b014a2b136c9bb4d86e49d9
+_srcHash: 7451f747f980f4403b8880b3a0f3f3c7
 ---
 
 ## 全新奢华体验：voco Bali Seminyak

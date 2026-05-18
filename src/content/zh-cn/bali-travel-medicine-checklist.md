@@ -1,7 +1,7 @@
 ---
 title: 印尼巴厘岛旅游必备药品有哪些？防蚊液/防晒乳怎么买？
-slug: ''
-description: 到巴厘岛旅游必备药品有哪些呢？药品在当地买ok吗？防蚊乳当地的更有效？
+slug: bali-travel-medicine-checklist
+description: 到巴厘岛旅游必备药品有哪些呢？药品在当地买可以吗？防蚊乳当地的更有效？
 pubDate: 2024-03-22T00:00:00.000Z
 pubHour: null
 category:
@@ -15,12 +15,12 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777909774643-_.png'
 originalUrl: 'https://vocus.cc/article/65fcd4a5fd89780001513c9a'
 lang: zh-cn
-_srcHash: 165514816b4ab47503d5c15bb75b8c33
+_srcHash: 307acac6bec57bbf2d647bab1d9d3795
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fef7bd48652aa47030dcbfd2f97f36cf.png)
 
-初到巴厘岛有些人可能会遇到腹泻、水土不服等情况，这在英文中被戏称为「巴厘岛肚子（Bali belly）」。有时候，甚至全家人都会受到影响，这可真是够倒霉的！有些游客因此不得不在旅馆里蹲了好几天，无法外出游玩。
+初到巴厘岛有些人可能会遇到腹泻、水土不服等情况，这在英文中被戏称为「巴厘岛肚子（Bali belly）」。有时候，甚至全家人都会受到影响，这可真是有够倒霉！有些游客因此不得不在旅馆里蹲了好几天，无法外出游玩。
 
 > 延伸阅读：[巴厘岛旅行健康小贴士：巴厘岛的饮用水和腹泻指南](/blog/2024-01-27-65b32e1ffd8978000170519b/)
 

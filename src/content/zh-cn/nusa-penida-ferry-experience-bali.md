@@ -1,5 +1,6 @@
 ---
-title: 巴厘岛到佩尼达岛的乘船体验/精彩游记
+slug: nusa-penida-ferry-experience-bali
+title: 巴厘岛到佩尼达岛的搭船经验/精彩游记
 description: 【巴厘岛/印尼吃喝玩乐】脸书社团团友Mei Yi Liao跟朋友去佩尼达岛（Nusa Penida）的经验/游记
 pubDate: 2024-05-29T00:00:00.000Z
 category:
@@ -14,7 +15,7 @@ tags:
 heroImage: ''
 originalUrl: 'https://vocus.cc/article/6655eceefd897800015c1b6a'
 lang: zh-cn
-_srcHash: acb81780f19ba5e1c6fb0cfce970005f
+_srcHash: 7b2841b760f167a65537415883c5619f
 ---
 
 我们的【[巴厘岛/印尼吃喝玩乐](https://www.facebook.com/groups/indonesia.travelguide)】脸书社团团友[Mei Yi Liao](https://www.facebook.com/liao.meiyi.1/)跟朋友去佩尼达岛的经验/游记，特此提供给我们编辑/转载：
@@ -71,7 +72,7 @@ Mei Yi Liao提供：沙努尔的登船处，沙努港口设施很完善，上下
 
 这次的帕尼达/佩尼达岛之行，让我们深深感受到大自然的壮丽和当地人的热情。无论是海上航行的刺激，还是岛上美景和美食的享受，都让我们难以忘怀。非常感谢之前社友提供的资料，这次的旅程真是受益匪浅，我也希望这篇游记能对大家有所帮助。如果你计划前往帕尼达/佩尼达岛，一定不要错过这些美丽的景点和美食，祝你有个美好的旅程！
 
-最后有几个注意事项要特别提醒前往 Nusa Penida的游客：
+最后有几个注意事项要特别提醒前往佩尼达岛的游客：
 
 1. 直接在港口可以订票，但是务必提早在开船前一个小时到达售票处
 2. 事先在Klook订票有优惠又可以免去排队购票的时间
@@ -79,7 +80,7 @@ Mei Yi Liao提供：沙努尔的登船处，沙努港口设施很完善，上下
 4. 寄物服务请[参考这里](/blog/2024-03-12-65ea5fc9fd89780001f099b8/)
 5. Klook购票者开船前提早至少30分钟抵达港口
 
-6.Klook购票者最好提前一天以上先订票
+6. Klook购票者最好提前一天以上先订票
 
 {{block:penidaklook}}
 

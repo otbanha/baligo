@@ -1,4 +1,5 @@
 ---
+slug: ubud-market-fire-impact
 title: '乌布市场发生火灾，1,033名商贩受影响'
 description: '今日8/17午后，乌布市场的地下室发生火灾，火势从中午持续至傍晚仍未能扑灭。这场火灾导致市场内的1,033名商贩无法继续营业'
 pubDate: '2024-08-17'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66c09326fd897800014ed8d5'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 43dac5e4aec09b822cf753f5f502154b
+_srcHash: d0165a5c43d45a18f13a8992736dfea1
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_06367c77917f8c1c8b1ed21fc957cc5a.jpg)

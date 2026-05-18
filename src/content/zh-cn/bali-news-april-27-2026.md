@@ -1,6 +1,6 @@
 ---
 title: 2026-04-27 巴厘岛新闻
-slug: ''
+slug: bali-news-april-27-2026
 description: ''
 pubDate: 2026-04-27T00:00:00.000Z
 pubHour: 7
@@ -15,7 +15,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 0828fcaa3f138a929dd75f7938a504ec
+_srcHash: 05819fdadba93775e6c46ef4589fb371
 ---
 
 【今早美金汇率：16,775】
@@ -41,4 +41,4 @@ _srcHash: 0828fcaa3f138a929dd75f7938a504ec
 
 > [旅游税逃不了！「二次关卡」查验正式启用：最新缴费流程、逃税罚则与应变攻略](https://gobaligo.id/blog/bali-levy-check-warning/)
 
-- **地底钻探作业更新**：巴厘岛地铁（Subway Phase 1）的盾构机目前正在地下 30 米处积极作业。官方重申施工过程完全遵守文化保护规定，地表景观不受影响，但部分钻探站点周边会有大型车辆出入，请注意交通安全。
+- **地底钻探作业更新**：巴厘岛地铁（Subway Phase 1）的潜盾机目前正在地下 30 米处积极作业。官方重申施工过程完全遵守文化保护规定，地表景观不受影响，但部分钻探站点周边会有大型车辆出入，请注意交通安全。

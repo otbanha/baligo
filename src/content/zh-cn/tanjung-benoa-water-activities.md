@@ -1,4 +1,5 @@
 ---
+slug: tanjung-benoa-water-activities
 title: 巴厘岛水上活动大本营：南湾/Tanjung Benoa 一日游行程、热门项目推荐与亲子玩水注意事项
 description: >-
   全家出游必看！探索巴厘岛最火的水上活动胜地。解析最适合小孩的海龟岛行程、刺激的海底漫步与水上摩托车。提供南湾周边交通建议与防晒防汗攻略，让您的巴厘岛假期充满欢笑与惊险刺激。
@@ -19,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3300dc8a58bc532d7df11537b9bac64b.jpg'
 originalUrl: 'https://vocus.cc/article/689c185efd8978000170dbdc'
 lang: zh-cn
-_srcHash: b4c3f5a3955a7f6ee2c8e151ae2fa471
+_srcHash: 95978b5b59aae058157b867ad7c8a933
 ---
 
 ## 为何 Tanjung Benoa 成为巴厘岛水上运动之都
@@ -66,7 +67,7 @@ A3：若天气条件不安全，业者会暂停或延后活动。
 
 **Q4：是否需要提前预订？**
 
-A4：建议提前通过 Klook 预订，避免现场被收取高价，也能确保名额。
+A4：建议提前通过 Klook 预订，避免现场被收高价，也能确保名额。
 
 **Q5：参加活动需要准备什么？**
 

@@ -11,7 +11,7 @@ originalUrl: ''
 shuffle_h2: true
 embeds: []
 lang: zh-hk
-_srcHash: 6a6167c1dc311a4dd0ffc6a1724cbebf
+_srcHash: c7fc687ed085deff0d341990a39b7240
 ---
 
 第一頁，獲得我哋優先推薦嘅司機喺[呢度](https://gobaligo.id/blog/2024-07-07-668aaea7fd89780001981840/)
@@ -141,3 +141,9 @@ _srcHash: 6a6167c1dc311a4dd0ffc6a1724cbebf
  BLOCK0 .
 
 {{block:包車}}
+
+---
+
+👈 **返去峇里島自由行終極指南**
+
+想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

@@ -1,4 +1,5 @@
 ---
+slug: ayana-luna-rooftop-bar-sunset
 title: 比Rock Bar更chill! 巴厘岛阿雅娜 Luna Rooftop Bar的360度夕阳美景体验
 description: >-
   位于巴厘岛 AYANA Segara 的屋顶上有一个 Luna Rooftop
@@ -11,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_85d4f10a50d1c5ba74a646b83e5ff706.jpg'
 originalUrl: 'https://vocus.cc/article/6721d7bbfd89780001ee1132'
 lang: zh-cn
-_srcHash: 33699ecfd9576d5bf46b429862eaa4af
+_srcHash: 095efa724db454320ce0c7bdbfba8172
 ---
 
 位于巴厘岛 AYANA Segara 的屋顶上有一个 Luna Rooftop Bar，以其夕阳美景和多变的氛围，成为享受放松的一个隐藏版去处。在这里高处俯瞰，日落的余晖与大海的壮阔交织，成为拍照爱好者的绝佳背景。在 Luna，享受的不仅仅是美食和饮品，更是难忘的回忆。
@@ -40,7 +41,7 @@ Luna Rooftop Bar 的酒单汇集了多种创意鸡尾酒与经典饮品，适合
 
 ## 当地食材与国际美食的结合
 
-Luna 的菜单特别着重于在地食材的创意运用，并将其融入国际风味料理中。各式料理精心调配，让顾客能品尝到融合巴厘风味的独特体验。
+Luna 的菜单特别注重在地食材的创意运用，并将其融入国际风味料理中。各式料理精心调配，让顾客能品尝到融合巴厘风味的独特体验。
 
 ## 特色小点与 Tapas 体验
 
@@ -60,7 +61,7 @@ Luna Rooftop Bar 的服务团队以专业和友善著称。从您进入的那一
 
 ## 无边泳池的度假氛围
 
-Luna 的无边泳池是拍照打卡的私密地点，让人感受到犹如漂浮于海天之间的悠闲。这里也是度假氛围浓厚的地方，适合在夕阳下享受一杯冷饮。
+Luna 的无边泳池是拍照打卡的私房地点，让人感受到犹如漂浮于海天之间的悠闲。这里也是度假氛围浓厚的地方，适合在夕阳下享受一杯冷饮。
 
 ## 适合特殊活动的私密场地
 
@@ -98,11 +99,11 @@ https://youtube.com/shorts/NAMjz-0M-bw
 
 ## 常见问题解答
 
-1. **如何预订 Luna Rooftop Bar？** 建议通过官网或 AYANA 度假村的app订位系统。
+1. **如何预订 Luna Rooftop Bar？** 建议透过官网或 AYANA 度假村的app订位系统。
 2. **开放时间为何？** 每日 09:00 至 23:00 开放。
 3. **漂浮早餐需要预约吗？** 是的，建议提前预约。
 4. **Luna 是否提供无酒精饮品？** 有多种无酒精选择供应。
 5. **Luna 与 Rock Bar 的区别是什么？** Luna 更加安静、私密，而 Rock Bar 更热闹。
-6. **如何到达 AYANA Segara？** 可通过巴厘岛机场搭乘出租车至Ayana Segera或酒店内的接驳车搭至「Segera」站下车。搭乘电梯前往顶楼。
+6. **如何到达 AYANA Segara？** 可通过巴厘机场搭乘出租车至Ayana Segera或酒店内的接驳车搭至「Segera」站下车。搭乘电梯前往顶楼。
 
 {{block:jim}}

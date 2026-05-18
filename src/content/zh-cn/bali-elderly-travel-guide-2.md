@@ -1,4 +1,5 @@
 ---
+slug: bali-elderly-travel-guide-2
 title: 帮长辈安排的巴厘岛探险：追寻人间天堂之旅
 description: 安排长辈巴厘岛旅游的精彩行程
 pubDate: '2024-05-01'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6624e237fd8978000146c224'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: ebd21c5daf393d97e5ad1dcfdad3f0e8
+_srcHash: 6887788f9138575f421e6e6a35e489b0
 ---
 
 （以下图文内容由团友[Chuang Ling Chun](https://www.facebook.com/groups/131689774044943/user/100002621353548/) 提供，并同意我们重新编排)
@@ -29,7 +30,7 @@ _srcHash: ebd21c5daf393d97e5ad1dcfdad3f0e8
 
 ## 行前筹备
 
-在脸书社团上收集到宝贵的巴厘岛旅游资讯，现在回到台湾，希望能分享妈妈的旅游经验，帮助他人规划愉快的旅程。
+在脸书社团上收集到宝贵的巴厘岛旅游信息，现在回到台湾，希望能分享妈妈的旅游经验，帮助他人规划愉快的旅程。
 
 ## 前言：
 
@@ -39,7 +40,7 @@ _srcHash: ebd21c5daf393d97e5ad1dcfdad3f0e8
 
 此外，在线上缴纳观光税时，我发现第一次付款总是失败，需要稍等片刻再试一次才能成功。
 
-**包车导游**： 我帮妈妈他们安排的包车导游是 Ani 和她的老公。在网上社群中，有人推荐了一种包车服务的形式是导游+司机的形式，我觉得这样的安排非常不错。很幸运地，我订到了 Ani，她和她的丈夫是我们的导游和司机。
+**包车导游：** 我帮妈妈他们安排的包车导游是 Ani 和她的老公。在网上社群中，有人推荐了一种包车服务的形式是导游+司机的形式，我觉得这样的安排非常不错。很幸运地，我订到了 Ani，她和她的丈夫是我们的导游和司机。
 
 ![最左 Ani，最右她老公。圖：Chuang Ling Chun提供](https://images.gobaligo.id/vocus/vocus_3a8cb05588a1f7b6f9c62d9e201b3b36.jpg)
 
@@ -99,7 +100,7 @@ Ani知道我妈妈爱拍照，于是推荐了一个荡秋千的行程，每人40
 
 我安排他们搭乘吉普车登上巴图尔火山，这是一次独特的体验，参加过的台湾行程都没有此类活动，非常推荐朋友们参加。
 
-> [巴图尔火山吉普车越野+徒步之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)
+> [巴杜尔火山吉普车越野+徒步之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)
 
 晚上，入住了Oculus Bali酒店，从窗外欣赏到了壮丽的火山湖景色，让人心旷神怡。
 
@@ -127,25 +128,25 @@ Oculus Bali
 
 > [2026巴厘岛乌布完整攻略：100种深入认识乌布的方式｜探索乌布的魅力](/blog/2023-11-17-655054b1fd897800011d4d2c/)
 
-晚上我安排他们入住了Grün Canggu Garden。当初我在订房时看到这里独特的设计时，立刻被吸引住了。它给人一种树屋的感觉，一楼是楼梯，走到一半是厕所及浴室，二楼是小平台，三楼是房间。房间的设计非常开放，除了厕所及浴室是密闭的，其他区域都是开放空间。周围环绕着树木，虫鸣鸟叫，让人感觉仿佛置身于大自然中，能够尽情享受假期的悠闲。
+晚上我安排他们入住了Grün坎古花园。当初我在订房时看到这里独特的设计时，立刻被吸引住了。它给人一种树屋的感觉，一楼是楼梯，走到一半是厕所及浴室，二楼是小平台，三楼是房间。房间的设计非常开放，除了厕所及浴室是密闭的，其他区域都是开放空间。周围环绕着树木，虫鸣鸟叫，让人感觉仿佛置身于大自然中，能够尽情享受假期的悠闲。
 
 ![Grün Canggu Garden](https://images.gobaligo.id/vocus/vocus_ec67a18e485ab2ccfd8ddc1c21dda2e4.jpg)
 
-Grün Canggu Garden
+Grün坎古花园
 
 这家酒店有多种不同的房型可供选择，如果你喜欢这种有三层楼的房型，订房时要注意选择哦。
 
-▶[Grün Canggu Garden订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=39591351)
+▶[Grün坎古花园订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=39591351)
 
 ## 第五天：最后一晚的奢华住宿
 
-因为最后一晚我安排他们去住别墅，我们希望能早早进入房间。当天请导游 Ani 简单带他们去海神庙参观，并且买了一些土特产。
+因为最后一晚我安排他们去住别墅，我们希望能早早进入房间。当天请导游Ani简单带他们去海神庙参观，并且买了一些土特产。
 
 ![海神廟 圖：Chuang Ling Chun提供](https://images.gobaligo.id/vocus/vocus_4669fa0d741e4314cf6f919fd1e28860.jpg)
 
 海神庙 图：Chuang Ling Chun提供
 
-我选择了水明漾的New Pondok Sara Villas作为住宿地点，主要是因为价格实惠，而且房间的桌椅设计感很强，拍照效果也不错。尽管价格便宜，但环境并没有因此而打折扣。此外，妈妈还发现附近还有一家按摩小店，价格非常合理，只需支付100k就能享受一小时的全身按摩。
+我选择了水明漾的New Pondok Sara Villas作为住宿地点，主要是因为价格实惠，而且房间的桌椅设计感很强，拍照效果也不错。尽管价格便宜，但环境并没有因此而打折扣。此外，妈妈还发现附近还有一家按摩小店，价格非常合理，只需支付USD$3就能享受一小时的全身按摩。
 
 ![New Pondok Sara Villas](https://images.gobaligo.id/vocus/vocus_a44d9cdf5685fcc597bd9f20ed7d18cd.jpg)
 

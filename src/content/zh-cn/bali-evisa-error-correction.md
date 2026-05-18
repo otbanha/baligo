@@ -1,4 +1,5 @@
 ---
+slug: bali-evisa-error-correction
 title: 印尼/巴厘岛电子签证申请小插曲：如何修改e-VOA资料错误？
 description: 申请印尼/巴厘岛电子签证（e-VOA）时的错误如何修改？请看这篇
 pubDate: '2024-05-18'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66480ae5fd89780001fb7763'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 93e5a3219920a35c3bcfc5c0d72d1197
+_srcHash: 34985c4b2483630d720b86e7fbde70be
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5560b9a7da5290e0882e25695ee01bd2.png)

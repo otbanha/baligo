@@ -1,4 +1,5 @@
 ---
+slug: bali-flights-volcano-update
 title: >-
   Bali Flights Resume Normal Operations: Direct Flights from Taiwan Unaffected,
   Volcanic Ash Alert Remains
@@ -18,13 +19,14 @@ originalUrl: 'https://vocus.cc/article/6852983dfd89780001d2ebb4'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 44c433301f6ac18cd30bda3b8c0a1d75
+_srcHash: dc5ae02670322f6ca24a41cc2993d6f7
 ---
+
 ### **⏰ Details of the Volcanic Eruption**
 
 On June 17, 2025, at 5:35 PM, **Lewotobi Laki-Laki Volcano** on Flores Island, Indonesia, erupted, releasing a massive ash column reaching up to 11 kilometers. The eruption lasted nearly 7 minutes, accompanied by pyroclastic flows.
 
-The Indonesian government raised the volcanic alert to the highest level (Level 4), and the Geological Agency expanded the evacuation zone to a radius of 7 kilometers, extending up to 8 kilometers in the southwest and northeast directions.
+The Indonesian government raised the volcanic alert to the highest level, Level 4, and expanded the evacuation zone to a radius of 7 kilometers, extending up to 8 kilometers in the southwest and northeast directions.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e5f5a4ccdcad653ff2020614af44a039.jpg)
 
@@ -32,7 +34,7 @@ The Indonesian government raised the volcanic alert to the highest level (Level 
 
 ### **✈ Bali Flights Resume Operations**
 
-Although the volcanic eruption briefly caused flight cancellations, according to an announcement from **Ngurah Rai International Airport** in Indonesia, flights have now resumed normal operations, and airport operations are functioning without issues.
+Although the volcanic eruption briefly caused flight cancellations, according to the announcement from **Ngurah Rai International Airport** in Indonesia, flights have now resumed normal operations, with airport operations functioning without issues.
 
 ---
 
@@ -40,19 +42,19 @@ Although the volcanic eruption briefly caused flight cancellations, according to
 
 For Taiwanese travelers planning to take direct flights to Bali, this event remains in a watch-and-wait phase.
 
-🔍 **There are currently no public reports indicating any flight cancellations or delays by EVA Air or China Airlines.**
+🔍 **There are currently no public reports indicating any flight cancellations or delays from EVA Air or China Airlines.**
 
-### **📌 Key Observations and Recommendations:**
+### **📌 Key Observations at This Stage:**
 
-- If you're flying with **EVA Air or China Airlines**, your flights are currently not significantly affected by the volcanic event.
-- So far, only some **international routes and budget airlines (like Jetstar)** have reported cancellations or delays.
-- Before departure, **please closely monitor airline websites, mobile push notifications, and official social media updates** to prepare for any potential last-minute flight changes.
+- If you are flying with **EVA Air or China Airlines**, these flights are not significantly affected by the current volcanic event.
+- Currently, only some **international routes and budget airlines (such as Jetstar)** have reported cancellations or delays.
+- Before departure, **please closely monitor airline websites, mobile push notifications, and official social media updates** to prepare for possible last-minute flight changes.
 
-This means travelers flying directly from Taiwan to Bali **can still depart as scheduled, but staying alert remains crucial.**
+This means that travelers departing from Taiwan on direct flights to Bali **can still proceed as planned, but staying alert remains crucial.**
 
 ---
 
-### **🛑 Affected Flight Overview**
+### **🛑 Overview of Affected Flights**
 
 **Canceled International Arrivals:**
 
@@ -60,16 +62,16 @@ This means travelers flying directly from Taiwan to Bali **can still depart as s
 
 **Canceled Domestic Flights:**
 
-- [Labuan Bajo to Bali](/blog/2025-05-04-681601c6fd8978000139f8a3/) (2 flights)
+- [Labuan Bajo at Komodo Airport](/blog/2025-05-04-681601c6fd8978000139f8a3/) to Bali (2 flights)
 
 **Canceled Departures:**
 
-- International flights: 12 (mainly往返 Australia, China, New Zealand, and Singapore)
-- Domestic flights: 5 (including Labuan Bajo and Semarang)
+- International flights: 12 flights (mainly往返 Australia, China, New Zealand, and Singapore)
+- Domestic flights: 5 flights (including Labuan Bajo and Semarang)
 
 ---
 
-### **🌋 Flores Island Internal Flights and Airport Status**
+### **🌋 Flores Island Domestic Flights and Airport Status**
 
 Three local airports remain closed, including:
 
@@ -77,7 +79,7 @@ Three local airports remain closed, including:
 - Bajawa
 - Ende
 
-Wings Air has canceled six flights, affecting routes such as:
+Six Wings Air flights have been canceled, affecting routes:
 
 - Kupang — Ende
 - Bajawa — Kupang
@@ -91,14 +93,14 @@ Wings Air has canceled six flights, affecting routes such as:
 
 📌 If you are currently traveling or planning to visit Indonesia, we recommend taking the following precautions:
 
-- Check airline websites and push notifications for updates before departure
-- Monitor volcanic ash density; wear medical masks if in affected areas
-- Follow local government evacuation instructions; avoid venturing into hazardous zones
-- Contact airline customer service proactively before departure to confirm any flight changes
+- Check the airline website and push notifications for updates before departure
+- Pay attention to volcanic ash density; wear a medical mask if you are in affected areas
+- Follow local government evacuation instructions and avoid venturing into dangerous zones
+- Contact the airline customer service proactively before departure to confirm any flight changes
 
 ---
 
-## **❓FAQ Frequently Asked Questions**
+## **❓FAQ**
 
 ### **Are direct flights from Taiwan to Bali affected by the volcano?**
 
@@ -106,7 +108,7 @@ As of now, there have been no reports of flight changes from China Airlines or E
 
 ### **Will the volcanic eruption continue to affect flights?**
 
-If volcanic activity persists or wind directions change, some flight routes may be affected again. Please stay updated on the latest weather and flight information.
+If volcanic activity persists or wind directions change, some flight routes may be affected again. Please stay updated with the latest weather and flight information.
 
 ### **Which airlines have already experienced flight cancellations?**
 
@@ -118,4 +120,4 @@ If your flight is canceled or delayed, most airlines offer free ticket changes o
 
 ### **When should I check for the latest flight status?**
 
-It is recommended to continuously check the airline's official website and push notifications 24 to 48 hours before departure, remaining flexible to handle sudden changes.
+It is recommended to continuously check the airline's official website and push notifications 24 to 48 hours before departure, maintaining flexibility to respond to sudden changes.

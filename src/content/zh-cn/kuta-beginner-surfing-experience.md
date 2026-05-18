@@ -1,4 +1,5 @@
 ---
+slug: kuta-beginner-surfing-experience
 title: 巴厘岛库塔冲浪推荐｜Bali Kuta Surfing for Beginner｜小杰的巴厘岛冲浪初体验｜内有冲浪优惠券
 description: 初试巴厘岛库塔冲浪：冒险与成长的奇妙旅程
 pubDate: '2020-10-12'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64db6b70fd897800013a9419'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 9acd9da3062715204c5edc9a245e1463
+_srcHash: 3b6460b51ae746bec8ea7bd827599224
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7c237f65b50ad4d7ef93af48af7f45b0.jpg)

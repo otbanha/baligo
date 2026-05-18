@@ -1,13 +1,12 @@
 ---
-title: >-
-  【Latest Email Scam Alert】After Applying for Indonesia's E-Visa, Never Click on
-  This Email!
+slug: indonesia-evoa-scam-alert
+title: Beware of the Latest Email Scam After Applying for Indonesian E-Visa!
 description: >-
-  After applying for Indonesia's electronic Visa on Arrival (e-VOA), some
+  After completing the Indonesian electronic visa on arrival (e-VOA), some
   travelers have received scam emails disguised as official communications,
-  containing their real names and application numbers, demanding additional
-  payments. Essential reading before departure: learn how to spot fakes at a
-  glance and avoid being scammed.
+  containing their real names and application numbers, requesting additional
+  payments. Essential reading before your trip - learn how to spot fakes and
+  avoid being scammed.
 pubDate: 2026-04-04T00:00:00.000Z
 category:
   - 簽證通關
@@ -32,48 +31,48 @@ originalUrl: ''
 private: false
 embeds: []
 lang: en
-_srcHash: ac41ade6b093bce3198d711fe1523150
+_srcHash: a90c2e18d85a43043b58c65e058d2773
 ---
-Have you ever tried applying for an Indonesian e-Visa online?
+Have you ever applied for an Indonesian e-visa online?
 
-If so, be cautious. Recently, a traveler shared a very new scam tactic on Reddit, specifically targeting those who have just completed their visa application.
+If so, be cautious. Recently, travelers on Reddit have shared a new scam targeting those who have just completed their visa applications.
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775314454153-img_5278.jpeg)
 
-## Received an 'Official Letter' the Day After Applying for a Visa
+## Received an 'Official Letter' the Day After Applying for Visa
 
-Here's how it works: You apply for the electronic Visa on Arrival (e-VOA) through the Indonesian Immigration website, thinking everything's sorted. Then, one or two days later, an email suddenly pops up in your inbox.
+Here's how it works: You apply for the electronic visa on arrival (e-VOA) on the official Indonesian immigration website, thinking you're all set, only to receive an email in your inbox a day or two later.
 
-The letter states that you need to reissue a 'Mandatory Entry Declaration Card,' and without it, you won't be allowed to enter the country. Please click the link to make the payment as soon as possible.
+The email claims you need to apply for a 'Mandatory Entry Declaration Card,' stating you won't be allowed entry without it, and urges you to click a link to make a payment.
 
-Here's the key point—this letter contains your real name and your application number. It's not the kind of obvious spam email that's randomly sent out; it genuinely knows what you've just applied for.
+Here's the catch—the email includes your real name and application number. It's not the kind of obvious spam email; it genuinely knows what you've just applied for.
 
-Many people see this and believe it, click through to make payment, and are even asked to transfer money using cryptocurrency.
+Many people believe it at this point, click through to make a payment, and are even asked to transfer money using cryptocurrency.
 
-## Why does it feel so real?
+## Why Does It Feel So Real?
 
-Because the 'Customs Declaration Form' is indeed a real thing.
+Because the "Arrival Card" is indeed a real thing.
 
-Starting from September 2025, travelers entering Indonesia will indeed need to complete an electronic declaration called the All Indonesia Arrival Card (AIAC). Scammers are taking advantage of this—playing on your uncertainty about whether it costs anything or how to complete it—and posing as officials to charge fees.
+Starting from September 2025, incoming travelers to Indonesia will indeed need to fill out an electronic declaration called the All Indonesia Arrival Card (AIAC for short). Scammers are exploiting this—your uncertainty about whether it costs money and how to proceed—by posing as officials to charge fees.
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775314476563-img_5279.jpeg)
 
-But the truth is: **AIAC declaration is completely free, with no additional fees!**
+But the fact is: **The AIAC declaration is completely free, with no additional charges!**
 
 {{block:詐騙}}
 
-## Keep these few things in mind and you'll be all set
+## Just remember these few things
 
-**First, Indonesian government websites always end with `.go.id`.** When you receive an email, check the sender's address and links first. If the URL doesn't match, close it immediately.
+**First, Indonesian government websites always end with `.go.id`.** When you receive an email, first check the sender's address and the link. If the URL is incorrect, just close it.
 
-**Secondly, after obtaining your visa, the authorities will not ask you for any additional payments.** Any notifications about 'supplementary fees' are almost certainly fraudulent.
+**Second, after completing your visa application, the authorities will not ask you for more money.** Any notification about "additional fees" is almost certainly fake.
 
-**Third, fill out the arrival card for free directly on the official All Indonesia system.** No need to go through any email links.
+**Third, the arrival card is free to fill out; just go to the official All Indonesia system.** There's no need to use any links from emails.
 
-## This Isn't the First Time Something Like This Has Happened
+## This isn't the first time this has happened
 
-In 2022, fake e-VOA application websites emerged, designed to look identical to the real ones and even appeared as the top result on Google searches, deceiving many people at the time.
+In 2022, there was a fake e-VOA application website that looked just like the real one and even appeared as the top result on Google searches, tricking many people at the time.
 
-Scam tactics are constantly evolving, and now they can even obtain your application details, making the documents look increasingly authentic. However, always remember one principle: **Once the visa fee is paid, that's it—ignore any additional charges thereafter.**
+Scam tactics are constantly evolving; now they can even obtain your application details, making the emails look increasingly authentic. But just remember one principle: **Once the visa fee is paid, it's done. Ignore any additional charges after that.**
 
 {{block:換匯}}

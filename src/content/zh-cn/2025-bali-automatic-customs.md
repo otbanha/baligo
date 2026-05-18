@@ -1,4 +1,5 @@
 ---
+slug: 2025-bali-automatic-customs
 title: 快速便捷！2025巴厘岛自动通关流程&过关攻略
 description: >-
   从2024年开始，巴厘岛推出了自动通关系统，游客无需排队办理签证和移民局手续，节省时间。已申请电子签证的游客可以通过自动通关系统快速通关，无需排队，避免麻烦。
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65c1defcfd89780001f79bfd'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 70410f65d339796121c45ecbf1739670
+_srcHash: 10592c449dae44c73c625e8a7c5d1d9d
 ---
 
 ## 什么是自动通关?

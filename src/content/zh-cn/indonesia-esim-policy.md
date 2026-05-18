@@ -1,4 +1,5 @@
 ---
+slug: indonesia-esim-policy
 title: 印尼移动通讯新政策：eSIM与SIM卡限额即将实施！
 description: 印尼即将推行eSIM并限制SIM卡数量，外籍人士须注意IMEI注册新规，避免手机被封锁。
 pubDate: '2025-02-26'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67bea49ffd897800012dbdce'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: dcf96c75a4ce168ffa239c938df12216
+_srcHash: 1fd67530aba6adc45745ca11c49a50a4
 ---
 
 随着移动科技的快速发展，印尼政府正准备推出一系列新的移动通讯法规，这将对在巴厘岛（Bali）的外籍人士产生重大影响。

@@ -1,4 +1,5 @@
 ---
+slug: bali-long-term-visa-options
 title: 在印尼/巴厘岛长期居住/移民的签证选项
 description: 外国人可以选择多种签证和许可证来在巴厘岛长期居住。一般来说，外国旅客可以申请以下类型的签证：
 pubDate: '2024-10-18'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6710b4ecfd89780001cea90d'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 18f976c5169224df69c51de1b29e0a0c
+_srcHash: 6e55c0944d781fbd49cebe95075c9158
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fe9cede54dcbc6979f0382bbc3d2c50f.png)
@@ -84,10 +85,10 @@ _srcHash: 18f976c5169224df69c51de1b29e0a0c
 
 ✅深度攻略，让你的行程既省钱又无忧  
 
-✅独家推荐的私房景点与当地美食地图
+✅独家推荐的私房景点与当地美食地图  
 
-✅在Facebook社群上看不到的内容
+✅在Facebook群组上看不到的内容
 
-✅收集最多团友的行程规划建议，让每次旅行都是无缝体验
+✅收集最多群友的行程规划建议，让每次旅行都是无缝体验
 
 用谷歌或Facebook账号即可轻松完成注册！

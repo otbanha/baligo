@@ -1,4 +1,5 @@
 ---
+slug: bali-visa-free-news
 title: 双重惊喜 前进巴厘岛！
 description: >-
   巴厘岛这个绝美的旅游天堂正迎来一波令人振奋的好消息。免签和星宇航空加入这两个好消息，对于计划在2024年底至2025年初前往巴厘岛的旅客来说，这是个双重惊喜！
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/669148a9fd89780001740e5b'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 7c9435b344aadf676f2592dbe99ce8a0
+_srcHash: 92c4e23b542600a5888a3385f65bacaa
 ---
 
 巴厘岛这个绝美的旅游天堂正迎来一波令人振奋的好消息。对于计划在2024年底至2025年初前往巴厘岛的旅客来说，这是个双重惊喜！让我们来一探究竟。

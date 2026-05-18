@@ -1,4 +1,5 @@
 ---
+slug: indonesia-visa-free-taiwan
 title: 旅游便利升级！印尼或拟开放免签，台湾游客福利大增
 description: 台湾、香港入境印尼/巴厘岛免签有希望
 pubDate: '2024-12-08'
@@ -9,7 +10,7 @@ originalUrl: 'https://vocus.cc/article/65742746fd89780001135982'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 227c72dcfc0749d30072fb54ef7fe1b0
+_srcHash: ba8cc41fdfd9ff1f7e455d1919384296
 ---
 
 据中央社报道，12月8日的消息，印尼正在考虑对来自20个国家的访客实施免签证政策，其中包括台湾。
@@ -26,7 +27,7 @@ _srcHash: 227c72dcfc0749d30072fb54ef7fe1b0
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_62407b2522dba31e259fd695ae51864b.png)
 
-在阅读我们的**「巴厘岛自由行终极旅行攻略」**之前，我们诚挚地邀请您先订阅我们更多视觉体验分享的YouTube频道**「小杰 印尼」**。[点击这里](http://bit.ly/youtube-jason)，立即订阅
+在阅读我们的**「巴厘岛自由行究极旅行攻略」**之前，我们诚挚地邀请您先订阅我们更多视觉体验分享的YouTube频道**「小杰 印尼」**。[点击这里](http://bit.ly/youtube-jason)，立即订阅
 
 订阅完成后，您可以立即继续阅读我们详尽的攻略，深入探索巴厘岛的每个精彩角落。点击**「**[**巴厘岛自由行究极旅行攻略**](/blog/2025-06-15-64e37f2dfd89780001b1f776/)**」**，开始准备您的巴厘岛之旅！
 

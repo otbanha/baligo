@@ -1,6 +1,7 @@
 ---
-title: 搭机入境印尼/巴厘岛最新疫苗规定/入境规定 （六月九日更新）
-description: '国际旅客允许入境印尼的类别 关于申请落地签证的疑惑 '
+slug: indonesia-bali-entry-rules
+title: 搭乘飞机入境印尼/巴厘岛最新疫苗规定/入境规定 （六月九日更新）
+description: 国际旅客允许入境印尼的类别 关于申请落地签证的疑惑
 pubDate: '2023-06-20'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_359815666ee26bc75228c4c3b5e2b6d1.jpg'
 tags:
@@ -13,12 +14,12 @@ originalUrl: 'https://vocus.cc/article/64db6b81fd897800013a98ef'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 537689610205cb736ade407a7285accf
+_srcHash: eba63bc1c5a53d67e6f8c4d7cbedd808
 ---
 
 现在入境印尼、巴厘岛还需要有两剂的疫苗证明吗？需要下载什么APP吗？请看底下的说明
 
-根据最新航空法规：  
+根据最新航空法规：
 从 2023 年 6 月 9 日起，根据SE 工作组 COVID-19 2023 年第 1 号 ：**入境印尼或巴厘岛时不再需要提供 COVID-19 疫苗接种证明或任何 COVID-19 检测结果**。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1be8b2445ff165a0588e10ac1ae9ad1e.jpg)
@@ -40,3 +41,9 @@ _srcHash: 537689610205cb736ade407a7285accf
 ### 其他关于申请落地签证的常见问题
 
 请看我们准备的说明
+
+---
+
+👈 **回到巴厘岛自由行终极指南**
+
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

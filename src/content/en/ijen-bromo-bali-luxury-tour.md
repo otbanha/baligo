@@ -1,11 +1,13 @@
 ---
-title: "\U0001F30B【Mount Ijen + Bali】Dreamlike Blue Flames + Tumpak Sewu Waterfall + Mount Bromo Sunrise｜Luxury 5-Day All-Inclusive Tour"
+slug: ijen-bromo-bali-luxury-tour
+title: "\U0001F30B【Ijen Volcano + Bali】Dreamy Blue Flames + Tumpak Sewu Waterfall + Mount Bromo Sunrise｜5-Day Luxury All-Inclusive Tour"
 description: >-
-  Want to see volcanoes without the hassle? Dive into this 'all-inclusive'
+  Want to see volcanoes without the hassle? Dive into this "all-inclusive"
   luxury 5-day itinerary. Discover how VIP private transfers seamlessly connect
-  Java and Bali, unwind in top-tier private villas, and swim with wild dolphins
-  in Lovina. Get tips for a shopping-free, pure-play travel plan that combines
-  adventurous thrills with resort-style relaxation for your Indonesian getaway.
+  Java and Bali, stay in top-tier private villas to unwind, and swim with wild
+  dolphins in Lovina. Get tips on a shopping-free, pure-play itinerary that
+  combines adventure thrills with vacation relaxation for your Indonesian
+  journey.
 pubDate: 2025-04-01T00:00:00.000Z
 category:
   - 美食景點活動
@@ -13,19 +15,19 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_abbcdb77075f99d883ef6f54309163fa.jpg'
 originalUrl: 'https://vocus.cc/article/67eb9e4afd89780001eb48fb'
 lang: en
-_srcHash: 35be586a57aaf6813153c136ba09afb8
+_srcHash: 76aa722d39c2f46c5ce1bbe858c20588
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_95d91a1539287683737d3e0a04d1e1c8.jpg)
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b4fa1582dee57d138f6c28b896f04869.jpg)
 
-## ✨ Trip Highlights
+## ✨ Tour Highlights
 
-- **World Wonder**: Witness the eerie blue flames of Mount Ijen
-- **Double Volcano Feast**: Sunrise over Bromo's sea of clouds + hidden gem of Tumpak Sewu Waterfall
-- **Luxury Accommodation**: Stay in a private pool villa, embracing Bali-style relaxation
-- **Magical Experience**: Swim with wild dolphins along Lovina Coast
-- **Pure Play Guarantee**: No hidden fees, no shopping stops, VIP private car service throughout
+- **World Wonder**: Witness the mesmerizing blue flames of Ijen Volcano
+- **Double Volcano Feast**: Mount Bromo sunrise sea of clouds + Tumpak Sewu Waterfall
+- **Luxury Stay**: Relax in private pool villas with Balinese charm
+- **Magical Experience**: Swim with wild dolphins along Lovina coast
+- **Pure Play Guarantee**: No hidden fees or shopping stops, VIP private transfers throughout
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775404200123-5-5.jpg)
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775404200628-006376400_1707282570-ijen.jpeg)
@@ -36,27 +38,27 @@ _srcHash: 35be586a57aaf6813153c136ba09afb8
 
 ***
 
-## 💎 What's Included
+## 💎 Package Includes
 
-✅ **Round-trip airfare** (economy class including taxes)
+✅ **Round-trip flights** (economy class with taxes)
 
-✅ **4 nights of carefully selected accommodation** (including private pool villa)
+✅ **4 nights of premium accommodation** (including private pool villas)
 
-✅ **All attraction tickets** (Ijen Volcano/Bromo Volcano/Sewu Waterfall/Dolphin watching boat ticket)
+✅ **All attraction tickets** (Ijen Volcano/Mount Bromo/Tumpak Sewu Waterfall/dolphin watching boat tickets)
 
-✅ **Daily breakfast** + full-day private car service
+✅ **Daily Breakfast** + Private Car Service
 
-✅ **Professional Guide** + Volcano Exploration Equipment Rental
+✅ **Professional Guide** + Volcano Adventure Equipment Rental
 
 ***
 
-## 📌 Essential Information
+## 📌 Important Information
 
-**Special Offer** USD$1,188 per person (cash price for two people, inquire for different group sizes)
+**Special Price** USD$1,188/person (cash price for two people, inquire for other group sizes)
 
 **Valid Dates** From now until December 2026
 
-**Important Note** Special offer packages are non-refundable and cannot be canceled
+**Important Notes** Special offers are non-refundable
 
 ***
 
@@ -64,29 +66,29 @@ _srcHash: 35be586a57aaf6813153c136ba09afb8
 
 ![行程內容，還有更多等你來洽詢！](https://images.gobaligo.id/vocus/vocus_5feb64fbff7a18ccf5950b6effdf37ca.jpg)
 
-Discover more about our itinerary details and additional offerings - we're here to assist with your inquiries!
+Discover more about the itinerary by contacting us!
 
-1. **Curated Experience**: Witness volcanic wonders while enjoying a Bali getaway
-2. **Safety First**: Professional protective gear provided for Mount Ijen trek
-3. **Great Value**: Stay in private pool villas with no shopping pressure throughout the trip
+1. **Curated Attractions Combo**: Experience volcanic wonders and Bali relaxation in one trip
+2. **Safety Guaranteed**: Professional protective gear provided for Mount Ijen
+3. **High Value Experience**: Private pool villa stay with zero shopping pressure
 
-> 💡 **Heads up**: Viewing the blue flames requires an early morning hike, so be sure to bring non-slip shoes and warm clothing.
+> 💡 **Friendly Reminder**: Blue flame viewing requires an early morning hike, prepare non-slip shoes and warm clothing
 
 ***
 
 ### ❗ **Important Notes** ❗
 
-1. 💰 **Special Offer USD$1,188 per person** 💰 Online registration includes a **full subsidy of Rp. 150,000 for Bali's tourism tax** per person
+1. 💰 **Special Price USD$1,189/person** 💰 Online registration includes a full subsidy of **Rp. 150,000 Bali tourism tax per person**
 2. **Valid Departure Dates**: From now until December 2026 (holiday rates may vary).
-3. **Discount for Two Travelers**: Prices vary for different group sizes, please contact customer service for a quote.
-4. **Price Fluctuations**: Airfare and accommodation prices vary depending on departure dates, feel free to inquire
-5. **Special Promotion**: Once confirmed, cancellations and refunds are not allowed, please ensure your travel plans before signing up!
+3. **Discount for Two Travelers**: Please contact customer service for pricing with different group sizes.
+4. **Price Fluctuations**: Airfare and accommodation prices vary depending on departure dates. Feel free to inquire.
+5. **Special Offer**: Once confirmed, cancellations and refunds are not allowed. Please ensure your itinerary before signing up!
 
 ***
 
 📸 Get your camera ready for an impromptu volcano adventure!
 
-👉 Limited spots available, book now! Let Indonesia's breathtaking beauty become your exclusive memory!
+👉 Limited spots available, book now! Let Indonesia's breathtaking scenery become your exclusive memory!
 
 {{block:tour-form-volcanoes}}
 

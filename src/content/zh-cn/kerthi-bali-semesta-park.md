@@ -1,4 +1,5 @@
 ---
+slug: kerthi-bali-semesta-park
 title: 印尼版迪士尼在巴厘岛诞生！主题乐园与高速公路将彻底改变西巴厘旅游格局
 description: >-
   巴厘岛西部即将诞生全新主题乐园——Kerthi Bali Semesta Park。由派拉蒙影业打造，融合好莱坞与巴厘文化，并结合
@@ -10,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_213915c8980abeaf3106c8b0c9114d11.jpg'
 originalUrl: 'https://vocus.cc/article/68f9ad45fd897800017798ec'
 lang: zh-cn
-_srcHash: 594bd8dd4e5e04d11a52383d7b8d3db4
+_srcHash: 1475ab7e863cf9fa8ae417efbf98a99f
 ---
 
 ## **派拉蒙影业进军巴厘岛｜Kerthi Bali Semesta Park 预计 2026 年开幕**
@@ -41,11 +42,11 @@ Kerthi Bali Semesta Park 将成为巴厘岛首座以「**永续发展**」为核
 - **太阳能发电系统**
 - **雨水回收与再利用技术**
 - **电动交通车辆**
-- **生态绿地区域保育区**
+- **生态绿地区域保护区**
 
 园区内部分区域将划为「**绿色保护区（Green Zones）**」，保留稀有动植物生态，打造娱乐与自然共存的环境。
 
-Jembrana 县长 **Kembang Hartawan** 表示：「Kerthi Bali Semesta Park 是结合传统与创新的新经济象征，我们希望 Jembrana 成为永续发展的典范。」
+Jembrana 县长 **Kembang Hartawan** 表示：「Kerthi Bali Semesta Park 是结合传统与创新的新经济象征，我们希望 Jembrana 成为可持续发展的典范。」
 
 ***
 
@@ -53,7 +54,7 @@ Jembrana 县长 **Kembang Hartawan** 表示：「Kerthi Bali Semesta Park 是结
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_d34afd400c1c24665aedfd62011a78c5.jpg)
 
-为了支撑庞大的观光需求与基础建设，印尼政府同步推进 **Gilimanuk-Mengwi 高速公路（Jagat Kerthi Bali 计划的一部分）**，目前已完成 **超过 20% 的前期工程**。
+为了支撑庞大的观光需求与基础设施建设，印尼政府同步推进 **Gilimanuk-Mengwi 高速公路（Jagat Kerthi Bali 计划的一部分）**，目前已完成 **超过 20% 的前期工程**。
 
 这条 **96.8 公里长** 的高速公路将连接 **Gilimanuk 港口** 与 **Mengwi 地区**，有效衔接西巴厘与南巴厘主要旅游带。完工后，登巴萨至 Jembrana 的车程将从 4-5 小时缩短至 **约 2 小时**，让游客更方便地前往乐园与周边地区。
 
@@ -69,7 +70,7 @@ Jembrana 县长 **Kembang Hartawan** 表示：「Kerthi Bali Semesta Park 是结
 
 ## **经济与社会效益：改变 Jembrana 的未来**
 
-印尼观光部预估，Kerthi Bali Semesta Park 开幕后，**Jembrana 每年可吸引多达 500 万名游客**，创造 **超过 25,000 个工作机会**，涵盖旅游、服务、交通、环境管理与文化教育等多个领域。
+印尼旅游部预计，Kerthi Bali Semesta Park 开幕后，**Jembrana 每年可吸引多达 500 万名游客**，创造 **超过 25,000 个就业机会**，涵盖旅游、服务、交通、环境管理与文化教育等多个领域。
 
 同时，配合乐园的开发，Jembrana 还将新增：
 
@@ -81,7 +82,7 @@ Jembrana 县长 **Kembang Hartawan** 表示：「Kerthi Bali Semesta Park 是结
 
 ***
 
-## **Jembrana 的新角色：巴厘岛永续观光的示范区**
+## **Jembrana 的新角色：巴厘岛可持续旅游的示范区**
 
 Jembrana 长期以来被视为巴厘岛发展最慢的地区之一，但随着 **Kerthi Bali Semesta Park** 和 **Gilimanuk-Mengwi 高速公路** 的双轨推进，该地区将转型为 **文化、科技与生态共荣的旅游枢纽**。
 

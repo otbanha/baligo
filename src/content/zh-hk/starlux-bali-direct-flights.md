@@ -1,6 +1,7 @@
 ---
-title: 星宇飛峇里島有得諗！年底前成事
-description: 由2024年9月1號開始，星宇航空正式開通台北直飛雅加達嘅航班，每星期飛五次。星宇仲計劃開峇里島航線
+slug: starlux-bali-direct-flights
+title: 星宇飛峇里島有譜！年底前成行
+description: 自2024年9月1日起星宇航空正式啟航直飛印尼台北至雅加達嘅航班，每週飛行五次。星宇並計劃飛峇里島嘅航線
 pubDate: '2024-09-04'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_56e1e08579b091ee293cec4cbb024553.jpg'
 tags:
@@ -13,24 +14,24 @@ originalUrl: 'https://vocus.cc/article/66d86afafd8978000199d546'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: d8a0ec26988d388a147f743b8472aded
+_srcHash: 1f54a14783ec95c9def660b47dad894e
 ---
 
 ### 認識台灣全服務航空公司「星宇」
 
-由2024年9月1號開始，台灣嘅全服務航空公司Starlux Airlines（星宇航空）正式開通台北直飛雅加達嘅航班，每星期飛五次。Starlux Airlines係一間新興航空公司，由台灣長榮集團創辦人張榮發個仔張國煒喺2017年創立。自2020年1月首飛以來，Starlux就引起咗廣泛關注，飛票經常賣晒。
+自2024年9月1日起，台灣嘅全服務航空公司Starlux Airlines（星宇航空）正式啟航直飛印尼台北至雅加達嘅航班，每週飛行五次。Starlux Airlines係一家新興航空公司，由台灣長榮集團創辦人張榮發嘅兒子張國煒於2017年創立。自2020年1月首飛以來，Starlux便引起咗廣泛關注，票務常常一售而空。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cd9f2da6965d05b446647f287aad4937.jpg)
 
-### 由創立到擴展：Starlux嘅發展歷程
+### 從創立到擴展：Starlux嘅發展歷程
 
-創立四年後，Starlux已經擴展到超過20個亞洲目的地同3個美國城市，擁有多架飛機。作為全服務航空公司，Starlux訂購咗多架最新型嘅Airbus飛機，包括A321neo同A350-1000，並成為台灣首家擁有呢啲機型嘅航空公司。
+喺創立嘅四年後，Starlux已經拓展至超過20個亞洲目的地及3個美國城市，擁有多架飛機。作為全服務航空公司，Starlux訂購咗多架最新型嘅Airbus飛機，包括A321neo同A350-1000，並成為台灣首家擁有呢啲機型嘅航空公司。
 
-今年2月，Starlux喺新加坡航空展上，同Airbus簽訂咗訂購五架A350F貨機同三架A330neo嘅協議，呢個協議由Starlux董事長張國煒同Airbus商業總裁Christian Scherer簽署。
+今年2月，Starlux喺新加坡航空展上，與Airbus簽訂咗訂購五架A350F貨機同三架A330neo嘅協議，呢一協議由Starlux董事長張國煒與Airbus商業總裁Christian Scherer簽署。
 
 ### 客艙設計與服務特色
 
-Starlux嘅客艙內部設計由BMW Designworks工作室負責，所有艙位都配有娛樂系統。經濟艙嘅座位配有720p 10.1寸顯示器，提供免費基本Wi-Fi（包括SMS功能）。客艙內嘅獨特香氛由P.Seven創造，融合咗木材、皮革同花香嘅氣息，增添咗旅客嘅舒適體驗。航空公司嘅制服設計就由當地設計師Sean Yin創作，靈感嚟自1940同50年代嘅復古未來主義風格。
+Starlux嘅客艙內部設計由BMW Designworks工作室負責，所有艙位均配有娛樂系統。經濟艙嘅座位配有720p 10.1寸顯示器，提供免費基本Wi-Fi（包括SMS功能）。客艙內嘅獨特香氛由P.Seven創造，融合咗木材、皮革同花香嘅氣息，增添咗旅客嘅舒適體驗。航空公司嘅制服設計則由當地設計師Sean Yin創作，靈感嚟自1940同50年代嘅復古未來主義風格。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dddd215a460c4e3b870614c74ec256fa.jpg)
 

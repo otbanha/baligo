@@ -1,4 +1,5 @@
 ---
+slug: bali-heat-stroke-tips
 title: 【巴厘岛生存指南】中暑了怎么办？当地人才知道的 3 大消暑神水与SPA、急救建议！
 description: >-
   在巴厘岛旅游时，由于气候湿热，中暑（Heat Exhaustion/印尼文 Kelelahan
@@ -11,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_94254ac3e4069d41f34f53f5bee000e2.jpg'
 originalUrl: 'https://vocus.cc/article/696c7229fd897800017d45da'
 lang: zh-cn
-_srcHash: 1ff5aa52bd0baaab53a1e12180bfa080
+_srcHash: 0481615da82d9a5c279772d42478d047
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0d7db454b968029e4ed332b57c147411.jpg)
@@ -33,12 +34,12 @@ _srcHash: 1ff5aa52bd0baaab53a1e12180bfa080
 
 ## 3. 特色的当地疗法
 
-- **Boreh 药草敷体：** 虽然传统的 Boreh 偏向温热排湿，但有些 SPA 提供「Cooling Boreh」，使用黄瓜、芦荟或檀香，敷在发烫的皮肤上能快速降温并修复晒伤。
+- **Boreh 草药敷体：** 虽然传统的 Boreh 偏向温热排湿，但有些 SPA 提供「Cooling Boreh」，使用黄瓜、芦荟或檀香，敷在发烫的皮肤上能快速降温并修复晒伤。
 - **Balinese Massage（巴厘岛式按摩）：** 轻微中暑後，血液循环可能变差。等体温稍降後，进行一次轻柔的按摩可以放松紧绷的肌肉（但若正处于高烧状态请避免）。
 
 ## 4. 现代巴厘岛旅游「解方」：IV Drip（静脉点滴）
 
-在巴厘岛的观光区（如坎古 Canggu、水明漾 Seminyak 或乌布），现在非常流行「IV Therapy」。如果你脱水严重且体力极差，专业的大医院（如 **BIMC** 或 **Siloam**），巴厘岛医生甚至有[到府服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1197571&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170717-24-7-doctor-on-call-bali-at-unicare-clinic-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Def8fdeaa30)，直接为你注射包含生理食盐水、维生素 C 和电解质的点滴。这通常能在 1 小时内显著缓解中暑症状。
+在巴厘岛的观光区（如坎古 Canggu、水明漾 Seminyak 或乌布），现在非常流行「IV Therapy」。如果你脱水严重且体力极差，专业的大医院（如 **BIMC** 或 **Siloam**），巴厘岛医生甚至有[到府服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1197571&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170717-24-7-doctor-on-call-bali-at-unicare-clinic-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Def8fdeaa30)，直接为你注射包含生理盐水、维生素 C 和电解质的点滴。这通常能在 1 小时内显著缓解中暑症状。
 
 ***
 
@@ -52,7 +53,7 @@ _srcHash: 1ff5aa52bd0baaab53a1e12180bfa080
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1120e315e89abf9baad7f4e4f333bee6.png)
 
-中暑之後是否可以按摩或进行 SPA，取决于你目前的**身体状况**与**疗程类型**。在巴厘岛这种热带气候下，错误的按摩可能会加重中暑症状，因此需要特别谨慎。
+中暑之后是否可以按摩或进行 SPA，取决于你目前的**身体状况**与**疗程类型**。在巴厘岛这种热带气候下，错误的按摩可能会加重中暑症状，因此需要特别谨慎。
 
 以下是针对中暑后按摩与 SPA 的详细建议：
 
@@ -79,10 +80,10 @@ _srcHash: 1ff5aa52bd0baaab53a1e12180bfa080
 
 1. **告知身体状况：** 明确告诉对方你今天有点中暑（"I have heat exhaustion"），请他们调整力道或避开加热仪式。
 2. **更换精油：** 避免选用辛辣感的精油，建议选择**薄荷（Peppermint）**、**薰衣草（Lavender）或柠檬草（Lemongrass）**，这些味道在嗅觉上也有助于清热解暑。
-3. **补充水分：** SPA 前後都要大量喝水。巴厘岛 SPA 店通常会提供姜茶，中暑後建议询问是否有**常温水**或**椰子水**替代。
+3. **补充水分：** SPA 前后都要大量喝水。巴厘岛 SPA 店通常会提供姜茶，中暑后建议询问是否有**常温水**或**椰子水**替代。
 
 ***
 
-**总结来说：** 如果你还在发烧或头晕，请先休息、喝椰子水，甚至考虑医生[上门服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1197571&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170717-24-7-doctor-on-call-bali-at-unicare-clinic-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Def8fdeaa30)做个 IV Drip（点滴）；等体力恢复后，再安排一个**芦荟舒缓护理**会是更好的选择。
+**总结来说：** 如果你还在发烧或头晕，请先休息、喝椰子水，甚至考虑医生[到府服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1197571&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170717-24-7-doctor-on-call-bali-at-unicare-clinic-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Def8fdeaa30)做个 IV Drip（点滴）；等体力恢复后，再安排一个**芦荟舒缓护理**会是更好的选择。
 
 {{block:長輩}}

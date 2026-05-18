@@ -1,4 +1,5 @@
 ---
+slug: ijen-volcano-alert-level-2
 title: 火山警戒！伊真火山提升至二级警戒，原因揭晓
 description: >-
   伊真火山（Gunung
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66a8f541fd897800013efd61'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 4cb297f5f9a1e66d2bb91f590e39f327
+_srcHash: 51faed4d83fc04fa955fc8ac864220e3
 ---
 
 伊真火山（Gunung Ijen）以其壮丽的火山湖闻名，吸引了无数游客。然而，根据印尼2024年七月中旬的报道，近日该火山的活动状态提升至二级警戒，原因也随之揭晓。根据能源与矿产资源部地质灾害减灾中心（PVMBG）的评估，伊真火山近期的活动显著增加，因此提升了警戒级别。

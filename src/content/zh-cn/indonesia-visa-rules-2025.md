@@ -1,4 +1,5 @@
 ---
+slug: indonesia-visa-rules-2025
 title: 印尼签证新规立即生效：巴厘岛游客须知的重要变更，签证延长流程不一样了
 description: >-
   印尼移民局自2025年5月29日起正式实施新的签证延长流程。该制度结合线上注册与实体办理，适用于包括巴厘岛在内的全国各地移民办公室，影响范围涵盖游客、长期居留者、商务签证与社会文化签证持有者。  
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/683e4b26fd89780001ea2016'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: e2bc3c9de9f5548629722aca90b0079f
+_srcHash: 6ebadadeec0abf66ff7d92860e96f707
 ---
 
 ## 印尼签证延长制度迎来重大变革

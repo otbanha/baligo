@@ -1,6 +1,7 @@
 ---
+slug: bali-toilet-paper-travel-tip
 title: 印尼/巴厘岛旅游请自备卫生纸！
-description: 印尼或巴厘岛不是没有面纸、卫生纸，只是他们不是用来擦屁股的...
+description: 印尼或巴厘岛不是没有面纸、卫生纸，只是它们不是用来擦屁股的...
 pubDate: '2024-03-22'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2d174390fa91f9173547c870be4bf290.jpg'
 tags:
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65fce2d0fd8978000151ec93'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 8eadfdc89ac11d15f55ebe0fa690d625
+_srcHash: c3afad61b9b3ba7bd6f2b46152188d74
 ---
 
 巴厘岛是一个充满惊喜和奇幻的旅游胜地，但对于一些游客来说，面对当地的卫生习惯可能会感到困惑和不解。其中一个最让台湾人无法接受的文化差异就是他们用来大便后清理屁股的 - 「屁股枪（bum gun）」。

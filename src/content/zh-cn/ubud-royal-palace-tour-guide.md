@@ -1,4 +1,5 @@
 ---
+slug: ubud-royal-palace-tour-guide
 title: 【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐
 description: >-
   乌布皇宫（Ubud Royal Palace/Puri Saren
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6728cc00fd89780001c9bbdc'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 1df403d012d0aff4fa568443ad521253
+_srcHash: 711e18c55643cf24430e92053b93ac32
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_bf4aff81a496a2d5578ba886191fbd45.jpg)
@@ -116,7 +117,7 @@ _srcHash: 1df403d012d0aff4fa568443ad521253
 
 **2. 乌布皇宫的门票费用是多少？**
 
-- 参观乌布皇宫的日间门票是免费的。若要观赏晚上举行的传统舞蹈表演，则需要购买票券，费用大约为 IDR 100K（约 USD 6），票价可能因演出而异。建议可以[事先预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
+- 参观乌布皇宫的日间门票是免费的。若要观赏晚上举行的传统舞蹈表演，则需要购买票券，费用大约为 IDR 100K（约 USD$6），票价可能因演出而异。建议可以[事先预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
 - 票价100K...其中的K是什么意思？请看[这里](/blog/2023-08-24-64e730ddfd89780001336a09/)
 
 **3. 可以进入乌布皇宫的所有区域吗？**

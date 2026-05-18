@@ -1,6 +1,7 @@
 ---
+slug: bali-mangosteen-season
 title: 热带水果女王-印尼/巴厘岛山竹的产季
-description: 山竹在印尼是一种被大量生产的热带水果之一。这种酸甜可口的水果每年的产季是什么时候呢?
+description: 山竹在印尼是一种被大量生产的热带水果之一。这种酸甜可口的水果每年的产季是什么时候呢？
 pubDate: 2024-04-12T00:00:00.000Z
 category:
   - 美食景點活動
@@ -13,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_12cc11716bb437c0193aae868beb4b84.jpg'
 originalUrl: 'https://vocus.cc/article/661943c7fd897800016eaf4a'
 lang: zh-cn
-_srcHash: 701b1facbbdeff32d6ebbd584a79b105
+_srcHash: 614280a13f0682c2b943eb0352248891
 ---
 
 山竹在印尼是一种被大量生产的热带水果之一。这种酸甜可口的水果在一个地区通常每年有三个月的收成季节。

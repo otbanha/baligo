@@ -1,14 +1,13 @@
 ---
-title: >-
-  Important Updates on Bali Long-Term Stay/Tourist Visa Fees: What Travelers
-  Need to Know
+slug: bali-visa-fee-changes-2024
+title: Important Updates on Bali's Long-Term Stay/Tourist Visa Fees
 description: >-
   The Indonesian Immigration Office announced new regulations on visa fee
   adjustments effective December 17, 2024, covering all categories from
   short-term tourist visas to permanent residence visas. Fees will be calculated
-  incrementally based on the length of stay. This article will guide you through
-  how these changes may affect travelers planning to visit Bali and other parts
-  of Indonesia.
+  on an incremental basis according to the length of stay. This article will
+  guide you through how these changes may affect travelers planning to visit
+  Bali and other parts of Indonesia.
 pubDate: '2024-12-20'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c4a73cede38db92cc6d39217869d3cd4.png'
 tags:
@@ -21,10 +20,10 @@ originalUrl: 'https://vocus.cc/article/67656acbfd89780001f44494'
 category:
   - 簽證通關
 lang: en
-_srcHash: e6624528501c83c299bd5357d73ad5e4
+_srcHash: 899e71cf4d71f34a1c28d904ae1c4309
 ---
 
-The Indonesian Immigration Office announced new regulations on visa fee adjustments effective **December 17, 2024**, covering all categories from short-term tourist visas to permanent residence visas. Fees will be calculated incrementally based on the length of stay. This article will guide you through how these changes may affect travelers planning to visit Bali and other parts of Indonesia.
+The Indonesian Immigration Office announced new regulations on visa fee adjustments effective **December 17, 2024**, covering all categories from short-term tourist visas to permanent residence visas. Fees will be calculated on an incremental basis according to the length of stay. This article will guide you through how these changes may affect travelers planning to visit Bali and other parts of Indonesia.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4665dca7b9f0b0d9da1e5f9572d12a25.png)
 
@@ -34,29 +33,29 @@ The Indonesian Immigration Office announced new regulations on visa fee adjustme
 
 The most popular 30-day tourist visa (Visa on Arrival, VOA) and electronic tourist visa (eVoA) fees remain at **IDR 500,000** (approximately USD$16).
 
-The VOA continues to be the preferred choice for short-term visitors, ideal for holidaymakers or foreign travelers on brief stays. Applying for the eVoA through the official website not only allows for advance visa processing but also grants access to the fast-track immigration system at Bali's Ngurah Rai International Airport, significantly reducing entry check times—perfect for **families, groups of friends**, or couples traveling together.
+The VOA continues to be the preferred choice for short-term visitors, ideal for holidaymakers or foreign tourists on brief stays. Applying for the eVoA through the official website not only allows for advance visa processing but also grants access to the fast-track immigration system at Bali's Ngurah Rai International Airport, significantly reducing entry inspection times—perfect for **families, groups of friends**, or couples traveling together.
 
 ## ✅ **More Convenient Online Visa Extension Service**
 
-Previously, extending a 30-day visa required three in-person visits to the immigration office:
+Previously, extending a 30-day visa required three separate visits to the immigration office:
 
 1. Submit application
 2. Provide fingerprints
 3. Collect visa
 
-Now, extensions can be **completed entirely online** with an additional fee of **IDR 500,000** (approximately USD$16), saving time and reducing travel-related hassles.
+Now, extensions can be **completed entirely online** with an additional fee of **IDR 500,000** (approximately USD$16), saving time and reducing travel hassles.
 
 ---
 
-## 📈 **Other Visa Fee Adjustments: Challenges for Long-Term Stayers**
+## 📈 **Other Visa Fee Adjustments: Challenges for Long-term Stayers**
 
-For expats or digital nomads planning extended stays, the visa fee adjustments are more significant. For example:
+For expats or digital nomads looking to stay long-term, the visa fee adjustments are significant. For example:
 
-- **90-day visa**: Costs **IDR 1,500,000** (approximately USD$48)
-- **180-day Socio-Cultural Visa**: Costs **IDR 2,000,000** (approximately USD$65)
-- **KITAP (Permanent Residence Visa)**: Fees increased from **IDR 1,750,000** to **IDR 5,000,000**, nearly tripling the cost.
+- **90-day visa**: Fee is **IDR 1,500,000** (approximately USD$97)
+- **180-day Socio-Cultural Visa**: Fee is **IDR 2,000,000** (approximately USD$129)
+- **KITAP (Permanent Residence Visa)**: Fee increased from **IDR 1,750,000** to **IDR 5,000,000**, nearly tripling.
 
-For foreign residents, these fee adjustments represent a substantial change and have sparked considerable discussion.
+For foreign residents, these fee adjustments represent a major change and have sparked considerable discussion.
 
 ---
 
@@ -67,13 +66,13 @@ The Indonesian Immigration Office has recently intensified enforcement efforts, 
 - **January to November 2024**: Bali's Ngurah Rai Immigration Office denied entry to **1,062 foreigners** and delayed the departure procedures of **407 travelers**.
 - **178 individuals were deported**, and over **230 foreigners were detained**.
 
-These measures demonstrate the Immigration Office's commitment not only to optimizing visa services but also to preventing system abuse to ensure fairness and order.
+These measures by the Immigration Office demonstrate its commitment not only to optimizing visa services but also to actively preventing system abuse to ensure fairness and order.
 
 ---
 
 ## 🔍 **Future Outlook: How Will the VFS Global Partnership Impact Visa Applications?**
 
-In November 2024, the Indonesian Immigration Office announced a partnership with global visa processing company VFS Global, planning a comprehensive update to the visa application system by 2025. According to Immigration Director Silmy Karim, this initiative aims to leverage digital solutions to streamline the visa application process and further attract international visitors to Indonesia.
+In November 2024, the Indonesian Immigration Office announced a partnership with global visa processing company VFS Global, planning a comprehensive update to the visa application system by 2025. According to Immigration Director Silmy Karim, this initiative aims to leverage digital solutions to optimize the visa application process and further attract international visitors to Indonesia.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2a17481fa0552a095e3b2d8d24feaf1b.jpg)
 
@@ -81,10 +80,10 @@ Future changes may include adjustments to visa categories and new application pr
 
 ---
 
-## 🎯 **What should travelers planning to visit Bali be aware of?**
+## 🎯 **What should travelers planning to visit Bali pay attention to?**
 
-- If your trip is for **short-term tourism (within 30 days)**, visa fees remain unchanged, and the application and renewal processes have become more convenient.
-- If you plan to **stay for a medium to long term**, it's essential to familiarize yourself with the changes in visa fees and conditions beforehand to properly budget your trip.
-- With the optimization of the visa system and enhanced enforcement, it's recommended that travelers always adhere to local laws and regulations to avoid unnecessary complications.
+- If your trip is for **short-term tourism (within 30 days)**, visa fees remain unchanged, and the application and renewal process has become more convenient.
+- If planning for **medium to long-term stays**, it is essential to understand the changes in visa fees and conditions in advance and arrange your budget accordingly.
+- With the optimization of the visa system and strengthened enforcement, it is recommended that travelers always comply with local laws and regulations to avoid unnecessary troubles.
 
-Whether for a short vacation or an extended stay, Bali remains a captivating travel destination. Start planning your journey now! 🌴✈️
+Whether for a short vacation or a long-term stay, Bali remains a charming travel destination. Start planning your trip now! 🌴✈️

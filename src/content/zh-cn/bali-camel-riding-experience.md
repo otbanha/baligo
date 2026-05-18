@@ -1,4 +1,5 @@
 ---
+slug: bali-camel-riding-experience
 title: 巴厘岛骑骆驼！两大沙滩骑骆驼浪漫体验懒人包
 description: "探索巴厘岛两大骑骆驼地点！从在地风情的 Mertasari Beach 到梦幻夕阳的 Kelan Beach，感受异国浪漫与亲子乐趣\U0001F42B。"
 pubDate: 2025-11-02T00:00:00.000Z
@@ -8,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8b08e09d34382f389919fdef4c7b2b88.jpg'
 originalUrl: 'https://vocus.cc/article/6906be15fd897800015710d8'
 lang: zh-cn
-_srcHash: 9c635c046c0ddbe3551fa15c681917f4
+_srcHash: 4a9a726a9f7453ed52a49e7a94d2cc3c
 ---
 
 ## 巴厘岛独特体验：沙滩骑骆驼之旅🐪
@@ -80,7 +81,7 @@ https://youtube.com/shorts/yebdtkV5tX0
 
 **1. 骑骆驼需要事先预约吗？**
 
-Mertasari Beach 的 Bali Camel Ride 可直接现场报名；Kelan Beach 的 Bali Camel Adventure 建议[提前在线预约](https://affiliate.klook.com/redirect?aid=116349&aff_adid=919281&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F125501-camel-ride-experience-in-bali%2F)。
+Mertasari Beach 的 Bali Camel Ride 可直接现场报名；Kelan Beach 的 Bali Camel Adventure 建议[提前线上预约](https://affiliate.klook.com/redirect?aid=116349&aff_adid=919281&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F125501-camel-ride-experience-in-bali%2F)。
 
 **2. 两个地点哪一个比较适合亲子？**
 

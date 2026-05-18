@@ -1,6 +1,9 @@
 ---
-title: 'Discover Oneeighty Day Club: Bali''s Cliffside Pool with Stunning Views'
-description: 'Oneeighty Pricing, Dining Options, and Reservation Details'
+slug: oneeighty-dayclub-uluwatu-pool
+title: >-
+  Discover Oneeighty Day Club: Bali's Ultimate Cliffside Pool with Stunning
+  Views
+description: 'Oneeighty Pricing, Dining Options, and Reservation Guide'
 pubDate: 2023-12-07T00:00:00.000Z
 category:
   - 美食景點活動
@@ -8,18 +11,18 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_796a7726285dc90f4c9e926629c7be3b.jpg'
 originalUrl: 'https://vocus.cc/article/6571846ffd89780001fe97ee'
 lang: en
-_srcHash: 2f2f029706fb4082bb69379057e18bfe
+_srcHash: d3e643df02d6233038a517a703fa05ff
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8d9d260a2afbba6685fa2a3973cdfc81.jpg)
 
-What's it like to stand atop a 162-meter cliff?
+What's it like to stand above a 162-meter-high cliff?
 
 ▼▼▼ Watch the video below ▼▼▼
 
-Oneeighty is a day pool club located within The Edge Bali in southern Bali, perched 162 meters above sea level overlooking the Indian Ocean. It features a unique cliff-top pool with glass walls, offering a breathtaking 180-degree view of the ocean.
+Oneeighty is a day pool club located within The Edge Bali in southern Bali, perched 162 meters above sea level overlooking the Indian Ocean. It features a unique cliff-top pool with glass walls, offering 180-degree panoramic views of the ocean.
 
-The Edge Bali resort has received numerous accolades, including the Haute Grandeur Global Hotel Award in 2016, Conde Nast Johansens Awards in 2016 and 2017, The Yak Award for Best Villa Category in 2017, and most recently, Tripadvisor's 2018 Travelers' Choice Award. Are you still hesitating to visit this beloved destination?
+The Edge Bali resort has received numerous accolades, including the 2016 Haute Grandeur Global Hotel Award, the 2016 and 2017 Conde Nast Johansens Awards, the 2017 The Yak Award for Best Villa Category, and most recently, Tripadvisor's 2018 Travelers' Choice Award. Are you still hesitating to visit this beloved traveler's paradise?
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3652046e3d81cfaf3d93f68912d283d6.jpg)
 
@@ -27,33 +30,33 @@ The Edge Bali resort has received numerous accolades, including the Haute Grande
 
 ## Oneeighty Dayclub
 
-Guests at Oneeighty can relax in the VIP cliffside area or stretch out on sunbeds in the lounge. Visitors can also comfortably sit indoors while enjoying the refreshing natural breeze.
+Visitors to Oneeighty can relax in the VIP cliffside area or stretch out on sunbeds in the lounge. Guests can also comfortably sit indoors while enjoying the refreshing natural breeze.
 
-In addition to the unique pool, visitors can capture stunning photos at the artificial river/lagoon beneath Oneeighty's glass bridge. Though man-made, its beauty rivals that of natural lakes. Many of Bali's most Instagrammable shots are taken here!
+In addition to this unique pool, visitors can capture stunning photos at the artificial river/lagoon beneath Oneeighty's glass bridge. Though man-made, its beauty rivals that of natural lakes. Many of Bali's Instagram-worthy shots are taken here!
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_32615e318e839d897e9701fd01a67e9f.jpg)
 
-Oneeighty is not only a highly regarded destination but also offers an unforgettable culinary journey. Popular dishes include Baja Taco, Soft Shell Crab, and Indonesian Tuna Ceviche. Signature main courses feature sea bream, local lobster, and fish trio with mango.
+Oneeighty is not only a highly regarded destination but also offers an unforgettable culinary journey. Popular dishes include Baja Taco, Soft Shell Crab, and Indonesian Tuna Ceviche. Signature main courses feature snapper, local lobster, and fish trio with mango.
 
-If you want to spend a relaxing day at Oneeighty and take some Instagram-worthy photos, you have two options:
+If you want to spend a leisurely day at Oneeighty and capture some Instagram-worthy photos, you have two options:
 
-Book a VIP ticket (up to 3 people) for a front-row cliffside ocean view spot, currently priced at Rp3,127,628 (sharing one large daybed), approximately USD$200. Rp1,000,000 of this amount can be used towards food and drink purchases. **Note:** Children under 12 are not allowed in this area.
+Book VIP tickets (up to 3 people) for a front-row spot with cliffside ocean views. The current price is Rp3,127,628 (sharing a large daybed), which is approximately USD$200. This includes Rp1,000,000 that can be used towards food and drinks. **Note:** Children under 12 are not allowed in this area.
 
-The other option is a single general admission ticket priced at IDR615,000, equivalent to approximately USD$40. This includes USD$16 (IDR500,000) per person for food and drink credits.
+The other option is a standard single-entry ticket priced at Rp615,000, approximately USD$20. This includes USD$16 (Rp500,000) per person for food and drink credits.
 
 > Klook offers [Oneeighty passes](https://affiliate.klook.com/redirect?aid=116349&aff_adid=782859&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F52229-oneeighty-pass-edge-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92cc562df8)
 
 ![圖源：Tensor Arts AI繪圖](https://images.gobaligo.id/vocus/vocus_351611cd22d98bc9b11e482b370f335d.png)
 
-[Image source: Tensor Arts AI Art](https://tensor.art/images/668588578470711504?post_id=668588578466517201&source_id=nzi1pVnglEW1o_Isbnfy9xQj)
+[Image source: Tensor Arts AI](https://tensor.art/images/668588578470711504?post_id=668588578466517201&source_id=nzi1pVnglEW1o_Isbnfy9xQj)
 
 ## Spa and Romantic Dinner Packages
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7957b9fce964ee2a3f8b7de71bb12c06.jpg)
 
-### Cliffside Spa
+### Cliffside Spa Center
 
-Perched on a cliff overlooking the Indian Ocean, the spa features flowing lines and expansive glass designs, creating a serene space for relaxation and rejuvenation.
+Perched on a cliff overlooking the Indian Ocean, the spa center features flowing lines and expansive glass designs, creating a soothing space for relaxation.
 
 **Featured Facilities:**
 
@@ -61,25 +64,25 @@ Perched on a cliff overlooking the Indian Ocean, the spa features flowing lines 
 - Separate wet and dry areas with exclusive steam rooms
 - Elegant curved designs paired with breathtaking ocean views
 
-Under the skilled hands of professional therapists, accompanied by the sea breeze and the sound of waves, indulge in a luxurious experience of complete relaxation.
+Under the skilled hands of professional therapists, accompanied by the sea breeze and the sound of waves, enjoy a luxurious experience of complete relaxation.
 
 ### Cliff Bar Romantic Dinner
 
-Enjoy a three-course exquisite dinner by the cliff, sharing gourmet cuisine and breathtaking ocean views with your loved one amidst the sunset glow and flickering candlelight.
+A three-course exquisite dinner by the cliff, shared with your loved one amidst the sunset glow and candlelight, savoring both the cuisine and the breathtaking ocean view.
 
-**Menu Includes:**
+**Menu includes:**
 
 - Innovative appetizer
 - Chef's signature main course
 - Exquisite dessert to perfectly conclude the meal
 
-The natural symphony of waves gently lapping against the cliff adds unforgettable memories to this romantic dinner.
+The natural symphony of waves gently hitting the cliff adds unforgettable memories to this romantic dinner.
 
 > Book [SPA and Romantic Dinner Package](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1067578&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F157937-spa-and-romantic-dinner-package-at-cliff-bar-by-the-edge-bali%2F)
 
 ## Important Notes
 
-When visiting Oneeighty, please adhere to the following rules: No outside food and drinks, no strollers/wheelchairs, no drones, and no wedding photography.
+When visiting Oneeighty, please adhere to the following rules: no outside food or drinks, no strollers/wheelchairs, no drones, and no wedding photography.
 
 ## Oneeighty Pool Club Introduction Video:
 

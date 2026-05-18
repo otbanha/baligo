@@ -1,4 +1,5 @@
 ---
+slug: kuta-beer-on-wheels-bali
 title: 巴厘岛库塔的啤酒巴士：Beer on Wheels Bali | 无限畅饮与欢乐之旅！
 description: >-
   想要在巴厘岛体验一场与众不同的欢乐时光吗？那就千万别错过 Beer on Wheels
@@ -13,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_aa77bb3f2f0ffee906fdccf34ddbdbcc.jpg'
 originalUrl: 'https://vocus.cc/article/67d4f8e0fd897800017aca0f'
 lang: zh-cn
-_srcHash: 8baba2df7bf973aeb7bcb17343e55c65
+_srcHash: a5bf7d8e29c0b01be711a4bd620badd3
 ---
 
 想要在巴厘岛体验一场与众不同的欢乐时光吗？那就千万别错过 **Beer on Wheels Bali**！这是一个将酒吧搬到车轮上的独特体验，让游客在库塔和雷吉安地区的街道上，一边畅饮冰镇啤酒，一边享受音乐和派对氛围。无论是与朋友、家人还是独自旅行，这趟2小时的啤酒巴士之旅绝对会让人爱上巴厘岛的活力与热情！难得出国就疯一回吧！

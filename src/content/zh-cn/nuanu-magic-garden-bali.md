@@ -1,4 +1,5 @@
 ---
+slug: nuanu-magic-garden-bali
 title: 【巴厘岛亲子旅游景点】Nuanu Creative City 的魔法花园 Magic Garden
 description: >-
   位于海神庙附近的 Magic
@@ -16,7 +17,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: zh-cn
-_srcHash: e84bfd7def62bd3ef8c53e8514a67d03
+_srcHash: 6cba8132a70f69c6348b4f1b5b779c2b
 ---
 
 位于海神庙附近的 **Magic Garden（魔法花园）** 是2024年11月新开幕的自然公园，非常适合家庭与亲子游。这座占地3600平方米的景点拥有丰富的植物和多样的互动体验，既有教育意义又充满乐趣。

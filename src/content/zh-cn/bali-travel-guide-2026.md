@@ -1,6 +1,7 @@
 ---
+slug: bali-travel-guide-2026
 title: 2026年巴厘岛自由行｜行前终极指南：出发前必看 7 大重点！签证、换汇、住宿、电压/转换器...一次搞定
-description: "2026 年 Tripadvisor 网友评选第一名的度假胜地——巴厘岛，你准备好了吗？\U0001F3DD️ 无论是想去乌布感受梯田宁静，还是在长谷体验冲浪派对，这支视频为你整理了「2026 巴厘岛行前终极指南」！ 我们帮你把最复杂的入境流程、交通选择、住宿分区、甚至是最新规定的「旅游税」全部讲清楚。记得看到最"
+description: "2026 年 Tripadvisor 网友评选第一名的度假胜地——巴厘岛，你准备好了吗？\U0001F3DD️ 无论是想去乌布感受梯田宁静，还是在坎古体验冲浪派对，这支视频为你整理了「2026 巴厘岛行前终极指南」！  我们帮你把最复杂的入境流程、交通选择、住宿分区、甚至是最新规定的「旅游税」全部讲清楚。记得看到最"
 pubDate: 2026-02-15T00:00:00.000Z
 category:
   - 新手指南
@@ -12,14 +13,14 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/UoGlRyAdyB8'
 lang: zh-cn
-_srcHash: 27ce491a751129bcc1518d4a97a998de
+_srcHash: c6762156e280b3ad34eecd651aaa1568
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5ec06768be3729d47ff16e75a3e87684.jpg)
 
 2026 年 Tripadvisor 网友评选第一名的度假胜地——**巴厘岛**，你准备好了吗？🏝️ 无论是想去乌布感受梯田宁静，还是在坎古体验冲浪派对，这支视频为你整理了「2026 巴厘岛行前终极指南」！
 
-我们帮你把最复杂的入境流程、交通选择、住宿分区、甚至是最新规定的「旅游税」全部讲清楚。记得看到最后，还有超实用的离线地图与行李清单分享喔！
+我们帮你把最复杂的入境流程、交通选择、住宿分区、甚至是最新规定的「旅游税」全部讲清楚。记得看到最后，还有超实用的离线地图与行李清单分享哦！
 
 https://youtu.be/H5N5_UuK7TI
 
@@ -39,26 +40,22 @@ https://youtu.be/H5N5_UuK7TI
 
 ## 住宿基地/区域详解：
 
-### 库塔/雷吉安/水明漾/长谷/乌布
+### 库塔/雷吉安/水明漾/坎古/乌布
 
 - [库塔必访50个景点攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
 - [水明漾100个景点攻略](/blog/2023-08-15-64db7fc2fd897800013d367c/)
-- [Canggu 100个必游景点](/blog/2023-02-11-64db6b7efd897800013a9815/)
+- [坎古100个必游景点](/blog/2023-02-11-64db6b7efd897800013a9815/)
 - [乌布探索的100个方式](/blog/2023-11-17-655054b1fd897800011d4d2c/)
 
 ### 努沙杜瓦
 
 - [努沙杜瓦40个住宿美食活动攻略](/blog/2024-01-25-65afb7bbfd897800017023b4/)
 
-3. ****Golden Monkey Sanur****
-4. - 日期：2025年1月28日及29日
-   - 活动：豪华自助晚餐，包括中式烧烤和点心。
-   - 价格：IDR 750,000++/人，儿童IDR 300,000++。
-   - 预定电话：+62 822 6636 2067
+### 金巴兰
 
 - [金巴兰攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)
 
-### 金巴兰
+### 乌鲁瓦图
 
 - [乌鲁瓦图攻略](/blog/2024-03-07-65dfd410fd897800019f4b40/)
 
@@ -82,9 +79,9 @@ https://youtu.be/H5N5_UuK7TI
 
 {{block:住宿}}
 
-### 避开堵车噩梦
+### 避开塞车噩梦
 
-- [【这样玩居然不堵车！】爽玩巴厘岛自由行攻略：交通、住宿、景点、美食、购物、SPA、夜生活，全方位规划](/blog/2024-03-18-65ba3bfefd89780001650f07/)
+- [【这样玩居然不塞车！】爽玩巴厘岛自由行攻略：交通、住宿、景点、美食、购物、SPA、夜生活，全方位规划](/blog/2024-03-18-65ba3bfefd89780001650f07/)
 
 ## 交通/包车
 
@@ -105,21 +102,45 @@ https://youtu.be/H5N5_UuK7TI
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7158202f82112fc1d0f02beb30599cff.jpg)
 
-### 水明漾/长谷手作坊
+### 水明漾/坎古手作坊
 
 - [Warung Nia印尼料理烹饪课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F19201-nia-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbad8f6f743)
-
 - [Peppers Seminyak 的Laneway烹饪班](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113078-the-laneway-cooking-class-at-peppers-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7451d84a30)
-
 - [星巴克Reserve Dewata咖啡大师课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F127649-starbucks-reserve-dewata-coffee-experience-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd6c14650a8)
+- [Kin Vegan Cooking Class](https://affiliate.klook.com/redirect?aid=32564&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F28068-kin-vegan-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1ba2ccc77a)
+- [坎古银饰制作课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F122280-silver-jewelry-making-class-in-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df330c0b626)
+- [Villa Canggu by Plataran烹饪课程体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D12dace727a)
+- [Blou Cafe Canggu 餐饮和烹饪课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113828-dining-and-cooking-class-experience-at-blou-cafe-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3ad128193d)
+- [Boheme Canggu 餐厅餐饮和烹饪课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F111755-dining-and-cooking-class-experience-at-boheme-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da09389494c)
+
+### 乌布手作坊
+
+- [银制品手工体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73060-silver-making-class-bali-artika-silver%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6673fed541)
+- [蜡染手工制作课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F43814-batik-making-class-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1cd6c9e8dd)
+- [陶艺制作课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F81778-pottery-class-serayu-pottery-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3d74ec6f17)
+- [蜡染画 & 木雕课体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47627-five-art-studio-ubud-admission-direct-entry%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2ff7dda07)
+- [巧克力制作课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794723&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F85144-chocolate-tour-crafting-sorga-chocolate-bali%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3Dd779c40b8f)
+- [椰子油制作课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794723&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16177-coconut-oil-class-balinese-family-bali%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D9a7a2c1a40)
+- [乌布烹饪体验课（包参观猴子森林 & 水稻梯田）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44233-cooking-class-ubud-visit-monkey-forest-rice-terrace%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D37317b2419)
+- [乌布哥雅精品度假村烹饪课体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F19052-goya-boutique-cooking-class-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9f61997031)
+- [Ketut's Bali 美食烹饪教室体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23861-cooking-class-ketut-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D49762d8ba4)
+- [乌布烹饪课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17260-cooking-class-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc9fd495c23)
+- [陶艺制作课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F81778-pottery-class-serayu-pottery-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3d74ec6f17)
+- [颂钵疗愈/音疗](/blog/2026-02-07-6986c5c0fd897800017582f6/)
 
 ### 瑜伽课程
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c2fe019bafedc7eb5860b11c5d97ceea.jpg)
 
-- [Kin Vegan Cooking Class](https://affiliate.klook.com/redirect?aid=32564&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F28068-kin-vegan-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1ba2ccc77a)
+- [坎古瑜伽中心瑜伽体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86228-yoga-class-yoga-class-canggu-yoga-centre-pererenan-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc17fc7f020)
+- [Guan Yin瑜伽体验](https://www.klook.com/zh-TW/activity/96815-yoga-experience-guan-yin-yoga-shala-canggu/?spm=SearchResult.SearchResult_LIST&clickId=ecbfdfbfb1)
+- [The Practice瑜伽体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D627f689e6b)
+- [Samadi Bali瑜伽体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D627f689e6b)
+- [乌布瑜伽中心瑜伽课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23956-yoga-class-ubud-centre-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8dd8a5096c)
+- [乌布丛林日出瑜伽＆冥想体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774206&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73635-sunrise-yoga-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D84ba9d8d59)
+- [The Yoga Barn 瑜伽体验＆美食之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82611-yoga-barn-ubud-food-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbaa1160502)
 
-- [长谷银饰制作课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F122280-silver-jewelry-making-class-in-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df330c0b626)
+### 户外活动
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b9d08056ca87707c17ba42c41712d2da.png)
 
@@ -145,7 +166,7 @@ https://youtu.be/H5N5_UuK7TI
 
 - [库塔攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)
 - [水明漾攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1il-sYTIMNMSVrVWqSnUPgdlsbCfMPP0&usp=sharing)
-- [长谷攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)
+- [坎古攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)
 - [努阿努创意城攻略地图](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing)
 - [乌布攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 - [金巴兰攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing)
@@ -156,8 +177,14 @@ https://youtu.be/H5N5_UuK7TI
 - [蓝梦岛/金银岛攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)
 - [佩尼达岛攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing)
 
-## 超市必买
+## 超市必购
 
-{{video1}}
+__VID0__
 
 {{block:klook}}
+
+---
+
+👈 **回到巴厘岛自由行终极指南**
+
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

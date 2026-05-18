@@ -1,6 +1,7 @@
 ---
+slug: bali-lunar-new-year-family-tour
 title: "\U0001F389⭐六天五夜巴厘岛农历春节新年亲子游！⭐\U0001F389"
-description: "\U0001F334 六天五夜・轻奢不爆预算・亲子放松首选 \U0001F334  想在农历新年期间参加巴厘岛旅行团吗？  不用自己烦恼行程、不进购物站、不用额外自费——只要带着家人飞来巴厘岛，就能开启一场集自然、海洋、美食与疗愈于一身的假期\U0001F486‍♀️\U0001F418\U0001F30A  \U0001F4B0 超值早鸟价：每人只要 USD$769 ！ "
+description: "\U0001F334 六天五夜・轻奢不爆预算・亲子放松首选 \U0001F334  想在农历新年期间参加巴厘岛旅行团吗？  不用自己烦恼行程、不进购物站、不用额外自费——只要带着家人飞来巴厘岛，就能开启一场集自然、海洋、美食与疗愈于一身的假期\U0001F486‍♀️\U0001F418\U0001F30A  \U0001F4B0 超值早鸟价：每人只要 USD$769！ "
 pubDate: '2025-10-16'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9bbb1be635f75ace1fee102a5b1461cb.png'
 tags:
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/68f0cbf5fd8978000199a4b1'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 03a71c1a1c63fc9a18fd7faaeef1d53c
+_srcHash: ec95bc8359963c86c346e2584b65edc9
 ---
 
 ## 🌴 六天五夜・轻奢不爆预算・亲子放松首选 🌴
@@ -24,7 +25,7 @@ _srcHash: 03a71c1a1c63fc9a18fd7faaeef1d53c
 
 不用自己烦恼行程、不进购物站、不用额外自费——只要带着家人飞来巴厘岛，就能开启一场集自然、海洋、美食与疗愈于一身的假期💆‍♀️🐘🌊
 
-💰 **超值早鸟价：每人只要 USD$769 ！**
+💰 **超值早鸟价：每人只要 USD$769！**
 
 （六日全包行程／限量优惠中）
 
@@ -75,7 +76,7 @@ _srcHash: 03a71c1a1c63fc9a18fd7faaeef1d53c
 - 不用操心、不用赶行程，只需轻松微笑，让全家在巴厘岛的阳光与笑声中迎接新年。
 - 可以增加天数客制化。
 
-### 👉 想知道完整行程与报名方式？快私讯我们，名额有限！ **跟客服接洽时输入【Baligo\_NewYear】享有观光税全额补助喔！**
+### 👉 想知道完整行程与报名方式？快私讯我们，名额有限！ **跟客服接洽时输入【Baligo_NewYear】享有观光税全额补助喔！**
 
 ---
 
@@ -87,7 +88,7 @@ _srcHash: 03a71c1a1c63fc9a18fd7faaeef1d53c
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dba2706ee1cecdc012cf19a14dc60ae1.jpg)
 
-### [联系方式三] Facebook Messenger:
+### [联系方式三] Facebook messenger:
 
 <https://www.facebook.com/isbali.fb>
 

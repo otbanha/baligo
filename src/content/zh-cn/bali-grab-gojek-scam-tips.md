@@ -1,4 +1,5 @@
 ---
+slug: bali-grab-gojek-scam-tips
 title: 巴厘岛APP网约车司机的套路：如何避免Grab/Gojek陷阱？
 description: >-
   在巴厘岛旅行时，使用Grab或Gojek等网约车是许多游客会选择的一种短程交通工具。这种网约车通过app叫车，有着明码实价的优点。然而，游客有时也会遇到一些不良司机，使旅程变得不愉快。以下是两个真实的故事，分享一些常见的网约车套路，希望大家能在旅行中多加注意，避免类似的麻烦...
@@ -14,10 +15,10 @@ originalUrl: 'https://vocus.cc/article/66546581fd8978000119d572'
 category:
   - 叫車包車
 lang: zh-cn
-_srcHash: eabc12f89adb48a92bce9ad44748b5d5
+_srcHash: 052998ffde8cd72399993d7c7e9ac653
 ---
 
-[🚗 想預估 Gojek 車資？請點擊這裡](https://gobaligo.id/map/gojek-fare/)
+[🚗 想预估 Gojek 车资？请点击这里](https://gobaligo.id/map/gojek-fare/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_72483fb674d60d0dceccf75d9c20caa6.png)
 
@@ -56,3 +57,9 @@ _srcHash: eabc12f89adb48a92bce9ad44748b5d5
 在阅读我们的「巴厘岛自由行究极旅行攻略」之前，我们诚挚地邀请您先订阅我们更多视觉体验分享的YouTube频道「小杰 印尼」。[点击这里](http://bit.ly/youtube-jason)[，立即订阅](http://bit.ly/youtube-jason)
 
 订阅完成后，您可以立即继续阅读我们详尽的攻略，深入探索巴厘岛的每个精彩角落。点击「[巴厘岛自由行究极旅行攻略](/blog/2023-08-22-64e37f2dfd89780001b1f776/)」，开始准备您的巴厘岛之旅！
+
+---
+
+👈 **回到巴厘岛自由行终极指南**
+
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

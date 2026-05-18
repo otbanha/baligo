@@ -1,4 +1,5 @@
 ---
+slug: bali-canang-sari-explained
 title: 【巴厘岛文化百科】Canang Sari 扎囊萨利：路边彩色小祭篮的意义、色彩象征与祭拜习俗全解析
 description: >-
   走在巴厘岛街头随处可见的精致小竹篮是什么？深度解析 Canang
@@ -20,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_38eac710ef37ffaf4bfdd348e071bb02.jpg'
 originalUrl: 'https://vocus.cc/article/66964aa7fd89780001c7051c'
 lang: zh-cn
-_srcHash: 27f01149f3e4f81709f91b6a765b5c94
+_srcHash: 3cc9736976a4c8437caa494edfea60c6
 ---
 
 巴厘岛，这片充满魅力的土地，不仅以其美丽的风景和热情好客的人民而著称，还以其深厚的宗教与文化传统吸引着世界各地的游客。在这些传统中，Canang sari （扎囊萨利）是巴厘岛每日祭拜习俗中不可或缺的一部分。这些精致的祭品随处可见，从家门口到寺庙，一切都弥漫着敬拜和虔诚的气息。
@@ -43,7 +44,7 @@ canang sari 扎囊萨利
 
 **Beras** 或大米，象征着生命的种子，代表灵魂的存在。
 
-**Porosan** 由槟榔叶、石灰和槟榔果组成，象征三重力量：思想、言语和行动。
+**Porosan** 是由槟榔叶、石灰和槟榔果组成，象征三重力量：思想、言语和行动。
 
 **Jajan、tebu 和 pisang** 象征着宇宙中的三大力量：创造、维持和毁灭。
 
@@ -55,7 +56,7 @@ canang sari 扎囊萨利
 
 **Lepa** 或香膏，象征着良好的行为和道德。
 
-**香水** 或香水，象征着内心的平静和自我控制。
+**Minyak wangi** 或香水，象征着内心的平静和自我控制。
 
 这些元素共同组成了一个完整的 Canang sari，每一个部分都有其特定的象征意义。
 
@@ -82,6 +83,16 @@ https://youtube.com/shorts/TNB1hIHjsog
 ## **常见问题解答**
 
 1. **为什么 Canang sari 如此重要？**
+2. - Canang sari 是日常祭拜中不可或缺的部分，象征着对神灵的敬意和感恩。
+3. **制作 Canang sari 需要多少时间？**
+4. - 视乎复杂程度，制作一个 Canang sari 可能需要几分钟到半小时不等。
+5. **Canang sari 是否有规定的制作方式？**
+6. - 虽然有一定的传统规范，但不同家庭和地区可能有自己的制作方式。
+7. **Canang sari 的象征意义是什么？**
+8. - 每个组成部分都有其特定的象征意义，总体上代表对神灵的敬意和生活的智慧。
+9. **巴厘岛以外的地方是否也有类似的习俗？**
+10. - 在印度教影响的地区，如印度和尼泊尔，也有类似的祭拜习俗。
+11. **为何巴厘岛的Canang sari常见鸡蛋花？**
 
 在 Canang sari 中，鸡蛋花（Frangipani）是一种常见的花朵。这是因为鸡蛋花在巴厘岛的文化和宗教仪式中具有特殊的象征意义。以下是鸡蛋花在 Canang sari 中常见的原因：
 

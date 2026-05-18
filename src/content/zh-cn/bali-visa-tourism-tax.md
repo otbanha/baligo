@@ -1,4 +1,5 @@
 ---
+slug: bali-visa-tourism-tax
 title: 巴厘岛入境新规：签证申请+旅游税/观光税同步缴费制度启动
 description: 巴厘岛宣布将旅游税/观光税纳入签证申请流程，让游客更方便缴纳同时提升税收效率。
 pubDate: '2025-10-06'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/68e36431fd89780001eea4fa'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 1828087da06ed67a1a46993213d517a6
+_srcHash: d94fd7944146d4e71a5ed1b16dec5a30
 ---
 
 ## **巴厘岛旅游税新规简介**
@@ -94,7 +95,7 @@ A4. 建议保存电子收据，以备入境时查验。
 
 A5. 主要用于 **环境保护、基础设施建设** 以及 **旅游设施改善**。
 
-## 📩 **「巴厘岛旅游攻略」首页说明**
+## 📩 **「巴厘岛旅游攻略」首页说明
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 

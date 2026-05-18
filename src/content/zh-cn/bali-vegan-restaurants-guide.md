@@ -1,6 +1,6 @@
 ---
 title: 【巴厘岛素食地图】Top 26 间必访素食友善餐厅：从乌布生食美学到库塔创意蔬食，无肉者也疯狂的美味指南
-slug: ''
+slug: bali-vegan-restaurants-guide
 description: >-
   谁说巴厘岛只有脏鸭餐？本文为您开启巴厘岛素食探索之旅，精选 26
   间遍布乌布、水明漾与坎古的优质素食友善餐厅。无论您是全素（Vegan）、蛋奶素，还是热爱健康饮食的弹性素食者，这里有最道地的天贝（Tempeh）料理与创意植物基飨宴，让您在岛屿度假也能吃出质感与健康！
@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777694520071-vegan.png'
 originalUrl: 'https://vocus.cc/article/66dc687afd8978000151d046'
 lang: zh-cn
-_srcHash: 6dfb4a1b5e9bf396144793148e226eae
+_srcHash: 92b1a4f00b49d70deaf4be5b7ba6c084
 ---
 
 巴厘岛作为全球知名的旅游胜地，不仅吸引了爱好冒险、文化探索的旅人，对素食爱好者而言，更是一个充满惊喜的美食天堂。无论是在悠闲的坎古(Canggu)、潮流汇集的水明漾(Seminyak)，还是文化丰富的乌布(Ubud)和高端度假的努沙杜瓦(Nusa Dua)，你都能找到许多素食友善的餐厅。这些餐厅不仅以创新的菜色和营养丰富的餐点著称，更是环保与健康饮食的倡导者。许多餐厅获得了Tripadvisor【Travelors' Choice】的殊荣。

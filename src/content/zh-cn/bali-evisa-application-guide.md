@@ -1,4 +1,5 @@
 ---
+slug: bali-evisa-application-guide
 title: 印尼/巴厘岛电子签证eVisa/eVoa全攻略：申请步骤、注意事项一次掌握！
 description: >-
   印尼的电子签证（eVoA）是一项方便且快速的签证申请方式。此外，电子签证的优势包括免去下飞机后排队落地签证的繁琐程序，并且在2024年起可以享受完全不用排队的电子通关服务。这种签证有效期为30天，并可延长一次，最长居留60天。对于计划前往印尼的旅客来说，电子签证是一种便利且效率高的选择。
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65c217c5fd897800010113af'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 409500fe7cbcdd0d3d42d0cbfda693ea
+_srcHash: c8235b84f8a3e602e7d16715837cb27d
 ---
 
 ## **什么是电子签证？**

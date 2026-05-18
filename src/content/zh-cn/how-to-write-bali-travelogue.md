@@ -1,4 +1,5 @@
 ---
+slug: how-to-write-bali-travelogue
 title: 如何写一篇精彩的巴厘岛游记
 description: 您也想贡献您的精彩游记吗？以下是写一篇精彩游记的实际有用格式与建议
 pubDate: '2024-07-06'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6688bd5dfd897800017d0fa2'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 87201edaa15e8f27f6f1b192f2ac76b2
+_srcHash: e7132c4ba5c855660e7e56a6a545db72
 ---
 
 您是否曾在 [[巴厘岛/印尼吃喝玩乐](https://www.facebook.com/groups/indonesia.travelguide/)] 或是[[Go Bali Go 巴厘岛旅游](https://www.facebook.com/groups/baligo/)]脸书社团上寻求大家的建议，或是参考了本网志收集的 40 多篇团友游记？这些信息相信对大家的行程规划提供了不小的帮助。

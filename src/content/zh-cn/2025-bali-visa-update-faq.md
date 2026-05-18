@@ -1,4 +1,5 @@
 ---
+slug: 2025-bali-visa-update-faq
 title: 2025最新入境印尼巴厘岛签证改版 FAQ
 description: >-
   要入境印尼/巴厘岛申请电子签证吗？印尼移民总局近日将电子签证（EVOA）申请种类进行改版，原本的 B213
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/65a7f34dfd897800010017db'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 181785bda9755057b8681e5b43ac220d
+_srcHash: c25e24b122634bda0f07c9acbaf5c468
 ---
 
 印尼政府从2024年一月七日起，将签证类赋予新的编号，并引入了新的旅游和商务签证类型和停留期限。一共有八种签证类别，包含了投资签证和退休签证等。详细请看到最后。
@@ -56,11 +57,11 @@ B1 观光签证是单次入境签证，有效期为30天，仅限于观光、政
 **费用和支付方式：**
 
 - 观光签证费用为 IDR 500,000。
-- 支付时使用信用卡会产生额外费用（外加IDR19,500），请确认您的信用卡是否支持国际交易。
+- 支付时使用信用卡会产生额外费用（外加IDR19,500），请确认您的信用卡是否支援国际交易。
 
 **申请资格：**
 
-- 所有旅客，包括婴儿和儿童，均需持有个人旅游签证。
+- 所有旅客，包括婴儿和儿童，均需持有个别观光签证。
 - 护照有效期至少为6个月。
 - 申请资料不得与护照信息有任何出入，**否则签证将失效且不予退款**。
 
@@ -105,3 +106,9 @@ B1 观光签证是单次入境签证，有效期为30天，仅限于观光、政
 
 ➡️[找巴厘岛住宿请看这里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
 ➡️[更多巴厘岛超值优惠请点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
+
+---
+
+👈 **回到巴厘岛自由行终极指南**
+
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

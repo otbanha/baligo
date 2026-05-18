@@ -1,4 +1,5 @@
 ---
+slug: bali-earthquake-risk-explained
 title: 巴厘岛会不会发生超大地震？这是解释
 description: 专家近日指出，巴厘岛可能面临发生「巨型逆冲断层」地震的潜在风险    巴厘岛南部正是位于这类板块交界的高
 pubDate: '2024-08-18'
@@ -13,9 +14,8 @@ originalUrl: 'https://vocus.cc/article/66c16fdefd897800015d7148'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: e9c9d9edcbb45eab66e84ddb3837bef2
+_srcHash: dbb5dbf95b86cadfd7e7080ee12bc7a0
 ---
-
 专家近日指出，巴厘岛可能面临发生「巨型逆冲断层」地震的潜在风险，这种地震的震源位于巴厘岛南部海域。印尼万隆理工学院地震学教授伊尔万·美拉诺解释说，巨型逆冲断层地震通常发生在板块交界处，并且规模往往超过8级。这些地震会造成地壳剧烈移动，从而引发海啸等严重灾害。
 
 ![印尼的幾個可能發生超大地震的震點](https://images.gobaligo.id/vocus/vocus_07166b249c6efdf7ffb9ba46d68be6b1.jpg)
@@ -50,10 +50,10 @@ _srcHash: e9c9d9edcbb45eab66e84ddb3837bef2
 
 ✅深度攻略，让你的行程既省钱又无忧  
 
-✅独家推荐的私房景点与当地美食地图
+✅独家推荐的私房景点与当地美食地图  
 
-✅在Facebook社群上看不到的内容
+✅在Facebook群组上看不到的内容
 
-✅收集最多团友的行程规划建议，让每次旅行都是无缝体验
+✅收集最多群友的行程规划建议，让每次旅行都是无缝体验
 
 用谷歌或Facebook账号即可轻松完成注册！

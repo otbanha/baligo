@@ -1,4 +1,5 @@
 ---
+slug: bali-google-maps-warning
 title: 在巴厘岛别相信Google地图！
 description: 依赖Google地图寻找路线的游客来说，在巴厘岛可能会遇到一些困难...
 pubDate: '2024-03-19'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65ebd5ecfd89780001cf6c8b'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: b0544bc6501fbf1ab33199d97f5f71bc
+_srcHash: 1c12dbfc89c42d101e88f86c54cb151f
 ---
 
 在巴厘岛别相信Google地图！巴厘岛是一个令人向往的度假胜地，但是对于依赖Google地图寻找路线的游客来说，可能会遇到一些挑战。这里有两个主要的原因，让你在计划旅程时要谨慎对待Google地图。

@@ -1,4 +1,5 @@
 ---
+slug: bali-news-april-20-2026
 title: 2026-04-20 巴厘岛新闻
 description: ''
 pubDate: 2026-04-20T00:00:00.000Z
@@ -14,7 +15,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 899386e492e349daf0acb980828a98a7
+_srcHash: b88dde6bf2714622a360c81774f1d571
 ---
 
 【今早美金汇率：16,650】

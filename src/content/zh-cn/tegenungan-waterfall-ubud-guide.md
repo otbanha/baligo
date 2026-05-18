@@ -1,4 +1,5 @@
 ---
+slug: tegenungan-waterfall-ubud-guide
 title: >-
   巴厘岛游记｜你所不知道的印尼巴厘岛瀑布秘密！｜乌布景点老司机带路 赏瀑布免铁腿｜离乌布最近的瀑布 Tegenungan Waterfall（繁/简/Eng
   Sub）
@@ -17,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/64db6b71fd897800013a942c'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 49a291bc739c4aea8e61d930243cbd20
+_srcHash: adc1a772232d8fa54d5d63697dcd68a8
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_58deb853e5219dd7c4a2a06f4c88a79f.jpg)

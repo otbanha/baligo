@@ -1,4 +1,5 @@
 ---
+slug: bali-drug-laws-warning
 title: 印尼/巴厘岛旅游禁忌：千万不要碰这个东西！
 description: 在印尼/巴厘岛持有或贩卖毒品，都有极大的可能让你后悔一生！
 pubDate: '2024-03-19'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65f8dca4fd89780001b57754'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: b8cf3682ddfb742a734294f88ae0fccd
+_srcHash: 180d03f30b0de0af0035fb3af4bc55e1
 ---
 
 印尼是一个对毒品问题采取极端严厉态度的国家，而巴厘岛作为其著名的旅游胜地也不例外。毒品在这里被视为极大的社会问题，印尼政府采取了严格的法律措施来打击毒品犯罪活动。

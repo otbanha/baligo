@@ -1,4 +1,5 @@
 ---
+slug: bali-world-travel-awards-2024
 title: 《World Travel Awards》巴厘岛荣获2024年度全球最浪漫旅游目的地殊荣
 description: >-
   巴厘岛再次向世人证明了其不可撼动的地位，荣获2024年度「全球最浪漫旅游目的地」的殊荣！作为东南亚首个获此殊荣的地区，巴厘岛以其独特的自然美景、文化氛围和无与伦比的浪漫魅力，征服了来自世界各地的旅客和评审的心。
@@ -15,7 +16,7 @@ category:
   - 家庭親子
   - 旅行技巧
 lang: zh-cn
-_srcHash: 2a1f9f64c1e8b935b1a2fbe605caad7b
+_srcHash: c02e59f8a5672cfdc7aa877fb248aa57
 ---
 
 巴厘岛再次向世人证明了其不可撼动的地位，荣获2024年度「[全球最浪漫旅游目的地](https://www.worldtravelawards.com/award-worlds-most-romantic-destination-2024)」的殊荣！作为东南亚首个获此殊荣的地区，巴厘岛以其独特的自然美景、文化氛围和无与伦比的浪漫魅力，征服了来自世界各地的旅客和评审的心。
@@ -26,7 +27,7 @@ _srcHash: 2a1f9f64c1e8b935b1a2fbe605caad7b
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_af426de64cc37e8302ca86645a9ec988.png)
 
-在2024年的「世界旅游大奖」（World Travel Awards）中，巴厘岛击败了众多世界知名旅游地，包括智利的阿塔卡马沙漠（Atacama Desert）、圣卢西亚（St Lucia）、塞舌尔群岛（Seychelles）、巴哈马（The Bahamas）以及特克斯（Turks）与凯科斯群岛（Caicos），成为全球最浪漫的旅游目的地。
+在2024年的「世界旅游大奖」（World Travel Awards）中，巴厘岛击败了众多世界知名旅游地，包括智利的阿塔卡马沙漠（Atacama Desert）、圣露西亚（St Lucia）、塞舌尔群岛（Seychelles）、巴哈马（The Bahamas）以及特克斯（Turks）与凯科斯群岛（Caicos），成为全球最浪漫的旅游目的地。
 
 巴厘岛的魅力不仅限于蜜月情侣，它也为寻求自我疗愈的单身旅客以及希望重燃爱火的夫妻提供了一个灵感与爱的避风港。无论是令人心旷神怡的乌布稻田、繁华的水明漾，还是艾湄湾的静谧海岸，巴厘岛的每一个角落都散发着浪漫气息。
 

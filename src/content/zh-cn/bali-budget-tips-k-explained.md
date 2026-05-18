@@ -1,4 +1,5 @@
 ---
+slug: bali-budget-tips-k-explained
 title: 巴厘岛旅游预算指南：看懂价格中的「K」如何帮助您控制预算
 description: 在印尼/巴厘岛消费常看到数字后面有一个K，那是什么意思呢？
 pubDate: '2023-08-24'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64e730ddfd89780001336a09'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 4c29f3c3182d4206bfba6c91c35e76aa
+_srcHash: a9b230fa7568ef3fad8b658eb23a32ea
 ---
 
 **在印尼/巴厘岛消费常看到数字后面有一个K，那是什么意思呢？**

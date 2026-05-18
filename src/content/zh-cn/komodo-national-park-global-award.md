@@ -1,4 +1,5 @@
 ---
+slug: komodo-national-park-global-award
 title: 【全球景点评比】印尼科莫多获选全球最美旅游胜地
 description: >-
   知名旅游资源平台《Time Out
@@ -16,7 +17,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-cn
-_srcHash: a934521abe107bdc7befee51aebab8b5
+_srcHash: 26a0520b8d58360c32450fc57ccc750d
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0a004c49dc307d97ded63cf44e4a774b.jpg)

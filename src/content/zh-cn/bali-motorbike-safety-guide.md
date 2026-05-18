@@ -1,4 +1,5 @@
 ---
+slug: bali-motorbike-safety-guide
 title: 巴厘岛摩托车事故自救指南：国际驾照规定、保险理赔漏洞与如何安全移动全攻略
 description: >-
   在巴厘岛骑摩托车真的安全吗？针对近期频发的年轻游客事故，整理出最完整的安全防护清单。解析为何「摩托车驾照」与「IDP
@@ -21,10 +22,10 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_450b43c94fd0f97234ac5adee8b3a41c.jpg'
 originalUrl: 'https://vocus.cc/article/66670c4afd897800019dcac7'
 lang: zh-cn
-_srcHash: 52e654845888ea2a6ec18bd7cdbc04f2
+_srcHash: 4550e0d101e490a8524bc8508cd7086f
 ---
 
-近日，一名来自我们Facebook社团的团友Poon分享了他在巴厘岛的旅游经历，强调了旅游安全的重要性，尤其是骑摩托车时的风险。他提醒其他旅客，在巴厘岛游玩时一定要特别注意安全。
+近日，一名来自我们脸书社团的团友Poon分享了他在巴厘岛的旅游经历，强调了旅游安全的重要性，尤其是骑摩托车时的风险。他提醒其他旅客，在巴厘岛游玩时一定要特别注意安全。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b84e8bf33672e13070024de3c98fb7bc.jpg)
 
@@ -57,3 +58,9 @@ https://youtube.com/shorts/fXVYdj4SZT0?si=YfMVHvDIsYBgs6D9
 希望所有即将前往巴厘岛的旅客，能够度过一个既安全又愉快的假期。
 
 {{block:戶外}}
+
+---
+
+👈 **回到巴厘岛自由行终极指南**
+
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

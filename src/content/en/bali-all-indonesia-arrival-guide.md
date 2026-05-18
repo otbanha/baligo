@@ -1,16 +1,16 @@
 ---
+slug: bali-all-indonesia-arrival-guide
 title: >-
-  【2026 Edition】Bali, Indonesia Entry Using the 'All Indonesia' Arrival
-  Card｜1-Minute Guide to the Latest Process: From Landing to Customs to Baggage
-  Claim
+  【2026 Edition】Using the "All Indonesia" Arrival Card for Bali Entry｜1-Minute
+  Guide to the Latest Process: From Deplaning to Customs to Baggage Claim
 description: >-
-  Planning a trip to Bali in 2026? Here's a complete breakdown of the latest
-  Electronic Customs Declaration (ECD) and the 'All Indonesia' system. This
-  illustrated guide walks you through the newest procedures at Ngurah Rai
-  International Airport (DPS): from disembarking, scanning QR Codes, clearing
-  customs, to collecting your luggage. Updated tips on tourist tax payment and
-  Visa on Arrival (VoA) processing to help you breeze through immigration and
-  start your perfect island getaway.
+  Planning a trip to Bali in 2026? Here’s a complete breakdown of the latest
+  Electronic Customs Declaration (ECD) and the "All Indonesia" system. This
+  guide provides a step-by-step visual walkthrough of the newest procedures at
+  Ngurah Rai International Airport (DPS): from deplaning, scanning the QR Code,
+  clearing customs, to collecting your luggage. Updated tips on tourist tax
+  payment and Visa on Arrival (VoA) processing are also included to help you
+  breeze through immigration and kick off your perfect island getaway.
 pubDate: 2025-08-14T00:00:00.000Z
 category:
   - 簽證通關
@@ -32,31 +32,30 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_79df9229a3131a48507912ff8ed38f07.png'
 originalUrl: 'https://vocus.cc/article/689dcce7fd8978000125fc52'
 lang: en
-_srcHash: 2e37cfa7e21993d7dd36b54b8b59c386
+_srcHash: 48bc7f1293cfd32273f6f5013254ec1a
 ---
+### **📢 Important Update! Starting August 18, 2025, Indonesia Fully Implements the "All Indonesia" Arrival Card Declaration System**
 
-### **📢 Important Update! Starting August 18, 2025, Indonesia Fully Implements the 'All Indonesia' Arrival Card Declaration System**
-
-From this date forward, **no more separate forms** for Customs Declaration (e-CD) and Health Declaration (SSHP). Both processes are now integrated into the [**All Indonesia Platform**](https://allindonesia.imigrasi.go.id/) (abbreviated as 'AIAC', All Indonesia Arrival Card), significantly simplifying entry procedures!
+From this date forward, **there’s no need to separately fill out** the Customs Declaration (e-CD) and Health Declaration (SSHP). Both processes are now integrated into the [**All Indonesia Platform**](https://allindonesia.imigrasi.go.id/) (referred to as "AIAC", All Indonesia Arrival Card), significantly simplifying the entry process!
 
 ***
 
-## **🚀 Latest Bali Entry Process for 2026** (From Landing to Baggage Claim)
+## **🚀 Latest 2026 Bali Entry Process** (From Deplaning to Baggage Claim)
 
-### **Pre-Departure Must-Dos**:
+### **Pre-Departure Essentials**:
 
-1. Ensure you've applied for an eVisa beforehand. Refer to [this guide](/blog/2024-02-06-65c217c5fd897800010113af/) for detailed instructions to avoid scam websites.
-2. Complete the AIAC Arrival Card three days before departure and **take a screenshot of the QR Code** for reference. Check out our compiled [FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/) for common questions.
+1. Make sure to apply for your eVisa in advance. Refer to [this guide](/blog/2024-02-06-65c217c5fd897800010113af/) for further details and avoid scam websites.
+2. Complete the AIAC Arrival Card three days before departure and **screenshot the QR Code** for reference. Check out our [FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/) for common questions.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
 
-### **1️⃣ Disembarking**
+### **1️⃣ Deplaning**
 
-- Follow the airport's 'Arrival' signs to the immigration hall.
+- Follow the airport "Arrival" signs to the immigration hall.
 
-### **2️⃣ Processing Visa on Arrival (VoA)**
+### **2️⃣ Applying for Visa on Arrival (VoA)**
 
-- **If you haven't applied for an eVisa in advance**, you'll need to queue at the 'Visa on Arrival' counter to pay the fee (2025 fee: 500,000 IDR, approximately USD$32).
+- **If you haven't applied for an e-Visa in advance**, you'll need to queue at the 'Visa on Arrival' counter to pay the fee (2025 fee: 500,000 IDR, approximately USD$32).
 - Those holding an eVisa/eVoA can skip this step.
 
 ### **3️⃣ Immigration Check (Passport Stamping)**
@@ -64,51 +63,51 @@ From this date forward, **no more separate forms** for Customs Declaration (e-CD
 - **Queue Counter**: Those with a Visa on Arrival need to queue for inspection.
 - **E-Gate**: Those who have applied/paid for an eVisa in advance can skip the manual stamping queue and use the 'Automatic E-Gate'.
 
-▶️ How to use the automatic e-gate? Check out [Bali Automatic E-Gate Process Guide](/blog/2024-02-06-65c1defcfd89780001f79bfd/)
+▶️ How to use the automatic e-gate? Check out our [Bali Automatic E-Gate Process Guide](/blog/2024-02-06-65c1defcfd89780001f79bfd/)
 
-### **4️⃣ Collect Your Luggage**
+### **4️⃣ Baggage Claim**
 
-- After passing through immigration/automatic e-gate, proceed to the baggage carousel according to your flight number to collect your luggage.
+- After passing through immigration/the automatic e-gate, proceed to the carousel according to your flight number to collect your luggage.
 - 💡 **Tip**: Luggage can be slow, so it's recommended to attach a distinctive luggage tag to prevent mix-ups.
 
 ### **5️⃣ Health Declaration (Integrated into AIAC)**
 
-- **No need to fill out the old SSHP health declaration**! The new system already includes the health declaration, just present your QR Code for scanning.
+- **No need to fill out the old SSHP health declaration**! The new system includes the health declaration, just show the QR Code for scanning.
 
-### **6️⃣ Customs Check (Integrated into AIAC)**
+### **6️⃣ Customs Inspection (Integrated into AIAC)**
 
-After collecting your luggage, proceed through the customs checkpoint.
+After collecting your luggage, proceed through the customs inspection checkpoint.
 
 - Present the AIAC QR Code directly.
-- **Prohibited items**: Meat, fruits, excess foreign currency (>100 million IDR), etc. Violators will face heavy fines.
+- **Prohibited items**: Meat, fruits, excess foreign currency (>100 million IDR), etc. Violators will be heavily fined.
 
 ### **7️⃣ Pay Bali Tourism Tax**
 
-- Cost: 150,000 IDR per person (approx. USD$10).
+- Cost: 150,000 IDR/person (approx. USD$10).
 
-▶️ How to pay? See [Tourism Tax](/blog/2024-01-03-65955989fd89780001a95927/) instructions
+▶️ How to pay? See the [Tourism Tax](/blog/2024-01-03-65955989fd89780001a95927/) guide.
 
-👉**Additional info:** [Guide to Indonesian/Bali Visa for Kids/Children](/blog/2025-12-24-694bf0d9fd89780001214e1c/)
+👉**Additional Info:** [Guide to Indonesian/Bali Visas for Children](/blog/2025-12-24-694bf0d9fd89780001214e1c/)
 
-## ⏰ How early should you apply?
+## ⏰ How far in advance should you apply?
 
-See the chart for a clear overview
+The chart makes it clear at a glance.
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776906855235-chatgpt_image_2026_4_23_08_13_09.png)
 
 ***
 
-## **✅ Pre-trip Checklist**
+## **✅ Pre-Trip Checklist**
 
 1. **Passport** (validity >6 months)
-2. **_E-Visa_ or _Cash/Credit Card for Visa on Arrival_**
+2. **_eVisa_ or _cash/card for Visa on Arrival_**
 3. **All Indonesia QR Code** (replaces customs declaration and health statement)
 4. **Tourism Tax payment proof** (digital or printed)
-5. **Return flight ticket, accommodation booking** (may be checked by immigration officers)
+5. **Return ticket, accommodation booking** (may be checked by immigration officers)
 
 ***
 
-## **💡 Common Issues When Applying for E-Visa/All Indonesia**
+## **💡 Common Issues When Applying for eVisa/All Indonesia**
 
 Please refer to [our FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)
 
@@ -118,10 +117,16 @@ Please refer to [our FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)
 
 **Start Enjoying Your Vacation!**
 
-After clearing customs, congratulations on completing the entry process! Now head to the arrival hall to meet your pre-booked driver or family and friends, and begin your wonderful journey!
+After clearing customs, congratulations on completing the entry process! Now you can head to the arrival hall to meet your pre-booked driver or family and friends, and start your wonderful journey!
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4e41a1f6d506de9fed49c3228e4407a8.png)
 
 **📌 Share with Friends Who Are About to Travel to Avoid Getting Stuck!**
 
 {{block:klook}}
+
+---
+
+👈 **Back to the Ultimate Bali Travel Guide**
+
+Want to see the complete beginner's guide? [Click here to read "The Ultimate Bali Travel Guide 2026"](/blog/bali-ultimate-guide-2026/) and understand everything you need to do before your trip.

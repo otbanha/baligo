@@ -1,4 +1,5 @@
 ---
+slug: bali-girls-trip-5-days
 title: "巴厘岛Girls Trip\U0001F467：上山下海的五天游记"
 description: 在巴厘岛的这段五天四夜之旅中，从观赏日出到浮潜，再到丛林瑜伽，每一个瞬间都弥漫着惊奇与美好。
 pubDate: 2024-06-20T00:00:00.000Z
@@ -13,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4247795b82aced2551357471c02657b1.jpg'
 originalUrl: 'https://vocus.cc/article/6628aadefd897800018ca028'
 lang: zh-cn
-_srcHash: 57d25c64f54c2f630198bf564e1b6d88
+_srcHash: 941b8ea3e44bf986f009d21a172b638c
 ---
 
 在巴厘岛的这段五天四夜之旅中，Clairejenjen 和她的朋友们探索了巴厘岛独特而多样的魅力。他们的行程充满了多姿多彩的活动和精彩的体验，从观赏日出到浮潜，再到丛林瑜伽，每一个瞬间都弥漫着惊奇与美好。
@@ -80,7 +81,7 @@ https://www.youtube.com/watch?v=faJH5pOjzpo
 
 {{block:戶外}}
 
-您觉得他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 

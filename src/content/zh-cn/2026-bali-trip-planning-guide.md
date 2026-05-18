@@ -1,4 +1,5 @@
 ---
+slug: 2026-bali-trip-planning-guide
 title: 【2026 巴厘岛自由行】7 步骤轻松规划完美旅程：机票、签证、区域选择与包车全攻略
 description: >-
   第一次去巴厘岛？这份 7 步骤规划攻略让您从新手变专家！从挑选最佳旅游季节、办理电子签证
@@ -23,7 +24,7 @@ tags:
 heroImage: ''
 originalUrl: 'https://vocus.cc/article/65708c78fd89780001f418c2'
 lang: zh-cn
-_srcHash: 1e0e25ff465f76f787d689ec02939250
+_srcHash: d18ec74954ea3ba9ac0f22f362502329
 ---
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775559929868-bali-4033395_960_720.jpeg)
@@ -163,7 +164,13 @@ https://youtu.be/MdQYUy31LiY?si=s6E1DVtnKybOmlLB
 
 **延伸阅读：**
 
-- [巴厘岛旅游注意事项：第一次去巴厘岛必看的33项旅游攻略](/blog/2024-02-01-65b60902fd89780001ec8bb1/)
+- [巴厘岛旅游注意事项：第一次去巴厘岛必看的33项旅游攻略](/blog/bali-ultimate-guide-2026/)
 - [巴厘岛不踩雷攻略：18个常见错误与建议](/blog/2024-10-20-6714c06cfd8978000116322a/)
 
 {{block:攻略}}
+
+---
+
+👈 **回到巴厘岛自由行终极指南**
+
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

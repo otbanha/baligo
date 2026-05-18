@@ -1,4 +1,5 @@
 ---
+slug: bali-credit-card-payment-tips
 title: 游巴厘岛必知：提防刷卡结账的陷阱
 description: 选错的话刷卡会多出5%金额哦！
 pubDate: '2024-03-26'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6602bc60fd89780001f34c70'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: c6113343d53373edd3ffbf05fd8c9875
+_srcHash: d10b5935f408eec65e0017f579c9412d
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_49bc8b6c7bfea6941ddd4b975868e7a0.png)

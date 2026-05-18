@@ -1,7 +1,8 @@
 ---
+slug: gojek-bali-guide
 title: 在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略
 description: >-
-  如果您正在计划前往巴厘岛，或者是身处印尼，那么Gojek绝对是您旅行中不可或缺的APP。让我们一起来探索这款引领潮流的便利工具，以及它对您的旅程所带来的改变。
+  如果您正在计划前往巴厘岛，或者是身处印尼，那么Gojek绝对是您旅行中不可或缺的APP。让我们一起来探索这款引领潮流的便利工具，以及它对您的旅程所带来的改变。 
 pubDate: '2023-08-20'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_015877549b862e625956b9ace10cf456.jpg'
 tags:
@@ -14,12 +15,12 @@ originalUrl: 'https://vocus.cc/article/64e187dffd897800017304fe'
 category:
   - 叫車包車
 lang: zh-cn
-_srcHash: 393d5f6001ee5c7018f0424960819742
+_srcHash: 13f1edb4e28c5ccb5634a54420b4f670
 ---
 
-[🚗 想預估 Gojek 車資？請點擊這裡](https://gobaligo.id/map/gojek-fare/)
+[🚗 想预估 Gojek 车资？请点击这里](https://gobaligo.id/map/gojek-fare/)
 
-如果您正在计划前往巴厘岛，或者是身处印尼，那么Gojek绝对是您旅行中或生活中不可或缺的APP。让我们一起来探索这款引领潮流的便利工具，以及它对您的旅程所带来的改变。
+如果您正在计划前往巴厘岛，或者是身处印尼，那么Gojek绝对是您旅行或生活中不可或缺的APP。让我们一起来探索这款引领潮流的便利工具，以及它对您的旅程所带来的改变。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b1addd430f34b7a65092885063d5a3e5.jpg)
 
@@ -47,3 +48,8 @@ Gojek不仅仅是一款APP，更是一种简单便利的生活方式。它整合
 
 ## 这里有教学👇🏼👇🏼
 
+---
+
+👈 **回到巴厘岛自由行终极指南**
+
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

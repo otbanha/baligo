@@ -1,4 +1,5 @@
 ---
+slug: raffles-bali-luxury-review
 title: 巴厘岛莱佛士酒店 (Raffles Bali) 完整指南：超越五星的私密度假村与顶级餐厅开箱
 description: >-
   探索金巴兰湾的世外桃源！2026 巴厘岛莱佛士酒店全攻略。解析 Rumari
@@ -20,8 +21,9 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0b331a54ea34e5eb429807b8f9127732.jpg'
 originalUrl: 'https://vocus.cc/article/68ba99a2fd89780001052dd2'
 lang: zh-cn
-_srcHash: 545f3553852f603bd1066a14f8d4c30a
+_srcHash: 7ef496070523bbb1017cb406ce8db706
 ---
+
 ### 三个独特餐饮时刻，带来非凡感官盛宴
 
 位于巴厘岛金巴兰湾的 **莱佛士酒店（Raffles Bali）**，在 2024 年荣登全球最佳奢华酒店之一，不仅以静谧私密的度假氛围闻名，更以超越五星级的用餐体验惊艳旅人。被热带绿意环抱，坐拥壮阔的印度洋与专属隐秘沙滩，这里的餐饮场景不只是美食，更是一场记忆深刻的旅程。
@@ -50,7 +52,7 @@ _srcHash: 545f3553852f603bd1066a14f8d4c30a
 
 **供应时间**：15:00 – 17:30
 
-**价格**：每人 Rp 427,900
+**价格**：每人 USD$28
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5f7f7fb805c00c79b0e78731b462ad1e.png)
 
@@ -106,6 +108,5 @@ _srcHash: 545f3553852f603bd1066a14f8d4c30a
 ## 同场加映：
 
 - [【巴厘岛美食体验记】Alila Villas Uluwatu Brisa Brunch：悬崖边的周日味觉盛宴](/blog/2025-06-08-68451457fd89780001df60be/)
-- [巴厘岛凯宾斯基下午茶游记：Selasar Deli的梦幻午后时光](/blog/2025-05-25-6832c6c0fd897800014776ba/)
 
 {{block:蜜月}}

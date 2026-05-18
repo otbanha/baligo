@@ -1,4 +1,5 @@
 ---
+slug: bali-tipping-guide-driver-spa
 title: 【巴厘岛小费攻略】小费怎么给？包车司机、按摩 SPA、酒店床头小费行情全解析
 description: >-
   去巴厘岛旅游要给小费吗？深度整理各种场合小费行情：包含专属包车司机、酒店行李员、高档 SPA
@@ -21,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6206cbc9c7b306c1dac12d23a5b46f11.png'
 originalUrl: 'https://vocus.cc/article/663a126bfd89780001390b63'
 lang: zh-cn
-_srcHash: 653112642256933838a5bcd9e014214d
+_srcHash: 989bce79c105816a8275ff503efd3ce4
 ---
 
 ## 小费怎么给？
@@ -59,3 +60,9 @@ https://youtube.com/shorts/oBLpQ-MH4kY
 > [巴厘岛旅游费用? 巴厘岛旅游要准备多少现金？](https://gobaligo.id/blog/2023-09-11-64fdaddefd89780001bdb780/)
 
 {{block:戶外}}
+
+---
+
+👈 **回到巴厘岛自由行终极指南**
+
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

@@ -1,5 +1,6 @@
 ---
-title: 巴厘岛旅游必学：最接地气的一句万用印尼语
+slug: bali-travel-indonesian-phrase
+title: 巴厘岛旅游必学：最接地气的一句万能印尼语
 description: >-
   对于到巴厘岛短期观光的旅客来说，学习一些简单的印尼语是必要的，因为它能帮助你与当地人更加亲近，避免尴尬情况的发生。而这些印尼语当中最必须学、也是使用场景最多的就是...
 pubDate: '2024-03-22'
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65fccd88fd8978000150edda'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 595cab6078b8fed2f697b2463b2d4caf
+_srcHash: 93d65791dd5bc9f17001afa4db523aa9
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1a3b754a96b4f0e921c41865215e967b.png)

@@ -1,4 +1,5 @@
 ---
+slug: bali-6-day-itinerary-guide
 title: 巴厘岛自由行六天行程：住宿、美食、景点推荐
 description: 这次的巴厘岛之旅，我们一家人带着满满的期待飞往这个充满魅力的岛屿。
 pubDate: '2024-09-18'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66c0ba76fd89780001527eed'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: e22426291dfaad73b2dd31a58858df58
+_srcHash: 0466460e190d99e487f346d7ae1f3a5c
 ---
 
 > 以下内容由团友 [​Oscar Lin](https://www.facebook.com/share/p/4Eev2drzrfF5SKtc/) 提供，并同意我们改编
@@ -124,7 +125,7 @@ Oscar Lin提供
 
 Oscar Lin提供
 
-最后一天的行程，我们又包车展开了一整天的游览。第一站是**Oneeighty Dayclub**，这是一个位于悬崖上的高档俱乐部。这里的环境真的让人感到放松，食物也相当美味，而且他们对进场人数有严格的控制，因此不会有拥挤的感觉。相较于Finns Club，我更喜欢这里的氛围，整体来说非常愉快。
+最后一天的行程，我们又包车展开了一整天的游览。第一站是**Oneeighty Dayclub**，这是一个位于悬崖上的高档俱乐部。这里的环境真的让人感到放松，食物也相当美味，而且他们对进场人数有严格的控制，因此不会有拥挤的感觉。相较于Finns Club，我更喜欢这里的氛围，总体来说非常愉快。
 
 > [Oneeighty Dayclub 介绍与消费方式](/blog/2023-12-07-6571846ffd89780001fe97ee/)
 

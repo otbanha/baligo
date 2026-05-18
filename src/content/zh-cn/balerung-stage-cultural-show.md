@@ -1,4 +1,5 @@
 ---
+slug: balerung-stage-cultural-show
 title: 探索巴厘岛的文化瑰宝：Balerung Stage 传统表演体验
 description: >-
   如果你想要深度体验巴厘岛的传统文化，那么 Balerung Stage
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66eb78bafd89780001edcec6'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: d7a8d9598f9e518ca8f022ad7e9a5079
+_srcHash: 6bc3d3fc5fc7cedca8412df1f07cc514
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fa001ec17be16c90af2ed5df4564bccc.jpg)
@@ -44,7 +45,7 @@ Balerung Stage专业演出片段：__VID0__
 
 ### 物超所值的票价
 
-你可能会惊讶于这样高质量的表演仅需 USD$5。无论你是文化爱好者，还是想找个特别的夜晚活动，Balerung Stage 的表演绝对值得一看。
+你可能会惊讶于这样高质量的表演仅需150K。无论你是文化爱好者，还是想找个特别的夜晚活动，Balerung Stage 的表演绝对值得一看。
 
 欲订座位，请联系 WhatsApp：+6281936281721
 
@@ -68,10 +69,10 @@ Balerung Stage专业演出片段：__VID0__
 
 ✅深度攻略，让你的行程既省钱又无忧  
 
-✅独家推荐的私房景点与当地美食地图
+✅独家推荐的私房景点与当地美食地图  
 
-✅在Facebook社群上看不到的内容
+✅在Facebook群组上看不到的内容
 
-✅收集最多团友的行程规划建议，让每次旅行都是无缝体验
+✅收集最多群友的行程规划建议，让每次旅行都是无缝体验
 
 用谷歌或Facebook账号即可轻松完成注册！

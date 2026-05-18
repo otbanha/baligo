@@ -1,7 +1,8 @@
 ---
+slug: batur-volcano-sunset-jeep-tour
 title: 不用早起也能征服巴厘岛火山！日落吉普车之旅让你轻松拍大片
 description: >-
-  谁说巴厘岛的火山只能看日出？现在你不用起早贪黑就为了看日出了... 巴厘岛的巴杜尔山（Mount
+  谁说巴厘岛的火山只能看日出？现在你不用起早贪黑就为了看日出了...  巴厘岛的巴杜尔山（Mount
   Batur）以其壮丽的日出闻名，吸引了无数游客在天还没亮时就开始攀登。但如果你不想凌晨起床，又想欣赏这座火山的迷人景色，现在有一个更轻松、更特别的方式——巴杜尔山日落吉普车之旅！
 pubDate: 2025-03-16T00:00:00.000Z
 category:
@@ -15,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_129a0ecd951ffe4165c231c9e21b0fcb.png'
 originalUrl: 'https://vocus.cc/article/67d63943fd89780001c33ce2'
 lang: zh-cn
-_srcHash: ec50d61dd97871440859a8741cab8fe6
+_srcHash: 3bc4d082a6c33eb88b10d618421fd697
 ---
 
 ### 谁说巴厘岛的火山只能看日出？现在你不用起早贪黑就为了看日出了...
@@ -87,7 +88,7 @@ _srcHash: ec50d61dd97871440859a8741cab8fe6
 
 ### 用不一样的方式感受巴厘岛
 
-巴厘岛的美不仅限于日出，日落时分的巴图尔山同样令人惊艳。私人吉普车日落之旅，让你能以最轻松、最特别的方式体验这座火山的魅力。准备好你的相机，带上你的好奇心，一起来探索巴厘岛的另一面吧！
+巴厘岛的美不仅限于日出，日落时分的巴杜尔山同样令人惊艳。私人吉普车日落之旅，让你能以最轻松、最特别的方式体验这座火山的魅力。准备好你的相机，带上你的好奇心，一起来探索巴厘岛的另一面吧！
 
 > [Klook 提供的日落吉普车之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1103347&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E6%2597%25A5%25E8%2590%25BD%2520%25E5%2590%2589%25E6%2599%25AE%25E8%25BB%258A%26spm%3DSearchResult.TopNavigation.SelectLanguage%26clickId%3Dfd8640c38d)
 

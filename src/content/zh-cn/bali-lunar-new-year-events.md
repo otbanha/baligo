@@ -1,4 +1,5 @@
 ---
+slug: bali-lunar-new-year-events
 title: 【必收藏】巴厘岛庆祝农历新年的活动资讯整理
 description: 以下是关于2025年在巴厘岛庆祝农历新年的活动资讯整理，如果您和家人在农历新年期间到访巴厘岛，也可以在巴厘岛感受新年的气氛喔！
 pubDate: '2025-01-15'
@@ -14,7 +15,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-cn
-_srcHash: 63825d0194d59ffc87f1997261b3dea8
+_srcHash: a144de275139074aee5c6c15158cf963
 ---
 
 以下是关于2025年在巴厘岛庆祝农历新年的活动资讯整理，如果您和家人在农历新年期间到访巴厘岛，也可以在异国感受新年的气氛喔！
@@ -25,7 +26,7 @@ _srcHash: 63825d0194d59ffc87f1997261b3dea8
 
 ### 1. **农历新年庆祝活动**
 
-2025年1月29日，巴厘岛将迎来农历新年，当地华人社区和旅游从业者准备了丰富的庆祝活动，包括传统文化表演、美食盛宴和节日装饰：
+2025年1月29日，巴厘岛将迎来农历新年，当地华人社区和旅游业者准备了丰富的庆祝活动，包括传统文化表演、美食盛宴和节日装饰：
 
 - **舞狮表演**：这是农历新年最受欢迎的传统活动之一，象征驱邪避凶和带来好运。在[Mulia Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6546761)和[Courtyard Bali Seminyak Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=624034)等场所可以观赏到精彩的舞狮表演。（[参考来源](https://en.tempo.co/read/1964175/6-ultimate-ways-to-celebrate-chinese-new-year-2025-in-bali)）
 - **寺庙祈福**：巴厘岛的华人寺庙如Klenteng Caow Eng Boi和Satya Dharma Temple会装饰红灯笼和钱树，并举行祈福仪式，融合了华人与巴厘岛的文化特色。([参考来源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
@@ -226,10 +227,10 @@ _srcHash: 63825d0194d59ffc87f1997261b3dea8
 
 ✅深度攻略，让你的行程既省钱又无忧  
 
-✅独家推荐的私房景点与当地美食地图
+✅独家推荐的私房景点与当地美食地图  
 
-✅在Facebook社群上看不到的内容
+✅在Facebook群组上看不到的内容
 
-✅收集最多团友的行程规划建议，让每次旅行都是无缝体验
+✅收集最多群友的行程规划建议，让每次旅行都是无缝体验
 
 用谷歌或Facebook账号即可轻松完成注册！

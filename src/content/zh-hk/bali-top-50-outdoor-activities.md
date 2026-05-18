@@ -1,7 +1,8 @@
 ---
+slug: bali-top-50-outdoor-activities
 title: 峇里島戶外活動玩咩好？50種最受歡迎嘅戶外體驗
 description: >-
-  峇里島唔單止有迷人嘅沙灘同豪華嘅度假村，仲隱藏住豐富多樣嘅戶外活動，等住鍾意冒險嘅旅人去探索。無論你係尋求刺激嘅冒險家，定係想喺大自然中放鬆身心嘅旅行者，峇里島都可以滿足你嘅需求。以下係六大分類，總共50種熱門戶外活動：
+  峇里島唔單止有迷人嘅海灘同奢華嘅度假村，仲隱藏住豐富多樣嘅戶外活動，等緊鍾意冒險嘅旅人嚟探索。無論你係尋求刺激嘅冒險家，定係想喺大自然放鬆身心嘅旅行者，峇里島都可以滿足你嘅需求。以下係六大分類，總共50種熱門戶外活動：
 pubDate: 2025-04-02T00:00:00.000Z
 category:
   - 旅行技巧
@@ -15,55 +16,58 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9a233b75d34402114bfe155865ac9914.jpg'
 originalUrl: 'https://vocus.cc/article/67ecf440fd897800012cb31b'
 lang: zh-hk
-_srcHash: 2c2d1db60044ff8b37dfd9e22254281f
+_srcHash: 57376e06e2bacffefd40e6f0c2c6ac99
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_eb57e77a7b3e161346b3b64e697d7f09.jpg)
 
-峇里島唔單止有迷人嘅沙灘同豪華嘅度假村，仲隱藏住豐富多樣嘅戶外活動，等住鍾意冒險嘅旅人去探索。無論你係尋求刺激嘅冒險家，定係想喺大自然中放鬆身心嘅旅行者，峇里島都可以滿足你嘅需求。以下係六大分類，總共50種熱門戶外活動：
+峇里島唔單止有迷人嘅海灘同奢華嘅度假村，仲隱藏住豐富多樣嘅戶外活動，等緊鍾意冒險嘅旅人嚟探索。無論你係尋求刺激嘅冒險家，定係想喺大自然放鬆身心嘅旅行者，峇里島都可以滿足你嘅需求。以下係六大分類，總共50種熱門戶外活動：
 
 ## **水上活動嘅樂趣**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ce09db19692dd56e3b3a093b40972a73.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_d7262888e7876432492b931371460638.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_2b63fa1a7c1a8b0c7cf46359930783e9.png)
 
-### **1.衝浪：**
+### **1. 滑浪：**
 
-- - 峇里島係衝浪愛好者嘅天堂，庫塔沙灘、水明漾、長谷、烏魯瓦圖等地都係世界知名嘅衝浪勝地。
+- 峇里島係滑浪愛好者嘅天堂，庫塔海灘、水明漾、坎古、烏魯瓦圖等地都係世界知名嘅滑浪勝地。
     - 喺專業教練嘅指導下，就算係初學者都可以體驗到乘風破浪嘅快感。
-    - [【峇里島衝浪攻略】適合唔同等級嘅衝浪沙灘介紹](/blog/2024-04-20-66236818fd89780001389aaa/)
+    - [【峇里島滑浪攻略】適合唔同等級嘅滑浪海灘介紹](/blog/2024-04-20-66236818fd89780001389aaa/)
 
-### **2.水上活動：**
+### **2. 水上活動：**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_d7262888e7876432492b931371460638.jpg)
 
 - 峇里島庫塔嘅Waterbom水上樂園係成個亞洲排名頂級嘅水上樂園之一，以其刺激嘅滑水道、熱帶園林景觀同環保理念聞名。樂園內有各種適合唔同年齡層嘅設施，包括高速滑道、懶人河同兒童專區，並注重可持續發展，係家庭遊客同冒險愛好者嘅熱門目的地。[預定門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1051935&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175-waterbom-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D396a21103d)
-    - 南灣提供豐富嘅水上活動，例如拖曳傘、水上電單車、香蕉船等，等你可以盡情享受熱帶沙灘嘅活力。建議事先預訂，免得到現場俾人劏！[南灣水上活動預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520water%2520activities%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D50eabd6d63)
+    - 南灣提供豐富嘅水上活動，如拖曳傘、水上電單車、香蕉船等，讓你盡情享受熱帶海灘嘅活力。建議事先預訂，免得到現場俾人劏！[南灣水上活動預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=921280&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbali%2520water%2520activities%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D50eabd6d63)
 
 https://youtube.com/shorts/y5HMPegD5Rk
 
-### **3.浮潛：**
+### **3. 浮潛：**
 
 **藍夢島/佩尼達島：**
 
-- - 藍夢島/佩尼達島一帶擁有清澈嘅海水同豐富嘅珊瑚礁，係浮潛嘅絕佳地點。
-    - 喺色彩繽紛嘅珊瑚礁中穿梭，同熱帶魚群共舞，留下難忘嘅回憶。
+- - 藍夢島/佩尼達島一帶有清澈嘅海水同豐富嘅珊瑚礁，係浮潛嘅絕佳地點。
+    - 喺色彩繽紛嘅珊瑚礁中穿梭，同熱帶魚群一齊游水，留下難忘嘅回憶。
     - [唔使舟車勞頓嘅四個知名潛點](/blog/2023-11-02-654249defd89780001041c87/)
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_2b63fa1a7c1a8b0c7cf46359930783e9.png)
 
 **沙努爾搭船十分鐘嘅浮潛聖地：**
 
 > 預約[沙努爾離岸浮潛體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F134495-snorkeling-experience-in-sanur-coastal%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dd9d7485ad9)
 
-嚟體驗Sanur海岸嘅水下奇蹟，讓浮潛之旅成為你峇里島行程嘅難忘亮點！
+嚟體驗沙努爾海岸嘅水下奇蹟，等浮潛之旅成為你峇里島行程嘅難忘亮點！
 
 ### **4.羅威納追海豚：**
 
-- 喺羅威納海灘，你可以搭小船出海，觀賞野生海豚喺日出時分躍出海面嘅壯觀景象。呢次係一次同海洋生物近距離接觸嘅難忘體驗。
+- 喺羅威納海灘，你可以搭小船出海，睇野生海豚喺日出時分跳出水面嘅壯觀景象。呢次係同海洋生物近距離接觸嘅難忘體驗。
 - [羅威納海豚之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1024826&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dlovina%2520dolphin%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D62ac00bfec)
 
-▶[峇里島水上活動完整指南｜峇里島唔止浮潛！15種意想不到嘅水上玩法](/blog/2026-01-20-694122b8fd89780001f514c9/)
-## **陸地冒險嘅刺激**
+▶[峇里島水上活動完整指南｜峇里島唔只浮潛！15種意想不到嘅水上玩法](/blog/2026-01-20-694122b8fd89780001f514c9/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e0d879d5d2802e1977fcfd6a95a19c1f.jpg)
+
+## **陸地冒險嘅刺激**
 
 ### 5.ATV：
 
@@ -80,6 +84,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 - - 喺叢林裡賽車係個非常特別嘅體驗，能夠讓你一邊欣賞叢林風景一邊享受刺激感。
     - [峇里島烏布 Jungle Cart Bali](/blog/2024-07-06-66892d20fd8978000183776c/)
+
 ## **大自然嘅壯麗**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_795bf27ce53988e8be88005fa5bb0c84.jpg)
@@ -100,11 +105,11 @@ https://youtube.com/shorts/y5HMPegD5Rk
 ### **10.烏布山脊健走：**
 
 - - 健走喺烏布山脊上，欣賞翠綠嘅稻田同壯麗嘅山谷，感受峇里島嘅寧靜之美。
-    - [「烏布天空步道」Campuhan Ridge Walk介紹](/blog/2023-10-29-653dc7f3fd89780001f4f90a/)]
+    - [「烏布天空步道」Campuhan Ridge Walk介紹](/blog/2023-10-29-653dc7f3fd89780001f4f90a/)
 
 ### **11.烏布叢林日出瑜伽＆冥想體驗：**
 
-- - 喺烏布嘅叢林入面一邊睇日出，一邊做瑜伽冥想，可以令身心靈都得到放鬆。
+- - 喺烏布嘅叢林入面一邊睇住日出，一邊做瑜伽冥想，可以令身心靈都得到放鬆。
     - [叢林日出瑜伽＆冥想體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758487&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73635-sunrise-yoga-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Deb0510d372)
 
 ### **12.烏魯瓦圖滑翔傘：**
@@ -138,7 +143,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_83e375c72f9c2ff3f495a1ed4af60bbd.png)
 
-- - 峇里島有好多豪華villa，搵一間有私人泳池嘅villa，好好放鬆，享受屬於自己嘅時光。
+- - 峇里島有好多豪華villa，搵一間有私人泳池嘅villa，好好咁放鬆，享受屬於自己嘅時光。
     - 享受私密同陽光[峇里島推薦villa大全](/blog/2024-08-09-66b41018fd89780001f96fc3/)
 
 ## **探索峇里島嘅景點/文化**
@@ -158,19 +163,19 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 19.**峇里島野生動物園（Taman Safari Bali）**
 
-- 適合親子同遊嘅野生動物園，可以搭遊園巴士穿越動物棲息地，同獅子、大象、犀牛近距離接觸，好似置身非洲草原咁！
-- [峇里島親子遊唔可以錯過：峇里島動物園 Bali Safari 點樣玩樂、夜宿攻略](/blog/2023-07-25-64db6b8cfd897800013a9ab1/)
+- 啱晒一家大細去嘅野生動物園，可以搭遊園巴士穿越動物棲息地，同獅子、大象、犀牛近距離接觸，好似置身非洲草原咁！
+- [峇里島親子遊必去：峇里島動物園 Bali Safari 點玩、夜宿攻略](/blog/2023-07-25-64db6b8cfd897800013a9ab1/)
 
 ### 20.**峇里島海洋公園（Marine Safari Bali）**
 
-- 有多樣水族生物同互動體驗，仲可以同海豚影相，係兼具娛樂同教育價值嘅療癒系景點。
+- 有多種水族生物同互動體驗，仲可以同海豚影相，係一個集娛樂同教育於一身嘅療癒景點。
 - [Marine Safari Bali 峇里島海洋野生動物園攻略](/blog/2025-01-23-6791ea5dfd89780001a7a07c/)
 
 ### 21.22.23.叢林俱樂部 **Omma Day Club / Wanna Jungle Bar / Cretya Sunset /** TUJU Tropic Club & Lounge
 
-- 位於烏布嘅叢林俱樂部，享受無邊際泳池、特色調酒同音樂派對，一邊浸水一邊欣賞叢林夕陽，靚到難以置信🌅
+- 位於烏布嘅叢林俱樂部，可以享受無邊際泳池、特色調酒同音樂派對，一邊浸水一邊欣賞叢林夕陽，靚到難以置信🌅
 - [峇里島烏布嘅瀑布酒吧 OMMA Dayclub：感受chill氛圍，陽光下嘅愜意時光](/blog/2023-11-27-65647143fd897800014b96f1/)
-- [Wanna Jungle Pool & Bar：IG爆紅梯田泳池同脆皮鴨盛宴](/blog/2025-05-01-68134e91fd89780001ab5b55/)
+- [Wanna Jungle Pool & Bar：IG爆紅梯田泳池與脆皮鴨盛宴](/blog/2025-05-01-68134e91fd89780001ab5b55/)
 - [Cretya Sunset，峇里島烏布秘境：最夢幻嘅日落天堂](/blog/2025-01-29-6799a185fd89780001c87e06/)
 - [TUJU Tropic Club & Lounge 最近開業嘅一間日間俱樂部，擁有雙層無邊泳池](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1051935&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F138909-tuju-tropic-club-lounge-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D67ecf97825)
 
@@ -191,7 +196,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ### 27.**Lahangan Sweet**
 
-- 位於峇里島東部，係遠眺壯麗阿貢山嘅秘境觀景台，清晨或黃昏嚟訪更能影到雲霧繚繞嘅絕美畫面📸
+- 位於峇里島東部，係遠眺壯麗阿貢山嘅祕境觀景台，清晨或者黃昏嚟訪更能影到雲霧繚繞嘅絕美畫面📸
 - [峇里島景點推薦：Lahangan Sweet ─ 絕美嘅阿貢山景觀點 🌄](/blog/2024-11-17-6739669dfd89780001afcd67/)
 
 ### 28.29.**Tegalalang & Jatiluwih 梯田區**
@@ -210,29 +215,29 @@ https://youtube.com/shorts/y5HMPegD5Rk
 - 喺烏魯瓦圖斷崖前觀賞震撼嘅火舞同傳統歌舞，夕陽同海景作為背景，氣氛張力十足🔥
 - [峇里島六大必看卡恰火舞（Kecak Fire Dance）地點：一場視覺與文化嘅饗宴](/blog/2024-12-12-675ad354fd89780001c09f24/)]
 
-### 33~36.**假日市集（Weekend Markets）**
+### 33~36. 假日市集（Weekend Markets）
 
-- 喺水明漾、長谷、烏魯瓦圖、沙努爾等地都有週末市集，賣手作藝品、有機食品同當地設計，行街都可以感受到當地生活嘅氛圍。
-- [【2024年版】仲有舉辦嘅峇里島四個假日市集：最地道嘅購物體驗](/blog/2024-02-25-65db3d16fd89780001ef8b8f/)
+- 喺水明漾、坎古、烏魯瓦圖、沙努爾等地都有週末市集，賣手作藝品、有機食品同當地設計，行街之餘仲可以感受當地生活氣氛。
+- [【2024年版】仲有舉辦嘅峇里島四個假日市集：最貼地嘅購物體驗](/blog/2024-02-25-65db3d16fd89780001ef8b8f/)
 
-### 37.**La Brisa Bali**
+### 37. La Brisa Bali
 
-- 被譽為「峇里島最美餐廳」嘅海濱餐廳，位於長谷，有漂流木裝潢同絕美夕陽海景，係食海鮮同打卡影相嘅最佳去處🍹🌊
-- [被譽為「峇里島最靚嘅餐廳」：La Brisa點樣喺數以萬計嘅美食餐廳之中脫穎而出？](/blog/2023-12-04-656d19fffd897800019cb6ed/)
+- 被譽為「峇里島最美餐廳」嘅海濱餐廳，位於坎古，有漂流木裝潢同絕美夕陽海景，係食海鮮同打卡影相嘅最佳去處🍹🌊
+- [被譽為「峇里島最靚嘅餐廳」：La Brisa喺數以萬計嘅美食餐廳之中點樣脫穎而出？](/blog/2023-12-04-656d19fffd897800019cb6ed/)
 
-### 38.**Oneeighty Day Club**
+### 38. Oneeighty Day Club
 
 - 坐落喺懸崖上嘅高空無邊際泳池，玻璃池底令人好似懸浮喺海天之間，係高空控同網美嘅夢幻天堂！
 - [探索Oneeighty Day Club：峇里島懸崖邊嘅游泳池極致美景](/blog/2023-12-07-6571846ffd89780001fe97ee/)
 
-### 39.**金塔瑪尼景觀火山咖啡廳巡禮 🌄☕**
+### 39. 金塔瑪尼景觀火山咖啡廳巡禮 🌄☕
 
-- 鍾意山景同咖啡香嘅你絕對唔可以錯過！金塔瑪尼有12間以上嘅火山景觀咖啡廳，可以一邊飲咖啡、一邊欣賞巴圖爾火山同湖泊美景。呢啲咖啡廳唔止風景迷人，仲好啱打卡！適合安排個追晨曦或者悠閒下午嚟杯手沖咖啡、睇雲起雲落。
+- 鍾意山景同咖啡香嘅你絕對唔可以錯過！金塔瑪尼有12間以上嘅火山景觀咖啡廳，可以一邊飲咖啡、一邊欣賞巴圖爾火山同湖泊美景。呢啲咖啡廳唔止風景迷人，仲超好影相！適合安排個追住晨曦或者悠閒下午嚟杯手沖咖啡、睇雲起雲落。
 - [峇里島金塔瑪尼12大景觀火山咖啡廳推薦 🌄☕](/blog/2024-11-27-67467629fd897800018d71d1/)
 
-### 40.巴杜爾火山湖遊船湖
+### 40. 巴杜爾火山湖遊船湖
 
-登上巴杜爾火山（Mount Batur），睇太陽慢慢升起，係旅行者心中最震撼嘅回憶。結束登山之後，不妨體驗新興嘅湖上活動——**巴杜爾湖皇家松根遊輪（Royal Songan Cruise）**。
+登上巴杜爾火山（Mount Batur），睇住太陽慢慢升起，係旅行者心中最震撼嘅回憶。行完山之後，不妨體驗新興嘅湖上活動——**巴杜爾湖皇家松根遊輪（Royal Songan Cruise）**。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3ca74bdad12e693945d91b0c5b5888cf.jpg)
 
@@ -242,7 +247,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 - **湖中女神雕像（Dewi Danu Statue）**——守護火山湖嘅女神象徵；
 - **巴杜爾與阿邦雙峰全景**——壯麗山勢盡收眼底。
 
-遊船上有現場文化表演、茶飲服務同全景座位，適合浪漫情侶同家庭旅行。
+遊船上有現場文化表演、茶飲服務同全景座位，啱晒浪漫情侶同家庭旅行。
 
 ▶[點擊訂巴杜爾湖游船](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1140524&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F155020-lake-batur-sightseeing-cruise-with-royal-songan-cruise-in-kintamani%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D102582f06c)
 
@@ -250,9 +255,9 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
 
-喺The Grand Lagunas挑戰極限，體驗刺激冒險與絕美景色！呢度提供豐富多樣嘅戶外活動設施，包括繽紛彩虹滑道(Rainbow Slide)、飛索(Flying Fox)、樹頂探險(Tree Top)、蘇丹籃(Keranjang Sultan)、彈跳床(Trampoline Jump)、吊床(Hammock)、鳥巢(Nest)、攀爬網(Climbing Net)、爬樹體驗(Climbing Tree)同叢林吊橋(Jungle Bridge)、仲有ATV騎乘等精彩項目，讓你盡情釋放冒險精神。
+喺The Grand Lagunas挑戰極限，體驗刺激冒險同絕美景色！呢度提供豐富多樣嘅戶外活動設施，包括繽紛彩虹滑道(Rainbow Slide)、飛索(Flying Fox)、樹頂探險(Tree Top)、蘇丹籃(Keranjang Sultan)、彈跳床(Trampoline Jump)、吊床(Hammock)、鳥巢(Nest)、攀爬網(Climbing Net)、爬樹體驗(Climbing Tree)同叢林吊橋(Jungle Bridge)、仲有ATV騎乘等精彩項目，等你盡情釋放冒險精神。
 
-感受從繽紛滑道急速滑落嘅快感，一邊欣賞壯麗景觀，一邊享受色彩繽紛嘅樂趣；體驗驚險刺激嘅鞦韆，配上令人屏息嘅自然美景，感受飛翔快感嘅同時欣賞金塔馬尼峇里島之美。呢度係腎上腺素同大自然嘅完美結合，由你掌控冒險節奏，探索峇里島嘅隱藏秘境，體驗越野刺激，最啱想挑戰自我、親近自然嘅旅人！
+感受從繽紛滑道急速滑落嘅快感，喺欣賞壯麗景觀嘅同時享受色彩繽紛嘅樂趣；體驗驚險刺激嘅鞦韆，配上令人屏息嘅自然美景，感受飛翔快感嘅同時欣賞金塔馬尼峇里島之美。呢度係腎上腺素同大自然嘅完美結合，由你掌控冒險節奏，探索峇里島嘅隱藏秘境，體驗越野刺激，最啱想要挑戰自我、親近自然嘅旅人！
 
 > [Klook優惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1201576&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F140770-the-grand-lagunas-experience-in-kintamani-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D8bb54bcb73)
 
@@ -260,7 +265,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1b2c36cce167df14bcd2e664efd956d0.jpg)
 
-喺 **Toya Devasya 溫泉** 放鬆身心，浸喺天然火山地熱泉中，望住遠處嘅火山同湖泊，係最療癒嘅時光。
+喺 **Toya Devasya 溫泉** 放鬆身心，浸住天然火山地熱泉，望住遠處嘅火山同湖泊，係最療癒嘅時光。
 
 除咗浸溫泉，呢度仲係一個大型嘅溫泉水上樂園㗎！
 
@@ -276,7 +281,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 喺沙灘上騎住馬，踩住浪前進 🌊 金色黃昏打喺臉上，馬蹄踏水嘅聲音就喺腳下 呢個畫面，比任何酒店泳池相都更難忘 🌅
 
-你覺得峇里島騎馬好貴咩？ 你覺得騎馬好難咩？ 你覺得嗰只係遊客做嘅事咩？
+你覺得峇里島騎馬好貴咩？ 你覺得騎馬好難咩？ 你覺得嗰啲只係遊客做嘅嘢咩？
 
 完整體驗資訊同預訂方法睇下面條連結👇
 
@@ -284,10 +289,16 @@ https://youtube.com/shorts/y5HMPegD5Rk
   ---
   **溫馨提示：**
 
-- 進行戶外活動時，請注意安全，並遵守當地規定。
-- 建議提早預訂熱門活動，以免錯過。
+- 進行戶外活動時，要注意安全，遵守當地規定。
+- 建議提早預訂熱門活動，以免撲空。
 - 尊重當地文化同習俗，保持環境清潔。
 
-希望呢篇文章可以幫你規劃一個充滿樂趣同回憶嘅峇里島戶外探險之旅！
+希望呢篇文章可以幫你計劃一個充滿樂趣同回憶嘅峇里島戶外探險之旅！
 
 {{block:klook}}
+
+---
+
+👈 **返去峇里島自由行終極指南**
+
+想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

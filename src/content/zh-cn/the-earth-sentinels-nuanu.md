@@ -1,4 +1,5 @@
 ---
+slug: the-earth-sentinels-nuanu
 title: "【坎古/Nuanu新景点】\U0001F33F 巴厘岛最震撼的艺术地标：The Earth Sentinels 地球卫兵"
 description: >-
   在巴厘岛塔巴南（Tabanan）的 Nuanu Creative City 入口处，矗立着两座令人屏息的巨型雕塑——《The Earth
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/68440df9fd89780001afd27b'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: e23be16732e5c77fea388f5f2f743317
+_srcHash: f7c72c5abd582af2f87ef653ea91b6b2
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f99e6c8463ebffb2d3f909bbd209ef22.jpg)
@@ -26,7 +27,7 @@ _srcHash: e23be16732e5c77fea388f5f2f743317
 
 ## 🗿 艺术与自然的融合：雕塑设计与象征意涵
 
-这两座高达 14 米（约 45 英尺）的雕塑，采用钢骨结构、玻璃纤维强化混凝土与植物元素制成，呈现出人形与自然交织的形象。雕塑的肩膀与颈部长出树木与藤蔓，象征人类与自然的共生关系，提醒我们守护地球的责任。
+这两座高达 14 米（约 45 英尺）的雕塑，采用钢骨结构、玻璃纤维强化混凝土与植物元素制成，呈现出人形与自然交织的形象。雕塑的肩膀与颈部生长出树木与藤蔓，象征人类与自然的共生关系，提醒我们守护地球的责任。
 
 ---
 

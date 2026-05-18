@@ -1,4 +1,5 @@
 ---
+slug: toya-ubud-new-attraction
 title: 【乌布新景点】Toya Ubud：一个让童话与传统交织的灵感之地
 description: 巴厘岛乌布的旅游新亮点
 pubDate: 2025-02-21T00:00:00.000Z
@@ -18,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fc7d230efbaf5332a244fa14eeee2994.jpg'
 originalUrl: 'https://vocus.cc/article/67b7e25bfd89780001a6b041'
 lang: zh-cn
-_srcHash: 0fa697a9da9a4d3d442e1c6cef96c5fb
+_srcHash: a10bdb90ffd7d12a638c4dd83f02acbc
 ---
 
 ## **新生态度假村Toya Ubud于巴厘岛乌布开幕，惊艳游客**

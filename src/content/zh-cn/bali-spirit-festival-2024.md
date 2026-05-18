@@ -1,4 +1,5 @@
 ---
+slug: bali-spirit-festival-2024
 title: 2024五月巴厘岛灵性节：Bali Spirit Festival介绍
 description: >-
   巴厘岛灵性节（Bali Spirit
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66235080fd8978000137921f'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 3b2389a6b5eea1886a3dd7db59fbc765
+_srcHash: 92a329d6ad07da978a10e3a5d051d443
 ---
 
 ## 
@@ -100,7 +101,7 @@ _srcHash: 3b2389a6b5eea1886a3dd7db59fbc765
 
 巴厘岛灵性节是一个充满爱与启发的盛会，让我们一起来体验这场独特的灵魂之旅吧！
 
-巴厘岛灵性节官网：<https://www.balispiritfestival.com/>
+Bali Spirit Festival官网：<https://www.balispiritfestival.com/>
 
 ## 常见问题解答
 

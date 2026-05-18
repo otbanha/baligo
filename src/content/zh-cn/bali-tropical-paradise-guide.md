@@ -1,4 +1,5 @@
 ---
+slug: bali-tropical-paradise-guide
 title: 巴厘岛荣获全球旅人票选第三名！带你深入探索这座热带天堂
 description: 巴厘岛再度在《Travel + Leisure》2025世界最佳岛屿榜上荣获第三名，展现其无与伦比的自然与文化魅力，是所有旅人心中的必游之地。
 pubDate: '2025-07-13'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/68734213fd897800016298ef'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: e0140ff6f64958ecc3d5ab872cc1bf6a
+_srcHash: 85609d9240de25ce25c26950fc5a5564
 ---
 
 ## 《Travel + Leisure》2025最佳岛屿排行揭晓
@@ -108,15 +109,15 @@ _srcHash: e0140ff6f64958ecc3d5ab872cc1bf6a
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_640971bfbf7d64d46d8e26288d18de85.jpg)
 
-**巴厘岛为何能持续受到全球旅人喜爱？**
+巴厘岛为何能持续受到全球旅人喜爱？
 
 因其独特的文化体验、自然景观与高性价比的住宿选择，使旅人流连忘返。
 
-**巴厘岛除了海滩还有什么必访景点？**
+巴厘岛除了海滩还有什么必访景点？
 
-参考我们整理的超完整分区攻略，您一定可以找到想去的地点。
+参考我们整理的超完整分区攻略，您一定可以想去的地点。
 
-**是否适合亲子旅游？**
+是否适合亲子旅游？
 
 非常适合，从动物园、各种户外活动、水上/水下活动到文化导览，活动多元。
 

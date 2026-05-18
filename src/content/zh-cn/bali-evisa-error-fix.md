@@ -1,4 +1,5 @@
 ---
+slug: bali-evisa-error-fix
 title: 巴厘岛提醒：印尼/巴厘岛 eVisa（电子落地签）资料填写错误之修改/处理办法
 description: >-
   印尼电子签证(eVisa/e-VoA)若资料填写错误，处理方式视字段而定。姓名、国籍、护照号码等关键资料一旦出错，签证即失效且无法修改，必须重新申请并付费。性别、出生地等非关键资料错误，虽仍可能入境，但存在风险，最终由移民官决定。为避免入境延误，
@@ -19,12 +20,12 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6f5ed331b44c8db9f733b7cd90b74ea8.png'
 originalUrl: 'https://vocus.cc/article/68eb4f30fd897800017b78c7'
 lang: zh-cn
-_srcHash: bc908410490de5e4e0e37b55d8c59ea3
+_srcHash: 39aac841571d848d750941dfc6cdab6b
 ---
 
 ## **最新规定请注意：**
 
-根据印尼移民总局的最新公告，您的印尼电子落地签证（eVisa/e-VoA）一旦申请并核发后，**可否修改取决于错误的栏位**。
+根据印尼移民总局的最新公告，您的印尼电子落地签证（eVisa/e-VoA）一旦申请并核发后，**可否修改取决于错误的字段**。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7fbe71f8afe8094370bc8e00d775dc60.png)
 

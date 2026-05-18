@@ -1,4 +1,5 @@
 ---
+slug: bali-attractions-safety-alert
 title: 巴厘岛两大热门景点发生意外事故，给游客的提醒！
 description: 近日，巴厘岛的两个著名景点——佩尼达岛的钻石海滩和乌鲁瓦图的Bingin海滩——发生了两起重大意外事故，当地救援队紧急出动，展开了救援行动。
 pubDate: '2024-08-22'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66c69317fd8978000110fabc'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 7f6c96578bfe726f398349259047857e
+_srcHash: f726eedd5df6abfb3a5a7daff29382e3
 ---
 
 近日，巴厘岛的两个著名景点——佩尼达岛的钻石海滩和乌鲁瓦图的Bingin海滩——发生了两起重大意外事故，当地救援队紧急出动，展开了救援行动。

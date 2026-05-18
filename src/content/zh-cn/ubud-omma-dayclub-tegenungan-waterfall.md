@@ -1,4 +1,5 @@
 ---
+slug: ubud-omma-dayclub-tegenungan-waterfall
 title: 巴厘岛乌布的瀑布酒吧 OMMA Dayclub：感受chill氛围，阳光下的惬意时光
 description: >-
   OMMA Dayclub 是位于巴厘岛乌布的一个瀑布酒吧，也是一个日间俱乐部。它的特色是能近距离欣赏「特哥努恩安瀑布（Tegenungan
@@ -10,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fdd8586ccd57a9e42f423ed3045d56c2.jpg'
 originalUrl: 'https://vocus.cc/article/65647143fd897800014b96f1'
 lang: zh-cn
-_srcHash: 4e5854bff12f30d35acb07085f7f2b72
+_srcHash: 5a52f2cf44b7cd06cceb8e58f11ecca7
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c17bf195fd6ecbe15f62352549f17db8.jpg)
@@ -33,17 +34,17 @@ Omma Dayclub 巴厘岛的餐饮Omma Dayclub 巴厘岛的餐厅提供多种餐饮
 
 ## Omma Dayclub消费
 
-OMMA Dayclub 巴厘岛的消费方式OMMA Dayclub 巴厘岛的消费方式因不同的座位区有不一样的低消标准。
+OMMA Dayclub 巴厘岛的消费方式OMMA Dayclub 巴厘岛的消费方式因不同的座位区有不一样的最低消费标准。
 
 > [Omma Day Club优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1209001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F100356-omma-dayclub-day-pass-ubud-sukawati-gianyar-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D022b469388)
 
-> [官方网站](https://ommabali.com/)预订
+> [官方网站](https://ommabali.com/)订位
 
 ## 小杰的一分钟介绍
 
 https://youtube.com/shorts/MmqfkXw211k
 
-当你来到OMMA Dayclub时，会被这里的轻松氛围所深深吸引。这里的气氛非常chill，让你可以尽情放松，仿佛时间在这里停滞了一般。
+当你来到OMMA Dayclub 时，会被这里的轻松氛围所深深吸引。这里的气氛非常 chill，让你可以尽情放松，仿佛时间在这里停滞了一般。
 
 特别是傍晚时分，阳光渐渐西沉，你会发现这里的景色更加迷人。有趣的是，即使是傍晚，你仍能感受到阳光的温暖，却不用担心晒伤或过于强烈的阳光。这种日落时分的柔和光线，让OMMA Dayclub 巴厘岛增添了一份特别的浪漫氛围，同时让人感到格外舒适。
 

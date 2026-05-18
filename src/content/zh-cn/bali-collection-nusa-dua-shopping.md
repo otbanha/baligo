@@ -1,4 +1,5 @@
 ---
+slug: bali-collection-nusa-dua-shopping
 title: 巴厘岛努沙杜瓦购物中心 Bali Collection：晚餐与采购一站式完成、SPA 体验与现场音乐表演推荐
 description: >-
   计划在努沙杜瓦度过悠闲夜晚？Bali Collection 是度假村外的最佳选择。解析商场内的多元餐饮选择、平价与奢华 SPA
@@ -20,12 +21,12 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ddd14d39231e5b7db312805242b99d65.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b58fd897800013a8ea3'
 lang: zh-cn
-_srcHash: 7c44a513bed2b9b0f04095e22b33511e
+_srcHash: a78197fd466135dd4b6dbb9d01da74e9
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c717033197ffb51d7883f00a2b4c338f.jpg)
 
-来到南湾/努沙杜瓦/沙努必逛的购物中心。晚餐/采购一站式完成的好地方！
+来到南湾/努沙杜瓦/沙努必逛的购物中心。晚餐/采购一站完成的好地方！
 
 无论您是来巴厘岛度假还是商务出差，「Bali Collection」都是一个让您爱不释手的地方。这个购物中心的综合性质使其成为整个南湾/努沙杜瓦地区的焦点，游客们可以在这里一站式满足所有需求。
 

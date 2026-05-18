@@ -1,4 +1,5 @@
 ---
+slug: bali-kuta-jimbaran-uluwatu-ubud-adventure
 title: '[图+文+短片]巴厘岛探险记：从库塔、金巴兰、到乌鲁瓦图、乌布的自由行体验'
 description: >-
   为期11天的自由行，前往巴厘岛和龙目岛。这次旅途至今让我难以忘怀。在规划这次旅行时，我参考了许多前辈的游记和建议，深知规划旅程并非易事。因此，我希望借此机会分享一些我们游历过的巴厘岛景点推荐，以及各景点的短片，让大家更能感受当地的氛围，帮助大家决定是否将这些景点纳入自己的收藏
@@ -14,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3ab35a264fd828315cb7d2e460674afd.jpg'
 originalUrl: 'https://vocus.cc/article/668b6804fd89780001a19257'
 lang: zh-cn
-_srcHash: 69040b4f9c3a014fc5f2056126f9f856
+_srcHash: e08294b2769a3751d4fd9c6163be0ae5
 ---
 
 > 以下内容由团友 [叶庭瑜](https://www.facebook.com/share/p/u63ZENzDXGzfCXrR/?mibextid=xfxF2i) 提供
@@ -65,7 +66,7 @@ https://www.instagram.com/reel/C7mNt6nJPey/?utm_source=ig_web_button_share_sheet
 
 > Klook特价票：[神鹰文化公园门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=881953&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29f498eeaf)
 
-### 乌鲁瓦图寺庙卡恰火舞
+### 乌鲁瓦图庙卡恰火舞
 
 ![Kecak Fire Dance](https://images.gobaligo.id/vocus/vocus_96343c5b07b3ceae31d0c3e6b4fd9e97.jpg)
 
@@ -75,9 +76,9 @@ Kecak Fire Dance
 
 **停留时间：1.5小时**
 
-乌鲁瓦图寺庙的卡恰火舞表演讲述了巴厘岛的神话故事，这场表演吸引了近2000名观众，场面相当壮观。观赏这场表演时，你可以一边欣赏精彩的舞蹈，一边观看壮丽的血色夕阳，这种视觉与文化的双重享受让人难以忘怀。
+乌鲁瓦图庙的卡恰火舞表演讲述了巴厘岛的神话故事，这场表演吸引了近2000名观众，场面相当壮观。观赏这场表演时，你可以一边欣赏精彩的舞蹈，一边观看壮丽的血色夕阳，这种视觉与文化的双重享受让人难以忘怀。
 
-建议在观看前先了解一下故事的大纲，这样会更容易进入情境，否则可能会因为看不懂而感到无聊。值得注意的是，火舞的部分只有在最后的高潮处持续约5分钟，不要将其与台湾街头艺人的火舞表演混为一谈。
+建议在观看前先了解一下故事的大纲，这样会更容易进入情境，否则可能会因为看不懂而感到无聊。值得注意的是，火舞的部分只有在最后的高潮处持续约5分钟，不要将其与中国大陆街头艺人的火舞表演混为一谈。
 
 乌鲁瓦图寺庙的卡恰火舞表演是一场结合文化和自然美景的视觉盛宴，虽然火舞部分不多，但整体氛围和演出品质都值得一看。
 
@@ -140,7 +141,7 @@ https://www.instagram.com/reel/C7bvX6NpmfO/?utm_source=ig_web_button_share_sheet
 
 **停留时间：2小时**
 
-彭里普兰村庄被誉为世界上最干净的村落，这里每家每户都对外开放，游客可以进入参观，深入了解当地人的日常生活与淳朴风貌。村庄内的建筑和街景非常有特色，随手一拍都是风景，特别是村内的阴阳门，更是不可错过的拍照景点。
+彭里普兰村庄被誉为世界上最干净的村落，这里每家每户都对外开放，游客可以进入参观，深入了解当地人的日常生活与纯朴风貌。村庄内的建筑和街景非常有特色，随手一拍都是风景，特别是村内的阴阳门，更是不可错过的拍照景点。
 
 由于来参观的大多是本地人，这里没有过多的商业气息，保持了原汁原味的当地风情。村民们友善好客，让人感受到浓厚的人情味。
 
@@ -154,7 +155,7 @@ https://www.instagram.com/reel/C7WlLcIJ5XA/?utm_source=ig_web_button_share_sheet
 
 > [巴厘岛彭丽普兰村＆Kanto Lampo 瀑布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc65c11c688)
 
-> [Penglipuran乡村一日游（含免费烹饪课）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76095-penglipuran-village-day-tour-bali-free-cooking-class-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9b0cdd5f69)
+> [彭丽普兰乡村一日游（含免费烹饪课）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76095-penglipuran-village-day-tour-bali-free-cooking-class-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9b0cdd5f69)
 
 > [巴厘岛彭丽普兰村＆乌布＆大自然＆寺庙一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17126-ubud-swing-tirta-empul-tegalalang-penglipuran%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D97451c61b9)
 
@@ -190,7 +191,7 @@ https://www.instagram.com/reel/C79YeY6plqw/?utm_source=ig_web_button_share_sheet
 
 https://www.instagram.com/reel/C7zFZ-8pmny/?utm_source=ig_web_button_share_sheet
 
-> 延伸阅读：乌布有哪些好玩的？请看[乌布探索的100种方式](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+> 延伸阅读：乌布有哪些好玩的？请看[乌布探索的100个方式](/blog/2023-11-17-655054b1fd897800011d4d2c/)
 
 ### 乌布酒店丛林健身房
 
@@ -210,17 +211,17 @@ https://www.instagram.com/reel/C7rTe1ypa9_/?utm_source=ig_web_button_share_sheet
 
 另外我们在旅行途中发生了一些出乎意料之外的事情，我们也剪成了短片跟大家分享：
 
-**1.Grab坑人套路大揭秘：**
+**1.Grab阴险坑人套路：**
 
 https://www.instagram.com/reel/C7UJZKbp4lZ/?utm_source=ig_web_button_share_sheet
 
-> 延伸阅读：[巴厘岛网约车司机套路：如何避免Grab/Gojek陷阱？](/blog/2024-05-27-66546581fd8978000119d572/)
+> 延伸阅读：[巴厘岛APP网约车司机的套路：如何避免Grab/Gojek陷阱？](/blog/2024-05-27-66546581fd8978000119d572/)
 
-**2.巴厘岛乌布山区自助行必备物品：**
+**2.巴厘岛乌布山区自助行必带：**
 
 https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
-> 延伸阅读：台湾的吹风机能在巴厘岛用吗？请看[巴厘岛旅游必读：电压与插座完全指南！](/blog/2023-11-30-65686558fd89780001fef654/)
+> 延伸阅读：台湾的吹风机能在巴厘岛用吗？请看[巴厘岛旅游必读：电压与插座指南完全手册！](/blog/2023-11-30-65686558fd89780001fef654/)
 
 ***
 
@@ -228,7 +229,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 ### 4/15 （4/15-4/17 乌鲁瓦图)
 
-**抵达DPS机场**
+**DPS机场到达**
 
 时间：09:10-14:40
 
@@ -316,7 +317,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **海滩美景**
 
-地点：Thomas Beach 这里的海滩非常适合放松和拍照。
+地点：Thomas Beach这里的海滩非常适合放松和拍照。
 
 > 延伸阅读：[巴厘岛的无人秘境 6个巴厘岛秘境沙滩攻略/如何查询潮汐？](/blog/2023-08-22-64e4c0c9fd897800014e31bf/)
 
@@ -326,7 +327,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **悬崖美景**
 
-地点：Happy Sunset Batujaran 欣赏壮观的海景和日落。
+地点：Happy Sunset Batujaran欣赏壮观的海景和日落。
 
 **缆车海滩俱乐部**
 
@@ -410,7 +411,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 > 延伸阅读：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/blog/2023-08-26-64e9e8e9fd89780001f28d6b/)
 
-**洞穴秘境瀑布**
+**洞穴感秘境瀑布**
 
 地点：Tukad Cepung Waterfall
 
@@ -422,11 +423,11 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **德哥拉朗梯田**
 
-地点：德哥拉朗梯田欣赏美丽的梯田景观，并拍照留念。
+地点：德格拉朗梯田欣赏美丽的梯田景观，并拍照留念。
 
 **网红秋千拍照**
 
-地点：德哥拉朗
+地点：德格拉朗
 
 **乌布按摩**
 
@@ -440,25 +441,25 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 **入住酒店**
 
-地点：乌布Wapa di Ume酒店
+地点：Wapa di Ume Ubud
 
 > [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)
 
 ***
 
-### 4/24 (八丹拜 库塔)
+### 4/24 (Padang Bai 库塔)
 
 **抵达港口**
 
-地点：八丹拜 (Ekajaya快船) 时间：13:30
+地点：Padang Bai (Ekajaya Fast Ferry)时间：13:30
 
 **午餐**
 
-地点：灵活安排
+地点：弹性安排
 
 **印度寺庙**
 
-地点：Goa Lawah寺庙 (蝙蝠洞穴)
+地点：Goa Lawah Temple (蝙蝠洞穴)
 
 **Big Garden Corner**
 
@@ -504,13 +505,13 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 享受库塔海滩的阳光和海滩活动。
 
-> 延伸閱讀：[巴厘岛库塔冲浪推荐｜小杰的巴厘岛学冲浪初体验](https://youtu.be/gECdNvG16ww)
+> 延伸阅读：[巴厘岛库塔冲浪推荐｜小杰的巴厘岛学冲浪初体验](https://youtu.be/gECdNvG16ww)
 
 **购物中心**
 
 地点：Discovery Shopping Mall
 
-> 延伸閱讀：[库塔必访50个景点攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
+> 延伸阅读：[库塔必访50个景点攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 **DPS机场**
 
@@ -526,7 +527,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 关于巴厘岛自由行有任何问题或是想跟我们拿完整行程的朋友， 都欢迎私讯我们的IG或留言唷! 希望有帮到大家！
 
-您觉得叶庭瑜他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
+您觉得叶庭瑜他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 
 {{block:遊記}}
 

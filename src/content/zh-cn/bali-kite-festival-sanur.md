@@ -1,4 +1,5 @@
 ---
+slug: bali-kite-festival-sanur
 title: 巴厘岛风筝节即将在本周末于沙努尔举行
 description: >-
   巴厘岛一年一度的「国际风筝节（international kite festival）」将于7月20日至21日在沙努尔海岸的Padang
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6698eaf2fd89780001c6d5d9'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 77aafd8266d7f7e8e65c7eb2058bcc19
+_srcHash: 4cb9dff0e194e6193637234c29b8c13c
 ---
 
 ## **巴厘岛风筝节简介**

@@ -1,6 +1,7 @@
 ---
+slug: bali-immigration-checks-guide
 title: 去巴厘岛必看！移民警察随机盘查，入境文件要打印纸质版吗？
-description: 巴厘岛入境文件（签证、观光税、Arrival Card）官方允许电子版，但因移民警察现已在各地随机盘查，强烈建议携带纸质备份，避免不必要的麻烦。
+description: 巴厘岛入境文件（签证、观光税、Arrival Card）官方允许电子版，但因移民警察现已在各地随机盘查，强烈建议携带纸质版备份，避免不必要的麻烦。
 pubDate: '2025-09-09'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6edc5fad9df5889dbc92a46e84e4bc6b.png'
 tags:
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/68bf8728fd897800013427c2'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: e2ff582d4cc41cad5c2f7beeb28d5cbf
+_srcHash: 39aeae43e9cf56852143873cf22bc91a
 ---
 
 ## **很多人都在问：需要打印吗？**
@@ -44,7 +45,7 @@ _srcHash: e2ff582d4cc41cad5c2f7beeb28d5cbf
 
 👉 建议：
 
-- 将 **电子签证、观光税凭证、Arrival Card QR Code** 各印一份 A4 黑白纸质。
+- 将 **电子签证、观光税凭证、Arrival Card QR Code** 各打印一份 A4 黑白纸质。
 - 随身携带，避免在旅途中遇到麻烦。
 
 ---
@@ -86,7 +87,7 @@ _srcHash: e2ff582d4cc41cad5c2f7beeb28d5cbf
 
 ### **1. 入境文件手机出示就好吗？**
 
-理论上可以，但若遇上移民警察盘查，纸质文件会更方便。
+理论上可以，但若遇上移民警察盘查，纸本会更方便。
 
 ### **2. 移民警察真的会盘查吗？**
 
@@ -104,7 +105,7 @@ _srcHash: e2ff582d4cc41cad5c2f7beeb28d5cbf
 
 不需要，黑白即可，只要清晰可读。
 
-## 📩 **「巴厘岛旅游攻略」首页说明**
+## 📩 **「巴厘岛旅游攻略」首页说明
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 

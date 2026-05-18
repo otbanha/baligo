@@ -1,4 +1,5 @@
 ---
+slug: nusa-penida-luxury-tour
 title: ⭐✨网红秘境+佩尼达岛东西岸五日轻奢之旅 ✨⭐
 description: 让你一次拥有无敌海景、竹林生态、私人泳池别墅，还有超梦幻的漂浮早餐和海景SPA按摩！这是一场专为网红打造的梦幻旅程，快来感受佩尼达岛的绝美风光吧！
 pubDate: 2025-02-16T00:00:00.000Z
@@ -8,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5d922971dbbd4941baab8e27787428fe.jpg'
 originalUrl: 'https://vocus.cc/article/67b1b9e2fd89780001ab13ac'
 lang: zh-cn
-_srcHash: 659a311f28f7fe9d43334e324f6b4ca7
+_srcHash: 394bbe4acceb5b68efeb838db6adc41b
 ---
 
 让你一次拥有无敌海景、竹林生态、私人泳池别墅，还有超梦幻的漂浮早餐和海景SPA按摩！这是一场专为网红打造的梦幻旅程，快来感受巴厘岛+佩尼达岛的绝美风光吧！
@@ -33,9 +34,9 @@ _srcHash: 659a311f28f7fe9d43334e324f6b4ca7
 
 ***
 
-## 🏨 特色住宿安排
+## 🏨 特色**住宿安排**
 
-#### **海景网红房**：醒来就是无边海景，浪漫到不行！
+#### **海景网红房**：醒来就是无边际海景，浪漫到不行！
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774882579000-1739702997224.jpg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774882579421-1739702997760.jpg)
@@ -91,7 +92,7 @@ https://youtu.be/cikegen9rIE?si=oo_bD2UNFaiXhUKI
 
 ![還有更多精彩景點喔！](https://images.gobaligo.id/vocus/vocus_6ea1b91369688971ce287790025c64d1.jpg)
 
-还有更多精彩景点哦！
+还有更多精彩景点喔！
 
 ## 💡 **项目包含**
 
@@ -101,7 +102,7 @@ https://youtu.be/cikegen9rIE?si=oo_bD2UNFaiXhUKI
 
 ✅ 全程包车司机+导游服务
 
-✅ 佩尼达岛往返船票
+✅ 佩尼达岛来回船票
 
 ✅ 部分精选餐食
 
@@ -109,7 +110,7 @@ https://youtu.be/cikegen9rIE?si=oo_bD2UNFaiXhUKI
 
 ### ❗ **注意事项** ❗
 
-1. 💰 **超值价 USD$604/人** 💰填写报名表即享优惠！
+1. 💰 **超值价 USD$604/人** 💰填写报名表即享有优惠！
 2. **不包含机票**：旅客可自行购买或联系客服代订。
 3. **适用出发日期**：即日起至2026年12月（假期报价另计）。
 4. **二人成行优惠价**：人数不同请洽客服询价。

@@ -1,4 +1,5 @@
 ---
+slug: bali-belly-medicine-guide
 title: Bali Belly 巴厘岛腹泻/肠胃炎/脏水病如何自救?Bali Belly 缓解成药攻略
 description: "\U0001F48A 巴厘岛当地药局可购药品清单 (针对Bali Belly)"
 pubDate: 2026-01-02T00:00:00.000Z
@@ -13,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_eef45058d1c6971ff4946e72428f3b65.png'
 originalUrl: 'https://vocus.cc/article/69523427fd89780001caa652'
 lang: zh-cn
-_srcHash: 94a3076ffabc75a0486efa424f7a60d6
+_srcHash: 009984aba511124867aee4fc8b3e2e4b
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
@@ -22,13 +23,8 @@ _srcHash: 94a3076ffabc75a0486efa424f7a60d6
 
 ## Bali Belly 预防胜于治疗
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a81dcdb7ad41f0217c48c227f3d2376a.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_29f49f8dcdb2f01829087cc9573e464d.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_f236c2f98d598a09ea38642c11f57cad.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_f1999375de63a55c0537c176c31bd193.jpg)
-
 https://youtu.be/GivvqCXp11A
+
 ## 💊 巴厘岛当地药局可购药品清单 (针对Bali Belly)
 
 ### 1. 口服补液盐 (ORS) – 治疗核心
@@ -107,13 +103,13 @@ https://youtu.be/GivvqCXp11A
 
 ## 🏥 如何寻求医疗协助
 
-如果症状需要看医生，可以前往巴厘岛的国际标准诊所，如BIMC、Siloam、Prime Plus Medical等，这些地方通常有会说英语的医护人员。若情况比较严重无法出门，巴厘岛的 [Unicare Clinic Bali 24/7全天候医生随叫随到](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1191913&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170717-24-7-doctor-on-call-bali-at-unicare-clinic-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92260e07ac) 服务也可以善用。
+如果症状需要看医生，可以前往巴厘岛的国际标准诊所，如BIMC、Siloam、Prime Plus Medical等，这些地方通常有会说英语的医护人员。若情况比较严重不便出门，巴厘岛的 [Unicare Clinic Bali 24/7全天候医生随叫随到](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1191913&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170717-24-7-doctor-on-call-bali-at-unicare-clinic-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92260e07ac) 服务也可以善用。
 
 ## 💡 购买与沟通建议
 
 · 寻找可靠药房：可以优先寻找连锁药房，如Guardian、Kimia Farma、Watsons，这些地方药品来源正规。
 
-· **沟通备用语句：如果语言不通，可以尝试向药剂师出示以下短句：**
+· **沟通备用词句：如果语言不通，可以尝试向药剂师出示以下短句：**
 
 > ·“Oralit untuk diare.” (口服补液盐用于腹泻。)
 

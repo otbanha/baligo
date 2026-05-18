@@ -1,9 +1,9 @@
 ---
-title: 'Bali Entry Regulations: Visa Application + Tourism Tax Payment System Launched'
+slug: bali-visa-tourism-tax
+title: 'Bali Entry Update: Visa Application + Tourism Tax Payment System Launched'
 description: >-
-  Bali has announced that the tourism tax will be integrated into the visa
-  application process, making it more convenient for visitors to pay while
-  improving tax collection efficiency.
+  Bali announces integration of tourism tax into visa application process for
+  easier payment and improved tax collection efficiency.
 pubDate: '2025-10-06'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9f3714d76e8ece3e03fe1c739b44bb36.png'
 tags:
@@ -16,48 +16,48 @@ originalUrl: 'https://vocus.cc/article/68e36431fd89780001eea4fa'
 category:
   - 簽證通關
 lang: en
-_srcHash: 1828087da06ed67a1a46993213d517a6
+_srcHash: d94fd7944146d4e71a5ed1b16dec5a30
 ---
 
-## **Overview of Bali's New Tourism Tax Regulations**
+## **Overview of Bali's New Tourism Tax Regulation**
 
-Bali Governor **Wayan Koster** announced that to increase local revenue and improve tourism management, the **Tourism Tax (or Tourist Levy)** will officially be incorporated into the visa application process.
+Bali Governor **Wayan Koster** announced that to boost local revenue and enhance tourism management, the **Tourism Levy** will be officially incorporated into the visa application process.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2a29412d867ed5a676e351934576fdd1.png)
 
-Currently, although foreign tourists are required to pay **150,000 Indonesian Rupiah** (approximately NT$300 / about USD$10), the actual payment rate is only around **35%**. This has resulted in the local government losing trillions of Indonesian Rupiah in potential annual revenue.
+Currently, although foreign tourists are required to pay **150,000 Indonesian Rupiah** (approximately NT$300 / USD$10), the actual payment rate is only about **35%**. This results in billions of Rupiah in potential revenue loss for the local government annually.
 
 ---
 
-## **Why Integrate the Tourism Tax into the Visa System?**
+## **Why Integrate Tourism Tax into the Visa System?**
 
 Currently, tourists need to use three different platforms:
 
-1. The e-Visa system
-2. The tourism tax payment website LoveBali
-3. The All Indonesia form to be filled out before entry
+1. e-Visa system
+2. Tourism tax payment website LoveBali
+3. All Indonesia form to be filled before arrival
 
-This process has caused inconvenience for many travelers and led some to skip the tax payment step.
+This process causes inconvenience for many travelers and leads some to skip the tax payment step.
 
-Therefore, Koster proposed that the **Directorate General of Immigration** take charge of collecting the tourism tax, allowing it to be paid together with the visa fee.
-
----
-
-## **Government and Tourism Industry Collaboration**
-
-Koster has discussed this reform with Indonesian Minister of Law and Human Rights **Yusril Ihza Mahendra**, receiving positive feedback.
-
-Meanwhile, **354 member agencies** of the Indonesian Association of Travel Agencies (**ASITA**) have joined the program as official payment points, each receiving a **3% commission** as an incentive.
+Therefore, Koster proposed that the **Directorate General of Immigration** take charge of collection, allowing tourism tax to be paid together with visa fees.
 
 ---
 
-## **Payment Methods and Changes After New System Implementation**
+## **Government and Tourism Industry Collaboration Plan**
+
+Koster has discussed this reform with **Yusril Ihza Mahendra**, Indonesia's Minister of Law and Human Rights, and received positive feedback.
+
+Meanwhile, **354 member organizations** of the Indonesian Travel Agents Association (**ASITA**) have joined the program as official payment points, each receiving a **3% fee** as compensation.
+
+---
+
+## **Payment Methods and Changes After the New System Takes Effect**
 
 Currently, payments can still be made through the **LoveBali website or app (App Store / Google Play)**.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cd3ba5773e028d2fdf173741945a7708.png)
 
-However, once the new system is in place, tax payment will be directly linked to visa applications, **making evasion impossible**.
+However, once the new system is implemented, tax payment will be directly linked to visa applications, **making it impossible to avoid payment**.
 
 It is estimated that this will generate nearly **1 trillion Indonesian Rupiah** annually for Bali, to be used for:
 
@@ -69,9 +69,9 @@ It is estimated that this will generate nearly **1 trillion Indonesian Rupiah** 
 
 ## **Bali Government's Long-Term Vision**
 
-The local government has stated that this new revenue will be earmarked specifically to promote **Sustainable Tourism**.
+The local government stated that this new revenue will be earmarked specifically to promote **Sustainable Tourism**.
 
-With stable funding sources, transportation, public facilities, and environmental quality will be further improved to ensure Bali continues to attract global tourists.
+With stable financial resources, transportation, public facilities, and environmental quality will be further improved to ensure Bali continues to attract global tourists.
 
 ---
 
@@ -81,7 +81,7 @@ With stable funding sources, transportation, public facilities, and environmenta
 
 A1. The tourism tax is **150,000 Indonesian Rupiah**, approximately USD$10.
 
-### **Q2. When will the new policy take effect?**
+### **Q2. When will the new system be implemented?**
 
 A2. It is expected to be fully integrated into the visa application process by **the end of 2025**.
 
@@ -91,22 +91,22 @@ A3. Yes, but in the future, payment will primarily be completed along with the v
 
 ### **Q4. Should I keep the receipt after paying the tourism tax?**
 
-A4. It is recommended to keep an electronic receipt for verification upon entry.
+A4. It is recommended to keep the electronic receipt for verification upon entry.
 
 ### **Q5. What is the tourism tax used for?**
 
 A5. Primarily used for **environmental conservation, infrastructure development**, and **tourism facility improvements**.
 
-## 📩 **"Bali Travel Guide" Homepage Overview**
+## 📩 **"Bali Travel Guide" Homepage Description**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
-**By subscribing for free, you'll receive:**
+**By subscribing for free, you'll get:**
 
-- Latest Bali news to keep you updated on travel information
-- In-depth guides to make your trip both budget-friendly and stress-free
+- The latest Bali news, keeping you informed with first-hand travel information
+- In-depth guides to make your trip both economical and worry-free
 - Exclusive recommendations for hidden gems and local food maps
-- Content you won't find in Facebook groups
+- Content not found on Facebook groups
 - Collecting the most travel itinerary suggestions from fellow travelers, ensuring every trip is a seamless experience
 
-Sign up easily using your Google or Facebook account!
+Sign up easily with your Google or Facebook account!

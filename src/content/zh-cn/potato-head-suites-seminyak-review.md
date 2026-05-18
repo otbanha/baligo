@@ -1,4 +1,5 @@
 ---
+slug: potato-head-suites-seminyak-review
 title: 【水明漾酒店推荐】Potato Head Suites & Studios住宿体验分享
 description: >-
   在巴厘岛旅行期间，我入住了位于水明漾的Potato Head Suites &
@@ -18,8 +19,13 @@ tags:
   - '#住宿推薦'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bea3189bc41ae4644be4da22c0161f8a.jpg'
 originalUrl: 'https://vocus.cc/article/6735d8e7fd897800013ead73'
+agoda_hotel_id: 11295575
+agoda_hotel_name: 峇里島波塔頭德薩
+agoda_star_rating: 5
+latitude: -8.678791999816895
+longitude: 115.14952087402344
 lang: zh-cn
-_srcHash: fa44e94ea6b1cee68a2e07ed22ad9179
+_srcHash: eb9b17eb8e27118a66f1e92b2f3a9dfe
 ---
 
 在巴厘岛旅行期间，我入住了位于水明漾的Potato Head Suites & Studios。一踏进酒店，就被迎面而来的大厅吸引，开放而宽敞的空间设计，搭配简约的自然装饰，让人瞬间放松心情。这里还设有一个免费的「Jamu Station」，提供传统印尼草药饮品 jamu，让人一到达就感受到当地文化的独特氛围。
@@ -58,7 +64,7 @@ Potato Head Suites & Studios 迎宾大厅
 
 房间里居然有冰桶！
 
-酒店更贴心地准备了「零废弃」小套组，包括防晒乳、消毒酒精等用品，且可随时补充，非常环保。
+酒店更贴心地准备了“零废弃”小套组，包括防晒乳、消毒酒精等用品，且可随时补充，非常环保。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_04d14622aa32d95291b796ecaed54b35.jpg)
 
@@ -74,7 +80,7 @@ Potato Head Suites & Studios 迎宾大厅
 
 我们在这里度过了难忘的黄昏时刻，看着太阳缓缓落下，天际染上各种美丽的色彩。这次的住宿体验十分愉快，我们玩得非常开心，也期待有机会再回来Potato Head Suites & Studios，再次享受这里的独特魅力。
 
-> ▶[Potato Head Suites & Studios订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=11295575) ▶[Trip.com预订](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=45937170&checkIn=2025-07-31&checkOut=2025-08-01&adult=2&children=0&subStamp=1232&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-N6xcjFJMEkxMTBKHWfkWPOoYuz2Sx-Czp6PKwS0Vu80MFTM6b_UGn4UocAnkIGEBAod5jEGMwJYn5ii3YUBDE6NcMclcQ5prbssRBoZJT42790NaMCo8V-8SCGKAYleQUWTZhWQxjD4hlnEAtHz3bjKAYnVo4T2zcwz2Cc9OSz6EZGruuLC2wX1TrsYGQ6wXjowy6mBUydsyZb7mKCKDvExMLxq9_pFBPDJSaGW0wMj5jAxrxiYvjExPALqqiJmaGLmWESM1jpLGawikXMDFK8RsmmaYYpSWbJBmmmRgpCGgderzrCZmTNAXSulmB8iKeni2FJYapZYallTlGBqQHjJEYmD-9TjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZEVbMUoxuHoxBrK5uhqZuRlFaXMyeLkGCPLUxvfXrbOylQDxFGE8LxDOE8ZJYqzJ0PbwzHgsVMHYxcggwejBGMFYwvmIEqfoBDg4A3BeVG58BAAA&subChannel=&masterhotelid_tracelogid=2c5f1db6c0f52&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&barcurr=IDR&locale=zh-HK&Allianceid=6817581&SID=242041353&trip_sub1=&trip_sub3=D4662646)
+> ▶[Potato Head Suites & Studios订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=11295575) ▶[Trip.com预订](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=45937170&checkIn=2025-07-31&checkOut=2025-08-01&adult=2&children=0&subStamp=1232&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-N6xcjFJMEkxMTBKHWfkWPOoYuz2Sx-Czp6PKwS0Vu80MFTM6b_UGn4UocAnkIGEBAod5jEGMwJYn5ii3YUBDE6NcMclcQ5prbssRBoZJT42790NaMCo8V-8SCGKAYleQUWTZhWQxjD4hlnEAtHz3bjKAYnVo4T2zcwz2Cc9OSz6EZGruuLC2wX1TrsYGQ6wXjowy6mBUydsyZb7mKCKDvExMLxq9_pFBPDJSaGW0wMj5jAxrxiYvjExPALqqiJmaGLmWESM1jpLGawikXMDFK8RsmmaYYpSWbJBmmmRgpCGgderzrCZmTNAXSulmB8iKeni2FJYapZYallTlGBqQHjJEYmD-9TjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZEVbMUoxuHoxBbK5uhqZuRlFaXMyeLkGCPLUxvfXrbOylQDxFGE8LxDOE8ZJYqzJ0PbwzHgsVMHYxcggwejBGMFYwvmIEqfoBDg4A3BeVG58BAAA&subChannel=&masterhotelid_tracelogid=2c5f1db6c0f52&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&barcurr=IDR&locale=zh-HK&Allianceid=6817581&SID=242041353&trip_sub1=&trip_sub3=D4662646)
 
 {{block:smk}}
 

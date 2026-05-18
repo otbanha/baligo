@@ -1,4 +1,5 @@
 ---
+slug: ubud-aloha-swing-photo-tips
 title: 推荐巴厘岛乌布必去网红美照荡秋千｜网美仙气美照如何拍？｜Aloha Ubud Swing 免排队！
 description: 巴厘岛最具特色的网红/网美仙女美照荡秋千，Bali Swing/Aloha Swing必玩！巴厘岛行程规划/心得分享。鸟巢拍照、秋千空拍达成
 pubDate: 2020-10-12T00:00:00.000Z
@@ -13,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3889e90715db99da85399e3bceaa9c3b.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b70fd897800013a940a'
 lang: zh-cn
-_srcHash: 1d1e030ea5115001958983697c4a115c
+_srcHash: d2f6f2fea8ef93f1410925d9939f8c35
 ---
 
 巴厘岛最具特色的网红/网美仙女美照荡秋千，Bali Swing/Aloha Swing必玩！巴厘岛行程规划/心得分享。鸟巢拍照、秋千空拍达成
@@ -32,6 +33,6 @@ https://youtu.be/_Lvp9cIVYz8
 
 ## 更多乌布秋千介绍
 
-[【乌布秋千攻略】8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](https://gobaligo.id/blog/2025-08-15-689eb518fd897800014fbb28/)
+> [【乌布秋千攻略】8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](https://gobaligo.id/blog/2025-08-15-689eb518fd897800014fbb28/)
 
 {{block:ubud}}

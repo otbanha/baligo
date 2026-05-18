@@ -1,4 +1,5 @@
 ---
+slug: mount-agung-closure-2026
 title: 4月要爬阿贡火山？先看这篇再订行程
 description: 阿贡火山 2026 年 3 月 28 日至 4 月 24 日封山，因贝萨基寺庙举办重大宗教仪式。计划登山的旅客请调整行程，违规入山最严重可被驱逐出境。
 pubDate: 2026-04-05T00:00:00.000Z
@@ -23,7 +24,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: zh-cn
-_srcHash: 8efcc74d307f33d15c5724f1fe0ef181
+_srcHash: e7a19f9ceab9885e8fe5d8e38a6bb3c0
 ---
 
 如果你这段时间有计划去爬巴厘岛的阿贡火山（Mount Agung），行程要先暂停一下。

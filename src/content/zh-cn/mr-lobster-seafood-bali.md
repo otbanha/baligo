@@ -1,4 +1,5 @@
 ---
+slug: mr-lobster-seafood-bali
 title: 探索巴厘岛的美味宝藏：龙虾先生 Mr. Lobster 海鲜餐厅
 description: >-
   当你来到巴厘岛，除了欣赏美丽的海景和享受阳光沙滩外，一定不能错过的是这里的美食。今天我要介绍的是一家让你垂涎欲滴的海鲜餐厅——龙虾先生 Mr.
@@ -15,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2cbac39774379bbcb2a04256d663206b.jpg'
 originalUrl: 'https://vocus.cc/article/667ff433fd897800017b331e'
 lang: zh-cn
-_srcHash: 87be116f0bada3fa360fe01bfd309e5d
+_srcHash: 546c21b5552dae94c24d28bd11550ac4
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3dc7be54d646651c0baffd85a2b0e7c2.jpg)
@@ -36,7 +37,7 @@ _srcHash: 87be116f0bada3fa360fe01bfd309e5d
 
 ## 绝佳的用餐体验
 
-餐厅的环境宽敞简约，带有简朴的风情。用餐前记得致电预约，享受老板亲自提供的亲切服务。如果不方便前来，也可以使用 Grab 或 Gojek 的外送服务，在家享受新鲜美味的海鲜料理。
+餐厅的环境宽敞简约，带有质朴的风情。用餐前记得致电预约，享受老板亲自提供的亲切服务。如果不方便前来，也可以使用 Grab 或 Gojek 的外送服务，在家享受新鲜美味的海鲜料理。
 
 ## 购买巴厘岛名产「鱿鱼片」
 
@@ -48,7 +49,7 @@ _srcHash: 87be116f0bada3fa360fe01bfd309e5d
 
 如果你计划前往巴厘岛，那么龙虾先生 Mr. Lobster 海鲜餐厅绝对是你不可错过的海鲜美食站点。在这里，你将体验到新鲜海鲜带来的味觉盛宴，享受简单烹调背后的无限美味。下一次来巴厘岛，记得来龙虾先生 Mr. Lobster，品尝一流的海鲜料理！
 
-## Mr Lobster 坎古 分店（2025/7开幕，目前整修中）
+## Mr Lobster 坎古分店（2025/7开幕，目前整修中）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_adc8f803a5987f7d3df34ca6da8de9cb.jpg)
 
@@ -62,7 +63,7 @@ _srcHash: 87be116f0bada3fa360fe01bfd309e5d
 
 {{block:lobster}}
 
-记得有机会一定要去造访龙虾先生餐厅，可以提前和许老板联系，他说他有许多私房菜，**提前预定还会有隐藏菜单哦**。
+记得有机会一定要去造访龙虾先生餐厅，可以提前和许老板联络，他说他有许多私房菜，**提前预定还会有隐藏菜单哦**。
 
 电话：082112341224
 Line：082112341224

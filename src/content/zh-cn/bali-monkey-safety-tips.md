@@ -1,4 +1,5 @@
 ---
+slug: bali-monkey-safety-tips
 title: 巴厘岛最可怕的不是毒蛇猛兽，而是它...
 description: 你知道巴厘岛最需要提防的动物是什么吗？猴子...
 pubDate: 2024-03-19T00:00:00.000Z
@@ -13,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6614b94e4dbd763830fa8bcec020aa64.png'
 originalUrl: 'https://vocus.cc/article/65f97cf5fd897800019eeca0'
 lang: zh-cn
-_srcHash: 7fdaffa5f0d110cdfda98a96bd7b8c36
+_srcHash: ed8fa486bb9f54ff3811227d741d9381
 ---
 
 巴厘岛的猴子相当独特，与当地印度教信仰密切相关。由于「神猴哈努曼」备受尊崇，居民普遍尊敬猴子，甚至主动喂食。乌布的「圣猴森林」便是专为它们设立的保护区与乐园。

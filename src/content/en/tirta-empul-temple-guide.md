@@ -1,14 +1,15 @@
 ---
+slug: tirta-empul-temple-guide
 title: >-
-  【Bali's Tirta Empul Temple】Complete Guide: The Thousand-Year-Old Holy Water
-  Purification Ritual, Taboos, and Must-See Highlights
+  【Bali's Tirta Empul】Complete Guide: The Millennium Holy Water Purification
+  Ritual Process, Taboos, and Must-See Highlights
 description: >-
   Step into Bali's most sacred water temple! This article provides a detailed
-  breakdown of Tirta Empul Temple's historical background and the complete steps
-  of the Melukat purification ritual. Learn how to obtain a Sarong, the order of
-  offerings, the legends of the spring's healing powers, and the religious
-  taboos for entering the temple. Experience the healing energy of the sacred
-  springs in this thousand-year-old temple.
+  analysis of the historical background of Tirta Empul and the complete steps of
+  the Melukat purification ritual. It includes how to obtain a Sarong, the order
+  of offerings, the legendary effects of the spring water, and religious taboos
+  for visiting. Experience the healing power of the sacred spring water in this
+  ancient temple.
 pubDate: 2026-01-18T00:00:00.000Z
 category:
   - 美食景點活動
@@ -26,87 +27,90 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ea059ffc95268e16ff2815ce4d13f7a9.jpg'
 originalUrl: 'https://vocus.cc/article/6852cdc2fd89780001e0b7ad'
 lang: en
-_srcHash: aae8f93502e50658bbcafdaf6438b52e
+_srcHash: b2bb76589164a644b3be782be255218a
 ---
-Tirta Empul (meaning 'holy spring') is one of Bali's oldest and most spiritually profound water temples, located in Tampaksiring village, Gianyar. This temple is renowned for its Melukat purification ritual, where devotees believe the spring water possesses the power to cleanse negative energies.
 
-**Visiting Highlights:**
+Tirta Empul (meaning 'holy spring') is one of Bali's oldest and most spiritually significant water temples, located in the village of Tampaksiring, Gianyar. This temple is famous for its water purification ritual 'Melukat,' where devotees believe the spring water has the power to cleanse negative energies.
+
+**Highlights of the Visit:**
 
 - Experience the traditional Melukat purification ritual
-- Admire ancient Balinese architecture and mystical spring sources
+- Admire the ancient Balinese architecture and mysterious springs
 - Observe local religious celebrations like Piodalan
-- Find inner peace amidst lush green surroundings
+- Reflect in the lush, green surroundings
 
-Even when rain interrupts your Bali trip, the island offers plenty of alternative activities to ensure you can still experience its wonderful culture and natural wonders. Through the 60 alternative plans shared in this article, we hope to provide solutions that allow you to fully enjoy your time and explore Bali's beauty, even on rainy days!
+***
 
 ## What is the Melukat Purification Ritual? Can Non-Hindus Participate?
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5ba2abc7963542e2253bb38ebb3360ef.jpg)
 
-Melukat is a purification ritual in Balinese Hinduism, where devotees pass through 26 fountains in sequence, using water splashes and prayers to cleanse their spirits.
+Melukat is a Hindu purification ritual in Bali, where devotees pass through 26 fountains in sequence, using water and prayers to cleanse their spirits.
 
-Non-Hindus are also welcome to participate, provided they respect the culture and etiquette.
+Non-Hindus can also participate, as long as they respect the culture and etiquette.
 
-**Things to Know Before Participating:**
+**Participation Guidelines:**
 
 - Wear a Sarong and sash (provided free by the temple)
 - Prepare [Canang Sari](/blog/2024-07-16-66964aa7fd89780001c7051c/) (offerings) available for purchase outside the temple
 - Maintain quietness, humility, and respect
-- Follow the sequence of the springs for purification (guides are available to assist)
+- Follow the sequence of springs for purification (guides are available to assist)
 
-> [Read more: Bali's Offering Tradition - Canang Sari](/blog/2024-07-16-66964aa7fd89780001c7051c/)
+> Read more: [Bali's Offering Ritual: Canang Sari](/blog/2024-07-16-66964aa7fd89780001c7051c/)
 
-### The Correct Process and Order of the Tirta Empul Purification Ritual
+### The Correct Process and Order of the Tirta Empul Purification Ceremony
 
-The Tirta Empul purification ritual may seem simple, but it follows a specific order and rules. Please adhere to the following steps:
+The Tirta Empul purification ceremony may seem simple, but it follows a specific order and rules. Please adhere to the following:
 
-1. **Attire and Preparation**: Change into the traditional green Sarong and waistband, store your belongings in a locker, and proceed to the holy spring pool area.
-2. **Starting the Purification Process**: When facing the holy spring pool, **begin from the left pool**, following the sequence of water spouts for prayer and purification.
-3. **Skip Two Specific Spouts (Tirta Pengentas)**: **Avoid the second-to-last and third-to-last spouts** on the left pool, as these are reserved for purification rituals for the deceased and should not be used by those not in mourning.
-4. **After Completing the Left Pool, Move to the Right Pool**: Only perform the purification ritual at the first spout of the right pool; there's no need to go through each one.
-5. **Steps for Each Spout:**
-6. - Place your hands together in prayer, silently express your wishes or prayers while facing the spout.
-- Wet your hair with the spring water, symbolizing the cleansing of distractions and fatigue.
-- Sprinkle the holy water over your body for internal and external purification and spiritual rebirth.
+1. **Dressing and Preparation**: Change into the traditional green sarong and waistband, store your belongings in the locker, then proceed to the holy spring pool area.
+2. **Starting the Purification Process**: When facing the holy spring pools, **begin from the left-side pool**, following the sequence of water spouts for prayer and purification.
+3. **Skipping Two Specific Spouts (Tirta Pengentas)**: **Skip the second-to-last and third-to-last spouts on the left-side pool**. These are reserved for purification rituals for the deceased and should not be used by those not involved in such ceremonies.
+4. **After Completing the Left-Side Pool, Move to the Right-Side Pool**: Only the first spout on the right-side pool needs to be used for purification; there's no need to go through each one.
+5. **Steps for Each Spout**:
+6. - Place your hands together in prayer, face the spout, and silently recite your wishes or prayers.
+
+- Splash the holy water on your hair to symbolize clearing away distractions and fatigue.
+- Sprinkle the holy water over your entire body for internal and external purification and spiritual renewal.
+
+The cool, refreshing water flowing over your body feels like it washes away the fatigue of travel and the worries in your heart. This spiritual ceremony not only brings inner peace but also offers a profound and unforgettable cultural experience—definitely worth trying!
+
+> [Join one of Klook's highly-rated day tours combining Tirta Empul Temple](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
+
+***
+
+## Introduction to the Three Main Areas of Tirta Empul
 
 **Outer Courtyard (Jaba Pura)**
 
-2. **Begin the Purification Process**: When facing the holy spring pools, **start from the left pool**, following the sequence of the water spouts for prayer and purification.
+![raw-image](https://images.gobaligo.id/vocus/vocus_3f2cc19c62eca50170a62be966baf1f4.jpg)
 
-> [Join one of Klook's highly-rated day tours that include Tirta Empul Temple](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
+After entering the temple gate, you'll arrive at the outer courtyard, which features a serene koi pond and lush greenery, perfect for meditation and reflection.
 
-Even when rain interrupts your Bali trip, the island offers plenty of alternative activities to ensure you can still experience its wonderful culture and natural wonders. Through the 60 alternative plans shared in this article, we hope to provide solutions that allow you to fully enjoy your time and explore Bali's beauty, even on rainy days!
+**Central Courtyard (Jaba Tengah)**
 
-4. **After Completing the Left Pool, Move to the Right Pool**: Only the first spout in the right pool needs to be used for purification; there's no need to go through each one.
+![raw-image](https://images.gobaligo.id/vocus/vocus_4700e8862974289fdc9dfce583117aec.jpg)
 
-**Middle Courtyard (Jaba Tengah)**
+The main area for purification rituals, featuring two large pools and 26 springs, each representing different spiritual aspirations.
 
-6. - Place your hands together in prayer, silently express your wishes or prayers facing the spout.
+**Significance of Key Springs:**
 
-**Significance of Key Spring Spouts:**
-
-The main area for purification rituals features two large pools and 26 springs, each representing different spiritual aspirations.
-
-**Inner Sanctum (Jeroan)**
-
-- Tirta Sudamala: Soul purification
+- Tirta Sudamala: Purification of the soul
 - Tirta Penglukatan: Removal of negative energy
 - Tirta Panegtegan: Enhancement of courage and confidence
 
-Note: Some spring waters (such as Tirta Pengentas) are reserved for death rituals only. Visitors are advised not to misuse them.
+Note: Some springs (e.g., Tirta Pengentas) are reserved for death rituals; visitors should avoid using them.
 
-**內殿（Jeroan）**
+**Inner Sanctum (Jeroan)**
 
-The most sacred area, housing the main temple and the source of spring water, is where one sits in meditation and makes wishes after completing the Melukat ritual. Non-Hindus should generally refrain from entering.
-
-Even when rain interrupts your Bali trip, the island offers plenty of alternative activities to ensure you can still experience its wonderful culture and natural wonders. Through the 60 alternative plans shared in this article, we hope to provide solutions that allow you to fully enjoy your time and explore Bali's beauty, even on rainy days!
-## Visiting Hours and Suggested Itinerary
-
-![raw-image](https://images.gobaligo.id/vocus/vocus_3f2cc19c62eca50170a62be966baf1f4.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_4700e8862974289fdc9dfce583117aec.jpg)
 ![raw-image](https://images.gobaligo.id/vocus/vocus_623a206ab810a4a260d720844b62f5f3.jpg)
 
-**Best Time to Visit:**
+The most sacred area, housing the main temple and the source of the springs, is a place for meditation and prayer after completing the Melukat ritual. Non-Hindus should not enter casually.
+
+***
+
+## Visiting Hours and Suggested Itinerary
+
+**Best Time Recommendations:**
 
 - Before 8 AM when crowds are minimal, ideal for quiet purification
 - Full moon and new moon (Purnama, Tilem) are suitable for spiritual rituals
@@ -114,38 +118,39 @@ Even when rain interrupts your Bali trip, the island offers plenty of alternativ
 
 **Recommended Duration:**
 
-- Quick visit: 30-60 minutes
-- Participate in Melukat: 1.5-2 hours
+- Quick visit: 30–60 minutes
+- Participating in Melukat: 1.5–2 hours
 - For photography and meditation, consider a half-day itinerary
 
-> [Join one of Klook's highly-rated day tours that include Tirta Empul Temple](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
+> [Join one of Klook's highly-rated day tours combining Tirta Empul Temple](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
 
-Even when rain interrupts your Bali trip, the island offers plenty of alternative activities to ensure you can still experience its wonderful culture and natural wonders. Through the 60 alternative plans shared in this article, we hope to provide solutions that allow you to fully enjoy your time and explore Bali's beauty, even on rainy days!
-## Tirta Empul Location and Ticket Information
+***
+
+## Location and Ticket Information for Tirta Empul
 
 Address: Tampaksiring District, Gianyar, Bali
 
-**Transportation Suggestions:**
+**Recommended Transportation:**
 
 - Private car is most convenient
 
 **Distance Reference:**
 
-- From Ubud: ~40 minutes
-- From Kuta/Airport: ~2 hours
+- From Ubud: About 40 minutes
+- From Kuta/Airport: About 2 hours
 
 **Ticket Price (2025):**
 
-- Adult: Rp 75,000
-- Child (5-12 years): Rp 50,000
-- Infant: Free
+- Adults: Rp 75,000
+- Children (5–12 years): Rp 50,000
+- Infants: Free
 
 **Opening Hours:**
 
 - Daily 08:00 – 18:00
-- The temple is open 24/7 for worshippers
+- Temple is open 24/7 year-round for worshippers
 
-Even when rain interrupts your Bali trip, the island offers plenty of alternative activities to ensure you can still experience its wonderful culture and natural wonders. Through the 60 alternative plans shared in this article, we hope to provide solutions that allow you to fully enjoy your time and explore Bali's beauty, even on rainy days!
+***
 
 ## Dress Code and Etiquette
 
@@ -153,36 +158,36 @@ Even when rain interrupts your Bali trip, the island offers plenty of alternativ
 
 **Essential Attire:**
 
-- Sarong and Sash are provided free of charge
+- Sarong (waist cloth) and Sash (belt) provided free of charge
 - Shoulders must be covered; avoid tank tops and shorts
-- Men may wear Udeng headbands (optional)
+- Men may wear Udeng headband (optional)
 
-**Prohibited Items:**
+**Prohibited Actions:**
 
-- Women during menstruation are not allowed in the main shrine
+- Women during menstruation cannot enter the main shrine
 - Do not step on altars or offering tables
 - Maintain silence and respect those performing rituals
 - No littering or noisy behavior
 
-> [Join one of Klook's highly-rated day tours that include Tirta Empul Temple](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
+> [Join one of Klook's highly-rated day tours combining Tirta Empul Temple](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1070477&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2581%2596%25E6%25B3%2589%25E5%25AF%25BA)
 
 ## Other Hidden Aspects of Tirta Empul Temple
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_de538df8b6d201321be97e49b49d502a.jpg)
+![Dalem Pingit聖泉有著圖左的瀑布灌頂/Pura Gunung Kawi聖泉有壯觀的石壁雕刻](https://images.gobaligo.id/vocus/vocus_a0e641fa72cd5443fbfe00f02e4c1894.jpg)
 
-Dalem Pingit Holy Spring features a waterfall pouring from the left, while Pura Gunung Kawi Holy Spring boasts magnificent stone carvings.
+Dalem Pingit Holy Spring features a waterfall shower (left image), while Pura Gunung Kawi Holy Spring boasts magnificent stone carvings.
 
-Most travel blogs only mention Ubud's most famous holy water temple, Pura Tirta Empul, but in fact, there are at least three holy water temples in Ubud that I know of!
+Most travel blogs only mention Ubud's most famous holy spring temple, Pura Tirta Empul. However, from what I know, there are at least three holy spring temples in Ubud!
 
-In Ubud, besides the well-known Pura Tirta Empul Holy Water Temple, there are two other temples hidden in quiet corners, not too far apart, waiting for explorers to discover them. These holy water temples not only allow you to experience Bali's unique religious culture but also offer a sincere and tranquil bathing experience in a serene environment.
+In addition to the well-known Pura Tirta Empul Holy Spring Temple, there are two other temples hidden in quiet corners of Ubud, not too far apart, waiting for explorers to discover them. These holy spring temples not only allow you to experience Bali's unique religious culture but also offer a serene and peaceful bathing experience in a tranquil environment.
 
-Here are two more holy water temples we recommend for you:
+Here are two other sacred water temples we recommend for you:
 
-**Dalem Pingit Holy Spring** is a relatively hidden temple. This temple not only boasts unique architectural styles but also its holy spring is deeply revered by local devotees. In this tranquil environment, you can feel the sincerity and peace of Bali's primal religion. Dalem Pingit is famous for its beautiful waterfall holy spring.
+**Dalem Pingit Sacred Water** is a relatively hidden temple. This temple not only boasts unique architectural styles but also its sacred spring is deeply revered by local devotees. In this tranquil environment, you can feel the sincerity and peace of Bali's primal religion. Dalem Pingit is famous for its beautiful waterfall spring.
 
-**Pura Gunung Kawi Holy Spring** is a temple renowned for its rock carvings. In addition to ancient statues, there is also a hidden holy spring where devotees and visitors can bathe for blessings. This serene temple area is filled with mystery, making you feel as if you've traveled through time to experience Bali's ancient sanctity.
+**Pura Gunung Kawi Sacred Water** is a temple renowned for its rock carvings. Besides ancient statues, there is also a hidden sacred spring here, offering blessings to devotees and visitors through bathing. This serene temple area is filled with a sense of mystery, making you feel as if you've traveled through time to experience Bali's ancient sanctity.
 
-These two different holy water temples each have their unique charm and cultural depth, providing relatively secluded bathing environments where you can find peace and purification within Bali's sacred atmosphere.
+These two different sacred water temples each have their unique charm and cultural depth, providing a relatively secluded bathing environment, allowing you to find peace and purification in Bali's sacred atmosphere.
 
 > [Tirta Empul Temple Spiritual Cleansing & Ubud Exploration Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74830-purification-ritual-tirta-empul-holy-water-temple-ubud-tour-private-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5a56695d49)
 
@@ -192,29 +197,28 @@ These two different holy water temples each have their unique charm and cultural
 
 https://youtube.com/shorts/fiYs5GKdINU
 
-Even when rain interrupts your Bali trip, the island offers plenty of alternative activities to ensure you can still experience its wonderful culture and natural wonders. Through the 60 alternative plans shared in this article, we hope to provide solutions that allow you to fully enjoy your time and explore Bali's beauty, even on rainy days!
-## Frequently Asked Questions FAQ
+***
 
-![Dalem Pingit聖泉有著圖左的瀑布灌頂/Pura Gunung Kawi聖泉有壯觀的石壁雕刻](https://images.gobaligo.id/vocus/vocus_a0e641fa72cd5443fbfe00f02e4c1894.jpg)
+## Frequently Asked Questions
 
 ### 1. Can Non-Hindus Participate in the Melukat Ritual at Tirta Empul?
 
-Certainly. Simply respect local cultural and ceremonial norms while maintaining politeness to participate with peace of mind.
+Yes. As long as you respect local culture and ritual norms, and remain polite, you can safely participate.
 
-### 2. Are Sarongs provided upon entry?
+### 2. Are Sarongs Provided at the Entrance?
 
-Yes. Sarongs and waistbands are provided free of charge upon temple entry; there's no need to bring your own.
+Yes. Sarongs and waistbands are provided free of charge when entering the temple, so you don't need to bring your own.
 
-### 3. Is the spring water drinkable?
+### 3. Is the Spring Water Safe to Drink?
 
-It is not recommended to drink directly. The spring water is primarily for ceremonial use and has not undergone purification.
+It is not recommended to drink directly. The spring water is primarily for ritual use and has not been purified.
 
-### 4. Can I visit on my own without hiring a guide?
+### 4. Can I Visit on My Own Without a Guide?
 
-Yes, you can. However, if you wish to gain a deeper understanding of the spring's significance and ceremonial procedures, hiring a local guide is advisable.
+Yes. However, if you wish to gain deeper insight into the meaning of the springs and the ritual process, it's advisable to hire a local guide.
 
-### 5. Is photography allowed inside the temple?
+### 5. Is Photography Allowed Inside the Temple?
 
-Photography is permitted, but please avoid capturing individuals during ceremonies and refrain from disturbing worshippers in prayer.
+Photography is permitted, but please avoid capturing people during rituals and refrain from disturbing worshippers in prayer.
 
 {{block:klook}}

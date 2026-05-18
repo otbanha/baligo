@@ -1,5 +1,6 @@
 ---
-title: 巴厘岛 Wanna Jungle 旅游指南：入园门票、低消限制、交通接送与乌布一日行程排法
+slug: wanna-jungle-pool-club-ubud
+title: 巴厘岛 Wanna Jungle 旅游指南：入园门票、低消限制、交通接送与乌布一日行程安排
 description: >-
   计划去 Wanna Jungle 待上一整天？这份完整指南为您整理 Kayon Jungle Resort 旗下的热门泳池俱乐部信息。包含不同区域的低消
   (Minimum Spend) 说明、池畔酒吧消费技巧与避开人潮的入园时间。提供从乌布市区前往的交通建议，让您的丛林放松之旅既顺畅又奢华。
@@ -20,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cbcb3dcfef832d05b8df6806e839d3e2.jpg'
 originalUrl: 'https://vocus.cc/article/68134e91fd89780001ab5b55'
 lang: zh-cn
-_srcHash: 9d2c5574a86bf5ee782a7bf7a3d64437
+_srcHash: 9f0e875b010fee060708b372f3d5b40f
 ---
 
 来到巴厘岛文化心脏乌布，绝对不能错过这家近期在IG上疯狂刷屏的一日泳池俱乐部——Wanna Jungle Pool & Bar！这个拥有绝美景观的三层式无边泳池，早已成为网红们的打卡圣地。
@@ -35,7 +36,7 @@ _srcHash: 9d2c5574a86bf5ee782a7bf7a3d64437
 
 ## **门票含餐饮抵用 享受五星级美食**
 
-这里的入场券特别贴心包含food credit，可直接折抵餐饮消费。我们选择在这里享用午餐，首推他们的招牌菜「Bebek Kayon」巴厘岛脆皮烤鸭！超大份量的鸭肉外皮酥脆，搭配三种特色沾酱：红辣椒洋葱酱、印尼炒辣椒（Cabe Goreng），以及用当地辣椒制成的绿色酱料（不是墨西哥酪梨酱哦！），微辣开胃的滋味让人一口接一口。
+这里的入场券特别贴心包含food credit，可直接抵扣餐饮消费。我们选择在这里享用午餐，首推他们的招牌菜「Bebek Kayon」巴厘岛脆皮烤鸭！超大份量的鸭肉外皮酥脆，搭配三种特色蘸酱：红辣椒洋葱酱、印尼炒辣椒（Cabe Goreng），以及用当地辣椒制成的绿色酱料（不是墨西哥鳄梨酱哦！），微辣开胃的滋味让人一口接一口。
 
 ## **丛林中的放松时光**
 
@@ -43,7 +44,7 @@ https://youtu.be/eJ0oL0O5OY8
 
 ▲看看小杰游记
 
-躺在泳池畔的躺椅上，点杯色彩缤纷的调酒，听着流水声与丛林鸟鸣，不知不觉就度过整个下午。无论是想拍美照、品美食，或单纯享受度假氛围，Wanna Jungle Pool & Bar都能满足你对巴厘岛假期的所有想象！
+躺在泳池边的躺椅上，点杯色彩缤纷的调酒，听着流水声与丛林鸟鸣，不知不觉就度过整个下午。无论是想拍美照、品美食，或单纯享受度假氛围，Wanna Jungle Pool & Bar都能满足你对巴厘岛假期的所有想象！
 
 ## **旅行小贴士**
 

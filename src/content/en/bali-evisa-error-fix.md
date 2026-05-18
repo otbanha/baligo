@@ -1,15 +1,16 @@
 ---
+slug: bali-evisa-error-fix
 title: >-
   Bali Reminder: Modification/Handling Procedures for Errors in Indonesia/Bali
   eVisa (Electronic Visa on Arrival) Application
 description: >-
-  If there are errors in the data filled out for Indonesia's electronic visa
-  (eVisa/e-VoA), the handling method depends on the field. Mistakes in key
-  details such as name, nationality, and passport number render the visa invalid
-  and unmodifiable, requiring a new application and payment. Errors in
-  non-critical details like gender and birthplace may still allow entry, but
-  carry risks and are ultimately decided by immigration officers. To avoid
-  delays in entry,
+  If there are errors in the Indonesia eVisa (eVisa/e-VoA) application, the
+  handling method depends on the field. Critical information such as name,
+  nationality, and passport number, once incorrect, renders the visa invalid and
+  unmodifiable, requiring a new application and payment. Errors in non-critical
+  information like gender or place of birth may still allow entry but carry
+  risks, with the final decision resting with the immigration officer. To avoid
+  entry delays,
 pubDate: 2025-10-12T00:00:00.000Z
 category:
   - 簽證通關
@@ -27,20 +28,20 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6f5ed331b44c8db9f733b7cd90b74ea8.png'
 originalUrl: 'https://vocus.cc/article/68eb4f30fd897800017b78c7'
 lang: en
-_srcHash: bc908410490de5e4e0e37b55d8c59ea3
+_srcHash: 39aac841571d848d750941dfc6cdab6b
 ---
 
-## **Latest Regulations to Note:**
+## **Please Note the Latest Regulations:**
 
-According to the latest announcement from the Indonesian Immigration Directorate, once your Indonesian Electronic Visa on Arrival (eVisa/e-VoA) has been applied for and issued, **whether it can be modified depends on the field in which the error occurred**.
+According to the latest announcement from the Indonesian Immigration Directorate, whether your Indonesian eVisa (eVisa/e-VoA) can be modified after application and issuance **depends on the field in which the error occurred**.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7fbe71f8afe8094370bc8e00d775dc60.png)
 
-## **Critical Data Errors: Cannot Be Modified, Must Reapply**
+## **Critical Information Errors: Cannot Be Modified, Must Reapply**
 
-If you made mistakes in the following **core and essential personal information** during your application, the eVisa will be considered invalid, and **no modifications can be made**. Your only solution is to **reapply for a new eVisa** and pay the relevant fees again.
+If you have made errors in the following **core and important personal information** during your application, the eVisa will be considered invalid and **cannot be modified in any way**. Your only solution is to **reapply for a new eVisa** and pay the relevant fees again.
 
-These critical details include:
+This critical information includes:
 
 - **Name**
 - **Citizenship**
@@ -48,32 +49,32 @@ These critical details include:
 
 Please ensure to double-check that the above information matches your passport exactly before submitting your application. Any error in a single letter or number will render your eVisa invalid.
 
-**PS. Fellow travelers report: Having the name order reversed between passport and visa can still pass!**
+**PS. Fellow travelers report: Having the name order reversed on the passport and visa can still pass!**
 
-## **Non-Critical Data Errors: May Be Allowed Entry, But Caution Advised**
+## **Non-Critical Data Errors: May Be Allowed Entry, But Proceed With Caution**
 
 If the errors you made are in other **non-critical information**, such as:
 
-- **Sex**
+- **Gender (Sex)**
 - **Place of Birth**
 
-According to the Immigration Bureau, in this situation, you may still be allowed to enter Indonesia using the eVisa, depending on whether the automated gate system lets you through. To avoid any unnecessary trouble or delays at immigration, the safest approach is still to reapply for a correct eVisa.
+According to the Immigration Bureau, in such cases, you **may still be permitted** to enter Indonesia using the eVisa, depending on whether the automated immigration system allows it. To avoid any unnecessary trouble or delays at immigration, the safest approach is still to reapply for a correct eVisa.
 
-## **Summary of Steps**
+## **Summary of Steps to Take**
 
-1. **Check the Error Immediately:** First, carefully confirm which piece of information you filled out incorrectly.
-2. **Critical Data Errors:** If it’s an error in your name, nationality, or passport number, don’t hesitate—immediately go to the official website (molina.imigrasi.go.id) and submit a new eVisa application. The old, incorrect application will be unusable and non-refundable.
-3. **Non-Critical Data Errors:** If it’s a minor mistake like gender or place of birth, you can assess the risk. While the authorities state it may still be usable, for peace of mind—especially if your schedule is tight or you have important business arrangements—it’s recommended to reapply.
-4. **Contact Official Channels:** If you have any doubts, it’s advisable to seek assistance directly through the official contact methods of the Indonesian Immigration Bureau. However, please note that, according to current regulations, they cannot modify critical data on an already issued eVisa.
+1. **Check the Error Type Immediately:** Carefully confirm which information you entered incorrectly.
+2. **Critical Data Errors:** If the errors are in your name, nationality, or passport number, do not hesitate—immediately visit the official website (molina.imigrasi.go.id) to submit a new eVisa application. The old, incorrect application will be unusable and non-refundable.
+3. **Non-Critical Data Errors:** If the errors are in gender, place of birth, or other minor details, you can assess the risk. While officials indicate it may still be usable, for peace of mind—especially if your schedule is tight or you have important business arrangements—it is recommended to reapply.
+4. **Contact Official Channels:** If you have any doubts, it is advisable to seek assistance directly through the official contact methods of the Indonesian Immigration Bureau. However, please note that, according to current regulations, they cannot modify critical information on an already issued eVisa.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6ee608e06a5095bab9988e48785dd299.png)
 
 ## **Important Reminders:**
 
-- When filling out the application, always keep your passport handy and double-check every piece of information to ensure accuracy.
-- The system may automatically pull data from the uploaded passport, but errors can still occur. **Always manually verify** every field.
-- Before submitting the application and making payment, use the preview function for a final confirmation.
+- When filling out the application, always keep your passport handy and double-check each piece of information to ensure accuracy.
+- The system may automatically extract data from the uploaded passport, but errors can still occur. **Always manually check** every field.
+- Before submitting the application and making payment, use the preview feature for a final confirmation.
 
-Wishing you a smooth and enjoyable trip to Bali!
+We hope your trip to Bali goes smoothly!
 
 {{block:klook}}

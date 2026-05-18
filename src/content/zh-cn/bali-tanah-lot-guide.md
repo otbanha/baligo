@@ -1,4 +1,5 @@
 ---
+slug: bali-tanah-lot-guide
 title: 巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南
 description: >-
   位于巴厘岛塔巴南（Tabanan）区的海神庙（Tanah
@@ -10,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3a3647bbd28b5fe748c00b69b5d9c430.jpg'
 originalUrl: 'https://vocus.cc/article/671f86f1fd89780001de9fae'
 lang: zh-cn
-_srcHash: 1c29b956b66f6086d8fe080890891a95
+_srcHash: 1fd01a8e8e94326ad58bf71c59152536
 ---
 
 位于巴厘岛塔巴南（Tabanan）区的海神庙（Tanah Lot），坐落在一座海中岩石的小岛上，成为巴厘岛最具象征性的宗教景点之一。这里不仅可以欣赏壮丽的夕阳和海浪冲击岩岸的美景，还有许多值得一试的活动，吸引了世界各地的游客前来探索。本文将为您详细介绍海神庙的历史、游览活动、潮汐信息和住宿建议，让您的巴厘岛之行更加精彩。
@@ -62,24 +63,24 @@ _srcHash: 1c29b956b66f6086d8fe080890891a95
 
 海神庙的最佳参观时间通常依潮汐变化而定。建议旅客在前往之前可参考这里的 [Tanah Lot潮汐查询](https://www.tideschart.com/Indonesia/Bali/Tabanan/Weekly/)，这样可以选择退潮时段到访，不仅可近距离观赏寺庙，还能避免涨潮带来的危险。
 
-需要注意的是，因为高峰时段夕阳西下时人潮众多，若想避开人潮建议提前到达。
+需要注意的是，因为高峰时段夕阳西下时人潮众多，如果想避开人潮建议提前到达。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_185691fff7731298c075e2955186123d.jpg)
 
-离海神庙最近的Canggu（长谷区）是探访海神庙最方便的住宿基地。关于长谷的住宿可以参考：
+离海神庙最近的坎古区是探访海神庙最方便的住宿基地。关于坎古的住宿可以参考：
 
-- [Canggu Top 11 你不能错过的住宿推荐](/blog/2023-10-03-651b8da8fd89780001974847/)
-- [长谷区16间私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/blog/2024-08-07-66b20b15fd89780001ceef6b/)
+- [坎古 Top 11 你不能错过的住宿推荐](/blog/2023-10-03-651b8da8fd89780001974847/)
+- [坎古区16间私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/blog/2024-08-07-66b20b15fd89780001ceef6b/)
 
 ## 四、海神庙美食
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cbceb95c5a97b14017e87cfe8554cc73.png)
 
-就在海神庙的滨海海边有一家餐厅提供巴厘岛最特别的欣赏海神庙夕阳美食体验。详细介绍及预订[请看这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=940010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad47504c12)。
+就在海神庙的滨海海边有一家餐厅提供巴厘岛最特别的欣赏海神庙夕阳美食体验。详细介绍及预订[请看这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=940010&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad47504c12)。
 
 ## 五、海神庙周边景点
 
-除了海神庙，对于寻找更多巴厘岛游玩点子的朋友，推荐大家来看我们精心收集的「[长谷攻略地图](/blog/2023-02-11-64db6b7efd897800013a9815/)」，其中包含了80个必游景点，涵盖从自然景观到美食体验的各式选择，让您轻松规划行程，不错过任何美好瞬间。长谷区域也距海神庙不远，是探访巴厘岛当地生活与潮流的最佳选择之一！
+除了海神庙，对于寻找更多巴厘岛游玩点子的朋友，推荐大家来看我们精心收集的「[坎古攻略地图](/blog/2023-02-11-64db6b7efd897800013a9815/)」，其中包含了80个必游景点，涵盖从自然景观到美食体验的各式选择，让您轻松规划行程，不错过任何美好瞬间。坎古区域也距海神庙不远，是探访巴厘岛当地生活与潮流的最佳选择之一！
 
 另外一个离海神庙更近的景点是今年最新的「Nuanu Creative City」，在这里有数十个有趣的景点，请继续参考「[Nauru Creative City攻略](/blog/2025-04-18-68026619fd89780001f56243/)」
 

@@ -1,4 +1,5 @@
 ---
+slug: bali-world-water-forum-2024
 title: 五月底巴厘岛很热闹! 五万多名代表涌入巴厘岛参加国际会议
 description: >-
   一个超大型的国际会议「世界水论坛 (World Water
@@ -15,12 +16,12 @@ originalUrl: 'https://vocus.cc/article/660cf362fd89780001da676b'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: e475af9d73ea4af109821144e0ce1207
+_srcHash: fca467eff6c226aaa80b853b828b75ff
 ---
 
 一个超大型的国际会议「世界水论坛 (World Water Forum)」将于2024年5月在巴厘岛举办。会议预计将有44位国家元首及其代表团前来,共有5万多名代表与会,讨论与水资源相关的各种议题,包括水安全、减灾、治理、融资和创新等。
 
-这场盛会势必会对当地带来一些影响,例如机场及道路交通、酒店房间需求等。不过主办单位将努力确保会议顺利进行,同时将当地文化智慧融入其中,比如带领代表团参观位于Jatiluwih的水利系统和稻田等。
+文这场盛会势必会对当地带来一些影响,例如机场及道路交通、酒店房间需求等。不过主办单位将努力确保会议顺利进行,同时将当地文化智慧融入其中,比如带领代表团参观位于Jatiluwih的水利系统和稻田等。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8553c25fe7dc3cc7fa673d7ba8aa922a.png)
 

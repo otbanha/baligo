@@ -1,4 +1,5 @@
 ---
+slug: sanur-4-day-food-leisure-trip
 title: 【巴厘岛自由行】在沙努尔的四天三夜：悠闲与美食的完美结合
 description: >-
   沙努尔是一个适合家庭和休闲旅客的理想旅游地点。这里距离码头很近，区域内多为欧美游客，环境友善且安全。沙努尔拥有完善的自行车步道和知名的Icon百货，提供悠闲的购物和用餐体验...
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/669262c9fd89780001902a76'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 186081d6469292544699d58bc607cc33
+_srcHash: c14d2307cd30a3c733aea4026d545625
 ---
 
 > 以下内容由团友 [Alice Li](https://www.facebook.com/share/p/uSHXdUNFCKBocSnU/) 提供给我们重新编排：
@@ -104,5 +105,5 @@ Icon Bali 小杰的介绍
 - [佩尼达岛吃喝玩乐全攻略](/blog/2023-08-16-64db6b82fd897800013a9942/)
 - [蓝梦岛/金银岛景点全攻略](/blog/2024-10-23-66adfb9afd89780001f62df1/)
 - [Nuanu Creative City攻略](/blog/2025-04-18-68026619fd89780001f56243/)
-- [科莫多岛攻略](/blog/2025-05-04-681601c6fd8978000139f8a3/)
+- [科摩多岛攻略](/blog/2025-05-04-681601c6fd8978000139f8a3/)
 - [Amed/Tulamben攻略](/blog/2025-06-23-68578b01fd89780001dd5208/)

@@ -1,4 +1,5 @@
 ---
+slug: nukuwera-river-tubing-adventure
 title: 巴厘岛洞穴漂流河探险记：Nukuwera River Tubing的亲子冒险之旅
 description: >-
   巴厘岛不仅有迷人的海滩和寺庙，更藏着许多令人惊喜的冒险活动。这次我们全家选择了Nukuwera & Pandawa的洞穴漂流河(River
@@ -11,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_417dff6de287553579080c4aa32f9c13.jpg'
 originalUrl: 'https://vocus.cc/article/68463dcbfd897800011c6f06'
 lang: zh-cn
-_srcHash: d87ca61cf997cd40624378d7feef9482
+_srcHash: 97140c13a65a568351171f66e7559ce9
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_055e134951ab6017808fda25010fb9d3.jpg)
@@ -20,9 +21,9 @@ _srcHash: d87ca61cf997cd40624378d7feef9482
 
 ## 行前准备与预约
 
-在出发前，我们通过[乌布攻略](/blog/2023-11-17-655054b1fd897800011d4d2c/)的推荐找到了Nukuwera Adventure这家专业的洞穴漂流河公司。攻略上说这是一段可以体验巴厘岛穿越历史日军洞穴的漂流冒险！这段充满冒险感的描述立刻吸引了我们。
+在出发前，我们透过[乌布攻略](/blog/2023-11-17-655054b1fd897800011d4d2c/)的推荐找到了Nukuwera Adventure这家专业的洞穴漂流河公司。攻略上说这是一段可以体验巴厘岛穿越历史日军洞穴的漂流冒险！这段充满冒险感的描述立刻吸引了我们。
 
-预约过程相当简单，我们通过 [Klook预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1064752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53430-ubud-cave-tubing-adventure-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D7271ea9df1)了我们四个人的行程。价格方面，不分大小每位约USD$50，费用包含酒店接送、漂流河、午餐、ATV。这样全包玩一天我觉得还蛮划算的！
+预约过程相当简单，我们透过 [Klook预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1064752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53430-ubud-cave-tubing-adventure-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D7271ea9df1)了我们四个人的行程。价格方面，不分大小每位约USD$50，费用包含酒店接送、漂流河、午餐、ATV。这样全包玩一天我觉得还蛮划算的！
 
 **行前小贴士**：
 
@@ -54,7 +55,7 @@ _srcHash: d87ca61cf997cd40624378d7feef9482
 
 整个漂流过程约45分钟，领队非常专业，不仅确保我们的安全，还全程帮我们摄影，并指出沿途的特殊景观。
 
-https://youtube.com/shorts/Z_vDb7AbMKg
+__VID0__
 
 ## 安全措施与亲子友善设计
 
@@ -134,7 +135,7 @@ https://youtu.be/ZEkv46_-_mM
 
 根据我们的亲身经验，提供几点实用建议给计划体验Nukuwera River Tubing的旅客：
 
-- **最佳季节**：4-10月的干季是最佳体验时间，水流稳定且天气晴朗
+- **最佳季节**：4-10月的旱季是最佳体验时间，水流稳定且天气晴朗
 - **穿着建议**：下水衣裤+防滑凉鞋
 - **换洗衣物**：如果只参加洞穴漂流河需准备一套干的衣服；参加ATV最好另外再准备一套
 - **摄影装备**：可使用GoPro等运动相机，但务必确保固定牢固，或交给领队拍摄

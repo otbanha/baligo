@@ -1,4 +1,5 @@
 ---
+slug: bali-family-trip-aloft-kuta
 title: 【两大两小的巴厘岛亲子游记】Day1 住宿安排 Aloft Kuta、包车司机推荐
 description: 【巴厘岛游记】我们一家四口，两大两小，巴厘岛第一天的游记、心得
 pubDate: '2024-04-23'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66266976fd89780001598b10'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 4f2abffe43c680fde3d99704707c383e
+_srcHash: 7b1564837258b0baa7139405dd90c076
 ---
 
 【巴厘岛游记】我们一家四口，两大两小，巴厘岛前两晚的住宿
@@ -44,16 +45,17 @@ _srcHash: 4f2abffe43c680fde3d99704707c383e
 
 🔅「Aloft Kuta」酒店紧邻《Beachwalk购物中心》，👣走出酒店，一秒抵达购物中心，很适合懒人旅游👏👏👏。酒店的位置实在太方便了，不仅距离购物中心近，而且步行即可抵达海滩，再加上还有两大床的房型适合我们一家四口，真是一处理想的住宿地点。
 
-![「Let's Play and Eat 胡志明市」現場實拍](https://images.gobaligo.id/vocus/vocus_e310dd9b549bdb012b4b52ba5e812f36.jpg)
+![Aloft Kuta的兩張雙人床房型，還有一個mini bar](https://images.gobaligo.id/vocus/vocus_6e359061036f79c2af412fafb79e2cb4.jpg)
 
 Aloft Kuta的两张双人床房型，还有一个mini bar
 
 ▶[Aloft Kuta订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) ▶[Trip.com订房](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=72291150&checkIn=2025-07-31&checkOut=2025-08-01&adult=2&children=0&subStamp=726&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-P6xMjFJMEkxMTBKPWckePt8i9_WYUYjQw4LT4JOhqDgG-ng2f_oa8aMXP7HAJ4Ghltua4vLqj1cJjEGMXJAARCIo6OgiBGTai9o5I4x9SWPRYCjYwSf_uXrmZUYLTYLx7EEMWgpMbRerBfQ6AcKLJX1BFmiCeMAVTDwrH1FZsTK8eSCx2MMxjPLdujtJGxECTvkOqwg5HpBOOErwULmO59eqqyiwmi6hATC8eU2-KnmBguMTHcYmJ4xMTwionhExPYpF9QRU3MDF3MDJOYwUpnMTMsYmaQ4jUxNzQztDSyNDBPTTRXENI4827VETYjaw6gg7UE40M8PV0MSwpTzQpLLXOKCkwNGCcxMnl4n2KUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYqwYpZidPNgDGIzdHExN7CM0uJi9nQJEuSpjemtX2djLwXiKcJ4WiCeIYyXxFqVoevhnfFYqICxi5FDgNGDMYKxgvEVI0jVD3BIAABb4vdVpwEAAA&subChannel=&masterhotelid_tracelogid=4716192907ea7&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&barcurr=IDR&locale=zh-HK&Allianceid=6817581&SID=242041353&trip_sub1=&trip_sub3=D4662646)
+
 ## Aloft Bali Kuta是万豪新酒店
 
 奔波的首日搭机日，为了符合我们一家人「悠闲度假」宗旨，不适合拉车赶行程，离机场15-20分钟的库塔区，很适合！
 
-坐落在购物广场「Beachwalk Shopping Center」内，2022.04开幕的《Aloft Kuta》是万豪旗下的年轻品牌，设计风格简单舒适，价位相对亲民不少保有万豪一定品质，服务亲切不说，整体设施新颖，感受就是好（爽），虽然临近购物中心，但出入皆需通关X光门，安全有保障。总楼层只有三层《Aloft Kuta》，每层楼房间数颇多，位于深处的房间，虽没有库塔海边大街的热闹，但相对安静不少，一夜好眠双床房的房型
+座落在购物广场「Beachwalk Shopping Center」内，2022.04开幕的《Aloft Kuta》是万豪旗下的年轻品牌，设计风格简单舒适，价位相对亲民不少保有万豪一定品质，服务亲切不说，整体设施新颖，感受就是好（爽），虽然临近购物中心，但出入皆需通关X光门，安全有保障。总楼层只有三层《Aloft Kuta》，每层楼房间数颇多，位于深处的房间，虽没有库塔海边大街的热闹，但相对安静不少，一夜好眠双床房的房型
 
 ![「Let's Play and Eat 胡志明市」現場實拍](https://images.gobaligo.id/vocus/vocus_e310dd9b549bdb012b4b52ba5e812f36.jpg)
 
@@ -63,7 +65,7 @@ Aloft Kuta的两张双人床房型，还有一个mini bar
 
 泳池的氛围也很翠绿，四周树木环绕，清晰感无限。我们在这儿住了两晚，可惜一天早晨阴雨绵绵，另一天早晨我们要留给冲浪，因为酒店对面正是世界闻名的（初学者）冲浪胜地「库塔海滩」，没有不造访的道理!
 
-最美的风景是人，在《Aloft Kuta》随处可见，整体服务只能给满分，度假不正需要如此?
+最美的风景是人，在《Aloft Kuta》随处可见，整体服务只能给满分，度假不正需要如此？
 
 ▶[Aloft Kuta订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) ▶[Trip.com订房](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=72291150&checkIn=2025-07-31&checkOut=2025-08-01&adult=2&children=0&subStamp=726&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-P6xMjFJMEkxMTBKPWckePt8i9_WYUYjQw4LT4JOhqDgG-ng2f_oa8aMXP7HAJ4Ghltua4vLqj1cJjEGMXJAARCIo6OgiBGTai9o5I4x9SWPRYCjYwSf_uXrmZUYLTYLx7EEMWgpMbRerBfQ6AcKLJX1BFmiCeMAVTDwrH1FZsTK8eSCx2MMxjPLdujtJGxECTvkOqwg5HpBOOErwULmO59eqqyiwmi6hATC8eU2-KnmBguMTHcYmJ4xMTwionhExPYpF9QRU3MDF3MDJOYwUpnMTMsYmaQ4jUxNzQztDSyNDBPTTRXENI4827VETYjaw6gg7UE40M8PV0MSwpTzQpLLXOKCkwNGCcxMnl4n2KUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYqwYpZidPNgDGIzdHExN7CM0uJi9nQJEuSpjemtX2djLwXiKcJ4WiCeIYyXxFqVoevhnfFYqICxi5FDgNGDMYKxgvEVI0jVD3BIAABb4vdVpwEAAA&subChannel=&masterhotelid_tracelogid=4716192907ea7&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&barcurr=IDR&locale=zh-HK&Allianceid=6817581&SID=242041353&trip_sub1=&trip_sub3=D4662646)
 
@@ -89,7 +91,7 @@ check-in > Beachwalk shopping 3F 看夕阳 > 吃小杰介绍的烤猪饭Warung B
 
 ## 杂记&心得
 
-✖️不想舟车劳顿前往金巴兰看夕阳，只要走到隔壁，🈯️ 跟着《Beachwalk Shopping》指示《✨sunset deck（夕阳观景台）✨》走，便可「免费」享用仙境般的巴厘岛夕阳🥳🥳🥳。这是一个旅行中意外的惊喜，可以在购物中心附近就欣赏到如此美丽的夕阳，真是让人心情愉悦。
+✖️不想舟车劳顿前往金巴兰看夕阳，只要走到隔壁，🈯️ 跟着《Beachwalk Shopping》指标《✨sunset deck（夕阳观景台）✨》走，便可「免费」享用仙境般的巴厘岛夕阳🥳🥳🥳。这是一个旅行中意外的惊喜，可以在购物中心附近就欣赏到如此美丽的夕阳，真是让人心情愉悦。
 
 ![「Let's Play and Eat 胡志明市」現場實拍](https://images.gobaligo.id/vocus/vocus_7442b03d0a7e21248397c17556f37d93.jpg)
 
@@ -137,13 +139,13 @@ check-in > Beachwalk shopping 3F 看夕阳 > 吃小杰介绍的烤猪饭Warung B
 
 ✨好司机带你上天堂☁️ 吃当地🍽 跑美景📸 兼导游📚 巴厘岛司机推推 👍
 
-📋巴厘岛之旅来的太突然，📸景点跟景点的交通，💭原本想请入住酒店帮忙就好，没想到在出发前一周，受到「[巴厘岛/印尼吃喝玩乐 Indonesia, Bali Travel Guide](https://www.facebook.com/groups/indonesia.travelguide)」脸书社团管理员的帮忙💪，获得踏上天堂的机会
+📋巴厘岛之旅来得太突然，📸景点之间的交通，💭原本想请入住酒店帮忙就好，没想到在出发前一周，受到「[巴厘岛/印尼吃喝玩乐 Indonesia, Bali Travel Guide](https://www.facebook.com/groups/indonesia.travelguide)」Facebook群组管理员的帮助💪，获得踏上天堂的机会
 
-🏡住在库塔附近的Gede，在返回家乡工作之前，🇺🇸曾在美国大型邮轮上服务，所以英文沟通完全没问题👍。👨‍👩‍👧‍👧加上Gede家有8岁、10岁的女儿和6岁的儿子，对待小孩极有耐心💗，对于我们这样的家庭出游帮助很大🙇‍♀️。
+🏡住在库塔KUTA附近的Gede，返回家乡工作之前，🇺🇸是在美国大型邮轮上服务，所以英文沟通完全没问题👍 👨‍👩‍👧‍👧加上Gede家有8、10岁女儿和6岁儿子，对待小孩极有耐心💗，对于家庭出游如我们，帮助良多🙇‍♀️
 
 ![「Let's Play and Eat 胡志明市」臉書截圖](https://images.gobaligo.id/vocus/vocus_df99528177676662528333873376051e.png)
 
-「Let's Play and Eat 胡志明市」脸书截图
+「Let's Play and Eat 胡志明市」Facebook截图
 
 **😊Gede的笑容很真诚，让人放下防备；服务很到位，让人旅程无忧：**
 
@@ -155,13 +157,13 @@ check-in > Beachwalk shopping 3F 看夕阳 > 吃小杰介绍的烤猪饭Warung B
 
 🔹抵达酒店时，永远冲第一帮你确认👀
 
-🔹任何疑问，必会尽力帮忙（物品遗失、物品购买、资讯分享ℹ️）
+🔹任何疑问，必会尽力帮忙（物品遗失、物品购买、信息分享ℹ️）
 
 🔹如需购买行程，也会帮忙询问朋友，试着帮你拿到最好价格💰
 
 🔹下机三步骤，也帮你处理好好：✈️接机、📲至当地店家购买网络SIM卡、💵换汇（正规不偷钱的exchange center）
 
-🔹抢钱景点，会规劝不要前往❌（Gede不收回扣，所以一些热门景点，会不准他陪同客人进入） 🔆部分景点Gede会陪伴进入（部分景点，当地人免门票🎫），充当随行导游，讲解景区历史/故事🔊 🌇此行乌鲁瓦度寺庙/断崖/夕阳，Gede形影不离地跟着我们，📸帮忙拍照外，🐒深怕我们随身物品被猴子抢走，👀随时眼观四方
+🔹抢钱景点，会规劝不要前往❌（Gede不收回扣，所以一些热门景点，会不准他陪同客人进入） 🔆部分景点Gede会陪伴进入（部分景点，当地人免门票🎫），充当随行导游，讲解景区历史/故事🔊 🌇此行乌鲁瓦图寺庙/断崖/夕阳，Gede形影不离地跟着我们，📸帮忙拍照外，🐒深怕我们随身物品被猴子抢走，👀随时眼观四方
 
 ⚠️切记！当一个称职的旅人，Gede是包车司机，✖️非随行导游，如果没有陪伴入景区，非常合理，请不要过分要求，将心比心🫰 🔎此趟旅程，从不要求Gede一定要随行参观+一旁讲解，一切顺其自然，多余的陪伴，我们感谢❤️，没有，合理正常
 
@@ -192,7 +194,7 @@ PS 🇮🇩印尼是个收小费的国家，请大家不吝啬多给一点小费
 - [**Day 3-7: 五天乌布：美食、景点、住宿、火山探索推荐**](/blog/2024-12-17-674bb924fd8978000120ac11/)
 - [**Day 8: Bali Safari 要怎么玩乐、夜宿攻略**](/blog/2023-07-25-64db6b8cfd897800013a9ab1/)
 
-您觉得越南台商小姐姐安排的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
+您觉得越南台商小姐姐安排的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 
 ![點擊這裡觀看更多峇里島精彩遊記](https://images.gobaligo.id/vocus/vocus_b288678aaafbe1bb0e0fd2b1469999fb.jpg)
 

@@ -1,8 +1,9 @@
 ---
+slug: 2025-bali-visa-update-faq
 title: 2025最新入境印尼峇里島簽證改版 FAQ
 description: >-
   要入境印尼/峇里島申請電子簽證嗎？印尼移民總局近日將電子簽證（EVOA）申請種類進行改版，原本嘅 B213
-  已經搵唔到，你知點樣申請入境印尼或入境峇里島嘅簽證嗎？請睇我哋嘅最新資訊。
+  已經搵唔到，你知道要點樣申請入境印尼或入境峇里島嘅簽證嗎？請睇我哋嘅最新資訊。
 pubDate: '2024-01-17'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_03adae6c17771475a5ae44c2f4d266e1.png'
 tags:
@@ -15,10 +16,10 @@ originalUrl: 'https://vocus.cc/article/65a7f34dfd897800010017db'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: 181785bda9755057b8681e5b43ac220d
+_srcHash: c25e24b122634bda0f07c9acbaf5c468
 ---
 
-印尼政府從2024年一月七日起，將簽證類別賦予新嘅編號，並引入新嘅旅遊同商務簽證類型同停留期限。一共有八種簽證類別，包含咗投資簽證同退休簽證等。詳細請睇到最後。
+印尼政府由2024年一月七日起，將簽證類別賦予新嘅編號，並引入新嘅旅遊同商務簽證類型同停留期限。一共有八種簽證類別，包含咗投資簽證同退休簽證等。詳細請睇到最後。
 
 ## 觀光簽證
 
@@ -32,9 +33,9 @@ _srcHash: 181785bda9755057b8681e5b43ac220d
 
 答案係：一般未超過30日嘅旅遊請選擇 **B1 - TOURISM(VISA ON ARRIVAL)-30DAYS（B1 觀光簽證30日）**。
 
-**B1 觀光簽證30日** 係一種有效期為 30 日嘅觀光簽證，單次入境。因此，如果你係一般旅遊，目的係觀光、探親、商務等，則可以選擇 B1 - TOURISM 30DAYS。你可以選擇喺網上先辦好免得手忙腳亂，或者落地後喺機場VoA櫃檯辦理都可以。
+**B1 觀光簽證30日** 係一種有效期為 30 日嘅觀光簽證，單次入境。因此，如果你係一般旅遊，目的係觀光、探親、商務等，則可以選擇 B1 - TOURISM 30DAYS。你可以選擇喺網上先辦好免得手忙腳亂，或者落地後喺機場VoA櫃檯辦理都得。
 
-而 **TOURISM SINGLE ENTRY VISITOR VISA-60DAYS（單次入境觀光簽證60日）** 則係你出發前必須事先申請嘅觀光簽證，有效期為 60 日，單次入境。因此，如果你預計比較長期留喺印尼，則可以選擇 TOURISM SINGLE ENTRY VISITOR VISA-60DAYS。
+而 **TOURISM SINGLE ENTRY VISITOR VISA-60DAYS（單次入境觀光簽證60日）** 則係喺你出發前必須事先申請嘅觀光簽證，有效期為 60 日，單次入境。因此，如果你預計比較長期留喺印尼，則可以選擇 TOURISM SINGLE ENTRY VISITOR VISA-60DAYS。
 
 以下係兩種申請種類嘅比較：
 
@@ -45,9 +46,9 @@ _srcHash: 181785bda9755057b8681e5b43ac220d
 
 ## 網上申請印尼觀光簽證流程及注意事項：
 
-**乜嘢係B1觀光簽證？**
+**咩係B1觀光簽證？**
 
-B1 觀光簽證係單次入境簽證，有效期為30日，只限用於觀光、政府參訪、商務會議、採購商品或轉機。
+B1 觀光簽證係單次入境簽證，有效期為30日，只限用於觀光、政府參訪、商務會議、採購商品或者轉機。
 
 **有效期同申請期限：**
 
@@ -55,32 +56,32 @@ B1 觀光簽證係單次入境簽證，有效期為30日，只限用於觀光、
 
 **費用同支付方式：**
 
-- 觀光簽證費用為 IDR 500,000。
-- 支付時用信用卡會產生額外費用（外加IDR19,500），請確認你嘅信用卡係咪支援國際交易。
+- 觀光簽證費用係 IDR 500,000。
+- 支付時使用信用卡會產生額外費用（外加IDR19,500），請確認你嘅信用卡係咪支援國際交易。
 
 **申請資格：**
 
-- 所有旅客，包括BB同小朋友，都要持有個人旅遊簽證。
-- 護照有效期最少要有6個月。
+- 所有旅客，包括BB同小朋友，都要持有個人觀光簽證。
+- 護照有效期至少要有6個月。
 - 申請資料必須同護照資料完全一致，**否則簽證會失效，而且唔會退款**。
 
 ![一般遊客入境未超過30天可以按照這樣選擇（國籍對應你的護照國）](https://images.gobaligo.id/vocus/vocus_77538bb000b87f110636fe2ce2e511d7.png)
 
-一般遊客入境唔超過30日可以咁樣選擇（國籍對應你本護照嘅國家）
+一般遊客入境未超過30日可以咁樣選擇（國籍對應你本護照嘅國家）
 
 ➡️[搵峇里島住宿請睇呢度](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
 ➡️[更多峇里島超值優惠請撳我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
 
 **所需文件：**
 
-- 護照資料頁面嘅相（有效期最少6個月，JPG/JPEG/PNG格式）
-- 護照規格相片（JPG/JPEG/PNG格式）
+- 護照照片資料頁面（有效期至少6個月，JPG/JPEG/PNG格式）
+- 護照規格照片（JPG/JPEG/PNG格式）
 - 電郵地址
-- Mastercard、Visa 或 JCB 信用卡（唔限持卡人）
+- Mastercard、Visa 或 JCB 信用卡（不限持卡人）
 
 ![建議事先申請，以免浪費旅遊的寶貴時光](https://images.gobaligo.id/vocus/vocus_17706edc3b1f918d38e00ea11dc4e48c.png)
 
-建議預先申請，以免浪費旅遊嘅寶貴時間
+建議事先申請，以免浪費旅遊嘅寶貴時間
 
 ## 簡要說明：
 
@@ -93,7 +94,7 @@ B1 觀光簽證係單次入境簽證，有效期為30日，只限用於觀光、
 
 - 小心使用第三方代辦服務，政府唔會對佢哋嘅服務質素負責。請喺[官方網站申請](https://evisa.imigrasi.go.id/)。
 
-（延伸閱讀：[2025峇里島入境變革一分鐘搞懂：印尼/峇里島入境流程 - 落機/過海關/到拎行李嘅流程](/blog/2023-12-07-65717449fd89780001fda950/)）
+（延伸閱讀：[2025峇里島入境變革一分鐘搞懂：印尼/峇里島入境流程 - 落機/過海關/攞行李嘅流程](/blog/2023-12-07-65717449fd89780001fda950/)）
 
 ## 八種簽證種類
 
@@ -101,7 +102,13 @@ B1 觀光簽證係單次入境簽證，有效期為30日，只限用於觀光、
 
 ![觀光客、未超過30天，你知道要選哪一個了嗎？](https://images.gobaligo.id/vocus/vocus_1a2955a932c96e6118cb8bb9eaa197c1.png)
 
-觀光客、未超過30日，你知要揀邊個未？
+觀光客、未超過30日，你知道要揀邊個未呀？
 
 ➡️[搵峇里島住宿請睇呢度](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
 ➡️[更多峇里島超值優惠請撳我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
+
+---
+
+👈 **返去峇里島自由行終極指南**
+
+想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

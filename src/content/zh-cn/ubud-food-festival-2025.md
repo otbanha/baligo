@@ -1,4 +1,5 @@
 ---
+slug: ubud-food-festival-2025
 title: 乌布美食节 Ubud Food Festival 2025：在巴厘岛心脏地带展开的美食传承之旅
 description: 乌布美食节十周年：探索Ubud Food Festival 2025，融合印尼传统与创新，呈现巴厘岛文化心脏地带的美味之旅。
 pubDate: '2025-05-10'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/681f37a6fd897800015b6ab0'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: ba270b94f97a2e7cc32e8fa08c9c7aa6
+_srcHash: de32db19c2836446d91258c914a37464
 ---
 
 ## **乌布美食节十周年：一场充满故事的味蕾之旅**

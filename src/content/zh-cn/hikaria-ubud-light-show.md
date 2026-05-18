@@ -1,4 +1,5 @@
 ---
+slug: hikaria-ubud-light-show
 title: 夜幕下的幻光雨林：巴厘岛乌布Hikaria沉浸式光影艺术体验
 description: >-
   踏入巴厘岛乌布的Hikaria，仿佛穿越了现实与幻想的边界，这是一场在夜幕下展开的光影交响诗篇。这个革命性的光影艺术品牌，森林每到日落后便化身为充满魔力的光影环境
@@ -9,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2d75af8cafe43a7ba1d26cc311649b07.jpg'
 originalUrl: 'https://vocus.cc/article/69113993fd897800015bfa87'
 lang: zh-cn
-_srcHash: c07ad95063111474a604f6909b5233c4
+_srcHash: 032e951f763399ef338c52a06c36ac3f
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_513b249c4e9a87d33d49c0e009653ed8.jpg)

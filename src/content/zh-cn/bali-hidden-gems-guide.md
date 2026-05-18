@@ -1,4 +1,5 @@
 ---
+slug: bali-hidden-gems-guide
 title: 巴厘岛旅游自由行：三大区域不可错过的隐藏惊喜
 description: >-
   疫情过后，我也飞往了不少国家，但这七天六夜的巴厘岛之旅，却成为了我最想马上再去的一个地方。无论是从水明漾、乌布，还是坎古，每个区域都有自己的独特魅力，为旅客带来不同的感受与回忆。
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/66e06a8dfd89780001ffbbc3'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 7e463d90b6bd315f98deed0a96d4a828
+_srcHash: db94b5e1242d7f583e9b511aad4d7fc1
 ---
 
 > 以下内容由团友 [施念忻](https://www.facebook.com/share/p/NCJtqGxCyfKoE3ui/) 提供给我们重新编排：
@@ -106,7 +107,7 @@ Kebun Bistro（施念忻提供）
 
 **延伸阅读：**
 
-[坎古Top 16 你不能错过的住宿推荐](/blog/2023-10-03-651b8da8fd89780001974847/)
+[Canggu Top 16 你不能错过的住宿推荐](/blog/2023-10-03-651b8da8fd89780001974847/)
 
 [坎古区16间私人泳池别墅推荐](/blog/2024-08-07-66b20b15fd89780001ceef6b/)
 

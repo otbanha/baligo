@@ -1,8 +1,9 @@
 ---
+slug: saka-museum-bali-global-award
 title: 巴厘岛SAKA博物馆荣获2025年全球最美博物馆殊荣
 description: >-
   2025年，位于巴厘岛金巴兰的SAKA博物馆荣登全球最美博物馆榜单，成为唯一入选的印尼博物馆。这项荣誉由法国机构Prix
-  Versailles颁发，该组织每年评选全球最具设计感、文化价值与永续理念的建筑。
+  Versailles颁发，该组织每年评选全球最具设计感、文化价值与可持续理念的建筑。
 pubDate: 2025-05-19T00:00:00.000Z
 category:
   - 美食景點活動
@@ -15,14 +16,14 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_10445c4328b20f0e1f5bd8a4cf0f925a.jpg'
 originalUrl: 'https://vocus.cc/article/682b2a86fd89780001580ec0'
 lang: zh-cn
-_srcHash: 2b5a4668ed3e5a945c768bcb1800f764
+_srcHash: 160fd871a242125bfa2b3a00df46aed3
 ---
 
 ## **SAKA博物馆荣获Prix Versailles国际建筑大奖**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8076762ae5af260562c2e8e6cfde5c76.jpg)
 
-2025年，位于巴厘岛金巴兰的SAKA博物馆荣登全球最美博物馆榜单，成为唯一入选的印尼博物馆。这项荣誉由法国机构**Prix Versailles**颁发，该组织每年评选全球最具设计感、文化价值与永续理念的建筑。
+2025年，位于巴厘岛金巴兰的SAKA博物馆荣登全球最美博物馆榜单，成为唯一入选的印尼博物馆。这项荣誉由法国机构**Prix Versailles**颁发，该组织每年评选全球最具设计感、文化价值与可持续理念的建筑。
 
 与SAKA同获殊荣的还包括法国巴黎的**大皇宫（Grand Palais）**、挪威的**Kunstsilo博物馆**、以及美国的**克利夫兰自然历史博物馆**。
 
@@ -30,13 +31,13 @@ _srcHash: 2b5a4668ed3e5a945c768bcb1800f764
 
 ## **融合巴厘文化与现代建筑的典范**
 
-博物馆总监Dr. Judith E. Bosnak表示：「这个奖项证明巴厘文化可以是现代、强大，并能在国际舞台上与世界对话。」SAKA不仅外观现代美观，内部也充分展现巴厘岛深厚的文化底蕴与永续理念。
+博物馆总监Dr. Judith E. Bosnak表示：「这个奖项证明巴厘文化可以是现代、强大，并能在国际舞台上与世界对话。」SAKA不仅外观现代美观，内部也充分展现巴厘岛深厚的文化底蕴与可持续理念。
 
 ***
 
 ## **SAKA博物馆亮点介绍**
 
-自2024年开幕以来，SAKA博物馆便备受瞩目。**《TIME》杂志**曾将其列入「全球最值得造访的地方」，而**京都全球设计大奖**亦赞誉其创新与永续建筑概念。
+自2024年开幕以来，SAKA博物馆便备受瞩目。**《TIME》杂志**曾将其列入「全球最值得造访的地方」，而**京都全球设计大奖**亦赞誉其创新与可持续建筑概念。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_68d01b67a39659e0d695d4520b6645f2.jpg)
 
@@ -96,6 +97,6 @@ SAKA位于印尼巴厘岛金巴兰的AYANA Resort Bali度假村内。
 
 ### **有纪念品可以购买吗？**
 
-有，博物馆内设有商店，出售以巴厘文化为主题的手工艺与纪念商品。
+有，博物馆内设有商店，售卖以巴厘文化为主题的手工艺与纪念商品。
 
 {{block:jim}}

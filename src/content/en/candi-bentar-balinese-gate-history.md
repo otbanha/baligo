@@ -1,4 +1,5 @@
 ---
+slug: candi-bentar-balinese-gate-history
 title: >-
   The True Meaning of Candi Bentar: Why 'Gate of Good and Evil' is a
   Mistranslation
@@ -20,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/66a31f0bfd8978000149ad4a'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 5da73472d0c868571e187f4b49457f81
+_srcHash: f6cc336759e042208e0647fb8848f72d
 ---
 
 **What is the significance of Candi Bentar in Bali? Why is the Chinese translation 'Gate of Good and Evil' incorrect?**
@@ -29,25 +30,25 @@ _srcHash: 5da73472d0c868571e187f4b49457f81
 
 ## The Origin and History of Candi Bentar
 
-Have you ever noticed those unique traditional entrance structures without roofs while traveling in Bali or Java? These structures, known as Candi Bentar, are important symbols of local culture and history. Candi Bentar, meaning 'split temple gate,' is a distinctive traditional architectural form primarily used in temples, palaces, and other significant sites as entrances from the outer courtyard to the inner sanctum. These structures consist of two symmetrical buildings without a connecting roof, only linked at the base by steps. Candi Bentar is a common traditional architectural feature in Bali, originating from ancient Indonesian religious and cultural traditions, reflecting Bali's rich historical and artistic heritage. Although Hinduism has greatly influenced Bali's religion and architectural styles, the specific form and design of Candi Bentar are products of Balinese local culture.
+Have you ever noticed those unique traditional entrance structures without roofs while traveling in Bali or Java? These structures, known as Candi Bentar, are important symbols of local culture and history. Candi Bentar, meaning 'split temple gate,' is a distinctive traditional architectural form primarily used in temples, palaces, and other significant sites as entrances from the outer courtyard to the inner sanctum. These structures consist of two symmetrical buildings without a connecting roof, only linked at the base by steps. Candi Bentar is a common traditional architectural feature in Bali, originating from ancient Indonesian religious and cultural traditions, reflecting Bali's rich historical and artistic heritage. Although Hinduism has greatly influenced Bali's religion and architectural style, the specific form and design of Candi Bentar are products of Balinese local culture.
 
 ## The Religious and Cultural Significance of Candi Bentar
 
 ### Its Role in Balinese Religion
 
-In the religious life of Bali, Candi Bentar plays a crucial role. It marks the boundary between the mundane world and the sacred realm, serving as a necessary passage for people entering temples or palaces.
+In the religious life of Bali, Candi Bentar plays a crucial role. It marks the boundary between the secular world and the sacred realm, serving as a necessary passage for people entering temples or palaces.
 
-The design of Candi Bentar is symbolic of separation, representing the transition from the secular world to the sacred realm. They typically consist of two symmetrical tower-like structures, designed to create a sense of transition as people pass through the gate, as if moving from one world to another.
+The design of Candi Bentar is a symbolic separation, representing the transition from the secular world into the sacred realm. They typically consist of two symmetrical tower-like structures, designed to create a sense of transition as people pass through the gate, as if moving from one world to another.
 
 ## The Role of Candi Bentar in Modern Bali
 
-### Modern Applications and Variations
+### Modern Applications and Adaptations
 
-Despite being a traditional structure, Candi Bentar is still widely used in modern Bali and has undergone some contemporary adaptations. For instance, you can spot Candi Bentar at Bali's airport, as well as in certain hotels and resorts.
+Despite being a traditional structure, Candi Bentar is still widely used in modern Bali and has undergone some contemporary adaptations. For instance, you can see Candi Bentar at Bali's airport, as well as in some hotels and resorts.
 
 ### Cultural Preservation and Development
 
-The Balinese place great importance on preserving their cultural heritage. As a cultural symbol of Bali, Candi Bentar has been well-maintained and restored, continuing to play a role in new architectural projects.
+The Balinese place great importance on preserving their cultural heritage. As a cultural symbol of Bali, Candi Bentar has been well-maintained and restored, continuing to play a role in new architectural designs.
 
 ## Why "Gate of Good and Evil" is a Mistranslation
 
@@ -57,18 +58,18 @@ The Chinese translation "Gate of Good and Evil" is incorrect!!
 
 ### Linguistic Explanation
 
-Many people refer to it as the "Gate of Good and Evil," but from a linguistic perspective, this translation is inaccurate. It imposes a moral judgment on Candi Bentar, suggesting consequences for wrongdoing, whereas the original meaning does not include this layer of interpretation.
+Many people refer to it as the "Gate of Good and Evil," but from a linguistic perspective, this translation is inaccurate. It imposes a moral judgment on Candi Bentar, suggesting that it has something to do with the consequences of wrongdoing, which is not part of its original meaning.
 
-Additionally, according to Balinese Hindu beliefs, ghosts and evil spirits can only move in straight lines and cannot turn or navigate around obstacles. The design of Candi Bentar typically consists of two symmetrical and separate tower-like structures, creating a divided space between them. This design prevents ghosts and evil spirits from passing through, stopping them in their tracks.
+Additionally, according to Balinese Hindu beliefs, ghosts and evil spirits can only move in straight lines and cannot turn or bypass obstacles. The design of Candi Bentar typically consists of two symmetrical and separate tower-like structures, creating a divided space between them. This design prevents ghosts and evil spirits from passing through, stopping them in their tracks.
 
 ### Architectural Design Details
 
-In the design of Candi Bentar, certain details commonly serve protective functions. For example:
+In the design of Candi Bentar, certain details also serve the function of warding off evil spirits. For example:
 
-1. **Reliefs and Carvings**: The reliefs and carvings on the tower-like structures often depict Hindu deities, mythological stories, and protective symbols, believed to possess the power to ward off evil spirits.
-2. **Gate Structure**: Candi Bentar is not a fully enclosed gate but has specific intervals. These intervals symbolize the transition into a sacred space and create an invisible barrier that prevents ghosts and evil spirits from entering.
+1. **Reliefs and Carvings**: The reliefs and carvings on the tower-like structures often depict Hindu deities, mythological stories, and protective symbols, which are believed to possess the power to repel evil.
+2. **Gate Structure**: Candi Bentar is not a completely sealed gate but has certain gaps. These gaps not only symbolize the transition into a sacred space but also form an invisible barrier that prevents ghosts and evil spirits from entering.
 
-To more accurately convey the meaning of Candi Bentar, consider using terms like '**Yin-Yang Gate**' or '**Sacred Gate**'. This preserves its sacred connotations while avoiding the misunderstandings that moral judgments might introduce.
+To more accurately convey the meaning of Candi Bentar, one might consider using terms like '**Yin-Yang Gate**' or '**Sacred Gate**'. This preserves its sacred connotations while avoiding the errors that can arise from introducing moral judgments.
 
 ## Conclusion
 
@@ -76,18 +77,18 @@ Although Candi Bentar originated in ancient times, its design and aesthetic prin
 
 ## **Frequently Asked Questions (FAQs)**
 
-**1. What is the historical background of Candi Bentar?** Candi Bentar dates back to the Majapahit era, initially used for religious and royal ceremonies, gradually becoming a part of the local architectural style.
+**1. What is the historical background of Candi Bentar?** The origins of Candi Bentar date back to the Majapahit era, where it was initially used for religious and royal ceremonies, gradually becoming a part of the local architectural style.
 
 **2. Why does Candi Bentar lack a roof?** The roofless design of Candi Bentar symbolizes a passage between heaven and earth, emphasizing both the independence and connection of the structures on either side.
 
-**3. Where can Candi Bentar be seen in Bali?** Candi Bentar can be found at many significant temples in Bali, such as Tirta Empul Temple in Ubud, Lempuyang Temple (Gates of Heaven), Besakih Temple, and Tanah Lot Temple.
+**3. Where can Candi Bentar be seen in Bali?** Candi Bentar can be found at many significant temples in Bali, such as Tirta Empul Temple in Ubud, Lempuyang Temple (the Gate of Heaven), Besakih Temple, and Tanah Lot Temple.
 
-**4. What is the difference between Candi Bentar and Paduraksa?** Candi Bentar lacks a roof and serves as the entrance from the outer area to the temple's inner sanctum, while Paduraksa has a roof and is typically used for entrances within the temple.
+**4. What is the difference between Candi Bentar and Paduraksa?** Candi Bentar lacks a roof and is used as an entrance from the outer area into the temple's inner sanctum, while Paduraksa has a roof and is typically used for entrances within the temple.
 
 5. **How do you correctly pronounce Candi Bentar?**
 
-The correct pronunciation of Candi Bentar is 'chan-dee Ben-tar'.
+The correct pronunciation of Candi Bentar is "chan-dee Ben-tar."
 
 6. Can I visit Candi Bentar?
 
-Yes, many non-commercialized Candi Bentar structures are located in public temples and palaces where visitors can explore and admire their architectural beauty.
+Yes, many non-commercialized Candi Bentar structures are located in public temples and palaces, where visitors can explore and admire their architectural beauty.

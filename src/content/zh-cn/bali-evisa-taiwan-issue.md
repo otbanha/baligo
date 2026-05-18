@@ -1,4 +1,5 @@
 ---
+slug: bali-evisa-taiwan-issue
 title: 申请eVisa，台湾不见了！
 description: >-
   最近想去巴厘岛旅行，准备申请eVisa时却遇到了一个让人哭笑不得的状况。
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/684447cdfd89780001bb6bf8'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 9787f95b596c69e1a3bbe7cf6325bb5d
+_srcHash: c95a420047ce2f39a392b19214998290
 ---
 
 ## Taiwan又被和谐掉了

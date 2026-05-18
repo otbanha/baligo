@@ -1,6 +1,6 @@
 ---
 title: 2026-04-29 巴厘岛新闻
-slug: ''
+slug: bali-news-april-29-2026
 description: ''
 pubDate: 2026-04-29T00:00:00.000Z
 pubHour: 5
@@ -15,7 +15,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: d5073430625fa661d2c49650b32f42d3
+_srcHash: 5fe7f6d3a1f067a842296d80c9b754d1
 ---
 
 【今早美金汇率：16,800】

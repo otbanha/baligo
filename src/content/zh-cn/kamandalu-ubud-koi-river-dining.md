@@ -1,4 +1,5 @@
 ---
+slug: kamandalu-ubud-koi-river-dining
 title: 浪漫双人船上用餐体验：乌布卡曼达鲁的锦鲤漂流河盛宴
 description: >-
   在巴厘岛乌布的心脏地带，卡曼达鲁度假村（Kamandalu
@@ -10,27 +11,31 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0000ef7e983fe143673d4acad378284d.jpg'
 originalUrl: 'https://vocus.cc/article/68404e54fd89780001530054'
 lang: zh-cn
-_srcHash: 1f776eaf47acbe6af9bcf29d10dec568
+_srcHash: 84c0b658d0a3466383a6f7d3baac73ed
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_94270edad192312ca18cd296ef31f4ae.jpg)
 
 ## 漂浮在锦鲤之间的浪漫
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3648fd618b175b7daa976538684257e2.jpg)
-
 想象一下：您与爱人坐在传统的木制小船上，周围是清澈见底的池塘，数十条色彩斑斓的锦鲤在船边优雅游动。乌布葱郁的热带植被环绕四周，阳光透过树叶洒落点点金光，营造出一个完全私密的浪漫空间。
 
 这个一小时的体验特别适合情侣庆祝特殊时刻，或是单纯想要逃离日常喧嚣，享受两人世界的甜蜜时光。度假村提供灵活的时间段选择，无论是阳光明媚的午后，还是夕阳西下的黄昏，都能找到最适合您的浪漫时刻。
+
 ## 精致美食盛宴
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_eae8f33d1d9a12f0c82a4651c147dd3e.png)
+![raw-image](https://images.gobaligo.id/vocus/vocus_3648fd618b175b7daa976538684257e2.jpg)
 
 在如此特别的环境中，卡曼达鲁准备了精心设计的菜单，满足各种味蕾需求：
 
-****常规菜单****提供多样选择：
-
 **常规菜单**提供多样选择：
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_eae8f33d1d9a12f0c82a4651c147dd3e.png)
+
+- 开胃的咸点如迷你香料羊肉汉堡配番茄姜味酱
+- 巴厘岛风味的烤鱼沙爹和鸡肉沙爹配烤花生酱
+- 精致的迷你开放三明治配布里奶酪和蜂蜜火腿
+- 创新的竹笋虾春卷配甜酸酱
 
 - 開胃的鹹點如迷你香料羊肉漢堡配番茄薑味醬
 - 巴厘島風味的烤魚沙爹和雞肉沙爹配烤花生醬
@@ -51,6 +56,7 @@ _srcHash: 1f776eaf47acbe6af9bcf29d10dec568
 - 迷你夏巴塔开放三明治配牛油果和烤蔬菜
 
 餐点搭配度假村招牌的草莓风味饮品和一杯气泡酒，让味蕾享受完整的美食之旅。
+
 ## 永恒回忆的创造
 
 除了美食，这个体验最珍贵的是它创造的回忆。专业的工作人员会在不打扰您的情况下，为您捕捉这特别时刻的美丽照片。当您专注于眼前的美景和身边的爱人时，那些自然流露的笑容和眼神交流将被永远定格。
@@ -59,7 +65,7 @@ _srcHash: 1f776eaf47acbe6af9bcf29d10dec568
 
 无论是蜜月旅行、周年纪念，还是单纯想要给爱人一个惊喜，这漂浮在锦鲤漂流河上的浪漫飨宴，都将成为您巴厘岛之旅中最闪亮的记忆珍珠。
 
-▶[在Klook上预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1061065&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F136296-dining-experience-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Debd9e9bd14)
+▶[在Klook上预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1061065&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F136296-dining-experience-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Debd9e9bd14)
 
 ***
 

@@ -1,8 +1,9 @@
 ---
+slug: bali-power-outage-cable-failure
 title: 巴厘岛大停电：海底电缆故障引发电力危机，揭开巴厘岛电力来源的真相
 description: >-
   2025年5月2日下午4点，巴厘岛突如其来的停电事件，导致全岛几乎陷入无电状态。此次大停电给当地民生、交通与旅游业造成重大影响。PT
-  PLN（印尼国家电力公司）迅速展开修复行动，并持续更新供电情况。电力公司回应：海底电缆故障是主因 根据PLN企业传讯副总Gr
+  PLN（印尼国家电力公司）迅速展开修复行动，并持续更新供电情况。  电力公司回应：海底电缆故障是主因  根据PLN企业传讯副总Gr
 pubDate: '2025-05-02'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_685d4a24593f536c67473725be73984e.jpg'
 tags:
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6814d025fd89780001feaff6'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 55deae37ef3a595e18204bad85adb8e6
+_srcHash: fb60b0d26b3030ef50c0cd5548886f3e
 ---
 
 ## 巴厘岛突发大停电，全岛陷入黑暗

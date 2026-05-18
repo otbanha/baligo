@@ -1,6 +1,7 @@
 ---
-title: 巴厘岛乌布的最佳体验 - 如何规划你的乌布之旅？
-description: YouTube网红通过她的视频，详细展示并介绍了巴厘岛乌布地区的旅游景点...
+slug: uluwatu-bali-travel-plan
+title: 巴厘岛乌鲁瓦图最佳攻略 - 如何规划你的乌鲁瓦图之旅？
+description: YouTube网红通过她的视频，详细展示并介绍了巴厘岛乌鲁瓦图地区的旅游景点...
 pubDate: 2024-03-23T00:00:00.000Z
 category:
   - 峇里島分區攻略
@@ -17,24 +18,24 @@ embeds:
     platform: youtube
     url: 'https://www.youtube.com/watch?v=v6W_UtIxH0Y'
 lang: zh-cn
-_srcHash: 7d5e7c6d8ace3dbfda490501ade75871
+_srcHash: b4f901f64a86ae53f661ea78aa0ad383
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_31df71252b0296e7d4223bd574817f5b.jpg)
 
-'Gypsy in Sneakers' 这名YouTube网红通过她的视频，详细展示并介绍了巴厘岛乌布地区的旅游景点。
+'Gypsy in Sneakers' 这名YouTube网红通过她的视频，详细展示并介绍了巴厘岛乌鲁瓦图地区的旅游景点。
 
-她首先解释了乌布作为这个曾经慵懒的冲浪小镇，如今正逐渐成为巴厘岛最新兴的热门旅游胜地。接着她开始介绍该地区的几大分区，包括Pecatu、Ungasan、Uluwatu和Pandawa，让观众对巴厘岛南部半岛有更清晰的概念。
+她首先解释了乌鲁瓦图作为这个曾经慵懒的冲浪小镇，如今正逐渐成为巴厘岛最新兴的热门旅游胜地。接着她开始介绍该地区的几大分区，包括Pecatu、Ungasan、乌鲁瓦图和Pandawa，让观众对巴厘岛南部半岛有更清晰的概念。
 
-巴厘岛乌布的最佳体验 - 如何规划你的乌布之旅
+巴厘岛乌鲁瓦图最佳攻略 - 如何规划你的乌鲁瓦图之旅
 
-{{video1}}
+__VID0__
 
-她先带大家去了著名的Padang Padang海滩，这里不仅拥有白色沙滩，更是受欢迎的冲浪胜地，甚至在电影《Eat, Pray, Love》中亦有镜头取景。
+她先带大家去了著名的Padang Padang海滩，这里不仅拥有白色沙滩，更是受欢迎的冲浪胜地，甚至在电影《美食、祈祷和恋爱》中亦有镜头取景。
 
 Padang Padang海滩小杰的介绍
 
-接下来造访的是Karang Boma悬崖，这里高耸陡峭，是一处极具挑战但风景绝佳的景点。之后她展示了Dreamland海滩的绝美海景，以及被誉为“最后的秘境”、人迹罕至的Nyang Nyang海滩。
+接下来造访的是Karang Boma悬崖，这里高耸陡峭，是一处极具挑战但风景绝佳的景点。之后她展示了Dreamland海滩的绝美海景，以及被誉为"最后的秘境"、人迹罕至的Nyang Nyang海滩。
 
 在Balangan观景点，她欣赏了这里被公认的最佳日落景致。除了海滩，她也到访了几家当地知名的网红餐厅，像是Drifter Cafe和Nourish Cafe，品尝当地美食。
 
@@ -54,7 +55,7 @@ Padang Padang海滩小杰的介绍
 
 > [巴厘岛搭乘直升机顶级体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=853434&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F56864-bali-helicopter-ride-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd5ad384ea8)
 
-这段视频生动地展现了乌鲁瓦图这块区域丰富多元的旅游资源，包括迷人海景、度假胜地、地道体验等，让观众能充分认识这个日渐兴盛的热门旅游胜地。
+这段视频生动地展现了乌鲁瓦图这块区域丰富多元的旅游资源，包括迷人海景、度假胜地、地道体验等，让观众能充分认识这个日渐兴盛的旅游热门目的地。
 
 ![烏魯瓦圖攻略有更全面的介紹](https://images.gobaligo.id/vocus/vocus_21777e6a472d74c62c56833f409a2864.jpg)
 

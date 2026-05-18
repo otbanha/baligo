@@ -1,4 +1,5 @@
 ---
+slug: seminyak-budget-villas-guide
 title: 【水明漾】不超过100美元的平价巴厘岛villa推荐
 description: >-
   许多游客以为巴厘岛水明漾的住宿选择都偏高档，但其实在这里也能找到价格合理、评价不错的villa选项。这些平价villa不仅提供私密空间、泳池，还拥有便利的地理位置，让你以较亲民的价格，享受奢华的巴厘岛度假体验！请看我们的水明漾villa推荐吧！
@@ -17,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_16c256b70aee5f839bf1ed7952ac49bb.jpg'
 originalUrl: 'https://vocus.cc/article/66ee9770fd89780001306753'
 lang: zh-cn
-_srcHash: 28d6778224b8227f7b7d50c636907a63
+_srcHash: ff6c9519fc404cdb439227cc61fd58ea
 ---
 
 # 水明漾好评的平价villa

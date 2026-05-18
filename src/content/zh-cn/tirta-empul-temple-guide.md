@@ -1,4 +1,5 @@
 ---
+slug: tirta-empul-temple-guide
 title: 【巴厘岛圣泉寺】Tirta Empul 完整指南：千年圣水净化仪式流程、禁忌与必看重点
 description: >-
   走进巴厘岛最神圣的水庙！本篇详细解析圣泉寺 (Tirta Empul) 的历史背景与 Melukat 净化仪式完整步骤。包含如何领取沙龙
@@ -20,10 +21,10 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ea059ffc95268e16ff2815ce4d13f7a9.jpg'
 originalUrl: 'https://vocus.cc/article/6852cdc2fd89780001e0b7ad'
 lang: zh-cn
-_srcHash: aae8f93502e50658bbcafdaf6438b52e
+_srcHash: b2bb76589164a644b3be782be255218a
 ---
 
-Tirta Empul（意为“圣泉”）是巴厘岛最古老且灵性深厚的水庙之一，位于 Gianyar 的 Tampaksiring 村。这座寺庙以泉水净化仪式“Melukat”闻名，信徒相信此处泉水具有清除负能量的神力。
+Tirta Empul（意为「圣泉」）是巴厘岛最古老且灵性深厚的水庙之一，位于 Gianyar 的 Tampaksiring 村。这座寺庙以泉水净化仪式「Melukat」闻名，信徒相信此处泉水具有清除负能量的神力。
 
 **参拜亮点：**
 
@@ -38,7 +39,7 @@ Tirta Empul（意为“圣泉”）是巴厘岛最古老且灵性深厚的水庙
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5ba2abc7963542e2253bb38ebb3360ef.jpg)
 
-Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依序通过 26 座喷泉，借由泼水与祈祷净化心灵。
+Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依序通过 26 座喷泉，藉由泼水与祈祷净化心灵。
 
 非印度教徒也可参与，只要尊重文化与礼仪即可。
 
@@ -83,7 +84,7 @@ Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依序通过 26
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4700e8862974289fdc9dfce583117aec.jpg)
 
-作为净化仪式的主区，拥有两大池与 26 座泉眼，每一眼水源代表不同的心灵祈愿。
+为净化仪式的主区，拥有两大池与 26 座泉眼，每一眼水源代表不同的心灵祈愿。
 
 **重要泉眼代表意义：**
 
@@ -198,9 +199,9 @@ https://youtube.com/shorts/fiYs5GKdINU
 
 可以。只需尊重当地文化与仪式规范，并保持礼貌即可安心参与。
 
-### 2. 入场是否提供纱笼？
+### 2. 入场是否提供 Sarong？
 
-是的。入庙时会免费提供纱笼与腰带，不需自行携带。
+是的。入庙时会免费提供 Sarong 与腰带，不须自行携带。
 
 ### 3. 泉水可以饮用吗？
 

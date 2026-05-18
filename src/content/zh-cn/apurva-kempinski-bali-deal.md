@@ -1,6 +1,6 @@
 ---
 title: ⭐⭐巴厘岛凯宾斯基 Apurva Kempinski 限时促销！⭐⭐ USD$350 入住五星酒店，含早餐＋下午茶
-slug: ''
+slug: apurva-kempinski-bali-deal
 description: >-
   如果你正在找 巴厘岛五星酒店优惠，最近出现了一个相当吸引人的促销方案。 位于努沙杜瓦的顶级度假村The Apurva Kempinski
   Bali推出限时房价，每晚只需 USD$350 起，而且还包含早餐与下午茶。透过本站订购，再加送巴厘岛旅游税 对于想体验巴厘岛奢华度假的旅客来说，这个价格
@@ -17,12 +17,12 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9034b3eade783ad2a93a96720a8df57.jpg'
 originalUrl: 'https://vocus.cc/article/69aa4faefd897800016bbeda'
 lang: zh-cn
-_srcHash: 6eb5e941871bc75a51d7ed64383af374
+_srcHash: f5337594613df7340e6f206e4fe58d43
 ---
 
 如果你正在找 **巴厘岛五星酒店优惠**，最近出现了一个相当吸引人的促销方案。
 
-位于努沙杜瓦的顶级度假村The Apurva Kempinski Bali推出限时房价，**每晚只需 USD$317 起**，而且还包含早餐与下午茶。透过本站订购，**再加送巴厘岛旅游税**
+位于努沙杜瓦的顶级度假村The Apurva Kempinski Bali推出限时房价，**每晚只需 USD 350 起**，而且还包含早餐与下午茶。透过本站订购，**再加送巴厘岛旅游税**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_33659c491db9821772fe0b9e2999c6bf.jpg)
 
@@ -60,13 +60,14 @@ _srcHash: 6eb5e941871bc75a51d7ed64383af374
 
 入住日期价目
 
-> 0601-0714：11833
-> 0714-0831：12833
-> 1016-1220：10833
-> 1227-0107：14833
-> 0204-0210：11833
+- 已售罄：USD$317
+- 06/01-07/14：USD$382
+- 07/14-08/31：USD$414
+- 10/16-12/20：USD$349
+- 12/27-01/07：USD$478
+- 02/04-02/10：USD$382
 
-也就是说，如果现在规划未来一年左右的巴厘岛旅行，都有机会用到这个价格。
+也就是说，如果现在规划未来一年左右的巴厘岛旅行，都有机会用到这个优惠价格。
 
 ***
 
@@ -90,7 +91,7 @@ The Apurva Kempinski Bali 可以说是近几年巴厘岛讨论度非常高的五
 
 > [独一无二的巴厘岛度假体验 - 巴厘岛奢华住宿：凯宾斯基 Apurva Kempinski Bali酒店](/blog/2024-04-22-660ff581fd89780001f31315/)
 
-> [巴厘岛凯宾斯基 The Apurva Kempinski Bali 荣获 2024「最佳永续饭店」殊荣](/blog/2024-11-16-67375f47fd89780001591deb/)
+> [巴厘岛凯宾斯基 The Apurva Kempinski Bali 荣获 2024「最佳永续酒店」殊荣](/blog/2024-11-16-67375f47fd89780001591deb/)
 
 ### 1️⃣ 巴厘岛最壮观酒店建筑之一
 
@@ -118,7 +119,7 @@ The Apurva Kempinski Bali 可以说是近几年巴厘岛讨论度非常高的五
 
 在巴厘岛的顶级酒店中，凯宾斯基平常房价其实并不算低。
 
-如果能遇到 **含税＋早餐＋下午茶** 的价格落在 **USD$387 以内**，确实算是相对少见的促销。
+如果能遇到 **含税＋早餐＋下午茶** 的价格落在 **USD 387 以内**，确实算是相对少见的促销。
 
 但也提醒大家，这类优惠通常都有 **不可取消** 的条款，因此订房前最好确认好行程。
 
@@ -144,7 +145,7 @@ The Apurva Kempinski Bali 可以说是近几年巴厘岛讨论度非常高的五
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_896b96bc68a66ab60d55c0e4e8f689fc.jpg)
 
-酒店最吸引人的，当属其知名的水族馆餐厅 KORAL。这间座落在酒店底层的餐厅，内有一个巨大的水族箱环绕，box 座可以近距离欣赏热带鱼类缓缓游动，视觉效果振奋人心。游客点了餐厅的"KORAL 探索菜单"，每一道菜都富有创意，摆盘精致别致，运用当地新鲜食材，味道清新怡人。除了主菜，餐前的可颂面包和综合沙拉油醋酱也让人印象深刻，开胃美味。
+酒店最吸引人的，当属其知名的水族馆餐厅KORAL。这间座落在酒店底层的餐厅，内有一个巨大的水族箱环绕，box座可以近距离欣赏热带鱼类缓缓游动，视觉效果振奋人心。游客点了餐厅的"KORAL探索菜单"，每一道菜都富有创意，摆盘精致别致，运用当地新鲜食材，味道清新怡人。除了主菜，餐前的可颂面包和综合沙拉油醋酱也让人印象深刻，开胃美味。
 
 > 加购 [水族馆餐厅用餐体验 USD$100起](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90340-koral-restaurant-dining-the-apurva-kempinski-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2225956a4)
 
@@ -165,7 +166,7 @@ The Apurva Kempinski Bali 可以说是近几年巴厘岛讨论度非常高的五
 
 ***
 
-如果你正在规划巴厘岛旅行，也可以把 The Apurva Kempinski Bali 这个促销列入参考。毕竟在巴厘岛，有时候 **选对一间酒店，本身就已经是一个景点了。**
+如果你正在规划巴厘岛旅行，也可以把 The Apurva Kempinski Bali这个促销列入参考。毕竟在巴厘岛，有时候 **选对一间饭店，本身就已经是一个景点了。**
 
 <iframe
   src="/forms/kempinski-booking-form.html"

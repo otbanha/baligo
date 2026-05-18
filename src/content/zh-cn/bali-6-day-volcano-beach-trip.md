@@ -1,4 +1,5 @@
 ---
+slug: bali-6-day-volcano-beach-trip
 title: 【巴厘岛游记】六天五夜探索火山、沙滩、跳岛之旅体验分享
 description: 巴厘岛之旅充满了美好的回忆，我们不仅感受到了这片土地的独特魅力，还遇到了两位非常出色的包车司机，他们为我们的旅程增添了...
 pubDate: '2024-05-07'
@@ -13,14 +14,14 @@ originalUrl: 'https://vocus.cc/article/66284452fd89780001867c6a'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 31a9e6a07bd5956d08dc839cc87ea49e
+_srcHash: 70d8d9ed9ab1f5597ce9b70ae906fe6f
 ---
 
 我们的脸书社团团友[戴妤珊](https://www.facebook.com/100002382562993/)跟朋友的六天五夜游记，特此提供给我们编辑/转载：
 
 【巴厘岛行程分享】
 
-首先呢，由于我在社团里得到很多巴厘岛资讯，所以来这里将我的游记反馈给大家。
+首先呢，由于我在社团里得到很多巴厘岛资讯，所以来这里将我的游记回馈给大家。
 
 这次的巴厘岛之旅充满了美好的回忆，我们不仅感受到了这片土地的独特魅力，还遇到了两位非常出色的包车司机，他们为我们的旅程增添了许多色彩和温馨。
 
@@ -60,7 +61,7 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 戴妤珊提供
 
-- 晚餐：La Brisa Bali 风景超美！真的推荐你们来这里度过一个悠闲的傍晚！
+- 晚餐：La Brisa Bali 风景超美！真的推荐你们来这里度过一个悠闲的傍晚!
 
 视频由戴妤珊提供
 
@@ -89,7 +90,7 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 > 🔱💦 乌布圣泉寺（Tirta Empul）巴厘岛著名圣水寺庙，以净化仪式🙏 和神圣泉水💧闻名，能为信徒与游客带来祝福与好运✨！▶[Klook优惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
-- Penglipuran 村庄（可以租借传统服饰拍照）
+- Penglipuran Village（可以租借传统服饰拍照）
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_1c6d81057d0a3ab1b62526027ca64d3b.jpg)
 
@@ -152,7 +153,7 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 > 请参考这里：
 
-> [【巴厘岛 - 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/2023-08-16-64db6b82fd897800013a9942/)
+> [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/2023-08-16-64db6b82fd897800013a9942/)
 
 ## 第六天（乌鲁瓦图）：
 
@@ -162,7 +163,7 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 戴妤珊提供
 
-- Suluban Beach（美丽的海滩！）
+- Suluban 海滩（美丽的沙滩！）
 
 看小杰的视频介绍
 
@@ -173,9 +174,9 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 ## 【巴厘岛包车司机推荐 Part 2】
 
-在这次的巴厘岛之旅中，我们遇到了第二位司机Odon。在社团里，有许多人都极力推荐他，而我选择他的原因是因为我计划在第四天前往Rock bar，而听说他能帮忙订位。这一点吸引了我，于是后三天我们决定选择了他的包车服务。
+在这次巴厘岛之旅中，我们遇到了第二位司机Odon。在社团里，有许多人都极力推荐他，而我选择他的原因是因为我计划在第四天前往Rock bar，而听说他能帮忙订位。这一点吸引了我，于是后三天我们决定选择了他的包车服务。
 
-Odon在Rock bar表现得非常出色！他可以帮助我们通过员工通道，并且有权选择座位（这点非常重要！），而且不需要最低消费，甚至可以选择已被预订的座位。我强烈建议想去Rock bar的人一定要选择他的包车服务，因为一般游客要排长队才能进入，只有住在Rock bar所在酒店的客人才能预订。
+Odon在Rock bar表现得非常出色！他可以帮助我们通过员工通道，并且有权选择座位（这点非常重要！），而且不需要低消，甚至可以选择已被预订的座位。我强烈建议想去Rock bar的人一定要选择他的包车服务，因为一般游客要排长队才能进入，只有住在Rock bar所在饭店的客人才能预订。
 
 Odon给人的感觉与前一位司机完全不同。他给人的感觉就像是一个好朋友，非常热情友好，而且非常风趣幽默。他的英文非常口语易懂，而且乐于推荐餐厅和按摩店。
 

@@ -1,4 +1,5 @@
 ---
+slug: 2024-bali-automated-immigration
 title: 巴厘岛2024年启用人脸识别的自动通关系统：持电子签证者可加速通关
 description: 持有电子落地签签证者，将可使用自动通关系统啦！
 pubDate: '2024-01-04'
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6596cae5fd89780001f43bff'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 61f28bf95fc47fe71403e4249b042b4a
+_srcHash: 585c9218008b5cff7c3191c4a9c29ae5
 ---
 
 **事先在线申请电子签证者，将可使用自动通关系统啦！**
@@ -30,7 +31,7 @@ _srcHash: 61f28bf95fc47fe71403e4249b042b4a
 
 ➡️[到Klook找巴厘岛优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
 
-2024年一月开始，巴厘岛也将启用这个自动通关系统。预计在几个月内再增加50个自动闸门单元，使国际航站楼共安装80个单元以供游客快速通关（抵达/入境将有50-60个自动通关闸门；离开/出境20个）。
+2024年1月开始，巴厘岛也将启用这个自动通关系统。预计在几个月内再增加50个自动闸门单元，使国际航站楼共安装80个单元以供游客快速通关（抵达/入境将有50-60个自动通关闸门；离开/出境20个）。
 
 **在线申请签证，简化入境流程**
 
@@ -52,3 +53,8 @@ _srcHash: 61f28bf95fc47fe71403e4249b042b4a
 
 所以从2024年开始，先办好电子落地签不只不用排队办理VoA（落地签），连移民局排队等盖章都不用了！节省下来的时间让你多多感受巴厘岛喔！
 
+---
+
+👈 **回到巴厘岛自由行终极指南**
+
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

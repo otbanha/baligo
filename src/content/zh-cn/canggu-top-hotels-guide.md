@@ -1,8 +1,8 @@
 ---
 title: 巴厘岛住宿推荐：坎古 Top 17 你不能错过的住宿推荐
-slug: ''
+slug: canggu-top-hotels-guide
 description: >-
-  巴厘岛住宿推荐：坎古度过一段惬意的假期时，选择一家令人惊艳的住宿是确保您旅程愉快的关键之一。坎古以其独特的波西米亚氛围和蓬勃发展的咖啡文化而闻名。无论您是想在沙滩上沐浴阳光，还是在充满异国风情的小巷间漫游，坎古都拥有吸引人的魅力。
+  巴厘岛住宿推荐：在坎古度过一段惬意的假期时，选择一家令人惊艳的住宿是确保您旅程愉快的关键之一。坎古以其独特的波希米亚氛围和蓬勃发展的咖啡文化而闻名。无论您是想在沙滩上沐浴阳光，还是在充满异国风情的小巷间漫游，坎古都拥有吸引人的魅力。
 pubDate: 2025-06-02T00:00:00.000Z
 pubHour: null
 category:
@@ -21,12 +21,12 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777896573960-canggu_stay.png'
 originalUrl: 'https://vocus.cc/article/651b8da8fd89780001974847'
 lang: zh-cn
-_srcHash: d3ea957214ef96aec08706c5d0a41092
+_srcHash: 97ef32d2ce0dcdbf44641370b71efe70
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)
 
-当您计划前往印尼巴厘岛的坎古度过一段惬意的假期时，选择一家令人惊艳的住宿是确保您旅程愉快的关键之一。坎古位于巴厘岛的西南部，以其壮观的海滨美景、独特的波西米亚氛围和蓬勃发展的咖啡文化而闻名。无论您是想在沙滩上沐浴阳光，还是在充满异国风情的小巷间漫游，坎古都拥有吸引人的魅力。为了帮助您轻松选择理想的住宿，我们特别整理了坎古的前16家住宿推荐，让您在这个迷人的度假胜地中度过难忘的时光。无论您是一位崇尚奢华的旅行者，还是追求舒适和放松的度假者，这份推荐清单都将帮助您找到最适合的住宿选择。
+当您计划前往印尼巴厘岛的坎古度过一段惬意的假期时，选择一家令人惊艳的住宿是确保您旅程愉快的关键之一。坎古位于巴厘岛的西南部，以其壮观的海滨美景、独特的波希米亚氛围和蓬勃发展的咖啡文化而闻名。无论您是想在沙滩上沐浴阳光，还是在充满异国风情的小巷间漫游，坎古都拥有吸引人的魅力。为了帮助您轻松选择理想的住宿，我们特别整理了坎古的前16家住宿推荐，让您在这个迷人的度假胜地中度过难忘的时光。无论您是一位崇尚奢华的旅行者，还是追求舒适和放松的度假者，这份推荐清单都将帮助您找到最适合的住宿选择。
 
 ### 你一定也想看：
 
@@ -134,7 +134,7 @@ Swarga Suites Bali Berawa 是一家位于巴厘岛坎古的超高评价豪华度
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2819fc39af6ba26d94deac761bbf5f7f.jpg)
 
-Holiday Inn Resort Bali Canggu于2024年8月正式开业，成为巴厘岛南岸坎古地区的高端住宿选择。度假村拥有时尚设计、顶级设施及先进科技，并提供令人惊艳的无边泳池，俯瞰壮丽的印度洋。这里距离Batu Bolong海滩和坎古热闹街区步行可达，融合现代设计与传统巴厘岛风情。度假村提供144间精心设计的客房，分为标准房、套房及适合家庭的儿童套房。设施包括健身中心、儿童俱乐部及全天候餐厅，让宾客享受难忘的假期。
+Holiday Inn Resort Bali Canggu于2024年8月正式开业，成为巴厘岛南岸坎古地区的高端住宿选择。度假村拥有时尚设计、顶级设施及先进科技，并提供令人惊艳的无边际泳池，俯瞰壮丽的印度洋。这里距离Batu Bolong海滩和坎古热闹街区步行可达，融合现代设计与传统巴厘岛风情。度假村提供144间精心设计的客房，分为标准房、套房及适合家庭的儿童套房。设施包括健身中心、儿童俱乐部及全天候餐厅，让宾客享受难忘的假期。
 
 > ▶[Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=46874759)
 
@@ -320,7 +320,7 @@ IHG旗下Regent品牌选在Batu Bolong海岸开业，这是Regent进入印尼的
 * 坎古 [Spa & Yoga高级体验](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
 * 坎古 [按摩SPA不踩雷推荐](https://s.id/spa_guide)
 * 坎古 [到府按摩服务](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
-* 坎古 [美食优惠](https://affiliate.klook.com/redirect?aid=40584&aff_adid=931889&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50218418-canggu%2F2-food-and-dining%2F)
+* 坎古 [美食优惠](https://affiliate.klook.com/redirect?aid=40584&aff_adid=931889&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50218418-canggu%2F2-food-and-dining/)
 
 {{block:canggu}}
 

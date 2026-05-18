@@ -1,6 +1,7 @@
 ---
-title: 【出发前往巴厘岛离岛】沙努尔行李寄存攻略
-description: 出发至佩尼达岛、蓝梦岛、吉利群岛等巴厘岛离岛的时候，如果寄存大件行李呢？ 在沙努尔，有以下几种行李寄存方式：
+slug: sanur-luggage-storage-guide
+title: 【出发前往巴厘岛离岛】沙努尔行李存放攻略
+description: 出发至佩尼达岛、蓝梦岛、吉利群岛等巴厘岛离岛的时候，如果寄放大件行李呢？ 在沙努尔，有以下几种行李寄存方式：
 pubDate: '2024-03-12'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b44676ea89588a63f9e28ba834f9e164.png'
 tags:
@@ -13,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65ea5fc9fd89780001f099b8'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 2eeaf6fbda4286902e9aea319297dff1
+_srcHash: dda1c43918657eeff7db5282215be96c
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7fd7545646d5af015dd7862936b090bb.png)

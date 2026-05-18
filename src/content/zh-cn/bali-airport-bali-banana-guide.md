@@ -1,4 +1,5 @@
 ---
+slug: bali-airport-bali-banana-guide
 title: 巴厘岛国际机场买Bali Banana当伴手礼怎么去？如何从国际线步行到国内线？
 description: >-
   巴厘岛是个旅游天堂，而在离开之前，许多游客都会选择买些伴手礼带回家。Bali Banana，这款美味的香蕉蛋糕，是非常受欢迎的选择。但是要在机场买Bali
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66b379cefd89780001ef4899'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: b3f1e72c9f089f48bc1a9e53fb41bfb2
+_srcHash: 39a0519924e439f9dbbb99db018be00d
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6fb17aeb28479bd7b7d5a57f318dea63.jpg)
@@ -42,7 +43,7 @@ _srcHash: b3f1e72c9f089f48bc1a9e53fb41bfb2
 
 ### 2. 跟着标志走
 
-沿路都有「Domestic Terminal」的标志，按照这些指示牌行进即可。这些标志会指引你前往国内线航站楼。
+沿路都有「Domestic Terminal」的标志，按照这些指示行进即可。这些标志会指引你前往国内线航站楼。
 
 ### 3. 路程约6分钟
 

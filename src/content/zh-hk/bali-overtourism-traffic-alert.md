@@ -1,4 +1,5 @@
 ---
+slug: bali-overtourism-traffic-alert
 title: 峇里島過度旅遊？九月開始嘅交通警示
 description: 峇里島因為過度旅遊問題持續受到關注，特別係南峇里島地區，由於遊客太多而過度擠迫
 pubDate: '2024-08-17'
@@ -13,18 +14,17 @@ originalUrl: 'https://vocus.cc/article/66c0857afd897800014dceb0'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 37a217b45d56a7c0c656dc1108ca7348
+_srcHash: a753867a2f719ff800e129568e8184ed
 ---
-
 峇里島因為過度旅遊問題持續受到關注，特別係南峇里島地區，由於遊客太多而過度擠迫。自2023年以來，峇里島被世界旅行與旅遊理事會列為過度旅遊嘅熱門目的地，同雅典、巴黎同普吉島齊名。
 
 ![峇里島南部已經過度旅遊（overtourism）了！](https://images.gobaligo.id/vocus/vocus_fe05333dc536a7417e3945911d0ae12b.png)
 
 峇里島南部已經過度旅遊（overtourism）喇！
 
-2024年初，因為通往伍拉·賴國際機場嘅道路嚴重塞車，外國遊客同當地旅客被迫落車行路去機場，峇里島再度成為焦點（聖誕新年假期排名為峇里島旺季人潮車潮最多嘅第二名。呢度有短片大家可以睇下[2023/12/29往機場高速公路嘅狀況](https://www.facebook.com/groups/indonesia.travelguide/permalink/3579975912271532/)）。印尼旅遊部部長Sandiaga Uno承認南峇里島遊客過多，並計劃分流至北部、西部同東部地區，以緩解壓力，並將於9月公佈相關措施。
+2024年初，因為通往伍拉·賴國際機場嘅道路嚴重塞車，外國遊客同本地旅客被迫落車行路去機場，峇里島再度成為焦點（聖誕新年假期排名為峇里島旺季人潮車潮最多嘅第二名。呢度有短片大家可以睇下[2023/12/29往機場高速公路嘅狀況](https://www.facebook.com/groups/indonesia.travelguide/permalink/3579975912271532/)）。印尼旅遊部部長Sandiaga Uno承認南峇里島遊客過多，並計劃分流至北部、西部同東部地區，以緩解壓力，並將於9月公佈相關措施。
 
-> 延伸閱讀：[峇里島居然有五個旅遊旺季！點樣避開旺季聰明旅遊？](/blog/2024-06-04-665ef28dfd89780001adfa98/)
+> 延伸閱讀：[峇里島居然有五個旅遊旺季！如何避開旺季聰明旅遊？](/blog/2024-06-04-665ef28dfd89780001adfa98/)
 
 ![峇里島南部包含西岸的長谷、水明漾、庫塔、金巴蘭、烏魯瓦圖；和東岸的努沙杜瓦、沙努爾。](https://images.gobaligo.id/vocus/vocus_116100a5cd534e0ae2d1707ef11bbe1f.png)
 

@@ -1,7 +1,8 @@
 ---
+slug: indonesia-visa-free-taiwan
 title: >-
   Travel Convenience Upgraded! Indonesia May Offer Visa-Free Entry, Great
-  Benefits for Taiwanese Tourists
+  Benefits for Taiwanese Travelers
 description: Hope for Visa-Free Entry to Indonesia/Bali for Taiwan and Hong Kong Visitors
 pubDate: '2024-12-08'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cf0d3f465e217dfde5a5d2dc157ce735.png'
@@ -11,27 +12,27 @@ originalUrl: 'https://vocus.cc/article/65742746fd89780001135982'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 227c72dcfc0749d30072fb54ef7fe1b0
+_srcHash: ba8cc41fdfd9ff1f7e455d1919384296
 ---
 
-According to a report from Central News Agency on December 8, Indonesia is considering implementing a visa-free policy for visitors from 20 countries, including Taiwan.
+According to a Central News Agency report on December 8, Indonesia is considering implementing a visa-free policy for visitors from 20 countries, including Taiwan.
 
 ![赴印尼/峇里島旅遊將享有免簽待遇](https://images.gobaligo.id/vocus/vocus_003229f502db910ed37023c9fd244dfb.png)
 
 Traveling to Indonesia/Bali Will Enjoy Visa-Free Treatment
 
-Currently, only citizens of other ASEAN member states can enter Indonesia visa-free. The Indonesian government is actively promoting inbound tourism, hence considering expanding the visa-free policy. Minister of Tourism and Creative Economy, Sandiaga Uno, stated in an interview with CNN Indonesia that the list of countries under consideration is based on the number of their citizens visiting Indonesia.
+Currently, only citizens of other ASEAN member states can enter Indonesia visa-free. The Indonesian government is actively promoting inbound tourism, hence considering expanding the visa-free policy. Minister of Tourism and Creative Economy Sandiaga Uno stated in an interview with CNN Indonesia that the list of countries under consideration is based on the number of visits by their citizens to Indonesia.
 
-He mentioned the United States, Japan, China (including Hong Kong), India, the United Arab Emirates, several European countries, and Taiwan. He said this policy will encourage high-spending and high-quality tourists. The government may discuss the visa-free policy next month, while also considering whether Indonesian travelers can receive similar treatment in other countries.
+He mentioned the United States, Japan, China (including Hong Kong), India, the United Arab Emirates, and several European countries, as well as Taiwan. He said this policy would encourage high-spending and high-quality travelers. The government may discuss the visa-free policy next month, while also considering whether Indonesian travelers can receive similar treatment in other countries.
 
-According to current regulations, visitors from Taiwan or Hong Kong can apply for a visa on arrival or pay for an electronic visa on arrival (e-VOA), costing approximately USD$32 (Rp. 500,000). The document is valid for 30 days and can be extended once.
+According to current regulations, Taiwanese or Hong Kong visitors can apply for a visa on arrival or pay for an electronic visa on arrival (e-VOA), costing approximately USD$32 (Rp. 500,000). The document is valid for 30 days and can be extended once.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_62407b2522dba31e259fd695ae51864b.png)
 
-Before diving into our **'Ultimate Bali Travel Guide'**, we warmly invite you to subscribe to our YouTube channel **'Jason Indonesia'** for more visual travel experiences. [Click here](http://bit.ly/youtube-jason) to subscribe now.
+Before diving into our **"Ultimate Bali Travel Guide"**, we sincerely invite you to subscribe to our YouTube channel **"Jason Indonesia"** for more visual travel experiences. [Click here](http://bit.ly/youtube-jason) to subscribe now.
 
-After subscribing, you can immediately continue reading our detailed guide to thoroughly explore every exciting corner of Bali. Click **"**[**The Ultimate Bali Travel Guide**](/blog/2025-06-15-64e37f2dfd89780001b1f776/)**"** to start preparing for your Bali trip!
+After subscribing, you can immediately continue reading our detailed guide to explore every exciting corner of Bali. Click **"**[**The Ultimate Bali Travel Guide**](/blog/2025-06-15-64e37f2dfd89780001b1f776/)**"** to start preparing for your Bali trip!
 
 ### Our Community
 
-Want to know more about Indonesia? Planning to visit Bali? Join our Facebook group "Bali/Indonesia Eat, Drink, Play" for diverse travel information about Indonesia and Bali, including famous attractions, entry tips, travel secrets, itinerary planning, and new spot recommendations. Welcome to join the Facebook group "[Bali/Indonesia Eat, Drink, Play](https://www.facebook.com/groups/indonesia.travelguide/)"!
+Want to know more about Indonesia? Planning to visit Bali? Our Facebook group "Bali/Indonesia Food, Fun, and Travel" offers diverse travel information about Indonesia and Bali, including famous attractions, entry tips, travel secrets, itinerary planning, and new spot recommendations. Welcome to join our Facebook group "[Bali/Indonesia Food, Fun, and Travel](https://www.facebook.com/groups/indonesia.travelguide/)"!

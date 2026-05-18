@@ -1,6 +1,7 @@
 ---
+slug: bali-new-year-events-2025
 title: 巴厘岛2024-2025跨年活动指南：倒数、派对、酒店优惠
-description: 你准备好在巴厘岛迎接2025年跨年了吗？
+description: 你准备好巴厘岛迎接2025年跨年了吗？
 pubDate: '2024-09-14'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_28fd7daebaf81d76dfd78c46e2876943.png'
 tags:
@@ -14,10 +15,10 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-cn
-_srcHash: a740e9ef554817375832e917e0dc618a
+_srcHash: e6b71cc247b4a56d9765e2fc937b4dcc
 ---
 
-## 🌟 **你准备好在巴厘岛迎接2025年跨年了吗？** 🌟
+## 🌟 **你准备好巴厘岛迎接2025年跨年了吗？** 🌟
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_455df24745833ffc85f293afad9815dc.png)
 
@@ -97,8 +98,8 @@ _srcHash: a740e9ef554817375832e917e0dc618a
 
 ✅深度攻略，让你的行程既省钱又无忧  
 
-✅独家推荐的私房景点与当地美食地图
+✅独家推荐的私房景点与当地美食地图  
 
-✅在Facebook社群上看不到的内容
+✅在Facebook群组上看不到的内容
 
 ✅收集最多团友的行程规划建议，让每次旅行都是无缝体验

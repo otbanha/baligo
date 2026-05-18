@@ -1,4 +1,5 @@
 ---
+slug: titi-batu-ubud-family-club
 title: 【乌布亲子推荐】Titi Batu Ubud Club 攻略：大人健身按摩、小孩戏水放松的一日会馆体验
 description: >-
   带小孩玩乌布也能很优雅！深度开箱 Titi Batu Ubud
@@ -22,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e0fee6b09834203d2ea933ea0d4c7de1.jpg'
 originalUrl: 'https://vocus.cc/article/68bacc2ffd897800011175a7'
 lang: zh-cn
-_srcHash: 5aa68d795dc7acf90c210dcf897fbda2
+_srcHash: 1bbaa8d90dc3df60d8e2c049b30f9981
 ---
 
 在巴厘岛，大部分的海滩俱乐部或丛林俱乐部虽然气氛热闹，但往往缺乏 **儿童友善的设施**，因此对于有小朋友的家庭来说并不那么方便。
@@ -90,8 +91,8 @@ Titi Batu Ubud Club 建立在一片神圣土地上，邻近历史悠久的 **巴
 购买 **Day Pass**，即可畅游所有设施，包括：
 
 - 健身房与运动场地
-- 游泳池与桑拿
-- 热冷水池、蒸汽室
+- 游泳池与三温暖
+- 热冷水池、蒸气室
 - 亲子游戏空间与滑板公园
 
 无论是一个人前来锻炼，还是与家人共度欢乐时光，这里都能满足需求。
@@ -108,7 +109,7 @@ Titi Batu Ubud Club 建立在一片神圣土地上，邻近历史悠久的 **巴
 
 **需要会员资格才能入场吗？**
 
-不需要。购买 **Day Pass** 就能享受全区设施，非常方便旅客。
+不需要。购买 **Day Pass** 就能享受全区域设施，非常方便旅客。
 
 **俱乐部内有餐饮选择吗？**
 
@@ -120,7 +121,7 @@ Titi Batu Ubud Club 建立在一片神圣土地上，邻近历史悠久的 **巴
 
 **交通方便吗？**
 
-Titi Batu Ubud Club 位于乌布，从乌布市中心前往相当便利，可搭乘出租车或包车到达。
+Titi Batu Ubud Club 位于乌布，从乌布市中心前往相当便利，可搭乘出租车或包车抵达。
 
 ***
 
