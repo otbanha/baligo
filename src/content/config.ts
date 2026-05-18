@@ -21,6 +21,11 @@ const blog = defineCollection({
     })).optional(),
     private: z.boolean().optional(),
     shuffle_h2: z.boolean().optional(),
+    agoda_hotel_id: z.number().optional(),
+    agoda_hotel_name: z.string().optional(),
+    agoda_star_rating: z.number().optional(),
+    latitude: z.number().optional(),
+    longitude: z.number().optional(),
   }),
 });
 
@@ -70,6 +75,11 @@ const translatedSchema = z.object({
   })).optional(),
   private: z.boolean().optional(),
   shuffle_h2: z.boolean().optional(),
+  agoda_hotel_id: z.number().optional(),
+  agoda_hotel_name: z.string().optional(),
+  agoda_star_rating: z.number().optional(),
+  latitude: z.number().optional(),
+  longitude: z.number().optional(),
 });
 
 const qa = defineCollection({
