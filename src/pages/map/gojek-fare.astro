@@ -504,6 +504,42 @@ const ldJson = JSON.stringify({
       padding: 10px 12px;
     }
 
+    /* ── Related Links ── */
+    .related-links-card {
+      background: #fff;
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+      margin-top: 16px;
+    }
+    .related-links-title {
+      font-size: 15px;
+      font-weight: 800;
+      color: #1a365d;
+      margin-bottom: 14px;
+    }
+    .related-link-item {
+      display: block;
+      padding: 12px 16px;
+      margin-bottom: 8px;
+      background: linear-gradient(135deg, #f0f7ff, #fff);
+      border: 1.5px solid #c0d8f0;
+      border-left: 4px solid #1a6fa8;
+      border-radius: 10px;
+      text-decoration: none;
+      color: #1a4a7a;
+      font-size: 14px;
+      font-weight: 600;
+      line-height: 1.4;
+      transition: background 0.15s, border-color 0.15s;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .related-link-item:hover {
+      background: linear-gradient(135deg, #deeeff, #f5f9ff);
+      border-color: #1a6fa8;
+    }
+    .related-link-item:last-child { margin-bottom: 0; }
+
     /* ── Desktop Layout ── */
     .tool-grid {
       display: grid;
@@ -793,6 +829,12 @@ const ldJson = JSON.stringify({
 
     </div><!-- /.below-grid -->
 
+    <!-- Related Links -->
+    <div class="related-links-card">
+      <div class="related-links-title">📖 延伸閱讀</div>
+      <div id="related-links-list"></div>
+    </div>
+
   </div><!-- /.page-wrap -->
 
   <Footer />
@@ -1030,6 +1072,29 @@ const ldJson = JSON.stringify({
         ans.classList.add('open');
         btn.classList.add('open');
       }
+    }
+
+    // Related links — shuffle and pick 8
+    const relatedLinks = [
+      { text: '峇里島包車須知 - 費用、預訂方式、優勢分析', href: '/blog/2024-01-12-65a0a163fd8978000115f37a/' },
+      { text: '【峇里島包車司機推薦】看網友真實點評找到適合你的好司機', href: '/blog/2024-07-07-668aaea7fd89780001981840/' },
+      { text: '抵達峇里島：接機的交通選擇及第一天的實用建議', href: '/blog/2024-06-05-665d6a8efd897800013337a9/' },
+      { text: '峇里島旅遊中文司機/中文導遊/中文包車行程推薦', href: '/blog/2024-01-29-65b75c45fd897800019130ff/' },
+      { text: '峇里島租摩托車攻略！應該租摩托車好，還是包車好？', href: '/blog/2024-01-22-65adf238fd89780001a798ea/' },
+      { text: '峇里島租機車攻略：價格、安全、注意事項一次看', href: '/blog/2024-11-06-672a0629fd897800010aa2bc/' },
+      { text: '什麼時候包車？什麼場合叫車？包車 vs. 叫車：如何選擇最適合你的旅行方式？', href: '/blog/2024-05-05-6636f348fd897800013df126/' },
+      { text: '在印尼/峇里島旅行，一定要下載的APP：Gojek全攻略', href: '/blog/2023-08-20-64e187dffd897800017304fe/' },
+      { text: '印尼/峇里島的Gojek與GoPay註冊、使用、儲值教學全面指南', href: '/blog/2024-10-13-670b5191fd8978000185cf37/' },
+      { text: '峇里島APP網約車司機的套路：如何避免Grab/Gojek陷阱？', href: '/blog/2024-05-27-66546581fd8978000119d572/' },
+      { text: 'Nusa Penida佩尼達島計程車、Gojek/Grab、包車、摩托車交通攻略', href: '/blog/2024-01-16-65a5e069fd897800010625d0/' },
+      { text: '【印尼/峇里島必備APP】Gojek / Grab 叫車圖文教學指南', href: '/blog/2026-03-18-bali-gojek-grab-guide/' },
+    ];
+    const shuffled = relatedLinks.sort(() => Math.random() - 0.5).slice(0, 8);
+    const listEl = document.getElementById('related-links-list');
+    if (listEl) {
+      listEl.innerHTML = shuffled.map(l =>
+        `<a class="related-link-item" href="${l.href}">${l.text}</a>`
+      ).join('');
     }
 
     buildSelects();
