@@ -24,6 +24,33 @@ const description = area.description;
 <html lang="zh-TW">
 <head>
   <BaseHead title={title} description={description} />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "Map",
+    "name": title,
+    "description": description,
+    "url": `https://gobaligo.id/map/${area.slug}/`,
+    "mapType": "https://schema.org/VenueMap",
+    "contentLocation": {
+      "@type": "Place",
+      "name": area.name,
+      "geo": {
+        "@type": "GeoCoordinates",
+        "latitude": area.center[0],
+        "longitude": area.center[1]
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "addressRegion": "Bali",
+        "addressCountry": "ID"
+      }
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Go Bali Go",
+      "url": "https://gobaligo.id"
+    }
+  }).replace(/<\//g, '<\\/')} />
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
