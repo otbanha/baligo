@@ -94,10 +94,16 @@ export function remarkBlocks(embedMap = {}) {
       }
 
       if (block.type === 'random-cards' || block.type === 'random-list') {
-        const items = block.content
+        let items = block.content
           .split('\n')
           .filter(line => line.trim().startsWith('-'))
           .map(line => line.trim().slice(1).trim());
+
+        // Filter out ⚠️-marked items (untranslated) for non-default language pages
+        if (lang !== 'default') {
+          const translated = items.filter(i => !i.startsWith('⚠️'));
+          if (translated.length > 0) items = translated;
+        }
 
         const count = Math.min(block.randomCount, items.length);
         const shuffled = items.sort(() => Math.random() - 0.5).slice(0, count);
