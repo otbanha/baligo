@@ -178,6 +178,17 @@ export const maps: MapArea[] = [
     isThematic: true,
   },
   {
+    slug: "supermarket",
+    name: "峇里島超市地圖",
+    nameEn: "Supermarkets in Bali",
+    description: "峇里島中大型超市分布，含 Pepito、Grand Lucky、Hardy's、Bali Deli、Carrefour 等品牌，不含便利商店",
+    center: [-8.6705, 115.2126],
+    zoom: 11,
+    kml: "/maps/supermarket.kml",
+    emoji: "🛒",
+    isThematic: true,
+  },
+  {
     slug: "sim-card",
     name: "峇里島 SIM 卡店家",
     nameEn: "SIM Card Stores in Bali",

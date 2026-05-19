@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- © OpenStreetMap contributors (ODbL) — https://www.openstreetmap.org/copyright -->
+<!-- 此檔案由 scripts/fetch-supermarkets.mjs 自動生成，透過 GitHub Actions 每半年更新一次 -->
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>峇里島超市地圖 by gobaligo</name>
+    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 中大型超市，不含便利商店</description>
+    <Folder>
+      <name>Pepito</name>
+      <Placemark>
+        <name>Pepito Seminyak</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jl. Sunset Road, Seminyak<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1628,-8.6892,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Kuta</name>
+        <description><![CDATA[📍 Kuta<br>🗺️ Jl. Raya Kuta, Kuta<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1695,-8.7210,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Canggu</name>
+        <description><![CDATA[📍 Canggu<br>🗺️ Jl. Raya Canggu, Canggu<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1358,-8.6510,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Bintang Supermarket</name>
+      <Placemark>
+        <name>Bintang Supermarket Seminyak</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jl. Raya Seminyak, Seminyak<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1603,-8.6941,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Grand Lucky</name>
+      <Placemark>
+        <name>Grand Lucky Kuta</name>
+        <description><![CDATA[📍 Kuta<br>🗺️ Jl. Sunset Road, Kuta<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1762,-8.7082,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hardy's</name>
+      <Placemark>
+        <name>Hardy's Kuta</name>
+        <description><![CDATA[📍 Kuta<br>🗺️ Jl. Raya Kuta, Kuta<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1714,-8.7438,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Carrefour / Transmart</name>
+      <Placemark>
+        <name>Transmart Sunset Road</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jl. Sunset Road, Denpasar<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2019,-8.6775,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Bali Deli</name>
+      <Placemark>
+        <name>Bali Deli Seminyak</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jl. Laksmana (Oberoi), Seminyak<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1587,-8.6843,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
