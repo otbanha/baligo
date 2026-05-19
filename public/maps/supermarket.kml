@@ -82,13 +82,6 @@
           <coordinates>115.16288504907544,-8.683388691665234,0</coordinates>
         </Point>
       </Placemark>
-      <Placemark>
-        <name>Bali Deli</name>
-        <description><![CDATA[🗺️ Jl. Laksmana (Oberoi), Seminyak<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.1587,-8.6843,0</coordinates>
-        </Point>
-      </Placemark>
     </Folder>
 
     <Folder>
