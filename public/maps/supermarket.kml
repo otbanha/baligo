@@ -50,16 +50,16 @@
       <name>Grand Lucky</name>
       <Placemark>
         <name>Grand Lucky Kuta</name>
-        <description><![CDATA[📍 Kuta<br>🗺️ Jl. Sunset Road, Kuta<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Kuta<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.1762,-8.7082,0</coordinates>
+          <coordinates>115.18447720250279,-8.703742335416187,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Grand Lucky Sanur</name>
-        <description><![CDATA[📍 Sanur<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Grand Lucky Denpasar</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.26336183641405,-8.686061341065093,0</coordinates>
+          <coordinates>115.2184295590026,-8.654341698698882,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
