@@ -37,7 +37,7 @@ _srcHash: 888e33cda039cd9696cb8feabd0717fb
 
 可以放大/保存的坎古攻略地图
 
-## 巴图伯隆海滩 (Batu Bolong Beach) 冲浪（👉🏼地图：[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)）
+## 巴图伯隆海滩 (Batu Bolong Beach) 冲浪（👉🏼地图：[坎古必访景点](https://gobaligo.id/map/canggu/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_746c8e4349c70e6b5b774f1bfdbbe125.jpg)
 
@@ -51,13 +51,13 @@ _srcHash: 888e33cda039cd9696cb8feabd0717fb
 
 > [Surf Blue Waves 冲浪课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F137189-surfing-lesson-in-canggu-bali-by-surf-blue-waves%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd4402db3d3)
 
-## **在夕阳沙滩享受美馔（👉🏼地图：**[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+## **在夕阳沙滩享受美馔（👉🏼地图：**[坎古必访景点](https://gobaligo.id/map/canggu/)**）**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_81ffd3b9fb1d01235e888d9ea583959a.jpg)
 
 坎古的海滩区域提供了许多迷人的餐厅，特别是在夕阳时分。选择一家位于沙滩上的餐厅，享受美味的当地和国际美食，同时沐浴在夕阳的金黄光芒中。这种用餐体验绝对会为您的巴厘岛之旅增添浪漫色彩。
 
-## **沉浸在海滩俱乐部的乐趣中（👉🏼地图：**[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+## **沉浸在海滩俱乐部的乐趣中（👉🏼地图：**[坎古必访景点](https://gobaligo.id/map/canggu/)**）**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3a943928e41a400088025840e732cf37.jpg)
 
@@ -73,7 +73,7 @@ _srcHash: 888e33cda039cd9696cb8feabd0717fb
 
 > [La Brisa 官网](https://labrisa-bali.com/)
 
-## **夜晚的欢乐时光（👉🏼地图：**[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+## **夜晚的欢乐时光（👉🏼地图：**[坎古必访景点](https://gobaligo.id/map/canggu/)**）**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a177c09bc3d7bcaccf7bda112617a516.jpg)
 
@@ -81,7 +81,7 @@ _srcHash: 888e33cda039cd9696cb8feabd0717fb
 
 > [Atlas Superclub 入场券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F83936-w-atlas-superclub-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df3550d2c3d)
 
-## **坎古购物（👉🏼地图：**[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+## **坎古购物（👉🏼地图：**[坎古必访景点](https://gobaligo.id/map/canggu/)**）**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_eb4b84e671cf94d87ca3f2397d58e42c.jpg)
 
@@ -89,7 +89,7 @@ _srcHash: 888e33cda039cd9696cb8feabd0717fb
 
 位置图可以参考最下面的「坎古攻略地图」
 
-## **La Brisa的Sunday Market（👉🏼地图：**[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+## **La Brisa的Sunday Market（👉🏼地图：**[坎古必访景点](https://gobaligo.id/map/canggu/)**）**
 
 https://youtube.com/shorts/f0N6FE2dxys
 
@@ -97,7 +97,7 @@ La Brisa是坎古地区一家享有盛誉的海滩俱乐部，而他们的Sunday
 
 La Brisa的Sunday Market提供了一个独特的购物体验，让您在巴厘岛之旅中带回一些独特而美丽的回忆。
 
-## 萨玛迪假日市集 Samadi Sunday Market (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing))
+## 萨玛迪假日市集 Samadi Sunday Market (📌[地图](https://gobaligo.id/map/canggu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_89b4424ac71b1812936b12f6f58b9ec5.jpg)
 
@@ -151,7 +151,7 @@ Samadi Sunday Market是一个购买当地产品和支持当地企业的好地方
 
 > [坎古文化盛宴用餐券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90526-dining-experience-hotel-tugu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db101cc332d)
 
-## 参观海神庙**（👉🏼地图：**[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+## 参观海神庙**（👉🏼地图：**[坎古必访景点](https://gobaligo.id/map/canggu/)**）**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_27727cc971e3c80e5832f4bb4398567c.jpg)
 
@@ -165,7 +165,7 @@ Samadi Sunday Market是一个购买当地产品和支持当地企业的好地方
 
 > 海神庙[De Jukung Resto And Bar 美食体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7e69998076)
 
-## 沙滩上骑马**（👉🏼地图：**[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+## 沙滩上骑马**（👉🏼地图：**[坎古必访景点](https://gobaligo.id/map/canggu/)**）**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e13018219f8210353afd1681c4276881.png)
 
@@ -183,7 +183,7 @@ Samadi Sunday Market是一个购买当地产品和支持当地企业的好地方
 
 > [海滩ATV越野骑行体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1013908&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94062-atv-ride-experience-on-beach-bali-tabanan-bali-indonesia%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7d8ce84cbf)
 
-## **咖啡馆美食探险之旅（👉🏼地图：**[**坎古饮食/咖啡馆推荐Canggu** Cafe & Restaurants](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+## **咖啡馆美食探险之旅（👉🏼地图：**[**坎古饮食/咖啡馆推荐Canggu** Cafe & Restaurants](https://gobaligo.id/map/canggu/)**）**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fb14d08a33d5af623ce7a1edbcc7d450.jpg)
 
@@ -197,9 +197,9 @@ Canggu 攻略地图
 
 ![我們介紹了30多家Canggu的美食餐廳，請點我！](https://images.gobaligo.id/vocus/vocus_36a3c4791af3343f16222c849dcbed08.jpg)
 
-[我们介绍了30多家坎古的美食餐厅，请点我！](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)
+[我们介绍了30多家坎古的美食餐厅，请点我！](https://gobaligo.id/map/canggu/)
 
-## 优惠的美食盛宴**（👉🏼地图：**[**优惠的美食盛宴**](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)）
+## 优惠的美食盛宴**（👉🏼地图：**[**优惠的美食盛宴**](https://gobaligo.id/map/canggu/)）
 
 🌟Google评价4.3颗星海神庙[De Jukung Resto And Bar 美食体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7e69998076)
 
@@ -227,7 +227,7 @@ Canggu 攻略地图
 
 来到巴厘岛当然要尝试看看当地美食！而巴厘岛有哪些当地美食呢？请看看小杰介绍的「[巴厘岛十大当地美食](/blog/2023-08-15-64db6b7dfd897800013a97bc/)」，这将是一场美食的冒险之旅。
 
-## The Wheel 摩天轮**（👉🏼地图：**[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+## The Wheel 摩天轮**（👉🏼地图：**[坎古必访景点](https://gobaligo.id/map/canggu/)**）**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5cc13d1fa69600daaa8c19f4e6c13164.jpg)
 
@@ -257,7 +257,7 @@ Canggu 攻略地图
 
 > 坎古 [到府按摩服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
 
-## 亲子乐园 **（👉🏼地图：**[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+## 亲子乐园 **（👉🏼地图：**[坎古必访景点](https://gobaligo.id/map/canggu/)**）**
 
 ### 1.**Mookiland Park Bali**
 
@@ -303,7 +303,7 @@ Aurora Park不仅是夜间游览的景点，更是一个结合艺术、自然与
 
 Pacha Alpaca 提供多种套票选择，包括导览互动、羊驼摄影、野餐体验以及竹屋住宿，满足不同家庭的需求。无论是想要放松身心，还是让孩子们在大自然中尽情探索，这里都能为全家带来一场疗愈而欢乐的冒险。快来预订你的专属体验，与羊驼共度一段美好时光吧！详细介绍&官网预订链接请看[这里](/blog/2025-02-01-679e01b3fd89780001addbd9/)。
 
-## 2024新开幕的海滩/泳池俱乐部**（👉🏼地图：**[坎古必访景点](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+## 2024新开幕的海滩/泳池俱乐部**（👉🏼地图：**[坎古必访景点](https://gobaligo.id/map/canggu/)**）**
 
 ### 1.Sol Rooftop
 

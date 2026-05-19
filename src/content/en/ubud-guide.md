@@ -42,7 +42,7 @@ Click the 'Open Directory' button for quick navigation
 
 ## 【Popular Ubud Attractions】
 
-### Ubud Center: Ubud Palace, Ubud Market (👉🏼 Map: [Ubud Center](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Ubud Center: Ubud Palace, Ubud Market (👉🏼 Map: [Ubud Center](https://gobaligo.id/map/ubud/))
 
 Stepping into Ubud feels like embarking on a journey through time. The Ubud Palace resembles a treasure trove with a thousand years of history, its elegant Balinese architectural style showcasing the profound cultural heritage of the region. Within this ancient and mysterious palace, you'll experience the fusion of religion and royalty, while marveling at the splendor of various historical artifacts.
 
@@ -56,7 +56,7 @@ Map of central Ubud. Join Xiao Jie's video for a walking tour!
 
 Strolling through Ubud Market feels like entering a colorful dream world. The stalls are filled with dazzling handicrafts, textiles, and local delicacies that captivate the eye. This is not only a shopping paradise but also the best place to experience local folk customs.
 
-### Ubud Water Palace (👉🏼 Map: [Central Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Ubud Water Palace (👉🏼 Map: [Central Ubud](https://gobaligo.id/map/ubud/))
 
 The Ubud Water Palace (Pura Taman Saraswati) is located just a three-minute walk from Ubud Palace. Hidden behind a Starbucks, this corner is often overlooked by tourists but boasts breathtaking scenery. Compared to Ubud Palace, this temple is more serene and mysterious, offering an excellent photography spot where you can capture unique and exquisite moments.
 
@@ -79,7 +79,7 @@ Here’s a summary of ticket prices and photography options for international vi
 
 Ubud Water Palace itself is not very large, so the time spent purely visiting won't be too long. However, taking photos here really depends on lighting and crowd conditions. If you're coming specifically for photos, opting for a package that includes photography will save you hassle; if you're just passing through, simply purchasing an entrance ticket is sufficient.
 
-### Ubud Palace Kecak Fire Dance Show (👉🏼 Map: [Ubud Center](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Ubud Palace Kecak Fire Dance Show (👉🏼 Map: [Ubud Center](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_71b471a674052df7495db6869ab3fe8f.jpg)
 
@@ -89,7 +89,7 @@ For detailed information on the Ubud Palace Kecak Fire Dance performance times, 
 
 > [Book Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Deb69a61294)
 
-### Monkey Forest (👉🏼 Map: [Ubud Center](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Monkey Forest (👉🏼 Map: [Ubud Center](https://gobaligo.id/map/ubud/))
 
 Ubud Monkey Forest is a treasure where nature and culture intertwine. As you step into this lush green jungle, monkeys play around you, making you feel like a part of nature itself. You can interact with these clever little creatures and experience the wonder of coexisting with nature.
 
@@ -123,7 +123,7 @@ At Folk Pool & Garden, if you want to swim, a single sun lounger costs IDR 150,0
 
 The video of this place is [here](https://youtu.be/JtxZHtijEkE?si=BRDnMk_1u0E3eheX&t=686).
 
-### World Heritage Rice Terrace Landscape (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### World Heritage Rice Terrace Landscape (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b32736a5ef98517bd7b4ebd87af9506f.jpg)
 
@@ -139,7 +139,7 @@ The best time to capture the beauty of the rice terraces is at dawn, just as the
 
 > [Jatiluwih Rice Terraces Electric Bike Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F33428-jatiluwih-rice-terraces-electric-bike-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3124496931)
 
-### Alas Harum （👉🏼Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Alas Harum （👉🏼Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_bb9942f9c364faf4117fcfd96a564d01.jpg)
 
@@ -151,13 +151,13 @@ Alas Harum also boasts a rich cultural heritage. The area features numerous temp
 
 > [Choose Your Activity at Alas Harum](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22845-alas-harum-swing-tegalalang-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0129827325)
 
-### Ubud Skywalk （👉🏼Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Ubud Skywalk （👉🏼Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/)）
 
 We recommend the Campuhan Ridge Walk, known as the 'Ubud Skywalk,' which is easily accessible by foot from Ubud Palace. It is a hidden gem near Ubud's city center, offering tranquility and beautiful natural scenery. This trail, located along a ridge, provides a spectacular 360-degree panoramic view, away from the city's hustle and bustle.
 
 How to get to the Skywalk? How much time does it take? What is the best time to visit? Check out [Jay's detailed guide](/blog/2023-10-29-653dc7f3fd89780001f4f90a/) for more information.
 
-### Explore Three Waterfalls （👉🏼Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Explore Three Waterfalls （👉🏼Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/)）
 
 ![烏布附近三大瀑布探秘](https://images.gobaligo.id/vocus/vocus_e883e487b364bdf8a8aa37988f64462c.png)
 
@@ -173,7 +173,7 @@ Waterfalls are ideal for exploring nature's beauty and capturing Instagram-worth
 
 > [Penglipuran Village & Kanto Lampo Waterfall Day Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc4776ba80c)
 
-### Discover Hidden Holy Springs (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Discover Hidden Holy Springs (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![Dalem Pingit聖泉有著圖左的瀑布灌頂/Pura Gunung Kawi聖泉有壯觀的石壁雕刻](https://images.gobaligo.id/vocus/vocus_a66b07d43a02c4b60dec0d83a7177f83.jpg)
 
@@ -199,7 +199,7 @@ Each of these two holy water temples offers its own unique charm and cultural de
 
 > A less crowded holy spring [Ubud Spiritual Journey & Purification Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773108&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97096-spiritual-journey-purification-healing-ritual-ubud-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D04bd5eb44f)
 
-### Visit Penglipuran Village (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Visit Penglipuran Village (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_52e021ca1f655e109c3a05e03e3df486.jpg)
 
@@ -209,7 +209,7 @@ Stroll through the traditional Penglipuran Village, exploring its history and he
 
 > [Rice Terraces + Penglipuran Village + Coffee Plantation + Waterfall Day Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94994-ubud-penglipuran-village-bali-waterfall-private-muslim-friendly-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0423584cba)
 
-### Visit Taman Dedari (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Visit Taman Dedari (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_809bfed2477253b1d4a6dff5862b0b31.png)
 
@@ -221,7 +221,7 @@ There are numerous photo-worthy spots within the venue, so feel free to capture 
 
 > [Taman Dedari Tickets, Afternoon Tea, and Dining Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F93907-taman-dedari-ubud-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D18eb8d34de)
 
-### Close Encounters with Elephants (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Close Encounters with Elephants (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_471a6d202fac321f8d10bdd75ccfecba.jpg)
 
@@ -235,7 +235,7 @@ Mason Elephant Park offers an unforgettable animal adventure while promoting env
 
 > Mason Elephant Park [Discounted Tickets](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=17351)
 
-### Bali Safari Park: A Magical Wildlife Journey (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Bali Safari Park: A Magical Wildlife Journey (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2e404b6b5bbf85614fde2c6d98068eaa.jpg)
 
@@ -247,7 +247,7 @@ Bali Safari Park provides adventurous safari tours that take you through the ani
 
 > [Stay at the Zoo](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155)
 
-### Marine Safari Bali: Bali's Marine Wildlife Park (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Marine Safari Bali: Bali's Marine Wildlife Park (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7d2f30ebdf8c684b0a79022b574490b5.jpg)
 
@@ -263,7 +263,7 @@ For a detailed guide to the "Bali Marine Safari Park", [check out our introducti
 
 > The "[Wildlife and Marine 3-Day Pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=986936&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F142815-marine-safari-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D242e58b391)" allows unlimited access to both the "Bali Safari Park" for land animals and the "Bali Marine Safari Park" for marine life over three days, offering great value for money.
 
-### Serayu Pottery Studio (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Serayu Pottery Studio (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_92cd13cd6652629a34cb2c497e611615.jpg)
 
@@ -271,7 +271,7 @@ Serayu Pot is located in the heart of Ubud, serving as both a pottery studio and
 
 > [Pottery Making Class](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F81778-pottery-class-serayu-pottery-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3d74ec6f17)
 
-### Bali Bird Park (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Bali Bird Park (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_37e4c8975e85f934d0d43d1f8d8f3a69.png)
 
@@ -283,7 +283,7 @@ The most exciting part is the many opportunities to take photos with birds in th
 
 > [Bali Bird Park Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=797474&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D981bbcb9e2)
 
-### Bali's New Monkey Forest: Kemenuh Monkey River (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Bali's New Monkey Forest: Kemenuh Monkey River (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 Located just a 20-minute drive from Ubud, Kemenuh Monkey River immerses you in Bali's pristine natural beauty! The clear Petanu River winds through the forest, while man-made waterfalls add a refreshing ambiance to the environment.
 
@@ -295,7 +295,7 @@ Escape the crowds and experience the unique melukat water purification ritual, f
 
 Friendly tip: If you want to take photos with monkeys in Bali, this is a great choice as the monkeys here are more docile and won't attack people. In contrast, the monkeys in Ubud's Monkey Forest can be more aggressive and may snatch items.
 
-### Taman Beji Griya Waterfall (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Taman Beji Griya Waterfall (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e6e25f5e73d83736336089f22edff298.jpg)
 
@@ -307,7 +307,7 @@ Interested travelers can join the [Klook day tour](https://affiliate.klook.com/r
 
 > [Join the Taman Beji Griya Waterfall Holy Bathing Ritual](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1065918&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F145098-taman-beji-griya-waterfall-holy-bathing-ritual-in-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6bfce5cd9a)
 
-### The Firefly Garden (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### The Firefly Garden (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ✨ Bali's Firefly Garden Wins Ecotourism Award!
 
@@ -317,7 +317,7 @@ Enjoy the enchanting dance of fireflies under the romantic night sky 🌌, while
 
 > Day Tour: [Firefly Garden Tour with Ubud Highlights and Kintamani Coffee Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1110614&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F148460-fireflies-garden-with-ubud-highlight-kintamani-cafe-tour%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Ded9d6d5bff)
 
-### Hikaria Immersive Light Art Experience in Ubud (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Hikaria Immersive Light Art Experience in Ubud (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c6bc3ac263f6d6a9188ed3aa6b2c582d.jpg)
 
@@ -327,7 +327,7 @@ The park features several excellent photo spots, including enchanting light inst
 
 This unique nighttime experience is suitable for visitors of all ages, offering a memorable journey where light, culture, and nature intertwine in a magical forest setting, perfect for romantic dates or family outings.
 
-### Wisata Kayu Putih Bayan Sacred Tree Scenic Area (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Wisata Kayu Putih Bayan Sacred Tree Scenic Area (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2c3bc45f0626ebf69733b0745a47a021.jpg)
 
@@ -529,7 +529,7 @@ In the serene environment of Ubud, attending a yoga class is an excellent way to
 
 > [The Yoga Barn Yoga Experience & Food Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82611-yoga-barn-ubud-food-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbaa1160502)
 
-### Beji Guwang Hidden Canyon (👉🏼Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Beji Guwang Hidden Canyon (👉🏼Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9c726e647d3b2567bae6bafd56d02973.png)
 
@@ -537,7 +537,7 @@ Do you enjoy hiking, river trekking, and exploring mysteries? If so, Beji Guwang
 
 > Join the [Beji Guwang Hidden Canyon Trekking Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=821076&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24324-beji-guwang-hidden-canyon-trekking-experience-bali%2F%3Fspm%3DCity.ActivityList%3Aany%3A%3ACityActivitiesFilter%3ACard_LIST%26clickId%3D92390d6d3d)
 
-### Balerung Stage: The Hall of Traditional Balinese Music & Dance (👉🏼Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Balerung Stage: The Hall of Traditional Balinese Music & Dance (👉🏼Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_49ee87d707af9054711f3b8f69d816fb.jpg)
 
@@ -557,7 +557,7 @@ The Ubud Electric Bike Tour is led by knowledgeable guides who provide in-depth 
 
 > [Choose a date to join the Electric Bike Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F103447-fat-tire-e-bike-tour-in-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df60cceb2d4)
 
-### Moonstone Beach Lounge (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Moonstone Beach Lounge (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e79080df5037e203cea1b29016b3a72e.png)
 
@@ -593,7 +593,7 @@ Additionally, Klook offers some emerging sound healing services, allowing visito
 - [Serendipity Sounds Meditation](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1199540&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113155-sound-healing-and-meditation-at-serendipity-sounds-meditation-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcb611fcf25)
 - [Ubud Sound Yoga And Energy Healing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1199540&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F171223-ubud-sound-yoga-and-energy-healing-experience%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5dc5342d17)
 
-### Kintamani Mountain Playground The Grand Lagunas (👉🏼 Map: [Family-Friendly Playground & Restaurant](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Kintamani Mountain Playground The Grand Lagunas (👉🏼 Map: [Family-Friendly Playground & Restaurant](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9a9a882fda8e0d1a069384ba95922dc4.png)
 
@@ -609,7 +609,7 @@ Feel the rush as you slide down the colorful Rainbow Slide, enjoying the vibrant
 
 ➡️[Click here for more great deals in Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
-### Enjoy the Unique Beauty of Waterfalls at D'Tukad River Club (👉🏼 Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Enjoy the Unique Beauty of Waterfalls at D'Tukad River Club (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5d0bb25e202668ccbce347399768abd7.jpg)
 
@@ -625,7 +625,7 @@ https://youtube.com/shorts/WdPWlqgn_jY
 
 > [D'Tukad River Club Admission & Dining Package](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F120601-d-tukad-river-club-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc091fb055a)
 
-### Omma Dayclub （👉🏼Map: [Immersed in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Omma Dayclub （👉🏼Map: [Immersed in Scenic Beauty](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c23bae83b3bdfa50d92f9c68fff396c5.jpg)
 
@@ -639,7 +639,7 @@ Omma Dayclub provides a variety of packages, allowing you to enjoy delicious foo
 
 > [Omma Dayclub Introduction & Official Website](/blog/2023-11-27-65647143fd897800014b96f1/)
 
-### Wanna Jungle Pool & Bar （👉🏼Map: [Immersed in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Wanna Jungle Pool & Bar （👉🏼Map: [Immersed in Scenic Beauty](https://gobaligo.id/map/ubud/)）
 
 https://youtu.be/eJ0oL0O5OY8
 
@@ -647,7 +647,7 @@ Wanna Jungle Pool & Bar is a newly opened day club in Ubud, famous for its uniqu
 
 > [Wanna Jungle Pool & Bar Pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91999-wanna-jungle-pool-and-bar-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Da712e9efb5)
 
-### Cretya Ubud （👉🏼Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Cretya Ubud （👉🏼Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_78a4fa73c96848474643868d81d1d4c5.jpg)
 
@@ -659,7 +659,7 @@ Cretya Ubud is open daily from 8 AM to 9 PM. For more details, please refer to t
 
 > [Official Website for Seat Selection, Minimum Spend Required](https://alasharum.com/cretya-ubud/day-club/)
 
-### Bebek Bengil Enjoy the Delicious Dirty Duck Rice （👉🏼Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Bebek Bengil Enjoy the Delicious Dirty Duck Rice （👉🏼Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a11ec7ea410bd2d05da624d72bdfc547.jpg)
 
@@ -691,7 +691,7 @@ Immerse yourself in the pleasure of a Spa experience amidst Ubud's tropical rain
 > [Ayusha Wellness Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F131955-balinese-holistic-spa-at-ayusha-wellness-in-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9f74b94c07)
 > Rated 5 stars on Google! Relax and rejuvenate at this spa by the jungle river. Enjoy Ayusha's Balinese massage, hot stone therapy, or couples' massage.
 
-### Dining at Bebek Tebasari Pavilion （👉🏼Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Dining at Bebek Tebasari Pavilion （👉🏼Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/)）
 
 Come dine at Bali's famous pavilion! Bebek Tebasari is a standout restaurant in Ubud, renowned for its signature dish 'bebek betutu,' a traditional Balinese roasted duck. This restaurant offers a unique dining experience, set in a beautiful environment surrounded by rice fields and ponds.
 
@@ -699,7 +699,7 @@ At Bebek Tebasari, you can sit in the serene open-air area and admire the lush g
 
 > [Dining at Bebek Tebasari](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Daf35424019)
 
-### The Sayan House Dining Experience （👉🏼Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### The Sayan House Dining Experience （👉🏼Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a63e57cac7591a54734dbb073bffa5eb.jpg)
 
@@ -707,7 +707,7 @@ What is it like to overlook the entire Ayung River Valley, enjoy a jungle sunset
 
 > [Dining Deals at The Sayan House](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91296-the-sayan-house-dining-experience-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De62681fc52)
 
-### Five-Star Resort Dining Experience （👉🏼Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Five-Star Resort Dining Experience （👉🏼Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_44d2c49ec964161c78a680a604d97c75.jpg)
 
@@ -715,7 +715,7 @@ Enjoy a refined dining experience at the Ritz-Carlton Resort in Ubud! The restau
 
 > [Dining at Five-Star Scenic Restaurant](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90666-fine-dining-mandapa-a-ritz-carlton-reserve-ubud%2F%3Fspm%3DActivity.TranslateThisPagePopup%26clickId%3Dbce6538a2e%26translation%3D1)
 
-### Dining Amidst Tranquil Rice Fields at Bebek Tepi Sawah （👉🏼Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Dining Amidst Tranquil Rice Fields at Bebek Tepi Sawah （👉🏼Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_291b7dabefee7864dcac47b291c373b6.jpg)
 
@@ -727,7 +727,7 @@ Moreover, the interior decor of the restaurant showcases traditional Balinese st
 
 > [Dining at Bebek Tepi Sawah](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6380339e0f)
 
-### Boni Bali Restaurant Rice Terrace Views （👉🏼Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Boni Bali Restaurant Rice Terrace Views （👉🏼Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5046f26f284c95d89a998876cafa9852.jpg)
 
@@ -739,7 +739,7 @@ Boni Bali Restaurant is situated on the edge of the Tegallalang Rice Terraces an
 
 > [Dining at Boni Bali Restaurant](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90187-dining-experience-boni-bali-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D95e0a37ff0)
 
-### The Cafe Lotus Ubud（👉🏼Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### The Cafe Lotus Ubud（👉🏼Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7fd47ea0a9d53273ba30c43bd4cb8ebe.png)
 
@@ -747,7 +747,7 @@ Start your day with a unique floating breakfast experience by the lotus pond at 
 
 > [The Cafe Lotus Ubud Dining Voucher](https://affiliate.klook.com/redirect?aid=116349&aff_adid=845943&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113807-dining-experience-at-the-cafe-lotus-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0eddafd05b)
 
-### The Jungle Club Ubud（👉🏼Map: [Immerse in Scenic Views](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### The Jungle Club Ubud（👉🏼Map: [Immerse in Scenic Views](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ac20347e0b49990e7a03ca914ba83df0.jpg)
 
@@ -755,7 +755,7 @@ Rated 4.9 stars on Google. The Jungle Club Ubud is Bali's newest jungle paradise
 
 Klook offers dining credits higher than the face value, [click here](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917160&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F128374-the-jungle-club-ubud-in-ubud-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dfb0ad412af)
 
-### Kenran Resort（👉🏼Map: [Immerse in Scenic Views](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Kenran Resort（👉🏼Map: [Immerse in Scenic Views](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3aaa84b1e68535e2fe8c12eabf926e27.png)
 
@@ -763,7 +763,7 @@ Rated 4.3 stars on Google. At the Grand Kenran Resort in Ubud, Bali, you'll expe
 
 > [Klook Voucher](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935232&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F124212-grand-kenran-resort-dining-experience-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2a45b1be38)
 
-### Birdhill（👉🏼Map: [Immerse in Scenic Views](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Birdhill（👉🏼Map: [Immerse in Scenic Views](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_953a7fbf7ac0d4d69542877b6f3cf991.jpg)
 
@@ -771,7 +771,7 @@ Rated 4.9 stars on Google. Enjoy an extraordinary culinary experience at Birdhil
 
 > [Birdhill Restaurant Dining Voucher](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935268&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F111543-bird-hill-restaurant-dining-voucher-in-ubud%2F)
 
-### Wedja Bali (👉🏼 Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Wedja Bali (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_60dd495f98d0b373ca455ac4f974d9d7.jpg)
 
@@ -779,7 +779,7 @@ Rated 4.8 stars on Google. Wedja Restaurant is one of Ubud's most Instagram-wort
 
 > [Wedja Dining Voucher](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935268&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F126692-dining-voucher-at-wedja-restaurant-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f28f649ae)
 
-### Sans Indian Cuisine (👉🏼 Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Sans Indian Cuisine (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
 ![餐廳在頂樓，一覽田園風光](https://images.gobaligo.id/vocus/vocus_5aab484d62dc379010831b1a7d94175e.png)
 
@@ -789,7 +789,7 @@ Rated 4.7 stars on Google. Sans Indian Cuisine is an authentic Indian restaurant
 
 > [Klook 30% Off Voucher](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110132-sans-thai-ubud-dining-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfd4a775c60)
 
-### Botanist Restaurant Dining and Cooking Class Experience (👉🏼 Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Botanist Restaurant Dining and Cooking Class Experience (👉🏼 Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_abb2a14f327e01b756e00abc4a5a9ead.jpg)
 
@@ -797,7 +797,7 @@ Rated 4.5 stars on Google. Enjoy delicious meals at Botanist Restaurant Ubud, wh
 
 > [Klook Multiple Options](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113658-dining-and-cooking-class-experience-at-botanist-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D094d1831ad)
 
-### Terracotta Restaurant Ubud（👉🏼Map: [Immersed in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Terracotta Restaurant Ubud（👉🏼Map: [Immersed in Scenic Beauty](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5f14ff93899b6d0ec4ad45063b1834ee.jpg)
 
@@ -805,7 +805,7 @@ Rated 4.7 stars on Google. At Terracotta Restaurant, visitors can escape the hus
 
 > [Terracotta Restaurant Coupon](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113916-dining-and-cooking-class-experience-at-terracotta-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd8fbe3df73)
 
-### The Puhu Restaurant & Lounge @Padma Resort Ubud（👉🏼Map: [Immersed in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### The Puhu Restaurant & Lounge @Padma Resort Ubud（👉🏼Map: [Immersed in Scenic Beauty](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6292145b559cd7e3df3fa6b8d4c7e707.jpg)
 
@@ -813,7 +813,7 @@ Rated 4.8 stars on Google. Enjoy a variety of culinary experiences at Padma Reso
 
 > [Scenic Afternoon Tea, Floating Pool Afternoon Tea, Romantic Couple Dinner Options](https://affiliate.klook.com/redirect?aid=116349&aff_adid=935316&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F119144-dining-experience-at-padma-resort-ubud%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D4a0ce12ec0)
 
-### Cretya Sunset by Alas Harum（👉🏼Map: [Immersed in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Cretya Sunset by Alas Harum（👉🏼Map: [Immersed in Scenic Beauty](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ff6e8ddd6aa93c66985c70061af1de0b.jpg)
 
@@ -833,7 +833,7 @@ The majestic jungle landscape of Ubud and the tranquil ambiance of the lake crea
 
 > [Book Romantic Picnic by Boat](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1017900&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F134451-romantic-picnic-by-boat-in-dua-dari-ubud%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6c77c6026b)
 
-### Tuju Tropical Club & Dining (👉🏼Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Tuju Tropical Club & Dining (👉🏼Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_aa0ec09dc7b0ef531f313d8f5e414273.jpg)
 
@@ -845,7 +845,7 @@ Unlike the typical noisy nightclubs in Ubud, Tuju feels more like a place for qu
 
 > [Klook Discount Coupon](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1051341&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F138909-tuju-tropic-club-lounge-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D642cf000dc)
 
-### Sari Timbul By Kubu Bali/ST Glass Factory (👉🏼Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Sari Timbul By Kubu Bali/ST Glass Factory (👉🏼Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e238001fbe0cdbd3b6a7710469c1ab47.jpg)
 
@@ -855,7 +855,7 @@ This place is not just a food paradise but also an immersive natural art space. 
 
 > [Join a value-packed Ubud day tour that includes Sari Timbul](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1046276&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94299-instagrammable-glass-factory-taman-dedari-waterfall-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd57b760724)
 
-### Kamandalu Ubud Private Dining on a Boat (👉🏼Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Kamandalu Ubud Private Dining on a Boat (👉🏼Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3b322acf45856a93b3945c16a107c8ad.jpg)
 
@@ -865,7 +865,7 @@ A professional photography team will capture these precious moments, allowing yo
 
 > [Book with Klook for exclusive offers](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1061065&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F136296-dining-experience-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Debd9e9bd14)
 
-### D'Tukad Coffee Club: Ubud’s Rice Terrace Paradise (👉🏼Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### D'Tukad Coffee Club: Ubud’s Rice Terrace Paradise (👉🏼Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_030de012eed182d27698f8168b019df1.jpg)
 
@@ -875,7 +875,7 @@ If you love the magnificent rice terrace views but prefer a less crowded alterna
 
 > [Klook Package Deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068268&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F120659-d-tukad-coffee-club-in-ubud-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D8f47593caf%26dd_referrer%3Dhttps%3A%2F%2Fwww.klook.com%2Factivity%2F120659-d-tukad-coffee-club-in-ubud-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D1de2f6309a)
 
-### Titi Batu Ubud Club（👉🏼Map: [Immerse in Scenic Beauty](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Titi Batu Ubud Club（👉🏼Map: [Immerse in Scenic Beauty](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a2bf4eb4a96fb28e441b16ba81c0c21e.jpg)
 
@@ -891,7 +891,7 @@ Titi Batu Ubud Club is a lifestyle club that combines fitness, leisure, and fami
 
 Our guide map highlights over 20 must-try restaurants recommended by travelers.
 
-Ubud's culinary scene is truly vibrant, offering not only traditional Indonesian dishes but also a variety of international cuisines waiting to be explored. Our guide map highlights over 20 must-try restaurants recommended by travelers, ranging from cozy cafes to unique dining spots, each with its own charm. Whether you're craving authentic Balinese flavors or exotic dishes, Ubud has something to satisfy your palate. Check out [our Ubud guide map](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing) and embark on a culinary adventure!
+Ubud's culinary scene is truly vibrant, offering not only traditional Indonesian dishes but also a variety of international cuisines waiting to be explored. Our guide map highlights over 20 must-try restaurants recommended by travelers, ranging from cozy cafes to unique dining spots, each with its own charm. Whether you're craving authentic Balinese flavors or exotic dishes, Ubud has something to satisfy your palate. Check out [our Ubud guide map](https://gobaligo.id/map/ubud/) and embark on a culinary adventure!
 
 ### Savor Delicious and Affordable Local Cuisine
 
@@ -903,7 +903,7 @@ When in Bali, you must try the local food! So, what are some must-try local dish
 
 ## 【Around Ulun Danu Beratan Temple】
 
-### Bali's Ulun Danu Temple （👉🏼Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Bali's Ulun Danu Temple （👉🏼Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0bcbb190a64dc4d8d05b92348d7fda9c.jpg)
 
@@ -923,7 +923,7 @@ Interestingly, this Balinese water temple is also featured on Indonesian currenc
 
 The Kintamani region is renowned for its stunning views of Mount Batur and Lake Kintamani, making it one of Bali's most picturesque highlands. The cool climate and breathtaking scenery make Kintamani the perfect spot for enjoying coffee and relaxing. Below, we’ve curated 12 must-visit scenic cafes, each with its unique charm and signature dishes. Click [here](/blog/2024-11-27-67467629fd897800018d71d1/) to check them out!
 
-### Toya Devasya Hot Springs Water Park （👉🏼Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+### Toya Devasya Hot Springs Water Park （👉🏼Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_d938aab64c88210c3c4550474c7836f5.jpg)
 
@@ -939,7 +939,7 @@ Toya Devasya Hot Springs Water Park is an ideal destination for exploring north 
 
 > [Toya Devasya Hot Springs Ticket](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F24959-toya-devasya-hot-springs-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2ee32275de)
 
-### Pura Besakih Mother Temple (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Pura Besakih Mother Temple (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 Pura Besakih, known as the Mother Temple, is one of Bali's largest and most sacred Hindu temples, located on the slopes of Mount Agung. This temple is considered the spiritual center of Bali and is revered as the 'Mother Temple.' It features multiple shrines and altars dedicated to various deities.
 
@@ -955,7 +955,7 @@ In 1963, Mount Agung erupted, killing 1,700 people, but the lava flowed just met
 
 In eastern Bali, there are three nearby attractions that are perfect for capturing ethereal photos!
 
-### Pura Lempuyang Gates of Heaven (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Pura Lempuyang Gates of Heaven (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 https://youtu.be/H-IocbLNpE4
 
@@ -965,7 +965,7 @@ However, due to its fame and beauty, this site attracts a large number of visito
 
 > [Optional Chinese-speaking driver and guide for a one-day tour of three eastern attractions](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20722-instagram-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1e4f7bc5b) (includes hotel pickup)
 
-### Tirta Gangga Water Palace (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Tirta Gangga Water Palace (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 https://youtu.be/ysUVgnICbg0
 
@@ -975,7 +975,7 @@ This is an excellent spot for photography enthusiasts. You can scatter some fish
 
 > [Optional Chinese-speaking driver and guide for a one-day tour of three eastern attractions](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20722-instagram-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1e4f7bc5b) (includes hotel pickup)
 
-### Ujung Water Palace (👉🏼 Map: [Popular Attractions Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Ujung Water Palace (👉🏼 Map: [Popular Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 
 https://youtu.be/zePMt3KSwTo
 
@@ -983,7 +983,7 @@ Ujung Water Palace, located in eastern Bali, is an ancient water palace built on
 
 > [Optional East Bali Three-Spot Day Tour with Chinese-Speaking Driver-Guide](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20722-instagram-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df1e4f7bc5b) (includes hotel pickup and drop-off)
 
-### Lahangan Sweet (👉🏼 Map: [Popular Spots Around Ubud](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### Lahangan Sweet (👉🏼 Map: [Popular Spots Around Ubud](https://gobaligo.id/map/ubud/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_74598b56d57a7612b9194f61252b5a43.jpg)
 
@@ -1005,7 +1005,7 @@ Many Ubud hotels feature tranquil gardens and lush courtyards where you can stro
 
 Whether it's listening to the natural symphony of insects and birds or immersing yourself in the serene atmosphere surrounded by lush greenery, Ubud hotels offer a comfortable environment that brings you closer to nature, allowing you to experience the beauty and tranquility of the great outdoors.
 
-### 14 Hotels/Resorts Recommendations, check out the hotel list below: (👉🏼 Map: [Recommended Hotel Locations](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+### 14 Hotels/Resorts Recommendations, check out the hotel list below: (👉🏼 Map: [Recommended Hotel Locations](https://gobaligo.id/map/ubud/))
 
 > [Anumana Ubud Bali by Monkey Forest](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F422740-anumana-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da027f2ac7d)
 
@@ -1078,10 +1078,10 @@ The newly opened luxury camping site Toya Ubud in 2025 starts from USD$19 per ni
 {{block:klook}}
 
 
-## Complete 'Ubud Guide Map' with 100+ Attractions/Activities ([Click to Enlarge/Save](https://www.google.com/maps/d/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
+## Complete 'Ubud Guide Map' with 100+ Attractions/Activities ([Click to Enlarge/Save](https://gobaligo.id/map/ubud/))
 
 Geographical map of all locations mentioned in this article, helping you plan your exciting Ubud trip according to your travel needs and route!
 
 ![烏布之旅必收藏](https://images.gobaligo.id/vocus/vocus_033bd3a274b4045be9097e36141988e0.png)
 
-[Must-Save for Your Ubud Trip](https://www.google.com/maps/d/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
+[Must-Save for Your Ubud Trip](https://gobaligo.id/map/ubud/)

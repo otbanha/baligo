@@ -302,7 +302,7 @@ IHG旗下Regent品牌选在Batu Bolong海岸开业，这是Regent进入印尼的
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_41b9eed23368f2692e63ad665923dd6e.png)
 
-请参考「[坎古攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)」
+请参考「[坎古攻略地图](https://gobaligo.id/map/canggu-hotel/)」
 
 ## 你一定也想看：
 

@@ -76,7 +76,7 @@ In the evening, you can experience the **Jukung sunset cruise**. Unlike the cris
 
 If you're interested in fishing village culture, you can also opt for the **sea fishing experience**. Many local fishermen will take visitors out to fish, allowing you to experience their daily rhythm firsthand. After catching fish, you can have them cooked at a local restaurant, enjoying a truly fresh "catch-to-table" seafood dinner.
 
-### Sunset Point (📍[Map Location](https://www.google.com/maps/d/u/0/edit?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&usp=sharing))
+### Sunset Point (📍[Map Location](https://gobaligo.id/map/amed/))
 
 ![由於地形的關係，很神奇的是Sunset Point這個角度面向西邊](https://images.gobaligo.id/vocus/vocus_5b312da0651b1112f4c52963c74fa9ee.jpg)
 
@@ -98,7 +98,7 @@ If you come to Amed, don't forget to save an evening for Sunset Point. The sunse
 
 Amed and Tulamben are traditional fishing villages, so fresh seafood naturally takes center stage on the dining tables here.
 
-### 9 famous restaurants in this area (📍[Map location](https://www.google.com/maps/d/u/0/edit?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&usp=sharing))
+### 9 famous restaurants in this area (📍[Map location](https://gobaligo.id/map/amed/))
 
 **1. Warung Agung Amed**
 
@@ -168,7 +168,7 @@ https://youtu.be/PgGyeZIXHwc?si=HdhPdTL9fs_kHUv7
 
 ***
 
-## Recommended Accommodation Areas (📍[Map Location](https://www.google.com/maps/d/u/0/edit?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&usp=sharing))
+## Recommended Accommodation Areas (📍[Map Location](https://gobaligo.id/map/amed/))
 
 Although accommodation options in Amed and Tulamben aren't as abundant as in southern Bali, most resorts and guesthouses here are close to nature and full of local charm. If your main activities include snorkeling and relaxation, it's recommended to stay near **Jemeluk Bay** or **Lipah Beach**. These areas offer excellent snorkeling environments, with coral reefs right off the coast, allowing you to dive directly from your accommodation without hassle.
 
@@ -254,7 +254,7 @@ Since Amed and Tulamben are relatively remote, the infrastructure is not as deve
 
 ## Travel Guide Map
 
-We’ve compiled all the mentioned locations in the "Amed/Tulamben Guide Map". [Click here](https://www.google.com/maps/d/u/0/edit?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&usp=sharing) to zoom in/save.
+We’ve compiled all the mentioned locations in the "Amed/Tulamben Guide Map". [Click here](https://gobaligo.id/map/amed/) to zoom in/save.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9422f8946b1dbb2f0592bc5416a32b91.png)
 

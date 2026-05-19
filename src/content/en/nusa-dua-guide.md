@@ -48,7 +48,7 @@ The five-star hotel restaurants here are renowned for their exquisite menus and 
 
 Although most restaurants are located within five-star resorts, don't worry—even if you're not staying at these luxurious resorts, you can still savor Nusa Dua's culinary gems. With the discounts and experience vouchers we provide, you can easily enjoy the unique feasts at these high-end restaurants without worrying too much about your budget.
 
-### Piasan Restaurant （📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
+### Piasan Restaurant （📌 [Location Map](https://gobaligo.id/map/nusa-dua/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ac29b7de42d95e43872828ca86401ec7.jpg)
 
@@ -58,7 +58,7 @@ Tucked away in Kayu Manis Nusa Dua, Piasan Restaurant is a five-star Italian res
 
 > [Kayu Manis Villa Accommodation](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6481286)
 
-### Mulia Resort Dining Experience （📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing)）
+### Mulia Resort Dining Experience （📌 [Location Map](https://gobaligo.id/map/nusa-dua/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_546854596e721986c3454a1e8f8d769b.png)
 
@@ -68,7 +68,7 @@ Mulia Resort in Nusa Dua, Bali, is a renowned luxury hotel group in Indonesia, f
 
 > [Mulia Resort, Bali Accommodation](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982)
 
-### The Ritz-Carlton Hotel Culinary Experience (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### The Ritz-Carlton Hotel Culinary Experience (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a6b96e1124e2c1fb137ad50235c56c0c.jpg)
 
@@ -80,7 +80,7 @@ The Ritz-Carlton in Nusa Dua provides three unforgettable dining experiences. Fi
 
 > [The Ritz-Carlton, Bali Accommodation](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=782765)
 
-### Samabe Beach Cave Dining Experience (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Samabe Beach Cave Dining Experience (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dfb9f299710048cf4319fec2e021b751.jpg)
 
@@ -92,7 +92,7 @@ Samabe Cave Dining is a unique dining venue within Samabe Bali Suites & Villas, 
 
 > [Samabe Bali Suites & Villas Accommodation](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=462022)
 
-### Dining Experience at Koral Underwater Restaurant, The Apurva Kempinski (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Dining Experience at Koral Underwater Restaurant, The Apurva Kempinski (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9fc04b75fe12f30118b914321d81bf86.jpg)
 
@@ -130,7 +130,7 @@ Whether you're spending a romantic moment with your loved one or enjoying a joyf
 
 > [Canna Beach Club Day Pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87003-canna-beach-club-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9555fa5ed3)
 
-### Bumbu Bali (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Bumbu Bali (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 https://youtu.be/_BB2mrH-BUU
 
@@ -140,7 +140,7 @@ Next, we introduce some great dining spots that aren't located in five-star reso
 
 The restaurant offers authentic Balinese cuisine, expertly using various spices and herbs to flavor their dishes. The menu is extensive, ranging from their signature slow-roasted suckling pig to seafood dishes. The highlight is their nightly Balinese gamelan dance performance, ▲see the video above▲. Dining here allows you to immerse yourself in the true essence of Bali!
 
-### Ketut's BBQ Kitchen (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Ketut's BBQ Kitchen (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 https://youtu.be/5J4yTeo8lXg
 
@@ -150,7 +150,7 @@ Ketut's BBQ Kitchen's menu features a variety of classic Balinese barbecue dishe
 
 Ketut's BBQ Kitchen is an excellent place to experience Balinese cuisine. The restaurant's delicious dishes and top-notch service will leave you with unforgettable memories.
 
-### Mr. Bob Bar & Grill (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Mr. Bob Bar & Grill (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 https://youtu.be/-_ZciznHi-4
 
@@ -160,7 +160,7 @@ Mr. Bob Bar & Grill's pork ribs have received rave reviews on Tripadvisor, being
 
 If you have the chance to visit the Nusa Dua and Tanjung Benoa area, be sure to try the signature pork ribs at Mr. Bob Bar & Grill. You won't be disappointed.
 
-### Best Value Budget Restaurant in Bali: Atlichnaya (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Best Value Budget Restaurant in Bali: Atlichnaya (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 https://youtu.be/GHadByjhafo
 
@@ -170,7 +170,7 @@ Atlichnaya's menu features a variety of Balinese and international dishes, such 
 
 Atlichnaya's decor is simple and bright, creating a relaxed and pleasant dining atmosphere. The restaurant's service is also very attentive, ensuring a comfortable dining experience.
 
-### Manarai Beach House (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Manarai Beach House (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 https://youtu.be/BUl5vPzVHGw
 
@@ -180,7 +180,7 @@ Manarai Beach House features modern decor, creating a comfortable and elegant di
 
 Manarai Beach House is a great place to enjoy delicious food, beautiful scenery, and leisure time. The club caters to all kinds of people, including families, couples, and friends.
 
-### Bebek Bengil Dirty Duck Rice (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Bebek Bengil Dirty Duck Rice (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_03227d5ca04a23150a86bda0c7abaac6.jpg)
 
@@ -192,7 +192,7 @@ As one of Bali's most famous roast duck restaurants, Bebek Bengil is definitely 
 
 > [Dirty Duck Rice Dining Experience Voucher](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91304-bebek-bengil-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D84b1537207)
 
-### The Royal Kitchen Bali (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### The Royal Kitchen Bali (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 ![太好吃了，劉社長和嬌妻連吃了兩天](https://images.gobaligo.id/vocus/vocus_1787d383aa0ad80f287094ae48ef57ec.jpg)
 
@@ -222,7 +222,7 @@ A Taiwanese-run affordable seafood restaurant, offering fresh and authentic dish
 
 ## Shopping in Nusa Dua/South Bay
 
-### Bali Collection (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Bali Collection (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 https://youtu.be/3AqPucmnSLE
 
@@ -245,7 +245,7 @@ The beach resorts in Nusa Dua/Tanjung Benoa are perfect for travelers who prefer
 
 Compared to Tanjung Benoa, water activities in Nusa Dua are relatively limited due to most five-star resorts having private beaches, turning the entire coastline into an exclusive resort destination. This unique layout means traditional water sports operators are not easily found on most beaches. Fortunately, in the Nusa Dua Beach area, you can still find some operators offering thrilling water activities. The water sports operators in Nusa Dua are concentrated on this small stretch of beach, providing a one-stop service for visitors seeking aquatic adventures.
 
-### Nusa Dua Beach (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Nusa Dua Beach (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_acb04fe54ab144df2f9cfbfb9b7b0522.png)
 
@@ -253,7 +253,7 @@ At Nusa Dua Beach, you can enjoy a variety of thrilling water activities. Start 
 
 > [Book Nusa Dua Water Activities](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16169-nusa-dua-water-sport-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f428dbc40)
 
-### Tanjung Benoa (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Tanjung Benoa (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_82d973b544b91c9f5f74aa5bdcf0d73f.png)
 
@@ -277,7 +277,7 @@ Although the waves can sometimes be strong and visibility underwater may vary, t
 
 > [Book Nusa Dua Snorkeling](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1083509&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53090-snorkeling-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8c694d5dca)
 
-### Golf (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Golf (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ce8e073add04f7914d81b28a1da9d1c5.jpg)
 
@@ -287,7 +287,7 @@ The Bali National Golf Club Nusa Dua combines the elegant ambiance of a luxury r
 
 > [Play 18 Holes at Bali National Golf Club Nusa Dua](https://www.klook.com/activity/83440-bali-golf-handara-new-kuta-golf-bali-national-golf-club/?spm=Activity.TopNavigation.SelectLanguage&clickId=6a3d991fe8)
 
-### Dapur Bali Cooking Class (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Dapur Bali Cooking Class (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_637aebfbb06d66216cc833cda4f50395.png)
 
@@ -295,7 +295,7 @@ Located within the Kayumanis Nusa Dua Private Villa, the Dapur Bali Cooking Clas
 
 > [Dapur Bali Cooking Class](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F99505-dapur-bali-cooking-class-experience-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De540a8b5fb)
 
-### Canna Beach Club (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Canna Beach Club (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e061b557bfab6d27160a4fb99829ea61.jpg)
 
@@ -340,7 +340,7 @@ This series of exciting water activities brings you closer to nature in the most
 
 Join the [Half-Day Turtle Island, Glass-Bottom Boat, and Mangrove Cruise](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1228132&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F59606-turtle-island-glass-bottom-boat-mangrove-cruise-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D922086c944)
 
-### Indulge in a Spa (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+### Indulge in a Spa (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_638b053ba68a83d4518818b74c044ecb.png)
 
@@ -374,7 +374,7 @@ This area boasts luxurious spas within five-star resorts as well as some highly 
 
 To avoid disrupting your travel plans due to not having booked spa services in advance, make sure to arrange appointments early for these renowned spas. This ensures you can enjoy the healing services you need within your planned schedule!
 
-## Hotel/Resort Recommendations (📌 [Location Map](https://www.google.com/maps/d/u/0/edit?mid=1J7gQWKO_Xc6R04wSQZjxBDapEoTrSa0&usp=sharing))
+## Hotel/Resort Recommendations (📌 [Location Map](https://gobaligo.id/map/nusa-dua/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2e988c7792e47e20ef753233cdd7f5e4.jpg)
 

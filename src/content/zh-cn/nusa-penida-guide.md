@@ -40,7 +40,7 @@ _srcHash: e468ca2fd602a4d8175ca991aed17335
 
 佩尼达岛攻略地图
 
-[点我](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing)放大收藏
+[点我](https://gobaligo.id/map/nusa-penida/)放大收藏
 
 ▼Nusa Penida必游景点 T Rex暴龙头 Kelingking beach
 
@@ -185,7 +185,7 @@ _srcHash: e468ca2fd602a4d8175ca991aed17335
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_eb79c635d635478033f16ade1e50b0ed.png)
 
-[点我](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing)放大收藏
+[点我](https://gobaligo.id/map/nusa-penida/)放大收藏
 
 ### 我们还介绍了九家拥有无边泳池、金黄沙滩、夕阳美景的努沙佩尼达美食餐厅
 

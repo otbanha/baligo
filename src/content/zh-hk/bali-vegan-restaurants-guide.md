@@ -78,7 +78,7 @@ Canggu素食友善餐廳 Grazing on the Green
 
 ## 素食網友額外提供
 
-我哋嘅社團成員 [**陳芊伊**](https://www.facebook.com/share/p/1Cz4zdWHqF/) 亦分享咗佢親身試過嘅素食餐廳清單，分別位於烏布同坎古兩個地區，總共有六間唔同風格嘅小店。佢嘅推薦令到篇文章更加完整，亦提供咗讀者更多元嘅選擇。詳細介紹請睇[呢度](https://www.google.com/maps/d/u/0/edit?mid=1ug1RGef4u9r08yJTg-H8cZzYMIKs-w0&usp=sharing)。
+我哋嘅社團成員 [**陳芊伊**](https://www.facebook.com/share/p/1Cz4zdWHqF/) 亦分享咗佢親身試過嘅素食餐廳清單，分別位於烏布同坎古兩個地區，總共有六間唔同風格嘅小店。佢嘅推薦令到篇文章更加完整，亦提供咗讀者更多元嘅選擇。詳細介紹請睇[呢度](https://gobaligo.id/map/vegetarian/)。
 
 ## **位置&地圖：峇里島素食友善餐廳嘅無限魅力**
 
@@ -86,8 +86,8 @@ Canggu素食友善餐廳 Grazing on the Green
 
 ![峇里島Top 26 素食友善餐廳](https://images.gobaligo.id/vocus/vocus_a5d5b1f2d35fd1fdb7bd8882f8b50f94.png)
 
-[峇里島Top 26 素食友善餐廳](https://www.google.com/maps/d/u/0/edit?mid=1ug1RGef4u9r08yJTg-H8cZzYMIKs-w0&usp=sharing)
+[峇里島Top 26 素食友善餐廳](https://gobaligo.id/map/vegetarian/)
 
-呢26間餐廳嘅位置同詳細介紹請[點擊地圖連結](https://www.google.com/maps/d/u/0/edit?mid=1ug1RGef4u9r08yJTg-H8cZzYMIKs-w0&usp=sharing)，等我哋一齊探索峇里島素食友善餐廳嘅無限魅力！
+呢26間餐廳嘅位置同詳細介紹請[點擊地圖連結](https://gobaligo.id/map/vegetarian/)，等我哋一齊探索峇里島素食友善餐廳嘅無限魅力！
 
 {{block:klook}}

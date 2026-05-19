@@ -467,7 +467,7 @@ A Japanese restaurant serving sushi, ramen and other Japanese staples in a clean
 
 # 🗺️ Google Maps
 
-See the locations marked [here](https://www.google.com/maps/d/u/0/edit?mid=1-vHujmBvEtF5Tvu4BPIp1NdX4bSbkq8&usp=sharing)
+See the locations marked [here](https://gobaligo.id/map/seminyak-eat-street/)
 
 # 📍 Practical Tips
 

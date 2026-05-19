@@ -71,7 +71,7 @@ https://youtube.com/shorts/0f-eAQ78no4
 
 若果你對漁村文化有興趣，亦可以選擇 **海上垂釣體驗**。唔少當地漁夫會帶遊客一齊出海釣魚，親自體驗佢哋日常嘅生活節奏。捕到魚後仲可以由當地餐廳代為料理，食一餐真正「現釣現煮」嘅海味晚餐。
 
-### Sunset Point（📍[地圖位置](https://www.google.com/maps/d/u/0/edit?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&usp=sharing)）
+### Sunset Point（📍[地圖位置](https://gobaligo.id/map/amed/)）
 
 ![由於地形的關係，很神奇的是Sunset Point這個角度面向西邊](https://images.gobaligo.id/vocus/vocus_5b312da0651b1112f4c52963c74fa9ee.jpg)
 
@@ -93,7 +93,7 @@ https://youtube.com/shorts/0f-eAQ78no4
 
 艾眉同土蘭奔原本就係傳統嘅漁村，所以新鮮海產自然係呢度嘅餐桌主角。
 
-### 呢一帶有名嘅9間餐廳（📍[地圖位置](https://www.google.com/maps/d/u/0/edit?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&usp=sharing)）
+### 呢一帶有名嘅9間餐廳（📍[地圖位置](https://gobaligo.id/map/amed/)）
 
 **1. Warung Agung Amed**
 
@@ -163,7 +163,7 @@ https://youtu.be/PgGyeZIXHwc?si=HdhPdTL9fs_kHUv7
 
 ***
 
-## 推薦住宿區域（📍[地圖位置](https://www.google.com/maps/d/u/0/edit?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&usp=sharing)）
+## 推薦住宿區域（📍[地圖位置](https://gobaligo.id/map/amed/)）
 
 雖然艾眉同土蘭奔嘅住宿選擇唔及峇里島南部咁豐富，但呢度嘅度假村同民宿大多貼近自然、充滿當地風情。若果你嘅主要行程包括浮潛同放鬆，建議選擇住喺 **Jemeluk Bay** 或者 **Lipah Beach** 附近。呢兩個區域擁有極佳嘅浮潛環境，珊瑚礁就緊鄰海岸，唔需要舟車勞頓，從住宿出門就能直接落水，慳時又方便。
 
@@ -249,7 +249,7 @@ https://youtube.com/shorts/XS1j72uEtTY
 
 ## 攻略地圖
 
-我哋將以上提到嘅地點都整理喺「艾眉/土蘭奔攻略地圖」，[點我](https://www.google.com/maps/d/u/0/edit?mid=1IrHQ5679D68HUAXlXWyqhgnvITAONfE&usp=sharing)放大/收藏
+我哋將以上提到嘅地點都整理喺「艾眉/土蘭奔攻略地圖」，[點我](https://gobaligo.id/map/amed/)放大/收藏
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9422f8946b1dbb2f0592bc5416a32b91.png)
 

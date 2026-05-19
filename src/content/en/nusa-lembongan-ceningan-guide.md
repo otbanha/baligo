@@ -81,7 +81,7 @@ Dream Beach
 
 Cliff Diving
 
-For the locations of these beaches and attractions, please refer to the [Nusa Lembongan Guide Map](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing).
+For the locations of these beaches and attractions, please refer to the [Nusa Lembongan Guide Map](https://gobaligo.id/map/lembongan/).
 
 ## Mangrove Tour
 
@@ -117,7 +117,7 @@ If you can't resist the allure of surfing, there are three popular surf spots ne
 
 https://youtube.com/shorts/tHgwLtJvntQ?si=5eJZRpDp47JljbW6
 
-Nusa Ceningan is connected to Nusa Lembongan by the famous Yellow Bridge, and it boasts some stunning attractions. You can enjoy the bright turquoise waters at Blue Lagoon, Secret Beach, and Mahana Point. Some of these spots offer cliff jumping challenges. The diving point at Mahana Cliff is about 15 meters high, so it's best to check the tides before jumping to avoid injury during low tide. Check out the [Nusa Lembongan Guide Map](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing).
+Nusa Ceningan is connected to Nusa Lembongan by the famous Yellow Bridge, and it boasts some stunning attractions. You can enjoy the bright turquoise waters at Blue Lagoon, Secret Beach, and Mahana Point. Some of these spots offer cliff jumping challenges. The diving point at Mahana Cliff is about 15 meters high, so it's best to check the tides before jumping to avoid injury during low tide. Check out the [Nusa Lembongan Guide Map](https://gobaligo.id/map/lembongan/).
 
 ![Blue Lagoon](https://images.gobaligo.id/vocus/vocus_deb37419f80d212cbf7416fdff7a850b.png)
 
@@ -201,7 +201,7 @@ In the future, Nusa Lembongan will become Bali's most digitally connected touris
 
 A guide map of Nusa Lembongan with all attractions marked
 
-If you're planning to explore Nusa Lembongan and Nusa Ceningan for adventure or relaxation, don't forget to save our [Nusa Lembongan Guide Map](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing) to your phone!
+If you're planning to explore Nusa Lembongan and Nusa Ceningan for adventure or relaxation, don't forget to save our [Nusa Lembongan Guide Map](https://gobaligo.id/map/lembongan/) to your phone!
 
 ## Nusa Lembongan Frequently Asked Questions (FAQ)
 

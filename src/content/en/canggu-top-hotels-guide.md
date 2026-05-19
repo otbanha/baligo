@@ -306,7 +306,7 @@ Best for: honeymooners, travelers seeking luxury in Canggu, and surfers who don'
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_41b9eed23368f2692e63ad665923dd6e.png)
 
-Please refer to the "[Canggu Guide Map](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)"
+Please refer to the "[Canggu Guide Map](https://gobaligo.id/map/canggu-hotel/)"
 
 ## You might also like to see:
 
