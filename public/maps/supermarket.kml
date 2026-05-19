@@ -76,6 +76,13 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Papaya Fresh Gallery</name>
+        <description><![CDATA[🇯🇵 日系精品超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.18291457976223,-8.709431184845117,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Coco Supermarket Seminyak</name>
         <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
@@ -98,6 +105,13 @@
         <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.25760494345442,-8.6745554609725,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Papaya Fresh Gallery Denpasar</name>
+        <description><![CDATA[🇯🇵 日系精品超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.24400722209015,-8.672882761576252,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
