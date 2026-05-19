@@ -81,12 +81,12 @@
       </Placemark>
     </Folder>
     <Folder>
-      <name>Carrefour / Transmart</name>
+      <name>Transmart（原家樂福）</name>
       <Placemark>
-        <name>Transmart Sunset Road</name>
-        <description><![CDATA[📍 Denpasar<br>🗺️ Jl. Sunset Road, Denpasar<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Transmart（原家樂福）</name>
+        <description><![CDATA[📍 Kuta<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.2019,-8.6775,0</coordinates>
+          <coordinates>115.18278469285443,-8.701047434826123,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
