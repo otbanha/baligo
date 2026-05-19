@@ -104,6 +104,9 @@
         </Point>
       </Placemark>
     </Folder>
+
+    <Folder>
+      <name>登巴薩 / 沙努爾</name>
       <Placemark>
         <name>Grand Lucky Denpasar</name>
         <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
