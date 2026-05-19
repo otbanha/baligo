@@ -70,7 +70,17 @@
         </Point>
       </Placemark>
     </Folder>
-<Folder>
+    <Folder>
+      <name>Arta Sedana</name>
+      <Placemark>
+        <name>Arta Sedana Sanur</name>
+        <description><![CDATA[📍 Sanur<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.26271713339285,-8.68892481444385,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
       <name>Carrefour / Transmart</name>
       <Placemark>
         <name>Transmart Sunset Road</name>
