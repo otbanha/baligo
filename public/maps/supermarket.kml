@@ -29,17 +29,7 @@
         </Point>
       </Placemark>
     </Folder>
-    <Folder>
-      <name>Bintang Supermarket</name>
-      <Placemark>
-        <name>Bintang Supermarket Seminyak</name>
-        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jl. Raya Seminyak, Seminyak<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.1603,-8.6941,0</coordinates>
-        </Point>
-      </Placemark>
-    </Folder>
-    <Folder>
+<Folder>
       <name>Grand Lucky</name>
       <Placemark>
         <name>Grand Lucky Kuta</name>
