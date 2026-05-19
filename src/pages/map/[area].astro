@@ -121,7 +121,7 @@ const relatedMapData = (area.relatedMaps ?? [])
 
 <html lang="zh-TW">
 <head>
-  <BaseHead title={title} description={description} image={area.ogImage} />
+  <BaseHead title={title} description={description} image={area.ogImage ?? "https://images.gobaligo.id/images/2026-05/1779207579768-main-og.jpg"} />
   <meta name="robots" content="index, follow" />
   <script type="application/ld+json" set:html={JSON.stringify(schema)} />
   <style>
