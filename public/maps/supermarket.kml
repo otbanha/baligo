@@ -7,7 +7,7 @@
     <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 中大型超市，不含便利商店</description>
 
     <Folder>
-      <name>長谷 / 坎古</name>
+      <name>長谷</name>
       <Placemark>
         <name>Pepito Canggu</name>
         <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
@@ -83,6 +83,13 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Primo Supermarket Kuta Icon</name>
+        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.16661462209012,-8.735182401298152,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>Coco Supermarket Seminyak</name>
         <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
@@ -109,6 +116,13 @@
         <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.25760494345442,-8.6745554609725,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Primo Supermarket Level 21 Mall</name>
+        <description><![CDATA[🏬 位於 Level 21 Mall<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.21382050674589,-8.669587859483306,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
