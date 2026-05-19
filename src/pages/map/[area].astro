@@ -213,6 +213,27 @@ const relatedMapData = (area.relatedMaps ?? [])
     }
     [data-dark] #itin-topbar-btn { background: #1a5c3a; }
 
+    .guide-topbar-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 4px;
+      background: #fff8ee;
+      color: #b36a00;
+      border: 1px solid #f0c050;
+      border-radius: 20px;
+      padding: 5px 10px;
+      font-size: 12px;
+      font-weight: 700;
+      text-decoration: none;
+      flex-shrink: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+    [data-dark] .guide-topbar-btn {
+      background: #2a1f00;
+      color: #f0c050;
+      border-color: #5a4000;
+    }
+
     /* Dark mode topbar */
     [data-dark] .map-wrapper {
       background: #121212;
@@ -388,6 +409,11 @@ const relatedMapData = (area.relatedMaps ?? [])
         <div class="topbar-title">{area.name} {area.isThematic ? '' : '攻略地圖'}</div>
         <div class="topbar-desc">{area.description}</div>
       </div>
+      {mapBlogEntry?.blogUrl && (
+        <a href={mapBlogEntry.blogUrl} class="guide-topbar-btn" aria-label="閱讀旅遊攻略">
+          📖 攻略
+        </a>
+      )}
       <a href="/map/itinerary/" id="itin-topbar-btn" aria-label="行程規劃">
         📋 <span id="itin-topbar-count">0</span>
       </a>
