@@ -1,5 +1,5 @@
 ---
-update: "2026/05/19"
+update: 2026/05/19
 title: 【印尼/巴厘岛必备APP】Gojek / Grab 叫车图文教学指南
 description: >-
   Gojek / Grab 的使用方式。在巴厘岛旅游，Gojek 和 Grab 是两款必备的「国民 App」，功能与界面极为相似，就像是 Uber
@@ -15,7 +15,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/ByGkcmys01g'
 lang: zh-cn
-_srcHash: 3fe932db26ee5caf6f55a6657750c688
+_srcHash: 9bda5b981b09e151bce6fb02ebd50996
 ---
 
 [🚗 想预估 Gojek 车资？请点击这里](https://gobaligo.id/map/gojek-fare/)
@@ -34,7 +34,7 @@ _srcHash: 3fe932db26ee5caf6f55a6657750c688
 
 这两款 App 都需要**短信验证码 (OTP)** 才能完成注册。
 
-- **建议：** 在中国大陆（或出发前）就先下载好并用中国大陆手机号码注册。
+- **建议：** 在中国大陆（或出发前）就先下载好并用大陆手机号码注册。
 - **好处：** 避免到了**巴厘岛**后，因为当地的 SIM 卡无法接收短信或网络不稳而卡关。
 
 **第二步：绑定信用卡 (Cashless)**
@@ -62,7 +62,7 @@ _srcHash: 3fe932db26ee5caf6f55a6657750c688
 
 **第四步：与司机沟通**
 
-- **内置聊天：** 两款 App 都有内置聊天室，可以传消息或照片告知确切位置。
+- **内置聊天：** 两款 App 都有内置聊天室，可以传讯息或照片告知确切位置。
 - **翻译功能：** Grab 内置自动翻译，司机传印尼文会自动转成英文/中文；Gojek 则可能需要简单的英文沟通。
 - **常用接人地点表达**：
 
@@ -92,7 +92,7 @@ https://youtu.be/ByGkcmys01g
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
 
-### 🚗 对游客的实际影响与建
+### 🚗 对游客的实际影响与建议
 
 限制确实存在，但对游客的整体影响是有限的，你可以通过以下方式顺利出行：
 
@@ -105,7 +105,7 @@ https://youtu.be/ByGkcmys01g
 
 ## ⚠️ 重要提醒
 
-__VID0__
+{{video1}}
 
 · 尊重规定：请务必遵守现场的告示牌规定，强行在禁止区域上车可能引发与当地司机的纠纷。
 · 安全第一：如果使用路边拦车，务必选择信誉良好的 “蓝鸟出租车 (Bluebird)”，并确认司机打表计费，或谈好一口价，以防被漫天要价。
