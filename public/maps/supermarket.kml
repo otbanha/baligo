@@ -29,7 +29,24 @@
         </Point>
       </Placemark>
     </Folder>
-<Folder>
+    <Folder>
+      <name>Bintang Supermarket</name>
+      <Placemark>
+        <name>Bintang Supermarket Seminyak</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.16793731824379,-8.693464432789806,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bintang Supermarket Ubud</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.25255754345976,-8.49953769351185,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
       <name>Grand Lucky</name>
       <Placemark>
         <name>Grand Lucky Kuta</name>
