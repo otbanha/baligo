@@ -62,18 +62,15 @@
           <coordinates>115.2184295590026,-8.654341698698882,0</coordinates>
         </Point>
       </Placemark>
-    </Folder>
-    <Folder>
-      <name>Hardy's</name>
       <Placemark>
-        <name>Hardy's Kuta</name>
-        <description><![CDATA[📍 Kuta<br>🗺️ Jl. Raya Kuta, Kuta<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Grand Lucky Sanur</name>
+        <description><![CDATA[📍 Sanur<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.1714,-8.7438,0</coordinates>
+          <coordinates>115.25760494345442,-8.6745554609725,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
-    <Folder>
+<Folder>
       <name>Carrefour / Transmart</name>
       <Placemark>
         <name>Transmart Sunset Road</name>
