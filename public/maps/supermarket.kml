@@ -55,6 +55,13 @@
           <coordinates>115.1762,-8.7082,0</coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Grand Lucky Sanur</name>
+        <description><![CDATA[📍 Sanur<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.26336183641405,-8.686061341065093,0</coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>Hardy's</name>
