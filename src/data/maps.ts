@@ -181,7 +181,7 @@ export const maps: MapArea[] = [
     slug: "supermarket",
     name: "峇里島超市地圖",
     nameEn: "Supermarkets in Bali",
-    description: "峇里島中大型超市分布，含 Pepito、Grand Lucky、Hardy's、Bali Deli、Carrefour 等品牌，不含便利商店",
+    description: "峇里島中大型超市分布，含 Bintang、Pepito、Grand Lucky、Coco Supermarket 等品牌，不含便利商店",
     center: [-8.6705, 115.2126],
     zoom: 11,
     kml: "/maps/supermarket.kml",
