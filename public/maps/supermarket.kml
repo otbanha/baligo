@@ -89,10 +89,14 @@
           <coordinates>115.16288504907544,-8.683388691665234,0</coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>Tiara Gatzu Supermarket</name>
+        <description><![CDATA[🏪 本地大型超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.17483847357579,-8.637506051993185,0</coordinates>
+        </Point>
+      </Placemark>
     </Folder>
-
-    <Folder>
-      <name>登巴薩 / 沙努爾</name>
       <Placemark>
         <name>Grand Lucky Denpasar</name>
         <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
@@ -119,6 +123,20 @@
         <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.23190929325338,-8.633917951369732,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pande Putri Supermarket Batur Sari</name>
+        <description><![CDATA[🏪 本地大型超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.25494141775657,-8.695967956623154,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pande Putri Supermarket Danau Buyan</name>
+        <description><![CDATA[🏪 本地大型超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.25567297357613,-8.681705623158782,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -151,6 +169,27 @@
         <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1590206644178,-8.806571954198658,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nirmala Supermarket Jimbaran</name>
+        <description><![CDATA[🏪 本地大型超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.17446716008557,-8.781532928428138,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nirmala Supermarket Pecatu</name>
+        <description><![CDATA[🏪 本地大型超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1368526177582,-8.828878256203541,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nirmala Supermarket Ungasan</name>
+        <description><![CDATA[🏪 本地大型超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.15564024474175,-8.815543842102635,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
