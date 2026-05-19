@@ -91,6 +91,16 @@
       </Placemark>
     </Folder>
     <Folder>
+      <name>Hypermart</name>
+      <Placemark>
+        <name>Hypermart Mal Bali Galeria</name>
+        <description><![CDATA[📍 Kuta<br>🏬 位於 Mal Bali Galeria<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.18465064662513,-8.719411729258509,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
       <name>Foodmart</name>
       <Placemark>
         <name>Foodmart Supermarket Beachwalk</name>
