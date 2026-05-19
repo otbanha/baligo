@@ -9,23 +9,58 @@
       <name>Pepito</name>
       <Placemark>
         <name>Pepito Seminyak</name>
-        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jl. Sunset Road, Seminyak<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.1628,-8.6892,0</coordinates>
+          <coordinates>115.17860610674663,-8.708702299787303,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Pepito Kuta</name>
-        <description><![CDATA[📍 Kuta<br>🗺️ Jl. Raya Kuta, Kuta<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Kuta<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.1695,-8.7210,0</coordinates>
+          <coordinates>115.17237174907544,-8.738121616079768,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Pepito Canggu</name>
-        <description><![CDATA[📍 Canggu<br>🗺️ Jl. Raya Canggu, Canggu<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.1358,-8.6510,0</coordinates>
+          <coordinates>115.14236451839076,-8.64291363557518,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Berawa</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.13314630674662,-8.630679871520032,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Ubud</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.27152533558221,-8.503960798785064,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Jimbaran</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.16125913558221,-8.79630415374252,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Nusa Dua</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.21114700674664,-8.789135741615638,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Bukit</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1590206644178,-8.806571954198658,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
