@@ -111,6 +111,44 @@
       </Placemark>
     </Folder>
     <Folder>
+      <name>Coco Supermarket</name>
+      <Placemark>
+        <name>Coco Supermarket Seminyak</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.16288504907544,-8.683388691665234,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Supermarket Denpasar</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.23190929325338,-8.633917951369732,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Supermarket Jimbaran</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.16987976441779,-8.777623831693731,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Supermarket Nusa Dua</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.22312410674664,-8.804993641364852,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Supermarket Ubud</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.26388517976014,-8.517695279930209,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
       <name>Bali Deli</name>
       <Placemark>
         <name>Bali Deli Seminyak</name>
