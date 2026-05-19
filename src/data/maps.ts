@@ -45,6 +45,7 @@ export const maps: MapArea[] = [
     kml: "/maps/canggu.kml",
     emoji: "🌊",
     myMapsId: "1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U",
+    ogImage: "https://images.gobaligo.id/images/2026-05/1779187987604-canggu-foodie.jpg",
   },
   {
     slug: "nuanu",
