@@ -212,6 +212,7 @@ export const maps: MapArea[] = [
     kml: "/maps/motorbike-rental.kml",
     emoji: "🛵",
     isThematic: true,
+    ogImage: "https://images.gobaligo.id/images/2026-05/1779188397662-scooter.jpg",
   },
   {
     slug: "tourist-police",
