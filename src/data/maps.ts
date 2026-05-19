@@ -9,6 +9,7 @@ export interface MapArea {
   emoji: string;
   isThematic?: boolean;
   myMapsId?: string;
+  ogImage?: string;
 }
 
 export const maps: MapArea[] = [
@@ -187,6 +188,7 @@ export const maps: MapArea[] = [
     kml: "/maps/supermarket.kml",
     emoji: "🛒",
     isThematic: true,
+    ogImage: "https://images.gobaligo.id/images/2026-05/1779187491185-supermarkets.png",
   },
   {
     slug: "sim-card",
