@@ -1,0 +1,47 @@
+name: 更新機車租賃地圖（每半年）
+
+on:
+  schedule:
+    # 每年 1 月 1 日 UTC 16:00（台北時間 1/2 00:00）
+    - cron: '0 16 1 1 *'
+    # 每年 7 月 1 日 UTC 16:00（台北時間 7/2 00:00）
+    - cron: '0 16 1 7 *'
+  workflow_dispatch:       # 允許手動觸發
+
+permissions:
+  contents: write          # 允許 commit & push KML
+
+jobs:
+  update-motorbike-rental-kml:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 抓取 Overpass 機車租賃資料並產生 KML
+        run: node scripts/fetch-motorbike-rentals.mjs
+
+      - name: 確認 KML 有變動
+        id: diff
+        run: |
+          git diff --quiet public/maps/motorbike-rental.kml && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit & Push 更新
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/maps/motorbike-rental.kml scripts/motorbike-rental-data.json
+          git commit -m "chore: update Bali motorbike rental KML ($(date -u +%Y-%m-%d))"
+          git push
+
+      - name: 無變動時略過
+        if: steps.diff.outputs.changed == 'false'
+        run: echo "機車租賃 KML 與現有版本相同，略過 commit。"
