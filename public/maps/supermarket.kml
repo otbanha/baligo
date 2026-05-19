@@ -91,6 +91,16 @@
       </Placemark>
     </Folder>
     <Folder>
+      <name>Foodmart</name>
+      <Placemark>
+        <name>Foodmart Supermarket Beachwalk</name>
+        <description><![CDATA[📍 Kuta<br>🏬 位於 Beachwalk 購物中心地下室<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.16955985023641,-8.712969269283954,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
       <name>Bali Deli</name>
       <Placemark>
         <name>Bali Deli Seminyak</name>
