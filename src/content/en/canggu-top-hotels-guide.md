@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: 'Bali Accommodation Recommendations: Top 17 Must-Visit Stays in Canggu'
 slug: canggu-top-hotels-guide
 description: >-

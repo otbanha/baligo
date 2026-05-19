@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: seminyak-beach-resorts-guide
 title: 峇里島住宿推介：水明漾嘅海邊精緻主題住宿指南
 description: 峇里島住宿推介：深入介紹峇里島水明漾（Seminyak）地區嘅十個令人難以抗拒嘅度假村同酒店，呢啲住宿選擇結合咗奢華、舒適同直達海灘嘅精髓。

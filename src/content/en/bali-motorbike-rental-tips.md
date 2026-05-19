@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: bali-motorbike-rental-tips
 title: >-
   【Bali Motorcycle Rental Guide】Safety Risk Checklist: Complete Analysis of

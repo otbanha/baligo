@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: nusa-penida-guide
 title: >-
   【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transportation,

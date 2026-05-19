@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: seminyak-beach-resorts-guide
 title: 巴厘岛住宿推荐：水明漾的滨海精致主题住宿指南
 description: 巴厘岛住宿推荐：深入介绍巴厘岛水明漾（Seminyak）地区的十个令人难以抗拒的度假村和酒店，这些住宿选择结合了奢华、舒适和直达海滩的精髓。

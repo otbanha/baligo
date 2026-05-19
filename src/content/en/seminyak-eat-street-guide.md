@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: 50+ Seminyak Eat Street Food Guide | Complete Jalan Kayu Aya Restaurant Map
 slug: seminyak-eat-street-guide
 description: >-

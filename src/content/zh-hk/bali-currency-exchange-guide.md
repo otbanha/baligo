@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: 《峇里島換錢同埋金錢管理終極懶人包》印尼/峇里島用咩錢？點樣換錢最抵？去邊度換錢最好？換錢推薦
 slug: bali-currency-exchange-guide
 description: >-

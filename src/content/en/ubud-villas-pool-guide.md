@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: >-
   Ubud Accommodation Recommendations 2026 | Complete Guide to 30 Ubud Forest
   Villas with Pools - Go Bali Go

@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: 50+ 水明漾 Eat Street 美食攻略｜Jalan Kayu Aya 完整餐廳地圖
 slug: seminyak-eat-street-guide
 description: >-

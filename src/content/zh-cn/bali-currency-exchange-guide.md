@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: 《巴厘岛换汇与金钱管理终极懒人包》印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？换汇推荐
 slug: bali-currency-exchange-guide
 description: >-

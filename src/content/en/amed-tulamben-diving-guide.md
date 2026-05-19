@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: amed-tulamben-diving-guide
 title: >-
   Bali's Northeast Hidden Gems: Complete Guide to Amed & Tulamben: Diving, Water

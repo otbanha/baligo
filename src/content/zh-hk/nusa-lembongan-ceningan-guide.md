@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: nusa-lembongan-ceningan-guide
 title: 【倫邦岸島/藍夢島景點攻略】探索藍夢島/金銀島景點、美食、交通：峇里島嘅鄰近天堂
 description: >-

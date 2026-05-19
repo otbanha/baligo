@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: denpasar-culture-guide
 title: 【2026 登巴薩攻略】走訪全球百大城市：峇里島首府文化、歷史與美食地圖
 description: >-

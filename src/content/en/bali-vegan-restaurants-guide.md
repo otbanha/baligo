@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: >-
   【Bali Vegetarian Map】Top 26 Must-Visit Vegetarian-Friendly Restaurants: From
   Ubud's Raw Food Aesthetics to Kuta's Creative Plant-Based Cuisine, A Delicious

@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: kuta-guide
 title: >-
   Bali Kuta Travel Guide: Unlock 50 Must-Visit Hotspots and Travel Tips from

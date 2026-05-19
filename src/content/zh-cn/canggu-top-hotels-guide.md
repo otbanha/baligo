@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: 巴厘岛住宿推荐：坎古 Top 17 你不能错过的住宿推荐
 slug: canggu-top-hotels-guide
 description: >-

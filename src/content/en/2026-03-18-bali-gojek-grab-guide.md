@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: 【Indonesia/Bali Essential Apps】Gojek / Grab Ride-Hailing Guide with Images
 description: >-
   How to use Gojek / Grab. When traveling in Bali, Gojek and Grab are two

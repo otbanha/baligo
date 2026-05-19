@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: bali-sim-card-esim-roaming-guide
 title: 'Bali SIM Card Guide: Comparing SIM Cards, eSIMs, and Roaming Options'
 description: >-

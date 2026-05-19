@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: 【印尼/巴厘岛必备APP】Gojek / Grab 叫车图文教学指南
 description: >-
   Gojek / Grab 的使用方式。在巴厘岛旅游，Gojek 和 Grab 是两款必备的「国民 App」，功能与界面极为相似，就像是 Uber

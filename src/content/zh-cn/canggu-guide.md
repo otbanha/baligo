@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: canggu-guide
 title: 【2026 坎古攻略】坎古旅游地图 100 选：网红咖啡馆、冲浪秘境与最潮市集全收录
 description: >-

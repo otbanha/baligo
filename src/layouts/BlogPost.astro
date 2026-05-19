@@ -8,6 +8,7 @@ import Header from '../components/Header.astro';
 import TopStrip from '../components/TopStrip.astro';
 import ChatBot from '../components/ChatBot.astro';
 import TripPlannerBanner from '../components/TripPlannerBanner.astro';
+import RelatedMapCard from '../components/RelatedMapCard.astro';
 import { getCollection } from 'astro:content';
 import { enhancedTitle, enhancedDescription, COMPANION_CAT } from '../utils/seo-keywords';
 
@@ -328,9 +329,15 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
             </nav>
           )}
 
+          <!-- D.2-1: hero 位置 — 目錄下方、內文前 -->
+          {slug && <RelatedMapCard blogUrl={`https://gobaligo.id/blog/${slug}/`} position="hero" />}
+
           <div id="article-body" data-shuffle={shuffleH2 ? 'true' : 'false'}>
             <slot />
           </div>
+
+          <!-- D.2-3: footer 位置 — 文末 CTA 卡片 -->
+          {slug && <RelatedMapCard blogUrl={`https://gobaligo.id/blog/${slug}/`} position="hero" />}
 
           <!-- 促銷區塊 -->
           {activePromos.length > 0 && (

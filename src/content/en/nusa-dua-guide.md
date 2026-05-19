@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: nusa-dua-guide
 title: >-
   Nusa Dua & Tanjung Benoa: The Ultimate Guide to Bali's Premier Luxury

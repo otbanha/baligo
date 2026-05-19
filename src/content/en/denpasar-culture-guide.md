@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: denpasar-culture-guide
 title: >-
   【2026 Denpasar Guide】Exploring One of the World's Top 100 Cities: A Cultural,

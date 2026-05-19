@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: nuanu-creative-city-luna-guide
 title: 【2026 巴厘岛新地标】Nuanu Creative City 全攻略：LUNA 海滩俱乐部与光影艺术大收集
 description: >-

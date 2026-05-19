@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: nuanu-creative-city-luna-guide
 title: >-
   【2026 Bali's New Landmark】Complete Guide to Nuanu Creative City: LUNA Beach

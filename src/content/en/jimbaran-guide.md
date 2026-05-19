@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: 'Bali Travel Guide to Jimbaran: 30 Must-Visit Attractions | 2026 Travel Guide'
 slug: jimbaran-guide
 description: >-

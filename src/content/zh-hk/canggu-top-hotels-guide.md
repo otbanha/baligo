@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: 峇里島住宿推薦：坎古 Top 17 你不能錯過嘅住宿推薦
 slug: canggu-top-hotels-guide
 description: >-

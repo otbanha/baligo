@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: bali-sim-card-esim-roaming-guide
 title: 巴厘岛网卡推荐：SIM卡、eSIM 与漫游方案优缺点完全比较
 description: >-

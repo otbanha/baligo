@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: nusa-penida-guide
 title: 【巴厘岛 - 努沙佩尼达岛全攻略】地图、乘船、住宿、交通、包车、活动、摄影、景点
 description: >-

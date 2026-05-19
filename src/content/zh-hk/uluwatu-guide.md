@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: uluwatu-guide
 title: 【烏魯瓦圖攻略】Uluwatu烏魯瓦圖景點 50個吃喝玩樂推薦
 description: >-

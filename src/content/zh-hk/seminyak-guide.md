@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: seminyak-guide
 title: 【2026 水明漾攻略】100 個必去地點地圖：精品購物、網美咖啡廳與 SPA 全收錄
 description: >-

@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: kuta-guide
 title: 峇里島庫塔攻略玩樂指南：由衝浪、購物到 SPA，解鎖 50 個必去熱點同旅遊秘訣
 description: >-

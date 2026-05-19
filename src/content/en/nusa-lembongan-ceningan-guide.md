@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: nusa-lembongan-ceningan-guide
 title: >-
   【Nusa Lembongan/Nusa Ceningan Travel Guide】Exploring Nusa Lembongan/Nusa

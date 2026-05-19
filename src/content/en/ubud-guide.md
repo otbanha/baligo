@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: ubud-guide
 title: >-
   2026 Complete Ubud Guide: 100 Ways to Deeply Understand Ubud | Exploring the

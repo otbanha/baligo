@@ -1,0 +1,123 @@
+---
+import { getMapSlugByBlogUrl } from '../data/mapBlogMapping';
+import { getMapBySlug } from '../data/maps';
+
+interface Props {
+  blogUrl: string;
+  position: 'hero' | 'inline' | 'footer';
+}
+
+const { blogUrl, position } = Astro.props;
+
+const mapSlug = getMapSlugByBlogUrl(blogUrl);
+if (!mapSlug) return;
+
+const mapArea = getMapBySlug(mapSlug);
+if (!mapArea) return;
+
+const mapUrl = `/map/${mapSlug}/`;
+
+const anchorText =
+  position === 'hero'
+    ? `互動地圖版本：在地圖上查看本文所有地點`
+    : position === 'inline'
+    ? mapArea.name + '地圖'
+    : mapArea.name + '地圖';
+---
+
+{position === 'hero' && (
+  <div class="related-map-card">
+    <div class="related-map-card__icon">🗺️</div>
+    <div class="related-map-card__body">
+      <p class="related-map-card__title">{mapArea.emoji} {mapArea.name}互動地圖</p>
+      <p class="related-map-card__desc">{mapArea.description}</p>
+    </div>
+    <a href={mapUrl} rel="related" class="related-map-card__cta">
+      {anchorText} →
+    </a>
+  </div>
+)}
+
+{position === 'inline' && (
+  <span class="related-map-inline">
+    （<a href={mapUrl} rel="related">{anchorText}</a>）
+  </span>
+)}
+
+{position === 'footer' && (
+  <li class="related-map-list-item">
+    <a href={mapUrl} rel="related">{anchorText}</a>
+  </li>
+)}
+
+<style>
+  .related-map-card {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+    background: #f0f7ff;
+    border: 1px solid #90c0f0;
+    border-radius: 12px;
+    padding: 1rem 1.25rem;
+    margin: 1.5rem 0;
+  }
+  .related-map-card__icon {
+    font-size: 1.75rem;
+    flex-shrink: 0;
+  }
+  .related-map-card__body {
+    flex: 1;
+    min-width: 0;
+  }
+  .related-map-card__title {
+    font-weight: 700;
+    margin: 0 0 0.25rem;
+    font-size: 0.95rem;
+    color: #1a1a1a;
+  }
+  .related-map-card__desc {
+    margin: 0;
+    font-size: 0.85rem;
+    color: #555;
+    line-height: 1.4;
+  }
+  .related-map-card__cta {
+    display: inline-block;
+    white-space: nowrap;
+    background: #3b82f6;
+    color: #fff;
+    font-weight: 700;
+    font-size: 0.85rem;
+    padding: 0.5rem 1rem;
+    border-radius: 8px;
+    text-decoration: none;
+    flex-shrink: 0;
+  }
+  .related-map-card__cta:hover {
+    background: #2563eb;
+  }
+  .related-map-inline a {
+    color: #2563eb;
+    text-decoration: underline;
+    font-weight: 500;
+  }
+  .related-map-list-item {
+    list-style: disc;
+  }
+  .related-map-list-item a {
+    color: #2563eb;
+    text-decoration: none;
+  }
+  .related-map-list-item a:hover {
+    text-decoration: underline;
+  }
+  @media (max-width: 480px) {
+    .related-map-card {
+      flex-wrap: wrap;
+    }
+    .related-map-card__cta {
+      width: 100%;
+      text-align: center;
+    }
+  }
+</style>

@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: bali-motorbike-rental-tips
 title: 【峇里島租電單車攻略】安全風險檢查清單：租車價錢、國際車牌規定與警察罰款陷阱全解析
 description: >-

@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: uluwatu-guide
 title: '【Uluwatu Guide】50 Must-Visit Spots in Uluwatu for Food, Fun, and Adventure'
 description: >-

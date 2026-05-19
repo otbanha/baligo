@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: seminyak-beach-resorts-guide
 title: 'Bali Accommodation Guide: Coastal Boutique Stays in Seminyak'
 description: >-

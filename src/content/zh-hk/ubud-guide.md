@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: ubud-guide
 title: 2026峇里島完整烏布攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力
 description: >-

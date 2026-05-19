@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: 【巴厘岛素食地图】Top 26 间必访素食友善餐厅：从乌布生食美学到库塔创意蔬食，无肉者也疯狂的美味指南
 slug: bali-vegan-restaurants-guide
 description: >-

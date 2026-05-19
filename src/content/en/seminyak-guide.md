@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: seminyak-guide
 title: >-
   【2026 Seminyak Guide】100 Must-Visit Spots Map: Boutique Shopping,

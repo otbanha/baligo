@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: sanur-guide
 title: >-
   Bali Family-Friendly Travel Guide: Sanur Map｜Over 50 Recommendations for

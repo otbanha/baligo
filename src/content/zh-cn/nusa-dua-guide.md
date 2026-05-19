@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: nusa-dua-guide
 title: 努沙杜瓦、南湾：巴厘岛豪华度假的首选之地40个住宿、美食、活动攻略地图 Nusa Dua/Tanjung Benoa
 description: 努沙杜瓦（Nusa Dua）、南湾（Tanjung Benoa）是巴厘岛南部的一个高级度假区，以其豪华的滨海五星度假村/酒店林立而闻名。

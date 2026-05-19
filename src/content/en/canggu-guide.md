@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: canggu-guide
 title: >-
   【2026 Canggu Guide】100 Must-Visit Spots in Canggu: Instagram-Worthy Cafes,

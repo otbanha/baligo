@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: bali-motorbike-rental-tips
 title: 【巴厘岛租摩托车攻略】安全风险检查清单：租车价格、国际驾照规定与警察罚款陷阱全解析
 description: >-

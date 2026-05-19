@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: >-
   The Ultimate Guide to Currency Exchange and Money Management in Bali,
   Indonesia: What currency is used? How to get the best exchange rate? Where to

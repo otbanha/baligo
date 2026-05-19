@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: 乌布住宿推荐 2026｜30 间 Ubud 森林 Villa 泳池别墅完整攻略 - Go Bali Go
 slug: ubud-villas-pool-guide
 description: >-

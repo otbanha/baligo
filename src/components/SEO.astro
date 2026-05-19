@@ -19,6 +19,7 @@
 
 import { readFileSync, existsSync } from 'fs';
 import { enhancedTitle, enhancedDescription, applyHkSubs } from '../utils/seo-keywords';
+import { getMapSlugByBlogUrl } from '../data/mapBlogMapping';
 
 interface Props {
   title: string;
@@ -114,6 +115,12 @@ const schemaArticle = {
   },
   "mainEntityOfPage": { "@type": "WebPage", "@id": articleUrl },
   ...(cats.length > 0 ? { "articleSection": cats[0] } : {}),
+  // E.2 relatedLink：blog 頁指向對應的互動地圖
+  ...((() => {
+    const canonicalZhTw = `https://gobaligo.id/blog/${slug}/`;
+    const mapSlug = getMapSlugByBlogUrl(canonicalZhTw);
+    return mapSlug ? { "relatedLink": `https://gobaligo.id/map/${mapSlug}/` } : {};
+  })()),
 };
 
 const schemaBreadcrumb = {

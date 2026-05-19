@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: 【峇里島素食地圖】Top 26 間必去素食友善餐廳：由烏布生食美學到庫塔創意蔬食，無肉者都瘋狂嘅美味指南
 slug: bali-vegan-restaurants-guide
 description: >-

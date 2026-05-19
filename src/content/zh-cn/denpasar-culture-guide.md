@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: denpasar-culture-guide
 title: 【2026 登巴萨攻略】走访全球百大城市：巴厘岛首府文化、历史与美食地图
 description: >-

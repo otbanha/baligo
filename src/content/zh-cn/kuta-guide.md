@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: kuta-guide
 title: 巴厘岛库塔攻略玩乐指南：从冲浪、购物到 SPA，解锁 50 个必访热点与旅游秘诀
 description: >-

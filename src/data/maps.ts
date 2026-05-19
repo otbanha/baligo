@@ -13,11 +13,13 @@ export interface MapArea {
   myMapsId?: string;
   ogImage?: string;
   relatedMaps?: string[];
+  lastmod?: string;
 }
 
 export const maps: MapArea[] = [
   {
     slug: "kuta",
+    lastmod: "2026-05-19",
     name: "庫塔",
     nameEn: "Kuta",
     description: "峇里島最熱鬧的旅遊區，購物、夜生活、衝浪一次滿足",
@@ -32,6 +34,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "seminyak",
+    lastmod: "2026-05-19",
     name: "水明漾",
     nameEn: "Seminyak",
     description: "精品酒吧、時尚餐廳與頂級 Villa 的聚集地",
@@ -46,6 +49,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "canggu",
+    lastmod: "2026-05-19",
     name: "長谷",
     nameEn: "Canggu",
     description: "衝浪客與數位遊牧民族的天堂，咖啡廳與稻田並存",
@@ -61,6 +65,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "nuanu",
+    lastmod: "2026-05-19",
     name: "Nuanu Creative City",
     nameEn: "Nuanu Creative City",
     description: "峇里島新興創意園區，匯集藝術、科技與永續生活",
@@ -75,6 +80,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "ubud",
+    lastmod: "2026-05-19",
     name: "烏布",
     nameEn: "Ubud",
     description: "藝術文化之都，梯田、寺廟與傳統工藝的精髓所在",
@@ -89,6 +95,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "jimbaran",
+    lastmod: "2026-05-19",
     name: "金巴蘭",
     nameEn: "Jimbaran",
     description: "以海鮮燒烤晚餐與絕美夕陽聞名的寧靜海灣",
@@ -103,6 +110,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "uluwatu",
+    lastmod: "2026-05-19",
     name: "烏魯瓦圖",
     nameEn: "Uluwatu",
     description: "懸崖寺廟、頂級衝浪點與無邊際泳池的奢華體驗",
@@ -117,6 +125,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "nusa-dua",
+    lastmod: "2026-05-19",
     name: "努沙杜瓦",
     nameEn: "Nusa Dua",
     description: "五星級度假村聚集的高端旅遊區，海水清澈平靜",
@@ -131,6 +140,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "sanur",
+    lastmod: "2026-05-19",
     name: "沙努爾",
     nameEn: "Sanur",
     description: "悠閒的老城區，峇里島最早的旅遊勝地，日出絕美",
@@ -145,6 +155,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "amed",
+    lastmod: "2026-05-19",
     name: "Amed / Tulamben",
     nameEn: "Amed / Tulamben",
     description: "東峇里島的潛水天堂，珊瑚礁與沉船遺址令人嘆為觀止",
@@ -159,6 +170,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "nusa-penida",
+    lastmod: "2026-05-19",
     name: "佩尼達島",
     nameEn: "Nusa Penida",
     description: "網美打卡聖地，斷崖奇景與蝠鱝潛水令人震撼",
@@ -173,6 +185,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "lembongan",
+    lastmod: "2026-05-19",
     name: "藍夢島 & 金銀島",
     nameEn: "Nusa Lembongan & Ceningan",
     description: "峇里島近郊的小島天堂，水上活動豐富、節奏輕鬆",
@@ -187,6 +200,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "denpasar",
+    lastmod: "2026-05-19",
     name: "登巴薩",
     nameEn: "Denpasar",
     description: "峇里島首府，在地市場、傳統美食與文化景點的真實峇里",
@@ -201,6 +215,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "money-changer",
+    lastmod: "2026-05-19",
     name: "峇里島合法換匯所",
     nameEn: "BI-Licensed Money Changers",
     description: "印尼央行 BI 官方授權清單，568 間合法換匯，避開換匯詐騙",
@@ -215,6 +230,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "atm",
+    lastmod: "2026-05-19",
     name: "ATM 提款機",
     nameEn: "ATMs in Bali",
     description: "峇里島 521 台 ATM 位置，含 BCA、Mandiri、BNI、BRI 等主要銀行，資料來源 OpenStreetMap",
@@ -229,6 +245,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "supermarket",
+    lastmod: "2026-05-19",
     name: "峇里島超市地圖",
     nameEn: "Supermarkets in Bali",
     description: "峇里島中大型超市分布，含 Bintang、Pepito、Grand Lucky、Coco Supermarket 等品牌，不含便利商店",
@@ -244,6 +261,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "sim-card",
+    lastmod: "2026-05-19",
     name: "峇里島 SIM 卡店家",
     nameEn: "SIM Card Stores in Bali",
     description: "峇里島四大電信商（Telkomsel、XL/AXIS、Indosat IM3、Tri）官方門市與機場購卡據點，含營業時間與方案說明",
@@ -258,6 +276,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "motorbike-rental",
+    lastmod: "2026-05-19",
     name: "租機車據點",
     nameEn: "Motorbike Rental in Bali",
     description: "峇里島各熱門觀光區機車租賃店，含日租價格參考（約 Rp 60,000–100,000）、車款與注意事項",
@@ -273,6 +292,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "tourist-police",
+    lastmod: "2026-05-19",
     name: "旅遊警察據點",
     nameEn: "Tourist Police in Bali",
     description: "峇里島旅遊警察站、各縣警察局與景點派出所，遇竊盜、事故、護照遺失可求助，部分站點提供英語服務",
@@ -287,6 +307,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "hospital",
+    lastmod: "2026-05-19",
     name: "醫院 / 診所",
     nameEn: "Hospitals & Clinics in Bali",
     description: "峇里島 211 間醫療設施，含 BIMC、Siloam、Kasih Ibu 等國際醫院、24H 急診與觀光區診所",
@@ -301,6 +322,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "canggu-hotel",
+    lastmod: "2026-05-19",
     name: "長谷住宿推薦",
     nameEn: "Best Hotels in Canggu",
     description: "精選長谷海灘度假村、精品旅館與 Villa，含地圖定位",
@@ -316,6 +338,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "seminyak-hotel",
+    lastmod: "2026-05-19",
     name: "水明漾住宿推薦",
     nameEn: "Best Hotels in Seminyak",
     description: "精選水明漾濱海酒店、精品 Villa 與度假村，含地圖定位",
@@ -331,6 +354,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "seminyak-eat-street",
+    lastmod: "2026-05-19",
     name: "水明漾 Eat Street 指南",
     nameEn: "Seminyak Eat Street Guide",
     description: "水明漾美食街精選餐廳，從早午餐到晚餐一次掌握",
@@ -346,6 +370,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "ubud-villa",
+    lastmod: "2026-05-19",
     name: "烏布 Villa 推薦",
     nameEn: "Best Villas in Ubud",
     description: "精選烏布私人泳池 Villa，含地圖定位與詳細介紹",
@@ -361,6 +386,7 @@ export const maps: MapArea[] = [
   },
   {
     slug: "vegetarian",
+    lastmod: "2026-05-19",
     name: "峇里島素食餐廳 Top 26",
     nameEn: "Top 26 Vegetarian Restaurants",
     description: "精選峇里島 26 間素食友善餐廳，涵蓋各大熱門區域",

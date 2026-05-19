@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: nusa-lembongan-ceningan-guide
 title: 【蓝梦岛景点攻略】探索蓝梦岛/金银岛景点、美食、交通：巴厘岛的邻近天堂
 description: >-

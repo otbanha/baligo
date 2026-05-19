@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: nusa-penida-guide
 title: 【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點
 description: >-

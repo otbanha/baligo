@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 slug: amed-tulamben-diving-guide
 title: 巴厘岛东北角秘境：艾眉 Amed 与土兰奔 Tulamben 完整攻略：潜水、水宫与秘境全收集
 description: >-
