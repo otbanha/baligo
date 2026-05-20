@@ -89,7 +89,7 @@ To better experience Bali, learn about its culture, customs, local cuisine, dang
 - [Three Must-Have Apps for Indonesia/Bali](https://www.youtube.com/watch?v=4p8fliUxn0A&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=8)
 - How to Choose Accommodation Areas? [Bali Accommodation Guide](https://s.id/baliguide1)
 - Comprehensive Guide to Bali's Districts
-- Over 300 Quality Accommodation Recommendations, [See Here](https://gobaligo.id/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+- Over 300 Quality Accommodation Recommendations, [See Here](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 {{block:klook}}
 

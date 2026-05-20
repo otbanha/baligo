@@ -62,7 +62,7 @@ https://youtu.be/zePMt3KSwTo
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1b788d4b2052c6e67e9c475e88df1921.jpg)
 
-别忘了顺便造访东部的艾眉和图兰奔哦！攻略在[这儿](https://gobaligo.id/blog/2025-06-23-68578b01fd89780001dd5208/)
+别忘了顺便造访东部的艾眉和图兰奔哦！攻略在[这儿](/blog/2025-06-23-68578b01fd89780001dd5208/)
 
 {{block:ubud}}
 

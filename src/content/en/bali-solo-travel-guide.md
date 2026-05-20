@@ -153,7 +153,7 @@ Bali will gently show you: being alone can also feel complete.
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775353631404-10819a3acdc4d57f5f5a684e1dfea4ed.jpg)
 
-> Solo travel journal reference: [🌺 8 Days Exploring Bali Alone - A Woman's Solo Travel Experience 🌺](https://gobaligo.id/blog/2024-04-23-66155131fd89780001e64a99/)
+> Solo travel journal reference: [🌺 8 Days Exploring Bali Alone - A Woman's Solo Travel Experience 🌺](/blog/2024-04-23-66155131fd89780001e64a99/)
 
 ***
 

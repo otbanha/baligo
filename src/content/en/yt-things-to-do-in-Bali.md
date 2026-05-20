@@ -98,7 +98,7 @@ Apart from admiring the beautiful scenery, experiencing the swing is a must-do i
 
 The eight most famous swing locations in Bali:
 
-> [Top 8 Jungle Swing Spots: Dress Rental Tips, Photo Angles, and Crowd Avoidance Guide](https://gobaligo.id/blog/2025-08-15-689eb518fd897800014fbb28/)
+> [Top 8 Jungle Swing Spots: Dress Rental Tips, Photo Angles, and Crowd Avoidance Guide](/blog/2025-08-15-689eb518fd897800014fbb28/)
 
 ## Chapter 5: Instagrammable Waterfalls
 

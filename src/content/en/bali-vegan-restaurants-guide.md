@@ -85,7 +85,7 @@ Further Reading:
 
 ## Additional Vegetarian Recommendations from Readers
 
-Our community member [**Chen Qianyi**](https://www.facebook.com/share/p/1Cz4zdWHqF/) has shared her personal list of vegetarian restaurants she has tried, located in both Ubud and Canggu, featuring six unique establishments. Her recommendations add depth to the article and provide readers with more diverse options. For detailed information, please check [here](https://gobaligo.id/map/vegetarian/).
+Our community member [**Chen Qianyi**](https://www.facebook.com/share/p/1Cz4zdWHqF/) has shared her personal list of vegetarian restaurants she has tried, located in both Ubud and Canggu, featuring six unique establishments. Her recommendations add depth to the article and provide readers with more diverse options. For detailed information, please check [here](/map/vegetarian/).
 
 ## **Locations & Maps: The Endless Charm of Bali's Vegetarian-Friendly Restaurants**
 
@@ -93,8 +93,8 @@ Bali's vegetarian restaurants are spread across popular tourist destinations, fr
 
 ![峇里島Top 26 素食友善餐廳](https://images.gobaligo.id/vocus/vocus_a5d5b1f2d35fd1fdb7bd8882f8b50f94.png)
 
-[Bali's Top 26 Vegetarian-Friendly Restaurants](https://gobaligo.id/map/vegetarian/)
+[Bali's Top 26 Vegetarian-Friendly Restaurants](/map/vegetarian/)
 
-For the locations and detailed descriptions of these 26 restaurants, please [click the map link](https://gobaligo.id/map/vegetarian/). Let's explore the endless charm of Bali's vegetarian-friendly restaurants together!
+For the locations and detailed descriptions of these 26 restaurants, please [click the map link](/map/vegetarian/). Let's explore the endless charm of Bali's vegetarian-friendly restaurants together!
 
 {{block:klook}}

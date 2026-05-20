@@ -26,7 +26,7 @@ lang: en
 _srcHash: 9eca0db4073d76a9677723b4c26ef6a6
 ---
 
-[🚗 Want to estimate Gojek fares? Click here](https://gobaligo.id/map/gojek-fare/)
+[🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)
 
 Our Bali video series has reached episode 55! In this episode, we'll discuss six key considerations for traveling to Bali!
 

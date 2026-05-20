@@ -173,7 +173,7 @@ https://youtu.be/DSi7QvqOLTQ
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7dad59174130e2068985c1770b74c176.jpg)
 
-A detailed introduction to [Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656) is included in "[22 Stunning Secret Gardens in Seminyak, Bali](https://gobaligo.id/blog/2025-08-11-660e6e92fd89780001e6047e/)". Don't miss it if you're planning to enjoy a villa vacation in Seminyak!
+A detailed introduction to [Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656) is included in "[22 Stunning Secret Gardens in Seminyak, Bali](/blog/2025-08-11-660e6e92fd89780001e6047e/)". Don't miss it if you're planning to enjoy a villa vacation in Seminyak!
 
 ***
 

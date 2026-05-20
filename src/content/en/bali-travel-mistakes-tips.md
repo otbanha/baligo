@@ -94,7 +94,7 @@ Choose alternative accommodation areas based on your needs:
 
 Further Reading: [The Most Convenient Place to Stay in Bali, But Not Recommended! What Are the Pros and Cons of Kuta, Bali?](/blog/2024-03-19-65f8e4d2fd89780001b5e8f9/)
 
-By the way! We’ve introduced 300 reliable "[**Bali Accommodation Recommendations**](https://gobaligo.id/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)" that you must check out!
+By the way! We’ve introduced 300 reliable "[**Bali Accommodation Recommendations**](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)" that you must check out!
 
 ### 6. Risks of Renting a Car/Motorcycle for Self-Driving
 
@@ -154,7 +154,7 @@ https://youtube.com/shorts/bqtCP1YoKCM
 - **Carry a raincoat**: A lightweight raincoat is more practical than an umbrella, as heavy rains come suddenly and are often accompanied by strong winds.
 - **Plan morning activities**: The weather is usually more stable in the morning, so it's advisable to schedule outdoor activities in the morning to avoid sudden afternoon showers.
 
-Quick reference: [Must-see for rainy days! 60 amazing indoor activities: From newly opened shopping malls, five-star afternoon teas to top-notch hands-on experiences](https://gobaligo.id/blog/2024-01-06-6598c6fffd89780001047d76/)
+Quick reference: [Must-see for rainy days! 60 amazing indoor activities: From newly opened shopping malls, five-star afternoon teas to top-notch hands-on experiences](/blog/2024-01-06-6598c6fffd89780001047d76/)
 
 ### 10. Monkey Safety Guidelines
 

@@ -98,23 +98,23 @@ For dining, the main restaurant Arunika serves a buffet breakfast starting at 6:
 
 The awards ceremony was held at the Bali Beach Convention Center, right next to The Meru Sanur, recognizing hotels, restaurants, and bars across Asia.
 
-In the list of Indonesia's top 20 hotels, Bali claimed 11 spots, including perennial favorites like [Mandapa (a Ritz-Carlton Reserve)](https://gobaligo.id/blog/2024-02-20-65d21157fd897800013be576/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve), [Capella Ubud](https://gobaligo.id/blog/2025-03-20-671263f0fd89780001ee6da7/), and [Apurva Kempinski](https://gobaligo.id/blog/2024-04-22-660ff581fd89780001f31315/). The Meru Sanur stood out among these established giants as a "new hotel" not just for its facilities, but for its exceptional embodiment of Indonesian hospitality.
+In the list of Indonesia's top 20 hotels, Bali claimed 11 spots, including perennial favorites like [Mandapa (a Ritz-Carlton Reserve)](/blog/2024-02-20-65d21157fd897800013be576/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve), [Capella Ubud](/blog/2025-03-20-671263f0fd89780001ee6da7/), and [Apurva Kempinski](/blog/2024-04-22-660ff581fd89780001f31315/). The Meru Sanur stood out among these established giants as a "new hotel" not just for its facilities, but for its exceptional embodiment of Indonesian hospitality.
 
 ### Full list
 
 In the list of Indonesia's top 20 hotels, Bali has secured 11 spots. Here is the complete list of Bali hotels that made the cut:
 
-1. **Mandapa, a Ritz-Carlton Reserve** (Ubud) A jungle sanctuary perched on a cliff overlooking the Ayung River Valley, one of the most acclaimed properties in the Ritz-Carlton Reserve collection in Asia. → [View detailed introduction](https://gobaligo.id/blog/2024-02-20-65d21157fd897800013be576/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)
-2. **Alila Villas Uluwatu** (Uluwatu) A minimalist estate on the edge of a cliff, with an infinity pool facing the Indian Ocean, representing the pinnacle of Uluwatu's luxury accommodations. → [View detailed introduction](https://gobaligo.id/blog/2025-04-06-67f1f8fbfd89780001607840/)
-3. **Padma Resort Ubud** (Ubud) A large resort nestled in the Ubud valley, famous for its extensive infinity pool and stunning rice terrace views. → [View detailed introduction](https://gobaligo.id/blog/2024-02-20-65d21157fd897800013be576/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%A7%98%E5%A2%83-padma-resort-ubud-%E6%93%81%E6%8A%B1%E5%AF%A7%E9%9D%9C%E8%88%87%E5%A5%A2%E8%8F%AF)
-4. **Bvlgari Resort Bali** (Uluwatu) The epitome of boutique luxury, featuring only a few dozen standalone villas, and recently awarded 'Hotel of the Year'. → [View detailed introduction](https://gobaligo.id/blog/bvlgari-resort-bali/)
-5. **Capella Ubud** (Ubud) Bali's only top-tier 'glamping' experience, with tented villas suspended in the jungle, complete with private saltwater pools and campfires. → [View detailed introduction](https://gobaligo.id/blog/2025-03-20-671263f0fd89780001ee6da7/)
-6. **The Apurva Kempinski Bali** (Nusa Dua) Resembling a massive Indonesian temple cascading down a sea cliff, the architecture itself is a spectacle, with unbeatable ocean views. → [View detailed introduction](https://gobaligo.id/blog/2024-04-22-660ff581fd89780001f31315/)
-7. **Desa Potato Head** (Seminyak) More than just a hotel, it's a complex space blending art and sustainability concepts, deservedly awarded 'Best Innovation'. → [View detailed introduction](https://gobaligo.id/blog/2025-03-19-6735d8e7fd897800013ead73/)
-8. **The Meru Sanur** ⭐ Best New Hotel (Sanur) The star of this article! Boasting a 1 km private beach line and all-suite design, it recently clinched the title of Best New Hotel. → [View detailed introduction](https://gobaligo.id/blog/the-meru-sanur/)
-9. **Four Seasons Resort Bali at Jimbaran Bay** (Jimbaran) The Four Seasons by Jimbaran Bay, presented as a private villa village, awarded 'Best Family Hotel' this year. → [View detailed introduction](https://gobaligo.id/blog/2024-08-09-66b5be79fd897800016df66e/)
+1. **Mandapa, a Ritz-Carlton Reserve** (Ubud) A jungle sanctuary perched on a cliff overlooking the Ayung River Valley, one of the most acclaimed properties in the Ritz-Carlton Reserve collection in Asia. → [View detailed introduction](/blog/2024-02-20-65d21157fd897800013be576/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)
+2. **Alila Villas Uluwatu** (Uluwatu) A minimalist estate on the edge of a cliff, with an infinity pool facing the Indian Ocean, representing the pinnacle of Uluwatu's luxury accommodations. → [View detailed introduction](/blog/2025-04-06-67f1f8fbfd89780001607840/)
+3. **Padma Resort Ubud** (Ubud) A large resort nestled in the Ubud valley, famous for its extensive infinity pool and stunning rice terrace views. → [View detailed introduction](/blog/2024-02-20-65d21157fd897800013be576/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%A7%98%E5%A2%83-padma-resort-ubud-%E6%93%81%E6%8A%B1%E5%AF%A7%E9%9D%9C%E8%88%87%E5%A5%A2%E8%8F%AF)
+4. **Bvlgari Resort Bali** (Uluwatu) The epitome of boutique luxury, featuring only a few dozen standalone villas, and recently awarded 'Hotel of the Year'. → [View detailed introduction](/blog/bvlgari-resort-bali/)
+5. **Capella Ubud** (Ubud) Bali's only top-tier 'glamping' experience, with tented villas suspended in the jungle, complete with private saltwater pools and campfires. → [View detailed introduction](/blog/2025-03-20-671263f0fd89780001ee6da7/)
+6. **The Apurva Kempinski Bali** (Nusa Dua) Resembling a massive Indonesian temple cascading down a sea cliff, the architecture itself is a spectacle, with unbeatable ocean views. → [View detailed introduction](/blog/2024-04-22-660ff581fd89780001f31315/)
+7. **Desa Potato Head** (Seminyak) More than just a hotel, it's a complex space blending art and sustainability concepts, deservedly awarded 'Best Innovation'. → [View detailed introduction](/blog/2025-03-19-6735d8e7fd897800013ead73/)
+8. **The Meru Sanur** ⭐ Best New Hotel (Sanur) The star of this article! Boasting a 1 km private beach line and all-suite design, it recently clinched the title of Best New Hotel. → [View detailed introduction](/blog/the-meru-sanur/)
+9. **Four Seasons Resort Bali at Jimbaran Bay** (Jimbaran) The Four Seasons by Jimbaran Bay, presented as a private villa village, awarded 'Best Family Hotel' this year. → [View detailed introduction](/blog/2024-08-09-66b5be79fd897800016df66e/)
 10. **Four Seasons Resort Bali at Sayan** (Ubud) One of Bali's earliest top-tier jungle resorts, with its lotus pond lobby and Ayung River views still unmatched. → [View detailed introduction](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48716)
-11. **The St Regis Bali Resort** (Nusa Dua) A stable representative of classic luxury, with butler service and private pool villas keeping it on the list year after year. → [View detailed introduction](https://gobaligo.id/blog/2024-07-27-66a4562afd89780001d70329/#the-st-regis-bali-resort%EF%B8%8F%E5%9C%B0%E5%9C%96%E4%BD%8D%E7%BD%AE)
+11. **The St Regis Bali Resort** (Nusa Dua) A stable representative of classic luxury, with butler service and private pool villas keeping it on the list year after year. → [View detailed introduction](/blog/2024-07-27-66a4562afd89780001d70329/#the-st-regis-bali-resort%EF%B8%8F%E5%9C%B0%E5%9C%96%E4%BD%8D%E7%BD%AE)
 
 ***
 
@@ -125,13 +125,13 @@ In the list of Indonesia's top 20 hotels, Bali has secured 11 spots. Here is the
 - **Distance from Airport**: Approximately 13 km (about 30–40 minutes by car)
 - **Special Bonus**: Close to Sanur speedboat pier, making trips to Nusa Penida super convenient
 - **Suitable For**: Travelers seeking a quiet beach, spacious accommodations, and high-quality service; families with children also have access to a kids' club
-- **Detailed Introduction**: See [here](https://gobaligo.id/blog/the-meru-sanur/)
+- **Detailed Introduction**: See [here](/blog/the-meru-sanur/)
 
 The northern end of Sanur has indeed become increasingly popular in recent years, shedding its old image as a place 'only for the elderly'. The emergence of The Meru Sanur has accelerated this transformation.
 
 If you haven't included Sanur in your itinerary yet, 2026 might be a good opportunity to rediscover it.
 
-▶ For a detailed introduction to The Meru Sanur, [click here](https://gobaligo.id/blog/the-meru-sanur/)
+▶ For a detailed introduction to The Meru Sanur, [click here](/blog/the-meru-sanur/)
 
 #### 📌 Booking Information
 

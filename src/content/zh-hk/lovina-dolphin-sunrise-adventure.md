@@ -167,7 +167,7 @@ https://youtu.be/DSi7QvqOLTQ
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7dad59174130e2068985c1770b74c176.jpg)
 
-[Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656)嘅詳細介紹收錄喺「[水明漾22間令人驚艷嘅峇里島祕密花園](https://gobaligo.id/blog/2025-08-11-660e6e92fd89780001e6047e/)」入面。想去水明漾享受villa度假嘅朋友唔好錯過呀！
+[Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656)嘅詳細介紹收錄喺「[水明漾22間令人驚艷嘅峇里島祕密花園](/blog/2025-08-11-660e6e92fd89780001e6047e/)」入面。想去水明漾享受villa度假嘅朋友唔好錯過呀！
 
 ***
 

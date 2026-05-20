@@ -18,7 +18,7 @@ lang: zh-hk
 _srcHash: 9eca0db4073d76a9677723b4c26ef6a6
 ---
 
-[🚗 想預估 Gojek 車費？請撳呢度](https://gobaligo.id/map/gojek-fare/)
+[🚗 想預估 Gojek 車費？請撳呢度](/map/gojek-fare/)
 
 我哋嘅峇里島系列影片已經做到第55集喇！呢一集同大家講下峇里島旅遊嘅六大注意事項！
 

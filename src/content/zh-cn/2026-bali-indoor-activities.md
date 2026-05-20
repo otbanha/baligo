@@ -435,7 +435,7 @@ Klook提供了一些新兴的颂钵疗愈服务，让访客在奢华舒适的环
 - [Serendipity Sounds Meditation](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1199540&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113155-sound-healing-and-meditation-at-serendipity-sounds-meditation-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcb611fcf25) (Google评价5.0⭐⭐⭐⭐⭐)
 - [Ubud Sound Yoga And Energy Healing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1199540&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F171223-ubud-sound-yoga-and-energy-healing-experience%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D5dc5342d17)(Google评价4.9⭐⭐⭐⭐⭐)
 
-> [乌布的颂钵疗愈/音疗 Ubud Sound Healing/Singing Bowl Meditation](https://gobaligo.id/blog/2026-02-07-6986c5c0fd897800017582f6/)
+> [乌布的颂钵疗愈/音疗 Ubud Sound Healing/Singing Bowl Meditation](/blog/2026-02-07-6986c5c0fd897800017582f6/)
 
 {{block:klook}}
 

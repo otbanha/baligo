@@ -90,7 +90,7 @@ _srcHash: eb64f1c078536ea1d89543733e2d4d57
 
 2026年巴厘岛省政府（Bali Provincial Government） 联合 印尼中央银行（Bank Indonesia, BI） 以及 巴厘岛旅游局 共同推出一个官方查验平台，通过数字化手段打击长年困扰游客的黑市兑换商诈骗问题。
 
-可以在这里的地图快速找到被认证、合法、安全的所有换汇所：-> [巴厘岛合法换汇所收集](https://gobaligo.id/map/money-changer/)
+可以在这里的地图快速找到被认证、合法、安全的所有换汇所：-> [巴厘岛合法换汇所收集](/map/money-changer/)
 
 ***
 
@@ -134,7 +134,7 @@ https://youtu.be/KPGb6MmwfZw
 - 查看Google评价，选择评价高且评论多的店家。
 - 避免选择汇率超级优惠的店家，因为100%是黑店。
 - **不收手续费（no commission）**，这也是辨别正规业者的方式之一。换汇前先问一句 "Any commission?" 如果对方说有，建议换一家。
-- 我们的主题地图列出经过 **印尼中央银行（Bank Indonesia）** 核发执照的「授权外币兑换商（Authorized Money Changers）」，请查看[这里](https://gobaligo.id/map/money-changer/)。
+- 我们的主题地图列出经过 **印尼中央银行（Bank Indonesia）** 核发执照的「授权外币兑换商（Authorized Money Changers）」，请查看[这里](/map/money-changer/)。
 
 ### **5. 换汇时需要注意什么？**
 

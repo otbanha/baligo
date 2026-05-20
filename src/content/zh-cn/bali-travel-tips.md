@@ -75,7 +75,7 @@ Terima kasih! [谢谢]的意思
 - [印尼/巴厘岛三大必备AP](https://www.youtube.com/watch?v=4p8fliUxn0A&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=8)
 - 如何选择住宿区域？[巴厘岛住宿指南懒人包](https://s.id/baliguide1)
 - 最齐全的巴厘岛分区玩乐攻略
-- 超过300间的优质住宿推荐，[请看这里](https://gobaligo.id/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+- 超过300间的优质住宿推荐，[请看这里](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 {{block:klook}}
 

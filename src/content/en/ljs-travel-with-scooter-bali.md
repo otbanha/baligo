@@ -122,7 +122,7 @@ Although not specifically mentioned in the travelogue, the civet coffee garden i
 
 ![烏布有一處隱藏景點，因為「烏布攻略」的分享而開始受到關注。這裡原本是一間陶瓷工坊，即使不購買陶瓷，也只需付 10K 的入場費，就能在園區裡拍照。場景設計獨特、色彩繽紛，拍出來的效果相當夢幻，尤其深受女性遊客喜愛，被譽為烏布的美拍小秘境。](https://images.gobaligo.id/vocus/vocus_1a757e29d355a841cea2b0d608e6177e.jpg)
 
-[Ubud has a hidden gem that has started gaining attention thanks to the 'Ubud Guide' sharing. Originally a ceramic workshop, visitors can now enter for just IDR 10K (without purchasing ceramics) to explore and take photos in the garden. The scene design is unique and colorful, creating a dreamy effect that is especially beloved by female tourists, earning it the title of Ubud's secret photo spot.](https://gobaligo.id/go/ubud-guide)
+[Ubud has a hidden gem that has started gaining attention thanks to the 'Ubud Guide' sharing. Originally a ceramic workshop, visitors can now enter for just IDR 10K (without purchasing ceramics) to explore and take photos in the garden. The scene design is unique and colorful, creating a dreamy effect that is especially beloved by female tourists, earning it the title of Ubud's secret photo spot.](/go/ubud-guide)
 
 For dinner, we chose the popular and affordable local restaurant **Sun Sun Warung**, which offers hearty portions at very reasonable prices, making it perfect for a satisfying meal and a little indulgence during the trip. We stayed the night again at [Pondok Naya](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=24120992) in Ubud, falling asleep to the serene night view of the rice fields.
 
@@ -148,7 +148,7 @@ After the visit, we rode another 3.5 kilometers to the emerging Instagram hotspo
 
 This place was originally a ceramics workshop. Even if you don't purchase any ceramics, you only need to pay an entrance fee of USD$0.65 to take photos in the compound. The unique scene design and vibrant colors create a dreamy effect, especially beloved by female visitors, earning it the reputation as Ubud's hidden gem for beautiful photos.
 
-For an introduction to **Sari Timbul by Kubu Bali**, refer to the "[Ubud Guide](https://gobaligo.id/go/ubud-guide)" which covers over 100 attractions.
+For an introduction to **Sari Timbul by Kubu Bali**, refer to the "[Ubud Guide](/go/ubud-guide)" which covers over 100 attractions.
 
 After finishing our Ubud itinerary, we first returned to our hotel in Kuta to retrieve our large luggage, then rode to Jimbaran to check into our accommodation for the night, **The Jimbaran Villa by Ini Vie Hospitality**. This villa features a private pool and a tranquil environment, making it particularly suitable for couples or honeymooners.
 

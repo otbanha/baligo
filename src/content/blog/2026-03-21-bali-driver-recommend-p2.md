@@ -12,7 +12,7 @@ shuffle_h2: true
 embeds: []
 ---
 
-第一頁，獲得我們優先推薦的司機在[這裡](https://gobaligo.id/blog/2024-07-07-668aaea7fd89780001981840/)
+第一頁，獲得我們優先推薦的司機在[這裡](/blog/2024-07-07-668aaea7fd89780001981840/)
 
 <!-- shuffle-start -->
 

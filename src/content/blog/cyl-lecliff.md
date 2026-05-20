@@ -112,7 +112,7 @@ Check-in後我給了兩萬印尼盾的小費，真心覺得這是整趟旅程最
 
 住宿詳細介紹：
 
-> [【烏魯瓦圖住宿】Le Cliff Bali 全攻略：烏魯瓦圖懸崖海景第一排、聽著海浪入睡的極致浪漫](https://gobaligo.id/blog/le-cliff-bali/)
+> [【烏魯瓦圖住宿】Le Cliff Bali 全攻略：烏魯瓦圖懸崖海景第一排、聽著海浪入睡的極致浪漫](/blog/le-cliff-bali/)
 
 {{block:遊記}}
 

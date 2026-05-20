@@ -88,7 +88,7 @@ Bali is an excellent choice for family vacations, and we particularly recommend 
 - [Part 1: Seminyak](/blog/2025-02-15-67ac4321fd897800015b9a11/)
 - [Part 2: Ubud](/blog/2025-02-16-67b0a910fd89780001798c4e/)
 - [Part 3: Sanur](/blog/2025-02-22-67b81b4cfd89780001b4a261/)
-- [Part 4: Nusa Dua](https://gobaligo.id/blog/2026-04-02-112654/)
+- [Part 4: Nusa Dua](/blog/2026-04-02-112654/)
 
 ## **Eight Family-Friendly Activities in Seminyak**
 
@@ -232,7 +232,7 @@ Seminyak is a charming area in Bali that blends fashion with tradition, offering
 - [First Episode: Seminyak](/blog/2025-02-15-67ac4321fd897800015b9a11/)
 - [Second Episode: Ubud](/blog/2025-02-16-67b0a910fd89780001798c4e/)
 - [Third Episode: Sanur](/blog/2025-02-22-67b81b4cfd89780001b4a261/)
-- [Fourth Episode: Nusa Dua](https://gobaligo.id/blog/2026-04-02-112654/)
+- [Fourth Episode: Nusa Dua](/blog/2026-04-02-112654/)
 
 ***
 

@@ -80,7 +80,7 @@ Massages in Bali are **one of the best value-for-money experiences in all of Asi
 
 Ubud, Seminyak, and Jimbaran all have plenty of consistently well-reviewed massage parlors with transparent pricing and well-trained therapists. But the quality at random roadside shops can be hit or miss.
 
-Before your trip, check out our curated list of 🔗[**recommended Bali massage spots**](https://gobaligo.id/go/spa) sorted by area—the difference in experience can be night and day.
+Before your trip, check out our curated list of 🔗[**recommended Bali massage spots**](/go/spa) sorted by area—the difference in experience can be night and day.
 
 ***
 
@@ -153,7 +153,7 @@ If you’re planning a trip to Bali or didn’t fully enjoy your last visit, fee
 
 Ask questions directly — no need to figure things out alone. 🙌
 
-> Read more: [Bali Travel Guide: 18 Common Mistakes & Tips](https://gobaligo.id/blog/2024-10-20-6714c06cfd8978000116322a/)
+> Read more: [Bali Travel Guide: 18 Common Mistakes & Tips](/blog/2024-10-20-6714c06cfd8978000116322a/)
 
 {{block:klook}}
 

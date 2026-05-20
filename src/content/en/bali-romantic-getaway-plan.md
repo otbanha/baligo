@@ -37,7 +37,7 @@ Besides the visa, there are two other important online procedures that you shoul
 1. **All Indonesia Entry Card (including e-CD Customs Declaration and SSHP Health Declaration Form)**
 2. **Tourist Levy Payment Receipt**
 
-All four processes above can be completed online as electronic documents. It's actually not difficult to handle, as long as you prepare copies of your passport, flight information, and payment methods in advance. After completion, it's recommended to save the QR Code screenshot to your phone's photo album for faster scanning upon arrival. For detailed procedures, check this out: [Understand Bali's 2026 Entry Changes in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](https://gobaligo.id/blog/2025-08-14-689dcce7fd8978000125fc52/)
+All four processes above can be completed online as electronic documents. It's actually not difficult to handle, as long as you prepare copies of your passport, flight information, and payment methods in advance. After completion, it's recommended to save the QR Code screenshot to your phone's photo album for faster scanning upon arrival. For detailed procedures, check this out: [Understand Bali's 2026 Entry Changes in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2025-08-14-689dcce7fd8978000125fc52/)
 
 Next, our Bali adventure for two begins～🌴
 

@@ -142,7 +142,7 @@ https://youtube.com/shorts/exdiGPLkVjw
 
 On the final day, we returned from Nusa Lembongan to **Sanur Port**. Heeding online advice about the inconvenient transportation around the port, we contacted Ani again to arrange a one-way transfer to **Beachwalk Shopping Center** in Kuta. This decision proved to be absolutely correct. The driver waited punctually outside the pier, and we even asked him to make a detour to Bali Banana for some last-minute shopping. The 40-minute ride cost around USD$19, but what we gained was the most precious 'ease' while dragging our luggage.
 
-> [【Nusa Lembongan/Nusa Penida Travel Guide】Exploring Nusa Lembongan/Nusa Penida Attractions, Food, and Transport: Bali’s Nearby Paradise](https://gobaligo.id/blog/2024-10-23-66adfb9afd89780001f62df1/)
+> [【Nusa Lembongan/Nusa Penida Travel Guide】Exploring Nusa Lembongan/Nusa Penida Attractions, Food, and Transport: Bali’s Nearby Paradise](/blog/2024-10-23-66adfb9afd89780001f62df1/)
 
 ## Conclusion: More Than Just One Beautiful Experience
 
@@ -158,7 +158,7 @@ Did you find [Liao Yi-Wen](https://www.facebook.com/share/p/1CjoK9BEFX/)'s itine
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1c24c907b3071f894b193a7b3d195bba.jpg)
 
-Click here to see more [amazing Bali travel stories](https://gobaligo.id/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB)]
+Click here to see more [amazing Bali travel stories](/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB)]
 
 Do you want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue stand out!
 

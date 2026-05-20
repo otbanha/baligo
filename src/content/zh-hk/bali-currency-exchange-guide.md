@@ -90,7 +90,7 @@ _srcHash: eb64f1c078536ea1d89543733e2d4d57
 
 2026年峇里島省政府（Bali Provincial Government） 聯合 印尼中央銀行（Bank Indonesia, BI） 以及 峇里島旅遊局 共同推出一個官方查驗平台，透過數位化手段打擊長年困擾遊客嘅黑市兌換商詐騙問題。
 
-可以喺呢度嘅地圖快速搵到被認證、合法、安全嘅所有換匯所：-> [峇里島合法換匯所收集](https://gobaligo.id/map/money-changer/)
+可以喺呢度嘅地圖快速搵到被認證、合法、安全嘅所有換匯所：-> [峇里島合法換匯所收集](/map/money-changer/)
 
 ***
 
@@ -134,7 +134,7 @@ https://youtu.be/KPGb6MmwfZw
 - 睇Google評價，揀評價高而且評論多嘅店舖。
 - 避免揀匯率超級優惠嘅店舖，因為100%係黑店。
 - **唔收手續費（no commission）**，呢個亦係分辨正規業者嘅方式之一。換錢前問一句 "Any commission?" 如果對方話有，建議換過間。
-- 我哋嘅主題地圖列出經過 **印尼中央銀行（Bank Indonesia）** 核發牌照嘅「授權外幣兌換商（Authorized Money Changers）」，請睇[呢度](https://gobaligo.id/map/money-changer/)。
+- 我哋嘅主題地圖列出經過 **印尼中央銀行（Bank Indonesia）** 核發牌照嘅「授權外幣兌換商（Authorized Money Changers）」，請睇[呢度](/map/money-changer/)。
 
 ### **5. 換錢時要注意啲咩？**
 

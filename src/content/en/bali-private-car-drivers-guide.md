@@ -223,8 +223,8 @@ Next, we recommend some of the most-reviewed drivers in our community. We don’
 
 <!-- no-shuffle -->
 
-▼More driver recommendations on [next page](https://gobaligo.id/blog/2026-03-21-bali-driver-recommend-p2/)▼
-other recommended drivers on [next page](https://gobaligo.id/blog/2026-03-21-bali-driver-recommend-p2/)
+▼More driver recommendations on [next page](/blog/2026-03-21-bali-driver-recommend-p2/)▼
+other recommended drivers on [next page](/blog/2026-03-21-bali-driver-recommend-p2/)
 
 {{block:klook}}
 

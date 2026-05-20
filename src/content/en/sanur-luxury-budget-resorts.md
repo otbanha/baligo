@@ -278,7 +278,7 @@ All 184 suites, starting at 83 square meters, with no standard rooms. Private ba
 "The rooms are huge, breakfast is fantastic, and the staff is friendly, making for a very relaxing stay."
 "Walking in feels like entering a museum, and the Spa massage was the most unforgettable experience of my Bali trip."
 
-▶[Here](https://gobaligo.id/blog/the-meru-sanur/) for more details
+▶[Here](/blog/the-meru-sanur/) for more details
 
 > Rating: Tripadvisor Highly Recommended | Agoda Guest Rating ⭐ 9.1 (2025 Traveler's Choice Winner)
 > [Click here to check The Meru Sanur's latest rates and availability on Agoda →](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294)

@@ -77,7 +77,7 @@ Here are the useful links mentioned in the video:
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cb23993cde9c417ee4093fb3bd3de849.jpg)
 
-Our recommended accommodations in Bali are all top-rated and meticulously categorized by area. If you're looking for places to stay in Bali, you won't want to miss this! Click [here](https://gobaligo.id/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+Our recommended accommodations in Bali are all top-rated and meticulously categorized by area. If you're looking for places to stay in Bali, you won't want to miss this! Click [here](/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 {{block:住宿}}
 

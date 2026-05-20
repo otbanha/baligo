@@ -189,7 +189,7 @@ https://youtube.com/shorts/TEO6Fnugku8?si=SI042vIiPj0K7Yzv
 
 https://youtube.com/shorts/3HHn9DdLzug
 
-> [【2026 峇里島 AYANA 全攻略】四間酒店點揀？Segara、RIMBA 比較同 Rock Bar 預約秘技](https://gobaligo.id/blog/2023-10-26-653914f6fd89780001fef733/)
+> [【2026 峇里島 AYANA 全攻略】四間酒店點揀？Segara、RIMBA 比較同 Rock Bar 預約秘技](/blog/2023-10-26-653914f6fd89780001fef733/)
 
 ## **Movenpick Resort Jimbaran (莫凡彼)**
 

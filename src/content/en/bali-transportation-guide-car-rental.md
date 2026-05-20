@@ -31,7 +31,7 @@ lang: en
 _srcHash: 07837556459210bb0ac766583c6b1d75
 ---
 
-[🚗 Want to estimate Gojek fares? Click here](https://gobaligo.id/map/gojek-fare/)
+[🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_86a39e40d1c5e42fbdbb7ba5e81f3369.png)
 

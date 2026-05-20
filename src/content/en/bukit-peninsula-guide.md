@@ -73,7 +73,7 @@ Ayana Resort is a renowned luxury destination in Bali, offering stunning cliffsi
 
 Jimbaran Beach is famous for its seafood candlelight dinners, with tables lined along the sand where visitors can enjoy fresh grilled fish, prawns, and other delicacies under a romantic sunset. Accompanied by the sound of waves and the glow of dusk, the atmosphere here is perfect for couples or families to share an unforgettable meal.
 
-> [Jimbaran Seafood Recommendations: 11 Must-Try Seafood Restaurants](https://gobaligo.id/blog/2023-09-17-6506748dfd897800018d6be2/)
+> [Jimbaran Seafood Recommendations: 11 Must-Try Seafood Restaurants](/blog/2023-09-17-6506748dfd897800018d6be2/)
 
 ### **Garuda Wisnu Kencana Cultural Park (GWK Cultural Park)**
 

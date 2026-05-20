@@ -62,7 +62,7 @@ Your passport must have **at least 6 months of validity remaining**. Indonesian 
 - Only $5 cheaper, but saves so much more in time
 - Customs policies are getting stricter by 2026, better to be prepared
 
-👉 [**Complete Visa Guide Here**](https://gobaligo.id/blog?cat=%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C) | [**Post-Landing Process Tutorial**](https://gobaligo.id/blog/2025-08-14-689dcce7fd8978000125fc52/)
+👉 [**Complete Visa Guide Here**](/blog?cat=%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C) | [**Post-Landing Process Tutorial**](/blog/2025-08-14-689dcce7fd8978000125fc52/)
 
 ### 2. Travel Insurance: Don't Skip It
 
@@ -74,7 +74,7 @@ The medical standards in Bali are not as good as in Taiwan. Hospitalization ther
 - Medical expenses (including overseas hospitalization)
 - Trip interruption/lost luggage
 
-Check this out: [Essential Guide for Taiwan, Hong Kong, Malaysia & Singapore Travelers: Insurance Tips, Overseas Medical Coverage & Claim Avoidance](https://gobaligo.id/blog/bali-travel-insurance-guide/)
+Check this out: [Essential Guide for Taiwan, Hong Kong, Malaysia & Singapore Travelers: Insurance Tips, Overseas Medical Coverage & Claim Avoidance](/blog/bali-travel-insurance-guide/)
 
 ### 3. Flight Planning: Avoid Peak Seasons to Save 1/3 of Your Budget
 
@@ -107,7 +107,7 @@ Starting in 2024, every foreign tourist entering Bali will need to pay a tourist
 
 Be sure to keep your receipt, as you may be asked to show it at tourist sites.
 
-👉 [**Latest Guide to Paying the Tourist Levy**](https://gobaligo.id/blog/bali-levy-check-warning/)
+👉 [**Latest Guide to Paying the Tourist Levy**](/blog/bali-levy-check-warning/)
 
 ***
 
@@ -133,7 +133,7 @@ Be sure to keep your receipt, as you may be asked to show it at tourist sites.
 
 💡 **Most common pitfall for beginners**: "I'll bring Taiwanese dollars to Bali!" Don't be naive. Not only is it hard to find shops in Bali that accept Taiwanese dollars, but even if someone does, the exchange rate will be ridiculously bad.
 
-👉 [**Must-read!! Currency Exchange Guide**](https://gobaligo.id/blog/2024-01-28-65b5c7e2fd89780001e96fac/) | [**Scam Money Changer Avoidance Guide**](https://gobaligo.id/blog/2026-02-16-69933020fd89780001dd0275/)
+👉 [**Must-read!! Currency Exchange Guide**](/blog/2024-01-28-65b5c7e2fd89780001e96fac/) | [**Scam Money Changer Avoidance Guide**](/blog/2026-02-16-69933020fd89780001dd0275/)
 
 ### 6. Packing Checklist: What to Bring and What Not to Bring
 
@@ -159,7 +159,7 @@ Be sure to keep your receipt, as you may be asked to show it at tourist sites.
 - Alcoholic beverages exceeding 5 liters
 - Products made from wild animals
 
-👉 [**Complete Packing List: 21 Items**](https://gobaligo.id/blog/2023-02-12-64db6b7efd897800013a9821/) | [**Airline Luggage Regulations**](https://gobaligo.id/blog/2024-01-28-65b62204fd89780001edda35/)
+👉 [**Complete Packing List: 21 Items**](/blog/2023-02-12-64db6b7efd897800013a9821/) | [**Airline Luggage Regulations**](/blog/2024-01-28-65b62204fd89780001edda35/)
 
 ### 7. Mobile Phones and Internet: Don't Use Roaming
 
@@ -176,7 +176,7 @@ Be sure to keep your receipt, as you may be asked to show it at tourist sites.
 - Buy a local SIM card on Klook before departure (pick up at the airport or have it mailed to Taiwan)
 - Or buy directly at the airport upon arrival, Telkomsel (red card) has the best signal
 
-👉 [**Complete SIM Card Guide**](https://gobaligo.id/blog/2024-03-21-65f916bbfd89780001b916e0/)
+👉 [**Complete SIM Card Guide**](/blog/2024-03-21-65f916bbfd89780001b916e0/)
 
 ### 8. Voltage & Plugs: 220V, Bring the Right Adapter
 
@@ -191,7 +191,7 @@ Most laptop and phone chargers support automatic 110-240V conversion (check if i
 
 ![](https://images.gobaligo.id/images/2026-05/1778167260923-plug.png)
 
-👉 [**Complete Voltage & Plug Guide**](https://gobaligo.id/blog/2023-11-30-65686558fd89780001fef654/)
+👉 [**Complete Voltage & Plug Guide**](/blog/2023-11-30-65686558fd89780001fef654/)
 
 ***
 
@@ -253,7 +253,7 @@ While Bali isn't large, each area has a completely different vibe. **For first-t
 - Drawbacks: Attractions are spread out, limited options
 - Accommodation cost: $$ ～ $$$$
 
-👉 [**Complete Area Selection Guide**](https://gobaligo.id/blog/2026-02-24-65839fbafd89780001e876b5/) | [**Accommodation Recommendations by Area**](https://gobaligo.id/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+👉 [**Complete Area Selection Guide**](/blog/2026-02-24-65839fbafd89780001e876b5/) | [**Accommodation Recommendations by Area**](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 ### 11. When is the best time to visit?
 
@@ -275,7 +275,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 💡 **You might not know**: The rainy season isn't as scary as you might think. It usually just means 1-2 hours of afternoon showers, and you can still visit all the attractions. Plus, the rice terraces are at their greenest, hotels are cheapest, and crowds are smallest during the rainy season, making it a secret season for savvy travelers.
 
-👉 [**Complete Guide to Dry and Rainy Seasons**](https://gobaligo.id/blog/2023-12-06-657078edfd89780001f2d88d/) | [**How to Travel During the Rainy Season?**](https://gobaligo.id/blog/2024-01-06-6598c6fffd89780001047d76/)
+👉 [**Complete Guide to Dry and Rainy Seasons**](/blog/2023-12-06-657078edfd89780001f2d88d/) | [**How to Travel During the Rainy Season?**](/blog/2024-01-06-6598c6fffd89780001047d76/)
 
 ### 12. Avoid Peak Seasons and Special Occasions
 
@@ -289,7 +289,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 Avoiding these times can save you 1/3 on airfare and help you escape the crowds.
 
-👉 [**Complete 2026 Bali Peak Season and Festival Calendar**](https://gobaligo.id/blog/2026-01-16-696a37c5fd89780001f0790b/)
+👉 [**Complete 2026 Bali Peak Season and Festival Calendar**](/blog/2026-01-16-696a37c5fd89780001f0790b/)
 
 ### 13. 7 Steps to Plan Your Itinerary
 
@@ -301,7 +301,7 @@ Avoiding these times can save you 1/3 on airfare and help you escape the crowds.
 6. **Create a simple schedule** (One highlight each for morning, afternoon, and evening)
 7. **Leave some free time** (Don't over-schedule, leave room for spontaneous café discoveries)
 
-👉 [**Complete 7-Step Travel Planning Guide**](https://gobaligo.id/blog/2023-12-06-65708c78fd89780001f418c2/) | [**Free Trip Planning Tool**](https://gobaligo.id/trip-planner/)
+👉 [**Complete 7-Step Travel Planning Guide**](/blog/2023-12-06-65708c78fd89780001f418c2/) | [**Free Trip Planning Tool**](/trip-planner/)
 
 ***
 
@@ -324,7 +324,7 @@ Avoiding these times can save you 1/3 on airfare and help you escape the crowds.
 
 **The whole process takes 30-60 minutes if there’s no queue**, so don’t stress.
 
-👉 [**Latest Complete Guide to Entry Procedures**](https://gobaligo.id/blog/2025-08-14-689dcce7fd8978000125fc52/)
+👉 [**Latest Complete Guide to Entry Procedures**](/blog/2025-08-14-689dcce7fd8978000125fc52/)
 
 ### 15. Transportation Options from Airport to Hotel
 
@@ -341,7 +341,7 @@ Avoiding these times can save you 1/3 on airfare and help you escape the crowds.
 
 💡 **Hidden Benefits of Hiring a Driver**: Using the same driver throughout your trip means they know which restaurants won't rip off tourists, the best times to visit attractions with fewer crowds, and where traffic jams are happening that day. This local knowledge is worth the investment.
 
-👉 [**Complete Guide to Private Drivers**](https://gobaligo.id/blog/2024-01-12-65a0a163fd8978000115f37a/) | [**Driver Recommendations**](https://gobaligo.id/blog/2024-07-07-668aaea7fd89780001981840/)
+👉 [**Complete Guide to Private Drivers**](/blog/2024-01-12-65a0a163fd8978000115f37a/) | [**Driver Recommendations**](/blog/2024-07-07-668aaea7fd89780001981840/)
 
 ### 16. Stomach Issues and Bali Belly
 
@@ -361,7 +361,7 @@ https://youtu.be/GivvqCXp11A
 - Drink electrolyte beverages (available in Bali supermarkets)
 - Rest for half a day; symptoms usually improve within a day
 
-👉 [**Complete Guide to Stomach Issues**](https://gobaligo.id/blog/2026-01-02-69523427fd89780001caa652/)
+👉 [**Complete Guide to Stomach Issues**](/blog/2026-01-02-69523427fd89780001caa652/)
 
 ***
 
@@ -423,7 +423,7 @@ Indonesians love it when tourists try to speak their language, even with a funny
 
 💡 **Common Mistake for Beginners:** 3-6 PM is peak traffic time; avoiding this period can save both time and money.
 
-👉 [**Complete Gojek Guide**](https://gobaligo.id/blog/2024-10-13-670b5191fd8978000185cf37/)
+👉 [**Complete Gojek Guide**](/blog/2024-10-13-670b5191fd8978000185cf37/)
 
 ### 21. Beware of Common Scams
 
@@ -431,7 +431,7 @@ Indonesians love it when tourists try to speak their language, even with a funny
 
 [https://youtu.be/LuEXL77-Qh0](https://youtu.be/LuEXL77-Qh0)
 
-👉 [**2026 Complete Scam Guide**](https://gobaligo.id/blog/2026-02-28-69a27e03fd89780001045c82/) | [**Street Scam Examples**](https://gobaligo.id/blog/2024-11-03-67278942fd89780001b5fe3d/)
+👉 [**2026 Complete Scam Guide**](/blog/2026-02-28-69a27e03fd89780001045c82/) | [**Street Scam Examples**](/blog/2024-11-03-67278942fd89780001b5fe3d/)
 
 ### 22. Shopping and Souvenirs
 
@@ -443,8 +443,8 @@ Indonesians love it when tourists try to speak their language, even with a funny
 - **Traditional textiles** (sarongs, fabrics)
 - **Local skincare products** (shea butter, coconut oil skincare)
 
-👉 [**20 Recommended Souvenirs**](https://gobaligo.id/blog/2024-05-22-664dcf84fd8978000131e5f4/)
-👉 [🛍️Ultimate Shopping Guide to Ubud Market: From Handicrafts to Art Collections, Shop to Your Heart's Content!](https://gobaligo.id/blog/2025-10-28-69001b40fd8978000163d378/)
+👉 [**20 Recommended Souvenirs**](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+👉 [🛍️Ultimate Shopping Guide to Ubud Market: From Handicrafts to Art Collections, Shop to Your Heart's Content!](/blog/2025-10-28-69001b40fd8978000163d378/)
 
 ### 23. Cultural Taboos and Respect
 
@@ -468,13 +468,13 @@ Indonesians love it when tourists try to speak their language, even with a funny
 - Wear clothing that covers shoulders and knees when entering temples or villages
 - Polo shirts are acceptable for men in formal settings
 
-👉 [**Complete Guide to Cultural Taboos**](https://gobaligo.id/blog/bali-do-and-dont-2026/)
+👉 [**Complete Guide to Cultural Taboos**](/blog/bali-do-and-dont-2026/)
 
 ### 24. 8 Must-Download Apps
 
 [https://youtube.com/shorts/lltGiElNWBA](https://youtube.com/shorts/lltGiElNWBA)
 
-👉 [**Complete Guide to 8 Essential Apps**](https://gobaligo.id/blog/2024-10-20-670fc5b2fd89780001cea7ed/)
+👉 [**Complete Guide to 8 Essential Apps**](/blog/2024-10-20-670fc5b2fd89780001cea7ed/)
 
 ***
 
@@ -514,7 +514,7 @@ If you don’t want to plan your itinerary at all, there’s a local Bali travel
 
 Although this service is a bit more expensive, it’s worth it for those who value their time.
 
-👉 [**Recommended Travel Agency**](https://gobaligo.id/blog/2024-08-10-66af3861fd897800010e8f6c/)
+👉 [**Recommended Travel Agency**](/blog/2024-08-10-66af3861fd897800010e8f6c/)
 
 ***
 
@@ -528,7 +528,7 @@ Although this service is a bit more expensive, it’s worth it for those who val
 
 **A:** The per person budget for 6 days and 5 nights can range from USD$200 to USD$2,000. We recommend using the tool below:
 
-👉 [**Detailed Budget Calculator**](https://gobaligo.id/bali-budget-calculator/)
+👉 [**Detailed Budget Calculator**](/bali-budget-calculator/)
 
 ### Q: Can I use Taiwanese dollars in Bali?
 
@@ -542,7 +542,7 @@ Although this service is a bit more expensive, it’s worth it for those who val
 
 **A:** Absolutely. During the rainy season (November-March), it’s usually **just 1-2 hours of afternoon showers**, and attractions remain open. In fact, the rainy season has advantages: fewer tourists, hotels are 40-50% cheaper, rice terraces are at their greenest, and Spas are more relaxing. Many experienced travelers specifically choose the rainy season. The downside is unpredictable mountain weather and potential cancellations of some outdoor activities.
 
-👉 [**Complete Rainy Season Guide**](https://gobaligo.id/blog/2024-01-06-6598c6fffd89780001047d76/)
+👉 [**Complete Rainy Season Guide**](/blog/2024-01-06-6598c6fffd89780001047d76/)
 
 ### Q: Do I need to apply for a visa before my first trip to Bali? Can I get a visa on arrival?
 
@@ -580,7 +580,7 @@ The key is "tip those who help you" — the amount doesn't need to be large, att
 
 For beginners, we recommend combining **Seminyak + Ubud** to experience both the beach and culture.
 
-👉 [**Complete Guide to Choosing Areas**](https://gobaligo.id/blog/2026-02-24-65839fbafd89780001e876b5/)
+👉 [**Complete Guide to Choosing Areas**](/blog/2026-02-24-65839fbafd89780001e876b5/)
 
 {{block:住宿}}
 
@@ -588,7 +588,7 @@ For beginners, we recommend combining **Seminyak + Ubud** to experience both the
 
 ## 🎬 See How Others Travel
 
-Hundreds of Taiwanese travelers have shared their first Bali experiences in our community. Our [Travel Stories](https://gobaligo.id/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB) section features authentic tales—what pitfalls they encountered, hidden gems they discovered, and preparations they regretted not making.
+Hundreds of Taiwanese travelers have shared their first Bali experiences in our community. Our [Travel Stories](/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB) section features authentic tales—what pitfalls they encountered, hidden gems they discovered, and preparations they regretted not making.
 
 Reading others' stories can help you avoid 80% of common mistakes in advance.
 
@@ -610,7 +610,7 @@ The next steps are simple:
 
 **Don't overprepare. Sometimes the best journeys come from those unplanned moments.**
 
-Feel free to use our free '[Bali Trip Planner Tool](https://gobaligo.id/trip-planner/)'
+Feel free to use our free '[Bali Trip Planner Tool](/trip-planner/)'
 
 Wishing you an unforgettable journey.
 

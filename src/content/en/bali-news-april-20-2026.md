@@ -38,4 +38,4 @@ Today's (4/20) **Bali** news summary is as follows:
 - **Digital Entry Requirements**: Officials reiterated that before entering Indonesia in 2026, travelers must complete the **e-VOA (Electronic Visa on Arrival)** and **Arrival Card** on the "All Indonesia" official website, as paper processing is no longer available on-site.
 - **Traffic Alert**: Due to the aftermath of yesterday's running event and today's thunderstorms, traffic is slower on the Gianyar to Denpasar route; additionally, ongoing subway construction barriers in the south are increasing, so it is recommended to allow an extra 30 minutes when heading to the airport.
 
-> [「All Indonesia」Arrival Card｜Understand the Latest Process in 1 Minute: From Landing → Customs → Baggage Claim](https://gobaligo.id/blog/2025-08-14-689dcce7fd8978000125fc52/)
+> [「All Indonesia」Arrival Card｜Understand the Latest Process in 1 Minute: From Landing → Customs → Baggage Claim](/blog/2025-08-14-689dcce7fd8978000125fc52/)

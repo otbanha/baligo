@@ -76,7 +76,7 @@ https://youtu.be/GivvqCXp11A
 - ✅ **Showering**: Bring a filtered showerhead (especially for Ubud/stay in guesthouses)
 - ✅ **Drinks**: Ice in restaurants is fine, skip roadside stalls; canned drinks are safest
 - ✅ **Stomach Medicine**: Bring from Taiwan (e.g., Zhang Guozhou Stomach Powder, anti-diarrheal meds)
-- ✅ **If You Get Sick**: [**Check Quick Self-Help Tips Here**](https://gobaligo.id/blog/2026-01-02-69523427fd89780001caa652/)
+- ✅ **If You Get Sick**: [**Check Quick Self-Help Tips Here**](/blog/2026-01-02-69523427fd89780001caa652/)
 
 {{block:親子}}
 

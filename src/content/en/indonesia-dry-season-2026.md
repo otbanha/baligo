@@ -64,7 +64,7 @@ According to the latest weather forecasts, this year's dry season in Indonesia i
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775175669285-reddit.jpeg)
 
-> There are also several '[Take 4 days off for a 9-day holiday](https://gobaligo.id/blog/2026-02-23-6995d6f6fd89780001575756/)' opportunities in the first half of 2026, so plan ahead!
+> There are also several '[Take 4 days off for a 9-day holiday](/blog/2026-02-23-6995d6f6fd89780001575756/)' opportunities in the first half of 2026, so plan ahead!
 
 ## The Exact End Date of the Rainy Season?
 
@@ -138,4 +138,4 @@ A: 1. Sun protection and hydration: As the dry season approaches, UV radiation w
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_97dd578dfb813e3b6110fcd782d9053f.jpg)
 
-[⭐⭐ 【World-Class Wonders】Bali × Yogyakarta Borobudur × Heavenly Light × Blue Flame 7-Day In-Depth Tour](https://gobaligo.id/blog/2025-12-14-693d795efd8978000108c657/)
+[⭐⭐ 【World-Class Wonders】Bali × Yogyakarta Borobudur × Heavenly Light × Blue Flame 7-Day In-Depth Tour](/blog/2025-12-14-693d795efd8978000108c657/)

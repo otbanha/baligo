@@ -75,7 +75,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cb23993cde9c417ee4093fb3bd3de849.jpg)
 
-我们推荐的巴厘岛住宿都是无差评的优质住宿，并且经过详细的分区/分类整理。要找巴厘岛住宿的朋友一定不能错过！请点击[这里](https://gobaligo.id/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+我们推荐的巴厘岛住宿都是无差评的优质住宿，并且经过详细的分区/分类整理。要找巴厘岛住宿的朋友一定不能错过！请点击[这里](/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 {{block:住宿}}
 

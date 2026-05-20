@@ -116,6 +116,6 @@ While durian is available year-round in many parts of Indonesia, in Bali it's mo
 👉 Want to avoid crowds → **February to March is also OK**
 👉 Other times → Depends on luck 😆
 
-> Further reading: [Queen of Tropical Fruits - Indonesia/Bali Mangosteen Season](https://gobaligo.id/blog/2024-04-12-661943c7fd897800016eaf4a/)
+> Further reading: [Queen of Tropical Fruits - Indonesia/Bali Mangosteen Season](/blog/2024-04-12-661943c7fd897800016eaf4a/)
 
 {{block:美食}}

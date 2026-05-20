@@ -217,8 +217,8 @@ _srcHash: 23f4b4755dcf016b582f57788ca2450c
 
 <!-- no-shuffle -->
 
-▼还有更多司机推荐在[下一页](https://gobaligo.id/blog/2026-03-21-bali-driver-recommend-p2/)▼
-other recommended drivers on [next page](https://gobaligo.id/blog/2026-03-21-bali-driver-recommend-p2/)
+▼还有更多司机推荐在[下一页](/blog/2026-03-21-bali-driver-recommend-p2/)▼
+other recommended drivers on [next page](/blog/2026-03-21-bali-driver-recommend-p2/)
 
 {{block:klook}}
 

@@ -75,7 +75,7 @@ Terima kasih! [多謝]嘅意思
 - [印尼/峇里島三大必備AP](https://www.youtube.com/watch?v=4p8fliUxn0A&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=8)
 - 點樣選擇住宿區域？[峇里島住宿指南懶人包](https://s.id/baliguide1)
 - 最齊全嘅峇里島分區玩樂攻略
-- 超過300間嘅優質住宿推薦，[請睇呢度](https://gobaligo.id/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+- 超過300間嘅優質住宿推薦，[請睇呢度](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 {{block:klook}}
 

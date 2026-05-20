@@ -275,7 +275,7 @@ We visited Besakih Temple, where the entrance fee is quite expensive, costing US
 
 For dinner, we went to AKASA Specialty Coffee in Kintamani, a scenic restaurant where the food prices are relatively affordable, and you can pay by card. Here, we enjoyed delicious food while taking in the beautiful views.
 
-> [13 Best Scenic Volcano Cafes/Restaurants in Kintamani, Bali 🌄☕](https://gobaligo.id/blog/2024-11-27-67467629fd897800018d71d1/)
+> [13 Best Scenic Volcano Cafes/Restaurants in Kintamani, Bali 🌄☕](/blog/2024-11-27-67467629fd897800018d71d1/)
 
 ### Accommodation - Batur View Homestay
 
@@ -333,7 +333,7 @@ Provided by Mei Chen
 
 Next, we headed to Tirta Empul Temple, one of Bali's famous attractions. If you're just here for photos, you don't need to enter the water, but if you plan to participate in the purification ritual, be prepared to wait in line for a while.
 
-> [【Tirta Empul Temple Bali】Complete Guide: Process, Taboos, and Must-See Highlights of the Thousand-Year-Old Holy Water Purification Ritual](https://gobaligo.id/blog/2025-06-18-6852cdc2fd89780001e0b7ad/)
+> [【Tirta Empul Temple Bali】Complete Guide: Process, Taboos, and Must-See Highlights of the Thousand-Year-Old Holy Water Purification Ritual](/blog/2025-06-18-6852cdc2fd89780001e0b7ad/)
 
 ### Cantik
 
@@ -345,7 +345,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 Although it may not be a huge surprise for Taiwanese visitors, as a cultural heritage site, it's still worth a visit. We made a special trip to take some photos.
 
-> [Bali Rice Terraces Guide: Tegallalang vs. Jatiluwih - Tickets, Best Seasons & Photo Spots Explained (with Itinerary Suggestions)](https://gobaligo.id/blog/2024-11-15-673167e4fd897800017c44a9/)
+> [Bali Rice Terraces Guide: Tegallalang vs. Jatiluwih - Tickets, Best Seasons & Photo Spots Explained (with Itinerary Suggestions)](/blog/2024-11-15-673167e4fd897800017c44a9/)
 
 ### Tebasari Resto, Bar & Lounge
 
@@ -457,7 +457,7 @@ We visited Pura Ulun Danu Bratan, an important temple in Bali that's definitely 
 
 Along the way, we stopped to try some local durian by the roadside. It was the kind that doesn't have an overpowering smell and was quite pleasant to eat. Although it wasn't cheap (about USD$15 for a 3kg fruit), experiencing local delicacies is always a big part of the fun.
 
-> [🥥Complete Guide to Bali Durian Season｜When is it the Most Fragrant and Cheapest?](https://gobaligo.id/blog/2026-04-07-065104/)
+> [🥥Complete Guide to Bali Durian Season｜When is it the Most Fragrant and Cheapest?](/blog/2026-04-07-065104/)
 
 ### Tanah Lot Temple
 

@@ -17,7 +17,7 @@ lang: zh-hk
 _srcHash: 13f1edb4e28c5ccb5634a54420b4f670
 ---
 
-[🚗 想預估 Gojek 車資？請點擊呢度](https://gobaligo.id/map/gojek-fare/)
+[🚗 想預估 Gojek 車資？請點擊呢度](/map/gojek-fare/)
 
 如果你計劃去峇里島，或者已經喺印尼，咁Gojek絕對係你旅行中或者生活中不可或缺嘅APP。等我哋一齊嚟探索呢款引領潮流嘅便利工具，同埋佢對你嘅旅程所帶嚟嘅改變。
 

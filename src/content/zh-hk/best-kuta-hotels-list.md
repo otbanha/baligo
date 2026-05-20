@@ -33,7 +33,7 @@ _srcHash: 3a9e3320ebda06eb5ea5c4c259333ad7
 
 呢篇整理咗 12 間，分成兩大類：**靠近市區**嘅 10 間同埋**靠近機場**嘅 2 間，等你根據自己嘅旅遊需求對號入座。
 
-**PS. 如果你想搵嘅係海灘旁邊嘅庫塔酒店？請睇**[**呢度**](https://gobaligo.id/blog/kuta-beach-hotels/)
+**PS. 如果你想搵嘅係海灘旁邊嘅庫塔酒店？請睇**[**呢度**](/blog/kuta-beach-hotels/)
 
 ***
 
@@ -495,7 +495,7 @@ Legian 區 Jl. Melasti 上嘅活力型酒店，距離庫塔海灘步行僅 5 分
 
 **訂房建議透過 Agoda 比價**，市區型酒店旺季漲幅通常比海灘酒店細，但 Amnaya 同 Poppies 呢種口碑型精品酒店同樣搶手，建議提早確認。
 
-> 想搵海灘旁嘅庫塔酒店？請睇[呢度](https://gobaligo.id/blog/kuta-beach-hotels/)
+> 想搵海灘旁嘅庫塔酒店？請睇[呢度](/blog/kuta-beach-hotels/)
 
 {{block:kuta}}
 

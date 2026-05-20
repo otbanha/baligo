@@ -41,7 +41,7 @@ Nuanu Creative City is a 44-hectare creative complex located in Tabanan, Bali (s
 
 Nuanu Creative City's core philosophy is rooted in the Balinese tradition of **Tri Hita Karana**, a way of life emphasizing harmony between humans and gods, humans and others, and humans and nature. The landmark **THK Tower** (Tri Hita Karana Tower), designed by architect Arthur Mamou Mani and constructed using reclaimed wood, embodies this philosophy. This spiral tower is not only a visual focal point but also symbolizes the spiritual essence of Nuanu.
 
-For more details on THK Tower, visit [here](/blog/2025-04-18-67a2b251fd897800013ccad4/) (📍 [Map Location](https://gobaligo.id/map/nuanu/))
+For more details on THK Tower, visit [here](/blog/2025-04-18-67a2b251fd897800013ccad4/) (📍 [Map Location](/map/nuanu/))
 
 ![Tri Hita Karana Tower](https://images.gobaligo.id/vocus/vocus_ff4da7325988417852c280cad0d34efb.jpg)
 
@@ -87,7 +87,7 @@ Nuanu Creative City Map
 
 Nuanu Creative City has completed several independent projects, with more currently underway, aiming to eventually reach 50 diverse spaces. These facilities seamlessly blend traditional Balinese elements with modern innovation, including:
 
-### The Earth Sentinels (📍 [Map Location](https://gobaligo.id/map/nuanu/))
+### The Earth Sentinels (📍 [Map Location](/map/nuanu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5dcdfe9ea3388581b2c312023e4c5bc6.jpg)
 
@@ -95,7 +95,7 @@ At the entrance of Nuanu Creative City in Bali, stand two towering 14-meter scul
 
 We have further details available [here](/blog/2025-06-07-68440df9fd89780001afd27b/)
 
-### Aurora Media Park (📍 [Map Location](https://gobaligo.id/map/nuanu/))
+### Aurora Media Park (📍 [Map Location](/map/nuanu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ccadbb50791853d081d5c1d8594d1117.jpg)
 
@@ -103,7 +103,7 @@ Aurora Media Park Bali is a new landmark that integrates nature with interactive
 
 For more details, check out [this link](/blog/2025-02-01-679dddeafd89780001a820fd/)
 
-### Luna Beach Club (📍 [Map Location](https://gobaligo.id/map/nuanu/))
+### Luna Beach Club (📍 [Map Location](/map/nuanu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2ebe42f33b8582367dc14571293e4f30.jpg)
 
@@ -113,7 +113,7 @@ Luna Beach Club, a lifestyle destination within Nuanu Creative City, blends natu
 
 For more details, please see [here](/blog/2025-04-18-67a2c0c0fd897800013f7a3e/)
 
-### Magic Garden (📍 [Map Location](https://gobaligo.id/map/nuanu/))
+### Magic Garden (📍 [Map Location](/map/nuanu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0dc9c81538fe90ee177b3d0b4ec47b86.jpg)
 
@@ -121,7 +121,7 @@ Magic Garden (Enchanted Garden) is a newly opened natural park in November 2024,
 
 For further details, please visit [here](/blog/2025-04-18-679f922ffd89780001f9a868/).
 
-### Pacha Alpaca Alpaca Interaction Picnic: A Natural Classroom for Kids (📍 [Map Location](https://gobaligo.id/map/nuanu/))
+### Pacha Alpaca Alpaca Interaction Picnic: A Natural Classroom for Kids (📍 [Map Location](/map/nuanu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9f5c503cbc02f081c28df1c69935caf4.jpg)
 
@@ -129,7 +129,7 @@ If you're planning a fun and educational family trip, the **Pacha Alpaca Alpaca 
 
 This is a healing journey suitable for the whole family. For a more in-depth introduction, visit [here](/blog/2025-02-01-679e01b3fd89780001addbd9/).
 
-### Labyrinth Collective (📍 [Map Location](https://gobaligo.id/map/nuanu/))
+### Labyrinth Collective (📍 [Map Location](/map/nuanu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a2a71ff6c53251d78f27c760d922bc51.jpg)
 
@@ -149,7 +149,7 @@ Especially the immersive dome theater, which hosts spectacular歌舞秀 every Fr
 
 We have in-depth introductions available [here](/blog/2025-04-18-67a2369cfd897800012db961/)
 
-### Jungle Kids Bali: More Than Just a Playground, It's a Learning Paradise (📍 [Map Location](https://gobaligo.id/map/nuanu/))
+### Jungle Kids Bali: More Than Just a Playground, It's a Learning Paradise (📍 [Map Location](/map/nuanu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1762eae74f516e39616361546f7f4074.png)
 
@@ -157,7 +157,7 @@ This is not just an ordinary playground, but a multifunctional space that combin
 
 For further details, please visit [here](/blog/2025-04-18-67a402f9fd897800017c0313/)
 
-### Lumeira Wellness Bali: The World's Largest Wood-Fired Steam Spa (📍 [Map Location](https://gobaligo.id/map/nuanu/))
+### Lumeira Wellness Bali: The World's Largest Wood-Fired Steam Spa (📍 [Map Location](/map/nuanu/))
 
 ![Lumeira Spa](https://images.gobaligo.id/vocus/vocus_86d1041c74aec25722c47aff5a4588bc.jpg)
 
@@ -183,7 +183,7 @@ Nuanu's Latest Events [Link](https://www.nuanu.com/events)
 
 ## Staying at Nuanu Creative City
 
-### Oshom Bali Hotel（📍 [Map Location](https://gobaligo.id/map/nuanu/)）
+### Oshom Bali Hotel（📍 [Map Location](/map/nuanu/)）
 
 ![Oshom Bali](https://images.gobaligo.id/vocus/vocus_8bd896a4320b070678dc6d67e72c8341.jpg)
 
@@ -193,7 +193,7 @@ The hotel is nestled against a cliff, facing a black sand beach, and features on
 
 For hotel introduction, please see [here](/blog/2025-02-02-679f6ce7fd89780001f18c4a/)
 
-### Nuanu Suites & Accommodations（📍 [Map Location](https://gobaligo.id/map/nuanu/)）
+### Nuanu Suites & Accommodations（📍 [Map Location](/map/nuanu/)）
 
 Nuanu Suites & Accommodations, accommodating 2 to 4 guests, is located at the heart of Nuanu Creative City, blending innovative design with natural surroundings to offer a comfortable and harmonious stay.
 
@@ -203,7 +203,7 @@ Hotel amenities include 4 restaurants, 3 beach bars, spa and massage services, a
 
 ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=63407155)
 
-### Alpaca Lodge（📍 [Map Location](https://gobaligo.id/map/nuanu/)）
+### Alpaca Lodge（📍 [Map Location](/map/nuanu/)）
 
 The 'Cozy Alpaca Bamboo House,' accommodating up to 2 guests, is located in the tranquil alpaca park of Nuanu. This 27-square-meter sustainable bamboo cottage offers a unique accommodation experience that blends seamlessly with nature.
 
@@ -219,7 +219,7 @@ Surrounded by an artistic and ecological atmosphere, it's just a short walk from
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6899d9926a3116e505047c8aca248632.png)
 
-For a detailed map, please see [here](https://gobaligo.id/map/nuanu/).
+For a detailed map, please see [here](/map/nuanu/).
 
 ## Nuanu Creative City Day Tour
 

@@ -46,7 +46,7 @@ We have five episodes introducing Nusa Penida, so let's dive deeper into this is
 
 Nusa Penida Travel Guide Map
 
-[Click here](https://gobaligo.id/map/nusa-penida/) to enlarge and save
+[Click here](/map/nusa-penida/) to enlarge and save
 
 ▼Must-visit spots in Nusa Penida: T-Rex Head & Kelingking Beach
 
@@ -191,7 +191,7 @@ Here are some important tips for visitors traveling to Nusa Penida:
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_eb79c635d635478033f16ade1e50b0ed.png)
 
-[Click here](https://gobaligo.id/map/nusa-penida/) to enlarge and save the map.
+[Click here](/map/nusa-penida/) to enlarge and save the map.
 
 ### We also introduce nine Nusa Penida restaurants featuring infinity pools, golden beaches, and stunning sunset views
 

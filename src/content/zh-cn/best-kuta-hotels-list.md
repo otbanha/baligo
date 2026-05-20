@@ -33,7 +33,7 @@ _srcHash: 3a9e3320ebda06eb5ea5c4c259333ad7
 
 这篇整理 12 间，分成两大类：**靠近市区**的 10 间和**靠近机场**的 2 间，让你依照自己的旅游需求对号入座。
 
-**PS. 如果你想找的是海滩旁的库塔酒店？请看**[**这里**](https://gobaligo.id/blog/kuta-beach-hotels/)
+**PS. 如果你想找的是海滩旁的库塔酒店？请看**[**这里**](/blog/kuta-beach-hotels/)
 
 ***
 
@@ -495,7 +495,7 @@ Legian 区 Jl. Melasti 上的活力型酒店，距库塔海滩步行仅 5 分钟
 
 **订房建议通过 Agoda 比价**，市区型酒店旺季涨幅通常比海滩酒店小，但 Amnaya 和 Poppies 这种口碑型精品酒店同样抢手，建议提前确认。
 
-> 想找海滩旁的库塔酒店？请看[这里](https://gobaligo.id/blog/kuta-beach-hotels/)
+> 想找海滩旁的库塔酒店？请看[这里](/blog/kuta-beach-hotels/)
 
 {{block:kuta}}
 

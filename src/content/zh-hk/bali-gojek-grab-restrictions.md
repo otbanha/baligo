@@ -19,7 +19,7 @@ lang: zh-hk
 _srcHash: bf73cd9ec4c4c9b63fa44c6c1631b495
 ---
 
-[🚗 想預估 Gojek 車資？請點擊呢度](https://gobaligo.id/map/gojek-fare/)
+[🚗 想預估 Gojek 車資？請點擊呢度](/map/gojek-fare/)
 
 ## **🚖 峇里島的士司機抗議後 政府加強監管網約車**
 

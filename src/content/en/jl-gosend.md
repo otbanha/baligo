@@ -71,7 +71,7 @@ Seeing his girlfriend upset, the boyfriend suddenly thought of a possibility:
 He immediately took two actions:
 
 - Contacted the hotel in Seminyak and asked the staff to help search for it
-- Simultaneously downloaded and registered on Gojek (how to download and register can be found [here](https://gobaligo.id/blog/2024-10-13-670b5191fd8978000185cf37/))
+- Simultaneously downloaded and registered on Gojek (how to download and register can be found [here](/blog/2024-10-13-670b5191fd8978000185cf37/))
 
 Soon, good news arrived—the neck pillow was found.
 
@@ -132,7 +132,7 @@ Back in their room, the couple was still in awe of the entire process:
 
 In the end, they decided to add an extra 30,000 IDR as a tip through the platform to express their gratitude.
 
-> [8 Must-Have Apps for Traveling to Indonesia/Bali](https://gobaligo.id/blog/2024-10-20-670fc5b2fd89780001cea7ed/)
+> [8 Must-Have Apps for Traveling to Indonesia/Bali](/blog/2024-10-20-670fc5b2fd89780001cea7ed/)
 
 ***
 

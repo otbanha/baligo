@@ -18,7 +18,7 @@ lang: zh-cn
 _srcHash: 9bda5b981b09e151bce6fb02ebd50996
 ---
 
-[🚗 想预估 Gojek 车资？请点击这里](https://gobaligo.id/map/gojek-fare/)
+[🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
 

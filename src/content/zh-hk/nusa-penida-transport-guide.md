@@ -19,7 +19,7 @@ lang: zh-hk
 _srcHash: b30ffdb437f971bacd1e88f66bdee728
 ---
 
-[🚗 想預估 Gojek 車資？請點擊呢度](https://gobaligo.id/map/gojek-fare/)
+[🚗 想預估 Gojek 車資？請點擊呢度](/map/gojek-fare/)
 
 呢個係我哋介紹努沙佩尼達島呢個神奇島嶼嘅第四集，計劃去努沙佩尼達旅行嘅朋友，你哋可能想知共乘應用程式，例如Grab、Gojek喺呢個島上係咪可以用到。
 

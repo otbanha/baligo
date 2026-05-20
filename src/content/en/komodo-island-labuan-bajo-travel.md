@@ -370,7 +370,7 @@ Unlike typical leisure islands, Labuan Bajo offers diverse and challenging activ
 
 **6. New Regulation: Visitor Limits on Islands**
 
-If your dream travel map includes encounters with the prehistoric Komodo dragon or the surreal Pink Beach, this 2026 update might disrupt your plans. To protect this fragile paradise, the Indonesian government has officially implemented strict visitor limits in Komodo National Park. The spontaneous "go-as-you-please" approach of arriving at the dock and setting off immediately will become a thing of the past in 2026. Now, every encounter with these giants requires precise reservations and advance planning. (For details, see [here](https://gobaligo.id/blog/komodo-booking-2026/))
+If your dream travel map includes encounters with the prehistoric Komodo dragon or the surreal Pink Beach, this 2026 update might disrupt your plans. To protect this fragile paradise, the Indonesian government has officially implemented strict visitor limits in Komodo National Park. The spontaneous "go-as-you-please" approach of arriving at the dock and setting off immediately will become a thing of the past in 2026. Now, every encounter with these giants requires precise reservations and advance planning. (For details, see [here](/blog/komodo-booking-2026/))
 
 ### **Why Choose a Professional Itinerary?**
 
@@ -419,7 +419,7 @@ Absolutely suitable, with tours catering to both seniors and children, as well a
 
 ## Other Island Guides
 
-- [Bali - Complete Guide to Nusa Penida: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](https://gobaligo.id/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [Lembongan Island/Blue Lagoon Island Attractions Guide: Exploring Blue Lagoon Island/Golden Island Attractions, Food, Transportation: Bali's Nearby Paradise](https://gobaligo.id/blog/2024-10-23-66adfb9afd89780001f62df1/)
+- [Bali - Complete Guide to Nusa Penida: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)
+- [Lembongan Island/Blue Lagoon Island Attractions Guide: Exploring Blue Lagoon Island/Golden Island Attractions, Food, Transportation: Bali's Nearby Paradise](/blog/2024-10-23-66adfb9afd89780001f62df1/)
 
 ***

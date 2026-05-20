@@ -26,7 +26,7 @@ lang: en
 _srcHash: 30a795da79f5c5b8d0325e8dbfbeedb0
 ---
 
-[🚗 Want to estimate Gojek fares? Click here](https://gobaligo.id/map/gojek-fare/)
+[🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)
 
 When traveling or living in Indonesia or Bali, you must be familiar with **Gojek**. As one of Indonesia's most popular sharing economy platforms, Gojek not only provides transportation services but also various food delivery, shopping, and financial payment services. One of its key features is its closely integrated payment system—**GoPay**. This article will delve into all aspects of Gojek and GoPay, providing you with a detailed guide on how to register and use these services, helping you live more conveniently and easily in Indonesia.
 

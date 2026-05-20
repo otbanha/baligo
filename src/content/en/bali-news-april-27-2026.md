@@ -35,10 +35,10 @@ _srcHash: 05819fdadba93775e6c46ef4589fb371
 
 - **Water Taxi Project**: The Ministry of Transportation announced a new plan today, with state-owned ferry company ASDP developing a water taxi route connecting the airport to Canggu. Construction is set to begin in August 2026, aiming to address current 1-2 hour ground travel delays by offering an alternative sea route.
 
-> What is a water taxi? Learn more [here](https://gobaligo.id/blog/2026-04-12-043821/)
+> What is a water taxi? Learn more [here](/blog/2026-04-12-043821/)
 
 - **Tourism Levy "Secondary Checkpoint"**: Starting today, Ngurah Rai Airport (DPS) has officially established a "**Levy Vouchers**" secondary checkpoint lane between the arrival hall and pick-up area. Visitors who have not paid the **IDR 150,000** tourism levy will be required to scan a QRIS code on-site for immediate payment. Avoidance is impossible, so tourists are advised to prepare in advance.
 
-> [Can't Escape the Tourism Levy! "Secondary Checkpoint" Officially Launched: Latest Payment Process, Penalties, and Tips](https://gobaligo.id/blog/bali-levy-check-warning/)
+> [Can't Escape the Tourism Levy! "Secondary Checkpoint" Officially Launched: Latest Payment Process, Penalties, and Tips](/blog/bali-levy-check-warning/)
 
 - **Subway Construction Update**: The tunnel boring machine for Bali's Subway (Phase 1) is currently operating 30 meters underground. Authorities have reaffirmed that the construction process strictly adheres to cultural preservation regulations, ensuring no impact on surface landscapes. However, there will be increased large vehicle traffic around some drilling sites, so please exercise caution for road safety.

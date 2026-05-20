@@ -31,7 +31,7 @@ _srcHash: 287dfba7dd009534d6b0494487e976e0
 - **"Unpaid Collaboration, Mutual Business Benefits" Also Subject to Violation Crackdowns**: The Immigration Bureau recently clarified the controversial "mutual shooting" practice: even if there is no monetary transaction involved, activities such as "unpaid promotions, mutual modeling, cosmetic collaborations, or influencer endorsements" are legally considered "work" if they hold economic or brand investment value. Foreign influencers, photographers, or freelancers on tourist visas (including e-VOA) producing such content will face fines or blacklisting.
 - **Emergence of "Low-Density Slow Travel" Destinations**: As southern Bali becomes overdeveloped, digital nomads and high-end travelers in 2026 are increasingly gravitating toward Seraya (known for its网红 lighthouse), Penglipuran (the world's cleanest traditional village), and Menjangan Island. These emerging hotspots emphasize "low density, eco-friendly villas, and integration into local community life" and offer more stable long-term rental options, gradually reshaping the island's tourism map.
 
-> [Time-Travel to Penglipuran Village: Experience Bali's Ancient Charm](https://gobaligo.id/blog/2023-08-26-64e9e8e9fd89780001f28d6b/)
+> [Time-Travel to Penglipuran Village: Experience Bali's Ancient Charm](/blog/2023-08-26-64e9e8e9fd89780001f28d6b/)
 
 
-> [穿越時空的 Penglipuran 村莊：體驗峇里古老的魅力](https://gobaligo.id/blog/2023-08-26-64e9e8e9fd89780001f28d6b/)
+> [穿越時空的 Penglipuran 村莊：體驗峇里古老的魅力](/blog/2023-08-26-64e9e8e9fd89780001f28d6b/)

@@ -71,7 +71,7 @@ https://youtube.com/shorts/0f-eAQ78no4
 
 若你对渔村文化感兴趣，也可以选择 **海上垂钓体验**。不少当地渔夫会带领游客一起出海钓鱼，亲自体验他们日常的生活节奏。捕到鱼后还能由当地餐厅代为料理，吃一顿真正「现钓现煮」的海味晚餐。
 
-### Sunset Point（📍[地图位置](https://gobaligo.id/map/amed/)）
+### Sunset Point（📍[地图位置](/map/amed/)）
 
 ![由於地形的關係，很神奇的是Sunset Point這個角度面向西邊](https://images.gobaligo.id/vocus/vocus_5b312da0651b1112f4c52963c74fa9ee.jpg)
 
@@ -93,7 +93,7 @@ https://youtube.com/shorts/0f-eAQ78no4
 
 艾眉与土兰奔原本就是传统的渔村，因此新鲜海产自然是这里的餐桌主角。
 
-### 这一带有名的9家餐馆（📍[地图位置](https://gobaligo.id/map/amed/)）
+### 这一带有名的9家餐馆（📍[地图位置](/map/amed/)）
 
 **1. Warung Agung Amed**
 
@@ -163,7 +163,7 @@ https://youtu.be/PgGyeZIXHwc?si=HdhPdTL9fs_kHUv7
 
 ***
 
-## 推荐住宿区域（📍[地图位置](https://gobaligo.id/map/amed/)）
+## 推荐住宿区域（📍[地图位置](/map/amed/)）
 
 虽然艾眉与土兰奔的住宿选择不如巴厘岛南部丰富，但这里的度假村与民宿大多贴近自然、充满当地风情。若你的主要行程包括浮潜与放松，建议选择住在 **Jemeluk Bay** 或 **Lipah Beach** 附近。这两个区域拥有极佳的浮潜环境，珊瑚礁就紧邻海岸，不需舟车劳顿，从住宿出门便能直接下水，省时又便利。
 
@@ -249,7 +249,7 @@ https://youtube.com/shorts/XS1j72uEtTY
 
 ## 攻略地图
 
-我们将以上提到的地点都整理在「Amed/Tulamben攻略地图」，[点我](https://gobaligo.id/map/amed/)放大/收藏
+我们将以上提到的地点都整理在「Amed/Tulamben攻略地图」，[点我](/map/amed/)放大/收藏
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9422f8946b1dbb2f0592bc5416a32b91.png)
 

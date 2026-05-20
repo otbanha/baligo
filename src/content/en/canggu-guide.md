@@ -42,7 +42,7 @@ Below, we introduce 100 must-visit spots in Canggu, a treasure trove where trend
 
 Zoomable/Savable Canggu Guide Map
 
-## Batu Bolong Beach Surfing (👉🏼Map: [Must-Visit Spots in Canggu](https://gobaligo.id/map/canggu/))
+## Batu Bolong Beach Surfing (👉🏼Map: [Must-Visit Spots in Canggu](/map/canggu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_746c8e4349c70e6b5b774f1bfdbbe125.jpg)
 
@@ -56,13 +56,13 @@ Refer to the "Canggu Guide Map" at the bottom for location details.
 
 > [Surf Blue Waves Surfing Course](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F137189-surfing-lesson-in-canggu-bali-by-surf-blue-waves%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd4402db3d3)
 
-## **Enjoy Fine Dining at Sunset Beach (👉🏼 Map:** [Must-Visit Spots in Canggu](https://gobaligo.id/map/canggu/)**)**
+## **Enjoy Fine Dining at Sunset Beach (👉🏼 Map:** [Must-Visit Spots in Canggu](/map/canggu/)**)**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_81ffd3b9fb1d01235e888d9ea583959a.jpg)
 
 The beach area of Canggu offers many charming restaurants, especially during sunset. Choose a beachfront restaurant to savor delicious local and international cuisine while basking in the golden glow of the setting sun. This dining experience will undoubtedly add a romantic touch to your Bali trip.
 
-## **Immerse Yourself in Beach Club Fun (👉🏼 Map:** [Must-Visit Spots in Canggu](https://gobaligo.id/map/canggu/)**)**
+## **Immerse Yourself in Beach Club Fun (👉🏼 Map:** [Must-Visit Spots in Canggu](/map/canggu/)**)**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3a943928e41a400088025840e732cf37.jpg)
 
@@ -78,7 +78,7 @@ Canggu is renowned for its trendy and modern beach clubs, where music, food, and
 
 > [La Brisa Official Website](https://labrisa-bali.com/)
 
-## **Nighttime Happy Hour (👉🏼 Map:** [Must-Visit Spots in Canggu](https://gobaligo.id/map/canggu/)**)**
+## **Nighttime Happy Hour (👉🏼 Map:** [Must-Visit Spots in Canggu](/map/canggu/)**)**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a177c09bc3d7bcaccf7bda112617a516.jpg)
 
@@ -86,7 +86,7 @@ Canggu's nightlife is equally vibrant, becoming even livelier after the sun sets
 
 > [Atlas Superclub Admission Ticket](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F83936-w-atlas-superclub-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df3550d2c3d)
 
-## **Shopping in Canggu (👉🏼 Map:** [Must-Visit Spots in Canggu](https://gobaligo.id/map/canggu/)**)**
+## **Shopping in Canggu (👉🏼 Map:** [Must-Visit Spots in Canggu](/map/canggu/)**)**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_eb4b84e671cf94d87ca3f2397d58e42c.jpg)
 
@@ -94,7 +94,7 @@ The Canggu area is one of Bali's popular shopping destinations, especially [Love
 
 Refer to the "Canggu Guide Map" at the bottom for location details.
 
-## **La Brisa's Sunday Market (👉🏼 Map:** [Must-Visit Spots in Canggu](https://gobaligo.id/map/canggu/)**)**
+## **La Brisa's Sunday Market (👉🏼 Map:** [Must-Visit Spots in Canggu](/map/canggu/)**)**
 
 https://youtube.com/shorts/f0N6FE2dxys
 
@@ -102,7 +102,7 @@ La Brisa is a prestigious beach club in the Canggu area, and their Sunday Market
 
 La Brisa's Sunday Market offers a unique shopping experience, allowing you to bring home some special and beautiful memories from your trip to Bali.
 
-## Samadi Sunday Market (📌[Map](https://gobaligo.id/map/canggu/))
+## Samadi Sunday Market (📌[Map](/map/canggu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_89b4424ac71b1812936b12f6f58b9ec5.jpg)
 
@@ -156,7 +156,7 @@ Dining in Canggu is not just a treat for your taste buds but also a cultural and
 
 > [Canggu Cultural Dining Experience Voucher](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90526-dining-experience-hotel-tugu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db101cc332d)
 
-## Visit Tanah Lot Temple**（👉🏼Map:**[Must-Visit Spots in Canggu](https://gobaligo.id/map/canggu/)**）**
+## Visit Tanah Lot Temple**（👉🏼Map:**[Must-Visit Spots in Canggu](/map/canggu/)**）**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_27727cc971e3c80e5832f4bb4398567c.jpg)
 
@@ -170,7 +170,7 @@ Not far north of Canggu, you absolutely cannot miss the ancient and sacred site 
 
 > Tanah Lot [De Jukung Resto And Bar Dining Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7e69998076)
 
-## Horseback Riding on the Beach**（👉🏼Map:**[Must-Visit Spots in Canggu](https://gobaligo.id/map/canggu/)**）**
+## Horseback Riding on the Beach**（👉🏼Map:**[Must-Visit Spots in Canggu](/map/canggu/)**）**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e13018219f8210353afd1681c4276881.png)
 
@@ -188,7 +188,7 @@ Riding ATVs on the beach is not only an exhilarating activity but also a great g
 
 > [Beach ATV Off-Road Riding Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1013908&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94062-atv-ride-experience-on-beach-bali-tabanan-bali-indonesia%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7d8ce84cbf)
 
-## **Cafe & Food Adventure（👉🏼Map:**[**Canggu Dining/Cafe Recommendations**](https://gobaligo.id/map/canggu/)**）**
+## **Cafe & Food Adventure（👉🏼Map:**[**Canggu Dining/Cafe Recommendations**](/map/canggu/)**）**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fb14d08a33d5af623ce7a1edbcc7d450.jpg)
 
@@ -202,9 +202,9 @@ Check out our Canggu Food Guide Map featuring over 30 restaurants and cafes — 
 
 ![我們介紹了30多家Canggu的美食餐廳，請點我！](https://images.gobaligo.id/vocus/vocus_36a3c4791af3343f16222c849dcbed08.jpg)
 
-[We've curated over 30 amazing food spots in Canggu — click here to explore!](https://gobaligo.id/map/canggu/)
+[We've curated over 30 amazing food spots in Canggu — click here to explore!](/map/canggu/)
 
-## Discounted Dining Experiences**（👉🏼Map:** [**Discounted Dining Experiences**](https://gobaligo.id/map/canggu/)）
+## Discounted Dining Experiences**（👉🏼Map:** [**Discounted Dining Experiences**](/map/canggu/)）
 
 🌟4.3-star Google-rated [De Jukung Resto And Bar Dining Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7e69998076)
 
@@ -232,7 +232,7 @@ A budget-friendly seafood restaurant run by Taiwanese locals, offering fresh and
 
 When visiting Bali, you must try the local cuisine! What are some of Bali's local delicacies? Check out Jay's guide to the "[Top 10 Local Foods in Bali](/blog/2023-08-15-64db6b7dfd897800013a97bc/)" for a culinary adventure.
 
-## The Wheel Ferris Wheel**（👉🏼Map:** [Must-Visit Spots in Canggu](https://gobaligo.id/map/canggu/)**）**
+## The Wheel Ferris Wheel**（👉🏼Map:** [Must-Visit Spots in Canggu](/map/canggu/)**）**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5cc13d1fa69600daaa8c19f4e6c13164.jpg)
 
@@ -262,7 +262,7 @@ Bali is a paradise for spa enthusiasts, and the Canggu area boasts some high-qua
 
 > Canggu [Home Service Massage](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
 
-## Family Fun **（👉🏼Map:** [Must-Visit Spots in Canggu](https://gobaligo.id/map/canggu/)**）**
+## Family Fun **（👉🏼Map:** [Must-Visit Spots in Canggu](/map/canggu/)**）**
 
 ### 1.**Mookiland Park Bali**
 
@@ -308,7 +308,7 @@ If you're looking for a family-friendly attraction in Bali, **Pacha Alpaca Alpac
 
 Pacha Alpaca offers various ticket options, including guided interactions, alpaca photography, picnic experiences, and bamboo hut stays, catering to different family needs. Whether you want to relax or let your kids explore nature to their heart's content, this place promises a healing and joyful adventure. Book your exclusive experience now and spend a wonderful time with the alpacas! For more details and official booking links, check out [this link](/blog/2025-02-01-679e01b3fd89780001addbd9/).
 
-## Newly Opened Beach/Pool Clubs in 2024 **（👉🏼 Map:** [Must-Visit Spots in Canggu](https://gobaligo.id/map/canggu/)**）**
+## Newly Opened Beach/Pool Clubs in 2024 **（👉🏼 Map:** [Must-Visit Spots in Canggu](/map/canggu/)**）**
 
 ### 1. Sol Rooftop
 
