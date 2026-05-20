@@ -12,7 +12,7 @@ shuffle_h2: true
 embeds: []
 ---
 
-第一頁，獲得我們優先推薦的司機在[這裡](/blog/2024-07-07-668aaea7fd89780001981840/)
+第一頁，獲得我們優先推薦的司機在[這裡](https://gobaligo.id/blog/2024-07-07-668aaea7fd89780001981840/)
 
 <!-- shuffle-start -->
 
@@ -134,7 +134,7 @@ embeds: []
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
 
-👍🏼[網友推薦1 ](https://www.facebook.com/share/p/1Cd1X626mG/)👍🏼[網友推薦2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1DvCnKCrA7/)
+👍🏼[網友推薦1 ](https://www.facebook.com/share/p/1Cd1X626mG/)👍🏼[網友推薦2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1DvCnKCrA7/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/17i5s3LAJF/)
 
 {{block:klook}}.
 
