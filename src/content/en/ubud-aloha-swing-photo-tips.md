@@ -38,6 +38,6 @@ https://youtu.be/_Lvp9cIVYz8
 
 ## More About Ubud Swings
 
-[Ultimate Ubud Swing Guide: Top 8 Most Beautiful Jungle Swings, Dress Rental Tips, Photography Angles & Crowd Avoidance Strategies](https://gobaligo.id/blog/2025-08-15-689eb518fd897800014fbb28/)
+[Ultimate Ubud Swing Guide: Top 8 Most Beautiful Jungle Swings, Dress Rental Tips, Photography Angles & Crowd Avoidance Strategies](/blog/2025-08-15-689eb518fd897800014fbb28/)
 
 {{block:ubud}}

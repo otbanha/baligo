@@ -420,7 +420,7 @@ If you prefer independent travel but don't know how to plan a perfect Bali trip,
 
 1️⃣ First, we strongly recommend checking out our "[Bali Free Travel Itinerary Planning Guide](/blog/2023-12-06-65708c78fd89780001f418c2/)". With just seven steps, you can easily arrange your Bali trip, covering everything from transportation, attractions to accommodations — we've got it all figured out for you!
 
-2️⃣ Additionally, we've compiled valuable experiences from our community friends. As of 2024, we've collected over 70 Bali travel itinerary shares and real experiences. Each one is packed with practical information and interesting stories, making them an excellent source of inspiration for your trip planning! Click here to learn more 👉 "[Bali Travelogue Collection](https://gobaligo.id/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB)"
+2️⃣ Additionally, we've compiled valuable experiences from our community friends. As of 2024, we've collected over 70 Bali travel itinerary shares and real experiences. Each one is packed with practical information and interesting stories, making them an excellent source of inspiration for your trip planning! Click here to learn more 👉 "[Bali Travelogue Collection](/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB)"
 
 ***
 

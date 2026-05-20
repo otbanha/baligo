@@ -80,7 +80,7 @@ At 600m elevation, it's 4–6°C cooler than Kuta or Ubud city areas. Early morn
 | Ubud | Approximately 1.5–2 hours | Mountain route east through Klungkung |
 | Amed | Approximately 45 minutes | Closest, preferred base for eastern visitors |
 
-👉 [Map and Overview of Eastern Bali Attractions](https://gobaligo.id/map/ubud/) | [Day Trip Itinerary from Ubud to Eastern Bali](/blog/bali-east-tour-guide/)
+👉 [Map and Overview of Eastern Bali Attractions](/map/ubud/) | [Day Trip Itinerary from Ubud to Eastern Bali](/blog/bali-east-tour-guide/)
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1779103229342-_2026-05-18_18.20.11.png)
 
@@ -359,7 +359,7 @@ The Gates of Heaven is located in the east, and you can arrange to visit 2–3 o
 
 **Private Driver Quotes:**
 
-If you want to arrange your own itinerary and have flexible control over your time, you can inquire with [locally recommended private drivers](https://gobaligo.id/blog/bali-private-car-drivers-guide/). They are familiar with eastern routes and know the best times to visit the Gates of Heaven with fewer crowds.
+If you want to arrange your own itinerary and have flexible control over your time, you can inquire with [locally recommended private drivers](/blog/bali-private-car-drivers-guide/). They are familiar with eastern routes and know the best times to visit the Gates of Heaven with fewer crowds.
 
 **Continue Planning Your Bali Trip:**
 
@@ -377,7 +377,7 @@ If you want to arrange your own itinerary and have flexible control over your ti
     "name": "Lempuyang Temple — Gates of Heaven",
     "alternateName": ["Pura Penataran Agung Lempuyang", "Gate of Heaven Bali", "Gates of Heaven"],
     "description": "Located in Karangasem Regency in eastern Bali, the Lempuyang Temple complex is famous for its iconic split gate known as the Gates of Heaven, with Mount Agung in the background. The complex consists of six temples, stretching from 600m to the summit at 1,175m at Pura Lempuyang Luhur, one of Bali's nine directional temples.",
-    "url": "https://gobaligo.id/blog/lempuyang-temple-sky-gate/",
+    "url": "/blog/lempuyang-temple-sky-gate/",
     "image": "https://images.gobaligo.id/vocus/vocus_88e2ce61a3a5ae9cc7db014f3bf3bbfe.png",
     "isAccessibleForFree": false,
     "publicAccess": true,
@@ -495,19 +495,19 @@ If you want to arrange your own itinerary and have flexible control over your ti
         "@type": "ListItem",
         "position": 1,
         "name": "Home",
-        "item": "https://gobaligo.id/"
+        "item": "/"
       },
       {
         "@type": "ListItem",
         "position": 2,
         "name": "Bali Attractions",
-        "item": "https://gobaligo.id/blog?cat=%E7%BE%8E%E9%A3%9F%E6%99%AF%E9%BB%9E%E6%B4%BB%E5%8B%95"
+        "item": "/blog?cat=%E7%BE%8E%E9%A3%9F%E6%99%AF%E9%BB%9E%E6%B4%BB%E5%8B%95"
       },
       {
         "@type": "ListItem",
         "position": 3,
         "name": "Lempuyang Gates of Heaven In-Depth Guide",
-        "item": "https://gobaligo.id/blog/lempuyang-temple-sky-gate/"
+        "item": "/blog/lempuyang-temple-sky-gate/"
       }
     ]
   }

@@ -20,7 +20,7 @@ lang: en
 _srcHash: 13f1edb4e28c5ccb5634a54420b4f670
 ---
 
-[🚗 Want to estimate Gojek fares? Click here](https://gobaligo.id/map/gojek-fare/)
+[🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)
 
 If you're planning a trip to Bali or are already in Indonesia, then Gojek is an absolutely essential app for your travels or daily life. Let's explore this trendsetting convenience tool and how it can transform your journey.
 

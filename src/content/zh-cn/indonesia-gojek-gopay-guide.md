@@ -18,7 +18,7 @@ lang: zh-cn
 _srcHash: 30a795da79f5c5b8d0325e8dbfbeedb0
 ---
 
-[🚗 想预估 Gojek 车资？请点击这里](https://gobaligo.id/map/gojek-fare/)
+[🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
 
 在印尼或巴厘岛旅行或居住，大家对**Gojek**这个名字一定不陌生。作为印尼最受欢迎的共享经济平台之一，Gojek不仅仅提供交通服务，还有各种外卖、购物、金融支付等服务。而其中一项重要功能，便是与其紧密结合的支付系统——**GoPay**。本文将深入探讨Gojek与GoPay的方方面面，并为您详细介绍如何注册和使用这些服务，帮助您在印尼更轻松便捷地生活。
 

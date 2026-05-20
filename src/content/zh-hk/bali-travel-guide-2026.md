@@ -75,7 +75,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cb23993cde9c417ee4093fb3bd3de849.jpg)
 
-我哋推薦嘅峇里島住宿都係無負評嘅優質住宿，並且經過詳細嘅分區/分類整理。要搵峇里島住宿嘅朋友一定唔可以錯過！請點擊[呢度](https://gobaligo.id/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
+我哋推薦嘅峇里島住宿都係無負評嘅優質住宿，並且經過詳細嘅分區/分類整理。要搵峇里島住宿嘅朋友一定唔可以錯過！請點擊[呢度](/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)
 
 {{block:住宿}}
 

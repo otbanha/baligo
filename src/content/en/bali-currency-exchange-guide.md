@@ -99,7 +99,7 @@ Authorized money changers will have a green shield-shaped PVA Berizin (full name
 
 In 2026, the Bali Provincial Government, together with Bank Indonesia (BI) and the Bali Tourism Board, launched an official verification platform to combat the long-standing issue of black market money changer scams through digital means.
 
-You can quickly find all certified, legal, and safe money changers on this map: -> [Bali Certified Money Changers Collection](https://gobaligo.id/map/money-changer/)
+You can quickly find all certified, legal, and safe money changers on this map: -> [Bali Certified Money Changers Collection](/map/money-changer/)
 
 ***
 
@@ -143,7 +143,7 @@ Avoid exchanging currency at the airport, as the rates are usually worse.
 - Check Google reviews and opt for establishments with high ratings and numerous reviews.
 - Avoid places offering exceptionally favorable rates, as they are almost certainly scams.
 - **No commission (no commission)** is another way to identify legitimate operators. Before exchanging, ask "Any commission?" If they say yes, find another place.
-- Our thematic map lists authorized money changers licensed by **Bank Indonesia**. Check it out [here](https://gobaligo.id/map/money-changer/).
+- Our thematic map lists authorized money changers licensed by **Bank Indonesia**. Check it out [here](/map/money-changer/).
 
 ### **5. What to Pay Attention to When Exchanging Currency?**
 

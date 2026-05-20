@@ -20,7 +20,7 @@ lang: zh-cn
 _srcHash: b30ffdb437f971bacd1e88f66bdee728
 ---
 
-[🚗 想预估 Gojek 车资？请点击这里](https://gobaligo.id/map/gojek-fare/)
+[🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
 
 这是我们介绍Nusa Penida（中文翻译：努沙佩尼达岛、佩尼达岛）这个神奇的岛屿的第四集，计划前往努沙佩尼达旅行的朋友们，您们可能想知道共乘应用程序，如Grab、Gojek是否在该岛上可用。
 

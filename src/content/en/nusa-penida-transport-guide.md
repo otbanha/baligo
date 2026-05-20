@@ -24,7 +24,7 @@ lang: en
 _srcHash: b30ffdb437f971bacd1e88f66bdee728
 ---
 
-[🚗 Want to estimate Gojek fares? Click here](https://gobaligo.id/map/gojek-fare/)
+[🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)
 
 This is the fourth installment in our series introducing the magical island of Nusa Penida. If you're planning a trip to Nusa Penida, you might be wondering whether ride-sharing apps like Grab and Gojek are available on the island.
 

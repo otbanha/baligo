@@ -193,6 +193,6 @@ Having introduced the stunning ocean-view luxury accommodations available in Jim
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b3a5c8f9a1eaea6500f8c5ea37d5abd7.png)
 
-Looking for recommendations on what to do, see, and explore in Jimbaran? Don't forget to check out our comprehensive '[Jimbaran Complete Guide](https://gobaligo.id/blog/2023-11-09-654b8438fd897800016bf4cc/)'!
+Looking for recommendations on what to do, see, and explore in Jimbaran? Don't forget to check out our comprehensive '[Jimbaran Complete Guide](/blog/2023-11-09-654b8438fd897800016bf4cc/)'!
 
 {{block:住宿}}

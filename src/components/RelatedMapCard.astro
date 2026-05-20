@@ -5,9 +5,10 @@ import { getMapBySlug } from '../data/maps';
 interface Props {
   blogUrl: string;
   position: 'hero' | 'inline' | 'footer';
+  lang?: string;
 }
 
-const { blogUrl, position } = Astro.props;
+const { blogUrl, position, lang } = Astro.props;
 
 const mapSlug = getMapSlugByBlogUrl(blogUrl);
 if (!mapSlug) return;
@@ -17,20 +18,29 @@ if (!mapArea) return;
 
 const mapUrl = `/map/${mapSlug}/`;
 
+const isEn = lang === 'en';
+const isZhCn = lang === 'zh-cn';
+
+const displayName = isEn ? mapArea.nameEn : mapArea.name;
+const mapSuffix = isEn ? 'Map' : isZhCn ? '互动地图' : '互動地圖';
+const heroCtaText = isEn
+  ? 'Interactive Map: View all locations on the map'
+  : isZhCn
+  ? '互动地图版本：在地图上查看本文所有地点'
+  : '互動地圖版本：在地圖上查看本文所有地點';
+
 const anchorText =
   position === 'hero'
-    ? `互動地圖版本：在地圖上查看本文所有地點`
-    : position === 'inline'
-    ? mapArea.name + '地圖'
-    : mapArea.name + '地圖';
+    ? heroCtaText
+    : `${displayName} ${mapSuffix}`;
 ---
 
 {position === 'hero' && (
   <div class="related-map-card">
     <div class="related-map-card__icon">🗺️</div>
     <div class="related-map-card__body">
-      <p class="related-map-card__title">{mapArea.emoji} {mapArea.name}互動地圖</p>
-      <p class="related-map-card__desc">{mapArea.description}</p>
+      <p class="related-map-card__title">{mapArea.emoji} {displayName} {mapSuffix}</p>
+      {!isEn && <p class="related-map-card__desc">{mapArea.description}</p>}
     </div>
     <a href={mapUrl} rel="related" class="related-map-card__cta">
       {anchorText} →

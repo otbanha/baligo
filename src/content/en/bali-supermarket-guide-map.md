@@ -44,7 +44,7 @@ This article compiles a **'Bali Supermarket 30+ Map Guide'** and a **must-buy li
 
 ## 🗺️ Click to Locate! How to Use the Interactive Bali Supermarket 30+ Map
 
-Bali’s traffic is notorious, so to avoid detours, we recommend using the [GoBaliGo Bali Supermarket Map](https://gobaligo.id/map/supermarket/). This tool features over 30 iconic supermarkets across the island.
+Bali’s traffic is notorious, so to avoid detours, we recommend using the [GoBaliGo Bali Supermarket Map](/map/supermarket/). This tool features over 30 iconic supermarkets across the island.
 
 ### 💡 Core Feature: The Quick Locate Button in the Top Left Corner
 
@@ -69,7 +69,7 @@ When you step into the supermarket, what should you grab? According to the conte
 - **Sunscreen and Aloe Vera Gel:** With Bali’s outdoor activities, sunscreen is cheaper locally than in Taiwan. If you get sunburned, grab a bottle of **Aloe Vera Gel** to quickly soothe the burn.
 - **European Adapter and Bottled Water:** Bali uses the European two-round-pin plug (220V). Buying an adapter at the supermarket is cheap, and pairing it with your multi-port extension cord will suffice.
 
-👉 Quick Reference: [Bali Travel Voltage/Plug Guide: Charging Drones, DSLRs, and Laptops (Including Universal Adapter Tips)](https://gobaligo.id/blog/bali-voltage-adapter-tips/)
+👉 Quick Reference: [Bali Travel Voltage/Plug Guide: Charging Drones, DSLRs, and Laptops (Including Universal Adapter Tips)](/blog/bali-voltage-adapter-tips/)
 
 - **Tap Water is Not Safe to Drink:** Some beach hotels have desalinated water with an unbearable taste, and hotels usually only provide two small bottles per day. It’s recommended to buy large bottles of water at the supermarket. Trusted brands include **Amidis, Cleo, Aqua.**
 
@@ -113,6 +113,6 @@ If you visit large supermarkets (like Bintang Supermarket), you'll often find se
 
 **【Important Reminder】Bring Your Own Shopping Bag:** To promote environmental protection, major supermarkets and stores in Bali **do not provide plastic bags**, so remember to carry a reusable bag when you go shopping!
 
-On your next trip to Bali, make your first stop using the [GoBaliGo Supermarket Map Guide](https://gobaligo.id/map/supermarket/) to find the nearest supermarket, then stock up on supplies and souvenirs to bring back to your hotel!
+On your next trip to Bali, make your first stop using the [GoBaliGo Supermarket Map Guide](/map/supermarket/) to find the nearest supermarket, then stock up on supplies and souvenirs to bring back to your hotel!
 
 {{block:住宿}}

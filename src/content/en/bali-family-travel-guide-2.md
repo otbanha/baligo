@@ -66,9 +66,9 @@ Additionally, Bali offers rental services for baby and toddler equipment (bookab
 
 > Further reading: [Recommended 13 Family Resorts in Bali | Kuta, Seminyak, Canggu, Jimbaran, Uluwatu - Best Choices for Family Vacations and Relaxation](/blog/2024-05-14-66405077fd89780001f23b72/)
 
-> [Bali Accommodation Recommendations: Family-Friendly Resorts with Quad Rooms](https://gobaligo.id/blog/bali-family-room-resorts/)
+> [Bali Accommodation Recommendations: Family-Friendly Resorts with Quad Rooms](/blog/bali-family-room-resorts/)
 
-> [Traveling with Kids and Seniors: Recommended Areas, Dry Season Weather, and Accommodations](https://gobaligo.id/blog/2026-03-30-113245/)
+> [Traveling with Kids and Seniors: Recommended Areas, Dry Season Weather, and Accommodations](/blog/2026-03-30-113245/)
 
 {{block:親子}}
 

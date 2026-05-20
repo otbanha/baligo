@@ -78,7 +78,7 @@ Canggu素食友善餐厅 Grazing on the Green
 
 ## 素食网友额外提供
 
-我们的社团成员 [**陈芊伊**](https://www.facebook.com/share/p/1Cz4zdWHqF/) 也分享了她亲自体验过的素食餐厅清单，分别位于乌布与坎古两个地区，共六家不同风格的小店。她的推荐让文章更完整，也提供了读者更多元的选择。详细介绍请看[这里](https://gobaligo.id/map/vegetarian/)。
+我们的社团成员 [**陈芊伊**](https://www.facebook.com/share/p/1Cz4zdWHqF/) 也分享了她亲自体验过的素食餐厅清单，分别位于乌布与坎古两个地区，共六家不同风格的小店。她的推荐让文章更完整，也提供了读者更多元的选择。详细介绍请看[这里](/map/vegetarian/)。
 
 ## **位置&地图：巴厘岛素食友善餐厅的无限魅力**
 
@@ -86,8 +86,8 @@ Canggu素食友善餐厅 Grazing on the Green
 
 ![峇里島Top 26 素食友善餐廳](https://images.gobaligo.id/vocus/vocus_a5d5b1f2d35fd1fdb7bd8882f8b50f94.png)
 
-[巴厘岛Top 26 素食友善餐厅](https://gobaligo.id/map/vegetarian/)
+[巴厘岛Top 26 素食友善餐厅](/map/vegetarian/)
 
-这26家餐厅的位置和详细介绍请[点击地图链接](https://gobaligo.id/map/vegetarian/)，让我们一起探索巴厘岛素食友善餐厅的无限魅力！
+这26家餐厅的位置和详细介绍请[点击地图链接](/map/vegetarian/)，让我们一起探索巴厘岛素食友善餐厅的无限魅力！
 
 {{block:klook}}

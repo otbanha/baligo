@@ -115,7 +115,7 @@ Winner of "[The World's Most Beautiful Resorts](/blog/2025-05-04-68176b45fd89780
 - Flight and accommodation prices vary depending on departure dates.
 - This package is a cash discount price for two travelers. For different group sizes, please contact customer service for detailed quotes.
 - This is a limited-time promotional offer; no cancellations or refunds after booking.
-- Guaranteed island access, unaffected by [visitor limits](https://gobaligo.id/blog/komodo-booking-2026/).
+- Guaranteed island access, unaffected by [visitor limits](/blog/komodo-booking-2026/).
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775403013880-573914366_1243124144524262_1616867715591804103_n.jpg)
 

@@ -148,9 +148,9 @@ As Bali's cultural capital, Denpasar boasts a rich historical heritage and moder
 
 ![登巴薩攻略地圖](https://images.gobaligo.id/vocus/vocus_f2221d446da58c692559cd133adbacab.png)
 
-[Denpasar Travel Guide Map](https://gobaligo.id/map/denpasar/)
+[Denpasar Travel Guide Map](/map/denpasar/)
 
-All the above attractions have been collected in the "Denpasar Travel Guide Map." Click [here](https://gobaligo.id/map/denpasar/) to save it to your phone!
+All the above attractions have been collected in the "Denpasar Travel Guide Map." Click [here](/map/denpasar/) to save it to your phone!
 
 > [Denpasar Heritage & Street Food Evening Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1256541&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F197385-denpasar-heritage-street-food-evening-tour%2F)
 

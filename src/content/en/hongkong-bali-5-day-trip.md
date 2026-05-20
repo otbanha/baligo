@@ -32,7 +32,7 @@ Hea Travel Food admired the stunning sea views at Tanah Lot and learned about th
 
 Her first stop was Tanah Lot in Canggu, Bali. This temple is built on the coast, and it is said that the sea god resides here. She shared a folk tale about Tanah Lot: Long ago, a fisherman went out to sea and encountered a fierce storm. His boat was swallowed by the waves, and he disappeared. The villagers, worried for his safety, prayed sincerely. Suddenly, the gates of Tanah Lot opened, revealing a secret passage to the ocean floor. Believing it was the sea god's guidance, the villagers passed through the tunnel and eventually found the fisherman at the bottom of the sea. After returning to the village, the fisherman shared the beautiful sights he had seen underwater. Since then, Tanah Lot has been regarded as a sacred place connected to the underwater world.
 
-> [Must-Visit Bali Attraction: Detailed Guide to Tanah Lot, Tides, and Nearby Spots](https://gobaligo.id/blog/2024-10-28-671f86f1fd89780001de9fae/)
+> [Must-Visit Bali Attraction: Detailed Guide to Tanah Lot, Tides, and Nearby Spots](/blog/2024-10-28-671f86f1fd89780001de9fae/)
 
 ***
 
@@ -70,7 +70,7 @@ Hea Travel Food Video Screenshot
 
 On the third day, they visited Uluwatu Temple and Tirta Empul Temple. Uluwatu Temple is perched on a cliff, offering spectacular views. She reminded tourists to be cautious of monkeys, as they are known to snatch belongings.
 
-> [Bali Uluwatu Temple/Lover's Cliff Travel Guide: Must-See Highlights and Practical Tips](https://gobaligo.id/blog/2025-01-18-678b1d81fd89780001f7fe4d/)
+> [Bali Uluwatu Temple/Lover's Cliff Travel Guide: Must-See Highlights and Practical Tips](/blog/2025-01-18-678b1d81fd89780001f7fe4d/)
 
 ![Hea遊美食視頻截圖](https://images.gobaligo.id/vocus/vocus_840392aad64f284a6ab6c6ff79f9e264.png)
 

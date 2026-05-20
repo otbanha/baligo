@@ -148,7 +148,7 @@ https://youtu.be/hQbBTktqEqY
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775353631404-10819a3acdc4d57f5f5a684e1dfea4ed.jpg)
 
-> 獨遊遊記參考：[🌺 獨自闖蕩峇里島8天 - 女子獨遊體驗分享 🌺](https://gobaligo.id/blog/2024-04-23-66155131fd89780001e64a99/)
+> 獨遊遊記參考：[🌺 獨自闖蕩峇里島8天 - 女子獨遊體驗分享 🌺](/blog/2024-04-23-66155131fd89780001e64a99/)
 
 ***
 

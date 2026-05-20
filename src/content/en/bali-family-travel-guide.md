@@ -332,6 +332,6 @@ Prama Sanur Beach Bali is a resort hotel with comprehensive facilities and enter
 
 ## Extended Reading for Family Travel:
 
-- [[Bali Family Travel Column](https://gobaligo.id/blog?cat=%E5%AE%B6%E5%BA%AD%E8%A6%AA%E5%AD%90)]
+- [[Bali Family Travel Column](/blog?cat=%E5%AE%B6%E5%BA%AD%E8%A6%AA%E5%AD%90)]
 
 {{block:親子}}

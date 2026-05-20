@@ -40,7 +40,7 @@ Nusa Dua, Bali, is considered by many travelers to be one of the most family-fri
 But 'suitable' doesn’t mean 'no preparation needed.' Mastering a few key points before departure ensures a truly relaxed and enjoyable trip.
 
 > Recommended Areas for Family Travel in Bali
-> [Seminyak](https://gobaligo.id/blog/2025-02-15-67ac4321fd897800015b9a11/) | [Ubud](https://gobaligo.id/blog/2025-02-16-67b0a910fd89780001798c4e/) | [Sanur](https://gobaligo.id/blog/2025-02-22-67b81b4cfd89780001b4a261/)
+> [Seminyak](/blog/2025-02-15-67ac4321fd897800015b9a11/) | [Ubud](/blog/2025-02-16-67b0a910fd89780001798c4e/) | [Sanur](/blog/2025-02-22-67b81b4cfd89780001b4a261/)
 
 ***
 
@@ -84,7 +84,7 @@ Bali is a highly religious place, with offerings and temples visible everywhere.
 
 Occasionally, you may see small offerings (Canang Sari) on the ground. Avoid stepping on them and remind children not to touch them casually. These are daily Hindu rituals for worshiping deities and are an important part of Balinese culture.
 
-> Further Reading: [Balinese Worship Rituals: Canang Sari](https://gobaligo.id/blog/2024-07-16-66964aa7fd89780001c7051c/)
+> Further Reading: [Balinese Worship Rituals: Canang Sari](/blog/2024-07-16-66964aa7fd89780001c7051c/)
 
 ***
 
@@ -130,7 +130,7 @@ Older kids (recommended for ages 8 and up) can enjoy the thrill of riding a bana
 
 Located about a 30-minute drive from Nusa Dua, Waterboom Bali is one of the highest-rated water parks in Asia. It features slides for all ages, from gentle kiddie pools to adrenaline-pumping speed slides, ensuring a full day of fun. Visit on weekdays to avoid crowds, and don’t forget sunscreen and a change of clothes.
 
-> [Must-Visit Bali Water Park for Families: Waterbom Bali Complete Guide - Asia's Best, Water Slide Ratings & Money-Saving Ticket Tips](https://gobaligo.id/blog/2025-07-28-68875c61fd8978000143d895/)
+> [Must-Visit Bali Water Park for Families: Waterbom Bali Complete Guide - Asia's Best, Water Slide Ratings & Money-Saving Ticket Tips](/blog/2025-07-28-68875c61fd8978000143d895/)
 
 ### 6. 🦜 Bali Cultural Village (Garuda Wisnu Kencana)
 
@@ -138,7 +138,7 @@ Located about a 30-minute drive from Nusa Dua, Waterboom Bali is one of the high
 
 Located on the Bukit Peninsula, GWK Cultural Park features a massive statue of Vishnu that will leave children awestruck. The park regularly hosts traditional dance performances and Balinese music shows, making it an excellent place for kids to learn about Hindu culture. Visiting in the evening offers a stunning sunset view with the giant golden statue as a backdrop, creating a breathtaking scene.
 
-> [Bali Landmark: Complete Guide to GWK Cultural Park - World's Tallest Statue, Traditional Dance Performances & Photo Spots](https://gobaligo.id/blog/2025-07-17-68785bf9fd89780001822053/)
+> [Bali Landmark: Complete Guide to GWK Cultural Park - World's Tallest Statue, Traditional Dance Performances & Photo Spots](/blog/2025-07-17-68785bf9fd89780001822053/)
 
 ### 7. 🎨 Traditional Balinese Craft DIY
 
@@ -162,7 +162,7 @@ Learning to cook Balinese dishes with local chefs is becoming increasingly popul
 
 This grand stage performance is only held three times a week. Through music, dance, and aerial acrobatics, it takes the audience on a cultural journey across Indonesia’s five major islands. Suitable for all ages, this is an experience you won’t want to miss.
 
-> For a detailed introduction, please see [here](https://gobaligo.id/blog/2025-06-21-68557a29fd897800017f4272/)
+> For a detailed introduction, please see [here](/blog/2025-06-21-68557a29fd897800017f4272/)
 
 ***
 
@@ -328,7 +328,7 @@ Traveling with kids often comes with two concerns: the kids not having enough fu
 This is the perfect Bali family vacation that travelers dream of.
 
 > Recommended areas for family trips in Bali
-> [Seminyak](https://gobaligo.id/blog/2025-02-15-67ac4321fd897800015b9a11/) ｜ [Ubud](https://gobaligo.id/blog/2025-02-16-67b0a910fd89780001798c4e/) ｜ [Sanur](https://gobaligo.id/blog/2025-02-22-67b81b4cfd89780001b4a261/)
+> [Seminyak](/blog/2025-02-15-67ac4321fd897800015b9a11/) ｜ [Ubud](/blog/2025-02-16-67b0a910fd89780001798c4e/) ｜ [Sanur](/blog/2025-02-22-67b81b4cfd89780001b4a261/)
 
 {{block:親子}}
 

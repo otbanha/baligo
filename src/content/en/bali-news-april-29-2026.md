@@ -32,7 +32,7 @@ _srcHash: 5fe7f6d3a1f067a842296d80c9b754d1
 - **Temperature and Humidity**: Temperatures range between **26°C - 31°C**. The daytime rainfall probability is as high as **66%**.
 - Reminder: Today's rainfall may be intense, posing higher risks for outdoor activities.
 
-> [Must-See Indoor Activities for Rainy Days! 60 Superb Options: From Newly Opened Shopping Malls to Five-Star Afternoon Tea and Premium Hands-On Experiences](https://gobaligo.id/blog/2024-01-06-6598c6fffd89780001047d76/)
+> [Must-See Indoor Activities for Rainy Days! 60 Superb Options: From Newly Opened Shopping Malls to Five-Star Afternoon Tea and Premium Hands-On Experiences](/blog/2024-01-06-6598c6fffd89780001047d76/)
 
 ### 📄 Topics of Concern for Visitors: Safety Alerts and Entry Practices
 

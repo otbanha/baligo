@@ -13,7 +13,7 @@ embeds: []
 lang: en
 _srcHash: 7e4a97c863627af98d0b2b9e1c950c3f
 ---
-For our top recommended drivers on Page 1, click [here](https://gobaligo.id/blog/2024-07-07-668aaea7fd89780001981840/)
+For our top recommended drivers on Page 1, click [here](/blog/2024-07-07-668aaea7fd89780001981840/)
 
 <!-- shuffle-start -->
 

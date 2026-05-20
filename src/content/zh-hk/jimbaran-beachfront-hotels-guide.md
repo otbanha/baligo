@@ -181,6 +181,6 @@ __VID0__
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b3a5c8f9a1eaea6500f8c5ea37d5abd7.png)
 
-喺金巴蘭有咩好玩、好睇、好逛嘅推薦呢？唔好忘記睇吓我哋準備嘅「[金巴蘭完整攻略](https://gobaligo.id/blog/2023-11-09-654b8438fd897800016bf4cc/)」喔！
+喺金巴蘭有咩好玩、好睇、好逛嘅推薦呢？唔好忘記睇吓我哋準備嘅「[金巴蘭完整攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)」喔！
 
 {{block:住宿}}

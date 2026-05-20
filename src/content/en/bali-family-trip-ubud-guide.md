@@ -241,7 +241,7 @@ Near the sanctuary, there's a coffee bar with a stellar 4.8-star Google rating�
 
 🕘**Opening Hours**: 09:00 - 18:00 (last entry at 17:00)
 
-💰**Admission Fees**: (Note: Prices increased as of April 2026 [see here](https://gobaligo.id/blog/2026-04-09-152047/))
+💰**Admission Fees**: (Note: Prices increased as of April 2026 [see here](/blog/2026-04-09-152047/))
 
 - Adults: 80,000 IDR (~USD$5)
 - Children: 60,000 IDR (~USD$4)

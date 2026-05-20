@@ -76,7 +76,7 @@ Dream Beach
 
 悬崖跳水
 
-以上这些海滩、景点的位置，请参考【[蓝梦岛攻略地图](https://gobaligo.id/map/lembongan/)】
+以上这些海滩、景点的位置，请参考【[蓝梦岛攻略地图](/map/lembongan/)】
 
 ## 红树林之旅
 
@@ -112,7 +112,7 @@ Panorama Point
 
 https://youtube.com/shorts/tHgwLtJvntQ?si=5eJZRpDp47JljbW6
 
-金银岛（Nusa Ceningan）与蓝梦岛由著名的黄桥（Yellow Bridge）连接，金银岛有一些令人惊叹的景点。你可以在Blue Lagoon、Secret Beach和Mahana Point享受明亮的碧蓝海水。在这些地点中，有些地方提供悬崖跳水的挑战。Mahana Cliff的跳水点约15米高，跳水前最好检查潮汐，以免在低潮时跳水而受伤。请看【[蓝梦岛攻略地图](https://gobaligo.id/map/lembongan/)】
+金银岛（Nusa Ceningan）与蓝梦岛由著名的黄桥（Yellow Bridge）连接，金银岛有一些令人惊叹的景点。你可以在Blue Lagoon、Secret Beach和Mahana Point享受明亮的碧蓝海水。在这些地点中，有些地方提供悬崖跳水的挑战。Mahana Cliff的跳水点约15米高，跳水前最好检查潮汐，以免在低潮时跳水而受伤。请看【[蓝梦岛攻略地图](/map/lembongan/)】
 
 ![Blue Lagoon](https://images.gobaligo.id/vocus/vocus_deb37419f80d212cbf7416fdff7a850b.png)
 
@@ -196,7 +196,7 @@ https://youtube.com/shorts/D6ZFGWE74cE?si=MZirFtJ63sUvQG12
 
 所有景点标注的蓝梦岛攻略地图
 
-如果你打算去蓝梦岛、金银岛探险、耍废，我们准备的【[蓝梦岛攻略地图](https://gobaligo.id/map/lembongan/)】别忘了保存到手机喔！
+如果你打算去蓝梦岛、金银岛探险、耍废，我们准备的【[蓝梦岛攻略地图](/map/lembongan/)】别忘了保存到手机喔！
 
 ## 蓝梦岛常见问题 (FAQ)
 

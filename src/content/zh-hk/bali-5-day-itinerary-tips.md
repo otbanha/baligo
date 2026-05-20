@@ -120,7 +120,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 仲有一種「火山 ATV 之旅」，你會穿越茂密嘅森林，攀越黑色熔岩山坡地，並征服具有挑戰性嘅越野地形。導遊會帶你穿越呢啲變化萬千嘅地形，讓你充分體驗ATV帶來嘅刺激同樂趣。
 
-參考：[峇里島 ATV 四輪越野車探險：感受熱帶天堂嘅刺激與自由（提醒事項+FAQ+業者推薦）](https://gobaligo.id/blog/2024-01-30-65b6ef65fd89780001f5d032/)
+參考：[峇里島 ATV 四輪越野車探險：感受熱帶天堂嘅刺激與自由（提醒事項+FAQ+業者推薦）](/blog/2024-01-30-65b6ef65fd89780001f5d032/)
 
 > [烏布ATV越野冒險優惠票券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F6595-atv-quad-bike-adventure-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D937776272b)
 
@@ -137,7 +137,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 編按：對於鍾意挑戰嘅冒險者嚟講，參加激流活動（rafting）係一個好吸引嘅選擇。烏布附近嘅河流彎彎曲曲，穿過藍色嘅山谷同叢林，為冒險愛好者提供咗一場全新嘅探險之旅。喺呢趟冒險中，你會穿越靚景，沿途遇到急流同平靜嘅水道，讓你充分體驗刺激同放鬆並存嘅愉悅感覺。呢個唔單止係一場冒險，更加係一次同大自然親密接觸嘅機會，讓你感受到水流、樹木同大地嘅充沛活力。
 
-參考：[【峇里島激流 FAQ】唔識游水都玩得？年齡限制、安全須知同阿勇河 vs 泰拉嘉河全解析](https://gobaligo.id/blog/2025-03-28-67e62aa8fd89780001888620/)
+參考：[【峇里島激流 FAQ】唔識游水都玩得？年齡限制、安全須知同阿勇河 vs 泰拉嘉河全解析](/blog/2025-03-28-67e62aa8fd89780001888620/)
 
 > [阿勇河泛舟](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
 
@@ -154,7 +154,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 編按：喺烏布，就算係玩鞦韆都可以成為一種充滿異國風情嘅體驗。喺烏布一啲專門嘅地方，你會發現各種獨特而精心設計嘅鞦韆，掛喺綠樹之間或者對住迷人嘅山谷美景。玩鞦韆唔單止係一種玩樂嘅方式，更加係一種喺寧靜中欣賞烏布美景嘅絕佳方式。盡情盪動，讓心隨住微風搖曳，感受一份輕鬆同愜意。
 
-[【烏布鞦韆攻略】8 大最美叢林鞦韆推薦：租禮服技巧、影相角度同避開人潮全指南](https://gobaligo.id/blog/2025-08-15-689eb518fd897800014fbb28/)
+[【烏布鞦韆攻略】8 大最美叢林鞦韆推薦：租禮服技巧、影相角度同避開人潮全指南](/blog/2025-08-15-689eb518fd897800014fbb28/)
 
 **5. 晚餐**
 
@@ -246,7 +246,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 - 亮點：有兩個懸崖景點要買飛入場，好適合影相留念，沿路都有風景但係我哋時間比較趕就冇留耐
 
-參考：[峇里島斷崖公路 Batu Barak 旅遊指南：入場費、路況分析同烏魯瓦圖南端一日遊規劃](https://gobaligo.id/blog/2025-03-06-67c9a234fd897800014b5a11/)
+參考：[峇里島斷崖公路 Batu Barak 旅遊指南：入場費、路況分析同烏魯瓦圖南端一日遊規劃](/blog/2025-03-06-67c9a234fd897800014b5a11/)
 
 **5. 金巴蘭日落**
 

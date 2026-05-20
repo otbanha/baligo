@@ -19,7 +19,7 @@ lang: zh-cn
 _srcHash: bf73cd9ec4c4c9b63fa44c6c1631b495
 ---
 
-[🚗 想预估 Gojek 车资？请点击这里](https://gobaligo.id/map/gojek-fare/)
+[🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
 
 ## **🚖 巴厘岛出租车司机抗议后 政府加强监管网约车**
 

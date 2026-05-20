@@ -30,7 +30,7 @@ Bali has always been a popular destination for family travel, and Ubud is one of
 - [Part 1: Seminyak](/blog/2025-02-15-67ac4321fd897800015b9a11/)
 - Part 2: Ubud (this article)
 - [Part 3: Sanur](/blog/2025-02-22-67b81b4cfd89780001b4a261/)
-- [Part 4: Nusa Dua](https://gobaligo.id/blog/2026-04-02-112654/)
+- [Part 4: Nusa Dua](/blog/2026-04-02-112654/)
 
 ***
 
@@ -267,7 +267,7 @@ Ubud, the cultural and artistic heart of Bali, captivates countless travelers wi
 - [Part 1: Seminyak](/blog/2025-02-15-67ac4321fd897800015b9a11/)
 - [Part 2: Ubud](/blog/2025-02-16-67b0a910fd89780001798c4e/)
 - [Part 3: Sanur](/blog/2025-02-22-67b81b4cfd89780001b4a261/)
-- [Part 4: Nusa Dua](https://gobaligo.id/blog/2026-04-02-112654/)
+- [Part 4: Nusa Dua](/blog/2026-04-02-112654/)
 
 ***
 

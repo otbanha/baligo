@@ -28,7 +28,7 @@ Here are the must-visit spots for your Uluwatu getaway:
 
 ## Must-Visit Spots in Uluwatu
 
-### Hidden Beaches (📌[Location Map](https://gobaligo.id/map/uluwatu/))
+### Hidden Beaches (📌[Location Map](/map/uluwatu/))
 
 This area is home to many hidden beaches that are hard to spot from land and often require descending cliffs to discover. Beyond Bali's well-known popular beaches, the island hides numerous secluded gems waiting to be explored by adventurers. Here are six hidden beaches we recommend: '[Exploring Bali's Hidden Gems: 6 Secret Beaches and How to Check Tides](/blog/2023-08-22-64e4c0c9fd897800014e31bf/)'
 
@@ -48,7 +48,7 @@ Klook offers four one-day tours to the hidden beaches of Uluwatu that can be boo
 
 > [Uluwatu Open-Top Car Sightseeing Day Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824613&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74691-vw-safari-tour-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1704be131d)
 
-### Uluwatu Temple (📌[Location Map](https://gobaligo.id/map/uluwatu/))
+### Uluwatu Temple (📌[Location Map](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_73f1698ba36e1b9c8e46a30af016165b.jpg)
 
@@ -58,7 +58,7 @@ A word of caution: the monkeys here are quite mischievous, so be careful with it
 
 For a detailed guide, check out [Uluwatu Temple/Suicide Cliff Travel Guide: Must-See Highlights and Practical Tips](/blog/2025-01-18-678b1d81fd89780001f7fe4d/)
 
-### Kecak Fire Dance (📌[Location Map](https://gobaligo.id/map/uluwatu/))
+### Kecak Fire Dance (📌[Location Map](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9bb712068745724f248cc567be7b531d.jpg)
 
@@ -72,7 +72,7 @@ For those interested in watching the fire dance performance, consider the highly
 - [Bali Top Southern Beaches Day Tour (Including Fire Dance & Jimbaran Beach Dinner)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44132-bali-top-southern-beaches-uluwatu-kecak-dance-day-seafood-dinner%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D671175544d)
 - [Uluwatu Kecak Fire Dance Show Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D62c1df7f53)
 
-### Balangan Viewpoint (📌[Location Map](https://gobaligo.id/map/uluwatu/))
+### Balangan Viewpoint (📌[Location Map](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a8d6822261073280c90836feccfdebd6.jpg)
 
@@ -80,7 +80,7 @@ Balangan Cliff Sunset Point is a captivating location renowned for its stunning 
 
 This is also an excellent location for wedding photography, with many couples choosing Balangan Cliff Sunset Point to capture precious memories. In this romantic setting, you can seize beautiful moments with your loved one, creating lasting imprints of your love.
 
-### Oneeighty Day Club (📌[Location Map](https://gobaligo.id/map/uluwatu/))
+### Oneeighty Day Club (📌[Location Map](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_44e74ce8b0647d69768d007cb4a8c9c4.jpg)
 
@@ -94,7 +94,7 @@ Jie's introduction video
 
 > Klook offers [Oneeighty passes](https://affiliate.klook.com/redirect?aid=116349&aff_adid=782859&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F52229-oneeighty-pass-edge-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92cc562df8)
 
-### Pandawa Beach/Tanah Barak Cliff Cliff Road/Blue Road (📌[Location Map](https://gobaligo.id/map/uluwatu/))
+### Pandawa Beach/Tanah Barak Cliff Cliff Road/Blue Road (📌[Location Map](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e249047f24fcaf820748a7f940fc9d01.jpg)
 
@@ -104,7 +104,7 @@ Here’s a guide to the Blue Cliff Road: </blog/2025-03-06-67c9a234fd897800014b5
 
 ***
 
-## Beach Clubs (📌[Location Map](https://gobaligo.id/map/uluwatu/))
+## Beach Clubs (📌[Location Map](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1f61b880151584d38425225bd478a00c.jpg)
 
@@ -133,7 +133,7 @@ Some even offer coupons! Here are some discounts provided by Klook:
 
 > [Roosterfish Beach Club Day Pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F68445-day-pass-roosterfish-beach-club-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D21f98d092a)
 
-### Newly Opened Beach Club in 2025 (📌[Location Map](https://gobaligo.id/map/uluwatu/))
+### Newly Opened Beach Club in 2025 (📌[Location Map](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6f087b868b59c7b3133b7951c608e6fa.jpg)
 
@@ -147,11 +147,11 @@ And let's not forget their dining experience — from flavors to portions, every
 
 ***
 
-## 20 Uluwatu Food Recommendations (📌[Location Map and Detailed Guide](https://gobaligo.id/map/uluwatu/))
+## 20 Uluwatu Food Recommendations (📌[Location Map and Detailed Guide](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0f39c8a8f3576316f187513658937f7b.jpg)
 
-Embark on a culinary journey through Uluwatu! From romantic cliff-top restaurants to charming beachside cafes, we've curated a selection of unique and mouthwatering dining spots. Whether you're looking to enjoy stunning ocean views or savor local delicacies in cozy open-air seating, these restaurants have got you covered. [Click here](https://gobaligo.id/map/uluwatu/) to explore our meticulously crafted Uluwatu food guide map, featuring detailed descriptions of these restaurants, ensuring your Bali trip is filled with delicious food and wonderful memories!
+Embark on a culinary journey through Uluwatu! From romantic cliff-top restaurants to charming beachside cafes, we've curated a selection of unique and mouthwatering dining spots. Whether you're looking to enjoy stunning ocean views or savor local delicacies in cozy open-air seating, these restaurants have got you covered. [Click here](/map/uluwatu/) to explore our meticulously crafted Uluwatu food guide map, featuring detailed descriptions of these restaurants, ensuring your Bali trip is filled with delicious food and wonderful memories!
 
 > [Alila Non-Guest Ocean View Dining Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063734&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F156213-dining-experience-at-alila-villas-uluwatu%2F)
 
@@ -159,17 +159,17 @@ Embark on a culinary journey through Uluwatu! From romantic cliff-top restaurant
 
 > [5-Star Renaissance Hotel Kids Club Deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=824613&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F72946-sunday-brunch-afternoon-tea-renaissance-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd10542aba8)
 
-### Surya Cafe(📌[Location Map](https://gobaligo.id/map/uluwatu/))
+### Surya Cafe(📌[Location Map](/map/uluwatu/))
 
 Surya Cafe at Suluban Beach in Bali is a laid-back café with stunning ocean views, located near the famous surfing spot, Suluban Beach. Here, you can enjoy breathtaking cliffside scenery and it's a popular spot for sunset viewing. The café features an infinity pool and cozy lounge areas, allowing visitors to soak up the sun while savoring delicious seafood and light bites, accompanied by DJ music—perfect for photo ops. Entry is currently free with no minimum spend, and it's recommended to visit in the evening to avoid the midday heat.
 
-### Malini Uluwatu(📌[Location Map](https://gobaligo.id/map/uluwatu/))
+### Malini Uluwatu(📌[Location Map](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f2bf3915729534d5f40cc569f713a94e.png)
 
 Situated on the cliffs of Uluwatu, this restaurant offers panoramic views of the Indian Ocean, especially enchanting during sunset, making it a top choice for a romantic dinner.
 
-### Tsune Japanese Cuisine 20% Off Coupon(📌[Location Map](https://gobaligo.id/map/uluwatu/))
+### Tsune Japanese Cuisine 20% Off Coupon(📌[Location Map](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4d39e55a3359fd0ad27f8567b24da0dd.png)
 
@@ -177,13 +177,13 @@ Tsune Uluwatu is an authentic Japanese restaurant that impresses with both its a
 
 ▶[Tsune 20% Off Coupon](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063379&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F158622-tsune-uluwatu-dining-experience-in-bali%2F)
 
-### Rockfish at The Uluwatu No Minimum Spend Cave Restaurant(📌[Location Map](https://gobaligo.id/map/uluwatu/))
+### Rockfish at The Uluwatu No Minimum Spend Cave Restaurant(📌[Location Map](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_d0b76dff6e6f6157a4f6b1d375d36dc3.jpg)
 
 Perched on the cliffs of Uluwatu, Rockfish seamlessly blends industrial modern design with the breathtaking views of the Indian Ocean, offering an excellent alternative to the crowded beach clubs. The restaurant's greatest advantage lies in its highly personalized service, **with absolutely no minimum spending requirement**, a rarity in the prime Uluwatu area. You can easily walk in, **order just a refreshing coconut water, specialty coffee, or alcoholic drink**, and sit in the semi-open space overlooking the spectacular surfing waves and stunning sunset, without any pressure to order more. The latest trend in local activities for 2026 leans towards this 'light travel' experience, with Rockfish often offering Happy Hour cocktail discounts on weekday evenings, making it very friendly for budget-conscious travelers or those who just want to relax and unwind. The atmosphere here strikes a balance between a high-end restaurant and a street-side bar, maintaining professional culinary standards while offering a relaxed vibe. It's the perfect spot on your **Bali** itinerary to unwind, enjoy the sea, or even work on your laptop while soaking up the sun, all at an affordable price for a luxurious ocean view.
 
-### Uma Beach House｜Free Access to a Five-Star Resort's Pool (📌[Location Map](https://gobaligo.id/map/uluwatu/))
+### Uma Beach House｜Free Access to a Five-Star Resort's Pool (📌[Location Map](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_604bf04adc489428e669fb626bbf77fd.png)
 
@@ -199,7 +199,7 @@ Check out the full experience and booking details at the link below👇
 
 ***
 
-## Uluwatu Family-Friendly Restaurant (📌[Location Map and Detailed Introduction](https://gobaligo.id/map/uluwatu/))
+## Uluwatu Family-Friendly Restaurant (📌[Location Map and Detailed Introduction](/map/uluwatu/))
 
 ### Ohana Bali Restaurant, Bar & Kidsparadise
 
@@ -217,15 +217,15 @@ In addition to regular play facilities, the club also hosts birthday parties and
 
 ***
 
-## Uluwatu Shopping (📌[Location Map](https://gobaligo.id/map/uluwatu/))
+## Uluwatu Shopping (📌[Location Map](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1dc2f0c2149160f91de8e9b9aa544137.jpg)
 
 The relaxed island vibe of Uluwatu is home to some high-quality boutiques offering all your beach essentials—most of which are locally made. Here, you'll find Bali-made bikinis from ELCE, designer clothing from The Find Bali, island-inspired oceanwear from Drifter, and more.
 
-For the locations of these shops, check out our "[Uluwatu Guide Map](https://gobaligo.id/map/uluwatu/)".
+For the locations of these shops, check out our "[Uluwatu Guide Map](/map/uluwatu/)".
 
-### SUNDAZE ULUWATU MARKET (📌[Location Map](https://gobaligo.id/map/uluwatu/))
+### SUNDAZE ULUWATU MARKET (📌[Location Map](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_31780ca28b4ab70f84049322bda1a491.jpg)
 
@@ -342,7 +342,7 @@ This service delivers directly to your hotel or villa doorstep, with professiona
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e323fdfd98f3d0a3a7db516860026e01.png)
 
-To help everyone better understand the locations of the attractions mentioned above, we've prepared a "[Uluwatu Travel Guide Map](https://gobaligo.id/map/uluwatu/)" that marks all the relevant spots. If you're planning to visit or explore Uluwatu, don't forget to save it!
+To help everyone better understand the locations of the attractions mentioned above, we've prepared a "[Uluwatu Travel Guide Map](/map/uluwatu/)" that marks all the relevant spots. If you're planning to visit or explore Uluwatu, don't forget to save it!
 
 Further Reading: [Bali Travel Guide: Understanding Bali Regions - Bali Accommodation Recommendations Guide - Get to Know Kuta, Seminyak, Canggu, Ubud](/blog/2023-12-29-65839fbafd89780001e876b5/)
 

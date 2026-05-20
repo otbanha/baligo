@@ -72,7 +72,7 @@ Important notes:
 - The best times to visit are early morning or evening to avoid crowds
 - Two spouts are reserved for cleansing the deceased and are prohibited for melukat rituals
 
-**For further tips, refer to:** [**Complete Guide to Tirta Empul**](https://gobaligo.id/blog/2025-06-18-6852cdc2fd89780001e0b7ad/)
+**For further tips, refer to:** [**Complete Guide to Tirta Empul**](/blog/2025-06-18-6852cdc2fd89780001e0b7ad/)
 
 ![2016年小傑在聖泉寺](https://images.gobaligo.id/vocus/vocus_4f009e23b2961e9bbeaefb0a4ee8b71e.jpg)
 

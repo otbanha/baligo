@@ -19,7 +19,7 @@ lang: zh-cn
 _srcHash: 9eca0db4073d76a9677723b4c26ef6a6
 ---
 
-[🚗 想预估 Gojek 车费？请点击这里](https://gobaligo.id/map/gojek-fare/)
+[🚗 想预估 Gojek 车费？请点击这里](/map/gojek-fare/)
 
 我们的巴厘岛系列视频已经做到第55集了！这一集来给大家说说巴厘岛旅游的六大注意事项！
 

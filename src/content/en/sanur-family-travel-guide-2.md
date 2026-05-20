@@ -32,7 +32,7 @@ This guide will provide detailed information on what to consider when bringing y
 > Episode 1: [Seminyak](/blog/2025-02-15-67ac4321fd897800015b9a11/)
 > Episode 2: [Ubud](/blog/2025-02-16-67b0a910fd89780001798c4e/)
 > Episode 3: Sanur (this article)
-> [Episode 4: Nusa Dua](https://gobaligo.id/blog/2026-04-02-112654/)
+> [Episode 4: Nusa Dua](/blog/2026-04-02-112654/)
 
 ## Family Travel Tips
 
@@ -295,7 +295,7 @@ Sanur is a serene coastal town in Bali, renowned for its calm beaches, relaxed a
 - [Episode 1: Seminyak](/blog/2025-02-15-67ac4321fd897800015b9a11/)
 - [Episode 2: Ubud](/blog/2025-02-16-67b0a910fd89780001798c4e/)
 - Episode 3: Sanur (this article)
-- [Episode 4: Nusa Dua](https://gobaligo.id/blog/2026-04-02-112654/)
+- [Episode 4: Nusa Dua](/blog/2026-04-02-112654/)
 
 ***
 

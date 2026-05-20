@@ -39,7 +39,7 @@ If your itinerary focuses on shopping, sightseeing, or using Kuta as a transit h
 
 This guide organizes 12 hotels into two categories: **10 near the city center** and **2 near the airport**, allowing you to choose based on your travel needs.
 
-**PS. If you're looking for beachfront Kuta hotels? Check out [here](https://gobaligo.id/blog/kuta-beach-hotels/)**
+**PS. If you're looking for beachfront Kuta hotels? Check out [here](/blog/kuta-beach-hotels/)**
 
 ***
 
@@ -501,7 +501,7 @@ If you just need a **reliable, comfortable base**, The Vira Bali’s value and F
 
 **Booking tip: Compare prices on Agoda**. City-center hotels usually have smaller peak-season price hikes compared to beachfront hotels, but boutique gems like Amnaya and Poppies are equally in demand, so book early.
 
-> Looking for Kuta hotels by the beach? Check [here](https://gobaligo.id/blog/kuta-beach-hotels/)
+> Looking for Kuta hotels by the beach? Check [here](/blog/kuta-beach-hotels/)
 
 {{block:kuta}}
 

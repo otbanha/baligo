@@ -87,7 +87,7 @@ collections:
     folder: src/content/promotions
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{hour}}{{minute}}{{second}}"
-    sort_field: expiresAt
+    sort_field: title
     sort_direction: Ascending
     summary: "{{title}} — 截止：{{expiresAt}}"
     fields:
@@ -105,7 +105,8 @@ collections:
         date_format: "YYYY-MM-DD"
         time_format: false
         format: "YYYY-MM-DD"
-        hint: "不填表示長期有效"
+        picker_utc: true
+        hint: "留空表示長期有效"
 
   - name: blocks
     label: 內容區塊（繁體中文）
