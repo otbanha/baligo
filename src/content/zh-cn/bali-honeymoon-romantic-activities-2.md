@@ -17,7 +17,7 @@ lang: zh-cn
 _srcHash: b5cba2b73f8328c9bc22e2875bec8292
 ---
 
-不久前才出炉的「十大全球浪漫旅游目的地」，根据Agoda旅行平台的大数据，其中巴厘岛名列全球第六名（[请看这里](/blog/2024-02-14-65ccaacffd89780001502bc5/)）；而另一份Tripadvisor 2024年度统计资料，巴厘岛更被列为度蜜月目的地的顶尖宝座，[击败马尔代夫夺得全世界冠军！](/blog/2024-01-14-65a3438afd89780001d93651/)
+不久前才出炉的「十大全球浪漫旅游目的地」，根据Agoda旅行平台的大数据，其中巴厘岛名列全球第六名（[请看这里](/blog/valentines-day-romantic-destinations/)）；而另一份Tripadvisor 2024年度统计资料，巴厘岛更被列为度蜜月目的地的顶尖宝座，[击败马尔代夫夺得全世界冠军！](/blog/bali-honeymoon-destination/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_60d51ffa1b750d6e989a000ce2d8857b.jpg)
 
@@ -55,13 +55,13 @@ _srcHash: b5cba2b73f8328c9bc22e2875bec8292
 
 > 【水明漾】[水明漾阿丽拉酒店Seasalt用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94283-seasalt-alila-seminyak-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D493fe83922)
 
-> 【水明漾】[MoonLite Kitchen and Bar：水明漾的日落美食天堂](/blog/2025-01-25-6794ca61fd89780001127add/)
+> 【水明漾】[MoonLite Kitchen and Bar：水明漾的日落美食天堂](/blog/moonlite-kitchen-bar-seminyak-sunset/)
 
 ## **美景午餐**
 
 在山水美景的环绕下享用午餐，感受独特的感觉，共创美好的回忆。
 
-> 【努沙杜瓦】[巴厘岛凯宾斯基下午茶游记：Selasar Deli的梦幻午后时光](/blog/2025-05-25-6832c6c0fd897800014776ba/)
+> 【努沙杜瓦】[巴厘岛凯宾斯基下午茶游记：Selasar Deli的梦幻午后时光](/blog/kempinski-selasar-deli-afternoon-tea/)
 
 > 【乌布】[乌布Bale Udang Mang Engking用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106498-bale-udang-mang-engking-in-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D628e0eac4e)
 
@@ -71,7 +71,7 @@ _srcHash: b5cba2b73f8328c9bc22e2875bec8292
 
 > 【坎古】[海神庙De Jukung Resto And Bar 美食体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D88b0b13a2e)
 
-> 【乌鲁瓦图】[【巴厘岛美食体验记】Alila Villas Uluwatu Brisa Brunch：悬崖边的周日味觉盛宴](/blog/2025-06-08-68451457fd89780001df60be/)
+> 【乌鲁瓦图】[【巴厘岛美食体验记】Alila Villas Uluwatu Brisa Brunch：悬崖边的周日味觉盛宴](/blog/alila-uluwatu-brisa-brunch/)
 
 ## **浪漫按摩水疗**
 
@@ -101,7 +101,7 @@ _srcHash: b5cba2b73f8328c9bc22e2875bec8292
 
 > 【乌鲁瓦图】[White Rock Beach 俱乐部通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83057-white-rock-beach-club-day-pass-ungasan-south-kuta-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddb21a121cc)
 
-> 【水明漾】[巴厘岛水明漾 Ku De Ta Beach Club 完整攻略：餐饮、派对、日落的梦幻海滩体验](/blog/2025-02-24-67bc10d5fd897800015888e3/)
+> 【水明漾】[巴厘岛水明漾 Ku De Ta Beach Club 完整攻略：餐饮、派对、日落的梦幻海滩体验](/blog/ku-de-ta-beach-club/)
 
 ## **参加活动**
 
@@ -117,7 +117,7 @@ _srcHash: b5cba2b73f8328c9bc22e2875bec8292
 
 > 【努沙杜瓦】[海行者（海底漫步 seawalker）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F51733-bali-seawalker-watersports-tanjung-benoa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6f69f93a73)
 
-**快速参考：**[巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/blog/2025-04-02-67ecf440fd897800012cb31b/)
+**快速参考：**[巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/blog/bali-top-50-outdoor-activities/)
 
 ## 留下珍贵美好回忆
 
@@ -179,7 +179,7 @@ _srcHash: b5cba2b73f8328c9bc22e2875bec8292
 
 在您的巴厘岛之旅中，别忘了前往网红景点打卡喔！一定要造访连普扬寺内的知名景点“天空之门”，这里的美景绝对令人难忘。接着，您可以前往巴厘岛北部，朝圣布拉坦水神庙，在汉达拉门留下美丽的倩影。如果您想要更多的探索，也可以选择前往巴厘岛东部，参观蒂尔塔冈加水上宫殿。此行程包含中文司机/酒店往返接送服务，让您完全无需烦恼语言和交通问题，专心享受旅程的每一刻。
 
-（延伸阅读：[根本人间仙境！巴厘岛东部的三大景点：天空之门、恒河圣泉花园、乌戎水宫](/blog/2024-01-29-65b79bfdfd89780001948d10/)）
+（延伸阅读：[根本人间仙境！巴厘岛东部的三大景点：天空之门、恒河圣泉花园、乌戎水宫](/blog/bali-east-tour-guide/)）
 
 > ▶预订[中文导览巴厘岛东部/北部IG网红景点打卡之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20722-instagram-tour-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D69d806c9e7)
 
@@ -187,7 +187,7 @@ _srcHash: b5cba2b73f8328c9bc22e2875bec8292
 
 探索乌布的所有热门景点，包括隐藏的瀑布如 Kanto Lampo 和 Tibumana 瀑布，Suwat 瀑布，以及乌布市场购买纪念品的乐趣，还有古老而富有历史的乌布皇宫。您还可以参观德哥拉朗梯田、Tegenungan 瀑布等地，将这些壮丽景色拍下，与您的 Instagram 上的照片分享，为您的旅行锦上添花。不仅如此，您还可以定制您的行程，探索圣泉寺、巴厘岛秋千、咖啡种植园等最受欢迎的乌布景点。可以加选中文司机的服务，部分行程还有专属摄影师，让您无需担心语言障碍，并且能捕捉每个珍贵的瞬间。 让我们一起探索乌布的魅力，并留下难忘的回忆！
 
-（延伸阅读：[50种深入认识乌布的方式｜探索乌布的魅力](/blog/2023-11-17-655054b1fd897800011d4d2c/)）
+（延伸阅读：[50种深入认识乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)）
 
 > ▶预订[中文司机乌布热门景点私人一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21714-private-ubud-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3Da38e26e694)
 
@@ -195,11 +195,11 @@ _srcHash: b5cba2b73f8328c9bc22e2875bec8292
 
 中文司机带您走访乌鲁瓦图美丽的Padang Padang海滩，您可以坐在沙滩上，欣赏着蔚蓝的海水和细白的沙滩，沉醉在自然的美景中。接着，前往参观乌鲁瓦图神庙，这座䇄立于悬崖上的神庙不仅让您欣赏到巴厘岛特有的震撼卡恰火舞，还能在夕阳下欣赏到令人难忘的断崖美景。最后，结束您的一天在金巴兰海滩，让您的旅程留下最美好的回忆。
 
-（延伸阅读：[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演](/blog/2024-01-29-65b6e533fd89780001f51eaf/)）
+（延伸阅读：[Kecak Fire Dance卡恰火舞秀 巴厘岛必看的震撼表演](/blog/kecak-fire-dance-bali/)）
 
-（延伸阅读：[探索巴厘岛的无人秘境 6个巴厘岛秘境沙滩攻略/如何查询潮汐？](/blog/2023-08-22-64e4c0c9fd897800014e31bf/)）
+（延伸阅读：[探索巴厘岛的无人秘境 6个巴厘岛秘境沙滩攻略/如何查询潮汐？](/blog/bali-hidden-beaches-guide/)）
 
-（延伸阅读：[金巴兰推荐的八个海鲜餐厅](/blog/2023-11-09-654b8438fd897800016bf4cc/)）
+（延伸阅读：[金巴兰推荐的八个海鲜餐厅](/blog/jimbaran-guide/)）
 
 > ▶预订[中文司机乌鲁瓦图/金巴兰＆卡恰火舞之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fscroll_pkg%3D287234%26shop_id%3D119049035%26shop_type%3D0)
 
@@ -207,7 +207,7 @@ _srcHash: b5cba2b73f8328c9bc22e2875bec8292
 
 从巴厘岛出发乘船来到佩尼达岛，展开令人难以置信的一日游冒险。中文导游将引领您抵达神秘的精灵海滩（Kelingking Beach），站在高处俯瞰，岛屿的形状宛如一只雄伟的暴龙。接下来，踏入被火山岩环绕的“天使浴池”，感受碧绿澄澈的海水如同天使之泉。若您渴望更深入地体验海底奇观，可选择加购浮潜项目，漫游水晶湾，欣赏巴厘岛海洋生态的多样风貌，使您的冒险之旅更加丰富多元。
 
-（延伸阅读：[【Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/2023-08-16-64db6b82fd897800013a9942/)）
+（延伸阅读：[【Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)）
 
 ▶预订[中文导游佩尼达岛一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D7e1e0da9d2)
 

@@ -68,7 +68,7 @@ _srcHash: a3a17bfbd04dce0a6a9cff14d0dd690e
 佢即刻採取兩個行動：
 
 - 聯絡水明漾嘅酒店，請工作人員幫手搵
-- 同時下載同註冊 : Gojek （點樣下載註冊請睇[呢度](/blog/2024-10-13-670b5191fd8978000185cf37/)）
+- 同時下載同註冊 : Gojek （點樣下載註冊請睇[呢度](/blog/indonesia-gojek-gopay-guide/)）
 
 好快，好消息傳來——頸枕搵到喇。
 
@@ -129,7 +129,7 @@ https://youtu.be/ByGkcmys01g
 
 最終，佢哋決定透過平台額外補上USD$2作為貼士，表達感謝。
 
-> [到印尼/峇里島旅行必備嘅八大app推薦](/blog/2024-10-20-670fc5b2fd89780001cea7ed/)
+> [到印尼/峇里島旅行必備嘅八大app推薦](/blog/bali-travel-apps-guide/)
 
 ***
 

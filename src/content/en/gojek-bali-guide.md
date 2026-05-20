@@ -38,7 +38,7 @@ Transportation is often a significant concern when traveling in Bali, and Gojek 
 
 Beyond transportation, Gojek also offers safe and convenient payment options. You can store money in Gojek's e-wallet, GoPay, so you don't need to carry large amounts of cash when you're out. You can easily use GoPay to pay for transportation, food delivery orders, and even shopping payments. This cashless payment method is not only convenient but also helps you better manage your expenses.
 
-Further Reading: [Comprehensive Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/blog/2024-10-13-670b5191fd8978000185cf37/)
+Further Reading: [Comprehensive Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
 
 ### **Comparison with Grab**
 

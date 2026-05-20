@@ -41,7 +41,7 @@ The national park offers abundant options for water sports enthusiasts, with its
 
 The editorial team of 'Time Out Travel' highlighted that visiting Komodo is not only a visual treat but also a rare opportunity to explore an ecological treasure trove. UNESCO has listed it as a World Heritage Site, recognizing its natural landscapes and unique ecosystem. The best time to visit is from April to October, when the weather is clear and the sea is calm, perfect for diving activities.
 
-▶▶▶▶ For more details on how to get to Komodo Island and what to do there, check out: [Komodo Island Guide](/blog/2025-05-04-681601c6fd8978000139f8a3/)
+▶▶▶▶ For more details on how to get to Komodo Island and what to do there, check out: [Komodo Island Guide](/blog/komodo-island-labuan-bajo-travel/)
 
 ---
 
@@ -79,6 +79,6 @@ Komodo Island beckons all adventure-seekers with its romantic pink beaches, wild
 
 While this hidden paradise remains relatively untouched, book your Komodo trip! Whether you're a diving enthusiast, photography fanatic, or simply seeking an escape from the city, every inch of land and wave here whispers, 'You deserve this unforgettable journey of a lifetime!'
 
-▶▶▶▶**For more details on how to get to Komodo Island and what to do there, check out:** [Komodo Island Guide](/blog/2025-05-04-681601c6fd8978000139f8a3/)
+▶▶▶▶**For more details on how to get to Komodo Island and what to do there, check out:** [Komodo Island Guide](/blog/komodo-island-labuan-bajo-travel/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5a16ff247d244e1682e7443541ba541b.jpg)

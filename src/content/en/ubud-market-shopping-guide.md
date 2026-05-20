@@ -80,7 +80,7 @@ Ubud has long been a gathering place for artists. In the markets, you can find m
 
 Bali's silver jewelry is equally famous, especially in Ubud markets where the selection is vast. Whether it's **bracelets, rings, necklaces, or earrings**, each piece is meticulously crafted by artisans, featuring delicate lines and diverse designs. If you prefer minimalist or ethnic styles, you're sure to find something that suits you here.
 
-**Join a jewelry-making class**: [Immerse in Balinese Culture: Don't Miss This Silver Craft Workshop Day Tour](/blog/2025-06-30-685b8c4ffd89780001f4fc01/)
+**Join a jewelry-making class**: [Immerse in Balinese Culture: Don't Miss This Silver Craft Workshop Day Tour](/blog/bali-silver-workshop/)
 
 ***
 
@@ -116,10 +116,10 @@ These items are not only affordable and widely available in various art markets,
 
 **Further Reading:**
 
-- [Complete Guide to Ubud's Top Five Art Markets: Shopping for Souvenirs/Gifts and Discovering Bali's Cultural Treasures](/blog/2024-10-19-6712fb1dfd89780001f69011/)
-- [Artistic Souvenirs with Bali's Signature: Turning Travel Memories into Lasting Keepsakes](/blog/2025-07-23-6880c98dfd89780001510ee2/)
-- [Reader Recommendations: Six Categories, Over 20 Bali Souvenir Suggestions—Perfect Choices for Preserving Precious Memories](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
-- [Bali Travel Alert: These Souvenirs Cannot Be Brought Back to Taiwan! A Complete Guide to Taiwan Customs Regulations](/blog/2025-04-27-680d9a04fd89780001a97eb9/)
+- [Complete Guide to Ubud's Top Five Art Markets: Shopping for Souvenirs/Gifts and Discovering Bali's Cultural Treasures](/blog/ubud-art-markets-guide/)
+- [Artistic Souvenirs with Bali's Signature: Turning Travel Memories into Lasting Keepsakes](/blog/bali-art-souvenirs-guide/)
+- [Reader Recommendations: Six Categories, Over 20 Bali Souvenir Suggestions—Perfect Choices for Preserving Precious Memories](/blog/bali-souvenirs-gift-guide/)
+- [Bali Travel Alert: These Souvenirs Cannot Be Brought Back to Taiwan! A Complete Guide to Taiwan Customs Regulations](/blog/bali-souvenirs-customs-restrictions/)
 
 ***
 

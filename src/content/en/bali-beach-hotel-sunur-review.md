@@ -115,12 +115,12 @@ Bali Beach Hotel completely changed my perception of high-value hotels! Not only
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
-[Sanur Guide for Family Vacations](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
+[Sanur Guide for Family Vacations](/blog/sanur-guide/)
 
-Sanur is a serene coastal town in Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's the ideal place to enjoy a slow-paced lifestyle and explore local culture. Whether you're strolling along the coastline or soaking up the local vibe, Sanur offers an incredibly relaxing vacation experience! Want to know more about Sanur? [Click here](/blog/2024-02-11-65bf2f75fd89780001dbf162/).
+Sanur is a serene coastal town in Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's the ideal place to enjoy a slow-paced lifestyle and explore local culture. Whether you're strolling along the coastline or soaking up the local vibe, Sanur offers an incredibly relaxing vacation experience! Want to know more about Sanur? [Click here](/blog/sanur-guide/).
 
 ## Other Accommodation Recommendations in Sanur
 
-[22 Resorts/Villas in Sanur, from Luxury to Budget](/blog/2024-08-21-66c3e440fd897800014425a8/)
+[22 Resorts/Villas in Sanur, from Luxury to Budget](/blog/sanur-luxury-budget-resorts/)
 
 {{block:住宿}}

@@ -30,7 +30,7 @@ Before departure, he recommends **applying for an e-visa online**. When entering
 
 After collecting your luggage and before exiting the airport, you need to prepare your **electronic customs declaration**. It's crucial to complete this in advance, as scanning it during customs can significantly speed up the process.
 
-> Further Reading: [【2026 Edition】Using the 'All Indonesia' Arrival Card for Bali Entry｜1-Minute Guide to the Latest Process: From Landing to Customs to Baggage Claim](/blog/2025-08-14-689dcce7fd8978000125fc52/)
+> Further Reading: [【2026 Edition】Using the 'All Indonesia' Arrival Card for Bali Entry｜1-Minute Guide to the Latest Process: From Landing to Customs to Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
 
 As for the **tourist tax**, he believes it's a personal decision whether to pay it or not. He personally supports environmental activities like turtle release, despite concerns about fund utilization, considering it a small contribution to environmental protection. The tax is just USD$10, equivalent to a few beers.
 
@@ -42,7 +42,7 @@ As for the **tourist tax**, he believes it's a personal decision whether to pay 
 2. Currently, Bali offers a more tranquil environment, and at least the beach pollution has improved significantly.
 3. Regarding the common question of which attractions to visit, his advice is that while the Monkey Forest and Ubud Palace are worth seeing, five minutes is enough—no need to spend too much time there. Instead, just across the road from the palace is the Ubud Market, where wandering around might be more interesting. As for the rice terraces, they're visible along the way, so you can choose whether or not to visit them. Ultimately, the journey itself is the scenery, so focus on enjoying it and relaxing.
 
-> Further reading: [2025 Ubud Bali Complete Guide: 100 Ways to Deeply Explore Ubud's Charm](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+> Further reading: [2025 Ubud Bali Complete Guide: 100 Ways to Deeply Explore Ubud's Charm](/blog/ubud-guide/)
 
 ## **Accommodation and Itinerary Suggestions:**
 
@@ -61,4 +61,4 @@ Finally, this frequent Bali traveler sincerely hopes to share his experiences wi
 
 Click here to read more exciting Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue shine!

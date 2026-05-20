@@ -83,7 +83,7 @@ To ensure your Rock Bar experience goes smoothly, here are the latest reservatio
 
 Reservations for this time slot are exclusively available to **guests** staying at Ayana Resort Bali, Ayana Villas Bali, Ayana Segara Bali, or RIMBA by Ayana Bali. If you’re staying at any of these properties, you can make reservations through the resort’s app ([Android](https://play.google.com/store/apps/details?id=com.ayanahospitality.app&pcampaignid=web_share) | [iOS](https://apps.apple.com/id/app/ayana-hotels-resorts/id6478279462?platform=iphone)).
 
-> How to choose Ayana accommodations? Check out the [Ayana Accommodation Guide](/blog/2023-10-26-653914f6fd89780001fef733/).
+> How to choose Ayana accommodations? Check out the [Ayana Accommodation Guide](/blog/ayana-resort-bali-guide/).
 
 **Walk-ins Only**:
 
@@ -131,7 +131,7 @@ For any questions or to learn more, please visit the [Rock Bar reservation websi
 
 ## Staying at Ayana Bali
 
-Staying at **Ayana Bali** is the ideal choice for experiencing top-tier luxury on the island. Ayana features four distinct accommodation areas, each with its own unique charm to suit different traveler needs. If you're unsure which to choose, check out our [**Ayana Accommodation Guide**](/blog/2023-10-26-653914f6fd89780001fef733/) for help.
+Staying at **Ayana Bali** is the ideal choice for experiencing top-tier luxury on the island. Ayana features four distinct accommodation areas, each with its own unique charm to suit different traveler needs. If you're unsure which to choose, check out our [**Ayana Accommodation Guide**](/blog/ayana-resort-bali-guide/) for help.
 
 ## Conclusion 🌴
 
@@ -141,4 +141,4 @@ Rock Bar in Jimbaran is a must-visit romantic spot in Bali. Whether you're watch
 
 ## Bonus:
 
-[More Chill Than Rock Bar! Experience 360° Sunset Views at Luna Rooftop Bar in Bali's Ayana Resort](/blog/2024-10-30-6721d7bbfd89780001ee1132/)
+[More Chill Than Rock Bar! Experience 360° Sunset Views at Luna Rooftop Bar in Bali's Ayana Resort](/blog/ayana-luna-rooftop-bar-sunset/)

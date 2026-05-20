@@ -39,7 +39,7 @@ Bali, a picturesque vacation destination, attracts visitors from around the worl
 
 The safest and most convenient transportation methods in Bali are hiring a private car and using ride-hailing services. Hiring a private car means having a driver at your disposal for a set period (usually 10 or 5 hours) to take you wherever you want to go. Ride-hailing, on the other hand, involves using apps like Gojek or Grab for point-to-point transportation, similar to taxis.
 
-> Further Reading: [Essential Apps for Traveling in Indonesia/Bali: Complete Guide to Gojek](/blog/2023-08-20-64e187dffd897800017304fe/)
+> Further Reading: [Essential Apps for Traveling in Indonesia/Bali: Complete Guide to Gojek](/blog/gojek-bali-guide/)
 
 ## Pros and Cons of Hiring a Private Car
 
@@ -95,7 +95,7 @@ If your itinerary involves long-distance travel, it might be harder to find driv
 - Wanting to chat/need basic explanations ▶ Private car
 - Wanting to meet local Balinese friends ▶ Private car
 
-**Any recommendations for good private car drivers?** Check out the "Recommended Quality Drivers List" shared by fellow travelers [here](/blog/2024-07-07-668aaea7fd89780001981840/).
+**Any recommendations for good private car drivers?** Check out the "Recommended Quality Drivers List" shared by fellow travelers [here](/blog/bali-private-car-drivers-guide/).
 
 ## FAQ
 
@@ -123,7 +123,7 @@ Usually, Gojek tends to be slightly cheaper.
 
 Yes, but it's not recommended. There's a high chance of encountering drivers who overcharge.
 
-**Other** [**See FAQ about private car hire here**](/blog/2024-01-12-65a0a163fd8978000115f37a/)
+**Other** [**See FAQ about private car hire here**](/blog/bali-private-car-hire-guide/)
 
 ## Conclusion
 

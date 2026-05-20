@@ -46,11 +46,11 @@ Melukat 係峇里島印度教嘅淨化儀式，信眾喺泉水中依序通過 26
 **參加須知：**
 
 - 穿著 Sarong 同腰帶（廟方免費提供）
-- 可準備 [Canang Sari](/blog/2024-07-16-66964aa7fd89780001c7051c/)（供品）喺廟外購買
+- 可準備 [Canang Sari](/blog/bali-canang-sari-explained/)（供品）喺廟外購買
 - 保持安靜、謙遜與尊重
 - 按照泉水順序進行淨化（可請導覽人員協助）
 
-> 延伸閱讀：[峇里島嘅祭拜習俗：Canang Sari](/blog/2024-07-16-66964aa7fd89780001c7051c/)
+> 延伸閱讀：[峇里島嘅祭拜習俗：Canang Sari](/blog/bali-canang-sari-explained/)
 
 ### 聖泉淨化儀式嘅正確流程與順序
 

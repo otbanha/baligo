@@ -28,11 +28,11 @@ _srcHash: 03159ea9ca46f5309410472bad172784
 
 ✔️ **电子签证：** 当天抵达时，我们观察到落地签的排队时间大约需要20分钟，幸好有社团提供的电子签新版网站，让我们顺利节省了不少时间！使用电子签证真的方便许多，让我们可以更快开始我们的旅程。
 
-延伸阅读：[你最想知道的下飞机、过海关、出机场流程](/blog/2025-08-14-689dcce7fd8978000125fc52/)（2025最新版）
+延伸阅读：[你最想知道的下飞机、过海关、出机场流程](/blog/bali-all-indonesia-arrival-guide/)（2025最新版）
 
 ✔️ **美金换汇：** 一开始我们先换了200美金，因为能刷卡的地方几乎都用刷卡，结果到了最后才发现现金不足以支付司机的包车费用，因此又在酒店换了150美金。这次的经验让我们体会到，虽然刷卡方便，但还是要留意现金的需求，特别是在使用包车服务时，确保不会因为现金不足而影响行程！
 
-> 延伸阅读：[巴厘岛旅游要准备多少现金？](/blog/2023-09-11-64fdaddefd89780001bdb780/)
+> 延伸阅读：[巴厘岛旅游要准备多少现金？](/blog/bali-travel-cash-budget-guide/)
 
 接下来是我们的详细行程，我们的行程安排如下：
 
@@ -40,11 +40,11 @@ _srcHash: 03159ea9ca46f5309410472bad172784
 
 抵达巴厘岛后，我们直接前往入住的 **Bidadari Villa**。途中，司机 Agus 很贴心地先带我们去购买网络卡和换汇。我们选择了最便宜的12GB网络卡，大约花了USD$16。巴厘岛的网络速度算蛮稳定的，流量也足够我们整个行程使用，无论是导航还是上网分享旅游点滴都很顺畅。
 
-> [【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡/eSIM?](/blog/2024-03-21-65f916bbfd89780001b916e0/)
+> [【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡/eSIM?](/blog/bali-sim-card-esim-roaming-guide/)
 
 > [Bidadari Private Villas & Retreatfangjia&空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=237890)
 
-收录在「[乌布20间令人惊艳的巴厘岛villa推荐](/blog/2024-04-24-6628f08cfd8978000190a575/)」
+收录在「[乌布20间令人惊艳的巴厘岛villa推荐](/blog/ubud-villa-pool-guide/)」
 
 晚上，我们步行大约8分钟来到了 **Natys Restaurant Ubud** 用餐。这间餐厅的价格虽然不算便宜，但食物的品质相当不错，味道和摆盘都有水准。服务也十分周到，餐厅的氛围很适合一家人放松享受一顿愉快的晚餐。
 
@@ -62,7 +62,7 @@ Natys Restaurant Ubud 用餐
 
 今天是乌布包车一日游，我们的第一站是[小杰](http://bit.ly/youtube-jason)介绍过的 **Nukuwera & Pandawa 漂漂河**。这里有附赠午餐，整个漂漂河的体验非常适合家庭，有孩子的我们也玩得很开心，小朋友们非常享受在水中的时光。
 
-Nukuwera漂漂河的介绍：[巴厘岛洞穴漂流河探险记：Nukuwera River Tubing的亲子冒险之旅](/blog/2025-06-09-68463dcbfd897800011c6f06/)
+Nukuwera漂漂河的介绍：[巴厘岛洞穴漂流河探险记：Nukuwera River Tubing的亲子冒险之旅](/blog/nukuwera-river-tubing-adventure/)
 
 之后，我们前往著名的 **圣猴森林**
 
@@ -84,7 +84,7 @@ Warung Pulau Kelapa猪肋排、沙爹、印尼炒饭
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_43dfe121adfd643e4190f3fdefbf16a8.jpg)
 
-想了解更多乌布攻略？[请点击这里](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+想了解更多乌布攻略？[请点击这里](/blog/ubud-guide/)
 
 ## **第三天**
 
@@ -102,9 +102,9 @@ Ayoo Ayoo
 
 Bali Safari Zoo
 
-> 延伸阅读：[巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/blog/2023-07-25-64db6b8cfd897800013a9ab1/)
+> 延伸阅读：[巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/blog/bali-safari-night-stay/)
 
-> 延伸阅读：[巴厘岛亲子一日游攻略：探索野生动物园与红鹤海滩俱乐部](/blog/2024-05-17-6647416cfd89780001f5a5ef/)
+> 延伸阅读：[巴厘岛亲子一日游攻略：探索野生动物园与红鹤海滩俱乐部](/blog/bali-family-day-safari-flamingo/)
 
 用餐结束后，餐厅外还提供了与动物合照的服务。我们选择了这项服务，摄影师帮我们拍了许多照片，有妈妈和哥哥的合照，爸爸和妹妹的，以及全家四口的合影。最棒的是，这整组照片包含所有数字文件，还有一张冲洗成 A4 大小的照片配上精美相册，价格只要 USD$23 左右。相片质量很好，全家人都拍得非常漂亮，我们觉得这真的是超值的回忆记录！
 
@@ -118,15 +118,15 @@ Bali Safari Zoo
 
 今天从 **Bali Safari** 转移到 **Westin Nusa Dua**，在路途中，我们请司机 Agus 帮忙寻找当地的小吃，包括 **Siobak 烧猪** 和 **Martabak 蛋饼**。Agus 不仅帮我们找到了合适的小店，还很细心地跟店老板沟通，避免我们因为是游客而被宰价。这种细心的服务让我们感到非常暖心。
 
-> 延伸阅读：[巴厘岛十大美食推荐](/blog/2023-05-02-64db6b81fd897800013a98e3/)
+> 延伸阅读：[巴厘岛十大美食推荐](/blog/bali-top-10-foods/)
 
 接着，我们询问司机想买伴手礼，我们去了 **Krisna** 和 **The Balinese** 购买伴手礼。Agus 在介绍我们去 Krisna 时，还特别提醒我们如果需要其他的地方，可以随时告诉他，让我们可以自主决定行程。这让我想起十几年前的旅行经验，那时我明明表明不需要购物，却还是被包车司机强行带去几个购物工厂，当时的心情真的非常气愤。这次的体验让我感到非常满意和放松，因为 Agus 完全尊重我们的意愿。
 
 ![特別推薦這家峇里島鳳梨酥, 買回去大家都說讚! 詳細介紹請點我](https://images.gobaligo.id/vocus/vocus_a262dcfae127272b45f387f27aa1463b.jpg)
 
-[特别推荐这家巴厘岛凤梨酥, 买回去大家都说赞! 详细介绍请点我](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+[特别推荐这家巴厘岛凤梨酥, 买回去大家都说赞! 详细介绍请点我](/blog/bali-souvenirs-gift-guide/)
 
-> [延伸阅读：【网友推荐】超过20项巴厘岛伴手礼推荐指南](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+> [延伸阅读：【网友推荐】超过20项巴厘岛伴手礼推荐指南](/blog/bali-souvenirs-gift-guide/)
 
 晚餐则在度假村内的 **Velada 餐厅**，我们享用了汉堡和印度料理。这里的餐厅环境非常舒适，食物也相当美味，汉堡的味道鲜美，印度料理更是令人惊喜，香料的运用恰到好处，让我们在这个旅程的第四天完美收官。
 
@@ -134,7 +134,7 @@ Bali Safari Zoo
 
 ▶[The Westin Resort Nusa Dua 空房&房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=104013)
 
-收录在「[Nusa Dua 努沙杜瓦16家公认最棒的五星度假村住宿推荐](/blog/2024-07-27-66a4562afd89780001d70329/)」
+收录在「[Nusa Dua 努沙杜瓦16家公认最棒的五星度假村住宿推荐](/blog/nusa-dua-resorts-guide/)」
 
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_458ebbef53693f34ad5c8b242487dab9.jpg)
@@ -158,13 +158,13 @@ Bali Safari Zoo
 
 晚餐我们选择了度假村内的 **渡边日本料理**，这家餐厅的料理品质相当不错，味道鲜美，让我们的胃口大开，为我们的放松日画下完美的句点。
 
-> [巴厘岛18家 kids club 亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图、乌布适合家庭度假的最佳选择](/blog/2024-05-14-66405077fd89780001f23b72/)
+> [巴厘岛18家 kids club 亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图、乌布适合家庭度假的最佳选择](/blog/bali-family-resorts-kids-club/)
 
 ### 更多努沙杜瓦吃喝玩乐介绍
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
-努沙杜瓦（Nusa Dua）是巴厘岛以豪华度假村闻名的地区，拥有洁白的沙滩、碧蓝的海水以及完善的旅游设施，是追求高端享受与宁静假期的首选。这里还提供顶级水疗、水上活动、以及适合全家大小的休闲活动，是各类旅客的天堂。想了解更多努沙杜瓦攻略？[请点击这里](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+努沙杜瓦（Nusa Dua）是巴厘岛以豪华度假村闻名的地区，拥有洁白的沙滩、碧蓝的海水以及完善的旅游设施，是追求高端享受与宁静假期的首选。这里还提供顶级水疗、水上活动、以及适合全家大小的休闲活动，是各类旅客的天堂。想了解更多努沙杜瓦攻略？[请点击这里](/blog/nusa-dua-guide/)
 
 ## **第六天**
 
@@ -198,31 +198,31 @@ LINE: gosaray 1105
 
 ## 亲子旅游延伸阅读：
 
-- [巴厘岛家庭亲子友好景点大全｜巴厘岛超过100样适合亲子同乐活动](/blog/2023-03-05-64db6b81fd897800013a98b4/)
-- [带小朋友去巴厘岛家庭旅游的20个注意要点](/blog/2024-04-15-661cecd5fd897800019390f6/)
-- [巴厘岛亲子游：带婴儿、幼童和学龄儿童去度假的一些提示](/blog/2023-11-06-6544370afd89780001e1546c/)
-- [巴厘岛找保姆指南：如何找到适合的保姆及费用概况](/blog/2024-11-10-67301111fd897800016667a1/)
-- [带宝宝去巴厘岛：携带含猪肉、鸡肉副食品的注意事项](/blog/2025-03-04-67c6dce0fd8978000195cf12/)
-- [巴厘岛亲子乐园：十五家拥有滑水道滑梯的亲子度假村 TOP 15](/blog/2024-01-16-65a51edbfd89780001ffc7b2/)
-- [推荐巴厘岛18家庭亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图适合家庭度假、亲子放松的最佳选择](/blog/2024-05-14-66405077fd89780001f23b72/)
-- [乌布55项亲子活动带小朋友最轻松！](/blog/2024-01-10-659cf4a5fd89780001d6fb69/)
-- [巴厘岛最适合亲子度假的海滨：沙努尔攻略地图｜45项吃喝玩乐](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [巴厘岛亲子一日游攻略：探索野生动物园与红鹤海滩俱乐部](/blog/2024-05-17-6647416cfd89780001f5a5ef/)
-- [巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/blog/2023-07-25-64db6b8cfd897800013a9ab1/)
-- [2025新开幕](/blog/2025-01-23-6791ea5dfd89780001a7a07c/) [Marine Safari Bali 巴厘岛海洋野生动物园攻略](/blog/2025-01-23-6791ea5dfd89780001a7a07c/)
-- [与羊驼互动野餐：孩子们的自然课堂](/blog/2025-02-01-679e01b3fd89780001addbd9/)
-- [Nuanu Creative City 的魔法花园 Magic Garden](/blog/2025-04-18-679f922ffd89780001f9a868/)
-- [Jungle Kids Bali | Nuanu 的 Kids Club：最适合孩子的游乐与学习空间](/blog/2025-04-18-67a402f9fd897800017c0313/)
-- [巴厘岛奇幻之旅：在巴厘岛海洋公园遇见《Varuna Show》的水下魔法](/blog/2025-06-08-684569f0fd89780001f24ef9/)
-- [巴厘岛亲子旅游攻略 - 水明漾篇](/blog/2025-02-15-67ac4321fd897800015b9a11/)
-- [巴厘岛亲子旅游攻略 - 乌布篇](/blog/2025-02-16-67b0a910fd89780001798c4e/)
-- [巴厘岛亲子旅游攻略 - 沙努尔篇](/blog/2025-02-22-67b81b4cfd89780001b4a261/)
-- [巴厘岛亲子乐园 Titi Batu Ubud Club 一日体验：健身、玩乐与放松的完美结合](/blog/2025-09-05-68bacc2ffd897800011175a7/)
-- [巴厘岛看海龟全指南：从库塔到沙努尔，亲子必访的海龟保育据点](/blog/2025-10-23-68f9b567fd89780001795353/)
-- [Bali Bird Park 巴厘岛鸟园终极攻略：珍稀鸟种、互动活动与生态保育的奇幻旅程](/blog/2025-10-25-68fc1e0cfd89780001736727/)
-- [The Firefly Garden 萤火虫花园：巴厘岛最闪耀的生态保育与旅游胜地](/blog/2025-08-24-68aa8849fd8978000171256a/)
-- [🎮 ZONE OUT Bali：库塔最酷的虚拟现实冒险基地！](/blog/2025-11-05-690b2c7bfd89780001f3ea8d/)
-- [夜幕下的幻光雨林：巴厘岛乌布Hikaria沉浸式光影艺术体验](/blog/2025-11-10-69113993fd897800015bfa87/)
+- [巴厘岛家庭亲子友好景点大全｜巴厘岛超过100样适合亲子同乐活动](/blog/bali-family-travel-guide/)
+- [带小朋友去巴厘岛家庭旅游的20个注意要点](/blog/bali-family-travel-tips/)
+- [巴厘岛亲子游：带婴儿、幼童和学龄儿童去度假的一些提示](/blog/bali-family-travel-guide-2/)
+- [巴厘岛找保姆指南：如何找到适合的保姆及费用概况](/blog/bali-nanny-hiring-guide/)
+- [带宝宝去巴厘岛：携带含猪肉、鸡肉副食品的注意事项](/blog/baby-food-bali-tips/)
+- [巴厘岛亲子乐园：十五家拥有滑水道滑梯的亲子度假村 TOP 15](/blog/bali-family-resorts-water-slides/)
+- [推荐巴厘岛18家庭亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图适合家庭度假、亲子放松的最佳选择](/blog/bali-family-resorts-kids-club/)
+- [乌布55项亲子活动带小朋友最轻松！](/blog/ubud-with-kids-guide/)
+- [巴厘岛最适合亲子度假的海滨：沙努尔攻略地图｜45项吃喝玩乐](/blog/sanur-guide/)
+- [巴厘岛亲子一日游攻略：探索野生动物园与红鹤海滩俱乐部](/blog/bali-family-day-safari-flamingo/)
+- [巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/blog/bali-safari-night-stay/)
+- [2025新开幕](/blog/marine-safari-bali-guide/) [Marine Safari Bali 巴厘岛海洋野生动物园攻略](/blog/marine-safari-bali-guide/)
+- [与羊驼互动野餐：孩子们的自然课堂](/blog/pacha-alpaca-family-canggu/)
+- [Nuanu Creative City 的魔法花园 Magic Garden](/blog/nuanu-magic-garden-bali/)
+- [Jungle Kids Bali | Nuanu 的 Kids Club：最适合孩子的游乐与学习空间](/blog/jungle-kids-bali-nuanu-playground/)
+- [巴厘岛奇幻之旅：在巴厘岛海洋公园遇见《Varuna Show》的水下魔法](/blog/varuna-show-bali-safari/)
+- [巴厘岛亲子旅游攻略 - 水明漾篇](/blog/seminyak-family-travel-2026/)
+- [巴厘岛亲子旅游攻略 - 乌布篇](/blog/ubud-family-travel-2026/)
+- [巴厘岛亲子旅游攻略 - 沙努尔篇](/blog/sanur-family-travel-guide-2/)
+- [巴厘岛亲子乐园 Titi Batu Ubud Club 一日体验：健身、玩乐与放松的完美结合](/blog/titi-batu-ubud-family-club/)
+- [巴厘岛看海龟全指南：从库塔到沙努尔，亲子必访的海龟保育据点](/blog/bali-turtle-watching-guide/)
+- [Bali Bird Park 巴厘岛鸟园终极攻略：珍稀鸟种、互动活动与生态保育的奇幻旅程](/blog/bali-bird-park-guide/)
+- [The Firefly Garden 萤火虫花园：巴厘岛最闪耀的生态保育与旅游胜地](/blog/the-firefly-garden-ubud/)
+- [🎮 ZONE OUT Bali：库塔最酷的虚拟现实冒险基地！](/blog/zone-out-bali-vr-adventure/)
+- [夜幕下的幻光雨林：巴厘岛乌布Hikaria沉浸式光影艺术体验](/blog/hikaria-ubud-light-show/)
 - 巴厘岛家庭亲子旅游专栏
 
 您觉得 Sannie Lin 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
@@ -231,4 +231,4 @@ LINE: gosaray 1105
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！

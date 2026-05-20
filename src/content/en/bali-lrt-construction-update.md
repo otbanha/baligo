@@ -161,7 +161,7 @@ By introducing advanced management and technical measures, the LRT Bali project 
 
 Overall, the LRT Bali project is a promising infrastructure initiative. It will not only improve Bali's transportation conditions and enhance the tourism experience but also boost the local economy, create job opportunities, and contribute to environmental protection. As the project progresses, we look forward to seeing the positive changes LRT Bali brings to Bali.
 
-> Further Reading: [Bali Transportation Improvement Plan Part 2: The Sea Highway Has Begun Construction](/blog/2024-07-22-669e65bafd8978000115c93b/)
+> Further Reading: [Bali Transportation Improvement Plan Part 2: The Sea Highway Has Begun Construction](/blog/bali-sea-highway-project/)
 
 ## Frequently Asked Questions
 

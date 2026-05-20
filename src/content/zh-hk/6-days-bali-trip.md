@@ -47,13 +47,13 @@ https://youtube.com/shorts/4qrez0ZwYb4
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ac018a86bbb625114fb5312631d10213.jpg)
 
-> **快速參考：**[峇里島探險：巴杜爾火山吉普車日出之旅全記錄](/blog/2025-04-17-68011484fd897800010d1643/)
+> **快速參考：**[峇里島探險：巴杜爾火山吉普車日出之旅全記錄](/blog/batur-volcano-jeep-sunrise-tour/)
 
 - **Kuber ATV 越野：** 揸住沙灘車穿越叢林、泥濘同田埂，感受腎上腺素飆升嘅純粹快樂。
 
 https://youtube.com/shorts/lz69CKyTYLk
 
-> **快速參考：**[峇里島 ATV 四輪越野車探險：感受熱帶天堂嘅刺激與自由（提醒事項+FAQ+業者推薦）](/blog/2024-01-30-65b6ef65fd89780001f5d032/)
+> **快速參考：**[峇里島 ATV 四輪越野車探險：感受熱帶天堂嘅刺激與自由（提醒事項+FAQ+業者推薦）](/blog/bali-atv-adventure-guide/)
 
 - **Mari Beach Club：** 位於水明漾嘅時尚海灘俱樂部，以其放鬆嘅氛圍同優質嘅餐飲體驗而聞名。
 
@@ -67,7 +67,7 @@ https://youtube.com/shorts/lz69CKyTYLk
 
 https://youtube.com/shorts/BORrtY6fafs
 
-> **快速參考：**[【峇里島滑翔翼體驗】喺烏魯瓦圖飛翔！超靚海景+注意事項分享](/blog/2025-05-02-6814aa9efd89780001f68acc/)
+> **快速參考：**[【峇里島滑翔翼體驗】喺烏魯瓦圖飛翔！超靚海景+注意事項分享](/blog/uluwatu-paragliding-ocean-view/)
 
 - **Tanah Barak公路：** 畀少少門票錢，就可以企上呢道延伸至海中嘅巨牆，影低好似世界盡頭嘅孤寂美景。
 
@@ -75,7 +75,7 @@ https://youtube.com/shorts/BORrtY6fafs
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2e1bf7f65cd7d7bb67c5abbd8dc732ad.jpg)
 
-> **快速參考：**[Batu Barak/Tanah Barak：藍色公路/斷崖公路嘅絕美之旅](/blog/2025-03-06-67c9a234fd897800014b5a11/)
+> **快速參考：**[Batu Barak/Tanah Barak：藍色公路/斷崖公路嘅絕美之旅](/blog/batu-barak-cliff-road/)
 
 ### **🛕 文化與採購：**
 
@@ -93,7 +93,7 @@ https://youtube.com/shorts/BORrtY6fafs
 
 - **Montana Del Cafe：** 喺火山湖景嘅環抱下食早餐，心曠神怡。
 
-> [峇里島金塔瑪尼13大景觀火山咖啡廳推薦 🌄☕](/blog/2024-11-27-67467629fd897800018d71d1/)
+> [峇里島金塔瑪尼13大景觀火山咖啡廳推薦 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
 
 - **D'tukad Coffee Club：** 掛喺叢林上面嘅無邊際泳池同瀑布，係網美打卡同放空嘅好去處。
 
@@ -135,7 +135,7 @@ https://youtube.com/shorts/exdiGPLkVjw
 
 最後一日，從藍夢島返去**沙努爾港口**。我哋記取網上嘅經驗分享——港口周邊交通唔方便——再次聯絡 Ani，預約咗去庫塔 **Beachwalk Shopping Center** 嘅單程送機服務。呢個決定非常正確。司機準時喺碼頭外等候，我哋仲請佢順便兜去 Bali Banana 完成最後嘅購物。約四十幾分鐘嘅車程，花費約 USD$19，換來嘅係拖住行李時最珍貴嘅「從從容容」。
 
-> [【倫邦岸島/藍夢島景點攻略】探索藍夢島/金銀島景點、美食、交通：峇里島嘅鄰近天堂](/blog/2024-10-23-66adfb9afd89780001f62df1/)
+> [【倫邦岸島/藍夢島景點攻略】探索藍夢島/金銀島景點、美食、交通：峇里島嘅鄰近天堂](/blog/nusa-lembongan-ceningan-guide/)
 
 ## 結語：唔止一次嘅美好
 
@@ -153,6 +153,6 @@ Ani Si Febri 聯絡資料
 
 撳呢度睇更多[峇里島精彩遊記](/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB)
 
-你都想寫遊記但唔知點樣落手？可以參考吓「[如何寫一篇精彩嘅峇里島遊記](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，幫你嘅遊記更加出色！
+你都想寫遊記但唔知點樣落手？可以參考吓「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出色！
 
 {{block:攻略}}

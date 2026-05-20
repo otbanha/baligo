@@ -121,7 +121,7 @@ With Starlux Airlines entering the competition, the Taipei-Bali direct route wil
 ## **💡 Travel Tips for This Route**
 
 - **Book a Reliable Driver**: After arriving with Starlux, the perfect seamless transition is to book a highly-rated [[**private car charter driver**](/go/bali-car-charter-guide)]. When you disembark from JX765, seeing a neatly dressed driver patiently waiting in the arrival hall and stepping into a spacious, cool car creates a luxurious continuity from the boutique cabin to your private ride.
-- **Secure Your Visa in Advance**: Starlux passengers also need to apply for an Indonesian eVisa. Ensure your details are correct before departure. If you make a mistake, refer to [[**eVisa Data Modification Guide**](/blog/2025-10-12-68eb4f30fd897800017b78c7/)].
+- **Secure Your Visa in Advance**: Starlux passengers also need to apply for an Indonesian eVisa. Ensure your details are correct before departure. If you make a mistake, refer to [[**eVisa Data Modification Guide**](/blog/bali-evisa-error-fix/)].
 - **Pair with High-End Accommodations**: Since you've chosen a boutique airline, don't skimp on accommodations. Consider [[**Nusa Dua Family-Friendly Hotel Recommendations**](/go/nusa-dua-resorts)] or [[**Seminyak Guide**](/go/seminyak-guide)] to maintain the highest quality throughout your trip.
 
 ***

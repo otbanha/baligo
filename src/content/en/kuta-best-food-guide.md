@@ -67,7 +67,7 @@ Wanaku offers a top-notch dining environment.
 
 Wanaku Seafood & Chinese Restaurant is a Chinese seafood restaurant. Unlike other local eateries, it is surrounded by ponds, streams, and lush gardens, ensuring a peaceful and serene dining experience throughout your meal! While enjoying authentic Chinese cuisine, you can also enjoy modern performances and traditional activities that enhance your dining experience! Plus, it’s very close to the airport!
 
-Detailed introduction can be found [here](/blog/2025-01-25-6794fb39fd897800011b4132/)
+Detailed introduction can be found [here](/blog/wanaku-seafood-airport-bali/)
 
 👉[**Special Dining Offers at Wanaku Seafood & Chinese Restaurant**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988045&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F143929-wanaku-seafood-chinese-restaurant-in-kuta-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dc33c5c5189)
 
@@ -145,8 +145,8 @@ This isn't just any bar—it's a mobile bar on four wheels, aptly named **Beer o
 
 ## Bonus Features
 
-- [Seminyak Food Guide｜The Perfect Blend of Romance, Elegance, and Authentic Bali](/blog/2025-06-02-683c262efd89780001852be7/)
-- [Ubud Food Recommendations｜The Ultimate Bali Food Guide](/blog/2026-02-02-69809444fd897800019bddac/)
+- [Seminyak Food Guide｜The Perfect Blend of Romance, Elegance, and Authentic Bali](/blog/seminyak-restaurants-food-guide/)
+- [Ubud Food Recommendations｜The Ultimate Bali Food Guide](/blog/ubud-food-guide/)
 
 ***
 

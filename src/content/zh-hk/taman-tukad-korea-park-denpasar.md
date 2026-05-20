@@ -73,7 +73,7 @@ Tukad Badung Riverside 唔單止係夜景靚嘅景點，更加係城市更新嘅
 5. **適唔適合親子旅遊？**
    非常適合，設有兒童專屬戲水噴泉區，但建議家長陪同。
 6. **點樣安排附近嘅一日遊?**
-   請參考: [【登巴薩攻略地圖】峇里島嘅文化之都：登巴薩，2025年全球百大城市之一](/blog/2025-03-08-67cbb3befd89780001c01e9b/)]
+   請參考: [【登巴薩攻略地圖】峇里島嘅文化之都：登巴薩，2025年全球百大城市之一](/blog/denpasar-culture-guide/)]
 
 > [登巴薩文化遺產與街頭美食夜間導覽](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1256541&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F197385-denpasar-heritage-street-food-evening-tour%2F)
 

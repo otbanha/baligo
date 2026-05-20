@@ -38,7 +38,7 @@ Sandstone-carved miniature stone sculptures
 
 - **Textiles**: Bali's textiles are famous for their vibrant colors and traditional patterns. Whether it's sarongs, scarves, or tablecloths, they all capture the essence of local culture.
 - **Handicrafts**: Such as bracelets, necklaces, and other handwoven accessories.
-- **Incense**: Bring the scent of Bali home with you. For a detailed introduction, check [here](/blog/2025-07-23-6880c98dfd89780001510ee2/).
+- **Incense**: Bring the scent of Bali home with you. For a detailed introduction, check [here](/blog/bali-art-souvenirs-guide/).
 - 👜 **Bali Rattan Bags**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0da8524d97ec3c0a0ab9714a64bb7364.png)
@@ -108,7 +108,7 @@ Made from 100% premium Indonesian dried squid, this snack offers a fragrant, sal
 
 Most tour groups are taken by guides to local shops to purchase this must-buy souvenir, a flavor that lingers in your memory long after returning to Taiwan. For independent travelers in Bali, simply tell your driver you want to buy 'cumi juhi garing'—some drivers know exactly where to go.
 
-Alternatively, you can enjoy a seafood feast at Mr. Lobster and ask Mr. Xu to prepare it for you! Check it out [here](/blog/2024-06-29-667ff433fd897800017b331e/)
+Alternatively, you can enjoy a seafood feast at Mr. Lobster and ask Mr. Xu to prepare it for you! Check it out [here](/blog/mr-lobster-seafood-bali/)
 
 ### Frangipani Essential Oil and Incense (Aromatic Shop)
 

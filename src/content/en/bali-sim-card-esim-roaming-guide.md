@@ -71,7 +71,7 @@ Another option is to purchase in advance online. Klook offers various packages t
 
 ## Recommended eSIM
 
-If your phone supports eSIM, the most stable and highly recommended eSIM option is [this one](/blog/2025-06-06-6842f236fd897800017d78d5/)!
+If your phone supports eSIM, the most stable and highly recommended eSIM option is [this one](/blog/bali-esim-travel-guide/)!
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774795350035-d191a0b14c5f198b32ba296c4e0035b1.jpg)
 

@@ -60,9 +60,9 @@ _srcHash: c1753e0bcec34fa006855a6d6d7f79ea
 
 **快速参考:**
 
-- [沙努尔攻略地图](/blog/2023-08-21-64e2de1bfd897800018eff0b/)
-- [佩尼达岛全攻略](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [蓝梦岛景点攻略](/blog/2024-10-23-66adfb9afd89780001f62df1/)
+- [沙努尔攻略地图](/blog/sanur-travel-map/)
+- [佩尼达岛全攻略](/blog/nusa-penida-guide/)
+- [蓝梦岛景点攻略](/blog/nusa-lembongan-ceningan-guide/)
 
 ---
 

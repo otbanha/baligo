@@ -38,7 +38,7 @@ _srcHash: f2185d3a96839845c79cfbc28eb1e1d4
 
 https://youtu.be/H-IocbLNpE4
 
-> 唔想排隊兩三個鐘？可以考慮呢度 [峇里島景點推薦：Lahangan Sweet ─ 絕美嘅阿貢山景觀點 🌄](/blog/2024-11-17-6739669dfd89780001afcd67/)
+> 唔想排隊兩三個鐘？可以考慮呢度 [峇里島景點推薦：Lahangan Sweet ─ 絕美嘅阿貢山景觀點 🌄](/blog/lahangan-sweet-volcano-view/)
 
 ## 恆河聖泉花園
 
@@ -62,7 +62,7 @@ https://youtu.be/zePMt3KSwTo
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1b788d4b2052c6e67e9c475e88df1921.jpg)
 
-記住順便去埋東部嘅艾眉同土蘭奔呀！攻略喺[呢度](/blog/2025-06-23-68578b01fd89780001dd5208/)
+記住順便去埋東部嘅艾眉同土蘭奔呀！攻略喺[呢度](/blog/amed-tulamben-diving-guide/)
 
 {{block:ubud}}
 

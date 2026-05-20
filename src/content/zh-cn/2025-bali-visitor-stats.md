@@ -68,7 +68,7 @@ _srcHash: 1e8fa4bf2827e3ac2fea94a96ede2e69
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dd1d15ae602a759d1d7e072cbd771d4d.jpg)
 
-**快速参考：**[印尼/巴厘岛电子签证eVisa/eVoa全攻略：申请步骤、注意事项一次掌握！](/blog/2024-02-06-65c217c5fd897800010113af/)
+**快速参考：**[印尼/巴厘岛电子签证eVisa/eVoa全攻略：申请步骤、注意事项一次掌握！](/blog/bali-evisa-application-guide/)
 
 ### B1 签证（Tourist Visa／观光签证）
 
@@ -146,7 +146,7 @@ C1 则强调访问、交流、考察，但一样不能工作。
 
 入境时流程会顺很多，也比较不用排长队。
 
-**快速参考：**[印尼/巴厘岛电子签证eVisa/eVoa全攻略：申请步骤、注意事项一次掌握！](/blog/2024-02-06-65c217c5fd897800010113af/)
+**快速参考：**[印尼/巴厘岛电子签证eVisa/eVoa全攻略：申请步骤、注意事项一次掌握！](/blog/bali-evisa-application-guide/)
 
 ### Q7：EVOA 可以延期吗？
 

@@ -40,9 +40,9 @@ _srcHash: 3aa31d233d008cf839951863f9024f81
 
 **快速参考：**
 
-- [巴厘岛的祭拜习俗：Canang Sari](/blog/2024-07-16-66964aa7fd89780001c7051c/)
-- 【2025】Tirta Empul 圣泉寺完整指南：巴厘岛最神圣的净化水庙体验](/blog/2025-06-18-6852cdc2fd89780001e0b7ad/)
-- 【巴厘岛灵疗/灵性之旅】当《Eat Pray Love》成为我的真实人生](/blog/2025-04-19-680323c9fd89780001988a20/)
+- [巴厘岛的祭拜习俗：Canang Sari](/blog/bali-canang-sari-explained/)
+- 【2025】Tirta Empul 圣泉寺完整指南：巴厘岛最神圣的净化水庙体验](/blog/tirta-empul-temple-guide/)
+- 【巴厘岛灵疗/灵性之旅】当《Eat Pray Love》成为我的真实人生](/blog/eat-pray-love-bali-spiritual-journey/)
 
 ### ✨ **多样化的旅游体验**
 
@@ -52,7 +52,7 @@ _srcHash: 3aa31d233d008cf839951863f9024f81
 
 **快速参考：**
 
-- [巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/blog/2025-04-02-67ecf440fd897800012cb31b/)
+- [巴厘岛户外活动玩什么？50种最受欢迎的户外体验](/blog/bali-top-50-outdoor-activities/)
 
 ### ✨ **与旅人连结的温度**
 
@@ -76,7 +76,7 @@ _srcHash: 3aa31d233d008cf839951863f9024f81
 
 **快速参考：**
 
-- [2025巴厘岛景点地图推荐攻略 ｜500个最新巴厘岛人气景点一次搜全](/blog/2024-03-09-65df201efd89780001994d11/)
+- [2025巴厘岛景点地图推荐攻略 ｜500个最新巴厘岛人气景点一次搜全](/blog/bali-top-500-attractions/)
 
 ***
 

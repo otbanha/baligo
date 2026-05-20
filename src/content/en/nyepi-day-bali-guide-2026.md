@@ -115,4 +115,4 @@ Expect Bali to start filling up with locals from various parts of Indonesia from
 
 ## Other Festivals in Bali
 
-Check out the [Complete Guide to Indonesian National Holidays & Bali Festivals for 2026: A Full Year of Exciting Events!](/blog/2026-01-16-696a37c5fd89780001f0790b/)
+Check out the [Complete Guide to Indonesian National Holidays & Bali Festivals for 2026: A Full Year of Exciting Events!](/blog/2026-bali-festival-guide/)

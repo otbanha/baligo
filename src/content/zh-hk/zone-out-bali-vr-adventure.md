@@ -78,7 +78,7 @@ ZONE OUT Bali 真係好適合排喺「落雨備案」或者「親子娛樂日」
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_59f40e8823a3411d9458f4a11c4dce3f.png)
 
-[峇里島雨季：旅遊峇里島遇到落雨點算？峇里島落雨天嘅60個備案攻略](/blog/2024-01-06-6598c6fffd89780001047d76/)
+[峇里島雨季：旅遊峇里島遇到落雨點算？峇里島落雨天嘅60個備案攻略](/blog/2026-bali-indoor-activities/)
 
 ***
 

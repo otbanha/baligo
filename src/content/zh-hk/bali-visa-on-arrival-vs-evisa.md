@@ -37,7 +37,7 @@ James Lin嘅經驗說明，如果係帶細路、65歲以上長者或者行動不
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_d5ae856e88dfdd6239eb60a49618a6d5.png)
 
-> 延伸閱讀：[2026印尼峇里島入境使用「All Indonesia」申報系統｜1分鐘搞掂最新流程：落機→過海關→攞行李全攻略](/blog/2025-08-14-689dcce7fd8978000125fc52/)
+> 延伸閱讀：[2026印尼峇里島入境使用「All Indonesia」申報系統｜1分鐘搞掂最新流程：落機→過海關→攞行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 
 ## 點解聽講落地簽好快？
 
@@ -47,7 +47,7 @@ James Lin嘅經驗說明，如果係帶細路、65歲以上長者或者行動不
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_75e0b7b75b7ad28994890343c6c92319.png)
 
-> 延伸閱讀：[印尼/峇里島電子簽證eVoa全攻略：申請步驟、注意事項一次掌握！](/blog/2024-02-06-65c217c5fd897800010113af/)
+> 延伸閱讀：[印尼/峇里島電子簽證eVoa全攻略：申請步驟、注意事項一次掌握！](/blog/bali-evisa-application-guide/)
 
 關於落地簽現場付費嘅問題，網友們嘅經驗真係唔太一致。有啲人話現場付費好快，幾乎唔使排隊；但都有唔少人反映，遇到旅遊旺季或者航班密集抵達嗰陣，排隊等候嘅時間可能會好長，甚至超過一個鐘。
 
@@ -69,6 +69,6 @@ James Lin嘅經驗說明，如果係帶細路、65歲以上長者或者行動不
 
 因此我哋都係會建議**儘量事先搞掂電子簽證**、享用自動通關嘅便捷。關於申請電子簽證嘅疑難雜症我哋儘量收集喺下面嘅連結，申請時遇到咩麻煩可以快速幫各位解決：
 
-> [入境印尼/峇里島eVisa簽證、eCD海關、SSHP健康聲明必填 All Indonesia 常見問題 FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)
+> [入境印尼/峇里島eVisa簽證、eCD海關、SSHP健康聲明必填 All Indonesia 常見問題 FAQ](/blog/bali-evisa-customs-health-declaration/)
 
 {{block:klook}}

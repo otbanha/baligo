@@ -28,11 +28,11 @@ The Beautiful Beaches of Nusa Penida Hide Hidden Dangers!
 
 On August 14, at Diamond Beach on Nusa Penida, a tourist was swept into the sea by strong waves, putting them in grave danger. Fortunately, a French tourist on the scene reacted quickly and, with the help of others, used a long rope to successfully pull the victim back to shore, averting a tragedy. Diamond Beach is renowned for its crystal-clear waters, but the area is extremely hazardous due to powerful and unpredictable currents, as well as deceptively calm-looking waves. Local officials have repeatedly emphasized that swimming or even wading in shallow waters is strictly prohibited to avoid such dangers.
 
-Further Reading: [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)
+Further Reading: [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
 
 On the same day, another tragedy occurred at Bingin Beach in Uluwatu. A tourist fell from the famous cliff top and tragically lost their life. The body was first discovered by a French tourist, and rescue teams were immediately dispatched. However, due to the steep cliff terrain, the team was unable to safely retrieve the body until the next morning, when specialized equipment was used. The deceased was confirmed to be a 51-year-old American tourist. It is believed that before the accident, he had parked his rented motorcycle at the top of the cliff at Batu Jaran section of Bingin Beach.
 
-Further Reading: Uluwatu’s Hidden Beach [47 Uluwatu Attractions: Food, Fun, and Recommendations](/blog/2024-03-07-65dfd410fd897800019f4b40/)
+Further Reading: Uluwatu’s Hidden Beach [47 Uluwatu Attractions: Food, Fun, and Recommendations](/blog/uluwatu-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3e535492ebd1e221d48aa49d449d3fde.png)
 

@@ -51,7 +51,7 @@ When visiting here, experiences that tourists absolutely shouldn't miss include 
 
 > Further reading:
 
-> [【Bali Ayana】Ayana Bali 14 Highlights & Accommodation Guide](/blog/2023-10-26-653914f6fd89780001fef733/)
+> [【Bali Ayana】Ayana Bali 14 Highlights & Accommodation Guide](/blog/ayana-resort-bali-guide/)
 
 In summary, AYANA Resort is an unforgettable holiday destination in Bali, ideal whether you're traveling with family, on a honeymoon, or relaxing with friends. Here, you can enjoy ultimate luxury and comfort, making for a wonderful and memorable vacation.
 
@@ -107,6 +107,6 @@ Use **Live Photos** or burst mode to avoid missing the perfect shot due to blink
 
 The pool area can be extremely slippery. Multiple guests have already warned to be extra cautious, as there have been instances of people falling, including one woman. While taking photos is important, safety should always come first.
 
-[【Bali Ayana】14 Highlights & Accommodation Guide for Ayana Bali](/blog/2023-10-26-653914f6fd89780001fef733/)
+[【Bali Ayana】14 Highlights & Accommodation Guide for Ayana Bali](/blog/ayana-resort-bali-guide/)
 
 {{block:jim}}

@@ -42,7 +42,7 @@ _srcHash: 6c7ff885b7dab05183c7865d0cd2ac2a
 
 这座标志性的海上寺庙是观赏日落的热门地点，提供壮观的背景，看着夕阳沉入地平线。
 
-> 延伸阅读：[巴厘岛坎古完美探险地图：100个坎古必游景点](/blog/2023-02-11-64db6b7efd897800013a9815/)
+> 延伸阅读：[巴厘岛坎古完美探险地图：100个坎古必游景点](/blog/canggu-guide/)
 
 ### **乌鲁瓦图庙（Uluwatu Temple）**
 
@@ -52,7 +52,7 @@ _srcHash: 6c7ff885b7dab05183c7865d0cd2ac2a
 
 坐落在悬崖上的寺庙，提供戏剧性的日落景观，印度洋在脚下延伸开来。
 
-> 延伸阅读：[【乌鲁瓦图攻略】乌鲁瓦图景点 47个吃喝玩乐推荐](/blog/2024-03-07-65dfd410fd897800019f4b40/)
+> 延伸阅读：[【乌鲁瓦图攻略】乌鲁瓦图景点 47个吃喝玩乐推荐](/blog/uluwatu-guide/)
 
 ### **金巴兰海滩（Jimbaran Beach）**
 
@@ -62,13 +62,13 @@ _srcHash: 6c7ff885b7dab05183c7865d0cd2ac2a
 
 以海鲜餐厅闻名的金巴兰海滩，是享受美食同时观看日落的好地方。
 
-> 延伸阅读：[巴厘岛金巴兰自由行：推荐30个玩乐景点全攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)
+> 延伸阅读：[巴厘岛金巴兰自由行：推荐30个玩乐景点全攻略](/blog/jimbaran-guide/)
 
 ### **Rock Bar**
 
-位于[阿雅娜度假村](/blog/2023-10-26-653914f6fd89780001fef733/)内，这里是巴厘岛最受欢迎的日落酒吧之一，提供壮丽的悬崖海景和独特的氛围。
+位于[阿雅娜度假村](/blog/ayana-resort-bali-guide/)内，这里是巴厘岛最受欢迎的日落酒吧之一，提供壮丽的悬崖海景和独特的氛围。
 
-> 延伸阅读：[【巴厘岛阿雅娜】Ayana Bali 住宿懒人包》](/blog/2023-10-26-653914f6fd89780001fef733/)
+> 延伸阅读：[【巴厘岛阿雅娜】Ayana Bali 住宿懒人包》](/blog/ayana-resort-bali-guide/)
 
 ### **水明漾海滩（Seminyak Beach）**
 
@@ -76,17 +76,17 @@ _srcHash: 6c7ff885b7dab05183c7865d0cd2ac2a
 
 > 延伸阅读：
 
-> [MoonLite Kitchen and Bar：水明漾的日落美食天堂](/blog/2025-01-25-6794ca61fd89780001127add/)
+> [MoonLite Kitchen and Bar：水明漾的日落美食天堂](/blog/moonlite-kitchen-bar-seminyak-sunset/)
 
-> [巴厘岛水明漾 Ku De Ta Beach Club 完整攻略：餐饮、派对、日落的梦幻海滩体验](/blog/2025-02-24-67bc10d5fd897800015888e3/)
+> [巴厘岛水明漾 Ku De Ta Beach Club 完整攻略：餐饮、派对、日落的梦幻海滩体验](/blog/ku-de-ta-beach-club/)
 
-> [水明漾景点Seminyak巴厘岛必去地点地图：60个吃喝玩乐全面介绍](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+> [水明漾景点Seminyak巴厘岛必去地点地图：60个吃喝玩乐全面介绍](/blog/seminyak-guide/)
 
 ### **Echo Beach**
 
 位于坎古（Canggu），这里是冲浪者的最爱，著名的La Brisa海滩俱乐部提供更为悠闲的日落观赏环境。
 
-> 延伸阅读：[被誉为是「巴厘岛最漂亮的餐厅」：La Brisa](/blog/2023-12-04-656d19fffd897800019cb6ed/)
+> 延伸阅读：[被誉为是「巴厘岛最漂亮的餐厅」：La Brisa](/blog/canggu-la-brisa-restaurant-guide/)
 
 ## 完美日落体验的建议
 

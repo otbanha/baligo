@@ -37,7 +37,7 @@ Book and Save Here:
 
 This market not only boasts an array of handicrafts but also many shops frequented by locals, allowing you to experience the most authentic Balinese shopping atmosphere. When visiting the market, don't forget to bring enough cash, as many vendors don't accept credit cards.
 
-Further reading: [How Much Cash Should You Prepare for a Trip to Bali?](/blog/2023-09-11-64fdaddefd89780001bdb780/)
+Further reading: [How Much Cash Should You Prepare for a Trip to Bali?](/blog/bali-travel-cash-budget-guide/)
 
 ## Badung Market: Pasar Badung
 
@@ -89,21 +89,21 @@ We hope this article inspires your Bali trip and helps you experience the most a
 
 Click here to read more exciting Bali travel stories
 
-Do you want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue stand out!
+Do you want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
 ## Recommended Guides:
 
-- [100 Must-Visit Spots in Seminyak](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [100 Must-Visit Spots in Seminyak](/blog/seminyak-guide/)
 - [50 Must-Visit Spots in Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [100 Must-Visit Spots in Canggu](/blog/2023-02-11-64db6b7efd897800013a9815/)
-- [100 Ways to Explore Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [Jimbaran Guide](/blog/2023-11-09-654b8438fd897800016bf4cc/)
-- [Uluwatu Guide](/blog/2024-03-07-65dfd410fd897800019f4b40/)
-- [Bukit Peninsula Adventure Guide](/blog/2024-10-31-67061b07fd897800012f87b5/)
-- [50 Things to Do in Sanur](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [40 Accommodations, Dining, and Activities in Nusa Dua](/blog/2024-01-25-65afb7bbfd897800017023b4/)
-- [Complete Guide to Nusa Penida](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [Complete Guide to Lembongan and Ceningan Islands](/blog/2024-10-23-66adfb9afd89780001f62df1/)
-- [Nuanu Creative City Guide](/blog/2025-04-18-68026619fd89780001f56243/)
-- [Komodo Island Guide](/blog/2025-05-04-681601c6fd8978000139f8a3/)
-- [Amed/Tulamben Guide](/blog/2025-06-23-68578b01fd89780001dd5208/)
+- [100 Must-Visit Spots in Canggu](/blog/canggu-guide/)
+- [100 Ways to Explore Ubud](/blog/ubud-guide/)
+- [Jimbaran Guide](/blog/jimbaran-guide/)
+- [Uluwatu Guide](/blog/uluwatu-guide/)
+- [Bukit Peninsula Adventure Guide](/blog/bukit-peninsula-guide/)
+- [50 Things to Do in Sanur](/blog/sanur-guide/)
+- [40 Accommodations, Dining, and Activities in Nusa Dua](/blog/nusa-dua-guide/)
+- [Complete Guide to Nusa Penida](/blog/nusa-penida-guide/)
+- [Complete Guide to Lembongan and Ceningan Islands](/blog/nusa-lembongan-ceningan-guide/)
+- [Nuanu Creative City Guide](/blog/nuanu-creative-city-luna-guide/)
+- [Komodo Island Guide](/blog/komodo-island-labuan-bajo-travel/)
+- [Amed/Tulamben Guide](/blog/amed-tulamben-diving-guide/)

@@ -68,7 +68,7 @@ _srcHash: 1e8fa4bf2827e3ac2fea94a96ede2e69
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dd1d15ae602a759d1d7e072cbd771d4d.jpg)
 
-**快速參考：**[印尼/峇里島電子簽證eVisa/eVoa全攻略：申請步驟、注意事項一次掌握！](/blog/2024-02-06-65c217c5fd897800010113af/)
+**快速參考：**[印尼/峇里島電子簽證eVisa/eVoa全攻略：申請步驟、注意事項一次掌握！](/blog/bali-evisa-application-guide/)
 
 ### B1 簽證（Tourist Visa／觀光簽證）
 
@@ -146,7 +146,7 @@ C1 就強調訪問、交流、考察，但同樣唔可以工作。
 
 入境時流程會順好多，亦都唔使排長龍。
 
-**快速參考：**[印尼/峇里島電子簽證eVisa/eVoa全攻略：申請步驟、注意事項一次掌握！](/blog/2024-02-06-65c217c5fd897800010113af/)
+**快速參考：**[印尼/峇里島電子簽證eVisa/eVoa全攻略：申請步驟、注意事項一次掌握！](/blog/bali-evisa-application-guide/)
 
 ### Q7：EVOA 可唔可以延期？
 

@@ -47,13 +47,13 @@ https://youtube.com/shorts/4qrez0ZwYb4
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ac018a86bbb625114fb5312631d10213.jpg)
 
-> **快速参考：**[巴厘岛探险：巴杜尔火山吉普车日出之旅全记录](/blog/2025-04-17-68011484fd897800010d1643/)
+> **快速参考：**[巴厘岛探险：巴杜尔火山吉普车日出之旅全记录](/blog/batur-volcano-jeep-sunrise-tour/)
 
 - **Kuber ATV 越野：** 驾着沙滩车穿越丛林、泥泞与田埂，感受肾上腺素飙升的纯粹快乐。
 
 __VID0__
 
-> **快速参考：**[巴厘岛 ATV 四轮越野车探险：感受热带天堂的刺激与自由（提醒事项+FAQ+业者推荐）](/blog/2024-01-30-65b6ef65fd89780001f5d032/)
+> **快速参考：**[巴厘岛 ATV 四轮越野车探险：感受热带天堂的刺激与自由（提醒事项+FAQ+业者推荐）](/blog/bali-atv-adventure-guide/)
 
 - **Mari Beach Club：**位于水明漾的时尚海滩俱乐部，以其放松的氛围和优质的餐饮体验而闻名。
 
@@ -67,7 +67,7 @@ __VID0__
 
 https://youtube.com/shorts/BORrtY6fafs
 
-> **快速参考：**[【巴厘岛滑翔翼体验】在乌鲁瓦图飞翔！超美海景+注意事项分享](/blog/2025-05-02-6814aa9efd89780001f68acc/)
+> **快速参考：**[【巴厘岛滑翔翼体验】在乌鲁瓦图飞翔！超美海景+注意事项分享](/blog/uluwatu-paragliding-ocean-view/)
 
 - **Tanah Barak公路：** 支付少许门票，便能站上这道延伸至海中的巨墙，拍下宛如世界尽头的孤寂美景。
 
@@ -75,7 +75,7 @@ https://youtube.com/shorts/BORrtY6fafs
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2e1bf7f65cd7d7bb67c5abbd8dc732ad.jpg)
 
-> **快速参考：**[Batu Barak/Tanah Barak：蓝色公路/断崖公路的绝美之旅](/blog/2025-03-06-67c9a234fd897800014b5a11/)
+> **快速参考：**[Batu Barak/Tanah Barak：蓝色公路/断崖公路的绝美之旅](/blog/batu-barak-cliff-road/)
 
 ### **🛕 文化与采购：**
 
@@ -93,7 +93,7 @@ https://youtube.com/shorts/BORrtY6fafs
 
 - **Montana Del Cafe：** 在火山湖景的环抱下享用早餐，心旷神怡。
 
-> [巴厘岛金塔玛尼13大景观火山咖啡厅推荐 🌄☕](/blog/2024-11-27-67467629fd897800018d71d1/)
+> [巴厘岛金塔玛尼13大景观火山咖啡厅推荐 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
 
 - **D'tukad Coffee Club：** 悬挂于丛林之上的无边泳池与瀑布，是网红打卡与放空的好去处。
 
@@ -135,7 +135,7 @@ https://youtube.com/shorts/exdiGPLkVjw
 
 最后一日，从蓝梦岛返回**沙努尔港口**。我们记取网络上的经验分享——港口周边交通不便——再次联系 Ani，预约了前往库塔 **Beachwalk Shopping Center** 的单趟送机服务。这个决定无比正确。司机准时在码头外等候，我们还请他顺道绕去 Bali Banana 完成最后采买。约四十多分钟的车程，花费约 USD$19，换来的却是拖着行李时最珍贵的“从从容容”。
 
-> [【伦邦岸岛/蓝梦岛景点攻略】探索蓝梦岛/金银岛景点、美食、交通：巴厘岛的邻近天堂](/blog/2024-10-23-66adfb9afd89780001f62df1/)
+> [【伦邦岸岛/蓝梦岛景点攻略】探索蓝梦岛/金银岛景点、美食、交通：巴厘岛的邻近天堂](/blog/nusa-lembongan-ceningan-guide/)
 
 ## 结语：不只一次的美好
 
@@ -153,6 +153,6 @@ Ani Si Febri 联系方式
 
 点击这里观看更多[巴厘岛精彩游记](/blog?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB)
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 {{block:攻略}}

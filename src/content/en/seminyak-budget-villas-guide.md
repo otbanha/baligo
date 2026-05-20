@@ -118,7 +118,7 @@ The Tukad Villa is a luxury villa designed for those seeking a private getaway. 
 * **Location**: 500 meters from Sunset Road in Seminyak, a 15-minute drive from Ngurah Rai International Airport.
 * **Rooms**: Private pool villa with an open kitchen, spacious living, and dining area.
 * **Facilities**: Free Wi-Fi, private pool, fully equipped kitchen, stone bathtub, and comprehensive spa services.
-* **Reviews**: Guests are highly satisfied with the staff's service, comfortable pool temperature, and high cleanliness standards, perfect for enjoying romantic moments. The service rivals that of five-star hotels, truly a place you won't want to leave (recommended by [Lin Yanwei](/blog/2024-07-14-6688b074fd897800017bd1d5/)).
+* **Reviews**: Guests are highly satisfied with the staff's service, comfortable pool temperature, and high cleanliness standards, perfect for enjoying romantic moments. The service rivals that of five-star hotels, truly a place you won't want to leave (recommended by [Lin Yanwei](/blog/bali-seminyak-jimbaran-uluwatu-trip/)).
 * **Price**: Starting from around USD$75 per night
 
 > **▶**[**Check Agoda Deals**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=240473)
@@ -150,7 +150,7 @@ New Pondok Sara Villas is a secluded villa filled with romantic ambiance, featur
 * **Location**: About a 5-minute walk from Legian Beach and shopping areas, 10 km from Ngurah Rai International Airport.
 * **Rooms**: Villas come with a private terrace, tropical garden views, a fully equipped kitchen, and a private pool.
 * **Facilities**: Free Wi-Fi, private pool, massage services, breakfast delivered to the villa, and airport transfer available at an additional charge.
-* **Reviews**: Guests especially love the villa's decor and privacy, friendly staff, quiet yet convenient location, making it suitable for travelers seeking a romantic getaway. (Recommended by [Chuang Ling Chun](/blog/2024-05-01-6624e237fd8978000146c224/))
+* **Reviews**: Guests especially love the villa's decor and privacy, friendly staff, quiet yet convenient location, making it suitable for travelers seeking a romantic getaway. (Recommended by [Chuang Ling Chun](/blog/bali-elderly-travel-guide-2/))
 * **Price**: Starting from around USD$80 per night
 
 > **▶**[**Check Agoda Deals**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=285986)

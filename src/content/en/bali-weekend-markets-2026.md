@@ -27,7 +27,7 @@ After the pandemic, much of the online information about Bali's Sunday Markets h
 
 La Brisa Sunday Market is a stunning and vibrant market in Bali, located at Echo Beach in Canggu. Every Sunday, you can find local handmade jewelry, textiles, and beauty products here.
 
-The name La Brisa means 'sea breeze,' and the architecture here uses recycled wood from over 500 old fishing boats, meticulously decorated. Today, La Brisa is one of Bali's most famous and sustainable eco-friendly venues, exuding genuine Balinese charm. Check out our feature: [Dubbed 'Bali's Most Beautiful Restaurant': How La Brisa Stands Out Among Tens of Thousands of Dining Spots?](/blog/2023-12-04-656d19fffd897800019cb6ed/)
+The name La Brisa means 'sea breeze,' and the architecture here uses recycled wood from over 500 old fishing boats, meticulously decorated. Today, La Brisa is one of Bali's most famous and sustainable eco-friendly venues, exuding genuine Balinese charm. Check out our feature: [Dubbed 'Bali's Most Beautiful Restaurant': How La Brisa Stands Out Among Tens of Thousands of Dining Spots?](/blog/canggu-la-brisa-restaurant-guide/)
 
 La Brisa Sunday Market runs every Sunday from 10 AM to 4 PM. It's an initiative supporting local farmers and small businesses, offering organic produce, baked goods, natural body care products, regenerative fashion, and zero-waste products from LYD Organic Farm.
 
@@ -45,11 +45,11 @@ Samadi Sunday Market is a great place to buy local products and support local bu
 
 ![長谷攻略請點我！](https://images.gobaligo.id/vocus/vocus_132830c86013e94b1bf531918a1748e6.jpg)
 
-[Canggu Guide Click Here!](/blog/2023-02-11-64db6b7efd897800013a9815/)
+[Canggu Guide Click Here!](/blog/canggu-guide/)
 
 Canggu is a hotspot on Bali that combines a relaxed atmosphere with trendy vibes. It not only boasts charming beaches but also gathers many unique cafes, creative restaurants, and boutique shops, making it a favorite among surfers and young travelers. Whether you're seeking natural scenery or exploring local culture, Canggu can meet your expectations!
 
-Want to learn more about Canggu? [Click here](/blog/2023-02-11-64db6b7efd897800013a9815/).
+Want to learn more about Canggu? [Click here](/blog/canggu-guide/).
 
 ---
 
@@ -65,9 +65,9 @@ Attending this market is not just about shopping; it's also a way to support loc
 
 ![家庭度假首選沙努爾攻略](https://images.gobaligo.id/vocus/vocus_b236ec1a8a19fcf31cc4b4417061013a.png)
 
-[Sanur Guide for Family Vacations](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
+[Sanur Guide for Family Vacations](/blog/sanur-guide/)
 
-Sanur is a serene coastal town in Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's the ideal place to enjoy a slow-paced lifestyle and explore local culture. Whether you're strolling along the coastline or soaking up the local vibe, Sanur offers an incredibly relaxing vacation experience! Want to know more about Sanur? [Click here](/blog/2024-02-11-65bf2f75fd89780001dbf162/).
+Sanur is a serene coastal town in Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's the ideal place to enjoy a slow-paced lifestyle and explore local culture. Whether you're strolling along the coastline or soaking up the local vibe, Sanur offers an incredibly relaxing vacation experience! Want to know more about Sanur? [Click here](/blog/sanur-guide/).
 
 ---
 
@@ -79,7 +79,7 @@ Located at Hatch Bali Uluwatu in the southern tip of Bali, SUNDAZE ULUWATU MARKE
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
 
-Uluwatu is one of Bali's most popular southern regions, famous for its stunning cliff views, enchanting beaches, and excellent surf spots. Filled with a romantic tropical vacation atmosphere, it's the perfect choice for enjoying sunset views and relaxing moments. If you're also considering staying in Uluwatu, check out our carefully curated guide to food, fun, and activities to make your trip even more enriching and enjoyable: [Uluwatu Guide: Uluwatu Attractions and Recommendations](/blog/2024-03-07-65dfd410fd897800019f4b40/)
+Uluwatu is one of Bali's most popular southern regions, famous for its stunning cliff views, enchanting beaches, and excellent surf spots. Filled with a romantic tropical vacation atmosphere, it's the perfect choice for enjoying sunset views and relaxing moments. If you're also considering staying in Uluwatu, check out our carefully curated guide to food, fun, and activities to make your trip even more enriching and enjoyable: [Uluwatu Guide: Uluwatu Attractions and Recommendations](/blog/uluwatu-guide/)
 
 ---
 

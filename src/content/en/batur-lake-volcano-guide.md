@@ -38,7 +38,7 @@ Watching the sunrise from the summit of Mount Batur is a must-do activity for ma
 
 Want to experience a true sense of conquest? Joining the Mount Batur sunrise hike is a classic itinerary! Typically, you’ll need to start in the early hours of the morning, taking about 2 to 3 hours to reach the summit. When the first light breaks the horizon, the entire lake and mountains shimmer in golden hues, a sight so breathtaking it leaves you speechless.
 
-**Quick Reference:** [Mount Batur Sunrise Hiking Guide](/blog/2024-10-18-66d31f77fd897800011851c1/)
+**Quick Reference:** [Mount Batur Sunrise Hiking Guide](/blog/batur-sunrise-hiking-guide/)
 
 ### 🚙 **Sunrise Jeep Adventure**
 
@@ -46,7 +46,7 @@ Want to experience a true sense of conquest? Joining the Mount Batur sunrise hik
 
 If you're looking for a more relaxed way to catch the sunrise without missing out on the stunning views, consider the "Mount Batur Sunrise Jeep Tour." A 4WD jeep will take you across black volcanic sands and lava fields, straight to the best vantage point.
 
-**Quick Reference:** [Bali Adventure: Full Record of Mount Batur Jeep Sunrise Tour](/blog/2025-04-17-68011484fd897800010d1643/)
+**Quick Reference:** [Bali Adventure: Full Record of Mount Batur Jeep Sunrise Tour](/blog/batur-volcano-jeep-sunrise-tour/)
 
 ***
 
@@ -78,7 +78,7 @@ If the soul of Bali lies between its volcanoes and lakes, then the charm of Lake
 
 Here are our picks for **dozens of Lake Batur view cafes**, whether you're looking to enjoy a peaceful moment or capture the perfect photo, you'll find your spot.
 
-**Quick Reference:** [Top 13 Scenic Volcano Cafes/Restaurants in Kintamani, Bali 🌄☕](/blog/2024-11-27-67467629fd897800018d71d1/)
+**Quick Reference:** [Top 13 Scenic Volcano Cafes/Restaurants in Kintamani, Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
 
 ***
 

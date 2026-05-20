@@ -86,7 +86,7 @@ In addition to savoring delicious food, you can participate in themed guided tou
 - Tasting handcrafted coconut wine and arak
 - Enjoying slow food by the rice terraces or in village kitchens
 
-> Further reading: [🌶️ Top 10 Must-Try Indonesian Dishes in Bali: From Bebek Betutu to Babi Guling, a Taste of Southeast Asia](/blog/2025-05-10-681ed810fd89780001472eb1/)
+> Further reading: [🌶️ Top 10 Must-Try Indonesian Dishes in Bali: From Bebek Betutu to Babi Guling, a Taste of Southeast Asia](/blog/top-10-bali-indonesian-food/)
 
 ---
 

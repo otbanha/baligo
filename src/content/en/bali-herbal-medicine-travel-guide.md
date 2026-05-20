@@ -29,7 +29,7 @@ When preparing to travel to Indonesia or Bali, some travelers may need to bring 
 
 Not long ago, an Australian traveler carrying prescription medication was detained in Indonesia for four days and subjected to 14 hours of interrogation, facing a hefty fine of USD$26,452. See the link below for more details:
 
-> Further Reading: [Important Notes on Bringing Sleeping Pills/Special Prescription Medications to Indonesia/Bali](/blog/2024-03-16-65f4f94ffd897800016b340a/)
+> Further Reading: [Important Notes on Bringing Sleeping Pills/Special Prescription Medications to Indonesia/Bali](/blog/bali-medication-import-guide/)
 
 ### Indonesia's Legal Regulations on Chinese Herbal Medicines
 

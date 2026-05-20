@@ -27,7 +27,7 @@ _srcHash: c14d2307cd30a3c733aea4026d545625
 > **旅馆预订：**  
 > [Agoda 预订 Holiday Inn Bali Sanur](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=27931110)
 
-已收录在：[沙努尔21家从奢华到平价的度假村/villa收集](/blog/2024-08-21-66c3e440fd897800014425a8/)
+已收录在：[沙努尔21家从奢华到平价的度假村/villa收集](/blog/sanur-luxury-budget-resorts/)
 
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_20378ae037005e6072d5b5417d653af4.jpg)
@@ -75,11 +75,11 @@ Icon Bali 小杰的介绍
 
 餐厅方面，我们特别推荐Lilla Warung，他们的锡箔纸包鱼非常美味，令人印象深刻。而Jepun Sanur则是我们相见恨晚的餐厅，非常想连续去吃两次，隔壁还有一家知名的冰淇淋店，每次都排长队，但绝对值得一试。
 
-> 沙努尔的景点、美食餐厅、知名冰淇淋店、地图介绍请看：[Sanur 45项吃喝玩乐攻略](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
+> 沙努尔的景点、美食餐厅、知名冰淇淋店、地图介绍请看：[Sanur 45项吃喝玩乐攻略](/blog/sanur-guide/)
 
 3分钟认识沙努尔
 
-[巴厘岛住宿推荐：Sanur沙努尔22家从奢华到平价的度假村/villa收集](/blog/2024-08-21-66c3e440fd897800014425a8/)
+[巴厘岛住宿推荐：Sanur沙努尔22家从奢华到平价的度假村/villa收集](/blog/sanur-luxury-budget-resorts/)
 
 总结来说，Sanur沙努尔区是一个非常适家庭和休闲游客的地区，无论是住宿、饮食还是娱乐活动都能满足你的需求。
 
@@ -89,21 +89,21 @@ Icon Bali 小杰的介绍
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 ## 参考攻略：
 
-- [巴厘岛水明漾100个景点攻略](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [巴厘岛水明漾100个景点攻略](/blog/seminyak-guide/)
 - [库塔必访50个景点攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [坎古100个必游景点](/blog/2023-02-11-64db6b7efd897800013a9815/)
-- [乌布探索的100个方式](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [金巴兰攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)
-- [乌鲁瓦图攻略](/blog/2024-03-07-65dfd410fd897800019f4b40/)
-- [武吉半岛冒险指南](/blog/2024-10-31-67061b07fd897800012f87b5/)
-- [沙努尔50项吃喝玩乐攻略](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [努沙杜瓦40个住宿美食活动攻略](/blog/2024-01-25-65afb7bbfd897800017023b4/)
-- [佩尼达岛吃喝玩乐全攻略](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [蓝梦岛/金银岛景点全攻略](/blog/2024-10-23-66adfb9afd89780001f62df1/)
-- [Nuanu Creative City攻略](/blog/2025-04-18-68026619fd89780001f56243/)
-- [科摩多岛攻略](/blog/2025-05-04-681601c6fd8978000139f8a3/)
-- [Amed/Tulamben攻略](/blog/2025-06-23-68578b01fd89780001dd5208/)
+- [坎古100个必游景点](/blog/canggu-guide/)
+- [乌布探索的100个方式](/blog/ubud-guide/)
+- [金巴兰攻略](/blog/jimbaran-guide/)
+- [乌鲁瓦图攻略](/blog/uluwatu-guide/)
+- [武吉半岛冒险指南](/blog/bukit-peninsula-guide/)
+- [沙努尔50项吃喝玩乐攻略](/blog/sanur-guide/)
+- [努沙杜瓦40个住宿美食活动攻略](/blog/nusa-dua-guide/)
+- [佩尼达岛吃喝玩乐全攻略](/blog/nusa-penida-guide/)
+- [蓝梦岛/金银岛景点全攻略](/blog/nusa-lembongan-ceningan-guide/)
+- [Nuanu Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
+- [科摩多岛攻略](/blog/komodo-island-labuan-bajo-travel/)
+- [Amed/Tulamben攻略](/blog/amed-tulamben-diving-guide/)

@@ -67,7 +67,7 @@ Ayana Villas 係 Ayana Bali 最豪華嘅住宿選擇，位於Ayana Bali園區嘅
 
 Ayana Villas 嘅別墅都以峇里島傳統風格裝飾，寬敞舒適。別墅入面配備咗現代化嘅設施，包括液晶電視、免費Wi-Fi、迷你吧、廚房、私人泳池等。此外，別墅仲有私人管家服務，為客人提供全方位嘅服務。
 
-Ayana Villas 係峇里島嘅頂級豪華度假村，係休閒度假、蜜月旅行、家庭出遊嘅理想選擇。(Ayana Bali提供四種住宿等級，關於Ayana Bali嘅詳細介紹，[請參考我哋嘅專題](/blog/2023-10-26-653914f6fd89780001fef733/))
+Ayana Villas 係峇里島嘅頂級豪華度假村，係休閒度假、蜜月旅行、家庭出遊嘅理想選擇。(Ayana Bali提供四種住宿等級，關於Ayana Bali嘅詳細介紹，[請參考我哋嘅專題](/blog/ayana-resort-bali-guide/))
 
 > USD$533起，[請睇Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=478524)
 
@@ -181,6 +181,6 @@ __VID0__
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b3a5c8f9a1eaea6500f8c5ea37d5abd7.png)
 
-喺金巴蘭有咩好玩、好睇、好逛嘅推薦呢？唔好忘記睇吓我哋準備嘅「[金巴蘭完整攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)」喔！
+喺金巴蘭有咩好玩、好睇、好逛嘅推薦呢？唔好忘記睇吓我哋準備嘅「[金巴蘭完整攻略](/blog/jimbaran-guide/)」喔！
 
 {{block:住宿}}

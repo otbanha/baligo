@@ -88,16 +88,16 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 **快速參考：**
 
-- [峇里島包車須知 - 費用、預訂方式、優勢分析](/blog/2024-01-12-65a0a163fd8978000115f37a/)
-- [【峇里島包車司機推薦】睇網友真實點評搵到適合你嘅好司機](/blog/2024-07-07-668aaea7fd89780001981840/)
-- [抵達峇里島：接機嘅交通選擇及第一日嘅實用建議](/blog/2024-06-05-665d6a8efd897800013337a9/)
-- [峇里島旅遊中文司機/中文導遊/中文包車行程推薦](/blog/2024-01-29-65b75c45fd897800019130ff/)
-- [峇里島租電單車攻略！應該租電單車好，定係包車好？](/blog/2024-01-22-65adf238fd89780001a798ea/)
-- [幾時包車？咩場合叫車？包車 vs. 叫車：點樣選擇最適合你嘅旅行方式？](/blog/2024-05-05-6636f348fd897800013df126/)
-- [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/2023-08-20-64e187dffd897800017304fe/)
-- [網約車Gojek點樣用？](/blog/2023-08-20-64e187dffd897800017304fe/)
-- [印尼/峇里島嘅Gojek與GoPay註冊、使用、儲值教學全面指南](/blog/2024-10-13-670b5191fd8978000185cf37/)
-- [峇里島APP網約車司機嘅套路：點樣避免Grab/Gojek陷阱？](/blog/2024-05-27-66546581fd8978000119d572/)
+- [峇里島包車須知 - 費用、預訂方式、優勢分析](/blog/bali-private-car-hire-guide/)
+- [【峇里島包車司機推薦】睇網友真實點評搵到適合你嘅好司機](/blog/bali-private-car-drivers-guide/)
+- [抵達峇里島：接機嘅交通選擇及第一日嘅實用建議](/blog/bali-airport-transfer-guide/)
+- [峇里島旅遊中文司機/中文導遊/中文包車行程推薦](/blog/bali-chinese-tour-guide/)
+- [峇里島租電單車攻略！應該租電單車好，定係包車好？](/blog/bali-motorbike-rental-guide/)
+- [幾時包車？咩場合叫車？包車 vs. 叫車：點樣選擇最適合你嘅旅行方式？](/blog/bali-transportation-guide-car-rental/)
+- [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/gojek-bali-guide/)
+- [網約車Gojek點樣用？](/blog/gojek-bali-guide/)
+- [印尼/峇里島嘅Gojek與GoPay註冊、使用、儲值教學全面指南](/blog/indonesia-gojek-gopay-guide/)
+- [峇里島APP網約車司機嘅套路：點樣避免Grab/Gojek陷阱？](/blog/bali-grab-gojek-scam-tips/)
 
 ---
 
@@ -151,8 +151,8 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 **快速參考：**
 
-- [峇里島十大美食](/blog/2023-08-15-64db6b7dfd897800013a97bc/)
-- [峇里島十大美食（第二版）](/blog/2023-05-02-64db6b81fd897800013a98e3/)
+- [峇里島十大美食](/blog/bali-travel-tips/)
+- [峇里島十大美食（第二版）](/blog/bali-top-10-foods/)
 
 ---
 
@@ -162,7 +162,7 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3ea8ffe66b2a6770faffd5da33e37e49.png)
 
-呢度有介紹：[【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+呢度有介紹：[【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/bali-souvenirs-gift-guide/)
 
 ---
 
@@ -188,8 +188,8 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 **快速參考：**
 
-- [印尼/峇里島旅遊換匯懶人包：印尼/峇里島用咩錢？點樣換錢最抵？去邊度換錢最好？](/blog/2024-01-28-65b5c7e2fd89780001e96fac/)
-- [峇里島旅遊預算指南：睇懂價格中嘅「K」點樣幫您控制預算](/blog/2023-08-24-64e730ddfd89780001336a09/)
+- [印尼/峇里島旅遊換匯懶人包：印尼/峇里島用咩錢？點樣換錢最抵？去邊度換錢最好？](/blog/bali-currency-exchange-guide/)
+- [峇里島旅遊預算指南：睇懂價格中嘅「K」點樣幫您控制預算](/blog/bali-budget-tips-k-explained/)
 
 ---
 
@@ -205,7 +205,7 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 **快速參考：**
 
-[印尼峇里島旅遊必備藥品有咩？防蚊液/防曬乳點樣買？](/blog/2024-03-22-65fcd4a5fd89780001513c9a/)
+[印尼峇里島旅遊必備藥品有咩？防蚊液/防曬乳點樣買？](/blog/bali-travel-medicine-checklist/)
 
 ### 早餐供應：
 
@@ -225,12 +225,12 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 **快速參考：**
 
-- [【烏布住宿推薦】泳池別墅私密天堂: 烏布18間令人驚艷嘅峇里島villa](/blog/2024-04-24-6628f08cfd8978000190a575/)
-- [探索烏布9家令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/blog/2024-04-04-660d4c83fd89780001ddf0ad/)
+- [【烏布住宿推薦】泳池別墅私密天堂: 烏布18間令人驚艷嘅峇里島villa](/blog/ubud-villa-pool-guide/)
+- [探索烏布9家令人嘆為觀止嘅樹屋/竹屋別墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
 - [【峇里島住宿推薦】VILLA泳池別墅私密天堂:水明漾21間令人驚艷嘅峇里島祕密花園](/blog/2024-04-04-660e6e92fd89780001e6047e/)
-- [三房/四房以上嘅家庭別墅住宿推薦](/blog/2024-04-30-662e156bfd8978000130c73c/)
-- [坎古區16間私人泳池別墅推薦 Canggu Villa 你不能錯過嘅峇里島別墅](/blog/2024-08-07-66b20b15fd89780001ceef6b/)
-- [【水明漾】唔超過100美金嘅平價峇里島villa推薦](/blog/2024-09-21-66ee9770fd89780001306753/)
+- [三房/四房以上嘅家庭別墅住宿推薦](/blog/bali-group-villa-stay/)
+- [坎古區16間私人泳池別墅推薦 Canggu Villa 你不能錯過嘅峇里島別墅](/blog/canggu-villas-guide/)
+- [【水明漾】唔超過100美金嘅平價峇里島villa推薦](/blog/seminyak-budget-villas-guide/)
 
 ---
 
@@ -242,4 +242,4 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 撳呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但係唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但係唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！

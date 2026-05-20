@@ -57,9 +57,9 @@ Therefore, friends applying for an e-visa must carefully review before payment. 
 
 ## Other e-visa application questions
 
-For those still debating between visa on arrival or e-visa, be sure to refer to this article: [Bali Travel Visa Guide: Visa on Arrival vs E-Visa, Which is Better for You?](/blog/2023-12-05-656f160bfd89780001e07ea9/)
+For those still debating between visa on arrival or e-visa, be sure to refer to this article: [Bali Travel Visa Guide: Visa on Arrival vs E-Visa, Which is Better for You?](/blog/bali-visa-landing-vs-electronic/)
 
-If you encounter issues while applying for an e-visa, we've compiled all common problems here to help you resolve them smoothly: [2024 Updated Indonesia/Bali Entry Visa & E-Visa eVoA Application FAQ](/blog/2023-01-13-64db6b7dfd897800013a978a/)
+If you encounter issues while applying for an e-visa, we've compiled all common problems here to help you resolve them smoothly: [2024 Updated Indonesia/Bali Entry Visa & E-Visa eVoA Application FAQ](/blog/indonesia-bali-visa-evoa-faq/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3b0b0ca8e3bd37264a24e891674da1e9.png)
 

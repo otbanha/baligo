@@ -38,7 +38,7 @@ lang: zh-cn
 _srcHash: 91206a35bd6d970e34be0a46ad9be5a5
 ---
 
-巴厘岛的五星酒店多到让人选择困难。乌布有 [Capella](/blog/2025-03-20-671263f0fd89780001ee6da7/)、乌鲁瓦图有 [Alila](/blog/2025-04-06-67f1f8fbfd89780001607840/)、努沙杜瓦有 [Apurva Kempinski](/blog/2024-04-22-660ff581fd89780001f31315/)…… 但 2026 年最让人惊喜的，是一间盖在沙努尔的全新度假村——**The Meru Sanur**。
+巴厘岛的五星酒店多到让人选择困难。乌布有 [Capella](/blog/capella-ubud-luxury-resort/)、乌鲁瓦图有 [Alila](/blog/alila-villas-uluwatu-bali/)、努沙杜瓦有 [Apurva Kempinski](/blog/apurva-kempinski-bali-nusa-dua/)…… 但 2026 年最让人惊喜的，是一间盖在沙努尔的全新度假村——**The Meru Sanur**。
 
 就在本月，它拿下了亚洲最具分量的旅游媒体之一 **Tatler Asia**，在「2026 印尼最佳新酒店」评选中的最高荣誉，同时也入选「印尼最佳酒店二十强」名单。这对一间刚开业不久的新酒店来说，根本是踢馆直接杀进顶级俱乐部。
 
@@ -92,23 +92,23 @@ _srcHash: 91206a35bd6d970e34be0a46ad9be5a5
 
 这次颁奖典礼就在 The Meru Sanur 旁边的巴厘海滩会议中心举办，涵盖整个亚洲的饭店、餐厅和酒吧评选。
 
-在印尼饭店二十强名单里，巴厘岛拿下了 11 个席次，包括 [Mandapa（丽思卡尔顿Reserve系列）](/blog/2024-02-20-65d21157fd897800013be576/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)、[Capella Ubud](/blog/2025-03-20-671263f0fd89780001ee6da7/)、[Apurva Kempinski ](/blog/2024-04-22-660ff581fd89780001f31315/)等常年霸榜的名字。The Meru Sanur 能在这些老牌强敌中以「新饭店」身份脱颖而出，不只是靠硬件，更是因为它把印尼待客文化做得很到位。
+在印尼饭店二十强名单里，巴厘岛拿下了 11 个席次，包括 [Mandapa（丽思卡尔顿Reserve系列）](/blog/ubud-villas-pool-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)、[Capella Ubud](/blog/capella-ubud-luxury-resort/)、[Apurva Kempinski ](/blog/apurva-kempinski-bali-nusa-dua/)等常年霸榜的名字。The Meru Sanur 能在这些老牌强敌中以「新饭店」身份脱颖而出，不只是靠硬件，更是因为它把印尼待客文化做得很到位。
 
 ### 详细名单
 
 在印尼酒店二十强名单里，巴厘岛拿下了 11 个席位。以下是这次上榜的巴厘岛酒店完整清单：
 
-1. **Mandapa, a Ritz-Carlton Reserve**（乌布） 悬崖上的丛林秘境，俯瞰 Ayung 河谷，丽思卡尔顿储备系列中最受推崇的亚洲物业之一。→ [查看详细介绍](/blog/2024-02-20-65d21157fd897800013be576/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)
-2. **Alila Villas Uluwatu**（乌鲁瓦图） 峭壁边缘的极简风格庄园，无边泳池直面印度洋，是乌鲁瓦图最具代表性的顶级住宿。→ [查看详细介绍](/blog/2025-04-06-67f1f8fbfd89780001607840/)
-3. **Padma Resort Ubud**（乌布） 隐身在乌布山谷的大型度假村，以超长无边泳池和壮阔的梯田景观闻名。→ [查看详细介绍](/blog/2024-02-20-65d21157fd897800013be576/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%A7%98%E5%A2%83-padma-resort-ubud-%E6%93%81%E6%8A%B1%E5%AF%A7%E9%9D%9C%E8%88%87%E5%A5%A2%E8%8F%AF)
+1. **Mandapa, a Ritz-Carlton Reserve**（乌布） 悬崖上的丛林秘境，俯瞰 Ayung 河谷，丽思卡尔顿储备系列中最受推崇的亚洲物业之一。→ [查看详细介绍](/blog/ubud-villas-pool-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)
+2. **Alila Villas Uluwatu**（乌鲁瓦图） 峭壁边缘的极简风格庄园，无边泳池直面印度洋，是乌鲁瓦图最具代表性的顶级住宿。→ [查看详细介绍](/blog/alila-villas-uluwatu-bali/)
+3. **Padma Resort Ubud**（乌布） 隐身在乌布山谷的大型度假村，以超长无边泳池和壮阔的梯田景观闻名。→ [查看详细介绍](/blog/ubud-villas-pool-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%A7%98%E5%A2%83-padma-resort-ubud-%E6%93%81%E6%8A%B1%E5%AF%A7%E9%9D%9C%E8%88%87%E5%A5%A2%E8%8F%AF)
 4. **Bvlgari Resort Bali**（乌鲁瓦图） 精品奢华天花板，全栋仅数十间独立别墅，今年更荣获「年度最佳酒店」大奖。→ [查看详细介绍](/blog/bvlgari-resort-bali/)
-5. **Capella Ubud**（乌布） 巴厘岛唯一顶级「豪华露营」体验，帐篷式别墅高悬丛林，附私人盐水泳池和篝火。→ [查看详细介绍](/blog/2025-03-20-671263f0fd89780001ee6da7/)
-6. **The Apurva Kempinski Bali**（努沙杜瓦） 外型像一座巨型印尼寺庙从海崖倾泻而下，建筑本身就是看点，海景无敌。→ [查看详细介绍](/blog/2024-04-22-660ff581fd89780001f31315/)
-7. **Desa Potato Head**（水明漾） 不只是酒店，更是艺术与可持续概念的复合空间，获颁「最佳创新奖」实至名归。→ [查看详细介绍](/blog/2025-03-19-6735d8e7fd897800013ead73/)
+5. **Capella Ubud**（乌布） 巴厘岛唯一顶级「豪华露营」体验，帐篷式别墅高悬丛林，附私人盐水泳池和篝火。→ [查看详细介绍](/blog/capella-ubud-luxury-resort/)
+6. **The Apurva Kempinski Bali**（努沙杜瓦） 外型像一座巨型印尼寺庙从海崖倾泻而下，建筑本身就是看点，海景无敌。→ [查看详细介绍](/blog/apurva-kempinski-bali-nusa-dua/)
+7. **Desa Potato Head**（水明漾） 不只是酒店，更是艺术与可持续概念的复合空间，获颁「最佳创新奖」实至名归。→ [查看详细介绍](/blog/potato-head-suites-seminyak-review/)
 8. **The Meru Sanur** ⭐ 最佳新酒店（沙努尔） 本文主角！坐拥 1 公里私人海滩线，全套房设计，今年一举拿下最佳新酒店殊荣。→ [查看详细介绍](/blog/the-meru-sanur/)
-9. **Four Seasons Resort Bali at Jimbaran Bay**（金巴兰） 金巴兰湾畔的四季，以私人别墅村落形式呈现，今年获颁「最佳家庭酒店」。→ [查看详细介绍](/blog/2024-08-09-66b5be79fd897800016df66e/)
+9. **Four Seasons Resort Bali at Jimbaran Bay**（金巴兰） 金巴兰湾畔的四季，以私人别墅村落形式呈现，今年获颁「最佳家庭酒店」。→ [查看详细介绍](/blog/four-seasons-bali-jimbaran-bay/)
 10. **Four Seasons Resort Bali at Sayan**（乌布） 巴厘岛最早的顶级丛林度假村之一，莲花池大厅与 Ayung 河景至今仍无可取代。→ [查看详细介绍](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48716)
-11. **The St Regis Bali Resort**（努沙杜瓦） 老牌奢华的稳定代表，管家服务与私人泳池别墅让它年年稳守榜单。→ [查看详细介绍](/blog/2024-07-27-66a4562afd89780001d70329/#the-st-regis-bali-resort%EF%B8%8F%E5%9C%B0%E5%9C%96%E4%BD%8D%E7%BD%AE)
+11. **The St Regis Bali Resort**（努沙杜瓦） 老牌奢华的稳定代表，管家服务与私人泳池别墅让它年年稳守榜单。→ [查看详细介绍](/blog/nusa-dua-resorts-guide/#the-st-regis-bali-resort%EF%B8%8F%E5%9C%B0%E5%9C%96%E4%BD%8D%E7%BD%AE)
 
 ***
 

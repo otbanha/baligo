@@ -37,7 +37,7 @@ Besides the visa, there are two other important online procedures that you shoul
 1. **All Indonesia Entry Card (including e-CD Customs Declaration and SSHP Health Declaration Form)**
 2. **Tourist Levy Payment Receipt**
 
-All four processes above can be completed online as electronic documents. It's actually not difficult to handle, as long as you prepare copies of your passport, flight information, and payment methods in advance. After completion, it's recommended to save the QR Code screenshot to your phone's photo album for faster scanning upon arrival. For detailed procedures, check this out: [Understand Bali's 2026 Entry Changes in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2025-08-14-689dcce7fd8978000125fc52/)
+All four processes above can be completed online as electronic documents. It's actually not difficult to handle, as long as you prepare copies of your passport, flight information, and payment methods in advance. After completion, it's recommended to save the QR Code screenshot to your phone's photo album for faster scanning upon arrival. For detailed procedures, check this out: [Understand Bali's 2026 Entry Changes in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
 
 Next, our Bali adventure for two begins～🌴
 
@@ -61,7 +61,7 @@ Although we arrived a bit late and missed the sunset, only capturing the night v
 
 We stayed in an ocean-view room, which cost about USD$387 per night. While it was already quite nice, here's a small tip: **the AYANA resort complex is very large**. If you choose a cheaper room type, you might end up in a more remote area, and walking to the main facilities can be exhausting. We recommend adding a bit more to your budget and choosing a room closer to the main facilities for a better experience!
 
-Further reading: [【Bali Ayana】Ayana Bali Accommodation Guide》Ayana Segara, RIMBA, Ayana Resort..](/blog/2023-10-26-653914f6fd89780001fef733/)
+Further reading: [【Bali Ayana】Ayana Bali Accommodation Guide》Ayana Segara, RIMBA, Ayana Resort..](/blog/ayana-resort-bali-guide/)
 
 ## 📸 **Day Two: Early Morning Rush to the Famous H2O Pool for Stunning Photos!**
 
@@ -73,7 +73,7 @@ To capture the dreamy pool photos often seen on Instagram, we got up at 7 AM the
 
 We took round after round of photos just to capture those moments when the sunlight was at its most beautiful (laughs). Getting up early was definitely worth it!
 
-Quick reference: [【Must-See Pools in Bali】Six Stunning Pools at Ayana Resort](/blog/2024-05-01-6631b966fd89780001eb74d2/)
+Quick reference: [【Must-See Pools in Bali】Six Stunning Pools at Ayana Resort](/blog/ayana-resort-pools-photo/)
 
 ### 🍽 **Breakfast Feast, Skip Lunch**
 
@@ -109,7 +109,7 @@ Editor's note: The Cave also features a cliffside pool day club, which is anothe
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a41f7059b9d933b43ebc4cfd56684828.png)
 
-[Exploring Oneeighty Day Club: Bali's Cliffside Pool with Stunning Views](/blog/2023-12-07-6571846ffd89780001fe97ee/)
+[Exploring Oneeighty Day Club: Bali's Cliffside Pool with Stunning Views](/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ## ☕️ **Day 3: Heading to a Highland Café, Checking into a Romantic Jungle Villa in Ubud**
 
@@ -209,7 +209,7 @@ Especially on routes like Jimbaran, Seminyak to Ubud, traffic jams are common. W
 
 Over 75% of Bali's population works in the service industry, so tipping moderately is a polite way to show support. However, some people may try to guilt-trip you or act entitled when asking for tips. In such cases, **you really don’t need to feel obligated to tip**. Maintaining boundaries and self-respect is more important.
 
-Quick Reference: [Should You Tip in Bali? How Much to Tip in Various Situations?](/blog/2024-05-07-663a126bfd89780001390b63/)
+Quick Reference: [Should You Tip in Bali? How Much to Tip in Various Situations?](/blog/bali-tipping-guide-driver-spa/)
 
 ### 🐰 **5. Gold Rabbit Coffee Factory? Google It Before Deciding to Go!**
 

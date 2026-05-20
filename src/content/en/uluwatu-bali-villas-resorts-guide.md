@@ -30,7 +30,7 @@ _srcHash: 9b10a51c40815cec007f70bd7fc1e770
 
 Uluwatu is one of the most popular tourist areas in southern Bali, home to many beautiful hidden beaches, the famous Uluwatu Temple, and other attractions.
 
-Want to learn more about the unique features of this area and which attractions are worth visiting? Check out our [guide](/blog/2024-10-31-67061b07fd897800012f87b5/).
+Want to learn more about the unique features of this area and which attractions are worth visiting? Check out our [guide](/blog/bukit-peninsula-guide/).
 
 If you're looking for a comfortable, luxurious, and breathtaking ocean view accommodation, consider the following options:
 
@@ -162,7 +162,7 @@ AYANA Villas Bali
 
 Although Ayana is not located in Uluwatu, it is very close. Ayana Villas is a top-tier luxury resort in Bali, with villas ranging from 200 to 1000 square meters, accommodating 2 to 12 guests. Situated on the coastal heights of the Ayana Bali estate, it offers magnificent views. There are 60 villas in total, each featuring a private pool, personal butler service, and other premium amenities.
 
-For a detailed introduction to Ayana Bali, [check it out here](/blog/2023-10-26-653914f6fd89780001fef733/).
+For a detailed introduction to Ayana Bali, [check it out here](/blog/ayana-resort-bali-guide/).
 
 > ▶[Check Agoda's discounted rates for your travel dates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=478524)
 
@@ -232,7 +232,7 @@ La Cabane's facilities are quite comprehensive, featuring an outdoor swimming po
 
 The location is excellent, just a few minutes' drive from the famous Uluwatu Temple, and nearby attractions include Pandawa Beach and Padang Padang Beach. Whether you want to experience world-class surfing, enjoy stunning sunsets, or explore Bali's cultural heritage, La Cabane is the perfect starting point.
 
-> For more information about La Cabane, please visit [here](/blog/2025-09-04-68b8d2e3fd897800017acaee/)
+> For more information about La Cabane, please visit [here](/blog/la-cabane-bali-uluwatu/)
 
 > ▶[Check Agoda's discounted rates for your travel dates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=822795)
 

@@ -29,7 +29,7 @@ _srcHash: 223a59c092275c6080b8d4d0937a99ee
 
 During the process of applying for an Indonesian visa, a traveler shared her experience story. Although she confirmed she would stay for more than 30 days, she still recommended applying for a 30-day visa, as according to online information, visas for stays within 30 days are usually approved immediately after application and payment. As for applying for a 60-day visa, she was uncertain about it; the immigration officer told her it might take 5-7 working days, or even longer, so she suggested that travelers planning to stay for more than 30 days first apply for a **B1 visa** for entry within 30 days, and consider extending the visa before it expires if they plan to stay longer.
 
-> Further Reading: [2024 Indonesia/Bali Online Visa Extension Guide](/blog/2024-02-05-65c039affd89780001e5a3db/)
+> Further Reading: [2024 Indonesia/Bali Online Visa Extension Guide](/blog/2024-bali-visa-extension/)
 
 Due to negligence, this traveler did not notice that applying for a visa for more than 60 days requires a longer processing time and proof of financial means. She completed the application and payment on the 27th, but found that the review was not yet completed when she was about to enter on the 29th. Faced with this predicament, although she presented the payment receipt at Bali airport, the immigration officer on site could not process it immediately and she still had to wait for the review. The immigration officer told her that if she came again within 3 months, she could use the visa she had successfully applied for before.
 

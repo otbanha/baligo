@@ -31,7 +31,7 @@ The second day of our first family trip to Bali, today's itinerary includes:
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_85927681da5e54d9cc9e2a0075146d7b.jpg)
 
-Starting from the incredibly convenient Aloft Kuta ([see previous episode](/blog/2024-04-23-66266976fd89780001598b10/)) > Garuda Wisnu Kencana Cultural Park in Jimbaran > Kelly's Warung with ocean views in Uluwatu > Uluwatu Temple > Kecak Fire Dance > Street food
+Starting from the incredibly convenient Aloft Kuta ([see previous episode](/blog/bali-family-trip-aloft-kuta/)) > Garuda Wisnu Kencana Cultural Park in Jimbaran > Kelly's Warung with ocean views in Uluwatu > Uluwatu Temple > Kecak Fire Dance > Street food
 
 ## GWK Cultural Park
 
@@ -103,7 +103,7 @@ At Garuda Wisnu Kencana Cultural Park, you can find various restaurants and cafe
 > 🦅☀️🌴GWK Cultural Park, the massive Vishnu statue and Garuda are breathtaking 😍, and you can also enjoy traditional performances, a perfect blend of culture and nature ▶[Klook Booking Link](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
 
 > **Quick Reference:**
-> [Bali Garuda Wisnu Kencana GWK Cultural Park Complete Guide](/blog/2025-07-17-68785bf9fd89780001822053/)
+> [Bali Garuda Wisnu Kencana GWK Cultural Park Complete Guide](/blog/gwk-cultural-park-bali/)
 
 ## **Kelly's Warung Beach Club: Enjoy Unparalleled Ocean Views**
 
@@ -203,7 +203,7 @@ Admission ticket prices vary depending on the visitor's status, so purchase acco
 
 **About the Fire Dance**
 
-The 'Kacak Fire Dance' primarily reenacts a segment of the Indian epic Ramayana, depicting the battle between the Monkey King and the demon. The dazzling flames and colorful costumes are mesmerizing! Friends interested in learning more about this famous Hindu performance can [click here](/blog/2024-01-29-65b6e533fd89780001f51eaf/), where I have provided a detailed introduction. This is a performance that almost everyone who has seen it feels was worth the ticket price!
+The 'Kacak Fire Dance' primarily reenacts a segment of the Indian epic Ramayana, depicting the battle between the Monkey King and the demon. The dazzling flames and colorful costumes are mesmerizing! Friends interested in learning more about this famous Hindu performance can [click here](/blog/kecak-fire-dance-bali/), where I have provided a detailed introduction. This is a performance that almost everyone who has seen it feels was worth the ticket price!
 
 ![📝強烈建議觀看擁有夕陽相伴的第一場，自然美景和Kacak 表演內容融合在一起，半夢半醒之間💭，非常有意義](https://images.gobaligo.id/vocus/vocus_6c9a483035b9e7089425c30954218809.jpg)
 
@@ -231,7 +231,7 @@ For those interested in watching the fire dance performance, consider the highly
 
 ## Return Journey & Sneak Peek
 
-We returned to rest at Aloft Kuta, located inside Beachwalk Shopping Center. This hotel is perfect for our family of four, offering modern amenities and rooms with two queen beds. Check out my detailed introduction in the first day's travelogue: [Day 1 Accommodation Arrangement at Aloft Kuta & Recommended Private Car Driver](/blog/2024-04-23-66266976fd89780001598b10/).
+We returned to rest at Aloft Kuta, located inside Beachwalk Shopping Center. This hotel is perfect for our family of four, offering modern amenities and rooms with two queen beds. Check out my detailed introduction in the first day's travelogue: [Day 1 Accommodation Arrangement at Aloft Kuta & Recommended Private Car Driver](/blog/bali-family-trip-aloft-kuta/).
 
 ![Aloft Kuta的兩張雙人床房型，還有一個mini bar](https://images.gobaligo.id/vocus/vocus_6caf8d830268f4376302459bd2d776f4.jpg)
 
@@ -258,10 +258,10 @@ In the next episode, join us as we experience the thrill and fun of surfing, alo
 
 Full travelogue now complete:
 
-- [**Day 1: Staying in a shopping mall! Family-friendly accommodation for two adults and two kids**](/blog/2024-04-23-66266976fd89780001598b10/)
-- [**Day 2: GWK Cultural Park, Uluwatu Free Beach Club, Uluwatu Temple, Uluwatu Fire Dance**](/blog/2024-05-17-662c59e9fd897800011f1230/)
-- [**Day 3-7: Five Days in Ubud: Food, Attractions, Accommodation, and Volcano Exploration Recommendations**](/blog/2024-12-17-674bb924fd8978000120ac11/)
-- [**Day 8: How to Enjoy Bali Safari and Overnight Stay Guide**](/blog/2023-07-25-64db6b8cfd897800013a9ab1/)
+- [**Day 1: Staying in a shopping mall! Family-friendly accommodation for two adults and two kids**](/blog/bali-family-trip-aloft-kuta/)
+- [**Day 2: GWK Cultural Park, Uluwatu Free Beach Club, Uluwatu Temple, Uluwatu Fire Dance**](/blog/bali-family-trip-gwk-beach-club/)
+- [**Day 3-7: Five Days in Ubud: Food, Attractions, Accommodation, and Volcano Exploration Recommendations**](/blog/bali-family-trip-ubud-guide/)
+- [**Day 8: How to Enjoy Bali Safari and Overnight Stay Guide**](/blog/bali-safari-night-stay/)
 
 > This article features a Vietnamese-Taiwanese businesswoman and her family's trip to Bali
 > The above content is adapted/reprinted with permission from the owner of "[Let's Play and Eat Ho Chi Minh City](https://www.facebook.com/profile.php?id=100068951930592)"

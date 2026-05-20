@@ -503,7 +503,7 @@ This place is so fairytale-like and perfect for photography! Highly recommended 
 
 **Additional Experiences**｜The activities here are diverse, including rice field hikes, yoga classes, cooking classes, and the unique hot air balloon flight experience. After a day of adventure, you can enjoy a meal at the resort's Tempayan restaurant or savor complimentary cocktails and afternoon tea at the Bird Lounge while admiring the rice field views.
 
-Tanah Gajah combines luxury and tranquility, offering a comprehensive retreat for both body and mind. Whether for couples, families, or solo travelers, it provides an unforgettable accommodation experience. ([Ya-yun Chen](/blog/2024-08-10-669c8097fd89780001f355be/))
+Tanah Gajah combines luxury and tranquility, offering a comprehensive retreat for both body and mind. Whether for couples, families, or solo travelers, it provides an unforgettable accommodation experience. ([Ya-yun Chen](/blog/bali-family-trip-7-days-2/))
 
 > [Tanah Gajah Room Rates & Availability Check](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=69555)
 
@@ -535,7 +535,7 @@ Tanah Gajah combines luxury and tranquility, offering a comprehensive retreat fo
 
 **Rooms**｜The villa offers both one-bedroom and two-bedroom options. Each unit includes a spacious living area, desk, and private safe. The living room is equipped with a flat-screen satellite TV, CD/DVD player, and laptop safe. The fully equipped kitchen comes with a microwave and oven, while the semi-open private bathroom features a bathtub (or shower), slippers, and complimentary toiletries. Guests can enjoy a delicious breakfast each morning while taking in beautiful views of the mountains and pool from the villa.
 
-Ubud Paradise Villa combines tranquility with convenience, making it an ideal getaway for those seeking to escape the city hustle without sacrificing modern comforts. Mr. Sumaba and the villa staff are warm and attentive, ensuring your stay is nothing short of perfect. ([Provided by Zhao Kangkang](/blog/2024-08-12-66b84461fd89780001c7c2b4/))
+Ubud Paradise Villa combines tranquility with convenience, making it an ideal getaway for those seeking to escape the city hustle without sacrificing modern comforts. Mr. Sumaba and the villa staff are warm and attentive, ensuring your stay is nothing short of perfect. ([Provided by Zhao Kangkang](/blog/bali-family-trip-ubud-canggu/))
 
 > [Check Rates & Availability at Ubud Paradise Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920688)
 
@@ -565,7 +565,7 @@ Ubud Paradise Villa combines tranquility with convenience, making it an ideal ge
 
 **Rooms**｜Room options include villas with private pools. All rooms are equipped with air conditioning, a desk, electric kettle, safe, flat-screen TV, and private bathroom. Some rooms also feature a kitchenette. Guests can enjoy a continental, American, or Asian breakfast daily.
 
-**Guest Reviews**｜Guests are impressed by the friendly service at Inara Alas Harum. Despite its jungle location, the property is exceptionally clean. The pool and hot tub are favorites among travelers, and the facilities are well-maintained. The restaurant's delicious food and rice field views are unforgettable, and the thoughtful shuttle service makes this a perfect vacation spot. ([Provided by Li Ly](/blog/2024-03-14-65ed5114fd89780001dcc688/))
+**Guest Reviews**｜Guests are impressed by the friendly service at Inara Alas Harum. Despite its jungle location, the property is exceptionally clean. The pool and hot tub are favorites among travelers, and the facilities are well-maintained. The restaurant's delicious food and rice field views are unforgettable, and the thoughtful shuttle service makes this a perfect vacation spot. ([Provided by Li Ly](/blog/bali-spa-recommendations/))
 
 > [Check Rates & Availability at Inara Alas Harum](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581751)
 
@@ -637,7 +637,7 @@ Additionally, the Matahari Spa within the resort offers traditional Balinese mas
 
 **Room Types**｜E Sanctuary Resort offers only 7 refined rooms, emphasizing privacy and tranquility. The highlight is the Grand Pool Villa, boasting 250 square meters of spacious living area and a private pool, starting at just USD$152 during the low season, including breakfast. Each room is equipped with air conditioning, a balcony, a coffee machine, a minibar, and bathrobes, ensuring every night feels as cozy as home.
 
-We have a detailed review available [here](/blog/2025-06-19-68540320fd8978000126a919/)
+We have a detailed review available [here](/blog/e-sanctuary-resort-ubud/)
 
 > [Check E Sanctuary Resort Ubud Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=63295924)
 

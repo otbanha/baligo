@@ -31,7 +31,7 @@ _srcHash: 33cc5fdabf16372ed8398a9f0e182adc
 
 **09:15-14:45** 搭飛機抵達峇里島，事先喺Klook預約咗機場接送服務，司機會喺機場等埋我，仲會耐心等2個鐘。上車後可以請司機先載去換錢所換錢，我就直接去咗BMC金錢兌換所換錢。之後就去今晚住嘅[The Eight](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23144116)渡假村。
 
-> 延伸閱讀: [印尼/峇里島旅遊換匯懶人包](/blog/2024-01-28-65b5c7e2fd89780001e96fac/)
+> 延伸閱讀: [印尼/峇里島旅遊換匯懶人包](/blog/bali-currency-exchange-guide/)
 
 去附近嘅超市買咗防蚊液、轉插頭、太陽眼鏡同夏季泳衣。喺 [niconico swimwear](https://niconicoswimwear.com/) 買咗一套夏季泳衣。呢間舖嘅店員好友善/唔會成日迫你買嘢，款式又多。
 
@@ -47,13 +47,13 @@ https://youtu.be/UoGlRyAdyB8?si=zU9O679PYB4OFz3U
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775484443433-d2afa4e9-95d6-4542-b6ba-b0fd80619d3a.jpg)
 
-> 延伸閱讀: [探索Oneeighty Day Club：峇里島懸崖邊嘅泳池極致美景](/blog/2023-12-07-6571846ffd89780001fe97ee/)
+> 延伸閱讀: [探索Oneeighty Day Club：峇里島懸崖邊嘅泳池極致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
 
 **17:30** 到達The Blue Point Beach。出發前要留意潮汐，當日滿潮係下晝兩點，五點去仲係高水位，唔係咁好影相。
 
 https://youtu.be/hQbBTktqEqY
 
-> 延伸閱讀: [探索峇里島嘅無人秘境 6個峇里島秘境沙灘攻略/點樣查詢潮汐？](/blog/2023-08-22-64e4c0c9fd897800014e31bf/)
+> 延伸閱讀: [探索峇里島嘅無人秘境 6個峇里島秘境沙灘攻略/點樣查詢潮汐？](/blog/bali-hidden-beaches-guide/)
 
 **18:00-19:30** 轉場去La Terrazza Uluwatu食飯睇靚景。餐廳位置一流，可以睇到日落同烏魯瓦圖海神廟嘅剪影。
 
@@ -111,7 +111,7 @@ https://youtu.be/JtxZHtijEkE
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775485795494-resize.jpeg)
 
-> 延伸閱讀: [峇里島瀑布靚相點可以錯過呢度？Kanto Lampo Waterfall](/blog/2020-11-06-64db6b71fd897800013a9435/)
+> 延伸閱讀: [峇里島瀑布靚相點可以錯過呢度？Kanto Lampo Waterfall](/blog/kanto-lampo-waterfall-ig-spot/)
 
 https://youtube.com/shorts/w-gzis-G6OI
 
@@ -168,11 +168,11 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775485916831-resize_3_.jpeg)
 
-> 延伸閱讀: [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/2023-08-16-64db6b82fd897800013a9942/)
+> 延伸閱讀: [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)
 
 喺Nusa Penida就只可以包車，我係喺Klook上訂船票+包車，整體嚟講都好滿意。包車公司會事先聯絡確定行程，然後幫手同司機溝通。一落船同司機會合之後佢仲幫手拎行李，之後全程都好認真做導遊，我要爬落kelingking beach佢都跟埋落去，真係好多謝佢。過程每到一個點佢都會影相同公司回報，獨遊女子覺得安心好多～呢個行程真係好多謝包車司機，一路由頭到尾幫手拎行李，陪住影相，好盡責。
 
-> 延伸閱讀: [Nusa Penida佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/blog/2024-01-16-65a5e069fd897800010625d0/)
+> 延伸閱讀: [Nusa Penida佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/blog/nusa-penida-transport-guide/)
 
 **18:00** 去Penida Colada Beach Bar飲嘢
 
@@ -290,6 +290,6 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 撳呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但係唔知點落手咩？可以參考吓「[如何寫一篇精彩嘅峇里島遊記](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但係唔知點落手咩？可以參考吓「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
 
 {{block:攻略}}

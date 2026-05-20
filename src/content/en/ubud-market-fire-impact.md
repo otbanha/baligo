@@ -40,4 +40,4 @@ The fire originated from the basement
 
 "We have temporarily closed the roads leading to Ubud Market to ensure smooth passage for fire trucks. We have deployed police forces at multiple points leading to the market."
 
-> Further Reading: [Ubud Art Market Closed, What Are the Alternative Shopping Options for Tourists?](/blog/2024-08-24-66c9e2acfd897800015a8acf/)
+> Further Reading: [Ubud Art Market Closed, What Are the Alternative Shopping Options for Tourists?](/blog/ubud-art-market-alternatives/)

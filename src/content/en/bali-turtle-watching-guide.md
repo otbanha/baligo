@@ -54,7 +54,7 @@ Activity times vary, **please follow BSTS official IG or Facebook for updates** 
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_653a7621066e1f56aaf7e49601283f11.jpg)
 
-📍 **Location**: Sindhu Beach, Sanur. Refer to [Sanur Guide Map](/blog/2024-02-11-65bf2f75fd89780001dbf162/) for exact location
+📍 **Location**: Sindhu Beach, Sanur. Refer to [Sanur Guide Map](/blog/sanur-guide/) for exact location
 
 🌐 **Official Info**: [Sea Turtle Village Sanur](https://www.hyatt.com/content/dam/hotel/propertysites/assets/regency/dpsbl/documents/en_us/home/Sea-Turtle-Village-Activities.pdf)
 
@@ -77,7 +77,7 @@ Visiting in the early morning or evening is most comfortable, with soft light pe
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c3a5b550721e4545254d70c3406ea9f0.jpg)
 
-📍 **Location**: Sindhu Beach, Sanur. Refer to the [Sanur Guide Map](/blog/2024-02-11-65bf2f75fd89780001dbf162/) for exact location.
+📍 **Location**: Sindhu Beach, Sanur. Refer to the [Sanur Guide Map](/blog/sanur-guide/) for exact location.
 
 🌐 **Official Page**: [Sindu Dwarawati Turtle Conservation](https://www.instagram.com/sindu_dwarawati?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 
@@ -99,7 +99,7 @@ https://youtube.com/shorts/9EeW2YH0iY0
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_210d4b94f50f241c3bd9234150ff0593.jpg)
 
-📍 **Location**: Serangan Island (offshore from Sanur. Refer to the [Sanur Guide Map](/blog/2024-02-11-65bf2f75fd89780001dbf162/) for exact location).
+📍 **Location**: Serangan Island (offshore from Sanur. Refer to the [Sanur Guide Map](/blog/sanur-guide/) for exact location).
 
 🌐 **Official Website**: [TCEC Serangan](https://www.instagram.com/tcecserangan?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw==)
 

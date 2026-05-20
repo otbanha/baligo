@@ -76,7 +76,7 @@ _srcHash: e3d1ee09079900d5391a0b3c4288e79f
 
 ## Alila Uluwatu 住宿介绍:
 
-[**【巴厘岛奢华新定义】Alila Villas Uluwatu｜世界十大无边泳池✧明星御用婚礼胜地**](/blog/2025-04-06-67f1f8fbfd89780001607840/)
+[**【巴厘岛奢华新定义】Alila Villas Uluwatu｜世界十大无边泳池✧明星御用婚礼胜地**](/blog/alila-villas-uluwatu-bali/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a94ea4e5d3d05549aa074f0913cf1946.jpg)
 

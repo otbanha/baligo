@@ -230,8 +230,8 @@ These cafes in Kintamani are located by Lake Batur (Danau Batur), north of Ubud,
 
 ![烏布完整攻略](https://images.gobaligo.id/vocus/vocus_2f3da2d64fc90baf0c820118847c5f28.jpg)
 
-[Complete Ubud Guide](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+[Complete Ubud Guide](/blog/ubud-guide/)
 
-Additionally, when starting from Ubud, you can also refer to our **'**[**100 Attractions in Ubud Guide**](/blog/2023-11-17-655054b1fd897800011d4d2c/)**'** to plan a comprehensive travel route, making your Kintamani trip even more fulfilling and fun!
+Additionally, when starting from Ubud, you can also refer to our **'**[**100 Attractions in Ubud Guide**](/blog/ubud-guide/)**'** to plan a comprehensive travel route, making your Kintamani trip even more fulfilling and fun!
 
 ✨ **Tip**: Since Kintamani is a highland area, temperatures can be low in the morning and evening. Remember to bring a jacket and allow enough time to enjoy the scenic views of the lake and mountains here!

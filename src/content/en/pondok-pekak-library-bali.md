@@ -30,7 +30,7 @@ It's often said that traveling with children is one of the most exciting things 
 
 Bali offers numerous family-friendly educational activities for young children. Among them, the Pondok Pekak Cultural Library located in the heart of Ubud is a hidden gem that should not be missed during a family vacation.
 
-(Featured in: [Bali Family Travel Guide: 53 Kid-Friendly Activities in Ubud for Stress-Free Travel with Kids!](/blog/2024-01-10-659cf4a5fd89780001d6fb69/))
+(Featured in: [Bali Family Travel Guide: 53 Kid-Friendly Activities in Ubud for Stress-Free Travel with Kids!](/blog/ubud-with-kids-guide/))
 
 ## The Founding and Mission of Pondok Pekak
 
@@ -105,4 +105,4 @@ Pondok Pekak is open daily from 9 AM to 5 PM, and it's recommended to book cours
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1c0ab7d0988ef6c125b3b1f92c8072ec.png)
 
-[Comprehensive Guide to Family-Friendly Activities in Bali: 53 Kid-Friendly Activities in Ubud for the Easiest Travel with Kids!](/blog/2024-01-10-659cf4a5fd89780001d6fb69/)
+[Comprehensive Guide to Family-Friendly Activities in Bali: 53 Kid-Friendly Activities in Ubud for the Easiest Travel with Kids!](/blog/ubud-with-kids-guide/)

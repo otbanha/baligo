@@ -85,7 +85,7 @@ https://youtu.be/FphhiUzB7gM
 
 As Bali's largest night market, Pasar Kreneng is the ideal place to experience local nightlife. It features a wide array of food stalls offering everything from traditional Balinese dishes to specialties from across Indonesia. The lively atmosphere and diverse culinary options allow visitors to immerse themselves in Bali's nighttime charm.
 
->>[A Culinary Journey Through Bali's Largest Night Market: Exploring Authentic Flavors at Kreneng with a Local Chinese Guide](/blog/2025-06-05-684118d7fd897800017b1abb/)
+>>[A Culinary Journey Through Bali's Largest Night Market: Exploring Authentic Flavors at Kreneng with a Local Chinese Guide](/blog/kreneng-night-market-food-tour/)
 
 ### Taman Ayun Temple: Bali's Serene Sanctuary
 

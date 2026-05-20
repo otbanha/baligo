@@ -35,6 +35,6 @@ Such severe punishments are not empty threats; in fact, there have been multiple
 
 For travelers planning to visit Bali or other parts of Indonesia, it is crucial to be aware of and comply with these strict laws to avoid danger. Possessing or selling drugs threatens personal freedom and safety, and it is absolutely not worth the risk. Even some prescription drugs that are legal in Taiwan and Hong Kong could be considered illegal in Indonesia!
 
-> Further reading: [Important Notes on Carrying Sleeping Pills/Special Prescription Drugs to Indonesia/Bali](/blog/2024-03-16-65f4f94ffd897800016b340a/)
+> Further reading: [Important Notes on Carrying Sleeping Pills/Special Prescription Drugs to Indonesia/Bali](/blog/bali-medication-import-guide/)
 
 Therefore, whether you are a tourist planning to visit Bali or a local resident, remember to abide by local laws and never risk violating drug-related regulations. Only by working together to stay away from drug activities can we build a safer and healthier social environment where everyone can enjoy peace and happiness.

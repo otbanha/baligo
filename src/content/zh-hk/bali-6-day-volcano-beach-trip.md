@@ -35,7 +35,7 @@ _srcHash: 70d8d9ed9ab1f5597ce9b70ae906fe6f
 
 戴妤珊提供
 
-> 山竹咩季節最好？請睇：[熱帶水果女王-印尼/峇里島山竹嘅產季](/blog/2024-04-12-661943c7fd897800016eaf4a/)
+> 山竹咩季節最好？請睇：[熱帶水果女王-印尼/峇里島山竹嘅產季](/blog/bali-mangosteen-season/)
 
 每日朝早，佢都準時到 villa 接我哋，而且對我哋嘅需求總係能夠迅速回應。當我哋想搵書店時，佢即刻打電話去書店，用印尼話問店員。就算喺百沙基母廟，佢都會喺我哋落車前提醒我哋注意事項。能夠遇到 Komang Sucika 咁嘅司機，我哋覺得非常幸運！佢嘅服務已經遠超佢收取嘅價錢，我哋俾咗豐厚嘅貼士，因為我哋認為佢絕對值得更多。
 
@@ -65,11 +65,11 @@ Line：crunchiebalitour / IG：crunchie\_bali\_tour
 
 影片由戴妤珊提供
 
-> La Brisa詳細介紹/如何預約？請睇：[被譽為係「峇里島最靚嘅餐廳」：La Brisa喺數以萬計嘅美食餐廳之中如何脫穎而出？](/blog/2023-12-04-656d19fffd897800019cb6ed/)
+> La Brisa詳細介紹/如何預約？請睇：[被譽為係「峇里島最靚嘅餐廳」：La Brisa喺數以萬計嘅美食餐廳之中如何脫穎而出？](/blog/canggu-la-brisa-restaurant-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
 
-想了解更多坎古攻略？[請點擊呢度](/blog/2023-02-11-64db6b7efd897800013a9815/)
+想了解更多坎古攻略？[請點擊呢度](/blog/canggu-guide/)
 
 ## 第二日(Ubud)：
 
@@ -96,7 +96,7 @@ Line：crunchiebalitour / IG：crunchie\_bali\_tour
 
 戴妤珊提供
 
-> 呢個景點嘅詳細介紹請睇：[穿越時空嘅 Penglipuran 村莊：體驗峇里古老嘅魅力](/blog/2023-08-26-64e9e8e9fd89780001f28d6b/)
+> 呢個景點嘅詳細介紹請睇：[穿越時空嘅 Penglipuran 村莊：體驗峇里古老嘅魅力](/blog/penglipuran-village-bali-experience/)
 
 - 午餐：Naughty Nuri's Ubud（豬肋排好出名）
 - 點心：Tukies cocount shop（椰子雪糕）
@@ -153,7 +153,7 @@ Line：crunchiebalitour / IG：crunchie\_bali\_tour
 
 > 請參考呢度：
 
-> [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/2023-08-16-64db6b82fd897800013a9942/)
+> [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)
 
 ## 第六日(Uluwatu)：
 
@@ -200,4 +200,4 @@ Odon嘅聯絡方式： WHATSAPP：085738149995/ID LINE：drmwn8
 
 點擊呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但係唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但係唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！

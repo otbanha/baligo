@@ -56,7 +56,7 @@ _srcHash: 4fd5c96b432be76666e9fdffc928dc3c
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3492fe649d1b46ef46788731bf208c73.png)
 
-👉**呢度有新嘅版本:** [峇里島肚屙/腸胃炎完整用藥指南](/blog/2026-01-02-69523427fd89780001caa652/)
+👉**呢度有新嘅版本:** [峇里島肚屙/腸胃炎完整用藥指南](/blog/bali-belly-medicine-guide/)
 
 ## 結語
 

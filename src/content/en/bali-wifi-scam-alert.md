@@ -82,5 +82,5 @@ During your journey, remember—**being cautious isn't being cold; it's the most
 
 **Also, take a look at the two street scams we've shared before:**
 
-1. [Travel Trap Alert: Common Currency Exchange Scams in Bali and How to Avoid Them](/blog/2025-05-10-681ec22ffd8978000141bf8f/)
-2. [Bali Travel Warning: Street Currency Display Scams—Don't Be the Next Victim!](/blog/2024-11-03-67278942fd89780001b5fe3d/)
+1. [Travel Trap Alert: Common Currency Exchange Scams in Bali and How to Avoid Them](/blog/bali-money-exchange-scams/)
+2. [Bali Travel Warning: Street Currency Display Scams—Don't Be the Next Victim!](/blog/bali-street-scam-alert/)

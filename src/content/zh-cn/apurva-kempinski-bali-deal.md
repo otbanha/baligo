@@ -89,9 +89,9 @@ _srcHash: f5337594613df7340e6f206e4fe58d43
 
 The Apurva Kempinski Bali 可以说是近几年巴厘岛讨论度非常高的五星度假村之一。
 
-> [独一无二的巴厘岛度假体验 - 巴厘岛奢华住宿：凯宾斯基 Apurva Kempinski Bali酒店](/blog/2024-04-22-660ff581fd89780001f31315/)
+> [独一无二的巴厘岛度假体验 - 巴厘岛奢华住宿：凯宾斯基 Apurva Kempinski Bali酒店](/blog/apurva-kempinski-bali-nusa-dua/)
 
-> [巴厘岛凯宾斯基 The Apurva Kempinski Bali 荣获 2024「最佳永续酒店」殊荣](/blog/2024-11-16-67375f47fd89780001591deb/)
+> [巴厘岛凯宾斯基 The Apurva Kempinski Bali 荣获 2024「最佳永续酒店」殊荣](/blog/apurva-kempinski-sustainability-award/)
 
 ### 1️⃣ 巴厘岛最壮观酒店建筑之一
 

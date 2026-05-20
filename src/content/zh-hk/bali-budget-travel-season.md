@@ -22,7 +22,7 @@ _srcHash: b4c6dfebab80fd08dd873ea1ddcdd8f3
 
 - **機票**：早啲訂、彈性選擇日期最慳錢。
 - **住宿**：1–5 月、9 月–12 月初嘅淡季房價最平。
-  （農曆新年等連續假期除外，請睇[呢度](/blog/2024-06-04-665ef28dfd89780001adfa98/)）
+  （農曆新年等連續假期除外，請睇[呢度](/blog/bali-peak-season-travel-tips/)）
 - **交通**：租電單車最慳，或者考慮包車連司機，適合多人。
 - **飲食**：當地小餐館（Warung）同路邊攤最抵食。
 - **活動**：網上預訂水上活動或SPA，經常有套票優惠。
@@ -102,18 +102,18 @@ _srcHash: b4c6dfebab80fd08dd873ea1ddcdd8f3
 
 **快速參考：**
 
-- [峇里島包車須知 - 費用、預訂方式、優勢分析](/blog/2024-01-12-65a0a163fd8978000115f37a/)
-- [【峇里島包車司機推薦】睇網友真實點評搵到適合你嘅好司機](/blog/2024-07-07-668aaea7fd89780001981840/)
-- [抵達峇里島：接機嘅交通選擇及第一日嘅實用建議](/blog/2024-06-05-665d6a8efd897800013337a9/)
-- [峇里島旅遊中文司機/中文導遊/中文包車行程推薦](/blog/2024-01-29-65b75c45fd897800019130ff/)
-- [峇里島租電單車攻略！應該租電單車好，定係包車好？](/blog/2024-01-22-65adf238fd89780001a798ea/)
-- [峇里島租電單車攻略：價錢、安全、注意事項一次睇](/blog/2024-11-06-672a0629fd897800010aa2bc/)
-- [咩時候包車？咩場合叫車？包車 vs. 叫車：如何選擇最適合你嘅旅行方式？](/blog/2024-05-05-6636f348fd897800013df126/)
-- [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/2023-08-20-64e187dffd897800017304fe/)
-- [網約車Gojek點用？](/blog/2023-08-20-64e187dffd897800017304fe/)
-- [印尼/峇里島嘅Gojek與GoPay註冊、使用、儲值教學全面指南](/blog/2024-10-13-670b5191fd8978000185cf37/)
-- [峇里島APP網約車司機嘅套路：如何避免Grab/Gojek陷阱？](/blog/2024-05-27-66546581fd8978000119d572/)
-- [Nusa Penida佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/blog/2024-01-16-65a5e069fd897800010625d0/)
+- [峇里島包車須知 - 費用、預訂方式、優勢分析](/blog/bali-private-car-hire-guide/)
+- [【峇里島包車司機推薦】睇網友真實點評搵到適合你嘅好司機](/blog/bali-private-car-drivers-guide/)
+- [抵達峇里島：接機嘅交通選擇及第一日嘅實用建議](/blog/bali-airport-transfer-guide/)
+- [峇里島旅遊中文司機/中文導遊/中文包車行程推薦](/blog/bali-chinese-tour-guide/)
+- [峇里島租電單車攻略！應該租電單車好，定係包車好？](/blog/bali-motorbike-rental-guide/)
+- [峇里島租電單車攻略：價錢、安全、注意事項一次睇](/blog/bali-motorbike-rental-tips/)
+- [咩時候包車？咩場合叫車？包車 vs. 叫車：如何選擇最適合你嘅旅行方式？](/blog/bali-transportation-guide-car-rental/)
+- [喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/gojek-bali-guide/)
+- [網約車Gojek點用？](/blog/gojek-bali-guide/)
+- [印尼/峇里島嘅Gojek與GoPay註冊、使用、儲值教學全面指南](/blog/indonesia-gojek-gopay-guide/)
+- [峇里島APP網約車司機嘅套路：如何避免Grab/Gojek陷阱？](/blog/bali-grab-gojek-scam-tips/)
+- [Nusa Penida佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/blog/nusa-penida-transport-guide/)
 
 ***
 
@@ -135,7 +135,7 @@ _srcHash: b4c6dfebab80fd08dd873ea1ddcdd8f3
 ![raw-image](https://images.gobaligo.id/vocus/vocus_af2a6c5d08ffe04b97f754a61f9d1e32.jpg)
 
 **快速參考：**
-[峇里島傳統節日：2025/2026年嘅峇里島宗教節慶指南](/blog/2024-11-06-672b4440fd897800011d66b2/)
+[峇里島傳統節日：2025/2026年嘅峇里島宗教節慶指南](/blog/bali-religious-festivals-guide/)
 
 ***
 

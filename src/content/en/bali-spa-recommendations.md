@@ -28,7 +28,7 @@ Benefiting from a lot of information from the group, we're sharing our experienc
 
 We had all the arrival-related matters sorted and paid for online, and we exited through the automatic gate on the far left in no time (unfortunately, our luggage took 40 minutes 😅😅😅).
 
-**Quick Reference:** [2026 Latest Arrival Procedures - From Landing to Exiting the Airport](/blog/2025-08-14-689dcce7fd8978000125fc52/)
+**Quick Reference:** [2026 Latest Arrival Procedures - From Landing to Exiting the Airport](/blog/bali-all-indonesia-arrival-guide/)
 
 ## Activity Recommendations & Experiences
 
@@ -117,7 +117,7 @@ https://youtu.be/RodQvCZKwD0
 - **Merah Putih**: Indonesian cuisine, delicious with beautiful decor and comfortable air conditioning indoors, though prices are on the higher side.
 - **La Brisa Bali**: A stunning beach club with excellent photo opportunities, great food and drinks, and direct access to the beach.
 
-> Further Reading: [La Brisa: How Does It Stand Out Among Bali's Countless Restaurants?](/blog/2023-12-04-656d19fffd897800019cb6ed/)
+> Further Reading: [La Brisa: How Does It Stand Out Among Bali's Countless Restaurants?](/blog/canggu-la-brisa-restaurant-guide/)
 
 {{block:canggu}}
 
@@ -142,7 +142,7 @@ Swimming in the jungle pool at [Inara Alas Harum](https://www.agoda.com/partners
 
 ▶[Inara Alas Harum](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581751) Booking Link
 
-Included in [【Ubud Accommodation Recommendations】Ubud Pool Villas: A Private Paradise - Stunning Bali Villa Recommendations](/blog/2024-04-24-6628f08cfd8978000190a575/)
+Included in [【Ubud Accommodation Recommendations】Ubud Pool Villas: A Private Paradise - Stunning Bali Villa Recommendations](/blog/ubud-villa-pool-guide/)
 
 {{block:住宿}}
 

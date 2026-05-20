@@ -135,7 +135,7 @@ The service here was impeccable, with every staff member demonstrating both warm
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5ba01ec2194c29084a8317809e7a432f.jpg)
 
-👉 **Want to explore more top accommodations in Nusa Dua?** [**Click here**](/blog/2024-07-27-66a4562afd89780001d70329/)**!**
+👉 **Want to explore more top accommodations in Nusa Dua?** [**Click here**](/blog/nusa-dua-resorts-guide/)**!**
 
 
-👉 **想探索更多Nusa Dua的頂級住宿？**[**請點擊這裡**](/blog/2024-07-27-66a4562afd89780001d70329/)**！**
+👉 **想探索更多Nusa Dua的頂級住宿？**[**請點擊這裡**](/blog/nusa-dua-resorts-guide/)**！**

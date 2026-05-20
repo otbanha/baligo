@@ -37,7 +37,7 @@ Staying here, the most fashionable Beachwalk Shopping Center in Kuta is right do
 
 Upon arrival, we couldn't wait to head to Jimbaran Beach to enjoy some delicious food and then went to the supermarket to stock up on daily necessities for the next few days.
 
-> Reference: [9 Recommended Seafood Restaurants in Jimbaran, Bali](/blog/2023-09-17-6506748dfd897800018d6be2/)
+> Reference: [9 Recommended Seafood Restaurants in Jimbaran, Bali](/blog/jimbaran-seafood-restaurants-list/)
 
 > Reference: [What to Buy at Bali Supermarkets?](https://youtu.be/UoGlRyAdyB8)
 
@@ -49,9 +49,9 @@ Early in the morning, we headed to Nusa Dua for some thrilling water sports. In 
 
 Photo: Uluwatu, provided by Serena
 
-> Reference: [Water Sports in Nusa Dua](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+> Reference: [Water Sports in Nusa Dua](/blog/nusa-dua-guide/)
 
-> Reference: [Kecak Fire Dance: A Must-See Spectacular Performance in Bali](/blog/2024-01-29-65b6e533fd89780001f51eaf/)
+> Reference: [Kecak Fire Dance: A Must-See Spectacular Performance in Bali](/blog/kecak-fire-dance-bali/)
 
 In the evening, we explored the small shops along Kuta's streets before returning to our hotel.
 
@@ -75,11 +75,11 @@ We continued exploring the beauty of Bali. In the morning, we visited the Ubud P
 
 Photo: Ubud, provided by Serena
 
-> For introductions to Ubud Palace, the market, the swing, and waterfalls, please refer to: [Complete Ubud Bali Guide: 100 Ways to Deeply Understand Ubud｜Exploring the Charm of Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+> For introductions to Ubud Palace, the market, the swing, and waterfalls, please refer to: [Complete Ubud Bali Guide: 100 Ways to Deeply Understand Ubud｜Exploring the Charm of Ubud](/blog/ubud-guide/)
 
 ### 2/17 Seminyak/Jimbaran
 
-Today, we moved to [Amarin Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2802663) (Seminyak) to stay, which is a large villa with 3/4 bedrooms. We have an introduction [here](/blog/2024-04-30-662e156bfd8978000130c73c/)!
+Today, we moved to [Amarin Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2802663) (Seminyak) to stay, which is a large villa with 3/4 bedrooms. We have an introduction [here](/blog/bali-group-villa-stay/)!
 
 ![Amarin Seminyak](https://images.gobaligo.id/vocus/vocus_05d5cd9100ad596b8c6b70a1813fac15.jpg)
 
@@ -93,9 +93,9 @@ In the morning, we drove along the scenic coastal road, marveling at the towerin
 
 Photo: Garuda Wisnu Kencana Cultural Park/Coastal Road, provided by Serena
 
-> Reference: [Complete Guide to Garuda Wisnu Kencana GWK Cultural Park in Bali](/blog/2025-07-17-68785bf9fd89780001822053/)
+> Reference: [Complete Guide to Garuda Wisnu Kencana GWK Cultural Park in Bali](/blog/gwk-cultural-park-bali/)
 
-> Further Reading: [Introduction to the Coastal Road](/blog/2024-09-13-66e39db1fd8978000170fccf/)
+> Further Reading: [Introduction to the Coastal Road](/blog/pandawa-beach-traffic-policy/)
 
 ### 2/18 Canggu/Kuta/Seminyak
 
@@ -109,18 +109,18 @@ Photo: Tanah Lot Temple, provided by Serena
 
 Photo: La Brisa, provided by Serena
 
-> Reference: [How La Brisa Stands Out Among Thousands of Dining Options in Bali](/blog/2023-12-04-656d19fffd897800019cb6ed/)
+> Reference: [How La Brisa Stands Out Among Thousands of Dining Options in Bali](/blog/canggu-la-brisa-restaurant-guide/)
 
 In the afternoon, we spent our final hours shopping and strolling in Kuta and Seminyak.
 
-> How to explore Seminyak? Check out: [Seminyak Must-Visit Map: 100 Comprehensive Recommendations for Food, Drinks, and Fun](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+> How to explore Seminyak? Check out: [Seminyak Must-Visit Map: 100 Comprehensive Recommendations for Food, Drinks, and Fun](/blog/seminyak-guide/)
 
 ### 2/19 Shopping/Boarding
 
 After some last-minute shopping in the morning, we prepared to board our flight back to Taiwan at 14:00 in the afternoon, concluding our wonderful Bali trip. The advantage of spending the last day in the Kuta and Jimbaran area is that 'you don’t have to worry about missing your flight!'
 
 > (Further reading: [Kuta Travel Guide: 50 Must-Visit Attractions, Food, and Recommended Spas](/blog/2023-12-13-657598bdfd8978000120fe20/))  
-> (Further reading: [Jimbaran Free Travel Guide: 30 Recommended Fun Spots](/blog/2023-11-09-654b8438fd897800016bf4cc/))
+> (Further reading: [Jimbaran Free Travel Guide: 30 Recommended Fun Spots](/blog/jimbaran-guide/))
 
 ## Postscript
 
@@ -137,12 +137,12 @@ Here are some must-try and must-visit recommendations in Bali:
 6. **La Brisa**: If you’re heading to the innermost bar, remember not to bring water inside—the restaurant will ask you to pour it out.  
 7. **Beachwalk Residence**: For family trips, consider staying at [Beachwalk Residence](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25918345). They offer family-style apartments, just a short walk from the shopping mall and close to the beach, making it a great value.  
 8. **Traffic during Lunar New Year**: Expect delays of 30 minutes to 1.5 hours longer than the driver’s initial Google Maps estimate. Especially when heading to Ubud, the actual arrival time can differ significantly from the estimate! Roads near the palace are narrow, leading to severe traffic congestion.  
-9. **Rainy Season Precautions**: Since Lunar New Year falls during Bali’s rainy season, save this guide if you’re worried about rain: [Bali Rainy Season: What to Do When It Rains? 60 Backup Plans](/blog/2024-01-06-6598c6fffd89780001047d76/)
+9. **Rainy Season Precautions**: Since Lunar New Year falls during Bali’s rainy season, save this guide if you’re worried about rain: [Bali Rainy Season: What to Do When It Rains? 60 Backup Plans](/blog/2026-bali-indoor-activities/)
 
 > Editor’s Note: Recommended for friends planning a Lunar New Year trip to Bali:
 
-- [Lunar New Year Bali Family Travel Guide: Flights, Visas, Transportation, and Attractions](/blog/2024-01-13-65a211a1fd89780001cfcd58/)  
-- [How to Avoid Bali’s Chaotic Traffic and Enjoy a Relaxing Vacation](/blog/2024-09-08-66d0925afd89780001ef977b/)
+- [Lunar New Year Bali Family Travel Guide: Flights, Visas, Transportation, and Attractions](/blog/2026-bali-lunar-new-year-guide/)  
+- [How to Avoid Bali’s Chaotic Traffic and Enjoy a Relaxing Vacation](/blog/bali-traffic-free-travel-tips/)
 
 ## Private Driver
 
@@ -152,7 +152,7 @@ Not only is Xiao Zhong fluent in both Chinese and English, but he is also very a
 
 In addition, Xiao Zhong was previously a photographer, bringing a wealth of experience and skills in photography and videography. During the trip, he not only serves as a professional guide but also helps guests capture beautiful photos and record precious videos.
 
-If you are planning a trip to Bali, I highly recommend contacting Xiao Zhong Pacung Bali as your guide and driver. His contact information can be found [here](/blog/2024-07-07-668aaea7fd89780001981840/). His professional service and extensive experience will add many wonderful memories to your journey!
+If you are planning a trip to Bali, I highly recommend contacting Xiao Zhong Pacung Bali as your guide and driver. His contact information can be found [here](/blog/bali-private-car-drivers-guide/). His professional service and extensive experience will add many wonderful memories to your journey!
 
 Did you find the itinerary arranged by [Serena](https://www.facebook.com/100004740466944/) exciting? Quickly plan your own Bali free-and-easy trip! Everyone is also welcome to share your itinerary in the community!
 

@@ -268,7 +268,7 @@ Next time your legs are tired from exploring Ubud, don’t rush for coffee—fin
 - **Gado-Gado**: A warm salad with peanut sauce, featuring fried tofu, boiled eggs, and Indonesia’s treasure, 'Krupuk' shrimp crackers
 - **Tempeh Manis**: Fermented soybean cake stir-fried with sweet soy sauce until caramelized—packed with protein!
 
-> Further reading: [Top 20 Vegetarian-Friendly Restaurants in Bali: A Delicious Journey](/blog/2024-09-07-66dc687afd8978000151d046/)
+> Further reading: [Top 20 Vegetarian-Friendly Restaurants in Bali: A Delicious Journey](/blog/bali-vegan-restaurants-guide/)
 
 ---
 
@@ -288,16 +288,16 @@ Next time your legs are tired from exploring Ubud, don’t rush for coffee—fin
 
 ## Food Collections:
 
-- [Top 10 Must-Try Foods in Bali | 8 Things to Know Before Visiting](/blog/2023-08-15-64db6b7dfd897800013a97bc/)
-- [Seminyak Food Guide](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [Top 10 Must-Try Foods in Bali | 8 Things to Know Before Visiting](/blog/bali-travel-tips/)
+- [Seminyak Food Guide](/blog/seminyak-guide/)
 - [Kuta Food Guide](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [Canggu Food Guide](/blog/2023-02-11-64db6b7efd897800013a9815/)
-- [Ubud Food Guide](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [Jimbaran Guide](/blog/2023-11-09-654b8438fd897800016bf4cc/)
-- [Uluwatu Food Guide](/blog/2024-03-07-65dfd410fd897800019f4b40/)
-- [Sanur Food Guide](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [Nusa Dua Food Guide](/blog/2024-01-25-65afb7bbfd897800017023b4/)
-- [Northern Lovina Food Recommendations](/blog/2024-08-31-66c895c1fd89780001455e7f/)
-- [Nusa Penida Food Guide](/blog/2023-10-22-65348754fd89780001b2a259/)
-- [Lembongan/Ceningan Food Guide](/blog/2024-10-26-671a506ffd8978000182fb4f/)
-- [Komodo Island Food Guide](/blog/2025-05-04-681601c6fd8978000139f8a3/)
+- [Canggu Food Guide](/blog/canggu-guide/)
+- [Ubud Food Guide](/blog/ubud-guide/)
+- [Jimbaran Guide](/blog/jimbaran-guide/)
+- [Uluwatu Food Guide](/blog/uluwatu-guide/)
+- [Sanur Food Guide](/blog/sanur-guide/)
+- [Nusa Dua Food Guide](/blog/nusa-dua-guide/)
+- [Northern Lovina Food Recommendations](/blog/north-bali-travel-guide/)
+- [Nusa Penida Food Guide](/blog/nusa-penida-best-restaurants/)
+- [Lembongan/Ceningan Food Guide](/blog/nusa-lembongan-restaurants/)
+- [Komodo Island Food Guide](/blog/komodo-island-labuan-bajo-travel/)

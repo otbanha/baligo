@@ -48,7 +48,7 @@ Tanah Lot Temple
 
 This iconic sea temple is a popular spot for sunset viewing, offering a spectacular backdrop as the sun dips below the horizon.
 
-> Further reading: [The Ultimate Canggu Adventure Map: 100 Must-Visit Spots in Canggu](/blog/2023-02-11-64db6b7efd897800013a9815/)
+> Further reading: [The Ultimate Canggu Adventure Map: 100 Must-Visit Spots in Canggu](/blog/canggu-guide/)
 
 ### **Uluwatu Temple**
 
@@ -58,7 +58,7 @@ Uluwatu Temple
 
 Perched on a cliff, this temple offers dramatic sunset views with the Indian Ocean stretching out below.
 
-> Further reading: [Uluwatu Guide: 47 Recommended Spots for Food, Fun, and Adventure](/blog/2024-03-07-65dfd410fd897800019f4b40/)
+> Further reading: [Uluwatu Guide: 47 Recommended Spots for Food, Fun, and Adventure](/blog/uluwatu-guide/)
 
 ### **Jimbaran Beach**
 
@@ -68,13 +68,13 @@ Jimbaran Beach
 
 Famous for its seafood restaurants, Jimbaran Beach is a great place to enjoy a meal while watching the sunset.
 
-> Further Reading: [Jimbaran Bali Free Travel Guide: 30 Must-Visit Attractions](/blog/2023-11-09-654b8438fd897800016bf4cc/)
+> Further Reading: [Jimbaran Bali Free Travel Guide: 30 Must-Visit Attractions](/blog/jimbaran-guide/)
 
 ### **Rock Bar**
 
-Located within the [Ayana Resort](/blog/2023-10-26-653914f6fd89780001fef733/), this is one of Bali's most popular sunset bars, offering stunning cliffside ocean views and a unique atmosphere.
+Located within the [Ayana Resort](/blog/ayana-resort-bali-guide/), this is one of Bali's most popular sunset bars, offering stunning cliffside ocean views and a unique atmosphere.
 
-> Further Reading: [【Ayana Bali】Ayana Bali Accommodation Guide](/blog/2023-10-26-653914f6fd89780001fef733/)
+> Further Reading: [【Ayana Bali】Ayana Bali Accommodation Guide](/blog/ayana-resort-bali-guide/)
 
 ### **Seminyak Beach**
 
@@ -82,17 +82,17 @@ This beach, with its trendy beach clubs and bars, is a great spot to watch the s
 
 > Further reading:
 
-> [MoonLite Kitchen and Bar: Seminyak's Sunset Dining Paradise](/blog/2025-01-25-6794ca61fd89780001127add/)
+> [MoonLite Kitchen and Bar: Seminyak's Sunset Dining Paradise](/blog/moonlite-kitchen-bar-seminyak-sunset/)
 
-> [Ku De Ta Beach Club Seminyak Bali Complete Guide: Dining, Parties, and Dreamy Beach Sunsets](/blog/2025-02-24-67bc10d5fd897800015888e3/)
+> [Ku De Ta Beach Club Seminyak Bali Complete Guide: Dining, Parties, and Dreamy Beach Sunsets](/blog/ku-de-ta-beach-club/)
 
-> [Seminyak Attractions Map: 60 Must-Visit Spots for Food, Fun, and Entertainment in Bali](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+> [Seminyak Attractions Map: 60 Must-Visit Spots for Food, Fun, and Entertainment in Bali](/blog/seminyak-guide/)
 
 ### **Echo Beach**
 
 Located in Canggu, a favorite among surfers, the famous La Brisa Beach Club offers a more relaxed environment for sunset viewing.
 
-> Further reading: [Hailed as 'Bali's Most Beautiful Restaurant': La Brisa](/blog/2023-12-04-656d19fffd897800019cb6ed/)
+> Further reading: [Hailed as 'Bali's Most Beautiful Restaurant': La Brisa](/blog/canggu-la-brisa-restaurant-guide/)
 
 ## Tips for the Perfect Sunset Experience
 

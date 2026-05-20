@@ -44,8 +44,8 @@ From this date forward, **there’s no need to separately fill out** the Customs
 
 ### **Pre-Departure Essentials**:
 
-1. Make sure to apply for your eVisa in advance. Refer to [this guide](/blog/2024-02-06-65c217c5fd897800010113af/) for further details and avoid scam websites.
-2. Complete the AIAC Arrival Card three days before departure and **screenshot the QR Code** for reference. Check out our [FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/) for common questions.
+1. Make sure to apply for your eVisa in advance. Refer to [this guide](/blog/bali-evisa-application-guide/) for further details and avoid scam websites.
+2. Complete the AIAC Arrival Card three days before departure and **screenshot the QR Code** for reference. Check out our [FAQ](/blog/bali-evisa-customs-health-declaration/) for common questions.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
 
@@ -63,7 +63,7 @@ From this date forward, **there’s no need to separately fill out** the Customs
 - **Queue Counter**: Those with a Visa on Arrival need to queue for inspection.
 - **E-Gate**: Those who have applied/paid for an eVisa in advance can skip the manual stamping queue and use the 'Automatic E-Gate'.
 
-▶️ How to use the automatic e-gate? Check out our [Bali Automatic E-Gate Process Guide](/blog/2024-02-06-65c1defcfd89780001f79bfd/)
+▶️ How to use the automatic e-gate? Check out our [Bali Automatic E-Gate Process Guide](/blog/2025-bali-automatic-customs/)
 
 ### **4️⃣ Baggage Claim**
 
@@ -85,9 +85,9 @@ After collecting your luggage, proceed through the customs inspection checkpoint
 
 - Cost: 150,000 IDR/person (approx. USD$10).
 
-▶️ How to pay? See the [Tourism Tax](/blog/2024-01-03-65955989fd89780001a95927/) guide.
+▶️ How to pay? See the [Tourism Tax](/blog/2026-bali-tourism-tax-guide/) guide.
 
-👉**Additional Info:** [Guide to Indonesian/Bali Visas for Children](/blog/2025-12-24-694bf0d9fd89780001214e1c/)
+👉**Additional Info:** [Guide to Indonesian/Bali Visas for Children](/blog/bali-child-visa-guide/)
 
 ## ⏰ How far in advance should you apply?
 
@@ -109,7 +109,7 @@ The chart makes it clear at a glance.
 
 ## **💡 Common Issues When Applying for eVisa/All Indonesia**
 
-Please refer to [our FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)
+Please refer to [our FAQ](/blog/bali-evisa-customs-health-declaration/)
 
 ***
 

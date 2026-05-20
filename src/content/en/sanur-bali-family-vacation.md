@@ -42,6 +42,6 @@ Walking along the beach near the Mecure Hotel, there's a free beach playground. 
 
 Sanur offers diverse family-friendly entertainment options, along with comprehensive facilities, making it an ideal destination for family vacations. Gary's video provides practical tips and serves as a great reference for families planning a trip to Sanur.
 
-In addition to the small part introduced by Gary, we've also prepared '50 Family-Friendly Activities, Dining Options, Spa Recommendations, and Accommodations in Sanur' for everyone! Please [click here](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
+In addition to the small part introduced by Gary, we've also prepared '50 Family-Friendly Activities, Dining Options, Spa Recommendations, and Accommodations in Sanur' for everyone! Please [click here](/blog/sanur-guide/)
 
 {{block:sanur}}

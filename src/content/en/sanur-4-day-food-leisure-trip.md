@@ -33,7 +33,7 @@ For this Bali trip, we specifically planned some offshore activities, so we chos
 > **Hotel Booking:**  
 > [Agoda Booking for Holiday Inn Bali Sanur](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=27931110)
 
-Included in: [Collection of 21 Resorts/Villas from Luxury to Budget in Sanur](/blog/2024-08-21-66c3e440fd897800014425a8/)
+Included in: [Collection of 21 Resorts/Villas from Luxury to Budget in Sanur](/blog/sanur-luxury-budget-resorts/)
 
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_20378ae037005e6072d5b5417d653af4.jpg)
@@ -81,11 +81,11 @@ This foil-wrapped fish is truly special! Courtesy of Alice Li
 
 For dining, we highly recommend Lilla Warung - their foil-wrapped fish is exceptionally delicious and memorable. Jepun Sanur is another restaurant we wish we'd discovered sooner - we wanted to go twice in a row! Next door is a famous ice cream shop that always has long lines, but it's absolutely worth the wait.
 
-> For Sanur's attractions, restaurants, famous ice cream shop, and map guide, check out: [Sanur 45 Must-Try Activities & Eats](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
+> For Sanur's attractions, restaurants, famous ice cream shop, and map guide, check out: [Sanur 45 Must-Try Activities & Eats](/blog/sanur-guide/)
 
 Get to know Sanur in 3 minutes
 
-[Bali Accommodation Recommendations: 22 Sanur Resorts & Villas from Luxury to Budget](/blog/2024-08-21-66c3e440fd897800014425a8/)
+[Bali Accommodation Recommendations: 22 Sanur Resorts & Villas from Luxury to Budget](/blog/sanur-luxury-budget-resorts/)
 
 In summary, Sanur is an excellent area for families and leisure travelers, offering everything you need in terms of accommodations, dining, and entertainment.
 
@@ -95,21 +95,21 @@ Did you find Alice Li's itinerary exciting? Start planning your own Bali adventu
 
 Click here to watch more amazing Bali travelogues
 
-Do you want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue stand out!
+Do you want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
 ## Recommended Guides:
 
-- [100 Must-Visit Spots in Seminyak](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [100 Must-Visit Spots in Seminyak](/blog/seminyak-guide/)
 - [50 Must-Visit Spots in Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [100 Must-Visit Spots in Canggu](/blog/2023-02-11-64db6b7efd897800013a9815/)
-- [100 Ways to Explore Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [Jimbaran Guide](/blog/2023-11-09-654b8438fd897800016bf4cc/)
-- [Uluwatu Guide](/blog/2024-03-07-65dfd410fd897800019f4b40/)
-- [Bukit Peninsula Adventure Guide](/blog/2024-10-31-67061b07fd897800012f87b5/)
-- [50 Things to Do in Sanur](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [40 Accommodations, Dining, and Activities in Nusa Dua](/blog/2024-01-25-65afb7bbfd897800017023b4/)
-- [Complete Guide to Nusa Penida](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [Complete Guide to Lembongan and Ceningan Islands](/blog/2024-10-23-66adfb9afd89780001f62df1/)
-- [Nuanu Creative City Guide](/blog/2025-04-18-68026619fd89780001f56243/)
-- [Komodo Island Guide](/blog/2025-05-04-681601c6fd8978000139f8a3/)
-- [Amed/Tulamben Guide](/blog/2025-06-23-68578b01fd89780001dd5208/)
+- [100 Must-Visit Spots in Canggu](/blog/canggu-guide/)
+- [100 Ways to Explore Ubud](/blog/ubud-guide/)
+- [Jimbaran Guide](/blog/jimbaran-guide/)
+- [Uluwatu Guide](/blog/uluwatu-guide/)
+- [Bukit Peninsula Adventure Guide](/blog/bukit-peninsula-guide/)
+- [50 Things to Do in Sanur](/blog/sanur-guide/)
+- [40 Accommodations, Dining, and Activities in Nusa Dua](/blog/nusa-dua-guide/)
+- [Complete Guide to Nusa Penida](/blog/nusa-penida-guide/)
+- [Complete Guide to Lembongan and Ceningan Islands](/blog/nusa-lembongan-ceningan-guide/)
+- [Nuanu Creative City Guide](/blog/nuanu-creative-city-luna-guide/)
+- [Komodo Island Guide](/blog/komodo-island-labuan-bajo-travel/)
+- [Amed/Tulamben Guide](/blog/amed-tulamben-diving-guide/)

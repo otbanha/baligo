@@ -26,10 +26,10 @@ South Bali is already experiencing over-tourism!
 
 In early 2024, Bali once again became a focal point when foreign and local travelers were forced to walk to Ngurah Rai International Airport due to severe traffic congestion on the access roads (the Christmas and New Year holidays ranked as the second busiest peak season for crowds and traffic in Bali. Here's a short video you can watch [2023/12/29 Traffic Conditions on the Airport Highway](https://www.facebook.com/groups/indonesia.travelguide/permalink/3579975912271532/)). Indonesian Tourism Minister Sandiaga Uno acknowledged the overcrowding in South Bali and plans to divert tourists to the northern, western, and eastern regions to alleviate pressure, with measures to be announced in September.
 
-> Further Reading: [Bali Actually Has Five Peak Tourist Seasons! How to Avoid Them and Travel Smartly?](/blog/2024-06-04-665ef28dfd89780001adfa98/)
+> Further Reading: [Bali Actually Has Five Peak Tourist Seasons! How to Avoid Them and Travel Smartly?](/blog/bali-peak-season-travel-tips/)
 
 ![峇里島南部包含西岸的長谷、水明漾、庫塔、金巴蘭、烏魯瓦圖；和東岸的努沙杜瓦、沙努爾。](https://images.gobaligo.id/vocus/vocus_116100a5cd534e0ae2d1707ef11bbe1f.png)
 
 South Bali includes the western areas of Canggu, Seminyak, Kuta, Jimbaran, and Uluwatu; and the eastern areas of Nusa Dua and Sanur.
 
-Additionally, the Bali Airport Rail Project is set to begin construction this September (please refer to [【Bali Transportation Improvement Plan Part 1】Bali Light Rail Construction to Begin in September](/blog/2024-07-22-669e605afd8978000115575b/)), and authorities have issued warnings that severe traffic congestion is expected in the Kuta and Seminyak areas.
+Additionally, the Bali Airport Rail Project is set to begin construction this September (please refer to [【Bali Transportation Improvement Plan Part 1】Bali Light Rail Construction to Begin in September](/blog/bali-lrt-construction-update/)), and authorities have issued warnings that severe traffic congestion is expected in the Kuta and Seminyak areas.

@@ -28,48 +28,48 @@ https://youtu.be/H5N5_UuK7TI
 
 ## 节庆相关：
 
-- [2026巴厘岛静居日/宁静日（Nyepi Day）｜妖怪大游行须知](/blog/2026-02-13-698f077efd89780001e7294f/)
-- [2026年印尼国定假日&巴厘岛节庆一整年完整指南：精彩活动日期一览！](/blog/2026-01-16-696a37c5fd89780001f0790b/)
-- [巴厘岛居然有五个旅游旺季！如何避开旺季聪明旅游？](/blog/2024-06-04-665ef28dfd89780001adfa98/)
-- [巴厘岛雨季月份/降雨机率/降雨天数/平均气温/适合旅游指数...大解析](/blog/2025-04-02-67ecc962fd89780001212629/)
+- [2026巴厘岛静居日/宁静日（Nyepi Day）｜妖怪大游行须知](/blog/nyepi-day-bali-guide-2026/)
+- [2026年印尼国定假日&巴厘岛节庆一整年完整指南：精彩活动日期一览！](/blog/2026-bali-festival-guide/)
+- [巴厘岛居然有五个旅游旺季！如何避开旺季聪明旅游？](/blog/bali-peak-season-travel-tips/)
+- [巴厘岛雨季月份/降雨机率/降雨天数/平均气温/适合旅游指数...大解析](/blog/bali-rainy-season-travel-guide/)
 
 ## 入境相关：
 
-- [使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/2025-08-14-689dcce7fd8978000125fc52/)
-- [入境印尼/巴厘岛eVisa签证、eCD海关、SSHP健康声明必填 All Indonesia 常见问题 FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)
+- [使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+- [入境印尼/巴厘岛eVisa签证、eCD海关、SSHP健康声明必填 All Indonesia 常见问题 FAQ](/blog/bali-evisa-customs-health-declaration/)
 
 ## 住宿基地/区域详解：
 
 ### 库塔/雷吉安/水明漾/坎古/乌布
 
 - [库塔必访50个景点攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [水明漾100个景点攻略](/blog/2023-08-15-64db7fc2fd897800013d367c/)
-- [坎古100个必游景点](/blog/2023-02-11-64db6b7efd897800013a9815/)
-- [乌布探索的100个方式](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+- [水明漾100个景点攻略](/blog/seminyak-guide/)
+- [坎古100个必游景点](/blog/canggu-guide/)
+- [乌布探索的100个方式](/blog/ubud-guide/)
 
 ### 努沙杜瓦
 
-- [努沙杜瓦40个住宿美食活动攻略](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+- [努沙杜瓦40个住宿美食活动攻略](/blog/nusa-dua-guide/)
 
 ### 金巴兰
 
-- [金巴兰攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)
+- [金巴兰攻略](/blog/jimbaran-guide/)
 
 ### 乌鲁瓦图
 
-- [乌鲁瓦图攻略](/blog/2024-03-07-65dfd410fd897800019f4b40/)
+- [乌鲁瓦图攻略](/blog/uluwatu-guide/)
 
 ### 沙努尔
 
-- [沙努尔50项吃喝玩乐攻略](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
+- [沙努尔50项吃喝玩乐攻略](/blog/sanur-guide/)
 
 ### 其他地区
 
-- [佩尼达岛吃喝玩乐全攻略](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [蓝梦岛/金银岛景点全攻略](/blog/2024-10-23-66adfb9afd89780001f62df1/)
-- [Nuanu Creative City攻略](/blog/2025-04-18-68026619fd89780001f56243/)
-- [科莫多岛攻略](/blog/2025-05-04-681601c6fd8978000139f8a3/)
-- [Amed/Tulamben攻略](/blog/2025-06-23-68578b01fd89780001dd5208/)
+- [佩尼达岛吃喝玩乐全攻略](/blog/nusa-penida-guide/)
+- [蓝梦岛/金银岛景点全攻略](/blog/nusa-lembongan-ceningan-guide/)
+- [Nuanu Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
+- [科莫多岛攻略](/blog/komodo-island-labuan-bajo-travel/)
+- [Amed/Tulamben攻略](/blog/amed-tulamben-diving-guide/)
 
 ### 住宿推荐
 
@@ -81,22 +81,22 @@ https://youtu.be/H5N5_UuK7TI
 
 ### 避开塞车噩梦
 
-- [【这样玩居然不塞车！】爽玩巴厘岛自由行攻略：交通、住宿、景点、美食、购物、SPA、夜生活，全方位规划](/blog/2024-03-18-65ba3bfefd89780001650f07/)
+- [【这样玩居然不塞车！】爽玩巴厘岛自由行攻略：交通、住宿、景点、美食、购物、SPA、夜生活，全方位规划](/blog/bali-free-travel-guide/)
 
 ## 交通/包车
 
-- [巴厘岛包车须知 - 费用、预订方式、优势分析](/blog/2024-01-12-65a0a163fd8978000115f37a/)
-- [【巴厘岛包车司机推荐】看网友真实点评找到适合你的好司机](/blog/2024-07-07-668aaea7fd89780001981840/)
-- [抵达巴厘岛：接机的交通选择及第一天的实用建议](/blog/2024-06-05-665d6a8efd897800013337a9/)
-- [巴厘岛旅游中文司机/中文导游/中文包车行程推荐](/blog/2024-01-29-65b75c45fd897800019130ff/)
-- [巴厘岛租摩托车攻略！应该租摩托车好，还是包车好？](/blog/2024-01-22-65adf238fd89780001a798ea/)
-- [巴厘岛租摩托车攻略：价格、安全、注意事项一次看](/blog/2024-11-06-672a0629fd897800010aa2bc/)
-- [什么时候包车？什么场合叫车？包车 vs. 叫车：如何选择最适合你的旅行方式？](/blog/2024-05-05-6636f348fd897800013df126/)
-- [在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/blog/2023-08-20-64e187dffd897800017304fe/)
-- [网约车Gojek如何使用？](/blog/2023-08-20-64e187dffd897800017304fe/)
-- [印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/blog/2024-10-13-670b5191fd8978000185cf37/)
-- [巴厘岛APP网约车司机的套路：如何避免Grab/Gojek陷阱？](/blog/2024-05-27-66546581fd8978000119d572/)
-- [Nusa Penida佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/2024-01-16-65a5e069fd897800010625d0/)
+- [巴厘岛包车须知 - 费用、预订方式、优势分析](/blog/bali-private-car-hire-guide/)
+- [【巴厘岛包车司机推荐】看网友真实点评找到适合你的好司机](/blog/bali-private-car-drivers-guide/)
+- [抵达巴厘岛：接机的交通选择及第一天的实用建议](/blog/bali-airport-transfer-guide/)
+- [巴厘岛旅游中文司机/中文导游/中文包车行程推荐](/blog/bali-chinese-tour-guide/)
+- [巴厘岛租摩托车攻略！应该租摩托车好，还是包车好？](/blog/bali-motorbike-rental-guide/)
+- [巴厘岛租摩托车攻略：价格、安全、注意事项一次看](/blog/bali-motorbike-rental-tips/)
+- [什么时候包车？什么场合叫车？包车 vs. 叫车：如何选择最适合你的旅行方式？](/blog/bali-transportation-guide-car-rental/)
+- [在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/blog/gojek-bali-guide/)
+- [网约车Gojek如何使用？](/blog/gojek-bali-guide/)
+- [印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/blog/indonesia-gojek-gopay-guide/)
+- [巴厘岛APP网约车司机的套路：如何避免Grab/Gojek陷阱？](/blog/bali-grab-gojek-scam-tips/)
+- [Nusa Penida佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
 
 ## 推荐深度体验
 
@@ -126,7 +126,7 @@ https://youtu.be/H5N5_UuK7TI
 - [Ketut's Bali 美食烹饪教室体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23861-cooking-class-ketut-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D49762d8ba4)
 - [乌布烹饪课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17260-cooking-class-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc9fd495c23)
 - [陶艺制作课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F81778-pottery-class-serayu-pottery-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3d74ec6f17)
-- [颂钵疗愈/音疗](/blog/2026-02-07-6986c5c0fd897800017582f6/)
+- [颂钵疗愈/音疗](/blog/ubud-sound-healing/)
 
 ### 瑜伽课程
 
@@ -144,21 +144,21 @@ https://youtu.be/H5N5_UuK7TI
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b9d08056ca87707c17ba42c41712d2da.png)
 
-巴厘岛不仅拥有迷人的海滩和奢华的度假村，还隐藏着丰富多样的户外活动，等待着热爱冒险的旅人前来探索。无论您是寻求刺激的冒险家，还是渴望在大自然中放松身心的旅行者，巴厘岛都能满足您的需求。以下是六大分类，共50种热门户外活动，请点击[这里](/blog/2025-04-02-67ecf440fd897800012cb31b/)。
+巴厘岛不仅拥有迷人的海滩和奢华的度假村，还隐藏着丰富多样的户外活动，等待着热爱冒险的旅人前来探索。无论您是寻求刺激的冒险家，还是渴望在大自然中放松身心的旅行者，巴厘岛都能满足您的需求。以下是六大分类，共50种热门户外活动，请点击[这里](/blog/bali-top-50-outdoor-activities/)。
 
 ## 金钱、网络、生活小贴士
 
-- [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/blog/2024-01-28-65b5c7e2fd89780001e96fac/)
-- 【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡/eSIM?](/blog/2024-03-21-65f916bbfd89780001b916e0/)
-- [印尼/巴厘岛旅游必读：电压与插座指南完全手册！](/blog/2023-11-30-65686558fd89780001fef654/)
+- [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/blog/bali-currency-exchange-guide/)
+- 【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡/eSIM?](/blog/bali-sim-card-esim-roaming-guide/)
+- [印尼/巴厘岛旅游必读：电压与插座指南完全手册！](/blog/bali-voltage-adapter-tips/)
 
 ## 巴厘岛八大推荐App
 
-请看这里：[到印尼/巴厘岛旅行必备的八大app推荐](/blog/2024-10-20-670fc5b2fd89780001cea7ed/)
+请看这里：[到印尼/巴厘岛旅行必备的八大app推荐](/blog/bali-travel-apps-guide/)
 
 ## 打包行李参考
 
-- [巴厘岛要带外套吗？巴厘岛穿搭攻略：旅行中必带的8件衣物](/blog/2025-09-22-68d13539fd89780001b06dfc/)
+- [巴厘岛要带外套吗？巴厘岛穿搭攻略：旅行中必带的8件衣物](/blog/bali-packing-essentials/)
 
 ## 离线地图
 

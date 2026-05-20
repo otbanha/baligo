@@ -25,16 +25,16 @@ In the video below, we delve into the budget required for a Bali trip and provid
 
 ## 【When to Use Cash?】Related Links
 
-* [Top 10 Foods in Bali](/blog/2023-08-15-64db6b7dfd897800013a97bc/) (Part 1)
-* [Top 10 Foods in Bali](/blog/2023-05-02-64db6b81fd897800013a98e3/) (Part 2)
-* [Complete Guide to Bali Car Rental - Costs, Booking Methods, Advantages Analysis](/blog/2024-01-12-65a0a163fd8978000115f37a/)
-* [Short-Distance Transportation: Complete Guide to Gojek](/blog/2023-08-20-64e187dffd897800017304fe/)
+* [Top 10 Foods in Bali](/blog/bali-travel-tips/) (Part 1)
+* [Top 10 Foods in Bali](/blog/bali-top-10-foods/) (Part 2)
+* [Complete Guide to Bali Car Rental - Costs, Booking Methods, Advantages Analysis](/blog/bali-private-car-hire-guide/)
+* [Short-Distance Transportation: Complete Guide to Gojek](/blog/gojek-bali-guide/)
 * [How to Tip in Bali?](https://youtu.be/B_oT905RkQw)
-* [What Outdoor Activities to Do in Bali? 50 Most Popular Outdoor Experiences](/blog/2025-04-02-67ecf440fd897800012cb31b/)
+* [What Outdoor Activities to Do in Bali? 50 Most Popular Outdoor Experiences](/blog/bali-top-50-outdoor-activities/)
 
 ## 【Bali Souvenirs】Related Links
 
-[【Recommended by Netizens】Guide to Over 20 Bali Souvenirs in Six Categories: Perfect Choices to Preserve Precious Memories](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+[【Recommended by Netizens】Guide to Over 20 Bali Souvenirs in Six Categories: Perfect Choices to Preserve Precious Memories](/blog/bali-souvenirs-gift-guide/)
 
 {{block:klook}}
 
@@ -50,6 +50,6 @@ https://youtu.be/11xViUhEnYQ
 
 ## SPA Recommendations
 
-[Be Smart About SPA: Only Recommend Highly Rated SPAs](/blog/2023-01-22-64db6b7efd897800013a97ed/)
+[Be Smart About SPA: Only Recommend Highly Rated SPAs](/blog/spa/)
 
 {{block:戶外}}

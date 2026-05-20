@@ -19,7 +19,7 @@ lang: en
 _srcHash: e38f2087f4c768592101171845f16068
 ---
 
-Traveling to Indonesia or Bali requires a visa (VISA). There are two methods to apply for a visa. For a comparison of these two methods, please refer to: [Bali Travel Visa Guide: Visa on Arrival vs Electronic Visa, Which is Better for You?](/blog/2023-12-05-656f160bfd89780001e07ea9/)
+Traveling to Indonesia or Bali requires a visa (VISA). There are two methods to apply for a visa. For a comparison of these two methods, please refer to: [Bali Travel Visa Guide: Visa on Arrival vs Electronic Visa, Which is Better for You?](/blog/bali-visa-landing-vs-electronic/)
 
 ## Applying for an electronic visa (eVOA) to enter Indonesia/Bali has many benefits!
 
@@ -68,6 +68,6 @@ If you still can't proceed to the next step after following our instructions, pl
 
 ## Further Reading
 
-> [Complete Guide to Indonesia/Bali eVOA: Application Steps & Key Points Explained!](/blog/2024-02-06-65c217c5fd897800010113af/)
+> [Complete Guide to Indonesia/Bali eVOA: Application Steps & Key Points Explained!](/blog/bali-evisa-application-guide/)
 
-> [Fast & Convenient! 2024 Bali Automatic Immigration Process & Clearance Guide](/blog/2024-02-06-65c1defcfd89780001f79bfd/)
+> [Fast & Convenient! 2024 Bali Automatic Immigration Process & Clearance Guide](/blog/2025-bali-automatic-customs/)

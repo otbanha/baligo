@@ -68,7 +68,7 @@ _srcHash: a3a17bfbd04dce0a6a9cff14d0dd690e
 他立刻采取两个行动：
 
 - 联系水明漾的酒店，请工作人员协助寻找
-- 同时下载并注册 : Gojek （如何下载注册请看[这里](/blog/2024-10-13-670b5191fd8978000185cf37/)）
+- 同时下载并注册 : Gojek （如何下载注册请看[这里](/blog/indonesia-gojek-gopay-guide/)）
 
 很快地，好消息传来——颈枕找到了。
 
@@ -129,7 +129,7 @@ https://youtu.be/ByGkcmys01g
 
 最终，他们决定通过平台额外补上30,000印尼盾作为小费，表达感谢。
 
-> [到印尼/巴厘岛旅行必备的八大app推荐](/blog/2024-10-20-670fc5b2fd89780001cea7ed/)
+> [到印尼/巴厘岛旅行必备的八大app推荐](/blog/bali-travel-apps-guide/)
 
 ***
 

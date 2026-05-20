@@ -159,7 +159,7 @@ The "Bali Marine Safari Park" will officially open to the public on **December 2
 
 ### **Transportation**
 
-Marine Safari Bali is located in Gianyar, Bali. Visitors are recommended to use [**private car service**](/blog/2024-07-07-668aaea7fd89780001981840/) to get there.
+Marine Safari Bali is located in Gianyar, Bali. Visitors are recommended to use [**private car service**](/blog/bali-private-car-drivers-guide/) to get there.
 
 **Address**: Jl. Prof. Dr. Ida Bagus Mantra Km. 19, Serongga, Gianyar, Bali
 
@@ -203,8 +203,8 @@ You can also visit [Taman Safari Bali](https://www.balisafarimarinepark.com/) wi
 
 **Quick Reference:**
 
-- [Bali Family Trip Must-See: How to Enjoy and Stay Overnight at Bali Safari](/blog/2023-07-25-64db6b8cfd897800013a9ab1/)
-- [Bali Family Day Trip Guide: Exploring Safari Park and Flamingo Beach Club](/blog/2024-05-17-6647416cfd89780001f5a5ef/)
+- [Bali Family Trip Must-See: How to Enjoy and Stay Overnight at Bali Safari](/blog/bali-safari-night-stay/)
+- [Bali Family Day Trip Guide: Exploring Safari Park and Flamingo Beach Club](/blog/bali-family-day-safari-flamingo/)
 
 ***
 
@@ -214,6 +214,6 @@ Ubud is the cultural and artistic heart of Bali, renowned for its lush rice padd
 
 If you're also planning to stay in Ubud, you can refer to our carefully curated guide on where to eat, drink, and play to make your trip even more vibrant and colorful!
 
-👉 [2026 Bali Ubud Complete Guide: 100 Ways to Deeply Explore Ubud｜Discover the Charm of Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+👉 [2026 Bali Ubud Complete Guide: 100 Ways to Deeply Explore Ubud｜Discover the Charm of Ubud](/blog/ubud-guide/)
 
 {{block:親子}}

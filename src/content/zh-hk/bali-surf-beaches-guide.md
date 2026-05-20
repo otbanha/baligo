@@ -47,13 +47,13 @@ _srcHash: d07e9cb4de1b0b9df880527dad38f831
 
 > 庫塔攻略：[Kuta仲有咩好玩？](/blog/2023-12-13-657598bdfd8978000120fe20/)
 
-> 水明漾攻略：[Seminyak仲有咩好玩？](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+> 水明漾攻略：[Seminyak仲有咩好玩？](/blog/seminyak-guide/)
 
 ### 中級浪潮：坎古（Canggu）
 
 隨住自信心嘅增長，好似坎古（Canggu）嘅巴圖伯隆海灘就顯得更加吸引。呢個標誌性嘅海灘擁有一個適合中級滑浪者嘅浪。活潑嘅氣氛同埋海濱咖啡館，令巴圖伯隆海灘嘅Old Man's一帶而家成為一個有趣嘅地方，無論喺水入面定係水上，都可以度過愉快嘅時光。
 
-> 坎古攻略：[Canggu仲有咩好玩?](/blog/2023-02-11-64db6b7efd897800013a9815/)
+> 坎古攻略：[Canggu仲有咩好玩?](/blog/canggu-guide/)
 
 ### 滑浪高手：烏魯瓦圖（Uluwatu）及其周邊
 
@@ -61,7 +61,7 @@ _srcHash: d07e9cb4de1b0b9df880527dad38f831
 
 其他高級浪點包括Padang Padang，一個隱藏喺岩石洞穴入面嘅沙灘浪點，同埋Keramas，以佢嘅長推浪聞名。呢啲地方可能會因為有經驗豐富嘅衝浪者而變得有啲迫，所以建議朝早嚟參加衝浪之旅。
 
-> 烏魯瓦圖攻略：[Uluwatu仲有咩好玩？](/blog/2024-03-07-65dfd410fd897800019f4b40/)
+> 烏魯瓦圖攻略：[Uluwatu仲有咩好玩？](/blog/uluwatu-guide/)
 
 ##
 
@@ -85,7 +85,7 @@ Kuta呢一帶一路向北延伸到雷吉安、水明漾，擁有最穩定嘅浪
 
 ![回聲海灘不能錯過的美食/美景海灘俱樂部](https://images.gobaligo.id/vocus/vocus_947725fb14b3e426f80e5df6b4e73b91.png)
 
-[回聲海灘必試美食/靚景海灘俱樂部](/blog/2023-12-04-656d19fffd897800019cb6ed/)
+[回聲海灘必試美食/靚景海灘俱樂部](/blog/canggu-la-brisa-restaurant-guide/)
 
 ### 巴圖伯隆海灘
 
@@ -93,7 +93,7 @@ Kuta呢一帶一路向北延伸到雷吉安、水明漾，擁有最穩定嘅浪
 
 ![Jalan Batu Bolong路上的拍照景點](https://images.gobaligo.id/vocus/vocus_05c55e8b3f7706f9f0ef046ddda32bf5.png)
 
-[Jalan Batu Bolong路上嘅打卡位](/blog/2024-04-25-661e365bfd8978000126675a/)
+[Jalan Batu Bolong路上嘅打卡位](/blog/canggu-bali-travel-guide/)
 
 衝浪者可以喺當地教練指導下租用衝浪板同埋上堂。衝完浪之後，佢哋可以探索坎古呢個熱門海灘小鎮，嗰度有時尚嘅咖啡店、精品店同埋熱鬧嘅夜生活，為巴圖伯隆海灘嘅衝浪體驗增添咗吸引力。
 
@@ -147,7 +147,7 @@ Keramas Beach 位於峇里島嘅東海岸，係衝浪者嘅隱藏寶石，以強
 
 ![Jalan Batu Bolong路上的拍照景點](https://images.gobaligo.id/vocus/vocus_a57c937d4efa64f5c319806aeb26db40.png)
 
-[Jalan Batu Bolong 路上嘅打卡景點](/blog/2024-04-25-661e365bfd8978000126675a/)
+[Jalan Batu Bolong 路上嘅打卡景點](/blog/canggu-bali-travel-guide/)
 
 > [巴圖伯隆 Old Man's 2 小時衝浪教學](https://affiliate.klook.com/redirect?aid=116349&aff_adid=845746&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32669-surfing-lesson-old-mans-beach-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9ee53dacd6)
 

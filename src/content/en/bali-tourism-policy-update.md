@@ -51,7 +51,7 @@ However, the implementation of this tourism tax has been ineffective, with only 
 
 **Quick Reference:**
 
-[Bali to Enforce Mandatory Tourism Tax: No More 'Ticket Evasion'!](/blog/2024-12-23-6768bfbefd897800011a8638/)
+[Bali to Enforce Mandatory Tourism Tax: No More 'Ticket Evasion'!](/blog/bali-tourism-tax-enforcement/)
 
 ### What Does the Future Hold?
 

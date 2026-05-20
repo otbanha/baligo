@@ -19,7 +19,7 @@ _srcHash: 97140c13a65a568351171f66e7559ce9
 
 ## 行前準備與預約
 
-出發前，我哋透過[烏布攻略](/blog/2023-11-17-655054b1fd897800011d4d2c/)嘅推薦搵到Nukuwera Adventure呢間專業嘅洞穴漂流河公司。攻略上話呢段可以體驗峇里島穿越歷史日軍洞穴嘅漂流冒險！呢段充滿冒險感嘅描述即刻吸引咗我哋。
+出發前，我哋透過[烏布攻略](/blog/ubud-guide/)嘅推薦搵到Nukuwera Adventure呢間專業嘅洞穴漂流河公司。攻略上話呢段可以體驗峇里島穿越歷史日軍洞穴嘅漂流冒險！呢段充滿冒險感嘅描述即刻吸引咗我哋。
 
 預約過程相當簡單，我哋透過 [Klook預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1064752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53430-ubud-cave-tubing-adventure-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D7271ea9df1)咗我哋四個人嘅行程。價錢方面，唔分大小每位約USD$50，費用包埋酒店接送、漂流河、午餐、ATV。咁樣全包玩一日我覺得都幾抵！
 
@@ -32,9 +32,9 @@ _srcHash: 97140c13a65a568351171f66e7559ce9
 
 ## 開始一日嘅冒險
 
-活動當日早上10點，接駁車準時到達我哋住嘅[Bidadari Private Villas & Retreat](/blog/2025-01-17-6789be68fd89780001c3ec93/)。呢間位於烏布郊區嘅寧靜度假勝地，係我哋精心挑選嘅住宿選擇。由烏布出發約15分鐘車程就到咗Nukuwera嘅基地。基地設有完善嘅更衣室同置物櫃，令我哋可以安心存放個人物品。
+活動當日早上10點，接駁車準時到達我哋住嘅[Bidadari Private Villas & Retreat](/blog/bidadari-private-villas-ubud/)。呢間位於烏布郊區嘅寧靜度假勝地，係我哋精心挑選嘅住宿選擇。由烏布出發約15分鐘車程就到咗Nukuwera嘅基地。基地設有完善嘅更衣室同置物櫃，令我哋可以安心存放個人物品。
 
-活動當天早上10點，接駁車準時抵達我們下榻的[Bidadari Private Villas & Retreat](/blog/2025-01-17-6789be68fd89780001c3ec93/)。這座位於烏布郊區的寧靜度假勝地，是我們精心挑選的住宿選擇。從烏布出發約15分鐘車程就抵達了Nukuwera的基地。基地設有完善的更衣室和置物櫃，讓我們能安心存放個人物品。
+活動當天早上10點，接駁車準時抵達我們下榻的[Bidadari Private Villas & Retreat](/blog/bidadari-private-villas-ubud/)。這座位於烏布郊區的寧靜度假勝地，是我們精心挑選的住宿選擇。從烏布出發約15分鐘車程就抵達了Nukuwera的基地。基地設有完善的更衣室和置物櫃，讓我們能安心存放個人物品。
 
 之後我哋搭咗佢哋嘅接駁車去更上游嘅起點。沿途有導遊同我哋介紹呢條人工河嘅歷史背景。原來二戰期間，日軍曾經喺呢啲洞穴入面建立據點，而家呢啲歷史遺跡就成為咗探險嘅一部分。
 
@@ -92,7 +92,7 @@ https://youtube.com/shorts/Z_vDb7AbMKg
 
 每個轉彎都係驚喜，每段路程都有故事，呢個絕對係認識峇里島鄉野之美最生動嘅方式！
 
-呢個ATV都超好玩！但係唔係呢一篇嘅重點，所以簡單帶過。關於ATV嘅玩法、常見問題等，請參考[呢度](/blog/2024-01-30-65b6ef65fd89780001f5d032/)有詳盡嘅指南
+呢個ATV都超好玩！但係唔係呢一篇嘅重點，所以簡單帶過。關於ATV嘅玩法、常見問題等，請參考[呢度](/blog/bali-atv-adventure-guide/)有詳盡嘅指南
 
 ## 點解推薦Nukuwera River Tubing？
 
@@ -129,7 +129,7 @@ https://youtu.be/ZEkv46_-_mM
 
 如果你正喺度規劃峇里島親子旅行，強烈推薦將Nukuwera River Tubing列入必玩清單。佢唔只係一項冒險活動，更加係一場融合自然、歷史同家庭樂趣嘅獨特體驗。
 
-**後記**：更多峇里島泛舟同水上活動嘅專業建議，推薦參考「[峇里島泛舟攻略（泛舟常見問題FAQ）](/blog/2025-03-28-67e62aa8fd89780001888620/)」呢篇實用指南。
+**後記**：更多峇里島泛舟同水上活動嘅專業建議，推薦參考「[峇里島泛舟攻略（泛舟常見問題FAQ）](/blog/bali-rafting-ayung-telaga-waja/)」呢篇實用指南。
 
 ## 實用建議與注意事項
 

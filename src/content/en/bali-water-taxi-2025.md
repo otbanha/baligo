@@ -71,7 +71,7 @@ This new water taxi route will feature three main stops:
 
 ## Current GoBoat Services
 
-While this project is government-led, it is not Bali's first water transportation initiative. Local private company GoBoat already operates a route from Canggu to [Bukit Peninsula](/blog/2024-10-31-67061b07fd897800012f87b5/).
+While this project is government-led, it is not Bali's first water transportation initiative. Local private company GoBoat already operates a route from Canggu to [Bukit Peninsula](/blog/bukit-peninsula-guide/).
 
 ### **GoBoat Current Routes**
 

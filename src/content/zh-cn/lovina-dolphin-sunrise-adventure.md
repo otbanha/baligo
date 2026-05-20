@@ -63,7 +63,7 @@ https://youtu.be/1COxi_x8L78
 
 （Feilin Huang提供）
 
-> 编者按：你也想住住看仙气飘飘的 bamboo villa吗？快来参考一下我们推荐的「[乌布11家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/blog/2024-04-04-660d4c83fd89780001ddf0ad/)」
+> 编者按：你也想住住看仙气飘飘的 bamboo villa吗？快来参考一下我们推荐的「[乌布11家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)」
 
 ***
 
@@ -125,7 +125,7 @@ https://youtu.be/Pi1RcbRRong
 
 **快速参考：**
 
-> [海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/blog/2024-10-28-671f86f1fd89780001de9fae/)
+> [海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/blog/bali-tanah-lot-guide/)
 
 可能因为早起太累，我们只去了这两个地方，随即返回水明漾的villa休息，享受轻松的时光。
 
@@ -139,7 +139,7 @@ https://youtu.be/Pi1RcbRRong
 
 （Feilin Huang提供）
 
-> 编按：现在Pantai Batu Barak新调整的进入方式[请看这里](/blog/2024-09-13-66e39db1fd8978000170fccf/)
+> 编按：现在Pantai Batu Barak新调整的进入方式[请看这里](/blog/pandawa-beach-traffic-policy/)
 
 📍中午时分，我们在**Malini**享用了午餐，海崖的美景让我们惊叹不已，享受着午餐的同时，心情格外愉悦。虽然中午时人不算太多，但若想坐在悬崖边看景，建议提前订位，否则几乎都是满座。
 
@@ -167,7 +167,7 @@ https://youtu.be/DSi7QvqOLTQ
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7dad59174130e2068985c1770b74c176.jpg)
 
-[Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656)的详细介绍收录在「[水明漾22间令人惊艳的巴厘岛秘密花园](/blog/2025-08-11-660e6e92fd89780001e6047e/)」里。想去水明漾享受villa度假的朋友不要错过喔！
+[Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656)的详细介绍收录在「[水明漾22间令人惊艳的巴厘岛秘密花园](/blog/seminyak-private-villas-guide/)」里。想去水明漾享受villa度假的朋友不要错过喔！
 
 ***
 
@@ -175,7 +175,7 @@ https://youtu.be/DSi7QvqOLTQ
 
 📍大约11:30，我们到超市和商店采买伴手礼，然后便直奔机场，准备返程✈️。
 
-延伸阅读：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+延伸阅读：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
 
 不起眼的街头艺品，却有着不平凡的艺术大师！
 

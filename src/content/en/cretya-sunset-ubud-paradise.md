@@ -25,7 +25,7 @@ lang: en
 _srcHash: 20af41d91b233fded0bc1dc578120e2d
 ---
 
-**After the immense popularity of** [**Cretya Ubub**](/blog/2024-08-02-66ac535efd89780001d5363a/) **with its stunning views of the Tegallalang Rice Terraces, the Alas Harum Group has launched their latest masterpiece—Cretya Sunset by Alas Harum, Ubud.** This new sunset day club and restaurant in Ubud promises an unparalleled relaxation experience and breathtaking scenery, making it a must-visit dream destination while exploring Bali.
+**After the immense popularity of** [**Cretya Ubub**](/blog/cretya-ubud-alas-harum-budget-guide/) **with its stunning views of the Tegallalang Rice Terraces, the Alas Harum Group has launched their latest masterpiece—Cretya Sunset by Alas Harum, Ubud.** This new sunset day club and restaurant in Ubud promises an unparalleled relaxation experience and breathtaking scenery, making it a must-visit dream destination while exploring Bali.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2c6d7325ae36ad648aca156f8c68e65b.jpg)
 
@@ -129,6 +129,6 @@ Cretya Sunset by Alas Harum, Ubud is a perfect destination that combines luxury,
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-[Click here for the complete Ubud guide!](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+[Click here for the complete Ubud guide!](/blog/ubud-guide/)
 
-Ubud is the cultural and artistic center of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and profound traditional culture. Here, you'll find magnificent temples, charming art markets, and a wealth of yoga and meditation experiences, making it an ideal place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in various fun and exciting outdoor activities, Ubud offers unique experiences that will move you! Want to learn more about Ubud? [Click here](/blog/2023-11-17-655054b1fd897800011d4d2c/).
+Ubud is the cultural and artistic center of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and profound traditional culture. Here, you'll find magnificent temples, charming art markets, and a wealth of yoga and meditation experiences, making it an ideal place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in various fun and exciting outdoor activities, Ubud offers unique experiences that will move you! Want to learn more about Ubud? [Click here](/blog/ubud-guide/).

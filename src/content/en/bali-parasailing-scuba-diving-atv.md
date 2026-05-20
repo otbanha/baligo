@@ -52,7 +52,7 @@ So, if you're planning to take your family to Bali, feel free to reach out to Oe
 
 In Bali, it's best to avoid trying drinks from non-supermarkets, large restaurants, or chain stores. During our trip, a friend drank a beverage at a local eatery and ended up with stomach issues for two days. While the local drinks may look tempting, it's safer to stick to reliable options to avoid getting sick during your travels. Additionally, carrying some stomach medicine can be helpful in case of emergencies.
 
-> [Health Tips for Bali Travel: A Guide to Drinking Water and Diarrhea in Bali](/blog/2024-01-27-65b32e1ffd8978000170519b/)
+> [Health Tips for Bali Travel: A Guide to Drinking Water and Diarrhea in Bali](/blog/bali-travel-health-tips/)
 
 ### **Bring Extra Undergarments**
 
@@ -78,13 +78,13 @@ Just across the street is Kuta Beach, and the area is bustling with nightlife. A
 
 There are many currency exchange places in Bali. You can ask your guide or driver to take you there, which is safer and more reliable. Since exchanging money is very convenient, there's no need to exchange too much at once. For this trip, because I had collected some public funds in advance, I only exchanged USD$200 for my five-day personal expenses, and I still had some left. It's advisable to carry some USD with you for emergencies, which can also reduce the number of times you need to exchange money locally.
 
-> [Complete Guide to Currency Exchange in Indonesia/Bali: What currency is used? How to get the best exchange rate? Where to exchange money?](/blog/2024-01-28-65b5c7e2fd89780001e96fac/)
+> [Complete Guide to Currency Exchange in Indonesia/Bali: What currency is used? How to get the best exchange rate? Where to exchange money?](/blog/bali-currency-exchange-guide/)
 
 ### **Rafting Experience**
 
 Before starting the rafting activity in Bali, you need to walk a long mountain path (downstairs) to reach the river. On the way back, you have to climb a slope with stairs. Although the return stairs are shorter, it can still be a bit challenging for those with poor physical fitness. If you're bringing elderly or children, make sure to assess their physical condition. However, the rafting process is really exciting and fun, making it an unforgettable experience, so I highly recommend trying it.
 
-> [Bali Rafting Guide (FAQ)](/blog/2025-03-28-67e62aa8fd89780001888620/)
+> [Bali Rafting Guide (FAQ)](/blog/bali-rafting-ayung-telaga-waja/)
 
 ### Other Activities
 
@@ -94,15 +94,15 @@ Photo provided by Yu Mengling
 
 (Left photo) GWK Cultural Park is worth visiting for photos and doesn't require much walking! (Lazy person approved 👍🏻)
 
-> [GWK Cultural Park](/blog/2024-05-17-662c59e9fd897800011f1230/) travelogue
+> [GWK Cultural Park](/blog/bali-family-trip-gwk-beach-club/) travelogue
 
 (Middle photo) We even managed to break an ATV (neutral gear + accelerator...)
 
-> [Bali ATV Adventure: Experience the Thrill and Freedom of Tropical Paradise (Tips + Operator Recommendations)](/blog/2024-01-30-65b6ef65fd89780001f5d032/)
+> [Bali ATV Adventure: Experience the Thrill and Freedom of Tropical Paradise (Tips + Operator Recommendations)](/blog/bali-atv-adventure-guide/)
 
 (Right photo) Not sure why we were brave enough to let go of the handles... Definitely want to try parasailing again next time!
 
-> [Uluwatu Guide](/blog/2024-03-07-65dfd410fd897800019f4b40/) | [Soaring in Uluwatu! Stunning Ocean Views + Tips](/blog/2025-05-02-6814aa9efd89780001f68acc/)
+> [Uluwatu Guide](/blog/uluwatu-guide/) | [Soaring in Uluwatu! Stunning Ocean Views + Tips](/blog/uluwatu-paragliding-ocean-view/)
 
 ![余孟苓提供](https://images.gobaligo.id/vocus/vocus_86510d86b1e385faaad873854fe73fae.jpg)
 
@@ -110,15 +110,15 @@ Photo provided by Yu Mengling
 
 (Left photo) The cliffside pool is amazing! This is Oneeighty Dayclub - make sure to book online in advance!
 
-> [Exploring Oneeighty Day Club: Bali's Ultimate Cliffside Pool Experience](/blog/2023-12-07-6571846ffd89780001fe97ee/)
+> [Exploring Oneeighty Day Club: Bali's Ultimate Cliffside Pool Experience](/blog/oneeighty-dayclub-uluwatu-pool/)
 
 (In the photo) The narrow passage at Tanah Barak Cliff is stunning
 
-> [Bali Batu Barak/Tanah Barak: A breathtaking journey along the Blue Highway/Cliff Highway](/blog/2025-03-06-67c9a234fd897800014b5a11/)
+> [Bali Batu Barak/Tanah Barak: A breathtaking journey along the Blue Highway/Cliff Highway](/blog/batu-barak-cliff-road/)
 
 (Photo on the right) Sea walking is also amazing! Though you might experience ear pressure imbalance
 
-> [Sea Walking at Tanjung Benoa](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+> [Sea Walking at Tanjung Benoa](/blog/nusa-dua-guide/)
 
 These are some insights and suggestions from my recent trip. Feel free to discuss if you have any questions! I'll probably visit again next year - Bali is truly a relaxing, comfortable, and fun destination!
 
@@ -128,4 +128,4 @@ Do you find Yu Mengling's itinerary exciting? Start planning your own Bali free-
 
 Click here to watch more amazing Bali travelogues
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue shine!

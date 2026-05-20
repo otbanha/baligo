@@ -92,13 +92,13 @@ _srcHash: 9c47119eb3124134ec6560b4ecadb117
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
 
-**延伸閱讀:** [印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞掂最新流程：落機→過海關→攞行李全攻略](/blog/2025-08-14-689dcce7fd8978000125fc52/)
+**延伸閱讀:** [印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞掂最新流程：落機→過海關→攞行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 
 ### **行前必做**：
 
-1. 務必先完成申請電子簽證eVisa。請參考[呢度](/blog/2024-02-06-65c217c5fd897800010113af/)有進一步嘅說明，避免進入詐騙網站。
-2. 出發前三日完成All Indonesia入境卡，並**截圖QR Code**備查。請睇本站整理[常見問題FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)。
-3. **繳交峇里島觀光稅**費用：15萬印尼盾/人（約USD$5）。點樣繳交？請睇[觀光稅](/blog/2024-01-03-65955989fd89780001a95927/)說明。
+1. 務必先完成申請電子簽證eVisa。請參考[呢度](/blog/bali-evisa-application-guide/)有進一步嘅說明，避免進入詐騙網站。
+2. 出發前三日完成All Indonesia入境卡，並**截圖QR Code**備查。請睇本站整理[常見問題FAQ](/blog/bali-evisa-customs-health-declaration/)。
+3. **繳交峇里島觀光稅**費用：15萬印尼盾/人（約USD$5）。點樣繳交？請睇[觀光稅](/blog/2026-bali-tourism-tax-guide/)說明。
 
 ### 小貼士
 

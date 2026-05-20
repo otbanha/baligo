@@ -85,7 +85,7 @@ To ride a scooter in Bali, you must have an international driver's license; othe
 
 ### 4. High Medical Costs 💰
 
-According to the owner of [Mr. Lobster](/blog/2024-08-08-66a3943afd89780001cde8eb/), a restaurant operator in Bali, he often encounters tourists injured in scooter accidents. Due to their injuries, they are unable to participate in other activities and can only rest and dine at his restaurant. It's important to note that medical costs in Bali are extremely high. If you're unfortunate enough to get injured, the medical expenses could significantly increase your travel budget, putting a damper on your trip. (Personal experience: A friend once suffered an ankle fracture, and a simple cast/bandage cost IDR 12,000,000, approximately USD$800.)
+According to the owner of [Mr. Lobster](/blog/mr-lobster-seafood-restaurant-bali/), a restaurant operator in Bali, he often encounters tourists injured in scooter accidents. Due to their injuries, they are unable to participate in other activities and can only rest and dine at his restaurant. It's important to note that medical costs in Bali are extremely high. If you're unfortunate enough to get injured, the medical expenses could significantly increase your travel budget, putting a damper on your trip. (Personal experience: A friend once suffered an ankle fracture, and a simple cast/bandage cost IDR 12,000,000, approximately USD$800.)
 
 ### 5. Road Conditions and Natural Factors 🌧️
 
@@ -95,9 +95,9 @@ Road conditions in Bali are unpredictable, especially in Ubud and rural areas, w
 
 Bali offers many affordable transportation options, such as private car hires, ride-hailing scooters, or ride-hailing cars. Compared to renting scooters, these options are safer and more convenient, making them a more reliable choice for tourists unfamiliar with local traffic.
 
-> Further Reading: [Complete Guide to Bali Car Rental for Independent Travel - Costs, Booking Methods, and Advantages](/blog/2024-01-12-65a0a163fd8978000115f37a/)
+> Further Reading: [Complete Guide to Bali Car Rental for Independent Travel - Costs, Booking Methods, and Advantages](/blog/bali-private-car-hire-guide/)
 
-> Further Reading: [Calling a Scooter via Ride-Hailing App: A Practical Case Study!](/blog/2024-05-03-6634d110fd897800012a9d6b/)
+> Further Reading: [Calling a Scooter via Ride-Hailing App: A Practical Case Study!](/blog/bali-travel-app-motorcycle-taxi/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_49791dac6020e950bda56dde7ee4e7f5.jpg)
 

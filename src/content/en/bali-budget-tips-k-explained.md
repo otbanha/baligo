@@ -56,7 +56,7 @@ To better manage your expenses in Bali, here are some suggestions:
 
 2. Carry cash: Some places may not accept credit cards or may charge additional fees. Carrying some local currency can help you better handle such situations.
 
-> Read "[Essential Travel Shopping Tips: Safe and Convenient Spending Guide](/blog/2023-08-16-64dcae12fd897800015a06a3/)"
+> Read "[Essential Travel Shopping Tips: Safe and Convenient Spending Guide](/blog/travel-shopping-safety/)"
 
 3. Bargain: When shopping or renting services, you can try negotiating with vendors to get the best price.
 

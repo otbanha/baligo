@@ -41,9 +41,9 @@ From the daily offerings of flowers to the sounds of gamelan music, and the Tirt
 
 **Quick Reference:**
 
-- [Bali's Offering Tradition: Canang Sari](/blog/2024-07-16-66964aa7fd89780001c7051c/)
-- [【2025】Tirta Empul Temple Complete Guide: Bali's Most Sacred Purification Water Temple Experience](/blog/2025-06-18-6852cdc2fd89780001e0b7ad/)
-- [【Bali Healing/Spiritual Journey】When 'Eat Pray Love' Became My Real Life](/blog/2025-04-19-680323c9fd89780001988a20/)
+- [Bali's Offering Tradition: Canang Sari](/blog/bali-canang-sari-explained/)
+- [【2025】Tirta Empul Temple Complete Guide: Bali's Most Sacred Purification Water Temple Experience](/blog/tirta-empul-temple-guide/)
+- [【Bali Healing/Spiritual Journey】When 'Eat Pray Love' Became My Real Life](/blog/eat-pray-love-bali-spiritual-journey/)
 
 ### ✨ **Diverse Travel Experiences**
 
@@ -53,7 +53,7 @@ From yoga and meditation in Ubud, to chic boutiques in Seminyak, seafood sunset 
 
 **Quick Reference:**
 
-[What Outdoor Activities Can You Do in Bali? 50 Most Popular Outdoor Experiences](/blog/2025-04-02-67ecf440fd897800012cb31b/)
+[What Outdoor Activities Can You Do in Bali? 50 Most Popular Outdoor Experiences](/blog/bali-top-50-outdoor-activities/)
 
 ### ✨ **The Warmth of Connecting with Travelers**
 
@@ -77,7 +77,7 @@ From the fairy-tale perspective of Lempuyang Temple's 'Gates of Heaven' to the b
 
 **Quick Reference:**
 
-[2025 Bali Attractions Map & Guide | 500 Latest Must-Visit Spots in Bali](/blog/2024-03-09-65df201efd89780001994d11/)
+[2025 Bali Attractions Map & Guide | 500 Latest Must-Visit Spots in Bali](/blog/bali-top-500-attractions/)
 
 ***
 

@@ -61,9 +61,9 @@ This video vividly showcases the rich and diverse tourism resources of the Uluwa
 
 ![烏魯瓦圖攻略有更全面的介紹](https://images.gobaligo.id/vocus/vocus_21777e6a472d74c62c56833f409a2864.jpg)
 
-[For a more comprehensive guide to Uluwatu, click here](/blog/2024-03-07-65dfd410fd897800019f4b40/)
+[For a more comprehensive guide to Uluwatu, click here](/blog/uluwatu-guide/)
 
-For other attractions not covered in the video, such as the 'Tanah Barak Cliff' blue road, 11 Uluwatu beach clubs, 16 recommended restaurants, two family-friendly restaurants, four shopping spots... and more, please refer to our '[Uluwatu Guide: 50 Recommendations for Food, Fun, and Activities](/blog/2024-03-07-65dfd410fd897800019f4b40/)'
+For other attractions not covered in the video, such as the 'Tanah Barak Cliff' blue road, 11 Uluwatu beach clubs, 16 recommended restaurants, two family-friendly restaurants, four shopping spots... and more, please refer to our '[Uluwatu Guide: 50 Recommendations for Food, Fun, and Activities](/blog/uluwatu-guide/)'
 
 ![](https://res.cloudinary.com/dksxqobud/image/upload/v1774107631/pandawa3_jbnbjf.jpg)
 

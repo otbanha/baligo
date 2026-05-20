@@ -103,7 +103,7 @@ _srcHash: fa290f3dd1c581f5907be77c1e5cc9a3
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
-努沙杜瓦（Nusa Dua）係峇里島以豪華度假村聞名嘅地區，擁有潔白嘅沙灘、碧藍嘅海水同完善嘅旅遊設施，係追求高端享受同寧靜假期嘅首選。呢度仲提供頂級水療、水上活動、同埋適合全家大小嘅休閒活動，係各類旅客嘅天堂。想了解更多努沙杜瓦攻略？[請點擊這裡](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+努沙杜瓦（Nusa Dua）係峇里島以豪華度假村聞名嘅地區，擁有潔白嘅沙灘、碧藍嘅海水同完善嘅旅遊設施，係追求高端享受同寧靜假期嘅首選。呢度仲提供頂級水療、水上活動、同埋適合全家大小嘅休閒活動，係各類旅客嘅天堂。想了解更多努沙杜瓦攻略？[請點擊這裡](/blog/nusa-dua-guide/)
 
 🏖️🌊🚤南灣水上活動，拖曳傘、浮潛、海底漫步、香蕉船一次體驗 ▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25B8%25B9%25E6%2588%258E%25E8%25B2%259D%25E8%25AB%25BE%25E7%2593%25A6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D4376a16ccb)
 
@@ -163,4 +163,4 @@ _srcHash: fa290f3dd1c581f5907be77c1e5cc9a3
 
 **努沙杜瓦係峇里島南部一個著名嘅高級度假勝地，以其寧靜嘅環境、潔白嘅沙灘同世界級嘅奢華體驗聞名。** 如果您正在尋找奢華五星級度假村，努沙杜瓦提供咗眾多頂尖選擇，由專屬私人海灘到精緻嘅餐飲與水療，應有盡有。
 
-👉 **想探索更多努沙杜瓦嘅頂級住宿？**[**請點擊這裡**](/blog/2024-07-27-66a4562afd89780001d70329/)**！**
+👉 **想探索更多努沙杜瓦嘅頂級住宿？**[**請點擊這裡**](/blog/nusa-dua-resorts-guide/)**！**

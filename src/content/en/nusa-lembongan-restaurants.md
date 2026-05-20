@@ -23,8 +23,8 @@ Nusa Lembongan and Nusa Ceningan are two hidden gems near Bali, offering stunnin
 
 This is the second installment of our Nusa Lembongan/Nusa Ceningan guide. Want to know about the must-visit attractions and recommended accommodations on Nusa Lembongan and Nusa Ceningan? Check out our guide:
 
-- [Nusa Lembongan Guide Part 1: Attractions](/blog/2024-10-23-66adfb9afd89780001f62df1/)
-- [Nusa Lembongan Guide Part 3: Best Accommodations](/blog/2024-10-30-67205cb1fd89780001ee1413/)
+- [Nusa Lembongan Guide Part 1: Attractions](/blog/nusa-lembongan-ceningan-guide/)
+- [Nusa Lembongan Guide Part 3: Best Accommodations](/blog/nusa-lembongan-ceningan-accommodation-guide/)
 
 ***
 
@@ -292,6 +292,6 @@ Whether you're here to relax or to savor delicious cuisine, these restaurants an
 
 **This is the second part of the Lembongan/Ceningan Island travel guide. Don't forget to check out the first part:**
 
-- [【Lembongan Island Guide Part 1】Attractions Guide](/blog/2024-10-23-66adfb9afd89780001f62df1/)
+- [【Lembongan Island Guide Part 1】Attractions Guide](/blog/nusa-lembongan-ceningan-guide/)
 
 {{block:klook}}

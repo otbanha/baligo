@@ -25,7 +25,7 @@ The head of Bali's Tourism Bureau announced this news at a recent press conferen
 
 According to the latest data, only 40% of foreign tourists have paid the tourist tax. Thus, these spot checks aim to ensure everyone pays their dues on time. Of course, we understand this might be a new challenge for some visitors, but don't worry — the Tourism Bureau has provided various payment methods, including smartphone apps, website payments, and airport payment counters. There's an option for everyone!
 
-> Further Reading: [Bali Tourist Tax Guide: 2024 New Regulations, Payment Methods, and Island-Hopping Tips](/blog/2024-01-03-65955989fd89780001a95927/)
+> Further Reading: [Bali Tourist Tax Guide: 2024 New Regulations, Payment Methods, and Island-Hopping Tips](/blog/2026-bali-tourism-tax-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_aedb16fe1f10df555de6e03c79b7719e.png)
 

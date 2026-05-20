@@ -52,7 +52,7 @@ This classic snorkeling site is famous for its giant manta rays, making it a dre
 
 https://youtu.be/jjuHfCukQrM?si=WpLBp0aP5qcX3_58
 
-Nusa Penida is a pearl off the coast of Bali! Want to know how to explore Nusa Penida? Check out our [Nusa Penida Guide](/blog/2023-08-16-64db6b82fd897800013a9942/)
+Nusa Penida is a pearl off the coast of Bali! Want to know how to explore Nusa Penida? Check out our [Nusa Penida Guide](/blog/nusa-penida-guide/)
 
 ***
 
@@ -62,7 +62,7 @@ https://youtube.com/shorts/a4mL69nASLY?si=kBlh3NkmaQFRIeAw
 
 Located on the northern coast of Nusa Lembongan in Bali, Mangrove Point is renowned for its unique "go with the flow" drift snorkeling experience. This area is adjacent to a dense mangrove ecosystem, and its privileged geographical environment fosters incredible biodiversity. Snorkelers can simply relax and float on the water's surface, gently carried by the steady current as if watching a movie, passing through endless and vibrant coral gardens. The water here is crystal clear, with schools of tropical fish weaving through the magnificent hard corals. Not only is the sight stunning, but the effortless experience makes it a must-visit underwater paradise during your island-hopping adventure in Bali.
 
-For recommendations on attractions, accommodations, and dining in Nusa Lembongan, check out [Nusa Lembongan Guide](/blog/2024-10-23-66adfb9afd89780001f62df1/)
+For recommendations on attractions, accommodations, and dining in Nusa Lembongan, check out [Nusa Lembongan Guide](/blog/nusa-lembongan-ceningan-guide/)
 
 ***
 
@@ -94,7 +94,7 @@ The famous USS Liberty shipwreck lies in relatively shallow waters, making it ea
 
 > [Amed/Tulamben Diving/Snorkeling Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1106567&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%259C%259F%25E8%2598%25AD%25E5%25A5%2594%25E6%25B5%25AE%25E6%25BD%259B)
 
-Amed/Tulamben is a low-key yet captivating diving paradise in northeastern Bali! Want to know what else you can do here besides diving? Check out our [Amed/Tulamben In-Depth Travel Guide](/blog/2025-06-23-68578b01fd89780001dd5208/)
+Amed/Tulamben is a low-key yet captivating diving paradise in northeastern Bali! Want to know what else you can do here besides diving? Check out our [Amed/Tulamben In-Depth Travel Guide](/blog/amed-tulamben-diving-guide/)
 
 ***
 
@@ -114,11 +114,11 @@ This area features shallow waters protected by outer reefs, making it ideal for 
 
 > Book the [Sanur Offshore Snorkeling Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F134495-snorkeling-experience-in-sanur-coastal%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dd9d7485ad9)
 
-Sanur is Bali's most family-friendly seaside town for slowing down! Want to know about family-friendly hotels, dining, and beach activities in Sanur? Check out our [Sanur Travel Guide](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
+Sanur is Bali's most family-friendly seaside town for slowing down! Want to know about family-friendly hotels, dining, and beach activities in Sanur? Check out our [Sanur Travel Guide](/blog/sanur-guide/)
 
 > [Book Nusa Dua Snorkeling](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1083509&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53090-snorkeling-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8c694d5dca)
 
-Nusa Dua is a tranquil paradise in southeastern Bali! Want to know the must-visit, must-stay, and must-photograph spots in Nusa Dua? Check out our [Nusa Dua Travel Guide](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+Nusa Dua is a tranquil paradise in southeastern Bali! Want to know the must-visit, must-stay, and must-photograph spots in Nusa Dua? Check out our [Nusa Dua Travel Guide](/blog/nusa-dua-guide/)
 
 ***
 
@@ -162,7 +162,7 @@ The dry season (April to October) offers stable sea conditions and excellent vis
 
 Beginners are advised to opt for guided tours, especially in areas with stronger currents like Manta Point and Tulamben.
 
-**Quick Reference:** [Essential Reading for Diving and Snorkeling in Bali: How to Safeguard Your Passport and Valuables?](/blog/2025-06-20-6855271afd897800016d3b6a/)
+**Quick Reference:** [Essential Reading for Diving and Snorkeling in Bali: How to Safeguard Your Passport and Valuables?](/blog/bali-diving-safety-tips/)
 
 {{block:klook}}
 

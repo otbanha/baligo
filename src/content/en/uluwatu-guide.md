@@ -30,7 +30,7 @@ Here are the must-visit spots for your Uluwatu getaway:
 
 ### Hidden Beaches (📌[Location Map](/map/uluwatu/))
 
-This area is home to many hidden beaches that are hard to spot from land and often require descending cliffs to discover. Beyond Bali's well-known popular beaches, the island hides numerous secluded gems waiting to be explored by adventurers. Here are six hidden beaches we recommend: '[Exploring Bali's Hidden Gems: 6 Secret Beaches and How to Check Tides](/blog/2023-08-22-64e4c0c9fd897800014e31bf/)'
+This area is home to many hidden beaches that are hard to spot from land and often require descending cliffs to discover. Beyond Bali's well-known popular beaches, the island hides numerous secluded gems waiting to be explored by adventurers. Here are six hidden beaches we recommend: '[Exploring Bali's Hidden Gems: 6 Secret Beaches and How to Check Tides](/blog/bali-hidden-beaches-guide/)'
 
 Below are three hidden beaches I’ve personally visited:
 
@@ -56,13 +56,13 @@ Uluwatu Temple is one of Bali's most famous seaside temples, perched on a toweri
 
 A word of caution: the monkeys here are quite mischievous, so be careful with items in your hands, backpacks, and even sunglasses or eyeglasses—they might snatch them!
 
-For a detailed guide, check out [Uluwatu Temple/Suicide Cliff Travel Guide: Must-See Highlights and Practical Tips](/blog/2025-01-18-678b1d81fd89780001f7fe4d/)
+For a detailed guide, check out [Uluwatu Temple/Suicide Cliff Travel Guide: Must-See Highlights and Practical Tips](/blog/uluwatu-temple-travel-guide/)
 
 ### Kecak Fire Dance (📌[Location Map](/map/uluwatu/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9bb712068745724f248cc567be7b531d.jpg)
 
-The "Kecak Fire Dance" primarily reenacts a segment from the Indian epic Ramayana, depicting the battle between the Monkey King and demons. The dazzling flames and vibrant costumes are truly mesmerizing! For those interested in learning more about this renowned Hindu performance, you can [click here](/blog/2024-01-29-65b6e533fd89780001f51eaf/) for a detailed introduction we've previously prepared. This is a performance that almost everyone who has seen it agrees is worth every penny!
+The "Kecak Fire Dance" primarily reenacts a segment from the Indian epic Ramayana, depicting the battle between the Monkey King and demons. The dazzling flames and vibrant costumes are truly mesmerizing! For those interested in learning more about this renowned Hindu performance, you can [click here](/blog/kecak-fire-dance-bali/) for a detailed introduction we've previously prepared. This is a performance that almost everyone who has seen it agrees is worth every penny!
 
 For those interested in watching the fire dance performance, consider the highly-rated Klook tours below. Booking tickets through Klook allows you to effortlessly enjoy the mesmerizing fire dance!
 
@@ -86,7 +86,7 @@ This is also an excellent location for wedding photography, with many couples ch
 
 What does it feel like to have a 162-meter-high cliff beneath your feet?
 
-Oneeighty is a sky-high pool bar and club located 162 meters above the Indian Ocean. It features a unique cliff-top swimming pool with glass walls. You can enjoy a 180-degree view of the Indian Ocean from the part of the pool that extends over the cliff. Check out our guide here for introductions, photo spot recommendations, and details on pricing: [Exploring Oneeighty Day Club: Bali's Cliffside Pool with Ultimate Views](/blog/2023-12-07-6571846ffd89780001fe97ee/)
+Oneeighty is a sky-high pool bar and club located 162 meters above the Indian Ocean. It features a unique cliff-top swimming pool with glass walls. You can enjoy a 180-degree view of the Indian Ocean from the part of the pool that extends over the cliff. Check out our guide here for introductions, photo spot recommendations, and details on pricing: [Exploring Oneeighty Day Club: Bali's Cliffside Pool with Ultimate Views](/blog/oneeighty-dayclub-uluwatu-pool/)
 
 Jie's introduction video
 
@@ -100,7 +100,7 @@ Jie's introduction video
 
 Bali's Pandawa Beach (also known as Tanah Barak Cliff) is a hidden gem that has recently become a popular attraction. This newly opened beach boasts stunning blue waters and colorful rocks that make it unique. In addition to the magnificent sea views, the road here is carved out of massive limestone cliffs, with the azure sea in the distance and towering rock walls on both sides of the road, creating a dramatic visual impact. Pandawa Beach is about a 30-minute drive from the airport, and an entrance fee is required. It is open daily from 6:00 AM to 6:00 PM.
 
-Here’s a guide to the Blue Cliff Road: </blog/2025-03-06-67c9a234fd897800014b5a11/>
+Here’s a guide to the Blue Cliff Road: </blog/batu-barak-cliff-road/>
 
 ***
 
@@ -231,7 +231,7 @@ For the locations of these shops, check out our "[Uluwatu Guide Map](/map/uluwat
 
 Located at Hatch Bali Uluwatu in the southern tip of Bali, SUNDAZE ULUWATU MARKET transforms into a vibrant bazaar every Sunday from 11:00 AM to 6:00 PM. Here, you can enjoy talented acoustic musicians, savor delicious BBQ from local vendors, and find unique products or tasty snacks. This market is the perfect place to unwind and connect with friends, defining Uluwatu's laid-back weekend charm!
 
-Further Reading: [2026 Edition: Four Holiday Markets Still Happening in Bali: The Most Authentic Shopping Experience](/blog/2024-02-25-65db3d16fd89780001ef8b8f/)
+Further Reading: [2026 Edition: Four Holiday Markets Still Happening in Bali: The Most Authentic Shopping Experience](/blog/bali-weekend-markets-2026/)
 
 ***
 
@@ -324,7 +324,7 @@ Uluwatu is one of the most popular tourist areas in southern Bali. The Uluwatu r
 
 If you're looking for a comfortable, luxurious stay with unbeatable ocean views, consider these 12 carefully selected options:
 
-> [Uluwatu Accommodation Recommendations: 14 Private Villas and Resorts with Stunning Ocean Views](/blog/2023-11-04-6544f321fd89780001bb240c/)
+> [Uluwatu Accommodation Recommendations: 14 Private Villas and Resorts with Stunning Ocean Views](/blog/uluwatu-bali-villas-resorts-guide/)
 
 ## Rent Large Pool Floats for Instagram-worthy Photos
 

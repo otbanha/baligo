@@ -61,7 +61,7 @@ Ubud is not only home to the historic palace but also offers numerous nearby att
 
 Located opposite Ubud Palace, the Ubud Art Market is a vibrant showcase of traditional Balinese culture. Here, you'll find a wide array of goods, including handmade jewelry, wood carvings, paintings, and traditional clothing, each reflecting the local artistic atmosphere. Remember to haggle appropriately to secure your favorite souvenirs at a better price!
 
-Further Reading: [Complete Guide to Ubud's Top Five Art Markets: Buying Souvenirs/Gifts, Discovering Bali's Cultural Treasures](/blog/2024-10-19-6712fb1dfd89780001f69011/)
+Further Reading: [Complete Guide to Ubud's Top Five Art Markets: Buying Souvenirs/Gifts, Discovering Bali's Cultural Treasures](/blog/ubud-art-markets-guide/)
 
 ### 2. Saraswati Temple (Pura Taman Saraswati) 🗺️[Map Location](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
@@ -124,7 +124,7 @@ Ubud Palace is not only a local landmark but also a precious treasure of Bali's 
 **2. How much is the entrance fee for Ubud Palace?**
 
 - Daytime admission to Ubud Palace is free. For the evening traditional dance performances, tickets are required and cost approximately IDR 100K (around USD $6). Prices may vary depending on the performance. It is recommended to [book in advance](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
-- What does '100K' mean? Check out [here](/blog/2023-08-24-64e730ddfd89780001336a09/)
+- What does '100K' mean? Check out [here](/blog/bali-budget-tips-k-explained/)
 
 **3. Can I access all areas of Ubud Palace?**
 
@@ -164,8 +164,8 @@ Ubud Palace is not only a local landmark but also a precious treasure of Bali's 
 
 ---
 
-Ubud is the cultural and artistic heart of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and deep-rooted traditional culture. It’s an ideal place to relax and unwind. Whether you’re exploring local traditions, enjoying natural beauty, or engaging in various exciting outdoor activities, Ubud offers a unique experience of food + scenery that will leave you deeply moved! Want to learn more about Ubud? [Click here](/blog/2023-11-17-655054b1fd897800011d4d2c/).
+Ubud is the cultural and artistic heart of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and deep-rooted traditional culture. It’s an ideal place to relax and unwind. Whether you’re exploring local traditions, enjoying natural beauty, or engaging in various exciting outdoor activities, Ubud offers a unique experience of food + scenery that will leave you deeply moved! Want to learn more about Ubud? [Click here](/blog/ubud-guide/).
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b6d12217ea90beecfe681cdd8f848d0f.jpg)
 
-Ubud is the cultural and artistic heart of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and rich traditional culture. It's an ideal place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in various exciting outdoor activities and unique food+scenery experiences, Ubud offers unforgettable moments! Want to learn more about Ubud travel tips? [Click here](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+Ubud is the cultural and artistic heart of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and rich traditional culture. It's an ideal place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in various exciting outdoor activities and unique food+scenery experiences, Ubud offers unforgettable moments! Want to learn more about Ubud travel tips? [Click here](/blog/ubud-guide/)

@@ -28,7 +28,7 @@ _srcHash: df84fbbdaf7e09e5d4ee763614f15422
 
 没人想成为违法签证持有者，所以让我们来解释一下你在印尼远程工作的几种签证选择：
 
->>请参考：[最新入境印尼巴厘岛签证改版 FAQ](/blog/2024-01-17-65a7f34dfd897800010017db/)
+>>请参考：[最新入境印尼巴厘岛签证改版 FAQ](/blog/2025-bali-visa-update-faq/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dd41d77001052cf97d5e040eff2b57b5.jpg)
 

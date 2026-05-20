@@ -33,6 +33,6 @@ https://youtu.be/_Lvp9cIVYz8
 
 ## 更多烏布鞦韆介紹
 
-[【烏布鞦韆攻略】8 大最美叢林鞦韆推薦：租禮服技巧、影相角度同避開人潮全指南](/blog/2025-08-15-689eb518fd897800014fbb28/)
+[【烏布鞦韆攻略】8 大最美叢林鞦韆推薦：租禮服技巧、影相角度同避開人潮全指南](/blog/ubud-jungle-swings-photo-guide/)
 
 {{block:ubud}}

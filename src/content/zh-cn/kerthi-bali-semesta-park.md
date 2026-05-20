@@ -114,6 +114,6 @@ Kembang Hartawan 强调：“我们希望这项计划不只是建设，更是一
 
 **5. 巴厘岛还有哪些必去乐园？**
 
-除了本项目，[Waterbom Bali](/blog/2025-07-28-68875c61fd8978000143d895/)、[Bali Safari Park](/blog/2023-07-25-64db6b8cfd897800013a9ab1/) 与 [Bali Bird Park](/blog/2025-10-25-68fc1e0cfd89780001736727/) 都是不容错过的热门景点。
+除了本项目，[Waterbom Bali](/blog/waterbom-bali-water-park-guide/)、[Bali Safari Park](/blog/bali-safari-night-stay/) 与 [Bali Bird Park](/blog/bali-bird-park-guide/) 都是不容错过的热门景点。
 
 {{block:親子}}

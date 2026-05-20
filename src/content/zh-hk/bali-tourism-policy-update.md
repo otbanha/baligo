@@ -18,7 +18,7 @@ category:
 lang: zh-hk
 _srcHash: 529adec6f0d7ef7a53d48bf4658f3ad3
 ---
-舊年年底，印尼政府原本計劃喺峇里島南部嘅幾個熱門旅遊區，好似坎古、烏魯瓦圖、庫塔、雷吉安、水明漾同努沙杜瓦等地，[禁止新建酒店、海灘俱樂部同其他旅遊相關設施](/blog/2024-09-11-66e03af7fd89780001fbc9fc/)。不過，即將連任上任嘅峇里島省長瓦揚·科斯特（Wayan Koster）最近公開表示，**佢唔會執行呢項禁令**。
+舊年年底，印尼政府原本計劃喺峇里島南部嘅幾個熱門旅遊區，好似坎古、烏魯瓦圖、庫塔、雷吉安、水明漾同努沙杜瓦等地，[禁止新建酒店、海灘俱樂部同其他旅遊相關設施](/blog/bali-hotel-construction-ban/)。不過，即將連任上任嘅峇里島省長瓦揚·科斯特（Wayan Koster）最近公開表示，**佢唔會執行呢項禁令**。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5912b3283e6ebf4f0e8a8eefd1896b05.png)
 
@@ -46,7 +46,7 @@ _srcHash: 529adec6f0d7ef7a53d48bf4658f3ad3
 
 **快速參考：**
 
-[峇里島將強制禁止「逃票」遊客：觀光稅或成強制規定！](/blog/2024-12-23-6768bfbefd897800011a8638/)
+[峇里島將強制禁止「逃票」遊客：觀光稅或成強制規定！](/blog/bali-tourism-tax-enforcement/)
 
 ### 未來會點樣？
 

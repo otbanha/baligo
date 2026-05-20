@@ -54,7 +54,7 @@ To better manage tourists, the Indonesian Immigration Department launched the **
 
 The aim of this policy is not just to streamline management but also to effectively curb illegal activities.
 
-Quick Reference: [New Indonesian Visa Extension Rules Take Immediate Effect: Important Changes Bali Tourists Need to Know, Visa Extension Process Has Changed](/blog/2025-06-03-683e4b26fd89780001ea2016/)
+Quick Reference: [New Indonesian Visa Extension Rules Take Immediate Effect: Important Changes Bali Tourists Need to Know, Visa Extension Process Has Changed](/blog/indonesia-visa-rules-2025/)
 
 ---
 

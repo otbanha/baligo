@@ -67,4 +67,4 @@ https://youtu.be/6dVUu_xXM0s?si=4FBvRasS_wQ1OInu
 
 ## Do you also want to stay in a bamboo villa?
 
-Check out these [10 breathtaking tree houses and bamboo villas we recommend](/blog/2024-04-04-660d4c83fd89780001ddf0ad/)
+Check out these [10 breathtaking tree houses and bamboo villas we recommend](/blog/ubud-treehouse-bamboo-villa-stays/)

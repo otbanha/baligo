@@ -99,11 +99,11 @@ If you're lucky, you can capture the spectacular Mount Agung, Bali's sacred moun
 
 ## Nearby Attractions
 
-Near Lahangan Sweet, you'll find the "[Top 3 Dreamy Spots in Eastern Bali](/blog/2024-01-29-65b79bfdfd89780001948d10/)"
+Near Lahangan Sweet, you'll find the "[Top 3 Dreamy Spots in Eastern Bali](/blog/bali-east-tour-guide/)"
 
 ![峇里島東部三大夢幻景點](https://images.gobaligo.id/vocus/vocus_7a661cfed6b6052d1f85e5dccd0fd05d.png)
 
-[Top 3 Dreamy Spots in Eastern Bali](/blog/2024-01-29-65b79bfdfd89780001948d10/)
+[Top 3 Dreamy Spots in Eastern Bali](/blog/bali-east-tour-guide/)
 
 However, if you're considering visiting the original Gates of Heaven at Lahangan Sweet, it's recommended to skip it, as waiting in line for 2-3 hours isn't worth it.
 

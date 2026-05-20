@@ -88,16 +88,16 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 **快速参考：**
 
-- [巴厘岛包车须知 - 费用、预订方式、优势分析](/blog/2024-01-12-65a0a163fd8978000115f37a/)
-- [【巴厘岛包车司机推荐】看网友真实点评找到适合你的好司机](/blog/2024-07-07-668aaea7fd89780001981840/)
-- [抵达巴厘岛：接机的交通选择及第一天的实用建议](/blog/2024-06-05-665d6a8efd897800013337a9/)
-- [巴厘岛旅游中文司机/中文导游/中文包车行程推荐](/blog/2024-01-29-65b75c45fd897800019130ff/)
-- [巴厘岛租摩托车攻略！应该租摩托车好，还是包车好？](/blog/2024-01-22-65adf238fd89780001a798ea/)
-- [什么时候包车？什么场合叫车？包车 vs. 叫车：如何选择最适合你的旅行方式？](/blog/2024-05-05-6636f348fd897800013df126/)
-- [在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/blog/2023-08-20-64e187dffd897800017304fe/)
-- [网约车Gojek如何使用？](/blog/2023-08-20-64e187dffd897800017304fe/)
-- [印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/blog/2024-10-13-670b5191fd8978000185cf37/)
-- [巴厘岛APP网约车司机的套路：如何避免Grab/Gojek陷阱？](/blog/2024-05-27-66546581fd8978000119d572/)
+- [巴厘岛包车须知 - 费用、预订方式、优势分析](/blog/bali-private-car-hire-guide/)
+- [【巴厘岛包车司机推荐】看网友真实点评找到适合你的好司机](/blog/bali-private-car-drivers-guide/)
+- [抵达巴厘岛：接机的交通选择及第一天的实用建议](/blog/bali-airport-transfer-guide/)
+- [巴厘岛旅游中文司机/中文导游/中文包车行程推荐](/blog/bali-chinese-tour-guide/)
+- [巴厘岛租摩托车攻略！应该租摩托车好，还是包车好？](/blog/bali-motorbike-rental-guide/)
+- [什么时候包车？什么场合叫车？包车 vs. 叫车：如何选择最适合你的旅行方式？](/blog/bali-transportation-guide-car-rental/)
+- [在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/blog/gojek-bali-guide/)
+- [网约车Gojek如何使用？](/blog/gojek-bali-guide/)
+- [印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/blog/indonesia-gojek-gopay-guide/)
+- [巴厘岛APP网约车司机的套路：如何避免Grab/Gojek陷阱？](/blog/bali-grab-gojek-scam-tips/)
 
 ---
 
@@ -151,8 +151,8 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 **快速参考：**
 
-- [巴厘岛十大美食](/blog/2023-08-15-64db6b7dfd897800013a97bc/)
-- [巴厘岛十大美食（第二版）](/blog/2023-05-02-64db6b81fd897800013a98e3/)
+- [巴厘岛十大美食](/blog/bali-travel-tips/)
+- [巴厘岛十大美食（第二版）](/blog/bali-top-10-foods/)
 
 ---
 
@@ -162,7 +162,7 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3ea8ffe66b2a6770faffd5da33e37e49.png)
 
-这里有介绍：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+这里有介绍：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
 
 ---
 
@@ -188,8 +188,8 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 **快速参考：**
 
-- [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/blog/2024-01-28-65b5c7e2fd89780001e96fac/)
-- [巴厘岛旅游预算指南：看懂价格中的「K」如何帮助您控制预算](/blog/2023-08-24-64e730ddfd89780001336a09/)
+- [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/blog/bali-currency-exchange-guide/)
+- [巴厘岛旅游预算指南：看懂价格中的「K」如何帮助您控制预算](/blog/bali-budget-tips-k-explained/)
 
 ---
 
@@ -205,7 +205,7 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 **快速参考：**
 
-[印尼巴厘岛旅游必备药品有哪些？防蚊液/防晒乳怎么买？](/blog/2024-03-22-65fcd4a5fd89780001513c9a/)
+[印尼巴厘岛旅游必备药品有哪些？防蚊液/防晒乳怎么买？](/blog/bali-travel-medicine-checklist/)
 
 ### 早餐供应：
 
@@ -225,12 +225,12 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 **快速参考：**
 
-- [【乌布住宿推荐】泳池别墅私密天堂: 乌布18间令人惊艳的巴厘岛villa](/blog/2024-04-24-6628f08cfd8978000190a575/)
-- [探索乌布9家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/blog/2024-04-04-660d4c83fd89780001ddf0ad/)
+- [【乌布住宿推荐】泳池别墅私密天堂: 乌布18间令人惊艳的巴厘岛villa](/blog/ubud-villa-pool-guide/)
+- [探索乌布9家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
 - [【巴厘岛住宿推荐】VILLA泳池别墅私密天堂:水明漾21间令人惊艳的巴厘岛秘密花园](/blog/2024-04-04-660e6e92fd89780001e6047e/)
-- [三房/四房以上的家庭别墅住宿推荐](/blog/2024-04-30-662e156bfd8978000130c73c/)
-- [坎古区16间私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/blog/2024-08-07-66b20b15fd89780001ceef6b/)
-- [【水明漾】不超过100美元的平价巴厘岛villa推荐](/blog/2024-09-21-66ee9770fd89780001306753/)
+- [三房/四房以上的家庭别墅住宿推荐](/blog/bali-group-villa-stay/)
+- [坎古区16间私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/blog/canggu-villas-guide/)
+- [【水明漾】不超过100美元的平价巴厘岛villa推荐](/blog/seminyak-budget-villas-guide/)
 
 ---
 
@@ -242,4 +242,4 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！

@@ -62,7 +62,7 @@ However, if you only have other currencies such as US Dollars or Euros, you can 
 
 To ensure convenience and peace of mind when tipping, it's advisable to prepare some Indonesian Rupiah cash during your stay in Bali. This ensures that you can immediately provide local currency when tipping is needed, without worrying about currency conversion or other issues.
 
-> [Bali Travel Costs? How much cash should you prepare for a trip to Bali?](/blog/2023-09-11-64fdaddefd89780001bdb780/)
+> [Bali Travel Costs? How much cash should you prepare for a trip to Bali?](/blog/bali-travel-cash-budget-guide/)
 
 {{block:戶外}}
 

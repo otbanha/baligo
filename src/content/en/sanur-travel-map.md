@@ -58,7 +58,7 @@ Sanur offers a variety of beach activities. You can enjoy a quiet beach stroll, 
 
 Sanur not only boasts beautiful beaches but is also the main port to Nusa Penida Island. If you plan to visit this breathtaking island, departing from Sanur Port is the most convenient option. Nusa Penida is renowned for its pristine natural scenery and incredible diving spots, offering an unforgettable adventure.
 
-Check out: [How to Get to Nusa Penida? What to Do?](/blog/2023-08-16-64db6b82fd897800013a9942/)
+Check out: [How to Get to Nusa Penida? What to Do?](/blog/nusa-penida-guide/)
 
 ### Massimo Italian Restaurant: A Feast for the Senses in Sanur
 

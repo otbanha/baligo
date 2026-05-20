@@ -84,7 +84,7 @@ Cretya Ubud is busiest from noon to evening
 
 ## What else is fun to do in Ubud?
 
-In Ubud, there are at least fifty more attractions and activities waiting for you to explore. Whether you enjoy cultural experiences, natural scenery, or adventure sports, Ubud has something for everyone. From the stunning Monkey Forest and ancient temples to breathtaking rice terraces and art-filled markets, Ubud offers a diverse range of options. Check out our guide "[Complete Ubud Bali Guide: 100 Ways to Deeply Explore Ubud’s Charm](/blog/2023-11-17-655054b1fd897800011d4d2c/)" for more detailed information to help you plan an unforgettable Ubud trip.
+In Ubud, there are at least fifty more attractions and activities waiting for you to explore. Whether you enjoy cultural experiences, natural scenery, or adventure sports, Ubud has something for everyone. From the stunning Monkey Forest and ancient temples to breathtaking rice terraces and art-filled markets, Ubud offers a diverse range of options. Check out our guide "[Complete Ubud Bali Guide: 100 Ways to Deeply Explore Ubud’s Charm](/blog/ubud-guide/)" for more detailed information to help you plan an unforgettable Ubud trip.
 
 ## Accommodation Options in Ubud
 
@@ -92,8 +92,8 @@ Ubud’s tourism is supported by a wide range of accommodations, from budget gue
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_02093589e6f9903498b1c3ef6c792e6f.jpg)
 
-- [28 Unique Ubud Accommodations: Experience the Magic of Bali’s Mountain Scenery!](/blog/2024-02-20-65d21157fd897800013be576/)
-- [Explore 9 Breathtaking Tree Houses/Bamboo Villas in Ubud](/blog/2024-04-04-660d4c83fd89780001ddf0ad/)
-- [Recommended Ubud Stays: Private Pool Villas—20 Stunning Bali Villas in Ubud](/blog/2024-04-24-6628f08cfd8978000190a575/)
-- [Top Ubud Yoga Retreats: 10 Dreamy Options Combining Yoga Classes and Relaxation](/blog/2024-11-26-67451f5afd89780001f002f2/)
-- [The World’s Best Hotel is in Bali: Hidden Luxury in the Jungle—Capella Ubud](/blog/2025-03-20-671263f0fd89780001ee6da7/)
+- [28 Unique Ubud Accommodations: Experience the Magic of Bali’s Mountain Scenery!](/blog/ubud-villas-pool-guide/)
+- [Explore 9 Breathtaking Tree Houses/Bamboo Villas in Ubud](/blog/ubud-treehouse-bamboo-villa-stays/)
+- [Recommended Ubud Stays: Private Pool Villas—20 Stunning Bali Villas in Ubud](/blog/ubud-villa-pool-guide/)
+- [Top Ubud Yoga Retreats: 10 Dreamy Options Combining Yoga Classes and Relaxation](/blog/ubud-yoga-retreats-bali/)
+- [The World’s Best Hotel is in Bali: Hidden Luxury in the Jungle—Capella Ubud](/blog/capella-ubud-luxury-resort/)

@@ -59,7 +59,7 @@ So, we quickly changed our strategy and decided to rent scooters as our main mod
 
 If we encountered destinations that were farther away, we didn't worry! We used ride-hailing services like GRAB or GO-JEK, which are well-established in Bali and incredibly convenient, available at any time.
 
-> Further Reading: [Comprehensive Guide to Registering, Using, and Recharging Gojek and GoPay in Indonesia/Bali](/blog/2024-10-13-670b5191fd8978000185cf37/)
+> Further Reading: [Comprehensive Guide to Registering, Using, and Recharging Gojek and GoPay in Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
 
 ### Trip Segments:
 
@@ -95,7 +95,7 @@ Today's itinerary was packed with exciting activities. We set out early to explo
 1. **Tanah Lot Temple**
 2. - This iconic seaside temple combines stunning ocean views with majestic architecture, leaving us in awe. The kids had a blast here, especially enjoying the direct interaction with nature.
 
-> Further Reading: [Must-Visit Bali Attraction: Detailed Guide to Tanah Lot Temple, Tides, and Nearby Spots](/blog/2024-10-28-671f86f1fd89780001de9fae/)
+> Further Reading: [Must-Visit Bali Attraction: Detailed Guide to Tanah Lot Temple, Tides, and Nearby Spots](/blog/bali-tanah-lot-guide/)
 
 1. **Turtle Conservation and Education Center**
 2. - This conservation center is perfect for families, especially as kids get to see baby turtles up close! Not only does it offer interactive experiences with turtles, but it also provides educational insights into marine ecology. Highly recommended for families with children.
@@ -108,7 +108,7 @@ Provided by Libra Li
 
 1. **Uluwatu Temple (Pura Uluwatu)**
 2. - Perched on a dramatic cliff, Uluwatu Temple is another must-visit spot in Bali. The breathtaking views of the cliffs meeting the ocean are unforgettable. We also spotted monkeys here, which thrilled the kids, though we had to be cautious about them snatching items.  
-     [Bali Uluwatu Temple/Lover's Cliff Travel Guide: Highlights and Practical Tips](/blog/2025-01-18-678b1d81fd89780001f7fe4d/)
+     [Bali Uluwatu Temple/Lover's Cliff Travel Guide: Highlights and Practical Tips](/blog/uluwatu-temple-travel-guide/)
 3. **Relaxing Massage**
 4. - After a day of sightseeing, how could we not indulge in a massage in Bali? We found a local massage parlor where the whole family enjoyed a soothing session, leaving us completely relaxed and ready for tomorrow's adventures.
 
@@ -150,7 +150,7 @@ Overall, **Mövenpick Resort Jimbaran** not only boasts a beautiful environment 
 
 In the afternoon, we headed to the nearby **Jimbaran Beach**. Unlike Kuta, this beach is more serene and is famous for its seaside seafood restaurants. In the evening, we enjoyed fresh seafood barbecue at a beachfront restaurant, savoring the sea breeze and the golden sunset—truly romantic. The kids ran around on the sand, and the laid-back atmosphere made us feel incredibly happy.🌅
 
-▶▶[Jimbaran 30 Must-Try Food and Activities Guide](/blog/2023-11-09-654b8438fd897800016bf4cc/)
+▶▶[Jimbaran 30 Must-Try Food and Activities Guide](/blog/jimbaran-guide/)
 
 ---
 
@@ -192,7 +192,7 @@ For lunch, we chose **Cretya**, which offers beautiful rice terrace views and a 
 
 ![預算中享受奢華：Cretya Ubud 泳池俱樂部與 Alas Harum 消費指南](https://images.gobaligo.id/vocus/vocus_fac2fc209557ede84fb4b81503ec6df3.jpg)
 
-[Luxury on a Budget: Cretya Ubud Pool Club & Alas Harum Spending Guide](/blog/2024-08-02-66ac535efd89780001d5363a/)
+[Luxury on a Budget: Cretya Ubud Pool Club & Alas Harum Spending Guide](/blog/cretya-ubud-alas-harum-budget-guide/)
 
 ---
 
@@ -458,4 +458,4 @@ Did you find Libra Li's itinerary exciting? Start planning your own Bali free-an
 
 Click here to watch more amazing Bali travelogues
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue shine!

@@ -89,4 +89,4 @@ Aurora Media Park is open daily starting at 7:00 PM, inviting visitors to explor
 
 Nuanu Creative City is Bali's latest emerging creative hub, promoting zero carbon emissions and becoming the island's newest sustainable tourism landmark. It's already attracting creative minds from around the world, making it the next must-visit hotspot!
 
-For a guide to Nuanu Creative City's attractions, click [here](/blog/2025-04-18-68026619fd89780001f56243/)
+For a guide to Nuanu Creative City's attractions, click [here](/blog/nuanu-creative-city-luna-guide/)

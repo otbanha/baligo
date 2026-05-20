@@ -41,7 +41,7 @@ In the morning, we visited Oneeighty Dayclub, which we highly recommend. We arri
 
 ### Jay's Introduction:
 
-> [Exploring Oneeighty Day Club: The Ultimate Cliffside Pool Experience in Bali](/blog/2023-12-07-6571846ffd89780001fe97ee/) Details on pricing and reservation methods
+> [Exploring Oneeighty Day Club: The Ultimate Cliffside Pool Experience in Bali](/blog/oneeighty-dayclub-uluwatu-pool/) Details on pricing and reservation methods
 
 Next, we headed to Blue Point Beach to watch the surfers perform, which was truly eye-opening.
 
@@ -49,7 +49,7 @@ Next, we headed to Blue Point Beach to watch the surfers perform, which was trul
 
 Afterwards, Komang recommended we visit Uluwatu Temple to watch a traditional dance performance. He even had his friend reserve tickets for us in advance, allowing us to spend more time at Blue Point Beach without having to rush to buy tickets.
 
-> [Kecak Fire Dance: A Must-See Spectacular Performance in Bali (Includes Ticket Booking Info)](/blog/2024-01-29-65b6e533fd89780001f51eaf/)
+> [Kecak Fire Dance: A Must-See Spectacular Performance in Bali (Includes Ticket Booking Info)](/blog/kecak-fire-dance-bali/)
 
 ![烏魯瓦圖美景。連育諄提供](https://images.gobaligo.id/vocus/vocus_a2ffbc76870b45338de0935d3e72d256.jpg)
 
@@ -73,7 +73,7 @@ She also recommended we shop for souvenirs at Bintang Supermarket Ubud, where we
 
 ### Video by Xiao Jie at Bintang Supermarket Ubud:
 
-Further Reading: [【Netizen Recommendations】Six Categories, Over 20 Bali Souvenir Recommendations: Perfect Choices to Preserve Precious Memories](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+Further Reading: [【Netizen Recommendations】Six Categories, Over 20 Bali Souvenir Recommendations: Perfect Choices to Preserve Precious Memories](/blog/bali-souvenirs-gift-guide/)
 
 ## Day 5:
 
@@ -89,7 +89,7 @@ Montana Del Café was a bit disappointing due to the bad weather. Provided by Yu
 
 Finally, we visited Tegallalang Rice Terrace. The entrance ticket doesn't include the swing ride, so if you want to try it, you'll need to purchase a ticket at the entrance. Inside, you can also rent special outfits for photos, which turn out beautifully. Although this place leans towards being an Instagram hotspot, strolling through the rice fields and listening to the screams of people on the swings is quite enjoyable.
 
-> You can refer to: [Complete Ubud Bali Guide: 100 Ways to Deeply Explore Ubud｜Discover the Charm of Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+> You can refer to: [Complete Ubud Bali Guide: 100 Ways to Deeply Explore Ubud｜Discover the Charm of Ubud](/blog/ubud-guide/)
 
 After the tour, we asked Komang to take us to our favorite restaurant of the trip - Kebun Bistro. Although the famous lamb chops were sold out, the steak recommended by the staff was incredibly delicious! We ordered it medium rare, and it was perfectly cooked with no blood, very tender, and even the side dishes were excellent. Due to the high number of customers, it's advisable to make a reservation during peak dining hours. (Added to the [Ubud Guide Map](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
 
@@ -101,7 +101,7 @@ When we arrived at Tanah Lot, we realized we had accidentally taken the hotel ke
 
 After visiting Tanah Lot, we went shopping and walked along the beach in the Canggu area. We tried Blacklist Coffee Roasters, recommended by Fei Li, and it turned out to be our favorite coffee of the entire Bali trip.
 
-> Please refer to: [Perfect Canggu Bali Adventure Map: 80 Must-Visit Spots in Canggu](/blog/2023-02-11-64db6b7efd897800013a9815/)
+> Please refer to: [Perfect Canggu Bali Adventure Map: 80 Must-Visit Spots in Canggu](/blog/canggu-guide/)
 
 At the end of the trip, we invited Komang to join us for dinner to thank him for taking care of us over the past few days.
 
@@ -130,18 +130,18 @@ Do you think Lian Yuzhun's itinerary is exciting? Hurry and plan your own Bali f
 
 Click here to watch more amazing Bali travelogues
 
-Do you want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue stand out!
+Do you want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
-- [2024 Seminyak 60 Attractions Guide](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [2024 Seminyak 60 Attractions Guide](/blog/seminyak-guide/)
 
-- [100 Must-Visit Spots in Seminyak, Bali](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [100 Must-Visit Spots in Seminyak, Bali](/blog/seminyak-guide/)
 - [50 Must-See Attractions in Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [80 Must-Visit Places in Canggu](/blog/2023-02-11-64db6b7efd897800013a9815/)
-- [100 Ways to Explore Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [Jimbaran Guide](/blog/2023-11-09-654b8438fd897800016bf4cc/)
-- [Uluwatu Guide](/blog/2024-03-07-65dfd410fd897800019f4b40/)
-- [Bukit Peninsula Adventure Guide](/blog/2024-10-31-67061b07fd897800012f87b5/)
-- [45 Things to Do in Sanur](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [40 Accommodations, Dining, and Activities in Nusa Dua](/blog/2024-01-25-65afb7bbfd897800017023b4/)
-- [Complete Guide to Nusa Penida](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [Complete Guide to Lembongan and Ceningan Islands](/blog/2024-10-23-66adfb9afd89780001f62df1/)
+- [80 Must-Visit Places in Canggu](/blog/canggu-guide/)
+- [100 Ways to Explore Ubud](/blog/ubud-guide/)
+- [Jimbaran Guide](/blog/jimbaran-guide/)
+- [Uluwatu Guide](/blog/uluwatu-guide/)
+- [Bukit Peninsula Adventure Guide](/blog/bukit-peninsula-guide/)
+- [45 Things to Do in Sanur](/blog/sanur-guide/)
+- [40 Accommodations, Dining, and Activities in Nusa Dua](/blog/nusa-dua-guide/)
+- [Complete Guide to Nusa Penida](/blog/nusa-penida-guide/)
+- [Complete Guide to Lembongan and Ceningan Islands](/blog/nusa-lembongan-ceningan-guide/)

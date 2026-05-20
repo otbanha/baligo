@@ -74,7 +74,7 @@ Ayana Villas are the most luxurious accommodation option at Ayana Bali, located 
 
 The villas at Ayana Villas are decorated in traditional Balinese style, spacious and comfortable. They are equipped with modern amenities including LCD TVs, free Wi-Fi, minibars, kitchens, and private pools. Additionally, the villas offer personal butler service, providing comprehensive assistance to guests.
 
-Ayana Villas are Bali's top luxury resort, ideal for leisure vacations, honeymoons, and family trips. (Ayana Bali offers four accommodation levels; for a detailed introduction to Ayana Bali, [please refer to our feature](/blog/2023-10-26-653914f6fd89780001fef733/))
+Ayana Villas are Bali's top luxury resort, ideal for leisure vacations, honeymoons, and family trips. (Ayana Bali offers four accommodation levels; for a detailed introduction to Ayana Bali, [please refer to our feature](/blog/ayana-resort-bali-guide/))
 
 Starting from USD$533, [Check Agoda for deals](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=478524)
 
@@ -193,6 +193,6 @@ Having introduced the stunning ocean-view luxury accommodations available in Jim
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b3a5c8f9a1eaea6500f8c5ea37d5abd7.png)
 
-Looking for recommendations on what to do, see, and explore in Jimbaran? Don't forget to check out our comprehensive '[Jimbaran Complete Guide](/blog/2023-11-09-654b8438fd897800016bf4cc/)'!
+Looking for recommendations on what to do, see, and explore in Jimbaran? Don't forget to check out our comprehensive '[Jimbaran Complete Guide](/blog/jimbaran-guide/)'!
 
 {{block:住宿}}

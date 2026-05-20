@@ -37,7 +37,7 @@ The eVoA must be applied for in advance on the [official Indonesian website](htt
 
 It’s recommended to apply within one week before your departure to ensure processing time and avoid applying too early and missing the usage period.
 
-Quick Reference: [2025 Updated FAQ on Indonesian/Bali Entry Visa & Electronic Visa eVoA](/blog/2023-01-13-64db6b7dfd897800013a978a/)
+Quick Reference: [2025 Updated FAQ on Indonesian/Bali Entry Visa & Electronic Visa eVoA](/blog/indonesia-bali-visa-evoa-faq/)
 
 ## Electronic Customs Declaration (eCD): Fill Out Within Three Days Before Departure
 
@@ -51,7 +51,7 @@ The time restriction for filling out the form is very clear: it must be complete
 
 It is recommended to fill out the form 2 to 3 days before your flight to avoid any issues that might delay your entry process.
 
-**Quick Reference:** [【2025 Latest】How to Fill Out Bali's Electronic Customs Declaration Form? Complete Guide to eCD for Smooth Entry](/blog/2025-06-23-68594073fd897800012fa799/)
+**Quick Reference:** [【2025 Latest】How to Fill Out Bali's Electronic Customs Declaration Form? Complete Guide to eCD for Smooth Entry](/blog/bali-e-customs-declaration/)
 
 ---
 
@@ -75,7 +75,7 @@ The fee is **150,000 Indonesian Rupiah (approximately USD$10)**, and upon paymen
 
 It is recommended to complete this process one week before departure to avoid last-minute hassles at the airport that could disrupt your travel plans.
 
-**Quick Reference:** [Bali Tourist Levy/Tourism Tax Guide: New 2024 Regulations, Payment Methods, and Island-Hopping Tips](/blog/2024-01-03-65955989fd89780001a95927/)
+**Quick Reference:** [Bali Tourist Levy/Tourism Tax Guide: New 2024 Regulations, Payment Methods, and Island-Hopping Tips](/blog/2026-bali-tourism-tax-guide/)
 
 ---
 

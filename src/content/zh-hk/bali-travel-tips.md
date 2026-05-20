@@ -50,7 +50,7 @@ Terima kasih! [多謝]嘅意思
 - 炸香蕉（pisang goreng）▶[介紹](https://youtu.be/EKJ4-jvhTiU?t=276)
 - Martabak甜蛋餅（martabak manis）▶[介紹](https://youtu.be/EKJ4-jvhTiU?t=185)
 - 牛油果汁（jus alpukat）▶[介紹](https://youtu.be/FphhiUzB7gM?t=311)
-- 呢度仲有[峇里島十大美食第二版](/blog/2023-05-02-64db6b81fd897800013a98e3/)㗎！
+- 呢度仲有[峇里島十大美食第二版](/blog/bali-top-10-foods/)㗎！
 
 ### 推薦嘅樽裝水品牌
 
@@ -63,14 +63,14 @@ Terima kasih! [多謝]嘅意思
 ## 注意事項
 
 - [峇里島交通嘅三個秘技](https://www.youtube.com/watch?v=KQwrSiqq_Dw&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=4)
-- 我信你個鬼！喺峇里島[唔好信Google地圖！](/blog/2024-03-19-65ebd5ecfd89780001cf6c8b/)
+- 我信你個鬼！喺峇里島[唔好信Google地圖！](/blog/bali-google-maps-warning/)
 - 『藍鳥』過時啦！而家印尼/峇里島都用手機叫車㗎！（附教學）
-- [旅遊水土不服、上吐下瀉點算？](/blog/2024-01-27-65b32e1ffd8978000170519b/)
-- 印尼峇里島旅遊必學嘅[一句接地氣短語](/blog/2024-03-22-65fccd88fd8978000150edda/)
-- 一定要隨身攜帶紙巾！點解？[請睇呢度](/blog/2024-03-22-65fce2d0fd8978000151ec93/)
-- 印尼/峇里島嘅旅遊禁忌！[千祈唔好掂佢](/blog/2024-03-19-65f8dca4fd89780001b57754/)
-- [峇里島住邊一區最好？邊一區最唔好？](/blog/2024-03-19-65f8e4d2fd89780001b5e8f9/)
-- 峇里島最可怕嘅動物，唔係獅子老虎，[竟然係「佢」](/blog/2024-03-19-65f97cf5fd897800019eeca0/)
+- [旅遊水土不服、上吐下瀉點算？](/blog/bali-travel-health-tips/)
+- 印尼峇里島旅遊必學嘅[一句接地氣短語](/blog/bali-travel-indonesian-phrase/)
+- 一定要隨身攜帶紙巾！點解？[請睇呢度](/blog/bali-toilet-paper-travel-tip/)
+- 印尼/峇里島嘅旅遊禁忌！[千祈唔好掂佢](/blog/bali-drug-laws-warning/)
+- [峇里島住邊一區最好？邊一區最唔好？](/blog/kuta-bali-accommodation-pros-cons/)
+- 峇里島最可怕嘅動物，唔係獅子老虎，[竟然係「佢」](/blog/bali-monkey-safety-tips/)
 - 峇里島旅遊要俾貼士嗎？貼士點俾？[峇里島各種場合嘅貼士要俾幾多？](https://youtu.be/B_oT905RkQw)
 - [印尼/峇里島三大必備AP](https://www.youtube.com/watch?v=4p8fliUxn0A&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=8)
 - 點樣選擇住宿區域？[峇里島住宿指南懶人包](https://s.id/baliguide1)

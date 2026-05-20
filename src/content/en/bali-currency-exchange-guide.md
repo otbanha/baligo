@@ -32,7 +32,7 @@ When planning a trip to Bali, currency exchange is an important preparation step
 
 **Exchange for USD before departure**: The most important thing is to exchange your local currency for USD before departure, then bring USD to Indonesia/Bali to exchange for IDR. This method offers the best exchange rate. If you have AUD, you can directly bring AUD to Bali for exchange, as the rate is comparable to USD due to Australia's strong tourism presence in Bali.
 
-Why is exchanging TWD to USD, then USD to IDR better? See the explanation [here](/blog/2025-08-13-689c380bfd8978000178bb5e/)
+Why is exchanging TWD to USD, then USD to IDR better? See the explanation [here](/blog/bali-currency-exchange-tips/)
 
 Most tourists handle currency exchange upon arrival in Bali. You can ask a trusted private driver to take you to reputable money changers they know - this is the best way to avoid scams!
 
@@ -103,7 +103,7 @@ You can quickly find all certified, legal, and safe money changers on this map: 
 
 ***
 
-Further reading: [Bali USD Exchange Rate: Big Bills or Small Bills? Complete Exchange Guide!](/blog/2024-05-01-663261fdfd89780001f490fc/)
+Further reading: [Bali USD Exchange Rate: Big Bills or Small Bills? Complete Exchange Guide!](/blog/bali-usd-exchange-rate/)
 
 Money changers are everywhere in Bali, with a particularly high density in tourist areas such as Kuta, Seminyak, Ubud, Sanur, etc., where you can find one on almost every street.
 
@@ -127,7 +127,7 @@ As part of Indonesia, Bali uses the Indonesian Rupiah (IDR). Only Indonesian Rup
 
 ### **2. Should I bring USD to Bali?**
 
-Yes, it's advisable to exchange your local currency for USD before departure, as USD typically offers better exchange rates in Bali. If you hold Australian dollars, you can also bring AUD directly to Bali for exchange, as AUD also enjoys favorable rates there. Reference: [Indonesia/Bali Currency Exchange: Direct Exchange vs. Exchanging USD First, Which is Better?](/blog/2025-08-13-689c380bfd8978000178bb5e/)
+Yes, it's advisable to exchange your local currency for USD before departure, as USD typically offers better exchange rates in Bali. If you hold Australian dollars, you can also bring AUD directly to Bali for exchange, as AUD also enjoys favorable rates there. Reference: [Indonesia/Bali Currency Exchange: Direct Exchange vs. Exchanging USD First, Which is Better?](/blog/bali-currency-exchange-tips/)
 
 ### **3. Where is the best place to exchange currency?**
 
@@ -217,7 +217,7 @@ Bali is a highly developed tourist destination, and staff at legitimate money ch
 
 ### 16. Is the exchange rate the same for large and small bills in Bali?
 
-No! But you can basically ignore it. Check out the explanation here: [Bali USD Exchange Rate: Large Bills vs Small Bills? The Ultimate Guide!](/blog/2024-05-01-663261fdfd89780001f490fc/)
+No! But you can basically ignore it. Check out the explanation here: [Bali USD Exchange Rate: Large Bills vs Small Bills? The Ultimate Guide!](/blog/bali-usd-exchange-rate/)
 
 ### 17. **Credit Card Payments**
 
@@ -227,10 +227,10 @@ It’s recommended to use a credit card that offers overseas spending rewards an
 
 **Quick Reference:**
 
-- [Bali USD Exchange Rate: Large Bills vs Small Bills? The Ultimate Guide!](/blog/2024-05-01-663261fdfd89780001f490fc/)
-- [Indonesia/Bali Currency Exchange: Direct Exchange vs USD First, Which is Better?](/blog/2025-08-13-689c380bfd8978000178bb5e/)
-- [Bali Money Exchange Horror Stories: Group Members’ Experiences Revealed, Don’t Be Fooled by Small Gains!](/blog/2026-02-16-69933020fd89780001dd0275/)
-- [【Credit Card Fraud/Fees/Extra Charges】Is It Safe to Use Credit Cards in Bali?](/blog/2025-05-09-681e03f8fd89780001228bf8/)
+- [Bali USD Exchange Rate: Large Bills vs Small Bills? The Ultimate Guide!](/blog/bali-usd-exchange-rate/)
+- [Indonesia/Bali Currency Exchange: Direct Exchange vs USD First, Which is Better?](/blog/bali-currency-exchange-tips/)
+- [Bali Money Exchange Horror Stories: Group Members’ Experiences Revealed, Don’t Be Fooled by Small Gains!](/blog/bali-money-exchange-scams-2/)
+- [【Credit Card Fraud/Fees/Extra Charges】Is It Safe to Use Credit Cards in Bali?](/blog/bali-credit-card-safety-tips/)
 
 ---
 

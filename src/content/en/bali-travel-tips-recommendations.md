@@ -57,7 +57,7 @@ Hilton Nusa Dua, Five-Star Price, Subpar Facilities (Provided by June Lin)
 
 Nine years ago, I stayed at this Hilton hotel located in the Nusa Dua resort area. This revisit, however, left me somewhat disappointed. Firstly, the pool water quality made me uncomfortable—it was so murky that even my son refused to get in. Secondly, the beach seemed to have less sand than before. I recall burying someone in the sand here years ago, but now I couldn't find that same feeling. Although the breakfast selection was abundant, this experience significantly diminished my impression of the hotel, and I wouldn't consider staying here again. I give this stay a 60 out of 100.
 
-> Editor's Note: For accommodations in the Nusa Dua area, check out: [Bali Nusa Dua: 16 Top-Rated Five-Star Resorts Recommended](/blog/2024-07-27-66a4562afd89780001d70329/)
+> Editor's Note: For accommodations in the Nusa Dua area, check out: [Bali Nusa Dua: 16 Top-Rated Five-Star Resorts Recommended](/blog/nusa-dua-resorts-guide/)
 
 ## Dining Experience
 
@@ -79,13 +79,13 @@ Oneeighty Day Club (provided by June Lin)
 
 This time, we specifically booked the VIP area at Oneeighty Day Club and got front-row seats, which felt great. The reservation fee plus meal cost was about USD$50 per person. Although the price is steep, the food was surprisingly delicious, and the service was very attentive. The infinity pool here is very deep at 1.7 meters, so we could only take a few beautiful photos by the poolside before focusing on enjoying the meal. Overall, I'd give this dining experience a 95 out of 100.
 
-> Reservation method, payment method, video introduction: [Exploring Oneeighty Day Club: The Ultimate Beauty of Bali's Cliffside Pool](/blog/2023-12-07-6571846ffd89780001fe97ee/)
+> Reservation method, payment method, video introduction: [Exploring Oneeighty Day Club: The Ultimate Beauty of Bali's Cliffside Pool](/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ### Cretya Ubud
 
 Cretya Ubud is a famous swing restaurant in Ubud, and the food was much better than I expected, with flavors and textures that exceeded my imagination. As for swing photography, this place has almost become a global hotspot for women taking Instagram-worthy photos. Early in the morning, the area around the swings is crowded with people wanting to take pictures. I suggest not challenging the farthest swing; the smaller swings nearby actually make for better photos. Our group ended up taking a bunch of hilarious 'terrified' photos, which was quite amusing. I'd give the food 90 out of 100 and the Instagram photo experience 70 out of 100.
 
-> Further reading: [Enjoying Luxury on a Budget: Cretya Ubud Pool Club and Alas Harum Spending Guide](/blog/2024-08-02-66ac535efd89780001d5363a/)
+> Further reading: [Enjoying Luxury on a Budget: Cretya Ubud Pool Club and Alas Harum Spending Guide](/blog/cretya-ubud-alas-harum-budget-guide/)
 
 ### Ku De Ta
 
@@ -95,7 +95,7 @@ Ku De Ta (provided by June Lin)
 
 Ku De Ta is one of Seminyak's beachfront restaurants where you can enjoy delicious food while watching a beautiful sunset. The service is excellent, and the live music perfectly complements the relaxing atmosphere. After your meal, you can take a stroll on the beach. The dinner prices are very reasonable, around USD$16-19 per person, which is a great deal compared to what you might pay in Taiwan for similar quality. I give this restaurant a 90 out of 100.
 
-> [Ku De Ta Guide](/blog/2025-02-24-67bc10d5fd897800015888e3/)
+> [Ku De Ta Guide](/blog/ku-de-ta-beach-club/)
 
 > Ku De Ta [Daybed Reservation](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004596&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F135291-kudeta-beach-club-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D67569d3aa6)
 
@@ -135,4 +135,4 @@ Did you find Jun Lin's itinerary exciting? Start planning your own Bali adventur
 
 Click here to watch more amazing Bali travelogues
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue shine!

@@ -68,7 +68,7 @@ _srcHash: 5d64e0018a4e9bb2fb7583c8f6c5604e
 
 ## eSIM推荐
 
-如果你的手机可以使用eSIM，信号最稳定、最推荐的eSIM方案是[这个](/blog/2025-06-06-6842f236fd897800017d78d5/)！
+如果你的手机可以使用eSIM，信号最稳定、最推荐的eSIM方案是[这个](/blog/bali-esim-travel-guide/)！
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774795350035-d191a0b14c5f198b32ba296c4e0035b1.jpg)
 

@@ -34,10 +34,10 @@ Getting around Nusa Penida can be a bit complicated, so it's important to prepar
 
 We have five episodes introducing Nusa Penida, so let's dive deeper into this island paradise! Here are the links to the other four episodes:
 
-1. [Complete Guide to Bali - Nusa Penida: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, and Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)
-2. [Nusa Penida Cuisine and Azure Seas: Top 9 Must-Try Experiences](/blog/2023-10-22-65348754fd89780001b2a259/)
-3. [Snorkeling Spots in Nusa Penida: How to Join a Snorkeling Tour](/blog/2023-11-02-654249defd89780001041c87/)
-4. [Accommodation Recommendations in Nusa Penida: 13 Highly Rated Options from Luxury to Budget](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+1. [Complete Guide to Bali - Nusa Penida: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, and Attractions](/blog/nusa-penida-guide/)
+2. [Nusa Penida Cuisine and Azure Seas: Top 9 Must-Try Experiences](/blog/nusa-penida-best-restaurants/)
+3. [Snorkeling Spots in Nusa Penida: How to Join a Snorkeling Tour](/blog/nusa-penida-snorkeling-guide/)
+4. [Accommodation Recommendations in Nusa Penida: 13 Highly Rated Options from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
 
 ## Are Ride-Hailing Apps Like Gojek/Grab Available?
 
@@ -84,7 +84,7 @@ The cost of **private car hire** in Nusa Penida ranges from IDR 700,000 to IDR 8
 
 Speaking of tips, giving a tip is a way to show your appreciation to the driver and is highly appreciated. If you are satisfied with the experience, a tip of 10% to 20% is appropriate. Of course, if you can afford it, the more the better!
 
-So how do you find a private car driver in Nusa Penida? Please refer to: [How to Choose a Private Car Driver in Nusa Penida?｜Practical Recommendations for Travelers](/blog/2025-06-17-685101c0fd89780001e221f4/)
+So how do you find a private car driver in Nusa Penida? Please refer to: [How to Choose a Private Car Driver in Nusa Penida?｜Practical Recommendations for Travelers](/blog/nusa-penida-private-driver-guide/)
 
 > Please refer to the [Private Car Charter Tour in Nusa Penida](https://affiliate.klook.com/redirect?aid=116349&aff_adid=799894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23014-nusa-penida-private-car-charter-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D54b6524de7) provided by Klook
 
@@ -92,10 +92,10 @@ So how do you find a private car driver in Nusa Penida? Please refer to: [How to
 
 ## Nusa Penida Travel Guide
 
-- Nusa Penida [Attraction Guide](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- Nusa Penida [Dining with Scenic Views Guide](/blog/2023-10-22-65348754fd89780001b2a259/)
-- Nusa Penida [Snorkeling Spots Guide](/blog/2023-11-02-654249defd89780001041c87/)
-- Nusa Penida [Accommodation Guide](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+- Nusa Penida [Attraction Guide](/blog/nusa-penida-guide/)
+- Nusa Penida [Dining with Scenic Views Guide](/blog/nusa-penida-best-restaurants/)
+- Nusa Penida [Snorkeling Spots Guide](/blog/nusa-penida-snorkeling-guide/)
+- Nusa Penida [Accommodation Guide](/blog/nusa-penida-hotels-guide/)
 
 {{block:攻略}}
 

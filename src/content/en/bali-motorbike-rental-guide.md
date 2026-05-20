@@ -47,7 +47,7 @@ Below are explanations for each comparison point:
 
 > **Renting a Motorcycle:** The most affordable option, costing around $3 to $5 USD per day. A budget-friendly choice for travelers.
 
-> **Private Car Hire:** More expensive, averaging around $40 to $50 USD per day. While pricier, it offers a more comfortable and safer mode of transportation. The price includes a driver, a five-seater car, fuel, the driver's meals, and parking fees. Toll fees and entrance tickets are not included. (Check out the [Complete Guide to Private Car Hire in Bali](/blog/2024-01-12-65a0a163fd8978000115f37a/))
+> **Private Car Hire:** More expensive, averaging around $40 to $50 USD per day. While pricier, it offers a more comfortable and safer mode of transportation. The price includes a driver, a five-seater car, fuel, the driver's meals, and parking fees. Toll fees and entrance tickets are not included. (Check out the [Complete Guide to Private Car Hire in Bali](/blog/bali-private-car-hire-guide/))
 
 ### Required Documents:
 
@@ -137,8 +137,8 @@ For tourists in Bali, besides hiring private cars and renting motorcycles, short
 
 Please refer to the following links:
 
-- Looking for a private driver? Common questions? [Complete Guide to Private Car Hire in Bali](/blog/2024-01-12-65a0a163fd8978000115f37a/)
-- Short-distance travel? [Complete Guide to Using Gojek in Indonesia/Bali](/blog/2023-08-20-64e187dffd897800017304fe/)
+- Looking for a private driver? Common questions? [Complete Guide to Private Car Hire in Bali](/blog/bali-private-car-hire-guide/)
+- Short-distance travel? [Complete Guide to Using Gojek in Indonesia/Bali](/blog/gojek-bali-guide/)
 
 ## Language Barrier?
 

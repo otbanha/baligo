@@ -43,7 +43,7 @@ lang: en
 _srcHash: a4080c4dfdf97c3e96c9b6e4ee6e7ba2
 ---
 
-[](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+[](/blog/nusa-dua-guide/)
 
 Located on the southeastern coast of Bali, Nusa Dua is renowned for its luxurious resorts and refined facilities. With its pristine white sand beaches and crystal-clear turquoise waters, it offers the perfect vacation setting.
 
@@ -53,9 +53,9 @@ Want to know how to make the most of your time in Nusa Dua? Check out our guide:
 
 ![努沙杜瓦攻略](https://images.gobaligo.id/vocus/vocus_8eb766b4f7c36e1bd9bb27687762de0f.png)
 
-[Nusa Dua Guide](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+[Nusa Dua Guide](/blog/nusa-dua-guide/)
 
-[Nusa Dua & Tanjung Benoa: The Ultimate Luxury Destination in Bali - 40 Food, Activities, and Map Guide](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+[Nusa Dua & Tanjung Benoa: The Ultimate Luxury Destination in Bali - 40 Food, Activities, and Map Guide](/blog/nusa-dua-guide/)
 
 Among the many resorts in Nusa Dua, 16 stand out as the best. Here’s our detailed introduction:
 
@@ -615,6 +615,6 @@ Get to know Nusa Dua in two minutes
 
 https://youtu.be/zxDZJ93EqA4?si=6NzwPHfSdfJgCRGY
 
-Nusa Dua and Tanjung Benoa: The premier destinations for luxury vacations in Bali. Explore 40 accommodations, dining options, and activities with our comprehensive guide map. Click [here](/blog/2024-01-25-65afb7bbfd897800017023b4/) for more details.
+Nusa Dua and Tanjung Benoa: The premier destinations for luxury vacations in Bali. Explore 40 accommodations, dining options, and activities with our comprehensive guide map. Click [here](/blog/nusa-dua-guide/) for more details.
 
 {{block:住宿}}

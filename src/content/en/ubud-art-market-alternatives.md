@@ -51,9 +51,9 @@ Bali boasts diverse shopping venues, and even with the closure of Ubud Art Marke
 
 ![50種深入認識烏布的方式｜探索烏布的魅力](https://images.gobaligo.id/vocus/vocus_80395bdba038994228a52ece28779e07.jpg)
 
-[50 Ways to Deeply Explore Ubud | Discover the Charm of Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+[50 Ways to Deeply Explore Ubud | Discover the Charm of Ubud](/blog/ubud-guide/)
 
-This is How You Should Experience Ubud: [50 Ways to Deeply Explore Ubud | Discover the Charm of Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+This is How You Should Experience Ubud: [50 Ways to Deeply Explore Ubud | Discover the Charm of Ubud](/blog/ubud-guide/)
 
 ## Sign Up to Join Our Blog
 

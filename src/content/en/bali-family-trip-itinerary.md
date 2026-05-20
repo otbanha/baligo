@@ -34,11 +34,11 @@ First, let's talk about our preparation/customs process:
 
 ✔️ **E-Visa:** Upon arrival, we noticed that the queue for visa-on-arrival took about 20 minutes. Fortunately, thanks to the updated e-visa website shared in the community, we saved a lot of time! Using the e-visa was indeed much more convenient, allowing us to start our journey quicker.
 
-Further reading: [Everything You Need to Know About Landing, Customs, and Exiting the Airport](/blog/2025-08-14-689dcce7fd8978000125fc52/) (2025 Latest Version)
+Further reading: [Everything You Need to Know About Landing, Customs, and Exiting the Airport](/blog/bali-all-indonesia-arrival-guide/) (2025 Latest Version)
 
 ✔️ **Currency Exchange:** Initially, we exchanged USD$200, as most places accepted card payments. However, towards the end, we realized we didn't have enough cash to pay for our driver's car rental service, so we exchanged an additional USD$150 at the hotel. This experience taught us that while card payments are convenient, it's crucial to keep an eye on cash needs, especially when using car rental services, to ensure it doesn't disrupt our plans!
 
-> Further Reading: [How Much Cash Should You Prepare for a Trip to Bali?](/blog/2023-09-11-64fdaddefd89780001bdb780/)
+> Further Reading: [How Much Cash Should You Prepare for a Trip to Bali?](/blog/bali-travel-cash-budget-guide/)
 
 Next is our detailed itinerary, which is as follows:
 
@@ -46,11 +46,11 @@ Next is our detailed itinerary, which is as follows:
 
 Upon arriving in Bali, we headed straight to our accommodation at **Bidadari Villa**. Along the way, our driver, Agus, thoughtfully took us to purchase a SIM card and exchange currency. We opted for the most affordable 12GB data plan, which cost around USD$16. The internet speed in Bali was quite stable, and the data was more than enough for our entire trip, whether for navigation or sharing our travel moments online.
 
-> [Essential Bali Travel Guide: How to Get a Bali SIM Card/eSIM?](/blog/2024-03-21-65f916bbfd89780001b916e0/)
+> [Essential Bali Travel Guide: How to Get a Bali SIM Card/eSIM?](/blog/bali-sim-card-esim-roaming-guide/)
 
 > [Bidadari Private Villas & Retreatfangjia&Room Availability Check](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=237890)
 
-Featured in "[20 Stunning Bali Villas in Ubud](/blog/2024-04-24-6628f08cfd8978000190a575/)"
+Featured in "[20 Stunning Bali Villas in Ubud](/blog/ubud-villa-pool-guide/)"
 
 In the evening, we walked about 8 minutes to dine at **Natys Restaurant Ubud**. While the prices weren’t exactly cheap, the food quality was excellent, with both flavor and presentation on point. The service was attentive, and the restaurant’s ambiance was perfect for a relaxing family dinner.
 
@@ -68,7 +68,7 @@ We went river tubing at Nukuwera
 
 Today was a day trip around Ubud by private car, and our first stop was **Nukuwera & Pandawa River Tubing**, recommended by [Jason](http://bit.ly/youtube-jason). The package included lunch, and the tubing experience was perfect for families. We had a great time with our kids, who thoroughly enjoyed their time in the water.
 
-Introduction to Nukuwera River Tubing: [Bali Cave River Tubing Adventure: A Family Adventure with Nukuwera River Tubing](/blog/2025-06-09-68463dcbfd897800011c6f06/)
+Introduction to Nukuwera River Tubing: [Bali Cave River Tubing Adventure: A Family Adventure with Nukuwera River Tubing](/blog/nukuwera-river-tubing-adventure/)
 
 Afterwards, we headed to the famous **Sacred Monkey Forest**
 
@@ -90,7 +90,7 @@ Overall, today's itinerary wasn't too packed but was filled with family fun, lea
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_43dfe121adfd643e4190f3fdefbf16a8.jpg)
 
-Want to learn more about Ubud? [Click here](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+Want to learn more about Ubud? [Click here](/blog/ubud-guide/)
 
 ## **Day Three**
 
@@ -108,9 +108,9 @@ Next, we stopped by a nearby supermarket to stock up on essentials before arrivi
 
 Bali Safari Zoo
 
-> Further Reading: [Must-Do Family Activities in Bali: How to Enjoy and Stay Overnight at Bali Safari Zoo](/blog/2023-07-25-64db6b8cfd897800013a9ab1/)
+> Further Reading: [Must-Do Family Activities in Bali: How to Enjoy and Stay Overnight at Bali Safari Zoo](/blog/bali-safari-night-stay/)
 
-> Further Reading: [Bali Family Day Trip Guide: Exploring the Wildlife Safari and Flamingo Beach Club](/blog/2024-05-17-6647416cfd89780001f5a5ef/)
+> Further Reading: [Bali Family Day Trip Guide: Exploring the Wildlife Safari and Flamingo Beach Club](/blog/bali-family-day-safari-flamingo/)
 
 After dinner, the restaurant offered a photo session with the animals outside. We opted for this service, and the photographer took numerous photos for us—mom with our son, dad with our daughter, and a family portrait of all four of us. The best part? The entire package, including all digital files and one A4-sized printed photo in a beautiful album, cost only around USD$23. The photo quality was excellent, and everyone looked fantastic. We felt it was an incredible deal for such memorable keepsakes!
 
@@ -124,15 +124,15 @@ Although today’s itinerary mainly involved traveling, it was filled with surpr
 
 Today we moved from **Bali Safari** to **The Westin Resort Nusa Dua**. Along the way, we asked our driver Agus to help us find some local snacks, including **Siobak roasted pork** and **Martabak egg pancakes**. Agus not only found us the perfect little shops but also carefully communicated with the shop owners to ensure we weren’t overcharged as tourists. His thoughtful service truly warmed our hearts.
 
-> Further reading: [Top 10 Must-Try Foods in Bali](/blog/2023-05-02-64db6b81fd897800013a98e3/)
+> Further reading: [Top 10 Must-Try Foods in Bali](/blog/bali-top-10-foods/)
 
 Next, we asked our driver about buying souvenirs and visited **Krisna** and **The Balinese** for some shopping. When Agus recommended Krisna, he also reminded us that if we needed to go anywhere else, we could let him know anytime, allowing us to decide our itinerary freely. This reminded me of a travel experience over a decade ago when I explicitly said I didn’t want to shop but was still forcibly taken to several shopping factories by the driver. I was furious at the time. This experience, however, left me feeling satisfied and relaxed because Agus fully respected our wishes.
 
 ![特別推薦這家峇里島鳳梨酥, 買回去大家都說讚! 詳細介紹請點我](https://images.gobaligo.id/vocus/vocus_a262dcfae127272b45f387f27aa1463b.jpg)
 
-[Highly recommend this Balinese pineapple cake—everyone loved it! Click here for more details](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+[Highly recommend this Balinese pineapple cake—everyone loved it! Click here for more details](/blog/bali-souvenirs-gift-guide/)
 
-> [Further reading: [Reader Recommendations] Over 20 Bali Souvenir Ideas](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+> [Further reading: [Reader Recommendations] Over 20 Bali Souvenir Ideas](/blog/bali-souvenirs-gift-guide/)
 
 For dinner, we dined at the resort’s **Velada Restaurant**, where we enjoyed burgers and Indian cuisine. The restaurant’s ambiance was very comfortable, and the food was delicious. The burger was flavorful, and the Indian dishes were a delightful surprise, with the spices perfectly balanced, making it a perfect end to the fourth day of our trip.
 
@@ -140,7 +140,7 @@ Overall, today’s itinerary allowed us to experience the warmth and thoughtfuln
 
 ▶[Check availability & rates at The Westin Resort Nusa Dua](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=104013)
 
-Featured in [16 Top-Rated 5-Star Resorts in Nusa Dua](/blog/2024-07-27-66a4562afd89780001d70329/)
+Featured in [16 Top-Rated 5-Star Resorts in Nusa Dua](/blog/nusa-dua-resorts-guide/)
 
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_458ebbef53693f34ad5c8b242487dab9.jpg)
@@ -164,13 +164,13 @@ Editor's note: The Heavenly Spa at Westin Resort Nusa Dua offers some fantastic 
 
 For dinner, we chose **Watanabe Japanese Cuisine** within the resort. The quality of the food was excellent, with fresh and delicious flavors that satisfied our appetites, perfectly concluding our relaxing day.
 
-> [18 Kid-Friendly Resorts in Bali | Best Family Vacation Options in Kuta, Seminyak, Canggu, Jimbaran, Uluwatu, and Ubud](/blog/2024-05-14-66405077fd89780001f23b72/)
+> [18 Kid-Friendly Resorts in Bali | Best Family Vacation Options in Kuta, Seminyak, Canggu, Jimbaran, Uluwatu, and Ubud](/blog/bali-family-resorts-kids-club/)
 
 ### More on Dining and Entertainment in Nusa Dua
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
-Nusa Dua is a region in Bali renowned for its luxurious resorts, boasting pristine white sand beaches, crystal-clear blue waters, and comprehensive tourist facilities, making it the top choice for those seeking high-end enjoyment and tranquil vacations. It also offers top-tier spas, water sports, and leisure activities suitable for the whole family, making it a paradise for all types of travelers. Want to learn more about Nusa Dua? [Click here](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+Nusa Dua is a region in Bali renowned for its luxurious resorts, boasting pristine white sand beaches, crystal-clear blue waters, and comprehensive tourist facilities, making it the top choice for those seeking high-end enjoyment and tranquil vacations. It also offers top-tier spas, water sports, and leisure activities suitable for the whole family, making it a paradise for all types of travelers. Want to learn more about Nusa Dua? [Click here](/blog/nusa-dua-guide/)
 
 ## **Day 6**
 
@@ -204,12 +204,12 @@ LINE: gosaray 1105
 
 ## Extended Reading for Family Travel:
 
-- [Complete Guide to Family-Friendly Attractions in Bali: Over 100 Activities for Families](/blog/2023-03-05-64db6b81fd897800013a98b4/)
+- [Complete Guide to Family-Friendly Attractions in Bali: Over 100 Activities for Families](/blog/bali-family-travel-guide/)
 
-- [20 Tips for Traveling to Bali with Kids](/blog/2024-04-15-661cecd5fd897800019390f6/)
+- [20 Tips for Traveling to Bali with Kids](/blog/bali-family-travel-tips/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 Click here to watch more amazing Bali travelogues
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue shine!

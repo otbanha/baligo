@@ -35,10 +35,10 @@ We have four episodes introducing Nusa Penida, and here are the links to the oth
 
 We have five episodes introducing Nusa Penida, so let's dive deeper into this island paradise! Here are the links to the other four episodes:
 
-1. [Nusa Penida Food and Azure Seas: Top 9 Must-Try Choices](/blog/2023-10-22-65348754fd89780001b2a259/)
-2. [Snorkeling Spots in Nusa Penida: How to Join a Snorkeling Tour?](/blog/2023-11-02-654249defd89780001041c87/)
-3. [Transportation Guide for Nusa Penida: Taxis, Gojek/Grab, Private Cars, and Motorbikes](/blog/2024-01-16-65a5e069fd897800010625d0/)
-4. [Nusa Penida Accommodation Recommendations: 13 Highly-Rated Options from Luxury to Budget](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+1. [Nusa Penida Food and Azure Seas: Top 9 Must-Try Choices](/blog/nusa-penida-best-restaurants/)
+2. [Snorkeling Spots in Nusa Penida: How to Join a Snorkeling Tour?](/blog/nusa-penida-snorkeling-guide/)
+3. [Transportation Guide for Nusa Penida: Taxis, Gojek/Grab, Private Cars, and Motorbikes](/blog/nusa-penida-transport-guide/)
+4. [Nusa Penida Accommodation Recommendations: 13 Highly-Rated Options from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
 
 ## Popular Attractions in Nusa Penida
 
@@ -132,7 +132,7 @@ Once you're on board, the journey from Sanur Harbor to Nusa Penida takes about 4
 
 Speedboats from Bali to Nusa Penida usually have luggage restrictions, allowing a maximum of two suitcases with a total weight of 30 kilograms. However, they don't actually weigh your luggage. They place it on the deck, covering it with a large waterproof tarp to avoid getting splashed.
 
-If you want to store large luggage on the main island of Bali, you can refer to: [【Departing for Bali's Offshore Islands】Sanur Luggage Storage Guide](/blog/2024-03-12-65ea5fc9fd89780001f099b8/)
+If you want to store large luggage on the main island of Bali, you can refer to: [【Departing for Bali's Offshore Islands】Sanur Luggage Storage Guide](/blog/sanur-luggage-storage-guide/)
 
 ## **Accommodation Recommendations**
 
@@ -168,7 +168,7 @@ Here are some important tips for visitors traveling to Nusa Penida:
 
 3. Large luggage is allowed, but it’s best to avoid bringing it as it’s very inconvenient on the island.
 
-4. For luggage storage services, please [refer here](/blog/2024-03-12-65ea5fc9fd89780001f099b8/).
+4. For luggage storage services, please [refer here](/blog/sanur-luggage-storage-guide/).
 
 5. If you booked through Klook, arrive at the port at least 30 minutes before departure.
 
@@ -195,10 +195,10 @@ Here are some important tips for visitors traveling to Nusa Penida:
 
 ### We also introduce nine Nusa Penida restaurants featuring infinity pools, golden beaches, and stunning sunset views
 
-**▶ Nusa Penida Guide Part 2:** [Enjoy Nusa Penida's azure seas, blue skies, and gourmet delights - TOP 9 choices](/blog/2023-10-22-65348754fd89780001b2a259/)
+**▶ Nusa Penida Guide Part 2:** [Enjoy Nusa Penida's azure seas, blue skies, and gourmet delights - TOP 9 choices](/blog/nusa-penida-best-restaurants/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_22ae845281804118aa70b28861ed088e.jpg)
 
-**▶ Nusa Penida Guide Part 3:** [Introduction to Nusa Penida's top four dive spots / How to join snorkeling tours?](/blog/2023-11-02-654249defd89780001041c87/)
+**▶ Nusa Penida Guide Part 3:** [Introduction to Nusa Penida's top four dive spots / How to join snorkeling tours?](/blog/nusa-penida-snorkeling-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_45dcf8200acb1b2e97b7e51cf764425f.jpg)

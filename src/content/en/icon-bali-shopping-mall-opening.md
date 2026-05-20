@@ -61,7 +61,7 @@ The shopping center will host numerous cafes, restaurants, and waterfront dining
 
 Get to Know Sanur in Three Minutes
 
-Further Reading: [Sanur Guide Map | 45 Recommendations for Food, Fun, and Accommodation, Including SPAs!](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
+Further Reading: [Sanur Guide Map | 45 Recommendations for Food, Fun, and Accommodation, Including SPAs!](/blog/sanur-guide/)
 
 ## Conclusion
 

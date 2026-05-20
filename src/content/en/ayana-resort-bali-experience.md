@@ -78,8 +78,8 @@ https://www.youtube.com/watch?v=sfFytMFJUgE
 
 Ayana Bali is a vast resort complex beloved by tourists, covering 90 hectares. The entire complex features four hotel areas with different styles, each representing a different level of luxury, 19 restaurants and bars, 14 different pools, an 18-hole golf course, a kids' club, sunset yoga, the famous Rock Bar, a private beach, and of course, unparalleled ocean views!
 
-For detailed introductions to the four hotels within the complex, the facilities, Rock Bar reservation methods, the cost of a night's stay, and 13 major highlights... be sure to check out [our feature article](/blog/2023-10-26-653914f6fd89780001fef733/)
+For detailed introductions to the four hotels within the complex, the facilities, Rock Bar reservation methods, the cost of a night's stay, and 13 major highlights... be sure to check out [our feature article](/blog/ayana-resort-bali-guide/)
 
-> Further reading: [Jimbaran Bali Free Travel Guide: 30 Recommended Attractions｜2026 Travel Guide](/blog/2023-11-09-654b8438fd897800016bf4cc/)
+> Further reading: [Jimbaran Bali Free Travel Guide: 30 Recommended Attractions｜2026 Travel Guide](/blog/jimbaran-guide/)
 
 {{block:住宿}}

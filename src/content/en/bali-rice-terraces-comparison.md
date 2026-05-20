@@ -143,7 +143,7 @@ In addition to the terraces themselves, the surrounding areas offer plenty of wo
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cff0d78b5c2b650803adc6e6c261d32c.jpg)
 
-If you're planning to visit the terraces, consider arranging a day trip to Ubud! Our **《Complete Ubud Guide》** has curated various itinerary suggestions to help you delve deeper into this land where art and nature intertwine! 👉 [Click here to explore the Ubud guide](/blog/2023-11-17-655054b1fd897800011d4d2c/) 🌟
+If you're planning to visit the terraces, consider arranging a day trip to Ubud! Our **《Complete Ubud Guide》** has curated various itinerary suggestions to help you delve deeper into this land where art and nature intertwine! 👉 [Click here to explore the Ubud guide](/blog/ubud-guide/) 🌟
 
 ***
 

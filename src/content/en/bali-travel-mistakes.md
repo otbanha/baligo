@@ -153,7 +153,7 @@ If you’re planning a trip to Bali or didn’t fully enjoy your last visit, fee
 
 Ask questions directly — no need to figure things out alone. 🙌
 
-> Read more: [Bali Travel Guide: 18 Common Mistakes & Tips](/blog/2024-10-20-6714c06cfd8978000116322a/)
+> Read more: [Bali Travel Guide: 18 Common Mistakes & Tips](/blog/bali-travel-mistakes-tips/)
 
 {{block:klook}}
 

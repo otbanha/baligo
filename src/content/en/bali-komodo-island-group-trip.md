@@ -29,31 +29,31 @@ What moved us the most during this trip, besides the beautiful scenery, was our 
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9c6297afa65717ca1de714d7b83a7289.jpg)
 
-Gede has received numerous praises in the community! [Please refer here](/blog/2024-07-07-668aaea7fd89780001981840/)
+Gede has received numerous praises in the community! [Please refer here](/blog/bali-private-car-drivers-guide/)
 
 ## 2. Airport Arrival: EVOA Fast Track
 
 The entry process was quite smooth; we used the EVOA fast track and encountered no obstacles at all, and the customs didn't ask any questions. However, waiting for our luggage was a lengthy process, taking nearly an hour!
 
-> Editor's Note: For the latest Bali entry procedures, please refer to [2025/08 Indonesia Bali Entry Using 'All Indonesia' Entry Card｜1 Minute to Understand the Latest Process: From Landing to Customs to Baggage Claim](/blog/2025-08-14-689dcce7fd8978000125fc52/)
+> Editor's Note: For the latest Bali entry procedures, please refer to [2025/08 Indonesia Bali Entry Using 'All Indonesia' Entry Card｜1 Minute to Understand the Latest Process: From Landing to Customs to Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
 
 ## 3. Airport Wi-Fi is Terrible!
 
 As soon as we arrived at Bali Airport, we noticed that the Wi-Fi was incredibly weak, likely due to the high number of people connected at the time. Fortunately, one of our travel companions had roaming service from Chunghwa Telecom, otherwise, we wouldn't have known how to contact our driver. If you plan to purchase a local Telkomsel SIM card, the price ranges from $10 to $16 USD, which includes 14GB of data. However, the signal can still be weak in some remote areas, such as the Labuan Bajo island-hopping region.
 
-Further reading: [Essential Guide: How to Get Internet/SIM Card in Bali](/blog/2024-03-21-65f916bbfd89780001b916e0/)
+Further reading: [Essential Guide: How to Get Internet/SIM Card in Bali](/blog/bali-sim-card-esim-roaming-guide/)
 
 ## 4. Traffic Conditions in Bali
 
 During our trip, we found that traffic congestion in the bustling areas was really severe! Especially between 1 PM and 7:30 PM, the traffic in Uluwatu, Ubud, and Jimbaran was particularly bad. Although Google Maps estimates short travel times, the actual journey often takes 2.5 to 3 times longer. We recommend avoiding long-distance travel during these hours.
 
-Editor's note: [Don't Trust Google Maps in Bali!](/blog/2024-03-19-65ebd5ecfd89780001cf6c8b/)
+Editor's note: [Don't Trust Google Maps in Bali!](/blog/bali-google-maps-warning/)
 
 ## 5. Spa Booking Tips
 
 If you plan to enjoy a spa in Bali, it's best to book in advance via WhatsApp or ask your private driver to help with the booking. Especially for highly-rated spas, there's a good chance you won't get a spot if you walk in. If you ask the driver to book, they might need to pay a deposit upfront, so consider carefully before canceling, or remember to return the deposit to the driver.
 
-> Further Reading: [Essential Guide: Top-Rated Spas in Bali Organized by Area for Easier Searching](/blog/2023-01-22-64db6b7efd897800013a97ed/)
+> Further Reading: [Essential Guide: Top-Rated Spas in Bali Organized by Area for Easier Searching](/blog/spa/)
 
 ## 6. Island Transportation Arrangements
 
@@ -63,7 +63,7 @@ Since our trip also included island hopping, we only had three days in Bali. How
 
 ![烏魯瓦圖火舞的門票可以在網上先買好（Sandra Yun提供）](https://images.gobaligo.id/vocus/vocus_d3a5a16996aa1d2906eea06f2716a19c.jpg)
 
-[Tickets for the Uluwatu Fire Dance can be purchased online in advance (provided by Sandra Yun)](/blog/2024-01-29-65b6e533fd89780001f51eaf/)
+[Tickets for the Uluwatu Fire Dance can be purchased online in advance (provided by Sandra Yun)](/blog/kecak-fire-dance-bali/)
 
 ## 7. Big Price Differences for Water Activities
 
@@ -77,13 +77,13 @@ During this trip, we tried sea walking and discovered that buying tickets on-sit
 
 If you're planning to visit Rock Bar, keep an eye on the weather! On the day we went, it was slightly overcast, so we didn't get to see the sunset, but it also meant we barely had to wait in line. We arrived at 6 PM and found plenty of empty seats, allowing us to enjoy the ocean view in peace. Even without the sunset, the stunning sea view was still mesmerizing.
 
-Extended Reading: [How to Make Reservations at Rock Bar with 'Reservation + Walk-in'?](/blog/2023-10-26-653914f6fd89780001fef733/)
+Extended Reading: [How to Make Reservations at Rock Bar with 'Reservation + Walk-in'?](/blog/ayana-resort-bali-guide/)
 
 ## 9. Observations on Tipping
 
 In Bali, we noticed that many restaurants would return the first tip we gave, only accepting it when we offered it a second time. However, tipping housekeeping staff, porters, or activity instructors always brought big smiles to their faces!
 
-> Extended Reading: [Should You Tip in Bali? How Much to Tip in Various Situations?](/blog/2024-05-07-663a126bfd89780001390b63/)
+> Extended Reading: [Should You Tip in Bali? How Much to Tip in Various Situations?](/blog/bali-tipping-guide-driver-spa/)
 
 ## 10. Souvenirs: Bali Banana
 
@@ -91,7 +91,7 @@ If you're looking for souvenirs, Bali Banana is a great choice. There are severa
 
 > Editor's Note: Bali Banana has multiple specialty stores in Kuta. For locations, refer to the "[Kuta Guide Map](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)".
 
-> Further Reading: [【Netizen Recommendations】Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+> Further Reading: [【Netizen Recommendations】Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/blog/bali-souvenirs-gift-guide/)
 
 ## 11. Komodo Island Hopping Tour
 
@@ -105,7 +105,7 @@ Klook offers dozens of Komodo tour options, [see here](https://affiliate.klook.c
 
 > Editor's Note: We also offer professionally packaged tours through travel agencies for your reference.
 
-- [Bali + Komodo Island All-Inclusive Luxury Tour](/blog/2024-11-19-673c7478fd89780001db176b/)
+- [Bali + Komodo Island All-Inclusive Luxury Tour](/blog/bali-komodo-luxury-tour-2026/)
 
 ## 12. The Importance of Carrying Gastrointestinal Medicine
 
@@ -117,7 +117,7 @@ This bout of gastroenteritis really drove home the importance of always carrying
 
 In Ubud, we encountered some motorcycle taxi drivers who tried to overcharge us. We had booked two rides, but they took us to the wrong locations and then charged us again when we reached the correct destinations. This is likely the 'white plate motorcycle scam' that many travelers have mentioned. Always confirm the route and price beforehand to avoid such situations.
 
-> Editor's note: Using a ride-hailing app can help you avoid these scams: [Essential Apps for Traveling in Indonesia/Bali: The Complete Gojek Guide](/blog/2023-08-20-64e187dffd897800017304fe/)
+> Editor's note: Using a ride-hailing app can help you avoid these scams: [Essential Apps for Traveling in Indonesia/Bali: The Complete Gojek Guide](/blog/gojek-bali-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_132b0fdbdbd2b8f1e37a9dc51b38bd58.png)
 
@@ -129,4 +129,4 @@ Did you find Sandra Yun's itinerary exciting? Start planning your own Bali adven
 
 Click here to watch more amazing Bali travelogues
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue shine!

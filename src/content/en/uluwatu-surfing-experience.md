@@ -42,7 +42,7 @@ At the end of the video, he emphasized the importance of meeting the needs of hi
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9468e44e84f0c2df36e48c0335495cf1.jpg)
 
-For other highlights not covered in the video, such as the 'Tanah Barak Cliff' blue road, 11 Uluwatu beach clubs, 16 recommended restaurants, two family-friendly eateries, four shopping spots, and various exciting activities, please refer to our '[Uluwatu Guide: 50 Must-Visit Spots for Food, Fun, and More](/blog/2024-03-07-65dfd410fd897800019f4b40/)'.
+For other highlights not covered in the video, such as the 'Tanah Barak Cliff' blue road, 11 Uluwatu beach clubs, 16 recommended restaurants, two family-friendly eateries, four shopping spots, and various exciting activities, please refer to our '[Uluwatu Guide: 50 Must-Visit Spots for Food, Fun, and More](/blog/uluwatu-guide/)'.
 
 ![烏魯瓦圖的活動也很精彩！](https://images.gobaligo.id/vocus/vocus_9e0e86a47efb0c721d702157c2706225.jpg)
 
@@ -54,6 +54,6 @@ Do you find their itinerary exciting? Start planning your own Bali adventure now
 
 Click here to read more exciting Bali travel stories
 
-Want to write a travelogue but not sure where to start? Check out '[How to Write an Engaging Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)' to make your travelogue stand out!
+Want to write a travelogue but not sure where to start? Check out '[How to Write an Engaging Bali Travelogue](/blog/how-to-write-bali-travelogue/)' to make your travelogue stand out!
 
 {{block:攻略}}

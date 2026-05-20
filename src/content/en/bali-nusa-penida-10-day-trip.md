@@ -37,11 +37,11 @@ Left: TheWakanda hotel with ricefield Middle: Tis Cafe Right: Kanto Lampo waterf
 
 Our trip coincided with Bali’s dry season, offering pleasant weather without the humidity and heat we’re used to in Taiwan. It was the peak of the tourist season, but not overly crowded, ensuring a comfortable travel experience. However, we did encounter a few rainy days, missing some sunset and sunrise views. These small regrets have become reasons for us to return in the future.
 
-> Further Reading: [What to Do If It Rains During Your Bali Trip? 60 Backup Plans for Rainy Days in Bali](/blog/2024-01-06-6598c6fffd89780001047d76/)
+> Further Reading: [What to Do If It Rains During Your Bali Trip? 60 Backup Plans for Rainy Days in Bali](/blog/2026-bali-indoor-activities/)
 
 Provided by the original author:
 
-> Extended Reading: [Three Famous Waterfalls Near Ubud, Bali: Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall](/blog/2023-07-19-64db6b82fd897800013a995f/)
+> Extended Reading: [Three Famous Waterfalls Near Ubud, Bali: Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall](/blog/ubud-waterfalls-guide/)
 
 ## Despite a Cold, Still Meticulously Planning
 
@@ -53,23 +53,23 @@ Although Ketut felt unwell on the second day of our visit to Bali, he still arra
 
 Left: AMARTA Penida Middle: Angel's Billabong Right: Broken beach with sea view
 
-> Introduction to AMARTA Penida [Delicious Food and Azure Skies: Top 10 Choices in Nusa Penida](/blog/2023-10-22-65348754fd89780001b2a259/)
+> Introduction to AMARTA Penida [Delicious Food and Azure Skies: Top 10 Choices in Nusa Penida](/blog/nusa-penida-best-restaurants/)
 
 Our itinerary also included island hopping to Nusa Penida. Although Ketut couldn't personally drive us, his team maintained close cooperation with local drivers. During these three days of island hopping, they repeatedly helped us confirm the route and schedule of the attractions, which was really thoughtful!
 
-> Extended Reading: [Accommodation Recommendations in Nusa Penida: 13 Highly Rated Options from Luxury to Budget](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+> Extended Reading: [Accommodation Recommendations in Nusa Penida: 13 Highly Rated Options from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
 
 ![左：Kelingking Beach→ the origin of iPhone's wallpaper! 中：Tree House Bungalow 右：Diamond beach](https://images.gobaligo.id/vocus/vocus_54c623fcb2a8e1d4cc86bf0e3d31ded8.jpg)
 
 Left: Kelingking Beach→ the origin of iPhone's wallpaper! Middle: Tree House Bungalow Right: Diamond beach
 
-> Further reading: [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, and Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)
+> Further reading: [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, and Attractions](/blog/nusa-penida-guide/)
 
 ## An Encounter at Tanah Lot Temple
 
 During our visit to Tanah Lot Temple (Pura Tanah Lot), we encountered many wild macaques. While sharing stories about the monkeys, Ketut proactively helped us fend off the mischievous primates that often steal items from tourists, such as hats, flip-flops, and glasses. Just as Ketut finished his tales, a macaque suddenly appeared on the stone path, attempting to snatch a white tourist's flip-flop. Fortunately, it didn't succeed. This mix of frustration and slight panic added a humorous twist to our journey.
 
-**Quick Reference:** [Must-Visit Bali Attraction: Detailed Guide to Tanah Lot Temple, Tides, and Nearby Spots](/blog/2024-10-28-671f86f1fd89780001de9fae/)
+**Quick Reference:** [Must-Visit Bali Attraction: Detailed Guide to Tanah Lot Temple, Tides, and Nearby Spots](/blog/bali-tanah-lot-guide/)
 
 ## 
 
@@ -96,4 +96,4 @@ This Bali trip was filled with surprises and heartfelt moments. We're grateful t
 
 Click here to watch more amazing Bali travelogues
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue shine!

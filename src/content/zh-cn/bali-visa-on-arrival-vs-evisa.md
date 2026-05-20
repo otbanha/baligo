@@ -37,7 +37,7 @@ James Lin的经验说明，如果是带小孩、65岁以上长者或行动不便
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_d5ae856e88dfdd6239eb60a49618a6d5.png)
 
-> 延伸阅读：[2026印尼巴厘岛入境使用「All Indonesia」申报系统｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/2025-08-14-689dcce7fd8978000125fc52/)
+> 延伸阅读：[2026印尼巴厘岛入境使用「All Indonesia」申报系统｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 
 ## 怎么听说落地签很快？
 
@@ -47,7 +47,7 @@ James Lin的经验说明，如果是带小孩、65岁以上长者或行动不便
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_75e0b7b75b7ad28994890343c6c92319.png)
 
-> 延伸阅读：[印尼/巴厘岛电子签证eVoa全攻略：申请步骤、注意事项一次掌握！](/blog/2024-02-06-65c217c5fd897800010113af/)
+> 延伸阅读：[印尼/巴厘岛电子签证eVoa全攻略：申请步骤、注意事项一次掌握！](/blog/bali-evisa-application-guide/)
 
 关于落地签现场付费的问题，网友们的经验确实不太一致。有些人表示现场付费非常快速，几乎不用排队；但也有不少人反映，遇到旅游旺季或航班密集抵达时，排队等候的时间可能会很长，甚至超过一个小时。
 
@@ -69,6 +69,6 @@ James Lin的经验说明，如果是带小孩、65岁以上长者或行动不便
 
 因此我们还是建议**尽量事先办好电子签证**、享用自动通关的便捷。关于申请电子签证的疑难杂症我们尽量收集在下面的链接，申请时遇到什么麻烦可以快速帮各位解决：
 
-> [入境印尼/巴厘岛eVisa签证、eCD海关、SSHP健康声明必填 All Indonesia 常见问题 FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)
+> [入境印尼/巴厘岛eVisa签证、eCD海关、SSHP健康声明必填 All Indonesia 常见问题 FAQ](/blog/bali-evisa-customs-health-declaration/)
 
 {{block:klook}}

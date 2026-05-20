@@ -68,7 +68,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 
 - 轻薄长袖（寺庙或晚上降温用）
 
-**快速参考：**[巴厘岛要带外套吗？巴厘岛穿搭攻略：旅行中必带的8件衣物](/blog/2025-09-22-68d13539fd89780001b06dfc/)
+**快速参考：**[巴厘岛要带外套吗？巴厘岛穿搭攻略：旅行中必带的8件衣物](/blog/bali-packing-essentials/)
 
 ## 雨季交通小提醒
 
@@ -88,7 +88,7 @@ https://youtube.com/shorts/ymx-kClfA1I
 6. 瀑布追逐：雨季水量最大，Sekumpul、Tegenungan瀑布超壮观！
 7. 文化之旅：参观寺庙、看传统舞蹈表演（很多是室内）。
 
-**快速参考：**[巴厘岛下雨天的60个备选攻略](/blog/2024-01-06-6598c6fffd89780001047d76/)
+**快速参考：**[巴厘岛下雨天的60个备选攻略](/blog/2026-bali-indoor-activities/)
 
 ## 我的真心建议
 

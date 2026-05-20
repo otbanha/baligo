@@ -391,7 +391,7 @@ Our meticulously designed itineraries handle all the tedious details:
 
 ![兩人成行輕奢團](https://images.gobaligo.id/vocus/vocus_42ebac9652d3fd78261e9efec83fb421.jpg)
 
-[Couples Luxury Tour](/blog/2024-11-19-673c7478fd89780001db176b/)
+[Couples Luxury Tour](/blog/bali-komodo-luxury-tour-2026/)
 
 ***
 
@@ -419,7 +419,7 @@ Absolutely suitable, with tours catering to both seniors and children, as well a
 
 ## Other Island Guides
 
-- [Bali - Complete Guide to Nusa Penida: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [Lembongan Island/Blue Lagoon Island Attractions Guide: Exploring Blue Lagoon Island/Golden Island Attractions, Food, Transportation: Bali's Nearby Paradise](/blog/2024-10-23-66adfb9afd89780001f62df1/)
+- [Bali - Complete Guide to Nusa Penida: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+- [Lembongan Island/Blue Lagoon Island Attractions Guide: Exploring Blue Lagoon Island/Golden Island Attractions, Food, Transportation: Bali's Nearby Paradise](/blog/nusa-lembongan-ceningan-guide/)
 
 ***

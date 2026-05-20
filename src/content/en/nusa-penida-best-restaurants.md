@@ -19,14 +19,14 @@ _srcHash: 1e8cdf88b5031c0cc06178e933e9b1c3
 
 Nusa Penida is renowned worldwide for its paradise-like beaches, crystal-clear waters, and exotic cuisine. In this destination, we'll take you to explore the most captivating food and relaxation spots.
 
-In our previous episode, we introduced [Nusa Penida's travel guide and nine natural wonders](/blog/2023-08-16-64db6b82fd897800013a9942/). In this article, we'll introduce ten restaurants that will bring endless joy and a vacation atmosphere, allowing you to fully enjoy your holiday. Whether you're a beach lover, foodie, or seeking ultimate relaxation, Nusa Penida will give you an unforgettable experience. Let's embark on this adventure together and discover the wonders of this island, taking you into a world of beauty and happiness.
+In our previous episode, we introduced [Nusa Penida's travel guide and nine natural wonders](/blog/nusa-penida-guide/). In this article, we'll introduce ten restaurants that will bring endless joy and a vacation atmosphere, allowing you to fully enjoy your holiday. Whether you're a beach lover, foodie, or seeking ultimate relaxation, Nusa Penida will give you an unforgettable experience. Let's embark on this adventure together and discover the wonders of this island, taking you into a world of beauty and happiness.
 
 We have five episodes introducing Nusa Penida, so let's dive deeper into this island paradise! Here are the links to the other four episodes:
 
-1. [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)
-2. [Introduction to Snorkeling Spots in Nusa Penida: How to Join Snorkeling?](/blog/2023-11-02-654249defd89780001041c87/)
-3. [Nusa Penida Taxi, Gojek/Grab, Private Cars, Motorcycle Transportation Guide](/blog/2024-01-16-65a5e069fd897800010625d0/)
-4. [Nusa Penida Accommodation Recommendations: 13 Highly Rated Places from Luxury to Budget](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+1. [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+2. [Introduction to Snorkeling Spots in Nusa Penida: How to Join Snorkeling?](/blog/nusa-penida-snorkeling-guide/)
+3. [Nusa Penida Taxi, Gojek/Grab, Private Cars, Motorcycle Transportation Guide](/blog/nusa-penida-transport-guide/)
+4. [Nusa Penida Accommodation Recommendations: 13 Highly Rated Places from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
 
 ## Amok Sunset
 

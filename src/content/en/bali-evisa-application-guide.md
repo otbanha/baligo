@@ -44,7 +44,7 @@ The eVisa application should be completed within 3 days before departure. It is 
 
 The eVisa application usually takes only a few minutes to complete. The advantage of applying for the eVisa in advance is that you don't have to queue for a visa on arrival after landing, and starting from 2024, you can use the almost completely queue-free electronic immigration gates.
 
-> Further Reading: [Quick and Convenient! 2025 Bali Automated Immigration Process & Guide](/blog/2024-02-06-65c1defcfd89780001f79bfd/)
+> Further Reading: [Quick and Convenient! 2025 Bali Automated Immigration Process & Guide](/blog/2025-bali-automatic-customs/)
 
 **B1 Tourist Visa**
 
@@ -54,8 +54,8 @@ This is the visa most tourists should choose! (PS. Account creation/registration
 
 ## What other documents are needed besides the e-Visa?
 
-Please refer here for detailed instructions on the entire process: [Entering Bali, Indonesia Using the 'All Indonesia' Declaration System｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/blog/2025-08-14-689dcce7fd8978000125fc52/)
+Please refer here for detailed instructions on the entire process: [Entering Bali, Indonesia Using the 'All Indonesia' Declaration System｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
 
 ## Online Visa Extension
 
-Starting from 2024, Indonesia will encourage tourists planning to visit Bali to use online immigration services. Tourists can apply for various Indonesian visas online and also extend their visas online, without having to visit immigration offices in person! How to extend online? Check out [our tutorial](/blog/2024-02-05-65c039affd89780001e5a3db/).
+Starting from 2024, Indonesia will encourage tourists planning to visit Bali to use online immigration services. Tourists can apply for various Indonesian visas online and also extend their visas online, without having to visit immigration offices in person! How to extend online? Check out [our tutorial](/blog/2024-bali-visa-extension/).

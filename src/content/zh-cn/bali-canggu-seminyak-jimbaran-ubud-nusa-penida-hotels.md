@@ -22,7 +22,7 @@ _srcHash: d5344e7a611d3860600e90e33c653a26
 
 在奢华住宿方面，Camilla参观了令人赞叹的Nanuku House，这是一座位于坎古的四卧室别墅，拥有巨大的游泳池、户外厨房和全职服务人员。
 
-她还着重介绍了横跨220英亩的翠绿热带花园和令人难忘的14个泳池的Ayana Resort。关于Anyana Resort我们有专门的介绍：[【巴厘岛阿雅娜】Ayana Bali 住宿懒人包》](/blog/2023-10-26-653914f6fd89780001fef733/)
+她还着重介绍了横跨220英亩的翠绿热带花园和令人难忘的14个泳池的Ayana Resort。关于Anyana Resort我们有专门的介绍：[【巴厘岛阿雅娜】Ayana Bali 住宿懒人包》](/blog/ayana-resort-bali-guide/)
 
 在乌布，Camilla入住了Villa Yapoon，这是一座六间卧室、环绕在稻田中的别墅，带来宁静恬适的体验。她还体验了美丽的Bhumian Ri Retreat Center，一个完美适合瑜伽退修和静心的净土。
 
@@ -39,7 +39,7 @@ https://youtu.be/xcz9XkBdwbs?si=h09QPI8MrC_V1ccT
 ### 奢华住宿：
 
 1. [Nanuku House空房、房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47148081) (坎古)
-2. [Ayana Resort度假村介绍、订房](/blog/2023-10-26-653914f6fd89780001fef733/) (金巴兰)
+2. [Ayana Resort度假村介绍、订房](/blog/ayana-resort-bali-guide/) (金巴兰)
 
 ### 中高价位住宿：
 

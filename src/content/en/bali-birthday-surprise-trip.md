@@ -199,7 +199,7 @@ We stayed overnight at **VIVARA private pool Villas & Spa Retreats**. Upon arriv
 
 As our trip neared its end, the surprises continued. We started the day by visiting **GWK Cultural Park** (Garuda Wisnu Kencana). Known for its giant Garuda statue, the park also offers a rich display of traditional Balinese dance performances. There are different dance shows almost every hour, showcasing the beauty of Balinese culture. We watched two or three performances in a row, and before each show, we used ChatGPT to translate the descriptions of the performances, which helped us understand the mythological stories behind them and added to our enjoyment.
 
-Quick reference: [【Bali Landmark】Complete Guide to GWK Cultural Park: World's Tallest Statue, Traditional Dance Performances & Photo Spots](/blog/2025-07-17-68785bf9fd89780001822053/)
+Quick reference: [【Bali Landmark】Complete Guide to GWK Cultural Park: World's Tallest Statue, Traditional Dance Performances & Photo Spots](/blog/gwk-cultural-park-bali/)
 
 > [Discounted Tickets for GWK Cultural Park](https://affiliate.klook.com/redirect?aid=116349&aff_adid=939346&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Debd8965f1e)
 
@@ -213,7 +213,7 @@ In the afternoon, we drove to **Uluwatu Temple**, but be careful of the monkeys 
 
 As evening approached, we found our seats to watch the renowned **Kecak Fire Dance**. This performance combines Balinese mythology with traditional dance, presented on a semi-circular, tiered stage. The visual impact of being surrounded by the fire dance was truly mesmerizing. The entire performance was accompanied solely by the rhythmic chanting of dozens of dancers, creating a captivating background sound. As the performance neared its end, a spectator proposed to their loved one amidst the flames, blending this surprise proposal with the classic show, making it a delightful little episode in our journey.
 
-> What is the Kecak Fire Dance like? What makes it special? Check out the introduction [here](/blog/2024-01-29-65b6e533fd89780001f51eaf/).
+> What is the Kecak Fire Dance like? What makes it special? Check out the introduction [here](/blog/kecak-fire-dance-bali/).
 
 This day was filled with tradition, surprises, and a deep immersion in Balinese culture.
 
@@ -273,6 +273,6 @@ Did you find Zhang Jiawei's itinerary exciting? Start planning your own Bali adv
 
 Click here to watch more amazing Bali travelogues
 
-Do you want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue stand out!
+Do you want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
 {{block:攻略}}

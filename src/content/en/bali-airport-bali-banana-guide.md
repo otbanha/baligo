@@ -28,7 +28,7 @@ _srcHash: 39a0519924e439f9dbbb99db018be00d
 
 Bali is a tourist paradise, and before leaving, many visitors choose to buy some souvenirs to take home. Bali Banana, this delicious banana cake, is a very popular choice.
 
-> Further Reading: [【Netizen Recommendations】Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+> Further Reading: [【Netizen Recommendations】Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/blog/bali-souvenirs-gift-guide/)
 
 So, how to buy this souvenir at Bali International Airport? Since Bali Banana is only available at the shopping street in the domestic terminal, and there are no branches in the international terminal yet, here is a detailed walking guide to help you get from the arrival exit of the international terminal to the shopping street in the domestic terminal to successfully buy Bali Banana.
 

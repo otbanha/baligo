@@ -36,7 +36,7 @@ _srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
 
 今次我哋特登安排咗參觀GWK神鷹文化公園，呢度唔止有壯麗嘅文化遺產，仲有無數嘅美景，非常適合影相。園區好大，強烈建議一定要搭接駁車，咁樣先可以輕鬆愉快咁享受每一處景點。
 
-> [峇里島 Garuda Wisnu Kencana GWK神鷹廣場/神鷹文化公園全攻略](/blog/2025-07-17-68785bf9fd89780001822053/)
+> [峇里島 Garuda Wisnu Kencana GWK神鷹廣場/神鷹文化公園全攻略](/blog/gwk-cultural-park-bali/)
 
 🦅☀️🌴GWK神鷹廣場 ，巨大嘅維什努神像同神鷹令人驚嘆 😍，仲可以欣賞傳統表演 ，文化與自然嘅完美結合 ▶[Klook 訂票網址](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
 
@@ -48,7 +48,7 @@ _srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
 
 我哋喺Klook訂嘅「[Red Paddle Bali Adventure](https://affiliate.klook.com/redirect?aid=116349&aff_adid=901865&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F5504-ayung-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D65ec132ff9)」泛舟行程真係超乎預期咁精彩。啲教練唔單止專業，而且好體貼。特別係我哋大仔途中唔係好舒服，教練一路都好關心佢嘅狀況，令我哋覺得好安心。其他船嘅教練都一樣咁友善，大家互相潑水、比賽超船，令2個鐘嘅泛舟活動充滿咗歡笑。我哋仲遇到咗嚟自沙烏地阿拉伯同韓國嘅遊客，大家傾得好開心，呢段經歷亦令我哋練習咗英文同韓文，真係太有趣喇。
 
-「泛舟須知與常見問題」請睇[呢度](/blog/2025-03-28-67e62aa8fd89780001888620/)
+「泛舟須知與常見問題」請睇[呢度](/blog/bali-rafting-ayung-telaga-waja/)
 
 ### **特家司機嘅貼心服務——滿足所有願望**
 
@@ -58,7 +58,7 @@ _srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
 
 我哋嘅包車司機特家，唔單止令我哋嘅梯田同盪鞦韆願望一次過滿足，仲帶我哋去咗好多隱藏嘅美景。特別係喺梯田盪鞦韆嗰度，呢度嘅風景靚到令人屏息，而且仲有得租長尾禮服，令我一下子變身成為仙女，真係太夢幻喇！
 
-> [烏布玩秋千：峇里島最美嘅8個鞦韆拍照勝地｜烏布鞦韆/租禮服攻略](/blog/2025-08-15-689eb518fd897800014fbb28/)
+> [烏布玩秋千：峇里島最美嘅8個鞦韆拍照勝地｜烏布鞦韆/租禮服攻略](/blog/ubud-jungle-swings-photo-guide/)
 
 🛕🐒🌿烏布一日遊，探索IG熱門景點、欣賞鬼斧神工自然美景，享受當地美食與麝香貓咖啡 ☕📸，文化與自然嘅完美結合 ▶[Klook 50+旅程任選](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989417&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E7%2583%258F%25E5%25B8%2583%25E4%25B8%2580%25E6%2597%25A5%26sort%3Dmost_relevant%26tab_key%3D0%26start%3D1)
 
@@ -70,7 +70,7 @@ _srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
 
 喺Paperhills咖啡廳，我哋好彩睇到壯觀嘅巴杜爾火山，呢座活火山全貌清晰可見，真係令人驚嘆。呢間咖啡廳總共有四層，每一層都可以影到靚相，著住自己準備嘅衫，喺呢度隨便影都係網美相。包車嘅好處就係，我哋可以大包小包帶住各種裝備，隨時隨地都可以捕捉到美好嘅瞬間。
 
-> 延伸閱讀：[峇里島金塔瑪尼12大景觀咖啡廳推薦](/blog/2024-11-27-67467629fd897800018d71d1/) 🌄☕
+> 延伸閱讀：[峇里島金塔瑪尼12大景觀咖啡廳推薦](/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
 
 ### **Rijasa Agung 烏布阿貢里加薩飯店——寧靜與舒適嘅完美結合**
 
@@ -82,13 +82,13 @@ _srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
 
 [**▶Rijasa Agung Resort and Villas 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341)
 
-已收錄喺[【峇里島烏布住宿】烏布28家特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/blog/2024-02-20-65d21157fd897800013be576/)
+已收錄喺[【峇里島烏布住宿】烏布28家特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/blog/ubud-villas-pool-guide/)
 
 ### **Jungle Cart 叢林卡丁車——峇里島嘅新奇體驗**
 
 卡丁車可能好多人都玩過，但可以喺烏布嘅叢林道路上駕駛，呢個係峇里島獨有嘅新玩法！我哋喺稻田景色中飛馳，途中仲有嗨歌前導車幫手確認路況，沿途有雞飛狗跳、牛懶洋洋咁叫，30分鐘嘅體驗雖然短暫，但充滿無限樂趣。
 
-可以睇吓呢度有完整嘅介紹：[峇里島烏布叢林馬力歐賽車 Jungle Cart Bali](/blog/2024-07-06-66892d20fd8978000183776c/)
+可以睇吓呢度有完整嘅介紹：[峇里島烏布叢林馬力歐賽車 Jungle Cart Bali](/blog/ubud-jungle-cart-adventure/)
 
 🏎️🏎️ [Jungle Cart預約體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880814&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F121396-ubud-jungle-cart-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbeaf072d1f)
 
@@ -106,31 +106,31 @@ _srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
 
 ## 親子旅遊延伸閱讀：
 
-- [峇里島家庭親子友善景點大全｜峇里島超過100樣適合親子同樂活動](/blog/2023-03-05-64db6b81fd897800013a98b4/)
-- [帶小朋友去峇里島家庭旅遊嘅20個注意要點](/blog/2024-04-15-661cecd5fd897800019390f6/)
-- [峇里島親子遊：帶嬰兒、幼童同埋學齡兒童去度假嘅一啲提示](/blog/2023-11-06-6544370afd89780001e1546c/)
-- [峇里島搵保母指南：如何搵到適合嘅保母及費用概況](/blog/2024-11-10-67301111fd897800016667a1/)
-- [帶寶寶去峇里島：攜帶含豬肉、雞肉副食品嘅注意事項](/blog/2025-03-04-67c6dce0fd8978000195cf12/)
-- [峇里島親子樂園：十五家擁有滑水道溜滑梯嘅親子渡假村 TOP 15](/blog/2024-01-16-65a51edbfd89780001ffc7b2/)
-- [推薦峇里島18家庭親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖適合家庭度假、親子放鬆嘅最佳選擇](/blog/2024-05-14-66405077fd89780001f23b72/)
-- [烏布55項親子活動帶小朋友最輕鬆！](/blog/2024-01-10-659cf4a5fd89780001d6fb69/)
-- [峇里島最適合親子度假嘅海濱：沙努爾攻略地圖｜45項吃喝玩樂](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/blog/2024-05-17-6647416cfd89780001f5a5ef/)
-- [峇里島親子遊唔可以錯過：峇里島動物園 Bali Safari 要點玩樂、夜宿攻略](/blog/2023-07-25-64db6b8cfd897800013a9ab1/)
-- [2025新開幕](/blog/2025-01-23-6791ea5dfd89780001a7a07c/) [Marine Safari Bali 峇里島海洋野生動物園攻略](/blog/2025-01-23-6791ea5dfd89780001a7a07c/)
-- [與羊駝互動野餐：孩子們嘅自然課堂](/blog/2025-02-01-679e01b3fd89780001addbd9/)
-- [Nuanu Creative City 嘅魔法花園 Magic Garden](/blog/2025-04-18-679f922ffd89780001f9a868/)
-- [Jungle Kids Bali | Nuanu 嘅 Kids Club：最適合孩子嘅遊樂與學習空間](/blog/2025-04-18-67a402f9fd897800017c0313/)
-- [峇里島奇幻之旅：喺峇里島海洋公園遇見《Varuna Show》嘅水下魔法](/blog/2025-06-08-684569f0fd89780001f24ef9/)
-- [峇里島親子旅遊攻略 - 水明漾篇](/blog/2025-02-15-67ac4321fd897800015b9a11/)
-- [峇里島親子旅遊攻略 - 烏布篇](/blog/2025-02-16-67b0a910fd89780001798c4e/)
-- [峇里島親子旅遊攻略 - 沙努爾篇](/blog/2025-02-22-67b81b4cfd89780001b4a261/)
-- [峇里島親子樂園 Titi Batu Ubud Club 一日體驗：健身、玩樂與放鬆嘅完美結合](/blog/2025-09-05-68bacc2ffd897800011175a7/)
-- [峇里島睇海龜全指南：從庫塔到沙努爾，親子必訪嘅海龜保育據點](/blog/2025-10-23-68f9b567fd89780001795353/)
-- [Bali Bird Park 峇里島鳥園終極攻略：珍稀鳥種、互動活動與生態保育嘅奇幻旅程](/blog/2025-10-25-68fc1e0cfd89780001736727/)
-- [The Firefly Garden 螢火蟲花園：峇里島最閃耀嘅生態保育與旅遊勝地](/blog/2025-08-24-68aa8849fd8978000171256a/)
-- [🎮 ZONE OUT Bali：庫塔最型嘅虛擬實境冒險基地！](/blog/2025-11-05-690b2c7bfd89780001f3ea8d/)
-- [夜幕下嘅幻光雨林：峇里島烏布Hikaria沉浸式光影藝術體驗](/blog/2025-11-10-69113993fd897800015bfa87/)
+- [峇里島家庭親子友善景點大全｜峇里島超過100樣適合親子同樂活動](/blog/bali-family-travel-guide/)
+- [帶小朋友去峇里島家庭旅遊嘅20個注意要點](/blog/bali-family-travel-tips/)
+- [峇里島親子遊：帶嬰兒、幼童同埋學齡兒童去度假嘅一啲提示](/blog/bali-family-travel-guide-2/)
+- [峇里島搵保母指南：如何搵到適合嘅保母及費用概況](/blog/bali-nanny-hiring-guide/)
+- [帶寶寶去峇里島：攜帶含豬肉、雞肉副食品嘅注意事項](/blog/baby-food-bali-tips/)
+- [峇里島親子樂園：十五家擁有滑水道溜滑梯嘅親子渡假村 TOP 15](/blog/bali-family-resorts-water-slides/)
+- [推薦峇里島18家庭親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖適合家庭度假、親子放鬆嘅最佳選擇](/blog/bali-family-resorts-kids-club/)
+- [烏布55項親子活動帶小朋友最輕鬆！](/blog/ubud-with-kids-guide/)
+- [峇里島最適合親子度假嘅海濱：沙努爾攻略地圖｜45項吃喝玩樂](/blog/sanur-guide/)
+- [峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/blog/bali-family-day-safari-flamingo/)
+- [峇里島親子遊唔可以錯過：峇里島動物園 Bali Safari 要點玩樂、夜宿攻略](/blog/bali-safari-night-stay/)
+- [2025新開幕](/blog/marine-safari-bali-guide/) [Marine Safari Bali 峇里島海洋野生動物園攻略](/blog/marine-safari-bali-guide/)
+- [與羊駝互動野餐：孩子們嘅自然課堂](/blog/pacha-alpaca-family-canggu/)
+- [Nuanu Creative City 嘅魔法花園 Magic Garden](/blog/nuanu-magic-garden-bali/)
+- [Jungle Kids Bali | Nuanu 嘅 Kids Club：最適合孩子嘅遊樂與學習空間](/blog/jungle-kids-bali-nuanu-playground/)
+- [峇里島奇幻之旅：喺峇里島海洋公園遇見《Varuna Show》嘅水下魔法](/blog/varuna-show-bali-safari/)
+- [峇里島親子旅遊攻略 - 水明漾篇](/blog/seminyak-family-travel-2026/)
+- [峇里島親子旅遊攻略 - 烏布篇](/blog/ubud-family-travel-2026/)
+- [峇里島親子旅遊攻略 - 沙努爾篇](/blog/sanur-family-travel-guide-2/)
+- [峇里島親子樂園 Titi Batu Ubud Club 一日體驗：健身、玩樂與放鬆嘅完美結合](/blog/titi-batu-ubud-family-club/)
+- [峇里島睇海龜全指南：從庫塔到沙努爾，親子必訪嘅海龜保育據點](/blog/bali-turtle-watching-guide/)
+- [Bali Bird Park 峇里島鳥園終極攻略：珍稀鳥種、互動活動與生態保育嘅奇幻旅程](/blog/bali-bird-park-guide/)
+- [The Firefly Garden 螢火蟲花園：峇里島最閃耀嘅生態保育與旅遊勝地](/blog/the-firefly-garden-ubud/)
+- [🎮 ZONE OUT Bali：庫塔最型嘅虛擬實境冒險基地！](/blog/zone-out-bali-vr-adventure/)
+- [夜幕下嘅幻光雨林：峇里島烏布Hikaria沉浸式光影藝術體驗](/blog/hikaria-ubud-light-show/)
 - 峇里島家庭親子旅遊專欄
 
 你覺得林小昭佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去群組投稿你嘅行程喔！
@@ -139,20 +139,20 @@ _srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
 
 撳呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但唔知點樣落手？可以參考吓「[如何寫一篇精彩嘅峇里島遊記](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，幫你嘅遊記更加出色！
+你都想寫遊記但唔知點樣落手？可以參考吓「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出色！
 
 ## 參考攻略：
 
-- [峇里島水明漾60個景點攻略](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [峇里島水明漾60個景點攻略](/blog/seminyak-guide/)
 - [庫塔必訪50個景點攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [坎古50個必遊景點](/blog/2023-02-11-64db6b7efd897800013a9815/)
-- [烏布探索嘅50個方式](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [金巴蘭攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)
-- [烏魯瓦圖攻略](/blog/2024-03-07-65dfd410fd897800019f4b40/)
-- [沙努爾45項吃喝玩樂攻略](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [努沙杜瓦40個住宿美食活動攻略](/blog/2024-01-25-65afb7bbfd897800017023b4/)
-- [佩尼達島吃喝玩樂全攻略](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [藍夢島/金銀島景點全攻略](/blog/2024-10-23-66adfb9afd89780001f62df1/)
-- [Nuanu Creative City攻略](/blog/2025-04-18-68026619fd89780001f56243/)
-- [科摩多島攻略](/blog/2025-05-04-681601c6fd8978000139f8a3/)
-- [Amed/Tulamben攻略](/blog/2025-06-23-68578b01fd89780001dd5208/)
+- [坎古50個必遊景點](/blog/canggu-guide/)
+- [烏布探索嘅50個方式](/blog/ubud-guide/)
+- [金巴蘭攻略](/blog/jimbaran-guide/)
+- [烏魯瓦圖攻略](/blog/uluwatu-guide/)
+- [沙努爾45項吃喝玩樂攻略](/blog/sanur-guide/)
+- [努沙杜瓦40個住宿美食活動攻略](/blog/nusa-dua-guide/)
+- [佩尼達島吃喝玩樂全攻略](/blog/nusa-penida-guide/)
+- [藍夢島/金銀島景點全攻略](/blog/nusa-lembongan-ceningan-guide/)
+- [Nuanu Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
+- [科摩多島攻略](/blog/komodo-island-labuan-bajo-travel/)
+- [Amed/Tulamben攻略](/blog/amed-tulamben-diving-guide/)

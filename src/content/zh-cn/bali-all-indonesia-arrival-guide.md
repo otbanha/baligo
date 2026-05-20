@@ -38,8 +38,8 @@ _srcHash: 48bc7f1293cfd32273f6f5013254ec1a
 
 ### **行前必做**：
 
-1. 务必先完成申请电子签证eVisa。请参考[这里](/blog/2024-02-06-65c217c5fd897800010113af/)有进一步的说明，避免进入诈骗网站。
-2. 出发前三天完成AIAC入境卡，并**截图QR Code**备查。请看本站整理[常见问题FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)。
+1. 务必先完成申请电子签证eVisa。请参考[这里](/blog/bali-evisa-application-guide/)有进一步的说明，避免进入诈骗网站。
+2. 出发前三天完成AIAC入境卡，并**截图QR Code**备查。请看本站整理[常见问题FAQ](/blog/bali-evisa-customs-health-declaration/)。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
 
@@ -57,7 +57,7 @@ _srcHash: 48bc7f1293cfd32273f6f5013254ec1a
 - **排队柜台**：落地签者需排队查验。
 - **电子通关**：事先申请/缴费eVisa者免排队人工盖章，可使用「自动通关闸门」。
 
-▶️ 如何自动通关？请看[巴厘岛自动通关流程攻略](/blog/2024-02-06-65c1defcfd89780001f79bfd/)
+▶️ 如何自动通关？请看[巴厘岛自动通关流程攻略](/blog/2025-bali-automatic-customs/)
 
 ### **4️⃣ 领取行李**
 
@@ -79,9 +79,9 @@ _srcHash: 48bc7f1293cfd32273f6f5013254ec1a
 
 - 费用：15万印尼盾/人（约USD$10）。
 
-▶️ 如何缴纳？请看[观光税](/blog/2024-01-03-65955989fd89780001a95927/)说明
+▶️ 如何缴纳？请看[观光税](/blog/2026-bali-tourism-tax-guide/)说明
 
-👉**额外说明:** [入境印尼/巴厘岛的小朋友签证/儿童签证攻略](/blog/2025-12-24-694bf0d9fd89780001214e1c/)
+👉**额外说明:** [入境印尼/巴厘岛的小朋友签证/儿童签证攻略](/blog/bali-child-visa-guide/)
 
 ## ⏰ 多久前要办理？
 
@@ -103,7 +103,7 @@ _srcHash: 48bc7f1293cfd32273f6f5013254ec1a
 
 ## **💡 申请电子签证/All Indonesia时可能遇到的常见问题**
 
-请参考[本站FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)
+请参考[本站FAQ](/blog/bali-evisa-customs-health-declaration/)
 
 ***
 

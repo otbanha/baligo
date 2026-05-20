@@ -29,9 +29,9 @@ _srcHash: 978d7663785357a2182e194f5163b601
 
 想留喺熱鬧中心？南部地區如**水明漾（Seminyak）**、**庫塔（Kuta）**同**坎古（Canggu）**係絕佳選擇。呢度有高級別墅、節慶自助餐、購物商場同兒童活動，令全家人都能感受聖誕嘅歡樂。
 
-- [峇里島水明漾100個景點攻略](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [峇里島水明漾100個景點攻略](/blog/seminyak-guide/)
 - [庫塔必訪50個景點攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [坎古 100個必遊景點](/blog/2023-02-11-64db6b7efd897800013a9815/)
+- [坎古 100個必遊景點](/blog/canggu-guide/)
 
 ### **文化與寧靜兼具嘅地區**
 
@@ -39,9 +39,9 @@ _srcHash: 978d7663785357a2182e194f5163b601
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_45dd2d1531eeed43e5e6776b3205d148.jpg)
 
-- [烏布探索嘅100個方法](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [沙努爾50項吃喝玩樂攻略](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [努沙杜瓦40個住宿美食活動攻略](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+- [烏布探索嘅100個方法](/blog/ubud-guide/)
+- [沙努爾50項吃喝玩樂攻略](/blog/sanur-guide/)
+- [努沙杜瓦40個住宿美食活動攻略](/blog/nusa-dua-guide/)
   ---
 
 ## **喺峇里島聖誕購物嘅樂趣**
@@ -128,7 +128,7 @@ _srcHash: 978d7663785357a2182e194f5163b601
 🎅 有木偶劇、細路合唱團同聖誕老人出現。
 
 💰 **每人約 IDR 400K–450K。**
-  **快速參考：**[【峇里島五星豪華推薦】St. Regis Bali Resort 瑞吉渡假酒店](/blog/2025-01-19-678ce3f3fd8978000139e3bf/)
+  **快速參考：**[【峇里島五星豪華推薦】St. Regis Bali Resort 瑞吉渡假酒店](/blog/st-regis-bali-resort/)
 
 ### **🌅 Arwana Restaurant – The Laguna, Nusa Dua**
 
@@ -149,7 +149,7 @@ _srcHash: 978d7663785357a2182e194f5163b601
 👨‍👩‍👧‍👦 有兒童角同埋現場魔術表演。
 
 💰 **大人約 IDR 1,600K，小童半價。**
-  **快速參考：**[【峇里島五星奢華推薦】豪華度假村推薦 Mulia Resort](/blog/2025-01-19-678cd483fd8978000137dedf/)
+  **快速參考：**[【峇里島五星奢華推薦】豪華度假村推薦 Mulia Resort](/blog/mulia-resort-bali-luxury/)
 
 ## **金巴蘭（Jimbaran）區**
 
@@ -170,7 +170,7 @@ _srcHash: 978d7663785357a2182e194f5163b601
 提供「Traditional Christmas Roast」同素食選擇。
 
 💰 **成人 IDR 1,200K 起。**
-  **快速參考：**[【峇里島阿雅那】Ayana Bali 住宿懶人包》Ayana Segara, RIMBA, Ayana Resort..](/blog/2023-10-26-653914f6fd89780001fef733/)
+  **快速參考：**[【峇里島阿雅那】Ayana Bali 住宿懶人包》Ayana Segara, RIMBA, Ayana Resort..](/blog/ayana-resort-bali-guide/)
 
 ### Four Seasons Resort Bali at Jimbaran Bay
 
@@ -178,7 +178,7 @@ _srcHash: 978d7663785357a2182e194f5163b601
 - - 12／24 & 12／25 晚：法式‐亞洲融合五道菜晚宴「Festive Set Dinner at Sundara」喺 18:00–23:00，價位為 **IDR 1,450,000／人**。
     - 聖誕節午餐（12／25）Brunch 時段 11:00–16:00，成人價位為 **IDR 1,500,000／人**。
     - 12／31 跨年晚宴： Buffet + 煙火同派對氛圍；成人價位例如五道菜＋香檳＋酒水無限為 **IDR 7,000,000／人**。
-  **快速參考：**[峇里島住宿：金巴蘭四季酒店開箱 & 優惠](/blog/2024-08-09-66b5be79fd897800016df66e/)]
+  **快速參考：**[峇里島住宿：金巴蘭四季酒店開箱 & 優惠](/blog/four-seasons-bali-jimbaran-bay/)]
 
 ### InterContinental Bali Resort
 
@@ -229,7 +229,7 @@ _srcHash: 978d7663785357a2182e194f5163b601
 
 峇里島著名嘅文化表演節目《Devdan Show》喺聖誕節推出特別場，結合傳統舞蹈同節慶元素。觀眾可以欣賞煙火、燈光秀同聖誕老人驚喜現身，氣氛夢幻又感人。
 
-我哋有詳細嘅介紹請睇[呢度](/blog/2025-06-21-68557a29fd897800017f4272/)
+我哋有詳細嘅介紹請睇[呢度](/blog/devdan-show-nusa-dua/)
 
 > [Klook購票連結](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
 > [kkday購票連結](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=17351)
@@ -380,6 +380,6 @@ _srcHash: 978d7663785357a2182e194f5163b601
 
 ### Q6：如果突然落雨點算？
 
-唔使擔心！我哋準備咗60個峇里島落雨時可以做嘅活動。睇吓[呢度](/blog/2024-01-06-6598c6fffd89780001047d76/)。
+唔使擔心！我哋準備咗60個峇里島落雨時可以做嘅活動。睇吓[呢度](/blog/2026-bali-indoor-activities/)。
   ---
  BLOCK0 

@@ -151,7 +151,7 @@ Some visa types can be changed within the country, but specific conditions must 
 
 ### 6️⃣ More questions about the application?
 
-Please refer to our [Indonesia/Bali Visa Guide](/blog/2023-01-13-64db6b7dfd897800013a978a/) for more information.
+Please refer to our [Indonesia/Bali Visa Guide](/blog/indonesia-bali-visa-evoa-faq/) for more information.
 
 ## 📩 **Join "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 

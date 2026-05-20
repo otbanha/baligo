@@ -45,7 +45,7 @@ Sophie嘅六日峇里島自由行遊記分享
 - **15:20**：抵達峇里島機場，準備展開峇里島之旅。司機提到雖然係雨季，但已經好耐冇落雨了。
 - **16:00**：抵達機場，兌換一啲當地貨幣。建議搵一間可靠嘅找換店。
 
-> （延伸閱讀：[關於換匯你必須知道的全部懶人包](/blog/2024-01-28-65b5c7e2fd89780001e96fac/)）
+> （延伸閱讀：[關於換匯你必須知道的全部懶人包](/blog/bali-currency-exchange-guide/)）
 
 - **18:00**：品嚐水上發呆亭髒鴨飯嘅絕佳選擇 - [Bebek Tebasari Resto](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6380339e0f)。呢間餐廳非常值得推薦。
 
@@ -63,7 +63,7 @@ Bebek Tebasari Resto 圖：Sophie提供
 
 > [阿勇河泛舟](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)[阿勇河泛舟（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
-快速參考：[峇里島泛舟攻略（泛舟常見問題FAQ）](/blog/2025-03-28-67e62aa8fd89780001888620/)
+快速參考：[峇里島泛舟攻略（泛舟常見問題FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
 
 - **13:00**：品嚐美味嘅午餐，並欣賞Tis Cafe旁嘅梯田風景。
 
@@ -85,7 +85,7 @@ Tis Cafe 圖：Sophie提供
 
 喺烏布度過毛毛雨嘅上午，然後去Penida島
 
-- **09:00** [Omma Dayclub](/blog/2023-11-27-65647143fd897800014b96f1/) 峇里瀑布+午餐
+- **09:00** [Omma Dayclub](/blog/ubud-omma-dayclub-tegenungan-waterfall/) 峇里瀑布+午餐
 
 ![Omma Dayclub  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_699d0a9f7a85019dac97b82980480d3f.jpg)
 
@@ -101,7 +101,7 @@ Atuh Beach 圖：Sophie提供
 
 - **15:00**：佩尼達島上享受陽光普照嘅下午同傍晚。
 
-> （延伸閱讀：[【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/2023-08-16-64db6b82fd897800013a9942/)）
+> （延伸閱讀：[【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)）
 
 ## 1/21第四日：探索Nusa Penida島
 
@@ -109,7 +109,7 @@ Atuh Beach 圖：Sophie提供
 
 - **07:00**：喺酒店附近進行浮潛活動。
 
-> (延伸閱讀：[Nusa Penida 努沙佩尼達島嘅浮潛點介紹，點樣參加浮潛？](/blog/2023-11-02-654249defd89780001041c87/))
+> (延伸閱讀：[Nusa Penida 努沙佩尼達島嘅浮潛點介紹，點樣參加浮潛？](/blog/nusa-penida-snorkeling-guide/))
 
 - **09:00**：參觀Kelingking Beach，探索精靈海岸。
 - **13:00**：探訪Broken Beach同Angel's Billabong，欣賞壯觀嘅自然景觀。
@@ -119,7 +119,7 @@ Atuh Beach 圖：Sophie提供
 
 唔使排隊嘅天空之門 圖：Sophie提供
 
-> （延伸閱讀：[Amarta Penida介紹](/blog/2023-10-22-65348754fd89780001b2a259/)）
+> （延伸閱讀：[Amarta Penida介紹](/blog/nusa-penida-best-restaurants/)）
 
 ## 1/22 第五日：Nusa Penida島同金巴蘭
 
@@ -132,7 +132,7 @@ Diamond Beach 圖：Sophie提供
 
 - **17:00**：返到峇里島，喺金巴蘭海灘享受美味嘅晚餐+燒粟米，仲有超夢幻嘅日落，結束一日嘅旅程。
 
-（延伸閱讀：[金巴蘭九間海鮮餐廳推薦](/blog/2023-11-09-654b8438fd897800016bf4cc/)）
+（延伸閱讀：[金巴蘭九間海鮮餐廳推薦](/blog/jimbaran-guide/)）
 
 ![金巴蘭夕陽晚餐  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_0b40e77d3c97f550983e107d821f854b.jpg)
 
@@ -149,12 +149,12 @@ Wahaha食過嘅都話正！
 
 識貨嘅都知要去Prema Rasa買手信
 
-**快速參考：**[【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+**快速參考：**[【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/bali-souvenirs-gift-guide/)
 
 - **14:30** 出發去機場。旅程最後一日安排喺庫塔、金巴蘭呢一帶嘅好處係「完全唔使擔心趕唔切上機」㗎！
 
 > （延伸閱讀：[庫塔旅遊攻略：50個必訪景點、美食、推薦SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)）  
-> （延伸閱讀：[金巴蘭自由行：推薦31個玩樂景點全攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)）
+> （延伸閱讀：[金巴蘭自由行：推薦31個玩樂景點全攻略](/blog/jimbaran-guide/)）
 
 - **16:30**：同峇里島講拜拜，準時起飛。
 

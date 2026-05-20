@@ -33,7 +33,7 @@ If you plan to work in Bali, you need to ensure that your visa and legal require
 
 No one wants to be an illegal visa holder, so let's explain the visa options available for remote work in Indonesia:
 
->>Reference: [Latest FAQ on Visa Changes for Entering Bali, Indonesia](/blog/2024-01-17-65a7f34dfd897800010017db/)
+>>Reference: [Latest FAQ on Visa Changes for Entering Bali, Indonesia](/blog/2025-bali-visa-update-faq/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dd41d77001052cf97d5e040eff2b57b5.jpg)
 

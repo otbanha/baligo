@@ -109,7 +109,7 @@ We lounged on the daybeds by the pool, watching the sunset paint the sky in shad
 
 If you're visiting Bali, consider spending an afternoon here to enjoy the food, scenery, and that unique vacation vibe—perhaps, like me, you'll start seriously thinking: 'Next time, should I just stay here?'
 
-> [Introduction to The Apurva Kempinski Bali](/blog/2024-04-22-660ff581fd89780001f31315/)
+> [Introduction to The Apurva Kempinski Bali](/blog/apurva-kempinski-bali-nusa-dua/)
 
 This is a place that makes you reluctant to leave, perhaps this is the charm of Bali! 🌴☕️
 

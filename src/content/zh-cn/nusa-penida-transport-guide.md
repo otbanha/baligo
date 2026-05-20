@@ -30,10 +30,10 @@ _srcHash: b30ffdb437f971bacd1e88f66bdee728
 
 针对佩尼达岛我们共有五集介绍，一起来更深入认识这个海岛天堂！其他四集这里有传送门：
 
-1. [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/2023-08-16-64db6b82fd897800013a9942/)
-2. [佩尼达岛美食和碧海蓝天：Nusa Penida的Top 9绝佳选择](/blog/2023-10-22-65348754fd89780001b2a259/)
-3. [Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/2023-11-02-654249defd89780001041c87/)
-4. [佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+1. [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
+2. [佩尼达岛美食和碧海蓝天：Nusa Penida的Top 9绝佳选择](/blog/nusa-penida-best-restaurants/)
+3. [Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/)
+4. [佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
 
 ## Gojek/Grab...等网约车有吗？
 
@@ -80,7 +80,7 @@ Nusa Penida目前目前还没有，估计以后也不会有Grab和Gojek服务，
 
 说到小费，给小费表示您对司机的感谢，这将受到高度赞赏。如果您对体验感到满意，给予10%至20%的小费是适当的，当然，如果您负担得起，当然是多多益善咯！
 
-那么佩尼达岛的包车司机怎么找呢?请参考: [佩尼达岛包车司机怎么选?｜旅人实用推荐包车与安排方式](/blog/2025-06-17-685101c0fd89780001e221f4/)
+那么佩尼达岛的包车司机怎么找呢?请参考: [佩尼达岛包车司机怎么选?｜旅人实用推荐包车与安排方式](/blog/nusa-penida-private-driver-guide/)
 
 > 请参考Klook提供的[佩尼达岛私人包车旅游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=799894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23014-nusa-penida-private-car-charter-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D54b6524de7)
 
@@ -88,10 +88,10 @@ Nusa Penida目前目前还没有，估计以后也不会有Grab和Gojek服务，
 
 ## 佩尼达岛旅游懒人包
 
-- 佩尼达岛[景点攻略](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- 佩尼达岛[用餐赏美景攻略](/blog/2023-10-22-65348754fd89780001b2a259/)
-- 佩尼达岛[浮潜潜点攻略](/blog/2023-11-02-654249defd89780001041c87/)
-- 佩尼达岛[住宿攻略](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+- 佩尼达岛[景点攻略](/blog/nusa-penida-guide/)
+- 佩尼达岛[用餐赏美景攻略](/blog/nusa-penida-best-restaurants/)
+- 佩尼达岛[浮潜潜点攻略](/blog/nusa-penida-snorkeling-guide/)
+- 佩尼达岛[住宿攻略](/blog/nusa-penida-hotels-guide/)
 
 {{block:攻略}}
 

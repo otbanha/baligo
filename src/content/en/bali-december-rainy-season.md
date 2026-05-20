@@ -91,4 +91,4 @@ With fewer tourists than in peak season and cheaper accommodations, this period 
 
 The rainy season is never an obstacle to travel; it just reminds you to change your pace.
 
-Want to know what to do when it rains? Or what emergency Plan B to have when sudden downpours disrupt your itinerary? Check out our [60 Rainy Day Alternatives in Bali](/blog/2024-01-06-6598c6fffd89780001047d76/)!
+Want to know what to do when it rains? Or what emergency Plan B to have when sudden downpours disrupt your itinerary? Check out our [60 Rainy Day Alternatives in Bali](/blog/2026-bali-indoor-activities/)!

@@ -90,7 +90,7 @@ Here, the photographer made full use of the drone, capturing the waterfall's ful
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e4e3b5818941b29c25a2d591ec46a08d.jpg)
 
-Want to learn more about Ubud travel tips? [Click here](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+Want to learn more about Ubud travel tips? [Click here](/blog/ubud-guide/)
 
 ## Return Journey - 15:00 Back to Kuta
 

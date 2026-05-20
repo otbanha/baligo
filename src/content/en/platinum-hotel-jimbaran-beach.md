@@ -186,8 +186,8 @@ The hotel's location is truly unbeatable, and the view from the rooftop terrace 
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
 
-[Click here for the complete guide to Jimbaran](/blog/2023-11-09-654b8438fd897800016bf4cc/)
+[Click here for the complete guide to Jimbaran](/blog/jimbaran-guide/)
 
-Jimbaran is a coastal paradise on Bali known for its romantic atmosphere and delicious food, featuring stunning golden beaches and magnificent sunset views. The seafood barbecue restaurant street here is a must-try culinary experience, along with luxurious resorts and tranquil fishing village vibes, allowing travelers to enjoy both luxury and local life. Whether it's a family trip or a romantic date, Jimbaran can meet your expectations! Want to know more about Jimbaran? [Click here](/blog/2023-11-09-654b8438fd897800016bf4cc/).
+Jimbaran is a coastal paradise on Bali known for its romantic atmosphere and delicious food, featuring stunning golden beaches and magnificent sunset views. The seafood barbecue restaurant street here is a must-try culinary experience, along with luxurious resorts and tranquil fishing village vibes, allowing travelers to enjoy both luxury and local life. Whether it's a family trip or a romantic date, Jimbaran can meet your expectations! Want to know more about Jimbaran? [Click here](/blog/jimbaran-guide/).
 
 {{block:住宿}}

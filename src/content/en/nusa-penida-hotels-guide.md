@@ -26,10 +26,10 @@ _srcHash: 4a95658cd32a2f78895403069b4dcffe
 
 We have a total of five episodes introducing Nusa Penida, so let's dive deeper into this island paradise! Here are links to the other four episodes:
 
-1. [Bali - Complete Nusa Penida Guide: Maps, Ferries, Accommodations, Transportation, Private Cars, Activities, Photography, Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)
-2. [Nusa Penida Cuisine and Azure Skies: Top 9 Must-Try Experiences](/blog/2023-10-22-65348754fd89780001b2a259/)
-3. [Nusa Penida Snorkeling Spots: How to Join a Snorkeling Tour?](/blog/2023-11-02-654249defd89780001041c87/)
-4. [Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Cars, and Scooters](/blog/2024-01-16-65a5e069fd897800010625d0/)
+1. [Bali - Complete Nusa Penida Guide: Maps, Ferries, Accommodations, Transportation, Private Cars, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+2. [Nusa Penida Cuisine and Azure Skies: Top 9 Must-Try Experiences](/blog/nusa-penida-best-restaurants/)
+3. [Nusa Penida Snorkeling Spots: How to Join a Snorkeling Tour?](/blog/nusa-penida-snorkeling-guide/)
+4. [Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Cars, and Scooters](/blog/nusa-penida-transport-guide/)
 
 ## Nusa Penida Accommodation Guide – Frequently Asked Questions
 
@@ -341,9 +341,9 @@ Dayuh House is perfect for solo travelers or couples. Whether you're traveling a
 
 ## Comprehensive Guide to Nusa Penida:
 
-1. [Bali - Complete Guide to Nusa Penida: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)
-2. [Nusa Penida Cuisine and Azure Seas: Top 9 Picks in Nusa Penida](/blog/2023-10-22-65348754fd89780001b2a259/)
-3. [Introduction to Snorkeling Spots in Nusa Penida, How to Join Snorkeling?](/blog/2023-11-02-654249defd89780001041c87/)
-4. [Guide to Taxis, Gojek/Grab, Private Cars, and Motorcycle Transportation in Nusa Penida](/blog/2024-01-16-65a5e069fd897800010625d0/)
+1. [Bali - Complete Guide to Nusa Penida: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+2. [Nusa Penida Cuisine and Azure Seas: Top 9 Picks in Nusa Penida](/blog/nusa-penida-best-restaurants/)
+3. [Introduction to Snorkeling Spots in Nusa Penida, How to Join Snorkeling?](/blog/nusa-penida-snorkeling-guide/)
+4. [Guide to Taxis, Gojek/Grab, Private Cars, and Motorcycle Transportation in Nusa Penida](/blog/nusa-penida-transport-guide/)
 
 {{block:penidaklook}}

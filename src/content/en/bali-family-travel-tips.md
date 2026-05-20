@@ -34,9 +34,9 @@ Currently, a visa is required to enter Indonesia! Taiwanese travelers can apply 
 
 Additionally, everyone must complete/submit the electronic customs declaration/tourism tax. Please refer to the link below:
 
-> Further Reading: [Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2023-12-07-65717449fd89780001fda950/)
+> Further Reading: [Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2025-bali-immigration-process/)
 
-The advantage of applying for an eVisa in advance is that you can skip the queue entirely upon arrival and use the automated immigration gates, bypassing passport checks. However, children under 6 cannot use the automated gates, but there are dedicated counters to assist them (see: [Quick and Easy! 2024 Bali Automated Immigration Process & Tips](/blog/2024-02-06-65c1defcfd89780001f79bfd/))
+The advantage of applying for an eVisa in advance is that you can skip the queue entirely upon arrival and use the automated immigration gates, bypassing passport checks. However, children under 6 cannot use the automated gates, but there are dedicated counters to assist them (see: [Quick and Easy! 2024 Bali Automated Immigration Process & Tips](/blog/2025-bali-automatic-customs/))
 
 ###
 
@@ -60,13 +60,13 @@ When traveling in Bali, mobile phones and internet connectivity are essential. T
 
 In Bali, ensuring your phone can connect to the internet is crucial. It helps you easily find information, stay in touch with family and friends, use navigation apps, and more, making your trip more convenient and enjoyable.
 
-> Further reading: [Bali Travel Essentials: How to Get Bali Internet/SIM Card?](/blog/2024-03-21-65f916bbfd89780001b916e0/)
+> Further reading: [Bali Travel Essentials: How to Get Bali Internet/SIM Card?](/blog/bali-sim-card-esim-roaming-guide/)
 
 ### Voltage and Plugs:
 
 The voltage standard in Indonesia and Bali is **220 volts (220V)**, which is important information for travelers planning to bring electrical appliances. Before deciding which appliances to bring, make sure your devices support the international standard of 220 volts and have the appropriate plug type to ensure they can be used normally in Indonesia and Bali!
 
-> Further reading: [What is the voltage/plug type in Bali? How to prepare?](/blog/2023-11-30-65686558fd89780001fef654/)
+> Further reading: [What is the voltage/plug type in Bali? How to prepare?](/blog/bali-voltage-adapter-tips/)
 
 ### Currency Exchange:
 
@@ -78,13 +78,13 @@ The currency of Indonesia is the Indonesian Rupiah (Rupiah, code IDR), which is 
 
 Bali has a hot climate, so it's recommended to bring lightweight, breathable clothing, sunscreen, swimwear, hats, sunglasses, and more. For a detailed packing list, refer here:
 
-> [What to Pack for Bali? 21 Essential Items](/blog/2023-02-12-64db6b7efd897800013a9821/)
+> [What to Pack for Bali? 21 Essential Items](/blog/bali-travel-essentials/)
 
 ### Medications:
 
 It's advisable to bring your usual medications, but Indonesia/Bali has strict regulations on drugs/prescription medications. Medications legal in other countries may be prohibited in Indonesia! If you need to bring medications, please carefully read the following link:
 
-> [Important Notes on Bringing Sleeping Pills/Special Prescription Medications to Indonesia/Bali](/blog/2024-03-16-65f4f94ffd897800016b340a/)
+> [Important Notes on Bringing Sleeping Pills/Special Prescription Medications to Indonesia/Bali](/blog/bali-medication-import-guide/)
 
 ### **Insect Repellent**:
 
@@ -117,13 +117,13 @@ The primary modes of transportation for traveling in Bali are car rentals and ri
 
 The advantages of car rentals include comfortable vehicle space, making them suitable for family travel, as well as safety, flexible itineraries, and drivers who know the area well. For all the details you need to know about car rentals, we've compiled them in the links below:
 
-> [Complete Guide to Bali Car Rental for Independent Travel - Costs, Booking Methods, and Advantages](/blog/2024-01-12-65a0a163fd8978000115f37a/)
+> [Complete Guide to Bali Car Rental for Independent Travel - Costs, Booking Methods, and Advantages](/blog/bali-private-car-hire-guide/)
 
-> [Recommended Bali Travel Chinese-Speaking Drivers/Guides/Car Rental Itineraries](/blog/2024-01-29-65b75c45fd897800019130ff/)
+> [Recommended Bali Travel Chinese-Speaking Drivers/Guides/Car Rental Itineraries](/blog/bali-chinese-tour-guide/)
 
 The advantages of ride-hailing services are their lower cost/transparent pricing and the ability to call them via an app. How to use ride-hailing services in Indonesia/Bali? Which apps to use? Please refer here:
 
-> [Essential Apps for Traveling in Indonesia/Bali: The Complete Guide to Gojek](/blog/2023-08-20-64e187dffd897800017304fe/)
+> [Essential Apps for Traveling in Indonesia/Bali: The Complete Guide to Gojek](/blog/gojek-bali-guide/)
 
 ### Accommodation/Attractions/Activities:
 
@@ -131,7 +131,7 @@ Bali offers a diverse range of accommodation options, including hotels, resorts,
 
 ![峇里島親子住宿推薦](https://images.gobaligo.id/vocus/vocus_62021a66b4fb2080c4351c4391ea4e2b.jpg)
 
-[Bali Family-Friendly Accommodation Recommendations](/blog/2023-03-05-64db6b81fd897800013a98b4/)
+[Bali Family-Friendly Accommodation Recommendations](/blog/bali-family-travel-guide/)
 
 Families traveling with children may want to consider family-friendly resorts. These resorts often feature pool slides for kids to enjoy and children's clubs to give parents a break.
 
@@ -147,7 +147,7 @@ For recommendations on family-friendly resorts, activities suitable for children
 
 When traveling in Bali, it's important to pay attention to food hygiene to avoid Bali belly. Here are some safety guidelines to follow:
 
-> [Health Tips for Bali Travel: A Guide to Drinking Water and Diarrhea in Bali](/blog/2024-01-27-65b32e1ffd8978000170519b/)
+> [Health Tips for Bali Travel: A Guide to Drinking Water and Diarrhea in Bali](/blog/bali-travel-health-tips/)
 
 {{block:美食}}
 

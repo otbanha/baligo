@@ -41,7 +41,7 @@ https://youtube.com/shorts/BBIXmPYUPZo
 
 而家瀑布兩邊各有一個泳池俱樂部，可以盡情享受大自然嘅美景。
 
-▶[OMMA Dayclub峇里島：感受chill氛圍，陽光下嘅愜意時光](/blog/2023-11-27-65647143fd897800014b96f1/)
+▶[OMMA Dayclub峇里島：感受chill氛圍，陽光下嘅愜意時光](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ▶[D'tukad River Club](https://youtube.com/shorts/WdPWlqgn_jY)
 

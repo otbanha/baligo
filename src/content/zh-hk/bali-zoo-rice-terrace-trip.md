@@ -39,7 +39,7 @@ _srcHash: 7c61cef199b6966cfcfe5422c21bbdeb
 
 另外，搭遊園車亦都非常方便，可以輕鬆咁睇到各種動物，小朋友喺車上不停咁驚呼，完全沉浸喺呢個充滿生機嘅環境中。如果你帶住小朋友去旅行，呢度絕對係一個唔可以錯過嘅選擇。
 
-**快速參考：**[峇里島野生動物園 Bali Safari 全攻略：夜宿體驗、親子遊樂與行程規劃](/blog/2025-12-06-69131b8dfd89780001c8e3c4/)
+**快速參考：**[峇里島野生動物園 Bali Safari 全攻略：夜宿體驗、親子遊樂與行程規劃](/blog/bali-safari-night-experience/)
 
 🦒[住喺Mara River Safari Lodge](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1012580&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F253798-mara-river-safari-lodge%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De5b519631a)🐒
 
@@ -63,7 +63,7 @@ _srcHash: 7c61cef199b6966cfcfe5422c21bbdeb
 
 **海神廟（Tanah Lot）**係峇里島嘅標誌性景點之一，呢度嘅海蝕門同海蝕平台非常壯觀，完全符合我哋對峇里島嘅想像。雖然海邊嘅陽光有啲炙熱，但睇住海浪拍打岩石嘅場景，仲係令人感到無比震撼。建議嚟呢度嘅朋友可以帶上帽或者遮陽傘，並選擇喺傍晚時分造訪，既可以避開烈日，仲可以欣賞到美麗嘅日落。
 
-**快速參考：**[峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/blog/2024-10-28-671f86f1fd89780001de9fae/)
+**快速參考：**[峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/blog/bali-tanah-lot-guide/)
 
 🛕🌊🌅海神廟，峇里島必訪嘅日落聖地，欣賞壯麗嘅海景同宗教氛圍 ▶[Klook優惠](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
 
@@ -75,7 +75,7 @@ _srcHash: 7c61cef199b6966cfcfe5422c21bbdeb
 
 峇里島嘅梯田景觀非常有名，我哋選擇咗一個有盪鞦韆嘅梯田景點，呢度唔單止適合影相，仲可以令小朋友同老人家一齊玩樂。小朋友喺梯田間穿梭，上上落落地奔跑，完全放電；而長輩們就坐喺一旁，欣賞住綠意盎然嘅梯田風光，享受住微風吹拂嘅舒適感。呢度嘅氛圍非常輕鬆，適合全家一齊嚟體驗。
 
-**快速參考：**[Ubud Swing 烏布玩秋千：峇里島最美嘅8個鞦韆影相勝地｜烏布鞦韆/租禮服攻略](/blog/2025-08-15-689eb518fd897800014fbb28/)
+**快速參考：**[Ubud Swing 烏布玩秋千：峇里島最美嘅8個鞦韆影相勝地｜烏布鞦韆/租禮服攻略](/blog/ubud-jungle-swings-photo-guide/)
 
 🛕🐒🌿烏布一日遊，探索IG熱門景點、欣賞鬼斧神工自然美景，享受當地美食與麝香貓咖啡 ☕📸，文化與自然嘅完美結合 ▶[Klook 50+旅程任選](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989417&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E7%2583%258F%25E5%25B8%2583%25E4%25B8%2580%25E6%2597%25A5%26sort%3Dmost_relevant%26tab_key%3D0%26start%3D1)
 
@@ -87,7 +87,7 @@ _srcHash: 7c61cef199b6966cfcfe5422c21bbdeb
 
 **聖泉寺（Tirta Empul）**係一個充滿宗教氣氛嘅地方，我哋喺度見到好多當地人進行沐浴儀式，場面非常莊嚴同新奇。不過，相比起沐浴儀式，我個人對山上嘅總統行宮更加有興趣。呢座建築充滿歷史感，周圍環境亦都非常優美，值得花啲時間慢慢欣賞。
 
-**快速參考：**[【2026】Tirta Empul 聖泉寺完整指南：峇里島最神聖嘅淨化水廟體驗](/blog/2025-06-18-6852cdc2fd89780001e0b7ad/)
+**快速參考：**[【2026】Tirta Empul 聖泉寺完整指南：峇里島最神聖嘅淨化水廟體驗](/blog/tirta-empul-temple-guide/)
 
 🔱💦 烏布聖泉寺（Tirta Empul）係峇里島出名嘅聖水寺廟，以淨化儀式🙏 同神聖泉水💧聞名，可以為信徒同遊客帶來祝福同好運✨！▶[Klook優惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
@@ -99,7 +99,7 @@ _srcHash: 7c61cef199b6966cfcfe5422c21bbdeb
 
 **斷崖公路**嘅景色非常壯麗，但由於之前曾經發生崩塌，雖然而家已經修復好，但都建議大家搭接駁車前往。另外，呢度嘅陽光非常猛烈，記得帶帽或者遮陽裝備，以免曬傷。
 
-**快速參考：**[峇里島 Batu Barak/Tanah Barak：藍色公路/斷崖公路嘅絕美之旅](/blog/2025-03-06-67c9a234fd897800014b5a11/)
+**快速參考：**[峇里島 Batu Barak/Tanah Barak：藍色公路/斷崖公路嘅絕美之旅](/blog/batu-barak-cliff-road/)
 
 🏖️🪨🌊探索藍色公路懸崖之美，劈開嘅壯麗景觀，隨手一影就係 Instagram 打卡勝地！▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
@@ -113,7 +113,7 @@ _srcHash: 7c61cef199b6966cfcfe5422c21bbdeb
 
 **神鷹文化公園（Garuda Wisnu Kencana Cultural Park）**嘅佔地面積非常廣闊，其中最引人注目嘅就係嗰座巨大嘅神鷹雕像，佢嘅高度同規模真係令人驚嘆。喺機場就已經可以見到呢座雕像，足以見證佢嘅壯觀程度。不過，成個園區嘅設施似乎仲未夠完善，感覺有啲空曠，建議嚟呢度嘅朋友可以安排短暫停留，欣賞完雕像之後再去其他景點。
 
-**快速參考：**[峇里島 Garuda Wisnu Kencana GWK神鷹廣場/神鷹文化公園全攻略](/blog/2025-07-17-68785bf9fd89780001822053/)
+**快速參考：**[峇里島 Garuda Wisnu Kencana GWK神鷹廣場/神鷹文化公園全攻略](/blog/gwk-cultural-park-bali/)
 
 🦅☀️🌴GWK神鷹廣場 ，巨大嘅維什努神像同神鷹令人驚嘆 😍，仲可以欣賞傳統表演 ，文化與自然嘅完美結合 ▶[Klook 訂票網址](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
 
@@ -188,4 +188,4 @@ _srcHash: 7c61cef199b6966cfcfe5422c21bbdeb
 
 撳呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但係唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但係唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！

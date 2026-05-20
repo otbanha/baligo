@@ -102,7 +102,7 @@ While restrictions do exist, their overall impact on tourists is limited. You ca
 3. Handling tips: In such situations, walk about 5-10 minutes away from the area to a nearby main road or alley before using the app to book a ride. This usually ensures a smooth booking and more reasonable pricing.
 4. Alternative option: For day-long cross-regional sightseeing (e.g., from the south to Ubud or the volcanoes), booking a private car is a more common, comfortable, and hassle-free choice. Drivers often double as guides.
 
-Quick reference: [Bali Private Car Guide](/blog/2024-01-12-65a0a163fd8978000115f37a/)
+Quick reference: [Bali Private Car Guide](/blog/bali-private-car-hire-guide/)
 
 ## ⚠️ Important Reminder
 

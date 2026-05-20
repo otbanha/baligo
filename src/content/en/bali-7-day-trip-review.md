@@ -31,27 +31,27 @@ Provided by Pan Yi-Xun
 
 During our trip, each of us exchanged about USD$320, which turned out to be just enough for the 7-day, 6-night itinerary, even allowing us to buy quite a few souvenirs. Therefore, I recommend exchanging between USD$300 to USD$350, supplemented by credit card payments. Many restaurants and massage parlors accept credit cards, giving you more flexibility with your budget.
 
-> [Complete Guide to Currency Exchange in Indonesia/Bali: What currency is used? How to get the best exchange rate? Where to exchange money?](/blog/2024-01-28-65b5c7e2fd89780001e96fac/)
+> [Complete Guide to Currency Exchange in Indonesia/Bali: What currency is used? How to get the best exchange rate? Where to exchange money?](/blog/bali-currency-exchange-guide/)
 
-> [How Much Cash Should You Prepare for a Bali Trip?](/blog/2023-09-11-64fdaddefd89780001bdb780/)
+> [How Much Cash Should You Prepare for a Bali Trip?](/blog/bali-travel-cash-budget-guide/)
 
 ## 2️⃣ **Internet**
 
 I recommend purchasing a local SIM card upon arrival in Bali, as it tends to be cheaper and offers more stable connectivity (though this might be subjective). The airport provides free Wi-Fi, so there's no need to worry about losing contact with your driver. The SIM card we bought locally offered a total of 18GB per person, which was more than enough for seven days, even with frequent use of social media, watching YouTube videos, and downloading apps. So, you can choose a data package that suits your usage needs.
 
-> [【Essential for Bali Travel】How to Get a Bali SIM Card?](/blog/2024-03-21-65f916bbfd89780001b916e0/)
+> [【Essential for Bali Travel】How to Get a Bali SIM Card?](/blog/bali-sim-card-esim-roaming-guide/)
 
 ## 3️⃣ **Visa, Tourist Tax, and Customs**
 
 Make sure to apply for your visa online before departure. You can also complete your customs declaration online three days in advance to avoid long queues at the airport and save time.
 
-> [2026 Indonesia Bali Entry Using "All Indonesia" Declaration System｜1-Minute Guide to the Latest Process: From Landing to Customs to Baggage Claim](/blog/2025-08-14-689dcce7fd8978000125fc52/)
+> [2026 Indonesia Bali Entry Using "All Indonesia" Declaration System｜1-Minute Guide to the Latest Process: From Landing to Customs to Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
 
 ## 4️⃣ **Transportation**
 
 In Bali, apart from hiring a private driver, most short-distance travel or food delivery services rely on apps like Grab or Gojek. Remember to set up your account in Taiwan (you'll need a Taiwanese phone number to receive the verification code) so you can use it smoothly once you arrive.
 
-> [Essential Apps for Traveling in Indonesia/Bali: The Complete Guide to Gojek](/blog/2023-08-20-64e187dffd897800017304fe/)
+> [Essential Apps for Traveling in Indonesia/Bali: The Complete Guide to Gojek](/blog/gojek-bali-guide/)
 
 ## ⚠️ **Your Private Driver is Crucial!**
 
@@ -65,7 +65,7 @@ Bali's traffic can be chaotic, so for safety-conscious travelers like us, choosi
 
 Provided by Pan Yixun
 
-**Quick Reference:** [Top 6 Places to Watch Kecak Fire Dance in Bali: A Visual and Cultural Feast](/blog/2024-12-12-675ad354fd89780001c09f24/)
+**Quick Reference:** [Top 6 Places to Watch Kecak Fire Dance in Bali: A Visual and Cultural Feast](/blog/bali-kecak-fire-dance-locations/)
 
 During this trip, we met the incredibly gentle and attentive Komang, who expressed his greatest wish that all visitors to Bali could experience the beauty of this place. We are truly grateful for his assistance. If you're planning a trip to Bali, we highly recommend Komang!
 
@@ -81,7 +81,7 @@ Here is the driver's contact information:
 
 > Facebook: Komang WikaSutresna
 
-▶▶[【Recommended Bali Private Drivers】Comprehensive Reviews of Bali Drivers: Find the Right Driver for You Based on Real User Feedback](/blog/2024-07-07-668aaea7fd89780001981840/)
+▶▶[【Recommended Bali Private Drivers】Comprehensive Reviews of Bali Drivers: Find the Right Driver for You Based on Real User Feedback](/blog/bali-private-car-drivers-guide/)
 
 Do you think Pan Yixun's itinerary is exciting? Start planning your own Bali adventure now! We also welcome everyone to share their itineraries in our community!
 
@@ -89,4 +89,4 @@ Do you think Pan Yixun's itinerary is exciting? Start planning your own Bali adv
 
 Click here to watch more amazing Bali travelogues
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue shine!

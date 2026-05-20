@@ -32,13 +32,13 @@ _srcHash: 51e9f8a2683c51f9169df0db671628db
 
 ![截圖自情侶渡假/蜜月別墅推薦](https://images.gobaligo.id/vocus/vocus_a8ef47800f71d819b9ac3dc1f3ef82b0.png)
 
-[截图自情侣度假/蜜月别墅推荐](/blog/2023-08-03-64db6b88fd897800013a9a4c/)
+[截图自情侣度假/蜜月别墅推荐](/blog/bali-honeymoon-resorts-guide/)
 
 ### **私人别墅的优势**
 
 私人别墅提供的私密性和个性化服务是其最大的卖点。无论是家庭旅游还是浪漫蜜月，私人别墅都能为旅客提供一个独立而舒适的空间。别墅内通常配备私人泳池、花园和厨房，让旅客享受更自由的度假体验。
 
-> [蜜月新婚/情侣就看这一篇！2024最新巴厘岛【20间度蜜月度假村、浪漫villa推荐懒人包】](/blog/2023-08-03-64db6b88fd897800013a9a4c/)
+> [蜜月新婚/情侣就看这一篇！2024最新巴厘岛【20间度蜜月度假村、浪漫villa推荐懒人包】](/blog/bali-honeymoon-resorts-guide/)
 
 ### **酒店的传统优势**
 
@@ -60,13 +60,13 @@ _srcHash: 51e9f8a2683c51f9169df0db671628db
 
 ![截圖自水明漾villa推薦](https://images.gobaligo.id/vocus/vocus_7d737d9009c5d7bc2acd814c87eaa697.jpg)
 
-[截图自水明漾villa推荐](/blog/2025-08-11-660e6e92fd89780001e6047e/)
+[截图自水明漾villa推荐](/blog/seminyak-private-villas-guide/)
 
 ### **私密性和设施**
 
 私人别墅为旅客提供了难以匹敌的私密性和个性化设施。无论是享受私人泳池的清凉，还是在独立花园中放松，私人别墅都能为旅客打造一个与世隔绝的度假天堂。
 
-> [【巴厘岛住宿推荐】VILLA泳池别墅私密天堂:水明漾21间令人惊艳的巴厘岛秘密花园](/blog/2025-08-11-660e6e92fd89780001e6047e/)
+> [【巴厘岛住宿推荐】VILLA泳池别墅私密天堂:水明漾21间令人惊艳的巴厘岛秘密花园](/blog/seminyak-private-villas-guide/)
 
 ### **独立探索的便利性**
 
@@ -76,7 +76,7 @@ _srcHash: 51e9f8a2683c51f9169df0db671628db
 
 ![截圖自「沙努爾villa推薦」](https://images.gobaligo.id/vocus/vocus_2ad73f465bcd1125da0d7da914172579.jpg)
 
-[截图自「沙努尔villa推荐」](/blog/2024-08-21-66c3e440fd897800014425a8/)
+[截图自「沙努尔villa推荐」](/blog/sanur-luxury-budget-resorts/)
 
 ### **网红和内容创作者的推动作用**
 
@@ -86,13 +86,13 @@ _srcHash: 51e9f8a2683c51f9169df0db671628db
 
 特别是竹屋和树屋这类别具特色的住宿选择，成为了许多旅客的心头好。例如，The Hideout的竹屋就因其独特的设计和与自然的亲密接触，受到了广泛的好评。
 
-> [探索乌布9家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/blog/2024-04-04-660d4c83fd89780001ddf0ad/)
+> [探索乌布9家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ## **混合住宿的选择**
 
 ![截圖自 Bamboo Villa 推薦](https://images.gobaligo.id/vocus/vocus_46faebe339e9b8003fc6ad8fddb06fe9.jpg)
 
-[截图自 Bamboo Villa 推荐](/blog/2024-04-04-660d4c83fd89780001ddf0ad/)
+[截图自 Bamboo Villa 推荐](/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ### **结合别墅和酒店的优势**
 

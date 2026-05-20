@@ -28,7 +28,7 @@ In the video below, she introduces 12 recommended accommodations in Canggu, Ubud
 
 For luxurious stays, Camilla visits the stunning Nanuku House, a four-bedroom villa in Canggu featuring a large swimming pool, outdoor kitchen, and full-time staff.
 
-She also highlights the Ayana Resort, spanning 220 acres of lush tropical gardens and featuring 14 unforgettable pools. We have a dedicated guide on Ayana Resort: [【Ayana Bali】Ayana Bali Accommodation Guide》](/blog/2023-10-26-653914f6fd89780001fef733/)
+She also highlights the Ayana Resort, spanning 220 acres of lush tropical gardens and featuring 14 unforgettable pools. We have a dedicated guide on Ayana Resort: [【Ayana Bali】Ayana Bali Accommodation Guide》](/blog/ayana-resort-bali-guide/)
 
 In Ubud, Camilla stays at Villa Yapoon, a six-bedroom villa surrounded by rice fields, offering a serene and tranquil experience. She also experiences the beautiful Bhumian Ri Retreat Center, a perfect sanctuary for yoga retreats and meditation.
 
@@ -45,7 +45,7 @@ According to the video content, Camilla Johannesen introduced the following acco
 ### Luxury Stays:
 
 1. [Nanuku House Availability & Rates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47148081) (Canggu)
-2. [Ayana Resort Overview & Booking](/blog/2023-10-26-653914f6fd89780001fef733/) (Jimbaran)
+2. [Ayana Resort Overview & Booking](/blog/ayana-resort-bali-guide/) (Jimbaran)
 
 ### Mid-Range to High-End Accommodations:
 

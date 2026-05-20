@@ -92,13 +92,13 @@ _srcHash: 9c47119eb3124134ec6560b4ecadb117
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
 
-**延伸阅读:** [印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/2025-08-14-689dcce7fd8978000125fc52/)
+**延伸阅读:** [印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 
 ### **行前必做**：
 
-1. 务必先完成申请电子签证eVisa。请参考[这里](/blog/2024-02-06-65c217c5fd897800010113af/)有进一步的说明，避免进入诈骗网站。
-2. 出发前三天完成All Indonesia入境卡，并**截图QR Code**备查。请看本站整理[常见问题FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)。
-3. **缴交巴厘岛观光税**费用：15万印尼盾/人（约USD$10）。如何缴交？请看[观光税](/blog/2024-01-03-65955989fd89780001a95927/)说明
+1. 务必先完成申请电子签证eVisa。请参考[这里](/blog/bali-evisa-application-guide/)有进一步的说明，避免进入诈骗网站。
+2. 出发前三天完成All Indonesia入境卡，并**截图QR Code**备查。请看本站整理[常见问题FAQ](/blog/bali-evisa-customs-health-declaration/)。
+3. **缴交巴厘岛观光税**费用：15万印尼盾/人（约USD$10）。如何缴交？请看[观光税](/blog/2026-bali-tourism-tax-guide/)说明
 
 ### 小提醒
 

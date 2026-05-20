@@ -14,7 +14,7 @@ lang: zh-cn
 _srcHash: 7e4a97c863627af98d0b2b9e1c950c3f
 ---
 
-第一页，获得我们优先推荐的司机在[这里](/blog/2024-07-07-668aaea7fd89780001981840/)
+第一页，获得我们优先推荐的司机在[这里](/blog/bali-private-car-drivers-guide/)
 
 <!-- shuffle-start -->
 

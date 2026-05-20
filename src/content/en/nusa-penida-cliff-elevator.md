@@ -138,8 +138,8 @@ The cliff elevator project in Nusa Penida will undoubtedly have a significant im
 
 We have a five-part series introducing Nusa Penida—let’s dive deeper into this island paradise!
 
-1. [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)
-2. [Nusa Penida Food and Azure Seas: Top 9 Must-Try Choices](/blog/2023-10-22-65348754fd89780001b2a259/)
-3. [Snorkeling Spots in Nusa Penida: How to Join a Snorkeling Tour?](/blog/2023-11-02-654249defd89780001041c87/)
-4. [Transportation Guide for Nusa Penida: Taxis, Gojek/Grab, Private Cars, and Motorbikes](/blog/2024-01-16-65a5e069fd897800010625d0/)
-5. [Accommodation Recommendations for Nusa Penida: 13 Highly Rated Options from Luxury to Budget](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+1. [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+2. [Nusa Penida Food and Azure Seas: Top 9 Must-Try Choices](/blog/nusa-penida-best-restaurants/)
+3. [Snorkeling Spots in Nusa Penida: How to Join a Snorkeling Tour?](/blog/nusa-penida-snorkeling-guide/)
+4. [Transportation Guide for Nusa Penida: Taxis, Gojek/Grab, Private Cars, and Motorbikes](/blog/nusa-penida-transport-guide/)
+5. [Accommodation Recommendations for Nusa Penida: 13 Highly Rated Options from Luxury to Budget](/blog/nusa-penida-hotels-guide/)

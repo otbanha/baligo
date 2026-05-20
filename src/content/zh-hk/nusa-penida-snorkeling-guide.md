@@ -31,11 +31,11 @@ _srcHash: e73bc4e71ca50281b3229d5840072d77
 
 針對佩尼達島我哋共有五集介紹，一齊嚟更深入認識呢個海島天堂！其他四集呢度有傳送門：
 
-1. [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/2023-08-16-64db6b82fd897800013a9942/)
-2. [佩尼達島美食同碧海藍天：Nusa Penida嘅Top 9絕佳選擇](/blog/2023-10-22-65348754fd89780001b2a259/)
-3. [Nusa Penida 努沙佩尼達島嘅浮潛點介紹，點樣參加浮潛？](/blog/2023-11-02-654249defd89780001041c87/)
-4. [佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/blog/2024-01-16-65a5e069fd897800010625d0/)
-5. [佩尼達島嘅住宿推薦: 13間從奢華到平價嘅 Nusa Penida 好評住宿](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+1. [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)
+2. [佩尼達島美食同碧海藍天：Nusa Penida嘅Top 9絕佳選擇](/blog/nusa-penida-best-restaurants/)
+3. [Nusa Penida 努沙佩尼達島嘅浮潛點介紹，點樣參加浮潛？](/blog/nusa-penida-snorkeling-guide/)
+4. [佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/blog/nusa-penida-transport-guide/)
+5. [佩尼達島嘅住宿推薦: 13間從奢華到平價嘅 Nusa Penida 好評住宿](/blog/nusa-penida-hotels-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0efc881cd070bd9b15b0d572fe80b427.jpg)
 
@@ -49,7 +49,7 @@ https://youtu.be/qdS8Td7QPYY?si=J-jy5ieS7-eAsl0E
 
 關於沙努爾有咩好玩好逛嘅，有興趣嘅朋友可以睇睇小傑嘅「[沙努爾攻略](https://www.youtube.com/watch?v=laRb_l8BdLM)」
 
-咁去努沙佩尼達島要有咩陸地上嘅景點？點樣搭船、點樣寄放行李？可以[睇睇呢度](/blog/2023-08-16-64db6b82fd897800013a9942/)。呢一篇我哋主要同大家介紹努沙佩尼達島嘅四大潛點，底下仲有我哋實拍嘅視頻，等大家更了解呢個讓人歎為觀止、美不勝收嘅海底世界奇觀！
+咁去努沙佩尼達島要有咩陸地上嘅景點？點樣搭船、點樣寄放行李？可以[睇睇呢度](/blog/nusa-penida-guide/)。呢一篇我哋主要同大家介紹努沙佩尼達島嘅四大潛點，底下仲有我哋實拍嘅視頻，等大家更了解呢個讓人歎為觀止、美不勝收嘅海底世界奇觀！
 
 ## Crystal Bay
 

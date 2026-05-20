@@ -47,7 +47,7 @@ The Dome, the venue for the performance, is Indonesia's first immersive dome the
 - **Ticket Price**: Starting from IDR 300,000 (approximately USD$10)
 - **Location**: Nuanu Creative City - Labyrinth Arts Centre (Jl. Pantai Nyanyi, Tabanan) **（📍**[**Map Location**](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing)**）**
 - **Ticket Purchase Link**: [Buy Tickets Here](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063286&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F158960-bali-mystic-dome-show-at-labyrinth%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D50288a468e) 🎫
-- **Additional Experience**: Ticket holders can visit the [Labyrinth Art Gallery](/blog/2025-04-18-67a2369cfd897800012db961/) for free and take photos at the 'Guardians of the Earth' statue.
+- **Additional Experience**: Ticket holders can visit the [Labyrinth Art Gallery](/blog/labyrinth-collective-nuanu-bali/) for free and take photos at the 'Guardians of the Earth' statue.
 
 ---
 
@@ -97,4 +97,4 @@ If you're already familiar with Seminyak and Ubud itineraries, this performance 
 
 Nuanu Creative City is Bali's latest rising creative hub, promoting zero carbon emissions and becoming Bali's newest sustainable tourism landmark. It has already started attracting global creatives, making it the next must-visit hotspot!
 
-Check out the guide to Nuanu Creative City's attractions [here](/blog/2025-04-18-68026619fd89780001f56243/)
+Check out the guide to Nuanu Creative City's attractions [here](/blog/nuanu-creative-city-luna-guide/)

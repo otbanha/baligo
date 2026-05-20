@@ -35,7 +35,7 @@ _srcHash: 70d8d9ed9ab1f5597ce9b70ae906fe6f
 
 戴妤珊提供
 
-> 山竹什么季节最好？请看：[热带水果女王-印尼/巴厘岛山竹的产季](/blog/2024-04-12-661943c7fd897800016eaf4a/)
+> 山竹什么季节最好？请看：[热带水果女王-印尼/巴厘岛山竹的产季](/blog/bali-mangosteen-season/)
 
 每天早上，他都准时到别墅接我们，而且对我们的需求总是能迅速地给予回应。我们想要找书店时，他马上打电话给书店，用印尼语询问店员。即使在百沙基母庙，他也会在我们下车前提醒我们注意事项。能够遇到Komang Sucika这样的司机，我们感到非常幸运！他的服务已经远超出他收取的价格，我们给予了他丰厚的小费，因为我们认为他绝对值得更多。
 
@@ -65,11 +65,11 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 视频由戴妤珊提供
 
-> La Brisa详细介绍/如何预约？请看：[被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱颖而出？](/blog/2023-12-04-656d19fffd897800019cb6ed/)
+> La Brisa详细介绍/如何预约？请看：[被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱颖而出？](/blog/canggu-la-brisa-restaurant-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
 
-想了解更多坎古攻略？[请点击这里](/blog/2023-02-11-64db6b7efd897800013a9815/)
+想了解更多坎古攻略？[请点击这里](/blog/canggu-guide/)
 
 ## 第二天(乌布)：
 
@@ -96,7 +96,7 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 戴妤珊提供
 
-> 这个景点的详细介绍请看：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/blog/2023-08-26-64e9e8e9fd89780001f28d6b/)
+> 这个景点的详细介绍请看：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/blog/penglipuran-village-bali-experience/)
 
 - 午餐：Naughty Nuri's Ubud（猪肋排很有名）
 - 点心：Tukies cocount shop（椰子冰）
@@ -153,7 +153,7 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 > 请参考这里：
 
-> [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/2023-08-16-64db6b82fd897800013a9942/)
+> [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
 
 ## 第六天（乌鲁瓦图）：
 
@@ -200,4 +200,4 @@ Odon的联系方式： WHATSAPP：085738149995/ID LINE：drmwn8
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！

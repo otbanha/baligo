@@ -43,7 +43,7 @@ We chose China Airlines' direct flight, with round-trip tickets costing about US
 
 We opted for a visa on arrival, which incurs an additional 2% fee when paying by credit card. We initially considered applying for an e-visa, but it required filling out extensive information. Moreover, we heard that some travelers were fined for listing their nationality as TAIWAN, so we decided to play it safe and get our visa upon arrival. The visa process in Bali was relatively straightforward, with multiple counters available and about five people in each line. We were lucky and completed the visa process in about ten minutes. However, our luck ran out when it came to collecting our luggage—we waited nearly two hours, which caused us to miss the sunset at Jimbaran.
 
-> [1-Minute Guide to the Latest Process: From Landing to Customs to Baggage Claim](/blog/2025-08-14-689dcce7fd8978000125fc52/)
+> [1-Minute Guide to the Latest Process: From Landing to Customs to Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
 
 ### SIM Card
 
@@ -53,7 +53,7 @@ We pre-purchased two XL Telecom SIM cards from the highest-rated seller on Shope
 
 We exchanged USD in Taiwan beforehand and then exchanged it for Indonesian Rupiah in Bali. We chose exchange offices that provided receipts and certifications. In reality, the exchange rates at legitimate exchange offices are quite similar, with only some non-receipt-issuing shops offering slightly better rates. However, we were concerned about being scammed, so we stuck to legitimate exchange offices. Through observation, we found that the exchange rates were better between noon and 3 PM, and sometimes worsened in the afternoon.
 
-How to choose a legitimate exchange office? Check out: [Indonesia/Bali Travel Currency Exchange Guide](/blog/2024-01-28-65b5c7e2fd89780001e96fac/)
+How to choose a legitimate exchange office? Check out: [Indonesia/Bali Travel Currency Exchange Guide](/blog/bali-currency-exchange-guide/)
 
 ### Airport to Jimbaran Hotel
 
@@ -81,7 +81,7 @@ We originally planned to watch the sunset at Jimbaran Beach, but due to a long w
 
 For dinner, we chose Lia Cafe, which charges an additional 10% service fee and accepts card payments. While waiting for our meal, a local band sang songs based on our nationality, but they aggressively demanded tips. Giving too little made them visibly unhappy, which somewhat spoiled our dining experience. (Note: This band is not affiliated with the restaurant. Generally, a tip of 50,000 IDR per group would suffice to keep everyone happy!)
 
-> Further Reading: [11 Recommended Seafood Restaurants in Jimbaran, Bali](/blog/2023-09-17-6506748dfd897800018d6be2/)
+> Further Reading: [11 Recommended Seafood Restaurants in Jimbaran, Bali](/blog/jimbaran-seafood-restaurants-list/)
 
 ### Unfinished Itinerary - Cuca Restaurant
 
@@ -136,7 +136,7 @@ Next, we went to Pandawa Beach. Although the beach itself wasn't particularly be
 
 For lunch, we chose One Eighty Bali, a cliffside bar where the food is reasonably priced. We ordered quite a few dishes to meet the minimum spend. Besides the delicious food, there's also an infinity pool where you can enjoy the stunning views while dining. It's recommended to book in advance, and credit card payments are accepted here.
 
-> Further reading: [Oneeighty Day Club Introduction: Bali's Ultimate Cliffside Pool with Breathtaking Views](/blog/2023-12-07-6571846ffd89780001fe97ee/)
+> Further reading: [Oneeighty Day Club Introduction: Bali's Ultimate Cliffside Pool with Breathtaking Views](/blog/oneeighty-dayclub-uluwatu-pool/)
 
 ### Uluwatu Temple / Fire Dance Performance
 
@@ -146,7 +146,7 @@ Mei Chen's recommendation: Uluwatu Temple and Kecak Fire Dance performance
 
 In the afternoon, we headed to Uluwatu Temple to watch the sunset and the fire dance performance. It's advisable to purchase tickets in advance through Klook or KKday, as you might not be able to catch the 6 PM show if you queue on-site. The monkeys here are very active, so be extra careful with your hats and glasses to prevent them from being snatched.
 
-> Further Reading: [Kecak Fire Dance: Bali’s Must-See Spectacular Performance (Includes Ticket Booking Info)](/blog/2024-01-29-65b6e533fd89780001f51eaf/)
+> Further Reading: [Kecak Fire Dance: Bali’s Must-See Spectacular Performance (Includes Ticket Booking Info)](/blog/kecak-fire-dance-bali/)
 
 ### Editor's Pick
 
@@ -265,7 +265,7 @@ For lunch, we chose Babi Guling Pande Bangli, known for its Balinese-style roast
 
 Next, we arrived at Penglipuran Village, where the prices of bags are relatively the lowest, making it a great place for shopping. Although the prices are already quite affordable, you can still haggle.
 
-> Further reading: [Time-Traveling Penglipuran Village: Experiencing Bali's Ancient Charm](/blog/2023-08-26-64e9e8e9fd89780001f28d6b/)
+> Further reading: [Time-Traveling Penglipuran Village: Experiencing Bali's Ancient Charm](/blog/penglipuran-village-bali-experience/)
 
 ### Besakih Temple
 
@@ -275,7 +275,7 @@ We visited Besakih Temple, where the entrance fee is quite expensive, costing US
 
 For dinner, we went to AKASA Specialty Coffee in Kintamani, a scenic restaurant where the food prices are relatively affordable, and you can pay by card. Here, we enjoyed delicious food while taking in the beautiful views.
 
-> [13 Best Scenic Volcano Cafes/Restaurants in Kintamani, Bali 🌄☕](/blog/2024-11-27-67467629fd897800018d71d1/)
+> [13 Best Scenic Volcano Cafes/Restaurants in Kintamani, Bali 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
 
 ### Accommodation - Batur View Homestay
 
@@ -333,7 +333,7 @@ Provided by Mei Chen
 
 Next, we headed to Tirta Empul Temple, one of Bali's famous attractions. If you're just here for photos, you don't need to enter the water, but if you plan to participate in the purification ritual, be prepared to wait in line for a while.
 
-> [【Tirta Empul Temple Bali】Complete Guide: Process, Taboos, and Must-See Highlights of the Thousand-Year-Old Holy Water Purification Ritual](/blog/2025-06-18-6852cdc2fd89780001e0b7ad/)
+> [【Tirta Empul Temple Bali】Complete Guide: Process, Taboos, and Must-See Highlights of the Thousand-Year-Old Holy Water Purification Ritual](/blog/tirta-empul-temple-guide/)
 
 ### Cantik
 
@@ -345,7 +345,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 Although it may not be a huge surprise for Taiwanese visitors, as a cultural heritage site, it's still worth a visit. We made a special trip to take some photos.
 
-> [Bali Rice Terraces Guide: Tegallalang vs. Jatiluwih - Tickets, Best Seasons & Photo Spots Explained (with Itinerary Suggestions)](/blog/2024-11-15-673167e4fd897800017c44a9/)
+> [Bali Rice Terraces Guide: Tegallalang vs. Jatiluwih - Tickets, Best Seasons & Photo Spots Explained (with Itinerary Suggestions)](/blog/bali-rice-terraces-comparison/)
 
 ### Tebasari Resto, Bar & Lounge
 
@@ -463,7 +463,7 @@ Along the way, we stopped to try some local durian by the roadside. It was the k
 
 Leaving the mountain area, we then headed to Tanah Lot Temple in Canggu. Unfortunately, due to the high tide, we couldn't walk over to visit the temple, which was a bit disappointing.
 
-> Further Reading: [Must-Visit Spots in Bali: Detailed Introduction to Tanah Lot Temple and Guide to Tides & Surrounding Attractions](/blog/2024-10-28-671f86f1fd89780001de9fae/)
+> Further Reading: [Must-Visit Spots in Bali: Detailed Introduction to Tanah Lot Temple and Guide to Tides & Surrounding Attractions](/blog/bali-tanah-lot-guide/)
 
 ### Kurnia Seafood Bali
 

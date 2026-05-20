@@ -77,7 +77,7 @@ Additionally, you might want to consider joining one of these two half-day tours
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8f65ced337e0f7409ee7a617c4d85b04.png)
 
-If we were to rank the most breathtaking sunrises in Bali, the undisputed first place would undoubtedly go to the '[Mount Batur Sunrise](/blog/2023-11-17-655054b1fd897800011d4d2c/)'! However, since Sanur is on the east coast, its sunrise views are particularly enchanting! Along the beachfront promenade, you can witness the magnificent sight of the sun rising.
+If we were to rank the most breathtaking sunrises in Bali, the undisputed first place would undoubtedly go to the '[Mount Batur Sunrise](/blog/ubud-guide/)'! However, since Sanur is on the east coast, its sunrise views are particularly enchanting! Along the beachfront promenade, you can witness the magnificent sight of the sun rising.
 
 One of the most famous spots to enjoy the sunrise, and also one of Bali's most photogenic locations, is 'Sunrise Sanur Point.' The sunrise views here are absolutely worth seeing. After watching the sunrise, continue cycling to Mertasari Beach for a delicious breakfast, and then explore Sanur with a friendly local guide, relaxing and enjoying a pleasant morning.
 
@@ -262,14 +262,14 @@ Sanur Harbour is an important port located in Sanur, Bali. This port provides fe
 
 If you're planning to visit Nusa Penida or Nusa Lembongan, check out our guides:
 
-- [【Bali - Nusa Penida】Map, Ferry, Accommodation, Transportation, Private Car, Activities, Photography, Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [【Nusa Lembongan Attractions Guide】Exploring Nusa Lembongan/Ceningan Island Attractions, Food, and Transportation: Bali's Nearby Paradise](/blog/2024-10-23-66adfb9afd89780001f62df1/)
+- [【Bali - Nusa Penida】Map, Ferry, Accommodation, Transportation, Private Car, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+- [【Nusa Lembongan Attractions Guide】Exploring Nusa Lembongan/Ceningan Island Attractions, Food, and Transportation: Bali's Nearby Paradise](/blog/nusa-lembongan-ceningan-guide/)
 
 ### Icon Bali （📌[Map](/map/sanur/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7a22c365ba0af5a991d81f41d0cf9fdc.jpg)
 
-Icon Bali, a coastal shopping mall set to open on June 7, 2024, features two main entrances from Danau Tamblingan Street and Sanur Beach. Icon Bali will boast several unique attractions, including the largest indoor floating market, an indoor cultural stage, vertical forests, waterfront restaurants, a beach sunset water screen show, a beach gallery, a butterfly park, and an edible garden. For more details on the grand opening, check out: [Bali's Most Anticipated Shopping Mall: Icon Bali Officially Opens on 6/7/2024](/blog/2024-06-08-666425e6fd8978000121dadc/)
+Icon Bali, a coastal shopping mall set to open on June 7, 2024, features two main entrances from Danau Tamblingan Street and Sanur Beach. Icon Bali will boast several unique attractions, including the largest indoor floating market, an indoor cultural stage, vertical forests, waterfront restaurants, a beach sunset water screen show, a beach gallery, a butterfly park, and an edible garden. For more details on the grand opening, check out: [Bali's Most Anticipated Shopping Mall: Icon Bali Officially Opens on 6/7/2024](/blog/icon-bali-shopping-mall-sanur/)
 
 ### Sanur Sunday Market (📌[Map](/map/sanur/))
 
@@ -323,13 +323,13 @@ However, note that water sports in Nusa Dua are highly popular, so it's recommen
 
 The opening of AeroXSpace Indoor Adventure Park has brought new entertainment options for families and tourists in Bali. This 3,500-square-meter adventure center features 26 different attractions and activities, ensuring fun for visitors of all ages, rain or shine.
 
-Detailed introduction [here](/blog/2024-08-25-66cab3d1fd89780001669923/).
+Detailed introduction [here](/blog/aeroxspace-sanur-indoor-playground/).
 
 ### Clip 'n Climb Indoor Rock Climbing
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_299767d0544b5a5db93ddce11b528cb4.jpg)
 
-Clip 'n Climb Bali combines sports and entertainment, making it a new indoor adventure hotspot in Bali that offers fun for both beginners and experts! Detailed information and admission rules can be found [here](/blog/2025-04-06-67f250eafd897800017f2dd3/).
+Clip 'n Climb Bali combines sports and entertainment, making it a new indoor adventure hotspot in Bali that offers fun for both beginners and experts! Detailed information and admission rules can be found [here](/blog/clip-n-climb-sanur-bali/).
 
 ▶[Purchase Clip 'n Climb Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026544&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F150182-clip-n-climb-pass-in-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3b7aec2eea)
 
@@ -393,7 +393,7 @@ Whether you're having a casual meal with friends or enjoying a romantic dinner, 
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dec525d7171bd1501b6db42fd4ccc185.jpg)
 
-We've compiled a list of the 6 newest and most popular seaview cafes. For detailed information, please check [here](/blog/2025-06-15-684e466efd8978000159a13b/)
+We've compiled a list of the 6 newest and most popular seaview cafes. For detailed information, please check [here](/blog/sanur-beach-cafes-guide/)
 
 ### Other Sanur Dining Options (📌[Map](/map/sanur/))
 
@@ -441,11 +441,11 @@ Want to enjoy highly-rated, reliable SPA treatments while vacationing in Sanur? 
 
 ### Sanur Accommodation Guide
 
-We’ve curated a list of 21 accommodations, including luxurious Sanur resorts, hotels near Sanur Port, villa recommendations, and budget-friendly stays. Don’t miss our guide: [Sanur: 21 Resorts & Villas from Luxury to Budget](/blog/2024-08-21-66c3e440fd897800014425a8/)!
+We’ve curated a list of 21 accommodations, including luxurious Sanur resorts, hotels near Sanur Port, villa recommendations, and budget-friendly stays. Don’t miss our guide: [Sanur: 21 Resorts & Villas from Luxury to Budget](/blog/sanur-luxury-budget-resorts/)!
 
 ![Sanur沙努爾21家從奢華到平價的渡假村/villa收集](https://images.gobaligo.id/vocus/vocus_c9b555d1a2f729dc2eec89a632d5ffe1.jpg)
 
-[Sanur: 21 Resorts & Villas from Luxury to Budget](/blog/2024-08-21-66c3e440fd897800014425a8/)
+[Sanur: 21 Resorts & Villas from Luxury to Budget](/blog/sanur-luxury-budget-resorts/)
 
 ### Rent a Large Pool Float for Stunning Photos
 

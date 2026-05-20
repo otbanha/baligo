@@ -8,7 +8,7 @@ _srcHash: 91658e187b9f448ba7ad2f6d8895b494
 
 ## 佩尼达岛旅游懒人包
 
-- [🏝️ 佩尼达岛[景点攻略](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [🍽️ 佩尼达岛[用餐赏美景攻略](/blog/2023-10-22-65348754fd89780001b2a259/)
-- [🤿 佩尼达岛[浮潜潜点攻略](/blog/2023-11-02-654249defd89780001041c87/)
-- [🏨 佩尼达岛[住宿攻略](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+- [🏝️ 佩尼达岛[景点攻略](/blog/nusa-penida-guide/)
+- [🍽️ 佩尼达岛[用餐赏美景攻略](/blog/nusa-penida-best-restaurants/)
+- [🤿 佩尼达岛[浮潜潜点攻略](/blog/nusa-penida-snorkeling-guide/)
+- [🏨 佩尼达岛[住宿攻略](/blog/nusa-penida-hotels-guide/)

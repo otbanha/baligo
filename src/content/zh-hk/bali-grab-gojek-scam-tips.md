@@ -46,11 +46,11 @@ _srcHash: 052998ffde8cd72399993d7c7e9ac653
 
 呢啲遊客親身經歷嘅故事，希望可以俾大家一啲參考。網約車平台本身都係非常方便嘅，遇到不良司機嘅概率都唔算高，但係旅行中保持警惕始終係有必要嘅。
 
-> 延伸閱讀：[喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/2023-08-20-64e187dffd897800017304fe/)
+> 延伸閱讀：[喺印尼/峇里島旅行，一定要下載嘅APP：Gojek全攻略](/blog/gojek-bali-guide/)
 
-> 延伸閱讀：[【峇里島旅遊攻略】短途出行必備！叫車App叫電單車，慳時慳力！](/blog/2024-05-03-6634d110fd897800012a9d6b/)
+> 延伸閱讀：[【峇里島旅遊攻略】短途出行必備！叫車App叫電單車，慳時慳力！](/blog/bali-travel-app-motorcycle-taxi/)
 
-> 延伸閱讀：[峇里島幾時包車？咩場合叫車？包車 vs. 叫車：點樣選擇最適合你嘅旅行方式？](/blog/2024-05-05-6636f348fd897800013df126/)
+> 延伸閱讀：[峇里島幾時包車？咩場合叫車？包車 vs. 叫車：點樣選擇最適合你嘅旅行方式？](/blog/bali-transportation-guide-car-rental/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_61205e9810af9fb2a1bb74666d952bd6.png)
 

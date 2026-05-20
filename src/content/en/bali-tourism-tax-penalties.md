@@ -21,7 +21,7 @@ _srcHash: 77f0b53dfd6f4511c365513532700392
 
 ### 1. What is Bali's Tourist Tax?
 
-Since February 2024, Bali has implemented a tourist tax of IDR 150,000 (approximately USD$10) per international visitor. This tax primarily supports Bali's infrastructure development, cultural preservation, and environmental protection. Tourists can pay online through the LoveBali App, with future options for payment at airports, select hotels, and travel agencies. After payment, tourists receive a QR code that must be readily available for potential checks by tax officials. (For payment process details, see: [Bali Tourist Tax Guide: 2024 New Regulations, Payment Methods, and Island-Hopping Tips](/blog/2024-01-03-65955989fd89780001a95927/))
+Since February 2024, Bali has implemented a tourist tax of IDR 150,000 (approximately USD$10) per international visitor. This tax primarily supports Bali's infrastructure development, cultural preservation, and environmental protection. Tourists can pay online through the LoveBali App, with future options for payment at airports, select hotels, and travel agencies. After payment, tourists receive a QR code that must be readily available for potential checks by tax officials. (For payment process details, see: [Bali Tourist Tax Guide: 2024 New Regulations, Payment Methods, and Island-Hopping Tips](/blog/2026-bali-tourism-tax-guide/))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_45e18794a5fa7b3c863c8a06c4e980d8.png)
 
@@ -29,7 +29,7 @@ Since February 2024, Bali has implemented a tourist tax of IDR 150,000 (approxim
 
 The purpose of this tax is clear: to foster Bali's tourism industry while safeguarding its cultural heritage and natural resources. As a highly popular destination, Bali faces infrastructure strain and cultural/environmental impacts from increasing tourist numbers. This tax aims to address these issues, ensuring Bali's sustainable development for the long term.
 
-[Is Payment Optional? What Exactly is Bali's Tourist Tax?](/blog/2024-05-28-66553006fd8978000120f15e/)
+[Is Payment Optional? What Exactly is Bali's Tourist Tax?](/blog/bali-tourism-tax-explained/)
 
 ### 3. What's the Problem?
 

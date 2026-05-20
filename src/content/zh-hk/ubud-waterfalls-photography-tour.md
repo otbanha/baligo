@@ -81,7 +81,7 @@ _srcHash: 28b93691f89f759df970b707c9aef2b4
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e4e3b5818941b29c25a2d591ec46a08d.jpg)
 
-想了解更多烏布攻略？[請點擊呢度](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+想了解更多烏布攻略？[請點擊呢度](/blog/ubud-guide/)
 
 ## 回程 - 15:00 返庫塔
 

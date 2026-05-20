@@ -45,7 +45,7 @@ In addition to the surge in vehicle numbers, the increase in trucks and heavy ve
 
 However, Sena pointed out that another cause of congestion is the increase in passenger vehicles. He mentioned that with the arrival of the rainy season, more tourists will choose to drive instead of riding motorcycles to avoid heavy rains.
 
-> Further reading: [When Does Bali's Rainy Season Start?](/blog/2023-12-06-657078edfd89780001f2d88d/)
+> Further reading: [When Does Bali's Rainy Season Start?](/blog/bali-best-time-to-visit/)
 
 Sena's suggestion to restrict trucks from entering resort areas and city centers is seen as a positive move by many, but the construction industry may not agree with such measures.
 
@@ -57,4 +57,4 @@ As discussions about Bali's traffic congestion continue, tourists should be awar
 
 Police will also penalize drivers who violate traffic rules, such as those not wearing helmets, speeding, or not wearing appropriate clothing for riding motorcycles. These random checks have already started in the Canggu area and will expand further to North Kuta in the coming weeks.
 
-Meanwhile, the Bali Airport Rail project is set to begin construction this September (refer to [【One of Bali's Traffic Improvement Plans】Bali Light Rail to Start Construction in September](/blog/2024-07-22-669e605afd8978000115575b/)), and authorities have issued warnings about potential severe traffic congestion in the Kuta and Seminyak areas.
+Meanwhile, the Bali Airport Rail project is set to begin construction this September (refer to [【One of Bali's Traffic Improvement Plans】Bali Light Rail to Start Construction in September](/blog/bali-lrt-construction-update/)), and authorities have issued warnings about potential severe traffic congestion in the Kuta and Seminyak areas.

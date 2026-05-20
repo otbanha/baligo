@@ -65,4 +65,4 @@ https://youtu.be/6dVUu_xXM0s?si=4FBvRasS_wQ1OInu
 
 ## 你也想住 bamboo villa 吗?
 
-请看这里有[推荐的10家令人叹为观止的树屋 tree house/bamboo villa](/blog/2024-04-04-660d4c83fd89780001ddf0ad/)
+请看这里有[推荐的10家令人叹为观止的树屋 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)

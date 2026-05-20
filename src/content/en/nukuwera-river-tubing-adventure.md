@@ -25,7 +25,7 @@ Bali is not only home to stunning beaches and temples but also hides many surpri
 
 ## Preparation and Booking
 
-Before the trip, we found Nukuwera Adventure, a professional cave river tubing company, through a recommendation in the [Ubud Guide](/blog/2023-11-17-655054b1fd897800011d4d2c/). The guide mentioned that this was an adventure where you could experience Bali’s historical Japanese military caves while tubing! This adventurous description immediately caught our attention.
+Before the trip, we found Nukuwera Adventure, a professional cave river tubing company, through a recommendation in the [Ubud Guide](/blog/ubud-guide/). The guide mentioned that this was an adventure where you could experience Bali’s historical Japanese military caves while tubing! This adventurous description immediately caught our attention.
 
 The booking process was straightforward. We reserved our trip for four people through [Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1064752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53430-ubud-cave-tubing-adventure-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D7271ea9df1). The cost was approximately USD$48 per person, regardless of age, and included hotel transfers, tubing, lunch, and ATV. I thought it was a great deal for a full day of fun!
 
@@ -38,7 +38,7 @@ The booking process was straightforward. We reserved our trip for four people th
 
 ## Starting the Day’s Adventure
 
-On the day of the activity, the shuttle arrived promptly at 10 AM at our accommodation, [Bidadari Private Villas & Retreat](/blog/2025-01-17-6789be68fd89780001c3ec93/). This serene retreat in the outskirts of Ubud was our carefully chosen lodging. From Ubud, it was about a 15-minute drive to the Nukuwera base. The base had well-equipped changing rooms and lockers, allowing us to store our belongings securely.
+On the day of the activity, the shuttle arrived promptly at 10 AM at our accommodation, [Bidadari Private Villas & Retreat](/blog/bidadari-private-villas-ubud/). This serene retreat in the outskirts of Ubud was our carefully chosen lodging. From Ubud, it was about a 15-minute drive to the Nukuwera base. The base had well-equipped changing rooms and lockers, allowing us to store our belongings securely.
 
 Afterwards, we boarded their shuttle bus to head further upstream to the starting point. Along the way, our guide shared the historical background of this man-made river. It turns out that during World War II, Japanese troops had established bases in these caves, and now these historical sites have become part of the adventure.
 
@@ -96,7 +96,7 @@ The itinerary includes several scenic stops: taking photos by a small waterfall 
 
 Every turn brings surprises, every journey has its story — this is undoubtedly the most vivid way to experience the rural beauty of Bali!
 
-The ATV ride is also super fun! But it's not the focus of this article, so we'll just briefly mention it. For detailed guides on ATV activities and FAQs, please refer to [here](/blog/2024-01-30-65b6ef65fd89780001f5d032/).
+The ATV ride is also super fun! But it's not the focus of this article, so we'll just briefly mention it. For detailed guides on ATV activities and FAQs, please refer to [here](/blog/bali-atv-adventure-guide/).
 
 ## Why Recommend Nukuwera River Tubing?
 
@@ -133,7 +133,7 @@ Looking back on this Nukuwera River Tubing experience, the most precious thing i
 
 If you're planning a family trip to Bali, I strongly recommend adding Nukuwera River Tubing to your must-do list. It's not just an adventure activity, but also a unique experience that combines nature, history, and family fun.
 
-**Postscript**: For more professional advice on Bali rafting and water activities, I recommend referring to this practical guide: "[Bali Rafting Guide (FAQ)](/blog/2025-03-28-67e62aa8fd89780001888620/)".
+**Postscript**: For more professional advice on Bali rafting and water activities, I recommend referring to this practical guide: "[Bali Rafting Guide (FAQ)](/blog/bali-rafting-ayung-telaga-waja/)".
 
 ## Practical Tips and Precautions
 

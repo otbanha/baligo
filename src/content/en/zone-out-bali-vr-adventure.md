@@ -78,7 +78,7 @@ Want to experience something different in Bali? Then head to **ZONE OUT Bali** f
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_59f40e8823a3411d9458f4a11c4dce3f.png)
 
-[Bali Rainy Season: What to Do When It Rains in Bali? 60 Rainy Day Backup Plans](/blog/2024-01-06-6598c6fffd89780001047d76/)
+[Bali Rainy Season: What to Do When It Rains in Bali? 60 Rainy Day Backup Plans](/blog/2026-bali-indoor-activities/)
 
 ***
 

@@ -82,7 +82,7 @@ https://youtube.com/shorts/3PmPpoHI_6c
 
 This is a family-friendly destination where both children and parents can experience the beauty of nature together. You can stroll while enjoying the scenery, immersing yourselves in the unique peaceful atmosphere of the ridge. Here, there's no traffic noise - only the sounds of nature and breathtaking views await you.
 
-How to get to the Skywalk? How much time does it take? What's the best time to visit? Check out [Jay's detailed guide](/blog/2023-10-29-653dc7f3fd89780001f4f90a/)
+How to get to the Skywalk? How much time does it take? What's the best time to visit? Check out [Jay's detailed guide](/blog/ubud-campuhan-ridge-walk/)
 
 ### Exploring Ubud's Mountain Trails: Guided Bicycle Tour
 
@@ -148,7 +148,7 @@ Bali Safari Park is undoubtedly an amazing destination for family adventures. It
 
 On this magical land, you can observe various breathtaking wildlife up close, from majestic lions and adorable elephants to graceful giraffes, roaming freely in their habitats, presenting you with the true and magnificent spectacle of the animal kingdom.
 
-Bali Safari Park offers adventurous safari rides that take you through the animals' homes, making you feel as if you're in the wild, thrilling and awe-inspiring. Besides animal watching, the park also hosts colorful animal performances, allowing you to enjoy a perfect blend of fun and nature. This will be an unforgettable journey of exploration, learning, and joy for families. Check out [our detailed introduction here](/blog/2023-07-25-64db6b8cfd897800013a9ab1/).
+Bali Safari Park offers adventurous safari rides that take you through the animals' homes, making you feel as if you're in the wild, thrilling and awe-inspiring. Besides animal watching, the park also hosts colorful animal performances, allowing you to enjoy a perfect blend of fun and nature. This will be an unforgettable journey of exploration, learning, and joy for families. Check out [our detailed introduction here](/blog/bali-safari-night-stay/).
 
 > [Stay in a Zoo](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155)
 
@@ -160,7 +160,7 @@ Want to visit two worlds in one destination?
 
 The newly opened 'Bali Marine Safari' in 2025 will make your family vacation even more exciting, offering both marine and land experiences! One attraction, double the wonder: explore the ocean and roam the wildlife park, taking your family vacation to the next level 🚀
 
-For a detailed guide to 'Bali Marine Safari', [check out our introduction](/blog/2025-01-23-6791ea5dfd89780001a7a07c/)
+For a detailed guide to 'Bali Marine Safari', [check out our introduction](/blog/marine-safari-bali-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_165e3d21713d6877f6ed24569926916a.png)
 
@@ -236,7 +236,7 @@ In addition to regular ATV tours, there's also a "Volcano ATV Tour." You'll trek
 
 Suitable age: 1 year and above
 
-When traveling with family, Ubud is not only famous for its culture and art but also boasts breathtaking natural landscapes, with waterfalls being a must-visit for family trips. The three major waterfalls near Ubud: Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall. You can check out ["A Guide to Ubud's Three Major Waterfalls" here](/blog/2023-07-19-64db6b82fd897800013a995f/)
+When traveling with family, Ubud is not only famous for its culture and art but also boasts breathtaking natural landscapes, with waterfalls being a must-visit for family trips. The three major waterfalls near Ubud: Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall. You can check out ["A Guide to Ubud's Three Major Waterfalls" here](/blog/ubud-waterfalls-guide/)
 
 Waterfalls are ideal for exploring natural beauty and capturing Instagram-worthy photos. Escaping the city's hustle and bustle, wandering along trails through lush jungles feels like entering a mysterious realm. Standing before the waterfalls, the splashing water and rushing currents bring you the awe of nature. This is an excellent place for the whole family to feel the power of nature and explore wondrous landscapes. Remember to bring your camera and capture these beautiful moments with your children!
 
@@ -282,7 +282,7 @@ Suitable for ages: 8 and above
 
 Jungle Cart offers a unique adventure experience in Ubud! This special karting adventure takes you through the sacred jungles, rice fields, temples, and traditional villages of Bali (approximately 20-25 minutes). It's not just a journey of speed and laughter, but also an opportunity to immerse yourself in the beauty of local nature and culture.
 
-These carts are powered solely by gravity, relying on downhill momentum, hence they're also known as 'gravity carts.' The activity costs Rp.380,000, and children under 14 can ride for free with an adult. It's a perfect family-friendly activity, ensuring your time together is filled with fun. Whether you're a speed enthusiast or a nature lover, Jungle Cart provides a unique choice for everyone. This will be a family adventure, allowing both adults and children to immerse themselves in a lively and fun atmosphere while exploring Ubud's unique landscapes and culture. Check out Xiao Jie's trial experience [here](/blog/2024-07-06-66892d20fd8978000183776c/).
+These carts are powered solely by gravity, relying on downhill momentum, hence they're also known as 'gravity carts.' The activity costs Rp.380,000, and children under 14 can ride for free with an adult. It's a perfect family-friendly activity, ensuring your time together is filled with fun. Whether you're a speed enthusiast or a nature lover, Jungle Cart provides a unique choice for everyone. This will be a family adventure, allowing both adults and children to immerse themselves in a lively and fun atmosphere while exploring Ubud's unique landscapes and culture. Check out Xiao Jie's trial experience [here](/blog/ubud-jungle-cart-adventure/).
 
 > [Book Jungle Cart Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=880814&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F121396-ubud-jungle-cart-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbeaf072d1f)
 
@@ -331,7 +331,7 @@ The venue features a swimming pool, sunbeds, massage services, and various enter
 
 For family travel, Omma Dayclub offers a range of family-friendly packages, allowing you and your children to enjoy the stunning waterfall views while savoring delicious food and drinks.
 
-> [Discount Package](https://affiliate.klook.com/redirect?aid=116349&aff_adid=796563&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F100356-omma-dayclub-day-pass-ubud-sukawati-gianyar-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Dc44db95a42) (For larger groups, it's recommended to book through the official website: [Omma Dayclub Introduction & Official Website](/blog/2023-11-27-65647143fd897800014b96f1/))
+> [Discount Package](https://affiliate.klook.com/redirect?aid=116349&aff_adid=796563&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F100356-omma-dayclub-day-pass-ubud-sukawati-gianyar-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Dc44db95a42) (For larger groups, it's recommended to book through the official website: [Omma Dayclub Introduction & Official Website](/blog/ubud-omma-dayclub-tegenungan-waterfall/))
 
 ### Jungle Fish Pool & Restaurant (🗺️ Map: [Family-Friendly Playground & Restaurant](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing))
 
@@ -387,7 +387,7 @@ Children might not enjoy regular libraries or art galleries, but Pondok Pekak Li
 
 Besides reading, you can also learn to make jewelry or wooden masks. Children can take home special items they've made themselves, surprising their friends. Pondok Pekak Library offers a unique Balinese experience like no other. Learning can be full of fun, for both children and adults. Bragging to other parents at the school gate about how your child fell in love with libraries and art galleries during their wonderful holiday in Bali will surely make you very proud!
 
-For more information, you can refer to our [detailed article](/blog/2025-01-16-6788bce6fd89780001e58366/).
+For more information, you can refer to our [detailed article](/blog/pondok-pekak-library-bali/).
 
 One thing to note: children should have basic English communication skills, which also presents a great opportunity to practice English!
 

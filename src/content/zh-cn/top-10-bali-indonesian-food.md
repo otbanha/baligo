@@ -269,7 +269,7 @@ _srcHash: 9a4b98e03c46c0868ca074ec0324e1c6
 - **Gado-Gado**：温沙拉佐花生酱，配料有炸豆腐、水煮蛋和印尼国宝「Krupuk」虾饼
 - **Tempeh Manis**：发酵黄豆饼用甜酱油炒到焦香，蛋白质爆表！
 
-> 延伸阅读：[巴厘岛Top 20素食友善餐厅探索：巴厘岛素食的美味之旅](/blog/2024-09-07-66dc687afd8978000151d046/)
+> 延伸阅读：[巴厘岛Top 20素食友善餐厅探索：巴厘岛素食的美味之旅](/blog/bali-vegan-restaurants-guide/)
 
 ---
 
@@ -289,16 +289,16 @@ _srcHash: 9a4b98e03c46c0868ca074ec0324e1c6
 
 ## 美食收集：
 
-- [巴厘岛十大美食｜巴厘岛旅游的八大注意事项](/blog/2023-08-15-64db6b7dfd897800013a97bc/)
-- [水明漾美食攻略](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [巴厘岛十大美食｜巴厘岛旅游的八大注意事项](/blog/bali-travel-tips/)
+- [水明漾美食攻略](/blog/seminyak-guide/)
 - [库塔美食攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [坎古美食攻略](/blog/2023-02-11-64db6b7efd897800013a9815/)
-- [乌布美食攻略](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [金巴兰攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)
-- [乌鲁瓦图美食攻略](/blog/2024-03-07-65dfd410fd897800019f4b40/)
-- [沙努尔美食](/blog/2024-02-11-65bf2f75fd89780001dbf162/)[攻略](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [努沙杜瓦美食攻略](/blog/2024-01-25-65afb7bbfd897800017023b4/)
-- [北部罗威那美食推荐](/blog/2024-08-31-66c895c1fd89780001455e7f/)
-- [佩尼达岛美食攻略](/blog/2023-10-22-65348754fd89780001b2a259/)
-- [蓝梦岛/金银岛美食攻略](/blog/2024-10-26-671a506ffd8978000182fb4f/)
-- [科莫多岛美食攻略](/blog/2025-05-04-681601c6fd8978000139f8a3/)
+- [坎古美食攻略](/blog/canggu-guide/)
+- [乌布美食攻略](/blog/ubud-guide/)
+- [金巴兰攻略](/blog/jimbaran-guide/)
+- [乌鲁瓦图美食攻略](/blog/uluwatu-guide/)
+- [沙努尔美食](/blog/sanur-guide/)[攻略](/blog/sanur-guide/)
+- [努沙杜瓦美食攻略](/blog/nusa-dua-guide/)
+- [北部罗威那美食推荐](/blog/north-bali-travel-guide/)
+- [佩尼达岛美食攻略](/blog/nusa-penida-best-restaurants/)
+- [蓝梦岛/金银岛美食攻略](/blog/nusa-lembongan-restaurants/)
+- [科莫多岛美食攻略](/blog/komodo-island-labuan-bajo-travel/)

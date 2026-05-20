@@ -90,7 +90,7 @@ With the advancement of the marine highway project, Bali is set to welcome a mor
 
 Bali's marine highway project is an innovative and promising initiative that will not only improve local transportation conditions but also bring new opportunities for tourism and the local economy. As the project progresses, we look forward to seeing Bali become more convenient and prosperous in the future.
 
-> Further reading: [【One of Bali's Transportation Improvement Plans】Bali Light Rail to Begin Construction in September](/blog/2024-07-22-669e605afd8978000115575b/)
+> Further reading: [【One of Bali's Transportation Improvement Plans】Bali Light Rail to Begin Construction in September](/blog/bali-lrt-construction-update/)
 
 ## **Frequently Asked Questions (FAQ)**
 

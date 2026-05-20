@@ -166,7 +166,7 @@ _srcHash: 5e7e2ddfef04154e529f0b229ef8af4d
 
 若我的游记有提供您一点帮助，欢迎继续阅读我其他日子的游记/攻略喔：
 
-- [**Day 1: 住在shopping mall里！两大两小的亲子住宿安排**](/blog/2024-04-23-66266976fd89780001598b10/)
-- [**Day 2: GWK神鹰广场、乌鲁瓦图免费海滩俱乐部、乌鲁瓦图庙、乌鲁瓦图火舞**](/blog/2024-05-17-662c59e9fd897800011f1230/)
-- [**Day 3-7: 五天乌布：美食、景点、住宿、火山探索推荐**](/blog/2024-12-17-674bb924fd8978000120ac11/)
+- [**Day 1: 住在shopping mall里！两大两小的亲子住宿安排**](/blog/bali-family-trip-aloft-kuta/)
+- [**Day 2: GWK神鹰广场、乌鲁瓦图免费海滩俱乐部、乌鲁瓦图庙、乌鲁瓦图火舞**](/blog/bali-family-trip-gwk-beach-club/)
+- [**Day 3-7: 五天乌布：美食、景点、住宿、火山探索推荐**](/blog/bali-family-trip-ubud-guide/)
 

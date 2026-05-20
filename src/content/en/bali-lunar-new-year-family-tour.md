@@ -96,24 +96,24 @@ No need to worry about planning, no shopping stops, no extra fees—just bring y
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2abc41f5a9e9e13d248add4bf70717e4.jpg)
 
-[Click me! Let our experts customize the most exciting Bali trip for you](/blog/2024-08-10-66af3861fd897800010e8f6c/)
+[Click me! Let our experts customize the most exciting Bali trip for you](/blog/isbali-tour-agency-review/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c9e28c93bbbe5f6030c996d2158d6801.jpg)
 
-[Click me! All-inclusive Bali-Komodo trip](/blog/2024-11-19-673c7478fd89780001db176b/)
+[Click me! All-inclusive Bali-Komodo trip](/blog/bali-komodo-luxury-tour-2026/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8d1c49bc97d705d414ae97e29e6deacb.jpg)
 
-[Click me! 5-day Nusa Penida East & West Coast + Bali Instagram-worthy spots tour](/blog/2025-02-16-67b1b9e2fd89780001ab13ac/)
+[Click me! 5-day Nusa Penida East & West Coast + Bali Instagram-worthy spots tour](/blog/nusa-penida-luxury-tour/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_33672ee04cad9cd5d2169e0fc3f6403a.jpg)
 
-[Click me! 5-day Ijen Volcano + Bali adventure](/blog/2025-04-01-67eb9e4afd89780001eb48fb/)
+[Click me! 5-day Ijen Volcano + Bali adventure](/blog/ijen-bromo-bali-luxury-tour/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_bfbd87f7b8aeb2816d05ce668257860f.jpg)
 
-[Click me! Luxury private Bali tour](/blog/2025-03-15-67d2fb9efd89780001013b91/)
+[Click me! Luxury private Bali tour](/blog/bali-luxury-vip-travel-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5ade1700adacfafb5b97583754daa9d0.jpg)
 
-[Click me! Solve all your group travel pain points](/blog/2025-03-05-67c7ed8afd89780001d9cadc/)
+[Click me! Solve all your group travel pain points](/blog/bali-group-travel-tips/)

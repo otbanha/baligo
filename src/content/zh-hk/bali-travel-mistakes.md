@@ -146,7 +146,7 @@ https://youtu.be/ePutHL_Ob1Q
 
 有問題直接問，唔使一個人盲摸摸。🙌
 
-> 睇更多：[峇里島不踩雷攻略：18個常見錯誤與建議](/blog/2024-10-20-6714c06cfd8978000116322a/)
+> 睇更多：[峇里島不踩雷攻略：18個常見錯誤與建議](/blog/bali-travel-mistakes-tips/)
 
 {{block:klook}}
 

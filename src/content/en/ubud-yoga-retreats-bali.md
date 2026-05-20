@@ -273,7 +273,7 @@ Tucked away amidst rice fields and tropical gardens, this resort offers daily yo
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_843bc34c8b0e7915ed3fdffb7ffcb8f3.jpg)
 
-Don't forget to check out our recommended [**100 Attractions Around Ubud**](/blog/2023-11-17-655054b1fd897800011d4d2c/) to discover more natural and cultural beauty!
+Don't forget to check out our recommended [**100 Attractions Around Ubud**](/blog/ubud-guide/) to discover more natural and cultural beauty!
 
 Whether you're looking for a quiet retreat for spiritual practice or hoping to immerse yourself in nature, these 10 yoga accommodations in Ubud will add color to your journey. Quickly pick your favorite stay and let your yoga holiday begin in Ubud!
 

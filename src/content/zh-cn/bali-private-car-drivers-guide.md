@@ -31,7 +31,7 @@ _srcHash: 23f4b4755dcf016b582f57788ca2450c
 
 ➡️[更多巴厘岛超值优惠请点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
-这样大家大概就可以了解包车司机大胜租摩托车的优点。巴厘岛包车的价格目前2024年由10小时 Rp. 600,000(折合美金40/约台币1,200)起跳。关于计价方式、有什么额外支出等的『巴厘岛包车须知懒人包』请[参考这里](/blog/2024-01-12-65a0a163fd8978000115f37a/)。
+这样大家大概就可以了解包车司机大胜租摩托车的优点。巴厘岛包车的价格目前2024年由10小时 Rp. 600,000(折合美金40/约台币1,200)起跳。关于计价方式、有什么额外支出等的『巴厘岛包车须知懒人包』请[参考这里](/blog/bali-private-car-hire-guide/)。
 
 接下来我们来推荐一些在社团最多人评价的司机，我们不加入个人意见，各位可以看看在我们两个脸书社团的团友真实评价。此外，建议不要用评价的多寡来评定司机的好坏喔！能上榜的都是很好的司机！重点是看看网友推荐的内容、推荐的理由，从而找到跟你在意的点契合的司机。毕竟包车司机带你们导览巴厘岛好几天，同时也是巴厘岛之旅的精髓，找到一个合得来的司机比什么都重要喔！
 
@@ -47,7 +47,7 @@ _srcHash: 23f4b4755dcf016b582f57788ca2450c
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e96d46f4fff8532b766b84b03cae9eb8.png)
 
-👉 [Gede Arimbawa 的介绍文](/blog/2024-12-24-676a2ccefd89780001962994/)
+👉 [Gede Arimbawa 的介绍文](/blog/bali-private-driver-recommendation/)
 
 👍🏼[网友推荐1](https://www.facebook.com/groups/baligo/permalink/1173796323167611/) 👍🏼[网友推荐2](https://www.facebook.com/groups/baligo/permalink/1270152276865348/) 👍🏼[网友推荐3](https://www.facebook.com/groups/baligo/permalink/1348959758984599/) 👍🏼[网友推荐4](https://www.facebook.com/groups/baligo/permalink/1348360015711240/) 👍🏼[网友推荐5](https://www.facebook.com/groups/baligo/permalink/1260026594544583/) 👍🏼[网友推荐6](https://www.facebook.com/groups/baligo/permalink/1306258926588016/) 👍🏼[网友推荐7](https://www.facebook.com/groups/baligo/permalink/1241526689727907/) 👍🏼[网友推荐8](https://www.facebook.com/groups/baligo/permalink/1289682914912284/) 👍🏼[网友推荐9](https://www.facebook.com/groups/baligo/permalink/143661292847791/) 👍🏼[网友推荐10](https://www.facebook.com/groups/baligo/permalink/1343577336189508/) 👍🏼[网友推荐11](https://www.facebook.com/groups/indonesia.travelguide/permalink/3489776264624831/) 👍🏼[网友推荐12](https://www.facebook.com/groups/baligo/permalink/1409975659549675/) 👍🏼[网友推荐13](https://www.facebook.com/groups/baligo/permalink/1431157174098190/?mibextid=oMANbw) 👍🏼[网友推荐14](https://www.facebook.com/groups/baligo/permalink/1492057241341516/) 👍🏼[网友推荐15](https://www.facebook.com/groups/baligo/permalink/1511651786048728/) 👍🏼[网友推荐16](https://www.facebook.com/groups/baligo/permalink/1542004513013455/) 👍🏼[网友推荐17](https://www.facebook.com/groups/baligo/permalink/1555630811650825/) 👍🏼[网友推荐18](https://www.facebook.com/share/15Gi8idWzs/) 👍🏼[网友推荐19](https://www.facebook.com/share/p/1AAS7saeGk/) 👍🏼[网友推荐20](https://www.facebook.com/share/p/15wXLx3hKx/) 👍🏼[网友推荐21](https://www.facebook.com/share/p/1Gn4x5Mvke/) 👍🏼[网友推荐22](https://www.facebook.com/share/p/19mrC6ZkZd/) 👍🏼[网友推荐23](https://www.facebook.com/share/p/1AVV529xd1/) 👍🏼[网友推荐24](https://www.facebook.com/share/p/1FrBiTvy2p/) 👍🏼[网友推荐25](https://www.facebook.com/share/p/14UD2y6rqe7/)
 

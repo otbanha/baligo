@@ -38,8 +38,8 @@ _srcHash: 48bc7f1293cfd32273f6f5013254ec1a
 
 ### **行前必做**：
 
-1. 務必先完成申請電子簽證eVisa。請參考[呢度](/blog/2024-02-06-65c217c5fd897800010113af/)有進一步嘅說明，避免進入詐騙網站。
-2. 出發前三日完成AIAC入境卡，並**截圖QR Code**備查。請睇本站整理[常見問題FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)。
+1. 務必先完成申請電子簽證eVisa。請參考[呢度](/blog/bali-evisa-application-guide/)有進一步嘅說明，避免進入詐騙網站。
+2. 出發前三日完成AIAC入境卡，並**截圖QR Code**備查。請睇本站整理[常見問題FAQ](/blog/bali-evisa-customs-health-declaration/)。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
 
@@ -57,7 +57,7 @@ _srcHash: 48bc7f1293cfd32273f6f5013254ec1a
 - **排隊櫃檯**：落地簽證嘅人需要排隊查驗。
 - **電子通關**：事先申請/繳費eVisa嘅人可以免排隊人工蓋章，可以使用「自動通關閘門」。
 
-▶️ 點樣自動通關？請睇[峇里島自動通關流程攻略](/blog/2024-02-06-65c1defcfd89780001f79bfd/)
+▶️ 點樣自動通關？請睇[峇里島自動通關流程攻略](/blog/2025-bali-automatic-customs/)
 
 ### **4️⃣ 領取行李**
 
@@ -79,9 +79,9 @@ _srcHash: 48bc7f1293cfd32273f6f5013254ec1a
 
 - 費用：15萬印尼盾/人（約USD$10）。
 
-▶️ 點樣繳交？請睇[觀光稅](/blog/2024-01-03-65955989fd89780001a95927/)說明
+▶️ 點樣繳交？請睇[觀光稅](/blog/2026-bali-tourism-tax-guide/)說明
 
-👉**額外說明:** [入境印尼/峇里島嘅小朋友簽證/兒童簽證攻略](/blog/2025-12-24-694bf0d9fd89780001214e1c/)
+👉**額外說明:** [入境印尼/峇里島嘅小朋友簽證/兒童簽證攻略](/blog/bali-child-visa-guide/)
 
 ## ⏰ 幾耐前要辦理？
 
@@ -103,7 +103,7 @@ _srcHash: 48bc7f1293cfd32273f6f5013254ec1a
 
 ## **💡 申請電子簽證/All Indonesia時可能遇到嘅常見問題**
 
-請參考[本站FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)
+請參考[本站FAQ](/blog/bali-evisa-customs-health-declaration/)
 
 ***
 

@@ -112,8 +112,8 @@ The Apurva Kempinski Bali 榮獲 ULTRAs 2024「最佳可持續酒店」嘅殊榮
 
 凱賓斯基所在嘅「努沙杜瓦」位於峇里島南部嘅東岸，距離機場行收費高速公路只需30分鐘車程。努沙杜瓦擁有金黃色嘅沙灘、清澈嘅海水同茂密嘅熱帶植被，係享受陽光、沙灘同海水嘅理想場所。
 
-請睇我哋收集咗40個住宿、美食、活動嘅[攻略地圖](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+請睇我哋收集咗40個住宿、美食、活動嘅[攻略地圖](/blog/nusa-dua-guide/)
 
 ![努沙杜瓦攻略地圖](https://images.gobaligo.id/vocus/vocus_63cd2daa53e7c8cb15724fdcda0ec1f9.png)
 
-[努沙杜瓦攻略地圖](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+[努沙杜瓦攻略地圖](/blog/nusa-dua-guide/)

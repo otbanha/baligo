@@ -133,7 +133,7 @@ Essentially, **Gojek** and **Grab** offer very similar services, both functionin
 
 Don’t worry! If you encounter issues registering for Gojek, you can **wait until you arrive locally to register**. In Taiwan, you only need to download the **Gojek app** in advance. Once you arrive in Indonesia and connect to the local network using a local SIM card, you can complete the registration process smoothly.
 
-> Further reading: [Bali Travel Essentials: How to Get Bali Internet/SIM Card?](/blog/2024-03-21-65f916bbfd89780001b916e0/)
+> Further reading: [Bali Travel Essentials: How to Get Bali Internet/SIM Card?](/blog/bali-sim-card-esim-roaming-guide/)
 
 ### **How to ask if a store accepts GoPay?**
 

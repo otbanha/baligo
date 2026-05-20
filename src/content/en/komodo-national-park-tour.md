@@ -133,7 +133,7 @@ Left: Overall, I don't think Ayana Komodo's service is up to five-star standards
 
 > Editor's note: The Indonesian government has announced that Komodo Island will be closed starting in 2025. It's unclear how long it will remain closed, so take this opportunity to visit this paradise!
 
-> **Offering an all-inclusive 5-day/4-night package, including direct flights from Taiwan to Bali, Bali to Komodo Island flights, 4 nights accommodation, private car service for two throughout...etc: ⭐⭐**[**Bali + Komodo Dragon Island, 4 Nights Luxury Stay/No Shopping/No Extra Fees/5-Day Tour**](/blog/2024-11-19-673c7478fd89780001db176b/)**⭐⭐**
+> **Offering an all-inclusive 5-day/4-night package, including direct flights from Taiwan to Bali, Bali to Komodo Island flights, 4 nights accommodation, private car service for two throughout...etc: ⭐⭐**[**Bali + Komodo Dragon Island, 4 Nights Luxury Stay/No Shopping/No Extra Fees/5-Day Tour**](/blog/bali-komodo-luxury-tour-2026/)**⭐⭐**
 
 Do you find Astrid Chang's itinerary fascinating? Start planning your own Bali adventure now! We also welcome everyone to share your travel plans in our community!
 
@@ -141,4 +141,4 @@ Do you find Astrid Chang's itinerary fascinating? Start planning your own Bali a
 
 Click here to watch more amazing Bali travelogues
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue shine!

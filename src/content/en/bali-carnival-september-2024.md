@@ -74,4 +74,4 @@ From steelpan music to Trinidad and Tobago and Caribbean cuisine, this carnival 
 
 **Don't miss this groundbreaking event,** [**book your seat now**](https://www.balicarnival.com/) **and join this fusion of Caribbean and Bali carnival!**
 
-Want to know in advance what festivals and celebrations are coming up in 2024? Check out: [Complete Guide to Indonesia's National Holidays & Bali Festivals 2024: Exciting Event Dates at a Glance!](/blog/2023-12-09-6572b82dfd89780001046222/)
+Want to know in advance what festivals and celebrations are coming up in 2024? Check out: [Complete Guide to Indonesia's National Holidays & Bali Festivals 2024: Exciting Event Dates at a Glance!](/blog/2024-bali-festival-calendar/)

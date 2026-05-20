@@ -31,7 +31,7 @@ _srcHash: 33cc5fdabf16372ed8398a9f0e182adc
 
 **09:15-14:45** 搭机抵达巴厘岛，事先在Klook预约机场接送服务，司机会在机场等候并耐心等2小时。上车后可请司机先载去换钱所换钱，我就直接去了BMC金钱兑换所换钱。之后前往今晚住宿的[The Eight](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23144116)度假村。
 
-> 延伸阅读: [印尼/巴厘岛旅游换汇懒人包](/blog/2024-01-28-65b5c7e2fd89780001e96fac/)
+> 延伸阅读: [印尼/巴厘岛旅游换汇懒人包](/blog/bali-currency-exchange-guide/)
 
 到附近的超市采买防蚊液、转接头、太阳墨镜和夏季泳装。在 [niconico swimwear](https://niconicoswimwear.com/) 买了一套夏季泳装。这间店的店员友善/不会一直强迫推销，款式丰富。
 
@@ -47,13 +47,13 @@ https://youtu.be/UoGlRyAdyB8?si=zU9O679PYB4OFz3U
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775484443433-d2afa4e9-95d6-4542-b6ba-b0fd80619d3a.jpg)
 
-> 延伸阅读: [探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/blog/2023-12-07-6571846ffd89780001fe97ee/)
+> 延伸阅读: [探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
 
 **17:30** 到达The Blue Point Beach。出发前注意潮汐，当日满潮为下午两点，五点去仍在高水位，不好拍照。
 
 https://youtu.be/hQbBTktqEqY
 
-> 延伸阅读: [探索巴厘岛的无人秘境 6个巴厘岛秘境沙滩攻略/如何查询潮汐？](/blog/2023-08-22-64e4c0c9fd897800014e31bf/)
+> 延伸阅读: [探索巴厘岛的无人秘境 6个巴厘岛秘境沙滩攻略/如何查询潮汐？](/blog/bali-hidden-beaches-guide/)
 
 **18:00-19:30** 移驾至La Terrazza Uluwatu用餐赏美景。餐厅建在绝佳地点,可饱览日落及乌鲁瓦图海神庙剪影。
 
@@ -111,7 +111,7 @@ https://youtu.be/JtxZHtijEkE
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775485795494-resize.jpeg)
 
-> 延伸阅读: [巴厘岛瀑布美照怎么能错过这里？Kanto Lampo Waterfall](/blog/2020-11-06-64db6b71fd897800013a9435/)
+> 延伸阅读: [巴厘岛瀑布美照怎么能错过这里？Kanto Lampo Waterfall](/blog/kanto-lampo-waterfall-ig-spot/)
 
 https://youtube.com/shorts/w-gzis-G6OI
 
@@ -168,11 +168,11 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775485916831-resize_3_.jpeg)
 
-> 延伸阅读: [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/2023-08-16-64db6b82fd897800013a9942/)
+> 延伸阅读: [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
 
 在Nusa Penida就只能包车了，我是在Klook上订的船票+包车，整体而言也非常满意。包车公司会事先联系确定行程，然后帮忙跟司机沟通。一下船和司机会合后他还帮忙扛行李，之后全程都很认真当导游，我要爬下kelingking beach他一样跟下来，真的非常感谢他。过程每到一个点他都会拍照跟公司回报，独旅女子觉得安心很多～这个游程真的很感谢包车司机，一路从上到下帮忙扛行李，陪同拍照，很尽责。
 
-> 延伸阅读: [Nusa Penida佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/2024-01-16-65a5e069fd897800010625d0/)
+> 延伸阅读: [Nusa Penida佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
 
 **18:00** 到Penida Colada Beach Bar喝点饮料
 
@@ -290,6 +290,6 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
 
 {{block:攻略}}

@@ -29,9 +29,9 @@ _srcHash: 978d7663785357a2182e194f5163b601
 
 想待在热闹中心？南部地区如**水明漾（Seminyak）**、**库塔（Kuta）**与**坎古（Canggu）**是绝佳选择。这里有高级别墅、节庆自助餐、购物商场与儿童活动，让全家人都能感受圣诞的欢乐。
 
-- [巴厘岛水明漾100个景点攻略](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [巴厘岛水明漾100个景点攻略](/blog/seminyak-guide/)
 - [库塔必访50个景点攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [Canggu 100个必游景点](/blog/2023-02-11-64db6b7efd897800013a9815/)
+- [Canggu 100个必游景点](/blog/canggu-guide/)
 
 ### **文化与宁静兼具的地区**
 
@@ -39,9 +39,9 @@ _srcHash: 978d7663785357a2182e194f5163b601
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_45dd2d1531eeed43e5e6776b3205d148.jpg)
 
-- [乌布探索的100个方式](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [Sanur 50项吃喝玩乐攻略](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [Nusa Dua 40个住宿美食活动攻略](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+- [乌布探索的100个方式](/blog/ubud-guide/)
+- [Sanur 50项吃喝玩乐攻略](/blog/sanur-guide/)
+- [Nusa Dua 40个住宿美食活动攻略](/blog/nusa-dua-guide/)
   ---
 
 ## **在巴厘岛圣诞购物的乐趣**
@@ -128,7 +128,7 @@ _srcHash: 978d7663785357a2182e194f5163b601
 🎅 有木偶剧、儿童合唱团与圣诞老人现身。
 
 💰 **每人约 IDR 400K–450K。**
-  **快速参考：**[【巴厘岛五星奢华推荐】St. Regis Bali Resort 瑞吉度假酒店](/blog/2025-01-19-678ce3f3fd8978000139e3bf/)
+  **快速参考：**[【巴厘岛五星奢华推荐】St. Regis Bali Resort 瑞吉度假酒店](/blog/st-regis-bali-resort/)
 
 ### **🌅 Arwana Restaurant – The Laguna, Nusa Dua**
 
@@ -149,7 +149,7 @@ _srcHash: 978d7663785357a2182e194f5163b601
 👨‍👩‍👧‍👦 有儿童角与现场魔术表演。
 
 💰 **成人约 IDR 1,600K，儿童半价。**
-  **快速参考：**[【巴厘岛五星奢华推荐】豪华度假村推荐 Mulia Resort](/blog/2025-01-19-678cd483fd8978000137dedf/)
+  **快速参考：**[【巴厘岛五星奢华推荐】豪华度假村推荐 Mulia Resort](/blog/mulia-resort-bali-luxury/)
 
 ## **金巴兰（Jimbaran）区**
 
@@ -170,7 +170,7 @@ _srcHash: 978d7663785357a2182e194f5163b601
 提供「传统圣诞烤肉」与素食选择。
 
 💰 **成人 IDR 1,200K 起。**
-  **快速参考：**[【巴厘岛阿雅那】Ayana Bali 住宿懒人包》Ayana Segara, RIMBA, Ayana Resort..](/blog/2023-10-26-653914f6fd89780001fef733/)
+  **快速参考：**[【巴厘岛阿雅那】Ayana Bali 住宿懒人包》Ayana Segara, RIMBA, Ayana Resort..](/blog/ayana-resort-bali-guide/)
 
 ### 金巴兰湾巴厘岛四季酒店
 
@@ -178,7 +178,7 @@ _srcHash: 978d7663785357a2182e194f5163b601
 - - 12／24 & 12／25 晚：法式‐亚洲融合五道菜晚宴「Festive Set Dinner at Sundara」于 18:00–23:00，价位为 **IDR 1,450,000／人**。
     - 圣诞节午餐（12／25）Brunch 时段 11:00–16:00，成人价位为 **IDR 1,500,000／人**。
     - 12／31 跨年晚宴： Buffet + 烟火与派对氛围；成人价位例如五道菜＋香槟＋酒水无限为 **IDR 7,000,000／人**。
-  **快速参考：**[巴厘岛住宿：金巴兰四季酒店开箱 & 优惠](/blog/2024-08-09-66b5be79fd897800016df66e/)
+  **快速参考：**[巴厘岛住宿：金巴兰四季酒店开箱 & 优惠](/blog/four-seasons-bali-jimbaran-bay/)
 
 ### 巴厘岛洲际度假酒店
 
@@ -229,7 +229,7 @@ _srcHash: 978d7663785357a2182e194f5163b601
 
 巴厘岛著名的文化表演节目《Devdan Show》在圣诞节推出特别场，结合传统舞蹈与节庆元素。观众可欣赏烟火、灯光秀与圣诞老人惊喜现身，气氛梦幻又感人。
 
-我们有详细的介绍请看[这里](/blog/2025-06-21-68557a29fd897800017f4272/)
+我们有详细的介绍请看[这里](/blog/devdan-show-nusa-dua/)
 
 > [Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
 > [kkday购票链接](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=17351)
@@ -380,6 +380,6 @@ _srcHash: 978d7663785357a2182e194f5163b601
 
 ### Q6：如果突然遇到下雨怎么办？
 
-别担心！我们提供了60个巴厘岛下雨天的活动备案。请看[这里](/blog/2024-01-06-6598c6fffd89780001047d76/)。
+别担心！我们提供了60个巴厘岛下雨天的活动备案。请看[这里](/blog/2026-bali-indoor-activities/)。
   ---
  BLOCK0 

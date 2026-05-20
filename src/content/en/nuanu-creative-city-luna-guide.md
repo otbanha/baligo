@@ -41,7 +41,7 @@ Nuanu Creative City is a 44-hectare creative complex located in Tabanan, Bali (s
 
 Nuanu Creative City's core philosophy is rooted in the Balinese tradition of **Tri Hita Karana**, a way of life emphasizing harmony between humans and gods, humans and others, and humans and nature. The landmark **THK Tower** (Tri Hita Karana Tower), designed by architect Arthur Mamou Mani and constructed using reclaimed wood, embodies this philosophy. This spiral tower is not only a visual focal point but also symbolizes the spiritual essence of Nuanu.
 
-For more details on THK Tower, visit [here](/blog/2025-04-18-67a2b251fd897800013ccad4/) (📍 [Map Location](/map/nuanu/))
+For more details on THK Tower, visit [here](/blog/thk-tower-nuanu-sustainable-architecture/) (📍 [Map Location](/map/nuanu/))
 
 ![Tri Hita Karana Tower](https://images.gobaligo.id/vocus/vocus_ff4da7325988417852c280cad0d34efb.jpg)
 
@@ -93,7 +93,7 @@ Nuanu Creative City has completed several independent projects, with more curren
 
 At the entrance of Nuanu Creative City in Bali, stand two towering 14-meter sculptures called 'The Earth Sentinels,' created by renowned South African artist Daniel Popper. This work combines natural and human forms, symbolizing the connection between humanity and Earth, serving as a striking artistic landmark.
 
-We have further details available [here](/blog/2025-06-07-68440df9fd89780001afd27b/)
+We have further details available [here](/blog/the-earth-sentinels-nuanu/)
 
 ### Aurora Media Park (📍 [Map Location](/map/nuanu/))
 
@@ -101,7 +101,7 @@ We have further details available [here](/blog/2025-06-07-68440df9fd89780001afd2
 
 Aurora Media Park Bali is a new landmark that integrates nature with interactive multimedia technology. Located in the Nuanu creative area of Tabanan Regency, this attraction offers a 1-kilometer-long open forest experience filled with light, sound, and interactive games, utilizing AI technology to create an immersive multimedia environment. Visitors can experience both visual and auditory sensations in this 5,000-square-meter natural forest, while also finding spiritual inspiration, as if entering a new dimension.
 
-For more details, check out [this link](/blog/2025-02-01-679dddeafd89780001a820fd/)
+For more details, check out [this link](/blog/aurora-media-park-canggu/)
 
 ### Luna Beach Club (📍 [Map Location](/map/nuanu/))
 
@@ -111,7 +111,7 @@ For more details, check out [this link](/blog/2025-02-01-679dddeafd89780001a820f
 
 Luna Beach Club, a lifestyle destination within Nuanu Creative City, blends natural beauty, artistic creativity, and diverse experiences. Opened in 2024, this beach club has become a shining gem on Bali's west coast with its unique design and innovative entertainment concepts. From stunning ocean views to imaginative architecture, Luna Beach Club offers visitors an escape from daily life, immersing them in a dreamlike space where nature and art intertwine.
 
-For more details, please see [here](/blog/2025-04-18-67a2c0c0fd897800013f7a3e/)
+For more details, please see [here](/blog/luna-beach-club-nuanu-tabanan/)
 
 ### Magic Garden (📍 [Map Location](/map/nuanu/))
 
@@ -119,7 +119,7 @@ For more details, please see [here](/blog/2025-04-18-67a2c0c0fd897800013f7a3e/)
 
 Magic Garden (Enchanted Garden) is a newly opened natural park in November 2024, perfect for family and parent-child outings. This 3,600 square meter attraction boasts a rich variety of plants and diverse interactive experiences, offering both educational value and fun.
 
-For further details, please visit [here](/blog/2025-04-18-679f922ffd89780001f9a868/).
+For further details, please visit [here](/blog/nuanu-magic-garden-bali/).
 
 ### Pacha Alpaca Alpaca Interaction Picnic: A Natural Classroom for Kids (📍 [Map Location](/map/nuanu/))
 
@@ -127,7 +127,7 @@ For further details, please visit [here](/blog/2025-04-18-679f922ffd89780001f9a8
 
 If you're planning a fun and educational family trip, the **Pacha Alpaca Alpaca Interaction Experience** is the perfect choice! Located in the Nuanu Nature Reserve, this attraction not only allows children to get up close with adorable alpacas but also lets the whole family enjoy a peaceful and unforgettable time in nature.
 
-This is a healing journey suitable for the whole family. For a more in-depth introduction, visit [here](/blog/2025-02-01-679e01b3fd89780001addbd9/).
+This is a healing journey suitable for the whole family. For a more in-depth introduction, visit [here](/blog/pacha-alpaca-family-canggu/).
 
 ### Labyrinth Collective (📍 [Map Location](/map/nuanu/))
 
@@ -145,9 +145,9 @@ Especially the immersive dome theater, which hosts spectacular歌舞秀 every Fr
 - **Ticket Price**: Starting from IDR 300,000 (approximately USD$20)
 - **Location**: Labyrinth Arts Centre
 - **Ticket Purchase Link**: [Click Here to Buy Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063286&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F158960-bali-mystic-dome-show-at-labyrinth%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D50288a468e) 🎫
-- **Additional Experience**: Ticket holders can visit the [Labyrinth Art Gallery](/blog/2025-04-18-67a2369cfd897800012db961/) for free and take photos at the '[Guardians of the Earth](/blog/2025-06-07-68440df9fd89780001afd27b/)' statue.
+- **Additional Experience**: Ticket holders can visit the [Labyrinth Art Gallery](/blog/labyrinth-collective-nuanu-bali/) for free and take photos at the '[Guardians of the Earth](/blog/the-earth-sentinels-nuanu/)' statue.
 
-We have in-depth introductions available [here](/blog/2025-04-18-67a2369cfd897800012db961/)
+We have in-depth introductions available [here](/blog/labyrinth-collective-nuanu-bali/)
 
 ### Jungle Kids Bali: More Than Just a Playground, It's a Learning Paradise (📍 [Map Location](/map/nuanu/))
 
@@ -155,7 +155,7 @@ We have in-depth introductions available [here](/blog/2025-04-18-67a2369cfd89780
 
 This is not just an ordinary playground, but a multifunctional space that combines exploration, learning, and creative experiences. It offers a variety of play facilities, from outdoor rope parks to indoor play areas, as well as daily art and craft workshops, allowing children to learn through play while nurturing creativity and social skills.
 
-For further details, please visit [here](/blog/2025-04-18-67a402f9fd897800017c0313/)
+For further details, please visit [here](/blog/jungle-kids-bali-nuanu-playground/)
 
 ### Lumeira Wellness Bali: The World's Largest Wood-Fired Steam Spa (📍 [Map Location](/map/nuanu/))
 
@@ -165,7 +165,7 @@ Lumeira Spa
 
 Lumeira Wellness Bali is a comprehensive wellness space that combines social and health concepts, located within Nuanu Creative City in Bali. It not only offers diverse healing services but also strives to create an environment where people can deeply connect with nature and others. Lumeira's design philosophy is to help restore physical and mental balance through carefully curated facilities and treatments, allowing guests to achieve deep relaxation amidst Bali's natural beauty. Built in traditional Balinese thatched architecture using bamboo and alang-alang grass (a durable natural roofing material), the entire spa operates carbon-neutrally.
 
-Detailed introduction available [here](/blog/2025-04-18-67a0a335fd897800012bceee/)
+Detailed introduction available [here](/blog/lumeira-wellness-bali-spa/)
 
 ***
 
@@ -191,7 +191,7 @@ Oshom Bali
 
 The hotel is nestled against a cliff, facing a black sand beach, and features only 11 rooms. It also boasts seven treehouses built above mangroves, a saltwater pool, and a refined restaurant. A pink-orange rooftop bar is set to open soon, along with reading spaces and a yoga room, offering travelers more moments of tranquility.
 
-For hotel introduction, please see [here](/blog/2025-02-02-679f6ce7fd89780001f18c4a/)
+For hotel introduction, please see [here](/blog/oshom-bali-nuanu-creative-city/)
 
 ### Nuanu Suites & Accommodations（📍 [Map Location](/map/nuanu/)）
 

@@ -22,7 +22,7 @@ Located in Canggu, Bali, Finns Beach Club boasts stunning ocean views and unpara
 https://youtube.com/shorts/wai2lSW3vVU
 
 **Must-See for Canggu Travel:**
-**▶**[**Bali Canggu Adventure Map: 50 Must-Visit Spots in Canggu｜2026 Guide**](/blog/2023-02-11-64db6b7efd897800013a9815/)
+**▶**[**Bali Canggu Adventure Map: 50 Must-Visit Spots in Canggu｜2026 Guide**](/blog/canggu-guide/)
 
 ## Reasons to Visit Finns Beach Club
 
@@ -130,7 +130,7 @@ Whether you want to spend a leisurely day in the sun or party all night long, Fi
 
 ### Q: What are the operating hours of FINNS Beach Club?
 
-FINNS Beach Club and FINNS VIP Beach Club open daily at 10 AM and operate year-round, except on Nyepi Day (Hindu Day of Silence). On Nyepi Day, almost all commercial activities on the island pause, including FINNS. (Read more: [Understanding Nyepi Day](/blog/2023-12-30-658f8575fd89780001a35141/))
+FINNS Beach Club and FINNS VIP Beach Club open daily at 10 AM and operate year-round, except on Nyepi Day (Hindu Day of Silence). On Nyepi Day, almost all commercial activities on the island pause, including FINNS. (Read more: [Understanding Nyepi Day](/blog/2025-bali-nyepi-day-guide/))
 
 ### Q: What time does FINNS Beach Club close?
 

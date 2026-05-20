@@ -57,7 +57,7 @@ _srcHash: dc5ae02670322f6ca24a41cc2993d6f7
 
 **取消的国内航班：**
 
-- [科莫多机场的Labuan Bajo](/blog/2025-05-04-681601c6fd8978000139f8a3/)至巴厘岛（2班）
+- [科莫多机场的Labuan Bajo](/blog/komodo-island-labuan-bajo-travel/)至巴厘岛（2班）
 
 **取消的出发航班：**
 

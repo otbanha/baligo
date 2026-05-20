@@ -59,9 +59,9 @@ Padang Padang海滩小杰的介绍
 
 ![烏魯瓦圖攻略有更全面的介紹](https://images.gobaligo.id/vocus/vocus_21777e6a472d74c62c56833f409a2864.jpg)
 
-[乌鲁瓦图攻略有更全面的介绍](/blog/2024-03-07-65dfd410fd897800019f4b40/)
+[乌鲁瓦图攻略有更全面的介绍](/blog/uluwatu-guide/)
 
-其他在视频中没有介绍到的「Tanah Barak Cliff」蓝色公路、11个乌鲁瓦图海滩俱乐部、16家美食餐厅推荐、两家亲子餐厅、四个购物点... 等介绍，请参考我们的「[【乌鲁瓦图攻略】乌鲁瓦图景点 50个吃喝玩乐推荐](/blog/2024-03-07-65dfd410fd897800019f4b40/)」
+其他在视频中没有介绍到的「Tanah Barak Cliff」蓝色公路、11个乌鲁瓦图海滩俱乐部、16家美食餐厅推荐、两家亲子餐厅、四个购物点... 等介绍，请参考我们的「[【乌鲁瓦图攻略】乌鲁瓦图景点 50个吃喝玩乐推荐](/blog/uluwatu-guide/)」
 
 ![](https://res.cloudinary.com/dksxqobud/image/upload/v1774107631/pandawa3_jbnbjf.jpg)
 

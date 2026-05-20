@@ -122,7 +122,7 @@ Sanur also boasts several large air-conditioned indoor playgrounds! If the weath
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
-Sanur is a serene coastal town in Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's the ideal place to enjoy a slow-paced lifestyle and explore local culture. Whether you're strolling along the coastline or soaking up the local vibe, Sanur offers an incredibly relaxing vacation experience! Want to know more about Sanur? [Click here](/blog/2024-02-11-65bf2f75fd89780001dbf162/).
+Sanur is a serene coastal town in Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's the ideal place to enjoy a slow-paced lifestyle and explore local culture. Whether you're strolling along the coastline or soaking up the local vibe, Sanur offers an incredibly relaxing vacation experience! Want to know more about Sanur? [Click here](/blog/sanur-guide/).
 
 {{block:klook}}
 
@@ -146,7 +146,7 @@ The main beach areas have clean public changing rooms and restrooms, but for nur
 
 ### **Is Sanur too boring? Will kids have fun?**
 
-Sanur combines beaches, water activities, large indoor playgrounds, markets, art, and dining, ensuring children have different experiences every day. Check out Sanur's top 10 family activities and food recommendations [here](/blog/2025-02-22-67b81b4cfd89780001b4a261/)
+Sanur combines beaches, water activities, large indoor playgrounds, markets, art, and dining, ensuring children have different experiences every day. Check out Sanur's top 10 family activities and food recommendations [here](/blog/sanur-family-travel-guide-2/)
 
 ### **Is the seawater in Sanur clean?**
 
@@ -158,7 +158,7 @@ Local beach rental stalls offer float boards, kayaks, stand-up paddleboards (SUP
 
 ### What are the accommodation options in Sanur?
 
-We've compiled a list of over 20 recommended accommodations in Sanur, ranging from 5-star beachfront resorts to budget-friendly options ideal for long stays. Check them out [here](</blog/2024-08-21-66c3e440fd897800014425a8/>).
+We've compiled a list of over 20 recommended accommodations in Sanur, ranging from 5-star beachfront resorts to budget-friendly options ideal for long stays. Check them out [here](</blog/sanur-luxury-budget-resorts/>).
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a30e6d3bb9254b52e79802119cfaaaf2.jpg)
 

@@ -108,7 +108,7 @@ In addition to the restaurants within the resort, there are several dining optio
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
-Nusa Dua is a region in Bali renowned for its luxurious resorts, boasting pristine white sand beaches, crystal-clear blue waters, and comprehensive tourist facilities, making it the top choice for those seeking high-end enjoyment and tranquil vacations. It also offers top-tier spas, water sports, and leisure activities suitable for the whole family, making it a paradise for all types of travelers. Want to learn more about Nusa Dua? [Click here](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+Nusa Dua is a region in Bali renowned for its luxurious resorts, boasting pristine white sand beaches, crystal-clear blue waters, and comprehensive tourist facilities, making it the top choice for those seeking high-end enjoyment and tranquil vacations. It also offers top-tier spas, water sports, and leisure activities suitable for the whole family, making it a paradise for all types of travelers. Want to learn more about Nusa Dua? [Click here](/blog/nusa-dua-guide/)
 
 🏖️🌊🚤Experience water activities at Tanjung Benoa, including parasailing, snorkeling, sea walking, and banana boat rides ▶[Klook Discount](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25B8%25B9%25E6%2588%258E%25E8%25B2%259D%25E8%25AB%25BE%25E7%2593%25A6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D4376a16ccb)
 
@@ -168,4 +168,4 @@ This was our first time in Bali, and Mulia Resort provided the perfect starting 
 
 **Nusa Dua is a renowned high-end resort area in southern Bali, famous for its tranquil environment, pristine beaches, and world-class luxury experiences.** If you’re looking for a luxurious five-star resort, Nusa Dua offers numerous top-tier options, complete with private beaches, exquisite dining, and spa services.
 
-👉 **Want to explore more top accommodations in Nusa Dua?** [**Click here**](/blog/2024-07-27-66a4562afd89780001d70329/)**!**
+👉 **Want to explore more top accommodations in Nusa Dua?** [**Click here**](/blog/nusa-dua-resorts-guide/)**!**

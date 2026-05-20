@@ -269,7 +269,7 @@ _srcHash: 9a4b98e03c46c0868ca074ec0324e1c6
 - **Gado-Gado**：暖沙律配花生醬，配料有炸豆腐、烚蛋同印尼國寶「Krupuk」蝦片
 - **Tempeh Manis**：發酵黃豆餅用甜豉油炒到焦香，蛋白質爆燈！
 
-> 延伸閱讀：[峇里島Top 20素食友善餐廳探索：巴里島素食嘅美味之旅](/blog/2024-09-07-66dc687afd8978000151d046/)
+> 延伸閱讀：[峇里島Top 20素食友善餐廳探索：巴里島素食嘅美味之旅](/blog/bali-vegan-restaurants-guide/)
 
 ---
 
@@ -289,16 +289,16 @@ _srcHash: 9a4b98e03c46c0868ca074ec0324e1c6
 
 ## 美食收集：
 
-- [峇里島十大美食｜巴里島旅遊嘅八大注意事項](/blog/2023-08-15-64db6b7dfd897800013a97bc/)
-- [水明漾美食攻略](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [峇里島十大美食｜巴里島旅遊嘅八大注意事項](/blog/bali-travel-tips/)
+- [水明漾美食攻略](/blog/seminyak-guide/)
 - [庫塔美食攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [坎古美食攻略](/blog/2023-02-11-64db6b7efd897800013a9815/)
-- [烏布美食攻略](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [金巴蘭攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)
-- [烏魯瓦圖美食攻略](/blog/2024-03-07-65dfd410fd897800019f4b40/)
-- [沙努爾美食](/blog/2024-02-11-65bf2f75fd89780001dbf162/)[攻略](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [努沙杜瓦美食攻略](/blog/2024-01-25-65afb7bbfd897800017023b4/)
-- [北部Lovina美食推薦](/blog/2024-08-31-66c895c1fd89780001455e7f/)
-- [佩尼達島美食攻略](/blog/2023-10-22-65348754fd89780001b2a259/)
-- [藍夢島/金銀島美食攻略](/blog/2024-10-26-671a506ffd8978000182fb4f/)
-- [科摩多島美食攻略](/blog/2025-05-04-681601c6fd8978000139f8a3/)
+- [坎古美食攻略](/blog/canggu-guide/)
+- [烏布美食攻略](/blog/ubud-guide/)
+- [金巴蘭攻略](/blog/jimbaran-guide/)
+- [烏魯瓦圖美食攻略](/blog/uluwatu-guide/)
+- [沙努爾美食](/blog/sanur-guide/)[攻略](/blog/sanur-guide/)
+- [努沙杜瓦美食攻略](/blog/nusa-dua-guide/)
+- [北部Lovina美食推薦](/blog/north-bali-travel-guide/)
+- [佩尼達島美食攻略](/blog/nusa-penida-best-restaurants/)
+- [藍夢島/金銀島美食攻略](/blog/nusa-lembongan-restaurants/)
+- [科摩多島美食攻略](/blog/komodo-island-labuan-bajo-travel/)

@@ -63,9 +63,9 @@ If you're planning a trip to Bali, these beach areas are definitely worth adding
 
 **Quick Reference:**
 
-- [Sanur Travel Guide](/blog/2023-08-21-64e2de1bfd897800018eff0b/)
-- [Nusa Penida Complete Guide](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [Lembongan Island Attractions Guide](/blog/2024-10-23-66adfb9afd89780001f62df1/)
+- [Sanur Travel Guide](/blog/sanur-travel-map/)
+- [Nusa Penida Complete Guide](/blog/nusa-penida-guide/)
+- [Lembongan Island Attractions Guide](/blog/nusa-lembongan-ceningan-guide/)
 
 ---
 

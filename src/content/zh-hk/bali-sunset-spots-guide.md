@@ -42,7 +42,7 @@ _srcHash: 6c7ff885b7dab05183c7865d0cd2ac2a
 
 呢座標誌性嘅海上廟宇係睇日落嘅熱門地點，提供壯觀嘅背景，睇住個夕陽沉落去地平線。
 
-> 延伸閱讀：[峇里島坎古完美探險地圖：100個坎古必遊景點](/blog/2023-02-11-64db6b7efd897800013a9815/)
+> 延伸閱讀：[峇里島坎古完美探險地圖：100個坎古必遊景點](/blog/canggu-guide/)
 
 ### **烏魯瓦圖廟（Uluwatu Temple）**
 
@@ -52,7 +52,7 @@ _srcHash: 6c7ff885b7dab05183c7865d0cd2ac2a
 
 坐落喺懸崖上面嘅廟宇，提供戲劇性嘅日落景觀，印度洋喺腳下延伸開去。
 
-> 延伸閱讀：[【烏魯瓦圖攻略】烏魯瓦圖景點 47個吃喝玩樂推薦](/blog/2024-03-07-65dfd410fd897800019f4b40/)
+> 延伸閱讀：[【烏魯瓦圖攻略】烏魯瓦圖景點 47個吃喝玩樂推薦](/blog/uluwatu-guide/)
 
 ### **金巴蘭海灘（Jimbaran Beach）**
 
@@ -62,13 +62,13 @@ _srcHash: 6c7ff885b7dab05183c7865d0cd2ac2a
 
 以海鮮餐廳聞名嘅金巴蘭海灘，係享受美食同時睇日落嘅好地方。
 
-> 延伸閱讀：[峇里島金巴蘭自由行：推薦30個玩樂景點全攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)
+> 延伸閱讀：[峇里島金巴蘭自由行：推薦30個玩樂景點全攻略](/blog/jimbaran-guide/)
 
 ### **Rock Bar**
 
-位於[阿雅娜度假村](/blog/2023-10-26-653914f6fd89780001fef733/)內，呢度係峇里島最受歡迎嘅日落酒吧之一，提供壯麗嘅懸崖海景同獨特嘅氛圍。
+位於[阿雅娜度假村](/blog/ayana-resort-bali-guide/)內，呢度係峇里島最受歡迎嘅日落酒吧之一，提供壯麗嘅懸崖海景同獨特嘅氛圍。
 
-> 延伸閱讀：[【峇里島阿雅娜】Ayana Bali 住宿懶人包》](/blog/2023-10-26-653914f6fd89780001fef733/)
+> 延伸閱讀：[【峇里島阿雅娜】Ayana Bali 住宿懶人包》](/blog/ayana-resort-bali-guide/)
 
 ### **水明漾海灘（Seminyak Beach）**
 
@@ -76,17 +76,17 @@ _srcHash: 6c7ff885b7dab05183c7865d0cd2ac2a
 
 > 延伸閱讀：
 
-> [MoonLite Kitchen and Bar：水明漾嘅日落美食天堂](/blog/2025-01-25-6794ca61fd89780001127add/)
+> [MoonLite Kitchen and Bar：水明漾嘅日落美食天堂](/blog/moonlite-kitchen-bar-seminyak-sunset/)
 
-> [峇里島水明漾 Ku De Ta Beach Club 完整攻略：餐飲、派對、日落嘅夢幻海灘體驗](/blog/2025-02-24-67bc10d5fd897800015888e3/)
+> [峇里島水明漾 Ku De Ta Beach Club 完整攻略：餐飲、派對、日落嘅夢幻海灘體驗](/blog/ku-de-ta-beach-club/)
 
-> [水明漾景點Seminyak峇里島必去地點地圖：60個吃喝玩樂全面介紹](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+> [水明漾景點Seminyak峇里島必去地點地圖：60個吃喝玩樂全面介紹](/blog/seminyak-guide/)
 
 ### **Echo Beach**
 
 位於坎古（Canggu），呢度係滑浪愛好者嘅最愛，出名嘅La Brisa海灘俱樂部提供更加悠閒嘅日落觀賞環境。
 
-> 延伸閱讀：[被譽為係「峇里島最靚嘅餐廳」：La Brisa](/blog/2023-12-04-656d19fffd897800019cb6ed/)
+> 延伸閱讀：[被譽為係「峇里島最靚嘅餐廳」：La Brisa](/blog/canggu-la-brisa-restaurant-guide/)
 
 ## 完美日落體驗嘅建議
 

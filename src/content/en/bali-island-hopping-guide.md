@@ -29,9 +29,9 @@ Bali, often referred to as paradise, boasts breathtaking landscapes and a rich c
 
 Further Reading:
 
-> [【Bali - Nusa Penida Complete Guide】Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)
+> [【Bali - Nusa Penida Complete Guide】Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
 
-> [【Gili Islands Guide: The Ultimate Resort Destination】Indulge in a Paradise Island Vacation!](/blog/2024-04-10-6615f2a8fd89780001eb72fc/)
+> [【Gili Islands Guide: The Ultimate Resort Destination】Indulge in a Paradise Island Vacation!](/blog/gili-islands-travel-guide/)
 
 When planning a Bali island-hopping trip, securing speedboat tickets in advance is crucial. The method and location of purchasing these tickets can significantly impact the smoothness of your journey. In this article, we’ll discuss how to buy speedboat tickets, where to purchase them, and why we recommend buying them on Klook. Let’s dive into this topic!
 
@@ -78,7 +78,7 @@ Here are some experiences related to the Gili Islands:
 1. You can buy tickets directly at the port, but make sure to arrive at the ticket counter at least one hour before departure.
 2. Booking in advance on Klook offers discounts and saves you time from queuing.
 3. Large luggage is allowed, but it's best to avoid it as it can be very inconvenient on the islands.
-4. For luggage storage services, please [refer here](/blog/2024-03-12-65ea5fc9fd89780001f099b8/).
+4. For luggage storage services, please [refer here](/blog/sanur-luggage-storage-guide/).
 5. Wear flip-flops and shorts when boarding, as you may need to wade through water to disembark on some islands.
 6. If you purchased tickets through Klook, arrive at the port at least 30 minutes before departure.
 7. It’s best to book tickets through Klook at least one day in advance.

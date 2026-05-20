@@ -64,7 +64,7 @@ Here, you can book a Kecak Dance performance without having to jostle through cr
 
 ▶[Check Tanah Gajah availability, room types, and rates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=69555)
 
-(Featured in "[20 Amazing Bali Villas in Ubud](/blog/2024-04-24-6628f08cfd8978000190a575/)")
+(Featured in "[20 Amazing Bali Villas in Ubud](/blog/ubud-villa-pool-guide/)")
 
 ---
 
@@ -96,7 +96,7 @@ Jimbaran (provided by Ya-yun Chen)
 
 Staying in a villa with a large pool is especially suitable for families with children (provided by Ya-yun Chen)
 
-> Further reading: [Bali Travel: Recommended Family Villas with Three or More Bedrooms](/blog/2024-04-30-662e156bfd8978000130c73c/)
+> Further reading: [Bali Travel: Recommended Family Villas with Three or More Bedrooms](/blog/bali-group-villa-stay/)
 
 - In the morning, we enjoyed a leisurely breakfast at the villa and went for a swim, then headed to iiga Warung for a delicious pork rib lunch. The ribs were tender and juicy, making them irresistible.
 
@@ -114,7 +114,7 @@ GWK's Free Performance Schedule (For Reference Only, Subject to Change)
 
 GWK offers free performances at scheduled times, with open admission. If you don't want to spend extra money to watch the Kecak fire dance at Uluwatu, don't miss the free fire dance show here at 18:00!)
 
-> [Complete Guide to Garuda Wisnu Kencana (GWK) Cultural Park in Bali](/blog/2025-07-17-68785bf9fd89780001822053/)
+> [Complete Guide to Garuda Wisnu Kencana (GWK) Cultural Park in Bali](/blog/gwk-cultural-park-bali/)
 
 > Book [GWK Cultural Park Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D31be720b57)
 
@@ -124,7 +124,7 @@ Sea Kayaking (provided by Ya-yun Chen)
 
 - Later, we went to Mertasari Beach for kayaking. It only costs USD$1 per boat for one hour. The kids played in the water while the adults enjoyed the sunshine on the shore.
 
-> Further Reading: [Jay's Sea Kayaking Experience](/blog/2023-11-06-6548e78ffd89780001612686/)
+> Further Reading: [Jay's Sea Kayaking Experience](/blog/sanur-kayaking-experience/)
 
 ![Bandar Nelayan Seafood（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_0986163175368aef99f15a4b9fa93ce4.jpg)
 
@@ -164,7 +164,7 @@ Private Car Tour (provided by Ya-yun Chen)
 - In the afternoon, we visited Ulun Danu Beratan Temple, located in the middle of a lake, offering picturesque scenery perfect for photography.
 - We also stopped by Handara Gate, but upon arrival, we were told we'd have to wait an hour for photos, so we decided to skip it.
 
-> Further Reading: [The Misinterpretation of "Gates of Heaven"!? The True Meaning and Correct Name of Candi Bentar](/blog/2024-07-26-66a31f0bfd8978000149ad4a/)
+> Further Reading: [The Misinterpretation of "Gates of Heaven"!? The True Meaning and Correct Name of Candi Bentar](/blog/candi-bentar-balinese-gate-history/)
 
 ### **Day 5:**
 
@@ -172,9 +172,9 @@ Private Car Tour (provided by Ya-yun Chen)
 
 ![Jungle Cart 請看小傑的介紹](https://images.gobaligo.id/vocus/vocus_67919aa2ca07a223f708bf11bc265a00.jpg)
 
-[Check out Jie's Introduction to Jungle Cart](/blog/2024-07-06-66892d20fd8978000183776c/)
+[Check out Jie's Introduction to Jungle Cart](/blog/ubud-jungle-cart-adventure/)
 
-> Further Reading: [Bali Ubud Jungle Cart Adventure](/blog/2024-07-06-66892d20fd8978000183776c/)
+> Further Reading: [Bali Ubud Jungle Cart Adventure](/blog/ubud-jungle-cart-adventure/)
 
 - Then we visited Ubud Palace, which is well-preserved and gave us a deeper understanding of Bali's traditional architecture and culture.
 - Next, we headed to Pura Taman Saraswati, where the lotus pond and exquisite stone carvings were truly captivating.
@@ -196,13 +196,13 @@ Day 6 activities (provided by Ya-yun Chen)
 
 - Today's activities included the Wos Tubbing Adventure, a fun water activity that our whole family thoroughly enjoyed.
 
-> [Bali Tubing Guide (Tubing FAQ)](/blog/2025-03-28-67e62aa8fd89780001888620/)
+> [Bali Tubing Guide (Tubing FAQ)](/blog/bali-rafting-ayung-telaga-waja/)
 
 > Book [Wos River Tubing Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110089-tubing-experience-ubud-wos-tubing-adventure%2F%3Fcampaignid%3D21203884931%26adgroupid%3D166936151891%26targetid%3Ddsa-2304163218195%26matchtype%3D%26device%3Dc%26creative%3D697061761157%26extensionid%3D%26keyword%3D%26loc_interest_ms%3D%26loc_physical_ms%3D9119738%26network%3Dg%26utm_content%3Dcampaignid_21203884931_adgroupid_166936151891%26gad_source%3D1%26gclid%3DCjwKCAjw4_K0BhBsEiwAfVVZ_6xWskrg8op_zwbS5jmaegXQ5hh1Qn8eJlcJUhIOPQ9gyTjW5tKoWBoCUtIQAvD_BwE%26spm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dc20fca3e03)
 
 - Afterwards, we visited Bali Bird Park, where the kids were fascinated by the colorful array of beautiful birds.
 
-> [Bali Bird Park Ultimate Guide: A Magical Journey of Rare Birds, Interactive Activities, and Ecological Conservation](/blog/2025-10-25-68fc1e0cfd89780001736727/)
+> [Bali Bird Park Ultimate Guide: A Magical Journey of Rare Birds, Interactive Activities, and Ecological Conservation](/blog/bali-bird-park-guide/)
 
 > Book [Discounted Tickets for Bali Bird Park](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D8c994fcef3)
 
@@ -210,7 +210,7 @@ Day 6 activities (provided by Ya-yun Chen)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_be1afd0d3207cfc5cb4fbd84763fe7f6.jpg)
 
-Want to learn more about Ubud travel tips? [Click here](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+Want to learn more about Ubud travel tips? [Click here](/blog/ubud-guide/)
 
 ### **Day 7:**
 
@@ -244,21 +244,21 @@ Do you find Ya-yun Chen’s itinerary exciting? Start planning your own Bali adv
 
 Click here to watch more amazing Bali travelogues
 
-Do you want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue stand out!
+Do you want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
 ## Recommended Guides:
 
-- [100 Must-See Spots in Seminyak, Bali](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [100 Must-See Spots in Seminyak, Bali](/blog/seminyak-guide/)
 - [50 Must-Visit Spots in Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [80 Must-See Spots in Canggu](/blog/2023-02-11-64db6b7efd897800013a9815/)
-- [100 Ways to Explore Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [Jimbaran Guide](/blog/2023-11-09-654b8438fd897800016bf4cc/)
-- [Uluwatu Guide](/blog/2024-03-07-65dfd410fd897800019f4b40/)
-- [Bukit Peninsula Adventure Guide](/blog/2024-10-31-67061b07fd897800012f87b5/)
-- [45 Things to Do in Sanur](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [40 Accommodations, Dining, and Activities in Nusa Dua](/blog/2024-01-25-65afb7bbfd897800017023b4/)
-- [Complete Guide to Nusa Penida](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [Complete Guide to Lembongan and Ceningan Islands](/blog/2024-10-23-66adfb9afd89780001f62df1/)
-- [Nuanu Creative City Guide](/blog/2025-04-18-68026619fd89780001f56243/)
-- [Komodo Island Guide](/blog/2025-05-04-681601c6fd8978000139f8a3/)
-- [Amed/Tulamben Guide](/blog/2025-06-23-68578b01fd89780001dd5208/)
+- [80 Must-See Spots in Canggu](/blog/canggu-guide/)
+- [100 Ways to Explore Ubud](/blog/ubud-guide/)
+- [Jimbaran Guide](/blog/jimbaran-guide/)
+- [Uluwatu Guide](/blog/uluwatu-guide/)
+- [Bukit Peninsula Adventure Guide](/blog/bukit-peninsula-guide/)
+- [45 Things to Do in Sanur](/blog/sanur-guide/)
+- [40 Accommodations, Dining, and Activities in Nusa Dua](/blog/nusa-dua-guide/)
+- [Complete Guide to Nusa Penida](/blog/nusa-penida-guide/)
+- [Complete Guide to Lembongan and Ceningan Islands](/blog/nusa-lembongan-ceningan-guide/)
+- [Nuanu Creative City Guide](/blog/nuanu-creative-city-luna-guide/)
+- [Komodo Island Guide](/blog/komodo-island-labuan-bajo-travel/)
+- [Amed/Tulamben Guide](/blog/amed-tulamben-diving-guide/)

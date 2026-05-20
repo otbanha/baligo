@@ -49,9 +49,9 @@ For a more traditional religious atmosphere, visit the Chinese temples (Klenteng
 
 **Introduction to Six Major Chinese Temples (Click Here)**
 
-**(Introduction to Six Major Chinese Temples [Click Here](/blog/2025-10-25-68fc59fdfd89780001842abe/))**
+**(Introduction to Six Major Chinese Temples [Click Here](/blog/bali-chinese-temples-guide/))**
 
-- [**The Mulia Hotel**](/blog/2025-01-19-678cd483fd8978000137dedf/): Offers Hanfu photo experiences and calligraphy exhibitions, allowing visitors to dress in traditional attire and capture memories in a culturally rich setting.
+- [**The Mulia Hotel**](/blog/mulia-resort-bali-luxury/): Offers Hanfu photo experiences and calligraphy exhibitions, allowing visitors to dress in traditional attire and capture memories in a culturally rich setting.
 
 ## 🍴 Selected New Year Feasts (Fortune-Bringing Dishes)
 
@@ -64,7 +64,7 @@ For a more traditional religious atmosphere, visit the Chinese temples (Klenteng
 
 **SEMINYAK**
 
-- [**Hotel Indigo Bali Seminyak Beach**](/blog/2025-07-24-68818eddfd897800017a2dfb/) **(Makase)**: Hosts an "Oriental Feast" New Year's Eve buffet dinner from 6 PM to 10 PM on February 16 (IDR 888,000++ per person), featuring live seafood grilling, Mongolian barbecue, dim sum, and festive desserts, accompanied by a lion dance performance.
+- [**Hotel Indigo Bali Seminyak Beach**](/blog/hotel-indigo-seminyak-review/) **(Makase)**: Hosts an "Oriental Feast" New Year's Eve buffet dinner from 6 PM to 10 PM on February 16 (IDR 888,000++ per person), featuring live seafood grilling, Mongolian barbecue, dim sum, and festive desserts, accompanied by a lion dance performance.
 
 **CANGGU**
 
@@ -72,7 +72,7 @@ For a more traditional religious atmosphere, visit the Chinese temples (Klenteng
 
 **JIMBARAN**
 
-- [**AYANA Bali**](/blog/2023-10-26-653914f6fd89780001fef733/): Festivities continue until March 3. Hot pot and set menus are available at Liu Li Palace from February 16 to March 3. Afternoon tea is served at Damar Terrace and UNIQUE Rooftop Bar from February 10 to 20 (IDR 350,000++ per person). On February 16, enjoy traditional performances at Kampoeng Bali and countdown fireworks at Rock Bar. On February 17, there will be lion dances, firecrackers, and children’s activities. Limited-time spa treatments are also available throughout February.
+- [**AYANA Bali**](/blog/ayana-resort-bali-guide/): Festivities continue until March 3. Hot pot and set menus are available at Liu Li Palace from February 16 to March 3. Afternoon tea is served at Damar Terrace and UNIQUE Rooftop Bar from February 10 to 20 (IDR 350,000++ per person). On February 16, enjoy traditional performances at Kampoeng Bali and countdown fireworks at Rock Bar. On February 17, there will be lion dances, firecrackers, and children’s activities. Limited-time spa treatments are also available throughout February.
 
 **ULUWATU**
 
@@ -81,11 +81,11 @@ For a more traditional religious atmosphere, visit the Chinese temples (Klenteng
 
 **NUSA DUA**
 
-- [**The Mulia (Table8)**](/blog/2025-01-19-678cd483fd8978000137dedf/): Offers a classic Cantonese festive menu.
+- [**The Mulia (Table8)**](/blog/mulia-resort-bali-luxury/): Offers a classic Cantonese festive menu.
 - [**Sofitel Bali Nusa Dua (Kwee Zeen)**](https://s.id/nusadua_resorts): On February 16, enjoy a lavish Asian buffet featuring Yee Sang and fortune-telling activities.
 - [**The Ritz-Carlton, Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=782765): A reunion buffet dinner will be held at Senses Restaurant on February 16 (IDR 1,000,000++ per person). Lunar New Year afternoon tea is available from February 15 to 20 (IDR 1,100,000++ for two).
 - [**Renaissance Bali Nusa Dua**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=20375914) **(Lion X)**: A Lunar New Year set menu is available from February 16 to 17 (starting at IDR 1,688,000++ per couple), with à la carte options from February 9 to 22. The reunion dinner includes traditional firecracker celebrations, and a festive pop-up shop will be set up in the lobby.
-- [**Mr. Lobster**](/blog/2024-06-29-667ff433fd897800017b331e/): From February 16 to 21, enjoy dining with lucky red envelopes for both adults and children, with the largest envelope containing IDR 100,000. Reservations are recommended.
+- [**Mr. Lobster**](/blog/mr-lobster-seafood-bali/): From February 16 to 21, enjoy dining with lucky red envelopes for both adults and children, with the largest envelope containing IDR 100,000. Reservations are recommended.
 
 **SANUR**
 
@@ -93,7 +93,7 @@ For a more traditional religious atmosphere, visit the Chinese temples (Klenteng
 
 **Ubud**
 
-- [**Capella Ubud**](/blog/2025-03-20-671263f0fd89780001ee6da7/): On February 17th, experience the traditional "Lo Hei" ceremony and Peranakan (Straits Chinese) cuisine with Indonesian influences.
+- [**Capella Ubud**](/blog/capella-ubud-luxury-resort/): On February 17th, experience the traditional "Lo Hei" ceremony and Peranakan (Straits Chinese) cuisine with Indonesian influences.
 - [**Padma Resort Ubud**](https://s.id/UbudResorts): On the evening of February 17th, enjoy the "Prosperity Feast," perfect for travelers seeking a serene mountain retreat.
 - [**The Westin Resort & Spa Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10776988) **(Tabia Restaurant)**: On February 16th from 6:00 PM to 10:30 PM, join the "Ubud Lunar Harmony" Lunar New Year buffet dinner (IDR 588,000++ per person), featuring lion dance performances.
 

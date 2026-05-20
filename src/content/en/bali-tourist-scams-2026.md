@@ -35,8 +35,8 @@ Small shops with outrageously high exchange rates often use 'quick counting' to 
 
 **Quick Reference:**
 
-- [The Painful Truth About Money Exchange in Bali: A Fellow Traveler’s Experience Revealed, Don’t Be Fooled by Small Gains!](/blog/2026-02-16-69933020fd89780001dd0275/)
-- [Recommended Legitimate Currency Exchange Shops](/blog/2024-01-28-65b5c7e2fd89780001e96fac/)
+- [The Painful Truth About Money Exchange in Bali: A Fellow Traveler’s Experience Revealed, Don’t Be Fooled by Small Gains!](/blog/bali-money-exchange-scams-2/)
+- [Recommended Legitimate Currency Exchange Shops](/blog/bali-currency-exchange-guide/)
 
 ## **The Taxi Meter Mystery**
 
@@ -44,8 +44,8 @@ Some drivers may claim the meter is broken or ask you to cancel your app order a
 
 **Quick Reference:**
 
-- [Grab or Gojek? A Comprehensive Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/blog/2024-10-13-670b5191fd8978000185cf37/)
-- [The Tricks of Bali’s Ride-Hailing App Drivers: How to Avoid Grab/Gojek Traps?](/blog/2024-05-27-66546581fd8978000119d572/)
+- [Grab or Gojek? A Comprehensive Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
+- [The Tricks of Bali’s Ride-Hailing App Drivers: How to Avoid Grab/Gojek Traps?](/blog/bali-grab-gojek-scam-tips/)
 
 ## **Fake Visa Websites on Search Engines**
 
@@ -53,8 +53,8 @@ When searching for e-visas, the top results are often beautifully designed but u
 
 **Quick Reference:**
 
-- [Indonesia/Bali eVisa, eCD Customs, and SSHP Health Declaration FAQs](/blog/2025-08-14-689db40ffd89780001eb2f3e/)
-- [Indonesia/Bali Visa Guide for Children](/blog/2025-12-24-694bf0d9fd89780001214e1c/)
+- [Indonesia/Bali eVisa, eCD Customs, and SSHP Health Declaration FAQs](/blog/bali-evisa-customs-health-declaration/)
+- [Indonesia/Bali Visa Guide for Children](/blog/bali-child-visa-guide/)
 
 ## **Disputes Over 'New Scratches' When Returning Rental Vehicles**
 
@@ -62,9 +62,9 @@ While renting a scooter is convenient, disputes over pre-existing damage when re
 
 **Quick Reference:**
 
-[Bali Scooter Rental Risk Checklist: Prices, Safety, and Tips](/blog/2024-11-06-672a0629fd897800010aa2bc/)
+[Bali Scooter Rental Risk Checklist: Prices, Safety, and Tips](/blog/bali-motorbike-rental-tips/)
 
-[Bali Travel Safety Alert: Frequent Scooter Accidents Among Young Tourists](/blog/2024-06-10-66670c4afd897800019dcac7/)
+[Bali Travel Safety Alert: Frequent Scooter Accidents Among Young Tourists](/blog/bali-motorbike-safety-guide/)
 
 ## **Fake Staff at Temple/Attraction Entrances**
 
@@ -74,7 +74,7 @@ At attraction entrances, you may encounter individuals claiming that special cer
 
 Recently, there have been instances of strangers asking to borrow mobile hotspots under the pretext of having no internet access. This not only poses a risk of data leakage but also leaves your records if the other party engages in illegal activities. Politely refusing to share your hotspot or connect to unknown Wi-Fi networks is a basic step in protecting your personal privacy.
 
-**Quick Reference:** [The "Hotspot Borrowing" Request Turns Out to Be a Trap! Many Have Already Fallen Victim to This New Scam...](/blog/2025-06-23-68593269fd897800012cea64/)
+**Quick Reference:** [The "Hotspot Borrowing" Request Turns Out to Be a Trap! Many Have Already Fallen Victim to This New Scam...](/blog/bali-wifi-scam-alert/)
 
 {{block:klook}}
 
@@ -90,7 +90,7 @@ https://youtu.be/LuEXL77-Qh0
 
 ## Don't Miss These Topics
 
-- [2026 Bali Free Travel Guide | Ultimate Pre-Departure Guide: 7 Must-Know Points Before You Go! Visa, Currency Exchange, Accommodation, Voltage/Adapters... All in One](/blog/2026-02-15-6991b0a7fd8978000189e837/)
-- [Bali No-Mistake Guide: 18 Common Errors and Suggestions](/blog/2024-10-20-6714c06cfd8978000116322a/)
+- [2026 Bali Free Travel Guide | Ultimate Pre-Departure Guide: 7 Must-Know Points Before You Go! Visa, Currency Exchange, Accommodation, Voltage/Adapters... All in One](/blog/bali-travel-guide-2026/)
+- [Bali No-Mistake Guide: 18 Common Errors and Suggestions](/blog/bali-travel-mistakes-tips/)
 
 {{block:klook}}

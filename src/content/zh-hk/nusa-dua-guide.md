@@ -111,7 +111,7 @@ Koral Restaurant 非常適合同你嘅伴侶、家人或朋友浪漫約會。喺
 
 ![按我：Selasar Deli 下午茶體驗記](https://images.gobaligo.id/vocus/vocus_d1404fae059635c1384855f142381263.jpg)
 
-[撳我：Selasar Deli 下午茶體驗記](/blog/2025-05-25-6832c6c0fd897800014776ba/)
+[撳我：Selasar Deli 下午茶體驗記](/blog/kempinski-selasar-deli-afternoon-tea/)
 
 > 預訂 [Selasar Deli 餐廳下午茶](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052045&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F58595-selasar-deli-apurva-kempinski-hotel-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D247caa596d)
 
@@ -213,7 +213,7 @@ The Royal Kitchen Bali 係峇里島上享譽盛名嘅印度料理餐廳，被譽
 
 https://youtube.com/shorts/0pk0syQh5sw
 
-台灣人經營嘅平價海鮮店，料理新鮮實在，人氣超高，經常有優惠回饋俾社團成員。推薦俾海鮮控！[呢度](/blog/2024-08-08-66a3943afd89780001cde8eb/)有地址同聯絡方式，建議同許老闆提前預約喔！
+台灣人經營嘅平價海鮮店，料理新鮮實在，人氣超高，經常有優惠回饋俾社團成員。推薦俾海鮮控！[呢度](/blog/mr-lobster-seafood-restaurant-bali/)有地址同聯絡方式，建議同許老闆提前預約喔！
 
 ***
 
@@ -320,7 +320,7 @@ Dapur Bali 烹飪課程位於肉桂私人別墅（Kayumanis Nusa Dua Private Vil
 
 一個禮拜只有三場嘅大型舞台表演，透過音樂、舞蹈同高空特技，帶領觀眾展開一段穿越印尼五大島嶼嘅文化之旅，老少咸宜，絕對唔可以錯過。
 
-我哋有詳細嘅介紹請睇[呢度](/blog/2025-06-21-68557a29fd897800017f4272/)
+我哋有詳細嘅介紹請睇[呢度](/blog/devdan-show-nusa-dua/)
 
 > [Klook購票連結](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
 > [kkday購票連結](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=17351)
@@ -377,7 +377,7 @@ Dapur Bali 烹飪課程位於肉桂私人別墅（Kayumanis Nusa Dua Private Vil
 
 ### Top 16五星級旅館/渡假村
 
-喺努沙杜瓦/南灣區，你會發現一系列極之優雅同令人讚嘆嘅五星級旅館，呢份排名嚟自Tripadvisor全球網友嘅綜合評價，展現咗呢啲酒店喺服務同品質方面嘅卓越表現。請睇：[峇里島 Nusa Dua 努沙杜瓦16家公認最正嘅五星渡假村住宿推薦](/blog/2024-07-27-66a4562afd89780001d70329/)
+喺努沙杜瓦/南灣區，你會發現一系列極之優雅同令人讚嘆嘅五星級旅館，呢份排名嚟自Tripadvisor全球網友嘅綜合評價，展現咗呢啲酒店喺服務同品質方面嘅卓越表現。請睇：[峇里島 Nusa Dua 努沙杜瓦16家公認最正嘅五星渡假村住宿推薦](/blog/nusa-dua-resorts-guide/)
 
 https://youtu.be/-CJsTy4C3AQ
 

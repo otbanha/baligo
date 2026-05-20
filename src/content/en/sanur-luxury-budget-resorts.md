@@ -56,7 +56,7 @@ Sanur town boasts a relaxed atmosphere while maintaining strong Balinese cultura
 
 https://youtu.be/SpcgZ4iK7qs
 
-**Guide:** [Bali Family Vacation Guide: Sanur Map｜50 Things to Do, Eat, and Enjoy, Plus SPA and Accommodation Recommendations!](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
+**Guide:** [Bali Family Vacation Guide: Sanur Map｜50 Things to Do, Eat, and Enjoy, Plus SPA and Accommodation Recommendations!](/blog/sanur-guide/)
 
 Sanur Beach is quieter and cleaner than other beaches in Bali. Moreover, compared to other beach resorts on the island, Sanur's beachfront hotels offer more affordable prices.
 
@@ -643,6 +643,6 @@ We've marked all the hotels and villas on [this Google Map](https://www.google.c
 
 Whether you're seeking a luxury getaway, a family vacation, or budget-friendly accommodations, Sanur has something for everyone. From high-end five-star stays to cozy boutique guesthouses, the diverse options ensure every traveler finds their ideal spot to enjoy Bali's sunshine and scenic beauty.
 
-Our [Sanur Guide Map](/blog/2024-02-11-65bf2f75fd89780001dbf162/) includes recommendations for activities, attractions, dining, and spas, making your Sanur trip unforgettable. Follow our guide and explore this charming coastal town to the fullest!
+Our [Sanur Guide Map](/blog/sanur-guide/) includes recommendations for activities, attractions, dining, and spas, making your Sanur trip unforgettable. Follow our guide and explore this charming coastal town to the fullest!
 
 {{block:住宿}}

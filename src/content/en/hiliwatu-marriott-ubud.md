@@ -128,7 +128,7 @@ For travelers seeking to deeply explore Balinese culture, achieve mind-body bala
 
 Have you been to Ubud? Are you interested in this newly opened hotel?
 
-Featured in "[Bali Ubud Accommodations] Recommended Unique Stays in Ubud, Experience a Magical Journey Amidst Bali's Mountain Scenery!"](/blog/2024-02-20-65d21157fd897800013be576/)
+Featured in "[Bali Ubud Accommodations] Recommended Unique Stays in Ubud, Experience a Magical Journey Amidst Bali's Mountain Scenery!"](/blog/ubud-villas-pool-guide/)
 
 ***
 
@@ -136,15 +136,15 @@ Featured in "[Bali Ubud Accommodations] Recommended Unique Stays in Ubud, Experi
 
 ### Family Travel in Ubud
 
-If you're traveling with kids and looking for accommodations that children will love, check out our 【[Bali Family Travel Guide: Top Activities for Kids](/blog/2024-01-10-659cf4a5fd89780001d6fb69/)】. It features 55 kid-friendly attractions and activities, plus introduces ten of the best family-friendly accommodations in Ubud as voted by global travelers.
+If you're traveling with kids and looking for accommodations that children will love, check out our 【[Bali Family Travel Guide: Top Activities for Kids](/blog/ubud-with-kids-guide/)】. It features 55 kid-friendly attractions and activities, plus introduces ten of the best family-friendly accommodations in Ubud as voted by global travelers.
 
 ![100種深入認識烏布的方式｜探索烏布的魅力](https://images.gobaligo.id/vocus/vocus_ea533e1649d072068698827355e60224.jpg)
 
-[100 Ways to Deeply Experience Ubud | Exploring the Charm of Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+[100 Ways to Deeply Experience Ubud | Exploring the Charm of Ubud](/blog/ubud-guide/)
 
 ### In-Depth Ubud Travel
 
-If you're traveling without kids and want to fully immerse yourself in Ubud, check out our [2025 Complete Ubud Bali Guide: 100 Ways to Deeply Experience Ubud | Exploring the Charm of Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/), which will help you get to know Ubud better!
+If you're traveling without kids and want to fully immerse yourself in Ubud, check out our [2025 Complete Ubud Bali Guide: 100 Ways to Deeply Experience Ubud | Exploring the Charm of Ubud](/blog/ubud-guide/), which will help you get to know Ubud better!
 
 ***
 

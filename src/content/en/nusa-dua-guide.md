@@ -114,7 +114,7 @@ At Kempinski, besides the aquarium restaurant, there's also Selasar Deli, a tea 
 
 ![按我：Selasar Deli 下午茶體驗記](https://images.gobaligo.id/vocus/vocus_d1404fae059635c1384855f142381263.jpg)
 
-[Click Me: Selasar Deli Afternoon Tea Experience](/blog/2025-05-25-6832c6c0fd897800014776ba/)
+[Click Me: Selasar Deli Afternoon Tea Experience](/blog/kempinski-selasar-deli-afternoon-tea/)
 
 > Book [Selasar Deli Afternoon Tea](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052045&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F58595-selasar-deli-apurva-kempinski-hotel-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D247caa596d)
 
@@ -216,7 +216,7 @@ If you're looking to enjoy high-quality afternoon tea, dining, and ultimate serv
 
 https://youtube.com/shorts/0pk0syQh5sw
 
-A Taiwanese-run affordable seafood restaurant, offering fresh and authentic dishes, highly popular with frequent promotions for community members. Highly recommended for seafood lovers! [Here](/blog/2024-08-08-66a3943afd89780001cde8eb/) you can find the address and contact details. It's advisable to make a reservation with Mr. Hsu in advance!
+A Taiwanese-run affordable seafood restaurant, offering fresh and authentic dishes, highly popular with frequent promotions for community members. Highly recommended for seafood lovers! [Here](/blog/mr-lobster-seafood-restaurant-bali/) you can find the address and contact details. It's advisable to make a reservation with Mr. Hsu in advance!
 
 ***
 
@@ -323,7 +323,7 @@ Whether you’re a beginner or an experienced angler, this activity provides fis
 
 This grand stage performance is only held three times a week. Through music, dance, and aerial acrobatics, it takes the audience on a cultural journey across Indonesia’s five major islands. Suitable for all ages, this is an experience you won’t want to miss.
 
-For more details, check out our [blog post](/blog/2025-06-21-68557a29fd897800017f4272/)
+For more details, check out our [blog post](/blog/devdan-show-nusa-dua/)
 
 > [Klook Ticket Link](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
 > [kkday Ticket Link](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=17351)
@@ -380,7 +380,7 @@ To avoid disrupting your travel plans due to not having booked spa services in a
 
 ### Top 16 Five-Star Hotels/Resorts
 
-In the Nusa Dua/Tanjung Benoa area, you'll discover a series of extremely elegant and awe-inspiring five-star hotels. This ranking is based on comprehensive reviews from Tripadvisor users worldwide, showcasing these hotels' exceptional performance in service and quality. Check out: [Bali Nusa Dua: 16 Best Five-Star Resort Accommodations Recommended](/blog/2024-07-27-66a4562afd89780001d70329/)
+In the Nusa Dua/Tanjung Benoa area, you'll discover a series of extremely elegant and awe-inspiring five-star hotels. This ranking is based on comprehensive reviews from Tripadvisor users worldwide, showcasing these hotels' exceptional performance in service and quality. Check out: [Bali Nusa Dua: 16 Best Five-Star Resort Accommodations Recommended](/blog/nusa-dua-resorts-guide/)
 
 https://youtu.be/-CJsTy4C3AQ
 

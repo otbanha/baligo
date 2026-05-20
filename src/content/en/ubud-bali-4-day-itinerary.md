@@ -43,7 +43,7 @@ The next morning, they ventured to Ubud's most famous attraction - the Sacred Mo
 
 After leaving the monkey forest, they followed a small path into the countryside surrounding Ubud. The journey was picturesque, filled with lush green landscapes and a peaceful, leisurely atmosphere. They eventually arrived at a tranquil rice field, feeling as if they had stepped into a paradise, reminiscent of their previous travels in Costa Rica.
 
-We have a dedicated article introducing this path known as the Sky Walk: [Is There Such a Paradise Within Walking Distance from Ubud Center? Introducing the 'Ubud Sky Walk' Campuhan Ridge Walk](/blog/2023-10-29-653dc7f3fd89780001f4f90a/)
+We have a dedicated article introducing this path known as the Sky Walk: [Is There Such a Paradise Within Walking Distance from Ubud Center? Introducing the 'Ubud Sky Walk' Campuhan Ridge Walk](/blog/ubud-campuhan-ridge-walk/)
 
 ## Art Market
 
@@ -79,11 +79,11 @@ In Ubud, one of the easiest ways to have a fantastic time without much planning 
 
 ## More Ubud Attractions
 
-We’ve compiled over 100 attractions and activities in our [[2026 Complete Ubud Bali Guide](/blog/2023-11-17-655054b1fd897800011d4d2c/)] for travelers exploring Ubud!
+We’ve compiled over 100 attractions and activities in our [[2026 Complete Ubud Bali Guide](/blog/ubud-guide/)] for travelers exploring Ubud!
 
 ![烏布完整攻略請按我](https://images.gobaligo.id/vocus/vocus_6669af373794716c6a95b23100cb5c11.png)
 
-[Click here for the Complete Ubud Guide](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+[Click here for the Complete Ubud Guide](/blog/ubud-guide/)
 
 ## Unique Ubud Accommodations
 
@@ -91,7 +91,7 @@ The Ubud area boasts 28 of the most uniquely styled accommodations, each radiati
 
 In our article, we delve into the features and allure of each accommodation, along with tips on how to book your next trip to Ubud. Let's explore these stunning jungle landscapes together and experience the unique charm of Bali!
 
-- [【Ubud Honeymoon Stays】7 Recommended Ubud Honeymoon Accommodations](/blog/2023-08-03-64db6b88fd897800013a9a4c/)
-- [【Bali Ubud Accommodations】21 Unique Stays in Ubud: Experience the Magic of Bali’s Mountainous Landscapes!](/blog/2024-02-20-65d21157fd897800013be576/)
-- [Explore 8 Breathtaking Treehouse/Bamboo Villa Stays in Ubud](/blog/2024-04-04-660d4c83fd89780001ddf0ad/)
-- [【Ubud Accommodation Recommendations】Private Pool Villas: 12 Stunning Bali Villas in Ubud](/blog/2024-04-24-6628f08cfd8978000190a575/)
+- [【Ubud Honeymoon Stays】7 Recommended Ubud Honeymoon Accommodations](/blog/bali-honeymoon-resorts-guide/)
+- [【Bali Ubud Accommodations】21 Unique Stays in Ubud: Experience the Magic of Bali’s Mountainous Landscapes!](/blog/ubud-villas-pool-guide/)
+- [Explore 8 Breathtaking Treehouse/Bamboo Villa Stays in Ubud](/blog/ubud-treehouse-bamboo-villa-stays/)
+- [【Ubud Accommodation Recommendations】Private Pool Villas: 12 Stunning Bali Villas in Ubud](/blog/ubud-villa-pool-guide/)

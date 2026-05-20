@@ -32,13 +32,13 @@ In early August, we took a 12-day trip to Bali. This journey was filled with sur
 
 Since August to September is the peak tourist season in Bali, the waiting time at the visa-on-arrival counters and customs usually takes more than 2-3 hours. Fortunately, we applied for the electronic visa (EVoA) in advance and used the automatic gates, which made the entire customs process very smooth. It took us only 7-8 minutes from getting off the plane to picking up our luggage and entering the arrival hall. I recommend applying for the electronic visa in advance if possible, as it saves a lot of time.
 
-> Further Reading: [2024 Bali Entry Changes Explained in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2023-12-07-65717449fd89780001fda950/)
+> Further Reading: [2024 Bali Entry Changes Explained in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2025-bali-immigration-process/)
 
 ## SIM Card
 
 In Bali, we opted to purchase a local SIM card. The SIM cards in Kuta and Uluwatu city areas support 5G networks, while other more remote areas mainly have 4G. Even on the outer islands, the network signal was generally sufficient for navigation, although the signal was weaker in coastal areas of Penida, with better reception only at certain tourist spots. However, this did not affect our overall itinerary.
 
-> Further reading: [Bali Travel Essentials: How to Get Bali Internet/SIM Card?](/blog/2024-03-21-65f916bbfd89780001b916e0/)
+> Further reading: [Bali Travel Essentials: How to Get Bali Internet/SIM Card?](/blog/bali-sim-card-esim-roaming-guide/)
 
 ## Shopping
 
@@ -46,7 +46,7 @@ In Bali, we opted to purchase a local SIM card. The SIM cards in Kuta and Uluwat
 
 Shopping in Bali requires some bargaining skills. Generally, you can start by offering half the listed price, and the final agreed price is usually 30-40% of the original. Prices in Ubud are relatively better, and there are more choices. The same items are often 2-3 times more expensive in Kuta than in Ubud. Therefore, choosing the right location for shopping is crucial.
 
-> Further reading: [How to Bargain When Shopping in Bali? Shopping Tips](/blog/2024-03-22-65fcdc32fd8978000151971b/)
+> Further reading: [How to Bargain When Shopping in Bali? Shopping Tips](/blog/bali-shopping-bargaining-tips/)
 
 ## Transportation
 
@@ -58,7 +58,7 @@ Editor's note: Referencing our 'Bali Area Guide' is the best way to go!
 
 During this trip, we mainly chose small restaurants to dine in, allowing us to taste more authentic local cuisine at reasonable prices. Most restaurants accept credit cards, even on the islands. However, some establishments charge an additional 2.5% fee, and 60-70% of places include a 10-11% tax and a 7-10% service charge. We did not encounter any instances of arbitrary price hikes.
 
-Further reading: [Should You Tip in Bali? How Much to Tip in Various Situations?](/blog/2024-05-07-663a126bfd89780001390b63/)
+Further reading: [Should You Tip in Bali? How Much to Tip in Various Situations?](/blog/bali-tipping-guide-driver-spa/)
 
 We visited the Atlas Beach Club, which claims to be the largest in Asia. By the way, if you visit a Beach Club or Day Club, tipping the staff will ensure they take good care of you, even watching over your belongings.
 
@@ -72,14 +72,14 @@ We booked our round-trip ferry tickets on Klook, which was very convenient. We s
 
 [**▶Klook's Nusa Penida Deals**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=909332&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fpoi%2F50190574-nusa-penida%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D21079c02f9)
 
-**Editor's Note: Remember not to go into the sea here! There have been**[**several fatal accidents**](/blog/2024-08-22-66c69317fd8978000110fabc/)**～**
+**Editor's Note: Remember not to go into the sea here! There have been**[**several fatal accidents**](/blog/bali-attractions-safety-alert/)**～**
 
 Another spot is Tembeling Beach and Forest, which is less crowded and perfect for relaxation. However, the road to the site is in poor condition, so extra caution is needed. Diamond Beach is relatively average. Since Penida is a newly developed island, the quality of accommodations and dining is not high, and prices are about twice as expensive as Bali's main island. Overall, our trip to Penida was quite enjoyable.
 
 **Further Reading:**
 
-[【Bali - Nusa Penida Complete Guide】](/blog/2023-08-16-64db6b82fd897800013a9942/)  
-[Maps, Ferries, Accommodations, Transportation, Private Cars, Activities, Photography, Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)
+[【Bali - Nusa Penida Complete Guide】](/blog/nusa-penida-guide/)  
+[Maps, Ferries, Accommodations, Transportation, Private Cars, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
 
 ## Most Unique Accommodation Recommendations During the Trip
 
@@ -92,7 +92,7 @@ We also stayed on Penida Island for 4 days. Here's a complaint: our Airbnb requi
 (Video provided by Lin Junhong)
 
 **Further Reading:**  
-[Recommended Accommodations in Nusa Penida: 13 Highly Rated Options from Luxury to Budget](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+[Recommended Accommodations in Nusa Penida: 13 Highly Rated Options from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
 
 Overall, Bali is an excellent destination for slow-paced living and creative rejuvenation. I hope these insights prove helpful for your Bali travels! 🌴
 
@@ -102,21 +102,21 @@ Did you find Lin Junhong's itinerary exciting? Start planning your own Bali adve
 
 Click here to watch more amazing Bali travelogues
 
-Do you want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue stand out!
+Do you want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue stand out!
 
-- [2024 Seminyak 60 Attractions Guide](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [2024 Seminyak 60 Attractions Guide](/blog/seminyak-guide/)
 
-- [100 Must-Visit Spots in Seminyak](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [100 Must-Visit Spots in Seminyak](/blog/seminyak-guide/)
 - [50 Must-Visit Spots in Kuta](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [100 Must-Visit Spots in Canggu](/blog/2023-02-11-64db6b7efd897800013a9815/)
-- [100 Ways to Explore Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [Jimbaran Guide](/blog/2023-11-09-654b8438fd897800016bf4cc/)
-- [Uluwatu Guide](/blog/2024-03-07-65dfd410fd897800019f4b40/)
-- [Bukit Peninsula Adventure Guide](/blog/2024-10-31-67061b07fd897800012f87b5/)
-- [50 Things to Do in Sanur](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [40 Accommodations, Dining, and Activities in Nusa Dua](/blog/2024-01-25-65afb7bbfd897800017023b4/)
-- [Complete Guide to Nusa Penida](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [Complete Guide to Lembongan and Ceningan Islands](/blog/2024-10-23-66adfb9afd89780001f62df1/)
-- [Nuanu Creative City Guide](/blog/2025-04-18-68026619fd89780001f56243/)
-- [Komodo Island Guide](/blog/2025-05-04-681601c6fd8978000139f8a3/)
-- [Amed/Tulamben Guide](/blog/2025-06-23-68578b01fd89780001dd5208/)
+- [100 Must-Visit Spots in Canggu](/blog/canggu-guide/)
+- [100 Ways to Explore Ubud](/blog/ubud-guide/)
+- [Jimbaran Guide](/blog/jimbaran-guide/)
+- [Uluwatu Guide](/blog/uluwatu-guide/)
+- [Bukit Peninsula Adventure Guide](/blog/bukit-peninsula-guide/)
+- [50 Things to Do in Sanur](/blog/sanur-guide/)
+- [40 Accommodations, Dining, and Activities in Nusa Dua](/blog/nusa-dua-guide/)
+- [Complete Guide to Nusa Penida](/blog/nusa-penida-guide/)
+- [Complete Guide to Lembongan and Ceningan Islands](/blog/nusa-lembongan-ceningan-guide/)
+- [Nuanu Creative City Guide](/blog/nuanu-creative-city-luna-guide/)
+- [Komodo Island Guide](/blog/komodo-island-labuan-bajo-travel/)
+- [Amed/Tulamben Guide](/blog/amed-tulamben-diving-guide/)

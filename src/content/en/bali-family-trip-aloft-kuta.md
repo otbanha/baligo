@@ -36,7 +36,7 @@ _srcHash: 7b1564837258b0baa7139405dd90c076
 
 ## Reasons for Staying in Kuta
 
-Although Kuta is not an ideal place for a long stay (see: [The Most Convenient but Least Recommended Place to Stay in Bali! What Are the Pros and Cons of Kuta?](/blog/2024-03-19-65f8e4d2fd89780001b5e8f9/)), why did we choose to stay in Kuta right after landing? There are four reasons:
+Although Kuta is not an ideal place for a long stay (see: [The Most Convenient but Least Recommended Place to Stay in Bali! What Are the Pros and Cons of Kuta?](/blog/kuta-bali-accommodation-pros-cons/)), why did we choose to stay in Kuta right after landing? There are four reasons:
 
 1. It’s the closest to the airport, allowing us to relax soon after landing. Considering we’re traveling with two kids, staying in Kuta minimizes post-flight fatigue and helps the family unwind quickly to enjoy Bali’s beauty.
 2. It aligns with our itinerary for Jimbaran and Uluwatu the next day. Kuta’s central location not only makes it close to the airport but also convenient for accessing other Bali attractions like Jimbaran and Uluwatu. Staying here saves travel time, allowing us to enjoy more of our trip.
@@ -193,10 +193,10 @@ This is the first installment of our series. Today, we're going to eat well 😋
 
 Series Completed:
 
-- [**Day 1: Staying in a Shopping Mall! Family Accommodation Arrangements for Two Adults and Two Kids**](/blog/2024-04-23-66266976fd89780001598b10/)
-- [**Day 2: GWK Cultural Park, Free Beach Club at Uluwatu, Uluwatu Temple, Uluwatu Kecak Fire Dance**](/blog/2024-05-17-662c59e9fd897800011f1230/)
-- [**Day 3-7: Five Days in Ubud: Food, Attractions, Accommodations, and Volcano Exploration Recommendations**](/blog/2024-12-17-674bb924fd8978000120ac11/)
-- [**Day 8: How to Enjoy Bali Safari and Night Stay Tips**](/blog/2023-07-25-64db6b8cfd897800013a9ab1/)
+- [**Day 1: Staying in a Shopping Mall! Family Accommodation Arrangements for Two Adults and Two Kids**](/blog/bali-family-trip-aloft-kuta/)
+- [**Day 2: GWK Cultural Park, Free Beach Club at Uluwatu, Uluwatu Temple, Uluwatu Kecak Fire Dance**](/blog/bali-family-trip-gwk-beach-club/)
+- [**Day 3-7: Five Days in Ubud: Food, Attractions, Accommodations, and Volcano Exploration Recommendations**](/blog/bali-family-trip-ubud-guide/)
+- [**Day 8: How to Enjoy Bali Safari and Night Stay Tips**](/blog/bali-safari-night-stay/)
 
 Do you think the itinerary arranged by the Taiwanese businesswoman in Vietnam is exciting? Quickly plan your own Bali free and easy trip! We also welcome everyone to share your itinerary in our community!
 

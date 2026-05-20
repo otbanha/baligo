@@ -50,7 +50,7 @@ In the "Top 25 Hotels in Asia," Indonesian hotels ranked third, sixth, fourteent
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774446402418-536098818.jpg)
 
-Located at Jalana Suweta, Bentuyung Sakti in Ubud, Bali, this hotel ranked third on TripAdvisor's list and has received over 2,000 reviews. Check out [our introduction](/blog/2024-02-20-65d21157fd897800013be576/).
+Located at Jalana Suweta, Bentuyung Sakti in Ubud, Bali, this hotel ranked third on TripAdvisor's list and has received over 2,000 reviews. Check out [our introduction](/blog/ubud-villas-pool-guide/).
 
 > ▶[Adiwana Suweta Room Rates & Availability Check](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22016379)
 
@@ -66,7 +66,7 @@ Located at Jalana Suweta, Bentuyung Sakti in Ubud, Bali, this hotel ranked third
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774446453647-premier-deluxe-room-slider1.jpeg)
 
-Situated in Banjar Carik, Desa Puku, Payangan, north of Ubud, Bali, this resort ranked sixth on the list and has garnered around 3,000 reviews. Check out [our introduction](/blog/2024-02-20-65d21157fd897800013be576/).
+Situated in Banjar Carik, Desa Puku, Payangan, north of Ubud, Bali, this resort ranked sixth on the list and has garnered around 3,000 reviews. Check out [our introduction](/blog/ubud-villas-pool-guide/).
 
 > ▶Find availability/pricing ▶ [Book on Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=921981)
 
@@ -76,7 +76,7 @@ Located at Jalan Suryakencana No 179 – 181, near Jakarta, this hotel ranks 14t
 
 ## **Adiwana Resort Jembawan（17/25）**
 
-Situated on Jalan Jembawan in Ubud, Bali, this resort ranks 17th on the list with 2,000 reviews. Check out [our introduction](/blog/2024-02-20-65d21157fd897800013be576/).
+Situated on Jalan Jembawan in Ubud, Bali, this resort ranks 17th on the list with 2,000 reviews. Check out [our introduction](/blog/ubud-villas-pool-guide/).
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6dcfce2dca3020e1e6d2db535e9f6b00.jpg)
 

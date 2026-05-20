@@ -50,7 +50,7 @@ _srcHash: 3bb771d696af35e5699c5e31e03d8296
 
 🌿✨下一次，当我们谈论巴厘岛时，是否也能放下相机和打卡点，像蔷蔷一样，用心去听、去看、去感受那隐藏在热带阳光背后的古老灵魂呢？
 
-> 延伸阅读：[【巴厘岛灵疗/灵性之旅】当《Eat Pray Love》成为我的真实人生](/blog/2025-04-19-680323c9fd89780001988a20/)
+> 延伸阅读：[【巴厘岛灵疗/灵性之旅】当《Eat Pray Love》成为我的真实人生](/blog/eat-pray-love-bali-spiritual-journey/)
 
 > 参加巴厘岛灵疗：[Private Spiritual Healing Day Trip in Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1033788&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F43536-private-spiritual-healing-day-trip-bali%2F%3Fspm%3DTicketList.OrderDetails.Activity%26clickId%3D91c1b40633)
 

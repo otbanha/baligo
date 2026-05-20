@@ -117,10 +117,10 @@ It's also a favorite low-key getaway spot for stars like Beckham and Angelina Jo
 
 * Uluwatu Temple + Cliffside (15 minutes by car)
 
-> [Bali Uluwatu Temple/Cliffside Travel Guide: Must-See Highlights & Practical Tips](/blog/2025-01-18-678b1d81fd89780001f7fe4d/)
+> [Bali Uluwatu Temple/Cliffside Travel Guide: Must-See Highlights & Practical Tips](/blog/uluwatu-temple-travel-guide/)
 
 * Padang Padang Secret Beach
-* More nearby attractions: [【Bukit Peninsula Adventure Guide】From Jimbaran Sunset to Uluwatu Cliff Temples: Bali's Southern Hidden Paradise](/blog/2024-10-31-67061b07fd897800012f87b5/)
+* More nearby attractions: [【Bukit Peninsula Adventure Guide】From Jimbaran Sunset to Uluwatu Cliff Temples: Bali's Southern Hidden Paradise](/blog/bukit-peninsula-guide/)
 
 ## 🌿 **About Alila Brand｜The Epitome of Sustainable Luxury
 

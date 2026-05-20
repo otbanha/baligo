@@ -53,7 +53,7 @@ Some restaurants or merchants still use outdated card machines or manually recor
 - - If a merchant requests 'manual card number entry' or 'taking a photo of your credit card', refuse immediately.
   - Switch to cash or mobile payments (like Apple Pay, Google Pay, or Indonesia's GoPay) to reduce risks.
 
-> Further reading: [Grab or Gojek? A Complete Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/blog/2024-10-13-670b5191fd8978000185cf37/)
+> Further reading: [Grab or Gojek? A Complete Guide to Registering, Using, and Topping Up Gojek and GoPay in Indonesia/Bali](/blog/indonesia-gojek-gopay-guide/)
 
 ---
 
@@ -138,6 +138,6 @@ Even credit cards that normally work perfectly can encounter unexpected issues i
 
 Bali’s credit card environment isn’t as secure as Taiwan’s, but with the right payment strategies, you can significantly reduce risks. During your trip, try to use **a mix of cash and electronic payments**, with credit cards as a backup. Always monitor your transaction records to ensure a convenient and worry-free vacation!
 
-> Further Reading: [How Much Cash Should You Prepare for a Trip to Bali?](/blog/2023-09-11-64fdaddefd89780001bdb780/)
+> Further Reading: [How Much Cash Should You Prepare for a Trip to Bali?](/blog/bali-travel-cash-budget-guide/)
 
 **Have you ever encountered credit card issues in Bali? Feel free to share your experiences in the comments!** 💳✈️

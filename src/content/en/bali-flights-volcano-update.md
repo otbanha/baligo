@@ -62,7 +62,7 @@ This means that travelers departing from Taiwan on direct flights to Bali **can 
 
 **Canceled Domestic Flights:**
 
-- [Labuan Bajo at Komodo Airport](/blog/2025-05-04-681601c6fd8978000139f8a3/) to Bali (2 flights)
+- [Labuan Bajo at Komodo Airport](/blog/komodo-island-labuan-bajo-travel/) to Bali (2 flights)
 
 **Canceled Departures:**
 

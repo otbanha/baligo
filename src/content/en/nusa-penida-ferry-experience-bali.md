@@ -30,7 +30,7 @@ Provided by Mei Yi Liao: The boarding point in Sanur, where the port facilities 
 
 The goal of this trip was Nusa Penida, an island known for its stunning landscapes. Departing from Bali, we chose to take a boat from Sanur. The new port in Sanur is called "Sanur Harbour" on Google Maps. The boarding facilities are quite modern, and you no longer need to worry about getting your feet wet when boarding, which is a great relief for travelers with luggage. We opted to carry lightweight backpacks, though many travelers also brought carry-on suitcases. However, suitcases are placed on the front deck of the boat and exposed to the sun during the journey. After disembarking, you’ll need to wait for the crew to unload the luggage, which might leave you under the sun for a while. Therefore, it’s advisable to bring a sun hat and sunscreen.
 
-> Further Reading: [Guide to Luggage Storage in Sanur Before Heading to Bali’s Outlying Islands](/blog/2024-03-12-65ea5fc9fd89780001f099b8/)
+> Further Reading: [Guide to Luggage Storage in Sanur Before Heading to Bali’s Outlying Islands](/blog/sanur-luggage-storage-guide/)
 
 ## Experience During the Voyage
 
@@ -44,7 +44,7 @@ Upon arriving at Nusa Penida, we immediately noticed someone collecting island f
 
 The roads on Nusa Penida are quite narrow, making it nerve-wracking when two vehicles meet. Often, one has to pull over to let the other pass. Although the roads are paved, they are uneven, making the ride feel like a rollercoaster, full of excitement. This journey gave us a full appreciation of the island's transportation challenges, but it also added a sense of adventure and fun to our trip.
 
-> Further reading: [Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Cars, and Motorbikes](/blog/2024-01-16-65a5e069fd897800010625d0/)
+> Further reading: [Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Cars, and Motorbikes](/blog/nusa-penida-transport-guide/)
 
 ## Exploring the Island's Beauty and Cuisine
 
@@ -52,17 +52,17 @@ The roads on Nusa Penida are quite narrow, making it nerve-wracking when two veh
 
 The scenery on Nusa Penida is absolutely unmissable. Whether it's the famous Kelingking Beach or Angel's Billabong, each spot leaves visitors in awe. These locations not only boast stunning natural landscapes but also crystal-clear waters and breathtaking cliff views, making it hard to leave.
 
-> Further reading: [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, and Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)
+> Further reading: [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, and Attractions](/blog/nusa-penida-guide/)
 
 Additionally, the island's cuisine is a highlight. We sampled local seafood dishes, which were fresh and delicious, truly whetting our appetites. Particularly, the grilled fish and seafood platters are signature dishes, not only flavorful but also very affordable.
 
-> Further reading: [Nusa Penida Cuisine and Azure Skies: Top 10 Picks for Food and Scenery](/blog/2023-10-22-65348754fd89780001b2a259/)
+> Further reading: [Nusa Penida Cuisine and Azure Skies: Top 10 Picks for Food and Scenery](/blog/nusa-penida-best-restaurants/)
 
 ## Overnight Options on Nusa Penida
 
 Visiting Nusa Penida is absolutely worthwhile, and it's recommended to stay for a night or two rather than opting for a day trip. This will give you extra time to fully experience this enchanting island. While a day trip is a great way to visit the most popular tourist spots, staying longer allows you more time to explore and discover hidden treasures.
 
-You can refer to this: [Nusa Penida Accommodation Recommendations: 13 Highly Rated Stays from Luxury to Budget](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+You can refer to this: [Nusa Penida Accommodation Recommendations: 13 Highly Rated Stays from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
 
 ## Reflections on the Return Journey
 
@@ -79,7 +79,7 @@ Here are some important tips for visitors traveling to Nusa Penida:
 1. Tickets can be purchased directly at the port, but make sure to arrive at the ticket office at least one hour before departure.
 2. Booking tickets in advance on Klook offers discounts and saves you time from queuing.
 3. Large luggage is allowed, but it's best to avoid it as it can be very inconvenient on the island.
-4. For luggage storage services, please [refer here](/blog/2024-03-12-65ea5fc9fd89780001f099b8/).
+4. For luggage storage services, please [refer here](/blog/sanur-luggage-storage-guide/).
 5. If you purchased tickets through Klook, arrive at the port at least 30 minutes before departure.
 
 6. It’s recommended to book your Klook tickets at least one day in advance.
@@ -90,5 +90,5 @@ Do you find Mei Yi Liao's itinerary exciting? Quickly plan your own Bali free an
 
 {{block:遊記}}
 
-- [Complete Guide to Eating, Drinking, and Playing on Nusa Penida](/blog/2023-08-16-64db6b82fd897800013a9942/)
-- [Complete Guide to Attractions on Nusa Lembongan and Nusa Ceningan](/blog/2024-10-23-66adfb9afd89780001f62df1/)
+- [Complete Guide to Eating, Drinking, and Playing on Nusa Penida](/blog/nusa-penida-guide/)
+- [Complete Guide to Attractions on Nusa Lembongan and Nusa Ceningan](/blog/nusa-lembongan-ceningan-guide/)

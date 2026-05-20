@@ -48,7 +48,7 @@ _srcHash: ebca93678605e5c484dd1f9dd78dc324
 
 Canggu (pronounced: Chang-gu), this charming town on Bali's southwest coast, has quickly become a hotspot for global travelers. With its laid-back vibe, rich culture, and stunning natural scenery, Canggu attracts a diverse crowd, including surf enthusiasts, digital nomads, and luxury seekers. Featuring expansive black sand beaches, lush rice fields, and countless trendy cafes and restaurants, Canggu offers a unique and unforgettable experience for every visitor.
 
-Curious about what makes Canggu so special? Don’t miss our guide: [The Ultimate Canggu Adventure Map: 100 Must-Visit Spots in Canggu](/blog/2023-02-11-64db6b7efd897800013a9815/)26[Guide](/blog/2023-02-11-64db6b7efd897800013a9815/)
+Curious about what makes Canggu so special? Don’t miss our guide: [The Ultimate Canggu Adventure Map: 100 Must-Visit Spots in Canggu](/blog/canggu-guide/)26[Guide](/blog/canggu-guide/)
 
 ![長谷攻略裡有景點、餐廳、住宿、SPA推薦](https://images.gobaligo.id/vocus/vocus_55f2f31688753fb3500e30ac5c809196.jpg)
 
@@ -433,9 +433,9 @@ OXO Townhouses sets a new standard for modern living in Canggu, offering a range
 
 ### Other Accommodation Options in Canggu
 
-- Resort-style: [Bali Accommodation Recommendations: Top 10 Must-Try Stays in Canggu](/blog/2023-10-03-651b8da8fd89780001974847/)
-- Family-friendly resorts: [13 Recommended Family Resorts in Bali | Best Options for Family Vacations and Relaxation in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/blog/2024-05-14-66405077fd89780001f23b72/)
-- Family villas: For family villas in Canggu, check out [Recommendations for Villas with 3+ Bedrooms](/blog/2024-04-30-662e156bfd8978000130c73c/)
+- Resort-style: [Bali Accommodation Recommendations: Top 10 Must-Try Stays in Canggu](/blog/canggu-top-hotels-guide/)
+- Family-friendly resorts: [13 Recommended Family Resorts in Bali | Best Options for Family Vacations and Relaxation in Kuta, Seminyak, Canggu, Jimbaran, and Uluwatu](/blog/bali-family-resorts-kids-club/)
+- Family villas: For family villas in Canggu, check out [Recommendations for Villas with 3+ Bedrooms](/blog/bali-group-villa-stay/)
 
  BLOCK0 
  BLOCK1 

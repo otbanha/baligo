@@ -37,7 +37,7 @@ Bali, this mysterious and romantic vacation paradise, hides many stunning secret
 
 ### **Where is Batu Barak/Tanah Barak?**
 
-Batu Barak Beach is located in the Uluwatu area of southern Bali, specifically in Kutuh Village, adjacent to the famous Pandawa Beach and [Green Bowl Beach](/blog/2023-08-15-64db6b57fd897800013a8e30/). This man-made road is hidden between limestone cliffs, boasting unique natural scenery, making it a hidden gem in southern Bali.
+Batu Barak Beach is located in the Uluwatu area of southern Bali, specifically in Kutuh Village, adjacent to the famous Pandawa Beach and [Green Bowl Beach](/blog/green-bowl-beach-bali/). This man-made road is hidden between limestone cliffs, boasting unique natural scenery, making it a hidden gem in southern Bali.
 
 ***
 
@@ -77,7 +77,7 @@ This coastal road is called the 'Blue Road' because the limestone cliffs contras
 
 ![詳細位置請參考「烏魯瓦圖攻略地圖」](https://images.gobaligo.id/vocus/vocus_d55264b0552506fae6f6c3bde6ded6f9.png)
 
-[For detailed location, refer to the "Uluwatu Guide Map"](/blog/2024-03-07-65dfd410fd897800019f4b40/)
+[For detailed location, refer to the "Uluwatu Guide Map"](/blog/uluwatu-guide/)
 
 ***
 
@@ -117,12 +117,12 @@ This coastal road is called the 'Blue Road' because the limestone cliffs contras
 3. **Serene Atmosphere**:
    The peaceful and private ambiance makes it an ideal place to relax and find inner peace.
 
-Pandawa Beach is located between Green Bowl Beach (see [Xiao Jie's Indonesia Introduction](https://youtu.be/8mzJm_UrjSg)) and Pantai Gunung Payung. If you're looking for one or two nearby attractions, check out our [【Uluwatu Guide】Uluwatu Attractions and Recommendations](/blog/2024-03-07-65dfd410fd897800019f4b40/).
+Pandawa Beach is located between Green Bowl Beach (see [Xiao Jie's Indonesia Introduction](https://youtu.be/8mzJm_UrjSg)) and Pantai Gunung Payung. If you're looking for one or two nearby attractions, check out our [【Uluwatu Guide】Uluwatu Attractions and Recommendations](/blog/uluwatu-guide/).
 
 Tanah Barak and Pandawa Beach are actually closer to the two resort destinations of Nusa Dua or Sanur on the southeastern coast of Bali. You can refer to our guides for food, drink, and accommodation below:
 
-- [Nusa Dua Guide](/blog/2024-01-25-65afb7bbfd897800017023b4/)
-- [Sanur Guide](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
+- [Nusa Dua Guide](/blog/nusa-dua-guide/)
+- [Sanur Guide](/blog/sanur-guide/)
 
 ## Klook Day Tour:
 
@@ -136,7 +136,7 @@ Explore South Bali in a VW convertible! Stops include Padang Padang and Pandawa 
 
 ## Travel Experience:
 
-In June 2024, we had lunch at [Icon Bali](/blog/2024-06-08-666425e6fd8978000121dadc/), then hired a car from Sanur to Tanah Barak in the afternoon, and in the evening, we visited the nearby White Rock Beach Club. We found this leisurely half-day itinerary to be excellent and recommend it to everyone.
+In June 2024, we had lunch at [Icon Bali](/blog/icon-bali-shopping-mall-sanur/), then hired a car from Sanur to Tanah Barak in the afternoon, and in the evening, we visited the nearby White Rock Beach Club. We found this leisurely half-day itinerary to be excellent and recommend it to everyone.
 
 ![2024/06 Tanah Barak](https://images.gobaligo.id/vocus/vocus_847386533b3fbadca83c1b183576feb3.jpg)
 

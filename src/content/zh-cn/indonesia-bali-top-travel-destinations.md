@@ -59,7 +59,7 @@ _srcHash: 22bf64773423961d903c9f82438d7de9
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_56ab0ceda63196ea577a807d5be9054a.jpg)
 
-比起欧美、台湾的高物价，巴厘岛能用一半的预算享受**五星级Villa、悬崖SPA、私人海滩晚餐**。推荐[水明漾（Seminyak）的私人泳池villa](/blog/2024-04-04-660e6e92fd89780001e6047e/)、[金巴兰Ayana岩石酒吧无敌日落](/blog/2023-10-26-653914f6fd89780001fef733/)、[乌布（Ubud）的丛林美景酒店](/blog/2024-02-20-65d21157fd897800013be576/)、[努沙杜瓦（Nusa Dua）的五星度假村](/blog/2024-07-27-66a4562afd89780001d70329/)。
+比起欧美、台湾的高物价，巴厘岛能用一半的预算享受**五星级Villa、悬崖SPA、私人海滩晚餐**。推荐[水明漾（Seminyak）的私人泳池villa](/blog/2024-04-04-660e6e92fd89780001e6047e/)、[金巴兰Ayana岩石酒吧无敌日落](/blog/ayana-resort-bali-guide/)、[乌布（Ubud）的丛林美景酒店](/blog/ubud-villas-pool-guide/)、[努沙杜瓦（Nusa Dua）的五星度假村](/blog/nusa-dua-resorts-guide/)。
 
 ### 3. **独一无二的在地生活**
 
@@ -68,7 +68,7 @@ _srcHash: 22bf64773423961d903c9f82438d7de9
 
 **📌延伸阅读：**
 
-- [巴厘岛六大必看卡恰火舞（Kecak Fire Dance）地点：一场视觉与文化的盛宴](/blog/2024-12-12-675ad354fd89780001c09f24/)
+- [巴厘岛六大必看卡恰火舞（Kecak Fire Dance）地点：一场视觉与文化的盛宴](/blog/bali-kecak-fire-dance-locations/)
 - [巴厘岛各种手作、烹饪体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1023869&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E5%25B3%2587%25E9%2587%258C%25E5%25B3%25B6%2520%25E6%2589%258B%25E4%25BD%259C%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D1314702255)
 
 ### 4. **冒险爱好者的乐园**
@@ -77,8 +77,8 @@ _srcHash: 22bf64773423961d903c9f82438d7de9
 
 **📌延伸阅读：**
 
-- [巴厘岛户外活动玩什么？50种不可错过的精彩体验](/blog/2025-04-02-67ecf440fd897800012cb31b/)
-- [巴厘岛+科莫多恐龙岛，四晚轻奢住宿/无购物/无自费/五日游](/blog/2024-11-19-673c7478fd89780001db176b/)
+- [巴厘岛户外活动玩什么？50种不可错过的精彩体验](/blog/bali-top-50-outdoor-activities/)
+- [巴厘岛+科莫多恐龙岛，四晚轻奢住宿/无购物/无自费/五日游](/blog/bali-komodo-luxury-tour-2026/)
 
 ### 
 
@@ -86,24 +86,24 @@ _srcHash: 22bf64773423961d903c9f82438d7de9
 
 ## ✈️ 旅行小贴士：如何玩转印尼/巴厘岛？
 
-- **最佳季节**：4-10月是旱季，但雨季的巴厘岛游客较少、房价更甜！（[巴厘岛雨季月份/降雨概率/降雨天数/平均气温/适合旅游指数...大解析](/blog/2025-04-02-67ecc962fd89780001212629/)）
-- **签证**：台湾护照30天签证（请看[签证FAQ](/blog/2023-01-13-64db6b7dfd897800013a978a/)）。
-- **隐藏版路线**：避开库塔（Kuta）人潮，改去东部的[沙努尔（Sanur）](/blog/2024-02-11-65bf2f75fd89780001dbf162/)气氛更悠闲！
+- **最佳季节**：4-10月是旱季，但雨季的巴厘岛游客较少、房价更甜！（[巴厘岛雨季月份/降雨概率/降雨天数/平均气温/适合旅游指数...大解析](/blog/bali-rainy-season-travel-guide/)）
+- **签证**：台湾护照30天签证（请看[签证FAQ](/blog/indonesia-bali-visa-evoa-faq/)）。
+- **隐藏版路线**：避开库塔（Kuta）人潮，改去东部的[沙努尔（Sanur）](/blog/sanur-guide/)气氛更悠闲！
 - **超强攻略**：
 
-1. [巴厘岛水明漾100个景点攻略](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+1. [巴厘岛水明漾100个景点攻略](/blog/seminyak-guide/)
 2. [库塔必访50个景点攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-3. [坎古100个必游景点](/blog/2023-02-11-64db6b7efd897800013a9815/)
-4. [乌布探索的100个方式](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-5. [金巴兰攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)
-6. [乌鲁瓦图攻略](/blog/2024-03-07-65dfd410fd897800019f4b40/)
-7. [武吉半岛冒险指南](/blog/2024-10-31-67061b07fd897800012f87b5/)
-8. [沙努尔45项吃喝玩乐攻略](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-9. [努沙杜瓦40个住宿美食活动攻略](/blog/2024-01-25-65afb7bbfd897800017023b4/)
-10. [佩尼达岛吃喝玩乐全攻略](/blog/2023-08-16-64db6b82fd897800013a9942/)
-11. [蓝梦岛/金银岛景点全攻略](/blog/2024-10-23-66adfb9afd89780001f62df1/)
-12. [Nuanu Creative City攻略](/blog/2025-04-18-68026619fd89780001f56243/)
-13. [科莫多岛攻略](/blog/2025-05-04-681601c6fd8978000139f8a3/)
+3. [坎古100个必游景点](/blog/canggu-guide/)
+4. [乌布探索的100个方式](/blog/ubud-guide/)
+5. [金巴兰攻略](/blog/jimbaran-guide/)
+6. [乌鲁瓦图攻略](/blog/uluwatu-guide/)
+7. [武吉半岛冒险指南](/blog/bukit-peninsula-guide/)
+8. [沙努尔45项吃喝玩乐攻略](/blog/sanur-guide/)
+9. [努沙杜瓦40个住宿美食活动攻略](/blog/nusa-dua-guide/)
+10. [佩尼达岛吃喝玩乐全攻略](/blog/nusa-penida-guide/)
+11. [蓝梦岛/金银岛景点全攻略](/blog/nusa-lembongan-ceningan-guide/)
+12. [Nuanu Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
+13. [科莫多岛攻略](/blog/komodo-island-labuan-bajo-travel/)
 
 ---
 
@@ -113,11 +113,11 @@ _srcHash: 22bf64773423961d903c9f82438d7de9
 
 **📌 延伸阅读**：
 
-- [巴厘岛Tegalalang德格拉朗、Jatiluwih贾提鲁维两大梯田区拜访攻略｜入场门票多少钱？最佳拜访时间/季节？](/blog/2024-11-15-673167e4fd897800017c44a9/)
-- [巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/blog/2024-10-28-671f86f1fd89780001de9fae/)
-- [巴厘岛20个免费入场的海滩俱乐部 享受比基尼、音乐、泳池、夕阳美景](/blog/2024-08-15-66bbfca7fd89780001c1ee0a/)  
-  [巴厘岛旅游攻略：第一次到乌布要玩什么？20个景点推荐 乌布攻略篇](/blog/2024-07-28-669fc2a7fd89780001321901/)
-- 【精华篇】巴厘岛好评SPA推荐大集合 用区域划分更方便查找](/blog/2023-01-22-64db6b7efd897800013a97ed/)
-- [台湾人友好的包车司机推荐](/blog/2024-07-07-668aaea7fd89780001981840/)
+- [巴厘岛Tegalalang德格拉朗、Jatiluwih贾提鲁维两大梯田区拜访攻略｜入场门票多少钱？最佳拜访时间/季节？](/blog/bali-rice-terraces-comparison/)
+- [巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/blog/bali-tanah-lot-guide/)
+- [巴厘岛20个免费入场的海滩俱乐部 享受比基尼、音乐、泳池、夕阳美景](/blog/bali-beach-clubs-free-entry-list/)  
+  [巴厘岛旅游攻略：第一次到乌布要玩什么？20个景点推荐 乌布攻略篇](/blog/ubud-top-20-attractions-guide/)
+- 【精华篇】巴厘岛好评SPA推荐大集合 用区域划分更方便查找](/blog/spa/)
+- [台湾人友好的包车司机推荐](/blog/bali-private-car-drivers-guide/)
 
 ##

@@ -46,7 +46,7 @@ Click the 'Open Directory' button for quick navigation
 
 Stepping into Ubud feels like embarking on a journey through time. The Ubud Palace resembles a treasure trove with a thousand years of history, its elegant Balinese architectural style showcasing the profound cultural heritage of the region. Within this ancient and mysterious palace, you'll experience the fusion of religion and royalty, while marveling at the splendor of various historical artifacts.
 
-For detailed information on Ubud Palace ticket prices and opening hours, please check [here](/blog/2024-11-05-6728cc00fd89780001c9bbdc/).
+For detailed information on Ubud Palace ticket prices and opening hours, please check [here](/blog/ubud-royal-palace-tour-guide/).
 
 ![烏布中心地圖。小傑的視頻帶你徒步逛一圈！](https://images.gobaligo.id/vocus/vocus_c6fdef7285695a13059f6b83b709d9a1.png)
 
@@ -85,7 +85,7 @@ Ubud Water Palace itself is not very large, so the time spent purely visiting wo
 
 At Ubud Palace, as night falls, a captivating performance unfolds, exploring the mystical beauty of the Kecak Fire Dance. This is a spectacular show that combines Bali's unique dance, music, and theatrical elements. The flickering flames and graceful dance movements intertwine in the palace courtyard, offering you an unforgettable cultural feast.
 
-For detailed information on the Ubud Palace Kecak Fire Dance performance times, ticket prices, and more, please see [here](/blog/2024-11-05-6728cc00fd89780001c9bbdc/).
+For detailed information on the Ubud Palace Kecak Fire Dance performance times, ticket prices, and more, please see [here](/blog/ubud-royal-palace-tour-guide/).
 
 > [Book Discount Tickets](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772894&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Deb69a61294)
 
@@ -107,7 +107,7 @@ However, because the monkeys here are quite mischievous, visitors should stay al
 
 Ubud's art markets go beyond the famous 'Ubud Art Market'! If you want to explore the beauty of local culture and art, these hidden markets are definitely worth a visit. Let us take you to four unique markets run by local artists, where you can experience the most authentic Ubud art scene. From handicrafts to paintings, each market holds unique treasures waiting to be discovered.
 
-Check out: [Complete Guide to Ubud's Top Five Art Markets: Souvenirs, Gifts, and Discovering Bali's Cultural Treasures](/blog/2024-10-19-6712fb1dfd89780001f69011/)
+Check out: [Complete Guide to Ubud's Top Five Art Markets: Souvenirs, Gifts, and Discovering Bali's Cultural Treasures](/blog/ubud-art-markets-guide/)
 
 ### Folk Pool & Gardens: A Hidden Oasis in the Heart of Ubud
 
@@ -155,15 +155,15 @@ Alas Harum also boasts a rich cultural heritage. The area features numerous temp
 
 We recommend the Campuhan Ridge Walk, known as the 'Ubud Skywalk,' which is easily accessible by foot from Ubud Palace. It is a hidden gem near Ubud's city center, offering tranquility and beautiful natural scenery. This trail, located along a ridge, provides a spectacular 360-degree panoramic view, away from the city's hustle and bustle.
 
-How to get to the Skywalk? How much time does it take? What is the best time to visit? Check out [Jay's detailed guide](/blog/2023-10-29-653dc7f3fd89780001f4f90a/) for more information.
+How to get to the Skywalk? How much time does it take? What is the best time to visit? Check out [Jay's detailed guide](/blog/ubud-campuhan-ridge-walk/) for more information.
 
 ### Explore Three Waterfalls （👉🏼Map: [Popular Attractions Around Ubud](/map/ubud/)）
 
 ![烏布附近三大瀑布探秘](https://images.gobaligo.id/vocus/vocus_e883e487b364bdf8a8aa37988f64462c.png)
 
-[Exploring Three Waterfalls Near Ubud](/blog/2023-07-19-64db6b82fd897800013a995f/)
+[Exploring Three Waterfalls Near Ubud](/blog/ubud-waterfalls-guide/)
 
-The Ubud area is not only famous for its culture and art but also boasts breathtaking natural landscapes, with waterfalls being a must-visit. The three renowned waterfalls near Ubud are Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall. Check out [this guide to the three famous waterfalls around Ubud](/blog/2023-07-19-64db6b82fd897800013a995f/).
+The Ubud area is not only famous for its culture and art but also boasts breathtaking natural landscapes, with waterfalls being a must-visit. The three renowned waterfalls near Ubud are Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall. Check out [this guide to the three famous waterfalls around Ubud](/blog/ubud-waterfalls-guide/).
 
 Waterfalls are ideal for exploring nature's beauty and capturing Instagram-worthy photos. Escape the city's hustle and bustle, wander along trails through lush jungles, and feel like you've entered a mysterious realm. Standing before a waterfall, the splashing water and rushing currents let you experience the awe-inspiring power of nature.
 
@@ -203,7 +203,7 @@ Each of these two holy water temples offers its own unique charm and cultural de
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_52e021ca1f655e109c3a05e03e3df486.jpg)
 
-Stroll through the traditional Penglipuran Village, exploring its history and heritage. Known as 'The Most Beautiful Village in Bali,' it preserves one of the most intact traditional Balinese communities, maintaining the original Balinese culture and unique way of life. The village is steeped in Balinese culture, making it a valuable treasure of Bali. [Read the full introduction](/blog/2023-08-26-64e9e8e9fd89780001f28d6b/)
+Stroll through the traditional Penglipuran Village, exploring its history and heritage. Known as 'The Most Beautiful Village in Bali,' it preserves one of the most intact traditional Balinese communities, maintaining the original Balinese culture and unique way of life. The village is steeped in Balinese culture, making it a valuable treasure of Bali. [Read the full introduction](/blog/penglipuran-village-bali-experience/)
 
 > [Penglipuran Village Day Tour with Free Cooking Class](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76095-penglipuran-village-day-tour-bali-free-cooking-class-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7317846487)
 
@@ -217,7 +217,7 @@ Taman Dedari is a highly anticipated attraction in Ubud, famous for its iconic g
 
 There are numerous photo-worthy spots within the venue, so feel free to capture memories!
 
-[Detailed Introduction to Taman Dedari](/blog/2025-01-26-6795adf1fd8978000133fe10/)
+[Detailed Introduction to Taman Dedari](/blog/taman-dedari-ubud-food-scenery/)
 
 > [Taman Dedari Tickets, Afternoon Tea, and Dining Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F93907-taman-dedari-ubud-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D18eb8d34de)
 
@@ -243,7 +243,7 @@ Bali Safari Park is an astonishing wildlife adventure. The park is home to some 
 
 On this magical land, you'll get up close with breathtaking wildlife, from fierce lions to gentle elephants and graceful giraffes. The animals roam freely in their habitats, offering you a true feast of the animal kingdom.
 
-Bali Safari Park provides adventurous safari tours that take you through the animals' homes, giving you the thrill of feeling like you're in the wild. In addition to animal viewing, the park hosts a variety of animal performances, blending joy and nature into one unforgettable experience. Check out [our detailed introduction here](/blog/2023-07-25-64db6b8cfd897800013a9ab1/).
+Bali Safari Park provides adventurous safari tours that take you through the animals' homes, giving you the thrill of feeling like you're in the wild. In addition to animal viewing, the park hosts a variety of animal performances, blending joy and nature into one unforgettable experience. Check out [our detailed introduction here](/blog/bali-safari-night-stay/).
 
 > [Stay at the Zoo](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155)
 
@@ -255,7 +255,7 @@ Want to explore two worlds in one destination?
 
 The newly opened "Bali Marine Safari Park" in 2025 will make your family vacation even more exciting, offering both marine and land adventures! One destination, double the wonder: explore the ocean and roam the wildlife park, taking your family holiday to the next level 🚀
 
-For a detailed guide to the "Bali Marine Safari Park", [check out our introduction](/blog/2025-01-23-6791ea5dfd89780001a7a07c/)
+For a detailed guide to the "Bali Marine Safari Park", [check out our introduction](/blog/marine-safari-bali-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ca1f0902f94caa16d3c871e271096227.png)
 
@@ -313,7 +313,7 @@ Interested travelers can join the [Klook day tour](https://affiliate.klook.com/r
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f390ebaed29268e4d1bc7c04e5e1a6e5.jpg)
 
-Enjoy the enchanting dance of fireflies under the romantic night sky 🌌, while supporting conservation and organic farming 🌿. 👉 Next time you're in Ubud, consider arranging a magical nighttime experience! Detailed introduction available [here](/blog/2025-08-24-68aa8849fd8978000171256a/).
+Enjoy the enchanting dance of fireflies under the romantic night sky 🌌, while supporting conservation and organic farming 🌿. 👉 Next time you're in Ubud, consider arranging a magical nighttime experience! Detailed introduction available [here](/blog/the-firefly-garden-ubud/).
 
 > Day Tour: [Firefly Garden Tour with Ubud Highlights and Kintamani Coffee Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1110614&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F148460-fireflies-garden-with-ubud-highlight-kintamani-cafe-tour%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Ded9d6d5bff)
 
@@ -323,7 +323,7 @@ Enjoy the enchanting dance of fireflies under the romantic night sky 🌌, while
 
 Experience an immersive nighttime light art journey in Ubud, Bali, crafted by experts in digital innovation and immersive entertainment, blending traditional myths with cutting-edge technology. A one-kilometer forest trail transforms into a dreamlike world of light and shadow, narrating the legend of the God of Light and the God of Shadow through advanced projection mapping.
 
-The park features several excellent photo spots, including enchanting light installations and a signature giant moon sculpture, along with costume rentals and professional photography services. Check out [here](/blog/2025-11-10-69113993fd897800015bfa87/) for a detailed article and discount ticket links.
+The park features several excellent photo spots, including enchanting light installations and a signature giant moon sculpture, along with costume rentals and professional photography services. Check out [here](/blog/hikaria-ubud-light-show/) for a detailed article and discount ticket links.
 
 This unique nighttime experience is suitable for visitors of all ages, offering a memorable journey where light, culture, and nature intertwine in a magical forest setting, perfect for romantic dates or family outings.
 
@@ -403,7 +403,7 @@ https://youtu.be/_Lvp9cIVYz8
 
 In Ubud, even swinging can become an exotic experience. In some dedicated spots around Ubud, you'll find a variety of uniquely designed swings hanging amidst lush greenery or overlooking captivating water views. Swinging isn't just a playful activity; it's an excellent way to enjoy Ubud's serene beauty. Let your heart sway with the breeze as you swing, embracing a sense of relaxation and delight.
 
-> [Aloha Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db14b625403) (Read more about it [here](/blog/2024-07-19-669a60fffd89780001d61fb5/))
+> [Aloha Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db14b625403) (Read more about it [here](/blog/aloha-ubud-swing-guide/))
 
 > [Bali Swing](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20020-swing-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D57a4f3d075)
 
@@ -475,7 +475,7 @@ Mount Batur isn't just about early morning sunrise hikes; there's also the optio
 
 Discover a unique experience in Ubud! Jungle Cart offers a special karting adventure that takes you through Bali's sacred jungles, rice fields, temples, and traditional villages (lasting approximately 15-25 minutes). This is not just a journey of speed and laughter, but also an opportunity to immerse yourself in the beauty of local nature and culture.
 
-These carts are unpowered, relying solely on downhill momentum, also known as 'gravity carts.' The official activity fee is Rp.380,000, and children under 14 can ride for free with an adult. This is a perfect family-friendly activity, making your family time full of fun. Whether you're a speed enthusiast or a nature lover, Jungle Cart offers a unique choice for everyone. Check out Xiao Jie's trial experience [here](/blog/2024-07-06-66892d20fd8978000183776c/).
+These carts are unpowered, relying solely on downhill momentum, also known as 'gravity carts.' The official activity fee is Rp.380,000, and children under 14 can ride for free with an adult. This is a perfect family-friendly activity, making your family time full of fun. Whether you're a speed enthusiast or a nature lover, Jungle Cart offers a unique choice for everyone. Check out Xiao Jie's trial experience [here](/blog/ubud-jungle-cart-adventure/).
 
 A snippet of Xiao Jie's trial experience (please watch in highest quality):
 
@@ -545,7 +545,7 @@ If you want to deeply experience Bali's traditional culture, the performances at
 
 Performances by dancers and musicians are held every Friday night at 7:30 PM. For reservations, contact WhatsApp: +6281936281721
 
-For larger groups, you can also book sessions to learn traditional Balinese music and dances like Legong or Barong! Check out [Jay's firsthand experience](/blog/2024-09-19-66eb78bafd89780001edcec6/).
+For larger groups, you can also book sessions to learn traditional Balinese music and dances like Legong or Barong! Check out [Jay's firsthand experience](/blog/balerung-stage-cultural-show/).
 
 ### Ubud Electric Bike Tour
 
@@ -637,7 +637,7 @@ Omma Dayclub offers a swimming pool, sunbeds, and massage services. Additionally
 
 Omma Dayclub provides a variety of packages, allowing you to enjoy delicious food and drinks while admiring the waterfall views. You can find more detailed information on their website.
 
-> [Omma Dayclub Introduction & Official Website](/blog/2023-11-27-65647143fd897800014b96f1/)
+> [Omma Dayclub Introduction & Official Website](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ### Wanna Jungle Pool & Bar （👉🏼Map: [Immersed in Scenic Beauty](/map/ubud/)）
 
@@ -653,7 +653,7 @@ Wanna Jungle Pool & Bar is a newly opened day club in Ubud, famous for its uniqu
 
 Cretya Ubud is a luxurious day club in the Ubud area, featuring a distinctive three-tiered pool. Located within the aforementioned Alas Harum, it faces lush rice fields and boasts magnificent views.
 
-Cretya Ubud is open daily from 8 AM to 9 PM. For more details, please refer to the "[Cretya Ubud Pool Club and Alas Harum Spending Guide](/blog/2024-08-02-66ac535efd89780001d5363a/)".
+Cretya Ubud is open daily from 8 AM to 9 PM. For more details, please refer to the "[Cretya Ubud Pool Club and Alas Harum Spending Guide](/blog/cretya-ubud-alas-harum-budget-guide/)".
 
 > [Travel Packages](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89567-ubud-jungle-club-mount-batur-jeep-waterfall-tour-land-tour%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2f260216ee)
 
@@ -819,7 +819,7 @@ Rated 4.8 stars on Google. Enjoy a variety of culinary experiences at Padma Reso
 
 Following the popularity of Cretya Ubub with its stunning views of the Tegallalang Rice Terraces, the Alas Harum group has launched a new masterpiece—Cretya Sunset by Alas Harum, Ubud. This day club and restaurant in Ubud combines luxury, nature, and entertainment, featuring an infinity pool, stylish lounging areas, and a design that blends modern and Balinese styles. Enjoy food and cocktails while immersing yourself in the breathtaking sunset and rice terrace views.
 
-Cretya Sunset is nestled in the lush rice fields of Ubud, with its west-facing location making it an ideal spot to watch the sunset. Every evening, accompanied by live DJ music, you can relax here and feel the charm of Bali's nature and culture. Whether you're quietly admiring the scenery or enjoying the lively atmosphere, this is a dream destination not to be missed. Further details can be found [here](/blog/2025-01-29-6799a185fd89780001c87e06/).
+Cretya Sunset is nestled in the lush rice fields of Ubud, with its west-facing location making it an ideal spot to watch the sunset. Every evening, accompanied by live DJ music, you can relax here and feel the charm of Bali's nature and culture. Whether you're quietly admiring the scenery or enjoying the lively atmosphere, this is a dream destination not to be missed. Further details can be found [here](/blog/cretya-sunset-ubud-paradise/).
 
 > Cretya Sunset ▶[Klook Coupon Rp.62,500](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989669&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F78117-ubudsunset-pass-poolbar-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D09b568e351)
 
@@ -861,7 +861,7 @@ This place is not just a food paradise but also an immersive natural art space. 
 
 In the tranquil koi-filled river at Kamandalu Resort, enjoy a unique dining experience with your loved one aboard a traditional wooden boat. Surrounded by lush tropical gardens, colorful koi fish swim gracefully in the clear waters, creating a stunning romantic setting. The resort chef specially designs a luxurious five-star meal for two, featuring seasonal fresh ingredients that blend traditional Indonesian flavors with international culinary techniques, paired with selected sparkling wine and signature cocktails for a feast for both the palate and the eyes.
 
-A professional photography team will capture these precious moments, allowing you to focus on enjoying the experience without worrying about posing. Your natural expressions of happiness will become timeless memories. Whether it's for a honeymoon, anniversary celebration, or simply to surprise your loved one, this 60-minute dreamy experience will be the highlight of your Bali trip. Here’s [more information](/blog/2025-06-04-68404e54fd89780001530054/).
+A professional photography team will capture these precious moments, allowing you to focus on enjoying the experience without worrying about posing. Your natural expressions of happiness will become timeless memories. Whether it's for a honeymoon, anniversary celebration, or simply to surprise your loved one, this 60-minute dreamy experience will be the highlight of your Bali trip. Here’s [more information](/blog/kamandalu-ubud-koi-river-dining/).
 
 > [Book with Klook for exclusive offers](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1061065&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F136296-dining-experience-at-kamandalu-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Debd9e9bd14)
 
@@ -897,7 +897,7 @@ Ubud's culinary scene is truly vibrant, offering not only traditional Indonesian
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4182aca9b5cf1fe4d85278c159021273.jpg)
 
-When in Bali, you must try the local food! So, what are some must-try local dishes in Bali? Take a look at Jay's guide to "[Top 10 Local Foods in Bali](/blog/2023-08-15-64db6b7dfd897800013a97bc/)" for a delicious culinary adventure.
+When in Bali, you must try the local food! So, what are some must-try local dishes in Bali? Take a look at Jay's guide to "[Top 10 Local Foods in Bali](/blog/bali-travel-tips/)" for a delicious culinary adventure.
 
 ***
 
@@ -919,9 +919,9 @@ Interestingly, this Balinese water temple is also featured on Indonesian currenc
 
 ![12家景觀咖啡廳介紹](https://images.gobaligo.id/vocus/vocus_075571a329c945f6dd5e23eecb659683.jpg)
 
-[Introduction to 12 Scenic Cafes](/blog/2024-11-27-67467629fd897800018d71d1/)
+[Introduction to 12 Scenic Cafes](/blog/kintamani-volcano-cafes-restaurants/)
 
-The Kintamani region is renowned for its stunning views of Mount Batur and Lake Kintamani, making it one of Bali's most picturesque highlands. The cool climate and breathtaking scenery make Kintamani the perfect spot for enjoying coffee and relaxing. Below, we’ve curated 12 must-visit scenic cafes, each with its unique charm and signature dishes. Click [here](/blog/2024-11-27-67467629fd897800018d71d1/) to check them out!
+The Kintamani region is renowned for its stunning views of Mount Batur and Lake Kintamani, making it one of Bali's most picturesque highlands. The cool climate and breathtaking scenery make Kintamani the perfect spot for enjoying coffee and relaxing. Below, we’ve curated 12 must-visit scenic cafes, each with its unique charm and signature dishes. Click [here](/blog/kintamani-volcano-cafes-restaurants/) to check them out!
 
 ### Toya Devasya Hot Springs Water Park （👉🏼Map: [Popular Attractions Around Ubud](/map/ubud/)）
 
@@ -991,7 +991,7 @@ Discover the emerging hidden gem, Lahangan Sweet, and capture dreamy photos toge
 
 This Instagram-famous new spot offers a zero-distance view of the sacred Mount Agung, with 360-degree panoramic mountain views—best of all, no crowds! 😍
 
-Want to know how to take ethereal photos that rival the Gates of Heaven? How much is the entrance fee? How to hire a professional photographer? Check out the detailed guide here: "[Lahangan Sweet ─ The Stunning Mount Agung Viewpoint](/blog/2024-11-17-6739669dfd89780001afcd67/) 🌄"
+Want to know how to take ethereal photos that rival the Gates of Heaven? How much is the entrance fee? How to hire a professional photographer? Check out the detailed guide here: "[Lahangan Sweet ─ The Stunning Mount Agung Viewpoint](/blog/lahangan-sweet-volcano-view/) 🌄"
 
 ***
 
@@ -1041,39 +1041,39 @@ Additionally, we have five more themed accommodations in Ubud for your reference
 
 ![烏布最具特色的28家住宿推薦](https://images.gobaligo.id/vocus/vocus_8092290c2bac6096557c0e32556c5b0c.jpg)
 
-[28 Most Unique Accommodations in Ubud](/blog/2024-02-20-65d21157fd897800013be576/)
+[28 Most Unique Accommodations in Ubud](/blog/ubud-villas-pool-guide/)
 
-> [【Bali Ubud Accommodation】28 Unique Stays in Ubud, Experience the Magic of Bali's Mountain Scenery!](/blog/2024-02-20-65d21157fd897800013be576/)
+> [【Bali Ubud Accommodation】28 Unique Stays in Ubud, Experience the Magic of Bali's Mountain Scenery!](/blog/ubud-villas-pool-guide/)
 
 ### Bamboo Villa
 
 ![10家bamboo villa推薦](https://images.gobaligo.id/vocus/vocus_b96e9d765ccf52dae074554359f07d08.png)
 
-10 [Recommended Bamboo Villas](/blog/2024-04-04-660d4c83fd89780001ddf0ad/)
+10 [Recommended Bamboo Villas](/blog/ubud-treehouse-bamboo-villa-stays/)
 
-> [Explore 10 Stunning Tree Houses/Bamboo Villas in Ubud](/blog/2024-04-04-660d4c83fd89780001ddf0ad/)
+> [Explore 10 Stunning Tree Houses/Bamboo Villas in Ubud](/blog/ubud-treehouse-bamboo-villa-stays/)
 
 ### Ubud Private Pool Villa
 
 ![18間烏布私人泳池別墅推薦](https://images.gobaligo.id/vocus/vocus_8ed3633db6e0cf72382b29c543916d60.jpg)
 
-[18 Recommended Ubud Private Pool Villas](/blog/2024-04-24-6628f08cfd8978000190a575/)
+[18 Recommended Ubud Private Pool Villas](/blog/ubud-villa-pool-guide/)
 
-> [Ubud Accommodation Recommendations: Private Pool Villas - A Secret Paradise in Ubud](/blog/2024-04-24-6628f08cfd8978000190a575/)
+> [Ubud Accommodation Recommendations: Private Pool Villas - A Secret Paradise in Ubud](/blog/ubud-villa-pool-guide/)
 
 ### Yoga Retreat Hotels/Resorts
 
 ![烏布瑜伽住宿推薦](https://images.gobaligo.id/vocus/vocus_f608b6fd11e1f970775f39493357f0b1.jpg)
 
-[Ubud Yoga Accommodation Recommendations](/blog/2024-11-26-67451f5afd89780001f002f2/)
+[Ubud Yoga Accommodation Recommendations](/blog/ubud-yoga-retreats-bali/)
 
-> [Ubud Yoga Accommodation Recommendations: 10 Dreamy Options Combining Yoga Classes and Spiritual Relaxation](/blog/2024-11-26-67451f5afd89780001f002f2/)
+> [Ubud Yoga Accommodation Recommendations: 10 Dreamy Options Combining Yoga Classes and Spiritual Relaxation](/blog/ubud-yoga-retreats-bali/)
 
 ### Camping Sites
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_aa2e5903772efc3eb6c62e1a5eb3ec46.jpg)
 
-The newly opened luxury camping site Toya Ubud in 2025 starts from USD$19 per night. Check out the [detailed introduction](/blog/2025-02-21-67b7e25bfd89780001a6b041/)
+The newly opened luxury camping site Toya Ubud in 2025 starts from USD$19 per night. Check out the [detailed introduction](/blog/toya-ubud-new-attraction/)
 
 {{block:klook}}
 

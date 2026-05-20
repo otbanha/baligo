@@ -44,9 +44,9 @@ The process of applying for Indonesia's 30-day visa on arrival is relatively str
 
 The Electronic Visa on Arrival (e-VoA) is a visa that can be applied for and obtained online via the internet, eliminating the need to queue for a visa on arrival at the port of entry. Applicants simply need to complete the online application before departure, provide the necessary personal details and documents, and pay the visa fee. Once the electronic visa is approved, applicants will receive an email notification and can directly present the electronic visa for entry upon arrival. This method not only saves time but also greatly enhances the convenience of entry, making the journey smoother.
 
-> Further Reading: [Bali Visa Guide: Visa on Arrival vs E-Visa, Which is Better for You?](/blog/2023-12-05-656f160bfd89780001e07ea9/)
+> Further Reading: [Bali Visa Guide: Visa on Arrival vs E-Visa, Which is Better for You?](/blog/bali-visa-landing-vs-electronic/)
 
-> Further Reading: [[Video Tutorial] Step-by-Step Guide to Applying for Indonesia/Bali E-Visa](/blog/2024-05-10-663da7ddfd89780001d83821/)
+> Further Reading: [[Video Tutorial] Step-by-Step Guide to Applying for Indonesia/Bali E-Visa](/blog/bali-evisa-application-tutorial/)
 
 ## Validity of Visa on Arrival
 
@@ -64,7 +64,7 @@ If you overstay, you will face a fine of **1 million IDR per day** (approximatel
 
 If you wish to extend your stay in Indonesia, you can choose to apply for a visa extension. Typically, you can extend for an additional 30 days, but you must visit the local immigration office or apply online before your visa expires and submit the relevant application forms and fees.
 
-> Further Reading: [2024 Indonesia/Bali Online Visa Extension Guide](/blog/2024-02-05-65c039affd89780001e5a3db/)
+> Further Reading: [2024 Indonesia/Bali Online Visa Extension Guide](/blog/2024-bali-visa-extension/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_463dbab8ca6996865a358ae3450237dd.png)
 
@@ -76,7 +76,7 @@ Most searched for...
 
 ## Other Short-Term Visa Options
 
-In addition to the 30-day visa on arrival, Indonesia offers other types of visas. Please refer to: [2024 Latest FAQ on Revised Entry Visa for Bali, Indonesia](/blog/2024-01-17-65a7f34dfd897800010017db/)
+In addition to the 30-day visa on arrival, Indonesia offers other types of visas. Please refer to: [2024 Latest FAQ on Revised Entry Visa for Bali, Indonesia](/blog/2025-bali-visa-update-faq/)
 
 ## Summary
 

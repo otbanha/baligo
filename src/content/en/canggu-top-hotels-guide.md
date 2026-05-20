@@ -35,9 +35,9 @@ When planning a relaxing holiday in Canggu, Bali, Indonesia, selecting a stunnin
 
 ### You Might Also Want to See:
 
-> ▶ [Canggu Guide Part 1](/blog/2024-04-16-661de06efd897800012195a4/)
+> ▶ [Canggu Guide Part 1](/blog/canggu-surf-food-guide/)
 > >
-> ▶ [Canggu Guide Part 2](/blog/2024-04-25-661e365bfd8978000126675a/)
+> ▶ [Canggu Guide Part 2](/blog/canggu-bali-travel-guide/)
 
 ### 【Don’t Miss These Canggu Ticket Deals】
 
@@ -310,9 +310,9 @@ Please refer to the "[Canggu Guide Map](/map/canggu-hotel/)"
 
 ## You might also like to see:
 
-> ▶[Canggu Guide Part 1](/blog/2024-04-16-661de06efd897800012195a4/)
+> ▶[Canggu Guide Part 1](/blog/canggu-surf-food-guide/)
 > >
-> ▶[Canggu Guide Part 2](/blog/2024-04-25-661e365bfd8978000126675a/)
+> ▶[Canggu Guide Part 2](/blog/canggu-bali-travel-guide/)
 
 ## Don't Miss These Canggu Ticket Deals
 

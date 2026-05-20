@@ -58,7 +58,7 @@ For travelers planning to visit Bali, it's crucial to understand and adapt to th
 
 In addition to visa fees, tourists are required to pay a Bali tourism tax of IDR 150,000. This fee is primarily used for environmental protection, cultural heritage preservation, and improving tourism infrastructure. Visitors can pay this fee upon arrival at the airport or through the Love Bali app and website.
 
-Further reading: [Bali Tourism Tax Guide 2024: New Regulations, Payment Methods, and Island-Hopping Tips](/blog/2024-01-03-65955989fd89780001a95927/)
+Further reading: [Bali Tourism Tax Guide 2024: New Regulations, Payment Methods, and Island-Hopping Tips](/blog/2026-bali-tourism-tax-guide/)
 
 ### Challenges in Policy Implementation
 

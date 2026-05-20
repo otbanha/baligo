@@ -40,7 +40,7 @@ First, let me introduce our driver for the first three days, Komang Sucika. He h
 
 Provided by Dai Yushan
 
-> What is the best season for mangosteens? Check out: [Queen of Tropical Fruits - The Harvest Season of Indonesian/Bali Mangosteens](/blog/2024-04-12-661943c7fd897800016eaf4a/)
+> What is the best season for mangosteens? Check out: [Queen of Tropical Fruits - The Harvest Season of Indonesian/Bali Mangosteens](/blog/bali-mangosteen-season/)
 
 Every morning, he would arrive punctually at our villa to pick us up, and was always quick to respond to our needs. When we wanted to find a bookstore, he immediately called the store and spoke to the staff in Indonesian. Even at Besakih Temple, he reminded us of important considerations before we got out of the car. We felt incredibly fortunate to have met a driver like Komang Sucika! His service far exceeded what we paid for, and we gave him a generous tip because we believed he truly deserved more.
 
@@ -70,11 +70,11 @@ Provided by Dai Yushan
 
 Video provided by Dai Yushan
 
-> For detailed info/reservations at La Brisa? Read: [Hailed as 'Bali's Most Beautiful Restaurant': How Does La Brisa Stand Out Among Thousands of Dining Options?](/blog/2023-12-04-656d19fffd897800019cb6ed/)
+> For detailed info/reservations at La Brisa? Read: [Hailed as 'Bali's Most Beautiful Restaurant': How Does La Brisa Stand Out Among Thousands of Dining Options?](/blog/canggu-la-brisa-restaurant-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
 
-Want more Canggu tips? [Click here](/blog/2023-02-11-64db6b7efd897800013a9815/)
+Want more Canggu tips? [Click here](/blog/canggu-guide/)
 
 ## Day 2 (Ubud):
 
@@ -101,7 +101,7 @@ Provided by Dai Yushan
 
 Contributed by Dai Yushan
 
-> For more details about this attraction, see: [Time-Traveling Penglipuran Village: Experiencing Bali's Ancient Charm](/blog/2023-08-26-64e9e8e9fd89780001f28d6b/)
+> For more details about this attraction, see: [Time-Traveling Penglipuran Village: Experiencing Bali's Ancient Charm](/blog/penglipuran-village-bali-experience/)
 
 - Lunch: Naughty Nuri's Ubud (famous for pork ribs)
 - Snack: Tukies Coconut Shop (coconut ice cream)
@@ -204,4 +204,4 @@ Does Yu-Shan's itinerary sound exciting to you? Start planning your own Bali adv
 
 Click here to read more exciting Bali travel stories
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue shine!

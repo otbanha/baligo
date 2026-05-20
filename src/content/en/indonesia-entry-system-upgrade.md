@@ -81,7 +81,7 @@ Yes, travelers can fill out the declaration form on the official website using t
 
 ### **What If I Encounter a System Error?**
 
-The system has built-in redundancy mechanisms and provides customer support to promptly assist with technical issues travelers may encounter. For any questions regarding filling out the declaration form, please refer to [our FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)
+The system has built-in redundancy mechanisms and provides customer support to promptly assist with technical issues travelers may encounter. For any questions regarding filling out the declaration form, please refer to [our FAQ](/blog/bali-evisa-customs-health-declaration/)
 
 ### **Is the Tourism Tax Not Integrated?**
 

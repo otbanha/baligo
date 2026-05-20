@@ -67,7 +67,7 @@ Ayana Villas 是 Ayana Bali 最豪华的住宿选择，位于Ayana Bali园区的
 
 Ayana Villas 的别墅均以巴厘岛传统风格装饰，宽敞舒适。别墅内配备了现代化的设施，包括液晶电视、免费无线网络、迷你吧、厨房、私人泳池等。此外，别墅还设有私人管家服务，为客人提供全方位的服务。
 
-Ayana Villas 是巴厘岛的顶级豪华度假村，是休闲度假、蜜月旅行、家庭出游的理想选择。(Ayana Bali提供四种住宿等级，关于Ayana Bali的详细介绍，[请参考我们的专题](/blog/2023-10-26-653914f6fd89780001fef733/))
+Ayana Villas 是巴厘岛的顶级豪华度假村，是休闲度假、蜜月旅行、家庭出游的理想选择。(Ayana Bali提供四种住宿等级，关于Ayana Bali的详细介绍，[请参考我们的专题](/blog/ayana-resort-bali-guide/))
 
 > USD$533起，[请查看Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=478524)
 
@@ -186,6 +186,6 @@ Milo's Home
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b3a5c8f9a1eaea6500f8c5ea37d5abd7.png)
 
-在金巴兰有什么好玩、好看、好逛的推荐吗？别忘了看看我们准备的「[金巴兰完整攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)」喔！
+在金巴兰有什么好玩、好看、好逛的推荐吗？别忘了看看我们准备的「[金巴兰完整攻略](/blog/jimbaran-guide/)」喔！
 
 {{block:住宿}}

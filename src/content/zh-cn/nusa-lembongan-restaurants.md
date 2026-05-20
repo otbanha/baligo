@@ -17,8 +17,8 @@ _srcHash: 958bf247f676287d0d8b606281de694f
 
 这篇是蓝梦岛/金银岛攻略的第二集。想知道蓝梦岛、金银岛有哪些景点、推荐住宿？请看我们的攻略指南：
 
-- [【蓝梦岛攻略一】景点攻略篇](/blog/2024-10-23-66adfb9afd89780001f62df1/)
-- [【蓝梦岛攻略三】最佳住宿篇](/blog/2024-10-30-67205cb1fd89780001ee1413/)
+- [【蓝梦岛攻略一】景点攻略篇](/blog/nusa-lembongan-ceningan-guide/)
+- [【蓝梦岛攻略三】最佳住宿篇](/blog/nusa-lembongan-ceningan-accommodation-guide/)
 
 ***
 
@@ -286,6 +286,6 @@ Agung Beach Club 是蓝梦岛上一个无拘无束的海滩俱乐部，当地人
 
 **这篇是蓝梦岛/金银岛攻略的第二集，别忘了看看第一集喔：**
 
-- [【蓝梦岛攻略一】景点攻略篇](/blog/2024-10-23-66adfb9afd89780001f62df1/)
+- [【蓝梦岛攻略一】景点攻略篇](/blog/nusa-lembongan-ceningan-guide/)
 
 {{block:klook}}

@@ -106,6 +106,6 @@ The charm of Capella Ubud lies in its breathtaking natural scenery, unique desig
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0aff256da208300bcfc81788611a1174.jpg)
 
-Want to learn more about Ubud travel tips? [Click here](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+Want to learn more about Ubud travel tips? [Click here](/blog/ubud-guide/)
 
 {{block:住宿}}

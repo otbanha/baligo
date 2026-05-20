@@ -113,8 +113,8 @@ Based on our experience, here are the must-have items:
 
 **Editor's Note: For more tips, check out:**
 
-- [Bali Rafting Guide (FAQ)](/blog/2025-03-28-67e62aa8fd89780001888620/)
-- [Bali ATV Adventure: Experience the Thrill and Freedom of Tropical Paradise (Reminders + FAQ + Operator Recommendations)](/blog/2024-01-30-65b6ef65fd89780001f5d032/)
+- [Bali Rafting Guide (FAQ)](/blog/bali-rafting-ayung-telaga-waja/)
+- [Bali ATV Adventure: Experience the Thrill and Freedom of Tropical Paradise (Reminders + FAQ + Operator Recommendations)](/blog/bali-atv-adventure-guide/)
 
 ### Important Reminders
 

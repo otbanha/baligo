@@ -78,8 +78,8 @@ _srcHash: 39aeae43e9cf56852143873cf22bc91a
 
 **延伸閱讀：**
 
-- [2025/08印尼峇里島入境使用「All Indonesia」申報系統｜1分鐘搞懂最新流程：落機→過海關→攞行李全攻略](/blog/2025-08-14-689dcce7fd8978000125fc52/)
-- [入境印尼/峇里島eVisa簽證、eCD海關、SSHP健康聲明必填 All Indonesia 常見問題 FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)
+- [2025/08印尼峇里島入境使用「All Indonesia」申報系統｜1分鐘搞懂最新流程：落機→過海關→攞行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+- [入境印尼/峇里島eVisa簽證、eCD海關、SSHP健康聲明必填 All Indonesia 常見問題 FAQ](/blog/bali-evisa-customs-health-declaration/)
 
 ---
 

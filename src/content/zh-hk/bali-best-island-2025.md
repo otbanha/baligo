@@ -35,9 +35,9 @@ _srcHash: 3aa31d233d008cf839951863f9024f81
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8f9223a347e8ba9613072bda21eab4b8.jpg)
 
-- [峇里島嘅祭拜習俗：Canang Sari](/blog/2024-07-16-66964aa7fd89780001c7051c/)
-- [【2025】Tirta Empul 聖泉寺完整指南：峇里島最神聖嘅淨化水廟體驗](/blog/2025-06-18-6852cdc2fd89780001e0b7ad/)
-- [【峇里島靈療/靈性之旅】當《Eat Pray Love》成為我嘅真實人生](/blog/2025-04-19-680323c9fd89780001988a20/)
+- [峇里島嘅祭拜習俗：Canang Sari](/blog/bali-canang-sari-explained/)
+- [【2025】Tirta Empul 聖泉寺完整指南：峇里島最神聖嘅淨化水廟體驗](/blog/tirta-empul-temple-guide/)
+- [【峇里島靈療/靈性之旅】當《Eat Pray Love》成為我嘅真實人生](/blog/eat-pray-love-bali-spiritual-journey/)
 
 **快速參考：**
 
@@ -51,7 +51,7 @@ _srcHash: 3aa31d233d008cf839951863f9024f81
 
 **快速參考：**
 
-- [峇里島戶外活動玩咩好？50種最受歡迎嘅戶外體驗](/blog/2025-04-02-67ecf440fd897800012cb31b/)
+- [峇里島戶外活動玩咩好？50種最受歡迎嘅戶外體驗](/blog/bali-top-50-outdoor-activities/)
 
 ### ✨ **同旅人連結嘅溫度**
 
@@ -75,7 +75,7 @@ _srcHash: 3aa31d233d008cf839951863f9024f81
 
 **快速參考：**
 
-- [2025峇里島景點地圖推薦攻略 ｜500個最新峇里島人氣景點一次蒐全](/blog/2024-03-09-65df201efd89780001994d11/)
+- [2025峇里島景點地圖推薦攻略 ｜500個最新峇里島人氣景點一次蒐全](/blog/bali-top-500-attractions/)
 
 ***
 

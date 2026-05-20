@@ -76,9 +76,9 @@ The sunset at Alila Uluwatu is unreal!
 ***
 
 **Quick Reference:**
-[【Redefining Luxury in Bali】Alila Villas Uluwatu｜Top 10 Infinity Pools in the World✧Celebrity Wedding Destination](/blog/2025-04-06-67f1f8fbfd89780001607840/)
+[【Redefining Luxury in Bali】Alila Villas Uluwatu｜Top 10 Infinity Pools in the World✧Celebrity Wedding Destination](/blog/alila-villas-uluwatu-bali/)
 
-[Luxurious Healing Experience in Bali: An In-Depth Exploration of Alila Villas Uluwatu Spa](/blog/2025-05-26-6833e882fd89780001853b1d/)
+[Luxurious Healing Experience in Bali: An In-Depth Exploration of Alila Villas Uluwatu Spa](/blog/alila-uluwatu-spa-experience/)
 
 ***
 

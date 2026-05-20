@@ -45,7 +45,7 @@ Sophie的六天巴厘岛自由行游记分享
 - **15:20**：抵达巴厘岛机场，准备展开巴厘岛之旅。司机提到虽然是雨季，但已经很久没下雨了。
 - **16:00**：抵达机场，转换一些当地货币。建议找一家可靠的换汇处。
 
-> （延伸阅读：[关于换汇你必须知道的全部懒人包](/blog/2024-01-28-65b5c7e2fd89780001e96fac/)）
+> （延伸阅读：[关于换汇你必须知道的全部懒人包](/blog/bali-currency-exchange-guide/)）
 
 - **18:00**：品尝水上发呆亭脏鸭饭的绝佳选择 - [Bebek Tebasari Resto](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6380339e0f)。这是一家非常值得推荐的餐厅。
 
@@ -63,7 +63,7 @@ Bebek Tebasari Resto 图：Sophie提供
 
 > [阿勇河泛舟](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)[阿勇河泛舟（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
-快速参考：[巴厘岛泛舟攻略（泛舟常见问题FAQ）](/blog/2025-03-28-67e62aa8fd89780001888620/)
+快速参考：[巴厘岛泛舟攻略（泛舟常见问题FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
 
 - **13:00**：品尝美味的午餐，并欣赏Tis Cafe旁的梯田风景。
 
@@ -85,7 +85,7 @@ Tis Cafe 图：Sophie提供
 
 在乌布度过毛毛雨的上午，然后前往Penida岛
 
-- **09:00** [Omma Dayclub](/blog/2023-11-27-65647143fd897800014b96f1/) Bali瀑布+午餐
+- **09:00** [Omma Dayclub](/blog/ubud-omma-dayclub-tegenungan-waterfall/) Bali瀑布+午餐
 
 ![Omma Dayclub  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_699d0a9f7a85019dac97b82980480d3f.jpg)
 
@@ -101,7 +101,7 @@ Omma Dayclub 图：Sophie提供
 
 - **15:00**：佩尼达岛上享受阳光明媚的下午和傍晚。
 
-> （延伸阅读：[【巴厘岛 - 努沙佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/2023-08-16-64db6b82fd897800013a9942/)）
+> （延伸阅读：[【巴厘岛 - 努沙佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)）
 
 ## 1/21第四天：探索努沙佩尼达岛
 
@@ -109,7 +109,7 @@ Omma Dayclub 图：Sophie提供
 
 - **07:00**：在酒店附近进行浮潜活动。
 
-> (延伸阅读：[努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/2023-11-02-654249defd89780001041c87/))
+> (延伸阅读：[努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/))
 
 - **09:00**：参观克林金海滩，探索精灵海岸。
 - **13:00**：探访破碎海滩和天使浴池，欣赏壮观的自然景观。
@@ -119,7 +119,7 @@ Omma Dayclub 图：Sophie提供
 
 不用排队的天堂之门 图：Sophie提供
 
-> （延伸阅读：[Amarta Penida介绍](/blog/2023-10-22-65348754fd89780001b2a259/)）
+> （延伸阅读：[Amarta Penida介绍](/blog/nusa-penida-best-restaurants/)）
 
 ## 1/22 第五天：Nusa Penida岛和金巴兰
 
@@ -132,7 +132,7 @@ Diamond Beach 图：Sophie提供
 
 - **17:00**：回到巴厘岛，在金巴兰海滩享受美味的晚餐+烤玉米，还有超梦幻的夕阳，结束一天的旅程。
 
-（延伸阅读：[金巴兰九家海鲜餐厅推荐](/blog/2023-11-09-654b8438fd897800016bf4cc/)）
+（延伸阅读：[金巴兰九家海鲜餐厅推荐](/blog/jimbaran-guide/)）
 
 ![金巴蘭夕陽晚餐  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_0b40e77d3c97f550983e107d821f854b.jpg)
 
@@ -149,12 +149,12 @@ Wahaha吃过的都说赞！
 
 内行的都知道要去Prema Rasa买伴手礼
 
-**快速参考：**[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+**快速参考：**[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
 
 - **14:30** 启程前往机场。旅程最后一天安排在库塔、金巴兰这一带的优点是「完全不用担心会赶不上飞机」哦！
 
 > （延伸阅读：[库塔旅游攻略：50个必访景点、美食、推荐SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)）  
-> （延伸阅读：[金巴兰自由行：推荐31个玩乐景点全攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)）
+> （延伸阅读：[金巴兰自由行：推荐31个玩乐景点全攻略](/blog/jimbaran-guide/)）
 
 - **16:30**：告别巴厘岛，准时起飞。
 

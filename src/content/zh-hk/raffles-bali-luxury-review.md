@@ -28,7 +28,7 @@ _srcHash: 7ef496070523bbb1017cb406ce8db706
 
 位於峇里島金巴蘭灣嘅 **萊佛士酒店（Raffles Bali）**，喺 2024 年榮登全球最佳奢華酒店之一，唔單止以靜謐私密嘅度假氛圍聞名，更以超越五星級嘅用餐體驗驚艷旅人。被熱帶綠意環抱，坐擁壯闊嘅印度洋同專屬隱秘沙灘，呢度嘅餐飲場景唔只係美食，更係一場記憶深刻嘅旅程。
 
-睇介紹：[峇里島金巴蘭酒店 Raffles Bali 榮獲全球最佳奢華度假村之一](/blog/2024-10-11-67094049fd8978000167f9f9/)
+睇介紹：[峇里島金巴蘭酒店 Raffles Bali 榮獲全球最佳奢華度假村之一](/blog/raffles-bali-luxury-resort/)
 
 ## 晚餐：Rumari 嘅藝術饗宴
 
@@ -107,6 +107,6 @@ _srcHash: 7ef496070523bbb1017cb406ce8db706
 
 ## 同場加映：
 
-- [【峇里島美食體驗記】Alila Villas Uluwatu Brisa Brunch：懸崖邊嘅週日味覺盛宴](/blog/2025-06-08-68451457fd89780001df60be/)
+- [【峇里島美食體驗記】Alila Villas Uluwatu Brisa Brunch：懸崖邊嘅週日味覺盛宴](/blog/alila-uluwatu-brisa-brunch/)
 
 {{block:蜜月}}

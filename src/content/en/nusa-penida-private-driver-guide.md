@@ -76,11 +76,11 @@ This approach is especially suitable for:
 
 We have a five-part series introducing Nusa Penida – let’s dive deeper into this island paradise! Here are the links:
 
-1. [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)
-2. [Nusa Penida Food and Azure Seas: Top 9 Picks for Nusa Penida](/blog/2023-10-22-65348754fd89780001b2a259/)
-3. [Snorkeling Spots in Nusa Penida: How to Join Snorkeling Tours?](/blog/2023-11-02-654249defd89780001041c87/)
-4. [Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Cars, and Motorbikes](/blog/2024-01-16-65a5e069fd897800010625d0/)
-5. [13 Highly Rated Accommodations in Nusa Penida, from Luxury to Budget](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+1. [Bali - Nusa Penida Complete Guide: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/nusa-penida-guide/)
+2. [Nusa Penida Food and Azure Seas: Top 9 Picks for Nusa Penida](/blog/nusa-penida-best-restaurants/)
+3. [Snorkeling Spots in Nusa Penida: How to Join Snorkeling Tours?](/blog/nusa-penida-snorkeling-guide/)
+4. [Nusa Penida Transportation Guide: Taxis, Gojek/Grab, Private Cars, and Motorbikes](/blog/nusa-penida-transport-guide/)
+5. [13 Highly Rated Accommodations in Nusa Penida, from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0cb95fce009e6a0b11e1c5639d83ec4d.jpg)
 
@@ -100,7 +100,7 @@ It depends on the itinerary and group size. On average, a day tour costs around 
 
 Yes, and there are some unique guesthouses and resorts on the island. It’s advisable to book early to secure your stay.
 
-Check out: Nusa Penida Accommodation Recommendations: [13 Highly Rated Accommodations in Nusa Penida, from Luxury to Budget](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+Check out: Nusa Penida Accommodation Recommendations: [13 Highly Rated Accommodations in Nusa Penida, from Luxury to Budget](/blog/nusa-penida-hotels-guide/)
 
 ### 4. Do the drivers speak Chinese?
 

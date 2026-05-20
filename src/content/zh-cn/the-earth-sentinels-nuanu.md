@@ -64,4 +64,4 @@ _srcHash: f7c72c5abd582af2f87ef653ea91b6b2
 
 Nuanu Creative City是巴厘岛最新崛起的创意园区，并推动零碳排放，成为巴厘岛最新可持续旅游地标。现在已经开始吸引全球创意人士，成为下一个必访热点！
 
-Nuanu Creative City的景点攻略请看[这里](/blog/2025-04-18-68026619fd89780001f56243/)
+Nuanu Creative City的景点攻略请看[这里](/blog/nuanu-creative-city-luna-guide/)

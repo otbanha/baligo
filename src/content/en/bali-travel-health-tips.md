@@ -60,7 +60,7 @@ If you're traveling in Bali, it's highly recommended to purchase bottled water f
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3492fe649d1b46ef46788731bf208c73.png)
 
-👉**Here’s the updated version:** [Complete Guide to Diarrhea/Gastroenteritis Medications in Bali](/blog/2026-01-02-69523427fd89780001caa652/)
+👉**Here’s the updated version:** [Complete Guide to Diarrhea/Gastroenteritis Medications in Bali](/blog/bali-belly-medicine-guide/)
 
 ## Conclusion
 

@@ -52,11 +52,11 @@ Non-Hindus can also participate, as long as they respect the culture and etiquet
 **Participation Guidelines:**
 
 - Wear a Sarong and sash (provided free by the temple)
-- Prepare [Canang Sari](/blog/2024-07-16-66964aa7fd89780001c7051c/) (offerings) available for purchase outside the temple
+- Prepare [Canang Sari](/blog/bali-canang-sari-explained/) (offerings) available for purchase outside the temple
 - Maintain quietness, humility, and respect
 - Follow the sequence of springs for purification (guides are available to assist)
 
-> Read more: [Bali's Offering Ritual: Canang Sari](/blog/2024-07-16-66964aa7fd89780001c7051c/)
+> Read more: [Bali's Offering Ritual: Canang Sari](/blog/bali-canang-sari-explained/)
 
 ### The Correct Process and Order of the Tirta Empul Purification Ceremony
 

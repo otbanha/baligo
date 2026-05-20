@@ -28,7 +28,7 @@ _srcHash: df84fbbdaf7e09e5d4ee763614f15422
 
 冇人想成為違法簽證持有人，所以等我哋解釋一下你喺印尼遠程工作嘅幾種簽證選擇：
 
->>請參考：[最新入境印尼峇里島簽證改版 FAQ](/blog/2024-01-17-65a7f34dfd897800010017db/)
+>>請參考：[最新入境印尼峇里島簽證改版 FAQ](/blog/2025-bali-visa-update-faq/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dd41d77001052cf97d5e040eff2b57b5.jpg)
 

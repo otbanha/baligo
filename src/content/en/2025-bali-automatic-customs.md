@@ -36,7 +36,7 @@ The standard procedure is:
 
 > Disembark the plane ➡️ Queue for Visa on Arrival ➡️ Queue for immigration passport check and stamping ➡️ Pass through immigration checkpoint ➡️ Collect luggage ➡️ Present QR Code at customs ➡️ Pay tourism tax
 
-For those who follow us and know to [apply for an electronic visa](/blog/2024-02-06-65c217c5fd897800010113af/) and [pay the tourism tax](/blog/2024-01-03-65955989fd89780001a95927/) in advance, their immigration process becomes:
+For those who follow us and know to [apply for an electronic visa](/blog/bali-evisa-application-guide/) and [pay the tourism tax](/blog/2026-bali-tourism-tax-guide/) in advance, their immigration process becomes:
 
 > Disembark the plane ➡️ Pass through automated immigration ➡️ Collect luggage ➡️ Present QR Code at customs ➡️ Pay tourism tax
 
@@ -60,9 +60,9 @@ Editor's note: Currently, **children aged 6 and above can also use the airport's
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a832b6cb5d76f4ac85c91c899e756129.jpg)
 
-Ellen also reminds travelers that handwritten customs declaration forms have been canceled for some time. Many people only realize at the last checkpoint when collecting their luggage that they need to fill out an electronic customs declaration form online, causing delays as they spend considerable time filling it out at the final checkpoint. 【[Essential Guide to Indonesia's Mandatory Electronic Customs Declaration e-CD](/blog/2023-08-20-64e1946ffd89780001740b90/)】This step must not be overlooked!
+Ellen also reminds travelers that handwritten customs declaration forms have been canceled for some time. Many people only realize at the last checkpoint when collecting their luggage that they need to fill out an electronic customs declaration form online, causing delays as they spend considerable time filling it out at the final checkpoint. 【[Essential Guide to Indonesia's Mandatory Electronic Customs Declaration e-CD](/blog/indonesia-e-cd-guide/)】This step must not be overlooked!
 
-> Further reading: [Complete Guide to Applying for Indonesia/Bali Electronic Visa eVoa](/blog/2024-02-06-65c217c5fd897800010113af/)
+> Further reading: [Complete Guide to Applying for Indonesia/Bali Electronic Visa eVoa](/blog/bali-evisa-application-guide/)
 
 ## Essential Requirements for Using Automated Immigration
 
@@ -75,5 +75,5 @@ Does this convenient service pique your interest? To use this super-fast automat
 
 Lastly, a reminder to everyone (applicable to airports worldwide) that taking photos at immigration or customs can lead to significant trouble. It is generally not advisable to take photos in immigration or customs areas within airports, mainly due to security and privacy concerns. Airports are highly secure areas, and photography might be misinterpreted as a challenge to security measures or a potential threat. Additionally, photographing immigration or customs facilities could violate laws or regulations, especially in more sensitive areas. Maintaining respect and adhering to local laws is the best way to avoid issues, so it's best to refrain from taking photos to prevent unnecessary complications.
 
-> Further Reading: [2025 Bali Entry Changes Explained in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2023-12-07-65717449fd89780001fda950/)
+> Further Reading: [2025 Bali Entry Changes Explained in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2025-bali-immigration-process/)
 

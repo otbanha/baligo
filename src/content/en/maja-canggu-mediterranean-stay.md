@@ -92,11 +92,11 @@ According to Agoda reviews, MAJA Canggu has received a high score of 9.0, with g
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3425e74a7fff4a400f98cb8dcb2efb96.jpg)
 
-Looking for more Canggu accommodation recommendations or want to learn more about Canggu travel tips? [Click here](/blog/2023-02-11-64db6b7efd897800013a9815/)
+Looking for more Canggu accommodation recommendations or want to learn more about Canggu travel tips? [Click here](/blog/canggu-guide/)
 
 **Quick Reference:**
 
-- [Top 16 Canggu Accommodations You Can't Miss](/blog/2023-10-03-651b8da8fd89780001974847/)
-- [16 Private Pool Villas in Canggu: Bali Villas You Can't Miss](/blog/2024-08-07-66b20b15fd89780001ceef6b/)
+- [Top 16 Canggu Accommodations You Can't Miss](/blog/canggu-top-hotels-guide/)
+- [16 Private Pool Villas in Canggu: Bali Villas You Can't Miss](/blog/canggu-villas-guide/)
 
 {{block:住宿}}

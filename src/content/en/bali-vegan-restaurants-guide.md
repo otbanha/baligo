@@ -51,8 +51,8 @@ In these areas, vegetarianism is not just a healthy lifestyle but also a symbol 
 
 Further Reading:
 
-- [Canggu's 100 Must-Visit Spots for Food, Drink, and Fun](/blog/2023-02-11-64db6b7efd897800013a9815/)
-- [Seminyak's Comprehensive Guide to 100 Must-Visit Spots for Food, Drink, and Fun](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+- [Canggu's 100 Must-Visit Spots for Food, Drink, and Fun](/blog/canggu-guide/)
+- [Seminyak's Comprehensive Guide to 100 Must-Visit Spots for Food, Drink, and Fun](/blog/seminyak-guide/)
 
 ## **Ubud: Where Culture Meets Healthy Eating**
 
@@ -66,8 +66,8 @@ Vegetarian-friendly restaurants in Ubud offer more than just food; they promote 
 
 Further Reading:
 
-- [100 Things to Eat, Drink, and Do in Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/)
-- [55 Family-Friendly Activities in Ubud](/blog/2024-01-10-659cf4a5fd89780001d6fb69/)
+- [100 Things to Eat, Drink, and Do in Ubud](/blog/ubud-guide/)
+- [55 Family-Friendly Activities in Ubud](/blog/ubud-with-kids-guide/)
 
 ## **Nusa Dua: Vegetarian Options in Luxury Resorts**
 
@@ -81,7 +81,7 @@ These establishments not only provide vegetarian-friendly meals but also emphasi
 
 Further Reading:
 
-- [50 Things to Eat, Drink, and Do in Nusa Dua](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+- [50 Things to Eat, Drink, and Do in Nusa Dua](/blog/nusa-dua-guide/)
 
 ## Additional Vegetarian Recommendations from Readers
 

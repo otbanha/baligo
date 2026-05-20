@@ -35,11 +35,11 @@ _srcHash: 2fcea4475379fa7f2a06d7294c35dc32
 
 我们此行恰逢巴厘岛的旅游干季，天气舒爽宜人，没有台湾那样的湿热闷热，正值旅游旺季向上攀升的高峰期。这时候来访，虽然不是人最多的时候，但旅游品质相对较好，不会感到人挤人。然而，我们也遇到了几天的降雨，错过了几次观赏夕阳和日出的机会。这些小遗憾也成为我们未来再访的理由之一。
 
-> 延伸阅读：[旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备案攻略](/blog/2024-01-06-6598c6fffd89780001047d76/)
+> 延伸阅读：[旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备案攻略](/blog/2026-bali-indoor-activities/)
 
 原作者提供：
 
-> 延伸阅读：[巴厘岛乌布附近的三大知名瀑布攻略：Tegenungan瀑布、Kanto Lampo瀑布和Tukad Cepung瀑布](/blog/2023-07-19-64db6b82fd897800013a995f/)
+> 延伸阅读：[巴厘岛乌布附近的三大知名瀑布攻略：Tegenungan瀑布、Kanto Lampo瀑布和Tukad Cepung瀑布](/blog/ubud-waterfalls-guide/)
 
 ## 虽有感冒，但仍不忘细心规划
 
@@ -51,23 +51,23 @@ _srcHash: 2fcea4475379fa7f2a06d7294c35dc32
 
 左：AMARTA Penida 中：Angel's Billabong 右：Broken beach with sea view
 
-> AMARTA Penida的介绍 [美食和碧海蓝天：Nusa Penida的Top 10绝佳选择](/blog/2023-10-22-65348754fd89780001b2a259/)
+> AMARTA Penida的介绍 [美食和碧海蓝天：Nusa Penida的Top 10绝佳选择](/blog/nusa-penida-best-restaurants/)
 
 我们的行程中还包括了跳岛行程到Nusa Penida。虽然Ketut不能亲自接送，但他的团队仍然和当地的司机保持密切合作，这三天的跳岛行程中，他们一再地帮我们确认景点路线和时间安排，真的是非常贴心！
 
-> 延伸阅读：[佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+> 延伸阅读：[佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
 
 ![左：Kelingking Beach→ the origin of iPhone's wallpaper! 中：Tree House Bungalow 右：Diamond beach](https://images.gobaligo.id/vocus/vocus_54c623fcb2a8e1d4cc86bf0e3d31ded8.jpg)
 
 左：Kelingking Beach→ the origin of iPhone's wallpaper! 中：Tree House Bungalow 右：Diamond beach
 
-> 延伸阅读：[【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/2023-08-16-64db6b82fd897800013a9942/)
+> 延伸阅读：[【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
 
 ## 海神庙的奇遇
 
 在海神庙（Pura Tanah Lot）的游览中，我们遇到了许多野生猕猴。Ketut在分享猕猴故事的同时，会主动帮我们驱赶来犯的猴子，这些猴子会偷走游客身上的物品，如帽子、拖鞋、眼镜等。当Ketut刚说完这些猴子的故事时，一只猕猴突然出现在石头路上，试图偷拿一位白人游客的拖鞋，幸好没有得逞。这既是无奈又有些惊恐的猕猴趣事，增添了我们旅程的趣味性。
 
-**快速参考：**[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/blog/2024-10-28-671f86f1fd89780001de9fae/)
+**快速参考：**[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/blog/bali-tanah-lot-guide/)
 
 ## 
 
@@ -94,4 +94,4 @@ _srcHash: 2fcea4475379fa7f2a06d7294c35dc32
 
 点击这里观看更多巴厘岛精彩游记
 
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，帮助你的游记更出彩！
+你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！

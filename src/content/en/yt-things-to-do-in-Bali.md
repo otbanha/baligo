@@ -98,7 +98,7 @@ Apart from admiring the beautiful scenery, experiencing the swing is a must-do i
 
 The eight most famous swing locations in Bali:
 
-> [Top 8 Jungle Swing Spots: Dress Rental Tips, Photo Angles, and Crowd Avoidance Guide](/blog/2025-08-15-689eb518fd897800014fbb28/)
+> [Top 8 Jungle Swing Spots: Dress Rental Tips, Photo Angles, and Crowd Avoidance Guide](/blog/ubud-jungle-swings-photo-guide/)
 
 ## Chapter 5: Instagrammable Waterfalls
 
@@ -110,7 +110,7 @@ The final stop of their journey was a hidden waterfall in Ubud. After a short hi
 
 ▶**Hidden Gem**
 
-The Ubud area is not only famous for its culture and art but also boasts breathtaking natural landscapes, with waterfalls being a must-visit. The three renowned waterfalls near Ubud are Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall. Check out [this guide to the three famous waterfalls around Ubud](/blog/2023-07-19-64db6b82fd897800013a995f/).
+The Ubud area is not only famous for its culture and art but also boasts breathtaking natural landscapes, with waterfalls being a must-visit. The three renowned waterfalls near Ubud are Tegenungan Waterfall, Kanto Lampo Waterfall, and Tukad Cepung Waterfall. Check out [this guide to the three famous waterfalls around Ubud](/blog/ubud-waterfalls-guide/).
 
 Waterfalls are ideal for exploring nature's beauty and capturing Instagram-worthy photos. Escape the city's hustle and bustle, wander along trails through lush jungles, and feel like you've entered a mysterious realm. Standing before a waterfall, the splashing water and rushing currents let you experience the awe-inspiring power of nature.
 

@@ -31,7 +31,7 @@ _srcHash: 23f4b4755dcf016b582f57788ca2450c
 
 ➡️[更多峇里島超值優惠請撳我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
-咁樣大家大概就可以了解包車司機大勝租電單車嘅優點。峇里島包車嘅價格目前2024年由10小時 Rp. 600,000(折合美金40/約台幣1,200)起跳。關於計價方式、有咩額外支出等嘅『峇里島包車須知懶人包』請[參考呢度](/blog/2024-01-12-65a0a163fd8978000115f37a/)。
+咁樣大家大概就可以了解包車司機大勝租電單車嘅優點。峇里島包車嘅價格目前2024年由10小時 Rp. 600,000(折合美金40/約台幣1,200)起跳。關於計價方式、有咩額外支出等嘅『峇里島包車須知懶人包』請[參考呢度](/blog/bali-private-car-hire-guide/)。
 
 接落嚟我哋嚟推薦一啲喺社團最多人評價嘅司機，我哋唔加入個人意見，各位可以睇睇喺我哋兩個Facebook社團嘅團友真實評價。此外，建議唔好用評價嘅多寡嚟評定司機嘅好壞喔！能上榜嘅都係好好嘅司機！重點係睇睇網民推薦嘅內容、推薦嘅理由，從而搵到同你喺意嘅點契合嘅司機。畢竟包車司機帶你哋導覽峇里島好幾日，同時亦係峇里島之旅嘅精髓，搵到一個合得嚟嘅司機比咩都重要喔！
 
@@ -47,7 +47,7 @@ _srcHash: 23f4b4755dcf016b582f57788ca2450c
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e96d46f4fff8532b766b84b03cae9eb8.png)
 
-👉 [Gede Arimbawa 嘅介紹文](/blog/2024-12-24-676a2ccefd89780001962994/)
+👉 [Gede Arimbawa 嘅介紹文](/blog/bali-private-driver-recommendation/)
 
 👍🏼[網民推薦1](https://www.facebook.com/groups/baligo/permalink/1173796323167611/) 👍🏼[網民推薦2](https://www.facebook.com/groups/baligo/permalink/1270152276865348/) 👍🏼[網民推薦3](https://www.facebook.com/groups/baligo/permalink/1348959758984599/) 👍🏼[網民推薦4](https://www.facebook.com/groups/baligo/permalink/1348360015711240/) 👍🏼[網民推薦5](https://www.facebook.com/groups/baligo/permalink/1260026594544583/) 👍🏼[網民推薦6](https://www.facebook.com/groups/baligo/permalink/1306258926588016/) 👍🏼[網民推薦7](https://www.facebook.com/groups/baligo/permalink/1241526689727907/) 👍🏼[網民推薦8](https://www.facebook.com/groups/baligo/permalink/1289682914912284/) 👍🏼[網民推薦9](https://www.facebook.com/groups/baligo/permalink/143661292847791/) 👍🏼[網民推薦10](https://www.facebook.com/groups/baligo/permalink/1343577336189508/) 👍🏼[網民推薦11](https://www.facebook.com/groups/indonesia.travelguide/permalink/3489776264624831/) 👍🏼[網民推薦12](https://www.facebook.com/groups/baligo/permalink/1409975659549675/) 👍🏼[網民推薦13](https://www.facebook.com/groups/baligo/permalink/1431157174098190/?mibextid=oMANbw) 👍🏼[網民推薦14](https://www.facebook.com/groups/baligo/permalink/1492057241341516/) 👍🏼[網民推薦15](https://www.facebook.com/groups/baligo/permalink/1511651786048728/) 👍🏼[網民推薦16](https://www.facebook.com/groups/baligo/permalink/1542004513013455/) 👍🏼[網民推薦17](https://www.facebook.com/groups/baligo/permalink/1555630811650825/) 👍🏼[網民推薦18](https://www.facebook.com/share/15Gi8idWzs/) 👍🏼[網民推薦19](https://www.facebook.com/share/p/1AAS7saeGk/) 👍🏼[網民推薦20](https://www.facebook.com/share/p/15wXLx3hKx/) 👍🏼[網民推薦21](https://www.facebook.com/share/p/1Gn4x5Mvke/) 👍🏼[網民推薦22](https://www.facebook.com/share/p/19mrC6ZkZd/) 👍🏼[網民推薦23](https://www.facebook.com/share/p/1AVV529xd1/) 👍🏼[網民推薦24](https://www.facebook.com/share/p/1FrBiTvy2p/) 👍🏼[網民推薦25](https://www.facebook.com/share/p/14UD2y6rqe7/)
 

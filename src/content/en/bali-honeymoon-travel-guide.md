@@ -30,7 +30,7 @@ Travel Dates: May 19 - May 23, 2024
 
 First and foremost, the most important thing is the visa. We applied for the electronic visa about three weeks in advance, following instructions from fellow travelers and YouTube tutorials, and filled out the form step by step. We received the electronic visa immediately after submission. Remember to print it out, as it will be checked at customs. Don’t take chances—the tourism tax must also be paid online. Upon arrival, it’s best to allow about an hour from immigration to baggage claim. After collecting your luggage, you’ll need to scan a pre-filled electronic customs declaration QR code to proceed.
 
-> Further Reading: [2025 Latest Guide to Using the 'All Indonesia' Entry Card for Bali, Indonesia｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/blog/2025-08-14-689dcce7fd8978000125fc52/)
+> Further Reading: [2025 Latest Guide to Using the 'All Indonesia' Entry Card for Bali, Indonesia｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
 
 ## Currency Exchange
 
@@ -96,13 +96,13 @@ This seafood restaurant in Jimbaran offers a two-person set meal for around USD$
 
 The ambiance of this restaurant is wonderful, allowing diners to enjoy the sea view while eating. For a tourist spot, the price and dining environment are truly commendable.
 
-Editor's note: The Jimbaran seafood restaurant recommended by Angel has been included in [11 Jimbaran Seafood Restaurants in Bali: No-Regret Recommendations](/blog/2023-09-17-6506748dfd897800018d6be2/)
+Editor's note: The Jimbaran seafood restaurant recommended by Angel has been included in [11 Jimbaran Seafood Restaurants in Bali: No-Regret Recommendations](/blog/jimbaran-seafood-restaurants-list/)
 
 ## Tipping
 
 After researching online, we found mixed opinions about tipping culture in Indonesia. Our experience was that sometimes when we offered tips, the recipients were surprised and somewhat hesitant to accept. They would only take it when we expressed our gratitude for their service. Generally, we gave IDR 10,000 for car rides and luggage handling; we also gave an extra IDR 10,000 in cash to service staff when settling meal bills. At hotels, helpful staff who took many photos for us also indicated that tipping was unnecessary. Personally, I feel tipping is not mandatory but a gesture of courtesy. If you decide to tip, try to avoid coins as it's considered less polite. (Editor's note: The largest coin denomination in Indonesia is IDR 1,000, approximately USD$0.06)
 
-Further reading: [Should You Tip in Bali? How Much to Tip in Various Situations?](/blog/2024-05-07-663a126bfd89780001390b63/)
+Further reading: [Should You Tip in Bali? How Much to Tip in Various Situations?](/blog/bali-tipping-guide-driver-spa/)
 
 As it was our honeymoon trip, although it was our first time in Bali, we wanted to visit many places without the stress of daily traffic jams and rushing. Therefore, we opted for a very relaxed itinerary. We enjoyed hotel facilities, indulged in hearty afternoon teas, experienced authentic massages, strolled on three different beaches, and had fulfilling dinners, making our trip very enriching.
 
@@ -158,7 +158,7 @@ Here's a brief introduction to the accommodations:
 
 Indigo Seminyak is a beautifully designed boutique hotel located in the heart of Seminyak. The hotel seamlessly blends traditional Balinese style with modern design, offering exquisite interior decor and outdoor landscapes. The spacious and comfortable rooms are well-equipped, ensuring a relaxing stay. We experienced their renowned SAVA SPA, indulging in a 90-minute hot stone massage that left us thoroughly relaxed and satisfied.
 
-Featured on our site: [Seminyak Accommodation Recommendation: Stay at the 5-Star Hotel Indigo Bali Seminyak Beach for USD$161](/blog/2025-07-24-68818eddfd897800017a2dfb/)
+Featured on our site: [Seminyak Accommodation Recommendation: Stay at the 5-Star Hotel Indigo Bali Seminyak Beach for USD$161](/blog/hotel-indigo-seminyak-review/)
 
 > ▶[Book Hotel Indigo Bali Seminyak Beach](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348)
 

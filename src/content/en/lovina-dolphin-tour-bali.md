@@ -71,4 +71,4 @@ Finally, Bingbing Jingjing will head to her next destination, Munduk, which is s
 
 ## For a detailed record of the journey, please enjoy their video:
 
-Friends interested in a northern Bali itinerary, please continue to refer to: [Bali Travel Tips: 15 Tips for Traveling to Northern Bali](/blog/2024-08-31-66c895c1fd89780001455e7f/)
+Friends interested in a northern Bali itinerary, please continue to refer to: [Bali Travel Tips: 15 Tips for Traveling to Northern Bali](/blog/north-bali-travel-guide/)

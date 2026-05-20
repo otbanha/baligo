@@ -31,7 +31,7 @@ Understand the process from landing to exiting the airport in one minute
 
 ➡️[Find Bali accommodations here](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
-## The following is the old version. For the updated version effective August 2025, please see [here](/blog/2025-08-14-689dcce7fd8978000125fc52/)
+## The following is the old version. For the updated version effective August 2025, please see [here](/blog/bali-all-indonesia-arrival-guide/)
 
 ---
 
@@ -41,7 +41,7 @@ After arriving in Indonesia or Bali, follow these steps to quickly complete your
    Upon arrival at Bali Airport, follow instructions to disembark.
 2. **Apply/Pay for Visa on Arrival**  
    If you haven't applied for an electronic visa in advance, your first stop will be the Visa on Arrival (VoA) counter at the airport.  
-   ▶️ Visa on Arrival or e-Visa? Check out the [Complete Guide to Indonesia/Bali eVoA](/blog/2024-02-06-65c217c5fd897800010113af/)
+   ▶️ Visa on Arrival or e-Visa? Check out the [Complete Guide to Indonesia/Bali eVoA](/blog/bali-evisa-application-guide/)
 3. **Fill Out Online Health Declaration Form**  
    To prevent the spread of infectious diseases such as monkeypox and human interstitial pneumonia, travelers must complete the "Health Declaration (SSHP)."  
    ▶️ How to fill it out? See [SSHP Filling Instructions](/blog/2024-08-30-66d109f9fd89780001f47806/)
@@ -49,17 +49,17 @@ After arriving in Indonesia or Bali, follow these steps to quickly complete your
    At the immigration counter, you'll need to queue for passport and visa checks. Ensure your passport and visa documents are ready.
 5. **Electronic Immigration Service**  
    If you have an electronic visa, skip step 4 and proceed directly to the "Automatic Immigration Gate," available at Jakarta International Airport and Bali International Airport.  
-   ▶️ How to use automatic immigration? Check out [Bali Automatic Immigration Process Guide](/blog/2024-02-06-65c1defcfd89780001f79bfd/)
+   ▶️ How to use automatic immigration? Check out [Bali Automatic Immigration Process Guide](/blog/2025-bali-automatic-customs/)
 6. **Collect Luggage**  
    After completing immigration checks/automatic immigration, proceed to the baggage claim area to collect your luggage.
 7. **Customs Baggage Inspection**  
    The final step is passing through customs inspection. Fill out the electronic customs declaration (e-CD) in advance and present it to customs officers. Be sure to comply with regulations and avoid bringing prohibited items such as fruits, plants, or excess foreign currency.  
-   ▶️ Detailed customs declaration rules and filling instructions: [Electronic Customs Declaration Guide](/blog/2025-06-23-68594073fd897800012fa799/)
+   ▶️ Detailed customs declaration rules and filling instructions: [Electronic Customs Declaration Guide](/blog/bali-e-customs-declaration/)
 8. **Tourism Tax**  
    Starting February 14, 2024, international travelers entering Bali must pay a tourism tax in advance.  
-   ▶️ How to pay? See [Tourism Tax](/blog/2024-01-03-65955989fd89780001a95927/) guide
+   ▶️ How to pay? See [Tourism Tax](/blog/2026-bali-tourism-tax-guide/) guide
 
-> Further Reading: [What Documents Are Needed for Bali Entry?](/blog/2023-01-13-64db6b7dfd897800013a978a/)
+> Further Reading: [What Documents Are Needed for Bali Entry?](/blog/indonesia-bali-visa-evoa-faq/)
 
 **Start Enjoying Your Vacation!**  
 After clearing customs, congratulations on completing the entry process! Now head to the arrival hall to meet your pre-booked driver or family and friends, and begin your wonderful journey!

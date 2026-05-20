@@ -88,7 +88,7 @@ The Badung Regency government has confirmed that related plans are in the final 
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
 
-Sanur is a serene coastal town in Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's the ideal place to enjoy a slow-paced lifestyle and explore local culture. Whether you're strolling along the coastline or soaking up the local vibe, Sanur offers an incredibly relaxing vacation experience! Want to know more about Sanur? [Click here](/blog/2024-02-11-65bf2f75fd89780001dbf162/).
+Sanur is a serene coastal town in Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's the ideal place to enjoy a slow-paced lifestyle and explore local culture. Whether you're strolling along the coastline or soaking up the local vibe, Sanur offers an incredibly relaxing vacation experience! Want to know more about Sanur? [Click here](/blog/sanur-guide/).
 
 ---
 

@@ -29,7 +29,7 @@ _srcHash: 377733807e4fdc7d64cda5941b4c35bf
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a26a7527e1e934bfe40d5158bf8470d7.png)
 
-> 延伸閱讀：[2025/08印尼峇里島入境使用「All Indonesia」申報系統｜1分鐘搞懂最新流程：落機→過海關→拎行李全攻略](/blog/2025-08-14-689dcce7fd8978000125fc52/)
+> 延伸閱讀：[2025/08印尼峇里島入境使用「All Indonesia」申報系統｜1分鐘搞懂最新流程：落機→過海關→拎行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 
 ## 包車司機：
 
@@ -39,7 +39,7 @@ _srcHash: 377733807e4fdc7d64cda5941b4c35bf
 
 仲有一次，我哋埋單嗰日，司機話因為係假期，要額外加收 Rp5 萬。搞到我哋好困惑，因為出發前我特登確認咗兩次價錢，司機都話唔會有變動。咁樣臨時加價嘅行為令我哋好唔滿意。所以，大家預訂包車服務嗰陣，一定要仔細核對價錢同條款，避免遇到類似情況。
 
-> 延伸閱讀：[【峇里島包車司機推薦名人榜】峇里島司機網友評鑑大全：睇網友真實點評搵到適合你嘅好司機](/blog/2024-07-07-668aaea7fd89780001981840/)
+> 延伸閱讀：[【峇里島包車司機推薦名人榜】峇里島司機網友評鑑大全：睇網友真實點評搵到適合你嘅好司機](/blog/bali-private-car-drivers-guide/)
 
 ## 景點同餐廳：
 
@@ -49,11 +49,11 @@ _srcHash: 377733807e4fdc7d64cda5941b4c35bf
 
 Li Wallis 提供
 
-海神廟（Tanah Lot）係一個非常靚同值得一訪嘅景點。廟宇起喺海邊嘅岩石上，漲潮時會被海水圍住，形成獨特嘅景觀。呢度嘅日落尤其壯觀，建議傍晚前嚟，可以睇到壯麗嘅海上日落景色。快速參考：[峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/blog/2024-10-28-671f86f1fd89780001de9fae/)
+海神廟（Tanah Lot）係一個非常靚同值得一訪嘅景點。廟宇起喺海邊嘅岩石上，漲潮時會被海水圍住，形成獨特嘅景觀。呢度嘅日落尤其壯觀，建議傍晚前嚟，可以睇到壯麗嘅海上日落景色。快速參考：[峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/blog/bali-tanah-lot-guide/)
 
 🛕🌊🌅海神廟，峇里島必訪嘅日落聖地，欣賞壯麗嘅海景同宗教氛圍 ▶[Klook優惠](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
 
-> 延伸閱讀：[峇里島坎古完美探險地圖：100個坎古必遊景點](/blog/2023-02-11-64db6b7efd897800013a9815/)
+> 延伸閱讀：[峇里島坎古完美探險地圖：100個坎古必遊景點](/blog/canggu-guide/)
 
 ### 烏魯瓦圖廟：
 
@@ -61,7 +61,7 @@ Li Wallis 提供
 
 Li Wallis 提供
 
-烏魯瓦圖廟（Uluwatu Temple）同樣靚，起喺峭壁上，俯瞰印度洋，風景非常壯觀。不過，呢度嘅猴子好狡猾，會搶走你嘅眼鏡、帽同手機，所以要格外小心保管自己嘅物品。快速參考：[峇里島烏魯瓦圖廟/情人崖旅遊指南：必看亮點與實用建議](/blog/2025-01-18-678b1d81fd89780001f7fe4d/)
+烏魯瓦圖廟（Uluwatu Temple）同樣靚，起喺峭壁上，俯瞰印度洋，風景非常壯觀。不過，呢度嘅猴子好狡猾，會搶走你嘅眼鏡、帽同手機，所以要格外小心保管自己嘅物品。快速參考：[峇里島烏魯瓦圖廟/情人崖旅遊指南：必看亮點與實用建議](/blog/uluwatu-temple-travel-guide/)
 
 🛕🌊🌅 烏魯瓦圖廟，懸崖上面嘅壯麗景點，仲可以欣賞傳統嘅火舞表演 ▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50231639-uluwatu%2F1-things-to-do%2F)
 
@@ -71,13 +71,13 @@ Li Wallis 提供
 
 Li Wallis 提供
 
-斷崖公路（Broken Beach）都係一個唔可以錯過嘅景點。建議早啲出發，我哋11點前到嘅時候，人仲唔多，可以影到好多靚相。之後，隨住人流增加，影相就變得困難。影完斷崖公路之後，唔好急住走，繼續行前會去到一個靚沙灘。快速參考：[峇里島 Batu Barak/Tanah Barak：藍色公路/斷崖公路嘅絕美之旅](/blog/2025-03-06-67c9a234fd897800014b5a11/)
+斷崖公路（Broken Beach）都係一個唔可以錯過嘅景點。建議早啲出發，我哋11點前到嘅時候，人仲唔多，可以影到好多靚相。之後，隨住人流增加，影相就變得困難。影完斷崖公路之後，唔好急住走，繼續行前會去到一個靚沙灘。快速參考：[峇里島 Batu Barak/Tanah Barak：藍色公路/斷崖公路嘅絕美之旅](/blog/batu-barak-cliff-road/)
 
 🏖️🪨🌊探索藍色公路懸崖之美，劈開嘅壯麗景觀，隨手一影就係 Instagram 打卡勝地！▶[Klook優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F114124-tanah-barak-cliff-garuda-wisnu-kencana-malini-sunset-tour-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8aad5d46e9)
 
 附近有間叫Pawdwa Seaview嘅海景餐廳，我哋叫咗意大利粉、沙律、飯同魷魚圈總共四樣嘢，再加兩杯嘢飲，總共使咗Rp40幾萬。坐喺海景前面食嘢，感覺好悠閒愜意😌。
 
-> 延伸閱讀：[【烏魯瓦圖攻略】烏魯瓦圖景點 50個吃喝玩樂推薦](/blog/2024-03-07-65dfd410fd897800019f4b40/)
+> 延伸閱讀：[【烏魯瓦圖攻略】烏魯瓦圖景點 50個吃喝玩樂推薦](/blog/uluwatu-guide/)
 
 ### 聖泉寺：
 
@@ -85,11 +85,11 @@ Li Wallis 提供
 
 Li Wallis 提供
 
-聖泉寺（Tirta Empul）係一個值得一去嘅地方。如果你打算落水淨身，記得帶替換衫。另外，呢度附近有靚梯田，我哋喺梯田旁邊嘅咖啡館叫咗兩杯嘢飲，坐低睇風景，感覺好寫意。延伸閱讀：[【2025】Tirta Empul 聖泉寺完整指南：峇里島最神聖嘅淨化水廟體驗](/blog/2025-06-18-6852cdc2fd89780001e0b7ad/)
+聖泉寺（Tirta Empul）係一個值得一去嘅地方。如果你打算落水淨身，記得帶替換衫。另外，呢度附近有靚梯田，我哋喺梯田旁邊嘅咖啡館叫咗兩杯嘢飲，坐低睇風景，感覺好寫意。延伸閱讀：[【2025】Tirta Empul 聖泉寺完整指南：峇里島最神聖嘅淨化水廟體驗](/blog/tirta-empul-temple-guide/)
 
 🔱💦 烏布聖泉寺（Tirta Empul）係峇里島出名嘅聖水寺廟，以淨化儀式🙏 同神聖泉水💧聞名，可以為信徒同遊客帶來祝福同好運✨！▶[Klook優惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
-> 延伸閱讀：100[種深入認識烏布嘅方式｜探索烏布嘅魅力](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+> 延伸閱讀：100[種深入認識烏布嘅方式｜探索烏布嘅魅力](/blog/ubud-guide/)
 
 ### 金巴蘭：
 
@@ -99,7 +99,7 @@ Li Wallis 提供
 
 我哋冇揀喺金巴蘭海邊食海鮮，因為聽講嗰度嘅價錢好貴，有人食海鮮用咗超過Rp百萬。我哋去咗Waroeng Pan Yoga食飯，點咗一條大魚（其實係兩條魚，可能因為大魚缺貨😅）、炸魷魚圈、魷魚串同蜆，再加兩杯飲品，只係用咗Rp20幾萬。我哋食得好開心，質量都唔錯！不過，可能係金巴蘭嘅特色，海鮮都燒得有啲焦黑🤣。
 
-> 延伸閱讀：[金巴蘭自由行：推薦30個玩樂景點全攻略](/blog/2023-11-09-654b8438fd897800016bf4cc/)
+> 延伸閱讀：[金巴蘭自由行：推薦30個玩樂景點全攻略](/blog/jimbaran-guide/)
 
 ## 紀念品：
 
@@ -109,7 +109,7 @@ Li Wallis 提供
 
 烏布市集嘅紀念品幾乎都係一模一樣，冇咩特別吸引我哋買嘅嘢，相反，我哋喺行超市時更加開心，雖然價錢稍微貴啲。意外發現咗Bali Galeria Mall，非常好行！呢度有超市、紀念品店同餐廳，應有盡有。本來我哋想搵郵局寄明信片，但郵局已經閂咗🥲。所以，想去郵局嘅朋友記得要早啲去。最後，我哋喺機場買咗郵票並搵到郵筒。
 
-> 延伸閱讀：[【網友推薦】六大種類，超過20項峇里島伴手禮推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+> 延伸閱讀：[【網友推薦】六大種類，超過20項峇里島伴手禮推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/bali-souvenirs-gift-guide/)
 
 ## 其他心得
 
@@ -119,7 +119,7 @@ Li Wallis 提供
 
 ## 呢度仲有：
 
-[峇里島避雷攻略：18個常見錯誤同建議](/blog/2024-10-20-6714c06cfd8978000116322a/)
+[峇里島避雷攻略：18個常見錯誤同建議](/blog/bali-travel-mistakes-tips/)
 
 你覺得Li Wallis佢哋嘅行程好精彩咩？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去社團投稿你嘅行程㗎！
 
@@ -127,4 +127,4 @@ Li Wallis 提供
 
 撳呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但係唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但係唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！

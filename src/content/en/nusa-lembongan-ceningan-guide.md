@@ -42,8 +42,8 @@ When visiting Nusa Lembongan, you'll experience a completely different, more rel
 
 **This is the first part of our Nusa Lembongan/Nusa Ceningan travel guide. Want to know the recommended restaurants and accommodations on Nusa Lembongan and Nusa Ceningan? Check out our guide:**
 
-- [【Nusa Lembongan Guide Part 2】Food Recommendations](/blog/2024-10-26-671a506ffd8978000182fb4f/)
-- [【Nusa Lembongan Guide Part 3】Best Accommodations](/blog/2024-10-30-67205cb1fd89780001ee1413/)
+- [【Nusa Lembongan Guide Part 2】Food Recommendations](/blog/nusa-lembongan-restaurants/)
+- [【Nusa Lembongan Guide Part 3】Best Accommodations](/blog/nusa-lembongan-ceningan-accommodation-guide/)
 
 ![藍夢島/金銀島六大住宿區域](https://images.gobaligo.id/vocus/vocus_98e5ac2df0cf847a9ace93ee013d74e4.jpg)
 
@@ -141,7 +141,7 @@ In addition to diving and snorkeling, Nusa Lembongan offers a variety of water a
 
 If time permits, consider planning a trip to Nusa Penida. This larger island boasts spectacular natural landscapes, such as the famous Kelingking Beach, renowned for its majestic dinosaur-head-shaped cliffs. Additionally, Broken Beach and Angel's Billabong are also worth visiting. The beauty of these spots will leave you captivated, making them a paradise for photography enthusiasts.
 
-For a detailed guide, please refer to our most comprehensive "[Nusa Penida Travel Guide](/blog/2023-08-16-64db6b82fd897800013a9942/)"
+For a detailed guide, please refer to our most comprehensive "[Nusa Penida Travel Guide](/blog/nusa-penida-guide/)"
 
 ## Island Cuisine and Nightlife
 
@@ -151,7 +151,7 @@ Nusa Lembongan's restaurants and beach clubs offer a diverse range of culinary o
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4658ef6acc04406ea26445d61ca062df.jpg)
 
-Here are 30 recommended restaurants, bars, and beach clubs in Nusa Lembongan and Nusa Ceningan: [【Nusa Lembongan Guide Part 2】Restaurants & Food](/blog/2024-10-26-671a506ffd8978000182fb4f/)
+Here are 30 recommended restaurants, bars, and beach clubs in Nusa Lembongan and Nusa Ceningan: [【Nusa Lembongan Guide Part 2】Restaurants & Food](/blog/nusa-lembongan-restaurants/)
 
 ## Transportation
 

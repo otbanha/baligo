@@ -22,7 +22,7 @@ _srcHash: dd2f425ce0e81b7ca65911cd34d62b5c
 
 ### 🗞️ Today's Highlights: Spiritual Gathering and Infrastructure Progress
 
-- **Bali Spirit Festival Grand Opening**: The globally renowned **Bali Spirit Film Festival and Yoga Festival** officially kicked off today in Ubud. This five-day event has attracted yoga practitioners, musicians, and healing experts from around the world, significantly increasing foot traffic in Ubud city center and surrounding areas (especially near The Yoga Barn), leading to heavier traffic congestion. (See [here](/blog/2026-01-16-696a37c5fd89780001f0790b/#bali-spirit-festival-%E5%B3%87%E9%87%8C%E5%B3%B6%E9%9D%88%E6%80%A7%E7%AF%80-%E5%AE%98%E7%B6%B2))
+- **Bali Spirit Festival Grand Opening**: The globally renowned **Bali Spirit Film Festival and Yoga Festival** officially kicked off today in Ubud. This five-day event has attracted yoga practitioners, musicians, and healing experts from around the world, significantly increasing foot traffic in Ubud city center and surrounding areas (especially near The Yoga Barn), leading to heavier traffic congestion. (See [here](/blog/2026-bali-festival-guide/#bali-spirit-festival-%E5%B3%87%E9%87%8C%E5%B3%B6%E9%9D%88%E6%80%A7%E7%AF%80-%E5%AE%98%E7%B6%B2))
 - **Subway Construction Progress**: New developments have been reported for the 2026 major project "**Bali Subway (LRT)**". The tunnel boring machine for the airport to Canggu section has entered a stable operational phase. Officials remind that, in respect of local culture, the subway is being constructed entirely 30 meters underground, which does not affect surface landscapes, but temporary traffic delays may occur due to fencing and construction vehicle movements around specific station sites.
 
 ### 🌤️ Weather Forecast
@@ -36,4 +36,4 @@ _srcHash: dd2f425ce0e81b7ca65911cd34d62b5c
 - **Volcanic Ash Cloud Alert Lifted**: The flight disruptions caused by the eruption of Mount Lewotobi have completely subsided. Today, Ngurah Rai International Airport (DPS) operations are **fully back to normal**, with flights to Australia and Singapore no longer affected by volcanic ash drift.
 - **Financial Capacity Spot Checks**: In line with the 2026 "High-Quality Tourism" policy, immigration authorities have reiterated that random "**financial capacity checks**" may be conducted on incoming tourists. Visitors are advised to prepare copies of their bank statements from the last three months or mobile banking screenshots, proving sufficient funds (recommended around $2,000 per person) to cover expenses during their stay on the island.
 
-> [Entry Bali Deposit Proof/Financial Proof Strictly Enforced from March 2026 & FAQs](/blog/2026-02-27-69a10819fd897800019c4849/)
+> [Entry Bali Deposit Proof/Financial Proof Strictly Enforced from March 2026 & FAQs](/blog/bali-entry-financial-proof-2026/)

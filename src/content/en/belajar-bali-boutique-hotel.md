@@ -97,7 +97,7 @@ In summary, Belajar Bali Boutique Hotel & Retreat is a small, elegant boutique h
 
 ***
 
-[Included in Canggu's Top 16 Must-Visit Accommodations, click here to see more](/blog/2023-10-03-651b8da8fd89780001974847/)
+[Included in Canggu's Top 16 Must-Visit Accommodations, click here to see more](/blog/canggu-top-hotels-guide/)
 
 {{block:canggu}}
 

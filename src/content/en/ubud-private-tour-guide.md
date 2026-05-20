@@ -100,4 +100,4 @@ The tour is a private car charter, allowing for adjustments to the pace based on
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-Ubud is the cultural and artistic heart of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and rich traditional culture. It's an ideal place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in various exciting outdoor activities and unique food+scenery experiences, Ubud offers unforgettable moments! Want to learn more about Ubud travel tips? [Click here](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+Ubud is the cultural and artistic heart of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and rich traditional culture. It's an ideal place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or engaging in various exciting outdoor activities and unique food+scenery experiences, Ubud offers unforgettable moments! Want to learn more about Ubud travel tips? [Click here](/blog/ubud-guide/)

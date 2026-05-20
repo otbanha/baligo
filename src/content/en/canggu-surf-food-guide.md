@@ -56,7 +56,7 @@ Screenshot from Xiao Jie's video
 
 After several years of evolution, the lively area along the coast gradually extended northward. Located north of Kuta/Legian, Seminyak, sometimes called "Shui Mingyang" or "Semiyak" in Chinese, was originally a small village independent of the Kuta area. Due to its cheap land prices, proximity to Kuta, and beautiful beaches, it began to attract expatriates living in Bali, leading to the construction of luxurious villas one after another. This brought in exquisite dining, boutique shops, spas, and various brand-name clothing stores to the area. Today, Seminyak can be said to represent Bali's fashion and trends. From Kuta, Legian to Seminyak, it forms the most essential stretch for shopping in Bali.
 
-> Further reading: [Seminyak Attractions: A Comprehensive Guide to 60 Must-Visit Spots in Bali](/blog/2023-08-15-64db7fc2fd897800013d367c/)
+> Further reading: [Seminyak Attractions: A Comprehensive Guide to 60 Must-Visit Spots in Bali](/blog/seminyak-guide/)
 
 Continuing north, about a 15-minute drive from Seminyak, we arrive at Canggu. The name sounds like "Changgu" in Indonesian, but it actually has nothing to do with "a long valley"!
 
@@ -114,10 +114,10 @@ Ready to embark on a Canggu adventure? Below is a link to an exciting map of Can
 
 ## Further Reading
 
-[The Ultimate Canggu Adventure Map: 100 Must-Visit Spots in Canggu｜2026 Guide](/blog/2023-02-11-64db6b7efd897800013a9815/)
+[The Ultimate Canggu Adventure Map: 100 Must-Visit Spots in Canggu｜2026 Guide](/blog/canggu-guide/)
 
-[Bali Accommodation Recommendations: Top 13 Canggu Stays You Can't Miss](/blog/2023-10-03-651b8da8fd89780001974847/)
+[Bali Accommodation Recommendations: Top 13 Canggu Stays You Can't Miss](/blog/canggu-top-hotels-guide/)
 
-[16 Private Pool Villas in Canggu: Bali Villas You Can't Miss](/blog/2024-08-07-66b20b15fd89780001ceef6b/)
+[16 Private Pool Villas in Canggu: Bali Villas You Can't Miss](/blog/canggu-villas-guide/)
 
 {{block:攻略}}

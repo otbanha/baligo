@@ -66,7 +66,7 @@ Sanur's busiest main road is now smoother and cleaner, with stricter enforcement
 
 Now, **hopping between cafes and taking walks** in this area is much more comfortable, without worrying about twisting your ankle.
 
-**Quick Reference:** [Top 6 Beachfront Cafes in Sanur](/blog/2025-06-15-684e466efd8978000159a13b/)
+**Quick Reference:** [Top 6 Beachfront Cafes in Sanur](/blog/sanur-beach-cafes-guide/)
 
 ### ✅ New Multi-Level Hydraulic Elevator Parking
 
@@ -80,7 +80,7 @@ https://www.instagram.com/reel/DM-DKa6TUir/?utm_source=ig_web_copy_link&igsh=NTc
 
 Provides a more eco-friendly public transportation option and greater convenience for travelers.
 
-**Quick Reference:** [New Tourist Shuttle Buses Launched in Sanur, Bali](/blog/2025-08-07-68930961fd897800011411ce/)
+**Quick Reference:** [New Tourist Shuttle Buses Launched in Sanur, Bali](/blog/sanur-tourist-shuttle-launch/)
 
 ### ✅ Mertasari Pier Reopens (Trial)
 
@@ -149,7 +149,7 @@ With the completion of infrastructure upgrades, the overall travel experience is
 ✔ Those who want a slow-paced getaway
 ✔ Travelers looking to combine wellness retreats or long stays
 
-**Quick reference:** [Bali Family Travel Top Choice: The Safest Beach for Water Play - Sanur](/blog/2025-06-25-685a4e9dfd897800015f493d/)
+**Quick reference:** [Bali Family Travel Top Choice: The Safest Beach for Water Play - Sanur](/blog/sanur-family-beach-guide/)
 
 ***
 

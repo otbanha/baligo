@@ -90,7 +90,7 @@ Visitors to Aloha Ubud Swing can choose from different package deals, including:
 
 Aloha Ubud Swing is an unforgettable tourist attraction in Bali, suitable for visitors of all ages. Here, you can challenge yourself on swings of various heights, enjoying thrilling moments while capturing countless beautiful memories. The rich facilities and convenient transportation services make this place a must-visit on your travel list.
 
-> Further Reading: [Complete Ubud Bali Guide: 100 Ways to Deeply Explore Ubud's Charm](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+> Further Reading: [Complete Ubud Bali Guide: 100 Ways to Deeply Explore Ubud's Charm](/blog/ubud-guide/)
 
 ## **Frequently Asked Questions**
 

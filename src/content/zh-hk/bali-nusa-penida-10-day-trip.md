@@ -35,11 +35,11 @@ _srcHash: 2fcea4475379fa7f2a06d7294c35dc32
 
 我哋今次去嘅時候，正係峇里島嘅旅遊乾季，天氣舒服，冇台灣咁濕熱，正係旅遊旺季嘅高峰期。呢個時候去，雖然唔係最多人嘅時候，但旅遊質素相對較好，唔會覺得人逼人。不過，我哋都遇到咗幾日落雨，錯過咗幾次睇日落同日出嘅機會。呢啲小遺憾都成為我哋下次再去嘅理由之一。
 
-> 延伸閱讀：[旅遊峇里島碰到落雨天點算？峇里島落雨天嘅60個備案攻略](/blog/2024-01-06-6598c6fffd89780001047d76/)
+> 延伸閱讀：[旅遊峇里島碰到落雨天點算？峇里島落雨天嘅60個備案攻略](/blog/2026-bali-indoor-activities/)
 
 原作者提供：
 
-> 延伸閱讀：[峇里島烏布附近嘅三大知名瀑布攻略：Tegenungan瀑布、Kanto Lampo瀑布同Tukad Cepung瀑布](/blog/2023-07-19-64db6b82fd897800013a995f/)
+> 延伸閱讀：[峇里島烏布附近嘅三大知名瀑布攻略：Tegenungan瀑布、Kanto Lampo瀑布同Tukad Cepung瀑布](/blog/ubud-waterfalls-guide/)
 
 ## 雖然感冒，但都唔忘細心規劃
 
@@ -51,23 +51,23 @@ _srcHash: 2fcea4475379fa7f2a06d7294c35dc32
 
 左：AMARTA Penida 中：Angel's Billabong 右：Broken beach with sea view
 
-> AMARTA Penida嘅介紹 [美食同碧海藍天：Nusa Penida嘅Top 10絕佳選擇](/blog/2023-10-22-65348754fd89780001b2a259/)
+> AMARTA Penida嘅介紹 [美食同碧海藍天：Nusa Penida嘅Top 10絕佳選擇](/blog/nusa-penida-best-restaurants/)
 
 我哋嘅行程中仲包括咗跳島行程到Nusa Penida。雖然Ketut唔能夠親自接送，但佢嘅團隊仍然同當地嘅司機保持密切合作，呢三日嘅跳島行程中，佢哋一再幫我哋確認景點路線同時間安排，真係非常貼心！
 
-> 延伸閱讀：[佩尼達島嘅住宿推薦: 13間從奢華到平價嘅 Nusa Penida 好評住宿](/blog/2024-02-12-65c8e2dffd89780001346aa9/)
+> 延伸閱讀：[佩尼達島嘅住宿推薦: 13間從奢華到平價嘅 Nusa Penida 好評住宿](/blog/nusa-penida-hotels-guide/)
 
 ![左：Kelingking Beach→ the origin of iPhone's wallpaper! 中：Tree House Bungalow 右：Diamond beach](https://images.gobaligo.id/vocus/vocus_54c623fcb2a8e1d4cc86bf0e3d31ded8.jpg)
 
 左：Kelingking Beach→ the origin of iPhone's wallpaper! 中：Tree House Bungalow 右：Diamond beach
 
-> 延伸閱讀：[【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/2023-08-16-64db6b82fd897800013a9942/)
+> 延伸閱讀：[【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)
 
 ## 海神廟嘅奇遇
 
 喺海神廟（Pura Tanah Lot）遊覽嗰陣，我哋遇到咗好多野生獼猴。Ketut 一邊分享獼猴嘅故事，一邊主動幫我哋趕走啲想偷嘢嘅猴子，佢哋會偷遊客身上嘅物品，例如帽、拖鞋、眼鏡等等。當 Ketut 講完啲猴子嘅故事嗰陣，突然有隻獼猴出現喺石頭路上，想偷一位白人遊客嘅拖鞋，好彩冇得逞。呢啲又無奈又驚嚇嘅獼猴趣事，為我哋嘅旅程增添咗唔少趣味。
 
-**快速參考：**[峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/blog/2024-10-28-671f86f1fd89780001de9fae/)
+**快速參考：**[峇里島旅遊必訪景點：海神廟（Tanah Lot）詳細介紹及潮汐、周邊景點指南](/blog/bali-tanah-lot-guide/)
 
 ## 
 
@@ -94,4 +94,4 @@ _srcHash: 2fcea4475379fa7f2a06d7294c35dc32
 
 撳呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但係唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但係唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！

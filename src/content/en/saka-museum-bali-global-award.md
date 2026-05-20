@@ -76,7 +76,7 @@ Beyond its exhibition halls, SAKA Museum features a theater, library, meeting sp
 
 **Quick Reference:**
 
-> [【Bali Ayana】Ayana Bali Accommodation Guide》](/blog/2023-10-26-653914f6fd89780001fef733/)
+> [【Bali Ayana】Ayana Bali Accommodation Guide》](/blog/ayana-resort-bali-guide/)
 
 ## **FAQ: Frequently Asked Questions**
 

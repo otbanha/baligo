@@ -29,8 +29,8 @@ This guide will provide detailed information on what to consider when bringing y
 
 ## Top 3 Recommended Areas for Summer/Winter Family Travel
 
-> Episode 1: [Seminyak](/blog/2025-02-15-67ac4321fd897800015b9a11/)
-> Episode 2: [Ubud](/blog/2025-02-16-67b0a910fd89780001798c4e/)
+> Episode 1: [Seminyak](/blog/seminyak-family-travel-2026/)
+> Episode 2: [Ubud](/blog/ubud-family-travel-2026/)
 > Episode 3: Sanur (this article)
 > [Episode 4: Nusa Dua](/blog/2026-04-02-112654/)
 
@@ -54,7 +54,7 @@ Located in the southeastern part of Bali, Sanur enjoys warm and comfortable weat
 
 - **Sun Protection and Mosquito Repellent**: The beach area in Sanur has strong sunlight, so it's recommended to reapply sunscreen regularly. Although Sanur has fewer mosquitoes, it's still advisable to prepare insect repellent.
 - **Drinking Water**: Avoid drinking tap water directly; it's better to purchase bottled water or use boiled water.
-- **Medical Preparation**: Bring common medications such as fever reducers, anti-diarrheal pills, motion sickness medicine, and band-aids. For reference: [What Essential Medications/Supplies Should You Bring for a Trip to Bali, Indonesia? How to Buy Insect Repellent/Sunscreen?](/blog/2024-03-22-65fcd4a5fd89780001513c9a/) Sanur city has Bali's largest and newest international hospital.
+- **Medical Preparation**: Bring common medications such as fever reducers, anti-diarrheal pills, motion sickness medicine, and band-aids. For reference: [What Essential Medications/Supplies Should You Bring for a Trip to Bali, Indonesia? How to Buy Insect Repellent/Sunscreen?](/blog/bali-travel-medicine-checklist/) Sanur city has Bali's largest and newest international hospital.
 
 ***
 
@@ -64,8 +64,8 @@ Sanur's transportation is relatively convenient. It's recommended to book reputa
 
 **Quick Reference:**
 
-- [Complete Guide to Bali Car Rentals for Independent Travel - Costs, Booking Methods, Advantages](/blog/2024-01-12-65a0a163fd8978000115f37a/)
-- [2025 Bali Attractions Recommendation Guide | Collecting 500 Latest Popular Bali Attractions at Once](/blog/2024-03-09-65df201efd89780001994d11/)
+- [Complete Guide to Bali Car Rentals for Independent Travel - Costs, Booking Methods, Advantages](/blog/bali-private-car-hire-guide/)
+- [2025 Bali Attractions Recommendation Guide | Collecting 500 Latest Popular Bali Attractions at Once](/blog/bali-top-500-attractions/)
 
 ***
 
@@ -116,7 +116,7 @@ https://youtu.be/SaYjta3JYVo?si=Nrb731tvcYa2SCI8
 
 The opening of AeroXSpace Indoor Adventure Park has brought new entertainment options for families and tourists in Bali. This 3,500-square-meter adventure center features 26 different attractions and activities, ensuring fun for visitors of all ages, rain or shine.
 
-Detailed information/discount tickets [here](/blog/2024-08-25-66cab3d1fd89780001669923/).
+Detailed information/discount tickets [here](/blog/aeroxspace-sanur-indoor-playground/).
 
 ### 5.Big Garden Corner
 
@@ -160,7 +160,7 @@ Entry fee: 35K IDR, approximately USD$2
 
 In Sanur, Bali, there are three turtle conservation centers, which are very meaningful places, especially for visiting with children. This is the home of baby turtles, where they are cared for and protected until adulthood. By visiting the turtle sanctuary, children can observe and learn about turtle life up close, as well as understand the importance of protecting marine life. This valuable educational experience will help inspire children's awareness of environmental protection and biodiversity, while also being an unforgettable family activity.
 
-Quick Reference: [🐢Complete Guide to Seeing Turtles in Bali: From Kuta to Sanur, Must-Visit Turtle Conservation Sites for Families 🌴](/blog/2025-10-23-68f9b567fd89780001795353/)
+Quick Reference: [🐢Complete Guide to Seeing Turtles in Bali: From Kuta to Sanur, Must-Visit Turtle Conservation Sites for Families 🌴](/blog/bali-turtle-watching-guide/)
 
 ### Bonus: Sanur Offshore Snorkeling Experience
 
@@ -282,7 +282,7 @@ For parents needing to leave the hotel, the hotel offers babysitting services at
 
 ## More Sanur Food, Drinks, and Fun
 
-Sanur is a serene coastal town in Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's the ideal place to enjoy a slow-paced lifestyle and explore local culture. Whether you're strolling along the coastline or soaking up the local vibe, Sanur offers an incredibly relaxing vacation experience! Want to know more about Sanur? [Click here](/blog/2024-02-11-65bf2f75fd89780001dbf162/).
+Sanur is a serene coastal town in Bali, renowned for its calm beaches, relaxed atmosphere, and stunning sunrise views. With family-friendly resorts, traditional markets, and a wealth of local cuisine, it's the ideal place to enjoy a slow-paced lifestyle and explore local culture. Whether you're strolling along the coastline or soaking up the local vibe, Sanur offers an incredibly relaxing vacation experience! Want to know more about Sanur? [Click here](/blog/sanur-guide/).
 
 ***
 
@@ -292,8 +292,8 @@ Sanur is a serene coastal town in Bali, renowned for its calm beaches, relaxed a
 
 ### Top 3 Recommended Areas for Summer/Winter Family Trips
 
-- [Episode 1: Seminyak](/blog/2025-02-15-67ac4321fd897800015b9a11/)
-- [Episode 2: Ubud](/blog/2025-02-16-67b0a910fd89780001798c4e/)
+- [Episode 1: Seminyak](/blog/seminyak-family-travel-2026/)
+- [Episode 2: Ubud](/blog/ubud-family-travel-2026/)
 - Episode 3: Sanur (this article)
 - [Episode 4: Nusa Dua](/blog/2026-04-02-112654/)
 
@@ -307,11 +307,11 @@ Sanur is a family-friendly destination with calm beaches, child-friendly hotels,
 
 **What other activities are suitable for children in Sanur?**
 
-We’ve compiled dozens of activities in Sanur that are perfect for kids, including snorkeling, visits to turtle conservation centers, and hands-on craft workshops. Click [here](/blog/2024-02-11-65bf2f75fd89780001dbf162/) for detailed information.
+We’ve compiled dozens of activities in Sanur that are perfect for kids, including snorkeling, visits to turtle conservation centers, and hands-on craft workshops. Click [here](/blog/sanur-guide/) for detailed information.
 
 **Do accommodations in Sanur have water slides?**
 
-Some family resorts offer water slide facilities, perfect for kids who love water play. We’ve selected a few family-friendly hotels with water slides—click [here](/blog/2024-01-16-65a51edbfd89780001ffc7b2/) to learn more.
+Some family resorts offer water slide facilities, perfect for kids who love water play. We’ve selected a few family-friendly hotels with water slides—click [here](/blog/bali-family-resorts-water-slides/) to learn more.
 
 **What's the weather like in Sanur? What should I pack?**
 
@@ -339,7 +339,7 @@ Sanur's streets and coastal walkways are relatively flat, making them suitable f
 
 **Must-Visit Attractions Around Sanur**
 
-From Sanur, you can reach two major islands off Bali's east coast with a 30-minute speedboat ride. Check out our [Nusa Penida Guide](/blog/2023-08-16-64db6b82fd897800013a9942/) / [Nusa Lembongan Guide](/blog/2024-10-23-66adfb9afd89780001f62df1/)
+From Sanur, you can reach two major islands off Bali's east coast with a 30-minute speedboat ride. Check out our [Nusa Penida Guide](/blog/nusa-penida-guide/) / [Nusa Lembongan Guide](/blog/nusa-lembongan-ceningan-guide/)
 
 {{block:攻略}}
 

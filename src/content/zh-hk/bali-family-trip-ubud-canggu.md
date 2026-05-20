@@ -30,7 +30,7 @@ _srcHash: 1d5e5782dfb46324e29facb5ea99e9fb
 
 由於我哋喺台灣提前買咗SIM卡，抵達峇里島後好快就聯絡到我哋今次嘅包車司機——Bali Holiday嘅Awan先生。
 
-> 延伸閱讀：[【峇里島旅遊必備】如何辦理峇里島網路/SIM卡?](/blog/2024-03-21-65f916bbfd89780001b916e0/)
+> 延伸閱讀：[【峇里島旅遊必備】如何辦理峇里島網路/SIM卡?](/blog/bali-sim-card-esim-roaming-guide/)
 
 佢非常親切，英文溝通完全冇問題，而且佢架車係一架辨識度超高嘅粉紅色車，無論去邊都好易認得出。上車後，我哋先請佢帶我哋去兌換外幣，跟住去烏布。途中，我哋先去咗一個好靚嘅瀑布（Tegenungan Waterfall），之後仲去咗超市買零食同飲用水。
 
@@ -38,7 +38,7 @@ _srcHash: 1d5e5782dfb46324e29facb5ea99e9fb
 
 Tegenungan Waterfall. （趙康康提供）
 
-> 延伸閱讀：[峇里島烏布附近嘅三大知名瀑布攻略：Tegenungan瀑布、Kanto Lampo瀑布同Tukad Cepung瀑布](/blog/2023-07-19-64db6b82fd897800013a995f/)
+> 延伸閱讀：[峇里島烏布附近嘅三大知名瀑布攻略：Tegenungan瀑布、Kanto Lampo瀑布同Tukad Cepung瀑布](/blog/ubud-waterfalls-guide/)
 
 > 延伸閱讀：[【印尼/峇里島旅遊】超市/便利店買咩好？｜有咩嘢係你到超市一定要買嘅？](https://youtu.be/UoGlRyAdyB8)
 
@@ -46,7 +46,7 @@ Tegenungan Waterfall. （趙康康提供）
 
 [**▶Ubud Paradise 空房 & 房價查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920688)
 
-**（**評價好高嘅優質villa！已經收錄喺[16間令人驚艷嘅峇里島villa推薦](/blog/2024-04-24-6628f08cfd8978000190a575/)**）**
+**（**評價好高嘅優質villa！已經收錄喺[16間令人驚艷嘅峇里島villa推薦](/blog/ubud-villa-pool-guide/)**）**
 
 ## **Day 2：漂漂河與烏布探險**
 
@@ -54,7 +54,7 @@ Tegenungan Waterfall. （趙康康提供）
 
 https://youtu.be/ZEkv46_-_mM
 
-**快速參考：**[峇里島洞穴漂流河探險記：Nukuwera River Tubing嘅親子冒險之旅](/blog/2025-06-09-68463dcbfd897800011c6f06/)
+**快速參考：**[峇里島洞穴漂流河探險記：Nukuwera River Tubing嘅親子冒險之旅](/blog/nukuwera-river-tubing-adventure/)
 
 ![叢林鞦韆。（趙康康提供）](https://images.gobaligo.id/vocus/vocus_86291fefaa0646e19596de72aa7330bd.jpg)
 
@@ -78,7 +78,7 @@ Safari Zoo. （趙康康提供）
 
 中午嘅時候，我哋偶然睇到一場老虎騷，令我大開眼界。呢次係我第一次咁近距離睇老虎，而且佢哋唔係喺玻璃籠入面，仲同現場工作人員有互動，呢個場面真係值得一睇！
 
-> 編按：Bali Safari動物園提供冒險野生遊覽車，帶你穿越動物嘅家園，令你感受仿如置身野外嘅刺激同震撼。除咗動物觀賞，園區仲舉辦豐富嘅動物表演，為你帶嚟一場歡樂同自然嘅交融之旅。請睇[呢度我哋有詳細介紹](/blog/2023-07-25-64db6b8cfd897800013a9ab1/)。如果你想要更高性價比，可以考慮 [住喺動物園入面](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155)
+> 編按：Bali Safari動物園提供冒險野生遊覽車，帶你穿越動物嘅家園，令你感受仿如置身野外嘅刺激同震撼。除咗動物觀賞，園區仲舉辦豐富嘅動物表演，為你帶嚟一場歡樂同自然嘅交融之旅。請睇[呢度我哋有詳細介紹](/blog/bali-safari-night-stay/)。如果你想要更高性價比，可以考慮 [住喺動物園入面](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155)
 
 夜晚，我哋請Awan帶我哋去當地嘅夜市體驗。喺夜市入面，我哋先兜咗個圈，請佢幫手介紹各種食物，之後再由佢幫我哋同舖頭落單（因為有啲舖頭唔識講英文）。我哋食咗烤豬飯、雞肉丸子麵、雞肉沙嗲、豬肉沙嗲等美食，仲買咗一堆當地嘅甜品返去住處享用，呢一切開支竟然唔超過USD$10，真係好抵玩又充滿趣味嘅體驗！
 
@@ -142,7 +142,7 @@ Atlas（趙康康提供）
 
 另外，有兩日我請佢幫手安排按摩師傅到Villa，佢都好盡力咁幫我哋協調時間。總體嚟講，Awan係一位非常棒嘅包車司機，雖然唔係大型公司，但佢嘅人情味令我哋倍感溫暖，我嘅家人亦同佢相處得非常愉快！下次如果有機會再嚟峇里島，我一定會再選擇呢位司機，亦都非常推薦俾正在搵包車司機嘅朋友們！
 
-Awan嘅聯絡方式收錄喺[峇里島包車司機名人榜](/blog/2024-07-07-668aaea7fd89780001981840/)]
+Awan嘅聯絡方式收錄喺[峇里島包車司機名人榜](/blog/bali-private-car-drivers-guide/)]
 
 你覺得趙康康佢哋嘅行程好精彩咩？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去社團投稿你嘅行程㗎！
 
@@ -150,6 +150,6 @@ Awan嘅聯絡方式收錄喺[峇里島包車司機名人榜](/blog/2024-07-07-66
 
 撳呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但唔知點樣落手？可以參考吓「[如何寫一篇精彩嘅峇里島遊記](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，幫你嘅遊記更加出色！
+你都想寫遊記但唔知點樣落手？可以參考吓「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出色！
 
 {{block:攻略}}

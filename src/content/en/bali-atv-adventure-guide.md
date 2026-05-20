@@ -131,7 +131,7 @@ You can search for "[Bali ATV](https://affiliate.klook.com/redirect?aid=116349&a
 
 ## Nearby Attractions
 
-In Ubud, where adventure and beauty abound, there's more than just ATV activities. Explore a variety of attractions, activities, cuisine, and cultural experiences. Don't forget to check out our guide '[100 Ways to Deeply Experience Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/) | Discover the Charm of Ubud'.
+In Ubud, where adventure and beauty abound, there's more than just ATV activities. Explore a variety of attractions, activities, cuisine, and cultural experiences. Don't forget to check out our guide '[100 Ways to Deeply Experience Ubud](/blog/ubud-guide/) | Discover the Charm of Ubud'.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_283f7dd9f717aacdb10f6b48e6cc0969.jpg)
 

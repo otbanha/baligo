@@ -70,7 +70,7 @@ The judging panel will score based on kite design, flight stability, and creativ
 
 ### **Sanur's Modernization Shift**
 
-Sanur is undergoing a modernization transformation, with many new resorts and facilities being built, offering visitors more choices and convenience. Check out: [Sanur Guide Map｜45 Things to Eat, Drink, and Play, Plus SPA and Accommodation Recommendations!](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
+Sanur is undergoing a modernization transformation, with many new resorts and facilities being built, offering visitors more choices and convenience. Check out: [Sanur Guide Map｜45 Things to Eat, Drink, and Play, Plus SPA and Accommodation Recommendations!](/blog/sanur-guide/)
 
 ## **Seasonality of Kite Flying**
 
@@ -130,7 +130,7 @@ The best viewing times are in the morning and afternoon when the wind is most su
 
 ### **What are the accommodation options in Sanur?**
 
-Sanur offers a variety of accommodation options, from luxury resorts to budget hotels, allowing visitors to choose according to their budget and needs. You can refer to [Sanur Guide Map｜45 Recommendations for Food, Fun, and Accommodation, Including SPAs!](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
+Sanur offers a variety of accommodation options, from luxury resorts to budget hotels, allowing visitors to choose according to their budget and needs. You can refer to [Sanur Guide Map｜45 Recommendations for Food, Fun, and Accommodation, Including SPAs!](/blog/sanur-guide/)
 
 ### **Do I need to buy tickets to attend the Kite Festival?**
 

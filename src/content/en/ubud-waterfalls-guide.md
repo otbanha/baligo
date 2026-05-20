@@ -43,7 +43,7 @@ Tegenungan Waterfall offers a variety of activities to suit different preference
 
 Now, there are pool clubs on both sides of the waterfall where you can fully immerse yourself in the beauty of nature.
 
-▶[OMMA Dayclub Bali: Experience the Chill Vibes and Relaxing Moments Under the Sun](/blog/2023-11-27-65647143fd897800014b96f1/)
+▶[OMMA Dayclub Bali: Experience the Chill Vibes and Relaxing Moments Under the Sun](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
 ▶[D'tukad River Club](https://youtube.com/shorts/WdPWlqgn_jY)
 

@@ -42,7 +42,7 @@ The entry process for Bali can actually be prepared before departure. There are 
 
 - This step can be completed before departure: [Customs Declaration Portal](https://ecd.beacukai.go.id/)
 
-With these preparations in advance, the entry process in Bali will become smoother, saving time on filling out forms and queuing on the spot. If you're still unclear about the process, you can refer to the detailed explanation here. Now, the first and third steps have been merged: "[2026 Edition] Using the 'All Indonesia' Arrival Card for Bali Entry | Understand the Latest Process in 1 Minute: From Landing → Customs → Baggage Claim Complete Guide" (/blog/2025-08-14-689dcce7fd8978000125fc52/)
+With these preparations in advance, the entry process in Bali will become smoother, saving time on filling out forms and queuing on the spot. If you're still unclear about the process, you can refer to the detailed explanation here. Now, the first and third steps have been merged: "[2026 Edition] Using the 'All Indonesia' Arrival Card for Bali Entry | Understand the Latest Process in 1 Minute: From Landing → Customs → Baggage Claim Complete Guide" (/blog/bali-all-indonesia-arrival-guide/)
 
 ## [Suggestions for Communication on Car Rental and Itinerary Arrangement]
 
@@ -66,7 +66,7 @@ The arrangement process for this car rental service was primarily conducted in E
 
 Through such preparation and communication methods, car rental travel will be smoother and better aligned with travel needs, bringing a satisfying Bali experience.
 
-> Editor's Note: For planning before the trip, you can refer to this article "Bali Free Travel Planning Guide: 5 Steps to Easily Get It Done" (/blog/2023-12-06-65708c78fd89780001f418c2/)
+> Editor's Note: For planning before the trip, you can refer to this article "Bali Free Travel Planning Guide: 5 Steps to Easily Get It Done" (/blog/2026-bali-trip-planning-guide/)
 
 ## [Itinerary Arrangement]
 
@@ -106,7 +106,7 @@ This trip focuses on Bali's lush landscapes and local culture, with most of our 
 1. - **Tirta Empul Temple**: Watch local devotees bathe in the sacred springs and experience Balinese religious culture.
    - **Penglipuran Village**: A traditional Balinese village with orderly houses and stone-paved roads full of cultural charm.
 
-> Editor's Note: All these Ubud attractions are included in "[Complete Guide to Ubud, Bali: 100 Ways to Deeply Explore Ubud](/blog/2023-11-17-655054b1fd897800011d4d2c/)"
+> Editor's Note: All these Ubud attractions are included in "[Complete Guide to Ubud, Bali: 100 Ways to Deeply Explore Ubud](/blog/ubud-guide/)"
 
 1. - **Uluwatu Temple**: Perched on a cliff top, this temple offers a perfect spot for breathtaking ocean views and sunsets.
 
@@ -120,7 +120,7 @@ This trip focuses on Bali's lush landscapes and local culture, with most of our 
 
 1. - **Melasti Beach**: With its fine white sand and clear waters, it's an ideal place to enjoy the sun and relax.
 
-> Editor's Note: All these Uluwatu attractions are included in "[50 Recommended Things to Do in Uluwatu](/blog/2024-03-07-65dfd410fd897800019f4b40/)"
+> Editor's Note: All these Uluwatu attractions are included in "[50 Recommended Things to Do in Uluwatu](/blog/uluwatu-guide/)"
 
 1. - **Krisna Souvenir Center** (Krisna Oleh Oleh Bali Bypass): A well-known gift shop in Bali, perfect for picking up souvenirs.
 
@@ -136,7 +136,7 @@ This trip focuses on Bali's lush landscapes and local culture, with most of our 
 
 (Provided by Claire Chen)
 
-> Quick Reference: [Bali Adventure: Full Record of the Mount Batur Jeep Sunrise Tour](/blog/2025-04-17-68011484fd897800010d1643/)
+> Quick Reference: [Bali Adventure: Full Record of the Mount Batur Jeep Sunrise Tour](/blog/batur-volcano-jeep-sunrise-tour/)
 
 1. - **Nusa Penida Island Hopping Day Tour**: Arrange for a professional local driver to guide you as you explore this enchanting island. While the drivers primarily speak English, basic communication is manageable. For any questions, you can contact Ani, a Chinese-speaking guide in Bali, for assistance. The drivers on Nusa Penida are also skilled photographers, helping you capture ideal travel photos.
 
@@ -164,7 +164,7 @@ This trip focuses on Bali's lush landscapes and local culture, with most of our 
 
 （Claire Chen提供）
 
-> Editor's Note: All the Nusa Penida attractions mentioned above are included in the "[Complete Guide to Nusa Penida: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/2023-08-16-64db6b82fd897800013a9942/)"
+> Editor's Note: All the Nusa Penida attractions mentioned above are included in the "[Complete Guide to Nusa Penida: Maps, Ferries, Accommodation, Transportation, Private Cars, Activities, Photography, Attractions](/blog/nusa-penida-guide/)"
 
 This journey encapsulates the essence of nature, beauty, and culture, catering to various needs whether it's relaxation, photography, or experiencing local life.
 
@@ -191,7 +191,7 @@ This is my first time writing a recommendation, especially for friends traveling
 
 ## 【Journey Conclusion】
 
-Finally, I highly recommend the professional private car team and guide we found through the Facebook group "[Go Bali Go Bali Travel](https://www.facebook.com/groups/baligo/)" in the "[Recommended Private Car Drivers in Bali](/blog/2024-07-07-668aaea7fd89780001981840/)", which made our first trip to Bali incredibly comfortable and worry-free.
+Finally, I highly recommend the professional private car team and guide we found through the Facebook group "[Go Bali Go Bali Travel](https://www.facebook.com/groups/baligo/)" in the "[Recommended Private Car Drivers in Bali](/blog/bali-private-car-drivers-guide/)", which made our first trip to Bali incredibly comfortable and worry-free.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ca5bc103366f23a58f5eecec8e29d73c.jpg)
 
@@ -199,9 +199,9 @@ The seven-day, six-night itinerary allowed me to explore Bali with my family, wo
 
 ## **Guide to Traveling to Bali with Seniors:**
 
-- Part 1: [Bali Travel Guide for Seniors - Safety, Comfort, and Precautions](/blog/2023-11-29-655a0f5bfd89780001a49e07/)
-- Part 2: [Comprehensive Guide to Bali Destinations for Seniors](/blog/2024-11-27-6746742bfd897800018d4906/)
-- Part 3: [How Quirky Can Elderly Behavior Be? Beware of 'Ungrateful Efforts' When Traveling Abroad](/blog/2025-01-01-6745a0c9fd89780001807cfa/)
+- Part 1: [Bali Travel Guide for Seniors - Safety, Comfort, and Precautions](/blog/bali-elderly-travel-guide/)
+- Part 2: [Comprehensive Guide to Bali Destinations for Seniors](/blog/bali-senior-friendly-travel-guide/)
+- Part 3: [How Quirky Can Elderly Behavior Be? Beware of 'Ungrateful Efforts' When Traveling Abroad](/blog/traveling-with-elderly-parents-tips/)
 
 Do you find Claire Chen's itinerary exciting? Hurry and plan your own Bali free-and-easy trip! We also welcome everyone to share your itineraries in our community!
 
@@ -209,4 +209,4 @@ Do you find Claire Chen's itinerary exciting? Hurry and plan your own Bali free-
 
 Click here to watch more amazing Bali travelogues
 
-Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)" to make your travelogue shine!
+Want to write a travelogue but don't know where to start? Check out "[How to Write an Amazing Bali Travelogue](/blog/how-to-write-bali-travelogue/)" to make your travelogue shine!

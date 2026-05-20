@@ -102,7 +102,7 @@ _srcHash: d8622862e4b184112296cb32eadc2252
 2. **峇里島其他日落景點比較**  
    雖然峇里島有好多令人驚嘆嘅日落景點，但烏魯瓦圖因為佢獨特嘅氛圍脫穎而出。同位於海邊岩石上嘅海神廟（Tanah Lot）唔同，烏魯瓦圖嘅懸崖位置為日落體驗增添咗額外嘅戲劇性。
 
-> 快速參考：[【掌握峇里島日落時間最佳觀賞指南】七大峇里島日落觀賞地點，你去過幾個？](/blog/2024-07-10-668e837dfd89780001357d06/)
+> 快速參考：[【掌握峇里島日落時間最佳觀賞指南】七大峇里島日落觀賞地點，你去過幾個？](/blog/bali-sunset-spots-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_83bd89800dff26aa55bcb32163b06b3b.jpg)
 
@@ -142,9 +142,9 @@ _srcHash: d8622862e4b184112296cb32eadc2252
 
 ![蘇魯班海灘的介紹請點擊這裡！](https://images.gobaligo.id/vocus/vocus_1f543921995ff41fd729e05772f35ee4.jpg)
 
-[蘇魯班海灘嘅介紹請點擊呢度！](/blog/2024-11-12-673207e9fd897800018987e7/)
+[蘇魯班海灘嘅介紹請點擊呢度！](/blog/suluban-beach-hidden-gem/)
 
-如果你已經嚟到峇里島南部，不妨順便參觀以下景點：**神鷹廣場（Garuda Wisnu Kencana, GWK）、蘇魯班海灘（Suluban Beach）、潘達瓦海灘（Pandawa Beach）、Oneeighty Dayclub等，呢啲地點嘅介紹請參考我哋嘅**[武吉半島冒險指南](/blog/2024-10-31-67061b07fd897800012f87b5/)
+如果你已經嚟到峇里島南部，不妨順便參觀以下景點：**神鷹廣場（Garuda Wisnu Kencana, GWK）、蘇魯班海灘（Suluban Beach）、潘達瓦海灘（Pandawa Beach）、Oneeighty Dayclub等，呢啲地點嘅介紹請參考我哋嘅**[武吉半島冒險指南](/blog/bukit-peninsula-guide/)
 
 ---
 
@@ -196,8 +196,8 @@ _srcHash: d8622862e4b184112296cb32eadc2252
 
 **8. 點樣安排峇里島烏魯瓦圖寺嘅行程？**
 
-呢頭附近過百個景點，**我哋都收錄咗喺我哋嘅**[武吉半島冒險指南](/blog/2024-10-31-67061b07fd897800012f87b5/)
+呢頭附近過百個景點，**我哋都收錄咗喺我哋嘅**[武吉半島冒險指南](/blog/bukit-peninsula-guide/)
 
 ![武吉半島攻略指南請點我](https://images.gobaligo.id/vocus/vocus_c0550a000561d9e7a5ab19d076dfcba5.jpg)
 
-[武吉半島攻略指南請撳呢度](/blog/2024-10-31-67061b07fd897800012f87b5/)
+[武吉半島攻略指南請撳呢度](/blog/bukit-peninsula-guide/)

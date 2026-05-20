@@ -38,7 +38,7 @@ _srcHash: f2185d3a96839845c79cfbc28eb1e1d4
 
 https://youtu.be/H-IocbLNpE4
 
-> 不想排队两三个小时？可以考虑这里 [巴厘岛景点推荐：Lahangan Sweet ─ 绝美的阿贡山观景点 🌄](/blog/2024-11-17-6739669dfd89780001afcd67/)
+> 不想排队两三个小时？可以考虑这里 [巴厘岛景点推荐：Lahangan Sweet ─ 绝美的阿贡山观景点 🌄](/blog/lahangan-sweet-volcano-view/)
 
 ## 恒河圣泉花园
 
@@ -62,7 +62,7 @@ https://youtu.be/zePMt3KSwTo
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1b788d4b2052c6e67e9c475e88df1921.jpg)
 
-别忘了顺便造访东部的艾眉和图兰奔哦！攻略在[这儿](/blog/2025-06-23-68578b01fd89780001dd5208/)
+别忘了顺便造访东部的艾眉和图兰奔哦！攻略在[这儿](/blog/amed-tulamben-diving-guide/)
 
 {{block:ubud}}
 

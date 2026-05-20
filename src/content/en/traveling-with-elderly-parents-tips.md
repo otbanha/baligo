@@ -102,8 +102,8 @@ These "painful experiences" may seem minor, but when accumulated during a trip, 
 
 **"Traveling to Bali with Elders" Quick Reference:**
 
-- Part 1: [Bali Travel Guide for Seniors - Safety, Comfort, and Precautions](/blog/2023-11-29-655a0f5bfd89780001a49e07/)
-- Part 2: [Complete Guide to Bali Travel Destinations for Seniors](/blog/2024-11-27-6746742bfd897800018d4906/)
+- Part 1: [Bali Travel Guide for Seniors - Safety, Comfort, and Precautions](/blog/bali-elderly-travel-guide/)
+- Part 2: [Complete Guide to Bali Travel Destinations for Seniors](/blog/bali-senior-friendly-travel-guide/)
 
 ### **1. Avoid Overpacking the Itinerary: Don’t Turn the Trip into a Marathon**
 
@@ -135,7 +135,7 @@ A family traveling in Bali thought using ride-hailing apps (Gojek/Grab) in the c
 
 A couple took their elderly parents to visit Bali's Besakih Mother Temple, only to discover upon arrival that reaching the main structure required climbing numerous stairs. The elderly parents became fatigued midway, with one nearly collapsing from exhaustion, forcing them to abandon the visit.
 
-**Advice**: Before heading out, research whether the attraction involves extensive walking or stair climbing. For sites like rice terraces or waterfalls, assess whether the elderly have sufficient stamina. Refer to "[Complete Guide to Bali Travel Destinations Suitable for Seniors](/blog/2024-11-27-6746742bfd897800018d4906/)"
+**Advice**: Before heading out, research whether the attraction involves extensive walking or stair climbing. For sites like rice terraces or waterfalls, assess whether the elderly have sufficient stamina. Refer to "[Complete Guide to Bali Travel Destinations Suitable for Seniors](/blog/bali-senior-friendly-travel-guide/)"
 
 ### **5. Consider Dietary Preferences and Restrictions**
 
@@ -181,8 +181,8 @@ A family stayed at a hotel in the bustling Kuta area of Bali. The constant music
 
 **Quick Reference:**
 
-- [Jimbaran Guide](/blog/2023-11-09-654b8438fd897800016bf4cc/)
-- [Sanur 45 Things to Eat, Drink, and Enjoy Guide](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
+- [Jimbaran Guide](/blog/jimbaran-guide/)
+- [Sanur 45 Things to Eat, Drink, and Enjoy Guide](/blog/sanur-guide/)
 
 ### **10. Plan Breaks for Long Drives**
 
@@ -278,8 +278,8 @@ Although traveling abroad with elderly family members requires attention to many
 
 ## **Guide to Traveling to Bali with Seniors:**
 
-- Part 1: [A Guide to Safe, Comfortable, and Considerate Travel in Bali for Seniors](/blog/2023-11-29-655a0f5bfd89780001a49e07/)
-- Part 2: [Comprehensive Guide to Bali Travel Destinations for Older Adults](/blog/2024-11-27-6746742bfd897800018d4906/)
+- Part 1: [A Guide to Safe, Comfortable, and Considerate Travel in Bali for Seniors](/blog/bali-elderly-travel-guide/)
+- Part 2: [Comprehensive Guide to Bali Travel Destinations for Older Adults](/blog/bali-senior-friendly-travel-guide/)
 - Part 3: How Quirky Can Elderly Behavior Be? Beware of "Hard Work Without Appreciation" When Traveling Abroad (This Article)
 
 {{block:親子}}

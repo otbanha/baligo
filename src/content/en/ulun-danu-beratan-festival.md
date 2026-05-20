@@ -70,7 +70,7 @@ Beyond participating in the parade and performances, visitors can also explore o
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
 
-Ubud is the cultural and artistic center of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and deep-rooted traditions. It's an ideal place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or experiencing unique outdoor activities combined with delicious food and stunning views, Ubud will leave you with unforgettable memories! Want to learn more about Ubud? [Click here](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+Ubud is the cultural and artistic center of Bali, attracting countless travelers with its lush rice terraces, serene jungles, and deep-rooted traditions. It's an ideal place to relax and rejuvenate. Whether you're exploring local traditions, enjoying natural beauty, or experiencing unique outdoor activities combined with delicious food and stunning views, Ubud will leave you with unforgettable memories! Want to learn more about Ubud? [Click here](/blog/ubud-guide/)
 
 ## 📅 Practical Information and Visiting Tips
 

@@ -39,6 +39,6 @@ After completing the form, Gongcheng Jun demonstrates how to make the payment an
 
 Since Gongcheng Jun's video can only be played on YouTube, friends who need detailed step-by-step instructions [please click here to watch](https://www.youtube.com/watch?v=j1VOvlR9vbo).
 
-If you have any other questions about the application, you can refer here: [2024 Latest Version of Indonesia/Bali Entry Visa & E-Visa eVoA Related FAQ](/blog/2023-01-13-64db6b7dfd897800013a978a/)
+If you have any other questions about the application, you can refer here: [2024 Latest Version of Indonesia/Bali Entry Visa & E-Visa eVoA Related FAQ](/blog/indonesia-bali-visa-evoa-faq/)
 
-For the entire process from disembarking the plane to exiting the airport, what steps are involved, [please refer here](/blog/2023-12-07-65717449fd89780001fda950/)
+For the entire process from disembarking the plane to exiting the airport, what steps are involved, [please refer here](/blog/2025-bali-immigration-process/)

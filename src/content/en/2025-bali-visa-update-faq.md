@@ -97,7 +97,7 @@ It's recommended to apply in advance to avoid wasting precious travel time.
 
 - Use third-party services with caution, as the government is not responsible for their service quality. Please apply through the [official website](https://evisa.imigrasi.go.id/).
 
-(Read more: [Understand Bali's 2025 Entry Changes in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2023-12-07-65717449fd89780001fda950/))
+(Read more: [Understand Bali's 2025 Entry Changes in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2025-bali-immigration-process/))
 
 ## Eight Visa Types
 

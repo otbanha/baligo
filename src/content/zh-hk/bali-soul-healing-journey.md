@@ -50,7 +50,7 @@ _srcHash: 3bb771d696af35e5699c5e31e03d8296
 
 🌿✨下一次，當我哋講起峇里島嘅時候，係咪都可以放低部相機同打卡點，好似薔薔咁，用心去聽、去睇、去感受嗰啲隱藏喺熱帶陽光背後嘅古老靈魂呢？
 
-> 延伸閱讀：[【峇里島靈療/靈性之旅】當《Eat Pray Love》成為我嘅真實人生](/blog/2025-04-19-680323c9fd89780001988a20/)
+> 延伸閱讀：[【峇里島靈療/靈性之旅】當《Eat Pray Love》成為我嘅真實人生](/blog/eat-pray-love-bali-spiritual-journey/)
 
 > 參加峇里島靈療：[Private Spiritual Healing Day Trip in Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1033788&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F43536-private-spiritual-healing-day-trip-bali%2F%3Fspm%3DTicketList.OrderDetails.Activity%26clickId%3D91c1b40633)
 

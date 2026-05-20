@@ -108,7 +108,7 @@ Uluwatu Temple is the ultimate choice for sunset enthusiasts. Here's why it's co
 2. **Comparison with other sunset spots in Bali**  
    While Bali has many stunning sunset spots, Uluwatu stands out for its unique atmosphere. Unlike Tanah Lot, which is located on a rock by the sea, Uluwatu's cliffside position adds an extra layer of drama to the sunset experience.
 
-> Quick reference: [【Ultimate Guide to Bali Sunset Times】Seven Best Sunset Spots in Bali, How Many Have You Visited?](/blog/2024-07-10-668e837dfd89780001357d06/)
+> Quick reference: [【Ultimate Guide to Bali Sunset Times】Seven Best Sunset Spots in Bali, How Many Have You Visited?](/blog/bali-sunset-spots-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_83bd89800dff26aa55bcb32163b06b3b.jpg)
 
@@ -148,9 +148,9 @@ Uluwatu Temple is the ultimate choice for sunset enthusiasts. Here's why it's co
 
 ![蘇魯班海灘的介紹請點擊這裡！](https://images.gobaligo.id/vocus/vocus_1f543921995ff41fd729e05772f35ee4.jpg)
 
-[Click here for information about Suluban Beach!](/blog/2024-11-12-673207e9fd897800018987e7/)
+[Click here for information about Suluban Beach!](/blog/suluban-beach-hidden-gem/)
 
-If you’ve already made it to southern Bali, consider visiting these nearby attractions: **Garuda Wisnu Kencana (GWK), Suluban Beach, Pandawa Beach, Oneeighty Dayclub**, and more. For details on these locations, check out our **[Bukit Peninsula Adventure Guide](/blog/2024-10-31-67061b07fd897800012f87b5/)**.
+If you’ve already made it to southern Bali, consider visiting these nearby attractions: **Garuda Wisnu Kencana (GWK), Suluban Beach, Pandawa Beach, Oneeighty Dayclub**, and more. For details on these locations, check out our **[Bukit Peninsula Adventure Guide](/blog/bukit-peninsula-guide/)**.
 
 ---
 
@@ -202,8 +202,8 @@ Many visitors flock here to admire the sunset, making the evening hours quite cr
 
 **8. How to Plan Your Visit to Uluwatu Temple in Bali?**
 
-We've compiled information on hundreds of nearby attractions in our [Bukit Peninsula Adventure Guide](/blog/2024-10-31-67061b07fd897800012f87b5/)
+We've compiled information on hundreds of nearby attractions in our [Bukit Peninsula Adventure Guide](/blog/bukit-peninsula-guide/)
 
 ![武吉半島攻略指南請點我](https://images.gobaligo.id/vocus/vocus_c0550a000561d9e7a5ab19d076dfcba5.jpg)
 
-[Click here for the Bukit Peninsula Travel Guide](/blog/2024-10-31-67061b07fd897800012f87b5/)
+[Click here for the Bukit Peninsula Travel Guide](/blog/bukit-peninsula-guide/)

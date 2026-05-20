@@ -84,8 +84,8 @@ While printed copies aren't mandatory by regulation, **having them as backup wil
 
 **Further Reading:**
 
-- [August 2025 Bali, Indonesia Entry Using the "All Indonesia" Declaration System｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/blog/2025-08-14-689dcce7fd8978000125fc52/)
-- [Indonesia/Bali Entry eVisa, eCD Customs, SSHP Health Declaration Must-Fill All Indonesia FAQ](/blog/2025-08-14-689db40ffd89780001eb2f3e/)
+- [August 2025 Bali, Indonesia Entry Using the "All Indonesia" Declaration System｜1-Minute Guide to the Latest Process: From Landing → Customs → Baggage Claim](/blog/bali-all-indonesia-arrival-guide/)
+- [Indonesia/Bali Entry eVisa, eCD Customs, SSHP Health Declaration Must-Fill All Indonesia FAQ](/blog/bali-evisa-customs-health-declaration/)
 
 ---
 

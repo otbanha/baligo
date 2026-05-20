@@ -64,4 +64,4 @@ _srcHash: f7c72c5abd582af2f87ef653ea91b6b2
 
 Nuanu Creative City係峇里島最新崛起嘅創意園區，仲推動零碳排，成為峇里島最新嘅永續旅遊地標。而家已經開始吸引全球嘅創意人士，成為下一個必訪嘅熱點！
 
-Nuanu Creative City嘅景點攻略請睇[呢度](/blog/2025-04-18-68026619fd89780001f56243/)
+Nuanu Creative City嘅景點攻略請睇[呢度](/blog/nuanu-creative-city-luna-guide/)

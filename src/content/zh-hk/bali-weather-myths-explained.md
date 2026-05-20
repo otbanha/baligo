@@ -62,7 +62,7 @@ _srcHash: 21cd9183ead6d1ff4f052efbdf3f6daf
 
 👉 **建議：安排海灘行程或者各種戶外活動最好排喺朝早！**
 
-> [峇里島戶外活動玩咩？18種唔可以錯過嘅精彩體驗](/blog/2025-04-02-67ecf440fd897800012cb31b/)
+> [峇里島戶外活動玩咩？18種唔可以錯過嘅精彩體驗](/blog/bali-top-50-outdoor-activities/)
 
 ---
 
@@ -78,10 +78,10 @@ _srcHash: 21cd9183ead6d1ff4f052efbdf3f6daf
 
 **快速參考：**
 
-> [峇里島雨季月份/降雨機率/降雨天數/平均氣溫/適合旅遊指數...大解析](/blog/2025-04-02-67ecc962fd89780001212629/)
+> [峇里島雨季月份/降雨機率/降雨天數/平均氣溫/適合旅遊指數...大解析](/blog/bali-rainy-season-travel-guide/)
 
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_09e4e66f29ac27a468ecc350cf0c839d.png)
 
-如果真係擔心落雨影響行程，【[雨天嘅60個備案景點推薦](/blog/2024-01-06-6598c6fffd89780001047d76/)】，快啲收藏啦！
+如果真係擔心落雨影響行程，【[雨天嘅60個備案景點推薦](/blog/2026-bali-indoor-activities/)】，快啲收藏啦！

@@ -31,7 +31,7 @@ The history of Tanah Lot dates back to the 16th century, when it was reportedly 
 
 The architecture of Tanah Lot is simple yet powerful, especially during high tide when the temple appears to float on the sea, creating a mystical and solemn atmosphere. During low tide, visitors can walk to the front of the temple to admire its intricately carved structure. As an important religious site in Bali, Tanah Lot also hosts special religious ceremonies, the most significant being the "Piodalan" festival, which usually takes place four days after the Balinese "Hari Raya Kuningan." Visitors can witness the locals' devout religious practices during these events.
 
-> Further Reading: [2026 Bali Festival Dates](/blog/2026-01-16-696a37c5fd89780001f0790b/)
+> Further Reading: [2026 Bali Festival Dates](/blog/2026-bali-festival-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_71c5ba824a21ebf14225e1a786a733aa.jpg)
 
@@ -76,8 +76,8 @@ It's worth noting that during peak hours at sunset, the area gets quite crowded.
 
 Canggu, located closest to Tanah Lot Temple, serves as the most convenient accommodation base for visiting the temple. For Canggu accommodation recommendations, check out:
 
-- [Top 11 Canggu Accommodations You Can't Miss](/blog/2023-10-03-651b8da8fd89780001974847/)
-- [16 Private Pool Villas in Canggu You Can't Miss](/blog/2024-08-07-66b20b15fd89780001ceef6b/)
+- [Top 11 Canggu Accommodations You Can't Miss](/blog/canggu-top-hotels-guide/)
+- [16 Private Pool Villas in Canggu You Can't Miss](/blog/canggu-villas-guide/)
 
 ## 4. Tanah Lot Dining
 
@@ -87,12 +87,12 @@ Right by the seaside near Tanah Lot Temple, there's a restaurant offering Bali's
 
 ## 5. Attractions Around Tanah Lot
 
-Besides Tanah Lot, for those looking for more Bali travel ideas, we recommend checking out our carefully curated "[Canggu Guide Map](/blog/2023-02-11-64db6b7efd897800013a9815/)", which includes 80 must-visit spots covering everything from natural landscapes to culinary experiences, making it easy for you to plan your itinerary and not miss any wonderful moments. The Canggu area is also not far from Tanah Lot and is one of the best choices for exploring local Balinese life and trends!
+Besides Tanah Lot, for those looking for more Bali travel ideas, we recommend checking out our carefully curated "[Canggu Guide Map](/blog/canggu-guide/)", which includes 80 must-visit spots covering everything from natural landscapes to culinary experiences, making it easy for you to plan your itinerary and not miss any wonderful moments. The Canggu area is also not far from Tanah Lot and is one of the best choices for exploring local Balinese life and trends!
 
-Another attraction closer to Tanah Lot is the newest "Nuanu Creative City", which features dozens of interesting spots. Continue reading with our "[Nauru Creative City Guide](/blog/2025-04-18-68026619fd89780001f56243/)"
+Another attraction closer to Tanah Lot is the newest "Nuanu Creative City", which features dozens of interesting spots. Continue reading with our "[Nauru Creative City Guide](/blog/nuanu-creative-city-luna-guide/)"
 
 ## Suggested Topics to Explore Further
 
-- [Bali Sunset Guide: Top 7 Sunset Viewing Spots in Bali - How Many Have You Visited?](/blog/2024-07-10-668e837dfd89780001357d06/)
-- [Canggu Guide: The Perfect Blend of Surfing, Food, and Trends!](/blog/2024-04-16-661de06efd897800012195a4/)
-- [Nauru Creative City Guide](/blog/2025-04-18-68026619fd89780001f56243/)
+- [Bali Sunset Guide: Top 7 Sunset Viewing Spots in Bali - How Many Have You Visited?](/blog/bali-sunset-spots-guide/)
+- [Canggu Guide: The Perfect Blend of Surfing, Food, and Trends!](/blog/canggu-surf-food-guide/)
+- [Nauru Creative City Guide](/blog/nuanu-creative-city-luna-guide/)

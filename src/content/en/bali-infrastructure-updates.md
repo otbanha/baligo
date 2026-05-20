@@ -81,7 +81,7 @@ The construction of this ring road will help distribute traffic flow, reduce pre
 
 The Gilimanuk-Mengwi Highway project will continue to advance, with the addition of a South Bali Metro system to further improve transportation convenience in southern Bali's tourist hotspots and reduce traffic pressure.
 
-In addition to these 10 projects that are either pending or under construction, there is also the Bali Airport Light Rail currently in progress. Check out our [previous report](/blog/2024-07-22-669e605afd8978000115575b/) for more details.
+In addition to these 10 projects that are either pending or under construction, there is also the Bali Airport Light Rail currently in progress. Check out our [previous report](/blog/bali-lrt-construction-update/) for more details.
 
 ![峇里島將採用和雅加達相同的輕軌系統](https://images.gobaligo.id/vocus/vocus_18c707e4ec41b5fe1c5ccd1650b0aee3.jpg)
 

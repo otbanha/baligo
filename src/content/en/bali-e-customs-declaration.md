@@ -125,7 +125,7 @@ Starting from 2024, each foreign tourist is required to pay a one-time tourism t
 
 This is a quick and free health survey form. It includes recent travel history and basic health information for epidemic prevention tracking. Fill it out [here](https://sshp.kemkes.go.id/).
 
-> Quick Reference: [Understand Bali's 2025 Entry Changes in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2023-12-07-65717449fd89780001fda950/)
+> Quick Reference: [Understand Bali's 2025 Entry Changes in One Minute: Indonesia/Bali Entry Process - From Landing to Customs to Baggage Claim](/blog/2025-bali-immigration-process/)
 
 ---
 

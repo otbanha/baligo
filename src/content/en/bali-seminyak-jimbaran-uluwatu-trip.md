@@ -117,7 +117,7 @@ The venue features indoor, outdoor, and beachfront areas, offering dinner, snack
 
 Although the prices are slightly higher than other places, it’s absolutely worth it. Every traveler visiting Bali should stop by here to experience its unique charm.
 
-- [Ku De Ta Guide](/blog/2025-02-24-67bc10d5fd897800015888e3/)
+- [Ku De Ta Guide](/blog/ku-de-ta-beach-club/)
 - Ku De Ta [Daybed Reservation](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004596&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F135291-kudeta-beach-club-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D67569d3aa6)
 
 {{block:smk}}
@@ -136,7 +136,7 @@ Perched on a cliff overlooking the vast Indian Ocean, the temple offers breathta
 
 Apart from some mischievous monkeys nearly snatching my sunglasses, everything else was simply perfect. This visit to Uluwatu Temple deepened my appreciation for this ancient and sacred place.
 
-**Quick Reference:** [Bali Uluwatu Temple/Lover's Cliff Travel Guide: Must-See Highlights and Practical Tips](/blog/2025-01-18-678b1d81fd89780001f7fe4d/)
+**Quick Reference:** [Bali Uluwatu Temple/Lover's Cliff Travel Guide: Must-See Highlights and Practical Tips](/blog/uluwatu-temple-travel-guide/)
 
 ### Karma Jimbaran
 
@@ -236,6 +236,6 @@ Do you find Lin Yanwei's itinerary exciting? Quickly plan your own Bali free-and
 
 Click here to watch more amazing Bali travelogues
 
-Want to write a travelogue but not sure where to start? Check out '[How to Write an Engaging Bali Travelogue](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)' to make your travelogue stand out!
+Want to write a travelogue but not sure where to start? Check out '[How to Write an Engaging Bali Travelogue](/blog/how-to-write-bali-travelogue/)' to make your travelogue stand out!
 
 {{block:攻略}}

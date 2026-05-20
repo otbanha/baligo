@@ -28,11 +28,11 @@ _srcHash: 03159ea9ca46f5309410472bad172784
 
 ✔️ **電子簽證：** 當日抵達時，我哋觀察到落地簽嘅排隊時間大約需要20分鐘，好彩有社團提供嘅電子簽新版網站，令我哋順利慳咗唔少時間！使用電子簽證真係方便好多，令我哋可以更快開始我哋嘅旅程。
 
-延伸閱讀：[你最想知道嘅落機、過海關、出機場流程](/blog/2025-08-14-689dcce7fd8978000125fc52/)（2025最新版）
+延伸閱讀：[你最想知道嘅落機、過海關、出機場流程](/blog/bali-all-indonesia-arrival-guide/)（2025最新版）
 
 ✔️ **美金換匯：** 一開始我哋先換咗200美金，因為可以碌卡嘅地方幾乎都用碌卡，結果到咗最後先發現現金唔夠支付司機嘅包車費用，所以又喺酒店換咗150美金。今次嘅經驗令我哋體會到，雖然碌卡方便，但係都要留意現金嘅需求，特別係使用包車服務時，確保唔會因為現金唔夠而影響行程！
 
-> 延伸閱讀：[峇里島旅遊要準備幾多現金？](/blog/2023-09-11-64fdaddefd89780001bdb780/)
+> 延伸閱讀：[峇里島旅遊要準備幾多現金？](/blog/bali-travel-cash-budget-guide/)
 
 跟住係我哋嘅詳細行程，我哋嘅行程安排如下：
 
@@ -40,11 +40,11 @@ _srcHash: 03159ea9ca46f5309410472bad172784
 
 抵達峇里島之後，我哋直接去咗入住嘅 **Bidadari Villa**。途中，司機 Agus 好貼心，帶我哋去買咗張網絡卡同埋換咗啲錢。我哋揀咗最平嗰張12GB網絡卡，大約用咗USD$16。峇里島嘅網絡速度都幾穩定，流量夠我哋成個行程用，無論係導航定係上網分享旅遊點滴都好順暢。
 
-> [【峇里島旅遊必備】如何辦理峇里島網絡/SIM卡/eSIM?](/blog/2024-03-21-65f916bbfd89780001b916e0/)
+> [【峇里島旅遊必備】如何辦理峇里島網絡/SIM卡/eSIM?](/blog/bali-sim-card-esim-roaming-guide/)
 
 > [Bidadari Private Villas & Retreatfangjia&空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=237890)
 
-收錄在「[烏布20間令人驚艷嘅峇里島villa推薦](/blog/2024-04-24-6628f08cfd8978000190a575/)」
+收錄在「[烏布20間令人驚艷嘅峇里島villa推薦](/blog/ubud-villa-pool-guide/)」
 
 夜晚，我哋行咗大約8分鐘去咗 **Natys Restaurant Ubud** 食飯。呢間餐廳嘅價錢雖然唔算平，但食物嘅質素相當唔錯，味道同擺盤都有水準。服務亦都好周到，餐廳嘅氣氛好適合一家人放鬆享受一頓愉快嘅晚餐。
 
@@ -62,7 +62,7 @@ Natys Restaurant Ubud 用餐
 
 今日係烏布包車一日遊，我哋嘅第一站係[小傑](http://bit.ly/youtube-jason)介紹過嘅 **Nukuwera & Pandawa 漂漂河**。呢度有附送午餐，成個漂漂河嘅體驗好適合家庭，有細路嘅我哋都玩得好開心，小朋友們非常享受喺水中嘅時光。
 
-Nukuwera漂漂河嘅介紹：[峇里島洞穴漂流河探險記：Nukuwera River Tubing嘅親子冒險之旅](/blog/2025-06-09-68463dcbfd897800011c6f06/)
+Nukuwera漂漂河嘅介紹：[峇里島洞穴漂流河探險記：Nukuwera River Tubing嘅親子冒險之旅](/blog/nukuwera-river-tubing-adventure/)
 
 之後，我哋去咗出名嘅 **聖猴森林**
 
@@ -84,7 +84,7 @@ Warung Pulau Kelapa嘅豬肋排、沙爹、印尼炒飯
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_43dfe121adfd643e4190f3fdefbf16a8.jpg)
 
-想了解更多烏布攻略？[請點擊呢度](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+想了解更多烏布攻略？[請點擊呢度](/blog/ubud-guide/)
 
 ## **第三天**
 
@@ -102,9 +102,9 @@ Ayoo Ayoo
 
 Bali Safari Zoo
 
-> 延伸閱讀：[峇里島親子遊唔可以錯過：峇里島動物園 Bali Safari 要點玩樂、夜宿攻略](/blog/2023-07-25-64db6b8cfd897800013a9ab1/)
+> 延伸閱讀：[峇里島親子遊唔可以錯過：峇里島動物園 Bali Safari 要點玩樂、夜宿攻略](/blog/bali-safari-night-stay/)
 
-> 延伸閱讀：[峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/blog/2024-05-17-6647416cfd89780001f5a5ef/)
+> 延伸閱讀：[峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/blog/bali-family-day-safari-flamingo/)
 
 食完飯之後，餐廳外面仲有同動物影相嘅服務。我哋揀咗呢項服務，攝影師幫我哋影咗好多相，有媽媽同哥哥嘅合照，爸爸同妹妹嘅，仲有全家四口嘅大合照。最正嘅係，呢組相包晒所有數碼檔案，仲有一張沖印成 A4 大小嘅相配上精美相簿，價錢只係 USD$23 左右。相片質素好好，全家人都影得好靚，我哋覺得呢個真係超值嘅回憶紀錄！
 
@@ -118,15 +118,15 @@ Bali Safari Zoo
 
 今日我哋由 **Bali Safari** 搬去 **Westin Nusa Dua**，途中我哋請司機 Agus 幫手搵當地小食，包括 **Siobak 燒豬** 同 **Martabak 蛋餅**。Agus 唔單止幫我哋搵到合適嘅小店，仲好細心同店老闆溝通，避免我哋因為係遊客而被劏價。呢種細心嘅服務令我哋覺得好窩心。
 
-> 延伸閱讀：[峇里島十大美食推薦](/blog/2023-05-02-64db6b81fd897800013a98e3/)
+> 延伸閱讀：[峇里島十大美食推薦](/blog/bali-top-10-foods/)
 
 跟住，我哋問司機想買手信，我哋去咗 **Krisna** 同 **The Balinese** 買手信。Agus 介紹我哋去 Krisna 時，仲特別提醒我哋如果需要去其他地方，可以隨時話俾佢知，等我哋可以自主決定行程。呢個令我想起十幾年前嘅旅行經驗，嗰陣我明明話唔需要購物，但係俾包車司機強行帶去幾個購物工廠，當時嘅心情真係好嬲。今次嘅體驗令我覺得好滿意同放鬆，因為 Agus 完全尊重我哋嘅意願。
 
 ![特別推薦這家峇里島鳳梨酥, 買回去大家都說讚! 詳細介紹請點我](https://images.gobaligo.id/vocus/vocus_a262dcfae127272b45f387f27aa1463b.jpg)
 
-[特別推薦呢間峇里島鳳梨酥, 買返去大家都話正! 詳細介紹請撳我](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+[特別推薦呢間峇里島鳳梨酥, 買返去大家都話正! 詳細介紹請撳我](/blog/bali-souvenirs-gift-guide/)
 
-> [延伸閱讀：【網友推薦】超過20項峇里島手信推薦指南](/blog/2024-05-22-664dcf84fd8978000131e5f4/)
+> [延伸閱讀：【網友推薦】超過20項峇里島手信推薦指南](/blog/bali-souvenirs-gift-guide/)
 
 晚餐喺度假村入面嘅 **Velada 餐廳**，我哋食咗漢堡同印度菜。呢度嘅餐廳環境好舒服，食物都幾好味，漢堡嘅味道好鮮美，印度菜更加令人驚喜，香料嘅運用恰到好處，令我哋喺呢個旅程嘅第四日完美收官。
 
@@ -134,7 +134,7 @@ Bali Safari Zoo
 
 ▶[The Westin Resort Nusa Dua 空房&房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=104013)
 
-收錄喺「[Nusa Dua 努沙杜瓦16家公認最正嘅五星渡假村住宿推薦](/blog/2024-07-27-66a4562afd89780001d70329/)」
+收錄喺「[Nusa Dua 努沙杜瓦16家公認最正嘅五星渡假村住宿推薦](/blog/nusa-dua-resorts-guide/)」
 
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_458ebbef53693f34ad5c8b242487dab9.jpg)
@@ -158,13 +158,13 @@ Bali Safari Zoo
 
 晚餐我哋揀咗度假村入面嘅 **渡邊日本料理**，呢間餐廳嘅料理質素相當唔錯，味道鮮美，令我哋胃口大開，為我哋嘅放鬆日畫下完美句點。
 
-> [峇里島18間 kids club 親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖、烏布適合家庭度假嘅最佳選擇](/blog/2024-05-14-66405077fd89780001f23b72/)
+> [峇里島18間 kids club 親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖、烏布適合家庭度假嘅最佳選擇](/blog/bali-family-resorts-kids-club/)
 
 ### 更多努沙杜瓦吃喝玩樂介紹
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
-努沙杜瓦（Nusa Dua）係峇里島以豪華度假村聞名嘅地區，擁有潔白嘅沙灘、碧藍嘅海水同完善嘅旅遊設施，係追求高端享受同寧靜假期嘅首選。呢度仲提供頂級水療、水上活動、同埋適合全家大小嘅休閒活動，係各類旅客嘅天堂。想了解更多努沙杜瓦攻略？[請點擊這裡](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+努沙杜瓦（Nusa Dua）係峇里島以豪華度假村聞名嘅地區，擁有潔白嘅沙灘、碧藍嘅海水同完善嘅旅遊設施，係追求高端享受同寧靜假期嘅首選。呢度仲提供頂級水療、水上活動、同埋適合全家大小嘅休閒活動，係各類旅客嘅天堂。想了解更多努沙杜瓦攻略？[請點擊這裡](/blog/nusa-dua-guide/)
 
 ## **第六日**
 
@@ -198,31 +198,31 @@ LINE: gosaray 1105
 
 ## 親子旅遊延伸閱讀：
 
-- [峇里島家庭親子友善景點大全｜峇里島超過100樣適合親子同樂活動](/blog/2023-03-05-64db6b81fd897800013a98b4/)
-- [帶小朋友去峇里島家庭旅遊嘅20個注意要點](/blog/2024-04-15-661cecd5fd897800019390f6/)
-- [峇里島親子遊：帶嬰兒、幼童同學齡兒童去度假嘅一啲提示](/blog/2023-11-06-6544370afd89780001e1546c/)
-- [峇里島搵保母指南：如何搵到適合嘅保母及費用概況](/blog/2024-11-10-67301111fd897800016667a1/)
-- [帶寶寶去峇里島：攜帶含豬肉、雞肉副食品嘅注意事項](/blog/2025-03-04-67c6dce0fd8978000195cf12/)
-- [峇里島親子樂園：十五家擁有滑水道溜滑梯嘅親子渡假村 TOP 15](/blog/2024-01-16-65a51edbfd89780001ffc7b2/)
-- [推薦峇里島18家庭親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖適合家庭度假、親子放鬆嘅最佳選擇](/blog/2024-05-14-66405077fd89780001f23b72/)
-- [烏布55項親子活動帶小朋友最輕鬆！](/blog/2024-01-10-659cf4a5fd89780001d6fb69/)
-- [峇里島最適合親子度假嘅海濱：沙努爾攻略地圖｜45項吃喝玩樂](/blog/2024-02-11-65bf2f75fd89780001dbf162/)
-- [峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/blog/2024-05-17-6647416cfd89780001f5a5ef/)
-- [峇里島親子遊唔可以錯過：峇里島動物園 Bali Safari 要點玩樂、夜宿攻略](/blog/2023-07-25-64db6b8cfd897800013a9ab1/)
-- [2025新開幕](/blog/2025-01-23-6791ea5dfd89780001a7a07c/) [Marine Safari Bali 峇里島海洋野生動物園攻略](/blog/2025-01-23-6791ea5dfd89780001a7a07c/)
-- [與羊駝互動野餐：小朋友嘅自然課堂](/blog/2025-02-01-679e01b3fd89780001addbd9/)
-- [Nuanu Creative City 嘅魔法花園 Magic Garden](/blog/2025-04-18-679f922ffd89780001f9a868/)
-- [Jungle Kids Bali | Nuanu 嘅 Kids Club：最適合小朋友嘅遊樂與學習空間](/blog/2025-04-18-67a402f9fd897800017c0313/)
-- [峇里島奇幻之旅：喺峇里島海洋公園遇見《Varuna Show》嘅水下魔法](/blog/2025-06-08-684569f0fd89780001f24ef9/)
-- [峇里島親子旅遊攻略 - 水明漾篇](/blog/2025-02-15-67ac4321fd897800015b9a11/)
-- [峇里島親子旅遊攻略 - 烏布篇](/blog/2025-02-16-67b0a910fd89780001798c4e/)
-- [峇里島親子旅遊攻略 - 沙努爾篇](/blog/2025-02-22-67b81b4cfd89780001b4a261/)
-- [峇里島親子樂園 Titi Batu Ubud Club 一日體驗：健身、玩樂與放鬆嘅完美結合](/blog/2025-09-05-68bacc2ffd897800011175a7/)
-- [峇里島睇海龜全指南：從庫塔到沙努爾，親子必訪嘅海龜保育據點](/blog/2025-10-23-68f9b567fd89780001795353/)
-- [Bali Bird Park 峇里島鳥園終極攻略：珍稀鳥種、互動活動與生態保育嘅奇幻旅程](/blog/2025-10-25-68fc1e0cfd89780001736727/)
-- [The Firefly Garden 螢火蟲花園：峇里島最閃耀嘅生態保育與旅遊勝地](/blog/2025-08-24-68aa8849fd8978000171256a/)
-- [🎮 ZONE OUT Bali：庫塔最型嘅虛擬實境冒險基地！](/blog/2025-11-05-690b2c7bfd89780001f3ea8d/)
-- [夜幕下嘅幻光雨林：峇里島烏布Hikaria沉浸式光影藝術體驗](/blog/2025-11-10-69113993fd897800015bfa87/)
+- [峇里島家庭親子友善景點大全｜峇里島超過100樣適合親子同樂活動](/blog/bali-family-travel-guide/)
+- [帶小朋友去峇里島家庭旅遊嘅20個注意要點](/blog/bali-family-travel-tips/)
+- [峇里島親子遊：帶嬰兒、幼童同學齡兒童去度假嘅一啲提示](/blog/bali-family-travel-guide-2/)
+- [峇里島搵保母指南：如何搵到適合嘅保母及費用概況](/blog/bali-nanny-hiring-guide/)
+- [帶寶寶去峇里島：攜帶含豬肉、雞肉副食品嘅注意事項](/blog/baby-food-bali-tips/)
+- [峇里島親子樂園：十五家擁有滑水道溜滑梯嘅親子渡假村 TOP 15](/blog/bali-family-resorts-water-slides/)
+- [推薦峇里島18家庭親子度假村｜庫塔、水明漾、坎古、金巴蘭、烏魯瓦圖適合家庭度假、親子放鬆嘅最佳選擇](/blog/bali-family-resorts-kids-club/)
+- [烏布55項親子活動帶小朋友最輕鬆！](/blog/ubud-with-kids-guide/)
+- [峇里島最適合親子度假嘅海濱：沙努爾攻略地圖｜45項吃喝玩樂](/blog/sanur-guide/)
+- [峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/blog/bali-family-day-safari-flamingo/)
+- [峇里島親子遊唔可以錯過：峇里島動物園 Bali Safari 要點玩樂、夜宿攻略](/blog/bali-safari-night-stay/)
+- [2025新開幕](/blog/marine-safari-bali-guide/) [Marine Safari Bali 峇里島海洋野生動物園攻略](/blog/marine-safari-bali-guide/)
+- [與羊駝互動野餐：小朋友嘅自然課堂](/blog/pacha-alpaca-family-canggu/)
+- [Nuanu Creative City 嘅魔法花園 Magic Garden](/blog/nuanu-magic-garden-bali/)
+- [Jungle Kids Bali | Nuanu 嘅 Kids Club：最適合小朋友嘅遊樂與學習空間](/blog/jungle-kids-bali-nuanu-playground/)
+- [峇里島奇幻之旅：喺峇里島海洋公園遇見《Varuna Show》嘅水下魔法](/blog/varuna-show-bali-safari/)
+- [峇里島親子旅遊攻略 - 水明漾篇](/blog/seminyak-family-travel-2026/)
+- [峇里島親子旅遊攻略 - 烏布篇](/blog/ubud-family-travel-2026/)
+- [峇里島親子旅遊攻略 - 沙努爾篇](/blog/sanur-family-travel-guide-2/)
+- [峇里島親子樂園 Titi Batu Ubud Club 一日體驗：健身、玩樂與放鬆嘅完美結合](/blog/titi-batu-ubud-family-club/)
+- [峇里島睇海龜全指南：從庫塔到沙努爾，親子必訪嘅海龜保育據點](/blog/bali-turtle-watching-guide/)
+- [Bali Bird Park 峇里島鳥園終極攻略：珍稀鳥種、互動活動與生態保育嘅奇幻旅程](/blog/bali-bird-park-guide/)
+- [The Firefly Garden 螢火蟲花園：峇里島最閃耀嘅生態保育與旅遊勝地](/blog/the-firefly-garden-ubud/)
+- [🎮 ZONE OUT Bali：庫塔最型嘅虛擬實境冒險基地！](/blog/zone-out-bali-vr-adventure/)
+- [夜幕下嘅幻光雨林：峇里島烏布Hikaria沉浸式光影藝術體驗](/blog/hikaria-ubud-light-show/)
 - 峇里島家庭親子旅遊專欄
 
 您覺得 Sannie Lin 佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家到社團投稿您嘅行程喔！
@@ -231,4 +231,4 @@ LINE: gosaray 1105
 
 撳呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但係唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/2024-07-06-6688bd5dfd897800017d0fa2/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但係唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！

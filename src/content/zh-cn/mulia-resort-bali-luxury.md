@@ -103,7 +103,7 @@ _srcHash: fa290f3dd1c581f5907be77c1e5cc9a3
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
 
-努沙杜瓦（Nusa Dua）是巴厘岛以豪华度假村闻名的地区，拥有洁白的沙滩、碧蓝的海水以及完善的旅游设施，是追求高端享受与宁静假期的首选。这里还提供顶级水疗、水上活动、以及适合全家大小的休闲活动，是各类旅客的天堂。想了解更多努沙杜瓦攻略？[请点击这里](/blog/2024-01-25-65afb7bbfd897800017023b4/)
+努沙杜瓦（Nusa Dua）是巴厘岛以豪华度假村闻名的地区，拥有洁白的沙滩、碧蓝的海水以及完善的旅游设施，是追求高端享受与宁静假期的首选。这里还提供顶级水疗、水上活动、以及适合全家大小的休闲活动，是各类旅客的天堂。想了解更多努沙杜瓦攻略？[请点击这里](/blog/nusa-dua-guide/)
 
 🏖️🌊🚤南湾水上活动，拖曳伞、浮潜、海底漫步、香蕉船一次体验 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25B8%25B9%25E6%2588%258E%25E8%25B2%259D%25E8%25AB%25BE%25E7%2593%25A6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3D4376a16ccb)
 
@@ -163,4 +163,4 @@ _srcHash: fa290f3dd1c581f5907be77c1e5cc9a3
 
 **努沙杜瓦是巴厘岛南部一个著名的高级度假胜地，以其宁静的环境、洁白的沙滩和世界级的奢华体验闻名。** 如果您正在寻找奢华五星级度假村，努沙杜瓦提供了众多顶尖选择，从专属私人海滩到精致的餐饮与水疗，应有尽有。
 
-👉 **想探索更多努沙杜瓦的顶级住宿？**[**请点击这里**](/blog/2024-07-27-66a4562afd89780001d70329/)**！**
+👉 **想探索更多努沙杜瓦的顶级住宿？**[**请点击这里**](/blog/nusa-dua-resorts-guide/)**！**
