@@ -87,7 +87,7 @@ collections:
     folder: src/content/promotions
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{hour}}{{minute}}{{second}}"
-    sort_field: expiresAt
+    sort_field: title
     sort_direction: Ascending
     summary: "{{title}} — 截止：{{expiresAt}}"
     fields:
@@ -100,12 +100,11 @@ collections:
       - { label: 備注（內部用）, name: note, widget: string, required: false }
       - label: 截止日期
         name: expiresAt
-        widget: datetime
+        widget: string
         required: false
-        date_format: "YYYY-MM-DD"
-        time_format: false
-        format: "YYYY-MM-DD"
-        hint: "不填表示長期有效"
+        default: ''
+        pattern: ['^(\d{4}-\d{2}-\d{2})?$', '格式：YYYY-MM-DD，或留空']
+        hint: "格式 YYYY-MM-DD，留空表示長期有效"
 
   - name: blocks
     label: 內容區塊（繁體中文）
