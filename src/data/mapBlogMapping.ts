@@ -224,7 +224,7 @@ export const mapBlogMapping: Record<string, MapBlogLink> = {
   },
 
   "sim-card": {
-    blogUrl: "https://gobaligo.id/blog/bali-sim-card-esim-roaming-guide/",
+    blogUrl: "https://gobaligo.id/blog/bali-sim-card-esim-guide/",
     blogTitle: "峇里島 SIM 卡 / eSIM / 漫遊比較指南",
     teaser: "Telkomsel、XL、Indosat 比較與機場購卡全攻略",
     anchors: {
