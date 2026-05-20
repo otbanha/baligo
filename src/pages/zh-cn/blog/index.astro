@@ -121,7 +121,7 @@ const { Content: BaliNewsContent } = baliNewsToRender
 const top5Posts = top5Data.articles
   .map(id => allPosts.find(p => p.id === id))
   .filter(Boolean)
-  .map(p => ({ id: p!.id, title: p!.data.title }));
+  .map(p => ({ id: p!.id, slug: p!.data.slug || p!.id, title: p!.data.title }));
 
 const qaCollection = await getCollection('qa');
 const qaData = qaCollection.map(q => ({ title: (qaI18n as any)[q.id]?.['zh-cn'] ?? q.data.title }));
@@ -272,7 +272,7 @@ const socialLinks = [
             <ul class="top5-list" id="top5-list">
               {top5Posts.map((post, i) => (
                 <li class="top5-item" data-index={i}>
-                  <a href={`${blogBase}/${post.id}/`}>
+                  <a href={`${blogBase}/${post.slug}/`}>
                     <span class="top5-num">{i + 1}</span>
                     <span class="top5-title">{post.title}</span>
                   </a>

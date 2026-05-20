@@ -143,6 +143,7 @@ const top5Posts = top5Data.articles
   .slice(0, 6)
   .map(p => ({
     id: p.id,
+    slug: p.data.slug || p.id,
     title: p.data.title,
   }));
 
@@ -391,7 +392,7 @@ const socialLinks = [
             <ul class="top5-list" id="top5-list">
               {top5Posts.map((post, i) => (
                 <li class="top5-item" data-index={i}>
-                  <a href={`/blog/${post.id}/`}>
+                  <a href={`/blog/${post.slug}/`}>
                     <span class="top5-num"></span>
                     <span class="top5-title">{post.title}</span>
                   </a>
