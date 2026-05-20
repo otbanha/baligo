@@ -2688,4 +2688,88 @@
 /zh-hk/blog/2026-05-17-024144/ /zh-hk/blog/bali-travel-insurance-guide/ 301
 /zh-hk/blog/2026-05-17-050259/ /zh-hk/blog/bali-ultimate-guide-2026/ 301
 /zh-hk/blog/2026-05-17-152404/ /zh-hk/blog/18-May-2026-Bali-News/ 301
+
+# === mongo_id / timestamp slug 語意化重構 2026-05-20 ===
+# 2022-03-03-64db6b78fd897800013a967f → kuta-bali-area-guide-map
+/en/blog/2022-03-03-64db6b78fd897800013a967f/ /en/blog/kuta-bali-area-guide-map/ 301
+/zh-cn/blog/2022-03-03-64db6b78fd897800013a967f/ /zh-cn/blog/kuta-bali-area-guide-map/ 301
+/zh-hk/blog/2022-03-03-64db6b78fd897800013a967f/ /zh-hk/blog/kuta-bali-area-guide-map/ 301
+
+# 2023-01-23-64db6b7efd897800013a9810 → bali-pass-activities-discount-guide
+/en/blog/2023-01-23-64db6b7efd897800013a9810/ /en/blog/bali-pass-activities-discount-guide/ 301
+/zh-cn/blog/2023-01-23-64db6b7efd897800013a9810/ /zh-cn/blog/bali-pass-activities-discount-guide/ 301
+/zh-hk/blog/2023-01-23-64db6b7efd897800013a9810/ /zh-hk/blog/bali-pass-activities-discount-guide/ 301
+
+# 2023-08-15-64db6b58fd897800013a8e73 → bali-indonesia-what-not-to-buy
+/en/blog/2023-08-15-64db6b58fd897800013a8e73/ /en/blog/bali-indonesia-what-not-to-buy/ 301
+/zh-cn/blog/2023-08-15-64db6b58fd897800013a8e73/ /zh-cn/blog/bali-indonesia-what-not-to-buy/ 301
+/zh-hk/blog/2023-08-15-64db6b58fd897800013a8e73/ /zh-hk/blog/bali-indonesia-what-not-to-buy/ 301
+
+# 2023-08-16-64dcdf93fd8978000186a9dd → ubud-bali-area-guide-map
+/en/blog/2023-08-16-64dcdf93fd8978000186a9dd/ /en/blog/ubud-bali-area-guide-map/ 301
+/zh-cn/blog/2023-08-16-64dcdf93fd8978000186a9dd/ /zh-cn/blog/ubud-bali-area-guide-map/ 301
+/zh-hk/blog/2023-08-16-64dcdf93fd8978000186a9dd/ /zh-hk/blog/ubud-bali-area-guide-map/ 301
+
+# 2024-05-24-665083f0fd8978000151d7e8 → four-seasons-jimbaran-bay-deal
+/en/blog/2024-05-24-665083f0fd8978000151d7e8/ /en/blog/four-seasons-jimbaran-bay-deal/ 301
+/zh-cn/blog/2024-05-24-665083f0fd8978000151d7e8/ /zh-cn/blog/four-seasons-jimbaran-bay-deal/ 301
+/zh-hk/blog/2024-05-24-665083f0fd8978000151d7e8/ /zh-hk/blog/four-seasons-jimbaran-bay-deal/ 301
+
+# 2024-07-07-668aaea7fd89780001981840 → bali-private-car-drivers-guide (redirect 已存在，略過)
+
+# 2024-11-02-6724e866fd897800019382f6 → ayana-resort-bali-deals
+/en/blog/2024-11-02-6724e866fd897800019382f6/ /en/blog/ayana-resort-bali-deals/ 301
+/zh-cn/blog/2024-11-02-6724e866fd897800019382f6/ /zh-cn/blog/ayana-resort-bali-deals/ 301
+/zh-hk/blog/2024-11-02-6724e866fd897800019382f6/ /zh-hk/blog/ayana-resort-bali-deals/ 301
+
+# 2024-11-22-673f301bfd89780001681af8 → anantara-ubud-bali-opening-offer
+/en/blog/2024-11-22-673f301bfd89780001681af8/ /en/blog/anantara-ubud-bali-opening-offer/ 301
+/zh-cn/blog/2024-11-22-673f301bfd89780001681af8/ /zh-cn/blog/anantara-ubud-bali-opening-offer/ 301
+/zh-hk/blog/2024-11-22-673f301bfd89780001681af8/ /zh-hk/blog/anantara-ubud-bali-opening-offer/ 301
+
+# 2024-12-02-67448c52fd89780001e759ca → alila-villas-uluwatu-luxury-offers
+/en/blog/2024-12-02-67448c52fd89780001e759ca/ /en/blog/alila-villas-uluwatu-luxury-offers/ 301
+/zh-cn/blog/2024-12-02-67448c52fd89780001e759ca/ /zh-cn/blog/alila-villas-uluwatu-luxury-offers/ 301
+/zh-hk/blog/2024-12-02-67448c52fd89780001e759ca/ /zh-hk/blog/alila-villas-uluwatu-luxury-offers/ 301
+
+# 2025-01-11-67821654fd89780001f932b5 → bali-entry-requirements-4-steps-checklist
+/en/blog/2025-01-11-67821654fd89780001f932b5/ /en/blog/bali-entry-requirements-4-steps-checklist/ 301
+/zh-cn/blog/2025-01-11-67821654fd89780001f932b5/ /zh-cn/blog/bali-entry-requirements-4-steps-checklist/ 301
+/zh-hk/blog/2025-01-11-67821654fd89780001f932b5/ /zh-hk/blog/bali-entry-requirements-4-steps-checklist/ 301
+
+# 2025-02-04-67a197ecfd897800015cede5 → bali-family-vacation-package-2026
+/en/blog/2025-02-04-67a197ecfd897800015cede5/ /en/blog/bali-family-vacation-package-2026/ 301
+/zh-cn/blog/2025-02-04-67a197ecfd897800015cede5/ /zh-cn/blog/bali-family-vacation-package-2026/ 301
+/zh-hk/blog/2025-02-04-67a197ecfd897800015cede5/ /zh-hk/blog/bali-family-vacation-package-2026/ 301
+
+# 2025-02-05-65c195e2fd89780001f3bfc2 → taiwan-telecom-bali-roaming-guide
+/en/blog/2025-02-05-65c195e2fd89780001f3bfc2/ /en/blog/taiwan-telecom-bali-roaming-guide/ 301
+/zh-cn/blog/2025-02-05-65c195e2fd89780001f3bfc2/ /zh-cn/blog/taiwan-telecom-bali-roaming-guide/ 301
+/zh-hk/blog/2025-02-05-65c195e2fd89780001f3bfc2/ /zh-hk/blog/taiwan-telecom-bali-roaming-guide/ 301
+
+# 2025-02-14-67adfd54fd89780001bd9591 → bali-family-safari-overnight-adventure
+/en/blog/2025-02-14-67adfd54fd89780001bd9591/ /en/blog/bali-family-safari-overnight-adventure/ 301
+/zh-cn/blog/2025-02-14-67adfd54fd89780001bd9591/ /zh-cn/blog/bali-family-safari-overnight-adventure/ 301
+/zh-hk/blog/2025-02-14-67adfd54fd89780001bd9591/ /zh-hk/blog/bali-family-safari-overnight-adventure/ 301
+
+# 2025-03-19-65faf16bfd89780001d73f8b → bali-private-car-hire-deals
+/en/blog/2025-03-19-65faf16bfd89780001d73f8b/ /en/blog/bali-private-car-hire-deals/ 301
+/zh-cn/blog/2025-03-19-65faf16bfd89780001d73f8b/ /zh-cn/blog/bali-private-car-hire-deals/ 301
+/zh-hk/blog/2025-03-19-65faf16bfd89780001d73f8b/ /zh-hk/blog/bali-private-car-hire-deals/ 301
+
+# 2025-11-02-68e462f6fd897800011f942b → bali-december-rainy-season-travel-guide
+/en/blog/2025-11-02-68e462f6fd897800011f942b/ /en/blog/bali-december-rainy-season-travel-guide/ 301
+/zh-cn/blog/2025-11-02-68e462f6fd897800011f942b/ /zh-cn/blog/bali-december-rainy-season-travel-guide/ 301
+/zh-hk/blog/2025-11-02-68e462f6fd897800011f942b/ /zh-hk/blog/bali-december-rainy-season-travel-guide/ 301
+
+# 2026-04-22-151039 → the-meru-sanur-tatler-award-2026
+/en/blog/2026-04-22-151039/ /en/blog/the-meru-sanur-tatler-award-2026/ 301
+/zh-cn/blog/2026-04-22-151039/ /zh-cn/blog/the-meru-sanur-tatler-award-2026/ 301
+/zh-hk/blog/2026-04-22-151039/ /zh-hk/blog/the-meru-sanur-tatler-award-2026/ 301
+
+# 2026-05-19-122250 → bali-airport-autogate-arrival-guide-2026
+/blog/2026-05-19-122250/ /blog/bali-airport-autogate-arrival-guide-2026/ 301
+/en/blog/2026-05-19-122250/ /en/blog/bali-airport-autogate-arrival-guide-2026/ 301
+/zh-cn/blog/2026-05-19-122250/ /zh-cn/blog/bali-airport-autogate-arrival-guide-2026/ 301
+/zh-hk/blog/2026-05-19-122250/ /zh-hk/blog/bali-airport-autogate-arrival-guide-2026/ 301
 # === auto-generated slug redirects (end) ===
