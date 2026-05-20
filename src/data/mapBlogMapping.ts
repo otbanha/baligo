@@ -246,10 +246,14 @@ export const mapBlogMapping: Record<string, MapBlogLink> = {
   },
 
   "tourist-police": {
-    blogUrl: null,
-    blogTitle: "",
-    teaser: "",
-    anchors: { full: "", verb: "", keyword: "" },
+    blogUrl: "https://gobaligo.id/blog/bali-emergency-guide/",
+    blogTitle: "峇里島緊急求助指南 2026",
+    teaser: "旅遊警察電話、國際醫院、各國代表處，出發前存進手機的救命懶人包",
+    anchors: {
+      full: "峇里島緊急電話與旅遊警察完整指南",
+      verb: "閱讀峇里島緊急求助攻略",
+      keyword: "峇里島旅遊警察指南",
+    },
   },
 
   "hospital": {
