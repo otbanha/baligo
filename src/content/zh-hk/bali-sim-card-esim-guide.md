@@ -15,9 +15,8 @@ tags:
   - 峇里島網路
   - Telkomsel
   - 旅遊必備
-  - 行前準備
 category:
-  - 行前準備
+  - 新手指南
 lang: zh-hk
 _srcHash: 5463b92f38625d70c51bd6272dce8f0e
 ---

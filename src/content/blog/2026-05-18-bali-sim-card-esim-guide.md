@@ -5,7 +5,6 @@ description: 峇里島網路怎麼辦？本文比較 Telkomsel、Airalo、Klook 
 pubDate: 2026-05-20
 pubHour: 8
 category:
-  - 行前準備
   - 新手指南
 tags:
   - 峇里島
@@ -15,7 +14,6 @@ tags:
   - 峇里島網路
   - Telkomsel
   - 旅遊必備
-  - 行前準備
   - 峇里島5G
   - 峇里島4G
   - 峇里島上網方案
