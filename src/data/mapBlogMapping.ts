@@ -19,6 +19,8 @@
 export interface MapBlogLink {
   /** Blog 完整網址。null 表示尚未有對應文章，元件不渲染卡片 */
   blogUrl: string | null;
+  /** 額外對應同一張地圖的 blog 網址（一張地圖多篇文章時使用） */
+  altBlogUrls?: string[];
   /** Blog 文章標題（顯示用） */
   blogTitle: string;
   /** 一句話 teaser，作為卡片副標 */
@@ -170,6 +172,7 @@ export const mapBlogMapping: Record<string, MapBlogLink> = {
 
   "denpasar": {
     blogUrl: "https://gobaligo.id/blog/denpasar-culture-guide/",
+    altBlogUrls: ["https://gobaligo.id/blog/bali-local-badung-market/"],
     blogTitle: "登巴薩在地文化攻略",
     teaser: "峇里島首府，在地市場、傳統美食與文化景點深度玩",
     anchors: {
@@ -338,6 +341,9 @@ export function getMapSlugByBlogUrl(blogUrl: string): string | null {
   const normalized = blogUrl.replace(/\/$/, "");
   for (const [slug, entry] of Object.entries(mapBlogMapping)) {
     if (entry.blogUrl?.replace(/\/$/, "") === normalized) {
+      return slug;
+    }
+    if (entry.altBlogUrls?.some((u) => u.replace(/\/$/, "") === normalized)) {
       return slug;
     }
   }
