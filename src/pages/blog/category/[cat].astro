@@ -65,18 +65,18 @@ const CAT_CONFIG: Record<string, {
     title: '峇里島新手指南 2026｜25篇必看行前攻略 - Go Bali Go',
     description: '第一次去峇里島？完整收錄簽證、換匯、住宿、交通、禁忌等25篇深度攻略。新手不踩雷的峇里島自由行寶典，2026最新版資訊一次看。',
     ogDescription: '第一次去峇里島？完整收錄簽證、換匯、住宿、交通、禁忌等25篇深度攻略。2026最新版資訊。',
-    pillarSlug: '2026-05-17-050259',
+    pillarSlug: 'bali-ultimate-guide-2026',
     pillarText: '讀「2026 峇里島自由行終極指南」→',
     pillarDesc: '26 項行前準備、現地實用知識、真實踩雷經驗與省錢技巧全收錄。一篇看完，新手變老手。',
     introHtml: '第一次去峇里島，你可能會問：簽證怎麼辦？現金帶多少？住哪一區最安全？會不會被詐騙？這裡集結了所有新手最常見的疑問，從出發前 2 個月的準備清單，到抵達後的第一天懶人包。不管你在<strong>水明漾</strong>喝椰子看夕陽、在<strong>烏布</strong>找隱藏瀑布，還是在<strong>長谷</strong>（Canggu）跟衝浪客混在一起，這份<strong>峇里島新手指南</strong>都是你的後盾。',
     groups: [
       {
         emoji: '🛂', name: '簽證與入境',
-        slugs: ['2025-08-14-689dcce7fd8978000125fc52', '2026-02-15-6991b0a7fd8978000189e837'],
+        slugs: ['bali-all-indonesia-arrival-guide', 'bali-travel-guide-2026'],
       },
       {
         emoji: '💰', name: '行前準備',
-        slugs: ['2024-02-01-65b60902fd89780001ec8bb1', '2026-05-17-024144', '2024-01-28-65b5c7e2fd89780001e96fac', '2024-01-06-6598c6fffd89780001047d76'],
+        slugs: ['first-time-bali-travel-tips', 'bali-travel-insurance-guide', 'bali-currency-exchange-guide', '2026-bali-indoor-activities'],
       },
       {
         emoji: '📱', name: '網路與通訊',
@@ -84,19 +84,19 @@ const CAT_CONFIG: Record<string, {
       },
       {
         emoji: '🗺️', name: '行程規劃',
-        slugs: ['2023-12-06-65708c78fd89780001f418c2', '2024-04-09-660b6b68fd897800019c63be', '2026-02-28-69a2ca67fd8978000116d2f0', '2026-02-24-65839fbafd89780001e876b5', '2025-08-16-68a00fc1fd89780001f621c5', '2025-07-09-686e0ee6fd8978000139782d', '2025-04-02-67ecf440fd897800012cb31b', '2024-07-20-669b1d59fd89780001def381'],
+        slugs: ['2026-bali-trip-planning-guide', 'bali-independent-travel-guide', 'bali-weather-festivals-2026', 'bali-accommodation-area-guide', 'bali-hidden-gems-travel-formula', 'bali-snorkeling-spots', 'bali-top-50-outdoor-activities', 'seminyak-day-trip-guide'],
       },
       {
         emoji: '🚖', name: '交通方式',
-        slugs: ['2024-01-12-65a0a163fd8978000115f37a', '2024-10-28-671f108efd89780001d31e6e', 'bali-transport-quiz'],
+        slugs: ['bali-private-car-hire-guide', 'ubud-airport-transport-tips', 'bali-transport-quiz'],
       },
       {
         emoji: '⚠️', name: '安全與禁忌',
-        slugs: ['2024-10-20-6714c06cfd8978000116322a', '2025-05-10-681ec22ffd8978000141bf8f', '2024-06-10-66670c4afd897800019dcac7'],
+        slugs: ['bali-travel-mistakes-tips', 'bali-money-exchange-scams', 'bali-motorbike-safety-guide'],
       },
       {
         emoji: '💡', name: '生活技巧',
-        slugs: ['2025-01-07-672e2c1afd897800014c3fbc', '2026-04-12-050222', '2024-05-07-663a126bfd89780001390b63'],
+        slugs: ['bali-travel-faqs-guide', 'bali-water-filter-tips', 'bali-tipping-guide-driver-spa'],
       },
     ],
   },
@@ -107,16 +107,16 @@ const postMap = new Map(allPosts.map(p => [p.data.slug || p.id, p]));
 
 // ItemList schema（精選 10 篇）
 const top10Slugs = [
-  '2026-05-17-050259',
-  '2024-02-01-65b60902fd89780001ec8bb1',
-  '2025-08-14-689dcce7fd8978000125fc52',
-  '2024-01-28-65b5c7e2fd89780001e96fac',
+  'bali-ultimate-guide-2026',
+  'first-time-bali-travel-tips',
+  'bali-all-indonesia-arrival-guide',
+  'bali-currency-exchange-guide',
   'bali-sim-card-esim-guide',
-  '2024-01-12-65a0a163fd8978000115f37a',
-  '2024-10-20-6714c06cfd8978000116322a',
-  '2025-05-10-681ec22ffd8978000141bf8f',
-  '2025-01-07-672e2c1afd897800014c3fbc',
-  '2026-02-15-6991b0a7fd8978000189e837',
+  'bali-private-car-hire-guide',
+  'bali-travel-mistakes-tips',
+  'bali-money-exchange-scams',
+  'bali-travel-faqs-guide',
+  'bali-travel-guide-2026',
 ];
 
 const canonicalUrl = `https://gobaligo.id/blog/category/${encodeURIComponent(cat)}/`;
