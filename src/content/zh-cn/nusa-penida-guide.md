@@ -1,9 +1,8 @@
 ---
-update: "2026/05/19"
 slug: nusa-penida-guide
 title: 【巴厘岛 - 努沙佩尼达岛全攻略】地图、乘船、住宿、交通、包车、活动、摄影、景点
 description: >-
-  当您在巴厘岛度假时，努沙佩尼达绝对是不容错过的一站。该岛以其美丽的景点和魅力的文化而闻名，为旅客提供了丰富的体验。但是，由于它的相对偏僻，前往努沙佩尼达可能需要进行详细的研究和计划。在本篇文章中，将为您提供从巴厘岛前往努沙佩尼达的旅游指南，并提供最新的信息
+  当您在巴厘岛度假时，努沙佩尼达岛绝对是不容错过的一站。该岛以其美丽的景点和魅力的文化而闻名，为旅客提供了丰富的体验。但是，由于它的相对偏僻，前往努沙佩尼达岛可能需要进行详细的研究和计划。在本篇文章中，将为您提供从巴厘岛前往努沙佩尼达岛的旅游指南，并提供最新的信息
 pubDate: '2023-08-16'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_efc65c3d29b2aad1d70da8ac6ec61dd5.jpg'
 tags:
@@ -14,33 +13,33 @@ originalUrl: 'https://vocus.cc/article/64db6b82fd897800013a9942'
 category:
   - 峇里島分區攻略
 lang: zh-cn
-_srcHash: e468ca2fd602a4d8175ca991aed17335
+_srcHash: 86c2a0de9c7160289150984d75c41791
 ---
 
-当您在巴厘岛度假时，努沙佩尼达绝对是不容错过的一站。该岛以其美丽的景点和魅力的文化而闻名，为旅客提供了丰富的体验。但是，由于它的相对偏僻，前往努沙佩尼达可能需要进行详细的研究和计划。在本篇文章中，将为您提供从巴厘岛前往努沙佩尼达的旅游指南，并提供最新的信息，以帮助您计划您的行程。
+当您在巴厘岛度假时，努沙佩尼达岛绝对是不容错过的一站。该岛以其美丽的景点和魅力的文化而闻名，为旅客提供了丰富的体验。但是，由于它的相对偏僻，前往努沙佩尼达岛可能需要进行详细的研究和计划。在本篇文章中，将为您提供从巴厘岛前往努沙佩尼达岛的旅游指南，并提供最新的信息，以帮助您计划您的行程。
 
-## 佩尼达岛简介
+## 努沙佩尼达岛简介
 
-努沙佩尼达是一个巴厘岛的离岸小岛，从巴厘岛本岛乘船约45分钟左右可抵达。著名的是它天然未开发的原始美景，加上悬崖峭壁、海蚀洞、海滩等奇妙地形，与蔚蓝的海水形成一幅世外桃源的景象！Nusa这个字印尼文就是「island」的意思，因此 Nusa Penida 也被翻译成「佩尼达岛」、「珀尼达岛」，或是直接音译为「努沙佩尼达」
+努沙佩尼达岛是巴厘岛的一个离岸小岛，从巴厘岛本岛乘船约45分钟左右可抵达。著名的是它天然未开发的原始美景，加上悬崖峭壁、海蚀洞、海滩等奇妙地形，与蔚蓝的海水形成一幅世外桃源的景象！Nusa 这个字印尼文就是「island」的意思，因此 Nusa Penida 也被翻译成「佩尼达岛」、「珀尼达岛」，或是直接音译为「努沙佩尼达」
 
-## 佩尼达岛攻略
+## 努沙佩尼达岛攻略
 
-针对佩尼达岛我们共有四集介绍，其他四集这里有传送门：
+针对努沙佩尼达岛我们共有四集介绍，其他四集这里有传送门：
 
-针对佩尼达岛我们共有五集介绍，一起来更深入认识这个海岛天堂！其他四集这里有传送门：
+针对努沙佩尼达岛我们共有五集介绍，一起来更深入认识这个海岛天堂！其他四集这里有传送门：
 
-1. [佩尼达岛美食和碧海蓝天：努沙佩尼达的Top 9绝佳选择](/blog/nusa-penida-best-restaurants/)
-2. [努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/)
-3. [佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
-4. [佩尼达岛的住宿推荐: 13间从奢华到平价的努沙佩尼达好评住宿](/blog/nusa-penida-hotels-guide/)
+1. [努沙佩尼达岛美食和碧海蓝天：Nusa Penida的Top 9绝佳选择](/blog/nusa-penida-best-restaurants/)
+2. [Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/)
+3. [努沙佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
+4. [努沙佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
 
-## 佩尼达岛热门景点
+## 努沙佩尼达岛热门景点
 
 ![佩尼達島攻略地圖](https://images.gobaligo.id/vocus/vocus_fbf1d99b951273c05a8ad34aca271a26.png)
 
 佩尼达岛攻略地图
 
-[点我](/map/nusa-penida/)放大收藏
+[点我](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing)放大收藏
 
 ▼Nusa Penida必游景点 T Rex暴龙头 Kelingking beach
 
@@ -118,7 +117,7 @@ _srcHash: e468ca2fd602a4d8175ca991aed17335
 
 ### **从沙努尔港搭乘前往努沙佩尼达的船是怎样的体验？**
 
-从沙努尔搭乘快艇前往努沙佩尼达一定要事先订好船票，如果没有提前预订票，到达港口后会被「热情」的推销员围住，他们提供了一些非常荒谬的价格。
+从沙努尔搭乘快艇前往努沙佩尼达一定要事先订好船票，如果没有提前预订票，到达港口后会被“热情”的推销员围住，他们提供了一些非常荒谬的价格。
 
 一旦搭上船出发，从沙努尔港到努沙佩尼达需要大约45分钟的时间。旧的“慢艇”不再为游客提供旅行，因为它们有点危险，过去甚至翻船。根据天气及海相，可能是风平浪静的短程搭船体验，也有可能是疯狂的海洋云霄飞车之旅！
 
@@ -126,11 +125,11 @@ _srcHash: e468ca2fd602a4d8175ca991aed17335
 
 巴厘岛前往努沙佩尼达的快艇船通常都有行李限制，最多携带两个行李箱，总重量为30公斤。但是，他们其实并不会秤重您的行李。他们会将其放在甲板上，用大型防水布盖着以避免被溅湿。
 
-如果您想把大件行李寄放在巴厘岛本岛，可以参考：[【出发前往巴厘岛离岛】沙努尔行李存放攻略](/blog/sanur-luggage-storage-guide/)
+如果您想把大件行李寄放在巴厘岛本岛，可以参考：[【出发前往巴厘岛离岛】沙努尔行李寄放攻略](/blog/sanur-luggage-storage-guide/)
 
 ## **住宿推荐**
 
-如果是自行安排旅程的朋友，到达Nusa Penida后可以在多个选择中挑选住宿地点。以下是推荐的三个选择，分别是平价、中价位和豪华住宿。
+如果是自行安排旅程的朋友，到达Nusa Penida后可以在多个选择中选择住宿地点。以下是推荐的三个选择，分别是平价、中价位和豪华住宿。
 
 **豪华住宿：**[**Adiwana Warnakali Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=12145599)
 
@@ -156,7 +155,7 @@ _srcHash: e468ca2fd602a4d8175ca991aed17335
 
 最后有几个注意事项要特别提醒前往佩尼达岛的游客：
 
-1. 可以直接在港口订票，但务必提前一小时到达售票处
+1. 可以直接在港口订票，但务必在开船前一小时到达售票处
 
 2. 事先在[Klook订票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25BD%25A9%25E5%25B0%25BC%25E9%2581%2594%25E5%25B3%25B6%25E8%2588%25B9%25E7%25A5%25A8%26needQueryIdentification%3Dtrue%26spm%3DPOI_Destination.SearchSuggest_LIST%26clickId%3D6473cefd11)有优惠又可以免去排队购票的时间
 
@@ -164,7 +163,7 @@ _srcHash: e468ca2fd602a4d8175ca991aed17335
 
 4. 寄存服务请[参考这里](/blog/sanur-luggage-storage-guide/)
 
-5. Klook购票者开船前至少提前30分钟抵达港口
+5. Klook购票者开船前提早至少30分钟抵达港口
 
 6. Klook购票者最好提前一天以上先订票
 
@@ -185,7 +184,7 @@ _srcHash: e468ca2fd602a4d8175ca991aed17335
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_eb79c635d635478033f16ade1e50b0ed.png)
 
-[点我](/map/nusa-penida/)放大收藏
+[点我](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing)放大收藏
 
 ### 我们还介绍了九家拥有无边泳池、金黄沙滩、夕阳美景的努沙佩尼达美食餐厅
 

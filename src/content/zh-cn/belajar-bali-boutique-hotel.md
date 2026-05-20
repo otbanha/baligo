@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0178fb27de100f76a030d000bd99cedc.jpg'
 originalUrl: 'https://vocus.cc/article/690ae7cafd89780001e08158'
 lang: zh-cn
-_srcHash: 842bbb3c8d2c986ffc42a376eca74822
+_srcHash: 0173b3e3c2254b06940e7b68310dd07e
 ---
 
 Belajar Bali Boutique Hotel & Retreat是坎古（Canggu）区一家相当受好评的精品住宿。若你计划来巴厘岛，而且想找一间设计质感强、服务好、风格有点独特的小型酒店，这里可能会是值得纳入清单的选项。以下就从正面亮点、可能待改进之处，以及我们的建议来聊聊。

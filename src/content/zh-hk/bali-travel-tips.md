@@ -3,7 +3,7 @@ slug: bali-travel-tips
 title: 【峇里島旅遊指南】新手必睇 8 大注意事項：飲水安全、電壓插頭、文化禁忌與防坑建議
 description: >-
   第一次去峇里島？呢份生存指南整理咗 8
-  個出發前必須知道嘅關鍵：包括點樣避免「峇里肚」腹瀉、電壓轉插頭規格、進出廟宇嘅服裝禁忌，以及面對野生猴子嘅安全守則。跟住在地專家建議，等您嘅海島假期又安全、舒適又充滿深度。
+  個出發前必須知道嘅關鍵：包括點樣避免「峇里肚」腹瀉、電壓轉插頭規格、進出廟宇嘅服裝禁忌，同埋面對野生猴子嘅安全守則。跟住在地專家建議，等您嘅海島假期又安全、舒適又充滿深度。
 pubDate: 2025-08-15T00:00:00.000Z
 category:
   - 美食景點活動
@@ -12,10 +12,10 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9fef7339fe14f7635e55eb9eb13f7627.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b7dfd897800013a97bc'
 lang: zh-hk
-_srcHash: da3c9f1df5d376c0cce608e8c98b1f93
+_srcHash: 5a3fb120092993f432b13220b6ff8365
 ---
 
-峇里島旅遊都係一趟美食之旅㗎！您知唔知有邊十大峇里島美食呢？想學一句最地道嘅印尼語嗎？峇里島旅館/villa推薦、峇里島住邊一區好呢？請睇小傑印尼嘅介紹
+峇里島旅遊都係一趟美食之旅㗎！你知唔知有邊十大峇里島美食呢？想學一句最地道嘅印尼語嗎？峇里島旅館/villa推薦、峇里島住邊一區好呢？請睇小傑印尼嘅介紹
 
 https://youtu.be/VuG8s-u_I0Q
 
@@ -24,7 +24,7 @@ https://youtu.be/VuG8s-u_I0Q
 ### 八個必須知道嘅峇里島旅遊注意事項 | 峇里島旅遊指南
 
 - 呢份峇里島旅遊指南提供咗八個必須知道嘅注意事項，包括語言、住宿、電壓、飲用水、文化禁忌、危險動物等。跟住呢啲建議，可以令您嘅旅程更加安全同舒適。
-- 準備去峇里島旅行？請務必先睇睇下面嘅影片:
+- 準備去峇里島旅行？請務必先睇下底下嘅影片:
 
 ## 上面影片中提到嘅連結：
 
@@ -44,7 +44,7 @@ Terima kasih! [多謝]嘅意思
 - 印尼炒麵（mie goreng）
 - 豬肋排（pork ribs）▶[介紹](https://youtu.be/RodQvCZKwD0?t=256)
 - 烤豬飯（babi guling）▶[介紹](https://youtu.be/FphhiUzB7gM?t=177)
-- 脆皮鴨飯（crispy duck）▶[介紹](https://youtu.be/eJ0oL0O5OY8?t=152)
+- 髒鴨飯（crispy duck）▶[介紹](https://youtu.be/eJ0oL0O5OY8?t=152)
 - 羊肉/豬肉沙爹（sate gambing/sate babi）▶[介紹](https://youtu.be/EKJ4-jvhTiU?t=104)
 - 烤粟米（jagung bakar）▶[介紹](https://youtu.be/HKMalFa6zMw?t=254)
 - 炸香蕉（pisang goreng）▶[介紹](https://youtu.be/EKJ4-jvhTiU?t=276)
@@ -67,7 +67,7 @@ Terima kasih! [多謝]嘅意思
 - 『藍鳥』過時啦！而家印尼/峇里島都用手機叫車㗎！（附教學）
 - [旅遊水土不服、上吐下瀉點算？](/blog/bali-travel-health-tips/)
 - 印尼峇里島旅遊必學嘅[一句接地氣短語](/blog/bali-travel-indonesian-phrase/)
-- 一定要隨身攜帶紙巾！點解？[請睇呢度](/blog/bali-toilet-paper-travel-tip/)
+- 一定要隨身帶紙巾！點解？[請睇呢度](/blog/bali-toilet-paper-travel-tip/)
 - 印尼/峇里島嘅旅遊禁忌！[千祈唔好掂佢](/blog/bali-drug-laws-warning/)
 - [峇里島住邊一區最好？邊一區最唔好？](/blog/kuta-bali-accommodation-pros-cons/)
 - 峇里島最可怕嘅動物，唔係獅子老虎，[竟然係「佢」](/blog/bali-monkey-safety-tips/)

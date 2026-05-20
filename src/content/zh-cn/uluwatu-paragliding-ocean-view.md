@@ -15,9 +15,8 @@ originalUrl: 'https://vocus.cc/article/6814aa9efd89780001f68acc'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 9b01e3f8dee6a5080e63e6320285020a
+_srcHash: cdfbcb8246e85c326153f1307a1d5795
 ---
-
 一直以来，我都是个连过山车都不敢坐的胆小鬼。每次看到别人在高空中的照片，总是既羡慕又害怕。这次来到巴厘岛，我终于鼓起勇气，决定挑战人生第一次滑翔翼体验！说真的，在预订时我的手还在发抖，脑海里不断浮现各种可怕的画面：会不会突然掉下来？要是风太大怎么办？但现在回想起来，这些担心完全是多余的～
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cc96f660086124cb45fc31d80b083263.jpg)

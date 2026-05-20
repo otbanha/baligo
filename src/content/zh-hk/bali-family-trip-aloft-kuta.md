@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66266976fd89780001598b10'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 7b1564837258b0baa7139405dd90c076
+_srcHash: 93612c4fc05b9a7ebb7af3d84903e7dc
 ---
 
 【峇里島遊記】我哋一家四口，兩大兩細，峇里島前兩晚嘅住宿
@@ -28,7 +28,7 @@ _srcHash: 7b1564837258b0baa7139405dd90c076
 > 原文刊登喺「[峇里島/印尼吃喝玩樂 Indonesia, Bali Travel Guide](https://www.facebook.com/groups/indonesia.travelguide)」Facebook群組  
 > 取自群組，喺度回饋俾群組
 
-☀️《峇里島/庫塔》✈️懶人旅遊最愛 睇夕陽🌇 食晚餐🍽 買補給🧃 - 《Beachwalk購物中心》
+☀️《峇里島/庫塔》✈️懶人旅遊嘅最愛 睇夕陽🌇 食晚餐🍽 買補給🧃 - 《Beachwalk購物中心》
 
 ## 住喺庫塔嘅原因
 
@@ -36,14 +36,14 @@ _srcHash: 7b1564837258b0baa7139405dd90c076
 
 1. 因為離機場最近，落機冇耐就可以即刻放鬆。考慮到我哋帶住兩個細路旅行，選擇住喺離機場最近嘅庫塔，可以最大程度減少長途飛行後嘅疲勞，等全家可以盡快放鬆身心，開始享受峇里島嘅美好。
 2. 配合我哋第二日去金巴蘭、烏魯瓦圖嘅行程。庫塔地理位置優越，唔單止離機場近，而且方便去峇里島其他景點，例如金巴蘭同烏魯瓦圖。我哋計劃第二日去呢兩個地方，所以選擇喺庫塔住宿，可以節省交通時間，等我哋更多享受旅程中嘅美好時光。
-3. 我哋係第一次嚟峇里島，想睇吓峇里島最熱鬧嘅地方。庫塔係峇里島最熱鬧嘅地區，擁有繁華嘅街道、多樣嘅餐飲同購物選擇，同埋壯觀嘅海灘。作為第一次嚟峇里島嘅我哋，想喺庫塔感受到峇里島嘅熱情同活力，體驗當地嘅文化同風情。
-4. 聽聞Kuta海灘最適合學滑浪，我屋企兩個男仔想挑戰滑浪。Kuta海灘係峇里島最出名嘅滑浪勝地之一，擁有適合初學者嘅海浪同寬闊嘅沙灘，非常適合想體驗滑浪樂趣嘅細路。我哋希望可以喺Kuta海灘上見證兩個男仔挑戰滑浪嘅勇氣同努力，同佢哋一齊享受海灘嘅快樂時光。
+3. 我哋係第一次嚟峇里島，想睇下峇里島最熱鬧嘅地方。庫塔係峇里島最熱鬧嘅地區，擁有繁華嘅街道、多樣嘅餐飲同購物選擇，同埋壯觀嘅海灘。作為第一次嚟峇里島嘅我哋，想喺庫塔感受到峇里島嘅熱情同活力，體驗當地嘅文化同風情。
+4. 聽聞Kuta海灘最適合學滑浪，我哋兩個細路想挑戰滑浪。Kuta海灘係峇里島最出名嘅滑浪勝地之一，擁有適合初學者嘅海浪同寬闊嘅沙灘，非常適合想體驗滑浪樂趣嘅細路。我哋希望可以喺Kuta海灘上見證兩個細路挑戰滑浪嘅勇氣同努力，同佢哋一齊享受海灘嘅快樂時光。
 
 考慮咗呢四點因素後，我哋決定喺庫塔度過峇里島嘅第一日，並喺《Beachwalk購物中心》附近搵到一間舒適嘅酒店，開始我哋嘅峇里島之旅。
 
 ## 庫塔住宿嘅選擇
 
-🔅「Aloft Kuta」酒店緊鄰《Beachwalk購物中心》，👣行出酒店，一秒就到購物中心，好適合懶人旅遊👏👏👏。酒店嘅位置實在太方便，唔單止近購物中心，而且行路就可以到海灘，再加上有兩張大床嘅房型適合我哋一家四口，真係一個理想嘅住宿地點。
+🔅「Aloft Kuta」酒店緊鄰《Beachwalk購物中心》，👣行出酒店，一秒就到購物中心，好適合懶人旅遊👏👏👏。酒店嘅位置實在太方便，唔單止近購物中心，而且行路就可以到海灘，再加上有兩大床嘅房型啱晒我哋一家四口，真係一個理想嘅住宿地點。
 
 ![Aloft Kuta的兩張雙人床房型，還有一個mini bar](https://images.gobaligo.id/vocus/vocus_6e359061036f79c2af412fafb79e2cb4.jpg)
 
@@ -53,19 +53,19 @@ Aloft Kuta嘅兩張雙人床房型，仲有一個mini bar
 
 ## Aloft Bali Kuta係萬豪新酒店
 
-奔波嘅首日搭機日，為咗符合我哋一家人「悠閒渡假」宗旨，唔適合拉車趕行程，離機場15-20分鐘嘅庫塔區，好適合！
+奔波嘅首日搭機日，為咗符合我哋一家人「悠閒渡假」宗旨，唔適合拉車趕行程，離機場15-20分鐘嘅庫塔區，好啱！
 
-坐落喺購物廣場「Beachwalk Shopping Center」內，2022.04開幕嘅《Aloft Kuta》係萬豪旗下嘅年輕品牌，設計風格簡單舒適，價位相對親民唔少，保有萬豪一定品質，服務親切唔在講，整體設施新穎，感受就係好（爽），雖然臨近購物中心，但出入皆需通關X光門，安全有保障。總樓層只有三層《Aloft Kuta》，每層樓房間數頗多，位於深處嘅房間，雖冇Kuta海邊大街嘅熱鬧，但相對安靜唔少，一夜好眠雙床房嘅房型
+座落喺購物廣場「Beachwalk Shopping Center」內，2022.04開幕嘅《Aloft Kuta》係萬豪旗下嘅年輕品牌，設計風格簡單舒適，價位相對親民唔少保有萬豪一定品質，服務親切唔在講，整體設施新穎，感受就係好（爽），雖然臨近購物中心，但出入皆需通關X光門，安全有保障。總樓層只有三層《Aloft Kuta》，每層樓房間數頗多，位於深處嘅房間，雖然冇Kuta海邊大街嘅熱鬧，但相對安靜唔少，一夜好眠雙床房嘅房型
 
 ![「Let's Play and Eat 胡志明市」現場實拍](https://images.gobaligo.id/vocus/vocus_e310dd9b549bdb012b4b52ba5e812f36.jpg)
 
 「Let's Play and Eat 胡志明市」現場實拍
 
-房型設計有小沙發區、陽台區、乾濕分離嘅浴室，整體表現滿意到唔得! 早餐餐廳空間明亮舒適，落地窗透出無限陽光，早餐雖然選擇唔算多，但西式同峇里島風味嘅早餐都有提供，精緻美味，整體氛圍非常鍾意！
+房型設計有小沙發區、陽台區、乾濕分離嘅浴室，整體表現滿意到唔得！早餐餐廳空間明亮舒適，落地窗透出無限陽光，早餐雖然選擇唔算多，但西式同峇里島風味嘅早餐都有提供，精緻美味，整體氛圍非常鍾意！
 
-泳池嘅氛圍都好翠綠，四周樹木環繞，清晰感無限。我哋喺呢度住咗兩晚，可惜一日朝早陰雨綿綿，另一日朝早我哋要留畀衝浪，因為酒店對面正係世界聞名嘅（初學者）衝浪勝地「Kuta Beach」，冇唔造訪嘅道理!
+泳池嘅氛圍都好翠綠，四周樹木環繞，清晰感無限。我哋喺呢度住咗兩晚，可惜一日朝早陰雨綿綿，另一日朝早我哋要留畀衝浪，因為酒店對面正係世界聞名嘅（初學者）衝浪勝地「Kuta Beach」，冇唔造訪嘅道理！
 
-最靚嘅風景係人，喺《Aloft Kuta》隨手可及，整體服務只能畀滿分，度假唔正係需要咁樣？
+最靚嘅風景係人，喺《Aloft Kuta》隨手可得，整體服務只可以俾滿分，渡假唔正正需要咁樣？
 
 ▶[Aloft Kuta訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) ▶[Trip.com訂房](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=72291150&checkIn=2025-07-31&checkOut=2025-08-01&adult=2&children=0&subStamp=726&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-P6xMjFJMEkxMTBKPWckePt8i9_WYUYjQw4LT4JOhqDgG-ng2f_oa8aMXP7HAJ4Ghltua4vLqj1cJjEGMXJAARCIo6OgiBGTai9o5I4x9SWPRYCjYwSf_uXrmZUYLTYLx7EEMWgpMbRerBfQ6AcKLJX1BFmiCeMAVTDwrH1FZsTK8eSCx2MMxjPLdujtJGxECTvkOqwg5HpBOOErwULmO59eqqyiwmi6hATC8eU2-KnmBguMTHcYmJ4xMTwionhExPYpF9QRU3MDF3MDJOYwUpnMTMsYmaQ4jUxNzQztDSyNDBPTTRXENI4827VETYjaw6gg7UE40M8PV0MSwpTzQpLLXOKCkwNGCcxMnl4n2KUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYqwYpZidPNgDGIzdHExN7CM0uJi9nQJEuSpjemtX2djLwXiKcJ4WiCeIYyXxFqVoevhnfFYqICxi5FDgNGDMYKxgvEVI0jVD3BIAABb4vdVpwEAAA&subChannel=&masterhotelid_tracelogid=4716192907ea7&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&barcurr=IDR&locale=zh-HK&Allianceid=6817581&SID=242041353&trip_sub1=&trip_sub3=D4662646)
 
@@ -73,13 +73,13 @@ Aloft Kuta嘅兩張雙人床房型，仲有一個mini bar
 
 我哋 Day 1 嘅行程如下：
 
-包車司機帶我哋換錢、辦網卡 > 食1蚊美金乾麵
+包車司機帶我哋唱錢、辦網卡 > 食1蚊美金乾麵
 
 ![「Let's Play and Eat 胡志明市」現場實拍](https://images.gobaligo.id/vocus/vocus_a545704b3701a2bc9d85ab8e295be33f.jpg)
 
 「Let's Play and Eat 胡志明市」現場實拍
 
-check-in > Beachwalk shopping 3F 睇夕陽 > 食小傑介紹嘅烤豬飯Warung Babi Guling Bu Dayu Kencani
+check-in > Beachwalk shopping 3F 睇日落 > 食小傑介紹嘅烤豬飯Warung Babi Guling Bu Dayu Kencani
 
 ![「Let's Play and Eat 胡志明市」現場實拍](https://images.gobaligo.id/vocus/vocus_ee38c53b15a098641e3fe13554b38a16.jpg)
 
@@ -91,19 +91,19 @@ check-in > Beachwalk shopping 3F 睇夕陽 > 食小傑介紹嘅烤豬飯Warung B
 
 ## 雜記&心得
 
-✖️唔想舟車勞頓去金巴蘭睇日落，只要行去隔離，🈯️ 跟住《Beachwalk Shopping》嘅指標《✨sunset deck（日落觀景台）✨》行，就可以「免費」享受仙境般嘅峇里島日落🥳🥳🥳。呢個係旅行中嘅意外驚喜，可以喺購物中心附近就欣賞到咁靚嘅日落，真係令人心情愉悅。
+✖️唔想舟車勞頓去金巴蘭睇日落，只要行去隔離，🈯️ 跟住《Beachwalk Shopping》嘅《✨sunset deck（日落觀景台）✨》行，就可以「免費」享受仙境般嘅峇里島日落🥳🥳🥳。呢個係旅行中意外嘅驚喜，可以喺購物中心附近就欣賞到咁靚嘅日落，真係令人心情愉悅。
 
 ![「Let's Play and Eat 胡志明市」現場實拍](https://images.gobaligo.id/vocus/vocus_7442b03d0a7e21248397c17556f37d93.jpg)
 
 「Let's Play and Eat 胡志明市」現場實拍
 
-🍽《日落觀景台》兩邊有餐廳，原本諗住喺左邊「Mr. Wayan, by the sea」飲杯嘢，享受日落🍸，可惜好位都俾人訂咗，索性就喺「日落觀景台」隨意行下👀。即使冇成功搵到理想嘅座位，但喺日落下散步，感受大自然嘅美好都係一種享受。
+🍽《日落觀景台》兩邊有餐廳，原本打算喺左邊「Mr. Wayan, by the sea」飲杯嘢，享受日落🍸，可惜好位都俾人訂咗，索性就喺「日落觀景台」隨意行下👀。即使冇成功搵到理想嘅座位，但喺日落下散步，感受大自然嘅美好都係一種享受。
 
-🍴右邊嘅餐廳「Raa Cha Suki & BBQ Beachwalk」，感覺戶外位仲正，更加近海邊，有興趣記住要訂位！📲。下次有機會，我一定要提早預訂個位，喺海邊享受美食同日落嘅絕妙組合。
+🍴右邊嘅餐廳「Raa Cha Suki & BBQ Beachwalk」，感覺戶外位更加正，更加近海邊，有興趣記住要訂位！📲。下次有機會，我一定要提早預訂一個位，喺海邊享受美食同日落嘅絕妙組合。
 
-🌠傍晚嘅「日落觀景台」，🎵仲有輕音樂相伴，日落、美景、好時光😊。喺音樂嘅陪伴下，睇住日落西下，呢個係一個令人感到無比愉悅嘅時刻，讓人心曠神怡。
+🌠傍晚嘅「日落觀景台」，🎵仲有輕音樂陪伴，日落、美景、好時光😊。喺音樂嘅陪伴下，睇住日落西下，呢個係一個令人感到無比愉悅嘅時刻，讓人心曠神怡。
 
-👀峇里島無限大，可惜道路窄小，單線道好易塞車🚘，如果真係懶得出門搵食，《Beachwalk購物中心》就係解決肚餓需求嘅大幫手💪。呢度唔單止有豐富嘅餐飲選擇，仲有各種零食同手信可以揀，真係方便又抵食。
+👀峇里島無限大，可惜道路窄，單線道容易塞車🚘，如果真係懶得出門搵食，《Beachwalk購物中心》就係解決肚餓需求嘅大幫手💪。呢度唔單止有豐富嘅餐飲選擇，仲有各種零食同手信可以揀，真係方便又抵食。
 
 🔹1F : 佔地巨大嘅糖果天地🍭「Candylicious」，五顏六色、五彩繽紛，係傳說中小朋友嘅天堂🫧（造訪）。小朋友對於呢個糖果天地愛不釋手，佢哋喺度度過咗一個快樂嘅時光，我都感受到佢哋嘅快樂。
 
@@ -111,11 +111,11 @@ check-in > Beachwalk shopping 3F 睇夕陽 > 食小傑介紹嘅烤豬飯Warung B
 
 🔹3F : 「MM Juice🍹」，網友推薦果汁好飲，但餐點難食（無造訪）。雖然聽講呢度嘅果汁好正，但我哋揀咗其他餐廳，可能下次有機會再嚟試下。
 
-🔹3F : 「髒鴨餐廳Bebek Tepi Sawah」🦆，好適合想品嚐峇里島美食，但時間唔夠嘅你（無造訪）。雖然冇試到呢間餐廳嘅美食，但聽講呢度嘅菜式非常地道，下次嚟峇里島一定要好好品嚐。
+🔹3F : 「髒鴨餐廳Bebek Tepi Sawah」🦆，好適合想品嚐峇里島美食，時間唔夠嘅你（無造訪）。雖然冇品嘗到呢間餐廳嘅美食，但聽講呢度嘅菜式非常地道，下次嚟峇里島一定要好好品嚐。
 
 > [髒鴨餐廳Bebek Tepi Sawah用餐體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=846658&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Dd58d574cb7)
 
-🔹地下超市Foodmart Supermarket : 可以輕鬆補給零食飲料🧃🍪同埋部分手信（造訪）。喺呢間超市入面，我哋買咗好多必需品同紀念品，令我哋嘅旅程更加方便同豐富。
+🔹地庫超市Foodmart Supermarket : 可以輕鬆補給零食飲料🧃🍪同部分手信（造訪）。喺呢間超市入面，我哋買到好多必需品同紀念品，令我哋嘅旅程更加方便同豐富。
 
 ![「Let's Play and Eat 胡志明市」現場實拍](https://images.gobaligo.id/vocus/vocus_28f00347d27fbaaa7ffd1e09685145a4.jpg)
 
@@ -125,23 +125,23 @@ check-in > Beachwalk shopping 3F 睇夕陽 > 食小傑介紹嘅烤豬飯Warung B
 
 「Let's Play and Eat 胡志明市」買嘅自用、手信
 
-🗓接連六、日兩晚，《Beachwalk購物中心》1F大廣場都有live現場演唱🎙，渡假氣氛非常濃厚。呢啲演唱活動令購物中心充滿咗歡樂同活力，我哋喺度度過咗一個愉快嘅夜晚，同當地嘅音樂同文化深度融合，令我哋嘅旅程更加豐富多彩。
+🗓連續六、日兩晚，《Beachwalk購物中心》1F大廣場都有live現場演唱🎙，渡假氣氛非常濃厚。咁樣嘅演唱活動令購物中心充滿咗歡樂同活力，我哋喺呢度度過咗一個愉快嘅夜晚，同當地嘅音樂同文化深度融合，令我哋嘅旅程更加豐富多彩。
 
-我哋參考咗「小傑 印尼」嘅介紹，有興趣嚟呢度行吓嘅朋友可以睇吓下面條片：
+我哋參考咗「小傑 印尼」嘅介紹，有興趣到呢度行吓嘅朋友可以睇吓下面條片：
 
 ### 
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_21d540de87f478b39fd7f1dee26b368a.jpg)
 
-想了解更多庫塔攻略？[請點擊這裡](/blog/2023-12-13-657598bdfd8978000120fe20/)
+想了解更多庫塔攻略？[請點擊呢度](/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ## 峇里島包車司機推薦
 
-✨好司機帶你上天堂☁️ 食當地🍽 睇美景📸 兼導遊📚 峇里島司機推推 👍
+✨好司機帶你上天堂☁️ 食當地🍽 去美景📸 兼導遊📚 峇里島司機推推 👍
 
 📋峇里島之旅嚟得太突然，📸景點同景點之間嘅交通，💭原本諗住請入住酒店幫手就得，點知出發前一星期，受到「[峇里島/印尼吃喝玩樂 Indonesia, Bali Travel Guide](https://www.facebook.com/groups/indonesia.travelguide)」Facebook群組管理員嘅幫忙💪，獲得踏上天堂嘅機會
 
-🏡住喺庫塔附近嘅Gede，返家鄉工作之前，🇺🇸係喺美國大型郵輪上做嘢，所以英文溝通完全冇問題👍 👨‍👩‍👧‍👧加上Gede屋企有8、10歲女同6歲仔，對待小朋友極度有耐心💗，對於家庭出遊好似我哋咁，幫助好大🙇‍♀️
+🏡住喺庫塔附近嘅Gede，返家鄉工作之前，🇺🇸係喺美國大型郵輪上服務，所以英文溝通完全冇問題👍 👨‍👩‍👧‍👧加上Gede屋企有8、10歲女同6歲仔，對待小朋友極度有耐心💗，對於家庭出遊好似我哋咁，幫助良多🙇‍♀️
 
 ![「Let's Play and Eat 胡志明市」臉書截圖](https://images.gobaligo.id/vocus/vocus_df99528177676662528333873376051e.png)
 
@@ -163,25 +163,25 @@ check-in > Beachwalk shopping 3F 睇夕陽 > 食小傑介紹嘅烤豬飯Warung B
 
 🔹落機三步驟，幫你搞掂晒：✈️接機、📲去當地舖頭買上網SIM卡、💵換錢（正規唔會呃錢嘅exchange center）
 
-🔹搶錢景點，會勸你唔好去❌（Gede唔收回佣，所以一啲熱門景點，會唔准佢陪客人入去） 🔆部分景點Gede會陪住入去（部分景點，當地人免門票🎫），充當隨行導遊，講解景區歷史/故事🔊 🌇呢次去烏魯瓦度神廟/斷崖/睇日落，Gede全程跟住我哋，📸幫我哋影相之外，🐒仲驚我哋啲嘢俾馬騮搶走，👀成日睇實周圍
+🔹搶錢景點，會勸你唔好去❌（Gede唔收回佣，所以一啲熱門景點，會唔准佢陪客人入去） 🔆部分景點Gede會陪你入去（部分景點，當地人免門票🎫），做埋導遊，講解景區歷史/故事🔊 🌇今次去烏魯瓦度神廟/斷崖/睇日落，Gede全程跟住我哋，📸幫手影相之外，🐒仲驚我哋啲嘢俾馬騮搶走，👀成日睇實周圍
 
-⚠️記住！做個稱職嘅旅客，Gede係包車司機，✖️唔係隨行導遊，如果佢冇陪住入景區，好合理，唔好過份要求，將心比心🫰 🔎呢次旅程，從來冇要求Gede一定要陪住參觀+喺旁邊講解，一切順其自然，有多餘嘅陪伴，我哋多謝❤️，冇嘅，合理正常
+⚠️記住！做個稱職嘅旅客，Gede係包車司機，✖️唔係隨行導遊，如果佢冇陪你入景區，好正常，唔好過份要求，將心比心🫰 🔎今次旅程，我哋從來冇要求Gede一定要陪住參觀+講解，一切順其自然，有多餘嘅陪伴，我哋多謝❤️，冇嘅，都好正常
 
-🍽至於食飯/下午茶/景觀咖啡☕️，遊客如你同我會去嘅地方，💰消費都唔會太低，🚘基本上Gede帶你到咗地點之後，就會離開，等通知📲 👦🏻對於收入唔多嘅Gede，呢啲地方都係天價消費💸，同Gede相處如朋友咁融洽嘅我哋，更鍾意邀請Gede一齊去（Gede成日會拒絕一齊入餐廳，話自己已經食飽😑，間中一齊飲嘢，都係揀最平嘅😑）
+🍽至於食飯/下午茶/景觀咖啡☕️，遊客如你同我都會去嘅地方，💰消費都唔會平，🚘基本上Gede帶你到目的地後，就會離開，等通知📲 👦🏻對於收入唔多嘅Gede，呢啲地方都係天價消費💸，同Gede相處好似朋友咁和諧嘅我哋，更鍾意邀請Gede一齊（Gede成日會拒絕一齊入餐廳，話自己食飽咗😑，有時一齊飲嘢，都係揀最平嘅😑）
 
 📍Gede收費標準（2024）💰 ➰Full day 600,000IDR（10h) ➰Half day 400,000IDR (5h) ➰「偏遠嘅地方」： Kintamani 650.000IDR (10h) Lempuyang 800.000IDR (10h) Bedugul 650.000IDR (10h)
 
-➰ 價錢包埋停車費、汽油、車 ➰ 唔包部分地區嘅入村費
+➰ 價錢包埋泊車費、汽油、車 ➰ 唔包部分地區嘅入村費
 
-🔊原本計劃透過每間酒店，安排下一段交通，資料收集齊全，ℹ️一齊將資訊畀Gede，就知Gede真係CP值爆高💥
+🔊原本計劃透過每間酒店，安排下一段交通，資料收集齊全，ℹ️一齊將資訊俾Gede，就知Gede真係CP值爆高💥
 
 **📍聯絡資料幫你放呢邊：**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cfd36517ed8ca2fc9f81c8f6f8a3ced5.png)
 
-🚘好司機帶你上天堂，旅行冇煩惱，峇里島GO🥳🥳🥳🥳
+🚘好司機帶你上天堂，旅遊冇煩惱，峇里島GO🥳🥳🥳🥳
 
-PS 🇮🇩印尼係個收小費嘅國家，請大家唔好吝嗇多畀啲小費，✨因為Gede，佢值得！✨（一日包車嘅小費為消費嘅10%好基本，如果你好滿意同有能力，都可以畀20%～30%，我代Gede多謝你🙏）
+PS 🇮🇩印尼係個收小費嘅國家，請大家唔好吝嗇多俾啲小費，✨因為Gede，佢值得！✨（一日包車嘅小費為消費嘅10%好基本，如果你好滿意同埋有能力，都可以俾20%～30%，我代Gede多謝你🙏）
 
 ## 下集待續
 
@@ -189,7 +189,7 @@ PS 🇮🇩印尼係個收小費嘅國家，請大家唔好吝嗇多畀啲小費
 
 連載已完結：
 
-- [**Day 1: 住喺shopping mall入面！兩大兩細嘅親子住宿安排**](/blog/bali-family-trip-aloft-kuta/)
+- [**Day 1: 住喺shopping mall入面！兩大兩小嘅親子住宿安排**](/blog/bali-family-trip-aloft-kuta/)
 - [**Day 2: GWK神鷹廣場、烏魯瓦圖免費海灘俱樂部、烏魯瓦圖廟、烏魯瓦圖火舞**](/blog/bali-family-trip-gwk-beach-club/)
 - [**Day 3-7: 五日烏布：美食、景點、住宿、火山探索推薦**](/blog/bali-family-trip-ubud-guide/)
 - [**Day 8: Bali Safari 要點玩樂、夜宿攻略**](/blog/bali-safari-night-stay/)

@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e369e6351905ce7e76db2352f23292c8.png'
 originalUrl: 'https://vocus.cc/article/689db40ffd89780001eb2f3e'
 lang: zh-cn
-_srcHash: c97a0e92f52292dcfaa9a98dddf28376
+_srcHash: 3b9aef3b5405d45f9998e44876285459
 ---
 
 ### 印尼入境新措施🇮🇩 重要通知！2025/8/18起全面改用「All Indonesia」单一申报系统
@@ -66,7 +66,7 @@ _srcHash: c97a0e92f52292dcfaa9a98dddf28376
 
 ### **❓ 不想办电子签证？落地签在哪里办？准备哪些文件**？
 
-没有事先填写​申请电子签证者，下飞机后，请立即前往Visa on Arrival柜台排队办理。准备好：
+没有事先填写申请电子签证者，下飞机后，请立即前往Visa on Arrival柜台排队办理。准备好：
 
 1. 六个月以上有效护照
 2. 护照至少有一整页的空白以便盖章
@@ -136,7 +136,7 @@ Place of Birth（出生地） 和 Date of Birth (出生日期） 必须和护照
 
 一旦您的 eVOA 签证核发，您需在 **90 天内** 使用，也就是说，您必须在签证核发日(issue date)的 90 天内入境印尼。若超过此期限未入境，该签证将自动失效，无法使用。
 
-如果需要填写入境日期（arrival date）不要填错成离境日期
+若需要填写入境日期（arrival date）不要填错成离境日期
 
 ### **❓ Date of Issue怎么自动变成申请日的日期?**
 
@@ -159,7 +159,7 @@ Place of Birth（出生地） 和 Date of Birth (出生日期） 必须和护照
 
 观光签证入境后的有效期限为30天，可在当地移民局或[线上申请延长](/blog/2024-bali-visa-extension/)一次，最多居留60天。
 
-若逾期每天罚款1,000,000印尼盾，并被视为非法居留，可能面临收押、驱逐出境、特定期限不能入境印尼等惩罚。
+若逾期每天罚款1,000,000印尼盾，并被视作非法居留，可能面临收押、驱逐出境、特定期限不能入境印尼等惩罚。
 
 ***
 
@@ -167,9 +167,9 @@ Place of Birth（出生地） 和 Date of Birth (出生日期） 必须和护照
 
 ### **❓ 多久前才可以申请** [All Indonesia](https://allindonesia.imigrasi.go.id/) ？
 
-因为现在整合了健康声明，需要回报最新的状况，因此搭机前三天才可以填写。
+因为现在整合了健康声明，需要汇报最新的状况，因此搭机前三天才可以填写。
 
-### **❓ 入境那些机场可以使用** [All Indonesia](https://allindonesia.imigrasi.go.id/) ？
+### **❓ 入境哪些机场可以使用** [All Indonesia](https://allindonesia.imigrasi.go.id/) ？
 
 雅加达苏卡诺哈达( Soekarno-Hatta )、泗水朱安达(Juanda)及巴厘岛伍拉赖(Ngurah Rai)等3处国际机场可以用「All Indonesia」一站申请，入境其他机场请分开填写**电子签证eVisa**、**报关eCD**、及**健康声明SSHP**（填写说明请看[链接](/blog/bali-entry-requirements/)）
 
@@ -179,7 +179,7 @@ Place of Birth（出生地） 和 Date of Birth (出生日期） 必须和护照
 
 ### **❓ 可以为家人/同行团体代办申请吗？**
 
-✅ 可以！只需在一份申请表内填写每位家庭/同行成员的资料即可。每组最多限 **10人**。超过10人团体请再填一份。
+✅ 可以！只需在一份申请书中填写每位家庭/同行成员的资料即可。每组最多限 **10人**。超过10人团体请再填一份。
 
 1. **印尼公民**（持印尼护照入境）与**外国旅客**（持外国护照入境）须分开申报
 
@@ -228,6 +228,6 @@ Place of Birth（出生地） 和 Date of Birth (出生日期） 必须和护照
 
 ### **联系客服**
 
-📞 通过应用程序内「帮助」功能
+📞 通过应用程序内“帮助”功能
 
 {{block:換匯}}

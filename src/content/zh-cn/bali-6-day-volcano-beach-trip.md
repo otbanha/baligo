@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66284452fd89780001867c6a'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 70d8d9ed9ab1f5597ce9b70ae906fe6f
+_srcHash: 881f62f89cc9f1f10d2501b279623a96
 ---
 
 我们的脸书社团团友[戴妤珊](https://www.facebook.com/100002382562993/)跟朋友的六天五夜游记，特此提供给我们编辑/转载：
@@ -41,7 +41,7 @@ _srcHash: 70d8d9ed9ab1f5597ce9b70ae906fe6f
 
 **Komang Sucika联系方式：**
 
-Line：crunchiebalitour / IG：crunchie_bali_tour
+Line：crunchiebalitour / IG：crunchie\_bali\_tour
 
 > 巴厘岛要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？[请看这里](https://youtu.be/B_oT905RkQw)
 
@@ -61,7 +61,7 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 戴妤珊提供
 
-- 晚餐：La Brisa Bali 风景超美！真的推荐你们来这里度过一个悠闲的傍晚!
+- 晚餐：La Brisa Bali 风景超美！真的推荐你们来这里度过一个悠闲的傍晚！
 
 视频由戴妤珊提供
 
@@ -145,7 +145,7 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 ## 第五天（努沙佩尼达）：
 
-- 佩尼达岛跳岛一日游
+- 努沙佩尼达岛跳岛一日游
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_d2796b29117cd8583b9175a53996bfd9.jpg)
 
@@ -163,20 +163,20 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 戴妤珊提供
 
-- Suluban 海滩（美丽的沙滩！）
+- Suluban海滩（美丽的沙滩！）
 
 看小杰的视频介绍
 
 - 按摩：The Calma Spa Bali
 - 购物：Bali Banana（买伴手礼）
 
-这次的旅程让我们收获满满，如果你正计划着巴厘岛之旅，不妨参考一下我的行程哦！
+这次的旅程让我们收获满满，如果你正计划着巴厘岛之旅，不妨参考一下我的行程喔！
 
 ## 【巴厘岛包车司机推荐 Part 2】
 
 在这次巴厘岛之旅中，我们遇到了第二位司机Odon。在社团里，有许多人都极力推荐他，而我选择他的原因是因为我计划在第四天前往Rock bar，而听说他能帮忙订位。这一点吸引了我，于是后三天我们决定选择了他的包车服务。
 
-Odon在Rock bar表现得非常出色！他可以帮助我们通过员工通道，并且有权选择座位（这点非常重要！），而且不需要低消，甚至可以选择已被预订的座位。我强烈建议想去Rock bar的人一定要选择他的包车服务，因为一般游客要排长队才能进入，只有住在Rock bar所在饭店的客人才能预订。
+Odon在Rock bar表现得非常出色！他可以帮助我们通过员工通道，并且有权选择座位（这点非常重要！），而且不需要最低消费，甚至可以选择已被预订的座位。我强烈建议想去Rock bar的人一定要选择他的包车服务，因为一般游客要排长队才能进入，只有住在Rock bar所在酒店的客人才能预订。
 
 Odon给人的感觉与前一位司机完全不同。他给人的感觉就像是一个好朋友，非常热情友好，而且非常风趣幽默。他的英文非常口语易懂，而且乐于推荐餐厅和按摩店。
 

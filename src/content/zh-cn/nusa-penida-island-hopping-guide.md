@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65b51f59fd89780001e498d4'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 7111ea850f3c32a707777cd74dc0409e
+_srcHash: 109bafa8dd92c0c3f6fc9d999a52dbfc
 ---
 
 这是我们社团网友「[Sophie](https://www.facebook.com/soficia.chen)」在巴厘岛度过的六天精彩自由行程！有许多参考了「[小杰印尼](https://www.youtube.com/@j_indonesia)」的视频和我们「巴厘岛旅游攻略」的精彩攻略的组合。让我们一起看看这段她自己安排的充满冒险和探索旅程吧！
@@ -28,12 +28,12 @@ Sophie的六天巴厘岛自由行游记分享
 
 结束巴厘岛旅程，一定要大推的是在社团做功课的时候，看到好几个朋友推荐的[Bali Holiday](https://www.facebook.com/groups/131689774044943/user/100003073009455/?__cft__[0]=AZWUDONagxVm7JsgBm2WdhepW0eDJiHh-LlIlNmNsEyC1lsnYFIKmLhjW-L-dK3uep2FUOdV2Y553XdF4z2WnX1k8eyJyd8Ouf5JRmESHhsC5boGW6fJPlGjg_COtPspoB05AWGk3y6ko91B-ULJE0SeoXJWjk9hPkVl-AQZ5S4Ockwds9lQMm_eqhqycJOZh30&__tn__=-]K-R)的❤️Awan❤️  
 他的坐骑是超级骚包的🔥BlackPink🔥  
-我找司机的过程中问过三位，他是其中回复最快也最细心的一位，给我的初印象很好好  
+我找司机的过程中问过三位，他是其中回复最快也最细心的一位，给我的初印象很好  
 实际上，后来的旅程中有了他一切都很完美😍
 
 他会：
 
-- 👏以合理价格帮忙定泛舟的票
+- 👏以合理价格帮忙定漂流的票
 - 👏英文沟通完全没问题
 - 👏可以配合所有行程变动
 - 👏我们有帮家人庆生，他在金巴兰推荐餐厅并帮我们安排蛋糕及乐队合唱，非常细心
@@ -85,7 +85,7 @@ Tis Cafe 图：Sophie提供
 
 在乌布度过毛毛雨的上午，然后前往Penida岛
 
-- **09:00** [Omma Dayclub](/blog/ubud-omma-dayclub-tegenungan-waterfall/) Bali瀑布+午餐
+- **09:00** [Omma Dayclub](/blog/ubud-omma-dayclub-tegenungan-waterfall/) 巴厘瀑布+午餐
 
 ![Omma Dayclub  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_699d0a9f7a85019dac97b82980480d3f.jpg)
 
@@ -113,7 +113,7 @@ Omma Dayclub 图：Sophie提供
 
 - **09:00**：参观克林金海滩，探索精灵海岸。
 - **13:00**：探访破碎海滩和天使浴池，欣赏壮观的自然景观。
-- **16:00**：AMARTA Penida享受夕阳和美味的晚餐，这家餐厅有一个不用排队的天堂之门喔！
+- **16:00**：AMARTA佩尼达享受夕阳和美味的晚餐，这家餐厅有一个不用排队的天堂之门喔！
 
 ![不用排隊的天空之門  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_1fae087d3589421ea2550badb57cfabd.jpg)
 
@@ -147,11 +147,11 @@ Wahaha吃过的都说赞！
 
 - **13:30**：在Prema Rasa购买一些伴手礼，并准备前往机场。
 
-内行的都知道要去Prema Rasa买伴手礼
+内行人都知道要去Prema Rasa买伴手礼
 
 **快速参考：**[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
 
-- **14:30** 启程前往机场。旅程最后一天安排在库塔、金巴兰这一带的优点是「完全不用担心会赶不上飞机」哦！
+- **14:30** 启程前往机场。旅程最后一天安排在库塔、金巴兰这一带的优点是“完全不用担心会赶不上飞机”哦！
 
 > （延伸阅读：[库塔旅游攻略：50个必访景点、美食、推荐SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)）  
 > （延伸阅读：[金巴兰自由行：推荐31个玩乐景点全攻略](/blog/jimbaran-guide/)）

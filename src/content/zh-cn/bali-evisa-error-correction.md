@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66480ae5fd89780001fb7763'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 34985c4b2483630d720b86e7fbde70be
+_srcHash: bb5d9b38074fae849d80cfe73547433e
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5560b9a7da5290e0882e25695ee01bd2.png)
@@ -27,9 +27,9 @@ _srcHash: 34985c4b2483630d720b86e7fbde70be
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e14cb6937b166fd9b0d25c773930b373.png)
 
-## 具体该如何做？
+## 具体该怎么做？
 
-请印尼移民局协助修改是唯一的解决方法。建议您在上班时间透过[印尼移民局网站](https://evisa.imigrasi.go.id/)的Contact Us（在首页的右上角）取得协助。
+请印尼移民局协助修改是唯一的解决方法。建议您在上班时间通过[印尼移民局网站](https://evisa.imigrasi.go.id/)的Contact Us（在首页的右上角）取得协助。
 
 电子邮件往返最好能一针见血，让人家知道你的问题在哪里。请依照下列格式在email中检附信息，就能以最快的速度完成电子签证上姓名、出生地...等等常见的错误：
 

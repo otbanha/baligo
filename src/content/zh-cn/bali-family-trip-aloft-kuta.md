@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66266976fd89780001598b10'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 7b1564837258b0baa7139405dd90c076
+_srcHash: 93612c4fc05b9a7ebb7af3d84903e7dc
 ---
 
 【巴厘岛游记】我们一家四口，两大两小，巴厘岛前两晚的住宿
@@ -37,7 +37,7 @@ _srcHash: 7b1564837258b0baa7139405dd90c076
 1. 因为离机场最近，下飞机不久·就可以立刻放松。考虑到我们带着两个小孩旅行，选择住在离机场最近的库塔，可以最大程度地减少长途飞行后的疲劳，让全家可以尽快放松身心，开始享受巴厘岛的美好。
 2. 配合我们第二天前往金巴兰、乌鲁瓦图的行程。库塔地理位置优越，不仅离机场近，而且方便前往巴厘岛其他景点，比如金巴兰和乌鲁瓦图。我们计划第二天前往这两个地方，所以选择在库塔住宿，可以节省交通时间，让我们更多地享受旅程中的美好时光。
 3. 我们是第一次来巴厘岛，想看看巴厘岛最热闹的地方。库塔是巴厘岛最热闹的地区，拥有繁华的街道、多样的餐饮和购物选择，以及壮观的海滩。作为第一次来巴厘岛的我们，想要在库塔感受到巴厘岛的热情和活力，体验当地的文化和风情。
-4. 听闻Kuta海滩最适合学冲浪，我家的两个小男孩想挑战冲浪。Kuta海滩是巴厘岛最著名的冲浪胜地之一，拥有适合初学者的海浪和宽阔的沙滩，非常适合想要体验冲浪乐趣的孩子们。我们希望能在Kuta海滩上见证两个小男孩挑战冲浪的勇气和努力，并与他们一同享受海滩的快乐时光。
+4. 听闻Kuta海滩最适合学冲浪，我家的两个小男孩想挑战冲浪。Kuta海滩是巴厘岛最著名的冲浪胜地之一，拥有适合初学者的海浪和宽阔的沙滩，非常适合想要体验冲浪乐趣的孩子们。我们希望在Kuta海滩上见证两个小男孩挑战冲浪的勇气和努力，并与他们一同享受海滩的快乐时光。
 
 在考虑了这四点因素后，我们决定在库塔度过巴厘岛的第一天，并在《Beachwalk购物中心》附近找到一家舒适的酒店，开始我们的巴厘岛之旅。
 
@@ -65,7 +65,7 @@ Aloft Kuta的两张双人床房型，还有一个mini bar
 
 泳池的氛围也很翠绿，四周树木环绕，清晰感无限。我们在这儿住了两晚，可惜一天早晨阴雨绵绵，另一天早晨我们要留给冲浪，因为酒店对面正是世界闻名的（初学者）冲浪胜地「库塔海滩」，没有不造访的道理!
 
-最美的风景是人，在《Aloft Kuta》随处可见，整体服务只能给满分，度假不正需要如此？
+最美的风景是人，在《Aloft Kuta》随处可见，整体服务只能给满分，度假不正需要如此?
 
 ▶[Aloft Kuta订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) ▶[Trip.com订房](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=72291150&checkIn=2025-07-31&checkOut=2025-08-01&adult=2&children=0&subStamp=726&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-P6xMjFJMEkxMTBKPWckePt8i9_WYUYjQw4LT4JOhqDgG-ng2f_oa8aMXP7HAJ4Ghltua4vLqj1cJjEGMXJAARCIo6OgiBGTai9o5I4x9SWPRYCjYwSf_uXrmZUYLTYLx7EEMWgpMbRerBfQ6AcKLJX1BFmiCeMAVTDwrH1FZsTK8eSCx2MMxjPLdujtJGxECTvkOqwg5HpBOOErwULmO59eqqyiwmi6hATC8eU2-KnmBguMTHcYmJ4xMTwionhExPYpF9QRU3MDF3MDJOYwUpnMTMsYmaQ4jUxNzQztDSyNDBPTTRXENI4827VETYjaw6gg7UE40M8PV0MSwpTzQpLLXOKCkwNGCcxMnl4n2KUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYqwYpZidPNgDGIzdHExN7CM0uJi9nQJEuSpjemtX2djLwXiKcJ4WiCeIYyXxFqVoevhnfFYqICxi5FDgNGDMYKxgvEVI0jVD3BIAABb4vdVpwEAAA&subChannel=&masterhotelid_tracelogid=4716192907ea7&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&barcurr=IDR&locale=zh-HK&Allianceid=6817581&SID=242041353&trip_sub1=&trip_sub3=D4662646)
 
@@ -91,7 +91,7 @@ check-in > Beachwalk shopping 3F 看夕阳 > 吃小杰介绍的烤猪饭Warung B
 
 ## 杂记&心得
 
-✖️不想舟车劳顿前往金巴兰看夕阳，只要走到隔壁，🈯️ 跟着《Beachwalk Shopping》指标《✨sunset deck（夕阳观景台）✨》走，便可「免费」享用仙境般的巴厘岛夕阳🥳🥳🥳。这是一个旅行中意外的惊喜，可以在购物中心附近就欣赏到如此美丽的夕阳，真是让人心情愉悦。
+✖️不想舟车劳顿前往金巴兰看夕阳，只要走到隔壁，🈯️ 跟着《Beachwalk Shopping》指示《✨sunset deck（夕阳观景台）✨》走，便可「免费」享用仙境般的巴厘岛夕阳🥳🥳🥳。这是一个旅行中意外的惊喜，可以在购物中心附近就欣赏到如此美丽的夕阳，真是让人心情愉悦。
 
 ![「Let's Play and Eat 胡志明市」現場實拍](https://images.gobaligo.id/vocus/vocus_7442b03d0a7e21248397c17556f37d93.jpg)
 
@@ -139,13 +139,13 @@ check-in > Beachwalk shopping 3F 看夕阳 > 吃小杰介绍的烤猪饭Warung B
 
 ✨好司机带你上天堂☁️ 吃当地🍽 跑美景📸 兼导游📚 巴厘岛司机推推 👍
 
-📋巴厘岛之旅来得太突然，📸景点之间的交通，💭原本想请入住酒店帮忙就好，没想到在出发前一周，受到「[巴厘岛/印尼吃喝玩乐 Indonesia, Bali Travel Guide](https://www.facebook.com/groups/indonesia.travelguide)」Facebook群组管理员的帮助💪，获得踏上天堂的机会
+📋巴厘岛之旅来得太突然，📸景点之间的交通，💭原本想请入住酒店帮忙就好，没想到在出发前一周，受到「[巴厘岛/印尼吃喝玩乐 Indonesia, Bali Travel Guide](https://www.facebook.com/groups/indonesia.travelguide)」脸书群组管理员的帮助💪，获得了踏上天堂的机会
 
-🏡住在库塔KUTA附近的Gede，返回家乡工作之前，🇺🇸是在美国大型邮轮上服务，所以英文沟通完全没问题👍 👨‍👩‍👧‍👧加上Gede家有8、10岁女儿和6岁儿子，对待小孩极有耐心💗，对于家庭出游如我们，帮助良多🙇‍♀️
+🏡住在库塔附近的Gede，返回家乡工作之前，🇺🇸是在美国大型邮轮上服务，所以英文沟通完全没问题👍 👨‍👩‍👧‍👧加上Gede家有8、10岁女儿和6岁儿子，对待小孩极有耐心💗，对于家庭出游如我们，帮助良多🙇‍♀️
 
 ![「Let's Play and Eat 胡志明市」臉書截圖](https://images.gobaligo.id/vocus/vocus_df99528177676662528333873376051e.png)
 
-「Let's Play and Eat 胡志明市」Facebook截图
+「Let's Play and Eat 胡志明市」脸书截图
 
 **😊Gede的笑容很真诚，让人放下防备；服务很到位，让人旅程无忧：**
 
@@ -163,7 +163,7 @@ check-in > Beachwalk shopping 3F 看夕阳 > 吃小杰介绍的烤猪饭Warung B
 
 🔹下机三步骤，也帮你处理好好：✈️接机、📲至当地店家购买网络SIM卡、💵换汇（正规不偷钱的exchange center）
 
-🔹抢钱景点，会规劝不要前往❌（Gede不收回扣，所以一些热门景点，会不准他陪同客人进入） 🔆部分景点Gede会陪伴进入（部分景点，当地人免门票🎫），充当随行导游，讲解景区历史/故事🔊 🌇此行乌鲁瓦图寺庙/断崖/夕阳，Gede形影不离地跟着我们，📸帮忙拍照外，🐒深怕我们随身物品被猴子抢走，👀随时眼观四方
+🔹抢钱景点，会规劝不要前往❌（Gede不收回扣，所以一些热门景点，会不准他陪同客人进入） 🔆部分景点Gede会陪伴进入（部分景点，当地人免门票🎫），充当随行导游，讲解景区历史/故事🔊 🌇此行乌鲁瓦度寺庙/断崖/夕阳，Gede形影不离地跟着我们，📸帮忙拍照外，🐒深怕我们随身物品被猴子抢走，👀随时眼观四方
 
 ⚠️切记！当一个称职的旅人，Gede是包车司机，✖️非随行导游，如果没有陪伴入景区，非常合理，请不要过分要求，将心比心🫰 🔎此趟旅程，从不要求Gede一定要随行参观+一旁讲解，一切顺其自然，多余的陪伴，我们感谢❤️，没有，合理正常
 

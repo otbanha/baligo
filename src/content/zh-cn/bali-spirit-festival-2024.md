@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66235080fd8978000137921f'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 92a329d6ad07da978a10e3a5d051d443
+_srcHash: 569dac339330ace591228262af503eb7
 ---
 
 ## 
@@ -87,7 +87,7 @@ _srcHash: 92a329d6ad07da978a10e3a5d051d443
 
 ### 2. 安排住宿
 
-在节日期间，乌布地区的住宿可能会很紧张，请提前安排好住宿。
+在节日期间，乌布地区的住宿可能会很拥挤，请提前安排好住宿。
 
 > [【巴厘岛乌布住宿】乌布21家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
 

@@ -15,12 +15,12 @@ originalUrl: 'https://vocus.cc/article/65c217c5fd897800010113af'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: c8235b84f8a3e602e7d16715837cb27d
+_srcHash: 76b8d4aef96655ce0e39ca453d617f3e
 ---
 
 ## **乜嘢係電子簽證？**
 
-電子簽證（electronic visa on arrival，簡稱eVoA/eVisa），係指旅客喺出發前，透過印尼移民總局嘅官方網站線上申請嘅簽證。電子簽證嘅申請費用同落機排隊辦理人工落地簽證一樣為50萬印尼盾（約USD$16），有效期為30日，可延長一次，最多居留60日。然而刷卡繳費需多付一啲手續費。
+電子簽證（electronic visa on arrival，簡稱eVoA/eVisa），係指旅客喺出發前，透過印尼移民總局嘅官方網站線上申請嘅簽證。電子簽證嘅申請費用同落機排隊辦理人工落地簽證一樣為50萬印尼盾（約USD$32），有效期為30日，可延長一次，最多居留60日。然而刷卡繳費需多付一啲手續費。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b494c08f27d320e4d119e85eb298d600.png)
 
@@ -28,7 +28,7 @@ _srcHash: c8235b84f8a3e602e7d16715837cb27d
 
 1. [網站上填寫表單](https://evisa.imigrasi.go.id/)（<--此為唯一官網連結，網路上很多假冒騙錢的）
 2. 準備有效期六個月以上嘅護照
-3. 一般觀光客，嚟印尼或峇里島旅遊嘅朋友，請依此選擇為準，一般遊客請選【B1 - Tourism (Visa On Arrival 30 Days）】，唔好選錯囉！
+3. 一般觀光客，嚟印尼或峇里島旅遊嘅朋友，請依此選擇為準，一般遊客請選【B1 - Tourism (Visa On Arrival 30 Days）】，唔好揀錯囉！
 4. 填寫旅遊訊息，並上傳護照（照片頁）同照片（可以用手機照片，可清楚辨識本人/最好係單色背景牆嘅照片）
 5. 準備好付款信用卡(線上刷卡需使用Visa、Mastercard 或 JCB 信用卡。最多五人可以同時申請/使用一張信用卡。Amex信用卡唔可以刷喔！刷卡加成，最後金額係Rp.519,500)
 
@@ -44,11 +44,11 @@ _srcHash: c8235b84f8a3e602e7d16715837cb27d
 
 ![一般遊客要選擇這個簽證喔！(PS. 已不需要創建帳戶/註冊)](https://images.gobaligo.id/vocus/vocus_3e1c8fa4a7c9afa28ae3cec64c64155c.png)
 
-一般遊客要揀呢個簽證㗎！（PS. 已經唔使開戶口/註冊）
+一般遊客要揀呢個簽證㗎！(PS. 已經唔需要開戶口/註冊)
 
 ## 除咗電子簽證仲需要咩文件？
 
-請參考呢度所有流程嘅詳細說明：[印尼峇里島入境使用「All Indonesia」申報系統｜1分鐘搞掂最新流程：落機→過海關→攞行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+請參考呢度所有流程嘅詳細說明：[印尼峇里島入境使用「All Indonesia」申報系統｜1分鐘搞掂最新流程：落機→過海關→拎行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 
 ## 線上延長電子簽證
 

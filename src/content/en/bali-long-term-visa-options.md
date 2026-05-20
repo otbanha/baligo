@@ -1,8 +1,8 @@
 ---
 slug: bali-long-term-visa-options
-title: Long-Term Residency/Immigration Visa Options in Indonesia/Bali
+title: Visa Options for Long-Term Stay/Immigration in Indonesia/Bali
 description: >-
-  Foreigners can choose from various visas and permits to reside long-term in
+  Foreigners have multiple visa and permit options for long-term residence in
   Bali. Generally, foreign travelers can apply for the following types of visas:
 pubDate: '2024-10-18'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c8363dd8a564f0420186c8d453f43063.png'
@@ -16,12 +16,12 @@ originalUrl: 'https://vocus.cc/article/6710b4ecfd89780001cea90d'
 category:
   - 簽證通關
 lang: en
-_srcHash: 6e55c0944d781fbd49cebe95075c9158
+_srcHash: 564c711ddd67a2e45538c4fdc95f84bd
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fe9cede54dcbc6979f0382bbc3d2c50f.png)
 
-Foreigners can choose from various visas and permits to reside long-term in Bali. Generally, foreign travelers can apply for the following types of visas:
+Foreigners have multiple visa and permit options for long-term residence in Bali. Generally, foreign travelers can apply for the following types of visas:
 
 1. **Visa-Free Entry**
 2. **Visa on Arrival**
@@ -29,55 +29,55 @@ Foreigners can choose from various visas and permits to reside long-term in Bali
 4. **Multiple Entry Visa**
 5. **Residence Permit (also known as ITAS or KITAS)**
 
-Each visa serves a specific purpose. In this article, we will focus on visas more suitable for long-term residency in Indonesia, namely the **Single Entry Visa**, **Multiple Entry Visa**, and **Residence Permit** (ITAS/KITAS).
+Each type of visa serves a specific purpose. In this article, we will focus on visas more suitable for long-term residence in Indonesia, namely the **Single Entry Visa**, **Multiple Entry Visa**, and **Residence Permit** (ITAS/KITAS).
 
 It’s important to note that foreigners cannot use two visas simultaneously in Indonesia. If another visa is applied for and granted during the validity period of the first visa, the first visa will automatically become invalid.
 
-## Using Single or Multiple Entry Visas for Long-Term Residency in Bali
+## Using Single or Multiple Entry Visas for Long-Term Stay in Bali
 
-Generally, foreigners planning to reside long-term in Bali or Indonesia have two visa options: **Single Entry Visa** and **Multiple Entry Business Visa**.
+Generally, foreigners planning to stay long-term in Bali or Indonesia have two visa options: **Single Entry Visa** and **Multiple Entry Business Visa**.
 
 ### Single Entry Visa
 
-The Single Entry Visa is a popular choice for medium to long-term residency in Bali. This visa allows foreigners to stay in Indonesia for up to 6 months. After this 6-month period ends, foreigners can apply for a new Single Entry Visa to extend their stay for another 6 months. This process can be repeated multiple times, but frequent applications may lead to increased scrutiny by immigration authorities.
+The Single Entry Visa is a popular choice for medium to long-term stays in Bali. This visa allows foreigners to stay in Indonesia for up to 6 months. After the 6-month period ends, foreigners can apply for a new Single Entry Visa to extend their stay for another 6 months. This process can be repeated multiple times, but frequent applications may lead to stricter scrutiny by immigration authorities.
 
-The process of obtaining a single-entry visa is relatively simple and the cost is low. There are several types of single-entry visas, the most commonly used are:
+The process for obtaining a single-entry visa is relatively straightforward and the fees are low. There are several types of single-entry visas, the most commonly used being:
 
-- **Social Cultural Single Entry Visa (Sosial Budaya Visa)**, usually sponsored by an Indonesian citizen, allows foreigners to participate in social activities.
-- **Single Entry Business Visa**, requires an Indonesian company as a sponsor, allows foreigners to attend business meetings.
+- **Social Cultural Single Entry Visa (Sosial Budaya Visa)**, typically sponsored by an Indonesian citizen, allowing foreigners to participate in social activities.
+- **Single Entry Business Visa**, which requires an Indonesian company as a sponsor, allowing foreigners to attend business meetings.
 
-In Bali, digital nomads often use single-entry visas for remote work. However, single-entry visas do not allow foreigners to work in Indonesia. If a foreigner works in Indonesia (for an Indonesian company), they need a work permit and a residence permit (ITAS/KITAS).
+In Bali, digital nomads often use single-entry visas for remote work. However, single-entry visas do not permit foreigners to work in Indonesia. If a foreigner works in Indonesia (for an Indonesian company), they need a work permit and a residence permit (ITAS/KITAS).
 
 ### Multiple Entry Visa
 
-The multiple entry visa is mainly used for business purposes, but can also be used for other purposes such as family visits, attending seminars, and cultural activities. The visa is valid for 12 months, during which foreigners can stay in Indonesia for up to 60 days per visit. As it is a multiple entry visa, it allows foreigners to enter and exit Indonesia multiple times within the visa's validity period.
+The multiple entry visa is primarily used for business purposes but can also be used for other purposes such as family visits, attending seminars, and cultural activities. This visa is valid for 12 months, during which foreigners can stay in Indonesia for up to 60 days per visit. As a multiple entry visa, it allows foreigners to enter and exit Indonesia multiple times within the visa's validity period.
 
 The multiple entry visa is a good option for foreigners planning to live in Bali long-term but frequently travel abroad. The multiple entry visa remains valid after the foreigner leaves Indonesia, whereas a single-entry visa becomes invalid upon departure.
 
-The multiple entry visa can only be sponsored by an Indonesian company. Similar to the single-entry visa, the multiple entry visa does not allow foreigners to work in Indonesia.
+The multiple entry visa can only be sponsored by an Indonesian company. Similar to the single-entry visa, the multiple entry visa does not permit foreigners to work in Indonesia.
 
 ## Using a Residence Permit (ITAS/KITAS) for Long-term Stay in Bali
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8193a453448706bb3e740d33a35153d0.png)
 
-The residence permit (ITAS/KITAS) is the best option for foreigners deciding to live in Bali for several years. The residence permit can be valid for up to two years (depending on the type of permit) and can be extended domestically. Additionally, holders of the residence permit can obtain multiple re-entry permits, allowing them to freely enter and exit Indonesia without affecting the validity of their residence permit.
+A residence permit (ITAS/KITAS) is the best option for foreigners deciding to live in Bali for several years. The residence permit can be valid for up to two years (depending on the type) and can be extended domestically. Additionally, holders of a residence permit can obtain multiple re-entry permits, allowing them to freely enter and exit Indonesia without affecting the validity of their residence permit.
 
 ### Types of Residence Permits
 
-Here’s a brief overview of several types of residence permits:
+We will briefly introduce several types of residence permits:
 
-1. **Work Residence Permit**: Allows foreigners to work and reside in Indonesia. Foreigners need to obtain a work permit from the Ministry of Manpower and a residence permit (ITAS/KITAS) from the immigration office. Typically applied for by foreigners working in Indonesian companies.
-2. **Investment Residence Permit**: Suitable for foreigners who own shares in an Indonesian limited liability company (PMA). This type of permit offers several advantages. First, it exempts the need to obtain a work permit from the Ministry of Manpower, saving up to USD$1,200 in government fees annually. Second, the permit is valid for two years, one year longer than other types of permits. Since foreigners only need to renew the permit every two years, it saves on processing fees.
-3. **Family Residence Permit**: Requires an Indonesian spouse to sponsor the foreigner. With this type of permit, foreigners can reside in Indonesia long-term but cannot work. If employment is desired, a work permit must be obtained from the company they work for.
-4. **Retirement Residence Permit**: Available for foreigners aged 55 and above. This permit is sponsored by a company recognized by the Directorate General of Immigration. The retirement residence permit does not allow foreigners to work in Indonesia but permits them to enjoy their retirement life in the country.
+1. **Work Residence Permit**, which allows foreigners to work and reside in Indonesia. Foreigners need to obtain a work permit from the Ministry of Manpower and a residence permit (ITAS/KITAS) from the immigration office. This is typically applied for by foreigners working in Indonesian companies.
+2. **Investment Residence Permit**, applicable to foreigners who own shares in an Indonesian limited liability company (PMA). The investment residence permit offers several advantages. Firstly, it exempts the requirement to obtain a work permit from the Ministry of Manpower, saving up to $1,200 in government fees annually. Secondly, this permit is valid for two years, one year longer than other types of permits. Since foreigners only need to renew the permit every two years, it saves on processing fees.
+3. **Family Residence Permit**, which requires an Indonesian spouse to sponsor the foreigner. With this type of residence permit, foreigners can reside in Indonesia long-term but cannot work. If employment is desired, a work permit must be obtained from the company they work for.
+4. **Retirement Residence Permit**, applicable to foreigners aged 55 and above. This permit is sponsored by a company recognized by the Directorate General of Immigration. The retirement residence permit does not allow foreigners to work in Indonesia but permits them to enjoy their retirement life in the country.
 
-Further reading: [Bali Long-Term Stay/Tourist Visa Fee Adjustment](/blog/bali-visa-fee-changes-2024/)
+Further reading: [Bali Long-term Stay/Tourist Visa Fee Adjustments](/blog/bali-visa-fee-changes-2024/)
 
-Choosing the right visa or residence permit can make your long-term stay in Bali smoother and more enjoyable. Select the option that best suits your needs and circumstances, and enjoy your wonderful time in Bali!
+Choosing the right visa or residence permit can make your long-term stay in Bali smoother and more enjoyable. Based on your needs and circumstances, select the option that best suits you and enjoy the wonderful times in Bali!
 
-## Sign Up to Join Our Blog
+## Sign Up for Our Blog
 
-📩 **Join the "Bali Travel Guide" Blog Now and Become a Bali Travel Expert!**
+📩 **Join the 'Bali Travel Guide' Blog Now and Become a Bali Travel Expert!**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
@@ -85,11 +85,11 @@ Choosing the right visa or residence permit can make your long-term stay in Bali
 
 ✅ The latest Bali news, keeping you updated with travel information
 
-✅ In-depth guides to make your trip both budget-friendly and stress-free
+✅ In-depth guides to help you plan a budget-friendly and worry-free trip
 
 ✅ Exclusive recommendations for hidden gems and local food maps
 
-✅ Exclusive content not found on Facebook groups
+✅ Content you won't find in Facebook groups
 
 ✅ Gather the most itinerary suggestions from fellow travelers for seamless trips every time
 

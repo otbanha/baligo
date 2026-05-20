@@ -15,7 +15,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/ByGkcmys01g'
 lang: zh-cn
-_srcHash: 9bda5b981b09e151bce6fb02ebd50996
+_srcHash: 7d3f0f9bd63f4c90cb0e9043a2bf186b
 ---
 
 [🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
@@ -34,15 +34,15 @@ _srcHash: 9bda5b981b09e151bce6fb02ebd50996
 
 这两款 App 都需要**短信验证码 (OTP)** 才能完成注册。
 
-- **建议：** 在中国大陆（或出发前）就先下载好并用大陆手机号码注册。
+- **建议：** 在台湾（或出发前）就先下载好并用台湾手机号码注册。
 - **好处：** 避免到了**巴厘岛**后，因为当地的 SIM 卡无法接收短信或网络不稳而卡关。
 
 **第二步：绑定信用卡 (Cashless)**
 
 虽然可以付现，但强烈建议绑定信用卡，省去翻找小额印尼盾零钱的麻烦。
 
-- **Grab：** 界面较亲民，对国际信用卡支持度高，甚至有中文界面。
-- **Gojek：** 印尼本土品牌，若信用卡刷不过，可考虑到当地的便利店（如 Alfamart）充值 GoPay。
+- **Grab：** 界面较友好，对国际信用卡支持度高，甚至有中文界面。
+- **Gojek：** 印尼本土品牌，若信用卡无法支付，可考虑到当地的便利店（如 Alfamart）充值 GoPay。
 
 **第三步：叫车流程 (Step-by-Step)**
 

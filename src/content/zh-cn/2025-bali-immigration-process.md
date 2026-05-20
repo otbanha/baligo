@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/65717449fd89780001fda950'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: bf167ab05ee6e038ddb924d8447d8eb0
+_srcHash: b22c34a62f8b47bdeee3a7e46fb1d2b8
 ---
 
 ![一分鐘搞懂下飛機到出境的流程](https://images.gobaligo.id/vocus/vocus_1019ef9c6f5df198a383b2b7cd81d01c.png)
@@ -38,7 +38,7 @@ _srcHash: bf167ab05ee6e038ddb924d8447d8eb0
 2. **办理/缴费落地签**  
    如果您没有事先申请电子签证，第一站您需要在机场的Visa on Arrival（简称VoA）柜台排队申请落地签  
    ▶️ 落地签好？电子签好？请看[印尼/巴厘岛电子签证eVoa全攻略](/blog/bali-evisa-application-guide/)
-3. **填写在线健康声明表**  
+3. **填写线上健康声明表**  
    为防制各种传染病如猴痘、人类间质肺炎...等病毒的传播，旅客需填写「健康声明(SSHP)」。  
    ▶️ 怎么填？请看[SSHP填写说明](/blog/2024-08-30-66d109f9fd89780001f47806/)
 4. **排队移民局-检查签证/护照盖章**  
@@ -57,7 +57,7 @@ _srcHash: bf167ab05ee6e038ddb924d8447d8eb0
 
 > 延伸阅读：[巴厘岛入境需要准备哪些文件？](/blog/indonesia-bali-visa-evoa-faq/)
 
-**开始享受你的假期！**  
+**开始享受你的假期！**
 通过海关后，恭喜您完成入境流程！现在可以前往接机大厅，与预订的司机或家人朋友会合，开启美好旅程！
 
 ➡️[更多巴厘岛超值优惠请点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️

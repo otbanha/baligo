@@ -5,9 +5,9 @@ description: >-
   At the end of last year, the Indonesian government had planned to prohibit the
   construction of new hotels, beach clubs, and other tourism-related facilities
   in several popular tourist areas in southern Bali, such as Canggu, Uluwatu,
-  Kuta, Legian, Seminyak, and Nusa Dua. However, Bali's Governor Wayan Koster,
-  who is about to be re-elected, recently publicly stated that he will not
-  enforce this ban.
+  Kuta, Legian, Seminyak, and Nusa Dua. However, Bali Governor Wayan Koster, who
+  is set to be re-elected, recently publicly stated that he will not enforce
+  this ban.
 pubDate: '2025-01-15'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4d7349e2ae207e340e23d44c0bad4f14.png'
 tags:
@@ -20,48 +20,47 @@ originalUrl: 'https://vocus.cc/article/67879faefd89780001b524bc'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 529adec6f0d7ef7a53d48bf4658f3ad3
+_srcHash: 2a9d27c2f7aecd5f01a50d33430b0def
 ---
-
-At the end of last year, the Indonesian government had planned to prohibit the construction of new hotels, beach clubs, and other tourism-related facilities in several popular tourist areas in southern Bali, such as Canggu, Uluwatu, Kuta, Legian, Seminyak, and Nusa Dua. However, Bali's Governor Wayan Koster, who is about to be re-elected, recently publicly stated that **he will not enforce this ban**.
+At the end of last year, the Indonesian government had planned to prohibit the construction of new hotels, beach clubs, and other tourism-related facilities in several popular tourist areas in southern Bali, such as Canggu, Uluwatu, Kuta, Legian, Seminyak, and Nusa Dua. However, Bali Governor Wayan Koster, who is set to be re-elected, recently publicly stated that **he will not enforce this ban**.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5912b3283e6ebf4f0e8a8eefd1896b05.png)
 
 ### Why Was the Ban Proposed?
 
-The ban was proposed by Indonesia's Minister of Tourism and Minister of Investment, originally set to take effect from October 2024 for one to two years, and potentially extended to ten years if effective. Their goal was to control overdevelopment in Bali, particularly in the southern tourist areas. This idea received support from some high-level officials in Bali, such as the acting governor and the chairman of the tourism board, who believed it was a necessary measure.
+The ban was proposed by Indonesia's Minister of Tourism and Minister of Investment, originally set to take effect from October 2024 for one to two years, with the possibility of extending it to ten years if effective. Their goal was to address the issue of overdevelopment in Bali, particularly in the southern tourist areas. This idea received support from some high-level officials in Bali, including the acting governor and the chairman of the tourism board, who believed it was a necessary measure.
 
 ### Why Does the New Governor Oppose It?
 
-Governor Koster made it clear during a press conference that he believes such a ban is unnecessary. He argued that Bali already has sufficient regulations to control tourism development, and the problem lies in the lack of strict enforcement. He said, "We don't need a ban; what we need is stricter enforcement of existing regulations."
+Governor Koster made it clear during a press conference that he does not see the need for such a ban. He believes that Bali already has sufficient regulations to control tourism development, and the problem lies in the lack of strict enforcement of these regulations. He stated, 'We don’t need a ban; what we need is stricter enforcement of existing rules.'
 
-However, he did not specify which regulations need to be strengthened or whether new measures would be introduced to control development. This has led some to worry that without the ban, tourism development in Bali might continue to spiral out of control.
+However, he did not specify which regulations need to be strengthened or whether new measures would be introduced to control development. This has led to concerns that without the ban, Bali's tourism development might continue to spiral out of control.
 
 ### Sustainable Tourism Development
 
-The chairman of the Bali Tourism Board, Adnyana, had previously supported the ban, believing that Bali's rapid development has put pressure on the natural environment, particularly due to the overconstruction of hotels and accommodations. He argued that the ban would allow Bali's tourism industry to develop more sustainably while also bringing long-term benefits to local communities.
+The chairman of the Bali Tourism Board, Adnyana, had previously supported the ban, arguing that Bali's rapid development has put pressure on the natural environment, particularly due to the overconstruction of hotels and accommodations. He believes that the ban could help Bali's tourism industry develop more sustainably while also bringing long-term benefits to local communities.
 
-However, with the lifting of the ban, many are concerned that Bali's natural landscapes and culture may be damaged due to overdevelopment. Although Governor Koster has emphasized strengthening the enforcement of existing regulations, the specific measures remain unclear.
+Now, with the ban lifted, many are concerned that Bali's natural landscapes and culture may be damaged due to overdevelopment. Although Governor Koster has emphasized strengthening the enforcement of existing regulations, it remains unclear how this will be implemented.
 
 ### Governor Koster's Tourism Policies
 
-Governor Koster became known for his bold tourism policies during his first term. He proposed limiting the number of annual visitors to Bali and introduced a tourism tax, requiring all international tourists to pay 150,000 Indonesian Rupiah (approximately USD$10) to protect Bali's culture and natural environment.
+Governor Koster became well-known for his bold tourism policies during his first term. He once proposed limiting the number of tourists visiting Bali annually and introduced a tourism tax, requiring all international visitors to pay 150,000 Indonesian Rupiah (approximately USD$10) to protect Bali's culture and natural environment.
 
-However, the implementation of this tourism tax has been ineffective, with only 40% of tourists actually paying the fee. While a significant amount of funds has been raised, the government has yet to publicly disclose how this money is being used or its future allocation.
+However, the implementation of this tourism tax has been ineffective, with only 40% of tourists actually paying the fee. Although a significant amount of funds has been raised, the government has yet to publicly disclose how these funds are being used or their future allocation.
 
 **Quick Reference:**
 
-[Bali to Enforce Mandatory Tourism Tax: No More 'Ticket Evasion'!](/blog/bali-tourism-tax-enforcement/)
+[Bali to Enforce Mandatory Tourism Tax: Crackdown on 'Ticket Dodgers'!](/blog/bali-tourism-tax-enforcement/)
 
 ### What Does the Future Hold?
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7325c0c5d1f9e4f57fb207e86a712a4b.png)
 
-Now that the ban has been lifted, the future of Bali's tourism industry remains uncertain. Governor Koster's approach focuses on managing tourism through stricter enforcement of existing regulations rather than outright bans on new developments. However, finding a balance between economic growth and environmental protection remains Bali's greatest challenge.
+With the ban now lifted, the future of Bali's tourism industry remains uncertain. Governor Koster's approach focuses on managing tourism by strengthening existing regulations rather than outright banning new developments. However, finding a balance between economic growth and environmental preservation remains Bali's greatest challenge.
 
-For both tourists and local residents, Bali's sustainable development is not just about preserving its natural landscapes but also ensuring that the island's unique culture and environment can be passed down for generations to come. It is hoped that the government can promote tourism while also safeguarding Bali's beauty and distinctiveness.
+For both tourists and local residents, Bali's sustainable development is not just about protecting its natural landscapes but also ensuring that the island's unique culture and environment can be preserved for generations to come. It is hoped that the government can promote tourism while also safeguarding Bali's beauty and distinctiveness.
 
-## 📩 **Join "Bali Travel Guide" Now and Become a Bali Travel Expert!**
+## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_42cc573e64bc77b3e507559a1dda5476.jpg)
 
@@ -69,11 +68,11 @@ For both tourists and local residents, Bali's sustainable development is not jus
 
 ✅ The latest Bali news, keeping you updated with travel information
 
-✅ In-depth guides to make your trip both budget-friendly and stress-free
+✅ In-depth guides to help you plan a budget-friendly and worry-free trip
 
 ✅ Exclusive recommendations for hidden gems and local food maps
 
-✅ Exclusive content not found on Facebook groups
+✅ Content you won't find in Facebook groups
 
 ✅ Gather the most itinerary suggestions from fellow travelers for seamless trips every time
 

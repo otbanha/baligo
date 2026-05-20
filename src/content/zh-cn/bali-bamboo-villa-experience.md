@@ -1,6 +1,6 @@
 ---
 slug: bali-bamboo-villa-experience
-title: '巴厘岛一晚居然不到$2,000!? 住这里是什么感觉? 体验巴厘岛隐世竹子民宿'
+title: 巴厘岛一晚居然不到USD$65!? 住这里是什么感觉? 体验巴厘岛隐世竹子民宿
 description: 巴厘岛树屋型式的竹子别墅 bamboo villa住宿体验
 pubDate: 2024-04-04T00:00:00.000Z
 category:
@@ -35,7 +35,7 @@ agoda_star_rating: 4
 latitude: -8.508825619969254
 longitude: 115.25057328414368
 lang: zh-cn
-_srcHash: 1df54a36226805e21e8b89a4827a3d97
+_srcHash: f464256ecc32befbd6fb7c7d7f56d22a
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c62a1ab2c4b39417175e2de5c99ef7b0.jpg)
@@ -56,9 +56,9 @@ _srcHash: 1df54a36226805e21e8b89a4827a3d97
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_75c7ea229b2049bf0233fdfb6155bade.png)
 
-第二天,Melody参观了民宿的泳池区,宁静怡人,别有一番风味。她很喜欢这处隐匿在丛林中的祥和天地,虽然距离热闹区有些距离,但正因如此独特静谧,是值得体验的度假胜地。
+第二天,Melody参观了民宿的泳池区,宁静怡人,别有一番风味。她很喜欢这处隐匿在丛林中的祥和天地,虽然距离热闹区有些距离,但正因如此独特安谧,是值得体验的度假胜地。
 
-这间竹子民宿的每个角落都充满设计师的用心,将大自然融入生活,给人难忘的体验。Melody对此留下深刻印象,并在视频中热情推荐给大家。
+这间竹子民宿的每个角落都充满设计师的用心,将大自然融入生活,给人难忘的体验。Melody对此留下深刻印象,并在影片中热情推荐给大家。
 
 ## 看详细视频介绍:
 https://youtu.be/6dVUu_xXM0s?si=4FBvRasS_wQ1OInu

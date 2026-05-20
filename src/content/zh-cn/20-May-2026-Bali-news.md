@@ -8,7 +8,7 @@ description: |-
 pubDate: 2026-05-20T00:00:00.000Z
 pubHour: 6
 category:
-  - 新手指南
+  - 新聞存檔
 tags:
   - Bali news update
   - 峇里島新聞
@@ -19,7 +19,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 224e64fd3bb6385aa4a58601bb03779e
+_srcHash: f9a4a22cb71fc117d4ad3ad731e0eb11
 ---
 
 ![](https://cdn0-production-images-kly.akamaized.net/mk5QdH_u9Q_q0dLvnEFYOLsZNSY=/1280x720/smart/filters:quality(75):strip_icc()/kly-media-production/medias/4192906/original/043115500_1665844241-IMG-20221015-WA0010.jpg)
@@ -30,7 +30,7 @@ _srcHash: 224e64fd3bb6385aa4a58601bb03779e
 
 > [园区360度全览](https://www.360indonesia.id/kek-sanur-virtual-tour/)
 
-- **停止垃圾「露天堆放」引发地方反弹与政策争议**： 针对省政府全面禁止露天堆放（Stop Open Dumping）并强制实施废弃物源头分类的强硬政策，地方宪法法律学者于今日透过《detikcom》等媒体发出社会公平性警告。学者指出，该政策推动速度显著快于基建硬体的普及度，大型饭店、度假村因财力雄厚能迅速建立自主垃圾清运与合规合约，但**小型民宿、商家及在地居民因缺乏设施设备，正面临严格的「非法焚烧/丢弃垃圾处罚（Tipiring）」夹击**。这项被形容为「法规跑得比设施快」的现状，正测试着全岛观光转型期的社会适应力。
+- **停止垃圾「露天堆放」引发地方反弹与政策争议**： 针对省政府全面禁止露天堆放（Stop Open Dumping）并强制实施废弃物源头分类的强硬政策，地方宪法法律学者于今日透过《detikcom》等媒体发出社会公平性警告。学者指出，该政策推动速度显著快于基建硬体的普及度，大型酒店、度假村因财力雄厚能迅速建立自主垃圾清运与合规合约，但**小型民宿、商家及在地居民因缺乏设施设备，正面临严格的「非法焚烧/丢弃垃圾处罚（Tipiring）」夹击**。这项被形容为「法规跑得比设施快」的现状，正测试着全岛观光转型期的社会适应力。
 - **体育观光（Sport Tourism）新亮点：年度省长杯门球赛定案**： 巴厘岛省政府与印尼全印度门球协会（Pergatsi）正式达成协议，将共同打造「总督杯门球公开赛（Gubernur Cup）」并将其推动为全岛的常态性年度国际赛事。官方评估，凭借岛内成熟的观光软硬件与丰富的主办经验，该赛事将能有效吸引国际高净值体育爱好者群体，为岛屿注入高消费力的体育观光客源。
 
 ### 📄 游客关心话题：海上物流安全与青年社群安全

@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65bfadeffd89780001e1daf0'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 9a59a13634e2898a4e4b8a3be209f5b7
+_srcHash: 64bd2a684e4b68da7b3eb1a1b38bce85
 ---
 
 巴厘岛，这个被誉为天堂的度假胜地，吸引着无数游客的到来。然而，随着旅游业的发展，机场的繁忙程度也随之增加。许多旅人常常会烦恼于抵达机场后的长时间等待，然而，2024/02/02我们的社团朋友「DC」有了一次不同的经验，他成功在下飞机后25分钟内从巴厘岛机场出关！

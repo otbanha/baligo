@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6839ae23fd897800010b9b32'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 0d9f8732bc2c2627c35f6f656de66bac
+_srcHash: 8f79ac266580cc41bb2bdbaeab1364b5
 ---
 
 ## **Bali 荣登全球最迷人岛屿宝座：英国旅游专家 Travelbag 最新评比出炉**
@@ -75,7 +75,7 @@ _srcHash: 0d9f8732bc2c2627c35f6f656de66bac
 
 ## **专家观点与旅客评价汇总**
 
-许多旅游博主与评论家指出，巴厘岛提供的是一种「心灵的疗愈」，而不仅仅是短暂的休闲假期。加上机票价格越来越亲民，与丰富住宿选择，使巴厘成为长途旅客首选地。
+许多旅游博主与评论家指出，巴厘岛提供的是一种「心灵的疗愈」，而不只是短暂的休闲假期。加上机票价格越来越亲民，与丰富住宿选择，使巴厘成为长途旅客首选地。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dc9cc4be4aa2cfe7f9e6673430ece576.jpg)
 

@@ -1,11 +1,11 @@
 ---
-update: "2026/05/19"
-title: 【巴厘岛素食地图】Top 26 间必访素食友善餐厅：从乌布生食美学到库塔创意蔬食，无肉者也疯狂的美味指南
+title: 【巴厘岛素食地图】Top 27 间必访素食友善餐厅：从乌布生食美学到库塔创意蔬食，无肉者也疯狂的美味指南
 slug: bali-vegan-restaurants-guide
 description: >-
-  谁说巴厘岛只有脏鸭餐？本文为您开启巴厘岛素食探索之旅，精选 26
+  谁说巴厘岛只有脏鸭餐？本文为您开启巴厘岛素食探索之旅，精选 27
   间遍布乌布、水明漾与坎古的优质素食友善餐厅。无论您是全素（Vegan）、蛋奶素，还是热爱健康饮食的弹性素食者，这里有最道地的天贝（Tempeh）料理与创意植物基飨宴，让您在岛屿度假也能吃出质感与健康！
 pubDate: 2024-09-07T00:00:00.000Z
+pubHour: null
 category:
   - 峇里島分區攻略
   - 美食景點活動
@@ -23,8 +23,10 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777694520071-vegan.png'
 originalUrl: 'https://vocus.cc/article/66dc687afd8978000151d046'
 lang: zh-cn
-_srcHash: 92b1a4f00b49d70deaf4be5b7ba6c084
+_srcHash: d9f87ad9ae832aed21cecababbf451f0
 ---
+
+update: 2026/05/20
 
 巴厘岛作为全球知名的旅游胜地，不仅吸引了爱好冒险、文化探索的旅人，对素食爱好者而言，更是一个充满惊喜的美食天堂。无论是在悠闲的坎古(Canggu)、潮流汇集的水明漾(Seminyak)，还是文化丰富的乌布(Ubud)和高端度假的努沙杜瓦(Nusa Dua)，你都能找到许多素食友善的餐厅。这些餐厅不仅以创新的菜色和营养丰富的餐点著称，更是环保与健康饮食的倡导者。许多餐厅获得了Tripadvisor【Travelors' Choice】的殊荣。
 
@@ -44,8 +46,8 @@ Canggu素食友善餐厅 Grazing on the Green
 
 延伸阅读：
 
-- [坎古100个吃喝玩乐景点攻略](/blog/canggu-guide/)
-- [水明漾100个吃喝玩乐全面介绍](/blog/seminyak-guide/)
+- [坎古100个吃喝玩乐景点攻略](/blog/2023-02-11-64db6b7efd897800013a9815/)
+- [水明漾100个吃喝玩乐全面介绍](/blog/2023-08-15-64db7fc2fd897800013d367c/)
 
 ## **乌布：文化与健康饮食的结合**
 
@@ -59,8 +61,8 @@ Canggu素食友善餐厅 Grazing on the Green
 
 延伸阅读：
 
-- [乌布100个吃喝玩乐攻略](/blog/ubud-guide/)
-- [乌布55项亲子活动攻略](/blog/ubud-with-kids-guide/)
+- [乌布100个吃喝玩乐攻略](/blog/2023-11-17-655054b1fd897800011d4d2c/)
+- [乌布55项亲子活动攻略](/blog/2024-01-10-659cf4a5fd89780001d6fb69/)
 
 ## **努沙杜瓦：高端度假村中的素食选择**
 
@@ -74,11 +76,11 @@ Canggu素食友善餐厅 Grazing on the Green
 
 延伸阅读：
 
-- [努沙杜瓦50个吃喝玩乐攻略](/blog/nusa-dua-guide/)
+- [努沙杜瓦50个吃喝玩乐攻略](/blog/2024-01-25-65afb7bbfd897800017023b4/)
 
 ## 素食网友额外提供
 
-我们的社团成员 [**陈芊伊**](https://www.facebook.com/share/p/1Cz4zdWHqF/) 也分享了她亲自体验过的素食餐厅清单，分别位于乌布与坎古两个地区，共六家不同风格的小店。她的推荐让文章更完整，也提供了读者更多元的选择。详细介绍请看[这里](/map/vegetarian/)。
+我们的社团成员 [**陈芊伊**](https://www.facebook.com/share/p/1Cz4zdWHqF/) 也分享了她亲自体验过的素食餐厅清单，分别位于乌布与坎古两个地区，共六家不同风格的小店。她的推荐让文章更完整，也提供了读者更多元的选择。详细介绍请看[这里](https://www.google.com/maps/d/u/0/edit?mid=1ug1RGef4u9r08yJTg-H8cZzYMIKs-w0&usp=sharing)。
 
 ## **位置&地图：巴厘岛素食友善餐厅的无限魅力**
 
@@ -86,8 +88,8 @@ Canggu素食友善餐厅 Grazing on the Green
 
 ![峇里島Top 26 素食友善餐廳](https://images.gobaligo.id/vocus/vocus_a5d5b1f2d35fd1fdb7bd8882f8b50f94.png)
 
-[巴厘岛Top 26 素食友善餐厅](/map/vegetarian/)
+[巴厘岛Top 27 素食友善餐厅](https://www.google.com/maps/d/u/0/edit?mid=1ug1RGef4u9r08yJTg-H8cZzYMIKs-w0&usp=sharing)
 
-这26家餐厅的位置和详细介绍请[点击地图链接](/map/vegetarian/)，让我们一起探索巴厘岛素食友善餐厅的无限魅力！
+这27家餐厅的位置和详细介绍请[点击地图链接](https://www.google.com/maps/d/u/0/edit?mid=1ug1RGef4u9r08yJTg-H8cZzYMIKs-w0&usp=sharing)，让我们一起探索巴厘岛素食友善餐厅的无限魅力！
 
 {{block:klook}}

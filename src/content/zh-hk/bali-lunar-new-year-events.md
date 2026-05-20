@@ -1,7 +1,7 @@
 ---
 slug: bali-lunar-new-year-events
 title: 【必收藏】峇里島慶祝農曆新年嘅活動資訊整理
-description: 以下係關於2025年喺峇里島慶祝農曆新年嘅活動資訊整理，如果您同屋企人喺農曆新年期間到訪峇里島，亦可以喺峇里島感受新年嘅氣氛㗎！
+description: 以下係關於2025年喺峇里島慶祝農曆新年嘅活動資訊整理，如果你同屋企人喺農曆新年期間到訪峇里島，都可以喺峇里島感受新年嘅氣氛㗎！
 pubDate: '2025-01-15'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5e5d2c14ff86d0b8ae7087356c3f24a6.png'
 tags:
@@ -15,10 +15,9 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-hk
-_srcHash: a144de275139074aee5c6c15158cf963
+_srcHash: 1cf8e01cb246b456a9cb2297ab4e568a
 ---
-
-以下係關於2025年喺峇里島慶祝農曆新年嘅活動資訊整理，如果您同屋企人喺農曆新年期間到訪峇里島，亦可以喺異國感受新年嘅氣氛㗎！
+以下係關於2025年喺峇里島慶祝農曆新年嘅活動資訊整理，如果你同屋企人喺農曆新年期間到訪峇里島，都可以喺異國感受新年嘅氣氛㗎！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_18bd7cbd5a329497c0a6de2563f31473.png)
 
@@ -26,11 +25,11 @@ _srcHash: a144de275139074aee5c6c15158cf963
 
 ### 1. **農曆新年慶祝活動**
 
-2025年1月29日，峇里島將迎來農曆新年，當地華人社區同旅遊業者準備咗豐富嘅慶祝活動，包括傳統文化表演、美食盛宴同節日裝飾：
+2025年1月29日，峇里島將會迎來農曆新年，當地華人社區同旅遊業者準備咗豐富嘅慶祝活動，包括傳統文化表演、美食盛宴同節日裝飾：
 
 - **舞獅表演**：呢個係農曆新年最受歡迎嘅傳統活動之一，象徵驅邪避凶同帶來好運。喺[Mulia Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6546761)同[Courtyard Bali Seminyak Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=624034)等場所可以觀賞到精彩嘅舞獅表演。（[參考來源](https://en.tempo.co/read/1964175/6-ultimate-ways-to-celebrate-chinese-new-year-2025-in-bali)）
 - **寺廟祈福**：峇里島嘅華人寺廟如Klenteng Caow Eng Boi同Satya Dharma Temple會裝飾紅燈籠同錢樹，並舉行祈福儀式，融合咗華人同峇里島嘅文化特色。([參考來源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
-- **煙花表演**：喺Singaraja等地，煙花表演將照亮夜空，象徵驅逐厄運並迎接好運。([參考來源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
+- **煙花表演**：喺Singaraja等地，煙花表演將會照亮夜空，象徵驅逐厄運並迎接好運。([參考來源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 
 ---
 
@@ -40,14 +39,14 @@ _srcHash: a144de275139074aee5c6c15158cf963
 
 - **團圓晚宴**：好多高級酒店如[AYANA Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6504)同[Mulia Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982)提供中式團圓晚宴，菜單包括魚生、北京烤鴨、長壽麵等象徵財富同長壽嘅菜餚。（參考來源[1](https://www.ayana.com/zh/bali/offers/chinese-new-year-2025/)、[2](https://www.themulia.com/bali/lunar-new-year-2025)）
 - **下午茶與點心**：AYANA Bali嘅Damar Terrace提供農曆新年主題下午茶，搭配精緻嘅中式點心。（[參考來源](https://www.ayana.com/zh/bali/offers/chinese-new-year-2025/)）
-- **街頭美食**：喺Denpasar同Singaraja等地，可以品嚐到融合中式與峇里島風味嘅街頭小吃，如餃子同烤鴨。（[參考來源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights)）
+- **街頭美食**：喺Denpasar同Singaraja等地，可以品嚐到融合中式同峇里島風味嘅街頭小食，如餃子同烤鴨。（[參考來源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights)）
 
 ### 3. **文化與藝術活動**
 
 峇里島嘅農曆新年慶祝活動唔單止有美食，仲有豐富嘅文化體驗：
 
 - **傳統音樂與舞蹈**：喺[Tugu Bali Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3164)嘅Kang Xi Temple，遊客可以欣賞到古箏演奏同舞獅表演，仲可以參與8道菜嘅傳統家宴。（[參考來源](https://blog.tuguhotels.com/lunar-legends-celebrating-the-wood-snake-year-at-the-historic-kang-xi-temple/)）
-- **節日裝飾與市集**：Denpasar嘅街道會掛滿紅燈籠同節日裝飾，營造出濃厚嘅節日氣氛。市集上仲可以買到傳統手工藝品同節日禮品。([參考來源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
+- **節日裝飾與市集**：登巴薩嘅街道會掛滿紅燈籠同節日裝飾，營造出濃厚嘅節日氣氛。市集上仲可以買到傳統手工藝品同節日禮品。([參考來源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0fdf9297e023a767c306109772cc60c1.png)
 
@@ -68,8 +67,8 @@ _srcHash: a144de275139074aee5c6c15158cf963
 
 ### **住宿優惠**
 
-- [**Munduk Moding Plantation**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=298301)：提前預訂可享高達40%折扣，仲提供免費按摩、餐飲服務同靈活嘅取消政策。
-- [**Mulia Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982)：提供「住4晚付3晚」嘅優惠，包含每日早餐同免費度假村活動。適合家庭或情侶入住，度假村內設施豐富，包括泳池、SPA同餐廳。
+- [**Munduk Moding Plantation**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=298301)：提早預訂可以享有高達40%折扣，仲提供免費按摩、餐飲服務同靈活嘅取消政策。
+- [**Mulia Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982)：提供「住4晚付3晚」嘅優惠，包括每日早餐同免費度假村活動。適合家庭或者情侶入住，度假村內設施豐富，包括泳池、SPA同餐廳。
 
 ---
 
@@ -215,7 +214,7 @@ _srcHash: a144de275139074aee5c6c15158cf963
 
 **快速參考：**
 
-[農曆新年峇里島家庭旅遊攻略：春節嘅機票、簽證、交通、景點、注意事項全攻略](/blog/2026-bali-lunar-new-year-guide/)]}
+[農曆新年峇里島家庭旅遊攻略：春節嘅機票、簽證、交通、景點、注意事項全攻略](/blog/2026-bali-lunar-new-year-guide/)
 
 ## 📩 **立即加入「峇里島旅遊攻略」，成為峇里島旅遊達人！**
 

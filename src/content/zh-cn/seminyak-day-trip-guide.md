@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9d929150c54e9a96490136e18b3e11a.jpg'
 originalUrl: 'https://vocus.cc/article/669b1d59fd89780001def381'
 lang: zh-cn
-_srcHash: 10178a0db373c118a23a5435fbae04fc
+_srcHash: c54c259bf52a6da7f60120e6ba4893bf
 ---
 
 坐落于南部海岸，距离机场仅约30分钟的水明漾，是美丽的海滩俱乐部、热闹的购物区和餐饮街的聚集地。在这里，都市生活与轻松的海滩氛围以及豪华别墅度假相得益彰——这是岛上最时尚、最潮流、最热闹的旅游城镇。
@@ -98,7 +98,7 @@ https://youtube.com/shorts/HQmhEhnf60s
 
 水明漾地区拥有众多知名的沙滩俱乐部，这里的氛围时尚独特，音乐和美食兼具。其中一些俱乐部提供舒适的躺椅、凉亭和泳池，您可以在这里度过悠闲的一天或是狂欢的夜晚。Potato Head Beach Club、Azul Beach Club、Ku De Ta和WooBar，或是上面短片的Mrs. Sippy Beach Club都是受欢迎的选择，不仅能品味美食，还能欣赏到迷人的海景。
 
-__VID0__
+https://youtube.com/shorts/wai2lSW3vVU
 
 - Azul Beach Club[无边泳池下午茶](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772197&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F89711-azul-beach-club-afternoon-tea-legian-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D6ae3db75e5)
 - [Kudeta沙发床预约](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004610&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F135291-kudeta-beach-club-in-seminyak-bali%2F)
@@ -122,7 +122,7 @@ https://youtu.be/RodQvCZKwD0
 
 享受正宗的巴厘岛晚餐与文化表演，在绿意盎然的花园中品尝巴厘岛自助晚餐的美味，观赏巴厘岛舞蹈、巴龙舞和火舞表演，度过美丽的夜晚。带上你的朋友或亲人，一起在这里享受这难忘的用餐体验吧！
 
-- [水明漾的美食与文化盛宴](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888288&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F118852-authentic-balinese-dinner-cultural-show-at-the-seminyak-beach-resort-spa%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da7484af075)
+- [水明漾的美食与文化飨宴](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888288&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F118852-authentic-balinese-dinner-cultural-show-at-the-seminyak-beach-resort-spa%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da7484af075)
 
 ## 住在私人泳池别墅
 

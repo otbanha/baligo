@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/669262c9fd89780001902a76'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: c14d2307cd30a3c733aea4026d545625
+_srcHash: d2447ef5b406eebd9686f514387c6ad6
 ---
 
 > 以下内容由团友 [Alice Li](https://www.facebook.com/share/p/uSHXdUNFCKBocSnU/) 提供给我们重新编排：
@@ -61,7 +61,7 @@ Icon Bali 小杰的介绍
 
 这家Sunrise Laundry很棒！Alice Li 提供
 
-附近还有自助洗衣店，解决了我们几天来的换洗衣物问题。洗衣价格也很实惠，五公斤以内只需4美元，有专人帮忙洗好、烘干和折好，不过他们不提供烫衣服务喔！
+附近还有自助洗衣店，解决了我们几天来的换洗衣物问题。洗衣价格也很实惠，五公斤以内只需4美元，有专人帮忙洗好、烘干和折好，不过他们不提供熨衣服务喔！
 
 ## 按摩体验
 
@@ -83,7 +83,7 @@ Icon Bali 小杰的介绍
 
 总结来说，Sanur沙努尔区是一个非常适家庭和休闲游客的地区，无论是住宿、饮食还是娱乐活动都能满足你的需求。
 
-您觉得Alice Li他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
+您觉得Alice Li他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 
 ![raw-image](https://d2a6d2ofes041u.cloudfront.net/resize)
 

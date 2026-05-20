@@ -2,7 +2,7 @@
 title: '香港YouTuber推荐: 五件巴厘必做的事情'
 slug: yt-things-to-do-in-Bali
 description: >-
-  香港知名YouTuber她最近前往巴厘岛旅行,在那里住了十多天,体验了各种精彩活动。在视频中,她整理出五件巴厘必做的事情,让我们跟随她的步伐,一同领略巴厘岛的独特魅力...
+  香港知名YouTuber她最近前往巴厘岛旅行,在那里住了十多天,体验了各种精彩活动。在影片中,她整理出五件巴厘必做的事情,让我们跟随她的步伐,一同领略巴厘岛的独特魅力...
 pubDate: 2024-04-03T00:00:00.000Z
 pubHour: null
 category:
@@ -16,10 +16,10 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e671dd57b7c1d196ec96d2ca2f74f1a3.jpg'
 originalUrl: 'https://vocus.cc/article/660d1d54fd89780001dc5bbb'
 lang: zh-cn
-_srcHash: 7b1b341b3b2b752eb5b224063e930963
+_srcHash: 39f2304513b6b83f25fbcf471048c4d5
 ---
 
-香港知名YouTuber"[Crazy with YU芳婷](https://www.youtube.com/@crazywithyu)",她最近前往巴厘岛旅行,在那里住了十多天,体验了各种精彩活动。在视频中,她整理出五件巴厘必做的事情,让我们跟随她的步伐,一同领略巴厘岛的独特魅力。
+香港知名YouTuber"[Crazy with YU芳婷](https://www.youtube.com/@crazywithyu)",她最近前往巴厘岛旅行,在那里住了十多天,体验了各种精彩活动。在影片中,她整理出五件巴厘必做的事情,让我们跟随她的步伐,一同领略巴厘岛的独特魅力。
 
 ## 第一 冲浪体验
 
@@ -57,7 +57,7 @@ Crazy with YU芳婷视频截图
 
 Crazy with YU芳婷视频截图
 
-到了佩妮达岛后，在Crystal Bay的沙滩上，她们优哉自在地吃着早餐、喝啤酒、与流浪狗玩耍。虽然她认为那里的沙滩风景并不出众，但水质清澈如同浪茄湾。接着，他们前往其他知名景点Angels Billabong和Broken Beach，虽然游客众多，但那边的地质景观依然十分震撼动人。最后，他们来到一处恐龙造型的宝蓝色海滩，那儿的海水呈现漂亮的深浅渐变，使人不禁为之赞叹。
+到了佩妮达岛后，在Crystal Bay的沙滩上，她们悠闲地吃着早餐、喝啤酒、与流浪狗玩耍。虽然她认为那里的沙滩风景并不出众，但水质清澈如同浪茄湾。接着，他们前往其他知名景点Angels Billabong和Broken Beach，虽然游客众多，但那边的地质景观依然十分震撼动人。最后，他们来到一处恐龙造型的宝蓝色海滩，那儿的海水呈现漂亮的深浅渐层，使人不禁为之赞叹。
 
 ## 第三 Bamboo Villa住宿
 
@@ -65,7 +65,7 @@ Crazy with YU芳婷视频截图
 
 Crazy with YU芳婷视频截图
 
-在巴厘岛体验别具一格的住宿也是不可错过的。他们入住乌布一间充满原始风味的竹制别墅，一晚只需2000港币便拥有私人泳池、厨房和两间睡房，物超所值。别墅设计别出心裁，入口处就有私人泳池，泳池旁的沙发区可举办小型派对。二楼有独立卫浴，设有落地大玻璃直对原始冲凉区，整体环境恬静怡人。露台上可远眺山景，是个赏景小酌的好去处。
+在巴厘岛体验别具一格的住宿也是不可错过的。他们入住乌布一间充满原始风味的竹制别墅，一晚只需2000港币便拥有私人泳池、厨房和两间卧室，物超所值。别墅设计别出心裁，入口处就有私人泳池，泳池旁的沙发区可举办小型派对。二楼有独立卫浴，设有落地大玻璃直对原始淋浴区，整体环境恬静怡人。露台上可远眺山景，是个赏景小酌的好去处。
 
 巴厘岛最棒的 Bamboo Villas:
 
@@ -83,7 +83,7 @@ Crazy with YU芳婷视频截图
 
 > [Bamboo Turtles Ecolodge](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=32590035)
 
-> [Le Sabot Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115)
+> [Le Sabot 乌布](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115)
 
 ## 第四 巴厘岛荡秋千
 
@@ -115,13 +115,13 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 > [Tukad Cepung瀑布一日游 & 丛林秋千](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16085-tukad-cepung-waterfall-jungle-swing-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc6d4374e95)
 
-> 彭[里普兰村＆Kanto Lampo 瀑布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc4776ba80c)
+> [彭里普兰村＆Kanto Lampo 瀑布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc4776ba80c)
 
 {{block:ubud}}
 
-透过这场丰富多彩的巴厘岛之旅，Crazy with YU芳婷不仅体验了滑浪、欣赏各种自然景观，更住进特色别墅、荡秋千拍摄梦幻婚纱照，行程紧凑精彩。她更预告，下一集将带观众一窥令人向往的海底世界，潜水探索沉船和佛像景致。相信这段精彩分享，定能吸引更多观众前往巴厘岛一游。
+通过这场丰富多彩的巴厘岛之旅，Crazy with YU芳婷不仅体验了冲浪、欣赏各种自然景观，更住进特色别墅、荡秋千拍摄梦幻婚纱照，行程紧凑精彩。她更预告，下一集将带观众一窥令人向往的海底世界，潜水探索沉船和佛像景致。相信这段精彩分享，定能吸引更多观众前往巴厘岛一游。
 
-## 疯狂追看YU芳婷视频内容:
+## Crazy with YU芳婷视频内容:
 
 https://youtu.be/rjxXjs8BlE0?si=oRuQWNl2ajG2a02g
 

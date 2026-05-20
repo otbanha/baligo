@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f2d233b5cdc841409553c54fcd0d50a1.png'
 originalUrl: 'https://vocus.cc/article/65f39bd0fd897800012287e9'
 lang: zh-cn
-_srcHash: 9f3104cd3687bdc1bffdce2bcba53b80
+_srcHash: 2e5ac7cccf2d9cdf49dd446a834e1ae6
 ---
 
 我今天想和大家聊聊一个可能让你们有些意外的话题——为什么别再问巴厘岛的天气如何？
@@ -26,7 +26,7 @@ _srcHash: 9f3104cd3687bdc1bffdce2bcba53b80
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_26c4410d90cfbacef24b366044b27875.png)
 
-> 延伸阅读：[巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备选攻略](/blog/2026-bali-indoor-activities/)
+> 延伸阅读：[巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备选方案](/blog/2026-bali-indoor-activities/)
 
 > 延伸阅读：[巴厘岛最佳旅游时间？深入了解旱季、雨季/优缺点解析](/blog/bali-best-time-to-visit/)
 

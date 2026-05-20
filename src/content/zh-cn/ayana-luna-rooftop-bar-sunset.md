@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_85d4f10a50d1c5ba74a646b83e5ff706.jpg'
 originalUrl: 'https://vocus.cc/article/6721d7bbfd89780001ee1132'
 lang: zh-cn
-_srcHash: 095efa724db454320ce0c7bdbfba8172
+_srcHash: c58c9b84e03354c6a3405bef4981a140
 ---
 
 位于巴厘岛 AYANA Segara 的屋顶上有一个 Luna Rooftop Bar，以其夕阳美景和多变的氛围，成为享受放松的一个隐藏版去处。在这里高处俯瞰，日落的余晖与大海的壮阔交织，成为拍照爱好者的绝佳背景。在 Luna，享受的不仅仅是美食和饮品，更是难忘的回忆。
@@ -93,17 +93,17 @@ https://youtube.com/shorts/NAMjz-0M-bw
 
 底下是小杰在 Luna Rooftop Bar的实际体验短片：
 
-## Ayana 住宿全攻略
+## 阿雅娜住宿全攻略
 
-这一篇也收录在我们的【[阿雅那住宿全攻略](/blog/ayana-resort-bali-guide/)】里喔！想知道Ayana里头有什么有趣的设施，有哪些特色的泳池、有哪些值得拍照打卡的景点，这份攻略你不能错过喔！
+这一篇也收录在我们的【[阿雅娜住宿全攻略](/blog/ayana-resort-bali-guide/)】里哦！想知道阿雅娜里头有什么有趣的设施，有哪些特色的泳池、有哪些值得拍照打卡的景点，这份攻略你不能错过哦！
 
 ## 常见问题解答
 
-1. **如何预订 Luna Rooftop Bar？** 建议透过官网或 AYANA 度假村的app订位系统。
+1. **如何预订 Luna Rooftop Bar？** 建议通过官网或 AYANA 度假村的app订位系统。
 2. **开放时间为何？** 每日 09:00 至 23:00 开放。
 3. **漂浮早餐需要预约吗？** 是的，建议提前预约。
 4. **Luna 是否提供无酒精饮品？** 有多种无酒精选择供应。
 5. **Luna 与 Rock Bar 的区别是什么？** Luna 更加安静、私密，而 Rock Bar 更热闹。
-6. **如何到达 AYANA Segara？** 可通过巴厘机场搭乘出租车至Ayana Segera或酒店内的接驳车搭至「Segera」站下车。搭乘电梯前往顶楼。
+6. **如何到达 AYANA Segara？** 可通过巴厘岛机场搭乘出租车至Ayana Segera或酒店内的接驳车搭至「Segera」站下车。搭乘电梯前往顶楼。
 
 {{block:jim}}

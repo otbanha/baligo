@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_450b43c94fd0f97234ac5adee8b3a41c.jpg'
 originalUrl: 'https://vocus.cc/article/66670c4afd897800019dcac7'
 lang: zh-cn
-_srcHash: 4550e0d101e490a8524bc8508cd7086f
+_srcHash: ab3e792a6d89cd36ca4aecb77b8dcada
 ---
 
 近日，一名来自我们脸书社团的团友Poon分享了他在巴厘岛的旅游经历，强调了旅游安全的重要性，尤其是骑摩托车时的风险。他提醒其他旅客，在巴厘岛游玩时一定要特别注意安全。

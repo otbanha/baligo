@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6728cc00fd89780001c9bbdc'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 711e18c55643cf24430e92053b93ac32
+_srcHash: 7602bc192ba88ce565e1f3b32808e26f
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_bf4aff81a496a2d5578ba886191fbd45.jpg)
@@ -82,7 +82,7 @@ _srcHash: 711e18c55643cf24430e92053b93ac32
 
 ### 3. 猴林路逛街（Jalan Monkey Forest）🗺️[地图位置](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
-猴林路是乌布的主要购物街之一，沿街布满了特色商店、时尚精品店、咖啡馆和餐厅。这条街道既有当地手工艺品店，也有出售巴厘天然护肤品的店铺，椰子油和手工皂等商品尤其受欢迎。逛累了也可以在沿街的咖啡馆小憩，享用一杯香浓的巴厘咖啡。
+猴林路是乌布的主要购物街之一，沿街布满了特色商店、时尚精品店、咖啡馆和餐厅。这条街道既有当地手工艺品店，也有出售巴厘天然护肤品的店铺，椰子油和手工皂等商品尤其受欢迎。逛累了也可以在沿街的咖啡厅小憩，享用一杯香浓的巴厘咖啡。
 
 ### 4. 圣猴森林（Sacred Monkey Forest Sanctuary）🗺️[地图位置](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
@@ -150,7 +150,7 @@ _srcHash: 711e18c55643cf24430e92053b93ac32
 
 **10. 参观乌布皇宫需要事先预订吗？**
 
-- 白天参观无需预订，但若要观赏晚上的传统舞蹈表演，建议提前购票，以确保有位子，尤其是在旅游旺季时门票可能会很快售罄。
+- 白天参观无需预订，但若要观赏晚上的传统舞蹈表演，建议提前购票，以确保有座位，尤其是在旅游旺季时门票可能会很快售罄。
 
 **11. 现在还有巴厘岛王室住在乌布皇宫里面吗？**
 

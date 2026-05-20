@@ -16,14 +16,14 @@ originalUrl: 'https://vocus.cc/article/65717449fd89780001fda950'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: bf167ab05ee6e038ddb924d8447d8eb0
+_srcHash: b22c34a62f8b47bdeee3a7e46fb1d2b8
 ---
 
 ![一分鐘搞懂下飛機到出境的流程](https://images.gobaligo.id/vocus/vocus_1019ef9c6f5df198a383b2b7cd81d01c.png)
 
 一分鐘搞懂落機到出境嘅流程
 
-➡️[更多峇里島超值優惠請撳我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
+➡️[更多峇里島超值優惠請點我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
 ➡️[搵峇里島住宿請睇呢度](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
@@ -39,28 +39,28 @@ _srcHash: bf167ab05ee6e038ddb924d8447d8eb0
    如果你冇事先申請電子簽證，第一站你需要喺機場嘅Visa on Arrival（簡稱VoA）櫃檯排隊申請落地簽  
    ▶️ 落地簽好？電子簽好？請睇[印尼/峇里島電子簽證eVoa全攻略](/blog/bali-evisa-application-guide/)
 3. **填寫線上健康聲明表**  
-   為咗防制各種傳染病如猴痘、人類間質肺炎...等病毒嘅傳播，旅客需要填寫「健康聲明(SSHP)」。  
+   為咗防止各種傳染病如猴痘、人類間質肺炎...等病毒嘅傳播，旅客需要填寫「健康聲明(SSHP)」。  
    ▶️ 點填？請睇[SSHP填寫說明](/blog/2024-08-30-66d109f9fd89780001f47806/)
 4. **排隊移民局-檢查簽證/護照蓋章**  
    喺移民局櫃檯，你需要排隊等候查驗你嘅護照同簽證文件。請確保你嘅護照同簽證文件齊全。
 5. **電子通關服務**  
    若持有電子簽者略過第4步驟，直接行「自動通關閘門」，適用於雅加達國際機場以及峇里島國際機場。  
-   ▶️ 點樣自動通關？請睇[峇里島自動通關流程攻略](/blog/2025-bali-automatic-customs/)
+   ▶️ 點自動通關？請睇[峇里島自動通關流程攻略](/blog/2025-bali-automatic-customs/)
 6. **拎行李**  
-   喺完成移民局查驗/自動通關後，你可以前往行李提領區拎你嘅行李。
+   喺完成移民局查驗/自動通關後，你可以去行李提領區拎你嘅行李。
 7. **過海關行李檢查**  
-   最後一關，你需要通過海關檢查。請提前填妥電子報關單（e-CD）並出示畀海關人員。務必遵守規定，切勿攜帶違禁物品入境，例如水果、植物或超額外幣等。  
+   最後一關，你需要通過海關檢查。請提前填妥電子報關單（e-CD）並出示俾海關人員。務必遵守規定，切勿攜帶違禁物品入境，例如水果、植物或超額外幣等。  
    ▶️ 報關單詳細規定與填寫教學：[電子報關單填寫說明](/blog/bali-e-customs-declaration/)
-8. **觀光稅**  
+8. **觀光税**  
    2024/2/14起入境峇里島嘅國際旅客需要事先繳交  
-   ▶️ 點樣繳交？請睇[觀光稅](/blog/2026-bali-tourism-tax-guide/)說明
+   ▶️ 點繳交？請睇[觀光稅](/blog/2026-bali-tourism-tax-guide/)說明
 
 > 延伸閱讀：[峇里島入境需要準備咩文件？](/blog/indonesia-bali-visa-evoa-faq/)
 
 **開始享受你嘅假期！**  
-通過海關後，恭喜你完成入境流程！而家可以前往接機大廳，同預訂嘅司機或家人朋友會合，開啟美好旅程！
+通過海關後，恭喜你完成入境流程！而家可以去接機大堂，同預訂嘅司機或家人朋友會合，開啟美好旅程！
 
-➡️[更多峇里島超值優惠請撳我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
+➡️[更多峇里島超值優惠請點我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
 ➡️[搵峇里島住宿請睇呢度](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️
 
@@ -72,4 +72,4 @@ _srcHash: bf167ab05ee6e038ddb924d8447d8eb0
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。

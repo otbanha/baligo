@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/664c8e46fd89780001240c04'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: d5b92b6f726c271e6a98be33e7dfe870
+_srcHash: 70dc0796250a93139c8d09acacfe9923
 ---
 
 你是否曾经好奇过印尼的30天落地签证可以第30天才离开吗？这是一个许多计划前往印尼/巴厘岛旅游的人常问的问题。在这篇文章中，我们将深入探讨印尼30天落地签证的各方面信息，解答你的疑问，并提供一些实用的旅游建议。
@@ -40,7 +40,7 @@ _srcHash: d5b92b6f726c271e6a98be33e7dfe870
 
 > 延伸阅读：[巴厘岛旅游签证攻略：落地签 vs 电子签，哪种更适合你？](/blog/bali-visa-landing-vs-electronic/)
 
-> 延伸阅读：[[视频教学] 印尼/巴厘岛电子签证详细步骤申请教学](/blog/bali-evisa-application-tutorial/)
+> 延伸阅读：[[视频教学] 印尼/巴厘岛电子签证详细步骤申请教程](/blog/bali-evisa-application-tutorial/)
 
 ## 落地签证的有效期
 

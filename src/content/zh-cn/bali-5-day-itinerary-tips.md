@@ -15,10 +15,10 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_02c8c3347a57c7c83b5f9bb7d913afdb.jpg'
 originalUrl: 'https://vocus.cc/article/6686bcc4fd897800018fb206'
 lang: zh-cn
-_srcHash: 4c2ba13d775864c3ad84f3bbe83528ba
+_srcHash: 35f760adc8d917a0ad9679b5966abb3e
 ---
 
-> 以下内容由团友[杨方瑜](https://www.facebook.com/profile.php?id=100007984449707&__cft__[0]=AZWF8drZCykDGimUAIn01CgD0q9EmqwShYrSkAU1vTUygnMiuAHj0Dyiy7Mfvc95BQiIKbi7tqEnxZOuzPIjxVX8Uvm2nPwiAQHqYH9K1rd0K6wsEWfdU0n0O4LvHsKbRNelUSbGDTuDL0Q-NLP8DK-ewIIF0voZvzIWxluaHyQBSA&__tn__=-UC%2CP-R)提供，并同意我们改编
+> 以下内容由团友​[杨方瑜](https://www.facebook.com/profile.php?id=100007984449707&__cft__[0]=AZWF8drZCykDGimUAIn01CgD0q9EmqwShYrSkAU1vTUygnMiuAHj0Dyiy7Mfvc95BQiIKbi7tqEnxZOuzPIjxVX8Uvm2nPwiAQHqYH9K1rd0K6wsEWfdU0n0O4LvHsKbRNelUSbGDTuDL0Q-NLP8DK-ewIIF0voZvzIWxluaHyQBSA&__tn__=-UC%2CP-R)提供，并同意我们改编
 
 这次的巴厘岛之旅虽然只有短短的5天4夜，但真的觉得扣除前后两天的移动时间后，玩的时间还是太少了！这趟行程比较偏累，并不是那种轻松度假的旅行。巴厘岛的交通状况比较容易塞车，所以建议大家尽量早起，这样可以走更多的行程。
 
@@ -32,7 +32,7 @@ _srcHash: 4c2ba13d775864c3ad84f3bbe83528ba
 4. 货币兑换：建议携带美金到当地兑换成卢比。
 5. 防晒：巴厘岛的阳光非常强烈，忘记带防晒霜的话，很容易晒黑。
 6. 网络使用：建议使用Esim卡，我在虾皮购买了「全球跨境旅游达人」的Esim卡，除非去偏远山区，网速都很稳定。前一天买隔天就可以使用，非常方便。
-7. 玩水拍美照：如果计划玩水后拍美照，记得带支持220V吹风机。
+7. 玩水拍美照：如果计划玩水后拍美照，记得带支援220V吹风机。
 8. 按摩体验：不论是哪一家按摩店，感觉都像抽奖一样。幸运的是，我们每次按摩体验都很不错，即便是在路边随意选的店也是如此。
 9. 拍照技巧：想拍出网红照，建议事先研究好拍照姿势，并请旅伴练习拍摄技术。我就是不会拍雷的那个。
 10. 小费习惯：巴厘岛是一个习惯给小费的国家，一般给小费最基本大约是10000卢比（约合USD$1），不要给零钱或太小的钞票，这样比较礼貌。
@@ -59,7 +59,7 @@ _srcHash: 4c2ba13d775864c3ad84f3bbe83528ba
 
 - 时间：15:00
 - 地点：Soulshine Bali
-- 亮点：这家酒店的泳池非常美丽，而且设有滑水道，服务也很好。房价包含早餐，非常适合花较长时间待在酒店的旅客，性价比高。每晚约USD$260。
+- 亮点：这家酒店的泳池非常美丽，而且设有滑水道，服务也很好。房价包含早餐，非常适合花较长时间待在酒店的旅客，性价比高。每晚约USD$258。
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776173308296-409519257.jpg)
 
@@ -94,7 +94,7 @@ _srcHash: 4c2ba13d775864c3ad84f3bbe83528ba
 
 - 时间：20:30
 - 地点：Arcadia Restaurant
-- 特色：这家餐厅的套餐系列餐点都非常精致美味，且多为外国客人光顾。服务非常周到，环境也很棒。套餐价格约USD$50，需额外加收11%餐饮税和4.5%的服务费。
+- 特色：这家餐厅的套餐系列餐点都非常精致美味，且多为外国客人光顾。服务非常周到，环境也很棒。套餐价格约USD$48，需额外加收11%餐饮税和4.5%的服务费。
 
 这一天的行程安排相对轻松，先换好钱后到乌布入住一间高性价比的酒店，之后享受舒适的按摩，最后在环境优雅的餐厅享用美味的晚餐，为接下来的行程做好充分准备。
 
@@ -126,7 +126,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 > [ATV登火山](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F79494-kintamani-pine-tree-atv-quad-bike-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3a7c769872)
 
-**3. **阿勇河漂流**
+**3.** **阿勇河漂流**
 
 ![（楊方瑜提供）](https://images.gobaligo.id/vocus/vocus_3303418739a0e1bb2910415c80d34051.jpg)
 
@@ -135,7 +135,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 - 准备：漂流需要走路，建议穿舒适的鞋子并准备防水袋。漂流结束后如果想拍美照，可以带吹风机和洗发用品。
 - 时长：ATV+漂流大约需要5小时。
 
-编者按：对于热爱挑战的冒险者而言，参加漂流活动（rafting）是一个极为吸引人的选择。乌布周边的河流迂回蜿蜒，穿越蔚蓝的山谷和丛林，为冒险爱好者提供了一场全新的探险之旅。在这趟冒险中，你将穿越宜人的风景，沿途遇到急流和平缓的水道，让你能够充分体验刺激和放松并存的愉悦感觉。这不仅仅是一场冒险，更是一次与自然亲密接触的契机，让你感受到水流、树木和大地的充沛活力。
+编按：对于热爱挑战的冒险者而言，参加漂流活动（rafting）是一个极为吸引人的选择。乌布周边的河流迂回蜿蜒，穿越蔚蓝的山谷和丛林，为冒险爱好者提供了一场全新的探险之旅。在这趟冒险中，你将穿越宜人的风景，沿途遇到急流和平缓的水道，让你能够充分体验刺激和放松并存的愉悦感觉。这不仅仅是一场冒险，更是一次与自然亲密接触的契机，让你感受到水流、树木和大地的充沛活力。
 
 参考：[【巴厘岛漂流 FAQ】不会游泳也能玩？年龄限制、安全须知与阿勇河 vs 泰拉嘉河全解析](/blog/bali-rafting-ayung-telaga-waja/)
 
@@ -152,7 +152,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 - 体验：体验秋千的刺激，同时拍出美丽的网红照，留下美好回忆
 - 有很多不同的地方，可以请司机推荐，但是价格不一，可以租衣服。我们遇到比较好的还会帮我们侧拍视频
 
-编者按：在乌布，即使是荡秋千都能成为一种富有异国风情的体验。在乌布的一些专门的地方，你会发现各种各样独特而精心设计的秋千，悬挂在绿树间或者面对迷人的山谷美景。荡秋千不仅是一种玩乐的方式，更是一种在宁静中欣赏乌布美景的绝佳方式。尽情荡动，让心随着微风摇曳，感受一份轻松和惬意。
+编者按：在乌布，即使是荡秋千都能成为一种富有异国风情的体验。在乌布的一些专门的地方，你会发现各种各样独特而精心设计的荡秋千，悬挂在绿树间或者面对迷人的山谷美景。荡秋千不仅是一种玩乐的方式，更是一种在宁静中欣赏乌布美景的绝佳方式。尽情荡动，让心随着微风摇曳，感受一份轻松和惬意。
 
 > [【乌布秋千攻略】8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](/blog/ubud-jungle-swings-photo-guide/)
 
@@ -166,25 +166,20 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 **6. 回到酒店**
 
 - 地点：Soulshine Bali
+
 这一天的行程充满了冒险与刺激，从ATV骑行到阿勇河泛舟，再到秋千网红拍照，都是非常值得体验的活动。最后，选择一间热门的餐厅享用晚餐，然后回到酒店休息。
 
 ### 6月1日
 
 **1. 乌布酒店早餐**
+
 - 时间：享用早餐后，11:00办理退房手续
 
 **2. 水明漾酒店入住**
+
 - 时间：12:30
-- 地点：Villa DeDayuh Seminyak
+- 地点：Villa DeDayuh 水明漾
 - 亮点：这家别墅拥有厨具、泳池和浴缸，非常适合长时间在酒店度假的旅客。服务超级好，通过WhatsApp可以获得专人详细回答。价格大概每晚USD$130。
-
-> [Villa DeDayuh Seminyak 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11088131)
-
-**2. 水明漾飯店入住**
-
-- 時間：12:30
-- 地點：Villa DeDayuh Seminyak
-- 亮點：這家別墅擁有廚具、泳池和浴缸，非常適合長時間在飯店渡假的旅客。服務超級好，通過WhatsApp可以獲得專人詳細回答。價格大概每晚新台幣4000多元。
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776173616565-250438251.jpg)
 
@@ -206,7 +201,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776173620753-250438245.jpg)
 
-> [Villa DeDayuh Seminyak 空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11088131)
+> [Villa DeDayuh 水明漾 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11088131)
 
 **3. 南湾活动**
 
@@ -260,7 +255,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 （杨方瑜提供）
 
 - 亮点：可以选择在日落时分骑马或骆驼，体验独特的金巴兰美景。
-- 网上查好很多日落的拍法可以留下很好的纪念
+- 网络查好很多日落的拍法可以留下很好的纪念
 
 > [【掌握巴厘岛日落时间最佳观赏指南】七大巴厘岛日落观赏地点，你去过几个？](/blog/bali-sunset-spots-guide/)
 
@@ -269,7 +264,7 @@ https://youtu.be/MYpBVbJqXL8?si=-t2L2CW-9xyhGRe5
 **6. 按摩**
 
 - 地点：Piramid Jimbar
-- 体验：这里的环境超美，按摩前会先让你喂鱼，先付款后再按摩。需要注意的是，洗澡时间也会算在按摩时长内。按摩非常满意，但花浴容易引起过敏，需自行衡量。所有花都是新鲜的，有可能有小虫。花浴需另外付款及订金，2小时的按摩约USD$77，不含排图案的花浴。图案颜色可先通过WhatsApp沟通确认。
+- 体验：这里的环境超美，按摩前会让你先喂鱼，先付款后再按摩。需要注意的是，洗澡时间也会算在按摩时长内。按摩非常满意，但花浴容易引起过敏，需自行衡量。所有花都是新鲜的，有可能有小虫。花浴需另外付款及订金，2小时的按摩约USD$77，不含排图案的花浴。图案颜色可先通过WhatsApp沟通确认。
 
 **7. 晚餐**
 
@@ -325,7 +320,7 @@ https://youtu.be/cbACc0Ey-A4
 
 ![楊方瑜提供。編按：圖左不是洋芋片喔！它是木薯片](https://images.gobaligo.id/vocus/vocus_b2e34c73e636c9ac7b9b322bd4ec6de9.jpg)
 
-杨方瑜提供。编注：图左不是薯片喔！它是木薯片
+杨方瑜提供。编按：图左不是洋芋片喔！它是木薯片
 
 **3. 机场**
 
@@ -349,7 +344,7 @@ https://youtu.be/cbACc0Ey-A4
 
 这次的巴厘岛之旅虽然只有短短的几天，但每一天都充满了新鲜和刺激的体验。从乌布的文化之旅，到水明漾的悠闲度假，从南湾的水上活动，到金巴兰的日落美景，每一刻都让人难忘。在旅途中找一位可靠的包车司机，不仅减少了语言的障碍，更让行程更加顺畅。巴厘岛的美丽景色和丰富的文化底蕴，值得每一位旅人细细品味。期待下次再来探索这片天堂般的岛屿！
 
-您觉得杨方瑜他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得杨方瑜他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 {{block:遊記}}
 

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/669a60fffd89780001d61fb5'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: dab54e5b6734f39fe7d85277184be699
+_srcHash: 6b4d5ba78e7331d10b95e92fb7a91c07
 ---
 
 Aloha Ubud Swing 係峇里島上一個獨特又受歡迎嘅旅遊景點，位於 Gianyar 縣嘅德哥拉朗地區。呢度唔單止有令人驚嘆嘅自然風光，仲提供多種唔同高度同類型嘅鞦韆，畀遊客選擇，成為影靚相嘅理想地點。
@@ -35,7 +35,7 @@ Aloha Ubud Swing 係峇里島上一個獨特又受歡迎嘅旅遊景點，位於
 
 ### **雙人鞦韆**
 
-雙人鞦韆就特別適合同家人、朋友或者伴侶一齊享受嘅遊客。佢比單人鞦韆更大，可以同時容納兩個人，畀你哋一齊喺空中翱翔。
+雙人鞦韆就特別適合同家人、朋友或者伴侶一齊享受嘅遊客。佢比單人鞦韆更大，可以同時容納兩個人，令你哋一齊喺空中翱翔。
 
 ![天秤鞦韆](https://images.gobaligo.id/vocus/vocus_e6d9aa5503cc960b1a8422832dfa338d.jpg)
 
@@ -43,60 +43,60 @@ Aloha Ubud Swing 係峇里島上一個獨特又受歡迎嘅旅遊景點，位於
 
 ### **天秤鞦韆**
 
-天秤鞦韆係好多遊客夢寐以求嘅打卡點。佢個框架設計優雅，令每一個瞬間都顯得特別溫馨同特別。
+天秤鞦韆係好多遊客夢寐以求嘅打卡位。佢個框架設計優雅，令每一個瞬間都顯得特別溫馨同特別。
 
 ### **鳥巢**
 
-鳥巢嘅設計似足一個巨型嘅鳥巢，好適合啲唔想喺高空擺動影相嘅遊客。
+鳥巢嘅設計似足一個巨型嘅雀巢，好適合啲想影相但又唔想喺高空擺動嘅遊客。
 
 ### **愛心天鵝雕像**
 
-呢度仲有兩隻相對而立嘅天鵝雕像，形成一個心形，背後係靚到爆嘅自然景色，係影相嘅理想背景。
+呢度仲有兩隻相對而立嘅天鵝雕像，形成一個心形，背後係靚絕嘅自然景色，係影相嘅理想背景。
 
-### **大石頭打卡點**
+### **大石頭打卡位**
 
-你可以爬上一塊大石頭，呢度都係一個好受歡迎嘅打卡點，可以影到好有特色嘅相。
+你可以爬上一塊大石頭，呢度都係一個好受歡迎嘅打卡位，可以影到好有特色嘅相。
 
 ### **蝴蝶花園**
 
-Aloha Ubud Swing 仲有一個蝴蝶花園，呢度色彩繽紛同生態環境都令人流連忘返。
+Aloha Ubud Swing 仲設有一個蝴蝶花園，呢度嘅色彩繽紛同生態環境令人流連忘返。
 
 ## **Aloha Ubud Swing 嘅設施**
 
-Aloha Ubud Swing 提供一系列設施，確保每位遊客嘅舒適同安全，包括：
+Aloha Ubud Swing 提供一系列嘅設施，確保每位遊客嘅舒適同安全，包括：
 
 - 寬敞嘅停車場
 - 乾淨嘅廁所
 - 免費 Wi-Fi
-- 每個景點都配備安全設備
+- 每個景點均配備安全設備
 - 提供租借裙同長袍嘅服務
 - 餐廳
 
 ## **營業時間**
 
-Aloha Ubud Swing 每日開放，營業時間係朝早 8 點至下晝 5 點。建議遊客喺朝早 9 點至 10 點之間到達，避開人潮高峰期。
+Aloha Ubud Swing 每日開放，營業時間為上午 8 點至下午 5 點。建議遊客喺上午 9 點至 10 點之間到達，避免人群高峰期。
 
 ## **門票價格**
 
 進入 Aloha Ubud Swing 嘅遊客可以選擇唔同嘅優惠套餐，包括：
 
-- 500,000 印尼盾嘅套餐，包含從烏布地區住宿地點嘅來回交通（至少 2 人）
-- 600,000 印尼盾嘅套餐，包含從 Payangan、Pejeng、Sayan、沙努爾、坎古、水明漾、庫塔同 Legian 地區住宿地點嘅來回交通（至少 2 人）
-- 650,000 印尼盾嘅套餐，包含從努沙杜瓦、金巴蘭、Benoa 地區住宿地點嘅來回交通（至少 2 人）
-- 400,000 印尼盾嘅套餐，唔包交通服務
-- 亦可以喺 Klook 取得更優惠嘅價格▶[Klook優惠價](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888111&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D106f12812b)
+- USD$33 嘅套餐，包含從烏布地區住宿地點嘅往返交通（至少 2 人）
+- USD$40 嘅套餐，包含從 Payangan、Pejeng、Sayan、沙努爾、坎古、水明漾、庫塔同 Legian 地區住宿地點嘅往返交通（至少 2 人）
+- USD$43 嘅套餐，包含從努沙杜瓦、金巴蘭、Benoa 地區住宿地點嘅往返交通（至少 2 人）
+- USD$27 嘅套餐，唔包交通服務
+- 亦可以喺Klook取得更優惠嘅價格▶[Klook優惠價](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888111&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D106f12812b)
 
-Aloha Ubud Swing 係峇里島上一個令人難忘嘅旅遊景點，適合所有年齡層嘅遊客。喺呢度，你可以挑戰唔同高度嘅鞦韆，享受驚險刺激嘅同時，亦可以捕捉到無數美麗嘅瞬間。豐富嘅設施同便利嘅交通服務令呢個地方成為你旅行清單中嘅必訪之地。
+Aloha Ubud Swing 係峇里島上一個令人難忘嘅旅遊景點，適合所有年齡層嘅遊客。喺呢度，你可以挑戰各種高度嘅韆鞦，享受驚險刺激嘅同時，亦可以捕捉到無數美麗嘅瞬間。豐富嘅設施同便利嘅交通服務令呢個地方成為你旅行清單中嘅必訪之地。
 
 > 延伸閱讀：[峇里島烏布完整攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](/blog/ubud-guide/)
 
 ## **常見問題**
 
-**1. Aloha Ubud Swing 嘅位置喺邊？** Aloha Ubud Swing 位於峇里島 Gianyar 縣嘅 Tegallalang 地區。
+**1. Aloha Ubud Swing 嘅位置喺邊度？** Aloha Ubud Swing 位於峇里島 Gianyar 縣嘅 Tegallalang 地區。
 
-**2. Aloha Ubud Swing 嘅營業時間係幾時？** 每日上午 8 點至下午 5 點開放。
+**2. Aloha Ubud Swing 嘅營業時間係幾點？** 每日上午 8 點至下午 5 點開放。
 
-**3. 門票價錢係幾多？** 門票價錢由 400,000 印尼盾到 650,000 印尼盾不等，視乎你揀嘅套餐同包唔包交通服務。你亦可以喺Klook攞到更優惠嘅價錢▶[Klook優惠價](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888111&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D106f12812b)。
+**3. 門票價錢係幾多？** 門票價錢由 400,000 印尼盾到 650,000 印尼盾不等，具體視乎你揀嘅套餐同包唔包交通服務。你亦可以喺Klook搵到更抵嘅價錢▶[Klook優惠價](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888111&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F20061-aloha-ubud-swing-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D106f12812b)。
 
 **4. 有咩設施可以用？** Aloha Ubud Swing 提供停車場、廁所、免費 Wi-Fi、安全設備、衫褲租借服務同餐廳。
 

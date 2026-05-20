@@ -1,7 +1,7 @@
 ---
 slug: ayana-resort-bali-experience
 title: 巴厘岛Ayana阿雅娜度假村住宿体验 - 世外桃源般的度假天堂
-description: '巴厘岛的Ayana度假村是一个极其受欢迎的巴厘岛住宿点。YouTuber 设计师不累designer play发布的视频,带观众认识他在这里的精彩体验。'
+description: 巴厘岛的Ayana度假村是一个极其受欢迎的巴厘岛住宿点。YouTuber 设计师不累designer play发布的视频，带观众认识他在这里的精彩体验。
 pubDate: 2024-04-10T00:00:00.000Z
 category:
   - 住宿推薦
@@ -31,32 +31,32 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5c7513ab8313b5d1aa4c189bbff4899c.jpg'
 originalUrl: 'https://vocus.cc/article/660bcff3fd89780001d037ad'
 lang: zh-cn
-_srcHash: 279a1a41149fcb2c744c47a659c0a4de
+_srcHash: e30a258f39a6a8050852397909362b6b
 ---
 
-巴厘岛的Ayana度假村是一个极其受欢迎的巴厘岛住宿点。YouTuber "设计师不累designer play"发布的视频,带观众认识他在这里的精彩体验。
+巴厘岛的Ayana度假村是一个极其受欢迎的巴厘岛住宿点。YouTuber "设计师不累designer play"发布的视频，带观众认识他在这里的精彩体验。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_78abb65bfce24b223df05ec5ea51baab.jpg)
 
-一开场,他就被房间内外的绝佳景观所吸引。宽敞的落地玻璃窗外,是一片绿油油的草地和远处的海岸线,配上阳光普照、鸟语虫鸣,营造出度假的写意氛围。
+一开场，他就被房间内外的绝佳景观所吸引。宽敞的落地玻璃窗外，是一片绿油油的草地和远处的海岸线，配上阳光普照、鸟语虫鸣，营造出度假的写意氛围。
 
 !["設計師不累designer play" 視頻截圖](https://images.gobaligo.id/vocus/vocus_6256d9da21f172190b812ba94e8f1cfd.jpg)
 
 "设计师不累designer play" 视频截图
 
-入住后的第一天清晨,他先在villa的无边际泳池游了会儿泳,欣赏着这处世外桃源般的美景。
+入住后的第一天清晨，他先在villa的无边际游泳池游了会儿泳，欣赏着这处世外桃源般的美景。
 
 !["設計師不累designer play" 視頻截圖](https://images.gobaligo.id/vocus/vocus_0786af7ca3ef2945dc26299c1d33e173.jpg)
 
 "设计师不累designer play" 视频截图
 
-傍晚时分,他换上休闲装扮,乘坐度假村内的高尔夫球车前往远近闻名的Rock Bar。抵达后,服务生带领他坐在最佳的露天位置,面对着印度洋的绝佳视野。夕阳渐渐西沉,他边欣赏着现场的浪漫音乐表演,边品尝着特色的水烟,感受其中可调节的不同风味。用过晚餐后,他依依不舍地离开这处全球最美十大酒吧之一。
+傍晚时分，他换上休闲装扮，乘坐度假村内的高尔夫球车前往远近闻名的Rock Bar。抵达后，服务员带领他坐在最佳的露天位置，面对着印度洋的绝佳视野。夕阳渐渐西沉，他边欣赏着现场的浪漫音乐表演，边品尝着特色的水烟，感受其中可调节的不同风味。用过晚餐后，他依依不舍地离开这处全球最美十大酒吧之一。
 
 !["設計師不累designer play" 視頻截圖](https://images.gobaligo.id/vocus/vocus_a3dedf9508b6892ebd211a0be43b660d.jpg)
 
 "设计师不累designer play" 视频截图
 
-第二天换了另一间villa房型后,他继续探索Ayana的多处泳池区。先是在Rimba泳池游了会儿泳,欣赏着池畔的热带花卉风光。接着乘车前往Ayana Resort,在那里的大型泳池尽情游尽兴,偶尔还滑上几次溜滑梯。最后他来到了h2o泳池,这里是最红的网红打卡拍照点,他也在这里拍下一些旅游纪念照。
+第二天换了另一间villa房型后，他继续探索Ayana的多处泳池区。先是在Rimba泳池游了会儿泳，欣赏着池畔的热带花卉风光。接着乘车前往Ayana Resort，在那里的大型泳池尽情游尽兴，偶尔还滑上几次滑梯。最后他来到了h2o泳池，这里是最红的网红打卡拍照点，他也在那里拍下一些旅游纪念照。
 
 !["設計師不累designer play" 視頻截圖](https://images.gobaligo.id/vocus/vocus_7c29bcc10ea65ed9bddc844e6ba079c1.jpg)
 

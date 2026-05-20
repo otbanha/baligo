@@ -1,7 +1,7 @@
 ---
 slug: bali-top-destination-2024
 title: 印尼在2024年接待超过1200万名游客，巴厘岛仍是首选目的地
-description: '更新的观光数据显示：印尼旅游业迎来五年来最繁忙的一年, 尤其是巴厘岛'
+description: '更新的观光数据显示：印尼旅游业迎来五年来最繁忙的一年, 尤其是巴厘岛 '
 pubDate: '2025-01-03'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3147c40e7cafbb0228c62f1160057284.jpg'
 tags:
@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67775955fd89780001fec8cc'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 1148d5a8ea06f7526c9c5aec5a242da4
+_srcHash: 0cc29ea82a9708dde54741558a90a033
 ---
 
 ## **更新的观光数据显示：印尼旅游业迎来五年来最繁忙的一年**
@@ -39,7 +39,7 @@ _srcHash: 1148d5a8ea06f7526c9c5aec5a242da4
 
 ![平時人少悠閒的沙努爾海灘, 在聖誕-新年假期期間也擠滿人!](https://images.gobaligo.id/vocus/vocus_595cdf4d8c2a3b57b25aaeeb3f2572c2.jpg)
 
-平时人少悠闲的沙努尔海滩，在圣诞-新年假期期间也挤满了人！
+平时人少悠闲的沙努尔海滩, 在圣诞-新年假期期间也挤满了人!
 
 **快速参考:**
 
@@ -65,7 +65,7 @@ _srcHash: 1148d5a8ea06f7526c9c5aec5a242da4
 
 ## 巴厘机场迎接新年的热情氛围
 
-作为巴厘省的主要门户，伍拉·赖国际机场（I Gusti Ngurah Rai Airport）于2024年底以传统的巴厘省文化舞蹈和甘美兰（Gamelan）乐团表演欢送最后一批航班旅客，并迎接2025年的第一批航班旅客。机场总经理艾哈迈德·沙乌吉·沙哈布（Ahmad Syaugi Shahab）表示：「我们希望将机场打造成展示印尼文化、尤其是巴厘省文化的窗口，并为旅客创造愉快且难忘的体验。」
+作为巴厘省的主要门户，伍拉·赖国际机场（I Gusti Ngurah Rai Airport）于2024年底以传统的巴厘省文化舞蹈和甘美兰（Gamelan）乐团表演欢送最后一批航班旅客，并迎接2025年的第一批航班旅客。机场总经理艾哈迈德·沙乌吉·沙哈布（Ahmad Syaugi Shahab）表示：“我们希望将机场打造成展示印尼文化、尤其是巴厘省文化的窗口，并为旅客创造愉快且难忘的体验。”
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6dec8613de7c1b17f3afeb7f3d84d07a.png)
 

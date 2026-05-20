@@ -39,14 +39,14 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_89856d64068912cc57d2c11c809601ef.jpg'
 originalUrl: 'https://vocus.cc/article/683ea036fd89780001ff6ce2'
 lang: zh-cn
-_srcHash: d4793544eaf9b361e81273cd00f038f9
+_srcHash: 4cd0ea435de38c585aa7879497758fde
 ---
 
 如果你热爱地中海风格，向往在纯白拱门与蓝色泳池间拍出如杂志封面的美照，那么 MAJA Canggu 绝对是你在巴厘岛坎古（Canggu）不可错过的住宿选择。这间成人专属的精品民宿，**仅有三间套房**，提供私密且宁静的度假体验。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_46690b92a4255d3c1a5f80169b9fa3c5.jpg)
 
-## 地中海的建筑设计
+## 地中海风格的建筑设计
 
 MAJA Canggu 的建筑设计灵感来自希腊圣托里尼，白色墙面、拱形门窗与蓝色泳池相互辉映，营造出清新明亮的氛围。每一处细节都经过精心设计，让人仿佛置身于地中海的度假村中。
 

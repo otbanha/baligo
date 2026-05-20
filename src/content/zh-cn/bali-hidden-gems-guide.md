@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/66e06a8dfd89780001ffbbc3'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: db94b5e1242d7f583e9b511aad4d7fc1
+_srcHash: 9c50c87107d6a3da5470a25e26283664
 ---
 
 > 以下内容由团友 [施念忻](https://www.facebook.com/share/p/NCJtqGxCyfKoE3ui/) 提供给我们重新编排：
@@ -67,13 +67,13 @@ _srcHash: db94b5e1242d7f583e9b511aad4d7fc1
 
 接下来，我前往了巴厘岛的文化心脏——乌布。这里有着浓厚的艺术氛围与田园风光，与水明漾的繁华形成鲜明对比。首先造访了乌布皇宫附近的传统市集，这里的摊贩琳琅满目，从手工艺品到当地特产，处处都充满着发现的惊喜。建议大家预留足够的时间来“挖宝”，因为每一个摊位都可能藏着你梦寐以求的独特纪念品。
 
-在乌布弥漫着异国风情的小巷里，我遇见了两家让人流连忘返的餐厅—— **Kebun Bistro** 和 **Kusi**，这两家餐厅无论是餐点还是氛围，都让人感受到不一样的乌布味道。(收录在：我们收集了20多家美食推荐的「[乌布攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)」)
+在乌布弥漫着异国情调的小巷里，我遇见了两家让人流连忘返的餐厅—— **Kebun Bistro** 和 **Kusi**，这两家餐厅无论是餐点还是氛围，都让人感受到不一样的乌布味道。(收录在：我们收集了20多家美食推荐的「[乌布攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)」)
 
 ![Kebun Bistro（施念忻提供）](https://images.gobaligo.id/vocus/vocus_193037376252434bf3ae32277b2e86ba.jpg)
 
 Kebun Bistro（施念忻提供）
 
-我们在乌布入住的 **Kamala Resort** 虽然在某些细节上略显不足，但时不时来访的猴子却成为了这里的亮点之一。这些小客人让整个住宿体验更加生动有趣，特别适合喜爱大自然的朋友们。
+我们在乌布入住的 **Kamala Resort** 虽然在某些细节上略显不足，但时不时来访的猴子却成为了这里的亮点之一。这些“小客人”让整个住宿体验更加生动有趣，特别适合喜爱大自然的朋友们。
 
 **延伸阅读：**
 

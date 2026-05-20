@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/679370fefd89780001df01e0'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 023dec4b4af1a73128903606ffd37f9a
+_srcHash: f3232488af5f9ffa383c9e25988044f3
 ---
 
 > 以下内容改编自团友 [I-Hsuan Chang](https://www.facebook.com/share/p/1A2YKPcp52/) 分享游记：
@@ -34,7 +34,7 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 建议大家一出机场后，直接往左走，你会看到一个小停车场，Grab司机通常都在那边等待乘客。这样可以避免被其他出租车司机打扰，也能更快找到你的车。不过，等待的过程中还是会有一些司机过来搭讪，这时候只要坚定地告诉他们你已经叫好车就可以了。
 
-在巴厘岛的几天，我们几乎都是用Grab来移动。Grab的优点是车子非常多，几乎在任何景点或餐厅，3分钟内就能叫到车，非常方便。而且大部分的司机英文都不错，态度也很友善，收费都是按照App上的价格，完全不用担心被坑。唯一的小问题是，巴厘岛的零钱比较少见，有时候我们没有足够的小钞，就会直接告诉司机不用找零了，差额其实也就几块钱，司机们通常都会很感激。
+在巴厘岛的几天，我们几乎都是用Grab来移动。Grab的优点是车子非常多，几乎在任何景点或餐厅，3分钟内就能叫到车，非常方便。而且大部分的司机英文都不错，态度也很友善，收费都是按照App上的价格，完全不用担心被坑。唯一的小问题是，巴厘岛的零钱比较少见，有时候我们没有足够的小钞，就会直接告诉司机不用找零了，差额其实也就几美元，司机们通常都会很感激。
 
 不过，巴厘岛的交通状况真的让人头痛🤣。快慢车道不分，摩托车随意穿梭，有时候看着摩托车从车缝中钻来钻去，真的会觉得下一秒就要撞上了。如果你胆子比较大，可以试试Grab的摩托车服务，尤其是在尖峰时刻，汽车真的会塞到让人崩溃。我们有一次从一个景点到另一个地方，距离只有20公里，结果开了整整两个小时才到，真的是让人哭笑不得。
 
@@ -78,13 +78,13 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 ![立即聯絡 Karuna](https://images.gobaligo.id/vocus/vocus_b4db1976a12ecdc63f714f110a8ec392.png)
 
-立即联系 Karuna
+立即联络 Karuna
 
 👍🏼[网友推荐1](https://www.facebook.com/groups/baligo/permalink/1345860045961237/) 👍🏼[网友推荐2](https://www.facebook.com/groups/baligo/permalink/1370920406788534/) 👍🏼[网友推荐3](https://www.facebook.com/groups/baligo/permalink/1371775546703020/) 👍🏼[网友推荐4](https://www.facebook.com/groups/baligo/permalink/1331612710719304/) 👍🏼[网友推荐5](https://www.facebook.com/groups/baligo/permalink/1348327249047850/) 👍🏼[网友推荐6](https://www.facebook.com/groups/baligo/permalink/1353350018545573/) 👍🏼[网友推荐7](https://www.facebook.com/groups/indonesia.travelguide/permalink/3473233856279072/) 👍🏼[网友推荐8](https://www.facebook.com/groups/baligo/permalink/1413320669215174/) 👍🏼[网友推荐9](https://www.facebook.com/groups/baligo/permalink/1449822548898319/)👍🏼[网友推荐10](https://www.facebook.com/groups/baligo/permalink/1479702669243640/) 👍🏼[网友推荐11](https://www.facebook.com/groups/baligo/permalink/1516914005522506/) 👍🏼[网友推荐12](https://www.facebook.com/groups/baligo/permalink/1517960968751143/) 👍🏼[网友推荐13](https://www.facebook.com/groups/baligo/permalink/1522303938316846/)👍🏼[网友推荐14](https://www.facebook.com/groups/baligo/permalink/1522439521636621/) 👍🏼[网友推荐15](https://www.facebook.com/groups/baligo/permalink/1535487706998469/) 👍🏼[网友推荐16](https://www.facebook.com/groups/baligo/permalink/1540714953142411/) 👍🏼[网友推荐17](https://www.facebook.com/share/p/6YgGmD6a3oeqZiox/?mibextid=A7sQZp) 👍🏼[网友推荐18](https://www.facebook.com/share/p/RkJJPB8KYWVW49mA/) 👍🏼[网友推荐19](https://www.facebook.com/groups/baligo/permalink/1568089410404965/) 👍🏼[网友推荐20](https://www.facebook.com/groups/baligo/permalink/1568192413727998/) 👍🏼[网友推荐21](https://www.facebook.com/groups/baligo/permalink/1589838918230014/) 👍🏼[网友推荐22](https://web.facebook.com/share/p/eBhBY5GUzo8SgQCy/) 👍🏼[网友推荐23](https://www.facebook.com/share/1RupaYetqG/) 👍🏼[网友推荐24](https://www.facebook.com/share/p/1DQ5V6pvDT/) 👍🏼[网友推荐25](https://www.facebook.com/share/p/1DYwTg4rde/) 👍🏼[网友推荐26](https://www.facebook.com/share/p/1A1SYyqA8w/) 👍🏼[网友推荐27](https://www.facebook.com/share/p/1Ep4mQrTSb/) 👍🏼[网友推荐28](https://www.facebook.com/share/p/1BeZF6swZA/) 👍🏼[网友推荐29](https://www.facebook.com/share/p/1FmRhqQYNK/) 👍🏼[网友推荐30](https://www.facebook.com/share/p/15rxtJSLgf/) 👍🏼[网友推荐31](https://www.facebook.com/share/p/1HffA6LNR7/)
 
 ### 整体体验：
 
-这次的包车体验让我觉得非常满意，司机的专业和贴心让整个旅程更加顺畅。如果你也计划带长辈或家人去巴厘岛，我非常推荐这种包车方式，不仅可以根据自己的需求安排行程，还能享受到司机的周到服务。巴厘岛的景点分散，交通又不算便利，包车绝对是最轻松的选择！
+这次的包车体验让我觉得非常满意，司机的专业和贴心让整个旅程更加顺畅。如果你也计划带长辈或家人去巴厘岛，我非常推荐这种包车方式，不仅可以根��自己的需求安排行程，还能享受到司机的周到服务。巴厘岛的景点分散，交通又不算便利，包车绝对是最轻松的选择！
 
 **快速参考：**
 
@@ -172,7 +172,7 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 ### 带美金最方便：
 
-建议大家在**国内先换好美金，再到巴厘岛兑换印尼盾**。这是因为美金在巴厘岛的汇率相对稳定，而且所有的换钱所都接受美金兑换。我们这次就是带美金到巴厘岛，在机场办理落地签时，直接用美金支付签证费用，并让工作人员找零印尼盾，这样一下飞机就有一些当地货币可以使用。
+建议大家在**台湾先换好美金，再到巴厘岛兑换印尼盾**。这是因为美金在巴厘岛的汇率相对稳定，而且所有的换钱所都接受美金兑换。我们这次就是带美金到巴厘岛，在机场办理落地签时，直接用美金支付签证费用，并让工作人员找零印尼盾，这样一下飞机就有一些当地货币可以使用。
 
 ### 机场换钱与市区换钱：
 
@@ -213,7 +213,7 @@ _srcHash: 023dec4b4af1a73128903606ffd37f9a
 
 ### 住宿地点的选择：
 
-这次住宿的最大失误，就是我们住的地方离闹区比较远，周边几乎没有商店或餐厅，每次出门都要叫车，非常不方便。巴厘岛的景点分散，交通也不算便利，如果住的地方不在闹区，光是每天的交通费用就是一笔不小的开销。我们每次叫车都要花大约USD$40，而且一旦出门，中间根本不可能再回来拿东西或休息，这让我们的行程安排变得有些受限。
+这次住宿的最大失误，就是我们住的地方离闹区比较远，周边几乎没有商店或餐厅，每次出门都要叫车，非常不方便。巴厘岛的景点分散，交通也不算便利，如果住的地方不在闹区，光是每天的交通费用就是一笔不小的开销。我们每次叫车都要花大约USD$39，而且一旦出门，中间根本不可能再回来拿东西或休息，这让我们的行程安排变得有些受限。
 
 因此，**建议大家在选择住宿时，一定要考虑周边的便利性**。如果你喜欢热闹的氛围，可以选择住在库塔（Kuta）、水明漾（Seminyak）或乌布（Ubud）等闹市区，这些地方不仅餐厅和商店多，晚上也有不少娱乐活动。如果你选择住在比较偏远的Villa或度假村，就要做好心理准备，可能需要依赖Grab外卖或包车服务来解决日常需求。
 

@@ -16,7 +16,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: zh-cn
-_srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
+_srcHash: 832fdc3522f424ead1a40e87008a477a
 ---
 
 > 以下内容由团友 [林小昭](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 提供给我们重新编排：
@@ -41,15 +41,15 @@ _srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
 
 🦅☀️🌴GWK神鹰广场 ，巨大的维什努神像和神鹰令人惊叹 😍，还能欣赏传统表演 ，文化与自然的完美结合 ▶[Klook 订票网址](https://affiliate.klook.com/redirect?aid=116349&aff_adid=848821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D795e4377a1)
 
-### **泛舟之旅——兴奋与温馨的结合**
+### **漂流之旅——兴奋与温馨的结合**
 
 ![林小昭提供](https://images.gobaligo.id/vocus/vocus_8c8ba976bbe23885e66181d1a450fc67.jpg)
 
 林小昭提供
 
-我们在Klook订购的「[Red Paddle Bali Adventure](https://affiliate.klook.com/redirect?aid=116349&aff_adid=901865&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F5504-ayung-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D65ec132ff9)」泛舟行程超乎预期的精彩。教练们不仅专业，而且非常体贴。特别是我们的大儿子在途中有点不舒服，教练始终关心他的状况，让我们感到非常安心。其他船上的教练也同样友善，大家互相泼水、比赛超船，让2小时的泛舟活动充满了欢笑。我们还遇到了来自沙特阿拉伯和韩国的游客，大家聊得非常愉快，这段经历也让我们练习了英语和韩语，实在是太有趣了。
+我们在Klook订购的「[Red Paddle Bali Adventure](https://affiliate.klook.com/redirect?aid=116349&aff_adid=901865&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F5504-ayung-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D65ec132ff9)」漂流行程超乎预期的精彩。教练们不仅专业，而且非常体贴。特别是我们的大儿子在途中有点不舒服，教练始终关心他的状况，让我们感到非常安心。其他船上的教练也同样友善，大家互相泼水、比赛超船，让2小时的漂流活动充满了欢笑。我们还遇到了来自沙特阿拉伯和韩国的游客，大家聊得非常愉快，这段经历也让我们练习了英语和韩语，实在是太有趣了。
 
-「泛舟须知与常见问题」请看[这里](/blog/bali-rafting-ayung-telaga-waja/)
+「漂流须知与常见问题」请看[这里](/blog/bali-rafting-ayung-telaga-waja/)
 
 ### **特家司机的贴心服务——满足所有愿望**
 
@@ -73,7 +73,7 @@ _srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
 
 > 延伸阅读：[巴厘岛金塔玛尼12大景观咖啡厅推荐](/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
 
-### **Rijasa Agung 乌布阿贡里加萨酒店——宁静与舒适的完美结合**
+### **乌布阿贡里加萨酒店——宁静与舒适的完美结合**
 
 ![林小昭提供](https://images.gobaligo.id/vocus/vocus_65294e5019f7c902214a58b18878fd74.jpg)
 
@@ -85,7 +85,7 @@ _srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
 
 已收录在[【巴厘岛乌布住宿】乌布28家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
 
-### **Jungle Cart 丛林卡丁车——巴厘岛的新奇体验**
+### **丛林卡丁车——巴厘岛的新奇体验**
 
 卡丁车可能很多人都玩过，但能够直接在乌布的丛林道路上驾驶，这可是巴厘岛独有的新玩法！我们在稻田景色中疾驰，途中还有嗨歌前导车帮忙确认路况，沿途有鸡飞狗跳、牛慵懒地哞叫，30分钟的体验虽然短暂，却充满了无限乐趣。
 
@@ -99,7 +99,7 @@ _srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
 
 上图：最左边是「特家」。 话不多，但有问必答，我觉得很好！ 下：中间穿黄色上衣的是「康哥」 超友善好聊，让我们第一天就很放松自在（林小昭提供）
 
-特别感谢我们的包车司机康哥和特家，从接机到每天的行程安排，他们都非常友善、准时、贴心。康哥在我大儿子感冒后还特地打电话来关心，甚至提议载我们去看医生或买药，这样的服务实在让人感动。特家更是在行前就与我细心沟通行程，还主动帮忙订餐厅、联系泛舟、按摩和卡丁车的行程，整个过程都让我们觉得非常顺利且舒心。
+特别感谢我们的包车司机康哥和特家，从接机到每天的行程安排，他们都非常友善、准时、贴心。康哥在我大儿子感冒后还特地打电话来关心，甚至提议载我们去看医生或买药，这样的服务实在让人感动。特家更是在行前就与我细心沟通行程，还主动帮忙订餐厅、联系漂流、按摩和卡丁车的行程，整个过程都让我们觉得非常顺利且舒心。
 
 ## **结语**
 
@@ -107,12 +107,12 @@ _srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
 
 ## 亲子旅游延伸阅读：
 
-- [巴厘岛家庭亲子友善景点大全｜巴厘岛超过100样适合亲子同乐活动](/blog/bali-family-travel-guide/)
+- [巴厘岛家庭亲子友好景点大全｜巴厘岛超过100样适合亲子同乐活动](/blog/bali-family-travel-guide/)
 - [带小朋友去巴厘岛家庭旅游的20个注意要点](/blog/bali-family-travel-tips/)
 - [巴厘岛亲子游：带婴儿、幼童和学龄儿童去度假的一些提示](/blog/bali-family-travel-guide-2/)
 - [巴厘岛找保姆指南：如何找到适合的保姆及费用概况](/blog/bali-nanny-hiring-guide/)
 - [带宝宝去巴厘岛：携带含猪肉、鸡肉副食品的注意事项](/blog/baby-food-bali-tips/)
-- [巴厘岛亲子乐园：十五家拥有滑水道溜滑梯的亲子度假村 TOP 15](/blog/bali-family-resorts-water-slides/)
+- [巴厘岛亲子乐园：十五家拥有滑水道滑梯的亲子度假村 TOP 15](/blog/bali-family-resorts-water-slides/)
 - [推荐巴厘岛18家庭亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图适合家庭度假、亲子放松的最佳选择](/blog/bali-family-resorts-kids-club/)
 - [乌布55项亲子活动带小朋友最轻松！](/blog/ubud-with-kids-guide/)
 - [巴厘岛最适合亲子度假的海滨：沙努尔攻略地图｜45项吃喝玩乐](/blog/sanur-guide/)
@@ -130,7 +130,7 @@ _srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
 - [巴厘岛看海龟全指南：从库塔到沙努尔，亲子必访的海龟保育据点](/blog/bali-turtle-watching-guide/)
 - [Bali Bird Park 巴厘岛鸟园终极攻略：珍稀鸟种、互动活动与生态保育的奇幻旅程](/blog/bali-bird-park-guide/)
 - [The Firefly Garden 萤火虫花园：巴厘岛最闪耀的生态保育与旅游胜地](/blog/the-firefly-garden-ubud/)
-- [🎮 ZONE OUT Bali：库塔最酷的虚拟实境冒险基地！](/blog/zone-out-bali-vr-adventure/)
+- [🎮 ZONE OUT Bali：库塔最酷的虚拟现实冒险基地！](/blog/zone-out-bali-vr-adventure/)
 - [夜幕下的幻光雨林：巴厘岛乌布Hikaria沉浸式光影艺术体验](/blog/hikaria-ubud-light-show/)
 - 巴厘岛家庭亲子旅游专栏
 
@@ -155,5 +155,5 @@ _srcHash: 3028d9b94e2c25ace9d85e2309bcd4c5
 - [佩尼达岛吃喝玩乐全攻略](/blog/nusa-penida-guide/)
 - [蓝梦岛/金银岛景点全攻略](/blog/nusa-lembongan-ceningan-guide/)
 - [Nuanu Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
-- [科摩多岛攻略](/blog/komodo-island-labuan-bajo-travel/)
+- [科莫多岛攻略](/blog/komodo-island-labuan-bajo-travel/)
 - [Amed/Tulamben攻略](/blog/amed-tulamben-diving-guide/)

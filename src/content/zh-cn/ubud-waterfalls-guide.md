@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e74bbb16a16cd1b0f28c1d1b99c23329.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b82fd897800013a995f'
 lang: zh-cn
-_srcHash: 043ba71a63572906b67aad2fbab867a7
+_srcHash: e7010f1791e4ce0afaf72545502afd00
 ---
 
 乌布（Ubud）是位于印尼巴厘岛中心的一个宁静小镇，以其令人屏息的自然美景和文化遗产而闻名。在这里，还有许多令人惊叹的瀑布吸引着来自世界各地的自然爱好者。在本文中，我们将探索乌布附近的三大知名瀑布：Tegenungan瀑布、Kanto Lampo瀑布和Tukad Cepung瀑布。每一个瀑布都拥有独特的魅力和吸引力，为游客提供了难忘的大自然奇妙体验。
@@ -63,7 +63,7 @@ Kanto Lampo瀑布是一个真正的视觉奇观，大自然在这里绘就了一
 
 **▶清凉的天然泳池**
 
-除了视觉上的吸引力，Kanto Lampo瀑布还提供清凉的天然泳池，游客可以在其中畅泳，远离热带酷热。令人振奋的水和大自然的声音营造出一种愉悦的氛围，使身心得到恢复。
+除了视觉上的吸引力，Kanto Lampo瀑布还提供清凉的天然泳池，游客可以在其中畅泳，远离热带的高温。令人振奋的水和大自然的声音营造出一种愉悦的氛围，使身心得到恢复。
 
 ▶**小杰的游记攻略：**
 

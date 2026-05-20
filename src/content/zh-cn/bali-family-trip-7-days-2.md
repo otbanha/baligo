@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/669c8097fd89780001f355be'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 79b3f50de414c2366c7fb751f3445b36
+_srcHash: 705f0ee72c2fdbab0b6a856787f54e32
 ---
 
 > 以下内容由团友 [Ya-yun Chen](https://www.facebook.com/groups/baligo/permalink/1577292532817986/) 提供给我们重新编排：
@@ -35,7 +35,7 @@ _srcHash: 79b3f50de414c2366c7fb751f3445b36
 
 我们入住了The Dusun Villa，这里地理位置优越，靠近Jalan Kayu Aya Street（编按：这条路有什么特别的？请看[小杰的介绍](https://www.youtube.com/shorts/oz_QUWvCK_8)）。
 
-泳池既干净又大，而且Villa提供预约高尔夫球车服务，可以前往Seminyak Square，这对带孩子的家庭非常便利。Villa内部设计典雅舒适，配有宽敞的客厅和户外用餐区，孩子们可以在花园里尽情玩耍，家长则能享受悠闲的时光。
+泳池既干净又大，而且Villa提供预约高尔夫球车服务，可以前往水明漾广场，这对带孩子的家庭非常便利。Villa内部设计典雅舒适，配有宽敞的客厅和户外用餐区，孩子们可以在花园里尽情玩耍，家长则能享受悠闲的时光。
 
 > ▶[查看 The Dusun Villa 空房、房型、房价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64314)
 
@@ -103,7 +103,7 @@ GWK拥有全世界第四高的雕像建筑
 
 - 接着我们参观了GWK文化公园，园内的巨大雕像和文化展示让我们对巴厘岛的历史和传统有了更多的了解。
 
-（编按：除了欣赏巨大的雕像，神鹰广场还定期举办免费表演，如Kecak火舞等。这些表演充满魅力，让你仿佛置身于巴厘岛的神话世界中。别忘了查看园区内的其他免费表演，让你的旅程更加丰富多彩。）
+（编按：除了欣赏巨大的雕像，神鹰广场还定期举办免费表演，如Kecak火舞等。这些表演充满魅力，让你仿佛置身于巴厘岛的神话世界中。别忘了查看园区内的其他免费表演，让你的旅程更加丰富多彩。
 
 ![raw-image](https://d2a6d2ofes041u.cloudfront.net/resize)
 
@@ -135,7 +135,7 @@ Bandar Nelayan Seafood（Ya-yun Chen提供）
 
 Nusa Penida（Ya-yun Chen提供）
 
-- 今天我们参加了努沙佩尼达岛的西部一日游，搭乘10:30的船班，行程包括克林金海滩、天使比尔邦、破碎海滩和水晶湾。这些景点的自然风光壮丽无比，特别是克林金海滩，那壮观的悬崖景色让我们全家都叹为观止。虽然路况颠簸，但孩子们把这当成碰碰车游戏，玩得很开心。
+- 今天我们参加了Nusa Penida的西部一日游，搭乘10:30的船班，行程包括Klingking Beach、Angel Bilabong、Broken Beach和Crystal Bay。这些景点的自然风光壮丽无比，特别是Klingking Beach，那壮观的悬崖景色让我们全家都叹为观止。虽然路况颠簸，但孩子们把这当成碰碰车游戏，玩得很开心。
 
 - [佩尼达岛一日游（巴厘岛出发）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7847cab48f)
 - [佩尼达岛网红景点打卡 & 潜水之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26411-nusa-penida-instagram-private-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D370017bd78)
@@ -143,14 +143,14 @@ Nusa Penida（Ya-yun Chen提供）
 - [八人以上团体可以考虑包船](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026516&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106290-private-boat-rental-nusa-penida-from-bali%2F)
 - [佩尼达岛私人包车](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23014-nusa-penida-private-car-charter-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd8cbaa8627)
 - [探索之旅 - 巴厘岛出发（沙努尔港集合）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54289-nusa-penida-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76e0910049)
-- [努沙佩尼达岛多日游](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
+- [Nusa Penida多日游](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
 - [蓝梦岛 & 曼塔湾浮潜体验](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
-- [努沙佩尼达岛浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49082-snorkeling-experience-nusa-penida%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad6a39918d)
-- [努沙佩尼达岛摩托车出租](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26687-nusa-penida-scooter-rental%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7434f423bc)（路况非常差，请自行斟酌）
+- [Nusa Penida浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49082-snorkeling-experience-nusa-penida%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad6a39918d)
+- [Nusa Penida摩托车出租](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26687-nusa-penida-scooter-rental%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7434f423bc)（路况非常差，请自行斟酌）
 - [佩尼达岛 & 蓝梦岛私人包船游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=764788&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F92390-private-boat-charter-for-nusa-penida-and-lembongan%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7668f8e7d8)
-- 预订 [努沙佩尼达岛一日游（可选中文导游）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D1f7788d1d4)
+- 预订 [Nusa Penida一日游（可选中文导游）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D1f7788d1d4)
 
-### **第4天：**
+### **Day 4：**
 
 ![包車一日遊（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_f2a109172a9a3e812e741f773c5dcd9c.jpg)
 
@@ -163,9 +163,9 @@ Nusa Penida（Ya-yun Chen提供）
 
 > 延伸阅读：[原来"善恶门"是错误翻译!? Candi Bentar的意义和正确叫法](/blog/candi-bentar-balinese-gate-history/)
 
-### **第5天：**
+### **Day 5：**
 
-- 早上在Villa享用悠闲的早餐并游泳，之后参加了Jungle Cart Ubub的活动，费用是USD$25/人，活动时间约2-3小时。这是一项非常刺激的户外活动，孩子们在森林中驾驶卡丁车，玩得不亦乐乎。
+- 早上在Villa享用悠闲的早餐并游泳，之后参加了Jungle Cart Ubub的活动，费用是$766/人，活动时间约2-3小时。这是一项非常刺激的户外活动，孩子们在森林中驾驶卡丁车，玩得不亦乐乎。
 
 ![Jungle Cart 請看小傑的介紹](https://images.gobaligo.id/vocus/vocus_67919aa2ca07a223f708bf11bc265a00.jpg)
 
@@ -175,7 +175,7 @@ Nusa Penida（Ya-yun Chen提供）
 
 - 然后参观了乌布皇宫（Ubud Palace），这座皇宫保存完好，让我们对巴厘岛的传统建筑和文化有了更多的了解。
 - 接着我们前往乌布水皇宫（Pura Taman Saraswati），这里的荷花池和精美的石雕让人流连忘返。
-- 在乌布市集（Ubud Market）逛街购物，挑选了一些当地特色手工艺品作为纪念。
+- 在乌布市场（Ubud Market）逛街购物，挑选了一些当地特色手工艺品作为纪念。
 
 请参考小杰制作的「乌布攻略地图」: <https://s.id/ubud_guide>
 
@@ -191,11 +191,11 @@ Nusa Penida（Ya-yun Chen提供）
 
 第6天活动（Ya-yun Chen提供）
 
-- 今天的活动包括Wos Tubbing Adventure泛舟，这是一项非常有趣的水上活动，我们全家都玩得非常开心。
+- 今天的活动包括Wos Tubbing Adventure漂流，这是一项非常有趣的水上活动，我们全家都玩得非常开心。
 
-> [巴厘岛泛舟攻略（泛舟常见问题FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
+> [巴厘岛漂流攻略（漂流常见问题FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
 
-> 预订[沃斯河泛舟优惠票券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110089-tubing-experience-ubud-wos-tubing-adventure%2F%3Fcampaignid%3D21203884931%26adgroupid%3D166936151891%26targetid%3Ddsa-2304163218195%26matchtype%3D%26device%3Dc%26creative%3D697061761157%26extensionid%3D%26keyword%3D%26loc_interest_ms%3D%26loc_physical_ms%3D9119738%26network%3Dg%26utm_content%3Dcampaignid_21203884931_adgroupid_166936151891%26gad_source%3D1%26gclid%3DCjwKCAjw4_K0BhBsEiwAfVVZ_6xWskrg8op_zwbS5jmaegXQ5hh1Qn8eJlcJUhIOPQ9gyTjW5tKoWBoCUtIQAvD_BwE%26spm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dc20fca3e03)
+> 预订[沃斯河漂流优惠票券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110089-tubing-experience-ubud-wos-tubing-adventure%2F%3Fcampaignid%3D21203884931%26adgroupid%3D166936151891%26targetid%3Ddsa-2304163218195%26matchtype%3D%26device%3Dc%26creative%3D697061761157%26extensionid%3D%26keyword%3D%26loc_interest_ms%3D%26loc_physical_ms%3D9119738%26network%3Dg%26utm_content%3Dcampaignid_21203884931_adgroupid_166936151891%26gad_source%3D1%26gclid%3DCjwKCAjw4_K0BhBsEiwAfVVZ_6xWskrg8op_zwbS5jmaegXQ5hh1Qn8eJlcJUhIOPQ9gyTjW5tKoWBoCUtIQAvD_BwE%26spm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dc20fca3e03)
 
 - 接着我们参观了Bali Bird Park，这里有许多美丽的鸟类，孩子们对这些色彩斑斓的鸟类非常感兴趣。
 
@@ -209,9 +209,9 @@ Nusa Penida（Ya-yun Chen提供）
 
 想了解更多乌布攻略？[请点击这里](/blog/ubud-guide/)
 
-### **第7天：**
+### **Day 7：**
 
-- 早上悠哉地享用早餐，然后于11:30退房，准备前往机场回国。这次的巴厘岛之旅充满了美好的回忆，让我们对这个美丽的岛屿有了更多的喜爱和留恋。
+- 早上悠哉地享用早餐，然后于11:30 checkout，准备前往机场回国。这次的巴厘岛之旅充满了美好的回忆，让我们对这个美丽的岛屿有了更多的喜爱和留恋。
 
 ---
 
@@ -219,8 +219,8 @@ Nusa Penida（Ya-yun Chen提供）
 
 - **行前小费文化调查分享：**
 - - 每日包车司机5万~10万印尼盾
-  - 行李：1万/5万印尼盾（约USD$1/3）
-  - 床头/餐厅：1万/2万印尼盾（约USD$1/1）
+  - 行李：1万/5万印尼盾（约USD$0.6/3）
+  - 床头/餐厅：1万/2万印尼盾（约USD$0.6/1）
   - 按摩预先给1成小费
   - 「KEEP THE CHANGE」：不用找零，印尼盾一万以下当地人不容易找零。
 
@@ -230,12 +230,12 @@ Nusa Penida（Ya-yun Chen提供）
 
 > Klook [大型浮床租借服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775806&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F4837-pool-float-rental-bali%2F)
 
-- **交通提示：** 七八月是旺季，11:30过后常常塞车，建议每天最多安排2-3个景点就很充实了。
-- **Nusa Penida游览心得：** 虽然路况颠簸，但孩子们当作碰碰车在玩，感觉特别有趣。由于我们家孩子都是小学生，所以没有参加浮潜行程，但光是西岸一日游就非常值得前往。
+- **交通提示：** 七八月是旺季，11:30过后常常堵车，建议每天最多安排2-3个景点就很充实了。
+- **佩尼达岛游览心得：** 虽然路况颠簸，但孩子们当作碰碰车在玩，感觉特别有趣。由于我们家孩子都是小学生，所以没有参加浮潜行程，但光是西岸一日游就非常值得前往。
 
 巴厘岛当地人文风情非常迷人，不论是寺庙、玩水还是自然景观都具有独特的魅力，这次旅程让我们对巴厘岛有了更多的了解和喜爱，期待下次再访！
 
-您觉得Ya-yun Chen他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
+您觉得Ya-yun Chen他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 
 ![raw-image](https://d2a6d2ofes041u.cloudfront.net/resize)
 
@@ -258,4 +258,4 @@ Nusa Penida（Ya-yun Chen提供）
 - [蓝梦岛/金银岛景点全攻略](/blog/nusa-lembongan-ceningan-guide/)
 - [Nuanu Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
 - [科莫多岛攻略](/blog/komodo-island-labuan-bajo-travel/)
-- [Amed/Tulamben攻略](/blog/amed-tulamben-diving-guide/)
+- [阿梅德/图兰奔攻略](/blog/amed-tulamben-diving-guide/)

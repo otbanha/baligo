@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3ab35a264fd828315cb7d2e460674afd.jpg'
 originalUrl: 'https://vocus.cc/article/668b6804fd89780001a19257'
 lang: zh-cn
-_srcHash: e08294b2769a3751d4fd9c6163be0ae5
+_srcHash: 1b83294ffd71e23d91ed3c5cda9457d2
 ---
 
 > 以下内容由团友 [叶庭瑜](https://www.facebook.com/share/p/u63ZENzDXGzfCXrR/?mibextid=xfxF2i) 提供
@@ -66,7 +66,7 @@ https://www.instagram.com/reel/C7mNt6nJPey/?utm_source=ig_web_button_share_sheet
 
 > Klook特价票：[神鹰文化公园门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=881953&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29f498eeaf)
 
-### 乌鲁瓦图庙卡恰火舞
+### 乌鲁瓦图寺庙卡恰火舞
 
 ![Kecak Fire Dance](https://images.gobaligo.id/vocus/vocus_96343c5b07b3ceae31d0c3e6b4fd9e97.jpg)
 
@@ -76,9 +76,9 @@ Kecak Fire Dance
 
 **停留时间：1.5小时**
 
-乌鲁瓦图庙的卡恰火舞表演讲述了巴厘岛的神话故事，这场表演吸引了近2000名观众，场面相当壮观。观赏这场表演时，你可以一边欣赏精彩的舞蹈，一边观看壮丽的血色夕阳，这种视觉与文化的双重享受让人难以忘怀。
+乌鲁瓦图寺庙的卡恰火舞表演讲述了巴厘岛的神话故事，这场表演吸引了近2000名观众，场面相当壮观。观赏这场表演时，你可以一边欣赏精彩的舞蹈，一边观看壮丽的血色夕阳，这种视觉与文化的双重享受让人难以忘怀。
 
-建议在观看前先了解一下故事的大纲，这样会更容易进入情境，否则可能会因为看不懂而感到无聊。值得注意的是，火舞的部分只有在最后的高潮处持续约5分钟，不要将其与中国大陆街头艺人的火舞表演混为一谈。
+建议在观看前先了解一下故事的大纲，这样会更容易进入情境，否则可能会因为看不懂而感到无聊。值得注意的是，火舞的部分只有在最后的高潮处持续约5分钟，不要将其与台湾街头艺人的火舞表演混为一谈。
 
 乌鲁瓦图寺庙的卡恰火舞表演是一场结合文化和自然美景的视觉盛宴，虽然火舞部分不多，但整体氛围和演出品质都值得一看。
 
@@ -129,7 +129,7 @@ Monkey Forest（叶庭瑜提供）
 
 https://www.instagram.com/reel/C7bvX6NpmfO/?utm_source=ig_web_button_share_sheet
 
-> 延伸阅读：[乌布不知道该怎么逛？来看我们的乌布攻略地图](/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> 延伸阅读：[乌布不知道怎么逛吗？来看我们的乌布攻略地图](/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
 
 ### 乌布彭里普兰村庄
 
@@ -141,7 +141,7 @@ https://www.instagram.com/reel/C7bvX6NpmfO/?utm_source=ig_web_button_share_sheet
 
 **停留时间：2小时**
 
-彭里普兰村庄被誉为世界上最干净的村落，这里每家每户都对外开放，游客可以进入参观，深入了解当地人的日常生活与纯朴风貌。村庄内的建筑和街景非常有特色，随手一拍都是风景，特别是村内的阴阳门，更是不可错过的拍照景点。
+朋里普兰村庄被誉为世界上最干净的村落，这里每家每户都对外开放，游客可以进入参观，深入了解当地人的日常生活与纯朴风貌。村庄内的建筑和街景非常有特色，随手一拍都是风景，特别是村内的阴阳门，更是不可错过的拍照景点。
 
 由于来参观的大多是本地人，这里没有过多的商业气息，保持了原汁原味的当地风情。村民们友善好客，让人感受到浓厚的人情味。
 
@@ -155,7 +155,7 @@ https://www.instagram.com/reel/C7WlLcIJ5XA/?utm_source=ig_web_button_share_sheet
 
 > [巴厘岛彭丽普兰村＆Kanto Lampo 瀑布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc65c11c688)
 
-> [彭丽普兰乡村一日游（含免费烹饪课）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76095-penglipuran-village-day-tour-bali-free-cooking-class-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9b0cdd5f69)
+> [Penglipuran乡村一日游（含免费烹饪课）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76095-penglipuran-village-day-tour-bali-free-cooking-class-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9b0cdd5f69)
 
 > [巴厘岛彭丽普兰村＆乌布＆大自然＆寺庙一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=778386&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F17126-ubud-swing-tirta-empul-tegalalang-penglipuran%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D97451c61b9)
 
@@ -251,7 +251,7 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 > 延伸阅读：[【精华篇】巴厘岛好评SPA推荐大集合 用区域划分更方便查找](/blog/spa/)
 
-**超市采购**
+**超市采买**
 
 地点：附近的超市购买一些日常用品和零食。
 
@@ -281,13 +281,13 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 > 延伸阅读：[探索Oneeighty Day Club](/blog/oneeighty-dayclub-uluwatu-pool/)
 
-**乌鲁瓦图庙**
+**乌鲁瓦图寺庙**
 
 参观巴厘岛著名的悬崖寺庙，感受当地的宗教文化。
 
 **卡洽日落火舞**
 
-观看乌鲁瓦图庙的传统卡洽舞和火舞表演。
+观看乌鲁瓦图寺庙的传统卡洽舞和火舞表演。
 
 > 延伸阅读：[卡恰火舞秀 巴厘岛必看的震撼表演（附订票信息）](/blog/kecak-fire-dance-bali/)
 
@@ -447,19 +447,19 @@ https://www.instagram.com/reel/C7eXV6cJzmK/?utm_source=ig_web_button_share_sheet
 
 ***
 
-### 4/24 (Padang Bai 库塔)
+### 4/24 (八丹拜 库塔)
 
 **抵达港口**
 
-地点：Padang Bai (Ekajaya Fast Ferry)时间：13:30
+地点：八丹拜 (Ekajaya 快船) 时间：13:30
 
 **午餐**
 
-地点：弹性安排
+地点：灵活安排
 
 **印度寺庙**
 
-地点：Goa Lawah Temple (蝙蝠洞穴)
+地点：Goa Lawah Temple (蝙蝠洞)
 
 **Big Garden Corner**
 

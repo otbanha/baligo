@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d28ee1e8e57db46d81bf20ec96f6ac93.jpg'
 originalUrl: 'https://vocus.cc/article/685a4e9dfd897800015f493d'
 lang: zh-cn
-_srcHash: f839a165ae40c8a6b30f2efae9f74da7
+_srcHash: e3aa6d0861bf7be43bdd43e2017b4d0a
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_703008611ebd42c8436934b38f0c4796.jpg)
@@ -88,7 +88,7 @@ _srcHash: f839a165ae40c8a6b30f2efae9f74da7
 此外，沙努尔地区设有：
 
 - 在地保安巡逻队，定期巡视公共区域
-- 滨海酒店直达海滩，不必穿越车道
+- 滨海饭店直达海滩，不必穿越车道
 - 海滩救生员于旺季常态驻点（如主沙滩区）
 
 不论白天或晚上，沙努尔都是少数适合家庭夜间散步的地方。

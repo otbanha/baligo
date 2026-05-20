@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/663ec407fd89780001e37610'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 7bdd9e18ccc1cf93cd9fb25508ee8624
+_srcHash: 06f11881564ebd5f51ac5ebb2b22daf2
 ---
 
 在巴厘岛这片神奇的土地上，随着国际观光客越来越多的趋势，信用卡的接受程度在巴厘岛也越来越普及。作为一名旅行者，您可能会考虑使用信用卡来支付您的开支。然而，使用信用卡在巴厘岛旅行中有其利与弊，让我们一起来探讨一下。

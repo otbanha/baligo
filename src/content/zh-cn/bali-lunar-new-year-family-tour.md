@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/68f0cbf5fd8978000199a4b1'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: ec95bc8359963c86c346e2584b65edc9
+_srcHash: a6f55835b4dda3db917893329ef4e8d6
 ---
 
 ## 🌴 六天五夜・轻奢不爆预算・亲子放松首选 🌴
@@ -64,9 +64,9 @@ _srcHash: ec95bc8359963c86c346e2584b65edc9
 📅 **出发日期：2026年2月10日－2月20日**
 
 👨‍👩‍👧‍👦 **二人成行，现金优惠价！**（人数不同请洽客服报价）   
-✈️ 专案未含机票，可自理或请客服代订。   
+✈️ 方案未含机票，可自理或请客服代订。   
 🏚️ 这么优惠的价格房源有限，售完即调整价格。  
-⚠️ 特价促销专案，恕不取消或退款。
+⚠️ 特价促销方案，恕不取消或退款。
 
 ---
 
@@ -88,7 +88,7 @@ _srcHash: ec95bc8359963c86c346e2584b65edc9
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dba2706ee1cecdc012cf19a14dc60ae1.jpg)
 
-### [联系方式三] Facebook messenger:
+### [联系方式三] Facebook Messenger:
 
 <https://www.facebook.com/isbali.fb>
 

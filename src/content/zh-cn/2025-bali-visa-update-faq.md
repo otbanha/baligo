@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/65a7f34dfd897800010017db'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: c25e24b122634bda0f07c9acbaf5c468
+_srcHash: 851bd0fcbdf407d269d80e71d2f2b799
 ---
 
 印尼政府从2024年一月七日起，将签证类赋予新的编号，并引入了新的旅游和商务签证类型和停留期限。一共有八种签证类别，包含了投资签证和退休签证等。详细请看到最后。
@@ -61,7 +61,7 @@ B1 观光签证是单次入境签证，有效期为30天，仅限于观光、政
 
 **申请资格：**
 
-- 所有旅客，包括婴儿和儿童，均需持有个别观光签证。
+- 所有旅客，包括婴儿和儿童，均需持有个人旅游签证。
 - 护照有效期至少为6个月。
 - 申请资料不得与护照信息有任何出入，**否则签证将失效且不予退款**。
 
@@ -69,8 +69,8 @@ B1 观光签证是单次入境签证，有效期为30天，仅限于观光、政
 
 一般游客入境未超过30天可以按照这样选择（国籍对应你的护照国）
 
-➡️[找巴厘岛住宿请看这里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
-➡️[更多巴厘岛超值优惠请点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
+➡️[找巴厘岛住宿请点击这里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
+➡️[更多巴厘岛超值优惠请点击我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
 
 **所需文件：**
 
@@ -87,8 +87,8 @@ B1 观光签证是单次入境签证，有效期为30天，仅限于观光、政
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_587d0faa86baaf1230364fe6675ef04f.png)
 
-➡️[找巴厘岛住宿请看这里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
-➡️[更多巴厘岛超值优惠请点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
+➡️[找巴厘岛住宿请点击这里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
+➡️[更多巴厘岛超值优惠请点击我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
 
 **重要提示：**
 

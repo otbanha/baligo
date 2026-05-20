@@ -2,7 +2,8 @@
 slug: family-bali-trip-2026
 title: 【巴厘岛六日游记】全家六口重返天堂之岛，23年后的重逢之旅
 description: >-
-  取之于社团，我来回馈社团了！今年暑假，我们一家六口终于再次踏上巴厘岛。距离上一次全家一起来，已是23年前的事了。这座被誉为“诸神之岛”的度假天堂，依然美丽迷人，只是如今的游客明显多了许多，旅游设施也更加丰富多元。非常感谢社团朋友们的热心分享与协助，为我们推荐了一位非常棒的导游
+  取之于社团，我来回馈社团了！
+  今年暑假，我们一家六口终于再次踏上巴厘岛。距离上一次全家一起来，已是23年前的事了。这座被誉为“诸神之岛”的度假天堂，依然美丽迷人，只是如今的游客明显多了许多，旅游设施也更加丰富多元。非常感谢社团朋友们的热心分享与协助，为我们推荐了一位非常棒的导游
   Betty Pin
 pubDate: 2026-01-29T00:00:00.000Z
 category:
@@ -16,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0347481a7fc74e3d809741abdcae7aa0.jpg'
 originalUrl: 'https://vocus.cc/article/6944cda7fd89780001d0907a'
 lang: zh-cn
-_srcHash: f0ec6535ba24c1262605d980c86e2331
+_srcHash: 459550e4819098ae72030cfc4d1436b0
 ---
 
 > 以下游记由 [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/) 提供, 并同意我们润饰重新编辑
@@ -63,15 +64,15 @@ _srcHash: f0ec6535ba24c1262605d980c86e2331
 - 费用：免费
 - 教学参考：[【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 
-**PS：** 请将QR Code保存在手机中，或打印纸质版以备查验。
+**PS：** QR Code请存于手机，或打印纸本以备查验。
 
 **(3) 观光旅游税**
 
 - 准备文件：护照资料、信用卡
-- 申请方式：下载Love Bali App或使用网址 <https://lovebali.baliprov.go.id/home>
+- 申请方式：下载Love Bali App或使用网址 <https://lovebali.baliprov.go.id/home>
 - 费用：15万印尼盾／人（约USD$9）
 
-**PS：** 同样请保存QR Code以备查验。
+**PS：** 同样请保存QR Code以备查验。
 
 **(4) 美金兑换**
 
@@ -87,7 +88,7 @@ _srcHash: f0ec6535ba24c1262605d980c86e2331
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_36d1ca9ccd350f82b4fc77b4c476186e.jpg)
 
-有时候，她甚至「一人接待、两人服务」，有两天行程还有她先生小吴一起陪同，整趟旅程充满笑声。
+有时候，她甚至“一人接待、两人服务”，有两天行程还有她先生小吴一起陪同，整趟旅程充满笑声。
 
 其中有一天酒店未提供早餐，加上出门时间很早，她担心我们饿肚子，竟主动帮我们准备早餐，真的把我们当成家人一样照顾，感动！
 
@@ -103,7 +104,7 @@ _srcHash: f0ec6535ba24c1262605d980c86e2331
 - **餐饮**：晚餐 malafi cafe jimbaran
 - **住宿**：[Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952)
 
-抵达巴厘岛后，Betty 已举牌在机场等候，亲切的笑容瞬间消解了长途飞行的疲惫。我们先前往 villa 放行李，接着直奔 **金巴兰海滩**。23年过去，金巴兰的日落依然壮丽如画，沙滩上整齐排列的海鲜烧烤摊飘来阵阵香气。晚餐在 **malafi cafe jimbaran** 享用新鲜海鲜，搭配现场乐队演奏，全家围坐在沙滩上，脚踩细沙，眼前是橘红色的日落海景，幸福感满满。
+抵达巴厘岛后，Betty 已举牌在机场等候，亲切的笑容瞬间消解了长途飞行的疲惫。我们先前往 villa 放行李，接着直奔 **金巴兰海滩**。23年过去，金巴兰的日落依然壮丽如画，沙滩上整齐排列的海鲜烧烤摊飘来阵阵香气。晚餐在 **malafi cafe jimbaran** 享用新鲜海鲜，搭配现场乐队演奏，全家围坐在沙滩上，脚踩细沙，眼前是橘红色的日落海景，幸福感满满。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3e474fcc7e6a5290032324cbaa76ba48.png)
 
@@ -121,7 +122,7 @@ _srcHash: f0ec6535ba24c1262605d980c86e2331
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f24fff8b05526923028a41d85303f88f.jpg)
 
-Betty 带我们沿着 **蓝色断崖公路** 前行，湛蓝的海水与陡峭的悬崖形成强烈对比，沿途不少新人正在拍婚纱，画面浪漫。接着参观 **乌鲁瓦图庙**，古老的印度教建筑与精致的石雕令人赞叹。下午安排 **Sakar Jepun Spa**，全家六口一起享受传统巴厘岛按摩，消除疲劳，为接下来的行程充电。
+Betty 带我们沿着 **蓝色断崖公路** 前行，湛蓝的海水与陡峭的悬崖形成强烈对比，沿途不少新人正在拍婚纱，画面浪漫。接着参观 **乌鲁瓦图庙**，古老的印度教建筑与精致的石雕令人赞叹。下午安排 **Sakar Jepun Spa**，全家六口一起享受传统巴厘岛按摩，消除疲劳，为接下来的行程充电。
 
 {{block:uluwatu}}
 
@@ -181,7 +182,7 @@ https://youtu.be/IReL1ztxL7c
 
 ### **Day 6：库塔海滩漫游 → 机场送机**
 
-- **景点行程**：漫游库法海滩、Mal Bali Galeria
+- **景点行程**：漫游库塔海滩、Mal Bali Galeria
 - **餐饮**：午餐 Mal Bali Galeria
 - **住宿**：Sweet home
 
@@ -211,7 +212,7 @@ https://youtu.be/IReL1ztxL7c
 
 非常感谢社团朋友们的热心分享与协助，为我们推荐了一位非常棒的导游 Betty Pingky
 
-您觉得 [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/) 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得 [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/) 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 {{block:遊記}}
 

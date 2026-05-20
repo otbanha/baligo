@@ -17,12 +17,12 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9034b3eade783ad2a93a96720a8df57.jpg'
 originalUrl: 'https://vocus.cc/article/69aa4faefd897800016bbeda'
 lang: zh-cn
-_srcHash: f5337594613df7340e6f206e4fe58d43
+_srcHash: a200f71aad6b7e7db505f1fa722a2f58
 ---
 
 如果你正在找 **巴厘岛五星酒店优惠**，最近出现了一个相当吸引人的促销方案。
 
-位于努沙杜瓦的顶级度假村The Apurva Kempinski Bali推出限时房价，**每晚只需 USD 350 起**，而且还包含早餐与下午茶。透过本站订购，**再加送巴厘岛旅游税**
+位于努沙杜瓦的顶级度假村The Apurva Kempinski Bali推出限时房价，**每晚只需 USD$350 起**，而且还包含早餐与下午茶。透过本站订购，**再加送巴厘岛旅游税**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_33659c491db9821772fe0b9e2999c6bf.jpg)
 
@@ -63,8 +63,8 @@ _srcHash: f5337594613df7340e6f206e4fe58d43
 - 已售罄：USD$317
 - 06/01-07/14：USD$382
 - 07/14-08/31：USD$414
-- 10/16-12/20：USD$349
-- 12/27-01/07：USD$478
+- 10/16-12/20：USD$350
+- 12/27-01/07：USD$479
 - 02/04-02/10：USD$382
 
 也就是说，如果现在规划未来一年左右的巴厘岛旅行，都有机会用到这个优惠价格。
@@ -123,7 +123,7 @@ The Apurva Kempinski Bali 可以说是近几年巴厘岛讨论度非常高的五
 
 但也提醒大家，这类优惠通常都有 **不可取消** 的条款，因此订房前最好确认好行程。
 
-如果时间确定，用这样的价格体验五星级度假村，其实是满不错的机会。
+如果时间确定，用这样的价格体验五星级度假村，其实是挺不错的机会。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_19d07c063a34a6a3f66c1b7738e56e1a.jpg)
 
@@ -166,7 +166,7 @@ The Apurva Kempinski Bali 可以说是近几年巴厘岛讨论度非常高的五
 
 ***
 
-如果你正在规划巴厘岛旅行，也可以把 The Apurva Kempinski Bali这个促销列入参考。毕竟在巴厘岛，有时候 **选对一间饭店，本身就已经是一个景点了。**
+如果你正在规划巴厘岛旅行，也可以把 The Apurva Kempinski Bali这个促销列入参考。毕竟在巴厘岛，有时候 **选对一间酒店，本身就已经是一个景点了。**
 
 <iframe
   src="/forms/kempinski-booking-form.html"

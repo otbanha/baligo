@@ -31,7 +31,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7637ac635c331c40ccb594138cb074c8.jpg'
 originalUrl: 'https://vocus.cc/article/67094049fd8978000167f9f9'
 lang: zh-cn
-_srcHash: dc87662c7c69b4aad5c5110c58abbd7c
+_srcHash: e9007e8150f8b5d1715d0b05f8d0a23a
 ---
 
 巴厘岛上有很多五星级酒店，能满足各种旅客的需求与品味。位于金巴兰湾的**莱佛士酒店（Raffles Bali）**在2024年被评选为最佳奢华酒店之一，继续吸引全球各地的旅客前来体验其独特的优雅和高贵气息。
@@ -72,7 +72,7 @@ Raffles Bali
 
 > 请看我们[收集了30个景点的金巴兰攻略](/blog/jimbaran-guide/)
 
-莱佛士酒店还被《康泰纳仕旅行者》评选为印尼十大度假村之一，与知名的卡佩拉乌布（[Capella Ubud，请看我们的介绍](/blog/capella-ubud-luxury-resort/)）并列，展示了它在奢华旅游中的顶尖地位。随着巴厘岛逐渐从封锁影响中复苏，并开始远离过度旅游的模式，莱佛士酒店不仅成为了旅客的最爱，也成为了可持续旅游的典范。
+莱佛士酒店还被《康泰纳仕旅游者》评选为印尼十大度假村之一，与知名的卡佩拉乌布（[Capella Ubud，请看我们的介绍](/blog/capella-ubud-luxury-resort/)）并列，展示了它在奢华旅游中的顶尖地位。随着巴厘岛逐渐从封锁影响中复苏，并开始远离过度旅游的模式，莱佛士酒店不仅成为了旅客的最爱，也成为了可持续旅游的典范。
 
 ## 金巴兰的隐秘海滨度假村
 
@@ -84,7 +84,7 @@ Raffles Bali
 
 金巴兰的奢华度假村种类繁多，适合不同类型的旅客，无论是家庭度假还是浪漫情侣之旅，这里总能找到合适的选择，请看我们介绍的「[无敌海景金巴兰住宿篇](/blog/jimbaran-beachfront-hotels-guide/)」。特别是莱佛士酒店，以其卓越的服务和优雅的氛围，成为了许多奢华旅客的首选。
 
-> ▶Raffles Bali [请查看Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=14654956)
+> ▶Raffles Bali [查看Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=14654956)
 
 ***
 

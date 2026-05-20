@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2cbac39774379bbcb2a04256d663206b.jpg'
 originalUrl: 'https://vocus.cc/article/667ff433fd897800017b331e'
 lang: zh-cn
-_srcHash: 546c21b5552dae94c24d28bd11550ac4
+_srcHash: 91a22c90f85c79f998e479181da59fe7
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3dc7be54d646651c0baffd85a2b0e7c2.jpg)
@@ -37,7 +37,7 @@ _srcHash: 546c21b5552dae94c24d28bd11550ac4
 
 ## 绝佳的用餐体验
 
-餐厅的环境宽敞简约，带有质朴的风情。用餐前记得致电预约，享受老板亲自提供的亲切服务。如果不方便前来，也可以使用 Grab 或 Gojek 的外送服务，在家享受新鲜美味的海鲜料理。
+餐厅的环境宽敞简约，带有简朴的风情。用餐前记得致电预约，享受老板亲自提供的亲切服务。如果不方便前来，也可以使用 Grab 或 Gojek 的外送服务，在家享受新鲜美味的海鲜料理。
 
 ## 购买巴厘岛名产「鱿鱼片」
 

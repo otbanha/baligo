@@ -24,13 +24,13 @@ originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-lang: zh-cn
-_srcHash: 094e0fa125af126e305fed84669baa5c
 agoda_hotel_id: 295644
-agoda_hotel_name: "巴厘島寰庭帕夏水明漾度假村"
+agoda_hotel_name: 巴厘島寰庭帕夏水明漾度假村
 agoda_star_rating: 5
 latitude: -8.684345245361328
 longitude: 115.15927124023438
+lang: zh-cn
+_srcHash: 3833a808e8b22eb218829e9f077d391e
 ---
 
 如果你想住在水明漾的正中心、步行就能到处逛、回酒店还有屋顶泳池可以看夕阳，那 Cross Paasha Bali Seminyak 这间四星设计风精品酒店很值得考虑。这间酒店以前叫 U Paasha，后来改名 Cross Paasha，位置一样在 Jl. Laksmana 77 号，Kayu Aya 街的核心地带，99间房全是套房等级，格局宽敞、设计感强，是水明漾这一带性价比颇高的选择之一。
@@ -41,9 +41,9 @@ longitude: 115.15927124023438
 
 ## 📍 位置与周边环境
 
-Cross Paasha 坐落在水明漾最精华的 Laksmana 区，就是大家说的「Eat Street」一带。酒店出门走两分钟就是 Seminyak Square 购物中心，Seminyak Village Mall 也只要三分钟脚程，日常采买、餐厅、咖啡馆几乎全部走路可达。
+Cross Paasha 坐落在水明漾最精华的 Laksmana 区，就是大家说的「Eat Street」一带。酒店出门走两分钟就是水明漾广场购物中心，水明漾村购物中心也只要三分钟脚程，日常采买、餐厅、咖啡厅几乎全部走路可达。
 
-海滩方面，水明漾海滩步行大约10到15分钟，距离不算近，但也在接受范围内；叫个 Grab 车大概5分钟就到了。周边景点也很丰富：Petitenget Beach 和 Pura Petitenget 寺庙开车五分钟，La Lucciola 海景餐厅、Ku De Ta 走路10分钟，Potato Head Beach Club 开车三分钟。
+海滩方面，水明漾海滩步行大约10到15分钟，距离不算近，但也在接受范围内；叫个 Grab 车大概5分钟就到了。周边景点也很丰富：Petitenget 海滩和 Pura Petitenget 寺庙开车五分钟，La Lucciola 海景餐厅、Ku De Ta 走路10分钟，Potato Head 海滩俱乐部开车三分钟。
 
 水明漾这个区域整体的氛围是精品购物加夜生活并存，街上餐厅、酒吧、时装店密度很高，如果你想在巴厘岛享受精致的都市感旅游体验，这个地点几乎是无敌的。
 
@@ -67,7 +67,7 @@ Cross Paasha 坐落在水明漾最精华的 Laksmana 区，就是大家说的「
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776231683899-canteen1.webp)
 
-酒店还附设健身房，设备算基本够用。比较特别的一个政策是**24小时入住制度**：你几点入住，就从那个时间点起算整整24小时，退房时间完全弹性，不受传统 check-in 12点/check-out 11点的规定限制，这对航班时间不固定的旅客非常友善。
+酒店还附设健身房，设备算基本够用。比较特别的一个政策是**24小时入住制度**：你几点入住，就从那个时间点起算整整24小时，退房时间完全弹性，不受传统 check-in 12点/check-out 11点的规定限制，这对航班时间不固定的旅客非常友好。
 
 ***
 

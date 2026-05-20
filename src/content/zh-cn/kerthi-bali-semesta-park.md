@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_213915c8980abeaf3106c8b0c9114d11.jpg'
 originalUrl: 'https://vocus.cc/article/68f9ad45fd897800017798ec'
 lang: zh-cn
-_srcHash: 1475ab7e863cf9fa8ae417efbf98a99f
+_srcHash: 1aac2e9fff3357dfbae3e198641b9339
 ---
 
 ## **派拉蒙影业进军巴厘岛｜Kerthi Bali Semesta Park 预计 2026 年开幕**
@@ -70,7 +70,7 @@ Jembrana 县长 **Kembang Hartawan** 表示：「Kerthi Bali Semesta Park 是结
 
 ## **经济与社会效益：改变 Jembrana 的未来**
 
-印尼旅游部预计，Kerthi Bali Semesta Park 开幕后，**Jembrana 每年可吸引多达 500 万名游客**，创造 **超过 25,000 个就业机会**，涵盖旅游、服务、交通、环境管理与文化教育等多个领域。
+印尼旅游部预计，Kerthi Bali Semesta Park 开幕后，**Jembrana 每年可吸引多达 500 万名游客**，创造 **超过 25,000 个工作岗位**，涵盖旅游、服务、交通、环境管理与文化教育等多个领域。
 
 同时，配合乐园的开发，Jembrana 还将新增：
 

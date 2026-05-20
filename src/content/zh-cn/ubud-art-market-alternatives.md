@@ -16,7 +16,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-cn
-_srcHash: 6bd10155f8ef0ce6357b2ecd277909e2
+_srcHash: 56e2533627f5e2418812d2703a743101
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_90c38ac72764dbb29c604f9b35b3f960.jpg)

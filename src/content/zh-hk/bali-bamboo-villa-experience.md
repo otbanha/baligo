@@ -1,6 +1,6 @@
 ---
 slug: bali-bamboo-villa-experience
-title: 峇里島一晚居然唔使 USD$65！？住呢度係咩感覺？體驗峇里島隱世竹屋民宿
+title: 峇里島一晚居然唔使 USD$65!? 住呢度係咩感覺? 體驗峇里島隱世竹屋民宿
 description: 峇里島樹屋型式嘅竹屋別墅 bamboo villa 住宿體驗
 pubDate: 2024-04-04T00:00:00.000Z
 category:
@@ -35,7 +35,7 @@ agoda_star_rating: 4
 latitude: -8.508825619969254
 longitude: 115.25057328414368
 lang: zh-hk
-_srcHash: 1df54a36226805e21e8b89a4827a3d97
+_srcHash: f464256ecc32befbd6fb7c7d7f56d22a
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c62a1ab2c4b39417175e2de5c99ef7b0.jpg)
@@ -44,25 +44,25 @@ _srcHash: 1df54a36226805e21e8b89a4827a3d97
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8fcbe4d9b0ce4a0759443d9a8fbe1762.png)
 
-抵達佢哋嘅 bamboo villa 時，佢被門口嘅池塘同裡面游動嘅肥美錦鯉深深吸引，仲講笑話唔小心就會跌落去同錦鯉做伴。入到民宿，見到一間開放式空間，冇門窗，亦冇冷氣設備，只有一把電風扇。房內有一張吊床同雙人床，俾人好放鬆嘅感覺。
+抵達佢哋嘅 bamboo villa 時，佢被門口嘅池塘同入面游動嘅肥碩錦鯉深深吸引，仲講笑話唔小心就會跌落去同錦鯉做伴。入到民宿內，映入眼簾嘅係一間開放式嘅空間，冇門窗，亦冇冷氣設備，只有一把電風扇。房內有一張吊床同雙人床，俾人好放鬆嘅感覺。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_31309ad44d7f6fe899c4b724d27d950a.png)
 
-客房後面有個小陽台，種咗好多檸檬樹，綠意盎然。女仔夢寐以求嘅全身鏡都有配備。最特別嘅係，廁所同淋浴間被一片可以移動嘅竹牆隔開，設計簡單有種露營嘅感覺。洗手台旁邊亦有一面可以收起嘅小鏡子，好得意又有心思。
+客房後方有一個小陽台，種咗好多檸檬樹，綠意盎然。女仔夢寐以求嘅全身鏡都有配備。最獨特嘅係，廁所同淋浴間被一片可以移動嘅竹牆隔開，設計簡單有種露營嘅感覺。洗手台旁邊亦有一面可以收起嘅小鏡子，十分可愛巧思。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e111fcde7c749bc6aad43f044d62dd41.png)
 
-夜晚，Melody 被池塘嘅流水聲同蟲鳴鳥叫環繞，喺大自然嘅懷抱中入睡，感覺好舒服怡人。
+夜晚，Melody 被池塘嘅流水聲同蟲鳴鳥叫環繞，喺大自然嘅懷抱中入睡，感覺好舒適怡人。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_75c7ea229b2049bf0233fdfb6155bade.png)
 
-第二日，Melody 參觀咗民宿嘅泳池區，寧靜怡人，別有一番風味。佢好鍾意呢處隱匿喺叢林中嘅祥和天地，雖然距離熱鬧區有啲遠，但正因如此獨特安謐，係值得體驗嘅渡假勝地。
+第二日，Melody 參觀咗民宿嘅泳池區，寧靜怡人，別有一番風味。佢好鍾意呢處隱匿喺叢林中嘅祥和天地，雖然距離熱鬧區有啲遠，但正因如此獨特安謐，係值得體驗嘅度假勝地。
 
-呢間竹屋民宿嘅每個角落都充滿設計師嘅心思，將大自然融入生活，俾人難忘嘅體驗。Melody 對此留下深刻印象，並喺影片中熱情推薦俾大家。
+呢間竹屋民宿嘅每個角落都充滿設計師嘅用心，將大自然融入生活，俾人難忘嘅體驗。Melody 對此留下深刻印象，並喺影片中熱情推薦俾大家。
 
 ## 睇詳細視頻介紹:
 https://youtu.be/6dVUu_xXM0s?si=4FBvRasS_wQ1OInu
 
-## 你都想住 bamboo villa 嗎？
+## 你都想住 bamboo villa 嗎?
 
-請睇吓呢度有[推薦嘅10間令人嘆為觀止嘅樹屋 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
+請睇呢度有[推薦嘅10間令人嘆為觀止嘅樹屋 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
