@@ -63,18 +63,6 @@ const disclaimer = lang === 'en'
       <p class="footer-tagline">{tagline}</p>
     </div>
 
-    <!-- 分類快速連結 -->
-    <div class="footer-links">
-      <h4>{catTitle}</h4>
-      <ul>
-        {categories.map(cat => (
-          <li>
-            <a href={`${blogBase}?cat=${encodeURIComponent(cat.slug)}`}>{getCatName(cat.slug)}</a>
-          </li>
-        ))}
-      </ul>
-    </div>
-
     <!-- 社群媒體 -->
     <div class="footer-social">
       <h4>追蹤我們</h4>
@@ -119,7 +107,7 @@ footer {
   margin: 0 auto;
   padding: 3em 2em 2em;
   display: grid;
-  grid-template-columns: 1.5fr 1fr 1fr;
+  grid-template-columns: 1.5fr 1fr;
   gap: 3em;
 }
 
@@ -237,11 +225,8 @@ footer {
 
 @media (max-width: 900px) {
   .footer-inner {
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr;
     gap: 2em;
-  }
-  .footer-brand {
-    grid-column: 1 / -1;
   }
 }
 
@@ -251,8 +236,6 @@ footer {
     gap: 1.5em;
     padding: 2em 1.5em;
   }
-  .footer-links {
-    display: none;
-  }
+
 }
 </style>
