@@ -330,14 +330,14 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
           )}
 
           <!-- D.2-1: hero 位置 — 目錄下方、內文前 -->
-          {slug && <RelatedMapCard blogUrl={`https://gobaligo.id/blog/${slug}/`} position="hero" />}
+          {slug && <RelatedMapCard blogUrl={`https://gobaligo.id/blog/${slug}/`} position="hero" lang={lang} />}
 
           <div id="article-body" data-shuffle={shuffleH2 ? 'true' : 'false'}>
             <slot />
           </div>
 
           <!-- D.2-3: footer 位置 — 文末 CTA 卡片 -->
-          {slug && <RelatedMapCard blogUrl={`https://gobaligo.id/blog/${slug}/`} position="hero" />}
+          {slug && <RelatedMapCard blogUrl={`https://gobaligo.id/blog/${slug}/`} position="hero" lang={lang} />}
 
           <!-- 促銷區塊 -->
           {activePromos.length > 0 && (
