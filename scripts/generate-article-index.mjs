@@ -74,7 +74,7 @@ for (const file of files) {
   articles.push({
     id,
     title: fm.title,
-    url: `/blog/${id}/`,
+    url: `/blog/${fm.slug || id}/`,
     description: fm.description || '',
     category: Array.isArray(category) ? category : [category].filter(Boolean),
     tags: Array.isArray(tags) ? tags : [tags].filter(Boolean),
