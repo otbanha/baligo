@@ -224,7 +224,8 @@ h5 { font-size: 1em; }
 .prose a[href*="trip.com"],
 .prose a[href*="klook.com"],
 .prose a[href*="kkday.com"],
-.prose a[href*="booking.com"] {
+.prose a[href*="booking.com"],
+.prose a[href*="booking.tpm.li"] {
   display: inline-block;
   padding: 4px 12px;
   background: linear-gradient(135deg, #f97316, #ea580c);
@@ -241,7 +242,8 @@ h5 { font-size: 1em; }
 .prose a[href*="trip.com"]:hover,
 .prose a[href*="klook.com"]:hover,
 .prose a[href*="kkday.com"]:hover,
-.prose a[href*="booking.com"]:hover {
+.prose a[href*="booking.com"]:hover,
+.prose a[href*="booking.tpm.li"]:hover {
   color: white;
   text-decoration: none;
   background-color: transparent;
@@ -253,13 +255,14 @@ h5 { font-size: 1em; }
 .prose a[href*="trip.com"]:visited,
 .prose a[href*="klook.com"]:visited,
 .prose a[href*="kkday.com"]:visited,
-.prose a[href*="booking.com"]:visited {
+.prose a[href*="booking.com"]:visited,
+.prose a[href*="booking.tpm.li"]:visited {
   color: white;
 }
 
 /* 第三層：blockquote 內延伸閱讀連結（藥丸標籤風格）
    排除聯盟連結（已有按鈕樣式） */
-.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]) {
+.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]) {
   color: #0369a1;
   background-color: #e0f2fe;
   padding: 1px 8px;
@@ -268,12 +271,12 @@ h5 { font-size: 1em; }
   text-underline-offset: unset;
   font-weight: 500;
 }
-.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):hover {
+.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]):hover {
   background-color: #bae6fd;
   color: #075985;
   background-color: #bae6fd;
 }
-.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):visited {
+.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]):visited {
   color: #075985;
 }
 
