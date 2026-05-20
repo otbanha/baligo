@@ -171,6 +171,9 @@ const relatedMapData = (area.relatedMaps ?? [])
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
+      display: flex;
+      align-items: center;
+      gap: 6px;
     }
 
     .topbar-desc {
@@ -216,17 +219,20 @@ const relatedMapData = (area.relatedMaps ?? [])
     .guide-topbar-btn {
       display: inline-flex;
       align-items: center;
-      gap: 4px;
+      gap: 3px;
       background: #fff8ee;
       color: #b36a00;
       border: 1px solid #f0c050;
-      border-radius: 20px;
-      padding: 5px 10px;
-      font-size: 12px;
+      border-radius: 12px;
+      padding: 2px 8px;
+      font-size: 11px;
       font-weight: 700;
       text-decoration: none;
       flex-shrink: 0;
+      white-space: nowrap;
       -webkit-tap-highlight-color: transparent;
+      vertical-align: middle;
+      line-height: 1.4;
     }
     [data-dark] .guide-topbar-btn {
       background: #2a1f00;
@@ -406,14 +412,16 @@ const relatedMapData = (area.relatedMaps ?? [])
     <div class="map-topbar">
       <a href="/map/" class="back-btn">‹ 返回</a>
       <div class="topbar-info">
-        <div class="topbar-title">{area.name} {area.isThematic ? '' : '攻略地圖'}</div>
+        <div class="topbar-title">
+          <span>{area.name} {area.isThematic ? '' : '攻略地圖'}</span>
+          {mapBlogEntry?.blogUrl && (
+            <a href={mapBlogEntry.blogUrl} class="guide-topbar-btn" aria-label="閱讀旅遊攻略">
+              📖 攻略
+            </a>
+          )}
+        </div>
         <div class="topbar-desc">{area.description}</div>
       </div>
-      {mapBlogEntry?.blogUrl && (
-        <a href={mapBlogEntry.blogUrl} class="guide-topbar-btn" aria-label="閱讀旅遊攻略">
-          📖 攻略
-        </a>
-      )}
       <a href="/map/itinerary/" id="itin-topbar-btn" aria-label="行程規劃">
         📋 <span id="itin-topbar-count">0</span>
       </a>
