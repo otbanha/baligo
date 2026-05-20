@@ -7,11 +7,11 @@ category: itinerary
 relatedLinks:
 - slug: trip-planner/
   label: 峇里島行程規劃工具 
-- slug: blog/2024-07-20-669b1d59fd89780001def381/ 
+- slug: blog/seminyak-day-trip-guide/
   label: 海灘度假首推：水明漾玩什麼？
-- slug: blog/2024-07-28-669fc2a7fd89780001321901/
+- slug: blog/ubud-top-20-attractions-guide/
   label: 第一次到烏布，烏布玩什麼？
-- slug: blog/2023-12-06-65708c78fd89780001f418c2/
+- slug: blog/2026-bali-trip-planning-guide/
   label: 七個步驟規劃完美旅程
 featured: true
 order: 3

@@ -5,11 +5,11 @@ title_zh_cn: "入境印尼/峇里岛需要哪些文件？"
 title_zh_hk: "入境印尼/峇里島需要咩文件？"
 category: entry
 relatedLinks:
-- slug: blog/2025-08-14-689dcce7fd8978000125fc52/
+- slug: blog/bali-all-indonesia-arrival-guide/
   label: "1分鐘搞懂最新流程：下飛機→過海關→領行李全攻略"
-- slug: 2025-08-14-689db40ffd89780001eb2f3e/
+- slug: blog/bali-evisa-customs-health-declaration/
   label: 入境印尼/峇里島eVisa簽證、必填 All Indonesia 常見問題 FAQ
-- slug: bali-levy-check-warning/
+- slug: blog/bali-levy-check-warning/
   label: 峇里島旅遊稅逃不了！最新繳費流程
 featured: true
 order: 1

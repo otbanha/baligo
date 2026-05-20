@@ -5,9 +5,9 @@ title_zh_cn: "峇里岛什么时候去最好？"
 title_zh_hk: "峇里島幾時去最好？"
 category: weather
 relatedLinks:
-- slug: blog/2025-04-02-67ecc962fd89780001212629/
+- slug: blog/bali-rainy-season-travel-guide/
   label: 峇里島12個月份適合旅遊指數大解析
-- slug: blog/2025-12-06-691c6b2cfd89780001862b97/
+- slug: blog/bali-rainy-season-tips/
   label: 別被雨嚇跑！雨季其實超讚！
 featured: false
 pubDate: 2026-04-26

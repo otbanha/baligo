@@ -5,11 +5,11 @@ title_zh_cn: "第一次去峇里岛住哪一区？"
 title_zh_hk: "第一次去峇里島住邊區？"
 category: accommodation
 relatedLinks:
-- slug: blog/2026-02-24-65839fbafd89780001e876b5/
+- slug: blog/bali-accommodation-area-guide/
   label: 五大熱門區域比較：庫塔、水明漾、倉古/長谷、烏布怎麼選
 - slug: blog/kuta-beach-hotels/
   label: 庫塔海灘的 18 間精選飯店
-- slug: 2024-01-10-659cf4a5fd89780001d6fb69/
+- slug: blog/ubud-with-kids-guide/
   label: 烏布精選 55 項小朋友最愛活動
 featured: false
 pubDate: 2026-04-26

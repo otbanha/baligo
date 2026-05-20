@@ -5,9 +5,9 @@ title_zh_cn: "佩尼达岛适合一日游吗？"
 title_zh_hk: "佩尼達島適合一日遊咩？"
 category: itinerary
 relatedLinks:
-- slug: blog/2023-08-16-64db6b82fd897800013a9942/
+- slug: blog/nusa-penida-guide/
   label: 【Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點
-- slug: blog/2024-02-12-65c8e2dffd89780001346aa9/
+- slug: blog/nusa-penida-hotels-guide/
   label: "佩尼達島的住宿推薦: 14間從奢華到平價的 Nusa Penida 好評住宿"
 featured: false
 pubDate: 2026-04-26

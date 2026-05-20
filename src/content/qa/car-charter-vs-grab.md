@@ -7,7 +7,7 @@ category: transport
 relatedLinks:
 - slug: blog/bali-transport-quiz/
   label: 【峇里島交通測驗】1 分鐘小測驗幫你選出最省錢、不踩雷的移動方式
-- slug: blog/2024-05-05-6636f348fd897800013df126/
+- slug: blog/bali-transportation-guide-car-rental/
   label: 什麼時候該包車？什麼場合用 Gojek/Grab？包車 vs. 叫車優缺點與場景分析
 - slug: go/bali-car-charter-guide
   label: 峇里島包車訣竅全指南
