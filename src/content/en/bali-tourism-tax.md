@@ -20,58 +20,58 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: en
-_srcHash: dbba13c98878f100097a5842f93e1f88
+_srcHash: 69a648b4aac33ed0a2555e30a3dbb98c
 ---
 
-### **Is Bali Considering a Daily Tourist Tax—Will It Become the 'Next Bhutan'?**
+### **Bali Considers a Daily Tourist Tax—Will It Become the 'Next Bhutan'?**
 
-Bali is contemplating introducing a **daily tourist tax** for foreign visitors, inspired by Bhutan's approach, with the goal of attracting 'high-quality' tourists and increasing government revenue.
+Bali is contemplating introducing a **daily tourist tax** for foreign visitors, inspired by Bhutan's approach, with the goal of attracting 'high-quality' tourists and boosting government revenue.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8577e4982baadfd2f9b3e465a7b5c8ea.png)
 
-**Puspa Negara**, President of the Bali Tourism Board, emphasized the need to establish a visitor screening system similar to Bhutan's, along with plans to develop local tourist attractions and enhance human resources. His proposal may gain support from the local government and lay the groundwork for future tourism policies.
+**Puspa Negara**, Chairman of the Bali Tourism Board, emphasized the need to establish a visitor screening system similar to Bhutan's, along with plans to develop local tourist attractions and enhance human resources. His proposal may gain support from the local government and lay the foundation for future tourism policies.
 
-As early as **2023**, Bali's Governor **Wayan Koster** approved this plan as a measure to control tourist flow. He believes it will effectively address **overtourism** while preserving the local environment and culture.
+Back in **2023**, Bali's Governor **Wayan Koster** approved this plan as a measure to control tourist flow. He believes it will effectively address the issue of **overtourism** while preserving the local environment and culture.
 
 ### **Bhutan's 'Sustainable Development Fee' Serves as a Reference**
 
-Since **September 2022**, all visitors to Bhutan have been required to pay a daily **USD$100** 'Sustainable Development Fee,' which is expected to increase to **USD$200** per day by **2027**.
+Since **September 2022**, all visitors entering Bhutan have been required to pay a daily **$100** 'Sustainable Development Fee,' with the fee expected to increase to **$200** per day by **2027**.
 
-If Bali adopts a similar policy, it could become a **nightmare** for short-term vacationers and expatriates alike. Imagine having to pay **thousands of dollars** extra simply because of foreign status—this would be a significant burden for long-term residents.
+If Bali adopts a similar policy, it could spell **disaster** for short-term vacationers and expatriates alike. Imagine having to pay an additional **thousands of dollars** simply because of your foreign status—this would be a significant burden for long-term residents.
 
 ### **'High-Quality Tourist' Policy May Transform Bali's Landscape**
 
-The concept of attracting 'high-quality tourists' has become a goal for government officials in major tourist destinations worldwide. However, tourism is a complex ecosystem, and excessive intervention may disrupt the existing balance, even leading to the loss of original tourism value.
+The concept of attracting 'high-quality tourists' has become a goal for government officials in major tourist destinations worldwide. However, the tourism industry is a complex ecosystem, and excessive intervention may disrupt the existing balance, potentially leading to the loss of its original tourism value.
 
-Bali attracts global tourists not only because of its magnificent **natural landscapes**, **surfing spots**, and **cultural charm**, but also due to its inclusive and diverse community atmosphere, fostering a harmonious symbiotic relationship between local residents and foreign visitors.
+Bali attracts global visitors not only for its stunning **natural landscapes**, **surfing spots**, and **cultural charm**, but also for its inclusive and diverse community atmosphere, fostering a harmonious coexistence between local residents and foreign travelers.
 
-However, if the daily tourism tax is significantly increased, it may alter Bali's social structure, leading to:
+However, if daily tourism taxes are significantly increased, it could alter Bali's social structure, resulting in:
 
-- **Small local businesses** and **family-run guesthouses** being affected, potentially replaced by luxury hotel chains
-- **Digital nomads** and **long-term residents** moving to cheaper tourist destinations, such as nearby **Lombok**
-- Once bustling **beach clubs**, **bars**, and **cultural markets** becoming deserted, with the island's social atmosphere disappearing
+- **Small local businesses** and **family-run guesthouses** struggling to survive, potentially being replaced by luxury hotel chains
+- **Digital nomads** and **long-term residents** moving to more affordable destinations, such as nearby **Lombok**
+- Once vibrant **beach clubs**, **bars**, and **cultural markets** becoming deserted, leading to the disappearance of the island's social vibe
 
-Would Bali still be the soulful and vibrant paradise that tourists envision?
+Would Bali still be the soulful and vibrant paradise that visitors cherish?
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7817b31199234c7f040aeea7339a27e9.png)
 
 ### **Bali Already Has an 'Entry Fee'**
 
-In fact, since **2023**, Bali has been charging foreign tourists a one-time entry fee of **150,000 Indonesian Rupiah** (approximately **USD$10**). Compared to Bhutan's daily tax, this fee remains negligible and does not significantly impact most tourists.
+In fact, since **2023**, Bali has imposed a one-time entry fee for foreign tourists, amounting to **150,000 Indonesian Rupiah** (approximately **USD$10**). Compared to Bhutan's daily tax, this fee remains negligible and does not significantly impact most travelers.
 
 ### **Will Bali Increase Its Tourism Tax Burden in the Future?**
 
-Although the Bali government has repeatedly discussed raising the tourism tax, Indonesia's Minister of Tourism, **Sandiaga Uno**, explicitly opposed the proposal to increase the tourism tax to **USD$50** per day in **2024**, believing it could affect Bali's attractiveness as a tourist destination.
+Although discussions about raising tourism taxes have occurred multiple times within Bali's government, Indonesia's Tourism Minister **Sandiaga Uno** explicitly opposed the proposal to increase the tax to **USD$50** per day in **2024**, believing it could affect Bali's appeal as a tourist destination.
 
-In the future, whether Bali will follow Bhutan's example and implement a daily tourism tax policy remains to be seen, depending on further government decisions and social responses.
+Whether Bali will follow Bhutan's example and implement a daily tourism tax policy in the future remains to be seen, depending on further government decisions and societal responses.
 
 ---
 
 ## **📌 5 Frequently Asked Questions**
 
-### **1. Is Bali currently charging a tourism tax?**
+### **1. Is Bali currently collecting a tourism tax?**
 
-Yes, Bali has implemented a one-time entry fee for foreign tourists starting in **2023**, amounting to **150,000 IDR** (approximately **USD$10**).
+Yes, Bali has implemented a one-time entry fee for foreign tourists since **2023**, amounting to **150,000 IDR** (approximately **USD$10**).
 
 ### **2. Will Bali's tourism tax increase?**
 
@@ -79,14 +79,14 @@ There is no confirmed news yet, but the government is discussing raising the fee
 
 ### **3. Why is Bali considering a daily tourism tax?**
 
-This move aims to address **overtourism**, improve the quality of visitors, and increase government revenue to protect culture and the environment.
+This measure aims to address **overtourism**, improve the quality of visitors, and increase government revenue to protect culture and the environment.
 
 ### **4. How will the tourism tax impact Bali's tourism industry?**
 
-If the fees are too high, it could lead to the closure of small businesses, a loss of long-term residents, and affect the diversity of local communities and the tourism industry.
+If the fee is too high, it could lead to the closure of small businesses, a loss of long-term residents, and affect the diversity of local communities and the tourism industry.
 
 ### **5. What is Bhutan's 'Sustainable Development Fee'?**
 
-Starting from 2022, Bhutan has implemented a daily fee of USD$100 for tourists, with plans to increase it to USD$200 per day by 2027, serving as funding for environmental protection and infrastructure development.
+Starting from **2022**, Bhutan has implemented a daily fee of **USD$100** for tourists, with plans to increase it to **USD$200** per day by **2027**, aimed at funding environmental conservation and infrastructure development.
 
 ##

@@ -1,8 +1,8 @@
 ---
 slug: 2024-bali-visa-extension
-title: 2024印尼/巴厘岛在线延长签证教学
+title: 2024印尼/巴厘岛线上延长签证教学
 description: >-
-  自2024年起，印尼将鼓励计划前往印尼/巴厘岛的游客使用在线移民服务。游客可以在线申请各种印尼签证，也可以在线办理签证延期手续，不用再跑到移民局办公室亲自办理啦！
+  自2024年起，印尼将鼓励计划前往印尼/巴厘岛的游客使用线上移民服务。游客可以线上申请各种印尼签证，也可以线上办理签证延期手续，不用再跑到移民局办公室亲自办理啦！
 pubDate: '2024-02-05'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ebcd12da637f984ed9c468b15354d9cb.png'
 tags:
@@ -15,14 +15,14 @@ originalUrl: 'https://vocus.cc/article/65c039affd89780001e5a3db'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: df4a7ec500973f5562b10313aa03a51f
+_srcHash: cab3d949be4969e507ea37870d5ffca1
 ---
 
-自2024年起，印尼将鼓励计划前往巴厘岛的游客使用在线移民服务。游客可以在线申请各种印尼签证，也可以在线办理签证延期手续，不用再跑到移民局办公室亲自办理啦！（2025/05/29最新更新：现在又改成要去移民局办公室按手印咯！请看[这里](/blog/indonesia-visa-rules-2025/)）
+自2024年起，印尼将鼓励计划前往巴厘岛的游客使用线上移民服务。游客可以线上申请各种印尼签证，也可以线上办理签证延期手续，不用再跑到移民局办公室亲自办理啦！（2025/05/29最新更新：现在又改成要去移民局办公室按指纹咯！请看[这里](/blog/indonesia-visa-rules-2025/)）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3251272747de6e2dc78cc7eb7b80f815.png)
 
-## **以下签证类别现在可以在线进行延期手续：**
+## **以下签证类别现在可以线上进行延期手续：**
 
 - 度假、家庭和过境单次入境访客签证
 - 医疗治疗单次入境访客签证
@@ -50,15 +50,15 @@ _srcHash: df4a7ec500973f5562b10313aa03a51f
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ea1406d7d97acc6798000b0f38ea9c38.jpg)
 
-接下来，你需要输入信用卡详细资料，如下方截图所示。输入完毕后，点击底部的红色按钮"现在支付"（BAYAR SAKARANG）。
+接下来，你需要输入信用卡详细资料，如下方截图所示。输入完毕后，点击底部的红色按钮“现在支付”（BAYAR SAKARANG）。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_69f06b8d2e0884856ce77e56026ff835.jpg)
 
-成功支付后，返回到首页的"extend"。
+成功支付后，返回到首页的“extend”。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_76022c8cab8e7779a726198a53e9255e.jpg)
 
-在右侧的"状态"部分，你将会看到一条绿底的信息"已支付"，表示支付成功。在这条信息下方，有一个标有"e-ITK"的按钮；点击它可以查看你的签证。
+在右侧的“状态”部分，你将会看到一条绿底的信息“已支付”，表示支付成功。在这条信息下方，有一个标有“e-ITK”的按钮；点击它可以查看你的签证。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_54f8adbc9ef97bf9854a067cbf9d4f00.jpg)
 
@@ -66,7 +66,7 @@ _srcHash: df4a7ec500973f5562b10313aa03a51f
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f91aac2b48376f8dcb455a7cab7ad2da.jpg)
 
-我们建议你截图或打印这份文件，因为...当你离开印尼/巴厘岛时，你的护照上将不会有任何注记表明你已延长了你的签证，因此截图或印出来方便出示给相关人员会比较保险。
+我们建议你截图或打印这份文件，因为...当你离开印尼/巴厘岛时，你的护照上将不会有任何标记表明你已延长了你的签证，因此截图或打印出来方便出示给相关人员会比较保险。
 
 ## **注意延长的日期**
 
@@ -76,4 +76,4 @@ _srcHash: df4a7ec500973f5562b10313aa03a51f
 
 ## 最新更新
 
-2025/05/29最新更新：现在又改成要去移民局办公室按指纹咯！请看[这里](/blog/indonesia-visa-rules-2025/)
+2025/05/29最新更新：现在又改成要去移民局办公室按手印囉！请看[这里](/blog/indonesia-visa-rules-2025/)

@@ -1,6 +1,6 @@
 ---
 slug: tukad-cepung-waterfall-review
-title: 巴厘岛的这一个仙境瀑布值得去吗？Tukad Cepung Waterfall｜巴厘岛游记乌布景点｜Tukat Cepung瀑布探秘
+title: 巴厘岛的这一个仙境瀑布值得去吗？Tukad Cepung Waterfall｜巴厘岛游记乌布景点｜Tukat Cepung瀑布探密
 description: >-
   巴厘岛游记的第三个瀑布，我们来到乌布附近，经过两小时的车程，抵达被誉为「巴厘岛仙境」的Tukad
   Cepung瀑布。这个隐藏在壮丽自然景观中的瑰宝，绝对是您旅程中的必访之地
@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_747ed11a26134e35e5596b98ec191a45.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b72fd897800013a9459'
 lang: zh-cn
-_srcHash: 440b2fb85920c846ee82957f0848576b
+_srcHash: 1ba18df0ba6cd35b3845bf21615f24f7
 ---
 
 巴厘岛游记的第三个瀑布，我们来到乌布附近，经过两小时的车程，抵达被誉为「巴厘岛仙境」的Tukad Cepung瀑布。这个隐藏在壮丽自然景观中的瑰宝，绝对是您旅程中的必访之地。

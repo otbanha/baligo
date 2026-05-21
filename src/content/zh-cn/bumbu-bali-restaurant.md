@@ -3,7 +3,7 @@ slug: bumbu-bali-restaurant
 title: 巴厘岛/南湾区必吃美食餐厅 Bumbu Bali
 description: >-
   巴厘岛传统美食餐厅，还有巴厘岛的舞蹈表演，更是TripAdvisor推荐第二名的美食餐厅 ▽▽▽ 底下还有精彩攻略不要错过喔！▽▽▽ 巴厘岛行前准备终极指南
-  巴厘岛旅行要带什么？必备的21项物品 出国旅游请留意！【护照有效期限】未注意 网友惨喷USD$158 如何入境印尼/巴厘岛？签证、疫苗、保险、Ap
+  巴厘岛旅行要带什么？必备的21项物品 出国旅游请留意！【护照有效期限】未注意 网友惨喷USD$158 如何入境印尼/巴厘岛？签证、疫苗、保险、App
 pubDate: '2023-08-15'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_abab451174341c647a4972caa15c7105.jpg'
 tags:
@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/64db6b51fd897800013a8d03'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: e3df1b91ce11d2a5e175ba0df6068319
+_srcHash: 76dcf03c52aa4fe4c4628abf1a13980d
 ---
 
 巴厘岛传统美食餐厅，还有巴厘岛的舞蹈表演，更是TripAdvisor推荐第二名的美食餐厅

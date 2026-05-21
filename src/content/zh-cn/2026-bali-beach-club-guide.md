@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2fb8cb22a83dc08d9c39360989581ebb.jpg'
 originalUrl: 'https://vocus.cc/article/695f8a37fd897800019d57f4'
 lang: zh-cn
-_srcHash: f7466ed52e14cffabb734e10b9801121
+_srcHash: bcee466640eed027cd3bd3a6e9c0ce4f
 ---
 
 2026 年来巴厘岛，别再只跑咖啡馆了！真正懂玩的人，开始「Beach Club Jumping」🌊🍹
@@ -32,7 +32,7 @@ _srcHash: f7466ed52e14cffabb734e10b9801121
 
 过去很长一段时间，「咖啡馆巡礼」几乎是来巴厘岛的标配。不管你住在哪个区域，巷口总能找到设计感满满、咖啡水准不错的店，选择多到让人眼花缭乱。再加上印尼本身就是世界级咖啡产地，咖啡文化早已融入生活，这股风潮自然一路延烧。
 
-不过，说到真正让人一坐就不想走的，还是得提到巴厘岛的 Beach Club。这里集合了高水准餐饮、热情服务，以及从白天一路延续到深夜的派对氛围。以前，多数旅人会选一家 Day Club 从早待到晚，原因其实很单纯——距离太远、交通不便，换地方很容易断了 vibe。
+不过，说到真正让人一坐就不想走的，还是得提到巴厘岛的 Beach Club。这里集合了高水准餐饮、热情服务，以及从白天一路延续到深夜的派对氛围。以前，多数旅人会选一家 Day Club 从早待到晚，原因其实很简单——距离太远、交通不便，换地方很容易断了 vibe。
 
 https://youtube.com/shorts/wai2lSW3vVU
 

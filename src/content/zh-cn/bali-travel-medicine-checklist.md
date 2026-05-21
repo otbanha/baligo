@@ -1,7 +1,7 @@
 ---
-title: 印尼巴厘岛旅游必备药品有哪些？防蚊液/防晒乳怎么买？
+title: 印尼巴厘岛旅游必备成药/药品有哪些？防蚊液/防晒乳怎么买？
 slug: bali-travel-medicine-checklist
-description: 到巴厘岛旅游必备药品有哪些呢？药品在当地买ok吗？防蚊乳当地的更有效？
+description: 到巴厘岛旅游必备药品有哪些呢？成药在当地买ok吗？防蚊乳当地的更有效？
 pubDate: 2024-03-22T00:00:00.000Z
 pubHour: null
 category:
@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777909774643-_.png'
 originalUrl: 'https://vocus.cc/article/65fcd4a5fd89780001513c9a'
 lang: zh-cn
-_srcHash: f1fb2d68c081f8f545490faf08a4c3ef
+_srcHash: f7d7208c3de59ba001f331bc2b6a1fb7
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fef7bd48652aa47030dcbfd2f97f36cf.png)
@@ -30,7 +30,7 @@ _srcHash: f1fb2d68c081f8f545490faf08a4c3ef
 
 此外，由于巴厘岛是热带地区，登革热等蚊媒传染病也是一个风险，因此我们还建议游客购买当地的防蚊液，不仅价格实惠，而且效果良好。
 
-在巴厘岛的应急药品有哪些？印尼文怎么说？防蚊液怎么买？超市/便利店有哪些值得信赖的瓶装水品牌？超市可以买什么呢？请看小杰的「[超市采买购物指南](https://youtu.be/UoGlRyAdyB8)」。
+在巴厘岛的应急成药有哪些？印尼文怎么说？防蚊液怎么买？超市/便利店有哪些值得信赖的瓶装水品牌？超市可以买什么呢？请看小杰的「[超市采买购物指南](https://youtu.be/UoGlRyAdyB8)」。
 
 此外，若被蚊虫叮咬瘙痒难耐，推荐你们一个印尼的止痒良药「青草油（Tjing Tjau Balsem，实际为膏状）」，可用于蚊虫咬伤、头痛、刮伤、能够减少各种痛状，及各种痒症及虫咬等。对于消肿止痒有很神奇的效果哦！
 

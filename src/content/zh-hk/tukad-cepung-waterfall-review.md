@@ -2,7 +2,7 @@
 slug: tukad-cepung-waterfall-review
 title: 峇里島呢個仙境瀑布值得去嗎？Tukad Cepung Waterfall｜峇里島遊記烏布景點｜Tukat Cepung瀑布探秘
 description: >-
-  峇里島遊記嘅第三個瀑布，我哋嚟到烏布附近，經過兩個鐘頭車程，抵達被譽為「峇里島仙境」嘅Tukad
+  峇里島遊記嘅第三個瀑布，我哋嚟到烏布附近，經過兩個鐘嘅車程，抵達被譽為「峇里島仙境」嘅Tukad
   Cepung瀑布。呢個隱藏喺壯麗自然景觀中嘅瑰寶，絕對係你旅程中嘅必訪之地
 pubDate: 2020-11-14T00:00:00.000Z
 category:
@@ -16,16 +16,15 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_747ed11a26134e35e5596b98ec191a45.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b72fd897800013a9459'
 lang: zh-hk
-_srcHash: 440b2fb85920c846ee82957f0848576b
+_srcHash: 1ba18df0ba6cd35b3845bf21615f24f7
 ---
-
-峇里島遊記嘅第三個瀑布，我哋嚟到烏布附近，經過兩個鐘頭車程，抵達被譽為「峇里島仙境」嘅Tukad Cepung瀑布。呢個隱藏喺壯麗自然景觀中嘅瑰寶，絕對係你旅程中嘅必訪之地。
+峇里島遊記嘅第三個瀑布，我哋嚟到烏布附近，經過兩個鐘嘅車程，抵達被譽為「峇里島仙境」嘅Tukad Cepung瀑布。呢個隱藏喺壯麗自然景觀中嘅瑰寶，絕對係你旅程中嘅必訪之地。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9435703db785ef061430027306ad4885.jpg)
 
 無論你係攝影愛好者定係自然景觀嘅追尋者，Tukad Cepung瀑布都能滿足你嘅每一個期待。喺呢個神秘嘅天然瑰寶面前，時間同光線交織，創造出令人驚嘆嘅畫面。
 
-如果你渴望喺仙境一般嘅瀑布同光芒交相輝映嘅瞬間影到靚相，咁就務必要喺正確嘅時間前嚟！喺我哋嘅精彩影片中，我哋會為你詳細展示點樣捕捉呢個美妙時刻，創造出難以置信嘅視覺效果。
+如果你渴望喺仙境一般嘅瀑布與光芒交相輝映嘅瞬間影靚相，咁就務必喺正確嘅時間前嚟！喺我哋嘅精彩影片中，我哋會為你詳細展示如何捕捉呢個美妙時刻，創造出難以置信嘅視覺效果。
 
 https://youtu.be/Z7yPLNwrOrQ
 

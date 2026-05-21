@@ -1,7 +1,7 @@
 ---
 slug: ubud-campuhan-ridge-walk
 title: 乌布中心步行可到的距离居然有这样的天堂？「乌布天空步道」Campuhan Ridge Walk介绍
-description: 推荐一个步行就可以轻易到达，被称为「乌布天空步道」的Campuhan Ridge Walk（詹普汉山脊步道）。
+description: 推荐一个步行就可以轻松到达，被称为「乌布天空步道」的Campuhan Ridge Walk（詹普汉山脊步道）。
 pubDate: 2023-10-29T00:00:00.000Z
 category:
   - 美食景點活動
@@ -14,14 +14,14 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3dba799dbbf88a08d80f720169f80421.jpg'
 originalUrl: 'https://vocus.cc/article/653dc7f3fd89780001f4f90a'
 lang: zh-cn
-_srcHash: db14e01844cd96cdbadc370d84b5669f
+_srcHash: ce2531dbe0b70d467eb281600c002dba
 ---
 
-每次朋友们要我介绍一个离乌布市区不远，又可以感受乌布自然风光的地方，要推荐Tegalalang rice terraces（德格拉郎梯田）吗？不，那个地方在近几年来已经商业化的太可怕！我们来推荐一个步行就可以轻易到达，被称为「乌布天空步道」的Campuhan Ridge Walk（詹普汉山脊步道）。
+每次朋友们要我介绍一个离乌布市区不远，又可以感受乌布自然风光的地方，要推荐Tegalalang rice terraces（德格拉朗梯田）吗？不，那个地方在近几年来已经商业化的太可怕！我们推荐一个步行就可以轻松到达，被称为「乌布天空步道」的Campuhan Ridge Walk（詹普汉山脊步道）。
 
-首先「Campuhan」这个名字网络上有很多不正确的音译，若用印尼文发音。其正确的念法是比较接近「詹普汉」。而"Ridge Walk" 是一种特定类型的远足或步行活动，通常指的是在山脊或山脊上进行的徒步活动。这种步行通常沿着山脊的山脊线或山脊的顶部进行，让参与者能够欣赏到两侧的壮观风景和景观。
+首先「Campuhan」这个名字网上有很多不正确的音译，若用印尼文发音。其正确的念法是比较接近「詹普汉」。而"Ridge Walk" 是一种特定类型的远足或步行活动，通常指的是在山脊或山脊上进行的徒步活动。这种步行通常沿着山脊的山脊线或山脊的顶部进行，让参与者能够欣赏到两侧的壮观风景和景观。
 
-今天我们介绍的詹普汉山脊步道（Campuhan Ridge Walk）是一个隐藏在乌布市中心附近的宝藏，它给你带来了大自然的宁静和美丽风景。这条步道位于山脊上，提供壮观的360度居高临下的宽阔风景，远离城市的喧嚣，而不像德格拉郎梯田一样受到商业化的影响，很难感受到自然的美景。
+今天我们介绍的詹普汉山脊步道（Campuhan Ridge Walk）是一个隐藏在乌布市中心附近的宝藏，它给你带来了大自然的宁静和美丽风景。这条步道位于山脊上，提供壮观的360度居高临下的宽阔风景，远离城市的喧嚣，而不像德格拉朗梯田一样受到商业化的影响，很难感受到自然的美景。
 
 ## 先看看小杰印尼的一分钟介绍短片（如视频无法显示[请点击这里](https://www.youtube.com/watch?v=3PmPpoHI_6c&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=1)）：
 

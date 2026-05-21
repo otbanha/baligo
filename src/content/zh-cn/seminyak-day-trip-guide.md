@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9d929150c54e9a96490136e18b3e11a.jpg'
 originalUrl: 'https://vocus.cc/article/669b1d59fd89780001def381'
 lang: zh-cn
-_srcHash: c54c259bf52a6da7f60120e6ba4893bf
+_srcHash: 54afd79e1573970a0d4b807452794a1a
 ---
 
 坐落于南部海岸，距离机场仅约30分钟的水明漾，是美丽的海滩俱乐部、热闹的购物区和餐饮街的聚集地。在这里，都市生活与轻松的海滩氛围以及豪华别墅度假相得益彰——这是岛上最时尚、最潮流、最热闹的旅游城镇。
@@ -47,7 +47,7 @@ _srcHash: c54c259bf52a6da7f60120e6ba4893bf
 
 没有什么比租摩托车探险更好的了；发现人少的海滩，探索隐秘的小巷，钻进凉爽的咖啡馆和庄严的寺庙。从水明漾，你可以轻松到达以北的坎古和或往南部一点去库塔、雷吉安探险。
 
-但是租摩托车有其危险和很大的不确定性（参考[这里](/blog/bali-motorbike-safety-guide/)），在尝试之前要有「交通状况不是你想像的那样」、「发生意外受伤巨额医疗费」、「被警察拦检有理说不清」的心理准备！所幸拜科技所赐，现在在巴厘岛进行短途出行，使用叫车App无疑是更佳的选择！通过这些应用，你可以轻松叫到摩托车，不仅省时省力，还能避免繁忙的交通和找车位的烦恼。只需几步点击，就能即时预约到附近的摩托车司机，让你快速到达目的地，享受更多旅游乐趣。无论是探索隐秘的小巷，还是前往热闹的购物区，叫车App都能让你的巴厘岛之行变得更加便捷愉快。请参考「[叫车App叫摩托车，省时省力！](/blog/bali-travel-app-motorcycle-taxi/)」
+但是租摩托车有其危险和很大的不确定性（参考[这里](/blog/bali-motorbike-safety-guide/)），在尝试之前要有「交通状况不是你想像的那样」、「发生意外受伤巨额医疗费」、「被警察拦检有理说不清」的心理准备！所幸拜科技所赐，现在在巴厘岛进行短途出行，使用叫车App无疑是更好的选择！通过这些应用，你可以轻松叫到摩托车，不仅省时省力，还能避免繁忙的交通和找车位的烦恼。只需几步点击，就能即时预约到附近的摩托车司机，让你快速到达目的地，享受更多旅游乐趣。无论是探索隐秘的小巷，还是前往热闹的购物区，叫车App都能让你的巴厘岛之行变得更加便捷愉快。请参考「[叫车App叫摩托车，省时省力！](/blog/bali-travel-app-motorcycle-taxi/)」
 
 ## 拜访寺庙
 
@@ -122,7 +122,7 @@ https://youtu.be/RodQvCZKwD0
 
 享受正宗的巴厘岛晚餐与文化表演，在绿意盎然的花园中品尝巴厘岛自助晚餐的美味，观赏巴厘岛舞蹈、巴龙舞和火舞表演，度过美丽的夜晚。带上你的朋友或亲人，一起在这里享受这难忘的用餐体验吧！
 
-- [水明漾的美食与文化飨宴](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888288&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F118852-authentic-balinese-dinner-cultural-show-at-the-seminyak-beach-resort-spa%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da7484af075)
+- [水明漾的美食与文化盛宴](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888288&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F118852-authentic-balinese-dinner-cultural-show-at-the-seminyak-beach-resort-spa%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da7484af075)
 
 ## 住在私人泳池别墅
 

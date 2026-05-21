@@ -16,7 +16,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: zh-cn
-_srcHash: 832fdc3522f424ead1a40e87008a477a
+_srcHash: 0cc47e25c99e380ef43663144ff0bbc7
 ---
 
 > 以下内容由团友 [林小昭](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 提供给我们重新编排：
@@ -73,7 +73,7 @@ _srcHash: 832fdc3522f424ead1a40e87008a477a
 
 > 延伸阅读：[巴厘岛金塔玛尼12大景观咖啡厅推荐](/blog/kintamani-volcano-cafes-restaurants/) 🌄☕
 
-### **乌布阿贡里加萨酒店——宁静与舒适的完美结合**
+### **Rijasa Agung 乌布阿贡里加萨酒店——宁静与舒适的完美结合**
 
 ![林小昭提供](https://images.gobaligo.id/vocus/vocus_65294e5019f7c902214a58b18878fd74.jpg)
 
@@ -85,7 +85,7 @@ _srcHash: 832fdc3522f424ead1a40e87008a477a
 
 已收录在[【巴厘岛乌布住宿】乌布28家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
 
-### **丛林卡丁车——巴厘岛的新奇体验**
+### **Jungle Cart 丛林卡丁车——巴厘岛的新奇体验**
 
 卡丁车可能很多人都玩过，但能够直接在乌布的丛林道路上驾驶，这可是巴厘岛独有的新玩法！我们在稻田景色中疾驰，途中还有嗨歌前导车帮忙确认路况，沿途有鸡飞狗跳、牛慵懒地哞叫，30分钟的体验虽然短暂，却充满了无限乐趣。
 
@@ -134,7 +134,7 @@ _srcHash: 832fdc3522f424ead1a40e87008a477a
 - [夜幕下的幻光雨林：巴厘岛乌布Hikaria沉浸式光影艺术体验](/blog/hikaria-ubud-light-show/)
 - 巴厘岛家庭亲子旅游专栏
 
-您觉得林小昭他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得林小昭他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_137fe43eee9cd34e911e4936d55e3b61.jpg)
 
@@ -156,4 +156,4 @@ _srcHash: 832fdc3522f424ead1a40e87008a477a
 - [蓝梦岛/金银岛景点全攻略](/blog/nusa-lembongan-ceningan-guide/)
 - [Nuanu Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
 - [科莫多岛攻略](/blog/komodo-island-labuan-bajo-travel/)
-- [Amed/Tulamben攻略](/blog/amed-tulamben-diving-guide/)
+- [阿梅德/图兰奔攻略](/blog/amed-tulamben-diving-guide/)

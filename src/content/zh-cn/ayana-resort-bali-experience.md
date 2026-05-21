@@ -31,7 +31,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5c7513ab8313b5d1aa4c189bbff4899c.jpg'
 originalUrl: 'https://vocus.cc/article/660bcff3fd89780001d037ad'
 lang: zh-cn
-_srcHash: e30a258f39a6a8050852397909362b6b
+_srcHash: 18c22c7caccbfbcb5386809542441fa7
 ---
 
 巴厘岛的Ayana度假村是一个极其受欢迎的巴厘岛住宿点。YouTuber "设计师不累designer play"发布的视频，带观众认识他在这里的精彩体验。
@@ -44,7 +44,7 @@ _srcHash: e30a258f39a6a8050852397909362b6b
 
 "设计师不累designer play" 视频截图
 
-入住后的第一天清晨，他先在villa的无边际游泳池游了会儿泳，欣赏着这处世外桃源般的美景。
+入住后的第一天清晨，他先在villa的无边际泳池游了会儿泳，欣赏着这处世外桃源般的美景。
 
 !["設計師不累designer play" 視頻截圖](https://images.gobaligo.id/vocus/vocus_0786af7ca3ef2945dc26299c1d33e173.jpg)
 
@@ -56,7 +56,7 @@ _srcHash: e30a258f39a6a8050852397909362b6b
 
 "设计师不累designer play" 视频截图
 
-第二天换了另一间villa房型后，他继续探索Ayana的多处泳池区。先是在Rimba泳池游了会儿泳，欣赏着池畔的热带花卉风光。接着乘车前往Ayana Resort，在那里的大型泳池尽情游尽兴，偶尔还滑上几次滑梯。最后他来到了h2o泳池，这里是最红的网红打卡拍照点，他也在那里拍下一些旅游纪念照。
+第二天换了另一间villa房型后，他继续探索Ayana的多处泳池区。先是在Rimba泳池游了会儿泳，欣赏着池畔的热带花卉风光。接着乘车前往Ayana Resort，在那里的大型泳池尽情游尽兴，偶尔还滑上几次滑梯。最后他来到了h2o泳池，这里是最红的网红打卡拍照点，他也在在这里拍下一些旅游纪念照。
 
 !["設計師不累designer play" 視頻截圖](https://images.gobaligo.id/vocus/vocus_7c29bcc10ea65ed9bddc844e6ba079c1.jpg)
 

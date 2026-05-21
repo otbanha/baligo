@@ -17,8 +17,9 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-cn
-_srcHash: 7221965714c5a35c8ec3ce6ee4a744dc
+_srcHash: bc0e4ae6c6bdb45492e740bca757a0cd
 ---
+
 巴厘岛，这座被誉为“众神之岛”的热带天堂，不仅以其迷人的海滩、壮丽的梯田和丰富的印度教文化闻名，还拥有许多独特的传统节庆。其中，每年在“宁静日”（Nyepi）前夕举行的“Pawai Ogoh-Ogoh”妖怪大游行，绝对是最令人震撼的文化活动之一。这是一场结合艺术、宗教与社区精神的盛大庆典，吸引了无数游客和当地居民共同参与。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_47e34998f736eff49fecf749970e2c98.jpg)

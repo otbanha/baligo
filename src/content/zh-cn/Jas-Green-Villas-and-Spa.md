@@ -31,7 +31,7 @@ agoda_star_rating: 4
 latitude: -8.684306
 longitude: 115.162719
 lang: zh-cn
-_srcHash: 9f08b06224fc556f4f9212aade6f97c2
+_srcHash: aa36537fcb58220369e79084be570c0e
 ---
 
 水明漾（Seminyak）的住宿动辄一晚几百美金，但其实只要懂得找，精华地段也藏着不少平价好选择。Jas Green Villas and Spa 就是这样一间——躲在 Jl. Laksamana 巷弄深处，距离著名的 Eat Street 只需要步行几分钟，每间别墅都附有私人泳池，均价却比周边同类型住宿便宜一截。不是那种靠照片骗人的地方，就是一间实用、有地点优势、服务态度好的平价别墅。
@@ -127,7 +127,7 @@ _srcHash: 9f08b06224fc556f4f9212aade6f97c2
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1778928631363-onebedroomvilla.jpg)
 
-另一位住了 10 天的旅客说，几次想过要换地方，最后还是留下来——工作人员什么忙都愿意帮，不管大事小事都做得很到位，泳池维护得好，而且离餐厅实在太方便，一出门就有选择。（来源：Tripadvisor）
+另一位住了 10 天的旅客说，几度想过要换地方，最后还是留了下来——工作人员什么忙都愿意帮，不管大事小事都做得很到位，泳池维护得好，而且离餐厅实在太方便，一出门就有选择。（来源：Tripadvisor）
 
 ***
 
@@ -135,6 +135,6 @@ _srcHash: 9f08b06224fc556f4f9212aade6f97c2
 
 评分：Agoda 8.1 ⭐（地点与服务是亮点）
 
-> 👉 点此查看最新房价与空房：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=547549)｜[Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1099714&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-N6xsTFJMEkdZ-J4_3Bq6uZhJgNDYw0jrIYPGC02Crv2Po6cIfc_AYHT1uu64sLIlscAngiphx4Po098eJpjWnRaY4OXYysYIEZjIf6nVcwMm5kPPxVI6b_UqzDDkamA4xMJxj7r6ctYGq78YrxFAsLx-TnQpdY9jJGVytlp1YqWZnoKJVkluSkKlkpPV0072nDnucrWpV0lFJSi5OBQkBWYm5-aV4JkG1sYGFoaKpnYAAULEms8EwBa05OzEkuTQ2pLAAaYqSjlFnsXFKUWRCUmptZUpIKVJWWmFOcChIPSi0GyiSDBUFGF0H5mfl5EN0GKGJhiTmlqRCVQPvcUqFWGNbGPmJhio59wXKU5RMLwy8WhiZWhi5WFo4J-1knASmgb3ex8nqbmIYEOesahuhG6RpeYL2zL0dKwdDAwMDI1NTIXNcg0TIxzSg1TdfE0sTQxEzXyMzM2NhSY9n9r42PjY2spSAhqsCoJRgf4unpYlhSmGpWWGqZU1RgasB4ilHK0NzYwtDI0NDIyMjSWM_EIs2s2CKv2CI3K8KDMYjNwNXMyMIoyoaLOTTYRfC4t3mno4O0gxSzp0uQYsj99g8K4Zb2WiCeIYwX2L-7-N3007z2kTCRJNaqDN2Q8IzjYgWMDYxMXYzcAowejBGMFUAe4ypGdi5mAyNDAaYNjIw7GP_DAOMrRpCxAOCefjlTAgAA&masterhotelid_tracelogid=100025527-0a9af2ef-494146-266339&detailFilters=17%7C1~17~1*31%7C1099714~31~1099714*80%7C2%7C1~80~2*29%7C1~29~1%7C2&display=incavg&subStamp=1501&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17014118)
+> 👉 点此查看最新房价与空房：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=547549)｜[Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1099714&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-N6xsTFJMEkdZ-J4_3Bq6uZhJgNDYw0jrIYPGC02Crv2Po6cIfc_AYHT1uu64sLIlscAngiphx4Po098eJpjWnRaY4OXYysYIEZjIf6nVcwMm5kPPxVI6b_UqzDDkamA4xMJxj7r6ctYGq78YrxFAsLx-TnQpdY9jJGVytlp1YqWZnoKJVkluSkKlkpPV0072nDnucrWpV0lFJSi5OBQkBWYm5-aV4JkG1sYGFoaKpnYAAULEms8EwBa05OzEkuTQ0pLAAaYqSjlFnsXFKUWRCUmptZUpIKVJWWmFOcChIPSi0GyiSDBUFGF0H5mfl5EN0GKGJhiTmlqRCVQPvcUqFWGNbGPmJhio59wXKU5RMLwy8WhiZWhi5WFo4J-1knASmgb3ex8nqbmIYEOesahuhG6RpeYL2zL0dKwdDAwMDI1NTIXNcg0TIxzSg1TdfE0sTQxEzXyMzM2NhSY9n9r42PjY2spSAhqsCoJRgf4unpYlhSmGpWWGqZU1RgasB4ilHK0NzYwtDI0NDIyMjSWM_EIs2s2CKv2CI3K8KDMYjNwNXMyMIoyoaLOTTYRfC4t3mno4O0gxSzp0uQYsj99g8K4Zb2WiCeIYwX2L-7-N3007z2kTCRJNaqDN2Q8IzjYgWMDYxMXYzcAowejBGMFUAe4ypGdi5mAyNDAaYNjIw7GP_DAOMrRpCxAOCefjlTAgAA&masterhotelid_tracelogid=100025527-0a9af2ef-494146-266339&detailFilters=17%7C1~17~1*31%7C1099714~31~1099714*80%7C2%7C1~80~2*29%7C1~29~1%7C2&display=incavg&subStamp=1501&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17014118)
 
 {{block:smk}}

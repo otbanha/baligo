@@ -1,7 +1,7 @@
 ---
 slug: nusa-penida-ferry-experience-bali
-title: 巴厘岛到佩尼达岛的乘船经历/精彩游记
-description: 【巴厘岛/印尼吃喝玩乐】脸书社团团友Mei Yi Liao和朋友去佩尼达岛（Nusa Penida）的经历/游记
+title: 巴厘岛到佩尼达岛的乘船经验/精彩游记
+description: 【巴厘岛/印尼吃喝玩乐】脸书社团团友Mei Yi Liao跟朋友去佩尼达岛（Nusa Penida）的经验/游记
 pubDate: 2024-05-29T00:00:00.000Z
 category:
   - 美食景點活動
@@ -15,10 +15,10 @@ tags:
 heroImage: ''
 originalUrl: 'https://vocus.cc/article/6655eceefd897800015c1b6a'
 lang: zh-cn
-_srcHash: 3f95258fd43c1e75e9d06667cc6df79e
+_srcHash: 818606943491513f14272553409d0daf
 ---
 
-我们的【[巴厘岛/印尼吃喝玩乐](https://www.facebook.com/groups/indonesia.travelguide)】脸书社团团友[Mei Yi Liao](https://www.facebook.com/liao.meiyi.1/)和朋友去佩尼达岛的经历/游记，特此提供给我们编辑/转载：
+我们的【[巴厘岛/印尼吃喝玩乐](https://www.facebook.com/groups/indonesia.travelguide)】脸书社团团友[Mei Yi Liao](https://www.facebook.com/liao.meiyi.1/)跟朋友去佩尼达岛的经验/游记，特此提供给我们编辑/转载：
 
 ![Mei Yi Liao提供：沙努爾的登船處，沙努港口設施很完善，上下樓都有手扶梯](https://images.gobaligo.id/vocus/vocus_6308ac45d0457963fb1fa43cc88c7bfe.jpg)
 
@@ -40,7 +40,7 @@ Mei Yi Liao提供：沙努尔的登船处，沙努港口设施很完善，上下
 
 ## 岛上交通的挑战
 
-佩尼达岛的道路相当狭窄，两辆车会车时相当惊险，经常需要靠边停车等待对方先行。虽然道路是柏油路，但路面并不平整，坐车的感觉就像在坐云霄飞车，充满了刺激感。这段旅程让我们充分体会到了岛上交通的挑战，但也增添了旅行的乐趣和冒险感。
+佩尼达岛的道路相当狭窄，两辆车会车时相当惊险，经常需要靠边停车等待对方先行。虽然道路是柏油路，但路面并不平整，坐车的感觉就像在坐过山车，充满了刺激感。这段旅程让我们充分体会到了岛上交通的挑战，但也增添了旅行的乐趣和冒险感。
 
 > 延伸阅读：[Nusa Penida佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
 
@@ -80,11 +80,11 @@ Mei Yi Liao提供：沙努尔的登船处，沙努港口设施很完善，上下
 4. 寄物服务请[参考这里](/blog/sanur-luggage-storage-guide/)
 5. Klook购票者开船前提早至少30分钟抵达港口
 
-6. Klook购票者最好提前一天以上先订票
+6. Klook购票者最好提前一天以上订票
 
 {{block:penidaklook}}
 
-您觉得Mei Yi Liao他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得Mei Yi Liao他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 {{block:遊記}}
 

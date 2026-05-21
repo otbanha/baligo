@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_95be66904dfdb49c14259e108156f4ed.jpg'
 originalUrl: 'https://vocus.cc/article/65d887c6fd89780001d86b41'
 lang: zh-cn
-_srcHash: 7e3e76ad0e783881af5e339c93046290
+_srcHash: 1bd6f3ecf5f07edf6ba3fb075aca099e
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1600fcb2af3a0b89695afbd205fa528d.jpg)
@@ -48,7 +48,7 @@ _srcHash: 7e3e76ad0e783881af5e339c93046290
 
 ## 关于 isBali
 
-isBali 是一家在巴厘岛当地由台湾人开设的旅行社，已经有超过20年的丰富经验，也是台湾人经营巴厘岛最老牌的合法立案旅行社之一。他们专门经营自由行旅客的安排，并以其专业的服务和多年的经验闻名。
+isBali 是一家在巴厘岛当地由台湾人开设的旅行社，已经有超过20年的丰富经验，也是台湾人经营巴厘岛最老牌的合法立案旅行社之一。他们专门经营自由行旅客的安排，以其专业的服务和多年的经验闻名。
 
 由于长期居住在巴厘岛并服务过众多自由行旅客，isBali 在规划各种巴厘岛行程方面特别擅长。无论是机票、住宿还是行程安排，甚至是第一次还是多次造访巴厘岛，他们都能够为您打造专属的假期体验。
 

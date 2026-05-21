@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6728cc00fd89780001c9bbdc'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 7602bc192ba88ce565e1f3b32808e26f
+_srcHash: 080fb7699787df67ae3661d60bafc65f
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_bf4aff81a496a2d5578ba886191fbd45.jpg)
@@ -117,7 +117,7 @@ _srcHash: 7602bc192ba88ce565e1f3b32808e26f
 
 **2. 乌布皇宫的门票费用是多少？**
 
-- 参观乌布皇宫的日间门票是免费的。若要观赏晚上举行的传统舞蹈表演，则需要购买票券，费用大约为 IDR 100K（约 USD$6），票价可能因演出而异。建议可以[事先预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
+- 参观乌布皇宫的日间门票是免费的。若要观赏晚上举行的传统舞蹈表演，则需要购买票券，费用大约为 IDR 100K（约 USD 6），票价可能因演出而异。建议可以[事先预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
 - 票价100K...其中的K是什么意思？请看[这里](/blog/bali-budget-tips-k-explained/)
 
 **3. 可以进入乌布皇宫的所有区域吗？**
@@ -150,7 +150,7 @@ _srcHash: 7602bc192ba88ce565e1f3b32808e26f
 
 **10. 参观乌布皇宫需要事先预订吗？**
 
-- 白天参观无需预订，但若要观赏晚上的传统舞蹈表演，建议提前购票，以确保有座位，尤其是在旅游旺季时门票可能会很快售罄。
+- 白天参观无需预订，但若要观赏晚上的传统舞蹈表演，建议提前购票，以确保有位子，尤其是在旅游旺季时门票可能会很快售罄。
 
 **11. 现在还有巴厘岛王室住在乌布皇宫里面吗？**
 

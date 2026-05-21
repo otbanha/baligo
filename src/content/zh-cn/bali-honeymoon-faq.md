@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65d07704fd897800012d51fe'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 835a6916235e99bb21d0e26b211bea0e
+_srcHash: 58f4d3b008b517b3552d5d8d78cb7743
 ---
 
 不久前才出炉的「十大全球浪漫旅游目的地」，根据Agoda旅行平台的大数据，其中巴厘岛名列全球第六名（[请看这里](/blog/valentines-day-romantic-destinations/)）；而另一份Tripadvisor 2024年度统计资料，巴厘岛更被列为度蜜月目的地的顶尖宝座，[击败马尔代夫夺得全世界冠军！](/blog/bali-honeymoon-destination/)
@@ -71,7 +71,7 @@ _srcHash: 835a6916235e99bb21d0e26b211bea0e
 
 > 延伸阅读：[巴厘岛南部的秘境沙滩](/blog/uluwatu-guide/)
 
-> 延伸阅读：[乌布的自然美景与各种户外活动](/blog/ubud-guide/)
+> 延伸阅读：[乌布的自然美景与各种户外活动](/blog/ubud-guide/)]
 
 如果您想找到更适合让两人感情升温，甜蜜到地老天荒的活动，可以参考一下【[巴厘岛蜜月浪漫指南：探索巴厘岛情侣/蜜月旅行的36种玩法](/blog/bali-honeymoon-romantic-activities-2/)】
 
@@ -111,7 +111,7 @@ _srcHash: 835a6916235e99bb21d0e26b211bea0e
 
 > 【乌鲁瓦图】[巴厘岛海滩＆神鹰广场＆乌鲁瓦图寺庙日落之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25347-bali-beaches-garuda-wisnu-kencana-tour-uluwatu-kecak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3e19cc51ff)
 
-> 【努沙佩尼达】[可选中文司机/导游佩尼达岛一日游（巴厘岛出发）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc17c3aa566)
+> 【努萨佩尼达】[可选中文司机/导游佩尼达岛一日游（巴厘岛出发）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=816438&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc17c3aa566)
 
 ## 我只想去享受，不想自己规划
 

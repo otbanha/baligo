@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6ea1825f6240c42ce7116522fa0683e4.jpg'
 originalUrl: 'https://vocus.cc/article/6833e882fd89780001853b1d'
 lang: zh-cn
-_srcHash: 46a304af928f5a83e94ea8f5cc8236a0
+_srcHash: 23a49929f10d93bafe00f0cb0d68bbdc
 ---
 
 ## **当巴厘岛的极致放松成为一门艺术**
@@ -60,7 +60,7 @@ _srcHash: 46a304af928f5a83e94ea8f5cc8236a0
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2a014e635908c6e5ac3456de0f75cbc5.jpg)
 
-手持着未喝完的香草茶，循着水声来到Alila最引以为傲的无边际泳池。凭SPA收据即可免费进入这处悬崖上的水景圣地。当身体浸入与体温相仿的池水时，正逢日落时分——火球般的太阳缓缓坠向海平面，将池水染成流动的鎏金。靠在池边的浅水区，任浪涛声与远处铜锣声交织，方才SPA时积累的温暖精油随着水流轻轻晕开，肌肤像是被夕阳镀上了一层蜂蜜色的光晕。这一刻才真正明白，为何这里被誉为「巴厘岛最美的泳池日落观赏点」。
+手持着未喝完的香草茶，循着水声来到Alila最引以为傲的无边际泳池。凭SPA收据即可免费进入这处悬崖上的水景圣地。当身体浸入与体温相仿的池水时，正逢日落时分——火球般的太阳缓缓坠向海平面，将池水染成流动的鎏金。靠在池边的浅水区，任浪涛声与远处铜锣声交织，方才SPA时积累的温暖精油随着水流轻轻晕开，肌肤像是被夕阳镀上了一层蜂蜜色的光晕。这一刻才真正明白，为何这里被誉为“巴厘岛最美的泳池日落观赏点”。
 
 > 参加 [Alila Uluwatu SPA体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052540&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F149732-spa-experience-at-alila-villas-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4ffe873d07)
 
@@ -68,11 +68,11 @@ _srcHash: 46a304af928f5a83e94ea8f5cc8236a0
 
 1. **黄金时刻**：预约16:00的SPA时段，疗程结束后正好迎接17:30的魔幻日落
 2. **延续护理**：泳池旁的冲洗区备有海盐磨砂膏，可延续SPA的去角质效果
-3. **可带走的祝福**：离场前别错过接待区的「大地礼物」角落，免费取用当日采摘的药草茶包
+3. **可带走的祝福**：离场前别错过接待区的“大地礼物”角落，免费取用当日采摘的药草茶包
 
 > 参加 [Alila Uluwatu SPA体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052540&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F149732-spa-experience-at-alila-villas-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4ffe873d07)
 
-「从治疗师的指尖到印度洋的浪尖，Alila编织了一张无形的疗愈之网。」当暮色完全笼罩悬崖，身体记住的不是120分钟的疗程长度，而是椰子油在皮肤上融化的温度、泳池中最后一道夕阳的触感，以及那种从骨髓深处苏醒的轻盈。这或许就是顶级SPA的真谛——让放松成为一种会呼吸的记忆。
+“从治疗师的指尖到印度洋的浪尖，Alila编织了一张无形的疗愈之网。”当暮色完全笼罩悬崖，身体记住的不是120分钟的疗程长度，而是椰子油在皮肤上融化的温度、泳池中最后一道夕阳的触感，以及那种从骨髓深处苏醒的轻盈。这或许就是顶级SPA的真谛——让放松成为一种会呼吸的记忆。
 
 ## Alila Uluwatu 住宿介绍:
 

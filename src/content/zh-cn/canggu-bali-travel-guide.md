@@ -19,7 +19,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/aglSSIW2vZg'
 lang: zh-cn
-_srcHash: 69f0dc512c443c1cfb6411bf33bcb171
+_srcHash: ffb2e518eef1ca1981d791d22ba0efb3
 ---
 
 上一集的坎古攻略我们大概介绍了坎古的样貌, 还有为何坎古会成为巴厘岛最潮的地方。可以看看我们的介绍喔:
@@ -46,13 +46,13 @@ _srcHash: 69f0dc512c443c1cfb6411bf33bcb171
 
 ### Jl. Pantai Berawa（伯拉瓦海滩路）
 
-我们先从最右手边的「Jl. Pantai Berawa」说起。这条连接到 Berawa 海滩，Berawa 海滩有一个非常有名的海滩俱乐部「Finns Beach Club」，是这个地区最具有时尚感的海滩俱乐部; 还有一个疫情后才开幕的Atlas Beach Fest海滩俱乐部。通常这一条路到傍晚的时间就会挤满人潮。
+我们先从最右手边的「Jl. Pantai Berawa」说起。这条路连接到 Berawa 海滩，Berawa 海滩有一个非常有名的海滩俱乐部「Finns Beach Club」，是这个地区最具有时尚感的海滩俱乐部; 还有一个疫情后才开幕的Atlas Beach Fest海滩俱乐部。通常这一条路到傍晚的时间就会挤满人潮。
 
 值得一提的是 Finns Beach Club 外面的公共沙滩，这个沙滩有什么特别的呢？一般我们在拍照海滩夕阳的人像，在距离相机/手机比较远的时候通常只能把人像拍成剪影。我们在没有带任何补光设备+手机拍照，在这个沙滩上拍到了这样一张清晰、人像光线充足、又有夕阳美景的照片。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2f1c4750ee129a41dac2aeb26089d470.jpg)
 
-[Canggu还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
 那到底是如何办到的呢？其实是因为 Finns Beach Club 有强光打向海滩，因此只要日落时分在这个沙滩上随便一站就能拍出这样专业级百万打光的相片。
 
@@ -60,41 +60,41 @@ _srcHash: 69f0dc512c443c1cfb6411bf33bcb171
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_23dd7b71fb7b2d801ea8d76cd23e8dcb.jpg)
 
-[Canggu还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
 这里有花园泳池，南美洲加勒比海的风格，食物也还不错。我们在这里玩了几个小时拍了一些照片。
 
 ### Jl. Pantai Batu Bolong（巴图伯隆海滩路）
 
-位于中间的 Jl. Pantai Batu Bolong（巴图伯隆海滩路），这条路的餐厅、酒吧、咖啡馆最多，是坎古最主要的购物街道，也可以算是坎古的市中心。要是推荐给你们的话，这里是第一次来坎古的最佳住宿地区。沿着 Batu Bolong 的住宿可以很容易地步行到所有最好的咖啡馆、餐馆、商店和海滩。
+位于中间的 Jl. Pantai Batu Bolong（巴图伯隆海滩路），这条路的餐厅、酒吧、咖啡馆最多，是坎古最主要的购物街道，也可以算是坎古的市中心。如果推荐给你们的话，这里是第一次来坎古的最佳住宿地区。沿着 Batu Bolong 的住宿可以很容易地步行到所有最好的咖啡馆、餐馆、商店和海滩。
 
-在这条路上有一个售卖精美手工艺品的「Love Anchor」，它是一个半露天的市场，东西很精美但价格也不便宜。不过来这个地方的氛围很特别，有一种说不出的感觉。拍拍假掰照还不错喔！
+在这条路上有一个售卖精美手工艺品的「Love Anchor」，它是一个半露天的市场，东西很精美但价格也不便宜。不过来这个地方的氛围很特别，有一种说不出的感觉。拍拍假掰照还不错哦！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3d86b5d411474b4ceddab20f8043ebe4.jpg)
 
-[坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[Canggu还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
-坎古还有其他几个很有特色的市场，喜欢挖宝的朋友们可以上网搜寻一下「Canggu Markets Guide」，一个一个前往挖宝。
+Canggu 还有其他几个很有特色的市场，喜欢挖宝的朋友们可以上网搜寻一下「Canggu Markets Guide」，一个一个前往挖宝。
 
-继续往海边走，Jl. Pantai Batu Bolong 这条路通往广受欢迎的 Old Man's Bar 和 Batu Bolong 海滩的日落观赏点。来到这里别忘了和可以作为坎古地标的 Oldman 的壁画和招牌来张合照喔！
+继续往海边走，Jl. Pantai Batu Bolong 这条路通往广受欢迎的 Old Man's Bar 和 Batu Bolong 海滩的日落观赏点。来到这里别忘了和可以作为 Canggu 地标的 Oldman 的壁画和招牌来张合照哦！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4fd792a343a64ca8c0d7ed572e451f5a.jpg)
 
-[坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[Canggu还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
-这个海滩也是坎古冲浪最佳海滩，海滩上常常可以看到帅哥辣妹拿着冲浪板或者是在海浪上展现冲浪英姿。你可以在这里很容易找到出租冲浪板的地方，或者你也可以找教练陪你冲浪。
+这个海滩也是 Canggu 冲浪最佳海滩，海滩上常常可以看到帅哥辣妹拿着冲浪板或者是在海浪上展现冲浪英姿。你可以在这里很容易找到出租冲浪板的地方，或者你也可以找教练陪你冲浪。
 
-### 坎古捷径
+### Canggu Shortcut
 
-在刚介绍的这两条路之间，Jl. Pantai Berawa（伯拉瓦海滩路）和 Jl. Pantai Batu Bolong（巴图伯隆海滩路）还有一条秘密捷径相连喔！当地人就把这条路叫做坎古捷径，它连接了 Batu Bolong 和 Batu Bewara 这两个区域，不用大老远回到几乎都在塞车的坎古大道绕一大圈才能到达另一个地方，能让这两条主要道路更快的通勤运输。坎古捷径给人们带来很大的方便，在 2017 年的坎古捷径是这个样子的，一条小路穿越绿意盎然的大片稻田，那个感觉就好比是人间仙境一般，好开阔、好自在！
+在刚介绍的这两条路之间，Jl. Pantai Berawa（伯拉瓦海滩路）和 Jl. Pantai Batu Bolong（巴图伯隆海滩路）还有一条秘密捷径相连哦！当地人就把这条路称为 Canggu Shortcut，它连接了 Batu Bolong 和 Batu Bewara 这两个区域，不用大老远回到几乎都在塞车的坎古大道绕一大圈才能到达另一个地方，能让这两条主要道路更快的通勤运输。Canggu Shortcut 给人们带来很大的方便，在 2017 年的 Canggu Shortcut 是这个样子的，一条小路穿越绿意盎然的大片稻田，那个感觉就好比是人间仙境一般，好开阔、好自在！
 
 ![小傑Canggu攻略視頻截圖](https://images.gobaligo.id/vocus/vocus_36fc37858acc4c3c0e4c64442b683117.jpg)
 
-[小杰坎古攻略视频截图](https://www.youtube.com/watch?v=aglSSIW2vZg)
+[小杰Canggu攻略视频截图](https://www.youtube.com/watch?v=aglSSIW2vZg)
 
-但是随着坎古的飞速发展，在疫情爆发之前坎古捷径已经变成这样，人潮、车潮、路旁的广告牌林立、一栋又一栋的房舍、咖啡馆沿着狭窄的路旁兴建已经让坎古捷径变成一点美感都没有的小路，路况越来越不好、车又越来越多，坎古捷径后来都变成「每天都有人摔车」的路段了！
+但是随着坎古的飞速发展，在疫情爆发之前坎古捷径已经变成这样，人潮、车潮、路旁的广告牌林立、一栋又一栋的房舍、咖啡馆沿着狭窄的路旁兴建，已经让坎古捷径变成一点美感都没有的小路，路况越来越不好、车又越来越多，坎古捷径后来都变成「每天都有人摔车」的路段了！
 
-2021 年底这条捷径有重新铺设改成柏油路，路好像也宽了一点，不过某些时段可能还是一样塞车。
+2021年底这条捷径有重新铺设改成柏油路，路好像也宽了一点，不过某些时段可能还是一样的堵车。
 
 ![小傑Canggu攻略視頻截圖](https://images.gobaligo.id/vocus/vocus_d7c5ea859ad40ffcf173f2a18aeedb2c.jpg)
 
@@ -102,7 +102,7 @@ _srcHash: 69f0dc512c443c1cfb6411bf33bcb171
 
 ### Jl. Padang Lingjong（巴当林琼路）
 
-第三条主要道路的 Jl. Padang Lingjong 巴当林琼路，这条路连接到 Echo Beach（回音海滩）。最近在靠近海边的地区集中了许多商店和住宿选择。在海边有一个 La Brisa Beach Club，占地很大的这个地方要先网络预约才能进入。这个海滩俱乐部的装修很有风格，让人很难不爱上这里随意的用餐氛围，里面都是用漂流木搭建的木地板和建筑，种植了超级多的椰子树，还有适合小朋友游玩的游泳池。很不一样的风情。
+第三条主要道路的Jl. Padang Lingjong巴当林琼路，这条路连接到Echo Beach（回音海滩）。最近在靠近海边的地区集中了许多商店和住宿选择。在海边有一个La Brisa Beach Club，占地很大的这个地方要先网络预约才能进入。这个海滩俱乐部的装修很有风格，让人很难不爱上这里随意的用餐氛围，里面都是用漂流木搭建的木地板和建筑，种植了超级多的椰子树，还有适合小朋友游玩的游泳池。很有不一样的风情。
 
 延伸阅读:
 [被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱颖而出？](/blog/canggu-la-brisa-restaurant-guide/)
@@ -111,13 +111,13 @@ _srcHash: 69f0dc512c443c1cfb6411bf33bcb171
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9325d7376edebec9e1b034f658cf5b36.jpg)
 
-[坎古还能玩什么?](https://www.klook.com/zh-CN/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古还能玩什么?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
 这里也是一个很棒的拍照地点，在日落之前随便拍都是美照！
 
 你可以在这里享受日落，看着冲浪者和海滩上的人，当然还有品尝这家餐厅的美味食物。
 
-## 坎古 美食
+## 坎古美食
 
 ![小傑Canggu攻略視頻截圖](https://images.gobaligo.id/vocus/vocus_0db4193a17249e9741aa3ef9c21cbd07.jpg)
 

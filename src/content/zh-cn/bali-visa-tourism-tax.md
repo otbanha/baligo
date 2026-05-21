@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/68e36431fd89780001eea4fa'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: d94fd7944146d4e71a5ed1b16dec5a30
+_srcHash: e6666f5fba191081f76e750f88a33b6c
 ---
 
 ## **巴厘岛旅游税新规简介**
@@ -23,7 +23,7 @@ _srcHash: d94fd7944146d4e71a5ed1b16dec5a30
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2a29412d867ed5a676e351934576fdd1.png)
 
-目前，虽然规定每位外国旅客需支付 **150,000 印尼盾**（约 USD$10），但实际缴纳率仅约 **35%**。这导致当地政府每年损失数千亿印尼盾的潜在收入。
+目前，虽然规定每位外国旅客需支付 **150,000 印尼盾**（约新台币300元 / 约10美元），但实际缴纳率仅约 **35%**。这导致当地政府每年损失数千亿印尼盾的潜在收入。
 
 ---
 

@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_879f4fdb8dbb83fac3a613828dec0a3f.png'
 originalUrl: 'https://vocus.cc/article/694122b8fd89780001f514c9'
 lang: zh-cn
-_srcHash: 4dcf0f7c7142165782f44b92f050ed70
+_srcHash: 36424829a36f2127c65b98e84a9d08d2
 ---
 
 巴厘岛的水上活动非常丰富多元，从刺激的极限运动到悠闲的生态探索，应有尽有。以下是完整的水上活动推荐，适合不同兴趣和体能程度的游客。
@@ -43,11 +43,11 @@ https://youtu.be/gECdNvG16ww
 > [UP2U Surf School](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1254314&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83095-surfing-lesson-up2u-surf-school-bali-kuta-bali-kuta-beach%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D80aae4e08b)
 
 - **推荐地点**：
-    - \*\*库塔海滩 (Kuta Beach)\*\*： 最适合初学者，浪温和且沙滩底，有众多冲浪学校。
-    - \*\*水明漾 (Seminyak)\*\*：适合中级冲浪者，浪较大且人潮较少。
-    - \*\*坎古 (Canggu)\*\*：冲浪文化浓厚，有多个浪点可选，适合中高级冲浪者。
-    - \*\*乌鲁瓦图 (Uluwatu)\*\*：世界级礁石浪点，适合高级冲浪者，可观赏到壮观的管浪。
-    - \*\*巴东巴东 (Padang Padang)\*\*：经典浪点，适合进阶冲浪者。
+    - **库塔海滩 (Kuta Beach)**： 最适合初学者，浪温和且沙滩底，有众多冲浪学校。
+    - **水明漾 (Seminyak)**：适合中级冲浪者，浪较大且人潮较少。
+    - **坎古 (Canggu)**：冲浪文化浓厚，有多个浪点可选，适合中高级冲浪者。
+    - **乌鲁瓦图 (Uluwatu)**：世界级礁石浪点，适合高级冲浪者，可观赏到壮观的管浪。
+    - **巴东巴东 (Padang Padang)**：经典浪点，适合进阶冲浪者。
     -
 - **注意事项**：建议初学者先上1-2小时课程，了解安全规则和基本技巧。礁石浪点需穿冲浪鞋保护脚部。
  **快速参考：**[【巴厘岛冲浪攻略】适合不同等级的冲浪海滩介绍](/blog/bali-surf-beaches-guide/)
@@ -185,7 +185,7 @@ https://youtube.com/shorts/0f-eAQ78no4?si=L7S8-kjpwt_VcsLh
 
 https://youtu.be/Z7yPLNwrOrQ?si=wlIUdZ89wdHRXzi3
 
-  **简介**：巴厘岛内陆有许多隐藏的瀑布与天然水潭，水质清凉干净，适合游泳、跳水和拍照。需要徒步一段路才能抵达，途中可欣赏热带雨林和梯田风光。
+**简介**：巴厘岛内陆有许多隐藏的瀑布与天然水潭，水质清凉干净，适合游泳、跳水和拍照。需要徒步一段路才能抵达，途中可欣赏热带雨林和梯田风光。
 
 - **推荐地点**：
 - **特哥努恩安瀑布 (Tegenungan Waterfall)**：距乌布较近，适合初学者，有较宽广的水潭。
@@ -230,7 +230,7 @@ https://youtu.be/wai2lSW3vVU?si=smSuWoB2Y5ygrC9t
 
   **适合家庭亲子**：香蕉船、海底漫步、红树林独木舟、瀑布探险、观赏海豚
   **适合情侣**：SUP 日落、Jukung 帆船、浮潜、瀑布探险、海滩俱乐部
-  **适合寻求刺激**：飞鱼、Flyboard、激流泛舟、水上摩托艇、进阶冲浪、深潜
+  **适合寻求刺激**：飞鱼、Flyboard、激流泛舟、水上摩托车、进阶冲浪、深潜
   **适合预算有限**：冲浪教学、独木舟、瀑布探险、沙滩游泳
   **适合不会游泳**：海底漫步、香蕉船（穿救生衣）、红树林独木舟、海滩俱乐部
 

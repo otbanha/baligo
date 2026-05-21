@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_dd76f1e8177a1813dc222d3266ae811b.jpg'
 originalUrl: 'https://vocus.cc/article/661e7b1ffd89780001f1da05'
 lang: zh-hk
-_srcHash: b10503090fb8bb2f64a84d29f56a981e
+_srcHash: 1183c3b0db024a22133788f74f017f4a
 ---
 
 檳榔係台灣常見嘅零食，好多人都有食檳榔嘅習慣。不過，檳榔喺好多國家都被視為毒品或者違禁品，所以帶檳榔出國要特別小心。
@@ -25,7 +25,7 @@ _srcHash: b10503090fb8bb2f64a84d29f56a981e
 
 ## 帶檳榔入境印尼要注意以下事項：
 
-帶嘅檳榔數量應該以個人自用為限，數量唔好太誇張。應該將檳榔保持喺原包裝內，並妥善保存。
+帶嘅檳榔數量應該以個人自用為限，數量唔好太誇張。要將檳榔保持喺原包裝內，並妥善保存。
 
 ![社團朋友親身經驗](https://images.gobaligo.id/vocus/vocus_cdf45025f04407548fc3024d792824f6.jpg)
 

@@ -32,7 +32,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_50d4d6e19ceff21972a2e9988595aa00.jpg'
 originalUrl: 'https://vocus.cc/article/6791ea5dfd89780001a7a07c'
 lang: zh-cn
-_srcHash: 9f455e14a7d36737e00d0d51d0837bca
+_srcHash: 618be17f8ace4cb2e65ea4c235847793
 ---
 
 ### Marine Safari Bali：2024 年 12 月开幕，巴厘岛全新海洋探险天堂！
@@ -67,9 +67,9 @@ _srcHash: 9f455e14a7d36737e00d0d51d0837bca
 
 ## **独特的互动体验**
 
-### **与鲨鱼和魟鱼互动**
+### **与鲨鱼和鳐鱼互动**
 
-在专业安全的环境中，游客可以近距离触摸鲨鱼和魟鱼，体验与海洋生物亲密接触的美妙感受。
+在专业安全的环境中，游客可以近距离触摸鲨鱼和鳐鱼，体验与海洋生物亲密接触的美妙感受。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_53e7d75cc224462f065d1d30b8d004fb.png)
 

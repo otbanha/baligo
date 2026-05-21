@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ed1ea6cbc2b41221a0a57d6e6ed75985.jpg'
 originalUrl: 'https://vocus.cc/article/68f9b567fd89780001795353'
 lang: zh-cn
-_srcHash: 8af1b1ed8583d79f9bbdbeb917c0c583
+_srcHash: fd719a5e4d8e14899bfc4cd3245f5a36
 ---
 
 如果你以为巴厘岛只有浪漫的海滩、日落与度假村，那就错过了这座岛屿最动人的一面——**海龟保育故事**。每年 4 月至 10 月，海龟妈妈们会回到巴厘岛的沙滩产卵，而当地社区、志愿者与基金会也投入复育，让旅人有机会亲眼见证小生命奔向大海的瞬间。
@@ -52,13 +52,13 @@ BSTS 是巴厘岛最受信任的海龟保育组织之一，主要在库塔海滩
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_653a7621066e1f56aaf7e49601283f11.jpg)
 
-📍 **地点**：Sindhu Beach, Sanur 位置请参考[沙努尔攻略地图](/blog/sanur-guide/)
+📍 **地点**：Sindhu Beach, 沙努尔 位置请参考[沙努尔攻略地图](/blog/sanur-guide/)
 
 🌐 **官方资讯**：[Sea Turtle Village Sanur](https://www.hyatt.com/content/dam/hotel/propertysites/assets/regency/dpsbl/documents/en_us/home/Sea-Turtle-Village-Activities.pdf)
 
 📅 **开放时间**：约 8:00–17:00
 
-这里是由当地两家五星饭店业者凯悦与安达士自发建立的小型海龟保育点，规模虽不大，却非常适合亲子共游。你可以看到小型孵化池与展示墙，了解海龟从蛋到幼龟的成长历程。
+这里是由当地两家五星酒店业者凯悦与安达士自发建立的小型海龟保育点，规模虽不大，却非常适合亲子共游。你可以看到小型孵化池与展示墙，了解海龟从蛋到幼龟的成长历程。
 
 🚗 **交通建议**：
 
@@ -81,7 +81,7 @@ BSTS 是巴厘岛最受信任的海龟保育组织之一，主要在库塔海滩
 
 📅 **开放时间**：每日 8:00–17:00
 
-这个据点位置在 Sindu Beach 附近，与 Sea Turtle Village 性质不同，**更偏向教育与研究导向**。志愿者会为访客解说海龟种类、栖息环境与保育挑战。
+这个据点位于 Sindu 海滩附近，与 Sea Turtle Village 性质不同，**更偏向教育与研究导向**。志愿者会为访客解说海龟种类、栖息环境与保育挑战。
 
 https://youtube.com/shorts/9EeW2YH0iY0
 
@@ -139,7 +139,7 @@ https://youtube.com/shorts/9EeW2YH0iY0
 
 在巴厘岛的沙滩上，看着几公分长的小海龟，一步步爬向湛蓝的印度洋，那一刻的感动是无法用言语形容的。
 
-这不仅是一次旅程中的体验，更是一场与自然连接、学习敬畏生命的旅途。
+这不仅是旅程中的体验，更是一场与自然连接、学习敬畏生命的旅途。
 
 不过，这几年关于“海龟保育中心”的争议也时有耳闻——有人质疑是否过度商业化，或是否真的符合保育原则。就我实际走访的观察来看，**巴厘岛多数海龟保育中心其实并不收门票费**，经营主要依靠游客的捐款与小型活动的微薄收入。这些据点往往由当地社区或志愿者自发维持，他们的初衷仍是出于保育与教育。
 

@@ -1,8 +1,8 @@
 ---
 slug: bali-atv-rafting-comparison
-title: 巴厘岛 ATV 越野车 vs 阿勇河漂流懒人包：行程安排、必备物品与新手安全须知
+title: 巴厘岛 ATV 越野车 vs 阿勇河漂流懒人包：行程安排、必带物品与新手安全须知
 description: >-
-  不再纠结行程怎么安排！深度解析巴厘岛乌布区最强冒险组合。整理 ATV
+  不再纠结行程怎么排！深度解析巴厘岛乌布区最强冒险组合。整理 ATV
   越野车路线（含山洞、瀑布）与阿勇河漂流（难度分级、适合年龄层）的详细信息。提供专业教练挑选建议、防晒防泥准备与包车接送规划，让您的 2026
   巴厘岛假期充满肾上腺素！
 pubDate: 2025-07-27T00:00:00.000Z
@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bbae207c7b2357fcc9e3128889589708.jpg'
 originalUrl: 'https://vocus.cc/article/68861b2efd8978000104cf9b'
 lang: zh-cn
-_srcHash: 9690337498e7792e0dcb354d2abe1f58
+_srcHash: a4df78ea737e534eae5f76836bb06d14
 ---
 
 说到巴厘岛，大部分人想到的可能是海滩、寺庙或是SPA，但这次我和三个好友决定来点不一样的体验。经过多方比较后，我们选择了「ATV越野骑行 + 阿勇河漂流」的组合套餐，事实证明这绝对是我们巴厘岛行程中最刺激也最难忘的一天！

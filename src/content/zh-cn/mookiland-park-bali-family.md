@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_09c749583a2a6ad84442825909d18a58.jpg'
 originalUrl: 'https://vocus.cc/article/66991013fd89780001c8e70b'
 lang: zh-cn
-_srcHash: 0fbc26270336d0c947338c6d8e851ffa
+_srcHash: 0efdb9258a2454d9ebb3b125e9e0ef41
 ---
 
 在繁忙的工作生活中，家长们经常难以顾及孩子的娱乐需求。无论是游览各大景点、游乐场，还是聘请保姆，这些选择常常无法满足孩子们渴望探索和玩乐的心。Mookiland Park 位于巴厘岛的 Kerobokan，为孩子们提供了一个安全、舒适且充满趣味的环境，让家长们可以在公园或餐厅内放松。这个家庭公园设计精巧，提供了丰富的活动和设施，保证让孩子们度过一整天的欢乐时光。
@@ -65,7 +65,7 @@ Mookiland Park 每天早上 9 点至晚上 6 点开放。
 
 - **Mookiland Park 的位置靠近哪一区？**
 
-Mookiland Park 在Seminyak跟坎古中间，距离水明漾广场（Seminyak Square）约25分钟车程
+Mookiland Park 在水明漾跟坎古中间，距离水明漾广场（Seminyak Square）约25分钟车程
 
 - **如何预订生日派对？**
 

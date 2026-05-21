@@ -15,7 +15,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-cn
-_srcHash: 10e8abd57ea539961c6c6fe23af5f9f5
+_srcHash: a1f88522cf5a1e4968f373df79abd3ed
 ---
 
 ## 🌟 **你准备好在巴厘岛迎接2025年跨年了吗？** 🌟

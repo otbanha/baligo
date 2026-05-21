@@ -1,13 +1,13 @@
 ---
 slug: bali-gojek-grab-restrictions
 title: >-
-  Bali government imposes restrictions on ride-hailing apps Gojek/Grab to
-  protect local taxi drivers' income
+  Bali Government Imposes Restrictions on Ride-Hailing Services Gojek/Grab to
+  Protect Local Taxi Drivers' Income
 description: >-
   The Bali government is set to introduce a series of new regulations to protect
   the livelihoods of local taxi drivers. This decision was made following a
   large-scale protest by hundreds of taxi drivers in Denpasar on January 5,
-  2025. The protesters strongly demanded that the government limit the number of
+  2025. The demonstrators strongly urged the government to limit the number of
   ride-hailing vehicles (including cars and motorcycles) and impose stricter
   regulations on tourist car rental services.
 pubDate: '2025-01-30'
@@ -22,40 +22,40 @@ originalUrl: 'https://vocus.cc/article/679acca0fd89780001f544a0'
 category:
   - 旅行技巧
 lang: en
-_srcHash: f3333978334e2c869e6270fffea8450a
+_srcHash: 4d371785fb7577fa2ee9c24796adb110
 ---
 
 [🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)
 
-## **🚖 Bali Taxi Drivers Protest Leads to Government Crackdown on Ride-Hailing Apps**
+## **🚖 Bali Taxi Drivers Protest Leads to Government Strengthening Regulations on Ride-Hailing Services**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9fcfc4a88f2af864cc1d6061296a6c6c.jpg)
 
 The Bali government is set to introduce a series of new regulations to protect the livelihoods of local taxi drivers. This decision was made following a large-scale protest by hundreds of taxi drivers in Denpasar on January 5, 2025.
 
-The protesters strongly demanded that the government limit the number of ride-hailing vehicles (including cars and motorcycles) and impose stricter regulations on tourist car rental services. They also called for the government to establish a unified taxi fare system to ensure fair competition.
+The demonstrators strongly urged the government to limit the number of ride-hailing vehicles (including cars and motorcycles) and impose stricter regulations on tourist car rental services. They also called for the establishment of a unified taxi fare system to ensure fair competition.
 
 ---
 
-## **📜 Key Points of the New Regulations: Restrictions on Non-Local Drivers and Out-of-Town License Plates**
+## **📜 Key Points of New Regulations: Restrictions on Non-Local Drivers and Out-of-Town License Plates**
 
 To more effectively protect local taxi operators, the government has decided to strengthen regulatory measures. According to the latest revised policy:
 
-✅ **Only residents with a Bali ID card (KTP)** can become drivers on the Grab or GoJek platforms.
+✅ **Only residents holding a Bali ID card (KTP)** can become drivers on the Grab or GoJek platforms.
 
-✅ **All operating vehicles must have a 'DK' (Denpasar) license plate**, ensuring that these vehicles are registered and managed locally.
+✅ **All operational vehicles must have a "DK" (Denpasar) license plate**, ensuring these vehicles are registered and managed locally.
 
-These regulations further tighten the 2019 Bali Governor's Regulation No. 40, which required drivers of specific rental vehicles (ASK) to have proof of residence in Bali.
+These regulations further tighten the 2019 Bali Governor's Regulation No. 40, which required drivers of specific rental vehicles (ASK) to hold proof of residence in Bali.
 
 ---
 
-## **📢 Local Drivers' Concerns and Complaints**
+## **📢 Local Drivers' Concerns and Dissatisfaction**
 
 Local taxi operators in Bali have long complained that the influx of vehicles and drivers from outside the region has led to unfair market competition and caused various issues, such as:
 
-🚫 **Traffic Congestion**: Frequent illegal parking by outside vehicles disrupts road flow.
+🚫 **Congested Traffic Conditions**: Frequent illegal parking by outside vehicles disrupts road access.
 
-🚫 **Violation of Restricted Zones**: Certain areas prohibit ride-hailing pickups, but outside drivers often ignore these rules.
+🚫 **Violation of Restricted Zones**: Certain areas prohibit ride-hailing services from picking up passengers, but outside drivers often ignore these rules.
 
 🚫 **Decline in Passenger Safety and Service Quality**: Some outside drivers are unfamiliar with local roads, leading to delays and negatively impacting tourist experiences.
 
@@ -67,11 +67,11 @@ Protesters also emphasized that drivers from other regions should be restricted 
 
 ## **🚗 Grab and GoJek Support Government Policies**
 
-Regarding the new regulations, **Halim Wijaya**, Regional Director of Grab Indonesia East, stated that the company always complies with local government policies and supports measures to improve the living conditions of Bali residents. He emphasized, "Grab strictly adheres to Bali's current regulations and is committed to providing good employment opportunities for the local community."
+Regarding the new regulations, **Halim Wijaya**, Regional Director of Grab Indonesia for the Eastern Region, stated that the company always complies with local government policies and supports measures to improve the living conditions of Bali residents. He emphasized, "Grab strictly adheres to Bali's existing regulations and is committed to providing good employment opportunities for the local community."
 
 Another major ride-hailing company, **GoJek**, also expressed support for the new policy and pledged to continue helping local drivers secure stable income.
 
-Currently, Grab and GoJek provide employment opportunities for thousands of Bali residents. These companies have stated they will actively cooperate with government policies to ensure local taxi operators receive the protection they deserve.
+Currently, Grab and GoJek provide employment opportunities to thousands of Bali residents. These companies have stated they will actively cooperate with government policies to ensure local taxi operators receive the protection they deserve.
 
 ---
 
@@ -87,29 +87,29 @@ On the other hand, these measures help reduce conflicts between taxi drivers and
 
 ### **1. Will the new policy affect tourists using Grab or GoJek?**
 
-There won’t be a significant impact, but it might slightly reduce the number of available vehicles, leading to longer wait times.
+There won't be a significant impact, but it might slightly reduce the number of available vehicles, leading to longer wait times.
 
 ### **2. How do these changes affect tourists renting cars?**
 
-The government may impose stricter regulations on car rentals for tourists, so additional conditions might be required in the future.
+The government may impose stricter regulations on car rentals for tourists, so more conditions might need to be met when renting a car in the future.
 
 ### **3. Will local taxi prices change?**
 
-The new policy may prompt the government to set standard taxi rates, ensuring price transparency and preventing overcharging.
+The new policy might prompt the government to establish standard taxi rates, ensuring price transparency and preventing overcharging.
 
-### **4. Can Non-Bali Residents Drive on Grab or GoJek?**
+### **4. Can Non-Bali Residents Still Drive for Grab or GoJek?**
 
-According to new regulations, only residents with a Bali ID card can register as ride-hailing drivers.
+According to the new regulations, only residents with a Bali ID card can register as ride-hailing drivers.
 
 ### **5. Will This Policy Help Improve Bali's Traffic?**
 
-Yes, reducing the influx of outside vehicles helps alleviate traffic congestion and improves local traffic order.
+Yes, reducing the influx of outside vehicles will help alleviate traffic congestion and improve local traffic order.
 
 ## **📌 Summary**
 
-The Bali government's move aims to protect the rights of local taxi operators while improving road order and ensuring fair competition. Although these changes may affect job opportunities for some outside drivers, it is a beneficial initiative for the long-term development of the local community and tourists.
+The Bali government's move aims to protect the rights of local taxi operators while improving road order and ensuring fair competition. Although these changes may affect job opportunities for some outside drivers, it is a beneficial long-term initiative for the local community and tourists.
 
-If you plan to visit Bali, stay updated on local traffic regulations to ensure a smooth trip!
+If you plan to visit Bali, stay updated on the latest local traffic regulations to ensure a smooth trip!
 
 ## 📩 **Join the "Bali Travel Guide" Now and Become a Bali Travel Expert!**
 
@@ -117,14 +117,14 @@ If you plan to visit Bali, stay updated on local traffic regulations to ensure a
 
 **By subscribing for free, you'll get:**
 
-✅ The latest Bali news, keeping you updated with travel information
+✅ The latest Bali news, keeping you updated on travel information
 
-✅ In-depth guides to help you plan a budget-friendly and worry-free trip
+✅ In-depth guides to make your trip both budget-friendly and stress-free
 
 ✅ Exclusive recommendations for hidden gems and local food maps
 
-✅ Content you won't find in Facebook groups
+✅ Exclusive content you won't find in Facebook groups
 
-✅ Gather the most itinerary suggestions from fellow travelers for seamless trips every time
+✅ Gather the most comprehensive travel planning suggestions from fellow travelers for seamless experiences every time
 
-Sign up easily with your Google or Facebook account!
+Sign up easily using your Google or Facebook account!

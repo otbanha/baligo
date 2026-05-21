@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65c217c5fd897800010113af'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: 76b8d4aef96655ce0e39ca453d617f3e
+_srcHash: 274b7e7be9f576ca9b3e126fc11540f1
 ---
 
 ## **乜嘢係電子簽證？**
@@ -44,11 +44,11 @@ _srcHash: 76b8d4aef96655ce0e39ca453d617f3e
 
 ![一般遊客要選擇這個簽證喔！(PS. 已不需要創建帳戶/註冊)](https://images.gobaligo.id/vocus/vocus_3e1c8fa4a7c9afa28ae3cec64c64155c.png)
 
-一般遊客要揀呢個簽證㗎！(PS. 已經唔需要開戶口/註冊)
+一般遊客要揀呢個簽證㗎！(PS. 已經唔需要開帳戶/註冊)
 
 ## 除咗電子簽證仲需要咩文件？
 
-請參考呢度所有流程嘅詳細說明：[印尼峇里島入境使用「All Indonesia」申報系統｜1分鐘搞掂最新流程：落機→過海關→拎行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+請參考呢度所有流程嘅詳細說明：[印尼峇里島入境使用「All Indonesia」申報系統｜1分鐘搞掂最新流程：落機→過海關→攞行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 
 ## 線上延長電子簽證
 

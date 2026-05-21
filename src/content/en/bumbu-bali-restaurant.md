@@ -1,13 +1,13 @@
 ---
 slug: bumbu-bali-restaurant
-title: 'Bumbu Bali: A Must-Try Restaurant in Bali''s Nusa Dua Area'
+title: 'Bali/South Bali Must-Try Restaurant: Bumbu Bali'
 description: >-
   A traditional Balinese cuisine restaurant featuring cultural dance
-  performances, ranked #2 on TripAdvisor for dining ▽▽▽ Don't miss the essential
-  tips below! ▽▽▽ The Ultimate Bali Pre-Trip Guide What to pack for Bali? 21
-  essential items Travel warning! 【Passport validity】 Unaware traveler loses
-  $158 How to enter Indonesia/Bali? Visa, vaccines, insurance, App... all
-  customs regulations explained here
+  performances, ranked #2 on TripAdvisor for dining ▽▽▽ Don't miss the detailed
+  guide below! ▽▽▽ The Ultimate Bali Travel Prep Guide What to pack for Bali? 21
+  essential items Traveling abroad? Beware! 【Passport validity】Failure to check
+  cost someone $158 How to enter Indonesia/Bali? Visa, vaccines, insurance,
+  App... all customs regulations explained here
 pubDate: '2023-08-15'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_abab451174341c647a4972caa15c7105.jpg'
 tags:
@@ -20,17 +20,17 @@ originalUrl: 'https://vocus.cc/article/64db6b51fd897800013a8d03'
 category:
   - 美食景點活動
 lang: en
-_srcHash: e3df1b91ce11d2a5e175ba0df6068319
+_srcHash: 76dcf03c52aa4fe4c4628abf1a13980d
 ---
 
 A traditional Balinese cuisine restaurant featuring cultural dance performances, ranked #2 on TripAdvisor for dining
 
-# ▽▽▽ Don't miss the essential tips below! ▽▽▽
+# ▽▽▽ Don't miss the detailed guide below! ▽▽▽
 
-**The Ultimate Bali Pre-Trip Guide**
+**The Ultimate Bali Travel Prep Guide**
 
 - What to pack for Bali? 21 essential items
-- Travel warning! 【Passport validity】 Unaware traveler loses $158
+- Traveling abroad? Beware! 【Passport validity】Failure to check cost someone $158
 - How to enter Indonesia/Bali? Visa, vaccines, insurance, App... all customs regulations explained here
 - Visa & e-Visa eVoA FAQ
 

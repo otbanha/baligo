@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6814d025fd89780001feaff6'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: fb60b0d26b3030ef50c0cd5548886f3e
+_srcHash: bbccd6c4badc1740844b16faafac3c90
 ---
 
 ## 巴厘岛突发大停电，全岛陷入黑暗
@@ -31,7 +31,7 @@ _srcHash: fb60b0d26b3030ef50c0cd5548886f3e
 
 ## 电力公司回应：海底电缆故障是主因
 
-根据PLN企业传讯副总Gregorius Adi Trianto的说法，停电发生于当地时间下午4点左右，原因为**「爪哇-巴厘岛」之间的海底电缆出现故障**，导致连接至巴厘岛的发电机组全面停止运作。
+根据PLN企业传讯副总Gregorius Adi Trianto的说法，停电发生于当地时间下午4点左右，起因为**「爪哇-巴厘岛」之间的海底电缆出现故障**，导致连接至巴厘岛的发电机组全面停止运作。
 
 截至当日晚上10点，仍有大约80%的区域处于供电中断状态。
 

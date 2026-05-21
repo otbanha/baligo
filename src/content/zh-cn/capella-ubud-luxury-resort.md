@@ -24,7 +24,7 @@ agoda_star_rating: 5
 latitude: -8.447693
 longitude: 115.268545
 lang: zh-cn
-_srcHash: 17a97445d3c97646d0b6e7b0a06698d9
+_srcHash: 679470a2b3cf80cf80573014a41386d3
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3193b4266786ada3df1779af8a323809.jpg)
@@ -69,7 +69,7 @@ Capella Ubud 的一大特色是其「帐篷村」概念。度假村拥有 22 顶
 
 Capella Ubud 荣获《Travel + Leisure》2020 年度「全球最佳酒店」的最高荣誉。这座隐匿于巴厘岛乌布丛林深处的度假胜地，以其独特的设计理念、顶级服务以及与自然环境的完美融合，征服了全球旅行者的心，成为奢华住宿的代表作。
 
-Capella Ubud 的成功不仅来自于 Bensley 大师的设计灵感，还来自于度假村无微不至的个性化服务和对可持续发展的承诺。每一顶帐篷都充满了独特的风格与历史故事，让入住的宾客感受到非凡的住宿体验。这些卓越的特质，使 Capella Ubud 在《Travel + Leisure》的「全球最佳酒店」评选中脱颖而出，获得了世界各地旅客的高度评价。
+Capella Ubud 的成功不仅来自于 Bensley 大师的设计灵感，还来自于度假村的无微不至的个性化服务和对可持续发展的承诺。每一顶帐篷都充满了独特的风格与历史故事，让入住的宾客感受到非凡的住宿体验。这些卓越的特质，使 Capella Ubud 在《Travel + Leisure》的「全球最佳酒店」评选中脱颖而出，获得了世界各地旅客的高度评价。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c56cd12868494f4dbf0405c011c1ebb6.jpg)
 

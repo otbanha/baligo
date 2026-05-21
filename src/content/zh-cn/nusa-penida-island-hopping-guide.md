@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65b51f59fd89780001e498d4'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 109bafa8dd92c0c3f6fc9d999a52dbfc
+_srcHash: 7c9a040025513edb50322cde0befc2ea
 ---
 
 这是我们社团网友「[Sophie](https://www.facebook.com/soficia.chen)」在巴厘岛度过的六天精彩自由行程！有许多参考了「[小杰印尼](https://www.youtube.com/@j_indonesia)」的视频和我们「巴厘岛旅游攻略」的精彩攻略的组合。让我们一起看看这段她自己安排的充满冒险和探索旅程吧！
@@ -28,7 +28,7 @@ Sophie的六天巴厘岛自由行游记分享
 
 结束巴厘岛旅程，一定要大推的是在社团做功课的时候，看到好几个朋友推荐的[Bali Holiday](https://www.facebook.com/groups/131689774044943/user/100003073009455/?__cft__[0]=AZWUDONagxVm7JsgBm2WdhepW0eDJiHh-LlIlNmNsEyC1lsnYFIKmLhjW-L-dK3uep2FUOdV2Y553XdF4z2WnX1k8eyJyd8Ouf5JRmESHhsC5boGW6fJPlGjg_COtPspoB05AWGk3y6ko91B-ULJE0SeoXJWjk9hPkVl-AQZ5S4Ockwds9lQMm_eqhqycJOZh30&__tn__=-]K-R)的❤️Awan❤️  
 他的坐骑是超级骚包的🔥BlackPink🔥  
-我找司机的过程中问过三位，他是其中回复最快也最细心的一位，给我的初印象很好  
+我找司机的过程中问过三位，他是其中回复最快也最细心的一位，给我的初印象很好好  
 实际上，后来的旅程中有了他一切都很完美😍
 
 他会：
@@ -91,13 +91,13 @@ Tis Cafe 图：Sophie提供
 
 Omma Dayclub 图：Sophie提供
 
-- **12:30** 沙努尔港口 14:15 渡轮➡️努沙佩尼达岛搭船。船班竟然迟到2小时😡
-- **20:00**：入住[Abian House](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=39854774)，准备在佩尼达岛度过一个愉快的晚上。
+- **12:30** 沙努尔港口 14:15 渡轮➡️努沙佩尼达搭船。船班竟然迟到2小时😡
+- **20:00**：入住[Abian House](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=39854774)，准备在佩尼达度过一个愉快的晚上。
 - **16:00**：抵达水晶湾，欣赏夕阳美景。
 
 ![Atuh Beach  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_5311c2679ed97b91ca5ddf3449ef5c6b.jpg)
 
-阿图海滩 图：Sophie提供
+Atuh Beach 图：Sophie提供
 
 - **15:00**：佩尼达岛上享受阳光明媚的下午和傍晚。
 
@@ -111,9 +111,9 @@ Omma Dayclub 图：Sophie提供
 
 > (延伸阅读：[努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/))
 
-- **09:00**：参观克林金海滩，探索精灵海岸。
-- **13:00**：探访破碎海滩和天使浴池，欣赏壮观的自然景观。
-- **16:00**：AMARTA佩尼达享受夕阳和美味的晚餐，这家餐厅有一个不用排队的天堂之门喔！
+- **09:00**：参观Kelingking Beach，探索精灵海岸。
+- **13:00**：探访Broken Beach和Angel's Billabong，欣赏壮观的自然景观。
+- **16:00**：AMARTA Penida享受夕阳和美味的晚餐，这家餐厅有一个不用排队的天堂之门喔！
 
 ![不用排隊的天空之門  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_1fae087d3589421ea2550badb57cfabd.jpg)
 

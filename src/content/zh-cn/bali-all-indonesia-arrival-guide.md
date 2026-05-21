@@ -25,7 +25,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_79df9229a3131a48507912ff8ed38f07.png'
 originalUrl: 'https://vocus.cc/article/689dcce7fd8978000125fc52'
 lang: zh-cn
-_srcHash: c482985e0fb660cbebe0a7c7a5e7f399
+_srcHash: 50baa2bc95beb07e62e5f0f7c6687e86
 ---
 
 ### **📢 重要更新！2025年8月18日起，印尼全面启用「All Indonesia」入境卡申报系统**
@@ -39,7 +39,7 @@ _srcHash: c482985e0fb660cbebe0a7c7a5e7f399
 ### **行前必做**：
 
 1. 务必先完成申请电子签证eVisa。请参考[这里](/blog/bali-evisa-application-guide/)有进一步的说明，避免进入诈骗网站。
-2. 出发前三天完成AIAC入境卡，并**截图QR Code**备查。请看本站整理[常见问题FAQ](/blog/bali-evisa-customs-health-declaration/)。
+2. 出发前三天完成AIAC入境卡，并**截图QR Code**备查。请看我站整理[常见问题FAQ](/blog/bali-evisa-customs-health-declaration/)。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
 
@@ -50,7 +50,7 @@ _srcHash: c482985e0fb660cbebe0a7c7a5e7f399
 ### **2️⃣ 办理落地签（Visa on Arrival, VoA）**
 
 - **若未先申请电子签证**，需先至「落地签」柜台排队缴费（2025费用：50万印尼盾，约USD$32）。
-- 持有电子签证eVisa/eVoA者跳过此步骤。
+- 持有电子签证eVisa/eVoA者略过此步骤。
 
 ### **3️⃣ 移民局查验（护照盖章）**
 
@@ -79,7 +79,7 @@ _srcHash: c482985e0fb660cbebe0a7c7a5e7f399
 
 - 费用：15万印尼盾/人（约USD$10）。
 
-▶️ 如何缴纳？请看[观光税](/blog/2026-bali-tourism-tax-guide/)说明
+▶️ 如何缴纳？请查看[观光税](/blog/2026-bali-tourism-tax-guide/)说明
 
 👉**额外说明:** [入境印尼/巴厘岛的小朋友签证/儿童签证攻略](/blog/bali-child-visa-guide/)
 

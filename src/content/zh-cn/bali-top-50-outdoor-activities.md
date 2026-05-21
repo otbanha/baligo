@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9a233b75d34402114bfe155865ac9914.jpg'
 originalUrl: 'https://vocus.cc/article/67ecf440fd897800012cb31b'
 lang: zh-cn
-_srcHash: 33783c77d2482f3984aee695b598aa87
+_srcHash: 001408abe5aac935c5360ca4d6bbfea6
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_eb57e77a7b3e161346b3b64e697d7f09.jpg)
@@ -216,29 +216,29 @@ https://youtube.com/shorts/y5HMPegD5Rk
 - 在乌鲁瓦图断崖前观赏震撼的火舞与传统歌舞，夕阳与海景作为背景，气氛张力十足🔥
 - [巴厘岛六大必看卡恰火舞（Kecak Fire Dance）地点：一场视觉与文化的盛宴](/blog/bali-kecak-fire-dance-locations/)
 
-### 33~36. 假日市集（Weekend Markets）
+### 33~36.**假日市集（Weekend Markets）**
 
 - 在水明漾、坎古、乌鲁瓦图、沙努尔等地都有周末市集，售卖手工艺品、有机食品与当地设计，逛街也能感受在地生活氛围。
 - [【2024年版】还有在举办的巴厘岛四个假日市集：最接地气的购物体验](/blog/bali-weekend-markets-2026/)
 
-### 37. La Brisa Bali
+### 37.**La Brisa Bali**
 
 - 被誉为“巴厘岛最美餐厅”的海滨餐厅，位于坎古，拥有漂流木装修与绝美夕阳海景，是品尝海鲜与拍照打卡的最佳去处🍹🌊
 - [被誉为是“巴厘岛最漂亮的餐厅”：La Brisa在数以万计的美食餐厅之中如何脱颖而出？](/blog/canggu-la-brisa-restaurant-guide/)
 
-### 38. Oneeighty Day Club
+### 38.**Oneeighty Day Club**
 
-- 坐落在悬崖上的高空无边泳池，玻璃池底让人仿佛悬浮于海天之间，是高空控与网美的梦幻天堂！
+- 坐落于悬崖上的高空无边泳池，玻璃池底让人仿佛悬浮于海天之间，是高空控与网红的梦幻天堂！
 - [探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
 
-### 39. 金塔玛尼景观火山咖啡厅巡礼 🌄☕
+### 39.**金塔玛尼景观火山咖啡厅巡礼 🌄☕**
 
 - 喜欢山景与咖啡香的你绝对不能错过！金塔玛尼拥有12间以上的火山景观咖啡厅，可以一边品尝咖啡、一边欣赏巴图尔火山与湖泊美景。这些咖啡厅不但风景迷人，还超好拍！适合安排个追着晨曦或悠闲下午来杯手冲咖啡、看云起云落。
 - [巴厘岛金塔玛尼12大景观火山咖啡厅推荐 🌄☕](/blog/kintamani-volcano-cafes-restaurants/)
 
-### 40. 巴图尔火山湖游船湖
+### 40.巴杜尔火山湖游船湖
 
-登上巴图尔火山（Mount Batur），观赏太阳缓缓升起，是旅行者心中最震撼的回忆。结束登山后，不妨体验新兴的湖上活动——**巴图尔湖皇家松根游轮（Royal Songan Cruise）**。
+登上巴杜尔火山（Mount Batur），观赏太阳缓缓升起，是旅行者心中最震撼的回忆。结束登山后，不妨体验新兴的湖上活动——**巴杜尔湖皇家松根游轮（Royal Songan Cruise）**。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3ca74bdad12e693945d91b0c5b5888cf.jpg)
 
@@ -288,7 +288,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 ▶[水明漾骑马体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1232614&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110050-beach-horse-riding-experience-seminyak-beach-bali%2F)
   ---
-  **温馨提示：**
+  **温馨提醒：**
 
 - 在进行户外活动时，请注意安全，并遵守当地规定。
 - 建议提前预订热门活动，以免错过。

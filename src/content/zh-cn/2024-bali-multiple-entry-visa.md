@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65c0796ffd89780001e8d6db'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 2abf1df69f8c1a05b7be78e58a019fbf
+_srcHash: 8b12aeb4124d2066a5e96d143e0af84b
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_75a017bcc23776bfdf405a8361b72773.jpg)
@@ -51,4 +51,4 @@ D1签证无法自行申请，但其实手续非常简单，只需提供上述文
 
 ## 结语
 
-巴厘岛的新多次入境签证(D1签证)为前往该地的游客提供了更便利和灵活的选择。通过遵循相关条件并提交所需文件，您可以轻松获得这一签证，从而尽情享受巴厘岛的美妙的 long stay 旅程。
+巴厘岛的新多次入境签证(D1签证)为前往该地的游客提供了更便利和灵活的选择。藉由遵循相关条件并提交所需文件，您可以轻松获得这一签证，从而尽情享受巴厘岛的美妙的 long stay 旅程。

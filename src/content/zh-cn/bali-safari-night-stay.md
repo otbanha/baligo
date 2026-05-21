@@ -17,7 +17,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: zh-cn
-_srcHash: 0e6392d46c843361923623743dc600b6
+_srcHash: b9e0b389706ddd08f94c92bc9f66c6b6
 ---
 
 我在游泳，斑马陪我
@@ -65,19 +65,19 @@ _srcHash: 0e6392d46c843361923623743dc600b6
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6bdedde3738119c4aaef7410a2f68a1a.jpg)
 
-游泳期间，偶尔还会有值班的大象，驮着背上写着「Bali Safari」的客人朝你走来（骑大象之旅同样需要额外付费）。住宿赠送的一篮水果（苹果、芒果、香蕉）正好可以送给大象好朋友。
+游泳期间，偶尔还会有值班的大象，领着背上「Bali Safari」的客人，朝你前进（骑大象之旅，一样需要额外付费）。住宿赠送的一篮水果（苹果、芒果、香蕉），刚好送给大象好朋友。
 
-「Bali Safari」动物园还推出了夜间「Night Safari」行程，所有「Night Safari」行程都包含自助晚餐，边看表演边用餐，用餐表演在户外空间，酒店住宿客人同样可以免费欣赏。
+「Bali Safari」动物园还推出了夜间「Night Safari」行程，所有「Night Safari」行程都包含自助晚餐，边看表演边用餐。用餐表演在户外空间，酒店住宿客人一样可以免费欣赏。
 
-用餐结束后，再搭乘铁笼车出发去看动物。这次因为体力透支，就没有参加。如果有兴趣的人，记得订房时购买包含「Night Safari」的套餐，价格会省不少。
+用餐完毕，再搭乘铁笼出发给动物看。此行因为体力透支，就没有参加。如果有兴趣的人，记得订房时购买含「Night Safari」的套装，价格会省不少。
 
-《Mara River Safari Lodge》内唯一的餐厅「Tsavo Lion Restaurant」，玻璃窗外总有雄伟的狮子走来走去，狮子看着我吃早餐，真是可爱极了（心都融化了）。酒店住宿客人可以在此免费享用早餐，非住宿客人则需要额外付费才能入场哦！
+《Mara River Safari Lodge》内的唯一餐厅「Tsavo Lion Restaurant」，玻璃窗外总会有雄伟的狮子走来走去。狮子看着我吃早餐，真是可爱极了（融化）。酒店住宿客人可以在此免费享受早餐，非住宿的客人则需要额外付费才能入场哦！
 
-这次入住，晚餐（付费）和早餐（免费）都在「Tsavo Lion Restaurant」，晚上的狮子非常活跃，早晨的狮子则都在睡觉。
+此次入住，晚餐（付费）和早餐（免费）都在「Tsavo Lion Restaurant」。晚上的狮子非常活跃，早晨的狮子则在睡觉。
 
-另外（好处说不完，真是满意极了），住宿专属的亲密接触，固定时段直接将动物带到你面前，拍照或触摸都可以。
+另外（好处讲不完，真是满意极了），住宿专属的亲密接触，固定时段，直接将动物带到你面前，要拍照要触摸都可以。
 
-早餐时段（08:00），变色龙（？）亲自到餐厅驻点陪你用餐。用餐结束后（09:00），刚好遇到大象先生走到酒店门口的小花园，亲密接触，无需排队，真是开心。
+早餐时段（08:00），变色龙（？）亲自到餐厅驻点陪你用餐。用餐完毕（09:00），刚好遇到大象先生，走到酒店门口的小花园，亲密接触，免排队，真是开心。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7be139d38d3ededf9ecf282c3129f3c4.jpg)
 
@@ -127,21 +127,21 @@ _srcHash: 0e6392d46c843361923623743dc600b6
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_10d3e628c6c9b7078e922faf8589cf2d.jpg)
 
-此外，住宿客人可免费两日无限制进出「Bali Safari」园区（入住和退房两天），动物表演和表演之间还可以回酒店床上小憩，超级惬意。
+此外，住宿客人可免费两日无限制进出「Bali Safari」园区（check-in & check-out day两天）。动物秀和动物秀之间，还可以回酒店床上小憩，超级惬意。
 
-「Bali Safari」园区不算大，坐上空调开放的Safari Bus (Safari Journey)，便可看完园区内大部分动物，剩下的就是各种精彩的动物表演秀。
+「Bali Safari」园区不算大，坐上空调开放的Safari Bus (Safari Journey)，便可看完大部分园区内的动物。剩下的，就是各种精彩的动物表演秀。
 
 以下这些，都很值得排入行程：
 
-**入住日:**
+**入住日：**
 
-> 14:00-15:00 大象洗澡（可以近距离观看大象洗澡）
+> 14:00-15:00 大象洗澡（可以近距离看大象泡澡）
 
 > 16:00-16:15 动物表演 必看（小动物从四面八方而来，非常可爱）
 
 > 16:30-16:50 大象表演（结合历史故事的表演）
 
-**退房日:**
+**退房日：**
 
 > 09:00-10:00 大象迎接 Mara（大象亲自在酒店门口站岗）
 
@@ -149,11 +149,11 @@ _srcHash: 0e6392d46c843361923623743dc600b6
 
 除了以上所述，园区内还有水族馆（淡水水族馆）、水乐园、陆地乐园，不过都不太吸引人，可以选择略过
 
-针对非本国人，「Bali Safari」的票价实在不便宜，如果时间允许，不如考虑直接夜宿「Bali Safari」内的《Mara River Safari Lodge》**住宿加门票，会比单买门票，性价比高很多**《Mara River Safari Lodge》:
+针对非本国人，「巴厘岛野生动物园」的票价实在不便宜，如果时间允许，不如考虑直接夜宿「巴厘岛野生动物园」内的《Mara River Safari Lodge》 **住宿加门票，会比单买门票，性价比高很多** 《Mara River Safari Lodge》：
 
 ▶[Agoda订房优惠](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155)
 
-▶[丛林探险套票、夜间动物园套票在这里订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=846903&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcf3846e55e)
+▶[丛林探险套票、夜间动物园套票在这里预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=846903&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcf3846e55e)
 
 ```
 越南台商小姊姊前往峇里島遊玩。  
@@ -164,7 +164,7 @@ _srcHash: 0e6392d46c843361923623743dc600b6
 
 ## 其他天数的游记/攻略
 
-若我的游记有提供您一点帮助，欢迎继续阅读我其他日子的游记/攻略喔：
+若我的游记有提供您一点帮助，欢迎继续阅读我其他天数的游记/攻略喔：
 
 - [**Day 1: 住在shopping mall里！两大两小的亲子住宿安排**](/blog/bali-family-trip-aloft-kuta/)
 - [**Day 2: GWK神鹰广场、乌鲁瓦图免费海滩俱乐部、乌鲁瓦图庙、乌鲁瓦图火舞**](/blog/bali-family-trip-gwk-beach-club/)

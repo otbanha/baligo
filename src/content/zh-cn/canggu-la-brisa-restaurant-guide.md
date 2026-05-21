@@ -21,12 +21,12 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a1d286264ed333dad9574c961065d669.jpg'
 originalUrl: 'https://vocus.cc/article/656d19fffd897800019cb6ed'
 lang: zh-cn
-_srcHash: a6bac2183c8e89d85eee05a401c3977a
+_srcHash: d2d192aa3b9f4ff35ae3de20f4681f31
 ---
 
 你一定很难想象，一个面积约为新北市的2倍大的岛屿，有上万家的旅馆/villa，超过旅馆/villa数量好几倍的美食餐厅。因为这个地方的旅游真的太热门了！
 
-在这么多的餐厅之中，被赞誉为「巴厘岛最漂亮的餐厅」的这家餐厅，你可千万别错过咯！
+在这么多的餐厅之中，被赞誉为「巴厘岛最漂亮的餐厅」的这家餐厅，你可千万别错过哦！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a516952fa874238cf08ef63be006c56d.jpg)
 
@@ -70,7 +70,7 @@ https://youtube.com/shorts/f0N6FE2dxys
   
 **最低消费**
 
-La Brisa的部分座位类型有最低消费规定。平日的最低消费金额介于两人IDR 400,000（平均一人200,000）至10人IDR 1,800,000（平均一人180,000）不等，具体金额取决于座位类型或类别。最低消费金额可用于购买食物或饮料.
+La Brisa的部分座位类型有最低消费规定。平日的最低消费金额介于两人IDR 400,000（平均一人200,000）至10人IDR 1,800,000（平均一人180,000）不等，具体金额取决于座位类型或类别。最低消费金额可用于购买食物或饮料。
 
   **其他信息**
 

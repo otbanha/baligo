@@ -1,9 +1,12 @@
 ---
 slug: bali-visa-tourism-tax
-title: 'Bali Entry Update: Visa Application + Tourism Tax Payment System Launched'
+title: >-
+  Bali's New Entry Regulations: Visa Application + Tourism Tax Payment System
+  Launched
 description: >-
-  Bali announces integration of tourism tax into visa application process for
-  easier payment and improved tax collection efficiency.
+  Bali has announced that the tourism tax will be integrated into the visa
+  application process, making it more convenient for visitors to pay while
+  improving tax collection efficiency.
 pubDate: '2025-10-06'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9f3714d76e8ece3e03fe1c739b44bb36.png'
 tags:
@@ -16,38 +19,38 @@ originalUrl: 'https://vocus.cc/article/68e36431fd89780001eea4fa'
 category:
   - 簽證通關
 lang: en
-_srcHash: d94fd7944146d4e71a5ed1b16dec5a30
+_srcHash: e6666f5fba191081f76e750f88a33b6c
 ---
 
-## **Overview of Bali's New Tourism Tax Regulation**
+## **Overview of Bali's New Tourism Tax Regulations**
 
-Bali Governor **Wayan Koster** announced that to boost local revenue and enhance tourism management, the **Tourism Levy** will be officially incorporated into the visa application process.
+Bali Governor **Wayan Koster** announced that to increase local revenue and improve tourism management, the **Tourism Tax (or Tourist Levy)** will officially be incorporated into the visa application process.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2a29412d867ed5a676e351934576fdd1.png)
 
-Currently, although foreign tourists are required to pay **150,000 Indonesian Rupiah** (approximately NT$300 / USD$10), the actual payment rate is only about **35%**. This results in billions of Rupiah in potential revenue loss for the local government annually.
+Currently, although foreign tourists are required to pay **150,000 Indonesian Rupiah** (approximately NT$300 / USD$10), the actual payment rate is only about **35%**. This has resulted in the local government losing trillions of Indonesian Rupiah in potential revenue annually.
 
 ---
 
-## **Why Integrate Tourism Tax into the Visa System?**
+## **Why Integrate the Tourism Tax into the Visa System?**
 
 Currently, tourists need to use three different platforms:
 
-1. e-Visa system
-2. Tourism tax payment website LoveBali
-3. All Indonesia form to be filled before arrival
+1. The e-Visa system
+2. The tourism tax payment website LoveBali
+3. The All Indonesia form to be filled out before entry
 
-This process causes inconvenience for many travelers and leads some to skip the tax payment step.
+This process has caused inconvenience for many travelers and led some to overlook the tax payment step.
 
-Therefore, Koster proposed that the **Directorate General of Immigration** take charge of collection, allowing tourism tax to be paid together with visa fees.
+Therefore, Koster proposed that the **Directorate General of Immigration** be responsible for collecting the tourism tax, allowing it to be paid together with the visa fee.
 
 ---
 
-## **Government and Tourism Industry Collaboration Plan**
+## **Government and Tourism Industry Collaboration**
 
 Koster has discussed this reform with **Yusril Ihza Mahendra**, Indonesia's Minister of Law and Human Rights, and received positive feedback.
 
-Meanwhile, **354 member organizations** of the Indonesian Travel Agents Association (**ASITA**) have joined the program as official payment points, each receiving a **3% fee** as compensation.
+Meanwhile, **354 member agencies** of the Indonesian Travel Agents Association (**ASITA**) have joined the program as official payment points, each receiving a **3% commission** as an incentive.
 
 ---
 
@@ -57,9 +60,9 @@ Currently, payments can still be made through the **LoveBali website or app (App
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cd3ba5773e028d2fdf173741945a7708.png)
 
-However, once the new system is implemented, tax payment will be directly linked to visa applications, **making it impossible to avoid payment**.
+However, once the new system is implemented, tax payment will be directly tied to visa applications, **making evasion impossible**.
 
-It is estimated that this will generate nearly **1 trillion Indonesian Rupiah** annually for Bali, to be used for:
+It is estimated that this will generate nearly **IDR 1 trillion** annually for Bali, to be used for:
 
 - Environmental protection
 - Infrastructure improvements
@@ -69,9 +72,9 @@ It is estimated that this will generate nearly **1 trillion Indonesian Rupiah** 
 
 ## **Bali Government's Long-Term Vision**
 
-The local government stated that this new revenue will be earmarked specifically to promote **Sustainable Tourism**.
+The local government has stated that this additional revenue will be earmarked specifically to promote **Sustainable Tourism**.
 
-With stable financial resources, transportation, public facilities, and environmental quality will be further improved to ensure Bali continues to attract global tourists.
+With stable funding, transportation, public facilities, and environmental quality will be further improved, ensuring that Bali continues to attract global tourists.
 
 ---
 
@@ -79,9 +82,9 @@ With stable financial resources, transportation, public facilities, and environm
 
 ### **Q1. What is the Bali tourism tax?**
 
-A1. The tourism tax is **150,000 Indonesian Rupiah**, approximately USD$10.
+A1. The tourism tax is **150,000 IDR**, approximately USD$10.
 
-### **Q2. When will the new system be implemented?**
+### **Q2. When will the new policy take effect?**
 
 A2. It is expected to be fully integrated into the visa application process by **the end of 2025**.
 
@@ -97,16 +100,16 @@ A4. It is recommended to keep the electronic receipt for verification upon entry
 
 A5. Primarily used for **environmental conservation, infrastructure development**, and **tourism facility improvements**.
 
-## 📩 **"Bali Travel Guide" Homepage Description**
+## 📩 **"Bali Travel Guide" Homepage Overview**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1799457d4c578f617a268ad8535c73ec.jpg)
 
 **By subscribing for free, you'll get:**
 
-- The latest Bali news, keeping you informed with first-hand travel information
-- In-depth guides to make your trip both economical and worry-free
+- Latest Bali news to keep you informed with up-to-date travel information
+- In-depth guides to help you plan budget-friendly and stress-free itineraries
 - Exclusive recommendations for hidden gems and local food maps
-- Content not found on Facebook groups
-- Collecting the most travel itinerary suggestions from fellow travelers, ensuring every trip is a seamless experience
+- Content you won't find in Facebook groups
+- Collecting the most travel planning advice from fellow travelers for seamless trip experiences
 
-Sign up easily with your Google or Facebook account!
+Sign up easily using your Google or Facebook account!

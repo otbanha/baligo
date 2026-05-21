@@ -1,5 +1,5 @@
 ---
-title: "峇里島金巴蘭海景秘境 \U0001F305 Locca Sea House：一邊睇日落、一邊微醺放空嘅夢幻午後"
+title: "峇里島金巴蘭海景秘境 \U0001F305 Locca Sea House：一邊睇日落、一邊微醺放空嘅夢幻下午"
 slug: Locca-Sea-House
 description: >-
   邊個話金巴蘭淨係可以食沙灘烤魚？Locca Sea House 坐擁金巴蘭懸崖絕佳視野，提供 180
@@ -26,8 +26,9 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: a5018876428ba4b2b7cd9c52662578ce
+_srcHash: 55726b7d3d5a8249b7c4f05e88450cb4
 ---
+
 嚟到峇里島金巴蘭（Jimbaran），好多人第一個諗到嘅係海鮮燒烤同夕陽。但如果你想搵一個更輕鬆、更有度假感，同時又適合情侶、朋友甚至親子一齊待上一日嘅地方，咁我最近好推薦呢間位於海邊嘅 Locca Sea House。
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1778585177151-jtgkmhenz1im0pvixsc_m-cp3q9ujmccuilufsz2urmnhzrqcac3-xztaaglihxppydq1rhjoyq6jdrjwatni3xd4bi6en3zs2atnkud4hdqdlnrltxzexelwnt2hgjynsj0g9dvnflswns-7w30iamcghi-5n-6ongxz0earropjffcdypms67fmjgiprg3.jpeg)
@@ -46,31 +47,31 @@ Locca Sea House 最大嘅魅力，我覺得係佢將「海景餐廳」、「Beac
 
 唔似某啲 Beach Club 太過派對感，呢度反而多咗一點悠閒同舒服。
 
-日頭可以帶小朋友玩水、食薄餅；下晝開始氣氛慢慢熱鬧起嚟；傍晚就迎嚟成個金巴蘭最迷人嘅夕陽時刻。🌅
+日頭可以帶小朋友玩水、食披薩；下晝開始氣氛慢慢熱起嚟；傍晚就迎嚟成個金巴蘭最迷人嘅夕陽時刻。🌅
 
 尤其當 DJ 音樂慢慢響起、個天開始染成金黃色時，真係好容易令人忘記時間。
 
-## 唔只係睇海，啲嘢食都好有誠意 🍕
+## 唔止睇海，餐點都好有誠意 🍕
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1778585481431-mixcollage-12-may-2026-06-30-pm-6283.jpg)
 
-喺 Locca Sea House，唔單止係嚟影相咁簡單。
+喺 Locca Sea House，唔係淨係嚟影相咁簡單。
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1778585509901-v-dptow6yyly_ufmuawhqjnc0r0b-a96o3ubbf96dgyys5rpvsz4orhtjk-ywgascxsy_wakd3gp5wiixezv_ekos2ajwkcc-vo9y88ummtqqmgzlkuw7vg6bv29krs-oidjz85s1vntqpjxa3skh9von7_q_4hclmwbqypcunv3sgu_yf74ewgx92ksr0ae.jpeg)
 
-呢度提供多樣化嘅餐飲選擇，由披薩、調酒到生果拼盤都好適合多人一齊分享。
+呢度提供多樣化嘅餐飲選擇，由披薩、調酒到水果拼盤都好適合多人一齊分享。
 
-我自己好鍾意呢種「唔使正襟危坐食飯」嘅氛圍，可以一路傾偈、一路睇海、一路慢慢食。
+我自己好鍾意呢種「唔使正襟危坐食飯」嘅氛圍，可以一邊傾偈、一邊睇海、一邊慢慢食。
 
-而且佢哋好多套餐本身已經包埋嘢食同飲品，其實對於朋友聚會或者家庭出遊嚟講都幾方便。
+而且佢哋好多方案本身已經包埋餐點同飲品，其實對於朋友聚會或者家庭出遊嚟講都幾方便。
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1778585676251-mixcollage-12-may-2026-06-33-pm-1851.jpg)
 
 {{block:戶外}}
 
-## Locca Sea House 套餐介紹
+## Locca Sea House 方案介紹
 
-### Chill Pass（2人套餐）
+### Chill Pass（2人方案）
 
 適合情侶、小旅行、姊妹放空行程 💛
 
@@ -85,22 +86,22 @@ Locca Sea House 最大嘅魅力，我覺得係佢將「海景餐廳」、「Beac
 
 ### Sunny Bed（4人方案）
 
-呢個方案我覺得好適合一班朋友。
+呢個方案我覺得好啱一班朋友一齊去。
 
 內容包括：
 
 - 免費毛巾
-- 三選一Pizza
+- 三選一 Pizza
 - 生果拼盤
-- 一壺Sangria
+- 一壺 Sangria
 
-幾個人一齊坐喺Sunny Bed上面傾偈睇海，真係好有度假Feel。▶[Klook預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1275557&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F203837-locca-sea-house-in-jimbaran-bali%2F%3Fspm%3DLanguageCurrencySelectionPopup.SelectLanguage%26clickId%3D43e8d07a73)
+幾個人一齊坐喺 Sunny Bed 度傾偈睇海，真係好有渡假 feel。▶[Klook預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1275557&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F203837-locca-sea-house-in-jimbaran-bali%2F%3Fspm%3DLanguageCurrencySelectionPopup.SelectLanguage%26clickId%3D43e8d07a73)
 
 ***
 
 ### Booze Bed（4人酒精方案） 🍹
 
-如果想飲到微醺，呢個方案更加適合。
+如果想飲少少酒，呢個方案更加啱。
 
 內容包括：
 
@@ -108,19 +109,19 @@ Locca Sea House 最大嘅魅力，我覺得係佢將「海景餐廳」、「Beac
 - 免費毛巾
 - 可選酒款：Jameson / Absolut / Sababay
 - 生果拼盤
-- 一壺Sangria
+- 一壺 Sangria
 
-日頭入場，一路留到日落時分，氣氛真係會愈來愈正。▶[Klook預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1275557&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F203837-locca-sea-house-in-jimbaran-bali%2F%3Fspm%3DLanguageCurrencySelectionPopup.SelectLanguage%26clickId%3D43e8d07a73)
+日頭入場，一路留到日落時段，氣氛真係會愈來愈正。▶[Klook預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1275557&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F203837-locca-sea-house-in-jimbaran-bali%2F%3Fspm%3DLanguageCurrencySelectionPopup.SelectLanguage%26clickId%3D43e8d07a73)
 
 ## 親子家庭都好啱 👨‍👩‍👧‍👦
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1778584635644-dipy5qqxd-omn9fxk2aee1rurtyep6tyaszcap56z591swgsxpysmubymab1_thwo8eplehppt6wmjkv7zwuy_tkuesst7lv6u3zjmis_acc5j8_mu6hfdf9sc6pdrtoqevhbnp3r6x6qhp6nmvwbmftn-jxlhajltqdhf0zgywtj9kpmubmuu-1gt2samjt.jpeg)
 
-好多人會以為呢類海景 Beach Club 唔啱帶細路，但 Locca Sea House 其實對家庭非常友善。
+好多人會以為呢類海景 Beach Club 唔啱帶細路，但 Locca Sea House 其實對家庭好友善。
 
-空間闊落、唔會過度逼人，而且日頭整體氣氛好 relaxed。
+空間闊落、唔會過度逼，而且日頭整體氣氛好 chill。
 
-如果你係家庭旅行，日頭嚟其實非常舒服；如果係朋友旅行，就推薦留到傍晚 DJ 時段，感受完全唔同嘅氣氛。
+如果你係家庭旅行，日頭嚟其實好舒服；如果係朋友旅行，就推薦留到傍晚 DJ 時段，感受完全唔同嘅氣氛。
 
 ## 營業資訊
 
@@ -134,8 +135,8 @@ Locca Sea House 最大嘅魅力，我覺得係佢將「海景餐廳」、「Beac
 
 https://www.instagram.com/reel/DVqTCXNkzV_/?utm_source=ig_web_copy_link&igsh=NTc4MTIwNjQ2YQ==
 
-如果你最近正在規劃金巴蘭行程，又想搵一個能夠「放空成日」嘅地方，咁 Locca Sea House 確實好值得安排入去。
+如果你最近正計劃緊金巴蘭行程，又想搵個可以「放空成日」嘅地方，咁 Locca Sea House 真係好值得安排入去。
 
-尤其係日落時段，嗰種海風、音樂、陽光同微醺感交織埋一齊嘅氣氛，好有「呢個就係峇里島啊」嘅感覺。🌴
+尤其係夕陽時段，嗰種海風、音樂、陽光同微醺感交織埋一齊嘅氣氛，好有「呢個就係峇里島啊」嘅感覺。🌴
 
 {{block:jim}}

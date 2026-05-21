@@ -2,8 +2,8 @@
 slug: aurora-media-park-canggu
 title: 【坎古新景点】Aurora Media Park Bali｜AI技术打造出沉浸式的开放式森林体验
 description: >-
-  巴厘岛坎古的新景点——Aurora Park
-  Bali，是一个结合自然与多媒体互动技术的新地标。这个位于塔巴南县Nuanu创意区的景点，提供了一个约1公里长的开放式森林体验，充满了光影与声音的互动游戏，并运用人工智能（AI）技术打造出沉浸式的多媒体环境。游客可以在这片约5,000平方米的自然森林中
+  巴厘岛坎古的新景点——**Aurora Media Park
+  Bali**，是一个结合自然与多媒体互动技术的全新地标。这个位于塔巴南县Nuanu创意区的景点，提供了一个约1公里长的开放式森林体验，充满了光影与声音的互动游戏，并运用人工智能（AI）技术打造出沉浸式的多媒体环境。游客可以在这片约5,000平方米的自然森林中，感受到视觉与听觉的双重震撼，同时也能体验到心灵上的启发，仿佛进入了一个全新的维度。
 pubDate: '2025-02-01'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cc5db18ca42911abb50455b588e62dde.jpg'
 tags:
@@ -16,26 +16,23 @@ originalUrl: 'https://vocus.cc/article/679dddeafd89780001a820fd'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 3c97f0e77de88e438d057f41f4fea774
+_srcHash: d086c8f151ba810872191e789bdfee67
 ---
-
-巴厘岛坎古的新景点——**Aurora Media Park Bali**，是一个结合自然与多媒体互动技术的新地标。这个位于塔巴南县Nuanu创意区的景点，提供了一个约1公里长的开放式森林体验，充满了光影与声音的互动游戏，并运用人工智能（AI）技术打造出沉浸式的多媒体环境。游客可以在这片约5,000平方米的自然森林中，感受到视觉与听觉的双重震撼，同时也能体验到心灵上的启发，仿佛进入了一个全新的维度。
+### 看视频
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_88cd83cae8c36c0bc84450428436accd.jpg)
 
 ### 
 
-### 看视频
-
 Aurora Park已于2024年8月正式对外开放，根据Nuanu创始人Sergey Solonin的说法，每位来到Aurora Park的游客都能深刻感受到艺术、自然与科技之间的连接。他表示：“这里的沉浸式体验能激发灵感与惊叹，即使离开后，这种感受仍会长存于心。”
 
 ## 游览亮点：
 
+**Gate（入口）**
+
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2f6b9f1ed04ebe13792fc027236c8aa7.jpg)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ce51f823edc67e709dae2893a15016af.jpg)
-
-**Gate（入口）**
 
 游客一进入Aurora Park的大门，便会感受到数字互动的魔力。感应技术会自动向夜空发射白色光束，仿佛向宇宙宣告游客的到来。
 
@@ -44,6 +41,9 @@ Aurora Park已于2024年8月正式对外开放，根据Nuanu创始人Sergey Solo
 
 **Sundial（日晷）**  
 以螺旋形“编织”光影打造的日晷装置，艺术性地展示时间的流逝。激光与LED灯光结合沉思的音乐，让人感受到时间的流动。
+
+**Sundial（日晷）**  
+以螺旋形「編織」光影打造的日晷裝置，藝術性地展示時間的流逝。激光與LED燈光結合沉思的音樂，讓人感受到時間的流動。
 
 **Bahasa Pillar（语言柱）**  
 柱子上刻有印尼语诗句，并以梵文字母投影，描绘光之旅程。
@@ -59,7 +59,7 @@ Aurora Park已于2024年8月正式对外开放，根据Nuanu创始人Sergey Solo
 六面互动镜子围绕着闪烁的灯光，游客可以在镜中看到自己的倒影，并伴随着沉思的音乐。
 
 **Helix Root（螺旋根）**  
-由藤编制成的装置，结合3D螺旋灯光，连接桥梁与森林中的一座引人注目的雕塑。
+由藤编织成的装置，结合3D螺旋灯光，连接桥梁与森林中的一座引人注目的雕塑。
 
 **Crystal Oasis（水晶绿洲）**  
 这个装置展示了发光的钟乳石与水晶，形似大地之母的手掌。当游客站在前方时，水晶与周围区域会开始闪烁多彩的光芒，创造出魔幻的互动体验。

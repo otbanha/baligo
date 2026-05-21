@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/65717449fd89780001fda950'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: b22c34a62f8b47bdeee3a7e46fb1d2b8
+_srcHash: a0354bd64eb216531f2b46c7edb94abc
 ---
 
 ![一分鐘搞懂下飛機到出境的流程](https://images.gobaligo.id/vocus/vocus_1019ef9c6f5df198a383b2b7cd81d01c.png)
@@ -57,7 +57,7 @@ _srcHash: b22c34a62f8b47bdeee3a7e46fb1d2b8
 
 > 延伸阅读：[巴厘岛入境需要准备哪些文件？](/blog/indonesia-bali-visa-evoa-faq/)
 
-**开始享受你的假期！**
+**开始享受你的假期！**  
 通过海关后，恭喜您完成入境流程！现在可以前往接机大厅，与预订的司机或家人朋友会合，开启美好旅程！
 
 ➡️[更多巴厘岛超值优惠请点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️

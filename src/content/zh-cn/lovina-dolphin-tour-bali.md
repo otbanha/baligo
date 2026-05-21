@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6627b8f4fd89780001823c77'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 69b372ac9c1f9c4cd13aa1b59b43b788
+_srcHash: 8ccc88cf5d603508ea1b883e40c1096f
 ---
 
 身为印尼华人YouTuber的VY Journey冰冰晶晶,这次她展开了前往印尼巴厘岛北部Lovina Beach的旅程。通过这支影片,她以自己的观点,生动记录了整个行程。
@@ -31,7 +31,7 @@ _srcHash: 69b372ac9c1f9c4cd13aa1b59b43b788
 
 冰冰晶晶视频截图
 
-房间装潢虽然朴素,但必备的双人床、浴室等设备一应俱全。令她最满意的,当属那片宽敞的阳台,可以尽情欣赏海天一色的美景。
+房间装修虽然朴素,但必备的双人床、浴室等设备一应俱全。令她最满意的,当属那片宽敞的阳台,可以尽情欣赏海天一色的美景。
 
 ![他們入住的 Lovina Beach Club & Resort](https://images.gobaligo.id/vocus/vocus_6bf57fa7fba7d65835af20b1727a1f31.jpg)
 
@@ -67,6 +67,6 @@ _srcHash: 69b372ac9c1f9c4cd13aa1b59b43b788
 
 最后，冰冰晶晶将前往下一站Munduk，那里据说气候宜人凉爽，让人期待。这支视频记录了她Lovina Beach的经历与感受，从预订行程、抵达后的住宿环境、观赏海豚的过程，以及对当地的评价与建议，描述详尽而生动，让观众仿佛置身其中，与她一同体验这段难忘的旅程。
 
-## 详细的旅程记录请欣赏他们的视频：
+## 详细的旅程纪录请欣赏他们的视频：
 
 对巴厘岛北部行程有兴趣的朋友，请继续参考：[巴厘岛自由行注意事项：15个前往巴厘岛北部旅游的小贴士](/blog/north-bali-travel-guide/)

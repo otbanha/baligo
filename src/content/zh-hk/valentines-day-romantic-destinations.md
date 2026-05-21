@@ -15,10 +15,10 @@ category:
   - 旅行技巧
   - 遊記分享
 lang: zh-hk
-_srcHash: 36acaec2f9ea8f7fd1cc5d7c004f696f
+_srcHash: 5bce700aab8e6d13e499d8d265848a0f
 ---
 
-玫瑰花、蛋糕、朱古力，仲有浪漫嘅旅行地點，二月十四日嘅西洋情人節，你知唔知今年全世界最受歡迎嘅情人節旅遊目的地係邊啲城市？
+玫瑰花、蛋糕、朱古力，仲有浪漫嘅旅行地點，二月十四日嘅西洋情人節，你知道今年全世界最受歡迎嘅情人節旅遊目的地係邊啲城市嗎？
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_aa2d254bf0cc097ffe98b22e6d6fde35.jpg)
 
@@ -26,7 +26,7 @@ _srcHash: 36acaec2f9ea8f7fd1cc5d7c004f696f
 
 排喺第一位嘅係泰國著名嘅曼谷。呢座城市以其引人入勝嘅文化同旅遊景點而聞名全球。其次係日本嘅東京同大阪。
 
-除此之外，印尼嘅峇里島都喺清單之中。仲有布吉島，兩個擁有多樣海灘景點嘅城市。
+除此之外，印尼嘅峇里島亦喺清單之中。仲有布吉島，兩個擁有多樣海灘景點嘅城市。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6215ad9ad25ef58453bfc1181abcabf6.png)
 

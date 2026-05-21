@@ -15,7 +15,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: zh-hk
-_srcHash: 832fdc3522f424ead1a40e87008a477a
+_srcHash: 0cc47e25c99e380ef43663144ff0bbc7
 ---
 
 > 以下內容由團友 [林小昭](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 提供俾我哋重新編排：
@@ -46,7 +46,7 @@ _srcHash: 832fdc3522f424ead1a40e87008a477a
 
 林小昭提供
 
-我哋喺Klook訂購嘅「[Red Paddle Bali Adventure](https://affiliate.klook.com/redirect?aid=116349&aff_adid=901865&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F5504-ayung-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D65ec132ff9)」泛舟行程超乎預期咁精彩。教練們唔單止專業，而且非常體貼。特別係我哋嘅大仔喺途中有啲唔舒服，教練始終關心佢嘅狀況，令我哋感到非常安心。其他船上嘅教練都同樣友善，大家互相潑水、比賽超船，令2個鐘嘅泛舟活動充滿咗歡笑。我哋仲遇到咗嚟自沙烏地阿拉伯同韓國嘅遊客，大家傾得非常愉快，呢段經歷亦令我哋練習咗英文同韓文，實在係太有趣喇。
+我哋喺Klook訂購嘅「[Red Paddle Bali Adventure](https://affiliate.klook.com/redirect?aid=116349&aff_adid=901865&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F5504-ayung-white-water-rafting-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D65ec132ff9)」泛舟行程超乎預期咁精彩。教練們唔單止專業，而且非常體貼。特別係我哋嘅大仔喺途中有啲唔舒服，教練一直關心佢嘅狀況，令我哋感到非常安心。其他船上嘅教練都同樣友善，大家互相潑水、比賽超船，令2個鐘嘅泛舟活動充滿咗歡笑。我哋仲遇到咗嚟自沙烏地阿拉伯同韓國嘅遊客，大家傾得非常愉快，呢段經歷亦令我哋練習咗英文同韓文，實在係太有趣喇。
 
 「泛舟須知與常見問題」請睇[呢度](/blog/bali-rafting-ayung-telaga-waja/)
 
@@ -56,7 +56,7 @@ _srcHash: 832fdc3522f424ead1a40e87008a477a
 
 林小昭提供
 
-我哋嘅包車司機特家，唔單止令我哋嘅梯田同盪鞦韆願望一次滿足，仲帶我哋去咗好多隱藏嘅美景。特別係喺梯田盪鞦韆處，呢度嘅風景靚到令人屏息，而且仲提供出租長尾禮服，令我一下子變身成為仙女，實在係太夢幻喇！
+我哋嘅包車司機特家，唔單止令我哋嘅梯田同盪鞦韆願望一次過滿足，仲帶我哋去咗好多隱藏嘅美景。特別係喺梯田盪鞦韆處，呢度嘅風景靚到令人屏息，而且仲有得出租長尾禮服，令我一下子變身成為仙女，實在係太夢幻喇！
 
 > [烏布玩秋千：峇里島最美嘅8個鞦韆拍照勝地｜烏布鞦韆/租禮服攻略](/blog/ubud-jungle-swings-photo-guide/)
 
@@ -78,7 +78,7 @@ _srcHash: 832fdc3522f424ead1a40e87008a477a
 
 林小昭提供
 
-我哋喺烏布入住嘅Rijasa Agung酒店，坐落喺阿勇河畔，每日朝早起身就可以聽到潺潺嘅溪水聲，令人感到無比放鬆。呢度嘅溫度適宜，家庭房配有私人泳池、花園同發呆亭，空間寬敞到目測超過300坪，CP值超高，令我哋一家都感到無比滿意。
+我哋喺烏布入住嘅Rijasa Agung酒店，坐落喺阿勇河畔，每日朝早醒嚟就會聽到潺潺嘅溪水聲，令人感到無比放鬆。呢度嘅溫度適中，家庭房配有私人泳池、花園同發呆亭，空間闊落到目測超過300坪，CP值超高，令我哋一家都感到無比滿意。
 
 [**▶Rijasa Agung Resort and Villas 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341)
 
@@ -86,7 +86,7 @@ _srcHash: 832fdc3522f424ead1a40e87008a477a
 
 ### **Jungle Cart 叢林卡丁車——峇里島嘅新奇體驗**
 
-卡丁車可能好多人都玩過，但能夠直接喺烏布嘅叢林道路上駕駛，呢個係峇里島獨有嘅新玩法！我哋喺稻田景色中疾馳，途中仲有嗨歌前導車幫手確認路況，沿途有雞飛狗跳、牛慵懶地哞叫，30分鐘嘅體驗雖然短暫，但充滿咗無限樂趣。
+卡丁車可能好多人都玩過，但能夠直接喺烏布嘅叢林道路上駕駛，呢個係峇里島獨有嘅新玩法！我哋喺稻田景色中飛馳，途中仲有嗨歌前導車幫手確認路況，沿途有雞飛狗走、牛懶洋洋咁叫，30分鐘嘅體驗雖然短暫，但充滿咗無限樂趣。
 
 可以睇吓呢度有完整嘅介紹：[峇里島烏布叢林馬力歐賽車 Jungle Cart Bali](/blog/ubud-jungle-cart-adventure/)
 
@@ -96,9 +96,9 @@ _srcHash: 832fdc3522f424ead1a40e87008a477a
 
 ![上圖：最左邊是「特家」。 話不多，但有問必答，我覺得很好！ 下：中間穿黃色上衣的是「康哥」 超友善好聊，讓我們第一天就很放鬆自在（林小昭提供）](https://images.gobaligo.id/vocus/vocus_808c2ba46b677a47d5ab38edbac6e146.jpg)
 
-上圖：最左邊係「特家」。 話唔多，但有問必答，我覺得好好！ 下：中間着黃色上衣嘅係「康哥」 超友善好傾，令我哋第一日就放鬆自在（林小昭提供）
+上圖：最左邊係「特家」。 話唔多，但有問必答，我覺得好好！ 下：中間着黃色衫嘅係「康哥」 超友善好傾，令我哋第一日就好放鬆自在（林小昭提供）
 
-特別多謝我哋嘅包車司機康哥同特家，由接機到每日嘅行程安排，佢哋都非常友善、準時、貼心。康哥喺我大仔感冒之後仲特登打電話嚟關心，甚至提議車我哋去睇醫生或者買藥，咁嘅服務真係令人感動。特家更加喺出發前就同我細心溝通行程，仲主動幫手訂餐廳、聯絡泛舟、按摩同卡丁車嘅行程，成個過程都令我哋覺得非常順利同舒心。
+特別多謝我哋嘅包車司機康哥同特家，由接機到每日嘅行程安排，佢哋都非常友善、準時、貼心。康哥喺我大仔感冒之後仲特登打電話嚟關心，甚至提議車我哋去睇醫生或者買藥，咁嘅服務真係令人感動。特家更加喺出發前就同我細心溝通行程，仲主動幫手訂餐廳、聯絡泛舟、按摩同卡丁車嘅行程，整個過程都令我哋覺得非常順利同舒心。
 
 ## **結語**
 
@@ -116,7 +116,7 @@ _srcHash: 832fdc3522f424ead1a40e87008a477a
 - [烏布55項親子活動帶小朋友最輕鬆！](/blog/ubud-with-kids-guide/)
 - [峇里島最適合親子度假嘅海濱：沙努爾攻略地圖｜45項吃喝玩樂](/blog/sanur-guide/)
 - [峇里島親子一日遊攻略：探索野生動物園與紅鶴海灘俱樂部](/blog/bali-family-day-safari-flamingo/)
-- [峇里島親子遊唔可以錯過：峇里島動物園 Bali Safari 要點玩樂、夜宿攻略](/blog/bali-safari-night-stay/)
+- [峇里島親子遊唔可以錯過：峇里島動物園 Bali Safari 要點樣玩樂、夜宿攻略](/blog/bali-safari-night-stay/)
 - [2025新開幕](/blog/marine-safari-bali-guide/) [Marine Safari Bali 峇里島海洋野生動物園攻略](/blog/marine-safari-bali-guide/)
 - [與羊駝互動野餐：孩子們嘅自然課堂](/blog/pacha-alpaca-family-canggu/)
 - [Nuanu Creative City 嘅魔法花園 Magic Garden](/blog/nuanu-magic-garden-bali/)
@@ -129,17 +129,17 @@ _srcHash: 832fdc3522f424ead1a40e87008a477a
 - [峇里島睇海龜全指南：由庫塔到沙努爾，親子必訪嘅海龜保育據點](/blog/bali-turtle-watching-guide/)
 - [Bali Bird Park 峇里島鳥園終極攻略：珍稀鳥種、互動活動與生態保育嘅奇幻旅程](/blog/bali-bird-park-guide/)
 - [The Firefly Garden 螢火蟲花園：峇里島最閃耀嘅生態保育與旅遊勝地](/blog/the-firefly-garden-ubud/)
-- [🎮 ZONE OUT Bali：庫塔最型嘅虛擬實境冒險基地！](/blog/zone-out-bali-vr-adventure/)
+- [🎮 ZONE OUT Bali：庫塔最酷嘅虛擬實境冒險基地！](/blog/zone-out-bali-vr-adventure/)
 - [夜幕下嘅幻光雨林：峇里島烏布Hikaria沉浸式光影藝術體驗](/blog/hikaria-ubud-light-show/)
 - 峇里島家庭親子旅遊專欄
 
-你覺得林小昭佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家到社團投稿你嘅行程喔！
+你覺得林小昭佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦歡迎大家到社團投稿你嘅行程喔！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_137fe43eee9cd34e911e4936d55e3b61.jpg)
 
-點擊呢度睇更多峇里島精彩遊記
+撳呢度睇更多峇里島精彩遊記
 
-你都想寫遊記但唔知點樣開始？可以參考吓「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
+你都想寫遊記但唔知點落手？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
 
 ## 參考攻略：
 

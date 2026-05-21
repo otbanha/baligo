@@ -1,7 +1,7 @@
 ---
 slug: taman-tukad-korea-dempasar
 title: '巴厘岛新景点｜Taman Tukad Korea 韩国河滨公园｜清溪川｜Taman Kumbasari in Denpasar, Bali'
-description: 探索巴厘岛美景，「韩国清溪川河滨公园」怎么搬到了巴厘岛的登巴萨了？！
+description: 探索巴厘岛美景，「韩国清溪川河滨公园」怎么搬到了巴厘岛的 Denpasar了？！
 pubDate: '2022-03-03'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2b71bc354e0d5867d667cc02907fe88b.jpg'
 tags:
@@ -14,17 +14,17 @@ originalUrl: 'https://vocus.cc/article/64db6b78fd897800013a9622'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 5b3075c2797968a44d593881f0cedd68
+_srcHash: 73ff47d261051f618caeeae4b60dc2db
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_498ee7f36925a8e9d53a0b9cf326a3cc.jpg)
 
-探索巴厘岛美景，「韩国清溪川河滨公园」怎么搬到了巴厘岛的登巴萨了？！
+探索巴厘岛美景，「韩国清溪川河滨公园」怎么搬到了巴厘岛的 Denpasar了？！
 
-距离机场仅30分钟车程，位于巴东传统市场和昆巴莎丽艺术市场之间的河滨公园，正式名称是「Taman Kumbasari（昆巴莎丽公园）」。但人们将其称为「Taman Tukad Korea（韩国河流公园）」，因为它的模样酷似首尔清溪川（청계천）。
+距离机场仅30分钟车程，位于 Badung Traditional Market 和 Kumbasri Art Market 之间的河滨公园，正式名称是「Taman Kumbasari（昆巴莎丽公园）」。但人们将其称为「Taman Tukad Korea（韩国河流公园）」，因为它的模样酷似首尔清溪川（청계천）。
 
 曾经是臭水沟，如今却蜕变成了一个令人心驰神往的公园，巴厘岛的河川改造令人赞叹。在这里，您可以感受到自然和现代的融合，绵延的步道、凉亭和悠闲的环境，让您仿佛置身于韩国的清溪川。
 
 点击下面影片，一窥这个美丽复制品的神秘风采，体验巴厘岛的自然魅力和独特之处，让您的旅程充满难忘的回忆！
 
-在巴厘岛的这个神秘角落，您可以漫步于河滨，欣赏清新的风景，感受着和谐的氛围。这个风景如画的地方，成为当地居民和游客放松心情的好去处。旁边的「昆巴莎丽艺术市场」是一个大型的巴厘岛服饰、纪念品批发市场，来看看小杰的游记吧！
+在巴厘岛的这个神秘角落，您可以漫步于河滨，欣赏清新的风景，感受着和谐的氛围。这个风景如画的地方，成为当地居民和游客放松心情的好去处。旁边的「Kumbasri Art Market」是一个大型的巴厘岛服饰、纪念品批发市场，来看看小杰的游记吧！

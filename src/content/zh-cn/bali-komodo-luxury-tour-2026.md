@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6680c949bff873153e488598381a7ca6.png'
 originalUrl: 'https://vocus.cc/article/673c7478fd89780001db176b'
 lang: zh-cn
-_srcHash: 4ab1f3f28924b60b14f09b3887432729
+_srcHash: e582dd356e574c37c52fb5cb20dfbfb4
 ---
 
 ## ❗❗2026/5新优惠，含台北直飞巴厘岛机票 USD$1,350/人❗❗

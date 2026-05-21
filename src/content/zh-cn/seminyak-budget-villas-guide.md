@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_16c256b70aee5f839bf1ed7952ac49bb.jpg'
 originalUrl: 'https://vocus.cc/article/66ee9770fd89780001306753'
 lang: zh-cn
-_srcHash: 8fdd9f19ea46d7d043af3cbc3ae158f5
+_srcHash: 5412575b8cfb57297b09aa20b26e32e6
 ---
 
 # 水明漾好评的平价别墅
@@ -205,7 +205,7 @@ Desamuda Village 是一个浪漫与奢华结合的美丽村落，隐藏在热带
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774353376025-426440958.jpg)
 
-Vinna Villa Seminyak 位于克罗柏坎，是一个宁静的避世之地，提供免费Wi-Fi和美丽的池景。这栋别墅特别适合想要放松的旅客，设有室外游泳池、花园和露台，并且距离皮特腾格特寺庙仅3.3公里，方便探索当地景点。
+Vinna Villa Seminyak 位于克罗柏坎，是一个宁静的避世之地，提供免费Wi-Fi和美丽的池景。这栋别墅特别适合想要放松的旅客，设有室外游泳池、花园和露台，并且距离皮特腾格特庙仅3.3公里，方便探索当地景点。
 
 * **位置**: 距离伍拉赖国际机场11公里，并提供付费机场接驳服务，当地便利店和洗衣店仅需步行2分钟即可到达。
 * **客房**: 一卧室别墅，提供毛巾、寝具、免费盥洗用品和吹风机，空调起居室舒适宽敞。

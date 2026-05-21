@@ -3,8 +3,7 @@ slug: bali-heat-stroke-tips
 title: 【巴厘岛生存指南】中暑了怎么办？当地人才知道的 3 大消暑神水与SPA、急救建议！
 description: >-
   在巴厘岛旅游时，由于气候湿热，中暑（Heat Exhaustion/印尼文 Kelelahan
-  panas）或热衰竭是相当常见的状况。除了标准的躲进阴凉处和大量喝水外，巴厘岛当地有一些非常有特色的「解暑良方」可以帮助你快速恢复：  1.
-  巴厘岛当地的「清凉」饮品  巴厘岛人有很多祖传的草本饮品（称为
+  panas）或热衰竭是相当常见的状况。除了标准的躲进阴凉处和大量喝水外，巴厘岛当地有一些非常有特色的「解暑良方」可以帮助你快速恢复：
 pubDate: 2026-01-18T00:00:00.000Z
 category:
   - 旅行技巧
@@ -12,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_94254ac3e4069d41f34f53f5bee000e2.jpg'
 originalUrl: 'https://vocus.cc/article/696c7229fd897800017d45da'
 lang: zh-cn
-_srcHash: 0481615da82d9a5c279772d42478d047
+_srcHash: 792f711b7b4c3a973591ef49cdd7c095
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0d7db454b968029e4ed332b57c147411.jpg)
@@ -23,7 +22,7 @@ _srcHash: 0481615da82d9a5c279772d42478d047
 
 巴厘岛人有很多祖传的草本饮品（称为 Loloh），对降火气和补充水分非常有效：
 
-- **Loloh Cemcem（青草药汁）：** 这是巴厘岛最地道的解暑神水，特别是在乌布（Ubud）或彭丽普兰（Penglipuran）一带。它呈绿色，喝起来酸甜微咸，是用 **Cemcem 叶**（一种当地的药草）、椰糖、肉桂和罗望子调配而成，当地人认为它能有效缓解「体内燥热」（Panas Dalam）。
+- **Loloh Cemcem（青草药汁）：** 这是巴厘岛最道地的解暑神水，特别是在乌布（Ubud）或彭丽普兰（Penglipuran）一带。它呈绿色，喝起来酸甜微咸，是用 **Cemcem 叶**（一种当地的药草）、椰糖、肉桂和罗望子调配而成，当地人认为它能有效缓解「体内燥热」（Panas Dalam）。
 - **Kelapa Muda（新鲜椰子水）：** 这是最容易找到的天然电解质。建议选择「绿椰子」（Kelapa Hijau），它的含糖量较低且电解质极高。喝完後可以请店家帮你把椰肉刮下来吃，椰肉有润燥的效果。
 - **Jamu Kunyit Asam（姜黄罗望子饮）：** 这种明黄色的草药饮在各大超市和路边摊都有卖。姜黄可以抗炎，罗望子则有极佳的冷却身体作用。
 
@@ -35,7 +34,7 @@ _srcHash: 0481615da82d9a5c279772d42478d047
 ## 3. 特色的当地疗法
 
 - **Boreh 草药敷体：** 虽然传统的 Boreh 偏向温热排湿，但有些 SPA 提供「Cooling Boreh」，使用黄瓜、芦荟或檀香，敷在发烫的皮肤上能快速降温并修复晒伤。
-- **Balinese Massage（巴厘岛式按摩）：** 轻微中暑後，血液循环可能变差。等体温稍降後，进行一次轻柔的按摩可以放松紧绷的肌肉（但若正处于高烧状态请避免）。
+- **Balinese Massage（巴厘岛式按摩）：** 轻微中暑后，血液循环可能变差。等体温稍降后，进行一次轻柔的按摩可以放松紧绷的肌肉（但若正处于高烧状态请避免）。
 
 ## 4. 现代巴厘岛旅游「解方」：IV Drip（静脉点滴）
 

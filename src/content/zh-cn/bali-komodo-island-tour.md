@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66dd1eb3fd897800015bf1d0'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 9aff5025e796a62d546b6643037ec098
+_srcHash: c0b667aed55ad2b0e98a950ba2b35bf1
 ---
 
 > 以下内容改编自团友 [Tyty Chow](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) 分享游记：
@@ -37,11 +37,11 @@ _srcHash: 9aff5025e796a62d546b6643037ec098
 
 **线上订购：**
 
-[巴图尔火山吉普车越野+徒步之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)
+[巴杜尔火山吉普车越野+徒步之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)
 
-阿勇河漂流，很长一段，不会太刺激也不会太平稳，很舒适的漂流体验（Tyty Chow提供）：
+阿勇河漂流，很长一条，不会太刺激也不会太平稳，很舒适的漂流体验（Tyty Chow提供）：
 
-**在线订购：**
+**线上订购：**
 
 [阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
 

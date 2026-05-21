@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66d86afafd8978000199d546'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 1f54a14783ec95c9def660b47dad894e
+_srcHash: b27bfb82ae281347caed48e494d8ea10
 ---
 
 ### 认识台湾全服务航空公司「星宇」
@@ -47,7 +47,7 @@ Starlux Airlines的台北-雅加达航线每周运营五次，分别为星期二
 
 ### Starlux计划飞往巴厘岛
 
-除了目前已开通的台北至雅加达航线外，Starlux Airlines也正在计划飞往巴厘岛。他们正在精心计算从台湾台北飞往巴厘岛的最佳时间，以确保这条新航线的成功开通。巴厘岛作为印尼的顶级旅游胜地，一直吸引着全球各地的游客。Starlux Airlines希望通过这条新航线，为来自台湾和其他国家的旅客提供更便利、更优质的旅游选择。
+除了目前已开通的台北至雅加达航线外，Starlux Airlines也正在计划飞往巴厘岛。他们正在精心计算从台湾台北飞往巴厘岛的最佳时间，以确保这条新航线的成功开通。巴厘岛作为印尼的顶级旅游胜地，一直吸引着全球各地的游客。Starlux Airlines希望通过这条新航线，为来自台湾和其他国家的旅客提供更便利、更高质量的旅游选择。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_853089ec747ba33cc3aef1679d018364.jpg)
 

@@ -15,7 +15,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-cn
-_srcHash: d17d290e3d15b9f7e0fb23dd5c313cba
+_srcHash: 085ca93aeb9047f960c03c26ab4a1c87
 ---
 
 印尼总统佐科威（Joko Widodo）近日宣布，13个国家公民可以享受免签证进入印尼的待遇。这项政策是基于互惠原则以及对印尼国家经济利益的考量，希望借此增加国家收入，支持国内经济发展。
@@ -50,7 +50,7 @@ _srcHash: d17d290e3d15b9f7e0fb23dd5c313cba
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_05d8056aa79596f2f9108999a2456902.jpg)
 
-根据现行规定，台湾公民入境印尼可以申请落地签证或“电子落地签证（eVOA）”，费用为50万印尼盾（约USD$32），允许停留30天，并可申请延长一次。
+根据现行规定，台湾公民入境印尼可以申请落地签证或“电子落地签证（eVOA）”，费用为50万印尼盾（约合USD$32），允许停留30天，并可申请延长一次。
 
 > 延伸阅读：[2024最新版印尼/巴厘岛入境签证&电子签证eVoA 填写相关 FAQ](/blog/indonesia-bali-visa-evoa-faq/)
 

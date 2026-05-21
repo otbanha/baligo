@@ -1,6 +1,6 @@
 ---
 slug: bali-bamboo-villa-experience
-title: 巴厘岛一晚居然不到USD$65!? 住这里是什么感觉? 体验巴厘岛隐世竹子民宿
+title: '巴厘岛一晚居然不到$2,000!? 住这里是什么感觉? 体验巴厘岛隐世竹子民宿'
 description: 巴厘岛树屋型式的竹子别墅 bamboo villa住宿体验
 pubDate: 2024-04-04T00:00:00.000Z
 category:
@@ -35,7 +35,7 @@ agoda_star_rating: 4
 latitude: -8.508825619969254
 longitude: 115.25057328414368
 lang: zh-cn
-_srcHash: f464256ecc32befbd6fb7c7d7f56d22a
+_srcHash: 4af7fd532055dd3b33947216cbe47afd
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c62a1ab2c4b39417175e2de5c99ef7b0.jpg)
@@ -65,4 +65,4 @@ https://youtu.be/6dVUu_xXM0s?si=4FBvRasS_wQ1OInu
 
 ## 你也想住 bamboo villa 吗?
 
-请看这里有[推荐的10家令人叹为观止的树屋 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
+请查看这里推荐的10家令人叹为观止的树屋/竹屋（tree house/bamboo villa）[链接](/blog/ubud-treehouse-bamboo-villa-stays/)

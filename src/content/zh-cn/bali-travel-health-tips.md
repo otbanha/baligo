@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f7918fec37b1a415067a0ef81e604462.png'
 originalUrl: 'https://vocus.cc/article/65b32e1ffd8978000170519b'
 lang: zh-cn
-_srcHash: 57d5eed2128aa715a4fafc6a8d5c7d92
+_srcHash: bf83b73620cf181c1305d6fb53546e6b
 ---
 
 旅行时保持身体健康是最重要的课题！巴厘岛，这片令人着迷的土地，充满了令人难以置信的美景和令人难忘的体验。然而，在您探索这个美丽的目的地时，请记得保护您的健康，因为在这里，我们每天都要吃下肚子的饮用水和食品卫生是需要格外留心的。如果旅游时身体出现异样，可能整个旅程都可能泡汤了哩！
@@ -52,7 +52,7 @@ _srcHash: 57d5eed2128aa715a4fafc6a8d5c7d92
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6ca70e37df46a2f3bcd0338a0bda4d23.jpg)
 
-> 看来这两种药真的要看腹泻的情况来吃：**Entrostop可能只适合一般的普通腹泻**，价格是1美元一板；**imodium loperamide适合那种急性腹泻**，拉肚子拉稀水那种，价格是3美元一板，是Entrostop的10倍。再次谢谢小杰的推荐！」
+> 看来这两种药真的要看腹泻的情况来吃：**Entrostop可能只适合一般的普通腹泻**，价格是1美元一板；**imodium loperamide适合那种急性腹泻**，拉肚子拉稀水那种，价格是10美元一板，是Entrostop的10倍。再次谢谢小杰的推荐！」
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3492fe649d1b46ef46788731bf208c73.png)
 

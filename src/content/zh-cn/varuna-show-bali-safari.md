@@ -1,9 +1,9 @@
 ---
 slug: varuna-show-bali-safari
-title: 巴厘岛海洋公园 Varuna Show 指南：水下剧场票价、交通建议与 Bali Safari 一日游安排
+title: 巴厘岛海洋公园 Varuna Show 指南：水下剧场票价、交通建议与 Bali Safari 一日游排法
 description: >-
   带小孩去巴厘岛必看的国际级演出！详解位于吉安雅 (Gianyar) 的 Varuna Show 入园流程。整理水下剧场的场次时间、与 Bali Safari
-  陆地探险的完美行程组合。提供亲子观赏技巧与园内用餐细节，让您的亲子之旅既有教育意义又充满感官惊喜。
+  陆上探险的完美行程组合。提供亲子观赏撇步与园内用餐细节，让您的亲子之旅既有教育意义又充满感官惊喜。
 pubDate: 2025-06-08T00:00:00.000Z
 category:
   - 家庭親子
@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7621e66d231e7fe9037030687a8b8224.jpg'
 originalUrl: 'https://vocus.cc/article/684569f0fd89780001f24ef9'
 lang: zh-cn
-_srcHash: 2e87654d5d5b83ce810f01538a94fd51
+_srcHash: 45ae85b2468dacf00c2c081cc52cdba1
 ---
 
 这次的巴厘岛之行，最让我难忘的莫过于在Marine Safari Bali体验的《Varuna Show》了！这个结合魔幻、灯光与特技的水下剧场，完全颠覆了我对海洋公园表演的想象。

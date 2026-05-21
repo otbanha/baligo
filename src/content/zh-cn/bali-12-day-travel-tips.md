@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66d4538ffd897800012f025a'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 7a6ee651551f7bb21d68931545d22f8f
+_srcHash: 1ffabee4e2c3eeb524aaff8d7a9858ff
 ---
 
 ### 巴厘岛12天行程规划心得分享
@@ -80,7 +80,7 @@ _srcHash: 7a6ee651551f7bb21d68931545d22f8f
 
 ## 旅途中最特别的住宿推荐
 
-我们在乌布住了5天，后来有3天跑去山上休息，推荐一家名为**Aurora Cabins by Panoramika**的民宿。这是一家拥有非常高评价的住宿。住宿的小屋海拔近 900m，毗邻咖啡种植园，面向东方，是体验山区生活的绝佳方式。从这里看日出非常壮观。远处可以看到阿贡火山，左边是巴杜尔山。房间温馨、舒适且设备齐全。真的很特别。
+我们在乌布住了5天，后来有3天跑去山上休息，推荐一家名为**Aurora Cabins by Panoramika**的民宿。这是一家拥有非常高评价的住宿。住宿的小屋海拔近 900m，毗邻咖啡种植园，面向东方，是体验山区生活的绝佳方式。从这里看日出非常壮观。远处可以看到阿贡火山，左边是巴图尔山。房间温馨、舒适且设备齐全。真的很特别。
 
 [**▶Aurora Cabins by Panoramika 订房链接**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47466423)
 
@@ -89,11 +89,11 @@ _srcHash: 7a6ee651551f7bb21d68931545d22f8f
 （视频由林俊宏提供）
 
 **延伸阅读：**  
-[佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
+[佩尼达岛住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
 
 总的来说，巴厘岛是一个适合慢节奏生活和休息创作的好地方。希望这次的心得分享能对你的巴厘岛旅行有所帮助！🌴
 
-您觉得 林俊宏 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得 林俊宏 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0e397cdf23c01f19a8351b1ab42fac70.jpg)
 
@@ -115,5 +115,5 @@ _srcHash: 7a6ee651551f7bb21d68931545d22f8f
 - [佩尼达岛吃喝玩乐全攻略](/blog/nusa-penida-guide/)
 - [蓝梦岛/金银岛景点全攻略](/blog/nusa-lembongan-ceningan-guide/)
 - [Nuanu Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
-- [科摩多岛攻略](/blog/komodo-island-labuan-bajo-travel/)
+- [科莫多岛攻略](/blog/komodo-island-labuan-bajo-travel/)
 - [Amed/Tulamben攻略](/blog/amed-tulamben-diving-guide/)

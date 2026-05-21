@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0b2a80bca6d13f204b5a0e41bf717e85.jpg'
 originalUrl: 'https://vocus.cc/article/68fc59fdfd89780001842abe'
 lang: zh-cn
-_srcHash: a2a865f3ff630bbca294b7b80875e5cf
+_srcHash: e22d753cba7f46cfcf096041544ddc31
 ---
 
 巴厘岛以印度教寺庙闻名，但其实岛上也有几座充满东方色彩的中式佛教寺庙。这些寺庙不仅展现了华人移民在巴厘岛的历史痕迹，也成为旅人寻找静心与文化融合的独特角落。

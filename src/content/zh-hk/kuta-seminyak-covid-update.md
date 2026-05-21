@@ -1,8 +1,8 @@
 ---
 slug: kuta-seminyak-covid-update
-title: 峇里島庫塔｜水明漾現況｜冇遊客嘅峇里島｜最新情況更新
+title: 峇里島庫塔｜水明漾現況｜冇遊客嘅峇里島｜最新狀況更新
 description: >-
-  印尼峇里島 2020/10月最新情況。去峇里島旅行觀光，最旺嘅庫塔、水明漾一片冷清嘅景象。因為 Corona virus
+  印尼峇里島 2020/10月最新現況。去峇里島旅遊，最熱鬧嘅庫塔、水明漾一片淒涼嘅景象。因為 Corona virus
   嘅影響，旅遊勝地嘅峇里島正經歷一場前所未有嘅蕭條...
 pubDate: '2020-10-09'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_aaaa43806bd6f1989a7769ba5df82635.png'
@@ -16,9 +16,9 @@ originalUrl: 'https://vocus.cc/article/64db6b70fd897800013a93fe'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 365a9c4e960379a8124937920515b94c
+_srcHash: 90074b21ad71a5f2f1068b092c16c1e7
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5945f572e93cd251dcb51c84aa6a5af4.png)
 
-印尼峇里島 2020/10月最新情況。去峇里島旅行觀光，最旺嘅庫塔、水明漾一片冷清嘅景象。因為 Corona virus 嘅影響，旅遊勝地嘅峇里島正經歷一場前所未有嘅蕭條...
+印尼峇里島 2020/10月最新現況。去峇里島旅遊，最熱鬧嘅庫塔、水明漾一片淒涼嘅景象。因為 Corona virus 嘅影響，旅遊勝地嘅峇里島正經歷一場前所未有嘅蕭條...

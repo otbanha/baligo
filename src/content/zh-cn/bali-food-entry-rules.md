@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: d27d1f58677a3b01f7a3ef1d3861b87f
+_srcHash: f207120a01edd7330a6409e23dd8808f
 ---
 
 近期在一个以巴厘岛与印尼旅游为主题的Facebook社团中，有网友抛出一个相当实际的问题：是否可以携带台湾常见的麻油鸡泡面、花雕鸡泡面入境印尼？此问题迅速引发大量讨论，留言区也呈现出一种「经验分享派」与「规定模糊派」并存的现象。

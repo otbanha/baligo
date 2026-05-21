@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67d13fd1fd89780001c6887f'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 346ff18ee7afcc86e6f36b44dde0b9bb
+_srcHash: 09d0297192e14a32a48936aaba800985
 ---
 
 巴厘岛的基础建设正如火如荼地进行，目标是在2028年全面完成多项重大工程，让旅游与生活更便利。以下是几个值得关注的重点项目。
@@ -61,7 +61,7 @@ Besakih寺庙是巴厘岛最神圣的宗教圣地，政府计划于2026年开始
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_72f78e28f3bd99c5de7b3888a31b57cf.jpg)
 
-支持者呼吁将此计划列为「国家战略项目」（PSN），以获得中央政府的资金支持。2022年3月29日，巴厘省公共工程与住房局（PUPR）局长IB Surya Suamba证实，巴东县长I Nyoman Giri Prasta已签署书面建议，将原定以公私合伙模式进行的计划改为国家战略项目。此建议已提交国家发展规划部（Bappenas），若获批准，中央政府将承担全额费用。
+支持者呼吁将此计划列为“国家战略项目”（PSN），以获得中央政府的资金支持。2022年3月29日，巴厘省公共工程与住房局（PUPR）局长IB Surya Suamba证实，巴东县长I Nyoman Giri Prasta已签署书面建议，将原定以公私合伙模式进行的计划改为国家战略项目。此建议已提交国家发展规划部（Bappenas），若获批准，中央政府将承担全额费用。
 
 计划分段：
 

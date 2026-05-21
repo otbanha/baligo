@@ -16,18 +16,18 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5276a5cd990c91278a453346f478d041.jpg'
 originalUrl: 'https://vocus.cc/article/6707c8e2fd897800014d3db5'
 lang: en
-_srcHash: ebd87c896d4461b660fb13633389d27d
+_srcHash: 8af66c5198cff3c930245f9fbe2ae556
 ---
 
-In Bali, water is not only the source of life but also a sacred element. For the Balinese, spring water is called "Tirta," a life-giving and purifying force that sustains all existence. Tirta plays a crucial role in almost all religious ceremonies, believed to purify the mind, body, and spirit, cleanse negative energy, and bring blessings.
+In Bali, water is not only the source of life but also a sacred element. For the Balinese, spring water is called "Tirta," a life-giving and purifying force that sustains all existence. Tirta plays a vital role in nearly all religious ceremonies, believed to purify the mind, body, and spirit, cleanse negative energy, and bring blessings.
 
-If you wish to delve deeper into Bali's cultural and spiritual heritage, take the time to explore two renowned water palaces and temples - **Tirta Gangga** and **Pura Tirta Empul**. Let's discover the unique charm of these two sacred sites together.
+If you wish to delve deeper into Bali's cultural and spiritual heritage, take the time to explore two renowned water palaces and temples - **Tirta Gangga** and **Pura Tirta Empul**. Let's uncover the unique charm of these two sacred sites.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_daa2c7b876bb63a589fcdb9e5d85154d.jpg)
 
 ## Tirta Gangga: The Serene Water Palace
 
-Tirta Gangga (translated as **Tirta Gangga Water Palace** or **Ganges Sacred Spring Garden**) is nestled in the lush hills of eastern Bali, a captivating water palace. This 1.2-hectare site was built in 1946 by the last king of Karangasem, blending Balinese and Chinese architectural styles.
+Tirta Gangga (translated as **Tirta Gangga Water Palace** or **Ganges Sacred Spring Garden**) is nestled in the lush hills of eastern Bali, a captivating water palace. Built in 1946 by the last king of Karangasem, this 1.2-hectare site blends Balinese and Chinese architectural styles.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_366be6165bbc016df666dfe1b6176fbe.jpg)
 
@@ -36,8 +36,8 @@ Tirta Gangga (translated as **Tirta Gangga Water Palace** or **Ganges Sacred Spr
 The palace is divided into three levels, each offering a unique experience:
 
 - The lowest level features large ponds filled with koi fish, adorned with statues of Hindu deities.
-- The middle level is home to the iconic eleven-tiered Nawa Sanga fountain, symbolizing the nine directions in Balinese cosmology.
-- The highest level is the sacred pool, where the spring water flows and gathers.
+- The middle level is dominated by the iconic eleven-tiered Nawa Sanga fountain, symbolizing the nine directions in Balinese cosmology.
+- The highest level is the sacred pool, where the holy spring water flows and gathers.
 
 Tirta Gangga is not only a visual marvel but also a place of profound spiritual significance. Visitors can:
 
@@ -47,7 +47,7 @@ Tirta Gangga is not only a visual marvel but also a place of profound spiritual 
 
 The best time to visit is during the dry season from April to October. Remember to dress modestly and respect local customs.
 
-> Further reading: [A Slice of Paradise! Top 3 Attractions in East Bali: Lempuyang Temple, Tirta Gangga, and Ujung Water Palace](/blog/bali-east-tour-guide/)
+> Further reading: [Truly a Fairyland! Three Must-See Attractions in Eastern Bali: Gates of Heaven, Tirta Gangga, and Ujung Water Palace](/blog/bali-east-tour-guide/)
 
 {{block:戶外}}
 
@@ -55,7 +55,7 @@ The best time to visit is during the dry season from April to October. Remember 
 
 https://youtube.com/shorts/fiYs5GKdINU
 
-Tirta Empul Temple (translated as **Holy Water Temple**) is located in Ubud, central Bali, and is one of the island's most spiritually significant sites. Built in 960 AD, this temple is said to house sacred springs created by the god Indra, known for their healing properties. It is renowned for its holy water, which plays a vital role in Balinese Hindu purification rituals.
+Tirta Empul Temple (translated as **Holy Water Temple**) is located in Ubud, central Bali, and is one of the island's most spiritually significant sites. Built in 960 AD, this temple is said to house sacred springs created by the god Indra, known for their healing properties. It is renowned for its holy water's crucial role in Balinese Hindu purification rituals.
 
 The temple is divided into three main courtyards:
 
@@ -65,14 +65,14 @@ The temple is divided into three main courtyards:
 
 The most striking experience at Tirta Empul is participating in the 'Melukat purification ritual.' The purification pool has 13 spouts, each representing a different spiritual purpose. Devotees immerse themselves in the water at each spout and pray to cleanse their body and mind.
 
-Important notes:
+Notably:
 
-- The temple is open to the public, and visitors are welcome to join the purification ritual
+- The temple is open to the public, welcoming visitors to participate in purification rituals
 - Sarongs and sashes are required (provided free by the temple)
 - The best times to visit are early morning or evening to avoid crowds
-- Two spouts are reserved for cleansing the deceased and are prohibited for melukat rituals
+- Two spouts are reserved for cleaning the deceased and are prohibited for melukat rituals
 
-**For a more detailed guide, check out:** [**Tirta Empul Complete Guide**](/blog/tirta-empul-temple-guide/)
+**For further tips, refer to:** [**Complete Guide to Tirta Empul**](/blog/tirta-empul-temple-guide/)
 
 ![2016年小傑在聖泉寺](https://images.gobaligo.id/vocus/vocus_4f009e23b2961e9bbeaefb0a4ee8b71e.jpg)
 

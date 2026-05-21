@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_96e2c52ee704e6326899a5415c470a40.jpg'
 originalUrl: 'https://vocus.cc/article/693f6a41fd89780001862bd4'
 lang: zh-cn
-_srcHash: d4bb77219d229c219ed473ab5eb6c8b3
+_srcHash: e6afd7b9121ae74711fe90fd797d57fe
 ---
 
 巴厘岛拥有多样化的自然景观与深厚文化底蕴。从梯田、火山、海滩，到寺庙与街景，每一处都充满画面感。
@@ -62,7 +62,7 @@ _srcHash: d4bb77219d229c219ed473ab5eb6c8b3
 
 巴厘岛传统服饰融合宗教、美学与手工工艺。
 
-穿上沙龙、腰布与头饰后，整体氛围瞬间转换，极具文化深度。
+穿上纱笼、腰布与头饰后，整体氛围瞬间转换，极具文化深度。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_de3aa30663aad14db9d0327ca03a15b5.jpg)
 

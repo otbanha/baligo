@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/679acca0fd89780001f544a0'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: f3333978334e2c869e6270fffea8450a
+_srcHash: 4d371785fb7577fa2ee9c24796adb110
 ---
 
 [🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
@@ -95,7 +95,7 @@ _srcHash: f3333978334e2c869e6270fffea8450a
 
 根据新规定，只有持有巴厘岛身份证的居民才能注册为网约车司机。
 
-### **5. 这项政策是否有助改善巴厘岛交通？**
+### **5. 这项政策有助于改善巴厘岛交通吗？**
 
 是的，减少外地车辆的流入，有助于降低交通拥堵，改善当地的交通秩序。
 

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/67d0f17dfd89780001adcccd'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: a3a508225f83af064fcfd048576fd1ef
+_srcHash: 4c3e22ee6959451996b4716881714a45
 ---
 
 ### 巴厘岛政府确认即将到来的宁静日游客必须遵守的规则

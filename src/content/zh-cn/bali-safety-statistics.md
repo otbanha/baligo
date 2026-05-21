@@ -1,7 +1,7 @@
 ---
 slug: bali-safety-statistics
 title: 巴厘岛安全吗？数据告诉你为何它成为最受信赖的旅游天堂
-description: 巴厘岛安全吗？2024数据显示巴厘岛以4.74分安全指数荣登印尼最安全省份，旅客可安心前往。
+description: 巴厘岛安全吗？2024年数据显示巴厘岛以4.74分安全指数荣登印尼最安全省份，旅客可安心前往。
 pubDate: 2025-09-22T00:00:00.000Z
 category:
   - 旅行技巧
@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d087eaa7c2eeea2dd449b938c50e441c.png'
 originalUrl: 'https://vocus.cc/article/68d0d2bffd8978000169d78d'
 lang: zh-cn
-_srcHash: d1e72a8e0cafb0bb328a91c39d54c905
+_srcHash: 8c737779a946010a79d207ab72ffb9cf
 ---
 
 ## **巴厘岛安全吗？最新治安数据揭晓**

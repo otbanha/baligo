@@ -1,15 +1,15 @@
 ---
 title: >-
   Bali Tourism Tax Can't Be Avoided! 'Secondary Checkpoint' Officially Launched:
-  Latest Payment Process, Penalties for Tax Evasion, and Contingency Plans
+  Latest Payment Process, Penalties, and Tips
 slug: bali-levy-check-warning
 description: >-
-  Bali Tourism Levy (Bali Levy) inspections have been fully upgraded! The
-  official 'secondary checkpoint' inspection mechanism has been officially
-  launched, and travelers may be asked to present proof at airports or popular
-  tourist spots. This article details the latest tourism tax payment process for
-  2026, inspection locations, and common questions, reminding travelers to pay
-  online in advance to avoid unnecessary fines or delays during their trip.
+  Bali Tourism Levy checks have been fully upgraded! Authorities have officially
+  launched a 'secondary checkpoint' verification system, where proof of payment
+  may be required at airports or popular tourist spots. This article details the
+  latest 2026 tourism tax payment process, verification locations, and FAQs,
+  reminding travelers to pay online in advance to avoid unnecessary fines or
+  delays during their trip.
 pubDate: 2026-04-27T00:00:00.000Z
 pubHour: 8
 category:
@@ -32,17 +32,16 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: c18c319072eb401744bb40cc65bbacb5
+_srcHash: bfdcca3b6dc9e6f6efa127168fcd9573
 ---
+### 🗞️ 'Secondary Checkpoint' for Tourism Tax Verification Officially Launched
 
-### 🗞️ 'Secondary Checkpoint' for Tourism Tax Inspection Officially Launched
+With the advancement of the 2026 high-quality tourism policy, **Ngurah Rai International Airport (DPS)** has shifted from 'self-declaration' to 'comprehensive interception' for the collection of the **150,000 IDR Tourism Levy**. The 'secondary checkpoint' launched today makes avoiding payment impossible:
 
-With the advancement of the high-quality tourism policy in 2026, **Ngurah Rai International Airport (DPS)** has shifted from 'self-declaration' to 'comprehensive interception' for the collection of the **150,000 IDR Tourism Levy**. Starting today, the 'secondary checkpoint' makes tax evasion impossible:
-
-- **Interception Location and Process**: The Levy Vouchers Lane is precisely set up **between the 'customs baggage claim area' and the 'arrival hall exit'**. This means that even if travelers have successfully passed immigration customs and collected their luggage, they must pass through this digital scanning gate before stepping out of the airport's final door and meeting their driver or family.
-- **Digital Connection and Payment Mechanism**: Inspectors will ask travelers to present the **Love Bali** QR Code for scanning. Multiple **quick payment counters** set up by Bank Rakyat Indonesia (BRI) are available on-site. Travelers who have not paid cannot pass directly and must make an immediate payment via **QRIS** (supports international digital payments), credit card, or debit card.
-- **Strict Inspection Background and Data**: Official data shows that only about 40% of foreign tourists voluntarily paid the tourism tax in the early stages. To achieve the 2026 tourism revenue target of 6.63 million visitors and invest funds in waste treatment centers (TPST) and cultural heritage protection, the provincial government has decided to implement 'comprehensive inspections'.
-- **Departure Restrictions**: In addition to entry inspections, the linkage testing between the tourism bureau and airlines (SITA system) is entering a critical phase. In the future, if the system shows that a traveler has not paid the tourism tax during their stay on the island, **they may not be able to obtain their boarding pass at departure** and must settle the payment before being allowed to proceed.
+- **Interception Location and Process**: The Levy Vouchers Lane is precisely set up **between the baggage claim area and the arrival hall exit**. This means that even if travelers have passed immigration and collected their luggage, they must pass through this digital scanning gate before stepping out of the airport's final door to meet their driver or family.
+- **Digital Connection and Payment Mechanism**: Officers will ask travelers to show the **Love Bali** QR Code for scanning. Multiple **quick payment counters** set up by Bank Rakyat Indonesia (BRI) are available on-site. Travelers who haven't paid cannot proceed directly and must pay immediately via **QRIS** (supports international digital payments), credit card, or debit card.
+- **Background and Data**: Official data shows that only about 40% of foreign tourists voluntarily paid the tourism tax in the early stages. To achieve the 2026 target of 6.63 million tourist arrivals and allocate funds to waste management centers (TPST) and cultural heritage protection, the provincial government has decided to implement 'comprehensive verification'.
+- **Departure Restrictions**: In addition to entry checks, the tourism bureau and airlines (SITA system) are in a critical phase of testing linkage. In the future, if the system shows that a traveler has not paid the tourism tax during their stay, **they may not be able to obtain their boarding pass upon departure** and must settle the payment before being allowed to proceed.
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1777252730266-782544334399662200.png)
 
@@ -50,8 +49,8 @@ With the advancement of the high-quality tourism policy in 2026, **Ngurah Rai In
 
 ### 📄 Traveler Concerns: How to Avoid Getting Stuck?
 
-- **Pre-download Certificates**: Airport Wi-Fi is extremely unstable during peak times. It is strongly recommended that travelers download the **Love Bali** PDF certificate or QR Code screenshot to their phone album at their departure location, or directly bind it with the **All Indonesia App**.
-- **Risk of Double Payment**: If traveling to nearby Nusa Lembongan or Nusa Penida and returning to the main island during the stay, **no additional payment is required**. However, be sure to keep the original QR Code for inspection by boat or dock personnel.
-- **Avoid Fake Websites**: Recently, several fake websites charging up to 300,000 IDR (double the price) have appeared. Please verify the only official domain: [**lovebali.baliprov.go.id**](https://lovebali.baliprov.go.id/).
+- **Pre-download Proof**: Airport Wi-Fi is extremely unreliable during peak hours. It is strongly recommended that travelers download the **Love Bali** PDF certificate or QR Code screenshot to their phone gallery or bind it directly with the **All Indonesia App** before departure.
+- **Risk of Double Payment**: If traveling to nearby Nusa Lembongan or Nusa Penida and returning to the main island during your stay, **no additional payment is required**. However, be sure to retain the original QR Code for verification by boat or dock personnel.
+- **Avoid Fake Websites**: Recently, several counterfeit websites charging up to 300,000 IDR (double the price) have emerged. Always verify the official domain: [**lovebali.baliprov.go.id**](https://lovebali.baliprov.go.id/).
 
 {{block:klook}}

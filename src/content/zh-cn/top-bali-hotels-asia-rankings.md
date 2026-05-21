@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c933b9d290b3cd95aa3750e4ac60e777.jpg'
 originalUrl: 'https://vocus.cc/article/66db220afd897800013d1c78'
 lang: zh-cn
-_srcHash: 05c46d926eb0c8e2b3656b3c68c782c8
+_srcHash: ea9b399a62736b2fa243fc6aca82716d
 ---
 
 ### 2024年TripAdvisor最佳酒店排行榜：印尼酒店展露头角

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/681f37a6fd897800015b6ab0'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 50842b5aeb5288ca4535dc91e3cc63e1
+_srcHash: 7522233bdc199d54eaa321a44cce3f7a
 ---
 
 ## **乌布美食节十周年：一场充满故事的味蕾之旅**
@@ -79,7 +79,7 @@ _srcHash: 50842b5aeb5288ca4535dc91e3cc63e1
 除了品尝美食，还可参加主题导览行程，包括：
 
 - 与农夫一起采集野生香草
-- 在丛林中生火烹饪传统佳肴
+- 在丛林中升火烹饪传统佳肴
 - 品尝手酿椰子酒与阿拉克（arak）
 - 在梯田旁或村落厨房享用慢食料理
 

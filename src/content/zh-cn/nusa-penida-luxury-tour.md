@@ -1,7 +1,7 @@
 ---
 slug: nusa-penida-luxury-tour
 title: ⭐✨网红秘境+佩尼达岛东西岸五日轻奢之旅 ✨⭐
-description: 让你一次拥有无敌海景、竹林生态、私人泳池别墅，还有超梦幻的漂浮早餐和海景SPA按摩！这是一场专为网红打造的梦幻旅程，快来感受佩尼达岛的绝美风光吧！
+description: 让你一次拥有无敌海景、竹林生态、私人泳池VILLA，还有超梦幻的漂浮早餐和海景SPA按摩！这是一场专为网红打造的梦幻旅程，快来感受佩尼达岛的绝美风光吧！
 pubDate: 2025-02-16T00:00:00.000Z
 category:
   - 美食景點活動
@@ -9,10 +9,10 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5d922971dbbd4941baab8e27787428fe.jpg'
 originalUrl: 'https://vocus.cc/article/67b1b9e2fd89780001ab13ac'
 lang: zh-cn
-_srcHash: 394bbe4acceb5b68efeb838db6adc41b
+_srcHash: d989ee6fd275f48af1868499a14e121e
 ---
 
-让你一次拥有无敌海景、竹林生态、私人泳池别墅，还有超梦幻的漂浮早餐和海景SPA按摩！这是一场专为网红打造的梦幻旅程，快来感受巴厘岛+佩尼达岛的绝美风光吧！
+让你一次拥有无敌海景、竹林生态、私人泳池VILLA，还有超梦幻的漂浮早餐和海景SPA按摩！这是一场专为网红打造的梦幻旅程，快来感受巴厘岛+佩尼达岛的绝美风光吧！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f648659463f4ab0eb8d1073403822367.jpg)
 

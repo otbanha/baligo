@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/68440df9fd89780001afd27b'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 6abaf53578e6166060a26fec1e36b60a
+_srcHash: a2e9dc004de4196632eff979a3cd0774
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f99e6c8463ebffb2d3f909bbd209ef22.jpg)
@@ -27,13 +27,13 @@ _srcHash: 6abaf53578e6166060a26fec1e36b60a
 
 ## 🗿 艺术与自然的融合：雕塑设计与象征意涵
 
-这两座高达 14 公尺（约 45 英尺）的雕塑，采用钢骨结构、玻璃纤维强化混凝土与植物元素制成，呈现出人形与自然交织的形象。雕塑的肩膀与颈部生长出树木与藤蔓，象征人类与自然的共生关系，提醒我们守护地球的责任。
+这两座高达 14 米（约 45 英尺）的雕塑，采用钢骨结构、玻璃纤维强化混凝土与植物元素制成，呈现出人形与自然交织的形象。雕塑的肩膀与颈部长出树木与藤蔓，象征人类与自然的共生关系，提醒我们守护地球的责任。
 
 ---
 
 ## 🌌 夜间光雕：投影映射带来的沉浸式体验
 
-夜幕降临时，《The Earth Sentinels》透过 DELIVERED Creative Studio 的投影光雕技术，展现出生命的循环与转化。这场视觉表演结合了电脑图形与人工智能技术，让雕塑在夜晚呈现出梦幻般的光影变化，带来沉浸式的艺术体验。
+夜幕降临时，《The Earth Sentinels》通过 DELIVERED Creative Studio 的投影光雕技术，展现出生命的循环与转化。这场视觉表演结合了电脑图形与人工智能技术，让雕塑在夜晚呈现出梦幻般的光影变化，带来沉浸式的艺术体验。
 
 ---
 

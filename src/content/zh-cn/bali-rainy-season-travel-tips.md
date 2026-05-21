@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_04402320346a1647f78cb608e48adbaf.png'
 originalUrl: 'https://vocus.cc/article/67500802fd89780001be8e7a'
 lang: zh-cn
-_srcHash: afb011e34551e1a4fb0d7c4c87547b7c
+_srcHash: dfd614e46591bd0200aed3e7bef15453
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3e753d11092ea6e75b9d46f601928451.png)
@@ -69,7 +69,7 @@ _srcHash: afb011e34551e1a4fb0d7c4c87547b7c
 - **冒险活动**：参加ATV越野车探险或瀑布之旅，这些活动在下雨天反而更增添刺激感。
 - **室内文化体验**：探索乌布的**阿贡拉伊艺术博物馆（ARMA）**，或在**水明漾**参加手工银饰制作课程。
 - **咖啡馆踩店**：雨天是悠闲探索巴厘岛独特咖啡馆的绝佳机会，例如**乌布**的隐秘森林咖啡店。
-- **60项下雨天的备选方案**：我们也准备了完整的下雨天备选方案，让你可以在遇到下雨时也不无聊！请看[这里](/blog/2026-bali-indoor-activities/)。
+- **60项下雨天的备案**：我们也准备了完整的下雨天备案，让你可以在遇到下雨时也不无聊！请看[这里](/blog/2026-bali-indoor-activities/)。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c998b2b80ee7599ccd5311ab3e33b94c.png)
 

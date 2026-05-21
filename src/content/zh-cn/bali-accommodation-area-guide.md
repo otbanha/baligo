@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d5dd99601f415163fc4f70bce9b44559.png'
 originalUrl: 'https://vocus.cc/article/65839fbafd89780001e876b5'
 lang: zh-cn
-_srcHash: cbd6249a6548e8ec3de7696c3a750d65
+_srcHash: 0f3e28638cf7ecef8f776bb5e0da86ab
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_d8cc7758ad3cf5d979761f9941d98f85.png)
@@ -65,7 +65,7 @@ _srcHash: cbd6249a6548e8ec3de7696c3a750d65
 
 水明漾有一种高级的氛围
 
-想待在水明漾，您也可以参考我们推荐的高评价住宿喔：
+想待在水明漾,您也可以参考我们推荐的高评价住宿喔:
 
 - [巴厘岛精华区：10间水明漾平价住宿推荐](/blog/seminyak-budget-hotels-guide/)
 - [水明漾的滨海精致主题住宿指南](/blog/seminyak-beach-resorts-guide/)
@@ -97,9 +97,9 @@ _srcHash: cbd6249a6548e8ec3de7696c3a750d65
 
 想看看乌布的样子 >>[请参考小杰视频的介绍](https://youtu.be/uFv_4Wr6YsI?si=JqgwwyGqWFL2BQgD&t=488)
 
-乌布很难用三言两语概括的方式做个完整的介绍，想进一步认识乌布，请看我们 >>乌布周边的完整攻略：[认识乌布的100种方式](/blog/ubud-guide/)。带小朋友家庭亲子游的请看：[乌布家庭亲子旅游活动精选攻略：55项亲子活动带小朋友最轻松！](/blog/ubud-with-kids-guide/)
+乌布很难用三言两语概括的方式做个完整的介绍,想进一步认识乌布, 请看我们 >>乌布周边的完整攻略：[认识乌布的100种方式](/blog/ubud-guide/)。带小朋友家庭亲子游的请看：[乌布家庭亲子旅游活动精选攻略：55项亲子活动带小朋友最轻松！](/blog/ubud-with-kids-guide/)
 
-在乌布也有多元的住宿选择，山林villa或五星度假村，也有经济型旅馆和民宿，满足不同喜好。无论您偏向市中心或乡村风光，乌布都有合适住宿，让您舒适探索此地。请看：
+在乌布也有多元的住宿选择，山林villa或五星度假村，也有经济型旅馆和民宿，满足不同喜好。无论您偏向市中心或乡村风光，乌布都有合适住宿，让您舒适探索此地。请看:
 
 - [【巴厘岛乌布住宿】乌布28家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
 - [探索乌布10家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)

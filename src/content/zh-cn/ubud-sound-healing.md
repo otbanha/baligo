@@ -2,7 +2,7 @@
 slug: ubud-sound-healing
 title: 乌布的颂钵疗愈/音疗 Ubud Sound Healing/Singing Bowl Meditation
 description: >-
-  乌布是寻求身心疗愈的理想圣地。颂钵疗愈（singing bowl
+  乌布是寻求身心灵疗愈的理想圣地。颂钵疗愈（singing bowl
   meditation）在这座“众神之岛”上已成为热门的养生体验，结合了古老的声音疗法与巴厘岛独特的灵性氛围。当铜制颂钵被轻柔敲击或摩擦时，会产生深沉而和谐的共鸣音频，这些声波能穿透身体，帮助释放压力、平衡脉轮，并引导参与者进入深度冥想
 pubDate: 2026-02-07T00:00:00.000Z
 category:
@@ -11,12 +11,12 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8f4c523d5f5a290a5bf5c83a79493923.jpg'
 originalUrl: 'https://vocus.cc/article/6986c5c0fd897800017582f6'
 lang: zh-cn
-_srcHash: 7b00205c6374e11bb730a23ac0af2f0a
+_srcHash: cd4c843370078feaf80dc50f74f35682
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f0c03f764badb198fc2e90c575d202a6.jpg)
 
-乌布是寻求身心灵疗愈的理想圣地。颂钵疗愈（singing bowl meditation）在这座「众神之岛」上已成为热门的养生体验，结合了古老的声音疗法与巴厘岛独特的灵性氛围。当铜制颂钵被轻柔敲击或摩擦时，会产生深沉而和谐的共鸣音频，这些声波能穿透身体，帮助释放压力、平衡脉轮，并引导参与者进入深度冥想状态。在巴厘岛的热带雨林中、稻田边或河谷旁体验颂钵疗愈，更能让人与自然的能量产生共鸣，达到身心灵的完整放松。
+乌布是寻求身心灵疗愈的理想圣地。颂钵疗愈（singing bowl meditation）在这座“众神之岛”上已成为热门的养生体验，结合了古老的声音疗法与巴厘岛独特的灵性氛围。当铜制颂钵被轻柔敲击或摩擦时，会产生深沉而和谐的共鸣音频，这些声波能穿透身体，帮助释放压力、平衡脉轮，并引导参与者进入深度冥想状态。在巴厘岛的热带雨林中、稻田边或河谷旁体验颂钵疗愈，更能让人与自然的能量产生共鸣，达到身心灵的完整放松。
 
 乌布作为巴厘岛的文化与灵性中心，提供了众多优质的颂钵疗愈体验场所：
 

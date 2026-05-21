@@ -1,12 +1,12 @@
 ---
 slug: indonesia-visa-rules-2025
 title: >-
-  Indonesia's New Visa Regulations Take Immediate Effect: Key Changes Bali
-  Visitors Need to Know
+  Indonesia's New Visa Regulations Take Effect Immediately: Important Changes
+  Bali Visitors Need to Know, Visa Extension Process Has Changed
 description: >-
-  Indonesia's Immigration Office officially implemented a new visa extension
-  process starting May 29, 2025. This system combines online registration with
-  in-person processing, applicable to immigration offices nationwide including
+  Starting May 29, 2025, Indonesia's Immigration Office officially implements a
+  new visa extension process. This system combines online registration with
+  in-person procedures, applicable to immigration offices nationwide including
   Bali, affecting tourists, long-term residents, business visa holders, and
   socio-cultural visa holders. Overview of the new system process: Online +
   In-person combination Step 1: Online application All visa extensions
@@ -22,12 +22,12 @@ originalUrl: 'https://vocus.cc/article/683e4b26fd89780001ea2016'
 category:
   - 簽證通關
 lang: en
-_srcHash: 582e6429f0bde1630a02b8c029144dc2
+_srcHash: e78a68134a1e539708ec3c8d3c081bc2
 ---
 
-## Major Overhaul of Indonesia's Visa Extension System
+## Major Changes to Indonesia's Visa Extension System
 
-Indonesia's Immigration Office officially implemented a new visa extension process starting May 29, 2025. This system combines online registration with in-person processing, applicable to immigration offices nationwide including Bali, affecting tourists, long-term residents, business visa holders, and socio-cultural visa holders.
+Starting May 29, 2025, Indonesia's Immigration Office officially implements a new visa extension process. This system combines online registration with in-person procedures, applicable to immigration offices nationwide including Bali, affecting tourists, long-term residents, business visa holders, and socio-cultural visa holders.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_05dab2ad74b02830d37c34b349f59630.jpg)
 
@@ -41,30 +41,30 @@ All visa extension applicants must first visit the official website [evisa.imigr
 
 ### Step 2: In-person Verification at Immigration Office
 
-After completing the online form, applicants will receive a notification within two business days at most, requiring them to visit the nearest immigration office in person to submit documents and undergo biometric procedures (such as photo and fingerprinting).
+After completing the online form, applicants will receive a notification within two business days and must personally visit the nearest immigration office to submit documents and undergo biometric procedures (such as photo and fingerprinting).
 
 ---
 
 ## Special Circumstances and Fast Track Services
 
-Applicants who fall into the following categories may apply for the fast track service:
+Applicants who fall under the following categories may apply for expedited processing:
 
 - Senior citizens
-- Individuals with disabilities
+- Persons with disabilities
 - Pregnant and nursing women
-- Passengers with urgent circumstances
+- Travelers with urgent circumstances
 
-In these cases, the entire process can be completed in a single visit, with immigration officers assisting in filling out documents and completing fingerprint recognition.
-
----
-
-## Why is Indonesian Immigration Changing the System?
-
-The Indonesian government has noted a significant rise in illegal visa violations in early 2025, with 2,201 cases handled from January to April, a 36.71% increase compared to 1,610 cases during the same period in 2024. The new system aims to more effectively control visa usage and reduce illegal activities.
+In these cases, the entire process can be completed in a single visit, with immigration officers assisting in filling out forms and completing fingerprint identification.
 
 ---
 
-## What Documents Should Applicants Prepare?
+## Why is the Indonesian Immigration Office changing the system?
+
+The Indonesian government noted a significant rise in illegal visa violations in early 2025, with 2,201 cases processed from January to April, a 36.71% increase compared to 1,610 cases during the same period in 2024. The new system aims to more effectively control visa usage and reduce illegal activities.
+
+---
+
+## What documents should applicants prepare?
 
 Although no additional documents are officially required, applicants may need to answer the following questions during the actual process:
 
@@ -73,10 +73,10 @@ Although no additional documents are officially required, applicants may need to
 - What is your residential address in Indonesia?
 - Do you have proof of financial means?
 
-It is advisable to carry relevant documents such as travel itineraries, accommodation proofs, and return flight tickets for reference.
+It is recommended to carry relevant documents such as travel itineraries, accommodation proofs, and return flight tickets for reference.
 
-**Quick Reference:**
-[Guide to Online Visa Extension in Indonesia/Bali](/blog/2024-bali-visa-extension/)
+**Quick Reference:**  
+[Guide to Extending Your Visa Online in Indonesia/Bali](/blog/2024-bali-visa-extension/)
 
 ---
 
@@ -102,15 +102,15 @@ The most common tourist visas are:
 
 ### 1. Do I still need to visit the immigration office in person if I've already extended my visa online?
 
-Yes, the new system requires a combination of online and in-person processing. All visa extenders must visit the immigration office in person.
+Yes, the new system requires a combination of online and in-person processing. All visa extension applicants must visit the immigration office in person.
 
-### 2. What questions will the immigration office ask me?
+### 2. What questions will the immigration officer ask me?
 
-Officials may inquire about your purpose for visiting Indonesia, duration of stay, and financial capability. It is recommended to carry basic supporting documents.
+Officials may inquire about your purpose in Indonesia, duration of stay, and financial capability. It's recommended to bring basic supporting documents.
 
 ### 3. Can someone else handle this for me?
 
-Currently, you must personally attend to the process, especially for biometric identification.
+Currently, you must appear in person for processing, especially for biometric verification.
 
 ### 4. How many days do I have to complete the visa extension?
 
@@ -118,6 +118,6 @@ Starting from online registration, you typically need to complete the verificati
 
 ### 5. What happens if I don't comply with the new regulations?
 
-Failure to comply may result in fines, detention, or deportation.
+Failure to follow the regulations may result in fines, detention, or deportation.
 
 ---

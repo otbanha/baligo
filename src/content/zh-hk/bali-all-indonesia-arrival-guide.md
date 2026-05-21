@@ -1,9 +1,9 @@
 ---
 slug: bali-all-indonesia-arrival-guide
-title: 【2026版】印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞掂最新流程：落機→過海關→拎行李全攻略
+title: 【2026版】印尼峇里島入境使用「All Indonesia」入境卡｜1分鐘搞掂最新流程：落機→過海關→攞行李全攻略
 description: >-
-  計劃2026年去峇里島？最新電子入境海關申報（ECD）同「All Indonesia」系統全解析。本篇圖解伍拉·賴國際機場 (DPS)
-  最新通關流程：從落機、掃描QR Code、過海關到拎行李。同步更新觀光稅支付同落地簽 (VoA) 辦理秘訣，幫你快速入境，開啟完美海島假期。
+  計劃2026年去峇里島？最新電子入境海關申報（ECD）同「All Indonesia」系統全解析。呢篇圖解伍拉·賴國際機場 (DPS)
+  最新通關流程：由落機、掃描QR Code、過海關到攞行李。同步更新觀光稅支付同落地簽 (VoA) 辦理秘訣，幫你快速入境，開始完美海島假期。
 pubDate: 2025-08-14T00:00:00.000Z
 category:
   - 簽證通關
@@ -25,30 +25,31 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_79df9229a3131a48507912ff8ed38f07.png'
 originalUrl: 'https://vocus.cc/article/689dcce7fd8978000125fc52'
 lang: zh-hk
-_srcHash: c482985e0fb660cbebe0a7c7a5e7f399
+_srcHash: 50baa2bc95beb07e62e5f0f7c6687e86
 ---
+
 ### **📢 重要更新！2025年8月18號起，印尼全面啟用「All Indonesia」入境卡申報系統**
 
-從此**唔使再分開填寫**海關申報（e-CD）、健康聲明（SSHP），兩個流程整合至 [**All Indonesia平台**](https://allindonesia.imigrasi.go.id/)（簡稱「AIAC」，All Indonesia Arrival Card），大幅簡化入境手續！
+從此**唔使再分開填寫**海關申報（e-CD）、健康聲明（SSHP），兩個流程整合至 [**All Indonesia平台**](https://allindonesia.imigrasi.go.id/)（簡稱「AIAC」，All Indonesia Arrival Card），大幅簡化入境手續！
 
 ***
 
-## **🚀 2026最新峇里島入境流程**（落機→拎行李）
+## **🚀 2026最新峇里島入境流程**（落機→攞行李）
 
 ### **行前必做**：
 
 1. 務必先完成申請電子簽證eVisa。請參考[呢度](/blog/bali-evisa-application-guide/)有進一步嘅說明，避免進入詐騙網站。
-2. 出發前三日完成AIAC入境卡，並**截圖QR Code**備查。請睇本站整理[常見問題FAQ](/blog/bali-evisa-customs-health-declaration/)。
+2. 出發前三天完成AIAC入境卡，並**截圖QR Code**備查。請睇本站整理[常見問題FAQ](/blog/bali-evisa-customs-health-declaration/)。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
 
 ### **1️⃣ 落機**
 
-- 跟住機場「Arrival」標誌前往入境大堂。
+- 跟住機場「Arrival」標誌前往入境大廳。
 
 ### **2️⃣ 辦理落地簽（Visa on Arrival, VoA）**
 
-- **如果未事先申請電子簽證**，需要先到「落地簽證」櫃檯排隊繳費（2025年費用：50萬印尼盾，約USD$32）。
+- **如果未事先申請電子簽證**，需要先去「落地簽證」櫃檯排隊繳費（2025年費用：50萬印尼盾，約USD$32）。
 - 持有電子簽證eVisa/eVoA嘅人可以跳過呢個步驟。
 
 ### **3️⃣ 移民局查驗（護照蓋章）**
@@ -60,8 +61,8 @@ _srcHash: c482985e0fb660cbebe0a7c7a5e7f399
 
 ### **4️⃣ 領取行李**
 
-- 通過移民局/自動通關閘門之後，根據航班號去轉盤領行李。
-- 💡 **小貼士**：行李會比較慢，建議掛明顯嘅行李牌以防俾人攞錯。
+- 通過移民局/自動通關閘門後，根據航班號去轉盤領行李。
+- 💡 **小貼士**：行李出得比較慢，建議掛明顯嘅行李牌以防攞錯。
 
 ### **5️⃣ 健康聲明（已整合至AIAC）**
 
@@ -69,7 +70,7 @@ _srcHash: c482985e0fb660cbebe0a7c7a5e7f399
 
 ### **6️⃣ 海關檢查（已整合至AIAC）**
 
-攞到行李之後行過海關檢查口
+攞到行李後行過海關檢查口
 
 - 直接出示AIAC嘅QR Code。
 - **禁止攜帶**：肉類、生果、超額外幣（＞1億印尼盾）等，違者重罰。
@@ -78,7 +79,7 @@ _srcHash: c482985e0fb660cbebe0a7c7a5e7f399
 
 - 費用：15萬印尼盾/人（約USD$10）。
 
-▶️ 如何繳交？請睇[觀光稅](/blog/2026-bali-tourism-tax-guide/)說明
+▶️ 點樣繳交？請睇[觀光稅](/blog/2026-bali-tourism-tax-guide/)說明
 
 👉**額外說明:** [入境印尼/峇里島嘅小朋友簽證/兒童簽證攻略](/blog/bali-child-visa-guide/)
 
@@ -92,7 +93,7 @@ _srcHash: c482985e0fb660cbebe0a7c7a5e7f399
 
 ## **✅ 行前必準備Checklist**
 
-1. **護照**（效期＞6個月）
+1. **護照**（有效期＞6個月）
 2. **_電子簽證_或_現金/刷卡辦落地簽_**
 3. **All Indonesia QR Code**（取代海關申報、健康聲明）
 4. **觀光稅繳費證明**（電子版或紙本）
@@ -122,4 +123,4 @@ _srcHash: c482985e0fb660cbebe0a7c7a5e7f399
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[點呢度睇「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做咩。
