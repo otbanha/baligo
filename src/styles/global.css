@@ -218,11 +218,10 @@ h5 { font-size: 1em; }
   color: #7c2d12;
 }
 
-/* 第二層：聯盟連結按鈕化（Agoda / Trip.com / Klook / KKday）
+/* 第二層：聯盟連結按鈕化（Agoda / Trip.com / KKday / Booking）
    特異度 (0,2,1) — attribute selector 加持，自然覆蓋第一層 */
 .prose a[href*="agoda.com"],
 .prose a[href*="trip.com"],
-.prose a[href*="klook.com"],
 .prose a[href*="kkday.com"],
 .prose a[href*="booking.com"],
 .prose a[href*="booking.tpm.li"] {
@@ -240,7 +239,6 @@ h5 { font-size: 1em; }
 }
 .prose a[href*="agoda.com"]:hover,
 .prose a[href*="trip.com"]:hover,
-.prose a[href*="klook.com"]:hover,
 .prose a[href*="kkday.com"]:hover,
 .prose a[href*="booking.com"]:hover,
 .prose a[href*="booking.tpm.li"]:hover {
@@ -253,11 +251,35 @@ h5 { font-size: 1em; }
 }
 .prose a[href*="agoda.com"]:visited,
 .prose a[href*="trip.com"]:visited,
-.prose a[href*="klook.com"]:visited,
 .prose a[href*="kkday.com"]:visited,
 .prose a[href*="booking.com"]:visited,
 .prose a[href*="booking.tpm.li"]:visited {
   color: white;
+}
+
+/* Klook 專屬：淡黃色按鈕 */
+.prose a[href*="klook.com"] {
+  display: inline-block;
+  padding: 4px 12px;
+  background: #fef9c3;
+  color: #713f12;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.92em;
+  margin: 2px 3px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+.prose a[href*="klook.com"]:hover {
+  background: #fef08a;
+  color: #713f12;
+  text-decoration: none;
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
+}
+.prose a[href*="klook.com"]:visited {
+  color: #713f12;
 }
 
 /* 第三層：blockquote 內延伸閱讀連結（藥丸標籤風格）
