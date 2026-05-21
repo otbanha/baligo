@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_417dff6de287553579080c4aa32f9c13.jpg'
 originalUrl: 'https://vocus.cc/article/68463dcbfd897800011c6f06'
 lang: zh-cn
-_srcHash: 97140c13a65a568351171f66e7559ce9
+_srcHash: c85f1a0af28bc6c906f4b054e91a6030
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_055e134951ab6017808fda25010fb9d3.jpg)
@@ -23,7 +23,7 @@ _srcHash: 97140c13a65a568351171f66e7559ce9
 
 在出发前，我们透过[乌布攻略](/blog/ubud-guide/)的推荐找到了Nukuwera Adventure这家专业的洞穴漂流河公司。攻略上说这是一段可以体验巴厘岛穿越历史日军洞穴的漂流冒险！这段充满冒险感的描述立刻吸引了我们。
 
-预约过程相当简单，我们透过 [Klook预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1064752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53430-ubud-cave-tubing-adventure-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D7271ea9df1)了我们四个人的行程。价格方面，不分大小每位约USD$50，费用包含酒店接送、漂流河、午餐、ATV。这样全包玩一天我觉得还蛮划算的！
+预约过程相当简单，我们透过 [Klook预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1064752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53430-ubud-cave-tubing-adventure-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D7271ea9df1)了我们四个人的行程。价格方面，不分大小每位约USD$48，费用包含酒店接送、漂流河、午餐、ATV。这样全包玩一天我觉得还蛮划算的！
 
 **行前小贴士**：
 
@@ -55,7 +55,7 @@ _srcHash: 97140c13a65a568351171f66e7559ce9
 
 整个漂流过程约45分钟，领队非常专业，不仅确保我们的安全，还全程帮我们摄影，并指出沿途的特殊景观。
 
-__VID0__
+https://youtube.com/shorts/Z_vDb7AbMKg
 
 ## 安全措施与亲子友善设计
 

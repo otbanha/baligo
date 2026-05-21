@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/68440732fd89780001ae7834'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 3875b35a122720e2dd5eac0cd0b8b7ee
+_srcHash: f5cbceadfa72e53b63d572e24e967bee
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_eba6378e6e692848f0831daf792f90f3.jpg)
@@ -27,7 +27,7 @@ _srcHash: 3875b35a122720e2dd5eac0cd0b8b7ee
 
 ## 🌌 《Bali Mystic》：神话与科技的沉浸式交融
 
-《Bali Mystic》是一场结合巴厘岛传统艺术与现代科技的沉浸式表演。透过 360 度全景投影、现场舞蹈与环绕音效，重新诠释印度教神话中湿婆（Shiva）与帕尔瓦蒂（Parvati）的故事，并引出时间与毁灭之神——巴塔拉卡拉（Batara Kala）的诞生。
+《Bali Mystic》是一场结合巴厘岛传统艺术与现代科技的沉浸式表演。通过 360 度全景投影、现场舞蹈与环绕音效，重新诠释印度教神话中湿婆（Shiva）与帕尔瓦蒂（Parvati）的故事，并引出时间与毁灭之神——巴塔拉卡拉（Batara Kala）的诞生。
 
 表演融合了卡恰（Kecak）、甘布（Gambuh）、皮影戏（Wayang Kulit）、特勒克面具舞（Topeng Telek）与巴龙兰东（Barong Landung）等传统表演形式，打造出一场前所未有的文化盛宴。
 
@@ -42,7 +42,7 @@ _srcHash: 3875b35a122720e2dd5eac0cd0b8b7ee
 ## 🎟️ 表演信息
 
 - **演出时间**：每周五 19:00 - 20:00（建议 18:00 抵达）
-- **票价**：IDR 300,000 起（约 USD$20）
+- **票价**：IDR 300,000 起（约 USD 20）
 - **地点**：Nuanu Creative City - Labyrinth Arts Centre（Jl. Pantai Nyanyi, Tabanan）**（📍**[**地图位置**](https://www.google.com/maps/d/u/0/edit?mid=13MZ5FZXTW3NWiHdIPugSY3ahZx6110U&usp=sharing)**）**
 - **购票网址**：[点我购票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063286&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F158960-bali-mystic-dome-show-at-labyrinth%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D50288a468e) 🎫
 - **附加体验**：凭票可免费参观 [Labyrinth Art Gallery](/blog/labyrinth-collective-nuanu-bali/)、在「[地球卫兵](/blog/the-earth-sentinels-nuanu/)」雕像照相
@@ -85,7 +85,7 @@ Nuanu Creative City 是一个融合永续、艺术与科技的创意社区，距
 
 ---
 
-📍**下一趟巴厘岛之旅，不妨把周五晚上留给《Bali Mystic》**，让你从「看风景」的旅人，升级为真正「参与文化」的探索者。
+📍**下一趟巴厘岛之旅，不妨把周五晚上留给《Bali Mystic》**，让你从“看风景”的旅人，升级为真正“参与文化”的探索者。
 
 ---
 

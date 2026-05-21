@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65c1defcfd89780001f79bfd'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 10592c449dae44c73c625e8a7c5d1d9d
+_srcHash: f2ef99f8e01d0e43dbddb96a92f35fd7
 ---
 
 ## 什么是自动通关?

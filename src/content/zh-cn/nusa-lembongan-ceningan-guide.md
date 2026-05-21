@@ -1,7 +1,6 @@
 ---
-update: "2026/05/19"
 slug: nusa-lembongan-ceningan-guide
-title: 【蓝梦岛景点攻略】探索蓝梦岛/金银岛景点、美食、交通：巴厘岛的邻近天堂
+title: 【蓝梦岛/金银岛景点攻略】探索蓝梦岛/金银岛景点、美食、交通：巴厘岛的邻近天堂
 description: >-
   蓝梦岛（又称「伦邦岸岛」，原文：Nusa Lembongan）及其邻近的岛屿金银岛（Nusa Ceningan）和佩尼达岛（Nusa
   Penida），以碧蓝清澈的海洋、悠闲的海边村庄氛围和独特的岛屿冒险体验吸引着众多旅客。蓝梦岛要怎么玩？请看我们的蓝梦岛攻略
@@ -22,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_aa116183dc1f233af038a641a45f065c.jpg'
 originalUrl: 'https://vocus.cc/article/66adfb9afd89780001f62df1'
 lang: zh-cn
-_srcHash: c3c4e6f66272d9b78d35e13d5ffddb4f
+_srcHash: c7ff914c0b8b76538fe9632c8e52d056
 ---
 
 ![連接藍夢島 - 金銀島的 Yellow Bridge](https://images.gobaligo.id/vocus/vocus_488625e06cb2ee581533bcb166d2b842.jpg)
@@ -62,7 +61,7 @@ Jungut Batu Beach
 
 Sandy Bay有个beach club
 
-Devil's Tear中文叫做「恶魔的眼泪」，它是一片岩石峭壁，与海洋相接。站在这里，你可以从高处欣赏壮观的全景海景，当时机适合时，大浪会撞击岩石，激起水花，这是一个完美的Instagram拍照地点。不过，请注意不要站得太近，因为突发的大浪有时会非常强劲，曾经发生过多次人被卷到海里去而造成遗憾，千万要小心！
+Devil's Tear中文叫做“恶魔的眼泪”，它是一片岩石峭壁，与海洋相接。站在这里，你可以从高处欣赏壮观的全景海洋，当时机适合时，大浪会撞击岩石，激起水花，这是一个完美的Instagram拍照地点。不过，请注意不要站得太近，因为突发的大浪有时会非常强劲，曾经发生过多次人被卷到海里去而造成遗憾，千万要小心！
 
 https://youtube.com/shorts/exdiGPLkVjw?si=sbLmSwieLvWyJ2uL
 
@@ -76,7 +75,7 @@ Dream Beach
 
 悬崖跳水
 
-以上这些海滩、景点的位置，请参考【[蓝梦岛攻略地图](/map/lembongan/)】
+以上这些海滩、景点的位置，请参考【[蓝梦岛攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)】
 
 ## 红树林之旅
 
@@ -88,7 +87,7 @@ https://youtube.com/shorts/yerwXithouw?si=nDV7gK4eyEVeKb16
 
 一般来说，当游客抵达蓝梦岛时，当地人便会热情地推荐各式红树林船游行程。建议选择小团体包船的方式，通常一艘船可容纳3-4人，并配有经验丰富的船夫。若能将价格议到每人USD$7以下，算是比较合理的价格。在半小时的旅程中，你可以近距离欣赏原始红树林的壮观景致，观察各种水鸟，甚至有机会看到螃蟹在树根间穿梭。
 
-特别提醒：选择**退潮时分**前往最为理想，因为此时红树林的根系会完整露出水面，呈现出最迷人的景观。船夫也能带你穿梭在较低的水位中，深入观察这独特的环境。
+特别提醒：选择**退潮时分**前往最为理想，因为此时红树林的根系会完整露出水面，呈现出最迷人的景观。船夫也能带你穿梭在较低的水位中，深入观察这独特的生态环境。
 
 ## 悠闲的一天
 
@@ -112,7 +111,7 @@ Panorama Point
 
 https://youtube.com/shorts/tHgwLtJvntQ?si=5eJZRpDp47JljbW6
 
-金银岛（Nusa Ceningan）与蓝梦岛由著名的黄桥（Yellow Bridge）连接，金银岛有一些令人惊叹的景点。你可以在Blue Lagoon、Secret Beach和Mahana Point享受明亮的碧蓝海水。在这些地点中，有些地方提供悬崖跳水的挑战。Mahana Cliff的跳水点约15米高，跳水前最好检查潮汐，以免在低潮时跳水而受伤。请看【[蓝梦岛攻略地图](/map/lembongan/)】
+金银岛（Nusa Ceningan）与蓝梦岛由著名的黄桥（Yellow Bridge）连接，金银岛有一些令人惊叹的景点。你可以在Blue Lagoon、Secret Beach和Mahana Point享受明亮的碧蓝海水。在这些地点中，有些地方提供悬崖跳水的挑战。Mahana Cliff的跳水点约15米高，跳水前最好检查潮汐，以免在低潮时跳水而受伤。请看【[蓝梦岛攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)】
 
 ![Blue Lagoon](https://images.gobaligo.id/vocus/vocus_deb37419f80d212cbf7416fdff7a850b.png)
 
@@ -158,11 +157,11 @@ https://youtube.com/shorts/a4mL69nASLY?si=UciZXsalBlU3fOjo
 
 在蓝梦岛上交通费用：
 
-- 租摩托车：一天75,000～100,000印尼盾（USD$5\~6）
+- 租摩托车：一天75,000～100,000印尼盾（USD$5～7）
 - Pick-up truck：单程50,000（USD$3）
 - 包车：蓝梦岛的包车选择不多，费用也比较昂贵，一天8小时收费为每800,000印尼盾（USD$51）
 
-租用摩托车不仅经济实惠，更能让你自由自在地探索岛上每个角落，依照自己的步调游览各个景点。而货车接驳服务则是一个饶富趣味的在地体验，特别适合不习惯骑车或携带较多行李的旅客。
+租用摩托车不仅经济实惠，更能让你自由自在地探索岛上每个角落，按照自己的步调游览各个景点。而货车接驳服务则是一个饶富趣味的在地体验，特别适合不习惯骑车或携带较多行李的旅客。
 
 **温馨提醒**：租摩托车时请务必确认车况良好，并记得索取收据。如选择货车接驳，建议提前询问价格并与司机确认目的地，以避免沟通误会。
 
@@ -196,7 +195,7 @@ https://youtube.com/shorts/D6ZFGWE74cE?si=MZirFtJ63sUvQG12
 
 所有景点标注的蓝梦岛攻略地图
 
-如果你打算去蓝梦岛、金银岛探险、耍废，我们准备的【[蓝梦岛攻略地图](/map/lembongan/)】别忘了保存到手机喔！
+如果你打算去蓝梦岛、金银岛探险、放松，我们准备的【[蓝梦岛攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)】别忘了保存到手机哦！
 
 ## 蓝梦岛常见问题 (FAQ)
 
@@ -230,7 +229,7 @@ https://youtube.com/shorts/D6ZFGWE74cE?si=MZirFtJ63sUvQG12
 
 ### 8. **蓝梦岛有哪些必看的景点？**
 
-除了黄桥和美丽的沙滩外，蓝梦岛的「魔鬼的眼泪」（Devil's Tears）是著名的天然景观，海浪撞击悬崖形成壮观的水雾，非常值得一看。
+除了黄桥和美丽的海滩外，蓝梦岛的「魔鬼的眼泪」（Devil's Tears）是著名的天然景观，海浪撞击悬崖形成壮观的水雾，非常值得一看。
 
 ### 9. **如何从巴厘岛到达蓝梦岛？**
 

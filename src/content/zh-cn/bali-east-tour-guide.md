@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e09b7f7c232901f97b6715f51d555133.jpg'
 originalUrl: 'https://vocus.cc/article/65b79bfdfd89780001948d10'
 lang: zh-cn
-_srcHash: f2185d3a96839845c79cfbc28eb1e1d4
+_srcHash: d7ae1de143a24af382f3c58ab2d0ffec
 ---
 
 ![在峇里島東部有三個相隔不遠的景點，是可以拍出仙氣美照的好地方喔！](https://images.gobaligo.id/vocus/vocus_f857899475fdab3ed10fd44672c1ba21.jpg)
@@ -38,7 +38,7 @@ _srcHash: f2185d3a96839845c79cfbc28eb1e1d4
 
 https://youtu.be/H-IocbLNpE4
 
-> 不想排队两三个小时？可以考虑这里 [巴厘岛景点推荐：Lahangan Sweet ─ 绝美的阿贡山观景点 🌄](/blog/lahangan-sweet-volcano-view/)
+> 不想排队两三个小时？可以考虑这里 [巴厘岛景点推荐：Lahangan Sweet ─ 绝美的阿贡山景观台 🌄](/blog/lahangan-sweet-volcano-view/)
 
 ## 恒河圣泉花园
 

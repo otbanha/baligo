@@ -15,7 +15,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-cn
-_srcHash: 41c5fc2be9643480bf7eb834deb9b7a4
+_srcHash: 19ddbccf56547acceee9ba5222652402
 ---
 
 ## 🏝️ 巴厘岛移民署小队出动啦！ 🚨

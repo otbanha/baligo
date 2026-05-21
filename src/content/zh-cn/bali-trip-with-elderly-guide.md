@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/671b753cfd89780001988bb6'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: f4d4b046f48bf18e2b1b84057cbde2a5
+_srcHash: a7d6abe1ba831fd4e9e15a8ae725a544
 ---
 
 > 以下内容改编自团友 [Claire Chen](https://www.facebook.com/share/p/17yjQ17JHi/) 分享游记：
@@ -25,7 +25,7 @@ _srcHash: f4d4b046f48bf18e2b1b84057cbde2a5
 
 ## 【巴厘岛入境准备】
 
-巴厘岛的入境流程其实可以在出发前做好准备，网络上有很多申请流程的指南，我将出关后的步骤整理如下，提供给大家参考：
+巴厘岛的入境流程其实可以在出发前做好准备，网络上有许多申请流程的指南，我将出关后的步骤整理如下，提供给大家参考：
 
 **第一关：健康QR码扫描**
 
@@ -124,7 +124,7 @@ _srcHash: f4d4b046f48bf18e2b1b84057cbde2a5
 
 ### **特别行程**
 
-1. - **巴杜尔火山日出吉普车之旅**：乘坐吉普车观赏壮丽的巴杜尔火山日出，视野辽阔、令人震撼。吉普车的高度适合观景，但若携带长辈需注意上下车的安全。山上温度较低，穿轻羽绒和帽子即可。
+1. - **巴图尔火山日出吉普车之旅**：乘坐吉普车观赏壮丽的巴图尔火山日出，视野辽阔、令人震撼。吉普车的高度适合观景，但若携带长辈需注意上下车的安全。山上温度较低，穿轻羽绒和帽子即可。
 
 ![（Claire Chen提供）](https://images.gobaligo.id/vocus/vocus_b437e9dd32474ead1fa888f1112053eb.jpg)
 
@@ -134,7 +134,7 @@ _srcHash: f4d4b046f48bf18e2b1b84057cbde2a5
 
 （Claire Chen提供）
 
-> 快速参考：[巴厘岛探险：巴杜尔火山吉普车日出之旅全记录](/blog/batur-volcano-jeep-sunrise-tour/)
+> 快速参考：[巴厘岛探险：巴图尔火山吉普车日出之旅全记录](/blog/batur-volcano-jeep-sunrise-tour/)
 
 1. - **努沙佩尼达岛跳岛一日游**（Nusa Penida Day Tour）：安排岛上专业司机带领，让我们尽情探索这个迷人的小岛。司机虽以英文为主，但基本沟通没问题，如有疑问可随时联系巴厘岛的中文导游Ani协助。佩尼达岛的司机们也都擅长摄影，能帮助拍出理想的旅游照片。
 

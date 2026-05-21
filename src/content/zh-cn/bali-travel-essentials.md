@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e2b3c44697ed5c6222c29bcfdcf4756f.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b7efd897800013a9821'
 lang: zh-cn
-_srcHash: 775dc6063a6452c1d82a13ebc3f19a8f
+_srcHash: 60a8df4f0bc549413ac225b49e498641
 ---
 
 出国旅行请跟着小杰的建议做好万全的准备哦！
@@ -56,7 +56,7 @@ https://youtu.be/0M0voLfFLrQ
 
 ### 移动电源/充电宝携带新规定：
 
-- [充电宝与随身USB风扇/挂脖风扇能否带上飞机？2025年最新规定总整理](/blog/airplane-power-bank-fan-rules-2025/)
+- [移动电源/充电宝与随身USB风扇/挂脖风扇能否带上飞机？2025年最新规定总整理](/blog/airplane-power-bank-fan-rules-2025/)
 
 ### 携带药品：
 

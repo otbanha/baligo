@@ -1,7 +1,7 @@
 ---
 slug: amigoo-lux-bali-store
 title: 台商经营巴厘岛的「小北百货」：Amigoo Lux Bali 商店
-description: 如果你在巴厘岛寻找价格实惠且种类丰富的生活用品，Amigoo Lux Bali 是你不可错过的好去处。堪称是巴厘岛版的「小北百货」。
+description: 如果你在巴厘岛寻找价格实惠且种类丰富的生活用品，Amigoo Lux Bali 是你不容错过的好去处。堪称是巴厘岛版的「小北百货」。
 pubDate: '2024-08-21'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_66c32079fd8978000136ed64.png'
 tags:
@@ -14,12 +14,12 @@ originalUrl: 'https://vocus.cc/article/66c32079fd8978000136ed64'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: c31a9690571f34d06e27d5b6925f45de
+_srcHash: 4aacfa739a3df98b558a19f0764e247e
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9767c31ed19ec03a80dbd9da8ada02d9.jpg)
 
-如果你在巴厘岛寻找价格实惠且种类丰富的生活用品，Amigoo Lux Bali 是你不可错过的好去处。这家新开幕仅四个月的商店，以超过一万个品项的家庭用品为主，涵盖了各种电器、储物箱、厨房用品、桌椅等，堪称是巴厘岛版的「小北百货」。
+如果你在巴厘岛寻找价格实惠且种类丰富的生活用品，Amigoo Lux Bali 是你不容错过的好去处。这家新开幕仅四个月的商店，以超过一万个品项的家庭用品为主，涵盖了各种电器、储物箱、厨房用品、桌椅等，堪称是巴厘岛版的「小北百货」。
 
 ### 商品种类与品质
 

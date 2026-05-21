@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_109fa4ab6c04ea54101f82e65cbb5948.jpg'
 originalUrl: 'https://vocus.cc/article/660ff581fd89780001f31315'
 lang: zh-cn
-_srcHash: 497eef5cc01ccd3cdab9cb176af6bb63
+_srcHash: ed685dd1f59d8a3196887b4ae2fd220c
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_94f6fe28fb5d72e5c43cbd217f1a8a7c.jpg)
@@ -78,7 +78,7 @@ Selasar Deli 下午茶的无敌美景
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_60f2cbfeb4ec539f5c41a8eddff8d2f8.jpg)
 
-入住Apurva Kempinski酒店绝对是一次难忘的高端度假体验，这里将是游览巴厘岛不二之选。无与伦比的自然风光、现代化的豪华设施、贴心周到的服务，让住客有种物超所值的满足感。这里绝对值得再访，尽情享受悠闲时光！
+入住Apurva Kempinski酒店绝对是一次难忘的高端度假体验，这里将是游览巴厘岛不二之选。无与伦比的自然风光、现代化的豪华设施、贴心周到的服务，让住客有种物超所值的满足感。这里绝对值得再访，尽情享受悠闲时光!
 
 > [Apurva Kempinski Bali 房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=5941544)
 

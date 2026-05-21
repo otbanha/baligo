@@ -3,7 +3,7 @@ slug: aurora-media-park-canggu
 title: 【坎古新景点】Aurora Media Park Bali｜AI技术打造出沉浸式的开放式森林体验
 description: >-
   巴厘岛坎古的新景点——Aurora Park
-  Bali，是一个结合自然与多媒体互动技术的全新地标。这个位于塔巴南县Nuanu创意区的景点，提供了一个约1公里长的开放式森林体验，充满了光影与声音的互动游戏，并运用人工智能（AI）技术打造出沉浸式的多媒体环境。游客可以在这片约5,000平方米的自然森林中
+  Bali，是一个结合自然与多媒体互动技术的新地标。这个位于塔巴南县Nuanu创意区的景点，提供了一个约1公里长的开放式森林体验，充满了光影与声音的互动游戏，并运用人工智能（AI）技术打造出沉浸式的多媒体环境。游客可以在这片约5,000平方米的自然森林中
 pubDate: '2025-02-01'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cc5db18ca42911abb50455b588e62dde.jpg'
 tags:
@@ -16,10 +16,10 @@ originalUrl: 'https://vocus.cc/article/679dddeafd89780001a820fd'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 8670d79747d7883e8c4574e7d36ec6d0
+_srcHash: 3c97f0e77de88e438d057f41f4fea774
 ---
 
-巴厘岛坎古的新景点——**Aurora Media Park Bali**，是一个结合自然与多媒体互动技术的全新地标。这个位于塔巴南县Nuanu创意区的景点，提供了一个约1公里长的开放式森林体验，充满了光影与声音的互动游戏，并运用人工智能（AI）技术打造出沉浸式的多媒体环境。游客可以在这片约5,000平方米的自然森林中，感受到视觉与听觉的双重震撼，同时也能体验到心灵上的启发，仿佛进入了一个全新的维度。
+巴厘岛坎古的新景点——**Aurora Media Park Bali**，是一个结合自然与多媒体互动技术的新地标。这个位于塔巴南县Nuanu创意区的景点，提供了一个约1公里长的开放式森林体验，充满了光影与声音的互动游戏，并运用人工智能（AI）技术打造出沉浸式的多媒体环境。游客可以在这片约5,000平方米的自然森林中，感受到视觉与听觉的双重震撼，同时也能体验到心灵上的启发，仿佛进入了一个全新的维度。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_88cd83cae8c36c0bc84450428436accd.jpg)
 

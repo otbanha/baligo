@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66b379cefd89780001ef4899'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 39a0519924e439f9dbbb99db018be00d
+_srcHash: 9eff5d4ee6375909923ed522772e6976
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6fb17aeb28479bd7b7d5a57f318dea63.jpg)
@@ -77,6 +77,6 @@ _srcHash: 39a0519924e439f9dbbb99db018be00d
 
 快步走的话，全程大约10分钟。这是一段不长但充满乐趣的路程，希望你能顺利找到Bali Banana，买到满意的伴手礼。
 
-详细的路径，你会欣赏到什么景色，请看小杰的视频：__VID0__
+详细的路径，你会欣赏到什么景色，请看小杰的视频：
 
 祝你在巴厘岛机场购物愉快，旅途顺利！

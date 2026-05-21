@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_95a9642de6dcbc7cdb2619d6cff98c89.jpg'
 originalUrl: 'https://vocus.cc/article/66965df4fd89780001c82960'
 lang: zh-cn
-_srcHash: e71a41bb5dd66b47f1cfe02873517212
+_srcHash: 604dd22551eba237a074f9fd1a0e06c2
 ---
 
 > 以下内容由团友 [Fish Lee](https://www.facebook.com/groups/baligo/permalink/1575099593037280/) 提供：
@@ -29,7 +29,7 @@ _srcHash: e71a41bb5dd66b47f1cfe02873517212
 
 ## 巴厘岛的交通状况
 
-巴厘岛的交通状况非常糟糕，几乎整天都在塞车。因此建议行程不要排得太满，否则会让人感到非常疲惫。我们在出行前做了充分的准备，但实际上仍需要灵活调整行程安排，以避免因交通延误影响旅行体验。
+巴厘岛的交通状况非常糟糕，几乎整天都在堵车。因此建议行程不要排得太满，否则会让人感到非常疲惫。我们在出行前做了充分的准备，但实际上仍需要灵活调整行程安排，以避免因交通延误影响旅行体验。
 
 ## 舒适的天气
 
@@ -47,17 +47,17 @@ https://youtu.be/EotdDxXHFwE
 
 ![Nusa Dua Westing Resort 巧遇小海龜放生活動（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_2175104aee5cc5897fe7a9d54310cf5c.jpg)
 
-努沙杜瓦威斯汀度假村巧遇小海龟放生活动（Fish Lee提供）
+努沙杜瓦威斯汀度假酒店巧遇小海龟放生活动（Fish Lee提供）
 
 **快速参考：**[🐢巴厘岛看海龟全指南：从库塔到沙努尔，亲子必访的海龟保育据点 🌴](/blog/bali-turtle-watching-guide/)
 
 这次我们有一天入住了努沙杜瓦的威斯汀酒店。早上起床后，恰巧遇到了小海龟放生的活动，觉得非常有意义。原本我们计划去库塔的海龟中心，但这次提前实现了这个愿望，让人感到非常满足。
 
-> The Westing Resort Nusa Dua订房：[Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=104013)
+> 努沙杜瓦威斯汀度假酒店订房：[Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=104013)
 
 ## Hard Rock酒店的Kids Club
 
-Hard Rock酒店真的非常适合带小孩入住。有一天我们让孩子们参加了整天的Kids Club活动，而我们大人则去附近的百货公司逛街和享受SPA。这样不仅让我们的耳根清净了一天，孩子们也玩得非常开心。最后三天我们都住在库塔的Hard Rock酒店。Hard Rock的Kids Club非常受欢迎，建议大家提前预约。酒店有提供WhatsApp联系方式，也可以写邮件先预约。如果你行程确定，提前预约比较保险，因为他们在10点前可以取消。我是到酒店才去预约，很幸运刚好剩最后的名额。
+Hard Rock酒店真的非常适合带小孩入住。有一天我们让孩子们参加了整天的Kids Club活动，而我们大人则去了附近的百货公司逛街和享受SPA。这样不仅让我们的耳根清净了一天，孩子们也玩得非常开心。最后三天我们都住在库塔的Hard Rock酒店。Hard Rock的Kids Club非常受欢迎，建议大家提前预约。酒店有提供WhatsApp联系方式，也可以写邮件先预约。如果你行程确定，提前预约比较保险，因为他们在10点前可以取消。我是到酒店才去预约，很幸运刚好剩最后的名额。
 
 ![Hard Rock 非常適合帶小孩（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_c245c475159c2539a6a0b75472e53436.jpg)
 
@@ -81,13 +81,13 @@ Hard Rock 非常适合带小孩（Fish Lee提供）
 
 ![泛舟、OMMA Day Club（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_28669c7a5c5894f46e25196b63d37e90.jpg)
 
-泛舟、OMMA Day Club（Fish Lee提供）
+漂流、OMMA Day Club（Fish Lee提供）
 
-**快速参考：**[巴厘岛泛舟攻略（泛舟常见问题FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
+**快速参考：**[巴厘岛漂流攻略（漂流常见问题FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
 
-我们这次还去乌布体验了泛舟，非常好玩。因为选择很多，我们直接请包车司机帮我们预订，他找了一个口碑不错的业者。建议选择从头到尾2小时的行程，不要选择1小时的，体验会更完整。我们有两个比较小的孩子，一个5岁多，一个7岁，他们都玩得很开心。泛舟活动大概2小时，我们早上9点从乌布的Villa出发，有附简单午餐，吃完后大概13:00结束行程。要去泛舟的地方需要走一段较长的下坡楼梯，我们家小孩慢慢走也能接受，并不困难。
+我们这次还去乌布体验了漂流，非常好玩。因为选择很多，我们直接请包车司机帮我们预订，他找了一个口碑不错的业者。建议选择从头到尾2小时的行程，不要选择1小时的，体验会更完整。我们有两个比较小的孩子，一个5岁多，一个7岁，他们都玩得很开心。漂流活动大概2小时，我们早上9点从乌布的Villa出发，有附简单午餐，吃完后大概13:00结束行程。要去漂流的地方需要走一段较长的下坡楼梯，我们家小孩慢慢走也能接受，并不困难。
 
-**Klook高评价泛舟预订：**
+**Klook高评价漂流预订：**
 
 > [阿勇河漂流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
 
@@ -107,7 +107,7 @@ Hard Rock 非常适合带小孩（Fish Lee提供）
 
 我们去了不少地方（Fish Lee提供）
 
-库塔海边虽然人多，但实际上并没有我想象中的那么糟糕，一层层的浪花还蛮治愈的。
+库塔海边虽然人多，但实际上并没有我想象中的那么糟糕，一层层的浪花还挺治愈的。
 
 > 延伸阅读：[库塔旅游攻略：50个必访景点、热闹夜生活、美食、推荐SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)
 

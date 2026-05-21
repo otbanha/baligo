@@ -19,10 +19,10 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/aglSSIW2vZg'
 lang: zh-hk
-_srcHash: b2a1eaa7afae0fb3e0435276e5ec1f2e
+_srcHash: 69f0dc512c443c1cfb6411bf33bcb171
 ---
 
-上一集嘅坎古攻略我哋大概介紹咗坎古嘅樣貌，同埋點解坎古會成為峇里島最潮嘅地方。可以睇睇我哋嘅介紹喔：
+上一集嘅坎古攻略我哋大概介紹咗坎古嘅樣貌，同埋點解坎古會成為峇里島最潮嘅地方。可以睇睇我哋嘅介紹喔:
 
 [【峇里島必訪】坎古攻略：衝浪、美食同潮流嘅完美結合！](/blog/canggu-surf-food-guide/)
 
@@ -46,53 +46,53 @@ _srcHash: b2a1eaa7afae0fb3e0435276e5ec1f2e
 
 ### Jl. Pantai Berawa（伯拉瓦海灘路）
 
-我哋先從最右手邊嘅「Jl. Pantai Berawa」講起。呢條路連接到 Berawa 海灘，Berawa 海灘有一個好出名嘅海灘俱樂部「Finns Beach Club」，係呢個地區最時尚嘅海灘俱樂部；仲有一個疫情後先開幕嘅 Atlas Beach Fest 海灘俱樂部。通常呢條路到傍晚時間就會擠滿人潮。
+我哋先從最右手邊嘅「Jl. Pantai Berawa」講起。呢條路連接到 Berawa 海灘，Berawa 海灘有一個好出名嘅海灘俱樂部「Finns Beach Club」，係呢個地區最時尚嘅海灘俱樂部；仲有一個疫情後先開幕嘅 Atlas Beach Fest 海灘俱樂部。通常呢條路到傍晚就會擠滿人潮。
 
-值得一提嘅係 Finns Beach Club 外面嘅公共沙灘，呢個沙灘有咩特別呢？一般我哋影海灘夕陽人像相，距離相機/手機比較遠嘅時候通常只可以將人像影成剪影。我哋冇帶任何補光設備+手機影相，喺呢個沙灘上影到咁樣一張清晰、人像光線充足、又有夕陽美景嘅相。
+值得一提嘅係 Finns Beach Club 外面嘅公共沙灘，呢個沙灘有咩特別呢？一般我哋影海灘夕陽人像相，當距離相機/手機比較遠嘅時候通常只可以將人像影成剪影。我哋冇帶任何補光設備+用手機影相，喺呢個沙灘上影到咁一張清晰、人像光線充足、又有夕陽美景嘅相。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2f1c4750ee129a41dac2aeb26089d470.jpg)
 
-[Canggu仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
-咁到底係點樣做到嘅呢？其實係因為 Finns Beach Club 有強光打向海灘，所以只要日落時分喺呢個沙灘上隨便一站就可以影到咁專業級百萬打光嘅相。
+到底係點樣做到嘅呢？其實係因為 Finns Beach Club 有強光打向海灘，所以只要日落時分喺呢個沙灘上隨便一站就可以影到咁專業級百萬打光嘅相。
 
 離 Finns Beach Club 唔遠嘅 Panama Kitchen & Pool 係個適合影相嘅好地方。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_23dd7b71fb7b2d801ea8d76cd23e8dcb.jpg)
 
-[Canggu仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
+[坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
-呢度有花園泳池，南美洲加勒比海嘅風格，食物都唔錯。我哋喺呢度玩咗幾個鐘影咗啲相。
+呢度有花園泳池，南美洲加勒比海嘅風格，食物都唔錯。我哋喺度玩咗幾個鐘影咗啲相。
 
 ### Jl. Pantai Batu Bolong（巴圖伯隆海灘路）
 
 位於中間嘅 Jl. Pantai Batu Bolong（巴圖伯隆海灘路），呢條路有最多餐廳、酒吧、咖啡館，係坎古最主要嘅購物街道，亦可以算係坎古嘅市中心。如果推薦俾你哋嘅話，呢度係第一次嚟坎古嘅最佳住宿地區。沿住 Batu Bolong 嘅住宿可以好容易行到所有最好嘅咖啡館、餐館、商店同海灘。
 
-喺呢條路上面有一個賣精美手工藝品嘅「Love Anchor」，佢係一個半露天嘅市場，啲嘢好精美但係價錢都唔平。不過嚟呢個地方嘅氛圍好特別，有一種講唔出嘅感覺。影吓假文青相都幾好㗎！
+喺呢條路有一個賣精美手工藝品嘅「Love Anchor」，佢係一個半露天嘅市場，啲嘢好精美但係價錢都唔平。不過嚟呢個地方嘅氛圍好特別，有一種講唔出嘅感覺。影下假文青相都幾好㗎！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3d86b5d411474b4ceddab20f8043ebe4.jpg)
 
 [坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
-坎古仲有幾個好有特色嘅市場，鍾意尋寶嘅朋友可以上網搜尋吓「Canggu Markets Guide」，一個一個去尋寶。
+坎古仲有幾個好有特色嘅市場，鍾意尋寶嘅朋友可以上網搜尋下「Canggu Markets Guide」，一個一個去尋寶。
 
-繼續往海邊行，Jl. Pantai Batu Bolong 呢條路通往好受歡迎嘅 Old Man's Bar 同埋 Batu Bolong 海灘嘅日落觀賞點。嚟到呢度唔好忘記同可以作為坎古地標嘅 Oldman 嘅壁畫同招牌影張合照呀！
+繼續向海邊行，Jl. Pantai Batu Bolong 呢條路通往好受歡迎嘅 Old Man's Bar 同 Batu Bolong 海灘嘅日落觀賞點。嚟到呢度唔好忘記同可以作為坎古地標嘅 Oldman 嘅壁畫同招牌影張合照㗎！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4fd792a343a64ca8c0d7ed572e451f5a.jpg)
 
 [坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
-呢個海灘亦係坎古衝浪最佳海灘，海灘上成日都可以見到型男索女拎住衝浪板或者喺海浪上面展現衝浪英姿。你可以喺呢度好容易搵到出租衝浪板嘅地方，或者你可以搵教練陪你衝浪。
+呢個海灘亦係坎古衝浪最佳海灘，海灘上成日都可以見到型男索女拎住衝浪板或者喺海浪上展現衝浪英姿。你可以喺呢度好容易搵到出租衝浪板嘅地方，或者你可以搵教練陪你衝浪。
 
 ### 坎古捷徑
 
-喺頭先介紹嘅呢兩條路之間，Jl. Pantai Berawa（伯拉瓦海灘路）同 Jl. Pantai Batu Bolong（巴圖伯隆海灘路）仲有一條秘密捷徑相連㗎！當地人就叫呢條路做 Canggu Shortcut，佢連接咗 Batu Bolong 同 Batu Bewara 呢兩個區域，唔使兜大圈返去幾乎成日塞車嘅坎古大道先可以去到另一個地方，可以令呢兩條主要道路更快通勤運輸。Canggu Shortcut 帶俾人哋好大嘅方便，喺 2017 年嘅 Canggu Shortcut 係咁樣嘅，一條小路穿越綠意盎然嘅大片稻田，嗰種感覺就好似人間仙境一樣，好開闊、好自在！
+喺頭先介紹嘅呢兩條路之間，Jl. Pantai Berawa（伯拉瓦海灘路）同 Jl. Pantai Batu Bolong（巴圖伯隆海灘路）仲有一條秘密捷徑相連㗎！當地人就叫呢條路做 Canggu Shortcut，佢連接咗 Batu Bolong 同 Batu Bewara 呢兩個區域，唔使兜大圈返去幾乎成日塞車嘅坎古大道先可以去到另一個地方，可以令呢兩條主要道路更快通勤運輸。Canggu Shortcut 俾人帶嚟好大嘅方便，喺 2017 年嘅 Canggu Shortcut 係咁樣嘅，一條小路穿越綠意盎然嘅大片稻田，嗰種感覺就好似係人間仙境一樣，好開闊、好自在！
 
 ![小傑Canggu攻略視頻截圖](https://images.gobaligo.id/vocus/vocus_36fc37858acc4c3c0e4c64442b683117.jpg)
 
 [小傑坎古攻略視頻截圖](https://www.youtube.com/watch?v=aglSSIW2vZg)
 
-但係隨住坎古嘅急速發展，疫情爆發之前坎古捷徑已經變成咁樣，人潮、車潮、路邊嘅廣告牌林立、一棟又一棟嘅屋企、咖啡廳沿住狹窄嘅路邊起，已經令到坎古捷徑變成一條冇晒美感嘅小路，路況越來越差、車又越來越多，坎古捷徑後來變成「日日都有人炒車」嘅路段！
+但係隨住坎古嘅急速發展，喺疫情爆發之前，坎古捷徑已經變成咁樣：人潮、車潮、路邊嘅廣告牌林立、一棟又一棟嘅房屋、咖啡廳沿住狹窄嘅路邊興建，已經令到坎古捷徑變得毫無美感，路況越來越差、車又越來越多，坎古捷徑後來變成「日日都有人炒車」嘅路段！
 
 2021年尾呢條捷徑有重新鋪過，改咗做柏油路，條路好似闊咗少少，不過某啲時段可能都係一樣咁塞車。
 
@@ -102,7 +102,7 @@ _srcHash: b2a1eaa7afae0fb3e0435276e5ec1f2e
 
 ### Jl. Padang Lingjong（巴當林瓊路）
 
-第三條主要道路嘅 Jl. Padang Lingjong 巴當林瓊路，呢條路連接到 Echo Beach（回音海灘）。最近喺近海邊嘅地區集中咗好多商店同住宿選擇。喺海邊有一個 La Brisa Beach Club，佔地好大嘅呢個地方要網上預約先可以入去。呢個海灘俱樂部嘅裝修好有風格，令人好難唔鍾意呢度隨意嘅用餐氛圍，入面全部都係用漂流木搭建嘅木地板同建築，種咗超級多嘅椰子樹，仲有適合小朋友玩嘅游泳池。好有唔同嘅風情。
+第三條主要道路嘅Jl. Padang Lingjong巴當林瓊路，呢條路連接到Echo Beach（回音海灘）。最近喺近海邊嘅地區集中咗好多商店同住宿選擇。喺海邊有一個La Brisa Beach Club，佔地好大嘅呢個地方要網上預約先可以入去。呢個海灘俱樂部嘅裝修好有風格，令人好難唔愛上呢度隨意嘅用餐氛圍，入面全部都係用漂流木搭建嘅木地板同建築，種咗超級多嘅椰子樹，仲有適合小朋友玩嘅游泳池。好有唔同嘅風情。
 
 延伸閱讀:
 [被譽為係「峇里島最靚嘅餐廳」：La Brisa喺數以萬計嘅美食餐廳之中點樣脫穎而出？](/blog/canggu-la-brisa-restaurant-guide/)
@@ -113,7 +113,7 @@ _srcHash: b2a1eaa7afae0fb3e0435276e5ec1f2e
 
 [坎古仲有咩好玩?](https://www.klook.com/zh-TW/search/result/?query=canggu&spm=City.TopNavigation.SearchInput&clickId=cdfbb0560e)
 
-呢度亦係一個好正嘅影相地點，日落之前點影都係靚相！
+呢度亦係一個好正嘅影相地點，喺日落之前隨便影都係靚相！
 
 你可以喺呢度享受日落，睇住衝浪者同海灘上嘅人，當然仲有品嚐呢間餐廳嘅美味食物。
 
@@ -123,9 +123,9 @@ _srcHash: b2a1eaa7afae0fb3e0435276e5ec1f2e
 
 [小傑坎古攻略視頻截圖](https://www.youtube.com/watch?v=aglSSIW2vZg)
 
-介紹完坎古嘅主要道路同埋美食，我哋就一定要講下坎古嘅美食啦！坎古都係一個注重健康飲食嘅地方，各種健康美食之中最出名嘅 Smoothie Bowl 係近年嚟超紅嘅早餐選擇。用奶製品加埋蔬菜、生果、果仁組成嘅 Smoothie Bowl，賣相靚、口感豐富、營養、健康、美味、科學，呢啲形容詞都係佢嘅最佳代名詞！
+介紹完坎古主要嘅道路同埋美食，我哋就一定要講下坎古嘅美食啦！坎古都係一個注重健康飲食嘅地方，各種健康美食之中最有名嘅 Smoothie Bowl 係近年嚟超火嘅早餐選擇。用奶製品加上蔬菜、生果、堅果組成嘅 Smoothie Bowl，顏值高、口感豐富、營養、健康、美味、科學，呢啲形容詞都係佢嘅最佳代名詞！
 
-喺坎古嘅早餐嚟份 Smoothie Bowl 健康減脂啦！畢竟肥仔衝浪係吸引唔到型男索女㗎！
+喺坎古嘅早餐嚟份 Smoothie Bowl 健康減脂啦！畢竟肥仔衝浪係冇辦法吸引型男索女㗎！
 
 ## 坎古交通
 
@@ -133,9 +133,9 @@ _srcHash: b2a1eaa7afae0fb3e0435276e5ec1f2e
 
 [小傑坎古攻略視頻截圖](https://www.youtube.com/watch?v=aglSSIW2vZg)
 
-坎古由小村落發展起嚟，道路嘅規劃並唔完善，馬路都係窄窄嘅好容易塞車。但係呢度嘅氛圍就吸引咗唔少國際財團，已經開始投資興建大型嘅渡假村。但係馬路窄、容易塞車等問題短時間內冇辦法改善，再加上由一個景點去另外一個景點通常都要兜一大個圈，難怪有人話喺坎古移動嘅最佳方式就係「除咗鞋沿住沙灘行」！
+坎古由小村落發展起嚟，道路嘅規劃並唔完善，馬路都係細細嘅好容易塞車。但係呢度嘅氛圍卻吸引咗唔少國際財團，已經開始投資興建起大型嘅渡假村。但係馬路細、容易塞車等問題短時間冇辦法改善，再加上從一個景點到另外一個景點通常都要兜一大個圈，難怪有人話喺坎古移動嘅最佳方式就係「除咗對鞋沿住沙灘行」！
 
-除咗用雙腳遊覽坎古仲有咩推薦嘅方式呢？如果你唔想俾塞喺車龍入面慢慢變老，你可以用印尼嘅手機叫車服務「Gojek」，用入面嘅「Go Ride」電單車載人服務。呢個 app 超級方便，載人服務嘅價錢都好平，而且唔怕俾人呃都有標定嘅價錢。關於 Gojek 嘅使用方式可以參考我之前做過嘅介紹同使用教學，Gojek 有英文介面，推薦俾嚟印尼嘅朋友多多利用啦！
+除咗用雙腳遊覽坎古仲有咩推薦嘅方式呢？如果你唔想被塞喺車陣中漸漸老去，你可以使用印尼嘅手機叫車服務「Gojek」，使用當中嘅「Go Ride」電單車載人服務。呢個 app 超級方便，載人服務嘅價格都好低，而且唔使怕被劏都有標定嘅價格。關於 Gojek 嘅使用方式可以參考我之前做過嘅介紹與使用教學，Gojek 有英文介面，推薦俾嚟印尼嘅朋友多多利用啦！
 
 {{video1}}
 
@@ -159,8 +159,8 @@ _srcHash: b2a1eaa7afae0fb3e0435276e5ec1f2e
 
 > [海神廟介紹 & 潮汐指南](/blog/bali-tanah-lot-guide/)
 
-無論你想喺沙灘曬太陽、滑浪、影相，定係想食好嘢、shopping、體驗異國風情，坎古都可以滿足你嘅需求。無論係一個人、同屋企人朋友一齊，定係同摯愛共度浪漫時光，坎古都可以帶俾你一段難忘嘅旅程。
+無論你係想喺沙灘上曬太陽、衝浪、影相，定係想品嚐美食、購物、體驗異國風情，坎古都可以滿足你嘅需求。無論係自己一個、同家人朋友一齊，定係同摯愛共度浪漫時光，坎古都可以帶俾你一段難忘嘅旅程。
 
-希望你喺坎古嘅旅途中可以收穫滿滿嘅回憶同美好時光，期待喺坎古同你相遇！
+希望你喺坎古嘅旅途中可以收穫滿滿嘅回憶同美好嘅時光，期待同你喺坎古相遇！
 
 {{block:攻略}}

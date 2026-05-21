@@ -1,7 +1,7 @@
 ---
 slug: bali-family-summer-trip
 title: 峇里島暑假親子自由行旅行心得：深入體驗熱帶天堂
-description: 今次峇里島嘅旅程我哋體驗咗從入境、交通、天氣到各種活動同美食，希望呢啲心得可以幫到大家嘅旅行計劃...
+description: 今次峇里島嘅旅程我哋體驗咗由入境、交通、天氣到各種活動同美食，希望呢啲心得可以幫到大家嘅旅行計劃...
 pubDate: 2024-08-18T00:00:00.000Z
 category:
   - 家庭親子
@@ -16,12 +16,12 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_95a9642de6dcbc7cdb2619d6cff98c89.jpg'
 originalUrl: 'https://vocus.cc/article/66965df4fd89780001c82960'
 lang: zh-hk
-_srcHash: e71a41bb5dd66b47f1cfe02873517212
+_srcHash: 604dd22551eba237a074f9fd1a0e06c2
 ---
 
 > 以下內容由團友 [Fish Lee](https://www.facebook.com/groups/baligo/permalink/1575099593037280/) 提供：
 
-取之於社團，回饋社團。啱啱從峇里島返嚟，同大家分享下今次嘅旅行經驗。今次旅程我哋體驗咗從入境、交通、天氣到各種活動同美食，希望呢啲心得可以幫到大家嘅旅行計劃。
+取之於社團，回饋社團。岩岩從峇里島返嚟，同大家分享下今次嘅旅行經驗。今次旅程我哋體驗咗由入境、交通、天氣到各種活動同美食，希望呢啲心得可以幫到大家嘅旅行計劃。
 
 ## 順利入境
 
@@ -33,37 +33,37 @@ _srcHash: e71a41bb5dd66b47f1cfe02873517212
 
 ## 舒適嘅天氣
 
-峇里島嘅天氣非常舒服，雖然太陽好猛，但唔似台灣咁熱到咬皮膚。不過咁，都容易曬傷，所以一定要做好防曬措施，包括搽防曬霜、着防曬衫同戴帽等等。
+峇里島嘅天氣非常舒服，雖然太陽好猛，但唔似台灣咁熱到咬皮膚。不過，都容易曬傷，所以一定要做好防曬措施，包括搽防曬霜、着防曬衫同戴帽等等。
 
 https://youtu.be/EotdDxXHFwE
 
 ## 渡假村游泳池嘅深度
 
-峇里島嘅渡假村游泳池通常都比較深，同台灣比有明顯分別。所以如果有小朋友一齊去，家長要特別注意小朋友嘅安全。建議帶埋浮臂圈或者其他浮水裝置，確保小朋友玩水時安全。
+峇里島嘅渡假村游泳池通常都比較深，同台灣嘅泳池有好大分別。所以如果有小朋友一齊去，家長就要特別注意佢哋嘅安全。建議帶埋浮臂圈或者其他浮水裝置，確保小朋友喺水入面玩得安全。
 
-編按：都可以考慮[峇里島泳池浮水物租借](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1204489&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F4837-pool-float-rental-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Deb445829a5)㗎！
+編按：亦可以考慮[峇里島泳池漂浮物租借](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1204489&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F4837-pool-float-rental-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Deb445829a5)㗎！
 
-## 威斯汀酒店嘅小海龜放生活動
+## 威斯丁酒店嘅小海龜放生活動
 
 ![Nusa Dua Westing Resort 巧遇小海龜放生活動（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_2175104aee5cc5897fe7a9d54310cf5c.jpg)
 
-努沙杜瓦威斯汀渡假村巧遇小海龜放生活動（Fish Lee提供）
+Nusa Dua Westing Resort 巧遇小海龜放生活動（Fish Lee提供）
 
-**快速參考：**[🐢峇里島睇海龜全指南：由庫塔到沙努爾，親子必去嘅海龜保育據點 🌴](/blog/bali-turtle-watching-guide/)
+**快速參考：**[🐢峇里島睇海龜全指南：從庫塔到沙努爾，親子必訪嘅海龜保育據點 🌴](/blog/bali-turtle-watching-guide/)
 
-今次我哋有一日入住咗努沙杜瓦嘅威斯汀酒店。朝早起身之後，咁啱遇到小海龜放生嘅活動，覺得好有意義。原本我哋計劃去庫塔嘅海龜中心，但今次提早實現咗呢個願望，令人覺得好滿足。
+今次我哋有一日入住咗努沙杜瓦嘅威斯丁酒店。朝早起身之後，咁啱遇到小海龜放生嘅活動，覺得好有意義。原本我哋計劃去庫塔嘅海龜中心，但今次提早實現咗呢個願望，令人覺得好滿足。
 
-> 努沙杜瓦威斯汀渡假村訂房：[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=104013)
+> The Westing Resort Nusa Dua訂房：[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=104013)
 
 ## Hard Rock酒店嘅Kids Club
 
-Hard Rock酒店真係好適合帶小朋友入住。有一日我哋俾小朋友參加咗成日嘅Kids Club活動，而我哋大人就去附近嘅百貨公司行街同享受SPA。咁樣唔單止令我哋耳根清淨咗一日，小朋友亦玩得好開心。最後三日我哋都住喺庫塔嘅Hard Rock酒店。Hard Rock嘅Kids Club好受歡迎，建議大家提早預約。酒店有提供WhatsApp聯絡方式，亦可以寫電郵預先預約。如果你行程確定，提早預約會穩陣啲，因為佢哋10點前可以取消。我係到酒店先至去預約，好彩仲有最後一個名額。
+Hard Rock酒店真係好適合帶小朋友入住。有一日我哋俾小朋友參加咗成日嘅Kids Club活動，而大人就去附近嘅百貨公司行街同享受SPA。咁樣唔單止俾我哋耳根清靜咗一日，小朋友亦玩得好開心。最後三日我哋都住喺庫塔嘅Hard Rock酒店。Hard Rock嘅Kids Club好受歡迎，建議大家提早預約。酒店有提供WhatsApp聯絡方式，亦可以寫電郵預約。如果你行程確定，提早預約會穩陣啲，因為佢哋10點前可以取消。我係去到酒店先預約，好彩仲有最後一個名額。
 
 ![Hard Rock 非常適合帶小孩（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_c245c475159c2539a6a0b75472e53436.jpg)
 
 Hard Rock 好適合帶小朋友（Fish Lee提供）
 
-值得一提嘅係，Hard Rock嘅Kids Club每日都有唔同嘅活動安排，雖然入面唔可以影相，但最正嘅係會提供午餐，小朋友可以喺度開心咁過一日（一日費用250K，約USD$8）。咁樣我哋大人都有自己嘅時間放鬆。
+值得一提嘅係，Hard Rock嘅Kids Club每日都有唔同嘅活動安排，雖然入面唔可以影相，但最正嘅係會提供午餐，小朋友可以喺度開心咁過一日（一日費用250K）。咁樣我哋大人都有自己嘅時間放鬆。
 
 > Hard Rock Bali 訂房：[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8650)
 
@@ -85,13 +85,13 @@ Hard Rock 好適合帶小朋友（Fish Lee提供）
 
 **快速參考：**[峇里島泛舟攻略（泛舟常見問題FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
 
-我哋今次仲去咗烏布體驗泛舟，非常好玩。因為選擇好多，我哋直接請包車司機幫我哋預訂，佢搵咗個口碑唔錯嘅業者。建議選擇從頭到尾2個鐘嘅行程，唔好選擇1個鐘嘅，體驗會更加完整。我哋有兩個比較細嘅小朋友，一個5歲幾，一個7歲，佢哋都玩得好開心。泛舟活動大概2個鐘，我哋朝早9點從烏布嘅Villa出發，有附簡單午餐，食完後大概13:00結束行程。要去泛舟嘅地方需要行一段比較長嘅落斜樓梯，我哋屋企小朋友慢慢行都接受到，並唔困難。
+我哋今次仲去咗烏布體驗泛舟，非常好玩。因為選擇好多，我哋直接請包車司機幫我哋預訂，佢搵咗個口碑唔錯嘅業者。建議選擇由頭到尾2個鐘嘅行程，唔好選擇1個鐘嘅，體驗會更加完整。我哋有兩個比較細嘅小朋友，一個5歲幾，一個7歲，佢哋都玩得好開心。泛舟活動大概2個鐘，我哋朝早9點由烏布嘅Villa出發，有附簡單午餐，食完之後大概13:00結束行程。要去泛舟嘅地方需要行一段比較長嘅落斜樓梯，我哋屋企小朋友慢慢行都接受到，並唔困難。
 
 **Klook高評價泛舟預訂：**
 
-> [阿勇河泛舟](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
+> [阿勇河激流](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)
 
-> [阿勇河泛舟（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
+> [阿勇河激流（含接送）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
 > 延伸閱讀：[Omma Dayclub介紹 & 官網](/blog/ubud-omma-dayclub-tegenungan-waterfall/)
 
@@ -107,15 +107,15 @@ Hard Rock 好適合帶小朋友（Fish Lee提供）
 
 我哋去咗唔少地方（Fish Lee提供）
 
-庫塔海邊雖然人多，但實際上並冇我想像中咁差，一層層嘅浪花都幾療癒。
+庫塔海邊雖然人多，但實際上並冇我諗像中咁差，一層層嘅浪花仲幾療癒添。
 
 > 延伸閱讀：[庫塔旅遊攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)
 
 ## 有趣嘅編髮體驗
 
-峇里島嘅編髮體驗好有趣，令人感覺好有度假嘅氛圍。我見到好多外國嘅小朋友都編咗各種顏色嘅頭髮，所以我都帶埋小朋友去體驗吓，好特別。
+峇里島嘅編髮體驗非常有趣，令人感覺好有度假嘅氛圍。我見到好多外國嘅小朋友都編咗各種顏色嘅頭髮，所以我都帶埋啲小朋友去體驗一下，非常特別。
 
-我哋係庫塔（Kuta）海邊嘅 Jamie Oliver 餐廳呢條路上編辮子嘅。呢條街有好多 Spa 舖頭，都提供編辮子嘅服務，仲會喺舖頭門口擺放編辮子嘅樣品展示。我原本以為佢哋會用大量髮膠嚟固定辮子，但實際上並冇。拆辮子嘅時候，只需要剪走假髮嘅部分就得，都幾方便。
+我哋係喺庫塔（Kuta）海邊嘅 Jamie Oliver 餐廳呢條路上編辮子嘅。呢條街有好多 Spa 舖頭，都提供編辮子嘅服務，仲會喺舖頭門口擺放編辮子嘅樣品展示。我原本以為佢哋會用大量髮膠嚟固定辮子，但實際上並冇。拆辮子嘅時候，只需要剪掉假髮嘅部分就得，都幾方便。
 
 ![綁兩隻辮子這種大概半小時左右（Fish Lee提供）](https://images.gobaligo.id/vocus/vocus_c158cc5020c65c5d71593f43d6549fb7.jpg)
 
@@ -129,7 +129,7 @@ Hard Rock 好適合帶小朋友（Fish Lee提供）
 
 ## 方便嘅包車服務
 
-今次我哋選擇咗包車服務（司機+中文導遊），我哋請咗一位識講中文嘅導遊幫手，唔單止解決咗語言溝通問題，仲令我哋嘅旅行更加輕鬆愉快。例如，我哋大人今次享受咗三次SPA，有一次導遊喺我哋嘅Villa幫手睇住小朋友，另一次佢帶小朋友出去食嘢，咁樣大人就可以完全放鬆咁享受SPA嘅時光。
+今次我哋選擇咗包車服務（司機+中文導遊），我哋請咗一位識講中文嘅導遊幫手，唔單止解決咗語言溝通問題，仲令我哋嘅旅行更加輕鬆愉快。例如，我哋大人今次享受咗三次SPA，有一次導遊喺我哋嘅Villa幫手睇住啲小朋友，另一次佢帶啲小朋友出去食嘢，咁樣大人們就可以完全放鬆咁享受SPA嘅時光。
 
 ## 推薦嘅包車司機同導遊
 
@@ -137,13 +137,13 @@ Hard Rock 好適合帶小朋友（Fish Lee提供）
 
 Edy司機、我哋呢幾日搭嘅小巴（Fish Lee提供）
 
-今次我哋嘅包車司機Edy同佢嘅團隊，仲有我哋嘅中文導遊Ani，都非常值得推薦。司機揸車技術穩定，導遊識講流利嘅中文，解答咗我哋好多疑問，亦都好識照顧小朋友同影相。如果唔知食咩好，佢哋仲可以畀到好好嘅推薦。
+今次我哋嘅包車司機Edy同佢嘅團隊，仲有我哋嘅中文導遊Ani，都非常值得推薦。司機揸車技術穩定，導遊識講流利嘅中文，解答咗我哋好多疑問，亦都好識照顧小朋友同埋影相。如果唔知食咩好，佢哋仲可以俾到好好嘅推薦。
 
 司機Edy同中文導遊Ani嘅評價[請睇呢度](/blog/bali-private-car-drivers-guide/)
 
-今次嘅峇里島之旅非常愉快，無論係風景、美食定係服務，都俾我哋留下深刻印象。希望呢啲分享可以幫到大家嘅旅行計劃。
+今次峇里島之旅好開心，無論係風景、美食定係服務，都俾我哋留下深刻印象。希望呢啲分享可以幫到大家嘅旅行計劃。
 
-你覺得Fish Lee佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家到社團投稿你嘅行程喔！
+你覺得Fish Lee佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去社團投稿你嘅行程喔！
 
 {{block:遊記}}
 

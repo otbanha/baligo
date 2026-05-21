@@ -1,7 +1,7 @@
 ---
 title: 印尼巴厘岛旅游必备药品有哪些？防蚊液/防晒乳怎么买？
 slug: bali-travel-medicine-checklist
-description: 到巴厘岛旅游必备药品有哪些呢？药品在当地买可以吗？防蚊乳当地的更有效？
+description: 到巴厘岛旅游必备药品有哪些呢？药品在当地买ok吗？防蚊乳当地的更有效？
 pubDate: 2024-03-22T00:00:00.000Z
 pubHour: null
 category:
@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777909774643-_.png'
 originalUrl: 'https://vocus.cc/article/65fcd4a5fd89780001513c9a'
 lang: zh-cn
-_srcHash: 307acac6bec57bbf2d647bab1d9d3795
+_srcHash: f1fb2d68c081f8f545490faf08a4c3ef
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fef7bd48652aa47030dcbfd2f97f36cf.png)

@@ -17,7 +17,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: zh-hk
-_srcHash: 6cba8132a70f69c6348b4f1b5b779c2b
+_srcHash: c097f012806d8fa0a947d859c41c1465
 ---
 
 位於海神廟附近嘅 **Magic Garden（魔法花園）** 係2024年11月新開幕嘅自然公園，非常適合家庭同親子遊。呢個佔地3600平方米嘅景點有豐富嘅植物同多樣嘅互動體驗，既有教育意義又充滿樂趣。
@@ -41,20 +41,20 @@ _srcHash: 6cba8132a70f69c6348b4f1b5b779c2b
 
 ### 適合人群：
 
-- 家庭同親子
+- 家庭與親子
 - 自然愛好者
 - 生態教育者
 
 ### 周邊景點：
 
-遊覽完 Magic Garden 之後，仲可以去附近嘅 **Luna Beach Club** 或者 **The Dome 多媒體展演**，為全家人留低更多難忘嘅回憶！
+遊覽完 Magic Garden 之後，仲可以去附近嘅 **Luna Beach Club** 或者 **The Dome 多媒體展演**，為全家人留下更多難忘嘅回憶！
 
-Magic Garden 係 Nuanu Creative City 嘅亮點之一，結合咗自然、教育同娛樂，啱晒想探索生態之美同學習永續理念嘅訪客。🌿
+Magic Garden 係 Nuanu Creative City 嘅亮點之一，結合咗自然、教育同娛樂，適合想探索生態之美同學習永續理念嘅訪客。🌿
 
 ## 更多Nuanu Creative City景點
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_de89c0659a8b1e6a5a4655d323f09222.jpg)
 
-Nuanu Creative City係峇里島最新崛起嘅創意園區，仲推動零碳排，成為峇里島最新嘅永續旅遊地標。而家已經開始吸引全球嘅創意人士，成為下一個必訪嘅熱點！
+Nuanu Creative City係峇里島最新崛起嘅創意園區，仲推動零碳排，成為峇里島最新嘅永續旅遊地標。而家已經開始吸引全球創意人士，成為下一個必訪熱點！
 
 Nuanu Creative City嘅景點攻略請睇[呢度](/blog/nuanu-creative-city-luna-guide/)

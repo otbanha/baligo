@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e20cca6728d7a7fee0c32d76a9a21e37.jpg'
 originalUrl: 'https://vocus.cc/article/66155131fd89780001e64a99'
 lang: zh-cn
-_srcHash: 33cc5fdabf16372ed8398a9f0e182adc
+_srcHash: 099d162fa342bb89a8d84c0a1592e3e6
 ---
 
 (以下图文内容由团友[林诗茜](https://www.facebook.com/groups/baligo/permalink/1520187905195116/)提供，并同意我们重新编排)
@@ -61,7 +61,7 @@ https://youtu.be/hQbBTktqEqY
 
 **10:30** 造访 KIOA Bali，新开的早午餐店。非常推荐早餐盘，酱料特殊又好吃。
 
-**12:00 PM**: 到 Natura Organics Spa 体验巴厘岛传统 SPA。店内装潢摆设令人放松，稻田风景优美，按摩手法好。可 whats app 预约。
+**12:00 PM**: 到 Natura Organics Spa 体验巴厘岛传统 SPA。店内装修摆设令人放松，稻田风景优美，按摩手法好。可 whats app 预约。
 
 **3:00 PM**: 叫 Grab 前往乌布住宿 [jani's place cottage](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2166288)
 
@@ -105,7 +105,7 @@ https://youtu.be/JtxZHtijEkE
 
 ## **3月21日 星期三**
 
-**08:00** 前往 KantoLampo 瀑布景点拍照游览。请专人帮忙拍照服务一次约 USD$3。
+**08:00** 前往坎古Lampo瀑布景点拍照游览。请专人帮忙拍照服务一次约 USD$3。
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775485795059-resize_2_.jpeg)
 
@@ -152,7 +152,7 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 **12:45-13:20** 游览Broken Beach断崖景点
 
-**14:00-17:00** 前往Kelingking Beach，这是佩尼达岛上最知名的景点。
+**14:00-17:00** 前往Kelingking Beach,这是佩尼达岛上最知名的景点。
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775485905937-resize_4_.jpeg)
 
@@ -170,7 +170,7 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 > 延伸阅读: [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
 
-在Nusa Penida就只能包车了，我是在Klook上订的船票+包车，整体而言也非常满意。包车公司会事先联系确定行程，然后帮忙跟司机沟通。一下船和司机会合后他还帮忙扛行李，之后全程都很认真当导游，我要爬下kelingking beach他一样跟下来，真的非常感谢他。过程每到一个点他都会拍照跟公司回报，独旅女子觉得安心很多～这个游程真的很感谢包车司机，一路从上到下帮忙扛行李，陪同拍照，很尽责。
+在Nusa Penida就只能包车了，我是在Klook上订的船票+包车，整体而言也非常满意。包车公司会事先联系确定行程，然后帮忙跟司机沟通。一下船和司机会合后他还帮忙扛行李，之后全程都很认真当导游，我要爬下kelingking beach他一样跟下来，真的非常感谢他。过程每到一个点他都会拍照跟公司回报，独旅女子觉得安心很多～这个游程真的很感谢包车司机,一路从上到下帮忙扛行李,陪同拍照,很尽责。
 
 > 延伸阅读: [Nusa Penida佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
 
@@ -196,7 +196,7 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 ## **3月23日 星期五**
 
-**05:00** ⼀早起床前往树屋景点等待⽇出
+**05:00** 一早起床前往树屋景点等待日出
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775486048013-resize_1_.jpeg)
 
@@ -258,9 +258,9 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 **08:30** 在Le Cielo Villa享用漂浮早餐拍照
 
-**11:00** 在Lluvia Spa享受最后一次巴厘岛SPA 随后就由接驳车直接送往机场,准备返家了。
+**11:00** 在Lluvia Spa享受最后一次巴厘岛SPA 其后就由接驳车直接送往机场,准备返家了。
 
-- 上飞机前去 [Lluvia Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=756704&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15906-spa-treatment-lluvia-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcdf84f7178) 水明漾享受中价位好评spa
+- 上飞机前去 [Lluvia Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=756704&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15906-spa-treatment-lluvia-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcdf84f7178) 水明漾享受中价位好评spa
 
 {{block:spa-smk}}
 
@@ -278,7 +278,7 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 ------------------完结---------------------
 
-之后诗茜会在个⼈instagram分享更细节的景点介绍以及独旅拍照教学. 欢迎大家关注[她的账号动态](https://www.instagram.com/leo880817/)
+之后诗茜会在个人instagram分享更细节的景点介绍以及独旅拍照教学. 欢迎大家关注[她的账号动态](https://www.instagram.com/leo880817/)
 
 ![林詩茜IG帳號](https://images.gobaligo.id/vocus/vocus_501ece70128814aa55de979abc45dff2.jpg)
 

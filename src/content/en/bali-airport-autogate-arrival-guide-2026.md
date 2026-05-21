@@ -1,0 +1,112 @@
+---
+title: >-
+  【2026 Bali Airport New Regulations】Complete Overhaul of Arrival Process: New
+  Route Reorganization, Automated Gates (Autogate) to Avoid Queues - Full Guide
+slug: bali-airport-autogate-arrival-guide-2026
+description: >-
+  Say goodbye to endless queues! In 2026, Bali's Ngurah Rai International
+  Airport will completely reorganize its international arrival routes,
+  eliminating the chaotic central counters. This article details the latest
+  'instant customs clearance' process: how to use e-VOA for automated gates
+  (Autogate), pre-fill electronic customs declaration (e-CD) and tourism tax,
+  helping you understand the latest smooth arrival steps in seconds!
+pubDate: 2026-05-19T00:00:00.000Z
+pubHour: 19
+category:
+  - 簽證通關
+tags:
+  - 2026 峇里島機場入境流程
+  - 峇里島自動通關 Autogate 條件
+  - 峇里島機場大改造最新消息
+  - e-VOA 峇里島機場快速通關
+  - 峇里島海關電子申報 e-CD 2026
+  - 峇里島入境排隊多久
+  - 伍拉賴機場動線調整
+  - 峇里島旅遊稅線上繳納
+  - 印尼電子落地簽證官網
+  - 峇里島機場過海關步驟
+heroImage: 'https://images.gobaligo.id/images/2026-05/1779192976815-entry.jpg'
+originalUrl: ''
+private: false
+shuffle_h2: false
+embeds: []
+lang: en
+_srcHash: d956a24adbeaa6ccfe7832715261228e
+---
+
+Anyone who has flown into Bali's Ngurah Rai International Airport likely shares a common painful memory—especially during peak seasons or flight rush hours, the entire process from customs clearance to baggage claim can easily take one to two hours. Honestly, being stuck in a queue right after landing can instantly dampen your vacation mood.
+
+But here's the good news: Bali Airport is seriously revamping its arrival process, and the changes are significant. I've compiled the latest key points to help those planning to fly to Bali prepare mentally.
+
+### Complete Reorganization of Arrival Routes
+
+Leading this reform is the Class I Special Immigration Office at Ngurah Rai Airport, which has officially announced a complete overhaul of the international arrival area's passenger flow.
+
+Immigration Office Director Bugie Kurniawan admitted that Ngurah Rai Airport's current arrival setup differs from Jakarta's Soekarno-Hatta Airport, with shorter arrival channels leading to particularly severe congestion.
+
+The core of the new route design is simple: **ensure all passengers head straight to immigration checks upon disembarking, avoiding unnecessary detours**.
+
+### Key Improvements at a Glance
+
+The announced improvements are summarized into several key points:
+
+#### 1. New Arrival Route Design
+
+- Upon arrival, passengers proceed directly to immigration checkpoints (autogate or manual counters)
+- No more complex routing, saving significant time spent walking around the airport
+- Expected to greatly reduce overall clearance time
+
+#### 2. eVOA Electronic Visa on Arrival with Autogate is the Way to Go
+
+![](https://thebalisun.com/wp-content/uploads/2025/01/Tourists-Use-Autogates-at-Immigration-728x728.jpg.webp)
+
+- Passengers who have already applied for eVisa or eVOA can use the autogate, completing immigration in **just seconds**
+- Visa on Arrival (VOA) service will still be available but requires a separate counter
+- Passengers without pre-arranged visas will be directed to VOA counters
+- Those who haven’t filled out the All Indonesia Arrival Card will be guided to electronic kiosks for completion
+
+#### 3. Complete Pre-Arrival Tasks in One Go
+
+To ensure a smooth arrival process, complete these tasks before flying to Bali:
+
+- **Apply for eVOA Electronic Visa on Arrival** (recommended two weeks before departure): Cost IDR 500,000 (~USD$16), valid for 30 days, with one online extension option for an additional 30 days
+- **Fill out the All Indonesia App arrival card and customs declaration**
+- **Pay the Bali Tourism Tax** (via the LoveBali website or app)
+- **Prepare QR Codes**: Ensure your phone screen can display them easily before and after boarding
+
+#### 4. Enhanced Health Quarantine Measures
+
+![](https://static.bali.live/uploads/210133/responsive-images/IMG_7139___responsive-avif_768_442.avif)
+
+This update is in response to the recent Hantavirus outbreak on the MV Hondius cruise ship:
+
+- **2 thermal scanners** added to the international arrival hall
+- **1 thermal scanner** installed in the domestic arrival area
+- Monitored on-site by Denpasar Health Quarantine Center (BBKK) personnel
+
+Airport Communications and Legal Affairs Director Gede Eka Sandi Asmadi mentioned that these are preliminary measures to strengthen biosecurity protection. So in the future, when entering the country, you'll go through a more comprehensive health screening process. No need to worry too much; just go through customs as usual.
+
+### The Passenger Flow Is Truly Remarkable
+
+Here's a statistic to help you understand the pressure on Bali's airport — from January to April 2026 alone, Ngurah Rai Airport handled over **4.5 million passengers**, a growth of more than 10% compared to the same period last year. This year, Bali aims to welcome **7.5 million international tourists**, and within the next three to four years, they plan to upgrade the airport's capacity to handle 32 million passengers.
+
+This is why the airport and immigration authorities must accelerate process improvements — if they don't, the queues during peak season will truly become unbearable.
+
+### Our Recommendations
+
+Honestly, these changes are very practical and good news for travelers. Here are our recommendations for those planning to fly to Bali:
+
+1. **Two weeks before departure**, apply for the eVOA to save time queuing for a visa on arrival at the airport
+2. **Before landing**, fill out the arrival card on the All Indonesia App and save a screenshot of the QR code for backup
+3. **Tourism tax** (IDR 150,000) — pay it in advance on the LoveBali App so you don't have to queue on arrival
+4. After landing, **go straight to the autogate for automated immigration** — if your passport qualifies, the whole process really takes just a few seconds
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779192487274-_3_1_.png)
+
+Honestly, Bali's progress in tourism infrastructure over the past few years has been astonishing. From airport improvements and traffic upgrades in Uluwatu to the enhancement plans for Kuta Beach, it's clear they're serious about turning the island into an international tourism hub.
+
+Next time you land at Ngurah Rai Airport, we hope you'll experience that smooth 'from plane to car in under 30 minutes' feeling. After all, every minute of your vacation should be spent by the beach or enjoying delicious food, not standing in queues.
+
+👉 Quick Reference: [2026 Bali Ultimate Guide | Must-See Tips for First-Time Visitors to Bali](/blog/bali-ultimate-guide-2026/)
+
+{{block:klook}}

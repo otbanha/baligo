@@ -3,7 +3,7 @@ slug: thk-tower-nuanu-sustainable-architecture
 title: 【坎古/Nuanu景点】THK Tower：巴厘岛的可持续建筑奇迹与艺术灯塔
 description: >-
   位于巴厘岛努阿努创意城（Nuanu Creative City）的 THK Tower，是一座融合建筑艺术、环境可持续与文化哲学的杰作，并于 2024
-  年夏季 正式开放。这座塔楼不仅展现了建筑工艺的巅峰，更体现对自然环境的深刻关怀。
+  年夏季正式开放。这座塔楼不仅展现了建筑工艺的巅峰，更体现对自然环境的深刻关怀。
 pubDate: '2025-04-18'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e34c92cdba69f794365992f1af67064c.png'
 tags:
@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/67a2b251fd897800013ccad4'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 2928cd566adba844632cb39680b60f87
+_srcHash: d38dff7164e7d3c68407a259f2d76df8
 ---
 
 ## **探索 THK Tower：巴厘岛新地标的诞生**

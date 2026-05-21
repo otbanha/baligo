@@ -1,9 +1,7 @@
 ---
 slug: cretya-sunset-ubud-paradise
 title: 【乌布美食+美景】Cretya Sunset，巴厘岛乌布秘境：最梦幻的日落天堂
-description: >-
-  在饱览德哥拉郎梯田美景的 Cretya Ubub 大受欢迎之后，Alas Harum集团再推出全新力作——Cretya Sunset by Alas
-  Harum, Ubud。这座位于乌布的全新日落日间俱乐部与餐厅，将带给您无与伦比的放松体验与绝美景色，成为您探索巴厘岛时不可错过的梦幻目的地
+description: "在饱览德哥拉郎梯田美景的 Cretya Ubub 大受欢迎之后，Alas Harum集团再推出全新力作——Cretya Sunset by Alas Harum, Ubud。\_这座位于乌布的全新日落日间俱乐部与餐厅，将带给您无与伦比的放松体验与绝美景色，成为您探索巴厘岛时不可错过的梦幻目的地"
 pubDate: '2025-01-29'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ec754ce91cf35c0a79ad307a1a0c4f3f.jpg'
 tags:
@@ -16,10 +14,10 @@ originalUrl: 'https://vocus.cc/article/6799a185fd89780001c87e06'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 20af41d91b233fded0bc1dc578120e2d
+_srcHash: 2c318a1777a705fec4a0a9806feefeb9
 ---
 
-**在饱览德哥拉郎梯田美景的** [**Cretya Ubub**](/blog/cretya-ubud-alas-harum-budget-guide/) **大受欢迎之后，Alas Harum集团再推出全新力作——Cretya Sunset by Alas Harum, Ubud。** 这座位于乌布的全新日落日间俱乐部与餐厅，将带给您无与伦比的放松体验与绝美景色，成为您探索巴厘岛时不可错过的梦幻目的地。
+**在饱览德哥拉郎梯田美景的** [**Cretya Ubub**](/blog/cretya-ubud-alas-harum-budget-guide/) **大受欢迎之后，Alas Harum集团再推出全新力作——Cretya Sunset by Alas Harum, Ubud。** 这座位于乌布的全新日落日间俱乐部与餐厅，将带给您无与伦比的放松体验与绝美景色，成为您探索巴厘岛时不可错过的梦幻目的地。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2c6d7325ae36ad648aca156f8c68e65b.jpg)
 
@@ -27,7 +25,7 @@ _srcHash: 20af41d91b233fded0bc1dc578120e2d
 
 ## **Cretya Sunset：乌布终极日间俱乐部体验**
 
-Cretya Sunset 坐落于巴厘岛乌布郁郁葱葱的稻田之中，结合了奢华、娱乐与自然美景，为您提供一个完美的放松与享受的空间。这里不仅拥有无边际泳池、时尚的休闲区，还营造出一种既时尚又宁静的氛围，无论是想要放松身心还是享受派对，这里都能满足您的需求。
+Cretya Sunset 坐落于巴厘岛乌布郁郁葱葱的稻田之中，结合了奢华、娱乐与自然美景，为您提供一个完美的放松与享受的空间。这里不仅拥有无边泳池、时尚的休闲区，还营造出一种既时尚又宁静的氛围，无论是想要放松身心还是享受派对，这里都能满足您的需求。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1c76ca2d1240692a4a961b3d172ead24.jpg)
 
@@ -35,7 +33,7 @@ Cretya Sunset 坐落于巴厘岛乌布郁郁葱葱的稻田之中，结合了奢
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f95a6e1067e15d1920bddf9d4701602d.jpg)
 
-俱乐部的设计融合了现代与传统巴厘岛风格，让您在享受美食与鸡尾酒的同时，也能感受到浓厚的文化氛围。面向西边的特色，使得这里在每天傍晚变身成为欣赏乌布日落的绝佳地点！伴随着现场DJ的音乐，您将沉浸在这片热带天堂的美景中。
+俱乐部的设计融合了现代与传统巴厘岛风格，让您在享受美食与鸡尾酒的同时，也能感受到浓厚的文化氛围。面向西边的特色，使得这里在每天傍晚变身为欣赏乌布日落的绝佳地点！伴随着现场DJ的音乐，您将沉浸在这片热带天堂的美景中。
 
 Cretya Sunset ▶[Klook优惠券 Rp.62,500](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989669&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F78117-ubudsunset-pass-poolbar-bali%2F%3Fspm%3DActivity.TopNavigation.SelectCurrency%26clickId%3D09b568e351)
 

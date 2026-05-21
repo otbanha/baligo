@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6847dc25fd89780001779046'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 89151fb3f61c01d542764b6b509b808c
+_srcHash: 1a32e0cc6e43aedede9a9466a06ee541
 ---
 
 ### **巴厘岛迎接观光旺季，文化活动全面启动**
@@ -31,7 +31,7 @@ _srcHash: 89151fb3f61c01d542764b6b509b808c
 
 ![印尼紙鈔50,000元象徵圖案](https://images.gobaligo.id/vocus/vocus_7d511ea1af01636c9ddf9fc9c213d0fc.jpg)
 
-印尼纸钞50,000元象征图案
+印尼纸币50,000元象征图案
 
 ### **Ulun Danu Beratan水神庙携手Blooms Garden推出每日Gebogan游行**
 

@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_879f4fdb8dbb83fac3a613828dec0a3f.png'
 originalUrl: 'https://vocus.cc/article/694122b8fd89780001f514c9'
 lang: zh-cn
-_srcHash: e4dfe1cfba49de659ad6613eae56983c
+_srcHash: 4dcf0f7c7142165782f44b92f050ed70
 ---
 
 巴厘岛的水上活动非常丰富多元，从刺激的极限运动到悠闲的生态探索，应有尽有。以下是完整的水上活动推荐，适合不同兴趣和体能程度的游客。
@@ -230,7 +230,7 @@ https://youtu.be/wai2lSW3vVU?si=smSuWoB2Y5ygrC9t
 
   **适合家庭亲子**：香蕉船、海底漫步、红树林独木舟、瀑布探险、观赏海豚
   **适合情侣**：SUP 日落、Jukung 帆船、浮潜、瀑布探险、海滩俱乐部
-  **适合寻求刺激**：飞鱼、Flyboard、激流泛舟、水上摩托车、进阶冲浪、深潜
+  **适合寻求刺激**：飞鱼、Flyboard、激流泛舟、水上摩托艇、进阶冲浪、深潜
   **适合预算有限**：冲浪教学、独木舟、瀑布探险、沙滩游泳
   **适合不会游泳**：海底漫步、香蕉船（穿救生衣）、红树林独木舟、海滩俱乐部
 

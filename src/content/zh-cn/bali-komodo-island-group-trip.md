@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66efc051fd89780001433018'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: c15a8fd055e556851f29749f15a9529f
+_srcHash: 0287cc7e89b76fe01ba3eca3c6894049
 ---
 
 > 以下内容改编自团友 [Sandra Yun](https://www.facebook.com/share/p/R9sqkkpWfnrB6Bzr/) 分享游记：
@@ -45,7 +45,7 @@ Gede 在社团拥有超多好评！[请参考这里](/blog/bali-private-car-driv
 
 ## 4. 巴厘岛的交通状况
 
-这次行程中，我们发现闹区的塞车情况真的相当严重！特别是在下午1点到晚上7点半之间，乌鲁瓦图、乌布、金巴兰这些地方的塞车情况更是夸张。虽然Google Map预估的时间看起来很短，但实际路程往往需要乘以2.5到3倍的时间。建议大家在这段时间内尽量避免长途移动。
+这次行程中，我们发现闹区的堵车情况真的相当严重！特别是在下午1点到晚上7点半之间，乌鲁瓦图、乌布、金巴兰这些地方的堵车情况更是夸张。虽然Google Map预估的时间看起来很短，但实际路程往往需要乘以2.5到3倍的时间。建议大家在这段时间内尽量避免长途移动。
 
 > 编按：[在巴厘岛别相信Google地图！](/blog/bali-google-maps-warning/)
 
@@ -89,7 +89,7 @@ Gede 在社团拥有超多好评！[请参考这里](/blog/bali-private-car-driv
 
 如果你想买伴手礼，Bali Banana是一个不错的选择。市区有几家店面，要注意的是虽然机场也有三家分店，但是分别在国内线入境/出境处和国际线走出机场的出境处，想到机场才买，带上飞机飞回国是要步行去买的哦！可以最后一天要去登机的时候在库塔路上购买。
 
-> 编按：Bali Banana在库塔有多家专卖店，地点请参考「[库塔攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)」
+> 编者按：Bali Banana在库塔有多家专卖店，地点请参考「[库塔攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)」
 
 > 延伸阅读：[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
 
@@ -103,7 +103,7 @@ Gede 在社团拥有超多好评！[请参考这里](/blog/bali-private-car-driv
 
 Klook有数十种科莫多行程可以选择，[请看这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=920722&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dkomodo%26spm%3DHome.TopNavigation.SearchInput%26clickId%3D4685c48829)。
 
-> 编按：我们也有提供专业的旅行社套装好的行程，提供参考
+> 编者按：我们也有提供专业的旅行社套装好的行程，提供参考
 
 - [巴厘岛+科莫多岛全包轻奢行程](/blog/bali-komodo-luxury-tour-2026/)
 
@@ -115,7 +115,7 @@ Klook有数十种科莫多行程可以选择，[请看这里](https://affiliate.
 
 ## 13. 骑士骗局要小心！
 
-在乌布我们遇到了一些喊价的骑士（摩的，motor taxi），当时预订了两段车程，结果他们把我们载错地方，并在到达正确地点时又收了一次费用。这种情况很可能是网友们提到的白牌摩托车骗局，大家一定要小心，事前确认好路线和价格。
+在乌布我们遇到了一些喊价的骑士（摩的，motor taxi），当时预订了两段车程，结果他们把我们载错地方，并在到达正确地点时又收了一次费用。这种情况很可能是网友们提到的白牌机车骗局，大家一定要小心，事前确认好路线和价格。
 
 > 编按，用手机叫车就可以避免这种情况发生喔：[在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略](/blog/gojek-bali-guide/)
 

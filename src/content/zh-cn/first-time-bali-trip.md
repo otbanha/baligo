@@ -11,7 +11,7 @@ heroImage: ''
 originalUrl: ''
 embeds: []
 lang: zh-cn
-_srcHash: 68a2a9099249e96c65111e850a35545f
+_srcHash: a494ed208b6f7367bb61e765b2078bc6
 ---
 
 > 以下游记改编自 [YiShawn Huang](https://www.facebook.com/share/p/1DmyQYJF6M/) 分享游记
@@ -30,10 +30,10 @@ _srcHash: 68a2a9099249e96c65111e850a35545f
 
 ### 💧 生活小贴士：关于水质与采买
 
-第一天抵达机场后，Benny 先带我们去 Money Changer 换钱，接着到住宿附近的 **Coco Supermarket** 大采买。
+第一天抵达机场后，Benny 先带我们去 Money Changer 换钱，接着到住宿附近的 **Coco Supermarket** 大采购。
 
 - **饮用水：** 听说**巴厘岛**水质不太好，保险起见，我们连洗脸和刷牙都打算用瓶装水，所以买了不少。
-- **过滤莲蓬头：** 我们还自备了滤心莲蓬头，结果滤心真的很快就变黑了，建议介意水质的朋友一定要带！
+- **过滤莲蓬头：** 我们还自备了滤芯莲蓬头，结果滤芯真的很快就变黑了，建议介意水质的朋友一定要带！
 - **必喝推荐：** 买了 Benny 强力推荐的 **Bintang 啤酒**，口味多样又清爽，真的很好喝。
 
 https://youtu.be/UoGlRyAdyB8
@@ -71,7 +71,7 @@ https://youtu.be/RodQvCZKwD0
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774768866032-face.jpg)
 
 - **必点推荐：** 我们超爱他的 **Mie Goreng（炒面）** 和手工面包，健康绿果汁（含洛梨、苹果、凤梨等）甜而不腻，非常消暑。
-- **午餐盛宴：** 中午直接在 Villa 餐厅用餐，**炭烤鸭（Bebek Goreng）** 最令人惊艳，骨肉分离且口感极佳；**炸木薯配融化芝士**也超特别，外型像番薯但口感像马铃薯。
+- **午餐盛宴：** 中午直接在 Villa 餐厅用餐，**炭烤鸭（Bebek Goreng）** 最令人惊艳，骨肉分离且口感极佳；**炸木薯配融化起司**也超特别，外型像番薯但口感像马铃薯。
 - **惊喜瞬间：** 吃到一半，全体员工突然端着蛋糕出来唱生日快乐歌，送上传统的黑糖椰丝小汤圆（Kue Lupis），真的让我们惊喜万分！
 
 {{block:蜜月}}

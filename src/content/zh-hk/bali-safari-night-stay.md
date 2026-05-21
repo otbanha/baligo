@@ -1,9 +1,9 @@
 ---
 slug: bali-safari-night-stay
-title: 峇里島親子遊必去：峇里島動物園 Bali Safari 點樣玩同夜宿攻略
+title: 峇里島親子遊必去：峇里島動物園 Bali Safari 點玩、夜宿攻略
 description: >-
   探索峇里島野生動物園 Bali
-  Safari，呢度結合咗大自然奇觀同野生動物嘅魅力，係一個獨特嘅勝地。呢度提供豐富多樣嘅野生動物觀察體驗，仲致力推動保育同教育工作。透過同動物近距離互動，你會深入了解動物保育嘅重要性，同時享受難忘嘅生態探險。計劃你嘅峇里島之旅，體驗呢個引人入勝嘅動物園，探索大自然嘅美妙奧秘。
+  Safari，一個結合自然奇觀同野生動物魅力嘅獨特勝地。呢度提供豐富多樣嘅野生動物觀察體驗，並致力推動保育同教育工作。透過同動物近距離互動，你會深入了解動物保育嘅重要性，同時享受難忘嘅生態探險。計劃你嘅峇里島之旅，體驗呢個引人入勝嘅動物園，探索大自然嘅美妙奧秘。
 pubDate: '2023-07-25'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f78439fe58c95db0f6c39e2b8b6862fd.jpg'
 tags:
@@ -17,7 +17,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: zh-hk
-_srcHash: 5e7e2ddfef04154e529f0b229ef8af4d
+_srcHash: 0e6392d46c843361923623743dc600b6
 ---
 
 我喺度游水，斑馬陪我
@@ -33,9 +33,9 @@ _srcHash: 5e7e2ddfef04154e529f0b229ef8af4d
 取之社團，在這裡回饋給社團
 ```
 
-我同動物之間，只係隔住一條紅蘿蔔嘅距離，
+我同動物之間，只有一條紅蘿蔔嘅距離，
 
-夜宿峇里島野生動物園，真係太有趣啦！
+夜宿峇里島野生動物園，真係好有趣！
 
 因為想住得舒服，揀咗空間好大嘅「KIFARA家庭房」(雙睡房雙浴室有客廳)
 
@@ -65,17 +65,17 @@ _srcHash: 5e7e2ddfef04154e529f0b229ef8af4d
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6bdedde3738119c4aaef7410a2f68a1a.jpg)
 
-游水期間，有時仲會有當值嘅大象，帶住背上「Bali Safari」嘅客人，向你行過嚟（騎大象之旅，一樣要另外俾錢），住宿送嘅一籃生果（蘋果、芒果、香蕉），啱啱好可以送俾大象好朋友
+游水期間，間中仲會有當值嘅大象，帶住背上「Bali Safari」嘅客人，向你行過嚟（騎大象之旅，一樣要額外俾錢），住宿送嘅一籃生果（蘋果、芒果、香蕉），啱啱好可以送俾大象做朋友
 
-「Bali Safari」動物園，仲有推出夜間「Night Safari」行程，所有「Night Safari」行程都包Buffet晚餐，一邊睇表演一邊食飯，食飯表演喺戶外空間，酒店住宿客人，一樣可以免費欣賞
+「Bali Safari」動物園，仲有推出夜間「Night Safari」行程，所有「Night Safari」行程都包埋Buffet晚餐，一邊睇表演一邊食飯，食飯表演喺戶外空間，酒店住宿客人，一樣可以免費欣賞
 
-食完飯，再搭鐵籠車出發俾動物睇，今次因為體力透支，就冇參加，如果有興趣嘅人，記得訂房買埋「Night Safari」嘅套裝，價錢會慳唔少
+食完飯，再搭鐵籠車出發俾動物睇，今次因為體力透支，就冇參加到，如果有興趣嘅人，記得訂房嗰陣買埋「Night Safari」嘅套裝，價錢會慳唔少
 
-《Mara River Safari Lodge》入面唯一嘅餐廳「Tsavo Lion Restaurant」，玻璃窗外成日都有雄偉嘅獅子，行嚟行去，獅子望住我食早餐，真係好得意（融化）酒店住宿客人可以喺度免費享用早餐，非住宿嘅客人，一樣要另外俾錢，先可以入場㗎！
+《Mara River Safari Lodge》入面唯一嘅餐廳「Tsavo Lion Restaurant」，玻璃窗外成日都有雄偉嘅獅子行嚟行去，獅子望住我食早餐，真係好得意（融化）酒店住宿客人可以喺度免費享用早餐，非住宿嘅客人，一樣要額外俾錢，先可以入場㗎！
 
-今次入住，晚餐（要俾錢）同早餐（免費）都喺「Tsavo Lion Reataurant」，夜晚嘅獅子非常活躍，朝早嘅獅子就喺度瞓覺
+今次入住，晚餐（俾錢）同早餐（免費）都喺「Tsavo Lion Reataurant」，夜晚嘅獅子好活躍，朝早嘅獅子就全部瞓晒覺
 
-另外（好處講唔晒，真係好滿意呀），住宿專屬嘅親密接觸，固定時段，直接將動物帶到你面前，要影相要摸都得
+另外（好處講唔晒，真係好滿意㗎），住宿專屬嘅親密接觸，固定時段，直接將動物帶到你面前，要影相要摸都得
 
 早餐時段（08:00），變色龍（？）親自到餐廳駐點陪你食飯，食完飯（09:00），啱啱遇到大象先生，行到酒店門口嘅小花園，親密接觸，唔使排隊，好開心
 
@@ -127,7 +127,7 @@ _srcHash: 5e7e2ddfef04154e529f0b229ef8af4d
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_10d3e628c6c9b7078e922faf8589cf2d.jpg)
 
-此外，住宿客人可以免費兩日無限次進出「Bali Safari」園區（check-in & check-out day兩日），動物表演同動物表演之間，仲可以返酒店床上休息，超級寫意
+此外，住宿客人可以免費兩日無限次出入「Bali Safari」園區（check-in & check-out day兩日），動物表演同動物表演之間，仲可以返酒店床上小休，超級寫意
 
 「Bali Safari」園區唔算大，坐上冷氣開放嘅Safari Bus (Safari Journey)，就可以睇晒大部分園區內嘅動物，剩低嘅，就係各種精彩嘅動物表演
 
@@ -147,9 +147,9 @@ _srcHash: 5e7e2ddfef04154e529f0b229ef8af4d
 
 > 1115-1135 大貓表演 必睇（老虎爬上樹、老虎水中游，好有趣）
 
-除咗以上所講，園區內仲有，水族館（fresh water aquarium)、水上樂園(water park)、陸地樂園，不過都唔太吸引，可以選擇略過
+除咗以上所講，園區內仲有，水族館（fresh water aquarium)、水樂園(water park)、陸地樂園，不過都唔太吸引，可以選擇略過
 
-針對非本地人，「Bali Safari」嘅票價真係唔可愛，如果時間許可，不如考慮直接夜宿 「Bali Safari」內嘅《 Mara River Safari Lodge》 **住宿加門票，會比單買門票，CP值高好多** 《Mara River Safari Lodge》 :
+針對非本地人，「Bali Safari」嘅票價真係唔抵，如果時間許可，不如考慮直接夜宿 「Bali Safari」內嘅《 Mara River Safari Lodge》 **住宿加門票，會比單買門票，CP值高好多** 《Mara River Safari Lodge》 :
 
 ▶[Agoda訂房優惠](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155)
 
@@ -164,9 +164,9 @@ _srcHash: 5e7e2ddfef04154e529f0b229ef8af4d
 
 ## 其他天數嘅遊記/攻略
 
-如果我的遊記對你有少少幫助，歡迎繼續睇我其他日子嘅遊記/攻略喔：
+如果我嘅遊記有幫到你少少，歡迎繼續睇我其他日子嘅遊記/攻略喔：
 
-- [**Day 1: 住喺shopping mall入面！兩大兩小嘅親子住宿安排**](/blog/bali-family-trip-aloft-kuta/)
+- [**Day 1: 住喺shopping mall入面！兩大兩細嘅親子住宿安排**](/blog/bali-family-trip-aloft-kuta/)
 - [**Day 2: GWK神鷹廣場、烏魯瓦圖免費海灘俱樂部、烏魯瓦圖廟、烏魯瓦圖火舞**](/blog/bali-family-trip-gwk-beach-club/)
 - [**Day 3-7: 五日烏布：美食、景點、住宿、火山探索推薦**](/blog/bali-family-trip-ubud-guide/)
 

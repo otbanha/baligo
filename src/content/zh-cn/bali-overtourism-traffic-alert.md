@@ -1,6 +1,6 @@
 ---
 slug: bali-overtourism-traffic-alert
-title: 巴厘岛过度旅游？九月开始的交通警示
+title: 巴厘岛过度旅游？九月开始的交通预警
 description: 巴厘岛因过度旅游问题持续受到关注，特别是在南巴厘岛地区，由于游客过多而过度拥挤
 pubDate: '2024-08-17'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_67f7fa0257e90b1dd3b6ec872890a374.png'
@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66c0857afd897800014dceb0'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: a753867a2f719ff800e129568e8184ed
+_srcHash: e19627fd1107fb2e19efea8c9ef98096
 ---
 
 巴厘岛因过度旅游问题持续受到关注，特别是在南巴厘岛地区，由于游客过多而过度拥挤。自2023年以来，巴厘岛被世界旅行与旅游理事会列为过度旅游的热门目的地，与雅典、巴黎和普吉岛齐名。

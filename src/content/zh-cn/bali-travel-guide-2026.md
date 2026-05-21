@@ -1,7 +1,7 @@
 ---
 slug: bali-travel-guide-2026
 title: 2026年巴厘岛自由行｜行前终极指南：出发前必看 7 大重点！签证、换汇、住宿、电压/转换器...一次搞定
-description: "2026 年 Tripadvisor 网友评选第一名的度假胜地——巴厘岛，你准备好了吗？\U0001F3DD️ 无论是想去乌布感受梯田宁静，还是在坎古体验冲浪派对，这支视频为你整理了「2026 巴厘岛行前终极指南」！  我们帮你把最复杂的入境流程、交通选择、住宿分区、甚至是最新规定的「旅游税」全部讲清楚。记得看到最"
+description: "2026 年 Tripadvisor 网友评选第一名的度假胜地——巴厘岛，你准备好了吗？\U0001F3DD️ 无论是想去乌布感受梯田宁静，还是在坎古体验冲浪派对，这支视频为你整理了「2026 巴厘岛行前终极指南」！ 我们帮你把最复杂的入境流程、交通选择、住宿分区、甚至是最新规定的「旅游税」全部讲清楚。记得看到最"
 pubDate: 2026-02-15T00:00:00.000Z
 category:
   - 新手指南
@@ -13,7 +13,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/UoGlRyAdyB8'
 lang: zh-cn
-_srcHash: c6762156e280b3ad34eecd651aaa1568
+_srcHash: 729b7db6bbc0303be37d519d61b4eb4b
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5ec06768be3729d47ff16e75a3e87684.jpg)
@@ -31,7 +31,7 @@ https://youtu.be/H5N5_UuK7TI
 - [2026巴厘岛静居日/宁静日（Nyepi Day）｜妖怪大游行须知](/blog/nyepi-day-bali-guide-2026/)
 - [2026年印尼国定假日&巴厘岛节庆一整年完整指南：精彩活动日期一览！](/blog/2026-bali-festival-guide/)
 - [巴厘岛居然有五个旅游旺季！如何避开旺季聪明旅游？](/blog/bali-peak-season-travel-tips/)
-- [巴厘岛雨季月份/降雨机率/降雨天数/平均气温/适合旅游指数...大解析](/blog/bali-rainy-season-travel-guide/)
+- [巴厘岛雨季月份/降雨概率/降雨天数/平均气温/适合旅游指数...大解析](/blog/bali-rainy-season-travel-guide/)
 
 ## 入境相关：
 
@@ -69,7 +69,7 @@ https://youtu.be/H5N5_UuK7TI
 - [蓝梦岛/金银岛景点全攻略](/blog/nusa-lembongan-ceningan-guide/)
 - [Nuanu Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
 - [科莫多岛攻略](/blog/komodo-island-labuan-bajo-travel/)
-- [Amed/Tulamben攻略](/blog/amed-tulamben-diving-guide/)
+- [阿梅德/图兰本攻略](/blog/amed-tulamben-diving-guide/)
 
 ### 住宿推荐
 
@@ -79,9 +79,9 @@ https://youtu.be/H5N5_UuK7TI
 
 {{block:住宿}}
 
-### 避开塞车噩梦
+### 避开堵车噩梦
 
-- [【这样玩居然不塞车！】爽玩巴厘岛自由行攻略：交通、住宿、景点、美食、购物、SPA、夜生活，全方位规划](/blog/bali-free-travel-guide/)
+- [【这样玩居然不堵车！】爽玩巴厘岛自由行攻略：交通、住宿、景点、美食、购物、SPA、夜生活，全方位规划](/blog/bali-free-travel-guide/)
 
 ## 交通/包车
 
@@ -102,7 +102,7 @@ https://youtu.be/H5N5_UuK7TI
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7158202f82112fc1d0f02beb30599cff.jpg)
 
-### 水明漾/坎古手作坊
+### 水明漾/坎古手工作坊
 
 - [Warung Nia印尼料理烹饪课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F19201-nia-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dbad8f6f743)
 - [Peppers Seminyak 的Laneway烹饪班](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113078-the-laneway-cooking-class-at-peppers-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7451d84a30)
@@ -113,7 +113,7 @@ https://youtu.be/H5N5_UuK7TI
 - [Blou Cafe Canggu 餐饮和烹饪课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113828-dining-and-cooking-class-experience-at-blou-cafe-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D3ad128193d)
 - [Boheme Canggu 餐厅餐饮和烹饪课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F111755-dining-and-cooking-class-experience-at-boheme-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da09389494c)
 
-### 乌布手作坊
+### 乌布手工作坊
 
 - [银制品手工体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F73060-silver-making-class-bali-artika-silver%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6673fed541)
 - [蜡染手工制作课](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F43814-batik-making-class-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1cd6c9e8dd)
@@ -146,7 +146,7 @@ https://youtu.be/H5N5_UuK7TI
 
 巴厘岛不仅拥有迷人的海滩和奢华的度假村，还隐藏着丰富多样的户外活动，等待着热爱冒险的旅人前来探索。无论您是寻求刺激的冒险家，还是渴望在大自然中放松身心的旅行者，巴厘岛都能满足您的需求。以下是六大分类，共50种热门户外活动，请点击[这里](/blog/bali-top-50-outdoor-activities/)。
 
-## 金钱、网络、生活小贴士
+## 金钱、网络、生活小叮咛
 
 - [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/blog/bali-currency-exchange-guide/)
 - 【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡/eSIM?](/blog/bali-sim-card-esim-roaming-guide/)
@@ -177,9 +177,9 @@ https://youtu.be/H5N5_UuK7TI
 - [蓝梦岛/金银岛攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)
 - [佩尼达岛攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing)
 
-## 超市必购
+## 超市必买
 
-__VID0__
+{{video1}}
 
 {{block:klook}}
 

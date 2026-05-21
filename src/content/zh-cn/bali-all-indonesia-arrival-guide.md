@@ -25,7 +25,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_79df9229a3131a48507912ff8ed38f07.png'
 originalUrl: 'https://vocus.cc/article/689dcce7fd8978000125fc52'
 lang: zh-cn
-_srcHash: 48bc7f1293cfd32273f6f5013254ec1a
+_srcHash: c482985e0fb660cbebe0a7c7a5e7f399
 ---
 
 ### **📢 重要更新！2025年8月18日起，印尼全面启用「All Indonesia」入境卡申报系统**
@@ -50,7 +50,7 @@ _srcHash: 48bc7f1293cfd32273f6f5013254ec1a
 ### **2️⃣ 办理落地签（Visa on Arrival, VoA）**
 
 - **若未先申请电子签证**，需先至「落地签」柜台排队缴费（2025费用：50万印尼盾，约USD$32）。
-- 持有电子签证eVisa/eVoA者略过此步骤。
+- 持有电子签证eVisa/eVoA者跳过此步骤。
 
 ### **3️⃣ 移民局查验（护照盖章）**
 

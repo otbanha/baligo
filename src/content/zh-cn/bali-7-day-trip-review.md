@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/668a065ffd897800018d4630'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: d0b9f558c2b6bb93c7a8d4031a2e8df6
+_srcHash: 2d6be63e68579b3d93c9400b010b432d
 ---
 
 > 以下内容由团友[潘奕勋](https://www.facebook.com/share/p/axuYs6T1uaWoBsXp/?mibextid=A7sQZp)提供
@@ -41,7 +41,7 @@ _srcHash: d0b9f558c2b6bb93c7a8d4031a2e8df6
 
 ## 3️⃣ **签证、观光税和海关**
 
-记得出发前一定要提前在网上办好签证，前三天可以先在网上申报海关，这样可以避免在机场排队等候太久，节省时间。
+记得出发前一定要提前在网络上办好签证，前三天可以先在网上申报海关，这样可以避免在机场排队等候太久，节省时间。
 
 > [2026印尼巴厘岛入境使用「All Indonesia」申报系统｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
 
@@ -67,7 +67,7 @@ _srcHash: d0b9f558c2b6bb93c7a8d4031a2e8df6
 
 这次旅程中，我们遇到了非常温柔细心的Komang，他说他最希望来巴厘岛的游客都能体验到这个地方的美好，非常感谢他的帮助。如果你也要来巴厘岛玩，强烈推荐Komang！
 
-也放上司机的联络信息：
+也放上司机的联系信息：
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_34f3486136ba023e864d48829bee5a03.png)
 

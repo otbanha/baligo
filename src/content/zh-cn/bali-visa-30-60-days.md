@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/6631ae97fd89780001eaf400'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 223a59c092275c6080b8d4d0937a99ee
+_srcHash: 4c4b21082f13dd029b7aaa4bd2da3f7d
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_674269d54ebfc7ede1f3a11443914ba7.png)
@@ -24,7 +24,7 @@ _srcHash: 223a59c092275c6080b8d4d0937a99ee
 
 > 延伸阅读：[2024印尼/巴厘岛线上延长签证教学](/blog/2024-bali-visa-extension/)
 
-这位旅行者因为疏忽，没有注意到申请超过60天的签证需要等待较长的处理时间，并提供财力证明。她在27号完成了申请并付款，但在29号要入境时却发现审核尚未完成，面对这一窘境，她虽然在巴厘岛机场出示了付款收据，但现场移民官无法立即处理，仍须等候审核。移民官告诉她，如果在3个月内再次前来，可以使用之前申请成功的签证。
+这位旅行者因为疏忽，没有注意到申请超过60天的签证需要等待较长的处理时间，并提供财力证明。她在27号完成了申请并付款，但在29号要入境时却发现审核尚未完成，面对这一窘境，她虽然在巴厘岛机场出示了付款收据，但现场移民官无法立即处理，仍需等候审核。移民官告诉她，如果在3个月内再次前来，可以使用之前申请成功的签证。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4eff791ff802d92ca4edfab546001a72.png)
 

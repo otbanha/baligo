@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bdbf1e9814d60a19a2a11d07a7609ac5.jpg'
 originalUrl: 'https://vocus.cc/article/6832c6c0fd897800014776ba'
 lang: zh-cn
-_srcHash: 81a2520c376c22a31f877ccb7fc60bbc
+_srcHash: 60d90ebd570d4a038086a230971a35f6
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e6b00fbb3de2ab53b509c555f4187854.jpg)
@@ -38,7 +38,7 @@ _srcHash: 81a2520c376c22a31f877ccb7fc60bbc
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e855f67b3fccd15a9a4b91865ac3d263.jpg)
 
-一走进酒店大堂，挑高的木质结构与精致的巴厘岛雕刻立刻抓住目光，中央的水池倒映着阳光，几尾锦鲤悠游其中，难怪许多孩子围在这里兴奋地观看。我们提前在 **Klook** 上预定了 **Selasar Deli 的下午茶**，服务人员亲切地引导我们入座。
+一走进酒店大堂，挑高的木质结构与精致的巴厘岛雕刻立刻抓住目光，中央的水池倒映着阳光，几尾锦鲤悠游其中，难怪许多孩子围在这里兴奋地观看。我们提前在 **Klook** 上预订了 **Selasar Deli 的下午茶**，服务人员亲切地引导我们入座。
 
 > 预订 [巴厘岛阿普尔瓦凯宾斯基酒店 Selasar Deli 餐厅下午茶体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052045&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F58595-selasar-deli-apurva-kempinski-hotel-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D247caa596d)
 
@@ -55,7 +55,7 @@ _srcHash: 81a2520c376c22a31f877ccb7fc60bbc
 
 ### **下午茶时光：平假日不同享受**
 
-我们通过 **Klook** 预订了周五的下午茶，优惠价 **USD$24**
+我们透过 **Klook** 预定了周五的下午茶，优惠价 **USD$24**
 
 **注意价格差异：**
 
@@ -86,11 +86,11 @@ _srcHash: 81a2520c376c22a31f877ccb7fc60bbc
 
 ### **为什么值得来？**
 
-1️⃣ **超高性价比**：Klook比直接订便宜，还含海滩使用
+1️⃣ **超高性价比**：Klook比直接订便宜，还含海滩使用
 
-2️⃣ **两种体验**：平日安静悠闲，选择周末则可免费使用无边泳池🏖️ 进入私人沙滩
+2️⃣ **两种体验**：平日安静悠闲，选择周末则可免费使用无边泳池🏖️ 进入私人沙滩
 
-3️⃣ **绝美环境**：从山顶大堂到海滩，处处是景
+3️⃣ **绝美环境**：从山顶大堂到海滩，处处是景
 
 > 预订 [巴厘岛阿普尔瓦凯宾斯基酒店 Selasar Deli 餐厅下午茶体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052045&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F58595-selasar-deli-apurva-kempinski-hotel-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D247caa596d)
 

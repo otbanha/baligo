@@ -2,7 +2,7 @@
 title: 2026-05-18-Bali-News
 slug: 18-May-2026-Bali-News
 description: |-
-  Bali News update
+  峇里島新聞更新
   峇里島新聞
   峇里島新聞
 pubDate: 2026-05-18T00:00:00.000Z
@@ -19,7 +19,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 287dfba7dd009534d6b0494487e976e0
+_srcHash: bc680d546dc778546f7e87aa866f55af
 ---
 
 ![](https://images.gobaligo.id/vocus/vocus_f48a7964b7329cadd4c36a4ad63e845a.jpg)

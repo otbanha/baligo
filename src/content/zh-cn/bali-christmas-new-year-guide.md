@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2852b7e85fd79c94b1667a9a54b5b783.jpg'
 originalUrl: 'https://vocus.cc/article/68f8711efd8978000136386b'
 lang: zh-cn
-_srcHash: 978d7663785357a2182e194f5163b601
+_srcHash: d15c979e64a16f0370a74e8585a307df
 ---
 
 圣诞节不一定要在雪地中度过！在巴厘岛这座充满热带气息的岛屿上，阳光、沙滩与浓浓的节庆氛围正等着你。这里不仅气候宜人，还有丰富的活动、美味的圣诞大餐与无数适合家庭的住宿选择。
@@ -53,7 +53,7 @@ _srcHash: 978d7663785357a2182e194f5163b601
 - **Beachwalk Shopping Center**：库塔临海的购物中心，有圣诞树、圣诞老人活动、电影与品牌商店（Zara、H&M、Mango等）。
 - **Seminyak Village**：高端精品购物区，适合选购设计师服饰与珠宝。
 - **Bali Collection**：巴厘岛东岸的大型购物中心。
-- **Ubud 传统市场**：色彩缤纷的市集，售手工艺品与纪念品，是练习杀价的好地方！
+- **Ubud 传统市场**：色彩缤纷的市集，售手工艺品与纪念品，是练习砍价的好地方！
   ---
 
 ## 🎄 **2025 年巴厘岛圣诞节大餐推荐懒人包**
@@ -88,13 +88,13 @@ _srcHash: 978d7663785357a2182e194f5163b601
 
 📅 **时间：2025年12月24日与25日 晚上6:00起**
 
-📍 **地点：水明漾海边**
+📍 **地点：水明漾 海边**
 
 这家巴厘岛经典意大利餐厅，每年圣诞节都推出限量菜单，包括意式开胃拼盘、烤羊排与提拉米苏。 🎁 **建议：** 至少提前两周预订。
 
 💰 **价格：约 IDR 1,200,000 /人。**
 
-### **🍖 Fire Restaurant – W Bali 水明漾**
+### **🍖 Fire Restaurant – W Bali Seminyak**
 
 📅 **时间：2025年12月25日 午餐与晚餐时段
 
@@ -172,7 +172,7 @@ _srcHash: 978d7663785357a2182e194f5163b601
 💰 **成人 IDR 1,200K 起。**
   **快速参考：**[【巴厘岛阿雅那】Ayana Bali 住宿懒人包》Ayana Segara, RIMBA, Ayana Resort..](/blog/ayana-resort-bali-guide/)
 
-### 金巴兰湾巴厘岛四季酒店
+### 巴厘岛金巴兰湾四季度假村
 
 - 圣诞节及跨年节庆活动详情中提及：
 - - 12／24 & 12／25 晚：法式‐亚洲融合五道菜晚宴「Festive Set Dinner at Sundara」于 18:00–23:00，价位为 **IDR 1,450,000／人**。
@@ -234,7 +234,7 @@ _srcHash: 978d7663785357a2182e194f5163b601
 > [Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
 > [kkday购票链接](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=17351)
 
-### **4️⃣ Beachwalk Kuta 圣诞灯光秀与儿童活动**
+### **4️⃣ Beachwalk 库塔 圣诞灯光秀与儿童活动**
 
 📅 **时间：2025年12月1日至2026年1月2日**
 
@@ -267,13 +267,13 @@ _srcHash: 978d7663785357a2182e194f5163b601
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_bbdf8ffd9786b923efa25ec0c6d6af2b.png)
 
-大部分的海滩俱乐部在2025年的跨年倒数时（12/31晚上）都会施放烟火。像是在库塔海滩、水明漾海滩、坎古海滩等著名海滩区，只要在海滩边就能免费观赏烟火秀，一边倒数一边欣赏夜空中的火花，氛围非常热烈且值得推荐。
+大部分的海滩俱乐部在2025年的跨年倒数时（12／31晚上）都会施放烟火。像是在库塔海滩、水明漾海滩、坎古海滩等著名海滩区，只要在海滩边就能免费观赏烟火秀，一边倒数一边欣赏夜空中的火花，氛围非常热烈且值得推荐。
 
 ### GWK神鹰文化广场烟火与音乐盛宴
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c629cf7be55dd5d7bc55b961c4b14c2c.jpg)
 
-金巴兰的GWK神鹰文化广场将于12月31日至1月1日跨年夜施放12,000发烟火，从三个发射点同时点燃，在五分钟内环绕观众席。舞台演出阵容包括MALIQ & D'Essentials、Lomba Sihir、Lolot、Navicula等当地知名艺人，由Duo Giga担任主持。12月26日至1月3日期间将举办MyMelali x Pasar Keliling市集，汇集数百家在地UMKM摊商，并有Sunar Sanggita音乐学校（由视障教师授课）的特别演出。现场还贩售限量版GWK 2026纪念币，持有2025和2026年纪念币的收藏者可参加抽奖。门票分为普通票和限量VIP票，VIP票包含舞台前排区域、发光配件、礼品袋、饮料券及买二送二优惠。Jendela Bali餐厅另提供跨年晚宴套餐，含三道式菜单、鸡尾酒及VIP观赏区门票。GWK官网：[www.gwkbali.com](https://www.gwkbali.com/)
+金巴兰的GWK神鹰文化广场将于12月31日至1月1日跨年夜施放12,000发烟火，从三个发射点同时点燃，在五分钟内环绕观众席。舞台演出阵容包括MALIQ & D'Essentials、Lomba Sihir、Lolot、Navicula等当地知名艺人，由Duo Giga担任主持。12月26日至1月3日期间将举办MyMelali x Pasar Keliling市集，汇集数百家在地UMKM摊商，并有Sunar Sanggita音乐学校（由视障教师授课）的特别演出。现场还发售限量版GWK 2026纪念币，持有2025和2026年纪念币的收藏者可参加抽奖。门票分为普通票和限量VIP票，VIP票包含舞台前排区域、发光配件、礼品袋、饮料券及买二送二优惠。Jendela Bali餐厅另提供跨年晚宴套餐，含三道式菜单、鸡尾酒及VIP观赏区门票。GWK官网：[www.gwkbali.com](https://www.gwkbali.com/)
 
 ## 狂欢跨年推荐
 
@@ -285,7 +285,7 @@ _srcHash: 978d7663785357a2182e194f5163b601
 
 - 在水明漾Café del Mar海滩俱乐部欢度您的2025年跨年夜！
 - 邀请百大DJ Dash Berlin于巴厘岛海滩俱乐部（Café del Mar Bali）带来特别演出，让今晚更加精彩！
-- 在跨年夜庆典中体验欢乐的节庆氛围，欣赏壮观的烟火秀，一同倒数迎接2026年！
+- 在跨年夜庆典中体验欢乐的节日氛围，欣赏壮观的烟火秀，一同倒数迎接2026年！
 
 ▶[购票优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1147411&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F181196-new-year-s-eve-2026-at-cafe-del-mar-bali-featuring-dash-berlin%2F)
 
@@ -302,12 +302,12 @@ _srcHash: 978d7663785357a2182e194f5163b601
 
 - 从日落到深夜，不间断的精彩娱乐，让你尽情舞动。
 - 派对体验（脸部彩绘、喷枪纹身、趣味游戏及刺激奖品）。
-- 在巴厘岛最棒的海滨俱乐部 ，以烟火、激光和绚丽的灯光迎接2026年。
+- 在巴厘岛最棒的海滨俱乐部，以烟火、激光和绚丽的灯光迎接2026年。
 
 ▶[购票优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1147411&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F175754-new-year-s-eve-2025-at-white-rock-beach-club%2F)
 
 - **Savaya**：传奇 DJ Black Coffee 演出。门票已售罄，可关注官方转售平台。
-- **Sundays Beach Club**：白色海滩假面派对，无限鸡尾酒。通用门票 140 美元起。
+- **Sundays Beach Club**：白色海滩假面派对，无限鸡尾酒。通用门票 USD$140 起。
 - **ULU CLIFFHOUSE**：海滨庆典，DJ 阵容强大。需预订。
 
 ### 坎古（Canggu）
@@ -321,10 +321,10 @@ _srcHash: 978d7663785357a2182e194f5163b601
 ▶[购票优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1147411&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F132280-celebrity-performance-at-atlas-beach-club-bali%2F)
 
 - **FINNS Beach Club**：传奇海滩俱乐部，巨星 Flume 演出。门票已售罄，可关注官方转售平台。
-- **Atlas Beach Club**：以 R&B 和嘻哈为主题，巨星 Akon 压轴。门票 95 美元起。
+- **Atlas Beach Club**：以 R&B 和嘻哈为主题，巨星 Akon 压轴。门票 USD$95 起。
 - **La Brisa**：海滨派对，国际 DJ 阵容。需直接联系预订。
-- **COMO Beach Club**：跨年晚餐，提供特色菜单。价格 61 美元/人。
-- **Luna Beach Club**：首次跨年活动，晚上 7 点后入场费 16 美元。
+- **COMO Beach Club**：跨年晚餐，提供特色菜单。价格 USD$61/人。
+- **Luna Beach Club**：首次跨年活动，晚上 7 点后入场费 USD$16。
 
 ### **努沙杜瓦 (Nusa Dua)**
 
@@ -340,12 +340,12 @@ _srcHash: 978d7663785357a2182e194f5163b601
 - **Sofitel Bali Nusa Dua**：多餐厅豪华晚宴与海滩派对，价格 2,400,000 印尼盾++起。
 - **Apurva Kempinski Bali**： grandeur 晚宴，价格 4,888,000 印尼盾++/人。
 
-### **沙努尔 (Sanur)**
+### **沙努尔 (Sanur)
 
 - **Andaz Bali**：美食市集与海滩倒数派对，价格 2,500,000 印尼盾++/人。
 - **BYRD House**：海滨精致晚餐与派对，套餐 1,000,000 印尼盾起。
 
-### **乌布 (Ubud)**
+### **乌布 (Ubud)
 
 - **Padma Resort Ubud**：高原庆典与晚宴，价格 1,450,000 印尼盾+起。
 - **Jungle Fish (The Upper Deck)**：晚餐与池畔派对，套餐 1,800,000 印尼盾++起。

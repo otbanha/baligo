@@ -14,10 +14,10 @@ originalUrl: 'https://vocus.cc/article/663da7ddfd89780001d83821'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 972e819689d109e1273329b2ca51032c
+_srcHash: efa4b32d7483e2eaced017e2e360367b
 ---
 
-有部分的人对于办理印尼/巴厘岛旅游所需的签证可能感到困惑，不知道该从何开始，甚至无从下手。特别是对于第一次自助旅行的人来说，办理电子签证可能显得复杂而陌生。
+有部分人对于办理印尼/巴厘岛旅游所需的签证可能感到困惑，不知道该从何开始，甚至无从下手。特别是对于第一次自助旅行的人来说，办理电子签证可能显得复杂而陌生。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_082327d58c16280d93d97286908a1644.jpg)
 

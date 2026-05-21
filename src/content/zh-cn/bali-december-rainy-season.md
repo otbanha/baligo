@@ -3,7 +3,7 @@ slug: bali-december-rainy-season
 title: 巴厘岛雨季12月-2月攻略
 description: >-
   在计划年底或隔年年初前往巴厘岛的读者，最近有看到我们公布在脸书社团的印尼
-  BMKG（印尼气象气候暨地球物理局）最新公告吗？这是一则关于「十二月底到隔年一月初」的强降雨提醒，也是每年雨季中最值得留意的一段期间。
+  BMKG（印尼气象气候暨地球物理局）最新公告吗？这是一则关于「十二月底到隔年一月初」的强降雨提醒，也是每年雨季中最值得留意的一段时间。
 pubDate: '2025-12-11'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_65ede3aceedd0b6db67191558de5fbb9.jpg'
 tags:
@@ -16,10 +16,10 @@ originalUrl: 'https://vocus.cc/article/69379606fd89780001607b4b'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 7adf35426cead1df40d83904adfa746f
+_srcHash: aad998bbc92aaf655b1b9ffe5dddf115
 ---
 
-在计划年底或隔年年初前往巴厘岛的读者，最近有看到我们公布在[脸书社团](https://www.facebook.com/share/p/1DCH98qzUf/)的印尼 BMKG（印尼气象气候暨地球物理局）最新公告吗？这是一则关于「十二月底到隔年一月初」的强降雨提醒，也是每年雨季中最值得留意的一段期间。
+在计划年底或隔年年初前往巴厘岛的读者，最近有看到我们公布在[脸书社团](https://www.facebook.com/share/p/1DCH98qzUf/)的印尼 BMKG（印尼气象气候暨地球物理局）最新公告吗？这是一则关于「十二月底到隔年一月初」的强降雨提醒，也是每年雨季中最值得留意的一段时间。
 身为长期旅居印尼、经常往返巴厘岛的旅游写作者，我整理了一份攻略 ，让你在规划 2027 年 1–2 月旅行时，可以更有方向。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_900409df53579a6382a92eb5f137d800.jpg)
@@ -64,7 +64,7 @@ BMKG 的预测指出，印尼将在十二月底迎来雨量增强期，预估 **
 
 ### - 海滩与户外行程安排上午
 
-想拍梯田、瀑布、海神庙、猴林……上午成功率高非常多。
+想拍梯田、瀑布、海神庙、猴林……上午成功率高很多。
 
 ### - 准备防水装备
 

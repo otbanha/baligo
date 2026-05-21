@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6691f675fd89780001832a5b'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 377733807e4fdc7d64cda5941b4c35bf
+_srcHash: 17aa1fce840558b639e7e5e470c8f9dd
 ---
 
 > 以下内容由团友 [Li Wallis](https://www.facebook.com/share/p/JqkCsRBtYLDZtsnV/) 提供给我们重新编排：
@@ -37,7 +37,7 @@ _srcHash: 377733807e4fdc7d64cda5941b4c35bf
 
 司机说费用包含汽油和停车费，但在去断崖公路时，购买门票时被要求支付Rp5000的泊车费，而这个费用最终还是我们付了。因为一直都是司机和门票的人沟通，他不可能不知道有这个泊车费。这让我们感觉司机不够诚实，让人非常不满😅。
 
-更有一次，我们在结账当天，司机告诉我们因为是假日，需要额外加收 Rp5 万。这让我们非常困惑，因为出发前我特地确认了两次价格，司机都说不会有变动。这种临时加价的行为让我们感到不满。因此，大家在预订包车服务时，一定要仔细核对价格和条款，避免遇到类似的情况。
+更有有一次，我们在结账当天，司机告诉我们因为是假日，需要额外加收Rp5万。这让我们非常困惑，因为出发前我特地确认了两次价格，司机都说不会有变动。这种临时加价的行为让我们感到不满。因此，大家在预订包车服务时，一定要仔细核对价格和条款，避免遇到类似的情况。
 
 > 延伸阅读：[【巴厘岛包车司机推荐名人榜】巴厘岛司机网友评鉴大全：看网友真实点评找到适合你的好司机](/blog/bali-private-car-drivers-guide/)
 
@@ -63,7 +63,7 @@ Li Wallis 提供
 
 乌鲁瓦图庙（Uluwatu Temple）同样美丽，建在峭壁上，俯瞰印度洋，风景非常壮观。不过，这里的猴子非常狡猾，会抢走你的眼镜、帽子和手机，所以要格外小心保管自己的物品。快速参考：[巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/blog/uluwatu-temple-travel-guide/)
 
-🛕🌊🌅 乌鲁瓦图庙，悬崖之上的壮丽景点，还能欣赏传统的火舞表演 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50231639-uluwatu%2F1-things-to-do%2F)
+🛕🌊🌅 乌鲁瓦图庙 ，悬崖之上的壮丽景点，还能欣赏传统的火舞表演 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50231639-uluwatu%2F1-things-to-do%2F)
 
 ### 断崖公路：
 
@@ -121,7 +121,7 @@ Li Wallis 提供
 
 [巴厘岛不踩雷攻略：18个常见错误与建议](/blog/bali-travel-mistakes-tips/)
 
-您觉得Li Wallis他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得Li Wallis他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 ![raw-image](https://d2a6d2ofes041u.cloudfront.net/resize)
 

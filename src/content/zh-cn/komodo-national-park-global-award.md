@@ -17,7 +17,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-cn
-_srcHash: 26a0520b8d58360c32450fc57ccc750d
+_srcHash: bfef3be58bf7ba3636ce88a0a69d3b9f
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0a004c49dc307d97ded63cf44e4a774b.jpg)
@@ -74,6 +74,6 @@ _srcHash: 26a0520b8d58360c32450fc57ccc750d
 
 趁着这片秘境尚未被过度打扰，订下你的科摩多之旅吧！无论是潜水发烧友、摄影狂热者，还是单纯想逃离城市的人，这里的每一寸土地与海浪都在说：「你值得这趟终生难忘的奇幻旅程！」
 
-▶▶▶▶**更进一步的介绍、科摩多岛怎么去？怎么玩？请看：**[科摩多岛攻略](/blog/komodo-island-labuan-bajo-travel/)
+▶▶▶▶**更进一步的介绍、科摩多岛怎么去？怎么玩？请看：**[科摩多岛攻略](/blog/komodo-island-labuan-bajo-travel/)]
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5a16ff247d244e1682e7443541ba541b.jpg)

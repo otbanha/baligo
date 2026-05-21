@@ -1,7 +1,7 @@
 ---
 slug: valentines-day-romantic-destinations
 title: 情人节浪漫指南：Agoda评选的2024年十大国际浪漫旅游目的地！
-description: 根据情人节期间情侣们的旅行偏好，Agoda公布了当前最受欢迎的十个国际城市的旅游目的地。巴厘岛也有上榜哦！
+description: 根据情人节期间情侣们的旅行偏好，Agoda公布了目前最受欢迎的十个国际城市的旅游目的地。巴厘岛也有上榜哦！
 pubDate: '2024-02-14'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a5975d7e0386b9bd35af535e5d9bde1b.jpg'
 tags:
@@ -15,14 +15,14 @@ category:
   - 旅行技巧
   - 遊記分享
 lang: zh-cn
-_srcHash: 28fd2d5668af3ddacb22f72eed47fe98
+_srcHash: 36acaec2f9ea8f7fd1cc5d7c004f696f
 ---
 
 玫瑰花、蛋糕、巧克力，还有浪漫的旅行地点，二月十四日的西方情人节，你知道今年全世界最受欢迎的情人节旅游目的地是哪些城市吗？
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_aa2d254bf0cc097ffe98b22e6d6fde35.jpg)
 
-这份最浪漫目的地清单是由Agoda旅行平台编排的。他们根据情人节期间情侣们的旅行偏好，公布了当前最受欢迎的十个国际城市的旅游目的地。
+这份最浪漫目的地清单是由Agoda旅行平台编排的。他们根据情人节期间情侣们的旅行偏好，公布了目前最受欢迎的十个国际城市的旅游目的地。
 
 排在第一位的是泰国著名的曼谷。这座城市以其引人入胜的文化和旅游景点而闻名全球。其次是日本的东京和大阪。
 

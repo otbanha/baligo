@@ -15,7 +15,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: zh-cn
-_srcHash: b95453265f7a7cd3f1a56e5bad35e6b0
+_srcHash: 476076a7d356687582536454cd482ce5
 ---
 
 这篇游记是由团友[Serena](https://www.facebook.com/100004740466944/)提供，记录了一个带着两个小朋友，五大二小家庭的亲子游巴厘岛之旅。在这次旅程中，他们与导游兼司机小钟Pacung Bali共度了七天的美好时光。通过详细的行程安排和景点推荐，他们探索了巴厘岛的各个角落，品尝了当地的美食，体验了丰富的水上活动，并留下了许多珍贵的回忆和美丽的照片。
@@ -62,7 +62,7 @@ Beachwalk Residence
 
 希尔顿巴厘岛度假村
 
-▶[希尔顿巴厘岛度假村](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2484) 预订链接
+▶[希尔顿巴厘岛度假村](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2484) 订房链接
 
 ### 2/16 乌布
 
@@ -82,7 +82,7 @@ Beachwalk Residence
 
 Amarin Seminyak
 
-▶[Amarin Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2802663) 预订链接
+▶[Amarin Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2802663) 订房链接
 
 早上，我们驾车沿着蓝色公路欣赏两旁高耸岩壁的壮丽景色，下午则参观了神鹰广场，并在酒店附近逛街购物。
 
@@ -114,7 +114,7 @@ Amarin Seminyak
 
 ### 2/19 购物/登机
 
-在早上进行最后一次购物后，我们于下午14:00准备搭机返回台湾，结束了美好的巴厘岛之旅。旅程最后一天安排在库塔、金巴兰这一带的优点是「完全不用提心吊胆会赶不上飞机」喔！
+在早上进行最后一次购物后，我们于下午14:00准备搭机返回台湾，结束了美好的巴厘岛之旅。旅程最后一天安排在库塔、金巴兰这一带的优点是「完全不用提心吊胆会赶不上飞机」哦！
 
 > （延伸阅读：[库塔旅游攻略：50个必访景点、美食、推荐SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)）  
 > （延伸阅读：[金巴兰自由行：推荐30个玩乐景点全攻略](/blog/jimbaran-guide/)）
@@ -139,7 +139,7 @@ Amarin Seminyak
 > 编者按：建议农历新年要去巴厘岛的朋友参阅：
 
 - [农历新年巴厘岛家庭旅游攻略：机票、签证、交通、景点全攻略](/blog/2026-bali-lunar-new-year-guide/)
-- [【不塞车的巴厘岛自由行攻略】如何避开巴厘岛的混乱交通，享有悠闲的假期？](/blog/bali-traffic-free-travel-tips/)
+- 【不塞车的巴厘岛自由行攻略】如何避开巴厘岛的混乱交通，享有悠闲的假期？](/blog/bali-traffic-free-travel-tips/)
 
 ## 包车司机
 
@@ -151,5 +151,5 @@ Amarin Seminyak
 
 如果您正在计划前往巴厘岛旅行，我强烈推荐您联系小钟Pacung Bali作为您的导游兼司机。他的联系方式在[这里](/blog/bali-private-car-drivers-guide/)。他的专业服务和丰富经验将为您的旅程增添许多美好的回忆！
 
-您觉得[Serena](https://www.facebook.com/100004740466944/)安排的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得[Serena](https://www.facebook.com/100004740466944/)安排的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 

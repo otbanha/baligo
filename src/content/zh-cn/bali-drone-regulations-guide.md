@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ad9871349a077ea9c5d06d39fbc9533f.png'
 originalUrl: 'https://vocus.cc/article/655b357ffd89780001b0febf'
 lang: zh-cn
-_srcHash: 27084f61d348402d8d8591c269261ebe
+_srcHash: c324e5bcf3244dc2dbf1cb6100fe8c1f
 ---
 
 在[上一篇文章中](/blog/bali-drone-travel-guide/)，我们讨论了如何安全地携带你的无人机来到印尼/巴厘岛。今天我们将深入探讨在印尼/巴厘岛飞行无人机时需要遵守的相关规范和法规。

@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b6047d6cb9e26f87bdbf416907acf6fe.jpg'
 originalUrl: 'https://vocus.cc/article/67c9a234fd897800014b5a11'
 lang: zh-cn
-_srcHash: 230105c8f2f2537b98bc9d540b4615b2
+_srcHash: 7c91dfdf8baaa82b5e35da39b7d3ba19
 ---
 
 巴厘岛，这个充满神秘与浪漫的度假天堂，除了知名的海滩与梯田，还隐藏着许多令人惊艳的秘境。位于乌鲁瓦图的 **Batu Barak**（又称 **Tanah Barak**）就是近年来爆红的景点之一。这片被称为「蓝色公路」或「断崖公路」的地方，以其壮丽的石灰岩悬崖、洁白的沙滩和清澈的海水，吸引了无数旅人前来探访。今天，就让我们一起走进这片梦幻之地，感受它的魅力吧！
@@ -67,7 +67,7 @@ Batu Barak Beach 位于巴厘岛南部的乌鲁瓦图地区，具体位置在库
 3. **从GWK文化公园出发**：
    车程仅需20分钟，非常方便。
 
-**注意**：由于当地实施新的交通管制，私人车辆需停放在Lelangon停车场，然后步行或搭乘接驳车前往海滩。接驳车服务让游客的体验更加安全与舒适。进入需要门票，每人IDR 25,000（约USD 2）
+**注意**：由于当地实施新的交通管制，私人车辆需停放在Lelangon停车场，然后步行或搭乘接驳车前往海滩。接驳车服务让游客的体验更加安全与舒适。进入需要门票，每人IDR 25,000（约USD$2）
 
 ![詳細位置請參考「烏魯瓦圖攻略地圖」](https://images.gobaligo.id/vocus/vocus_d55264b0552506fae6f6c3bde6ded6f9.png)
 

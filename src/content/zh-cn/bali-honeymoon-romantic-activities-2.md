@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65d0e089fd89780001320e4c'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: b5cba2b73f8328c9bc22e2875bec8292
+_srcHash: 5c58e0006adde8d8e4835adb9da44a23
 ---
 
 不久前才出炉的「十大全球浪漫旅游目的地」，根据Agoda旅行平台的大数据，其中巴厘岛名列全球第六名（[请看这里](/blog/valentines-day-romantic-destinations/)）；而另一份Tripadvisor 2024年度统计资料，巴厘岛更被列为度蜜月目的地的顶尖宝座，[击败马尔代夫夺得全世界冠军！](/blog/bali-honeymoon-destination/)
@@ -207,7 +207,7 @@ _srcHash: b5cba2b73f8328c9bc22e2875bec8292
 
 从巴厘岛出发乘船来到佩尼达岛，展开令人难以置信的一日游冒险。中文导游将引领您抵达神秘的精灵海滩（Kelingking Beach），站在高处俯瞰，岛屿的形状宛如一只雄伟的暴龙。接下来，踏入被火山岩环绕的“天使浴池”，感受碧绿澄澈的海水如同天使之泉。若您渴望更深入地体验海底奇观，可选择加购浮潜项目，漫游水晶湾，欣赏巴厘岛海洋生态的多样风貌，使您的冒险之旅更加丰富多元。
 
-（延伸阅读：[【Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)）
+（延伸阅读：[【Nusa Penida 佩尼达岛全攻略】地图、乘船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)）
 
 ▶预订[中文导游佩尼达岛一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=807066&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DTravelTheme.AmazingExperiencesCard_LIST%26clickId%3D7e1e0da9d2)
 

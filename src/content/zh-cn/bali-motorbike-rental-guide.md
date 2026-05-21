@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65adf238fd89780001a798ea'
 category:
   - 叫車包車
 lang: zh-cn
-_srcHash: ef6472ce4fc0398179e8bb78326c495b
+_srcHash: 1ea8cdc10668adb05be2e4f1b7fdfa2f
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_87dd993bf8b3961aa9a0173d0ac8c654.png)
@@ -26,8 +26,8 @@ _srcHash: ef6472ce4fc0398179e8bb78326c495b
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_d4d13794f3492c137a0f6b2dd1600eb6.png)
 
-➡️[找巴厘岛住宿请看这里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
-➡️[更多巴厘岛超值优惠点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
+➡️[找巴厘岛住宿请点击这里](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
+➡️[更多巴厘岛超值优惠点击这里](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
 
 以下是每个比较项目的说明：
 
@@ -39,9 +39,9 @@ _srcHash: ef6472ce4fc0398179e8bb78326c495b
 
 ### 价格：
 
-> **租摩托车：**价格最低，租用一天的费用约 50,000 至 80,000 印尼盾。对预算有限的旅客来说是经济实惠的选择。
+> **租摩托车：**价格最低，租用一天的费用约 3 至 5 美元。对预算有限的旅客来说是经济实惠的选择。
 
-> **包车：**价格较高，平均每天约 600,000 至 800,000 印尼盾。相对较昂贵，但提供更舒适、安全的交通方式。价钱包含一名司机、一辆五人座车、车辆的油费、司机的餐费、停车费等。过路费/门票等未包含在内。（请看[巴厘岛包车自由行全攻略](/blog/bali-private-car-hire-guide/)）
+> **包车：**价格较高，平均每天约 38 至 52 美元。相对较昂贵，但提供更舒适、安全的交通方式。价钱包含一名司机、一辆五人座车、车辆的油费、司机的餐费、停车费等。过路费/门票等未包含在内。（请看[巴厘岛包车自由行全攻略](/blog/bali-private-car-hire-guide/)）
 
 ### 需要准备证件：
 
@@ -63,7 +63,7 @@ _srcHash: ef6472ce4fc0398179e8bb78326c495b
 
 > **包车：**不受此限制。免去了因交通违规、临检而受到警察盘查的风险。
 
-### 大太阳或下雨：
+### 太太阳或下雨：
 
 > **租摩托车：**容易晒伤或淋湿，尤其当塞车被困在车阵中。
 
@@ -108,11 +108,11 @@ _srcHash: ef6472ce4fc0398179e8bb78326c495b
 
 ### 适合路途较长
 
-> **租摩托车：**巴厘岛虽然不大，但是很多景点相隔的路程也需要一个小时以上，因此租摩托车不太适合跑景点。
+> **租摩托车：**巴厘岛虽然不大，但很多景点相隔的路程也需要一个小时以上，因此租摩托车不太适合跑景点。
 
-> **包车：**使用包车跑景点，虽然在马路上比不过摩托车灵活，但在车上可以吹空调、看风景、聊天、甚至可以打盹，较适合长途旅行。
+> **包车：**使用包车跑景点，虽然在马路上比不过摩托车灵活，但在车上可以吹空调、兜风、聊天、甚至可以打盹，较适合长途旅行。
 
-### 专门摄影师
+### 专业摄影师
 
 > **租摩托车：**两个人自己骑车旅游。除非带着三脚架，要跟巴厘岛壮丽的风景合照比较困难。
 
@@ -127,7 +127,7 @@ _srcHash: ef6472ce4fc0398179e8bb78326c495b
 
 ## 实用建议
 
-针对观光客在巴厘岛的交通方式，除了包车和租用摩托车，短程交通还可以多加利用Gojek或Grab提供的网约车服务。
+针对游客在巴厘岛的交通方式，除了包车和租用摩托车，短程交通还可以多加利用Gojek或Grab提供的网约车服务。
 
 请参考以下链接：
 

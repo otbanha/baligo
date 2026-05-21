@@ -1,7 +1,7 @@
 ---
 slug: top-10-bali-indonesian-food
 title: "\U0001F336️ 巴厘岛必尝10大印尼美食指南：从脏鸭餐到烤乳猪，舌尖上的南洋风情"
-description: "「在巴厘岛，每一口食物都是香料交响乐！」 作为印尼17,000岛屿中最璀璨的明珠，巴厘岛不仅有绝美海景，更藏着令人惊艳的美食宇宙。这里的料理大胆运用姜黄、香茅、辣椒等数十种香料，搭配独特的慢烤工法，创造出层次丰富的南洋滋味。跟着这份美食地图，开启你的味觉冒险吧！ \U0001F35A 巴厘岛饮食文化解密 巴"
+description: "「在巴厘岛，每一口食物都是香料交响乐！」  作为印尼17,000岛屿中最璀璨的明珠，巴厘岛不仅有绝美海景，更藏着令人惊艳的美食宇宙。这里的料理大胆运用姜黄、香茅、辣椒等数十种香料，搭配独特的慢烤工法，创造出层次丰富的南洋滋味。跟着这份美食地图，开启你的味觉冒险吧！   \U0001F35A\_巴厘岛饮食文化解密  巴"
 pubDate: '2025-05-10'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_435238b3a24f443a730832413d1f6ae9.png'
 tags:
@@ -14,8 +14,9 @@ originalUrl: 'https://vocus.cc/article/681ed810fd89780001472eb1'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 9a4b98e03c46c0868ca074ec0324e1c6
+_srcHash: 39fa7a0e87ff367a07d7fb27838e7e0b
 ---
+
 **「在巴厘岛，每一口食物都是香料交响乐！」**
 
 作为印尼17,000岛屿中最璀璨的明珠，巴厘岛不仅有绝美海景，更藏着令人惊艳的美食宇宙。这里的料理大胆运用姜黄、香茅、辣椒等数十种香料，搭配独特的慢烤工法，创造出层次丰富的南洋滋味。跟着这份美食地图，开启你的味觉冒险吧！
@@ -24,7 +25,7 @@ _srcHash: 9a4b98e03c46c0868ca074ec0324e1c6
 
 ---
 
-🍚 **巴厘岛饮食文化解密**
+🍚 **巴厘岛饮食文化解密**
 
 巴厘岛人信奉「米是生命之源」，连祭神供品都少不了稻米（当地称Nasi）。走在街头，你会发现三种基础米饭：白饭（Nasi Putih）、红米（Nasi Merah）和用姜黄染香的黄饭（Nasi Kuning）。而所有风味的灵魂，都来自那神秘香料酱——**Basa Gede 或 basa rajang**（用辣椒、虾酱、蒜等捣成的综合香料糊）。
 
@@ -35,9 +36,9 @@ _srcHash: 9a4b98e03c46c0868ca074ec0324e1c6
 
 ---
 
-## 🏆 **10大必吃巴厘岛经典美食**
+## 🏆 **10大必吃巴厘岛经典美食**
 
-### 1. **Nasi Campur（综合饭）**
+### 1. **Nasi Campur（综合饭）**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ba61bd1cca025325f216cead628b0be6.jpg)
 
@@ -209,7 +210,7 @@ _srcHash: 9a4b98e03c46c0868ca074ec0324e1c6
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4627aa4329d41d2364576f0df857fb02.jpg)
 
-当巴厘岛的热带暴雨突然来袭，或是你被辛辣料理刺激到需要缓和时，一碗冒着蒸气的**Sop Buntut**就是上天赐予的救赎！这道源自爪哇宫廷的浓郁汤品，完美融合了「炭烤香、香料魂、胶质甜」，连骨头都能吸出骨髓精华～
+当巴厘岛的热带暴雨突然来袭，或是你被辛辣料理刺激到需要缓和时，一碗冒着热气的**Sop Buntut**就是上天赐予的救赎！这道源自爪哇宫廷的浓郁汤品，完美融合了「炭烤香、香料魂、胶质甜」，连骨头都能吸出骨髓精华～
 
 **🔥 为什么这碗汤与众不同？**
 
@@ -277,7 +278,7 @@ _srcHash: 9a4b98e03c46c0868ca074ec0324e1c6
 
 - **Kopi Luwak**：世界最贵麝香猫咖啡，但建议到正规庄园品尝（避免虐待动物争议）
 - **Jamu**：姜黄+蜂蜜的传统药饮，巴厘岛人的「养生手摇杯」
-- **Bintang Beer**：印尼国民啤酒，配沙嗲绝妙
+- **Bintang Beer**：印尼国民啤酒，配沙爹绝妙
 
 ---
 
@@ -298,7 +299,7 @@ _srcHash: 9a4b98e03c46c0868ca074ec0324e1c6
 - [乌鲁瓦图美食攻略](/blog/uluwatu-guide/)
 - [沙努尔美食](/blog/sanur-guide/)[攻略](/blog/sanur-guide/)
 - [努沙杜瓦美食攻略](/blog/nusa-dua-guide/)
-- [北部罗威那美食推荐](/blog/north-bali-travel-guide/)
+- [北部 Lovina 美食推荐](/blog/north-bali-travel-guide/)
 - [佩尼达岛美食攻略](/blog/nusa-penida-best-restaurants/)
 - [蓝梦岛/金银岛美食攻略](/blog/nusa-lembongan-restaurants/)
 - [科莫多岛美食攻略](/blog/komodo-island-labuan-bajo-travel/)

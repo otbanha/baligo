@@ -1,7 +1,7 @@
 ---
 slug: zone-out-bali-vr-adventure
 title: "\U0001F3AE ZONE OUT Bali：库塔最酷的虚拟现实冒险基地！"
-description: "如果你在找一个能让全家大小都玩到忘我的室内活动，那就别错过位于库塔（Kuta）雷吉安地区的 ZONE OUT Bali！这里是巴厘岛第一个的 VR 虚拟现实游乐馆，结合科技与娱乐，让你瞬间进入另一个世界 \U0001F680。 无论你是热爱速度的赛车手、喜欢挑战的射击玩家，还是想和孩子一起体验太空冒险、云霄飞车或"
+description: "如果你在找一个能让全家大小都玩到忘我的室内活动，那就别错过位于库塔（Kuta）雷吉安地区的 ZONE OUT Bali！这里是巴厘岛第一个的 VR 虚拟现实游乐馆，结合科技与娱乐，让你瞬间进入另一个世界 \U0001F680。  无论你是热爱速度的赛车手、喜欢挑战的射击玩家，还是想和孩子一起体验太空冒险、云霄飞车或"
 pubDate: 2025-11-05T00:00:00.000Z
 category:
   - 美食景點活動
@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_096383766c621530378f735a98527311.jpg'
 originalUrl: 'https://vocus.cc/article/690b2c7bfd89780001f3ea8d'
 lang: zh-cn
-_srcHash: 589b9450a8640ca48f434377474543d6
+_srcHash: e12d4b1de07f1c10e72ab318d19612d6
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_91dd4f8bae9402d0f3052dd663baad00.jpg)

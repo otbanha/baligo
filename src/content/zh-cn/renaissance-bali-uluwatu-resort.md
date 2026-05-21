@@ -23,7 +23,7 @@ agoda_star_rating: 5
 latitude: -8.812800407409668
 longitude: 115.1447982788086
 lang: zh-cn
-_srcHash: aae582373ee447c43c383fbb88c20989
+_srcHash: 343bede61114c7c1ca2857cdaed949ad
 ---
 
 ## 巴厘岛乌鲁瓦图的精品奢华度假天堂
@@ -148,7 +148,7 @@ Renaissance Bali Uluwatu Resort & Spa 专为亲子旅客打造的亮点之一，
 
 ### 2. 酒店有提供中文服务人员吗？
 
-主要语言为英文，但部分前台人员具备基本中文沟通能力。
+主要语言为英文，但部分柜台人员具备基本中文沟通能力。
 
 ### 3. 有哪些适合家庭的设施？
 

@@ -1,5 +1,4 @@
 ---
-update: "2026/05/19"
 slug: bali-sim-card-esim-roaming-guide
 title: 巴厘岛网卡推荐：SIM卡、eSIM 与漫游方案优缺点完全比较
 description: >-
@@ -23,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_dc48db1d4d9af371c1a100564890c868.jpg'
 originalUrl: 'https://vocus.cc/article/65f916bbfd89780001b916e0'
 lang: zh-cn
-_srcHash: 5d64e0018a4e9bb2fb7583c8f6c5604e
+_srcHash: f9b0f2be9e213f090264362c9cf8d505
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_db855d72e3a3f085829e4471ce055f11.jpg)
@@ -58,7 +57,7 @@ _srcHash: 5d64e0018a4e9bb2fb7583c8f6c5604e
 
 在机场购买的SIM卡和流量价格最贵，甚至有人被宰价格贵了三倍！因此，建议到外面的店家办理，因为他们需要登记您的护照，请司机带您去的好处是他们会带您去正规的店家办理，这样可以避免发生证件被盗用或被宰价格的情况。
 
-在巴厘岛当地办理SIM卡，Telkomsel这家国营印尼电信公司是信号最好的，提供您参考。
+在巴厘岛当地办理SIM卡，Telkomsel这家国营印尼电讯公司是信号最好的，提供您参考。
 
 ## 事先在网络购买
 

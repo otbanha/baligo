@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66d4538ffd897800012f025a'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 683c5c4fa11e14437ecd5b7957e8ef3b
+_srcHash: 7a6ee651551f7bb21d68931545d22f8f
 ---
 
 ### 巴厘岛12天行程规划心得分享
@@ -49,7 +49,7 @@ _srcHash: 683c5c4fa11e14437ecd5b7957e8ef3b
 
 巴厘岛的交通状况可以用一个字来形容，就是「堵」。由于朋友的假期较短，我们前五天的行程排得比较满，每个景点之间的交通时间都需要花费不少，加上我们的住宿都在乌布，前往乌鲁瓦图、库塔和坎古地区都需要2-3小时的车程。因此，建议住宿选择上应以靠近景点为主，这样可以节省不少交通时间。
 
-编按：参考我们的「巴厘岛分区攻略」是最好的指南！
+编者按：参考我们的「巴厘岛分区攻略」是最好的指南！
 
 ## 食物
 
@@ -67,15 +67,15 @@ _srcHash: 683c5c4fa11e14437ecd5b7957e8ef3b
 
 （视频由林俊宏提供）
 
-[**▶Klook的Nusa Penida优惠**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=909332&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fpoi%2F50190574-nusa-penida%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D21079c02f9)
+[**▶Klook的努沙佩尼达优惠**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=909332&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fpoi%2F50190574-nusa-penida%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D21079c02f9)
 
-**编者按：来到这里「切记」不要下海喔！已经发生过**[**不少次致死意外了**](/blog/bali-attractions-safety-alert/)**～**
+**编者按：来到这里“切记”不要下海哦！已经发生过**[**不少次致死意外了**](/blog/bali-attractions-safety-alert/)**～**
 
 另一个是Tembeling Beach and Forest，这里人比较少，非常适合休息。不过，通往景点的路况不好，需要特别小心。Diamond Beach相对而言比较一般。由于Penida是新开发的离岛，住宿和餐饮的品质不高，价格也比巴厘岛本岛贵两倍左右。整体来说，我们的Penida岛之行还是非常不错的。
 
 **延伸阅读：**
 
-[【巴厘岛 - Nusa Penida 佩尼达岛全攻略】](/blog/nusa-penida-guide/)  
+[【巴厘岛 - 努沙佩尼达全攻略】](/blog/nusa-penida-guide/)  
 [地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
 
 ## 旅途中最特别的住宿推荐

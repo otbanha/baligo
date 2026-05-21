@@ -2,7 +2,7 @@
 slug: tirta-empul-temple-guide
 title: 【巴厘岛圣泉寺】Tirta Empul 完整指南：千年圣水净化仪式流程、禁忌与必看重点
 description: >-
-  走进巴厘岛最神圣的水庙！本篇详细解析圣泉寺 (Tirta Empul) 的历史背景与 Melukat 净化仪式完整步骤。包含如何领取沙龙
+  走进巴厘岛最神圣的水庙！本篇详细解析圣泉寺 (Tirta Empul) 的历史背景与 Melukat 净化仪式完整步骤。包含如何领取纱笼
   (Sarong)、祭祀顺序、泉水功效传说以及入内参观的宗教禁忌。带您在千年古庙中感受神圣泉水的疗愈力量。
 pubDate: 2026-01-18T00:00:00.000Z
 category:
@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ea059ffc95268e16ff2815ce4d13f7a9.jpg'
 originalUrl: 'https://vocus.cc/article/6852cdc2fd89780001e0b7ad'
 lang: zh-cn
-_srcHash: b2bb76589164a644b3be782be255218a
+_srcHash: dd7cf44f5b72bfb42656ce6c1f0d60a2
 ---
 
 Tirta Empul（意为「圣泉」）是巴厘岛最古老且灵性深厚的水庙之一，位于 Gianyar 的 Tampaksiring 村。这座寺庙以泉水净化仪式「Melukat」闻名，信徒相信此处泉水具有清除负能量的神力。
@@ -169,7 +169,7 @@ Melukat 是巴厘岛印度教的净化仪式，信众在泉水中依序通过 26
 
 ![Dalem Pingit聖泉有著圖左的瀑布灌頂/Pura Gunung Kawi聖泉有壯觀的石壁雕刻](https://images.gobaligo.id/vocus/vocus_a0e641fa72cd5443fbfe00f02e4c1894.jpg)
 
-Dalem Pingit圣泉有着图左的瀑布灌顶/Pura Gunung Kawi圣泉有壮观的石壁雕刻
+Dalem Pingit圣泉有着图左的瀑布灌顶/Pura Gunung Kawi圣泉有壮观石壁雕刻
 
 一般的旅游网志只会介绍乌布一个最有名的圣泉寺 Pura Tirta Empul，其实就我所知，乌布的圣泉寺最少有三个喔！
 
@@ -201,7 +201,7 @@ https://youtube.com/shorts/fiYs5GKdINU
 
 ### 2. 入场是否提供 Sarong？
 
-是的。入庙时会免费提供 Sarong 与腰带，不须自行携带。
+是的。入庙时会免费提供 Sarong 与腰带，不需自行携带。
 
 ### 3. 泉水可以饮用吗？
 

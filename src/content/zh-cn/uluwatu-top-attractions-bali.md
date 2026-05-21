@@ -19,12 +19,12 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/8mzJm_UrjSg'
 lang: zh-cn
-_srcHash: f2d20ac79845f05cfaa54c4d6a44164e
+_srcHash: 412cee91958bb95723fb58db35e89aa7
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dd3f3b7cadfa7c280b3748820ff69beb.jpg)
 
-在乌鲁瓦图度过的每一分每一秒，您都能感受到天堂般的体验，我们并不是在夸大其词！巴厘岛乌鲁瓦图被严重低估了，而今天，我们将带您探索乌鲁瓦图的十大景点和必做活动。
+在乌鲁瓦图度过的每一分每一秒，您都能感受到天堂般的体验，我们并不是在夸大其词！巴厘岛乌鲁瓦图被严重低估了，而今天，我们将带您探索乌鲁瓦图的十大景点和必做活动，
 
 ## 第十名：参观乌鲁瓦图寺庙
 
@@ -38,7 +38,7 @@ _srcHash: f2d20ac79845f05cfaa54c4d6a44164e
 
 前来Uluwatu Temple参观的游客还可欣赏著名的Kecak火舞表演。这种独特的巴厘舞蹈不需要音乐伴奏，而是由一大群男士一起高声吟唱作为伴奏。如同所有巴厘舞蹈一样，它用舞蹈来诉说故事。在巴厘岛最佳观赏火舞的地点就是Uluwatu Temple的舞台，您可在舞者身后欣赏令人赞叹的日落景色。
 
-想去观赏这世上独一无二火舞表演的朋友，可以参考底下Klook颇受好评的行程，透过Klook预订票券，轻松享受充满震撼的火舞表演！
+想去观赏这世上独一无二火舞表演的朋友，可以参考底下Klook颇受好评的行程，通过Klook预订票券，轻松享受充满震撼的火舞表演！
 
 - [中文导游一日游：乌鲁瓦图庙夕阳＆卡恰火舞之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D913494d4bb)
 - [海神庙 & Padang Beach & 乌鲁瓦图日落 & 卡恰舞一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F72855-tanah-lot-padang-padang-beach-uluwatu-kecak-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De01c34283f)
@@ -52,13 +52,13 @@ _srcHash: f2d20ac79845f05cfaa54c4d6a44164e
 
 Single Fin日落美景
 
-由于乌鲁瓦图位于西南海岸线上，从这里悬崖可以饱览印度洋的绝佳日落景致，无疑是巴厘岛最佳观赏日落的地点之一。欣赏在乌鲁瓦图寺庙前的日落景色更是独一无二的体验。如果您已经观赏过，不妨前往Single Fin酒吧，一边啜饮鸡尾酒，一边欣赏冲浪者在落日余晖中挥洒自如，还有Rock Bar也是赏日落的绝佳去处。
+由于乌鲁瓦图位于西南海岸线上，从这里的高崖可以饱览印度洋的绝佳日落景色，无疑是巴厘岛最佳观赏日落的地点之一。欣赏在乌鲁瓦图寺庙前的日落景色更是独一无二的体验。如果您已经观赏过，不妨前往Single Fin酒吧，一边啜饮鸡尾酒，一边欣赏冲浪者在落日余晖中挥洒自如，还有Rock Bar也是赏日落的绝佳去处。
 
 ## 第七名：体验海滩俱乐部
 
 乌鲁瓦图因其充满传奇的海滩俱乐部而闻名，这些海滩俱乐部或坐落在沙滩上，或悬空设计俯瞰大海，景色壮观独特，与其他巴厘海滩俱乐部截然不同。
 
-在这些俱乐部度过整天都是赏心悦目的体验。Oneeighty Dayclub拥有令人疯狂的无边际泳池、ULU Cliff House以DJ表演闻名、Karma Beach Club则是巴厘较高档的俱乐部、Sunday's Beach Club在沙滩的户外活动设施较为齐全。想要尽情体验巴厘海滩生活的独特魅力。这绝对是乌鲁瓦图的十大必做活动之一。
+在这些俱乐部度过整天都是赏心悦目的体验。Oneeighty Dayclub 拥有令人疯狂的无边际泳池、ULU Cliff House以DJ表演闻名、Karma Beach Club则是巴厘较高档的俱乐部、Sunday's Beach Club在沙滩的户外活动设施较为齐全。想要尽情体验巴厘海滩生活的独特魅力。这绝对是乌鲁瓦图的十大必做活动之一。
 
 底下是这一区有名的几个海滩俱乐部：
 
@@ -85,7 +85,7 @@ Single Fin日落美景
 
 尽管Suluban Beach（又名Blue Point Beach）并不适合晒日光浴，但为了一睹那神秘的洞穴绝对值得一游！
 
-__VID0__
+{{video1}}
 
 这是冲浪者的热门地点，他们利用这个洞穴进出海中驾驭狂野的浪潮。您必须先走过长长的阶梯，穿越石灰岩的天然洞穴，才能抵达海岸。这个独一无二的海滩很适合拍照打卡，您也可观赏冲浪者出海的动人景象。
 

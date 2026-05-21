@@ -15,7 +15,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 096063fa21a7c110b78b24d536062201
+_srcHash: 915b3d621b70b75cdbeb5308ea499edd
 ---
 
 【今早美金汇率：16,725】（[巴厘岛换汇须知](/blog/bali-currency-exchange-guide/)）
