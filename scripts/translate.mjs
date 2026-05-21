@@ -116,11 +116,12 @@ function md5(text) {
   return createHash('md5').update(text).digest('hex');
 }
 
-// Hash only translatable content — strip image lines and heroImage so that
-// bulk image URL updates (synced by sync_translations.py) don't invalidate the cache.
+// Hash only translatable content — strip image lines, heroImage, and slug so that
+// bulk image URL updates and slug renames don't invalidate the cache.
 function contentHash(text) {
   const stripped = text
     .replace(/^heroImage:.*$/m, 'heroImage: __img__')
+    .replace(/^slug:.*$/m, 'slug: __slug__')
     .replace(/^!\[.*?\]\(.*?\)\s*$/gm, '');
   return md5(stripped);
 }
