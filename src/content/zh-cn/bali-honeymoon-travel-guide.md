@@ -1,0 +1,221 @@
+---
+slug: bali-honeymoon-travel-guide
+title: 巴厘岛蜜月游记推荐&分享
+description: 这次去巴厘岛度蜜月，我参考了不少网友的经验分享，现在也整理几个这趟旅程值得分享的事项，希望对即将前往的旅人有所帮助
+pubDate: 2024-06-18T00:00:00.000Z
+category:
+  - 遊記分享
+tags:
+  - 峇里島蜜月
+  - 峇里島遊記
+  - 峇里島推薦
+  - 巴里島
+  - 蜜月
+heroImage: 'https://images.gobaligo.id/vocus/vocus_928bcf8de351c2ebc6891979b506e58e.jpg'
+originalUrl: 'https://vocus.cc/article/6658817efd89780001222f04'
+lang: zh-cn
+_srcHash: 9524b43a0fd4d3910df3a03bfd156904
+---
+
+> 以下内容由团友 [Angel Wu](https://www.facebook.com/angel.wu.75491/) 提供，并同意我们改编
+
+这次去巴厘岛度蜜月，我参考了不少网友的经验分享，现在也整理几个这趟旅程值得分享的事项，希望对即将前往的旅人有所帮助。
+
+行程时间：2024/05/19 - 05/23
+
+## 签证/观光税
+
+首先，最重要的就是签证。我们约提前三星期办理电子签证，参考了网友及YouTube上的说明，一步步填写表格。填完后马上就收到电子签证，记得要打印出来，过海关时会查验。不要存侥幸心态，观光税也一样要在线上缴费完毕。到达后，从移民局到领行李基本上预留一小时会比较充裕。领完行李后，最后还需要扫描一个事先填写的电子报关单QR Code才能放行。
+
+> 延伸阅读：[2025最新印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+
+## 换钱
+
+由于行程安排，我们直接在机场兑换货币（美金换印尼盾）。虽然汇率当然不如外面的好，但只换少量，所以也不太计较。换来的钱基本上用于给小费和支付司机现金就已经足够。能刷卡的地方就刷卡（记得选择当地汇率），例如去做SPA、在海边餐厅用餐时，我们也事先询问是否可以刷卡，这样既方便自己不用带太多现金，也免去对币值不熟悉可能带来的麻烦。
+
+{{block:換匯}}
+
+## 交通
+
+巴厘岛的道路复杂，因此建议大家叫车或根据行程包车。堵车路段主要集中在机场附近，其他地方相对较好。在此想分享一位当地司机Budi，他是我们第一天通过KKday订机场接送后认识的司机，我们觉得他非常不错，后来几天的短程接驳也直接通过WhatsApp提前联系他。
+
+{{block:包車}}
+
+Budi为人亲切，值得信任。开车途中，对巴厘岛有任何好奇都可以问他。虽然他的英文带有当地口音，但大致上能听懂，沟通过程也很愉快。我们自己用中文聊天，Budi也不会打扰，安静开车，这让我们觉得很自在。机场接送体验不错后，其他天的移动也都选择他，因为已经建立了信任。即使很晚（凌晨）询问，他也总是很快回复并比约定时间提早到。Budi的行程安排得很满，他说只要不是太偏远的地方，他都会接送。
+
+![包車司機 Budi Arnaya / Angel Wu提供](https://images.gobaligo.id/vocus/vocus_88a22ecfd666643437fb6f8f1c80bedf.jpg)
+
+包车司机 Budi Arnaya / Angel Wu提供
+
+关于收费部分，我们查过要去的距离，价格跟Grab差不多。以下是Budi的联系方式，有需要的朋友可以自行联系，也可以说是Mr. Lin Chen Wei from Taiwan介绍的（不会有优惠，纯粹推荐）。
+
+**WhatsApp**: +62 821-4659-3754
+
+**Name**: Budi Arnaya
+
+## 餐食
+
+我们这次的用餐安排主要是（酒店）早餐、（酒店）下午茶和晚餐。
+
+**下午茶**：我们选择了水明漾英迪格酒店和四季酒店的下午茶。这两间的下午茶套餐都非常推荐。
+
+> ▶我也想订[水明漾英迪格酒店下午茶/用餐](https://www.kkday.com/zh-tw/product/31018-sugarsand-dining-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=17351)
+
+### 编辑推荐：水明漾的精致美食（[地图指南](https://www.google.com/maps/d/u/0/edit?mid=1il-sYTIMNMSVrVWqSnUPgdlsbCfMPP0&usp=sharing)🗺️）
+
+水明漾有着丰富的餐厅选择，无论您喜欢国际美食还是当地特色，这里都能满足您的味蕾。在海滩边享受浪漫的烛光晚餐，或者在精致的餐厅中品味来自世界各地的美食，都是一个难以忘怀的体验。某些餐厅提供的特色菜单和舒适的用餐环境，是情侣们共度浪漫时光的理想之地。
+
+> [The Restaurant 五星餐厅美食体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772197&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F94566-the-restaurant-the-legian-seminyak-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D0ef2d78595)
+
+> [水明漾阿丽拉酒店Seasalt用餐体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772197&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F94283-seasalt-alila-seminyak-dining-experience-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D1bdc3332f0)
+
+> [超美的Este Cafe & Resto野餐用餐体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772197&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F83502-picnic-and-dining-at-este-leisure-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0e2dbab8ed)
+
+> [MoonLite Kitchen and Bar 预订优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=987897&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F141996-moonlite-kitchen-and-bar-at-grand-seminyak%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D80a0eacd12)
+
+![金巴蘭四季酒店下午茶。Angel Wu提供](https://images.gobaligo.id/vocus/vocus_700244ce804b2ec96bd53bc09096fac6.jpg)
+
+金巴兰四季酒店下午茶。Angel Wu提供
+
+金巴兰四季酒店的Sundara餐厅无论是环境还是餐点都非常推荐。这次的下午茶体验，让我们在巴厘岛的旅程更加完美，绝对值得再来一次。
+
+https://youtube.com/shorts/sJxJYXkoAZ0?si=nu2TUMa-dhrcVQXj
+
+> ▶我也想订[金巴兰四季酒店下午茶](https://affiliate.klook.com/redirect?aid=116349&aff_adid=863388&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54271-sundara-day-pass-four-seasons-resort-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D43ab660906)
+
+{{block:jim}}
+
+**晚餐**：有两天的晚餐我们分别在金巴兰和水明漾海滩随机找餐厅用餐。在印尼，除了标价，通常还会加上最高21%的税收（11%政府餐饮税 + 5%～10%服务费）。有的餐厅标价已含税，有的则没有，所以可以先跟店家确认清楚再用餐。我们在金巴兰吃了一家海滩餐厅，我们选择了最基本的餐点套餐，包括一桶饭、一道蔬菜、一份虾、一条鱼、一份贝类、一份沙嗲、一道小菜和两瓶啤酒，还有多种不同的酱料。这样的套餐价格大约是USD$23，对两个人来说非常划算。
+
+![這家金巴蘭海鮮餐廳，二人套餐約台幣700。Angel Wu提供](https://images.gobaligo.id/vocus/vocus_9808008c1b43d318cb783ff8571ccf53.jpg)
+
+这家金巴兰海鲜餐厅，二人套餐约USD$23。Angel Wu提供
+
+这家餐厅的气氛很棒，可以边用餐边看海景。在观光景点里，这样的价格和用餐环境真的很不错。
+
+编按：Angel推荐的金巴兰海鲜餐厅已收录在[巴厘岛金巴兰11家海鲜餐厅：不踩雷推荐](/blog/jimbaran-seafood-restaurants-list/)
+
+## 小费
+
+查过网络后发现，有人说印尼有小费文化，有人说没有。我们的经验是，有几次给小费时对方反而惊讶，也不太不好意思收。当我们表示谢谢他们的服务时，对方才会收下。基本上，坐车、提行李时会给10000印尼盾；用餐结账时也会额外给服务人员10000印尼盾现金。在酒店，有热心的工作人员帮我们拍了很多照片，他们也表示不用收小费。所以，我个人觉得给小费不是必须的，但是一种礼貌。如果要给，尽量避免给硬币，因为这不太礼貌。（编按：印尼面值最大的硬币是1,000盾，约合USD$0.06）
+
+延伸阅读：[巴厘岛旅游要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？](/blog/bali-tipping-guide-driver-spa/)
+
+由于是蜜月旅程，虽然是第一次来巴厘岛，我们想去很多地方，但又不想每天累得堵车赶路，所以选择了极为轻松的行程路线。我们享受酒店设施、吃美美的下午茶、体验地道按摩、漫步于三个不同的沙滩以及享用晚餐，也玩得很充实。
+
+## Indigo 内的SAVA SPA
+
+![圖左：SAVA Spa / 圖右：SPA 結束小小休息區。Angel Wu提供](https://images.gobaligo.id/vocus/vocus_7e6548e1f0331b60456a40ecb933e7c8.jpg)
+
+图左：SAVA Spa / 图右：SPA 结束小小休息区。Angel Wu提供
+
+在Indigo酒店内，我们选择了SAVA SPA的服务。这里环境优雅、设施完善，尤其是我们体验的90分钟热石按摩，让人印象深刻。
+
+开始热石按摩时，按摩师会不断询问石头的热度是否适合，确保不会让你感到过烫，这一点非常贴心。整个过程中，按摩师技术娴熟，让我们彻底放松，感受到深层的舒缓和放松。
+
+SAVA SPA只有六间双人按摩室，因此一定要事先预约才能享受到这里的优质服务。这里的水疗服务由屡获殊荣的专业团队提供，每一位按摩师都经过严格培训，确保每位顾客都能享受到最佳的体验。
+
+除了热石按摩，SAVA SPA还提供各种其他的水疗疗程，如香薰按摩、深层组织按摩和草本疗法等，每一种疗程都能满足不同顾客的需求。无论你是想要释放压力、减轻肌肉紧张，还是单纯想放松身心，SAVA SPA都能提供最合适的选择。
+
+总的来说，SAVA SPA是一个让人身心放松的绝佳场所。优雅的环境、贴心的服务、专业的技术，让我们在这里度过了一段非常愉快的时光。建议大家一定要提前预约，这样才能确保有机会体验到这里的优质水疗服务。
+
+> ▶预约有名的[Indigo SAVA Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=863455&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86710-sava-spa-hotel-indigo-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2026436b8e)
+
+## 编辑推荐：水明漾知名的水疗放松
+
+水明漾的许多豪华酒店和水疗中心提供各种放松身心的服务。在这里，您可以选择各种按摩、身体磨砂和面部护理，让自己沉浸在纯正的巴厘式水疗体验中。
+
+{{block:spa-smk}}
+
+## 住宿
+
+这次蜜月旅行，我们选择了三间不同的酒店：英迪格（Indigo Seminyak）、凯宾斯基（Apurva Kempinski Bali）和Vivara Bali Private Pool Villas & Spa。这些酒店在Google上的评分都非常高，许多细节和体验在Google评论中也有详细的描述，因此我在这里的重点就针对较少人提及的烛光晚餐做一些分享。
+
+以下仅对住宿做一些简单介绍：
+
+### 英迪格（Indigo Seminyak）
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912302385-2f4e76012f490800f2005a601cdeaaf3.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912302831-2ee065195d9ddc8b929628ef972bed70.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912303327-5c6f62c2e91e3690f2783aa9f8c60b8a.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912303954-39c921620d8ef677841da535af52850b.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912304451-212202084.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912305395-ecfd7f09475f7cf7aac5d55a975b9144.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912305935-f35457af1775eee1ca17410bddcd9649.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912307032-455297392.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912307611-b8513262c7bb23c33265b525ee008fca.jpeg)
+
+Indigo Seminyak是一家设计感十足的精品酒店，地理位置优越，位于水明漾的核心地带。酒店融合了传统巴厘岛风格和现代设计，无论是室内装潢还是户外景观都十分精致。客房宽敞舒适，设施齐全，让人倍感惬意。我们在这里体验了他们著名的SAVA SPA，享受了90分钟的热石按摩，整个过程令人放松且满意。
+
+本站介绍：[【水明漾住宿推荐】USD$161入住滨海五星级英迪格度假村](/blog/hotel-indigo-seminyak-review/)
+
+> ▶[预订 Hotel Indigo Bali Seminyak Beach](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348)
+
+### 凯宾斯基（Apurva Kempinski Bali）
+
+![左一The Apurva Kempinski Bali，中間及右圖英迪格. Angel Wu提供](https://images.gobaligo.id/vocus/vocus_9d96a128f8cf9986a733052ef377c17c.jpg)
+
+左一The Apurva Kempinski Bali，中间及右图英迪格. Angel Wu提供
+
+Apurva Kempinski Bali是一家豪华度假酒店，以其壮观的建筑和无边泳池著称。酒店坐落在努沙杜瓦的悬崖上，拥有壮丽的海景和奢华的设施。我们在这里度过了难忘的时光，享受了酒店的多种设施和美食。特别是酒店的早餐，品种丰富，口味极佳，让我们大饱口福。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775913501757-543684014.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1775913502325-0b2efa16d3269c9bdf72b3713448a6e2.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1775913502842-543684026.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1775913503260-543684038.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1775913503866-543684092.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1775913504309-595319338_1300862468749700_2611619189297659561_n.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1775913504888-595674211_1300862328749714_405162077226449190_n.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1775913505220-596339451_1300862625416351_2796766566939840091_n.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1775913505810-596957666_1300862688749678_5350672461555478575_n.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-04/1775913506317-597143234_1300862198749727_4382293073463969486_n.jpg)
+
+> ▶[预订The Apurva Kempinski Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)
+
+### Vivara Bali Private Pool Villas & Spa
+
+![Vivara Bali Private Pool Villas & Spa / Angel Wu 提供](https://images.gobaligo.id/vocus/vocus_fca73c39cc18ca5b5bf50b34d68789f6.jpg)
+
+Vivara Bali Private Pool Villas & Spa / Angel Wu 提供
+
+Vivara Bali Private Pool Villas & Spa的最大特色是每间房间都拥有私人泳池，泳池非常大，并且有喷泉循环系统，保持水的清洁，住宿的方面可以推荐！大又干净的泳池是我们选择这家酒店的主因！
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912661709-511160052.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912662292-511160140.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912662813-511160261.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912663357-399460071.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912663881-399460105.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912664384-406886200.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912664796-434285647.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1775912665142-434285792.jpeg)
+
+> ▶[预订Vivara Bali Private Pool Villas & Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=36762751)
+
+然而我们选择这里还有一个原因是它提供的烛光晚餐，不过这也是我们唯一感到失望的地方。虽然事先知道晚餐是四道菜配一瓶酒，价格不菲，自然期待也较高，但实际体验不尽如人意。开始时间比预计早，我们刚办入住还没准备好，餐点则用保鲜膜包着，感觉放了一阵子，上菜也过于紧凑，尚未吃完前菜，主餐和甜点已经摆在一边等候。这样的服务与我们的期望和价格都不相符。后来发现当晚酒店有婚宴，怀疑我们的餐点和服务质量是因为婚宴而受到影响。
+
+## 总结
+
+总结这次的旅程充满了美好的回忆，除了少许的小插曲外，整体体验非常愉快。希望这些分享能对即将前往巴厘岛的旅人有所帮助，让大家在选择住宿和规划行程时能有更多的参考和依据。也祝大家能在巴厘岛度过一个难忘的假期！
+
+> 本篇改编自「[Go Bali Go 巴厘岛旅游](https://www.facebook.com/groups/baligo/?__cft__[0]=AZVdujYnM_2ScMDIrE43T1d-EDZ8UhEbg_nSexhfSoUI6E1P4t5nmvpzkre3OyXN9-bV2viCityWrQcgifYPUSZjGS0UZ51xFalaDZAn3BCFs1WNRXz0XG6Jo6tD_IoHQoyON4VPhK1Iu7SCPc5owOsb4nxI4UgGeYpqxFONK8f0Hg&__tn__=-UC%2CP-R)」Facebook社团分享文，原文在[这里](https://www.facebook.com/groups/baligo/permalink/1549799358900637/)
+
+{{block:蜜月}}
+
+{{block:遊記}}
+
+{{block:攻略}}

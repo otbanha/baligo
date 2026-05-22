@@ -1,0 +1,145 @@
+---
+slug: seminyak-uluwatu-jimbaran-ubud-itinerary
+title: 【水明漾-烏魯瓦圖-金巴蘭-烏布】峇里島自由行完整行程分享
+description: 峇里島嘅水明漾-烏魯瓦圖-金巴蘭-烏布，司機/住宿推薦完整行程
+pubDate: '2024-08-16'
+heroImage: 'https://images.gobaligo.id/vocus/vocus_91b278904531c76c5f88a15a022eab6d.jpg'
+tags:
+  - 水明漾
+  - 烏魯瓦圖
+  - 金巴蘭
+  - 烏布
+  - 自由行
+originalUrl: 'https://vocus.cc/article/669488eafd89780001cc7d82'
+category:
+  - 遊記分享
+lang: zh-hk
+_srcHash: 9e0b2c0c6a946ef6ce3d7d597b6d30cf
+---
+
+> 以下內容由團友 [連育諄](https://www.facebook.com/groups/baligo/permalink/1574999756380597/) 提供俾我哋重新編排：
+
+今次因為要參加朋友婚禮，我哋選擇喺七月份去峇里島。峇里島嘅旅遊資訊非常繁雜，我哋用咗兩三個月時間先至規劃好行程。
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_a22d6c37c8a63306b663eaf1af023ba8.jpg)
+
+喺行前規劃呢段時間裡面，我哋發現當地嘅交通狀況非常混亂，經常有司機拒載跨區遊客，或者會喺半路抬價等問題。為咗避免呢啲困擾，我哋決定請一位包車司機，咁樣唔單止可以減少搵車嘅麻煩，亦都令我哋嘅旅程更加順暢同安心。我哋嘅司機係 Komang WikaSutresna（最底下有介紹）。最終，我哋覺得選擇包車真係一個非常明智嘅決定！
+
+## 第一天：
+
+![水明漾夕陽。連育諄提供](https://images.gobaligo.id/vocus/vocus_6dc896b39c10af9bac23d825129c22b9.jpg)
+
+水明漾夕陽。連育諄提供
+
+因為聽講水明漾嘅交通非常擠塞，所以我哋上午選擇自己行街隨意逛逛，冇包車。我哋同司機約定夜晚從水明漾載我哋去烏魯瓦圖嘅別墅，Komang 提前就到達咗約定嘅地點等我哋。我哋原本打算到別墅後再自己出去食晚餐，但 Komang 喺路上用 Google 街景睇咗一下，發現從別墅到大街嘅路夜晚非常黑，行起嚟唔太安全。最後，到達別墅時，佢就喺門口等我哋 check-in 完畢後，載我哋去食飯，呢種貼心嘅服務令我哋感到非常溫暖。
+
+## 第二天：
+
+早上我哋去咗 Oneeighty Dayclub，非常推薦呢個地方。我哋喺開門後嘅一小時內到達，因此得到咗海景第一排嘅位置。
+
+### 小傑嘅介紹：
+
+> [探索Oneeighty Day Club：峇里島懸崖邊嘅泳池極致美景](/blog/oneeighty-dayclub-uluwatu-pool/) 消費方式、預約方式介紹
+
+跟住，我哋去咗Blue Point Beach，睇衝浪高手表演，真係大開眼界。
+
+### 小傑嘅 Blue Point Beach 介紹：
+
+之後，Komang推薦我哋去Uluwatu Temple睇傳統舞蹈表演，佢仲提前叫朋友幫我哋預留咗門票，咁我哋就可以喺Blue Point Beach留耐啲，唔使提前去買票。
+
+> [Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演（附訂票資訊）](/blog/kecak-fire-dance-bali/)
+
+![烏魯瓦圖美景。連育諄提供](https://images.gobaligo.id/vocus/vocus_a2ffbc76870b45338de0935d3e72d256.jpg)
+
+烏魯瓦圖美景。連育諄提供
+
+提提你，Uluwatu Temple有好多猴子，比柴山嘅猴子仲要兇猛，男男女女都會被搶，地上仲見到好多被搶嘅眼鏡殘骸。所以去嗰度時，最好咩貴重物品都唔好帶。
+
+## 第三日：
+
+呢一日我哋要參加婚禮，所以冇安排Komang嘅包車服務。
+
+## 第四日：
+
+呢日嘅行程係由金巴蘭去烏布。途中，我哋發現要去嘅餐廳暫停營業，Komang即刻幫我哋打電話確認，仲查咗瀑布嘅官網，發現瀑布都因為前一日嘅大暴雨而暫停營業（雖然係乾季）。不過，Komang即刻俾咗新嘅建議我哋，令我哋順利度過呢一日嘅行程。行完瀑布之後，我哋返去烏布市區散步，最後請Komang車我哋去按摩，結束咗呢一日。
+
+另外，我哋呢日入住嘅Gefecon Villa Ubud有一位嚟自台灣嘅主管姐姐，人非常親切熱心，有咩問題都可以問佢。
+
+> Gefecon Villa Ubud [Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1770500)
+
+此外佢推薦我哋去Bintang Supermarket Ubud買手信，後來我哋喺機場見到同樣嘅堅果賣4倍價錢。
+
+### 小傑喺Bintang Supermarket Ubud拍攝嘅影片：__VID0__
+
+延伸閱讀：[【網友推薦】六大種類，超過20項峇里島手信推薦指南：留住珍貴回憶嘅絕佳選擇](/blog/bali-souvenirs-gift-guide/)
+
+## 第五日：
+
+![聖泉寺。連育諄提供](https://images.gobaligo.id/vocus/vocus_dbc6e9fddb7c4642b0a7e4bfee0a2182.jpg)
+
+聖泉寺。連育諄提供
+
+呢日嘅行程係一個O字型，先由聖泉寺開始，然後去咖啡廳睇火山。原本我哋查到AKASA Specialty Coffee，但Komang推薦我哋另一間Montana Del Café，話台灣人好似都鍾意呢間。雖然因為天氣唔好睇唔到火山，但呢度嘅韓國牛角包非常好食！
+
+![Montana Del Café可惜天氣不好。連育諄提供](https://images.gobaligo.id/vocus/vocus_8bba492232d63a05b16658986210416d.jpg)
+
+Montana Del Café可惜天氣唔好。連育諄提供
+
+最後，我哋去咗Tegallalang Rice Terrace，門票唔包韆鞦票，想玩嘅要喺門口買票，入面仲有特別嘅衫可以租，影相好靚。雖然呢度偏向網美景點，但喺梯田度行吓同聽住韆鞦人嘅尖叫聲都好享受。
+
+> 可以參考吓：[峇里島烏布完整攻略：100種深入認識烏布嘅方式｜探索烏布嘅魅力](/blog/ubud-guide/)
+
+行程結束後，我哋請Komang帶我哋去此行最鍾意嘅餐廳-Kebun Bistro，雖然最有名嘅羊扒賣晒，但店員推介嘅牛扒都非常好味！叫咗五分熟，切開又冇血水，肉質好嫩，連配菜都好好食。因為客人多，建議喺正餐時間提前訂位。（已加入[烏布攻略地圖](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
+
+## 第六日：
+
+朝早我哋從烏布出發去海神廟。行到海神廟可能要涉水，建議着可以浸水嘅鞋同短褲。聽講日落時分好靚，可惜我哋因行程安排喺中午，冇欣賞到。
+
+我哋到海神廟時先發現唔小心帶走咗前一晚酒店嘅鎖匙，Komang即刻話過兩日可以幫我哋送返去（已經取得酒店主管姐姐嘅同意），真係非常感謝佢！
+
+結束海神廟行程後，我哋去咗坎古區行街同海灘散步，飲咗斐莉推介嘅Blacklist Coffee Roasters，呢杯咖啡真係我哋呢趟峇里島之行最鍾意嘅。
+
+> 請參考：[峇里島坎古完美探險地圖：80個坎古必遊景點](/blog/canggu-guide/)
+
+行程嘅最後，我哋邀請咗Komang同我哋一齊食晚餐，感謝佢呢幾日嘅照顧。
+
+## 推薦包車
+
+總括嚟講，第一次嚟峇里島，想行吓景點但又冇方向嘅人，包車係一個好好嘅選擇。唔單止有專業嘅建議，路線安排亦更方便，唔使擔心行李問題。
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_1fd9d65047cadfd58a1e16cce702fbb1.jpg)
+
+我哋嘅司機Komang WikaSutresna係一位非常友善嘅人。佢聽講我哋係嚟參加婚禮，非常開心，仲同我哋分享咗佢半年前嘅婚禮短片，同埋同佢可愛嘅仔仔視像傾偈。Komang嘅英文水平唔錯，而且非常細心，旅途中有任何問題都可以問佢，佢都會耐心解答。
+
+Komang 對每位客人都非常認真。我哋呢幾日嘅旅程中，Komang一直非常細心，到每個目的地時，佢會落車幫我哋介紹應該點樣玩，去Spa時，佢亦會同店員打招呼，確保我哋嘅需求被妥善照顧。雖然因為語言問題冇辦法深度交流，但係行程上嘅溝通完全冇問題。喺度，我哋強烈推薦Komang俾大家！
+
+### 司機資訊：
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_d417da9787e70ff453294eb643a0276a.png)
+
+- ID Line : 31011994bopeas
+- Whatsapp : +62 821-4433-9665
+- Instagram : kwk.wikasutresna
+- Facebook : Komang WikaSutresna
+
+您覺得連育諄佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家到社團投稿您嘅行程喔！
+
+![raw-image](https://d2a6d2ofes041u.cloudfront.net/resize)
+
+撳呢度睇更多峇里島精彩遊記
+
+你都想寫遊記但唔知點落手？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
+
+## 參考攻略：
+
+- [峇里島水明漾100個景點攻略](/blog/seminyak-guide/)
+- [庫塔必訪50個景點攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [坎古 80個必遊景點](/blog/canggu-guide/)
+- [烏布探索嘅100個方式](/blog/ubud-guide/)
+- [金巴蘭攻略](/blog/jimbaran-guide/)
+- [烏魯瓦圖攻略](/blog/uluwatu-guide/)
+- [武吉半島冒險指南](/blog/bukit-peninsula-guide/)
+- [沙努爾 45項吃喝玩樂攻略](/blog/sanur-guide/)
+- [努沙杜瓦 40個住宿美食活動攻略](/blog/nusa-dua-guide/)
+- [佩尼達島吃喝玩樂全攻略](/blog/nusa-penida-guide/)
+- [藍夢島/金銀島景點全攻略](/blog/nusa-lembongan-ceningan-guide/)

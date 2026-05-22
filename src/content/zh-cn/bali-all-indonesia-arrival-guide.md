@@ -1,0 +1,126 @@
+---
+slug: bali-all-indonesia-arrival-guide
+title: 【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略
+description: >-
+  计划 2026 年前往巴厘岛？最新电子入境海关申报（ECD）与「All Indonesia」系统全解析。本篇图解伍拉·赖国际机场 (DPS)
+  最新通关流程：从下飞机、扫描 QR Code、过海关到领行李。同步更新观光税支付与落地签 (VoA) 办理秘诀，助您快速入境，开启完美海岛假期。
+pubDate: 2025-08-14T00:00:00.000Z
+category:
+  - 簽證通關
+  - 新手指南
+tags:
+  - 峇里島入境流程
+  - 巴厘岛入境流程
+  - BaliEntryRequirements
+  - 電子海關申報
+  - 电子海关申报
+  - ElectronicCustomsDeclaration
+  - 峇里島旅遊須知
+  - 巴厘岛旅游须知
+  - BaliTravelEssentials
+  - AllIndonesia入境卡
+  - 峇里島觀光稅
+  - 巴厘岛旅游税
+  - BaliTourismTax
+heroImage: 'https://images.gobaligo.id/vocus/vocus_79df9229a3131a48507912ff8ed38f07.png'
+originalUrl: 'https://vocus.cc/article/689dcce7fd8978000125fc52'
+lang: zh-cn
+_srcHash: 50baa2bc95beb07e62e5f0f7c6687e86
+---
+
+### **📢 重要更新！2025年8月18日起，印尼全面启用「All Indonesia」入境卡申报系统**
+
+从此**不用再分开填写**海关申报（e-CD）、健康声明（SSHP），两个流程整合至 [**All Indonesia平台**](https://allindonesia.imigrasi.go.id/)（简称「AIAC」，All Indonesia Arrival Card），大幅简化入境手续！
+
+***
+
+## **🚀 2026最新巴厘岛入境流程**（下飞机→领行李）
+
+### **行前必做**：
+
+1. 务必先完成申请电子签证eVisa。请参考[这里](/blog/bali-evisa-application-guide/)有进一步的说明，避免进入诈骗网站。
+2. 出发前三天完成AIAC入境卡，并**截图QR Code**备查。请看我站整理[常见问题FAQ](/blog/bali-evisa-customs-health-declaration/)。
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_47def0beb4f9737f8e70065afa8db58b.png)
+
+### **1️⃣ 下飞机**
+
+- 跟随机场「Arrival」标志前往入境大厅。
+
+### **2️⃣ 办理落地签（Visa on Arrival, VoA）**
+
+- **若未先申请电子签证**，需先至「落地签」柜台排队缴费（2025费用：50万印尼盾，约USD$32）。
+- 持有电子签证eVisa/eVoA者略过此步骤。
+
+### **3️⃣ 移民局查验（护照盖章）**
+
+- **排队柜台**：落地签者需排队查验。
+- **电子通关**：事先申请/缴费eVisa者免排队人工盖章，可使用「自动通关闸门」。
+
+▶️ 如何自动通关？请看[巴厘岛自动通关流程攻略](/blog/2025-bali-automatic-customs/)
+
+### **4️⃣ 领取行李**
+
+- 通过移民局/自动通关闸门后，依航班号至转盘领行李。
+- 💡 **小提醒**：行李较慢，建议挂明显行李牌防误拿。
+
+### **5️⃣ 健康声明（已整合至AIAC）**
+
+- **免填旧版SSHP健康声明**！新系统已包含健康声明，只需出示QR Code供扫描。
+
+### **6️⃣ 海关检查（已整合至AIAC）**
+
+拿到行李后走过海关检查口
+
+- 直接出示AIAC的QR Code。
+- **禁止携带**：肉类、水果、超额外币（＞1亿印尼盾）等，违者重罚。
+
+### **7️⃣ 缴纳巴厘岛观光税**
+
+- 费用：15万印尼盾/人（约USD$10）。
+
+▶️ 如何缴纳？请查看[观光税](/blog/2026-bali-tourism-tax-guide/)说明
+
+👉**额外说明:** [入境印尼/巴厘岛的小朋友签证/儿童签证攻略](/blog/bali-child-visa-guide/)
+
+## ⏰ 多久前要办理？
+
+看图一目了然
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776906855235-chatgpt_image_2026_4_23_08_13_09.png)
+
+***
+
+## **✅ 行前必准备Checklist**
+
+1. **护照**（有效期＞6个月）
+2. **_电子签证_或_现金/刷卡办落地签_**
+3. **All Indonesia QR Code**（取代海关申报、健康声明）
+4. **观光税缴费证明**（电子版或纸本）
+5. **回程机票、住宿订单**（移民官可能抽查）
+
+***
+
+## **💡 申请电子签证/All Indonesia时可能遇到的常见问题**
+
+请参考[本站FAQ](/blog/bali-evisa-customs-health-declaration/)
+
+***
+
+## **🌴 通过海关后，恭喜你正式入境！**
+
+**开始享受你的假期！**
+
+通过海关后，恭喜您完成入境流程！现在可以前往接机大厅，与预订的司机或家人朋友会合，开启美好旅程！
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_4e41a1f6d506de9fed49c3228e4407a8.png)
+
+**📌 分享给即将旅行的朋友，避免卡关！**
+
+{{block:klook}}
+
+---
+
+👈 **回到巴厘岛自由行终极指南**
+
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

@@ -1,0 +1,39 @@
+---
+slug: bali-betel-nut-customs
+title: Can I bring betel nut into Bali/Indonesia?
+description: >-
+  Betel nut is a common snack in Taiwan, and many people have the habit of
+  chewing it. However, betel nut is considered a drug or prohibited item in many
+  countries, so special attention is needed when bringing it abroad...
+pubDate: 2024-04-16T00:00:00.000Z
+category:
+  - 旅行技巧
+tags:
+  - 檳榔
+  - 入境
+  - 巴里島
+  - 峇里島
+  - 印尼
+heroImage: 'https://images.gobaligo.id/vocus/vocus_dd76f1e8177a1813dc222d3266ae811b.jpg'
+originalUrl: 'https://vocus.cc/article/661e7b1ffd89780001f1da05'
+lang: en
+_srcHash: 1183c3b0db024a22133788f74f017f4a
+---
+
+Betel nut is a common snack in Taiwan, and many people have the habit of chewing it. However, betel nut is considered a drug or prohibited item in many countries, so special attention is needed when bringing it abroad.
+
+## Is betel nut prohibited in Indonesia?
+
+According to Indonesian customs regulations, betel nut is not a prohibited item for entry. Betel nut and betel leaves are part of the daily offerings in Bali's Hindu rituals. Therefore, you can bring betel nut from Taiwan to Indonesia.
+
+## Things to note when bringing betel nut into Indonesia:
+
+The quantity of betel nut should be limited to personal use and not excessive. Keep the betel nut in its original packaging and store it properly.
+
+![社團朋友親身經驗](https://images.gobaligo.id/vocus/vocus_cdf45025f04407548fc3024d792824f6.jpg)
+
+Personal experience from community members
+
+Even so, if you encounter trouble with customs because Taiwanese betel nut contains red or white lime, you should **remain calm** and **comply with customs' requests**. This situation might occur because red or white lime, additives in betel nut, could be considered prohibited substances in some countries.
+
+{{block:戶外}}

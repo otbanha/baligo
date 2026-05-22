@@ -1,0 +1,120 @@
+---
+slug: sanur-beach-cafes-guide
+title: 沙努爾沙灘上嘅6大熱門海景咖啡廳推薦
+description: >-
+  隨住旅遊熱潮同社交媒體嘅推波助瀾，位於峇里島沙努爾地區嘅海邊咖啡廳越來越受後生仔歡迎。呢啲舖頭唔單止提供令人驚艷嘅海景，仲搭配時尚設計同美味餐點，非常適合打卡影相或者同朋友悠閒小聚。
+pubDate: '2025-06-15'
+heroImage: 'https://images.gobaligo.id/vocus/vocus_677c2ab645015760092fef19c6c502c2.jpg'
+tags:
+  - sanur
+  - 峇里島沙努爾
+  - 巴里島沙努爾
+  - 沙努爾美食
+  - 沙努爾海灘
+originalUrl: 'https://vocus.cc/article/684e466efd8978000159a13b'
+category:
+  - 美食景點活動
+lang: zh-hk
+_srcHash: afd15994a3d65ccf07a96957f411001e
+---
+以下係目前喺沙努爾當地最受歡迎嘅六間海邊咖啡廳推薦。如果你打算去峇里島，千祈唔好錯過呢啲特色舖頭！
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_adc353863b69538f971502b9bbfe4032.jpg)
+
+## **Bayside Seaview：享受日出嘅完美選擇（🗺️**[**地圖**](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)**）**
+
+---
+
+位於Bangsal沙灘嘅Bayside Seaview，係好多當地人同遊客嘅心頭好。地點方便、緊鄰沙努爾海灘步行街，讓你輕鬆抵達沙灘邊嘅座位，享受清晨日出同海浪聲。
+
+**營業時間：** 每日06:00 - 22:00
+
+**餐點價格：** 約IDR 15,000起
+
+**推薦特色：** 提供牛角包、漢堡、鮮果汁同多款咖啡，環境舒適、價格親民。
+
+## **Pesso Beach Front：融合西式與印尼風味（🗺️**[**地圖**](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)**）**
+
+---
+
+## **Pesso Beach Front：融合西式與印尼風味（🗺️**[**地圖**](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)**）**
+
+同樣位於Bangsal沙灘附近嘅Pesso Beach Front，提供各式經典西式同印尼地道料理。由法式多士、炸魚薯條，到炒飯、印尼黃湯雞，你都可以喺呢度搵到。
+
+**營業時間：** 每日06:00 - 22:00
+
+**價格範圍：** IDR 15,000 - 127,000
+
+**推薦理由：** 菜單多樣，適合唔同口味嘅旅客。
+
+---
+
+## **Goldmine Coffee：簡約風嘅美味角落（🗺️**[**地圖**](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)**）**
+
+Goldmine Coffee嘅美學同質感喺翻新後更上一層樓，係鍾意極簡風格嘅旅客必訪之地。招牌「粟米冰咖啡」將香甜粟米同濃縮咖啡結合，創造出獨特風味。
+
+**營業時間：** 每日06:00 - 20:00
+
+**價格範圍：** 約IDR 22,000 - 33,000
+
+**推薦：** 牛角包、手工餅乾配特色咖啡。
+
+---
+
+## **Naked Baked：甜點與設計完美結合（🗺️**[**地圖**](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)**）**
+
+呢間位於沙努爾沙灘旁邊嘅小型咖啡店，因為佢個Instagram爆紅嘅店名同埋設計感十足嘅空間，吸引咗好多後生仔追捧。主打甜品，推介試吓佢哋嘅手工布朗尼、芝士蛋糕同埋每日新鮮出爐嘅牛角包。
+
+**營業時間：** 每日06:15 - 20:00
+
+**推薦原因：** 美味甜品同埋打卡靚位，啱晒影相同埋放鬆。
+
+---
+
+## **Stuja di Pantai：藝人打造嘅夢幻沙灘咖啡館（🗺️**[**地圖**](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)**）**
+
+由印尼名人Ayudia同埋Ditto Percussion經營嘅Stuja di Pantai，成為咗好多粉絲嘅朝聖地。提供多樣化嘅餐點，由沙律、意大利麵、甜品到精選咖啡，應有盡有。
+
+**營業時間：** 每日06:00 - 23:00
+
+**價格區間：** IDR 15,000 - 200,000
+
+**亮點：** 視野一流，可以睇到日出日落，裝修時尚又有品味。
+
+---
+
+## **Genius Cafe Sanur：結合健康生活同海景嘅創意空間（🗺️**[**地圖**](https://www.google.com/maps/d/u/0/edit?mid=12W9y9WtufmH2a430BAds6QtTa5TyHoE&usp=sharing)**）**
+
+位於Mertasari沙灘旁邊嘅 Genius Cafe Sanur，唔單止係一間咖啡館，更加係一個提倡健康生活同埋創意思維嘅社群空間。呢度吸引咗大量嘅數碼遊牧族、創業者同埋健康飲食愛好者。
+
+Genius Cafe主打有機、永續同健康導向嘅餐點，由超級食物碗（superfood bowls）、植物性料理、冷壓果汁到特調拿鐵，樣樣精彩。店內風格融合熱帶度假感同波希米亞風，提供開放式木質座位區，正對住大海，係沉浸式放鬆嘅完美場地。
+
+**營業時間：** 每日07:00 - 22:00
+
+**價格範圍：** 約IDR 25,000 - 150,000
+
+**推薦菜單：** 養生Smoothie Bowl、有機素食漢堡、冷壓果汁、椰子拿鐵
+
+**特色亮點：** 可以帶寵物、有提供共享辦公空間（Co-Working）、每週舉辦主題講座同社群聚會。
+
+---
+
+## **常見問題 FAQ**
+
+### **呢啲咖啡廳需唔需要預約？**
+
+大多數咖啡廳唔使預約，尤其係平日。如果係假日或者日出時段，建議早啲到場或者提前聯絡店家確認。
+
+### **呢啲咖啡廳有冇提供免費Wi-Fi？**
+
+係呀，多數咖啡廳都有提供免費Wi-Fi，適合遠端工作或者上傳靚相。
+
+### **適唔適合帶埋小朋友一齊去？**
+
+非常適合。空間多數開放寬敞，亦有提供適合小朋友嘅餐點選擇。
+
+## 更多沙努爾吃喝玩樂介紹
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_00f6924b515570372d32f1481eaf40ff.png)
+
+沙努爾（Sanur）係峇里島上一個充滿寧靜氣息嘅海濱小鎮，以平靜嘅沙灘、悠閒嘅氛圍同壯麗嘅日出景色聞名。呢度有適合家庭嘅度假村、傳統市場以及豐富嘅當地美食，係享受慢生活同探索文化嘅理想之地。無論係漫步海岸線定係感受當地風情，沙努爾都能帶俾你無比放鬆嘅假期體驗！想了解更多沙努爾攻略？[請點擊呢度](/blog/sanur-guide/)

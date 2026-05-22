@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>峇里島 SIM 卡店家地圖 by gobaligo</name>
+    <description>峇里島主要電信營業廳與SIM卡販售據點，含Telkomsel GraPARI、XL/AXIS、Indosat IM3、Tri等四大電信商 | 最後更新：2026-05</description>
+
+    <Folder>
+      <name>Telkomsel / GraPARI</name>
+      <Placemark>
+        <name>GraPARI Telkomsel Teuku Umar</name>
+        <description><![CDATA[📡 Telkomsel 官方門市<br>🗺️ Jl. Teuku Umar No.1, Denpasar<br>🕐 週一至六 08:00–17:00<br>提供辦卡、補卡、問題排解<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6665,115.2104" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2104,-8.6665,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GraPARI Telkomsel Sunset Road</name>
+        <description><![CDATA[📡 Telkomsel 官方門市<br>🗺️ Jl. Sunset Road, Kuta<br>🕐 週一至六 08:00–17:00<br>觀光區熱門購卡點<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7072,115.1839" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1839,-8.7072,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GraPARI Telkomsel Ubud</name>
+        <description><![CDATA[📡 Telkomsel 官方門市<br>🗺️ Jl. Raya Ubud, Ubud<br>🕐 週一至六 08:00–17:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.5082,115.2622" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2622,-8.5082,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GraPARI Telkomsel Sanur</name>
+        <description><![CDATA[📡 Telkomsel 官方門市<br>🗺️ Jl. Danau Tamblingan, Sanur<br>🕐 週一至六 08:00–17:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6971,115.2568" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2568,-8.6971,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GraPARI Telkomsel Nusa Dua</name>
+        <description><![CDATA[📡 Telkomsel 官方門市<br>🗺️ Nusa Dua, Badung<br>🕐 週一至六 08:00–17:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.8004,115.2320" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2320,-8.8004,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>GraPARI Telkomsel Singaraja</name>
+        <description><![CDATA[📡 Telkomsel 官方門市（北峇里）<br>🗺️ Jl. Ahmad Yani, Singaraja<br>🕐 週一至六 08:00–17:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.1108,115.0891" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.0891,-8.1108,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Telkomsel — 峇里島國際機場（入境大廳）</name>
+        <description><![CDATA[📡 Telkomsel 機場專櫃<br>🗺️ Ngurah Rai 國際機場，入境大廳<br>🕐 24小時<br>✅ 落地即可購買，無需另找門市<br>推薦方案：Simpati / by.U 觀光卡<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7501,115.1671" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1671,-8.7501,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>XL / AXIS</name>
+      <Placemark>
+        <name>XL Center Denpasar</name>
+        <description><![CDATA[📡 XL Axiata 官方門市<br>🗺️ Jl. Diponegoro, Denpasar<br>🕐 週一至六 08:30–17:30<br>XL Tourist SIM 卡可在此購買<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6700,115.2150" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2150,-8.6700,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>XL Center Kuta</name>
+        <description><![CDATA[📡 XL Axiata 官方門市<br>🗺️ Jl. Legian, Kuta<br>🕐 週一至六 08:30–17:30<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7180,115.1685" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1685,-8.7180,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>XL Center Ubud</name>
+        <description><![CDATA[📡 XL Axiata 官方門市<br>🗺️ Jl. Raya Ubud<br>🕐 週一至六 08:30–17:30<br><a href="https://www.google.com/maps/search/?api=1&query=-8.5095,115.2630" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2630,-8.5095,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>XL Center Seminyak</name>
+        <description><![CDATA[📡 XL Axiata 官方門市<br>🗺️ Jl. Raya Seminyak<br>🕐 週一至六 08:30–17:30<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6897,115.1612" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1612,-8.6897,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>AXIS / XL — 峇里島國際機場</name>
+        <description><![CDATA[📡 XL / AXIS 機場專櫃<br>🗺️ Ngurah Rai 國際機場，入境大廳<br>🕐 24小時<br>✅ 落地即可購買<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7505,115.1675" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1675,-8.7505,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Indosat Ooredoo (IM3)</name>
+      <Placemark>
+        <name>Indosat Ooredoo Denpasar</name>
+        <description><![CDATA[📡 Indosat Ooredoo 官方門市<br>🗺️ Jl. Teuku Umar, Denpasar<br>🕐 週一至六 08:00–17:00<br>IM3 / Indosat 觀光 SIM 卡<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6630,115.2108" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2108,-8.6630,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Indosat Ooredoo Kuta</name>
+        <description><![CDATA[📡 Indosat Ooredoo 官方門市<br>🗺️ Jl. Kartika Plaza, Kuta<br>🕐 週一至六 08:00–17:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7210,115.1670" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1670,-8.7210,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Indosat Ooredoo Ubud</name>
+        <description><![CDATA[📡 Indosat Ooredoo 官方門市<br>🗺️ Jl. Raya Ubud<br>🕐 週一至六 08:00–17:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.5110,115.2640" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2640,-8.5110,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Indosat Ooredoo — 峇里島國際機場</name>
+        <description><![CDATA[📡 Indosat Ooredoo 機場專櫃<br>🗺️ Ngurah Rai 國際機場，入境大廳<br>🕐 24小時<br>✅ 落地即可購買<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7498,115.1668" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1668,-8.7498,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+    <Folder>
+      <name>Tri (Three / 3)</name>
+      <Placemark>
+        <name>Tri (3) Denpasar</name>
+        <description><![CDATA[📡 Tri / Hutchison 官方門市<br>🗺️ Jl. Diponegoro, Denpasar<br>🕐 週一至六 08:00–17:00<br>三日/七日觀光數據卡方案<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6680,115.2130" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.2130,-8.6680,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tri (3) Kuta</name>
+        <description><![CDATA[📡 Tri / Hutchison 官方門市<br>🗺️ Jl. Sunset Road, Kuta<br>🕐 週一至六 09:00–18:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.7160,115.1820" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1820,-8.7160,0</coordinates></Point>
+      </Placemark>
+      <Placemark>
+        <name>Tri (3) Seminyak</name>
+        <description><![CDATA[📡 Tri / Hutchison 官方門市<br>🗺️ Jl. Raya Seminyak<br>🕐 週一至六 09:00–18:00<br><a href="https://www.google.com/maps/search/?api=1&query=-8.6910,115.1600" target="_blank" rel="noopener">Google Maps</a>]]></description>
+        <Point><coordinates>115.1600,-8.6910,0</coordinates></Point>
+      </Placemark>
+    </Folder>
+
+  </Document>
+</kml>

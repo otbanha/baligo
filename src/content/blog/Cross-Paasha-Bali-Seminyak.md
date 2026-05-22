@@ -1,7 +1,7 @@
 ---
-title: 【水明漾住宿推薦】Cross Paasha Bali Seminyak：水明漾市中心精品設計旅店、24小時彈性入住全解析
-slug: ''
-description: 尋找水明漾最時髦的落腳處？深度開箱 Cross Paasha Bali Seminyak。解析這座精品設計飯店的極簡套房、絕美高空露天泳池，以及讓旅人瘋狂的「隨時入住、住滿 24 小時」特殊服務。地理位置優越，出門即是購物街與網美咖啡廳，是您 2026 峇里島都會假期的首選。
+title: "Cross Paasha Bali Seminyak｜水明漾藝術精品 Villa 完整評測 2026 - Go Bali Go"
+slug: 'cross-paasha-bali-seminyak'
+description: "水明漾最具藝術氣息的精品 Villa！Cross Paasha Bali Seminyak 以獨特文化融合設計與無邊際泳池聞名，是攝影打卡與蜜月旅行的熱門選擇。詳解入住體驗、設施亮點與性價比分析，帶你選對水明漾的理想住所。"
 pubDate: 2026-04-15
 pubHour: 16
 category:
@@ -22,6 +22,11 @@ originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+agoda_hotel_id: 295644
+agoda_hotel_name: "巴厘島寰庭帕夏水明漾度假村"
+agoda_star_rating: 5
+latitude: -8.684345245361328
+longitude: 115.15927124023438
 ---
 
 如果你想住在 Seminyak 的正中心、步行就能到處逛、回飯店還有屋頂泳池可以看夕陽，那 Cross Paasha Bali Seminyak 這間四星設計風精品飯店很值得考慮。這間飯店以前叫 U Paasha，後來改名 Cross Paasha，位置一樣在 Jl. Laksmana 77 號，Kayu Aya 街的核心地帶，99間房全是套房等級，格局寬敞、設計感強，是 Seminyak 這一帶 CP 值頗高的選擇之一。

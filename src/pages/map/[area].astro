@@ -5,6 +5,10 @@ import TopStrip from '../../components/TopStrip.astro';
 import MapView from '../../components/MapView.astro';
 import RecommendForm from '../../components/RecommendForm.astro';
 import { maps, getMapBySlug } from '../../data/maps';
+import RelatedGuideCard from '../../components/RelatedGuideCard.astro';
+import { getMapBlogLink } from '../../data/mapBlogMapping';
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
 
 export function getStaticPaths() {
   return maps.map(area => ({
@@ -17,20 +21,118 @@ const area = getMapBySlug(areaSlug!);
 
 if (!area) return Astro.redirect('/map/');
 
-const title = `${area.name} 攻略地圖｜峇里島景點推薦`;
-const description = area.description;
+const title = area.seoTitle;
+const description = area.seoDescription;
+
+// ── KML 解析（build time）──
+interface KmlPlace { name: string; lat: number; lng: number; }
+function parseKmlPlaces(kmlRelPath: string): KmlPlace[] {
+  try {
+    const kmlPath = join(process.cwd(), 'public', kmlRelPath.replace(/^\//, ''));
+    const text = readFileSync(kmlPath, 'utf-8');
+    const places: KmlPlace[] = [];
+    const pmRe = /<Placemark\b[^>]*>([\s\S]*?)<\/Placemark>/g;
+    let pm: RegExpExecArray | null;
+    while ((pm = pmRe.exec(text)) !== null && places.length < 30) {
+      const block = pm[1];
+      const nm = block.match(/<name>([\s\S]*?)<\/name>/);
+      const co = block.match(/<coordinates>([\s\S]*?)<\/coordinates>/);
+      if (!nm) continue;
+      const name = nm[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/, '$1').trim();
+      if (!name) continue;
+      let lat = 0, lng = 0;
+      if (co) {
+        const p = co[1].trim().split(',');
+        lng = parseFloat(p[0]) || 0;
+        lat = parseFloat(p[1]) || 0;
+      }
+      places.push({ name, lat, lng });
+    }
+    return places;
+  } catch { return []; }
+}
+const kmlPlaces = parseKmlPlaces(area.kml);
+
+// ── Schema.org JSON-LD ──
+const siteUrl = 'https://gobaligo.id';
+const pageUrl = `${siteUrl}/map/${area.slug}/`;
+
+const schemaTypeMap: Record<string, string> = {
+  'hospital': 'MedicalClinic',
+  'tourist-police': 'GovernmentOffice',
+  'seminyak-eat-street': 'Restaurant',
+  'vegetarian': 'Restaurant',
+  'canggu-hotel': 'LodgingBusiness',
+  'seminyak-hotel': 'LodgingBusiness',
+  'ubud-villa': 'LodgingBusiness',
+  'money-changer': 'FinancialService',
+  'atm': 'FinancialService',
+};
+const itemType = schemaTypeMap[area.slug] ?? (area.isThematic ? 'LocalBusiness' : 'TouristAttraction');
+
+const breadcrumbSchema = {
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "首頁", "item": `${siteUrl}/` },
+    { "@type": "ListItem", "position": 2, "name": "攻略地圖", "item": `${siteUrl}/map/` },
+    { "@type": "ListItem", "position": 3, "name": area.name, "item": pageUrl },
+  ]
+};
+
+const mainSchema = area.isThematic ? {
+  "@type": "ItemList",
+  "name": area.name,
+  "description": area.seoDescription,
+  "url": pageUrl,
+  "numberOfItems": kmlPlaces.length,
+  "itemListElement": kmlPlaces.slice(0, 30).map((p, i) => ({
+    "@type": "ListItem",
+    "position": i + 1,
+    "item": {
+      "@type": itemType,
+      "name": p.name,
+      "address": { "@type": "PostalAddress", "addressRegion": "Bali", "addressCountry": "ID" },
+      ...(p.lat && p.lng ? { "geo": { "@type": "GeoCoordinates", "latitude": p.lat, "longitude": p.lng } } : {}),
+    }
+  }))
+} : {
+  "@type": "TouristAttraction",
+  "name": `${area.name}攻略地圖`,
+  "description": area.seoDescription,
+  "url": pageUrl,
+  "geo": { "@type": "GeoCoordinates", "latitude": area.center[0], "longitude": area.center[1] },
+  "containedInPlace": { "@type": "Place", "name": "峇里島", "addressCountry": "ID" },
+  "inLanguage": "zh-TW",
+};
+
+// E.1 relatedLink：地圖頁指向對應的 blog 攻略
+const mapBlogEntry = getMapBlogLink(area.slug);
+if (mapBlogEntry?.blogUrl) {
+  (mainSchema as any).relatedLink = mapBlogEntry.blogUrl;
+}
+
+const schema = { "@context": "https://schema.org", "@graph": [mainSchema, breadcrumbSchema] };
+
+// ── 相關地圖 ──
+const relatedMapData = (area.relatedMaps ?? [])
+  .map(slug => maps.find(m => m.slug === slug))
+  .filter((m): m is NonNullable<typeof m> => m !== undefined);
 ---
 
 <html lang="zh-TW">
 <head>
-  <BaseHead title={title} description={description} />
+  <BaseHead title={title} description={description} image={area.ogImage ?? "https://images.gobaligo.id/images/2026-05/1779207579768-main-og.jpg"} />
+  <meta name="robots" content="index, follow" />
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
-    body {
-      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
-      overflow: hidden;
+    /* .map-wrapper 取代原本 body 的 overflow:hidden / height:100dvh */
+    .map-wrapper {
       height: 100dvh;
+      overflow: hidden;
+      position: relative;
+      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
     }
 
     .map-topbar {
@@ -69,6 +171,9 @@ const description = area.description;
       white-space: nowrap;
       overflow: hidden;
       text-overflow: ellipsis;
+      display: flex;
+      align-items: center;
+      gap: 6px;
     }
 
     .topbar-desc {
@@ -111,8 +216,32 @@ const description = area.description;
     }
     [data-dark] #itin-topbar-btn { background: #1a5c3a; }
 
+    .guide-topbar-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      background: #fff8ee;
+      color: #b36a00;
+      border: 1px solid #f0c050;
+      border-radius: 12px;
+      padding: 2px 8px;
+      font-size: 11px;
+      font-weight: 700;
+      text-decoration: none;
+      flex-shrink: 0;
+      white-space: nowrap;
+      -webkit-tap-highlight-color: transparent;
+      vertical-align: middle;
+      line-height: 1.4;
+    }
+    [data-dark] .guide-topbar-btn {
+      background: #2a1f00;
+      color: #f0c050;
+      border-color: #5a4000;
+    }
+
     /* Dark mode topbar */
-    [data-dark] body {
+    [data-dark] .map-wrapper {
       background: #121212;
     }
 
@@ -156,6 +285,7 @@ const description = area.description;
       cursor: pointer;
       z-index: 900;
       -webkit-tap-highlight-color: transparent;
+      touch-action: manipulation;
       transition: background 0.2s, color 0.2s;
       font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
       font-size: 13px;
@@ -163,7 +293,8 @@ const description = area.description;
       color: #333;
       white-space: nowrap;
     }
-    #gps-btn .gps-icon { display: block; flex-shrink: 0; }
+    #gps-btn .gps-icon { display: block; flex-shrink: 0; pointer-events: none; }
+    #gps-btn .gps-label { pointer-events: none; }
     #gps-btn[data-state="loading"] .gps-icon { animation: spin-gps 1s linear infinite; }
     #gps-btn[data-state="success"] { background: #e8f5ee; color: #1a5c3a; }
     #gps-btn[data-state="error"]   { background: #fff0f0; color: #c33; }
@@ -178,39 +309,186 @@ const description = area.description;
       #gps-btn .gps-label { display: none; }
     }
 
+    /* ── SEO 區塊（地圖下方，爬蟲可索引） ── */
+    .seo-section {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 28px 16px 56px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
+    }
+    .seo-breadcrumb {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 4px;
+      font-size: 13px;
+      color: #888;
+      margin-bottom: 16px;
+    }
+    .seo-breadcrumb a { color: #2d8653; text-decoration: none; }
+    .seo-breadcrumb a:hover { text-decoration: underline; }
+    .seo-breadcrumb .sep { color: #bbb; }
+    .seo-h1 {
+      font-size: 22px;
+      font-weight: 700;
+      color: #1a1a1a;
+      margin-bottom: 8px;
+      line-height: 1.3;
+    }
+    .seo-desc {
+      font-size: 14px;
+      color: #555;
+      line-height: 1.7;
+      margin-bottom: 20px;
+    }
+    .seo-places {
+      border: 1px solid #e0ece5;
+      border-radius: 10px;
+      padding: 0;
+      margin-bottom: 24px;
+      overflow: hidden;
+    }
+    .seo-places summary {
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: 600;
+      color: #2d8653;
+      padding: 12px 16px;
+      user-select: none;
+      background: #f4f9f6;
+      list-style: none;
+    }
+    .seo-places summary::-webkit-details-marker { display: none; }
+    .seo-places summary::before { content: '▶ '; font-size: 10px; }
+    .seo-places[open] summary::before { content: '▼ '; }
+    .seo-places-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 2px 12px;
+      padding: 12px 16px 16px;
+    }
+    .seo-places-list li {
+      font-size: 13px;
+      color: #444;
+      padding: 4px 0;
+      list-style: none;
+      border-bottom: 1px solid #f0f0f0;
+    }
+    .related-maps { margin-top: 8px; }
+    .related-maps h2 {
+      font-size: 15px;
+      font-weight: 700;
+      color: #333;
+      margin-bottom: 10px;
+    }
+    .related-maps-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .related-map-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: #f4f9f6;
+      border: 1px solid #c8e0d0;
+      border-radius: 20px;
+      padding: 6px 14px;
+      font-size: 13px;
+      font-weight: 600;
+      color: #1a5c3a;
+      text-decoration: none;
+      transition: background 0.15s;
+    }
+    .related-map-link:hover { background: #e0f0e8; }
   </style>
 </head>
 
 <body>
-  <Header lang="zh-tw" slug="map" hideLangSwitcher={true} />
-  <TopStrip lang="zh-tw" />
+  <div class="map-wrapper">
+    <Header lang="zh-tw" slug="map" hideLangSwitcher={true} />
+    <TopStrip lang="zh-tw" />
 
-  <div class="map-topbar">
-    <a href="/map/" class="back-btn">‹ 返回</a>
-    <div class="topbar-info">
-      <div class="topbar-title">{area.name} {area.isThematic ? '' : '攻略地圖'}</div>
-      <div class="topbar-desc">{area.description}</div>
+    <div class="map-topbar">
+      <a href="/map/" class="back-btn">‹ 返回</a>
+      <div class="topbar-info">
+        <div class="topbar-title">
+          <span>{area.name} {area.isThematic ? '' : '攻略地圖'}</span>
+          {mapBlogEntry?.blogUrl && (
+            <a href={mapBlogEntry.blogUrl} class="guide-topbar-btn" aria-label="閱讀旅遊攻略">
+              📖 攻略
+            </a>
+          )}
+        </div>
+        <div class="topbar-desc">{area.description}</div>
+      </div>
+      <a href="/map/itinerary/" id="itin-topbar-btn" aria-label="行程規劃">
+        📋 <span id="itin-topbar-count">0</span>
+      </a>
+      <button id="dark-btn" aria-label="深色模式">🌙</button>
+      <span class="topbar-emoji">{area.emoji}</span>
     </div>
-    <a href="/map/itinerary/" id="itin-topbar-btn" aria-label="行程規劃">
-      📋 <span id="itin-topbar-count">0</span>
-    </a>
-    <button id="dark-btn" aria-label="深色模式">🌙</button>
-    <span class="topbar-emoji">{area.emoji}</span>
+
+    <MapView area={area} />
+    <button id="gps-btn" aria-label="定位到我的位置" onclick="window._gpsClick(this)" data-state="idle">
+      <svg class="gps-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="pointer-events:none">
+        <circle cx="12" cy="12" r="10"/>
+        <circle cx="12" cy="12" r="3"/>
+        <line x1="12" y1="2" x2="12" y2="4"/>
+        <line x1="12" y1="20" x2="12" y2="22"/>
+        <line x1="2" y1="12" x2="4" y2="12"/>
+        <line x1="20" y1="12" x2="22" y2="12"/>
+      </svg>
+      <span class="gps-label">我的位置</span>
+    </button>
+    <RecommendForm areaName={area.name} areaSlug={area.slug} />
   </div>
 
-  <MapView area={area} />
-  <button id="gps-btn" aria-label="定位到我的位置" onclick="window._gpsClick(this)" data-state="idle">
-    <svg class="gps-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true">
-      <circle cx="12" cy="12" r="10"/>
-      <circle cx="12" cy="12" r="3"/>
-      <line x1="12" y1="2" x2="12" y2="4"/>
-      <line x1="12" y1="20" x2="12" y2="22"/>
-      <line x1="2" y1="12" x2="4" y2="12"/>
-      <line x1="20" y1="12" x2="22" y2="12"/>
-    </svg>
-    <span class="gps-label">我的位置</span>
-  </button>
-  <RecommendForm areaName={area.name} areaSlug={area.slug} />
+  <!-- SEO content — SSR 渲染，爬蟲可索引，使用者向下捲動可見 -->
+  <section class="seo-section" aria-label="地圖資訊">
+    <nav class="seo-breadcrumb" aria-label="麵包屑導覽">
+      <a href="/">首頁</a>
+      <span class="sep">›</span>
+      <a href="/map/">攻略地圖</a>
+      <span class="sep">›</span>
+      <span>{area.name}</span>
+    </nav>
+
+    <h1 class="seo-h1">{area.isThematic ? area.name : `${area.name}攻略地圖`}</h1>
+    <p class="seo-desc">{area.seoDescription}</p>
+
+    <!-- D.1-1: hero 位置 — H1 / hero 區下方 -->
+    <RelatedGuideCard mapSlug={area.slug} position="hero" />
+
+    {kmlPlaces.length > 0 && (
+      <details class="seo-places">
+        <summary>主要地點（{kmlPlaces.length} 筆）</summary>
+        <ul class="seo-places-list">
+          {kmlPlaces.map(p => <li>{p.name}</li>)}
+        </ul>
+      </details>
+    )}
+
+    <!-- D.1-2: inline 位置 — 地點清單下方 -->
+    <RelatedGuideCard mapSlug={area.slug} position="inline" />
+
+    {relatedMapData.length > 0 && (
+      <div class="related-maps">
+        <h2>相關地圖</h2>
+        <div class="related-maps-grid">
+          {relatedMapData.map(m => (
+            <a href={`/map/${m.slug}/`} class="related-map-link">
+              {m.emoji} {m.name}
+            </a>
+          ))}
+        </div>
+        <!-- D.1-3: footer 位置 — 相關閱讀區塊 -->
+        <ul class="related-guide-list" style="margin-top:10px;padding-left:1.2rem;">
+          <RelatedGuideCard mapSlug={area.slug} position="footer" />
+        </ul>
+      </div>
+    )}
+  </section>
 
   <script>
     (function() {
@@ -313,15 +591,31 @@ const description = area.description;
           done = true;
           clearTimeout(tid);
           var lat = pos.coords.latitude, lng = pos.coords.longitude;
-          var api = window._mapApi;
-          if (api) { api.flyTo(lat, lng, 15); api.setUserLocation(lat, lng); api.enableNearby(); }
+
           btn.dataset.state = 'success';
           if (label) label.textContent = '已定位';
           setTimeout(_resetGpsBtn, 2000);
+
+          // _mapApi 可能還在載入中（MapLibre 從 CDN 拉取）
+          // 最多重試 15 次 × 600ms = 9 秒
+          (function applyPos(retries) {
+            var api = window._mapApi;
+            if (api) {
+              api.flyTo(lat, lng, 15);
+              api.setUserLocation(lat, lng);
+              api.enableNearby();
+            } else if (retries > 0) {
+              setTimeout(function() { applyPos(retries - 1); }, 600);
+            }
+          })(15);
+
           if (_gpsWatchId === null) {
             _gpsWatchId = navigator.geolocation.watchPosition(
               function(p) { window._mapApi && window._mapApi.setUserLocation(p.coords.latitude, p.coords.longitude); },
-              null, { enableHighAccuracy: true }
+              function() {
+                if (_gpsWatchId !== null) { navigator.geolocation.clearWatch(_gpsWatchId); _gpsWatchId = null; }
+              },
+              { enableHighAccuracy: true }
             );
           }
         },
@@ -332,9 +626,13 @@ const description = area.description;
           btn.dataset.state = 'error';
           if (err.code === 1) {
             if (label) label.textContent = '無權限';
-            _showGpsToast('請在瀏覽器設定中開啟定位權限');
+            _showGpsToast('請在瀏覽器設定中開啟定位權限，或重新整理後再試');
+          } else if (err.code === 3) {
+            if (label) label.textContent = '逾時';
+            _showGpsToast('定位逾時，請確認 GPS 已開啟後再試');
           } else {
             if (label) label.textContent = '定位失敗';
+            _showGpsToast('無法取得位置，請確認 GPS 已開啟');
           }
           setTimeout(_resetGpsBtn, 2500);
         },

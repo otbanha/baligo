@@ -62,17 +62,17 @@ const translatedSchema = z.object({
 });
 
 const zhcn = defineCollection({
-  loader: glob({ base: './src/content/zh-cn', pattern: '**/*.md' }),
+  loader: glob({ base: './src/content/zh-cn', pattern: '**/*.{md,mdx}' }),
   schema: translatedSchema,
 });
 
 const zhhk = defineCollection({
-  loader: glob({ base: './src/content/zh-hk', pattern: '**/*.md' }),
+  loader: glob({ base: './src/content/zh-hk', pattern: '**/*.{md,mdx}' }),
   schema: translatedSchema,
 });
 
 const en = defineCollection({
-  loader: glob({ base: './src/content/en', pattern: '**/*.md' }),
+  loader: glob({ base: './src/content/en', pattern: '**/*.{md,mdx}' }),
   schema: translatedSchema,
 });
 

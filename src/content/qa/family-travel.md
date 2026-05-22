@@ -5,11 +5,11 @@ title_zh_cn: "带小孩适合去峇里岛吗？"
 title_zh_hk: "帶細路適合去峇里島咩？"
 category: family
 relatedLinks:
-- slug: 2026-03-30-113245/
+- slug: blog/family/
   label: 帶小孩親子長輩：四大區域推薦
-- slug: blog/2025-12-06-69131b8dfd89780001c8e3c4/
+- slug: blog/bali-safari-night-experience/
   label: 峇里島野生動物園 Bali Safari 全攻略
-- slug: blog/2024-05-14-66405077fd89780001f23b72/
+- slug: blog/bali-family-resorts-kids-club/
   label: 18家 kids club 親子度假村推薦
 featured: true
 order: 4

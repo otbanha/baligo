@@ -1,0 +1,46 @@
+name: 更新超市地圖（每半年）
+
+on:
+  schedule:
+    # 每年 1 月 1 日、7 月 1 日 UTC 16:00（台北時間隔日 00:00 WITA）
+    - cron: '0 16 1 1 *'
+    - cron: '0 16 1 7 *'
+  workflow_dispatch:       # 允許手動觸發
+
+permissions:
+  contents: write          # 允許 commit & push KML
+
+jobs:
+  update-supermarket-kml:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: 抓取 Overpass 超市資料並產生 KML
+        run: node scripts/fetch-supermarkets.mjs
+
+      - name: 確認 KML 有變動
+        id: diff
+        run: |
+          git diff --quiet public/maps/supermarket.kml && echo "changed=false" >> $GITHUB_OUTPUT || echo "changed=true" >> $GITHUB_OUTPUT
+
+      - name: Commit & Push 更新
+        if: steps.diff.outputs.changed == 'true'
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add public/maps/supermarket.kml scripts/supermarket-data.json
+          git commit -m "chore: update Bali supermarket KML ($(date -u +%Y-%m-%d))"
+          git push
+
+      - name: 無變動時略過
+        if: steps.diff.outputs.changed == 'false'
+        run: echo "Supermarket KML 與現有版本相同，略過 commit。"

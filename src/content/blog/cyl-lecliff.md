@@ -1,6 +1,7 @@
 ---
-title: 【烏魯瓦圖住宿心得】聽著海浪入睡！Le Cliff 懸崖飯店實測：行李搬運攻略、衝浪課預約與「猴子霸凌」荒謬現場
-description: 深度紀錄峇里島烏魯瓦圖懸崖之旅。開箱 Le Cliff 震撼海景房，分享行李員搬運階梯的真實體驗與小費建議。解析 Padang Padang 浪點程度、1 對 1 衝浪課費用，以及針對長輩與小孩的入住警告。本篇帶您直擊最原始的印度洋力量，與那些地圖上找不到的自然劇場。
+slug: 'le-cliff-bali-uluwatu-review'
+title: "Le Cliff Bali 開箱評測｜烏魯瓦圖懸崖 Villa 私人泳池體驗 2026 - Go Bali Go"
+description: "烏魯瓦圖懸崖海景頂選！Le Cliff Bali 擁有一望無際的印度洋海景與高私密性私人泳池，是峇里島蜜月與情侶旅行的夢幻住所。真實開箱房型體驗、餐廳與 SPA，帶你了解 Le Cliff Bali 的真實樣貌。"
 pubDate: 2026-04-16
 pubHour: 21
 category:
@@ -111,7 +112,7 @@ Check-in後我給了兩萬印尼盾的小費，真心覺得這是整趟旅程最
 
 住宿詳細介紹：
 
-> [【烏魯瓦圖住宿】Le Cliff Bali 全攻略：烏魯瓦圖懸崖海景第一排、聽著海浪入睡的極致浪漫](https://gobaligo.id/blog/le-cliff-bali/)
+> [【烏魯瓦圖住宿】Le Cliff Bali 全攻略：烏魯瓦圖懸崖海景第一排、聽著海浪入睡的極致浪漫](/blog/le-cliff-bali/)
 
 {{block:遊記}}
 

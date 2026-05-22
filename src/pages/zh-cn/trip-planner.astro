@@ -5,15 +5,108 @@ import Header from '../../components/Header.astro';
 import TopStrip from '../../components/TopStrip.astro';
 import Footer from '../../components/Footer.astro';
 import TripPlannerContent from '../../components/TripPlannerContent.astro';
+
+const hreflangs = [
+  { hreflang: 'zh-TW', href: 'https://gobaligo.id/trip-planner/' },
+  { hreflang: 'zh-CN', href: 'https://gobaligo.id/zh-cn/trip-planner/' },
+  { hreflang: 'zh-HK', href: 'https://gobaligo.id/zh-hk/trip-planner/' },
+  { hreflang: 'en',    href: 'https://gobaligo.id/en/trip-planner/' },
+  { hreflang: 'x-default', href: 'https://gobaligo.id/trip-planner/' },
+];
 ---
 
 <!doctype html>
 <html lang="zh-CN">
 <head>
   <BaseHead
-    title="巴厘岛行程规划工具｜个性化攻略景点推荐 2026"
-    description="输入你的旅行风格，立即获得个性化巴厘岛攻略推荐。分区景点、美食、活动按区域整理清楚，适合第一次去巴厘岛或想补齐空缺天的旅行者。"
+    title="巴厘岛行程规划工具｜免费个性化攻略景点推荐 2026"
+    description="免费巴厘岛行程规划工具，输入旅行风格立即获得个性化景点攻略。分区景点、美食、活动整理清楚，适合第一次去巴厘岛的旅行者。"
+    hreflangs={hreflangs}
   />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebApplication",
+        "name": "巴厘岛行程规划工具",
+        "description": "免费在线巴厘岛行程规划工具。依照旅行风格、天数与偏好，即时产生个性化景点攻略、分区住宿建议与推荐文章。",
+        "url": "https://gobaligo.id/zh-cn/trip-planner/",
+        "applicationCategory": "TravelApplication",
+        "operatingSystem": "Web",
+        "inLanguage": "zh-CN",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "CNY" },
+        "featureList": [
+          "旅行风格选择（亲子、蜜月、朋友、独旅、长辈）",
+          "行程草稿分析与空缺补充",
+          "分区景点攻略推荐",
+          "个性化住宿区域建议",
+          "存成PDF分享旅伴"
+        ],
+        "provider": {
+          "@type": "Organization",
+          "name": "Go Bali Go",
+          "url": "https://gobaligo.id"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "首页", "item": "https://gobaligo.id/zh-cn/" },
+          { "@type": "ListItem", "position": 2, "name": "巴厘岛行程规划工具", "item": "https://gobaligo.id/zh-cn/trip-planner/" }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "name": "3步骤使用巴厘岛行程规划工具",
+        "description": "使用免费巴厘岛行程规划工具，依照旅行风格获得个性化攻略推荐",
+        "step": [
+          { "@type": "HowToStep", "position": 1, "name": "选择旅行风格", "text": "选择同行对象、天数、想去的区域与景点，以及大概的预算范围，全程点击操作。" },
+          { "@type": "HowToStep", "position": 2, "name": "粘贴行程草稿", "text": "选填：若你已有初步行程草稿，可贴上来让系统帮你找空缺并补充推荐。" },
+          { "@type": "HowToStep", "position": 3, "name": "获取个性化推荐", "text": "系统整理出对应的攻略文章、景点推荐、SPA 与美食清单，可存成 PDF 共享给旅伴。" }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "巴厘岛自由行要几天才够？",
+            "acceptedAnswer": { "@type": "Answer", "text": "巴厘岛幅员比想象中大，从南部机场到乌布单程车程就要 1.5–2 小时，到东部或北部更久。建议至少安排 5 天 4 夜，扣掉首尾搭机日，实际游玩 3 天刚好够跑南部（库塔/水明漾）＋乌布两大区。想加上努沙佩尼达跳岛、火山日出或东部巴厘，至少 7–8 天会比较从容。短于 4 天容易卡在交通上，玩起来会很赶。" }
+          },
+          {
+            "@type": "Question",
+            "name": "第一次去巴厘岛应该安排哪些区域？",
+            "acceptedAnswer": { "@type": "Answer", "text": "新手第一次来，最经典的组合是库塔/水明漾（住南部）＋乌布（住山区）各 2–3 晚。南部离机场近、购物餐厅多、有海滩，适合放松；乌布有梯田、瀑布、SPA、艺术市集，是巴厘岛文化精华区。若预算充足想升级，可把南部那段换成仓古（时髦咖啡店与冲浪）或乌鲁瓦图（悬崖夕阳）。" }
+          },
+          {
+            "@type": "Question",
+            "name": "巴厘岛亲子家庭适合住哪一区？",
+            "acceptedAnswer": { "@type": "Answer", "text": "亲子最推荐努沙杜瓦——五星度假村集中、海滩平缓安全、区内治安好、适合推婴儿车。次选是沙努尔，气氛悠闲、有海龟中心和浅水海滩，餐厅价位也亲民。乌布适合大孩子体验梯田、丛林秋千、动物园。尽量避开库塔市中心，车多、人杂、夜店多，不太适合幼童。" }
+          },
+          {
+            "@type": "Question",
+            "name": "巴厘岛蜜月情侣推荐怎么玩？",
+            "acceptedAnswer": { "@type": "Answer", "text": "蜜月族群最热门的两大区域是乌布（丛林泳池 Villa、双人 SPA、无边际泳池）＋乌鲁瓦图（悬崖海景、Rock Bar 夕阳、私人海滩）。建议乌布 3 晚配乌鲁瓦图 2–3 晚，前半段森呼吸、后半段海景奢华收尾。预算高一点可考虑金巴兰五星海滨度假村，或加码一晚到吉利群岛跳岛浮潜。" }
+          },
+          {
+            "@type": "Question",
+            "name": "行程规划工具怎么使用？",
+            "acceptedAnswer": { "@type": "Answer", "text": "分三步骤：(1) 选择你的旅行风格（同行者、天数、想去的区域与景点）；(2) 若你已有初步行程草稿，可贴上来让系统帮你找空缺；(3) 系统会根据你选择的区域与风格，整理出对应的攻略文章、景点推荐、SPA 与美食清单。整个过程免注册，纯前端执行，不会储存个资。" }
+          },
+          {
+            "@type": "Question",
+            "name": "规划结果可以存档或分享给旅伴吗？",
+            "acceptedAnswer": { "@type": "Answer", "text": "可以。结果页面右下角有「存成 PDF 分享旅伴」按钮，一键下载成 PDF 档，方便传给家人朋友讨论。也可以使用「编辑此行程」回到上一步调整选项，或「重新规划」清空重来。建议规划完后存一份 PDF，出发前再对照网站最新文章确认信息。" }
+          },
+          {
+            "@type": "Question",
+            "name": "巴厘岛淡季旺季差别？什么时候去最好？",
+            "acceptedAnswer": { "@type": "Answer", "text": "巴厘岛分明显的干季（4–10 月）与雨季（11–3 月）。最佳旅游月份是 5、6、9 月——天气稳定、人潮比 7–8 月暑假少、价格也较甜。7–8 月与 12 月底跨年是旺季，酒店涨价且需提早 2–3 个月订房。1–2 月雨季虽然便宜，但午后常有大雷雨，安排户外行程要保留弹性。中国春节假期价格通常翻倍，要避开的话建议提前或延后一周。" }
+          }
+        ]
+      }
+    ]
+  })} />
 </head>
 <body>
   <Header lang="zh-cn" basePath="trip-planner" />

@@ -5,7 +5,7 @@ title_zh_cn: "峇里岛有什么美食推荐？"
 title_zh_hk: "峇里島有咩美食推薦？"
 category: food
 relatedLinks:
-- slug: blog/2026-01-12-693aaf9dfd897800013bfe3f/
+- slug: blog/2026-bali-food-guide/
   label: 10 大必吃經典與街頭小吃：烤乳豬、沙嗲到髒鴨飯全紀錄
 - slug: go/kuta-culiner
   label: 庫塔區美食推薦

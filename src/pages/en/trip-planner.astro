@@ -5,15 +5,108 @@ import Header from '../../components/Header.astro';
 import TopStrip from '../../components/TopStrip.astro';
 import Footer from '../../components/Footer.astro';
 import TripPlannerContent from '../../components/TripPlannerContent.astro';
+
+const hreflangs = [
+  { hreflang: 'zh-TW', href: 'https://gobaligo.id/trip-planner/' },
+  { hreflang: 'zh-CN', href: 'https://gobaligo.id/zh-cn/trip-planner/' },
+  { hreflang: 'zh-HK', href: 'https://gobaligo.id/zh-hk/trip-planner/' },
+  { hreflang: 'en',    href: 'https://gobaligo.id/en/trip-planner/' },
+  { hreflang: 'x-default', href: 'https://gobaligo.id/trip-planner/' },
+];
 ---
 
 <!doctype html>
 <html lang="en">
 <head>
   <BaseHead
-    title="Bali Trip Planner | Personalised Area Guides & Activity Picks 2026"
-    description="Tell us your travel style and get personalised Bali itinerary recommendations instantly. Areas, food, activities and more — organised by region."
+    title="Bali Trip Planner | Free Personalised Itinerary Tool 2026"
+    description="Free Bali trip planner: choose your travel style and get personalised area guides, attraction picks and activity recommendations instantly. No sign-up needed."
+    hreflangs={hreflangs}
   />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebApplication",
+        "name": "Bali Trip Planner",
+        "description": "Free online Bali trip planning tool. Enter your travel style, trip length and preferences to instantly receive personalised attraction guides, area recommendations and must-read articles.",
+        "url": "https://gobaligo.id/en/trip-planner/",
+        "applicationCategory": "TravelApplication",
+        "operatingSystem": "Web",
+        "inLanguage": "en",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+        "featureList": [
+          "Travel style selection (family, honeymoon, friends, solo, elderly)",
+          "Draft itinerary analysis and gap-filling",
+          "Personalised area and attraction guide recommendations",
+          "Region-by-region accommodation advice",
+          "Save results as PDF to share with travel companions"
+        ],
+        "provider": {
+          "@type": "Organization",
+          "name": "Go Bali Go",
+          "url": "https://gobaligo.id"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://gobaligo.id/en/" },
+          { "@type": "ListItem", "position": 2, "name": "Bali Trip Planner", "item": "https://gobaligo.id/en/trip-planner/" }
+        ]
+      },
+      {
+        "@type": "HowTo",
+        "name": "3 Steps to Plan Your Bali Itinerary",
+        "description": "Use the free Bali Trip Planner to get personalised recommendations based on your travel style",
+        "step": [
+          { "@type": "HowToStep", "position": 1, "name": "Choose Your Travel Style", "text": "Select who you're travelling with, how many days you have, which areas and attractions interest you, and your rough budget — all single-tap choices." },
+          { "@type": "HowToStep", "position": 2, "name": "Paste Your Draft Itinerary", "text": "Optional: paste your existing rough plan. The tool spots empty days and fills in activity recommendations for the areas you've already chosen." },
+          { "@type": "HowToStep", "position": 3, "name": "Get Your Personalised Picks", "text": "Receive a tailored list of attraction guides, area recommendations and must-read articles. Save as PDF to share with your travel companions." }
+        ]
+      },
+      {
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "How many days do you need for a Bali trip?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Bali is bigger than most people expect — the drive from the southern airport to Ubud alone takes 1.5–2 hours, and reaching the east or north takes even longer. We recommend at least 5 days / 4 nights, which gives you three full days to cover the south (Kuta/Seminyak) plus Ubud after deducting travel days. If you want to add Nusa Penida island-hopping, a volcano sunrise hike, or East Bali, plan for 7–8 days to keep the pace comfortable. Anything under 4 days means you'll spend most of your time stuck in traffic." }
+          },
+          {
+            "@type": "Question",
+            "name": "Which areas should first-time visitors include?",
+            "acceptedAnswer": { "@type": "Answer", "text": "The classic first-timer combo is Kuta/Seminyak (south) + Ubud (highlands) with 2–3 nights each. The south is close to the airport with beaches, shopping and dining; Ubud offers rice terraces, waterfalls, spas and art markets — the cultural heart of Bali. For a slightly upgraded version, swap the south leg for Canggu (trendy cafés and surfing) or Uluwatu (cliffside sunsets)." }
+          },
+          {
+            "@type": "Question",
+            "name": "Where should families with kids stay in Bali?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Nusa Dua is the top family pick — concentrated five-star resorts, calm safe beaches, low traffic, and stroller-friendly walkways. Sanur is a great second choice, with a relaxed vibe, a turtle conservation center, shallow swimming spots, and reasonable restaurant prices. Ubud works well for older kids who enjoy rice terraces, jungle swings, and the safari park. Avoid central Kuta with young children — too much traffic, crowds, and nightclubs." }
+          },
+          {
+            "@type": "Question",
+            "name": "What's the best Bali itinerary for honeymooners and couples?",
+            "acceptedAnswer": { "@type": "Answer", "text": "The two most popular honeymoon zones are Ubud (jungle pool villas, couples spa, infinity pools) and Uluwatu (clifftop ocean views, Rock Bar sunsets, private beaches). We suggest 3 nights in Ubud followed by 2–3 nights in Uluwatu — start with jungle serenity, finish with dramatic ocean luxury. With a higher budget, consider Jimbaran beachfront resorts, or add a night on the Gili Islands for snorkeling." }
+          },
+          {
+            "@type": "Question",
+            "name": "How does the trip planner tool work?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Three steps: (1) Choose your travel style — who's going, how many days, and which areas/attractions interest you; (2) Optionally paste your draft itinerary so the system can find gaps; (3) Get a personalized list of guides, attractions, spas and food recommendations matched to your selections. No signup required, runs entirely in your browser, no personal data stored." }
+          },
+          {
+            "@type": "Question",
+            "name": "Can I save or share the result with my travel companions?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Yes. The result page has a 'Save as PDF' button in the bottom-right corner — one click downloads a PDF you can share with family or friends. You can also use 'Edit this trip' to go back and adjust, or 'Start over' to reset. We recommend saving a PDF after planning, then re-checking our latest articles before departure for any updates." }
+          },
+          {
+            "@type": "Question",
+            "name": "When is the best time to visit Bali? Peak vs off-season differences?",
+            "acceptedAnswer": { "@type": "Answer", "text": "Bali has a clear dry season (April–October) and wet season (November–March). The sweet spot is May, June, and September — stable weather, fewer crowds than July–August summer holidays, and better prices. July–August and late December are peak season with higher hotel rates; book 2–3 months ahead. January–February rainy season is cheapest but expect heavy afternoon storms, so build flexibility into outdoor plans. Chinese New Year and Christmas typically double rates — shift your dates by a week to save." }
+          }
+        ]
+      }
+    ]
+  })} />
 </head>
 <body>
   <Header lang="en" basePath="trip-planner" />

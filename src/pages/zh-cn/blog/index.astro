@@ -121,7 +121,7 @@ const { Content: BaliNewsContent } = baliNewsToRender
 const top5Posts = top5Data.articles
   .map(id => allPosts.find(p => p.id === id))
   .filter(Boolean)
-  .map(p => ({ id: p!.id, title: p!.data.title }));
+  .map(p => ({ id: p!.id, slug: p!.data.slug || p!.id, title: p!.data.title }));
 
 const qaCollection = await getCollection('qa');
 const qaData = qaCollection.map(q => ({ title: (qaI18n as any)[q.id]?.['zh-cn'] ?? q.data.title }));
@@ -144,6 +144,12 @@ const socialLinks = [
 <html lang="zh-CN">
 <head>
   <BaseHead title="峇里岛旅游攻略 | Go Bali Go" description="峇里岛旅游最完整的中文攻略网站。签证、交通、住宿、美食、景点、行程规划，600+ 篇深度文章。" noSuffix={true} />
+  <script is:inline>
+    window.__ORIGINAL_TITLE = document.title;
+    window.__ORIGINAL_DESC = document.querySelector('meta[name="description"]')?.content || '';
+    window.__ORIGINAL_OG_TITLE = document.querySelector('meta[property="og:title"]')?.content || '';
+    window.__ORIGINAL_CANONICAL = document.querySelector('link[rel="canonical"]')?.href || '';
+  </script>
   <link rel="alternate" hreflang="x-default" href="https://gobaligo.id/blog/" />
   <link rel="alternate" hreflang="zh-TW"     href="https://gobaligo.id/blog/" />
   <link rel="alternate" hreflang="zh-HK"     href="https://gobaligo.id/zh-hk/blog/" />
@@ -162,6 +168,7 @@ const socialLinks = [
       "query-input": "required name=search_term_string"
     }
   })} />
+  <script type="application/ld+json" id="newbie-schema-slot"></script>
 </head>
 <body>
   <Header lang="zh-cn" />
@@ -265,7 +272,7 @@ const socialLinks = [
             <ul class="top5-list" id="top5-list">
               {top5Posts.map((post, i) => (
                 <li class="top5-item" data-index={i}>
-                  <a href={`${blogBase}/${post.id}/`}>
+                  <a href={`${blogBase}/${post.slug}/`}>
                     <span class="top5-num">{i + 1}</span>
                     <span class="top5-title">{post.title}</span>
                   </a>
@@ -315,6 +322,110 @@ const socialLinks = [
       <div id="cat-heading" style="display:none">
         <h1 id="cat-heading-text" class="cat-heading-title"></h1>
       </div>
+
+      <!-- 新手指南分类介绍区块（JS 控制显示） -->
+      <div id="newbie-guide-intro" style="display:none" aria-hidden="true">
+
+        <div class="pillar-recommendation-card">
+          <div class="pillar-card-inner">
+            <div class="pillar-card-left">
+              <div class="pillar-card-icon">🎯</div>
+            </div>
+            <div class="pillar-card-right">
+              <p class="pillar-card-eyebrow">新手必读 · 终极指南</p>
+              <h3 class="pillar-card-title">第一次去巴厘岛？从这里开始</h3>
+              <p class="pillar-card-desc">32 项行前准备、当地实用知识、真实踩坑经验与省钱技巧全收录。一篇看完，新手变老手。</p>
+              <a href="/zh-cn/blog/bali-ultimate-guide-2026/" class="pillar-card-cta">
+                读「2026 巴厘岛自由行终极指南」→
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="newbie-intro-text">
+          <p>第一次去巴厘岛，你可能会问：签证怎么办？现金带多少？住哪个区最安全？会不会被骗？飞机要坐多久？</p>
+          <p>这里集结了 25 篇深度攻略，从出发前 2 个月的准备清单，到抵达后第一天的懒人包。无论你是第一次<strong>巴厘岛自由行</strong>、带家人度假，还是计划长住，都能找到你需要的答案。不管你在<strong>水明漾</strong>喝椰子看夕阳、在<strong>乌布</strong>找隐藏瀑布，还是在<strong>长谷</strong>（Canggu）和冲浪客混在一起，这份<strong>巴厘岛新手指南</strong>都是你的后盾。</p>
+        </div>
+
+        <div class="newbie-topic-groups">
+
+          <div class="newbie-topic-group">
+            <h2 class="newbie-group-title">🛂 签证与入境</h2>
+            <ul class="newbie-article-list">
+              <li><a href="/zh-cn/blog/bali-all-indonesia-arrival-guide/">Bali 入境攻略 All Indonesia 入境卡 2026 完整流程</a></li>
+              <li><a href="/zh-cn/blog/bali-travel-guide-2026/">巴厘岛行前准备 7 大要点：签证 eVOA 换汇住宿完整教学</a></li>
+            </ul>
+          </div>
+
+          <div class="newbie-topic-group">
+            <h2 class="newbie-group-title">💰 行前准备</h2>
+            <ul class="newbie-article-list">
+              <li><a href="/zh-cn/blog/first-time-bali-travel-tips/">巴厘岛新手必看 32 项旅游注意事项全攻略</a></li>
+              <li><a href="/zh-cn/blog/bali-travel-insurance-guide/">巴厘岛旅游保险投保指南 2026 海外医疗不便险理赔</a></li>
+              <li><a href="/zh-cn/blog/bali-currency-exchange-guide/">巴厘岛换汇攻略 印尼卢比换汇最划算方式完整指南</a></li>
+              <li><a href="/zh-cn/blog/2026-bali-indoor-activities/">巴厘岛雨天备案 60 个室内行程推荐躲太阳攻略</a></li>
+            </ul>
+          </div>
+
+          <div class="newbie-topic-group">
+            <h2 class="newbie-group-title">📱 网络与通讯</h2>
+            <ul class="newbie-article-list">
+              <li><a href="/zh-cn/blog/bali-sim-card-esim-roaming-guide/">巴厘岛 SIM 卡 eSIM 推荐比较 2026 漫游方案优缺点</a></li>
+            </ul>
+          </div>
+
+          <div class="newbie-topic-group">
+            <h2 class="newbie-group-title">🗺️ 行程规划</h2>
+            <ul class="newbie-article-list">
+              <li><a href="/zh-cn/blog/2026-bali-trip-planning-guide/">巴厘岛自由行 7 步骤行程规划指南 机票签证区域选择</a></li>
+              <li><a href="/zh-cn/blog/bali-independent-travel-guide/">巴厘岛自由行实战攻略 老手经验分享</a></li>
+              <li><a href="/zh-cn/blog/bali-weather-festivals-2026/">巴厘岛 3-6 月旅游气候与节庆攻略 2026</a></li>
+              <li><a href="/zh-cn/blog/bali-accommodation-area-guide/">巴厘岛住宿区域比较：库塔 水明漾 长谷 乌布怎么选</a></li>
+              <li><a href="/zh-cn/blog/bali-hidden-gems-travel-formula/">巴厘岛景点攻略 隐藏版秘境行程公式 2026</a></li>
+            </ul>
+          </div>
+
+          <div class="newbie-topic-group">
+            <h2 class="newbie-group-title">🚖 交通方式</h2>
+            <ul class="newbie-article-list">
+              <li><a href="/zh-cn/blog/bali-private-car-hire-guide/">巴厘岛包车攻略 费用预订方式完整指南</a></li>
+              <li><a href="/zh-cn/blog/ubud-airport-transport-tips/">巴厘岛机场交通 乌布到机场时间与注意事项</a></li>
+              <li><a href="/zh-cn/blog/bali-transport-quiz/">巴厘岛交通选择测验 Gojek vs 包车哪个最省钱</a></li>
+            </ul>
+          </div>
+
+          <div class="newbie-topic-group">
+            <h2 class="newbie-group-title">⚠️ 安全与禁忌</h2>
+            <ul class="newbie-article-list">
+              <li><a href="/zh-cn/blog/bali-travel-mistakes-tips/">巴厘岛新手避坑 18 个常见错误警告</a></li>
+              <li><a href="/zh-cn/blog/bali-money-exchange-scams/">巴厘岛换钱诈骗手法防范指南 2025</a></li>
+              <li><a href="/zh-cn/blog/bali-motorbike-safety-guide/">巴厘岛摩托车骑行安全 事故自救与保险指南</a></li>
+            </ul>
+          </div>
+
+          <div class="newbie-topic-group">
+            <h2 class="newbie-group-title">💡 生活技巧</h2>
+            <ul class="newbie-article-list">
+              <li><a href="/zh-cn/blog/bali-travel-faqs-guide/">巴厘岛必知 41 个新手常见问题解答</a></li>
+              <li><a href="/zh-cn/blog/bali-water-filter-tips/">巴厘岛生活常识 饮水卫生洗澡真实网友经验</a></li>
+              <li><a href="/zh-cn/blog/bali-tipping-guide-driver-spa/">巴厘岛小费行情 司机按摩酒店床头小费给法大全</a></li>
+              <li><a href="/zh-cn/blog/seminyak-day-trip-guide/">巴厘岛水明漾 Seminyak 一日游行程攻略 2026</a></li>
+            </ul>
+          </div>
+
+        </div><!-- end newbie-topic-groups -->
+
+        <div class="newbie-related-resources">
+          <h2 class="newbie-group-title">📚 新手必看相关工具</h2>
+          <ul class="newbie-article-list">
+            <li><a href="/trip-planner/">🗺️ 巴厘岛行程规划工具</a> — 5分钟生成个人化分区推荐</li>
+            <li><a href="/bali-budget-calculator/">💰 巴厘岛预算计算机</a> — 估算 5/7/10 天需要多少预算</li>
+            <li><a href="/zh-cn/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6">🏨 巴厘岛住宿推荐系列</a> — 全岛最完整住宿精选</li>
+            <li><a href="/zh-cn/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5">📍 巴厘岛分区攻略系列</a> — 库塔、水明漾、乌布、长谷、乌鲁瓦图全攻略</li>
+          </ul>
+        </div>
+
+      </div><!-- end newbie-guide-intro -->
 
       <div id="featured-section" style="display:none">
         <h2 class="section-title fade-in">⭐ 编辑精选</h2>
@@ -521,6 +632,54 @@ const socialLinks = [
       if (activeBtn) activeBtn.classList.add('active');
       const homepageBlocks = document.getElementById('homepage-blocks');
       if (homepageBlocks) homepageBlocks.style.display = (cat === 'all' && !q) ? 'block' : 'none';
+
+      const newbieIntro = document.getElementById('newbie-guide-intro');
+      if (newbieIntro) {
+        const isNewbie = cat === '新手指南';
+        newbieIntro.style.display = isNewbie ? 'block' : 'none';
+        newbieIntro.setAttribute('aria-hidden', isNewbie ? 'false' : 'true');
+
+        const NEWBIE_TITLE = '巴厘岛新手指南 2026｜25篇必看行前攻略 - Go Bali Go';
+        const NEWBIE_DESC = '第一次去巴厘岛？完整收录签证、换汇、住宿、交通、禁忌等25篇深度攻略。新手不踩坑的巴厘岛自由行宝典，2026最新版资讯一次看。';
+        const NEWBIE_CANONICAL = 'https://gobaligo.id/zh-cn/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97';
+
+        if (isNewbie) {
+          document.title = NEWBIE_TITLE;
+          document.querySelector('meta[name="description"]')?.setAttribute('content', NEWBIE_DESC);
+          document.querySelector('meta[property="og:title"]')?.setAttribute('content', NEWBIE_TITLE);
+          document.querySelector('meta[property="og:description"]')?.setAttribute('content', NEWBIE_DESC);
+          document.querySelector('link[rel="canonical"]')?.setAttribute('href', NEWBIE_CANONICAL);
+
+          const schemaSlot = document.getElementById('newbie-schema-slot');
+          if (schemaSlot && !schemaSlot.textContent) {
+            schemaSlot.textContent = JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "ItemList",
+              "name": "巴厘岛新手指南精选攻略",
+              "url": NEWBIE_CANONICAL,
+              "numberOfItems": 10,
+              "itemListElement": [
+                { "@type": "ListItem", "position": 1, "name": "2026 巴厘岛自由行终极指南", "url": "https://gobaligo.id/zh-cn/blog/bali-ultimate-guide-2026/" },
+                { "@type": "ListItem", "position": 2, "name": "巴厘岛新手必看 32 项旅游注意事项", "url": "https://gobaligo.id/zh-cn/blog/first-time-bali-travel-tips/" },
+                { "@type": "ListItem", "position": 3, "name": "All Indonesia 入境卡完整流程 2026", "url": "https://gobaligo.id/zh-cn/blog/bali-all-indonesia-arrival-guide/" },
+                { "@type": "ListItem", "position": 4, "name": "巴厘岛换汇攻略 印尼卢比怎么换最划算", "url": "https://gobaligo.id/zh-cn/blog/bali-currency-exchange-guide/" },
+                { "@type": "ListItem", "position": 5, "name": "巴厘岛 SIM 卡 eSIM 推荐比较", "url": "https://gobaligo.id/zh-cn/blog/bali-sim-card-esim-roaming-guide/" },
+                { "@type": "ListItem", "position": 6, "name": "巴厘岛包车攻略费用与预订方式", "url": "https://gobaligo.id/zh-cn/blog/bali-private-car-hire-guide/" },
+                { "@type": "ListItem", "position": 7, "name": "巴厘岛不踩坑 18 个常见错误", "url": "https://gobaligo.id/zh-cn/blog/bali-travel-mistakes-tips/" },
+                { "@type": "ListItem", "position": 8, "name": "巴厘岛换钱诈骗手法防范指南", "url": "https://gobaligo.id/zh-cn/blog/bali-money-exchange-scams/" },
+                { "@type": "ListItem", "position": 9, "name": "巴厘岛必知 41 个新手常见问题", "url": "https://gobaligo.id/zh-cn/blog/bali-travel-faqs-guide/" },
+                { "@type": "ListItem", "position": 10, "name": "巴厘岛行前终极指南出发前 7 大重点", "url": "https://gobaligo.id/zh-cn/blog/bali-travel-guide-2026/" }
+              ]
+            });
+          }
+        } else {
+          document.title = window.__ORIGINAL_TITLE || document.title;
+          document.querySelector('meta[name="description"]')?.setAttribute('content', window.__ORIGINAL_DESC || '');
+          document.querySelector('meta[property="og:title"]')?.setAttribute('content', window.__ORIGINAL_OG_TITLE || '');
+          document.querySelector('link[rel="canonical"]')?.setAttribute('href', window.__ORIGINAL_CANONICAL || '');
+        }
+      }
+
       const qLower = q ? q.toLowerCase() : '';
       filteredCards = [...cards].filter(card => {
         try {
@@ -583,6 +742,31 @@ const socialLinks = [
 </script>
 
 <style>
+  /* ---- 新手指南分类 intro ---- */
+  .newbie-intro-text { margin: 1.2em 0 1.8em; font-size: 0.96em; line-height: 1.75; color: #3a4a5a; }
+  .newbie-intro-text p { margin: 0 0 0.8em; }
+  .newbie-topic-groups { margin: 0 0 2em; }
+  .newbie-topic-group { margin-bottom: 1.6em; }
+  .newbie-group-title { font-size: 1em; font-weight: 700; color: var(--ocean, #0a3d6b); margin: 0 0 0.6em; padding-bottom: 0.35em; border-bottom: 2px solid rgba(197,160,89,0.3); }
+  .newbie-article-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.45em; }
+  .newbie-article-list li { padding: 0.4em 0; font-size: 0.88em; border-bottom: 1px solid rgba(197,160,89,0.12); }
+  .newbie-article-list a { color: var(--ocean, #0a3d6b); text-decoration: none; font-weight: 500; }
+  .newbie-article-list a:hover { text-decoration: underline; }
+  .newbie-related-resources { margin-top: 2em; padding: 1.2em 1.4em; background: #f8f4ec; border-radius: 10px; border: 1px solid rgba(197,160,89,0.25); }
+  .pillar-recommendation-card { margin: 1.5em 0 2em; border-radius: 14px; background: linear-gradient(135deg,#e8f4f0 0%,#dceef8 100%); border: 1.5px solid rgba(32,120,100,0.18); box-shadow: 0 2px 16px rgba(10,22,40,0.07); overflow: hidden; transition: box-shadow 0.2s, transform 0.2s; }
+  .pillar-recommendation-card:hover { box-shadow: 0 6px 24px rgba(10,22,40,0.13); transform: translateY(-2px); }
+  .pillar-card-inner { display: flex; align-items: center; gap: 1.2em; padding: 1.4em 1.6em; }
+  .pillar-card-left { flex-shrink: 0; }
+  .pillar-card-icon { font-size: 2.4em; line-height: 1; }
+  .pillar-card-right { flex: 1; }
+  .pillar-card-eyebrow { font-size: 0.75em; font-weight: 700; letter-spacing: 0.08em; color: #2a7a60; text-transform: uppercase; margin: 0 0 0.3em; }
+  .pillar-card-title { font-size: 1.05em; font-weight: 800; color: #0a1628; margin: 0 0 0.45em; line-height: 1.35; }
+  .pillar-card-desc { font-size: 0.87em; color: #3a4a5a; margin: 0 0 0.9em; line-height: 1.55; }
+  .pillar-card-cta { display: inline-block; background: #1a6b4a; color: #fff; font-size: 0.88em; font-weight: 700; padding: 0.5em 1.1em; border-radius: 8px; text-decoration: none; transition: background 0.2s; }
+  .pillar-card-cta:hover { background: #155c3e; text-decoration: none; }
+  @media (max-width: 600px) { .pillar-card-inner { flex-direction: column; align-items: flex-start; gap: 0.8em; padding: 1.1em 1.2em; } }
+  /* ---- 新手指南 end ---- */
+
 :global(.promo-card) { display: block; font-size: 13px; text-decoration: none; border-radius: 10px; overflow: hidden; border: 1px solid rgba(201,168,76,0.3); transition: transform 0.2s, box-shadow 0.2s; background: var(--white); }
 :global(.promo-card):hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(10,22,40,0.1); }
 :global(.promo-image) img { width: 100%; height: auto; display: block; }

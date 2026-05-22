@@ -10,6 +10,7 @@ const blog = defineCollection({
     pubDate: z.coerce.date().optional(),
     pubHour: z.number().optional(),
     updatedDate: z.coerce.date().optional(),
+    update: z.string().optional(),
     heroImage: z.string().optional(),
     category: z.array(z.string()).optional(),
     tags: z.any().optional(),
@@ -21,6 +22,11 @@ const blog = defineCollection({
     })).optional(),
     private: z.boolean().optional(),
     shuffle_h2: z.boolean().optional(),
+    agoda_hotel_id: z.number().optional(),
+    agoda_hotel_name: z.string().optional(),
+    agoda_star_rating: z.number().optional(),
+    latitude: z.number().optional(),
+    longitude: z.number().optional(),
   }),
 });
 
@@ -58,6 +64,7 @@ const translatedSchema = z.object({
   description: z.string().optional(),
   pubDate: z.coerce.date().optional(),
   updatedDate: z.coerce.date().optional(),
+  update: z.string().optional(),
   heroImage: z.string().optional(),
   category: z.array(z.string()).optional(),
   tags: z.any().optional(),
@@ -70,6 +77,11 @@ const translatedSchema = z.object({
   })).optional(),
   private: z.boolean().optional(),
   shuffle_h2: z.boolean().optional(),
+  agoda_hotel_id: z.number().optional(),
+  agoda_hotel_name: z.string().optional(),
+  agoda_star_rating: z.number().optional(),
+  latitude: z.number().optional(),
+  longitude: z.number().optional(),
 });
 
 const qa = defineCollection({
@@ -88,15 +100,15 @@ const qa = defineCollection({
 
 // 翻譯文章集合 — 使用 glob loader 支援連字號目錄名稱
 const zhcn = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/zh-cn' }),
+  loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: './src/content/zh-cn' }),
   schema: translatedSchema,
 });
 const zhhk = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/zh-hk' }),
+  loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: './src/content/zh-hk' }),
   schema: translatedSchema,
 });
 const en = defineCollection({
-  loader: glob({ pattern: '**/*.md', base: './src/content/en' }),
+  loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: './src/content/en' }),
   schema: translatedSchema,
 });
 

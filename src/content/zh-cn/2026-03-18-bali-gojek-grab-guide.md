@@ -1,4 +1,5 @@
 ---
+update: 2026/05/19
 title: 【印尼/巴厘岛必备APP】Gojek / Grab 叫车图文教学指南
 description: >-
   Gojek / Grab 的使用方式。在巴厘岛旅游，Gojek 和 Grab 是两款必备的「国民 App」，功能与界面极为相似，就像是 Uber
@@ -14,12 +15,14 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/ByGkcmys01g'
 lang: zh-cn
-_srcHash: 03d81bfd181c7b524c2aac604ffea415
+_srcHash: 7d3f0f9bd63f4c90cb0e9043a2bf186b
 ---
+
+[🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
 
-## Gojek / Grab 的使用方法
+## Gojek / Grab 的使用方式
 
 在**巴厘岛**旅游，Gojek 和 Grab 是两款必备的「国民 App」。它们的功能与界面极为相似，就像是 Uber 的两个不同品牌版本。
 
@@ -36,21 +39,21 @@ _srcHash: 03d81bfd181c7b524c2aac604ffea415
 
 **第二步：绑定信用卡 (Cashless)**
 
-虽然可以付现金，但强烈建议绑定信用卡，省去翻找小额印尼盾零钱的麻烦。
+虽然可以付现，但强烈建议绑定信用卡，省去翻找小额印尼盾零钱的麻烦。
 
 - **Grab：** 界面较友好，对国际信用卡支持度高，甚至有中文界面。
-- **Gojek：** 印尼本土品牌，若信用卡刷不过，可考虑到当地的便利店（如 Alfamart）充值 GoPay。
+- **Gojek：** 印尼本土品牌，若信用卡无法支付，可考虑到当地的便利店（如 Alfamart）充值 GoPay。
 
 **第三步：叫车流程 (Step-by-Step)**
 
-无论哪一款 App，操作逻辑都大同小异：
+不论哪一款 App，操作逻辑完全大同小异：
 
 1. **选择服务：**
 
     - 摩托车 (Bike)： 适合单人、赶时间（堵车时）、短程。Gojek 叫 GoRide，Grab 叫 GrabBike。
     - 汽车 (Car)： 适合多人、有行李、想吹空调。Gojek 叫 GoCar，Grab 叫 GrabCar。
 
-2. **设置目的地 (Where to)：** 输入地点名称或直接在地图上插大头针。
+2. **设定目的地 (Where to)：** 输入地点名称或直接在地图上插大头针。
 3. **确认上车点 (Pick-up point)：** 系统会自动定位，但建议手动检查，确保司机能找到你。
 4. **查看价格：** 系统会跳出确定的总金额（明码实价，不用跳表或喊价）。
 5. **点击预订 (Order/Book)：** 系统会配对司机，画面会显示司机的名字、车牌与位置。
@@ -59,16 +62,19 @@ _srcHash: 03d81bfd181c7b524c2aac604ffea415
 
 **第四步：与司机沟通**
 
-- **内置聊天：** 两款 App 都有内置聊天室，可以传消息或照片告知确切位置。
+- **内置聊天：** 两款 App 都有内置聊天室，可以传讯息或照片告知确切位置。
 - **翻译功能：** Grab 内置自动翻译，司机传印尼文会自动转成英文/中文；Gojek 则可能需要简单的英文沟通。
 - **常用接人地点表达**：
 
-1. 在大门口/At the main gate：Di pintu utama
+1. 在大门/At the main gate：Di pintu utama
+2. 在XX便利店/At XX convenient store：Di mini mart XX
+3. 在XX商店/At XX store：Di toko XX
+4. 在门牌XX号接我/pick me up at number XX：jemput saya di nomor XX
 
 **第五步：抵达与评分**
 
 - 下车后，若已绑定信用卡，直接下车即可。
-- **小费：** 若觉得司机服务很好（例如帮忙搬重物或绕过严重堵车），可以在 App 上给予 5,000–10,000 IDR 的小额小费以表心意。
+- **小费：** 若觉得司机服务很好（例如帮忙搬重物或绕过严重塞车），可以在 App 上给予 5,000–10,000 IDR 的小额小费以表心意。
 
 https://youtu.be/ByGkcmys01g
 
@@ -86,7 +92,7 @@ https://youtu.be/ByGkcmys01g
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
 
-### 🚗 对游客的实际影响与建
+### 🚗 对游客的实际影响与建议
 
 限制确实存在，但对游客的整体影响是有限的，你可以通过以下方式顺利出行：
 
@@ -95,7 +101,7 @@ https://youtu.be/ByGkcmys01g
 3. 应对技巧：遇到上述情况，可以步行离开该区域约5-10分钟，到附近的主干道或小巷再使用APP叫车，这样通常能顺利叫到车，且价格更合理。
 4. 替代方案：对于一天的跨区域观光（例如从南部前往乌布或火山），预订包车是更普遍、舒适且无争议的选择，司机通常还能兼任向导。
 
-快速参考：[【巴厘岛包车须知懒人包】](/blog/2024-01-12-65a0a163fd8978000115f37a/)
+快速参考：[【巴厘岛包车须知懒人包】](/blog/bali-private-car-hire-guide/)
 
 ## ⚠️ 重要提醒
 
@@ -107,3 +113,9 @@ https://youtu.be/ByGkcmys01g
 总结来说，线上叫车在巴厘岛大部分地区仍是可用的有效工具，只需避开有明确禁令的热门景点即可。提前规划好交通方式，将让你的旅程更加顺畅。
 
 {{block:包車}}
+
+---
+
+👈 **回到巴厘岛自由行终极指南**
+
+想看完整的新手懒人包？[点这里阅读「2026巴厘岛自由行终极指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出发前该做什么。

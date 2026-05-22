@@ -1,4 +1,5 @@
 ---
+update: "2026/05/19"
 title: 【印尼/峇里島必備APP】Gojek / Grab 叫車圖文教學指南
 description: Gojek / Grab 的使用方式。在峇里島旅遊，Gojek 和 Grab 是兩款必備的「國民 App」，功能與介面極為相似，就像是 Uber 的兩個不同品牌版本。
 pubDate: 2026-03-18
@@ -12,6 +13,8 @@ embeds:
     platform: youtube
     url: https://youtu.be/ByGkcmys01g
 ---
+
+[🚗 想預估 Gojek 車資？請點擊這裡](/map/gojek-fare/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
 
@@ -94,7 +97,7 @@ https://youtu.be/ByGkcmys01g
 3. 應對技巧：遇到上述情況，可以步行離開該區域約5-10分鐘，到附近的主幹道或小巷再使用APP叫車，這樣通常能順利叫到車，且價格更合理。
 4. 替代方案：對於一天的跨區域觀光（例如從南部前往烏布或火山），預訂包車是更普遍、舒適且無爭議的選擇，司機通常還能兼任嚮導。
 
-快速參考：[【峇里島包車須知懶人包】](/blog/2024-01-12-65a0a163fd8978000115f37a/)
+快速參考：[【峇里島包車須知懶人包】](/blog/bali-private-car-hire-guide/)
 
 ## ⚠️ 重要提醒
 
@@ -106,3 +109,9 @@ https://youtu.be/ByGkcmys01g
 總結來說，線上叫車在峇里島大部分地區仍是可用的有效工具，只需避開有明確禁令的熱門景點即可。提前規劃好交通方式，將讓你的旅程更加順暢。
 
 {{block:包車}}
+
+---
+
+👈 **回到峇里島自由行終極指南**
+
+想看完整的新手懶人包？[點這裡閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次搞懂出發前該做什麼。

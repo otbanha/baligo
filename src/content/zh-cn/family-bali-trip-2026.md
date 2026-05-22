@@ -1,0 +1,219 @@
+---
+slug: family-bali-trip-2026
+title: 【巴厘岛六日游记】全家六口重返天堂之岛，23年后的重逢之旅
+description: >-
+  取之于社团，我来回馈社团了！
+  今年暑假，我们一家六口终于再次踏上巴厘岛。距离上一次全家一起来，已是23年前的事了。这座被誉为“诸神之岛”的度假天堂，依然美丽迷人，只是如今的游客明显多了许多，旅游设施也更加丰富多元。非常感谢社团朋友们的热心分享与协助，为我们推荐了一位非常棒的导游
+  Betty Pin
+pubDate: 2026-01-29T00:00:00.000Z
+category:
+  - 遊記分享
+tags:
+  - 峇里島旅遊
+  - 峇里島自由行攻略
+  - 峇里島旅遊攻略
+  - 巴里島
+  - 峇里島
+heroImage: 'https://images.gobaligo.id/vocus/vocus_0347481a7fc74e3d809741abdcae7aa0.jpg'
+originalUrl: 'https://vocus.cc/article/6944cda7fd89780001d0907a'
+lang: zh-cn
+_srcHash: ecad95ee1ce6cc267203b5c6d86b02aa
+---
+
+> 以下游记由 [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/) 提供, 并同意我们润饰重新编辑
+
+取之于社团，我来回馈社团了！
+
+今年暑假，我们一家六口终于再次踏上巴厘岛。距离上一次全家一起来，已是23年前的事了。这座被誉为“诸神之岛”的度假天堂，依然美丽迷人，只是如今的游客明显多了许多，旅游设施也更加丰富多元。全家对这次的6天5夜巴厘岛自由行都相当满意，以下整理出发前准备、行程概览与包车导游心得，提供给大家参考。
+
+***
+
+## ※ 出发前准备
+
+### 1. 机票
+
+迫不及待投入度假天堂的怀抱，我们选择了长荣航空直飞航班（BR255／BR256），航程约5.5小时。
+
+### 2. （很重要！）签证、入境与相关申请
+
+包含签证（eVOA／VOA）、~~eCD电子海关申报、健康信息卡（SSHP）~~(已整合为[AIAC](/blog/bali-evisa-customs-health-declaration/))、观光旅游税。
+
+**贴心提醒（亲身经验）：**
+
+所有在线申请，建议在「印尼政府白天上班时间」操作，系统较顺畅，也比较不容易出现奇怪的技术问题。
+
+**(1) 签证：eVOA / VOA**
+
+为节省入境时间，我选择出发前申办eVOA电子落地签，下机后可直接走自动通关闸门。
+
+- 准备文件：护照内页扫描（JPG／PDF）、大头照（JPG）、住宿地址、机票信息、信用卡
+- 费用：50万印尼盾／人（约USD$31）
+- 官方申请网址：<https://evisa.imigrasi.go.id/> <---唯一官网链接
+- 申请教学：社团内教学文章很多，例如 [【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+
+**PS：**
+
+签证效期30天，建议出发前约7天申请即可。
+
+有eVOA即可走自动通关，我习惯打印纸本备用。
+
+**(2) eCD电子报关、SSHP健康声明**
+
+- 准备文件：护照资料、eVOA号码、机票与住宿信息
+- 申请网址：「All Indonesia」入境整合系统 <https://allindonesia.imigrasi.go.id/>
+- 费用：免费
+- 教学参考：[【2026版】印尼巴厘岛入境使用「All Indonesia」入境卡｜1分钟搞懂最新流程：下飞机→过海关→领行李全攻略](/blog/bali-all-indonesia-arrival-guide/)
+
+**PS：** QR Code请存于手机，或打印纸本以备查验。
+
+**(3) 观光旅游税**
+
+- 准备文件：护照资料、信用卡
+- 申请方式：下载Love Bali App或使用网址 <https://lovebali.baliprov.go.id/home>
+- 费用：15万印尼盾／人（约USD$9）
+
+**PS：** 同样请保存QR Code以备查验。
+
+**(4) 美金兑换**
+
+建议在台湾先换好100美金面额，再到印尼兑换印尼盾，汇率会比较好。印尼当地依美金面额给汇，100、50元最佳，20、10、5、1元汇率有差。
+
+{{block:換匯}}
+
+***
+
+## ※ 包车导游心得
+
+这次行程通过社团推荐，非常幸运遇到 Betty Pingky。从出发前的行程规划建议、酒店推荐，到旅途中的专业导览与贴心陪伴，都让人感到安心又温暖。
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_36d1ca9ccd350f82b4fc77b4c476186e.jpg)
+
+有时候，她甚至“一人接待、两人服务”，有两天行程还有她先生小吴一起陪同，整趟旅程充满笑声。
+
+其中有一天酒店未提供早餐，加上出门时间很早，她担心我们饿肚子，竟主动帮我们准备早餐，真的把我们当成家人一样照顾，感动！
+
+***
+
+## ※ 行程概览与游记
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_1ddc462d2d0248effc0fb73f6691b047.png)
+
+### **Day 1：抵达巴厘岛 → 金巴兰海滩落日与海鲜晚餐**
+
+- **景点行程**：换汇、金巴兰落日
+- **餐饮**：晚餐 malafi cafe jimbaran
+- **住宿**：[Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952)
+
+抵达巴厘岛后，Betty 已举牌在机场等候，亲切的笑容瞬间消解了长途飞行的疲惫。我们先前往 villa 放行李，接着直奔 **金巴兰海滩**。23年过去，金巴兰的日落依然壮丽如画，沙滩上整齐排列的海鲜烧烤摊飘来阵阵香气。晚餐在 **malafi cafe jimbaran** 享用新鲜海鲜，搭配现场乐队演奏，全家围坐在沙滩上，脚踩细沙，眼前是橘红色的日落海景，幸福感满满。
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_3e474fcc7e6a5290032324cbaa76ba48.png)
+
+前两晚我们的住宿villa提供一房～4房的选项，有需要的朋友可以参考 [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952)
+
+{{block:jim}}
+
+***
+
+### **Day 2：蓝色断崖公路 → 乌鲁瓦图庙 → 舒压 Spa**
+
+- **景点行程**：水上活动、蓝色断崖公路、乌鲁瓦图庙、Sakar Jepun Spa
+- **餐饮**：午餐 WARUNG LAOTA、晚餐在酒店附近的市集解决
+- **住宿**：[Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952)
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_f24fff8b05526923028a41d85303f88f.jpg)
+
+Betty 带我们沿着 **蓝色断崖公路** 前行，湛蓝的海水与陡峭的悬崖形成强烈对比，沿途不少新人正在拍婚纱，画面浪漫。接着参观 **乌鲁瓦图庙**，古老的印度教建筑与精致的石雕令人赞叹。下午安排 **Sakar Jepun Spa**，全家六口一起享受传统巴厘岛按摩，消除疲劳，为接下来的行程充电。
+
+{{block:uluwatu}}
+
+- [【精华篇】巴厘岛好评SPA、到府按摩推荐大集合 用区域划分更方便查找](/blog/spa/)
+
+***
+
+### **Day 3：野生动物园 → 田园晚餐**
+
+- **景点行程**：巴厘岛野生动物园、阿勇河漂流、苏卡瓦迪集市
+- **餐饮**：午餐 Joni田园餐厅脏鸭饭、晚餐 Freddies Resort & Villas
+- **住宿**：[Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492)
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_4a04261efc67f7ef8c6413d589e1ae9c.jpg)
+
+**巴厘岛野生动物园** 是孩子们的最爱，可以近距离观赏大象、老虎等动物，还能搭乘游园车进入野生区，体验非洲草原般的辽阔感。晚餐在 **Freddies Resort & Villas** 享用，环境清幽，餐点精致。
+
+**快速参考：**[巴厘岛野生动物园 Bali Safari 全攻略：夜宿体验、亲子游乐与行程规划](/blog/bali-safari-night-experience/)
+
+***
+
+### **Day 4：乌布漂流 → 艺术村落 → 梯田秋千 → 碳烤猪肋排**
+
+- **景点行程**：乌布漂流、彭里普兰村、德哥拉朗梯田（丛林秋千）
+- **餐饮**：午餐漂流包餐、晚餐 iiga warung（碳烤猪肋排）
+- **住宿**：[Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492)
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_9896437fb78834627a8728b3cc73f5b5.jpg)
+
+早上前往 **阿勇河漂流**，沿途热带雨林景色幽美，水流平缓适合全家同乐，甚至还能跳下水游泳！接着走访 **彭里普兰村**，这里是巴厘岛传统艺术村落，富有文化气息。**德哥拉朗梯田** 的丛林秋千是网红必拍景点，我们全家也忍不住排队体验，在高空中俯瞰整片翠绿梯田，刺激又壮观。晚餐在 **iiga warung** 大啖碳烤猪肋排，酱汁香甜入味，至今回味无穷。
+
+{{block:ubud}}
+
+**快速参考：**
+
+- [巴厘岛漂流攻略（漂流常见问题FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
+- [穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/blog/penglipuran-village-bali-experience/)
+- [Ubud Swing 乌布玩秋千：巴厘岛最美的8个秋千拍照胜地｜乌布秋千/租礼服攻略](/blog/ubud-jungle-swings-photo-guide/)
+
+***
+
+### **Day 5：水明漾逛街 → Beachwalk购物中心 → 最后的 Spa**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_c6935750f850b8396f64672ffab4392f.jpg)
+
+- **景点行程**：Bali Handara Cafe、水明漾大街、Beachwalk Shopping Center、SPA
+- **餐饮**：午餐 Secret Garden 餐厅、晚餐在 Beachwalk shopping center 解决
+- **住宿**：[Sheraton Bali Kuta Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502)
+
+https://youtu.be/IReL1ztxL7c
+
+最后一天安排轻松的逛街行程。**水明漾大街** 与 **Beachwalk Shopping Center** 聚集了许多国际品牌与当地特色小店，我们住宿的[库塔喜来登](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502)就在 Beachwalk Shopping Center 的楼上，我们在这里采购纪念品与伴手礼。傍晚再次享受一次 **SPA**，为旅程画下完美句点。
+
+{{block:smk}}
+
+***
+
+### **Day 6：库塔海滩漫游 → 机场送机**
+
+- **景点行程**：漫游库塔海滩、Mal Bali Galeria
+- **餐饮**：午餐 Mal Bali Galeria
+- **住宿**：Sweet home
+
+早上在 **库塔海滩** 散步，感受巴厘岛最后的海风与阳光。随后前往 **Mal Bali Galeria** 做最后采购，午餐后 Betty 贴心送我们到机场，一路陪伴至出境大厅，真诚道别。
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_409ecb0e626c9e5a6ade93ac2775018f.jpg)
+
+***
+
+## ※ 结语
+
+23年后再访巴厘岛，变的是更便利的旅游设施与更多元的体验，不变的是岛屿的温暖人情与自然美景。这次非常感谢导游 **Betty Pingky** 的专业与贴心，让全家六口都能轻松享受假期。也再次感谢社团的各位前辈，你们的分享是我们旅程顺利的最大助力！
+
+巴厘岛，我们下次再见！
+
+***
+
+**旅游日期：2025/7/13 ~ 2025/7/18**
+
+**人数：6人（家庭旅游）**
+
+**推荐导游：Betty Pingky**
+
+**行程规划：自由行 + 包车导游**
+
+![非常感謝社團朋友們的熱心分享與協助，為我們推薦了一位非常棒的導遊 Betty Pingky](https://images.gobaligo.id/vocus/vocus_1c7cd1bf0912112ad2aecb4b624112f2.jpg)
+
+非常感谢社团朋友们的热心分享与协助，为我们推荐了一位非常棒的导游 Betty Pingky
+
+您觉得 [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/) 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
+
+{{block:遊記}}
+
+{{block:攻略}}

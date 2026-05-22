@@ -5,14 +5,38 @@ import TopStrip from '../../components/TopStrip.astro';
 import Footer from '../../components/Footer.astro';
 import { areaMaps, thematicMaps } from '../../data/maps';
 
-const title = '峇里島攻略地圖｜各區景點互動地圖';
-const description = '峇里島 13 大區域攻略地圖，含庫塔、烏布、長谷、佩尼達島等熱門區域景點、美食、住宿一次看，手機瀏覽最佳化。';
+const title = '峇里島攻略地圖｜26 張互動地圖一次看 | Go Bali Go';
+const description = '峇里島 13 大分區攻略 + 13 張主題地圖，換匯所、ATM、醫院、住宿、美食全覆蓋，手機最佳化，自由行規劃必備工具。';
 const lang = 'zh-tw';
+
+const siteUrl = 'https://gobaligo.id';
+const indexSchema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebPage",
+      "name": "峇里島攻略地圖",
+      "description": description,
+      "url": `${siteUrl}/map/`,
+      "inLanguage": "zh-TW",
+      "about": { "@type": "TouristDestination", "name": "峇里島", "addressCountry": "ID" }
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "首頁", "item": `${siteUrl}/` },
+        { "@type": "ListItem", "position": 2, "name": "攻略地圖", "item": `${siteUrl}/map/` }
+      ]
+    }
+  ]
+};
 ---
 
 <html lang="zh-TW">
 <head>
   <BaseHead title={title} description={description} />
+  <meta name="robots" content="index, follow" />
+  <script type="application/ld+json" set:html={JSON.stringify(indexSchema)} />
   <style>
     * { box-sizing: border-box; margin: 0; padding: 0; }
 
@@ -113,6 +137,15 @@ const lang = 'zh-tw';
       flex-shrink: 0;
     }
 
+    @media (min-width: 640px) {
+      .map-grid-thematic {
+        grid-template-columns: 1fr 1fr 1fr;
+      }
+      .map-grid-thematic .map-card-thematic {
+        grid-column: auto;
+      }
+    }
+
     .footer-wrap {
       padding-bottom: env(safe-area-inset-bottom, 0px);
     }
@@ -191,7 +224,15 @@ const lang = 'zh-tw';
 
   <div class="section-label">主題地圖</div>
 
-  <div class="map-grid" style="padding-bottom: 32px;">
+  <div class="map-grid map-grid-thematic" style="padding-bottom: 32px;">
+    <a href="/map/gojek-fare/" class="map-card map-card-thematic" style="background: linear-gradient(135deg, #f0fff6, #fff); border-color: #00b14f;">
+      <span class="emoji">🚗</span>
+      <div class="text">
+        <div class="name">Gojek 費用查詢</div>
+        <div class="desc">查詢峇里島各區域間的預估車資，含 GoCar / GoRide 切換、尖峰加成、禁區提醒</div>
+      </div>
+      <span class="arrow">›</span>
+    </a>
     {thematicMaps.map(area => (
       <a href={`/map/${area.slug}/`} class="map-card map-card-thematic">
         <span class="emoji">{area.emoji}</span>

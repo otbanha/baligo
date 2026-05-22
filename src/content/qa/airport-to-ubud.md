@@ -5,9 +5,9 @@ title_zh_cn: "机场到乌布要多久？"
 title_zh_hk: "機場去烏布要幾耐？"
 category: transport
 relatedLinks:
-- slug: blog/2024-06-05-665d6a8efd897800013337a9/
+- slug: blog/bali-airport-transfer-guide/
   label: 抵達峇里島第一天的接機交通建議
-- slug: blog/2024-10-28-671f108efd89780001d31e6e/
+- slug: blog/ubud-airport-transport-tips/
   label: 從烏布前往峇里島國際機場要多久? 如何準備，避免錯過航班
 - slug: go/ubud-guide
   label: 烏布100個吃喝玩樂推薦

@@ -1,0 +1,48 @@
+---
+slug: bali-mpox-screening-rules
+title: 'New Entry Requirements for Bali Visitors: Mandatory Mpox Screening'
+description: >-
+  Indonesia's Ministry of Health recently announced stricter screening
+  procedures in Bali and other areas due to the global rise in Mpox (formerly
+  known as monkeypox) cases. Mpox is a highly contagious virus, and everyone
+  needs to be extra cautious.
+pubDate: '2024-08-21'
+heroImage: 'https://images.gobaligo.id/vocus/vocus_c328f7f2d5a99e38cf35e456ab7c5b40.jpg'
+tags:
+  - 猴痘
+  - mpox
+  - 峇里島
+  - 峇里島新聞
+  - 峇里島猴痘
+originalUrl: 'https://vocus.cc/article/66c5f07efd8978000106373e'
+category:
+  - 旅行技巧
+lang: en
+_srcHash: ea5985a32524c824e223cb643f6b3b2c
+---
+
+### Indonesia's Ministry of Health recently announced stricter screening procedures in Bali and other areas due to the global rise in Mpox (formerly known as monkeypox) cases. Mpox is a highly contagious virus, and everyone needs to be extra cautious.
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_69c98b8211e806d7a145a78b20e10aca.jpg)
+
+On August 18, Acting Director General of the Ministry of Health, Yudhi Pramono, stated during a press conference that all foreign tourists entering Indonesia are now required to fill out a health questionnaire upon arrival. This questionnaire will inquire about their health status, recent contact history, and recent travel destinations.
+
+The Indonesian government hopes that this measure will help reduce the risk of an Mpox outbreak within the country.
+
+Pramono also explained, "We will collect data based on the origin countries of [incoming passengers]. If they feel unwell, we advise them not to continue their travels." He emphasized that Indonesia will remain highly vigilant against this virus and will take all necessary measures to ensure public safety.
+
+Additionally, Pramono reminded everyone that the incubation period for this virus can be as long as 34 days, so heightened vigilance is required at all entry points. Currently, the number of Mpox cases in Indonesia has decreased compared to last year, a positive trend the government aims to maintain.
+
+As of 2024, Indonesia has confirmed 14 Mpox cases and has 74 suspected cases. This is a significant drop compared to the same period in 2023, when there were 73 confirmed cases and 240 suspected cases reported.
+
+On August 14, World Health Organization (WHO) Director-General Dr. Tedros Adhanom Ghebreyesus declared the current Mpox outbreak a "Public Health Emergency of International Concern," urging countries to take appropriate measures to address the situation.
+
+Currently, the virus has spread beyond the African continent, with confirmed cases reported in Sweden and Pakistan.
+
+You can find more information about Mpox on the World Health Organization's website. If you've had skin-to-skin contact with an infected person or breathed in their breath during close contact, you could contract the virus. Additionally, touching items contaminated with the virus, such as bedding, clothing, or towels, may also lead to infection, as the virus can enter the body through the skin, respiratory tract, nose, mouth, and eyes.
+
+Currently, Indonesia has not introduced any additional preventive measures, and it remains unclear whether further actions will be taken in the coming days or weeks. If you're concerned that you may have been exposed to the virus or are already showing symptoms, you should seek medical attention immediately.
+
+Most people infected with Mpox do not require special treatment and only need simple supportive care, typically to alleviate flu-like symptoms and body aches. In severe cases, antiviral medications may be necessary, and vaccination can be administered before or after exposure to prevent the disease.
+
+▶[Instructions & Tutorial for Filling Out the "Indonesia Health Declaration Form"](/blog/2024-08-30-66d109f9fd89780001f47806/)

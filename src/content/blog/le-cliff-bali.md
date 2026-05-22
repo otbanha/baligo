@@ -1,6 +1,7 @@
 ---
-title: 【烏魯瓦圖住宿】Le Cliff Bali 全攻略：烏魯瓦圖懸崖海景第一排、聽著海浪入睡的極致浪漫
-description: 尋找峇里島最震撼的海景房？開箱位於烏魯瓦圖懸崖上的 Le Cliff Bali。解析這座精品旅店如何實現「床上看夕陽」的夢想，直通 Padang Padang 衝浪沙灘的絕佳位置。本篇分享 2026 最新房型挑選建議與入住注意事項（如階梯挑戰、行李搬運），帶您在印度洋的懸崖邊，開啟一場感官全開的療癒假期。
+slug: 'le-cliff-bali-uluwatu'
+title: "Le Cliff Bali｜烏魯瓦圖懸崖海景第一排 浪漫蜜月 Villa 推薦 2026 - Go Bali Go"
+description: "在烏魯瓦圖懸崖邊聽著海浪入睡！Le Cliff Bali 以絕美懸崖海景、私人泳池與極致隱私感聞名，是峇里島最浪漫的蜜月 Villa 之一。詳解入住體驗、設施亮點與最佳預訂時機，烏魯瓦圖完美渡假規劃指南。"
 pubDate: 2026-04-16
 pubHour: 18
 category:
@@ -21,6 +22,11 @@ originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+agoda_hotel_id: 6383164
+agoda_hotel_name: "巴厘島懸崖旅館"
+agoda_star_rating: 4.5
+latitude: -8.810282707214355
+longitude: 115.1052017211914
 ---
 
 峇里島烏魯瓦圖有很多面海的飯店，但能讓你字面意義上「住在懸崖岸邊上」的，大概只有這一間。

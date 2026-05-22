@@ -1,0 +1,419 @@
+---
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import TopStrip from '../../../components/TopStrip.astro';
+import Footer from '../../../components/Footer.astro';
+import ChatBot from '../../../components/ChatBot.astro';
+import { getCollection } from 'astro:content';
+
+export async function getStaticPaths() {
+  // 只產生有獨立 SEO 需求的分類靜態頁面
+  return [
+    { params: { cat: '新手指南' } },
+  ];
+}
+
+const { cat } = Astro.params;
+
+function extractFirstImage(body: string): string {
+  const m = body?.match(/!\[.*?\]\((https?:\/\/[^)\s]+)\)/);
+  return m ? m[1] : '';
+}
+
+function getPublishTime(p: any): Date {
+  const d = new Date(p.data.pubDate);
+  if (p.data.pubHour != null) {
+    d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
+  }
+  return d;
+}
+
+const now = new Date();
+const isPublished = (p: any) => p.data.pubDate && !p.data.private && getPublishTime(p) <= now;
+
+const getCategories = (c: any): string[] => {
+  if (!c) return [];
+  if (Array.isArray(c)) return c;
+  if (typeof c === 'string') return [c];
+  return [];
+};
+
+const allPosts = (await getCollection('blog'))
+  .filter(isPublished)
+  .filter(p => getCategories(p.data.category).includes(cat))
+  .map(p => ({
+    ...p,
+    data: {
+      ...p.data,
+      heroImage: p.data.heroImage || extractFirstImage(p.body),
+    }
+  }))
+  .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf());
+
+// 分類設定（可擴展到其他分類）
+const CAT_CONFIG: Record<string, {
+  title: string;
+  description: string;
+  ogDescription: string;
+  groups: { emoji: string; name: string; slugs: string[] }[];
+  pillarSlug: string;
+  pillarText: string;
+  pillarDesc: string;
+  introHtml: string;
+}> = {
+  '新手指南': {
+    title: '峇里島新手指南 2026｜25篇必看行前攻略 - Go Bali Go',
+    description: '第一次去峇里島？完整收錄簽證、換匯、住宿、交通、禁忌等25篇深度攻略。新手不踩雷的峇里島自由行寶典，2026最新版資訊一次看。',
+    ogDescription: '第一次去峇里島？完整收錄簽證、換匯、住宿、交通、禁忌等25篇深度攻略。2026最新版資訊。',
+    pillarSlug: 'bali-ultimate-guide-2026',
+    pillarText: '讀「2026 峇里島自由行終極指南」→',
+    pillarDesc: '26 項行前準備、現地實用知識、真實踩雷經驗與省錢技巧全收錄。一篇看完，新手變老手。',
+    introHtml: '第一次去峇里島，你可能會問：簽證怎麼辦？現金帶多少？住哪一區最安全？會不會被詐騙？這裡集結了所有新手最常見的疑問，從出發前 2 個月的準備清單，到抵達後的第一天懶人包。不管你在<strong>水明漾</strong>喝椰子看夕陽、在<strong>烏布</strong>找隱藏瀑布，還是在<strong>長谷</strong>（Canggu）跟衝浪客混在一起，這份<strong>峇里島新手指南</strong>都是你的後盾。',
+    groups: [
+      {
+        emoji: '🛂', name: '簽證與入境',
+        slugs: ['bali-all-indonesia-arrival-guide', 'bali-travel-guide-2026'],
+      },
+      {
+        emoji: '💰', name: '行前準備',
+        slugs: ['first-time-bali-travel-tips', 'bali-travel-insurance-guide', 'bali-currency-exchange-guide', '2026-bali-indoor-activities'],
+      },
+      {
+        emoji: '📱', name: '網路與通訊',
+        slugs: ['bali-sim-card-esim-guide'],
+      },
+      {
+        emoji: '🗺️', name: '行程規劃',
+        slugs: ['2026-bali-trip-planning-guide', 'bali-independent-travel-guide', 'bali-weather-festivals-2026', 'bali-accommodation-area-guide', 'bali-hidden-gems-travel-formula', 'bali-snorkeling-spots', 'bali-top-50-outdoor-activities', 'seminyak-day-trip-guide'],
+      },
+      {
+        emoji: '🚖', name: '交通方式',
+        slugs: ['bali-private-car-hire-guide', 'ubud-airport-transport-tips', 'bali-transport-quiz'],
+      },
+      {
+        emoji: '⚠️', name: '安全與禁忌',
+        slugs: ['bali-travel-mistakes-tips', 'bali-money-exchange-scams', 'bali-motorbike-safety-guide'],
+      },
+      {
+        emoji: '💡', name: '生活技巧',
+        slugs: ['bali-travel-faqs-guide', 'bali-water-filter-tips', 'bali-tipping-guide-driver-spa'],
+      },
+    ],
+  },
+};
+
+const config = CAT_CONFIG[cat];
+const postMap = new Map(allPosts.map(p => [p.data.slug || p.id, p]));
+
+// ItemList schema（精選 10 篇）
+const top10Slugs = [
+  'bali-ultimate-guide-2026',
+  'first-time-bali-travel-tips',
+  'bali-all-indonesia-arrival-guide',
+  'bali-currency-exchange-guide',
+  'bali-sim-card-esim-guide',
+  'bali-private-car-hire-guide',
+  'bali-travel-mistakes-tips',
+  'bali-money-exchange-scams',
+  'bali-travel-faqs-guide',
+  'bali-travel-guide-2026',
+];
+
+const canonicalUrl = `https://gobaligo.id/blog/category/${encodeURIComponent(cat)}/`;
+
+const itemListSchema = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": `峇里島${cat}精選攻略`,
+  "url": canonicalUrl,
+  "numberOfItems": Math.min(allPosts.length, 10),
+  "itemListElement": top10Slugs.map((slug, i) => {
+    const p = postMap.get(slug) || allPosts.find(p => p.id === slug);
+    return {
+      "@type": "ListItem",
+      "position": i + 1,
+      "name": p?.data.title ?? slug,
+      "url": `https://gobaligo.id/blog/${p?.data.slug || p?.id || slug}/`,
+    };
+  }).filter(item => item.name !== item.url.split('/').at(-2)),
+};
+
+const collectionPageSchema = {
+  "@context": "https://schema.org",
+  "@type": "CollectionPage",
+  "@id": `${canonicalUrl}#collection`,
+  "name": `峇里島${cat}`,
+  "description": config.description,
+  "url": canonicalUrl,
+  "inLanguage": "zh-TW",
+  "numberOfItems": allPosts.length,
+  "about": {
+    "@type": "Place",
+    "name": "Bali",
+    "address": { "@type": "PostalAddress", "addressCountry": "ID", "addressRegion": "Bali" }
+  },
+  "publisher": { "@type": "Organization", "@id": "https://gobaligo.id/#organization" },
+  "breadcrumb": {
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "首頁", "item": "https://gobaligo.id/blog/" },
+      { "@type": "ListItem", "position": 2, "name": cat, "item": canonicalUrl }
+    ]
+  }
+};
+---
+
+<!doctype html>
+<html lang="zh-TW">
+<head>
+  <BaseHead title={config.title} description={config.description} noSuffix={true} />
+  <link rel="canonical" href={canonicalUrl} />
+  <link rel="alternate" hreflang="x-default" href={canonicalUrl} />
+  <link rel="alternate" hreflang="zh-TW" href={canonicalUrl} />
+  <link rel="alternate" hreflang="zh-HK" href={`https://gobaligo.id/zh-hk/blog/?cat=${encodeURIComponent(cat)}`} />
+  <link rel="alternate" hreflang="zh-CN" href={`https://gobaligo.id/zh-cn/blog/?cat=${encodeURIComponent(cat)}`} />
+  <link rel="alternate" hreflang="en" href="https://gobaligo.id/en/blog/?cat=beginner-guide" />
+  <meta property="og:title" content={config.title} />
+  <meta property="og:description" content={config.ogDescription} />
+  <meta property="og:url" content={canonicalUrl} />
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content="zh_TW" />
+  <script type="application/ld+json" set:html={JSON.stringify(collectionPageSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(itemListSchema)} />
+</head>
+<body>
+  <Header />
+  <TopStrip lang="zh-tw" />
+
+  <div class="cat-page-layout">
+    <main class="cat-page-main">
+
+      <!-- 麵包屑 -->
+      <nav class="breadcrumb" aria-label="breadcrumb">
+        <a href="/blog/">首頁</a>
+        <span class="bc-sep">›</span>
+        <span>{cat}</span>
+      </nav>
+
+      <!-- 頁面標題 -->
+      <h1 class="cat-page-h1">峇里島{cat}｜{allPosts.length} 篇完整攻略</h1>
+
+      <!-- Pillar Page 推薦卡片 -->
+      <div class="pillar-recommendation-card">
+        <div class="pillar-card-inner">
+          <div class="pillar-card-icon">🎯</div>
+          <div class="pillar-card-right">
+            <p class="pillar-card-eyebrow">新手必讀 · 終極指南</p>
+            <h2 class="pillar-card-title">第一次去峇里島？從這裡開始</h2>
+            <p class="pillar-card-desc" set:html={config.pillarDesc} />
+            <a href={`/blog/${config.pillarSlug}/`} class="pillar-card-cta">
+              {config.pillarText}
+            </a>
+          </div>
+        </div>
+      </div>
+
+      <!-- 分類介紹文 -->
+      <div class="cat-intro">
+        <p set:html={config.introHtml} />
+      </div>
+
+      <!-- H2 主題分組 -->
+      {config.groups.map(group => {
+        const groupPosts = group.slugs
+          .map(s => postMap.get(s) || allPosts.find(p => p.id === s))
+          .filter(Boolean);
+        if (groupPosts.length === 0) return null;
+        return (
+          <section class="cat-group">
+            <h2 class="cat-group-title">{group.emoji} {group.name}</h2>
+            <ul class="cat-group-list">
+              {groupPosts.map(p => (
+                <li>
+                  <a href={`/blog/${p.data.slug || p.id}/`} class="cat-article-link">
+                    {p.data.heroImage && (
+                      <img class="cat-article-thumb" src={p.data.heroImage} alt={p.data.title} loading="lazy" />
+                    )}
+                    <div class="cat-article-text">
+                      <span class="cat-article-title">{p.data.title}</span>
+                      {p.data.description && (
+                        <span class="cat-article-desc">{p.data.description}</span>
+                      )}
+                    </div>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        );
+      })}
+
+      <!-- 相關資源 -->
+      <section class="cat-related-resources">
+        <h2 class="cat-group-title">📚 新手必看相關工具</h2>
+        <ul class="cat-group-list cat-resources-list">
+          <li><a href="/trip-planner/" class="cat-article-link cat-resource-item">🗺️ <strong>峇里島行程規劃工具</strong> — 5分鐘產生個人化分區推薦</a></li>
+          <li><a href="/bali-budget-calculator/" class="cat-article-link cat-resource-item">💰 <strong>峇里島預算計算機</strong> — 估算 5/7/10 天需要多少預算</a></li>
+          <li><a href="/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6" class="cat-article-link cat-resource-item">🏨 <strong>峇里島住宿推薦系列</strong> — 全島最完整住宿精選</a></li>
+          <li><a href="/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5" class="cat-article-link cat-resource-item">📍 <strong>峇里島分區攻略系列</strong> — 庫塔、水明漾、烏布、長谷全攻略</a></li>
+        </ul>
+      </section>
+
+      <!-- 返回分類頁 -->
+      <div class="cat-back-link">
+        <a href="/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97">← 在分類頁瀏覽所有{cat}文章（含搜尋與篩選）</a>
+      </div>
+
+    </main>
+  </div>
+
+  <ChatBot />
+  <Footer />
+</body>
+</html>
+
+<style>
+  .cat-page-layout {
+    max-width: 860px;
+    margin: 0 auto;
+    padding: 1.5em 1.2em 3em;
+  }
+
+  .cat-page-main { width: 100%; }
+
+  .breadcrumb {
+    font-size: 0.85em;
+    color: #888;
+    margin-bottom: 1em;
+  }
+  .breadcrumb a { color: var(--ocean, #0a3d6b); text-decoration: none; }
+  .breadcrumb a:hover { text-decoration: underline; }
+  .bc-sep { margin: 0 0.4em; }
+
+  .cat-page-h1 {
+    font-size: 1.9em;
+    font-weight: 900;
+    color: var(--ocean, #0a3d6b);
+    margin: 0 0 1.2em;
+    line-height: 1.25;
+    border-left: 5px solid var(--gold, #c5a059);
+    padding-left: 0.5em;
+  }
+
+  /* Pillar card */
+  .pillar-recommendation-card {
+    margin: 0 0 2em;
+    border-radius: 14px;
+    background: linear-gradient(135deg, #e8f4f0 0%, #dceef8 100%);
+    border: 1.5px solid rgba(32, 120, 100, 0.18);
+    box-shadow: 0 2px 16px rgba(10, 22, 40, 0.07);
+    overflow: hidden;
+    transition: box-shadow 0.2s, transform 0.2s;
+  }
+  .pillar-recommendation-card:hover { box-shadow: 0 6px 24px rgba(10,22,40,0.13); transform: translateY(-2px); }
+  .pillar-card-inner { display: flex; align-items: center; gap: 1.2em; padding: 1.4em 1.6em; }
+  .pillar-card-icon { font-size: 2.4em; line-height: 1; flex-shrink: 0; }
+  .pillar-card-right { flex: 1; }
+  .pillar-card-eyebrow { font-size: 0.75em; font-weight: 700; letter-spacing: 0.08em; color: #2a7a60; text-transform: uppercase; margin: 0 0 0.3em; }
+  .pillar-card-title { font-size: 1.05em; font-weight: 800; color: #0a1628; margin: 0 0 0.45em; line-height: 1.35; }
+  .pillar-card-desc { font-size: 0.87em; color: #3a4a5a; margin: 0 0 0.9em; line-height: 1.55; }
+  .pillar-card-cta { display: inline-block; background: #1a6b4a; color: #fff; font-size: 0.88em; font-weight: 700; padding: 0.5em 1.1em; border-radius: 8px; text-decoration: none; transition: background 0.2s; }
+  .pillar-card-cta:hover { background: #155c3e; text-decoration: none; }
+
+  /* Intro */
+  .cat-intro {
+    margin-bottom: 2em;
+    font-size: 0.97em;
+    line-height: 1.78;
+    color: #3a4a5a;
+  }
+
+  /* Groups */
+  .cat-group { margin-bottom: 2.4em; }
+
+  .cat-group-title {
+    font-size: 1.05em;
+    font-weight: 700;
+    color: var(--ocean, #0a3d6b);
+    margin: 0 0 0.75em;
+    padding-bottom: 0.4em;
+    border-bottom: 2px solid rgba(197, 160, 89, 0.3);
+  }
+
+  .cat-group-list { list-style: none; margin: 0; padding: 0; }
+
+  .cat-article-link {
+    display: flex;
+    align-items: center;
+    gap: 0.8em;
+    padding: 0.65em 0.5em;
+    border-bottom: 1px solid rgba(197, 160, 89, 0.12);
+    text-decoration: none;
+    transition: background 0.15s;
+    border-radius: 4px;
+  }
+  .cat-article-link:hover { background: rgba(197, 160, 89, 0.07); }
+
+  .cat-article-thumb {
+    width: 60px;
+    height: 45px;
+    object-fit: cover;
+    border-radius: 6px;
+    flex-shrink: 0;
+  }
+
+  .cat-article-text { display: flex; flex-direction: column; gap: 0.2em; }
+
+  .cat-article-title {
+    font-size: 0.92em;
+    font-weight: 600;
+    color: var(--ocean, #0a3d6b);
+    line-height: 1.4;
+  }
+
+  .cat-article-desc {
+    font-size: 0.8em;
+    color: #666;
+    line-height: 1.4;
+    display: -webkit-box;
+    -webkit-line-clamp: 1;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+
+  /* Related resources */
+  .cat-related-resources {
+    margin-top: 2em;
+    padding: 1.4em 1.6em;
+    background: #f8f4ec;
+    border-radius: 12px;
+    border: 1px solid rgba(197, 160, 89, 0.25);
+  }
+
+  .cat-resources-list .cat-article-link {
+    border-bottom: 1px solid rgba(197, 160, 89, 0.1);
+    font-size: 0.9em;
+    color: var(--ocean, #0a3d6b);
+  }
+  .cat-resource-item { padding: 0.55em 0.3em; }
+
+  /* Back link */
+  .cat-back-link {
+    margin-top: 2.5em;
+    text-align: center;
+  }
+  .cat-back-link a {
+    font-size: 0.9em;
+    color: var(--ocean, #0a3d6b);
+    text-decoration: none;
+    border-bottom: 1px dashed rgba(10, 61, 107, 0.3);
+    padding-bottom: 2px;
+  }
+  .cat-back-link a:hover { border-bottom-style: solid; }
+
+  @media (max-width: 600px) {
+    .cat-page-h1 { font-size: 1.4em; }
+    .pillar-card-inner { flex-direction: column; gap: 0.8em; padding: 1.1em 1.2em; }
+    .cat-article-thumb { width: 50px; height: 38px; }
+  }
+</style>

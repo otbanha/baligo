@@ -241,6 +241,20 @@ const { area } = Astro.props;
     scrollbar-width: none; pointer-events: all;
   }
   #cat-pills::-webkit-scrollbar { display: none; }
+
+  /* Desktop: show scrollbar so users know it's scrollable */
+  @media (hover: hover) {
+    #cat-bar { bottom: 68px; }
+    #cat-pills {
+      scrollbar-width: thin;
+      scrollbar-color: rgba(0,0,0,0.2) transparent;
+      padding-bottom: 6px;
+    }
+    #cat-pills::-webkit-scrollbar { display: block; height: 4px; }
+    #cat-pills::-webkit-scrollbar-track { background: transparent; }
+    #cat-pills::-webkit-scrollbar-thumb { background: rgba(0,0,0,0.2); border-radius: 2px; }
+    #cat-pills::-webkit-scrollbar-thumb:hover { background: rgba(0,0,0,0.4); }
+  }
   :global(.cat-pill) {
     display: flex; align-items: center; gap: 4px;
     background: #fff; border: 1.5px solid #e8e8e8;

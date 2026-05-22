@@ -7,9 +7,9 @@ category: transport
 relatedLinks:
 - slug: go/bali-drivers-reviews
   label: 包車司機名人榜
-- slug: blog/2024-12-24-676a2ccefd89780001962994/
+- slug: blog/bali-private-driver-recommendation/
   label: Gede 的優秀團隊
-- slug: blog/2024-01-29-65b75c45fd897800019130ff/
+- slug: blog/bali-chinese-tour-guide/
   label: Klook中文司機
 featured: false
 pubDate: 2026-04-26
