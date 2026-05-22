@@ -25,13 +25,6 @@ jobs:
       - name: 安裝 Python 依賴
         run: pip install requests
 
-      - name: 還原話題歷史快取
-        uses: actions/cache@v4
-        with:
-          path: scripts/topics-history.json
-          key: topics-history-persistent
-          save-always: true
-
       - name: 生成今日旅遊情報
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
