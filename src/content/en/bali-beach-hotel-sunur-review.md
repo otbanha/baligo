@@ -25,7 +25,7 @@ agoda_star_rating: 5
 latitude: -8.67703628540039
 longitude: 115.2631607055664
 lang: en
-_srcHash: f8ddea824d427151976e3110553c0ebb
+_srcHash: 4487e13696392f4d2c1e69236d39cddb
 ---
 
 Experience at the newly opened 5-star Bali Beach Hotel in Sanur! For just around USD$130 (low season rate), you can stay in a genuine front-row ocean view room right on Sanur Beach. What's more, the location is strategically perfect, catering to both tourism and medical needs!

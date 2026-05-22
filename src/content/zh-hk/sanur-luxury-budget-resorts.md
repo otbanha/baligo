@@ -36,7 +36,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1dc5937d167ac366de84aa8ea3cc0baa.jpg'
 originalUrl: 'https://vocus.cc/article/66c3e440fd897800014425a8'
 lang: zh-hk
-_srcHash: 690da9f5e47b7bac60c54909d1f3b89f
+_srcHash: da692e64a27e2d32418634c4084973d3
 ---
 
 大多數沙努爾酒店位於熱鬧嘅市中心附近或者沙努爾長達8公里嘅美麗海灘上。安靜、悠閒嘅小鎮、實惠嘅酒店價格以及優秀嘅海灘令沙努爾成為峇里島上最適合家庭同經濟型旅行者嘅住宿選擇之一。

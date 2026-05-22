@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8dd21451aed86b29640329df0b851953.jpg'
 originalUrl: 'https://vocus.cc/article/68c032e6fd89780001b54489'
 lang: en
-_srcHash: b1c89c35b9ddafaefbc1b70c996a01ab
+_srcHash: da2931ee528bb21bf4befb76ffb5b6ef
 ---
 
 > The following content is adapted from fellow traveler [Lin Jinsheng's](https://www.facebook.com/share/p/16zBggKw15/) shared travelogue:

@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_843eeccac53f5cb6e06a4002edc1802d.png'
 originalUrl: 'https://vocus.cc/article/66321a0ffd89780001f04f86'
 lang: en
-_srcHash: ecbadfcb7a599dd8e4861e49b65f3581
+_srcHash: f24c56046b50332bb09113f335fa4bbf
 ---
 
 "[Hea Travel Food](https://www.youtube.com/@hea_travel)" is a YouTuber from Hong Kong who frequently shares food and travel videos on her channel. This time, she visited Bali, Indonesia, bringing us an exciting 5-day travel guide.

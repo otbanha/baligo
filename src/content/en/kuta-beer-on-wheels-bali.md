@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_aa77bb3f2f0ffee906fdccf34ddbdbcc.jpg'
 originalUrl: 'https://vocus.cc/article/67d4f8e0fd897800017aca0f'
 lang: en
-_srcHash: 0999ef175f0abcee630fb394c52a205c
+_srcHash: b2c2087fd68d6c0c2af0d9874e5014b9
 ---
 
 Looking for a unique way to enjoy Bali? Don’t miss out on **Beer on Wheels Bali**! This one-of-a-kind experience brings the bar to the streets of Kuta and Legian, letting you sip on ice-cold beer while soaking up the music and party vibes. Whether you’re with friends, family, or traveling solo, this 2-hour beer bus tour will make you fall in love with Bali’s energy and warmth! When abroad, let loose and have fun!

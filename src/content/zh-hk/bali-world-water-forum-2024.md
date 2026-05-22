@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/660cf362fd89780001da676b'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 9807432481970dd0386e7d6e62977adf
+_srcHash: 547dc1f0ffba5963c85b09ba3e9ff1a8
 ---
 
 一個超大型嘅國際會議「世界水論壇 (World Water Forum)」將會喺2024年5月喺峇里島舉行。會議預計會有44位國家元首同佢哋嘅代表團嚟到，總共有五萬幾名代表出席，討論同水資源相關嘅各種議題，包括水安全、減災、治理、融資同創新等。

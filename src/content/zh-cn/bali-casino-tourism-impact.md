@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66adee4bfd89780001f50309'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: b942dcd1778c15ebf7d32407bc011a9d
+_srcHash: 577a3b081f781809a6a322a9bc39b5ba
 ---
 
 巴厘岛，这个印尼最著名的旅游胜地，可能很快就会迎来一个全新的旅游景点——赌场。这一消息无疑震惊了许多人，因为在印尼，赌博几乎在所有形式上都是非法的。然而，这一计划的提出者认为，赌场有可能为巴厘岛的旅游业注入新的活力。

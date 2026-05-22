@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/687c40eafd897800012a1410'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: a78c6315eb7da6df0b5dc685b1647698
+_srcHash: 60d14a55e471e1620b4c5fb20b22aaf6
 ---
 
 > 以下內容改編自團友 [Chen Cheng](https://www.facebook.com/share/p/1JiRwHMMH1/) 分享遊記：  

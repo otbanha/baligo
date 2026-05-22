@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9ef327186d7f893afa30a3c683286a04.png'
 originalUrl: 'https://vocus.cc/article/6638e732fd89780001565d48'
 lang: zh-cn
-_srcHash: 76ff8c8d132c683e2ed3dece9d4e042a
+_srcHash: 5cb6712de11cea704cee451064c4ac14
 ---
 
 团友James Lin一家最近去了一趟巴厘岛。他们事先在网上办理了电子签证。抵达巴厘岛机场后，他们在自动通关区快速通关，只花了5分钟就办理好入境手续。

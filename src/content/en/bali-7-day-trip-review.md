@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/668a065ffd897800018d4630'
 category:
   - 遊記分享
 lang: en
-_srcHash: e893e7ca182f3190419ef7d53f967914
+_srcHash: 0ddf4a68e5f8d2abff7ef2d34dc4e612
 ---
 
 > The following content was provided by fellow traveler [Pan Yi-Xun](https://www.facebook.com/share/p/axuYs6T1uaWoBsXp/?mibextid=A7sQZp)

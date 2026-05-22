@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2226fb7d129f989dbd4d56d9c73a50e0.jpg'
 originalUrl: 'https://vocus.cc/article/6634d110fd897800012a9d6b'
 lang: zh-hk
-_srcHash: 4d8d5b2edb0d856359de9278ca956c54
+_srcHash: 7425567195aa3f11a29b5e60dbf76746
 ---
 峇里島呢片熱帶天堂入面，交通方式嘅選擇成為好多遊客關注嘅焦點之一。對於想喺峇里島放鬆閒逛嘅遊客嚟講，點樣選擇最適合嘅交通方式成為一個重要問題。
 

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66c0ba76fd89780001527eed'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: a006665e6b844b87eff3a444875fc181
+_srcHash: 92d09a61188ef32970d43d402d8fa784
 ---
 
 > 以下內容由團友 [​Oscar Lin](https://www.facebook.com/share/p/4Eev2drzrfF5SKtc/) 提供，並同意我哋改編

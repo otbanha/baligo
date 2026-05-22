@@ -15,7 +15,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-hk
-_srcHash: cf5594d425ef20c8d7d0ed6ba694a565
+_srcHash: c7d84eecdd22bb5004dcfb09c03047ae
 ---
 以下係關於2025年喺峇里島慶祝農曆新年嘅活動資訊整理，如果您同屋企人喺農曆新年期間到訪峇里島，亦可以喺異國感受新年嘅氣氛㗎！
 

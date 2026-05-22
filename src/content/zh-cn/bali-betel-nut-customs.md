@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_dd76f1e8177a1813dc222d3266ae811b.jpg'
 originalUrl: 'https://vocus.cc/article/661e7b1ffd89780001f1da05'
 lang: zh-cn
-_srcHash: 1183c3b0db024a22133788f74f017f4a
+_srcHash: c4e27be38e95b5b2bd38978191a393d0
 ---
 
 槟榔是台湾常见的零食，许多人都有嚼槟榔的习惯。不过，槟榔在许多国家都被视为毒品或违禁品，因此携带槟榔出国需特别注意。

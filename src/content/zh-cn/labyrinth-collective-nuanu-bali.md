@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/67a2369cfd897800012db961'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 9833c629ebab8784b7f4f1d8e4e330ce
+_srcHash: 6d220be1551ac29b5dc062946429f586
 ---
 
 巴厘岛的创意与文化发展再添新亮点！位于 Nuanu Creative City 的 **Labyrinth Collective**，是一个融合艺术、科技与可持续发展的创新空间，为旅人带来独特的沉浸式体验与创作环境。从 **沉浸式圆顶剧场** 到 **音乐工作室**、**创客空间**，这里提供一个将艺术、声音与创意转化为现实的舞台。

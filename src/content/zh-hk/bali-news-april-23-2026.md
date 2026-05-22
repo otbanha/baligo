@@ -15,7 +15,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 44146216942fd025a113772c15e2c60e
+_srcHash: 8ee89b3e5bcd7515a29fefc1fe6f838b
 ---
 
 【今早美金匯率：16,750】

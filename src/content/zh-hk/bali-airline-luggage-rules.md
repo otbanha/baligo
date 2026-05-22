@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65b62204fd89780001edda35'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: ed118942fb4f29d2ce0268cd14817cb6
+_srcHash: 3984a84770f061696b15b188fd70ec4d
 ---
 
 飛往峇里島嘅旅程，係一段充滿夢幻同奇蹟嘅體驗，而對於好多旅客嚟講，機上行李嘅限制常常係旅程中嘅一大考驗。為咗確保航空安全、提供更好嘅服務，飛峇里島嘅航空公司均設定咗一系列嘅行李限制，讓旅客喺出行前能有所準備。

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65b6e533fd89780001f51eaf'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 27ed4c8f6afccd88796f66049338f188
+_srcHash: edbfe3b4962ccc1acc1b3ae66696e20e
 ---
 
 如果你去峇里島，千祈唔好錯過峇里島嘅卡恰火舞表演！呢個係會令你終身難忘嘅精彩表演嚟㗎！

@@ -41,7 +41,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b8258610da76c0bfcef4b88efa16f7b1.jpg'
 originalUrl: 'https://vocus.cc/article/67205cb1fd89780001ee1413'
 lang: en
-_srcHash: 2e53f2b7984846c3b03eb59579c686f6
+_srcHash: 9872efc38949d65ffafab658e0769df8
 ---
 
 Situated southeast of Bali, the islands of Nusa Lembongan and Nusa Ceningan provide a serene haven away from the crowds and noise of Bali. These enchanting islands are renowned for their relaxed atmosphere, rich marine life, and stunning natural landscapes. 🐡🌴☀️ The peaceful ambiance of the islands is truly captivating, and some may particularly enjoy the uncrowded and laid-back surfing spots here.

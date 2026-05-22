@@ -36,7 +36,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1dc5937d167ac366de84aa8ea3cc0baa.jpg'
 originalUrl: 'https://vocus.cc/article/66c3e440fd897800014425a8'
 lang: zh-cn
-_srcHash: 690da9f5e47b7bac60c54909d1f3b89f
+_srcHash: da692e64a27e2d32418634c4084973d3
 ---
 
 大多数沙努尔酒店位于热闹的市中心附近或沙努尔长达8公里的美丽海滩上。安静、悠闲的小镇、实惠的酒店价格以及优秀的海滩使沙努尔成为巴厘岛上最适合家庭和经济型旅行者的住宿选择之一。

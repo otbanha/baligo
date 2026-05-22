@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c4ccb85aed4e875424812c7fbb5670da.jpg'
 originalUrl: 'https://vocus.cc/article/64e8910efd89780001248a09'
 lang: zh-cn
-_srcHash: 5ec327945d16719baf6c3787d128cbc0
+_srcHash: 8845dc32b1c932b92ddf20ff76169d78
 ---
 
 巴厘岛，这个拥有美丽海滩、浓厚文化和宁静氛围的热门旅游胜地，吸引着无数的游客。然而，随着远程工作的兴起，越来越多人希望能够在这片天堂般的地方同时度假和工作。幸运的是，巴厘岛提供了一些选项，让您可以在此度过美好时光，同时保持工作效率。

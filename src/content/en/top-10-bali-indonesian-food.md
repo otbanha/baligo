@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/681ed810fd89780001472eb1'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 199a9bbe2c8bfe9f51ba0821c6bf5e11
+_srcHash: feb884a72198a20b385c7452abb8120c
 ---
 As the most dazzling gem among Indonesia's 17,000 islands, Bali not only boasts stunning seascapes but also hides a surprising culinary universe. The cuisine here boldly uses dozens of spices like turmeric, lemongrass, and chili, paired with unique slow-roasting techniques, creating richly layered Southeast Asian flavors. Follow this food map and embark on your taste adventure!
 

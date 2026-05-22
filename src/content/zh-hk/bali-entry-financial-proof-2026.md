@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7a78f011275d20f15cdca6f46448e958.png'
 originalUrl: 'https://vocus.cc/article/69a10819fd897800019c4849'
 lang: zh-hk
-_srcHash: 41245ac7b3943a84589e71b4297a8510
+_srcHash: 0ee74ad1409fe69290ad250ba87e2238
 ---
 
 2026 年峇里島「高品質旅遊」政策解析：3 月起財力證明與行程查核新制

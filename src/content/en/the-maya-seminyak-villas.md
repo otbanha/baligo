@@ -35,7 +35,7 @@ agoda_star_rating: 4
 latitude: -8.683812
 longitude: 115.15951
 lang: en
-_srcHash: af4e78f4f5bdc6373ad49b7c56390602
+_srcHash: 4964e5d72bd1b5cfaa28c134a2e8b71d
 ---
 If you're traveling to Bali and want to stay in a private pool villa without venturing to remote areas, The Maya Seminyak Villas (also known as Maya Sayang Seminyak) is a great option. Hidden right next to Seminyak's bustling Eat Street (Kayu Aya Street), it's just a few minutes' walk to restaurants and shopping malls, yet once you enter the villa gates, it's immediately quiet, unlike being in the city center. The property has only 11 villas, making it small-scale and highly private.
 

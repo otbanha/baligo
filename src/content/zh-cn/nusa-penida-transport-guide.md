@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_871007f68aa82d156cf7a63901dd9245.png'
 originalUrl: 'https://vocus.cc/article/65a5e069fd897800010625d0'
 lang: zh-cn
-_srcHash: ac3eee2e707441ccd8eb82907bcf2d30
+_srcHash: 9e8a5434adc57c65137ede9168c4950f
 ---
 
 [🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)

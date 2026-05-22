@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e02b5d929f4c6b0aa444d358d8267022.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b72fd897800013a948b'
 lang: zh-hk
-_srcHash: 13fc910234dd5861fd0634e301537ef7
+_srcHash: f0e80740d0713ce4c723671b70fd3534
 ---
 
 呢一集小傑帶你哋去猴子森林、烏布皇宮、烏布市場睇吓而家嘅情況。我哋喺烏布餐廳嘅發呆亭（Bale Udang）食午餐，然後就離開烏布喇！

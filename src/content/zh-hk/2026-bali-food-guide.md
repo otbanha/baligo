@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_40beff859947516744ace348624bbaba.jpg'
 originalUrl: 'https://vocus.cc/article/693aaf9dfd897800013bfe3f'
 lang: zh-hk
-_srcHash: a172295f18de585e63f8c9ce75ae3116
+_srcHash: 63e1dcab09a4befa1f4e9cdf0c81ccc8
 ---
 
 峇里島唔單止有迷人嘅海灘同豐富嘅文化，仲係美食愛好者嘅天堂！今次要帶大家深入了解峇里島最具代表性嘅10道必食美食，由傳統主菜到街頭小食，每一道都充滿咗印尼獨特嘅香料風味。

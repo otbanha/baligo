@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_450b43c94fd0f97234ac5adee8b3a41c.jpg'
 originalUrl: 'https://vocus.cc/article/66670c4afd897800019dcac7'
 lang: zh-hk
-_srcHash: 9f3784da78acb0515582aae8fdaaa6aa
+_srcHash: 08f551bfa5a67519ba0b9515706bda78
 ---
 
 近日，一名嚟自我哋Facebook群組嘅團友Poon分享咗佢喺峇里島嘅旅遊經歷，強調咗旅遊安全嘅重要性，尤其係揸電單車時嘅風險。佢提醒其他旅客，喺峇里島玩嘅時候一定要特別注意安全。

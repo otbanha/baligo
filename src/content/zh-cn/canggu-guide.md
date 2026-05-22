@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ec95b2ef12d730465f3dfa13b07341f6.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b7efd897800013a9815'
 lang: zh-cn
-_srcHash: c516b77cc2b3a1c0b4e501ff7f253a00
+_srcHash: 5e59d3fa1309e1561ce1780e7b730ede
 ---
 
 ### 巴厘岛坎古旅游攻略

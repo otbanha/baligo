@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/694a1000fd897800015461ec'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 96cae5f350af7e5fce7fb55088aa5e4e
+_srcHash: 9788af23f10551b91b89602435092d96
 ---
 
 **Times are changing, and Bali's tourism model is evolving too.**

@@ -34,7 +34,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_72df3918142bccfea8b19414e6ee33a4.jpg'
 originalUrl: 'https://vocus.cc/article/662e156bfd8978000130c73c'
 lang: zh-cn
-_srcHash: 63f5ea430f042abc93f0f48dff2d32e4
+_srcHash: fa0ab103cdbd67494cf07a17f042b273
 ---
 
 巴厘岛是著名的度假胜地，以其美丽的海滩、热情好客的人民和丰富的文化而闻名。近年来，巴厘岛也成为家庭旅游的热门目的地，越来越多家庭选择到巴厘岛度假。

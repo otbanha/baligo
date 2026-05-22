@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_59dd74c824c1b08c87059ea0d45e3f93.jpg'
 originalUrl: 'https://vocus.cc/article/68785bf9fd89780001822053'
 lang: zh-hk
-_srcHash: 7d6fdc20c6c89068f325a80f6cc36446
+_srcHash: 15291530dd4b4fd844f1e7dce20b5139
 ---
 
 ## 峇里島 Garuda Wisnu Kencana 神鷹文化公園全攻略

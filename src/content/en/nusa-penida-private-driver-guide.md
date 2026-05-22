@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/685101c0fd89780001e221f4'
 category:
   - 叫車包車
 lang: en
-_srcHash: d5f16148bcb8431e279c02482a23c54c
+_srcHash: d9afdea327550a6845c37ff129878c5a
 ---
 
 Want to travel independently to Nusa Penida but worried about transportation? Actually, most tourists choose to have **private drivers from mainland Bali** assist in planning their itinerary. This guide will help you understand the methods, recommendations, and precautions for hiring a private driver on Nusa Penida.

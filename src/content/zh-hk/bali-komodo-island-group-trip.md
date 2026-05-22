@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66efc051fd89780001433018'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: d56a5a40ecf9182fa0ee385495aceb2d
+_srcHash: ce5db25e58c54ecb2cadc83ba636afb3
 ---
 
 > 以下內容改編自團友 [Sandra Yun](https://www.facebook.com/share/p/R9sqkkpWfnrB6Bzr/) 分享嘅遊記：

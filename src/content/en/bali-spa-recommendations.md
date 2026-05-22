@@ -15,7 +15,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4603b531b61b14e13a527e7b2492d400.jpg'
 originalUrl: 'https://vocus.cc/article/65ed5114fd89780001dcc688'
 lang: en
-_srcHash: cb0aacd17496de0a3e171794aeb2accf
+_srcHash: 1f14773d505c9e9dfe36944e07ab4f77
 ---
 
 **Group member**[**Li Ly**](https://www.facebook.com/lily850711/)**and her friends just returned from their Bali trip during the rainy season and are here to share their travel experiences with us!**

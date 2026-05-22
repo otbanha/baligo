@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66dd1eb3fd897800015bf1d0'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: c0b667aed55ad2b0e98a950ba2b35bf1
+_srcHash: b1fe417f21707cdd45dbb17869cfad80
 ---
 
 > 以下内容改编自团友 [Tyty Chow](https://www.facebook.com/groups/baligo/permalink/1591753798038526/) 分享游记：

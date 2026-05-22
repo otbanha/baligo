@@ -23,7 +23,7 @@ originalUrl: 'https://vocus.cc/article/64db6b5afd897800013a8f86'
 category:
   - 美食景點活動
 lang: en
-_srcHash: d464e91b7d0f26bbb4afd0c36432e535
+_srcHash: 213236ff41954d92a330880cb695fac1
 ---
 
 When visiting Indonesia or Bali, you absolutely must try the local national cuisine. These are the must-eat foods in Indonesia/Bali.

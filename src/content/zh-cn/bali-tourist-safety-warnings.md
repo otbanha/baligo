@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66f636b7fd89780001197817'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: f22ed0537e43f9545a58de2d45822aa2
+_srcHash: 81f33476212dab10612d213da496624e
 ---
 一般来说，巴厘岛是一个非常安全的度假胜地。相比其他热门旅游地点，这里的街头犯罪、扒手和诈骗事件少很多，让大家可以在岛上放松享受假期。
 

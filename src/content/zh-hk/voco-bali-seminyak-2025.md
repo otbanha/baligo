@@ -21,7 +21,7 @@ agoda_star_rating: 4
 latitude: -8.68145751953125
 longitude: 115.16397857666016
 lang: zh-hk
-_srcHash: 14aca561bf35cdd50a07f0ff5c0375b0
+_srcHash: 580ddac1360672bb862f442d69613431
 ---
 
 ## 全新奢華體驗：voco Bali Seminyak

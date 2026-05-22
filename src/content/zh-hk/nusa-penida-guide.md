@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64db6b82fd897800013a9942'
 category:
   - 峇里島分區攻略
 lang: zh-hk
-_srcHash: bdb0f54df3cfda29a5b2c6be392ec658
+_srcHash: 7969ff0e366c71f601716bfd99c2053a
 ---
 
 當你喺峇里島度假嘅時候，Nusa Penida絕對係唔可以錯過嘅一站。呢個島以其靚景同埋魅力文化聞名，為旅客提供咗豐富嘅體驗。但係由於佢相對偏僻，去Nusa Penida可能需要詳細嘅研究同埋計劃。喺呢篇文章入面，會為你提供由峇里島去Nusa Penida嘅旅遊指南，並提供最新嘅資訊，以幫助你計劃你嘅行程。

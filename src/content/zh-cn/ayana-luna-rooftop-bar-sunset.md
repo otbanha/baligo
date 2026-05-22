@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_85d4f10a50d1c5ba74a646b83e5ff706.jpg'
 originalUrl: 'https://vocus.cc/article/6721d7bbfd89780001ee1132'
 lang: zh-cn
-_srcHash: eb3dd22e3e1f54ca0326ff4af627bdea
+_srcHash: 5ba2d83978e2ef64ca608de19bfb0a71
 ---
 
 位于巴厘岛 AYANA Segara 的屋顶上有一个 Luna Rooftop Bar，以其夕阳美景和多变的氛围，成为享受放松的一个隐藏版去处。在这里高处俯瞰，日落的余晖与大海的壮阔交织，成为拍照爱好者的绝佳背景。在 Luna，享受的不仅仅是美食和饮品，更是难忘的回忆。

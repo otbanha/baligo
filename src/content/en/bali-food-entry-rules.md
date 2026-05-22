@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: f207120a01edd7330a6409e23dd8808f
+_srcHash: c2f2a5b87251219ba593dadc07062579
 ---
 Recently, in a Facebook group focused on Bali and Indonesian travel, a practical question was raised: Can you bring common Taiwanese instant noodles like braised chicken or Hua Diao chicken into Indonesia? This quickly sparked extensive discussions, with the comments section showing a mix of 'experience sharers' and 'regulation ambiguity' perspectives.
 

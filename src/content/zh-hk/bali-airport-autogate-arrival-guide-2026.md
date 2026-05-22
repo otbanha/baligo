@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: f4643a5b642994fb88199d3e0f98eebd
+_srcHash: cf145151db57450ba661be8ab9dec4f3
 ---
 每個飛過峇里島伍拉萊國際機場（I Gusti Ngurah Rai International Airport）嘅人，大概都有一個共同嘅痛苦回憶——尤其係旺季或者班機尖峰時段，從入境海關排到行李轉盤，整個過程動輒一兩個鐘起跳。老實講，飛機一落地就被困喺排隊人龍入面，假期心情直接打對折。
 

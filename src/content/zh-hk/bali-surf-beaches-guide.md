@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_072768a98cc9dfc8bf4b4bca8e2f8b39.jpg'
 originalUrl: 'https://vocus.cc/article/66236818fd89780001389aaa'
 lang: zh-hk
-_srcHash: a18c6ed3fc3043acc2221915e64784b8
+_srcHash: fbaae30bf608f8b213677c848ede4c0f
 ---
 對好多人嚟講，學識滑浪係佢哋嘅夢想之一，而不得不講，峇里島可能係世界上最適合學滑浪嘅地方之一。
 

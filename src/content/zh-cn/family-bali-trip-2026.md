@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0347481a7fc74e3d809741abdcae7aa0.jpg'
 originalUrl: 'https://vocus.cc/article/6944cda7fd89780001d0907a'
 lang: zh-cn
-_srcHash: ecad95ee1ce6cc267203b5c6d86b02aa
+_srcHash: 49ec8292891f12544b4f272182a18014
 ---
 
 > 以下游记由 [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/) 提供, 并同意我们润饰重新编辑

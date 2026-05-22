@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3dba799dbbf88a08d80f720169f80421.jpg'
 originalUrl: 'https://vocus.cc/article/653dc7f3fd89780001f4f90a'
 lang: en
-_srcHash: ce2531dbe0b70d467eb281600c002dba
+_srcHash: 3f50bc2983dbc510aa0e4fda85207b8b
 ---
 
 Whenever friends ask me to recommend a place not far from Ubud's city center where they can experience Ubud's natural scenery, should I suggest Tegalalang Rice Terraces? No, that place has become far too commercialized in recent years! Instead, let me recommend a place easily accessible by foot, known as the 'Ubud Skywalk' - Campuhan Ridge Walk.

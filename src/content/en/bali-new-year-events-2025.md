@@ -15,7 +15,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: en
-_srcHash: a1f88522cf5a1e4968f373df79abd3ed
+_srcHash: bd4ebf658a4570c340173d767fc6e45e
 ---
 
 ## 🌟 **Are you ready to welcome 2025 in Bali?** 🌟

@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/67f65841fd897800017d3ea2'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 25b61d27d67a7b284e8c32cdc4d167cd
+_srcHash: 565270a1d96d8b21a27e93aaf8f26821
 ---
 Many friends planning their Bali trip panic when they see weather forecasts showing "⚡ Thunderstorms ☔ 60% chance of rain," exclaiming, "Oh no, did I pick the wrong time to visit Bali? Will my entire vacation be ruined?"
 

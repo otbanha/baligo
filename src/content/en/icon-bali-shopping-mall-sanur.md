@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_518bf6250894fe40dd8bb2a87de767b5.jpg'
 originalUrl: 'https://vocus.cc/article/666425e6fd8978000121dadc'
 lang: en
-_srcHash: 8e6c540baa0990a964b26b17d769b048
+_srcHash: 6f5c35be9ec2445ee650dc3f93cc79af
 ---
 
 Icon Bali Mall, Bali's premier shopping destination, has officially debuted in Bali. Located at Jalan Danau Tamblingan No. 27 in Sanur, Icon Bali commenced operations on Friday, June 7, 2024!

@@ -18,7 +18,7 @@ tags:
 originalUrl: 'https://vocus.cc/article/69b0d79bfd897800012060e7'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6814be3c0f8db54b25fdb2cf8d5de818.jpg'
 lang: zh-hk
-_srcHash: c10c0ed7a10bc8c5d4d1c58dad03e7ca
+_srcHash: f9e7ac5b07b3d0316369f86e94c6de7a
 ---
 
 你係咪都習慣咁樣？

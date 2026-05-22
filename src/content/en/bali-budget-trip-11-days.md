@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6795d36bfd8978000139ce96'
 category:
   - 遊記分享
 lang: en
-_srcHash: e1049036ebd7f195aa52d4219784de2a
+_srcHash: 9493a3a9f255993875ecd8040772f368
 ---
 
 > The following content is adapted from group member [Gao Rongfan's shared travelogue](https://www.facebook.com/share/p/14kAoJ6sDG/):

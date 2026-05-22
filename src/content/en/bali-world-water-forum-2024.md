@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/660cf362fd89780001da676b'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 9807432481970dd0386e7d6e62977adf
+_srcHash: 547dc1f0ffba5963c85b09ba3e9ff1a8
 ---
 
 A major international conference, the World Water Forum, will be held in Bali in May 2024. The event is expected to welcome 44 heads of state and their delegations, with over 50,000 participants discussing various water-related issues, including water security, disaster reduction, governance, financing, and innovation.

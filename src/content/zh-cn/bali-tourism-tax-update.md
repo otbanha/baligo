@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66012881fd897800017dfabe'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 9c0a42ab9ef51f3a0eab1c3f55038925
+_srcHash: 773f1b67c77e2f4d68493f96f59dabce
 ---
 
 最近有个重要的消息要告诉大家——巴厘岛的旅游税即将进行抽查了！这项新政策已经实施了整整五个星期，而现在是时候确保每个游客都了解并遵守这个新制度了。

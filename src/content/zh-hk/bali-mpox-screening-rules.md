@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66c5f07efd8978000106373e'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: ea5985a32524c824e223cb643f6b3b2c
+_srcHash: 02066fea45b230d2a7974136fd643849
 ---
 
 ### 印尼衛生部最近宣佈，因為全球Mpox（之前稱為猴痘）病例上升，峇里島等地嘅篩檢程序將會更加嚴格。Mpox係一種高度傳染嘅病毒，大家需要多加注意。

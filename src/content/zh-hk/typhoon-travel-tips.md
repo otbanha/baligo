@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/685ff7f5fd897800017d8d4e'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 2624c90d9fa0bf53fe2f56a03f601ebb
+_srcHash: cd40fef07935903f9559851cb51cc4f3
 ---
 
 ## 出國碰上颱風季？旅程開始前嘅萬全準備

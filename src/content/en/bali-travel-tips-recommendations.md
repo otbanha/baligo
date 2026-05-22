@@ -23,7 +23,7 @@ originalUrl: 'https://vocus.cc/article/66b715defd89780001b25a1e'
 category:
   - 遊記分享
 lang: en
-_srcHash: a9668d2d1d8192f651c359b2ed8680f9
+_srcHash: cc863b5e629492b394beaeea2be090a3
 ---
 
 > Adapted from a contribution by fellow traveler [June Lin](https://www.facebook.com/groups/baligo/permalink/1581822932364946/)

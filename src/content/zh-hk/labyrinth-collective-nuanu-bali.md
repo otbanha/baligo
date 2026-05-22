@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/67a2369cfd897800012db961'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 9833c629ebab8784b7f4f1d8e4e330ce
+_srcHash: 6d220be1551ac29b5dc062946429f586
 ---
 
 峇里島嘅創意與文化發展再添新亮點！位於 Nuanu Creative City 嘅 **Labyrinth Collective**，係一個融合藝術、科技與永續發展嘅創新空間，為旅客帶嚟獨特嘅沉浸式體驗與創作環境。從 **沉浸式圓頂劇場** 到 **音樂工作室**、**創客空間**，呢度提供一個將藝術、聲音與創意轉化為現實嘅舞台。

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/687ee2c2fd89780001d111bf'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: ff6f26d394b6f35615045212f90b1ba2
+_srcHash: a8dfcbcffb4a23f3279fa83b9deeadb1
 ---
 峇里島最受遊客同滑浪愛好者歡迎嘅烏魯瓦圖 Bingin Beach，即將迎來重大改變。政府宣布，超過 40 棟喺該區嘅建築物因非法佔地同違反空間規劃規定，由 2025 年 7 月 21 號起進行強制清拆。
 

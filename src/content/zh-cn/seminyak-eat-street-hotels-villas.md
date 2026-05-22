@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: d7086b529e966df3f47eef4c86148da7
+_srcHash: 65dd66cde3d490b96937e3b00915ad54
 ---
 
 去巴厘岛，很多人第一反应是冲水明漾——但说真的，**水明漾（Seminyak）才是最难选的地方**。

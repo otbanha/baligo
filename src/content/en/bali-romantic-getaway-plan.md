@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_55a17e32ff3426be5b5ca449098353ec.png'
 originalUrl: 'https://vocus.cc/article/6860bc8bfd897800019ce915'
 lang: en
-_srcHash: ae451b5b74eb529b76662e0a09d254ff
+_srcHash: 872c15154465000ebec5764489401f39
 ---
 
 > The following content is adapted from a travelogue shared by fellow traveler [Johnny Wei](https://www.facebook.com/share/p/16WTfUrpzo/):

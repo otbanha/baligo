@@ -26,7 +26,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: zh-cn
-_srcHash: 64d9ec3ff488ddd9fd4c58c61a7631b6
+_srcHash: 708bf64a1b4190559ef523f0e5e3076f
 ---
 
 由桃园出发、经新加坡转机前往**巴厘岛**的酷航（Scoot）航班清单，近期在社群上引起不少讨论。对于追求高 CP 值、或是想顺便在樟宜机场「半日游」的旅人来说，这类廉航转机票确实有其吸引力。

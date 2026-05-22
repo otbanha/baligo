@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_010252ae3b22142279b2f6841ce88916.jpg'
 originalUrl: 'https://vocus.cc/article/662c59e9fd897800011f1230'
 lang: zh-cn
-_srcHash: 00d92e89561f20b5c753d60673407003
+_srcHash: b7d8b3a55e94548bc5019d56d3c197d7
 ---
 
 > 本篇是一名越南台商小姐姐跟她的家人一同前往巴厘岛游玩

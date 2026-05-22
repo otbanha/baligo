@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/663261fdfd89780001f490fc'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 916b3b0f58fb3809a2f45f26e92f4e0c
+_srcHash: a718f26ea2486101f0b9f9a8c11e0247
 ---
 
 在巴厘岛旅游中，许多人都会遇到换汇的问题，尤其是在社群中，经常有人询问：换汇时，大钞的美金跟小钞的是否有价差？

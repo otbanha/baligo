@@ -23,7 +23,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: en
-_srcHash: bc0e4ae6c6bdb45492e740bca757a0cd
+_srcHash: 09208c5b8c40dd4191fbae3a12a76b80
 ---
 Bali, known as the 'Island of the Gods,' is not only famous for its stunning beaches, breathtaking rice terraces, and rich Hindu culture but also for its unique traditional festivals. Among them, the 'Pawai Ogoh-Ogoh' parade held on the eve of Nyepi (the Day of Silence) is undoubtedly one of the most awe-inspiring cultural events. This grand celebration combines art, religion, and community spirit, attracting countless visitors and locals alike.
 

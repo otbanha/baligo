@@ -21,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/664c8e46fd89780001240c04'
 category:
   - 簽證通關
 lang: en
-_srcHash: ea3cd99152d71b6d3c52d0bb712d140a
+_srcHash: 5a9eda9c9e84b823b262f8179849e10d
 ---
 
 Have you ever wondered if you can leave Indonesia on the 30th day with a 30-day visa on arrival? This is a common question among many travelers planning a trip to Indonesia/Bali. In this article, we will delve into all aspects of Indonesia's 30-day visa on arrival, answer your questions, and provide some practical travel tips.

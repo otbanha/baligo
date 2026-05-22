@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/6880c98dfd89780001510ee2'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: df5b982bfeb5d683581378f5c1a6b711
+_srcHash: 82fb9cd9b1f44120db9250b0828e81f6
 ---
 
 ## **峇里島文化紀念品：讓旅遊回憶永存心中**

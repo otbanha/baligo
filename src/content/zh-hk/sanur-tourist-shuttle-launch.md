@@ -16,7 +16,7 @@ category:
   - 旅行技巧
   - 叫車包車
 lang: zh-hk
-_srcHash: d1c983a3ece8c4e03b33a856411db703
+_srcHash: 68e86d0078a8aed4656d92435df225c1
 ---
 呢項由登巴薩交通局推出嘅計劃，特別針對沙努爾度假區內部設計，唔同於已有嘅 Trans Metro Dewata 巴士路線，沙努爾接駁巴士將專門喺沙努爾區域內行駛，提供遊客「隨上隨下」嘅自由行動模式。
 

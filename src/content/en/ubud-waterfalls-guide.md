@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e74bbb16a16cd1b0f28c1d1b99c23329.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b82fd897800013a995f'
 lang: en
-_srcHash: 1dd853ce89d173445798c7d08b6f812e
+_srcHash: 22d081249caa2d1a3740a346b0822cdd
 ---
 
 Ubud, a serene town located in the heart of Bali, Indonesia, is renowned for its breathtaking natural beauty and cultural heritage. Here, you’ll also find numerous stunning waterfalls that draw nature enthusiasts from across the globe. In this article, we’ll delve into three of the most famous waterfalls near Ubud: Tegenungan, Kanto Lampo, and Tukad Cepung. Each waterfall boasts its own unique charm and allure, offering visitors unforgettable experiences in the wonders of nature.

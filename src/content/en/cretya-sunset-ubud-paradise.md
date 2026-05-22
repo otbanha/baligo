@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/6799a185fd89780001c87e06'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 59d511f72893b2c0a7d59f13945d5ef9
+_srcHash: c3d71e8ca631d2a90cf1ced3db897650
 ---
 
 **After enjoying the spectacular views of the Tegallalang Rice Terraces at** [**Cretya Ubud**](/blog/cretya-ubud-alas-harum-budget-guide/), **the Alas Harum Group has unveiled their latest creation—Cretya Sunset by Alas Harum, Ubud.** This new sunset day club and restaurant in Ubud offers an unmatched relaxation experience and stunning views, making it a dream destination not to be missed during your Bali exploration.

@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777896573960-canggu_stay.png'
 originalUrl: 'https://vocus.cc/article/651b8da8fd89780001974847'
 lang: zh-hk
-_srcHash: 5566c3d252914b67db5f6e2dde2f0aa0
+_srcHash: b9a79737d07909f754e41461a942bf40
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)

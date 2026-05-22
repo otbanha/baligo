@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66cf433ffd89780001313079'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: bca50bfb17a18ac59d36a3d7b433055f
+_srcHash: 5a8a0b734fc3cc1ce134dabe04651743
 ---
 
 巴厘岛交通拥堵的问题早已为人所知，而随着雨季即将来临以及岛内大型道路工程的开展，当地领导人深感忧虑，认为交通状况可能在好转之前会先进一步恶化。

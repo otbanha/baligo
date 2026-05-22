@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6668f9f5fd89780001e844ca'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 740d8e26ef7f7de067cb8aba7900bc3f
+_srcHash: b046496050f28c71f9e5d414b1d2f9d3
 ---
 
 最近，努沙佩尼达悬崖上新的182米玻璃电梯项目引起了广泛关注。这个项目不仅改变了当地的风景，也在当地社区和游客中引发了热烈讨论。这篇文章将全面介绍这一争议性项目的背景、设计、经济影响和环境忧虑。

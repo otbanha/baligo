@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 7237720b470b48059804b17c669f8718
+_srcHash: 314ee3532a42ba13bbf8d1afef23bff5
 ---
 
 Anyone who has visited Ubud knows how narrow the roads are. With so many tourists and vehicles, many people still insist on parking directly on the roadside—well, starting April 28, the police are getting serious.

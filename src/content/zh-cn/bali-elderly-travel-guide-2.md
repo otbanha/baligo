@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6624e237fd8978000146c224'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: b0d40414118be7289d125c24f84d0737
+_srcHash: af960bf8138e1781c11215a721baab2d
 ---
 
 （以下图文内容由团友[Chuang Ling Chun](https://www.facebook.com/groups/131689774044943/user/100002621353548/) 提供，并同意我们重新编排）

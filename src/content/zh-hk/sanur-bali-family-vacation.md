@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d66488cbf12527aba9885db31c4f0b5a.jpg'
 originalUrl: 'https://vocus.cc/article/65ff99e2fd897800016c300e'
 lang: zh-hk
-_srcHash: 3fa5e98973bc6469f25b0691396f4033
+_srcHash: 7e61fed2714b326626d74b67c12c2c95
 ---
 
 沙努爾係峇里島上一個非常適合親子度假嘅地區。呢度陽光燦爛、沙灘幼滑、物價相對平，加上豐富嘅親子遊樂設施，成為唔少帶住小朋友度假嘅家庭嘅首選。

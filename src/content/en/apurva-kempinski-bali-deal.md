@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9034b3eade783ad2a93a96720a8df57.jpg'
 originalUrl: 'https://vocus.cc/article/69aa4faefd897800016bbeda'
 lang: en
-_srcHash: 3417277ea120edeaba7bf459a0da3148
+_srcHash: 21aab81115f94c437edd1ae232058525
 ---
 
 If you're looking for a **Bali 5-star hotel deal**, an incredibly attractive promotion has recently appeared.

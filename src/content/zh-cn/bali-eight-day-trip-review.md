@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_692eaecb9dd12eb2a1234bfb9597793e.png'
 originalUrl: 'https://vocus.cc/article/69170335fd89780001bcca63'
 lang: zh-cn
-_srcHash: 9360d97fd47ceede2512fa087be0586b
+_srcHash: 9deddc71679400dcf228200aa2b90771
 ---
 
 > 以下内容改编自团友 [Pinkey Lo 分享游记](https://www.facebook.com/share/p/1XMLomzb3h/)：

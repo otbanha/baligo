@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_45d03dea2e8b6ff67123cd56dd7ae419.jpg'
 originalUrl: 'https://vocus.cc/article/68770c9bfd8978000134067a'
 lang: zh-cn
-_srcHash: eef6ff4a558dd90e3e3274e87ebf0575
+_srcHash: c37d1069e802af37b0426bbba7047e4d
 ---
 
 Tukad Badung Riverside 又名 Tukad Badung Riverside，是近年来巴厘岛登巴萨市推动「绿色城市、友善市民」计划中最成功的一项都市更新成果。这条长约 1 公里、宽约 4 米的人工水道，早年是浑浊脏臭的排水沟，但自 2020 年起，通过巴厘省政府、市政单位与社区合作，将其全面清理、重新设计并打造成一条具现代美学与社区功能的公共空间。

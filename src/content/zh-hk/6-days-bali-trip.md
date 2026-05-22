@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_08443e3681ae1c13cb3f955183588745.jpg'
 originalUrl: 'https://vocus.cc/article/6948d8cafd89780001031e78'
 lang: zh-hk
-_srcHash: e8180a0d41e42f352104887720f2a5b0
+_srcHash: 499e31c65103b05da8b7cf1d1ac2e542
 ---
 > 以下內容改編自團友[廖苡妏](https://www.facebook.com/share/p/1CjoK9BEFX/)分享嘅遊記：
 

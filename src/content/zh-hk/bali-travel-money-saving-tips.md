@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_35b69d7d4214c6eb99fc579e7fdf42f9.jpg'
 originalUrl: 'https://vocus.cc/article/64e1eb78fd897800017d0ec7'
 lang: zh-hk
-_srcHash: fcac730d6860d91f15e947ddd0478018
+_srcHash: 141255fedcfa357c9d76034974b43c15
 ---
 
 更新日期：2026/05/18 ｜由 Gobaliogo 團隊維護

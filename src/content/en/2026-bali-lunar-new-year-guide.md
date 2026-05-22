@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1cd864d35a9c59653bd10f1073ea58ac.png'
 originalUrl: 'https://vocus.cc/article/65a211a1fd89780001cfcd58'
 lang: en
-_srcHash: 2a3ed224336cf3c12fcffd3e714019bc
+_srcHash: 344656cbae59cfc3b45e564426233ed8
 ---
 Lunar New Year is a peak travel season in Bali, attracting tourists from around the world each year, especially from East Asian countries where Lunar New Year is celebrated as the only long holiday of the year.
 

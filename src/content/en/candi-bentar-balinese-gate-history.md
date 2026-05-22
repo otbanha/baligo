@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/66a31f0bfd8978000149ad4a'
 category:
   - 旅行技巧
 lang: en
-_srcHash: f709ff9617bbe22f05396d7412c99bc2
+_srcHash: f78be412d9474d44e990f39a8f8f95fb
 ---
 
 **What is the significance of Candi Bentar in Bali? Why is its Chinese translation as 'Gate of Good and Evil' incorrect?**

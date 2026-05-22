@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7954b979e215fc1714f578e8902d7e09.png'
 originalUrl: 'https://vocus.cc/article/673167e4fd897800017c44a9'
 lang: en
-_srcHash: c2296b2f6c6044573c43bef794c9d7d2
+_srcHash: 4163c2ef30ba651f31c72351e2a9f8f3
 ---
 
 ## Introduction to Bali's Rice Terraces: Exploring Two Iconic Areas

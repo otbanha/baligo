@@ -17,7 +17,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9fef7339fe14f7635e55eb9eb13f7627.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b7dfd897800013a97bc'
 lang: en
-_srcHash: d4cbef5d5fcef3667b9b6d3d6de7af1e
+_srcHash: 02ef57f5cfbd854ea3fa3af36e61e4df
 ---
 
 Bali travel is also a culinary journey! Do you know the top 10 must-try Balinese dishes? Want to learn the most authentic Indonesian phrase? Recommendations for Bali hotels/villas, and which area is best to stay in? Check out Xiao Jie’s Indonesia guide for more.

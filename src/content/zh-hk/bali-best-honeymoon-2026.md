@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/697230c8fd8978000122a606'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 15348290e1a63a4fa12322f438ef7619
+_srcHash: a3e6abe644f2f3f7280b822f8fa6323d
 ---
 ## 真實旅客票選出嘅夢幻蜜月天堂
 

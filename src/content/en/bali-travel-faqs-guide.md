@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e14497d695ce945e47d1b8738cd5faa6.gif'
 originalUrl: 'https://vocus.cc/article/672e2c1afd897800014c3fbc'
 lang: en
-_srcHash: 4df327a4f75b70589c080011339535e9
+_srcHash: 89500551a686938032e4b27508451741
 ---
 
 # **Answers to Common Bali Travel Questions**

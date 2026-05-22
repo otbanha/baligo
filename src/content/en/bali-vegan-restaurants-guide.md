@@ -30,7 +30,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777694520071-vegan.png'
 originalUrl: 'https://vocus.cc/article/66dc687afd8978000151d046'
 lang: en
-_srcHash: 78bcc9204cf07e1a5bf60051d6026bc2
+_srcHash: 2ba40bd0ee5d07ba7d20c8b8e0ba5a20
 ---
 
 update: 2026/05/20

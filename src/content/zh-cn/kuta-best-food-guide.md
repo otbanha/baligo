@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_379163a23650c3f251e94357f93c0736.jpg'
 originalUrl: 'https://vocus.cc/article/683ea99cfd897800010202aa'
 lang: zh-cn
-_srcHash: bebe407b760e92958ecf6a525475d16b
+_srcHash: f4c6bfbe288d4ad69d36b43a4f38d7d8
 ---
 
 库塔身为巴厘岛最热闹的地段，有着最多的游客，当然也少不了丰富的美食。库塔的餐厅种类繁多，从传统的印尼菜到国际美食应有尽有，让您可以尽情享受美食之旅。底下我们推荐一些餐厅，这些提供美食的餐厅位置，我们也标注在最下面的「库塔攻略地图」里，方便大家安排旅游计划。当然在库塔还有更多美食餐厅等你来探索！

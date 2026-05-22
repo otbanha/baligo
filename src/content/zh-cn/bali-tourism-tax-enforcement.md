@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/6768bfbefd897800011a8638'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 11f224fb80aaf24ff5fcd11a6cd9759c
+_srcHash: cf7d16041a673e73cd28eb5478cb5b96
 ---
 
 ### 2024年2月起，除了签证费外，前往巴厘岛的游客需支付10美元（或150,000印尼盾）的观光税。然而，许多旅客未遵守此规定，导致当地政府讨论对违规者实施惩罚的可能性。其中一项建议是禁止未缴纳观光税的旅客进入巴厘岛。

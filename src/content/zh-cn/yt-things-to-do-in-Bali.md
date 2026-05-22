@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e671dd57b7c1d196ec96d2ca2f74f1a3.jpg'
 originalUrl: 'https://vocus.cc/article/660d1d54fd89780001dc5bbb'
 lang: zh-cn
-_srcHash: be901092bf969bd4880810264b4ade48
+_srcHash: 143cba6b9d580181619a98a3e7b150d8
 ---
 
 香港知名YouTuber"[Crazy with YU芳婷](https://www.youtube.com/@crazywithyu)",她最近前往巴厘岛旅行,在那里住了十多天,体验了各种精彩活动。在影片中,她整理出五件巴厘必做的事情,让我们跟随她的步伐,一同领略巴厘岛的独特魅力。

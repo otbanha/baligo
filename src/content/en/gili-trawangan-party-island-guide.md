@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/66920f76fd897800018679a6'
 category:
   - 遊記分享
 lang: en
-_srcHash: 44f677e767003f361daf7e8fd7b60ad9
+_srcHash: 0d118f0e26840626396cccad2a7e1556
 ---
 
 ![葉庭瑜提供](https://images.gobaligo.id/vocus/vocus_b9b851c72e80d23fe32bd01a7a52c7c5.jpg)

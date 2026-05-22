@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8bf335fa809f107688196cf263847645.jpg'
 originalUrl: 'https://vocus.cc/article/671da7a4fd89780001b9fac3'
 lang: zh-cn
-_srcHash: fa0fa6b1b925e733730a2d51ee825166
+_srcHash: 4c35daa33c3c3d22e11df571265fb905
 ---
 以下内容改编自团友 [张家伟](https://www.facebook.com/share/p/1EWEAupkuv/) 分享游记：
 

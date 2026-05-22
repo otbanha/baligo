@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7e422c64a9520ef57fbcbfed1a508d2e.png'
 originalUrl: 'https://vocus.cc/article/685b8c4ffd89780001f4fc01'
 lang: zh-hk
-_srcHash: 21cd320d1e691102fd5cb37cd5304a6f
+_srcHash: 49891bda4b97eddb5a565f06a0570e3c
 ---
 
 ## **點解你唔可以錯過峇里島嘅銀匠體驗？**

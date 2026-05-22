@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/685ff7f5fd897800017d8d4e'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 2624c90d9fa0bf53fe2f56a03f601ebb
+_srcHash: cd40fef07935903f9559851cb51cc4f3
 ---
 
 ## Traveling during typhoon season? Comprehensive preparation before your trip begins

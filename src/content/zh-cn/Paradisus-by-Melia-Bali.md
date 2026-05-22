@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: c17a5b3690de5c7d316008114ba06fd5
+_srcHash: 60e33f99df20a227277e29417fc510b2
 ---
 
 巴厘岛五星级酒店市场在 2026 年迎来一颗期待已久的新星。Paradisus by Meliá Bali 于 2026 年 2 月正式重新开幕，这是西班牙 Meliá Hotels International 集团旗下的旗舰品牌 Paradisus 在亚洲的第一间「Destination Inclusive」全包式度假村。前身为巴厘岛知名的 Meliá Bali Resort，历经大规模翻修改造，以全新品牌与全方位升级的服务重磅亮相，落脚努沙杜瓦精品度假区，正式宣示它要成为巴厘岛家庭旅游与蜜月旅行的顶级新选择。

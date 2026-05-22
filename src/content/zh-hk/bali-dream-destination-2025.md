@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/678382f5fd897800013125a6'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 2728b79401f1aca8e41b56c2c18817e4
+_srcHash: 64b442075d7543b9d33af1e0ea988a99
 ---
 
 **2025年最夢幻嘅旅遊目的地：峇里島再次榮登榜首**

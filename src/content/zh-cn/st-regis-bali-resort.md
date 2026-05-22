@@ -22,7 +22,7 @@ agoda_hotel_name: 瑞吉度假村 - 峇里
 agoda_hotel_id: 108442
 latitude: -8.812859535217285
 lang: zh-cn
-_srcHash: e0d9f14ec361a75f7359f4d7389f380a
+_srcHash: b1d6fdb50311256a94b34141e6f25586
 ---
 
 update: 2026/05/21

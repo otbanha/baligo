@@ -18,7 +18,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/4tVq4SFfjMw'
 lang: zh-cn
-_srcHash: add6c8a23f7dd0bb76cbf4f2ab9e68f6
+_srcHash: 97054a14515bba2ef80eb128b10b5292
 ---
 
 坎古这个地区现在是巴厘岛最受外国人喜爱的区域之一！究竟坎古有什么样的魅力呢？要怎么样游玩坎古呢？最后还有 50 个坎古一定要去的景点、咖啡馆。请看小杰的介绍并记得看到最后哦！

@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f16635d1b0ab07a68517790025e3320e.png'
 originalUrl: 'https://vocus.cc/article/65c33880fd897800010bca9e'
 lang: en
-_srcHash: c3e4b969250a3c541bbfccc6ad347cb3
+_srcHash: ccf31cb8f6b3bcab7098953be08a7c74
 ---
 
 Bali's handmade large furniture is renowned worldwide for its unique style and exquisite craftsmanship. These pieces are typically crafted by local artisans using traditional techniques and natural materials like wood, bamboo, and rattan, showcasing natural beauty and rustic charm. Their distinctive designs are inspired by local culture and traditions, featuring carvings, weaving, and unique patterns that exude an exotic and artistic vibe. These furniture pieces are highly collectible, attracting many who wish to purchase and bring them home to showcase their unique style and pay homage to local culture.

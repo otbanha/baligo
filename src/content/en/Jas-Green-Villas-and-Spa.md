@@ -37,7 +37,7 @@ agoda_star_rating: 4
 latitude: -8.684306
 longitude: 115.162719
 lang: en
-_srcHash: aa36537fcb58220369e79084be570c0e
+_srcHash: 8823cf72c6998fca5c7d95898e369401
 ---
 
 Accommodation in Seminyak can easily cost hundreds of dollars per night, but if you know where to look, there are affordable gems in prime locations. Jas Green Villas and Spa is one such place—tucked away in the lanes of Jl. Laksamana, just a few minutes' walk from the famous Eat Street. Each villa comes with a private pool, yet the average price is significantly lower than similar accommodations in the area. This isn't a place that relies on deceptive photos—it's a practical, well-located villa with great service.

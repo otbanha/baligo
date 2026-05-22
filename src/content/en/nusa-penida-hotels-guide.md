@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d8ab044a198844bec62c51e0a0d26d91.jpg'
 originalUrl: 'https://vocus.cc/article/65c8e2dffd89780001346aa9'
 lang: en
-_srcHash: 5955a8d67fd2e67d31e94e42d01acdb0
+_srcHash: f2c9010487229fbe10f15360dd2d2339
 ---
 
 We have a total of five episodes introducing Nusa Penida - let's dive deeper into this island paradise! Here are links to the other four episodes:

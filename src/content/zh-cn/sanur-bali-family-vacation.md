@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d66488cbf12527aba9885db31c4f0b5a.jpg'
 originalUrl: 'https://vocus.cc/article/65ff99e2fd897800016c300e'
 lang: zh-cn
-_srcHash: 3fa5e98973bc6469f25b0691396f4033
+_srcHash: 7e61fed2714b326626d74b67c12c2c95
 ---
 
 沙努尔是巴厘岛上一个非常适合亲子度假的地区。这里阳光明媚、海滩细软、物价相对便宜，加上丰富的亲子游乐设施，成为不少带着孩子度假家庭的首选。

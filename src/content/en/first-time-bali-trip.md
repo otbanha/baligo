@@ -17,7 +17,7 @@ heroImage: ''
 originalUrl: ''
 embeds: []
 lang: en
-_srcHash: a59ad7567e302c96033d61d6089e7d6f
+_srcHash: 2fdd6fc91a83af14642c70c7e4b2c5c9
 ---
 
 > This travelogue is adapted from a shared post by [YiShawn Huang](https://www.facebook.com/share/p/1DmyQYJF6M/)

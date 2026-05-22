@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 55726b7d3d5a8249b7c4f05e88450cb4
+_srcHash: ef33b09a98d67ac82788f8059f08bfd5
 ---
 
 来到巴厘岛金巴兰（Jimbaran），很多人第一个想到的是海鲜烧烤与夕阳。但如果你想找一个更轻松、更有度假感，同时又适合情侣、朋友甚至亲子一起待上一整天的地方，那我最近很推荐这间位于海边的 Locca Sea House。

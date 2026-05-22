@@ -21,7 +21,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: en
-_srcHash: 919f819634863c2d1092a3dbe4fda773
+_srcHash: f12be5fd389b92305648dfa7338c2d22
 ---
 Every year, people ask the same questions.
 

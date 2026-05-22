@@ -23,7 +23,7 @@ originalUrl: 'https://vocus.cc/article/65c217c5fd897800010113af'
 category:
   - 簽證通關
 lang: en
-_srcHash: 274b7e7be9f576ca9b3e126fc11540f1
+_srcHash: 5208a88f4ca4841d99d359cff4331bbe
 ---
 
 ## **What is an Electronic Visa?**

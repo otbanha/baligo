@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/669f938dfd897800012e6312'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 4a9f7f7a47ec3fefb7c60213f30e1278
+_srcHash: b45e385181d2e913b20b3f3765d1f183
 ---
 
 巴厘岛，一个令人向往的天堂，不仅仅是旅游胜地，还是一个充满商业机会的地方。想要在巴厘岛长期居住并经营业务，申请投资者KITAS是一个必须的步骤。这篇文章将详细解释如何取得投资者KITAS，成立PT PMA（外国投资有限责任公司），并遵守相关法规。

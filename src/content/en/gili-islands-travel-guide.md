@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_94247af16368c1d8141a32b1e8144615.jpg'
 originalUrl: 'https://vocus.cc/article/6615f2a8fd89780001eb72fc'
 lang: en
-_srcHash: 7cea05fb74b921d1c2b97bbc9c14b673
+_srcHash: 2e2624301b10567f28ec3e7a43be57ce
 ---
 
 (The following text and images are provided by Facebook group member **Coco Hsiao**, who has agreed to modifications and editing)

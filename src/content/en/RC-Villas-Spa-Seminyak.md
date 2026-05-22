@@ -37,7 +37,7 @@ agoda_star_rating: 4
 latitude: -8.68529540873669
 longitude: 115.156788885594
 lang: en
-_srcHash: d1027cf38c78dd909950883b19ab42b4
+_srcHash: 2a7021a98bc848d01bef251c3b7a6144
 ---
 
 If you're choosing accommodation in Seminyak, location is everything. RC Villas & Spa is situated at Jalan Kayu Aya No. 88—known locally as 'Eat Street.' Mention this address to anyone familiar with Seminyak, and they'll instantly understand its significance. The property features only 8 independent villas, each with its own private pool and garden. Step outside, and you're immediately immersed in Seminyak's finest restaurants, bars, and beach clubs. The location speaks for itself.

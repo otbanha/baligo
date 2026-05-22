@@ -13,7 +13,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_05890dda0733f98bc39e0c75227802b2.png'
 originalUrl: 'https://vocus.cc/article/67b0a910fd89780001798c4e'
 lang: zh-cn
-_srcHash: d6565f1d28c393d91cf62d5142a631aa
+_srcHash: 4feef7ef162cb92d326d8fddce19c930
 ---
 
 巴厘岛一直是亲子旅游的热门目的地，而乌布更是其中一个充满文化与自然魅力的区域。乌布以其宁静的稻田风光、传统艺术和丰富的亲子活动闻名，非常适合全家大小一起探索。这篇攻略将为你详细介绍暑假/寒假带孩子来乌布旅游的注意事项，并推荐最适合的亲子活动与景点。

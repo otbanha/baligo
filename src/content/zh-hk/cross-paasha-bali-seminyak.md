@@ -30,7 +30,7 @@ agoda_star_rating: 5
 latitude: -8.684345245361328
 longitude: 115.15927124023438
 lang: zh-hk
-_srcHash: e57989a89ad81f5991d34fa050ced3e4
+_srcHash: 8cbc8a9de01b619c6f50fcaef3b7e82f
 ---
 如果你想住喺 Seminyak 嘅正中心、行路就可以周圍行、返酒店仲有屋頂泳池可以睇日落，咁 Cross Paasha Bali Seminyak 呢間四星設計風精品酒店好值得考慮。呢間酒店以前叫 U Paasha，後來改名 Cross Paasha，位置一樣喺 Jl. Laksmana 77 號，Kayu Aya 街嘅核心地帶，99間房全部係套房級別，格局寬敞、設計感強，係 Seminyak 呢一帶 CP 值幾高嘅選擇之一。
 

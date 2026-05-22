@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66c5f07efd8978000106373e'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: ea5985a32524c824e223cb643f6b3b2c
+_srcHash: 02066fea45b230d2a7974136fd643849
 ---
 
 ### 印尼卫生部最近宣布，因为全球Mpox（之前称为猴痘）病例上升，巴厘岛等地的筛查程序将会更加严格。Mpox是一种高度传染的病毒，大家需要多加注意。

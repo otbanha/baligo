@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/663b06c7fd8978000142c990'
 category:
   - 旅行技巧
 lang: en
-_srcHash: a12e60fc21d8a50f24e0e23bab362e6a
+_srcHash: 79ae3774736dc807cd3401e8da19c3ba
 ---
 
 Recently, we have received feedback from many of our group members who have noticed that certain travel agencies have plagiarized content from our [Bali Travel Guide] blog. This is a serious issue for us, as we take pride in providing original and valuable content that has been accumulated through years of experience and research.

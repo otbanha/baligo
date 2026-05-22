@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ffc777e5dd5ae6c10a448209f0dfb9cf.jpg'
 originalUrl: 'https://vocus.cc/article/66f8d419fd89780001458d42'
 lang: en
-_srcHash: f44de13538f42f7da6a977cb7382bcae
+_srcHash: 9a65069a64cc90b131e101d15356f73d
 ---
 **Top 10 Stunning Tourist Attractions in East Nusa Tenggara (NTT): Exploring Southeast Indonesia's Natural Wonders**
 

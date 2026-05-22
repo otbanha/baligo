@@ -3,7 +3,7 @@ title: penidaguide
 type: normal
 randomCount: 5
 lang: en
-_srcHash: 91658e187b9f448ba7ad2f6d8895b494
+_srcHash: 241ae3ee5a88d32ac3fcf4747580df41
 ---
 
 ## Nusa Penida Travel Guide

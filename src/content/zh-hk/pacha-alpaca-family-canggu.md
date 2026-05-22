@@ -17,7 +17,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: zh-hk
-_srcHash: 7c4842924ded907c55c1b4518c51f81d
+_srcHash: 17e50fa9576dc4b3dbbd9d93fb46f51f
 ---
 如果你正計劃緊一場充滿樂趣同教育意義嘅親子旅行，峇里島 Nauru Creative City 嘅 Pacha Alpaca 羊駝互動體驗絕對係家庭出遊嘅完美選擇！呢個位於 Nuanu 自然保護區（坎古以北）嘅景點，唔單止可以俾小朋友同可愛嘅羊駝親密接觸，仲可以俾全家人喺大自然嘅懷抱中享受一段寧靜而難忘嘅時光。
 

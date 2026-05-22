@@ -31,7 +31,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_91532107705be575f99c7a8160f0d02c.jpg'
 originalUrl: 'https://vocus.cc/article/679ccd73fd897800016e1e52'
 lang: zh-cn
-_srcHash: 375a64a11022d5874feb2f5da9d1a7fc
+_srcHash: 41ca65d327cf987cfe8f5365e176e7c1
 ---
 
 > 原开箱文由常常在我们脸书社团贡献写文的版主 [萧雅心](https://www.facebook.com/share/p/1A5kJ9Micj/) 提供

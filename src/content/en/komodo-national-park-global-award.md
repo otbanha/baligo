@@ -22,7 +22,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: en
-_srcHash: 0a3fe10b2334f06f84ceb554d900639f
+_srcHash: 80dff85cc3df4d63461ca5f13ad6a56e
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0a004c49dc307d97ded63cf44e4a774b.jpg)

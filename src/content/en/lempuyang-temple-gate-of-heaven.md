@@ -24,7 +24,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1779102196901-lempuyang.pn
 originalUrl: 'https://vocus.cc/article/64db6b72fd897800013a9475'
 updatedDate: 2026-05-18T00:00:00.000Z
 lang: en
-_srcHash: 02c76ecc47a0fa693a63109999912bee
+_srcHash: 70cf76c8efc5af5d1625ab2c73e3d073
 ---
 
 update: 2026/05/18

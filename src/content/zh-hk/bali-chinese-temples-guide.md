@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0b2a80bca6d13f204b5a0e41bf717e85.jpg'
 originalUrl: 'https://vocus.cc/article/68fc59fdfd89780001842abe'
 lang: zh-hk
-_srcHash: e22d753cba7f46cfcf096041544ddc31
+_srcHash: 7a7bb9367c106d601e035cf0c156beb3
 ---
 
 峇里島以印度教廟宇聞名，但其實島上亦散落住幾座充滿東方色彩嘅中式佛教寺廟。呢啲寺廟唔單止展現咗華人移民喺峇里島嘅歷史痕跡，亦成為旅人尋找靜心與文化融合嘅獨特角落。

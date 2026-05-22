@@ -36,7 +36,7 @@ agoda_star_rating: 5
 latitude: -8.522534
 longitude: 115.26313
 lang: en
-_srcHash: 141c59c55244c4736a1dad1a60cdcbbb
+_srcHash: fbe45d2b88236518042a2c66ebf07e8a
 ---
 
 Alaya Suites Ubud is the **newest addition** to Alaya Hotels & Resorts, currently the latest member of the group. Located in the Pengosekan area, it offers a quieter and more private atmosphere compared to the group's flagship Alaya Resort. The design blends modern elements with Balinese cultural touches, featuring 45 suites and 6 one-bedroom villas. The property exudes understated luxury—not the flashy tropical resort type, but the kind of place that makes you want to slow down. **Now is the perfect time to experience this new property before the crowds arrive.**

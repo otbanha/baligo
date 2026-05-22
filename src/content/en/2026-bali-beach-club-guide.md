@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2fb8cb22a83dc08d9c39360989581ebb.jpg'
 originalUrl: 'https://vocus.cc/article/695f8a37fd897800019d57f4'
 lang: en
-_srcHash: bcee466640eed027cd3bd3a6e9c0ce4f
+_srcHash: 51fb0b620c89a9a9e247ed1850e8962d
 ---
 
 In 2026, when you visit Bali, stop just hitting up cafes! The truly savvy travelers are all about "Beach Club Jumping" 🌊🍹

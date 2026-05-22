@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: f4643a5b642994fb88199d3e0f98eebd
+_srcHash: cf145151db57450ba661be8ab9dec4f3
 ---
 
 每个飞过巴厘岛伍拉莱国际机场（I Gusti Ngurah Rai International Airport）的人，大概都有一个共同的痛苦回忆——尤其是旺季或航班高峰时段，从入境海关排到行李转盘，整个过程动辄一两个小时起跳。老实说，飞机一落地就被困在排队人龙里，假期心情直接打对折。

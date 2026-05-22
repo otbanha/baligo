@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: f207120a01edd7330a6409e23dd8808f
+_srcHash: c2f2a5b87251219ba593dadc07062579
 ---
 近期喺一個以峇里島與印尼旅遊為主題嘅Facebook群組入面，有網友提出一個相當實際嘅問題：可唔可以帶台灣常見嘅麻油雞杯麵、花雕雞杯麵入境印尼？呢個問題迅速引發大量討論，留言區亦呈現出一種「經驗分享派」與「規定模糊派」並存嘅現象。
 

@@ -15,7 +15,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-hk
-_srcHash: cc624d8bc2afc615caa3dffd68d58a1f
+_srcHash: 2c5899906d0eed7c6801efa8cd640dc5
 ---
 ## 🏝️ 峇里島移民署小隊出動啦！ 🚨
 

@@ -15,7 +15,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 67ba80158b427dcec7c8b467d3491ada
+_srcHash: 47de1aa494b205f14abb9105a04d1a40
 ---
 
 【Today's USD Exchange Rate: 16,775】

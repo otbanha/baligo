@@ -21,7 +21,7 @@ agoda_star_rating: 5
 latitude: -8.67703628540039
 longitude: 115.2631607055664
 lang: zh-cn
-_srcHash: f8ddea824d427151976e3110553c0ebb
+_srcHash: 4487e13696392f4d2c1e69236d39cddb
 ---
 
 沙努尔新开幕的五星级酒店「Bali Beach Hotel」入住体验！没想到只需USD$129左右（淡季价格），就能住到真正的沙努尔海滩第一排海景房，更重要的是地点极具战略性，无论是观光还是医疗需求都能完美满足！

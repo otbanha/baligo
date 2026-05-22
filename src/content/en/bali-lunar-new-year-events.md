@@ -18,7 +18,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: en
-_srcHash: cf5594d425ef20c8d7d0ed6ba694a565
+_srcHash: c7d84eecdd22bb5004dcfb09c03047ae
 ---
 Here’s a guide to celebrating Lunar New Year in Bali in 2025. If you and your family are visiting Bali during the Lunar New Year, you can also experience the festive atmosphere in a foreign land!
 

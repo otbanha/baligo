@@ -25,7 +25,7 @@ agoda_star_rating: 4.5
 latitude: -8.791350364685059
 longitude: 115.12996673583984
 lang: en
-_srcHash: 0251dc8d3a3397a734ce09ab00694a54
+_srcHash: 49969643989cd15a10fb8674b44458b9
 ---
 
 Located on the southern tip of Bali's Bukit Peninsula, Uluwatu is renowned for its dramatic cliffs and stunning sunsets. Hidden near Balangan Beach, **La Cabane Bali** is a dreamy "secret base" for many travelers. Combining natural charm with French elegance, this intimate retreat is meticulously designed, making its rooms nearly impossible to secure.

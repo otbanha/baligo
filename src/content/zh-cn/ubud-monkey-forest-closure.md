@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e50b47be8b5a445ea5822ae221250f22.jpg'
 originalUrl: 'https://vocus.cc/article/675e8258fd89780001f86f69'
 lang: zh-cn
-_srcHash: 2c1ba62b4695aef9894e36248cfaffa5
+_srcHash: 8585e1ab8331aef54a118b1aaaaa9722
 ---
 
 巴厘岛乌布著名的**圣猴森林（Monkey Forest）**，因发生一起令人痛心的悲剧，现已无限期关闭。这座以其自然美景和调皮猴群闻名的景点，如今变得异常冷清。这起事件不仅引发了各界对旅游安全的关注，也迫使管理方加速检视安全措施，确保游客未来的安全。

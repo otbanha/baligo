@@ -19,7 +19,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: en
-_srcHash: cc624d8bc2afc615caa3dffd68d58a1f
+_srcHash: 2c5899906d0eed7c6801efa8cd640dc5
 ---
 
 ## 🏝️ Bali Immigration Task Force in Action! 🚨

@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 9384847f1bc27ee6684f420612a0b097
+_srcHash: 7a166cd08a4495c58a6b273f333cf6c1
 ---
 
 Have you ever been on a trip to Bali, eagerly written several postcards, dropped them into a mailbox or asked the hotel to mail them, only to wait forever after returning home, with no sign of the postcards?

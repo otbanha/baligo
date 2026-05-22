@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d4e931135ea55fd309372f2872e96160.jpg'
 originalUrl: 'https://vocus.cc/article/654249defd89780001041c87'
 lang: en
-_srcHash: 9be02ac60c8ac76585ecfd894c25fb64
+_srcHash: 3e15acbf9ba08adbcfac940ef061c7d2
 ---
 This is the third episode of our introduction to the magical island of Nusa Penida (Chinese translation: 努沙佩尼達島, 佩尼達島). We'll introduce you to four famous dive spots here, where you can find plenty of fun whether you're snorkeling or scuba diving.
 

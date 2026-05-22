@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: c17a5b3690de5c7d316008114ba06fd5
+_srcHash: 60e33f99df20a227277e29417fc510b2
 ---
 峇里島五星級酒店市場喺 2026 年迎來一顆令人期待已久嘅新星。Paradisus by Meliá Bali 於 2026 年 2 月正式重新開幕，呢間係西班牙 Meliá Hotels International 集團旗下嘅旗艦品牌 Paradisus 喺亞洲嘅第一間「Destination Inclusive」全包式度假村。前身為峇里島知名嘅 Meliá Bali Resort，經歷大規模翻修改造，以全新品牌與全方位升級嘅服務重磅亮相，落腳努沙杜瓦精品度假區，正式宣示佢要成為峇里島家庭旅遊與蜜月旅行嘅頂級新選擇。
 

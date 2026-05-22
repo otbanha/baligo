@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/663ec407fd89780001e37610'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 9b8bb089a5d60f8a6a69688ff72bda79
+_srcHash: 08cf470738d7d5aaf05fe41999856aa3
 ---
 
 喺峇里島呢片神奇嘅土地上，隨住國際觀光客越來越多嘅趨勢，信用卡嘅接受程度喺峇里島亦都越來越普及。作為一名旅行者，您可能會考慮用信用卡嚟支付您嘅開支。然而，用信用卡喺峇里島旅行有佢嘅利與弊，等我哋一齊嚟探討下。

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/65a3438afd89780001d93651'
 category:
   - 住宿推薦
 lang: zh-hk
-_srcHash: 1e4338521f66065eff87407b00379c48
+_srcHash: e59fe522806e7be86e2e54e789a18b1f
 ---
 
 根據全球最大嘅旅遊指南平台 Tripadvisor 嘅[統計研究顯示](https://tripadvisor.mediaroom.com/2024-01-09-The-Results-Are-In-Tripadvisors-Top-2024-Destinations-According-to-Global-Travelers)，2024年度最佳旅遊目的地涵蓋七大類別，其中包括熱門旅遊目的地、趨勢旅遊目的地、文化旅遊目的地、美食旅遊目的地、自然旅遊目的地，以及今年特別新增嘅兩個次類別——度蜜月旅遊目的地同可持續發展目的地。

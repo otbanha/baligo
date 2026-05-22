@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/656f160bfd89780001e07ea9'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: c505608e6d8cac7a1215a512b20bb723
+_srcHash: 4e0ef4b406b3b44ff8fd574b38aadf13
 ---
 
 ## **巴厘岛旅游：落地签还是电子签？**

@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1778167260923-plug.png'
 originalUrl: 'https://vocus.cc/article/65686558fd89780001fef654'
 lang: zh-hk
-_srcHash: 8cb14a3ba0df01df7aa14d6dc22bd45e
+_srcHash: 5d0ff95f4600fda4be72939d5ff6c5c8
 ---
 
 印尼同峇里島嘅電壓標準係**220伏特（220V**），呢個係一個重要嘅資訊，特別對於計劃攜帶電器前往該地嘅旅客而言。喺選擇攜帶邊啲電器前，一定要確保你攜帶嘅電器設備支援國際標準嘅220伏特電壓，咁樣先至可以喺印尼同峇里島正常使用呢啲電器。

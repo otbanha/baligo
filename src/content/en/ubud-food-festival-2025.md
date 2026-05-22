@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/681f37a6fd897800015b6ab0'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 7522233bdc199d54eaa321a44cce3f7a
+_srcHash: 3e499d6fd19e701cf031ee79c26333d4
 ---
 
 ## **10th Anniversary of Ubud Food Festival: A Flavorful Journey Full of Stories**

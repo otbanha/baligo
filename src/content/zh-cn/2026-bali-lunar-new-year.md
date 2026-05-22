@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/698202dcfd89780001016bf7'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 9197f3f80d665c4d80f457a599541a4e
+_srcHash: 6fb204a0d74f6c2abf6251ec6471d4a7
 ---
 以下为您整理的巴厘岛农历新年活动指南：
 

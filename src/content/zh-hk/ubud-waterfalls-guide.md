@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e74bbb16a16cd1b0f28c1d1b99c23329.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b82fd897800013a995f'
 lang: zh-hk
-_srcHash: 1dd853ce89d173445798c7d08b6f812e
+_srcHash: 22d081249caa2d1a3740a346b0822cdd
 ---
 
 烏布（Ubud）係位於印尼峇里島中心嘅一個寧靜小鎮，以其令人屏息嘅自然美景同文化遺產而聞名。喺呢度，仲有好多令人驚嘆嘅瀑布吸引住來自世界各地嘅自然愛好者。喺呢篇文章入面，我哋會探索烏布附近嘅三大知名瀑布：Tegenungan瀑布、Kanto Lampo瀑布同Tukad Cepung瀑布。每一個瀑布都有獨特嘅魅力同吸引力，為遊客提供咗難忘嘅大自然奇妙體驗。

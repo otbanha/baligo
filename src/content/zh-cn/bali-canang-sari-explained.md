@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_38eac710ef37ffaf4bfdd348e071bb02.jpg'
 originalUrl: 'https://vocus.cc/article/66964aa7fd89780001c7051c'
 lang: zh-cn
-_srcHash: 832f0885fdd2005438136ffa0e3baac0
+_srcHash: dcd7a25d9824c49b1d0a0ad80cc2e5ff
 ---
 
 巴厘岛，这片充满魅力的土地，不仅以其美丽的风景和热情好客的人民而著称，还以其深厚的宗教与文化传统吸引着世界各地的游客。在这些传统中，Canang sari （扎囊萨利）是巴厘岛每日祭拜习俗中不可或缺的一部分。这些精致的祭品随处可见，从家门口到寺庙，一切都弥漫着敬拜和虔诚的气息。

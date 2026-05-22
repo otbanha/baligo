@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c4ccb85aed4e875424812c7fbb5670da.jpg'
 originalUrl: 'https://vocus.cc/article/64e8910efd89780001248a09'
 lang: zh-hk
-_srcHash: 5ec327945d16719baf6c3787d128cbc0
+_srcHash: 8845dc32b1c932b92ddf20ff76169d78
 ---
 
 峇里島，呢個擁有靚海灘、濃厚文化同寧靜氛圍嘅熱門旅遊勝地，吸引咗無數嘅遊客。不過，隨住遙距工作嘅興起，越來越多人希望可以喺呢個天堂般嘅地方同時度假同工作。好彩嘅係，峇里島提供咗一啲選擇，等你可以喺度過美好時光，同時保持工作效率。

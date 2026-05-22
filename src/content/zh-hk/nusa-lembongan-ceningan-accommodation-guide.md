@@ -38,7 +38,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b8258610da76c0bfcef4b88efa16f7b1.jpg'
 originalUrl: 'https://vocus.cc/article/67205cb1fd89780001ee1413'
 lang: zh-hk
-_srcHash: 2e53f2b7984846c3b03eb59579c686f6
+_srcHash: 9872efc38949d65ffafab658e0769df8
 ---
 
 位於峇里島東南方嘅離島 - 藍夢島/又稱倫邦岸島（Nusa Lembongan）同金銀島（Nusa Ceningan），提供咗遠離峇里島喧囂同人群嘅寧靜避風港。呢兩座迷人嘅小島以悠閒嘅氣氛、豐富嘅海洋生態同壯麗嘅自然景觀而聞名。🐡🌴☀️島上嘅寧靜氛圍會令人深深著迷，有啲人會特別鍾意呢度人少且悠閒嘅滑浪地點。

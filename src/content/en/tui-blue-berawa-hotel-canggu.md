@@ -19,7 +19,7 @@ agoda_star_rating: 5
 latitude: -8.660595
 longitude: 115.13974
 lang: en
-_srcHash: 5bf1dea1183e16d8ae218b1aff93c188
+_srcHash: 65d2bc599340fbec7a384d86358c2048
 ---
 
 ### TUI BLUE Berawa Hotel and Villas: A Luxurious Retreat in Canggu, Bali

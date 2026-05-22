@@ -43,7 +43,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1dc5937d167ac366de84aa8ea3cc0baa.jpg'
 originalUrl: 'https://vocus.cc/article/66c3e440fd897800014425a8'
 lang: en
-_srcHash: 690da9f5e47b7bac60c54909d1f3b89f
+_srcHash: da692e64a27e2d32418634c4084973d3
 ---
 Most Sanur hotels are situated near the lively city center or along Sanur's stunning 8-kilometer beach. The quiet, relaxed town, affordable hotel prices, and excellent beaches make Sanur one of the best accommodation options on Bali for families and budget-conscious travelers.
 

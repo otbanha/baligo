@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/68536a7afd89780001fcba80'
 category:
   - 簽證通關
 lang: en
-_srcHash: 0efda24a671a32ebe9123f8c4c2ab05b
+_srcHash: cefd762b6faacf6cf06116e6f8601292
 ---
 
 The Indonesian Immigration Bureau recently announced significant visa reforms aimed at combating illegal activities and simplifying visa procedures. The previously complex visa categories will be consolidated to provide a clearer, unified framework.

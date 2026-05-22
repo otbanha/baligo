@@ -33,7 +33,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 45f67b80f10a761e23842fa55d3624e7
+_srcHash: 66e09933f3b170d857e70ff372a1463d
 ---
 ## Bali Tourism Landscape Reshuffled: Chinese Tourists Win Award, Malaysia Ousts Australia for the Top Spot!
 

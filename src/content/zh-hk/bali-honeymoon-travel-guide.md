@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_928bcf8de351c2ebc6891979b506e58e.jpg'
 originalUrl: 'https://vocus.cc/article/6658817efd89780001222f04'
 lang: zh-hk
-_srcHash: 9524b43a0fd4d3910df3a03bfd156904
+_srcHash: a2690691715cb9ee2e93c65394a60e08
 ---
 
 > 以下內容由團友 [Angel Wu](https://www.facebook.com/angel.wu.75491/) 提供，並同意我哋改編

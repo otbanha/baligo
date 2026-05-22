@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/64e187dffd897800017304fe'
 category:
   - 叫車包車
 lang: zh-cn
-_srcHash: bab2c965c3c1e740714da0493e3b5a65
+_srcHash: a6e2ad789329f604e54d09c8e05419e9
 ---
 
 [🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)

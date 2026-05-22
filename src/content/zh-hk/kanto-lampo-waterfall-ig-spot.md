@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4cc15f376c57006aeb3deaafc3b85328.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b71fd897800013a9435'
 lang: zh-hk
-_srcHash: e895b27e971fd384a364be1fe7a77943
+_srcHash: cd25bee6135a1be53706515d2eb501cd
 ---
 峇里島烏布附近嘅瀑布，影靚相唔可以錯過嘅瀑布就係 Kanto Lampo Waterfall，
 

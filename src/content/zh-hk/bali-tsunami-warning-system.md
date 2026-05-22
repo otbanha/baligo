@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/68553ba9fd8978000171c34b'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 7c045a0cfebd16eaf744dad26fbf3574
+_srcHash: fc6530fc403a52fe871b83ca1b4b21a5
 ---
 
 峇里島政府近日正式啟用咗全新嘅**海嘯預警與應變系統中心（InaTEWS）**。呢項重大工程係印尼全國「災害韌性發展計劃」嘅一環，由印尼氣象、氣候與地球物理局（BMKG）主導，並獲得世界銀行支持。

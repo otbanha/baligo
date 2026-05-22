@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/684e466efd8978000159a13b'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: afd15994a3d65ccf07a96957f411001e
+_srcHash: 5f430ef0921d9182b795efa04c3d0a79
 ---
 以下係目前喺沙努爾當地最受歡迎嘅六間海邊咖啡廳推薦。如果你打算去峇里島，千祈唔好錯過呢啲特色舖頭！
 

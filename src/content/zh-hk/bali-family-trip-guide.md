@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4516353105148f7d4ebee19a4bcbe6a4.jpg'
 originalUrl: 'https://vocus.cc/article/6970b673fd897800013623d5'
 lang: zh-hk
-_srcHash: 0c38dfbaa4d3170b93c97602ae6fda18
+_srcHash: 795f576ba9d95a2f21c03f431c8dad88
 ---
 
 > 以下內容改編自團友 [林恐龍](https://www.facebook.com/share/p/1DMYqVwzhq/) 分享嘅遊記：

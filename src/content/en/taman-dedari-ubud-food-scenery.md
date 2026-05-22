@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6795adf1fd8978000133fe10'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 78cef6f6ddfd4a36e88e4affcdf9b8ff
+_srcHash: c802d164e582985b8d9fb4a994abda4b
 ---
 
 ### Explore Taman Dedari (Fairy Garden) in Ubud, Bali: The Beauty of History and Nature

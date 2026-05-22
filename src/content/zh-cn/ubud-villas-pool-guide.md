@@ -23,7 +23,7 @@ heroImage: >-
 originalUrl: 'https://vocus.cc/article/65d21157fd897800013be576'
 shuffle_h2: true
 lang: zh-cn
-_srcHash: b6fca86ee4427075784af7435022c1c5
+_srcHash: 68cfb1961ef2080c4464b47661ddce24
 ---
 
 # 在乌布住宿常见问题

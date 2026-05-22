@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67617e4efd89780001d9e634'
 category:
   - 叫車包車
 lang: zh-cn
-_srcHash: cc3ca54d57fdc31824f2fa4b0dae23a6
+_srcHash: 745910bff10db09d857a3deaf67e40c2
 ---
 
 ## 巴厘岛交通拥堵的现状

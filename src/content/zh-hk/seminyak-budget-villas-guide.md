@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_16c256b70aee5f839bf1ed7952ac49bb.jpg'
 originalUrl: 'https://vocus.cc/article/66ee9770fd89780001306753'
 lang: zh-hk
-_srcHash: 5412575b8cfb57297b09aa20b26e32e6
+_srcHash: 5de5c4b48c7d6bb3e5ca0d7f2da9c9b5
 ---
 
 # 水明漾好評嘅平價villa

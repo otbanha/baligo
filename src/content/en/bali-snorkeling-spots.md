@@ -17,7 +17,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_43cf9be1b2c2140efad285e9945bb493.jpg'
 originalUrl: 'https://vocus.cc/article/686e0ee6fd8978000139782d'
 lang: en
-_srcHash: 7425e59e70254f8435b7d97236103811
+_srcHash: 29c4a74d9399406f373713eee9fe1d13
 ---
 
 **Snorkeling in Bali: A Stunning Adventure for Beginners**

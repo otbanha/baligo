@@ -24,7 +24,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1777691082513-jimbaran_sea
 originalUrl: 'https://vocus.cc/article/6506748dfd897800018d6be2'
 shuffle_h2: true
 lang: zh-hk
-_srcHash: 434e5ee6e85575659b471f7693acf054
+_srcHash: 2ecd1f22b9c808bd8b9f23324c20e5f6
 ---
 
 金巴蘭（Jimbaran）係峇里島一個好靚嘅沙灘地區，以絕佳嘅沙灘、新鮮嘅海鮮同浪漫嘅日落聞名。呢個地方有好多海鮮餐廳俾你揀，遊客可以喺海邊享受美味嘅海鮮大餐，同時欣賞壯觀嘅海景。另外，由於金巴蘭鄰近峇里島國際機場，食晚餐嘅時候仲可以睇到飛機起降。

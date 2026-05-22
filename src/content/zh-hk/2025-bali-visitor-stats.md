@@ -15,7 +15,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-hk
-_srcHash: 919f819634863c2d1092a3dbe4fda773
+_srcHash: f12be5fd389b92305648dfa7338c2d22
 ---
 「而家嚟峇里島嘅人，同以前一樣多嗎？」
 

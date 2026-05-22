@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_55a17e32ff3426be5b5ca449098353ec.png'
 originalUrl: 'https://vocus.cc/article/6860bc8bfd897800019ce915'
 lang: zh-hk
-_srcHash: ae451b5b74eb529b76662e0a09d254ff
+_srcHash: 872c15154465000ebec5764489401f39
 ---
 
 > 以下內容改編自團友 [Johnny Wei](https://www.facebook.com/share/p/16WTfUrpzo/) 分享嘅遊記：

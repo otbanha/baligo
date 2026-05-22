@@ -33,7 +33,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5c7513ab8313b5d1aa4c189bbff4899c.jpg'
 originalUrl: 'https://vocus.cc/article/660bcff3fd89780001d037ad'
 lang: en
-_srcHash: 18c22c7caccbfbcb5386809542441fa7
+_srcHash: 702b4bb3b5baf7e85a19665b91b1c33b
 ---
 
 Bali's Ayana Resort is an extremely popular accommodation spot in Bali. The YouTuber 'Designer Play' shares his wonderful experience here in a video.

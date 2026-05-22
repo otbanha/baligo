@@ -30,7 +30,7 @@ agoda_star_rating: 4.5
 latitude: -8.810282707214355
 longitude: 115.1052017211914
 lang: zh-cn
-_srcHash: e70a7dd4b612b5a5cf331cd6e261d159
+_srcHash: 0a8574d526084d0ca5cb1aaa7d0c19ba
 ---
 
 巴厘岛乌鲁瓦图有很多面海的酒店，但能让你字面意义上「住在悬崖岸边上」的，大概只有这一间。

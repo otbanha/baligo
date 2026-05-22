@@ -15,7 +15,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cb9447e2f26e0a7d8a3078de03ad4620.png'
 originalUrl: 'https://vocus.cc/article/6995d6f6fd89780001575756'
 lang: en
-_srcHash: 9b69c1cfebcbd426b44beaa32dff4b40
+_srcHash: 1c2db5d3d370153b61c05512dcf4b086
 ---
 🗓️ 2026 First Half Vacation Strategy
 

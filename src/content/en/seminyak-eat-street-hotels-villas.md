@@ -31,7 +31,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: d7086b529e966df3f47eef4c86148da7
+_srcHash: 65dd66cde3d490b96937e3b00915ad54
 ---
 
 When heading to Bali, many people's first instinct is to rush to Seminyak—but honestly, **Seminyak is the most challenging place to choose**.

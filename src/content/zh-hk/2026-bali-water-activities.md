@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_879f4fdb8dbb83fac3a613828dec0a3f.png'
 originalUrl: 'https://vocus.cc/article/694122b8fd89780001f514c9'
 lang: zh-hk
-_srcHash: 36424829a36f2127c65b98e84a9d08d2
+_srcHash: 8dacdb0e8dd8a9d5d5a42c1ed281d478
 ---
 
 峇里島嘅水上活動非常豐富多元，從刺激嘅極限運動到悠閒嘅生態探索，應有盡有。以下係完整嘅水上活動推薦，適合唔同興趣同體能程度嘅遊客。

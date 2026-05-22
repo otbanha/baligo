@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/68553ba9fd8978000171c34b'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 7c045a0cfebd16eaf744dad26fbf3574
+_srcHash: fc6530fc403a52fe871b83ca1b4b21a5
 ---
 
 The Bali government recently inaugurated the new **Tsunami Early Warning and Response System Center (InaTEWS)**. This major project is part of Indonesia's national "Disaster Resilience Development Plan," led by the Indonesian Meteorology, Climatology, and Geophysical Agency (BMKG) with support from the World Bank.

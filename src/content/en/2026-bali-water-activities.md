@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_879f4fdb8dbb83fac3a613828dec0a3f.png'
 originalUrl: 'https://vocus.cc/article/694122b8fd89780001f514c9'
 lang: en
-_srcHash: 36424829a36f2127c65b98e84a9d08d2
+_srcHash: 8dacdb0e8dd8a9d5d5a42c1ed281d478
 ---
 
 Bali offers a diverse range of water activities, from adrenaline-pumping extreme sports to leisurely eco-explorations. Below is a complete list of recommended water activities suitable for visitors with varying interests and fitness levels.

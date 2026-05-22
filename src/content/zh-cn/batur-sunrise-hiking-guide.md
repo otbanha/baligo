@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_683bd40a8676e52f320bb3d617abc30e.png'
 originalUrl: 'https://vocus.cc/article/66d31f77fd897800011851c1'
 lang: zh-cn
-_srcHash: b9f9c1f730209580159bad692ce6fba0
+_srcHash: 4c59018463a06707ce98a6f27ef5d308
 ---
 
 ## **享受巴厘岛巴杜尔山巅的壮丽日出**

@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/65ea5fc9fd89780001f099b8'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 43e20f128d37154242cf888c04113fde
+_srcHash: 5736c31397ed236b48b5e63705ee6a15
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7fd7545646d5af015dd7862936b090bb.png)

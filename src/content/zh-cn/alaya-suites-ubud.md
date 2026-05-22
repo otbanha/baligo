@@ -31,7 +31,7 @@ agoda_star_rating: 5
 latitude: -8.522534
 longitude: 115.26313
 lang: zh-cn
-_srcHash: 141c59c55244c4736a1dad1a60cdcbbb
+_srcHash: fbe45d2b88236518042a2c66ebf07e8a
 ---
 
 Alaya Suites Ubud 是 Alaya Hotels & Resorts 旗下**最新开业**的项目，目前是整个集团最新的成员。坐落于 Pengosekan 区，定位比集团旗下老牌的 Alaya Resort 更安静、更私密。整体设计融合现代感与巴厘岛文化元素，提供 45 间套房与 6 间一卧室 Villa，整栋走的是低调奢华路线——不是那种金碧辉煌的热带度假村，而是让人住进去就想放慢脚步的那种地方。**想抢在人潮涌入前体验全新项目，现在正是时机。**

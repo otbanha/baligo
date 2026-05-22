@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/65b51f59fd89780001e498d4'
 category:
   - 遊記分享
 lang: en
-_srcHash: 7c9a040025513edb50322cde0befc2ea
+_srcHash: 4a149a9ec8de0d01e8da6ed6d0873377
 ---
 
 This is the exciting 6-day independent trip our community member "[Sophie](https://www.facebook.com/soficia.chen)" took in Bali! Her itinerary combines many references from "[Xiao Jie Indonesia](https://www.youtube.com/@j_indonesia)" videos and our "Bali Travel Guide" tips. Let's take a look at this adventurous and exploratory journey she planned herself!

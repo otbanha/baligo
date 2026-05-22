@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6a38c8fbc6833eca3adeffb98870a912.jpg'
 originalUrl: 'https://vocus.cc/article/681601c6fd8978000139f8a3'
 lang: zh-cn
-_srcHash: 9519630c2424f1731854bb5f37f9e9a3
+_srcHash: a8fc2380b0979d9d4dce73517f094273
 ---
 
 ## **前言：为什么Labuan Bajo值得你专程造访？**

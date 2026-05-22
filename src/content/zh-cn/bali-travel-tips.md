@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9fef7339fe14f7635e55eb9eb13f7627.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b7dfd897800013a97bc'
 lang: zh-cn
-_srcHash: d4cbef5d5fcef3667b9b6d3d6de7af1e
+_srcHash: 02ef57f5cfbd854ea3fa3af36e61e4df
 ---
 
 巴厘岛旅游也是一趟美食之旅喔！你知道有哪十大巴厘岛美食吗？想学一句最接地气的印尼语吗？巴厘岛旅馆/villa推荐、巴厘岛住哪一区好呢？请看小杰印尼的介绍

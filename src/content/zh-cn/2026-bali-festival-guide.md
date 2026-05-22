@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b3815d5a3d738321cc3c3feb6481c2d8.png'
 originalUrl: 'https://vocus.cc/article/696a37c5fd89780001f0790b'
 lang: zh-cn
-_srcHash: 47b4f29d5f8f30a1ce551abb28db7200
+_srcHash: 723c31dda204165a982be1961e9cecc8
 ---
 
 巴厘岛，这片风光旖旎的南洋仙境，将在2026年以一系列缤纷的文化节庆，迎接每一位追寻灵感与欢庆的旅人。无论你想避开人潮，或是渴望沉浸于在地盛典之中，这份指南都将为你照亮前路，引领你深入体验岛上独有的生命力与节奏。现在就启程，探索巴厘岛灵魂中那抹灿烂而热情的色彩吧！

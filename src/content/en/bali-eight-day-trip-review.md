@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_692eaecb9dd12eb2a1234bfb9597793e.png'
 originalUrl: 'https://vocus.cc/article/69170335fd89780001bcca63'
 lang: en
-_srcHash: 9360d97fd47ceede2512fa087be0586b
+_srcHash: 9deddc71679400dcf228200aa2b90771
 ---
 
 > The following content is adapted from fellow traveler [Pinkey Lo's shared travelogue](https://www.facebook.com/share/p/1XMLomzb3h/):

@@ -15,7 +15,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-cn
-_srcHash: cf5594d425ef20c8d7d0ed6ba694a565
+_srcHash: c7d84eecdd22bb5004dcfb09c03047ae
 ---
 以下是关于2025年在巴厘岛庆祝农历新年的活动资讯整理，如果您和家人在农历新年期间到访巴厘岛，也可以在异国感受新年的气氛喔！
 

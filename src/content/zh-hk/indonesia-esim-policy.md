@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67bea49ffd897800012dbdce'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 511d0e187c276792f0549600c4f26056
+_srcHash: 628ea9c89fe3dbd26d24ff42fffa50f5
 ---
 隨住行動科技嘅快速發展，印尼政府正準備推出一系列新嘅行動通訊法規，呢啲法規將會對喺峇里島嘅外籍人士產生重大影響。
 

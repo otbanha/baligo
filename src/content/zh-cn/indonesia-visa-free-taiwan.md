@@ -10,7 +10,7 @@ originalUrl: 'https://vocus.cc/article/65742746fd89780001135982'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 9e8f53fabf2a2cb2d61e572353a4b6b6
+_srcHash: 0762de4a8df5d88d43084990cd1b069f
 ---
 
 据中央社报道，12月8日的消息，印尼正在考虑对来自20个国家的访客实施免签证政策，其中包括台湾。

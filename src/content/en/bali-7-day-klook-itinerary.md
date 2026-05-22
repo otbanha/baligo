@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/682c01fffd8978000182fc13'
 category:
   - 遊記分享
 lang: en
-_srcHash: 61c108326c13c30f6282ec07bb1e4d1c
+_srcHash: 92b7b1c5d5c9c211d6906f3d426f9926
 ---
 If you're like me - not keen on spending too much time planning but still want to experience all of Bali's beauty - I highly recommend adding Klook day tours to your itinerary! During our 7-day 6-night Bali trip, we booked three Klook day tours (Day 2, Day 4, Day 6), each one was relaxing yet exciting - truly the ultimate 'sleep on the bus, take photos at stops' experience. I want to share this with fellow travelers who also want to explore Bali effortlessly ❤️
 

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/678382f5fd897800013125a6'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 2728b79401f1aca8e41b56c2c18817e4
+_srcHash: 64b442075d7543b9d33af1e0ea988a99
 ---
 
 **2025 年最梦幻的旅游目的地：巴厘岛再次荣登榜首**

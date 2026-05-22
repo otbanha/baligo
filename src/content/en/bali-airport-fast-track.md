@@ -21,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/65bfadeffd89780001e1daf0'
 category:
   - 簽證通關
 lang: en
-_srcHash: c624070fb5e5b5cfa8255160f3c686d3
+_srcHash: 7770e4fec1babb960efb695bc07b3c76
 ---
 
 Bali, hailed as a paradise getaway, attracts countless tourists. However, with the growth of tourism, the airport has become increasingly busy. Many travelers often worry about long waits upon arrival, but on 02/02/2024, our group friend "DC" had a different experience—he successfully exited Bali Airport in just 25 minutes after landing!

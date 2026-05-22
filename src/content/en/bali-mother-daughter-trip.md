@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/665f1689fd89780001afd058'
 category:
   - 遊記分享
 lang: en
-_srcHash: 69abff061e6bb0db1f2dc19e615034d7
+_srcHash: b46112ccb46631051308d8b0287562b3
 ---
 
 > The following content is provided by fellow traveler [Zhang Pingping](https://www.facebook.com/zhang.p.ping.3/) and has been adapted with her permission

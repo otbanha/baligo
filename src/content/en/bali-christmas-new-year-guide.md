@@ -18,7 +18,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2852b7e85fd79c94b1667a9a54b5b783.jpg'
 originalUrl: 'https://vocus.cc/article/68f8711efd8978000136386b'
 lang: en
-_srcHash: e4bd89ed1b37e66aab0013d193f3dfe8
+_srcHash: 7e164af10af03631ef67d00ed6dcad7b
 ---
 Christmas doesn't have to be spent in the snow! On the tropical island of Bali, sunshine, beaches, and festive cheer await you. Not only is the climate pleasant, but there are also abundant activities, delicious Christmas feasts, and countless family-friendly accommodations.
 

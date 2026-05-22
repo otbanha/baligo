@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66012881fd897800017dfabe'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: 9c0a42ab9ef51f3a0eab1c3f55038925
+_srcHash: 773f1b67c77e2f4d68493f96f59dabce
 ---
 最近有個重要消息要話俾大家知——峇里島嘅旅遊稅即將進行抽查！呢項新政策已經實施咗成五個星期，而家係時候確保每個遊客都了解同遵守呢個新制度喇。
 

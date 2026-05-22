@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_127a8e6469f56bdbefac0f605a55d6a8.jpg'
 originalUrl: 'https://vocus.cc/article/68557a29fd897800017f4272'
 lang: en
-_srcHash: 9bdf4ae747eb809b1268ca58ebafc477
+_srcHash: f3d1c0cf5878bbeb4fabd075c1ce68b9
 ---
 
 ## **What is Devdan Show? A Journey Through Indonesian Culture**

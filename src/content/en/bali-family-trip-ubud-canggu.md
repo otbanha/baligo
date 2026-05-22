@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6bd57177ce5264894751be80f247f6ea.jpg'
 originalUrl: 'https://vocus.cc/article/66b84461fd89780001c7c2b4'
 lang: en
-_srcHash: 8ed5308adeca2e0dea75c02e54472ff0
+_srcHash: b4bd4630a8d55d3bcd464eedd574cca9
 ---
 
 > The following content was provided by fellow traveler [Zhao Kangkang](https://www.facebook.com/share/p/i8CMB6maodm1nafL/) and rearranged by us:

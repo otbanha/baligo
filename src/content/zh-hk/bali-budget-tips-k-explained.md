@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64e730ddfd89780001336a09'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 63936078b978f7cc2578a174fcde5386
+_srcHash: 48304a75199139ca4ec071b85a04fe33
 ---
 
 **喺印尼/峇里島消費成日見到數字後面有個K，咁係咩意思呢？**

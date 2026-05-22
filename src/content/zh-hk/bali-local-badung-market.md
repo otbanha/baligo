@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 3e1dfc7ffcf92f1528bd2376ba27ade8
+_srcHash: a43c9d3ac7cac160c97308a89f4f3340
 ---
 嚟峇里島玩，買手信呢件事真係會令人頭都大。木雕、蠟染布、香氛蠟燭、銀飾⋯⋯每個藝品市集行一圈，嘢多到唔知帶咩返屋企。但講真，呢啲觀光區嘅紀念品攤，當地人自己根本唔會去買。
 

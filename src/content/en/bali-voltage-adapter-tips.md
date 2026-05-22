@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1778167260923-plug.png'
 originalUrl: 'https://vocus.cc/article/65686558fd89780001fef654'
 lang: en
-_srcHash: 8cb14a3ba0df01df7aa14d6dc22bd45e
+_srcHash: 5d0ff95f4600fda4be72939d5ff6c5c8
 ---
 
 Indonesia and Bali operate on a **220-volt (220V)** standard, crucial information for travelers planning to bring electrical devices. Before deciding which appliances to pack, ensure your devices support this international voltage standard for proper functionality in Indonesia and Bali.

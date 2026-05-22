@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/68d13539fd89780001b06dfc'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: b2d2b5087016582e2a4e5914aea765ff
+_srcHash: 0daacaddd739bd968d97f0ccaaf97cba
 ---
 ### **1. 輕薄透氣嘅棉質或亞麻衫褲**
 

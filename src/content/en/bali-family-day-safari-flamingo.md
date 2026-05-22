@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2395e6bc33acfdbcbbea98c361788814.png'
 originalUrl: 'https://vocus.cc/article/6647416cfd89780001f5a5ef'
 lang: en
-_srcHash: caa2e64a472dbe569acc7c4b45b57717
+_srcHash: 136523fe2c415d8e9ebc1a217634143b
 ---
 
 Bali is a captivating travel destination, perfect not only for couples or friends but also an excellent choice for families with children. Today, I'll introduce an ideal family day trip itinerary that includes Bali Safari and Marine Park and Flamingo Beach Club, ensuring both you and your kids have a fun-filled day and create lasting memories.

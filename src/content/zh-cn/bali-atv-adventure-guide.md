@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65b6ef65fd89780001f5d032'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 80f515d96ad6c299303bda9c8a4e9e81
+_srcHash: 667146bf937334d1f8a4b24817284c09
 ---
 
 巴厘岛，这片被誉为“众神之岛”的热带天堂，拥有无数令人心惊的探险活动。而在众多选择中，最让人兴奋的之一就是骑着ATV四轮越野车穿越陡峭的山区和茂密的丛林。

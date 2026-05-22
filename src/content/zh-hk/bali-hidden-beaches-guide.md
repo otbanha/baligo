@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a620733c94c49dc8ea080f79b317e293.jpg'
 originalUrl: 'https://vocus.cc/article/64e4c0c9fd897800014e31bf'
 lang: zh-hk
-_srcHash: a13a3ab7a533f7c79266b113a42d0509
+_srcHash: e545ea32f956b050754949df1cc645b8
 ---
 
 峇里島，呢個美麗嘅度假勝地，以其壯觀嘅海灘、繽紛嘅文化同豐富嘅自然風光而聞名於世。除咗眾所周知嘅熱門海灘外，呢個島嶼仲藏住好多秘境小海灘，人煙稀少，冇咩遊客，等待住探險家嘅發現。

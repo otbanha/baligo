@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6842f236fd897800017d78d5'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: e1eab5e2ec5faf35e4383e3531102e86
+_srcHash: 7c70182bf82bc67197830ef1ca033e1d
 ---
 
 ## **巴厘岛旅游怎能少了 eSIM？**

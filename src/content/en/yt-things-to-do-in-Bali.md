@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e671dd57b7c1d196ec96d2ca2f74f1a3.jpg'
 originalUrl: 'https://vocus.cc/article/660d1d54fd89780001dc5bbb'
 lang: en
-_srcHash: be901092bf969bd4880810264b4ade48
+_srcHash: 143cba6b9d580181619a98a3e7b150d8
 ---
 
 The renowned Hong Kong YouTuber "[Crazy with YU Fang Ting](https://www.youtube.com/@crazywithyu)" recently traveled to Bali, staying there for over ten days and experiencing a variety of exciting activities. In her video, she compiled a list of five must-do activities in Bali, allowing us to follow her footsteps and appreciate the unique charm of Bali.

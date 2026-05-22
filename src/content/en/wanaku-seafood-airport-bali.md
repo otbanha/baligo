@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/6794fb39fd897800011b4132'
 category:
   - 美食景點活動
 lang: en
-_srcHash: e390bc598ff461a26a036204fd800d23
+_srcHash: 5ddb065b3d1ba1e86a792270373ab908
 ---
 
 If you're in Bali looking for a spot that satisfies your taste buds while offering a unique dining experience, then **Wanaku Seafood & Chinese Restaurant** is undoubtedly your best choice. Situated in the heart of Bali, this restaurant is famous for its fresh seafood and authentic Chinese dishes, making it a well-known Chinese seafood restaurant on the island. They perfectly combine food and ambiance to deliver an unforgettable culinary journey.

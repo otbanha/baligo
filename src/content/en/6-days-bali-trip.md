@@ -18,7 +18,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_08443e3681ae1c13cb3f955183588745.jpg'
 originalUrl: 'https://vocus.cc/article/6948d8cafd89780001031e78'
 lang: en
-_srcHash: e8180a0d41e42f352104887720f2a5b0
+_srcHash: 499e31c65103b05da8b7cf1d1ac2e542
 ---
 > The following content is adapted from fellow traveler [Liao Yiwen](https://www.facebook.com/share/p/1CjoK9BEFX/)'s travelogue:
 

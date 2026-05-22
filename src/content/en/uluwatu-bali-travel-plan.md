@@ -20,7 +20,7 @@ embeds:
     platform: youtube
     url: 'https://www.youtube.com/watch?v=v6W_UtIxH0Y'
 lang: en
-_srcHash: 49b1c1411ea694a4246bf74e27eaadde
+_srcHash: 81322fa921f76e70abe178e7bf906851
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_31df71252b0296e7d4223bd574817f5b.jpg)

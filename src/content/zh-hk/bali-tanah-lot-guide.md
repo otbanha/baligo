@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3a3647bbd28b5fe748c00b69b5d9c430.jpg'
 originalUrl: 'https://vocus.cc/article/671f86f1fd89780001de9fae'
 lang: zh-hk
-_srcHash: 867fdc8d785132c7cd9da167b23f903e
+_srcHash: bf55fa1a0faa8ec9485ad487e3637607
 ---
 ## 一、海神廟嘅歷史背景與宗教意義
 

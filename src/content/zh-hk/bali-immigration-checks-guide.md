@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/68bf8728fd897800013427c2'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: e5e065b4cfdfe92fa4143dcc29e58dd2
+_srcHash: 558a3a77af5bc6d94b9cf442e21968a3
 ---
 
 ## **好多人問：要印嗎？**

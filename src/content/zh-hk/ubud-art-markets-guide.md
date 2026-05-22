@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fc7f3da47eadb345f044cbd06455d214.jpg'
 originalUrl: 'https://vocus.cc/article/6712fb1dfd89780001f69011'
 lang: zh-hk
-_srcHash: 593b344983e6f2ab6b94a144c38c44d8
+_srcHash: 3106790f71b0b9649fb4a8a794594029
 ---
 
 烏布（Ubud）作為峇里島文化與藝術嘅中心，擁有多個極具特色嘅藝術市場，每一處都蘊含住獨特嘅魅力同寶藏。今日就等我哋一齊探索呢五個必訪嘅藝術市場，感受峇里島最地道嘅文化氛圍。

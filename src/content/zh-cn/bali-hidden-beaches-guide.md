@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a620733c94c49dc8ea080f79b317e293.jpg'
 originalUrl: 'https://vocus.cc/article/64e4c0c9fd897800014e31bf'
 lang: zh-cn
-_srcHash: a13a3ab7a533f7c79266b113a42d0509
+_srcHash: e545ea32f956b050754949df1cc645b8
 ---
 
 巴厘岛，这个美丽的度假胜地，以其壮观的海滩、缤纷的文化和丰富的自然风光而闻名于世。除了众所周知的热门海滩外，这个岛屿还藏着许多秘境小海滩，人烟稀少，没有什么游客，等待着探险家的发现。

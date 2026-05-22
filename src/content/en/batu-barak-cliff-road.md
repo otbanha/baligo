@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b6047d6cb9e26f87bdbf416907acf6fe.jpg'
 originalUrl: 'https://vocus.cc/article/67c9a234fd897800014b5a11'
 lang: en
-_srcHash: 59fe7b18725a4b4a54b5b48f90afbce6
+_srcHash: 0fbeb0646e7ad314fc8b93cebe901280
 ---
 
 Bali, this mysterious and romantic vacation paradise, hides many stunning secrets beyond its famous beaches and rice terraces. Located in Uluwatu, **Batu Barak** (also known as **Tanah Barak**) has become one of the hottest spots in recent years. This place, referred to as the 'Blue Road' or 'Cliff Road', attracts countless travelers with its magnificent limestone cliffs, pristine white sand beaches, and crystal-clear waters. Today, let's step into this dreamlike place and feel its charm!

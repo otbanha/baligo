@@ -15,7 +15,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-hk
-_srcHash: 56b34f2a2724530f72997bd9042c12fd
+_srcHash: 20f9feeae0b2d20e4e0272bd368fc425
 ---
 
 ## 峇里島免簽問題：印尼政府嘅態度同考量

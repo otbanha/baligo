@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/67301111fd897800016667a1'
 category:
   - 家庭親子
 lang: en
-_srcHash: f3b7401746c90f7da2655978a4c2b735
+_srcHash: 7a27bc4d4baf73a760567153f858bb97
 ---
 
 When vacationing in Bali, especially for family trips, many families consider hiring a nanny to ease the burden of childcare, making the trip more relaxing and enjoyable. However, hiring a nanny in a foreign country, whether for short-term vacation needs or long-term assistance, can indeed present some challenges and questions. This guide will introduce ways to find a nanny, the services offered by Bali nannies, price ranges, as well as etiquette and tips when hiring a nanny, allowing you to enjoy more leisure time during your trip.

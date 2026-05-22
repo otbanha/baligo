@@ -15,7 +15,7 @@ tags:
 heroImage: ''
 originalUrl: 'https://vocus.cc/article/6655eceefd897800015c1b6a'
 lang: zh-cn
-_srcHash: 818606943491513f14272553409d0daf
+_srcHash: 4352d03fc260f9895e4b0b206672ff53
 ---
 
 我们的【[巴厘岛/印尼吃喝玩乐](https://www.facebook.com/groups/indonesia.travelguide)】脸书社团团友[Mei Yi Liao](https://www.facebook.com/liao.meiyi.1/)跟朋友去佩尼达岛的经验/游记，特此提供给我们编辑/转载：

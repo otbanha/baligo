@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/67a2369cfd897800012db961'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 9833c629ebab8784b7f4f1d8e4e330ce
+_srcHash: 6d220be1551ac29b5dc062946429f586
 ---
 Bali’s creative and cultural scene has a new highlight! Located in Nuanu Creative City, **Labyrinth Collective** is an innovative space blending art, technology, and sustainability, offering travelers a unique immersive experience and creative environment. From the **Immersive Dome Theater** to **music studios** and **maker spaces**, this venue provides a stage where art, sound, and creativity come to life.
 

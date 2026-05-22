@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/679acca0fd89780001f544a0'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 4d371785fb7577fa2ee9c24796adb110
+_srcHash: 8434d03d7fd6495635a119d275db8c5b
 ---
 
 [🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)

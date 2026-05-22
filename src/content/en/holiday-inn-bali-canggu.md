@@ -30,7 +30,7 @@ agoda_star_rating: 5
 latitude: -8.656766891479492
 longitude: 115.13082122802734
 lang: en
-_srcHash: 227ff853480027c45ccd6a52b4d56fc5
+_srcHash: f28b1b63ec4b2fcf9408aa2428b19aca
 ---
 If you're seeking a destination that embraces Bali's natural beauty while offering modern conveniences, the newly opened **Holiday Inn Resort Bali Canggu By IHG** in late 2023 should definitely be at the top of your list. This five-star resort not only boasts an excellent location but also impresses with its thoughtful service, comprehensive facilities, and exceptional value for money, earning unanimous praise from global travelers and achieving an impressive **9.4 overall rating** on major platforms.
 

@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4e1dfd668d34e5cebfa1f89eedf23450.png'
 originalUrl: 'https://vocus.cc/article/678603a8fd8978000196ff77'
 lang: zh-hk
-_srcHash: f48ed7c85502d1ec181e42cf3535379a
+_srcHash: b4dba9023397276ac21f105938182c38
 ---
 ## 講到「任食」嘅美食體驗，峇里島絕對係一個令人驚喜嘅目的地。無論係豐富嘅早餐、午餐定係晚餐，呢度嘅自助餐廳都能滿足你嘅味蕾。更加正嘅係，有啲餐廳仲提供「無限暢飲」嘅飲品選擇，特別係喺星期日早午餐時段。今日，我哋為你精選咗峇里島 33 間最佳任食自助餐廳，相信你都會愛上呢啲美食天堂！
 

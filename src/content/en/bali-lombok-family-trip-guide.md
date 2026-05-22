@@ -23,7 +23,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: en
-_srcHash: 0d8c6b179980e3c944c5071c9c1e7e44
+_srcHash: ffc64ec27e1ccb64584394c33b9caea3
 ---
 
 > The following content is adapted from group member [Libra Li](https://www.facebook.com/share/p/Fqg1HNg9asxLTJjd/)'s travelogue:

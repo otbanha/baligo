@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/68553ba9fd8978000171c34b'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 7c045a0cfebd16eaf744dad26fbf3574
+_srcHash: fc6530fc403a52fe871b83ca1b4b21a5
 ---
 
 巴厘岛政府近日正式启用了全新的**海啸预警与应变系统中心（InaTEWS）**。这项重大工程是印尼全国「灾害韧性发展计划」的一环，由印尼气象、气候与地球物理局（BMKG）主导，并获得世界银行支持。

@@ -21,7 +21,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: en
-_srcHash: 897882713ea352428bdf6c7df4c4d5b2
+_srcHash: c61a4f065c5ead5f502ce719a373d7da
 ---
 However, in recent years, experts have discovered **major cracks in the cliff structure**, raising concerns about potential collapse and damage to the temple. The government and a team of engineering experts have launched comprehensive reinforcement and restoration efforts, aiming to complete the project by **February 2025** to ensure the safety and sustainability of this cultural heritage.
 

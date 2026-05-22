@@ -25,7 +25,7 @@ agoda_star_rating: 5
 latitude: -8.678791999816895
 longitude: 115.14952087402344
 lang: zh-cn
-_srcHash: 69b7a34a245554e8ee13e9e4282b5b70
+_srcHash: b98efa573ae5ed353eeec47f2a1b2b35
 ---
 
 在巴厘岛旅行期间，我入住了位于水明漾的Potato Head Suites & Studios。一踏进酒店，就被迎面而来的大厅吸引，开放而宽敞的空间设计，搭配简约的自然装饰，让人瞬间放松心情。这里还设有一个免费的「Jamu Station」，提供传统印尼草药饮品 jamu，让人一到达就感受到当地文化的独特氛围。

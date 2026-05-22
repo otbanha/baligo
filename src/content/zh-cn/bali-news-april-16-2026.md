@@ -15,7 +15,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: edc6db42be6d6eff0f7fd53906769550
+_srcHash: c06c9ffbace8c1bc290f27a63219c26e
 ---
 
 【今早美金汇率：16700】今日（4/16）**巴厘岛**新闻与游客实务资讯整理：

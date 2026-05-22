@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/66e06a8dfd89780001ffbbc3'
 category:
   - 遊記分享
 lang: en
-_srcHash: 354f00e67b9e080587c141a267e7c57e
+_srcHash: 88b9dbd91e1e61455daf7074ca2cba1c
 ---
 
 > The following content was provided by fellow traveler [Shi Nianxin](https://www.facebook.com/share/p/NCJtqGxCyfKoE3ui/) and rearranged by us:

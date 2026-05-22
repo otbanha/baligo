@@ -15,7 +15,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_50ddca2afe49b84aaa75c5d8afd50ff9.jpg'
 originalUrl: 'https://vocus.cc/article/67b69720fd89780001c24fd5'
 lang: en
-_srcHash: 126953cc9c714d7650568b3cd25222a3
+_srcHash: 2795d00df75a58773f041aa50dbe4e44
 ---
 
 ## Bali Tops Tripadvisor's 2025 Travelers' Choice Awards

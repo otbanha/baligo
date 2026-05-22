@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/663ec407fd89780001e37610'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 9b8bb089a5d60f8a6a69688ff72bda79
+_srcHash: 08cf470738d7d5aaf05fe41999856aa3
 ---
 
 On the enchanting island of Bali, with the increasing influx of international tourists, the acceptance of credit cards has become more widespread. As a traveler, you might consider using a credit card to cover your expenses. However, using credit cards in Bali has its advantages and disadvantages. Let's delve into them.

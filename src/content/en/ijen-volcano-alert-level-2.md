@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/66a8f541fd897800013efd61'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 0262ea46af277afdcb1603826fc4a2b3
+_srcHash: db0e7775c472fd7c8403cd410418d20c
 ---
 
 Mount Ijen (Gunung Ijen) is famous for its breathtaking crater lake, drawing numerous tourists. However, as reported in mid-July 2024 in Indonesia, the volcano's activity status has recently been elevated to Level II alert, and the reasons have been unveiled. Based on assessments by the Center for Volcanology and Geological Hazard Mitigation (PVMBG) under the Ministry of Energy and Mineral Resources, Mount Ijen has shown a significant increase in activity, prompting the alert level to be raised.

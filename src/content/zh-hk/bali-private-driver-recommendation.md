@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/676a2ccefd89780001962994'
 category:
   - 叫車包車
 lang: zh-hk
-_srcHash: 7df7808bf4d7dd2e293870d42e98221f
+_srcHash: d0c0a5da533b0e5df2bf1777c2bf2f56
 ---
 當你計劃去峇里島旅行時，交通安排絕對係成功與否嘅關鍵！除咗大眾交通工具之外，選擇一位可靠嘅包車司機，會令你嘅旅程更加輕鬆舒適。呢篇文章為大家推薦一位峇里島嘅優良司機 **Gede Arimbawa**，佢唔單止係專業司機，更加似係貼心嘅導遊同旅伴。
 

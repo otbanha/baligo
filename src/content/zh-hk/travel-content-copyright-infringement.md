@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/663b06c7fd8978000142c990'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: a12e60fc21d8a50f24e0e23bab362e6a
+_srcHash: 79ae3774736dc807cd3401e8da19c3ba
 ---
 最近，我哋收到好多團友嘅反饋，佢哋發現有啲旅行社盜用咗我哋[峇里島旅遊攻略]網誌入面嘅內容。呢個對我哋嚟講係一個嚴重嘅問題，因為我哋對於提供原創且有價值嘅內容感到自豪，而且呢啲內容係我哋通過長時間嘅經驗同研究所積累返嚟嘅。
 

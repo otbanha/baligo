@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1fe96274e662eb94f29890119c8abcc0.jpg'
 originalUrl: 'https://vocus.cc/article/6746742bfd897800018d4906'
 lang: en
-_srcHash: 03feb026db5b6b4da271df19650fad6b
+_srcHash: 0fb51b06feb113cbc5b08fe9626204fc
 ---
 
 Bali has always been a popular tourist destination, and many attractions and activities are senior-friendly and comfortable. In our previous episode, we shared tips and essentials for traveling to Bali with seniors. If you missed it, click [here](/blog/bali-elderly-travel-guide/).

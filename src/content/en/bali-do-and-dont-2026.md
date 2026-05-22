@@ -31,7 +31,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: b454af617c54e8e863896c1838d6d4bf
+_srcHash: fb94064d6edad9edc9dfe4d65a3a9d17
 ---
 
 First-time visitors to Bali often dream of beaches, sunsets, and delicious satay—but rarely consider how seemingly harmless actions might be major faux pas on this island.

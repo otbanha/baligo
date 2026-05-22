@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1df7d57b714a85873203d59105b3dbc1.jpg'
 originalUrl: 'https://vocus.cc/article/64e2de1bfd897800018eff0b'
 lang: zh-hk
-_srcHash: 8298a0c5964dcf9dc383aa9d7d632ad0
+_srcHash: b99a2f5e680a479b5840b2d7a1d07960
 ---
 
 歡迎嚟到印度尼西亞嘅峇里島，一個充滿神秘與美麗嘅天堂。喺呢個島嶼上，有住眾多迷人嘅地區，其中沙努爾以其獨特嘅發展歷程、多樣嘅氛圍、美味嘅美食同令人陶醉嘅海濱景緻而脫穎而出。喺呢份沙努爾攻略地圖中，我哋會為你詳細介紹沙努爾同佢周邊嘅精彩之處。

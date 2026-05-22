@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/67879faefd89780001b524bc'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: a6d11c9fc1853f06c34ed3aa0009b109
+_srcHash: 6865a45b500848f0892a824ebf13e571
 ---
 
 去年底，印尼政府原本计划在巴厘岛南部的几个热门旅游区，像是坎古、乌鲁瓦图、库塔、雷吉安、水明漾和努沙杜瓦等地，[禁止新建酒店、海滩俱乐部和其他旅游相关设施](/blog/bali-hotel-construction-ban/)。不过，即将连任上任的巴厘岛省长瓦扬·科斯特（Wayan Koster）最近公开表示，**他不会执行这项禁令**。

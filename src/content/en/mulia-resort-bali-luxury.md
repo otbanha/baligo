@@ -25,7 +25,7 @@ agoda_hotel_name: 穆利雅度假村
 agoda_hotel_id: 6532982
 latitude: -8.815860748291016
 lang: en
-_srcHash: de45344106bb2d81f2701f1770cc8047
+_srcHash: de5d70a41a1182c6aa4cd82141b64c81
 ---
 
 update: 2026/05/21

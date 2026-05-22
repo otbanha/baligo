@@ -25,7 +25,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_79df9229a3131a48507912ff8ed38f07.png'
 originalUrl: 'https://vocus.cc/article/689dcce7fd8978000125fc52'
 lang: zh-hk
-_srcHash: 50baa2bc95beb07e62e5f0f7c6687e86
+_srcHash: 3bad7174048fbb8f0847e5b571036f56
 ---
 
 ### **📢 重要更新！2025年8月18號起，印尼全面啟用「All Indonesia」入境卡申報系統**

@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/664c8e46fd89780001240c04'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: ea3cd99152d71b6d3c52d0bb712d140a
+_srcHash: 5a9eda9c9e84b823b262f8179849e10d
 ---
 
 你有冇諗過印尼嘅30日落地簽證可唔可以第30日先離開呢？呢個係好多計劃去印尼/峇里島旅行嘅人成日問嘅問題。喺呢篇文章入面，我哋會深入探討印尼30日落地簽證嘅各方面資訊，解答你嘅疑問，並提供一啲實用嘅旅遊建議。

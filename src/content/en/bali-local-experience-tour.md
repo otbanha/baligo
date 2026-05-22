@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/666141f9fd89780001c8324c'
 category:
   - 遊記分享
 lang: en
-_srcHash: 8e083ed5707040c280a313d275e0421b
+_srcHash: 86ecb134ebedacc847d38e76404334fb
 ---
 
 Most travelers who have visited Bali and fallen in love with the island wish to delve deeper into its local life or embark on a non-touristy itinerary but often don’t know where to start. The best place to spend a day experiencing the local rhythm is Denpasar, Bali’s inland capital. This article will take you on a deep dive into Bali’s local life, from shopping at traditional markets to exploring beautiful riverside parks and bustling night markets. Let’s step into this enchanting land and experience the most authentic Balinese charm!

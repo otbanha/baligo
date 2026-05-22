@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bb2fa691f835fe4223ba3f58eb11eec4.jpg'
 originalUrl: 'https://vocus.cc/article/674bb924fd8978000120ac11'
 lang: en
-_srcHash: 16bbb50517dc89681dcb6b2d8f02128f
+_srcHash: 1913f83f6bb238a04106d73d191c38c1
 ---
 
 > A Taiwanese expat in Vietnam and her family traveled to Bali.

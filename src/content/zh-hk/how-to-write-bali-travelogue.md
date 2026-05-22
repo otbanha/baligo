@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6688bd5dfd897800017d0fa2'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 0c0dac4d3b1085c7b0a1d66895b770c1
+_srcHash: 1c12c3ca4ecc14efc10cfd7a50ea6c7f
 ---
 
 您有冇試過喺 [[峇里島/印尼吃喝玩樂](https://www.facebook.com/groups/indonesia.travelguide/)] 或者 [[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/)] Facebook 群組度問大家意見，或者參考咗本網誌收集嘅 40 幾篇團友遊記？呢啲資訊相信對大家嘅行程規劃提供咗唔少幫助。

@@ -35,7 +35,7 @@ agoda_star_rating: 4.5
 latitude: -8.810282707214355
 longitude: 115.1052017211914
 lang: en
-_srcHash: e70a7dd4b612b5a5cf331cd6e261d159
+_srcHash: 0a8574d526084d0ca5cb1aaa7d0c19ba
 ---
 
 While there are many ocean-facing hotels in Uluwatu, Bali, only this one literally lets you 'live on the edge of the cliff.'

@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_92c1c3c6353fec567c863e536302c897.jpg'
 originalUrl: 'https://vocus.cc/article/66551cfefd897800011f9d5e'
 lang: zh-hk
-_srcHash: 7d6ebf4b54356970b8eda4c9017ddc91
+_srcHash: 34b773153a01b8d1ea64afe1aeb5591e
 ---
 
 Facebook群組團友 [Mei Chen](https://www.facebook.com/mei.co.nz/) 同屋企人嘅峇里島八日七夜遊記，特此提供俾我哋編輯/轉載：

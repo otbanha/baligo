@@ -20,7 +20,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: en
-_srcHash: 69a648b4aac33ed0a2555e30a3dbb98c
+_srcHash: 27a301f26f388d213922c715fae9680b
 ---
 
 ### **Bali Considers a Daily Tourist Tax—Will It Become the 'Next Bhutan'?**

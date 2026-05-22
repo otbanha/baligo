@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9d929150c54e9a96490136e18b3e11a.jpg'
 originalUrl: 'https://vocus.cc/article/669b1d59fd89780001def381'
 lang: zh-cn
-_srcHash: 54afd79e1573970a0d4b807452794a1a
+_srcHash: 0f19c2368a3d028c6560ede52e46f2eb
 ---
 
 坐落于南部海岸，距离机场仅约30分钟的水明漾，是美丽的海滩俱乐部、热闹的购物区和餐饮街的聚集地。在这里，都市生活与轻松的海滩氛围以及豪华别墅度假相得益彰——这是岛上最时尚、最潮流、最热闹的旅游城镇。

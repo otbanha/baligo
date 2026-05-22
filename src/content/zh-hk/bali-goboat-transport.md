@@ -17,7 +17,7 @@ category:
   - 旅行技巧
   - 叫車包車
 lang: zh-hk
-_srcHash: 7d9edcf85eba5279f91a8c07148666aa
+_srcHash: 86f8edaf1dfc2b1755aa2166b73fd1a1
 ---
 
 ## GoBoat 峇里島交通服務簡介

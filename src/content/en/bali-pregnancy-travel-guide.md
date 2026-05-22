@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/670e6cb5fd89780001b3de2d'
 category:
   - 遊記分享
 lang: en
-_srcHash: 5cb8479f64707f6fcf0e6ecff96892c7
+_srcHash: b6471983882fc20788c5b52d62e01509
 ---
 
 > The following content is adapted from fellow traveler [Liu Huici](https://www.facebook.com/share/p/UxWzce2FRdK2gmsT/)'s travelogue:

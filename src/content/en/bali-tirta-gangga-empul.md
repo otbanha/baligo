@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5276a5cd990c91278a453346f478d041.jpg'
 originalUrl: 'https://vocus.cc/article/6707c8e2fd897800014d3db5'
 lang: en
-_srcHash: 8af66c5198cff3c930245f9fbe2ae556
+_srcHash: bbe68083b406376a254f57c3009ae971
 ---
 
 In Bali, water is not only the source of life but also a sacred element. For the Balinese, spring water is called "Tirta," a life-giving and purifying force that sustains all existence. Tirta plays a vital role in nearly all religious ceremonies, believed to purify the mind, body, and spirit, cleanse negative energy, and bring blessings.

@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/669148a9fd89780001740e5b'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 37541f397c029660be871a280fafcaa1
+_srcHash: 8c082f771ab3cd062919a2a0db3cbdbe
 ---
 
 Bali, this breathtaking travel paradise, is welcoming some exciting news. For those planning to visit Bali between late 2024 and early 2025, it's a double delight! Let's dive into the details.

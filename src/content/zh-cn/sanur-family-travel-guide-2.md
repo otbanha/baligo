@@ -13,7 +13,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b019f571fcb856c03c3c31c9e0d0c9a5.png'
 originalUrl: 'https://vocus.cc/article/67b81b4cfd89780001b4a261'
 lang: zh-cn
-_srcHash: 0f49781224bed5e7054407a2948bc5fe
+_srcHash: e67ccb39d199b213d32fae1d8184a40b
 ---
 
 巴厘岛的沙努尔（Sanur）海滩以其宁静的氛围和适合家庭的环境，成为带孩子旅游的理想选择。与库塔（Kuta）和水明漾（Seminyak）等热闹地区相比，沙努尔提供更平和的体验，让家长和孩子都能享受放松的假期。

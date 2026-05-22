@@ -20,7 +20,7 @@ category:
   - 美食景點活動
   - 遊記分享
 lang: en
-_srcHash: 844e0611b6b5987ccc50440b66428d85
+_srcHash: 1bc396b0eec583a899b0ddde86c13f8e
 ---
 
 **Chiang Chiang's Spiritual Adventure: Delving into the Mystical World of Bali's Shamans**

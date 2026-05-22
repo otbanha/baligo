@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/66d6610afd8978000151ae25'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 70015046772bdb6d86e490e918971b80
+_srcHash: 590f9445dd0ebe7fb65e9e2e1fc94d5d
 ---
 2024年峇里島旅遊創新高
 

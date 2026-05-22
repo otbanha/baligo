@@ -16,7 +16,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-cn
-_srcHash: 69a648b4aac33ed0a2555e30a3dbb98c
+_srcHash: 27a301f26f388d213922c715fae9680b
 ---
 
 ### **巴厘岛考虑每日观光税——会成为「下一个不丹」吗？**

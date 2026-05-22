@@ -12,7 +12,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2ee46d34f0d10cf5e43f71cebb95c9c2.png'
 originalUrl: 'https://vocus.cc/article/65bf2f75fd89780001dbf162'
 lang: zh-hk
-_srcHash: 080dc79a04e24914f69fae1dcce3a442
+_srcHash: bfff7ba0e78a5a5e2dc39e56147cb79a
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8f6c888982e2cf5611b55b827c0ffcaa.png)

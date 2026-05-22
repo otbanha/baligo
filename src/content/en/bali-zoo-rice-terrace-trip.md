@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/67aeca73fd89780001e7c275'
 category:
   - 遊記分享
 lang: en
-_srcHash: 830e83926ba926b4e1f511c97ada9d7f
+_srcHash: f51ea1e17971cf9ea3626044e04a9562
 ---
 
 ### Bali Travel Insights & Recommendations

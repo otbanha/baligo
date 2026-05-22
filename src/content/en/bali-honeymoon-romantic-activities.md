@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/64e35774fd89780001ace043'
 category:
   - 遊記分享
 lang: en
-_srcHash: ccc8c8c56262971fa8f36ea7c9f6be30
+_srcHash: b18b52a1b79c9e10fcf70e50ac36844f
 ---
 
 If you and your significant other are dreaming of an exotic and magical honeymoon or a romantic getaway to deepen your bond, choosing Bali will not disappoint!

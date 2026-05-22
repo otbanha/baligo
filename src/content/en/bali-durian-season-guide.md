@@ -37,7 +37,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: en
-_srcHash: ad11ec2934c9a10c103a130cdfbb7100
+_srcHash: 24e878518a771b0d21150285a9fc5cf7
 ---
 
 If you're a durian lover, timing your visit to Bali is crucial. Otherwise, you might only catch the scent but miss out on the 'explosive abundance' 😂

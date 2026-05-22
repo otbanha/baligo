@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6795d36bfd8978000139ce96'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: e1049036ebd7f195aa52d4219784de2a
+_srcHash: 9493a3a9f255993875ecd8040772f368
 ---
 
 > 以下内容改编自团友 [高荣繁 分享游记](https://www.facebook.com/share/p/14kAoJ6sDG/)：

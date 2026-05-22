@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 9e60b59e1bac87d5e84b53e96022b64f
+_srcHash: 615f60d8001cfa2bc2fa5ab7cfe53528
 ---
 Planning a Bali getaway? Whether you're soaking up the artsy vibe in Ubud, catching waves in Kuta, or marveling at stunning ocean views in Nusa Penida, safety should always be your top priority when traveling!
 

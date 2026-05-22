@@ -26,7 +26,7 @@ private: false
 shuffle_h2: true
 embeds: []
 lang: zh-hk
-_srcHash: 747042cd6635d40643409a1f3ab81867
+_srcHash: 69bb189079c8feee656d8750a28bdb36
 ---
 
 水明漾（Seminyak）嘅 **Jalan Kayu Aya**，有個更響亮嘅名——**Eat Street**。短短兩公里嘅街道上，密集排列住超過 50 間餐廳、酒吧、咖啡廳，由澳式早午餐、法式麵包、拉美 Taco，到爵士雞尾酒吧、香檳吧同夜店，幾乎包攬咗全球風味。

@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bbae207c7b2357fcc9e3128889589708.jpg'
 originalUrl: 'https://vocus.cc/article/68861b2efd8978000104cf9b'
 lang: zh-cn
-_srcHash: a4df78ea737e534eae5f76836bb06d14
+_srcHash: 2337d52e038868c99d1e2272a380c63d
 ---
 
 说到巴厘岛，大部分人想到的可能是海滩、寺庙或是SPA，但这次我和三个好友决定来点不一样的体验。经过多方比较后，我们选择了「ATV越野骑行 + 阿勇河漂流」的组合套餐，事实证明这绝对是我们巴厘岛行程中最刺激也最难忘的一天！

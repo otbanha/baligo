@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6614b94e4dbd763830fa8bcec020aa64.png'
 originalUrl: 'https://vocus.cc/article/65f97cf5fd897800019eeca0'
 lang: en
-_srcHash: 28660e888b2169c079de53a4aa122b8c
+_srcHash: ba9e5a6109fc82aa9c7d55d11c8c882f
 ---
 
 Bali's monkeys are quite unique, closely tied to local Hindu beliefs. Due to the reverence for 'Hanuman the Monkey God', locals generally respect monkeys and even actively feed them. Ubud's 'Sacred Monkey Forest' is a protected sanctuary and playground created specifically for them.

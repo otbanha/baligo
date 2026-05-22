@@ -25,7 +25,7 @@ agoda_star_rating: 0
 latitude: -8.425267219543457
 longitude: 115.27593994140625
 lang: zh-cn
-_srcHash: 31b9d2b13b6c1dbb6f491ea77a95b6a9
+_srcHash: 4eede044984ce0c4f65ae25c9e3a0eab
 ---
 
 2026年1月15日，巴厘岛乌布迎来了一个令人瞩目的新地标——**Hiliwatu, Bali Ubud**，这是万豪国际集团旗下 Tribute Portfolio 系列在印尼的最新力作。坐落于乌布北部约9公里的 Bresela 村，这家酒店以其独特的建筑设计、深厚的文化连结，以及对永续经营的承诺，为巴厘岛的精品酒店版图增添了全新的篇章。

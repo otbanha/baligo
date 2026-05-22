@@ -26,7 +26,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_40beff859947516744ace348624bbaba.jpg'
 originalUrl: 'https://vocus.cc/article/693aaf9dfd897800013bfe3f'
 lang: en
-_srcHash: a172295f18de585e63f8c9ce75ae3116
+_srcHash: 63e1dcab09a4befa1f4e9cdf0c81ccc8
 ---
 Bali isn’t just about stunning beaches and rich culture—it’s also a paradise for food lovers! This time, we’re diving deep into Bali’s 10 most iconic must-try dishes, from traditional mains to street snacks, each bursting with Indonesia’s unique spice flavors.
 

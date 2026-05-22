@@ -11,7 +11,7 @@ heroImage: ''
 originalUrl: ''
 embeds: []
 lang: zh-hk
-_srcHash: a59ad7567e302c96033d61d6089e7d6f
+_srcHash: 2fdd6fc91a83af14642c70c7e4b2c5c9
 ---
 
 > 以下遊記改編自 [YiShawn Huang](https://www.facebook.com/share/p/1DmyQYJF6M/) 分享嘅遊記

@@ -27,7 +27,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: en
-_srcHash: f47db7a9b3e1fcf707a46344b2ee9d33
+_srcHash: 78451b45db48e970261f88ef6376344c
 ---
 
 If you're planning to climb Mount Agung in Bali during this period, you'll need to pause those plans.

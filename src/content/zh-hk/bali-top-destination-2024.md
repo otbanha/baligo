@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67775955fd89780001fec8cc'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 6be38c0859c42818408e509709ed14ac
+_srcHash: f460da0acbfcc9dbee3e37c9ee2077c7
 ---
 
 ## **最新嘅觀光數據顯示：印尼旅遊業迎來五年來最繁忙嘅一年**
