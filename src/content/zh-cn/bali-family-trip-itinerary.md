@@ -3,6 +3,7 @@ slug: bali-family-trip-itinerary
 title: 带着孩子看世界：六天五夜巴厘岛亲子旅行的旅程安排与小贴士
 description: 六天五夜的巴厘岛之旅圆满结束了！这次的旅程非常感谢社群里的热心网友和提供的丰富信息，让我们这趟带着两个小孩的亲子旅行依然能够轻松愉快，旅途非常顺利！
 pubDate: '2024-11-11'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8d1437ba19fd670577aeddab67726534.jpg'
 tags:
   - 峇里島親子
@@ -15,7 +16,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: zh-cn
-_srcHash: 9f76332c15cd3247102af5feade78940
+_srcHash: af7a5e1a06d6694dec868797d7b119ef
 ---
 
 > 以下内容改编自团友 [Sannie Lin](https://www.facebook.com/share/p/KZWh2fnM6upSM3uq/) 分享游记：
@@ -42,7 +43,7 @@ _srcHash: 9f76332c15cd3247102af5feade78940
 
 > [【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡/eSIM?](/blog/bali-sim-card-esim-roaming-guide/)
 
-> [Bidadari Private Villas & Retreatfangjia&空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=237890)
+> [Bidadari Private Villas & Retreatfangjia&空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=237890) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981731&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGFY9cDASFGA4vfgo7yra8Dd3yf5eC5pMCWK3zyAocAnogpB55PY0-0dHUv-nkw0KGQAQQeTHNoZDx7Bgg8Jzl0MbKC1cxgfPzVegUj40ZGkO7ruyscdjCyHGBkOcHY5buA6dVm1lMszBzr-C6xfGWKrlbKTq1UsjLRUSrJLMlJVbJSerpo3tOGPc9XtCrpKKWkFicDhYCsxNz80rwSINvS0FLPwAAoUpJY4ZkC1pmcmJNcmpNYkhpSWQA0wUxHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGCyr5AY0pggpk5udBtBuiiIUl5pSmQpwAtNAtFWqHYa0Opsufzel92j3zxabdxLncnNouNyDG5ca1sY9YmKJjP7Ew_AJGQ79pEytDFyszxymmSUCyy3cXK4tpaGTgBdbHLYxS8oYGBgamhsamproGiZaJxkZpybomliZGZua6xkaWFhYaU7ZNvfTE2MhaChLzCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9gsXE0MHC2ibLiYPV2CBD_oPd_ebm1pL8UcEu6iODnowlvV3tP2WsyhwS6Gev8V_34zlXYI3PM654S98QL7SHvZfskVPaftk1irMnRDwjOOixUwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDAOoJq3n9AgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494267-32988&detailFilters=17|1~17~1*31|981731~31~981731*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=846&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/8cgKqDaH)
 
 收录在「[乌布20间令人惊艳的巴厘岛villa推荐](/blog/ubud-villa-pool-guide/)」
 

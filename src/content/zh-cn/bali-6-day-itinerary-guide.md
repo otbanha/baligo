@@ -3,6 +3,7 @@ slug: bali-6-day-itinerary-guide
 title: 巴厘岛自由行六天行程：住宿、美食、景点推荐
 description: 这次的巴厘岛之旅，我们一家人带着满满的期待飞往这个充满魅力的岛屿。
 pubDate: '2024-09-18'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fe6a030ea275cf610d3a9c87b3d2c277.jpg'
 tags:
   - 峇里島自由行
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/66c0ba76fd89780001527eed'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: d174286e6b23e5114131d6a32dc5d55d
+_srcHash: 5f7c6ba0498aa331a16af661240335ef
 ---
 
 > 以下内容由团友 [​Oscar Lin](https://www.facebook.com/share/p/4Eev2drzrfF5SKtc/) 提供，并同意我们改编
@@ -33,7 +34,7 @@ Oscar Lin提供
 
 晚餐后，我们回到当晚的住宿——**Komaneka at Rasa Sayang**酒店。这间酒店的确如网上评价所说的那样美丽，无论是房间的设计还是整体的氛围都让人感到非常舒适。地理位置也非常方便，就在猴林路旁，周围有不少景点和餐厅，非常适合观光和休闲。
 
-> [Komaneka at Rasa Sayang 房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185)
+> [Komaneka at Rasa Sayang 房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685387&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF4_nZrtOsQuyGpmYGhgZGBhtFLFqbGR09HlaJrDvc5uApss79YZVLj0MAT8SUA8-nsSdauroX_TwY6NDFyAoWmMF4-pXmCkbGjYzGIMCc5rCDkekAI9MJxvcKC5imLL5vdoqFmWMT2yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJsYWOoZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHKeYJgHJ9wq7WPn9IkPM_Bx1w80iXXWjdA0vsO5UlpI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MTI31DU2tjA107gztfPmE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmpubm5mGWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgB1UectBQMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-33856&detailFilters=17|1~17~1*31|685387~31~685387*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/j3XfJIPj)
 
 已收录在[【巴厘岛乌布住宿】乌布27家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
 

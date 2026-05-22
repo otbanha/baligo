@@ -11,6 +11,7 @@ description: >-
   is the first time I’ve ever organized and shared an itinerary online, so I
   hope everyone will be supportive.
 pubDate: '2024-11-05'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_feef5a28d07f1ae085b35202fde6fb57.jpg'
 tags:
   - 峇里島旅遊
@@ -23,7 +24,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: en
-_srcHash: 47fc23340970a4d4a267517b4c720282
+_srcHash: 2fe647b2d883da5f751c6e49645ab94a
 ---
 
 > The following content is adapted from a travelogue shared by group member [Libra Li](https://www.facebook.com/share/p/Fqg1HNg9asxLTJjd/):
@@ -122,7 +123,7 @@ Today's itinerary was very relaxed. We chose to stay at the famous **Hard Rock H
 
 Hard Rock Bali offers complimentary welcome drinks, and the live performances at the bar in the evening are even more exciting. Hard Rock is within walking distance of Kuta Beach, and they also provide a photo session with plenty of props prepared for the shoot.
 
-▶[**Hard Rock Hotel, Bali Booking Link**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8650)
+▶[**Hard Rock Hotel, Bali Booking Link**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8650) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=982026&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqYOFikmCSamTh-H1n9yNWIUYjg4NCFsdLHatF1rk_jGt08ARSVSLrWh0CeCKmHHg-jT3Rluv64oL9gQ5djKxggRmMXT-sNzKePQMENokOOxiZDjAynWCcLrmA6cLPZ2qnWJg5GlgvsXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2MhAz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQbooiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3cS53JzaLjcgxuXGtbGPWJiiYz-xMPxiYWhiZehiZeY4xTQJSE6X3MXK4e_h5OnhrGt4gfWhtJSioYGBgZGpqZG5rkGipYVhSqKhromliZGZqa4xUMrcwEjjUl_r-SfGRtZSkJhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxGbq6uJkYBxlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfFD8uPeZt3nrbXAskZwuQC97zOOWFvvMA-cttOQ9tEoHwSa1WGbkh4xnGxAsYGRqYuRm4BRg_GCMYKII9xFSPDBkbGHYz_YYDxFSPIdAAJAJ6_7wIAAA&masterhotelid_tracelogid=100025527-0a981da1-494265-3100702&detailFilters=17|1~17~1*31|982026~31~982026*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1311&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/QP8x1KGB)
 
 In the afternoon, we strolled over to **Kuta Beach**, one of Bali's most vibrant beaches, famous for its golden sand and perfect surfing conditions. Although we didn't surf, we still had a pleasant afternoon on the beach. The kids played in the sand, digging holes, and the stunning sunset made the day even more perfect.
 
@@ -144,7 +145,7 @@ Our stay at **Mövenpick Resort Jimbaran** was very pleasant. Originally schedul
 
 At 4 PM, the hotel offers a **free Candy Bar** that kids absolutely love, with various candies and snacks that excite the little ones. I highly recommend this service, especially for families with children. Additionally, even after we checked out, the hotel still allowed us to use the facilities, letting the kids continue to play and enjoy the pool and other amenities.
 
-▶[Mövenpick Resort Jimbaran Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522)
+▶[Mövenpick Resort Jimbaran Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6373265&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCMa3nwTk2IUYjA3mLr4KOSwpsua6vb3PwPHsGCF51OwTwREw58HwaeyJQfHHB_kCHRsZZM4FgZZhDFyMrWGoG48T_LcwbGcF6X6c47GBkOsG4XWEB0_2PnVKnWJg5OtkusXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2NxAz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQboIiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3dhdbmJgjuJy8wFxuXFt7CMWpujYTywMv1gYmlgZuliZOU4xTQKS2xV2sfIEG_kEO0XoGupG6RpeYG1UllI0NDAwMDI1NTLXNUi0TEwyNLPQNbE0MTIz0zU0NzY1NjDUeHVl3YUnxkbWUpC4V2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xSgF1GBhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZqZuDs5Bxlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfFD8uPeZt3nrbXAskZwuQC97zOOWFvvMA-EiafxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANq-PmcBAwAA&masterhotelid_tracelogid=100025527-0a9ab168-494266-1735301&detailFilters=17|1~17~1*31|6373265~31~6373265*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=216&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/JMjDzQtC)
 
 Overall, **Mövenpick Resort Jimbaran** not only boasts a beautiful environment and attentive service but is also very family-friendly, ensuring a relaxing and enjoyable vacation for the whole family.
 

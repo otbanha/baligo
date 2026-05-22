@@ -3,6 +3,7 @@ slug: bali-6-day-itinerary-guide
 title: 峇里島自由行六日行程：住宿、美食、景點推薦
 description: 今次嘅峇里島之旅，我哋一家人帶住滿滿嘅期待飛去呢個充滿魅力嘅島嶼。
 pubDate: '2024-09-18'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fe6a030ea275cf610d3a9c87b3d2c277.jpg'
 tags:
   - 峇里島自由行
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/66c0ba76fd89780001527eed'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: d174286e6b23e5114131d6a32dc5d55d
+_srcHash: 5f7c6ba0498aa331a16af661240335ef
 ---
 
 > 以下內容由團友 [​Oscar Lin](https://www.facebook.com/share/p/4Eev2drzrfF5SKtc/) 提供，並同意我哋改編
@@ -33,7 +34,7 @@ Oscar Lin提供
 
 晚餐後，我哋返去當晚嘅住宿——**Komaneka at Rasa Sayang**酒店。呢間酒店真係好似網上評價講嘅咁靚，無論係房間嘅設計定係整體嘅氛圍都令人感到非常舒服。地理位置亦都非常方便，就喺猴林路旁，周圍有唔少景點同餐廳，非常適合觀光同休閒。
 
-> [Komaneka at Rasa Sayang 房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185)
+> [Komaneka at Rasa Sayang 房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685387&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF4_nZrtOsQuyGpmYGhgZGBhtFLFqbGR09HlaJrDvc5uApss79YZVLj0MAT8SUA8-nsSdauroX_TwY6NDFyAoWmMF4-pXmCkbGjYzGIMCc5rCDkekAI9MJxvcKC5imLL5vdoqFmWMT2yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJsYWOoZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHKeYJgHJ9wq7WPn9IkPM_Bx1w80iXXWjdA0vsO5UlpI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MTI31DU2tjA107gztfPmE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmpubm5mGWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgB1UectBQMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-33856&detailFilters=17|1~17~1*31|685387~31~685387*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/j3XfJIPj)
 
 已收錄喺[【峇里島烏布住宿】烏布27家特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/blog/ubud-villas-pool-guide/)
 

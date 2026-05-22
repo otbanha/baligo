@@ -17,6 +17,7 @@ tags:
   - '#烏魯瓦圖攻略'
   - '#峇里島旅遊攻略'
   - '#峇里島攻略'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_de1b748292ebf1641eed65b8e2edf795.jpg'
 originalUrl: 'https://vocus.cc/article/68b8d2e3fd897800017acaee'
 agoda_hotel_id: 822795
@@ -25,7 +26,7 @@ agoda_star_rating: 4.5
 latitude: -8.791350364685059
 longitude: 115.12996673583984
 lang: en
-_srcHash: 47576f1d77da8bcbe6fc2c9f124e885c
+_srcHash: 3b66ee0fa174b2186aeb8801d14486df
 ---
 
 Located on the southern tip of Bali’s Bukit Peninsula, Uluwatu is renowned for its dramatic cliffs and stunning sunsets. Hidden near Balangan Beach, **La Cabane Bali** is a dreamy "secret hideaway" for many travelers. Combining natural charm with French elegance, this intimate retreat is meticulously designed and offers a private escape, making its rooms nearly impossible to book.
@@ -76,7 +77,7 @@ It must be noted that **La Cabane is extremely popular and due to its small size
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9a7fad39fd768dd0fe98ce735fb73a22.jpg)
 
-[**▶Check La Cabane's Availability and Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=822795)
+[**▶Check La Cabane's Availability and Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=822795) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=10627469&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6z8TFJMEkdYOJ49_WowuYhJgNDYw07rMZPGC02Crv2Po6cIecc4eD5zeNmP5DN3sdAngiphx4Po098aZtZcSKg4EOXYysYIEZjL2XO1hXMDJuZDz8Fag4Ks1hByPTAUamE4y3lRYwPZw9VewUCzPHfrZLLLsYo6uVslMrlaxMdJRKMktyUpWslJ4umve0Yc_zFa1KOkopqcXJQCEgKzE3vzSvBMi2MDbUMzAAipQkVnimgHUmJ-Ykl-YklqSGVBYATTDSUcosdi4pyiwISs3NLClJBapKS8wpTgWJB6UWA2WSwYIgc4ug_Mz8PIhuAxSxsMSc0lSISqB9bqlQKwxrYx-xMEXHvmC5z_aJheEXC0MTK0MXKzPHKaZJQPK20i5WXm9j3yATD13DEN0oXcMLrE9VpeQNDQwMTA2NTU11DRItE80sDU10TSxNjMwsdY2NLIyMNP61X7n6xNjIWgoSkgqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPY3AwtTcyMo2y4mEODXQS9T7DbzjaVdpBiDgl3UbSX7Zdc0XPaXgskZwiTC9zzOueEvfEC-8jS1c-XfO89bZ_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAi9qwDksCAAA&masterhotelid_tracelogid=100051355-0a9a6914-494269-32822&detailFilters=17|1~17~1*31|10627469~31~10627469*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=416&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wKgXBxsN)
 
 ***
 
@@ -110,7 +111,7 @@ La Cabane Bali is a place where you can truly "slow down". With few but thoughtf
 
 ✨ If you're looking for a romantic and unique place to stay in Bali, La Cabane Bali will be an unforgettable choice. But remember, it's extremely popular, **so be sure to book early**!
 
-> [**▶Check La Cabane Availability & Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=822795)
+> [**▶Check La Cabane Availability & Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=822795) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=10627469&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6z8TFJMEkdYOJ49_WowuYhJgNDYw07rMZPGC02Crv2Po6cIecc4eD5zeNmP5DN3sdAngiphx4Po098aZtZcSKg4EOXYysYIEZjL2XO1hXMDJuZDz8Fag4Ks1hByPTAUamE4y3lRYwPZw9VewUCzPHfrZLLLsYo6uVslMrlaxMdJRKMktyUpWslJ4umve0Yc_zFa1KOkopqcXJQCEgKzE3vzSvBMi2MDbUMzAAipQkVnimgHUmJ-Ykl-YklqSGVBYATTDSUcosdi4pyiwISs3NLClJBapKS8wpTgWJB6UWA2WSwYIgc4ug_Mz8PIhuAxSxsMSc0lSISqB9bqlQKwxrYx-xMEXHvmC5z_aJheEXC0MTK0MXKzPHKaZJQPK20i5WXm9j3yATD13DEN0oXcMLrE9VpeQNDQwMTA2NTU11DRItE80sDU10TSxNjMwsdY2NLIyMNP61X7n6xNjIWgoSkgqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPY3AwtTcyMo2y4mEODXQS9T7DbzjaVdpBiDgl3UbSX7Zdc0XPaXgskZwiTC9zzOueEvfEC-8jS1c-XfO89bZ_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAi9qwDksCAAA&masterhotelid_tracelogid=100051355-0a9a6914-494269-32822&detailFilters=17|1~17~1*31|10627469~31~10627469*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=416&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wKgXBxsN)
 
 
 ## Booking Tips

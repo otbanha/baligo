@@ -13,10 +13,11 @@ tags:
   - 峇里島自由行
   - 峇里島旅遊心得
   - 暑假親子
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_95a9642de6dcbc7cdb2619d6cff98c89.jpg'
 originalUrl: 'https://vocus.cc/article/66965df4fd89780001c82960'
 lang: zh-cn
-_srcHash: 604dd22551eba237a074f9fd1a0e06c2
+_srcHash: 2c35ca725c5ca9434d307c1da5973de2
 ---
 
 > 以下内容由团友 [Fish Lee](https://www.facebook.com/groups/baligo/permalink/1575099593037280/) 提供：
@@ -65,7 +66,7 @@ Hard Rock 非常适合带小孩（Fish Lee提供）
 
 值得一提的是，Hard Rock的Kids Club每天都有不同的活动安排，里面虽然不能拍照，但最棒的是会提供午餐，小孩可以在这里开心地度过一天（一天费用USD$8）。这让我们大人也能有自己的时间放松。
 
-> Hard Rock Bali 订房：[Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8650)
+> Hard Rock Bali 订房：[Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8650) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=982026&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqYOFikmCSamTh-H1n9yNWIUYjg4NCFsdLHatF1rk_jGt08ARSVSLrWh0CeCKmHHg-jT3Rluv64oL9gQ5djKxggRmMXT-sNzKePQMENokOOxiZDjAynWCcLrmA6cLPZ2qnWJg5GlgvsXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2MhAz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQbooiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3cS53JzaLjcgxuXGtbGPWJiiYz-xMPxiYWhiZehiZeY4xTQJSE6X3MXK4e_h5OnhrGt4gfWhtJSioYGBgZGpqZG5rkGipYVhSqKhromliZGZqa4xUMrcwEjjUl_r-SfGRtZSkJhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxGbq6uJkYBxlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfFD8uPeZt3nrbXAskZwuQC97zOOWFvvMA-cttOQ9tEoHwSa1WGbkh4xnGxAsYGRqYuRm4BRg_GCMYKII9xFSPDBkbGHYz_YYDxFSPIdAAJAJ6_7wIAAA&masterhotelid_tracelogid=100025527-0a981da1-494265-3100702&detailFilters=17|1~17~1*31|982026~31~982026*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1311&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/QP8x1KGB)
 
 **更多有 Kids Club 的度假村推荐：**
 

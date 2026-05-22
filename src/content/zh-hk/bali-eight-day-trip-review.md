@@ -12,10 +12,11 @@ tags:
   - 解決方法
   - 吃藥
   - 峇里島
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_692eaecb9dd12eb2a1234bfb9597793e.png'
 originalUrl: 'https://vocus.cc/article/69170335fd89780001bcca63'
 lang: zh-hk
-_srcHash: 2c7e0201ceb8f09b9b853e47494019ac
+_srcHash: 7301a958cf1d29eaebc1299f825bdf36
 ---
 
 > 以下內容改編自團友 [Pinkey Lo 分享遊記](https://www.facebook.com/share/p/1XMLomzb3h/)：
@@ -329,7 +330,7 @@ https://youtu.be/RodQvCZKwD0
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776953218269-719390754.jpg)
 
-▶[Mövenpick Resort & Spa空房查詢&房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522)
+▶[Mövenpick Resort & Spa空房查詢&房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6373265&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCMa3nwTk2IUYjA3mLr4KOSwpsua6vb3PwPHsGCF51OwTwREw58HwaeyJQfHHB_kCHRsZZM4FgZZhDFyMrWGoG48T_LcwbGcF6X6c47GBkOsG4XWEB0_2PnVKnWJg5OtkusXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2NxAz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQboIiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3dhdbmJgjuJy8wFxuXFt7CMWpujYTywMv1gYmlgZuliZOU4xTQKS2xV2sfIEG_kEO0XoGupG6RpeYG1UllI0NDAwMDI1NTLXNUi0TEwyNLPQNbE0MTIz0zU0NzY1NjDUeHVl3YUnxkbWUpC4V2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xSgF1GBhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZqZuDs5Bxlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfFD8uPeZt3nrbXAskZwuQC97zOOWFvvMA-EiafxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANq-PmcBAwAA&masterhotelid_tracelogid=100025527-0a9ab168-494266-1735301&detailFilters=17|1~17~1*31|6373265~31~6373265*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=216&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/JMjDzQtC)
 
 ### 上午：酒店hea
 

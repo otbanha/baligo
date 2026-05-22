@@ -5,6 +5,7 @@ description: >-
   多謝社團嘅寶貴資源，令我有機會吸取大家嘅經驗同知識。今次我都想回饋少少自己嘅經歷，分享我哋一家四口2024年7月31號至8月25號嘅旅程，包括吉隆坡、峇里島、同埋龍目島（包括Gili
   T島）嘅行程。呢次係我人生中第一次整理行程同網友分享，希望大家多多
 pubDate: '2024-11-05'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_feef5a28d07f1ae085b35202fde6fb57.jpg'
 tags:
   - 峇里島旅遊
@@ -17,7 +18,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: zh-hk
-_srcHash: 47fc23340970a4d4a267517b4c720282
+_srcHash: 2fe647b2d883da5f751c6e49645ab94a
 ---
 
 > 以下內容改編自團友 [Libra Li](https://www.facebook.com/share/p/Fqg1HNg9asxLTJjd/) 分享嘅遊記：
@@ -116,7 +117,7 @@ Libra Li提供
 
 Hard Rock Bali送嘅迎賓飲料，夜晚嘅酒吧現場表演更加精彩，Hard Rock同Kuta海灘行得好近，而且仲有送影相，影相會準備好多道具。
 
-▶[**Hard Rock Hoel, Bali訂房連結**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8650)
+▶[**Hard Rock Hoel, Bali訂房連結**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8650) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=982026&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqYOFikmCSamTh-H1n9yNWIUYjg4NCFsdLHatF1rk_jGt08ARSVSLrWh0CeCKmHHg-jT3Rluv64oL9gQ5djKxggRmMXT-sNzKePQMENokOOxiZDjAynWCcLrmA6cLPZ2qnWJg5GlgvsXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2MhAz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQbooiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3cS53JzaLjcgxuXGtbGPWJiiYz-xMPxiYWhiZehiZeY4xTQJSE6X3MXK4e_h5OnhrGt4gfWhtJSioYGBgZGpqZG5rkGipYVhSqKhromliZGZqa4xUMrcwEjjUl_r-SfGRtZSkJhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxGbq6uJkYBxlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfFD8uPeZt3nrbXAskZwuQC97zOOWFvvMA-cttOQ9tEoHwSa1WGbkh4xnGxAsYGRqYuRm4BRg_GCMYKII9xFSPDBkbGHYz_YYDxFSPIdAAJAJ6_7wIAAA&masterhotelid_tracelogid=100025527-0a981da1-494265-3100702&detailFilters=17|1~17~1*31|982026~31~982026*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1311&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/QP8x1KGB)
 
 下晝，我哋漫步到咗 **庫塔海灘**，呢度係峇里島最熱鬧嘅海灘之一，以金色嘅沙灘同完美嘅滑浪條件聞名。雖然我哋唔識滑浪，但依然喺沙灘上度過咗一個愉快嘅下晝。小朋友玩沙堆，挖洞，旁邊嘅日落美景令呢一日變得更加完美。
 
@@ -138,7 +139,7 @@ Movepick Resort Jimbaran，Kid's Club體驗當地服飾嘅活動
 
 下晝四點，酒店仲提供咗非常受小朋友歡迎嘅 **免費Candy Bar**，各式各樣嘅糖果同點心令小朋友興奮不已，呢項服務我極力推薦，特別適合帶小朋友嘅家庭。另外，即使我哋退咗房，酒店依然畀我哋繼續使用設施，等小朋友可以繼續玩同享受酒店嘅泳池同其他設施。
 
-▶[Mövenpick Resort Jimbaran訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522)
+▶[Mövenpick Resort Jimbaran訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1615522) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6373265&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCMa3nwTk2IUYjA3mLr4KOSwpsua6vb3PwPHsGCF51OwTwREw58HwaeyJQfHHB_kCHRsZZM4FgZZhDFyMrWGoG48T_LcwbGcF6X6c47GBkOsG4XWEB0_2PnVKnWJg5OtkusXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2NxAz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQboIiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3dhdbmJgjuJy8wFxuXFt7CMWpujYTywMv1gYmlgZuliZOU4xTQKS2xV2sfIEG_kEO0XoGupG6RpeYG1UllI0NDAwMDI1NTLXNUi0TEwyNLPQNbE0MTIz0zU0NzY1NjDUeHVl3YUnxkbWUpC4V2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xSgF1GBhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZqZuDs5Bxlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfFD8uPeZt3nrbXAskZwuQC97zOOWFvvMA-EiafxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANq-PmcBAwAA&masterhotelid_tracelogid=100025527-0a9ab168-494266-1735301&detailFilters=17|1~17~1*31|6373265~31~6373265*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=216&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/JMjDzQtC)
 
 整體嚟講，**Mövenpick Resort Jimbaran** 唔單止環境優美，服務周到，仲非常親子友善，令全家都可以享受到輕鬆愉快嘅度假時光。
 

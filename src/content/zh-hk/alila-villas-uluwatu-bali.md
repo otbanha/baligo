@@ -17,6 +17,7 @@ tags:
   - '#峇里島五星'
   - '#阿麗拉'
   - alila uluwatu
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a346ae88156061ea593f9de1b88f0cbf.jpg'
 originalUrl: 'https://vocus.cc/article/67f1f8fbfd89780001607840'
 agoda_hotel_id: 148738
@@ -25,7 +26,7 @@ agoda_star_rating: 5
 latitude: -8.845608711242676
 longitude: 115.1370620727539
 lang: zh-hk
-_srcHash: a2ae95c261ef86f2831109a3c50ab9af
+_srcHash: 56bfd3892df3bfa5a7272f0bab11a472
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_69325ed505e288e110803e6f0e1eccbd.jpg)
@@ -149,7 +150,7 @@ _srcHash: a2ae95c261ef86f2831109a3c50ab9af
 * 淡季（11-3月）房價最低可以去到 **6折**
 * 婚禮諮詢要提前 **半年** 預約
 
-▶[Alila Villas Uluwatu最新房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=148738)
+▶[Alila Villas Uluwatu最新房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=148738) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=926202&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6w8zFJMEk9ZWZ49fK4x9YhRiNDA6yWvzydlxSYMsVPn2Tg-fZM0BQt80hgKeRMQ0EzhU4zGD8ddhiBSPjRkaPh1Ui66z7HXYwMp1gnHiRcQHTl23nhU-xMHMsU7nE8p0pulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGwjI0MjPQMDoFBJYoVnClhrcmJOcmlOYklqSGUB0AgzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxA9BCt1SoHYa1OphOfzan92n3zBebduNwuomxCYrTzQfE6ca1sY9YmKJjP7Ew_GJhaGJl6GJlmMTKwgGMnl2sPIHOHqH-rrqGulG6hlLyhgYGBqaGxqamugaJlhbGRolGuiaWJkZmZromppbGlhqHum9deGJsZC3FOuXA82nsCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9hMzQwtnCyibLiYQ4NdBJdXHte0MpJ2kGIOCXdR_LD8mLd552l7LZCcIUwucM_rnBP2xgvsI2HySaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWM7FzMBkaGAkwbGBl3MP6HAcZXjCBLAC6gFHToAgAA&masterhotelid_tracelogid=100051355-0a9832a2-494266-45939&detailFilters=17|1~17~1*31|926202~31~926202*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1092&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/8YoSt8kN)
 
 ## **Alila Villas Uluwatu**開箱影片
 
@@ -165,7 +166,7 @@ _srcHash: a2ae95c261ef86f2831109a3c50ab9af
 
 「喺呢度，連空氣都係設計過嘅——海風嘅鹹度、精油嘅香氣，甚至服務員嘅微笑弧度。若果話峇里島係眾神嘅島嶼，Alila Uluwatu就係神送畀大人嘅遊樂場。」
 
-> ▶[Alila Villas Uluwatu最新房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=148738)
+> ▶[Alila Villas Uluwatu最新房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=148738) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=926202&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6w8zFJMEk9ZWZ49fK4x9YhRiNDA6yWvzydlxSYMsVPn2Tg-fZM0BQt80hgKeRMQ0EzhU4zGD8ddhiBSPjRkaPh1Ui66z7HXYwMp1gnHiRcQHTl23nhU-xMHMsU7nE8p0pulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGwjI0MjPQMDoFBJYoVnClhrcmJOcmlOYklqSGUB0AgzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxA9BCt1SoHYa1OphOfzan92n3zBebduNwuomxCYrTzQfE6ca1sY9YmKJjP7Ew_GJhaGJl6GJlmMTKwgGMnl2sPIHOHqH-rrqGulG6hlLyhgYGBqaGxqamugaJlhbGRolGuiaWJkZmZromppbGlhqHum9deGJsZC3FOuXA82nsCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9hMzQwtnCyibLiYQ4NdBJdXHte0MpJ2kGIOCXdR_LD8mLd552l7LZCcIUwucM_rnBP2xgvsI2HySaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWM7FzMBkaGAkwbGBl3MP6HAcZXjCBLAC6gFHToAgAA&masterhotelid_tracelogid=100051355-0a9832a2-494266-45939&detailFilters=17|1~17~1*31|926202~31~926202*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1092&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/8YoSt8kN)
 
 ## 住客評論
 

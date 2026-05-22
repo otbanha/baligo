@@ -11,10 +11,11 @@ tags:
   - 峇里島遊記
   - 巴里島遊記
   - 烏布
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9a3dbb0d78806081cfc5710ec96cbf05.jpg'
 originalUrl: 'https://vocus.cc/article/6688b074fd897800017bd1d5'
 lang: zh-hk
-_srcHash: f432c2c27c19628e257daf75c9a0fe78
+_srcHash: edc85f545157d3043d89020687611008
 ---
 
 > 以下內容由團友​[林彥瑋](https://www.facebook.com/winnie.lin.566/)提供，並同意我哋改編
@@ -79,7 +80,7 @@ Finns Beach Club 位於峇里島最負盛名嘅坎古區，係峇里島最時尚
 
 真係一個令人唔想走嘅絕佳地方。
 
-> 預訂 The Tukad Villa：[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=240473)
+> 預訂 The Tukad Villa：[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=240473) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=688405&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_CcXvpwVOsQowGFr8FHVtfB-6Qyyxz8Dx7Bgg4ahwCeCKmHHg-jT2xcZNmeMV3D4dCBhB40eDQyLjO_WGVSFydQxcjK1jNDMapTVobGeVBhtSFOexgZDrBuERgAdPsxaeYTrEwcyxivsTylSm6Wik7tVLJykRHqSSzJCdVyUrp2Zzep90zX2zaraSjlJJanAwUArISc_NL80qAbCMDSz0DA6BISWKFZ4qSlbmOUnJiTnJpTmJJakhlAdAEMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRboAiFpaYU5oKcQLQQrdUqB3GtTqYLn-6aN7Thj3PV7QS53ITarvckBiXG9bGPmJhio79xMLwCxgNl4SbWBm6WJk5XjBOApJLBHaxsvlFuviFBFxgvacqJWdoYGBgamhsaqprkGiZaGqcbKhrYmliZG6ga2phYqHR-ejFtSfGRtZSkEhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxGbuYm7obBRlw8Xs6RIk-EHv-fZ2a0t7KeaQcBdFe9l-yRU9p-21mEODXQy9T7DbzjaVdgjc8zrnhL3xAvvI4w1vvr7rP22fxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIsIGRcQfjfxhgfMUIMh0AcV6NbvoCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-5848&detailFilters=17|1~17~1*31|688405~31~688405*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=350&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/OhA4ytCi)
 
 已收錄在「[水明漾villa推薦](/blog/2024-04-04-660e6e92fd89780001e6047e/)」
 

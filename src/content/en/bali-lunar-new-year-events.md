@@ -6,6 +6,7 @@ description: >-
   and your family are visiting Bali during this festive season, you can also
   experience the New Year atmosphere on the island!
 pubDate: '2025-01-15'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5e5d2c14ff86d0b8ae7087356c3f24a6.png'
 tags:
   - 農曆新年
@@ -18,7 +19,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: en
-_srcHash: 1cf8e01cb246b456a9cb2297ab4e568a
+_srcHash: 0460d549e71c69c48c7a9c6bc1e1a3dc
 ---
 Here’s a curated guide to Lunar New Year celebrations in Bali for 2025. If you and your family are visiting Bali during this festive season, you can also experience the New Year atmosphere in a foreign land!
 

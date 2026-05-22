@@ -25,10 +25,11 @@ tags:
   - 峇里島換匯與網路建議
   - 峇里島雨天備案景點
   - 峇里島旅遊防蚊腸胃保健
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4516353105148f7d4ebee19a4bcbe6a4.jpg'
 originalUrl: 'https://vocus.cc/article/6970b673fd897800013623d5'
 lang: en
-_srcHash: 53ec3ee86f30328c6c5db62df5e80ed1
+_srcHash: 6659f52f43ecc56a21ec73f97359e19a
 ---
 
 > The following content is adapted from a travelogue shared by group member [Lin Konglong](https://www.facebook.com/share/p/1DMYqVwzhq/):
@@ -210,7 +211,7 @@ Today, we moved from the cultural hub of Ubud to the lively coastal area of Kuta
 
 We stayed at the Amnaya Resort, a winner of the **2025 Agoda Travelers' Choice Award** in Kuta.
 
-> [Check Availability & Prices](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920599)
+> [Check Availability & Prices](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920599) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2601658&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCsenWzttsQuyGpmYGhgZGBrdELZ63Mzoe_qoR05_U6OC5Q671deCWVocAnogpB55PY09sDvSc23Ao0KGLkRUsMINx19N5jCsYGTcyXl9cYMvlnuiwg5HpBOM8yQVMR_aftj_FwszRxHqJ5StTdLVSdmqlkpWJjlJJZklOqpKV0tNF85427Hm-olVJRykltTgZKARkJebml-aVANnGRoZ6BgZAkZLECs8UsM7kxJzk0pzEktSQygKgCWY6SpnFziVFmQVBqbmZJSWpQFVpiTnFqSDxoNRioEwyWFDJD2hMEVQgMz8Pot0QRSwsMac0FeIEoIVuqVA7DGt1MF3-bE7v0-6ZLzbtJs7l5tR2uQExLjeujX3EwhQd-4mF4RcLQxMrQxcrM8cppklAcp7kLlbu4GBnxwAP3XCzSNcLrC-kpZQNDQwMTA2NTU11DRItE5OMLI10TSxNjMwNdI0szIzNDcwMTTR-bn92_YmxkbUUJP4VGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsRk5ujqaWETZcDG7hgYJKlzKj2fvk3eQYg4Jd1EsXf18yffe0_ZazJ4uQYYf9J5vb7e2tA_c8zrnhL3xAvtImHwSa1WGbkh4xnGxAsYGRqYuRm4BRg_GCMYKII9xFSPDBkbGHYz_YYDxFSPIdABvKasZ_AIAAA&masterhotelid_tracelogid=100051355-0a9ab292-494270-286370614&detailFilters=17|1~17~1*31|2601658~31~2601658*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=817&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/txhUKkim)
 
 - **Villa Check-out and Bintang Supermarket:** Reluctantly, we bid farewell to our cozy villa and headed to the local chain supermarket, **Bintang Supermarket**, for some last-minute shopping. It's a great place to buy coffee, snacks, sauces, and other souvenirs, with a wide selection and transparent pricing.
 - **Tanah Lot Temple:** On our way to Kuta, we stopped by the iconic Tanah Lot Temple. Despite the crowds, the temple perched on a sea rock was still majestic. We walked closer during low tide, feeling the impact of the waves and capturing classic souvenir photos.
@@ -222,7 +223,7 @@ We stayed at the Amnaya Resort, a winner of the **2025 Agoda Travelers' Choice A
 - **Krisna Oleh Oleh Bali Souvenir Shop:** This is a large souvenir store offering everything from clothing, accessories, handicrafts to food. Prices are fixed, eliminating the fun of bargaining, but it's very convenient for tourists who want to buy all their souvenirs in one place without comparing prices.
 - **Stay at Amnaya Kuta Resort and Kuta Beach:** In the afternoon, check into **Amnaya Kuta Resort** in Kuta. The hotel features a modern and comfortable style, contrasting with the villas in Ubud. After settling in, we took a walk to **Kuta Beach**. Watching the surfers and sunset enthusiasts, we felt the vibrant side of Bali.
 
-▶Amnaya Kuta Resort [Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920599)
+▶Amnaya Kuta Resort [Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920599) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2601658&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCsenWzttsQuyGpmYGhgZGBrdELZ63Mzoe_qoR05_U6OC5Q671deCWVocAnogpB55PY09sDvSc23Ao0KGLkRUsMINx19N5jCsYGTcyXl9cYMvlnuiwg5HpBOM8yQVMR_aftj_FwszRxHqJ5StTdLVSdmqlkpWJjlJJZklOqpKV0tNF85427Hm-olVJRykltTgZKARkJebml-aVANnGRoZ6BgZAkZLECs8UsM7kxJzk0pzEktSQygKgCWY6SpnFziVFmQVBqbmZJSWpQFVpiTnFqSDxoNRioEwyWFDJD2hMEVQgMz8Pot0QRSwsMac0FeIEoIVuqVA7DGt1MF3-bE7v0-6ZLzbtJs7l5tR2uQExLjeujX3EwhQd-4mF4RcLQxMrQxcrM8cppklAcp7kLlbu4GBnxwAP3XCzSNcLrC-kpZQNDQwMTA2NTU11DRItE5OMLI10TSxNjMwNdI0szIzNDcwMTTR-bn92_YmxkbUUJP4VGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsRk5ujqaWETZcDG7hgYJKlzKj2fvk3eQYg4Jd1EsXf18yffe0_ZazJ4uQYYf9J5vb7e2tA_c8zrnhL3xAvtImHwSa1WGbkh4xnGxAsYGRqYuRm4BRg_GCMYKII9xFSPDBkbGHYz_YYDxFSPIdABvKasZ_AIAAA&masterhotelid_tracelogid=100051355-0a9ab292-494270-286370614&detailFilters=17|1~17~1*31|2601658~31~2601658*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=817&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/txhUKkim)
 
 - **Bamboo Bar & Grill:** After dinner, we visited this beachside bar. Ordering cocktails and sitting in comfortable seats, the live band's performance was **excellent**, with familiar songs and a lively yet not noisy atmosphere. Enjoying the sea breeze and music, we fully immersed ourselves in Bali's vacation rhythm.
 - **Lunch: Kurnia Seafood**

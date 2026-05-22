@@ -23,6 +23,7 @@ tags:
   - '#排名'
   - '#住宿'
   - '#峇里島旅遊'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d05fceb8873bc57ec3951546e7811de1.jpg'
 originalUrl: 'https://vocus.cc/article/671263f0fd89780001ee6da7'
 agoda_hotel_id: 5347453
@@ -31,7 +32,7 @@ agoda_star_rating: 5
 latitude: -8.447693
 longitude: 115.268545
 lang: en
-_srcHash: 17a97445d3c97646d0b6e7b0a06698d9
+_srcHash: 2061eb6704589e27751e395e8047b556
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3193b4266786ada3df1779af8a323809.jpg)
@@ -102,7 +103,7 @@ The charm of Capella Ubud lies in its breathtaking natural scenery, unique desig
 
 🌿 Discover the hidden luxury retreat in the jungles of Bali, and let Capella Ubud be the starting point of your next adventure!
 
-▶[Check Capella Ubud Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1939816&hid=5347453)
+▶[Check Capella Ubud Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1939816&hid=5347453) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=21877118&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6zMTFJMEkdYeJ41Pvkk4mIWZDAyONjXwGDxgttso7tr4O3BHXstvB8_BXjZjzJw44BPBETDnwfBp7oqWre9HPg4EOXYysYIEZjP8Wbedawci4kZEBBExnOOxgZDrAyHSC8dd2pgVM97-t5TjFwswxz-ISy27G6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbLNDS0t9AwMgEIliRWeKWCtyYk5yaU5iSWpIZUFQCOMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLAgyOAiKD8zPw-i2wBFLCwxpzQVohJon1sq1ArD2thHLEzRsS9YNvJ9YmH4xcLQxMrQxcrMcYppEisLB9Cnu1h5fd18fLy9dQ1DdKN0DS-wnjrIJCVvaGBgYGpobGqqa5BoaWFslGika2JpYmRmDqQsjQ00VrceuvTE2MhaChKaCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9gMnc3NTI2ibLiYQ4NdBPX-K_79ZirtIMUcEu6iODnowlvV3tP2WsyeLkGGH_Seb2-3trQP3PM654S98QL7SHvZfskVPaftk1irMnRDwjOOixUwNjAydTFyCzB6MEYwVgB5jKsY2bmYDYwMBZg2MDLuYPwPA4yvGEGWAAAMag9wTwIAAA&masterhotelid_tracelogid=100051355-0a9832a2-494267-49930&detailFilters=17|1~17~1*31|21877118~31~21877118*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1116&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KEdbfmVg)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0aff256da208300bcfc81788611a1174.jpg)
 

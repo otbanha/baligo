@@ -28,10 +28,11 @@ tags:
   - Uluwatu private pool boutique stay
   - Six Senses Bali oceanfront boutique
   - Luxury eco friendly boutique Uluwatu
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_91532107705be575f99c7a8160f0d02c.jpg'
 originalUrl: 'https://vocus.cc/article/679ccd73fd897800016e1e52'
 lang: zh-hk
-_srcHash: 86b73772965b44797f8daa2fc56891a0
+_srcHash: 6393f72ed2e8b4327dc8e4f5db24b4ed
 ---
 
 > 原開箱文由常常喺我哋Facebook社團貢獻寫文嘅版主 [蕭雅心](https://www.facebook.com/share/p/1A5kJ9Micj/) 提供
@@ -146,7 +147,7 @@ https://youtube.com/shorts/X7SjftQMkXc?si=w5KIl3JI0H62Dvfw
 
 Six Senses Uluwatu係一個令人無可挑剔嘅度假勝地。從壯麗嘅自然景觀到貼心嘅服務，每一個細節都令人感到驚喜同滿足。唯一嘅遺憾係，**一晚嘅時間實在太短**！如果你有機會嚟峇里島，千祈唔好錯過呢片懸崖上嘅天堂，佢絕對會令你流連忘返！
 
-[**▶Six Senses Uluwatu 訂房連結**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5643355)
+[**▶Six Senses Uluwatu 訂房連結**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5643355) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=21888559&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6x8zFJMEk9ZyZ43Lfqq-sQowGFr8FHY1BgG-3g-esmTNnRsYdcAjgmcG4_s92ro2MDCCwa5rDDkamA4xMJxjnbGBawHSrabLlKRZmjmcml1i-M0VXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWxkaKFnYAAUKkms8EwBa01OzEkuzUksSQ2pLAAaYaajlFnsXFKUWRCUmptZUpIKVJWWmFOcChIPSi0GyiSDBZX8gMYUQQUy8_Mg2g1QxMISc0pTIW4AWuiWCrXDsFYH0-nP5vQ-7Z75YtNuHE43NTFAcbr5gDjduDb2EQtTdOwnFoZfLAxNrAxdrAyTWFk4gNGzi5Ur0DfKyCdA10PXUErB0MDAwMjU1Mhc1yDRMtHIJNVA18TSxMjcUNfY0tTQwFjj_PJDN54YG1lLsU458HwauwKjlmB8iKeni2FJYapZYallTlGBqQHjKUYpQ3NjC0MjQ0MjIyNLYz0TizSzYou8YovcrAgPxiA2QzdzF3OLKBsuZk-XIMEPes-3t1tb2ksxh4S7KJaufr7ke-9pey2QnCFMLnDP65wT9sYL7CNPPdCoLO07bZ_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhJg2sDIuIPxPwwwvmIEWQIABmcIfNsCAAA&masterhotelid_tracelogid=100025527-0a9a24e0-494271-395103&detailFilters=17|1~17~1*31|21888559~31~21888559*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687)
 
 {{block:uluwatu}}
 

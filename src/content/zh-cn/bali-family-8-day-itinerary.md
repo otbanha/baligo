@@ -15,10 +15,11 @@ tags:
   - '#藍夢島'
   - '#浮潛'
   - '#沙努爾'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_92c1c3c6353fec567c863e536302c897.jpg'
 originalUrl: 'https://vocus.cc/article/66551cfefd897800011f9d5e'
 lang: zh-cn
-_srcHash: b8ecc17eb78bc6b90dbd7f00c50e3908
+_srcHash: 2daf2c8c8e34cd9e1623d0229ac5e691
 ---
 
 脸书社团团友 [Mei Chen](https://www.facebook.com/mei.co.nz/) 跟家人的巴厘岛八天七夜游记，特此提供给我们编辑/转载：
@@ -104,7 +105,7 @@ _srcHash: b8ecc17eb78bc6b90dbd7f00c50e3908
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776002660718-231354323.jpeg)
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776002661166-231354923.jpeg)
 
-▶[FOX Hotel Jimbaran Beach订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=3121957)
+▶[FOX Hotel Jimbaran Beach订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=3121957) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6371074&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6y8zFJMEk9YyZ4_KR3XfYhBiNDM6yWayOcDQGAecUB88dcq2vA3dkOATwzGBsetfCvIKRcSOjyDr3h1VXHB12MDKdYJzOvoDp5Jld_KdYmDmWMV5i-cwUXa2UnVqpZGWio1SSWZKTqmSl9HTRvKcNe56vaFXSUUpJLU4GCgFZibn5pXklQLaFsZ6BAVCgJLHCMwWsMTkxJ7k0J7EkNaSyAGiAmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FuABooVsq1A7DWh1Mhz-b0_u0e-aLTbuJcrg5tR1uQIzDjWtjH7EwRcd-YmH4xcLQxMrQxcowiZWZYzr7Llae4BAjX-8gXUPdKF1DKXlDAwMDU0NjU1Ndg0TLRFPjZENdE0sTI3NDXSMTUyMzja3dH288MTaylmKdcuD5NHYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbJbGrs7GjlE2XMyhwS6C6VefZ2mbSTtIMYeEuyhODrrwVrX3tL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEWQIAYN9JO9kCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-24526&detailFilters=17|1~17~1*31|6371074~31~6371074*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687)
 
 {{block:jim}}
 
@@ -301,7 +302,7 @@ https://youtube.com/shorts/sVxycGvyT9w
 
 Oculus Bali 的景色也不错啊！
 
-> ▶[Oculus Bali订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=34040413)
+> ▶[Oculus Bali订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=34040413) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=99118073&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJY_GmK9PZhBgNLH4LOgbtkGt9fbTTwfObRkz_ods9DgE8EVMOPJ_GnnjTtjJixcFAh0IGENDod2hkXFJgy3Vdutehi5EVrGYG48_rC_U3Msq3vg7csS7CYQcj0wFGphOMpxQXMDVtX2B7ioWZ4zTzJZbdjNHVStmplUpWJjpKJZklOalKVkpPF8172rDn-YpWJR2llNTiZKAQkJWYm1-aVwJkm5ha6hkYAEVKEis8U8A6kxNzkktzEktSQyoLgCaY6ShlFjuXFGUWBKXmZpaUpAJVpSXmFKeCxINSi4EyyWBBJT-gMUVQgcz8PIh2QxSxsMSc0lSIE4AWuqVC7TCsjX3EwhQd-4mF4RfQM9NUmlgZuliZOU4xTQKRirtY2YLMzd2jQi-wrvKQkjE0MDAwNTQ2NdU1SLRMNLM0NNE1sTQxMjfQtTTVeL7kxrUnxkbWUpDAU2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xShlaG5sYWhkaGhkZGRprGdikWZWbJFXbJGbFeHBGMRmYWZhbGIcZcPF7OkSJPhB7_n2dmtLeynmkHAXRXvZfskVPafttUByhjC5wD2vc07YGy-wjzze8Obru_7T9kmsVRm6IeEZx8UKGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDTAX33V9FCAgAA&masterhotelid_tracelogid=100051355-0a9a6914-494270-95&detailFilters=17|1~17~1*31|99118073~31~99118073*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=320&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/9ZzGv9ZJ)
 
 ## 5月22日 星期三 DAY 5 乌布周边
 
@@ -378,7 +379,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 今晚我们入住Dwaraka The Royal Villas，这里的房价含早餐、下午茶、免费足部按摩、每小时一趟市区接送，房间内还有饼干、水果和免费饮料。这是一个非常超值的酒店，提供了各种设施和服务，好像就住在乌布的皇宫里！绝对是这趟旅行中最值得推荐的住宿地点。房价约两千初，如果选择四人房两层villa含私人泳池则约四千台币（约USD$129）。这里还有两个大众泳池，儿童戏水区和kids club，是个适合家庭的好选择。
 
-▶[Dwaraka The Royal Villas订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1030641)
+▶[Dwaraka The Royal Villas订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1030641) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=3913616&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NqZ-FikmCSamDh2H3pxEk2IUYDi9-CjmkgcK3WwfNhlcg695VNDgE8EVMOPJ_Gnqh2P6c4eUGAQxcjK1hgBuOE9-8YVzAybmQstOW6vvhDrMMORqYDjEwnGG-KLmBa_O8R0ykWZo41LJdYvjJFVytlp1YqWZnoKJVkluSkKlkpPV0072nDnucrWpV0lFJSi5OBQkBWYm5-aV4JkG1kbqFnYAAUKUms8EwB60xOzEkuzUksSQ2pLACaYKajlFnsXFKUWRCUmptZUpIKVJWWmFOcChIPSi0GyiSDBZX8gMYUQQUy8_Mg2g1RxMISc0pTIU4AWuiWCrXDsFYH0-XP5vQ-7Z75YtNu4lxuTm2XGxDjcuPa2EcsTNGxn1gYfrEwNLEydLEyc2xlmgQkb4ruYmULdg0KDnS-wNonISVvaGBgYGpobGqqa5BoaZFknGiga2JpYmRmqWtsaWluonHz4LOrT4yNrKUgMa_AqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdzJ0tDULcqGi9nTJUjwg97z7e3WlvZSzCHhLor2sv2SK3pO22uB5AxhcoF7XuecsDdeYB9Zuvr5ku-9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAN8-FGewCAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494269-39974&detailFilters=17|1~17~1*31|3913616~31~3913616*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=432&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/48vW2DzN)
 
 {{block:ubud}}
 

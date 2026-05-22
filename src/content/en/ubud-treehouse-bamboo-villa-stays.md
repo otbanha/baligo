@@ -23,10 +23,11 @@ tags:
   - Best Bamboo Villas Ubud
   - Ubud Treehouse Bali review
   - Emana Bambooscape Ubud
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fdec0070ac83943457e250368cc6d730.jpg'
 originalUrl: 'https://vocus.cc/article/660d4c83fd89780001ddf0ad'
 lang: en
-_srcHash: 7033b1c9f191c2b7aef7869ad16cce95
+_srcHash: 1f4348d2450fcf3fe5a52bd941fd649b
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1001bd26958ac1c26775c36f63cab0e5.jpg)
@@ -123,7 +124,7 @@ Step through the sliding glass doors onto the balcony with seating, offering vie
 
 Whether you're looking for romance, relaxation, or simply to admire the unique design of bamboo houses, Beehouse Dijiwa is sure to leave you with unforgettable memories.
 
-> [Beehouse Dijiwa Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8257992) Rates & Availability
+> [Beehouse Dijiwa Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8257992) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=47333965&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazsLFJMEkNYGF486jnk9sQuyGpmYGhgZGBptELFqbGR09HlaJrFvc4OD5JnCHXOvpFocAnogpB55PY0-8aVsZseJgoEMXIytYYAbj2ZaTYhsZ-w991YiZn-Cwg5HpACPTCcYZEguY7my7Z3OKhZnjFcsllq9M0dVK2amVSlYmOkolmSU5qUpWSs_m9D7tnvli024lHaWU1OJkoBCQlZibX5pXAmQbG1jqGRgARUoSKzxTlKzMdZSSE3OSS3MSS1JDKguAJpjpKGUWO5cUZRYEpeZmlpSkAlWlJeYUp4LEg1KLgTLJYEElP6AxRVCBzPw8iHYDFLGwxJzSVIgTgBa6pULtMK7VwXT500Xznjbseb6ilTiXm1Db5YbEuNywNvYRC1N07CcWhl8sDE2sDF2szBynmCYByRkSu1j5Q6KM_MMMdMPNIl11o3QNL7A-kpJSNDQwMDAyNTUy1zVItEw0NzYw0jWxNDEys9Q1MTAxMzcx0Tj3uv_aE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZm5kaOlsHGXDxRwa7CLofYLddraptIMUc0i4i6K9bL_kip7T9lrMni5Bhh_0nm9vt7a0D9zzOueEvfEC-8jS1c-XfO89bZ_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAmplOWAUDAAA&masterhotelid_tracelogid=100025527-0a9a7302-494269-4046744&detailFilters=17|1~17~1*31|47333965~31~47333965*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1278&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/jb5P9Ezd) Rates & Availability
 
 ## Bamboo Turtles Ecolodge
 
@@ -153,7 +154,7 @@ The best option for families is the large two-story, two-bedroom villa, equipped
 
 Whether you’re a couple or a family, Le Sabot offers a bamboo house experience that’s great value for money, ensuring your Ubud vacation doesn’t break the bank.
 
-> [Le Sabot Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115) Room Rates & Availability
+> [Le Sabot Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=47116230&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQUjQ0MDAwMjU1Mtc1SLS0SDU2sNQ1sTQxMrPUNTUyMzWysNTY-mD3tSfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYLEzdnAycovikmEPCXRTtZfslV_Sctk9ircrQDQnPOC4GAPfcmY-EAAAA&masterhotelid_tracelogid=100025527-0a98e309-494269-5265289&detailFilters=17|1~17~1*31|47116230~31~47116230*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=784&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/aGxipjNP) Room Rates & Availability
 
 ## Jungleight Bali - A Luxurious Bamboo Villa
 

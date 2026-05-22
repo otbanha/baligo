@@ -5,6 +5,7 @@ description: >-
   For this Bali trip, our family flew to this enchanting island with great
   anticipation.
 pubDate: '2024-09-18'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fe6a030ea275cf610d3a9c87b3d2c277.jpg'
 tags:
   - 峇里島自由行
@@ -16,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/66c0ba76fd89780001527eed'
 category:
   - 遊記分享
 lang: en
-_srcHash: d174286e6b23e5114131d6a32dc5d55d
+_srcHash: 5f7c6ba0498aa331a16af661240335ef
 ---
 
 > The following content was provided by fellow traveler [Oscar Lin](https://www.facebook.com/share/p/4Eev2drzrfF5SKtc/) and has been adapted with his permission.
@@ -35,7 +36,7 @@ For our first evening, we chose to dine at **Cafe Wayan** in Ubud. This restaura
 
 After dinner, we returned to our accommodation for the night—**Komaneka at Rasa Sayang**. As the online reviews suggested, the hotel was indeed beautiful, with room designs and overall ambiance that made us feel very comfortable. Its location was also very convenient, right next to Monkey Forest Road, surrounded by numerous attractions and restaurants, making it ideal for sightseeing and relaxation.
 
-> [Komaneka at Rasa Sayang Room Rates & Availability Check](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185)
+> [Komaneka at Rasa Sayang Room Rates & Availability Check](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685387&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF4_nZrtOsQuyGpmYGhgZGBhtFLFqbGR09HlaJrDvc5uApss79YZVLj0MAT8SUA8-nsSdauroX_TwY6NDFyAoWmMF4-pXmCkbGjYzGIMCc5rCDkekAI9MJxvcKC5imLL5vdoqFmWMT2yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJsYWOoZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHKeYJgHJ9wq7WPn9IkPM_Bx1w80iXXWjdA0vsO5UlpI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MTI31DU2tjA107gztfPmE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmpubm5mGWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgB1UectBQMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-33856&detailFilters=17|1~17~1*31|685387~31~685387*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/j3XfJIPj)
 
 Included in [【Ubud Accommodation】27 Unique Stays in Ubud, Experience the Magic of Bali's Mountain Scenery!](/blog/ubud-villas-pool-guide/)
 

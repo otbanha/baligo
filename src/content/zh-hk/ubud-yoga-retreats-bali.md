@@ -27,10 +27,11 @@ tags:
   - Ubud jungle view boutique villa
   - Luxury yoga retreat boutique Ubud
   - Ubud eco friendly boutique accommodation
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e3d6b1a238b2a132511ebd9395fda710.jpg'
 originalUrl: 'https://vocus.cc/article/67451f5afd89780001f002f2'
 lang: zh-hk
-_srcHash: 53fa10e0d3366f0849530cedcd1ad438
+_srcHash: b39e9c876e1ec931fc29989fe786f5c0
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7c732b073f5ce52b19b42925c798cc9d.jpg)
@@ -60,7 +61,7 @@ _srcHash: 53fa10e0d3366f0849530cedcd1ad438
 
 👉 **推薦理由**：想體驗身心平衡嘅旅人，呢度係理想之選，仲可以參加漂流同火山登山等戶外活動，令你嘅旅程更加有冒險精神。
 
-> **▶**[**點擊預訂COMO Uma Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=2972542)
+> **▶**[**點擊預訂COMO Uma Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=2972542) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1395200&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NaxMLFJMEkNZuF486syY9YhRiNDL4yWWzWdlzn_rBKZOEMB09jEPCZ5xDAEzHlwPNp7ImWru5FPw8GOhQygMCHCQ6NjN80YvoPHe9z6GJkBauZwdgwJXQjowjIkDVlDjsYmQ4wMp1g3OG2gGny1rfKp1iYOabxXmL5yhRdrZSdWqlkZaKjVJJZkpOqZKX0dNG8pw17nq9oVdJRSkktTgYKAVmJufmleSVAtoWJsZ6BAVCkJLHCMwWsMzkxJ7k0J7EkNaSyAGiCmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FOAFooVsq1A7DWh1Mlz-b0_u0e-aLTbuJc7k5tV1uQIzLjWtjH7EwRcd-YmH4BYyGlepNrAxdrMwcp5gmAckdbrtYefyjHL1NXHQNdaN0DS-wri6Qkjc0MDAwNTQ2NdU1SLRMNDVONtQ1sTQxMjfUNTIzMjfR-Lbn640nxkbWUpDoV2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xShlaG5sYWhkaGhkZGRprGdikWZWbJFXbJGbFeHBGMRmZuRsamkSZcPFHBrsIph-9XmWtpm0gxRzSLiL4uSgC29Ve0_ba4HkDGFygXte55ywN15gHwmTT2KtytANCc_oFS9gbGBk6mLkFmD0YIxgrADyGFcxsnMxGxgZCjBtYGTcwfgfBhhfMYIsAQDeEj2DDgMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-26274&detailFilters=17|1~17~1*31|1395200~31~1395200*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=845&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/qZItsrtj)
 
 ## 2.**Kajane Yangloni：稻田環繞嘅靜謐住宿體驗** 🌾
 
@@ -105,7 +106,7 @@ _srcHash: 53fa10e0d3366f0849530cedcd1ad438
 
 👉 **推薦理由**：鍾意隱世感又唔想遠離市區嘅旅人，呢度將係完美選擇。
 
-> ▶[**點擊預訂The Udaya Resorts and Spa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1636392)
+> ▶[**點擊預訂The Udaya Resorts and Spa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1636392) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6640884&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxcLFJMEkNZmF4-aeM_vYhBgNLH4LOmrG9B_6qtbu4Cnf-jpwx54ehwCeiCkHnk9jT7Tlur64YH-gQyEDCNhMd2hkfFglss5932SHLkZWsJoZjF9WTmXeyAhUaMsVnuawg5HpACPTCcZNiguYrs2eynyKhZljH9sllq9M0dVK2amVSlYmOkolmSU5qUpWSk8XzXvasOf5ilYlHaWU1OJkoBCQlZibX5pXAmSbGJrqGRgARUoSKzxTwDqTE3OSS3MSS1JDKguAJpjpKGUWO5cUZRYEpeZmlpSkAlWlJeYUp4LEg1KLgTLJYEElP6AxRVCBzPw8iHZDFLGwxJzSVIgTgBa6pULtMKzVwXT5szm9T7tnvti0mziXm1Pb5QbEuNy4NvYRC1N07CcWhl_AaPhj2sTK0MXKzHGKaRKQ3KS4i5UtMtgw0Mf_AuuPSCk5QwMDA1NDY1NTXYNESwtjUxNzXRNLEyMzc11zI2MLjYUfr118YmxkLQWJeAVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsZhYmxi4uUTZczJ4uQYIf9J5vb7e2tJdiDgl3Ufyw_Ji3eedpey2QnCFMLnDP65wT9sYL7CMruFU06npO2yexVmXohoRnHBcrYGxgZOpi5BZg9GCMYKwA8hhXMTJsYGTcwfgfBhhfMYJMBwB69feR_gIAAA&masterhotelid_tracelogid=100051355-0a983547-494267-7238&detailFilters=17|1~17~1*31|6640884~31~6640884*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=480&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/cF2UPvoh)
 
 ## 4. Adiwana Resort Jembawan
 
@@ -129,7 +130,7 @@ _srcHash: 53fa10e0d3366f0849530cedcd1ad438
 
 👉 **推薦理由**：強調健康主題，適合需要放鬆身心嘅個人或者夫妻旅客。
 
-> ▶[**點擊預訂Adiwana Resort Jembawan**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1617762)
+> ▶[**點擊預訂Adiwana Resort Jembawan**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1617762) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6274017&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxcLFJMEkNZmF48y0_X9YhRgNLH4LOnJdX1xgm9Tk4AmiuV63OQTwREw58Hwae6ItSGp_oEMhAwhodDo0Mi4BKrke3-rQxcgKVjOD8eH3f0wbGY1BQDnJYQcj0wFGphOMF6UWML26_J_pFAszxyLWSyxfmaKrlbJTK5WsTHSUSjJLclKVrJSezel92j3zxabdSjpKKanFyUAhICsxN780rwTINjY21zMwAIqUJFZ4pihZmesoJSfmJJfmJJakhlQWAE0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDtBihiYYk5pakQJwAtdEuF2mFcq4Pp8qeL5j1t2PN8RStxLjehtssNiXG5YW3sIxam6NhPLAy_gNEwW7aJlaGLlZnjFNMkIHlRahcrW6CnhUmgywXWbVZS8oYGBgamhsamproGiZaJxkZpybomliZGZma6pgYW5qYa62Y8u_DE2MhaChLzCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9gsnSwNjI2jbLiYPV2CBD_oPd_ebm1pL8UcEu6i-GH5MW_zztP2WiA5Q5hc4J7XOSfsjRfYR8Lkk1irMnRDwjOOixUwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDAATgrnf_AgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494266-50875&detailFilters=17|1~17~1*31|6274017~31~6274017*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=880&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/T3dzFTH6)
 
 ## 5. Maya Ubud Resort & Spa
 
@@ -153,7 +154,7 @@ _srcHash: 53fa10e0d3366f0849530cedcd1ad438
 
 👉 **推薦理由**：想喺大自然中尋求寧靜嘅旅人唔可以錯過，無論係戶外冒險定係簡單放鬆都可以滿足需求。
 
-> ▶[**點擊預訂Maya Ubud Resort & Spa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=7534)
+> ▶[**點擊預訂Maya Ubud Resort & Spa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=7534) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685363&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqZOFikmCSamLhWLh70RY2IUYjg7NsFqsjHD0eVomsu9_m4Cnf-jpwR1qPQwBPxJQDz6exJ1q6uhf9PBjo0MXIChaYwbj5leZGxpj-Q181ZNIcdjAynWBsVlzA9KZ9LfcpFmaObWyXWL4yRVcrZadWKlmZ6CiVZJbkpCpZKT1dNO9pw57nK1qVdJRSUouTgUJAVmJufmleCZBtYmioZ2AAFClJrPBMAetMTsxJLs1JLEkNqSwAmmCmo5RZ7FxSlFkQlJqbWVKSClSVlphTnAoSD0otBsokgwWV_IDGFEEFMvPzINoNUcTCEnNKUyFOAFrolgq1w7BWB9Plz-b0Pu2e-WLTbuJcbk5tlxsQ43Lj2thHLEzRsZ9YGH6xMDSxMnSxMnOcYpoEJJsVd7HyRJq7upv46xrqRukaXmA9qyylaGhgYGBkampkrmuQaJlobmxgpGtiaWJkbqhrZGBmaGRprrH7fsPNJ8ZG1lKQqFdg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjE5mxq5GhuEWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgADAa8L9wIAAA&masterhotelid_tracelogid=100025527-0a9a7302-494271-2061297&detailFilters=17|1~17~1*31|685363~31~685363*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=504&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/jDDWgLu7)
 
 ## 6. The Hidden Paradise Ubud
 
@@ -197,7 +198,7 @@ _srcHash: 53fa10e0d3366f0849530cedcd1ad438
 
 👉 **距離景點：** 步行25分鐘到烏布中心
 
-> ▶[**點擊預訂The Purist Villas and Spa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=240074)
+> ▶[**點擊預訂The Purist Villas and Spa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=240074) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1543136&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6x8TFJMEkdZ2J4_bsx1PYhJgNDYw07rMZPGC02CrvOGsmELzudPBc5_6wSuREv0MAT8SUA8-nsSdauroX_TwY6NDFyAoWmMH4YHrcCkbGjYxBO-RaXxemO-xgZDrAyHSC8afKAqYdZ18xnmJh5njOdollF2N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2RbmhnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJRjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYEGRuEZSfmZ8H0W2AIhaWmFOaClEJtM8tFWqFYW3sIxam6NgXLPfZPrEw_GJhaGJl6GJl5jjFNAlI_lTZxcobZBAS4u6oaxiiG6VreIH1kbaUoqGBgYGRqamRua5BomUiECTpmliaGJkb6hqZGhqbGZtqdE-adPOJsZG1FCQoFRi1BONDPD1dDEsKU80KSy1zigpMDRhPMUoZmhtbGBoZGhoZGVka65lYpJkVW-QVW-RmRXgwBrGZuBkYmVhE2XAxhwa7CKZffZ6lbSbtIMUcEu6iODnowlvV3tP2WsyeLkGGH_Seb2-3trQP3PM654S98QL7yPUzazafBconsVZl6IaEZ_SKFzA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAK5uVjBMAgAA&masterhotelid_tracelogid=100025527-0a9aaaab-494271-2513635&detailFilters=17|1~17~1*31|1543136~31~1543136*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=996&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/zo1aiQEb)
 
 ## 8. **Chapung Sebali**
 

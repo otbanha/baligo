@@ -3,6 +3,7 @@ slug: bali-lunar-new-year-events
 title: 【必收藏】峇里島慶祝農曆新年嘅活動資訊整理
 description: 以下係關於2025年喺峇里島慶祝農曆新年嘅活動資訊整理，如果你同屋企人喺農曆新年期間到訪峇里島，都可以喺峇里島感受新年嘅氣氛㗎！
 pubDate: '2025-01-15'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5e5d2c14ff86d0b8ae7087356c3f24a6.png'
 tags:
   - 農曆新年
@@ -15,7 +16,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-hk
-_srcHash: 1cf8e01cb246b456a9cb2297ab4e568a
+_srcHash: 0460d549e71c69c48c7a9c6bc1e1a3dc
 ---
 以下係關於2025年喺峇里島慶祝農曆新年嘅活動資訊整理，如果你同屋企人喺農曆新年期間到訪峇里島，都可以喺異國感受新年嘅氣氛㗎！
 
@@ -45,7 +46,7 @@ _srcHash: 1cf8e01cb246b456a9cb2297ab4e568a
 
 峇里島嘅農曆新年慶祝活動唔單止有美食，仲有豐富嘅文化體驗：
 
-- **傳統音樂與舞蹈**：喺[Tugu Bali Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3164)嘅Kang Xi Temple，遊客可以欣賞到古箏演奏同舞獅表演，仲可以參與8道菜嘅傳統家宴。（[參考來源](https://blog.tuguhotels.com/lunar-legends-celebrating-the-wood-snake-year-at-the-historic-kang-xi-temple/)）
+- **傳統音樂與舞蹈**：喺[Tugu Bali Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3164) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685798&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJY-qOHSuYhJgNDYw07rMZPGC02CrvaMt1fXGB_GQHz_5DXzViOqc7BPBETDnwfBp7YnOg59yGQ4EOXYysYIEZjM_eam5k9HhYJbJueaHDDkamA4xMJxhvmS1gun3pFeMpFmaOBVyXWHYzRlcrZadWKlmZ6CiVZJbkpCpZKT1dNO9pw57nK1qVdJRSUouTgUJAVmJufmleCZBtaGxopGdgABQqSazwTAFrTU7MSS7NSSxJDaksABphpKOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFQQYXQfmZ-XkQ3QYoYmGJOaWpEJVA-9xSoVYY1sY-YmGKjn3Bcp_tEwvDLxaGJlaGLlZmjlNMk4DkLbNdrLze3i6Rjv66hiG6UbqGF1jbbKXkDQ0MDEwNjU1NdQ0SLRNNjZMNdU0sTYzMDXTNjM0tLDSu9_XeeGJsZC0FCUYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbE6WZuaGLlE2XMyhwS6CAhGWW06YSTtIMYeEuyiWrn6-5HvvaXstZk-XIMMPes-3t1tb2gfueZ1zwt54gX1kOMv_6JN9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAGFDC3dIAgAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-63788&detailFilters=17|1~17~1*31|685798~31~685798*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=240&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/kOsEG0tu)嘅Kang Xi Temple，遊客可以欣賞到古箏演奏同舞獅表演，仲可以參與8道菜嘅傳統家宴。（[參考來源](https://blog.tuguhotels.com/lunar-legends-celebrating-the-wood-snake-year-at-the-historic-kang-xi-temple/)）
 - **節日裝飾與市集**：登巴薩嘅街道會掛滿紅燈籠同節日裝飾，營造出濃厚嘅節日氣氛。市集上仲可以買到傳統手工藝品同節日禮品。([參考來源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0fdf9297e023a767c306109772cc60c1.png)

@@ -21,10 +21,11 @@ tags:
   - '#峇里島自由行'
   - '#峇里島自由行攻略'
   - '#canggu住宿推薦'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0178fb27de100f76a030d000bd99cedc.jpg'
 originalUrl: 'https://vocus.cc/article/690ae7cafd89780001e08158'
 lang: en
-_srcHash: 0173b3e3c2254b06940e7b68310dd07e
+_srcHash: 0d153b6b0a10dda837b02badbc242b3b
 ---
 
 Belajar Bali Boutique Hotel & Retreat is a highly-rated boutique accommodation in the Canggu area. If you're planning a trip to Bali and looking for a small hotel with strong design aesthetics, excellent service, and a unique style, this might be a worthy addition to your list. Below, we'll discuss the highlights, areas for improvement, and our recommendations.
@@ -92,7 +93,7 @@ Others mentioned that despite being near a main road, it remains quiet at night.
 
 In summary, Belajar Bali Boutique Hotel & Retreat is a small boutique hotel with elegant design, excellent service, and a convenient location, ideal for those seeking quality accommodations or couples/small group travelers. If you're planning a stay in Canggu and prefer a 'quiet yet quality' option, consider adding it to your list!
 
-> ▶[**Check Availability & Rates at Belajar Bali Boutique Hotel and Retreat**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=49488356)
+> ▶[**Check Availability & Rates at Belajar Bali Boutique Hotel and Retreat**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=49488356) [Booking](https://booking.tpm.li/SvuReSuQ)
 
 ***
 

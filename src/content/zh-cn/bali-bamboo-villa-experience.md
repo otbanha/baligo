@@ -27,6 +27,7 @@ tags:
   - Eco-friendly accommodation Ubud
   - Ubud bamboo house with private pond
   - Nature stay Ubud Bali reviews
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d18954bf991feac42e2572b3227ecb81.jpg'
 originalUrl: 'https://vocus.cc/article/660e349bfd89780001e40cbc'
 agoda_hotel_id: 7003115
@@ -35,12 +36,12 @@ agoda_star_rating: 4
 latitude: -8.508825619969254
 longitude: 115.25057328414368
 lang: zh-cn
-_srcHash: f464256ecc32befbd6fb7c7d7f56d22a
+_srcHash: 64812695295bd6c47e3ea313131e9f25
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c62a1ab2c4b39417175e2de5c99ef7b0.jpg)
 
-[Melody x TPEMountain 尹行山林](https://www.youtube.com/@melodyxtpemountain)是一位YouTuber,她分享了她在巴厘岛住宿的体验。这次她预订了一家很特别的竹子旅馆 [Le Sabot Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115)。
+[Melody x TPEMountain 尹行山林](https://www.youtube.com/@melodyxtpemountain)是一位YouTuber,她分享了她在巴厘岛住宿的体验。这次她预订了一家很特别的竹子旅馆 [Le Sabot Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=47116230&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQUjQ0MDAwMjU1Mtc1SLS0SDU2sNQ1sTQxMrPUNTUyMzWysNTY-mD3tSfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYLEzdnAycovikmEPCXRTtZfslV_Sctk9ircrQDQnPOC4GAPfcmY-EAAAA&masterhotelid_tracelogid=100025527-0a98e309-494269-5265289&detailFilters=17|1~17~1*31|47116230~31~47116230*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=784&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/aGxipjNP)。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8fcbe4d9b0ce4a0759443d9a8fbe1762.png)
 

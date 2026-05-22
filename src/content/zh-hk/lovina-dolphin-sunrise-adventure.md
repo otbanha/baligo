@@ -13,10 +13,11 @@ tags:
   - 佩尼達島
   - bamboovilla
   - 水明漾住宿推薦
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3576b4757a6d3a5deaef795069cc866f.jpg'
 originalUrl: 'https://vocus.cc/article/6718dcb7fd897800013bcb4e'
 lang: zh-hk
-_srcHash: 49cf6ef9ea1b1ec76d413c65b40108ca
+_srcHash: 44446ed728791b58509f90180080d0de
 ---
 
 以下內容改編自團友 [Feilin Huang](https://www.facebook.com/share/p/15fgq7Bt9T/) 分享嘅遊記：
@@ -163,11 +164,11 @@ https://youtu.be/DSi7QvqOLTQ
 
 （Feilin Huang提供）
 
-🏠最後兩晚我哋住咗 [**Ziva a Boutique Villa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656)，呢間Villa真係好值得推薦。無論係泳池定係房間，都令我哋好滿意。泳池好大，俾咗我哋足夠嘅空間可以好好放鬆，特別係傍晚嘅時候，泳池邊嘅氣氛好舒服。而房間就係闊落乾淨，每個細節都好講究，令我哋喺旅途中依然可以享受到高品質嘅休息環境。唯一美中不足嘅係熱水供應有啲問題，冇辦法令浴缸完全注滿熱水，淋浴嘅熱水都唔係好穩定，但係呢啲小缺陷並冇影響到我哋對整體住宿體驗嘅好評，畢竟其他方面，Villa嘅表現都令我哋好滿意。
+🏠最後兩晚我哋住咗 [**Ziva a Boutique Villa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744561&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawMLFJMEk1cnCMX3BxzvMQoxGBlu4LbZnOWrG9B_6uqnLwRNEa3ROcAjgiZhy4Pk09sSbtpURKw4GOhQygIGGQxcjK1hmBuPGvVkbGW25ri8uqM102MHIdIJxt9oCphN_2xROsTBzbGG_xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsE3MTPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDrImVoYuVmeMU0yQguVttFyuHuYVZVECQruEF1t2aUvKGBgYGpobGpqa6BomWiabGyYa6JpYmRuYGuoYmZmYGGgc2Nl1_YmxkLQWJdgVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsRm5GLm7OUTZczJ4uQYIf9J5vb7e2tJdiDgl3USxd_XzJ997T9logOUOYXOCe1zkn7I0X2EfC5JNYqzJ0Q8IzjosVMDYwMnUxcgswejBGMFYAeYyrGBk2MDLuYPwPA4yvGEGmAwCMlo5l9QIAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-14660&detailFilters=17|1~17~1*31|1744561~31~1744561*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1080&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wcPbv4eK)，呢間Villa真係好值得推薦。無論係泳池定係房間，都令我哋好滿意。泳池好大，俾咗我哋足夠嘅空間可以好好放鬆，特別係傍晚嘅時候，泳池邊嘅氣氛好舒服。而房間就係闊落乾淨，每個細節都好講究，令我哋喺旅途中依然可以享受到高品質嘅休息環境。唯一美中不足嘅係熱水供應有啲問題，冇辦法令浴缸完全注滿熱水，淋浴嘅熱水都唔係好穩定，但係呢啲小缺陷並冇影響到我哋對整體住宿體驗嘅好評，畢竟其他方面，Villa嘅表現都令我哋好滿意。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7dad59174130e2068985c1770b74c176.jpg)
 
-[Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656)嘅詳細介紹收錄喺「[水明漾22間令人驚艷嘅峇里島祕密花園](/blog/seminyak-private-villas-guide/)」入面。想去水明漾享受villa度假嘅朋友唔好錯過啊！
+[Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744561&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawMLFJMEk1cnCMX3BxzvMQoxGBlu4LbZnOWrG9B_6uqnLwRNEa3ROcAjgiZhy4Pk09sSbtpURKw4GOhQygIGGQxcjK1hmBuPGvVkbGW25ri8uqM102MHIdIJxt9oCphN_2xROsTBzbGG_xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsE3MTPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDrImVoYuVmeMU0yQguVttFyuHuYVZVECQruEF1t2aUvKGBgYGpobGpqa6BomWiabGyYa6JpYmRuYGuoYmZmYGGgc2Nl1_YmxkLQWJdgVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsRm5GLm7OUTZczJ4uQYIf9J5vb7e2tJdiDgl3USxd_XzJ997T9logOUOYXOCe1zkn7I0X2EfC5JNYqzJ0Q8IzjosVMDYwMnUxcgswejBGMFYAeYyrGBk2MDLuYPwPA4yvGEGmAwCMlo5l9QIAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-14660&detailFilters=17|1~17~1*31|1744561~31~1744561*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1080&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wcPbv4eK)嘅詳細介紹收錄喺「[水明漾22間令人驚艷嘅峇里島祕密花園](/blog/seminyak-private-villas-guide/)」入面。想去水明漾享受villa度假嘅朋友唔好錯過啊！
 
 ***
 

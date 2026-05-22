@@ -25,12 +25,13 @@ tags:
   - Petitenget 飯店推薦
   - 峇里島蛋形浴缸飯店
   - 峇里島 Potato Head 附近住宿
+update: 2026/05/22
 heroImage: ''
 originalUrl: ''
 private: false
 embeds: []
 lang: zh-cn
-_srcHash: 290695380dc3b808f57efff9820bb27e
+_srcHash: f00ed5dde1974f41f115bb1ee03b889c
 ---
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775535786474-5d46ab2d758906f0d426180ffab41ee1.webp)
@@ -139,7 +140,7 @@ _srcHash: 290695380dc3b808f57efff9820bb27e
 
 > 评分：Trip.com 9.8/10 ⭐ | Tripadvisor 100% 好评 | Agoda 高度好评
 > 地址：Jl. Petitenget No.19X, 水明漾, 巴厘岛, 印度尼西亚
-> [房价 & 订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65962393)
+> [房价 & 订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65962393) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=126273579&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLRMNLM0NNE1sTQxMjfUNTQ0tzDWWLT9wo0nxkYGWoLxIZ6eLoYlhalmhaWWOUUFpqcYpQzNjS0MjQwNjYyMLI31TCzSzIot8ootcrMiPBiD2FzMXByNTKP4pJhDwl0US1c_X_K997R9EmtVhm5IeEavOADcu2e8ggAAAA&masterhotelid_tracelogid=100051355-0a9a6914-494271-11783&detailFilters=17|1~17~1*31|126273579~31~126273579*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=720&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/XmQqvj2f)
 
 本住宿由团友 [Gary哥不想上班](https://www.facebook.com/profile.php?id=61580124374634) 推荐, 部分照片为 Gary 亲自拍摄
 

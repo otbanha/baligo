@@ -5,6 +5,7 @@ description: >-
   2026 年是农历「火马年」，巴厘岛的农历新年（印尼称 Imlek）庆祝活动非常丰富，主要集中在 2 月 16 日（除夕）与 2 月 17
   日（大年初一），部分庆典甚至持续到 3 月初的元宵节。
 pubDate: '2026-02-04'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0bb33c4736f5468d4d0c2d55cbf90b43.jpg'
 tags:
   - 峇里島旅遊
@@ -16,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/698202dcfd89780001016bf7'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 991c918d7461337f8badc3a854f8e6f6
+_srcHash: 129b8bf5f2f16b04f922cc830b34f283
 ---
 以下为您整理的巴厘岛农历新年活动指南：
 
@@ -86,7 +87,7 @@ _srcHash: 991c918d7461337f8badc3a854f8e6f6
 
 **沙努尔**
 
-- [**The Meru Sanur**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294)：2月16日在roso餐厅举办“Warisan Pecinan”除夕晚餐（每人IDR 588,000++起）。2月17日在Arunika餐厅举办“Lunar Season”早午餐（每人IDR 688,000++起）。两场均含鱼生及舞狮表演。二月入住三晚以上可获IDR 600,000度假村消费额。
+- [**The Meru Sanur**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=116694051&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6ycTFJMEk9YiJ49P5XR9YhTjMjC0NLAwMjDQ28hks5bDoTHY8ewYIkqY7eM6aCQQisxwCeCKmHHg-jT3Rluv64oL9gQ5djKxggRmMi3dcMl_ByLiRMQ0E-lIddjAyHWBkOsF43mYB06nfE61OsTBzLGK7xLKbMbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsCwMjPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1sY9YmKJjX7Bs5PvEwvCLhaGJlaGLlZnjFNMkIHneZherYKCzp5mzh66ToVNQoLdulK7hBdYWByl5QwMDA1NDY1NTXYNEy0Rjo7RkXRNLEyMzM11zA1MDA411k6defGJsZC0FCU4FRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbCaurmZGrlE2XMyhwS6CyyuPa1oZSTtIMYeEuyh-WH7M27zztL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD7yrXvXiQ1dp-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAHS6woJVAgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494266-70500&detailFilters=17|1~17~1*31|116694051~31~116694051*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=946&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Pb1nQOIo)：2月16日在roso餐厅举办“Warisan Pecinan”除夕晚餐（每人IDR 588,000++起）。2月17日在Arunika餐厅举办“Lunar Season”早午餐（每人IDR 688,000++起）。两场均含鱼生及舞狮表演。二月入住三晚以上可获IDR 600,000度假村消费额。
 
 **乌布**
 

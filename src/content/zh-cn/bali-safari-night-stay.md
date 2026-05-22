@@ -5,6 +5,7 @@ description: >-
   探索巴厘岛野生动物园 Bali
   Safari，一个融合了自然奇观和野生动物魅力的独特胜地。这里提供丰富多样的野生动物观察体验，并致力于推动保育和教育工作。通过与动物近距离互动，您将深入了解动物保育的重要性，同时享受难忘的生态探险。计划您的巴厘岛之旅，体验这个引人入胜的动物园，探索大自然的美妙奥秘。
 pubDate: '2023-07-25'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f78439fe58c95db0f6c39e2b8b6862fd.jpg'
 tags:
   - 峇里島
@@ -17,7 +18,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: zh-cn
-_srcHash: 0e6392d46c843361923623743dc600b6
+_srcHash: 7ebb7de9ed0a5b969db8554985e585a8
 ---
 
 我在游泳，斑马陪我
@@ -151,7 +152,7 @@ _srcHash: 0e6392d46c843361923623743dc600b6
 
 针对非本国人，「Bali Safari」的票价实在不便宜，如果时间允许，不如考虑直接夜宿「Bali Safari」内的《Mara River Safari Lodge》**住宿加门票，会比单买门票，性价比高很多**《Mara River Safari Lodge》:
 
-▶[Agoda订房优惠](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155)
+▶[Agoda订房优惠](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685834&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_C8XvDnkesQoxGBlu4LbZnORqDwMdeB883gTvkWpsmOQTwREw58Hwae6It1_XFBfsDHQoZwEDLoYuRFSwzg7HrneYKRsaNjP2HvmrE-Oc47GBkOsDIdIKxUXsB0539ExROsTBzzOG4xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUyMzPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDuomVoYuVmeMU0yQg2ai9i5XD38MpMCxI1_ACa5uelLyhgYGBqaGxqamuQaKlhbGpibmuiaWJkZmZrrGJsYmpRsP-vReeGBtZS0EiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbpZujuYVjlA0Xs6dLkOAHvefb260t7aWYQ8JdFD8sP-Zt3nnaXgskZwiTC9zzOueEvfEC-0iYfBJrVYZuSHjGcbECxgZGpi5GbgFGD8YIxgogj3EVI8MGRsYdjP9hgPEVI8h0AAcWO6P7AgAA&masterhotelid_tracelogid=100051355-0a983547-494266-34345&detailFilters=17|1~17~1*31|685834~31~685834*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/PbKYpC56)
 
 ▶[丛林探险套票、夜间动物园套票在这里订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=846903&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170-bali-safari-and-marine-park-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcf3846e55e)
 

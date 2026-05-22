@@ -18,10 +18,11 @@ tags:
   - 峇里島換匯與網路建議
   - 峇里島雨天備案景點
   - 峇里島旅遊防蚊腸胃保健
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4516353105148f7d4ebee19a4bcbe6a4.jpg'
 originalUrl: 'https://vocus.cc/article/6970b673fd897800013623d5'
 lang: zh-cn
-_srcHash: 53ec3ee86f30328c6c5db62df5e80ed1
+_srcHash: 6659f52f43ecc56a21ec73f97359e19a
 ---
 
 > 以下内容改编自团友 [林恐龙](https://www.facebook.com/share/p/1DMYqVwzhq/) 分享游记：
@@ -203,7 +204,7 @@ ATV 我觉得老人和7岁以下不适合，太刺激怕会掉下来😄
 
 我们入住【2025 Agoda旅人鉴赏优胜】的库塔酒店 Amnaya Resort
 
-> [空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920599)
+> [空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920599) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2601658&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCsenWzttsQuyGpmYGhgZGBrdELZ63Mzoe_qoR05_U6OC5Q671deCWVocAnogpB55PY09sDvSc23Ao0KGLkRUsMINx19N5jCsYGTcyXl9cYMvlnuiwg5HpBOM8yQVMR_aftj_FwszRxHqJ5StTdLVSdmqlkpWJjlJJZklOqpKV0tNF85427Hm-olVJRykltTgZKARkJebml-aVANnGRoZ6BgZAkZLECs8UsM7kxJzk0pzEktSQygKgCWY6SpnFziVFmQVBqbmZJSWpQFVpiTnFqSDxoNRioEwyWFDJD2hMEVQgMz8Pot0QRSwsMac0FeIEoIVuqVA7DGt1MF3-bE7v0-6ZLzbtJs7l5tR2uQExLjeujX3EwhQd-4mF4RcLQxMrQxcrM8cppklAcp7kLlbu4GBnxwAP3XCzSNcLrC-kpZQNDQwMTA2NTU11DRItE5OMLI10TSxNjMwNdI0szIzNDcwMTTR-bn92_YmxkbUUJP4VGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsRk5ujqaWETZcDG7hgYJKlzKj2fvk3eQYg4Jd1EsXf18yffe0_ZazJ4uQYYf9J5vb7e2tA_c8zrnhL3xAvtImHwSa1WGbkh4xnGxAsYGRqYuRm4BRg_GCMYKII9xFSPDBkbGHYz_YYDxFSPIdABvKasZ_AIAAA&masterhotelid_tracelogid=100051355-0a9ab292-494270-286370614&detailFilters=17|1~17~1*31|2601658~31~2601658*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=817&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/txhUKkim)
 
 - **Villa Check-out 与 Bintang Supermarket：** 依依不舍地告别了住了多日的温馨Villa，我们前往当地大型连锁超市 **Bintang Supermarket** 进行最后一波采购。这里是购买咖啡、零食、酱料等伴手礼的好地方，货品齐全，价格透明。
 - **海神庙 (Tanah Lot)：** 前往库塔的路上，我们顺道造访了地标景点海神庙。虽然游客众多，但矗立于海中岩石上的寺庙依然气势磅礴。我们在退潮时走近，感受海浪拍打的震撼，并留下了经典的纪念照。
@@ -215,7 +216,7 @@ ATV 我觉得老人和7岁以下不适合，太刺激怕会掉下来😄
 - **Krisna Oleh Oleh Bali 纪念品店：** 这是一家大型的纪念品专卖店，从衣服、饰品、手工艺品到食品应有尽有。价格固定，虽少了砍价乐趣，但对于想一次性买齐所有纪念品、又不想比价的游客来说非常方便。
 - **入住 Amnaya Kuta Resort 与库塔海滩：** 下午入住库塔的 **Amnaya Kuta Resort**。酒店风格现代舒适，与乌布的Villa是两种风情。安顿后，我们步行至**库塔海滩**散步。看着冲浪者、享受日落的人群，感受着巴厘岛热闹活力的一面。
 
-▶Amnaya Kuta Resort [订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920599)
+▶Amnaya Kuta Resort [订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920599) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2601658&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCsenWzttsQuyGpmYGhgZGBrdELZ63Mzoe_qoR05_U6OC5Q671deCWVocAnogpB55PY09sDvSc23Ao0KGLkRUsMINx19N5jCsYGTcyXl9cYMvlnuiwg5HpBOM8yQVMR_aftj_FwszRxHqJ5StTdLVSdmqlkpWJjlJJZklOqpKV0tNF85427Hm-olVJRykltTgZKARkJebml-aVANnGRoZ6BgZAkZLECs8UsM7kxJzk0pzEktSQygKgCWY6SpnFziVFmQVBqbmZJSWpQFVpiTnFqSDxoNRioEwyWFDJD2hMEVQgMz8Pot0QRSwsMac0FeIEoIVuqVA7DGt1MF3-bE7v0-6ZLzbtJs7l5tR2uQExLjeujX3EwhQd-4mF4RcLQxMrQxcrM8cppklAcp7kLlbu4GBnxwAP3XCzSNcLrC-kpZQNDQwMTA2NTU11DRItE5OMLI10TSxNjMwNdI0szIzNDcwMTTR-bn92_YmxkbUUJP4VGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsRk5ujqaWETZcDG7hgYJKlzKj2fvk3eQYg4Jd1EsXf18yffe0_ZazJ4uQYYf9J5vb7e2tA_c8zrnhL3xAvtImHwSa1WGbkh4xnGxAsYGRqYuRm4BRg_GCMYKII9xFSPDBkbGHYz_YYDxFSPIdABvKasZ_AIAAA&masterhotelid_tracelogid=100051355-0a9ab292-494270-286370614&detailFilters=17|1~17~1*31|2601658~31~2601658*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=817&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/txhUKkim)
 
 - **Bamboo Bar & Grill：** 晚餐后，我们来到这家海滩旁的酒吧。点杯调酒，坐在舒适的座位上，现场乐团的演唱水准**超棒**，歌曲耳熟能详，气氛热络却不吵杂。吹着海风，听着音乐，彻底沉醉在巴厘岛的度假节奏里。
 - **午餐：Kurnia Seafood**

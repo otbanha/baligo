@@ -3,6 +3,7 @@ slug: bali-elderly-travel-guide-2
 title: 幫長輩安排嘅峇里島探險：追尋人間天堂之旅
 description: 安排長輩峇里島旅遊嘅精彩行程
 pubDate: '2024-05-01'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9c79a95d7c3f8a7b1a1dfa81111a00b4.jpg'
 tags:
   - 峇里島
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/6624e237fd8978000146c224'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: f8370a6f64b7e3ae2b6b6ad534ae337f
+_srcHash: 5efea4abcd7016794fef9174d157f4b8
 ---
 
 （以下圖文內容由團友[Chuang Ling Chun](https://www.facebook.com/groups/131689774044943/user/100002621353548/) 提供，並同意我哋重新編排)
@@ -108,7 +109,7 @@ Ani知道我阿媽鍾意影相，於是推薦咗個盪鞦韆嘅行程，每人US
 
 Oculus Bali
 
-▶[Oculus Bali訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34040413)
+▶[Oculus Bali訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34040413) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=99118073&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJY_GmK9PZhBgNLH4LOgbtkGt9fbTTwfObRkz_ods9DgE8EVMOPJ_GnnjTtjJixcFAh0IGENDod2hkXFJgy3Vdutehi5EVrGYG48_rC_U3Msq3vg7csS7CYQcj0wFGphOMpxQXMDVtX2B7ioWZ4zTzJZbdjNHVStmplUpWJjpKJZklOalKVkpPF8172rDn-YpWJR2llNTiZKAQkJWYm1-aVwJkm5ha6hkYAEVKEis8U8A6kxNzkktzEktSQyoLgCaY6ShlFjuXFGUWBKXmZpaUpAJVpSXmFKeCxINSi4EyyWBBJT-gMUVQgcz8PIh2QxSxsMSc0lSIE4AWuqVC7TCsjX3EwhQd-4mF4RfQM9NUmlgZuliZOU4xTQKRirtY2YLMzd2jQi-wrvKQkjE0MDAwNTQ2NdU1SLRMNLM0NNE1sTQxMjfQtTTVeL7kxrUnxkbWUpDAU2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xShlaG5sYWhkaGhkZGRprGdikWZWbJFXbJGbFeHBGMRmYWZhbGIcZcPF7OkSJPhB7_n2dmtLeynmkHAXRXvZfskVPafttUByhjC5wD2vc07YGy-wjzze8Obru_7T9kmsVRm6IeEZx8UKGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDTAX33V9FCAgAA&masterhotelid_tracelogid=100051355-0a9a6914-494270-95&detailFilters=17|1~17~1*31|99118073~31~99118073*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=320&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/9ZzGv9ZJ)
 
 ## 第四日：探索水神廟及Jatiluwih梯田
 

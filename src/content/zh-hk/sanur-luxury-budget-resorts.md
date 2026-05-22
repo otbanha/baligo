@@ -33,10 +33,11 @@ tags:
   - Sanur boutique hotel list
   - Where to stay in Sanur
   - Sanur port nearby hotels
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1dc5937d167ac366de84aa8ea3cc0baa.jpg'
 originalUrl: 'https://vocus.cc/article/66c3e440fd897800014425a8'
 lang: zh-hk
-_srcHash: 78abfad64287132529882c091b1a6ed6
+_srcHash: 157ee76a7947640ee83be37635c28061
 ---
 大多數沙努爾酒店位於熱鬧嘅市中心附近或者沙努爾長達8公里嘅美麗海灘上。安靜、悠閒嘅小鎮、實惠嘅酒店價格以及優秀嘅海灘令沙努爾成為峇里島上最適合家庭同經濟型旅行者嘅住宿選擇之一。
 
@@ -244,7 +245,7 @@ __VID21__
 
 **評價｜**來自各國旅客嘅一致好評印證咗酒店嘅卓越品質，特別稱讚員工嘅溫暖服務與專業態度，無論係提前入住需求定係特別紀念日驚喜，都可以感受到無微不至嘅關懷。結合絕佳地理位置、完善親子設施與實惠價格，Bali Beach Hotel已成為沙努爾地區最受推薦嘅五星級度假選擇，值得一再回訪。
 
-> **➡️** [**Bali Beach Hotel 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081483)
+> **➡️** [**Bali Beach Hotel 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081483) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=117013383&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6z8TFJMEk9YOJY-LRY19ZhTgtLEwMzYzMDYw0NvIZrGC0WCrkWGjLdX1xR6eD5zeNmP5D03scAngiphx4Po098aZtZcSKg4EOhQxgYOrQyLikAKha2cihi5EVrGYGY_v3p-YrGBk3MmoCdX-tiHDYwch0gJHpBONixQVM7_5MtDrFwsxxnPkSy27G6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbJNTE31DAyAIiWJFZ4pYJ3JiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLshilhYYk5pKsQJQAvdUqF2GNbGPmJhio59wbKR7xMLwy8WJo64JlaGLlZmjlNMk4DkYsVdrIKBvqEGUcG6Jh4mfpaGulG6hhdY72hJyRsaGBiYGhqbmuoaJFomWphZJOuaWJoAo0DX0NDCyFJj_u-f154YG1lLQQJUgVFLMD7E09PFsKQw1ayw1DKnqMDUgPEUo5ShubGFoZGhoZGRkaWxnolFmlmxRV6xRW5WhAdjEJubobmlhUGUDRdzaLCLoPcJdtvZptIOUswh4S6K9rL9kit6TttrMXu6BBl-0Hu-vd3a0j5wz-ucE_bGC-wjjze8-fqu_7R9EmtVhm5IeMZxsQLGBkamLkZuAUYPxgjGCiCPcRUjOxezgZGhANMGRsYdjP9hgPEVI8gSAHgonrdrAgAA&masterhotelid_tracelogid=100051355-0a9a868c-494270-11829&detailFilters=17|1~17~1*31|117013383~31~117013383*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1024&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Cu5xtQTl)
 >
 > ### 沙努爾最美五星療癒度假村 — The Meru Sanur
 >
@@ -273,7 +274,7 @@ __VID21__
 ▶[呢度](/blog/the-meru-sanur/)有進一步介紹
 
 > 評分：Tripadvisor 高度推薦 | Agoda 住客評分 ⭐ 9.1（2025 旅人鑑賞優勝）
-> [點我在 Agoda 查看 The Meru Sanur 最新房價與空房 →](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294)
+> [點我在 Agoda 查看 The Meru Sanur 最新房價與空房 →](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=116694051&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6ycTFJMEk9YiJ49P5XR9YhTjMjC0NLAwMjDQ28hks5bDoTHY8ewYIkqY7eM6aCQQisxwCeCKmHHg-jT3Rluv64oL9gQ5djKxggRmMi3dcMl_ByLiRMQ0E-lIddjAyHWBkOsF43mYB06nfE61OsTBzLGK7xLKbMbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsCwMjPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1sY9YmKJjX7Bs5PvEwvCLhaGJlaGLlZnjFNMkIHneZherYKCzp5mzh66ToVNQoLdulK7hBdYWByl5QwMDA1NDY1NTXYNEy0Rjo7RkXRNLEyMzM11zA1MDA411k6defGJsZC0FCU4FRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbCaurmZGrlE2XMyhwS6CyyuPa1oZSTtIMYeEuyh-WH7M27zztL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD7yrXvXiQ1dp-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAHS6woJVAgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494266-70500&detailFilters=17|1~17~1*31|116694051~31~116694051*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=946&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Pb1nQOIo)
 
 **唔好錯過呢啲沙努爾優惠：**
 
@@ -317,7 +318,7 @@ __VID21__
 
 **評價**｜位置好方便。房間好大，四人房有雙浴室同小客廳，住落好舒服。
 
-> ➡️ [**Maison Aurelia Sanur 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1294268)
+> ➡️ [**Maison Aurelia Sanur 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1294268) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6024011&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaysLFJMEk1cfC0Xp9lqgQo4HFb0FHBhAoKXXwnDUTCEKrHAJ4IqYceD6NPfHFvcOqx0vdHQrBSg6EODQyGoPA5ECHLkZWsJoZjKevvWfayJgGAm3BDjsYmU4wLudfwNR65T3TKRZmjldMl1i-MkVXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWhhqGdgABQpSazwTAHrTE7MSS7NSSxJDaksAJpgpqOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFlfyAxhRBBTLz8yDaDVHEwhJzSlMhTgBa6JYKtcOwVgfT5c_m9D7tnvli027iXG5ObZcbEONy49rYRyxM0bGfWBh-AaOhkbmJlaGLlZnjFuMkILmcfxcra6C7d7jTBdYmESl5QwMDA1NDY1NTXYNEy0QLM4tkXRNLEyNzA11DMzNTU41v_Z3XnxgbWUtBYl2BUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4WZo6Gja5QNF7OnS5DgB73n29utLe2lmEPCXRRLVz9f8r33tL0WSM4QJhe453XOCXvjBfaRMPkk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkaGDYyMOxj_wwDjK0aQ6QCpFEtY-gIAAA&masterhotelid_tracelogid=100051355-0a9a868c-494270-16655&detailFilters=17|1~17~1*31|6024011~31~6024011*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=130&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/XNwjIsZ7)
 
 ### Akaya Bali – 適合長期住宿嘅沙努爾住宿選擇
 

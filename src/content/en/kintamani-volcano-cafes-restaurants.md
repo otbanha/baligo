@@ -8,6 +8,7 @@ description: >-
   spot for enjoying coffee and unwinding! Below, we’ve curated 12 must-visit
   scenic cafes, each with its unique charm and offerings.
 pubDate: '2024-11-27'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_47dda1456eac0cee00ee2358d936939d.jpg'
 tags:
   - 金塔瑪尼咖啡
@@ -19,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/67467629fd897800018d71d1'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 376b17944eb8121b71f140cf38fbc832
+_srcHash: 2c5733f6e12cf4390b7f2b36e64ab5d2
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ab1c8d7414065034efc9da1640b4bd60.jpg)
@@ -204,7 +205,7 @@ Oculus Bali offers a unique visual and culinary experience in Kintamani, so it's
 
 ▶[Klook Deal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=956073&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F96063-oculus-kintamani-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5482f92d23)
 
-▶[Stay at Oculus Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34040413)
+▶[Stay at Oculus Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34040413) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=99118073&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJY_GmK9PZhBgNLH4LOgbtkGt9fbTTwfObRkz_ods9DgE8EVMOPJ_GnnjTtjJixcFAh0IGENDod2hkXFJgy3Vdutehi5EVrGYG48_rC_U3Msq3vg7csS7CYQcj0wFGphOMpxQXMDVtX2B7ioWZ4zTzJZbdjNHVStmplUpWJjpKJZklOalKVkpPF8172rDn-YpWJR2llNTiZKAQkJWYm1-aVwJkm5ha6hkYAEVKEis8U8A6kxNzkktzEktSQyoLgCaY6ShlFjuXFGUWBKXmZpaUpAJVpSXmFKeCxINSi4EyyWBBJT-gMUVQgcz8PIh2QxSxsMSc0lSIE4AWuqVC7TCsjX3EwhQd-4mF4RfQM9NUmlgZuliZOU4xTQKRirtY2YLMzd2jQi-wrvKQkjE0MDAwNTQ2NdU1SLRMNLM0NNE1sTQxMjfQtTTVeL7kxrUnxkbWUpDAU2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xShlaG5sYWhkaGhkZGRprGdikWZWbJFXbJGbFeHBGMRmYWZhbGIcZcPF7OkSJPhB7_n2dmtLeynmkHAXRXvZfskVPafttUByhjC5wD2vc07YGy-wjzze8Obru_7T9kmsVRm6IeEZx8UKGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDTAX33V9FCAgAA&masterhotelid_tracelogid=100051355-0a9a6914-494270-95&detailFilters=17|1~17~1*31|99118073~31~99118073*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=320&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/9ZzGv9ZJ)
 
 ---
 

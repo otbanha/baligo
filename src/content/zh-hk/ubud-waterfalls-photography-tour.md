@@ -5,6 +5,7 @@ description: >-
   嚟到峇里島度假，我同我嘅旅伴希望可以留下更多美好嘅回憶。喺眾多旅遊選擇中，我哋決定預訂一個特別嘅行程 -
   「峇里島專業攝影師隨行一日遊」。呢個套餐唔單止提供景點導覽，更重要嘅係有專業攝影師全程跟拍，用相機同空拍機為我哋記錄每個珍貴時刻。對於想影到靚相但又唔想錯過親身體驗嘅我哋嚟講，咁樣嘅安排真係完美到極！
 pubDate: '2025-05-23'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_83a7108ec8053f9e5e8e3f058ce1ffbf.jpg'
 tags:
   - 峇里島攝影
@@ -16,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/682f01fafd89780001c5425b'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 3d0fe34e880843f395127d2387442d3a
+_srcHash: a4b9b9f6b35f8a96ddb33cd68d27d9f5
 ---
 喺峇里島嘅前幾日，我哋入住咗「峇里島喜來登庫塔渡假村」（Sheraton Bali Kuta Resort），呢個地點真係太完美喇！落樓隔離就係超好行嘅Beachwalk Shopping Center，各種品牌店舖同餐廳應有盡有，等我哋行到唔捨得走。更正嘅係，由酒店過條馬路就可以即刻到達庫塔海灘，我哋每日都喺度學滑浪，感受印度洋浪花嘅刺激。傍晚時分就由濱海嘅泳池欣賞到絕美嘅夕陽。入夜後喺熱鬧嘅街道上漫步，品嚐各式各樣嘅當地美食同國際料理。庫塔嘅夜生活等我哋體驗到峇里島年輕、充滿活力嘅一面。
 
@@ -24,7 +25,7 @@ _srcHash: 3d0fe34e880843f395127d2387442d3a
 
 ## 出發前嘅準備
 
-▶[**Sheraton Bali Kuta Resort 訂房連結**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502)
+▶[**Sheraton Bali Kuta Resort 訂房連結**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987824&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zszFJMEk9YGZY-mso0_ZhBiNDDgtPgk6nj0DBEZtDp5c1xcX2N7pcgjgaWS0BXFqXR1mMG5YarOCkXEj4zeNmP5DS5McdjAynWCcJb-A6ezKV8ynWJg5trJeYvnKFF2tlJ1aqWRloqNUklmSk6pkpfR00bynDXuer2hV0lFKSS1OBgoBWYm5-aV5JUC2sbGBnoEBUKQkscIzBawzOTEnuTQnsSQ1pLIAaIKZjlJmsXNJUWZBUGpuZklJKlBVWmJOcSpIPCi1GCiTDBZU8gMaUwQVyMzPg2g3QBELS8wpTYU4AWihWyrUDsNaHUyXP5vT-7R75otNu3G43MwYxeXmA-Jy49rYRyxM0bGfWBh-sTA0sTJ0sTJMYmXmmCW_i5UnxNTfzdlX11A3StdQSt7QwMDA1NDY1FTXINHSwtgo0UjXxNLEyMxM19TCzNhUY9nO7xeeGBtZS7FOOfB8GrsCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNjMLcxMDiygbLmZPlyDBD3rPt7dbW9pLMYeEuyh-WH7M27zztL0WSM4QJhe453XOCXvjBfaRMPkk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUAY6Xp_uMCAAA&masterhotelid_tracelogid=100051355-0a9832a2-494266-58635&detailFilters=17|1~17~1*31|987824~31~987824*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=225&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/q7Xyh0DQ)
 
 喺出發前一日，我哋收到攝影師兼導遊Udin透過WhatsApp發嚟嘅確認訊息，詳細講咗接送時間同地點。由於今次選擇咗峇里島專業攝影師隨行一日遊，行程包括相機同空拍機拍攝服務，等我哋對即將到嚟嘅旅程充滿期待。
 

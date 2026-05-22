@@ -26,13 +26,14 @@ tags:
   - 水明漾 CP 值住宿 2026
   - 峇里島美食地圖住宿建議
   - 水明漾步行可達餐廳住宿
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/images/2026-05/1778943621649-8_stay_eat_street.png'
 originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 1d858aa5ed00693c7f87395a004da57e
+_srcHash: 9a70d7055806c91765ed88e479e70423
 ---
 
 When heading to Bali, many immediately think of Seminyak—but honestly, **Seminyak is the trickiest place to choose**.
@@ -202,7 +203,7 @@ Seminyak isn't short on accommodations, but finding **the one that's perfect for
 
 # The One That Got Away
 
-One well-known Hotel & Villa in the heart of Seminyak didn't make it into our selection of places where 'stepping out puts you right on Eat Street.' This place, [Amadea Resort & Villas Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=263687), is marked on the map as being on Eat Street (Jl. Kayu Aya), but in reality, their hotel area is over 200 meters away from the actual Eat Street.
+One well-known Hotel & Villa in the heart of Seminyak didn't make it into our selection of places where 'stepping out puts you right on Eat Street.' This place, [Amadea Resort & Villas Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=263687) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981554&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6x8TFJMEkdZ2J49mluXOYhJgNDYw07rMZPGC02CrveH1xgS1Xf7GD5xIgfT29wiGAJ2LKgefT2BM1Epe9jd_r6tDFyAoWmMG46Yv1CkbGjYzGIJAc7LCDkekAI9MJxpl8C5jOnH_FeIqFmeMF0yWWXYzR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBubGegZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmGOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQZC5RVB-Zn4eRLcBilhYYk5pKkQl0D63VKgVhrWxj1iYomNfsNxn-8TC8IuFoYmVoYuVmeMU4yQgOZNvFyuvb0hoQGigrmGIbpSu4QXWV_xSioYGBgZGpqZG5roGiZYWqZbGRromliZGZua6RkYmJkaWhhqLX82_9MTYyFoKEpQKjFqC8SGeni6GJYWpZoWlljlFBaYGjKcYpQzNjS0MjQwNjYyMLI31TCzSzIot8ootcrMiPBiD2IwszZxNTKJsuJhDg10E9f4r_v1mKu0gxRwS7qI4OejCW9Xe0_ZaIDlDmFzgntc5J-yNF9hH2sv2S67oOW2fxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEAMUgEbtMAgAA&masterhotelid_tracelogid=100025527-0a98e932-494267-2244291&detailFilters=17|1~17~1*31|981554~31~981554*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1022&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/7BTCdKFz), is marked on the map as being on Eat Street (Jl. Kayu Aya), but in reality, their hotel area is over 200 meters away from the actual Eat Street.
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1778083135838-8efa40bf66fd7171bcb7ff3c20134382.jpeg)
 

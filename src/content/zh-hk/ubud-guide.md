@@ -10,10 +10,11 @@ tags:
   - 峇里島旅遊指南
   - 峇里島行程規劃
   - 烏布必去景點
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_db3c87545bde9498b75bb00b481160f8.jpg'
 originalUrl: 'https://vocus.cc/article/655054b1fd897800011d4d2c'
 lang: zh-hk
-_srcHash: 41a1f8fe127626cf2c7dd2573cf2dd86
+_srcHash: 32a6463cbaa8ae8c7b2e5eadfac2bc83
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1db3c090bfa0c09861d4c097ba169051.jpg)
@@ -239,7 +240,7 @@ Bali Safari動物園係一趟令人驚奇嘅野生冒險之旅。園區匯聚咗
 
 Bali Safari動物園提供冒險野生遊覽車，帶你穿越動物們嘅家園，讓你感受仿若置身野外嘅刺激與震撼。除咗動物觀賞，園區仲舉辦豐富嘅動物表演，為你帶來一場歡樂與自然嘅交融之旅。請睇[呢度我哋有詳細嘅介紹](/blog/bali-safari-night-stay/)
 
-> [住喺動物園裏面](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155)
+> [住喺動物園裏面](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=109155) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685834&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_C8XvDnkesQoxGBlu4LbZnORqDwMdeB883gTvkWpsmOQTwREw58Hwae6It1_XFBfsDHQoZwEDLoYuRFSwzg7HrneYKRsaNjP2HvmrE-Oc47GBkOsDIdIKxUXsB0539ExROsTBzzOG4xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUyMzPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDuomVoYuVmeMU0yQg2ai9i5XD38MpMCxI1_ACa5uelLyhgYGBqaGxqamuQaKlhbGpibmuiaWJkZmZrrGJsYmpRsP-vReeGBtZS0EiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbpZujuYVjlA0Xs6dLkOAHvefb260t7aWYQ8JdFD8sP-Zt3nnaXgskZwiTC9zzOueEvfEC-0iYfBJrVYZuSHjGcbECxgZGpi5GbgFGD8YIxgogj3EVI8MGRsYdjP9hgPEVI8h0AAcWO6P7AgAA&masterhotelid_tracelogid=100051355-0a983547-494266-34345&detailFilters=17|1~17~1*31|685834~31~685834*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/PbKYpC56)
 
 ### Marine Safari Bali 峇里島海洋野生動物園（👉🏼地圖：[烏布周邊熱門景點](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）
 

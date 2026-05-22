@@ -4,6 +4,7 @@ title: 峇里島六日自由行Nusa Penida跳島攻略
 description: >-
   呢個係我哋社團網友「Sophie」喺峇里島度過嘅六日精彩自由行程！有好多參考咗「小傑印尼」嘅影片同我哋「峇里島旅遊攻略」嘅精彩攻略嘅組合。等我哋一齊睇下呢段佢自己安排嘅充滿冒險同探索嘅旅程啦！
 pubDate: '2024-01-28'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2eb0a8dae04d24a5cfc262605f45386b.jpg'
 tags:
   - 自由行
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/65b51f59fd89780001e498d4'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 109bafa8dd92c0c3f6fc9d999a52dbfc
+_srcHash: b49d11d5d471bb85302ba468040d7c0f
 ---
 
 呢個係我哋社團網友「[Sophie](https://www.facebook.com/soficia.chen)」喺峇里島度過嘅六日精彩自由行程！有好多參考咗「[小傑印尼](https://www.youtube.com/@j_indonesia)」嘅影片同我哋「峇里島旅遊攻略」嘅精彩攻略嘅組合。等我哋一齊睇下呢段佢自己安排嘅充滿冒險同探索嘅旅程啦！
@@ -140,7 +141,7 @@ Diamond Beach 圖：Sophie提供
 
 ## 1/23第六日：金巴蘭同告別峇里島
 
-- **07:00**：喺金巴蘭酒店 [Fox Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957) 頂樓泳池放鬆，享受美好嘅早晨。
+- **07:00**：喺金巴蘭酒店 [Fox Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6371074&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6y8zFJMEk9YyZ4_KR3XfYhBiNDM6yWayOcDQGAecUB88dcq2vA3dkOATwzGBsetfCvIKRcSOjyDr3h1VXHB12MDKdYJzOvoDp5Jld_KdYmDmWMV5i-cwUXa2UnVqpZGWio1SSWZKTqmSl9HTRvKcNe56vaFXSUUpJLU4GCgFZibn5pXklQLaFsZ6BAVCgJLHCMwWsMTkxJ7k0J7EkNaSyAGiAmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FuABooVsq1A7DWh1Mhz-b0_u0e-aLTbuJcrg5tR1uQIzDjWtjH7EwRcd-YmH4xcLQxMrQxcowiZWZYzr7Llae4BAjX-8gXUPdKF1DKXlDAwMDU0NjU1Ndg0TLRFPjZENdE0sTI3NDXSMTUyMzja3dH288MTaylmKdcuD5NHYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbJbGrs7GjlE2XMyhwS6C6VefZ2mbSTtIMYeEuyhODrrwVrX3tL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEWQIAYN9JO9kCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-24526&detailFilters=17|1~17~1*31|6371074~31~6371074*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) 頂樓泳池放鬆，享受美好嘅早晨。
 - **12:00**：去Wahaha享受美味嘅豬肋骨。
 
 Wahaha食過嘅都話正！

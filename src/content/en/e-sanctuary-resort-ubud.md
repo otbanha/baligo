@@ -23,6 +23,7 @@ tags:
   - '#峇里島烏布新開幕渡假村'
   - '#烏布新villa'
   - '#峇里島旅遊攻略'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_01efd41be16d7f7e32aac6196d28d706.jpg'
 originalUrl: 'https://vocus.cc/article/68540320fd8978000126a919'
 agoda_hotel_id: 63295924
@@ -31,7 +32,7 @@ agoda_star_rating: 5
 latitude: -8.540929794311523
 longitude: 115.23595428466797
 lang: en
-_srcHash: a3bd89e5a0f6807442258d947d875289
+_srcHash: 094b79e3f17218c5b10ab581c76b3033
 ---
 In 2024, E Sanctuary Resort Ubud quietly debuted in Ubud, Bali. This new five-star resort is conveniently located just 5.8 km from the lively center of Ubud, providing a serene escape where travelers can fully immerse themselves in the tranquil ambiance of the tropical rainforest. Featuring only 7 meticulously crafted rooms, this boutique resort combines modern simplicity with traditional Balinese design, offering a haven for complete relaxation.
 
@@ -85,7 +86,7 @@ The resort's seven **Grand Pool Villas**, each spanning **250 square meters**, b
 
 ✨ **Surprise Highlight: During the off-season, you can stay in this luxurious pool villa for as low as $152 per night**, **including daily breakfast**, offering exceptional value. This is a major draw for travelers seeking a high-quality holiday in Ubud while staying budget-conscious.
 
-▶[**E Sanctuary Resort Room Rates & Availability**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=63295924)
+▶[**E Sanctuary Resort Room Rates & Availability**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=63295924) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=124407173&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6zMTFJMEkdYeJo71veQObEKOBxW9BR1uu64sLpk918AQzJGY4BPBETDnwfBp74k3byogVBwMdChlA4ECrQyPjOveHVSJVrQ5djKxgNTMYW2evtF7ByLiREayII8VhByPTAUamE4x9FguYnk7cb32KhZnjJesllt2M0dVK2amVSlYmOkolmSU5qUpWSk8XzXvasOf5ilYlHaWU1OJkoBCQlZibX5pXAmSbm5jqGRgARUoSKzxTwDqTE3OSS3MSS1JDKguAJpjpKGUWO5cUZRYEpeZmlpSkAlWlJeYUp4LEg1KLgTLJYEElP6AxRVCBzPw8iHZDFLGwxJzSVIgTgBa6pULtMKyNfcTCFB37iYXhF9Az0ySbWBm6WJk5TjFNApJ9FrtY2QIdvYNMAy6wvguWkjc0MDAwNTQ2NdU1SLRMtDCzSNY1sTQxMrPUBXrH3EjjwZ2T154YG1lLQYJQgVFLMD7E09PFsKQw1ayw1DKnqMDUgPEUo5ShubGFoZGhoZGRkaWxnolFmlmxRV6xRW5WhAdjEJurqZGhm1mUDRezp0uQ4Ae959vbrS3tpZhDwl0U7WX7JVf0nLbXAskZwuQC97zOOWFvvMA-8njDm6_v-k_bJ7FWZeiGhGccFytgbGBk6mLkFmD0YIxgrADyGFcxMmxgZNzB-B8GGF8xgkwHANL7dHRIAgAA&masterhotelid_tracelogid=100051355-0a9a868c-494269-74572&detailFilters=17|1~17~1*31|124407173~31~124407173*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=250&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/b3jQjq6z)
 
 ***
 
@@ -127,7 +128,7 @@ These eclectic art shops and workshops not only showcase Ubud's artistic vibe bu
 
 While E Sanctuary Resort's room rates aren't exorbitant, the service, facilities, and overall ambiance offer exceptional value for money.
 
-> ▶[**E Sanctuary Resort Rates & Availability**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=63295924)
+> ▶[**E Sanctuary Resort Rates & Availability**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=63295924) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=124407173&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6zMTFJMEkdYeJo71veQObEKOBxW9BR1uu64sLpk918AQzJGY4BPBETDnwfBp74k3byogVBwMdChlA4ECrQyPjOveHVSJVrQ5djKxgNTMYW2evtF7ByLiREayII8VhByPTAUamE4x9FguYnk7cb32KhZnjJesllt2M0dVK2amVSlYmOkolmSU5qUpWSk8XzXvasOf5ilYlHaWU1OJkoBCQlZibX5pXAmSbm5jqGRgARUoSKzxTwDqTE3OSS3MSS1JDKguAJpjpKGUWO5cUZRYEpeZmlpSkAlWlJeYUp4LEg1KLgTLJYEElP6AxRVCBzPw8iHZDFLGwxJzSVIgTgBa6pULtMKyNfcTCFB37iYXhF9Az0ySbWBm6WJk5TjFNApJ9FrtY2QIdvYNMAy6wvguWkjc0MDAwNTQ2NdU1SLRMtDCzSNY1sTQxMrPUBXrH3EjjwZ2T154YG1lLQYJQgVFLMD7E09PFsKQw1ayw1DKnqMDUgPEUo5ShubGFoZGhoZGRkaWxnolFmlmxRV6xRW5WhAdjEJurqZGhm1mUDRezp0uQ4Ae959vbrS3tpZhDwl0U7WX7JVf0nLbXAskZwuQC97zOOWFvvMA-8njDm6_v-k_bJ7FWZeiGhGccFytgbGBk6mLkFmD0YIxgrADyGFcxMmxgZNzB-B8GGF8xgkwHANL7dHRIAgAA&masterhotelid_tracelogid=100051355-0a9a868c-494269-74572&detailFilters=17|1~17~1*31|124407173~31~124407173*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=250&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/b3jQjq6z)
 
 ***
 

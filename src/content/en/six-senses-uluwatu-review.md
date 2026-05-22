@@ -33,10 +33,11 @@ tags:
   - Uluwatu private pool boutique stay
   - Six Senses Bali oceanfront boutique
   - Luxury eco friendly boutique Uluwatu
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_91532107705be575f99c7a8160f0d02c.jpg'
 originalUrl: 'https://vocus.cc/article/679ccd73fd897800016e1e52'
 lang: en
-_srcHash: 86b73772965b44797f8daa2fc56891a0
+_srcHash: 6393f72ed2e8b4327dc8e4f5db24b4ed
 ---
 
 > Original review provided by [Xiao Yaxin](https://www.facebook.com/share/p/1A5kJ9Micj/), a frequent contributor to our Facebook group.
@@ -151,7 +152,7 @@ Finally, there's a delightful little detail that brings a smile to your face—*
 
 Six Senses Uluwatu is a flawless resort destination. From the breathtaking natural scenery to the thoughtful service, every detail brings surprise and satisfaction. The only regret is that **one night is far too short**! If you have the chance to visit Bali, don't miss this cliffside paradise—it will undoubtedly leave you longing to return!
 
-[**▶Six Senses Uluwatu Booking Link**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5643355)
+[**▶Six Senses Uluwatu Booking Link**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5643355) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=21888559&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6x8zFJMEk9ZyZ43Lfqq-sQowGFr8FHY1BgG-3g-esmTNnRsYdcAjgmcG4_s92ro2MDCCwa5rDDkamA4xMJxjnbGBawHSrabLlKRZmjmcml1i-M0VXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWxkaKFnYAAUKkms8EwBa01OzEkuzUksSQ2pLAAaYaajlFnsXFKUWRCUmptZUpIKVJWWmFOcChIPSi0GyiSDBZX8gMYUQQUy8_Mg2g1QxMISc0pTIW4AWuiWCrXDsFYH0-nP5vQ-7Z75YtNuHE43NTFAcbr5gDjduDb2EQtTdOwnFoZfLAxNrAxdrAyTWFk4gNGzi5Ur0DfKyCdA10PXUErB0MDAwMjU1Mhc1yDRMtHIJNVA18TSxMjcUNfY0tTQwFjj_PJDN54YG1lLsU458HwauwKjlmB8iKeni2FJYapZYallTlGBqQHjKUYpQ3NjC0MjQ0MjIyNLYz0TizSzYou8YovcrAgPxiA2QzdzF3OLKBsuZk-XIMEPes-3t1tb2ksxh4S7KJaufr7ke-9pey2QnCFMLnDP65wT9sYL7CNPPdCoLO07bZ_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhJg2sDIuIPxPwwwvmIEWQIABmcIfNsCAAA&masterhotelid_tracelogid=100025527-0a9a24e0-494271-395103&detailFilters=17|1~17~1*31|21888559~31~21888559*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687)
 
 {{block:uluwatu}}
 

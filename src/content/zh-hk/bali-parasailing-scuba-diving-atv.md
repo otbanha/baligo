@@ -3,6 +3,7 @@ slug: bali-parasailing-scuba-diving-atv
 title: 峇里島上天下海：拖曳傘、海底漫步、泛舟、ATV...自由行行程與實用小貼士
 description: 六月下旬啱啱結束咗一趟輕鬆愉快嘅峇里島自由行之旅，喺度同大家分享下我哋嘅行程同埋玩樂心得
 pubDate: '2024-07-26'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_33deeaf280484ab1f7286957430f969e.jpg'
 tags:
   - 峇里島
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/668a76fdfd8978000194582a'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: a0500f9c2040a86bdf17e387697f09fb
+_srcHash: fd39367683c39d8b3435a02f8b0b9e7f
 ---
 
 > 以下內容由團友 [余孟苓](https://www.facebook.com/share/p/uzQHvjWncynX693F/?mibextid=A7sQZp) 提供
@@ -65,9 +66,9 @@ _srcHash: a0500f9c2040a86bdf17e387697f09fb
 
 過條馬路就到庫塔海灘，附近有熱鬧嘅夜生活。雖然呢度唔係最新嘅酒店，但佢嘅房間闊落又乾淨，設施亦都好齊全。工作人員友善熱情，令人有賓至如歸嘅感覺。尤其係海鮮晚餐同樂隊嘅現場表演，非常精彩，令我哋過咗幾個愉快嘅夜晚。我哋喺呢度嘅住宿體驗好美好，性價比超高！
 
-**Grand Istana Rama Hotel:** [**Agoda訂房**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512)
+**Grand Istana Rama Hotel:** [**Agoda訂房**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685197&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F4-ykhc_YhBgNNO6zWfwWdDQGgeQ8B883gTvkWpmLHQJ4IqYceD6NPZE35Nj-8wyODoUMIJBQ6NDImAYCZbkOXYysYDUzGHtfam5k7D_0VSOm389hByPTCcYO7gVMrxbNZjrFwswxh-kSy1em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbINTYz0DAyAIiWJFZ4pYJ3JiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLshilhYYk5pKsQJQAvdUqF2GNbqYLr82Zzep90zX2zaTZzLzantcgNiXG5cG_uIhSk69gXLfbZPLAy_gFHRydXEytDFyswxj3ESkOzg3sXKFuIa5W5ieoG1Q1xKwdDAwMDI1NTIXNcg0TLRyCTVQNfE0sTI3EDXwsAAyNA4e-3LtSfGRtZSkKhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZmaeFqZhJlw8Xs6RIk-EHv-fZ2a0t7KeaQcBdFe9l-yRU9p-21QHKGMLnAPa9zTtgbL7CPPN7w5uu7_tP2SaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMBGJ7oZwMDAAA&masterhotelid_tracelogid=100025527-0a9a24e0-494270-800942&detailFilters=17|1~17~1*31|685197~31~685197*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1596&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q1KxlNcJ)
 
-[**Agoda訂房**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512)
+[**Agoda訂房**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685197&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F4-ykhc_YhBgNNO6zWfwWdDQGgeQ8B883gTvkWpmLHQJ4IqYceD6NPZE35Nj-8wyODoUMIJBQ6NDImAYCZbkOXYysYDUzGHtfam5k7D_0VSOm389hByPTCcYO7gVMrxbNZjrFwswxh-kSy1em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbINTYz0DAyAIiWJFZ4pYJ3JiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLshilhYYk5pKsQJQAvdUqF2GNbqYLr82Zzep90zX2zaTZzLzantcgNiXG5cG_uIhSk69gXLfbZPLAy_gFHRydXEytDFyswxj3ESkOzg3sXKFuIa5W5ieoG1Q1xKwdDAwMDI1NTIXNcg0TLRyCTVQNfE0sTI3EDXwsAAyNA4e-3LtSfGRtZSkKhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZmaeFqZhJlw8Xs6RIk-EHv-fZ2a0t7KeaQcBdFe9l-yRU9p-21QHKGMLnAPa9zTtgbL7CPPN7w5uu7_tP2SaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMBGJ7oZwMDAAA&masterhotelid_tracelogid=100025527-0a9a24e0-494270-800942&detailFilters=17|1~17~1*31|685197~31~685197*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1596&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q1KxlNcJ)
 
 ### **換錢**
 

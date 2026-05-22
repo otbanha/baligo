@@ -29,13 +29,14 @@ tags:
   - 新開幕飯店
   - 新开幕酒店
   - NewlyOpenedHotel
+update: 2026/05/22
 heroImage: ''
 originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 2c09a63222ee6f4906e6222c6347d207
+_srcHash: fa2d816a58e62a891b8ccfd22258986e
 ---
 
 巴厘岛的五星酒店多到让人选择困难。乌布有 [Capella](/blog/capella-ubud-luxury-resort/)、乌鲁瓦图有 [Alila](/blog/alila-villas-uluwatu-bali/)、努沙杜瓦有 [Apurva Kempinski](/blog/apurva-kempinski-bali-nusa-dua/)…… 但 2026 年最让人惊喜的，是一间盖在沙努尔的全新度假村——**The Meru Sanur**。
@@ -107,7 +108,7 @@ _srcHash: 2c09a63222ee6f4906e6222c6347d207
 7. **Desa Potato Head**（水明漾） 不只是酒店，更是艺术与永续概念的复合空间，获颁「最佳创新奖」实至名归。→ [查看详细介绍](/blog/potato-head-suites-seminyak-review/)
 8. **The Meru Sanur** ⭐ 最佳新酒店（沙努尔） 本文主角！坐拥 1 公里私人海滩线，全套房设计，今年一举拿下最佳新酒店殊荣。→ [查看详细介绍](/blog/the-meru-sanur/)
 9. **Four Seasons Resort Bali at Jimbaran Bay**（金巴兰） 金巴兰湾畔的四季，以私人别墅村落形式呈现，今年获颁「最佳家庭酒店」。→ [查看详细介绍](/blog/four-seasons-bali-jimbaran-bay/)
-10. **Four Seasons Resort Bali at Sayan**（乌布） 巴厘岛最早的顶级丛林度假村之一，莲花池大厅与 Ayung 河景至今仍无可取代。→ [查看详细介绍](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48716)
+10. **Four Seasons Resort Bali at Sayan**（乌布） 巴厘岛最早的顶级丛林度假村之一，莲花池大厅与 Ayung 河景至今仍无可取代。→ [查看详细介绍](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48716) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1460857&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NawsLFJMEkNZeFY8bkU_PZhDiNzYyNDIDISGMjn8EKRoulQo79h75qzDHb4eDp8bBK5N3MvQ4BPBFTDjyfxp5oy3V9ccH-QIcuRlawwAzGn1MiNzICla1z753qsIOR6QAj0wnGWZOZFjA1T8w_xcLM0WN0ieU7U3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZQCeZ6RkYAIVKEis8U8BakxNzkktzEktSQyoLgEaY6ShlFjuXFGUWBKXmZpaUpAJVpSXmFKeCxINSi4EyyWBBJT-gMUVQgcz8PIh2QxSxsMSc0lSIG4AWuqVC7TCs1cF0-rM5vU-7Z77YtJtIp5tT2-kGxDjduDb2EQtTdOwLlo18n1gYfrEwNLEydLEyc5ximsTKwgGMpF2sgkGBBu6exrquxj7-RiG6UbqGF1ifz2WSkjM0MDAwNTQ2NdU1SLRMNDZKS9Y1sTQxMjPXNbY0tdRY8PzcxSfGRtZSkHSgwKglGB_i6eliWFKYalZYaplTVGBqwHiKUcrQ3NjC0MjQ0MjIyNJYz8QizazYIq_YIjcrwoMxiM3EwsDU0iLKhos5NNhFcHnlcU0rI2kHKeaQcBfFD8uPeZt3nrbXYvZ0CTL8oPd8e7u1pX3gntc5J-yNF9hHVnCraNT1nLZPYq3K0A0JzzguVsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCAINMRV8PAwAA&masterhotelid_tracelogid=100051355-0a9a32fc-494267-3959&detailFilters=17|1~17~1*31|1460857~31~1460857*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=792&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/3m0EuHZG)
 11. **The St Regis Bali Resort**（努沙杜瓦） 老牌奢华的稳定代表，管家服务与私人泳池别墅让它年年稳守榜单。→ [查看详细介绍](/blog/nusa-dua-resorts-guide/#the-st-regis-bali-resort%EF%B8%8F%E5%9C%B0%E5%9C%96%E4%BD%8D%E7%BD%AE)
 
 ***
@@ -130,7 +131,7 @@ _srcHash: 2c09a63222ee6f4906e6222c6347d207
 #### 📌 订房信息
 
 > 评分：Tripadvisor 高度推荐 | Agoda 住客评分 ⭐ 9.1（2025 旅人鉴赏优胜）
-> [点我在 Agoda 查看 The Meru Sanur 最新房价与空房 →](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294)
+> [点我在 Agoda 查看 The Meru Sanur 最新房价与空房 →](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=116694051&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6ycTFJMEk9YiJ49P5XR9YhTjMjC0NLAwMjDQ28hks5bDoTHY8ewYIkqY7eM6aCQQisxwCeCKmHHg-jT3Rluv64oL9gQ5djKxggRmMi3dcMl_ByLiRMQ0E-lIddjAyHWBkOsF43mYB06nfE61OsTBzLGK7xLKbMbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsCwMjPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1sY9YmKJjX7Bs5PvEwvCLhaGJlaGLlZnjFNMkIHneZherYKCzp5mzh66ToVNQoLdulK7hBdYWByl5QwMDA1NDY1NTXYNEy0Rjo7RkXRNLEyMzM11zA1MDA411k6defGJsZC0FCU4FRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbCaurmZGrlE2XMyhwS6CyyuPa1oZSTtIMYeEuyh-WH7M27zztL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD7yrXvXiQ1dp-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAHS6woJVAgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494266-70500&detailFilters=17|1~17~1*31|116694051~31~116694051*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=946&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Pb1nQOIo)
 
 {{block:sanur}}
 

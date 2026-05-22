@@ -16,6 +16,7 @@ tags:
   - '#長谷住宿推薦'
   - '#峇里島住宿推薦'
   - '#長谷飯店推薦'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_46f84d2dfa787caf925c192d2cb4b690.jpg'
 originalUrl: 'https://vocus.cc/article/68e51c8efd897800014e36a6'
 agoda_hotel_id: 46874759
@@ -24,7 +25,7 @@ agoda_star_rating: 5
 latitude: -8.656766891479492
 longitude: 115.13082122802734
 lang: zh-hk
-_srcHash: 38745da49908e47c0d5a5d124535c225
+_srcHash: 5e1715d4ea7de8dd606961d6baa2eb5c
 ---
 如果你正在尋找一處既能擁抱峇里島自然風光，又能享受現代化便利嘅度假勝地，咁2023年底全新開業嘅**峇里島坎古假日酒店（Holiday Inn Resort Bali Canggu By IHG）**絕對值得列入你嘅首選清單。呢間五星級度假村唔單止坐擁絕佳地理位置，更以貼心嘅服務、完善嘅設施同極高嘅性價比，贏得全球旅客嘅一致好評，喺各大平台上獲得高達**9.4分嘅綜合評分**。
 
@@ -134,7 +135,7 @@ _srcHash: 38745da49908e47c0d5a5d124535c225
 * 機場接送服務可供預約，從伍拉萊國際機場（DPS）出發約需 45–60 分鐘車程
 * Agoda 訂房通常可搵到最優惠價錢
 
-> **▶**[**Holiday Inn Resort Bali Canggu 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=46874759)
+> **▶**[**Holiday Inn Resort Bali Canggu 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=46874759) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=113562229&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6xczFJMEk9ZmZY8q_R1PZhBiNDCQsJgs5nj0DBDPaHTz7D33ViOntcQjgaWS8vrjAluu6m8MMxq9LJputYGTcyMgFEruU7LCDkekE41TFBUzTJ90yPcXCzPGQ9RLLd6boaqXs1EolKxMdpZLMkpxUJSulJ3v7n65rfb6iVUlHKSW1OBkoBGQl5uaX5pUA2cYWZnoGBkCRksQKzxQlK2MLHaXkxJzk0pzEktSQygKgEWY6SpnFziVFmQVBqbmZJSWpQGVpiTnFqSDxoNRioEwyWFDJD2hOEVQgMz8Pot0QRSwsMac0FeIGoI1uqVA7DGt1MJ3-bFvHi027cTvd1BDF6SbGA-T02EcsTNGxn1gYfrEwNLEydLEyTGJl5piquIuVJ8jE2T8wUtdQN0rXUErO0MDAwNTQ2NRU1yDR0sLYKNFI18TSxMjMQtfQwtxMo_X80stPjI2spVinHHg-jV2BUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm5ObqZGlZZQNF3NosIug3n_Fv99MpR2kmEPCXRQnB114q9p72l6L2dMlyPCD3vPt7daW9oF7XuecsDdeYB-pcu1RMEPPafsk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUATEkw7uUCAAA&masterhotelid_tracelogid=100051355-0a9832a2-494268-1876&detailFilters=17|1~17~1*31|113562229~31~113562229*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1235&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KVi2lfgC)
 
 準備好你嘅峇里島之旅未？呢間假日酒店，好可能會成為你愛上坎古嘅理由之一。
 

@@ -5,6 +5,7 @@ description: >-
   A fellow traveler shares her 7-day 6-night Bali itinerary planned for her
   mother
 pubDate: '2024-07-02'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_286ab6e85a206f8b44e0547b30ea4b3f.jpg'
 tags:
   - 峇里島
@@ -16,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/665f1689fd89780001afd058'
 category:
   - 遊記分享
 lang: en
-_srcHash: dc4e8c5b565b61ea69afb41e23a081f3
+_srcHash: 762cd124f219f60f9c580327fedb491c
 ---
 
 > The following content is provided by fellow traveler [Zhang Pingping](https://www.facebook.com/zhang.p.ping.3/) and she has agreed to let us adapt it.
@@ -216,9 +217,9 @@ Contributed by Zhang Pingping: Menega Cafe
 
 ### Accommodation and Surroundings
 
-On June 2nd, we checked into [The Oberoi Beach Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=268) in Seminyak. This hotel was the most attentive and vacation-like of our entire trip.
+On June 2nd, we checked into [The Oberoi Beach Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=268) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=687606&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJ4-zvaYtZhZgNDYw07rMZPGC02Crv-E0jpv9Q6AwHT67riwtsS-c6BPBETDnwfBp74k3byogVBwMduhhZwQIzGL_91tzIGLRDrvV1bYnDDkamA4xMJxj3uCxgun3-FeMpFmaOz9yXWHYzRlcrZadWKlmZ6CiVZJbkpCpZKT1dNO9pw57nK1qVdJRSUouTgUJAVmJufmleCZBtaGpkrGdgABQqSazwTAFrTU7MSS7NSSxJDaksABphpKOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFQQYXQfmZ-XkQ3QYoYmGJOaWpEJVA-9xSoVYY1sY-YmGKjn3Bcp_tEwvDLxaGJlaGLlZmjlNMk4DkHpddrLyOZsaRAeG6hiG6UbqGF1gbfaXkDQ0MDEwNjU1NdQ0SLRMtzCySdU0sTYzMLHWNTc0tjDSW_Lx99YmxkbUUJBgVGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsRm5GJq6mUfZcDGHBrsIep9gt51tKu0gxRwS7qJoL9svuaLntL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD6ydPXzJd97T9snsVZl6IaEZxwXK2BsYGTqYuQWYPRgjGCsAPIYVzGyczEbGBkKMG1gZNzB-B8GGF8xgiwBAGqIA49IAgAA&masterhotelid_tracelogid=100051355-0a9a868c-494269-35782&detailFilters=17|1~17~1*31|687606~31~687606*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1168&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/yteHcvkn) in Seminyak. This hotel was the most attentive and vacation-like of our entire trip.
 
-▶[Book The Oberoi Beach Resort and other room types](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=268)
+▶[Book The Oberoi Beach Resort and other room types](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=268) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=687606&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJ4-zvaYtZhZgNDYw07rMZPGC02Crv-E0jpv9Q6AwHT67riwtsS-c6BPBETDnwfBp74k3byogVBwMduhhZwQIzGL_91tzIGLRDrvV1bYnDDkamA4xMJxj3uCxgun3-FeMpFmaOz9yXWHYzRlcrZadWKlmZ6CiVZJbkpCpZKT1dNO9pw57nK1qVdJRSUouTgUJAVmJufmleCZBtaGpkrGdgABQqSazwTAFrTU7MSS7NSSxJDaksABphpKOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFQQYXQfmZ-XkQ3QYoYmGJOaWpEJVA-9xSoVYY1sY-YmGKjn3Bcp_tEwvDLxaGJlaGLlZmjlNMk4DkHpddrLyOZsaRAeG6hiG6UbqGF1gbfaXkDQ0MDEwNjU1NdQ0SLRMtzCySdU0sTYzMLHWNTc0tjDSW_Lx99YmxkbUUJBgVGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsRm5GJq6mUfZcDGHBrsIep9gt51tKu0gxRwS7qJoL9svuaLntL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD6ydPXzJd97T9snsVZl6IaEZxwXK2BsYGTqYuQWYPRgjGCsAPIYVzGyczEbGBkKMG1gZNzB-B8GGF8xgiwBAGqIA49IAgAA&masterhotelid_tracelogid=100051355-0a9a868c-494269-35782&detailFilters=17|1~17~1*31|687606~31~687606*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1168&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/yteHcvkn)
 
 We strolled around the area, watched the sunset, and enjoyed all the facilities the hotel had to offer, spending a delightful evening.
 

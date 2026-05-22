@@ -22,10 +22,11 @@ tags:
   - '#canggu住宿推薦'
   - '#cangguvilla'
   - '#cangguvilla推薦'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777896573960-canggu_stay.png'
 originalUrl: 'https://vocus.cc/article/651b8da8fd89780001974847'
 lang: en
-_srcHash: 11541c439274b076bca1e678882e66b6
+_srcHash: 576dc55cba15f4e1324bbd77c103dbb6
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)
@@ -60,7 +61,7 @@ The location of COMO Uma Canggu is absolutely stunning. Situated right by the be
 
 COMO Uma Canggu itself is a breathtaking architectural masterpiece. The hotel's design is minimalist yet modern, seamlessly blending Balinese local style with international design elements. Renowned for its top-notch facilities, it offers unparalleled comfort and relaxation.
 
-> ▶[Agoda Deals](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=23070744)
+> ▶[Agoda Deals](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=23070744) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=15772747&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NazMLFJMEkNYeF4_jsyY9YhRiNDL4yWWzWdiy05bq-OKrfwfNhlcg694TJDgE8EVMOPJ_Gnmjp6l7082CgQyEDCJyZ4NDI2Po6cIfc5B6HLkZWsJoZjKdvHGLfyOgB0jw912EHI9MBRqYTjB26C5hWbXyrfIqFmeMMxyWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJuaGugZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGX8BoaFBvYmXoYmXmOMU0CUh26O5i5fGPcvR2d9Y11I3SNbzAeilMStHQwMDAyNTUyFzXINHSONE42UjXxNLEyMxc18jM2NzQ0FDj-bH1l54YG1lLQVKAAqOWYHyIp6eLYUlhqllhqWVOUYGpAeMpRilDc2MLQyNDQyMjI0tjPROLNLNii7xii9ysCA_GIDYXR0szN9MoGy7m0GAXQb3_in-_mUo7SDGHhLsoTg668Fa197S9FkjOECYXuOd1zgl74wX2kfay_ZIrek7bJ7FWZeiGhGccFytgbGBk6mLkFmD0YIxgrADyGFcxsnMxGxgZCjBtYGTcwfgfBhhfMYIsAQCvpc56EQMAAA&masterhotelid_tracelogid=100025527-0a93a3c2-494267-2637111&detailFilters=17|1~17~1*31|15772747~31~15772747*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1102&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/IILBFWDi)
 
 ## 2. Hotel Tugu Bali
 
@@ -68,7 +69,7 @@ COMO Uma Canggu itself is a breathtaking architectural masterpiece. The hotel's 
 
 Located in Canggu Batu Bolong, Bali, Hotel Tugu Bali is a charming resort that uniquely combines Balinese culture, art, and natural beauty, providing guests with an unforgettable stay. One of the standout features of Hotel Tugu Bali is its artistic ambiance. The hotel boasts an impressive collection of art pieces and artifacts scattered throughout, immersing guests in a rich cultural atmosphere.
 
-> ▶[Agoda Deals](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=3164)
+> ▶[Agoda Deals](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=3164) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685798&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJY-qOHSuYhJgNDYw07rMZPGC02CrvaMt1fXGB_GQHz_5DXzViOqc7BPBETDnwfBp7YnOg59yGQ4EOXYysYIEZjM_eam5k9HhYJbJueaHDDkamA4xMJxhvmS1gun3pFeMpFmaOBVyXWHYzRlcrZadWKlmZ6CiVZJbkpCpZKT1dNO9pw57nK1qVdJRSUouTgUJAVmJufmleCZBtaGxopGdgABQqSazwTAFrTU7MSS7NSSxJDaksABphpKOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFQQYXQfmZ-XkQ3QYoYmGJOaWpEJVA-9xSoVYY1sY-YmGKjn3Bcp_tEwvDLxaGJlaGLlZmjlNMk4DkLbNdrLze3i6Rjv66hiG6UbqGF1jbbKXkDQ0MDEwNjU1NdQ0SLRNNjZMNdU0sTYzMDXTNjM0tLDSu9_XeeGJsZC0FCUYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbE6WZuaGLlE2XMyhwS6CAhGWW06YSTtIMYeEuyiWrn6-5HvvaXstZk-XIMMPes-3t1tb2gfueZ1zwt54gX1kOMv_6JN9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAGFDC3dIAgAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-63788&detailFilters=17|1~17~1*31|685798~31~685798*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=240&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/kOsEG0tu)
 
 ## 3. Eastin Ashta Resort Canggu
 
@@ -92,7 +93,7 @@ La Reserve 1785 Canggu Beach, a brand-new resort that opened in 2022, is situate
 
 ZIN Canggu Resort & Villas, a four-star boutique resort in the Canggu area, opened in 2018 and has received overwhelmingly positive reviews. Located near Nelayan Beach, it's just a short walk from Echo Beach and Batu Bolong Beach. In addition to standard hotel rooms, the resort offers private pool villas for a more secluded experience.
 
-> ▶[Agoda Discount](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=34850151)
+> ▶[Agoda Discount](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=34850151) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=23962763&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6wczFJMEk9ZGZ4_7E5jlsQuyGpmYGhgZGBoe5LFalO-6Qa30d-KfSwZMBBLbUOwTwzGDsPrmNeyOjPFBmx70whx2MTAcYmU4wbhVawPSsY6fVKRZmjlXMl1i-MkVXK2WnVipZmegolWSW5KQqWSk9m9P7tHvmi027lXSUUlKLk4FCQFZibn5pXgmQbWRorGdgABQpSazwTFGyMtdRSk7MSS7NSSxJDaksAJpgpqOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFlfyAxhRBBTLz8yDaDVDEwhJzSlMhTgBa6JYKtcO4VgfT5U8XzXvasOf5ilbiXG5CbZcbEuNyw9rYRyxM0bGfWBh-sTA0sTJ0sTJMYmXm2Cq0i5U_KCrM39dSN9ws0lU3StdQSt7QwMDA1NDY1FTXINEy0dQ42VDXxNLEyNxA18zU3NhAY_PSyTeeGBtZS7FOOfB8GrsCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNjcDV2dTlygbLmZPlyDBD3rPt7dbW9pLMYeEuyiWrn6-5HvvaXstkJwhTC5wz-ucE_bGC-wjTz3QqCztO22fxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEAIgUbBLkAgAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-65730&detailFilters=17|1~17~1*31|23962763~31~23962763*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1176&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/v8XYuX6B)
 
 ## 6. Shore Amora Canggu
 
@@ -100,7 +101,7 @@ ZIN Canggu Resort & Villas, a four-star boutique resort in the Canggu area, open
 
 Shore Amora Canggu is an exceptionally attractive and high-quality accommodation option in the Canggu area. Nestled amidst lush green rice paddies with swaying coconut trees, it's just steps away from the beach. It has remained one of the most popular lodging choices in the area, both before and after the pandemic.
 
-> ▶[Agoda Discount](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=7223142)
+> ▶[Agoda Discount](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=7223142) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=40708610&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zczFJMEk9YWZ49H5nUfYhNgNTc0MDA2MDA5zWaxKdzz8VSOmP6nWwfPsGSB40-gQwDODsenKFuEVjIwbGWP6D33VuBPpsIOR6QAj0wnGlyILmL5tOmd3ioWZ4wHzJZavTNHVStmplUpWJjpKJZklOalKVkpPF8172rDn-YpWJR2llNTiZKAQkJWYm1-aVwJkG5kY6BkYAEVKEis8U8A6kxNzkktzEktSQyoLgCaY6ShlFjuXFGUWBKXmZpaUpAJVpSXmFKeCxINSi4EyyWBBJT-gMUVQgcz8PIh2QxSxsMSc0lSIE4AWuqVC7TCs1cF0-bM5vU-7Z77YtJs4l5tT2-UGxLjcuDb2EQtTdOwnFoZfLAxNrAxdrAyTWJk5XorsYuUPNjaKjAjUDTeLdNWN0jWUUjQ0MDAwMjU1Mtc1SLS0MExJNNQ1sTQxMjfQBQoaGBoaaGx8NvPGE2MjaynWKQeeT2NXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxGZmamFuYhZlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfF0tXPl3zvPW2vBZIzhMkF7nmdc8LeeIF95KkHGpWlfaftk1irMnRDwjN6xQsYGxiZuhi5BRg9GCMYK4A8xlWM7FzMBkaGAkwbGBl3MP6HAcZXjCBLAEQ5p0LpAgAA&masterhotelid_tracelogid=100025527-0a981da1-494270-5520110&detailFilters=17|1~17~1*31|40708610~31~40708610*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1035&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Dso8adAE)
 
 ## 7. Theanna Villa and Spa Canggu
 
@@ -108,7 +109,7 @@ Shore Amora Canggu is an exceptionally attractive and high-quality accommodation
 
 If you're looking for the perfect place to unwind and enjoy a relaxing vacation, Theanna Villa and Spa Canggu is definitely worth considering. This resort is just a 5-minute walk from the beach and features 25 villas, each equipped with a private pool, balcony, and outdoor shower. Awarded Tripadvisor's Travellers' Choice 2023 "**Best of the Best**" accolade, it's an ideal destination for a peaceful and rejuvenating getaway.
 
-> ▶[Agoda Discount](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1203712)
+> ▶[Agoda Discount](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1203712) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=7596238&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6w8zFJMEk9ZSZ43HDxSMsQoxGBjv4LfqyHeVbXwfueNLt4Fktss79IfNEhwCeGYznLp5n3sgY03_oq0ZPhsMORqYTjIfVFzBtX7xI9hQLM8cE9kssX5miq5WyUyuVrEx0lEoyS3JSlayUns3pfdo988Wm3Uo6SimpxclAISArMTe_NK8EyDYxNdMzMACKlCRWeKYoWZnrKCUn5iSX5iSWpIZUFgBNMNNRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgkp-QGOKoAKZ-XkQ7QYoYmGJOaWpECcALXRLhdphXKuD6fKni-Y9bdjzfEUrcS43obbLDYlxuWFt7CMWpujYTywMv1gYmlgZulgZJrEycxxW38XK4-USYGzpqGuoG6VrKCVvaGBgYGpobGqqa5BoaZFknGiga2JpYmRuoGtuYGZgojFpypIbT4yNrKVYpxx4Po1dgVFLMD7E09PFsKQw1ayw1DKnqMDUgPEUo5ShubGFoZGhoZGRkaWxnolFmlmxRV6xRW5WhAdjEJuFm5GZm2WUDRdzaLCLoECE5ZYTZtIOUswh4S6KpaufL_nee9pei9nTJcjwg97z7e3WlvaBe17nnLA3XmAfeeqBRmVp32n7JNaqDN2Q8Ixe8QLGBkamLkZuAUYPxgjGCiCPcRUjOxezgZGhANMGRsYdjP9hgPEVI8gSAOSeHzHYAgAA&masterhotelid_tracelogid=100051355-0a98b3a0-494270-70604&detailFilters=17|1~17~1*31|7596238~31~7596238*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=224&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/gaREzIJE)
 
 ## 8.Aston Canggu Beach Resort
 
@@ -140,7 +141,7 @@ Swarga Suites Bali Berawa is a highly-rated luxury resort accommodation located 
 
 Holiday Inn Resort Bali Canggu officially opened in August 2024, becoming a premium accommodation option in the Canggu area on Bali's southern coast. The resort features stylish design, top-notch facilities, and advanced technology, along with a stunning infinity pool overlooking the majestic Indian Ocean. Within walking distance of Batu Bolong Beach and the vibrant Canggu district, the resort blends modern design with traditional Balinese charm. It offers 144 thoughtfully designed rooms, including standard rooms, suites, and family-friendly kids' suites. Amenities include a fitness center, kids' club, and an all-day dining restaurant, ensuring guests enjoy an unforgettable stay.
 
-> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=46874759)
+> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=46874759) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=113562229&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6xczFJMEk9ZmZY8q_R1PZhBiNDCQsJgs5nj0DBDPaHTz7D33ViOntcQjgaWS8vrjAluu6m8MMxq9LJputYGTcyMgFEruU7LCDkekE41TFBUzTJ90yPcXCzPGQ9RLLd6boaqXs1EolKxMdpZLMkpxUJSulJ3v7n65rfb6iVUlHKSW1OBkoBGQl5uaX5pUA2cYWZnoGBkCRksQKzxQlK2MLHaXkxJzk0pzEktSQygKgEWY6SpnFziVFmQVBqbmZJSWpQGVpiTnFqSDxoNRioEwyWFDJD2hOEVQgMz8Pot0QRSwsMac0FeIGoI1uqVA7DGt1MJ3-bFvHi027cTvd1BDF6SbGA-T02EcsTNGxn1gYfrEwNLEydLEyTGJl5piquIuVJ8jE2T8wUtdQN0rXUErO0MDAwNTQ2NRU1yDR0sLYKNFI18TSxMjMQtfQwtxMo_X80stPjI2spVinHHg-jV2BUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm5ObqZGlZZQNF3NosIug3n_Fv99MpR2kmEPCXRQnB114q9p72l6L2dMlyPCD3vPt7daW9oF7XuecsDdeYB-pcu1RMEPPafsk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUATEkw7uUCAAA&masterhotelid_tracelogid=100051355-0a9832a2-494268-1876&detailFilters=17|1~17~1*31|113562229~31~113562229*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1235&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KVi2lfgC)
 
 ## 12. TUI BLUE Berawa Hotel and Villas
 
@@ -150,7 +151,7 @@ Holiday Inn Resort Bali Canggu officially opened in August 2024, becoming a prem
 
 The hotel features **119 rooms and suites** and **14 private pool villas**, along with amenities such as a fitness center, yoga studio, co-working space, and a fine dining restaurant. In collaboration with Indonesia's premium chocolate brand RR Chocolate, the hotel offers unique experiences for guests. Whether you're traveling with family, on a honeymoon, or seeking luxury and comfort, this hotel caters to all needs.
 
-> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=61670353)
+> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=61670353) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=123784342&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJ49jB3n42IWZDAyONjXwGDxgttso7Bu2Qa30dW-PgefirRkz_pkaHAJ6IKQeeT2NPbM7Tz-zp8HfoYmQFC8xgnDaz2Xoj49kzQCAT47CDkekAI9MJxuMiC5iWnmqxPsXCzNHFcollF2N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2aZGRnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJRjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYEGRuEZSfmZ8H0W2AIhaWmFOaClEJtM8tFWqFYW3sIxam6NgXLBv5PrEw_GJhaGJl6GJl5ljKNAlIHhfZxcobZBppbOqpaxiiG6VreIH1gbiUnKGBgYGpobGpqa5BomWisVFasq6JpYmRmYWuqYWZocbB_g2XnxgbWUtBQlGBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4mxq5mpRZQNF3NosIug3n_Fv99MpR2kmEPCXRQnB114q9p72l6L2dMlyPCD3vPt7daW9oF7XuecsDdeYB-pcu1RMEPPafsk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUAgcp27EcCAAA&masterhotelid_tracelogid=100051355-0a9a32fc-494268-5861&detailFilters=17|1~17~1*31|123784342~31~123784342*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=220&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/4eoziH0p)
 
 ## 13. Oshom Bali
 
@@ -227,7 +228,7 @@ Belajar Bali Boutique Hotel and Retreat, located just 2.8 km from Batu Bolong Be
 
 Discover Bali, where nature meets modern amenities, perfect for travelers seeking a secluded getaway or a deep dive into Canggu's bohemian vibe.
 
-> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=49488356)
+> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=49488356) [Booking](https://booking.tpm.li/SvuReSuQ)
 
 ## 16. MAJA Canggu Hotel
 

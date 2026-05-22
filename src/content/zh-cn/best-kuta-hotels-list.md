@@ -18,13 +18,14 @@ tags:
   - 庫塔購物中心附近住宿
   - 峇里島首晚住宿建議
   - 峇里島親子飯店庫塔
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/images/2026-04/1777174975092-index-non-beach.png'
 originalUrl: ''
 private: false
 shuffle_h2: true
 embeds: []
 lang: zh-cn
-_srcHash: 728fe63112b723299b0fc9ea7c46e2b8
+_srcHash: c1c46e88f5cc8880d3c1dd96391c147f
 ---
 
 说到库塔住宿，大家第一个想到的永远是海滩酒店——但海景房不一定是最聪明的选择。
@@ -77,7 +78,7 @@ _srcHash: 728fe63112b723299b0fc9ea7c46e2b8
 
 💬 **住客评价**：回访旅客比例非常高，服务个性化且细心周到。缺点是早餐采用 à la carte （点餐）有品项限制，饮料不能无限续。
 
-> 2025 Agoda 旅人鉴赏优胜精选，Agoda 评价9.2⭐  ｜ [空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920599)
+> 2025 Agoda 旅人鉴赏优胜精选，Agoda 评价9.2⭐  ｜ [空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920599) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2601658&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCsenWzttsQuyGpmYGhgZGBrdELZ63Mzoe_qoR05_U6OC5Q671deCWVocAnogpB55PY09sDvSc23Ao0KGLkRUsMINx19N5jCsYGTcyXl9cYMvlnuiwg5HpBOM8yQVMR_aftj_FwszRxHqJ5StTdLVSdmqlkpWJjlJJZklOqpKV0tNF85427Hm-olVJRykltTgZKARkJebml-aVANnGRoZ6BgZAkZLECs8UsM7kxJzk0pzEktSQygKgCWY6SpnFziVFmQVBqbmZJSWpQFVpiTnFqSDxoNRioEwyWFDJD2hMEVQgMz8Pot0QRSwsMac0FeIEoIVuqVA7DGt1MF3-bE7v0-6ZLzbtJs7l5tR2uQExLjeujX3EwhQd-4mF4RcLQxMrQxcrM8cppklAcp7kLlbu4GBnxwAP3XCzSNcLrC-kpZQNDQwMTA2NTU11DRItE5OMLI10TSxNjMwNdI0szIzNDcwMTTR-bn92_YmxkbUUJP4VGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsRk5ujqaWETZcDG7hgYJKlzKj2fvk3eQYg4Jd1EsXf18yffe0_ZazJ4uQYYf9J5vb7e2tA_c8zrnhL3xAvtImHwSa1WGbkh4xnGxAsYGRqYuRm4BRg_GCMYKII9xFSPDBkbGHYz_YYDxFSPIdABvKasZ_AIAAA&masterhotelid_tracelogid=100051355-0a9ab292-494270-286370614&detailFilters=17|1~17~1*31|2601658~31~2601658*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=817&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/txhUKkim)
 
 ***
 

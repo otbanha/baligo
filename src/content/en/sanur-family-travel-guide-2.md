@@ -15,10 +15,11 @@ category:
   - 住宿推薦
   - 家庭親子
 tags: []
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b019f571fcb856c03c3c31c9e0d0c9a5.png'
 originalUrl: 'https://vocus.cc/article/67b81b4cfd89780001b4a261'
 lang: en
-_srcHash: 5ff0b084ec2c45aaa71dcb74dcacf7f3
+_srcHash: 1d92e4f01da8b9b23c6855a1ffff1195
 ---
 
 Sanur Beach in Bali is an ideal choice for family travel with its serene atmosphere and family-friendly environment. Compared to bustling areas like Kuta and Seminyak, Sanur offers a more tranquil experience, allowing both parents and children to enjoy a relaxing vacation.
@@ -254,7 +255,7 @@ The Meru Sanur resort is renowned for its family-friendly environment. The Kids 
 
 Here, children can participate in various fun and educational activities, allowing them to explore the wonders of Bali through play. Meanwhile, parents can relax and enjoy other resort amenities, such as the stunning 60-meter swimming pool surrounded by tropical gardens, with beautiful views of Sanur Beach.
 
-> ▶[The Meru Sanur Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294)
+> ▶[The Meru Sanur Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=116694051&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6ycTFJMEk9YiJ49P5XR9YhTjMjC0NLAwMjDQ28hks5bDoTHY8ewYIkqY7eM6aCQQisxwCeCKmHHg-jT3Rluv64oL9gQ5djKxggRmMi3dcMl_ByLiRMQ0E-lIddjAyHWBkOsF43mYB06nfE61OsTBzLGK7xLKbMbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsCwMjPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1sY9YmKJjX7Bs5PvEwvCLhaGJlaGLlZnjFNMkIHneZherYKCzp5mzh66ToVNQoLdulK7hBdYWByl5QwMDA1NDY1NTXYNEy0Rjo7RkXRNLEyMzM11zA1MDA411k6defGJsZC0FCU4FRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbCaurmZGrlE2XMyhwS6CyyuPa1oZSTtIMYeEuyh-WH7M27zztL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD7yrXvXiQ1dp-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAHS6woJVAgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494266-70500&detailFilters=17|1~17~1*31|116694051~31~116694051*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=946&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Pb1nQOIo)
 
 ### Prama Sanur Beach Bali
 
@@ -262,7 +263,7 @@ Here, children can participate in various fun and educational activities, allowi
 
 Prama Sanur Beach Bali is known for its family-friendly facilities. The hotel features a dedicated children's pool area with slides and shallow sections, allowing kids to play safely. Additionally, the hotel offers a Kids Club with various engaging activities to ensure young guests have a delightful time. Parents can unwind at the nearby pool bar, enjoying the leisurely pace of their vacation.
 
-> ▶[Prama Sanur Beach Bali Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5354)
+> ▶[Prama Sanur Beach Bali Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5354) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987821&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6x8TFJMEkdZ2J48jvhReZhJgNDYw0NvIZPGC02CrvmAYCeuUOnjvkWl8HitQ6BPBETDnwfBp7oiRLGJ_uG0-HLkZWsMAMxrVLbVYwMm5k9HhYJbJuerjDDkamA4xMJxi_CCxgmnnuFeMpFmaO7cyXWHYxRlcrZadWKlmZ6CiVZJbkpCpZKT1dNO9pw57nK1qVdJRSUouTgUJAVmJufmleCZBtYmypZ2AAFClJrPBMAetMTsxJLs1JLEkNqSwAmmCko5RZ7FxSlFkQlJqbWVKSClSVlphTnAoSD0otBsokgwVB5hZB-Zn5eRDdBihiYYk5pakQlUD73FKhVhjWxj5iYYqOfcGyke8TC8MvFoYmVoYuVmaOj4yTgOQXgV2svJb-zsEekbqGIbpRuoYXWCcIS8kbGhgYmBoam5rqGiRaWhgbJRrpmliaGJmZ6ZobWxibaSxdMffiE2MjaylIQCowagnGh3h6uhiWFKaaFZZa5hQVmBownmKUMgSqNzQyNDQyMrI01jOxSDMrtsgrtsjNivBgDGIztnB0NbeIsuFiDg12EVxeeVzTykjaQYo5JNxF8cPyY97mnafttZg9XYIMP-g9395ubWkfuOd1zgl74wX2kW_du05s6Dptn8RalaEbEp5xXKyAsYGRqYuRW4DRgzGCsQLIY1zFyM7FbGBkKMC0gZFxB-N_GGB8xQiyBADo_UyySgIAAA&masterhotelid_tracelogid=100051355-0a9832a2-494266-73836&detailFilters=17|1~17~1*31|987821~31~987821*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1548&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/cUm4BxmR)
 
 ### Prime Plaza Suites Sanur
 
@@ -274,7 +275,7 @@ Camp Splash Kids Club is open daily from 9 AM to 6 PM and is free for all guests
 
 For parents needing to leave the hotel, the resort offers babysitting services at an additional charge, which must be booked in advance. Additionally, Camp Splash provides a kids' menu featuring favorites like pasta, pizza, and ice cream.
 
-> ▶[Prime Plaza Suites Sanur Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=196589)
+> ▶[Prime Plaza Suites Sanur Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=196589) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685038&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6wcTFJMEkdZGJY8Gnc6uYhJgNDYw07rMZPGC02CrvqBnTf-jrmgoHz4dVIuvcG-scAngiphx4Po09sfjLj72-1t4OXYysYIEZjO-ea25kBKsLDHfYwch0gvGe4AKmFRdeMZ5iYebYyHyJZRdjdLVSdmqlkpWJjlJJZklOqpKV0tNF85427Hm-olVJRykltTgZKARkJebml-aVANkmxsZ6BgZAkZLECs8UsM7kxJzk0pzEktSQygKgCUY6SpnFziVFmQVBqbmZJSWpQFVpiTnFqSDxoNRioEwyWBBkbhGUn5mfB9FtgCIWlphTmgpRCbTPLRVqhWFt7CMWpujYFyz32T6xMPxiYWhiZehiZeb4yzgJSN4T3MXK620Q4hXqomsYohula3iBtVFRStHQwMDAyNTUyFzXINEyMc0oxUzXxNLEyNxQ19DE1MTC2ETjyKOXN54YG1lLQQJRgVFLMD7E09PFsKQw1ayw1DKnqMDUgPEUo5ShubGFoZGhoZGRkaWxnolFmlmxRV6xRW5WhAdjEJuzmaGBoXmUDRdzaLCLYPrV51naZtIOUswh4S6Kk4MuvFXtPW2vxezpEmT4Qe_59nZrS_vAPa9zTtgbL7CPhMknsVZl6IaEZ_SKFzA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAIR4MnRGAgAA&masterhotelid_tracelogid=100025527-0a9af2d6-494271-1454834&detailFilters=17|1~17~1*31|685038~31~685038*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=682&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/S4NVNfoQ)
 
 {{block:住宿}}
 

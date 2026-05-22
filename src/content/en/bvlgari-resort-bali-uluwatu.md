@@ -24,6 +24,7 @@ tags:
   - 巴厘岛宝格丽度假村 2026
   - Bvlgari Resort Bali private beach
   - Most luxurious resort in Uluwatu Bali
+update: 2026/05/22
 heroImage: >-
   https://images.gobaligo.id/images/2026-04/1776591241490-4fe6b9930ebc15dd000a4e23814f6ccc.webp
 originalUrl: ''
@@ -36,7 +37,7 @@ agoda_star_rating: 5
 latitude: -8.843924522399902
 longitude: 115.12069702148438
 lang: en
-_srcHash: 9221cf85df29c8940d1d90f928bc15b5
+_srcHash: 8c14e1e4569cb0cda4e8ca131dddc502
 ---
 
 If there's one hotel in Bali that represents the pinnacle of luxury, it's undoubtedly Bvlgari Resort Bali.
@@ -198,6 +199,6 @@ If you're a backpacker or a budget-conscious traveler, this isn't for you—room
 ## 📌 Booking Information
 
 > Rating: Forbes Travel Guide 2026 Five-Star Award ⭐⭐⭐⭐⭐ ｜ Agoda 9.2⭐
-> Book your stay [here](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=77182)
+> Book your stay [here](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=77182) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=926153&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zMzFJMEk9YaZY_2kSf9YhRiNDTgtPgk6zpo5c-bOM4ccPN8E7pBL3X_MIYBnBuPJwxYrGBk3MvYf-qoRM3W-ww5G5gOMTCcYHy9jXsC06zvrKRZmjg2el1i-M0VXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWJibqRnYAAUKkms8EwBa01OzEkuzUksSQ2pLAAaYaajlFnsXFKUWRCUmptZUpIKVJWWmFOcChIPSi0GyiSDBZX8gMYUQQUy8_Mg2g1QxMISc0pTIW4AWuiWCrXDsFYH0-nP5vQ-7Z75YtNuHE63NDJAcbr5gDjduDb2EQtTdOwnFoZfLAxNrAxdrAyTWFk4gLGzi5Un0CvKPchC11k3VNdZSt7QwMDA1NDY1FTXINEy0czAMEXXxNLEyMxM18LAzNJSY9O3tRefGBtZS7FOOfB8GrsCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNjNnSwM3kygbLmZPlyDBD3rPt7dbW9pLMYeEuyh-WH7M27zztL0WSM4QJhe453XOCXvjBfaRFdwqGnU9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjA0FmDcwMu5g_A8DjK8YQZYAAMNt3OnfAgAA&masterhotelid_tracelogid=100051355-0a9a601d-494266-80699&detailFilters=17|1~17~1*31|926153~31~926153*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1408&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/TSgka4Qj)
 
 ⚠️ **Note**: Partial facility renovations are underway from March 16 to May 31, 2026. It's recommended to confirm the scope of impact before booking.

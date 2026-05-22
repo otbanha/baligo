@@ -27,6 +27,7 @@ tags:
   - 峇里島自由行
   - 巴厘岛自由行
   - BaliTravelTips
+update: 2026/05/22
 heroImage: https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
 originalUrl: ''
 private: false
@@ -76,7 +77,7 @@ Marriott 旗下五星品牌「喜來登」，直面庫塔海灘，和 Beachwalk 
 
 💬 **住客評價**：服務溫暖細心幾乎是每篇評論都會提到的重點，早餐選項豐富。
 
-> Agoda 2024 旅行者精選，評價8.8⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502)
+> Agoda 2024 旅行者精選，評價8.8⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987824&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zszFJMEk9YGZY-mso0_ZhBiNDDgtPgk6nj0DBEZtDp5c1xcX2N7pcgjgaWS0BXFqXR1mMG5YarOCkXEj4zeNmP5DS5McdjAynWCcJb-A6ezKV8ynWJg5trJeYvnKFF2tlJ1aqWRloqNUklmSk6pkpfR00bynDXuer2hV0lFKSS1OBgoBWYm5-aV5JUC2sbGBnoEBUKQkscIzBawzOTEnuTQnsSQ1pLIAaIKZjlJmsXNJUWZBUGpuZklJKlBVWmJOcSpIPCi1GCiTDBZU8gMaUwQVyMzPg2g3QBELS8wpTYU4AWihWyrUDsNaHUyXP5vT-7R75otNu3G43MwYxeXmA-Jy49rYRyxM0bGfWBh-sTA0sTJ0sTJMYmXmmCW_i5UnxNTfzdlX11A3StdQSt7QwMDA1NDY1FTXINHSwtgo0UjXxNLEyMxM19TCzNhUY9nO7xeeGBtZS7FOOfB8GrsCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNjMLcxMDiygbLmZPlyDBD3rPt7dbW9pLMYeEuyh-WH7M27zztL0WSM4QJhe453XOCXvjBfaRMPkk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUAY6Xp_uMCAAA&masterhotelid_tracelogid=100051355-0a9832a2-494266-58635&detailFilters=17|1~17~1*31|987824~31~987824*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=225&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/q7Xyh0DQ)
 
 ***
 
@@ -112,7 +113,7 @@ Marriott 旗下五星品牌「喜來登」，直面庫塔海灘，和 Beachwalk 
 
 💬 **住客評價**：泳池設施幾乎人人稱讚，特別是有小孩的家庭，kids club活動非常精彩。
 
-> Agoda 2024 旅行者精選，Agoda 評價8.7⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8650)
+> Agoda 2024 旅行者精選，Agoda 評價8.7⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8650) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=982026&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqYOFikmCSamTh-H1n9yNWIUYjg4NCFsdLHatF1rk_jGt08ARSVSLrWh0CeCKmHHg-jT3Rluv64oL9gQ5djKxggRmMXT-sNzKePQMENokOOxiZDjAynWCcLrmA6cLPZ2qnWJg5GlgvsXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2MhAz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQbooiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3cS53JzaLjcgxuXGtbGPWJiiYz-xMPxiYWhiZehiZeY4xTQJSE6X3MXK4e_h5OnhrGt4gfWhtJSioYGBgZGpqZG5rkGipYVhSqKhromliZGZqa4xUMrcwEjjUl_r-SfGRtZSkJhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxGbq6uJkYBxlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfFD8uPeZt3nrbXAskZwuQC97zOOWFvvMA-cttOQ9tEoHwSa1WGbkh4xnGxAsYGRqYuRm4BRg_GCMYKII9xFSPDBkbGHYz_YYDxFSPIdAAJAJ6_7wIAAA&masterhotelid_tracelogid=100025527-0a981da1-494265-3100702&detailFilters=17|1~17~1*31|982026~31~982026*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1311&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/QP8x1KGB)
 
 ***
 
@@ -266,7 +267,7 @@ Marriott 旗下 2022 年開幕的新飯店，直接建在 Beachwalk 購物中心
 
 💬 **住客評價**：早餐豐富多元（印度、日式、峇里島菜系都有），服務溫暖。
 
- > Agoda 2024 旅行者精選，Agoda 評價9.0⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1620545)
+ > Agoda 2024 旅行者精選，Agoda 評價9.0⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1620545) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6260366&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NayMLFJMEkNYuF4_Dd-11MQpwWlkZmpkYGBkYaG_kMlnJYdCY7FtpyXV_c1ejg2X_oq0bM01aHAJ6IKQeeT2NPbA70nNtwKNChi5EVLDCDsa_3H9NGxmqRde4PsxIddjAyHWBkOsG4W3IB0-bJH0VPsTBzdLBeYvnKFF2tlJ1aqWRloqNUklmSk6pkpfR00bynDXuer2hV0lFKSS1OBgoBWYm5-aV5JUC2sZGJnoEBUKQkscIzBawzOTEnuTQnsSQ1pLIAaIKZjlJmsXNJUWZBUGpuZklJKlBVWmJOcSpIPCi1GCiTDBZU8gMaUwQVyMzPg2g3RBELS8wpTYU4AWihWyrUDsNaHUyXP5vT-7R75otNu4lzuTm1XW5AjMuNa2MfsTBFx75g2cj3iYXhFwtDEytDFyszxymmSUByt-QuVkFfX0MXNzddkyBzD78I3Shdwwusp2Wl5A0NDAxMDY1NTXUNEi0TzSwNTXRNLE2MzA10TY0NTY00Vm9_e_2JsZG1FCQVKDBqCcaHeHq6GJYUppoVllrmFBWYGjCeYpQyNDe2MDQyNDQyMrI01jOxSDMrtsgrtsjNivBgDGJzczUzNHOLsuFiDg12ERSIsNxywkzaQYo5JNxFsXT18yXfe0_bazF7ugQZftB7vr3d2tI-cM_rnBP2xgvsI8NZ_kef7Dttn8RalaEbEp5xXKyAsYGRqYuRW4DRgzGCsQLIY1zFyM7FbGBkKMC0gZFxB-N_GGB8xQiyBADPmqRnDQMAAA&masterhotelid_tracelogid=100051355-0a9a6914-494270-53152&detailFilters=17|1~17~1*31|6260366~31~6260366*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=810&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/P0PLXyfG)
 
 ***
 
@@ -666,7 +667,7 @@ Jl. Pantai Kuta 上低調的四星海灘飯店，正對庫塔海灘，緊鄰 Bea
 
 💬 **住客評價**：地點和泳池吧幾乎每篇評論都被稱讚，早餐選項多且有口碑。在這個地段能用這個價格住到，算是庫塔海灘線上最值得考慮的實惠選項之一。
 
-> 2024 Agoda 遊客精選，Agoda 評價8.3⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512)
+> 2024 Agoda 遊客精選，Agoda 評價8.3⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685197&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F4-ykhc_YhBgNNO6zWfwWdDQGgeQ8B883gTvkWpmLHQJ4IqYceD6NPZE35Nj-8wyODoUMIJBQ6NDImAYCZbkOXYysYDUzGHtfam5k7D_0VSOm389hByPTCcYO7gVMrxbNZjrFwswxh-kSy1em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbINTYz0DAyAIiWJFZ4pYJ3JiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLshilhYYk5pKsQJQAvdUqF2GNbqYLr82Zzep90zX2zaTZzLzantcgNiXG5cG_uIhSk69gXLfbZPLAy_gFHRydXEytDFyswxj3ESkOzg3sXKFuIa5W5ieoG1Q1xKwdDAwMDI1NTIXNcg0TLRyCTVQNfE0sTI3EDXwsAAyNA4e-3LtSfGRtZSkKhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZmaeFqZhJlw8Xs6RIk-EHv-fZ2a0t7KeaQcBdFe9l-yRU9p-21QHKGMLnAPa9zTtgbL7CPPN7w5uu7_tP2SaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMBGJ7oZwMDAAA&masterhotelid_tracelogid=100025527-0a9a24e0-494270-800942&detailFilters=17|1~17~1*31|685197~31~685197*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1596&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q1KxlNcJ)
 
 ## The Stones Hotel – Legian Bali, Autograph Collection ⭐⭐⭐⭐⭐
 

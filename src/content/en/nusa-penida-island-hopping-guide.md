@@ -7,6 +7,7 @@ description: >-
   and our "Bali Travel Guide". Let's take a look at this adventurous and
   exploratory journey she arranged herself!
 pubDate: '2024-01-28'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2eb0a8dae04d24a5cfc262605f45386b.jpg'
 tags:
   - 自由行
@@ -18,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/65b51f59fd89780001e498d4'
 category:
   - 遊記分享
 lang: en
-_srcHash: 109bafa8dd92c0c3f6fc9d999a52dbfc
+_srcHash: b49d11d5d471bb85302ba468040d7c0f
 ---
 
 This is the exciting 6-day independent itinerary of our community member "[Sophie](https://www.facebook.com/soficia.chen)" in Bali! It combines many references from "[Xiao Jie Indonesia](https://www.youtube.com/@j_indonesia)" videos and our "Bali Travel Guide". Let's take a look at this adventurous and exploratory journey she arranged herself!

@@ -12,10 +12,11 @@ pubDate: 2024-03-14T00:00:00.000Z
 category:
   - 遊記分享
 tags: []
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4603b531b61b14e13a527e7b2492d400.jpg'
 originalUrl: 'https://vocus.cc/article/65ed5114fd89780001dcc688'
 lang: en
-_srcHash: 35d140c66bc722a429a30ac37e371d6b
+_srcHash: 49be6b493fd6c21b987e35fde6890ffc
 ---
 
 **Group member**[**Li Ly**](https://www.facebook.com/lily850711/)**and her friends just returned from their Bali trip during the rainy season and are here to share their travel experiences with us!**

@@ -22,6 +22,7 @@ tags:
   - '#長谷住宿推薦'
   - '#峇里島住宿推薦'
   - '#長谷飯店推薦'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_46f84d2dfa787caf925c192d2cb4b690.jpg'
 originalUrl: 'https://vocus.cc/article/68e51c8efd897800014e36a6'
 agoda_hotel_id: 46874759
@@ -30,7 +31,7 @@ agoda_star_rating: 5
 latitude: -8.656766891479492
 longitude: 115.13082122802734
 lang: en
-_srcHash: 38745da49908e47c0d5a5d124535c225
+_srcHash: 5e1715d4ea7de8dd606961d6baa2eb5c
 ---
 If you're searching for a destination that embraces Bali's natural beauty while offering modern conveniences, the newly opened **Holiday Inn Resort Bali Canggu By IHG** at the end of 2023 should definitely be at the top of your list. This five-star resort not only boasts an excellent location but also impresses with its thoughtful service, comprehensive facilities, and exceptional value for money, earning unanimous praise from global travelers and achieving a **9.4 overall rating** on major platforms.
 
@@ -140,7 +141,7 @@ Whether you're traveling with family, on a romantic getaway, or solo, Holiday In
 * Airport transfer service is available upon reservation, taking approximately 45–60 minutes from Ngurah Rai International Airport (DPS)
 * Agoda often offers the best booking rates
 
-> **▶**[**Holiday Inn Resort Bali Canggu Room Rates & Availability Check**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=46874759)
+> **▶**[**Holiday Inn Resort Bali Canggu Room Rates & Availability Check**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=46874759) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=113562229&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6xczFJMEk9ZmZY8q_R1PZhBiNDCQsJgs5nj0DBDPaHTz7D33ViOntcQjgaWS8vrjAluu6m8MMxq9LJputYGTcyMgFEruU7LCDkekE41TFBUzTJ90yPcXCzPGQ9RLLd6boaqXs1EolKxMdpZLMkpxUJSulJ3v7n65rfb6iVUlHKSW1OBkoBGQl5uaX5pUA2cYWZnoGBkCRksQKzxQlK2MLHaXkxJzk0pzEktSQygKgEWY6SpnFziVFmQVBqbmZJSWpQGVpiTnFqSDxoNRioEwyWFDJD2hOEVQgMz8Pot0QRSwsMac0FeIGoI1uqVA7DGt1MJ3-bFvHi027cTvd1BDF6SbGA-T02EcsTNGxn1gYfrEwNLEydLEyTGJl5piquIuVJ8jE2T8wUtdQN0rXUErO0MDAwNTQ2NRU1yDR0sLYKNFI18TSxMjMQtfQwtxMo_X80stPjI2spVinHHg-jV2BUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm5ObqZGlZZQNF3NosIug3n_Fv99MpR2kmEPCXRQnB114q9p72l6L2dMlyPCD3vPt7daW9oF7XuecsDdeYB-pcu1RMEPPafsk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUATEkw7uUCAAA&masterhotelid_tracelogid=100051355-0a9832a2-494268-1876&detailFilters=17|1~17~1*31|113562229~31~113562229*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1235&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KVi2lfgC)
 
 Ready for your Bali trip? This Holiday Inn might just be the reason you fall in love with Canggu.
 

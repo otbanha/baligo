@@ -3,6 +3,7 @@ slug: bali-family-trip-7-days
 title: 【5大2小家庭親子遊】七日六夜峇里島旅行計劃分享
 description: 呢個係一個五大二小家庭親子遊峇里島嘅精彩遊記，呢趟旅程唔單止有美食美景，更加係一段充滿溫馨同歡笑嘅家庭時光。
 pubDate: '2024-02-28'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f33a68fe346796af3ae1eba57944a396.jpg'
 tags:
   - 峇里島遊記
@@ -15,20 +16,20 @@ category:
   - 家庭親子
   - 遊記分享
 lang: zh-hk
-_srcHash: 476076a7d356687582536454cd482ce5
+_srcHash: ccb35361dba292cd3ff8bc919a891488
 ---
 
 呢篇遊記係由團友[Serena](https://www.facebook.com/100004740466944/)提供，記錄咗一個帶住兩個小朋友，五大二小家庭嘅親子遊峇里島之旅。喺呢次旅程中，佢哋同導遊兼司機小鍾Pacung Bali共度咗七日嘅美好時光。透過詳細嘅行程安排同景點推薦，佢哋探索咗峇里島嘅各個角落，品嚐咗當地嘅美食，體驗咗豐富嘅水上活動，並留下咗好多珍貴嘅回憶同美麗嘅相片。
 
 ### 2/13 14:45抵達/落腳庫塔
 
-抵達峇里島嘅第一日，我哋選擇咗位於庫塔嘅[Beachwalk Residence](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25918345)作為住宿地點，呢度有三房公寓嘅選項。
+抵達峇里島嘅第一日，我哋選擇咗位於庫塔嘅[Beachwalk Residence](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25918345) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=78158227&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PazsLFJMEktYGFo-3_nDdsQowGGvfZLH4LOtpyXV9ccLLNwdMYBLw7HQJ4IqYceD6NPfGmbWXEioOBDoUMIFBQ7NDIuEOu9XVgRYFDFyMrWM0MxsmbF6luZFzn_rBKhC_EYQcjywnGnbILmKYChU-xMHN8ZbrEspsxulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGxjc2M9AwOgSElihWcKWGdyYk5yaU5iSWpIZQHQBDMdpcxi55KizIKg1NzMkpJUoKq0xJziVJB4UGoxUCYZLKjkBzSmCCqQmZ8H0W6IIhaWmFOaCnEC0EK3VKgdhrWxj1guwp1vinD-szm9T7tnvti0mzjnm1PgfGyuN8Dl-uLSpBAsTkT2lHFt7AuW-2yfwLHzC0gu5G5iZehiZeY4xTQJSK5T2MXKFmLi5B_ueYH1hK6UvKGBgYGpobGpqa5BoqWFYYqpga6JpYmRmaWuiQWQ1Ph76N_VJ8ZG1lKQNKHAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzc3U0sjMPMqGi9nTJUjwg97z7e3WlvZSzCHhLor2sv2SK3pO22uB5AxhcoF7XuecsDdeYB9Zuvr5ku-9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAue4luBwDAAA&masterhotelid_tracelogid=100051355-0a981d50-494269-48269&detailFilters=17|1~17~1*31|78158227~31~78158227*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1056&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Smp4FEqy)作為住宿地點，呢度有三房公寓嘅選項。
 
 ![Beachwalk Residence](https://images.gobaligo.id/vocus/vocus_68b14e102298e9787b2a7c6a68effe71.jpg)
 
 Beachwalk Residence
 
-▶[Beachwalk Residence](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25918345) 訂房連結
+▶[Beachwalk Residence](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25918345) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=78158227&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PazsLFJMEktYGFo-3_nDdsQowGGvfZLH4LOtpyXV9ccLLNwdMYBLw7HQJ4IqYceD6NPfGmbWXEioOBDoUMIFBQ7NDIuEOu9XVgRYFDFyMrWM0MxsmbF6luZFzn_rBKhC_EYQcjywnGnbILmKYChU-xMHN8ZbrEspsxulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGxjc2M9AwOgSElihWcKWGdyYk5yaU5iSWpIZQHQBDMdpcxi55KizIKg1NzMkpJUoKq0xJziVJB4UGoxUCYZLKjkBzSmCCqQmZ8H0W6IIhaWmFOaCnEC0EK3VKgdhrWxj1guwp1vinD-szm9T7tnvti0mzjnm1PgfGyuN8Dl-uLSpBAsTkT2lHFt7AuW-2yfwLHzC0gu5G5iZehiZeY4xTQJSK5T2MXKFmLi5B_ueYH1hK6UvKGBgYGpobGpqa5BoqWFYYqpga6JpYmRmaWuiQWQ1Ph76N_VJ8ZG1lKQNKHAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzc3U0sjMPMqGi9nTJUjwg97z7e3WlvZSzCHhLor2sv2SK3pO22uB5AxhcoF7XuecsDdeYB9Zuvr5ku-9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAue4luBwDAAA&masterhotelid_tracelogid=100051355-0a981d50-494269-48269&detailFilters=17|1~17~1*31|78158227~31~78158227*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1056&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Smp4FEqy) 訂房連結
 
 住喺呢度樓下就係庫塔區最時髦嘅 Beachwalk Shopping Center（見底下視頻）。
 
@@ -56,13 +57,13 @@ Beachwalk Residence
 
 ### 2/15 Nusa Dua/Bali Zoo
 
-我哋轉咗住宿地點，入住咗[Hilton bali resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2484)。朝早，我哋去咗Bali zoo動物園參觀，下晝就享受咗舒服嘅spa體驗。傍晚，我哋返酒店休息放鬆。
+我哋轉咗住宿地點，入住咗[Hilton bali resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2484) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=982024&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PawMTFJMEktZKJ4_qdSe1MQoxGBvcZLbbKOx7-qhHTn9Xu4GkMAqE9DgE8Mxg7flhvZATLrEp22MHIdILxu8ICpovnXjGeYmHmuM16iWUXY3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZ5saGegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlGOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlgQZG4RlJ-ZnwfRbYAiFpaYU5oKUQm0zy0VaoVhbewjFqbo2E8sDL9YGJpYGbpYGSaxMnN8V9jFyuPr4uVjGqBrqBulayglZ2hgYGBqaGxqqmuQaGlhbJRopGtiaWJkZq5raWZiqPFz3p2LT4yNrKVYpxx4Po1dgVFLMD7E09PFsKQw1ayw1DKnqMDUgPEUo5ShubGFoZGhoZGRkaWxnolFmlmxRV6xRW5WhAdjEJuLsZOlo3mUDRdzaLCL4PLK45pWRtIOUswh4S6KH5Yf8zbvPG2vxezpEmT4Qe_59nZrS_vAPa9zTtgbL7CPrOBW0ajrOW2fxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEAC7a-N4bAgAA&masterhotelid_tracelogid=100051355-0a9832a2-494267-9641&detailFilters=17|1~17~1*31|982024~31~982024*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=893&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/oG2USzo0)。朝早，我哋去咗Bali zoo動物園參觀，下晝就享受咗舒服嘅spa體驗。傍晚，我哋返酒店休息放鬆。
 
 ![Hilton bali resort](https://images.gobaligo.id/vocus/vocus_1245036b95c4175e16fc6ca682fa3cda.jpg)
 
 峇里島希爾頓度假村
 
-▶[峇里島希爾頓度假村](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2484) 訂房連結
+▶[峇里島希爾頓度假村](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2484) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=982024&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PawMTFJMEktZKJ4_qdSe1MQoxGBvcZLbbKOx7-qhHTn9Xu4GkMAqE9DgE8Mxg7flhvZATLrEp22MHIdILxu8ICpovnXjGeYmHmuM16iWUXY3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZ5saGegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlGOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlgQZG4RlJ-ZnwfRbYAiFpaYU5oKUQm0zy0VaoVhbewjFqbo2E8sDL9YGJpYGbpYGSaxMnN8V9jFyuPr4uVjGqBrqBulayglZ2hgYGBqaGxqqmuQaGlhbJRopGtiaWJkZq5raWZiqPFz3p2LT4yNrKVYpxx4Po1dgVFLMD7E09PFsKQw1ayw1DKnqMDUgPEUo5ShubGFoZGhoZGRkaWxnolFmlmxRV6xRW5WhAdjEJuLsZOlo3mUDRdzaLCL4PLK45pWRtIOUswh4S6KH5Yf8zbvPG2vxezpEmT4Qe_59nZrS_vAPa9zTtgbL7CPrOBW0ajrOW2fxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEAC7a-N4bAgAA&masterhotelid_tracelogid=100051355-0a9832a2-494267-9641&detailFilters=17|1~17~1*31|982024~31~982024*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=893&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/oG2USzo0) 訂房連結
 
 ### 2/16 烏布
 
@@ -76,13 +77,13 @@ Beachwalk Residence
 
 ### 2/17 水明漾/金巴蘭
 
-今日，我哋搬咗去[Amarin Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2802663)（水明漾）入住，呢度係一間有3/4間睡房嘅大別墅。我哋[呢度](/blog/bali-group-villa-stay/)有介紹㗎！
+今日，我哋搬咗去[Amarin Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2802663) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=11152669&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F49TvI_fYhBgNLH4LOs6aCQT_Fjl4poGAz3KHAJ6IKQeeT2NPvGlbGbHiYKBDIQMI6Cx1aGQEK_670KGLkRWsZgbj3FsrWDcyGoOAeaPDDka2A4xsJxhX5Cxg2j5lF-spFmaOBpFLLN-ZoquVslMrlaxMdJRKMktyUpWslJ4umve0Yc_zFa1KOkopqcXJQCEgKzE3vzSvBMg2NLIw0DMwAAqVJFZ4poC1JifmJJfmJJakhlQWAI0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDthihiYYk5pakQNwAtdEuF2mFYq4Pp9Gdzep92z3yxaTeRTjenttMNiHG6cW3sIxam6NhPLAy_gBGxJqmJlaGLlZnjFNMkILkiZxcrW3BYhHmI5wXWeRcZpeQNDQwMTA2NTU11DRItEy3MLJJ1TSxNjMwsdU0NzE3MNO4da732xNjIWgoS-QqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnNzMjM3Momy4mD1dggQ_6D3f3m5taS_FHBLuomgv2y-5oue0vRZIzhAmF7jndc4Je-MF9pGlq58v-d572j6JtSpDNyQ847hYAWMDI1MXI7cAowdjBGMFkMe4ipFhAyPjDsb_MMD4ihFkOgCqjzo_AgMAAA&masterhotelid_tracelogid=100051355-0a9a868c-494269-50746&detailFilters=17|1~17~1*31|11152669~31~11152669*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1300&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/ioA64iQT)（水明漾）入住，呢度係一間有3/4間睡房嘅大別墅。我哋[呢度](/blog/bali-group-villa-stay/)有介紹㗎！
 
 ![Amarin Seminyak](https://images.gobaligo.id/vocus/vocus_05d5cd9100ad596b8c6b70a1813fac15.jpg)
 
 Amarin Seminyak
 
-▶[Amarin Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2802663) 訂房連結
+▶[Amarin Seminyak](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2802663) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=11152669&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F49TvI_fYhBgNLH4LOs6aCQT_Fjl4poGAz3KHAJ6IKQeeT2NPvGlbGbHiYKBDIQMI6Cx1aGQEK_670KGLkRWsZgbj3FsrWDcyGoOAeaPDDka2A4xsJxhX5Cxg2j5lF-spFmaOBpFLLN-ZoquVslMrlaxMdJRKMktyUpWslJ4umve0Yc_zFa1KOkopqcXJQCEgKzE3vzSvBMg2NLIw0DMwAAqVJFZ4poC1JifmJJfmJJakhlQWAI0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDthihiYYk5pakQNwAtdEuF2mFYq4Pp9Gdzep92z3yxaTeRTjenttMNiHG6cW3sIxam6NhPLAy_gBGxJqmJlaGLlZnjFNMkILkiZxcrW3BYhHmI5wXWeRcZpeQNDQwMTA2NTU11DRItEy3MLJJ1TSxNjMwsdU0NzE3MNO4da732xNjIWgoS-QqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnNzMjM3Momy4mD1dggQ_6D3f3m5taS_FHBLuomgv2y-5oue0vRZIzhAmF7jndc4Je-MF9pGlq58v-d572j6JtSpDNyQ847hYAWMDI1MXI7cAowdjBGMFkMe4ipFhAyPjDsb_MMD4ihFkOgCqjzo_AgMAAA&masterhotelid_tracelogid=100051355-0a9a868c-494269-50746&detailFilters=17|1~17~1*31|11152669~31~11152669*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1300&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/ioA64iQT) 訂房連結
 
 朝早，我哋揸車沿住藍色公路欣賞兩邊高聳岩壁嘅壯麗景色，下晝就去咗神鷹廣場參觀，同埋喺酒店附近行街購物。
 
@@ -132,7 +133,7 @@ Amarin Seminyak
 4. **烏魯瓦圖廟、海神廟、神鷹廣場**：呢幾個地方都值得一遊。烏魯瓦圖廟同海神廟景色優美，影相效果絕佳。至於神鷹廣場，如果預算充足，建議搭接駁車去雕像區，避免中暑。
 5. **烏布鞦韆**：呢度有各種娛樂設施，包括溜索同天空單車等。另外，附近仲有一間超好食嘅豬肋排炒麵餐廳，但地點有啲隱密，建議請我嘅包車司機帶路。
 6. **La Brisa**：如果要入到最入面嘅酒吧消費，記得唔好帶水下車，餐廳會要求水要全部倒咗。
-7. **Beachwalk Residence**：如果家庭出遊，建議考慮住宿喺[Beachwalk Residence](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25918345)。呢度提供家庭式整層公寓房型，行路就可以去到購物商場，距離海灘都相當近，整體性價比非常高。
+7. **Beachwalk Residence**：如果家庭出遊，建議考慮住宿喺[Beachwalk Residence](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25918345) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=78158227&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PazsLFJMEktYGFo-3_nDdsQowGGvfZLH4LOtpyXV9ccLLNwdMYBLw7HQJ4IqYceD6NPfGmbWXEioOBDoUMIFBQ7NDIuEOu9XVgRYFDFyMrWM0MxsmbF6luZFzn_rBKhC_EYQcjywnGnbILmKYChU-xMHN8ZbrEspsxulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGxjc2M9AwOgSElihWcKWGdyYk5yaU5iSWpIZQHQBDMdpcxi55KizIKg1NzMkpJUoKq0xJziVJB4UGoxUCYZLKjkBzSmCCqQmZ8H0W6IIhaWmFOaCnEC0EK3VKgdhrWxj1guwp1vinD-szm9T7tnvti0mzjnm1PgfGyuN8Dl-uLSpBAsTkT2lHFt7AuW-2yfwLHzC0gu5G5iZehiZeY4xTQJSK5T2MXKFmLi5B_ueYH1hK6UvKGBgYGpobGpqa5BoqWFYYqpga6JpYmRmaWuiQWQ1Ph76N_VJ8ZG1lKQNKHAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzc3U0sjMPMqGi9nTJUjwg97z7e3WlvZSzCHhLor2sv2SK3pO22uB5AxhcoF7XuecsDdeYB9Zuvr5ku-9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAue4luBwDAAA&masterhotelid_tracelogid=100051355-0a981d50-494269-48269&detailFilters=17|1~17~1*31|78158227~31~78158227*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1056&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Smp4FEqy)。呢度提供家庭式整層公寓房型，行路就可以去到購物商場，距離海灘都相當近，整體性價比非常高。
 8. **春節期間幾塞車㗎**，車程都比司機原先用Google地圖計算嘅預計時間多30分鐘至1個半鐘。尤其係去烏布距離比較遠，抵達嘅時間更加同預計嘅時間差更多！另外皇宮附近條路比較窄，所以塞車情況非常嚴重。
 9. **雨季嘅應變**：因為每年農曆春節期間都仲算峇里島雨季嘅高峰，怕會碰到落雨嘅朋友呢篇收藏起嚟：[峇里島雨季：旅遊峇里島碰到落雨天點算？峇里島落雨天嘅60個備案攻略](/blog/2026-bali-indoor-activities/)
 

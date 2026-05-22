@@ -14,10 +14,11 @@ tags:
   - 峇里島旅遊攻略
   - 巴里島
   - 峇里島
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0347481a7fc74e3d809741abdcae7aa0.jpg'
 originalUrl: 'https://vocus.cc/article/6944cda7fd89780001d0907a'
 lang: zh-cn
-_srcHash: 459550e4819098ae72030cfc4d1436b0
+_srcHash: 4dbd4f399af0199de4f8879f934e28f7
 ---
 
 > 以下游记由 [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/) 提供, 并同意我们润饰重新编辑
@@ -102,13 +103,13 @@ _srcHash: 459550e4819098ae72030cfc4d1436b0
 
 - **景点行程**：换汇、金巴兰落日
 - **餐饮**：晚餐 malafi cafe jimbaran
-- **住宿**：[Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952)
+- **住宿**：[Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=684981&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGF4_ShL1fZhBgNLH4LOr4J3CHXerrJwVO-9XXgjrx2hwCeiCkHnk9jT2wO9JzbcCjQoZABBCr6HRoZ00DgWKdDFyMrWM0Mxq3PNTcynj0DBD1JDjsYmQ4wMp1gXCK9gOncgepTLMwcm1gvsXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2MRUz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQbooiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3cS53JzaLjcgxuXGtbGPWJiiYz-xMPwCRsNhlSZWhi5WZo5TTJOA5BLpXaxswR6uHu5uF1g3OknJGxoYGJgaGpua6hokWlokGSca6JpYmhiZG-gaGZgaWWr8-jL5-hNjI2spSLwrMGoJxod4eroYlhSmmhWWWuYUFZgaMJ5ilDI0N7YwNDI0NDIysjTWM7FIMyu2yCu2yM2K8GAMYnNyNbRwdI6y4WL2dAkS_KD3fHu7taW9FHNIuIti6ernS773nrbXAskZwuQC97zOOWFvvMA-EiafxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIsIGRcQfjfxhgfMUIMh0Av-tkWP0CAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494270-20529&detailFilters=17|1~17~1*31|684981~31~684981*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=576&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/F9KK4zi1)
 
 抵达巴厘岛后，Betty 已举牌在机场等候，亲切的笑容瞬间消解了长途飞行的疲惫。我们先前往 villa 放行李，接着直奔 **金巴兰海滩**。23年过去，金巴兰的日落依然壮丽如画，沙滩上整齐排列的海鲜烧烤摊飘来阵阵香气。晚餐在 **malafi cafe jimbaran** 享用新鲜海鲜，搭配现场乐队演奏，全家围坐在沙滩上，脚踩细沙，眼前是橘红色的日落海景，幸福感满满。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3e474fcc7e6a5290032324cbaa76ba48.png)
 
-前两晚我们的住宿villa提供一房～4房的选项，有需要的朋友可以参考 [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952)
+前两晚我们的住宿villa提供一房～4房的选项，有需要的朋友可以参考 [Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=684981&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGF4_ShL1fZhBgNLH4LOr4J3CHXerrJwVO-9XXgjrx2hwCeiCkHnk9jT2wO9JzbcCjQoZABBCr6HRoZ00DgWKdDFyMrWM0Mxq3PNTcynj0DBD1JDjsYmQ4wMp1gXCK9gOncgepTLMwcm1gvsXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2MRUz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQbooiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3cS53JzaLjcgxuXGtbGPWJiiYz-xMPwCRsNhlSZWhi5WZo5TTJOA5BLpXaxswR6uHu5uF1g3OknJGxoYGJgaGpua6hokWlokGSca6JpYmhiZG-gaGZgaWWr8-jL5-hNjI2spSLwrMGoJxod4eroYlhSmmhWWWuYUFZgaMJ5ilDI0N7YwNDI0NDIysjTWM7FIMyu2yCu2yM2K8GAMYnNyNbRwdI6y4WL2dAkS_KD3fHu7taW9FHNIuIti6ernS773nrbXAskZwuQC97zOOWFvvMA-EiafxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIsIGRcQfjfxhgfMUIMh0Av-tkWP0CAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494270-20529&detailFilters=17|1~17~1*31|684981~31~684981*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=576&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/F9KK4zi1)
 
 {{block:jim}}
 
@@ -118,7 +119,7 @@ _srcHash: 459550e4819098ae72030cfc4d1436b0
 
 - **景点行程**：水上活动、蓝色断崖公路、乌鲁瓦图庙、Sakar Jepun Spa
 - **餐饮**：午餐 WARUNG LAOTA、晚餐在酒店附近的市集解决
-- **住宿**：[Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952)
+- **住宿**：[Lumbini Luxury Villas and Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=432952) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=684981&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGF4_ShL1fZhBgNLH4LOr4J3CHXerrJwVO-9XXgjrx2hwCeiCkHnk9jT2wO9JzbcCjQoZABBCr6HRoZ00DgWKdDFyMrWM0Mxq3PNTcynj0DBD1JDjsYmQ4wMp1gXCK9gOncgepTLMwcm1gvsXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb2MRUz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQbooiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3cS53JzaLjcgxuXGtbGPWJiiYz-xMPwCRsNhlSZWhi5WZo5TTJOA5BLpXaxswR6uHu5uF1g3OknJGxoYGJgaGpua6hokWlokGSca6JpYmhiZG-gaGZgaWWr8-jL5-hNjI2spSLwrMGoJxod4eroYlhSmmhWWWuYUFZgaMJ5ilDI0N7YwNDI0NDIysjTWM7FIMyu2yCu2yM2K8GAMYnNyNbRwdI6y4WL2dAkS_KD3fHu7taW9FHNIuIti6ernS773nrbXAskZwuQC97zOOWFvvMA-EiafxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIsIGRcQfjfxhgfMUIMh0Av-tkWP0CAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494270-20529&detailFilters=17|1~17~1*31|684981~31~684981*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=576&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/F9KK4zi1)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f24fff8b05526923028a41d85303f88f.jpg)
 
@@ -170,11 +171,11 @@ Betty 带我们沿着 **蓝色断崖公路** 前行，湛蓝的海水与陡峭
 
 - **景点行程**：Bali Handara Cafe、水明漾大街、Beachwalk Shopping Center、SPA
 - **餐饮**：午餐 Secret Garden 餐厅、晚餐在 Beachwalk shopping center 解决
-- **住宿**：[Sheraton Bali Kuta Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502)
+- **住宿**：[Sheraton Bali Kuta Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987824&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zszFJMEk9YGZY-mso0_ZhBiNDDgtPgk6nj0DBEZtDp5c1xcX2N7pcgjgaWS0BXFqXR1mMG5YarOCkXEj4zeNmP5DS5McdjAynWCcJb-A6ezKV8ynWJg5trJeYvnKFF2tlJ1aqWRloqNUklmSk6pkpfR00bynDXuer2hV0lFKSS1OBgoBWYm5-aV5JUC2sbGBnoEBUKQkscIzBawzOTEnuTQnsSQ1pLIAaIKZjlJmsXNJUWZBUGpuZklJKlBVWmJOcSpIPCi1GCiTDBZU8gMaUwQVyMzPg2g3QBELS8wpTYU4AWihWyrUDsNaHUyXP5vT-7R75otNu3G43MwYxeXmA-Jy49rYRyxM0bGfWBh-sTA0sTJ0sTJMYmXmmCW_i5UnxNTfzdlX11A3StdQSt7QwMDA1NDY1FTXINHSwtgo0UjXxNLEyMxM19TCzNhUY9nO7xeeGBtZS7FOOfB8GrsCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNjMLcxMDiygbLmZPlyDBD3rPt7dbW9pLMYeEuyh-WH7M27zztL0WSM4QJhe453XOCXvjBfaRMPkk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUAY6Xp_uMCAAA&masterhotelid_tracelogid=100051355-0a9832a2-494266-58635&detailFilters=17|1~17~1*31|987824~31~987824*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=225&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/q7Xyh0DQ)
 
 https://youtu.be/IReL1ztxL7c
 
-最后一天安排轻松的逛街行程。**水明漾大街** 与 **Beachwalk Shopping Center** 聚集了许多国际品牌与当地特色小店，我们住宿的[库塔喜来登](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502)就在 Beachwalk Shopping Center 的楼上，我们在这里采购纪念品与伴手礼。傍晚再次享受一次 **SPA**，为旅程画下完美句点。
+最后一天安排轻松的逛街行程。**水明漾大街** 与 **Beachwalk Shopping Center** 聚集了许多国际品牌与当地特色小店，我们住宿的[库塔喜来登](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987824&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zszFJMEk9YGZY-mso0_ZhBiNDDgtPgk6nj0DBEZtDp5c1xcX2N7pcgjgaWS0BXFqXR1mMG5YarOCkXEj4zeNmP5DS5McdjAynWCcJb-A6ezKV8ynWJg5trJeYvnKFF2tlJ1aqWRloqNUklmSk6pkpfR00bynDXuer2hV0lFKSS1OBgoBWYm5-aV5JUC2sbGBnoEBUKQkscIzBawzOTEnuTQnsSQ1pLIAaIKZjlJmsXNJUWZBUGpuZklJKlBVWmJOcSpIPCi1GCiTDBZU8gMaUwQVyMzPg2g3QBELS8wpTYU4AWihWyrUDsNaHUyXP5vT-7R75otNu3G43MwYxeXmA-Jy49rYRyxM0bGfWBh-sTA0sTJ0sTJMYmXmmCW_i5UnxNTfzdlX11A3StdQSt7QwMDA1NDY1FTXINHSwtgo0UjXxNLEyMxM19TCzNhUY9nO7xeeGBtZS7FOOfB8GrsCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNjMLcxMDiygbLmZPlyDBD3rPt7dbW9pLMYeEuyh-WH7M27zztL0WSM4QJhe453XOCXvjBfaRMPkk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUAY6Xp_uMCAAA&masterhotelid_tracelogid=100051355-0a9832a2-494266-58635&detailFilters=17|1~17~1*31|987824~31~987824*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=225&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/q7Xyh0DQ)就在 Beachwalk Shopping Center 的楼上，我们在这里采购纪念品与伴手礼。傍晚再次享受一次 **SPA**，为旅程画下完美句点。
 
 {{block:smk}}
 

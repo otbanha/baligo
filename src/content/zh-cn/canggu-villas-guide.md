@@ -34,10 +34,11 @@ tags:
   - Canggu digital nomad villas
   - Instagrammable villas Canggu
   - Canggu family villas Bali
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1df50220c0720a4945c5f8ac4e04e1b8.jpg'
 originalUrl: 'https://vocus.cc/article/66b20b15fd89780001ceef6b'
 lang: zh-cn
-_srcHash: 485bb33957ba68f0a14742d869c13553
+_srcHash: 26e80f9a03e142f6bceaaff0351481e3
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6f27ffb5a965c9d638d2f4bf13cbe008.jpg)
@@ -72,7 +73,7 @@ ZIN Resort & Villas这家四星住宿位于Canggu的中心，拥有绝佳的地�
 
 **客房** | 客房设施齐全，提供舒适的住宿环境，并且设有多种活动选择，如健身课程、武术、舞蹈和拳击课程。当需要放松时，河畔水疗中心提供精致的放松体验。
 
-> ▶[ZIN Canggu Resort & Villas 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34850151)
+> ▶[ZIN Canggu Resort & Villas 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34850151) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=23962763&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6wczFJMEk9ZGZ4_7E5jlsQuyGpmYGhgZGBoe5LFalO-6Qa30d-KfSwZMBBLbUOwTwzGDsPrmNeyOjPFBmx70whx2MTAcYmU4wbhVawPSsY6fVKRZmjlXMl1i-MkVXK2WnVipZmegolWSW5KQqWSk9m9P7tHvmi027lXSUUlKLk4FCQFZibn5pXgmQbWRorGdgABQpSazwTFGyMtdRSk7MSS7NSSxJDaksAJpgpqOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFlfyAxhRBBTLz8yDaDVDEwhJzSlMhTgBa6JYKtcO4VgfT5U8XzXvasOf5ilbiXG5CbZcbEuNyw9rYRyxM0bGfWBh-sTA0sTJ0sTJMYmXm2Cq0i5U_KCrM39dSN9ws0lU3StdQSt7QwMDA1NDY1FTXINEy0dQ42VDXxNLEyNxA18zU3NhAY_PSyTeeGBtZS7FOOfB8GrsCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNjcDV2dTlygbLmZPlyDBD3rPt7dbW9pLMYeEuyiWrn6-5HvvaXstkJwhTC5wz-ucE_bGC-wjTz3QqCztO22fxFqVoRsSnnFcrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEAIgUbBLkAgAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-65730&detailFilters=17|1~17~1*31|23962763~31~23962763*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1176&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/v8XYuX6B)
 
 ## 2️⃣ Kharista Villas & Retreat – 豪华传统住宿体验的Canggu别墅
 
@@ -216,7 +217,7 @@ Theanna Villa and Spa的坎古精品别墅提供高端的室内设计和卓越�
 
 **客房** | 卧室的装潢混合了巴厘岛、日式和Scandinavian的颜色和设计。每间客房提供双人床或单人床、软椅和迷你吧。
 
-> ▶[Theanna Villa and Spa 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1203712)
+> ▶[Theanna Villa and Spa 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1203712) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=7596238&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6w8zFJMEk9ZSZ43HDxSMsQoxGBjv4LfqyHeVbXwfueNLt4Fktss79IfNEhwCeGYznLp5n3sgY03_oq0ZPhsMORqYTjIfVFzBtX7xI9hQLM8cE9kssX5miq5WyUyuVrEx0lEoyS3JSlayUns3pfdo988Wm3Uo6SimpxclAISArMTe_NK8EyDYxNdMzMACKlCRWeKYoWZnrKCUn5iSX5iSWpIZUFgBNMNNRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgkp-QGOKoAKZ-XkQ7QYoYmGJOaWpECcALXRLhdphXKuD6fKni-Y9bdjzfEUrcS43obbLDYlxuWFt7CMWpujYTywMv1gYmlgZulgZJrEycxxW38XK4-USYGzpqGuoG6VrKCVvaGBgYGpobGqqa5BoaZFknGiga2JpYmRuoGtuYGZgojFpypIbT4yNrKVYpxx4Po1dgVFLMD7E09PFsKQw1ayw1DKnqMDUgPEUo5ShubGFoZGhoZGRkaWxnolFmlmxRV6xRW5WhAdjEJuFm5GZm2WUDRdzaLCLoECE5ZYTZtIOUswh4S6KpaufL_nee9pei9nTJcjwg97z7e3WlvaBe17nnLA3XmAfeeqBRmVp32n7JNaqDN2Q8Ixe8QLGBkamLkZuAUYPxgjGCiCPcRUjOxezgZGhANMGRsYdjP9hgPEVI8gSAOSeHzHYAgAA&masterhotelid_tracelogid=100051355-0a98b3a0-494270-70604&detailFilters=17|1~17~1*31|7596238~31~7596238*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=224&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/gaREzIJE)
 
 ## 8️⃣ The Clifton Canggu Villas – 最适合情侣的精品别墅
 
@@ -285,7 +286,7 @@ Clifton Canggu Villas提供舒适且豪华的别墅，地处绝佳中心位置�
 
 **客房** | 客房装饰浪漫，设有舒适的床铺和现代设施，为情侣提供一个舒适的度假环境。
 
-> ▶[Shore Amora 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7223142)
+> ▶[Shore Amora 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7223142) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=40708610&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zczFJMEk9YWZ49H5nUfYhNgNTc0MDA2MDA5zWaxKdzz8VSOmP6nWwfPsGSB40-gQwDODsenKFuEVjIwbGWP6D33VuBPpsIOR6QAj0wnGlyILmL5tOmd3ioWZ4wHzJZavTNHVStmplUpWJjpKJZklOalKVkpPF8172rDn-YpWJR2llNTiZKAQkJWYm1-aVwJkG5kY6BkYAEVKEis8U8A6kxNzkktzEktSQyoLgCaY6ShlFjuXFGUWBKXmZpaUpAJVpSXmFKeCxINSi4EyyWBBJT-gMUVQgcz8PIh2QxSxsMSc0lSIE4AWuqVC7TCs1cF0-bM5vU-7Z77YtJs4l5tT2-UGxLjcuDb2EQtTdOwnFoZfLAxNrAxdrAyTWJk5XorsYuUPNjaKjAjUDTeLdNWN0jWUUjQ0MDAwMjU1Mtc1SLS0MExJNNQ1sTQxMjfQBQoaGBoaaGx8NvPGE2MjaynWKQeeT2NXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxGZmamFuYhZlw8Xs6RIk-EHv-fZ2a0t7KeaQcBfF0tXPl3zvPW2vBZIzhMkF7nmdc8LeeIF95KkHGpWlfaftk1irMnRDwjN6xQsYGxiZuhi5BRg9GCMYK4A8xlWM7FzMBkaGAkwbGBl3MP6HAcZXjCBLAEQ5p0LpAgAA&masterhotelid_tracelogid=100025527-0a981da1-494270-5520110&detailFilters=17|1~17~1*31|40708610~31~40708610*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1035&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Dso8adAE)
 
 ## 1️⃣1️⃣ La Rose Villas and Suites Camp – 令人惊艳的Canggu别墅
 

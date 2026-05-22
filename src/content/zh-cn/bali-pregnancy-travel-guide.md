@@ -3,6 +3,7 @@ slug: bali-pregnancy-travel-guide
 title: 怀孕三个月的巴厘岛之旅：轻松Chill的度假攻略
 description: 这次的巴厘岛5天4夜自由行对我来说是充满期待的初体验！我们去了沙努尔、蓝梦岛、乌布、坎古等地，大家可以参考包车司机提供的最佳行程安排喔！
 pubDate: '2024-11-14'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d151d1fea806eec12fad19726e274b45.jpg'
 tags:
   - 峇里島自由行
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/670e6cb5fd89780001b3de2d'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: c569d4d5d7212ee3793bacc24f96c8b5
+_srcHash: d1f9f10ce9e8bcb9e76f80880fcd4bf9
 ---
 
 > 以下内容改编自团友 [刘惠慈](https://www.facebook.com/share/p/UxWzce2FRdK2gmsT/) 分享游记：
@@ -80,7 +81,7 @@ _srcHash: c569d4d5d7212ee3793bacc24f96c8b5
 
 **入住：Maison Aurelia Sanur, Bali by ​​Preference**
 
-➡️ [**Maison Aurelia Sanur 房价 & 空房查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1294268)
+➡️ [**Maison Aurelia Sanur 房价 & 空房查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1294268) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6024011&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaysLFJMEk1cfC0Xp9lqgQo4HFb0FHBhAoKXXwnDUTCEKrHAJ4IqYceD6NPfHFvcOqx0vdHQrBSg6EODQyGoPA5ECHLkZWsJoZjKevvWfayJgGAm3BDjsYmU4wLudfwNR65T3TKRZmjldMl1i-MkVXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWhhqGdgABQpSazwTAHrTE7MSS7NSSxJDaksAJpgpqOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFlfyAxhRBBTLz8yDaDVHEwhJzSlMhTgBa6JYKtcOwVgfT5c_m9D7tnvli027iXG5ObZcbEONy49rYRyxM0bGfWBh-AaOhkbmJlaGLlZnjFuMkILmcfxcra6C7d7jTBdYmESl5QwMDA1NDY1NTXYNEy0QLM4tkXRNLEyNzA11DMzNTU41v_Z3XnxgbWUtBYl2BUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4WZo6Gja5QNF7OnS5DgB73n29utLe2lmEPCXRRLVz9f8r33tL0WSM4QJhe453XOCXvjBfaRMPkk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkaGDYyMOxj_wwDjK0aQ6QCpFEtY-gIAAA&masterhotelid_tracelogid=100051355-0a9a868c-494270-16655&detailFilters=17|1~17~1*31|6024011~31~6024011*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=130&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/XNwjIsZ7)
 
 晚餐后，我们入住了沙努尔的Maison Aurelia酒店。这家酒店的氛围非常舒适，装潢典雅，位置也相当便利，让人一进房间就感受到放松的度假氛围。晚上可以好好休息，为明天的行程养足精神。
 

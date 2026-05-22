@@ -31,10 +31,11 @@ tags:
   - Adiwana Suweta Ubud boutique villa
   - Ubud nature retreat boutique accommodation
   - Top rated boutique resort Ubud Bali
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e83815f043de07c9decfbf014a7cc5e5.jpg'
 originalUrl: 'https://vocus.cc/article/67a813d4fd8978000165ae91'
 lang: en
-_srcHash: bfe01f0bcd16a777db81efcc949b5314
+_srcHash: bdcb651c57f8bf8cf8051eb690815f3c
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_eeb44772338cef2351250be97f6b6087.jpg)
@@ -93,7 +94,7 @@ Since its opening in 2021, Adiwana Suweta has quickly become **a favorite among 
 
 📍 Starting from **$145** per night
 
-> ▶[**Agoda Special Rate**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22016379)
+> ▶[**Agoda Special Rate**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22016379) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=75220031&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJ4_j22d-YhRgNLH4LOsq3vg7codTk4Hn4q0ZMf1KLQwBPxJQDz6exJ960rYxYcTDQoZABBDa0OzQyghWLtDh0MbKC1cxg3N_xXnkjRPxfoMMORqYDjEwnGB-LL2A6BJQ5xcLMcY7pEstuxuhqpezUSiUrEx2lksySnFQlK6Wni-Y9bdjzfEWrko5SSmpxMlAIyErMzS_NKwGyjY1N9AwMgCIliRWeKWCdyYk5yaU5iSWpIZUFQBPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7IYpYWGJOaSrECUAL3VKhdhjWxj5iYYqO_cTC8AvomV3STawMXazMHKeYJgHJx-K7WNnczQxNo5wvsD43lZI3NDAwMDU0NjXVNUi0TLQws0jWNbE0MTKz1DUxMjAy0Vjx7M3VJ8ZG1lKQ8FNg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjE5mRkYWFuEWXDxezpEiT4Qe_59nZrS3sp5pBwF0V72X7JFT2n7bVAcoYwucA9r3NO2BsvsI8sXf18yffe0_ZJrFUZuiHhGcfFChgbGJm6GLkFGD0YIxgrgDzGVYwMGxgZdzD-hwHGV4wg0wHYUpewRQIAAA&masterhotelid_tracelogid=100051355-0a9a868c-494269-42024&detailFilters=17|1~17~1*31|75220031~31~75220031*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1215&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/FPtmm4em)
 
 Explore more Ubud hotel recommendations: [Ubud Unique Stays: Experience the Magic of Bali’s Mountainous Landscape!](/blog/ubud-villas-pool-guide/)
 
@@ -171,7 +172,7 @@ This resort is also a top choice for **photographers, travel bloggers, and Holly
 
 📍 **Premier Room**: Starting from **$248** per night
 
-> ▶[**Check Agoda Special Offers**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=921981)
+> ▶[**Check Agoda Special Offers**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=921981) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=3767975&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6y8TFJMEkdY2Jo2_2nwlMQsyGBkYaG_kMHjBabJV39HhYJbJOerKDpy3X9cUF86Y7BPBETDnwfBp7Ilhgf6BDFyMrWGAG4_K_Txk3MgJFbbm4ixx2MDIdYGQ6wfjZbAHTns0vGE-xMHPs47rEspsxulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGxDYxMjPQMDoFBJYoVnClhrcmJOcmlOYklqSGUB0AgjHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSwIMrgIys_Mz4PoNkARC0vMKU2FqATa55YKtcKwNvYRC1N07AuWjXyfWBh-sTA0sTJ0sTJznGKaBCQ_m-1i5fU1Dw729tA1DNGN0jW8wHrSTkre0MDAwNTQ2NRU1yDR0sLY1MRc18TSxMjMTNfCwsDMROPjhQMXnxgbWUtBwlGBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm4G5sbmbWZQNF3NosIvg8srjmlZG0g5SzCHhLooflh_zNu88ba_F7OkSZPhB7_n2dmtL-8A9r3NO2BsvsI-s4FbRqOs5bZ_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQArkCaE0kCAAA&masterhotelid_tracelogid=100051355-0a983547-494266-88064&detailFilters=17|1~17~1*31|3767975~31~3767975*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=182&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/jXjvsGlV)
 
 ## **🏆 How Are the World's Best Hotels Selected?**
 
