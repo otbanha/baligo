@@ -20,6 +20,7 @@ import re
 import sys
 import requests
 from datetime import date, timedelta
+from html.parser import HTMLParser
 
 # ── 設定 ──────────────────────────────────────────────────────────────────────
 SCRIPT_DIR      = os.path.dirname(os.path.abspath(__file__))
@@ -48,7 +49,43 @@ NEWS_CATEGORIES = [
 ]
 
 
+FESTIVAL_GUIDE_URL = "https://gobaligo.id/blog/2026-bali-festival-guide/"
+
+
 # ── 工具函式 ──────────────────────────────────────────────────────────────────
+
+def fetch_festival_guide() -> str:
+    """抓取 gobaligo.id 節慶日期指南，回傳純文字供 Gemini 查證"""
+    class _TextExtractor(HTMLParser):
+        def __init__(self):
+            super().__init__()
+            self.parts = []
+            self._skip = False
+
+        def handle_starttag(self, tag, attrs):
+            if tag in ("script", "style", "nav", "footer", "header"):
+                self._skip = True
+
+        def handle_endtag(self, tag):
+            if tag in ("script", "style", "nav", "footer", "header"):
+                self._skip = False
+
+        def handle_data(self, data):
+            if not self._skip and data.strip():
+                self.parts.append(data.strip())
+
+    try:
+        resp = requests.get(FESTIVAL_GUIDE_URL, timeout=15)
+        resp.raise_for_status()
+        extractor = _TextExtractor()
+        extractor.feed(resp.text)
+        text = "\n".join(extractor.parts)
+        # 只保留含節慶資訊的段落（約 6000 字元以內）
+        return text[:6000]
+    except Exception as e:
+        print(f"   ⚠️ 無法抓取節慶指南（{e}），Gemini 將自行判斷")
+        return ""
+
 
 def load_history() -> dict:
     if os.path.exists(HISTORY_FILE):
@@ -73,12 +110,13 @@ def get_recent_topics(history: dict) -> list:
     return topics
 
 
-def build_prompt(recent_topics: list) -> str:
+def build_prompt(recent_topics: list, festival_guide: str = "") -> str:
     today      = date.today()
     tomorrow   = today + timedelta(days=1)
     today_str  = today.strftime("%Y 年 %m 月 %d 日")
     pub_date   = tomorrow.strftime("%Y/%m/%d")
-    recent_str = "、".join(recent_topics[:20]) if recent_topics else "（無）"
+    recent_str     = "、".join(recent_topics[:20]) if recent_topics else "（無）"
+    festival_section = festival_guide if festival_guide else "（無法取得，請保守處理節慶日期）"
 
     return f"""你是一位專業的峇里島旅遊媒體編輯，每天為華語旅客（台灣、香港、新加坡、馬來西亞）整理最新的峇里島旅遊話題與新聞資訊。
 
@@ -94,12 +132,17 @@ def build_prompt(recent_topics: list) -> str:
 - 季節性資訊、近期事件、節慶活動
 語氣友善，適合一般華語旅客閱讀，全文使用繁體中文。
 
-**⚠️ 重要：節慶與活動日期必須仔細查證**
+**⚠️ 重要：節慶與活動日期必須以下方參考資料為準**
 節慶相關內容（如印度教節日、峇里島傳統慶典、印尼國定假日等）的日期容易出錯。
-若無法確定確切日期，請：
-1. 只寫「約在 X 月」或「每年 X 月至 X 月間」等模糊描述
-2. 不要捏造或猜測具體日期
-3. 建議讀者出發前自行向當地旅遊局或住宿確認
+請務必對照下方「2026 峇里島節慶日期參考」查證，不得憑記憶猜測。
+若參考資料中找不到該節慶，請只寫「約在 X 月」等模糊描述，不要捏造日期。
+
+---
+
+**2026 峇里島節慶日期參考（來源：gobaligo.id，請以此為準）：**
+{festival_section}
+
+---
 
 **近期已出現過的話題（請避免重複，選擇不同角度）：**
 {recent_str}
@@ -269,8 +312,13 @@ def main():
     recent_topics = get_recent_topics(history)
     print(f"   近 7 天已有 {len(recent_topics)} 個話題記錄")
 
+    print("📅 抓取節慶日期指南...")
+    festival_guide = fetch_festival_guide()
+    if festival_guide:
+        print(f"   ✅ 取得節慶資料（{len(festival_guide)} 字元）")
+
     print("🤖 呼叫 Gemini API...")
-    prompt   = build_prompt(recent_topics)
+    prompt   = build_prompt(recent_topics, festival_guide)
     raw_text = call_gemini(api_key, prompt)
 
     print("🔍 解析輸出...")
