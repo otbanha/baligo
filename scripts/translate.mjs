@@ -122,6 +122,7 @@ function contentHash(text) {
   const stripped = text
     .replace(/^heroImage:.*$/m, 'heroImage: __img__')
     .replace(/^slug:.*$/m, 'slug: __slug__')
+    .replace(/^update:\d{4}\/\d{2}\/\d{2}\s*$/gm, '')
     .replace(/^!\[.*?\]\(.*?\)\s*$/gm, '');
   return md5(stripped);
 }
@@ -170,6 +171,12 @@ function segmentBody(body) {
     // 純圖片行
     if (/^!\[.*?\]\(.*?\)$/.test(trimmed)) {
       segments.push({ type: 'image', content: para });
+      continue;
+    }
+
+    // update: 日期行（不翻譯，直接保留）
+    if (/^update:\d{4}\/\d{2}\/\d{2}$/.test(trimmed)) {
+      segments.push({ type: 'code', content: para });
       continue;
     }
 
