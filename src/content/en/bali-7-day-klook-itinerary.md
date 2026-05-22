@@ -11,6 +11,7 @@ description: >-
   the ultimate 'sleep on the bus, take photos at stops' experience. I want to
   share this with fellow travelers who also want to explore Bali effortlessly.
 pubDate: '2025-05-20'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_49f9c36a21512cf66bd91a77ff53d389.png'
 tags:
   - 峇里島
@@ -22,7 +23,7 @@ originalUrl: 'https://vocus.cc/article/682c01fffd8978000182fc13'
 category:
   - 遊記分享
 lang: en
-_srcHash: 92b7b1c5d5c9c211d6906f3d426f9926
+_srcHash: a61d52ba88ca58906a5cdf8ecc83687d
 ---
 If you're like me - not keen on spending too much time planning but still want to experience all of Bali's beauty - I highly recommend adding Klook day tours to your itinerary! During our 7-day 6-night Bali trip, we booked three Klook day tours (Day 2, Day 4, Day 6), each one was relaxing yet exciting - truly the ultimate 'sleep on the bus, take photos at stops' experience. I want to share this with fellow travelers who also want to explore Bali effortlessly ❤️
 
@@ -36,7 +37,7 @@ After arriving at Denpasar Airport, we took our pre-booked airport transfer to o
 
 We stayed at Griya Santrian, a beachfront resort where you can walk from the pool straight onto the sand - perfect for water lovers and beach enthusiasts. The architecture maintains traditional Balinese style, with tranquil garden landscapes. The hotel also offers SPA, yoga classes, and ocean-view restaurants, ideal for travelers wanting to enjoy the 'slow life' charm of Sanur.
 
-> ➡️ [**Griya Santrian a Beach Resort Room Rates & Availability**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10336)
+> ➡️ [**Griya Santrian a Beach Resort Room Rates & Availability**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10336) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685091&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxMLFJMEk1c3CsXTJrZNsQsyGBkYGj9gsLhg6Xl9cYMul3e7gefirRkz_oR6HAJ6IKQeeT2NP5OyST353JNChi5EVLDCDcfELzRWMjBsZ17k_rBKJS3PYwch0gJHpBONWxQVMdyessz_Fwsyxj-0Sy1em6Gql7NRKJSsTHaWSzJKcVCUrpWdzep92z3yxabeSjlJKanEyUAjISszNL80rAbJNDE31DAyAIiWJFZ4pSlbmOkrJiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLsBilhYYk5pKsQJQAvdUqF2GNfqYLr86aJ5Txv2PF_RSpzLTajtckNiXG5YG_uIhSk69hMLwy8WhiZWhi5WZo5TTJOA5FbFXay8wa4Rxv7huoYhulG6hhdY_ytLKRoaGBgYmZoamesaJFpaGJmkpuqaWJoYWZrqGpkYGBqZmWt8-76i6amxkbUUJAUoMGoJxod4eroYlhSmmhWWWuYUFZgaMJ5ilDI0N7YwNDI0NDIysjTWM7FIMyu2yCu2yM2K8GAMYnM2MbV0c4qy4WIODXYR7D8ETGn60g5SzCHhLopBLm2heyaettdi9nQJMrz3nyVXW9nSPtDiixj_e8sF9pEP0mMsBCadtk9ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMbJzMRsYGQowbWBk3MH4HwYYXzGCLAEA6DBSVgADAAA&masterhotelid_tracelogid=100025527-0a9824ee-494295-2401267&detailFilters=17|1~17~1*31|685091~31~685091*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=375&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/PAFloKEn)
 
 On our first day, we chose to take it easy, exploring the nearby beach and shopping areas. Bali's tropical atmosphere and sea breeze immediately put us in vacation mode～
 
@@ -83,7 +84,7 @@ Ubud is the cultural heart of Bali, surrounded by rice fields, forests, and trad
 
 How can you visit Bali without enjoying a villa!? We stayed at Ayuterra Resort, a villa where I couldn't tear myself away from the pool🏞️. The room was stylish and spacious, with a private infinity pool overlooking the Ayung River gorge—every moment felt like a postcard📸. Soaking in the pool under the stars at night and waking up to birdsong in the morning made it the most relaxing and romantic night of my Ubud trip❤️. Highly recommended for honeymooners or couples celebrating special occasions!
 
-> 👉[**Ayuterra Resort Room Rates & Availability**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1637022)
+> 👉[**Ayuterra Resort Room Rates & Availability**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1637022) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=9056301&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6y8TFJMEkdY2JY-XNFSdYhZgNDYw07rMZ3Ge02CrvKLLO_WHViT4Hz0JbruuLL05yCOCJmHLg-TT2RK_qZn2fI4EOXYysYIEZjGsfrGDZyGgMAtnZDjsYmQ4wMp1gvKu9gOnWizfcp1iYOX6zX2LZzRhdrZSdWqlkZaKjVJJZkpOqZKX0dNG8pw17nq9oVdJRSkktTgYKAVmJufmleSVAtqGBoaWegQFQqCSxwjMFrDU5MSe5NCexJDWksgBohJGOUmaxc0lRZkFQam5mSUkqUFVaYk5xKkg8KLUYKJMMFgQZXATlZ-bnQXQboIiFJeaUpkJUAu1zS4VaYVgb-4iFKTr2Bct9tk8sDL9YGJpYGbpYmTlOMU0Ckne1d7Hy-vmbmHr56hqG6EbpGl5gXWMspWhoYGBgZGpqZK5rkGiZaJGakqJrYmliZGmia2JhaGRuYaJx5NTSxqfGRtZSkJBUYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobgzUYmhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmTg6mpqFmXDxRwa7CL4XHb5Cw89aQcp5pBwF8WVN5nXHphw2l6L2dMlyPDef5ZcbWVL-0CLL2L87y0X2EcGubSF7pl42j6JtSpDNyQ8o1e8gLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAcqVk9EsCAAA&masterhotelid_tracelogid=100025527-0a9a8edd-494294-4812784&detailFilters=17|1~17~1*31|9056301~31~9056301*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=882&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/0xcNRC9t)
 
 ---
 

@@ -11,10 +11,11 @@ tags:
   - 峇里島遊記
   - 巴里島遊記
   - 烏布
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9a3dbb0d78806081cfc5710ec96cbf05.jpg'
 originalUrl: 'https://vocus.cc/article/6688b074fd897800017bd1d5'
 lang: en
-_srcHash: cd11e0fabeeb74f6b85c10fff16e7c45
+_srcHash: a7cce4e15453a19b7f0ccecdc1767aa1
 ---
 
 > The following content was provided by fellow traveler [Winnie Lin](https://www.facebook.com/winnie.lin.566/) and adapted with her permission
@@ -31,7 +32,7 @@ When in Bali, staying in a villa like this is a must! The reception staff were e
 
 After dining out for dinner, we returned to find that the reception staff had thoughtfully lit mosquito coils for us, ensuring a peaceful night's sleep. This is truly a place that makes you want to linger, and I would definitely return ❤️.
 
-> Book The Citta Luxury Residence: [Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=165208)
+> Book The Citta Luxury Residence: [Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=165208) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=687634&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLQ0NjUzMdQ1sTQxsjTVNTIwNjXUePClvempsZGBlmB8iKeni2FJYapZYallTlGB6SlGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNldDR0dX4yg-KeaQcBfFlTeZ1x6YcNo-ibUqQzckPKNXHABi8tGnggAAAA&masterhotelid_tracelogid=100051355-0a935641-494295-20351&detailFilters=17|1~17~1*31|687634~31~687634*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=2000&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687)
 
 ### WAHAHA Pork Ribs
 

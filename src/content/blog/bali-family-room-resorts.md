@@ -320,7 +320,7 @@ https://youtu.be/RodQvCZKwD0
 
 **評價**| 精打細算的家長力推，「省下來的住宿費可以多吃好幾頓海鮮大餐」。
 
-> [Aloft Bali Kuta房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548)
+> [Aloft Bali Kuta房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) [Booking](https://booking.tpm.li/IiBScM3f)
 
 ## **Padma Resort Legian (帕德瑪)**
 
@@ -392,7 +392,7 @@ https://youtu.be/RodQvCZKwD0
 
 **評價**| 父母普遍認為「氛圍安靜優雅，不像庫塔那麼吵，長輩很喜歡」。
 
-> [Hyatt Regency Bali房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5500759)
+> [Hyatt Regency Bali房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5500759) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=3787919&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqYuFikmCSambh6F235T6rEKORwWRmi2Ydx8NfNWL6J0x08Nwh1_o6sHaqQwBPxJQDz6exJ3J2ySe_OxLo0MXIChaYwdg_8znjRsZ17g-rRNLyHXYwMp1g_Ga4gGnP6bPcp1iYOfo4L7F8ZYquVspOrVSyMtFRKsksyUlVslJ6Nqf3affMF5t2K-kopaQWJwOFgKzE3PzSvBIg28zQUM_AAChSkljhmaJkZa6jlJyYk1yak1iSGlJZADTBTEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLKvkBjSmCCmTm50G0G6CIhSXmlKZCnAC00C0VaodxrQ6my58umve0Yc_zFa3YXW5qaoricpMBcblhbewjFqbo2E8sDL9YGJpYGbpYmTlOMU0Ckt8Md7Hy-Hv6GAY46RrqRukaXmA9YCIlb2hgYGBqaGxqqmuQaGmRbGycomtiaWJkaaprZG5sYqSxdNfMpqfGRtZSkJhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxObm4mxpZhJlw8UcGuwi2H8ImNT0pR2kmEPCXRSDXNpC90w8ba_F7OkSZHjvP0uutrKlfaDFFzH-95YL7CMfpMdYCEw6bZ_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEWQIAfuTixfYCAAA&masterhotelid_tracelogid=100051355-0a98c33d-494295-27342&detailFilters=17|1~17~1*31|3787919~31~3787919*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/UPTglrJK)
 
 ## **Maison Aurelia Sanur by Preference (奧里利亞梅森酒店)**
 

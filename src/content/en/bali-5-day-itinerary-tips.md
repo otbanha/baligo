@@ -18,10 +18,11 @@ tags:
   - 地點
   - 行程
   - 按摩
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_02c8c3347a57c7c83b5f9bb7d913afdb.jpg'
 originalUrl: 'https://vocus.cc/article/6686bcc4fd897800018fb206'
 lang: en
-_srcHash: ad302e3fc6d64b93cd354e6f79d0c2ca
+_srcHash: 0f62411c2f9926b22f06661922c25ae9
 ---
 
 > The following content was provided by fellow traveler [Yang Fangyu](https://www.facebook.com/profile.php?id=100007984449707&__cft__[0]=AZWF8drZCykDGimUAIn01CgD0q9EmqwShYrSkAU1vTUygnMiuAHj0Dyiy7Mfvc95BQiIKbi7tqEnxZOuzPIjxVX8Uvm2nPwiAQHqYH9K1rd0K6wsEWfdU0n0O4LvHsKbRNelUSbGDTuDL0Q-NLP8DK-ewIIF0voZvzIWxluaHyQBSA&__tn__=-UC%2CP-R) and adapted with her permission.
@@ -87,7 +88,7 @@ Although this Bali trip was only 5 days and 4 nights, it felt like the actual pl
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776173313011-409516170.jpg)
 
-> [Soulshine Bali Availability & Price Check](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2978867)
+> [Soulshine Bali Availability & Price Check](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2978867) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=9203399&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/djqgcgo8)
 
 **3. Spa Treatment**
 

@@ -29,10 +29,11 @@ tags:
   - Bali most awarded five star hotel Conde Nast
   - Potato Head Suites Seminyak top 50 hotels world
   - Bali sustainable luxury resort private villa
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7637ac635c331c40ccb594138cb074c8.jpg'
 originalUrl: 'https://vocus.cc/article/67094049fd8978000167f9f9'
 lang: zh-hk
-_srcHash: b46d0b34818a6e0c9e39e1bc70c33323
+_srcHash: 9bd91e6fd8539083d5d64106cb9852c2
 ---
 
 update: 2026/05/21
@@ -95,7 +96,7 @@ Raffles Bali
 
 Potato Head Suites & Studios
 
-> ▶Potato Head Suites & Studios [查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=11295575)
+> ▶Potato Head Suites & Studios [查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
 
 > [【水明漾酒店推薦】Potato Head Suites & Studios住宿體驗分享](/blog/potato-head-suites-seminyak-review/)
 

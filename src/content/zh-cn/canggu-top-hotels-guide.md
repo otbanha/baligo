@@ -18,10 +18,11 @@ tags:
   - '#canggu住宿推薦'
   - '#cangguvilla'
   - '#cangguvilla推薦'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777896573960-canggu_stay.png'
 originalUrl: 'https://vocus.cc/article/651b8da8fd89780001974847'
 lang: zh-cn
-_srcHash: b9a79737d07909f754e41461a942bf40
+_srcHash: be4c980b18613d53a21c7195d379ce56
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)
@@ -156,7 +157,7 @@ Holiday Inn Resort Bali Canggu于2024年8月正式开业，成为巴厘岛南岸
 
 Oshom周边设施丰富，距离全球最大的木火蒸汽疗愈穹顶Lumeira温泉疗养馆仅需短程车程，提供芬兰传统桑拿等疗愈体验。旅馆餐厅供应巴厘岛传统与西式美食，步行1分钟即可抵达[Luna Beach Club](/blog/canggu-guide/)，享受泳池、酒吧与海滩派对。Oshom结合艺术、自然与灵感，是追求独特度假体验的理想选择。
 
-> ▶[Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=64716205)
+> ▶[Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=64716205) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=117153593&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/zXbwVorS)
 
 ## 14.**Leafy Lofts Canggu**
 

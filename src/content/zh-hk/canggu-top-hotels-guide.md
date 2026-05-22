@@ -18,10 +18,11 @@ tags:
   - '#canggu住宿推薦'
   - '#cangguvilla'
   - '#cangguvilla推薦'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777896573960-canggu_stay.png'
 originalUrl: 'https://vocus.cc/article/651b8da8fd89780001974847'
 lang: zh-hk
-_srcHash: b9a79737d07909f754e41461a942bf40
+_srcHash: be4c980b18613d53a21c7195d379ce56
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)
@@ -156,7 +157,7 @@ Holiday Inn Resort Bali 坎古將於2024年8月正式開幕，成為峇里島南
 
 Oshom周邊設施豐富，距離全球最大嘅木火蒸氣療癒穹頂Lumeira溫泉療養館僅需短程車程，提供芬蘭傳統桑拿等療癒體驗。旅館餐廳供應峇里島傳統與西式美食，步行1分鐘即可抵達[Luna Beach Club](/blog/canggu-guide/)，享受泳池、酒吧同海灘派對。Oshom結合藝術、自然與靈感，係追求獨特度假體驗嘅理想選擇。
 
-> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=64716205)
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=64716205) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=117153593&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/zXbwVorS)
 
 ## 14.**Leafy Lofts 坎古**
 

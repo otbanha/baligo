@@ -15,10 +15,11 @@ category:
   - 住宿推薦
   - 家庭親子
 tags: []
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b019f571fcb856c03c3c31c9e0d0c9a5.png'
 originalUrl: 'https://vocus.cc/article/67b81b4cfd89780001b4a261'
 lang: en
-_srcHash: e67ccb39d199b213d32fae1d8184a40b
+_srcHash: 1175f617f5dc9811cb16101f3039d19e
 ---
 
 Sanur Beach in Bali is an ideal choice for family travel with its serene atmosphere and family-friendly environment. Compared to bustling areas like Kuta and Seminyak, Sanur offers a more tranquil experience, allowing both parents and children to enjoy a relaxing vacation.
@@ -230,7 +231,7 @@ Here, children can participate in various fun and educational activities, such a
 
 Adjacent to the children's pool is an outdoor playground, open from 9 AM to 6 PM, offering a safe and fun play space for children aged 4 and above. To ensure the whole family enjoys quality time together, the resort also features a 60-square-meter family pool with a depth of 1.2 meters, perfect for parents and kids to swim together.
 
-> ▶[Maya Sanur Resort & Spa Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=802899)
+> ▶[Maya Sanur Resort & Spa Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=802899) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1701927&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NqZeFikmCS-sfMsW_rlRtsQoxGBgeFLI6XOmrG9B_6eqTLwdPjYZXIuskTHAJ4IqYceD6NPZGzSz753ZFAhy5GVrDADMblH9I3Ms6aCQSdmQ47GJlOMB5WW8D07Nsk9VMszBxb2C-xfGWKrlbKTq1UsjLRUSrJLMlJVbJSejan92n3zBebdivpKKWkFicDhYCsxNz80rwSINvE3ETPwAAoUpJY4ZmiZGWuo5ScmJNcmpNYkhpSWQA0wUxHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGCyr5AY0pggpk5udBtBugiIUl5pSmQpwAtNAtFWqHca0OpsufLpr3tGHP8xWtxLnchNouNyTG5Ya1sY9YmKJjP7Ew_GJhaGJl6GJl5jjFNAlIHlbbxcoR7O_hZhqoa3iBtVdTStHQwMDAyNTUyFzXINHSwjAl0VDXxNLEyNJU19DCyMjI2ERjWd_kpqfGRtZSkGhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoCNRmaaxnYpFmVmyRV2yRmxXhwRjEZmRoYWniFmXDxezpEiR47z9Lrraypb0Uc0i4i2KQS1vonomn7bVAcoYwuUCLL2L87y0X2EfC5JNYqzJ0Q8IzesULGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDTAeCEt3LsAgAA&masterhotelid_tracelogid=100025527-0a981da1-494295-1822234&detailFilters=17|1~17~1*31|1701927~31~1701927*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=880&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/besePtbt)
 
 ### Andaz Bali
 
@@ -244,7 +245,7 @@ The resort also offers a shallow pool designed specifically for children, allowi
 
 Andaz Bali's accommodation options cater to family needs. For example, the Andaz Suite can accommodate up to 2 adults and 2 children under 12, or 3 adults, offering spacious and comfortable living space for families.
 
-> ▶[Andaz Bali Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=13801598)
+> ▶[Andaz Bali Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=13801598) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=58756252&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqZuFikmCSamHh6Hjfc49ViNHIYDKzRbOO46yZQBA338Hzm0ZM_yGJxQ4BPBFTDjyfxp7I2SWf_O5IoEMXIytYYAbjnJlNMhsZPR5WiazzrnbYwch0gvFmxAKmB0feyp5iYeZ4w3-J5RtTdLVSdmqlkpWJjlJJZklOqpKV0rM5vU-7Z77YtFtJRykltTgZKARkJebml-aVANmGBmZGegYGQKGSxArPFCUrcx2l5MSc5NKcxJLUkMoCoBFmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdAEUsLDGnNBXiBqCFbqlQO4xrdTCd_nTRvKcNe56vaMXudEszMxSXmwyIyw1rYx-xMEXHfmJh-MXC0MTK0MXKzHGKaRKQvBmxi5XH3zzK18JA11A3StfwAuviaClFQwMDAyNTUyNzXYNES2NTA0MLXRNLEyNLU10jI0NjAxMTjZevFjY9NTayloJEvgKjlmB8iKeni2FJYapZYallTlGBqQHjKUYpQ3NjC0MjQ0MjIyNLYz0TizSzYou8YovcrAgPxiA2MydLS0vjKBsu5tBgF8H-Q181YvSlHaSYQ8JdFINc2kL3TDxtrwWSM4TJBVp8EeN_b7nAPvJBeoyFwKTT9kmsVRm6IeEZveIFjA2MTF2M3AKMHowRjBVAHuMqRnYuZgMjQwGmDYyMOxj_wwDjK0aQJQAd60Wk-QIAAA&masterhotelid_tracelogid=100025527-0a935018-494295-2213044&detailFilters=17|1~17~1*31|58756252~31~58756252*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1566&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/qQTxjp1T)
 
 ### The Meru Sanur
 

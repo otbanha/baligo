@@ -4,6 +4,7 @@ title: 巴厘岛旅游自由行：三大区域不可错过的隐藏惊喜
 description: >-
   疫情过后，我也飞往了不少国家，但这七天六夜的巴厘岛之旅，却成为了我最想马上再去的一个地方。无论是从水明漾、乌布，还是坎古，每个区域都有自己的独特魅力，为旅客带来不同的感受与回忆。
 pubDate: '2024-10-11'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2bc38b9c8115abcf2a210e3e2cd30875.jpg'
 tags:
   - 峇里島自由行
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66e06a8dfd89780001ffbbc3'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 88b9dbd91e1e61455daf7074ca2cba1c
+_srcHash: de3426dac685541e37b2441b1c06f0f4
 ---
 
 > 以下内容由团友 [施念忻](https://www.facebook.com/share/p/NCJtqGxCyfKoE3ui/) 提供给我们重新编排：
@@ -28,7 +29,7 @@ _srcHash: 88b9dbd91e1e61455daf7074ca2cba1c
 
 首先来到了热闹的水明漾，这里的繁华与现代感无疑是巴厘岛的象征之一。我选择入住了 **Indigo Seminyak** 酒店，这家酒店不仅地理位置绝佳，步行即可抵达知名的双六海滩（Double Six Beach）。每天黄昏时，点上一杯饮料，面朝海滩，静待夕阳落下的那一刻，内心有一种无比放松的平静。这样的惬意生活让人彻底忘记了日常的繁忙，宛如度假天堂。
 
-**▶**[**Indigo Seminyak 订房优惠**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348)
+**▶**[**Indigo Seminyak 订房优惠**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348) [Booking](https://booking.tpm.li/Wod9awed)
 
 水明漾的生活节奏轻松且自由，从早晨的咖啡馆，到夜晚的酒吧，一切都充满了活力和新鲜感。这里也适合喜爱购物与探索的旅客，因为街头巷尾充满了时尚精品店，让人可以随意漫步，享受购物乐趣。
 

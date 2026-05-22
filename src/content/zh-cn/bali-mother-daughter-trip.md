@@ -3,6 +3,7 @@ slug: bali-mother-daughter-trip
 title: 【巴厘岛游记】母女七天六夜巴厘岛自由行行程分享
 description: 团友帮妈妈安排的七天六夜巴厘岛自由行行程分享
 pubDate: '2024-07-02'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_286ab6e85a206f8b44e0547b30ea4b3f.jpg'
 tags:
   - 峇里島
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/665f1689fd89780001afd058'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: b46112ccb46631051308d8b0287562b3
+_srcHash: 20738fa59dcac81074f956fe31cc2889
 ---
 
 > 以下内容由团友​[张萍萍](https://www.facebook.com/zhang.p.ping.3/)提供，并同意我们改编
@@ -59,9 +60,9 @@ _srcHash: b46112ccb46631051308d8b0287562b3
 
 ### 住宿与Spa
 
-用餐后，我们直奔乌布的住宿地点，[Purana Boutique Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1197693)。这家酒店靠近乌布中心的丛林中，充满了自然氛围。虽然虫子较多，但服务人员非常友善，房间也非常干净舒适，床特别好睡，值得推荐！酒店提供接驳车服务，可以前往圣猴森林附近的Coco超市，非常方便。我建议大家来这里住宿，不过不要选择酒店的早餐，因为味道实在不佳，仅仅摆盘好看而已 XD
+用餐后，我们直奔乌布的住宿地点，[Purana Boutique Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1197693) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=5276354&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6zczFJMEk9YSZY8-vSb1sQoxGBlu4LbZnOX7TiOk_tLbewfP64gJbruBmhwCeGYyHWg8xrWBk3Mj4sEpknfvDaIcdjEwnGLeLLWD6sH6iwikWZo42lkssX5miq5WyUyuVrEx0lEoyS3JSlayUni6a97Rhz_MVrUo6SimpxclAISArMTe_NK8EyDYytdQzMACKlCRWeKaAdSYn5iSX5iSWpIZUFgBNMNNRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgkp-QGOKoAKZ-XkQ7YYoYmGJOaWpECcALXRLhdphWKuD6fJnc3qfds98sWk3cS43p7bLDYhxuXFt7CMWpujYTywMv1gYmlgZulgZJrEyc2wX28XKEeRsYOxorGsoJW9oYGBgamhsaqprkGhpnGxomqprYmliZGmqa2huaWmkcfJCY9NTYyNrKdYpB55PY1dg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmZk4WpmFGXDxezpEiR47z9Lrraypb0Uc0i4i2KQS1vonomn7bVAcoYwuUCLL2L87y0X2EfC5JNYqzJ0Q8IzesULGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDTAeULIHfQAgAA&masterhotelid_tracelogid=100051355-0a93c15e-494295-17992&detailFilters=17|1~17~1*31|5276354~31~5276354*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=624&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Y9L1kWoJ)。这家酒店靠近乌布中心的丛林中，充满了自然氛围。虽然虫子较多，但服务人员非常友善，房间也非常干净舒适，床特别好睡，值得推荐！酒店提供接驳车服务，可以前往圣猴森林附近的Coco超市，非常方便。我建议大家来这里住宿，不过不要选择酒店的早餐，因为味道实在不佳，仅仅摆盘好看而已 XD
 
-▶[预订Purana Boutique Resort，看更多房型](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1197693)
+▶[预订Purana Boutique Resort，看更多房型](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1197693) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=5276354&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6zczFJMEk9YSZY8-vSb1sQoxGBlu4LbZnOX7TiOk_tLbewfP64gJbruBmhwCeGYyHWg8xrWBk3Mj4sEpknfvDaIcdjEwnGLeLLWD6sH6iwikWZo42lkssX5miq5WyUyuVrEx0lEoyS3JSlayUni6a97Rhz_MVrUo6SimpxclAISArMTe_NK8EyDYytdQzMACKlCRWeKaAdSYn5iSX5iSWpIZUFgBNMNNRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgkp-QGOKoAKZ-XkQ7YYoYmGJOaWpECcALXRLhdphWKuD6fJnc3qfds98sWk3cS43p7bLDYhxuXFt7CMWpujYTywMv1gYmlgZulgZJrEyc2wX28XKEeRsYOxorGsoJW9oYGBgamhsaqprkGhpnGxomqprYmliZGmqa2huaWmkcfJCY9NTYyNrKdYpB55PY1dg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmZk4WpmFGXDxezpEiR47z9Lrraypb0Uc0i4i2KQS1vonomn7bVAcoYwuUCLL2L87y0X2EfC5JNYqzJ0Q8IzesULGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDTAeULIHfQAgAA&masterhotelid_tracelogid=100051355-0a93c15e-494295-17992&detailFilters=17|1~17~1*31|5276354~31~5276354*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=624&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Y9L1kWoJ)
 
 我们在乌布攻略进行了两次令人愉快的Spa，第一次是抵达当晚司机带我们去离酒店2分钟的 Jaens Spa Ubud，这里的Spa品质非常好且价位适中。第二次是隔天跟酒店预约的。
 

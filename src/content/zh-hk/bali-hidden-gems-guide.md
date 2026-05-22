@@ -4,6 +4,7 @@ title: 峇里島自由行：三大區域必去嘅隱藏驚喜
 description: >-
   疫情過後，我都飛咗唔少國家，但呢個七日六夜嘅峇里島之旅，就成為咗我最想即刻再去嘅地方。無論係水明漾、烏布，定係坎古，每個區域都有自己嘅獨特魅力，為旅客帶嚟唔同嘅感受同回憶。
 pubDate: '2024-10-11'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2bc38b9c8115abcf2a210e3e2cd30875.jpg'
 tags:
   - 峇里島自由行
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66e06a8dfd89780001ffbbc3'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 88b9dbd91e1e61455daf7074ca2cba1c
+_srcHash: de3426dac685541e37b2441b1c06f0f4
 ---
 
 > 以下內容由團友 [施念忻](https://www.facebook.com/share/p/NCJtqGxCyfKoE3ui/) 提供俾我哋重新編排：
@@ -28,7 +29,7 @@ _srcHash: 88b9dbd91e1e61455daf7074ca2cba1c
 
 首先嚟到熱鬧嘅水明漾，呢度嘅繁華同現代感無疑係峇里島嘅象徵之一。我選擇入住咗 **Indigo Seminyak** 酒店，呢間酒店唔止地理位置一流，行幾步就到著名嘅雙六海灘（Double Six Beach）。每日黃昏時，點一杯飲品，對住海灘，靜待日落嘅一刻，內心有一種無比放鬆嘅平靜。咁樣嘅愜意生活令人完全忘記咗日常嘅繁忙，好似度假天堂咁。
 
-**▶**[**Indigo Seminyak 訂房優惠**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348)
+**▶**[**Indigo Seminyak 訂房優惠**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348) [Booking](https://booking.tpm.li/Wod9awed)
 
 水明漾嘅生活節奏輕鬆又自由，由朝早嘅咖啡店，到夜晚嘅酒吧，一切都充滿咗活力同新鮮感。呢度亦適合鍾意購物同探索嘅旅客，因為街頭巷尾都係時尚精品店，可以隨意漫步，享受購物樂趣。
 

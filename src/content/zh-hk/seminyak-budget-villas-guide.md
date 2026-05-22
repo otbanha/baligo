@@ -15,10 +15,11 @@ tags:
   - '#水明漾攻略'
   - '#巴里島水明漾villa'
   - '#水明漾平價villa'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_16c256b70aee5f839bf1ed7952ac49bb.jpg'
 originalUrl: 'https://vocus.cc/article/66ee9770fd89780001306753'
 lang: zh-hk
-_srcHash: 5de5c4b48c7d6bb3e5ca0d7f2da9c9b5
+_srcHash: 86b5bb70c076418515697495b2324e8f
 ---
 
 # 水明漾好評嘅平價villa
@@ -89,7 +90,7 @@ Bajra Bali Villa 係一個真正嘅避世天堂，特別適合情侶或家庭尋
 * **評價**: 別墅空間寬敞，設施齊全，員工友善，服務一流。
 * **價格**: 每晚約USD$91起
 
-> **▶**[**查看Agoda優惠價**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=734860)
+> **▶**[**查看Agoda優惠價**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=734860) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1593982&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGF4_jcm7dZhRgNLH4LOs6aCQS9tQ6e3zRi-g9VNzkE8ERMOfB8GnviVTvZfsmqAIdCBhCQmOzQyOjxsEpkneUEhy5GVrCaGYz_liSuYGTcCJFZHuuwg5HpBONu0QVMx5YknmJh5ljGconlK1N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2UbmpnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJZjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYUMkPaEwRVCAzPw-i3RBFLCwxpzQV4gSghW6pUDsMa3UwXf5sTu_T7pkvNu0mzuXm1Ha5ATEuN66NfcTCFB37iYXhFzAaVuk0sTJ0sTJzbGKaBCR3i-5iZfM3ivIxMbvAOt1FSt7QwMDA1NDY1FTXINHSItXE0lLXxNLEyNIUSBmZGWnM777Y9NTYyFoKEu8KjFqC8SGeni6GJYWpZoWlljlFBaYGjKcYpQzNjS0MjQwNjYyMLI31TCzSzIot8ootcrMiPBiD2NxcXC0NjaJsuJg9XYIE7_1nydVWtrSXYg4Jd1EMcmkL3TPxtL0WSM4QJhdo8UWM_73lAvvIB-kxFgKTTtsnsVZl6IaEZ_SKFzA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAkwIhNP0CAAA&masterhotelid_tracelogid=100051355-0a98e499-494295-49262&detailFilters=17|1~17~1*31|1593982~31~1593982*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1760&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/xUiRjdgd)
 
 ## 3. **The Tukad Villa**
 
@@ -149,7 +150,7 @@ New Pondok Sara Villas 係一個充滿浪漫氛圍嘅隱秘別墅，擁有美麗
 * **評價**: 客人特別喜愛別墅嘅裝潢同私密性，員工服務親切，位置安靜而便利，適合想要浪漫度假嘅旅客。([Chuang Ling Chun推薦](/blog/bali-elderly-travel-guide-2/))
 * **價格**: 每晚約USD$80起
 
-> **▶**[**查看Agoda優惠價**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=285986)
+> **▶**[**查看Agoda優惠價**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=285986) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685079&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6xczFJMEk9ZiZY9aPL1tYhRiNDLZwW2zPcvR4WCWy7nCpgyeIdu-tcgjgmcE4_YXmCkbGjYxpIKAW7LCDkekE41b-BUw9pyconGJh5njCdInlK1N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2YbmFnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJZjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYUMkPaEwRVCAzPw-i3RBFLCwxpzQV4gSghW6pUDsMa3UwXf5sTu_T7pkvNu0mzuXm1Ha5ATEuN66NfcTCFB37iYXhFwtDEytDFyvDJFZmjq38u1g5_JxMwyMMdQ2lFAwNDAyMTE2NzHUNEi0TE1ONLHRNLE2MLE11jS2MTQwtNFZNvtP41NjIWop1yoHn09gVGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsVkYO5s4uUTZcDF7ugQJ3vvPkqutbGkvxRwS7qK48ibz2gMTTttrgeQMYXKBFl_E-N9bLrCPzOs2kk6ZdNo-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIsIGRcQfjfxhgfMUIMh0AOCVghdACAAA&masterhotelid_tracelogid=100025527-0a9aae28-494295-383418&detailFilters=17|1~17~1*31|685079~31~685079*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1140&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/33TSGdlA)
 
 ## 5. **Desamuda Village**
 

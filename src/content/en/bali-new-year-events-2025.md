@@ -3,6 +3,7 @@ slug: bali-new-year-events-2025
 title: 'Bali 2024-2025 New Year''s Eve Guide: Countdowns, Parties, and Hotel Deals'
 description: Are you ready to welcome 2025 in Bali?
 pubDate: '2024-09-14'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_28fd7daebaf81d76dfd78c46e2876943.png'
 tags:
   - 2024跨年
@@ -15,7 +16,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: en
-_srcHash: bd4ebf658a4570c340173d767fc6e45e
+_srcHash: f31aa1067041fa3afe7b239482f63306
 ---
 
 ## 🌟 **Are you ready to welcome 2025 in Bali?** 🌟
@@ -62,8 +63,8 @@ Bali's New Year celebrations aren't limited to outdoor parties; local hotels als
 - [**Grand Mirage Resort and Thalasso Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10335)
 - [**The Royal Beach Seminyak Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2973626)
 - [**Baleka Resort Hotel & Spa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=230743)
-- [**Four Points by Sheraton Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=907662)
-- [**The Legian Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10368)
+- [**Four Points by Sheraton Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=907662) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2139828&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6wczFJMEk9ZGZ4_Pej39ZhRiNDDgtPgk6asb0H_r6o9zB85sGkMVY6xDA08gIZpuaO8xg3HK2iXEFI-NGRmMQUA5x2MHIdILxtcACpinNb5lPsTBzfGO6xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsQ3MLPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebduNwuaUZisvNB8TlxrWxj1iYomM_sTD8YmFoYmXoYmWYxMrM8VpgFytPoJe3caijrqFulK6hlLyhgYGBqaGxqamuQaJloqlxsqGuiaWJkaWprokZMBo0niw40fTU2MhainXKgefT2BUYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWxgaGRoaGRlZGuuZWKSZFVvkFVvkZkV4MAaxmZsYGRi5RtlwMXu6BAne-8-Sq61saS_FHBLuohjk0ha6Z-Jpey2QnCFMLtDiixj_e8sF9pEP0mMsBCadtk9ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMbJzMRsYGQowbWBk3MH4HwYYXzGCLAEAUPMrKOQCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-46178&detailFilters=17|1~17~1*31|2139828~31~2139828*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=636&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/ymskD69a)
+- [**The Legian Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10368) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=992056&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/D3J3VEap)
 - [**Hilton Bali Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2484)
 - [**Prama Sanur Beach Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5354)
 

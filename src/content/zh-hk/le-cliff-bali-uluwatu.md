@@ -19,6 +19,7 @@ tags:
   - 巴厘岛乌鲁瓦图海景酒店 2026
   - Bali cliffside accommodation Uluwatu
   - Best sunset view stay in Bali
+update: 2026/05/22
 heroImage: ''
 originalUrl: ''
 private: false
@@ -30,7 +31,7 @@ agoda_star_rating: 4.5
 latitude: -8.810282707214355
 longitude: 115.1052017211914
 lang: zh-hk
-_srcHash: 0a8574d526084d0ca5cb1aaa7d0c19ba
+_srcHash: 60ff010b12f2876fd52697546bb411ba
 ---
 峇里島烏魯瓦圖有好多面海嘅酒店，但係可以令你字面意義上「住喺懸崖岸邊上」嘅，大概只有呢一間。
 
@@ -136,6 +137,6 @@ Wi-Fi訊號喺懸崖底比較弱，呢個唔算意外，要預咗。現場有提
 ## 📌 訂房資訊
 
 > 評分：Agoda 住客評分 7.9 ⭐ | Tripadvisor 高度推薦
-> 👉 [喺 Agoda 訂房 Le Cliff Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6383164)
+> 👉 [喺 Agoda 訂房 Le Cliff Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6383164) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=39400751&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/WKQqpbiN)
 
 {{block:uluwatu}}

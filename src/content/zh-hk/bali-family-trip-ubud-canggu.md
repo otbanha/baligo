@@ -14,10 +14,11 @@ tags:
   - 峇里島親子飯店
   - 峇里島親子遊
   - 峇里島親子景點
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6bd57177ce5264894751be80f247f6ea.jpg'
 originalUrl: 'https://vocus.cc/article/66b84461fd89780001c7c2b4'
 lang: zh-hk
-_srcHash: b4bd4630a8d55d3bcd464eedd574cca9
+_srcHash: 6bbf12ebedd3a31be0e51536366cb83b
 ---
 
 > 以下內容由團友 [趙康康](https://www.facebook.com/share/p/i8CMB6maodm1nafL/) 提供俾我哋重新編排：
@@ -44,7 +45,7 @@ Tegenungan Waterfall. （趙康康提供）
 
 今次我哋入住嘅係喺訂房網上預訂嘅「Ubud Paradise」，呢間Villa環境優美而且好有家庭氛圍，令我哋感受到滿滿嘅人情味。
 
-[**▶Ubud Paradise 空房 & 房價查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920688)
+[**▶Ubud Paradise 空房 & 房價查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920688) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2511061&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLQ0NjUzMdQ1sTQxsjTRNTc1MDTTaJpyuPGpsZGBlmB8iKeni2FJYapZYallTlGB6SlGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNiMzQyMntyg-KeaQcBfFlTeZ1x6YcNo-ibUqQzckPKNXHAARxK4vggAAAA&masterhotelid_tracelogid=100051355-0a935641-494294-75016&detailFilters=17|1~17~1*31|2511061~31~2511061*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/yI4C37fv)
 
 **（**評價好高嘅優質villa！已收錄喺[16間令人驚艷嘅峇里島villa推薦](/blog/ubud-villa-pool-guide/)**）**
 

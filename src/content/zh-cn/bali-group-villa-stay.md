@@ -31,10 +31,11 @@ tags:
   - 金巴兰海景包栋别墅
   - 峇里岛适合求婚/办婚礼的 Villa
   - 巴厘岛高性价比团体住宿
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_72df3918142bccfea8b19414e6ee33a4.jpg'
 originalUrl: 'https://vocus.cc/article/662e156bfd8978000130c73c'
 lang: zh-cn
-_srcHash: fa0ab103cdbd67494cf07a17f042b273
+_srcHash: 89e58abf4a4d8926c297af27bafadcf5
 ---
 
 巴厘岛是著名的度假胜地，以其美丽的海滩、热情好客的人民和丰富的文化而闻名。近年来，巴厘岛也成为家庭旅游的热门目的地，越来越多家庭选择到巴厘岛度假。
@@ -137,7 +138,7 @@ Villa SANKET - 库塔 是一间位于库塔市中心的宽敞别墅，坐落在W
 
 别墅以传统巴厘岛风格装潢，采用朴实家具、瓷砖地板和高耸的茅草屋顶。然而，如果您偏爱现代主义建筑，这里也提供混凝土结构的二、三或四卧房别墅，最多可容纳八人入住。
 
-> ▶[Mayaloka Villas 房价及空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=165380)
+> ▶[Mayaloka Villas 房价及空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=165380) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685521&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6z8TFJMEkdYOJo_lwdwOzELOhgZHGfTaDB4wWW-UdD3_ViOm_Pt3Bc9ZMIOCd6xDAEzHlwPNp7Ile1c36PkcCHboYWcECMxgvvtZcwci4kTGm_9BXjRslDjsYmQ4wMp1g3O-8gGnGxVeMp1iYOXp5LrHsZoyuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DUxFLPwAAoVJJY4ZkC1pqcmJNcmpNYkhpSWQA0wkhHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGC4IMLoLyM_PzILoNUMTCEnNKUyEqgfa5pUKtMKyNfcTCFB37guU-2ycWhl8sDE2sDF2szBynmCYByf3Ou1h5jSy9vJxCdQ1DdKN0DS-wvvOVkjc0MDAwMjU1Mtc1SLS0sDCwNNc1sTQxsjTVNTc2MbLQuNp5ofGpsZG1FCQkFRi1BONDPD1dDEsKU80KSy1zigpMDRhPMUoZmhtbGBoZGhoZGVka65lYpJkVW-QVW-RmRXgwBrFZmpuauzpH2XAxhwa7CD6XXf7CQ0_aQYo5JNxFceVN5rUHJpy212L2dAkyvPefJVdb2dI-0OKLGP97ywX2kXndRtIpk07bJ7FWZeiGhGf0ihcwNjAydTFyCzB6MEYwVgB5jKsY2bmYDYwMBZg2MDLuYPwPA4yvGEGWAAAAyziYSwIAAA&masterhotelid_tracelogid=100025527-0a988097-494295-73428&detailFilters=17|1~17~1*31|685521~31~685521*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1656&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/htcYoxZf)
 
 ### Amadea Resort & Villas Seminyak 水明漾中心的豪华住宿（最多10人）
 
@@ -169,7 +170,7 @@ Amadea Resort & Villas Seminyak 是一间位于水明漾心脏地带的奢华度
 
 Eden The Residence at The Sea Seminyak的位置非常便捷，靠近水明漾的海滩仅几步之遥，距离Mari Beach Club 120米，走出小巷子之后就有便利店和多家餐厅。您可以随时出发探索海滩的美景和活动。提供的房型有双卧室、三卧室、五卧室villa, 最多可以容纳10个人。
 
-> ▶[Eden The Residence at The Sea Seminyak 房价及空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=255207)
+> ▶[Eden The Residence at The Sea Seminyak 房价及空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=255207) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685551&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_CcWHWxGtsQowGFhOFHD0eVomsW9nj4Nl_6KtGzJ6JDgE8EVMOPJ_GnuhV3azvcyTQoZABBLoWOjQyVousc3-4f45DFyMrWM0MxvevNTcyxoD02mQ77GBkOcE4X3MB0-azu5lPsTBzfGG_xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUwMzPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvALGA1bAptYGbpYmTlOMU0CkvM1d7GyBXuY-5saXGCdWyslZ2hgYGBqaGxqqmuQaJloapxsqGtiaWJkaaprZGphrHFnxdXGp8ZG1lKQSFdg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmTubOrqGGXDxezpEiR47z9Lrraypb0Uc0i4i-LKm8xrD0w4ba8FkjOEyQVafBHjf2-5wD4yr9tIOmXSafsk1qoM3ZDwjF7xAsYGRqYuRm4BRg_GCMYKII9xFSPDBkbGHYz_YYDxFSPIdABs7vtn-gIAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-2583&detailFilters=17|1~17~1*31|685551~31~685551*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=250&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/ayUO1N1D)
 
 ### Impiana Private Villas Seminyak - 感受奢华与宁静（最多16成人）
 

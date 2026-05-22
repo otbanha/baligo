@@ -12,6 +12,7 @@ description: >-
   local transportation in Bali. I hope my experience can provide you with useful
   tips and inspiration for your Bali adventure.
 pubDate: '2024-08-26'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_75e4fcf9b30e3047d833ab5dfbea8106.jpg'
 tags:
   - 峇里島自由行
@@ -23,7 +24,7 @@ originalUrl: 'https://vocus.cc/article/66b715defd89780001b25a1e'
 category:
   - 遊記分享
 lang: en
-_srcHash: cc863b5e629492b394beaeea2be090a3
+_srcHash: 6a9e8860034d2a9f563cf951b6662066
 ---
 
 > Adapted from a contribution by fellow traveler [June Lin](https://www.facebook.com/groups/baligo/permalink/1581822932364946/)
@@ -48,7 +49,7 @@ We chose Peppers Villa, which recently joined the Accor group, located in the he
 
 > Extended Reading: [Detailed Chinese Introduction to Peppers Seminyak on Our Site](/blog/2024-04-04-660e6e92fd89780001e6047e/)
 
-### [Peppers Seminyak Room Rates & Availability Check](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=90309)
+### [Peppers Seminyak Room Rates & Availability Check](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=90309) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1200024&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxMLFJMEk1c3C8Xv_hKdsQoxGBvIWXwUdW18H7pBjnuzgKQ9i2U53COCJmHLg-TT2RK_qZn2fI4EOjYxLCmy5rie7O3QxsoKlZjDOmO-5kTENBF4VOOxgZDrB-N90AdPnkyu1T7Ewc7zgvMTylSm6Wik7tVLJykRHqSSzJCdVyUrp2Zzep90zX2zaraSjlJJanAwUArISc_NL80qAbDNTCz0DA6BISWKFZ4qSlbmOUnJiTnJpTmJJakhlAdAEMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRboAiFpaYU5oKcQLQQrdUqB3GtTqYLn-6aN7Thj3PV7Rid7mpJarLTQbE5Ya1sY9YmKJjP7Ew_GJhaGJl6GJl5jjFNAlI_jfdxcoTYurqF2mpa6gbpWt4gfWkhZS8oYGBgamhsamprkGipUWScaKBromliZGlqa6hobGJkcahxneNT42NrKUgEa_AqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdXY3MzcMsqGi9nTJUjw3n-WXG1lS3sp5pBwF8WVN5nXHphw2l4LJGcIkwu0-CLG_95ygX1kXreRdMqk0_ZJrFUZuiHhGb3iBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUA-7eDov4CAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494295-11342&detailFilters=17|1~17~1*31|1200024~31~1200024*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=264&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/aVlkTHog)
 
 ### Hilton Nusa Dua (2 Nights)
 

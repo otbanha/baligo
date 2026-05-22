@@ -3,6 +3,7 @@ slug: bali-elderly-travel-guide-2
 title: 幫長輩安排嘅峇里島探險：追尋人間天堂之旅
 description: 安排長輩峇里島旅遊嘅精彩行程
 pubDate: '2024-05-01'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9c79a95d7c3f8a7b1a1dfa81111a00b4.jpg'
 tags:
   - 峇里島
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/6624e237fd8978000146c224'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: af960bf8138e1781c11215a721baab2d
+_srcHash: 94623677285857a6a4e65bfb3a8fe5f5
 ---
 
 （以下圖文內容由團友[Chuang Ling Chun](https://www.facebook.com/groups/131689774044943/user/100002621353548/) 提供，並同意我哋重新編排)
@@ -152,7 +153,7 @@ Grün Canggu Garden
 
 New Pondok Sara Villas
 
-▶[New Pondok Sara Villas訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=285986)
+▶[New Pondok Sara Villas訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=285986) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685079&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6xczFJMEk9ZiZY9aPL1tYhRiNDLZwW2zPcvR4WCWy7nCpgyeIdu-tcgjgmcE4_YXmCkbGjYxpIKAW7LCDkekE41b-BUw9pyconGJh5njCdInlK1N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2YbmFnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJZjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYUMkPaEwRVCAzPw-i3RBFLCwxpzQV4gSghW6pUDsMa3UwXf5sTu_T7pkvNu0mzuXm1Ha5ATEuN66NfcTCFB37iYXhFwtDEytDFyvDJFZmjq38u1g5_JxMwyMMdQ2lFAwNDAyMTE2NzHUNEi0TE1ONLHRNLE2MLE11jS2MTQwtNFZNvtP41NjIWop1yoHn09gVGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsVkYO5s4uUTZcDF7ugQJ3vvPkqutbGkvxRwS7qK48ibz2gMTTttrgeQMYXKBFl_E-N9bLrCPzOs2kk6ZdNo-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIsIGRcQfjfxhgfMUIMh0AOCVghdACAAA&masterhotelid_tracelogid=100025527-0a9aae28-494295-383418&detailFilters=17|1~17~1*31|685079~31~685079*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1140&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/33TSGdlA)
 
 ## 第六日：同峇里島講拜拜
 

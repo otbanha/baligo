@@ -22,10 +22,11 @@ tags:
   - '#canggu住宿推薦'
   - '#cangguvilla'
   - '#cangguvilla推薦'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777896573960-canggu_stay.png'
 originalUrl: 'https://vocus.cc/article/651b8da8fd89780001974847'
 lang: en
-_srcHash: b9a79737d07909f754e41461a942bf40
+_srcHash: be4c980b18613d53a21c7195d379ce56
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)
@@ -160,7 +161,7 @@ Opening in November 2024, Oshom Bali is a boutique hotel with just 11 rooms, nes
 
 Oshom is surrounded by abundant facilities, with a short drive to Lumeira, the world's largest wood-fired steam healing dome, offering traditional Finnish sauna experiences. The hotel's restaurant serves both Balinese and Western cuisine, and guests can walk just one minute to [Luna Beach Club](/blog/canggu-guide/) for poolside lounging, bars, and beach parties. Combining art, nature, and inspiration, Oshom is an ideal choice for those seeking a unique getaway.
 
-> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=64716205)
+> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=64716205) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=117153593&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/zXbwVorS)
 
 ## 14.**Leafy Lofts Canggu**
 

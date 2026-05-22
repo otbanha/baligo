@@ -20,10 +20,11 @@ tags:
   - '#巴里島推薦'
   - '#別墅'
   - '#度假'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_066cc3116059f1ef4abd123f1f4a3d25.jpg'
 originalUrl: 'https://vocus.cc/article/6544f321fd89780001bb240c'
 lang: en
-_srcHash: 6a38e808a908c173b99f7c1f06547dc2
+_srcHash: dc7bf4c7b9c660ff2dc123e4330c3193
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_405f6b98b0cb2943fbe0172c3ff4f07c.jpg)
@@ -96,7 +97,7 @@ Karma Kandara offers 46 private villas, each with its own unique style. The room
 
 A special reminder for honeymooners: if you're looking for an ultra-romantic getaway in Bali, Karma Kandara's private poolside villas are the perfect choice! Be sure to add them to your Bali itinerary!
 
-> ▶[Check Agoda's discounted rates for your travel dates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=161688)
+> ▶[Check Agoda's discounted rates for your travel dates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=161688) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685882&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/faHboHBR)
 
 ## Renaissance Bali Uluwatu Resort & Spa
 
@@ -206,7 +207,7 @@ The highlight of Le Cliff Bali is its unique cliffside location, offering each r
 
 The hotel's design is simple and stylish, retaining its original charm. The restaurant offers creative Balinese cuisine and natural, healthy meals. There's also a spectacular seaside infinity pool for a refreshing swim.
 
-> ▶[Check Agoda's discounted rates for your booking dates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=6383164)
+> ▶[Check Agoda's discounted rates for your booking dates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=6383164) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=39400751&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/WKQqpbiN)
 
 ## Affordable Ocean View Villas 2: Hidden Hills Villas
 

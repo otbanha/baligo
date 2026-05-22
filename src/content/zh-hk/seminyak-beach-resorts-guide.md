@@ -14,10 +14,11 @@ tags:
   - '#水明漾住宿'
   - '#峇里島海景'
   - '#水明漾高級住宿'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a8262479e14590666cfa8e2739908df1.jpg'
 originalUrl: 'https://vocus.cc/article/65472977fd89780001cf3ce6'
 lang: zh-hk
-_srcHash: cb1214845410412c51476dadd48dfafa
+_srcHash: 8afefff98ca2054601dc7b9906dabc15
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c8eb09bd720f83b1e84dd8538798b8c7.jpg)
@@ -44,7 +45,7 @@ Hotel Indigo Bali Seminyak Beach
 
 Hotel Indigo Bali Seminyak Beach 係一間設計獨特嘅酒店，融合咗當地文化元素同現代風格。呢度嘅客房充滿藝術氛圍，每個房間都有自己嘅特色。酒店嘅 Salty Beach Bar 係一個絕佳嘅地方，供應美味嘅海鮮同招牌雞尾酒，等你可以一邊欣賞日落，一邊享受美食。另外，Riverside Spa 提供各種身體療程，等你可以喺度假中保持愉快嘅身心。
 
-> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1220348)
+> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1220348) [Booking](https://booking.tpm.li/Wod9awed)
 
 ## The Legian Seminyak Bali
 
@@ -56,7 +57,7 @@ The Legian Seminyak Bali
 
 The Legian Seminyak Bali 係一個傳統而優雅嘅度假勝地，以其令人屏息嘅濱海景觀而著名。呢度嘅客房同套房設有大型陽台，可以俯瞰蔚藍嘅印度洋。酒店嘅 The Restaurant 擁有一個出色嘅美食菜單，提供當地同國際美食。喺酒店嘅 Ocean Spa，你可以盡情享受放鬆同身體護理，令度假變得更加難忘。
 
-> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=10368)
+> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=10368) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=992056&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/D3J3VEap)
 
 ## The Oberoi Beach Resort Bali
 
@@ -92,7 +93,7 @@ Potato Head Suites & Studios 係一個擁有獨特建築風格嘅度假村，位
 
 Potato Head Suites & Studios 喺 2024 年再次入選全球前 50 家酒店名單嘅第 21 位，因為提供「對峇里島奢華住宿嘅多元化視角」而受到讚譽。
 
-> ▶[查看預定日期嘅 Agoda 優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=11295575)
+> ▶[查看預定日期嘅 Agoda 優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
 
 ## Double Six Luxury Hotel Seminyak
 

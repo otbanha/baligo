@@ -13,10 +13,11 @@ tags:
   - 峇里島火山日出
   - 峇里島
   - 巴里島
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ef958d756346b42708e089df7f0641c3.png'
 originalUrl: 'https://vocus.cc/article/6858f21efd897800011ea956'
 lang: zh-hk
-_srcHash: c2df2fd1fd1d8254c265b56c11b323bb
+_srcHash: f2bc427bf23b56c4fe5d70925df25f3b
 ---
 
 > 以下內容改編自團友 [Yi Chen Lai](https://www.facebook.com/share/p/1AUuB62LBX/) 分享遊記：
@@ -65,7 +66,7 @@ Yi Chen Lai 提供
 
 房間寬敞、環境清幽、設計風格融合咗峇里島嘅自然感同現代簡約，尤其係私人泳池區域，簡直就係夢幻。揀呢度作為後幾日喺烏布活動嘅據點，完全正確。
 
-> [The Ambengan Villas Ubud by Pramana Villas 房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=58284875)
+> [The Ambengan Villas Ubud by Pramana Villas 房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=58284875) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=122096003&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJY83e35vYhBgNLH4LOvYf-qoR87zKwfP64gJbLvs6hwCeiCkHnk9jT8w8tujlGzZvh0IGEEjod2hkBCue3-XQxcgKVjODsXnyHKuNjLZcQN17vRx2MDIdYGQ6wXhecAHTucdb7U6xMHP8YLzEspsxulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGwjEws9AwOgSElihWcKWGdyYk5yaU5iSWpIZQHQBDMdpcxi55KizIKg1NzMkpJUoKq0xJziVJB4UGoxUCYZLKjkBzSmCCqQmZ8H0W6IIhaWmFOaCnEC0EK3VKgdhrWxj1iYomM_sTD8AnpmnUoTK0MXKzPHb8ZJQPK84C5WtkgTixATrwusP8ylFA0NDAyMTE2NzHUNEi0TgSBJ18TSxMjSRNfU3MjA3MBEY_7HE41PjY2spSAhqMCoJRgf4unpYlhSmGpWWGqZU1RgasB4ilHK0NzYwtDI0NDIyMjSWM_EIs2s2CKv2CI3K8KDMYjNzMjMzck1yoaL2dMlSPDef5ZcbWVLeynmkHAXxZU3mdcemHDaXgskZwiTC7T4Isb_3nKBfWRet5F0yqTT9kmsVRm6IeEZveIFjA2MTF2M3AKMHowRjBVAHuMqRoYNjIw7GP_DAOMrRpDpAGs6h4VHAgAA&masterhotelid_tracelogid=100025527-0a9aaaab-494294-5720704&detailFilters=17|1~17~1*31|122096003~31~122096003*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=456&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/FCYt5FWA)
 
 如果你都正在搵一位可靠嘅中文司機、又想住進價格合理、質感又高嘅 Villa，咁呢篇遊記你一定要存低！
 

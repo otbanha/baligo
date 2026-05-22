@@ -3,6 +3,7 @@ slug: bali-family-trip-highlights
 title: 峇里島親子遊六大亮點 & 景點推薦
 description: 今次嘅峇里島親子自由行對我哋一家四口嚟講，係一次充滿驚喜同感動嘅旅程。身為一個已經第四次踏上呢片美麗土地嘅旅人，我哋依然能夠喺度搵到新嘅樂趣同感動...
 pubDate: '2024-09-09'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_665788e465bdd16779eede7aab3fe8d5.jpg'
 tags:
   - 峇里島親子
@@ -15,7 +16,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: zh-hk
-_srcHash: 7d91b984fa5b028035d95f50a487e410
+_srcHash: 48e4fa0cb2a8759e34da07b49dfbdf57
 ---
 
 > 以下內容由團友 [林小昭](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 提供俾我哋重新編排：
@@ -80,7 +81,7 @@ _srcHash: 7d91b984fa5b028035d95f50a487e410
 
 我哋喺烏布入住嘅Rijasa Agung酒店，坐落喺阿勇河畔，每日朝早醒嚟就會聽到潺潺嘅溪水聲，令人感到無比放鬆。呢度嘅溫度適中，家庭房配有私人泳池、花園同發呆亭，空間闊落到目測超過300坪，CP值超高，令我哋一家都感到無比滿意。
 
-[**▶Rijasa Agung Resort and Villas 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341)
+[**▶Rijasa Agung Resort and Villas 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744536&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/c79DvepT)
 
 已收錄喺[【峇里島烏布住宿】烏布28家特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/blog/ubud-villas-pool-guide/)
 

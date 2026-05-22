@@ -27,10 +27,11 @@ tags:
   - Ubud jungle view boutique villa
   - Luxury yoga retreat boutique Ubud
   - Ubud eco friendly boutique accommodation
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e3d6b1a238b2a132511ebd9395fda710.jpg'
 originalUrl: 'https://vocus.cc/article/67451f5afd89780001f002f2'
 lang: zh-hk
-_srcHash: 49002a4641267e525f3f28001fe88b2e
+_srcHash: 5928559db3c8e7db950529c66b793480
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7c732b073f5ce52b19b42925c798cc9d.jpg)
@@ -176,7 +177,7 @@ __VID8__
 
 👉 **推薦理由**：同家人或者朋友一齊享受寧靜嘅同時，仲可以感受烏布嘅文化同自然魅力。
 
-> ▶[**點擊預訂The Hidden Paradise Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=25542481)
+> ▶[**點擊預訂The Hidden Paradise Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=25542481) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=28876749&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLRMNDVONtQ1sTQxsjTRNQfKWGr8mL-l8amxkYGWYHyIp6eLYUlhqllhqWVOUYHpKUYpQ3NjC0MjQ0MjIyNLYz0TizSzYou8YovcrAgPxiA2R2NDUzPjKD4p5pBwF8WVN5nXHphw2j6JtSpDNyQ8o1ccAKYuGVWCAAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494294-70009&detailFilters=17|1~17~1*31|28876749~31~28876749*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=870&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/kQIunnxW)
 
 ## 7. **The Purist Villas and Spa**
 
@@ -218,7 +219,7 @@ __VID8__
 
 👉 **距離景點：** 10分鐘車程到烏布中心
 
-> ▶[**點擊預訂Chapung Sebali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=148998)
+> ▶[**點擊預訂Chapung Sebali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=148998) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685375&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/CYR5kmiy)
 
 ## 9. **Adiwana Svarga Loka**
 
