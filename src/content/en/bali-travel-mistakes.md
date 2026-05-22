@@ -37,7 +37,7 @@ tags:
   - 巴厘岛腹
   - '#BaliBelly'
   - '#避雷指南'
-heroImage: >-
+heroImage: https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
   https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
   https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
 originalUrl: ''
