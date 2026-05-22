@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/669148a9fd89780001740e5b'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 92c4e23b542600a5888a3385f65bacaa
+_srcHash: 37541f397c029660be871a280fafcaa1
 ---
 
 巴厘岛这个绝美的旅游天堂正迎来一波令人振奋的好消息。对于计划在2024年底至2025年初前往巴厘岛的旅客来说，这是个双重惊喜！让我们来一探究竟。

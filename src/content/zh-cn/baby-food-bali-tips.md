@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_085acfb5807844c2051e0b2b6c2f422e.png'
 originalUrl: 'https://vocus.cc/article/67c6dce0fd8978000195cf12'
 lang: zh-cn
-_srcHash: c293c96d659fa5639d6fb9ef5b1774f5
+_srcHash: 4e457639e4e9d4fed400963b75a4cb78
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a59ccd132da7a87eaa0ea98af1f573a0.png)
@@ -46,7 +46,7 @@ _srcHash: c293c96d659fa5639d6fb9ef5b1774f5
 
 ### 📦 **携带建议：**
 
-- **小量原包装**：只携带旅程所需的**少量**辅食，并保留原包装，避免开封的散装食品。
+- **少量原包装**：只携带旅程所需的**少量**辅食，并保留原包装，避免开封的散装食品。
 - **婴儿医疗证明**：若宝宝有特殊饮食需求，可请医师开具**英文医疗证明**，方便与海关沟通。
 
 ***

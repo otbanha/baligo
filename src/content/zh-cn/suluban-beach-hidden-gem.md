@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_27e430895976f8308bf766fe54d46305.jpg'
 originalUrl: 'https://vocus.cc/article/673207e9fd897800018987e7'
 lang: zh-cn
-_srcHash: ca32dcf1c7c3eb5b0abbe84f394c6b66
+_srcHash: 7564637695f3f78da2e6cae2cc85ab85
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_67d2227cd36ea55fc95a50075a79269e.jpg)
@@ -83,7 +83,7 @@ Suluban Beach 特别适合那些追求原始与自然之美的旅人。在退潮
 
 此外，Suluban Beach 还被称为“蓝点沙滩”正是因为它的海水颜色深邃清澈，蓝得像宝石般闪耀，尤其在阳光的照射下更是令人屏息。这里的海浪壮大有力，吸引着来自世界各地的冲浪爱好者，许多经验丰富的冲浪者会在此挑战自我。这样的独特结合，让 Suluban Beach 成为巴厘岛一处既神秘又充满惊喜的海滩秘境。
 
-别忘了看看小杰的介绍视频喔：
+别忘了看看小杰的介绍视频哦：
 https://youtu.be/hQbBTktqEqY
 
 Suluban Beach 是一个充满冒险与惊喜的隐秘沙滩，不仅适合冲浪爱好者，也适合喜爱自然美景和摄影的旅人。虽然抵达较费力，但当你看见碧蓝的海水和隐藏于岩石间的沙滩时，一切都是值得的。

@@ -1,7 +1,7 @@
 ---
 slug: nusa-dua-ketut-bbq
 title: 努沙杜瓦/南湾美食推荐│巴厘岛必吃猪肋排│鸡肉咖喱超赞│Ketut's BBQ Kitchen
-description: 这家餐厅是TripAdvisor网友评鉴南湾区美食餐厅第九名哦！ 巴厘岛美食推荐 他们的肋排好吃，还有超赞的鸡肉咖喱哦！ 到了南湾区不能错过的美食！
+description: '这家餐厅是TripAdvisor网友评鉴南湾区美食餐厅第九名哦！ 巴厘岛美食推荐 他们的肋排好吃，还有超赞的鸡肉咖喱哦！ 到了南湾区不能错过的美食！ '
 pubDate: '2023-08-15'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4ada70bc9c1ee841b2ae6336f3d9f917.jpg'
 tags:
@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64db6b56fd897800013a8e04'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 1d30a2f8843d836d907891e6ce6e3a77
+_srcHash: 82dd5554ef5495ffc162387cf508d20e
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1dc67621e6338385b170b597a9c2822a.jpg)

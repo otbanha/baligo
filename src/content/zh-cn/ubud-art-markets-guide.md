@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fc7f3da47eadb345f044cbd06455d214.jpg'
 originalUrl: 'https://vocus.cc/article/6712fb1dfd89780001f69011'
 lang: zh-cn
-_srcHash: 3eba5c71a0b24fcf3f7d7e7bf7142883
+_srcHash: 593b344983e6f2ab6b94a144c38c44d8
 ---
 
 乌布（Ubud）作为巴厘岛文化与艺术的中心，拥有多个极具特色的艺术市场，每一处都蕴含着独特的魅力与宝藏。今天就让我们一起探索这五个必访的艺术市场，感受巴厘岛最地道的文化氛围。
@@ -19,7 +19,7 @@ _srcHash: 3eba5c71a0b24fcf3f7d7e7bf7142883
 
 ## 1. Ubud Art Market（乌布艺术市场）
 
-位于乌布市中心，这里是最著名的传统艺术市场之一。电影《享受吧！一个人的旅行》（Eat Pray Love）曾在此取景，使其声名大噪。
+位于乌布市中心，这里是最著名的传统艺术市场之一。电影《美食、祈祷和恋爱》（Eat Pray Love）曾在此取景，使其声名大噪。
 
 ![Julia Roberts主演的「Eat, Pray, Love」在烏布藝術市場取景](https://images.gobaligo.id/vocus/vocus_8b10b3f0782a8f55634de8bd99244af2.jpg)
 

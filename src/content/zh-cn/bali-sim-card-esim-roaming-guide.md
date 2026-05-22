@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_dc48db1d4d9af371c1a100564890c868.jpg'
 originalUrl: 'https://vocus.cc/article/65f916bbfd89780001b916e0'
 lang: zh-cn
-_srcHash: f9b0f2be9e213f090264362c9cf8d505
+_srcHash: 4e5c34ff7fbdb2866926cc1be34e752e
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_db855d72e3a3f085829e4471ce055f11.jpg)
@@ -43,13 +43,13 @@ _srcHash: f9b0f2be9e213f090264362c9cf8d505
 
 在伍拉·赖国际机场 (DPS) 领取及归还设备，方便又快速。你可以在抵达机场后立即领取WiFi分享器，并在离开时方便地归还，不用为了取还设备而额外安排时间。
 
-> [一天不到$6美金，五个人共用，不限流量的 WiFi分享器](https://affiliate.klook.com/redirect?aid=116349&aff_adid=830604&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F68353-4g-portable-wifi-pick-up-dps-airport-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D37b0ce533e)
+[一天不到$6美金，五个人共用，不限流量的 WiFi分享器](https://affiliate.klook.com/redirect?aid=116349&aff_adid=830604&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F68353-4g-portable-wifi-pick-up-dps-airport-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D37b0ce533e)
 
 （其中全区信号最好的是「Orbit Telkomsel Mifi」）
 
 ## 使用国际漫游
 
-第二种方式是利用国际漫游，现在价格已经相当便宜。建议大家查询自己的电信公司的国际漫游套餐，通常有多种选项可供选择。使用原本的号码漫游的优点是不用换卡、不用租上网盒，省去很多麻烦。
+第二种方式是利用国际漫游，现在价格已经相当便宜。建议大家查询自己的电信公司的国际漫游套餐，通常有多种选项可供选择。使用原本的号码漫游的优点是免换卡、免租上网盒，省去很多麻烦。
 
 ## 当地购买SIM卡
 
@@ -57,7 +57,7 @@ _srcHash: f9b0f2be9e213f090264362c9cf8d505
 
 在机场购买的SIM卡和流量价格最贵，甚至有人被宰价格贵了三倍！因此，建议到外面的店家办理，因为他们需要登记您的护照，请司机带您去的好处是他们会带您去正规的店家办理，这样可以避免发生证件被盗用或被宰价格的情况。
 
-在巴厘岛当地办理SIM卡，Telkomsel这家国营印尼电讯公司是信号最好的，提供您参考。
+在巴厘岛当地办理SIM卡，Telkomsel这家国营印尼电信公司是信号最好的，提供您参考。
 
 ## 事先在网络购买
 

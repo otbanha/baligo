@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fdd8586ccd57a9e42f423ed3045d56c2.jpg'
 originalUrl: 'https://vocus.cc/article/65647143fd897800014b96f1'
 lang: zh-cn
-_srcHash: 5a52f2cf44b7cd06cceb8e58f11ecca7
+_srcHash: 29cca7e753690e325c21746add00651e
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c17bf195fd6ecbe15f62352549f17db8.jpg)
@@ -34,7 +34,7 @@ Omma Dayclub 巴厘岛的餐饮Omma Dayclub 巴厘岛的餐厅提供多种餐饮
 
 ## Omma Dayclub消费
 
-OMMA Dayclub 巴厘岛的消费方式OMMA Dayclub 巴厘岛的消费方式因不同的座位区有不一样的最低消费标准。
+OMMA Dayclub 巴厘岛的消费方式因不同的座位区有不同的最低消费标准。
 
 > [Omma Day Club优惠票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1209001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F100356-omma-dayclub-day-pass-ubud-sukawati-gianyar-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D022b469388)
 

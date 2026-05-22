@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4247795b82aced2551357471c02657b1.jpg'
 originalUrl: 'https://vocus.cc/article/6628aadefd897800018ca028'
 lang: zh-cn
-_srcHash: acc2e8dea51dc6a1f6cf1536c0bf200e
+_srcHash: 88278930c95ff9dab879ce43ea07ee91
 ---
 
 在巴厘岛的这段五天四夜之旅中，Clairejenjen 和她的朋友们探索了巴厘岛独特而多样的魅力。他们的行程充满了多姿多彩的活动和精彩的体验，从观赏日出到浮潜，再到丛林瑜伽，每一个瞬间都弥漫着惊奇与美好。
@@ -29,7 +29,7 @@ Clairejenjen视频截图
 
 ▼参加巴杜尔火山的行程：
 
-> [巴图尔火山吉普车越野+徒步之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)
+> [巴杜尔火山吉普车越野+徒步之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22005-mount-batur-sunrise-experience-4wd-jeep-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1d3d695e18)
 
 > [巴杜尔火山日出健行](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774153&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F7797-mount-batur-sunrise-trekking-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6645ae8416)
 
@@ -81,7 +81,7 @@ https://www.youtube.com/watch?v=faJH5pOjzpo
 
 {{block:戶外}}
 
-您觉得他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 

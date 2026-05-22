@@ -1,12 +1,12 @@
 ---
 slug: bali-tourist-regulations-2025
 title: >-
-  【Bali Travel Advisory】Bali Implements New Regulations for Foreign Tourists:
-  Emphasize Etiquette, Follow Order, and Mandatory Tourism Tax!
+  【Bali Travel Tips】New Regulations for Foreign Tourists in Bali: Emphasizing
+  Etiquette, Order, and Mandatory Tourism Tax!
 description: >-
-  Bali, as a globally popular tourist destination, has recently introduced
-  stricter regulations for foreign tourists. The Bali Provincial Government
-  officially issued **Circular No. 7 of 2025**, clearly outlining tourist
+  As a globally popular tourist destination, Bali has recently implemented
+  stricter regulations for foreign visitors. The Bali Provincial Government
+  officially issued Announcement No. 7 of 2025, clearly outlining tourist
   behavior guidelines, including mandatory obligations, prohibited actions, and
   penalties for violations, to preserve local culture and the environment.
 pubDate: '2025-03-25'
@@ -21,10 +21,10 @@ originalUrl: 'https://vocus.cc/article/67e242c9fd89780001f9444a'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 47ec50e7f6416eda61c9216407a305ba
+_srcHash: 9e201a564b2bfce93314ed339146b49a
 ---
 
-Bali, as a globally popular tourist destination, has recently introduced stricter regulations for foreign tourists. The Bali Provincial Government officially issued **Circular No. 7 of 2025**, clearly outlining tourist behavior guidelines, including mandatory obligations, prohibited actions, and penalties for violations, to preserve local culture and the environment.
+As a globally popular tourist destination, Bali has recently implemented stricter regulations for foreign visitors. The Bali Provincial Government officially issued **Announcement No. 7 of 2025**, clearly outlining tourist behavior guidelines, including mandatory obligations, prohibited actions, and penalties for violations, to preserve local culture and the environment.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e38d91165546796db77a86f37dbb3076.png)
 
@@ -32,38 +32,38 @@ Bali, as a globally popular tourist destination, has recently introduced stricte
 
 Bali Governor **Wayan Koster** emphasized that the new regulations aim to ensure foreign tourists respect local culture and reduce inappropriate behavior. Although similar regulations were issued in 2023, this update is more detailed to address various issues that have arisen over the past year and a half.
 
-## **Tourists Must Comply with the Following**
+## **What Tourists Must Comply With**
 
 1. **Respect Religious Culture**
 2. - When entering temples or visiting religious relics, maintain solemnity and avoid desecration.
-   - If encountering local ceremonies, observe proper etiquette and avoid disruption.
+   - If encountering local ceremonies, observe proper etiquette and avoid disturbances.
 3. **Hire Licensed Tour Guides**
-4. - When sightseeing in Bali, tourists must be accompanied by a licensed guide (or [professional private car driver](/blog/bali-private-car-drivers-guide/)) to ensure understanding of local customs and environmental norms.
+4. - When sightseeing in Bali, tourists must be accompanied by a licensed guide (or [professional private car driver](/blog/bali-private-car-drivers-guide/)) to ensure they understand local customs and environmental regulations.
 5. **Transaction and Payment Rules**
-6. - For currency exchange, only use officially authorized institutions (see [here](/blog/bali-currency-exchange-guide/) for details).
+6. - Exchange currency only at authorized institutions (see [here](/blog/bali-currency-exchange-guide/) for details).
    - Use Indonesian Rupiah for transactions.
 
-## **Transportation and Behavior Guidelines**
+## **Traffic and Behavioral Guidelines**
 
 - **Driving Regulations**:
 - - Motorcycle riders must wear helmets and possess a valid international or local driver’s license.
   - Drunk driving, overloading, or dangerous driving is prohibited.
-  - When renting a car, choose vehicles provided by legal rental companies.
+  - When renting a car, choose vehicles provided by legitimate rental companies.
 - **Accommodation Restrictions**:
-- - Only stay in government-approved accommodations and adhere to specific regulations at various attractions.
+- - Stay only at government-approved accommodations and adhere to specific regulations at various attractions.
 
 ## **Prohibited Actions, Violators Will Be Penalized**
 
 - **Religious Sites**:
-- - Entry to the core areas of temples is prohibited for non-worship purposes.
+- - Entry to the core areas of temples is prohibited for non-religious purposes.
   - Climbing sacred trees or engaging in disrespectful behavior is forbidden.
 - **Environmental Protection**:
-- - Littering is prohibited, especially near water sources.
-  - The use of single-use plastic items is restricted. Visitors are advised to avoid plastic bags, straws, and disposable utensils, and instead bring reusable bags or containers.
+- - Littering is prohibited, especially polluting water sources.
+  - The use of single-use plastic products is restricted. Visitors should avoid using plastic bags, straws, disposable utensils, etc., and are encouraged to bring reusable bags or containers.
 - **Conduct**:
-- - Offensive language or inappropriate behavior is not allowed.
+- - Offensive language or improper behavior is not allowed.
   - Engaging in commercial activities or illegal work without permission is prohibited.
 
-The governor has warned that **violators will face legal consequences**, including fines, deportation, and even criminal charges. If residents spot tourists violating the rules, they can report them by calling the hotline: **081-287-590-999**.
+The governor warned that **violators will face legal consequences**, including fines, deportation, or even criminal charges. If the public notices any violations, they can report them by calling the hotline: **081-287-590-999**.
 
-These new regulations take effect immediately, aiming to enhance the quality of tourism while protecting Bali's cultural and natural environment. Travelers planning to visit must adhere to these rules to avoid legal issues that could disrupt their trip.
+These new regulations take effect immediately, aiming to enhance tourism quality while protecting Bali's culture and natural environment. Travelers planning to visit must comply to avoid legal issues that could disrupt their trip.

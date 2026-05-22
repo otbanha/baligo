@@ -1,6 +1,6 @@
 ---
 slug: bali-evisa-application-tutorial
-title: '[视频教程] 印尼/巴厘岛电子签证详细步骤申请教程'
+title: '[视频教学] 印尼/巴厘岛电子签证详细步骤申请教学'
 description: 教学视频，带领大家一步一步了解如何在网上办理巴厘岛电子签证
 pubDate: '2024-05-10'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_99b4c695d1b19145f0df32d06884cf52.jpg'
@@ -14,10 +14,10 @@ originalUrl: 'https://vocus.cc/article/663da7ddfd89780001d83821'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: efa4b32d7483e2eaced017e2e360367b
+_srcHash: d1f840b2cda67470b081784ad5137e60
 ---
 
-有部分人对于办理印尼/巴厘岛旅游所需的签证可能感到困惑，不知道该从何开始，甚至无从下手。特别是对于第一次自助旅行的人来说，办理电子签证可能显得复杂而陌生。
+有部分的人对于办理印尼/巴厘岛旅游所需的签证可能感到困惑，不知道该从何开始，甚至无从下手。特别是对于第一次自助旅行的人来说，办理电子签证可能显得复杂而陌生。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_082327d58c16280d93d97286908a1644.jpg)
 

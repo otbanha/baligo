@@ -1,7 +1,9 @@
 ---
 slug: cretya-sunset-ubud-paradise
 title: 【乌布美食+美景】Cretya Sunset，巴厘岛乌布秘境：最梦幻的日落天堂
-description: "在饱览德哥拉郎梯田美景的 Cretya Ubub 大受欢迎之后，Alas Harum集团再推出全新力作——Cretya Sunset by Alas Harum, Ubud。\_这座位于乌布的全新日落日间俱乐部与餐厅，将带给您无与伦比的放松体验与绝美景色，成为您探索巴厘岛时不可错过的梦幻目的地"
+description: >-
+  在饱览德哥拉郎梯田美景的 Cretya Ubub 大受欢迎之后，Alas Harum集团再推出全新力作——Cretya Sunset by Alas
+  Harum, Ubud。这座位于乌布的全新日落日间俱乐部与餐厅，将带给您无与伦比的放松体验与绝美景色，成为您探索巴厘岛时不可错过的梦幻目的地
 pubDate: '2025-01-29'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ec754ce91cf35c0a79ad307a1a0c4f3f.jpg'
 tags:
@@ -14,10 +16,10 @@ originalUrl: 'https://vocus.cc/article/6799a185fd89780001c87e06'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 2c318a1777a705fec4a0a9806feefeb9
+_srcHash: 59d511f72893b2c0a7d59f13945d5ef9
 ---
 
-**在饱览德哥拉郎梯田美景的** [**Cretya Ubub**](/blog/cretya-ubud-alas-harum-budget-guide/) **大受欢迎之后，Alas Harum集团再推出全新力作——Cretya Sunset by Alas Harum, Ubud。** 这座位于乌布的全新日落日间俱乐部与餐厅，将带给您无与伦比的放松体验与绝美景色，成为您探索巴厘岛时不可错过的梦幻目的地。
+**在饱览德哥拉郎梯田美景的** [**Cretya Ubub**](/blog/cretya-ubud-alas-harum-budget-guide/) **大受欢迎之后，Alas Harum集团再推出全新力作——Cretya Sunset by Alas Harum, Ubud。** 这座位于乌布的全新日落日间俱乐部与餐厅，将带给您无与伦比的放松体验与绝美景色，成为您探索巴厘岛时不可错过的梦幻目的地。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2c6d7325ae36ad648aca156f8c68e65b.jpg)
 

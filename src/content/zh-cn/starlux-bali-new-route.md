@@ -23,7 +23,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: zh-cn
-_srcHash: 755b37cd15a11fe1c3f3325e0231e783
+_srcHash: c555c342641b32259cb50b5b9ac15c6b
 ---
 
 最近航空圈又有一则让人眼睛一亮的消息——  星宇航空 即将正式开航「台北－巴厘岛」直飞航线，已经不是「空穴来风」的消息了！

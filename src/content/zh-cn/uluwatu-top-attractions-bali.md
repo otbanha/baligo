@@ -19,18 +19,18 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/8mzJm_UrjSg'
 lang: zh-cn
-_srcHash: 412cee91958bb95723fb58db35e89aa7
+_srcHash: be10e4bf56adc0da17312b3480944456
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dd3f3b7cadfa7c280b3748820ff69beb.jpg)
 
 在乌鲁瓦图度过的每一分每一秒，您都能感受到天堂般的体验，我们并不是在夸大其词！巴厘岛乌鲁瓦图被严重低估了，而今天，我们将带您探索乌鲁瓦图的十大景点和必做活动，
 
-## 第十名：参观乌鲁瓦图寺庙
+## 第十名：参观乌鲁瓦图寺
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b953b86f0cdb3e5f162eec96ac861d2d.jpg)
 
-乌鲁瓦图寺庙 Uluwatu Temple被认为是巴厘岛最著名的寺庙之一，与海神庙 Tanah Lot、百沙基母庙 Besakih等寺庙齐名。Uluwatu Temple矗立在印度洋上17米高的峭壁上，是巴厘岛三大有名寺庙之一，体现了巴厘精神文明的基石。除了宗教意义重大外，您会为那壮丽的海景所吸引而前往参观。您还可在此欣赏绝美的日落景色。要小心的是这里的猴子非常顽皮，是东南亚最野蛮的猴子，所以请务必摘下眼镜和首饰。
+乌鲁瓦图寺 Uluwatu Temple被认为是巴厘岛最著名的寺庙之一，与海神庙 Tanah Lot、百沙基母庙 Besakih等寺庙齐名。Uluwatu Temple矗立在印度洋上17米高的峭壁上，是巴厘岛三大有名寺庙之一，体现了巴厘精神文明的基石。除了宗教意义重大外，您会为那壮丽的海景所吸引而前往参观。您还可在此欣赏绝美的日落景色。要小心的是这里的猴子非常顽皮，是东南亚最野蛮的猴子，所以请务必摘下眼镜和首饰。
 
 ## 第九名：观赏火舞表演
 
@@ -38,7 +38,7 @@ _srcHash: 412cee91958bb95723fb58db35e89aa7
 
 前来Uluwatu Temple参观的游客还可欣赏著名的Kecak火舞表演。这种独特的巴厘舞蹈不需要音乐伴奏，而是由一大群男士一起高声吟唱作为伴奏。如同所有巴厘舞蹈一样，它用舞蹈来诉说故事。在巴厘岛最佳观赏火舞的地点就是Uluwatu Temple的舞台，您可在舞者身后欣赏令人赞叹的日落景色。
 
-想去观赏这世上独一无二火舞表演的朋友，可以参考底下Klook颇受好评的行程，通过Klook预订票券，轻松享受充满震撼的火舞表演！
+想去观赏这世上独一无二火舞表演的朋友，可以参考底下Klook颇受好评的行程，透过Klook预订票券，轻松享受充满震撼的火舞表演！
 
 - [中文导游一日游：乌鲁瓦图庙夕阳＆卡恰火舞之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D913494d4bb)
 - [海神庙 & Padang Beach & 乌鲁瓦图日落 & 卡恰舞一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F72855-tanah-lot-padang-padang-beach-uluwatu-kecak-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De01c34283f)
@@ -52,7 +52,7 @@ _srcHash: 412cee91958bb95723fb58db35e89aa7
 
 Single Fin日落美景
 
-由于乌鲁瓦图位于西南海岸线上，从这里的高崖可以饱览印度洋的绝佳日落景色，无疑是巴厘岛最佳观赏日落的地点之一。欣赏在乌鲁瓦图寺庙前的日落景色更是独一无二的体验。如果您已经观赏过，不妨前往Single Fin酒吧，一边啜饮鸡尾酒，一边欣赏冲浪者在落日余晖中挥洒自如，还有Rock Bar也是赏日落的绝佳去处。
+由于乌鲁瓦图位于西南海岸线上，从这里峭壁可饱览印度洋的绝佳日落景致，无疑是巴厘岛最佳观赏日落的地点之一。欣赏在乌鲁瓦图寺庙前的日落景致更是独一无二的体验。如果您已经观赏过，不妨前往Single Fin酒吧，一边啜饮鸡尾酒，一边欣赏冲浪者在落日余晖中挥洒自如，还有Rock Bar也是赏日落的绝佳去处。
 
 ## 第七名：体验海滩俱乐部
 

@@ -1,7 +1,7 @@
 ---
 slug: nusa-penida-hotels-guide
-title: '【努沙佩尼达攻略五】佩尼达岛的住宿推荐: 14间从奢华到平价的努沙佩尼达好评住宿'
-description: 佩尼达岛努沙佩尼达的住宿指南
+title: '【Nusa Penida攻略五】佩尼达岛住宿推荐: 14间从奢华到平价的 Nusa Penida 好评住宿'
+description: 佩尼达岛 Nusa Penida 的住宿指南
 pubDate: 2024-02-12T00:00:00.000Z
 category:
   - 住宿推薦
@@ -19,14 +19,14 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d8ab044a198844bec62c51e0a0d26d91.jpg'
 originalUrl: 'https://vocus.cc/article/65c8e2dffd89780001346aa9'
 lang: zh-cn
-_srcHash: 3668a9f0fade73de3d5fa64bb1db4c34
+_srcHash: 5955a8d67fd2e67d31e94e42d01acdb0
 ---
 
 针对佩尼达岛我们共有五集介绍，一起来更深入认识这个海岛天堂！其他四集这里有传送门：
 
-1. [【巴厘岛 - 努沙佩尼达佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
-2. [佩尼达岛美食和碧海蓝天：努沙佩尼达的Top 9绝佳选择](/blog/nusa-penida-best-restaurants/)
-3. [努沙佩尼达努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/)
+1. [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
+2. [佩尼达岛美食和碧海蓝天：Nusa Penida的Top 9绝佳选择](/blog/nusa-penida-best-restaurants/)
+3. [Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/)
 4. [佩尼达岛出租车、Gojek/Grab、包车、摩托车交通攻略](/blog/nusa-penida-transport-guide/)
 
 ## 佩尼达岛住宿指南 – 常见问题解答
@@ -43,7 +43,7 @@ _srcHash: 3668a9f0fade73de3d5fa64bb1db4c34
 
 ### 佩尼达岛适合家庭入住吗？
 
-总体而言，佩尼达岛对于家庭来说是一个很棒的地方，您可以找到许多适合家庭入住的度假胜地。该岛拥有许多美丽的海滩、清澈的海水和友善的当地人。
+总体来说，佩尼达岛对于家庭来说是一个很棒的地方，您可以找到许多适合家庭入住的度假胜地。该岛拥有许多美丽的海滩、清澈的海水和友善的当地人。
 
 此外，您可以轻松地骑摩托车或步行在您所在的社区四处走动。
 
@@ -102,8 +102,8 @@ _srcHash: 3668a9f0fade73de3d5fa64bb1db4c34
 
 ### 南佩尼达岛景点 (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
-- 特姆贝林海滩
-- 拉古纳巴纳悬崖观景点
+- 坦贝林海滩
+- 拉古斯巴纳悬崖观景点
 
 ## 佩尼达岛高级住宿
 
@@ -135,7 +135,7 @@ _srcHash: 3668a9f0fade73de3d5fa64bb1db4c34
 
 想要体验更奢华的入住感受？选择私人泳池套房吧！套房空间更宽敞，设有附遮阳棚的日光浴场、私人泳池。
 
-> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=32273314)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=123445966&checkIn=2025-09-26&checkOut=2025-09-29&adult=2&children=0&subStamp=1456&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-O6x8jFJMEkxMTBKHWZkePbi5UL2Cx-CzpeX1xgy_VzooMnF5C1d_lahwCeSYySnAxAMM_IzVEQSDdY3nNydGLl2HNqI-MkRmlMOQ1GvLJMUNkZjOeOvrNawci4kdEWZNvEUocdjEwnGDt2LGRcwHTq3xvbXUysHFvuT2E5xMTCMWe7wSkmhktMDLeYGB4xMbxiYvjExPCLCWJUEzNDFzPDJGYWji2TBGYxMyxiZpDiNUgxTzY0MDdPNTNMM1EQ0lj0a8YxNiNrDkYFRi3B-BBPTxfDksJUs8JSy5yiAlMDoGuZPLxPMUoZmhtbGBoZGhkZGVka65lYpJkVW-QVW-RmRVgxSzG6eTAHsZk7GZg7O0dpcTF7ugQJmt-xcFZosLGXAvEUYTwtEM8QxktircrQ9fDOmCNcwNjFyCHA6MEYwVjB-IoRpOoHOCQAuaOSVJMBAAA&subChannel=&masterhotelid_tracelogid=0d7c1077e61f4&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&isFirstEnterDetail=T&locale=zh-HK&isRightClick=T&Allianceid=6817581&SID=242041353&trip_sub1=&trip_sub3=D5373363)
+> ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=32273314)｜[Trip.com空房查询&预订](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=123445966&checkIn=2025-09-26&checkOut=2025-09-29&adult=2&children=0&subStamp=1456&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-O6x8jFJMEkxMTBKHWZkePbi5UL2Cx-CzpeX1xgy_VzooMnF5C1d_lahwCeSYySnAxAMM_IzVEQSDdY3nNydGLl2HNqI-MkRmlMOQ1GvLJMUNkZjOeOvrNawci4kdEWZNvEUocdjEwnGDt2LGRcwHTq3xvbXUysHFvuT2E5xMTCMWe7wSkmhktMDLeYGB4xMbxiYvjExPCLCWJUEzNDFzPDJGYWji2TBGYxMyxiZpDiNUgxTzY0MDdPNTNMM1EQ0lj0a8YxNiNrDkYFRi3B-BBPTxfDksJUs8JSy5yiAlMDoGuZPLxPMUoZmhtbGBoZGhoZGVka65lYpJkVW-QVW-RmRVgxSzG6eTAHsZk7GZg7O0dpcTF7ugQJmt-xcFZosLGXAvEUYTwtEM8QxktircrQ9fDOmCNcwNjFyCHA6MEYwVjB-IoRpOoHOCQAuaOSVJMBAAA&subChannel=&masterhotelid_tracelogid=0d7c1077e61f4&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&isFirstEnterDetail=T&locale=zh-HK&isRightClick=T&Allianceid=6817581&SID=242041353&trip_sub1=&trip_sub3=D5373363)
 
 ### 【西】海景天际，宁静相伴：Sea La Vie Resort (📌[地图](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
@@ -201,9 +201,9 @@ MAUA Nusa Penida 是一家位于佩尼达岛的4.5星级私人泳池滨海别墅
 
 酒店设有半月形无边泳池、面向大海的日光浴场、公共休息室和景观花园。 此外，还提供餐厅、24 小时接待柜台、礼宾服务、旅游咨询台和付费港口接送服务。 房价含早餐。
 
-宽敞的瓷砖地板客房配有大床或单人床、书桌、保险箱、电视、电热水壶和冰箱，以及带淋浴的套房。 客房采用简约风格，明亮舒适。 每栋独立别墅均以传统风格建造，并拥有雕刻木质和彩绘柱子，外观令人印象深刻。
+宽敞的瓷砖地板客房配有双人床或单人床、书桌、保险箱、电视、电热水壶和冰箱，以及附淋浴的套房。 客房采简约风格，明亮舒适。 每栋独立别墅均以传统风格建造，并拥有雕刻木质和彩绘柱子，外观令人印象深刻。
 
-推荐选择海景房，额外花费物超所值。 家庭可以选择连通房或支付额外费用加床。
+推荐选择海景房，额外花费物超所值。 家庭可以选择相连房或支付额外费用加床。
 
 > ▶[Agoda空房查询&预订](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=14430582)｜[Trip.com空房查询&预订](https://www.trip.com/t/WK0z3EPPSR2)
 

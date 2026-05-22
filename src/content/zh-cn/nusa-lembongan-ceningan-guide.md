@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_aa116183dc1f233af038a641a45f065c.jpg'
 originalUrl: 'https://vocus.cc/article/66adfb9afd89780001f62df1'
 lang: zh-cn
-_srcHash: c7ff914c0b8b76538fe9632c8e52d056
+_srcHash: fa608c2f58fea996988cc14803fb20ac
 ---
 
 ![連接藍夢島 - 金銀島的 Yellow Bridge](https://images.gobaligo.id/vocus/vocus_488625e06cb2ee581533bcb166d2b842.jpg)
@@ -61,7 +61,7 @@ Jungut Batu Beach
 
 Sandy Bay有个beach club
 
-Devil's Tear中文叫做“恶魔的眼泪”，它是一片岩石峭壁，与海洋相接。站在这里，你可以从高处欣赏壮观的全景海洋，当时机适合时，大浪会撞击岩石，激起水花，这是一个完美的Instagram拍照地点。不过，请注意不要站得太近，因为突发的大浪有时会非常强劲，曾经发生过多次人被卷到海里去而造成遗憾，千万要小心！
+Devil's Tear中文叫做「恶魔的眼泪」，它是一片岩石峭壁，与海洋相接。站在这里，你可以从高处欣赏壮观的全景海洋，当时机适合时，大浪会撞击岩石，激起水花，这是一个完美的Instagram拍照地点。不过，请注意不要站得太近，因为突发的大浪有时会非常强劲，曾经发生过多次人被卷到海里去而造成遗憾，千万要小心！
 
 https://youtube.com/shorts/exdiGPLkVjw?si=sbLmSwieLvWyJ2uL
 
@@ -109,7 +109,7 @@ Panorama Point
 
 ## 穿越黄桥前往金银岛
 
-https://youtube.com/shorts/tHgwLtJvntQ?si=5eJZRpDp47JljbW6
+__VID0__
 
 金银岛（Nusa Ceningan）与蓝梦岛由著名的黄桥（Yellow Bridge）连接，金银岛有一些令人惊叹的景点。你可以在Blue Lagoon、Secret Beach和Mahana Point享受明亮的碧蓝海水。在这些地点中，有些地方提供悬崖跳水的挑战。Mahana Cliff的跳水点约15米高，跳水前最好检查潮汐，以免在低潮时跳水而受伤。请看【[蓝梦岛攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)】
 
@@ -141,7 +141,7 @@ https://youtube.com/shorts/a4mL69nASLY?si=UciZXsalBlU3fOjo
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_d17c2f51c9aeff110410081b920e48f1.png)
 
-蓝梦岛的餐厅和海滩俱乐部提供了多样化的美食选择，从当地的印尼料理到国际风味的菜肴应有尽有。在Jungut Batu和Mushroom Bay，你可以找到许多临海的餐厅和酒吧，享受美食和美景的双重盛宴。夜幕降临后，岛上的夜生活也开始热闹起来，许多酒吧和海滩俱乐部会举行现场音乐表演和派对，让你尽情放松和享受。
+蓝梦岛的餐厅和海滩俱乐部提供了多样化的美食选择，从当地的印尼料理到国际风味的菜肴应有尽有。在Jungut Batu和Mushroom Bay，你可以找到许多临海的餐厅和酒吧，享受美食和美景的双重飨宴。夜幕降临后，岛上的夜生活也开始热闹起来，许多酒吧和海滩俱乐部会举行现场音乐表演和派对，让你尽情放松和享受。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4658ef6acc04406ea26445d61ca062df.jpg)
 
@@ -158,10 +158,10 @@ https://youtube.com/shorts/a4mL69nASLY?si=UciZXsalBlU3fOjo
 在蓝梦岛上交通费用：
 
 - 租摩托车：一天75,000～100,000印尼盾（USD$5～7）
-- Pick-up truck：单程50,000（USD$3）
+- Pick-up truck：单程50,000印尼盾（USD$3）
 - 包车：蓝梦岛的包车选择不多，费用也比较昂贵，一天8小时收费为每800,000印尼盾（USD$51）
 
-租用摩托车不仅经济实惠，更能让你自由自在地探索岛上每个角落，按照自己的步调游览各个景点。而货车接驳服务则是一个饶富趣味的在地体验，特别适合不习惯骑车或携带较多行李的旅客。
+租用摩托车不仅经济实惠，更能让你自由自在地探索岛上每个角落，依照自己的步调游览各个景点。而货车接驳服务则是一个饶富趣味的在地体验，特别适合不习惯骑车或携带较多行李的旅客。
 
 **温馨提醒**：租摩托车时请务必确认车况良好，并记得索取收据。如选择货车接驳，建议提前询问价格并与司机确认目的地，以避免沟通误会。
 
@@ -195,7 +195,7 @@ https://youtube.com/shorts/D6ZFGWE74cE?si=MZirFtJ63sUvQG12
 
 所有景点标注的蓝梦岛攻略地图
 
-如果你打算去蓝梦岛、金银岛探险、放松，我们准备的【[蓝梦岛攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)】别忘了保存到手机哦！
+如果你打算去蓝梦岛、金银岛探险、耍废，我们准备的【[蓝梦岛攻略地图](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing)】别忘了保存到手机喔！
 
 ## 蓝梦岛常见问题 (FAQ)
 
@@ -229,7 +229,7 @@ https://youtube.com/shorts/D6ZFGWE74cE?si=MZirFtJ63sUvQG12
 
 ### 8. **蓝梦岛有哪些必看的景点？**
 
-除了黄桥和美丽的海滩外，蓝梦岛的「魔鬼的眼泪」（Devil's Tears）是著名的天然景观，海浪撞击悬崖形成壮观的水雾，非常值得一看。
+除了黄桥和美丽的沙滩外，蓝梦岛的“魔鬼的眼泪”（Devil's Tears）是著名的天然景观，海浪撞击悬崖形成壮观的水雾，非常值得一看。
 
 ### 9. **如何从巴厘岛到达蓝梦岛？**
 

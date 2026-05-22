@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/661fd461fd89780001c43520'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 5c066191431fbaea22e10ce9faab71a6
+_srcHash: 85321788d99b152524dffa6c1368b738
 ---
 
 要到印尼或巴厘岛旅游需要申请签证(VISA)。而申请签证的方法有两种, 这两种方法的比较请参考: [巴厘岛旅游签证攻略：落地签 vs 电子签，哪种更适合你？](/blog/bali-visa-landing-vs-electronic/)
@@ -39,7 +39,7 @@ _srcHash: 5c066191431fbaea22e10ce9faab71a6
 
 ### 重点都在范例一:
 
-1. 档案格式jpeg/jpg/png文件名的彩色照片
+1. 文件格式jpeg/jpg/png文件名的彩色照片
 2. 最小尺寸为400x600
 3. 文件不能大于**2MB**
 4. 适当的构图
@@ -62,7 +62,7 @@ _srcHash: 5c066191431fbaea22e10ce9faab71a6
 
 不建议使用: 太模糊的照片、不是脸的照片、带有过多表情的照片
 
-如果参照我们的指示还是没有跳至下一步, 那就请间隔六个小时再试试。
+如果参照我们的指示还是没有跳至下一步，那就请间隔六个小时再试试。
 
 ## 延伸阅读
 

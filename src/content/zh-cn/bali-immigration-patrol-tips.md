@@ -15,7 +15,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-cn
-_srcHash: 19ddbccf56547acceee9ba5222652402
+_srcHash: cc624d8bc2afc615caa3dffd68d58a1f
 ---
 
 ## 🏝️ 巴厘岛移民署小队出动啦！ 🚨
@@ -46,7 +46,7 @@ _srcHash: 19ddbccf56547acceee9ba5222652402
 
 ## 新的签证制度：Hybrid Application System
 
-为了更好地管理旅客，印尼移民局在 2025 年 5 月推出了全新的 **Hybrid Application System**。现在，申请延签的旅客必须亲自到移民局办理，包括生物识别、文件核对，有时甚至需要面试。
+为了更好地管理旅客，印尼移民局在 2025 年 5 月推出了全新的 **Hybrid Application System**。现在，申请延签的旅客必须亲自到移民局办理，包括生物辨识、文件核对，有时甚至需要面试。
 
 这项政策的目的不只是方便管理，更希望能有效遏止不合法行为。
 

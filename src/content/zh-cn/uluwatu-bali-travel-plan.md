@@ -18,7 +18,7 @@ embeds:
     platform: youtube
     url: 'https://www.youtube.com/watch?v=v6W_UtIxH0Y'
 lang: zh-cn
-_srcHash: 133d8222e2430f4a701f0fbd7bc8fda1
+_srcHash: 49b1c1411ea694a4246bf74e27eaadde
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_31df71252b0296e7d4223bd574817f5b.jpg)
@@ -43,9 +43,9 @@ Padang Padang Beach小杰的介绍
 
 想去观看火舞表演的朋友，可以参考底下Klook颇受好评的行程，通过Klook预订票券，轻松享受充满震撼的火舞表演！
 
-- [中文导游一日游：乌鲁瓦图庙夕阳＆卡恰火舞之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D913494d4bb)
+- [中文导游一日游：乌鲁瓦图寺庙夕阳＆卡恰火舞之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D913494d4bb)
 - [海神庙 & Padang Beach & 乌鲁瓦图日落 & 卡恰舞一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F72855-tanah-lot-padang-padang-beach-uluwatu-kecak-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De01c34283f)
-- [乌布Exotic瀑布 & 乌鲁瓦图寺私人游（含卡恰舞体验）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47697-kato-lampo-tegenungan-tibumana-waterfall-uluwatu-kecak-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9d80dd262f)
+- [乌布Exotic瀑布 & 乌鲁瓦图寺庙私人游（含卡恰舞体验）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806779&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47697-kato-lampo-tegenungan-tibumana-waterfall-uluwatu-kecak-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9d80dd262f)
 - [巴厘岛顶级南部海滩一日游(含火舞&金巴兰海滩晚餐)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F44132-bali-top-southern-beaches-uluwatu-kecak-dance-day-seafood-dinner%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D671175544d)
 - [乌鲁瓦图火舞秀门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D62c1df7f53)
 
@@ -53,9 +53,9 @@ Padang Padang Beach小杰的介绍
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_14404cb9ac9d29034a3956e573c160a7.png)
 
-> [巴厘岛搭乘直升机顶级体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=853434&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F56864-bali-helicopter-ride-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5ad384ea8)
+> [巴厘岛搭乘直升机顶级体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=853434&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F56864-bali-helicopter-ride-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd5ad384ea8)
 
-这段视频生动地展现了乌鲁瓦图这块区域丰富多元的旅游资源，包括迷人海景、度假胜地、地道体验等，让观众能充分认识这个日渐兴盛的旅游热门胜地。
+这段视频生动地展现了乌鲁瓦图这块区域丰富多元的旅游资源，包括迷人海景、度假胜地、地道体验等，让观众能充分认识这个日渐兴盛的旅游热门地。
 
 ![烏魯瓦圖攻略有更全面的介紹](https://images.gobaligo.id/vocus/vocus_21777e6a472d74c62c56833f409a2864.jpg)
 

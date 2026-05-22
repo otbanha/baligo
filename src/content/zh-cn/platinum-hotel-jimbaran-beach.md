@@ -1,10 +1,11 @@
 ---
+title: '[金巴兰性价比最高] USD$70起入住2024新开业 Platinum Hotel Jimbaran Beach'
 slug: platinum-hotel-jimbaran-beach
-title: '[金巴兰性价比最高] USD$70起入住2024新开业的Platinum Hotel Jimbaran Beach'
 description: >-
-  这家全新开业的Platinum Hotel Jimbaran Beach Bali位于巴厘岛金巴兰，距离著名的Kedonganan
-  Beach和金巴兰海滩只需步行即可到达
+  这家全新开业的 Platinum Hotel Jimbaran Beach Bali 位于巴厘岛金巴兰，距离著名的 Kedonganan Beach
+  和金巴兰海滩只需步行即可到达
 pubDate: 2025-02-07T00:00:00.000Z
+pubHour: null
 category:
   - 住宿推薦
 tags:
@@ -30,17 +31,14 @@ tags:
   - Family boutique accommodation Jimbaran
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ececaaa143ec2fa4ce59ec0fb51c7291.jpg'
 originalUrl: 'https://vocus.cc/article/67a5905bfd89780001e1b2b3'
-agoda_hotel_id: 47017338
-agoda_hotel_name: 峇里島金巴蘭海灘白金飯店
-agoda_star_rating: 5
-latitude: -8.762973
 longitude: 115.17032
+agoda_star_rating: 5
+agoda_hotel_name: 峇里島金巴蘭海灘白金飯店
+agoda_hotel_id: 47017338
+latitude: -8.762973
 lang: zh-cn
-_srcHash: a69d7192617ddcfb1da38688f90348db
+_srcHash: ed48d9453fbbfc4d3e193e7bc283332c
 ---
-
-## **🏨 Platinum Hotel Jimbaran Beach Bali｜2024 全新开业，绝美海景五星级度假天堂！**
-
 {{block:test}}
 
 这家全新开业的 **Platinum Hotel Jimbaran Beach Bali** 位于巴厘岛金巴兰，距离著名的 **Kedonganan Beach** 和 **金巴兰海滩** 只需步行 30 秒！无论是日光浴、海滩漫步还是水上活动，都能轻松享受。此外，酒店距离 **伍拉·赖国际机场（DPS）** 只有 1 公里，并提供 **付费机场接送服务**，让您的旅程更轻松顺畅。
@@ -153,13 +151,13 @@ _srcHash: a69d7192617ddcfb1da38688f90348db
 
 ✅ **丰富餐饮选择，每晚主题吃到饱自助餐**
 
-✅ **亲子友好、长住适宜，提供多样房型选择**
+✅ **亲子友善、长住适宜，提供多样房型选择**
 
 ✅ **贴心服务 & 高规格设施，满足所有旅客需求**
 
-无论是 **_蜜月旅行_**、**_家庭度假_**，还是 **朋友结伴同行**，这里都是你不可错过的梦幻度假胜地！✨
+无论是 **蜜月旅行**、**家庭度假**，还是 **朋友结伴同行**，这里都是你不可错过的梦幻度假胜地！✨
 
-> **USD$70起，**[请看Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47017338)
+> **USD$70起，**[请看Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47017338) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=114658134&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6xcTFJMEkdZiJo3PW5TdsQowGFr8FHRlA4EaNg2fr68AdcqYNDgE8EVMOPJ_Gnig9L07z9A0fhy5GVrDADMZr066ZbWQM2iHX-nqij8MORqYDjEwnGF8JLWB6BJQ5xcLM0cl0iWU3Y3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZRmamegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrYx-xMEXHfmJh-MXC0MTK0MXKzNHDNAlIvhLaxcoWYuIV5Bt1gfWbiJS8oYGBgamhsamprkGiZaKZgWGKromliZGZsa6hoYWFucb8eZ9PPTE2spaCBJ4Co5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNhMXE0c3gygbLmZPlyDB_B1KDjlWlvZSzCHhLoo2e4OmKfadttcCyRnC5ALXb_2-UstkgX3kPz7XRruJp-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAO7ydwi8CAAA&masterhotelid_tracelogid=100051355-0a9a601d-494263-11887&detailFilters=17|1~17~1*31|114658134~31~114658134*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1232&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/QlGba9Tm)
 
 ***
 
@@ -177,8 +175,7 @@ _srcHash: a69d7192617ddcfb1da38688f90348db
 
 酒店的地理位置真的没话说，顶楼露台的景观无可挑剔，可以俯瞰整片金巴兰沙滩，白天和夜晚各有不同的美感。不过，刚入住的房间有较浓的消毒水味道，后来更换后改善不少。此外，因为临海的关系，晚上仍能听到一些环境噪音（如远处的音乐声或野狗叫声），对声音较敏感的旅客可能需要准备耳塞。不过以这个价格来说，还是非常值得入住的选择！
 
-> **USD$70起，**[请看Agoda优惠价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47017338)
-
+> **USD$70起，**[请看 Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47017338) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=114658134&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6xcTFJMEkdZiJo3PW5TdsQowGFr8FHRlA4EaNg2fr68AdcqYNDgE8EVMOPJ_Gnig9L07z9A0fhy5GVrDADMZr066ZbWQM2iHX-nqij8MORqYDjEwnGF8JLWB6BJQ5xcLM0cl0iWU3Y3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZRmamegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrYx-xMEXHfmJh-MXC0MTK0MXKzNHDNAlIvhLaxcoWYuIV5Bt1gfWbiJS8oYGBgamhsamprkGiZaKZgWGKromliZGZsa6hoYWFucb8eZ9PPTE2spaCBJ4Co5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNhMXE0c3gygbLmZPlyDB_B1KDjlWlvZSzCHhLoo2e4OmKfadttcCyRnC5ALXb_2-UstkgX3kPz7XRruJp-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAO7ydwi8CAAA&masterhotelid_tracelogid=100051355-0a9a601d-494263-11887&detailFilters=17|1~17~1*31|114658134~31~114658134*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1232&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/QlGba9Tm)
 
 ## 更多金巴兰吃喝玩乐介绍
 

@@ -2,7 +2,7 @@
 slug: 2024-bali-multiple-entry-visa
 title: 'Bali D1 Multiple Entry Visa: Latest Bali Visa Updates for 2024'
 description: >-
-  Bali's latest [Multiple Entry Visa] (D1 Visa) starting in 2024: How to obtain
+  Starting in 2024, Bali's latest [Multiple Entry Visa] (D1 Visa): How to obtain
   this visa and its related conditions.
 pubDate: '2024-02-05'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d7e9f14f3a79c5539a7279922e19c5b9.jpg'
@@ -16,41 +16,41 @@ originalUrl: 'https://vocus.cc/article/65c0796ffd89780001e8d6db'
 category:
   - 簽證通關
 lang: en
-_srcHash: 2abf1df69f8c1a05b7be78e58a019fbf
+_srcHash: 8b12aeb4124d2066a5e96d143e0af84b
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_75a017bcc23776bfdf405a8361b72773.jpg)
 
-Bali has always been a popular destination for travelers, and visa issues have been a focal point for many. In this article, we will explore Bali's latest [Multiple Entry Visa] (D1 Visa) starting in 2024 and explain how to obtain this visa and its related conditions.
+Bali has always been a popular destination for travelers, and visa issues have been a major concern for many. In this article, we will explore Bali's latest [Multiple Entry Visa] (D1 Visa) starting in 2024 and explain how to obtain this visa and its related conditions.
 
 ## Introduction to Bali's New Multiple Entry Visa (D1 Visa)
 
-The D1 Visa is Bali's newly introduced multiple entry visa, offering a longer stay duration and more flexibility compared to the previous D212 Visa. Holders of the D1 Visa can stay in Bali for up to 180 days and enter and exit Indonesia an unlimited number of times.
+The D1 Visa is Bali's newly introduced multiple entry visa, offering a longer stay duration and more flexibility compared to the previous D212 Visa. Holders of the D1 Visa can stay in Bali for up to 180 days and have unlimited entries and exits within Indonesia.
 
-## D1 Visa Duration
+## Duration of the D1 Visa
 
-The D1 Visa is valid for 60 days initially and can be extended twice, allowing for a total stay of 60 + (60 X 2) = 180 days. There are no restrictions on the number of entries and exits during this 180-day period.
+The D1 Visa is initially valid for 60 days and can be extended twice, allowing for a total stay of 60 + (60 X 2) = 180 days. There are no restrictions on the number of entries and exits during this 180-day period.
 
-## D1 Visa Requirements
+## Conditions for the D1 Visa
 
 To obtain the D1 Visa, applicants need to prepare the following documents:
 
-1. A scanned copy of your passport, with a validity of at least 18 months.
-2. The name of your first hotel in Bali.
+1. A scanned copy of the passport, with a validity of at least 18 months.
+2. The name of the first hotel in Bali.
 3. Bank statements from the last three months, showing a balance of at least $2,000.
 4. A clear photo against a plain background, ensuring the selfie is clearly visible.
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7867ad9edfc76e26bbc9392e89cde713.png)
 
-**Booking and Saving Tips:**
+**Bookings and Savings Tips Here:**
 
 ➡️[Find Bali Accommodations Here](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&city=17193)⬅️  
 ➡️[More Great Bali Deals Click Here](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
 
 ## How to Apply for a D1 Visa?
 
-The D1 visa cannot be applied for independently, but the process is actually very straightforward. Simply provide the aforementioned documents and apply through an authorized agent.
+The D1 visa cannot be applied for individually, but the process is actually quite straightforward. Simply provide the aforementioned documents and apply through an agent.
 
 ## Conclusion
 
-Bali's new multiple-entry visa (D1 visa) offers visitors a more convenient and flexible option for traveling to the island. By following the relevant conditions and submitting the required documents, you can easily obtain this visa and fully enjoy a wonderful long stay journey in Bali.
+Bali's new multiple-entry visa (D1 visa) offers visitors a more convenient and flexible option for traveling to the island. By adhering to the relevant conditions and submitting the required documents, you can easily obtain this visa, allowing you to fully enjoy a wonderful long stay journey in Bali.

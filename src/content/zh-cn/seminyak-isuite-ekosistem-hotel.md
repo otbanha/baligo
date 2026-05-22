@@ -25,13 +25,12 @@ tags:
   - Petitenget 飯店推薦
   - 峇里島蛋形浴缸飯店
   - 峇里島 Potato Head 附近住宿
-update: 2026/05/22
 heroImage: ''
 originalUrl: ''
 private: false
 embeds: []
 lang: zh-cn
-_srcHash: f00ed5dde1974f41f115bb1ee03b889c
+_srcHash: 8377275f8aa90811e149128c0d4301e0
 ---
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775535786474-5d46ab2d758906f0d426180ffab41ee1.webp)
@@ -42,9 +41,9 @@ _srcHash: f00ed5dde1974f41f115bb1ee03b889c
 
 ## 📍 位置与周边环境
 
-地址在 Jl. Petitenget No. 19X，Seminyak 核心地带。这个区域对巴厘岛常客来说完全不陌生：一出门就是整条 Petitenget 街，走路几分钟就能到 Potato Head Beach Club，附近还有 Sarong Asian Fusion Restaurant、Shiro Sushi（就在旁边，根本超方便）、Amici Club 就在对面。往海滩方向走，步行约 8 分钟可以到 Batu Belig Beach，Petitenget Temple 也只要 7 分钟脚程。
+地址在 Jl. Petitenget No. 19X，水明漾核心地带。这个区域对巴厘岛常客来说完全不陌生：一出门就是整条 Petitenget 街，走路几分钟就能到 Potato Head Beach Club，附近还有 Sarong Asian Fusion Restaurant、Shiro Sushi（就在旁边，根本超方便）、Amici Club 就在对面。往海滩方向走，步行约 8 分钟可以到 Batu Belig Beach，Petitenget Temple 也只要 7 分钟脚程。
 
-整个 Petitenget 区的氛围介于 Seminyak 的精致夜生活跟坎古的悠闲感之间——不是那种吵到你睡不着觉的观光地带，但你想找餐厅、咖啡馆、按摩、便利店，脚程内都能解决。对号称要「出门方便又不想太热闹」的旅客来说，位置是加分的。
+整个 Petitenget 区的氛围介于水明漾的精致夜生活跟坎古的悠闲感之间——不是那种吵到你睡不着的观光地带，但你想找餐厅、咖啡馆、按摩、便利店，脚程内都能解决。对号称要「出门方便又不想太热闹」的旅客来说，位置是加分的。
 
 ***
 
@@ -116,13 +115,13 @@ _srcHash: f00ed5dde1974f41f115bb1ee03b889c
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775536088070-e453bbe333cd2bcb8ddc5de85a8aaa51.webp)
 
-细节配备比想象中丰富：迷你吧免费喝（但喝完不补）、玻璃瓶装矿泉水无限补、小零食和水果、双洗手台、智能马桶、雨淋花洒加手持莲蓬头、智能电视、JBL 蓝牙喇叭（内置闹钟，这个设计很实用）、全球通用插座、还有一瓶刷牙专用矿泉水。房间灯光氛围也特别被住客称赞，整体质感细节远超同价位选项。
+细节配备比想象中丰富：迷你吧免费喝（但喝完不补）、玻璃瓶装矿泉水无限补、小零食和水果、双洗手台、智能马桶、雨淋花洒加手持莲蓬头、智能电视、JBL 蓝牙音箱（内置闹钟，这个设计很实用）、全球通用插座、还有一瓶刷牙专用矿泉水。房间灯光氛围也特别被住客称赞，整体质感细节远超同价位选项。
 
 唯一小缺点：房间没有挂牌式的「请打扫」或「请勿打扰」牌，但前台每天出门时会口头询问你是否需要整理房间，习惯了就还好，但第一次住可能要适应一下。另外有住客提到窗帘遮光需要摸索一下，若对光线敏感建议入住时跟前台确认操作方式。
 
 ***
 
-## 👥 适合群体
+## 👥 适合人群
 
 最适合对设计感有要求、想要低调精致而不是大片 villa 的旅客。情侣或蜜月旅行非常合适，蛋形浴缸加 Spa 折扣这组合根本是套餐；闺蜜或朋友同游也适合，空间够大、不会互相干扰。不特别推荐带婴幼儿，泳池有 12 岁以下须大人陪同的规定，整体氛围也偏静谧。
 
@@ -140,7 +139,7 @@ _srcHash: f00ed5dde1974f41f115bb1ee03b889c
 
 > 评分：Trip.com 9.8/10 ⭐ | Tripadvisor 100% 好评 | Agoda 高度好评
 > 地址：Jl. Petitenget No.19X, 水明漾, 巴厘岛, 印度尼西亚
-> [房价 & 订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65962393) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=126273579&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLRMNLM0NNE1sTQxMjfUNTQ0tzDWWLT9wo0nxkYGWoLxIZ6eLoYlhalmhaWWOUUFpqcYpQzNjS0MjQwNjYyMLI31TCzSzIot8ootcrMiPBiD2FzMXByNTKP4pJhDwl0US1c_X_K997R9EmtVhm5IeEavOADcu2e8ggAAAA&masterhotelid_tracelogid=100051355-0a9a6914-494271-11783&detailFilters=17|1~17~1*31|126273579~31~126273579*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=720&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/XmQqvj2f)
+> [房价 & 订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65962393)
 
 本住宿由团友 [Gary哥不想上班](https://www.facebook.com/profile.php?id=61580124374634) 推荐, 部分照片为 Gary 亲自拍摄
 

@@ -25,7 +25,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: zh-cn
-_srcHash: 1056b66ca6d44f80629dea19b2b01c25
+_srcHash: b63e1fb71278408f18a096c2ea95dbf7
 ---
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775702831699-1000117790.jpg)
@@ -63,7 +63,7 @@ _srcHash: 1056b66ca6d44f80629dea19b2b01c25
 
 ## 如何应对？
 
-面对飞往巴厘岛或雅加达的机票变得更加昂贵，旅游达人提出了3招应对策略，帮助你精省开支：
+面对飞往巴厘岛或雅加达的机票变得更加昂贵，旅游达人提出了3招应对对策，帮助你精省开支：
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775702565966-1000117789.jpg)
 

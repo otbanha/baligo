@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_abbcdb77075f99d883ef6f54309163fa.jpg'
 originalUrl: 'https://vocus.cc/article/67eb9e4afd89780001eb48fb'
 lang: zh-cn
-_srcHash: 76aa722d39c2f46c5ce1bbe858c20588
+_srcHash: 58a74f91b35afd9e64a610122ee3d30f
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_95d91a1539287683737d3e0a04d1e1c8.jpg)
@@ -34,7 +34,7 @@ _srcHash: 76aa722d39c2f46c5ce1bbe858c20588
 
 ***
 
-## 💎 专案包含
+## 💎 项目包含
 
 ✅ **全程机票**（经济舱含税）
 
@@ -50,7 +50,7 @@ _srcHash: 76aa722d39c2f46c5ce1bbe858c20588
 
 ## 📌 重要信息
 
-**优惠价** USD$1,187/人（二人成行现金价，不同人数欢迎咨询）
+**优惠价** USD$1,188/人（二人成行现金价，不同人数欢迎咨询）
 
 **适用日期** 即日起至2026年12月
 

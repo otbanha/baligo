@@ -5,7 +5,6 @@ description: >-
   来到巴厘岛度假，我和我的旅伴希望能留下更多美好的回忆。在众多旅游选择中，我们决定预订一个特别的行程 -
   「巴厘岛专业摄影师随行一日游」。这个套餐不仅提供景点导览，更重要的是有专业摄影师全程跟拍，使用相机和航拍机为我们记录每个珍贵时刻。对于想要拍出美美照片却又不想错过亲身体验的我们来说，这样的安排再完美不过了！
 pubDate: '2025-05-23'
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_83a7108ec8053f9e5e8e3f058ce1ffbf.jpg'
 tags:
   - 峇里島攝影
@@ -17,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/682f01fafd89780001c5425b'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: a4b9b9f6b35f8a96ddb33cd68d27d9f5
+_srcHash: 9adeed475453864ad7528cf3aee7575c
 ---
 在巴厘岛的前几天，我们入住了「巴厘岛喜来登库塔度假村」（Sheraton Bali Kuta Resort），这个地点实在太完美了！下楼隔壁就是超好逛的Beachwalk Shopping Center，各种品牌店铺和餐厅应有尽有，让我们逛得不亦乐乎。更棒的是，从酒店过个马路就能马上到达库塔海滩，我们每天都在这里学习冲浪，感受印度洋浪花的刺激。傍晚时分则从滨海的泳池就能欣赏到绝美的夕阳。入夜后漫步在热闹的街道上，品尝各式各样的当地美食和国际料理。库塔的夜生活让我们体验到巴厘岛年轻、充满活力的一面。
 
@@ -25,7 +24,7 @@ _srcHash: a4b9b9f6b35f8a96ddb33cd68d27d9f5
 
 ## 出发前的准备
 
-▶[**Sheraton Bali Kuta Resort 订房链接**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987824&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zszFJMEk9YGZY-mso0_ZhBiNDDgtPgk6nj0DBEZtDp5c1xcX2N7pcgjgaWS0BXFqXR1mMG5YarOCkXEj4zeNmP5DS5McdjAynWCcJb-A6ezKV8ynWJg5trJeYvnKFF2tlJ1aqWRloqNUklmSk6pkpfR00bynDXuer2hV0lFKSS1OBgoBWYm5-aV5JUC2sbGBnoEBUKQkscIzBawzOTEnuTQnsSQ1pLIAaIKZjlJmsXNJUWZBUGpuZklJKlBVWmJOcSpIPCi1GCiTDBZU8gMaUwQVyMzPg2g3QBELS8wpTYU4AWihWyrUDsNaHUyXP5vT-7R75otNu3G43MwYxeXmA-Jy49rYRyxM0bGfWBh-sTA0sTJ0sTJMYmXmmCW_i5UnxNTfzdlX11A3StdQSt7QwMDA1NDY1FTXINHSwtgo0UjXxNLEyMxM19TCzNhUY9nO7xeeGBtZS7FOOfB8GrsCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNjMLcxMDiygbLmZPlyDBD3rPt7dbW9pLMYeEuyh-WH7M27zztL0WSM4QJhe453XOCXvjBfaRMPkk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUAY6Xp_uMCAAA&masterhotelid_tracelogid=100051355-0a9832a2-494266-58635&detailFilters=17|1~17~1*31|987824~31~987824*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=225&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/q7Xyh0DQ)
+▶[**Sheraton Bali Kuta Resort 订房链接**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=407502)
 
 在出发前一天，我们收到了摄影师兼导游的Udin通过WhatsApp发来的确认信息，详细说明了接送时间和地点。由于这次选择的是巴厘岛专业摄影师随行一日游，行程包含相机及航拍机拍摄服务，让我们对即将到来的旅程充满期待。
 
@@ -72,7 +71,7 @@ _srcHash: a4b9b9f6b35f8a96ddb33cd68d27d9f5
 
 午餐后，我们前往今天行程的最后一站 - 蒂布马纳瀑布（Tibumana Waterfall）。
 
-这里离乌布有一点距离，也正因为如此可以享受人少景美的悠闲感。在车上打了一个盹，我们抵达停车场。我们的行程包含所有景点的门票，所以我们只要跟着 Udin 走就是。沿着小径穿越茂密的热带雨林，瀑布的声音渐渐清晰。蒂布马纳瀑布仿佛银丝从天而降，洒落在碧绿潭水中。
+这里离乌布有一点距离，也正因为如此可以享受人少景美的悠闲感。在车上打了一个盹，我们抵达停车场。我们的行程有包含所有景点的门票，所以我们就只要跟着 Udin 走就是。沿着小径穿越茂密的热带雨林，瀑布的声音渐渐清晰。蒂布马纳瀑布仿佛银丝从天而降，洒落在碧绿潭水中。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0f90bb6512bf564843f7ec10f5422a89.jpg)
 
@@ -86,7 +85,7 @@ _srcHash: a4b9b9f6b35f8a96ddb33cd68d27d9f5
 
 ## 回程 - 15:00返回库塔
 
-下午三点，我们开始返回库塔的旅程。在车上，摄影师与我们分享各种拍摄趣事：“上周有对情侣在瀑布求婚，结果戒指差点被猴子抢走……”
+下午三点，我们开始返回库塔的旅程。在车上，摄影师与我们分享各种拍摄趣事：「上周有对情侣在瀑布求婚，结果戒指差点被猴子抢走……」
 
 整趟旅程中，摄影师不仅专业地记录了我们的每个珍贵时刻，同时也以流利的英语为我们介绍每个景点的历史和文化背景，让这趟旅程不仅仅是观光，更是一次深度的文化体验。
 
@@ -107,10 +106,10 @@ _srcHash: a4b9b9f6b35f8a96ddb33cd68d27d9f5
 - 2个经过编辑的无人机视频文件
 - 1个已编辑的视频素材汇编文件
 
-## 📝 务实备注：给想报名的你
+## 📝 实用备注：给想报名的你
 
-- 行程紧凑但弹性，司机/导游/兼摄影师会依照当日光线与天气灵活调整拍摄时间与顺序。
-- 所有入场门票都已含在套餐费用中。
+- 行程紧凑但灵活，司机/导游/兼摄影师会根据当天的光线和天气灵活调整拍摄时间和顺序。
+- 所有入场门票都已包含在套餐费用中。
 - 午餐为自费，自由选择。
 - 瀑布区地形湿滑，建议自备**毛巾、防滑鞋、泳衣**与**替换衣物**。
 - 无强迫购物或额外收费。

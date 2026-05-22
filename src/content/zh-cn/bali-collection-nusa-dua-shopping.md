@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ddd14d39231e5b7db312805242b99d65.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b58fd897800013a8ea3'
 lang: zh-cn
-_srcHash: a78197fd466135dd4b6dbb9d01da74e9
+_srcHash: 61dd72d5fe337e89ec25f1caac014459
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c717033197ffb51d7883f00a2b4c338f.jpg)
@@ -32,7 +32,7 @@ _srcHash: a78197fd466135dd4b6dbb9d01da74e9
 
 步入「Bali Collection」，您将被其独特的设计所吸引。现代感与岛屿风情的完美结合，让整个购物中心散发出一种独特的魅力。无论您是在寻找时尚潮流，还是想要深入体验巴厘岛当地文化，这里都能够为您提供丰富的选择。
 
-现在就点击下方观看我们为您准备的精彩影片，让您深入了解「Bali Collection」的魅力。无论您是计划前往巴厘岛，还是想要了解更多关于这个美丽岛屿的一切，这个影片都将为您带来全新的视角和启发。准备好探索「Bali Collection」带来的奇妙世界了吗？
+现在就点击下方观看我们为您准备的精彩视频，让您深入了解「Bali Collection」的魅力。无论您是计划前往巴厘岛，还是想要了解更多关于这个美丽岛屿的一切，这个视频都将为您带来全新的视角和启发。准备好探索「Bali Collection」带来的奇妙世界了吗？
 
 https://youtu.be/3AqPucmnSLE
 

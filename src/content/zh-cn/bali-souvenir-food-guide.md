@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64db6b5bfd897800013a8ff4'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 099bb2cf011294ec4967bdb24a41f62e
+_srcHash: e382e0dc44d63ac040ff7685fe504e94
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b48db35889325f45edd5237d8e0b427a.jpg)
@@ -28,3 +28,4 @@ _srcHash: 099bb2cf011294ec4967bdb24a41f62e
 现在，我们为您准备了一段精彩的影片，将带您深入了解这些美味的巴厘岛伴手礼食品。无论您是一个美食爱好者还是想要与亲朋好友分享这份美味，都不要错过观看这个影片，一同探索巴厘岛的美食之旅！请看我们介绍的巴厘岛花生，巴厘岛咖啡，印尼虾饼，印尼炒饭酱，还有一个本地人推荐的巴厘岛必买 Pie Susu
 
 请看影片介绍：
+__VID0__

@@ -1,8 +1,6 @@
 ---
 slug: kuta-seminyak-covid-update
-title: >-
-  Bali Kuta | Seminyak Current Situation | Bali Without Tourists | Latest
-  Updates
+title: Bali Kuta | Seminyak Current Situation | Bali Without Tourists | Latest Update
 description: >-
   Latest Situation in Bali, Indonesia - October 2020. Visiting Bali for tourism,
   the once bustling areas of Kuta and Seminyak now present a desolate scene. Due
@@ -20,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/64db6b70fd897800013a93fe'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 365a9c4e960379a8124937920515b94c
+_srcHash: 90074b21ad71a5f2f1068b092c16c1e7
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5945f572e93cd251dcb51c84aa6a5af4.png)

@@ -13,11 +13,10 @@ tags:
   - 佩尼達島
   - bamboovilla
   - 水明漾住宿推薦
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3576b4757a6d3a5deaef795069cc866f.jpg'
 originalUrl: 'https://vocus.cc/article/6718dcb7fd897800013bcb4e'
 lang: zh-cn
-_srcHash: 44446ed728791b58509f90180080d0de
+_srcHash: b3bd87a21585d4ad9f46a2f6e8fd4263
 ---
 
 以下内容改编自团友 [Feilin Huang](https://www.facebook.com/share/p/15fgq7Bt9T/) 分享游记：
@@ -42,21 +41,21 @@ https://youtu.be/f0N6FE2dxys
 
 ***
 
-### Day 2
+### 第二天
 
-今天安排了一整天的**Nusa Penida**东西线行程，由Agus代为订票并包含午餐🫶🏻。
+今天安排了一整天的**努沙佩尼达岛**东西线行程，由Agus代为订票并包含午餐🫶🏻。
 
-约6:30，Agus准时来到我们的villa接我们，带我们去码头取票，并指导我们怎么走，完全不用担心会迷路😌。当天我们的行程包括了**Diamond Beach**和**Kelingking Beach**两个美丽的海滩。虽然时间充裕，但对于平时不运动的我来说，走到海滩实在是有些累，尤其路况真的不佳，有时甚至觉得像是在冒险😂。
+约6:30，Agus准时来到我们的别墅接我们，带我们去码头取票，并指导我们怎么走，完全不用担心会迷路😌。当天我们的行程包括了**钻石海滩**和**克林金海滩**两个美丽的海滩。虽然时间充裕，但对于平时不运动的我来说，走到海滩实在是有些累，尤其路况真的不佳，有时甚至觉得像是在冒险😂。
 
 ![Nusa Penida景點（Feilin Huang提供）](https://images.gobaligo.id/vocus/vocus_d2991f6af729bac9170c2a092bad7188.jpg)
 
-Nusa Penida景点（Feilin Huang提供）
+努沙佩尼达岛景点（Feilin Huang提供）
 
 {{block:penidaguide}}
 
 下午回到**沙努尔**码头后，Agus带我们去享受按摩，过程约两个小时，因为他事先谈好折扣，所以价格比菜单上的便宜不少👍。
 
-🏠入住位在 Tampaksiring, 乌布 的 bamboo villa，度过了一个充实而疲惫的日子。
+🏠入住位于 Tampaksiring, 乌布 的竹屋别墅，度过了一个充实而疲惫的日子。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_d2cd3c0bb71e85dcab592f9c9d1e111c.jpg)
 
@@ -64,13 +63,13 @@ https://youtu.be/1COxi_x8L78
 
 （Feilin Huang提供）
 
-> 编按：你也想住住看仙气飘飘的 bamboo villa吗？快来参考一下我们推荐的「[乌布11家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)」
+> 编按：你也想住住看仙气飘飘的竹屋别墅吗？快来参考一下我们推荐的「[乌布11家令人叹为观止的树屋/竹屋别墅 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)」
 
 ***
 
-### Day 3
+### 第3天
 
-📍**Penglipuran Village**，这里被评选为全世界前三大干净的村庄之一。早上这里的游客相对较少，让我们能够静静享受当地的美景。
+📍**彭里普兰村**，这里被评选为全世界前三大干净的村庄之一。早上这里的游客相对较少，让我们能够静静享受当地的美景。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_139f7058772c6fa1200a75cee97ac9af.jpg)
 
@@ -80,13 +79,13 @@ https://youtu.be/1COxi_x8L78
 
 Loloh Cemcem
 
-> 编按：Loloh Cemcem是来自Penglipuran村的传统饮品。Cemcem叶是Penglipuran村主要的特产之一。当地居民会将这些叶子制成对健康有益的新鲜饮料。
+> 编者按：Loloh Cemcem是来自彭里普兰村的传统饮品。Cemcem叶是彭里普兰村主要的特产之一。当地居民会将这些叶子制成对健康有益的新鲜饮料。
 
-> 这种绿色健康饮品常被认为味道苦涩。因为许多人认为cemcem叶本身在制成食品时会产生苦味。事实上，这种想法是错误的。当你喝Loloh Cemcem时不会感受到苦味，因为棕榈糖浆的调和可以中和苦味。
+> 这种绿色健康饮品常被认为味道苦涩。因为许多人认为cemcem叶本身在制成食品时会产生苦味。事实上，这种想法是错误的。当你喝Loloh Cemcem时不会感受到苦味，因为棕榚糖浆的调和可以中和苦味。
 
-> 在制作过程中，cemcem叶会与其他植物如麻风树叶、槟榔叶和刺桐叶混合。这四种叶子经过捣碎后，放入温水中。之后，加入肉桂和棕榈糖浆来中和叶子的苦味。为了增添饮品的美味，有些卖家会特意加入椰子肉。如果再加上冰块，口感会更加清爽！这是在巴厘炎热天气下最佳的解渴饮品。你的口渴感会立即消失。
+> 在制作过程中，cemcem叶会与其他植物如麻风树叶、槟榔叶和刺桐叶混合。这四种叶子经过捣碎后，放入温水中。之后，加入肉桂和棕榚糖浆来中和叶子的苦味。为了增添饮品的美味，有些卖家会特意加入椰子肉。如果加入冰块，口感会更加清爽！这是在巴厘炎热天气下最佳的解渴饮品。你的口渴感会立即消失。
 
-> Loloh Cemcem不仅是一种清凉饮品，还对身体有多种益处。例如可以降低高血压和改善消化系统问题。正因为这些好处，造访Penglipuran村的游客经常会尝试Loloh Cemcem。这种饮品也很容易买到。几乎所有Penglipuran村的居民都有贩售，通常在自家门前就能购买。一瓶Loloh Cemcem的价格也很实惠。所以你可以放心尝试，不用担心价格问题。
+> Loloh Cemcem不仅是一种清凉饮品，还对身体有多种益处。例如可以降低高血压和改善消化系统问题。正因为这些好处，造访彭里普兰村的游客经常会尝试Loloh Cemcem。这种饮品也很容易买到。几乎所有彭里普兰村的居民都有售卖，通常在自家门前就能购买。一瓶Loloh Cemcem的价格也很实惠。所以你可以放心尝试，不用担心价格问题。
 
 📍在空档时，Agus带我们品尝了各种咖啡，还包括著名的**猫屎咖啡**💩。可惜，这次的尝试我们真的不太习惯😅。
 
@@ -164,11 +163,11 @@ https://youtu.be/DSi7QvqOLTQ
 
 （Feilin Huang提供）
 
-🏠最后两晚我们入住的是 [**Ziva a Boutique Villa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744561&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawMLFJMEk1cnCMX3BxzvMQoxGBlu4LbZnOWrG9B_6uqnLwRNEa3ROcAjgiZhy4Pk09sSbtpURKw4GOhQygIGGQxcjK1hmBuPGvVkbGW25ri8uqM102MHIdIJxt9oCphN_2xROsTBzbGG_xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsE3MTPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDrImVoYuVmeMU0yQguVttFyuHuYVZVECQruEF1t2aUvKGBgYGpobGpqa6BomWiabGyYa6JpYmRuYGuoYmZmYGGgc2Nl1_YmxkLQWJdgVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsRm5GLm7OUTZczJ4uQYIf9J5vb7e2tJdiDgl3USxd_XzJ997T9logOUOYXOCe1zkn7I0X2EfC5JNYqzJ0Q8IzjosVMDYwMnUxcgswejBGMFYAeYyrGBk2MDLuYPwPA4yvGEGmAwCMlo5l9QIAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-14660&detailFilters=17|1~17~1*31|1744561~31~1744561*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1080&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wcPbv4eK)，这间Villa相当值得推荐。无论是泳池还是房间，都让我们感到相当满意。泳池的面积很大，给了我们足够的空间可以好好放松，特别是傍晚时，泳池边的气氛非常舒适宜人。而房间则是宽敞干净，每个细节都显得非常讲究，让我们在旅途中依然能享受到高品质的休息环境。唯一的美中不足是热水供应似乎有些问题，无法让浴缸完全注满热水，淋浴的热水也不算很稳定，但这一点小缺陷并不影响我们对整体住宿体验的好评，毕竟在其他方面，Villa的表现都让我们相当满意。
+🏠最后两晚我们入住的是 [**Ziva a Boutique Villa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656)，这间Villa相当值得推荐。无论是泳池还是房间，都让我们感到相当满意。泳池的面积很大，给了我们足够的空间可以好好放松，特别是傍晚时，泳池边的气氛非常舒适宜人。而房间则是宽敞干净，每个细节都显得非常讲究，让我们在旅途中依然能享受到高品质的休息环境。唯一的美中不足是热水供应似乎有些问题，无法让浴缸完全注满热水，淋浴的热水也不算很稳定，但这一点小缺陷并不影响我们对整体住宿体验的好评，毕竟在其他方面，Villa的表现都让我们相当满意。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7dad59174130e2068985c1770b74c176.jpg)
 
-[Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744561&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawMLFJMEk1cnCMX3BxzvMQoxGBlu4LbZnOWrG9B_6uqnLwRNEa3ROcAjgiZhy4Pk09sSbtpURKw4GOhQygIGGQxcjK1hmBuPGvVkbGW25ri8uqM102MHIdIJxt9oCphN_2xROsTBzbGG_xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsE3MTPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvCLhYnDrImVoYuVmeMU0yQguVttFyuHuYVZVECQruEF1t2aUvKGBgYGpobGpqa6BomWiabGyYa6JpYmRuYGuoYmZmYGGgc2Nl1_YmxkLQWJdgVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsRm5GLm7OUTZczJ4uQYIf9J5vb7e2tJdiDgl3USxd_XzJ997T9logOUOYXOCe1zkn7I0X2EfC5JNYqzJ0Q8IzjosVMDYwMnUxcgswejBGMFYAeYyrGBk2MDLuYPwPA4yvGEGmAwCMlo5l9QIAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-14660&detailFilters=17|1~17~1*31|1744561~31~1744561*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1080&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wcPbv4eK)的详细介绍收录在「[水明漾22间令人惊艳的巴厘岛秘密花园](/blog/seminyak-private-villas-guide/)」里。想去水明漾享受villa度假的朋友不要错过喔！
+[Ziva a Boutique Villa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251656)的详细介绍收录在「[水明漾22间令人惊艳的巴厘岛秘密花园](/blog/seminyak-private-villas-guide/)」里。想去水明漾享受villa度假的朋友不要错过喔！
 
 ***
 
@@ -196,7 +195,7 @@ Agus Jon Devn (Feilin Huang提供)
 
 ### 为什么推荐Agus Jon Devn？
 
-🫶🏻 **量身订制的行程规划**
+🫶🏻 **量身定制的行程规划**
 
 我们一开始只是大致告诉Agus自己想去哪些景点，结果他立即根据我们的需求帮我们规划了一条最顺路的路线。不仅如此，若临时有什么变动，他也可以随时调整，灵活性超高，完全不用担心行程被打乱。这让我们的旅途轻松又随性，没有一丝压力。
 

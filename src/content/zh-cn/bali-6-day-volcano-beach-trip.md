@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66284452fd89780001867c6a'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 881f62f89cc9f1f10d2501b279623a96
+_srcHash: 73445e84b98686c49cb3cff320e77840
 ---
 
 我们的脸书社团团友[戴妤珊](https://www.facebook.com/100002382562993/)跟朋友的六天五夜游记，特此提供给我们编辑/转载：
@@ -41,7 +41,7 @@ _srcHash: 881f62f89cc9f1f10d2501b279623a96
 
 **Komang Sucika联系方式：**
 
-Line：crunchiebalitour / IG：crunchie\_bali\_tour
+Line：crunchiebalitour / IG：crunchie_bali_tour
 
 > 巴厘岛要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？[请看这里](https://youtu.be/B_oT905RkQw)
 
@@ -192,9 +192,9 @@ Odon的联系方式： WHATSAPP：085738149995/ID LINE：drmwn8
 
 ## 住宿介绍
 
-这次妤珊他们六天五夜的行程共住了三家住宿，详细的图文+room tour视频，可以看看妤珊在我们[Facebook群组上的介绍](https://www.facebook.com/groups/baligo/permalink/1531159957431244/)。
+这次妤珊他们六天五夜的行程共住了三家住宿，详细的图文+room tour视频，可以看看妤珊在我们[脸书社团上的介绍](https://www.facebook.com/groups/baligo/permalink/1531159957431244/)。
 
-您觉得妤珊他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到群组投稿您的行程哦！
+您觉得妤珊他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 
 ![點擊這裡觀看更多峇里島精彩遊記](https://images.gobaligo.id/vocus/vocus_d6cd71fc4595d1282ecceaefad1543fe.jpg)
 

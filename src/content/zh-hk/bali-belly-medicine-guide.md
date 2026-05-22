@@ -1,7 +1,7 @@
 ---
 slug: bali-belly-medicine-guide
-title: 峇里島肚屙/腸胃炎/污糟水病點自救？Bali Belly 紓緩成藥攻略
-description: "\U0001F48A 峇里島當地藥房可買到嘅藥品清單 (針對Bali Belly)"
+title: 峇里島肚屙/腸胃炎/污水病點自救？Bali Belly 紓緩成藥攻略
+description: "\U0001F48A 峇里島當地藥房可以買到嘅藥品清單 (針對Bali Belly)"
 pubDate: 2026-01-02T00:00:00.000Z
 category:
   - 旅行技巧
@@ -14,18 +14,18 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_eef45058d1c6971ff4946e72428f3b65.png'
 originalUrl: 'https://vocus.cc/article/69523427fd89780001caa652'
 lang: zh-hk
-_srcHash: 009984aba511124867aee4fc8b3e2e4b
+_srcHash: c1f42659f0bc66b1e9feadbe1366a25a
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
 
-去到峇里島之後，最驚嘅唔係曬黑，而係突如其來嘅 **Bali Belly（峇里島肚屙）**。無論係因為飲食水土不服、細菌感染，定係腸胃比較敏感，症狀一嚟真係會搞到成個旅程好狼狽。呢篇文章就幫大家整理一份「喺峇里島藥房就買得到嘅自救清單」，由補水、止屙、退燒到幾時應該睇醫生，一次過搞掂，遇到狀況都唔會慌！
+去到峇里島之後，最驚嘅唔係曬黑，而係突然間嘅 **Bali Belly（峇里島肚屙）**。無論係因為飲食水土不服、細菌感染，定係腸胃比較敏感，症狀一嚟真係會搞到成個旅程好狼狽。呢篇文章就幫大家整理一份「喺峇里島藥房就買得到嘅自救清單」，由補水、止屙、退燒到幾時應該睇醫生，一次過搞掂，遇到狀況都唔會慌！
 
 ## Bali Belly 預防勝於治療
 
 https://youtu.be/GivvqCXp11A
 
-## 💊 峇里島當地藥房可買到嘅藥品清單 (針對Bali Belly)
+## 💊 峇里島當地藥房可以買到嘅藥品清單 (針對Bali Belly)
 
 ### 1. 口服補液鹽 (ORS) – 治療核心
 
@@ -35,7 +35,7 @@ https://youtu.be/GivvqCXp11A
 
 · 當地常見品牌：Oralit, Hydralyte。
 
-· 關鍵提示：肚屙時應該首選使用，務必跟住說明沖泡。注意: 運動飲料唔可以完全替代。
+· 關鍵提示：肚屙時應該首選使用，務必按說明沖泡。注意: 運動飲料唔可以完全替代。
 
 ### 2. 止屙藥 (吸附劑) – 用於輕度肚屙
 
@@ -55,13 +55,13 @@ https://youtu.be/GivvqCXp11A
 
 · 當地常見品牌：Loperamide (通用名，同Imodium成分一樣), Diapet, Lodia。
 
-· 關鍵提示：如果有發燒或者大便有血就唔好用，否則可能會令感染更加嚴重。小朋友用之前一定要問醫生。
+· 關鍵提示：發燒或者大便有血嘅人唔可以用，否則可能會令感染更加嚴重。細路仔用之前一定要問醫生。
 
 ### 4. 止痛/退燒藥
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a30fbcb9351a7bd327b8c2e225f94572.jpg)
 
-· 作用：舒緩腹痛、發燒。
+· 作用：舒緩肚痛、發燒。
 
 · 當地常見品牌：Paracetamol (撲熱息痛通用名), Panadol, Sanmol, Ibuprofen。
 
@@ -79,37 +79,37 @@ https://youtu.be/GivvqCXp11A
 
 · 當地常見品牌：Interlac, Lacto-B。
 
-· 關鍵提示：係輔助手段，唔可以代替補液或必要藥物。
+· 關鍵提示：是輔助手段，不能替代補液或必要藥物。
 
 ## ⚠️ 重要安全須知與就醫警訊
 
-**1. 唔好自己食抗生素**：Bali Belly可能由病毒或細菌引起，濫用抗生素無效且有害。抗生素需要由醫生診斷後開。
+**1. 唔好自己食抗生素**：Bali Belly可能由病毒或細菌引起，濫用抗生素無效且有害。抗生素需由醫生診斷後開具。
 
 **2.** **首要任務係補水**：無論係咪用藥，都必須持續、少量多次地補充口服補液鹽溶液或乾淨嘅樽裝水。
 
-**3. 留意危險信號**，即刻睇醫生：如果出現以下任何一種情況，請即刻停藥並去睇醫生：
+**3. 留意危險信號**，即刻求醫：如果出現以下任何一種情況，請即刻停止自己用藥並尋求醫療協助：
 
 · 發燒超過 38.5°C。
 
-· 屙嘔有血。
+· 腹瀉或嘔吐物中帶血。
 
 · 嚴重肚痛。
 
-· 食唔到嘢飲唔到水、持續嘔吐。
+· 無法食嘢飲水、持續嘔吐。
 
 · 出現脫水跡象（口乾、尿少色深、頭暈、極度虛弱）。
 
-· 症狀持續超過 48-72小時 無改善。
+· 症狀持續超過 48-72小時無改善。
 
-## 🏥 點樣尋求醫療協助
+## 🏥 如何尋求醫療協助
 
-如果症狀需要睇醫生，可以去峇里島嘅國際標準診所，例如BIMC、Siloam、Prime Plus Medical等，呢啲地方通常有識講英文嘅醫護人員。若果情況比較嚴重出唔到門，峇里島嘅 [Unicare Clinic Bali 24/7全天候醫生隨叫隨到](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1191913&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170717-24-7-doctor-on-call-bali-at-unicare-clinic-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92260e07ac) 服務都可以用。
+如果症狀需要睇醫生，可以去峇里島嘅國際標準診所，例如BIMC、Siloam、Prime Plus Medical等，呢啲地方通常有識講英文嘅醫護人員。若果情況比較嚴重出唔到門，峇里島嘅 [Unicare Clinic Bali 24/7全天候醫生隨叫隨到](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1191913&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F170717-24-7-doctor-on-call-bali-at-unicare-clinic-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92260e07ac) 服務都可以善用。
 
 ## 💡 購買與溝通建議
 
-· 搵可靠藥房：可以優先搵連鎖藥房，例如 Guardian、Kimia Farma、Watsons，呢啲地方嘅藥品來源正規。
+· 搵可靠藥房：可以優先搵連鎖藥房，例如Guardian、Kimia Farma、Watsons，呢啲地方嘅藥品來源正規。
 
-· **溝通備用句子：如果語言唔通，可以試下向藥劑師出示以下句子：**
+· **溝通備用句子：如果語言唔通，可以試吓向藥劑師出示以下短句：**
 
 > ·“Oralit untuk diare.” (口服補液鹽用於肚屙。)
 
@@ -117,6 +117,6 @@ https://youtu.be/GivvqCXp11A
 
 > ·“Parasetamol untuk demam.” (撲熱息痛用於發燒。)
 
-**記住: 處理峇里島肚屙嘅原則是：補水優先、對症用藥、警惕危險信號、及時睇醫生。**
+**記住: 處理Bali Belly嘅原則係：補水優先、對症用藥、警惕危險信號、及時睇醫生。**
 
-**\*呢篇係網上收集嘅資訊，唔係專業醫療建議。情況嚴重嘅話，建議睇醫生以策安全!**
+**\*呢篇係網上收集嘅資訊, 唔係專業醫療建議. 情況嚴重都係建議睇醫生以策安全!**

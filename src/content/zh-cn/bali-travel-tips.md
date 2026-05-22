@@ -12,10 +12,10 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9fef7339fe14f7635e55eb9eb13f7627.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b7dfd897800013a97bc'
 lang: zh-cn
-_srcHash: 5a3fb120092993f432b13220b6ff8365
+_srcHash: d4cbef5d5fcef3667b9b6d3d6de7af1e
 ---
 
-巴厘岛旅游也是一趟美食之旅哦！你知道有哪十大巴厘岛美食吗？想学一句最接地气的印尼语吗？巴厘岛旅馆/villa推荐、巴厘岛住哪一区好呢？请看小杰印尼的介绍
+巴厘岛旅游也是一趟美食之旅喔！你知道有哪十大巴厘岛美食吗？想学一句最接地气的印尼语吗？巴厘岛旅馆/villa推荐、巴厘岛住哪一区好呢？请看小杰印尼的介绍
 
 https://youtu.be/VuG8s-u_I0Q
 
@@ -72,7 +72,7 @@ Terima kasih! [谢谢]的意思
 - [巴厘岛住哪一区最好？哪一区最不好？](/blog/kuta-bali-accommodation-pros-cons/)
 - 巴厘岛最可怕的动物，不是狮子老虎，[竟然是「它」](/blog/bali-monkey-safety-tips/)
 - 巴厘岛旅游要给小费吗？小费怎么给？[巴厘岛各种场合的小费要给多少？](https://youtu.be/B_oT905RkQw)
-- [印尼/巴厘岛三大必备AP](https://www.youtube.com/watch?v=4p8fliUxn0A&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=8)
+- [印尼/巴厘岛三大必备APP](https://www.youtube.com/watch?v=4p8fliUxn0A&list=PLZUuuyoQSUAvrsicrinBTzbPpVQK_YzrW&index=8)
 - 如何选择住宿区域？[巴厘岛住宿指南懒人包](https://s.id/baliguide1)
 - 最齐全的巴厘岛分区玩乐攻略
 - 超过300间的优质住宿推荐，[请看这里](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)

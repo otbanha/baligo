@@ -16,7 +16,6 @@ tags:
   - '#長谷住宿推薦'
   - '#峇里島住宿推薦'
   - '#長谷飯店推薦'
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_46f84d2dfa787caf925c192d2cb4b690.jpg'
 originalUrl: 'https://vocus.cc/article/68e51c8efd897800014e36a6'
 agoda_hotel_id: 46874759
@@ -25,7 +24,7 @@ agoda_star_rating: 5
 latitude: -8.656766891479492
 longitude: 115.13082122802734
 lang: zh-cn
-_srcHash: 5e1715d4ea7de8dd606961d6baa2eb5c
+_srcHash: 227ff853480027c45ccd6a52b4d56fc5
 ---
 
 如果你正在寻找一处既能拥抱巴厘岛自然风光，又能享受现代化便利的度假胜地，那么2023年底全新开业的\*\*_巴厘岛坎古假日酒店（Holiday Inn Resort Bali Canggu By IHG）_**绝对值得列入你的首选清单。这家五星级度假村不仅坐拥绝佳地理位置，更以贴心的服务、完善的设施和极高的性价比，赢得了全球旅客的一致好评，在各大平台上获得高达**_9.4分的综合评分_\*\*。
@@ -44,7 +43,7 @@ _srcHash: 5e1715d4ea7de8dd606961d6baa2eb5c
 
 ### 🛏️ 宽敞舒适、设计贴心的客房
 
-酒店共有10种房型，从标准房到家庭套房一应俱全。最受家庭旅客喜爱的是**1 Bedroom Kids Suite**，设计非常用心——小朋友可以睡在专属的双层床区域，只要拉上活动隔间，就自成一个私密小天地，既保留亲子互动的乐趣，也兼顾了各自的空间。
+酒店共有10种房型，从标准房到家庭套房一应俱全。最受家庭旅客喜爱的是**1 Bedroom Kids Suite**，设计非常用心——小朋友可以睡在专属的双层床区域，只要拉上活动隔间，就自成一个小天地，既保留亲子互动的乐趣，也兼顾了各自的空间。
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774350877857-517838674.jpg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774350878683-517839093.jpg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774350879194-519119964.jpg)
@@ -98,7 +97,7 @@ _srcHash: 5e1715d4ea7de8dd606961d6baa2eb5c
 
 有旅客分享：
 
-「泳池区是一个放松的好地方，景观极佳。虽然有时躺椅较抢手，但因为我们多数时间都在海滩或外出探索，所以并不构成问题。」
+「泳池区是一个放松的好地方，景观极佳。虽然有时躺椅较抢手，但因为我們多数时间都在海滩或外出探索，所以并不构成问题。」
 
 ***
 
@@ -116,7 +115,7 @@ _srcHash: 5e1715d4ea7de8dd606961d6baa2eb5c
 
 ### 💰 物超所值，定价合理
 
-巴厘岛酒店平均价格约在$76–$100美元之间，而坎谷假日酒店虽然定价稍高（约$151–$200），但提供的设施、服务与体验完全对得起这个价格。不少旅客直言：「性价比极高，整体体验轻松超越期望。」
+巴厘岛酒店平均价格约在$76–$100美元之间，而坎古假日酒店虽然定价稍高（约$151–$200），但提供的设施、服务与体验完全对得起这个价格。不少旅客直言：「性价比极高，整体体验轻松超越期望。」
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f46a46076ac4642c59561fdae72f94bd.jpg)
 
@@ -126,9 +125,9 @@ _srcHash: 5e1715d4ea7de8dd606961d6baa2eb5c
 
 ### ✅ 总结：值得一再回访的度假胜地
 
-无论你是家庭旅游、情侣度假，还是独自旅行，巴厘岛坎谷假日酒店都能提供你一个放松、享受且充满惊喜的住宿体验。优越的位置、贴心的客房设计、丰富的餐饮与设施，再加上令人难忘的员工服务，难怪许多旅客在评价中写道：
+无论你是家庭旅游、情侣度假，还是独自旅行，巴厘岛坎古假日酒店都能提供一个放松、享受且充满惊喜的住宿体验。优越的位置、贴心的客房设计、丰富的餐饮与设施，再加上令人难忘的员工服务，难怪许多旅客在评价中写道：
 
-「这绝对是坎谷最迷人的住宿地点之一，是一个你会想一再回来的地方。」
+「这绝对是坎古最迷人的住宿地点之一，是一个你会想一再回来的地方。」
 
 **✈️ 实用资讯：**
 
@@ -136,9 +135,9 @@ _srcHash: 5e1715d4ea7de8dd606961d6baa2eb5c
 * 机场接送服务可供预约，从伍拉莱国际机场（DPS）出发约需45–60分钟车程
 * Agoda订房通常可找到最优惠价格
 
-> **▶**[**Holiday Inn Resort Bali Canggu 房价 & 空房查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=46874759) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=113562229&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6xczFJMEk9ZmZY8q_R1PZhBiNDCQsJgs5nj0DBDPaHTz7D33ViOntcQjgaWS8vrjAluu6m8MMxq9LJputYGTcyMgFEruU7LCDkekE41TFBUzTJ90yPcXCzPGQ9RLLd6boaqXs1EolKxMdpZLMkpxUJSulJ3v7n65rfb6iVUlHKSW1OBkoBGQl5uaX5pUA2cYWZnoGBkCRksQKzxQlK2MLHaXkxJzk0pzEktSQygKgEWY6SpnFziVFmQVBqbmZJSWpQGVpiTnFqSDxoNRioEwyWFDJD2hOEVQgMz8Pot0QRSwsMac0FeIGoI1uqVA7DGt1MJ3-bFvHi027cTvd1BDF6SbGA-T02EcsTNGxn1gYfrEwNLEydLEyTGJl5piquIuVJ8jE2T8wUtdQN0rXUErO0MDAwNTQ2NRU1yDR0sLYKNFI18TSxMjMQtfQwtxMo_X80stPjI2spVinHHg-jV2BUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm5ObqZGlZZQNF3NosIug3n_Fv99MpR2kmEPCXRQnB114q9p72l6L2dMlyPCD3vPt7daW9oF7XuecsDdeYB-pcu1RMEPPafsk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUATEkw7uUCAAA&masterhotelid_tracelogid=100051355-0a9832a2-494268-1876&detailFilters=17|1~17~1*31|113562229~31~113562229*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1235&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KVi2lfgC)
+> **▶**[**Holiday Inn Resort Bali Canggu 房价 & 空房查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=46874759)
 
-准备好你的巴厘岛之旅了吗？这家假日酒店，很可能会成为你爱上坎谷的理由之一。
+准备好你的巴厘岛之旅了吗？这家假日酒店，很可能会成为你爱上坎古的理由之一。
 
 ***
 

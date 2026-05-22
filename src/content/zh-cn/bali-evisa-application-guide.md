@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65c217c5fd897800010113af'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 76b8d4aef96655ce0e39ca453d617f3e
+_srcHash: 274b7e7be9f576ca9b3e126fc11540f1
 ---
 
 ## **什么是电子签证？**

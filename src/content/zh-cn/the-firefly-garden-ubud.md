@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_acc84e91c5ed724c93e3e9a11109338d.jpg'
 originalUrl: 'https://vocus.cc/article/68aa8849fd8978000171256a'
 lang: zh-cn
-_srcHash: c93b5b7889c0a91cf83e9551ae6ad2f1
+_srcHash: 50179c17990f73dadc0b4afd3d03573e
 ---
 
 ## 巴厘岛萤火虫花园荣获生态旅游大奖
@@ -26,7 +26,7 @@ _srcHash: c93b5b7889c0a91cf83e9551ae6ad2f1
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8d0cf183d7ade2531fe06e968399fcc4.jpg)
 
-萤火虫被视为环境健康的生物指标，对污染极为敏感。花园内设有小型实验室，专注研究萤火虫的繁殖、生命周期与行为，同时推广有机农业，减少化学农药使用。管理者瓦尔迪卡（Wayan Wardika）更希望通过与农民合作，将萤火虫的活动半径扩大至2公里，需要27公顷的农地才能达成此目标。
+萤火虫被视为环境健康的生物指标，对污染极为敏感。花园内设有小型实验室，专注研究萤火虫的繁殖、生命周期与行为，同时推广有机农业，减少化学农药使用。管理者瓦尔迪卡（Wayan Wardika）更希望透过与农民合作，将萤火虫的活动半径扩大至2公里，需要27公顷的农地才能达成此目标。
 
 ***
 

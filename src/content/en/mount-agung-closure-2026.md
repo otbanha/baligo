@@ -1,11 +1,10 @@
 ---
 slug: mount-agung-closure-2026
-title: Planning to Climb Mount Agung in April? Read This Before Booking Your Trip
+title: Planning to climb Mount Agung in April? Read this before booking your trip
 description: >-
-  Mount Agung will be closed from March 28 to April 24, 2026, due to a major
-  religious ceremony at Besakih Temple. Travelers planning to hike should adjust
-  their itineraries accordingly, as unauthorized entry could result in
-  deportation.
+  Mount Agung will be closed from March 28 to April 24, 2026 due to major
+  religious ceremonies at Besakih Temple. Travelers planning to hike should
+  adjust their itineraries, as unauthorized entry could result in deportation.
 pubDate: 2026-04-05T00:00:00.000Z
 pubHour: 10
 tags:
@@ -28,26 +27,26 @@ originalUrl: ''
 private: false
 embeds: []
 lang: en
-_srcHash: e7a19f9ceab9885e8fe5d8e38a6bb3c0
+_srcHash: f47db7a9b3e1fcf707a46344b2ee9d33
 ---
 
 If you're planning to climb Mount Agung in Bali during this period, you'll need to pause those plans.
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775359906886-agung.jpeg)
 
-## Mount Agung Closed from Late March to Late April
+## Mount Agung closed completely from late March to late April
 
-All hiking routes on Mount Agung will be closed from March 28 to April 24 this year, with reopening expected on April 25.
+From March 28 to April 24 this year, all hiking routes on Mount Agung will be closed, with reopening expected on April 25.
 
-The closure is due to major religious ceremonies—Tawur Tabuh Gentuh and Ida Bhatara Turun Kabeh—taking place at Pura Agung Besakih, one of the most important Hindu temples in Bali.
+The closure is due to major religious ceremonies - Tawur Tabuh Gentuh and Ida Bhatara Turun Kabeh - taking place at Pura Agung Besakih at the mountain's base. These are among the most important Hindu ceremonies in Bali.
 
-## Why Close the Mountain for Religious Ceremonies?
+## Why close the mountain for religious ceremonies?
 
-In Balinese belief, Mount Agung and Besakih Temple are considered one sacred entity. During major ceremonies, the entire mountain enters a "sacred time," prohibiting outsiders from climbing.
+In Balinese belief, Mount Agung and Besakih Temple are considered one sacred entity. During major ceremonies, the entire mountain enters a "sacred time" when outsiders are not permitted to climb.
 
-This isn’t a sudden decision but a long-standing tradition in Bali. Local communities, guides, and tourism operators are all expected to comply and avoid attempting to climb during this period.
+This isn't a sudden decision but a long-standing tradition in Bali. Local communities, guides, and tourism operators are all required to comply and avoid attempting climbs during this period.
 
-And take note—this isn’t just a "recommendation." Unauthorized entry can lead to serious consequences, including deportation.
+And be warned - this isn't just a suggestion. Unauthorized entry could have serious consequences, including deportation.
 
 {{block:戶外}}
 
@@ -55,14 +54,14 @@ And take note—this isn’t just a "recommendation." Unauthorized entry can lea
 
 If your trip happens to fall during this period, here are some alternative options:
 
-- **Mount Abang**: Much less crowded than Mount Agung, but equally scenic and peaceful
-- **Mount Batur**: Bali's classic sunrise trekking route, low difficulty with great views, perfect for first-time hikers
-- **Mount Ijen + Mount Bromo in Java**: If you have enough time and want a bigger adventure, these are Indonesia's most spectacular volcanoes, worth making a special trip for
+- **Mount Abang**: Much less crowded than Mount Agung but equally scenic with fewer people
+- **Mount Batur**: Bali's most classic sunrise hiking route, low difficulty with great views, perfect for first-time hikers
+- **Mount Ijen + Mount Bromo in Java**: If you have enough time and want to go big, these are Indonesia's most spectacular volcanoes and worth a special trip
 
 ## Just go after April 25th
 
-Mount Agung isn't inaccessible, you just need to avoid this timing. After reopening on April 25th, everything returns to normal. If you want to climb it, simply push your itinerary back a few days.
+Mount Agung isn't off-limits, you just need to avoid this timing. After reopening on April 25th, everything returns to normal. If you want to hike, simply push your itinerary back a few days.
 
-Bali's religious culture is one of its most unique aspects. Respecting local rituals is part of the travel experience.
+Bali's religious culture is what makes this place truly special. Respecting local ceremonies is part of the travel experience.
 
 {{block:一日團}}

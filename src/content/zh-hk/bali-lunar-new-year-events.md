@@ -1,9 +1,8 @@
 ---
 slug: bali-lunar-new-year-events
 title: 【必收藏】峇里島慶祝農曆新年嘅活動資訊整理
-description: 以下係關於2025年喺峇里島慶祝農曆新年嘅活動資訊整理，如果你同屋企人喺農曆新年期間到訪峇里島，都可以喺峇里島感受新年嘅氣氛㗎！
+description: 以下係關於2025年喺峇里島慶祝農曆新年嘅活動資訊整理，如果您同屋企人喺農曆新年期間到訪峇里島，亦可以喺峇里島感受新年嘅氣氛㗎！
 pubDate: '2025-01-15'
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5e5d2c14ff86d0b8ae7087356c3f24a6.png'
 tags:
   - 農曆新年
@@ -16,15 +15,15 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-hk
-_srcHash: 0460d549e71c69c48c7a9c6bc1e1a3dc
+_srcHash: cf5594d425ef20c8d7d0ed6ba694a565
 ---
-以下係關於2025年喺峇里島慶祝農曆新年嘅活動資訊整理，如果你同屋企人喺農曆新年期間到訪峇里島，都可以喺異國感受新年嘅氣氛㗎！
+以下係關於2025年喺峇里島慶祝農曆新年嘅活動資訊整理，如果您同屋企人喺農曆新年期間到訪峇里島，亦可以喺異國感受新年嘅氣氛㗎！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_18bd7cbd5a329497c0a6de2563f31473.png)
 
 ---
 
-### 1. **農曆新年慶祝活動**
+### 1. **農曆新年慶祝活動**
 
 2025年1月29日，峇里島將會迎來農曆新年，當地華人社區同旅遊業者準備咗豐富嘅慶祝活動，包括傳統文化表演、美食盛宴同節日裝飾：
 
@@ -34,7 +33,7 @@ _srcHash: 0460d549e71c69c48c7a9c6bc1e1a3dc
 
 ---
 
-### 2. **特色美食體驗**
+### 2. **特色美食體驗**
 
 農曆新年期間，峇里島嘅餐廳同酒店推出特別菜單，結合傳統中式美食同當地風味：
 
@@ -42,12 +41,12 @@ _srcHash: 0460d549e71c69c48c7a9c6bc1e1a3dc
 - **下午茶與點心**：AYANA Bali嘅Damar Terrace提供農曆新年主題下午茶，搭配精緻嘅中式點心。（[參考來源](https://www.ayana.com/zh/bali/offers/chinese-new-year-2025/)）
 - **街頭美食**：喺Denpasar同Singaraja等地，可以品嚐到融合中式同峇里島風味嘅街頭小食，如餃子同烤鴨。（[參考來源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights)）
 
-### 3. **文化與藝術活動**
+### 3. **文化與藝術活動**
 
 峇里島嘅農曆新年慶祝活動唔單止有美食，仲有豐富嘅文化體驗：
 
-- **傳統音樂與舞蹈**：喺[Tugu Bali Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3164) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685798&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJY-qOHSuYhJgNDYw07rMZPGC02CrvaMt1fXGB_GQHz_5DXzViOqc7BPBETDnwfBp7YnOg59yGQ4EOXYysYIEZjM_eam5k9HhYJbJueaHDDkamA4xMJxhvmS1gun3pFeMpFmaOBVyXWHYzRlcrZadWKlmZ6CiVZJbkpCpZKT1dNO9pw57nK1qVdJRSUouTgUJAVmJufmleCZBtaGxopGdgABQqSazwTAFrTU7MSS7NSSxJDaksABphpKOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFQQYXQfmZ-XkQ3QYoYmGJOaWpEJVA-9xSoVYY1sY-YmGKjn3Bcp_tEwvDLxaGJlaGLlZmjlNMk4DkLbNdrLze3i6Rjv66hiG6UbqGF1jbbKXkDQ0MDEwNjU1NdQ0SLRNNjZMNdU0sTYzMDXTNjM0tLDSu9_XeeGJsZC0FCUYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbE6WZuaGLlE2XMyhwS6CAhGWW06YSTtIMYeEuyiWrn6-5HvvaXstZk-XIMMPes-3t1tb2gfueZ1zwt54gX1kOMv_6JN9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAGFDC3dIAgAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-63788&detailFilters=17|1~17~1*31|685798~31~685798*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=240&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/kOsEG0tu)嘅Kang Xi Temple，遊客可以欣賞到古箏演奏同舞獅表演，仲可以參與8道菜嘅傳統家宴。（[參考來源](https://blog.tuguhotels.com/lunar-legends-celebrating-the-wood-snake-year-at-the-historic-kang-xi-temple/)）
-- **節日裝飾與市集**：登巴薩嘅街道會掛滿紅燈籠同節日裝飾，營造出濃厚嘅節日氣氛。市集上仲可以買到傳統手工藝品同節日禮品。([參考來源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
+- **傳統音樂與舞蹈**：喺[Tugu Bali Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3164)嘅Kang Xi Temple，遊客可以欣賞到古箏演奏同舞獅表演，仲可以參與8道菜嘅傳統家宴。（[參考來源](https://blog.tuguhotels.com/lunar-legends-celebrating-the-wood-snake-year-at-the-historic-kang-xi-temple/)）
+- **節日裝飾與市集**：Denpasar嘅街道會裝飾紅燈籠同節日裝飾，營造出濃厚嘅節日氛圍。市集上仲可以買到傳統手工藝品同節日禮品。([參考來源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0fdf9297e023a767c306109772cc60c1.png)
 
@@ -68,8 +67,8 @@ _srcHash: 0460d549e71c69c48c7a9c6bc1e1a3dc
 
 ### **住宿優惠**
 
-- [**Munduk Moding Plantation**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=298301)：提早預訂可以享有高達40%折扣，仲提供免費按摩、餐飲服務同靈活嘅取消政策。
-- [**Mulia Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982)：提供「住4晚付3晚」嘅優惠，包括每日早餐同免費度假村活動。適合家庭或者情侶入住，度假村內設施豐富，包括泳池、SPA同餐廳。
+- [**Munduk Moding Plantation**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=298301)：提前預訂可享高達40%折扣，仲提供免費按摩、餐飲服務同靈活嘅取消政策。
+- [**Mulia Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6532982)：提供「住4晚付3晚」嘅優惠，包含每日早餐同免費度假村活動。適合家庭或情侶入住，度假村內設施豐富，包括泳池、SPA同餐廳。
 
 ---
 
@@ -86,7 +85,7 @@ _srcHash: 0460d549e71c69c48c7a9c6bc1e1a3dc
 
 ## 過年大餐
 
-峇里島嘅多家豪華度假村同餐廳紛紛推出豐富多彩嘅慶祝活動，讓您喺熱帶天堂中感受濃厚嘅節日氛圍。無論係傳統嘅舞獅表演、豐盛嘅中式盛宴，定係充滿活力嘅文化體驗，峇里島都為您準備咗獨特嘅慶祝方式。以下係2025年峇里島農曆新年慶祝活動嘅美食餐廳精選介紹，帶您探索最精彩嘅節日體驗：
+峇里島嘅多家豪華度假村同餐廳紛紛推出豐富多彩嘅慶祝活動，讓您喺熱帶天堂中感受濃厚嘅節日氛圍。無論係傳統嘅舞獅表演、豐盛嘅中式盛宴，定係充滿活力嘅文化體驗，峇里島都為您準備咗獨特嘅慶祝方式。以下係2025年峇里島農曆新年慶祝活動嘅美食餐廳精選介紹，帶您探索最精彩嘅節日體驗：：
 
 ### 庫塔 / 雷吉安
 

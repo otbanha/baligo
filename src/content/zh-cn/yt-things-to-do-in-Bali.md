@@ -13,11 +13,10 @@ tags:
   - 活動
   - 活動推薦
   - 釀電影
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e671dd57b7c1d196ec96d2ca2f74f1a3.jpg'
 originalUrl: 'https://vocus.cc/article/660d1d54fd89780001dc5bbb'
 lang: zh-cn
-_srcHash: deb1abc4668aceeb521efc612e9bcabe
+_srcHash: be901092bf969bd4880810264b4ade48
 ---
 
 香港知名YouTuber"[Crazy with YU芳婷](https://www.youtube.com/@crazywithyu)",她最近前往巴厘岛旅行,在那里住了十多天,体验了各种精彩活动。在影片中,她整理出五件巴厘必做的事情,让我们跟随她的步伐,一同领略巴厘岛的独特魅力。
@@ -58,7 +57,7 @@ Crazy with YU芳婷视频截图
 
 Crazy with YU芳婷视频截图
 
-到了佩妮达岛后，在Crystal Bay的沙滩上，她们悠闲地吃着早餐、喝啤酒、与流浪狗玩耍。虽然她认为那里的沙滩风景并不出众，但水质清澈如同浪茄湾。接着，他们前往其他知名景点Angels Billabong和Broken Beach，虽然游客众多，但那边的地质景观依然十分震撼动人。最后，他们来到一处恐龙造型的宝蓝色海滩，那儿的海水呈现漂亮的深浅渐层，使人不禁为之赞叹。
+到了佩尼达岛后，在Crystal Bay的沙滩上，她们悠闲地吃着早餐、喝啤酒、与流浪狗玩耍。虽然她认为那里的沙滩风景并不出众，但水质清澈如同浪茄湾。接着，他们前往其他知名景点Angels Billabong和Broken Beach，虽然游客众多，但那边的地质景观依然十分震撼动人。最后，他们来到一处恐龙造型的宝蓝色海滩，那儿的海水呈现漂亮的深浅渐层，使人不禁为之赞叹。
 
 ## 第三 Bamboo Villa住宿
 
@@ -66,7 +65,7 @@ Crazy with YU芳婷视频截图
 
 Crazy with YU芳婷视频截图
 
-在巴厘岛体验别具一格的住宿也是不可错过的。他们入住乌布一间充满原始风味的竹制别墅，一晚只需2000港币便拥有私人泳池、厨房和两间卧室，物超所值。别墅设计别出心裁，入口处就有私人泳池，泳池旁的沙发区可举办小型派对。二楼有独立卫浴，设有落地大玻璃直对原始淋浴区，整体环境恬静怡人。露台上可远眺山景，是个赏景小酌的好去处。
+在巴厘岛体验别具一格的住宿也是不可错过的。他们入住乌布一间充满原始风味的竹制别墅，一晚只需2000港币便拥有私人泳池、厨房和两间睡房，物超所值。别墅设计别出心裁，入口处就有私人泳池，泳池旁的沙发区可举办小型派对。二楼有独立卫浴，设有落地大玻璃直对原始冲凉区，整体环境恬静怡人。露台上可远眺山景，是个赏景小酌的好去处。
 
 巴厘岛最棒的 Bamboo Villas:
 
@@ -80,11 +79,11 @@ Crazy with YU芳婷视频截图
 
 > [Bambu Indah](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251732)
 
-> [Beehouse Dijiwa Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8257992) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=47333965&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazsLFJMEkNYGF486jnk9sQuyGpmYGhgZGBptELFqbGR09HlaJrFvc4OD5JnCHXOvpFocAnogpB55PY0-8aVsZseJgoEMXIytYYAbj2ZaTYhsZ-w991YiZn-Cwg5HpACPTCcYZEguY7my7Z3OKhZnjFcsllq9M0dVK2amVSlYmOkolmSU5qUpWSs_m9D7tnvli024lHaWU1OJkoBCQlZibX5pXAmQbG1jqGRgARUoSKzxTlKzMdZSSE3OSS3MSS1JDKguAJpjpKGUWO5cUZRYEpeZmlpSkAlWlJeYUp4LEg1KLgTLJYEElP6AxRVCBzPw8iHYDFLGwxJzSVIgTgBa6pULtMK7VwXT500Xznjbseb6ilTiXm1Db5YbEuNywNvYRC1N07CcWhl8sDE2sDF2szBynmCYByRkSu1j5Q6KM_MMMdMPNIl11o3QNL7A-kpJSNDQwMDAyNTUy1zVItEw0NzYw0jWxNDEys9Q1MTAxMzcx0Tj3uv_aE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZm5kaOlsHGXDxRwa7CLofYLddraptIMUc0i4i6K9bL_kip7T9lrMni5Bhh_0nm9vt7a0D9zzOueEvfEC-8jS1c-XfO89bZ_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAmplOWAUDAAA&masterhotelid_tracelogid=100025527-0a9a7302-494269-4046744&detailFilters=17|1~17~1*31|47333965~31~47333965*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1278&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/jb5P9Ezd)
+> [Beehouse Dijiwa Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8257992)
 
 > [Bamboo Turtles Ecolodge](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=32590035)
 
-> [Le Sabot 乌布](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=47116230&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQUjQ0MDAwMjU1Mtc1SLS0SDU2sNQ1sTQxMrPUNTUyMzWysNTY-mD3tSfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYLEzdnAycovikmEPCXRTtZfslV_Sctk9ircrQDQnPOC4GAPfcmY-EAAAA&masterhotelid_tracelogid=100025527-0a98e309-494269-5265289&detailFilters=17|1~17~1*31|47116230~31~47116230*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=784&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/aGxipjNP)
+> [Le Sabot Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115)
 
 ## 第四 巴厘岛荡秋千
 
@@ -92,9 +91,9 @@ Crazy with YU芳婷视频截图
 
 Crazy with YU芳婷视频截图
 
-除欣赏美景，体验荡秋千也是巴厘必做之事。他们前往Aloha Ubud，那里共有6个供人荡秋千拍照的打卡点，每个人只需200港币的门票费用，更可租借各色婚纱裙拍摄梦幻婚纱照。工作人员会悉心指导姿势和角度，务求捕捉最美一刻。虽然女生可以荡更久拍照，但男生只能短暂几下，生怕发生危险。不过，安全绳会确保旅客的人身安全。
+除欣赏美景,体验荡秋千也是巴厘必做之事。他们前往Aloha Ubud,那里共有6个供人荡秋千拍照的打卡点,每个人只需25美元的入场费,更可租借各色婚纱裙拍摄梦幻婚纱照。工作人员会悉心指导姿势和角度,务求捕捉最美一刻。虽然女生可以荡更久拍照,但男生只能短暂几下,生怕发生危险。不过,安全绳会确保旅客的人身安全。
 
-巴厘岛荡秋千最有名的八个地点：
+巴厘岛荡秋千最有名的八个地点:
 
 > [8 大最美丛林秋千推荐：租礼服技巧、拍照角度与避开人潮全指南](/blog/ubud-jungle-swings-photo-guide/)
 
@@ -104,7 +103,7 @@ Crazy with YU芳婷视频截图
 
 Crazy with YU芳婷视频截图
 
-行程的最后一站是位于乌布当地著名的隐世瀑布。他们需步行一小段山路才看到壮阔的瀑布全景，现场挤满拍照人潮。不过，这处景点设有储物柜、厕所和更衣室等基本设施，非常贴心。过去只需5分钟，便可抵达瀑布拍照区。瀑布工作人员均十分专业，会指导拍摄角度和姿势，她乐意给予小费以换取最佳视角。下次拍照时，她建议大家记得带一件多余衣服，因为在瀑布游水后会感到寒冷。
+行程的最后一站是位于乌布当地著名的隐世瀑布。他们需步行一小段山路才看到壮阔的瀑布全景,现场挤满拍照人潮。不过,这处景点设有储物柜、厕所和更衣室等基本设施,非常贴心。过去只需5分钟,便可抵达瀑布拍照区。瀑布工作人员均十分专业,会指导拍摄角度和姿势,她乐意给予小费以换取最佳视角。下次拍照时,她建议大家记得带一件多余衣服,因为在瀑布游水后会感到寒冷。
 
 https://youtube.com/shorts/w-gzis-G6OI
 
@@ -116,11 +115,11 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 > [Tukad Cepung瀑布一日游 & 丛林秋千](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F16085-tukad-cepung-waterfall-jungle-swing-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc6d4374e95)
 
-> [彭里普兰村＆Kanto Lampo 瀑布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc4776ba80c)
+> [Penglipuran村＆Kanto Lampo 瀑布一日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773215&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47655-penglipuran-village-land-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc4776ba80c)
 
 {{block:ubud}}
 
-通过这场丰富多彩的巴厘岛之旅，Crazy with YU芳婷不仅体验了冲浪、欣赏各种自然景观，更住进特色别墅、荡秋千拍摄梦幻婚纱照，行程紧凑精彩。她更预告，下一集将带观众一窥令人向往的海底世界，潜水探索沉船和佛像景致。相信这段精彩分享，定能吸引更多观众前往巴厘岛一游。
+透过这场丰富多彩的巴厘岛之旅,Crazy with YU芳婷不仅体验了滑浪、欣赏各种自然景观,更住进特色别墅、荡秋千拍摄梦幻婚纱照,行程紧凑精彩。她更预告,下一集将带观众一窥令人向往的海底世界,潜水探索沉船和佛像景致。相信这段精彩分享,定能吸引更多观众前往巴厘岛一游。
 
 ## Crazy with YU芳婷视频内容:
 

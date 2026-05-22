@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/669262c9fd89780001902a76'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: d2447ef5b406eebd9686f514387c6ad6
+_srcHash: 1424549c5450abef49e29b2ed87b887c
 ---
 
 > 以下内容由团友 [Alice Li](https://www.facebook.com/share/p/uSHXdUNFCKBocSnU/) 提供给我们重新编排：
@@ -61,7 +61,7 @@ Icon Bali 小杰的介绍
 
 这家Sunrise Laundry很棒！Alice Li 提供
 
-附近还有自助洗衣店，解决了我们几天来的换洗衣物问题。洗衣价格也很实惠，五公斤以内只需4美元，有专人帮忙洗好、烘干和折好，不过他们不提供熨衣服务喔！
+附近还有自助洗衣店，解决了我们几天来的换洗衣物问题。洗衣价格也很实惠，五公斤以内只需4美元，有专人帮忙洗好、烘干和折好，不过他们不提供烫衣服务喔！
 
 ## 按摩体验
 
@@ -105,5 +105,5 @@ Icon Bali 小杰的介绍
 - [佩尼达岛吃喝玩乐全攻略](/blog/nusa-penida-guide/)
 - [蓝梦岛/金银岛景点全攻略](/blog/nusa-lembongan-ceningan-guide/)
 - [Nuanu Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
-- [科摩多岛攻略](/blog/komodo-island-labuan-bajo-travel/)
+- [科莫多岛攻略](/blog/komodo-island-labuan-bajo-travel/)
 - [Amed/Tulamben攻略](/blog/amed-tulamben-diving-guide/)

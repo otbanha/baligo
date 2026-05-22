@@ -1,6 +1,6 @@
 ---
 slug: bali-bamboo-villa-experience
-title: 峇里島一晚居然唔使 USD$65!? 住呢度係咩感覺? 體驗峇里島隱世竹屋民宿
+title: '峇里島一晚居然唔使$2,000!? 住呢度係咩感覺? 體驗峇里島隱世竹屋民宿'
 description: 峇里島樹屋型式嘅竹屋別墅 bamboo villa 住宿體驗
 pubDate: 2024-04-04T00:00:00.000Z
 category:
@@ -27,7 +27,6 @@ tags:
   - Eco-friendly accommodation Ubud
   - Ubud bamboo house with private pond
   - Nature stay Ubud Bali reviews
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d18954bf991feac42e2572b3227ecb81.jpg'
 originalUrl: 'https://vocus.cc/article/660e349bfd89780001e40cbc'
 agoda_hotel_id: 7003115
@@ -36,28 +35,28 @@ agoda_star_rating: 4
 latitude: -8.508825619969254
 longitude: 115.25057328414368
 lang: zh-hk
-_srcHash: 64812695295bd6c47e3ea313131e9f25
+_srcHash: 4af7fd532055dd3b33947216cbe47afd
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c62a1ab2c4b39417175e2de5c99ef7b0.jpg)
 
-[Melody x TPEMountain 尹行山林](https://www.youtube.com/@melodyxtpemountain) 係一位 YouTuber，佢分享咗佢喺峇里島住宿嘅體驗。今次佢預訂咗一間好特別嘅竹屋旅館 [Le Sabot Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=47116230&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQUjQ0MDAwMjU1Mtc1SLS0SDU2sNQ1sTQxMrPUNTUyMzWysNTY-mD3tSfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYLEzdnAycovikmEPCXRTtZfslV_Sctk9ircrQDQnPOC4GAPfcmY-EAAAA&masterhotelid_tracelogid=100025527-0a98e309-494269-5265289&detailFilters=17|1~17~1*31|47116230~31~47116230*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=784&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/aGxipjNP)。
+[Melody x TPEMountain 尹行山林](https://www.youtube.com/@melodyxtpemountain) 係一位 YouTuber，佢分享咗佢喺峇里島住宿嘅體驗。今次佢預訂咗一間好特別嘅竹屋旅館 [Le Sabot Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115)。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8fcbe4d9b0ce4a0759443d9a8fbe1762.png)
 
-抵達佢哋嘅 bamboo villa 時，佢被門口嘅池塘同入面游動嘅肥碩錦鯉深深吸引，仲講笑話唔小心就會跌落去同錦鯉做伴。入到民宿內，映入眼簾嘅係一間開放式嘅空間，冇門窗，亦冇冷氣設備，只有一把電風扇。房內有一張吊床同雙人床，俾人好放鬆嘅感覺。
+抵達佢哋嘅 bamboo villa 時，佢被門口嘅池塘同入面游緊嘅肥美錦鯉深深吸引，仲講笑話唔小心就會跌落去同錦鯉做伴。入到民宿，見到嘅係一間開放式空間，冇門窗，亦冇冷氣設備，只有一把風扇。房入面有一張吊床同雙人床，俾人好放鬆嘅感覺。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_31309ad44d7f6fe899c4b724d27d950a.png)
 
-客房後方有一個小陽台，種咗好多檸檬樹，綠意盎然。女仔夢寐以求嘅全身鏡都有配備。最獨特嘅係，廁所同淋浴間被一片可以移動嘅竹牆隔開，設計簡單有種露營嘅感覺。洗手台旁邊亦有一面可以收起嘅小鏡子，十分可愛巧思。
+客房後面有個小陽台，種咗好多檸檬樹，綠意盎然。女仔夢寐以求嘅全身鏡都有配備。最獨特嘅係，廁所同淋浴間被一片可以移動嘅竹牆隔開，設計簡單有種露營嘅 feel。洗手台旁邊亦有一面可以收起嘅小鏡子，好可愛同有心思。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e111fcde7c749bc6aad43f044d62dd41.png)
 
-夜晚，Melody 被池塘嘅流水聲同蟲鳴鳥叫環繞，喺大自然嘅懷抱中入睡，感覺好舒適怡人。
+夜晚，Melody 被池塘嘅流水聲同蟲鳴鳥叫包圍，喺大自然嘅懷抱中入睡，感覺好舒服同怡人。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_75c7ea229b2049bf0233fdfb6155bade.png)
 
-第二日，Melody 參觀咗民宿嘅泳池區，寧靜怡人，別有一番風味。佢好鍾意呢處隱匿喺叢林中嘅祥和天地，雖然距離熱鬧區有啲遠，但正因如此獨特安謐，係值得體驗嘅度假勝地。
+第二日，Melody 參觀咗民宿嘅泳池區，寧靜怡人，別有一番風味。佢好鍾意呢處隱匿喺叢林中嘅祥和天地，雖然距離熱鬧區有啲遠，但正因為咁獨特同安謐，係值得體驗嘅度假勝地。
 
 呢間竹屋民宿嘅每個角落都充滿設計師嘅用心，將大自然融入生活，俾人難忘嘅體驗。Melody 對此留下深刻印象，並喺影片中熱情推薦俾大家。
 
@@ -66,4 +65,4 @@ https://youtu.be/6dVUu_xXM0s?si=4FBvRasS_wQ1OInu
 
 ## 你都想住 bamboo villa 嗎?
 
-請睇呢度有[推薦嘅10間令人嘆為觀止嘅樹屋 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)
+睇吓呢度有[推介嘅10間令人嘆為觀止嘅樹屋 tree house/bamboo villa](/blog/ubud-treehouse-bamboo-villa-stays/)

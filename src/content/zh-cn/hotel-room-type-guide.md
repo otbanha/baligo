@@ -1,6 +1,6 @@
 ---
 slug: hotel-room-type-guide
-title: 「Double bed room」竟然不是「双床房」！订房千万别闹笑话！
+title: “Double bed room”竟然不是“双床房”！订房千万别闹笑话！
 description: >-
   在选择住宿时，不同房型的名称常常让人摸不着头脑，特别是如果我们只凭字面翻译，可能会让人误解。为了让每次订房都能选到最适合的房间，让我们仔细了解12个常见房型的差异。
   1. Double Bed Room ≠ 双床房
@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c2b98df8328054c746981a1c97e44f0f.jpg'
 originalUrl: 'https://vocus.cc/article/67239706fd89780001749b01'
 lang: zh-cn
-_srcHash: 31c0a5e56b49af392ed4c47a04aa1af7
+_srcHash: 45c440ac19162eb99cd8090d802ed372
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4987be535ea54598e53f32ecf38facc4.jpg)
@@ -29,7 +29,7 @@ _srcHash: 31c0a5e56b49af392ed4c47a04aa1af7
 
 [2024刚开幕 Holiday Inn Resort Bali Canggu 的 double room, 收录于「Canggu Top 11 你不能错过的住宿推荐」](/blog/canggu-top-hotels-guide/)
 
-首先，「Double Bed Room」并非「双床房」。这类房型通常配置一张双人床（Double Bed），适合两人共享一张床的房间。而如果你希望有两张分开的床，那么应该选择「Twin Bed Room」。
+首先，“Double Bed Room”并非“双床房”。这类房型通常配置一张双人床（Double Bed），适合两人共享一张床的房间。而如果你希望有两张分开的床，那么应该选择“Twin Bed Room”。
 
 ### 2. Twin Bed Room
 
@@ -37,7 +37,7 @@ _srcHash: 31c0a5e56b49af392ed4c47a04aa1af7
 
 [Mövenpick Resort & Spa Jimbaran 的 Twin Bed Room 收录于「推荐巴厘岛13家庭亲子度假村」](/blog/bali-family-resorts-kids-club/)
 
-「Twin Bed Room」是指两张单人床的房型，通常适合朋友、同事或家庭成员入住，每人拥有一张床的私人空间。这和双人床（Double Bed）不同，因为每张床都可以独立使用，避免了睡眠空间的拥挤问题。
+“Twin Bed Room”是指两张单人床的房型，通常适合朋友、同事或家庭成员入住，每人拥有一张床的私人空间。这和双人床（Double Bed）不同，因为每张床都可以独立使用，避免了睡眠空间的拥挤问题。
 
 ### 3. Queen Room 与 King Room
 
@@ -71,7 +71,7 @@ _srcHash: 31c0a5e56b49af392ed4c47a04aa1af7
 
 ![The River Studio ，收錄於「Canggu 16間私人泳池別墅推薦」](https://images.gobaligo.id/vocus/vocus_a71d09b55969fb57a332768ae1fbce57.jpg)
 
-[The River Studio ，收录于「坎古16间私人泳池别墅推荐」](/blog/canggu-villas-guide/)
+[The River Studio ，收录于「坎古 16间私人泳池别墅推荐」](/blog/canggu-villas-guide/)
 
 「Studio」房型类似于开放式公寓，通常将卧室、客厅、厨房等功能区域整合在一个空间内。这类房型适合短期或长期单人或夫妻入住，拥有私人但紧凑的空间安排。
 
@@ -121,7 +121,7 @@ _srcHash: 31c0a5e56b49af392ed4c47a04aa1af7
 
 ![峇里島很多有特色的bamboo villas，請看「9家令人嘆為觀止竹屋別墅」](https://images.gobaligo.id/vocus/vocus_9e29ac8b042c3e76181cc5143fbc4bcc.jpg)
 
-[巴厘岛有很多有特色的竹屋别墅，请看「9家令人叹为观止竹屋别墅」](/blog/ubud-treehouse-bamboo-villa-stays/)
+[巴厘岛有很多有特色的bamboo villas，请看「9家令人叹为观止竹屋别墅」](/blog/ubud-treehouse-bamboo-villa-stays/)
 
 「Bamboo Villa」是一种以竹子作为主要建筑材料的别墅，体现了环保与自然和谐的概念。巴厘岛等地区的竹屋别墅以简洁自然的设计风格著称，让人远离喧嚣、享受清新空气和自然之美。竹屋通常采用开放式设计，通风良好，能让旅客感受凉爽的微风，非常适合喜爱独特设计与环保理念的旅客，也能增添整趟旅行的原始感与特别回忆。
 
@@ -135,7 +135,7 @@ _srcHash: 31c0a5e56b49af392ed4c47a04aa1af7
 
 ### 总结
 
-以上这 12 种房型各具特色，满足不同旅客的需求，从单人商务旅行到全家共度假期，每种房型都能带来独特的住宿体验。无论是舒适的双人床型、适合朋友共享的 **Twin Bed Room**，还是充满特色的 **Bamboo Villa** 和 **Family Villa**，选择合适的房型能让你的旅行更加美好。
+以上这 12 种房型各具特色，满足不同旅客的需求，从单人商务旅行到全家共度假日，每种房型都能带来独特的住宿体验。无论是舒适的双人床型、适合朋友共享的 **Twin Bed Room**，还是充满特色的 **Bamboo Villa** 和 **Family Villa**，选择合适的房型能让你的旅行更加美好。
 
 在订房时，不妨先考虑自己的需求和偏好，参考这些房型的优缺点，找到最适合你的住宿选择。希望这次的介绍能帮助你在旅途中选择到最理想的住宿，让你的巴厘岛旅行成为难忘的回忆！
 

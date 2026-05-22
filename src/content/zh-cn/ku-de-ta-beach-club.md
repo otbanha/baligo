@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2d3bd996e584a48e2d3d7cc42d48003f.jpg'
 originalUrl: 'https://vocus.cc/article/67bc10d5fd897800015888e3'
 lang: zh-cn
-_srcHash: 0775f3d3629162455b3d52bb01ca1a27
+_srcHash: 1a8997023f59993e2e616539958b9a73
 ---
 
 ## **🌊 Ku De Ta Beach Club 是什么？**
@@ -105,7 +105,7 @@ Ku De Ta 的 **Dress Code** 要求十分严格，请务必遵守以下规范：
 
 - **入场费**：免费，但 VIP 区与日光浴床需最低消费
 - **消费参考**：
-- - 鸡尾酒：IDR 150,000 – 250,000（约 USD$10 – $8）
+- - 鸡尾酒：IDR 150,000 – 250,000（约 USD$10 – $16）
     - 主餐：IDR 300,000 – 600,000（约 USD$19 – $39）
 
 ## **Ku De Ta Beach Club 沙发床预订指南**
@@ -152,7 +152,7 @@ Ku De Ta 的 **Dress Code** 要求十分严格，请务必遵守以下规范：
 
 ### **4. 有停车位吗？**
 
-俱乐部提供免费停车场，但位置有限，建议搭乘出租车。
+俱乐部提供免费停车场，但位置有限，建议乘坐出租车。
 
 ### **5. 需要遵守哪些着装要求？**
 

@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9d4767a8eb1113d0021eec4fa135c8f0.png'
 originalUrl: 'https://vocus.cc/article/65f8e4d2fd89780001b5e8f9'
 lang: zh-cn
-_srcHash: a4c4e22a039f9c46ad6a5a4c0f204730
+_srcHash: d2c947ba5ecaff901e1db9962df9e770
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3e810a0ebad0e132e5fd1ca4ccffc859.png)
@@ -44,6 +44,6 @@ _srcHash: a4c4e22a039f9c46ad6a5a4c0f204730
 
 > 延伸阅读：[巴厘岛攻略之认识巴厘岛区域: 巴厘岛住宿推荐指南 - 认识库塔 水明漾 坎古 乌布](/blog/2023-12-29-65839fbafd89780001e876b5/)
 
-以下是我们精心整理的巴厘岛住宿推荐，让你在旅途中远离交通烦扰，轻松享受巴厘岛的美景和文化：
+以下是我们精心整理的巴厘岛住宿推荐，让你在旅途中远离交通烦恼，轻松享受巴厘岛的美景和文化：
 
 {{block:住宿}}

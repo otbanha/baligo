@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_50ddca2afe49b84aaa75c5d8afd50ff9.jpg'
 originalUrl: 'https://vocus.cc/article/67b69720fd89780001c24fd5'
 lang: zh-cn
-_srcHash: 4858f1f1f5ab011b344ea0ce351912c0
+_srcHash: 126953cc9c714d7650568b3cd25222a3
 ---
 
 ## 巴厘岛荣登2025年Tripadvisor旅行者之选榜首

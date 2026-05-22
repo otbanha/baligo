@@ -5,9 +5,8 @@ description: >-
   Want to see volcanoes without the hassle? Dive into this "all-inclusive"
   luxury 5-day itinerary. Discover how VIP private transfers seamlessly connect
   Java and Bali, stay in top-tier private villas to unwind, and swim with wild
-  dolphins in Lovina. Get tips on a shopping-free, pure-play itinerary that
-  combines adventure thrills with vacation relaxation for your Indonesian
-  journey.
+  dolphins in Lovina. Get tips on a no-shopping, pure-play itinerary that
+  combines adventure with resort-style relaxation for your Indonesia trip.
 pubDate: 2025-04-01T00:00:00.000Z
 category:
   - 美食景點活動
@@ -15,13 +14,13 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_abbcdb77075f99d883ef6f54309163fa.jpg'
 originalUrl: 'https://vocus.cc/article/67eb9e4afd89780001eb48fb'
 lang: en
-_srcHash: 76aa722d39c2f46c5ce1bbe858c20588
+_srcHash: 58a74f91b35afd9e64a610122ee3d30f
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_95d91a1539287683737d3e0a04d1e1c8.jpg)
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b4fa1582dee57d138f6c28b896f04869.jpg)
 
-## ✨ Tour Highlights
+## ✨ Highlights
 
 - **World Wonder**: Witness the mesmerizing blue flames of Ijen Volcano
 - **Double Volcano Feast**: Mount Bromo sunrise sea of clouds + Tumpak Sewu Waterfall
@@ -40,11 +39,11 @@ _srcHash: 76aa722d39c2f46c5ce1bbe858c20588
 
 ## 💎 Package Includes
 
-✅ **Round-trip flights** (economy class with taxes)
+✅ **Round-trip Flights** (Economy class including taxes)
 
-✅ **4 nights of premium accommodation** (including private pool villas)
+✅ **4 Nights Selected Accommodation** (Private pool villa included)
 
-✅ **All attraction tickets** (Ijen Volcano/Mount Bromo/Tumpak Sewu Waterfall/dolphin watching boat tickets)
+✅ **All Attraction Tickets** (Ijen Volcano / Mount Bromo / Tumpak Sewu Waterfall / Dolphin Watching Boat Ticket)
 
 ✅ **Daily Breakfast** + Private Car Service
 
@@ -54,7 +53,7 @@ _srcHash: 76aa722d39c2f46c5ce1bbe858c20588
 
 ## 📌 Important Information
 
-**Special Price** USD$1,188/person (cash price for two people, inquire for other group sizes)
+**Special Price** USD$1,188 per person (cash price for two people, inquire for different group sizes)
 
 **Valid Dates** From now until December 2026
 
@@ -66,29 +65,29 @@ _srcHash: 76aa722d39c2f46c5ce1bbe858c20588
 
 ![行程內容，還有更多等你來洽詢！](https://images.gobaligo.id/vocus/vocus_5feb64fbff7a18ccf5950b6effdf37ca.jpg)
 
-Discover more about the itinerary by contacting us!
+Trip details and more await your inquiry!
 
-1. **Curated Attractions Combo**: Experience volcanic wonders and Bali relaxation in one trip
-2. **Safety Guaranteed**: Professional protective gear provided for Mount Ijen
-3. **High Value Experience**: Private pool villa stay with zero shopping pressure
+1. **Curated Attractions Combo**: Experience volcanic wonders and Bali vacation in one trip
+2. **Safety Guaranteed**: Mount Ijen equipped with professional protective gear
+3. **High Value Experience**: Private pool villa and shopping-free itinerary
 
-> 💡 **Friendly Reminder**: Blue flame viewing requires an early morning hike, prepare non-slip shoes and warm clothing
+> 💡 **Friendly Reminder**: Blue flame viewing requires early morning hiking, prepare non-slip shoes and warm clothing
 
 ***
 
 ### ❗ **Important Notes** ❗
 
-1. 💰 **Special Price USD$1,189/person** 💰 Online registration includes a full subsidy of **Rp. 150,000 Bali tourism tax per person**
+1. 💰 **Great Value at USD$1,188 per person** 💰 Online registration includes a **full subsidy of Rp. 150,000 for Bali's tourism tax**
 2. **Valid Departure Dates**: From now until December 2026 (holiday rates may vary).
-3. **Discount for Two Travelers**: Please contact customer service for pricing with different group sizes.
+3. **Special Offer for Two Travelers**: Contact customer service for pricing with different group sizes.
 4. **Price Fluctuations**: Airfare and accommodation prices vary depending on departure dates. Feel free to inquire.
-5. **Special Offer**: Once confirmed, cancellations and refunds are not allowed. Please ensure your itinerary before signing up!
+5. **Special Promotion**: Once confirmed, cancellations and refunds are not allowed. Please ensure your travel plans are finalized before booking!
 
 ***
 
 📸 Get your camera ready for an impromptu volcano adventure!
 
-👉 Limited spots available, book now! Let Indonesia's breathtaking scenery become your exclusive memory!
+👉 Limited spots available—book now! Let Indonesia's breathtaking scenery become your exclusive memory!
 
 {{block:tour-form-volcanoes}}
 

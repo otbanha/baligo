@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_895250b2562594f0df152abd4e1ca3de.jpg'
 originalUrl: 'https://vocus.cc/article/69a27e03fd89780001045c82'
 lang: zh-cn
-_srcHash: ca28ed852c13cfafd696aa8c279045b5
+_srcHash: 3474e4c5078c4942bc363a09890a633a
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_d7b099d5c0f6850a402c4f85229e410a.jpg)
@@ -79,7 +79,7 @@ _srcHash: ca28ed852c13cfafd696aa8c279045b5
 
 会中招通常是因为这三个原因：**贪便宜、太急、不好意思拒绝**。保持基本警觉，不贪夸张的优惠，你的巴厘岛之行就会非常顺利！
 
-**完整的防骗细节与应对实测，请看小杰的 YouTube 视频：**
+**完整的防骗细节与应对实测，请看小杰的 YouTube 影片：**
 
 https://youtu.be/LuEXL77-Qh0
 

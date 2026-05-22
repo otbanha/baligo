@@ -2,7 +2,7 @@
 slug: carry-on-luggage-tips-bali
 title: 空姐没告诉你的随身行李秘辛：登机箱挑选建议、上方行李架放置礼仪与必备清单
 description: >-
-  为什么你的登机箱总是被要求托运？跟着空服员 CiCi 优化您的飞行体验。深度解析随身行李的「重量 vs.
+  为什么你的登机箱总被要求托运？跟着空服员 CiCi 优化您的飞行体验。深度解析随身行李的「重量 vs.
   体积」陷阱、不可不知的航空安全禁令，以及如何在狭窄机舱内快速安顿行李。内含专为巴厘岛长途飞行准备的「机上舒适小包」建议，让您的旅程舒适度加倍。
 pubDate: 2026-01-30T00:00:00.000Z
 category:
@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_dc32299a9a4f860ee3f528879e12e632.jpg'
 originalUrl: 'https://vocus.cc/article/679aca0dfd89780001f4c434'
 lang: zh-cn
-_srcHash: ccaee7b86174d97cbb0d1918ea4e7279
+_srcHash: 2b6083142d33279ae4d07fc850dc8ae4
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_49316950dc7a762a8401be7816d1dd28.jpg)
@@ -50,8 +50,8 @@ _srcHash: ccaee7b86174d97cbb0d1918ea4e7279
 
 - **航空公司普遍规定：**
 - - **限带两件随身行李**：大多数航空公司规定旅客只能携带两件随身行李，通常包括一个小型滚轮箱及一个手提包。
-- **违规后果：需额外支付托运费**
-  如果旅客携带的行李数量超过规定，航空公司可能会要求旅客将部分行李托运，并额外收取托运费。
+- **违规后果：需额外支付托运费用**
+  如果旅客携带的行李数量超过规定，航空公司可能会要求旅客将部分行李托运，并额外收取托运费用。
 
 {{block:klook}}
 

@@ -3,7 +3,6 @@ slug: bali-6-day-itinerary-guide
 title: 巴厘岛自由行六天行程：住宿、美食、景点推荐
 description: 这次的巴厘岛之旅，我们一家人带着满满的期待飞往这个充满魅力的岛屿。
 pubDate: '2024-09-18'
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fe6a030ea275cf610d3a9c87b3d2c277.jpg'
 tags:
   - 峇里島自由行
@@ -15,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66c0ba76fd89780001527eed'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 5f7c6ba0498aa331a16af661240335ef
+_srcHash: a006665e6b844b87eff3a444875fc181
 ---
 
 > 以下内容由团友 [​Oscar Lin](https://www.facebook.com/share/p/4Eev2drzrfF5SKtc/) 提供，并同意我们改编
@@ -34,7 +33,7 @@ Oscar Lin提供
 
 晚餐后，我们回到当晚的住宿——**Komaneka at Rasa Sayang**酒店。这间酒店的确如网上评价所说的那样美丽，无论是房间的设计还是整体的氛围都让人感到非常舒适。地理位置也非常方便，就在猴林路旁，周围有不少景点和餐厅，非常适合观光和休闲。
 
-> [Komaneka at Rasa Sayang 房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685387&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF4_nZrtOsQuyGpmYGhgZGBhtFLFqbGR09HlaJrDvc5uApss79YZVLj0MAT8SUA8-nsSdauroX_TwY6NDFyAoWmMF4-pXmCkbGjYzGIMCc5rCDkekAI9MJxvcKC5imLL5vdoqFmWMT2yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJsYWOoZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHKeYJgHJ9wq7WPn9IkPM_Bx1w80iXXWjdA0vsO5UlpI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MTI31DU2tjA107gztfPmE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmpubm5mGWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgB1UectBQMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-33856&detailFilters=17|1~17~1*31|685387~31~685387*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/j3XfJIPj)
+> [Komaneka at Rasa Sayang 房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185)
 
 已收录在[【巴厘岛乌布住宿】乌布27家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
 
@@ -52,13 +51,13 @@ Oscar Lin提供
 
 ## 8月14日：乌布及周边景点游览
 
-第二天，我们一早9:30出发，包车开始了一整天的旅程。第一站是**Ritatkala Cafe**，这是一家位于火山附近的咖啡馆，风景真的无敌美丽，从这里可以远眺整个火山景观。然而，食物的味道只能说是中规中矩，没有特别令人惊艳的部分，但这里的氛围和视觉享受足以弥补食物上的不足。
+第二天，我们一早9:30出发，包车开始了一整天的旅程。第一站是**Ritatkala Cafe**，这是一家位于火山附近的咖啡厅，风景真的无敌美丽，从这里可以远眺整个火山景观。然而，食物的味道只能说是中规中矩，没有特别令人惊艳的部分，但这里的氛围和视觉享受足以弥补食物上的不足。
 
 Oscar Lin提供
 
 接着，我们来到了司机推荐的**咖啡庄园**。这里的环境让人感到非常惬意，四周绿意盎然，还有机会与麝香猫合照，让孩子们非常开心。更让人感到满意的是，包车司机没有强迫推销任何产品，这点让我们感到非常轻松自在。
 
-随后，我们前往著名的**圣泉寺**。今天这里的人潮并没有我们想象的那么多，也许是因为我们选择的时间比较早。我们特地请司机带我们走完整个祈福仪式，整个过程非常庄严神圣，司机还很细心地帮我们录像和拍照，留下了珍贵的回忆。
+随后，我们前往著名的**圣泉寺**。今天这里的人潮并没有我们想象中那么多，也许是因为我们选择的时间比较早。我们特地请司机带我们走完整个祈福仪式，整个过程非常庄严神圣，司机还很细心地帮我们录像和拍照，留下了珍贵的回忆。
 
 最后一站是**Tis Cafe**。这里的餐点味道依然普通，不过胜在这里没有低消，环境非常轻松。不过，要进去欣赏梯田的景色需要爬一段路，而且只能看到一小片梯田，对于期待看到壮观梯田景观的人来说，可能会有点失望。
 
@@ -144,11 +143,11 @@ Oscar Lin提供
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
 
-金巴兰（Jimbaran）是巴厘岛上一个以浪漫气氛和美食闻名的海滨天堂，拥有迷人的金色沙滩与壮丽的日落景色。这里的海鲜餐厅是不可错过的美食体验，同时还有豪华度假村和宁静的渔村风情，让旅客既能享受奢华又能贴近当地生活。无论是家庭出游还是浪漫约会，金巴兰都能满足您的期待！想了解更多金巴兰？[请点击这里](/blog/jimbaran-guide/)。
+金巴兰（Jimbaran）是巴厘岛上一個以浪漫气氛和美食闻名的海滨天堂，拥有迷人的金色沙滩与壮丽的日落景色。这里的海鲜餐厅是不可错过的美食体验，同时还有豪华度假村和宁静的渔村风情，让旅客既能享受奢华又能贴近当地生活。无论是家庭出游还是浪漫约会，金巴兰都能满足您的期待！想了解更多金巴兰？[请点击这里](/blog/jimbaran-guide/)。
 
 ## 8月18日：告别巴厘岛
 
-最后一天，我们选择在酒店的泳池和海滩上度过，享受这段美好的最后时光。下午，我们乘坐飞机返回中国台湾，结束了这次充满美好回忆的巴厘岛之旅。
+最后一天，我们选择在酒店的泳池和海滩上度过，享受这段美好的最后时光。下午，我们乘坐飞机返回台湾，结束了这次充满美好回忆的巴厘岛之旅。
 
 ## 推荐的包车司机
 

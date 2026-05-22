@@ -26,7 +26,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: zh-cn
-_srcHash: a90c2e18d85a43043b58c65e058d2773
+_srcHash: a56b2a964592c50ccd8b0d648794b2a5
 ---
 
 你想在网络上办过印尼电子签证吗？
@@ -49,7 +49,7 @@ _srcHash: a90c2e18d85a43043b58c65e058d2773
 
 因为「入境申报卡」这个东西是真实存在的。
 
-印尼从 2025 年 9 月开始，入境旅客确实需要填一份电子申报，叫做 All Indonesia Arrival Card（简称AIAC）。诈骗集团就是抓住这个——你不确定这个要不要钱、要怎么办——然后伪装成官方来收费。
+印尼从 2025 年 9 月开始，入境旅客确实需要填一份电子申报，叫做 All Indonesia Arrival Card (简称AIAC)。诈骗集团就是抓住这个——你不确定这个要不要钱、要怎么办——然后伪装成官方来收费。
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775314476563-img_5279.jpeg)
 

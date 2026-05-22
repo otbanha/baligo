@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6a5d39f975ba52cec16b2d64dcadfaeb.jpg'
 originalUrl: 'https://vocus.cc/article/67581b8ffd89780001f5b5dc'
 lang: zh-cn
-_srcHash: 1c497f1a82581e04fa11b3724f602c32
+_srcHash: 132a58c2af2ea287160976d2cd4e5045
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_acec44040e6eb1d33d385be4be6d0d18.jpg)
@@ -87,7 +87,7 @@ _srcHash: 1c497f1a82581e04fa11b3724f602c32
 
 ## **避开高峰出行日：选择最佳时间旅行**
 
-圣诞-新年假期期间的交通高峰往往集中在以下几天：
+圣诞-新年假日期间的交通高峰往往集中在以下几天：
 
 - **圣诞节**：12月21日-22日以及12月25日-26日
 - **新年**：12月31日和1月1日

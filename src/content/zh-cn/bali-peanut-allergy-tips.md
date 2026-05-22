@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66385c23fd897800014ead64'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: ffa99f2fcc946a92e005c5e3aa1c03b7
+_srcHash: 3b874084b234d0a2f24dac32e84ca7fc
 ---
 
 在巴厘岛旅行时，若是对花生过敏的人，避免食用含有花生的食物是非常重要的。巴厘岛的饮食多样，但是花生在一些菜式和调味料中可能会被使用，因此需要格外小心。

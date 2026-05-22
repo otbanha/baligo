@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66eb78bafd89780001edcec6'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 6bc4e422c21c06cb2a6e79b3141ad73b
+_srcHash: 65df886257185d20d2db1da6b56d2cc0
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fa001ec17be16c90af2ed5df4564bccc.jpg)
@@ -39,17 +39,17 @@ _srcHash: 6bc4e422c21c06cb2a6e79b3141ad73b
 
 ### 适合雨天的室内舞台
 
-Balerung Stage 的室内设计，特别适合在雨季观赏表演。一位观众提到：「当外面下着大雨时，我们在舒适的室内欣赏了一场精彩的表演。」这对于想在雨季拜访巴厘岛的人来说，无疑是一个加分项。
+Balerung Stage 的室内设计，特别适合在雨季观赏表演。一位观众提到：“当外面下着大雨时，我们在舒适的室内欣赏了一场精彩的表演。”这对于想在雨季拜访巴厘岛的人来说，无疑是一个加分项。
 
 Balerung Stage专业演出片段：__VID0__
 
 ### 物超所值的票价
 
-你可能会惊讶于这样高质量的表演仅需 USD$5。无论你是文化爱好者，还是想找个特别的夜晚活动，Balerung Stage 的表演绝对值得一看。
+你可能会惊讶于这样高质量的表演仅需USD$5。无论你是文化爱好者，还是想找个特别的夜晚活动，Balerung Stage 的表演绝对值得一看。
 
 欲订座位，请联系 WhatsApp：+6281936281721
 
-地址：[Kompleks Puri Guruh Sindang Paridesa Br Teruna Peliatan, 乌布 90571](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
+地址：[Kompleks Puri Guruh Sindang Paridesa Br Teruna Peliatan, Ubud 90571](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
 由著名的佩里亚坦（Peliatan）舞者和音乐家演出每周五晚上 7:30 开演
 

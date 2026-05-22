@@ -1,7 +1,7 @@
 ---
 slug: bali-immigration-checks-guide
 title: 去巴厘岛必看！移民警察随机盘查，入境文件要打印纸质版吗？
-description: 巴厘岛入境文件（签证、观光税、Arrival Card）官方允许电子版，但因移民警察现已在各地随机盘查，强烈建议携带纸质备份，避免不必要的麻烦。
+description: 巴厘岛入境文件（签证、观光税、Arrival Card）官方允许电子版，但因移民警察现已在各地随机盘查，强烈建议携带纸质版备份，避免不必要的麻烦。
 pubDate: '2025-09-09'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6edc5fad9df5889dbc92a46e84e4bc6b.png'
 tags:
@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/68bf8728fd897800013427c2'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 2d8a28abd2113df9641311eb89aae2ec
+_srcHash: e5e065b4cfdfe92fa4143dcc29e58dd2
 ---
 
 ## **很多人都在问：需要打印吗？**
@@ -56,7 +56,7 @@ _srcHash: 2d8a28abd2113df9641311eb89aae2ec
 
 - VOA：机场现场办理
 - e-VOA：提前于 [evisa.imigrasi.go.id](https://evisa.imigrasi.go.id) 申请
-- 费用为 500,000 印尼盾（约 USD$16）
+- 费用为 500,000 印尼盾（约 USD$32）
 
 ### **2. All Indonesia Arrival Card**
 
@@ -66,7 +66,7 @@ _srcHash: 2d8a28abd2113df9641311eb89aae2ec
 
 ### **3. 巴厘岛观光税（Bali Tourism Levy）**
 
-- 每位外籍旅客 150,000 印尼盾（约 USD$5）
+- 每位外籍旅客 150,000 印尼盾（约 USD$10）
 - 平台：[lovebali.baliprov.go.id](https://lovebali.baliprov.go.id) 或 **Love Bali App**
 - 完成后获得电子凭证
 

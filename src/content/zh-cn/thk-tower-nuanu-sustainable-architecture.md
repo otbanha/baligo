@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/67a2b251fd897800013ccad4'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: d38dff7164e7d3c68407a259f2d76df8
+_srcHash: e33c1717d02269e22b0bbc3e976cc34e
 ---
 
 ## **探索 THK Tower：巴厘岛新地标的诞生**

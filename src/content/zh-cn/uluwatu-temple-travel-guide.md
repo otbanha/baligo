@@ -1,11 +1,10 @@
 ---
 slug: uluwatu-temple-travel-guide
-title: 巴厘岛乌鲁瓦图寺/情人崖旅游指南：必看亮点与实用建议
+title: 巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议
 description: >-
-  乌鲁瓦图寺（Uluwatu Temple）已成为旅客们广为熟知的目的地，当地人称之为「Pura Luhur
-  Uluwatu」。这座寺庙不仅提升了巴厘岛南部景点的知名度，更因其独特的地理位置与文化意义而备受推崇。寺庙坐落于97米高的悬崖之上，不仅是信徒的朝圣地，更提供了令人惊叹的壮丽景色，绝对会让你大
+  乌鲁瓦图庙（Uluwatu Temple）已成为旅客们广为熟知的目的地，当地人称之为「Pura Luhur
+  Uluwatu」。这座寺庙不仅提升了巴厘岛南部景点的知名度，更因其独特的地理位置与文化意义而备受推崇。寺庙坐落于97米高的悬崖之上，不仅是信徒的朝圣地，更提供了令人惊叹的壮丽景色，绝对会让你大开眼界。在这篇乌鲁瓦图庙旅游指南中，我将为你提供所有必备资讯，帮助你更好地规划行程，包括门票价格、历史背景、参访时的穿着建议等。准备好展开一场冒险了吗？让我们开始吧！
 pubDate: '2025-01-18'
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6a954ba9156a573d305372ef3915d066.jpg'
 tags:
   - 烏魯瓦圖
@@ -17,49 +16,48 @@ originalUrl: 'https://vocus.cc/article/678b1d81fd89780001f7fe4d'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 09e7965dda01a821f63d54cfec91eeed
+_srcHash: 2308408fe282cd0684a4fb97afdce948
 ---
-
-乌鲁瓦图寺（Uluwatu Temple）已成为旅客们广为熟知的目的地，当地人称之为「Pura Luhur Uluwatu」。这座寺庙不仅提升了巴厘岛南部景点的知名度，更因其独特的地理位置与文化意义而备受推崇。寺庙坐落于97米高的悬崖之上，不仅是信徒的朝圣地，更提供了令人惊叹的壮丽景色，绝对会让你大开眼界。在这篇乌鲁瓦图寺旅游指南中，我将为你提供所有必备信息，帮助你更好地规划行程，包括门票价格、历史背景、参访时的穿着建议等。准备好展开一场冒险了吗？让我们开始吧！
+## **乌鲁瓦图**庙**的历史与传说**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0942869a24bc2de969579c4727678bef.jpg)
 
 ---
 
-## **乌鲁瓦图**寺**的历史与传说**
+准备好来一场精彩的历史之旅吧！乌鲁瓦图庙的历史绝不会让你感到无聊。这座寺庙由爪哇祭司Mpu Kuturan于11世纪建立，成为巴厘岛印度教社区的重要精神中心。然而，故事还有一个转折点：传说中，一位名为Mpu Danghyang Nirartha的神秘人物曾在这些悬崖上冥想，随后消失无踪，只留下他的披肩。据说，这条披肩化作了寺庙的坚固基石。是不是既诡异又迷人呢？
 
-准备好来一场精彩的历史之旅吧！乌鲁瓦图寺的历史绝不会让你感到无聊。这座寺庙由爪哇祭司Mpu Kuturan于11世纪建立，成为巴厘岛印度教社区的重要精神中心。然而，故事还有一个转折点：传说中，一位名为Mpu Danghyang Nirartha的神秘人物曾在这些悬崖上冥想，随后消失无踪，只留下他的披肩。据说，这条披肩化作了寺庙的坚固基石。是不是既诡异又迷人呢？
-
----
-
-## **乌鲁瓦图**寺**在巴厘岛印度教中的精神意义**
-
-乌鲁瓦图寺对巴厘岛印度教社区具有重要的精神意义，它不仅仅是一个礼拜场所。无论你是为了文化体验还是拍摄完美的Instagram照片，都请花点时间感受这里的神圣氛围。此外，巴厘岛有六大信仰精神象征的著名寺庙，乌鲁瓦图寺是其中之一。
+## **乌鲁瓦图**庙**在巴厘岛印度教中的精神意义**
 
 ---
+
+乌鲁瓦图庙对巴厘岛印度教社区具有重要的精神意义，它不仅仅是一个礼拜场所。无论你是为了文化体验还是拍摄完美的Instagram照片，都请花点时间感受这里的神圣氛围。此外，巴厘岛有六大信仰精神象征的著名寺庙，乌鲁瓦图庙是其中之一。
 
 ## 为何又叫「情人崖」？
+
+---
 
 「情人崖」这个浪漫的名字源于一个凄美的巴厘岛传说。据说，过去有一对年轻的恋人深爱彼此，但因为家庭反对，他们无法在一起。为了证明他们的爱情与忠诚，他们携手一同跳下悬崖，誓言在另一个世界永不分离。虽然这个故事带着悲剧色彩，但也让这座悬崖成为爱情忠诚的象征。
 
 因此，许多情侣会来到这里，一边欣赏壮丽的海景，一边为爱情祈福。特别是在日落时分，情人崖的浪漫气氛更是令人沉醉。
 
+因此，許多情侶會來到這裡，一邊欣賞壯麗的海景，一邊為愛情祈福。特別是在日落時分，情人崖的浪漫氣氛更是令人沉醉。
+
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2f1205c8b56146e8e887c4182b3cdb14.jpg)
 
 ---
 
-## **乌鲁瓦图寺庙的必看亮点**
+## **乌鲁瓦图**庙**的必看亮点**
 
-乌鲁瓦图寺庙不仅仅是一个景点，它是一系列难忘体验的集合。
+乌鲁瓦图庙不仅仅是一个景点，它是一系列难忘体验的集合。
 
 1. **悬崖边的印度洋壮丽景色**  
    想象一下，站在悬崖边，眼前是无尽的印度洋。这里的景色绝对令人惊叹，尤其是在日落时分，天空被染成绚丽的色彩。这是一个不容错过的时刻，记得准备好相机！
 2. **具有精神意义的仪式与典礼**  
-   乌鲁瓦图寺庙不仅是视觉的盛宴，更是一个供奉Rudra（湿婆神的一种形式）的精神圣地。如果你在适当的时间到访，例如满月、新月或寺庙周年纪念日（Piodalan），你将有机会见证神圣的仪式。这些仪式充满活力、庄严且色彩缤纷，让寺庙充满生机。
+   乌鲁瓦图庙不仅是视觉的盛宴，更是一个供奉Rudra（湿婆神的一种形式）的精神圣地。如果你在适当的时间到访，例如满月、新月或寺庙周年纪念日（Piodalan），你将有机会见证神圣的仪式。这些仪式充满活力、庄严且色彩缤纷，让寺庙充满生机。
 
 ---
 
-## **乌鲁瓦图寺庙的参访指南：入口、森林与猴子**
+## **乌鲁瓦图**庙**的参访指南：入口、森林与猴子**
 
 当你踏入乌鲁瓦图寺，你将进入一个不同的世界——这里有令人屏息的美景，还有调皮的猴子。以下是你需要知道的信息，以确保你的参访安全且愉快。
 
@@ -68,7 +66,7 @@ _srcHash: 09e7965dda01a821f63d54cfec91eeed
 1. **北门与南门的选择**  
    无论你选择从北门还是南门进入，都会带你进入一片茂密的森林，这里生活着著名的长尾灰猴。两个入口相似，但如果你想快速到达主要景点，选择哪个入口都可以。只是要准备好，一进入就会遇到这些毛茸茸的朋友！
 2. **寺庙是否需要大量步行？**  
-   是的，乌鲁瓦图寺庙需要相当多的步行，尤其是如果你想探索所有隐藏的角落。从入口到主寺区大约需要15-20分钟的步行，其中包括爬约70级阶梯。路径维护良好，但地形有些许不平，建议穿着舒适且防滑的鞋子。
+   是的，乌鲁瓦图庙需要相当多的步行，尤其是如果你想探索所有隐藏的角落。从入口到主寺区大约需要15-20分钟的步行，其中包括爬约70级阶梯。路径维护良好，但地形有些许不平，建议穿着舒适且防滑的鞋子。
 3. **与猴子互动的安全建议**
 4. - **保管好贵重物品**：猴子喜欢闪亮的东西，尤其是太阳眼镜、珠宝和零食。请将贵重物品妥善收好。
    - **如果猴子抢走你的物品**：不要惊慌，猴子很喜欢「交易」，给它们一些花生或香蕉可能会让它们归还物品。如果无效，可以请保安或当地人帮忙。
@@ -78,13 +76,13 @@ _srcHash: 09e7965dda01a821f63d54cfec91eeed
 
 ---
 
-## **乌鲁瓦图寺庙的独特风景与建筑**
+## **乌鲁瓦图**庙**的独特风景与建筑**
 
-乌鲁瓦图寺庙不仅是一个美丽的地方，更是一个感官的盛宴，拥有令人惊叹的风景与独特的建筑。
+乌鲁瓦图庙不仅是一个美丽的地方，更是一个感官的盛宴，拥有令人惊叹的风景与独特的建筑。
 
 1. **壮观的悬崖位置**  
    寺庙坐落在97米高的悬崖上，俯瞰着印度洋的波涛。这里的景色绝对令人惊叹，是巴厘岛冒险中不容错过的地点。
-2. **乌鲁瓦图寺庙的建筑之美**  
+2. **乌鲁瓦图**庙**的建筑之美**  
    寺庙的建筑与其地理位置一样令人印象深刻。精致的雕刻讲述着过去的故事，寺庙的每个角落都值得细细品味。
 3. **「乌鲁瓦图」名字的意义**  
    「乌鲁瓦图」这个名字源自梵语，「Ulu」意为「尖端」或「尽头」，「Watu」意为「石头」或「悬崖」。因此，乌鲁瓦图的意思是「悬崖的边缘」，非常符合这座寺庙的地理位置。
@@ -95,7 +93,7 @@ _srcHash: 09e7965dda01a821f63d54cfec91eeed
 
 ---
 
-## **乌鲁瓦图寺庙的日落美景**
+## **乌鲁瓦图**庙**的日落美景**
 
 乌鲁瓦图寺庙是日落爱好者的终极选择。以下是它成为最佳日落观赏地的原因，以及与巴厘岛其他著名日落景点的比较。
 
@@ -119,7 +117,7 @@ _srcHash: 09e7965dda01a821f63d54cfec91eeed
 
 ---
 
-## **乌鲁瓦图寺庙的门票与凯卡克舞表演资讯**
+## **乌鲁瓦图寺庙的门票与凯卡克舞表演信息**
 
 - **门票**：进入乌鲁瓦图寺庙需要支付门票费用，建议提前在网上查询最新价格。目前国际游客的门票价格为成人60,000印尼盾，6至12岁儿童40,000印尼盾，6岁以下儿童免费入场。此门票费用不包含卡洽火舞表演的入场费。印尼本地游客可享有小幅折扣，成人票价为30,000印尼盾，儿童票价为15,000印尼盾。
 
@@ -155,10 +153,10 @@ _srcHash: 09e7965dda01a821f63d54cfec91eeed
 寺庙周围也有一些非常棒的住宿选择，包括：
 
 1. [**阿雅娜度假村**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6504) – 这里极尽奢华，甚至在同一片土地上还建有一座更为独特的度假村「RIMBA」。
-2. [**宝格丽度假村巴厘岛**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=77182) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=926153&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zMzFJMEk9YaZY_2kSf9YhRiNDTgtPgk6zpo5c-bOM4ccPN8E7pBL3X_MIYBnBuPJwxYrGBk3MvYf-qoRM3W-ww5G5gOMTCcYHy9jXsC06zvrKRZmjg2el1i-M0VXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWJibqRnYAAUKkms8EwBa01OzEkuzUksSQ2pLAAaYaajlFnsXFKUWRCUmptZUpIKVJWWmFOcChIPSi0GyiSDBZX8gMYUQQUy8_Mg2g1QxMISc0pTIW4AWuiWCrXDsFYH0-nP5vQ-7Z75YtNuHE63NDJAcbr5gDjduDb2EQtTdOwnFoZfLAxNrAxdrAyTWFk4gLGzi5Un0CvKPchC11k3VNdZSt7QwMDA1NDY1FTXINEy0czAMEXXxNLEyMxM18LAzNJSY9O3tRefGBtZS7FOOfB8GrsCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNjNnSwM3kygbLmZPlyDBD3rPt7dbW9pLMYeEuyh-WH7M27zztL0WSM4QJhe453XOCXvjBfaRFdwqGnU9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjA0FmDcwMu5g_A8DjK8YQZYAAMNt3OnfAgAA&masterhotelid_tracelogid=100051355-0a9a601d-494266-80699&detailFilters=17|1~17~1*31|926153~31~926153*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1408&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/TSgka4Qj) – 拥有令人惊叹的悬崖海景，提供真正世界级的体验。
-3. [**阿丽拉别墅**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=148738) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=926202&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6w8zFJMEk9ZWZ49fK4x9YhRiNDA6yWvzydlxSYMsVPn2Tg-fZM0BQt80hgKeRMQ0EzhU4zGD8ddhiBSPjRkaPh1Ui66z7HXYwMp1gnHiRcQHTl23nhU-xMHMsU7nE8p0pulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGwjI0MjPQMDoFBJYoVnClhrcmJOcmlOYklqSGUB0AgzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxA9BCt1SoHYa1OphOfzan92n3zBebduNwuomxCYrTzQfE6ca1sY9YmKJjP7Ew_GJhaGJl6GJlmMTKwgGMnl2sPIHOHqH-rrqGulG6hlLyhgYGBqaGxqamugaJlhbGRolGuiaWJkZmZromppbGlhqHum9deGJsZC3FOuXA82nsCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9hMzQwtnCyibLiYQ4NdBJdXHte0MpJ2kGIOCXdR_LD8mLd552l7LZCcIUwucM_rnBP2xgvsI2HySaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWM7FzMBkaGAkwbGBl3MP6HAcZXjCBLAC6gFHToAgAA&masterhotelid_tracelogid=100051355-0a9832a2-494266-45939&detailFilters=17|1~17~1*31|926202~31~926202*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1092&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/8YoSt8kN) – 岛上最令人难以置信的私人别墅群之一。
-4. [**安纳塔拉乌鲁瓦图巴厘度假村**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=255129) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981620&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2FY9ePVR9YhRgNLCYKOa5zf1glEj_LwbNaZJ17otkChwCeiCkHnk9jT2wO9JzbcCjQoZABBCQmOTQyXl9cYMvVP9Ghi5EVrGYG45cv1hsZ5VtfB-4wq3DYwch0gJHpBONm7wVML2ZOtjzFwszRwXeJ5StTdLVSdmqlkpWJjlJJZklOqpKV0tNF85427Hm-olVJRykltTgZKARkJebml-aVANmWBgZ6BgZAkZLECs8UsM7kxJzk0pzEktSQygKgCWY6SpnFziVFmQVBqbmZJSWpQFVpiTnFqSDxoNRioEwyWFDJD2hMEVQgMz8Pot0QRSwsMac0FeIEoIVuqVA7DGt1MF3-bE7v0-6ZLzbtJs7l5tR2uQExLjeujX3EwhQd-4mF4RcwGhq0mlgZuliZOU4xTQKSm713sXIFOhuEhRjqeugaXmD9Wy4lZ2hgYGBqaGxqqmuQaJloapxsqGtiaWJkbqhraGJuqrHm7PYbT4yNrKUgca_AqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdnCzNXcIsqGi9nTJUjwg97z7e3WlvZSzCHhLoqlq58v-d572l4LJGcIkwvc8zrnhL3xAvvIUw80Kkv7TtsnsVZl6IaEZ_SKFzA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjIwEmDYwMu5g_A8DjK8YQZYAAKNCL-MIAwAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-1475&detailFilters=17|1~17~1*31|981620~31~981620*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=432&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/ayvjoETy) – 文化氛围浓厚，同时极尽奢华，并拥有巴厘岛最好的水疗中心之一。
-5. [**巴厘岛边际度假村**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=239727) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685862&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2Fo6ureQ6bELuhqZmBoYGxwWEui1Xpjoe_asT0b9zm4MkABA37dzsE8ERMOfB8Gnuipat70c-DgQ5djKxggRmMy95prmBk3Mj4DajlkPkUhx2MzAcYmU8wfmpkWsD0bddl1VMszBx_9C6xfGeKrlbKTq1UsjLRUSrJLMlJVbJSerpo3tOGPc9XtCrpKKWkFicDhYCsxNz80rwSINvYwMBMz8AAKFSSWOGZAtaanJiTXJqTWJIaUlkANMJMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQbooiFJeaUpkLcALTQLRVqh2GtDqbTn83pfdo988Wm3UQ63ZzaTjcgxunGtbGPWJiiYz-xMPxiYWhiZehiZeY4xTSJlYUDGEO7WPmDosL8PA11w80i3XRDdZ0vsO5pYZJSNDQwMDAyNTUy1zVItLRINTMz1TWxNDEyM9c1sjQyMzOw1Nj2Z9elJ8ZG1lKQhKDAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdDM3MTVIsqGi9nTJUjwg97z7e3WlvZSzCHhLoqTgy68Ve09ba8FkjOEyQXueZ1zwt54gX2kvWy_5Iqe0_ZJrFUZuiHhGcfFChgbGJm6GLkFGD0YIxgrgDzGVYzsXMwGxoYCzBsYGXcw_ocBxleMIEsAzIjNZAsDAAA&masterhotelid_tracelogid=100025527-0a98e665-494267-2926609&detailFilters=17|1~17~1*31|685862~31~685862*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=640&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wvZXpWCo) – 一家精品度假村，拥有世界上最佳的悬崖海景之一。
+2. [**宝格丽度假村巴厘岛**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=77182) – 拥有令人惊叹的悬崖海景，提供真正世界级的体验。
+3. [**阿丽拉别墅**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=148738) – 岛上最令人难以置信的私人别墅群之一。
+4. [**安纳塔拉乌鲁瓦图巴厘度假村**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=255129) – 文化氛围浓厚，同时极尽奢华，并拥有巴厘岛最好的水疗中心之一。
+5. [**巴厘岛边际度假村**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=239727) – 一家精品度假村，拥有世界上最佳的悬崖海景之一。
 
 ---
 
@@ -174,7 +172,7 @@ _srcHash: 09e7965dda01a821f63d54cfec91eeed
 
 **2. 乌鲁瓦图庙为什么出名？**
 
-乌鲁瓦图寺既是巴厘岛历史的古老遗迹，也是一座现代且繁荣的寺庙。它被认为是保护岛屿免受海洋愤怒的关键寺庙之一。这里拥有最壮观的日落景色、猴群栖息地，并且是观赏卡恰舞（火舞）的少数正宗场所之一，因此它因多种原因而闻名。
+乌鲁瓦图寺既是巴厘岛历史的古老遗迹，也是一座现代且繁荣的寺庙。它被认为是保护岛屿免受海洋愤怒的关键寺庙之一。这里拥有最壮观的日落景色、猴群栖息地，并且是观赏卡洽舞（火舞）的少数正宗场所之一，因此它因多种原因而闻名。
 
 **3. 不是所有的地方都能进入**
 
@@ -186,7 +184,7 @@ _srcHash: 09e7965dda01a821f63d54cfec91eeed
 
 **5. 2025年乌鲁瓦图庙的门票价格是多少？**
 
-目前，成人票价60,000印尼盾，儿童票价为40,000印尼盾（印尼居民分别为30,000和15,000印尼盾）。观赏火舞现场购票需额外支付150,000印尼盾，约USD$5。卡恰火舞优惠票[这里买](https://affiliate.klook.com/redirect?aid=116349&aff_adid=983750&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D83f53db339)！
+目前，成人票价60,000印尼盾，儿童票价为40,000印尼盾（印尼居民分别为30,000和15,000印尼盾）。观赏火舞现场购票需额外支付150,000印尼盾，约USD$5。卡洽火舞优惠票[这里买](https://affiliate.klook.com/redirect?aid=116349&aff_adid=983750&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21638-uluwatu-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D83f53db339)！
 
 **6. 乌鲁瓦图寺有猴子吗？**
 
@@ -196,7 +194,7 @@ _srcHash: 09e7965dda01a821f63d54cfec91eeed
 
 很多人慕名而来欣赏日落，导致傍晚时段人潮汹涌。若你偏好宁静氛围，可以选择早上造访，同样能欣赏到蔚蓝的海天一线。
 
-**8. 如何安排巴厘岛乌鲁瓦图寺庙的行程？**
+**8. 如何安排巴厘岛乌鲁瓦图寺的行程？**
 
 这附近一带的上百个景点，**我们都收集在我们的**[布奇半岛冒险指南](/blog/bukit-peninsula-guide/)
 

@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: d956a24adbeaa6ccfe7832715261228e
+_srcHash: f4643a5b642994fb88199d3e0f98eebd
 ---
 
 每个飞过巴厘岛伍拉莱国际机场（I Gusti Ngurah Rai International Airport）的人，大概都有一个共同的痛苦回忆——尤其是旺季或航班高峰时段，从入境海关排到行李转盘，整个过程动辄一两个小时起跳。老实说，飞机一落地就被困在排队人龙里，假期心情直接打对折。
@@ -36,7 +36,7 @@ _srcHash: d956a24adbeaa6ccfe7832715261228e
 
 这次主导改革的是巴厘岛伍拉莱机场第一特别移民办公室（Class I Special Immigration Office），他们已经正式宣布要彻底重组国际入境区的旅客动线。
 
-移民办公室主管 Bugie Kurniawan 坦承，伍拉莱机场目前的入境配置跟雅加达的苏卡诺哈达机场（Soekarno-Hatta Airport）不一样，这边的入境通道相对较短，导致塞车状况特别严重。
+移民办公室主管 Bugie Kurniawan 坦言，伍拉莱机场目前的入境配置跟雅加达的苏卡诺哈达机场（Soekarno-Hatta Airport）不一样，这边的入境通道相对较短，导致塞车状况特别严重。
 
 新的动线设计核心很简单：**让所有旅客一下飞机就直奔移民查验，不再走冤枉路**。
 
@@ -63,7 +63,7 @@ _srcHash: d956a24adbeaa6ccfe7832715261228e
 
 为了让入境顺畅，飞巴厘岛前最好把这些事先做完：
 
-- **申请 eVOA 电子落地签**（建议出发前两周办理）：费用 IDR 500,000（约 USD 32），效期 30 天，可线上延签一次再加 30 天
+- **申请 eVOA 电子落地签**（建议出发前两周办理）：费用 IDR 500,000（约 USD$32），有效期 30 天，可在线延签一次再加 30 天
 - **填写 All Indonesia App 的入境卡与海关申报**
 - **缴纳巴厘岛观光税**（在 LoveBali 网站或 App 上完成）
 - **QR Code 准备好**：登机前后手机画面要能随时调出来
@@ -72,7 +72,7 @@ _srcHash: d956a24adbeaa6ccfe7832715261228e
 
 ![](https://static.bali.live/uploads/210133/responsive-images/IMG_7139___responsive-avif_768_442.avif)
 
-这部分是配合最近 MV Hondius 邮轮上的汉他病毒（Hantavirus）疫情而做的加强：
+这部分是配合最近 MV Hondius 邮轮上的汉他病毒（Hantavirus）疫情而做的补强：
 
 - 国际入境大厅新增 **2 台热感应扫描器**
 - 国内入境区也加装 **1 台热感应扫描器**

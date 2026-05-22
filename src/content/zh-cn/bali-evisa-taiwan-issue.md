@@ -2,8 +2,7 @@
 slug: bali-evisa-taiwan-issue
 title: 申请eVisa，台湾不见了！
 description: >-
-  最近想去巴厘岛旅行，准备申请eVisa时却遇到了一个让人哭笑不得的状况。
-  这几天有朋友要申请巴厘岛eVisa吗？我在（2025/06/07）填写申请表格时，发现了一个奇怪的现象。在Nationality（
+  最近想去巴厘岛旅行，准备申请eVisa时却遇到了一个让人哭笑不得的状况。这几天有朋友要申请巴厘岛eVisa吗？我在（2025/06/07）填写申请表格时，发现了一个奇怪的现象。在Nationality（
 pubDate: '2025-06-07'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d8323e690ca9cbbb95571dc78a872391.jpg'
 tags:
@@ -16,16 +15,16 @@ originalUrl: 'https://vocus.cc/article/684447cdfd89780001bb6bf8'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: c95a420047ce2f39a392b19214998290
+_srcHash: a1b07f1bd1639a5f9e7185a9738ea727
 ---
 
-## Taiwan又被和谐掉了
+## 台湾又被和谐掉了
 
 > 取自脸友 [Shirley Lu 贴文](https://www.facebook.com/share/p/1FcTWfbFHk/)
 
 最近想去巴厘岛旅行，准备申请eVisa时却遇到了一个让人哭笑不得的状况。
 
-## 消失的Taiwan选项
+## 消失的台湾选项
 
 这几天有朋友要申请巴厘岛eVisa吗？我在（2025/06/07）填写申请表格时，发现了一个奇怪的现象。在Nationality（国籍）这一栏，我反复找了好几次，竟然找不到「Taiwan」这个选项。
 

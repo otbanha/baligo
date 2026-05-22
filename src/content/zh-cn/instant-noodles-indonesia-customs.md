@@ -15,8 +15,9 @@ originalUrl: 'https://vocus.cc/article/6662ff6dfd89780001183ec4'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 302db0ed05ef4328e4cca5b2006af0f4
+_srcHash: 39c2eeb87958029f0564e18acf25e822
 ---
+
 带台湾泡面去巴厘岛，特别是含有肉类的泡面，是许多旅客关心的问题。泡面不仅仅是台湾人生活中的美味，更是一种家乡的味道。那么，我们能不能将这些美味带上飞机，享受异国他乡的同时也不忘台湾的滋味呢？这篇文章将详细解答这个问题。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5a3fcc70daa7978a79985c54b2c8d84a.png)
@@ -46,7 +47,7 @@ _srcHash: 302db0ed05ef4328e4cca5b2006af0f4
 
 ➡️[更多巴厘岛超值优惠点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=794001&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.TopDestination%3Aany%3A%3ATopDestination%3ACard_LIST%26clickId%3De180393a33)⬅️
 
-巴厘岛有许多美食可以选择，不妨尝试当地的美味。如果你只想赖在别墅或旅馆，不想出门，这里有两个方式让你不用出门也能享受美食：
+巴厘岛有许多美食可以选择，不妨尝试当地的美味。如果你只想赖在villa或旅馆，不想出门，这里有两个方式让你不用出门也能享受美食：
 
 1. **利用Gojek/Grab等手机app叫外卖** 这些手机应用程序让你轻松订购各式各样的美食，无论是当地特色菜还是国际美食，都可以轻松送到你的住处。
 2. **试试看当地的泡面！** 印尼的「营多捞面（Indomie）」在台湾、香港等地已经小有名气，许多人一试成主顾！除了营多捞面，你还可以试试看小杰在下面视频中推荐的当地杯面：

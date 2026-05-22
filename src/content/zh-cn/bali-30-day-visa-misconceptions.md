@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/664c8e46fd89780001240c04'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 70dc0796250a93139c8d09acacfe9923
+_srcHash: ea3cd99152d71b6d3c52d0bb712d140a
 ---
 
 你是否曾经好奇过印尼的30天落地签证可以第30天才离开吗？这是一个许多计划前往印尼/巴厘岛旅游的人常问的问题。在这篇文章中，我们将深入探讨印尼30天落地签证的各方面信息，解答你的疑问，并提供一些实用的旅游建议。

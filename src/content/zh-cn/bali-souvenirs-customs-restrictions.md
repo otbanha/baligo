@@ -2,7 +2,7 @@
 slug: bali-souvenirs-customs-restrictions
 title: 【巴厘岛旅游注意】这些巴厘岛伴手礼不能带回台湾！一次搞懂台湾海关规定
 description: >-
-  每次从巴厘岛回台湾，行李箱总是塞满各种各样的伴手礼，薯片、辣椒酱、鱿鱼干、还有一大堆在地小零食，每样都让人舍不得错过！ 
+  每次从巴厘岛回台湾，行李箱总是塞满各种各样的伴手礼，薯片、辣椒酱、鱿鱼干，还有一大堆在地小零食，每样都让人舍不得错过！ 
   不过，到底这些战利品能不能顺利带回台湾呢？ 最近团友Yang Mei就问了这个非常实用的问题，同时也附上了她在巴厘岛血拼后的壮观照片。 
   这篇就让我们一起来搞懂台湾海关的携
 pubDate: 2025-04-27T00:00:00.000Z
@@ -17,12 +17,12 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_efbb46e4c49d98eb26fab6dffcb74a92.jpg'
 originalUrl: 'https://vocus.cc/article/680d9a04fd89780001a97eb9'
 lang: zh-cn
-_srcHash: e992e0275f93c7b4c2f5e5f0875928b6
+_srcHash: 72b8c270c9c5926c35b0c7d189773a46
 ---
 
 感谢团友Yang Mei分享满床战利品照片🎁
 
-每次从巴厘岛回台湾，行李箱总是塞满各种各样的伴手礼，薯片、辣椒酱、鱿鱼干、还有一大堆在地小零食，每样都让人舍不得错过！
+每次从巴厘岛回台湾，行李箱总是塞满各种各样的伴手礼，薯片、辣椒酱、鱿鱼干，还有一大堆在地小零食，每样都让人舍不得错过！
 
 不过，**到底这些战利品能不能顺利带回台湾呢？** 最近团友[Yang Mei](https://www.facebook.com/share/p/12GG3morMXe/)就问了这个非常实用的问题，同时也附上了她在巴厘岛血拼后的壮观照片。
 
@@ -54,7 +54,7 @@ _srcHash: e992e0275f93c7b4c2f5e5f0875928b6
 - 🚫成分标示含有 Pork、Lard（猪油）、Pork Extract（猪肉萃取物）的食品
 - 🚫泡面、饼干中如果有猪肉汤底或肉末成分
 
-**一旦被查到，最低罚款USD$6,452！**（而且第二次违规会罚到USD$32,258）
+**一旦被查到，最低罚款 USD$6,452！**（而且第二次违规会罚到 USD$32,258）
 
 https://youtu.be/4EzO1rpSMic?si=YKEu2SMJVTzSzwjO
 

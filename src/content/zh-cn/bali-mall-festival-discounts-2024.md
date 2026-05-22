@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/676c1649fd89780001b14110'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: aca6135cd2b420b98e07857295bfac9c
+_srcHash: 7bef199e8acc1c421601cb8cb7beb795
 ---
 
 ## 巴厘岛购物中心节日狂欢，超值折扣与精彩活动！

@@ -5,7 +5,6 @@ description: >-
   2026 年是农历「火马年」，巴厘岛的农历新年（印尼称 Imlek）庆祝活动非常丰富，主要集中在 2 月 16 日（除夕）与 2 月 17
   日（大年初一），部分庆典甚至持续到 3 月初的元宵节。
 pubDate: '2026-02-04'
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0bb33c4736f5468d4d0c2d55cbf90b43.jpg'
 tags:
   - 峇里島旅遊
@@ -17,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/698202dcfd89780001016bf7'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 129b8bf5f2f16b04f922cc830b34f283
+_srcHash: 9197f3f80d665c4d80f457a599541a4e
 ---
 以下为您整理的巴厘岛农历新年活动指南：
 
@@ -33,14 +32,14 @@ _srcHash: 129b8bf5f2f16b04f922cc830b34f283
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_993aa3285ebffeae0ee54016c25350b0.png)
 
-- **早鸟位子**：舞狮表演通常会吸引大量住客与外来游客观看，特别是大厅的表演，建议提前 15-20 分钟抵达大厅占位。
+- **早鸟位子**：舞狮表演通常会吸引大量住客与外来游客观看，特别是大厅的表演，建议提前 **15-20 分钟** 抵达大厅占位。
 - **互动习俗**：在巴厘岛观看舞狮时，可以准备红包（Angpao）喂给狮子，这被视为给表演者的支持，也是为自己祈求好运的举动（建议面额为 IDR 50,000 或 100,000）。
 
 ## ⛩️ 庙会与文化体验
 
 ## ⛩️ 廟會與文化體驗
 
-如果想感受更传统的宗教氛围，可以前往岛上的华人寺庙（Klenteng）：
+若想感受更传统的宗教氛围，可以前往岛上的华人寺庙（Klenteng）：
 
 - **Vihara Dharmayana (库塔)**：全岛最古老的佛教寺庙之一，新年期间香火鼎盛，装饰着红灯笼，常有祈福仪式与民俗表演。
 - **Vihara Satya Dharma Temple 保安宫/萨迦法寺｜巴厘岛港口区（Benoa Harbour**：是当地华人社群举行重大节庆（如农历新年、中元节、观音诞）的重要信仰中心
@@ -66,28 +65,28 @@ _srcHash: 129b8bf5f2f16b04f922cc830b34f283
 
 **坎古**
 
-- [**Regent Bali Canggu**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41693391)：2月16日在Beach House举办“Yee Sang”海边晚餐（两人IDR 888,000++）。2月16日至21日在The Lounge提供下午茶（两人IDR 650,000++）。2月16日至21日有新春午餐（每人IDR 450,000++）。2月18日在Taru餐厅举办团圆自助晚餐（每人IDR 1,200,000++）。2月17日至18日在Sazón餐厅可享用主厨Andrew Walsh的节日地中海菜单。
+- [**Regent Bali Canggu**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41693391)：2月16日在Beach House举办“Yee Sang”海边晚餐（两人IDR 888,000++）。2月16日至21日在The Lounge提供下午茶（两人IDR 650,000++）。2月16日至21日有新春午餐（每人IDR 450,000++）。2月18日在Taru餐厅举办团圆自助晚餐（每人IDR 1,200,000++）。2月17日至18日在Sazón餐厅可享用主厨Andrew Walsh的节庆地中海菜单。
 
 **金巴兰**
 
-- [**AYANA Bali**](/blog/ayana-resort-bali-guide/)：节日活动持续至3月3日。2月16日至3月3日在Liu Li Palace提供火锅及套餐。2月10日至20日在Damar Terrace及UNIQUE Rooftop Bar提供下午茶（每人IDR 350,000++）。2月16日Kampoeng Bali有传统表演，Rock Bar有倒数及烟火。2月17日有舞狮、鞭炮及儿童活动。二月另有限定水疗疗程。
+- [**AYANA Bali**](/blog/ayana-resort-bali-guide/)：节庆活动持续至3月3日。2月16日至3月3日在Liu Li Palace提供火锅及套餐。2月10日至20日在Damar Terrace及UNIQUE Rooftop Bar提供下午茶（每人IDR 350,000++）。2月16日Kampoeng Bali有传统表演，Rock Bar有倒数及烟火。2月17日有舞狮、鞭炮及儿童活动。二月另有限定水疗疗程。
 
 **乌鲁瓦图**
 
-- **Anantara Uluwatu Bali Resort**：二月在360 Rooftop Restaurant提供新春火锅（每人IDR 420,000++）及下午茶（每人IDR 295,000++）。2月16日至22日推出家庭套餐（IDR 680,000++）。2月17日傍晚有舞狮表演，下午有颂钵疗愈体验（住客免费）。**立即预订:**[**+62 811 399 5048**](https://wa.me/+628113995048)**(WhatsApp) |**[**anantara.com/en/uluwatu-bali/lunar-festivities**](https://www.anantara.com/en/uluwatu-bali/lunar-festivities)
-- **Renaissance Bali Uluwatu**：2月16日在Double Ikat餐厅举办除夕自助晚餐（每人IDR 688,000++）。2月17日在Clay Craft餐厅举办“Oriental Delights”晚宴（每人IDR 888,000++）。2月10日至17日在R Bar提供新春下午茶（每人IDR 288,000++）。**立即预订:**[**+62 361 2003588**](tel:+62 361 2003588)**|**[**dining.uluwatu@renaissancehotels.com**](mailto:dining.uluwatu@renaissancehotels.com)**|**[**@renhotelbali**](https://www.instagram.com/renhotelbali/)**|**[**event.marriott.com**](https://event.marriott.com/dpsuw-renaissance-bali-uluwatu-resort-spa/events)
+- **Anantara Uluwatu Bali Resort**：二月在360 Rooftop Restaurant提供新春火锅（每人IDR 420,000++）及下午茶（每人IDR 295,000++）。2月16日至22日推出家庭套餐（IDR 680,000++）。2月17日傍晚有舞狮表演，下午有颂钵疗愈体验（住客免费）。**Book Now:**[**+62 811 399 5048**](https://wa.me/+628113995048)**(WhatsApp) |**[**anantara.com/en/uluwatu-bali/lunar-festivities**](https://www.anantara.com/en/uluwatu-bali/lunar-festivities)
+- **Renaissance Bali Uluwatu**：2月16日在Double Ikat餐厅举办除夕自助晚餐（每人IDR 688,000++）。2月17日在Clay Craft餐厅举办“Oriental Delights”晚宴（每人IDR 888,000++）。2月10日至17日在R Bar提供新春下午茶（每人IDR 288,000++）。**Book Now:**[**+62 361 2003588**](tel:+62 361 2003588)**|**[**dining.uluwatu@renaissancehotels.com**](mailto:dining.uluwatu@renaissancehotels.com)**|**[**@renhotelbali**](https://www.instagram.com/renhotelbali/)**|**[**event.marriott.com**](https://event.marriott.com/dpsuw-renaissance-bali-uluwatu-resort-spa/events)
 
 **努沙杜瓦**
 
-- [**穆丽雅酒店 (Table8)**](/blog/mulia-resort-bali-luxury/)：提供经典的粤式节日菜单。
-- [**Sofitel Bali Nusa Dua (Kwee Zeen)**](https://s.id/nusadua_resorts)：2月16日晚间有丰富的亚洲自助餐，包含鱼生（Yee Sang）与命理咨询活动。
+- [**穆丽雅酒店 (Table8)**](/blog/mulia-resort-bali-luxury/)：提供经典的粤式节庆菜单。
+- [**Sofitel Bali Nusa Dua (Kwee Zeen)**](https://s.id/nusadua_resorts)：2 月 16 日晚间有丰富的亚洲自助餐，包含鱼生（Yee Sang）与命理咨询活动。
 - [**The Ritz-Carlton, Bali**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=782765)：2月16日在Senses餐厅举办除夕自助晚餐（每人IDR 1,000,000++）。2月15日至20日另提供新春下午茶（两人IDR 1,100,000++）。
-- [**Renaissance Bali Nusa Dua**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=20375914) **(Lion X)**：2月16日至17日推出新春套餐（每对IDR 1,688,000++起），9日至22日有特色单点菜单。除夕晚餐含传统鞭炮庆祝，期间大厅设有节日快闪店。
-- [**龙虾先生**](/blog/mr-lobster-seafood-bali/)：2月16日～2月21日，用餐抽红包，大人小孩通通有奖，最大红包100,000印尼盾，敬请提早预约。
+- [**Renaissance Bali Nusa Dua**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=20375914) **(Lion X)**：2月16日至17日推出新春套餐（每对IDR 1,688,000++起），9日至22日有特色单点菜单。除夕晚餐含传统鞭炮庆祝，期间大厅设有节庆快闪店。
+- [**龙虾先生**](/blog/mr-lobster-seafood-bali/)：2 月 16 日～2 月 21 日，用餐抽红包，大人小孩通通有奖，最大红包100,000印尼盾，敬请提早预约。
 
 **沙努尔**
 
-- [**The Meru Sanur**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=116694051&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6ycTFJMEk9YiJ49P5XR9YhTjMjC0NLAwMjDQ28hks5bDoTHY8ewYIkqY7eM6aCQQisxwCeCKmHHg-jT3Rluv64oL9gQ5djKxggRmMi3dcMl_ByLiRMQ0E-lIddjAyHWBkOsF43mYB06nfE61OsTBzLGK7xLKbMbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsCwMjPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1sY9YmKJjX7Bs5PvEwvCLhaGJlaGLlZnjFNMkIHneZherYKCzp5mzh66ToVNQoLdulK7hBdYWByl5QwMDA1NDY1NTXYNEy0Rjo7RkXRNLEyMzM11zA1MDA411k6defGJsZC0FCU4FRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbCaurmZGrlE2XMyhwS6CyyuPa1oZSTtIMYeEuyh-WH7M27zztL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD7yrXvXiQ1dp-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAHS6woJVAgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494266-70500&detailFilters=17|1~17~1*31|116694051~31~116694051*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=946&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Pb1nQOIo)：2月16日在roso餐厅举办“Warisan Pecinan”除夕晚餐（每人IDR 588,000++起）。2月17日在Arunika餐厅举办“Lunar Season”早午餐（每人IDR 688,000++起）。两场均含鱼生及舞狮表演。二月入住三晚以上可获IDR 600,000度假村消费额。
+- [**The Meru Sanur**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294)：2月16日在roso餐厅举办“Warisan Pecinan”除夕晚餐（每人IDR 588,000++起）。2月17日在Arunika餐厅举办“Lunar Season”早午餐（每人IDR 688,000++起）。两场均含鱼生及舞狮表演。二月入住三晚以上可获IDR 600,000度假村消费额。
 
 **乌布**
 

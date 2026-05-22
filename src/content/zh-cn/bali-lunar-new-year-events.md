@@ -3,7 +3,6 @@ slug: bali-lunar-new-year-events
 title: 【必收藏】巴厘岛庆祝农历新年的活动资讯整理
 description: 以下是关于2025年在巴厘岛庆祝农历新年的活动资讯整理，如果您和家人在农历新年期间到访巴厘岛，也可以在巴厘岛感受新年的气氛喔！
 pubDate: '2025-01-15'
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5e5d2c14ff86d0b8ae7087356c3f24a6.png'
 tags:
   - 農曆新年
@@ -16,9 +15,8 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-cn
-_srcHash: 0460d549e71c69c48c7a9c6bc1e1a3dc
+_srcHash: cf5594d425ef20c8d7d0ed6ba694a565
 ---
-
 以下是关于2025年在巴厘岛庆祝农历新年的活动资讯整理，如果您和家人在农历新年期间到访巴厘岛，也可以在异国感受新年的气氛喔！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_18bd7cbd5a329497c0a6de2563f31473.png)
@@ -27,7 +25,7 @@ _srcHash: 0460d549e71c69c48c7a9c6bc1e1a3dc
 
 ### 1. **农历新年庆祝活动**
 
-2025年1月29日，巴厘岛将迎来农历新年，当地华人社区和旅游业者准备了丰富的庆祝活动，包括传统文化表演、美食盛宴和节日装饰：
+2025年1月29日，巴厘岛将迎来农历新年，当地华人社区和旅游从业者准备了丰富的庆祝活动，包括传统文化表演、美食盛宴和节日装饰：
 
 - **舞狮表演**：这是农历新年最受欢迎的传统活动之一，象征驱邪避凶和带来好运。在[Mulia Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6546761)和[Courtyard Bali Seminyak Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=624034)等场所可以观赏到精彩的舞狮表演。（[参考来源](https://en.tempo.co/read/1964175/6-ultimate-ways-to-celebrate-chinese-new-year-2025-in-bali)）
 - **寺庙祈福**：巴厘岛的华人寺庙如Klenteng Caow Eng Boi和Satya Dharma Temple会装饰红灯笼和钱树，并举行祈福仪式，融合了华人与巴厘岛的文化特色。([参考来源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
@@ -47,7 +45,7 @@ _srcHash: 0460d549e71c69c48c7a9c6bc1e1a3dc
 
 巴厘岛的农历新年庆祝活动不仅限于美食，还包括丰富的文化体验：
 
-- **传统音乐与舞蹈**：在[Tugu Bali Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3164) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685798&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJY-qOHSuYhJgNDYw07rMZPGC02CrvaMt1fXGB_GQHz_5DXzViOqc7BPBETDnwfBp7YnOg59yGQ4EOXYysYIEZjM_eam5k9HhYJbJueaHDDkamA4xMJxhvmS1gun3pFeMpFmaOBVyXWHYzRlcrZadWKlmZ6CiVZJbkpCpZKT1dNO9pw57nK1qVdJRSUouTgUJAVmJufmleCZBtaGxopGdgABQqSazwTAFrTU7MSS7NSSxJDaksABphpKOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFQQYXQfmZ-XkQ3QYoYmGJOaWpEJVA-9xSoVYY1sY-YmGKjn3Bcp_tEwvDLxaGJlaGLlZmjlNMk4DkLbNdrLze3i6Rjv66hiG6UbqGF1jbbKXkDQ0MDEwNjU1NdQ0SLRNNjZMNdU0sTYzMDXTNjM0tLDSu9_XeeGJsZC0FCUYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbE6WZuaGLlE2XMyhwS6CAhGWW06YSTtIMYeEuyiWrn6-5HvvaXstZk-XIMMPes-3t1tb2gfueZ1zwt54gX1kOMv_6JN9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAGFDC3dIAgAA&masterhotelid_tracelogid=100051355-0a9a53c1-494270-63788&detailFilters=17|1~17~1*31|685798~31~685798*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=240&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/kOsEG0tu)的Kang Xi Temple，游客可以欣赏到古筝演奏和舞狮表演，并参与8道菜的传统家宴。（[参考来源](https://blog.tuguhotels.com/lunar-legends-celebrating-the-wood-snake-year-at-the-historic-kang-xi-temple/)）
+- **传统音乐与舞蹈**：在[Tugu Bali Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3164)的Kang Xi寺庙，游客可以欣赏到古筝演奏和舞狮表演，并参与8道菜的传统家宴。（[参考来源](https://blog.tuguhotels.com/lunar-legends-celebrating-the-wood-snake-year-at-the-historic-kang-xi-temple/)）
 - **节日装饰与市集**：登巴萨的街道会装饰红灯笼和节日装饰，营造出浓厚的节日氛围。市集上还可以购买到传统手工艺品和节日礼品。([参考来源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0fdf9297e023a767c306109772cc60c1.png)
@@ -87,7 +85,7 @@ _srcHash: 0460d549e71c69c48c7a9c6bc1e1a3dc
 
 ## 过年大餐
 
-巴厘岛的多家豪华度假村和餐厅纷纷推出丰富多彩的庆祝活动，让您在热带天堂中感受浓厚的节日氛围。无论是传统的舞狮表演、丰盛的中式盛宴，还是充满活力的文化体验，巴厘岛都为您准备了独特的庆祝方式。以下是2025年巴厘岛农历新年庆祝活动的美食餐厅精选介绍，带您探索最精彩的节日体验：：
+巴厘岛的多家豪华度假村和餐厅纷纷推出丰富多彩的庆祝活动，让您在热带天堂中感受浓厚的节日氛围。无论是传统的舞狮表演、丰盛的中式盛宴，还是充满活力的文化体验，巴厘岛都为您准备了独特的庆祝方式。以下是2025年巴厘岛农历新年庆祝活动的美食餐厅精选介绍，带您探索最精彩的节日体验：
 
 ### 库塔 / 雷吉安
 
@@ -106,7 +104,7 @@ _srcHash: 0460d549e71c69c48c7a9c6bc1e1a3dc
    - 活动：Legian's Lunar Feast自助晚餐，现场音乐表演。
    - 价格：IDR 350,000未税/人。
    - 预定电话：+62 811 3960 0130
-7. **巴厘岛龙虾先生（台湾老板的店，大家多支持！）**
+7. **巴厘岛龙虾先生（台湾老板的店，大家多支持！）
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f0cbbe41bdf5a551a04e2873a8a52853.png)
 

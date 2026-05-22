@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/66e06a8dfd89780001ffbbc3'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 9c50c87107d6a3da5470a25e26283664
+_srcHash: 354f00e67b9e080587c141a267e7c57e
 ---
 
 > 以下内容由团友 [施念忻](https://www.facebook.com/share/p/NCJtqGxCyfKoE3ui/) 提供给我们重新编排：
@@ -73,7 +73,7 @@ _srcHash: 9c50c87107d6a3da5470a25e26283664
 
 Kebun Bistro（施念忻提供）
 
-我们在乌布入住的 **Kamala Resort** 虽然在某些细节上略显不足，但时不时来访的猴子却成为了这里的亮点之一。这些“小客人”让整个住宿体验更加生动有趣，特别适合喜爱大自然的朋友们。
+我们在乌布入住的 **Kamala Resort** 虽然在某些细节上略显不足，但时不时来访的猴子却成为了这里的亮点之一。这些小客人让整个住宿体验更加生动有趣，特别适合喜爱大自然的朋友们。
 
 **延伸阅读：**
 

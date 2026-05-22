@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5cd7003890a5ac7de17a99eb2f269662.png'
 originalUrl: 'https://vocus.cc/article/66546581fd8978000119d572'
 lang: zh-cn
-_srcHash: bebf34b01a2c977a7cc9b87439f53e40
+_srcHash: 102b135ef7d23876d384fb7f04440a44
 ---
 
 [🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
@@ -39,7 +39,7 @@ _srcHash: bebf34b01a2c977a7cc9b87439f53e40
 
 司机见他们质疑后，才开始自我砍价，最后竟然开出原价并要载他们回去。游客坚持拿回原本的零钱，司机才从随身包里拿出零钱。这次经历让他们对某些司机的素质有所怀疑，但幸好后续的司机服务都还不错。
 
-**心得与建议**：使用Grab等网约车服务时，遇到司机推销包车等情况要保持警惕。如果司机要求用现金支付，尽量避免落入没有零钱找的圈套。同时，记录行程中的不愉快经历，并及时反馈给平台，有助于改善服务质量。
+**心得与建议**：使用Grab等网约车服务时，遇到司机推销包车等情况要保持警惕。如果司机要求用现金支付，尽量避免落入没有零钱找的陷阱。同时，记录行程中的不愉快经历，并及时反馈给平台，有助于改善服务质量。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_606a8a4395b4fdaae837688326b106ac.png)
 

@@ -19,7 +19,6 @@ tags:
   - 巴厘岛沙努尔豪华酒店推荐 2026
   - The Meru Sanur wellness center
   - Best luxury stay in Sanur Bali
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/images/2026-04/1776438711480-549267171.jpg'
 originalUrl: ''
 private: false
@@ -31,7 +30,7 @@ agoda_star_rating: 5
 latitude: -8.678433418273926
 longitude: 115.2635269165039
 lang: zh-cn
-_srcHash: 99667e1c422eb8636b5a8c57772222f1
+_srcHash: d0fcb29dfca611aebecd0f0c99d2f7f6
 ---
 
 如果你对巴厘岛的印象只停留在库塔的喧嚣或水明漾的夜生活，那 The Meru Sanur 可能会让你重新定义「巴厘岛度假」这件事。
@@ -121,9 +120,9 @@ The Meru Sanur 是一间「全套房」度假村，184 间客房全部是 Suite 
 
 ***
 
-## 👥 适合群体
+## 👥 适合人群
 
-**蜜月旅客和情侣**最适合——沙努尔安静、日出美、Spa 资源丰富，加上套房空间大，不会住得挤。**带孩子的家庭**也很合适，Kids Club 完善，泳池有儿童友善区域。另外，**长住疗养型旅客**或有医疗需求、养生需求的旅客，选在 Sanur SEZ 特区内的 The Meru 非常方便。
+**蜜月旅客和情侣**最适合——沙努尔安静、日出美、Spa资源丰富，加上套房空间大，不会住得挤。**带孩子的家庭**也很合适，Kids Club完善，泳池有儿童友善区域。另外，**长住疗养型旅客**或有医疗需求、养生需求的旅客，选在Sanur SEZ特区内的The Meru非常方便。
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776439230848-2024-07-02.webp)
 
@@ -131,7 +130,7 @@ The Meru Sanur 是一间「全套房」度假村，184 间客房全部是 Suite 
 
 ## 🏅刚开幕就获奖
 
-2026年刚拿下了亚洲最具分量的旅游媒体之一 Tatler Asia，在「2026 印尼最佳新酒店」评选中的最高荣誉，同时也入选「印尼最佳酒店二十强」名单。
+2026年刚拿下了亚洲最具份量的旅游媒体之一Tatler Asia，在「2026印尼最佳新酒店」评选中的最高荣誉，同时也入选「印尼最佳酒店二十强」名单。
 
 https://www.instagram.com/p/DW8KozagCUI/?utm_source=ig_web_button_share_sheet
 
@@ -141,13 +140,13 @@ https://www.instagram.com/p/DW8KozagCUI/?utm_source=ig_web_button_share_sheet
 
 一位住客表示，这里的早餐自助餐非常精彩，员工态度亲切，沙努尔北端位置让人感到特别放松，周边购物和海滩都很好到达。（来源：Agoda ⭐ 9.1）
 
-一位欧洲旅客描述入住体验时说，走进度假村就像走进一座博物馆，从走廊雕像到大厅水景，整个视觉体验令人印象深刻，Svasana Spa 的按摩是本次旅程最难忘的环节之一。（来源：Tripadvisor）
+一位欧洲旅客描述入住体验时说，走进度假村就像走进一座博物馆，从走廊雕像到大厅水景，整个视觉体验令人印象深刻，Svasana Spa的按摩是本次旅程最难忘的环节之一。（来源：Tripadvisor）
 
 ***
 
 ## 📌 订房信息
 
 > 评分：Tripadvisor 高度推荐 | Agoda 住客评分 ⭐ 9.1（2025 旅人鉴赏优胜）
-> [点我在 Agoda 查看 The Meru Sanur 最新房价与空房 →](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=116694051&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6ycTFJMEk9YiJ49P5XR9YhTjMjC0NLAwMjDQ28hks5bDoTHY8ewYIkqY7eM6aCQQisxwCeCKmHHg-jT3Rluv64oL9gQ5djKxggRmMi3dcMl_ByLiRMQ0E-lIddjAyHWBkOsF43mYB06nfE61OsTBzLGK7xLKbMbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsCwMjPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1sY9YmKJjX7Bs5PvEwvCLhaGJlaGLlZnjFNMkIHneZherYKCzp5mzh66ToVNQoLdulK7hBdYWByl5QwMDA1NDY1NTXYNEy0Rjo7RkXRNLEyMzM11zA1MDA411k6defGJsZC0FCU4FRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbCaurmZGrlE2XMyhwS6CyyuPa1oZSTtIMYeEuyh-WH7M27zztL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD7yrXvXiQ1dp-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAAHS6woJVAgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494266-70500&detailFilters=17|1~17~1*31|116694051~31~116694051*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=946&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Pb1nQOIo)
+> [点我在 Agoda 查看 The Meru Sanur 最新房价与空房 →](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=50081294)
 
 {{block:sanur}}

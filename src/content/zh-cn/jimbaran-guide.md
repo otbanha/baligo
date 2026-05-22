@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fb0a8f3064e3e63596e9f82fc73432be.jpg'
 originalUrl: 'https://vocus.cc/article/654b8438fd897800016bf4cc'
 lang: zh-cn
-_srcHash: 1ba1fa71048f82cfadbf5c01a31aea03
+_srcHash: f4d77f5f5bab600c9908ae0876967ef3
 ---
 
 ![峇里島自由行攻略之六：金巴蘭攻略](https://images.gobaligo.id/vocus/vocus_a466b2f6e4224e64d4a47259728710da.jpg)
@@ -59,9 +59,9 @@ https://youtu.be/RodQvCZKwD0
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b7bbdc8f5e366d675157e3db28abb0c6.jpg)
 
-GWK文化公园（神鹰广场/神鹰文化公园）是巴厘岛上一个引人注目的景点，位于金巴兰附近。这个文化公园以其宏伟的雕塑、壮观的建筑和巴厘文化的融合而闻名。当您步入这个文化公园时，您将被一系列壮观的雕塑和建筑所包围，它们展现了巴厘文化的深厚底蕴。公园中最著名的雕塑是高达121米的巨大印度教湿婆神和印尼神鹰Garuda融合的雕像，它是世界上排名第四高的巨型雕塑。在水明漾、坎古的海边看到的高塔状建筑物就是这个雕像喔！
+GWK文化公园（神鹰广场/神鹰文化公园）是巴厘岛上一个引人注目的景点，位于金巴兰附近。这个文化公园以其宏伟的雕塑、壮观的建筑和巴厘文化的融合而闻名。当您步入这个文化公园时，您将被一系列壮观的雕塑和建筑所包围，它们展现了巴厘文化的深厚底蕴。公园中最著名的雕塑是高达121米的巨大印度教湿婆神和印尼神鹰Garuda融合的雕像，它是世界上排名第四高的巨型雕塑。在水明漾、坎古的海边看到的高塔状建筑物就是这个雕像哦！
 
-GWK文化公园不仅是一个艺术和文化的宝库，还是举办各种文化活动和表演的场所。您可以欣赏当地的传统舞蹈、音乐表演和戏剧，这些表演将带您深入了解巴厘文化的美丽。此外，公园内还有一个文化中心，提供有关巴厘文化的深入资讯，让游客更好地理解这个巴厘岛的瑰宝。详细的介绍攻略请看[这里](/blog/gwk-cultural-park-bali/)
+GWK文化公园不仅是一个艺术和文化的宝库，还是举办各种文化活动和表演的场所。您可以欣赏当地的传统舞蹈、音乐表演和戏剧，这些表演将带您深入了解巴厘文化的美丽。此外，公园内还有一个文化中心，提供有关巴厘文化的深入信息，让游客更好地理解这个巴厘岛的瑰宝。详细的介绍攻略请看[这里](/blog/gwk-cultural-park-bali/)
 
 > Klook优惠券：
 > [巴厘岛神鹰文化公园门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771410&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D34638cfe57)[巴厘岛海滩＆神鹰广场＆乌鲁瓦图寺庙日落之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=771472&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F153-uluwatu-temple-sunset-kecak-fire-dance-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd68d4723fd)
@@ -118,7 +118,7 @@ Rock Bar是金巴兰一个著名的餐厅和酒吧，坐拥壮观的海景。这
 
 卡恰火舞的表演内容是什么？如何事先订票？[请看这里](/blog/kecak-fire-dance-bali/)
 
-## **享受SPA：巴厘岛的休闲和疗愈之旅 （👉🏼地图：**[**SPA推荐**](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing)**）**
+## **享受SPA：巴厘岛的休闲和疗愈之旅 （👉🏼地图：**[**SPA推荐**](https://www.google.com/maps/d/u/0/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4HH2bQFn9-U&usp=sharing)**）**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a4f111dbad2cd69e4a30fb09d6f0baba.jpg)
 
@@ -126,7 +126,7 @@ Rock Bar是金巴兰一个著名的餐厅和酒吧，坐拥壮观的海景。这
 
 在这里，您可以选择在沙滩边的露天SPA，或是在浓密的热带丛林中的SPA设施中享受治疗。SPA度假村通常提供各种按摩疗程、面部疗程、身体磨砂和水疗浸浴，让您沉浸在放松和疗愈的氛围中。许多SPA度假村还提供瑜伽和冥想课程，以帮助您达到身心平衡。
 
-- [ANN Spa](https://www.facebook.com/share/p/1BoYBoxhnF/) 2025/10 新开业，台湾老板娘，中文可通
+- [ANN Spa](https://www.facebook.com/share/p/1BoYBoxhnF/) 2025/10 新开幕，台湾老板娘，中文可通
 
 > Klook优惠券：
 
@@ -160,10 +160,10 @@ Rock Bar是金巴兰一个著名的餐厅和酒吧，坐拥壮观的海景。这
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_95e272186db9a8a64102950e3b8fdd0d.jpg)
 
-搞定了住宿的选择，在美美的旅馆/villa内，怎么能不拍个美照呢！？这时候，有造型的大型浮床是在热带岛屿度假时，泳池里不可或缺的摆拍道具。然而，大型浮床加上打气机，体积不小，重量也不轻，这使得它们不太方便带出国。但有了巴厘岛的这项服务，您无需烦恼这些问题。只要在南部地区入住，例如金巴兰、库塔、雷吉安、水明漾、坎古、乌鲁瓦图、努沙杜瓦和沙努尔，您便能轻松享受到好多造型的大型浮床所带来的乐趣。
+搞定了住宿的选择，在美美的旅馆/villa内，怎么能不拍个美照呢！？这时候，有造型的大型浮床是在热带岛屿度假时，泳池里不可或缺的摆拍道具。然而，大型浮床加上打气机，体积不小，重量也不轻，这使得它们不太方便带出国。但有了巴厘岛的这项服务，您无需烦恼这些问题。只要在南部地区入住，例如金巴兰、库塔、勒吉安、水明漾、坎古、乌鲁瓦图、努沙杜瓦和沙努尔，您便能轻松享受到好多多种造型的大型浮床所带来的乐趣。
 
 这项服务直接送到您所入住的旅馆或别墅门口，专人负责充气和放气，为您带来无尽的泳池乐趣，而无需携带这些笨重的物品前往度假地。这可算是一种度假的极致享受，让您轻松放松在巴厘岛的阳光和泳池中，享受悠闲时光。
 
-> [大型浮床租借服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775806&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F4837-pool-float-rental-bali%2F)
+[> 大型浮床租借服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775806&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F4837-pool-float-rental-bali%2F)
 
 ## 我们收集的全部30个景点请看「金巴兰攻略地图」（[点此放大 & 收藏](https://www.google.com/maps/d/edit?mid=1D3sjMfTtG3_4I3AR2Ljl4Hh2bQFn9-U&usp=sharing)）

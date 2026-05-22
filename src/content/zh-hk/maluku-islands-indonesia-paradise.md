@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/673be498fd89780001da159b'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 2aee9dc520d972b3963a0cfd47d26e96
+_srcHash: b47c4794b7c3dd76c70cb0e65e29f17b
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_17da9c41fcd163fd15b07a37a4a2e397.jpg)
@@ -28,7 +28,7 @@ _srcHash: 2aee9dc520d972b3963a0cfd47d26e96
 - 喺地圖中以黃色標示出嚟嘅部分
 - 由多個島嶼組成，包括北馬魯古（Maluku Utara）同馬魯古（Maluku）兩個省份
 
-其中嘅馬魯古中部（Maluku Tengah）位於馬魯古省（Maluku Province），係該省嘅一個縣（Kabupaten）。呢片地區坐落喺印尼東部嘅馬魯古群島，係一個以自然景觀同文化多樣性著稱嘅地方，對於鍾意探索小眾目的地嘅旅行者嚟講，係一個理想嘅選擇。
+其中嘅馬魯古中部（Maluku Tengah）位於馬魯古省（Maluku Province），係該省嘅一個縣（Kabupaten）。呢片地區坐落喺印尼東部嘅馬魯古群島，係一個以自然景觀同文化多樣性著稱嘅地方，對於熱愛探索小眾目的地嘅旅行者嚟講，係一個理想嘅選擇。
 
 ---
 
@@ -47,7 +47,7 @@ _srcHash: 2aee9dc520d972b3963a0cfd47d26e96
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ad1e695a7be1c5cad8bfce79b7be2668.jpg)
 
 - **馬努塞拉國家公園（Manusela National Park）**  
-  馬努塞拉國家公園係塞蘭島上嘅一個重要景點，擁有茂密嘅雨林同豐富嘅生物多樣性，係鍾意遠足同觀察野生動物者嘅夢幻之地。呢度仲係好多特有鳥類同植物嘅家園。
+  馬努塞拉國家公園係塞蘭島上嘅一個重要景點，擁有茂密嘅雨林同豐富嘅生物多樣性，係熱愛遠足同觀察野生動物者嘅夢幻之地。呢度仲係好多特有鳥類同植物嘅家園。
 - **奧拉海灣（Ora Beach）**  
   被譽為印尼版「馬爾代夫」，奧拉海灣擁有純淨嘅白沙灘、平靜嘅藍色潟湖，以及適合浮潛嘅珊瑚礁，特別適合鍾意水上活動嘅遊客。
 
@@ -56,7 +56,7 @@ _srcHash: 2aee9dc520d972b3963a0cfd47d26e96
 - **內陸熱帶雨林**  
   塞蘭島上嘅雨林保留咗佢嘅原始狀態，適合行山、露營，同埋觀察好多只有喺呢片地區先睇到嘅動植物。
 - **Pantai Ngurtafur**  
-  有一條延伸入海嘅白色沙洲，形狀似條長長嘅白色絲帶。沙洲長度可以去到2公里
+  擁有一條延伸入海嘅白色沙洲，形狀似條長長嘅白色絲帶。沙洲長度可以去到2公里
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a7de8d6e803d45ae699dbe6b6fd12be9.jpg)
 
@@ -93,7 +93,7 @@ _srcHash: 2aee9dc520d972b3963a0cfd47d26e96
 
 ![在Maluku住海上小屋，一晚$40美金起](https://images.gobaligo.id/vocus/vocus_ccc7dbb03a441a3390da98658236f243.jpg)
 
-喺Maluku住海上小屋，一晚USD$40起
+喺Maluku住海上小屋，一晚$40美金起
 
 [**Maluku訂房：Agoda優惠**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=4898126)
 

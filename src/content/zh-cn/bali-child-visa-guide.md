@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b6312892d57d19408e55b4209cea639d.png'
 originalUrl: 'https://vocus.cc/article/694bf0d9fd89780001214e1c'
 lang: zh-cn
-_srcHash: 2189bebe85bd40985cbd9dab4fb936af
+_srcHash: d078ce19a8c7a65e36560738f684d04d
 ---
 
 ## 巴厘岛家族旅游：儿童签证完整攻略
@@ -87,7 +87,7 @@ _srcHash: 2189bebe85bd40985cbd9dab4fb936af
 1. **上网申请**：前往[印尼移民局官方电子签证网站](https://evisa.imigrasi.go.id/)
 2. **填写资料**：包括所有家庭成员的护照信息
 3. **上传照片**：需要护照规格的电子照片
-4. **在线付款**：每人**50万印尼盾**，可用信用卡支付\*\*(刷卡有手续费)\*\*
+4. **线上付款**：每人**50万印尼盾**，可用信用卡支付\*\*(刷卡有手续费)\*\*
 5. **收取签证**：通常12小时内会收到电子签证，记得打印或存在手机里
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a0603b99fe6343a76c317f76555a027a.png)
@@ -98,7 +98,7 @@ _srcHash: 2189bebe85bd40985cbd9dab4fb936af
 
 1. 务必先完成申请电子签证eVisa。请参考[这里](/blog/bali-evisa-application-guide/)有进一步的说明，避免进入诈骗网站。
 2. 出发前三天完成All Indonesia入境卡，并**截图QR Code**备查。请看本站整理[常见问题FAQ](/blog/bali-evisa-customs-health-declaration/)。
-3. **缴纳巴厘岛观光税**费用：15万印尼盾/人（约USD$5）。如何缴纳？请看[观光税](/blog/2026-bali-tourism-tax-guide/)说明
+3. **缴交巴厘岛观光税**费用：15万印尼盾/人（约USD$10）。如何缴交？请看[观光税](/blog/2026-bali-tourism-tax-guide/)说明
 
 ### 小提醒
 

@@ -1,10 +1,11 @@
 ---
-slug: raffles-bali-luxury-review
 title: 巴厘岛莱佛士酒店 (Raffles Bali) 完整指南：超越五星的私密度假村与顶级餐厅开箱
+slug: raffles-bali-luxury-review
 description: >-
   探索金巴兰湾的世外桃源！2026 巴厘岛莱佛士酒店全攻略。解析 Rumari
   被评选为顶级餐饮的原因，以及如何在私人沙滩享受星空下的浪漫晚餐。内含各餐厅预约建议、酒店接送信息与独家隐藏体验，带您领略奢华酒店的极致细节。
 pubDate: 2025-09-05T00:00:00.000Z
+pubHour: null
 category:
   - 美食景點活動
 tags:
@@ -21,8 +22,10 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0b331a54ea34e5eb429807b8f9127732.jpg'
 originalUrl: 'https://vocus.cc/article/68ba99a2fd89780001052dd2'
 lang: zh-cn
-_srcHash: 06b1befd041643ae128366887de972d5
+_srcHash: 0945bc30934050d126cd9bba3f807128
 ---
+
+更新:2026/05/21
 
 ### 三个独特餐饮时刻，带来非凡感官盛宴
 
@@ -52,7 +55,7 @@ _srcHash: 06b1befd041643ae128366887de972d5
 
 **供应时间**：15:00 – 17:30
 
-**价格**：每人 USD$27
+**价格**：每人 Rp 427,900
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5f7f7fb805c00c79b0e78731b462ad1e.png)
 
@@ -76,6 +79,8 @@ _srcHash: 06b1befd041643ae128366887de972d5
 **供应时间**：12:00 – 14:00
 
 ▶[预订巴厘岛莱佛士用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1117521&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F167012-dining-experience-at-raffles-bali%2F)
+
+> Raffles Bali 空房 & 房价： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=14654956) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=51669662&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NazcLFJMEktYSF49-apf9YhRiNDOwsvgo6nj0DBN5bHDyDdsi1as_b4RDAEzHlwPNp7Ik_gh8vnX0o0KGQAQQ02hwaGQ9_1YjpV2lx6GJkBauZwTjv6kWJjYwi69wfVnlOdNjByHSAkekE490njAuYzmzvkDrFwswxWeMSy3em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbKNTEzM9QwMgEIliRWeKWCtyYk5yaU5iSWpIZUFQCPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7AYpYWGJOaSrEDUAL3VKhdhjW6mA6_dmc3qfdM19s2o3D6WaWRihONx8QpxvXxj5iYYqOfcFyn-0TC8MvYGRcUm1iZehiZeY4xTSJlYUDGFG7WHkCvSJ9orx1DXWjdA0vsP7sYZJSNDQwMDAyNTUy1zVItLRItTQ20jWxNDEyM9I1NTc2NTC20Lj67uKpJ8ZG1lKQpKDAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdXJzdHIOcqGizk02EUw7fuTxIVm0g5SzCHhLoo2e4OmKfadttdi9nQJMszfoeSQY2VpH7h-6_eVWiYL7CP_8bk22k08bZ_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAEqTzXBkDAAA&masterhotelid_tracelogid=100025527-0a98e932-494262-5735038&detailFilters=17|1~17~1*31|51669662~31~51669662*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=352&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/5BcbfgJh)
 
 ***
 
@@ -108,5 +113,6 @@ _srcHash: 06b1befd041643ae128366887de972d5
 ## 同场加映：
 
 - [【巴厘岛美食体验记】Alila Villas Uluwatu Brisa Brunch：悬崖边的周日味觉盛宴](/blog/alila-uluwatu-brisa-brunch/)
+- [巴厘岛凯宾斯基下午茶游记：Selasar Deli的梦幻午后时光](/blog/kempinski-selasar-deli-afternoon-tea/)
 
 {{block:蜜月}}

@@ -1,7 +1,7 @@
 ---
 slug: green-bowl-beach-bali
-title: 峇里島秘境沙灘介紹｜峇里島海灘推薦｜最正嘅打卡海灘｜峇里島IG打卡｜Green Bowl Beach
-description: 峇里島有個唔使曬太陽嘅秘境沙灘㗎！而且離機場唔遠，30分鐘車程就到！
+title: 峇里島秘景沙灘介紹｜峇里島海灘推介｜最正嘅打卡海灘｜峇里島IG打卡｜Green Bowl Beach
+description: 喺峇里島有一個唔使曬太陽嘅秘景沙灘㗎！而且離機場唔遠，30分鐘車程就到！
 pubDate: '2023-08-15'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a504093db36a27ce0dc2157d9626a6b4.jpg'
 tags:
@@ -14,12 +14,12 @@ originalUrl: 'https://vocus.cc/article/64db6b57fd897800013a8e30'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 1f6874967bc1848db7e70c3bfc3bb842
+_srcHash: 6e79416de09867313d56910fb80fc586
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_3fa8eca8f249ece1b5a18ffb6e79bbdf.jpg)
 
-峇里島有個唔使曬太陽嘅秘境沙灘㗎！
+喺峇里島有一個唔使曬太陽嘅秘景沙灘㗎！
 
 而且離機場唔遠，
 

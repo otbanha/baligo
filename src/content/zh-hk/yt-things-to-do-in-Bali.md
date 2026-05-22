@@ -1,8 +1,8 @@
 ---
-title: 香港YouTuber推薦：峇里島必做五件事
+title: 香港YouTuber推薦：五件峇里必做嘅事
 slug: yt-things-to-do-in-Bali
 description: >-
-  香港知名YouTuber最近去咗峇里島旅行，住咗十幾日，體驗咗好多精彩活動。佢喺影片入面整理咗五件峇里必做嘅事，等我哋跟住佢嘅步伐，一齊感受峇里島嘅獨特魅力...
+  香港知名YouTuber佢最近去咗峇里島旅行，喺嗰度住咗十幾日，體驗咗各種精彩活動。喺影片入面，佢整理出五件峇里必做嘅事，等我哋跟住佢嘅步伐，一齊領略峇里島嘅獨特魅力...
 pubDate: 2024-04-03T00:00:00.000Z
 pubHour: null
 category:
@@ -13,18 +13,17 @@ tags:
   - 活動
   - 活動推薦
   - 釀電影
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e671dd57b7c1d196ec96d2ca2f74f1a3.jpg'
 originalUrl: 'https://vocus.cc/article/660d1d54fd89780001dc5bbb'
 lang: zh-hk
-_srcHash: deb1abc4668aceeb521efc612e9bcabe
+_srcHash: be901092bf969bd4880810264b4ade48
 ---
 
-香港知名YouTuber「[Crazy with YU芳婷](https://www.youtube.com/@crazywithyu)」，佢最近去咗峇里島旅行，住咗十幾日，體驗咗好多精彩活動。佢喺影片入面整理咗五件峇里必做嘅事，等我哋跟住佢嘅步伐，一齊感受峇里島嘅獨特魅力。
+香港知名YouTuber"[Crazy with YU芳婷](https://www.youtube.com/@crazywithyu)"，佢最近去咗峇里島旅行，喺嗰度住咗十幾日，體驗咗各種精彩活動。喺影片入面，佢整理出五件峇里必做嘅事，等我哋跟住佢嘅步伐，一齊領略峇里島嘅獨特魅力。
 
 ## 第一 衝浪體驗
 
-第一件必做嘅事就係體驗衝浪運動。佢哋三個人喺坎古上咗衝浪課，唔單止可以上兩個鐘衝浪課，仲可以欣賞到絕美嘅峇里日落。佢讚嘆嗰個斑斕嘅日落真係難以形容，色彩深淺層次分明，堪稱佢見過最動人嘅日落景致。
+第一件必做嘅事就係體驗衝浪運動。佢哋三個人喺坎古上衝浪課，唔單止可以上兩小時衝浪課，仲可以欣賞到絕美嘅峇里日落。佢讚嘆嗰斑斕日落實在難以形容，色彩深淺層次分明，堪稱佢所見過最動人嘅日落景致。
 
 ![Crazy with YU芳婷視頻截圖](https://images.gobaligo.id/vocus/vocus_20ce49c6aabeb8e1f730fc55e5760509.jpg)
 
@@ -36,7 +35,7 @@ Crazy with YU芳婷視頻截圖
 
 ## 第二 離島打卡
 
-接下來介紹嘅第二個活動就係去峇里島嘅離島 Nusa Penida。為咗更快抵達 Nusa Penida，佢哋特登喺沙努爾住，因為嗰度有碼頭，只需30分鐘船程就可以到達。第二日一早，佢哋參加咗一日遊行程去 Nusa Penida。第一站 Crystal Bay 係個冇Wi-Fi、完全隔絕嘅世外桃源，佢哋打算盡情享受呢片人間天堂，暫時遺世而忘。抵達後，原本以為只有30、40人嘅小團，冇諗到竟然有150幾人一齊上岸，好似鴨仔群咁蜂擁而出。不過，出乎意料之外，佢哋被分配到獨立嘅小型觀光車，四個人一團，倍感輕鬆自在。
+接下來介紹嘅第二個活動係前往峇里島嘅離島 Nusa Penida。為咗更快抵達 Nusa Penida，佢哋特登喺沙努爾下榻，因為嗰度有碼頭，只需30分鐘船程就可以到達。第二日一早，佢哋參加一日遊行程前往Nusa Penida。首站Crystal Bay係個無Wi-Fi、完全隔絕嘅世外桃源，佢哋打算盡情享受呢片人間天堂，暫時遺世而忘。抵達後，原本以為只有30、40人嘅小團，冇諗到竟然有150幾人一齊上岸，好似鴨子群咁蜂擁而出。不過，出乎意料之外，佢哋被分配到獨立嘅小型觀光車，四人一團，倍感輕鬆自在。
 
 > [佩尼達島一日遊（峇里島出發）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7847cab48f)
 
@@ -48,17 +47,17 @@ Crazy with YU芳婷視頻截圖
 
 > [探索之旅 - 峇里島出發（沙努爾港集合）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54289-nusa-penida-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76e0910049)
 
-> [Nusa Penida多日遊](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
+> [佩尼達島多日遊](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
 
 > [藍夢島 & 曼塔灣浮潛體驗](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
 
-> [Nusa Penida浮潛體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49082-snorkeling-experience-nusa-penida%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad6a39918d)
+> [佩尼達島浮潛體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49082-snorkeling-experience-nusa-penida%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad6a39918d)
 
 ![Crazy with YU芳婷視頻截圖](https://images.gobaligo.id/vocus/vocus_1b9233724099bee74e549e2ed5f2f02f.jpg)
 
 Crazy with YU芳婷視頻截圖
 
-去到佩妮達島之後，佢哋喺Crystal Bay嘅沙灘上，好悠閒咁食早餐、飲啤酒、同流浪狗玩。雖然佢覺得嗰度嘅沙灘風景唔算特別出色，但水質就好似浪茄灣咁清澈。跟住，佢哋去咗其他出名嘅景點Angels Billabong同Broken Beach，雖然遊客好多，但嗰度嘅地質景觀依然好震撼動人。最後，佢哋去到一處恐龍造型嘅寶藍色海灘，嗰度嘅海水呈現出靚嘅深淺漸層，令人不禁讚嘆。
+去到佩尼達島之後，佢哋喺Crystal Bay嘅沙灘上面，好悠閒咁食早餐、飲啤酒、同流浪狗玩。雖然佢覺得嗰度嘅沙灘風景唔算特別出色，但係水質好清，好似浪茄灣咁。跟住，佢哋去咗其他出名嘅景點Angels Billabong同Broken Beach，雖然遊客好多，但係嗰度嘅地質景觀依然好震撼，好靚。最後，佢哋去咗一個恐龍造型嘅寶藍色海灘，嗰度嘅海水呈現出好靚嘅深淺漸層，令人忍唔住讚嘆。
 
 ## 第三 Bamboo Villa住宿
 
@@ -66,7 +65,7 @@ Crazy with YU芳婷視頻截圖
 
 Crazy with YU芳婷視頻截圖
 
-喺峇里島體驗獨特嘅住宿都係唔可以錯過嘅。佢哋入住烏布一間充滿原始風味嘅竹製別墅，一晚只需2000蚊港紙就有私人泳池、廚房同兩間睡房，真係物超所值。別墅設計好有心思，入口處就有私人泳池，泳池旁邊嘅梳化區可以搞小型派對。二樓有獨立衛浴，設有落地大玻璃直對原始沖涼區，整體環境好寧靜舒服。露台上可以遠眺山景，係個賞景同飲嘢嘅好地方。
+去峇里島玩，一定要試下住啲特別嘅住宿。佢哋住咗烏布一間好有原始風味嘅竹製別墅，一晚只需2000蚊港紙，就有私人泳池、廚房同兩間睡房，真係抵到爛。間別墅設計好有心思，一入門口就見到私人泳池，泳池旁邊仲有個沙發區，可以搞小型派對。二樓有獨立浴室，仲有落地大玻璃對住個原始沖涼區，成個環境好靜好舒服。露台仲可以望到山景，係個睇景飲嘢嘅好地方。
 
 峇里島最正嘅 Bamboo Villas:
 
@@ -80,11 +79,11 @@ Crazy with YU芳婷視頻截圖
 
 > [Bambu Indah](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251732)
 
-> [Beehouse Dijiwa Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8257992) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=47333965&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazsLFJMEkNYGF486jnk9sQuyGpmYGhgZGBptELFqbGR09HlaJrFvc4OD5JnCHXOvpFocAnogpB55PY0-8aVsZseJgoEMXIytYYAbj2ZaTYhsZ-w991YiZn-Cwg5HpACPTCcYZEguY7my7Z3OKhZnjFcsllq9M0dVK2amVSlYmOkolmSU5qUpWSs_m9D7tnvli024lHaWU1OJkoBCQlZibX5pXAmQbG1jqGRgARUoSKzxTlKzMdZSSE3OSS3MSS1JDKguAJpjpKGUWO5cUZRYEpeZmlpSkAlWlJeYUp4LEg1KLgTLJYEElP6AxRVCBzPw8iHYDFLGwxJzSVIgTgBa6pULtMK7VwXT500Xznjbseb6ilTiXm1Db5YbEuNywNvYRC1N07CcWhl8sDE2sDF2szBynmCYByRkSu1j5Q6KM_MMMdMPNIl11o3QNL7A-kpJSNDQwMDAyNTUy1zVItEw0NzYw0jWxNDEys9Q1MTAxMzcx0Tj3uv_aE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZm5kaOlsHGXDxRwa7CLofYLddraptIMUc0i4i6K9bL_kip7T9lrMni5Bhh_0nm9vt7a0D9zzOueEvfEC-8jS1c-XfO89bZ_EWpWhGxKecVysgLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAmplOWAUDAAA&masterhotelid_tracelogid=100025527-0a9a7302-494269-4046744&detailFilters=17|1~17~1*31|47333965~31~47333965*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1278&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/jb5P9Ezd)
+> [Beehouse Dijiwa Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8257992)
 
 > [Bamboo Turtles Ecolodge](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=32590035)
 
-> [Le Sabot Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=47116230&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQUjQ0MDAwMjU1Mtc1SLS0SDU2sNQ1sTQxMrPUNTUyMzWysNTY-mD3tSfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYLEzdnAycovikmEPCXRTtZfslV_Sctk9ircrQDQnPOC4GAPfcmY-EAAAA&masterhotelid_tracelogid=100025527-0a98e309-494269-5265289&detailFilters=17|1~17~1*31|47116230~31~47116230*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=784&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/aGxipjNP)
+> [Le Sabot Ubud](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7003115)
 
 ## 第四 峇里島盪鞦韆
 
@@ -92,7 +91,7 @@ Crazy with YU芳婷視頻截圖
 
 Crazy with YU芳婷視頻截圖
 
-除咗欣賞靚景，體驗盪鞦韆都係峇里必做嘅事。佢哋去咗Aloha Ubud，嗰度總共有6個俾人盪鞦韆影相嘅打卡點，每個人只需200蚊港幣嘅門票費用，仲可以租借各色婚紗裙影夢幻婚紗相。工作人員會悉心指導姿勢同角度，務求捕捉最美一刻。雖然女仔可以盪耐啲影相，但男仔只能短暫幾下，驚發生危險。不過，安全繩會確保旅客嘅人身安全。
+除咗欣賞美景，體驗盪鞦韆都係峇里必做嘅事。佢哋去咗Aloha Ubud，嗰度總共有6個俾人盪鞦韆打卡影相嘅地方，每個人只需200蚊港幣嘅門票費用，仲可以租借唔同顏色嘅婚紗裙影夢幻婚紗相。工作人員會悉心指導姿勢同角度，務求捕捉最美一刻。雖然女仔可以盪耐啲影相，但男仔只可以短暫幾下，驚有危險。不過，安全繩會確保旅客嘅人身安全。
 
 峇里島盪鞦韆最有名嘅八個地點：
 
@@ -104,11 +103,11 @@ Crazy with YU芳婷視頻截圖
 
 Crazy with YU芳婷視頻截圖
 
-行程嘅最後一站係位於烏布當地著名嘅隱世瀑布。佢哋需要行一小段山路先睇到壯闊嘅瀑布全景，現場逼滿影相人潮。不過，呢處景點設有儲物櫃、廁所同更衣室等基本設施，非常貼心。過去只需5分鐘，便可抵達瀑布影相區。瀑布工作人員均十分專業，會指導拍攝角度同姿勢，佢樂意俾小費以換取最佳視角。下次影相時，佢建議大家記得帶多件衫，因為喺瀑布游水後會覺得凍。
+行程嘅最後一站係位於烏布當地著名嘅隱世瀑布。佢哋需要行一小段山路先見到壯闊嘅瀑布全景，現場擠滿影相嘅人潮。不過，呢個景點有儲物櫃、廁所同更衣室等基本設施，非常貼心。過去只需5分鐘，就可以去到瀑布影相區。瀑布工作人員都好專業，會指導拍攝角度同姿勢，佢樂意俾小費換取最佳視角。下次影相時，佢建議大家記得帶多件衫，因為喺瀑布游水後會覺得凍。
 
 https://youtube.com/shorts/w-gzis-G6OI
 
-烏布地區唔單止以佢嘅文化同藝術聞名，仲擁有令人嘆為觀止嘅自然景觀，其中瀑布更加係必去之地。烏布附近嘅三大知名瀑布：Tegenungan瀑布、Kanto Lampo瀑布同Tukad Cepung瀑布。可以睇[呢度有「烏布周邊三大知名瀑布攻略」](/blog/ubud-waterfalls-guide/)
+烏布地區唔單止以佢嘅文化同藝術聞名，仲有令人嘆為觀止嘅自然景觀，其中瀑布更加係必去之地。烏布附近嘅三大知名瀑布：Tegenungan瀑布、Kanto Lampo瀑布同Tukad Cepung瀑布。可以睇[呢度有「烏布周邊三大知名瀑布攻略」](/blog/ubud-waterfalls-guide/)
 
 瀑布係一個探索自然之美，仲係影IG靚相嘅理想之地。遠離城市嘅喧囂，沿住小徑漫步喺綠意盎然嘅叢林，好似進入咗一個神秘嘅秘境。企喺瀑布前面，激起嘅水花同湍急嘅水流令你感受到大自然嘅震撼力。
 
@@ -120,9 +119,9 @@ https://youtube.com/shorts/w-gzis-G6OI
 
 {{block:ubud}}
 
-透過呢場豐富多彩嘅峇里島之旅，Crazy with YU芳婷唔單止體驗咗滑浪、欣賞各種自然景觀，仲住進特色別墅、盪鞦韆影夢幻婚紗相，行程緊湊精彩。佢更預告，下一集會帶觀眾一窺令人嚮往嘅海底世界，潛水探索沉船同佛像景致。相信呢段精彩分享，定能吸引更多觀眾前往峇里島一遊。
+透過呢場豐富多彩嘅峇里島之旅，Crazy with YU芳婷唔單止體驗咗滑浪、欣賞咗各種自然景觀，仲住咗特色別墅、盪鞦韆影夢幻婚紗相，行程緊湊精彩。佢仲預告，下一集會帶觀眾一窺令人嚮往嘅海底世界，潛水探索沉船同佛像景致。相信呢段精彩分享，定能吸引更多觀眾去峇里島一遊。
 
-## 同YU芳婷一齊癲嘅視頻內容:
+## YU芳婷嘅瘋狂視頻內容:
 
 https://youtu.be/rjxXjs8BlE0?si=oRuQWNl2ajG2a02g
 

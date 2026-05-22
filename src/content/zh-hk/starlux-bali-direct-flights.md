@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66d86afafd8978000199d546'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 1f54a14783ec95c9def660b47dad894e
+_srcHash: b27bfb82ae281347caed48e494d8ea10
 ---
 
 ### 認識台灣全服務航空公司「星宇」
@@ -27,17 +27,17 @@ _srcHash: 1f54a14783ec95c9def660b47dad894e
 
 喺創立嘅四年後，Starlux已經拓展至超過20個亞洲目的地及3個美國城市，擁有多架飛機。作為全服務航空公司，Starlux訂購咗多架最新型嘅Airbus飛機，包括A321neo同A350-1000，並成為台灣首家擁有呢啲機型嘅航空公司。
 
-今年2月，Starlux喺新加坡航空展上，與Airbus簽訂咗訂購五架A350F貨機同三架A330neo嘅協議，呢一協議由Starlux董事長張國煒與Airbus商業總裁Christian Scherer簽署。
+今年2月，Starlux喺新加坡航空展上，同Airbus簽訂咗訂購五架A350F貨機同三架A330neo嘅協議，呢一協議由Starlux董事長張國煒同Airbus商業總裁Christian Scherer簽署。
 
 ### 客艙設計與服務特色
 
-Starlux嘅客艙內部設計由BMW Designworks工作室負責，所有艙位均配有娛樂系統。經濟艙嘅座位配有720p 10.1寸顯示器，提供免費基本Wi-Fi（包括SMS功能）。客艙內嘅獨特香氛由P.Seven創造，融合咗木材、皮革同花香嘅氣息，增添咗旅客嘅舒適體驗。航空公司嘅制服設計則由當地設計師Sean Yin創作，靈感嚟自1940同50年代嘅復古未來主義風格。
+Starlux嘅客艙內部設計由BMW Designworks工作室負責，所有艙位均配有娛樂系統。經濟艙嘅座位配有720p 10.1寸顯示器，提供免費基本Wi-Fi（包括SMS功能）。客艙內嘅獨特香氛由P.Seven創造，融合咗木材、皮革同花香嘅氣息，增添咗旅客嘅舒適體驗。航空公司嘅制服設計則由當地設計師Sean Yin創作，靈感來自1940同50年代嘅復古未來主義風格。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dddd215a460c4e3b870614c74ec256fa.jpg)
 
 ### 進軍印尼市場
 
-Starlux嘅擴展計劃包括進一步開拓南半球市場，選擇雅加達作為新嘅目的地。Starlux Airlines首席策略官Simon Liu表示：「多謝所有合作夥伴嘅支持，令到雅加達航線嘅啟航順利進行。雅加達作為印尼嘅經濟與文化中心，擁有好多台灣企業並提供豐富嘅勞動力市場。」
+Starlux嘅擴展計劃包括進一步開拓南半球市場，選擇雅加達作為新嘅目的地。Starlux Airlines首席策略官Simon Liu表示：「多謝所有合作夥伴嘅支持，令到雅加達航線嘅啟航順利進行。雅加達作為印尼嘅經濟與文化中心，擁有好多台灣企業同提供豐富嘅勞動力市場。」
 
 「Starlux Airlines喺亞洲嘅廣泛網絡，加上飛往北美（洛杉磯、三藩市同西雅圖）嘅航班，將會為往返印尼嘅旅客提供便利。我哋相信我哋高品質嘅服務同客艙體驗將會幫助我哋喺印尼市場嘅增長，並為乘客提供優質嘅旅行選擇。」Liu補充道。
 

@@ -1,10 +1,10 @@
 ---
 slug: titi-batu-ubud-family-club
-title: 【烏布親子推薦】Titi Batu Ubud Club 攻略：大人健身按摩、細路戲水放鬆嘅一日會館體驗
+title: 【烏布親子推薦】Titi Batu Ubud Club 攻略：大人健身按摩、小朋友玩水放鬆嘅一日會館體驗
 description: >-
-  帶細路玩烏布都可以好優雅！深度開箱 Titi Batu Ubud
-  Club：結合半奧運泳池、室內滑板場、健身房同兒童遊戲室嘅全方位生活空間。本篇分享點樣安排一日行程，等家長享受 SPA
-  同桑拿嘅同時，細路都可以喺安全環境下盡情玩樂，係烏布最完美嘅親子避暑方案
+  帶小朋友玩烏布都可以好優雅！深度開箱 Titi Batu Ubud
+  Club：結合半奧運泳池、室內滑板場、健身房同兒童遊戲室嘅全方位生活空間。呢篇分享點樣安排一日行程，等家長可以享受 SPA
+  同桑拿嘅同時，小朋友亦可以喺安全環境下盡情玩樂，係烏布最完美嘅親子避暑方案
 pubDate: 2025-09-05T00:00:00.000Z
 category:
   - 家庭親子
@@ -23,11 +23,11 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e0fee6b09834203d2ea933ea0d4c7de1.jpg'
 originalUrl: 'https://vocus.cc/article/68bacc2ffd897800011175a7'
 lang: zh-hk
-_srcHash: 1bbaa8d90dc3df60d8e2c049b30f9981
+_srcHash: 8f71aacaf1e0ec8afe3b6a40cd2ca7f2
 ---
-喺峇里島，大部分嘅沙灘俱樂部或者叢林俱樂部雖然氣氛熱鬧，但往往缺乏 **兒童友善嘅設施**，所以對於有小朋友嘅家庭嚟講並唔係咁方便。
+喺峇里島，大部分嘅海灘俱樂部或者叢林俱樂部雖然氣氛熱鬧，但往往缺乏 **兒童友善嘅設施**，所以對於有小朋友嘅家庭嚟講並唔係咁方便。
 
-而位於烏布嘅 **Titi Batu Ubud Club**，就打破咗呢個局限。呢度結合咗 **健身運動、親子娛樂同放鬆休閒** 嘅多功能生活會館，唔單止可以滿足成人嘅運動同養生需求，同時亦提供安全、寬敞同充滿樂趣嘅空間俾細路。由於氛圍融合自然氣息同舒適設計，佢更加成為外籍家庭同當地居民嘅日常去處，係全家共享嘅烏布秘境天堂。
+而位於烏布嘅 **Titi Batu Ubud Club**，就打破咗呢個局限。呢度結合咗 **健身運動、親子娛樂同放鬆休閒** 嘅多功能生活會館，唔單止可以滿足成人嘅運動同養生需求，同時亦提供安全、寬敞同充滿樂趣嘅空間俾小朋友。由於氛圍融合自然氣息同舒適設計，佢更加成為外籍家庭同當地居民嘅日常去處，係全家共享嘅烏布秘境天堂。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_cdccff4eb7d8371bef1024a0f77858f8.jpg)
 
@@ -56,7 +56,7 @@ _srcHash: 1bbaa8d90dc3df60d8e2c049b30f9981
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f9cea5400791f2842a2fbb039dadaae5.jpg)
 
 - 兒童遊戲室
-- 適合親子一齊玩嘅戲水池
+- 適合親子一齊玩嘅嬉水池
 - 安全又闊落嘅遊樂設施
 
 ### **休閒與社交**
@@ -66,8 +66,8 @@ _srcHash: 1bbaa8d90dc3df60d8e2c049b30f9981
 ![raw-image](https://images.gobaligo.id/vocus/vocus_954074e0c8b366b35dd5757797a2c453.jpg)
 
 - 餐廳同咖啡區
-- 舞蹈教室、瑜伽教室
-- 共用辦公空間（Co-working space）
+- 舞蹈室、瑜伽室
+- 共用工作空間（Co-working space）
 
 ![有時候還會舉辦泡泡趴](https://images.gobaligo.id/vocus/vocus_8e7424b99d610f1bbc1bf4e3d7efac84.jpg)
 
@@ -79,7 +79,7 @@ _srcHash: 1bbaa8d90dc3df60d8e2c049b30f9981
 
 Titi Batu Ubud Club 建喺一片神聖嘅土地上，鄰近歷史悠久嘅 **峇里石橋（Titi Batu）**。呢度唔單止係運動休閒場所，仲帶有文化同靈性嘅意義。
 
-詳細位置請參考「烏布攻略地圖」之「親子友善遊樂場、餐廳」，請按[呢度](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
+詳細嘅位置請參考「烏布攻略地圖」之「親子友善遊樂場、餐廳」，請撳[呢度](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ac630e4994ccfac0738986cc0f642c61.png)
 
@@ -104,23 +104,23 @@ Titi Batu Ubud Club 建喺一片神聖嘅土地上，鄰近歷史悠久嘅 **峇
 
 **Titi Batu Ubud Club 適唔適合家庭旅遊？**
 
-係呀！呢度有兒童遊戲室、親子泳池同埋安全嘅娛樂空間，帶埋小朋友一齊嚟玩就啱晒。
+係呀！呢度有兒童遊戲室、親子泳池同埋安全嘅娛樂空間，帶小朋友嚟玩就啱晒。
 
 **需唔需要會員資格先可以入場？**
 
-唔需要。買 **Day Pass** 就可以享用晒所有設施，對旅客嚟講非常方便。
+唔需要。買 **Day Pass** 就可以享用全區設施，對旅客嚟講好方便。
 
 **俱樂部入面有冇嘢食？**
 
-有㗎，入面有餐廳同咖啡區，提供健康餐點同飲品。
+有㗎，館內有餐廳同咖啡區，提供健康餐點同飲品。
 
-**健身同休閒設施係咪分開？**
+**健身同休閒設施係咪分開咗？**
 
-係呀，健身、游水、親子娛樂都有獨立空間，唔同需求嘅訪客都可以舒舒服服咁使用。
+係呀，健身、游水、親子娛樂都有獨立空間，唔同需求嘅訪客都可以舒適咁使用。
 
-**交通方唔方便？**
+**交通方唔方便呀？**
 
-Titi Batu Ubud Club 位於烏布，由烏布市中心過去好方便，可以搭的士或者包車去到。
+Titi Batu Ubud Club 位於烏布，由烏布市中心過去都好方便，可以搭的士或者包車去到。
 
 ***
 

@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8b08e09d34382f389919fdef4c7b2b88.jpg'
 originalUrl: 'https://vocus.cc/article/6906be15fd897800015710d8'
 lang: zh-cn
-_srcHash: 4a9a726a9f7453ed52a49e7a94d2cc3c
+_srcHash: f8eebf255551cf6695b84a562907ff60
 ---
 
 ## 巴厘岛独特体验：沙滩骑骆驼之旅🐪

@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e369e6351905ce7e76db2352f23292c8.png'
 originalUrl: 'https://vocus.cc/article/689db40ffd89780001eb2f3e'
 lang: zh-cn
-_srcHash: 3b9aef3b5405d45f9998e44876285459
+_srcHash: 50c6b8b8a810000a7ad892bf738ee1d6
 ---
 
 ### 印尼入境新措施🇮🇩 重要通知！2025/8/18起全面改用「All Indonesia」单一申报系统
@@ -115,7 +115,7 @@ Place of Birth（出生地） 和 Date of Birth (出生日期） 必须和护照
 
 1. 在「**相册**」中打开你的截图或照片。
 2. 点左下角的「分享」图标（方框内有个箭头）。
-3. 向下滑 → 点击「**打印**」。
+3. 向下滑 → 点选「**打印**」。
 4. 使用两指缩放照片（用手指把照片放大）。
 5. 这时会出现一份 PDF 预览，右上角点「分享」→ 选择「**存储到文件**」或「**存储至iCloud Drive**」。
 
@@ -126,7 +126,7 @@ Place of Birth（出生地） 和 Date of Birth (出生日期） 必须和护照
 1. 在「相册」或「图片库」中打开你要转换的图片。
 2. 点右上角的「分享」按钮 → 选择「**打印**」。
 3. 在打印机选项中，选择「**保存为 PDF**」。
-4. 点击「下载」图标，保存文件即可。
+4. 点选「下载」图标，保存文件即可。
 
 ### **❓ 最后一个步骤信用卡付款失败怎么办？**
 
@@ -136,30 +136,30 @@ Place of Birth（出生地） 和 Date of Birth (出生日期） 必须和护照
 
 一旦您的 eVOA 签证核发，您需在 **90 天内** 使用，也就是说，您必须在签证核发日(issue date)的 90 天内入境印尼。若超过此期限未入境，该签证将自动失效，无法使用。
 
-若需要填写入境日期（arrival date）不要填错成离境日期
+如果需要填写入境日期（arrival date），不要错填成离境日期
 
-### **❓ Date of Issue怎么自动变成申请日的日期?**
+### **❓ Date of Issue 怎么自动变成申请日的日期?**
 
-出现在你电子签证上的**Date of Issue是申请eVoA的日期**, 跟护照上的Date of Issue没有关联。因此出现的是你申请eVoA的日期这是正确的。
+出现在你电子签证上的 **Date of Issue 是申请 eVoA 的日期**，跟护照上的 Date of Issue 没有关联。因此出现的是你申请 eVoA 的日期，这是正确的。
 
-这个字段如果填错了怎么办？这里的Date of Issue仅提供你参考电子签的申请/发照日，如果你有申请/缴费成功，那么你就会顺利过关！
+这个字段如果填错了怎么办？这里的 Date of Issue 仅提供你参考电子签的申请/发证日，如果你有申请/缴费成功，那么你就会顺利过关！
 
-### **❓** Date of Issue和Place of Birth填错了怎么办？
+### **❓** Date of Issue 和 Place of Birth 填错了怎么办？
 
-如果有发现填错了：
+如果发现填错了：
 
-- Date of Issue只是提供你自己参考入境的日期，填错了也没有关系。
-- Place of Birth根据网友的回报，填写Taiwan或是依照护照上的出生地，都是可以过自动通关的。
+- Date of Issue 只是提供你自己参考入境的日期，填错了也没有关系。
+- Place of Birth 根据网友的反馈，填写 Taiwan 或是依照护照上的出生地，都是可以过自动通关的。
 
 ### **❓** 带小朋友也可以自动通关吗？
 
-年满6岁的儿童也可以使用机场的自动通关。请看[入境印尼/巴厘岛的小朋友签证/儿童签证攻略](/blog/bali-child-visa-guide/)
+年满 6 岁的儿童也可以使用机场的自动通关。请查看[入境印尼/巴厘岛的小朋友签证/儿童签证攻略](/blog/bali-child-visa-guide/)
 
 ### **❓ 观光签证期限多久？逾期会怎么样？**
 
 观光签证入境后的有效期限为30天，可在当地移民局或[线上申请延长](/blog/2024-bali-visa-extension/)一次，最多居留60天。
 
-若逾期每天罚款1,000,000印尼盾，并被视作非法居留，可能面临收押、驱逐出境、特定期限不能入境印尼等惩罚。
+若逾期每天罚款1,000,000印尼盾，并被视为非法居留，可能面临收押、驱逐出境、特定期限不能入境印尼等惩罚。
 
 ***
 
@@ -167,9 +167,9 @@ Place of Birth（出生地） 和 Date of Birth (出生日期） 必须和护照
 
 ### **❓ 多久前才可以申请** [All Indonesia](https://allindonesia.imigrasi.go.id/) ？
 
-因为现在整合了健康声明，需要汇报最新的状况，因此搭机前三天才可以填写。
+因为现在整合了健康声明，需要回报最新的状况，因此搭机前三天才可以填写。
 
-### **❓ 入境哪些机场可以使用** [All Indonesia](https://allindonesia.imigrasi.go.id/) ？
+### **❓ 入境那些机场可以使用** [All Indonesia](https://allindonesia.imigrasi.go.id/) ？
 
 雅加达苏卡诺哈达( Soekarno-Hatta )、泗水朱安达(Juanda)及巴厘岛伍拉赖(Ngurah Rai)等3处国际机场可以用「All Indonesia」一站申请，入境其他机场请分开填写**电子签证eVisa**、**报关eCD**、及**健康声明SSHP**（填写说明请看[链接](/blog/bali-entry-requirements/)）
 

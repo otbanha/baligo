@@ -15,11 +15,10 @@ tags:
   - '#藍夢島'
   - '#浮潛'
   - '#沙努爾'
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_92c1c3c6353fec567c863e536302c897.jpg'
 originalUrl: 'https://vocus.cc/article/66551cfefd897800011f9d5e'
 lang: zh-cn
-_srcHash: 2daf2c8c8e34cd9e1623d0229ac5e691
+_srcHash: 7d6ebf4b54356970b8eda4c9017ddc91
 ---
 
 脸书社团团友 [Mei Chen](https://www.facebook.com/mei.co.nz/) 跟家人的巴厘岛八天七夜游记，特此提供给我们编辑/转载：
@@ -78,7 +77,7 @@ _srcHash: 2daf2c8c8e34cd9e1623d0229ac5e691
 
 ### 晚餐 - Lia Cafe
 
-晚餐我们选择了Lia Cafe，这里需要另收10%的服务费，也可以刷卡支付。在等餐的时候，有一团当地的歌手会根据你的国籍唱不同的歌，但他们会强迫要求小费，给得太少他们会表现得不太高兴，这点让我们的用餐体验有些不愉快。（编注：不是属于餐厅的乐团。一般乐团献唱，你们一行人给个3美元的小费就皆大欢喜了！）
+晚餐我们选择了Lia Cafe，这里需要另收10%的服务费，也可以刷卡支付。在等餐的时候，有一团当地的歌手会根据你的国籍唱不同的歌，但他们会强迫要求小费，给得太少他们会表现得不太高兴，这点让我们的用餐体验有些不愉快。（编按：不是属于餐厅的乐团。一般乐团献唱，你们一行人给个USD$2的小费就皆大欢喜了！）
 
 > 延伸阅读：[巴厘岛金巴兰11家海鲜餐厅推荐](/blog/jimbaran-seafood-restaurants-list/)
 
@@ -90,7 +89,7 @@ _srcHash: 2daf2c8c8e34cd9e1623d0229ac5e691
 
 ### Coco Supermarket Jimbaran
 
-晚餐后，我们去了附近的Coco Supermarket Jimbaran，购买了一些零食和水果。在去超市的路上，看到很多卖上网卡的店家，我们找了一间最便宜的店买了上网卡，还顺便在一家换汇所换了一点钱。
+晚餐后，我们去了附近的Coco Supermarket Jimbaran，购买了一些零食和水果。在去超市的路上，看到很多卖网卡的店家，我们找了一间最便宜的店买了网卡，还顺便在一家换汇所换了一点钱。
 
 ### 住宿 - FOX Hotel Jimbaran Beach
 
@@ -105,15 +104,15 @@ _srcHash: 2daf2c8c8e34cd9e1623d0229ac5e691
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776002660718-231354323.jpeg)
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776002661166-231354923.jpeg)
 
-▶[FOX Hotel Jimbaran Beach订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=3121957) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6371074&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6y8zFJMEk9YyZ4_KR3XfYhBiNDM6yWayOcDQGAecUB88dcq2vA3dkOATwzGBsetfCvIKRcSOjyDr3h1VXHB12MDKdYJzOvoDp5Jld_KdYmDmWMV5i-cwUXa2UnVqpZGWio1SSWZKTqmSl9HTRvKcNe56vaFXSUUpJLU4GCgFZibn5pXklQLaFsZ6BAVCgJLHCMwWsMTkxJ7k0J7EkNaSyAGiAmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FuABooVsq1A7DWh1Mhz-b0_u0e-aLTbuJcrg5tR1uQIzDjWtjH7EwRcd-YmH4xcLQxMrQxcowiZWZYzr7Llae4BAjX-8gXUPdKF1DKXlDAwMDU0NjU1Ndg0TLRFPjZENdE0sTI3NDXSMTUyMzja3dH288MTaylmKdcuD5NHYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbJbGrs7GjlE2XMyhwS6C6VefZ2mbSTtIMYeEuyhODrrwVrX3tL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEWQIAYN9JO9kCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-24526&detailFilters=17|1~17~1*31|6371074~31~6371074*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687)
+▶[FOX Hotel Jimbaran Beach订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=3121957)
 
 {{block:jim}}
 
 ## 5月19日 星期日 DAY 2 乌鲁瓦图之旅
 
-### 早餐 - Bull's Coffee 金巴兰
+### 早餐 - Bull's Coffee Jimbaran
 
-我们的第一站是Bull's Coffee 金巴兰，想吃他们著名的牛油果三明治，但不巧当天没有供应。这家咖啡馆可以刷卡支付，环境舒适，很适合开始一天的行程。
+我们的第一站是Bull's Coffee Jimbaran，想吃他们著名的牛油果三明治，但不巧当天没有供应。这家咖啡厅可以刷卡支付，环境舒适，很适合开始一天的行程。
 
 ### 早餐 - Warung Nasi Ayam Ibu Oki
 
@@ -121,15 +120,15 @@ _srcHash: 2daf2c8c8e34cd9e1623d0229ac5e691
 
 ![Mei Chen提供，左至右：Pantai Batu Barak/Pandawa Beach/Oneeighty](https://images.gobaligo.id/vocus/vocus_80fde13911e7805a8faa34c5e34bfc1d.jpg)
 
-Mei Chen提供，左至右：Pantai Batu Barak/潘达瓦海滩/Oneeighty
+Mei Chen提供，左至右：Pantai Batu Barak/Pandawa Beach/Oneeighty
 
 ### Pantai Batu Barak
 
 早餐后，我们来到Pantai Batu Barak，这是一个拍照的好地方。这里的自然风光非常美丽，适合拍照打卡。
 
-### 潘达瓦海滩
+### Pandawa Beach
 
-接着，我们前往潘达瓦海滩。虽然这里的海滩没有特别美，但可以体验划独木舟的乐趣，增添了不少趣味。
+接着，我们前往Pandawa Beach。虽然这里的海滩没有特别美，但可以体验划独木舟的乐趣，增添了不少趣味。
 
 ### One Eighty Bali 悬崖酒吧
 
@@ -238,7 +237,7 @@ https://youtu.be/SpcgZ4iK7qs
 
 ### 晚餐 - Pasar Senggol Gianyar夜市
 
-晚上，我们前往Pasar Senggol Gianyar夜市，这是当地人常去的夜市，规模相当大，非常有趣。我们搭乘六人座的Gojek前往，费用约USD$1。在夜市里，我们品尝了各种当地美食，体验了真正的「巴厘岛夜生活」。
+晚上，我们前往Pasar Senggol Gianyar夜市，这是当地人常去的夜市，规模相当大，非常有趣。我们搭乘六人座的Gojek前往，费用约1美元。在夜市里，我们品尝了各种当地美食，体验了真正的「巴厘岛夜生活」。
 
 小杰去过另一个巴厘岛最大的夜市：
 
@@ -262,13 +261,13 @@ https://youtube.com/shorts/sVxycGvyT9w
 
 ### Penglipuran 村庄
 
-接着我们来到了Penglipuran村庄，这里的包包价格相对来说是最低的，很适合购物。虽然价格很平价，但还是可以砍价的哦。
+接着我们来到了Penglipuran村庄，这里的包包价格相对来说是最低的，很适合购物。虽然价格很平价，但还是可以杀价的哦。
 
 > 延伸阅读：[穿越时空的 Penglipuran 村庄：体验巴厘古老的魅力](/blog/penglipuran-village-bali-experience/)
 
 ### 百沙基母庙
 
-我们参观了百沙基母庙，门票价格蛮贵的，要10美元（因为包含了必须的导游解说费用）。导游会在介绍完后要求小费，但实际上门票已经含了导游的小费。在这里，我们还看到了各种贩卖山竹的摊位，价格相当便宜，外面超市卖的约35k一公斤，这里的摊商看到我们不买，喊到10k一公斤！
+我们参观了百沙基母庙，门票价格蛮贵的，要三百台币（因为有包含一定要的导游解说费用）。导游会在介绍完后要求小费，但实际上门票已经含了导游的小费。在这里，我们还看到了各种贩卖山竹的摊位，价格相当便宜，外面超市卖的约35k一公斤，这里的摊商看到我们不买，喊到10k一公斤！
 
 ### 晚餐 - AKASA Specialty Coffee
 
@@ -296,13 +295,13 @@ https://youtube.com/shorts/sVxycGvyT9w
 
 > ▶[Batur view Homestay订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=8927154)
 
-今晚我们住在Batur view Homestay，这里的房间阳台是山景第一排，景色超美。由于这是一间民宿，所以房间的设备相对基础，每间房价约32美元。如果你对酒店设备有较高的要求，可以考虑Oculus Bali，但据说那里的阳台景观没有这么漂亮，需要到楼顶才能看到。
+今晚我们住在Batur view Homestay，这里的房间阳台是山景第一排，景色超美。由于这是一间民宿，所以房间的设备相对基础，每间房价约USD$32。如果你对酒店设备有较高的要求，可以考虑Oculus Bali，但据说那里的阳台景观没有这么漂亮，需要到楼顶才能看到。
 
 ![Oculus Bali 的 view 也不錯啊！](https://images.gobaligo.id/vocus/vocus_0ec49bc00a52aa3cae7c5b4bf4a9bb21.png)
 
-Oculus Bali 的景色也不错啊！
+Oculus Bali 的 view 也不错啊！
 
-> ▶[Oculus Bali订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=34040413) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=99118073&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJY_GmK9PZhBgNLH4LOgbtkGt9fbTTwfObRkz_ods9DgE8EVMOPJ_GnnjTtjJixcFAh0IGENDod2hkXFJgy3Vdutehi5EVrGYG48_rC_U3Msq3vg7csS7CYQcj0wFGphOMpxQXMDVtX2B7ioWZ4zTzJZbdjNHVStmplUpWJjpKJZklOalKVkpPF8172rDn-YpWJR2llNTiZKAQkJWYm1-aVwJkm5ha6hkYAEVKEis8U8A6kxNzkktzEktSQyoLgCaY6ShlFjuXFGUWBKXmZpaUpAJVpSXmFKeCxINSi4EyyWBBJT-gMUVQgcz8PIh2QxSxsMSc0lSIE4AWuqVC7TCsjX3EwhQd-4mF4RfQM9NUmlgZuliZOU4xTQKRirtY2YLMzd2jQi-wrvKQkjE0MDAwNTQ2NdU1SLRMNLM0NNE1sTQxMjfQtTTVeL7kxrUnxkbWUpDAU2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xShlaG5sYWhkaGhkZGRprGdikWZWbJFXbJGbFeHBGMRmYWZhbGIcZcPF7OkSJPhB7_n2dmtLeynmkHAXRXvZfskVPafttUByhjC5wD2vc07YGy-wjzze8Obru_7T9kmsVRm6IeEZx8UKGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDTAX33V9FCAgAA&masterhotelid_tracelogid=100051355-0a9a6914-494270-95&detailFilters=17|1~17~1*31|99118073~31~99118073*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=320&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/9ZzGv9ZJ)
+> ▶[Oculus Bali订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=34040413)
 
 ## 5月22日 星期三 DAY 5 乌布周边
 
@@ -377,9 +376,9 @@ https://youtube.com/shorts/NEnIZjZnrTk
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776001207455-174101622.jpeg)
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776001208052-54688182.jpeg)
 
-今晚我们入住Dwaraka The Royal Villas，这里的房价含早餐、下午茶、免费足部按摩、每小时一趟市区接送，房间内还有饼干、水果和免费饮料。这是一个非常超值的酒店，提供了各种设施和服务，好像就住在乌布的皇宫里！绝对是这趟旅行中最值得推荐的住宿地点。房价约两千初，如果选择四人房两层villa含私人泳池则约四千台币（约USD$129）。这里还有两个大众泳池，儿童戏水区和kids club，是个适合家庭的好选择。
+今晚我们入住Dwaraka The Royal Villas，这里的房价含早餐、下午茶、免费足部按摩、每小时一趟市区接送，房间内还有饼干、水果和免费饮料。这是一个非常超值的酒店，提供了各种设施和服务，好像就住在乌布的皇宫里！绝对是这趟旅行中最值得推荐的住宿地点。房价约两千初，如果选择四人房两层villa含私人泳池则约四千台币。这里还有两个大众泳池，儿童戏水区和kids club，是个适合家庭的好选择。
 
-▶[Dwaraka The Royal Villas订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1030641) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=3913616&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NqZ-FikmCSamDh2H3pxEk2IUYDi9-CjmkgcK3WwfNhlcg695VNDgE8EVMOPJ_Gnqh2P6c4eUGAQxcjK1hgBuOE9-8YVzAybmQstOW6vvhDrMMORqYDjEwnGG-KLmBa_O8R0ykWZo41LJdYvjJFVytlp1YqWZnoKJVkluSkKlkpPV0072nDnucrWpV0lFJSi5OBQkBWYm5-aV4JkG1kbqFnYAAUKUms8EwB60xOzEkuzUksSQ2pLACaYKajlFnsXFKUWRCUmptZUpIKVJWWmFOcChIPSi0GyiSDBZX8gMYUQQUy8_Mg2g1RxMISc0pTIU4AWuiWCrXDsFYH0-XP5vQ-7Z75YtNu4lxuTm2XGxDjcuPa2EcsTNGxn1gYfrEwNLEydLEyc2xlmgQkb4ruYmULdg0KDnS-wNonISVvaGBgYGpobGqqa5BoaZFknGiga2JpYmRmqWtsaWluonHz4LOrT4yNrKUgMa_AqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdzJ0tDULcqGi9nTJUjwg97z7e3WlvZSzCHhLor2sv2SK3pO22uB5AxhcoF7XuecsDdeYB9Zuvr5ku-9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAN8-FGewCAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494269-39974&detailFilters=17|1~17~1*31|3913616~31~3913616*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=432&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/48vW2DzN)
+▶[Dwaraka The Royal Villas订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1030641)
 
 {{block:ubud}}
 
@@ -401,7 +400,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 ### 乌布传统市集、艺术市集
 
-我们逛了乌布的传统市集和艺术市集，这里的商品开价都超夸张，不过可以尝试砍价，有时候可以打到两三折。
+我们逛了乌布的传统市集和艺术市集，这里的商品开价都超夸张，不过可以尝试杀价，有时候可以打到两三折。
 
 https://youtube.com/shorts/Oh-RNfjhQhM
 
@@ -411,7 +410,7 @@ https://youtu.be/JtxZHtijEkE
 
 ### Yeh Pulu Spa
 
-下午我们去了Yeh Pulu Spa，选择了巴厘岛式按摩，90分钟约USD$13，可以使用信用卡支付。虽然这里不是豪华的SPA，但评价还不错，而且就在市区附近，我们提前一天预订了按摩。
+下午我们去了Yeh Pulu Spa，选择了巴厘岛式按摩，90分钟约13美元，可以使用信用卡支付。虽然这里不是豪华的SPA，但评价还不错，而且就在市区附近，我们提前一天预订了按摩。
 
 **预约乌布的其他中价位SPA：**
 
@@ -434,7 +433,7 @@ https://youtu.be/JtxZHtijEkE
 
 今晚我们入住了CLV Hotel and Villa，我们订了三栋房，每栋都有三间房。原本是预订三栋房，每栋各一间房。但奇怪的是，他们把其他两栋房都锁起来，只给了我们一栋三房让我们六人共同使用，是C1别墅。但是这栋房间的状况非常糟糕，墙壁有壁癌、黑色霉菌，床单潮湿，还看到了两只蟑螂，家具也很脏，整个环境让人无法忍受。我们向民宿反映情况，要求看其他两栋，但对方竟然说没房了。这是我们此生住过最糟糕的酒店，绝对不推荐。
 
-编按：我们推荐过的300多家巴厘岛住宿，是让你找住宿不踩雷的第一关把守哦！
+编按：我们推荐过的300多家巴厘岛住宿，是让你找住宿不踩雷的第一关把守喔！
 
 {{block:住宿}}
 
@@ -454,7 +453,7 @@ Mei Chen提供。左：布拉坦水神庙；右：海神庙
 
 ### 路边吃榴莲
 
-途中我们在路边品尝了当地的榴莲，吃起来是那种不会觉得味道很重的类型，满顺口的。虽然价格不便宜（一颗三公斤约15美元），但是体验当地的美食也是一大乐趣。
+途中我们在路边品尝了当地的榴莲，吃起来是那种不会觉得味道很重的类型，满顺口的。虽然价格不便宜（一颗三公斤约USD$15），但是体验当地的美食也是一大乐趣。
 
 > [🥥巴厘岛榴莲产季全攻略｜什么时候最香、最便宜？]（/blog/2026-04-07-065104/）
 
@@ -513,13 +512,13 @@ Mei Chen提供，水明漾沙滩的父子俩
 
 ### 包车司机
 
-我们在旅程中包了多次车，其中包括5月19日以及5月21日至5月24日。我们本来在网络上寻找了一些推荐的包车司机，但大多数都是提供小型车辆，考虑到我们一行7人加上行李，需要较大型的车型。在一个英文的巴厘岛社团上发布了我们的行程后，最终找到了一位包车司机，他提供了12小时的服务，价格比其他司机提供的8小时还要便宜。他的价格包括所有费用，例如司机费用、油费、过路费、停车费，而且车上还每天提供每人一瓶水。司机非常友善，拥有15年的相关经验，开车技术非常优秀，即使是在非常狭小的道路上，也能驾驭得相当出色。他的英文能力很好，能够回答我们的问题，但不会一直和我们聊天，非常专业。我们对他的服务非常满意，最后一天我们还向他索取了联系方式，他也乐意提供。他甚至告诉我们，如果需要，他也可以介绍其他会说中文的司机。对于[Gdbokink司机](https://www.facebook.com/Bokink/)，这是他第一次载到一天换一个区旅游的客人，但我们非常满意他的服务。
+我们在旅程中包了多次车，其中包括5月19日以及5月21日至5月24日。我们本来在网上寻找了一些推荐的包车司机，但大多数都是提供小型车辆，考虑到我们一行7人加上行李，需要较大型的车型。在一个英文的巴厘岛社团上发布了我们的行程后，最终找到了一位包车司机，他提供了12小时的服务，价格比其他司机提供的8小时还要便宜。他的价格包括所有费用，例如司机费用、油费、过路费、停车费，而且车上还每天提供每人一瓶水。司机非常友善，拥有15年的相关经验，开车技术非常优秀，即使是在非常狭小的道路上，也能驾驭得相当出色。他的英文能力很好，能够回答我们的问题，但不会一直和我们聊天，非常专业。我们对他的服务非常满意，最后一天我们还向他索取了联系方式，他也乐意提供。他甚至告诉我们，如果需要，他也可以介绍其他会说中文的司机。对于[Gdbokink司机](https://www.facebook.com/Bokink/)，这是他第一次载到一天换一个区旅游的客人，但我们非常满意他的服务。
 
 {{block:包車}}
 
 ## 行程后记与心得
 
-此次行程主要依大人为主，但每天还是有安排给小孩和大人玩水的时间。我们没有选择入住高级的villa或度假村，因为行程安排得很紧凑，没时间好好享受，所以就不多花钱啦！我们主要选择的是评价好、性价比高的酒店入住。
+此次行程主要以大人为主，但每天还是安排了给小孩和大人玩水的时间。我们没有选择入住高级的别墅或度假村，因为行程安排得很紧凑，没时间好好享受，所以就不多花钱啦！我们主要选择的是评价好、性价比高的酒店入住。
 
 如果对寺庙不是特别感兴趣，可以考虑删减一些相关行程，这样就会有更多的时间去享受按摩、玩水和逛街的乐趣。不过，我们这次是抱着可能一生只来一次的心态，硬是把所有知名景点都安排得满满的，整体而言是一次非常丰富而难忘的旅程。😆
 

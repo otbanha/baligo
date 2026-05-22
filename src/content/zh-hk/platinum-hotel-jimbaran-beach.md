@@ -1,10 +1,11 @@
 ---
-slug: platinum-hotel-jimbaran-beach
 title: '[金巴蘭CP值最高] USD$70起入住2024新開幕 Platinum Hotel Jimbaran Beach'
+slug: platinum-hotel-jimbaran-beach
 description: >-
-  呢間全新開幕嘅 Platinum Hotel Jimbaran Beach Bali 位於峇里島金巴蘭，距離出名嘅 Kedonganan Beach 同
-  金巴蘭海灘 只需行路就可以到達
+  呢間全新開幕嘅 Platinum Hotel Jimbaran Beach Bali 位於峇里島金巴蘭，距離著名嘅 Kedonganan Beach
+  同金巴蘭海灘只需行路就可以到達
 pubDate: 2025-02-07T00:00:00.000Z
+pubHour: null
 category:
   - 住宿推薦
 tags:
@@ -30,20 +31,17 @@ tags:
   - Family boutique accommodation Jimbaran
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ececaaa143ec2fa4ce59ec0fb51c7291.jpg'
 originalUrl: 'https://vocus.cc/article/67a5905bfd89780001e1b2b3'
-agoda_hotel_id: 47017338
-agoda_hotel_name: 峇里島金巴蘭海灘白金飯店
-agoda_star_rating: 5
-latitude: -8.762973
 longitude: 115.17032
+agoda_star_rating: 5
+agoda_hotel_name: 峇里島金巴蘭海灘白金飯店
+agoda_hotel_id: 47017338
+latitude: -8.762973
 lang: zh-hk
-_srcHash: a69d7192617ddcfb1da38688f90348db
+_srcHash: ed48d9453fbbfc4d3e193e7bc283332c
 ---
-
-## **🏨 Platinum Hotel Jimbaran Beach Bali｜2024 全新開幕，絕美海景五星級度假天堂！**
-
 {{block:test}}
 
-呢間全新開幕嘅 **Platinum Hotel Jimbaran Beach Bali** 位於峇里島金巴蘭，距離出名嘅 **Kedonganan Beach** 同 **金巴蘭海灘** 只需行 30 秒！無論係日光浴、海灘漫步定係水上活動，都可以輕鬆享受。此外，酒店距離 **伍拉·賴國際機場（DPS）** 只有 1 公里，並提供 **付費機場接送服務**，令你嘅旅程更加輕鬆順暢。
+呢間全新開幕嘅 **Platinum Hotel Jimbaran Beach Bali** 位於峇里島金巴蘭，距離著名嘅 **Kedonganan Beach** 同 **金巴蘭海灘** 只需行 30 秒！無論係曬太陽、海灘漫步定係水上活動，都可以輕鬆享受。另外，酒店距離 **伍拉·賴國際機場（DPS）** 只有 1 公里，仲提供 **付費機場接送服務**，令你嘅旅程更加輕鬆順暢。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_835c4c583383e70d2a8da4f6fe81970b.jpg)
 
@@ -75,7 +73,7 @@ _srcHash: a69d7192617ddcfb1da38688f90348db
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_63c15d19c04d073e111c618a44259d12.jpg)
 
-🛁 **桑拿 & 熱水按摩池** —— 等疲累嘅身體得到舒緩
+🛁 **桑拿 & 熱水按摩池** —— 讓疲憊嘅身體得到舒緩
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_5d5e9d37f3273745494590d6b07634b3.jpg)
 
@@ -97,13 +95,13 @@ _srcHash: a69d7192617ddcfb1da38688f90348db
 
 🔥 **部分客房配備簡易廚房**，有 **雪櫃、微波爐同爐具**，啱晒 **長住旅客** 或者 **鍾意自己煮嘢食嘅旅人**
 
-🛏️ **房間設計現代典雅，寬敞舒適，確保你擁有寧靜嘅私人空間**
+🛏️ **房間設計現代典雅，寬敞舒適，確保你有寧靜嘅私人空間**
 
 ***
 
-## **🍽️ 一日嘅開始，從美味早餐開始！**
+## **🍽️ 一日嘅開始，由美味早餐開始！**
 
-🥐 **豐富嘅自助式早餐** —— 迎合唔同口味，提供新鮮即做餐點
+🥐 **豐富嘅自助式早餐** —— 迎合唔同口味，提供新鮮即製餐點
 
 ☕ **單點精緻早餐** —— 優雅細膩，享受五星級餐飲體驗
 
@@ -111,13 +109,13 @@ _srcHash: a69d7192617ddcfb1da38688f90348db
 
 ***
 
-## **任食自助餐等你嚟享受！**
+## **無限量任食自助餐等你嚟享受！**
 
-### **🌅 無限任食！夕陽美景 x 特色主題任食 Buffet 🌟**
+### **🌅 無限任食！日落美景 x 特色主題自助餐 🌟**
 
-想像下，喺唯美嘅日落時分，一邊品嚐來自世界各地嘅美食，一邊沉浸喺輕鬆愉快嘅音樂氛圍——呢啲正係 **Platinum Hotel Jimbaran Beach Bali** 嘅 **Infinity Sunset Bar** 為你帶嚟嘅極致用餐體驗！
+想像吓，喺唯美嘅日落時分，一邊品嚐來自世界各地嘅美食，一邊沉浸喺輕鬆愉快嘅音樂氛圍——呢啲正係 **Platinum Hotel Jimbaran Beach Bali** 嘅 **Infinity Sunset Bar** 為你帶嚟嘅極致用餐體驗！
 
-呢間五星級度假酒店唔單止擁有夢幻般嘅海景，仲提供 **「All You Can Eat」任食自助餐**，等你可以喺 4 個鐘內盡情享用各種風味料理。每日都有唔同嘅主題，由 **傳統峇里島美食** 到 **_拉丁風味_、_世界風情_** 同 **海鮮盛宴**，保證每次嚟都有全新驚喜！
+呢間五星級度假酒店唔單止擁有夢幻般嘅海景，仲提供 **「All You Can Eat」無限量自助餐**，讓你可以喺 4 個鐘內盡情享用各種風味料理。每日都有唔同嘅主題，從 **傳統峇里島美食** 到 **_拉丁風味_、_世界風情_** 及 **海鮮盛宴**，保證每次嚟都有全新驚喜！
 
 ### **🍴 特色主題自助餐（每週限定）**
 
@@ -135,13 +133,13 @@ _srcHash: a69d7192617ddcfb1da38688f90348db
 
 🎶 **Live DJ & 現場音樂表演**，增添氣氛
 
-🥂 **無限暢飲精選飲品**，由雞尾酒到果汁應有盡有
+🥂 **無限暢飲精選飲品**，由雞尾酒到果汁樣樣齊
 
-🔥 **現場烹飪攤位（Live Stall）**，體驗新鮮即製嘅美味
+🔥 **現場烹飪攤位（Live Stall）**，體驗即煮即食嘅美味
 
 👉 **建議提早預訂，確保最佳用餐體驗！**
 
-任食訂位專線: +62 811 39012 828⁣⁣
+任食訂位熱線: +62 811 39012 828⁣⁣
 
 ***
 
@@ -159,7 +157,7 @@ _srcHash: a69d7192617ddcfb1da38688f90348db
 
 無論係 \*\*_蜜月旅行_**、**_家庭度假_\*\*，定係 **朋友結伴同行**，呢度都係你唔可以錯過嘅夢幻度假勝地！✨
 
-> **USD$70起，**[請睇Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47017338)
+> **USD$70起，**[請睇Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47017338) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=114658134&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6xcTFJMEkdZiJo3PW5TdsQowGFr8FHRlA4EaNg2fr68AdcqYNDgE8EVMOPJ_Gnig9L07z9A0fhy5GVrDADMZr066ZbWQM2iHX-nqij8MORqYDjEwnGF8JLWB6BJQ5xcLM0cl0iWU3Y3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZRmamegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrYx-xMEXHfmJh-MXC0MTK0MXKzNHDNAlIvhLaxcoWYuIV5Bt1gfWbiJS8oYGBgamhsamprkGiZaKZgWGKromliZGZsa6hoYWFucb8eZ9PPTE2spaCBJ4Co5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNhMXE0c3gygbLmZPlyDB_B1KDjlWlvZSzCHhLoo2e4OmKfadttcCyRnC5ALXb_2-UstkgX3kPz7XRruJp-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAO7ydwi8CAAA&masterhotelid_tracelogid=100051355-0a9a601d-494263-11887&detailFilters=17|1~17~1*31|114658134~31~114658134*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1232&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/QlGba9Tm)
 
 ***
 
@@ -167,18 +165,17 @@ _srcHash: a69d7192617ddcfb1da38688f90348db
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f0eb3b2f52dbfd682153e687a5413648.jpg)
 
-酒店位置超正，行幾步就到金巴蘭海灘同埋附近嘅海鮮餐廳。酒店全新裝修，乾淨企理，工作人員亦都好友善，令人有賓至如歸嘅感覺。早餐每日轉款，第一晚仲貼心提供免費迎賓飲品，真係好有心！下次嚟峇里島，一定會再嚟！
+酒店位置超正，行路就可以去到金巴蘭海灘同埋周邊海鮮餐廳。酒店全新裝修，乾淨企理，工作人員亦都好友善，令人覺得賓至如歸。早餐每日轉款，第一晚仲貼心提供免費迎賓飲品，真係好用心！下次嚟峇里島，一定會再嚟！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c58c27c83278b991f9c4e360c95c7103.jpg)
 
-呢間新開嘅酒店真係令我驚艷！無論係設施、服務定係地點都相當完美——行出酒店就係金巴蘭沙灘，頂樓露台更加係欣賞日落嘅最佳地點。想租車都好方便，櫃檯人員會幫手聯絡車行，慳返唔少麻煩。早餐種類豐富，餐點美味，每日嘅體驗都好愉快，CP值真係超高！大力推薦！
+呢間新開嘅酒店令我眼前一亮！無論係設施、服務定係地點都相當完美——行出酒店就係金巴蘭沙灘，頂樓露台更加係睇日落嘅最佳地點。想租車都好方便，櫃檯人員會幫手聯絡車行，慳返唔少麻煩。早餐種類豐富，餐點好味，每一日嘅體驗都好愉快，CP 值真係超高！大力推薦！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b413de50a1ff59ee50146212e0153c77.jpg)
 
-酒店嘅地理位置真係冇得彈，頂樓露台嘅景觀無可挑剔，可以俯瞰成片金巴蘭沙灘，日頭同夜晚各有唔同嘅美感。不過，啱啱入住嘅房間有較濃嘅消毒水味，後來換咗房之後改善咗唔少。另外，因為臨海嘅關係，夜晚仍然會聽到一啲環境噪音（例如遠處嘅音樂聲或者野狗叫聲），對聲音較敏感嘅旅客可能需要準備耳塞。不過以呢個價錢嚟講，都係非常值得入住嘅選擇！
+酒店嘅地理位置真係冇得彈，頂樓露台嘅景觀無可挑剔，可以俯瞰成片金巴蘭沙灘，日頭同夜晚各有唔同嘅美感。不過，啱啱入住嘅房間有啲濃嘅消毒水味，後來換咗房之後改善咗唔少。另外，因為臨海嘅關係，夜晚仲係會聽到啲環境噪音（例如遠處嘅音樂聲或者野狗叫聲），對聲音比較敏感嘅旅客可能要準備耳塞。不過以呢個價錢嚟講，都係非常值得入住嘅選擇！
 
-> **USD$70起，**[請睇Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47017338)
-
+> **USD$70起，**[請睇 Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47017338) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=114658134&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6xcTFJMEkdZiJo3PW5TdsQowGFr8FHRlA4EaNg2fr68AdcqYNDgE8EVMOPJ_Gnig9L07z9A0fhy5GVrDADMZr066ZbWQM2iHX-nqij8MORqYDjEwnGF8JLWB6BJQ5xcLM0cl0iWU3Y3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZRmamegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrYx-xMEXHfmJh-MXC0MTK0MXKzNHDNAlIvhLaxcoWYuIV5Bt1gfWbiJS8oYGBgamhsamprkGiZaKZgWGKromliZGZsa6hoYWFucb8eZ9PPTE2spaCBJ4Co5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNhMXE0c3gygbLmZPlyDB_B1KDjlWlvZSzCHhLoo2e4OmKfadttcCyRnC5ALXb_2-UstkgX3kPz7XRruJp-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAO7ydwi8CAAA&masterhotelid_tracelogid=100051355-0a9a601d-494263-11887&detailFilters=17|1~17~1*31|114658134~31~114658134*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1232&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/QlGba9Tm)
 
 ## 更多金巴蘭吃喝玩樂介紹
 

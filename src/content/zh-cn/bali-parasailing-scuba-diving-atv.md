@@ -3,7 +3,6 @@ slug: bali-parasailing-scuba-diving-atv
 title: 巴厘岛上天下海：拖曳伞、海底漫步、泛舟、ATV...自由行行程与实用小贴士
 description: 六月下旬刚结束了一趟轻松愉快的巴厘岛自由行之旅，在这里跟大家分享一下我们的行程以及玩乐心得
 pubDate: '2024-07-26'
-update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_33deeaf280484ab1f7286957430f969e.jpg'
 tags:
   - 峇里島
@@ -15,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/668a76fdfd8978000194582a'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: fd39367683c39d8b3435a02f8b0b9e7f
+_srcHash: 70f7b587f3ec66eecba4a6f6d7305c2c
 ---
 
 > 以下内容由团友 [余孟苓](https://www.facebook.com/share/p/uzQHvjWncynX693F/?mibextid=A7sQZp) 提供
@@ -36,7 +35,7 @@ _srcHash: fd39367683c39d8b3435a02f8b0b9e7f
 
 我自己先排了大致的行程，再请欧ㄟ帮我顺一下。他也很贴心地给了一些行程上的建议。到达巴厘岛后整趟旅程的沟通也是非常顺畅，他不仅能听懂我们的闲聊，还能和我们说笑，这真是请中文司机的好处！他还帮我们解决了一些突发问题，例如改餐厅时间、临时想按摩、陪我们杀价等。以下是我们参考了很多[小杰印尼](https://www.youtube.com/@j_indonesia)在YouTube上的指南后，所订定的行程计划：
 
-所以，如果你们要带家人去巴厘岛，欢迎找欧诶喔！他的Line ID是：mangloco94。对了，他虽然会讲中文，但看不懂也不会打中文，所以一开始可以先用英文跟他打招呼。如果英文不好也可以直接打给他，他说可以用翻译软件来帮助沟通。
+所以，如果你们要带家人去巴厘岛，欢迎找欧ㄟ喔！他的Line ID是：mangloco94。对了，他虽然会讲中文，但看不懂也不会打中文，所以一开始可以先用英文跟他打招呼。如果英文不好也可以直接打给他，他说可以用翻译软件来帮助沟通。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_bc0d1457f9ad845aaff9a109114ba614.png)
 
@@ -46,7 +45,7 @@ _srcHash: fd39367683c39d8b3435a02f8b0b9e7f
 
 ### **饮料选择**
 
-在巴厘岛，非超商、大餐厅、连锁店的饮料最好不要随便尝试。这次旅行中，我们有朋友在一般小吃店喝了饮料，结果拉肚子拉了两天。虽然当地的饮料看起来很诱人，但为了避免旅行途中生病，还是选择安全可靠的饮料比较好。另外，可以随身携带一些治疗肠胃不适的药物，以备不时之需。
+在巴厘岛，非超市、大餐厅、连锁店的饮料最好不要随便尝试。这次旅行中，我们有朋友在一般小吃店喝了饮料，结果拉肚子拉了两天。虽然当地的饮料看起来很诱人，但为了避免旅行途中生病，还是选择安全可靠的饮料比较好。另外，可以随身携带一些治疗肠胃不适的药物，以备不时之需。
 
 > [巴厘岛旅行健康小贴士：巴厘岛的饮用水和腹泻指南](/blog/bali-travel-health-tips/)
 
@@ -66,9 +65,9 @@ _srcHash: fd39367683c39d8b3435a02f8b0b9e7f
 
 过个马路就到达库塔海滩，附近有热闹的夜生活。虽然这里并非最新的旅馆，但它的房间宽敞且干净，设施也十分齐全。工作人员友善热情，让人感到宾至如归。尤其是海鲜晚餐和乐队的现场表演，非常精彩，让我们度过了一些愉快的夜晚。我们在这里的住宿体验十分美好，性价比超高！
 
-**Grand Istana Rama Hotel:** [**Agoda订房**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685197&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F4-ykhc_YhBgNNO6zWfwWdDQGgeQ8B883gTvkWpmLHQJ4IqYceD6NPZE35Nj-8wyODoUMIJBQ6NDImAYCZbkOXYysYDUzGHtfam5k7D_0VSOm389hByPTCcYO7gVMrxbNZjrFwswxh-kSy1em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbINTYz0DAyAIiWJFZ4pYJ3JiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLshilhYYk5pKsQJQAvdUqF2GNbqYLr82Zzep90zX2zaTZzLzantcgNiXG5cG_uIhSk69gXLfbZPLAy_gFHRydXEytDFyswxj3ESkOzg3sXKFuIa5W5ieoG1Q1xKwdDAwMDI1NTIXNcg0TLRyCTVQNfE0sTI3EDXwsAAyNA4e-3LtSfGRtZSkKhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZmaeFqZhJlw8Xs6RIk-EHv-fZ2a0t7KeaQcBdFe9l-yRU9p-21QHKGMLnAPa9zTtgbL7CPPN7w5uu7_tP2SaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMBGJ7oZwMDAAA&masterhotelid_tracelogid=100025527-0a9a24e0-494270-800942&detailFilters=17|1~17~1*31|685197~31~685197*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1596&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q1KxlNcJ)
+**Grand Istana Rama Hotel:** [**Agoda订房**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512)
 
-[**Agoda订房**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685197&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F4-ykhc_YhBgNNO6zWfwWdDQGgeQ8B883gTvkWpmLHQJ4IqYceD6NPZE35Nj-8wyODoUMIJBQ6NDImAYCZbkOXYysYDUzGHtfam5k7D_0VSOm389hByPTCcYO7gVMrxbNZjrFwswxh-kSy1em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbINTYz0DAyAIiWJFZ4pYJ3JiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLshilhYYk5pKsQJQAvdUqF2GNbqYLr82Zzep90zX2zaTZzLzantcgNiXG5cG_uIhSk69gXLfbZPLAy_gFHRydXEytDFyswxj3ESkOzg3sXKFuIa5W5ieoG1Q1xKwdDAwMDI1NTIXNcg0TLRyCTVQNfE0sTI3EDXwsAAyNA4e-3LtSfGRtZSkKhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZmaeFqZhJlw8Xs6RIk-EHv-fZ2a0t7KeaQcBdFe9l-yRU9p-21QHKGMLnAPa9zTtgbL7CPPN7w5uu7_tP2SaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMBGJ7oZwMDAAA&masterhotelid_tracelogid=100025527-0a9a24e0-494270-800942&detailFilters=17|1~17~1*31|685197~31~685197*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1596&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q1KxlNcJ)
+[**Agoda订房**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512)
 
 ### **换钱**
 

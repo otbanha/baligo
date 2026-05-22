@@ -14,9 +14,8 @@ originalUrl: 'https://vocus.cc/article/663da7ddfd89780001d83821'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: efa4b32d7483e2eaced017e2e360367b
+_srcHash: d1f840b2cda67470b081784ad5137e60
 ---
-
 有部分人對於辦理印尼/峇里島旅遊所需嘅簽證可能感到困惑，唔知應該從何開始，甚至無從入手。特別係對於第一次自助旅行嘅人嚟講，辦理電子簽證可能顯得複雜而陌生。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_082327d58c16280d93d97286908a1644.jpg)
@@ -35,7 +34,7 @@ _srcHash: efa4b32d7483e2eaced017e2e360367b
 
 喺完成表格填寫後，攻城君演示咗如何進行支付，並提醒觀眾要準備好信用卡。佢指出支付過程嘅簡便性，並強調咗喺指定時間內完成支付嘅重要性。
 
-由於攻城君嘅影片只可以喺YouTube播放，需要詳細一步一步教學嘅朋友[請按呢度觀看](https://www.youtube.com/watch?v=j1VOvlR9vbo)。
+由於攻城君嘅視頻只能喺YouTube播放，需要詳細一步一步教學嘅朋友[請按呢度觀看](https://www.youtube.com/watch?v=j1VOvlR9vbo)。
 
 若果你仲有任何申請上嘅疑難雜症，可以參考呢度: [2024最新版印尼/峇里島入境簽證&電子簽證eVoA 填寫相關 FAQ](/blog/indonesia-bali-visa-evoa-faq/)
 

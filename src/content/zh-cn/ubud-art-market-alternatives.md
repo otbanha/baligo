@@ -16,7 +16,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-cn
-_srcHash: 56e2533627f5e2418812d2703a743101
+_srcHash: 03f15bbbd7c6eea43f6debb1c510f864
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_90c38ac72764dbb29c604f9b35b3f960.jpg)
@@ -45,9 +45,9 @@ _srcHash: 56e2533627f5e2418812d2703a743101
 
 ![50種深入認識烏布的方式｜探索烏布的魅力](https://images.gobaligo.id/vocus/vocus_80395bdba038994228a52ece28779e07.jpg)
 
-[50种深入认识乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
+[50种深入了解乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
 
-乌布就要这样玩：[50种深入认识乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
+乌布就要这样玩：[50种深入了解乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
 
 ## 注册加入我们的博客
 

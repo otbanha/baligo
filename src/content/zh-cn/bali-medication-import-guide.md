@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65f4f94ffd897800016b340a'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 2a859a63dc9b1efd7727e57948a73038
+_srcHash: f6771f7069cff893128c9ae3f0c28a07
 ---
 
 近日，一名来自澳洲的女模在巴厘岛入境时遭遇了麻烦，她因携带的药物在印尼被视为禁药而被拘留长达4天，并接受了长达14小时的审问。这起事件提醒了前往印尼旅游的人们，特别是携带特殊药物的旅客，必须格外小心。

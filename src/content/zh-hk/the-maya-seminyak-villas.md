@@ -30,7 +30,7 @@ agoda_star_rating: 4
 latitude: -8.683812
 longitude: 115.15951
 lang: zh-hk
-_srcHash: 025267f68c50baa09f12b96d63a31025
+_srcHash: af4e78f4f5bdc6373ad49b7c56390602
 ---
 如果你去峇里島旅遊，想住私人泳池 Villa 但唔想跑到偏僻嘅地方，The Maya Seminyak Villas（又叫 Maya Sayang Seminyak）係個好值得考慮嘅選項。就藏喺 Seminyak 最熱鬧嘅 Eat Street（Kayu Aya 街）旁邊，行路幾分鐘就到餐廳同購物商場，但入咗 Villa 大門又即刻靜落嚟，完全唔似身處市中心。整個物業只有11間 Villa，規模細，私密感好強。
 
@@ -40,9 +40,9 @@ _srcHash: 025267f68c50baa09f12b96d63a31025
 
 ## 📍 位置與周邊環境
 
-地址喺 Jl. Mertasari No. 1，位於 Seminyak 嘅 Laksmana 區，緊鄰知名意大利餐廳 Ultimo 旁邊嘅小巷內。行出大門，左右就係 Seminyak 嘅餐廳密集地帶。Seminyak Square 購物中心行路五分鐘，La Lucciola、Ku De Ta 呢類海景餐廳都喺步行範圍內。
+地址喺 Jl. Mertasari No. 1，位於 Seminyak 嘅 Laksmana 區，緊鄰知名意大利餐廳 Ultimo 旁邊嘅小巷內。行出大門，左右就係 Seminyak 嘅餐廳密集地帶。Seminyak Square 購物中心行路五分鐘，La Lucciola、Ku De Ta 呢類海景餐廳都喺行路範圍內。
 
-海灘方面，Seminyak Beach 行路大約20分鐘，距離算中等，唔係嗰種出門就到嘅程度，但亦唔需要叫車。
+海灘方面，Seminyak Beach 行路大約20分鐘，距離算中等，唔係嗰種出門就到嘅程度，但亦都唔需要叫車。
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776238213668-b8c519e3606601c53285a3622679d3aa.jpg)
 
@@ -52,7 +52,7 @@ _srcHash: 025267f68c50baa09f12b96d63a31025
 
 ## 🏨 設施介紹
 
-整個物業嘅入口係傳統巴里風嘅 Angkul-Angkul 木雕大門，入去之後係一條被竹林同熱帶植物夾道嘅小路，同外面街道嘅喧嘩感完全唔同，切換得好快。
+整個物業嘅入口係傳統巴里風嘅 Angkul-Angkul 木雕大門，入去之後係一條被竹林同熱帶植物夾道嘅小路，同外面街道嘅喧嘩感完全唔同，切換好快。
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776238253051-62383025b5be5b788f2617facd1f0d2a.webp)
 
@@ -116,21 +116,21 @@ _srcHash: 025267f68c50baa09f12b96d63a31025
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776238624322-64709e287b8d56dddafe30ae2b15597d.webp)
 
-建築風格偏向傳統峇里島茅草屋頂同木雕裝飾，開放式嘅起居室直接對住泳池，內外相連嘅格局令空氣流通。臥室有冷氣，附有蚊帳大床；浴室設計係半戶外形式，有浸泡浴缸同獨立淋浴間。廚房有雪櫃、微波爐同爐頭，長住嘅旅客自己煮飯都得。
+建築風格偏向傳統峇里島茅草屋頂同木雕裝飾，開放式嘅起居室直接對住泳池，內外相連嘅格局令空氣流通。臥室有冷氣，附蚊帳大床；浴室設計係半戶外形式，有浸泡浴缸同獨立淋浴間。廚房有雪櫃、微波爐同爐頭，長住嘅旅客自己煮飯都得。
 
-老實講，裝潢係傳統峇里島風，唔係嗰種現代感十足嘅網紅設計款，部分傢俬同設備有啲歷史，有啲細節睇得出老化痕跡。如果你追求嘅係現代極簡設計風格，呢度可能唔符合你嘅期望。但如果你鍾意嘅係有質感嘅傳統峇里島 Villa 氛圍，呢個風格反而有種獨特味道。
+老實講，裝潢係傳統峇里島風，唔係嗰種現代感十足嘅網美設計款，部分傢俬同設備有啲舊，有啲細節睇得出老化痕跡。如果你追求嘅係現代極簡設計風格，呢度可能唔符合你嘅期望。但如果你鍾意嘅係有質感嘅傳統峇里島 Villa 氛圍，呢個風格反而有種獨特味道。
 
 ***
 
 ## 👥 適合族群
 
-最推薦**情侶蜜月旅行**，私人泳池加花園加安靜環境，加上酒店對求婚等特別安排配合度好高（有住客評論提到，另一半要求喺泳池鋪玫瑰花，服務人員唔只做到，仲加碼佈置咗成條走道嘅花朵愛心圖案）。**家庭旅行**都好適合，空間大、有廚房、三房 Villa 對一班人一齊住非常抵。至於追求現代設計感、或者習慣大型度假村設施嘅旅客，可能要多考慮一下。
+最推薦**情侶蜜月旅遊**，私人泳池加花園加安靜環境，加上酒店對求婚等特別安排配合度好高（有住客評論提到，另一半要求喺泳池鋪玫瑰花，服務人員唔只做到咗，仲加碼布置咗成條走道嘅花朵愛心圖案）。**家庭旅遊**都好適合，空間大、有廚房、三房 Villa 對一班人一齊住非常抵。至於追求現代設計感、或者習慣大型度假村設施嘅旅客，可能要考慮多啲。
 
 ***
 
 ## 💬 住客真實評論
 
-一位曾經多次回訪嘅住客分享，一房 Villa 面積好大，私人泳池嘅體驗相當好，早餐按時送到 Villa 門口，餐廳菜式豐富，工作人員態度友善專業，整體以呢個價位嚟講相當值得。
+一位曾經多次回訪嘅住客分享，一房 Villa 面積非常大，私人泳池嘅體驗相當好，早餐按時送到 Villa 門口，餐廳菜色豐富，工作人員態度友善專業，整體以呢個價位嚟講相當值得。
 
 另一位 Tripadvisor 住客提到，成個 Villa 非常安靜，雖然緊鄰繁忙嘅 Eat Street，但喺入面完全感受唔到出面嘅喧嘩，私人泳池成日都有適量嘅遮蔭，夜晚仲有 Turndown Service 點好蚊香、掛好蚊帳，呢種細心服務令佢印象深刻。
 
@@ -138,7 +138,7 @@ _srcHash: 025267f68c50baa09f12b96d63a31025
 
 ## ⚠️ 缺點老實講
 
-幾個實際缺點要講清楚。第一，Villa 整體有啲歷史，部分衛浴設備偏舊，戶外廚房同半開放衛浴區域難免有蚊蟲，雖然會提供蚊香，但介意呢點嘅旅客要有心理準備。第二，起居室係開放式設計冇冷氣，峇里島熱季嘅中午喺入面確實會悶熱，只能靠風扇。第三，部分 Villa 位置較靠近鄰近嘅餐廳同酒吧，夜晚可能有人聲同音樂傳入，入住前可以要求安排較安靜嘅 Villa。
+幾個實際缺點要講清楚。第一，Villa 整體有啲舊，部分衛浴設備偏舊，戶外廚房同半開放衛浴區域難免有蚊蟲，雖然會提供蚊香，但介意呢點嘅旅客要有心理準備。第二，起居室係開放式設計冇冷氣，峇里島熱季嘅中午喺入面確實會悶熱，只能靠風扇。第三，部分 Villa 位置較靠近鄰近嘅餐廳同酒吧，夜晚可能有人聲同音樂傳入，入住前可以要求安排較安靜嘅 Villa。
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776238746826-1e92b642c66eb69ff9555a704c386388.webp)
 
@@ -147,6 +147,6 @@ _srcHash: 025267f68c50baa09f12b96d63a31025
 ## 📌 訂房資訊
 
 > 評分：入選「Agoda Preferred」Agoda 住客評分 8.5⭐ | Tripadvisor #34（393間住宿中）
-> [👉 ](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=59330108)點呢度睇 最新房價同空房： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=59330108) ｜ [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685535&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-M6wcTFJMEkdZCJ4_Tst_-ZhJgNDYw0jrIYPGC02Crv-E0jpv_Qzh4HT67riwtsMyc6BPDMYLz_WnMjY7XIOveHSRkOOxiZTjA-vb6ecQFT15VXjKdYWDimP5S7xLKXMbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUwNjS1NLPQMDoGBJYoVnClhzcmJOcmlOYklqSGUB0BAjHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSwIMroIys_Mz4PoNkARC0vMKU2FqATa55YKtcKwNvYRC1N07AuWoyyfWBh-sTA0sTJ0sTJMYmXlAHl1FyuvkaVvWJilrmGIbpSu4QXWVyuOMkopGxoYGJgaGpua6hokWlqkWZiZ65pYmhgaGOpaGBkbGZmaGxhqPHlwa-sjYyMTBUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYGhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWwuzi6GxhZRNlzMocEugou2mP84pCLtIMXs6RKkWPeApaM2wdJeC8QzhPECmd5d2vbnBa99JEwkibUqQzckPKNDrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCDIWAPU5LaUxAgAA&masterhotelid_tracelogid=100051355-0a98f867-494101-823225701&detailFilters=17|1~17~1*31|685535~31~685535*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1488&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16944692)
+> [👉 ](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=59330108)點此查看 最新房價與空房： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=59330108) ｜ [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685535&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-M6wcTFJMEkdZCJ4_Tst_-ZhJgNDYw0jrIYPGC02Crv-E0jpv_Qzh4HT67riwtsMyc6BPDMYLz_WnMjY7XIOneHSRkOOxiZTjA-vb6ecQFT15VXjKdYWDimP5S7xLKXMbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUwNjS1NLPQMDoGBJYoVnClhzcmJOcmlOYklqSGUB0BAjHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSwIMroIys_Mz4PoNkARC0vMKU2FqATa55YKtcKwNvYRC1N07AuWoyyfWBh-sTA0sTJ0sTJMYmXlAHl1FyuvkaVvWJilrmGIbpSu4QXWVyuOMkopGxoYGJgaGpua6hokWlqkWZiZ65pYmhgaGOpaGBkbGZmaGxhqPHlwa-sjYyMTBUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWwuzi6GxhZRNlzMocEugou2mP84pCLtIMXs6RKkWPeApaM2wdJeC8QzhPECmd5d2vbnBa99JEwkibUqQzckPKNDrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCDIWAPU5LaUxAgAA&masterhotelid_tracelogid=100051355-0a98f867-494101-823225701&detailFilters=17|1~17~1*31|685535~31~685535*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1488&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16944692)
 
 {{block:smk}}

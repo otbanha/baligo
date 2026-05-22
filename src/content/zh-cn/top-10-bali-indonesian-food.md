@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/681ed810fd89780001472eb1'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 39fa7a0e87ff367a07d7fb27838e7e0b
+_srcHash: 199a9bbe2c8bfe9f51ba0821c6bf5e11
 ---
 
 **「在巴厘岛，每一口食物都是香料交响乐！」**
@@ -42,7 +42,7 @@ _srcHash: 39fa7a0e87ff367a07d7fb27838e7e0b
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ba61bd1cca025325f216cead628b0be6.jpg)
 
-巴厘岛的「自助餐」概念！自选白/红/黄米饭，搭配数十种小菜：辣炒蛋、咖喱鱼头、甜酱炖鸡、炸天贝（Tempeh）等，每家Warung（小吃摊）都有独门组合。**必配 Sambal 辣椒酱**，敢吃辣记得挑战「Sambal Matah」生辣椒酱！
+巴厘岛的「自助餐」概念！自选白/红/黄米饭，搭配数十种小菜：辣炒蛋、咖喱鱼头、甜酱炖鸡、炸天贝（Tempeh）等，每间Warung（小吃摊）都有独门组合。**必配 Sambal 辣椒酱**，敢吃辣记得挑战「Sambal Matah」生辣椒酱！
 
 ### 2. **Babi Guling（烤乳猪）**
 
@@ -163,7 +163,7 @@ _srcHash: 39fa7a0e87ff367a07d7fb27838e7e0b
 
 **1️⃣ 面条种类**：
 
-- - 常见黄面，或用类似泡面Indomie
+- - 常见黄面，或用类似泡面 Indomie
   - 高级餐厅可能手打新鲜面条
   - 也有宽/细米粉版本
 
@@ -210,7 +210,7 @@ _srcHash: 39fa7a0e87ff367a07d7fb27838e7e0b
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4627aa4329d41d2364576f0df857fb02.jpg)
 
-当巴厘岛的热带暴雨突然来袭，或是你被辛辣料理刺激到需要缓和时，一碗冒着热气的**Sop Buntut**就是上天赐予的救赎！这道源自爪哇宫廷的浓郁汤品，完美融合了「炭烤香、香料魂、胶质甜」，连骨头都能吸出骨髓精华～
+当巴厘岛的热带暴雨突然来袭，或是你被辛辣料理刺激到需要缓和时，一碗冒着蒸气的**Sop Buntut**就是上天赐予的救赎！这道源自爪哇宫廷的浓郁汤品，完美融合了「炭烤香、香料魂、胶质甜」，连骨头都能吸出骨髓精华～
 
 **🔥 为什么这碗汤与众不同？**
 
@@ -299,7 +299,7 @@ _srcHash: 39fa7a0e87ff367a07d7fb27838e7e0b
 - [乌鲁瓦图美食攻略](/blog/uluwatu-guide/)
 - [沙努尔美食](/blog/sanur-guide/)[攻略](/blog/sanur-guide/)
 - [努沙杜瓦美食攻略](/blog/nusa-dua-guide/)
-- [北部 Lovina 美食推荐](/blog/north-bali-travel-guide/)
+- [北部罗威那美食推荐](/blog/north-bali-travel-guide/)
 - [佩尼达岛美食攻略](/blog/nusa-penida-best-restaurants/)
 - [蓝梦岛/金银岛美食攻略](/blog/nusa-lembongan-restaurants/)
 - [科莫多岛美食攻略](/blog/komodo-island-labuan-bajo-travel/)

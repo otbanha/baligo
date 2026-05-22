@@ -1,11 +1,11 @@
 ---
 slug: tegenungan-waterfall-ubud-guide
 title: >-
-  峇里島遊記｜你所唔知嘅印尼峇里島瀑布秘密！｜烏布景點老司機帶路 賞瀑布免鐵腿｜離烏布最近嘅瀑布 Tegenungan Waterfall（繁/簡/Eng
+  峇里島遊記｜你所不知道嘅印尼峇里島瀑布秘密！｜烏布景點老司機帶路 賞瀑布免鐵腿｜離烏布最近嘅瀑布 Tegenungan Waterfall（繁/簡/Eng
   Sub）
 description: >-
   峇里島烏布景點 Tegenungan Waterfall
-  係距離烏布市區最近嘅天然瀑布，雖然只要25分鐘車程，但係陡峭嘅160級階梯令好多人都大喊頂唔順，旅程連續鐵腿幾日。我哋帶你去觀賞Tegenungan瀑布最佳嘅位置，保證最輕鬆欣賞到最美嘅瀑布景觀！
+  係距離烏布市區最近嘅天然瀑布，雖然只要25分鐘車程，但係陡峭嘅160級階梯令好多人都大喊頂唔順，旅程連續鐵腿幾日。我哋帶你去觀賞Tegenungan瀑布最佳嘅點，保證最輕鬆欣賞到最美嘅瀑布景觀！
 pubDate: '2020-10-21'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_56a7a4560e19b8b4b213571f288cfdff.jpg'
 tags:
@@ -18,21 +18,22 @@ originalUrl: 'https://vocus.cc/article/64db6b71fd897800013a942c'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: adc1a772232d8fa54d5d63697dcd68a8
+_srcHash: a9174bc6da542ff0451fcb00647613bd
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_58deb853e5219dd7c4a2a06f4c88a79f.jpg)
 
-峇里島烏布景點 Tegenungan Waterfall 係距離烏布市區最近嘅天然瀑布，雖然只要25分鐘車程，但係陡峭嘅160級階梯令好多人都大喊頂唔順，旅程連續鐵腿幾日。我哋帶你去觀賞Tegenungan瀑布最佳嘅位置，保證最輕鬆欣賞到最美嘅瀑布景觀！
+峇里島烏布景點 Tegenungan Waterfall 係距離烏布市區最近嘅天然瀑布，雖然只要25分鐘車程，但係陡峭嘅160級階梯令好多人都大喊頂唔順，旅程連續鐵腿幾日。我哋帶你去觀賞Tegenungan瀑布最佳嘅點，保證最輕鬆欣賞到最美嘅瀑布景觀！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_853581166b88f30517fe98257f29d396.jpg)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1a2df74d4a69179ac863494fea4f869d.jpg)
 
-喺烏布嘅青山綠水中，有一個令人嘆為觀止嘅瑰寶，就係Tegenungan Waterfall。呢個位於烏布附近嘅瀑布，成為咗探索烏布自然美景嘅最佳起點。
+喺烏布嘅青山綠水中，有一個令人嘆為觀止嘅瑰寶，就係Tegenungan Waterfall。呢個位於烏布附近嘅瀑布，成咗探索烏布自然美景嘅最佳起點。
 
 遠眺住瀑布，一股清新嘅氣息撲面而來，耳邊傳來水流嘅聲音，彷彿置身於大自然嘅懷抱。Tegenungan Waterfall宛如天際中嘅銀線，水流從高處湧落而下，喺陽光嘅映照下泛起閃爍嘅水花。
 
 喺呢個觀景餐廳，可以一覽無遺地欣賞到成個瀑布風景，感受到大自然嘅偉大同宏偉。
 
 而家，我邀請您觀睇下方嘅影片，一同沉浸喺我喺Tegenungan Waterfall嘅探索之旅。呢個影片會帶您進入呢片仙境，讓您感受我喺瀑布前嘅驚艷時刻。
+__VID0__

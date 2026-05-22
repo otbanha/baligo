@@ -1,6 +1,6 @@
 ---
 slug: bali-belly-medicine-guide
-title: Bali Belly 巴厘岛腹泻/肠胃炎/脏水病如何自救?Bali Belly 缓解成药攻略
+title: Bali Belly 巴厘岛腹泻/肠胃炎/脏水病如何自救?Bali Belly 缓解药品攻略
 description: "\U0001F48A 巴厘岛当地药局可购药品清单 (针对Bali Belly)"
 pubDate: 2026-01-02T00:00:00.000Z
 category:
@@ -14,12 +14,12 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_eef45058d1c6971ff4946e72428f3b65.png'
 originalUrl: 'https://vocus.cc/article/69523427fd89780001caa652'
 lang: zh-cn
-_srcHash: 009984aba511124867aee4fc8b3e2e4b
+_srcHash: c1f42659f0bc66b1e9feadbe1366a25a
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4d4eba54aefdb7fa2355dfd2cba7bd0b.png)
 
-抵达巴厘岛后，最怕的不是晒黑，而是突如其来的 **Bali Belly（巴厘岛腹泻）**。无论是因为饮食水土不服、细菌感染，还是肠胃比较敏感，症状一来真的会把旅程搞得灰头土脸。这篇文章就帮大家整理一份「在巴厘岛药局就买得到的自救清单」，从补水、止泻、退烧到何时该就医，一次搞定，遇到状况也不会慌！
+抵达巴厘岛后，最怕的不是晒黑，而是突如其来的 **Bali Belly（巴厘岛腹泻）**。无论是因饮食水土不服、细菌感染，还是肠胃比较敏感，症状一来真的会把旅程搞得灰头土脸。这篇文章就帮大家整理一份「在巴厘岛药局就买得到的自救清单」，从补水、止泻、退烧到何时该就医，一次搞定，遇到状况也不会慌！
 
 ## Bali Belly 预防胜于治疗
 
@@ -109,7 +109,7 @@ https://youtu.be/GivvqCXp11A
 
 · 寻找可靠药房：可以优先寻找连锁药房，如Guardian、Kimia Farma、Watsons，这些地方药品来源正规。
 
-· **沟通备用词句：如果语言不通，可以尝试向药剂师出示以下短句：**
+· **沟通备用语句：如果语言不通，可以尝试向药剂师出示以下短句：**
 
 > ·“Oralit untuk diare.” (口服补液盐用于腹泻。)
 
