@@ -17,16 +17,16 @@ database_id = "680c2cb9-e863-4f43-85e9-7435df71fcdf"
 # Also add ADMIN_SECRET as an encrypted Environment Variable in Cloudflare Pages settings.
 [[kv_namespaces]]
 binding = "UNFURL_CACHE"
-id = "REPLACE_WITH_UNFURL_CACHE_NAMESPACE_ID"
+id = "d81c40a2f4b34cd9b5637d32895419ac"
 
 [[kv_namespaces]]
 binding = "UNFURL_RATELIMIT"
-id = "REPLACE_WITH_UNFURL_RATELIMIT_NAMESPACE_ID"
+id = "5f24da964d4e4cb58df2075fa59a1983"
 
 [[kv_namespaces]]
 binding = "UNFURL_RECENT"
-id = "REPLACE_WITH_UNFURL_RECENT_NAMESPACE_ID"
+id = "d79eecb1f54b401e8b2fe24baba8d191"
 
 [[kv_namespaces]]
 binding = "UNFURL_BLOCKLIST"
-id = "REPLACE_WITH_UNFURL_BLOCKLIST_NAMESPACE_ID"
+id = "bfb657d42bcc49eeb6576e1cf05a5c00"
