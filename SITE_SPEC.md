@@ -80,9 +80,9 @@ Article slug 語言中立（所有語言版本共用同一 slug）。
 
 | 路徑 | 說明 | 資料流向 |
 |------|------|----------|
-| `/tools/unfurl` | 社群連結預覽工具 | `POST /api/unfurl` |
+| `/share` | 社群連結預覽工具 | `POST /api/unfurl` |
 
-`/tools/unfurl` 只做 zh-TW，不加語言前綴，不出現在其他語言的 sitemap / navigation。
+`/share` 只做 zh-TW，不加語言前綴，不出現在其他語言的 sitemap / navigation。
 頁面帶 `<meta name="robots" content="noindex,nofollow">`。
 
 ### Unfurl Tool KV Bindings（Cloudflare Pages 設定）
@@ -111,7 +111,7 @@ Article slug 語言中立（所有語言版本共用同一 slug）。
 | 英文 index            | `src/pages/en/blog/index.astro`              |
 | 繁體中文文章          | `src/pages/blog/[...slug].astro`             |
 | 全域樣式              | `src/styles/global.css`                      |
-| 社群連結預覽工具      | `src/pages/tools/unfurl.astro`               |
+| 社群連結預覽工具      | `src/pages/share.astro`                      |
 | Unfurl API 主入口     | `functions/api/unfurl.js`                    |
 | Admin 登入            | `functions/api/admin/login.js`               |
 | Admin 狀態確認        | `functions/api/admin/check.js`               |
