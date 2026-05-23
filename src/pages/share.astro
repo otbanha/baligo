@@ -15,6 +15,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
   <head>
     <BaseHead title={title} description={description} noSuffix={false} image="https://images.gobaligo.id/images/2026-05/1779530264006-bali-feed-og.jpg" />
     <meta name="robots" content="noindex,nofollow" />
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
     <style>
       /* ── Layout ── */
       .unfurl-page {
@@ -285,6 +286,80 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         word-break: break-all;
       }
 
+      /* ── Top-viewed section ── */
+      .top-section { margin-bottom: 1.8rem; }
+      .top-section h2 { font-size: 1rem; font-weight: 700; color: #333; margin: 0 0 0.8rem; }
+      .top-grid {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 0.6rem;
+      }
+      .top-card {
+        border: 1px solid #e5e5e5;
+        border-radius: 10px;
+        overflow: hidden;
+        background: #fff;
+        position: relative;
+        transition: box-shadow 0.15s;
+        cursor: pointer;
+        text-decoration: none;
+        display: block;
+        color: inherit;
+      }
+      .top-card:hover { box-shadow: 0 3px 12px rgba(0,0,0,.12); }
+      .top-thumb {
+        width: 100%;
+        aspect-ratio: 4 / 5;
+        object-fit: cover;
+        object-position: center;
+        display: block;
+        background: #f0f0f0;
+      }
+      .top-thumb-placeholder {
+        width: 100%;
+        aspect-ratio: 4 / 5;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 2rem;
+        background: #f5f5f5;
+      }
+      .top-info { padding: 0.5rem 0.6rem; }
+      .top-platform-tag { font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.2rem; }
+      .top-title { font-size: 0.8rem; color: #222; font-weight: 600; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+      /* Rank badges */
+      .rank-badge {
+        position: absolute;
+        top: 0.4rem;
+        right: 0.4rem;
+        font-size: 0.7rem;
+        font-weight: 800;
+        padding: 0.15rem 0.45rem;
+        border-radius: 20px;
+        line-height: 1.4;
+        letter-spacing: 0.02em;
+        pointer-events: none;
+      }
+      .rank-1 { background: #FFD700; color: #7a5300; font-size: 0.78rem; }
+      .rank-2 { background: #C0C0C0; color: #444; }
+      .rank-3 { background: #CD7F32; color: #fff; }
+      .rank-other { background: rgba(0,0,0,0.45); color: #fff; }
+
+      /* Hot badge on recent cards */
+      .hot-badge {
+        position: absolute;
+        top: 0.4rem;
+        left: 0.4rem;
+        font-size: 0.68rem;
+        font-weight: 700;
+        padding: 0.1rem 0.4rem;
+        border-radius: 20px;
+        background: rgba(220,30,30,0.85);
+        color: #fff;
+        pointer-events: none;
+      }
+
       /* ── Recent feed ── */
       .recent-section { margin-top: 2.5rem; }
       .recent-section h2 {
@@ -367,11 +442,13 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
 
       @media (max-width: 640px) {
         .recent-grid { grid-template-columns: repeat(2, 1fr); gap: 0.4rem; }
+        .top-grid    { grid-template-columns: repeat(2, 1fr); gap: 0.4rem; }
         .input-row { flex-direction: column; }
         .submit-btn { width: 100%; }
       }
-      @media (min-width: 641px) and (max-width: 900px) {
+      @media (min-width: 641px) and (max-width: 1024px) {
         .recent-grid { grid-template-columns: repeat(4, 1fr); }
+        .top-grid    { grid-template-columns: repeat(3, 1fr); }
       }
     </style>
   </head>
@@ -399,6 +476,12 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         <span class="platform-badge badge-tk">♪ TikTok</span>
       </div>
 
+      <!-- 🔥 Top-viewed block (injected by JS) -->
+      <div class="top-section" id="top-section" style="display:none">
+        <h2>🔥 本週最多人看過</h2>
+        <div class="top-grid" id="top-grid"></div>
+      </div>
+
       <form id="unfurl-form" autocomplete="off">
         <div class="input-row">
           <input
@@ -410,6 +493,12 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           />
           <button type="submit" class="submit-btn" id="submit-btn">一鍵加入</button>
         </div>
+        <!-- Cloudflare Turnstile invisible widget -->
+        <div class="cf-turnstile"
+             data-sitekey="0x4AAAAAADU9JhnzFqYcqdn0"
+             data-callback="onTurnstileSuccess"
+             data-size="invisible"
+             style="display:none"></div>
       </form>
 
       <div id="result-area"></div>
@@ -428,8 +517,15 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       const resultArea = document.getElementById('result-area');
       const recentSection = document.getElementById('recent-section');
       const recentGrid = document.getElementById('recent-grid');
+      const topSection = document.getElementById('top-section');
+      const topGrid = document.getElementById('top-grid');
 
       let isAdminUser = false;
+      let turnstileToken = '';          // set by Turnstile callback
+      let hotRankMap = new Map();       // id → rank (1-10)
+
+      // ── Turnstile callback (global, called by CF script) ──
+      window.onTurnstileSuccess = function(token) { turnstileToken = token; };
 
       // Platform display config
       const PLATFORM_LABELS = {
@@ -439,6 +535,8 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         facebook:  { label: 'f Facebook',  cls: 'tag-facebook' },
         tiktok:    { label: '♪ TikTok',    cls: 'tag-tiktok' },
       };
+
+      const PLAT_ICON = { youtube: '▶', threads: '◉', instagram: '◈', tiktok: '♪' };
 
       const ERROR_FRIENDLY = {
         BLOCKED_BY_PLATFORM: (url) => `
@@ -450,7 +548,44 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           <div class="error-code">UNAVAILABLE</div>
           <p>這個網址不在本工具的服務範圍內。</p>
         `,
+        BOT_DETECTED: () => `
+          <div class="error-code">BOT_DETECTED</div>
+          <p>驗證失敗，請重新整理頁面再試。</p>
+        `,
       };
+
+      // ── Escape HTML ──
+      function esc(str) {
+        if (!str) return '';
+        return String(str)
+          .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+      }
+
+      // ── Rank badge HTML ──
+      function rankBadgeHtml(rank) {
+        if (rank === 1) return `<span class="rank-badge rank-1">🥇 #1</span>`;
+        if (rank === 2) return `<span class="rank-badge rank-2">🥈 #2</span>`;
+        if (rank === 3) return `<span class="rank-badge rank-3">🥉 #3</span>`;
+        return `<span class="rank-badge rank-other">#${rank}</span>`;
+      }
+
+      // ── Hot badge HTML ──
+      function hotBadgeHtml(rank) {
+        if (rank === 1) return `<span class="hot-badge">🔥 #1 本週最熱</span>`;
+        if (rank <= 3)  return `<span class="hot-badge">🔥 本週熱門</span>`;
+        return `<span class="hot-badge">🔥</span>`;
+      }
+
+      // ── Track click via sendBeacon ──
+      function trackView(id) {
+        if (!id) return;
+        if (navigator.sendBeacon) {
+          navigator.sendBeacon('/api/track',
+            new Blob([JSON.stringify({ id })], { type: 'application/json' })
+          );
+        }
+      }
 
       // ── Admin check ──
       async function checkAdmin() {
@@ -495,7 +630,6 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           </div>` : '';
 
         const titleSection = d.title ? `<h2 class="card-title">${esc(d.title)}</h2>` : '';
-
         const needsExpand = d.description && d.description.length > 200;
         const descSection = d.description ? `
           <p class="card-desc${needsExpand ? ' collapsed' : ''}" id="card-desc">${esc(d.description)}</p>
@@ -507,10 +641,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           <img class="card-thumbnail" src="${esc(thumb.url)}" alt="" loading="lazy" onerror="this.style.display='none'">
         ` : '';
 
-        const embedBtn = d.embedHtml ? `
-          <button class="embed-toggle" id="embed-toggle">顯示原生嵌入</button>
-        ` : '';
-
+        const embedBtn = d.embedHtml ? `<button class="embed-toggle" id="embed-toggle">顯示原生嵌入</button>` : '';
         const cachedBadge = data.cached ? `<span class="cached-badge">快取</span>` : '';
         const deleteBtn = `<button class="delete-btn" id="card-delete-btn" title="移除（管理員）" style="${isAdminUser ? '' : 'display:none'}">🗑</button>`;
 
@@ -519,39 +650,26 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         card.innerHTML = `
           <div class="card-header">
             <span class="card-platform ${plat.cls}">${plat.label}</span>
-            <div class="card-actions">
-              ${cachedBadge}
-              ${embedBtn}
-              ${deleteBtn}
-            </div>
+            <div class="card-actions">${cachedBadge}${embedBtn}${deleteBtn}</div>
           </div>
           <div class="card-body">
-            ${authorSection}
-            ${titleSection}
-            ${descSection}
-            ${thumbSection}
+            ${authorSection}${titleSection}${descSection}${thumbSection}
             <a class="source-link" href="${esc(d.sourceUrl || rawUrl)}" target="_blank" rel="noopener noreferrer">前往原文 →</a>
             ${d.embedHtml ? `<div class="embed-wrap" id="embed-wrap" style="display:none"></div>` : ''}
           </div>
         `;
 
-        // Expand button
         card.querySelector('#expand-btn')?.addEventListener('click', () => {
-          const desc = card.querySelector('#card-desc');
-          const btn = card.querySelector('#expand-btn');
-          desc.classList.remove('collapsed');
-          btn.remove();
+          card.querySelector('#card-desc').classList.remove('collapsed');
+          card.querySelector('#expand-btn').remove();
         });
 
-        // Embed toggle
         const embedToggle = card.querySelector('#embed-toggle');
         const embedWrap = card.querySelector('#embed-wrap');
         if (embedToggle && embedWrap && d.embedHtml) {
           embedToggle.addEventListener('click', () => {
             if (embedWrap.style.display === 'none') {
-              // Sanitize: only allow known platform iframes
-              const safe = d.embedHtml.replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '');
-              embedWrap.innerHTML = safe;
+              embedWrap.innerHTML = d.embedHtml.replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '');
               embedWrap.style.display = '';
               embedToggle.textContent = '隱藏嵌入';
             } else {
@@ -562,17 +680,12 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           });
         }
 
-        // Delete button (admin only)
         const delBtn = card.querySelector('#card-delete-btn');
         if (delBtn) {
           delBtn.addEventListener('click', async () => {
-            // Find item in recent feed by sourceUrl to get its id
             const items = Array.from(recentGrid.querySelectorAll('[data-id]'));
             const match = items.find(el => el.dataset.url === (d.sourceUrl || rawUrl));
-            if (!match) {
-              alert('找不到此貼文在最近清單中');
-              return;
-            }
+            if (!match) { alert('找不到此貼文在最近清單中'); return; }
             await deleteRecentItem(match.dataset.id, match);
           });
         }
@@ -587,18 +700,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         const inner = customRenderer
           ? customRenderer(rawUrl)
           : `<div class="error-code">${code}</div><p>${esc(err.message || '發生未知錯誤')}</p>`;
-
         resultArea.innerHTML = `<div class="error-box">${inner}</div>`;
-      }
-
-      // ── Escape HTML ──
-      function esc(str) {
-        if (!str) return '';
-        return String(str)
-          .replace(/&/g, '&amp;')
-          .replace(/</g, '&lt;')
-          .replace(/>/g, '&gt;')
-          .replace(/"/g, '&quot;');
       }
 
       // ── Submit ──
@@ -621,15 +723,16 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           const res = await fetch('/api/unfurl', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ url: rawUrl }),
+            body: JSON.stringify({ url: rawUrl, turnstileToken }),
           });
           clearTimeout(timeout);
+          // Reset token so next submit gets a fresh one from Turnstile auto-renew
+          turnstileToken = '';
 
           const data = await res.json();
           if (data.ok) {
             resultArea.innerHTML = '';
             resultArea.appendChild(renderCard(data, rawUrl));
-            // Refresh recent feed
             loadRecent();
           } else {
             renderError(data, rawUrl);
@@ -643,16 +746,58 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }
       });
 
-      // Auto-paste from clipboard if supported
+      // Auto-submit on paste
       urlInput.addEventListener('paste', () => {
-        // Allow input value to update before checking
         setTimeout(() => {
           if (urlInput.value.trim().startsWith('http')) {
-            // Auto-submit after paste
             form.dispatchEvent(new Event('submit', { cancelable: true }));
           }
         }, 50);
       });
+
+      // ── Top-viewed ──
+      async function loadTopViewed() {
+        try {
+          const res = await fetch('/api/top-viewed');
+          const data = await res.json();
+          const items = data.items || [];
+          if (items.length === 0) { topSection.style.display = 'none'; return; }
+
+          // Build rank map for recent card badges
+          hotRankMap = new Map(items.map((item, i) => [item.id, i + 1]));
+
+          topSection.style.display = '';
+          topGrid.innerHTML = '';
+          items.forEach((item, i) => topGrid.appendChild(buildTopCard(item, i + 1)));
+        } catch {
+          topSection.style.display = 'none';
+        }
+      }
+
+      function buildTopCard(item, rank) {
+        const plat = PLATFORM_LABELS[item.platform] || { label: item.platform, cls: '' };
+        const card = document.createElement('a');
+        card.className = 'top-card';
+        card.href = item.sourceUrl || '#';
+        card.target = '_blank';
+        card.rel = 'noopener noreferrer';
+        card.dataset.id = item.id;
+
+        card.innerHTML = `
+          ${item.thumbnail
+            ? `<img class="top-thumb" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="this.style.display='none'">`
+            : `<div class="top-thumb-placeholder">${PLAT_ICON[item.platform] ?? 'f'}</div>`
+          }
+          ${rankBadgeHtml(rank)}
+          <div class="top-info">
+            <div class="top-platform-tag ${plat.cls}">${plat.label}</div>
+            <div class="top-title">${esc(item.title || item.authorName || '無標題')}</div>
+          </div>
+        `;
+
+        card.addEventListener('click', () => trackView(item.id));
+        return card;
+      }
 
       // ── Recent feed ──
       async function loadRecent() {
@@ -664,13 +809,10 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
 
           recentSection.style.display = '';
           recentGrid.innerHTML = '';
-          items.forEach(item => {
-            recentGrid.appendChild(buildRecentCard(item));
-          });
+          items.forEach(item => recentGrid.appendChild(buildRecentCard(item)));
+
           if (isAdminUser) {
-            recentGrid.querySelectorAll('.recent-delete-btn').forEach(btn => {
-              btn.style.display = '';
-            });
+            recentGrid.querySelectorAll('.recent-delete-btn').forEach(btn => { btn.style.display = ''; });
           }
         } catch {
           recentSection.style.display = 'none';
@@ -679,6 +821,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
 
       function buildRecentCard(item) {
         const plat = PLATFORM_LABELS[item.platform] || { label: item.platform, cls: '' };
+        const rank = hotRankMap.get(item.id);
         const card = document.createElement('a');
         card.className = 'recent-card';
         card.href = item.sourceUrl || '#';
@@ -690,8 +833,9 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         card.innerHTML = `
           ${item.thumbnail
             ? `<img class="recent-thumb" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="this.style.display='none'">`
-            : `<div class="recent-thumb-placeholder">${{ youtube: '▶', threads: '◉', instagram: '◈', tiktok: '♪' }[item.platform] ?? 'f'}</div>`
+            : `<div class="recent-thumb-placeholder">${PLAT_ICON[item.platform] ?? 'f'}</div>`
           }
+          ${rank ? hotBadgeHtml(rank) : ''}
           <div class="recent-info">
             <div class="recent-platform-tag ${plat.cls}">${plat.label}</div>
             <div class="recent-title">${esc(item.title || item.authorName || '無標題')}</div>
@@ -700,7 +844,8 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           <button class="recent-delete-btn" title="移除（管理員）" style="display:none">🗑</button>
         `;
 
-        // Stop link navigation when delete clicked
+        card.addEventListener('click', () => trackView(item.id));
+
         const delBtn = card.querySelector('.recent-delete-btn');
         if (delBtn) {
           delBtn.addEventListener('click', async (e) => {
@@ -733,9 +878,9 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }
       }
 
-      // Initialize
+      // Initialize（top-viewed first so hotRankMap is ready before loadRecent）
       checkAdmin();
-      loadRecent();
+      loadTopViewed().then(() => loadRecent());
     </script>
   </body>
 </html>
