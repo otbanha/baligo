@@ -577,9 +577,14 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         return `<span class="hot-badge">🔥</span>`;
       }
 
-      // ── Track click via sendBeacon ──
+      // ── Track click via sendBeacon（localStorage dedup）──
       function trackView(id) {
         if (!id) return;
+        const lsKey = `viewed:${id}`;
+        try {
+          if (localStorage.getItem(lsKey)) return; // 已計過，跳過
+          localStorage.setItem(lsKey, '1');
+        } catch {}
         if (navigator.sendBeacon) {
           navigator.sendBeacon('/api/track',
             new Blob([JSON.stringify({ id })], { type: 'application/json' })
