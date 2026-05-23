@@ -309,6 +309,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .top-card:hover { box-shadow: 0 3px 12px rgba(0,0,0,.12); }
       .top-thumb {
         width: 100%;
+        height: unset;
         aspect-ratio: 4 / 5;
         object-fit: cover;
         object-position: center;
@@ -384,6 +385,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .recent-card:hover { box-shadow: 0 3px 12px rgba(0,0,0,.10); }
       .recent-thumb {
         width: 100%;
+        height: unset;
         aspect-ratio: 4 / 5;
         object-fit: cover;
         object-position: center;
@@ -494,6 +496,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           height="300"
           loading="eager"
           fetchpriority="high"
+          style="display:block;width:600px;max-width:100%;height:auto"
         />
       </h1>
       <p class="page-subtitle">看到精彩的峇里島影片或貼文？貼上連結一鍵生成預覽，也會出現在下方「最新加入」讓更多人看到。自己拍的、別人的都歡迎 🏝️</p>
