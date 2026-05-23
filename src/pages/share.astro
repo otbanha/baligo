@@ -23,14 +23,21 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         padding: 1.5rem 1rem 4rem;
       }
       .unfurl-page h1 {
-        font-size: 1.5rem;
         margin: 0 0 0.3rem;
-        color: #1a1a1a;
+        line-height: 1;
+      }
+      .unfurl-page h1 img {
+        display: block;
+        width: 100%;
+        max-width: 400px;
+        height: auto;
       }
       .page-subtitle {
         color: #666;
         font-size: 0.9rem;
         margin: 0 0 1.6rem;
+        max-width: 560px;
+        line-height: 1.65;
       }
 
       /* ── Platform badges ── */
@@ -371,8 +378,17 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
     <Header basePath="tools/unfurl" />
     <TopStrip lang="zh-tw" />
     <main class="unfurl-page">
-      <h1>社群連結預覽</h1>
-      <p class="page-subtitle">貼上社群媒體連結，即時解析貼文資訊</p>
+      <h1>
+        <img
+          src="/images/bali-feeds.svg"
+          alt="Bali Feeds 峇里島分享牆"
+          width="1200"
+          height="300"
+          loading="eager"
+          fetchpriority="high"
+        />
+      </h1>
+      <p class="page-subtitle">看到精彩的峇里島影片或貼文？貼上連結一鍵生成預覽，也會出現在下方「最近解析」讓更多人看到。自己拍的、別人的都歡迎 🏝️</p>
 
       <div class="platform-list">
         <span class="platform-badge badge-yt">▶ YouTube</span>
