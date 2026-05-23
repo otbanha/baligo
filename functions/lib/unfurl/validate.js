@@ -50,6 +50,13 @@ export function detectPlatform(urlStr) {
   if (host === 'fb.watch') {
     return { platform: 'facebook' };
   }
+  if (host === 'tiktok.com') {
+    if (/^\/@[\w.]+\/video\/\d+/.test(path)) return { platform: 'tiktok' };
+    return { error: 'UNSUPPORTED_PLATFORM' };
+  }
+  if (host === 'vm.tiktok.com' || host === 'vt.tiktok.com') {
+    return { platform: 'tiktok' };
+  }
 
   return { error: 'UNSUPPORTED_PLATFORM' };
 }

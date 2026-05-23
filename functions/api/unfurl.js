@@ -5,6 +5,7 @@ import { handleYouTube } from '../lib/unfurl/youtube.js';
 import { handleThreads } from '../lib/unfurl/threads.js';
 import { handleInstagram } from '../lib/unfurl/instagram.js';
 import { handleFacebook } from '../lib/unfurl/facebook.js';
+import { handleTikTok } from '../lib/unfurl/tiktok.js';
 
 const CORS = {
   'Access-Control-Allow-Origin': '*',
@@ -14,7 +15,7 @@ const CORS = {
 
 const ERROR_MESSAGES = {
   INVALID_URL: '請輸入有效的網址',
-  UNSUPPORTED_PLATFORM: '目前只支援 YouTube、Threads、Instagram、Facebook',
+  UNSUPPORTED_PLATFORM: '目前只支援 YouTube、Threads、Instagram、Facebook、TikTok',
   BLOCKED_BY_PLATFORM: '平台限制，無法抓取此貼文',
   BLOCKED_BY_ADMIN: '這個網址不在本工具的服務範圍內',
   NOT_FOUND: '找不到這篇貼文，可能已被刪除或設為私人',
@@ -138,6 +139,7 @@ export async function onRequest(context) {
       case 'threads':  result = await handleThreads(normalizedUrl);  break;
       case 'instagram': result = await handleInstagram(normalizedUrl); break;
       case 'facebook': result = await handleFacebook(normalizedUrl); break;
+      case 'tiktok':   result = await handleTikTok(normalizedUrl);   break;
       default: return errorResponse('UNSUPPORTED_PLATFORM');
     }
   } catch (e) {

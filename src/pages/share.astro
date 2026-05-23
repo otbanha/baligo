@@ -53,6 +53,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .badge-th   { background: #e8e8e8; color: #111; }
       .badge-ig   { background: #fce4ff; color: #a100c8; }
       .badge-fb   { background: #e8f0ff; color: #1877f2; }
+      .badge-tk   { background: #e8f9ff; color: #010101; }
 
       /* ── Input ── */
       .input-row {
@@ -221,10 +222,11 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .embed-wrap iframe { width: 100%; border: none; border-radius: 8px; }
 
       /* Platform accent colors */
-      .platform-youtube .card-header { border-left: 4px solid #ff0000; }
-      .platform-threads .card-header  { border-left: 4px solid #000; }
+      .platform-youtube .card-header   { border-left: 4px solid #ff0000; }
+      .platform-threads .card-header   { border-left: 4px solid #000; }
       .platform-instagram .card-header { border-left: 4px solid #c13584; }
       .platform-facebook .card-header  { border-left: 4px solid #1877f2; }
+      .platform-tiktok .card-header    { border-left: 4px solid #010101; }
 
       /* ── Skeleton ── */
       .skeleton { animation: shimmer 1.4s infinite linear; }
@@ -326,6 +328,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .tag-threads   { color: #111; }
       .tag-instagram { color: #c13584; }
       .tag-facebook  { color: #1877f2; }
+      .tag-tiktok    { color: #010101; }
       .recent-title {
         font-size: 0.82rem;
         color: #222;
@@ -376,6 +379,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         <span class="platform-badge badge-th">◉ Threads</span>
         <span class="platform-badge badge-ig">◈ Instagram</span>
         <span class="platform-badge badge-fb">f Facebook</span>
+        <span class="platform-badge badge-tk">♪ TikTok</span>
       </div>
 
       <form id="unfurl-form" autocomplete="off">
@@ -387,7 +391,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
             placeholder="https://www.youtube.com/watch?v=..."
             inputmode="url"
           />
-          <button type="submit" class="submit-btn" id="submit-btn">解析</button>
+          <button type="submit" class="submit-btn" id="submit-btn">一鍵加入</button>
         </div>
       </form>
 
@@ -416,6 +420,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         threads:   { label: '◉ Threads',   cls: 'tag-threads' },
         instagram: { label: '◈ Instagram', cls: 'tag-instagram' },
         facebook:  { label: 'f Facebook',  cls: 'tag-facebook' },
+        tiktok:    { label: '♪ TikTok',    cls: 'tag-tiktok' },
       };
 
       const ERROR_FRIENDLY = {
@@ -586,13 +591,13 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         if (!rawUrl) return;
 
         submitBtn.disabled = true;
-        submitBtn.textContent = '解析中…';
+        submitBtn.textContent = '加入中…';
         showSkeleton();
 
         const timeout = setTimeout(() => {
           resultArea.innerHTML = `<div class="error-box"><div class="error-code">TIMEOUT</div><p>連線逾時，請稍後再試。</p></div>`;
           submitBtn.disabled = false;
-          submitBtn.textContent = '解析';
+          submitBtn.textContent = '一鍵加入';
         }, 12000);
 
         try {
@@ -617,7 +622,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           renderError({ error: 'INTERNAL_ERROR', message: '系統錯誤，請稍後再試' }, rawUrl);
         } finally {
           submitBtn.disabled = false;
-          submitBtn.textContent = '解析';
+          submitBtn.textContent = '一鍵加入';
         }
       });
 
@@ -668,7 +673,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         card.innerHTML = `
           ${item.thumbnail
             ? `<img class="recent-thumb" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="this.style.display='none'">`
-            : `<div class="recent-thumb-placeholder">${item.platform === 'youtube' ? '▶' : item.platform === 'threads' ? '◉' : item.platform === 'instagram' ? '◈' : 'f'}</div>`
+            : `<div class="recent-thumb-placeholder">${{ youtube: '▶', threads: '◉', instagram: '◈', tiktok: '♪' }[item.platform] ?? 'f'}</div>`
           }
           <div class="recent-info">
             <div class="recent-platform-tag ${plat.cls}">${plat.label}</div>
