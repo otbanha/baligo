@@ -295,8 +295,8 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       }
       .recent-grid {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 0.8rem;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 0.6rem;
       }
       .recent-card {
         border: 1px solid #e5e5e5;
@@ -309,14 +309,15 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .recent-card:hover { box-shadow: 0 3px 12px rgba(0,0,0,.10); }
       .recent-thumb {
         width: 100%;
-        height: 110px;
+        aspect-ratio: 9 / 16;
         object-fit: cover;
+        object-position: center;
         display: block;
         background: #f0f0f0;
       }
       .recent-thumb-placeholder {
         width: 100%;
-        height: 110px;
+        aspect-ratio: 9 / 16;
         display: flex;
         align-items: center;
         justify-content: center;
@@ -365,12 +366,12 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .recent-delete-btn:hover { color: #e53; }
 
       @media (max-width: 640px) {
-        .recent-grid { grid-template-columns: 1fr; }
+        .recent-grid { grid-template-columns: repeat(2, 1fr); gap: 0.4rem; }
         .input-row { flex-direction: column; }
         .submit-btn { width: 100%; }
       }
       @media (min-width: 641px) and (max-width: 900px) {
-        .recent-grid { grid-template-columns: repeat(2, 1fr); }
+        .recent-grid { grid-template-columns: repeat(3, 1fr); }
       }
     </style>
   </head>
