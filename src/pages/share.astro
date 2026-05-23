@@ -64,10 +64,25 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .badge-tk   { background: #e8f9ff; color: #010101; }
 
       /* ── Input ── */
+      .input-box {
+        background: #f8f4ef;
+        border: 2px solid #e2c98a;
+        border-radius: 16px;
+        padding: 1.2rem 1.4rem;
+        margin-bottom: 1.6rem;
+        box-shadow: 0 4px 18px rgba(197,160,89,.13);
+      }
+      .input-box-label {
+        font-size: 0.82rem;
+        font-weight: 700;
+        color: #9a7a2e;
+        letter-spacing: 0.04em;
+        margin-bottom: 0.6rem;
+      }
       .input-row {
         display: flex;
         gap: 0.5rem;
-        margin-bottom: 1.2rem;
+        margin-bottom: 0;
       }
       .url-input {
         flex: 1;
@@ -516,15 +531,18 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       </div>
 
       <form id="unfurl-form" autocomplete="off">
-        <div class="input-row">
-          <input
-            id="url-input"
-            class="url-input"
-            type="url"
-            placeholder="https://www.youtube.com/watch?v=..."
-            inputmode="url"
-          />
-          <button type="submit" class="submit-btn" id="submit-btn">一鍵加入</button>
+        <div class="input-box">
+          <div class="input-box-label">📎 貼上連結，一鍵加入分享牆</div>
+          <div class="input-row">
+            <input
+              id="url-input"
+              class="url-input"
+              type="url"
+              placeholder="https://www.youtube.com/watch?v=..."
+              inputmode="url"
+            />
+            <button type="submit" class="submit-btn" id="submit-btn">一鍵加入</button>
+          </div>
         </div>
         <!-- Cloudflare Turnstile invisible widget -->
         <div class="cf-turnstile"
