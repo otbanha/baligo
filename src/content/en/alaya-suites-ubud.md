@@ -25,6 +25,7 @@ tags:
   - 峇里島避世度假飯店
   - 烏布質感住宿懶人包
   - Alaya Suites Ubud 交通與位置
+update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/images/2026-04/1777471939705-alaya.png'
 originalUrl: ''
 private: false
@@ -36,7 +37,7 @@ agoda_star_rating: 5
 latitude: -8.522534
 longitude: 115.26313
 lang: en
-_srcHash: fbe45d2b88236518042a2c66ebf07e8a
+_srcHash: 340cf6ad31ac5980e82c9edbce6a095c
 ---
 
 Alaya Suites Ubud is the **newest addition** to Alaya Hotels & Resorts, currently the latest member of the group. Located in the Pengosekan area, it offers a quieter and more private atmosphere compared to the group's flagship Alaya Resort. The design blends modern elements with Balinese cultural touches, featuring 45 suites and 6 one-bedroom villas. The property exudes understated luxury—not the flashy tropical resort type, but the kind of place that makes you want to slow down. **Now is the perfect time to experience this new property before the crowds arrive.**
@@ -144,6 +145,6 @@ Another review meticulously listed the names of the service team—restaurant st
 ### 📌 Booking Information
 
 > ⭐ Agoda Rating 9.1｜Tripadvisor 5⭐ Full Marks|
-> [Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=76588180)
+> [Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=76588180) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=130201816&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJY-u0n4vZhBgNLH4LOvYf-qoRs2-qgyeY4TTDIYAnYsqB59PYE72qm_V9jgQ6FDKAQMNsh0ZGzRigqv9THboYWcFqZjDe-Nhlt5ERrEIhxWEHI9MBRqYTjGstFjBt_txld4qFmeMN6yWW3YzR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJubWOgZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrI19xMIUHfuJheEX0DNv7ZtYGbpYmTlOMU0CkmstdrGyBYVGRvpFXWB9UiWlYmhgYGBqaGxqqmuQaJmYYmRkoGtiaWJsYK5raGlsZG5sbmxoqnH61bPpT42NrKUggajAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdDZ2djcNcqGi9nTJUjw3n-WXG1lS3sp5pBwF8WVN5nXHphw2l4LJGcIkwu0-CLG_95ygX0kTD6JtSpDNyQ8o1e8gLGBkamLkVuA0YMxgrECyGNcxciwgZFxB-N_GGB8xQgyHQC1aCLtSgIAAA&masterhotelid_tracelogid=100051355-0a9ad220-494307-1932737315&detailFilters=17|1~17~1*31|130201816~31~130201816*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=930&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/frHafpgn)
 
 {{block:ubud}}

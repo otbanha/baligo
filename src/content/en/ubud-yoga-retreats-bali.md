@@ -34,11 +34,11 @@ tags:
   - Ubud jungle view boutique villa
   - Luxury yoga retreat boutique Ubud
   - Ubud eco friendly boutique accommodation
-update: 2026/05/22
+update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e3d6b1a238b2a132511ebd9395fda710.jpg'
 originalUrl: 'https://vocus.cc/article/67451f5afd89780001f002f2'
 lang: en
-_srcHash: 5928559db3c8e7db950529c66b793480
+_srcHash: ba87e638547f439023a3e62dcf809bec
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7c732b073f5ce52b19b42925c798cc9d.jpg)
@@ -247,7 +247,7 @@ This spiritual retreat is nestled beside the Campuhan River, offering yoga and h
 
 👉 **Distance to Attractions:** 2-minute drive to Ubud Palace
 
-> ▶[**Book Adiwana Svarga Loka**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=625273)
+> ▶[**Book Adiwana Svarga Loka**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=625273) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1047296&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGF48ayL2uYhRgNLH4LOsq3vg7ckVXi4DlrJhD0VjoE8ERMOfB8Gnuig4F7__3Lbg6FDCAQUOHQyHj2DBA8KXboYmQFq5nB2PDNfiPjm8Adcq3dIQ47GJkOMDKdYHzPt4Bp5y_rUyzMHP-YLrF8ZYquVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DSUM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBTEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLKvkBjSmCCmTm50G0G6KIhSXmlKZCnAC00C0VaodhrQ6my5_N6X3aPfPFpt3Eudyc2i43IMblxrWxj1iYomM_sTD8AkZDN18TK0MXKzPHFcZJQPI93y5WNpNQCxdfrwus5-SklA0NDAxMDY1NTXUNEi0TDZPNLHRNLE2MDSx1DQ3Mjc3NDI0MNW5OfjTzqbGRtRQk7hUYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWwA1GBoZGVka65lYpJkVW-QVW-RmRXgwBrEZGBg7uhhG2XAxe7oECd77z5KrrWxpL8UcEu6iuPIm89oDE07ba4HkDGFygRZfxPjfWy6wj4TJJ7FWZeiGhGf0ihcwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDAGgU2qUBAwAA&masterhotelid_tracelogid=100051355-0a9a1c68-494309-107376121&detailFilters=17|1~17~1*31|1047296~31~1047296*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/CxgIu9Kj)
 
 ## 10. **Honai Resort**
 

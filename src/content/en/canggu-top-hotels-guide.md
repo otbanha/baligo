@@ -22,11 +22,11 @@ tags:
   - '#canggu住宿推薦'
   - '#cangguvilla'
   - '#cangguvilla推薦'
-update: 2026/05/22
+update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777896573960-canggu_stay.png'
 originalUrl: 'https://vocus.cc/article/651b8da8fd89780001974847'
 lang: en
-_srcHash: be4c980b18613d53a21c7195d379ce56
+_srcHash: feefed3802461249d138d9307d41bd42
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)
@@ -77,7 +77,7 @@ Located in Canggu Batu Bolong, Bali, Hotel Tugu Bali is a charming resort destin
 
 Situated in the Canggu area of Bali, Eastin Ashta Resort Canggu is an impressive modern resort that offers a range of excellent accommodations and facilities, particularly catering to families, ensuring a memorable vacation experience. Proudly selected as a 2023 Tripadvisor Travellers' Choice, this resort comes highly recommended by past guests!
 
-> ▶[Agoda Special Price](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=5263211)
+> ▶[Agoda Special Price](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=5263211) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=22155082&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxcLFJMEkNZmF49-eY3vYhBgNLH4LOtpyXV9cUFvq4Nl_6KtGzPMqhwCeiCkHnk9jT5wdte2aOLOHQyEDCCQ0OTQyFoJUG9Q7dDGygtXMYDw17wTXRkaPh1Ui65aHOuxgZDrAyHSC8Tr_AqZnTZMtT7Ewc0xivsTylSm6Wik7tVLJykRHqSSzJCdVyUrp6aJ5Txv2PF_RqqSjlJJanAwUArISc_NL80qAbCMDQz0DA6BISWKFZwpYZ3JiTnJpTmJJakhlAdAEMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRbogiFpaYU5oKcQLQQrdUqB2GtTqYLn82p_dp98wXm3YT53JzarvcgBiXG9fGPmJhio79xMLwCxgNy0WbWBm6WJk57jNOApLX-XexskUGegYaelxgvasmJW9oYGBgamhsaqprkGiZmGJkZKBrYmlibGCpa2ppbmCksXn6i1lPjY2spSAxr8CoJRgf4unpYlhSmGpWWGqZU1RgasB4ilHK0NzYwtDI0NDIyMjSWM_EIs2s2CKv2CI3K8KDMYjNxcXS2ckkyoaL2dMlSPDef5ZcbWVLeynmkHAXxZU3mdcemHDaXgskZwiTC7T4Isb_3nKBfSRMPom1KkM3JDyjV7yAsYGRqYuRW4DRgzGCsQLIY1zFyLCBkXEH438YYHzFCDIdAKGYDsT_AgAA&masterhotelid_tracelogid=100051355-0a9ad220-494309-59702&detailFilters=17|1~17~1*31|22155082~31~22155082*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1288&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/YkbegL2I)
 
 ## 4. La Reserve 1785 Canggu Beach
 
@@ -85,7 +85,7 @@ Situated in the Canggu area of Bali, Eastin Ashta Resort Canggu is an impressive
 
 La Reserve 1785 Canggu Beach, a brand-new resort that opened in 2022, is located in the Canggu area of Bali. This impressive accommodation option quickly became a focal point in the local tourism scene, celebrated for its unique style, luxurious facilities, and unparalleled scenic beauty.
 
-> ▶[Agoda Discount](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=31967047)
+> ▶[Agoda Discount](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=31967047) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=88966535&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqY-FikmCSamfh2Pp78Tw2IUYjgxucFh3JjvKtrwN3FC508FxSYMt1PX2pQwBPxJQDz6exJ3pVN-v7HAl06GJkBQvMYGzv3qa1gpFxI6NmTP-hrxvqHXYwMh1gZDrBuDl5AdOe5VdtT7Ewc2wSusTynSm6Wik7tVLJykRHqSSzJCdVyUrp2Zzep90zX2zaraSjlJJanAwUArISc_NL80qAbENDc3M9AwOgUElihWeKkpW5jlJyYk5yaU5iSWpIZQHQCDMdpcxi55KizIKg1NzMkpJUoKq0xJziVJB4UGoxUCYZLKjkBzSmCCqQmZ8H0W6AIhaWmFOaCnED0EK3VKgdxrU6mE5_umje04Y9z1e0Eul0E2o73ZAYpxvWxj5iYYqO_cTC8IuFoYmVoYuVmeMU0yQguTl5FytHkF-gS5STruEF1r-pUvKGBgYGpobGpqa6BomWiSlGRga6JpYmxgaWumZGxoamGreev5v11NjIWgoS-wqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYzN0MTd0Momy4mEODXQQLgWlssYG0gxRzSLiL4sqbzGsPTDhtr8Xs6RJkeO8_S662sqV9oMUXMf73lgvsI2HySaxVGboh4Rm94gWMDYxMXYzcAowejBGMFUAe4ypGhg2MjDsY_8MA4ytGkOkATEGAifMCAAA&masterhotelid_tracelogid=100051355-0a9ad220-494309-62315&detailFilters=17|1~17~1*31|88966535~31~88966535*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=320&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/OHcaPq2W)
 
 ## 5. ZIN Canggu Resort & Villas
 

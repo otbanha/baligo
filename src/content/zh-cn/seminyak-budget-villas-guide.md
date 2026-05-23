@@ -15,11 +15,11 @@ tags:
   - '#水明漾攻略'
   - '#巴里島水明漾villa'
   - '#水明漾平價villa'
-update: 2026/05/22
+update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_16c256b70aee5f839bf1ed7952ac49bb.jpg'
 originalUrl: 'https://vocus.cc/article/66ee9770fd89780001306753'
 lang: zh-cn
-_srcHash: 86b5bb70c076418515697495b2324e8f
+_srcHash: 28de9fb03672d48692aef4dd4c55ca46
 ---
 
 # 水明漾好评的平价别墅
@@ -278,7 +278,7 @@ Pandawa Villas Seminyak 是一个位于水明漾 Nakula 区的现代别墅，距
 * **评价**: 这里的别墅设计和细节都非常棒，特别是泳池的开放式屋顶设计让人可以一览天空。地点也很方便，步行10分钟即可到达主干道。别墅提供小惊喜，如自制餐点的选择，非常适合懒散度过一天的时光。
 * **价格**: 单卧室泳池别墅每晚约81美元起
 
-> **▶**[**查看Agoda优惠价**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=26894483)
+> **▶**[**查看Agoda优惠价**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=26894483) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=123505340&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLRMTDEyMtA1sTQxNrDUNTIAQo13HY2znhobGWgJxod4eroYlhSmmhWWWuYUFZieYpQyNDe2MDQyNDQyMrI01jOxSDMrtsgrtsjNivBgDGJzNTJycnKO4pNiDgl3UVx5k3ntgQmn7ZNYqzJ0Q8IzesUBv-jmdoIAAAA&masterhotelid_tracelogid=100051355-0a9ad220-494309-20202&detailFilters=17|1~17~1*31|123505340~31~123505340*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=910&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/jvbWZFVm)
 
 ## **9.Amadea Resort & Villas Seminyak Bali**
 

@@ -7,6 +7,7 @@ description: >-
   In 2025, Bali welcomes a brand-new four-star luxury hotel—voco Bali
   Seminyak—offering travelers a fresh vacation option.
 pubDate: '2025-01-30'
+update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_10e16e936bdbadbff3705947cda37041.jpg'
 tags:
   - vocobali
@@ -23,7 +24,7 @@ agoda_star_rating: 4
 latitude: -8.68145751953125
 longitude: 115.16397857666016
 lang: en
-_srcHash: 580ddac1360672bb862f442d69613431
+_srcHash: fd1a7cd491bc2ea6464bb71c5b9777f2
 ---
 
 ## A New Luxury Experience: voco Bali Seminyak
@@ -71,7 +72,7 @@ Since entering the Indonesian market in 1995, IHG has successfully operated 25 h
 
 The opening of voco Bali Seminyak injects new vitality into Bali's tourism industry, offering travelers a luxurious yet eco-friendly accommodation option. Whether for vacation or business travel, this hotel has become an ideal choice for guests. For those planning to visit Bali, voco Bali Seminyak is undoubtedly a stay worth experiencing.
 
-**▶**[**Book voco Bali Seminyak here**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=51062976)
+**▶**[**Book voco Bali Seminyak here**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=51062976) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=117172932&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqZOFikmCSamLhmLT9yVQ2IUYjAwmLyUKOtlzXFxf4Vjl4yre-Dtxxrd4hgKeQAQQOhDk0Msb0H_qqwRPuMIPxyNX35isYGTcygpTJqYY57GBkOsF4QGgB05Lzx8xOsTBzzGa-xPKNKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsQ0szPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxAtBCt1SoHYa1Opguf7K3_-m6VpwuNzI0RXG5scUAOT32EQtTdOwnFoZfwHhYzNzEytDFyjCJlZnjgNAuVp4gExcfY09dQ90oXcMLrI9FpeQNDQwMTA2NTU11DRItLVJNLC11TSxNjA0sdM1NTAyNNFa9ODTzqbGRtRTrlAPPp7ErMGoJxod4eroYlhSmmhWWWuYUFZgaMJ5ilDI0N7YwNDI0NDIysjTWM7FIMyu2yCu2yM2K8GAMYjNxMzcxN4uy4WIODXYRLAQlNQNpBynmkHAXxZU3mdcemHDaXovZ0yXI8N5_llxtZUv7QIsvYvzvLRfYR8Lkk1irMnRDwjN6xQsYGxiZuhi5BRg9GCMYK4A8xlWM7FzMBkaGAkwbGBl3MP6HAcZXjCBLAOVdQeb1AgAA&masterhotelid_tracelogid=100051355-0a98e499-494308-74412&detailFilters=17|1~17~1*31|117172932~31~117172932*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1782&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/zlP4bvjP)
 
 ## More Seminyak Dining and Entertainment Recommendations
 

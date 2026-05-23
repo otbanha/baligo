@@ -20,6 +20,7 @@ tags:
   - 峇里島避世度假飯店
   - 烏布質感住宿懶人包
   - Alaya Suites Ubud 交通與位置
+update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/images/2026-04/1777471939705-alaya.png'
 originalUrl: ''
 private: false
@@ -31,7 +32,7 @@ agoda_star_rating: 5
 latitude: -8.522534
 longitude: 115.26313
 lang: zh-cn
-_srcHash: fbe45d2b88236518042a2c66ebf07e8a
+_srcHash: 340cf6ad31ac5980e82c9edbce6a095c
 ---
 
 Alaya Suites Ubud 是 Alaya Hotels & Resorts 旗下**最新开业**的项目，目前是整个集团最新的成员。坐落于 Pengosekan 区，定位比集团旗下老牌的 Alaya Resort 更安静、更私密。整体设计融合现代感与巴厘岛文化元素，提供 45 间套房与 6 间一卧室 Villa，整栋走的是低调奢华路线——不是那种金碧辉煌的热带度假村，而是让人住进去就想放慢脚步的那种地方。**想抢在人潮涌入前体验全新项目，现在正是时机。**
@@ -139,6 +140,6 @@ Spa 部分沿用 Alaya 集团的招牌品牌 DaLa Spa，设有 6 间疗愈室，
 ### 📌 订房信息
 
 > ⭐ Agoda 评价9.1｜Tripadvisor 5⭐ 满分|
-> [订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=76588180)
+> [订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=76588180) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=130201816&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJY-u0n4vZhBgNLH4LOvYf-qoRs2-qgyeY4TTDIYAnYsqB59PYE72qm_V9jgQ6FDKAQMNsh0ZGzRigqv9THboYWcFqZjDe-Nhlt5ERrEIhxWEHI9MBRqYTjGstFjBt_txld4qFmeMN6yWW3YzR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJubWOgZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrI19xMIUHfuJheEX0DNv7ZtYGbpYmTlOMU0CkmstdrGyBYVGRvpFXWB9UiWlYmhgYGBqaGxqqmuQaJmYYmRkoGtiaWJsYK5raGlsZG5sbmxoqnH61bPpT42NrKUggajAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdDZ2djcNcqGi9nTJUjw3n-WXG1lS3sp5pBwF8WVN5nXHphw2l4LJGcIkwu0-CLG_95ygX0kTD6JtSpDNyQ8o1e8gLGBkamLkVuA0YMxgrECyGNcxciwgZFxB-N_GGB8xQgyHQC1aCLtSgIAAA&masterhotelid_tracelogid=100051355-0a9ad220-494307-1932737315&detailFilters=17|1~17~1*31|130201816~31~130201816*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=930&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/frHafpgn)
 
 {{block:ubud}}

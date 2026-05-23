@@ -18,10 +18,11 @@ tags:
   - 騎機車自由行
   - 租機車費用
   - 摩托車費用
+update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8dd21451aed86b29640329df0b851953.jpg'
 originalUrl: 'https://vocus.cc/article/68c032e6fd89780001b54489'
 lang: en
-_srcHash: da2931ee528bb21bf4befb76ffb5b6ef
+_srcHash: a95b89dfd17e4dc10a8dfd87eb7deb86
 ---
 
 > The following content is adapted from fellow traveler [Lin Jinsheng's](https://www.facebook.com/share/p/16zBggKw15/) shared travelogue:
@@ -52,7 +53,7 @@ This time, we want to share our **8-day, 7-night motorbike🛵 adventure in Bali
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1777171693005-77ac71c0668340ca08fff167e84b6e5b.jpeg)
 
-> ▶[**Check Availability & Rates for The Vira Bali Boutique Hotel**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=49780)
+> ▶[**Check Availability & Rates for The Vira Bali Boutique Hotel**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=49780) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685252&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGFo2P15NcsQuyGpmYGhgZGBguFLW5XOB7-qhHT35Xv4LlDrvV14J5ihwCeiCkHnk9jTywov5a3e4WjQxcjK1hgBuORl5orGBk3MoKV7vB32MHIdICR6QTjXu4FTB9P9-mdYmHmWMZ0ieUrU3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZhibmegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrdTBd_mxO79PumS827SbO5ebUdrkBMS43ro19xMIUHfuJheEXC0MTK0MXKzPHEsZJQHIv9y5W_ih3QyOzSN1ws0hX3ShdwwusD3mk5A0NDAxMDY1NTXUNEi0tUk0sLXVNLE2MDSx1jS0sDY01Hq7ZNOupsZG1FCQFKDBqCcaHeHq6GJYUppoVllrmFBWYGjCeYpQyNDe2MDQyNDQyMrI01jOxSDMrtsgrtsjNivBgDGJzMTNyczSIsuFiDg12ESy05bq-2EDaQYo5JNxFceVN5rUHJpy212L2dAkyvPefJVdb2dI-0OKLGP97ywX2kTD5JNaqDN2Q8Ixe8QLGBkamLkZuAUYPxgjGCiCPcRUjOxezgZGhANMGRsYdjP9hgPEVI8gSABdB9VoEAwAA&masterhotelid_tracelogid=100051355-0a98e499-494309-38913&detailFilters=17|1~17~1*31|685252~31~685252*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=495&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/XtGn8HAO)
 
 {{block:kuta}}
 
@@ -172,7 +173,7 @@ After finishing our Ubud itinerary, we first returned to our hotel in Kuta to re
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1777295861491-457a2c1463a01f89d4dc5d71dc5211ef.jpeg)
 
-> ▶[**Check Availability & Rates for The Jimbaran Villa by Ini Vie Hospitality**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5730375)
+> ▶[**Check Availability & Rates for The Jimbaran Villa by Ini Vie Hospitality**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5730375) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=23782664&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_CsfD98-esQuyGpmYGhgZGBguFLW5XOFaLrHN_OKvewXOHXOvrwCPNDgE8EVMOPJ_GntjytZ7v86xAhy5GVrDADMaOU6u5NzJeX1xgy7U93mEHI9MBRqYTjL_FFjBt7nxoeYqFmeMMyyWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBtZmugZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHMeZJgHJ32K7WPn9I_2DLEx1w80iXXWjdA0vsB6SlJI3NDAwMDU0NjXVNUi0tDA3M7HUNbE0MTYAUsYmJiYaLcf2zXpqbGQtBYl_BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWzmhi6Gli5RNlzMocEugoW2XNcXG0g7SDGHhLsorrzJvPbAhNP2WsyeLkGG9_6z5GorW9oHWnwR439vucA-EiafxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCADI-06gCAwAA&masterhotelid_tracelogid=100051355-0a987649-494309-43444&detailFilters=17|1~17~1*31|23782664~31~23782664*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=224&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/LerWcw1j)
 
 {{block:jim}}
 
@@ -202,7 +203,7 @@ The sunset at Jimbaran Beach is considered by many to be one of Bali's most roma
 
 > Quick reference: [Bali Jimbaran Seafood Recommendations: 13 Trusted Seafood Restaurants](/blog/jimbaran-seafood-restaurants-list/)
 
-That night, we stayed again at [**The Jimbaran Villa by Ini Vie Hospitality**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5730375), continuing to enjoy the serene nightscape of Jimbaran.
+That night, we stayed again at [**The Jimbaran Villa by Ini Vie Hospitality**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5730375) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=23782664&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_CsfD98-esQuyGpmYGhgZGBguFLW5XOFaLrHN_OKvewXOHXOvrwCPNDgE8EVMOPJ_GntjytZ7v86xAhy5GVrDADMaOU6u5NzJeX1xgy7U93mEHI9MBRqYTjL_FFjBt7nxoeYqFmeMMyyWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBtZmugZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHMeZJgHJ32K7WPn9I_2DLEx1w80iXXWjdA0vsB6SlJI3NDAwMDU0NjXVNUi0tDA3M7HUNbE0MTYAUsYmJiYaLcf2zXpqbGQtBYl_BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWzmhi6Gli5RNlzMocEugoW2XNcXG0g7SDGHhLsorrzJvPbAhNP2WsyeLkGG9_6z5GorW9oHWnwR439vucA-EiafxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCADI-06gCAwAA&masterhotelid_tracelogid=100051355-0a987649-494309-43444&detailFilters=17|1~17~1*31|23782664~31~23782664*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=224&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/LerWcw1j), continuing to enjoy the serene nightscape of Jimbaran.
 
 **Day 7**: In the morning, we returned to Kuta to drop off our luggage at the hotel and then wandered around the Kuta area. The streets are lined with small shops selling clothes, handicrafts, and souvenirs, exuding a distinctly Balinese vibe. We also made a special visit to **Beachwalk Shopping Center**, one of Kuta's liveliest malls, featuring various international brands and restaurants. With air conditioning, it was a comfortable and relaxing place to explore.
 

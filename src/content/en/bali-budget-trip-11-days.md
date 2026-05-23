@@ -5,6 +5,7 @@ title: >-
   Nights Itinerary with Super High CP Value!
 description: Bali 11 Days 10 Nights Free & Easy In-Depth Travelogue
 pubDate: '2025-02-25'
+update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6795d36bfd8978000139ce96.png'
 tags:
   - 峇里島
@@ -16,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/6795d36bfd8978000139ce96'
 category:
   - 遊記分享
 lang: en
-_srcHash: 9493a3a9f255993875ecd8040772f368
+_srcHash: 6bfddeb939d1a0601b73c93434f93b4d
 ---
 
 > The following content is adapted from group member [Gao Rongfan's shared travelogue](https://www.facebook.com/share/p/14kAoJ6sDG/):
@@ -30,7 +31,7 @@ _srcHash: 9493a3a9f255993875ecd8040772f368
 - **Dates**: January 1, 2025 (Wed) to January 11, 2025 (Sat)
 - **Airfare**: China Airlines, approximately USD$858 for 2 people
 - **Accommodation**:
-- - **Ubud**: [Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070), 5 nights for USD$262, enjoying the tranquility and bird songs of the jungle.
+- - **Ubud**: [Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=684992&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLS0SDWxtNQ1sTQxNrDUNTYyMLHU2Ni1YNZTIFNLMD7E09PFsKQw1ayw1DKnqMD0FKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbsamLk7FxFJ8Uc0i4i-LKm8xrD0w4bZ_EWpWhGxKe0SsOAPDEijSCAAAA&masterhotelid_tracelogid=100051355-0a98e499-494309-32049&detailFilters=17|1~17~1*31|684992~31~684992*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=468&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/HvLmsISG), 5 nights for USD$262, enjoying the tranquility and bird songs of the jungle.
   - **Jimbaran**: [Anja Jimbaran](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5877670), 5 nights for USD$290, just a 5-minute walk to the beach, experiencing the charm of golden sunsets and the sound of waves.
 - **Other Expenses**:
 - - **Tourism Tax**: USD$21 for 2 people
@@ -50,7 +51,7 @@ _srcHash: 9493a3a9f255993875ecd8040772f368
 
 At 6 PM, we arrived at our Ubud hotel, officially starting our journey. Bali's night is filled with tropical charm, with a faint floral scent in the air, instantly making us feel relaxed and joyful. After dropping off our luggage, we walked out to the bustling streets for dinner, with plenty of restaurants to choose from. We rested early to prepare for the next day's adventure.
 
-Check out our stay: [Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070)
+Check out our stay: [Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=684992&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLS0SDWxtNQ1sTQxNrDUNTYyMLHU2Ni1YNZTIFNLMD7E09PFsKQw1ayw1DKnqMD0FKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbsamLk7FxFJ8Uc0i4i-LKm8xrD0w4bZ_EWpWhGxKe0SsOAPDEijSCAAAA&masterhotelid_tracelogid=100051355-0a98e499-494309-32049&detailFilters=17|1~17~1*31|684992~31~684992*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=468&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/HvLmsISG)
 
 ---
 

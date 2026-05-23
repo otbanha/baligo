@@ -8,6 +8,7 @@ description: >-
   February 17 (the first day of the New Year), with some celebrations extending
   until the Lantern Festival in early March.
 pubDate: '2026-02-04'
+update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0bb33c4736f5468d4d0c2d55cbf90b43.jpg'
 tags:
   - 峇里島旅遊
@@ -19,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/698202dcfd89780001016bf7'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 6fb204a0d74f6c2abf6251ec6471d4a7
+_srcHash: 16dd388a489070f09af39a518d58c3d5
 ---
 Here’s your guide to Bali’s Lunar New Year celebrations:
 
@@ -95,7 +96,7 @@ For a more traditional religious atmosphere, visit the Chinese temples (Klenteng
 
 - [**Capella Ubud**](/blog/capella-ubud-luxury-resort/): On February 17th, experience the traditional "Lo Hei" ceremony and Peranakan (Straits Chinese) cuisine with Indonesian influences.
 - [**Padma Resort Ubud**](https://s.id/UbudResorts): On the evening of February 17th, enjoy the "Prosperity Feast," perfect for travelers seeking a serene mountain retreat.
-- [**The Westin Resort & Spa Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10776988) **(Tabia Restaurant)**: On February 16th, from 6:00 PM to 10:30 PM, indulge in the "Ubud Lunar Harmony" Lunar New Year buffet dinner (IDR 588,000++ per person), featuring lion dance performances.
+- [**The Westin Resort & Spa Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10776988) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=17502897&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zczFJMEk9YWZY-_8T39ZhRiNDDgtPgk69h_6qhEzeaqDJ9f1xQW20rMcAngaGcGC_J4OMxg3Ll3DsYKRcSPjm8Adcq3yRQ47GJkOMDKdYDxns4Bp4qNbEqdYmDkOcV1i-coUXa2UnVqpZGWio1SSWZKTqmSl9GxO79PumS827VbSUUpJLU4GCgFZibn5pXklQLa5gamegQFQpCSxwjNFycpcRyk5MSe5NCexJDWksgBogpmOUmaxc0lRZkFQam5mSUkqUFVaYk5xKkg8KLUYKJMMFlTyAxpTBBXIzM-DaDdAEQtLzClNhTgBaKFbKtQO41odTJc_XTTvacOe5ytasbvczMQQxeUmA-Jyw9rYRyxM0bGfWBh-sTA0sTJ0sTJMYmXmOGezi5Un0Mvb2zNK11AXiKWUDQ0MDEwNjU1NdQ0SLRMtjBNTdU0sTYwNzHWNjYwMLYyMLAw1Tu78MP2psZG1FOuUA8-nsSswagnGh3h6uhiWFKaaFZZa5hQVmBownmKUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYrwYAxiM3M0tbRwjLLhYvZ0CRK8958lV1vZ0l6KOSTcRXHlTea1ByacttcCyRnC5AItvojxv7dcYB8Jk09ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMbJzMRsYGQowbWBk3MH4HwYYXzGCLAEATbARnOsCAAA&masterhotelid_tracelogid=100051355-0a9a83ae-494307-322182281&detailFilters=17|1~17~1*31|17502897~31~17502897*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=726&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Taynizj3) **(Tabia Restaurant)**: On February 16th, from 6:00 PM to 10:30 PM, indulge in the "Ubud Lunar Harmony" Lunar New Year buffet dinner (IDR 588,000++ per person), featuring lion dance performances.
 
 ## 🗓️ Important Dates to Remember
 
