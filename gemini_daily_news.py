@@ -261,6 +261,7 @@ def call_gemini(api_key: str, prompt: str) -> str:
 
     payload = {
         "contents": [{"parts": [{"text": prompt}]}],
+        "tools": [{"google_search": {}}],
         "generationConfig": {
             "temperature": 0.7,
             "maxOutputTokens": 4096,
