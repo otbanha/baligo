@@ -76,6 +76,28 @@ Article slug 語言中立（所有語言版本共用同一 slug）。
 - [ ] 不得修改繁體中文的路徑前綴（維持 `/blog/`，不改為 `/zh-tw/blog/`）
 - [ ] 不得使用 `history.pushState` 於語言自動偵測跳轉（必須用 `replace`）
 
+## 工具頁面
+
+| 路徑 | 說明 | 資料流向 |
+|------|------|----------|
+| `/tools/unfurl` | 社群連結預覽工具 | `POST /api/unfurl` |
+
+`/tools/unfurl` 只做 zh-TW，不加語言前綴，不出現在其他語言的 sitemap / navigation。
+頁面帶 `<meta name="robots" content="noindex,nofollow">`。
+
+### Unfurl Tool KV Bindings（Cloudflare Pages 設定）
+
+| Binding | Namespace | TTL | 用途 |
+|---------|-----------|-----|------|
+| `UNFURL_CACHE` | gobaligo-unfurl-cache | 24h 成功 / 1h 失敗 | unfurl 結果快取 |
+| `UNFURL_RATELIMIT` | gobaligo-unfurl-ratelimit | 2h | per-IP 速率限制 |
+| `UNFURL_RECENT` | gobaligo-unfurl-recent | 7d | 最近解析清單 |
+| `UNFURL_BLOCKLIST` | gobaligo-unfurl-blocklist | 30d | 管理員黑名單 |
+
+環境變數（加密）：`ADMIN_SECRET`（32+ 字元隨機字串，用 `openssl rand -hex 32` 產生）
+
+---
+
 ## 檔案位置對照表
 
 | 功能                  | 檔案路徑                                     |
@@ -89,3 +111,9 @@ Article slug 語言中立（所有語言版本共用同一 slug）。
 | 英文 index            | `src/pages/en/blog/index.astro`              |
 | 繁體中文文章          | `src/pages/blog/[...slug].astro`             |
 | 全域樣式              | `src/styles/global.css`                      |
+| 社群連結預覽工具      | `src/pages/tools/unfurl.astro`               |
+| Unfurl API 主入口     | `functions/api/unfurl.js`                    |
+| Admin 登入            | `functions/api/admin/login.js`               |
+| Admin 狀態確認        | `functions/api/admin/check.js`               |
+| 最近解析清單          | `functions/api/recent-unfurls.js`            |
+| 最近解析刪除          | `functions/api/recent-unfurls/[id].js`       |

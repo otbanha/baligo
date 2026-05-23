@@ -1,0 +1,718 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
+import Footer from '../../components/Footer.astro';
+
+const SITE_URL = 'https://gobaligo.id';
+const title = '社群連結預覽工具｜解析 YouTube、Threads、Instagram、Facebook 貼文';
+const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，即時查看貼文標題、內文、縮圖等資訊。';
+---
+
+<!doctype html>
+<html lang="zh-TW">
+  <head>
+    <BaseHead title={title} description={description} noSuffix={false} />
+    <meta name="robots" content="noindex,nofollow" />
+    <style>
+      /* ── Layout ── */
+      .unfurl-page {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 1.5rem 1rem 4rem;
+      }
+      .unfurl-page h1 {
+        font-size: 1.5rem;
+        margin: 0 0 0.3rem;
+        color: #1a1a1a;
+      }
+      .page-subtitle {
+        color: #666;
+        font-size: 0.9rem;
+        margin: 0 0 1.6rem;
+      }
+
+      /* ── Platform badges ── */
+      .platform-list {
+        display: flex;
+        gap: 0.5rem;
+        flex-wrap: wrap;
+        margin-bottom: 1.4rem;
+      }
+      .platform-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+        padding: 0.3rem 0.7rem;
+        border-radius: 20px;
+        font-size: 0.82rem;
+        font-weight: 600;
+      }
+      .badge-yt   { background: #ffe8e8; color: #c00; }
+      .badge-th   { background: #e8e8e8; color: #111; }
+      .badge-ig   { background: #fce4ff; color: #a100c8; }
+      .badge-fb   { background: #e8f0ff; color: #1877f2; }
+
+      /* ── Input ── */
+      .input-row {
+        display: flex;
+        gap: 0.5rem;
+        margin-bottom: 1.2rem;
+      }
+      .url-input {
+        flex: 1;
+        padding: 0.7rem 1rem;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        font-size: 0.95rem;
+        outline: none;
+        transition: border-color 0.2s;
+      }
+      .url-input:focus { border-color: #1a6fad; }
+      .submit-btn {
+        padding: 0.7rem 1.4rem;
+        background: #1a6fad;
+        color: #fff;
+        border: none;
+        border-radius: 10px;
+        font-size: 0.95rem;
+        font-weight: 600;
+        cursor: pointer;
+        white-space: nowrap;
+        transition: background 0.15s, opacity 0.15s;
+      }
+      .submit-btn:hover  { background: #155d96; }
+      .submit-btn:disabled { opacity: 0.6; cursor: default; }
+
+      /* ── Result area ── */
+      #result-area { min-height: 2rem; }
+
+      /* ── Card ── */
+      .result-card {
+        border-radius: 14px;
+        border: 1.5px solid #e0e0e0;
+        overflow: hidden;
+        background: #fff;
+        position: relative;
+      }
+      .card-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0.8rem 1rem 0.6rem;
+        border-bottom: 1px solid #f0f0f0;
+      }
+      .card-platform {
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+        font-size: 0.82rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+      .card-actions { display: flex; gap: 0.5rem; align-items: center; }
+      .delete-btn {
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 0.3rem;
+        border-radius: 6px;
+        color: #bbb;
+        font-size: 1rem;
+        line-height: 1;
+        transition: color 0.15s, background 0.15s;
+        display: none;
+      }
+      .delete-btn:hover { color: #e53; background: #fff0f0; }
+      .cached-badge {
+        font-size: 0.72rem;
+        background: #f0f6e8;
+        color: #4a7c2a;
+        padding: 0.15rem 0.5rem;
+        border-radius: 20px;
+        font-weight: 600;
+      }
+
+      .card-body { padding: 1rem; }
+      .card-author {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        margin-bottom: 0.7rem;
+      }
+      .author-avatar {
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        object-fit: cover;
+        background: #eee;
+      }
+      .author-name { font-weight: 600; font-size: 0.9rem; color: #222; }
+      .author-handle { font-size: 0.82rem; color: #888; }
+      .author-meta { display: flex; flex-direction: column; gap: 0.1rem; }
+
+      .card-title {
+        font-size: 1.05rem;
+        font-weight: 700;
+        margin: 0 0 0.5rem;
+        color: #1a1a1a;
+        line-height: 1.4;
+      }
+      .card-desc {
+        font-size: 0.88rem;
+        color: #444;
+        line-height: 1.65;
+        margin: 0 0 0.8rem;
+        white-space: pre-wrap;
+        word-break: break-word;
+      }
+      .card-desc.collapsed { display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; }
+      .expand-btn {
+        background: none;
+        border: none;
+        color: #1a6fad;
+        font-size: 0.85rem;
+        cursor: pointer;
+        padding: 0;
+        margin-bottom: 0.8rem;
+        font-weight: 600;
+      }
+
+      .card-thumbnail {
+        width: 100%;
+        border-radius: 8px;
+        max-height: 320px;
+        object-fit: cover;
+        display: block;
+        margin-bottom: 0.8rem;
+        background: #f5f5f5;
+      }
+      .source-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.3rem;
+        padding: 0.45rem 0.9rem;
+        border: 1.5px solid #ddd;
+        border-radius: 8px;
+        text-decoration: none;
+        font-size: 0.85rem;
+        color: #444;
+        font-weight: 600;
+        transition: background 0.15s, border-color 0.15s;
+      }
+      .source-link:hover { background: #f5f5f5; border-color: #bbb; }
+
+      /* embed toggle */
+      .embed-toggle {
+        background: none;
+        border: 1px solid #ddd;
+        color: #555;
+        font-size: 0.82rem;
+        padding: 0.35rem 0.8rem;
+        border-radius: 6px;
+        cursor: pointer;
+        margin-left: 0.5rem;
+        transition: background 0.15s;
+      }
+      .embed-toggle:hover { background: #f0f0f0; }
+      .embed-wrap { margin-top: 0.8rem; }
+      .embed-wrap iframe { width: 100%; border: none; border-radius: 8px; }
+
+      /* Platform accent colors */
+      .platform-youtube .card-header { border-left: 4px solid #ff0000; }
+      .platform-threads .card-header  { border-left: 4px solid #000; }
+      .platform-instagram .card-header { border-left: 4px solid #c13584; }
+      .platform-facebook .card-header  { border-left: 4px solid #1877f2; }
+
+      /* ── Skeleton ── */
+      .skeleton { animation: shimmer 1.4s infinite linear; }
+      @keyframes shimmer {
+        0%   { background-position: -600px 0; }
+        100% { background-position: 600px 0; }
+      }
+      .skeleton-block {
+        background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+        background-size: 1200px 100%;
+        border-radius: 6px;
+        animation: shimmer 1.4s infinite linear;
+      }
+      .skeleton-card {
+        border: 1.5px solid #e0e0e0;
+        border-radius: 14px;
+        padding: 1rem;
+      }
+      .sk-h { height: 14px; margin-bottom: 10px; }
+      .sk-w60 { width: 60%; }
+      .sk-w80 { width: 80%; }
+      .sk-w40 { width: 40%; }
+      .sk-w100 { width: 100%; }
+      .sk-img { height: 180px; margin: 10px 0; }
+
+      /* ── Error ── */
+      .error-box {
+        padding: 1rem 1.2rem;
+        border-radius: 12px;
+        border: 1.5px solid #fcd4d4;
+        background: #fff5f5;
+        color: #c00;
+        font-size: 0.9rem;
+        line-height: 1.6;
+      }
+      .error-box .error-code {
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.05em;
+        color: #999;
+        margin-bottom: 0.3rem;
+      }
+      .error-box .error-link {
+        display: inline-block;
+        margin-top: 0.5rem;
+        color: #1a6fad;
+        text-decoration: underline;
+        font-size: 0.85rem;
+        word-break: break-all;
+      }
+
+      /* ── Recent feed ── */
+      .recent-section { margin-top: 2.5rem; }
+      .recent-section h2 {
+        font-size: 1rem;
+        font-weight: 700;
+        color: #333;
+        margin: 0 0 1rem;
+      }
+      .recent-grid {
+        display: grid;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 0.8rem;
+      }
+      .recent-card {
+        border: 1px solid #e5e5e5;
+        border-radius: 10px;
+        overflow: hidden;
+        background: #fff;
+        transition: box-shadow 0.15s;
+        position: relative;
+      }
+      .recent-card:hover { box-shadow: 0 3px 12px rgba(0,0,0,.10); }
+      .recent-thumb {
+        width: 100%;
+        height: 110px;
+        object-fit: cover;
+        display: block;
+        background: #f0f0f0;
+      }
+      .recent-thumb-placeholder {
+        width: 100%;
+        height: 110px;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 2rem;
+        background: #f5f5f5;
+      }
+      .recent-info { padding: 0.6rem 0.7rem; }
+      .recent-platform-tag {
+        font-size: 0.68rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        margin-bottom: 0.25rem;
+      }
+      .tag-youtube   { color: #c00; }
+      .tag-threads   { color: #111; }
+      .tag-instagram { color: #c13584; }
+      .tag-facebook  { color: #1877f2; }
+      .recent-title {
+        font-size: 0.82rem;
+        color: #222;
+        font-weight: 600;
+        line-height: 1.4;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      .recent-author { font-size: 0.75rem; color: #888; margin-top: 0.2rem; }
+      .recent-delete-btn {
+        position: absolute;
+        top: 0.4rem;
+        right: 0.4rem;
+        background: rgba(255,255,255,0.9);
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        padding: 0.2rem 0.4rem;
+        font-size: 0.75rem;
+        cursor: pointer;
+        color: #999;
+        display: none;
+        transition: color 0.15s;
+        line-height: 1;
+      }
+      .recent-delete-btn:hover { color: #e53; }
+
+      @media (max-width: 640px) {
+        .recent-grid { grid-template-columns: 1fr; }
+        .input-row { flex-direction: column; }
+        .submit-btn { width: 100%; }
+      }
+      @media (min-width: 641px) and (max-width: 900px) {
+        .recent-grid { grid-template-columns: repeat(2, 1fr); }
+      }
+    </style>
+  </head>
+  <body>
+    <Header basePath="tools/unfurl" />
+    <TopStrip lang="zh-tw" />
+    <main class="unfurl-page">
+      <h1>社群連結預覽</h1>
+      <p class="page-subtitle">貼上社群媒體連結，即時解析貼文資訊</p>
+
+      <div class="platform-list">
+        <span class="platform-badge badge-yt">▶ YouTube</span>
+        <span class="platform-badge badge-th">◉ Threads</span>
+        <span class="platform-badge badge-ig">◈ Instagram</span>
+        <span class="platform-badge badge-fb">f Facebook</span>
+      </div>
+
+      <form id="unfurl-form" autocomplete="off">
+        <div class="input-row">
+          <input
+            id="url-input"
+            class="url-input"
+            type="url"
+            placeholder="https://www.youtube.com/watch?v=..."
+            inputmode="url"
+          />
+          <button type="submit" class="submit-btn" id="submit-btn">解析</button>
+        </div>
+      </form>
+
+      <div id="result-area"></div>
+
+      <div class="recent-section" id="recent-section" style="display:none">
+        <h2>最近解析</h2>
+        <div class="recent-grid" id="recent-grid"></div>
+      </div>
+    </main>
+    <Footer />
+
+    <script>
+      const form = document.getElementById('unfurl-form');
+      const urlInput = document.getElementById('url-input');
+      const submitBtn = document.getElementById('submit-btn');
+      const resultArea = document.getElementById('result-area');
+      const recentSection = document.getElementById('recent-section');
+      const recentGrid = document.getElementById('recent-grid');
+
+      let isAdminUser = false;
+
+      // Platform display config
+      const PLATFORM_LABELS = {
+        youtube:   { label: '▶ YouTube',   cls: 'tag-youtube' },
+        threads:   { label: '◉ Threads',   cls: 'tag-threads' },
+        instagram: { label: '◈ Instagram', cls: 'tag-instagram' },
+        facebook:  { label: 'f Facebook',  cls: 'tag-facebook' },
+      };
+
+      const ERROR_FRIENDLY = {
+        BLOCKED_BY_PLATFORM: (url) => `
+          <div class="error-code">BLOCKED_BY_PLATFORM</div>
+          <p>這篇貼文無法抓取，可能是因為平台限制或貼文為私人。</p>
+          <a class="error-link" href="${url}" target="_blank" rel="noopener noreferrer">直接前往原文 →</a>
+        `,
+        BLOCKED_BY_ADMIN: () => `
+          <div class="error-code">UNAVAILABLE</div>
+          <p>這個網址不在本工具的服務範圍內。</p>
+        `,
+      };
+
+      // ── Admin check ──
+      async function checkAdmin() {
+        try {
+          const res = await fetch('/api/admin/check');
+          const data = await res.json();
+          isAdminUser = data.isAdmin === true;
+          if (isAdminUser) {
+            document.querySelectorAll('.delete-btn, .recent-delete-btn').forEach(btn => {
+              btn.style.display = '';
+            });
+          }
+        } catch {}
+      }
+
+      // ── Skeleton ──
+      function showSkeleton() {
+        resultArea.innerHTML = `
+          <div class="skeleton-card">
+            <div class="skeleton-block sk-h sk-w40" style="margin-bottom:14px"></div>
+            <div class="skeleton-block sk-h sk-w80"></div>
+            <div class="skeleton-block sk-h sk-w60"></div>
+            <div class="skeleton-block sk-img sk-w100"></div>
+            <div class="skeleton-block sk-h sk-w40"></div>
+          </div>
+        `;
+      }
+
+      // ── Result card ──
+      function renderCard(data, rawUrl) {
+        const p = data.platform || 'unknown';
+        const d = data.data || {};
+        const plat = PLATFORM_LABELS[p] || { label: p, cls: '' };
+
+        const authorSection = d.author?.name ? `
+          <div class="card-author">
+            ${d.author.avatar ? `<img class="author-avatar" src="${esc(d.author.avatar)}" alt="" loading="lazy">` : ''}
+            <div class="author-meta">
+              <span class="author-name">${esc(d.author.name)}</span>
+              ${d.author.handle ? `<span class="author-handle">${esc(d.author.handle)}</span>` : ''}
+            </div>
+          </div>` : '';
+
+        const titleSection = d.title ? `<h2 class="card-title">${esc(d.title)}</h2>` : '';
+
+        const needsExpand = d.description && d.description.length > 200;
+        const descSection = d.description ? `
+          <p class="card-desc${needsExpand ? ' collapsed' : ''}" id="card-desc">${esc(d.description)}</p>
+          ${needsExpand ? `<button class="expand-btn" id="expand-btn">展開全文</button>` : ''}
+        ` : '';
+
+        const thumb = d.media?.[0];
+        const thumbSection = thumb?.type === 'image' ? `
+          <img class="card-thumbnail" src="${esc(thumb.url)}" alt="" loading="lazy" onerror="this.style.display='none'">
+        ` : '';
+
+        const embedBtn = d.embedHtml ? `
+          <button class="embed-toggle" id="embed-toggle">顯示原生嵌入</button>
+        ` : '';
+
+        const cachedBadge = data.cached ? `<span class="cached-badge">快取</span>` : '';
+        const deleteBtn = `<button class="delete-btn" id="card-delete-btn" title="移除（管理員）" style="${isAdminUser ? '' : 'display:none'}">🗑</button>`;
+
+        const card = document.createElement('div');
+        card.className = `result-card platform-${p}`;
+        card.innerHTML = `
+          <div class="card-header">
+            <span class="card-platform ${plat.cls}">${plat.label}</span>
+            <div class="card-actions">
+              ${cachedBadge}
+              ${embedBtn}
+              ${deleteBtn}
+            </div>
+          </div>
+          <div class="card-body">
+            ${authorSection}
+            ${titleSection}
+            ${descSection}
+            ${thumbSection}
+            <a class="source-link" href="${esc(d.sourceUrl || rawUrl)}" target="_blank" rel="noopener noreferrer">前往原文 →</a>
+            ${d.embedHtml ? `<div class="embed-wrap" id="embed-wrap" style="display:none"></div>` : ''}
+          </div>
+        `;
+
+        // Expand button
+        card.querySelector('#expand-btn')?.addEventListener('click', () => {
+          const desc = card.querySelector('#card-desc');
+          const btn = card.querySelector('#expand-btn');
+          desc.classList.remove('collapsed');
+          btn.remove();
+        });
+
+        // Embed toggle
+        const embedToggle = card.querySelector('#embed-toggle');
+        const embedWrap = card.querySelector('#embed-wrap');
+        if (embedToggle && embedWrap && d.embedHtml) {
+          embedToggle.addEventListener('click', () => {
+            if (embedWrap.style.display === 'none') {
+              // Sanitize: only allow known platform iframes
+              const safe = d.embedHtml.replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '');
+              embedWrap.innerHTML = safe;
+              embedWrap.style.display = '';
+              embedToggle.textContent = '隱藏嵌入';
+            } else {
+              embedWrap.style.display = 'none';
+              embedWrap.innerHTML = '';
+              embedToggle.textContent = '顯示原生嵌入';
+            }
+          });
+        }
+
+        // Delete button (admin only)
+        const delBtn = card.querySelector('#card-delete-btn');
+        if (delBtn) {
+          delBtn.addEventListener('click', async () => {
+            // Find item in recent feed by sourceUrl to get its id
+            const items = Array.from(recentGrid.querySelectorAll('[data-id]'));
+            const match = items.find(el => el.dataset.url === (d.sourceUrl || rawUrl));
+            if (!match) {
+              alert('找不到此貼文在最近清單中');
+              return;
+            }
+            await deleteRecentItem(match.dataset.id, match);
+          });
+        }
+
+        return card;
+      }
+
+      // ── Error box ──
+      function renderError(err, rawUrl) {
+        const code = err.error || 'UNKNOWN';
+        const customRenderer = ERROR_FRIENDLY[code];
+        const inner = customRenderer
+          ? customRenderer(rawUrl)
+          : `<div class="error-code">${code}</div><p>${esc(err.message || '發生未知錯誤')}</p>`;
+
+        resultArea.innerHTML = `<div class="error-box">${inner}</div>`;
+      }
+
+      // ── Escape HTML ──
+      function esc(str) {
+        if (!str) return '';
+        return String(str)
+          .replace(/&/g, '&amp;')
+          .replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;')
+          .replace(/"/g, '&quot;');
+      }
+
+      // ── Submit ──
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const rawUrl = urlInput.value.trim();
+        if (!rawUrl) return;
+
+        submitBtn.disabled = true;
+        submitBtn.textContent = '解析中…';
+        showSkeleton();
+
+        const timeout = setTimeout(() => {
+          resultArea.innerHTML = `<div class="error-box"><div class="error-code">TIMEOUT</div><p>連線逾時，請稍後再試。</p></div>`;
+          submitBtn.disabled = false;
+          submitBtn.textContent = '解析';
+        }, 12000);
+
+        try {
+          const res = await fetch('/api/unfurl', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ url: rawUrl }),
+          });
+          clearTimeout(timeout);
+
+          const data = await res.json();
+          if (data.ok) {
+            resultArea.innerHTML = '';
+            resultArea.appendChild(renderCard(data, rawUrl));
+            // Refresh recent feed
+            loadRecent();
+          } else {
+            renderError(data, rawUrl);
+          }
+        } catch {
+          clearTimeout(timeout);
+          renderError({ error: 'INTERNAL_ERROR', message: '系統錯誤，請稍後再試' }, rawUrl);
+        } finally {
+          submitBtn.disabled = false;
+          submitBtn.textContent = '解析';
+        }
+      });
+
+      // Auto-paste from clipboard if supported
+      urlInput.addEventListener('paste', () => {
+        // Allow input value to update before checking
+        setTimeout(() => {
+          if (urlInput.value.trim().startsWith('http')) {
+            // Auto-submit after paste
+            form.dispatchEvent(new Event('submit', { cancelable: true }));
+          }
+        }, 50);
+      });
+
+      // ── Recent feed ──
+      async function loadRecent() {
+        try {
+          const res = await fetch('/api/recent-unfurls?limit=20');
+          const data = await res.json();
+          const items = data.items || [];
+          if (items.length === 0) { recentSection.style.display = 'none'; return; }
+
+          recentSection.style.display = '';
+          recentGrid.innerHTML = '';
+          items.forEach(item => {
+            recentGrid.appendChild(buildRecentCard(item));
+          });
+          if (isAdminUser) {
+            recentGrid.querySelectorAll('.recent-delete-btn').forEach(btn => {
+              btn.style.display = '';
+            });
+          }
+        } catch {
+          recentSection.style.display = 'none';
+        }
+      }
+
+      function buildRecentCard(item) {
+        const plat = PLATFORM_LABELS[item.platform] || { label: item.platform, cls: '' };
+        const card = document.createElement('a');
+        card.className = 'recent-card';
+        card.href = item.sourceUrl || '#';
+        card.target = '_blank';
+        card.rel = 'noopener noreferrer';
+        card.dataset.id = item.id;
+        card.dataset.url = item.sourceUrl || '';
+
+        card.innerHTML = `
+          ${item.thumbnail
+            ? `<img class="recent-thumb" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="this.style.display='none'">`
+            : `<div class="recent-thumb-placeholder">${item.platform === 'youtube' ? '▶' : item.platform === 'threads' ? '◉' : item.platform === 'instagram' ? '◈' : 'f'}</div>`
+          }
+          <div class="recent-info">
+            <div class="recent-platform-tag ${plat.cls}">${plat.label}</div>
+            <div class="recent-title">${esc(item.title || item.authorName || '無標題')}</div>
+            ${item.authorName ? `<div class="recent-author">${esc(item.authorName)}</div>` : ''}
+          </div>
+          <button class="recent-delete-btn" title="移除（管理員）" style="display:none">🗑</button>
+        `;
+
+        // Stop link navigation when delete clicked
+        const delBtn = card.querySelector('.recent-delete-btn');
+        if (delBtn) {
+          delBtn.addEventListener('click', async (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            await deleteRecentItem(item.id, card);
+          });
+        }
+
+        return card;
+      }
+
+      async function deleteRecentItem(id, cardEl) {
+        if (!confirm('確定要移除這筆？該網址會被加入黑名單，之後不再開放解析。')) return;
+        cardEl.style.opacity = '0.5';
+        try {
+          const res = await fetch(`/api/recent-unfurls/${encodeURIComponent(id)}`, { method: 'DELETE' });
+          const data = await res.json();
+          if (data.ok) {
+            cardEl.style.transition = 'opacity 0.3s';
+            cardEl.style.opacity = '0';
+            setTimeout(() => { cardEl.remove(); loadRecent(); }, 300);
+          } else {
+            cardEl.style.opacity = '';
+            alert(`移除失敗：${data.error || '未知錯誤'}`);
+          }
+        } catch {
+          cardEl.style.opacity = '';
+          alert('移除失敗：網路錯誤');
+        }
+      }
+
+      // Initialize
+      checkAdmin();
+      loadRecent();
+    </script>
+  </body>
+</html>
