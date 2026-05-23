@@ -440,6 +440,36 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       }
       .recent-delete-btn:hover { color: #e53; }
 
+      /* ── Card stats bar ── */
+      .card-stats {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        padding: 4px 8px 6px;
+        font-size: 0.72rem;
+        color: #888;
+        border-top: 1px solid #f0f0f0;
+      }
+      .like-btn, .copy-btn {
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 2px 5px;
+        border-radius: 4px;
+        font-size: 0.72rem;
+        color: #888;
+        display: flex;
+        align-items: center;
+        gap: 2px;
+        line-height: 1;
+        transition: background 0.12s, color 0.12s;
+      }
+      .like-btn:hover { background: #f0f0f0; color: #444; }
+      .like-btn.liked { color: #2563eb; }
+      .copy-btn { margin-left: auto; }
+      .copy-btn:hover { background: #f0f0f0; color: #444; }
+      .view-stat { display: flex; align-items: center; gap: 2px; }
+
       @media (max-width: 640px) {
         .recent-grid { grid-template-columns: repeat(2, 1fr); gap: 0.4rem; }
         .top-grid    { grid-template-columns: repeat(2, 1fr); gap: 0.4rem; }
@@ -575,6 +605,33 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         if (rank === 1) return `<span class="hot-badge">🔥 #1 本週最熱</span>`;
         if (rank <= 3)  return `<span class="hot-badge">🔥 本週熱門</span>`;
         return `<span class="hot-badge">🔥</span>`;
+      }
+
+      // ── Like via sendBeacon（localStorage dedup）──
+      function likePost(id, btnEl) {
+        const lsKey = `liked:${id}`;
+        try {
+          if (localStorage.getItem(lsKey)) return;
+          localStorage.setItem(lsKey, '1');
+        } catch {}
+        const countEl = btnEl.querySelector('.like-count');
+        if (countEl) countEl.textContent = (parseInt(countEl.textContent, 10) || 0) + 1;
+        btnEl.classList.add('liked');
+        if (navigator.sendBeacon) {
+          navigator.sendBeacon('/api/like',
+            new Blob([JSON.stringify({ id })], { type: 'application/json' })
+          );
+        }
+      }
+
+      // ── Copy URL to clipboard ──
+      function copyUrl(url, btnEl) {
+        if (!url) return;
+        navigator.clipboard?.writeText(url).then(() => {
+          const orig = btnEl.textContent;
+          btnEl.textContent = '✅';
+          setTimeout(() => { btnEl.textContent = orig; }, 1500);
+        }).catch(() => {});
       }
 
       // ── Track click via sendBeacon（localStorage dedup）──
@@ -788,6 +845,8 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         card.rel = 'noopener noreferrer';
         card.dataset.id = item.id;
 
+        const isLiked = (() => { try { return !!localStorage.getItem(`liked:${item.id}`); } catch { return false; } })();
+
         card.innerHTML = `
           ${item.thumbnail
             ? `<img class="top-thumb" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="this.style.display='none'">`
@@ -798,9 +857,24 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
             <div class="top-platform-tag ${plat.cls}">${plat.label}</div>
             <div class="top-title">${esc(item.title || item.authorName || '無標題')}</div>
           </div>
+          <div class="card-stats">
+            <button class="like-btn${isLiked ? ' liked' : ''}" title="讚">👍 <span class="like-count">${item.likes ?? 0}</span></button>
+            <span class="view-stat">👁 ${item.views ?? 0}</span>
+            <button class="copy-btn" title="複製連結">📋</button>
+          </div>
         `;
 
         card.addEventListener('click', () => trackView(item.id));
+
+        const likeBtn = card.querySelector('.like-btn');
+        if (likeBtn) {
+          likeBtn.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); likePost(item.id, likeBtn); });
+        }
+        const copyBtn = card.querySelector('.copy-btn');
+        if (copyBtn) {
+          copyBtn.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); copyUrl(item.sourceUrl || '', copyBtn); });
+        }
+
         return card;
       }
 
@@ -827,6 +901,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       function buildRecentCard(item) {
         const plat = PLATFORM_LABELS[item.platform] || { label: item.platform, cls: '' };
         const rank = hotRankMap.get(item.id);
+        const isLiked = (() => { try { return !!localStorage.getItem(`liked:${item.id}`); } catch { return false; } })();
         const card = document.createElement('a');
         card.className = 'recent-card';
         card.href = item.sourceUrl || '#';
@@ -846,10 +921,24 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
             <div class="recent-title">${esc(item.title || item.authorName || '無標題')}</div>
             ${item.authorName ? `<div class="recent-author">${esc(item.authorName)}</div>` : ''}
           </div>
+          <div class="card-stats">
+            <button class="like-btn${isLiked ? ' liked' : ''}" title="讚">👍 <span class="like-count">${item.likes ?? 0}</span></button>
+            <span class="view-stat">👁 ${item.views ?? 0}</span>
+            <button class="copy-btn" title="複製連結">📋</button>
+          </div>
           <button class="recent-delete-btn" title="移除（管理員）" style="display:none">🗑</button>
         `;
 
         card.addEventListener('click', () => trackView(item.id));
+
+        const likeBtn = card.querySelector('.like-btn');
+        if (likeBtn) {
+          likeBtn.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); likePost(item.id, likeBtn); });
+        }
+        const copyBtn = card.querySelector('.copy-btn');
+        if (copyBtn) {
+          copyBtn.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); copyUrl(item.sourceUrl || '', copyBtn); });
+        }
 
         const delBtn = card.querySelector('.recent-delete-btn');
         if (delBtn) {

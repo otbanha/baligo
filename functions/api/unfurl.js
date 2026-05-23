@@ -86,6 +86,7 @@ async function writeRecent(env, result, hash) {
       fetchedAt: now.toISOString(),
       hash,
       views: 0,
+      likes: 0,
       expiresAt,
     };
 
