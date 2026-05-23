@@ -125,7 +125,7 @@ export async function onRequest({ request, next }) {
     }
   }
 
-  // API、靜態資源、admin 等不處理
+  // API、靜態資源、admin、工具頁等不處理
   if (
     pathname.startsWith('/api/') ||
     pathname.startsWith('/_astro/') ||
@@ -133,6 +133,8 @@ export async function onRequest({ request, next }) {
     pathname.startsWith('/atlas') ||
     pathname.startsWith('/index-all') ||
     pathname.startsWith('/pagefind/') ||
+    pathname.startsWith('/share') ||
+    pathname.startsWith('/tools/') ||
     pathname.includes('.')  // 有副檔名的靜態檔案
   ) {
     return next();
