@@ -30,12 +30,8 @@ export async function onRequestPost(context) {
 
   item.views = (item.views ?? 0) + 1;
 
-  // Preserve original expiration — don't reset TTL so hot items don't live forever
-  const putOpts = item.expiresAt
-    ? { expiration: item.expiresAt }
-    : { expirationTtl: 7 * 86400 };
-
-  await env.UNFURL_RECENT.put(key, JSON.stringify(item), putOpts).catch(() => {});
+  // 永久保留，不設 TTL
+  await env.UNFURL_RECENT.put(key, JSON.stringify(item)).catch(() => {});
 
   return new Response(null, { status: 204 });
 }

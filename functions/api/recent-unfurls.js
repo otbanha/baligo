@@ -28,11 +28,12 @@ export async function onRequest(context) {
 
   try {
     const url = new URL(request.url);
-    const limit = Math.min(parseInt(url.searchParams.get('limit') ?? '20', 10), 50);
+    const limit = Math.min(parseInt(url.searchParams.get('limit') ?? '50', 10), 100);
 
     // KV list sorts keys lexicographically; our key prefix `recent:YYYYMMDDhhmmss-...`
-    // naturally sorts oldest-first, so we reverse to get newest first
-    const { keys } = await env.UNFURL_RECENT.list({ prefix: 'recent:', limit: 100 });
+    // naturally sorts oldest-first, so we reverse to get newest first.
+    // Items are permanent (no TTL), so we fetch up to 1000 keys to always get the latest N.
+    const { keys } = await env.UNFURL_RECENT.list({ prefix: 'recent:', limit: 1000 });
     const sorted = keys.slice().reverse().slice(0, limit);
 
     const items = await Promise.all(

@@ -29,11 +29,8 @@ export async function onRequestPost(context) {
 
   item.likes = (item.likes ?? 0) + 1;
 
-  const putOpts = item.expiresAt
-    ? { expiration: item.expiresAt }
-    : { expirationTtl: 7 * 86400 };
-
-  await env.UNFURL_RECENT.put(key, JSON.stringify(item), putOpts).catch(() => {});
+  // 永久保留，不設 TTL
+  await env.UNFURL_RECENT.put(key, JSON.stringify(item)).catch(() => {});
 
   return new Response(null, { status: 204 });
 }

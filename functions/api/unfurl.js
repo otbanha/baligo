@@ -70,8 +70,6 @@ async function writeRecent(env, result, hash) {
   if (!env.UNFURL_RECENT) return;
   try {
     const now = new Date();
-    const ttlSeconds = 7 * 86400;
-    const expiresAt = Math.floor(now.getTime() / 1000) + ttlSeconds;
     const ts = now.toISOString().replace(/[-T:Z.]/g, '').slice(0, 14);
     const shortHash = hash.slice(0, 8);
     const key = `recent:${ts}-${shortHash}`;
@@ -87,10 +85,10 @@ async function writeRecent(env, result, hash) {
       hash,
       views: 0,
       likes: 0,
-      expiresAt,
+      // 永久保留，不設 TTL
     };
 
-    await env.UNFURL_RECENT.put(key, JSON.stringify(item), { expiration: expiresAt });
+    await env.UNFURL_RECENT.put(key, JSON.stringify(item));
   } catch {
     // Non-fatal
   }
