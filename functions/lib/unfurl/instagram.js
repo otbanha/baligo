@@ -1,10 +1,14 @@
 /**
- * Instagram embed-only handler.
- * Meta 在 2020 年後的 oEmbed 需要 App Token；server-side scraping 一律被擋。
- * 改用官方 blockquote + embed.js widget，由瀏覽器渲染。
- *
- * token 參數保留簽名相容性，但 embed mode 不使用。
+ * Instagram embed handler.
+ * Meta oEmbed 需要 App Token，server-side scraping 全被擋。
+ * Grid 卡片用官方 iframe URL；result card 仍用 blockquote + embed.js widget。
  */
+
+/** 從 URL 抽出 post code（/p/ /reel/ /tv/） */
+function extractPostCode(url) {
+  const m = url.match(/instagram\.com\/(?:p|reel|tv)\/([\w-]+)/);
+  return m ? m[1] : null;
+}
 
 /**
  * @param {string} url          Normalized Instagram URL
@@ -12,6 +16,10 @@
  * @returns {object}
  */
 export async function handleInstagram(url, token = null) {
+  const postCode  = extractPostCode(url);
+  // /embed/captioned/ 同時顯示圖文，不只圖片
+  const iframeUrl = postCode ? `https://www.instagram.com/p/${postCode}/embed/captioned/` : null;
+
   return {
     ok: true,
     platform: 'instagram',
@@ -19,7 +27,9 @@ export async function handleInstagram(url, token = null) {
     embed: {
       type: 'instagram',
       url,
-      script: 'https://www.instagram.com/embed.js',
+      iframeUrl,          // https://www.instagram.com/p/{POST_CODE}/embed/captioned/
+      iframeHeight: 600,
+      script: 'https://www.instagram.com/embed.js',  // 保留供 renderEmbedCard 使用
     },
     data: {
       title: null,

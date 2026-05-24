@@ -10,12 +10,20 @@ function extractHandle(url) {
   return m ? m[1] : null;
 }
 
+/** 從 URL 抽出 post code，用於組 iframe URL */
+function extractPostCode(url) {
+  const m = url.match(/threads\.(?:net|com)\/@[\w.]+\/post\/([\w-]+)/);
+  return m ? m[1] : null;
+}
+
 /**
  * @param {string} url  Normalized Threads URL
  * @returns {Promise<object>}
  */
 export async function handleThreads(url) {
-  const handle = extractHandle(url);
+  const handle    = extractHandle(url);
+  const postCode  = extractPostCode(url);
+  const iframeUrl = postCode ? `https://www.threads.net/embed/post/${postCode}` : null;
 
   // ── 嘗試 oEmbed 取 thumbnail + author（失敗不影響主流程）──
   let thumbnail = null;
@@ -51,7 +59,9 @@ export async function handleThreads(url) {
     embed: {
       type: 'threads',
       url,
-      script: 'https://www.threads.net/embed.js',
+      iframeUrl,          // https://www.threads.net/embed/post/{POST_CODE}
+      iframeHeight: 600,
+      script: 'https://www.threads.net/embed.js',  // 保留供 renderEmbedCard 使用
     },
     data: {
       title: null,

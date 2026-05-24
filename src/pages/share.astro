@@ -524,6 +524,36 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .embed-ph-icon  { font-size: 2.4rem; filter: drop-shadow(0 2px 6px rgba(0,0,0,.35)); }
       .embed-ph-label { font-size: 0.75rem; color: rgba(255,255,255,.85); font-weight: 600; letter-spacing: 0.03em; }
 
+      /* ── iframe embed grid cards ── */
+      .embed-iframe-wrap {
+        position: relative; width: 100%; overflow: hidden;
+        background: #f0f0f0; line-height: 0;
+      }
+      /* 「最多人看過」區塊限高，避免一張 embed 佔滿整屏 */
+      .top-embed-wrap { max-height: 400px; }
+      /* 限高卡片底部漸層遮罩 */
+      .embed-iframe-fade {
+        position: absolute; bottom: 0; left: 0; right: 0;
+        height: 48px; pointer-events: none;
+        background: linear-gradient(to bottom, transparent, rgba(255,255,255,.85));
+      }
+      /* iframe loading skeleton */
+      .embed-iframe-sk {
+        position: absolute; inset: 0; z-index: 1;
+        background-size: 1200px 100%;
+        animation: shimmer 1.4s infinite linear;
+      }
+      .embed-iframe-sk-threads   { background: linear-gradient(90deg,#111 25%,#222 50%,#111 75%); }
+      .embed-iframe-sk-instagram { background: linear-gradient(90deg,#b24592 25%,#e15c8a 50%,#b24592 75%); opacity:.4; }
+      .embed-iframe-sk-facebook  { background: linear-gradient(90deg,#1565c0 25%,#1e88e5 50%,#1565c0 75%); opacity:.4; }
+      /* 「前往原文」小連結（embed 卡片用 div 不是 a，需另外放） */
+      .embed-card-link {
+        display: block; font-size: 0.72rem; color: #1a6fad; font-weight: 600;
+        text-decoration: none; margin-top: 0.25rem;
+        white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+      }
+      .embed-card-link:hover { text-decoration: underline; }
+
       /* ── Duplicate warning ── */
       .dup-warn {
         display: none;
@@ -1205,6 +1235,27 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }, 50);
       });
 
+      // ── iframe URL helpers（相容無 iframeUrl 的舊 KV 資料）──────────────────
+      function getIframeUrl(item) {
+        if (item.embed?.iframeUrl) return item.embed.iframeUrl;
+        const src = item.sourceUrl || '';
+        // Threads
+        const tm = src.match(/threads\.(?:net|com)\/@[\w.]+\/post\/([\w-]+)/);
+        if (tm) return `https://www.threads.net/embed/post/${tm[1]}`;
+        // Instagram
+        const im = src.match(/instagram\.com\/(?:p|reel|tv)\/([\w-]+)/);
+        if (im) return `https://www.instagram.com/p/${im[1]}/embed/captioned/`;
+        // Facebook
+        if (/facebook\.com|fb\.watch/.test(src)) {
+          return `https://www.facebook.com/plugins/post.php?href=${encodeURIComponent(src)}&width=500&show_text=true&appId`;
+        }
+        return null;
+      }
+      function getIframeHeight(item) {
+        if (item.embed?.iframeHeight) return item.embed.iframeHeight;
+        return item.platform === 'facebook' ? 500 : 600;
+      }
+
       // ── Top-viewed ──
       async function loadTopViewed() {
         try {
@@ -1225,39 +1276,59 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       }
 
       function buildTopCard(item, rank) {
-        const plat = PLATFORM_LABELS[item.platform] || { label: item.platform, cls: '' };
-        const card = document.createElement('a');
+        const plat    = PLATFORM_LABELS[item.platform] || { label: item.platform, cls: '' };
+        const isEmbed = item.renderMode === 'embed' || META_PLATFORMS.has(item.platform);
+        const isLiked = (() => { try { return !!localStorage.getItem(`liked:${item.id}`); } catch { return false; } })();
+
+        // embed 卡片用 div（iframe 放在 <a> 裡，點擊事件會被 iframe 攔截）
+        const card = document.createElement(isEmbed ? 'div' : 'a');
         card.className = 'top-card';
         card.style.display = 'block';
-        card.href = item.sourceUrl || '#';
-        card.target = '_blank';
-        card.rel = 'noopener noreferrer';
         card.dataset.id = item.id;
+        if (!isEmbed) {
+          card.href = item.sourceUrl || '#';
+          card.target = '_blank';
+          card.rel = 'noopener noreferrer';
+        }
 
-        const isLiked = (() => { try { return !!localStorage.getItem(`liked:${item.id}`); } catch { return false; } })();
-        // embed 模式：Meta 平台 → 平台漸層背景 + icon（Grid 太窄放不下完整 widget）
-        const isEmbed = item.renderMode === 'embed' || META_PLATFORMS.has(item.platform);
-
-        const hasThumbnail = !!item.thumbnail;
         const THUMB_STYLE = 'width:100%;height:100%;object-fit:cover;object-position:center top;display:block';
-        const PLACEHOLDER_STYLE = 'position:absolute;top:0;left:0;width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:2rem;background:#f5f5f5';
 
-        // embed 且無縮圖 → padding-top 漸層佔位；其他（含 embed+縮圖）→ aspect-ratio
-        const wrapClassTop = (isEmbed && !hasThumbnail) ? `embed-ph embed-ph-${item.platform}` : '';
-        const WRAP_STYLE = (isEmbed && !hasThumbnail)
-          ? 'width:100%;overflow:hidden;position:relative'
-          : 'width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0';
-
-        let thumbContent;
-        if (hasThumbnail) {
-          thumbContent = `<img class="top-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src=this.src.replace('maxresdefault','hqdefault')}else{this.parentElement.style.background='#f5f5f5'}">`;
-        } else if (isEmbed) {
-          thumbContent = `<div class="embed-ph-inner embed-ph-${item.platform}">
-               <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
-               ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
-             </div>`;
+        let mediaHtml;
+        if (isEmbed) {
+          const iframeUrl    = getIframeUrl(item);
+          const iframeHeight = getIframeHeight(item);
+          if (iframeUrl) {
+            // 直接用平台官方 iframe URL，max-height:400px 避免佔滿整行
+            mediaHtml = `
+              <div class="embed-iframe-wrap top-embed-wrap">
+                <div class="embed-iframe-sk embed-iframe-sk-${item.platform}"></div>
+                <iframe src="${esc(iframeUrl)}" width="100%" height="${iframeHeight}"
+                  frameborder="0" scrolling="no" allowtransparency="true"
+                  allow="encrypted-media" loading="lazy"
+                  title="${esc((item.authorName || item.embedHandle || item.platform) + ' 貼文')}"></iframe>
+                <div class="embed-iframe-fade"></div>
+              </div>`;
+          } else {
+            // fallback：無法解析 post code → 漸層佔位
+            mediaHtml = `
+              <div class="embed-ph embed-ph-${item.platform}" style="width:100%;overflow:hidden;position:relative">
+                <div class="embed-ph-inner embed-ph-${item.platform}">
+                  <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
+                  ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
+                </div>
+              </div>`;
+          }
+        } else if (item.thumbnail) {
+          mediaHtml = `
+            <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0">
+              <img class="top-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy"
+                onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src=this.src.replace('maxresdefault','hqdefault')}else{this.parentElement.style.background='#f5f5f5'}">
+            </div>`;
         } else {
-          thumbContent = `<div style="${PLACEHOLDER_STYLE}">${PLAT_ICON[item.platform] ?? 'f'}</div>`;
+          mediaHtml = `
+            <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0;display:flex;align-items:center;justify-content:center;font-size:2rem">
+              ${PLAT_ICON[item.platform] ?? 'f'}
+            </div>`;
         }
 
         const displayTitle = isEmbed
@@ -1265,13 +1336,12 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           : (item.title || item.authorName || '無標題');
 
         card.innerHTML = `
-          <div class="${wrapClassTop}" style="${WRAP_STYLE}">
-            ${thumbContent}
-          </div>
+          ${mediaHtml}
           ${rankBadgeHtml(rank)}
           <div class="top-info">
             <div class="top-platform-tag ${plat.cls}">${plat.label}</div>
             <div class="top-title">${esc(displayTitle)}</div>
+            ${isEmbed ? `<a class="embed-card-link" href="${esc(item.sourceUrl||'#')}" target="_blank" rel="noopener">前往原文 →</a>` : ''}
           </div>
           <div class="card-stats">
             <button class="like-btn${isLiked ? ' liked' : ''}" title="讚">👍 <span class="like-count">${item.likes ?? 0}</span></button>
@@ -1280,16 +1350,14 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           </div>
         `;
 
-        card.addEventListener('click', () => trackView(item.id));
+        // iframe onLoad → 隱藏 loading skeleton
+        card.querySelector('iframe')?.addEventListener('load', (e) => {
+          e.target.previousElementSibling?.remove();
+        });
 
-        const likeBtn = card.querySelector('.like-btn');
-        if (likeBtn) {
-          likeBtn.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); likePost(item.id, likeBtn); });
-        }
-        const copyBtn = card.querySelector('.copy-btn');
-        if (copyBtn) {
-          copyBtn.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); copyUrl(item.sourceUrl || '', copyBtn); });
-        }
+        card.addEventListener('click', () => trackView(item.id));
+        card.querySelector('.like-btn')?.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); likePost(item.id, card.querySelector('.like-btn')); });
+        card.querySelector('.copy-btn')?.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); copyUrl(item.sourceUrl || '', card.querySelector('.copy-btn')); });
 
         return card;
       }
@@ -1315,41 +1383,60 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       }
 
       function buildRecentCard(item) {
-        const plat = PLATFORM_LABELS[item.platform] || { label: item.platform, cls: '' };
-        const rank = hotRankMap.get(item.id);
+        const plat    = PLATFORM_LABELS[item.platform] || { label: item.platform, cls: '' };
+        const rank    = hotRankMap.get(item.id);
         const isLiked = (() => { try { return !!localStorage.getItem(`liked:${item.id}`); } catch { return false; } })();
-        // embed 模式：Meta 平台（含舊資料 renderMode 不存在的）→ 平台漸層背景
         const isEmbed = item.renderMode === 'embed' || META_PLATFORMS.has(item.platform);
 
-        const card = document.createElement('a');
+        // embed 卡片用 div（iframe 放在 <a> 裡，點擊事件會被 iframe 攔截）
+        const card = document.createElement(isEmbed ? 'div' : 'a');
         card.className = 'recent-card';
         card.style.display = 'block';
-        card.href = item.sourceUrl || '#';
-        card.target = '_blank';
-        card.rel = 'noopener noreferrer';
-        card.dataset.id = item.id;
+        card.dataset.id  = item.id;
         card.dataset.url = item.sourceUrl || '';
+        if (!isEmbed) {
+          card.href   = item.sourceUrl || '#';
+          card.target = '_blank';
+          card.rel    = 'noopener noreferrer';
+        }
 
-        const hasThumbnail = !!item.thumbnail;
         const THUMB_STYLE = 'width:100%;height:100%;object-fit:cover;object-position:center top;display:block';
-        const PLACEHOLDER_STYLE = 'position:absolute;top:0;left:0;width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:2rem;background:#f5f5f5';
 
-        // embed 且無縮圖 → padding-top 漸層佔位；其他（含 embed+縮圖）→ aspect-ratio
-        const wrapClassRecent = (isEmbed && !hasThumbnail) ? `embed-ph embed-ph-${item.platform}` : '';
-        const WRAP_STYLE = (isEmbed && !hasThumbnail)
-          ? 'width:100%;overflow:hidden;position:relative'
-          : 'width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0';
-
-        let thumbContent;
-        if (hasThumbnail) {
-          thumbContent = `<img class="recent-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src=this.src.replace('maxresdefault','hqdefault')}else{this.parentElement.style.background='#f5f5f5'}">`;
-        } else if (isEmbed) {
-          thumbContent = `<div class="embed-ph-inner embed-ph-${item.platform}">
-               <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
-               ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
-             </div>`;
+        let mediaHtml;
+        if (isEmbed) {
+          const iframeUrl    = getIframeUrl(item);
+          const iframeHeight = getIframeHeight(item);
+          if (iframeUrl) {
+            // 直接用平台官方 iframe URL（無 max-height 限制，讓貼文完整顯示）
+            mediaHtml = `
+              <div class="embed-iframe-wrap">
+                <div class="embed-iframe-sk embed-iframe-sk-${item.platform}"></div>
+                <iframe src="${esc(iframeUrl)}" width="100%" height="${iframeHeight}"
+                  frameborder="0" scrolling="no" allowtransparency="true"
+                  allow="encrypted-media" loading="lazy"
+                  title="${esc((item.authorName || item.embedHandle || item.platform) + ' 貼文')}"></iframe>
+              </div>`;
+          } else {
+            // fallback：無法解析 post code → 漸層佔位
+            mediaHtml = `
+              <div class="embed-ph embed-ph-${item.platform}" style="width:100%;overflow:hidden;position:relative">
+                <div class="embed-ph-inner embed-ph-${item.platform}">
+                  <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
+                  ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
+                </div>
+              </div>`;
+          }
+        } else if (item.thumbnail) {
+          mediaHtml = `
+            <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0">
+              <img class="recent-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy"
+                onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src=this.src.replace('maxresdefault','hqdefault')}else{this.parentElement.style.background='#f5f5f5'}">
+            </div>`;
         } else {
-          thumbContent = `<div style="${PLACEHOLDER_STYLE}">${PLAT_ICON[item.platform] ?? 'f'}</div>`;
+          mediaHtml = `
+            <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0;display:flex;align-items:center;justify-content:center;font-size:2rem">
+              ${PLAT_ICON[item.platform] ?? 'f'}
+            </div>`;
         }
 
         const displayTitle = isEmbed
@@ -1361,14 +1448,13 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           : '';
 
         card.innerHTML = `
-          <div class="${wrapClassRecent}" style="${WRAP_STYLE}">
-            ${thumbContent}
-          </div>
+          ${mediaHtml}
           ${rank ? hotBadgeHtml(rank) : ''}
           <div class="recent-info">
             <div class="recent-platform-tag ${plat.cls}">${plat.label}</div>
             <div class="recent-title">${esc(displayTitle)}</div>
             ${authorLine}
+            ${isEmbed ? `<a class="embed-card-link" href="${esc(item.sourceUrl||'#')}" target="_blank" rel="noopener">前往原文 →</a>` : ''}
           </div>
           <div class="card-stats">
             <button class="like-btn${isLiked ? ' liked' : ''}" title="讚">👍 <span class="like-count">${item.likes ?? 0}</span></button>
@@ -1378,16 +1464,14 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           <button class="recent-delete-btn" title="移除（管理員）" style="display:none">🗑</button>
         `;
 
-        card.addEventListener('click', () => trackView(item.id));
+        // iframe onLoad → 隱藏 loading skeleton
+        card.querySelector('iframe')?.addEventListener('load', (e) => {
+          e.target.previousElementSibling?.remove();
+        });
 
-        const likeBtn = card.querySelector('.like-btn');
-        if (likeBtn) {
-          likeBtn.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); likePost(item.id, likeBtn); });
-        }
-        const copyBtn = card.querySelector('.copy-btn');
-        if (copyBtn) {
-          copyBtn.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); copyUrl(item.sourceUrl || '', copyBtn); });
-        }
+        card.addEventListener('click', () => trackView(item.id));
+        card.querySelector('.like-btn')?.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); likePost(item.id, card.querySelector('.like-btn')); });
+        card.querySelector('.copy-btn')?.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); copyUrl(item.sourceUrl || '', card.querySelector('.copy-btn')); });
 
         const delBtn = card.querySelector('.recent-delete-btn');
         if (delBtn) {
