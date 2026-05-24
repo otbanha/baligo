@@ -1235,6 +1235,11 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }, 50);
       });
 
+      // Threads 的 /embed/post/{code} 需要 embed.js 注入的 xmt= token，
+      // 直接 iframe 會被 Threads 擋掉 → 格子卡改回縮圖 / 漸層佔位
+      // Instagram /embed/captioned/ 與 FB plugins/post.php 是公開 API，可直接 iframe
+      const IFRAME_EMBED_PLATFORMS = new Set(['instagram', 'facebook']);
+
       // ── iframe URL helpers（相容無 iframeUrl 的舊 KV 資料）──────────────────
       function getIframeUrl(item) {
         if (item.embed?.iframeUrl) return item.embed.iframeUrl;
@@ -1292,9 +1297,11 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }
 
         const THUMB_STYLE = 'width:100%;height:100%;object-fit:cover;object-position:center top;display:block';
+        // useIframe：僅 IG / FB 支援無 token 直接 iframe；Threads 需 embed.js 注入 xmt= → 改用縮圖
+        const useIframe = isEmbed && IFRAME_EMBED_PLATFORMS.has(item.platform);
 
         let mediaHtml;
-        if (isEmbed) {
+        if (useIframe) {
           const iframeUrl    = getIframeUrl(item);
           const iframeHeight = getIframeHeight(item);
           if (iframeUrl) {
@@ -1318,6 +1325,22 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
                 </div>
               </div>`;
           }
+        } else if (isEmbed && item.thumbnail) {
+          // Threads：oEmbed 取到縮圖 → 顯示真實圖片
+          mediaHtml = `
+            <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#111">
+              <img class="top-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy"
+                onerror="this.parentElement.innerHTML='<div style=\\'width:100%;height:100%;background:linear-gradient(160deg,#111 0%,#2a2a2a 100%);display:flex;align-items:center;justify-content:center;font-size:2rem\\'>🧵</div>'">
+            </div>`;
+        } else if (isEmbed) {
+          // Threads 無縮圖 → 漸層佔位
+          mediaHtml = `
+            <div class="embed-ph embed-ph-${item.platform}" style="width:100%;overflow:hidden;position:relative">
+              <div class="embed-ph-inner embed-ph-${item.platform}">
+                <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
+                ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
+              </div>
+            </div>`;
         } else if (item.thumbnail) {
           mediaHtml = `
             <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0">
@@ -1401,9 +1424,11 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }
 
         const THUMB_STYLE = 'width:100%;height:100%;object-fit:cover;object-position:center top;display:block';
+        // useIframe：僅 IG / FB 支援無 token 直接 iframe；Threads 需 embed.js 注入 xmt= → 改用縮圖
+        const useIframe = isEmbed && IFRAME_EMBED_PLATFORMS.has(item.platform);
 
         let mediaHtml;
-        if (isEmbed) {
+        if (useIframe) {
           const iframeUrl    = getIframeUrl(item);
           const iframeHeight = getIframeHeight(item);
           if (iframeUrl) {
@@ -1426,6 +1451,22 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
                 </div>
               </div>`;
           }
+        } else if (isEmbed && item.thumbnail) {
+          // Threads：oEmbed 取到縮圖 → 顯示真實圖片
+          mediaHtml = `
+            <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#111">
+              <img class="recent-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy"
+                onerror="this.parentElement.innerHTML='<div style=\\'width:100%;height:100%;background:linear-gradient(160deg,#111 0%,#2a2a2a 100%);display:flex;align-items:center;justify-content:center;font-size:2rem\\'>🧵</div>'">
+            </div>`;
+        } else if (isEmbed) {
+          // Threads 無縮圖 → 漸層佔位
+          mediaHtml = `
+            <div class="embed-ph embed-ph-${item.platform}" style="width:100%;overflow:hidden;position:relative">
+              <div class="embed-ph-inner embed-ph-${item.platform}">
+                <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
+                ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
+              </div>
+            </div>`;
         } else if (item.thumbnail) {
           mediaHtml = `
             <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0">
