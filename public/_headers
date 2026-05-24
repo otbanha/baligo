@@ -1,3 +1,8 @@
+# /forum — Supabase auth, Storage CDN, Turnstile; noindex on all forum pages
+/forum/*
+  X-Robots-Tag: noindex, follow
+  Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://cdn.jsdelivr.net https://challenges.cloudflare.com; connect-src 'self' https://*.supabase.co https://challenges.cloudflare.com; img-src 'self' data: blob: https:; frame-src https://challenges.cloudflare.com; style-src 'self' 'unsafe-inline'; font-src 'self' data: https:;
+
 # /share — allow Meta & YouTube embed widgets (Threads, IG, FB) + Turnstile
 /share
   Content-Security-Policy: default-src 'self'; script-src 'self' 'unsafe-inline' https://challenges.cloudflare.com https://www.threads.net https://www.instagram.com https://connect.facebook.net; frame-src 'self' https://www.threads.net https://www.instagram.com https://www.facebook.com https://staticxx.facebook.com https://www.youtube.com https://challenges.cloudflare.com; img-src 'self' data: blob: https:; style-src 'self' 'unsafe-inline'; connect-src 'self' https:; font-src 'self' data: https:;

@@ -13,6 +13,7 @@ const items = [
   { id: 'spa',       icon: '🧖', url: '/blog/spa/' },
   { id: 'tickets',   icon: '🎟️', url: '/tickets/', publishedAt: '2026-05-15' },
   { id: 'driver',    icon: '🚕', url: '/blog/bali-private-car-drivers-guide/' },
+  { id: 'forum',     icon: '📋', url: '/forum/immigration/', noLocalize: true, publishedAt: '2026-05-24' },
 ] as const;
 
 type ItemId = typeof items[number]['id'];
@@ -28,6 +29,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     tickets:   { full: '票券優惠', mobile: '票券' },
     spa:       { full: 'SPA 推薦', mobile: 'SPA' },
     driver:    { full: '司機推薦', mobile: '司機' },
+    forum:     { full: '入境通報', mobile: '通報' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
@@ -40,6 +42,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     tickets:   { full: '票券优惠', mobile: '票券' },
     spa:       { full: 'SPA 推荐', mobile: 'SPA' },
     driver:    { full: '司机推荐', mobile: '司机' },
+    forum:     { full: '入境通报', mobile: '通报' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
@@ -52,6 +55,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     tickets:   { full: '票券優惠', mobile: '票券' },
     spa:       { full: 'SPA 推薦', mobile: 'SPA' },
     driver:    { full: '司機推薦', mobile: '司機' },
+    forum:     { full: '入境通報', mobile: '通報' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
@@ -64,6 +68,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     tickets:   { full: 'Tickets',    mobile: 'Tickets' },
     spa:       { full: 'SPA',        mobile: 'SPA' },
     driver:    { full: 'Driver Rec', mobile: 'Driver' },
+    forum:     { full: 'Entry Reports', mobile: 'Reports' },
     newBadge:  'NEW',
     navLabel:  'Main features',
   },
