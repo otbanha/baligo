@@ -1176,7 +1176,8 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           if (data.ok) {
             resultArea.innerHTML = '';
             resultArea.appendChild(renderCard(data, rawUrl));
-            loadRecent();
+            // KV 寫入是 waitUntil 非同步，等 1.5 秒再 reload 確保資料已寫入
+            setTimeout(() => loadRecent(), 1500);
           } else {
             renderError(data, rawUrl);
           }
