@@ -208,12 +208,12 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
 
       .card-thumbnail {
         width: 100%;
-        border-radius: 8px;
-        max-height: 320px;
+        aspect-ratio: 4 / 5;
         object-fit: cover;
+        object-position: center top;
         display: block;
         margin-bottom: 0.8rem;
-        background: #f5f5f5;
+        border-radius: 8px;
       }
       .source-link {
         display: inline-flex;
@@ -326,12 +326,10 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .top-card:hover { box-shadow: 0 3px 12px rgba(0,0,0,.12); }
       .top-thumb {
         width: 100%;
-        height: unset;
-        aspect-ratio: 4 / 5;
+        height: 100%;
         object-fit: cover;
-        object-position: center;
+        object-position: center top;
         display: block;
-        background: #f0f0f0;
       }
       .top-thumb-placeholder {
         width: 100%;
@@ -402,12 +400,10 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .recent-card:hover { box-shadow: 0 3px 12px rgba(0,0,0,.10); }
       .recent-thumb {
         width: 100%;
-        height: unset;
-        aspect-ratio: 4 / 5;
+        height: 100%;
         object-fit: cover;
-        object-position: center;
+        object-position: center top;
         display: block;
-        background: #f0f0f0;
       }
       .recent-thumb-placeholder {
         width: 100%;
@@ -1018,8 +1014,8 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         // embed 模式：Meta 平台 → 平台漸層背景 + icon（Grid 太窄放不下完整 widget）
         const isEmbed = item.renderMode === 'embed' || META_PLATFORMS.has(item.platform);
 
-        const WRAP_STYLE = `position:relative;width:100%;padding-top:125%;overflow:hidden;${isEmbed ? '' : 'background:#f0f0f0'}`;
-        const THUMB_STYLE = 'position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;object-position:center;display:block';
+        const WRAP_STYLE = `width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;${isEmbed ? '' : 'background:#f0f0f0'}`;
+        const THUMB_STYLE = 'width:100%;height:100%;object-fit:cover;object-position:center top;display:block';
         const PLACEHOLDER_STYLE = 'position:absolute;top:0;left:0;width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:2rem;background:#f5f5f5';
 
         const thumbContent = isEmbed
@@ -1101,8 +1097,8 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         card.dataset.id = item.id;
         card.dataset.url = item.sourceUrl || '';
 
-        const WRAP_STYLE = `position:relative;width:100%;padding-top:125%;overflow:hidden;${isEmbed ? '' : 'background:#f0f0f0'}`;
-        const THUMB_STYLE = 'position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;object-position:center;display:block';
+        const WRAP_STYLE = `width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;${isEmbed ? '' : 'background:#f0f0f0'}`;
+        const THUMB_STYLE = 'width:100%;height:100%;object-fit:cover;object-position:center top;display:block';
         const PLACEHOLDER_STYLE = 'position:absolute;top:0;left:0;width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:2rem;background:#f5f5f5';
 
         const thumbContent = isEmbed
