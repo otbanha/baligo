@@ -2,7 +2,6 @@ import { defineConfig } from 'astro/config';
 import { remarkBlocks } from './src/remark-blocks.mjs';
 import sitemap from '@astrojs/sitemap';
 import mdx from '@astrojs/mdx';
-import cloudflare from '@astrojs/cloudflare';
 import { readFileSync, writeFileSync, existsSync } from 'fs';
 import { join } from 'path';
 import matter from 'gray-matter';
@@ -122,7 +121,6 @@ export default defineConfig({
     format: 'directory'
   },
   output: 'static',
-  adapter: cloudflare({ mode: 'advanced', platformProxy: { enabled: false } }),
   vite: {
     plugins: [
       {

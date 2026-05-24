@@ -1,0 +1,35 @@
+---
+interface Props { entryDate: string; }
+const { entryDate } = Astro.props;
+const now = new Date();
+const entry = new Date(entryDate);
+const daysSince = Math.floor((now.getTime() - entry.getTime()) / 86400000);
+const isExpiredWarning = daysSince >= 14;
+const isArchived = daysSince >= 30;
+---
+
+{isArchived && (
+  <div class="expiry-notice expiry-notice--archived" role="alert">
+    ⚠️ 此通報已超過 30 天，資訊可能已過時，僅供參考。
+  </div>
+)}
+{!isArchived && isExpiredWarning && (
+  <div class="expiry-notice expiry-notice--warning" role="alert">
+    ⏰ 此通報已超過 14 天，入境規定可能已有異動，建議參考最新通報。
+  </div>
+)}
+
+<style>
+.expiry-notice {
+  display: flex;
+  align-items: flex-start;
+  gap: .5rem;
+  font-size: .84rem;
+  line-height: 1.5;
+  border-radius: 8px;
+  padding: .65rem .9rem;
+  margin-bottom: 1rem;
+}
+.expiry-notice--warning  { background: #fffbeb; color: #92400e; border: 1px solid #fcd34d; }
+.expiry-notice--archived { background: #fef2f2; color: #991b1b; border: 1px solid #fca5a5; }
+</style>

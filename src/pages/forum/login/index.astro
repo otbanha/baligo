@@ -1,0 +1,95 @@
+---
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import TopStrip from '../../../components/TopStrip.astro';
+import Footer from '../../../components/Footer.astro';
+const supabaseUrl = import.meta.env.PUBLIC_SUPABASE_URL;
+const supabaseAnonKey = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead title="登入 — 峇里島入境通報 | Go Bali Go" description="使用 Google 帳號登入，分享你的峇里島入境體驗" noSuffix />
+  <meta name="robots" content="noindex, nofollow" />
+</head>
+<body>
+  <Header lang="blog" />
+  <TopStrip lang="zh-tw" />
+
+  <main class="forum-login-page">
+    <div class="login-card">
+      <div class="login-icon">✈️</div>
+      <h1>登入以發布通報</h1>
+      <p class="login-desc">使用 Google 帳號登入，分享你的峇里島入境海關體驗，幫助其他旅客做好準備。</p>
+      <div id="login-error" class="login-error" style="display:none"></div>
+      <button id="google-login-btn" class="google-btn">
+        <svg viewBox="0 0 24 24" width="20" height="20" aria-hidden="true">
+          <path fill="#4285F4" d="M22.56 12.25c0-.78-.07-1.53-.2-2.25H12v4.26h5.92c-.26 1.37-1.04 2.53-2.21 3.31v2.77h3.57c2.08-1.92 3.28-4.74 3.28-8.09z"/>
+          <path fill="#34A853" d="M12 23c2.97 0 5.46-.98 7.28-2.66l-3.57-2.77c-.98.66-2.23 1.06-3.71 1.06-2.86 0-5.29-1.93-6.16-4.53H2.18v2.84C3.99 20.53 7.7 23 12 23z"/>
+          <path fill="#FBBC05" d="M5.84 14.09c-.22-.66-.35-1.36-.35-2.09s.13-1.43.35-2.09V7.07H2.18C1.43 8.55 1 10.22 1 12s.43 3.45 1.18 4.93l2.85-2.22.81-.62z"/>
+          <path fill="#EA4335" d="M12 5.38c1.62 0 3.06.56 4.21 1.64l3.15-3.15C17.45 2.09 14.97 1 12 1 7.7 1 3.99 3.47 2.18 7.07l3.66 2.84c.87-2.6 3.3-4.53 6.16-4.53z"/>
+        </svg>
+        使用 Google 帳號繼續
+      </button>
+      <p class="login-notice">登入即表示你同意我們的使用條款。通報內容為 UGC，站方保留審核權。</p>
+    </div>
+  </main>
+
+  <Footer lang="zh-tw" />
+
+  <script define:vars={{ supabaseUrl, supabaseAnonKey }}>
+  (async () => {
+    const { createClient } = await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm');
+    const supabase = createClient(supabaseUrl, supabaseAnonKey, { auth: { flowType: 'pkce' } });
+
+    // Show error if redirected with ?error=
+    const params = new URLSearchParams(location.search);
+    const errParam = params.get('error');
+    if (errParam) {
+      const el = document.getElementById('login-error');
+      el.textContent = errParam === 'callback_failed' ? '登入失敗，請再試一次' : '發生錯誤：' + errParam;
+      el.style.display = 'block';
+    }
+
+    // If already logged in, redirect
+    const { data: { session } } = await supabase.auth.getSession();
+    if (session) {
+      location.href = params.get('next') || '/forum/immigration/';
+      return;
+    }
+
+    const nextUrl = params.get('next') || '/forum/immigration/';
+    document.getElementById('google-login-btn').addEventListener('click', async () => {
+      const btn = document.getElementById('google-login-btn');
+      btn.disabled = true;
+      btn.textContent = '跳轉中⋯';
+      const { error } = await supabase.auth.signInWithOAuth({
+        provider: 'google',
+        options: {
+          redirectTo: `${location.origin}/forum/auth/callback/?next=${encodeURIComponent(nextUrl)}`,
+          scopes: 'openid email profile',
+        },
+      });
+      if (error) {
+        btn.disabled = false;
+        btn.innerHTML = '<svg viewBox="0 0 24 24" width="20" height="20">...</svg> 使用 Google 帳號繼續';
+        alert('登入失敗：' + error.message);
+      }
+    });
+  })();
+  </script>
+
+  <style>
+  .forum-login-page { min-height:60vh; display:flex; align-items:center; justify-content:center; padding:2rem 1rem; }
+  .login-card { background:#fff; border:1px solid rgba(201,168,76,.25); border-radius:16px; padding:2.5rem 2rem; max-width:420px; width:100%; text-align:center; box-shadow:0 4px 24px rgba(26,54,93,.08); }
+  .login-icon { font-size:2.5rem; margin-bottom:.8rem; }
+  .login-card h1 { font-size:1.3rem; color:var(--ocean); margin:0 0 .7rem; font-weight:700; }
+  .login-desc { color:var(--text-light); font-size:.9rem; line-height:1.6; margin-bottom:1.8rem; }
+  .login-error { background:#fff5f5; color:#c53030; border:1px solid #fed7d7; border-radius:8px; padding:.6rem 1rem; font-size:.88rem; margin-bottom:1rem; }
+  .google-btn { display:flex; align-items:center; justify-content:center; gap:.7rem; width:100%; padding:.85rem 1.4rem; background:#fff; border:1.5px solid #dadce0; border-radius:8px; font-size:.95rem; font-weight:600; color:#3c4043; cursor:pointer; transition:background .15s,box-shadow .15s; font-family:inherit; }
+  .google-btn:hover { background:#f8f9fa; box-shadow:0 1px 6px rgba(0,0,0,.1); }
+  .google-btn:disabled { opacity:.6; cursor:not-allowed; }
+  .login-notice { font-size:.75rem; color:#999; margin-top:1.2rem; line-height:1.5; }
+  </style>
+</body>
+</html>

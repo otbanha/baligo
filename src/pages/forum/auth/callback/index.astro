@@ -1,0 +1,48 @@
+---
+// Static page — Supabase JS client handles PKCE code exchange on the client side
+const supabaseUrl = import.meta.env.PUBLIC_SUPABASE_URL;
+const supabaseAnonKey = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
+---
+
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>登入中⋯</title>
+  <style>
+    body { display:flex; align-items:center; justify-content:center; min-height:100vh; margin:0; font-family:sans-serif; background:#f8f9fa; }
+    .msg { text-align:center; color:#1A365D; }
+    .spinner { width:36px; height:36px; border:3px solid #e2e8f0; border-top-color:#C5A059; border-radius:50%; animation:spin .8s linear infinite; margin:0 auto 1rem; }
+    @keyframes spin { to { transform:rotate(360deg); } }
+  </style>
+</head>
+<body>
+  <div class="msg">
+    <div class="spinner"></div>
+    <p>登入中，請稍候⋯</p>
+  </div>
+
+  <script define:vars={{ supabaseUrl, supabaseAnonKey }}>
+  (async () => {
+    const { createClient } = await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm');
+    const supabase = createClient(supabaseUrl, supabaseAnonKey, {
+      auth: { flowType: 'pkce' }
+    });
+
+    // Supabase automatically exchanges the code from the URL
+    const { data, error } = await supabase.auth.getSession();
+
+    if (error) {
+      location.href = '/forum/login/?error=callback_failed';
+      return;
+    }
+
+    // Read ?next= param
+    const next = new URLSearchParams(location.search).get('next') || '/forum/immigration/';
+    location.href = next;
+  })();
+  </script>
+</body>
+</html>

@@ -1,0 +1,144 @@
+---
+import type { Report, TrustLevel } from '../../types/forum';
+import { VISA_TYPE_LABELS, TIME_SLOT_LABELS, getTrustLevel } from '../../types/forum';
+import TrustBadge from './TrustBadge.astro';
+import ExpiryNotice from './ExpiryNotice.astro';
+
+interface Props { report: Report; }
+const { report } = Astro.props;
+
+const profile = report.user_profiles;
+const trustLevel: TrustLevel = profile
+  ? getTrustLevel({ approved_count: profile.approved_count, flagged_count: 0, last_flag_at: undefined })
+  : 'new';
+---
+
+<article class="report-detail">
+  <ExpiryNotice entryDate={report.entry_date} />
+
+  <header class="rd-header">
+    <div class="rd-title-row">
+      <h1 class="rd-title">
+        {report.entry_date} 入境通報
+        <span class="rd-airport">({report.airport})</span>
+      </h1>
+    </div>
+    <div class="rd-meta-row">
+      <span class="rd-timeslot">{TIME_SLOT_LABELS[report.entry_time_slot]}</span>
+      <span class="rd-dot">·</span>
+      <span class="rd-visa">{VISA_TYPE_LABELS[report.visa_type]}</span>
+      {report.visa_type === 'voa' && report.voa_payment_method && (
+        <span class="rd-dot">·</span>
+        <span class="rd-voa">付款方式：{report.voa_payment_method}</span>
+      )}
+    </div>
+  </header>
+
+  <section class="rd-section">
+    <h2 class="rd-section-title">通報摘要</h2>
+    <div class="rd-grid">
+      {report.queue_minutes != null && (
+        <div class="rd-stat">
+          <span class="rd-stat-label">排隊時間</span>
+          <span class="rd-stat-value">{report.queue_minutes} 分鐘</span>
+        </div>
+      )}
+      <div class="rd-stat">
+        <span class="rd-stat-label">海關抽查</span>
+        <span class="rd-stat-value">{report.customs_checked ? '有' : '無'}</span>
+      </div>
+      <div class="rd-stat">
+        <span class="rd-stat-label">遭索賄</span>
+        <span class={`rd-stat-value${report.bribe_attempted ? ' rd-warn' : ''}`}>
+          {report.bribe_attempted ? '有' : '無'}
+        </span>
+      </div>
+    </div>
+  </section>
+
+  {report.customs_checked && report.customs_issue && (
+    <section class="rd-section">
+      <h2 class="rd-section-title">海關檢查詳情</h2>
+      <pre class="rd-text">{report.customs_issue}</pre>
+    </section>
+  )}
+
+  {report.bribe_attempted && (
+    <section class="rd-section rd-section--warn">
+      <h2 class="rd-section-title">索賄詳情</h2>
+      {report.bribe_amount_idr && (
+        <p class="rd-bribe-amount">索賄金額：IDR {report.bribe_amount_idr.toLocaleString()}</p>
+      )}
+      {report.bribe_context && <pre class="rd-text">{report.bribe_context}</pre>}
+    </section>
+  )}
+
+  <section class="rd-section">
+    <h2 class="rd-section-title">入境完整記錄</h2>
+    <pre class="rd-text">{report.general_notes}</pre>
+  </section>
+
+  {report.proof_image_urls?.length > 0 && (
+    <section class="rd-section">
+      <h2 class="rd-section-title">照片佐證</h2>
+      <div class="rd-images">
+        {report.proof_image_urls.map((url, i) => (
+          <img src={url} alt={`佐證照片 ${i + 1}`} class="rd-image" loading="lazy" />
+        ))}
+      </div>
+    </section>
+  )}
+
+  <footer class="rd-author">
+    <div class="rd-author-info">
+      {profile?.avatar_url
+        ? <img src={profile.avatar_url} alt="" class="rd-avatar" loading="lazy" />
+        : <span class="rd-avatar-placeholder">👤</span>
+      }
+      <div>
+        <span class="rd-author-name">{profile?.display_name ?? '匿名'}</span>
+        <TrustBadge level={trustLevel} />
+      </div>
+    </div>
+    <span class="rd-posted">發布於 {new Date(report.created_at).toLocaleDateString('zh-TW')}</span>
+  </footer>
+
+  <a href="/forum/immigration/" class="rd-back">← 返回列表</a>
+</article>
+
+<style>
+.report-detail { max-width: 720px; margin: 0 auto; }
+
+.rd-header { margin-bottom: 1.5rem; }
+.rd-title { font-size: 1.4rem; color: var(--ocean); margin: 0 0 .5rem; font-weight: 700; }
+.rd-airport { font-size: .9rem; font-weight: 400; color: var(--text-light); }
+.rd-meta-row { display: flex; align-items: center; flex-wrap: wrap; gap: .4rem; font-size: .85rem; color: var(--text-light); }
+.rd-dot { color: #d4c9b5; }
+.rd-visa { font-weight: 700; color: var(--ocean); }
+
+.rd-section { background: #fafaf8; border: 1px solid rgba(201,168,76,.15); border-radius: 10px; padding: 1.1rem 1.2rem; margin-bottom: 1rem; }
+.rd-section--warn { background: #fff5f5; border-color: #fca5a5; }
+.rd-section-title { font-size: .88rem; font-weight: 700; color: var(--ocean); margin: 0 0 .7rem; text-transform: uppercase; letter-spacing: .04em; }
+
+.rd-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(140px, 1fr)); gap: .6rem; }
+.rd-stat { display: flex; flex-direction: column; gap: .15rem; }
+.rd-stat-label { font-size: .75rem; color: var(--text-light); }
+.rd-stat-value { font-size: .95rem; font-weight: 600; color: var(--text); }
+.rd-warn { color: #c53030; }
+.rd-bribe-amount { font-size: .9rem; font-weight: 700; color: #c53030; margin: 0 0 .5rem; }
+
+.rd-text { white-space: pre-wrap; font-family: inherit; font-size: .9rem; line-height: 1.7; color: var(--text); margin: 0; }
+
+.rd-images { display: flex; flex-wrap: wrap; gap: .8rem; }
+.rd-image { max-width: 100%; width: 280px; border-radius: 8px; cursor: zoom-in; }
+
+.rd-author { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: .5rem; margin-top: 1.5rem; padding-top: 1rem; border-top: 1px solid rgba(201,168,76,.2); }
+.rd-author-info { display: flex; align-items: center; gap: .6rem; }
+.rd-avatar { width: 28px; height: 28px; border-radius: 50%; object-fit: cover; }
+.rd-avatar-placeholder { font-size: 1.2rem; }
+.rd-author-name { font-size: .88rem; font-weight: 600; color: var(--ocean); margin-right: .4rem; }
+.rd-posted { font-size: .8rem; color: var(--text-light); }
+
+.rd-back { display: inline-block; margin-top: 1.2rem; font-size: .9rem; color: var(--ocean); text-decoration: none; }
+.rd-back:hover { color: var(--gold); }
+</style>
