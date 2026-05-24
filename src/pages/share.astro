@@ -499,9 +499,39 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         .recent-grid { grid-template-columns: repeat(4, 1fr); }
         .top-grid    { grid-template-columns: repeat(3, 1fr); }
       }
+
+      /* ── Embed card (result area — full embed widget) ── */
+      .embed-body { padding: 0.8rem 0.8rem 0.6rem; }
+      .embed-widget-wrap { width: 100%; overflow: hidden; border-radius: 8px; }
+      /* Loading skeleton while embed widget initializes */
+      .embed-skeleton {
+        width: 100%; border-radius: 8px; height: 380px; margin-bottom: 0.7rem;
+        background-size: 1200px 100%;
+        animation: shimmer 1.4s infinite linear;
+      }
+      .embed-skeleton-threads  { background: linear-gradient(90deg,#111 25%,#222 50%,#111 75%); background-size:1200px 100%; }
+      .embed-skeleton-instagram { background: linear-gradient(90deg,#b24592 25%,#e15c8a 50%,#b24592 75%); background-size:1200px 100%; opacity:.4; }
+      .embed-skeleton-facebook  { background: linear-gradient(90deg,#1565c0 25%,#1e88e5 50%,#1565c0 75%); background-size:1200px 100%; opacity:.4; }
+
+      /* ── Grid embed cards — compact platform-branded placeholder ── */
+      .embed-ph {
+        position: relative; width: 100%; padding-top: 125%; overflow: hidden;
+      }
+      .embed-ph-inner {
+        position: absolute; inset: 0;
+        display: flex; flex-direction: column; align-items: center; justify-content: center;
+        gap: 0.35rem;
+      }
+      .embed-ph-threads  { background: linear-gradient(160deg,#111 0%,#2a2a2a 100%); }
+      .embed-ph-instagram { background: linear-gradient(160deg,#833ab4 0%,#fd1d1d 55%,#fcb045 100%); }
+      .embed-ph-facebook  { background: linear-gradient(160deg,#1877f2 0%,#42a5f5 100%); }
+      .embed-ph-icon  { font-size: 2.4rem; filter: drop-shadow(0 2px 6px rgba(0,0,0,.35)); }
+      .embed-ph-label { font-size: 0.75rem; color: rgba(255,255,255,.85); font-weight: 600; letter-spacing: 0.03em; }
     </style>
   </head>
   <body>
+    <!-- Facebook SDK 需要此節點 -->
+    <div id="fb-root"></div>
     <Header basePath="tools/unfurl" />
     <TopStrip lang="zh-tw" />
     <main class="unfurl-page">
@@ -597,7 +627,39 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         tiktok:    { label: '♪ TikTok',    cls: 'tag-tiktok' },
       };
 
-      const PLAT_ICON = { youtube: '▶', threads: '◉', instagram: '◈', tiktok: '♪' };
+      const PLAT_ICON = { youtube: '▶', threads: '◉', instagram: '◈', tiktok: '♪', facebook: 'f' };
+
+      // ── Embed platform support ─────────────────────────────────────────────
+      const META_PLATFORMS = new Set(['threads', 'instagram', 'facebook']);
+
+      /** Singleton embed script loader — 同平台只載一次 */
+      const _loadedScripts = new Set();
+      function loadEmbedScript(src) {
+        if (!src || _loadedScripts.has(src)) return;
+        _loadedScripts.add(src);
+        const s = document.createElement('script');
+        s.src = src; s.async = true;
+        document.body.appendChild(s);
+      }
+
+      /**
+       * 觸發各平台 widget reprocess（給同頁第2+張 embed 用）
+       * Threads 無官方 API → 移除舊 script tag 再重新載入
+       */
+      function reprocessEmbeds(type) {
+        try {
+          if (type === 'instagram') {
+            window.instgrm?.Embeds?.process?.();
+          } else if (type === 'facebook') {
+            window.FB?.XFBML?.parse?.();
+          } else if (type === 'threads') {
+            const src = 'https://www.threads.net/embed.js';
+            document.querySelectorAll(`script[src="${src}"]`).forEach(s => s.remove());
+            _loadedScripts.delete(src);
+            loadEmbedScript(src);
+          }
+        } catch {}
+      }
 
       const ERROR_FRIENDLY = {
         BLOCKED_BY_PLATFORM: (url) => `
@@ -707,8 +769,78 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         `;
       }
 
+      // ── Embed result card（Threads / IG / FB 官方 widget）──
+      function renderEmbedCard(data, rawUrl) {
+        const p = data.platform || 'unknown';
+        const embed = data.embed || {};
+        const plat = PLATFORM_LABELS[p] || { label: p, cls: '' };
+        const sourceUrl = data.data?.sourceUrl || rawUrl;
+        const handle = data.data?.author?.handle;
+
+        let widgetHtml = '';
+        let skeletonCls = `embed-skeleton-${p}`;
+
+        if (embed.type === 'threads') {
+          widgetHtml = `<blockquote class="text-post-media" data-text-post-permalink="${esc(embed.url)}" style="margin:0;max-width:100%;border-radius:8px;overflow:hidden;"><a href="${esc(embed.url)}" target="_blank" rel="noopener">查看 Threads 貼文</a></blockquote>`;
+        } else if (embed.type === 'instagram') {
+          widgetHtml = `<blockquote class="instagram-media" data-instgrm-permalink="${esc(embed.url)}" data-instgrm-version="14" style="background:#fff;border:0;margin:0;max-width:540px;min-width:0;padding:0;width:100%;border-radius:8px;overflow:hidden;"><div style="padding:16px"><a href="${esc(embed.url)}" target="_blank" rel="noopener">查看 Instagram 貼文</a></div></blockquote>`;
+        } else if (embed.type === 'facebook') {
+          widgetHtml = `<div class="fb-post" data-href="${esc(embed.url)}" data-width="100%" data-show-text="true"></div>`;
+        }
+
+        const handleSpan = handle
+          ? ` <span style="font-weight:400;font-size:0.85rem;color:#888">· ${esc(handle)}</span>`
+          : '';
+        const deleteBtn = `<button class="delete-btn" id="card-delete-btn" title="移除（管理員）" style="${isAdminUser ? '' : 'display:none'}">🗑</button>`;
+
+        const card = document.createElement('div');
+        card.className = `result-card platform-${p}`;
+        card.innerHTML = `
+          <div class="card-header">
+            <span class="card-platform ${plat.cls}">${plat.label}${handleSpan}</span>
+            <div class="card-actions">${deleteBtn}</div>
+          </div>
+          <div class="embed-body">
+            <div class="embed-skeleton ${skeletonCls}" id="embed-sk"></div>
+            <div class="embed-widget-wrap" id="embed-ww">${widgetHtml}</div>
+            <a class="source-link" href="${esc(sourceUrl)}" target="_blank" rel="noopener noreferrer" style="margin-top:0.8rem;display:inline-flex">前往原文 →</a>
+          </div>
+        `;
+
+        // 載入 embed script（singleton）
+        if (embed.script) {
+          loadEmbedScript(embed.script);
+          // 稍後觸發 reprocess（處理 script 已載入但新 blockquote 尚未被 process 的情況）
+          setTimeout(() => reprocessEmbeds(embed.type), 400);
+        }
+
+        // MutationObserver：iframe 出現後隱藏 skeleton
+        const sk = card.querySelector('#embed-sk');
+        const ww = card.querySelector('#embed-ww');
+        if (sk && ww) {
+          const obs = new MutationObserver(() => {
+            if (ww.querySelector('iframe')) { sk.style.display = 'none'; obs.disconnect(); }
+          });
+          obs.observe(ww, { childList: true, subtree: true });
+          // 最長等 15 秒後強制隱藏（保底）
+          setTimeout(() => { sk.style.display = 'none'; }, 15000);
+        }
+
+        // 刪除按鈕
+        card.querySelector('#card-delete-btn')?.addEventListener('click', async () => {
+          const match = Array.from(recentGrid.querySelectorAll('[data-id]'))
+            .find(el => el.dataset.url === sourceUrl);
+          if (!match) { alert('找不到此貼文在最近清單中'); return; }
+          await deleteRecentItem(match.dataset.id, match);
+        });
+
+        return card;
+      }
+
       // ── Result card ──
       function renderCard(data, rawUrl) {
+        // Meta 平台（Threads / IG / FB）→ embed widget
+        if ((data.renderMode ?? 'rich') === 'embed') return renderEmbedCard(data, rawUrl);
         const p = data.platform || 'unknown';
         const d = data.data || {};
         const plat = PLATFORM_LABELS[p] || { label: p, cls: '' };
@@ -879,22 +1011,34 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         card.dataset.id = item.id;
 
         const isLiked = (() => { try { return !!localStorage.getItem(`liked:${item.id}`); } catch { return false; } })();
+        // embed 模式：Meta 平台 → 平台漸層背景 + icon（Grid 太窄放不下完整 widget）
+        const isEmbed = item.renderMode === 'embed' || META_PLATFORMS.has(item.platform);
 
-        const WRAP_STYLE = 'position:relative;width:100%;padding-top:125%;overflow:hidden;background:#f0f0f0';
+        const WRAP_STYLE = `position:relative;width:100%;padding-top:125%;overflow:hidden;${isEmbed ? '' : 'background:#f0f0f0'}`;
         const THUMB_STYLE = 'position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;object-position:center;display:block';
         const PLACEHOLDER_STYLE = 'position:absolute;top:0;left:0;width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:2rem;background:#f5f5f5';
 
-        card.innerHTML = `
-          <div style="${WRAP_STYLE}">
-            ${item.thumbnail
+        const thumbContent = isEmbed
+          ? `<div class="embed-ph-inner embed-ph-${item.platform}">
+               <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
+               ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
+             </div>`
+          : (item.thumbnail
               ? `<img class="top-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="this.parentElement.style.background='#f5f5f5'">`
-              : `<div style="${PLACEHOLDER_STYLE}">${PLAT_ICON[item.platform] ?? 'f'}</div>`
-            }
+              : `<div style="${PLACEHOLDER_STYLE}">${PLAT_ICON[item.platform] ?? 'f'}</div>`);
+
+        const displayTitle = isEmbed
+          ? (item.embedHandle ? `${item.embedHandle} 的貼文` : `${item.platform} 貼文`)
+          : (item.title || item.authorName || '無標題');
+
+        card.innerHTML = `
+          <div class="${isEmbed ? 'embed-ph embed-ph-' + item.platform : ''}" style="${WRAP_STYLE}">
+            ${thumbContent}
           </div>
           ${rankBadgeHtml(rank)}
           <div class="top-info">
             <div class="top-platform-tag ${plat.cls}">${plat.label}</div>
-            <div class="top-title">${esc(item.title || item.authorName || '無標題')}</div>
+            <div class="top-title">${esc(displayTitle)}</div>
           </div>
           <div class="card-stats">
             <button class="like-btn${isLiked ? ' liked' : ''}" title="讚">👍 <span class="like-count">${item.likes ?? 0}</span></button>
@@ -941,6 +1085,9 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         const plat = PLATFORM_LABELS[item.platform] || { label: item.platform, cls: '' };
         const rank = hotRankMap.get(item.id);
         const isLiked = (() => { try { return !!localStorage.getItem(`liked:${item.id}`); } catch { return false; } })();
+        // embed 模式：Meta 平台（含舊資料 renderMode 不存在的）→ 平台漸層背景
+        const isEmbed = item.renderMode === 'embed' || META_PLATFORMS.has(item.platform);
+
         const card = document.createElement('a');
         card.className = 'recent-card';
         card.style.display = 'block';
@@ -950,22 +1097,36 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         card.dataset.id = item.id;
         card.dataset.url = item.sourceUrl || '';
 
-        const WRAP_STYLE = 'position:relative;width:100%;padding-top:125%;overflow:hidden;background:#f0f0f0';
+        const WRAP_STYLE = `position:relative;width:100%;padding-top:125%;overflow:hidden;${isEmbed ? '' : 'background:#f0f0f0'}`;
         const THUMB_STYLE = 'position:absolute;top:0;left:0;width:100%;height:100%;object-fit:cover;object-position:center;display:block';
         const PLACEHOLDER_STYLE = 'position:absolute;top:0;left:0;width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:2rem;background:#f5f5f5';
 
-        card.innerHTML = `
-          <div style="${WRAP_STYLE}">
-            ${item.thumbnail
+        const thumbContent = isEmbed
+          ? `<div class="embed-ph-inner embed-ph-${item.platform}">
+               <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
+               ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
+             </div>`
+          : (item.thumbnail
               ? `<img class="recent-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="this.parentElement.style.background='#f5f5f5'">`
-              : `<div style="${PLACEHOLDER_STYLE}">${PLAT_ICON[item.platform] ?? 'f'}</div>`
-            }
+              : `<div style="${PLACEHOLDER_STYLE}">${PLAT_ICON[item.platform] ?? 'f'}</div>`);
+
+        const displayTitle = isEmbed
+          ? (item.embedHandle ? `${item.embedHandle} 的貼文` : `${item.platform} 貼文`)
+          : (item.title || item.authorName || '無標題');
+
+        const authorLine = !isEmbed && item.authorName
+          ? `<div class="recent-author">${esc(item.authorName)}</div>`
+          : '';
+
+        card.innerHTML = `
+          <div class="${isEmbed ? 'embed-ph embed-ph-' + item.platform : ''}" style="${WRAP_STYLE}">
+            ${thumbContent}
           </div>
           ${rank ? hotBadgeHtml(rank) : ''}
           <div class="recent-info">
             <div class="recent-platform-tag ${plat.cls}">${plat.label}</div>
-            <div class="recent-title">${esc(item.title || item.authorName || '無標題')}</div>
-            ${item.authorName ? `<div class="recent-author">${esc(item.authorName)}</div>` : ''}
+            <div class="recent-title">${esc(displayTitle)}</div>
+            ${authorLine}
           </div>
           <div class="card-stats">
             <button class="like-btn${isLiked ? ' liked' : ''}" title="讚">👍 <span class="like-count">${item.likes ?? 0}</span></button>

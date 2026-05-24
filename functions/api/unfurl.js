@@ -79,15 +79,18 @@ async function writeRecent(env, result, hash) {
     const item = {
       id: `${ts}-${shortHash}`,
       platform: result.platform,
+      renderMode: result.renderMode ?? 'rich',
       title: result.data.title,
       thumbnail: result.data.media?.[0]?.url ?? null,
       authorName: result.data.author?.name ?? null,
+      embedHandle: result.data.author?.handle ?? null,
       sourceUrl: result.data.sourceUrl,
       fetchedAt: now.toISOString(),
       hash,
       views: 0,
       likes: 0,
       expiresAt,
+      ...(result.embed ? { embed: result.embed } : {}),
     };
 
     await env.UNFURL_RECENT.put(key, JSON.stringify(item), { expiration: expiresAt });
