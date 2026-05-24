@@ -1,9 +1,14 @@
-import { parseOGFromResponse } from './og-parser.js';
+/**
+ * Instagram unfurl handler.
+ * 優先使用 Instagram oEmbed API（不需要 token，公開貼文可用）。
+ * 若 oEmbed 失敗（私人貼文、限速等）才嘗試 OG 爬取。
+ */
+
+const OEMBED_URL = 'https://api.instagram.com/oembed/';
 
 const BLOCKED_SIGNALS = [
   'Log in to Instagram',
   'Login • Instagram',
-  'Instagram',
   "Sorry, this page isn't available",
   'Please wait a few minutes',
 ];
@@ -13,10 +18,56 @@ const BLOCKED_SIGNALS = [
  * @returns {Promise<object>}
  */
 export async function handleInstagram(url) {
-  const controller = new AbortController();
-  const timer = setTimeout(() => controller.abort(), 5000);
-
+  // ── 1. Try oEmbed ──────────────────────────────────────────────────────────
   try {
+    const oembedEndpoint = `${OEMBED_URL}?url=${encodeURIComponent(url)}&maxwidth=600&omitscript=true`;
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 6000);
+
+    const res = await fetch(oembedEndpoint, {
+      signal: controller.signal,
+      headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1)' },
+    });
+    clearTimeout(timer);
+
+    if (res.ok) {
+      const data = await res.json();
+      if (data?.title || data?.author_name) {
+        const thumbnail = data.thumbnail_url ?? null;
+        return {
+          ok: true,
+          platform: 'instagram',
+          data: {
+            title: data.title || `@${data.author_name} 的 Instagram 貼文`,
+            description: data.title || '',
+            author: {
+              name: data.author_name ?? null,
+              handle: data.author_url ? data.author_url.split('/').filter(Boolean).pop() : null,
+              url: data.author_url ?? null,
+              avatar: null,
+            },
+            media: thumbnail ? [{ type: 'image', url: thumbnail }] : [],
+            publishedAt: null,
+            sourceUrl: url,
+            embedHtml: null,
+          },
+        };
+      }
+    }
+
+    // oEmbed 回傳 404 = 私人 / 已刪除
+    if (res.status === 404) return { error: 'NOT_FOUND' };
+  } catch (e) {
+    if (e.name === 'AbortError') return { error: 'TIMEOUT' };
+    // oEmbed 失敗，繼續嘗試 OG
+  }
+
+  // ── 2. Fallback: OG scraping ───────────────────────────────────────────────
+  try {
+    const { parseOGFromResponse } = await import('./og-parser.js');
+    const controller = new AbortController();
+    const timer = setTimeout(() => controller.abort(), 5000);
+
     const res = await fetch(url, {
       signal: controller.signal,
       headers: {
@@ -33,7 +84,6 @@ export async function handleInstagram(url) {
 
     const og = await parseOGFromResponse(res);
 
-    // Detect login wall or empty response
     const titleInvalid =
       !og.title ||
       og.title.trim() === '' ||
@@ -61,7 +111,6 @@ export async function handleInstagram(url) {
       },
     };
   } catch (e) {
-    clearTimeout(timer);
     if (e.name === 'AbortError') return { error: 'TIMEOUT' };
     return { error: 'UPSTREAM_ERROR' };
   }
