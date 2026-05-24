@@ -16,6 +16,8 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
     <BaseHead title={title} description={description} noSuffix={false} image="https://images.gobaligo.id/images/2026-05/1779530264006-bali-feed-og.jpg" />
     <meta name="robots" content="noindex,nofollow" />
     <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+    <!-- 同步定義 Turnstile callback，確保在 Turnstile 執行前就存在 -->
+    <script>window._tsToken='';window.onTurnstileSuccess=function(t){window._tsToken=t;};</script>
     <style is:global>
       /* ── Layout ── */
       .unfurl-page {
@@ -564,11 +566,27 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       const topGrid = document.getElementById('top-grid');
 
       let isAdminUser = false;
-      let turnstileToken = '';          // set by Turnstile callback
-      let hotRankMap = new Map();       // id → rank (1-10)
+      let hotRankMap = new Map();
 
-      // ── Turnstile callback (global, called by CF script) ──
-      window.onTurnstileSuccess = function(token) { turnstileToken = token; };
+      // ── Turnstile token helpers ──
+      // Token 由 head 裡的同步 script 寫入 window._tsToken
+      // 此處也覆寫 callback 確保 module script 執行後也能接收
+      window.onTurnstileSuccess = function(token) { window._tsToken = token; };
+
+      async function ensureTurnstileToken() {
+        if (window._tsToken) return window._tsToken;
+        // Token 還沒來，主動 execute 並等待（最多 8 秒）
+        return new Promise((resolve) => {
+          const widget = document.querySelector('.cf-turnstile');
+          const timer = setTimeout(() => resolve(''), 8000);
+          window.onTurnstileSuccess = (token) => {
+            window._tsToken = token;
+            clearTimeout(timer);
+            resolve(token);
+          };
+          try { window.turnstile?.execute(widget); } catch { clearTimeout(timer); resolve(''); }
+        });
+      }
 
       // Platform display config
       const PLATFORM_LABELS = {
@@ -795,14 +813,15 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }, 12000);
 
         try {
+          const tsToken = await ensureTurnstileToken();
           const res = await fetch('/api/unfurl', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ url: rawUrl, turnstileToken }),
+            body: JSON.stringify({ url: rawUrl, turnstileToken: tsToken }),
           });
           clearTimeout(timeout);
-          // Reset token so next submit gets a fresh one from Turnstile auto-renew
-          turnstileToken = '';
+          // 清除 token，下次提交重新取得
+          window._tsToken = '';
 
           const data = await res.json();
           if (data.ok) {
