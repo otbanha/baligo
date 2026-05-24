@@ -1,7 +1,8 @@
 /**
  * Instagram unfurl handler.
- * 優先使用 Instagram oEmbed API（不需要 token，公開貼文可用）。
- * 若 oEmbed 失敗（私人貼文、限速等）才嘗試 OG 爬取。
+ * oEmbed API 自 2020 年起需要 Meta App Access Token。
+ * 若 env.INSTAGRAM_TOKEN 已設定 → oEmbed（有縮圖）；
+ * 否則直接嘗試 OG 爬取（Meta 通常擋，但偶有例外）。
  */
 
 const OEMBED_URL = 'https://api.instagram.com/oembed/';
@@ -14,13 +15,15 @@ const BLOCKED_SIGNALS = [
 ];
 
 /**
- * @param {string} url  Normalized Instagram URL
+ * @param {string} url           Normalized Instagram URL
+ * @param {string|null} token    Meta App Access Token（格式：APP_ID|APP_SECRET 或長效 token）
  * @returns {Promise<object>}
  */
-export async function handleInstagram(url) {
-  // ── 1. Try oEmbed ──────────────────────────────────────────────────────────
+export async function handleInstagram(url, token = null) {
+  // ── 1. Try oEmbed（只有 token 時才有意義）──────────────────────────────────
+  if (token) {
   try {
-    const oembedEndpoint = `${OEMBED_URL}?url=${encodeURIComponent(url)}&maxwidth=600&omitscript=true`;
+    const oembedEndpoint = `${OEMBED_URL}?url=${encodeURIComponent(url)}&maxwidth=600&omitscript=true&access_token=${encodeURIComponent(token)}`;
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), 6000);
 
@@ -61,6 +64,7 @@ export async function handleInstagram(url) {
     if (e.name === 'AbortError') return { error: 'TIMEOUT' };
     // oEmbed 失敗，繼續嘗試 OG
   }
+  } // end if (token)
 
   // ── 2. Fallback: OG scraping ───────────────────────────────────────────────
   try {

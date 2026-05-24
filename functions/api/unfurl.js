@@ -17,7 +17,7 @@ const CORS = {
 const ERROR_MESSAGES = {
   INVALID_URL: '請輸入有效的網址',
   UNSUPPORTED_PLATFORM: '目前只支援 YouTube、Threads、Instagram、Facebook、TikTok',
-  BLOCKED_BY_PLATFORM: '平台限制，無法抓取此貼文',
+  BLOCKED_BY_PLATFORM: '平台限制（Instagram / Threads 需要授權 token），無法抓取此貼文',
   BLOCKED_BY_ADMIN: '這個網址不在本工具的服務範圍內',
   NOT_FOUND: '找不到這篇貼文，可能已被刪除或設為私人',
   UPSTREAM_ERROR: '平台暫時無法連線，請稍後再試',
@@ -175,7 +175,7 @@ export async function onRequest(context) {
     switch (platform) {
       case 'youtube':   result = await handleYouTube(normalizedUrl);   break;
       case 'threads':   result = await handleThreads(normalizedUrl);   break;
-      case 'instagram': result = await handleInstagram(normalizedUrl); break;
+      case 'instagram': result = await handleInstagram(normalizedUrl, env.INSTAGRAM_TOKEN ?? null); break;
       case 'facebook':  result = await handleFacebook(normalizedUrl);  break;
       case 'tiktok':    result = await handleTikTok(normalizedUrl);    break;
       default: return errorResponse('UNSUPPORTED_PLATFORM');
