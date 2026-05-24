@@ -1238,25 +1238,34 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         // embed 模式：Meta 平台 → 平台漸層背景 + icon（Grid 太窄放不下完整 widget）
         const isEmbed = item.renderMode === 'embed' || META_PLATFORMS.has(item.platform);
 
-        const WRAP_STYLE = `width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;${isEmbed ? '' : 'background:#f0f0f0'}`;
+        const hasThumbnail = !!item.thumbnail;
         const THUMB_STYLE = 'width:100%;height:100%;object-fit:cover;object-position:center top;display:block';
         const PLACEHOLDER_STYLE = 'position:absolute;top:0;left:0;width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:2rem;background:#f5f5f5';
 
-        const thumbContent = isEmbed
-          ? `<div class="embed-ph-inner embed-ph-${item.platform}">
+        // embed 且無縮圖 → padding-top 漸層佔位；其他（含 embed+縮圖）→ aspect-ratio
+        const wrapClassTop = (isEmbed && !hasThumbnail) ? `embed-ph embed-ph-${item.platform}` : '';
+        const WRAP_STYLE = (isEmbed && !hasThumbnail)
+          ? 'width:100%;overflow:hidden;position:relative'
+          : 'width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0';
+
+        let thumbContent;
+        if (hasThumbnail) {
+          thumbContent = `<img class="top-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src=this.src.replace('maxresdefault','hqdefault')}else{this.parentElement.style.background='#f5f5f5'}">`;
+        } else if (isEmbed) {
+          thumbContent = `<div class="embed-ph-inner embed-ph-${item.platform}">
                <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
                ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
-             </div>`
-          : (item.thumbnail
-              ? `<img class="top-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src=this.src.replace('maxresdefault','hqdefault')}else{this.parentElement.style.background='#f5f5f5'}">`
-              : `<div style="${PLACEHOLDER_STYLE}">${PLAT_ICON[item.platform] ?? 'f'}</div>`);
+             </div>`;
+        } else {
+          thumbContent = `<div style="${PLACEHOLDER_STYLE}">${PLAT_ICON[item.platform] ?? 'f'}</div>`;
+        }
 
         const displayTitle = isEmbed
-          ? (item.embedHandle ? `${item.embedHandle} 的貼文` : `${item.platform} 貼文`)
+          ? (item.authorName ? `${item.authorName} 的貼文` : item.embedHandle ? `${item.embedHandle} 的貼文` : `${item.platform} 貼文`)
           : (item.title || item.authorName || '無標題');
 
         card.innerHTML = `
-          <div class="${isEmbed ? 'embed-ph embed-ph-' + item.platform : ''}" style="${WRAP_STYLE}">
+          <div class="${wrapClassTop}" style="${WRAP_STYLE}">
             ${thumbContent}
           </div>
           ${rankBadgeHtml(rank)}
@@ -1321,21 +1330,30 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         card.dataset.id = item.id;
         card.dataset.url = item.sourceUrl || '';
 
-        const WRAP_STYLE = `width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;${isEmbed ? '' : 'background:#f0f0f0'}`;
+        const hasThumbnail = !!item.thumbnail;
         const THUMB_STYLE = 'width:100%;height:100%;object-fit:cover;object-position:center top;display:block';
         const PLACEHOLDER_STYLE = 'position:absolute;top:0;left:0;width:100%;height:100%;display:flex;align-items:center;justify-content:center;font-size:2rem;background:#f5f5f5';
 
-        const thumbContent = isEmbed
-          ? `<div class="embed-ph-inner embed-ph-${item.platform}">
+        // embed 且無縮圖 → padding-top 漸層佔位；其他（含 embed+縮圖）→ aspect-ratio
+        const wrapClassRecent = (isEmbed && !hasThumbnail) ? `embed-ph embed-ph-${item.platform}` : '';
+        const WRAP_STYLE = (isEmbed && !hasThumbnail)
+          ? 'width:100%;overflow:hidden;position:relative'
+          : 'width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0';
+
+        let thumbContent;
+        if (hasThumbnail) {
+          thumbContent = `<img class="recent-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src=this.src.replace('maxresdefault','hqdefault')}else{this.parentElement.style.background='#f5f5f5'}">`;
+        } else if (isEmbed) {
+          thumbContent = `<div class="embed-ph-inner embed-ph-${item.platform}">
                <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
                ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
-             </div>`
-          : (item.thumbnail
-              ? `<img class="recent-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src=this.src.replace('maxresdefault','hqdefault')}else{this.parentElement.style.background='#f5f5f5'}">`
-              : `<div style="${PLACEHOLDER_STYLE}">${PLAT_ICON[item.platform] ?? 'f'}</div>`);
+             </div>`;
+        } else {
+          thumbContent = `<div style="${PLACEHOLDER_STYLE}">${PLAT_ICON[item.platform] ?? 'f'}</div>`;
+        }
 
         const displayTitle = isEmbed
-          ? (item.embedHandle ? `${item.embedHandle} 的貼文` : `${item.platform} 貼文`)
+          ? (item.authorName ? `${item.authorName} 的貼文` : item.embedHandle ? `${item.embedHandle} 的貼文` : `${item.platform} 貼文`)
           : (item.title || item.authorName || '無標題');
 
         const authorLine = !isEmbed && item.authorName
@@ -1343,7 +1361,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           : '';
 
         card.innerHTML = `
-          <div class="${isEmbed ? 'embed-ph embed-ph-' + item.platform : ''}" style="${WRAP_STYLE}">
+          <div class="${wrapClassRecent}" style="${WRAP_STYLE}">
             ${thumbContent}
           </div>
           ${rank ? hotBadgeHtml(rank) : ''}
