@@ -952,8 +952,6 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
             body: JSON.stringify({ url: rawUrl, turnstileToken: tsToken }),
           });
           clearTimeout(timeout);
-          // 清除 token，下次提交重新取得
-          window._tsToken = '';
 
           const data = await res.json();
           if (data.ok) {
@@ -969,6 +967,12 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         } finally {
           submitBtn.disabled = false;
           submitBtn.textContent = '一鍵加入';
+          // 清空舊 token 並重設 widget，讓 Turnstile 自動產生下次用的新 token
+          window._tsToken = '';
+          try {
+            const tsWidget = document.querySelector('.cf-turnstile');
+            window.turnstile?.reset(tsWidget);
+          } catch {}
         }
       });
 
