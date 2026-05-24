@@ -32,9 +32,11 @@ export async function handleYouTube(url) {
 
     const data = await res.json();
 
-    // Prefer maxresdefault, oEmbed thumbnail as fallback
+    // Shorts 的 maxresdefault 常常不存在 → 直接用 hqdefault（永遠有）
+    // 一般影片優先用 maxresdefault，client 端 onerror 再 fallback 到 hqdefault
+    const isShorts = url.includes('/shorts/');
     const thumbnail = videoId
-      ? `https://i.ytimg.com/vi/${videoId}/maxresdefault.jpg`
+      ? `https://i.ytimg.com/vi/${videoId}/${isShorts ? 'hqdefault' : 'maxresdefault'}.jpg`
       : (data.thumbnail_url || null);
 
     return {

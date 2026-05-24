@@ -859,7 +859,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
 
         const thumb = d.media?.[0];
         const thumbSection = thumb?.type === 'image' ? `
-          <img class="card-thumbnail" src="${esc(thumb.url)}" alt="" loading="lazy" onerror="this.style.display='none'">
+          <img class="card-thumbnail" src="${esc(thumb.url)}" alt="" loading="lazy" onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src=this.src.replace('maxresdefault','hqdefault')}else{this.style.display='none'}">
         ` : '';
 
         const embedBtn = d.embedHtml ? `<button class="embed-toggle" id="embed-toggle">顯示原生嵌入</button>` : '';
@@ -1024,7 +1024,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
                ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
              </div>`
           : (item.thumbnail
-              ? `<img class="top-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="this.parentElement.style.background='#f5f5f5'">`
+              ? `<img class="top-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src=this.src.replace('maxresdefault','hqdefault')}else{this.parentElement.style.background='#f5f5f5'}">`
               : `<div style="${PLACEHOLDER_STYLE}">${PLAT_ICON[item.platform] ?? 'f'}</div>`);
 
         const displayTitle = isEmbed
@@ -1107,7 +1107,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
                ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
              </div>`
           : (item.thumbnail
-              ? `<img class="recent-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="this.parentElement.style.background='#f5f5f5'">`
+              ? `<img class="recent-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src=this.src.replace('maxresdefault','hqdefault')}else{this.parentElement.style.background='#f5f5f5'}">`
               : `<div style="${PLACEHOLDER_STYLE}">${PLAT_ICON[item.platform] ?? 'f'}</div>`);
 
         const displayTitle = isEmbed
