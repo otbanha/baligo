@@ -22,10 +22,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7967360076c821375ec01e8c60a7c56e.png'
 originalUrl: 'https://vocus.cc/article/69809444fd897800019bddac'
 lang: zh-cn
-_srcHash: f66dbdf74b676e326d3b6fd76f6d4f40
+_srcHash: a495d3102b188002038f0724ef9f5dd8
 ---
-
-update: 2026/05/21
 
 来到巴厘岛乌布，除了欣赏梯田美景、探访古老寺庙，绝不能错过的还有这里的美食体验！从传统印尼料理到创意西式餐厅，从隐藏在稻田间的咖啡厅到热闹集市的街头小吃，乌布汇聚了巴厘岛最精彩的饮食文化。这篇攻略为你精选乌布必吃餐厅和在地美食，让你的味蕾也能享受一场难忘的巴厘岛之旅！
 

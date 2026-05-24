@@ -35,10 +35,8 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7637ac635c331c40ccb594138cb074c8.jpg'
 originalUrl: 'https://vocus.cc/article/67094049fd8978000167f9f9'
 lang: en
-_srcHash: 6adf6bf08849561507a51d9bac66f515
+_srcHash: ffbdf92cd669c5685f17c6e39e6fa42b
 ---
-
-update: 2026/05/21
 
 Bali is home to numerous five-star hotels catering to various traveler needs and tastes. Located in Jimbaran Bay, **Raffles Bali** was selected as one of the best luxury hotels in 2024, continuing to attract global travelers with its unique elegance and sophistication.
 

@@ -38,11 +38,11 @@ tags:
   - Mushroom Bay family resorts
   - Jungut Batu sunset hotels
   - Blue Lagoon Ceningan stay
-update: 2026/05/23
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b8258610da76c0bfcef4b88efa16f7b1.jpg'
 originalUrl: 'https://vocus.cc/article/67205cb1fd89780001ee1413'
 lang: en
-_srcHash: f07152616799ac15919a4d77fe1bf5bc
+_srcHash: 674e06353ea8b6dbba4442b516c8ec78
 ---
 
 Situated southeast of Bali, the islands of Nusa Lembongan and Nusa Ceningan provide a serene haven away from the crowds and noise of Bali. These enchanting islands are renowned for their relaxed atmosphere, rich marine life, and stunning natural landscapes. 🐡🌴☀️ The peaceful ambiance of the islands is truly captivating, and some may particularly enjoy the uncrowded and laid-back surfing spots here.
@@ -522,7 +522,7 @@ Villa Waru One is a luxurious four-bedroom villa located in Sandy Bay, offering 
 
 **Location**｜ Villa Waru One enjoys an enviable location, just steps from Sandy Bay Beach and a 5-minute walk from Dream Beach. Nearby attractions include Mushroom Bay and Devil's Tears.
 
-> **▶** [**Check Availability & Rates for Villa Waru One**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2836805)
+> **▶** [**Check Availability & Rates for Villa Waru One**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2836805) [Booking](https://booking.tpm.li/wxh7oGqT)
 
 ## 5. Tamarind Beach - A Quiet Haven
 
@@ -576,7 +576,7 @@ Morin Resort is a boutique resort located on Lembongan Island, renowned for its 
 
 **Location**: Morin Resort enjoys a prime location, just an 11-minute walk from Jungutbatu Beach.
 
-> **▶** [**Morin Resort Availability & Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=37351910)
+> **▶** [**Morin Resort Availability & Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=37351910) [Booking](https://booking.tpm.li/esUwJKJO)
 
 ### Lembongan Cliff Villas (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
@@ -608,7 +608,7 @@ Lembongan Cliff Villas is a luxurious resort perched on a cliff, renowned for it
 
 **Location**: The resort is ideally located, just a 10-minute walk from the main beach and numerous restaurants and bars, and a 5-minute walk to a secluded swimming beach. Nestled in a valley and just steps away from excellent surf spots, it's a perfect choice for surf enthusiasts. From the top of the resort, guests can enjoy magnificent ocean views. The location is convenient for exploring nearby attractions while maintaining privacy. Guests can choose to explore the island on foot, by shuttle, or by renting a motorbike.
 
-> **▶** [**Lembongan Cliff Villas Availability & Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=240410)
+> **▶** [**Lembongan Cliff Villas Availability & Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=240410) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=687890&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6y8zFJMEk9YyZ4-Kj9X9YhRiNDLZwW2zPckwDAbt8B09jEOAvdgjgmcE46Z_mCkbGjYwMINDg7bCDkekAI9MJxg7uBUy7Hk1UOMXCzNHAdInlK1N0tVJ2aqWSlYmOUklmSU6qkpXSszm9T7tnvti0W0lHKSW1OBkoBGQl5uaX5pUA2YZGFnoGBkCRksQKzxQlK3MdpeTEnOTSnMSS1JDKAqAJZjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYUMkPaEwRVCAzPw-i3QBFLCwxpzQV4gSghW6pUDuMa3UwXf500bynDXuer2glzuUm1Ha5ITEuN6yNfcTCFB37iYXhFwtDEytDFyvDJFZmjg7uXawcgZ5GARH-uoZSioYGBgZGpqZG5roGiZaJ5sYGRromlibGxka6xiYGRgYmFhrPD68-9NTYyFqKdcqB59PYFRi1BONDPD1dDEsKU80KSy1zigpMDRhPMUoZmhtbGBoZGhoZGVka65lYpJkVW-QVW-RmRXgwBrG5mpi7uBhG2XAxe7oECd77z5KrrWxpL8UcEu6iuPIm89oDE07ba4HkDGFygRZfxPjfWy6wj4TJJ7FWZeiGhGf0ihcwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDAP6qVCDUAgAA&masterhotelid_tracelogid=100025527-0a9a7302-494332-3402048&detailFilters=17|1~17~1*31|687890~31~687890*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=276&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/uQYJo8wr)
 
 ### Lembongan Harmony Villas (🗺️ [Map Location](https://www.google.com/maps/d/u/0/edit?mid=1lWr3PTNRvmh44nr_WsTJ-PsnZLtSC30&usp=sharing))
 
@@ -636,7 +636,7 @@ Lembongan Harmony Villas is one of the ideal accommodation choices for first-tim
 
 **Location**｜Lembongan Harmony Villas boast an excellent location, just a 5-minute walk from Jungut Batu Beach and Coconuts Beach, and a 2-minute walk from waterfront restaurants and cafes. Tamarind Beach is about a 10-minute walk away, while Mushroom Beach is a 30-minute walk.
 
-> [**▶ Check Availability & Rates for Lembongan Harmony Villas**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=818681)
+> [**▶ Check Availability & Rates for Lembongan Harmony Villas**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=818681) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1683747&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6zcTFJMEkdYWJ4_uRhz8YhZgNDYw0jrIYPGC02CrvePYMEGwod_BkAIGQWocAnogpB55PY0-cs9zqSZqWl0MXIytYYAbj4kdpKxgZNzKC9fSEOexgZDrB2Cq4gGndqydMp1iYORYzX2LZxRhdrZSdWqlkZaKjVJJZkpOqZKX0dNG8pw17nq9oVdJRSkktTgYKAVmJufmleSVAtomhpZ6BAVCkJLHCMwWsMzkxJ7k0J7EkNaSyAGiCkY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWBJlbBOVn5udBdBugiIUl5pSmQlQC7XNLhVphWBv7iIUpOvYFy1GWTywMv1gYmlgZuliZOT4zTgKSrYK7WHl9PKIcwwN0DUN0o3QNL7CulZBSNDQwMDAyNTUy1zVItDRONLU00jWxNDE2BlLGJhaGxpYaj05fO_TU2MhaChKOCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9icTSzMXCyjbLiYQ4NdBAttua4vNpB2kGIOCXdRXHmTee2BCafttZg9XYIM7_1nydVWtrQPtPgixv_ecoF9JEw-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEAP7lh9VJAgAA&masterhotelid_tracelogid=100025527-0a93a592-494332-4348139&detailFilters=17|1~17~1*31|1683747~31~1683747*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=435&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713)
 
 ## **6.Nusa Ceningan - Golden Island**
 
@@ -693,7 +693,7 @@ Located by the beautiful Blue Lagoon, Blue Lagoon Avia Villas offers one-bedroom
 
 **Location**: The resort is conveniently close to several attractions on Nusa Lembongan, such as Devil's Tear (2.1 km), Sandy Bay Beach Club (2.4 km), Mushroom Bay (2.9 km), and Mangrove Point (6 km).
 
-> ▶ [**Blue Lagoon Avia Villas Availability & Price Check**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7405410)
+> ▶ [**Blue Lagoon Avia Villas Availability & Price Check**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7405410) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=40320745&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazsLFJMEkNYGFY-vRtyfYhBgNLH4LOsq3vg7c0Vbu4Floy3V9cUGtQwBPxJQDz6exJ5aufr7ku6uXQyEDCAi0ODQypoEAR4NDFyMrWM0Mxpd_5whvZPR4WCWybnm4ww5GphOM_YILmF4AhU-xMHPsYL7E8pUpulopO7VSycpER6kksyQnVclK6dmc3qfdM19s2q2ko5SSWpwMFAKyEnPzS_NKgGwjIwM9AwOgSElihWeKkpW5jlJyYk5yaU5iSWpIZQHQBDMdpcxi55KizIKg1NzMkpJUoKq0xJziVJB4UGoxUCYZLKjkBzSmCCqQmZ8H0W6AIhaWmFOaCnEC0EK3VKgdxrU6mC5_umje04Y9z1e0EudyE2q73JAYlxvWxj5iYYqO_cTC8AsYDYvFm1gZuliZOb4wTgKS_YK7WNmCTUNDjKMusC7TkpI3NDAwMDU0NjXVNUi0TLQwTkzVNbE0MTY20jU3tDQ11ni37M6hp8ZG1lKQaFdg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjE5mJiZGxiGmXDxezpEiR47z9Lrraypb0Uc0i4i-LKm8xrD0w4ba8FkjOEyQVafBHjf2-5wD4SJp_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTYwMi4g_E_DDC-YgSZDgDSD3gS_AIAAA&masterhotelid_tracelogid=100051355-0a9a83ae-494332-71953&detailFilters=17|1~17~1*31|40320745~31~40320745*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1420&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/K75jzOh8)
 
 ## Nusa Lembongan Travel Guide Map
 

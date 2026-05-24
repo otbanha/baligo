@@ -22,10 +22,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7967360076c821375ec01e8c60a7c56e.png'
 originalUrl: 'https://vocus.cc/article/69809444fd897800019bddac'
 lang: zh-hk
-_srcHash: f66dbdf74b676e326d3b6fd76f6d4f40
+_srcHash: a495d3102b188002038f0724ef9f5dd8
 ---
-
-update: 2026/05/21
 
 嚟到峇里島烏布，除咗欣賞梯田美景、探訪古老寺廟，絕對唔可以錯過嘅仲有呢度嘅美食體驗！由傳統印尼菜到創意西式餐廳，由隱藏喺稻田間嘅Cafe到熱鬧市集嘅街頭小食，烏布匯聚咗峇里島最精彩嘅飲食文化。呢篇攻略為你精選烏布必食餐廳同在地美食，等你嘅味蕾都可以享受一場難忘嘅峇里島之旅！
 

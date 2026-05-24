@@ -31,8 +31,6 @@ lang: en
 _srcHash: 21db1f156f2b76aac63eafa461d2bebf
 ---
 
-update: 2026/05/20
-
 Denpasar, Bali's capital, was recently [listed among the world's top 100 cities in 2025](https://www.forbes.com/sites/laurabegleybloom/2025/02/27/the-100-best-cities-in-the-world-to-visit-in-2025-according-to-a-new-report/), ranking 94th. This ancient city is not only the cultural heart of Bali but also boasts a rich historical legacy and a vibrant modern art scene, making it an excellent alternative for travelers exploring Bali.
 
 ## The Unique Charm of Denpasar

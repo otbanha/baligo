@@ -14,11 +14,11 @@ tags:
   - '#水明漾住宿'
   - '#峇里島海景'
   - '#水明漾高級住宿'
-update: 2026/05/22
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a8262479e14590666cfa8e2739908df1.jpg'
 originalUrl: 'https://vocus.cc/article/65472977fd89780001cf3ce6'
 lang: zh-hk
-_srcHash: 8afefff98ca2054601dc7b9906dabc15
+_srcHash: adce93f45ab4efcb9e6239480e506b6e
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c8eb09bd720f83b1e84dd8538798b8c7.jpg)
@@ -105,7 +105,7 @@ Double Six Luxury
 
 Double Six Luxury Hotel Seminyak 位於水明漾著名嘅「雙六海灘」。呢度嘅客房同套房充滿風格，擁有令人驚嘆嘅海景。酒店嘅 Plantation Grill 餐廳提供頂級嘅牛排同葡萄酒，係美食愛好者嘅天堂。此外，你仲可以喺 Roof Bar 欣賞壯觀嘅日落，或者喺 Acqua Perla Spa 放鬆身心。
 
-> ▶[查看預定日期嘅 Agoda 優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=618286)
+> ▶[查看預定日期嘅 Agoda 優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=618286) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1411332&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF49m21ZtYhThNDcwsDU1MDYwMGrksZtk5nj0DBCITHDyXFNhyXb872SGAJ2LKgefT2BO9qpv1fY4EOnQxsoIFZjC2TArbyLhDrvV1oEeeww5GpgOMTCcYJ-ktYGr4dITzFAszxxOOSyxfmaKrlbJTK5WsTHSUSjJLclKVrJSeLpr3tGHP8xWtSjpKKanFyUAhICsxN780rwTINjUz0jMwAIqUJFZ4poB1JifmJJfmJJakhlQWAE0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDthihiYYk5pakQJwAtdEuF2mFYq4Pp8mdzep92z3yxaTdxLjentssNiHG5cW3sIxam6NhPLAy_WBiaWBm6WJk5TjFNApKT9HaxCjqGR_j4Ruj6GEWGB5roRukaXmC9YyClaGhgYGBkampkrmuQaJlobmxgpGtiaWJsaKprZGRmYmhkpPG5986Sp8ZG1lKQJKDAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyBCox8jSWM_EIs2s2CKv2CI3K8KDMYjNwMnFzNU5yoaLOTTYRbAQmNAWG0g7SDGHhLsorrzJvPbAhNP2WsyeLkGG9_6z5GorW9oHWnwR439vucA-EiafxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCAKkYTX0HAwAA&masterhotelid_tracelogid=100025527-0a9a7302-494315-2264122&detailFilters=17|1~17~1*31|1411332~31~1411332*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=585&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/uJDzfpEF)
 
 ## The Samaya Seminyak
 
@@ -117,7 +117,7 @@ The Samaya Seminyak
 
 酒店嘅 Breeze 餐廳提供美味嘅印尼同國際美食，而 The Spa at The Samaya Bali Seminyak 提供豪華嘅療程，等你可以喺度假中享受浪漫時光。
 
-> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=71877)
+> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=71877) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685516&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawsLFJMEk1cvC0XtkWz-bEIeFpbmFuYGBkcFsTouViY7VIuvcH0bPcfCUb30daJGz0CGAJ2LKgefT2BO9qpv1fY4EOnQxsoIFZjCeea25kZHr-uIC20-VDjsYmQ4wMp1g_BKwgKlzyhmhUyzMHB38l1i-MkVXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWlmomdgABQpSazwTAHrTE7MSS7NSSxJDaksAJpgpqOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFlfyAxhRBBTLz8yDaDVHEwhJzSlMhTgBa6JYKtcOwVgfT5c_m9D7tnvli027iXG5ObZcbEONy49rYRyxM0bGfWBh-sTA0sTJ0sTJznGKaBCS_BOxi5Q1ydTUJNNV1cjc3dza5wLovWEre0MDAwNTQ2NRU1yDR0sLc0MxU18TSxNjQVBcoZmKm0f_p_pKnxkbWUpDIV2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xShlaG5sYWhkaGhkZGRprGdikWZWbJFXbJGbFeHBGMRm7OLm4uQYZcPFHBrsIlhoC0w9BtIOUswh4S6KK28yrz0w4bS9FrOnS5Dhvf8sudrKlvaBFl_E-N9bLrCPhMknsVZl6IaEZ_SKFzA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMACCf6yvkCAAA&masterhotelid_tracelogid=100051355-0a987165-494315-35546&detailFilters=17|1~17~1*31|685516~31~685516*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1218&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/eTSXk0Ib)
 
 ## 同場加映：帶小朋友嘅最佳選擇 - FuramaXclusive Ocean Beach Seminyak
 

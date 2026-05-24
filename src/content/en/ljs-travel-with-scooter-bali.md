@@ -18,11 +18,11 @@ tags:
   - 騎機車自由行
   - 租機車費用
   - 摩托車費用
-update: 2026/05/23
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8dd21451aed86b29640329df0b851953.jpg'
 originalUrl: 'https://vocus.cc/article/68c032e6fd89780001b54489'
 lang: en
-_srcHash: a95b89dfd17e4dc10a8dfd87eb7deb86
+_srcHash: e2225a33ec6b83edb30d72446824aa1d
 ---
 
 > The following content is adapted from fellow traveler [Lin Jinsheng's](https://www.facebook.com/share/p/16zBggKw15/) shared travelogue:
@@ -103,7 +103,7 @@ We stayed at **Pondok Naya** that night, a homestay nestled in the countryside, 
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1777295589512-a24011b300c7ed9f4298c6943ee5c3aa.jpeg)
 
-> [**▶Check Availability & Rates at Pondok Naya**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=24120992)
+> [**▶Check Availability & Rates at Pondok Naya**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=24120992) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685061&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjM0MDAwNTQ2NdU1SLRMTDEyMtA1sTQxNjTSNTe2tND4_vPHvKfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnJxNLIxMo_ikmEPCXRRX3mRee2DCafsk1qoM3ZDwjF5xAMYV9PmBAAAA&masterhotelid_tracelogid=100051355-0a9ad220-494312-7398&detailFilters=17|1~17~1*31|685061~31~685061*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1320&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687)
 
 **Day 4**: The highlight of the day was the **Mount Batur Sunrise**. We woke up at 3 AM, quickly got ready, and rode our scooter to the volcano, covering about 45 kilometers from Ubud in approximately 70 minutes. Instead of the strenuous hike, we opted for the **Sukawana Sunrise Spot** viewpoint, which offers an easy view of the sunrise over the volcano, minus the exhaustion of climbing. As the sun rose behind the clouds, casting golden hues over the volcano and lake, every bit of the early morning effort felt worthwhile.
 
@@ -125,7 +125,7 @@ While not specifically mentioned in this travelogue, the civet coffee garden is 
 
 [Ubud has a hidden gem that has gained attention thanks to the 'Ubud Guide' sharing. Originally a ceramic workshop, visitors can now enter for just USD$0.30 to take photos in the garden. The unique and colorful designs create a dreamy effect, making it particularly popular among female tourists and earning it the reputation of Ubud's secret photo spot.](/go/ubud-guide)
 
-For dinner, we chose the popular local eatery **Sun Sun Warung**, known for its generous portions and affordable prices, making it perfect for a satisfying meal and a little indulgence during the trip. We stayed the night at [Pondok Naya](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=24120992) in Ubud, falling asleep to the serene nightscape of the rice fields.
+For dinner, we chose the popular local eatery **Sun Sun Warung**, known for its generous portions and affordable prices, making it perfect for a satisfying meal and a little indulgence during the trip. We stayed the night at [Pondok Naya](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=24120992) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685061&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjM0MDAwNTQ2NdU1SLRMTDEyMtA1sTQxNjTSNTe2tND4_vPHvKfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnJxNLIxMo_ikmEPCXRRX3mRee2DCafsk1qoM3ZDwjF5xAMYV9PmBAAAA&masterhotelid_tracelogid=100051355-0a9ad220-494312-7398&detailFilters=17|1~17~1*31|685061~31~685061*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1320&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) in Ubud, falling asleep to the serene nightscape of the rice fields.
 
 {{block:ubud}}
 

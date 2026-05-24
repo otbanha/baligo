@@ -13,11 +13,11 @@ tags:
   - 騎機車自由行
   - 租機車費用
   - 摩托車費用
-update: 2026/05/23
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8dd21451aed86b29640329df0b851953.jpg'
 originalUrl: 'https://vocus.cc/article/68c032e6fd89780001b54489'
 lang: zh-hk
-_srcHash: a95b89dfd17e4dc10a8dfd87eb7deb86
+_srcHash: e2225a33ec6b83edb30d72446824aa1d
 ---
 
 > 以下內容改編自團友 [林金生](https://www.facebook.com/share/p/16zBggKw15/) 分享嘅遊記：
@@ -98,7 +98,7 @@ https://youtu.be/FphhiUzB7gM
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1777295589512-a24011b300c7ed9f4298c6943ee5c3aa.jpeg)
 
-> [**▶Pondok Naya 空房 & 房價查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=24120992)
+> [**▶Pondok Naya 空房 & 房價查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=24120992) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685061&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjM0MDAwNTQ2NdU1SLRMTDEyMtA1sTQxNjTSNTe2tND4_vPHvKfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnJxNLIxMo_ikmEPCXRRX3mRee2DCafsk1qoM3ZDwjF5xAMYV9PmBAAAA&masterhotelid_tracelogid=100051355-0a9ad220-494312-7398&detailFilters=17|1~17~1*31|685061~31~685061*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1320&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687)
 
 **第四日**：呢日嘅重頭戲係 **巴杜爾火山日出**。凌晨三點我哋就起身，簡單整理後即刻騎車出發，由烏布到火山全程約 45 公里，用咗大約 70 分鐘。今次我哋冇選擇辛苦爬山，而係直接到 **Sukawana Sunrise Spot** 觀景台。呢度可以輕鬆睇到火山日出，少咗登山嘅勞累，卻多咗一份自在。當太陽由雲層後升起，火山同湖泊染上金色光芒，嗰一刻真係覺得一切辛苦早起都係值得嘅。
 
@@ -120,7 +120,7 @@ https://youtu.be/FphhiUzB7gM
 
 [烏布有一處隱藏景點，因為「烏布攻略」嘅分享而開始受到關注。呢度原本係一間陶瓷工坊，即使唔買陶瓷，都只需要俾 USD$0.3 嘅入場費，就可以喺園區入面影相。場景設計獨特、色彩繽紛，影出嚟嘅效果好夢幻，尤其深受女遊客鍾意，被譽為烏布嘅美拍小秘境。](/go/ubud-guide)
 
-晚餐我哋揀咗當地人氣平價餐廳 **Sun Sun Warung**，餐點份量十足，價錢亦都好親民，好適合旅途中小小嘅溫飽同小確幸。呢一晚我哋繼續住喺烏布嘅 [Pondok Naya](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=24120992)，喺寧靜嘅稻田夜色中入睡。
+晚餐我哋揀咗當地人氣平價餐廳 **Sun Sun Warung**，餐點份量十足，價錢亦都好親民，好適合旅途中小小嘅溫飽同小確幸。呢一晚我哋繼續住喺烏布嘅 [Pondok Naya](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=24120992) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685061&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjM0MDAwNTQ2NdU1SLRMTDEyMtA1sTQxNjTSNTe2tND4_vPHvKfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnJxNLIxMo_ikmEPCXRRX3mRee2DCafsk1qoM3ZDwjF5xAMYV9PmBAAAA&masterhotelid_tracelogid=100051355-0a9ad220-494312-7398&detailFilters=17|1~17~1*31|685061~31~685061*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1320&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687)，喺寧靜嘅稻田夜色中入睡。
 
 {{block:ubud}}
 

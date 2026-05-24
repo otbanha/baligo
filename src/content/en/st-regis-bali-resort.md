@@ -25,10 +25,8 @@ agoda_hotel_name: 瑞吉度假村 - 峇里
 agoda_hotel_id: 108442
 latitude: -8.812859535217285
 lang: en
-_srcHash: b1d6fdb50311256a94b34141e6f25586
+_srcHash: 8edd75856d193dbe2a7e7a222bf1ff07
 ---
-
-update: 2026/05/21
 
 ## Top-Tier Luxury in Nusa Dua, Bali ✨
 

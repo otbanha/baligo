@@ -36,7 +36,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: d21937f67b91c87ce19d68fd06f3aad3
+_srcHash: 99415b3a43b7cb081406b1b5ca4742ff
 ---
 
 巴厘岛的五星酒店多到让人选择困难。乌布有 [Capella](/blog/capella-ubud-luxury-resort/)、乌鲁瓦图有 [Alila](/blog/alila-villas-uluwatu-bali/)、努沙杜瓦有 [Apurva Kempinski](/blog/apurva-kempinski-bali-nusa-dua/)…… 但 2026 年最让人惊喜的，是一间盖在沙努尔的全新度假村——**The Meru Sanur**。

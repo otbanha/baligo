@@ -22,11 +22,11 @@ tags:
   - Best Bamboo Villas Ubud
   - Ubud Treehouse Bali review
   - Emana Bambooscape Ubud
-update: 2026/05/22
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fdec0070ac83943457e250368cc6d730.jpg'
 originalUrl: 'https://vocus.cc/article/660d4c83fd89780001ddf0ad'
 lang: en
-_srcHash: 2f8dd579cd4f1c4d5b4882b11fa55377
+_srcHash: 32b68bbe264e3341889404474f1d448d
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1001bd26958ac1c26775c36f63cab0e5.jpg)
@@ -190,7 +190,7 @@ The hotel offers complimentary airport transfers and free parking, located appro
 
 Emana Bambooscape stands out with its newly built facilities, unique single-room design, and comprehensive amenities, making it the perfect choice for those seeking a private and high-quality Bali getaway. (Please note: Free accommodation for children is not provided.)
 
-> [Emana Bambooscape Room Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=71670123)
+> [Emana Bambooscape Room Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=71670123) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=128229595&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJ48uy3dvZhBgNLH4LOqaBQMQEB8_riwtsuVwnOQTwREw58Hwae6JXdbO-z5FAh0IGEPjQ6dDIuASo5Dpjm0MXIytYzQzG2wcn2W5k5AJpPhXnsIOR6QAj0wnGA1oLmB4BZU6xMHPsYbnEspsxulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGxTcyM9AwOgSElihWcKWGdyYk5yaU5iSWpIZQHQBDMdpcxi55KizIKg1NzMkpJUoKq0xJziVJB4UGoxUCYZLKjkBzSmCCqQmZ8H0W6IIhaWmFOaCnEC0EK3VKgdhrWxj1iYomM_sTD8AnqmQ66JlaGLlZnjFNMkIHlAaxcrW6SXq1NE5AXWSd5SCoYGBgZGpqZG5roGiZaJKYnmRromlibGhma6pgYmJgbGGqsmvV761NjIWgoSgAqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYHE3dLEwMo2y4mD1dggTv_WfJ1Va2tJdiDgl3UVx5k3ntgQmn7bVAcoYwuUCLL2L87y0X2EfC5JNYqzJ0Q8IzesULGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDTAUazA_tGAgAA&masterhotelid_tracelogid=100025527-0a9ada72-494316-504403&detailFilters=17|1~17~1*31|128229595~31~128229595*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/fQOsmrqu)
 
 ## Continue Exploring Ubud
 

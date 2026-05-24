@@ -22,10 +22,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bdbf1e9814d60a19a2a11d07a7609ac5.jpg'
 originalUrl: 'https://vocus.cc/article/6832c6c0fd897800014776ba'
 lang: zh-cn
-_srcHash: 9d51c348ecb73e8d0664d643a854f019
+_srcHash: 7242541475c4653d62d4b6294d5042f2
 ---
-
-update: 2026/05/21
 
 午后的阳光温柔地洒在巴厘岛努沙杜瓦的海岸线上，我们乘车抵达 **凯宾斯基酒店（The Apurva Kempinski Bali）**。这座依山而建的奢华度假村，从入口处就展现出惊人的气势——挑高的木质结构、精致的巴厘岛雕刻，中央水池里锦鲤悠游，孩子们兴奋地围观，整个空间充满了度假的悠闲氛围。
 

@@ -22,11 +22,11 @@ tags:
   - '#canggu住宿推薦'
   - '#cangguvilla'
   - '#cangguvilla推薦'
-update: 2026/05/23
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777896573960-canggu_stay.png'
 originalUrl: 'https://vocus.cc/article/651b8da8fd89780001974847'
 lang: en
-_srcHash: feefed3802461249d138d9307d41bd42
+_srcHash: 61079f89ff899b6e0051e4092af3a8d8
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)
@@ -117,7 +117,7 @@ If you're looking for the perfect place to relax and enjoy a vacation, Theanna V
 
 Aston Canggu Beach Resort is a 4-star hotel located in Canggu, Bali, just 100 meters from the beach, making it an ideal choice for visiting Canggu Beach and surrounding attractions.
 
-> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=2976424)
+> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=2976424) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=7123172&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_C8efnvSVsQuyGpmYGhgZGBguFLW5XOLa-Dtwh97TSwfObRkz_IcMGhwCeiCkHnk9jT7zLrrC187aPQxcjK1hgBuOTh5uYVzAybmScNRMIfkY67GBkOsH4XGgB08qnE_ROsTBzPGK-xPKVKbpaKTu1UsnKREepJLMkJ1XJSunZnN6n3TNfbNqtpKOUklqcDBQCshJz80vzSoBsIxNDPQMDoEhJYoVnipKVuY5ScmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxAtBCt1SoHca1Opguf7po3tOGPc9XtBLnchNqu9yQGJcb1sY-YmGKjv3EwvCLhaGJlaGLlZmjh2kSkHwutIuVPygs0sIgUjfcLNJVN0rX8ALrZxEpRUMDAwMjU1Mjc12DRMtEE2MDS10TSxNjQyNdQ0MTC0MjS41zc6bNf2psZC0FSQEKjFqC8SGeni6GJYWpZoWlljlFBaYGjKcYpQzNjYEaDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYLI2NnAwso2y4mEODXQQLbbmuLzaQdpBiDgl3UVx5k3ntgQmn7bWYPV2CDO_9Z8nVVra0D7T4Isb_3nKBfSRMPom1KkM3JDyjV7yAsYGRqYuRW4DRgzGCsQLIY1zFyM7FbGBkKMC0gZFxB-N_GGB8xQiyBABL7aRkBAMAAA&masterhotelid_tracelogid=100025527-0a9a4309-494312-1148129&detailFilters=17|1~17~1*31|7123172~31~7123172*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=670&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/x9hviwVM)
 
 ## 9.Kalapa Boutique Resort & Yoga
 
@@ -125,7 +125,7 @@ Aston Canggu Beach Resort is a 4-star hotel located in Canggu, Bali, just 100 me
 
 Escape the hustle and bustle of the city at Kalapa Boutique Resort & Yoga, which offers luxurious rooms and villas, each uniquely designed to blend Indonesian and Balinese culture. Start your day watching the sunrise from your private balcony, and unwind in the outdoor bathtub under the stars at night. Highly recommended for those who appreciate indulgence!
 
-> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=535611)
+> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=535611) [Trip](https://tw.trip.com/hotels/detail/?cityId=723&hotelId=1531862&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&subStamp=936&crn=1&ages=&travelpurpose=0&curr=TWD&link=title&hoteluniquekey=H4sIAAAAAAAA_-M6xsTFJMEkxMTBKLWbiePrw7PHWS1-CzoW2nJdX2xQ7uAp3_o6cAdbrUMAT-KL-Q-SXD97OhQygMCBVIdGRs2Y_kNfNyQ6dDGyTjnwfBr7JMbZjJwgWYdya0dBEGNBq5mjkgPHzcsvswSUJHafePaeWYFRE2wCQ5SDIYxhcZrRsVpknftDq1AHTxgjiJnjIXMUM0cXM9CEjf3nxQXyJNY_OHiIEWZCQyDUBCDDYi-fI1BblYifj4MnjAE04SAT0IR2JidmjjbJGYzX9sduZNwhB_RURLjDDkamE4yfBRYwnfm6i2kXE0jFISC5ifkUE8MlJoZbTAyPgNxFbK-YGD4BGRNZf4HVNDEzdDEzTGIGqZzFDFKwiJlBitfQ0jDRMDnVwMTSyMJcQUij48jRC2xGTsCAhYSNAqOWYHyIp6eLYUlhqllhqWVOUYGpAeMkRqaQ8FOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRVsxSjG4ejEFsZpZGrm6OUVpczJ4uQYL3_rPkaitb2ksxh4S7KK68ybz2wITT9logOUOYXBJrVYZuSHhGr3gBYwMjUxcjhwCjB2MEYwXjK0aQth-gAAEA_9SnuAQCAAA&subChannel=&masterhotelid_tracelogid=191a1ce049287&NewTaxDescForAmountshowtype0=F&detailFilters=17|1~17~1*80|2|1~80~2&hotelType=normal&display=incavg&barcurr=TWD&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/eZpOjqcM)
 
 ## 10.Swarga Suites Bali Berawa
 
@@ -133,7 +133,7 @@ Escape the hustle and bustle of the city at Kalapa Boutique Resort & Yoga, which
 
 Swarga Suites Bali Berawa is a highly-rated luxury resort accommodation in Canggu, Bali, located near Berawa Beach, offering an exceptional holiday environment. This charming resort features various types of suites, each infused with Balinese character and equipped with a private balcony or terrace for enjoying spectacular sunrise and sunset views.
 
-> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1273785)
+> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1273785) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=5939982&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJY_end7OYhJgNDYw0jrIYPGC02CrvKN_6OnBHW6uDJwMIlHU5BPBETDnwfBp7old1s77PkUCHLkZWsMAMxr5jr5g2MoI0yO1NdtjByHSAkekE4325BUxrd2ziOsXCzHGX9RLLLsboaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBss2NjfUMDIAiJYkVnilgncmJOcmlOYklqSGVBUATjHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwIMjcIig_Mz8PotsARSwsMac0FaISaJ9bKtQKw9rYRyxM0bEvWI6yfGJh-MXC0MTK0MXKzHGKaRKQvC-3i5XXN9jVwzFU1zBEN0rX8AJri6qUoqGBgYGRqamRua5BoqVxokWaka6JpYmxoZGukbm5qYWBscbrCXfmPzU2spaCBKQCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNhdnZ3MnpygbLubQYBfBQluu64sNpB2kmEPCXRRX3mRee2DCaXstZk-XIMN7_1lytZUt7QMtvojxv7dcYB8Jk09ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMbJzMRsYGQowbWBk3MH4HwYYXzGCLAEAGAxcsEoCAAA&masterhotelid_tracelogid=100025527-0a93a8f2-494312-2775803&detailFilters=17|1~17~1*31|5939982~31~5939982*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1056&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/YwjItBib)
 
 ## 11.Holiday Inn Resort Bali Canggu
 
@@ -193,7 +193,7 @@ Conveniently located, it's just a **5-minute drive** from Canggu's main activity
 
 Leafy Lofts Canggu offers both one-bedroom and two-bedroom options, with its stylish design, comprehensive facilities, and prime location providing a relaxing and private accommodation experience. Whether for vacation or remote work, guests can find their own tropical paradise here.
 
-> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=55807530)
+> ▶[Agoda Special Offer](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=55807530) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=114288196&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLS0MDZKtNA1sTQxNjTSNTG3NDHS-Nb1cP5TYyMDLcH4EE9PF8OSwlSzwlLLnKIC01OMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbBZGrsZmhlF8Uswh4S6KK28yrz0w4bR9EmtVhm5IeEavOADNBPuRggAAAA&masterhotelid_tracelogid=100051355-0a9832a8-494312-47942&detailFilters=17|1~17~1*31|114288196~31~114288196*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=345&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/NB4QtcRF)
 
 ## 15.Belajar Bali Boutique Hotel & Retreat
 

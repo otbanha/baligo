@@ -3,6 +3,7 @@ slug: bali-6-day-itinerary-guide
 title: 峇里島自由行六日行程：住宿、美食、景點推介
 description: 今次嘅峇里島之旅，我哋一家人帶住滿滿嘅期待飛去呢個充滿魅力嘅島嶼。
 pubDate: '2024-09-18'
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fe6a030ea275cf610d3a9c87b3d2c277.jpg'
 tags:
   - 峇里島自由行
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/66c0ba76fd89780001527eed'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 92d09a61188ef32970d43d402d8fa784
+_srcHash: 09743086b8b5aa44c3d37511ff419ee5
 ---
 
 > 以下內容由團友 [​Oscar Lin](https://www.facebook.com/share/p/4Eev2drzrfF5SKtc/) 提供，並同意我哋改編
@@ -83,7 +84,7 @@ Oscar Lin提供
 
 結束咗一日嘅行程之後，我哋入住咗Ulu Segara Luxury Suites & Villas。呢間酒店雖然有啲舊，但泳池同海灘嘅景色非常靚，房間亦都大到令人驚喜，令我哋有一個舒適嘅夜晚。
 
-> [Ulu Segara Luxury Suites & Villas 房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=544215)
+> [Ulu Segara Luxury Suites & Villas 房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=544215) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1386552&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NqYeFikmCS-svM8WDnku-sQowGFu9aGR2NQeBzu4OnfOvrwB3beh0CeCKmHHg-jT3Rq7pZ3-dIoEMXIytYYAbjjgshGxnXuT-sEuFLd9jByHSAkekE42GlBUw3TzdZn2Jh5rjBdonlK1N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2SZGFnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJZjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYUMkPaEwRVCAzPw-i3RBFLCwxpzQV4gSghW6pUDsMa3UwXf5sTu_T7pkvNu0mzuXm1Ha5ATEuN66NfcTCFB37iYXhFwtDEytDFyszxymmSUDysNIuVrZAAydvY-MLrL2qUoqGBgYGRqamRua6BomWiUmGZha6JpYmxsZGuoYGZmaGBoYa3ZcOHHxqbGQtBYl3BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWxmzgaujq5RNlzMni5Bgvf-s-RqK1vaSzGHhLsorrzJvPbAhNP2WiA5Q5hcoMUXMf73lgvsI2HySaxVGboh4Rm94gWMDYxMXYzcAowejBGMFUAe4ypGhg2MjDsY_8MA4ytGkOkAmup-MusCAAA&masterhotelid_tracelogid=100025527-0a9ab168-494332-1066101&detailFilters=17|1~17~1*31|1386552~31~1386552*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=708&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/qYbbhFzr)
 
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_31d7a5aa31b521d838cb8db2055015c9.jpg)

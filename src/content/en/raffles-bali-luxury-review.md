@@ -27,10 +27,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0b331a54ea34e5eb429807b8f9127732.jpg'
 originalUrl: 'https://vocus.cc/article/68ba99a2fd89780001052dd2'
 lang: en
-_srcHash: 29df19d565490e435f22f8a10284d0c3
+_srcHash: 92920b56ef63b8701027b9203d3ba253
 ---
-
-update:2026/05/21
 
 ### Three Unique Dining Moments for an Extraordinary Sensory Feast
 

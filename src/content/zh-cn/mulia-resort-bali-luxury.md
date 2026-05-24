@@ -20,10 +20,8 @@ agoda_hotel_name: 穆利雅度假村
 agoda_hotel_id: 6532982
 latitude: -8.815860748291016
 lang: zh-cn
-_srcHash: de5d70a41a1182c6aa4cd82141b64c81
+_srcHash: fde2eaea7cdbeb26a8c4bb33192551a5
 ---
-
-update: 2026/05/21
 
 「巴厘岛的 Mulia Resort（The Mulia, Mulia Resort & Villas）」多年来荣获的主要国际大奖与头衔：
 

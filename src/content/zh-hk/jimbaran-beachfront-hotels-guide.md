@@ -23,10 +23,8 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_7c7e657d30b7d70cbe0229752d5ab
 originalUrl: 'https://vocus.cc/article/654c6271fd8978000174ff5e'
 shuffle_h2: true
 lang: zh-hk
-_srcHash: 891537b57bf090a3c3ebd84bba4059c6
+_srcHash: 96c3ef85c7742b58e103e15564ec0a1a
 ---
-
-update:2026/05/21
 
 峇里島嘅金巴蘭擁有壯觀嘅海灘同令人驚嘆嘅景觀。呢個地區以其令人嘆為觀止嘅度假勝地而聞名，呢度有迷人嘅金黃海灘、絕美日落、同高檔度假村。呢度集合咗休閒、美食、購物、娛樂於一體，深受遊客喜愛。下面我哋來詳細介紹金巴蘭幾家知名嘅濱海住宿:
 

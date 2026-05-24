@@ -23,10 +23,8 @@ originalUrl: ''
 private: false
 embeds: []
 lang: zh-hk
-_srcHash: 2e4fbf3b29b7485c2d59533269000869
+_srcHash: 8d251139a47dd565c5829e434290a11e
 ---
-
-update:2026/05/21
 
 講到帶細路出國玩，好多爸媽第一個念頭就係：「安全嗎？好玩嗎？細路會唔會攰？」
 

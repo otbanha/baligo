@@ -11,6 +11,7 @@ description: >-
   and planning. In this article, we'll provide you with a travel guide from Bali
   to Nusa Penida, along with the latest information.
 pubDate: '2023-08-16'
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_efc65c3d29b2aad1d70da8ac6ec61dd5.jpg'
 tags:
   - nusapenida
@@ -20,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/64db6b82fd897800013a9942'
 category:
   - 峇里島分區攻略
 lang: en
-_srcHash: 7969ff0e366c71f601716bfd99c2053a
+_srcHash: a4b7a17c239e3e1d5b716694a3f346dd
 ---
 
 When you're vacationing in Bali, Nusa Penida is an absolute must-visit destination. The island is renowned for its stunning attractions and charming culture, offering travelers a wealth of experiences. However, due to its relatively remote location, visiting Nusa Penida may require detailed research and planning. In this article, we'll provide you with a travel guide from Bali to Nusa Penida, along with the latest information to help you plan your trip.
@@ -138,7 +139,7 @@ If you're looking to store large luggage on Bali's main island, check out: [Depa
 
 For those planning their own trip, upon arriving at Nusa Penida, you can choose from several accommodation options. Below are three recommended choices, categorized as budget, mid-range, and luxury stays.
 
-**Luxury Stay:** [**Adiwana Warnakali Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=12145599)
+**Luxury Stay:** [**Adiwana Warnakali Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=12145599) [Booking](https://booking.tpm.li/3tFPqiDE)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_aaa80c2680b499073712555131a3e50f.png)
 

@@ -8,10 +8,11 @@ pubDate: 2025-05-04T00:00:00.000Z
 category:
   - 峇里島分區攻略
 tags: []
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6a38c8fbc6833eca3adeffb98870a912.jpg'
 originalUrl: 'https://vocus.cc/article/681601c6fd8978000139f8a3'
 lang: zh-hk
-_srcHash: a8fc2380b0979d9d4dce73517f094273
+_srcHash: bedb2fed5091ab903f6174f7e20fd22f
 ---
 
 ## **前言：點解Labuan Bajo值得你專程造訪？**
@@ -260,7 +261,7 @@ https://youtu.be/amXkwRbzJTE
 
 無邊際泳池+私人海灘嘅精品五星酒店
 
-> ▶[訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=26078915)
+> ▶[訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=26078915) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Labuan Bajo&cityId=7291&hotelId=18409889&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oaz8LFJMEkNYOF48_6lU9YhbgMDY0sLExNDQyMNO6zGTRyWcyyc2QAgXUTHTyvLy6w5bo41SGAJ2LKgefT2BO9qpv1fY4EOnQxsoIFZjAuvPyYYyNjTP-hrxo9BQ47GJlOMF4zWsD0tWeX4ikWZo5znJdYvjJFVytlp1YqWZnoKJVkluSkKlkpPV0072nDnucrWpV0lFJSi5OBQkBWYm5-aV4JkG1maKpnYAAUKUms8EwB60xOzEkuzUksSQ2pLACaYKajlFnsXFKUWRCUmptZUpIKVJWWmFOcChIPSi0GyiSDBZX8gMYUQQUy8_Mg2g1RxMISc0pTIU4AWuiWCrXDsFYH0-XP5vQ-7Z75YtNu4lxuTm2XGxDjcuPa2EcsTNGxL1jus31iYfjFwtDEytDFysxximkSkLxmtItV0N_PICLCS9fTz9nb2UQ3StfwAutmMylFQwNgYjA1NTLXNUi0tDBMSTTUNbE0MTY21jU0MLIwMjbTeLBl-uGnxkbWUpBEoMCoJRgf4unpYlhSmGpWWGqZU1RgasB4ilHK0NzYwtAImMSMjCyN9Uws0syKLfKKLXKzIjwYg9gMnU1dLM2jbLiYQ4NdBAttua4vNpB2kGIOCXdRXHmTee2BCafttZg9XYIM7_1nydVWtrQPtPgixv_ecoF9JEw-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEADsKxiENAwAA&masterhotelid_tracelogid=100025527-0a981da1-494333-1028236&detailFilters=17|1~17~1*31|18409889~31~18409889*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=735&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/ue8jBdpb)
 
 **Plataran Komodo Beach Resort**
 
@@ -268,7 +269,7 @@ https://youtu.be/amXkwRbzJTE
 
 傳統風格+絕佳服務
 
-> ▶[訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=547485)
+> ▶[訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=547485) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Labuan Bajo&cityId=7291&hotelId=1860896&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqYeFikmCSamXhWLJt0RY2IUYjg7NsFqsjHNe5P6wSEZ_l4GnLdX3xB84FDgE8EVMOPJ_GnuhV3azvcyTQoYuRFSwwg3HBqcKNjMYg8LncYQcj0wFGphOM-7wWME3uWct9ioWZ4xPvJZavTNHVStmplUpWJjpKJZklOalKVkrP5vQ-7Z75YtNuJR2llNTiZKAQkJWYm1-aVwJkW1hY6hkYAEVKEis8U5SszHWUkhNzkktzEktSQyoLgCaY6ShlFjuXFGUWBKXmZpaUpAJVpSXmFKeCxINSi4EyyWBBJT-gMUVQgcz8PIh2AxSxsMSc0lSIE4AWuqVC7TCu1cF0-dNF85427Hm-opU4l5tQ2-WGxLjcsDb2EQtTdOwnFoZfLAxNrAxdrMwcp5gmAcl9XrtYeSLNXc3DjXUNdaN0DS-wdvhKyRsaGBiYGhqbmuoaJFommhonG-qaWJoAY1bXyMDCwEhjxbN5h58aG1lLQeJegVFLMD7E09PFsKQw1ayw1DKnqMDUgPEUo5ShubGFoZGhoZGRkaWxnolFmlmxRV6xRW5WhAdjEJuJiYWhqUmUDRdzaLCLYCEojRlIO0gxh4S7KK68ybz2wITT9lrMni5Bhvf-s-RqK1vaB1p8EeN_b7nAPhImn8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgCUROV3-AIAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494333-20802&detailFilters=17|1~17~1*31|1860896~31~1860896*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1040&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/Y6qWO1Mq)
 
 **Meruorah Komodo**
 
@@ -276,7 +277,7 @@ https://youtu.be/amXkwRbzJTE
 
 超值五星體驗
 
-> ▶[訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=30045141)
+> ▶[訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=30045141) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Labuan Bajo&cityId=7291&hotelId=49371018&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJY8e3GedYhZgNDYw0jrIYPGC02CrvWC2yzv3hmU4HTyBVJXKs3yGAJ2LKgefT2BO9qpv1fY4EOnQxsoIFZjB2rT8qvpHx7BkgeJLusIOR6QAj4wnGLyoLmK5tfi95ioWZ4zvbJZZdjNHVStmplUpWJjpKJZklOalKVkpPF8172rDn-YpWJR2llNTiZKAQkJWYm1-aVwJkW1iY6xkYAEVKEis8U8A6kxNzkktzEktSQyoLgCYY6ShlFjuXFGUWBKXmZpaUpAJVpSXmFKeCxINSi4EyyWBBkLlFUH5mfh5EtwGKWFhiTmkqRCXQPrdUqBWGtbGPWJiiY1-wHGX5xMLwi4WhiZWhi5WZ4xTTJCD5RWUXK69fWKClm4GuYYhulK7hBda1GlLyhgYGBqaGxqamugaJlhbJZkZmuiaWJsbGxrpGxpZmFhoNB5YffmpsZC0FCUYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbGYuRm5OjlE2XMyhwS6ChbZc1xcbSDtIMYeEuyiuvMm89sCE0_ZazJ4uQYb3_rPkaitb2gdafBHjf2-5wD4SJp_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEWQIAedXjW0gCAAA&masterhotelid_tracelogid=100051355-0a98c626-494333-23968&detailFilters=17|1~17~1*31|49371018~31~49371018*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=690&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/IgCotnMI)
 
 ### 中價位
 
@@ -286,7 +287,7 @@ https://youtu.be/amXkwRbzJTE
 
 市中心+天台酒吧
 
-> ▶[訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=165236)
+> ▶[訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=165236) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Komodo&cityId=92690&hotelId=1486209&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6zcTFJMEkdYWJ4---dc1MQsyGBkYaR1kMHjBabJV3nDUTCErrHDwPf9WI6b_S5BDAEzHlwPNp7ImLI_IyTc8EOHQxsoIFZjA23o7ayLjO_WGVyLkYhx2MTAcYmU4wfhRdwPR5z0XGUyzMHNNZLrHsYoyuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29TYVM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBSEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLgswtgvIz8_Mgug1QxMISc0pTISqB9rmlQq0wrI19xMIUHfuC5SjLJxaGXywMTawMXazMHDuYJgHJj6K7WHl9AkJcPaN0DUN0gcQF1kkyUvKGBgYGpobGpqa6BomWiYbmyea6JpYmxsbGukZmFoZGGg0b1h9-amxkLQUJRQVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGQPWGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWymJs5Gho5RNlzMocEugoW2XNcXG0g7SDGHhLsorrzJvPbAhNP2WsyeLkGG9_6z5GorW9oHWnwR439vucA-EiafxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCANoqjFVHAgAA&masterhotelid_tracelogid=100051355-0a9a17c7-494333-26812&detailFilters=17|1~17~1*31|1486209~31~1486209*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=979&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/xbCYASID)
 
 **Loccal Collection Hotel**
 
@@ -294,7 +295,7 @@ https://youtu.be/amXkwRbzJTE
 
 地中海風格住宿
 
-> ▶[訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22216836)
+> ▶[訂房連結](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22216836) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Labuan Bajo&cityId=7291&hotelId=73711779&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Naw8TFJMEktZSJY1H38jNsQowGFhOFHG25ri8uaJni4GkMAsemOQTwzGBc3DhZeSPjOveHVSJ8SQ47GJkOMDKdYPxgsoCpc85W1VMszBzzWS-x7GaMrlbKTq1UsjLRUSrJLMlJVbJSerpo3tOGPc9XtCrpKKWkFicDhYCsxNz80rwSINvM3FDPwAAoUpJY4ZkC1pmcmJNcmpNYkhpSWQA0wUxHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGCyr5AY0pggpk5udBtBuiiIUl5pSmQpwAtNAtFWqHYW3sIxam6NhPLAy_WBiaWBm6WBkmsTJzfDDZxcoW7O0aZhwhJW9oYGBgamhsaqprkGiZaGiebK5rYmkCDCRdI0tTQ0ONP9-2HX5qbGQtxTrlwPNp7AqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYLEydXJydo2y4mD1dggTv_WfJ1Va2tJdiDgl3UVx5k3ntgQmn7bVAcoYwuUCLL2L87y0X2EfC5JNYqzJ0Q8IzesULGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDTAWj_vAkRAgAA&masterhotelid_tracelogid=100051355-0a9a17c7-494333-29511&detailFilters=17|1~17~1*31|73711779~31~73711779*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1278&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/2KWmmQ6u)
 
 **Komodo Lodge**
 

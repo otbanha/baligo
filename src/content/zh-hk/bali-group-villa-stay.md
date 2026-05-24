@@ -31,11 +31,11 @@ tags:
   - 金巴兰海景包栋别墅
   - 峇里岛适合求婚/办婚礼的 Villa
   - 巴厘岛高性价比团体住宿
-update: 2026/05/22
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_72df3918142bccfea8b19414e6ee33a4.jpg'
 originalUrl: 'https://vocus.cc/article/662e156bfd8978000130c73c'
 lang: zh-hk
-_srcHash: 89e58abf4a4d8926c297af27bafadcf5
+_srcHash: 48fe78a4236be28cd72c195f65df9d96
 ---
 峇里島係著名嘅度假勝地，以其美麗嘅海灘、熱情好客嘅人民同豐富嘅文化而聞名。近年來，峇里島亦成為家庭旅遊嘅熱門目的地，越來越多家庭選擇到峇里島度假。
 
@@ -108,7 +108,7 @@ Villa SANKET - KUTA 係一間位於庫塔市中心嘅寬敞別墅，坐落喺Wat
 
 喺餐飲方面，Villa SANKET 每日提供豐富嘅自助式同單點早餐，包括熱食、當地特色菜同埋鬆餅。天氣暖嘅時候，住客仲可以用燒烤設施，喺私人露台上面享受戶外餐飲。別墅有戶外泳池同美容服務，等旅客喺旅途中都可以放鬆身心。附近有多個著名景點，例如Jerman海灘、Discovery購物中心同埋Waterbom Bali水上樂園，行路就可以去到。別墅仲提供租車同觀光行程服務，方便住客輕鬆探索峇里島嘅迷人風光。無論係家庭度假、朋友聚會定係團體出遊，Villa SANKET - KUTA 都係一個結合便利同奢華嘅理想住宿選擇。
 
-> ▶[Villa SANKET - KUTA 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=28877275)
+> ▶[Villa SANKET - KUTA 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=28877275) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=129511825&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLRMtDBOTNU1sTQxNrTQNTe2MDDQ2PTn3KqnxkYGWoLxIZ6eLoYlhalmhaWWOUUFpqcYpQyBigyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPY3JzMTIwMovikmEPCXRRX3mRee2DCafsk1qoM3ZDwjF5xAGlGmzmCAAAA&masterhotelid_tracelogid=100051355-0a9a83ae-494318-73800&detailFilters=17|1~17~1*31|129511825~31~129511825*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=996&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/JJ4HvKi9)
 
 {{block:villa}}
 
@@ -198,7 +198,7 @@ Impiana Private Villas Seminyak旁邊就有一間大型超市，離熱鬧嘅「J
 
 Impiana Private Villas Seminyak提供嘅房型有單臥室、雙臥室、三臥室、六臥室、八臥室villa，最多可以容納16個成人，12歲以下小朋友唔佔床免費。
 
-> ▶[Impiana Private Villas Seminyak 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=186001)
+> ▶[Impiana Private Villas Seminyak 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=186001) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685514&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oaw8LFJMEkNZWFY__O1_cZhTgtLEwMzYzMDYwMlnJYdCY7zpoJBBd7HTyXFNhyXc-f5BDAEzHlwPNp7Ile1c36PkcCHboYWcECMxhPvdZcwci4kXGHXOvrQIschx2MTAcYmU4wvtJawPRm1lyRUyzMHDM4LrF8ZYquVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29TIRM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBTEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLKvkBjSmCCmTm50G0G6KIhSXmlKZCnAC00C0VaodhrQ6my5_N6X3aPfPFpt3Eudyc2i43IMblxrWxj1iYomM_sTD8YmFoYmXoYmXmOMU0CUi-0trFKugW5G4SFqpr4mHiZ2moG6VreIF1i66UoqGBgYGRqamRua5BomVikqGRia6JpYmxoYWuqYGBmZmpkca1x9dXPTU2spaCpAIFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbI4GlsbOhlE2XMyhwS6ChcC0tthA2kGKOSTcRXHlTea1Byacttdi9nQJMrz3nyVXW9nSPtDiixj_e8sF9pEw-STWqgzdkPCMXvECxgZGpi5GbgFGD8YIxgogj3EVIzsXs4GRoQDTBkbGHYz_YYDxFSPIEgABlEuECgMAAA&masterhotelid_tracelogid=100025527-0a9ab124-494318-5006652&detailFilters=17|1~17~1*31|685514~31~685514*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=372&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/S9gb0qbO)
 
 ### **KoenoKoeni Villa - 高評價嘅水明漾別墅渡假勝地（最多9人）**
 
@@ -217,7 +217,7 @@ KoenoKoeni 別墅位於峇里島水明漾區，環境優美且安靜。雖然附
 
 KoenoKoeni Villa 提供一到三房嘅 villa，villa 入面有寬敞嘅睡房，仲有靚到爆嘅高金字塔形天花板，配備幾個戶外淋浴間，一個令人驚嘆嘅泳池同一個細細哋但好豐富嘅花園。獨立寬敞嘅用餐/日間區域，對住個泳池。佢又神秘又刺激，又舒服又溫馨。（[喬珂美學CiaoCalli提供](https://www.facebook.com/share/r/EV6HGe636Q6vs7Bt/)）
 
-> ▶[KoenoKoeni Villa 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=393972)
+> ▶[KoenoKoeni Villa 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=393972) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685495&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLRMTDEyMtA1sTQxNrTQNbewMDfRWL_vzqqnxkYGWoLxIZ6eLoYlhalmhaWWOUUFpqcYpQzNjS0MjQwNjYyMLI31TCzSzIot8ootcrMiPBiD2CyMXAwsLaP4pJhDwl0UV95kXntgwmn7JNaqDN2Q8IxecQBQcLK5ggAAAA&masterhotelid_tracelogid=100051355-0a9ad220-494318-78874&detailFilters=17|1~17~1*31|685495~31~685495*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=470&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/adsyeHSw)
 
 ### C151 Smart Villas at Seminyak：CP值首選（最多8人）
 
@@ -238,7 +238,7 @@ C151 Smart Villas at Seminyak 係一座奢華而現代嘅度假村，擁有20棟
 
 C151 Smart Villas 提供各種別墅選擇，可以滿足唔同家庭嘅需求。無論你係同小家庭同行定係大家庭出遊，佢哋提供一房 villa、兩房 villa、三房 villa，最多可以容納六大兩小，旅客都可以搵到完美嘅住宿選擇。
 
-> ▶[C151 Smart Villas at Seminyak 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=97582)
+> ▶[C151 Smart Villas at Seminyak 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=97582) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981761&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGF49PF1-fYhBgNLH4LOtpyXV9cEN7v4KkZ03_oa-xkhwCeiCkHnk9jT_Sqbtb3ORLoUMgAAgfmOTQyApXacpnNdOhiZAWrmcHY-M16I2PQDrnW1xNzHXYwMh1gZDrB2Ki7gOnZAdZTLMwcpzgusXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb1MRSz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQbooiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3cS53JzaLjcgxuXGtbGPWJiiYz-xMPwCRsNG9yZWhi5WYHwwTQKSjbq7WNmCjQxCjQ0vsP4pk5IzNDAwMDU0NjXVNUi0tDA2SrTQNbE0MTa01DUxsjDUmDbn06qnxkbWUpBoV2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xShlaG5sYWhkaGhkZGRprGdikWZWbJFXbJGbFeHBGMTm4mJm6GISZcPF7OkSJHjvP0uutrKlvRRzSLiL4sqbzGsPTDhtrwWSM4TJBVp8EeN_b7nAPhImn8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZNjAyLiD8T8MML5iBJkOAOLLxQT8AgAA&masterhotelid_tracelogid=100051355-0a9832a8-494319-4281&detailFilters=17|1~17~1*31|981761~31~981761*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=741&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713)
 
 ### Amarin Seminyak - 體驗世界一流嘅服務 （最多8人）
 
@@ -320,7 +320,7 @@ Secana Beachtown 離海灘300米，行到Atlas Beach Fest 600米，周圍擁有�
 
 Secana Beachtown 喺坎古係一個適合家庭度假嘅理想選擇。佢嘅豪華住宿、多樣嘅設施同優秀嘅位置提供咗舒適、放鬆同探險嘅完美組合。無論您想放鬆、探索或者同家人共度美好時間，Secana Beachtown 都係一個適合您嘅下一個家庭度假目的地。
 
-> ▶[Secana Beachtown 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=42004200)
+> ▶[Secana Beachtown 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=42004200) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=110442701&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6z8TFJMEkdYKJY9a3mY9ZhRiNDA4KWRwvdSy05bq-2KDDwdMYBCS7HQJ4IqYceD6NPdGrulnf50igQxcjK1hgBuPZj1dMVjAybmQUWef-sMol3GEHI9MJxv3yC5h-T24zOcXCzLGB-RLLbsboaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBsk2MjfQMDIAiJYkVnilgncmJOcmlOYklqSGVBUATzHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwoJIf0JgiqEBmfh5EuyGKWFhiTmkqxAlAC91SoXYY1sY-YmGKjv3EwvCLhaGJlaGLlZnjFNMkILlffhcrh79HRJS5t67hBdZOJSk5QwMDA1NDY1NTXYNEy0QL48RUXRNLE2NDS11zYzMLjabuX6ueGhtZS0FCT4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbkYGJqZlLlA0Xs6dLkOC9_yy52sqW9lLMIeEuiitvMq89MOG0vRZIzhAmF2jxRYz_veUC-0iYfBJrVYZuSHhGr3gBYwMjUxcjtwCjB2MEYwWQx7iKkWEDI-MOxv8wwPiKEWQ6AEiyY9kzAgAA&masterhotelid_tracelogid=100051355-0a9a83ae-494319-7368&detailFilters=17|1~17~1*31|110442701~31~110442701*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=594&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/dGqHl6a2)
 
 ### **Avilla Paradise: 4BR Designer Villa** （最多8人）
 
@@ -337,7 +337,7 @@ Secana Beachtown 喺坎古係一個適合家庭度假嘅理想選擇。佢嘅豪
 
 Avilla Paradise位於Batu Bolong寧靜嘅小巷裡，距離Pantai Batu Bolong Street只有1分鐘步行路程，附近有多間餐廳、酒吧同超市。距離Love Anchor 700米、行到Batu Bolong Beach同Berawa Beach約15～20分鐘。
 
-> ▶[Eden The Residence at The Sea Seminyak 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581660)
+> ▶[Eden The Residence at The Sea Seminyak 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41581660) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685551&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_CcWHWxGtsQowGFhOFHD0eVomsW9nj4Nl_6KtGzJ6JDgE8EVMOPJ_GnuhV3azvcyTQoZABBLoWOjQyVousc3-4f45DFyMrWM0MxvevNTcyxoD02mQ77GBkOcE4X3MB0-azu5lPsTBzfGG_xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUwMzPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FuiCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebdhPncnNqu9yAGJcb18Y-YmGKjv3EwvALGA1bAptYGbpYmTlOMU0CkvM1d7GyBXuY-5saXGCdWyslZ2hgYGBqaGxqqmuQaJloapxsqGtiaWJsaKlrYWZqorGy69-qp8ZG1lKQSFdg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZuRqYelqFGXDxezpEiR47z9Lrraypb0Uc0i4i-LKm8xrD0w4ba8FkjOEyQVafBHjf2-5wD4SJp_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTYwMi4g_E_DDC-YgSZDgAzDgSI-gIAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494319-8654&detailFilters=17|1~17~1*31|685551~31~685551*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=585&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/wlixS970)
 
 ### The Bija Villas by Nakula（最多18人）
 
@@ -360,7 +360,7 @@ The Bija Villas 提供多樣化嘅設施，滿足客人嘅各種需求：
 - **娛樂設施**：每間睡房配有50吋智能電視，客廳就配有65吋智能電視。另外，仲有桌球枱、桌上遊戲同迷你高爾夫等娛樂選擇。
 - **餐飲服務**：提供英式或者印尼式早餐服務，時間係朝早7點至11點。仲有專業廚師可以應要求喺別墅內準備餐點（需要額外收費）。
 
-> ▶[The Bija Villas by Nakula 房價&空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=995749)
+> ▶[The Bija Villas by Nakula 房價&空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=995749) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2890949&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oaz8LFJMEkNYOF48H0NZdZhRgNLH4LOnJdX1ywV32fg-fhrxox_LmHHAJ4IqYceD6NPdGrulnf50igQyEDCOQtdGhkjOk_9FVj3lyHLkZWsJoZjEd3bmDcyPgmcIdc68lZDjsYhQ4wCp1gXHaNaQHT9TcLWU6xMHPMsLvE8p0pulopO7VSycpER6kksyQnVclK6dmc3qfdM19s2q2ko5SSWpwMFAKyEnPzS_NKgGxjSwsDPQMDoFBJYoVnipKVuY5ScmJOcmlOYklqSGUB0AgzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxA9BCt1SoHca1OphOf7po3tOGPc9XtBLpdBNqO92QGKcb1sY-YmGKjv3EwvALGBFfAppYGbpYmTlOMU1iZeEARtIuVjZ_Z9NgL-MLrE9WMkvJGxoYGJgaGpua6hokWiaaGicb6ppYmhgbWuoaGVmaGGpM3r949VNjI2spSPQrMGoJxod4eroYlhSmmhWWWuYUFZgaMJ5ilDI0N7YwNDI0NALqM9YzsUgzK7bIK7bIzYrwYAxiM3QFyjtH2XAxe7oECd77z5KrrWxpL8UcEu6iuPIm89oDE07ba4HkDGFygRZfxPjfWy6wj4TJJ7FWZeiGhGf0ihcwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDANHH8BAEAwAA&masterhotelid_tracelogid=100051355-0a9a53c1-494319-22941&detailFilters=17|1~17~1*31|2890949~31~2890949*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=756&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/V0lQaCtt)
 
 ### **Pantai Indah Villa（最多八成人）**
 
@@ -380,7 +380,7 @@ The Bija Villas 提供多樣化嘅設施，滿足客人嘅各種需求：
 
 行出別墅，周邊生活設施同景點應有盡有。慢慢行去Echo Beach睇日落、喺水明漾咖啡館享受早午餐，或者去當地藝術小店同手作市集，都係幾步路就到。別墅提供機場接送、私人管家同每日清潔服務，確保你旅程無憂。Pantai Indah Villa唔單止係一個住宿地方，更加係一種峇里島式生活嘅體驗——喺自然、奢華同自在之間，搵到屬於你嘅完美平衡。
 
-> ▶ [Pantai Indah Villa 房價&空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=38110816)
+> ▶ [Pantai Indah Villa 房價&空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=38110816) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=117634923&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6x8zFJMEk9Z2Z4_TzTzdYhRgtDHbwW_RlO86aOXOmZcwJB0_NmP5DVyvPOgTwzGB8_a7bYiOjLdf1xQVlSxx2MHIcYOQ4wbhiMcsCphNneyxOsTBz_I-7xNLIHF2tlJ1aqWRloqNUklmSk6pkpfR0atvTyY1P-7uezel92j3z-YpWJR2llNTiZKAckJWYm1-aVwJkm5pbGugZGACFShIrPFOUrIxMdZSSE3OSS3MSS1JDKguAhpnpKGUWO5cUZRYEpeZmlpSkApWlJeYUp4LEg1KLgTLJYEElP6A5RVCBzPw8iHYDFLGwxJzSVIgjgDa6pULtMKzVweKJRfOeNuzB6XYzYzNLFLebUNvphsQ5PfYRC1N07CcWhl8sDE2sDF2sDJNYWTiAEbWLldff29nIJ0jXR9fQV9dHStHQwMDAyNTUyFzXINHSONEizUjXxNLE2NBS19DcwNjc3Fjj0MnVq58aG1lLsU458HwauwKjlmB8iKeni2FJYapZYallTlGBqQHjKUYpQ3NjC0MjQ0MjIyNLYz0TizSzYou8YovcrAgPxiA2MxcDAze3KBsu5tBgF8FCUCoykHaQYg4Jd1FceZN57YEJp-21mD1dggzv_WfJ1Va2tA-0-CLG_95ygX0kTD6JtSpDNyQ8o1e8gLGBkamLkVuA0YMxgrECyGNcxcjOxWxgYSjAsYGRcQfjfxhgfMUIsgQAZBzLXOwCAAA&masterhotelid_tracelogid=100025527-0a93a8f2-494319-1703773&detailFilters=17|1~17~1*31|117634923~31~117634923*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=224&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/wscvkVL6)
 
 {{block:canggu}}
 
@@ -403,7 +403,7 @@ Kayumanis Sanur Private Villa & Spa嘅位置雖然唔喺海灘，直線距離到
 
 Kayumanis Sanur Private Villa & Spa 提供單臥室、2 臥房、3 臥房等三種私人別墅選項，最多可容納六人。
 
-> ▶[Kayumanis Sanur Private Villa & Spa 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1569105)
+> ▶[Kayumanis Sanur Private Villa & Spa 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1569105) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987923&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawMLFJMEk1cnC8WtV00M2IUYjg35Ri542RsdvGjH9h1SnO3iePQMENXMcAngiphx4Po090au6Wd_nSKBDFyMrWGAG4-RlNisYGTcyAnV81YgpddjByHSAkekE41SnBUxbd--wP8XCzLGJ5xLLV6boaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBss0tjfUMDIAiJYkVnilgncmJOcmlOYklqSGVBUATzHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwoJIf0JgiqEBmfh5EuyGKWFhiTmkqxAlAC91SoXYY1upguvzZnN6n3TNfbNpNnMvNqe1yA2Jcblwb-4iFKTr2EwvDLxaGJlaGLlZmjlNMk4DkVKddrDwhxk7hTq66hrpRuoYXWO-7SCkaGhgYGJmaGpnrGiRaWlgYWJrrmliaGBta6hpamJibmRloXFuzcfVTYyNrKUgCUGDUEowP8fR0MSwpTDUrLLXMKSowNWA8xShlaG5sYWhkaGhkZAQMDBOLNLNii7xii9ysCA_GIDYXExNHA_MoGy5mT78gwVPLYh7G6m2yl2IOCXdRXHmTee2BCafttZg9XYIM7_1nydVWtrQPtPgixv_ecoF9JEw-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANEy7fD-AgAA&masterhotelid_tracelogid=100025527-0a988097-494319-1847660&detailFilters=17|1~17~1*31|987923~31~987923*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=540&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/vn3PzNDk)
 
 ### Sanur Residence - 濱海平價住宿（最多12人）
 
@@ -426,7 +426,7 @@ Sanur Residence係一間寬敞、現代化嘅海濱別墅，位於峇里島沙�
 
 Sanur Residence距離海灘約100米，可以遠眺巴東海峽同遠處嘅Nusa Penida。行去搭船往峇里島離島嘅碼頭（Sanur Harbour）23分鐘；GrandLucky超市9分鐘車程；Sindhu夜市10分鐘車程；Icon Bali購物中心11分鐘車程。缺點係附近比較僻靜，冇咩餐廳、咖啡廳、便利店。但係就有Tripadvisor評分滿分嘅超高性價比。
 
-> ▶[Sanur Residence 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=479030)
+> ▶[Sanur Residence 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=479030) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=687540&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLRMNDVONtQ1sTQxNrTUNTYwNTLUmHBm2-qnxkYGWoLxIZ6eLoYlhalmhaWWOUUFpqcYpQzNjS0MjQwNjYyMLI31TCzSzIot8ootcrMiPBiD2MycHQ0MzaP4pJhDwl0UV95kXntgwmn7JNaqDN2Q8IxecQD9gsINggAAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494319-30521&detailFilters=17|1~17~1*31|687540~31~687540*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1140&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/yQHOD87g)
 
 ### Avillion Villa Cinta @ Sanur（最多13人）
 
@@ -445,7 +445,7 @@ Avillion Villa Cinta @ Sanur，係一間結合寧靜與奢華嘅度假別墅，�
 
 Avillion Villa Cinta @ Sanur 以其卓越嘅服務、整潔嘅環境同優越嘅地理位置獲得高度評價，整體評分達9.1分。旅客特別讚賞友善嘅員工、寬敞嘅別墅同超值嘅住宿體驗。度假村設有咖啡廳同餐廳，供應印尼及國際美食，並提供客房服務，讓旅客喺房內享受美味餐點。
 
-> ▶[Avillion Villa Cinta @ 沙努爾 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=412374)
+> ▶[Avillion Villa Cinta @ 沙努爾 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=412374) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=687510&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLS0SDWxtNQ1sTQxNrTUNTYysTDW6P28a_VTYyMDLcH4EE9PF8OSwlSzwlLLnKIC01OMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbBZupm6OrlF8Uswh4S6KK28yrz0w4bR9EmtVhm5IeEavOAB14C7lggAAAA&masterhotelid_tracelogid=100051355-0a98e499-494319-32483&detailFilters=17|1~17~1*31|687510~31~687510*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1368&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/fenEVjjw)
 
 ### **Villa Seriska Dua Sanur（最多八名成人）**
 
@@ -467,7 +467,7 @@ Avillion Villa Cinta @ Sanur 以其卓越嘅服務、整潔嘅環境同優越嘅
 
 距離峇里島國際機場只係大約20分鐘車程，Villa Seriska Dua Sanur 既方便又隱密，係追求奢華、放鬆同在地文化體驗旅客嘅絕佳選擇。入住呢度，您會真正感受到「回到天堂」嘅度假氛圍。 🌴✨
 
-> ▶[Villa Seriska Dua Sanur 房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=336019)
+> ▶[Villa Seriska Dua Sanur 房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=336019) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=992139&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oax8LFJMEkNZ2F48-7KbfYhBgNLH4LOhoDwebTKxw804DgWfw6hwCeiCkHnk9jT_Sqbtb3ORLoUMgAAi82OTQyiqxzf_hLcINDFyMrWM0Mxu7jNhsZz54BgoA2hx2MHAcYOU4wdvQyLmCauczgFAszxxfJSyzfmaKrlbJTK5WsTHSUSjJLclKVrJSeLpr3tGHP8xWtSjpKKanFyUAhICsxN780rwTINjQztdAzMAAKlSRWeKaAtSYn5iSX5iSWpIZUFgCNMNNRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgkp-QGOKoAKZ-XkQ7YYoYmGJOaWpEDcALXRLhdphWKuD6fRnc3qfds98sWk3kU43p7bTDYhxunFt7CMWpujYTywMv1hYOM6sZ2xiZehiZeY4xTSJlYUDGEm7WNmCg9wjnc0vsM7bzyQlb2hgYGBqaGxqqmuQaJmYYmRkoGtiaWJsaKlrbGJsaqzxt-vA6qfGRtZSkNhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZo5Gbp6hxlw8Xs6RIkeO8_S662sqW9FHNIuIviypvMaw9MOG2vxRwa7GJYaMt1fbGBtEOgxRcx_veWC-wjYfJJrFUZuiHhGb3iBYwNjExdjNwCjB6MEYwVQB7jKkaGDYyMOxj_wwDjK0aQ6QBODsgXAwMAAA&masterhotelid_tracelogid=100051355-0a9ad220-494319-34353&detailFilters=17|1~17~1*31|992139~31~992139*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=690&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/9PjGVppZ)
 
 {{block:klook}}
 
@@ -493,7 +493,7 @@ Avillion Villa Cinta @ Sanur 以其卓越嘅服務、整潔嘅環境同優越嘅
 
 貼心嘅服務團隊可以滿足旅客嘅需求，由餐飲、按摩到活動安排，都可以享受無憂假期。入住呢間別墅，唔單止可以感受金巴蘭迷人嘅海灘同絕美嘅日落，仲可以擁有專屬於自己嘅奢華度假時光。
 
-> ▶[5BR Luxury Jimbaran Villa - Private Pool & Wedding 房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2672951)
+> ▶[5BR Luxury Jimbaran Villa - Private Pool & Wedding 房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2672951) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=114984282&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLRMNDVONtQ1sTQxNrTUNTYzNrXUaLt2dPVTYyMDLcH4EE9PF8OSwlSzwlLLnKIC01OMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbMYmruZOTlF8Uswh4S6KK28yrz0w4bR9EmtVhm5IeEavOAA1mQqdggAAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494319-36359&detailFilters=17|1~17~1*31|114984282~31~114984282*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=864&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713)
 
 ### Arpana Luxury Private Pool Villas（最多6人）
 
@@ -539,7 +539,7 @@ Villa Cantik Pandawa 提供專屬管家服務，確保住宿體驗無微不至�
 
 Villa Cantik Pandawa By Fays Hospitality 結合奢華、私密同自然美景，令你喺峇里島嘅每一刻都充滿難忘回憶。
 
-> ▶[Villa Cantik Pandawa By Fays Hospitality 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=45670099)
+> ▶[Villa Cantik Pandawa By Fays Hospitality 房價及空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=45670099) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=11298587&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PaxcTFJMEktZmJY2nzzB-sQsyGBhYGDxgttso7poHA9kkOnrZc1xcXLJ3mEMAzg3H2uY2sGxl3yLW-DizId9jByHGC8YTJAqaDn1qsT7Ewc_RzXmLZzRhdrZSdWqlkZaKjVJJZkpOqZKX0dNG8pw17nq9oVdJRSkktTgYKAVmJufmleSVAtqGhmbmegQFQqCSxwjMFrDU5MSe5NCexJDWksgBohJGOUmaxc0lRZkFQam5mSUkqUFVaYk5xKkg8KLUYKJMMFgQZXATlZ-bnQXQboIiFJeaUpkJUAu1zS4VaYVgb-4iFKTr2BctRlk8sDL9YGJpYGbpYGSaxMnOcMNnFyhdo5OoWaKTrbKxr6KvrIyVvaGBgYGpobGqqa5BoaZFqYmmpa2JpYmxoqWtsYWRorPHx0qnVT42NrKVYpxx4Po1dgVFLMD7E09PFsKQw1ayw1DKnqMDUgPEUo5ShubGFoZGhoZGRkaWxnolFmlmxRV6xRW5WhAdjEJuJhaObhUuUDRdzaLCLYCEoPgykHaSYQ8JdFFfeZF57YMJpey1mT5cgw3v_WXK1lS3tAy2-iPG_t1xgHwmTT2KtytANCc_oFS9gbGBk6mLkFmD0YIxgrADyGFcxsnMxG1gYCnBsYGTcwfgfBhhfMYIsAQAPkMIPJgIAAA&masterhotelid_tracelogid=100051355-0a98e499-494319-38213&detailFilters=17|1~17~1*31|11298587~31~11298587*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1420&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/9JlSmzzs)
 
 ### **Family Nest Villas（最多八成人）**
 
@@ -560,6 +560,6 @@ Villa Cantik Pandawa By Fays Hospitality 結合奢華、私密同自然美景，
 
 地理位置都相當方便，距離烏魯瓦圖同Bingin海灘約10分鐘車程，周邊有好多網紅咖啡廳同地道餐廳。園區中央有個大型戶外泳池，被熱帶花園圍繞，係小朋友玩水同大人放空嘅完美場所。全區提供免費Wi-Fi同免費停車場，亦可以預約機場接送。
 
-> ▶ [**Family Nest Villa 房價&空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=53920016)
+> ▶ [**Family Nest Villa 房價&空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=53920016) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=119713064&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJY8eng9fZhBgNLH4LOsq3vg7c4dfn4Cmyzv1h1acJDgE8EVMOPJ_GnuhV3azvcyTQoZABBA5kOjQy7pADqi5IcehiZAWrmcG44laX5QpGxo2MQSC5jTEOOxiZTjBuV1_AtGLuOftTLMwcU1kusexmjK5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDb1NhYz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQbooiFJeaUpkKcALTQLRVqh2Ft7CMWpujYTywMv4Ce2cbexMrQxcrMcYppEpDcrr6LlS3YzzUw2OUC63ZDKXlDAwMDU0NjU1Ndg0TLRAvjxFRdE0sTY0NLXRMDA0sTjbmXL6x-amxkLQUJPwVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsTibGBpaOUTZczJ4uQYL3_rPkaitb2ksxh4S7KK68ybz2wITT9logOUOYXKDFFzH-95YL7CNh8kmsVRm6IeEZveIFjA2MTF2M3AKMHowRjBVAHuMqRoYNjIw7GP_DAOMrRpDpAK_gAE9FAgAA&masterhotelid_tracelogid=100051355-0a9a83ae-494319-40094&detailFilters=17|1~17~1*31|119713064~31~119713064*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1188&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/XXH9AY01)
 
 {{block:住宿}}

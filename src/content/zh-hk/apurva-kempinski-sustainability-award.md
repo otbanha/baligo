@@ -18,10 +18,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c5c780a9262d6901c2139405a9097e28.jpg'
 originalUrl: 'https://vocus.cc/article/67375f47fd89780001591deb'
 lang: zh-hk
-_srcHash: f2a85c0aaaddaec677d2ce3be68d798b
+_srcHash: 5d794981883a6bd7dc969eadc07d608b
 ---
-
-update:2026/05/21
 
 The Apurva Kempinski Bali 榮獲 ULTRAs 2024「最佳永續酒店」殊榮
 

@@ -30,10 +30,8 @@ originalUrl: ''
 private: false
 embeds: []
 lang: en
-_srcHash: 2e4fbf3b29b7485c2d59533269000869
+_srcHash: 8d251139a47dd565c5829e434290a11e
 ---
-
-update:2026/05/21
 
 When it comes to traveling abroad with kids, many parents' first thoughts are: 'Is it safe? Is it fun? Will the kids get tired?'
 

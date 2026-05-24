@@ -20,10 +20,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_109fa4ab6c04ea54101f82e65cbb5948.jpg'
 originalUrl: 'https://vocus.cc/article/660ff581fd89780001f31315'
 lang: zh-hk
-_srcHash: 6ff6e1c3de476a1b9c22445a89153385
+_srcHash: 57906d2c260b35f20974900f6c5b1082
 ---
-
-update:2026/05/21
 
 峇里島一向係旅遊者嘅熱門渡假勝地，其中位於努沙杜瓦區嘅Apurva Kempinski酒店無疑係最頂級嘅選擇之一。呢間由德國連鎖酒店品牌Kempinski喺2019年2月新開幕嘅酒店，融合咗現代奢華設計同峇里傳統風格，為旅客帶嚟無可媲美嘅渡假體驗。
 

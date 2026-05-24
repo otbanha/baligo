@@ -24,9 +24,9 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-05/1777782450345-chatgpt_image_may_3_2026_11_27_08_am.png
 originalUrl: 'https://vocus.cc/article/65d21157fd897800013be576'
 shuffle_h2: true
-update: 2026/05/22
+update: 2026/05/24
 lang: zh-cn
-_srcHash: 0e2d67471f801b8ea188348c89871512
+_srcHash: 464ac0d1cd6c381ea228cdd6321f6c02
 ---
 
 更新: 2026/05/23
@@ -115,7 +115,7 @@ The Kayon Jungle Resort是您逃离城市喧嚣、放松身心的理想选择。
 
 Fivelements Bali Retreat是您寻求身心平衡，重启活力的理想选择，让您在巴厘岛的旅程体验独特的文化与疗愈。
 
-> 找空房/价位 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=234432)
+> 找空房/价位 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=234432) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685379&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGFo2nlsS1sQuyGpmYGhgZGBoe5LFalO1aLrHN_yDHVwRPMeDHTIYAnYsqB59PYE72qm_V9jgQ6dDGyggVmMB5-pbmCkXEjIwMINBQ77GBkOsDIdIJxhs0CptdLzkqfYmHmWMF9ieUrU3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZ5kYmegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrdTBd_mxO79PumS827SbO5ebUdrkBMS43ro19xMIUHfuJheEXC0MTK0MXKzPHKaZJQHKGzS5W_khzC0P_EN1ws0hX3Shdwwusj-ykFA0NDAyMTE2NzHUNEi0TTYwNLHVNLE2MDU11jQ2NzM0sTDXmH2pc-tTYyFoKkgYUGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsbk6m5i5OkXZcDF7ugQJ3vvPkqutbGkvxRwS7qK48ibz2gMTTttrgeQMYXKBFl_E-N9bLrCPhMknsVZl6IaEZ_SKFzA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAABkLiXwGAwAA&masterhotelid_tracelogid=100025527-0a9a4309-494315-3127685&detailFilters=17|1~17~1*31|685379~31~685379*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=484&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Ci2gslSp)
 
 ## 巴厘田园秘境：Maya Ubud
 
@@ -145,7 +145,7 @@ Maya Ubud 是您感受巴厘岛田园风光、体验身心放松的理想选择�
 
 如欲寻求静修之旅，餐饮方面亦无需烦恼。星野度假村提供专属的九道菜正餐体验，让您在传统印尼美食中陶醉，同时沉浸在餐厅环绕的迷人甘美兰音乐氛围中。
 
-> 找空房/价位 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1784323)
+> 找空房/价位 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1784323) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=992135&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oax8LFJMEkNZ2Fo2Xywl_MQpymloampiaGBkYGSzksOpMdq0XWuT_0XOngefYMEPxc5xDAEzHlwPNp7Ile1c36PkcCHboYWcECMxjbj9tsZPR4WCWybn-bww5GpgOMTCcYX_YzLmA6O2uuyCkWZo4tUpdYvjNFVytlp1YqWZnoKJVkluSkKlkpPV0072nDnucrWpV0lFJSi5OBQkBWYm5-aV4JkG1oZmmgZ2AAFCpJrPBMAWtNTsxJLs1JLEkNqSwAGmGmo5RZ7FxSlFkQlJqbWVKSClSVlphTnAoSD0otBsokgwWV_IDGFEEFMvPzINoNUcTCEnNKUyFuAFrolgq1w7BWB9Ppz-b0Pu2e-WLTbiKdbk5tpxsQ43Tj2thHLEzRsZ9YGH6xMDSxMnSxMnOcYprEysIBjKFdrILuXs4RnpG6vpFuhoYmulG6hhdYN09ilJI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MTY01TU1MDM11nj7rGPpU2MjaylIKlBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmHi4mriFmXDxRwa7CJYaMt1fbGBtIMUc0i4i-LKm8xrD0w4ba_F7OkSZHjvP0uutrKlfaDFFzH-95YL7CNh8kmsVRm6IeEZveIFjA2MTF2M3AKMHowRjBVAHuMqRnYuZgMjQwGmDYyMOxj_wwDjK0aQJQB762z1CgMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494315-50653&detailFilters=17|1~17~1*31|992135~31~992135*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1001&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/plpbjxHC)
 
 ## 巴厘岛世外桃源：**Natya Resort**
 
@@ -157,7 +157,7 @@ Maya Ubud 是您感受巴厘岛田园风光、体验身心放松的理想选择�
 
 娜塔度假村是家庭出游的理想选择，泳池套房满足孩子们的嬉水乐趣；同时也是情侣度假的完美天地，奢华别墅为爱侣们打造专属的甜蜜时光。
 
-> 找空房/价位 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1371256)
+> 找空房/价位 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1371256) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=7071995&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJ4_GaQ21MQsyGBkYaR1kMHjBabJV3DNoh1_o6ZY6D5-GvGjH8rgsdAngiphx4Po090au6Wd_nSKBDFyMrWGAG4--L65lXMDJuZDx7BgimVDjsYGQ6wMh0gnFWwAKmX2e2M59iYeZYxHeJZTdjdLVSdmqlkpWJjlJJZklOqpKV0tNF85427Hm-olVJRykltTgZKARkJebml-aVANmGFkZmegYGQKGSxArPFLDW5MSc5NKcxJLUkMoCoBFGOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlgQZHARlJ-ZnwfRbYAiFpaYU5oKUQm0zy0VaoVhbewjFqbo2BcsR1k-sTD8YmFoYmXoYmXmOMU0CUjOCtjFyuvrHGlsGKRrGKIbpWt4gfVNkJS8oYGBgamhsamprkGiZaKFcWKqromlibGhqa6psZGRkcbqV_1LnxobWUtBglKBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaEhUJOlsZ6JRZpZsUVesUVuVoQHYxCbobGloYV5lA0Xc2iwi2ChLdf1xQbSDlLMIeEuiitvMq89MOG0vRazp0uQ4b3_LLnaypb2gRZfxPjfWy6wj4TJJ7FWZeiGhGf0ihcwNjAydTFyCzB6MEYwVgB5jKsY2bmYDYwMBZg2MDLuYPwPA4yvGEGWAAB9oGCATAIAAA&masterhotelid_tracelogid=100051355-0a9a83ae-494315-53222&detailFilters=17|1~17~1*31|7071995~31~7071995*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1470&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/SOG30hPi)
 
 ## 巴厘岛秘境绿意：ADIWANA BISMA
 
@@ -211,7 +211,7 @@ The Udaya Resort and Spa 的奢华享受，等待您来探索！
 
 推荐给寻求家庭乐趣的旅客，别墅和私人套房是理想选择；浪漫氛围和精致客房也让TANAH MERAH ART RESORT成为情侣度假的完美之所。
 
-> 找空房/价位 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=211627)
+> 找空房/价位 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=211627) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685397&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6zcTFJMEkdYWJ4_f6zqVMQsyGBkYaR1kMHjBabJV39HhYJbJOvMjB85tGTP-h2DKHAJ6IKQeeT2NP9D7Bbjv7tbNDFyMrWGAG49VXmhsZd8i1vg6UCHTYwch0gJHpBOM_ngVMM86-YjzFwsyxl-kSyy7G6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbKNDc31DAyAIiWJFZ4pYJ3JiTnJpTmJJakhlQVAE4x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksCDI3CIoPzM_D6LbAEUsLDGnNBWiEmifWyrUCsPa2EcsTNGxL1iOsnxiYfjFwtDEytDFysyxk3ESkPzHs4uV19s03MzUUdcwRDdK1_AC6yZ-KUVDAwMDI1NTI3Ndg0TLRBNjA0tdE0sTY0NTXWNzC1NzEyONvkdzlz41NrKWgoSjAqOWYHyIp6eLYUlhqllhqWVOUYGpAeMpRilDc2MLQyNDQyMjI0tjPROLNLNii7xii9ysCA_GIDYLQwMzR5MoGy7m0GAXwUJbruuLDaQdpJhDwl0UV95kXntgwml7LWZPlyDDe_9ZcrWVLe0DLb6I8b-3XGAfCZNPYq3K0A0Jz-gVL2BsYGTqYuQWYPRgjGCsAPIYVzGyczEbGBkKMG1gZNzB-B8GGF8xgiwBAAvkCiJJAgAA&masterhotelid_tracelogid=100025527-0a9a4309-494315-3785742&detailFilters=17|1~17~1*31|685397~31~685397*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=559&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/wFKcjY5h)
 
 ## 巴厘岛乌布浪漫之旅：Kamandalu Ubud Resort
 
@@ -225,7 +225,7 @@ The Udaya Resort and Spa 的奢华享受，等待您来探索！
 
 最受欢迎的体验之一是乘坐私人船只在潟湖中央享用午餐或浪漫晚餐，周围环绕着色彩斑斓的锦鲤鱼。 六道菜晚餐还附赠香槟酒，让您的甜蜜之旅更加难忘。
 
-> 找空房/价位 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=48711)
+> 找空房/价位 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=48711) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=982040&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqZeFikmCSamPh-Nix5iCbEKOBxUQhR82Y_kNfWXocPKtF1rk_DJvoEMATMeXA82nsiV7Vzfo-RwIdGhlnzQQCSw-HLkZWsNQMxhk_rDcyGoPA4iyHHYxMBxiZTjAu1VjAtHjGZMtTLMwc99gvsXxliq5Wyk6tVLIy0VEqySzJSVWyUnq6aN7Thj3PV7Qq6SilpBYnA4WArMTc_NK8EiDbxNJUz8AAKFKSWOGZAtaZnJiTXJqTWJIaUlkANMFMRymz2LmkKLMgKDU3s6QkFagqLTGnOBUkHpRaDJRJBgsq-QGNKYIKZObnQbQbooiFJeaUpkKcALTQLRVqh2GtDqbLn83pfdo988Wm3cS53JzaLjcgxuXGtbGPWJiiYz-xMPxiYWhiZehiZeY4xTQJSC7V2MXKFhnm6eYcdYH1vZaUvKGBgYGpobGpqa5BomWihXFiqq6JpYmxoamumaGRmblG86plS58aG1lLQWJdgVFLMD7E09PFsKQw1ayw1DKnqMDUgPEUo5ShubGFoZGhoZGRkaWxnolFmlmxRV6xRW5WhAdjEJuTgYuRq2OUDRezp0uQ4L3_LLnaypb2Uswh4S6KK28yrz0w4bS9FkjOECYXaPFFjP-95QL7SJh8EmtVhm5IeEaveAFjAyNTFyO3AKMHYwRjBZDHuIqRYQMj4w7G_zDA-IoRZDoAT2vAMvICAAA&masterhotelid_tracelogid=100051355-0a9a83ae-494315-61267&detailFilters=17|1~17~1*31|982040~31~982040*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=324&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/ymbVTpZN)
 
 ## 隐逸奢华的丛林绿洲：Viceroy Bali
 
@@ -251,7 +251,7 @@ Viceroy 巴厘岛是远离都市喧嚣、沉浸自然美景的理想选择，无
 
 推荐给寻求浪漫度假的情侣夫妻，以及希望享受宽敞空间和设施的家庭，在 CAHAYA INDAH VILLAS 别墅拥抱巴厘水稻田园风光，留下难忘回忆。
 
-> 找空房/价位 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6591694)
+> 找空房/价位 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6591694) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=29740274&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6yMzFJMEk9YqZY9XP90dYhBiNDHbwW_RlO549c-aMz4MFDp4Pq0TWHZ-2xCGAZwbjp5nT-VYwMm5kXFJgy3V9c63DDkamE4wn4xcw3elfJHuKhZljnuAllu9M0dVK2amVSlYmOkolmSU5qUpWSk8XzXvasOf5ilYlHaWU1OJkoBCQlZibX5pXAmQbGhoY6xkYAIVKEis8U8BakxNzkktzEktSQyoLgEaY6ShlFjuXFGUWBKXmZpaUpAJVpSXmFKeCxINSi4EyyWBBJT-gMUVQgcz8PIh2QxSxsMSc0lSIG4AWuqVC7TCs1cF0-rM5vU-7Z77YtJtIp5tT2-kGxDjduDb2EQtTdOwnFoZfLAxNrAxdrAyTWJk5TsbvYuXxMvUNdffQNdSN0jWUUjQ0MDAwMjU1Mtc1SLS0SDU2sNQ1sTQxNjTVNTE2NjA3NdZ483Tr0qfGRtZSrFMOPJ_GrsCoJRgf4unpYlhSmGpWWGqZU1RgasB4ilHK0NzYwtDI0NDIyMjSWM_EIs2s2CKv2CI3K8KDMYjNzNnEwM04yoaLOTTYRbAQmGYWG0g7SDGHhLsorrzJvPbAhNP2WsyeLkGG9_6z5GorW9oHWnwR439vucA-EiafxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCADI4ISrfAgAA&masterhotelid_tracelogid=100025527-0a98e309-494315-4330753&detailFilters=17|1~17~1*31|29740274~31~29740274*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/RKkKf9KT)
 
 ## 巴厘岛乌布秘境：Kastara Resort
 
@@ -263,7 +263,7 @@ Viceroy 巴厘岛是远离都市喧嚣、沉浸自然美景的理想选择，无
 
 Kastara Resort是您探索乌布文化与自然美景的理想居所，让身心沉浸于巴厘岛独特魅力。
 
-> 找空房/价位 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22404850)
+> 找空房/价位 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22404850) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=70868574&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLRMtDBOTNU1sTQxNjTVNbM0tTTWePlrz9KnxkYGWoLxIZ6eLoYlhalmhaWWOUUFpqcYpQzNjS0MjQwNjYyMLI31TCzSzIot8ootcrMiPBiD2JxNDMxcHKP4pJhDwl0UV95kXntgwmn7JNaqDN2Q8IxecQDtR295ggAAAA&masterhotelid_tracelogid=100051355-0a9a83ae-494315-69593&detailFilters=17|1~17~1*31|70868574~31~70868574*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1843&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/guXhBHiy)
 
 ## 巴厘岛秘境：Padma Resort Ubud 拥抱宁静与奢华
 
@@ -325,7 +325,7 @@ Blue Karma Dijiwa Ubud 以爪哇木打造出充满民族风情的 Joglo 式套�
 
 Blue Karma Dijiwa Ubud 让您沉浸在乌布的自然风光中，感受宁静祥和的氛围。
 
-> 找空房/价格 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=916147)
+> 找空房/价格 ▶ [Agoda订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=916147) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2576294&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6z8TFJMEkdYOJY9q1qdOYhZgNDYw07rMZ3Ge02Crv2Po6cIfc5BYHz2qRde4PwzodAngiphx4Po090au6Wd_nSKBDFyMrWGAG47L5cxlXMDJuZLy-uMCWiz_ZYQcj0wFGphOMO2QXML2_8orxFAszxxHWSyy7GKOrlbJTK5WsTHSUSjJLclKVrJSeLpr3tGHP8xWtSjpKKanFyUAhICsxN780rwTINjew0DMwAIqUJFZ4poB1JifmJJfmJJakhlQWAE0w0lHKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCIHOLoPzM_DyIbgMUsbDEnNJUiEqgfW6pUCsMa2MfsTBFx75guc_2iYXhFwtDEytDFyszxymmSUByh-wuVl4TZ1Nj0whdwxDdKF3DC6x9ClKKhgYGBkampkbmugaJlomJqUYWuiaWJsaGpromZmZGFhZGGo07jyx9amxkLQUJSwVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsRsamTi5uUTZczKHBLoKFtlzXFxtIO0gxh4S7KK68ybz2wITT9lrMni5Bhvf-s-RqK1vaB1p8EeN_b7nAPhImn8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgAEy9UcTQIAAA&masterhotelid_tracelogid=100025527-0a9aae28-494315-4662882&detailFilters=17|1~17~1*31|2576294~31~2576294*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1300&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/zhOHyuHs)
 
 ## 乌布的宁静疗愈之旅：Adiwana Resort Jembawan
 
@@ -505,7 +505,7 @@ Rijasa Agung Resort 的客房融合了现代化与古典风格，铺有大理石
 
 **评价**｜这座度假村预计将以其隐世的地理位置、高品质的设施和优雅的设计吸引对高端享受有要求的旅客，特别适合想要远离城市喧嚣、沉浸于自然中的度假人士。尽管尚未正式开业，Anantara品牌的卓越服务水平已为人所知，预期将成为乌布地区最受瞩目的奢华度假村之一。
 
-> ▶[Anantara Ubud Bali Resort房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=35745498)
+> ▶[Anantara Ubud Bali Resort房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=35745498) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=114499789&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6wMTFJMEkdZKJ4-WG65PYhBiNDLZwW2zPctSM6T_0tWOug6fHwyoRvZIFDgE8EVMOPJ_GnuhV3azvcyTQoYuRFSwwg_HswTNmGxmNQeB3lsMORqYDjEwnGHf4LGA60d9ldYqFmeMV-yWWPYzR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBsaGBjpGRgAhUoSKzxTwFqTE3OSS3MSS1JDKguARpjpKGUWO5cUZRYEpeZmlpSkAlWlJeYUp4LEg1KLgTLJYEElP6AxRVCBzPw8iHZDFLGwxJzSVIgbgBa6pULtMKyNfcTCFB37iYXhFwtDEytDFyszxymmSUByh88uVo4gb59Iz3BdwwusTf5S8kBHG5gaGpua6hokWiamGBkZ6JpYmhgbmuqamxoYmWjcf3lm6VNjI2spSPgpMGoJxod4eroYlhSmmhWWWuYUFZgaMJ5ilDI0N7YwNDI0NDIysjTWM7FIMyu2yCu2yM2K8GAMYjNyMjB0NIiy4WL2dAkSvPefJVdb2dJeijkk3EVx5U3mtQcmnLbXAskZwuQCLb6I8b-3XGAfCZNPYq3K0A0Jz-gVL2BsYGTqYuQWYPRgjGCsAPIYVzEybGBk3MH4HwYYXzGCTAcA6H7dujUCAAA&masterhotelid_tracelogid=100051355-0a9ad220-494315-75024&detailFilters=17|1~17~1*31|114499789~31~114499789*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1066&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/2ko9fPH4)
 
 ## 乌布闹区间的宁静绿洲 Plataran Ubud Hotel & Spa
 
@@ -554,7 +554,7 @@ Rijasa Agung Resort 的客房融合了现代化与古典风格，铺有大理石
 
 Plataran Ubud Hotel & Spa是乌布地区结合自然与现代奢华的完美住宿选择，无论是短暂逗留还是长期停留，这里都能让人身心重拾平衡，感受到巴厘岛的独特魅力。
 
-> ▶[Plataran Ubud Hotel & Spa 房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=489880)
+> ▶[Plataran Ubud Hotel & Spa 房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=489880) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=686934&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxcLFJMEkNZmF49fjr8xCjAYWE4Uc-w991Yi52-_gKbLO_WHV-skOATwRUw48n8ae6FXdrO9zJNChkAEEbjQ6NDJ-04jpP-RY69DFyApWM4Px2jfNjYxpIMCW57CDkekAI9MJxvu6C5i-LIg8xcLMcYfjEstXpuhqpezUSiUrEx2lksySnFQlK6Vnc3qfds98sWm3ko5SSmpxMlAIyErMzS_NKwGyTU0t9AwMgCIliRWeKUpW5jpKyYk5yaU5iSWpIZUFQBPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7AYpYWGJOaSrECUAL3VKhdhjX6mC6_OmieU8b9jxf0Uqcy02o7XJDYlxuWBv7iIUpOvYTC8MvYDTcFmliZehiZeY4xTQJSN7X3cXK6RLm5mmo66FreIG1xVVK3tDAwMDU0NjUVNcg0dIi1cTSUtfE0sTY0FTX3NzI0lRj5pVLS58aG1lLQaJegVFLMD7E09PFsKQw1ayw1DKnqMDUgPEUo5ShubGFoZGhoZGRkaWxnolFmlmxRV6xRW5WhAdjEJsL0FBzyygbLmZPlyDBe_9ZcrWVLe2lmEPCXRRX3mRee2DCaXstkJwhTC7Q4osY_3vLBfaRMPkk1qoM3ZDwjF7xAsYGRqYuRm4BRg_GCMYKII9xFSM7F7OBkZEA0wZGxh2M_2GA8RUjyBIAA3Vz7wYDAAA&masterhotelid_tracelogid=100051355-0a98e499-494315-77295&detailFilters=17|1~17~1*31|686934~31~686934*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1335&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KySVncAK)
 
 ## 乌布梯田中的五星级隐世天堂 The Garcia Ubud
 
@@ -604,7 +604,7 @@ Plataran Ubud Hotel & Spa是乌布地区结合自然与现代奢华的完美住�
 - 「晨间瑜伽课搭配稻田日出，是每天最期待的时刻」
 - 「两房别墅的空间与隐私性，让全家三代都能自在放松」
 
-> ▶ [The Garcia Ubud 房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=10934083)
+> ▶ [The Garcia Ubud 房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=10934083) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=50298330&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NqYeFikmCS-svMcWz65kdsQowGFr8FHbmuLy6wtSty8Fzn_rBK5FKZQwBPxJQDz6exJ266vtv-XqSLQxcjK1hgBuOt33_FNzL2H_qqEeMf5LCDkekAI9MJxoW8C5ia5z22OMXCzHGF6RLLV6boaqXs1EolKxMdpZLMkpxUJSulZ3N6n3bPfLFpt5KOUkpqcTJQCMhKzM0vzSsBsg3NDfQMDIAiJYkVnilKVuY6SsmJOcmlOYklqSGVBUATzHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwoJIf0JgiqEBmfh5EuwGKWFhiTmkqxAlAC91SoXYY1-pguvzponlPG_Y8X9FKnMtNqO1yQ2Jcblgb-4iFKTr2EwvDLxaGJlaGLlZmjr2Mk4DkQt5drGwhTpHGgSEXWO_xSckZGhgYmBoam5rqGiRaJpoaJxvqmliaGBua6RoamppqnH1_belTYyNrKUisKzBqCcaHeHq6GJYUppoVllrmFBWYGjCeYpQyNDe2MDQyNDQyMrI01jOxSDMrtsgrtsjNivBgDGKzMHZzdDGNsuFi9nQJErz3nyVXW9nSXoo5JNxFceVN5rUHJpy21wLJGcLkAi2-iPG_t1xgHwmTT2KtytANCc_oFS9gbGBk6mLkFmD0YIxgrADyGFcxMmxgZNzB-B8GGF8xgkwHAHNAzhLoAgAA&masterhotelid_tracelogid=100051355-0a9a53c1-494316-1155&detailFilters=17|1~17~1*31|50298330~31~50298330*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=682&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/4Zm2NA4e)
 
 ## 2026万豪集团新作 Hiliwatu, Bali Ubud
 
@@ -687,7 +687,7 @@ Plataran Ubud Hotel & Spa是乌布地区结合自然与现代奢华的完美住�
 
 **📌 订房信息**｜Agoda 评分 ⭐ 8.9 | Tripadvisor 高度推荐
 
-> [Sthala, a Tribute Portfolio Hotel, Ubud Bali 房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1603071)
+> [Sthala, a Tribute Portfolio Hotel, Ubud Bali 房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1603071) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6377753&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zczFJMEk9YWZY9_H9n-sQoxGBpwWnwQdg3bItb7-2eLgOWsmECR2OgTwNDLKt74O3BFn4TCDceaiVuYVjIwbIULzEh12MDIdYGQ6wbhbdgFTw80etlMszBz9rJdYvjJFVytlp1YqWZnoKJVkluSkKlkpPV0072nDnucrWpV0lFJSi5OBQkBWYm5-aV4JkG1saKRnYAAUKUms8EwB60xOzEkuzUksSQ2pLACaYKajlFnsXFKUWRCUmptZUpIKVJWWmFOcChIPSi0GyiSDBZX8gMYUQQUy8_Mg2g1QxMISc0pTIU4AWuiWCrXDsFYH0-XP5vQ-7Z75YtNuHC43MUZxufmAuNy4NvYRC1N07CcWhl8sDE2sDF2sDJNYmTl2y-5i5Qn0cg9z9tQ11I3SNZSSMzQwMDA1NDY11TVItEw0NU421DWxNDE2NNM1MjE30fh15PbSp8ZG1lKsUw48n8auwKglGB_i6eliWFKYalZYaplTVGBqwHiKUcrQ3NjC0MjQ0MjIyNJYz8QizazYIq_YIjcrwoMxiM3Q1dHMwDDKhovZ0yVI8N5_llxtZUt7KeaQcBfFlTeZ1x6YcNpeCyRnCJMLtPgixv_ecoF9JEw-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEAAg1PrzmAgAA&masterhotelid_tracelogid=100051355-0a9a53c1-494316-2474&detailFilters=17|1~17~1*31|6377753~31~6377753*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=495&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/P6WrwvJi)
 
 ## 丛林静谧疗愈系 - Ubud Nyuh Bali Resort & Spa
 

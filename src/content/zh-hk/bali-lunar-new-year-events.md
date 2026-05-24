@@ -3,7 +3,7 @@ slug: bali-lunar-new-year-events
 title: 【必收藏】峇里島慶祝農曆新年嘅活動資訊整理
 description: 以下係關於2025年喺峇里島慶祝農曆新年嘅活動資訊整理，如果您同屋企人喺農曆新年期間到訪峇里島，亦可以喺峇里島感受新年嘅氣氛㗎！
 pubDate: '2025-01-15'
-update: 2026/05/22
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5e5d2c14ff86d0b8ae7087356c3f24a6.png'
 tags:
   - 農曆新年
@@ -16,7 +16,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-hk
-_srcHash: b7829ddb339392bb04c792a298593d56
+_srcHash: c41afdc97ddf6db982c440957705beb4
 ---
 以下係關於2025年喺峇里島慶祝農曆新年嘅活動資訊整理，如果您同屋企人喺農曆新年期間到訪峇里島，亦可以喺異國感受新年嘅氣氛㗎！
 
@@ -28,7 +28,7 @@ _srcHash: b7829ddb339392bb04c792a298593d56
 
 2025年1月29日，峇里島將會迎來農曆新年，當地華人社區同旅遊業者準備咗豐富嘅慶祝活動，包括傳統文化表演、美食盛宴同節日裝飾：
 
-- **舞獅表演**：呢個係農曆新年最受歡迎嘅傳統活動之一，象徵驅邪避凶同帶來好運。喺[Mulia Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6546761)同[Courtyard Bali Seminyak Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=624034) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1502950&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6xszFJMEk9Z6Zo_nV-7-sQoxGBpwWnwQdZ80Egvh2B8-Y_kNfNTx6HAJ4GhkZQGCBm8MMxmd3o1cwMm5k5Lq-uMB2UbLDDkamE4yvFBYw3flucYqFmeMm6yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBubmOsZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdgMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LQbh8stjFBcbj4gLjeujX3EwhQd-4mF4RcLQxMrQxcrwyRWZo5XCrtYeQK9fM0iLHUNdaN0DaXkDA0MDEwNjU1NdQ0SLS2SjY1TdE0sTYwsTXXNDU0MNI5ue9T41NjIWop1yoHn09gVGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsTkbG1uamUXZcDF7ugQJ3vvPkqutbGkvxRwS7qK48ibz2gMTTttrgeQMYXKBFl_E-N9bLrCPzOs2kk6ZdNo-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANxSG9XhAgAA&masterhotelid_tracelogid=100051355-0a98c33d-494295-7140&detailFilters=17|1~17~1*31|1502950~31~1502950*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1078&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/IVn2859x)等場所可以觀賞到精彩嘅舞獅表演。（[參考來源](https://en.tempo.co/read/1964175/6-ultimate-ways-to-celebrate-chinese-new-year-2025-in-bali)）
+- **舞獅表演**：呢個係農曆新年最受歡迎嘅傳統活動之一，象徵驅邪避凶同帶來好運。喺[Mulia Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6546761) [Booking](https://booking.tpm.li/yxbd6o5B)同[Courtyard Bali Seminyak Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=624034) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1502950&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6xszFJMEk9Z6Zo_nV-7-sQoxGBpwWnwQdZ80Egvh2B8-Y_kNfNTx6HAJ4GhkZQGCBm8MMxmd3o1cwMm5k5Lq-uMB2UbLDDkamE4yvFBYw3flucYqFmeMm6yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBubmOsZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdgMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LQbh8stjFBcbj4gLjeujX3EwhQd-4mF4RcLQxMrQxcrwyRWZo5XCrtYeQK9fM0iLHUNdaN0DaXkDA0MDEwNjU1NdQ0SLS2SjY1TdE0sTYwsTXXNDU0MNI5ue9T41NjIWop1yoHn09gVGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsTkbG1uamUXZcDF7ugQJ3vvPkqutbGkvxRwS7qK48ibz2gMTTttrgeQMYXKBFl_E-N9bLrCPzOs2kk6ZdNo-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANxSG9XhAgAA&masterhotelid_tracelogid=100051355-0a98c33d-494295-7140&detailFilters=17|1~17~1*31|1502950~31~1502950*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1078&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/IVn2859x)等場所可以觀賞到精彩嘅舞獅表演。（[參考來源](https://en.tempo.co/read/1964175/6-ultimate-ways-to-celebrate-chinese-new-year-2025-in-bali)）
 - **寺廟祈福**：峇里島嘅華人寺廟如Klenteng Caow Eng Boi同Satya Dharma Temple會裝飾紅燈籠同錢樹，並舉行祈福儀式，融合咗華人同峇里島嘅文化特色。([參考來源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 - **煙花表演**：喺Singaraja等地，煙花表演將會照亮夜空，象徵驅逐厄運並迎接好運。([參考來源](https://dijiwasanctuaries.com/magazine/things-to-do-in-chinese-new-year-bali-2025-celebrations-festivities-and-culinary-delights))
 

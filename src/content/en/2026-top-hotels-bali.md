@@ -44,7 +44,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: d21937f67b91c87ce19d68fd06f3aad3
+_srcHash: 99415b3a43b7cb081406b1b5ca4742ff
 ---
 
 Bali has so many five-star hotels that it's hard to choose. Ubud has [Capella](/blog/capella-ubud-luxury-resort/), Uluwatu has [Alila](/blog/alila-villas-uluwatu-bali/), Nusa Dua has [Apurva Kempinski](/blog/apurva-kempinski-bali-nusa-dua/)... But the most surprising in 2026 is a new resort in Sanur—**The Meru Sanur**.
