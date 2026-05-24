@@ -264,7 +264,7 @@ def call_gemini(api_key: str, prompt: str) -> str:
         "tools": [{"google_search": {}}],
         "generationConfig": {
             "temperature": 0.7,
-            "maxOutputTokens": 4096,
+            "maxOutputTokens": 8192,
         }
     }
 
@@ -281,7 +281,9 @@ def call_gemini(api_key: str, prompt: str) -> str:
                     continue
                 resp.raise_for_status()
                 data = resp.json()
-                return data["candidates"][0]["content"]["parts"][0]["text"]
+                # google_search grounding 時回應會拆成多個 parts，全部合併
+                parts = data["candidates"][0]["content"]["parts"]
+                return "".join(p.get("text", "") for p in parts)
             except requests.exceptions.HTTPError as e:
                 if attempt == 2:
                     print(f"   ⚠️ {model} 失敗：{e}")
