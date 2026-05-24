@@ -94,6 +94,17 @@ async function writeRecent(env, result, hash) {
     };
 
     await env.UNFURL_RECENT.put(key, JSON.stringify(item), { expiration: expiresAt });
+
+    // Reverse index: hash → id（供 check-duplicate O(1) 查詢用）
+    if (hash) {
+      const lookupVal = {
+        id: item.id,
+        title: item.title,
+        fetchedAt: item.fetchedAt,
+        sourceUrl: item.sourceUrl,
+      };
+      await env.UNFURL_RECENT.put(`hash:${hash}`, JSON.stringify(lookupVal), { expiration: expiresAt });
+    }
   } catch {
     // Non-fatal
   }

@@ -523,6 +523,190 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .embed-ph-facebook  { background: linear-gradient(160deg,#1877f2 0%,#42a5f5 100%); }
       .embed-ph-icon  { font-size: 2.4rem; filter: drop-shadow(0 2px 6px rgba(0,0,0,.35)); }
       .embed-ph-label { font-size: 0.75rem; color: rgba(255,255,255,.85); font-weight: 600; letter-spacing: 0.03em; }
+
+      /* ── Duplicate warning ── */
+      .dup-warn {
+        display: none;
+        margin-top: 0.6rem;
+        padding: 0.75rem 1rem;
+        border-radius: 10px;
+        font-size: 0.88rem;
+        line-height: 1.55;
+        animation: fadeInDown 0.18s ease;
+      }
+      .dup-warn.show { display: block; }
+      .dup-warn-dup  { background: #fff8ee; border: 1.5px solid #f0b429; color: #7c5a00; }
+      .dup-warn-block { background: #fff5f5; border: 1.5px solid #fca5a5; color: #b91c1c; }
+      .dup-warn-row   { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.45rem; }
+      .dup-warn-thumb { width: 40px; height: 40px; border-radius: 6px; object-fit: cover; flex-shrink: 0; background: #eee; }
+      .dup-warn-title { font-weight: 600; font-size: 0.85rem; flex: 1; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+      .dup-warn-time  { font-size: 0.78rem; color: #aaa; margin-bottom: 0.4rem; }
+      .dup-warn-actions { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+      .dup-dismiss-btn { background: none; border: 1.5px solid #e5c97a; color: #7c5a00; font-size: 0.8rem; padding: 0.25rem 0.7rem; border-radius: 6px; cursor: pointer; font-weight: 600; }
+      .dup-dismiss-btn:hover { background: #fef3c7; }
+      .dup-goto-btn { background: #7c5a00; color: #fff; border: none; font-size: 0.8rem; padding: 0.25rem 0.7rem; border-radius: 6px; cursor: pointer; font-weight: 600; text-decoration: none; }
+      .dup-goto-btn:hover { background: #5a4000; }
+      @keyframes fadeInDown { from { opacity:0; transform:translateY(-6px); } to { opacity:1; transform:none; } }
+
+      /* ── Card delete popover ── */
+      .del-popover {
+        position: absolute;
+        top: 2.4rem; right: 0.4rem;
+        background: #fff;
+        border: 1.5px solid #e0e0e0;
+        border-radius: 10px;
+        box-shadow: 0 4px 18px rgba(0,0,0,.14);
+        padding: 0.4rem;
+        z-index: 200;
+        min-width: 130px;
+        display: none;
+        flex-direction: column;
+        gap: 0.25rem;
+        animation: fadeInDown 0.14s ease;
+      }
+      .del-popover.show { display: flex; }
+      .del-popover-btn {
+        display: flex; align-items: center; gap: 0.45rem;
+        background: none; border: none; cursor: pointer;
+        padding: 0.45rem 0.65rem; border-radius: 7px;
+        font-size: 0.83rem; font-weight: 600; text-align: left;
+        transition: background 0.12s, color 0.12s;
+        white-space: nowrap;
+      }
+      .del-popover-soft { color: #555; }
+      .del-popover-soft:hover { background: #fff3e0; color: #e65100; }
+      .del-popover-block { color: #555; }
+      .del-popover-block:hover { background: #fff5f5; color: #c62828; }
+
+      /* ── Admin drawer ── */
+      #admin-fab {
+        display: none; /* shown only for admin */
+        position: fixed;
+        bottom: 1.5rem; right: 1.5rem;
+        z-index: 900;
+        background: #1a6fad;
+        color: #fff;
+        border: none;
+        border-radius: 50px;
+        padding: 0.65rem 1.1rem;
+        font-size: 0.9rem;
+        font-weight: 700;
+        cursor: pointer;
+        box-shadow: 0 4px 18px rgba(0,0,0,.22);
+        display: none;
+        align-items: center;
+        gap: 0.4rem;
+        transition: background 0.15s;
+      }
+      #admin-fab.visible { display: flex; }
+      #admin-fab:hover { background: #155d96; }
+
+      #drawer-overlay {
+        display: none;
+        position: fixed; inset: 0;
+        background: rgba(0,0,0,.38);
+        z-index: 950;
+        animation: fadeInBg 0.2s ease;
+      }
+      #drawer-overlay.show { display: block; }
+      @keyframes fadeInBg { from { opacity:0; } to { opacity:1; } }
+
+      #admin-drawer {
+        position: fixed;
+        top: 0; right: -520px; bottom: 0;
+        width: 480px;
+        max-width: 100vw;
+        background: #fff;
+        z-index: 1000;
+        box-shadow: -4px 0 28px rgba(0,0,0,.18);
+        display: flex; flex-direction: column;
+        transition: right 0.25s cubic-bezier(.4,0,.2,1);
+        overflow: hidden;
+      }
+      #admin-drawer.open { right: 0; }
+
+      .drawer-header {
+        display: flex; align-items: center; justify-content: space-between;
+        padding: 1rem 1.2rem 0.8rem;
+        border-bottom: 1px solid #f0f0f0;
+        flex-shrink: 0;
+      }
+      .drawer-title { font-size: 1rem; font-weight: 700; color: #1a1a1a; }
+      .drawer-close { background: none; border: none; font-size: 1.3rem; cursor: pointer; color: #888; padding: 0.2rem 0.4rem; border-radius: 6px; }
+      .drawer-close:hover { background: #f5f5f5; color: #333; }
+
+      .drawer-tabs { display: flex; border-bottom: 1px solid #eee; flex-shrink: 0; }
+      .drawer-tab {
+        flex: 1; padding: 0.65rem; text-align: center;
+        font-size: 0.85rem; font-weight: 600; color: #888;
+        background: none; border: none; cursor: pointer;
+        border-bottom: 2px solid transparent; margin-bottom: -1px;
+        transition: color 0.15s;
+      }
+      .drawer-tab.active { color: #1a6fad; border-bottom-color: #1a6fad; }
+
+      .drawer-body { flex: 1; overflow-y: auto; padding: 0.8rem 1rem; }
+
+      .drawer-search {
+        width: 100%; padding: 0.55rem 0.8rem;
+        border: 1.5px solid #ddd; border-radius: 8px;
+        font-size: 0.88rem; outline: none; margin-bottom: 0.7rem;
+        box-sizing: border-box;
+      }
+      .drawer-search:focus { border-color: #1a6fad; }
+
+      .drawer-row {
+        display: flex; align-items: center; gap: 0.6rem;
+        padding: 0.5rem 0.4rem; border-radius: 8px;
+        transition: background 0.12s;
+      }
+      .drawer-row:hover { background: #f8f8f8; }
+      .drawer-row-thumb {
+        width: 52px; height: 52px; border-radius: 6px; object-fit: cover; flex-shrink: 0;
+        background: #f0f0f0;
+      }
+      .drawer-row-icon {
+        width: 52px; height: 52px; border-radius: 6px; flex-shrink: 0;
+        display: flex; align-items: center; justify-content: center;
+        font-size: 1.5rem;
+      }
+      .drawer-row-info { flex: 1; min-width: 0; }
+      .drawer-row-title { font-size: 0.82rem; font-weight: 600; color: #222; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+      .drawer-row-sub   { font-size: 0.75rem; color: #888; margin-top: 0.1rem; }
+      .drawer-row-badge { font-size: 0.72rem; background: #f0f0f0; color: #555; padding: 0.1rem 0.4rem; border-radius: 10px; white-space: nowrap; }
+      .drawer-row-actions { display: flex; gap: 0.3rem; flex-shrink: 0; }
+      .drawer-act-btn {
+        background: none; border: 1px solid #ddd; border-radius: 6px;
+        padding: 0.25rem 0.5rem; font-size: 0.78rem; cursor: pointer;
+        transition: background 0.12s, color 0.12s, border-color 0.12s;
+        font-weight: 600;
+      }
+      .drawer-act-soft  { color: #e65100; }
+      .drawer-act-soft:hover  { background: #fff3e0; border-color: #e65100; }
+      .drawer-act-block { color: #c62828; }
+      .drawer-act-block:hover { background: #fff5f5; border-color: #c62828; }
+      .drawer-act-unblock { color: #2563eb; }
+      .drawer-act-unblock:hover { background: #eff6ff; border-color: #2563eb; }
+      .drawer-row-url { font-size: 0.78rem; color: #555; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; max-width: 200px; }
+
+      .drawer-footer { padding: 0.8rem 1rem; border-top: 1px solid #eee; flex-shrink: 0; }
+      .drawer-footer a { color: #1a6fad; font-size: 0.85rem; font-weight: 600; text-decoration: none; }
+      .drawer-footer a:hover { text-decoration: underline; }
+      .drawer-empty { padding: 2rem 1rem; text-align: center; color: #888; font-size: 0.9rem; }
+
+      .drawer-toast {
+        position: fixed; bottom: 1rem; left: 50%; transform: translateX(-50%);
+        background: #222; color: #fff; padding: 0.55rem 1.2rem;
+        border-radius: 8px; font-size: 0.85rem; font-weight: 600;
+        z-index: 1100; opacity: 0; transition: opacity 0.2s;
+        pointer-events: none; white-space: nowrap;
+      }
+      .drawer-toast.show { opacity: 1; }
+
+      @media (max-width: 640px) {
+        #admin-drawer { width: 100vw; right: -100vw; }
+        #admin-fab { bottom: 1rem; right: 1rem; }
+      }
     </style>
   </head>
   <body>
@@ -564,6 +748,8 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
             <button type="submit" class="submit-btn" id="submit-btn">一鍵加入</button>
           </div>
         </div>
+        <!-- 重複提醒區 -->
+        <div id="dup-warn" class="dup-warn" aria-live="polite"></div>
         <!-- Cloudflare Turnstile invisible widget -->
         <div class="cf-turnstile"
              data-sitekey="0x4AAAAAADU9JhnzFqYcqdn0"
@@ -580,6 +766,40 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       </div>
     </main>
     <Footer />
+
+    <!-- ── Admin Drawer ── -->
+    <button id="admin-fab" aria-label="管理面板">⚙ 管理</button>
+
+    <div id="drawer-overlay" aria-hidden="true"></div>
+
+    <div id="admin-drawer" role="dialog" aria-modal="true" aria-label="管理面板">
+      <div class="drawer-header">
+        <span class="drawer-title">⚙ 管理面板</span>
+        <div style="display:flex;align-items:center;gap:0.5rem">
+          <a href="/share/admin" style="font-size:0.8rem;color:#1a6fad;font-weight:600;text-decoration:none">詳細管理 →</a>
+          <button class="drawer-close" id="drawer-close-btn" aria-label="關閉">✕</button>
+        </div>
+      </div>
+      <div class="drawer-tabs">
+        <button class="drawer-tab active" data-tab="recent">最近 30 筆</button>
+        <button class="drawer-tab" data-tab="blocklist">黑名單</button>
+      </div>
+      <div class="drawer-body" id="drawer-body">
+        <!-- 最近 30 筆 -->
+        <div id="drawer-tab-recent">
+          <input class="drawer-search" id="drawer-search" type="search" placeholder="搜尋標題或 URL…" />
+          <div id="drawer-recent-list"></div>
+        </div>
+        <!-- 黑名單 -->
+        <div id="drawer-tab-blocklist" style="display:none">
+          <input class="drawer-search" id="drawer-bl-search" type="search" placeholder="搜尋被封鎖的 URL…" />
+          <div id="drawer-bl-list"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Toast -->
+    <div class="drawer-toast" id="drawer-toast"></div>
 
     <script>
       const form = document.getElementById('unfurl-form');
@@ -748,6 +968,9 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
             document.querySelectorAll('.delete-btn, .recent-delete-btn').forEach(btn => {
               btn.style.display = '';
             });
+            // Show admin FAB
+            const fab = document.getElementById('admin-fab');
+            if (fab) fab.classList.add('visible');
           }
         } catch {}
       }
@@ -822,12 +1045,12 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           setTimeout(() => { sk.style.display = 'none'; }, 15000);
         }
 
-        // 刪除按鈕
-        card.querySelector('#card-delete-btn')?.addEventListener('click', async () => {
+        // 刪除按鈕 → popover
+        card.querySelector('#card-delete-btn')?.addEventListener('click', (e) => {
+          e.stopPropagation();
           const match = Array.from(recentGrid.querySelectorAll('[data-id]'))
             .find(el => el.dataset.url === sourceUrl);
-          if (!match) { alert('找不到此貼文在最近清單中'); return; }
-          await deleteRecentItem(match.dataset.id, match);
+          showCardPopover(card.querySelector('#card-delete-btn'), match?.dataset?.id ?? null, match ?? null);
         });
 
         return card;
@@ -903,11 +1126,11 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
 
         const delBtn = card.querySelector('#card-delete-btn');
         if (delBtn) {
-          delBtn.addEventListener('click', async () => {
+          delBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
             const items = Array.from(recentGrid.querySelectorAll('[data-id]'));
             const match = items.find(el => el.dataset.url === (d.sourceUrl || rawUrl));
-            if (!match) { alert('找不到此貼文在最近清單中'); return; }
-            await deleteRecentItem(match.dataset.id, match);
+            showCardPopover(delBtn, match?.dataset?.id ?? null, match ?? null);
           });
         }
 
@@ -1149,34 +1372,366 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
 
         const delBtn = card.querySelector('.recent-delete-btn');
         if (delBtn) {
-          delBtn.addEventListener('click', async (e) => {
+          delBtn.addEventListener('click', (e) => {
             e.preventDefault();
             e.stopPropagation();
-            await deleteRecentItem(item.id, card);
+            showCardPopover(delBtn, item.id, card);
           });
         }
 
         return card;
       }
 
-      async function deleteRecentItem(id, cardEl) {
-        if (!confirm('確定要移除這筆？該網址會被加入黑名單，之後不再開放解析。')) return;
-        cardEl.style.opacity = '0.5';
+      // ── Shared delete (soft or block) ──────────────────────────────────────
+      async function deleteRecentItem(id, cardEl, mode = 'soft') {
+        if (!id) { showToast('找不到此貼文 ID'); return; }
+        if (cardEl) { cardEl.style.opacity = '0.5'; }
         try {
-          const res = await fetch(`/api/recent-unfurls/${encodeURIComponent(id)}`, { method: 'DELETE' });
+          const res = await fetch(`/api/recent-unfurls/${encodeURIComponent(id)}?mode=${mode}`, { method: 'DELETE' });
           const data = await res.json();
           if (data.ok) {
-            cardEl.style.transition = 'opacity 0.3s';
-            cardEl.style.opacity = '0';
-            setTimeout(() => { cardEl.remove(); loadRecent(); }, 300);
+            if (cardEl) {
+              cardEl.style.transition = 'opacity 0.3s';
+              cardEl.style.opacity = '0';
+              setTimeout(() => { cardEl.remove(); }, 300);
+            }
+            showToast(mode === 'block' ? '已封鎖並移除' : '已移除');
+            // Refresh drawer list too (non-blocking)
+            if (drawerOpen) loadDrawerRecent();
           } else {
-            cardEl.style.opacity = '';
-            alert(`移除失敗：${data.error || '未知錯誤'}`);
+            if (cardEl) cardEl.style.opacity = '';
+            showToast(`操作失敗：${data.error || '未知錯誤'}`);
           }
         } catch {
-          cardEl.style.opacity = '';
-          alert('移除失敗：網路錯誤');
+          if (cardEl) cardEl.style.opacity = '';
+          showToast('操作失敗：網路錯誤');
         }
+      }
+
+      // ── Card delete popover ─────────────────────────────────────────────────
+      let _activePopover = null;
+
+      function closeActivePopover() {
+        if (_activePopover) {
+          _activePopover.remove();
+          _activePopover = null;
+        }
+      }
+      document.addEventListener('click', closeActivePopover);
+
+      function showCardPopover(anchorEl, id, cardEl) {
+        closeActivePopover();
+        if (!isAdminUser) return;
+
+        const pop = document.createElement('div');
+        pop.className = 'del-popover show';
+
+        const soft = document.createElement('button');
+        soft.className = 'del-popover-btn del-popover-soft';
+        soft.innerHTML = '🗑 軟刪除';
+        soft.title = '移除卡片，相同 URL 日後可再貼';
+        soft.addEventListener('click', async (e) => {
+          e.stopPropagation();
+          if (!confirm('移除這張卡片？相同網址日後可再次分享。')) return;
+          closeActivePopover();
+          await deleteRecentItem(id, cardEl, 'soft');
+        });
+
+        const block = document.createElement('button');
+        block.className = 'del-popover-btn del-popover-block';
+        block.innerHTML = '🚫 封鎖';
+        block.title = '移除卡片 + URL 加入黑名單';
+        block.addEventListener('click', async (e) => {
+          e.stopPropagation();
+          if (!confirm('封鎖這張卡片？該網址會加入黑名單，之後無法再被分享。')) return;
+          closeActivePopover();
+          await deleteRecentItem(id, cardEl, 'block');
+        });
+
+        pop.appendChild(soft);
+        pop.appendChild(block);
+
+        // Position near anchor
+        const wrap = anchorEl.parentElement ?? anchorEl;
+        wrap.style.position = 'relative';
+        wrap.appendChild(pop);
+        _activePopover = pop;
+
+        // Prevent document click from immediately closing
+        setTimeout(() => {
+          pop.addEventListener('click', (e) => e.stopPropagation());
+        }, 0);
+      }
+
+      // ── Toast ───────────────────────────────────────────────────────────────
+      let _toastTimer = null;
+      function showToast(msg) {
+        const el = document.getElementById('drawer-toast');
+        if (!el) return;
+        el.textContent = msg;
+        el.classList.add('show');
+        clearTimeout(_toastTimer);
+        _toastTimer = setTimeout(() => el.classList.remove('show'), 2200);
+      }
+
+      // ── Duplicate check (onBlur) ────────────────────────────────────────────
+      const dupWarn = document.getElementById('dup-warn');
+      let _dupDebounce = null;
+      let _dupBlocked = false; // true → submit btn disabled due to dup/block
+
+      function clearDupWarn() {
+        if (dupWarn) { dupWarn.className = 'dup-warn'; dupWarn.innerHTML = ''; }
+        _dupBlocked = false;
+        submitBtn.disabled = false;
+        submitBtn.textContent = '一鍵加入';
+      }
+
+      function formatDateTime(iso) {
+        try {
+          const d = new Date(iso);
+          return `${d.getFullYear()}/${String(d.getMonth()+1).padStart(2,'0')}/${String(d.getDate()).padStart(2,'0')} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+        } catch { return iso || ''; }
+      }
+
+      async function runDupCheck(url) {
+        if (!url || !url.startsWith('http')) return;
+        try {
+          const res = await fetch('/api/check-duplicate', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ url }),
+          });
+          const data = await res.json();
+          if (data.isBlocked) {
+            dupWarn.className = 'dup-warn dup-warn-block show';
+            dupWarn.innerHTML = `<strong>🚫 這個網址已被站方封鎖，無法分享</strong>`;
+            submitBtn.disabled = true;
+            submitBtn.textContent = '網址已封鎖';
+            _dupBlocked = true;
+          } else if (data.isDuplicate && data.existingItem) {
+            const item = data.existingItem;
+            dupWarn.className = 'dup-warn dup-warn-dup show';
+            dupWarn.innerHTML = `
+              <div class="dup-warn-row">
+                <span style="font-size:1.2rem">⚠️</span>
+                <strong>這個網址已在「最近解析」中</strong>
+              </div>
+              ${item.title ? `<div class="dup-warn-title">${esc(item.title)}</div>` : ''}
+              ${item.fetchedAt ? `<div class="dup-warn-time">🕐 ${formatDateTime(item.fetchedAt)} 被分享</div>` : ''}
+              <div class="dup-warn-actions">
+                ${item.sourceUrl ? `<a class="dup-goto-btn" href="${esc(item.sourceUrl)}" target="_blank" rel="noopener">前往查看</a>` : ''}
+                <button class="dup-dismiss-btn" id="dup-dismiss">我知道了，仍要重貼</button>
+              </div>
+            `;
+            submitBtn.disabled = true;
+            submitBtn.textContent = '網址重複';
+            _dupBlocked = true;
+            document.getElementById('dup-dismiss')?.addEventListener('click', () => {
+              dupWarn.className = 'dup-warn';
+              dupWarn.innerHTML = '';
+              // 按鈕仍保持 disabled（spec 要求）
+            });
+          } else {
+            clearDupWarn();
+          }
+        } catch { /* 查詢失敗不影響主流程 */ }
+      }
+
+      urlInput.addEventListener('blur', () => {
+        clearTimeout(_dupDebounce);
+        _dupDebounce = setTimeout(() => runDupCheck(urlInput.value.trim()), 300);
+      });
+
+      urlInput.addEventListener('input', () => {
+        clearTimeout(_dupDebounce);
+        if (_dupBlocked) clearDupWarn();
+      });
+
+      // ── Admin Drawer ─────────────────────────────────────────────────────────
+      let drawerOpen = false;
+      let drawerTab = 'recent';
+      let _drawerRecentData = [];
+      let _drawerBlData = [];
+
+      const adminFab = document.getElementById('admin-fab');
+      const drawerEl = document.getElementById('admin-drawer');
+      const drawerOverlay = document.getElementById('drawer-overlay');
+
+      function openDrawer() {
+        drawerEl.classList.add('open');
+        drawerOverlay.classList.add('show');
+        document.body.style.overflow = 'hidden';
+        drawerOpen = true;
+        loadDrawerRecent();
+        if (drawerTab === 'blocklist') loadDrawerBlocklist();
+      }
+
+      function closeDrawer() {
+        drawerEl.classList.remove('open');
+        drawerOverlay.classList.remove('show');
+        document.body.style.overflow = '';
+        drawerOpen = false;
+      }
+
+      adminFab?.addEventListener('click', openDrawer);
+      document.getElementById('drawer-close-btn')?.addEventListener('click', closeDrawer);
+      drawerOverlay?.addEventListener('click', closeDrawer);
+
+      // Tab switching
+      document.querySelectorAll('.drawer-tab').forEach(btn => {
+        btn.addEventListener('click', () => {
+          drawerTab = btn.dataset.tab;
+          document.querySelectorAll('.drawer-tab').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          document.getElementById('drawer-tab-recent').style.display = drawerTab === 'recent' ? '' : 'none';
+          document.getElementById('drawer-tab-blocklist').style.display = drawerTab === 'blocklist' ? '' : 'none';
+          if (drawerTab === 'blocklist') loadDrawerBlocklist();
+        });
+      });
+
+      // Search filter
+      document.getElementById('drawer-search')?.addEventListener('input', (e) => {
+        renderDrawerRecent(_drawerRecentData, e.target.value.trim().toLowerCase());
+      });
+      document.getElementById('drawer-bl-search')?.addEventListener('input', (e) => {
+        renderDrawerBlocklist(_drawerBlData, e.target.value.trim().toLowerCase());
+      });
+
+      // ── Drawer Recent ──
+      async function loadDrawerRecent() {
+        try {
+          const res = await fetch('/api/recent-unfurls?limit=30');
+          const data = await res.json();
+          _drawerRecentData = data.items || [];
+          renderDrawerRecent(_drawerRecentData, document.getElementById('drawer-search')?.value.trim().toLowerCase() ?? '');
+        } catch {
+          document.getElementById('drawer-recent-list').innerHTML = '<div class="drawer-empty">載入失敗</div>';
+        }
+      }
+
+      function renderDrawerRecent(items, query = '') {
+        const list = document.getElementById('drawer-recent-list');
+        if (!list) return;
+        const filtered = query
+          ? items.filter(i => (i.title || '').toLowerCase().includes(query) || (i.sourceUrl || '').toLowerCase().includes(query))
+          : items;
+        if (filtered.length === 0) {
+          list.innerHTML = '<div class="drawer-empty">沒有符合的資料</div>';
+          return;
+        }
+        list.innerHTML = '';
+        filtered.forEach(item => {
+          const row = document.createElement('div');
+          row.className = 'drawer-row';
+          row.dataset.id = item.id;
+
+          const isEmbed = item.renderMode === 'embed' || META_PLATFORMS.has(item.platform);
+          const imgHtml = isEmbed
+            ? `<div class="drawer-row-icon embed-ph-${item.platform}" style="font-size:1.4rem">${PLAT_ICON[item.platform] ?? '◉'}</div>`
+            : (item.thumbnail
+                ? `<img class="drawer-row-thumb" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="this.style.display='none'">`
+                : `<div class="drawer-row-icon" style="background:#f0f0f0;color:#aaa">${PLAT_ICON[item.platform] ?? '?'}</div>`);
+
+          const title = isEmbed
+            ? (item.embedHandle ? `${item.embedHandle} 的貼文` : `${item.platform} 貼文`)
+            : (item.title || item.authorName || item.sourceUrl || '無標題');
+
+          row.innerHTML = `
+            ${imgHtml}
+            <div class="drawer-row-info">
+              <div class="drawer-row-title" title="${esc(item.title || '')}">${esc(title)}</div>
+              <div class="drawer-row-sub">👁 ${item.views ?? 0} · ${formatDateTime(item.fetchedAt)}</div>
+            </div>
+            <div class="drawer-row-actions">
+              <button class="drawer-act-btn drawer-act-soft" title="軟刪除">🗑</button>
+              <button class="drawer-act-btn drawer-act-block" title="封鎖">🚫</button>
+            </div>
+          `;
+
+          row.querySelector('.drawer-act-soft').addEventListener('click', async (e) => {
+            e.stopPropagation();
+            if (!confirm('移除這張卡片？相同網址日後可再次分享。')) return;
+            // Find matching card in main grid
+            const gridCard = recentGrid.querySelector(`[data-id="${CSS.escape(item.id)}"]`);
+            await deleteRecentItem(item.id, gridCard, 'soft');
+            row.style.transition = 'opacity 0.3s';
+            row.style.opacity = '0';
+            setTimeout(() => row.remove(), 300);
+            _drawerRecentData = _drawerRecentData.filter(i => i.id !== item.id);
+          });
+
+          row.querySelector('.drawer-act-block').addEventListener('click', async (e) => {
+            e.stopPropagation();
+            if (!confirm('封鎖這張卡片？該網址會加入黑名單，之後無法再被分享。')) return;
+            const gridCard = recentGrid.querySelector(`[data-id="${CSS.escape(item.id)}"]`);
+            await deleteRecentItem(item.id, gridCard, 'block');
+            row.style.transition = 'opacity 0.3s';
+            row.style.opacity = '0';
+            setTimeout(() => row.remove(), 300);
+            _drawerRecentData = _drawerRecentData.filter(i => i.id !== item.id);
+          });
+
+          list.appendChild(row);
+        });
+      }
+
+      // ── Drawer Blocklist ──
+      async function loadDrawerBlocklist() {
+        const list = document.getElementById('drawer-bl-list');
+        list.innerHTML = '<div class="drawer-empty">載入中…</div>';
+        try {
+          const res = await fetch('/api/blocklist');
+          const data = await res.json();
+          _drawerBlData = data.items || [];
+          renderDrawerBlocklist(_drawerBlData, document.getElementById('drawer-bl-search')?.value.trim().toLowerCase() ?? '');
+        } catch {
+          list.innerHTML = '<div class="drawer-empty">載入失敗</div>';
+        }
+      }
+
+      function renderDrawerBlocklist(items, query = '') {
+        const list = document.getElementById('drawer-bl-list');
+        if (!list) return;
+        const filtered = query
+          ? items.filter(i => (i.sourceUrl || '').toLowerCase().includes(query) || (i.hash || '').toLowerCase().includes(query))
+          : items;
+        if (filtered.length === 0) {
+          list.innerHTML = '<div class="drawer-empty">目前沒有被封鎖的網址 🎉</div>';
+          return;
+        }
+        list.innerHTML = '';
+        filtered.forEach(item => {
+          const row = document.createElement('div');
+          row.className = 'drawer-row';
+          row.innerHTML = `
+            <div class="drawer-row-info" style="min-width:0">
+              <div class="drawer-row-url" title="${esc(item.sourceUrl || item.hash)}">${esc(item.sourceUrl || item.hash)}</div>
+              <div class="drawer-row-sub">${formatDateTime(item.blockedAt)}</div>
+            </div>
+            <div class="drawer-row-actions">
+              <button class="drawer-act-btn drawer-act-unblock" title="解除封鎖">解除</button>
+            </div>
+          `;
+          row.querySelector('.drawer-act-unblock').addEventListener('click', async (e) => {
+            e.stopPropagation();
+            try {
+              const res = await fetch(`/api/blocklist/${encodeURIComponent(item.hash)}`, { method: 'DELETE' });
+              const data = await res.json();
+              if (data.ok) {
+                showToast('已解除封鎖');
+                row.style.transition = 'opacity 0.3s';
+                row.style.opacity = '0';
+                setTimeout(() => row.remove(), 300);
+                _drawerBlData = _drawerBlData.filter(i => i.hash !== item.hash);
+              } else {
+                showToast(`解除失敗：${data.error}`);
+              }
+            } catch {
+              showToast('解除失敗：網路錯誤');
+            }
+          });
+          list.appendChild(row);
+        });
       }
 
       // Initialize（top-viewed first so hotRankMap is ready before loadRecent）
