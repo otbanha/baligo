@@ -186,13 +186,22 @@ TOPICS_JSON: ["節慶1名稱", "節慶2名稱", "節慶3名稱", "節慶4名稱"
 """
 
     # ── 禮拜一至禮拜六：新聞為主，7 天內有節慶可作第 5 則預告 ───────────────
-    return f"""請用 Google Search 搜尋今天（{today_str}）前後的峇里島新聞，整理 5 則峇里島旅遊新聞 + 台港新馬遊客關心話題，盡量不要出現重複話題。
+    return f"""請用 Google Search 從以下指定峇里島新聞來源，搜尋最近 2 天內的新聞：
 
-重點搜尋方向：
-- 峇里島最新旅遊政策、安全事件、交通、天氣
-- 台灣、香港、新加坡、馬來西亞與峇里島之間的新聞（直航、入境規定、旅遊合作）
-- 遊客最常踩雷或想知道的實用資訊
+指定來源（只採用這些網站的報導）：
+- www.antaranews.com
+- balinews.co.id
+- thebalisun.com
+- baliutd.com
+- dekit.com
+- balinews.id
+- thebaletimes.com
+- voi.id
 
+今天日期：{today_str}
+搜尋範圍：最近 2 天（{(date.today() - timedelta(days=2)).strftime('%Y 年 %m 月 %d 日')} 至 {today_str}）
+
+整理 5 則峇里島新聞 + 峇里島遊客關心話題，盡量不要出現重複話題。
 若 {today_str} 至 {week7_str} 之間有即將到來的節慶，請將第 5 則改寫為節慶預告。
 
 近期已出現過的話題（請避免重複）：{recent_str}
