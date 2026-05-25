@@ -135,7 +135,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
     const { data: posts, error } = await supabase
       .from('posts')
       .select(`
-        id, topic, title, content,
+        id, topic, title, content, image_urls,
         moderation_status, reply_count, created_at, user_id,
         user_profiles (display_name, avatar_url, approved_count, is_banned)
       `)
@@ -222,6 +222,13 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
         <div class="panel-section-title">內容</div>
         <pre class="panel-pre">${sanitize(post.content)}</pre>
       </div>
+      ${post.image_urls && post.image_urls.length > 0 ? `
+      <div class="panel-section">
+        <div class="panel-section-title">附圖（${post.image_urls.length}）</div>
+        <div class="panel-images">
+          ${post.image_urls.map(url => `<a href="${sanitize(url)}" target="_blank" rel="noopener"><img src="${sanitize(url)}" class="panel-img" loading="lazy" alt="附圖" /></a>`).join('')}
+        </div>
+      </div>` : ''}
       <div class="panel-section">
         <div class="panel-section-title">回覆（${replies?.length ?? 0}）</div>
         <div id="replies-list">${repliesHtml}</div>
@@ -439,6 +446,11 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 .panel-section { margin-bottom: 1.2rem; }
 .panel-section-title { font-size: .78rem; font-weight: 700; color: var(--ocean); text-transform: uppercase; letter-spacing: .04em; margin-bottom: .5rem; }
 .panel-pre { white-space: pre-wrap; font-family: inherit; font-size: .88rem; line-height: 1.65; margin: 0; color: var(--text); background: #fafaf8; padding: .8rem; border-radius: 8px; }
+.panel-images { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .5rem; }
+.panel-images a { display: block; }
+.panel-img { width: 120px; height: 90px; object-fit: cover; border-radius: 6px; transition: opacity .15s; }
+.panel-img:hover { opacity: .8; }
+
 .panel-author { font-size: .82rem; color: var(--text-light); padding-top: .8rem; border-top: 1px solid rgba(201,168,76,.15); }
 .panel-author strong { color: var(--text); }
 

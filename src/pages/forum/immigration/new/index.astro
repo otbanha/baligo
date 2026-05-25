@@ -86,6 +86,23 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
           <span class="np-char-count"><span id="content-count">0</span>/3000</span>
         </div>
 
+        <div class="np-field">
+          <label>附圖（選填，最多 3 張）</label>
+          <div class="upload-zone" id="upload-zone">
+            <input type="file" id="image-input" accept="image/jpeg,image/png,image/webp" multiple class="upload-input" />
+            <div class="upload-placeholder">
+              <span class="upload-icon">📷</span>
+              <p>點擊或拖曳上傳照片</p>
+              <p class="upload-hint">JPG / PNG / WebP，每張最大 5MB，自動壓縮至 500KB</p>
+            </div>
+          </div>
+          <div id="image-previews" class="image-previews"></div>
+          <div id="upload-progress" class="upload-progress" style="display:none">
+            <div class="progress-bar"><div id="progress-fill" class="progress-fill"></div></div>
+            <span id="progress-text" class="progress-text">上傳中⋯</span>
+          </div>
+        </div>
+
         <div class="np-submit-row">
           <button type="submit" id="submit-btn" class="btn-submit">送出討論</button>
           <p class="np-disclaimer">送出後將進入審核佇列，通過後即可公開顯示。個人資料受隱私政策保護。</p>
@@ -129,6 +146,107 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
   titleInput.addEventListener('input',   () => { document.getElementById('title-count').textContent   = titleInput.value.length; });
   contentInput.addEventListener('input', () => { document.getElementById('content-count').textContent = contentInput.value.length; });
 
+  // --- Image upload ---
+  const MAX_IMAGES = 3;
+  const MAX_BYTES  = 500 * 1024;
+  let imageFiles   = [];
+
+  const uploadZone     = document.getElementById('upload-zone');
+  const imageInput     = document.getElementById('image-input');
+  const imagePreviewEl = document.getElementById('image-previews');
+
+  imageInput.addEventListener('change', e => handleFiles(Array.from(e.target.files)));
+  uploadZone.addEventListener('dragover',  e => { e.preventDefault(); uploadZone.classList.add('drag-over'); });
+  uploadZone.addEventListener('dragleave', ()  => uploadZone.classList.remove('drag-over'));
+  uploadZone.addEventListener('drop', e => {
+    e.preventDefault();
+    uploadZone.classList.remove('drag-over');
+    handleFiles(Array.from(e.dataTransfer.files));
+  });
+
+  async function handleFiles(files) {
+    const slots = MAX_IMAGES - imageFiles.length;
+    const toAdd  = files.filter(f => f.type.startsWith('image/')).slice(0, slots);
+    for (const file of toAdd) {
+      const compressed = await compressImage(file);
+      imageFiles.push({ file: compressed, url: URL.createObjectURL(compressed) });
+    }
+    renderPreviews();
+  }
+
+  async function compressImage(file) {
+    return new Promise(resolve => {
+      const img = new Image();
+      const objUrl = URL.createObjectURL(file);
+      img.onload = () => {
+        URL.revokeObjectURL(objUrl);
+        const MAX_DIM = 1920;
+        let { width, height } = img;
+        if (width > MAX_DIM || height > MAX_DIM) {
+          const r = Math.min(MAX_DIM / width, MAX_DIM / height);
+          width = Math.round(width * r); height = Math.round(height * r);
+        }
+        const canvas = document.createElement('canvas');
+        canvas.width = width; canvas.height = height;
+        canvas.getContext('2d').drawImage(img, 0, 0, width, height);
+        const attempt = q => canvas.toBlob(blob => {
+          if (blob.size <= MAX_BYTES || q <= 0.3) {
+            resolve(new File([blob], file.name.replace(/\.\w+$/, '.webp'), { type: 'image/webp' }));
+          } else { attempt(q - 0.1); }
+        }, 'image/webp', q);
+        attempt(0.85);
+      };
+      img.src = objUrl;
+    });
+  }
+
+  function renderPreviews() {
+    imagePreviewEl.innerHTML = '';
+    imageFiles.forEach((item, i) => {
+      const wrap = document.createElement('div');
+      wrap.className = 'preview-item';
+      const img = document.createElement('img');
+      img.src = item.url; img.alt = `預覽 ${i + 1}`;
+      const btn = document.createElement('button');
+      btn.type = 'button'; btn.className = 'preview-remove'; btn.textContent = '✕';
+      btn.addEventListener('click', () => {
+        URL.revokeObjectURL(item.url);
+        imageFiles.splice(i, 1);
+        renderPreviews();
+      });
+      wrap.append(img, btn);
+      imagePreviewEl.appendChild(wrap);
+    });
+    imageInput.value = '';
+    // Show/hide zone
+    uploadZone.style.display = imageFiles.length >= MAX_IMAGES ? 'none' : 'block';
+  }
+
+  async function uploadImages(userId) {
+    if (imageFiles.length === 0) return [];
+    const progressWrap = document.getElementById('upload-progress');
+    const progressFill = document.getElementById('progress-fill');
+    const progressText = document.getElementById('progress-text');
+    progressWrap.style.display = 'block';
+
+    const urls = [];
+    for (let i = 0; i < imageFiles.length; i++) {
+      const { file } = imageFiles[i];
+      const path = `posts/${userId}/${Date.now()}-${i}.webp`;
+      progressText.textContent = `上傳照片 ${i + 1}/${imageFiles.length}⋯`;
+      progressFill.style.width = `${Math.round(i / imageFiles.length * 100)}%`;
+
+      const { error } = await supabase.storage.from('report-images').upload(path, file, { contentType: 'image/webp', upsert: false });
+      if (error) throw new Error(`圖片上傳失敗：${error.message}`);
+
+      const { data: { publicUrl } } = supabase.storage.from('report-images').getPublicUrl(path);
+      urls.push(publicUrl);
+    }
+    progressFill.style.width = '100%';
+    progressText.textContent = '上傳完成';
+    return urls;
+  }
+
   // --- Form submission ---
   const formError   = document.getElementById('form-error');
   const formSuccess = document.getElementById('form-success');
@@ -165,11 +283,14 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
         return;
       }
 
+      const imageUrls = await uploadImages(session.user.id);
+
       const { error } = await supabase.from('posts').insert({
         user_id: session.user.id,
         topic,
         title,
         content,
+        image_urls: imageUrls,
         moderation_status: 'pending',
       });
       if (error) throw new Error(error.message);
@@ -280,6 +401,42 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 }
 .np-textarea { resize: vertical; min-height: 160px; line-height: 1.6; }
 .np-char-count { font-size: .75rem; color: var(--text-light); text-align: right; }
+
+/* Upload */
+.upload-zone {
+  border: 2px dashed #d1c9b5;
+  border-radius: 12px;
+  padding: 1.5rem 1rem;
+  text-align: center;
+  cursor: pointer;
+  transition: border-color .15s, background .15s;
+  position: relative;
+}
+.upload-zone:hover, .upload-zone.drag-over { border-color: var(--ocean); background: rgba(26,58,93,.03); }
+.upload-input {
+  position: absolute; inset: 0;
+  opacity: 0; cursor: pointer;
+  width: 100%; height: 100%;
+}
+.upload-icon { font-size: 1.8rem; display: block; margin-bottom: .4rem; }
+.upload-placeholder p { margin: .15rem 0; font-size: .9rem; color: var(--text); }
+.upload-hint { font-size: .75rem; color: var(--text-light); }
+
+.image-previews { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: .7rem; }
+.preview-item { position: relative; width: 90px; height: 90px; }
+.preview-item img { width: 100%; height: 100%; object-fit: cover; border-radius: 8px; border: 1px solid rgba(201,168,76,.2); }
+.preview-remove {
+  position: absolute; top: -6px; right: -6px;
+  width: 20px; height: 20px;
+  background: #ef4444; color: #fff;
+  border: none; border-radius: 50%;
+  font-size: .65rem; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+}
+.upload-progress { margin-top: .7rem; }
+.progress-bar { height: 5px; background: #e5e7eb; border-radius: 3px; overflow: hidden; }
+.progress-fill { height: 100%; background: var(--ocean); transition: width .3s; width: 0; }
+.progress-text { font-size: .78rem; color: var(--text-light); margin-top: .3rem; display: block; }
 
 /* Submit */
 .np-submit-row { display: flex; flex-direction: column; align-items: flex-start; gap: .7rem; padding-top: .3rem; }
