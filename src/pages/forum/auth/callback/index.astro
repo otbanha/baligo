@@ -28,19 +28,29 @@ const supabaseAnonKey = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   (async () => {
     const { createClient } = await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm');
     const supabase = createClient(supabaseUrl, supabaseAnonKey, {
-      auth: { flowType: 'pkce' }
+      auth: { flowType: 'pkce', persistSession: true }
     });
 
-    // Supabase automatically exchanges the code from the URL
-    const { data, error } = await supabase.auth.getSession();
+    // Explicitly exchange the PKCE code from the URL
+    const params = new URLSearchParams(location.search);
+    const code = params.get('code');
 
-    if (error) {
-      location.href = '/forum/login/?error=callback_failed';
-      return;
+    if (code) {
+      const { error } = await supabase.auth.exchangeCodeForSession(code);
+      if (error) {
+        location.href = '/forum/login/?error=' + encodeURIComponent(error.message);
+        return;
+      }
+    } else {
+      // No code — maybe already have a session, check
+      const { data: { session } } = await supabase.auth.getSession();
+      if (!session) {
+        location.href = '/forum/login/?error=no_code';
+        return;
+      }
     }
 
-    // Read ?next= param
-    const next = new URLSearchParams(location.search).get('next') || '/forum/immigration/';
+    const next = params.get('next') || '/forum/immigration/';
     location.href = next;
   })();
   </script>
