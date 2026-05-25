@@ -66,7 +66,7 @@ create table if not exists reports (
 
   -- content
   general_notes        text        not null,
-  proof_image_urls     text[]      not null,
+  proof_image_urls     text[]      not null default '{}',
 
   -- moderation
   moderation_status    text        not null default 'pending'
@@ -76,8 +76,8 @@ create table if not exists reports (
   moderated_at         timestamptz,
 
   -- auto-expiry (generated columns)
-  expires_warning_at   timestamptz generated always as (entry_date::timestamptz + interval '14 days') stored,
-  archive_at           timestamptz generated always as (entry_date::timestamptz + interval '30 days') stored,
+  expires_warning_at   date generated always as (entry_date + 14) stored,
+  archive_at           date generated always as (entry_date + 30) stored,
 
   -- meta
   created_at           timestamptz not null default now(),
