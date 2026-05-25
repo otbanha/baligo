@@ -348,7 +348,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     cursor: pointer;
   }
 
-  .reports-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 1rem; }
+  .reports-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.2rem; }
   .reports-empty { text-align: center; padding: 3rem 0; color: var(--text-light); }
   .loading-skeleton { color: var(--text-light); font-size: .9rem; padding: 2rem 0; text-align: center; }
 
@@ -367,9 +367,20 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   .btn-load-more:hover { background: rgba(201,168,76,.08); }
 
   /* Report card styles (duplicated from component for client-rendered cards) */
-  .report-card { background:#fff; border:1px solid rgba(201,168,76,.2); border-radius:12px; overflow:hidden; transition:transform .15s,box-shadow .15s; }
-  .report-card:hover { transform:translateY(-2px); box-shadow:0 4px 16px rgba(26,54,93,.1); }
-  .report-card--stale { border-color:#fcd34d; }
+  .report-card {
+    background: #fff;
+    border: 1px solid rgba(201,168,76,.25);
+    border-radius: 14px;
+    overflow: hidden;
+    transition: transform .18s, box-shadow .18s;
+    box-shadow: 0 2px 8px rgba(26,54,93,.07);
+  }
+  .report-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 8px 28px rgba(26,54,93,.13);
+    border-color: rgba(201,168,76,.5);
+  }
+  .report-card--stale { border-color: #fcd34d; box-shadow: 0 2px 8px rgba(252,211,77,.2); }
   .report-card-link { display:block; text-decoration:none; color:inherit; padding:1rem; }
   .rc-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:.6rem; flex-wrap:wrap; gap:.4rem; }
   .rc-meta { display:flex; align-items:center; gap:.4rem; font-size:.82rem; color:var(--text-light); }
