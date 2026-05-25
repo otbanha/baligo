@@ -394,7 +394,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   .rc-flag--customs { background:#eff6ff; color:#1d4ed8; }
   .rc-flag--bribe   { background:#fff5f5; color:#c53030; }
   .rc-author { display:flex; align-items:center; gap:.4rem; }
-  .rc-avatar { width:22px; height:22px; border-radius:50%; object-fit:cover; }
+  .rc-avatar { width:22px; height:22px; min-width:22px; min-height:22px; max-width:22px; max-height:22px; border-radius:50%; object-fit:cover; display:block; }
   .rc-avatar-placeholder { font-size:1rem; }
   .rc-display-name { font-size:.8rem; color:var(--text-light); }
   .rc-thumb { margin:.8rem -1rem -1rem; }
