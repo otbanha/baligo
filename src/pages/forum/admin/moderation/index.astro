@@ -51,6 +51,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
           <button id="btn-approve" class="action-btn action-btn--approve">✓ 核准</button>
           <button id="btn-reject"  class="action-btn action-btn--reject">✕ 拒絕</button>
           <button id="btn-ban"     class="action-btn action-btn--ban">🚫 封禁用戶</button>
+          <button id="btn-delete"  class="action-btn action-btn--delete">🗑 刪除</button>
         </div>
         <div id="panel-error" class="panel-error" style="display:none"></div>
       </aside>
@@ -258,6 +259,16 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
     loadPendingCount();
   });
 
+  document.getElementById('btn-delete').addEventListener('click', async () => {
+    if (!currentReportId) return;
+    if (!confirm('確定要永久刪除此通報？此操作無法復原。')) return;
+    const { error } = await supabase.from('reports').delete().eq('id', currentReportId);
+    if (error) { showPanelError(error.message); return; }
+    closePanel();
+    loadReports(currentStatus);
+    loadPendingCount();
+  });
+
   document.getElementById('btn-ban').addEventListener('click', async () => {
     if (!currentReportId) return;
     if (!confirm('確定要封禁此用戶？此操作將禁止其發布新通報。')) return;
@@ -426,6 +437,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 .action-btn--approve { background: #166534; color: #fff; }
 .action-btn--reject  { background: #ef4444; color: #fff; }
 .action-btn--ban     { background: #1f2937; color: #fff; }
+.action-btn--delete  { background: #7f1d1d; color: #fff; }
 
 .panel-error {
   margin: 0 1.5rem .8rem;
