@@ -71,10 +71,11 @@ const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY;
             <label for="entry-time-slot">入境時段 <span class="required">*</span></label>
             <select id="entry-time-slot" name="entry_time_slot" required class="nr-select">
               <option value="">請選擇</option>
-              <option value="early_morning">清晨 (00:00–06:00)</option>
+              <option value="early-morning">清晨 (00:00–06:00)</option>
               <option value="morning">上午 (06:00–12:00)</option>
               <option value="afternoon">下午 (12:00–18:00)</option>
               <option value="evening">傍晚/夜間 (18:00–24:00)</option>
+              <option value="late-night">深夜 (22:00–00:00)</option>
             </select>
           </div>
 
@@ -93,9 +94,10 @@ const turnstileSiteKey = import.meta.env.PUBLIC_TURNSTILE_SITE_KEY;
             <label for="voa-payment">VOA 付款方式</label>
             <select id="voa-payment" name="voa_payment_method" class="nr-select">
               <option value="">請選擇</option>
-              <option value="cash_usd">現金 USD</option>
-              <option value="cash_idr">現金 IDR</option>
+              <option value="cash-usd">現金 USD</option>
+              <option value="cash-idr">現金 IDR</option>
               <option value="card">刷卡</option>
+              <option value="qris">QRIS (QR Code)</option>
             </select>
           </div>
 
@@ -450,7 +452,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
         bribe_context: bribe_attempted ? (document.getElementById('bribe-context').value.trim() || null) : null,
         general_notes: generalNotes,
         proof_image_urls: proofImageUrls,
-        status: 'pending',
+        moderation_status: 'pending',
       };
 
       const { error } = await supabase.from('reports').insert(payload);

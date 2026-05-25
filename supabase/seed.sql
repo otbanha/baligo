@@ -19,7 +19,7 @@ BEGIN
   INSERT INTO public.reports (
     user_id, entry_date, airport, entry_time_slot, visa_type,
     queue_minutes, customs_checked, bribe_attempted,
-    general_notes, status
+    general_notes, moderation_status
   ) VALUES (
     fake_user_id,
     CURRENT_DATE - INTERVAL '3 days',
@@ -33,7 +33,7 @@ BEGIN
   INSERT INTO public.reports (
     user_id, entry_date, airport, entry_time_slot, visa_type,
     queue_minutes, customs_checked, customs_issue, bribe_attempted,
-    general_notes, status
+    general_notes, moderation_status
   ) VALUES (
     fake_user_id,
     CURRENT_DATE - INTERVAL '7 days',
@@ -48,7 +48,7 @@ BEGIN
     user_id, entry_date, airport, entry_time_slot, visa_type,
     queue_minutes, customs_checked, bribe_attempted,
     bribe_amount_idr, bribe_context,
-    general_notes, status
+    general_notes, moderation_status
   ) VALUES (
     fake_user_id,
     CURRENT_DATE - INTERVAL '10 days',
@@ -64,12 +64,12 @@ BEGIN
   INSERT INTO public.reports (
     user_id, entry_date, airport, entry_time_slot, visa_type,
     voa_payment_method, queue_minutes, customs_checked, bribe_attempted,
-    general_notes, status
+    general_notes, moderation_status
   ) VALUES (
     fake_user_id,
     CURRENT_DATE - INTERVAL '17 days',
-    'DPS', 'early_morning', 'voa',
-    'cash_usd', 15, false, false,
+    'DPS', 'early-morning', 'voa',
+    'cash-usd', 15, false, false,
     '清晨班機，幾乎沒有排隊，15 分鐘搞定。VOA 用美金付款很順暢，帶夠零錢就好。這個時段入境是最舒服的，人少、快速、官員也比較有精神。',
     'approved'
   );
@@ -78,7 +78,7 @@ BEGIN
   INSERT INTO public.reports (
     user_id, entry_date, airport, entry_time_slot, visa_type,
     queue_minutes, customs_checked, bribe_attempted,
-    general_notes, status
+    general_notes, moderation_status
   ) VALUES (
     fake_user_id,
     CURRENT_DATE - INTERVAL '1 day',

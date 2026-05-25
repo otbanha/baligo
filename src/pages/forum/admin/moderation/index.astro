@@ -98,7 +98,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
     const { count } = await supabase
       .from('reports')
       .select('*', { count: 'exact', head: true })
-      .eq('status', 'pending');
+      .eq('moderation_status', 'pending');
     document.getElementById('pending-count').textContent = count ?? 0;
   }
 
@@ -117,7 +117,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
         general_notes, status, created_at, user_id,
         user_profiles (display_name, avatar_url, approved_count, is_banned)
       `)
-      .eq('status', status)
+      .eq('moderation_status', status)
       .order('created_at', { ascending: false })
       .limit(50);
 
@@ -235,7 +235,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
   async function setReportStatus(id, status) {
     const { error } = await supabase
       .from('reports')
-      .update({ status })
+      .update({ moderation_status: status })
       .eq('id', id);
     return error;
   }

@@ -171,8 +171,8 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 
     const VISA = { voa: 'VOA', evoa: 'e-VOA', 'visa-free': '免簽', kitas: 'KITAS' };
     container.innerHTML = reports.map(r => {
-      const statusClass = r.status === 'approved' ? 'status--approved' : r.status === 'rejected' ? 'status--rejected' : 'status--pending';
-      const link = r.status === 'approved' ? `<a href="/forum/immigration/#${sanitize(r.id)}" class="report-link">查看</a>` : '';
+      const statusClass = r.moderation_status === 'approved' ? 'status--approved' : r.moderation_status === 'rejected' ? 'status--rejected' : 'status--pending';
+      const link = r.moderation_status === 'approved' ? `<a href="/forum/immigration/#${sanitize(r.id)}" class="report-link">查看</a>` : '';
       return `
         <div class="my-report-row">
           <div class="my-report-date">${sanitize(r.entry_date)} <span class="my-report-airport">${sanitize(r.airport)}</span></div>
