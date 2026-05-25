@@ -1,9 +1,9 @@
 name: 每日峇里島旅遊情報
 
 on:
-  # 每天 Jakarta 時間 20:00（UTC 13:00）自動生成
+  # 備援排程：UTC 15:00（Jakarta 22:00）才跑，正常由 Cloudflare Worker 在 UTC 13:00 觸發
   schedule:
-    - cron: '0 13 * * *'
+    - cron: '0 15 * * *'
 
   # 允許手動觸發（測試用）
   workflow_dispatch:
