@@ -134,10 +134,31 @@ async function fetchFromCurrencyAPI() {
   return Object.keys(rates).length >= 4 ? { rates, source: 'currency-api-buy' } : null;
 }
 
+// Source 3: open.er-api.com（備援，IDR 為 base）
+async function fetchFromOpenER() {
+  const url = 'https://open.er-api.com/v6/latest/IDR';
+  const res = await fetch(url, { headers: { 'Accept': 'application/json' } });
+  if (!res.ok) return null;
+  const data = await res.json();
+  if (data.result !== 'success' || !data.rates) return null;
+
+  const rates = {};
+  for (const code of CODES) {
+    const rateVal = data.rates[code];
+    if (rateVal > 0) {
+      const mid = Math.round(1 / rateVal);
+      const spread = BANK_SPREAD[code] ?? 100;
+      rates[code] = Math.max(1, mid - spread);
+    }
+  }
+  return Object.keys(rates).length >= 4 ? { rates, source: 'open-er-buy' } : null;
+}
+
 async function fetchRates() {
   const result =
     await fetchFromBI().catch(() => null) ||
-    await fetchFromCurrencyAPI().catch(() => null);
+    await fetchFromCurrencyAPI().catch(() => null) ||
+    await fetchFromOpenER().catch(() => null);
 
   if (!result) return null;
   for (const code of CODES) {
