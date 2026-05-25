@@ -11,8 +11,8 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
 <html lang="zh-TW">
 <head>
   <BaseHead
-    title="峇里島入境通報 — 海關、簽證、排隊即時情報 | Go Bali Go"
-    description="由旅客真實分享的峇里島入境體驗：海關檢查、VOA 排隊時間、簽證流程，出發前必看。"
+    title="簽證／入境討論區 — Go Bali Go"
+    description="峇里島簽證與入境常見問題討論：電子簽證、落地簽、AIAC入境卡、旅遊稅，由旅客互助解答。"
     noSuffix
   />
   <meta name="robots" content="noindex, follow" />
@@ -24,42 +24,36 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   <!-- List View -->
   <main id="view-list" class="forum-main">
     <div class="forum-hero">
-      <h1 class="forum-title">峇里島入境通報</h1>
-      <p class="forum-subtitle">旅客真實分享的入境體驗 — 海關、簽證、排隊時間即時情報</p>
-      <a href="/forum/immigration/new/" class="btn-new-report">+ 發布我的通報</a>
+      <h1 class="forum-title">簽證／入境討論區</h1>
+      <p class="forum-subtitle">有問題？有經驗？來這裡討論 — 電子簽、落地簽、AIAC卡、旅遊稅</p>
+      <a href="/forum/immigration/new/" class="btn-new-post">＋ 發起新討論</a>
     </div>
 
-    <!-- Filter bar -->
-    <div class="filter-bar">
-      <select id="filter-visa" class="filter-select">
-        <option value="">所有簽證類型</option>
-        <option value="voa">落地簽 (VOA)</option>
-        <option value="evoa">電子落地簽 (e-VOA)</option>
-        <option value="visa-free">免簽</option>
-        <option value="kitas">KITAS</option>
-      </select>
-      <select id="filter-sort" class="filter-select">
-        <option value="newest">最新</option>
-        <option value="oldest">最舊</option>
-      </select>
+    <div class="topic-tabs" id="topic-tabs">
+      <button class="topic-tab topic-tab--active" data-topic="">全部</button>
+      <button class="topic-tab" data-topic="evisa">電子簽證</button>
+      <button class="topic-tab" data-topic="voa">落地簽</button>
+      <button class="topic-tab" data-topic="aiac">AIAC入境卡</button>
+      <button class="topic-tab" data-topic="tourism-tax">旅遊稅</button>
+      <button class="topic-tab" data-topic="other">其他</button>
     </div>
 
-    <div id="reports-list" class="reports-grid">
-      <div class="loading-skeleton">載入中⋯</div>
+    <div id="posts-list" class="posts-list">
+      <div class="loading-text">載入中⋯</div>
+    </div>
+
+    <div id="posts-empty" class="posts-empty" style="display:none">
+      <p>這個分類還沒有討論，<a href="/forum/immigration/new/">來第一個發問</a>！</p>
     </div>
 
     <div id="load-more-wrap" style="text-align:center;margin-top:1.5rem;display:none">
       <button id="load-more-btn" class="btn-load-more">載入更多</button>
     </div>
-
-    <div id="reports-empty" class="reports-empty" style="display:none">
-      <p>目前還沒有通報，<a href="/forum/immigration/new/">來第一個分享</a>！</p>
-    </div>
   </main>
 
-  <!-- Detail View (hidden by default, shown when URL has #id) -->
-  <main id="view-detail" class="forum-main" style="display:none" aria-live="polite">
-    <div id="detail-loading" class="loading-skeleton">載入中⋯</div>
+  <!-- Detail View -->
+  <main id="view-detail" class="forum-main" style="display:none">
+    <div id="detail-loading" class="loading-text">載入中⋯</div>
     <div id="detail-content"></div>
   </main>
 
@@ -68,24 +62,20 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   <script define:vars={{ supabaseUrl, supabaseAnon }}>
   (async () => {
     const { createClient } = await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm');
-    const sb = createClient(supabaseUrl, supabaseAnon);
+    const sb = createClient(supabaseUrl, supabaseAnon, { auth: { flowType: 'pkce', persistSession: true } });
 
-    // ── Helpers ──────────────────────────────────────────────────────
-    const VISA_LABELS = { voa:'落地簽(VOA)', evoa:'電子落地簽(e-VOA)', 'visa-free':'免簽', kitas:'KITAS', other:'其他' };
-    const TIME_LABELS = { 'early-morning':'凌晨', morning:'早上', afternoon:'下午', evening:'傍晚', 'late-night':'深夜' };
+    const TOPICS = {
+      evisa: '電子簽證問題', voa: '落地簽問題',
+      aiac: 'AIAC入境卡問題', 'tourism-tax': '旅遊稅問題', other: '其他入境問題'
+    };
+    const TOPIC_STYLE = {
+      evisa:         'background:#eff6ff;color:#1d4ed8',
+      voa:           'background:#f0fdf4;color:#166534',
+      aiac:          'background:#fff7ed;color:#9a3412',
+      'tourism-tax': 'background:#fdf4ff;color:#7e22ce',
+      other:         'background:#f1f5f9;color:#475569',
+    };
     const TRUST_LABELS = { new:'新成員', trial:'試用中', trusted:'可信賴', gold:'金牌' };
-
-    function getTrust(approvedCount, lastFlagAt) {
-      if (approvedCount >= 10) return 'gold';
-      const recentFlag = lastFlagAt && new Date(lastFlagAt) > new Date(Date.now() - 30*86400000);
-      if (approvedCount >= 3 && !recentFlag) return 'trusted';
-      if (approvedCount >= 1) return 'trial';
-      return 'new';
-    }
-
-    function daysSince(dateStr) {
-      return Math.floor((Date.now() - new Date(dateStr).getTime()) / 86400000);
-    }
 
     function sanitize(str) {
       const d = document.createElement('div');
@@ -93,240 +83,302 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
       return d.innerHTML;
     }
 
-    // ── Card template ─────────────────────────────────────────────────
-    function renderCard(r) {
-      const p = r.user_profiles || {};
-      const trust = getTrust(p.approved_count || 0, p.last_flag_at);
-      const stale = daysSince(r.entry_date) >= 14;
-      const notes = sanitize(r.general_notes.slice(0, 120)) + (r.general_notes.length > 120 ? '⋯' : '');
-      const thumb = r.proof_image_urls?.[0]
-        ? `<div class="rc-thumb"><img src="${sanitize(r.proof_image_urls[0])}" alt="通報照片" loading="lazy"/></div>` : '';
+    function getTrust(n) {
+      if (n >= 10) return 'gold';
+      if (n >= 3)  return 'trusted';
+      if (n >= 1)  return 'trial';
+      return 'new';
+    }
 
-      return `<article class="report-card${stale ? ' report-card--stale' : ''}">
-        <a href="/forum/immigration/#${r.id}" class="report-card-link" data-report-id="${r.id}">
-          <header class="rc-header">
-            <div class="rc-meta">
-              <span class="rc-date">${sanitize(r.entry_date)}</span>
-              <span class="rc-dot">·</span>
-              <span>${TIME_LABELS[r.entry_time_slot] || r.entry_time_slot}</span>
-              ${stale ? '<span class="rc-stale-badge">可能過期</span>' : ''}
-            </div>
-            <span class="rc-visa">${VISA_LABELS[r.visa_type] || r.visa_type}</span>
-          </header>
-          <p class="rc-notes">${notes}</p>
-          <footer class="rc-footer">
-            <div class="rc-flags">
-              ${r.customs_checked ? '<span class="rc-flag rc-flag--customs">🔍 海關</span>' : ''}
-              ${r.bribe_attempted  ? '<span class="rc-flag rc-flag--bribe">⚠️ 索賄</span>' : ''}
-              ${r.queue_minutes != null ? `<span class="rc-flag">⏱ ${r.queue_minutes}分</span>` : ''}
-            </div>
-            <div class="rc-author">
-              ${p.avatar_url ? `<img src="${sanitize(p.avatar_url)}" class="rc-avatar" alt="" loading="lazy"/>` : '<span class="rc-avatar-placeholder">👤</span>'}
-              <span class="rc-display-name">${sanitize(p.display_name || '匿名')}</span>
+    function timeAgo(dateStr) {
+      const diff = Math.floor((Date.now() - new Date(dateStr)) / 1000);
+      if (diff < 60)   return '剛剛';
+      if (diff < 3600) return Math.floor(diff/60) + ' 分鐘前';
+      if (diff < 86400) return Math.floor(diff/3600) + ' 小時前';
+      if (diff < 2592000) return Math.floor(diff/86400) + ' 天前';
+      return new Date(dateStr).toLocaleDateString('zh-TW');
+    }
+
+    // ── Post card ────────────────────────────────────────────
+    function renderPostCard(p) {
+      const profile = p.user_profiles || {};
+      const trust = getTrust(profile.approved_count || 0);
+      const excerpt = (p.content || '').slice(0, 100) + (p.content?.length > 100 ? '⋯' : '');
+      return `
+        <article class="post-card" data-id="${sanitize(p.id)}">
+          <div class="pc-topic-row">
+            <span class="pc-topic-badge" style="${TOPIC_STYLE[p.topic] || ''}">${sanitize(TOPICS[p.topic] || p.topic)}</span>
+          </div>
+          <h2 class="pc-title">${sanitize(p.title)}</h2>
+          <p class="pc-excerpt">${sanitize(excerpt)}</p>
+          <div class="pc-footer">
+            <div class="pc-author">
+              ${profile.avatar_url ? `<img src="${sanitize(profile.avatar_url)}" class="pc-avatar" alt="" />` : '<span class="pc-avatar-ph">👤</span>'}
+              <span class="pc-name">${sanitize(profile.display_name || '匿名')}</span>
               <span class="trust-badge trust-badge--${trust}">${TRUST_LABELS[trust]}</span>
             </div>
-          </footer>
-          ${thumb}
-        </a>
-      </article>`;
+            <div class="pc-meta">
+              <span class="pc-replies">💬 ${p.reply_count || 0}</span>
+              <span class="pc-time">${timeAgo(p.created_at)}</span>
+            </div>
+          </div>
+        </article>`;
     }
 
-    // ── Detail template ───────────────────────────────────────────────
-    function renderDetail(r) {
-      const p = r.user_profiles || {};
-      const trust = getTrust(p.approved_count || 0, p.last_flag_at);
-      const stale = daysSince(r.entry_date);
-      const expiryHtml = stale >= 30
-        ? '<div class="expiry-notice expiry-notice--archived">⚠️ 此通報已超過 30 天，資訊可能已過時。</div>'
-        : stale >= 14
-        ? '<div class="expiry-notice expiry-notice--warning">⏰ 此通報已超過 14 天，建議參考最新通報。</div>'
-        : '';
+    // ── Post detail ──────────────────────────────────────────
+    function renderPostDetail(p, replies, currentUserId) {
+      const profile = p.user_profiles || {};
+      const trust = getTrust(profile.approved_count || 0);
 
-      const images = (r.proof_image_urls || []).map(u =>
-        `<img src="${sanitize(u)}" alt="佐證照片" class="rd-image" loading="lazy"/>`
-      ).join('');
+      const repliesHtml = replies.length === 0
+        ? '<p class="no-replies">還沒有回覆，來第一個留言！</p>'
+        : replies.map(r => renderReply(r, currentUserId)).join('');
 
-      const customsSection = (r.customs_checked && r.customs_issue)
-        ? `<section class="rd-section"><h2 class="rd-section-title">海關檢查詳情</h2><pre class="rd-text">${sanitize(r.customs_issue)}</pre></section>` : '';
+      const replyFormHtml = currentUserId
+        ? `<div class="reply-form-wrap">
+            <textarea id="reply-input" class="reply-input" rows="3" maxlength="1000" placeholder="分享你的經驗或解答⋯"></textarea>
+            <div class="reply-form-footer">
+              <span class="reply-char"><span id="reply-count">0</span>/1000</span>
+              <button id="reply-submit" class="btn-reply-submit">送出回覆</button>
+            </div>
+            <div id="reply-error" class="reply-error" style="display:none"></div>
+           </div>`
+        : `<div class="reply-login-prompt">
+            <a href="/forum/login/?next=${encodeURIComponent(location.href)}" class="btn-login-reply">登入後留言</a>
+           </div>`;
 
-      const bribeSection = r.bribe_attempted
-        ? `<section class="rd-section rd-section--warn"><h2 class="rd-section-title">索賄詳情</h2>
-           ${r.bribe_amount_idr ? `<p class="rd-bribe-amount">索賄金額：IDR ${r.bribe_amount_idr.toLocaleString()}</p>` : ''}
-           ${r.bribe_context ? `<pre class="rd-text">${sanitize(r.bribe_context)}</pre>` : ''}
-           </section>` : '';
-
-      return `<article class="report-detail">
-        ${expiryHtml}
-        <header class="rd-header">
-          <h1 class="rd-title">${sanitize(r.entry_date)} 入境通報 <span class="rd-airport">(${r.airport})</span></h1>
-          <div class="rd-meta-row">
-            <span>${TIME_LABELS[r.entry_time_slot] || r.entry_time_slot}</span>
-            <span class="rd-dot">·</span>
-            <span class="rd-visa">${VISA_LABELS[r.visa_type] || r.visa_type}</span>
+      return `
+        <div class="post-detail">
+          <a href="/forum/immigration/" class="pd-back" id="back-to-list">← 返回討論區</a>
+          <div class="pd-topic-row">
+            <span class="pd-topic-badge" style="${TOPIC_STYLE[p.topic] || ''}">${sanitize(TOPICS[p.topic] || p.topic)}</span>
           </div>
-        </header>
-        <section class="rd-section">
-          <h2 class="rd-section-title">通報摘要</h2>
-          <div class="rd-grid">
-            ${r.queue_minutes != null ? `<div class="rd-stat"><span class="rd-stat-label">排隊時間</span><span class="rd-stat-value">${r.queue_minutes} 分鐘</span></div>` : ''}
-            <div class="rd-stat"><span class="rd-stat-label">海關抽查</span><span class="rd-stat-value">${r.customs_checked ? '有' : '無'}</span></div>
-            <div class="rd-stat"><span class="rd-stat-label">遭索賄</span><span class="rd-stat-value${r.bribe_attempted ? ' rd-warn' : ''}">${r.bribe_attempted ? '有' : '無'}</span></div>
-          </div>
-        </section>
-        ${customsSection}
-        ${bribeSection}
-        <section class="rd-section">
-          <h2 class="rd-section-title">入境完整記錄</h2>
-          <pre class="rd-text">${sanitize(r.general_notes)}</pre>
-        </section>
-        ${images ? `<section class="rd-section"><h2 class="rd-section-title">照片佐證</h2><div class="rd-images">${images}</div></section>` : ''}
-        <footer class="rd-author">
-          <div class="rd-author-info">
-            ${p.avatar_url ? `<img src="${sanitize(p.avatar_url)}" class="rd-avatar" alt="" loading="lazy"/>` : '<span>👤</span>'}
-            <span class="rd-author-name">${sanitize(p.display_name || '匿名')}</span>
+          <h1 class="pd-title">${sanitize(p.title)}</h1>
+          <div class="pd-author-row">
+            ${profile.avatar_url ? `<img src="${sanitize(profile.avatar_url)}" class="pd-avatar" alt="" />` : '<span class="pd-avatar-ph">👤</span>'}
+            <span class="pd-author-name">${sanitize(profile.display_name || '匿名')}</span>
             <span class="trust-badge trust-badge--${trust}">${TRUST_LABELS[trust]}</span>
+            <span class="pd-time">${timeAgo(p.created_at)}</span>
           </div>
-          <span class="rd-posted">發布於 ${new Date(r.created_at).toLocaleDateString('zh-TW')}</span>
-        </footer>
-        <a href="/forum/immigration/" class="rd-back" id="back-to-list">← 返回列表</a>
-      </article>`;
+          <div class="pd-content">${sanitize(p.content).replace(/\n/g, '<br>')}</div>
+
+          <section class="replies-section">
+            <h2 class="replies-title">回覆 <span class="replies-count">${replies.length}</span></h2>
+            <div id="replies-list">${repliesHtml}</div>
+            ${replyFormHtml}
+          </section>
+        </div>`;
     }
 
-    // ── State ─────────────────────────────────────────────────────────
+    function renderReply(r, currentUserId) {
+      const profile = r.user_profiles || {};
+      const trust = getTrust(profile.approved_count || 0);
+      const canDelete = currentUserId === r.user_id;
+      return `
+        <div class="reply-item" data-reply-id="${sanitize(r.id)}">
+          <div class="reply-author">
+            ${profile.avatar_url ? `<img src="${sanitize(profile.avatar_url)}" class="reply-avatar" alt="" />` : '<span class="reply-avatar-ph">👤</span>'}
+            <span class="reply-name">${sanitize(profile.display_name || '匿名')}</span>
+            <span class="trust-badge trust-badge--${trust}">${TRUST_LABELS[trust]}</span>
+            <span class="reply-time">${timeAgo(r.created_at)}</span>
+            ${canDelete ? `<button class="btn-delete-reply" data-id="${sanitize(r.id)}">刪除</button>` : ''}
+          </div>
+          <div class="reply-content">${sanitize(r.content).replace(/\n/g, '<br>')}</div>
+        </div>`;
+    }
+
+    // ── State ─────────────────────────────────────────────────
     let page = 0;
-    const PAGE_SIZE = 12;
-    let currentVisa = '';
-    let currentSort = 'newest';
+    const PAGE_SIZE = 20;
+    let currentTopic = '';
 
-    // ── List loading ──────────────────────────────────────────────────
-    async function loadReports(reset = false) {
-      if (reset) { page = 0; document.getElementById('reports-list').innerHTML = ''; }
-
-      let q = sb.from('reports')
-        .select('*, user_profiles(display_name, avatar_url, approved_count)')
+    // ── Load posts ────────────────────────────────────────────
+    async function loadPosts(reset = false) {
+      if (reset) { page = 0; document.getElementById('posts-list').innerHTML = ''; }
+      let q = sb.from('posts')
+        .select('id, topic, title, content, reply_count, created_at, user_profiles(display_name, avatar_url, approved_count)')
         .eq('moderation_status', 'approved')
-        .order('entry_date', { ascending: currentSort === 'oldest' })
+        .order('created_at', { ascending: false })
         .range(page * PAGE_SIZE, (page + 1) * PAGE_SIZE - 1);
-
-      if (currentVisa) q = q.eq('visa_type', currentVisa);
+      if (currentTopic) q = q.eq('topic', currentTopic);
 
       const { data, error } = await q;
-      if (error) { console.error(error); return; }
+      if (error) { document.getElementById('posts-list').innerHTML = `<p class="load-error">載入失敗：${sanitize(error.message)}</p>`; return; }
 
-      const list = document.getElementById('reports-list');
-      const empty = document.getElementById('reports-empty');
-      const loadMoreWrap = document.getElementById('load-more-wrap');
+      const list = document.getElementById('posts-list');
+      const empty = document.getElementById('posts-empty');
+      const more = document.getElementById('load-more-wrap');
 
       if (reset && (!data || data.length === 0)) {
         list.innerHTML = '';
         empty.style.display = 'block';
-        loadMoreWrap.style.display = 'none';
+        more.style.display = 'none';
         return;
       }
-
       empty.style.display = 'none';
-      list.innerHTML += data.map(renderCard).join('');
+      list.innerHTML += data.map(renderPostCard).join('');
       page++;
-      loadMoreWrap.style.display = data.length === PAGE_SIZE ? 'block' : 'none';
+      more.style.display = data.length === PAGE_SIZE ? 'block' : 'none';
+
+      list.querySelectorAll('.post-card').forEach(card => {
+        card.addEventListener('click', () => {
+          history.pushState(null, '', `/forum/immigration/#${card.dataset.id}`);
+          showDetail(card.dataset.id);
+        });
+      });
     }
 
-    // ── Detail loading ────────────────────────────────────────────────
-    async function loadDetail(id) {
-      const loading = document.getElementById('detail-loading');
-      const content = document.getElementById('detail-content');
-      loading.style.display = 'block';
+    // ── Load detail ───────────────────────────────────────────
+    async function showDetail(id) {
+      const listView   = document.getElementById('view-list');
+      const detailView = document.getElementById('view-detail');
+      const loading    = document.getElementById('detail-loading');
+      const content    = document.getElementById('detail-content');
+
+      listView.style.display   = 'none';
+      detailView.style.display = 'block';
+      loading.style.display    = 'block';
       content.innerHTML = '';
 
-      const { data, error } = await sb
-        .from('reports')
-        .select('*, user_profiles(display_name, avatar_url, approved_count, last_flag_at)')
-        .eq('id', id)
-        .eq('moderation_status', 'approved')
-        .single();
+      const [postRes, repliesRes, sessionRes] = await Promise.all([
+        sb.from('posts').select('*, user_profiles(display_name, avatar_url, approved_count)').eq('id', id).eq('moderation_status', 'approved').single(),
+        sb.from('replies').select('*, user_profiles(display_name, avatar_url, approved_count)').eq('post_id', id).order('created_at', { ascending: true }),
+        sb.auth.getSession(),
+      ]);
 
       loading.style.display = 'none';
 
-      if (error || !data) {
-        content.innerHTML = '<p style="color:#c53030;text-align:center;padding:2rem">找不到此通報，可能已下架。<br><a href="/forum/immigration/">← 返回列表</a></p>';
+      if (postRes.error || !postRes.data) {
+        content.innerHTML = '<p class="load-error">找不到此討論，可能已被刪除。<a href="/forum/immigration/">返回列表</a></p>';
         return;
       }
 
-      // Hide if archived (30+ days)
-      if (daysSince(data.entry_date) >= 30) {
-        content.innerHTML = '<p style="color:#c53030;text-align:center;padding:2rem">此通報已超過 30 天自動歸檔。<br><a href="/forum/immigration/">← 返回列表</a></p>';
-        return;
-      }
+      const currentUserId = sessionRes.data?.session?.user?.id ?? null;
+      content.innerHTML = renderPostDetail(postRes.data, repliesRes.data || [], currentUserId);
 
-      content.innerHTML = renderDetail(data);
-    }
-
-    // ── View switching ────────────────────────────────────────────────
-    function getHash() { return location.hash.slice(1); }
-
-    function updateView() {
-      const id = getHash();
-      const listView   = document.getElementById('view-list');
-      const detailView = document.getElementById('view-detail');
-
-      if (id) {
-        listView.style.display   = 'none';
-        detailView.style.display = 'block';
-        loadDetail(id);
-        document.title = '入境通報詳情 | Go Bali Go';
-      } else {
-        listView.style.display   = 'block';
-        detailView.style.display = 'none';
-        document.title = '峇里島入境通報 | Go Bali Go';
-      }
-    }
-
-    // ── Events ────────────────────────────────────────────────────────
-    window.addEventListener('hashchange', updateView);
-
-    document.addEventListener('click', e => {
-      const link = e.target.closest('[data-report-id]');
-      if (link) {
-        e.preventDefault();
-        const id = link.dataset.reportId;
-        history.pushState(null, '', `/forum/immigration/#${id}`);
-        updateView();
-        window.scrollTo(0, 0);
-      }
-      if (e.target.id === 'back-to-list') {
+      // Back button
+      document.getElementById('back-to-list').addEventListener('click', e => {
         e.preventDefault();
         history.pushState(null, '', '/forum/immigration/');
-        updateView();
-        window.scrollTo(0, 0);
+        showList();
+      });
+
+      // Reply char counter
+      const replyInput = document.getElementById('reply-input');
+      if (replyInput) {
+        replyInput.addEventListener('input', () => {
+          document.getElementById('reply-count').textContent = replyInput.value.length;
+        });
+
+        // Reply submit
+        document.getElementById('reply-submit').addEventListener('click', async () => {
+          const text = replyInput.value.trim();
+          const errEl = document.getElementById('reply-error');
+          if (!text) { errEl.textContent = '請輸入回覆內容'; errEl.style.display = 'block'; return; }
+          errEl.style.display = 'none';
+
+          const btn = document.getElementById('reply-submit');
+          btn.disabled = true; btn.textContent = '送出中⋯';
+
+          const { data: session } = await sb.auth.getSession();
+          if (!session?.session) { location.href = `/forum/login/?next=${encodeURIComponent(location.href)}`; return; }
+
+          const { data: newReply, error } = await sb.from('replies').insert({
+            post_id: id,
+            user_id: session.session.user.id,
+            content: text,
+          }).select('*, user_profiles(display_name, avatar_url, approved_count)').single();
+
+          if (error) {
+            errEl.textContent = '送出失敗：' + error.message;
+            errEl.style.display = 'block';
+            btn.disabled = false; btn.textContent = '送出回覆';
+            return;
+          }
+
+          // Append new reply
+          const repliesList = document.getElementById('replies-list');
+          const noReply = repliesList.querySelector('.no-replies');
+          if (noReply) noReply.remove();
+          repliesList.insertAdjacentHTML('beforeend', renderReply(newReply, session.session.user.id));
+          repliesList.lastElementChild.querySelector('.btn-delete-reply')?.addEventListener('click', handleDeleteReply);
+
+          // Update count
+          const countEl = document.querySelector('.replies-count');
+          if (countEl) countEl.textContent = parseInt(countEl.textContent || '0') + 1;
+
+          replyInput.value = '';
+          document.getElementById('reply-count').textContent = '0';
+          btn.disabled = false; btn.textContent = '送出回覆';
+          repliesList.lastElementChild.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        });
+
+        // Delete reply handlers
+        document.querySelectorAll('.btn-delete-reply').forEach(btn => {
+          btn.addEventListener('click', handleDeleteReply);
+        });
       }
+    }
+
+    async function handleDeleteReply(e) {
+      const replyId = e.target.dataset.id;
+      if (!confirm('確定刪除這則回覆？')) return;
+      const { error } = await sb.from('replies').delete().eq('id', replyId);
+      if (error) { alert('刪除失敗：' + error.message); return; }
+      const item = document.querySelector(`.reply-item[data-reply-id="${replyId}"]`);
+      if (item) item.remove();
+      const countEl = document.querySelector('.replies-count');
+      if (countEl) countEl.textContent = Math.max(0, parseInt(countEl.textContent || '1') - 1);
+    }
+
+    function showList() {
+      document.getElementById('view-list').style.display = 'block';
+      document.getElementById('view-detail').style.display = 'none';
+    }
+
+    // ── Topic tabs ────────────────────────────────────────────
+    document.querySelectorAll('.topic-tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('.topic-tab').forEach(t => t.classList.remove('topic-tab--active'));
+        tab.classList.add('topic-tab--active');
+        currentTopic = tab.dataset.topic;
+        loadPosts(true);
+      });
     });
 
-    document.getElementById('filter-visa').addEventListener('change', e => {
-      currentVisa = e.target.value;
-      loadReports(true);
-    });
-    document.getElementById('filter-sort').addEventListener('change', e => {
-      currentSort = e.target.value;
-      loadReports(true);
-    });
-    document.getElementById('load-more-btn').addEventListener('click', () => loadReports(false));
+    // ── Load more ─────────────────────────────────────────────
+    document.getElementById('load-more-btn').addEventListener('click', () => loadPosts(false));
 
-    // ── Init ─────────────────────────────────────────────────────────
-    updateView();
-    if (!getHash()) loadReports(true);
+    // ── Hash routing ──────────────────────────────────────────
+    function handleHash() {
+      const id = location.hash.slice(1);
+      if (id) {
+        showDetail(id);
+      } else {
+        showList();
+        if (document.getElementById('posts-list').innerHTML.trim() === '' ||
+            document.getElementById('posts-list').querySelector('.loading-text')) {
+          loadPosts(true);
+        }
+      }
+    }
+
+    window.addEventListener('popstate', handleHash);
+    handleHash();
   })();
   </script>
 
   <style is:global>
-  .forum-main { max-width: 900px; margin: 0 auto; padding: 1.5rem 1rem 3rem; }
+  .forum-main { max-width: 760px; margin: 0 auto; padding: 1.5rem 1rem 4rem; }
 
+  /* Hero */
   .forum-hero { text-align: center; padding: 2rem 0 1.5rem; }
-  .forum-title { font-size: 1.7rem; color: var(--ocean); margin: 0 0 .5rem; font-weight: 700; }
-  .forum-subtitle { color: var(--text-light); font-size: .95rem; margin-bottom: 1.2rem; }
-
-  .btn-new-report {
+  .forum-title { font-size: 1.7rem; color: var(--ocean); margin: 0 0 .4rem; font-weight: 800; }
+  .forum-subtitle { color: var(--text-light); font-size: .9rem; margin-bottom: 1.3rem; }
+  .btn-new-post {
     display: inline-block;
-    background: var(--gold);
-    color: var(--ocean);
+    background: var(--ocean);
+    color: #fff;
     font-weight: 700;
     font-size: .95rem;
     padding: .65rem 1.6rem;
@@ -334,111 +386,149 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     text-decoration: none;
     transition: background .15s;
   }
-  .btn-new-report:hover { background: var(--gold-light); }
+  .btn-new-post:hover { background: #1a3a6a; }
 
-  .filter-bar { display: flex; gap: .8rem; margin-bottom: 1.2rem; flex-wrap: wrap; }
-  .filter-select {
-    border: 1px solid rgba(201,168,76,.3);
-    border-radius: 8px;
-    padding: .45rem .8rem;
-    font-size: .88rem;
-    font-family: inherit;
+  /* Topic tabs */
+  .topic-tabs { display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: 1.2rem; }
+  .topic-tab {
+    padding: .4rem 1rem;
+    border: 1.5px solid #e2ddd4;
+    border-radius: 20px;
+    background: #fff;
+    font-size: .85rem;
+    cursor: pointer;
     color: var(--text);
-    background: #fff;
-    cursor: pointer;
-  }
-
-  .reports-grid { display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 1.2rem; }
-  .reports-empty { text-align: center; padding: 3rem 0; color: var(--text-light); }
-  .loading-skeleton { color: var(--text-light); font-size: .9rem; padding: 2rem 0; text-align: center; }
-
-  .btn-load-more {
-    background: #fff;
-    border: 1.5px solid rgba(201,168,76,.4);
-    color: var(--ocean);
-    font-size: .9rem;
-    font-weight: 600;
-    padding: .6rem 1.8rem;
-    border-radius: 8px;
-    cursor: pointer;
     font-family: inherit;
-    transition: background .15s;
+    transition: all .15s;
   }
-  .btn-load-more:hover { background: rgba(201,168,76,.08); }
+  .topic-tab:hover { border-color: var(--ocean); color: var(--ocean); }
+  .topic-tab--active { background: var(--ocean); color: #fff; border-color: var(--ocean); }
 
-  /* Report card styles (duplicated from component for client-rendered cards) */
-  .report-card {
+  /* Post cards */
+  .posts-list { display: flex; flex-direction: column; gap: .8rem; }
+  .post-card {
     background: #fff;
     border: 1px solid rgba(201,168,76,.25);
-    border-radius: 14px;
-    overflow: hidden;
-    transition: transform .18s, box-shadow .18s;
-    box-shadow: 0 2px 8px rgba(26,54,93,.07);
+    border-radius: 12px;
+    padding: 1.1rem 1.3rem;
+    cursor: pointer;
+    transition: transform .15s, box-shadow .15s, border-color .15s;
+    box-shadow: 0 2px 8px rgba(26,54,93,.06);
   }
-  .report-card:hover {
-    transform: translateY(-3px);
-    box-shadow: 0 8px 28px rgba(26,54,93,.13);
+  .post-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(26,54,93,.11);
     border-color: rgba(201,168,76,.5);
   }
-  .report-card--stale { border-color: #fcd34d; box-shadow: 0 2px 8px rgba(252,211,77,.2); }
-  .report-card-link { display:block; text-decoration:none; color:inherit; padding:1rem; }
-  .rc-header { display:flex; justify-content:space-between; align-items:center; margin-bottom:.6rem; flex-wrap:wrap; gap:.4rem; }
-  .rc-meta { display:flex; align-items:center; gap:.4rem; font-size:.82rem; color:var(--text-light); }
-  .rc-dot { color:#d4c9b5; }
-  .rc-stale-badge { background:#fffbeb; color:#92400e; font-size:.68rem; font-weight:700; padding:.1em .5em; border-radius:8px; border:1px solid #fcd34d; }
-  .rc-visa { font-size:.78rem; font-weight:700; color:var(--ocean); background:rgba(201,168,76,.12); padding:.15em .6em; border-radius:8px; }
-  .rc-notes { font-size:.88rem; line-height:1.65; color:var(--text); margin:0 0 .8rem; }
-  .rc-footer { display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:.5rem; }
-  .rc-flags { display:flex; flex-wrap:wrap; gap:.4rem; }
-  .rc-flag { font-size:.75rem; background:#f8f9fa; border-radius:6px; padding:.15em .55em; color:var(--text-light); }
-  .rc-flag--customs { background:#eff6ff; color:#1d4ed8; }
-  .rc-flag--bribe   { background:#fff5f5; color:#c53030; }
-  .rc-author { display:flex; align-items:center; gap:.4rem; }
-  .rc-avatar { width:22px; height:22px; min-width:22px; min-height:22px; max-width:22px; max-height:22px; border-radius:50%; object-fit:cover; display:block; }
-  .rc-avatar-placeholder { font-size:1rem; }
-  .rc-display-name { font-size:.8rem; color:var(--text-light); }
-  .rc-thumb { margin:.8rem -1rem -1rem; }
-  .rc-thumb img { width:100%; height:160px; object-fit:cover; display:block; }
+  .pc-topic-row { margin-bottom: .5rem; }
+  .pc-topic-badge {
+    display: inline-block;
+    font-size: .73rem;
+    font-weight: 700;
+    padding: .2em .7em;
+    border-radius: 20px;
+  }
+  .pc-title { font-size: 1rem; font-weight: 700; color: var(--ocean); margin: 0 0 .4rem; }
+  .pc-excerpt { font-size: .88rem; color: var(--text-light); margin: 0 0 .8rem; line-height: 1.55; }
+  .pc-footer { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: .4rem; }
+  .pc-author { display: flex; align-items: center; gap: .4rem; }
+  .pc-avatar { width: 20px; height: 20px; min-width: 20px; max-width: 20px; border-radius: 50%; object-fit: cover; }
+  .pc-avatar-ph { font-size: .9rem; }
+  .pc-name { font-size: .8rem; color: var(--text-light); }
+  .pc-meta { display: flex; align-items: center; gap: .6rem; }
+  .pc-replies { font-size: .8rem; color: var(--text-light); }
+  .pc-time { font-size: .78rem; color: #b0a898; }
 
   /* Trust badge */
-  .trust-badge { display:inline-block; font-size:.68em; font-weight:700; padding:.15em .6em; border-radius:10px; vertical-align:middle; }
+  .trust-badge { display:inline-block; font-size:.68em; font-weight:700; padding:.15em .55em; border-radius:10px; vertical-align:middle; }
   .trust-badge--new     { background:#f1f5f9; color:#64748b; }
   .trust-badge--trial   { background:#e0f2fe; color:#0369a1; }
   .trust-badge--trusted { background:#dcfce7; color:#166534; }
   .trust-badge--gold    { background:rgba(201,168,76,.2); color:var(--ocean); }
 
-  /* Detail view styles */
-  .report-detail { max-width:720px; margin:0 auto; }
-  .rd-header { margin-bottom:1.5rem; }
-  .rd-title { font-size:1.4rem; color:var(--ocean); margin:0 0 .5rem; font-weight:700; }
-  .rd-airport { font-size:.9rem; font-weight:400; color:var(--text-light); }
-  .rd-meta-row { display:flex; align-items:center; flex-wrap:wrap; gap:.4rem; font-size:.85rem; color:var(--text-light); }
-  .rd-dot { color:#d4c9b5; }
-  .rd-visa { font-weight:700; color:var(--ocean); }
-  .rd-section { background:#fafaf8; border:1px solid rgba(201,168,76,.15); border-radius:10px; padding:1.1rem 1.2rem; margin-bottom:1rem; }
-  .rd-section--warn { background:#fff5f5; border-color:#fca5a5; }
-  .rd-section-title { font-size:.88rem; font-weight:700; color:var(--ocean); margin:0 0 .7rem; text-transform:uppercase; letter-spacing:.04em; }
-  .rd-grid { display:grid; grid-template-columns:repeat(auto-fill,minmax(140px,1fr)); gap:.6rem; }
-  .rd-stat { display:flex; flex-direction:column; gap:.15rem; }
-  .rd-stat-label { font-size:.75rem; color:var(--text-light); }
-  .rd-stat-value { font-size:.95rem; font-weight:600; color:var(--text); }
-  .rd-warn { color:#c53030; }
-  .rd-bribe-amount { font-size:.9rem; font-weight:700; color:#c53030; margin:0 0 .5rem; }
-  .rd-text { white-space:pre-wrap; font-family:inherit; font-size:.9rem; line-height:1.7; color:var(--text); margin:0; background:transparent; padding:0; border:none; border-radius:0; }
-  .rd-images { display:flex; flex-wrap:wrap; gap:.8rem; }
-  .rd-image { max-width:100%; width:280px; border-radius:8px; cursor:zoom-in; }
-  .rd-author { display:flex; justify-content:space-between; align-items:center; flex-wrap:wrap; gap:.5rem; margin-top:1.5rem; padding-top:1rem; border-top:1px solid rgba(201,168,76,.2); }
-  .rd-author-info { display:flex; align-items:center; gap:.6rem; }
-  .rd-avatar { width:28px; height:28px; border-radius:50%; object-fit:cover; }
-  .rd-author-name { font-size:.88rem; font-weight:600; color:var(--ocean); margin-right:.4rem; }
-  .rd-posted { font-size:.8rem; color:var(--text-light); }
-  .rd-back { display:inline-block; margin-top:1.2rem; font-size:.9rem; color:var(--ocean); text-decoration:none; }
-  .rd-back:hover { color:var(--gold); }
+  /* Load more / empty */
+  .loading-text { color: var(--text-light); font-size: .9rem; padding: 2rem 0; text-align: center; }
+  .posts-empty { text-align: center; padding: 3rem 0; color: var(--text-light); }
+  .posts-empty a { color: var(--ocean); }
+  .load-error { color: #c53030; font-size: .9rem; padding: 1rem; }
+  .btn-load-more {
+    background: #fff; border: 1.5px solid rgba(201,168,76,.4);
+    color: var(--ocean); font-size: .9rem; font-weight: 600;
+    padding: .6rem 1.8rem; border-radius: 8px; cursor: pointer;
+    font-family: inherit; transition: background .15s;
+  }
+  .btn-load-more:hover { background: rgba(201,168,76,.08); }
 
-  /* Expiry notice */
-  .expiry-notice { display:flex; align-items:flex-start; gap:.5rem; font-size:.84rem; line-height:1.5; border-radius:8px; padding:.65rem .9rem; margin-bottom:1rem; }
-  .expiry-notice--warning  { background:#fffbeb; color:#92400e; border:1px solid #fcd34d; }
-  .expiry-notice--archived { background:#fef2f2; color:#991b1b; border:1px solid #fca5a5; }
+  /* ── Post Detail ── */
+  .post-detail { max-width: 680px; margin: 0 auto; }
+  .pd-back { font-size: .9rem; color: var(--ocean); text-decoration: none; display: inline-block; margin-bottom: 1rem; }
+  .pd-back:hover { color: var(--gold); }
+  .pd-topic-row { margin-bottom: .6rem; }
+  .pd-topic-badge { display:inline-block; font-size:.78rem; font-weight:700; padding:.25em .8em; border-radius:20px; }
+  .pd-title { font-size: 1.4rem; font-weight: 800; color: var(--ocean); margin: 0 0 .8rem; }
+  .pd-author-row { display: flex; align-items: center; gap: .5rem; margin-bottom: 1.2rem; flex-wrap: wrap; }
+  .pd-avatar { width: 24px; height: 24px; min-width:24px; max-width:24px; border-radius: 50%; object-fit: cover; }
+  .pd-avatar-ph { font-size: 1.1rem; }
+  .pd-author-name { font-size: .88rem; font-weight: 600; color: var(--text); }
+  .pd-time { font-size: .8rem; color: #b0a898; }
+  .pd-content {
+    font-size: .95rem; line-height: 1.8; color: var(--text);
+    background: #fafaf8; border: 1px solid rgba(201,168,76,.15);
+    border-radius: 10px; padding: 1.2rem; margin-bottom: 1.5rem;
+  }
+
+  /* Replies */
+  .replies-section { margin-top: 1.5rem; }
+  .replies-title { font-size: .95rem; font-weight: 700; color: var(--ocean); margin: 0 0 1rem; }
+  .replies-count { background: rgba(201,168,76,.15); color: var(--ocean); font-size: .8rem; padding: .1em .5em; border-radius: 10px; margin-left: .3rem; }
+  .no-replies { color: var(--text-light); font-size: .9rem; text-align: center; padding: 1.5rem 0; }
+
+  .reply-item {
+    padding: .9rem 0;
+    border-bottom: 1px solid rgba(201,168,76,.12);
+  }
+  .reply-item:last-child { border-bottom: none; }
+  .reply-author { display: flex; align-items: center; gap: .4rem; margin-bottom: .4rem; flex-wrap: wrap; }
+  .reply-avatar { width: 20px; height: 20px; min-width:20px; max-width:20px; border-radius: 50%; object-fit: cover; }
+  .reply-avatar-ph { font-size: .9rem; }
+  .reply-name { font-size: .83rem; font-weight: 600; color: var(--text); }
+  .reply-time { font-size: .78rem; color: #b0a898; margin-left: .2rem; }
+  .reply-content { font-size: .9rem; line-height: 1.7; color: var(--text); padding-left: .2rem; }
+  .btn-delete-reply {
+    margin-left: auto; background: none; border: none;
+    font-size: .75rem; color: #ccc; cursor: pointer; padding: 0;
+  }
+  .btn-delete-reply:hover { color: #ef4444; }
+
+  /* Reply form */
+  .reply-form-wrap { margin-top: 1.2rem; padding-top: 1rem; border-top: 1px solid rgba(201,168,76,.15); }
+  .reply-input {
+    width: 100%; box-sizing: border-box;
+    border: 1px solid #d1c9b5; border-radius: 8px;
+    padding: .7rem .9rem; font-size: .92rem;
+    font-family: inherit; resize: vertical; min-height: 80px;
+    transition: border-color .15s;
+  }
+  .reply-input:focus { outline: none; border-color: var(--ocean); box-shadow: 0 0 0 3px rgba(26,58,93,.08); }
+  .reply-form-footer { display: flex; justify-content: space-between; align-items: center; margin-top: .5rem; }
+  .reply-char { font-size: .75rem; color: var(--text-light); }
+  .btn-reply-submit {
+    background: var(--ocean); color: #fff;
+    border: none; border-radius: 8px;
+    padding: .5rem 1.2rem; font-size: .9rem; font-weight: 600;
+    cursor: pointer; font-family: inherit;
+    transition: background .15s;
+  }
+  .btn-reply-submit:hover:not(:disabled) { background: #1a3a6a; }
+  .btn-reply-submit:disabled { opacity: .55; cursor: not-allowed; }
+  .reply-error { font-size: .82rem; color: #c53030; margin-top: .4rem; }
+
+  .reply-login-prompt { margin-top: 1.2rem; padding-top: 1rem; border-top: 1px solid rgba(201,168,76,.15); text-align: center; }
+  .btn-login-reply {
+    display: inline-block; background: var(--ocean); color: #fff;
+    padding: .55rem 1.3rem; border-radius: 8px;
+    text-decoration: none; font-weight: 600; font-size: .9rem;
+  }
   </style>
 </body>
 </html>

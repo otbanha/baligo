@@ -9,7 +9,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
 
 <html lang="zh-TW">
 <head>
-  <BaseHead title="通報審核後台 — Go Bali Go" description="" noSuffix />
+  <BaseHead title="討論區審核後台 — Go Bali Go" description="" noSuffix />
   <meta name="robots" content="noindex, nofollow" />
 </head>
 <body>
@@ -26,9 +26,11 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
 
       <div id="mod-content" style="display:none">
         <div class="mod-header">
-          <h1 class="mod-title">入境通報審核</h1>
+          <h1 class="mod-title">討論區審核後台</h1>
           <div class="mod-tab-bar">
-            <button class="mod-tab mod-tab--active" data-status="pending">待審核 <span id="pending-count" class="tab-count">0</span></button>
+            <button class="mod-tab mod-tab--active" data-status="pending">
+              待審核 <span id="pending-count" class="tab-count">0</span>
+            </button>
             <button class="mod-tab" data-status="approved">已核准</button>
             <button class="mod-tab" data-status="rejected">已拒絕</button>
           </div>
@@ -39,11 +41,11 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
         </div>
 
         <div id="mod-empty" class="mod-empty" style="display:none">
-          <p>此分類目前沒有通報</p>
+          <p>此分類目前沒有討論</p>
         </div>
       </div>
 
-      <!-- Report detail panel -->
+      <!-- Post detail panel -->
       <aside id="detail-panel" class="detail-panel" style="display:none">
         <button id="panel-close" class="panel-close" aria-label="關閉">✕</button>
         <div id="panel-content" class="panel-content"></div>
@@ -70,8 +72,28 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
     auth: { flowType: 'pkce', persistSession: true },
   });
 
-  let currentStatus = 'pending';
-  let currentReportId = null;
+  let currentStatus  = 'pending';
+  let currentPostId  = null;
+  let loadedPosts    = [];
+
+  const TOPICS = {
+    evisa: '電子簽證問題',
+    voa: '落地簽問題',
+    aiac: 'AIAC入境卡',
+    'tourism-tax': '旅遊稅問題',
+    other: '其他入境問題',
+  };
+  const TOPIC_COLORS = {
+    evisa: '#1d4ed8', voa: '#0369a1', aiac: '#7c3aed',
+    'tourism-tax': '#d97706', other: '#64748b',
+  };
+
+  function sanitize(str) {
+    if (str == null) return '';
+    const div = document.createElement('div');
+    div.textContent = String(str);
+    return div.innerHTML;
+  }
 
   // --- Auth & role check ---
   async function init() {
@@ -91,31 +113,30 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
       return;
     }
     document.getElementById('mod-content').style.display = 'block';
-    loadReports('pending');
+    loadPosts('pending');
     loadPendingCount();
   }
 
   async function loadPendingCount() {
     const { count } = await supabase
-      .from('reports')
+      .from('posts')
       .select('*', { count: 'exact', head: true })
       .eq('moderation_status', 'pending');
     document.getElementById('pending-count').textContent = count ?? 0;
   }
 
-  // --- Load reports ---
-  async function loadReports(status) {
-    const list = document.getElementById('mod-list');
+  // --- Load posts ---
+  async function loadPosts(status) {
+    const list  = document.getElementById('mod-list');
     const empty = document.getElementById('mod-empty');
     list.innerHTML = '<div class="mod-loading">載入中⋯</div>';
     empty.style.display = 'none';
 
-    const { data: reports, error } = await supabase
-      .from('reports')
+    const { data: posts, error } = await supabase
+      .from('posts')
       .select(`
-        id, entry_date, airport, entry_time_slot, visa_type,
-        queue_minutes, customs_checked, bribe_attempted,
-        general_notes, moderation_status, created_at, user_id,
+        id, topic, title, content,
+        moderation_status, reply_count, created_at, user_id,
         user_profiles (display_name, avatar_url, approved_count, is_banned)
       `)
       .eq('moderation_status', status)
@@ -126,170 +147,179 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
       list.innerHTML = `<div class="mod-error">載入失敗：${sanitize(error.message)}</div>`;
       return;
     }
-    if (!reports || reports.length === 0) {
+    if (!posts || posts.length === 0) {
       list.innerHTML = '';
       empty.style.display = 'block';
       return;
     }
-    list.innerHTML = reports.map(r => renderRow(r)).join('');
-
+    loadedPosts = posts;
+    list.innerHTML = posts.map(p => renderRow(p)).join('');
     list.querySelectorAll('.mod-row').forEach(row => {
-      row.addEventListener('click', () => openPanel(row.dataset.id, reports));
+      row.addEventListener('click', () => openPanel(row.dataset.id));
     });
   }
 
-  const TIME_SLOT = { early_morning: '清晨', morning: '上午', afternoon: '下午', evening: '夜間' };
-  const VISA = { voa: 'VOA', evoa: 'e-VOA', 'visa-free': '免簽', kitas: 'KITAS' };
-
-  function renderRow(r) {
-    const profile = r.user_profiles;
-    const banned = profile?.is_banned ? ' <span class="badge-banned">已封禁</span>' : '';
-    const bribeWarn = r.bribe_attempted ? ' <span class="badge-bribe">⚠️ 索賄</span>' : '';
+  function renderRow(p) {
+    const profile  = p.user_profiles;
+    const topicLabel = TOPICS[p.topic] ?? p.topic;
+    const topicColor = TOPIC_COLORS[p.topic] ?? '#64748b';
+    const banned   = profile?.is_banned ? ' <span class="badge-banned">已封禁</span>' : '';
+    const excerpt  = p.content.slice(0, 90) + (p.content.length > 90 ? '⋯' : '');
     return `
-      <div class="mod-row" data-id="${sanitize(r.id)}">
-        <div class="row-date">${sanitize(r.entry_date)}<span class="row-airport">${sanitize(r.airport)}</span></div>
-        <div class="row-meta">
-          <span class="row-slot">${sanitize(TIME_SLOT[r.entry_time_slot] ?? r.entry_time_slot)}</span>
-          <span class="row-visa">${sanitize(VISA[r.visa_type] ?? r.visa_type)}</span>
-          ${bribeWarn}
+      <div class="mod-row" data-id="${sanitize(p.id)}">
+        <div class="row-topic-wrap">
+          <span class="row-topic-badge" style="color:${topicColor}">${sanitize(topicLabel)}</span>
         </div>
-        <div class="row-notes">${sanitize(r.general_notes.slice(0, 100))}${r.general_notes.length > 100 ? '⋯' : ''}</div>
+        <div class="row-title">${sanitize(p.title)}</div>
+        <div class="row-excerpt">${sanitize(excerpt)}</div>
         <div class="row-author">
           ${sanitize(profile?.display_name ?? '匿名')}${banned}
-          <span class="row-approved-count">${profile?.approved_count ?? 0} 篇通過</span>
+          <span class="row-stat">${profile?.approved_count ?? 0} 篇通過</span>
         </div>
-        <div class="row-time">${new Date(r.created_at).toLocaleString('zh-TW')}</div>
+        <div class="row-time">${new Date(p.created_at).toLocaleString('zh-TW')}</div>
       </div>
     `;
-  }
-
-  function sanitize(str) {
-    if (str == null) return '';
-    const div = document.createElement('div');
-    div.textContent = String(str);
-    return div.innerHTML;
   }
 
   // --- Detail panel ---
-  function openPanel(id, reports) {
-    const report = reports.find(r => r.id === id);
-    if (!report) return;
-    currentReportId = id;
+  async function openPanel(id) {
+    const post = loadedPosts.find(p => p.id === id);
+    if (!post) return;
+    currentPostId = id;
 
-    const profile = report.user_profiles;
-    const panel = document.getElementById('detail-panel');
-    const overlay = document.getElementById('panel-overlay');
-    const content = document.getElementById('panel-content');
-    const error = document.getElementById('panel-error');
-    error.style.display = 'none';
+    const profile  = post.user_profiles;
+    const panel    = document.getElementById('detail-panel');
+    const overlay  = document.getElementById('panel-overlay');
+    const content  = document.getElementById('panel-content');
+    const errEl    = document.getElementById('panel-error');
+    errEl.style.display = 'none';
+
+    const topicLabel = TOPICS[post.topic] ?? post.topic;
+    const topicColor = TOPIC_COLORS[post.topic] ?? '#64748b';
+
+    // Load replies
+    const { data: replies } = await supabase
+      .from('replies')
+      .select('id, content, created_at, user_id, user_profiles(display_name)')
+      .eq('post_id', id)
+      .order('created_at', { ascending: true });
+
+    const repliesHtml = replies && replies.length > 0
+      ? replies.map(r => `
+          <div class="panel-reply">
+            <div class="panel-reply-author">${sanitize(r.user_profiles?.display_name ?? '匿名')}</div>
+            <div class="panel-reply-content">${sanitize(r.content)}</div>
+            <div class="panel-reply-time">${new Date(r.created_at).toLocaleString('zh-TW')}</div>
+            <button class="btn-del-reply" data-reply-id="${sanitize(r.id)}">刪除回覆</button>
+          </div>
+        `).join('')
+      : '<p class="no-replies">尚無回覆</p>';
 
     content.innerHTML = `
-      <h2 class="panel-report-title">${sanitize(report.entry_date)} 入境通報</h2>
-      <div class="panel-meta">
-        <span>${sanitize(report.airport)}</span> ·
-        <span>${sanitize(TIME_SLOT[report.entry_time_slot] ?? report.entry_time_slot)}</span> ·
-        <span>${sanitize(VISA[report.visa_type] ?? report.visa_type)}</span>
-        ${report.queue_minutes != null ? `· <span>排隊 ${sanitize(String(report.queue_minutes))} 分</span>` : ''}
-      </div>
-      ${report.customs_checked ? `<div class="panel-flag panel-flag--customs">🔍 有被海關檢查${report.customs_issue ? `<pre class="panel-pre">${sanitize(report.customs_issue)}</pre>` : ''}</div>` : ''}
-      ${report.bribe_attempted ? `<div class="panel-flag panel-flag--bribe">⚠️ 有被索賄${report.bribe_amount_idr ? ` IDR ${sanitize(report.bribe_amount_idr.toLocaleString())}` : ''}${report.bribe_context ? `<pre class="panel-pre">${sanitize(report.bribe_context)}</pre>` : ''}</div>` : ''}
+      <div class="panel-topic-badge" style="color:${topicColor}">${sanitize(topicLabel)}</div>
+      <h2 class="panel-post-title">${sanitize(post.title)}</h2>
       <div class="panel-section">
-        <div class="panel-section-title">完整記錄</div>
-        <pre class="panel-pre">${sanitize(report.general_notes)}</pre>
+        <div class="panel-section-title">內容</div>
+        <pre class="panel-pre">${sanitize(post.content)}</pre>
       </div>
-      ${report.proof_image_urls?.length ? `
-        <div class="panel-section">
-          <div class="panel-section-title">佐證照片</div>
-          <div class="panel-images">
-            ${report.proof_image_urls.map(url => `<img src="${sanitize(url)}" class="panel-img" loading="lazy" />`).join('')}
-          </div>
-        </div>
-      ` : ''}
+      <div class="panel-section">
+        <div class="panel-section-title">回覆（${replies?.length ?? 0}）</div>
+        <div id="replies-list">${repliesHtml}</div>
+      </div>
       <div class="panel-author">
         作者：<strong>${sanitize(profile?.display_name ?? '匿名')}</strong>
         ${profile?.is_banned ? '<span class="badge-banned">已封禁</span>' : ''}
-        · 已核准通報：${profile?.approved_count ?? 0} 篇
-        <br><small>User ID：${sanitize(report.user_id)}</small>
-        <br><small>提交時間：${new Date(report.created_at).toLocaleString('zh-TW')}</small>
+        · 已核准：${profile?.approved_count ?? 0} 篇
+        <br><small>User ID：${sanitize(post.user_id)}</small>
+        <br><small>提交時間：${new Date(post.created_at).toLocaleString('zh-TW')}</small>
       </div>
     `;
 
-    // Show/hide action buttons based on status
-    document.getElementById('btn-approve').style.display = currentStatus === 'pending' || currentStatus === 'rejected' ? 'inline-flex' : 'none';
-    document.getElementById('btn-reject').style.display = currentStatus === 'pending' || currentStatus === 'approved' ? 'inline-flex' : 'none';
-    document.getElementById('btn-ban').style.display = !profile?.is_banned ? 'inline-flex' : 'none';
+    // Wire up delete-reply buttons
+    content.querySelectorAll('.btn-del-reply').forEach(btn => {
+      btn.addEventListener('click', async (e) => {
+        e.stopPropagation();
+        const replyId = btn.dataset.replyId;
+        if (!confirm('確定刪除此回覆？')) return;
+        const { error } = await supabase.from('replies').delete().eq('id', replyId);
+        if (error) { showPanelError(error.message); return; }
+        btn.closest('.panel-reply').remove();
+      });
+    });
 
-    panel.style.display = 'flex';
+    // Show/hide action buttons based on current tab
+    document.getElementById('btn-approve').style.display =
+      currentStatus === 'pending' || currentStatus === 'rejected' ? 'inline-flex' : 'none';
+    document.getElementById('btn-reject').style.display =
+      currentStatus === 'pending' || currentStatus === 'approved' ? 'inline-flex' : 'none';
+    document.getElementById('btn-ban').style.display =
+      !profile?.is_banned ? 'inline-flex' : 'none';
+
+    panel.style.display   = 'flex';
     overlay.style.display = 'block';
   }
 
   function closePanel() {
-    document.getElementById('detail-panel').style.display = 'none';
+    document.getElementById('detail-panel').style.display  = 'none';
     document.getElementById('panel-overlay').style.display = 'none';
-    currentReportId = null;
+    currentPostId = null;
   }
 
   document.getElementById('panel-close').addEventListener('click', closePanel);
   document.getElementById('panel-overlay').addEventListener('click', closePanel);
 
   // --- Moderation actions ---
-  async function setReportStatus(id, status) {
+  async function setPostStatus(id, status) {
     const { error } = await supabase
-      .from('reports')
+      .from('posts')
       .update({ moderation_status: status })
       .eq('id', id);
     return error;
   }
 
   document.getElementById('btn-approve').addEventListener('click', async () => {
-    if (!currentReportId) return;
-    const err = await setReportStatus(currentReportId, 'approved');
+    if (!currentPostId) return;
+    const err = await setPostStatus(currentPostId, 'approved');
     if (err) { showPanelError(err.message); return; }
     closePanel();
-    loadReports(currentStatus);
+    loadPosts(currentStatus);
     loadPendingCount();
   });
 
   document.getElementById('btn-reject').addEventListener('click', async () => {
-    if (!currentReportId) return;
-    const err = await setReportStatus(currentReportId, 'rejected');
+    if (!currentPostId) return;
+    const err = await setPostStatus(currentPostId, 'rejected');
     if (err) { showPanelError(err.message); return; }
     closePanel();
-    loadReports(currentStatus);
+    loadPosts(currentStatus);
     loadPendingCount();
   });
 
   document.getElementById('btn-delete').addEventListener('click', async () => {
-    if (!currentReportId) return;
-    if (!confirm('確定要永久刪除此通報？此操作無法復原。')) return;
-    const { error } = await supabase.from('reports').delete().eq('id', currentReportId);
+    if (!currentPostId) return;
+    if (!confirm('確定要永久刪除此討論？所有回覆也將一併刪除，此操作無法復原。')) return;
+    const { error } = await supabase.from('posts').delete().eq('id', currentPostId);
     if (error) { showPanelError(error.message); return; }
     closePanel();
-    loadReports(currentStatus);
+    loadPosts(currentStatus);
     loadPendingCount();
   });
 
   document.getElementById('btn-ban').addEventListener('click', async () => {
-    if (!currentReportId) return;
-    if (!confirm('確定要封禁此用戶？此操作將禁止其發布新通報。')) return;
+    if (!currentPostId) return;
+    if (!confirm('確定要封禁此用戶？此操作將禁止其發布新討論。')) return;
 
-    // Get user_id from current report
-    const { data: report } = await supabase
-      .from('reports')
-      .select('user_id')
-      .eq('id', currentReportId)
-      .single();
-
-    if (!report) { showPanelError('找不到通報'); return; }
+    const post = loadedPosts.find(p => p.id === currentPostId);
+    if (!post) { showPanelError('找不到討論'); return; }
 
     const { error } = await supabase
       .from('user_profiles')
       .update({ is_banned: true })
-      .eq('id', report.user_id);
+      .eq('id', post.user_id);
 
     if (error) { showPanelError(error.message); return; }
     closePanel();
-    loadReports(currentStatus);
+    loadPosts(currentStatus);
   });
 
   function showPanelError(msg) {
@@ -304,7 +334,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
       document.querySelectorAll('.mod-tab').forEach(t => t.classList.remove('mod-tab--active'));
       tab.classList.add('mod-tab--active');
       currentStatus = tab.dataset.status;
-      loadReports(currentStatus);
+      loadPosts(currentStatus);
     });
   });
 
@@ -313,7 +343,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 </script>
 
 <style>
-.mod-page { padding: 2rem 1rem 4rem; min-height: 60vh; }
+.mod-page      { padding: 2rem 1rem 4rem; min-height: 60vh; }
 .mod-container { max-width: 1000px; margin: 0 auto; }
 
 .mod-access-denied { text-align: center; padding: 4rem 2rem; }
@@ -321,7 +351,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 
 /* Header */
 .mod-header { margin-bottom: 1.5rem; }
-.mod-title { font-size: 1.4rem; font-weight: 800; color: var(--ocean); margin: 0 0 1rem; }
+.mod-title  { font-size: 1.4rem; font-weight: 800; color: var(--ocean); margin: 0 0 1rem; }
 .mod-tab-bar { display: flex; gap: .5rem; flex-wrap: wrap; }
 .mod-tab {
   padding: .45rem 1rem;
@@ -349,15 +379,15 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 
 /* List */
 .mod-loading { padding: 3rem; text-align: center; color: var(--text-light); }
-.mod-error { padding: 1rem; color: #c53030; background: #fff5f5; border-radius: 8px; }
-.mod-empty { padding: 3rem; text-align: center; color: var(--text-light); }
+.mod-error   { padding: 1rem; color: #c53030; background: #fff5f5; border-radius: 8px; }
+.mod-empty   { padding: 3rem; text-align: center; color: var(--text-light); }
 
 .mod-row {
   display: grid;
-  grid-template-columns: 110px 1fr 2fr 1fr 120px;
+  grid-template-columns: 110px 1fr 2fr 1fr 130px;
   gap: .6rem;
   align-items: center;
-  padding: .9rem 1rem;
+  padding: .85rem 1rem;
   border: 1px solid rgba(201,168,76,.15);
   border-radius: 8px;
   margin-bottom: .5rem;
@@ -367,17 +397,15 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 }
 .mod-row:hover { background: #fafaf8; }
 
-.row-date { font-weight: 700; font-size: .88rem; color: var(--ocean); }
-.row-airport { display: block; font-size: .75rem; color: var(--text-light); font-weight: 400; }
-.row-meta { display: flex; flex-wrap: wrap; gap: .3rem; font-size: .78rem; }
-.row-slot, .row-visa { color: var(--text-light); }
-.row-notes { font-size: .83rem; color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
-.row-author { font-size: .82rem; color: var(--text); }
-.row-approved-count { display: block; font-size: .72rem; color: var(--text-light); }
-.row-time { font-size: .75rem; color: var(--text-light); text-align: right; }
+.row-topic-wrap { }
+.row-topic-badge { font-size: .75rem; font-weight: 700; }
+.row-title   { font-size: .9rem; font-weight: 700; color: var(--ocean); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.row-excerpt { font-size: .82rem; color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.row-author  { font-size: .82rem; color: var(--text); }
+.row-stat    { display: block; font-size: .72rem; color: var(--text-light); }
+.row-time    { font-size: .75rem; color: var(--text-light); text-align: right; }
 
 .badge-banned { background: #fef2f2; color: #991b1b; font-size: .68rem; font-weight: 700; padding: .1em .5em; border-radius: 6px; border: 1px solid #fca5a5; }
-.badge-bribe  { background: #fff5f5; color: #c53030; font-size: .72rem; font-weight: 700; padding: .1em .5em; border-radius: 6px; }
 
 /* Detail Panel */
 .panel-overlay {
@@ -388,7 +416,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 .detail-panel {
   position: fixed;
   top: 0; right: 0; bottom: 0;
-  width: min(480px, 100vw);
+  width: min(520px, 100vw);
   background: #fff;
   z-index: 201;
   flex-direction: column;
@@ -406,18 +434,33 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 }
 .panel-content { padding: 0 1.5rem 1rem; flex: 1; }
 
-.panel-report-title { font-size: 1.1rem; font-weight: 800; color: var(--ocean); margin: 0 0 .5rem; }
-.panel-meta { font-size: .83rem; color: var(--text-light); margin-bottom: .8rem; }
-.panel-flag { font-size: .85rem; padding: .5rem .8rem; border-radius: 8px; margin-bottom: .6rem; }
-.panel-flag--customs { background: #eff6ff; color: #1d4ed8; }
-.panel-flag--bribe   { background: #fff5f5; color: #c53030; }
-.panel-section { margin-bottom: 1rem; }
-.panel-section-title { font-size: .78rem; font-weight: 700; color: var(--ocean); text-transform: uppercase; letter-spacing: .04em; margin-bottom: .4rem; }
-.panel-pre { white-space: pre-wrap; font-family: inherit; font-size: .88rem; line-height: 1.65; margin: 0; color: var(--text); }
-.panel-images { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .5rem; }
-.panel-img { width: 120px; height: 90px; object-fit: cover; border-radius: 6px; }
+.panel-topic-badge { font-size: .78rem; font-weight: 700; margin-bottom: .4rem; }
+.panel-post-title  { font-size: 1.1rem; font-weight: 800; color: var(--ocean); margin: 0 0 1rem; }
+.panel-section { margin-bottom: 1.2rem; }
+.panel-section-title { font-size: .78rem; font-weight: 700; color: var(--ocean); text-transform: uppercase; letter-spacing: .04em; margin-bottom: .5rem; }
+.panel-pre { white-space: pre-wrap; font-family: inherit; font-size: .88rem; line-height: 1.65; margin: 0; color: var(--text); background: #fafaf8; padding: .8rem; border-radius: 8px; }
 .panel-author { font-size: .82rem; color: var(--text-light); padding-top: .8rem; border-top: 1px solid rgba(201,168,76,.15); }
 .panel-author strong { color: var(--text); }
+
+/* Replies */
+.panel-reply {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: .7rem .9rem;
+  margin-bottom: .5rem;
+  font-size: .85rem;
+}
+.panel-reply-author { font-weight: 700; color: var(--ocean); margin-bottom: .25rem; font-size: .82rem; }
+.panel-reply-content { color: var(--text); line-height: 1.5; white-space: pre-wrap; }
+.panel-reply-time { font-size: .72rem; color: var(--text-light); margin-top: .3rem; }
+.btn-del-reply {
+  display: inline-block; margin-top: .4rem;
+  background: none; border: 1px solid #fca5a5;
+  color: #c53030; font-size: .72rem; padding: .2em .6em;
+  border-radius: 6px; cursor: pointer;
+}
+.btn-del-reply:hover { background: #fff5f5; }
+.no-replies { font-size: .85rem; color: var(--text-light); margin: 0; }
 
 .panel-actions {
   position: sticky; bottom: 0;
@@ -451,7 +494,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 
 @media (max-width: 640px) {
   .mod-row { grid-template-columns: 90px 1fr; grid-template-rows: auto auto auto; }
-  .row-notes { grid-column: 1 / -1; }
-  .row-time  { grid-column: 1 / -1; text-align: left; }
+  .row-excerpt { grid-column: 1 / -1; }
+  .row-time    { grid-column: 1 / -1; text-align: left; }
 }
 </style>

@@ -51,7 +51,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
         </section>
 
         <section class="account-section">
-          <h2 class="section-title">我的通報</h2>
+          <h2 class="section-title">我的討論</h2>
           <div id="my-reports" class="my-reports">
             <div class="loading-text">載入中⋯</div>
           </div>
@@ -158,26 +158,26 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 
   async function loadMyReports(userId) {
     const container = document.getElementById('my-reports');
-    const { data: reports, error } = await supabase
-      .from('reports')
-      .select('id, entry_date, airport, visa_type, moderation_status, created_at')
+    const { data: posts, error } = await supabase
+      .from('posts')
+      .select('id, topic, title, moderation_status, created_at')
       .eq('user_id', userId)
       .order('created_at', { ascending: false });
 
-    if (error || !reports || reports.length === 0) {
-      container.innerHTML = '<p class="no-reports">你還沒有發布任何通報。<a href="/forum/immigration/new/">發布第一篇通報</a></p>';
+    if (error || !posts || posts.length === 0) {
+      container.innerHTML = '<p class="no-reports">你還沒有發起任何討論。<a href="/forum/immigration/new/">發起第一篇討論</a></p>';
       return;
     }
 
-    const VISA = { voa: 'VOA', evoa: 'e-VOA', 'visa-free': '免簽', kitas: 'KITAS' };
-    container.innerHTML = reports.map(r => {
+    const TOPICS = { evisa: '電子簽證', voa: '落地簽', aiac: 'AIAC', 'tourism-tax': '旅遊稅', other: '其他' };
+    container.innerHTML = posts.map(r => {
       const statusClass = r.moderation_status === 'approved' ? 'status--approved' : r.moderation_status === 'rejected' ? 'status--rejected' : 'status--pending';
       const link = r.moderation_status === 'approved' ? `<a href="/forum/immigration/#${sanitize(r.id)}" class="report-link">查看</a>` : '';
       return `
         <div class="my-report-row">
-          <div class="my-report-date">${sanitize(r.entry_date)} <span class="my-report-airport">${sanitize(r.airport)}</span></div>
-          <div class="my-report-visa">${sanitize(VISA[r.visa_type] ?? r.visa_type)}</div>
-          <div class="my-report-status ${statusClass}">${sanitize(STATUS_LABELS[r.status] ?? r.status)}</div>
+          <div class="my-report-date">${sanitize(r.title)}</div>
+          <div class="my-report-visa">${sanitize(TOPICS[r.topic] ?? r.topic)}</div>
+          <div class="my-report-status ${statusClass}">${sanitize(STATUS_LABELS[r.moderation_status] ?? r.moderation_status)}</div>
           <div class="my-report-time">${new Date(r.created_at).toLocaleDateString('zh-TW')}</div>
           <div>${link}</div>
         </div>
