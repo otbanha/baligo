@@ -28,30 +28,41 @@ const supabaseAnonKey = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   (async () => {
     const { createClient } = await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm');
     const supabase = createClient(supabaseUrl, supabaseAnonKey, {
-      auth: { flowType: 'pkce', persistSession: true }
+      auth: { flowType: 'pkce', persistSession: true, detectSessionInUrl: true }
     });
 
-    // Explicitly exchange the PKCE code from the URL
-    const params = new URLSearchParams(location.search);
-    const code = params.get('code');
+    const next = new URLSearchParams(location.search).get('next') || '/forum/immigration/';
 
-    if (code) {
-      const { error } = await supabase.auth.exchangeCodeForSession(code);
-      if (error) {
-        location.href = '/forum/login/?error=' + encodeURIComponent(error.message);
-        return;
-      }
-    } else {
-      // No code — maybe already have a session, check
-      const { data: { session } } = await supabase.auth.getSession();
-      if (!session) {
-        location.href = '/forum/login/?error=no_code';
-        return;
-      }
-    }
+    // Timeout fallback after 10s
+    const timeout = setTimeout(() => {
+      location.href = '/forum/login/?error=timeout';
+    }, 10000);
 
-    const next = params.get('next') || '/forum/immigration/';
-    location.href = next;
+    // onAuthStateChange fires when session is ready (handles both ?code= and #access_token=)
+    supabase.auth.onAuthStateChange((event, session) => {
+      if (event === 'SIGNED_IN' && session) {
+        clearTimeout(timeout);
+        location.href = next;
+      } else if (event === 'INITIAL_SESSION') {
+        if (session) {
+          // Already logged in
+          clearTimeout(timeout);
+          location.href = next;
+        } else {
+          // Try explicit code exchange as fallback
+          const code = new URLSearchParams(location.search).get('code');
+          if (code) {
+            supabase.auth.exchangeCodeForSession(code).then(({ error }) => {
+              if (error) {
+                clearTimeout(timeout);
+                location.href = '/forum/login/?error=' + encodeURIComponent(error.message);
+              }
+              // If success, SIGNED_IN event will fire above
+            });
+          }
+        }
+      }
+    });
   })();
   </script>
 </body>
