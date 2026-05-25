@@ -22,6 +22,7 @@ const supabaseAnonKey = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   <div class="msg">
     <div class="spinner"></div>
     <p>登入中，請稍候⋯</p>
+    <p id="debug" style="font-size:.7rem;color:#999;margin-top:1rem;word-break:break-all;max-width:400px"></p>
   </div>
 
   <script define:vars={{ supabaseUrl, supabaseAnonKey }}>
@@ -32,6 +33,10 @@ const supabaseAnonKey = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     });
 
     const next = new URLSearchParams(location.search).get('next') || '/forum/immigration/';
+
+    // Debug: show URL info
+    const dbg = document.getElementById('debug');
+    if (dbg) dbg.textContent = 'search: ' + location.search + ' | hash: ' + location.hash.slice(0, 80);
 
     // Timeout fallback after 10s
     const timeout = setTimeout(() => {
