@@ -160,7 +160,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
     const container = document.getElementById('my-reports');
     const { data: reports, error } = await supabase
       .from('reports')
-      .select('id, entry_date, airport, visa_type, status, created_at')
+      .select('id, entry_date, airport, visa_type, moderation_status, created_at')
       .eq('user_id', userId)
       .order('created_at', { ascending: false });
 
