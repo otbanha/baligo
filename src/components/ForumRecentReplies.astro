@@ -1,11 +1,11 @@
 ---
 const { lang = 'zh-tw' } = Astro.props;
 
-const i18n: Record<string, { title: string; more: string; empty: string; replyIn: string }> = {
-  'zh-tw': { title: '💬 最新討論回覆', more: '進入討論區 →', empty: '尚無回覆', replyIn: '回覆於' },
-  'zh-hk': { title: '💬 最新討論回覆', more: '進入討論區 →', empty: '尚無回覆', replyIn: '回覆於' },
-  'zh-cn': { title: '💬 最新讨论回复', more: '进入讨论区 →', empty: '暂无回复', replyIn: '回复于' },
-  'en':    { title: '💬 Latest Forum Replies', more: 'Go to Forum →', empty: 'No replies yet', replyIn: 'replied in' },
+const i18n: Record<string, { title: string; more: string }> = {
+  'zh-tw': { title: '入境/通關討論區', more: '更多討論 →' },
+  'zh-hk': { title: '入境/通關討論區', more: '更多討論 →' },
+  'zh-cn': { title: '入境/通关讨论区', more: '更多讨论 →' },
+  'en':    { title: 'Immigration Forum', more: 'More →' },
 };
 const t = i18n[lang] ?? i18n['zh-tw'];
 
@@ -23,7 +23,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   </ul>
 </div>
 
-<script define:vars={{ supabaseUrl, supabaseAnon, empty: t.empty, replyIn: t.replyIn }}>
+<script define:vars={{ supabaseUrl, supabaseAnon }}>
 (async () => {
   const list = document.getElementById('frr-list');
   if (!list) return;
@@ -32,26 +32,43 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     const { createClient } = await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm');
     const sb = createClient(supabaseUrl, supabaseAnon, { auth: { persistSession: false } });
 
-    const { data, error } = await sb
-      .from('replies')
-      .select('id, content, created_at, post_id, user_profiles(display_name), posts!inner(id, title, moderation_status)')
-      .eq('posts.moderation_status', 'approved')
-      .order('created_at', { ascending: false })
-      .limit(5);
+    // 並行拉取：最新核准貼文 × 最新回覆（限已核准貼文）
+    const [postsRes, repliesRes] = await Promise.all([
+      sb.from('posts')
+        .select('id, title, created_at')
+        .eq('moderation_status', 'approved')
+        .order('created_at', { ascending: false })
+        .limit(5),
 
-    if (error || !data || data.length === 0) {
-      list.innerHTML = `<li class="frr-empty">${empty}</li>`;
-      return;
+      sb.from('replies')
+        .select('id, created_at, posts!inner(id, title, moderation_status)')
+        .eq('posts.moderation_status', 'approved')
+        .order('created_at', { ascending: false })
+        .limit(10),
+    ]);
+
+    // 合併成 { postId, title, at } 並去重，取最新 5 則
+    const seen = new Set();
+    const items = [];
+
+    function add(postId, title, at) {
+      if (seen.has(postId)) return;
+      seen.add(postId);
+      items.push({ postId, title, at: new Date(at) });
     }
 
-    function timeAgo(d) {
-      const s = Math.floor((Date.now() - new Date(d)) / 1000);
-      if (s < 60)     return '剛剛';
-      if (s < 3600)   return Math.floor(s / 60) + ' 分鐘前';
-      if (s < 86400)  return Math.floor(s / 3600) + ' 小時前';
-      if (s < 604800) return Math.floor(s / 86400) + ' 天前';
-      return new Date(d).toLocaleDateString('zh-TW');
+    // 先把兩個結果合併再依時間排序
+    const combined = [
+      ...(postsRes.data  || []).map(p => ({ postId: p.id, title: p.title, at: p.created_at })),
+      ...(repliesRes.data|| []).map(r => ({ postId: r.posts.id, title: r.posts.title, at: r.created_at })),
+    ].sort((a, b) => new Date(b.at) - new Date(a.at));
+
+    for (const row of combined) {
+      add(row.postId, row.title, row.at);
+      if (items.length >= 5) break;
     }
+
+    if (items.length === 0) { list.innerHTML = ''; return; }
 
     function sanitize(str) {
       const d = document.createElement('div');
@@ -59,23 +76,14 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
       return d.innerHTML;
     }
 
-    list.innerHTML = data.map(r => {
-      const post    = r.posts;
-      const author  = r.user_profiles?.display_name ?? '匿名';
-      const excerpt = (r.content || '').slice(0, 55) + (r.content?.length > 55 ? '⋯' : '');
-      return `
-        <li class="frr-item">
-          <a href="/forum/immigration/#${sanitize(post.id)}" class="frr-link">
-            <span class="frr-post-title">${sanitize(post.title)}</span>
-            <span class="frr-excerpt">${sanitize(excerpt)}</span>
-            <span class="frr-meta">
-              <span class="frr-author">${sanitize(author)}</span>
-              <span class="frr-dot">·</span>
-              <span class="frr-time">${timeAgo(r.created_at)}</span>
-            </span>
-          </a>
-        </li>`;
-    }).join('');
+    list.innerHTML = items.map(item => `
+      <li class="frr-item">
+        <a href="/forum/immigration/#${sanitize(item.postId)}" class="frr-link">
+          <img src="/favicon-16x16.png" class="frr-icon" alt="" aria-hidden="true" />
+          <span class="frr-post-title">${sanitize(item.title)}</span>
+        </a>
+      </li>`).join('');
+
   } catch {
     document.getElementById('frr-list').innerHTML = '';
   }
@@ -87,14 +95,14 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   background: #fffdf0;
   border: 1px solid #f0e6a0;
   border-radius: 12px;
-  padding: 1rem 1.1rem;
+  padding: .9rem 1.1rem;
   margin-bottom: 1.2rem;
 }
 .frr-header {
   display: flex;
   align-items: center;
   justify-content: space-between;
-  margin-bottom: .7rem;
+  margin-bottom: .6rem;
 }
 .frr-title {
   font-size: .85rem;
@@ -114,12 +122,8 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   list-style: none;
   margin: 0;
   padding: 0;
-  display: flex;
-  flex-direction: column;
-  gap: 0;
 }
-.frr-loading,
-.frr-empty {
+.frr-loading {
   font-size: .82rem;
   color: #b09a40;
   padding: .3rem 0;
@@ -132,38 +136,28 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
 
 .frr-link {
   display: flex;
-  flex-direction: column;
-  gap: .15rem;
-  padding: .55rem 0;
+  align-items: center;
+  gap: .45rem;
+  padding: .45rem 0;
   text-decoration: none;
   color: inherit;
 }
 .frr-link:hover .frr-post-title { color: #6a5200; text-decoration: underline; }
 
+.frr-icon {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  opacity: .75;
+}
+
 .frr-post-title {
-  font-size: .83rem;
-  font-weight: 600;
+  font-size: .82rem;
+  font-weight: 500;
   color: #5a4800;
   line-height: 1.4;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
 }
-.frr-excerpt {
-  font-size: .78rem;
-  color: #7a6830;
-  line-height: 1.4;
-  white-space: nowrap;
-  overflow: hidden;
-  text-overflow: ellipsis;
-}
-.frr-meta {
-  display: flex;
-  align-items: center;
-  gap: .3rem;
-  font-size: .72rem;
-  color: #a08840;
-  margin-top: .05rem;
-}
-.frr-dot { opacity: .5; }
 </style>
