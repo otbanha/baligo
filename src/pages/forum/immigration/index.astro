@@ -11,12 +11,83 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
 <html lang="zh-TW">
 <head>
   <BaseHead
-    title="簽證／入境討論區 — Go Bali Go"
-    description="峇里島簽證與入境常見問題討論：電子簽證、落地簽、AIAC入境卡、旅遊稅，由旅客互助解答。"
+    title="印尼／峇里島簽證入境討論區｜電子簽、落地簽、AIAC、旅遊稅 — Go Bali Go"
+    description="峇里島／印尼最新簽證入境資訊互助討論區。電子簽證 e-VOA、落地簽 VOA、AIAC 入境卡填寫、IDR 150,000 旅遊稅、簽證延期、入境流程一次搞懂，由旅客即時互助解答。"
     image="https://images.gobaligo.id/images/2026-05/1779771138794-og.jpg"
     noSuffix
   />
-  <meta name="robots" content="noindex, follow" />
+  <meta name="robots" content="index, follow" />
+
+  <!-- JSON-LD Schema: FAQPage -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "台灣人去峇里島需要簽證嗎？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "需要。台灣護照無法免簽入境印尼，需辦理 e-VOA（電子落地簽）或 VOA（落地簽），費用 IDR 500,000（約 NT$1,000），停留 30 天可延長一次。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "e-VOA 和 VOA 有什麼差別？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "e-VOA 是電子落地簽，可在出發前於印尼移民署官網線上申請，入境時走電子通道較快。VOA 是現場落地簽，抵達機場後排隊辦理，費用相同但需要排隊時間。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "峇里島旅遊稅怎麼繳？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "自 2024 年 2 月起，所有外國觀光客入境峇里島需繳交 IDR 150,000（約 NT$300）旅遊稅。可在出發前透過 Love Bali 官網（lovebali.baliprov.go.id）線上預繳，或抵達機場後現場繳納。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "什麼是 AIAC 入境卡？要怎麼填？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AIAC（All Indonesia Arrival Card）是印尼整合後的電子入境申報卡，取代過去的紙本海關申報單與健康申報單。需在入境前 3 天內於印尼海關官網填寫，取得 QR Code 後在機場給海關掃描。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "峇里島簽證可以延期嗎？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "可以。e-VOA 與 VOA 都可延長一次 30 天，總計可停留 60 天。需在簽證到期前提前申請，可透過線上系統或委託當地代辦處理。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "入境峇里島需要準備什麼文件？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "需準備：護照（效期 6 個月以上）、回程機票證明、住宿訂房證明、AIAC 入境卡 QR Code、旅遊稅繳費證明（如已線上預繳）。建議將電子文件截圖備份在手機中。"
+        }
+      }
+    ]
+  }
+  </script>
+
+  <!-- JSON-LD Schema: BreadcrumbList -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "首頁", "item": "https://gobaligo.id/" },
+      { "@type": "ListItem", "position": 2, "name": "討論區", "item": "https://gobaligo.id/forum/" },
+      { "@type": "ListItem", "position": 3, "name": "簽證／入境", "item": "https://gobaligo.id/forum/immigration/" }
+    ]
+  }
+  </script>
 </head>
 <body>
   <Header lang="blog" />
@@ -25,8 +96,8 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   <!-- List View -->
   <main id="view-list" class="forum-main">
     <div class="forum-hero">
-      <h1 class="forum-title">簽證／入境討論區</h1>
-      <p class="forum-subtitle">有問題？有經驗？來這裡討論 — 電子簽、落地簽、AIAC卡、旅遊稅</p>
+      <h1 class="forum-title">印尼／峇里島簽證／入境討論區</h1>
+      <p class="forum-subtitle">印尼/峇里島簽證最新規定討論：e-VOA 電子簽證、VOA 落地簽、AIAC 入境卡、IDR 150,000 旅遊稅</p>
       <a href="/forum/immigration/new/" class="btn-new-post">＋ 發起新討論</a>
     </div>
 
@@ -46,6 +117,23 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
       <button class="topic-tab" data-topic="aiac">AIAC入境卡</button>
       <button class="topic-tab" data-topic="tourism-tax">旅遊稅</button>
       <button class="topic-tab" data-topic="other">其他</button>
+    </div>
+
+    <!-- SEO 內容區塊 -->
+    <div class="seo-content-block">
+      <h2 class="seo-content-title">台灣旅客去印尼／峇里島最新入境規定（2026 更新）</h2>
+      <p class="seo-content-text">
+        台灣護照無法免簽入境印尼，需要先辦理 <strong>e-VOA（電子落地簽）</strong> 或抵達後辦理 <strong>VOA（落地簽）</strong>，費用為 IDR 500,000（約 NT$1,000），停留期限 30 天，可延長一次共 60 天。
+      </p>
+      <h3 class="seo-content-subtitle">入境前必備：</h3>
+      <ul class="seo-content-list">
+        <li><strong>AIAC（All Indonesia Arrival Card）</strong>：印尼新的電子入境申報卡，整合海關、健康、移民資料，需在入境前 3 天內線上填寫並取得 QR Code。</li>
+        <li><strong>峇里島旅遊稅 IDR 150,000</strong>（約 NT$300）：自 2024 年 2 月起所有外國旅客入境峇里島都需繳交，可透過 Love Bali 官網線上預繳，或抵達機場後現場繳納。</li>
+        <li>護照效期需 6 個月以上、回程機票證明、住宿訂房證明。</li>
+      </ul>
+      <p class="seo-content-text">
+        對任何一步驟有疑問？歡迎在下方發起討論，或瀏覽其他旅客分享的入境經驗。
+      </p>
     </div>
 
     <div id="posts-list" class="posts-list">
@@ -821,6 +909,44 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   .kb-pinned-link:hover {
     color: #b8860b;
     text-decoration: underline;
+  }
+
+  /* SEO 內容區塊 */
+  .seo-content-block {
+    margin: 1.8rem 0 2rem;
+    padding: 1.2rem 1.3rem;
+    background: #f9f6f1;
+    border: 1px solid rgba(201,168,76,.2);
+    border-radius: 12px;
+  }
+  .seo-content-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--ocean);
+    margin: 0 0 0.8rem;
+  }
+  .seo-content-subtitle {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--text);
+    margin: 1rem 0 0.5rem;
+  }
+  .seo-content-text {
+    font-size: 0.9rem;
+    line-height: 1.7;
+    color: var(--text);
+    margin: 0 0 0.8rem;
+  }
+  .seo-content-list {
+    margin: 0 0 0.8rem 1.2rem;
+    padding: 0;
+    list-style: disc;
+  }
+  .seo-content-list li {
+    font-size: 0.9rem;
+    line-height: 1.7;
+    color: var(--text);
+    margin-bottom: 0.4rem;
   }
 
   /* ── Post Detail ── */
