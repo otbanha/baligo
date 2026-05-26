@@ -40,8 +40,8 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
         <div id="form-success" class="form-success" style="display:none">
           <span class="success-icon">✓</span>
           <div>
-            <strong>討論已成功提交！</strong>
-            <p>審核通過後將公開顯示，通常在 24 小時內完成。</p>
+            <strong id="success-title">討論已成功提交！</strong>
+            <p id="success-desc">審核通過後將公開顯示，通常在 24 小時內完成。</p>
             <a href="/forum/immigration/" class="btn-back-list">返回討論區</a>
           </div>
         </div>
@@ -283,6 +283,14 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
         return;
       }
 
+      // 查詢用戶信任狀態
+      const { data: profile } = await supabase
+        .from('user_profiles')
+        .select('approved_count, is_banned')
+        .eq('id', session.user.id)
+        .single();
+      const isTrusted = (profile?.approved_count ?? 0) >= 1 && !profile?.is_banned;
+
       const imageUrls = await uploadImages(session.user.id);
 
       const { error } = await supabase.from('posts').insert({
@@ -291,9 +299,15 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
         title,
         content,
         image_urls: imageUrls,
-        moderation_status: 'pending',
+        moderation_status: 'pending', // server trigger 會自動覆寫為 approved（若已信任）
       });
       if (error) throw new Error(error.message);
+
+      // 依信任狀態顯示不同成功訊息
+      if (isTrusted) {
+        document.getElementById('success-title').textContent = '討論已即時發布！';
+        document.getElementById('success-desc').textContent = '你是通過審核的信任用戶，貼文已立即公開顯示。';
+      }
 
       // Show success — hide form fields
       document.querySelectorAll('.np-field, .np-submit-row').forEach(el => el.style.display = 'none');
