@@ -4,72 +4,79 @@ interface Props {
 }
 const { lang = 'zh-tw' } = Astro.props;
 
-const items = [
+const row1 = [
   { id: 'live',      icon: '🎥', url: '/weather/' },
   { id: 'trip',      icon: '🗺️', url: '/trip-planner/' },
   { id: 'budget',    icon: '💰', url: '/bali-budget-calculator/' },
-  { id: 'transport', icon: '🚗', url: '/blog/bali-transport-quiz/' },
   { id: 'map',       icon: '📍', url: '/map/', noLocalize: true },
-  { id: 'spa',       icon: '🧖', url: '/blog/spa/' },
-  { id: 'tickets',   icon: '🎟️', url: '/tickets/', publishedAt: '2026-05-15' },
-  { id: 'driver',    icon: '🚕', url: '/blog/bali-private-car-drivers-guide/' },
+  { id: 'transport', icon: '🚗', url: '/blog/bali-transport-quiz/' },
 ] as const;
 
-type ItemId = typeof items[number]['id'];
-type Item = typeof items[number];
+const row2 = [
+  { id: 'visa',    icon: '🛂', url: '/forum/immigration/', noLocalize: true, publishedAt: '2026-05-26' },
+  { id: 'driver',  icon: '🚕', url: '/blog/bali-private-car-drivers-guide/' },
+  { id: 'spa',     icon: '🧖', url: '/blog/spa/' },
+  { id: 'tickets', icon: '🎟️', url: '/tickets/', publishedAt: '2026-05-15' },
+] as const;
+
+const allItems = [...row1, ...row2] as const;
+type ItemId = typeof allItems[number]['id'];
 
 const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { newBadge: string; navLabel: string }> = {
   'zh-tw': {
-    live:      { full: 'Bali Live', mobile: 'Live' },
-    trip:      { full: '行程規劃', mobile: '行程' },
-    budget:    { full: '預算計算', mobile: '預算' },
-    transport: { full: '包車叫車', mobile: '包車' },
-    map:       { full: '攻略地圖', mobile: '地圖' },
-    tickets:   { full: '票券優惠', mobile: '票券' },
-    spa:       { full: 'SPA 推薦', mobile: 'SPA' },
-    driver:    { full: '司機推薦', mobile: '司機' },
+    live:      { full: 'Bali Live',  mobile: 'Live' },
+    trip:      { full: '行程規劃',   mobile: '行程' },
+    budget:    { full: '預算計算',   mobile: '預算' },
+    map:       { full: '攻略地圖',   mobile: '地圖' },
+    transport: { full: '交通選擇',   mobile: '交通' },
+    visa:      { full: '簽證入境',   mobile: '簽證' },
+    driver:    { full: '司機推薦',   mobile: '包車' },
+    spa:       { full: 'SPA 推薦',   mobile: 'SPA'  },
+    tickets:   { full: '票券優惠',   mobile: '票券' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
   'zh-cn': {
-    live:      { full: 'Bali Live', mobile: 'Live' },
-    trip:      { full: '行程规划', mobile: '行程' },
-    budget:    { full: '预算计算', mobile: '预算' },
-    transport: { full: '包车叫车', mobile: '包车' },
-    map:       { full: '攻略地图', mobile: '地图' },
-    tickets:   { full: '票券优惠', mobile: '票券' },
-    spa:       { full: 'SPA 推荐', mobile: 'SPA' },
-    driver:    { full: '司机推荐', mobile: '司机' },
+    live:      { full: 'Bali Live',  mobile: 'Live' },
+    trip:      { full: '行程规划',   mobile: '行程' },
+    budget:    { full: '预算计算',   mobile: '预算' },
+    map:       { full: '攻略地图',   mobile: '地图' },
+    transport: { full: '交通选择',   mobile: '交通' },
+    visa:      { full: '签证入境',   mobile: '签证' },
+    driver:    { full: '司机推荐',   mobile: '包车' },
+    spa:       { full: 'SPA 推荐',   mobile: 'SPA'  },
+    tickets:   { full: '票券优惠',   mobile: '票券' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
   'zh-hk': {
-    live:      { full: 'Bali Live', mobile: 'Live' },
-    trip:      { full: '行程規劃', mobile: '行程' },
-    budget:    { full: '預算計算', mobile: '預算' },
-    transport: { full: '包車叫車', mobile: '包車' },
-    map:       { full: '攻略地圖', mobile: '地圖' },
-    tickets:   { full: '票券優惠', mobile: '票券' },
-    spa:       { full: 'SPA 推薦', mobile: 'SPA' },
-    driver:    { full: '司機推薦', mobile: '司機' },
+    live:      { full: 'Bali Live',  mobile: 'Live' },
+    trip:      { full: '行程規劃',   mobile: '行程' },
+    budget:    { full: '預算計算',   mobile: '預算' },
+    map:       { full: '攻略地圖',   mobile: '地圖' },
+    transport: { full: '交通選擇',   mobile: '交通' },
+    visa:      { full: '簽證入境',   mobile: '簽證' },
+    driver:    { full: '司機推薦',   mobile: '包車' },
+    spa:       { full: 'SPA 推薦',   mobile: 'SPA'  },
+    tickets:   { full: '票券優惠',   mobile: '票券' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
   'en': {
-    live:      { full: 'Bali Live', mobile: 'Live' },
-    trip:      { full: 'Itinerary',  mobile: 'Plan' },
-    budget:    { full: 'Budget',     mobile: 'Budget' },
-    transport: { full: 'Transport',  mobile: 'Ride' },
-    map:       { full: 'Map',        mobile: 'Map' },
-    tickets:   { full: 'Tickets',    mobile: 'Tickets' },
-    spa:       { full: 'SPA',        mobile: 'SPA' },
-    driver:    { full: 'Driver Rec', mobile: 'Driver' },
+    live:      { full: 'Bali Live',    mobile: 'Live'    },
+    trip:      { full: 'Itinerary',    mobile: 'Plan'    },
+    budget:    { full: 'Budget',       mobile: 'Budget'  },
+    map:       { full: 'Map',          mobile: 'Map'     },
+    transport: { full: 'Transport',    mobile: 'Transit' },
+    visa:      { full: 'Visa & Entry', mobile: 'Visa'    },
+    driver:    { full: 'Driver Rec',   mobile: 'Driver'  },
+    spa:       { full: 'SPA',          mobile: 'SPA'     },
+    tickets:   { full: 'Tickets',      mobile: 'Tickets' },
     newBadge:  'NEW',
     navLabel:  'Main features',
   },
 };
 
-// Normalize lang key: 'blog' and unknown langs fall back to zh-tw
 const normalizedLang = (lang in i18n) ? lang : 'zh-tw';
 const t = i18n[normalizedLang];
 
@@ -92,14 +99,23 @@ function isActive(url: string, l: string): boolean {
   const localized = localizedUrl(url, l);
   return pathname === localized || pathname.startsWith(localized);
 }
+
+function renderRow(items: readonly any[]) {
+  return items.map(item => {
+    const href = item.noLocalize ? item.url : localizedUrl(item.url, normalizedLang);
+    const active = isActive(item.url, normalizedLang);
+    const showNew = isNew(item.publishedAt);
+    return { item, href, active, showNew };
+  });
+}
+
+const row1Rendered = renderRow(row1);
+const row2Rendered = renderRow(row2);
 ---
 
 <nav class="top-strip" aria-label={t.navLabel}>
-  {items.map(item => {
-    const href = (item as any).noLocalize ? item.url : localizedUrl(item.url, normalizedLang);
-    const active = isActive(item.url, normalizedLang);
-    const showNew = isNew((item as any).publishedAt);
-    return (
+  <div class="strip-row">
+    {row1Rendered.map(({ item, href, active, showNew }) => (
       <a
         href={href}
         class={`strip-item${active ? ' active' : ''}${item.id === 'live' ? ' strip-live' : ''}`}
@@ -111,39 +127,59 @@ function isActive(url: string, l: string): boolean {
         }
         <span class="strip-label-full">{(t as any)[item.id].full}</span>
         <span class="strip-label-mobile">{(t as any)[item.id].mobile}</span>
-        {showNew && (
-          <span class="strip-badge">{t.newBadge}</span>
-        )}
+        {showNew && <span class="strip-badge">{t.newBadge}</span>}
       </a>
-    );
-  })}
+    ))}
+  </div>
+  <div class="strip-row strip-row--2">
+    {row2Rendered.map(({ item, href, active, showNew }) => (
+      <a
+        href={href}
+        class={`strip-item${active ? ' active' : ''}${item.id === 'live' ? ' strip-live' : ''}`}
+        aria-current={active ? 'page' : undefined}
+      >
+        {item.id === 'live'
+          ? <span class="live-rec" aria-hidden="true"><span class="live-dot"></span></span>
+          : <span aria-hidden="true">{item.icon}</span>
+        }
+        <span class="strip-label-full">{(t as any)[item.id].full}</span>
+        <span class="strip-label-mobile">{(t as any)[item.id].mobile}</span>
+        {showNew && <span class="strip-badge">{t.newBadge}</span>}
+      </a>
+    ))}
+  </div>
 </nav>
 
 <style is:global>
 .top-strip {
   display: flex;
-  align-items: stretch;
-  justify-content: center;
+  flex-direction: column;
   background: linear-gradient(90deg, #1e3a5f 0%, #2c5f7c 100%);
   position: sticky;
   top: 64px;
   z-index: 40;
+}
+
+.top-strip .strip-row {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
   overflow-x: auto;
   scrollbar-width: none;
   -ms-overflow-style: none;
-  min-height: 40px;
+  min-height: 36px;
 }
-
-.top-strip::-webkit-scrollbar {
-  display: none;
+.top-strip .strip-row::-webkit-scrollbar { display: none; }
+.top-strip .strip-row--2 {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
 }
 
 .top-strip .strip-item {
   display: flex;
   align-items: center;
   gap: 5px;
-  padding: 11px 16px;
-  font-size: 14px;
+  padding: 8px 16px;
+  font-size: 13px;
   color: rgba(255, 255, 255, 0.85);
   text-decoration: none;
   white-space: nowrap;
@@ -180,18 +216,16 @@ function isActive(url: string, l: string): boolean {
 }
 
 @media (max-width: 640px) {
-  .top-strip {
+  .top-strip .strip-row {
     justify-content: flex-start;
   }
   .top-strip .strip-item {
-    padding: 10px 12px;
-    font-size: 13px;
+    padding: 8px 11px;
+    font-size: 12px;
   }
-
   .top-strip .strip-label-full {
     display: none;
   }
-
   .top-strip .strip-label-mobile {
     display: inline;
   }
@@ -207,8 +241,8 @@ function isActive(url: string, l: string): boolean {
   flex-shrink: 0;
 }
 .top-strip .live-dot {
-  width: 9px;
-  height: 9px;
+  width: 8px;
+  height: 8px;
   border-radius: 50%;
   background: #ff3b3b;
   box-shadow: 0 0 6px 2px rgba(255, 59, 59, 0.55);
