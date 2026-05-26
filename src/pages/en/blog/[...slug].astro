@@ -68,6 +68,15 @@ rawEmbeds.forEach((e: any) => {
 // Debug: check if drivers data is available
 const driverData = (post.data as any).drivers;
 const isDriverGuideFlag = (post.data as any).isDriverGuide;
+
+// Log for debugging
+if (post.id === 'bali-private-car-drivers-guide') {
+  console.log('📌 Driver Guide Page Debug:');
+  console.log('  post.id:', post.id);
+  console.log('  post.data keys:', Object.keys(post.data));
+  console.log('  isDriverGuideFlag:', isDriverGuideFlag);
+  console.log('  driverData:', driverData);
+}
 ---
 
 <BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="en" slug={post.id} drivers={driverData} isDriverGuide={isDriverGuideFlag}>

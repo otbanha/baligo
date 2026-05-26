@@ -251,9 +251,14 @@ const driverSchemas = (isDriverGuide && Array.isArray(drivers) && drivers.length
   />}
 
   <!-- JSON-LD: Driver Guide - Person + LocalBusiness Schema for each recommended driver -->
-  {isDriverGuide && driverSchemas.length > 0 && driverSchemas.map((schema) => (
-    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
-  ))}
+  {isDriverGuide && (
+    <>
+      {driverSchemas.length > 0 && driverSchemas.map((schema) => (
+        <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+      ))}
+      {driverSchemas.length === 0 && <script type="application/ld+json">{"test": "drivers data not loaded"}</script>}
+    </>
+  )}
 </head>
 
 <body>
