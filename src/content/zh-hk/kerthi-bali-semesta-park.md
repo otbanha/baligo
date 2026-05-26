@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_213915c8980abeaf3106c8b0c9114d11.jpg'
 originalUrl: 'https://vocus.cc/article/68f9ad45fd897800017798ec'
 lang: zh-hk
-_srcHash: 173729ae83bd3708275c830742a979b4
+_srcHash: c822297e333a534c8b514bea79953418
 ---
 
 ## **派拉蒙影業進軍峇里島｜Kerthi Bali Semesta Park 預計 2026 年開幕**

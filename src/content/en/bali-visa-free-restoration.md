@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/6698f2b8fd89780001c73b58'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 8da20ee74e4c2b71d43928d1a39217a5
+_srcHash: 8db69edd723c9937d89795aabf81d466
 ---
 
 Indonesia's Minister of Tourism recently announced plans to push for legislative changes that would restore visa-free entry for visitors from 20 of the most frequent visiting countries. This news has garnered widespread attention, particularly among frequent visitors to Bali, who have expressed great anticipation and excitement.

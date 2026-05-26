@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/67875dbafd89780001aa4818'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 51a76e83dd3d811caec4dbf36f08f079
+_srcHash: f45eb816bb01446fbe1a04774e93d222
 ---
 
 文化旅遊係一種深入探索同體驗目的地獨特文化元素嘅旅遊方式。佢唔單止係觀光，更加係對當地歷史遺產、藝術、建築、音樂、民間傳說、傳統、語言同習俗嘅全面了解同互動。2025年，TripAdvisor根據全球旅客嘅評價同推薦，[選出了20個最佳文化旅遊目的](https://www.tripadvisor.com/TravelersChoice-Destinations-cCulture-g1)地。等我哋一齊嚟睇下呢啲令人嚮往嘅地方。

@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2fb8cb22a83dc08d9c39360989581ebb.jpg'
 originalUrl: 'https://vocus.cc/article/695f8a37fd897800019d57f4'
 lang: zh-cn
-_srcHash: bcee466640eed027cd3bd3a6e9c0ce4f
+_srcHash: 51fb0b620c89a9a9e247ed1850e8962d
 ---
 
 2026 年来巴厘岛，别再只跑咖啡馆了！真正懂玩的人，开始「Beach Club Jumping」🌊🍹

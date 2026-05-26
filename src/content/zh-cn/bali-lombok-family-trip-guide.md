@@ -5,6 +5,7 @@ description: >-
   感谢社团的宝贵资源，让我有机会吸取大家的经验与知识。这次我也想回馈一点自己的经历，分享我们一家四口2024年7月31日至8月25日的旅程，包含吉隆坡、巴厘岛、以及龙目岛（含Gili
   T岛）的行程。这是我人生中第一次整理行程与网友们分享，希望大家多多
 pubDate: '2024-11-05'
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_feef5a28d07f1ae085b35202fde6fb57.jpg'
 tags:
   - 峇里島旅遊
@@ -17,7 +18,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: zh-cn
-_srcHash: 0d8c6b179980e3c944c5071c9c1e7e44
+_srcHash: 10fb60b16b0a24b1940c2d0d122a6c8f
 ---
 
 > 以下内容改编自团友 [Libra Li](https://www.facebook.com/share/p/Fqg1HNg9asxLTJjd/) 分享游记：
@@ -78,7 +79,7 @@ Libra Li提供
 
 距离海滩步行约15分钟，是性价比非常高的住宿选择。
 
-[**▶Sara Residence订房链接**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=186649)
+[**▶Sara Residence订房链接**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=186649) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685291&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6xMTFJMEkdZqJ49zB5weYhZgNDUwMHjBabJV37D_0VSNGu8rBs1pknftDnQaHAJ6IKQeeT2NPvMuusLXzto9DFyMrWGAG4-uXmhsZZ80Egp0RDjsYWU4wPhFawHTv1ivGUyzMHKeZL7HsYoyuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg28TUUs_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBSEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLgswtgvIz8_Mgug1QxMISc0pTISqB9rmlQq0wrI19xMIUHfuJheEXC0MTK0MXKzNHD9MkIPlEaBcrn5mXkYeTt65hmK6Tqa7LBdYPIlKKhgYGBkampkbmugaJlhZJiQZGuiaWJsbGQMrMyMTUxFDjXtfjQ0-NjaylICGowKglGB_i6eliWFKYalZYaplTVGBqwHiKUcrQ3NjC0MjQ0MjIyNJYz8QizazYIq_YIjcrwoMxiM3C1NTR1SDKhos5NNhFsNCW6_piA2kHKeaQcBfFlTeZ1x6YcNpei9nTJcjw3n-WXG1lS_tAiy9i_O8tF9hHwuSTWKsydEPCM3rFCxgbGJm6GLkFGD0YIxgrgDzGVYzsXMwGJoYCLBsYGXcw_ocBxleMIEsA_fdKbUACAAA&masterhotelid_tracelogid=100025527-0a98ba02-494332-4624541&detailFilters=17|1~17~1*31|685291~31~685291*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=180&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/TxX6cCEc)
 
 ---
 
@@ -232,7 +233,7 @@ Libra Li提供
 
 **Villa Kayu Lama** 的早餐、午餐和晚餐都非常美味，且可以送到房间，这点非常方便！环境清幽优美，员工也都非常友善。孩子们也很喜欢这里的入住环境，酒店特别贴心地准备了儿童床和洗漱用品，服务相当周到。值得推荐！
 
-[**▶Villa Kayu Lama 订房链接**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=412155)
+[**▶Villa Kayu Lama 订房链接**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=412155) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=686886&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjM0MDAwNTQ2NdU1SLRMNDRPNtc1sTQxNjbWNTQ0tdTo-vf20FNjIwMtwfgQT08Xw5LCVLPCUsucogLTU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsTkaWri7mUXxSzCHhLoorbzKvPTDhtH0Sa1WGbkh4Rq84APkVUT-BAAAA&masterhotelid_tracelogid=100051355-0a9a17c7-494333-1159&detailFilters=17|1~17~1*31|686886~31~686886*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=560&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/L7k4Yr1C)
 
 ---
 

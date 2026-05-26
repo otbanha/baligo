@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6814d025fd89780001feaff6'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: bbccd6c4badc1740844b16faafac3c90
+_srcHash: 1338a6b26111c271ac1a206c6254ee2a
 ---
 
 ## 巴厘岛突发大停电，全岛陷入黑暗

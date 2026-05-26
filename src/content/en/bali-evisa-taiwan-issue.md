@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/684447cdfd89780001bb6bf8'
 category:
   - 簽證通關
 lang: en
-_srcHash: a1b07f1bd1639a5f9e7185a9738ea727
+_srcHash: 90fae024109567a35b9509dbd5a4485e
 ---
 ## Taiwan Got Harmonized Again
 

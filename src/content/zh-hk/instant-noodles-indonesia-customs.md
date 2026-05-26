@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/6662ff6dfd89780001183ec4'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 39c2eeb87958029f0564e18acf25e822
+_srcHash: 7cb5723226eb1c1ebf3015c4c7bb4bdb
 ---
 
 帶台灣即食麵去峇里島，特別係含有肉類嘅即食麵，係好多旅客關心嘅問題。即食麵唔單止係台灣人生活中嘅美味，更加係一種家鄉嘅味道。咁我哋可唔可以將呢啲美味帶上飛機，享受異國他鄉嘅同時都唔忘記台灣嘅滋味呢？呢篇文章將會詳細解答呢個問題。

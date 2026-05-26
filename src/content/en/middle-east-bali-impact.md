@@ -36,7 +36,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 25ced966ad23be0c8b08373febb99044
+_srcHash: 3d0c849479de4eef6466159072b7d541
 ---
 Have you noticed that flight prices seem to have quietly crept up recently?
 

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/68536a7afd89780001fcba80'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 0efda24a671a32ebe9123f8c4c2ab05b
+_srcHash: cefd762b6faacf6cf06116e6f8601292
 ---
 
 印尼移民局近日对外公布重大签证改革内容，旨在打击非法活动并简化签证流程。原本复杂的签证类别将进行合并，提供更清晰、统一的制度框架。

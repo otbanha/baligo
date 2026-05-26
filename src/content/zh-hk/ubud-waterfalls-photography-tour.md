@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/682f01fafd89780001c5425b'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 9adeed475453864ad7528cf3aee7575c
+_srcHash: 2dad4747b78569c1e697e1210a87ad44
 ---
 喺峇里島嘅前幾日，我哋入住咗「峇里島喜來登庫塔渡假村」（Sheraton Bali Kuta Resort），呢個地點實在太完美喇！落樓隔離就係超好行嘅Beachwalk Shopping Center，各種品牌店鋪同餐廳應有盡有，等我哋行到唔捨得走。更正嘅係，由酒店過條馬路就可以即刻到達庫塔海灘，我哋每日都喺度學滑浪，感受印度洋浪花嘅刺激。傍晚時分就由濱海嘅泳池欣賞到絕美嘅夕陽。入夜後漫步喺熱鬧嘅街道上，品嚐各式各樣嘅當地美食同國際料理。庫塔嘅夜生活等我哋體驗到峇里島年輕、充滿活力嘅一面。
 

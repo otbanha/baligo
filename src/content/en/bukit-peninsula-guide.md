@@ -26,7 +26,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_05a9ca325c235fc34066e54b056498c7.png'
 originalUrl: 'https://vocus.cc/article/67061b07fd897800012f87b5'
 lang: en
-_srcHash: 246be0be5428246b9c3c1d7a509ba374
+_srcHash: 0525e555296926748abde40f1698abd2
 ---
 
 Many may not have heard of Bali's 'Bukit Peninsula.' The simplest way to identify it is that everything south of Bali's international airport is part of the Bukit Peninsula.

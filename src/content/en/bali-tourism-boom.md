@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/67cfefe1fd89780001ce0c4e'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 17d7965e753baa1e84bb58d8f6bc5836
+_srcHash: 375b825383a25cb4be60979219cd9745
 ---
 
 Latest data released on March 8, 2025 shows that Bali's international tourism demand continues to rise even during the off-season.

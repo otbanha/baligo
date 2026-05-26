@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_997139cf653d2e06d7213660fbc2cde4.png'
 originalUrl: 'https://vocus.cc/article/68011484fd897800010d1643'
 lang: zh-cn
-_srcHash: 87bf006584fbf7a95fcddf6521a298bb
+_srcHash: 741b60dcfd2f1c77cb5904101e68d7e0
 ---
 
 ## 🌄 凌晨三点的巴厘岛冒险：我在吉普车顶迎接巴杜尔火山的第一道曙光

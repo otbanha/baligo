@@ -15,7 +15,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-cn
-_srcHash: 56b34f2a2724530f72997bd9042c12fd
+_srcHash: 20f9feeae0b2d20e4e0272bd368fc425
 ---
 
 ## 巴厘岛免签问题：印尼政府的态度与考量

@@ -17,7 +17,7 @@ tags:
 originalUrl: 'https://vocus.cc/article/68e786abfd89780001c1b9b7'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_45e08046ec421469e25833e462a90f5f.jpg'
 lang: en
-_srcHash: e72393b8ec630fe83071d506c6432503
+_srcHash: 8919a409a2668063c7d8313ef3ce71e6
 ---
 
 ## **Mount Batur Lake: Where Majesty Meets Serenity**

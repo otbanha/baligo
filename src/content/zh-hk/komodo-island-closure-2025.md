@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/669a4e3dfd89780001d51716'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: e69e1047677e66cd48cb2e5c7d302514
+_srcHash: 221585728bf972aee2b7899634324ebb
 ---
 
 科莫多國家公園（Taman Nasional Komodo，簡稱TNK）係世界著名嘅旅遊勝地，佢獨特嘅生態系統同稀有嘅科莫多巨蜥吸引咗無數遊客。不過，2025年TNK即將暫時關閉，引起咗廣泛嘅關注同討論。本文會深入探討TNK嘅關閉計劃同埋佢嘅影響。

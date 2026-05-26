@@ -32,7 +32,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_79df9229a3131a48507912ff8ed38f07.png'
 originalUrl: 'https://vocus.cc/article/689dcce7fd8978000125fc52'
 lang: en
-_srcHash: 50baa2bc95beb07e62e5f0f7c6687e86
+_srcHash: 3bad7174048fbb8f0847e5b571036f56
 ---
 
 ### **📢 Important Update! Starting August 18, 2025, Indonesia Fully Implements the 'All Indonesia' Arrival Card Declaration System**

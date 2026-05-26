@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/679f52c9fd89780001ec63b8'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: e8618d59c4f74fca0b4a004727a5fdcb
+_srcHash: 973d7c1dead6ef4e78e532c75615ddfd
 ---
 
 巴厘岛的努拉莱国际机场将于2025年迎来新一阶段的现代化升级。先进的安检设备已在雅加达成功实施，未来将使旅客的通过量从每小时200人提升至500人。这项升级不仅让旅客的安检过程更加快速，也让机场工作人员的效率大幅提升。

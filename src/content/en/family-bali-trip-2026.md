@@ -20,10 +20,11 @@ tags:
   - 峇里島旅遊攻略
   - 巴里島
   - 峇里島
+update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0347481a7fc74e3d809741abdcae7aa0.jpg'
 originalUrl: 'https://vocus.cc/article/6944cda7fd89780001d0907a'
 lang: en
-_srcHash: ecad95ee1ce6cc267203b5c6d86b02aa
+_srcHash: 3940a08f05b38c0a50e06cdd88e16061
 ---
 > The following travelogue is provided by [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/) and has been edited and revised with their permission.
 
@@ -139,7 +140,7 @@ Betty took us along the **Blue Cliff Road**, where the deep blue sea contrasted 
 
 - **Attractions**: Taman Safari Bali, Ayung River Rafting, Sukawati Market
 - **Dining**: Lunch at Joni's Garden Restaurant (Dirty Duck Rice), Dinner at Freddies Resort & Villas
-- **Accommodation**: [Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492)
+- **Accommodation**: [Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=24141779&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6wcTFJMEkdZGJY9GexSeYhJgNDYw0jrIYPGC02CrvuEOu9XXggxQHz2qRde4Pb2U6BPBETDnwfBp74nL73xOVnMwduhhZwQIzGC_vP8i9kZHr-uIC21fODjsYmU4wHmFfwLTx6nHuUyzMHDsZL7HsYoyuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DCVM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBSEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLgswtgvIz8_Mgug1QxMISc0pTISqB9rmlQq0wrI19xMIUHfuC5SjLJxaGXywMTawMXaxMHDmTWJk5jrDvYuW1NAoNdjHUNQzRjdI1vMB6lENK0dDAwMDI1NTIXNcg0dLY1MDQQtfE0sTYwFLXyMzExNDMSOPBgiOznhobWUtBAlGBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm6GJqZGRaZQNFzPQDYKFtsBIMJB2kGIOCXdRXHmTee2BCafttZg9XYIM7_1nydVWtrQPtPgixv_ecoF9JEw-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANm0y3ZGAgAA&masterhotelid_tracelogid=100025527-0a935018-494309-2644162&detailFilters=17|1~17~1*31|24141779~31~24141779*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=912&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Fma46mCo)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4a04261efc67f7ef8c6413d589e1ae9c.jpg)
 
@@ -153,7 +154,7 @@ Betty took us along the **Blue Cliff Road**, where the deep blue sea contrasted 
 
 - **Attractions**: Ubud Rafting, Penglipuran Village, Tegallalang Rice Terrace (Jungle Swing)
 - **Dining**: Lunch included with rafting, Dinner at iiga warung (BBQ Ribs)
-- **Accommodation**: [Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492)
+- **Accommodation**: [Freddies Resort & Villas Ubud by Kanaya Hospitality](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=23125492) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=24141779&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6wcTFJMEkdZGJY9GexSeYhJgNDYw0jrIYPGC02CrvuEOu9XXggxQHz2qRde4Pb2U6BPBETDnwfBp74nL73xOVnMwduhhZwQIzGC_vP8i9kZHr-uIC21fODjsYmU4wHmFfwLTx6nHuUyzMHDsZL7HsYoyuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DCVM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBSEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLgswtgvIz8_Mgug1QxMISc0pTISqB9rmlQq0wrI19xMIUHfuC5SjLJxaGXywMTawMXaxMHDmTWJk5jrDvYuW1NAoNdjHUNQzRjdI1vMB6lENK0dDAwMDI1NTIXNcg0dLY1MDQQtfE0sTYwFLXyMzExNDMSOPBgiOznhobWUtBAlGBUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm6GJqZGRaZQNFzPQDYKFtsBIMJB2kGIOCXdRXHmTee2BCafttZg9XYIM7_1nydVWtrQPtPgixv_ecoF9JEw-ibUqQzckPKNXvICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCLIEANm0y3ZGAgAA&masterhotelid_tracelogid=100025527-0a935018-494309-2644162&detailFilters=17|1~17~1*31|24141779~31~24141779*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=912&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Fma46mCo)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9896437fb78834627a8728b3cc73f5b5.jpg)
 

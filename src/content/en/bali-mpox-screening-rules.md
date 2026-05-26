@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/66c5f07efd8978000106373e'
 category:
   - 旅行技巧
 lang: en
-_srcHash: ea5985a32524c824e223cb643f6b3b2c
+_srcHash: 02066fea45b230d2a7974136fd643849
 ---
 
 ### Indonesia's Ministry of Health recently announced stricter screening procedures in Bali and other areas due to the global rise in Mpox (formerly known as monkeypox) cases. Mpox is a highly contagious virus, and everyone needs to be extra cautious.

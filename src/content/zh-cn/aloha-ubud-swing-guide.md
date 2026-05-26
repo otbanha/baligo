@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/669a60fffd89780001d61fb5'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 329895b9fec05e7f871561aab31a9005
+_srcHash: ac29014334951652c8638cf58984dba7
 ---
 
 Aloha Ubud Swing 是巴厘岛上一个独特而受欢迎的旅游景点，位于 Gianyar 县的德哥拉朗地区。这里不仅拥有令人惊叹的自然风光，还提供多种不同高度和类型的秋千供游客选择，成为拍摄美丽照片的理想地点。

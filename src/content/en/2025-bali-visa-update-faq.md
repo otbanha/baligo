@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/65a7f34dfd897800010017db'
 category:
   - 簽證通關
 lang: en
-_srcHash: 05e7e17b48adf5efe9687904235218a3
+_srcHash: f7d1b3c21dacfa2f8ac8658bc27e6afd
 ---
 Starting from January 7, 2024, the Indonesian government has assigned new codes to visa categories and introduced new types of tourist and business visas with varying durations of stay. There are a total of eight visa categories, including investment visas and retirement visas. For more details, read till the end.
 

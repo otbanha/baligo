@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/681f37a6fd897800015b6ab0'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 7522233bdc199d54eaa321a44cce3f7a
+_srcHash: 3e499d6fd19e701cf031ee79c26333d4
 ---
 
 ## **烏布美食節十週年：一場充滿故事嘅味蕾之旅**

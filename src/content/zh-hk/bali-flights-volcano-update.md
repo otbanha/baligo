@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6852983dfd89780001d2ebb4'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 58d43ed790e4162161ae2e73c6abeaba
+_srcHash: 703cc390559bcb91fd5269edba92aaff
 ---
 ### **⏰ 火山爆發詳情**
 

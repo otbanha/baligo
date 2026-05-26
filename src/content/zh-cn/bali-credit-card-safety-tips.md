@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/681e03f8fd89780001228bf8'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: ecdca9b421a45fa0638694ed491cf72c
+_srcHash: ed5b1e1363307a19b3c498d3bc0aeb3a
 ---
 
 ## **巴厘岛旅游，现金还是信用卡好？**

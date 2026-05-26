@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6785b417fd89780001890203'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 868c68ecbc3a771c7658486c94a01a71
+_srcHash: 8688b109e469f795464bf2a724febd7d
 ---
 
 Bali has been awarded the world's second most popular travel destination and Asia's top destination in [TripAdvisor's 2025 Travelers' Choice Awards](https://www.tripadvisor.com.au/TravelersChoice-Destinations).

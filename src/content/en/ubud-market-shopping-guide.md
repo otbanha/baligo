@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_738b83ec54d9ede94e81c6bed3827e2c.jpg'
 originalUrl: 'https://vocus.cc/article/69001b40fd8978000163d378'
 lang: en
-_srcHash: b506fa58b8773564c2bd6dfee75ea40c
+_srcHash: 86bcc967e9478e59cd911e2aa3688f78
 ---
 
 When it comes to the soul of Bali, **Ubud** is undoubtedly an unmissable cultural hub. Beyond its rice terraces, yoga, and artistic atmosphere, the Ubud Market is a place where every traveler lingers. Filled with handicrafts and local artworks, it’s impossible not to marvel at the Balinese love for detail and creativity as you wander through. Today, let’s explore what you should buy at the Ubud Market! 🌿

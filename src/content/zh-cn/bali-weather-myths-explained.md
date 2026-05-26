@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/67f65841fd897800017d3ea2'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 25b61d27d67a7b284e8c32cdc4d167cd
+_srcHash: 565270a1d96d8b21a27e93aaf8f26821
 ---
 
 不少朋友在规划巴厘岛行程时，一看到天气预报写「⚡雷阵雨 ☔ 降雨概率 60%」，就立刻惊呼：「惨了，我是不是选错时间去巴厘岛？整个假期都泡汤了？」

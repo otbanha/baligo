@@ -19,7 +19,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/aglSSIW2vZg'
 lang: zh-hk
-_srcHash: ffb2e518eef1ca1981d791d22ba0efb3
+_srcHash: ec8ce5f0eb581db5932763963cf33239
 ---
 
 上一集嘅坎古攻略我哋大概介紹咗坎古嘅樣貌，同埋點解坎古會成為峇里島最潮嘅地方。可以睇睇我哋嘅介紹喔：

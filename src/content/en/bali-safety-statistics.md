@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d087eaa7c2eeea2dd449b938c50e441c.png'
 originalUrl: 'https://vocus.cc/article/68d0d2bffd8978000169d78d'
 lang: en
-_srcHash: 8c737779a946010a79d207ab72ffb9cf
+_srcHash: 9ce005ca54f1a02ef068924360a95e62
 ---
 
 ## **Is Bali Safe? Latest Safety Data Revealed**

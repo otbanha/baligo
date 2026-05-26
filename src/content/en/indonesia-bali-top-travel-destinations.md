@@ -24,7 +24,7 @@ originalUrl: 'https://vocus.cc/article/67eb3c73fd89780001d0ee02'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 10b285d0f07613db4c722d9a8c9533d1
+_srcHash: 66a8f25dd0856f5e7518ab9d4c9a507c
 ---
 ## 15 Must-Visit Countries in a Lifetime: Why Does Indonesia's Bali Rank Third Globally?
 

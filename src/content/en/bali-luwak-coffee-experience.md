@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_52c318bfc1e555972da69f8824af8171.jpg'
 originalUrl: 'https://vocus.cc/article/679370fefd89780001df01e0'
 lang: en
-_srcHash: 511266568464d58908c5b8b24651ac6f
+_srcHash: 781fa7d2ea7ffa1b4c70cb903bdfa612
 ---
 
 > The following content is adapted from a travelogue shared by fellow traveler [I-Hsuan Chang](https://www.facebook.com/share/p/1A2YKPcp52/):

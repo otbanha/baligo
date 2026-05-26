@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_aa77bb3f2f0ffee906fdccf34ddbdbcc.jpg'
 originalUrl: 'https://vocus.cc/article/67d4f8e0fd897800017aca0f'
 lang: zh-hk
-_srcHash: 0999ef175f0abcee630fb394c52a205c
+_srcHash: b2c2087fd68d6c0c2af0d9874e5014b9
 ---
 想喺峇里島體驗一場與眾不同嘅歡樂時光？咁就千祈唔好錯過 **Beer on Wheels Bali**！呢個係一個將酒吧搬到車輪上嘅獨特體驗，讓遊客喺庫塔同雷吉安地區嘅街道上，一邊暢飲冰凍啤酒，一邊享受音樂同派對氛圍。無論係同朋友、家人定係獨自旅行，呢趟2小時嘅啤酒巴士之旅絕對會讓人愛上峇里島嘅活力與熱情！難得出國就癲一次啦！
 

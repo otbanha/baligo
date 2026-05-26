@@ -21,7 +21,7 @@ agoda_star_rating: 4
 latitude: -8.791134
 longitude: 115.17072
 lang: zh-cn
-_srcHash: 5b4f83793a6e5b928663be1edeb94d4b
+_srcHash: eab86047f05e74aa3bd412e438f2a152
 ---
 
 ## ✨**2024年全新开业的巴厘岛Villa，静谧山丘上的疗愈系奢华**

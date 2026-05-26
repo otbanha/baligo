@@ -26,10 +26,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_291e383b3042a6188cafc720cc574d50.png'
 originalUrl: 'https://vocus.cc/article/653914f6fd89780001fef733'
 lang: en
-_srcHash: 45fed4967d8ac5c1b85d02a3605b5204
+_srcHash: 8c70972cde777c0420b3499949e961ac
 ---
-
-update: 2026/05/21
 
 Bali's Ayana Bali is a massive resort complex beloved by tourists, spanning 90 hectares. Within this vast property, Ayana Bali offers a rich array of facilities and activities for an unforgettable vacation. The resort features 19 restaurants and bars, 14 different pools (see [all pool photos on the official website](https://www.ayana.com/bali/facilities/)), an 18-hole golf course, a kids' club, sunset yoga, the famous Rock Bar, a private beach, and of course, unparalleled ocean views!
 

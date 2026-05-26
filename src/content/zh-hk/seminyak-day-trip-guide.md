@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9d929150c54e9a96490136e18b3e11a.jpg'
 originalUrl: 'https://vocus.cc/article/669b1d59fd89780001def381'
 lang: zh-hk
-_srcHash: 54afd79e1573970a0d4b807452794a1a
+_srcHash: 0f19c2368a3d028c6560ede52e46f2eb
 ---
 坐落喺南部海岸，距離機場只係約30分鐘嘅水明漾，係美麗嘅海灘俱樂部、熱鬧嘅購物區同餐飲街嘅聚集地。喺呢度，都市生活同輕鬆嘅海灘氛圍以及豪華別墅度假相得益彰——呢個係島上最時尚、最潮流、最熱鬧嘅旅遊城鎮。
 

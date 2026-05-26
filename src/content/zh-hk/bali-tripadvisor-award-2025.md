@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6785b417fd89780001890203'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 868c68ecbc3a771c7658486c94a01a71
+_srcHash: 8688b109e469f795464bf2a724febd7d
 ---
 
 峇里島喺[TripAdvisor嘅2025年旅行者之選大獎](https://www.tripadvisor.com.au/TravelersChoice-Destinations)中榮獲世界第二熱門旅遊目的地，並成為2025年亞洲第一旅遊目的地。

@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/678466f6fd897800015271bb'
 category:
   - 旅行技巧
 lang: en
-_srcHash: f693c2970025953c75716908713a6cdf
+_srcHash: aa93e113ce8eb09b65af2bb793758ebe
 ---
 The Beauty of Bali
 

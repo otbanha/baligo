@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6698eaf2fd89780001c6d5d9'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: ee9be2110e65d93bca0f54ed3bb99970
+_srcHash: b10e03167b15309f9bde00d4256174ef
 ---
 
 ## **巴厘岛风筝节简介**

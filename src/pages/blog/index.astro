@@ -6,6 +6,7 @@ import Footer from '../../components/Footer.astro';
 import ChatBot from '../../components/ChatBot.astro';
 import BaliTicketTable from '../../components/BaliTicketTable.astro';
 import ExchangeRateWidget from '../../components/ExchangeRateWidget.astro';
+import ForumRecentReplies from '../../components/ForumRecentReplies.astro';
 import BaliWeather from '../../components/BaliWeather.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
 import { getCollection, render } from 'astro:content';
@@ -346,6 +347,9 @@ const socialLinks = [
             <span class="qg-desc">景點、住宿、餐廳互動地圖</span>
           </a>
         </div>
+
+        <!-- 最新討論回覆 -->
+        <ForumRecentReplies lang="zh-tw" />
 
         <!-- 每日參考匯率 -->
         <ExchangeRateWidget lang="zh-tw" />

@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c4ccb85aed4e875424812c7fbb5670da.jpg'
 originalUrl: 'https://vocus.cc/article/64e8910efd89780001248a09'
 lang: en
-_srcHash: 5ec327945d16719baf6c3787d128cbc0
+_srcHash: 8845dc32b1c932b92ddf20ff76169d78
 ---
 
 Bali, this popular tourist destination with its beautiful beaches, rich culture, and serene atmosphere, attracts countless visitors. However, with the rise of remote work, more and more people are hoping to both vacation and work in this paradise-like place. Fortunately, Bali offers some options for you to enjoy your time here while maintaining work efficiency.

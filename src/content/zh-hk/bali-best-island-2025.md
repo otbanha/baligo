@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_aedded69cfc0a0491d4ce96e712a3589.jpg'
 originalUrl: 'https://vocus.cc/article/6863ccb0fd8978000142a65c'
 lang: zh-hk
-_srcHash: f85f897bc76cd055e6af17870e4762ed
+_srcHash: b7980c266edab5a648cb08a4abd6a085
 ---
 呢座來自印尼嘅小島，早已唔係單純嘅度假地點，而係讓人一去再去、再訪仍驚艷嘅靈感之地。今次一齊上榜嘅仲有泰國嘅蘇美島同普吉島、越南嘅富國島、菲律賓嘅巴拉望同錫亞高島等知名旅遊勝地，但峇里島依然脫穎而出。咁，佢嘅魅力到底喺邊度？
 

@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a05b96220031b2f342c15e8724929028.jpg'
 originalUrl: 'https://vocus.cc/article/6631b966fd89780001eb74d2'
 lang: zh-cn
-_srcHash: d56d6cc101ba338c25268ab87573775a
+_srcHash: d42d5a2de79bf6f7674d68733c231b66
 ---
 
 Youtuber 「天堂鸟」入住巴厘岛最受欢迎的Ayana度假村，并在她的YouTube视频中跟大家分享Ayana度假村拥有的14个游泳池之中的六个绝美泳池。她的视频展示了这些泳池的独特风格和美丽景观，吸引了众多观众的目光和赞赏。这些泳池不仅仅是游泳和放松的场所，更是拍摄美丽照片和创造难忘回忆的绝佳去处。

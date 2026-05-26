@@ -4,6 +4,7 @@ title: 巴厘岛亲子游六大亮点 & 景点推荐
 description: >-
   这次的巴厘岛亲子自由行旅游对我们一家四口来说，是一次充满惊喜与感动的旅程。身为一个已经第四次踏上这片美丽土地的旅人，我们依然能够在这里找到新的乐趣与感动...
 pubDate: '2024-09-09'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_665788e465bdd16779eede7aab3fe8d5.jpg'
 tags:
   - 峇里島親子
@@ -16,7 +17,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: zh-cn
-_srcHash: 0cc47e25c99e380ef43663144ff0bbc7
+_srcHash: 48e4fa0cb2a8759e34da07b49dfbdf57
 ---
 
 > 以下内容由团友 [林小昭](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) 提供给我们重新编排：
@@ -81,7 +82,7 @@ _srcHash: 0cc47e25c99e380ef43663144ff0bbc7
 
 我们在乌布入住的Rijasa Agung酒店，坐落在阿勇河畔，每天早上醒来就能听到潺潺的溪水声，让人感到无比的放松。这里的温度适宜，家庭房配有私人泳池、花园和发呆亭，空间宽敞到目测超过300坪，性价比超高，让我们一家都感到无比满意。
 
-[**▶Rijasa Agung Resort and Villas 房价 & 空房查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341)
+[**▶Rijasa Agung Resort and Villas 房价 & 空房查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744536&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/c79DvepT)
 
 已收录在[【巴厘岛乌布住宿】乌布28家特色住宿，体验巴厘岛山林美景中的奇幻之旅！](/blog/ubud-villas-pool-guide/)
 

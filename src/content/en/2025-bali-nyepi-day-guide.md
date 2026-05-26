@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/658f8575fd89780001a35141'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 1e68613255533e40432f10c76be6d3b8
+_srcHash: 939750c164d692d97598fface14977bb
 ---
 
 In January 2025, Bali welcomed an unprecedented surge of tourists during the Christmas and New Year holidays, followed by the Lunar New Year travel boom in late January and February. Bali's festivals are vibrant and diverse, and March is no exception. On March 29, 2025, Bali will observe Nyepi (Day of Silence), a day of complete island-wide silence, which is also a national holiday in Indonesia.

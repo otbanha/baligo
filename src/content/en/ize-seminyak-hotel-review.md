@@ -24,6 +24,7 @@ tags:
   - 巴厘岛水明漾精品酒店推荐 2026
   - IZE Seminyak rooftop pool
   - Best value design hotel in Seminyak Bali
+update: 2026/05/22
 heroImage: ''
 originalUrl: ''
 private: false
@@ -35,7 +36,7 @@ agoda_star_rating: 4
 latitude: -8.68421363830566
 longitude: 115.161010742188
 lang: en
-_srcHash: d518d08c985cb47ea08036a1acf86f77
+_srcHash: cc056c6a3f444ee414f8f7dab52d0e9d
 ---
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776244520574-954a1216262b0375452a8286fe715ba5.webp)
@@ -171,6 +172,6 @@ A few points worth noting. First, most of the lounging areas around the rooftop 
 ## 📌 Booking Information
 
 > Rating: Tripadvisor 4.0/5 (2,274 reviews) ⭐ | Agoda Overall Score 8.7 / Location 9.3
-> 👉 Check latest rates & availability: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=337808) | [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=982037&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-M6ysTFJMEktY-Jo2Hmhx4mIWZDAyONoywGDxgttso7Bu2Qa30dWebg2X_oq0ZMdrVDAM8Mxqk_rDcyftOI6T_kGuKwg5HpBOOhqa4LmF6fe8V4ioWF48ATnkssexmjq5WyUyuVrEx0lEoyS3JSlayUni6a97Rhz_MVrUo6SimpxclAISArMTe_NK8EyDYysDQxN9IzMAAKliRWeKaANScn5iSX5iSWpIZUFgANMdJRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgiCji6D8zPw8iG4DFLGwxJzSVIhKoH1uqVArDGtjH7EwRce-YDnK8omF4RcLQxMrQxcrwyRWFg6gT3ex8vpa-kf6hekahuhG6RpeYF00NUhK0dDAwMDI1NTIXNcg0dLCKNXIQtfE0sTQwFDX1NjM0szYRGPFm95tj4yNTBQYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWxgaGRoaGRlZGuuZWKSZFVvkFVvkZkV4MAaxOTtbGDpbRtlwMYcGuwgu2mL-45CKtIMUs6dLkGLdA5aO2gRLey0QzxDGC2R6d2nbnxe89pEwkSTWqgzdkPCMDrECxgZGpi5GbgFGD8YIxgogj3EVIzsXs4GRoQDTBkbGHYz_YYDxFSPIWAB82CY7LAIAAA&masterhotelid_tracelogid=100025527-0a982e28-494101-5369634&detailFilters=17|1~17~1*31|982037~31~982037*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=616&isCT=true&isFlexible=F&isFirstEnterDetail=T&locale=zh-TW&isRightClick=T&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16944909)
+> 👉 Check latest rates & availability: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=337808) [Booking](https://booking.tpm.li/uGVpUopY) | [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=982037&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-M6ysTFJMEktY-Jo2Hmhx4mIWZDAyONoywGDxgttso7Bu2Qa30dWebg2X_oq0ZMdrVDAM8Mxqk_rDcyftOI6T_kGuKwg5HpBOOhqa4LmF6fe8V4ioWF48ATnkssexmjq5WyUyuVrEx0lEoyS3JSlayUni6a97Rhz_MVrUo6SimpxclAISArMTe_NK8EyDYysDQxN9IzMAAKliRWeKaANScn5iSX5iSWpIZUFgANMdJRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgiCji6D8zPw8iG4DFLGwxJzSVIhKoH1uqVArDGtjH7EwRce-YDnK8omF4RcLQxMrQxcrwyRWFg6gT3ex8vpa-kf6hekahuhG6RpeYF00NUhK0dDAwMDI1NTIXNcg0dLCKNXIQtfE0sTQwFDX1NjM0szYRGPFm95tj4yNTBQYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWxgaGRoaGRlZGuuZWKSZFVvkFVvkZkV4MAaxOTtbGDpbRtlwMYcGuwgu2mL-45CKtIMUs6dLkGLdA5aO2gRLey0QzxDGC2R6d2nbnxe89pEwkSTWqgzdkPCMDrECxgZGpi5GbgFGD8YIxgogj3EVIzsXs4GRoQDTBkbGHYz_YYDxFSPIWAB82CY7LAIAAA&masterhotelid_tracelogid=100025527-0a982e28-494101-5369634&detailFilters=17|1~17~1*31|982037~31~982037*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=616&isCT=true&isFlexible=F&isFirstEnterDetail=T&locale=zh-TW&isRightClick=T&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16944909)
 
 {{block:smk}}

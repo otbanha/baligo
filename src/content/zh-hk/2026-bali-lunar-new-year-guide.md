@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1cd864d35a9c59653bd10f1073ea58ac.png'
 originalUrl: 'https://vocus.cc/article/65a211a1fd89780001cfcd58'
 lang: zh-hk
-_srcHash: 2a3ed224336cf3c12fcffd3e714019bc
+_srcHash: 344656cbae59cfc3b45e564426233ed8
 ---
 
 農曆新年係峇里島嘅熱門旅遊旺季，每年都會吸引來自世界各地嘅遊客前來度假，尤其係喺東亞呢一帶，將農曆新年當作一年之中唯一長假嘅國家。

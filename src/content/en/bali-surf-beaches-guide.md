@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_072768a98cc9dfc8bf4b4bca8e2f8b39.jpg'
 originalUrl: 'https://vocus.cc/article/66236818fd89780001389aaa'
 lang: en
-_srcHash: a18c6ed3fc3043acc2221915e64784b8
+_srcHash: fbaae30bf608f8b213677c848ede4c0f
 ---
 
 For many, learning to surf is a dream, and it must be said that Bali is possibly one of the best places in the world to learn surfing.

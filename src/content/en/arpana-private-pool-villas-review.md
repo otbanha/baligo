@@ -26,7 +26,7 @@ agoda_star_rating: 4
 latitude: -8.791134
 longitude: 115.17072
 lang: en
-_srcHash: 5b4f83793a6e5b928663be1edeb94d4b
+_srcHash: eab86047f05e74aa3bd412e438f2a152
 ---
 
 ## ✨**Newly Opened Bali Villa in 2024: Healing Luxury on a Tranquil Hill**

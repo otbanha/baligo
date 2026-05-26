@@ -26,7 +26,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_54fd431cfc274e4e0093c3fd351bb395.jpg'
 originalUrl: 'https://vocus.cc/article/64db7fc2fd897800013d367c'
 lang: en
-_srcHash: 7fe41ae4f18aaba8a2a69fe5c4779680
+_srcHash: d35dc3f6d5c532892b1be87310101fc4
 ---
 
 If you're planning an unforgettable vacation in beautiful Seminyak, you can't miss this specially curated guide map. Below, we introduce Seminyak's shopping guide, upscale dining, affordable eats, entertainment options, and spa recommendations, showcasing this vibrant resort destination.

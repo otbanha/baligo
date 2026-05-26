@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3576b4757a6d3a5deaef795069cc866f.jpg'
 originalUrl: 'https://vocus.cc/article/6718dcb7fd897800013bcb4e'
 lang: zh-hk
-_srcHash: b3bd87a21585d4ad9f46a2f6e8fd4263
+_srcHash: 4ca7e36ce4b2e0e171bf09290dec6f02
 ---
 
 以下內容改編自團友 [Feilin Huang](https://www.facebook.com/share/p/15fgq7Bt9T/) 分享嘅遊記：

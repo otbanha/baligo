@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/64db6b6dfd897800013a930e'
 category:
   - 住宿推薦
 lang: en
-_srcHash: 36924f1b6eb9b1c0376c9155482e5881
+_srcHash: 2ce6c4337f380c75f60867fe8416403a
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8e97326ae5f053b47236d054dbe99d42.jpg)

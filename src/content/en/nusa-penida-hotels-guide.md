@@ -18,10 +18,11 @@ tags:
   - 巴厘岛佩尼达岛酒店
   - 努沙佩尼达自由行
   - Nusa Penida accommodation guide
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d8ab044a198844bec62c51e0a0d26d91.jpg'
 originalUrl: 'https://vocus.cc/article/65c8e2dffd89780001346aa9'
 lang: en
-_srcHash: 5955a8d67fd2e67d31e94e42d01acdb0
+_srcHash: 5bc6296b205b1f03b8c5d1bbcbb40340
 ---
 
 We have a total of five episodes introducing Nusa Penida - let's dive deeper into this island paradise! Here are links to the other four episodes:
@@ -125,7 +126,7 @@ For adventurous couples, the resort offers unparalleled opportunities to explore
 
 Looking for a more luxurious experience? Opt for a private pool suite, offering extra space, a sunbathing area, private pool, and enchanting forest views.
 
-> ▶[Agoda Room Availability & Booking](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=12145599)｜[Trip.com Room Availability & Booking](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=53497492&checkIn=2025-09-26&checkOut=2025-09-29&adult=2&children=0&subStamp=546&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-NawczFJMEkxMTBKDWXmWPap2ubWIU4TQ3MLA1NTA2MDBq5LGbZOcb0H_qqsanXwTMNBD6vcgjgKWQAgYZMh0mMwZzr3B9WicSlOgiCBRmSHJTEOX437bEQaGSU-N-xdDWjAqPFQfEghigGJXkFFk2IqkAHQxjD4hlnEAvHqX2cUQxOrBzL3qxinMQYSk1TNRhpZC4T1NwZjFPmHpTcyNj6OnCH3PYmhx2MTCcYV65tZVzANH3jQoVdTKwcn440sBxiYuGY2RhyionhEhPDLSaGR0D-vd0yr5gYPjEx_GKCmNXEzNDFzDCJmYVjc4PMLGawVYuYGaR4TZJTkwxMLCwSzVKMjBWENOb8nHGMzciaA-hgLcH4EE9PF8OSwlSzwlLLnKICUwOgZ5k8vE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFWDFLMbp5MAexOTsZmDg6R2lxMYcGuwhabjlRtq9exkGK2dMlSNH8joWzQoONvRaIZwjjJbFWZeh6eGfMES5g7GLkEGD0YIxgrGB8xQhS9QMcHACDFr9OXQIAAA&subChannel=&masterhotelid_tracelogid=4ceb0488a6d23&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&isFirstEnterDetail=T&locale=zh-HK&isRightClick=T&Allianceid=6817581&SID=242041353&trip_sub1=&trip_sub3=D5373363)
+> ▶[Agoda Room Availability & Booking](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=12145599) [Booking](https://booking.tpm.li/3tFPqiDE)｜[Trip.com Room Availability & Booking](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=53497492&checkIn=2025-09-26&checkOut=2025-09-29&adult=2&children=0&subStamp=546&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-NawczFJMEkxMTBKDWXmWPap2ubWIU4TQ3MLA1NTA2MDBq5LGbZOcb0H_qqsanXwTMNBD6vcgjgKWQAgYZMh0mMwZzr3B9WicSlOgiCBRmSHJTEOX437bEQaGSU-N-xdDWjAqPFQfEghigGJXkFFk2IqkAHQxjD4hlnEAvHqX2cUQxOrBzL3qxinMQYSk1TNRhpZC4T1NwZjFPmHpTcyNj6OnCH3PYmhx2MTCcYV65tZVzANH3jQoVdTKwcn440sBxiYuGY2RhyionhEhPDLSaGR0D-vd0yr5gYPjEx_GKCmNXEzNDFzDCJmYVjc4PMLGawVYuYGaR4TZJTkwxMLCwSzVKMjBWENOb8nHGMzciaA-hgLcH4EE9PF8OSwlSzwlLLnKICUwOgZ5k8vE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFWDFLMbp5MAexOTsZmDg6R2lxMYcGuwhabjlRtq9exkGK2dMlSNH8joWzQoONvRaIZwjjJbFWZeh6eGfMES5g7GLkEGD0YIxgrGB8xQhS9QMcHACDFr9OXQIAAA&subChannel=&masterhotelid_tracelogid=4ceb0488a6d23&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&isFirstEnterDetail=T&locale=zh-HK&isRightClick=T&Allianceid=6817581&SID=242041353&trip_sub1=&trip_sub3=D5373363)
 
 ### 【West】Atalaya Villas Nusa Penida: Honeymoon Paradise (📌[Map](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing))
 
@@ -321,7 +322,7 @@ Sea view rooms come with comfortable beds, Wi-Fi, private entrances, and bathroo
 
 Semabu Hills Hotel is not only ideal for couples but also perfect for group travel. The multi-bed villas and a variety of activities ensure an unforgettable holiday experience with friends.
 
-> ▶[Check Availability & Book on Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2347321)
+> ▶[Check Availability & Book on Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2347321) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=9230603&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLS0MDc0M9U1sTQxNgRSxgZmhhrXvn9Z8tTYyEBLMD7E09PFsKQw1ayw1DKnqMD0FKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbm4mxk5F5FJ8Uc0i4i-LKm8xrD0w4bZ_EWpWhGxKe0SsOAAZmdf-CAAAA&masterhotelid_tracelogid=100051355-0a987165-494315-43061&detailFilters=17|1~17~1*31|9230603~31~9230603*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=494&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/FrEKvwkt)
 
 ### 【Central】Mountain View Retreat: Dayuh House
 

@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6727b9f6f57b7ae2c320641b63c0569c.jpg'
 originalUrl: 'https://vocus.cc/article/68578b01fd89780001dd5208'
 lang: zh-hk
-_srcHash: 41fea2158d09e6929c6cfe768197c0c8
+_srcHash: 09520482ec352ac27c081fb8996cde4e
 ---
 
 ## 峇里島火山壯景同寧靜海岸嘅完美結合

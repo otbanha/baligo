@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65ebd5ecfd89780001cf6c8b'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: a13840c16bd59cce7a40af59dd496df3
+_srcHash: ed69fb225aeb4e1ce83becb04006be05
 ---
 
 在巴厘岛别相信Google地图！巴厘岛是一个令人向往的度假胜地，但是对于依赖Google地图寻找路线的游客来说，可能会遇到一些挑战。这里有两个主要的原因，让你在计划旅程时要谨慎对待Google地图。

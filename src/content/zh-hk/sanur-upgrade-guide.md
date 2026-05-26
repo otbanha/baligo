@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d27bcc8d17bb47c63b07984562154e9c.jpg'
 originalUrl: 'https://vocus.cc/article/698d771afd89780001418f97'
 lang: zh-hk
-_srcHash: 40ffcbe7a461304d3c254c1627bf4b38
+_srcHash: 458b493b55e9d5f3c2b0837bc93d1e66
 ---
 提到峇里島嘅海灘度假區，好多人第一個諗到嘅係庫塔，但其實**沙努爾先係峇里島最早發展嘅海濱度假區**。佢低調、優雅、唔張揚，但一直穩穩地存在。
 

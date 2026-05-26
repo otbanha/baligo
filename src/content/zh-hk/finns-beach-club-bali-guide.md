@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4aab973c6b3ad4880871fbc537f1780b.jpg'
 originalUrl: 'https://vocus.cc/article/66ac90cbfd89780001db4d0e'
 lang: zh-hk
-_srcHash: ccd87ce01869078eba4a65a73390aa66
+_srcHash: e548a37523b87e493395390a76d1217e
 ---
 
 Finns Beach Club位於峇里島嘅坎古地區，呢度有壯麗嘅海景同無與倫比嘅日落美景。呢個海灘俱樂部結合咗現代設施同自然美景，為遊客提供咗一個完美嘅度假場所。無論你想享受陽光，定係尋找刺激嘅水上運動，Finns都可以滿足你嘅需求。

@@ -29,7 +29,7 @@ tags:
 heroImage: ''
 originalUrl: 'https://vocus.cc/article/65708c78fd89780001f418c2'
 lang: en
-_srcHash: d47b6f01ec9efabd2a8c84c26d278099
+_srcHash: bdc4f56276aab84ce29badae2379976f
 ---
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775559929868-bali-4033395_960_720.jpeg)

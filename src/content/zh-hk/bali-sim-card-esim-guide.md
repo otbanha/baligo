@@ -43,7 +43,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1779239656304-sim.jpg'
 originalUrl: ''
 updatedDate: 2026-05-18T00:00:00.000Z
 lang: zh-hk
-_srcHash: 5333d926b20c1db79dd635fca58db5b4
+_srcHash: a67bca31e81baf1ebe1623fa49aa9c65
 ---
 
 ## 30 秒搵到你嘅方案

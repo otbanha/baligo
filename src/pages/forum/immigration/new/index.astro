@@ -1,0 +1,471 @@
+---
+import BaseHead from '../../../../components/BaseHead.astro';
+import Header from '../../../../components/Header.astro';
+import TopStrip from '../../../../components/TopStrip.astro';
+import Footer from '../../../../components/Footer.astro';
+
+const supabaseUrl  = import.meta.env.PUBLIC_SUPABASE_URL;
+const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead
+    title="發起討論 — 簽證/入境討論區 | Go Bali Go"
+    description="在峇里島簽證入境討論區發起新討論，分享你的問題或經驗。"
+    noSuffix
+  />
+  <meta name="robots" content="noindex, nofollow" />
+</head>
+<body>
+  <Header lang="blog" />
+  <TopStrip lang="zh-tw" />
+
+  <main class="new-post-page">
+    <div class="np-container">
+      <div class="np-header">
+        <a href="/forum/immigration/" class="np-back">← 返回討論區</a>
+        <h1 class="np-title">發起新討論</h1>
+        <p class="np-subtitle">選擇主題分類，填寫標題與內容，送出後等待審核即可公開顯示</p>
+      </div>
+
+      <div id="auth-gate" style="display:none" class="np-auth-gate">
+        <div class="gate-icon">💬</div>
+        <p>請先登入才能發起討論</p>
+        <a href="/forum/login/?next=/forum/immigration/new/" class="btn-login">使用 Google 登入</a>
+      </div>
+
+      <form id="post-form" style="display:none" class="np-form" novalidate>
+        <div id="form-error" class="form-error" style="display:none"></div>
+        <div id="form-success" class="form-success" style="display:none">
+          <span class="success-icon">✓</span>
+          <div>
+            <strong id="success-title">討論已成功提交！</strong>
+            <p id="success-desc">審核通過後將公開顯示，通常在 24 小時內完成。</p>
+            <a href="/forum/immigration/" class="btn-back-list">返回討論區</a>
+          </div>
+        </div>
+
+        <div class="np-field">
+          <label for="topic">討論主題分類 <span class="required">*</span></label>
+          <select id="topic" name="topic" required class="np-select">
+            <option value="">請選擇主題</option>
+            <option value="evisa">電子簽證問題</option>
+            <option value="voa">落地簽問題</option>
+            <option value="aiac">AIAC 入境卡問題</option>
+            <option value="tourism-tax">旅遊稅問題</option>
+            <option value="other">其他入境問題</option>
+          </select>
+        </div>
+
+        <div class="np-field">
+          <label for="title">標題 <span class="required">*</span></label>
+          <input
+            type="text"
+            id="title"
+            name="title"
+            maxlength="100"
+            required
+            placeholder="簡短描述你的問題或想分享的內容"
+            class="np-input"
+          />
+          <span class="np-char-count"><span id="title-count">0</span>/100</span>
+        </div>
+
+        <div class="np-field">
+          <label for="content">內容 <span class="required">*</span></label>
+          <textarea
+            id="content"
+            name="content"
+            rows="8"
+            maxlength="3000"
+            required
+            placeholder="詳細說明你的問題、經歷或建議。資訊越具體，越能幫助其他旅客。"
+            class="np-textarea"
+          ></textarea>
+          <span class="np-char-count"><span id="content-count">0</span>/3000</span>
+        </div>
+
+        <div class="np-field">
+          <label>附圖（選填，最多 3 張）</label>
+          <div class="upload-zone" id="upload-zone">
+            <input type="file" id="image-input" accept="image/jpeg,image/png,image/webp" multiple class="upload-input" />
+            <div class="upload-placeholder">
+              <span class="upload-icon">📷</span>
+              <p>點擊或拖曳上傳照片</p>
+              <p class="upload-hint">JPG / PNG / WebP，每張最大 5MB，自動壓縮至 500KB</p>
+            </div>
+          </div>
+          <div id="image-previews" class="image-previews"></div>
+          <div id="upload-progress" class="upload-progress" style="display:none">
+            <div class="progress-bar"><div id="progress-fill" class="progress-fill"></div></div>
+            <span id="progress-text" class="progress-text">上傳中⋯</span>
+          </div>
+        </div>
+
+        <div class="np-submit-row">
+          <button type="submit" id="submit-btn" class="btn-submit">送出討論</button>
+          <p class="np-disclaimer">送出後將進入審核佇列，通過後即可公開顯示。個人資料受隱私政策保護。</p>
+        </div>
+      </form>
+    </div>
+  </main>
+
+  <Footer />
+</body>
+</html>
+
+<script define:vars={{ supabaseUrl, supabaseAnon }}>
+import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ createClient }) => {
+  const supabase = createClient(supabaseUrl, supabaseAnon, {
+    auth: { flowType: 'pkce', persistSession: true },
+  });
+
+  // --- Auth gate ---
+  supabase.auth.getSession().then(({ data: { session } }) => {
+    if (session) {
+      document.getElementById('post-form').style.display = 'flex';
+    } else {
+      document.getElementById('auth-gate').style.display = 'flex';
+    }
+  });
+
+  supabase.auth.onAuthStateChange((_event, session) => {
+    if (session) {
+      document.getElementById('post-form').style.display = 'flex';
+      document.getElementById('auth-gate').style.display = 'none';
+    } else {
+      document.getElementById('post-form').style.display = 'none';
+      document.getElementById('auth-gate').style.display = 'flex';
+    }
+  });
+
+  // --- Char counters ---
+  const titleInput   = document.getElementById('title');
+  const contentInput = document.getElementById('content');
+  titleInput.addEventListener('input',   () => { document.getElementById('title-count').textContent   = titleInput.value.length; });
+  contentInput.addEventListener('input', () => { document.getElementById('content-count').textContent = contentInput.value.length; });
+
+  // --- Image upload ---
+  const MAX_IMAGES = 3;
+  const MAX_BYTES  = 500 * 1024;
+  let imageFiles   = [];
+
+  const uploadZone     = document.getElementById('upload-zone');
+  const imageInput     = document.getElementById('image-input');
+  const imagePreviewEl = document.getElementById('image-previews');
+
+  imageInput.addEventListener('change', e => handleFiles(Array.from(e.target.files)));
+  uploadZone.addEventListener('dragover',  e => { e.preventDefault(); uploadZone.classList.add('drag-over'); });
+  uploadZone.addEventListener('dragleave', ()  => uploadZone.classList.remove('drag-over'));
+  uploadZone.addEventListener('drop', e => {
+    e.preventDefault();
+    uploadZone.classList.remove('drag-over');
+    handleFiles(Array.from(e.dataTransfer.files));
+  });
+
+  async function handleFiles(files) {
+    const slots = MAX_IMAGES - imageFiles.length;
+    const toAdd  = files.filter(f => f.type.startsWith('image/')).slice(0, slots);
+    for (const file of toAdd) {
+      const compressed = await compressImage(file);
+      imageFiles.push({ file: compressed, url: URL.createObjectURL(compressed) });
+    }
+    renderPreviews();
+  }
+
+  async function compressImage(file) {
+    return new Promise(resolve => {
+      const img = new Image();
+      const objUrl = URL.createObjectURL(file);
+      img.onload = () => {
+        URL.revokeObjectURL(objUrl);
+        const MAX_DIM = 1920;
+        let { width, height } = img;
+        if (width > MAX_DIM || height > MAX_DIM) {
+          const r = Math.min(MAX_DIM / width, MAX_DIM / height);
+          width = Math.round(width * r); height = Math.round(height * r);
+        }
+        const canvas = document.createElement('canvas');
+        canvas.width = width; canvas.height = height;
+        canvas.getContext('2d').drawImage(img, 0, 0, width, height);
+        const attempt = q => canvas.toBlob(blob => {
+          if (blob.size <= MAX_BYTES || q <= 0.3) {
+            resolve(new File([blob], file.name.replace(/\.\w+$/, '.webp'), { type: 'image/webp' }));
+          } else { attempt(q - 0.1); }
+        }, 'image/webp', q);
+        attempt(0.85);
+      };
+      img.src = objUrl;
+    });
+  }
+
+  function renderPreviews() {
+    imagePreviewEl.innerHTML = '';
+    imageFiles.forEach((item, i) => {
+      const wrap = document.createElement('div');
+      wrap.className = 'preview-item';
+      const img = document.createElement('img');
+      img.src = item.url; img.alt = `預覽 ${i + 1}`;
+      const btn = document.createElement('button');
+      btn.type = 'button'; btn.className = 'preview-remove'; btn.textContent = '✕';
+      btn.addEventListener('click', () => {
+        URL.revokeObjectURL(item.url);
+        imageFiles.splice(i, 1);
+        renderPreviews();
+      });
+      wrap.append(img, btn);
+      imagePreviewEl.appendChild(wrap);
+    });
+    imageInput.value = '';
+    // Show/hide zone
+    uploadZone.style.display = imageFiles.length >= MAX_IMAGES ? 'none' : 'block';
+  }
+
+  async function uploadImages(userId) {
+    if (imageFiles.length === 0) return [];
+    const progressWrap = document.getElementById('upload-progress');
+    const progressFill = document.getElementById('progress-fill');
+    const progressText = document.getElementById('progress-text');
+    progressWrap.style.display = 'block';
+
+    const urls = [];
+    for (let i = 0; i < imageFiles.length; i++) {
+      const { file } = imageFiles[i];
+      const path = `posts/${userId}/${Date.now()}-${i}.webp`;
+      progressText.textContent = `上傳照片 ${i + 1}/${imageFiles.length}⋯`;
+      progressFill.style.width = `${Math.round(i / imageFiles.length * 100)}%`;
+
+      const { error } = await supabase.storage.from('report-images').upload(path, file, { contentType: 'image/webp', upsert: false });
+      if (error) throw new Error(`圖片上傳失敗：${error.message}`);
+
+      const { data: { publicUrl } } = supabase.storage.from('report-images').getPublicUrl(path);
+      urls.push(publicUrl);
+    }
+    progressFill.style.width = '100%';
+    progressText.textContent = '上傳完成';
+    return urls;
+  }
+
+  // --- Form submission ---
+  const formError   = document.getElementById('form-error');
+  const formSuccess = document.getElementById('form-success');
+  const submitBtn   = document.getElementById('submit-btn');
+
+  function showError(msg) {
+    formError.textContent = msg;
+    formError.style.display = 'block';
+    formError.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+  }
+  function hideError() { formError.style.display = 'none'; }
+
+  document.getElementById('post-form').addEventListener('submit', async (e) => {
+    e.preventDefault();
+    hideError();
+
+    const topic   = document.getElementById('topic').value;
+    const title   = titleInput.value.trim();
+    const content = contentInput.value.trim();
+
+    if (!topic)   { showError('請選擇討論主題分類'); return; }
+    if (!title)   { showError('請填寫標題'); return; }
+    if (title.length < 5) { showError('標題至少需要 5 個字元'); return; }
+    if (!content) { showError('請填寫內容'); return; }
+    if (content.length < 10) { showError('內容至少需要 10 個字元'); return; }
+
+    submitBtn.disabled = true;
+    submitBtn.textContent = '送出中⋯';
+
+    try {
+      const { data: { session } } = await supabase.auth.getSession();
+      if (!session) {
+        window.location.href = '/forum/login/?next=/forum/immigration/new/';
+        return;
+      }
+
+      // 查詢用戶信任狀態
+      const { data: profile } = await supabase
+        .from('user_profiles')
+        .select('approved_count, is_banned')
+        .eq('id', session.user.id)
+        .single();
+      const isTrusted = (profile?.approved_count ?? 0) >= 1 && !profile?.is_banned;
+
+      const imageUrls = await uploadImages(session.user.id);
+
+      const { error } = await supabase.from('posts').insert({
+        user_id: session.user.id,
+        topic,
+        title,
+        content,
+        image_urls: imageUrls,
+        moderation_status: 'pending', // server trigger 會自動覆寫為 approved（若已信任）
+      });
+      if (error) throw new Error(error.message);
+
+      // 依信任狀態顯示不同成功訊息
+      if (isTrusted) {
+        document.getElementById('success-title').textContent = '討論已即時發布！';
+        document.getElementById('success-desc').textContent = '你是通過審核的信任用戶，貼文已立即公開顯示。';
+      }
+
+      // Show success — hide form fields
+      document.querySelectorAll('.np-field, .np-submit-row').forEach(el => el.style.display = 'none');
+      formSuccess.style.display = 'flex';
+      formSuccess.scrollIntoView({ behavior: 'smooth' });
+
+    } catch (err) {
+      showError(`提交失敗：${err.message}`);
+      submitBtn.disabled = false;
+      submitBtn.textContent = '送出討論';
+    }
+  });
+});
+</script>
+
+<style>
+.new-post-page { padding: 2rem 1rem 4rem; }
+.np-container  { max-width: 640px; margin: 0 auto; }
+
+.np-header { margin-bottom: 2rem; }
+.np-back { font-size: .9rem; color: var(--ocean); text-decoration: none; display: inline-block; margin-bottom: .8rem; }
+.np-back:hover { color: var(--gold); }
+.np-title    { font-size: 1.6rem; font-weight: 800; color: var(--ocean); margin: 0 0 .4rem; }
+.np-subtitle { font-size: .9rem;  color: var(--text-light); margin: 0; }
+
+/* Auth gate */
+.np-auth-gate {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 3rem 2rem;
+  background: #fafaf8;
+  border: 1px solid rgba(201,168,76,.2);
+  border-radius: 12px;
+  text-align: center;
+}
+.gate-icon { font-size: 2.5rem; }
+.btn-login {
+  display: inline-block;
+  background: var(--ocean);
+  color: #fff;
+  padding: .65rem 1.5rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .95rem;
+}
+.btn-login:hover { background: #1a3a6a; }
+
+/* Form */
+.np-form { display: flex; flex-direction: column; gap: 1.3rem; }
+
+.form-error {
+  background: #fff5f5;
+  border: 1px solid #fca5a5;
+  color: #c53030;
+  padding: .75rem 1rem;
+  border-radius: 8px;
+  font-size: .9rem;
+}
+.form-success {
+  display: flex;
+  align-items: flex-start;
+  gap: 1rem;
+  background: #f0fdf4;
+  border: 1px solid #86efac;
+  color: #166534;
+  padding: 1.2rem;
+  border-radius: 12px;
+}
+.success-icon { font-size: 1.8rem; }
+.form-success strong { display: block; margin-bottom: .25rem; }
+.form-success p { margin: 0 0 .8rem; font-size: .88rem; }
+.btn-back-list {
+  display: inline-block;
+  color: var(--ocean);
+  text-decoration: none;
+  font-weight: 600;
+  font-size: .9rem;
+}
+
+/* Fields */
+.np-field { display: flex; flex-direction: column; gap: .35rem; }
+
+.np-field label { font-size: .9rem; font-weight: 600; color: var(--text); }
+.required { color: #c53030; }
+
+.np-input, .np-select, .np-textarea {
+  border: 1px solid #d1c9b5;
+  border-radius: 8px;
+  padding: .6rem .85rem;
+  font-size: .95rem;
+  font-family: inherit;
+  color: var(--text);
+  background: #fff;
+  transition: border-color .15s;
+  width: 100%;
+  box-sizing: border-box;
+}
+.np-input:focus, .np-select:focus, .np-textarea:focus {
+  outline: none;
+  border-color: var(--ocean);
+  box-shadow: 0 0 0 3px rgba(26,58,93,.1);
+}
+.np-textarea { resize: vertical; min-height: 160px; line-height: 1.6; }
+.np-char-count { font-size: .75rem; color: var(--text-light); text-align: right; }
+
+/* Upload */
+.upload-zone {
+  border: 2px dashed #d1c9b5;
+  border-radius: 12px;
+  padding: 1.5rem 1rem;
+  text-align: center;
+  cursor: pointer;
+  transition: border-color .15s, background .15s;
+  position: relative;
+}
+.upload-zone:hover, .upload-zone.drag-over { border-color: var(--ocean); background: rgba(26,58,93,.03); }
+.upload-input {
+  position: absolute; inset: 0;
+  opacity: 0; cursor: pointer;
+  width: 100%; height: 100%;
+}
+.upload-icon { font-size: 1.8rem; display: block; margin-bottom: .4rem; }
+.upload-placeholder p { margin: .15rem 0; font-size: .9rem; color: var(--text); }
+.upload-hint { font-size: .75rem; color: var(--text-light); }
+
+.image-previews { display: flex; flex-wrap: wrap; gap: .6rem; margin-top: .7rem; }
+.preview-item { position: relative; width: 90px; height: 90px; }
+.preview-item img { width: 100%; height: 100%; object-fit: cover; border-radius: 8px; border: 1px solid rgba(201,168,76,.2); }
+.preview-remove {
+  position: absolute; top: -6px; right: -6px;
+  width: 20px; height: 20px;
+  background: #ef4444; color: #fff;
+  border: none; border-radius: 50%;
+  font-size: .65rem; cursor: pointer;
+  display: flex; align-items: center; justify-content: center;
+}
+.upload-progress { margin-top: .7rem; }
+.progress-bar { height: 5px; background: #e5e7eb; border-radius: 3px; overflow: hidden; }
+.progress-fill { height: 100%; background: var(--ocean); transition: width .3s; width: 0; }
+.progress-text { font-size: .78rem; color: var(--text-light); margin-top: .3rem; display: block; }
+
+/* Submit */
+.np-submit-row { display: flex; flex-direction: column; align-items: flex-start; gap: .7rem; padding-top: .3rem; }
+.btn-submit {
+  background: var(--ocean);
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: .75rem 2rem;
+  font-size: 1rem;
+  font-weight: 700;
+  cursor: pointer;
+  transition: background .15s, opacity .15s;
+}
+.btn-submit:hover:not(:disabled) { background: #1a3a6a; }
+.btn-submit:disabled { opacity: .55; cursor: not-allowed; }
+.np-disclaimer { font-size: .78rem; color: var(--text-light); margin: 0; line-height: 1.5; }
+</style>

@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5276a5cd990c91278a453346f478d041.jpg'
 originalUrl: 'https://vocus.cc/article/6707c8e2fd897800014d3db5'
 lang: zh-hk
-_srcHash: 8af66c5198cff3c930245f9fbe2ae556
+_srcHash: bbe68083b406376a254f57c3009ae971
 ---
 喺峇里島，水唔單止係生命之源，更加係神聖嘅元素。對於峇里島人嚟講，泉水被稱為"Tirta"，係維持一切存在嘅賦予生命同淨化嘅力量。Tirta喺幾乎所有宗教儀式中都扮演著重要角色，人們相信佢可以淨化思想、身體同精神，清除負面能量，並帶來祝福。
 

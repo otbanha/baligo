@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 846cf2cbf53a986fe893073104de4597
+_srcHash: 22b2951cc1ad8e5da7b68207f8ed0c2d
 ---
 峇里島一直係全球旅人嘅天堂，但最近計劃去呢座夢幻島嶼嘅朋友要留意喇。印尼移民局近期發佈咗重要嘅簽證規則更新，針對持有「旅遊簽證」嘅遊客，喺當地嘅活動範圍有咗更嚴格同細緻嘅定義。
 

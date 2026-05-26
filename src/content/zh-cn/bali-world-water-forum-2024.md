@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/660cf362fd89780001da676b'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 9807432481970dd0386e7d6e62977adf
+_srcHash: 547dc1f0ffba5963c85b09ba3e9ff1a8
 ---
 
 一个超大型的国际会议「世界水论坛 (World Water Forum)」将于2024年5月在巴厘岛举办。会议预计将有44位国家元首及其代表团前来,共有5万多名代表与会,讨论与水资源相关的各种议题,包括水安全、减灾、治理、融资和创新等。

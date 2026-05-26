@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6ea1825f6240c42ce7116522fa0683e4.jpg'
 originalUrl: 'https://vocus.cc/article/6833e882fd89780001853b1d'
 lang: en
-_srcHash: 23a49929f10d93bafe00f0cb0d68bbdc
+_srcHash: 7352cd0a308cdc471d170daf910cbb2a
 ---
 
 ## **When Ultimate Relaxation in Bali Becomes an Art Form**

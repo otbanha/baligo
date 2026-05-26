@@ -15,7 +15,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 4d02a2e34519c1bc0df9c3874756fcc6
+_srcHash: e30372f8b396c00192a43ce28f277701
 ---
 
 【Current USD Exchange Rate: 16,800】

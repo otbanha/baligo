@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/65b6e533fd89780001f51eaf'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 27ed4c8f6afccd88796f66049338f188
+_srcHash: edbfe3b4962ccc1acc1b3ae66696e20e
 ---
 
 If you visit Bali, don't miss the Kecak Fire Dance performance! It's an unforgettable experience!

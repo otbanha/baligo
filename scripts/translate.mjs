@@ -116,13 +116,18 @@ function md5(text) {
   return createHash('md5').update(text).digest('hex');
 }
 
-// Hash only translatable content — strip image lines, heroImage, and slug so that
-// bulk image URL updates and slug renames don't invalidate the cache.
+// Hash only translatable content — strip non-translatable metadata so that
+// updates to images, slug, dates, or update marker don't invalidate the cache.
+// IMPORTANT: when changing this function, also update scripts/migrate-src-hash.mjs
+// and run `node scripts/migrate-src-hash.mjs` to re-sync all translation _srcHash,
+// otherwise the next translation run will re-translate all files unnecessarily.
 function contentHash(text) {
   const stripped = text
     .replace(/^heroImage:.*$/m, 'heroImage: __img__')
     .replace(/^slug:.*$/m, 'slug: __slug__')
-    .replace(/^update:\d{4}\/\d{2}\/\d{2}\s*$/gm, '')
+    .replace(/^update:.*$/m, 'update: __update__')
+    .replace(/^pubDate:.*$/m, 'pubDate: __pubDate__')
+    .replace(/^updatedDate:.*$/m, 'updatedDate: __updatedDate__')
     .replace(/^!\[.*?\]\(.*?\)\s*$/gm, '');
   return md5(stripped);
 }

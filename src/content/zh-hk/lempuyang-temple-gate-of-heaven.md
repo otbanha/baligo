@@ -19,10 +19,8 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1779102196901-lempuyang.pn
 originalUrl: 'https://vocus.cc/article/64db6b72fd897800013a9475'
 updatedDate: 2026-05-18T00:00:00.000Z
 lang: zh-hk
-_srcHash: 02c76ecc47a0fa693a63109999912bee
+_srcHash: 6a5763d482ed5051de46aaf1c9c309ea
 ---
-
-update:2026/05/18
 
 嗰張天空之門倒影照，係用手機螢幕影出嚟嘅——唔係真正嘅水面反射。呢個唔係批評，而係你出發前就應該知嘅事，咁你先可以決定要花兩個鐘排隊等攝影師，定係朝早七點入去直接影門框後面嘅阿貢火山。
 

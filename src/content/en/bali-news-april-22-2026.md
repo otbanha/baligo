@@ -15,7 +15,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: a79ea1f3491e5105f7a47ef4f1d87893
+_srcHash: 98990c60b4c171336a55c5b337d4f7ea
 ---
 
 [Today's USD Exchange Rate: 16,725]([Bali Currency Exchange Guide](/blog/bali-currency-exchange-guide/))

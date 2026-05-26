@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/6698f2b8fd89780001c73b58'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 8da20ee74e4c2b71d43928d1a39217a5
+_srcHash: 8db69edd723c9937d89795aabf81d466
 ---
 
 印尼旅遊部長最近宣布，計劃推動立法變更，讓來自二十個最常到訪印尼嘅國家恢復免簽待遇。呢個消息引起咗廣泛關注，特別係對於嗰啲經常到訪峇里島嘅遊客嚟講，更加受到極大嘅關注同期待。

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/687ee2c2fd89780001d111bf'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: ff6f26d394b6f35615045212f90b1ba2
+_srcHash: a8dfcbcffb4a23f3279fa83b9deeadb1
 ---
 
 巴厘岛最受观光客与冲浪爱好者欢迎的乌鲁瓦图 Bingin Beach，即将迎来重大变革。政府宣布，超过 40 栋在该区域的建筑物因违法占地及违反空间规划规定，从 2025 年 7 月 21 日起进行强制拆除。

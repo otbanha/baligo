@@ -6,6 +6,7 @@ import TopStrip from '../../../components/TopStrip.astro';
 import Footer from '../../../components/Footer.astro';
 import ChatBot from '../../../components/ChatBot.astro';
 import ExchangeRateWidget from '../../../components/ExchangeRateWidget.astro';
+import ForumRecentReplies from '../../../components/ForumRecentReplies.astro';
 import BaliWeather from '../../../components/BaliWeather.astro';
 import { getCollection, render } from 'astro:content';
 import featuredData from '../../../featured.json';
@@ -222,6 +223,9 @@ const socialLinks = [
             <span class="qg-desc">Interactive map of all 13 regions</span>
           </a>
         </div>
+
+        <!-- Latest Forum Replies -->
+        <ForumRecentReplies lang="en" />
 
         <!-- Daily Exchange Rate -->
         <ExchangeRateWidget lang="en" />

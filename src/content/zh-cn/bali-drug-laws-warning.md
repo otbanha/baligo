@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65f8dca4fd89780001b57754'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 3ac5656ac7e9cb4c0055010cf1993879
+_srcHash: fbca60f7d401353a3690ceac4c4e3650
 ---
 
 印尼是一个对毒品问题采取极端严厉态度的国家，而巴厘岛作为其著名的旅游胜地也不例外。毒品在这里被视为极大的社会问题，印尼政府采取了严格的法律措施来打击毒品犯罪活动。

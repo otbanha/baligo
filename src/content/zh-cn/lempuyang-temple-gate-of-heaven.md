@@ -19,10 +19,8 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1779102196901-lempuyang.pn
 originalUrl: 'https://vocus.cc/article/64db6b72fd897800013a9475'
 updatedDate: 2026-05-18T00:00:00.000Z
 lang: zh-cn
-_srcHash: 02c76ecc47a0fa693a63109999912bee
+_srcHash: 6a5763d482ed5051de46aaf1c9c309ea
 ---
-
-update:2026/05/18
 
 那张天空之门倒影照，是用手机屏幕拍出来的——不是真正的水面反射。这不是批评，这是你在出发前就该知道的事，这样你才能决定要花两小时排队等摄影师，还是早上七点进去直接拍门框后的阿贡火山。
 

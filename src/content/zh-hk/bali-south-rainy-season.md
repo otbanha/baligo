@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6cb63d911d81b443322718ad53493ea0.png'
 originalUrl: 'https://vocus.cc/article/670fc5b2fd89780001cea7ee'
 lang: zh-hk
-_srcHash: f01a914c1931dbeda96050a623835692
+_srcHash: 0147a0b5b1b2eacfad00da0219bd3aa8
 ---
 
 諗起峇里島，好多人腦海入面浮現嘅係陽光、沙灘同埋滑浪嘅景象。但係作為熱帶地區，峇里島都有佢獨特嘅雨季。今日就等我哋嚟探討下峇里島南部地區嘅雨季降雨情況。

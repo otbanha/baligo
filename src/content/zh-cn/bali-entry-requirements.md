@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/686902bafd89780001e3f490'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 65bf46c9f63a6826a4ca5ecbe92c34f3
+_srcHash: d14804d66e40d80fe516e62a69d550bb
 ---
 
 想去巴厘岛度假，或即将踏上印尼的旅游旅程？别忘了除了订好机票和住宿，还有几份**重要的入境文件**需要提前准备。这些文件若未事先完成，不仅可能耽误登机，也可能在入境时面临困难。

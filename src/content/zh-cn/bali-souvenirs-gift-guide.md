@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/664dcf84fd8978000131e5f4'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: b5ec0650821a7a672fe9f1eab35f90bd
+_srcHash: 979f962ba6ca5177f069525b9f55d66e
 ---
 
 异国的旅行买些伴手礼纪念品，是让这段宝贵的回忆永存的方式。当你来到美丽的巴厘岛，不仅可以享受绝美的海滩和独特的文化，还能带回各式各样的伴手礼，与家人朋友分享这趟难忘的旅程。

@@ -33,10 +33,11 @@ tags:
   - Sanur boutique hotel list
   - Where to stay in Sanur
   - Sanur port nearby hotels
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1dc5937d167ac366de84aa8ea3cc0baa.jpg'
 originalUrl: 'https://vocus.cc/article/66c3e440fd897800014425a8'
 lang: zh-hk
-_srcHash: 690da9f5e47b7bac60c54909d1f3b89f
+_srcHash: 70054365511507e90ccf6a15a6fa1058
 ---
 
 大多數沙努爾酒店位於熱鬧嘅市中心附近或者沙努爾長達8公里嘅美麗海灘上。安靜、悠閒嘅小鎮、實惠嘅酒店價格以及優秀嘅海灘令沙努爾成為峇里島上最適合家庭同經濟型旅行者嘅住宿選擇之一。
@@ -80,7 +81,7 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 **評價 |** Maya Sanur 嘅服務非常出色，員工成日都面帶笑容，提供個性化嘅服務。一個小例子就係，有一次我哋因為行程安排而錯過咗自助早餐，第二日工作人員主動關心我哋嘅行程，咁嘅客戶服務實在令人印象深刻。此外，度假村每日4-5點提供嘅下午茶亦係一大亮點。
 
-> ➡️[**Maya Sanur Resort＆Spa 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=802899)
+> ➡️[**Maya Sanur Resort＆Spa 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=802899) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1701927&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NqZeFikmCS-sfMsW_rlRtsQoxGBgeFLI6XOmrG9B_6eqTLwdPjYZXIuskTHAJ4IqYceD6NPZGzSz753ZFAhy5GVrDADMblH9I3Ms6aCQSdmQ47GJlOMB5WW8D07Nsk9VMszBxb2C-xfGWKrlbKTq1UsjLRUSrJLMlJVbJSejan92n3zBebdivpKKWkFicDhYCsxNz80rwSINvE3ETPwAAoUpJY4ZmiZGWuo5ScmJNcmpNYkhpSWQA0wUxHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGCyr5AY0pggpk5udBtBugiIUl5pSmQpwAtNAtFWqHca0OpsufLpr3tGHP8xWtxLnchNouNyTG5Ya1sY9YmKJjP7Ew_GJhaGJl6GJl5jjFNAlIHlbbxcoR7O_hZhqoa3iBtVdTStHQwMDAyNTUyFzXINHSwjAl0VDXxNLEyNJU19DCyMjI2ERjWd_kpqfGRtZSkGhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoCNRmaaxnYpFmVmyRV2yRmxXhwRjEZmRoYWniFmXDxezpEiR47z9Lrraypb0Uc0i4i2KQS1vonomn7bVAcoYwuUCLL2L87y0X2EfC5JNYqzJ0Q8IzesULGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDTAeCEt3LsAgAA&masterhotelid_tracelogid=100025527-0a981da1-494295-1822234&detailFilters=17|1~17~1*31|1701927~31~1701927*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=880&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/besePtbt)
 
 ### **Seascape Resort Sanur By Ini Vie Hospitality – 豪華蜜月嘅理想選擇**
 
@@ -126,7 +127,7 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 **評價**｜Hyatt有Sanur最靚而乾淨嘅沙灘，充足而舒服嘅躺椅，精緻嘅早餐，規劃完善嘅庭園，親切有禮嘅服務人員，佢係貨真價實嘅五星酒店。
 
-> ➡️ [**Hyatt Regency Bali 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5500759)
+> ➡️ [**Hyatt Regency Bali 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5500759) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=3787919&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqYuFikmCSambh6F235T6rEKORwWRmi2Ydx8NfNWL6J0x08Nwh1_o6sHaqQwBPxJQDz6exJ3J2ySe_OxLo0MXIChaYwdg_8znjRsZ17g-rRNLyHXYwMp1g_Ga4gGnP6bPcp1iYOfo4L7F8ZYquVspOrVSyMtFRKsksyUlVslJ6Nqf3affMF5t2K-kopaQWJwOFgKzE3PzSvBIg28zQUM_AAChSkljhmaJkZa6jlJyYk1yak1iSGlJZADTBTEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLKvkBjSmCCmTm50G0G6CIhSXmlKZCnAC00C0VaodxrQ6my58umve0Yc_zFa3YXW5qaoricpMBcblhbewjFqbo2E8sDL9YGJpYGbpYmTlOMU0Ckt8Md7Hy-Hv6GAY46RrqRukaXmA9YCIlb2hgYGBqaGxqqmuQaGmRbGycomtiaWJkaaprZG5sYqSxdNfMpqfGRtZSkJhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxObm4mxpZhJlw8UcGuwi2H8ImNT0pR2kmEPCXRSDXNpC90w8ba_F7OkSZHjvP0uutrKlfaDFFzH-95YL7CMfpMdYCEw6bZ_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEWQIAfuTixfYCAAA&masterhotelid_tracelogid=100051355-0a98c33d-494295-27342&detailFilters=17|1~17~1*31|3787919~31~3787919*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/UPTglrJK)
 
 ### **Andaz Bali – a Concept by Hyatt – 沙努爾最豪華嘅五星級酒店之一**
 
@@ -149,7 +150,7 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 **旅客評價**｜我哋鍾意外面帶梳化嘅陽台、我哋鍾意單點早餐、免費單車租借、房入面嘅咖啡機、酒店嘅花園。從我哋進入酒店嘅一刻起，佢令我哋感到放鬆。兒童俱樂部好正！我哋七歲嘅小朋友好鍾意
 
-> ➡️ [**Andaz Bali 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=13801598)
+> ➡️ [**Andaz Bali 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=13801598) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=58756252&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqZuFikmCSamHh6Hjfc49ViNHIYDKzRbOO46yZQBA338Hzm0ZM_yGJxQ4BPBFTDjyfxp7I2SWf_O5IoEMXIytYYAbjnJlNMhsZPR5WiazzrnbYwch0gvFmxAKmB0feyp5iYeZ4w3-J5RtTdLVSdmqlkpWJjlJJZklOqpKV0rM5vU-7Z77YtFtJRykltTgZKARkJebml-aVANmGBmZGegYGQKGSxArPFCUrcx2l5MSc5NKcxJLUkMoCoBFmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdAEUsLDGnNBXiBqCFbqlQO4xrdTCd_nTRvKcNe56vaMXudEszMxSXmwyIyw1rYx-xMEXHfmJh-MXC0MTK0MXKzHGKaRKQvBmxi5XH3zzK18JA11A3StfwAuviaClFQwMDAyNTUyNzXYNES2NTA0MLXRNLEyNLU10jI0NjAxMTjZevFjY9NTayloJEvgKjlmB8iKeni2FJYapZYallTlGBqQHjKUYpQ3NjC0MjQ0MjIyNLYz0TizSzYou8YovcrAgPxiA2MydLS0vjKBsu5tBgF8H-Q181YvSlHaSYQ8JdFINc2kL3TDxtrwWSM4TJBVp8EeN_b7nAPvJBeoyFwKTT9kmsVRm6IeEZveIFjA2MTF2M3AKMHowRjBVAHuMqRnYuZgMjQwGmDYyMOxj_wwDjK0aQJQAd60Wk-QIAAA&masterhotelid_tracelogid=100025527-0a935018-494295-2213044&detailFilters=17|1~17~1*31|58756252~31~58756252*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1566&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/qQTxjp1T)
 
 ### **Griya Santrian a Beach Resort – 沙努爾最好嘅海灘酒店之一**
 
@@ -172,7 +173,7 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 **評價｜**客人話好鍾意喺佢哋優美嘅庭院散步，上樓有電梯搭，海灘嘅佈置好好。旅館門口就有幾間商店同餐廳。
 
-> ➡️ [**Griya Santrian a Beach Resort 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10336)
+> ➡️ [**Griya Santrian a Beach Resort 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10336) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685091&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxMLFJMEk1c3CsXTJrZNsQsyGBkYGj9gsLhg6Xl9cYMul3e7gefirRkz_oR6HAJ6IKQeeT2NP5OyST353JNChi5EVLDCDcfELzRWMjBsZ17k_rBKJS3PYwch0gJHpBONWxQVMdyessz_Fwsyxj-0Sy1em6Gql7NRKJSsTHaWSzJKcVCUrpWdzep92z3yxabeSjlJKanEyUAjISszNL80rAbJNDE31DAyAIiWJFZ4pSlbmOkrJiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLsBilhYYk5pKsQJQAvdUqF2GNfqYLr86aJ5Txv2PF_RSpzLTajtckNiXG5YG_uIhSk69hMLwy8WhiZWhi5WZo5TTJOA5FbFXay8wa4Rxv7huoYhulG6hhdY_ytLKRoaGBgYmZoamesaJFpaGJmkpuqaWJoYWZrqGpkYGBqZmWt8-76i6amxkbUUJAUoMGoJxod4eroYlhSmmhWWWuYUFZgaMJ5ilDI0N7YwNDI0NDIysjTWM7FIMyu2yCu2yM2K8GAMYnM2MbV0c4qy4WIODXYR7D8ETGn60g5SzCHhLopBLm2heyaettdi9nQJMrz3nyVXW9nSPtDiixj_e8sF9pEP0mMsBCadtk9ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMbJzMRsYGQowbWBk3MH4HwYYXzGCLAEA6DBSVgADAAA&masterhotelid_tracelogid=100025527-0a9824ee-494295-2401267&detailFilters=17|1~17~1*31|685091~31~685091*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=375&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/PAFloKEn)
 
 ### **The Pavilions Bali – Sanur提供私人泳池嘅豪華別墅**
 
@@ -195,7 +196,7 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 **評價｜**鬧區中嘅綠洲，喺入面非常安靜祥和。房間好大，早餐同晚餐嘅品質非常好！
 
-> ➡️ [**The Pavilions Bali 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2739)
+> ➡️ [**The Pavilions Bali 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2739) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981697&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oaz8LFJMEkNYOFY_ODVT1sQuyGpmYGhgZGGhv5DK6xWdxzdew_9FUjxrjLwbNaZJ37Q6sJDgE8EVMOPJ_GnuhV3azvcyTQoYuRFSwwg_HgV-sVjIwbGWfNBALOTIcdjEwHGJlOMF5TXcB0fPpktlMszByL2C-xfGWKrlbKTq1UsjLRUSrJLMlJVbJSejan92n3zBebdivpKKWkFicDhYCsxNz80rwSINvEzFTPwAAoUpJY4ZmiZGWuo5ScmJNcmpNYkhpSWQA0wUxHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGCyr5AY0pggpk5udBtBugiIUl5pSmQpwAtNAtFWqHca0OpsufLpr3tGHP8xWtxLnchNouNyTG5Ya1sY9YmKJjX7Bs5PvEwvCLhaGJlaGLlZnjFNMkIHlNdRcrf5ChpZl3kG64WaSrbpSu4QXWidpSioYGBgZGpqZG5roGiZYWyUZpFromlibGxoa6hhaWZmZmhhrT3_cceGpsZC0FSQcKjFqC8SGeni6GJYWpZoWlljlFBaYGjKcYpQzNjS0MjQwNjYyMLI31TCzSzIot8ootcrMiPBiD2NwMDYxNDaJsuJhdQ4MEH-hOWPBjoryDFHNIuIviypvMaw9MOG2vxezpEmR47z9LrraypX2gxRcx_veWC-wjYfJJrFUZuiHhGb3iBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkCUAm5bZQA0DAAA&masterhotelid_tracelogid=100025527-0a98c2f8-494331-1896661&detailFilters=17|1~17~1*31|981697~31~981697*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=715&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/hFealG24)
 
 ### Sudamala Suites & Villas **– 最具峇里風格的酒店**
 
@@ -218,7 +219,7 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 **評價**｜我已經喺Sudamala住過好幾次，佢從來冇令人失望過。佢位於遠離主要喧囂嘅地方，但步行即可到達商店同餐廳。我最鍾意呢個地方嘅係佢嘅建築魅力。你周圍環繞住鬱鬱蔥蔥嘅花園同美麗嘅峇里島魅力。房間非常寬敞，設有陽台或室外庭院。床非常舒服，我鍾意露天淋浴。強烈推薦！
 
-> ➡️ [**Sudamala Suites & Villas 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=292179)
+> ➡️ [**Sudamala Suites & Villas 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=292179) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987836&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmFY96mGUxCjAYWE4Uc00DAr87B0xgEvjc5BPBETDnwfBp7Ym2MtNax5wEOhQwg8KDMoZFxnfvDKpFnRQ5djKxgNTMY9yy1WcHIuJERrKYhzmEHI9MBRqYTjF1iC5jOrtQ_xcLMsY3lEstXpuhqpezUSiUrEx2lksySnFQlK6Wni-Y9bdjzfEWrko5SSmpxMlAIyErMzS_NKwGyjSyM9QwMgCIliRWeKWCdyYk5yaU5iSWpIZUFQBPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7IYpYWGJOaSrECUAL3VKhdhjW6mC6_Nmc3qfdM19s2k2cy82p7XIDYlxuXBv7iIUpOvYTC8MvYDTM5W1iZehiZebYxTQJSHaJ7WJlNQw09w-8wPpQVUrR0MDAwMjU1Mhc1yDR0sIwJdFQ18TSxNjYUNfIwMDYzMBUY-_TiQeeGhtZS0HiXoFRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCboYmpq7FRlA0Xs6dLkOC9_yy52sqW9lLMIeEuiitvMq89MOG0vRZIzhAmF2jxRYz_veUC-0iYfBJrVYZuSHhGr3gBYwMjUxcjtwCjB2MEYwWQx7iKkWEDI-MOxv8wwPiKEWQ6AIfdLpEAAwAA&masterhotelid_tracelogid=100025527-0a981da1-494331-2003605&detailFilters=17|1~17~1*31|987836~31~987836*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=208&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/onrsHqv1)
 
 ### Bali Beach Hotel - 沙努爾超高CP值五星級親子天堂
 
@@ -339,7 +340,7 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 **客房** | 房間以中性色調精心裝飾，配有吸引人嘅硬木或鑲木地板。每間房都設有書枱、平板電視、小冰箱同保險箱。此外，房內仲提供冰箱同水壺，設施非常齊全。
 
-> ➡️ [**Akaya Bali 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6756846)
+> ➡️ [**Akaya Bali 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6756846) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=45758382&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6z8TFJMEkdYKJ48LDhS0sQoxGBvcZLbbKOzKAwJIKB8_riwtsucrrHAJ4IqYceD6NPdH5lP-qWiVvhy5GVrDADMZ171-IbmSM6T_0VcMn3GEHI9MJxluCC5j6t88QO8XCzLGR-RLLLsboaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBsk2MjfUMDIAiJYkVnilgncmJOcmlOYklqSGVBUATjHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwIMjcIig_Mz8PotsARSwsMac0FaISaJ9bKtQKw9rYRyxM0bGfWBh-sTA0sTJ0sTJz_GGcBCRvCe5i5XEPi_IzNtc11I3SNbzAek1YStHQwMDAyNTUyFzXINHSIinRwEjXxBLoF0NdI0MLA0sTS4357bMOPDU2spaCBKACo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNkc3FydXwygbLubQYBfBQluu64sNpB2kmEPCXRRX3mRee2DCaXstZk-XIMN7_1lytZUt7QMtvojxv7dcYB8Jk09ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMbJzMRsYGQowbWBk3MH4HwYYXzGCLAEAEu2AwD0CAAA&masterhotelid_tracelogid=100025527-0a98ba02-494331-2180949&detailFilters=17|1~17~1*31|45758382~31~45758382*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=462&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/z2vDlT4S)
 
 ### Bebek Cottages – 具有峇里島風情嘅最佳中價位住宿選擇
 
@@ -385,7 +386,7 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 **評價**｜間別墅好靚，位置一流。佈置好闊落，令你覺得自己喺一個好靜嘅地方，但其實你係喺沙努爾嘅中心。餐廳嘅嘢食都好好味！
 
-> ➡️ [**Natah Bale Villas 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=289537)
+> ➡️ [**Natah Bale Villas 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=289537) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685479&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6zcTFJMEkdYWJY_r8ySuZhJgNDYw0jrIYPGC02CrvuKTAluu6eqWDJ5BaXCBZ7xDAEzHlwPNp7InNdzfkBq7xduhiZAULzGBc_lpzBSPjRsY0EDgW7rCDkekEY6fQAqad114xnmJh5tjJfIllF2N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2SYmhnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJRjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYEGRuEZSfmZ8H0W2AIhaWmFOaClEJtM8tFWqFYW3sIxam6NgXLEdZPrEw_GJhaGJl6GJl5mhkmgQkO4V2sfJ6Wxr7RQXoGoboRukaXmBdJCalaGhgYGBkampkrmuQaJmYZpRipmtiaWJsbKhrZGxhYGxhonFozeIDT42NrKUg4ajAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdHQzdnIMcqGizk02EWwEBRfBtIOUswh4S6KK28yrz0w4bS9FrOnS5Dhvf8sudrKlvaBFl_E-N9bLrCPhMknsVZl6IaEZ_SKFzA2MDJ1MXILMHowRjBWAHmMqxjZuZgNjAwFmDYwMu5g_A8DjK8YQZYAANwWMcRJAgAA&masterhotelid_tracelogid=100025527-0a9af2d6-494331-2380384&detailFilters=17|1~17~1*31|685479~31~685479*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=176&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/5CJeqwsl)
 
 ### The Samata by LifestyleRetreats – 最啱靜修嘅精品度假村
 
@@ -408,7 +409,7 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 **評價**｜景色好靚，乾淨而且私隱度高。管家服務一流。
 
-> ➡️ [**The Samata by LifestyleRetreats 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1166228)
+> ➡️ [**The Samata by LifestyleRetreats 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1166228) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=687855&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLS0SDWxtNQ1sTQxNjbUNbO0NLXUeL_2w4GnxkYGWoLxIZ6eLoYlhalmhaWWOUUFpqcYpQzNjS0MjQwNjYyMLI31TCzSzIot8ootcrMiPBiD2EycXUzMjaP4pJhDwl0UV95kXntgwmn7JNaqDN2Q8IxecQBWyjiLggAAAA&masterhotelid_tracelogid=100051355-0a98e499-494331-69959&detailFilters=17|1~17~1*31|687855~31~687855*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=940&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/5CJeqwsl)
 
 ### Holiday Inn Bali Sanur – 適合家庭同長期住宿
 
@@ -431,7 +432,7 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 **評價**｜地理位置好方便，離海灘同主要商店/餐廳街都好近。房間好大，一塵不染，張床好舒服。員工好幫得手又友善。早餐提供嘅食物好好食。
 
-> ➡️ [**Holiday Inn Bali Sanur 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=27931110)
+> ➡️ [**Holiday Inn Bali Sanur 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=27931110) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=78191507&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6yczFJMEk9YmZ407rk6lsQoxGBhIWk4Ucv2nE9B_63-7gyQACXL0OATyNjIW2XNcXG1g4zGCcvH2J6gpGxo2MmkBlXzVSHHYwMp1gvKW4gGnRviWqp1iYOd6yXmL5xhRdrZSdWqlkZaKjVJJZkpOqZKX0dNG8pw17nq9oVdJRSkktTgYKAVmJufmleSVAtrGpuZ6BAVCkJLHCMwWsMzkxJ7k0J7EkNaSyAGiCmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0ARC0vMKU2FOAFooVsq1A7DWh1Mlz_Z2_90XStul1saobjc2GKAnB77iIUpOvYTC8MvFoYmVoYuVoZJrMwctxR3sfIEmbg4u0TqGupG6RpKyRsaGBiYGhqbmuoaJFoaJxuapuqaWJoYWZrqGhmZmFtqLPnc0_TU2MhainXKgefT2BUYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWxgaGRoaGRlZGuuZWKSZFVvkFVvkZkV4MAaxmRqaurmYRdlwMYcGuwiC0kuMvrSDFHNIuItikEtb6J6Jp-21mD1dggzv_WfJ1Va2tA-0-CLG_95ygX0kTD6JtSpDNyQ8o1e8gLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQA-q1Rs-UCAAA&masterhotelid_tracelogid=100051355-0a93c15e-494295-22479&detailFilters=17|1~17~1*31|78191507~31~78191507*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=988&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/LxrD8ift)
 
 ### ARTOTEL Sanur Bali – 藝術愛好者嘅天堂
 
@@ -454,7 +455,7 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 **評價**｜現代風格嘅房間，出色而友善嘅員工，良好嘅淋浴水壓，美味嘅自助早餐，靚嘅天台泳池！冇蚊！位置都好好，位於主要街道同海灘之間。
 
-> ➡️ [**ARTOTEL Sanur Bali 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1161182)
+> ➡️ [**ARTOTEL Sanur Bali 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1161182) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=4977639&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6z8zFJMEk9YOZ4_-qTZsYhTgtDQ2Njc0MDYwM1jBarJRw1IzpP_T1QIODp8g694dVBS0OATwzGJ8_X8-0gpFxIyNIUqMm1mEHI9MBRqYTjHfEFzDtfNDFfYqFmWMJyyWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZBuZm-gZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXawMk1iZOe6I72IVdHUNdHQO0DUzjHI2C9SN0jWUkjc0MDAwNTQ2NdU1SLS0SDWxtNQ1sTQxNjbUNTcyNLPQ2DP9-4GnxkbWUqxTDjyfxq7AqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdHNwMLIMMqGizk02EWw0Jbr-mIDaQcp5pBwF8WVN5nXHphw2l6L2dMlyPDef5ZcbWVL-0CLL2L87y0X2EfC5JNYqzJ0Q8IzesULGBsYmboYuQUYPRgjGCuAPMZVjOxczAZGhgJMGxgZdzD-hwHGV4wgSwCnMpM36wIAAA&masterhotelid_tracelogid=100051355-0a98e499-494331-72168&detailFilters=17|1~17~1*31|4977639~31~4977639*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=960&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/nAP6Xz7J)
 
 ### Prime Plaza Hotel Sanur 跳島旅客首選
 
@@ -475,7 +476,7 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 **客房｜**酒店嘅客房裝修典雅。寬敞嘅空間可以俯瞰棕櫚樹成蔭嘅泳池同熱帶花園景觀，等你可以享受舒適嘅住宿體驗。客房內現代化設備齊全，包括平面電視、泡茶/咖啡設施同迷你吧，為你嘅入住增添便利。
 
-> ➡️[**Prime Plaza Hotel Sanur 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1251)
+> ➡️[**Prime Plaza Hotel Sanur 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1251) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=840723&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaysLFJMEk1cfC0bdr2msWIXZDUzMDQwMjg4XCFrcrHJcU2HJdly508CwE0oszSh0CeCKmHHg-jT0xYq3Pj6Vazg5djKxggRmMk1cYr2Bk3MhoDAaBDjsYmU4w7uRZwLTgwQS9UyzMHAeYLrF8ZYquVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DMQM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBTEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLKvkBjSmCCmTm50G0G6KIhSXmlKZCnAC00C0VaodhrQ6my5_N6X3aPfPFpt3Eudyc2i43IMblxrWxj1iYomM_sTD8YmFoYmXoYmXm2MQ4CUju5NnFyh_l7mwe4qEbbhbpqhula3iB9TWvlLyhgYGBqaGxqamuQaJloqlxsqGuiaWJkaWprqGpuaGpxsxTvxqfGhtZS0GiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbiZOTs5tllA0Xc2iwi2D_oa8aMfrSDlLMIeEuikEubaF7Jp6212L2dAkyvPefJVdb2dI-0OKLGP97ywX2kTD5JNaqDN2Q8Ixe8QLGBkamLkZuAUYPxgjGCiCPcRUjOxezgZGhANMGRsYdjP9hgPEVI8gSACawbt4BAwAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-15715&detailFilters=17|1~17~1*31|840723~31~840723*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1840&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KPN8NJqU)
 
 ## Sanur最抵住嘅住宿推薦
 
@@ -500,7 +501,7 @@ Maya Sanur Resort＆Spa 係一個現代化嘅海濱度假勝地，位於沙努�
 
 **評價**｜坐落喺沙努爾最正嘅地點，服務人員非常客氣同貼心，遇到問題就即刻幫我解決。附近食飯、購物、SPA、洗衫都非常方便。
 
-> ➡️ [**Abian Harmony Resort 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1061743)
+> ➡️ [**Abian Harmony Resort 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1061743) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=3045560&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6yczFJMEk9YiZo__57jtsQoxGBjc4LTqSHXfItb4OjEh18KwWWef-kCvLIYBnBuOOjzsZVzAybmTkur64wPaUk8MORqYTjMfZFzC1z3wocoqFmWMd4yWWz0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZFuY6xkYAAVKEis8U8AakxNzkktzEktSQyoLgAaY6ShlFjuXFGUWBKXmZpaUpAJVpSXmFKeCxINSi4EyyWBBJT-gMUVQgcz8PIh2QxSxsMSc0lSIC4AWuqVC7TCs1cF0-LM5vU-7Z77YtJsoh5tT2-EGxDjcuDb2EQtTdOwnFoZfLAxNrAxdrAyTWJk5jrPvYuUIDjEy8LfUNZRSNDQwMDAyNTUy1zVItLRINTMz1TWxNDE2NtQ1MbI0MzE30Fi58--Bp8ZG1lKsUw48n8auwKglGB_i6eliWFKYalZYaplTVGBqwHiKUcrQ3NjC0MjQ0MjIyNJYz8QizazYIq_YIjcrwoMxiM3IzcjR3CLKhos5NNhFsNAWmFwMpB2kmEPCXRRX3mRee2DCaXstZk-XIMN7_1lytZUt7QMtvojxv7dcYB8Jk09ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMTJsYGTcwfgfBhhfMYJMBwA_kAhH0AIAAA&masterhotelid_tracelogid=100025527-0a98e665-494331-4296470&detailFilters=17|1~17~1*31|3045560~31~3045560*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1064&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/WzUvMupD)
 
 ### Sanur Lodge – 最抵住嘅選擇
 

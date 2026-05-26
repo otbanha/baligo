@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/695d282afd89780001d7d607'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 39439083ff4ccc35a3c0224c24c591d3
+_srcHash: 978ee9623f503f36ab8976e9ee2c6f8c
 ---
 
 2026 年才刚进入第一个工作周，巴厘岛省政府便抛出一项可能影响全球旅客的新政策方向，为新的一年立下不同以往的基调。

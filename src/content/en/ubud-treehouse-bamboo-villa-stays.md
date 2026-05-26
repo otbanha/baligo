@@ -22,10 +22,11 @@ tags:
   - Best Bamboo Villas Ubud
   - Ubud Treehouse Bali review
   - Emana Bambooscape Ubud
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fdec0070ac83943457e250368cc6d730.jpg'
 originalUrl: 'https://vocus.cc/article/660d4c83fd89780001ddf0ad'
 lang: en
-_srcHash: 8b0f6bae9fb247489108ef1452a745ad
+_srcHash: 32b68bbe264e3341889404474f1d448d
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1001bd26958ac1c26775c36f63cab0e5.jpg)
@@ -46,7 +47,7 @@ The bamboo villas feature elevated bedrooms with a mix of wood and bamboo, equip
 
 The decor, though simple, exudes luxury with curved arches and sheer bedding. The lake-view villas are delightful, but the sky villas offer the most stunning views, overlooking lush, untouched jungle. Note that children under 12 are not allowed, ensuring adults can fully relax in this serene environment.
 
-> [Ulaman Eco Luxury Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34474011) Room Rates & Availability
+> [Ulaman Eco Luxury Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34474011) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=69355833&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6yMTFJMEktYuJY-W3b1dZhZgNDYwMHjBabJV3LLTlur54zgoHz7NngOD4WocAnhmMOyd1Kq5gZNzICJZd0-Kwg5HpACPTCcalXYwLmFZMPKd_ioWZo0HiEstuxuhqpezUSiUrEx2lksySnFQlK6Wni-Y9bdjzfEWrko5SSmpxMlAIyErMzS_NKwGyjQ3MjfQMDIBCJYkVnilgrcmJOcmlOYklqSGVBUAjjHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwIMjgIig_Mz8PotsARSwsMac0FaISaJ9bKtQKw9rYRyxM0bEvWO6zfWJh-MXC0MTK0MXKMImVhQPozV2svP6uRhGB4bqGIbpRuoZS8oYGBgamhsamproGiZbGyYamqbomliZGlia6hham5uYa57pWNjw1NrKWYp1y4Pk0dgVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsFk5uZkaWUTZczKHBLoLPZZe_8NCTdpBiDgl3UVx5k3ntgQmn7bWYPV2CDO_9Z8nVVra0D7T4Isb_3nKBfSRMPom1KkM3JDyjV7yAsYGRqYuRW4DRgzGCsQLIY1zFyM7FbGBkKMC0gZFxB-N_GGB8xQiyBADv-enaLQIAAA&masterhotelid_tracelogid=100051355-0a93c15e-494294-18577&detailFilters=17|1~17~1*31|69355833~31~69355833*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1691&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/K2Rbm05T) Room Rates & Availability
 
 ## Veluvana Bali
 
@@ -60,7 +61,7 @@ The bamboo villas feature king-size beds with mosquito nets, a semi-open mini ba
 
 The main difference between the villas lies in the design of their private pools. The Scorpio House and Owl House have pools either on the balcony or beneath the house, while the Manta House features a long infinity pool. If heights don't bother you, the mini pool on the rooftop of the Octopus House is sure to captivate. Unique designs bring unique stay experiences.
 
-> [Veluvana Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=16716708) Room Rates & Availability
+> [Veluvana Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=16716708) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=103601551&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLS0SDJONNA1sTQxsjTRNTK1MLPUWHhld8NTYyMDLcH4EE9PF8OSwlSzwlLLnKIC01OMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbMaurubmJlF8Uswh4S6KK28yrz0w4bR9EmtVhm5IeEavOAB_FSnIggAAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494294-25869&detailFilters=17|1~17~1*31|103601551~31~103601551*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1485&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/m1gsSPRe) Room Rates & Availability
 
 ## Samanvaya Luxury Resort & Spa
 
@@ -74,7 +75,7 @@ The bamboo villas come in one-bedroom and two-bedroom options, accommodating 2-4
 
 The bathroom features dual stone vanity basins, a shower area, and a semi-open copper or stone bathtub. All villas also provide smartphones for guests to use during their stay. The spacious and comfortable rooms ensure the most luxurious vacation experience in Bali.
 
-> [Samanvaya Luxury Resort & Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=695817) Room Rates & Availability
+> [Samanvaya Luxury Resort & Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=695817) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=687023&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6wsTFJMEkdZaJo-9X01RmIUYjg_uMFlvlHWfNBILiXgfPbxox_Yc4JjkE8ERMOfB8GnuiV3Wzvs-RQIcuRlawwAzG9d81VzAybmT0eFglsq48y2EHI9MBRqYTjF80FzDtv_qK8RQLM8d19kssuxijq5WyUyuVrEx0lEoyS3JSlayUni6a97Rhz_MVrUo6SimpxclAISArMTe_NK8EyLa0MNYzMACKlCRWeKaAdSYn5iSX5iSWpIZUFgBNMNJRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgiBzi6D8zPw8iG4DFLGwxJzSVIhKoH1uqVArDGtjH7EwRcd-YmH4xcLQxMrQxcrMcYppEpD8ormLlcfEyd_dwETXUDdK1_AC6z4dKUVDAwMDI1NTI3Ndg0RLCyOT1FRdE0sTI0sTXSNDC3MzI3ONDQ8ONTw1NrKWgoSiAqOWYHyIp6eLYUlhqllhqWVOUYGpAeMpRilDc2MLQyNDQyMjI0tjPROLNLNii7xii9ysCA_GIDYXC3M3c6coGy7m0GAXweeyy1946Ek7SDGHhLsorrzJvPbAhNP2WiA5Q5hcoMUXMf73lgvsI4Nc2kL3TDxtn8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgAwWnANQgIAAA&masterhotelid_tracelogid=100025527-0a9824ee-494294-2187627&detailFilters=17|1~17~1*31|687023~31~687023*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1335&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/A9ZmeBOX) Room Rates & Availability
 
 ## Stone House
 
@@ -104,7 +105,7 @@ Accommodations range from tents set on bamboo platforms to one-bedroom and two-b
 
 For a unique stay, consider booking the fairy-tale-like pointed bamboo treehouse, one of Bali's most remarkable treehouses. If a private pool is what you desire, the luxurious and spacious two-bedroom river-view villa is your perfect choice. Regardless, Bambu Indah promises an unforgettable bamboo villa experience in Ubud.
 
-> [Bambu Indah](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251732) Room Rates & Availability
+> [Bambu Indah](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251732) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685401&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NawsLFJMEkNZeFY9Xuba_YhBgNNO6zWfwWdPymEdPvFLfAwVNknfvDX-JLHAJ4IqYceD6NPdGrulnf50igQyEDCPxb59DIKN_6OtAifJVDFyMrWM0MxpuvNDcygsw4dLbWYQcj0wFGphOMa2MXML3Y_5zpFAszxzLBSyzfmaKrlbJTK5WsTHSUSjJLclKVrJSeLpr3tGHP8xWtSjpKKanFyUAhICsxN780rwTINjQ0MNczMAAKlSRWeKaAtSYn5iSX5iSWpIZUFgCNMNNRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgkp-QGOKoAKZ-XkQ7YYoYmGJOaWpEDcALXRLhdphWKuD6fRnc3qfds98sWk3kU43p7bTDYhxunFt7CMWpujYFyz32T6xMPxiYeH43M_YxMrQxcrMcYppEpBcG7uLlS3EMjIoyvUC67lGJil5QwMDA1NDY1NTXYNES2NTMxNDXRNLEyNLE11jI0Mzc40zd083PDU2spaCJAAFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbBYuruaO5lE2XMyeLkGC9_6z5GorW9pLMYeEuyiuvMm89sCE0_ZazKHBLobPZZe_8NCTdgi0-CLG_95ygX1kkEtb6J6Jp-2TWKsydEPCM3rFCxgbGJm6GLkFGD0YIxgrgDzGVYwMGxgZdzD-hwHGV4wg0wHhWPZ4CQMAAA&masterhotelid_tracelogid=100051355-0a935641-494294-32167&detailFilters=17|1~17~1*31|685401~31~685401*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=480&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/VMy6P8Sn) Room Rates & Availability
 
 ## Beehouse Dijiwa Ubud
 
@@ -136,7 +137,7 @@ The spacious bamboo tree houses are all equipped with air conditioning, a double
 
 The bamboo houses are stylishly decorated, simple yet tasteful. Additional beds for children or others are available at an extra charge. Whether you're looking to experience the unique stay in a tree house or just to relax, Bamboo Turtles Ecolodge can meet all your expectations.
 
-> [Bamboo Turtles Ecolodge](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=32590035) Rates & Availability
+> [Bamboo Turtles Ecolodge](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=32590035) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=103038575&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJY87BvldsQowGFr8FHXfItb4O_FDq4MkAAisqHAJ4IqYceD6NPbFY8H5n5HdXh0KwTEO0QyPj2TNAUBPm0MXIClYzg_H9nwmGGxltua4vLtjr6rCDkekAI9MJxpV8C5jOfWx2OMXCzHGK8RLLbsboaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBso0MjPQMDIAiJYkVnilgncmJOcmlOYklqSGVBUATzHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwoJIf0JgiqEBmfh5EuyGKWFhiTmkqxAlAC91SoXYY1sY-YmGKjv3EwvAL6Jl_zE2sDF2szBxnGCcByZV8u1jZQixNAt39LrB-FpaSNzQwMDA1NDY11TVItDRONjRN1TWxNDGyNNE1tbQwNNFY2jqt8amxkbUUJPwUGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsZk4GhgZGUfZcDF7ugQJ3vvPkqutbGkvxRwS7qK48ibz2gMTTttrgeQMYXKBFl_E-N9bLrCPDHJpC90z8bR9EmtVhm5IeEaveAFjAyNTFyO3AKMHYwRjBZDHuIqRYQMj4w7G_zDA-IoRZDoA-2NFGkUCAAA&masterhotelid_tracelogid=100051355-0a93c15e-494294-59814&detailFilters=17|1~17~1*31|103038575~31~103038575*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=627&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/uqGZ37JK) Rates & Availability
 
 ## Le Sabot Ubud
 
@@ -166,7 +167,7 @@ Jungleight Bali offers a variety of facilities, including a garden, free private
 
 Jungleight Bali offers air-conditioned rooms equipped with a desk, coffee machine, minibar, safe, flat-screen TV, projector, terrace, and private bathroom with a shower. Each room comes with an electric kettle, and some feature a balcony while others offer pool views. Bed linens and towels are provided in all rooms. Jungleight Bali has 7 bedrooms, making it ideal for tourists and travelers.
 
-> [Jungleight Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47465681) Room Rates & Availability
+> [Jungleight Bali](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=47465681) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=114529582&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F483UFyfYhBgNLH4LOgbtkGvNXrDAwbP_0FeNOxlLHAJ4IqYceD6NPdGrulnf50igQyEDCIRMcGhkbH0duENOusuhi5EVrGYG47pV58w2Mr4BCrc61znsYGQ6wMh0gvFV3AKmx7fW2J9iYeY4IXiJ5TtTdLVSdmqlkpWJjlJJZklOqpKV0tNF85427Hm-olVJRykltTgZKARkJebml-aVANmGhkYmegYGQKGSxArPFLDW5MSc5NKcxJLUkMoCoBFmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBqCFbqlQOwxrdTCd_mxO79PumS827SbS6ebUdroBMU43ro19xMIUHfuJheEXMCI-qjaxMnSxMnOcYpoEJF_F7WJlCzYNjnAOu8C6tJ1RStHQwMDAyNTUyFzXINHSwsLA0lzXxNLEyNJE18TU0sDSzFTj4985jU-NjaylINGvwKglGB_i6eliWFKYalZYaplTVGBqwHiKUcrQ3NjC0AgYDkZGlsZ6JhZpZsUWecUWuVkRHoxBbIYGbuYWTlE2XMyeLkGC9_6z5GorW9pLMYeEuyiuvMm89sCE0_ZaIDlDmFygxRcx_veWC-wjg1zaQvdMPG2fxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk2MDIuIPxPwwwvmIEmQ4AheV31QQDAAA&masterhotelid_tracelogid=100025527-0a988097-494294-4590965&detailFilters=17|1~17~1*31|114529582~31~114529582*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=693&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/NpNOtBAR) Room Rates & Availability
 
 ## Emana Bambooscape: 4-Star Boutique Villa
 
@@ -189,7 +190,7 @@ The hotel offers complimentary airport transfers and free parking, located appro
 
 Emana Bambooscape stands out with its newly built facilities, unique single-room design, and comprehensive amenities, making it the perfect choice for those seeking a private and high-quality Bali getaway. (Please note: Free accommodation for children is not provided.)
 
-> [Emana Bambooscape Room Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=71670123)
+> [Emana Bambooscape Room Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=71670123) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=128229595&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJ48uy3dvZhBgNLH4LOqaBQMQEB8_riwtsuVwnOQTwREw58Hwae6JXdbO-z5FAh0IGEPjQ6dDIuASo5Dpjm0MXIytYzQzG2wcn2W5k5AJpPhXnsIOR6QAj0wnGA1oLmB4BZU6xMHPsYbnEspsxulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGxTcyM9AwOgSElihWcKWGdyYk5yaU5iSWpIZQHQBDMdpcxi55KizIKg1NzMkpJUoKq0xJziVJB4UGoxUCYZLKjkBzSmCCqQmZ8H0W6IIhaWmFOaCnEC0EK3VKgdhrWxj1iYomM_sTD8AnqmQ66JlaGLlZnjFNMkIHlAaxcrW6SXq1NE5AXWSd5SCoYGBgZGpqZG5roGiZaJKYnmRromlibGhma6pgYmJgbGGqsmvV761NjIWgoSgAqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYHE3dLEwMo2y4mD1dggTv_WfJ1Va2tJdiDgl3UVx5k3ntgQmn7bVAcoYwuUCLL2L87y0X2EfC5JNYqzJ0Q8IzesULGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDTAUazA_tGAgAA&masterhotelid_tracelogid=100025527-0a9ada72-494316-504403&detailFilters=17|1~17~1*31|128229595~31~128229595*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=440&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/fQOsmrqu)
 
 ## Continue Exploring Ubud
 

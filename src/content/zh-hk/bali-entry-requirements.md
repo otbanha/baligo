@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/686902bafd89780001e3f490'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: 65bf46c9f63a6826a4ca5ecbe92c34f3
+_srcHash: d14804d66e40d80fe516e62a69d550bb
 ---
 
 想去峇里島度假，或者就快出發去印尼旅行？記住除咗訂好機票同住宿之外，仲有幾份**重要嘅入境文件**要提前準備。如果無事先搞掂，唔單止可能會耽誤登機，入境時仲可能會遇到麻煩。

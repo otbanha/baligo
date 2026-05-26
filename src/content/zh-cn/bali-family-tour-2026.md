@@ -22,7 +22,7 @@ heroImage: /images/2026-03-29-family-bali.png
 originalUrl: ''
 embeds: []
 lang: zh-cn
-_srcHash: ae9f77c4332f542b2b9e69d56cef22aa
+_srcHash: a05f74cbf456abc466908c2b0f6c58e9
 ---
 
 **想要一场说走就走的纯粹假期吗？** 抛开繁琐的行程规划，拒绝压力的购物行程。这一次，我们为您与家人准备了集结**自然奇景、野生动物、私人 Villa 与顶级美食**的梦幻六天五夜。从清晨的火山云海到午后的梯田泳池，每一刻都是值得收藏的家族记忆。

@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/67feffeffd897800017dd2f3'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 48163b285338b436a3412796d9b5a329
+_srcHash: 23c09ed3a5bf950a8dd93b9f064f4639
 ---
 ### What is the Bali Tourism Tax?
 

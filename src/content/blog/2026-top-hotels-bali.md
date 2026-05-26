@@ -1,5 +1,6 @@
 ---
 title: 【2026 峇里島住宿】剛開幕就拿獎！直擊印尼最佳新飯店：絕美海灘景觀、永續奢華設計全開箱
+slug: ''
 description: 誰是 2026 年印尼最強新飯店？開箱剛開幕即榮獲大獎的峇里島海灘度假村。本篇深度解析其奪獎理由、融合自然的建築美學、以及令人驚艷的海景套房體驗。提供 2026 最新房價資訊、餐廳推薦與訂房策略。帶您走在旅遊尖端，優先入住這座獲獎肯定的海島新地標。
 pubDate: 2026-04-23
 pubHour: 10
@@ -27,12 +28,12 @@ tags:
   - 新開幕飯店
   - 新开幕酒店
   - NewlyOpenedHotel
-update: 2026/05/22
 heroImage: ''
 originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
+update: 2026/05/22
 ---
 
 峇里島的五星飯店多到讓人選擇困難。 烏布有 [Capella](/blog/capella-ubud-luxury-resort/)、烏魯瓦圖有 [Alila](/blog/alila-villas-uluwatu-bali/)、努沙杜瓦有 [Apurva Kempinski](/blog/apurva-kempinski-bali-nusa-dua/)…… 但 2026 年最讓人驚喜的，是一間蓋在沙努爾的全新渡假村——**The Meru Sanur**。
@@ -98,7 +99,7 @@ embeds: []
 1. **Mandapa, a Ritz-Carlton Reserve**（烏布） 懸崖上的叢林秘境，俯瞰 Ayung 河谷，麗思卡爾頓儲備系列中最受推崇的亞洲物件之一。→ [查看詳細介紹](/blog/ubud-villas-pool-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%9A%84%E5%AF%A7%E9%9D%9C%E8%81%96%E6%AE%BFmandapa-a-ritz-carlton-reserve)
 2. **Alila Villas Uluwatu**（烏魯瓦圖） 峭壁邊緣的極簡風格莊園，無邊際泳池直面印度洋，是烏魯瓦圖最具代表性的頂級住宿。→ [查看詳細介紹](/blog/alila-villas-uluwatu-bali/)
 3. **Padma Resort Ubud**（烏布） 隱身在烏布山谷的大型渡假村，以超長無邊際泳池和壯闊的梯田景觀聞名。→ [查看詳細介紹](/blog/ubud-villas-pool-guide/#%E5%B3%87%E9%87%8C%E5%B3%B6%E7%A7%98%E5%A2%83-padma-resort-ubud-%E6%93%81%E6%8A%B1%E5%AF%A7%E9%9D%9C%E8%88%87%E5%A5%A2%E8%8F%AF)
-4. **Bvlgari Resort Bali**（烏魯瓦圖） 精品奢華天花板，全棟僅數十間獨立別墅，今年更榮獲「年度最佳飯店」大獎。→ [查看詳細介紹](/blog/bvlgari-resort-bali/)
+4. **Bvlgari Resort Bali**（烏魯瓦圖） 精品奢華天花板，全棟僅數十間獨立別墅，今年更榮獲「年度最佳飯店」大獎。→ [查看詳細介紹](https://gobaligo.id/blog/bvlgari-resort-bali-uluwatu/)
 5. **Capella Ubud**（烏布） 峇里島唯一頂級「豪華露營」體驗，帳篷式別墅高懸叢林，附私人鹽水泳池和營火。→ [查看詳細介紹](/blog/capella-ubud-luxury-resort/)
 6. **The Apurva Kempinski Bali**（努沙杜瓦） 外型像一座巨型印尼神廟從海崖傾瀉而下，建築本身就是看點，海景無敵。→ [查看詳細介紹](/blog/apurva-kempinski-bali-nusa-dua/)
 7. **Desa Potato Head**（水明漾） 不只是飯店，更是藝術與永續概念的複合空間，獲頒「最佳創新獎」實至名歸。→ [查看詳細介紹](/blog/potato-head-suites-seminyak-review/)

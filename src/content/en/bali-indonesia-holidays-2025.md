@@ -22,7 +22,7 @@ category:
   - 旅行技巧
   - 遊記分享
 lang: en
-_srcHash: 89f99a3af61563dda6ee55d894ff484b
+_srcHash: 67a330575a694ac2b0b6d62f2b7fca19
 ---
 
 Bali, this picturesque Indonesian island, will host a dazzling array of cultural celebrations in 2025. Whether you're aiming to avoid a particular time or join a Bali festival, this complete guide will serve as your ultimate index! Let's delve into the colorful and dynamic festivities this unique island presents!

@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/669e605afd8978000115575b'
 category:
   - 旅行技巧
 lang: en
-_srcHash: ad55f769f90bf78087678301f383e172
+_srcHash: 9e1da1e5ea82f3dd47fb8a6f708c4edc
 ---
 As a premier tourist destination in Indonesia, Bali has long been favored by a large number of domestic and international visitors. However, with the rapid development of tourism, traffic pressure on the island has been increasing year by year. To address this issue, the Bali government has decided to launch the Light Rail Transit (LRT) project, with construction set to officially begin in September 2024.
 

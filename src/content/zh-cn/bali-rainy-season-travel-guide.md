@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f6b90b154e37dbd50a989a42055a7abb.png'
 originalUrl: 'https://vocus.cc/article/67ecc962fd89780001212629'
 lang: zh-cn
-_srcHash: baa4a4f201f47c38b45dff6350148661
+_srcHash: b372879c59ae9f4e92e073841979548f
 ---
 
 在回答我们两个脸书社团「[巴厘岛/印尼吃喝玩乐](https://www.facebook.com/groups/indonesia.travelguide/)」和「[Go Bali Go 巴厘岛旅游](https://www.facebook.com/groups/baligo/)」，最多人问到的问题之前，先用一张图表让你快速了解：

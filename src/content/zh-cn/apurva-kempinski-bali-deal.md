@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9034b3eade783ad2a93a96720a8df57.jpg'
 originalUrl: 'https://vocus.cc/article/69aa4faefd897800016bbeda'
 lang: zh-cn
-_srcHash: 3417277ea120edeaba7bf459a0da3148
+_srcHash: 21aab81115f94c437edd1ae232058525
 ---
 
 如果你正在找 **巴厘岛五星酒店优惠**，最近出现了一个相当吸引人的促销方案。

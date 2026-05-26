@@ -21,7 +21,7 @@ agoda_star_rating: 4
 latitude: -8.791134
 longitude: 115.17072
 lang: zh-hk
-_srcHash: 5b4f83793a6e5b928663be1edeb94d4b
+_srcHash: eab86047f05e74aa3bd412e438f2a152
 ---
 
 ## ✨**2024年全新開幕嘅峇里島Villa，靜謐山丘上嘅療癒系奢華**

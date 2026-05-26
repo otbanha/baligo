@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/687ee2c2fd89780001d111bf'
 category:
   - 旅行技巧
 lang: en
-_srcHash: ff6f26d394b6f35615045212f90b1ba2
+_srcHash: a8dfcbcffb4a23f3279fa83b9deeadb1
 ---
 
 Bali's Uluwatu Bingin Beach, a favorite among tourists and surfers, is set for major changes. The government announced that over 40 structures in the area, due to illegal land occupation and violation of spatial planning regulations, will be forcibly demolished starting July 21, 2025.

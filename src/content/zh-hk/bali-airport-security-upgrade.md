@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/679f52c9fd89780001ec63b8'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: e8618d59c4f74fca0b4a004727a5fdcb
+_srcHash: 973d7c1dead6ef4e78e532c75615ddfd
 ---
 
 峇里島嘅努拉萊國際機場將會喺2025年迎嚟新一階段嘅現代化升級。先進嘅安檢設備已經喺雅加達成功實施，未來會令旅客嘅通過量由每小時200人提升到500人。呢項升級唔單止令旅客嘅安檢過程更加快速，亦令機場工作人員嘅效率大幅提升。

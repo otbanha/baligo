@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cbcb3dcfef832d05b8df6806e839d3e2.jpg'
 originalUrl: 'https://vocus.cc/article/68134e91fd89780001ab5b55'
 lang: en
-_srcHash: c2f0c8968d4ca3603b9b8ba0c02dd2a3
+_srcHash: 1499901accd66b27c7bf628664b92a7b
 ---
 
 When visiting Ubud, the cultural heart of Bali, you absolutely cannot miss this recently Instagram-famous day pool club — Wanna Jungle Pool & Bar! This three-tiered infinity pool with stunning views has already become a must-visit spot for influencers.

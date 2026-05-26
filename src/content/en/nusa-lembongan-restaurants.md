@@ -16,7 +16,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2a41d804df97245672019ea01f2b611f.jpg'
 originalUrl: 'https://vocus.cc/article/671a506ffd8978000182fb4f'
 lang: en
-_srcHash: 90a2c8d90283fa31f781c6429d0adbfc
+_srcHash: 6cb6c130bae9b1691f186e63514d38a7
 ---
 
 Nusa Lembongan and Nusa Ceningan are two hidden gems near Bali, offering stunning ocean views and a relaxed atmosphere. Not only are they popular diving destinations, but their restaurants and bars also provide visitors with a wide range of dining options. Here are some of our top recommendations for dining and drinking spots, as well as beach clubs perfect for unwinding, especially if you're looking to relieve stress while enjoying great food and beautiful scenery.

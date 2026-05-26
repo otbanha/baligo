@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ad9871349a077ea9c5d06d39fbc9533f.png'
 originalUrl: 'https://vocus.cc/article/655b357ffd89780001b0febf'
 lang: en
-_srcHash: ca6bb338a7bb922610c449bed01bb6b7
+_srcHash: 7e357814bc9096c7bc1cd9fa084fba15
 ---
 
 In [our previous article](/blog/bali-drone-travel-guide/), we discussed how to safely bring your drone to Indonesia/Bali. Today, we will delve deeper into the rules and regulations you need to follow when flying drones in Indonesia/Bali.

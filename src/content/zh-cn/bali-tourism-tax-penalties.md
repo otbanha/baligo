@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66e27989fd89780001685c6f'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 673072c5c6753f47ea30f284e73ed077
+_srcHash: 682fc64ff75a8e5e26c0d7757ea6e50c
 ---
 
 ## 巴厘岛旅游税逃漏问题：可能面临罚款或监禁

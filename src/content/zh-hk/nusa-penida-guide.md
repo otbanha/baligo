@@ -5,6 +5,7 @@ description: >-
   當你喺峇里島度假嘅時候，Nusa Penida絕對係唔可以錯過嘅一站。呢個島以其靚景同埋魅力文化聞名，為旅客提供咗豐富嘅體驗。但係由於佢相對偏僻，去Nusa
   Penida可能需要詳細嘅研究同埋計劃。喺呢篇文章入面，會為你提供由峇里島去Nusa Penida嘅旅遊指南，並提供最新嘅資訊
 pubDate: '2023-08-16'
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_efc65c3d29b2aad1d70da8ac6ec61dd5.jpg'
 tags:
   - nusapenida
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/64db6b82fd897800013a9942'
 category:
   - 峇里島分區攻略
 lang: zh-hk
-_srcHash: bdb0f54df3cfda29a5b2c6be392ec658
+_srcHash: a4b7a17c239e3e1d5b716694a3f346dd
 ---
 
 當你喺峇里島度假嘅時候，Nusa Penida絕對係唔可以錯過嘅一站。呢個島以其靚景同埋魅力文化聞名，為旅客提供咗豐富嘅體驗。但係由於佢相對偏僻，去Nusa Penida可能需要詳細嘅研究同埋計劃。喺呢篇文章入面，會為你提供由峇里島去Nusa Penida嘅旅遊指南，並提供最新嘅資訊，以幫助你計劃你嘅行程。
@@ -132,7 +133,7 @@ Nusa Penida 係一個峇里島嘅離岸小島，由峇里島本島搭船約45分
 
 如果係自己安排行程嘅朋友，去到Nusa Penida之後可以喺多個選擇中揀住宿地點。以下係推薦嘅三個選擇，分別係平價、中價位同豪華住宿。
 
-**豪華住宿：**[**Adiwana Warnakali Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=12145599)
+**豪華住宿：**[**Adiwana Warnakali Resort**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hl=zh-hk&hid=12145599) [Booking](https://booking.tpm.li/3tFPqiDE)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_aaa80c2680b499073712555131a3e50f.png)
 

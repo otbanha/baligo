@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/661fd461fd89780001c43520'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: 85321788d99b152524dffa6c1368b738
+_srcHash: d06f476d5fe0ae5caea41f8ba0904503
 ---
 
 要去印尼或者峇里島旅遊需要申請簽證(VISA)。而申請簽證嘅方法有兩種，呢兩種方法嘅比較請參考: [峇里島旅遊簽證攻略：落地簽 vs 電子簽，邊種更適合你？](/blog/bali-visa-landing-vs-electronic/)

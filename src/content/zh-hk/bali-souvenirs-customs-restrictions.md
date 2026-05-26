@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_efbb46e4c49d98eb26fab6dffcb74a92.jpg'
 originalUrl: 'https://vocus.cc/article/680d9a04fd89780001a97eb9'
 lang: zh-hk
-_srcHash: 72b8c270c9c5926c35b0c7d189773a46
+_srcHash: 3ad365e292677a2ad4c03d2ae6a2b6cb
 ---
 多謝團友Yang Mei分享滿床戰利品相片🎁
 

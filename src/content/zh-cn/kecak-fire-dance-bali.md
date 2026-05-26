@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65b6e533fd89780001f51eaf'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 27ed4c8f6afccd88796f66049338f188
+_srcHash: edbfe3b4962ccc1acc1b3ae66696e20e
 ---
 
 如果你去到巴厘岛，千万不要错过在巴厘岛的卡恰火舞表演！这是个会让你终身难忘的精彩表演喔！

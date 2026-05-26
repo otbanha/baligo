@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8b08e09d34382f389919fdef4c7b2b88.jpg'
 originalUrl: 'https://vocus.cc/article/6906be15fd897800015710d8'
 lang: en
-_srcHash: f8eebf255551cf6695b84a562907ff60
+_srcHash: 3c6627b4495569ef83f219a0dd3626e4
 ---
 
 ## Unique Bali Experience: Beach Camel Rides 🐪

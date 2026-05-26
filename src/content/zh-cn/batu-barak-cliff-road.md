@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b6047d6cb9e26f87bdbf416907acf6fe.jpg'
 originalUrl: 'https://vocus.cc/article/67c9a234fd897800014b5a11'
 lang: zh-cn
-_srcHash: 59fe7b18725a4b4a54b5b48f90afbce6
+_srcHash: 0fbeb0646e7ad314fc8b93cebe901280
 ---
 
 巴厘岛，这个充满神秘与浪漫的度假天堂，除了知名的海滩与梯田，还隐藏着许多令人惊艳的秘境。位于乌鲁瓦图的 **Batu Barak**（又称 **Tanah Barak**）就是近年来爆红的景点之一。这片被称为「蓝色公路」或「断崖公路」的地方，以其壮丽的石灰岩悬崖、洁白的沙滩和清澈的海水，吸引了无数旅人前来探访。今天，就让我们一起走进这片梦幻之地，感受它的魅力吧！

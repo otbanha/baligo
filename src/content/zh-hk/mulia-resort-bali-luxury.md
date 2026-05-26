@@ -20,10 +20,8 @@ agoda_hotel_name: 穆利雅度假村
 agoda_hotel_id: 6532982
 latitude: -8.815860748291016
 lang: zh-hk
-_srcHash: de45344106bb2d81f2701f1770cc8047
+_srcHash: fde2eaea7cdbeb26a8c4bb33192551a5
 ---
-
-update: 2026/05/21
 
 「峇里島嘅 Mulia Resort（The Mulia, Mulia Resort & Villas）」多年來榮獲嘅主要國際大獎與頭銜：
 

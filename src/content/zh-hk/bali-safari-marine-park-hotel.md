@@ -23,7 +23,7 @@ agoda_star_rating: 4
 latitude: -8.586938858032227
 longitude: 115.34322357177734
 lang: zh-hk
-_srcHash: 7938e6504a1ebfe748dd8bd301736fc8
+_srcHash: 57edcf74ddb38cc8a03520d90568fc88
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ac2d27b682ef6d668628cfd17400e43f.png)

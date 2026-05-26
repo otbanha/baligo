@@ -6,10 +6,11 @@ pubDate: 2024-03-31T00:00:00.000Z
 category:
   - 遊記分享
 tags: []
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9fc2df4aca8629a249416c2894c825cb.jpg'
 originalUrl: 'https://vocus.cc/article/6609003dfd89780001273bee'
 lang: zh-cn
-_srcHash: e71ab5e1525b2e660fe5f0deec4bd40a
+_srcHash: 04c23cf360e4dc853f6b153ad888caaa
 ---
 
 这名印尼华人Youtube网红[[TwoSis赤道女孩](https://www.youtube.com/@twosis%E5%8D%B0%E5%B0%BC%E5%A7%90%E5%A6%B9%E8%8A%B1)]发布在网络上的视频,带大家认识她在巴厘岛乌布地区的旅游体验和推荐景点。
@@ -30,7 +31,7 @@ _srcHash: e71ab5e1525b2e660fe5f0deec4bd40a
 
 Villa内有一处小小的私人户外泳池,池畔设有户外桌椅以及大型遮阳伞,是相当独立且私密的空间。即使邻近其他villa,也通过高高的围墙以及绿植遮挡,形成一个世外桃源的独立天地。早晨时分,他们最喜欢在池畔小憩,感受夏日阳光与微风的拂晒,好不惬意。
 
-> [Japa Suites & Villa 订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=25688733)
+> [Japa Suites & Villa 订房](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=25688733) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=72842353&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6y8TFJMEkdY2J4-Xjub9YhRgNLH4LOj6sElnn3lrp4PkmcIdc6_oahwCeiCkHnk9jT4yeclNh8gJPh0IGEEjIdmhkPHsGCFzSHboYWcFqZjB-_HFXaSNjEFDr60BPhx2MTCcYrwssYHrQdk_pFAszx2vGSyy7GaOrlbJTK5WsTHSUSjJLclKVrJSeLpr3tGHP8xWtSjpKKanFyUAhICsxN780rwTINjI21TMwAIqUJFZ4poB1JifmJJfmJJakhlQWAE0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDthihiYYk5pakQJwAtdEuF2mFYG_uIhSk69hMLwy-gZ36yN7EydLEyc7xjnAQkrwvsYmULNPOPdHW_wLpPSkrO0MDAwNTQ2NRU1yDRMtHCODFV18TSxNjQTNfU1MRc4_LDp0ufGhtZS0HCToFRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbk5Ohk7lllA0Xs6dLkOC9_yy52sqW9lLMIeEuiitvMq89MOG0vRZIzhAmF2jxRYz_veUC-0iYfBJrVYZuSHhGr3gBYwMjUxcjtwCjB2MEYwWQx7iKkWEDI-MOxv8wwPiKEWQ6AO47BWRBAgAA&masterhotelid_tracelogid=100051355-0a9a83ae-494316-5547&detailFilters=17|1~17~1*31|72842353~31~72842353*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=990&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Saekc4Wv)
 
 ## 猴子森林 (Monkey Forest)
 

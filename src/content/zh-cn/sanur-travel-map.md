@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1df7d57b714a85873203d59105b3dbc1.jpg'
 originalUrl: 'https://vocus.cc/article/64e2de1bfd897800018eff0b'
 lang: zh-cn
-_srcHash: 8298a0c5964dcf9dc383aa9d7d632ad0
+_srcHash: b99a2f5e680a479b5840b2d7a1d07960
 ---
 
 欢迎来到印度尼西亚的巴厘岛，一个充满神秘与美丽的天堂。在这个岛屿上，有着众多迷人的地区，其中沙努尔以其独特的发展历程、多样的氛围、美味的美食和令人陶醉的海滨景致而脱颖而出。在这份沙努尔攻略地图中，我们将为您详细介绍沙努尔及其周边的精彩之处。

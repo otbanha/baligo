@@ -11,10 +11,11 @@ tags:
   - 峇里島推薦
   - 巴里島
   - 蜜月
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_928bcf8de351c2ebc6891979b506e58e.jpg'
 originalUrl: 'https://vocus.cc/article/6658817efd89780001222f04'
 lang: zh-hk
-_srcHash: 9524b43a0fd4d3910df3a03bfd156904
+_srcHash: 7dfd66df2c7b3cb35404319a418f93a5
 ---
 
 > 以下內容由團友 [Angel Wu](https://www.facebook.com/angel.wu.75491/) 提供，並同意我哋改編
@@ -157,7 +158,7 @@ Indigo Seminyak係一間設計感十足嘅精品酒店，地理位置優越，�
 
 本站介紹：[【水明漾住宿推薦】USD$161入住濱海五星級英迪格渡假村](/blog/hotel-indigo-seminyak-review/)
 
-> ▶[預訂 Hotel Indigo Bali Seminyak Beach](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348)
+> ▶[預訂 Hotel Indigo Bali Seminyak Beach](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348) [Booking](https://booking.tpm.li/Wod9awed)
 
 ### 凱賓斯基（Apurva Kempinski Bali）
 
@@ -204,7 +205,7 @@ Vivara Bali Private Pool Villas & Spa 最大嘅特色係每間房都有私人泳
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775912665142-434285792.jpeg)
 
-> ▶[預訂 Vivara Bali Private Pool Villas & Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=36762751)
+> ▶[預訂 Vivara Bali Private Pool Villas & Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=36762751) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=104656334&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6zsTFJMEkdYCJ4_LGq6_ZhBgNLCYKOcb0H_qqwTzBwfObBpD5dKJDAE_ElAPPp7EnelU36_scCXToYmQFC8xgPHf7s-FGxlkzgUAzzmEHI9MJxtOaC5guT1hidIqFmWMDyyWW3YzR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJuaGegZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrI19xMIUHfuJheEXC0MTK0MXKzPHKaZJQPK05i5WthAjAy9_swusU3Wk5A0NDAxMDY1NTXUNEi0TTY2TDXVNLE2MLE11DY2NLEw1zm383PjU2MhaChJyCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9hMzSzMncyjbLiYPV2CBO_9Z8nVVra0l2IOCXdRDHJpC90z8bS9FkjOECYXaPFFjP-95QL7yLxuI-mUSaftk1irMnRDwjN6xQsYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMB6DkTwywCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-13285&detailFilters=17|1~17~1*31|104656334~31~104656334*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=300&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q9wlDejz)
 
 不過我哋揀呢度仲有一個原因，就係佢提供嘅燭光晚餐，但呢個亦都係我哋唯一覺得失望嘅地方。雖然事先知道晚餐係四道菜配一支酒，價錢都幾貴，自然期望都比較高，但實際體驗就唔係咁理想。開始時間比預計早，我哋啱啱辦完入住仲未準備好，餐點就用保鮮膜包住，感覺擺咗一陣，上菜又太過緊湊，未食完前菜，主菜同甜品已經擺喺旁邊等。咁樣嘅服務同我哋嘅期望同價錢都唔相符。後來發現當晚酒店有婚宴，懷疑我哋嘅餐點同服務質素係因為婚宴而受到影響。
 

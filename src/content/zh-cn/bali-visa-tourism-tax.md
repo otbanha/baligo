@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/68e36431fd89780001eea4fa'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: e6666f5fba191081f76e750f88a33b6c
+_srcHash: 6feb1b578e5907ebaa35063fe3fd202f
 ---
 
 ## **巴厘岛旅游税新规简介**

@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/668e837dfd89780001357d06'
 category:
   - 峇里島分區攻略
 lang: en
-_srcHash: 64ea0e8b4b33bc0f867ab0223b75cf26
+_srcHash: 2c347ac451f6b9bbc9324a995faf98c7
 ---
 
 ## Bali Sunset Timing

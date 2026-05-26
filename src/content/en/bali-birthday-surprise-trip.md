@@ -23,10 +23,11 @@ tags:
   - 烏布
   - 巴杜爾火山
   - 夜間動物園
+update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8bf335fa809f107688196cf263847645.jpg'
 originalUrl: 'https://vocus.cc/article/671da7a4fd89780001b9fac3'
 lang: en
-_srcHash: fa0fa6b1b925e733730a2d51ee825166
+_srcHash: 58adb5d1a860c936e415d2cd82794ba9
 ---
 (Friendly reminder: At the time of posting, VietJet Air still had many zero-dollar ticket promotions available. Interested friends should check them out!)
 
@@ -74,7 +75,7 @@ For dinner, we chose **Wahaha Pork Ribs**, where the grilled pork ribs and corn 
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1778770411095-465550097.jpg)
 
-[**▶Fairfield Legian Availability Check & Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2179176)
+[**▶Fairfield Legian Availability Check & Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2179176) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=8669641&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjM0MDAwNTQ2NdU1SLRMtDBOTNU1sTQxNrDUNTIwMdL4v-zazKfGRgZagvEhnp4uhiWFqWaFpZY5RQWmpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYnNwMnUzNo_ikmEPCXRRX3mRee2DCafsk1qoM3ZDwjF5xAAJsCP2BAAAA&masterhotelid_tracelogid=100051355-0a9a83ae-494309-2042&detailFilters=17|1~17~1*31|8669641~31~8669641*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1425&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/AaX6Ygwm)
 
 >** **[【Kuta Hotel Recommendations】12 Selected Hotels: City Shopping, Airport Transit, High CP Value Accommodations Guide](/blog/best-kuta-hotels-list/)
 
@@ -136,7 +137,7 @@ That evening, we stayed at **Ubud Element by Westin** in Ubud, where the upgrade
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1778770782016-ue1.webp)
 
-[**▶Check Availability & Rates for Ubud Element by Westin**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=4949741)
+[**▶Check Availability & Rates for Ubud Element by Westin**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=4949741) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=15238353&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zczFJMEk9YWZY8ukSf9YhRiNDDgtPgk6ejysElm3u93Bc9ZMINje4xDA08gYtEOu9fVEa4cZjBc7F7GvYGTcyAhW9z7ZYQcj0wFGphOMqxUXMLV13uE5xcLM8ZT1EstXpuhqpezUSiUrEx2lksySnFQlK6Wni-Y9bdjzfEWrko5SSmpxMlAIyErMzS_NKwGyjU2N9QwMgCIliRWeKWCdyYk5yaU5iSWpIZUFQBPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7AYpYWGJOaSrECUAL3VKhdhjW6mC6_Nmc3qfdM19s2o3D5RYWKC43HxCXG9fGPmJhio79xMLwi4WhiZWhi5VhEiszx2rFXaw8gV5R7kF-uoa6UbqGUiqGBgYGpobGpqa6BomWFsZGiRa6JpYmxgYWukYGJgaGhgZmppYa266cmfnU2MhainXKgefT2BUYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWxgaGRoaGRlZGuuZWKSZFVvkFVvkZkV4MAaxmbmYW5pZRtlwMXu6BAne-8-Sq61saS_FHBLuorjyJvPaAxNO22uB5AxhcoEWX8T431susI-EySexVmXohoRn9IoXMDYwMnUxcgswejBGMFYAeYyrGNm5mA2MDAWYNjAy7mD8DwOMrxhBlgAAtgEl-ewCAAA&masterhotelid_tracelogid=100051355-0a9832a8-494308-2040110659&detailFilters=17|1~17~1*31|15238353~31~15238353*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1264&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/xoKiFy4a)
 
 {{block:ubud}}
 
@@ -190,7 +191,7 @@ We stayed overnight at **VIVARA Private Pool Villas & Spa Retreats**. Upon arriv
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1778770893206-406886200.jpeg)
 
-[**▶Check availability & rates at VIVARA Private Pool Villas & Spa Retreats**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=36762751)
+[**▶Check availability & rates at VIVARA Private Pool Villas & Spa Retreats**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=36762751) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=104656334&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6zsTFJMEkdYCJ4_LGq6_ZhBgNLCYKOcb0H_qqwTzBwfObBpD5dKJDAE_ElAPPp7EnelU36_scCXToYmQFC8xgPHf7s-FGxlkzgUAzzmEHI9MJxtOaC5guT1hidIqFmWMDyyWW3YzR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJuaGegZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrI19xMIUHfuJheEXC0MTK0MXKzPHKaZJQPK05i5WthAjAy9_swusU3Wk5A0NDAxMDY1NTXUNEi0TTY2TDXVNLE2MLE11DY2NLEw1zm383PjU2MhaChJyCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9hMzSzMncyjbLiYPV2CBO_9Z8nVVra0l2IOCXdRDHJpC90z8bS9FkjOECYXaPFFjP-95QL7yLxuI-mUSaftk1irMnRDwjN6xQsYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMB6DkTwywCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-13285&detailFilters=17|1~17~1*31|104656334~31~104656334*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=300&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q9wlDejz)
 
 ## **September 10: GWK Cultural Park & Kecak Fire Dance Tour**
 

@@ -24,6 +24,7 @@ tags:
   - 巴厘岛乌鲁瓦图海景酒店 2026
   - Bali cliffside accommodation Uluwatu
   - Best sunset view stay in Bali
+update: 2026/05/22
 heroImage: ''
 originalUrl: ''
 private: false
@@ -35,7 +36,7 @@ agoda_star_rating: 4.5
 latitude: -8.810282707214355
 longitude: 115.1052017211914
 lang: en
-_srcHash: e70a7dd4b612b5a5cf331cd6e261d159
+_srcHash: 60ff010b12f2876fd52697546bb411ba
 ---
 
 While there are many ocean-facing hotels in Uluwatu, Bali, only this one literally lets you 'live on the edge of the cliff.'
@@ -142,6 +143,6 @@ Here are a few things you need to be aware of:
 ## 📌 Booking Information
 
 Rating: Agoda Guest Rating 7.9 ⭐ | Tripadvisor Highly Recommended
-👉 [Book Le Cliff Bali on Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6383164)
+👉 [Book Le Cliff Bali on Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6383164) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=39400751&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/WKQqpbiN)
 
 {{block:uluwatu}}

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/676a2ccefd89780001962994'
 category:
   - 叫車包車
 lang: zh-cn
-_srcHash: 7df7808bf4d7dd2e293870d42e98221f
+_srcHash: d0c0a5da533b0e5df2bf1777c2bf2f56
 ---
 
 当你计划一趟巴厘岛之旅时，交通安排绝对是成功与否的关键！除了大众交通工具外，选择一位可靠的包车司机，将让你的旅程更轻松舒适。这篇文章为大家推荐一位巴厘岛的优良司机 **Gede Arimbawa**，不仅是专业司机，更像是贴心的导游与旅伴。

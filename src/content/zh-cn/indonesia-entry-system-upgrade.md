@@ -15,7 +15,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-cn
-_srcHash: 6467589fe4718872ccfd5cf37c15f888
+_srcHash: 8f1bef83f10bb3391eef3ae55ce33de9
 ---
 
 ## **All Indonesia 是什么？一站式入境系统新概念**

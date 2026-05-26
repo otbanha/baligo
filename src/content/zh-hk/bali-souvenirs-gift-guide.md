@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/664dcf84fd8978000131e5f4'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: b5ec0650821a7a672fe9f1eab35f90bd
+_srcHash: 979f962ba6ca5177f069525b9f55d66e
 ---
 
 去異國旅行買啲手信紀念品，係令呢段寶貴回憶永存嘅方式。當你嚟到美麗嘅峇里島，唔單止可以享受絕美嘅海灘同獨特嘅文化，仲可以帶返各式各樣嘅手信，同家人朋友分享呢趟難忘嘅旅程。

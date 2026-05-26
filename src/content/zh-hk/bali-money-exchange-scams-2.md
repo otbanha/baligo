@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/69933020fd89780001dd0275'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 2e2df626ac5f64ceb8ae0ca2909e644c
+_srcHash: f97a92a13c305923784792e19875d682
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_93ba80c66bbeb7d6d88fcee66ca33fac.png)

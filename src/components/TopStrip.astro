@@ -135,10 +135,13 @@ const row2Rendered = renderRow(row2);
     {row2Rendered.map(({ item, href, active, showNew }) => (
       <a
         href={href}
-        class={`strip-item${active ? ' active' : ''}`}
+        class={`strip-item${active ? ' active' : ''}${item.id === 'live' ? ' strip-live' : ''}`}
         aria-current={active ? 'page' : undefined}
       >
-        <span aria-hidden="true">{item.icon}</span>
+        {item.id === 'live'
+          ? <span class="live-rec" aria-hidden="true"><span class="live-dot"></span></span>
+          : <span aria-hidden="true">{item.icon}</span>
+        }
         <span class="strip-label-full">{(t as any)[item.id].full}</span>
         <span class="strip-label-mobile">{(t as any)[item.id].mobile}</span>
         {showNew && <span class="strip-badge">{t.newBadge}</span>}

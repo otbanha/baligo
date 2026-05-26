@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1fe96274e662eb94f29890119c8abcc0.jpg'
 originalUrl: 'https://vocus.cc/article/6746742bfd897800018d4906'
 lang: zh-cn
-_srcHash: 03feb026db5b6b4da271df19650fad6b
+_srcHash: 0fb51b06feb113cbc5b08fe9626204fc
 ---
 
 巴厘岛一直是热门的旅游胜地，而针对年长者的旅游需求，许多景点和活动都十分友善且舒适。上一集我们介绍了带长辈去巴厘岛的一些注意事项以及必备物品，错过的朋友可以点击[这里](/blog/bali-elderly-travel-guide/)。

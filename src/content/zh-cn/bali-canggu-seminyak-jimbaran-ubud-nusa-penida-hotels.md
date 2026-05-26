@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_614219514932eccd7b9734f03b4e05d8.jpg'
 originalUrl: 'https://vocus.cc/article/65fff19efd897800017026b5'
 lang: zh-cn
-_srcHash: 4c954e8524db0a36f0e183ead831988d
+_srcHash: d5f80749c3947f9e4b46c7ba022ca611
 ---
 
 巴厘岛以其迷人的自然景致、丰富的文化内涵而闻名，每年吸引无数游客到访。这个印尼著名旅游胜地的住宿选择也相当多元丰富，从奢华度假村到经济实惠的小旅馆应有尽有，无论你是追求奢华体验还是简单实惠的住宿，在巴厘岛都能找到合适的选择。

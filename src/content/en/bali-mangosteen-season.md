@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_12cc11716bb437c0193aae868beb4b84.jpg'
 originalUrl: 'https://vocus.cc/article/661943c7fd897800016eaf4a'
 lang: en
-_srcHash: 50a9f2930ed9c6a07dcf58924221a2a2
+_srcHash: 18da272a6410b90307d0f7243641d8ea
 ---
 
 Mangosteen is one of the most abundantly produced tropical fruits in Indonesia. This sweet and tangy fruit typically has a three-month harvest season in a given region.

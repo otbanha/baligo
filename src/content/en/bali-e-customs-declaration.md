@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/68594073fd897800012fa799'
 category:
   - 簽證通關
 lang: en
-_srcHash: fda0ca26e41ba11b817352fc1b2c57d0
+_srcHash: f0e72261aebe85fbeeaf12fcc52f322e
 ---
 
 ## **What is Bali's Electronic Customs Declaration Form?**

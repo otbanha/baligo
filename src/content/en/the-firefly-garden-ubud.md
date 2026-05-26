@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_acc84e91c5ed724c93e3e9a11109338d.jpg'
 originalUrl: 'https://vocus.cc/article/68aa8849fd8978000171256a'
 lang: en
-_srcHash: 50179c17990f73dadc0b4afd3d03573e
+_srcHash: 9c75e6e8615f85c35ab995eecf07f79d
 ---
 
 ## Bali's Firefly Garden Wins Ecotourism Award

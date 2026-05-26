@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/65c039affd89780001e5a3db'
 category:
   - 簽證通關
 lang: en
-_srcHash: cab3d949be4969e507ea37870d5ffca1
+_srcHash: fb2fc5f93665dd223482701a3d634aae
 ---
 
 Starting from 2024, Indonesia will encourage tourists planning to visit Bali to use online immigration services. Visitors can apply for various Indonesian visas online and also handle visa extension procedures online, eliminating the need to visit immigration offices in person! (Latest update as of 2025/05/29: Now it's required to visit immigration offices for fingerprinting! Please see [here](/blog/indonesia-visa-rules-2025/))

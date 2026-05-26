@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/671b753cfd89780001988bb6'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 0f489df1680c234856f4e447cdd614f4
+_srcHash: 0fec4d176b437b5e3d886fab1bc624be
 ---
 
 > 以下內容改編自團友 [Claire Chen](https://www.facebook.com/share/p/17yjQ17JHi/) 分享嘅遊記：

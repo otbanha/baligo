@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64db6b81fd897800013a98ef'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 9e23484a13b62ae766c45570a562f342
+_srcHash: 57c680b98ef5db030b379a32f1c47ba7
 ---
 
 现在入境印尼、巴厘岛还需要有两剂的疫苗证明吗？需要下载什么APP吗？请看底下的说明

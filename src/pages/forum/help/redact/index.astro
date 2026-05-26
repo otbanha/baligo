@@ -1,0 +1,81 @@
+---
+import BaseHead from '../../../../components/BaseHead.astro';
+import Header from '../../../../components/Header.astro';
+import TopStrip from '../../../../components/TopStrip.astro';
+import Footer from '../../../../components/Footer.astro';
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead title="申請撤銷通報 — Go Bali Go" description="" noSuffix />
+  <meta name="robots" content="noindex, nofollow" />
+</head>
+<body>
+  <Header lang="blog" />
+  <TopStrip lang="zh-tw" />
+
+  <main class="redact-page">
+    <div class="redact-container">
+      <a href="/forum/account/" class="back-link">← 返回帳號</a>
+      <h1 class="redact-title">申請撤銷通報</h1>
+
+      <div class="redact-card">
+        <h2>如何申請撤銷？</h2>
+        <p>如果你希望刪除或修改你曾發布的通報，請透過以下方式聯絡我們：</p>
+        <ol class="redact-steps">
+          <li>寄送電子郵件至 <a href="mailto:admin@gobaligo.id" class="email-link">admin@gobaligo.id</a></li>
+          <li>主旨請填寫：<strong>申請撤銷入境通報</strong></li>
+          <li>
+            信件內容請包含：
+            <ul>
+              <li>你的 Google 帳號電子郵件</li>
+              <li>通報的入境日期與機場</li>
+              <li>申請理由（選填）</li>
+            </ul>
+          </li>
+        </ol>
+        <p class="redact-note">我們將在 3 個工作天內處理你的申請。審核通過後，通報將從公開列表中移除。</p>
+      </div>
+
+      <div class="redact-info">
+        <h3>關於隱私保護</h3>
+        <p>你的通報不會包含可直接識別身份的個人資料（如姓名、護照號碼）。若通報中含有你認為需要保護的內容，請透過上述方式聯絡我們。</p>
+      </div>
+    </div>
+  </main>
+
+  <Footer />
+</body>
+</html>
+
+<style>
+.redact-page { padding: 2rem 1rem 4rem; }
+.redact-container { max-width: 600px; margin: 0 auto; }
+
+.back-link { font-size: .9rem; color: var(--ocean); text-decoration: none; display: inline-block; margin-bottom: .8rem; }
+.back-link:hover { color: var(--gold); }
+.redact-title { font-size: 1.4rem; font-weight: 800; color: var(--ocean); margin: 0 0 1.5rem; }
+
+.redact-card {
+  background: #fafaf8;
+  border: 1px solid rgba(201,168,76,.2);
+  border-radius: 12px;
+  padding: 1.5rem;
+  margin-bottom: 1.2rem;
+}
+.redact-card h2 { font-size: 1rem; font-weight: 700; color: var(--ocean); margin: 0 0 .8rem; }
+.redact-card p { font-size: .9rem; color: var(--text); margin: 0 0 .8rem; }
+.redact-steps { font-size: .9rem; color: var(--text); padding-left: 1.4rem; line-height: 1.8; margin: 0 0 .8rem; }
+.redact-steps ul { margin: .3rem 0; padding-left: 1.2rem; }
+.email-link { color: var(--ocean); font-weight: 600; }
+.redact-note { font-size: .82rem; color: var(--text-light); margin: 0; }
+
+.redact-info {
+  background: #eff6ff;
+  border: 1px solid #bfdbfe;
+  border-radius: 10px;
+  padding: 1.1rem 1.3rem;
+}
+.redact-info h3 { font-size: .9rem; font-weight: 700; color: #1d4ed8; margin: 0 0 .5rem; }
+.redact-info p { font-size: .85rem; color: #1e3a5f; margin: 0; }
+</style>

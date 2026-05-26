@@ -20,7 +20,7 @@ heroImage: >-
   https://images.gobaligo.id/images/2026-04/1777196385927-chatgpt_image_2026_4_26_04_38_33.png
 originalUrl: 'https://vocus.cc/article/65b5c7e2fd89780001e96fac'
 lang: en
-_srcHash: bd4e420c9e31f5f0cc4010fcaa5a0a6a
+_srcHash: b4a4cceae6a71f19b59ca0226ccca846
 ---
 
 When planning a trip to Bali, currency exchange is an important and carefully considered preparation step. As part of Indonesia, the only currency used in Bali is the Indonesian Rupiah (IDR). In this article, we'll explore how to exchange currency in the most cost-effective way and recommend some trustworthy exchange shops.

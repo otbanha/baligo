@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/6691f675fd89780001832a5b'
 category:
   - 遊記分享
 lang: en
-_srcHash: bc37426302e45e0cca8ecacd9120e0dd
+_srcHash: 2d9d9b2af98b4c9dc4a23ba97798125e
 ---
 
 > The following content was provided by our group member [Li Wallis](https://www.facebook.com/share/p/JqkCsRBtYLDZtsnV/) and rearranged by us:

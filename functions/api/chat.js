@@ -393,6 +393,31 @@ const PINNED_ARTICLES = [
       { title: 'Tour Inquiry Form — Bali & Komodo Private Tours', url: '/blog/bali-komodo-luxury-tour-2026/' },
     ],
   },
+  {
+    keywords: ['app', 'App', 'APP', '手機app', '手機App', '旅遊app', '旅遊App',
+               '必備app', '必備App', '推薦app', '推薦App', '下載app', '下載App',
+               '峇里島app', '好用app', '好用App'],
+    articles: [
+      { title: '峇里島旅遊必備App推薦｜交通、美食、導航、訂房一次搞定', url: '/blog/bali-travel-apps-guide/' },
+    ],
+  },
+  {
+    keywords: ['水明漾8000', '水明漾千元飯店', '水明漾飯店', '水明漾酒店', '水明漾住宿',
+               '水明漾resort', '水明漾渡假村', '水明漾海灘飯店', '水明漾beachfront',
+               'seminyak hotel', 'seminyak resort', 'seminyak beach resort'],
+    articles: [
+      { title: '峇里島住宿推薦：水明漾的濱海精緻主題住宿指南', url: '/blog/seminyak-beach-resorts-guide/' },
+    ],
+  },
+  {
+    keywords: ['瓶裝水', '礦泉水', '飲用水', '喝水', '水牌子', '水品牌', '哪個牌子',
+               '哪種水', '什麼水', '甚麼水', '水安全', '飲水', '可以喝水嗎',
+               'Aqua', 'aqua', 'Le Minerale', 'le minerale', 'VIT', 'vit water',
+               '峇里島喝水', '峇里島飲水', '自來水'],
+    articles: [
+      { title: '峇里島旅遊健康注意事項：避免生病的實用攻略', url: '/blog/bali-travel-health-tips/' },
+    ],
+  },
 ];
 
 const RATE_LIMIT_MAX = 20;

@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0178fb27de100f76a030d000bd99cedc.jpg'
 originalUrl: 'https://vocus.cc/article/690ae7cafd89780001e08158'
 lang: zh-hk
-_srcHash: ebf464c1810b8b211e275b9d604f2925
+_srcHash: ffd3703e649e11541d73ec64ed2fa8e7
 ---
 
 Belajar Bali Boutique Hotel & Retreat 係坎古區一間相當受好評嘅精品住宿。如果你計劃嚟峇里島，而且想搵一間設計質感強、服務好、風格有啲獨特嘅小型酒店，呢度可能會係值得納入清單嘅選擇。以下就從正面亮點、可能待改進之處，以及我哋嘅建議嚟傾下。

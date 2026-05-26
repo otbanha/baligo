@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/67a88514fd897800017bc4be'
 category:
   - 簽證通關
 lang: en
-_srcHash: 7243f89313564d8677e19b850e0aab6f
+_srcHash: 8990f2f7026c5a329bf4e1c635e09afc
 ---
 
 ## **💡 How to Avoid Common Mistakes in Indonesia Visa Applications?**

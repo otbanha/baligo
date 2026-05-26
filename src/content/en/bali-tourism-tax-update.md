@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66012881fd897800017dfabe'
 category:
   - 簽證通關
 lang: en
-_srcHash: 9c0a42ab9ef51f3a0eab1c3f55038925
+_srcHash: 773f1b67c77e2f4d68493f96f59dabce
 ---
 
 Here's an important update for everyone — Bali's tourism tax is about to undergo spot checks! This new policy has been in effect for five weeks, and now it's time to ensure every visitor understands and complies with this new system.

@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/669a4e3dfd89780001d51716'
 category:
   - 美食景點活動
 lang: en
-_srcHash: e69e1047677e66cd48cb2e5c7d302514
+_srcHash: 221585728bf972aee2b7899634324ebb
 ---
 
 Komodo National Park (Taman Nasional Komodo, abbreviated as TNK) is a world-famous tourist destination, drawing numerous visitors with its unique ecosystem and rare Komodo dragons. However, TNK is set to temporarily close in 2025, sparking widespread attention and discussion. This article will delve into TNK's closure plan and its implications.

@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2d3bd996e584a48e2d3d7cc42d48003f.jpg'
 originalUrl: 'https://vocus.cc/article/67bc10d5fd897800015888e3'
 lang: zh-hk
-_srcHash: 1a8997023f59993e2e616539958b9a73
+_srcHash: c55242aa3e89cd2de4ec04aff8386b9f
 ---
 
 ## **🌊 Ku De Ta Beach Club 係咩？**

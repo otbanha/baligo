@@ -1,0 +1,44 @@
+name: 每日峇里島旅遊情報
+
+on:
+  # 備援排程：UTC 15:00（Jakarta 22:00）才跑，正常由 Cloudflare Worker 在 UTC 13:00 觸發
+  schedule:
+    - cron: '0 15 * * *'
+
+  # 允許手動觸發（測試用）
+  workflow_dispatch:
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: 安裝 Python 依賴
+        run: pip install requests
+
+      - name: 生成今日旅遊情報
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        run: python3 gemini_daily_news.py
+
+      - name: Commit 新文章
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add src/content/blog/ scripts/topics-history.json
+          if git diff --cached --quiet; then
+            echo "沒有新文章，跳過 commit"
+          else
+            TOMORROW=$(date -u -d "+1 day" +"%Y/%m/%d" 2>/dev/null || date -u -v+1d +"%Y/%m/%d")
+            git commit -m "feat: 自動生成峇里島旅遊情報 ${TOMORROW}"
+            git push
+          fi

@@ -28,7 +28,7 @@ agoda_star_rating: 5
 latitude: -8.812800407409668
 longitude: 115.1447982788086
 lang: en
-_srcHash: c55b1fb8d08357a14d22341f7382fd0e
+_srcHash: 93b2e5cdc9f17c429cac77e2b07e33aa
 ---
 
 ## Bali Uluwatu's Boutique Luxury Resort Paradise

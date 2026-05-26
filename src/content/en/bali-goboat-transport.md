@@ -21,7 +21,7 @@ category:
   - 旅行技巧
   - 叫車包車
 lang: en
-_srcHash: 7d9edcf85eba5279f91a8c07148666aa
+_srcHash: 86f8edaf1dfc2b1755aa2166b73fd1a1
 ---
 
 ## Introduction to GoBoat Bali Transportation Service

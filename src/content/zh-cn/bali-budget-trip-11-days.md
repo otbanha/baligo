@@ -3,6 +3,7 @@ slug: bali-budget-trip-11-days
 title: 水上活动被「共盘子」！巴厘岛自由行花费大公开！11天10夜这样玩，性价比超高！
 description: 巴厘岛11天10夜自由行深度游记
 pubDate: '2025-02-25'
+update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6795d36bfd8978000139ce96.png'
 tags:
   - 峇里島
@@ -14,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/6795d36bfd8978000139ce96'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: e1049036ebd7f195aa52d4219784de2a
+_srcHash: 6bfddeb939d1a0601b73c93434f93b4d
 ---
 
 > 以下内容改编自团友 [高荣繁 分享游记](https://www.facebook.com/share/p/14kAoJ6sDG/)：
@@ -28,7 +29,7 @@ _srcHash: e1049036ebd7f195aa52d4219784de2a
 - **日期**：2025年1月1日（三）至2025年1月11日（六）
 - **机票**：中华航空，价格约USD$858/2人
 - **住宿**：
-- - **乌布**：[Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070)，5晚共USD$262，享受原始丛林的宁静与鸟鸣。
+- - **乌布**：[Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=684992&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLS0SDWxtNQ1sTQxNrDUNTYyMLHU2Ni1YNZTIFNLMD7E09PFsKQw1ayw1DKnqMD0FKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbsamLk7FxFJ8Uc0i4i-LKm8xrD0w4bZ_EWpWhGxKe0SsOAPDEijSCAAAA&masterhotelid_tracelogid=100051355-0a98e499-494309-32049&detailFilters=17|1~17~1*31|684992~31~684992*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=468&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/HvLmsISG)，5晚共USD$262，享受原始丛林的宁静与鸟鸣。
   - **金巴兰**：[Anja Jimbaran](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5877670)，5晚共USD$290，步行5分钟即可到达海边，感受黄金夕阳与海浪声的魅力。
 - **其他费用**：
 - - **观光税**：2人共USD$21
@@ -48,7 +49,7 @@ _srcHash: e1049036ebd7f195aa52d4219784de2a
 
 晚上 6 点，我们抵达乌布酒店，正式展开这次旅程。巴厘岛的夜晚充满热带风情，空气中弥漫着淡淡的花香，让人瞬间感到放松与愉悦。放下行李后，我们走到外面热闹的街道用餐，非常多餐厅可以选择。并早早休息以迎接第二天的冒险。
 
-参考我们的住宿：[Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070)
+参考我们的住宿：[Bhuwana Ubud Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=338070) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=684992&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLS0SDWxtNQ1sTQxNrDUNTYyMLHU2Ni1YNZTIFNLMD7E09PFsKQw1ayw1DKnqMD0FKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbsamLk7FxFJ8Uc0i4i-LKm8xrD0w4bZ_EWpWhGxKe0SsOAPDEijSCAAAA&masterhotelid_tracelogid=100051355-0a98e499-494309-32049&detailFilters=17|1~17~1*31|684992~31~684992*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=468&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/HvLmsISG)
 
 ---
 

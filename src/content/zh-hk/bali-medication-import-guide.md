@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65f4f94ffd897800016b340a'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: f6771f7069cff893128c9ae3f0c28a07
+_srcHash: 98c8b65bbf365cbd99532e19369dc1a7
 ---
 
 近日，一名來自澳洲嘅女模喺峇里島入境時遇到麻煩，佢因為帶嘅藥物喺印尼被視為禁藥而被拘留咗成4日，仲接受咗長達14個鐘頭嘅審問。呢件事提醒咗去印尼旅遊嘅人，特別係帶特別藥物嘅旅客，一定要格外小心。

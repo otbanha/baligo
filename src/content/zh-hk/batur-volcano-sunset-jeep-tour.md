@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_129a0ecd951ffe4165c231c9e21b0fcb.png'
 originalUrl: 'https://vocus.cc/article/67d63943fd89780001c33ce2'
 lang: zh-hk
-_srcHash: 93d38e570902b38a695be6cdd44f217b
+_srcHash: 6410606f5c12aa9b6482d97c386989a1
 ---
 
 ### 邊個話峇里島嘅火山淨係可以睇日出？而家你唔使晨咁早起身就係為咗睇日出...

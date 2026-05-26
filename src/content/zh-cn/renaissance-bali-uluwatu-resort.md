@@ -23,7 +23,7 @@ agoda_star_rating: 5
 latitude: -8.812800407409668
 longitude: 115.1447982788086
 lang: zh-cn
-_srcHash: c55b1fb8d08357a14d22341f7382fd0e
+_srcHash: 93b2e5cdc9f17c429cac77e2b07e33aa
 ---
 
 ## 巴厘岛乌鲁瓦图的精品奢华度假天堂

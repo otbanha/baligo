@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0fbf0fa6cbdf5a3d06b5e9a8b4a461a0.jpg'
 originalUrl: 'https://vocus.cc/article/67e62aa8fd89780001888620'
 lang: zh-cn
-_srcHash: e999aff09a8cd8831554576406422ddf
+_srcHash: 06a50639f8235e93cc925d21e258b9c6
 ---
 
 巴厘岛以其壮丽的自然景观和丰富的文化遗产闻名于世，其中漂流活动更是吸引无数游客前来体验的冒险项目。在蜿蜒的河流中穿梭，感受急流与宁静水域交替带来的刺激，并沿途欣赏茂密的热带雨林、壮观的峡谷和隐秘的瀑布，这些都是巴厘岛漂流的独特魅力所在。

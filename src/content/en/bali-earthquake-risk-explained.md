@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/66c16fdefd897800015d7148'
 category:
   - 旅行技巧
 lang: en
-_srcHash: f0ef7dad91b8cf2c0dcfe5b216fa5a55
+_srcHash: e78f9a9890ea255edc4c51ae0782b533
 ---
 Several potential sites for major earthquakes in Indonesia
 

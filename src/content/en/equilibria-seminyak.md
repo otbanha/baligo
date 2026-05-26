@@ -26,6 +26,7 @@ tags:
   - 巴厘岛水明漾豪华别墅推荐 2026
   - eqUILIBRIA Seminyak waterfall pool
   - Best sustainable luxury villa in Bali
+update: 2026/05/24
 heroImage: ''
 originalUrl: ''
 private: false
@@ -37,7 +38,7 @@ agoda_star_rating: 5
 latitude: -8.68280571514324
 longitude: 115.162677168846
 lang: en
-_srcHash: 4ad52b954733cccbe4b89d2a5c008a00
+_srcHash: 2d714562d64e51d39e5ca38cbf2eb361
 ---
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776258261888-b94a7bc5b4bc78f4b2e259f28f8227f0.webp)
@@ -161,6 +162,6 @@ A few points to clarify. First, **there’s no formal restaurant**, so meals are
 ## 📌 Booking Information
 
 > Rating: Tripadvisor 4.8/5, #9/66 (Kerobokan Kelod area) ⭐ | Agoda Location Score 9.5 Overall Score 9.3
-> 👉 Click here for the latest rates and availability: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=290011)｜[Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685578&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_CMWPvrD_MQoxGBnPZLWZFOy4psOW6fnqig6dmTP-hr1emOgTwREw58Hwae-LF0xrTotMcHboYWcECMxi73mhuZBRZ5_6wSqXAYQcj0wFGphOMD5beYVzAtGfzf55TLCwcl25rXGL5zRRdrZSdWqlkZaKjVJJZkpOqZKX0dNG8pw17nq9oVdJRSkktTgYKAVmJufmleSVAtrGxsamJqZ6BAVCwJLHCMwWsOTkxJ7k0J7EkNaSyAGiImY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FuAJooVsq1A7DWh1Mxz-b0_u0e-aLTbuJdrw5tR1vQIzjjWtjH7EwRcd-YmH4xcLQxMrQxcrCMWE_6yRWVg5QRO1i5XD3sPC0MNA1vMD64clDRil5QwMDA1NDY1NTXYNEy0RLI6NUXRNLE0MTU10zM1NLY43Dj3Y2PjY2spaCpAIFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbOYmRqZuFlE2XMyhwS6Cx73NOx0dpB2kmD1dghRD7rd_UAi3tNcCyRnC5AL7dxe_m36a1z4SJp_EWpWhGxKecVysgLGBgamLkVuA0YMxgrECyGNcxciwgZFxB-N_GGB8xQgyHQCDD1xW-wIAAA&masterhotelid_tracelogid=100051355-0a9a922e-494145-66593&detailFilters=17|1~17~1*31|685578~31~685578*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1380&isCT=true&isFlexible=F&isFirstEnterDetail=T&locale=zh-TW&isRightClick=T&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17014118)
+> 👉 Click here for the latest rates and availability: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=290011) [Booking](https://booking.tpm.li/x2XGVOhT)｜[Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685578&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_CMWPvrD_MQoxGBnPZLWZFOy4psOW6fnqig6dmTP-hr1emOgTwREw58Hwae-LF0xrTotMcHboYWcECMxi73mhuZBRZ5_6wSqXAYQcj0wFGphOMD5beYVzAtGfzf55TLCwcl25rXGL5zRRdrZSdWqlkZaKjVJJZkpOqZKX0dNG8pw17nq9oVdJRSkktTgYKAVmJufmleSVAtrGxsamJqZ6BAVCwJLHCMwWsOTkxJ7k0J7EkNaSyAGiImY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FuAJooVsq1A7DWh1Mxz-b0_u0e-aLTbuJdrw5tR1vQIzjjWtjH7EwRcd-YmH4xcLQxMrQxcrCMWE_6yRWVg5QRO1i5XD3sPC0MNA1vMD64clDRil5QwMDA1NDY1NTXYNEy0RLI6NUXRNLE0MTU10zM1NLY43Dj3Y2PjY2spaCpAIFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbOYmRqZuFlE2XMyhwS6Cx73NOx0dpB2kmD1dghRD7rd_UAi3tNcCyRnC5AL7dxe_m36a1z4SJp_EWpWhGxKecVysgLGBgamLkVuA0YMxgrECyGNcxciwgZFxB-N_GGB8xQgyHQCDD1xW-wIAAA&masterhotelid_tracelogid=100051355-0a9a922e-494145-66593&detailFilters=17|1~17~1*31|685578~31~685578*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1380&isCT=true&isFlexible=F&isFirstEnterDetail=T&locale=zh-TW&isRightClick=T&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17014118)
 
 {{block:smk}}

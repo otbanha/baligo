@@ -6,6 +6,7 @@ description: >-
   family of four. As travelers visiting this beautiful island for the fourth
   time, we still managed to discover new joys and moving experiences...
 pubDate: '2024-09-09'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_665788e465bdd16779eede7aab3fe8d5.jpg'
 tags:
   - 峇里島親子
@@ -18,7 +19,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: en
-_srcHash: 0cc47e25c99e380ef43663144ff0bbc7
+_srcHash: 48e4fa0cb2a8759e34da07b49dfbdf57
 ---
 
 > The following content was provided by fellow traveler [Lin Xiaozhao](https://www.facebook.com/groups/baligo/permalink/1591013088112597/) and rearranged by us:
@@ -83,7 +84,7 @@ Provided by Lin Xiaozhao
 
 During our stay in Ubud, we checked into the Rijasa Agung Hotel, located by the Ayung River. Every morning, we woke up to the soothing sound of flowing water, which was incredibly relaxing. The temperature here is pleasant, and our family room came with a private pool, garden, and a traditional Balinese gazebo. The space felt enormous, easily over 10,000 square feet, offering exceptional value for money. Our entire family was thoroughly satisfied.
 
-[**▶ Check Rates & Availability at Rijasa Agung Resort and Villas**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341)
+[**▶ Check Rates & Availability at Rijasa Agung Resort and Villas**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=665341) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1744536&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/c79DvepT)
 
 Featured in [【Ubud Accommodation】28 Unique Stays in Ubud, Bali: A Magical Journey Amidst the Island’s Lush Landscapes!](/blog/ubud-villas-pool-guide/)
 

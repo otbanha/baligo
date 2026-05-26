@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e09b7f7c232901f97b6715f51d555133.jpg'
 originalUrl: 'https://vocus.cc/article/65b79bfdfd89780001948d10'
 lang: en
-_srcHash: 54ca8e6df9cfc138d5d7fc465c76f399
+_srcHash: 8aaa3ad67897b1ae00ac60c0ed739647
 ---
 
 ![在峇里島東部有三個相隔不遠的景點，是可以拍出仙氣美照的好地方喔！](https://images.gobaligo.id/vocus/vocus_f857899475fdab3ed10fd44672c1ba21.jpg)

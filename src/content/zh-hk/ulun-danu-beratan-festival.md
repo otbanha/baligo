@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6847dc25fd89780001779046'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 6e3590f035d3ad28b2843d8e9202ec97
+_srcHash: 57cf3006cb4ca0f6eb2ce6bdc3c5c74c
 ---
 
 ### **峇里島迎接旅遊旺季，文化活動全面啟動**

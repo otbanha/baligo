@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0c283f8858719c4074b284d20a81e28e.jpg'
 originalUrl: 'https://vocus.cc/article/6789be68fd89780001c3ec93'
 lang: en
-_srcHash: 4ad3451c3b8daf6068397cc828bc1490
+_srcHash: d0002f3449fbd6e52e2e5150663a6c03
 ---
 
 ## Nestled in the outskirts of Ubud, Bali, lies a serene retreat - Bidadari Private Villas & Retreat. Offering world-class services, it's the perfect choice for those seeking a private getaway away from the hustle and bustle.

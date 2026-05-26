@@ -21,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/64db6b62fd897800013a91b0'
 category:
   - 住宿推薦
 lang: en
-_srcHash: 51df24cc023bad2e2e05e194d3b9396b
+_srcHash: ff477894334a5954e3eb5e5e28355bbd
 ---
 
 Bali offers thousands of accommodation options, making it challenging to decide on a hotel with beautiful decor, great ambiance, and convenient location.

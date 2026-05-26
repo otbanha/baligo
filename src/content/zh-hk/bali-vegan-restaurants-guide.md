@@ -23,10 +23,8 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777694520071-vegan.png'
 originalUrl: 'https://vocus.cc/article/66dc687afd8978000151d046'
 lang: zh-hk
-_srcHash: 78bcc9204cf07e1a5bf60051d6026bc2
+_srcHash: 95198a1499f32879d30bee746923c317
 ---
-
-update: 2026/05/20
 
 峇里島作為全球知名嘅旅遊勝地，唔單止吸引咗鍾意冒險、文化探索嘅旅人，對素食愛好者嚟講，更加係一個充滿驚喜嘅美食天堂。無論係悠閒嘅坎古(Canggu)、潮流匯集嘅水明漾(Seminyak)，定係文化豐富嘅烏布(Ubud)同高端度假嘅努沙杜瓦(Nusa Dua)，你都可以搵到好多素食友善嘅餐廳。呢啲餐廳唔單止以創新嘅菜式同營養豐富嘅餐點聞名，更加係環保同健康飲食嘅倡導者。好多餐廳仲獲得咗Tripadvisor【Travelors' Choice】嘅殊榮。
 

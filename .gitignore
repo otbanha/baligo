@@ -26,3 +26,6 @@ pnpm-debug.log*
 
 # Claude Code worktrees (local only, should never be committed)
 .claude/worktrees/
+.wrangler/
+.env
+dist/

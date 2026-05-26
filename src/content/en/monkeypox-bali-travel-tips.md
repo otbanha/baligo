@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/66c9649bfd89780001519292'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 9449d78d381502995d48baf1522ad6dd
+_srcHash: 72e439aa596e2d4e976a55736b08d214
 ---
 
 Mpox (formerly known as monkeypox) has become a global public health concern due to its recent outbreak. As Indonesia continues to welcome international travelers, authorities have implemented strict screening measures at Bali's Ngurah Rai International Airport to prevent the spread of the virus. This article explores these new measures, their impact on travelers, and the future prospects of Mpox prevention in Bali.

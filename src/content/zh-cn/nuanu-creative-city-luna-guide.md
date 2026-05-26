@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_55ede6433e92d99ef451b578d4341434.jpg'
 originalUrl: 'https://vocus.cc/article/68026619fd89780001f56243'
 lang: zh-cn
-_srcHash: c6c282ede6264f33c4b14baaed0537be
+_srcHash: 7747acc8cceedabf45ee2541d81e2e28
 ---
 
 Nuanu Creative City是位于印尼巴厘岛塔巴南(Tabanan，位置在海神庙以南)地区的44公顷大型创意园区，由俄罗斯科技企业家Sergey Solonin于2020年创立，总投资达1亿美元。这个雄心勃勃的项目名称"**Nuanu**"源自巴厘语，意为"**进行中**"，象征着这个创意城市不断演进与发展的本质。Solonin在五年前移居巴厘岛后启动了这个项目，旨在创造一个艺术、科技与自然和谐共存的生态系统。

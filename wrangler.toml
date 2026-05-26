@@ -1,4 +1,5 @@
-compatibility_date = "2024-01-01"
+compatibility_date = "2024-09-23"
+compatibility_flags = ["nodejs_compat_v2"]
 
 [ai]
 binding = "AI"
@@ -11,3 +12,22 @@ bucket_name = "baligo-image"
 binding = "DB"
 database_name = "bali-chat-logs"
 database_id = "680c2cb9-e863-4f43-85e9-7435df71fcdf"
+
+# URL Unfurl Tool — KV namespaces
+# Create these in Cloudflare Dashboard → KV → Create namespace, then fill in the IDs below.
+# Also add ADMIN_SECRET as an encrypted Environment Variable in Cloudflare Pages settings.
+[[kv_namespaces]]
+binding = "UNFURL_CACHE"
+id = "d81c40a2f4b34cd9b5637d32895419ac"
+
+[[kv_namespaces]]
+binding = "UNFURL_RATELIMIT"
+id = "5f24da964d4e4cb58df2075fa59a1983"
+
+[[kv_namespaces]]
+binding = "UNFURL_RECENT"
+id = "d79eecb1f54b401e8b2fe24baba8d191"
+
+[[kv_namespaces]]
+binding = "UNFURL_BLOCKLIST"
+id = "bfb657d42bcc49eeb6576e1cf05a5c00"

@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_dd76f1e8177a1813dc222d3266ae811b.jpg'
 originalUrl: 'https://vocus.cc/article/661e7b1ffd89780001f1da05'
 lang: zh-hk
-_srcHash: 1183c3b0db024a22133788f74f017f4a
+_srcHash: c4e27be38e95b5b2bd38978191a393d0
 ---
 
 檳榔係台灣常見嘅零食，好多人都有食檳榔嘅習慣。不過，檳榔喺好多國家都被視為毒品或者違禁品，所以帶檳榔出國要特別小心。

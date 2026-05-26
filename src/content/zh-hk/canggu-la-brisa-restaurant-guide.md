@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a1d286264ed333dad9574c961065d669.jpg'
 originalUrl: 'https://vocus.cc/article/656d19fffd897800019cb6ed'
 lang: zh-hk
-_srcHash: d2d192aa3b9f4ff35ae3de20f4681f31
+_srcHash: e7c7fd15a2ab6e81b4dd39422af9b059
 ---
 你一定好難想像，一個面積約為新北市2倍大嘅島嶼，有上萬間嘅酒店/villa，超過酒店/villa數量好多倍嘅美食餐廳。因為呢個地方嘅旅遊真係太熱門啦！
 

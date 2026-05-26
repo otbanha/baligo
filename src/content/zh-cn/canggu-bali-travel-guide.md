@@ -19,7 +19,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/aglSSIW2vZg'
 lang: zh-cn
-_srcHash: ffb2e518eef1ca1981d791d22ba0efb3
+_srcHash: ec8ce5f0eb581db5932763963cf33239
 ---
 
 上一集的坎古攻略我们大概介绍了坎古的样貌, 还有为何坎古会成为巴厘岛最潮的地方。可以看看我们的介绍喔:

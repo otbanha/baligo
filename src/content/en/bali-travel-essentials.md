@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e2b3c44697ed5c6222c29bcfdcf4756f.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b7efd897800013a9821'
 lang: en
-_srcHash: c5a98a121050cde2849dfadb548caf66
+_srcHash: 2ddd99c2737fc883a1d60392c9ba1ff3
 ---
 
 When traveling abroad, please follow Xiao Jie's advice to be fully prepared!

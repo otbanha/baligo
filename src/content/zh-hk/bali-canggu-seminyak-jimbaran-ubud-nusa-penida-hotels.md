@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_614219514932eccd7b9734f03b4e05d8.jpg'
 originalUrl: 'https://vocus.cc/article/65fff19efd897800017026b5'
 lang: zh-hk
-_srcHash: 4c954e8524db0a36f0e183ead831988d
+_srcHash: d5f80749c3947f9e4b46c7ba022ca611
 ---
 峇里島以其迷人嘅自然景致、豐富嘅文化內涵而聞名，每年吸引無數遊客到訪。呢個印尼著名旅遊勝地嘅住宿選擇都相當多元化，由豪華度假村到經濟實惠嘅小旅館應有盡有，無論你係追求奢華體驗定係簡單實惠嘅住宿，喺峇里島都搵到合適嘅選擇。
 

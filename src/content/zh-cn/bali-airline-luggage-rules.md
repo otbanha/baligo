@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65b62204fd89780001edda35'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: ed118942fb4f29d2ce0268cd14817cb6
+_srcHash: 3984a84770f061696b15b188fd70ec4d
 ---
 
 飞往巴厘岛的旅程，是一段充满梦幻与奇迹的体验，而对于许多旅客而言，机上行李的限制常常是旅程中的一大考验。为了确保航空安全、提供更好的服务，飞巴厘岛的航空公司均设定了一系列的行李限制，让旅客在出行前能有所准备。

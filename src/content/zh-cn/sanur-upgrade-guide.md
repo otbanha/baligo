@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d27bcc8d17bb47c63b07984562154e9c.jpg'
 originalUrl: 'https://vocus.cc/article/698d771afd89780001418f97'
 lang: zh-cn
-_srcHash: 40ffcbe7a461304d3c254c1627bf4b38
+_srcHash: 458b493b55e9d5f3c2b0837bc93d1e66
 ---
 
 提到巴厘岛的海滩度假区，很多人第一个想到的是库塔，但其实**Sanur才是巴厘岛最早发展的海滨度假区**。它低调、优雅、不张扬，却一直稳稳地存在。

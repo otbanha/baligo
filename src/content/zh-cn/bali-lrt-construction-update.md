@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/669e605afd8978000115575b'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: ad55f769f90bf78087678301f383e172
+_srcHash: 9e1da1e5ea82f3dd47fb8a6f708c4edc
 ---
 
 巴厘岛作为印尼的旅游胜地，长期以来受到大量国内外游客的青睐。然而，随着旅游业的蓬勃发展，巴厘岛的交通压力也逐年增加。为了解决这一问题，巴厘岛政府决定启动轻轨交通（LRT）项目，并计划于2024年9月正式开始施工。

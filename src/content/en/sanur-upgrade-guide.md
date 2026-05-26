@@ -14,7 +14,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d27bcc8d17bb47c63b07984562154e9c.jpg'
 originalUrl: 'https://vocus.cc/article/698d771afd89780001418f97'
 lang: en
-_srcHash: 40ffcbe7a461304d3c254c1627bf4b38
+_srcHash: 458b493b55e9d5f3c2b0837bc93d1e66
 ---
 
 When it comes to beach resorts in Bali, many people first think of Kuta, but **Sanur is actually Bali's earliest developed coastal resort area**. It's low-key, elegant, and unassuming, yet it has always maintained its charm.

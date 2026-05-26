@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/6596cae5fd89780001f43bff'
 category:
   - 簽證通關
 lang: en
-_srcHash: 5fe4df17c049be358c6fa6b732bf23ca
+_srcHash: 7f7d4c48e5da2a155d9c0a5673c24f8a
 ---
 
 **Those who apply for e-visas online in advance will be able to use the automated immigration system!**

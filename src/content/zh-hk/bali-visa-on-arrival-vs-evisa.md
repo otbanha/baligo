@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9ef327186d7f893afa30a3c683286a04.png'
 originalUrl: 'https://vocus.cc/article/6638e732fd89780001565d48'
 lang: zh-hk
-_srcHash: 76ff8c8d132c683e2ed3dece9d4e042a
+_srcHash: 5cb6712de11cea704cee451064c4ac14
 ---
 
 團友James Lin一家最近去咗一趟峇里島。佢哋事先喺網上辦理咗電子簽證。抵達峇里島機場後，佢哋喺自動通關區快速通關，只係用咗5分鐘就辦理好入境手續。

@@ -32,12 +32,13 @@ tags:
   - Bali delivery service
 heroImage: https://images.gobaligo.id/images/2026-04/1777187667446-chatgpt_image_2026_4_26_02_10_06.png
   https://images.gobaligo.id/images/2026-04/1777187667446-chatgpt_image_2026_4_26_02_10_06.png
+  https://images.gobaligo.id/images/2026-04/1777187667446-chatgpt_image_2026_4_26_02_10_06.png
 originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 180a322d7fac3eab73d13e3c89840386
+_srcHash: 22339db8d5867bb6ab8888ef6bce0446
 ---
 
 In many people's impressions, Bali is synonymous with relaxation, vacation, and a slow pace of life.

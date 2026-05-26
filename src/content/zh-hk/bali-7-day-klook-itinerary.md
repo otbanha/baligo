@@ -5,6 +5,7 @@ description: >-
   如果你同我一樣，唔係鍾意花時間做功課嘅旅人，但又想一次過睇盡峇里島嘅美景，咁我真係推薦你將Klook一日遊排入你嘅行程！呢次七日六夜嘅峇里島自由行，我哋總共安排咗三次Klook一日遊（第2日、第4日、第6日），每一次都玩得輕鬆又精彩～真係「上車瞓覺、落車影相」嘅極致體驗，想分享俾都想輕鬆玩峇里島嘅你
   ❤️
 pubDate: '2025-05-20'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_49f9c36a21512cf66bd91a77ff53d389.png'
 tags:
   - 峇里島
@@ -16,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/682c01fffd8978000182fc13'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 61c108326c13c30f6282ec07bb1e4d1c
+_srcHash: a61d52ba88ca58906a5cdf8ecc83687d
 ---
 如果你同我一樣，唔係鍾意花時間做功課嘅旅人，但又想一次過睇盡峇里島嘅美景，咁我真係推薦你將Klook一日遊排入你嘅行程！呢次七日六夜嘅峇里島自由行，我哋總共安排咗三次Klook一日遊（第2日、第4日、第6日），每一次都玩得輕鬆又精彩～真係「上車瞓覺、落車影相」嘅極致體驗，想分享俾都想輕鬆玩峇里島嘅你 ❤️
 
@@ -30,7 +31,7 @@ _srcHash: 61c108326c13c30f6282ec07bb1e4d1c
 
 我哋入住嘅 Griya Santrian 係一間位於海灘第一排嘅度假村，由泳池行幾步就到沙灘，超適合鍾意浸水或者鍾意海灘嘅旅人。呢度嘅建築保留咗峇里島傳統風格，花園景觀悠然舒適。酒店仲有提供SPA、瑜伽課同海景餐廳，非常適合想享受「慢活沙努爾」魅力嘅旅人。
 
-> ➡️ [**Griya Santrian a Beach Resort 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10336)
+> ➡️ [**Griya Santrian a Beach Resort 房價 & 空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10336) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685091&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxMLFJMEk1c3CsXTJrZNsQsyGBkYGj9gsLhg6Xl9cYMul3e7gefirRkz_oR6HAJ6IKQeeT2NP5OyST353JNChi5EVLDCDcfELzRWMjBsZ17k_rBKJS3PYwch0gJHpBONWxQVMdyessz_Fwsyxj-0Sy1em6Gql7NRKJSsTHaWSzJKcVCUrpWdzep92z3yxabeSjlJKanEyUAjISszNL80rAbJNDE31DAyAIiWJFZ4pSlbmOkrJiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLsBilhYYk5pKsQJQAvdUqF2GNfqYLr86aJ5Txv2PF_RSpzLTajtckNiXG5YG_uIhSk69hMLwy8WhiZWhi5WZo5TTJOA5FbFXay8wa4Rxv7huoYhulG6hhdY_ytLKRoaGBgYmZoamesaJFpaGJmkpuqaWJoYWZrqGpkYGBqZmWt8-76i6amxkbUUJAUoMGoJxod4eroYlhSmmhWWWuYUFZgaMJ5ilDI0N7YwNDI0NDIysjTWM7FIMyu2yCu2yM2K8GAMYnM2MbV0c4qy4WIODXYR7D8ETGn60g5SzCHhLopBLm2heyaettdi9nQJMrz3nyVXW9nSPtDiixj_e8sF9pEP0mMsBCadtk9ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMbJzMRsYGQowbWBk3MH4HwYYXzGCLAEA6DBSVgADAAA&masterhotelid_tracelogid=100025527-0a9824ee-494295-2401267&detailFilters=17|1~17~1*31|685091~31~685091*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=375&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/PAFloKEn)
 
 第一日我哋就選擇輕鬆度過，行吓附近嘅海灘同商場。峇里島嘅熱帶氣息同海風令人即刻進入度假狀態～
 
@@ -77,7 +78,7 @@ _srcHash: 61c108326c13c30f6282ec07bb1e4d1c
 
 嚟到峇里島點可以唔享受吓villa！？我哋住嘅 Ayuterra Resort 係一間令我行唔出泳池嘅VILLA🏞️。房間設計時尚又寬敞，戶外私人無邊際泳池直接對住阿勇河峽谷，每一秒都好似喺度影明信片📸。夜晚浸喺池度睇星星、朝早聽住雀仔聲醒，係我烏布旅程中最放鬆、最浪漫嘅一晚❤️。非常推薦俾蜜月或者慶祝特別日子嘅情侶！
 
-> 👉[**Ayuterra Resort 房價及空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1637022)
+> 👉[**Ayuterra Resort 房價及空房查詢**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1637022) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=9056301&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6y8TFJMEkdY2JY-XNFSdYhZgNDYw07rMZ3Ge02CrvKLLO_WHViT4Hz0JbruuLL05yCOCJmHLg-TT2RK_qZn2fI4EOXYysYIEZjGsfrGDZyGgMAtnZDjsYmQ4wMp1gvKu9gOnWizfcp1iYOX6zX2LZzRhdrZSdWqlkZaKjVJJZkpOqZKX0dNG8pw17nq9oVdJRSkktTgYKAVmJufmleSVAtqGBoaWegQFQqCSxwjMFrDU5MSe5NCexJDWksgBohJGOUmaxc0lRZkFQam5mSUkqUFVaYk5xKkg8KLUYKJMMFgQZXATlZ-bnQXQboIiFJeaUpkJUAu1zS4VaYVgb-4iFKTr2Bct9tk8sDL9YGJpYGbpYmTlOMU0Ckne1d7Hy-vmbmHr56hqG6EbpGl5gXWMspWhoYGBgZGpqZK5rkGiZaJGakqJrYmliZGmia2JhaGRuYaJx5NTSxqfGRtZSkJBUYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobgzUYmhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmTg6mpqFmXDxRwa7CL4XHb5Cw89aQcp5pBwF8WVN5nXHphw2l6L2dMlyPDef5ZcbWVL-0CLL2L87y0X2EcGubSF7pl42j6JtSpDNyQ8o1e8gLGBkamLkVuA0YMxgrECyGNcxcjOxWxgZCjAtIGRcQfjfxhgfMUIsgQAcqVk9EsCAAA&masterhotelid_tracelogid=100025527-0a9a8edd-494294-4812784&detailFilters=17|1~17~1*31|9056301~31~9056301*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=882&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/0xcNRC9t)
 
 ---
 

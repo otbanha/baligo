@@ -31,7 +31,7 @@ agoda_star_rating: 5
 latitude: -8.540929794311523
 longitude: 115.23595428466797
 lang: en
-_srcHash: 3b8bc9ef9918f3f8eba41ccdac9ade6e
+_srcHash: fd6c3e9ebce5150dbf8b94161fd7ff71
 ---
 In 2024, E Sanctuary Resort Ubud quietly debuted in Ubud, Bali. This new five-star resort is conveniently situated just 5.8 kilometers from Ubud's lively city center, providing a serene escape where guests can fully immerse themselves in the tranquil atmosphere of the tropical rainforest. Featuring only seven exquisitely designed rooms, this boutique resort combines modern simplicity with traditional Balinese elements, offering a haven for complete relaxation.
 

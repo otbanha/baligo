@@ -28,6 +28,12 @@ export async function onRequestGet(context) {
   const url = new URL(context.request.url);
   const p = url.searchParams;
 
+  // No trip-planner params → serve the static unfurl tool page
+  const TRIP_PARAMS = ['c', 'd', 'i', 'b', 'a', 's'];
+  if (!TRIP_PARAMS.some(k => p.has(k))) {
+    return context.next();
+  }
+
   const companion = COMPANION_ZH[p.get('c')] || '';
   const days      = DAYS_ZH[p.get('d')] || '';
   const areas     = (p.get('a') || '').split(',').filter(Boolean)

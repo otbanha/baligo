@@ -24,7 +24,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 6f6f4131379b3138cb4212c4313224d5
+_srcHash: c59afaad8bf39abcebde84afb000ba2a
 ---
 
 准备好打包行李，前往心目中的度假天堂了吗？根据 TripAdvisor 的评选，巴厘岛在 2026 年依然高居全球最受欢迎的旅游目的地榜首。然而，这个「神明之岛」近来频频登上国际媒体版面，除了无可取代的美景与文化外，逐渐恶化的「垃圾危机」也引发了全球旅客的关注。

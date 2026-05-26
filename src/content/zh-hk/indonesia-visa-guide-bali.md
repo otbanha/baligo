@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67a88514fd897800017bc4be'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: 7243f89313564d8677e19b850e0aab6f
+_srcHash: 8990f2f7026c5a329bf4e1c635e09afc
 ---
 
 ## **💡 點樣避免印尼簽證申請中嘅常見錯誤？**

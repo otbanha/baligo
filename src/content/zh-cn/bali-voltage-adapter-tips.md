@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1778167260923-plug.png'
 originalUrl: 'https://vocus.cc/article/65686558fd89780001fef654'
 lang: zh-cn
-_srcHash: 8cb14a3ba0df01df7aa14d6dc22bd45e
+_srcHash: 5d0ff95f4600fda4be72939d5ff6c5c8
 ---
 
 印尼和巴厘岛的电压标准为**220伏特（220V**），这是一个重要的信息，特别对于计划携带电器前往该地的旅客而言。在选择携带哪些电器前，一定要确保你携带的电器设备支持国际标准的220伏特电压，这样才能在印尼和巴厘岛正常使用这些电器。

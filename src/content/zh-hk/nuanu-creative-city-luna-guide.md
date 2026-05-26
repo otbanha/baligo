@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_55ede6433e92d99ef451b578d4341434.jpg'
 originalUrl: 'https://vocus.cc/article/68026619fd89780001f56243'
 lang: zh-hk
-_srcHash: c6c282ede6264f33c4b14baaed0537be
+_srcHash: 7747acc8cceedabf45ee2541d81e2e28
 ---
 
 Nuanu Creative City 係位於印尼峇里島塔巴南（Tabanan，位置喺海神廟以南）地區嘅 44 公頃大型創意園區，由俄羅斯科技企業家 Sergey Solonin 於 2020 年創立，總投資達 1 億美金。呢個雄心勃勃嘅項目名稱 "**Nuanu**" 源自峇里語，意思係 "**進行中**"，象徵住呢個創意城市不斷演進同發展嘅本質。Solonin 喺五年前移居峇里島後啟動咗呢個項目，旨在創造一個藝術、科技同自然和諧共存嘅生態系統。

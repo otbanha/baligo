@@ -5,6 +5,7 @@ description: >-
   A fellow traveler shares her 7-day 6-night Bali itinerary planned for her
   mother
 pubDate: '2024-07-02'
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_286ab6e85a206f8b44e0547b30ea4b3f.jpg'
 tags:
   - 峇里島
@@ -16,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/665f1689fd89780001afd058'
 category:
   - 遊記分享
 lang: en
-_srcHash: 69abff061e6bb0db1f2dc19e615034d7
+_srcHash: 20738fa59dcac81074f956fe31cc2889
 ---
 
 > The following content is provided by fellow traveler [Zhang Pingping](https://www.facebook.com/zhang.p.ping.3/) and has been adapted with her permission
@@ -61,9 +62,9 @@ Our day started with landing in Bali. First, we exchanged money and did some gro
 
 ### Accommodation and Spa
 
-After dining, we went straight to our accommodation in Ubud, [Purana Boutique Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1197693). This hotel is nestled in the jungle near Ubud center, offering a natural ambiance. Although there were quite a few bugs, the staff were very friendly, and the rooms were clean and comfortable with exceptionally good beds—highly recommended! The hotel provides shuttle service to Coco Supermarket near the Sacred Monkey Forest, which is very convenient. I suggest staying here, but skip the hotel breakfast as it's not tasty, despite the attractive presentation XD
+After dining, we went straight to our accommodation in Ubud, [Purana Boutique Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1197693) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=5276354&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6zczFJMEk9YSZY8-vSb1sQoxGBlu4LbZnOX7TiOk_tLbewfP64gJbruBmhwCeGYyHWg8xrWBk3Mj4sEpknfvDaIcdjEwnGLeLLWD6sH6iwikWZo42lkssX5miq5WyUyuVrEx0lEoyS3JSlayUni6a97Rhz_MVrUo6SimpxclAISArMTe_NK8EyDYytdQzMACKlCRWeKaAdSYn5iSX5iSWpIZUFgBNMNNRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgkp-QGOKoAKZ-XkQ7YYoYmGJOaWpECcALXRLhdphWKuD6fJnc3qfds98sWk3cS43p7bLDYhxuXFt7CMWpujYTywMv1gYmlgZulgZJrEyc2wX28XKEeRsYOxorGsoJW9oYGBgamhsaqprkGhpnGxomqprYmliZGmqa2huaWmkcfJCY9NTYyNrKdYpB55PY1dg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmZk4WpmFGXDxezpEiR47z9Lrraypb0Uc0i4i2KQS1vonomn7bVAcoYwuUCLL2L87y0X2EfC5JNYqzJ0Q8IzesULGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDTAeULIHfQAgAA&masterhotelid_tracelogid=100051355-0a93c15e-494295-17992&detailFilters=17|1~17~1*31|5276354~31~5276354*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=624&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Y9L1kWoJ). This hotel is nestled in the jungle near Ubud center, offering a natural ambiance. Although there were quite a few bugs, the staff were very friendly, and the rooms were clean and comfortable with exceptionally good beds—highly recommended! The hotel provides shuttle service to Coco Supermarket near the Sacred Monkey Forest, which is very convenient. I suggest staying here, but skip the hotel breakfast as it's not tasty, despite the attractive presentation XD
 
-▶[Book Purana Boutique Resort and view more room types](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1197693)
+▶[Book Purana Boutique Resort and view more room types](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1197693) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=5276354&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6zczFJMEk9YSZY8-vSb1sQoxGBlu4LbZnOX7TiOk_tLbewfP64gJbruBmhwCeGYyHWg8xrWBk3Mj4sEpknfvDaIcdjEwnGLeLLWD6sH6iwikWZo42lkssX5miq5WyUyuVrEx0lEoyS3JSlayUni6a97Rhz_MVrUo6SimpxclAISArMTe_NK8EyDYytdQzMACKlCRWeKaAdSYn5iSX5iSWpIZUFgBNMNNRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgkp-QGOKoAKZ-XkQ7YYoYmGJOaWpECcALXRLhdphWKuD6fJnc3qfds98sWk3cS43p7bLDYhxuXFt7CMWpujYTywMv1gYmlgZulgZJrEyc2wX28XKEeRsYOxorGsoJW9oYGBgamhsaqprkGhpnGxomqprYmliZGmqa2huaWmkcfJCY9NTYyNrKdYpB55PY1dg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmZk4WpmFGXDxezpEiR47z9Lrraypb0Uc0i4i2KQS1vonomn7bVAcoYwuUCLL2L87y0X2EfC5JNYqzJ0Q8IzesULGBsYmboYuQUYPRgjGCuAPMZVjAwbGBl3MP6HAcZXjCDTAeULIHfQAgAA&masterhotelid_tracelogid=100051355-0a93c15e-494295-17992&detailFilters=17|1~17~1*31|5276354~31~5276354*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=624&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/Y9L1kWoJ)
 
 We enjoyed two delightful spa experiences during our Ubud itinerary. The first was on the night we arrived, when our driver took us to Jaens Spa Ubud, just 2 minutes from our hotel. The spa quality was excellent and reasonably priced. The second was booked through our hotel the next day.
 

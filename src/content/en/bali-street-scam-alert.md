@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4b8a938dd80f7d576d1292655493c255.png'
 originalUrl: 'https://vocus.cc/article/67278942fd89780001b5fe3d'
 lang: en
-_srcHash: babb276a6aeb22e6d69b39cbefdc4924
+_srcHash: 61d2fa006ae7529dc6c6fdd18bbcaff1
 ---
 
 Who would have thought that while enjoying the sunset on Bali's beautiful beaches, this magical moment could become a stage for scammers? Today, I want to share a personal experience to remind everyone to stay alert while traveling in Bali to avoid falling into fraud traps.

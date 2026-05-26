@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/65b8fcc3fd8978000157f236'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 6f2d6d90b9b762a59aeddc6ce9b62023
+_srcHash: d72acdfc0b2ceced40f5cfe2bbf5e2b1
 ---
 
 In this episode, we’ll take you through six must-buy snacks and souvenirs from Bali, each offering flavors that are hard to find in Taiwan!

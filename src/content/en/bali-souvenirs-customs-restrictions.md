@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_efbb46e4c49d98eb26fab6dffcb74a92.jpg'
 originalUrl: 'https://vocus.cc/article/680d9a04fd89780001a97eb9'
 lang: en
-_srcHash: 72b8c270c9c5926c35b0c7d189773a46
+_srcHash: 3ad365e292677a2ad4c03d2ae6a2b6cb
 ---
 But **can these spoils of shopping be smoothly brought back to Taiwan?** Recently, fellow traveler Yang Mei asked this very practical question, along with sharing her impressive haul from Bali.
 

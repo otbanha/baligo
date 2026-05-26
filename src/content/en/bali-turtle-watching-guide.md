@@ -14,7 +14,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ed1ea6cbc2b41221a0a57d6e6ed75985.jpg'
 originalUrl: 'https://vocus.cc/article/68f9b567fd89780001795353'
 lang: en
-_srcHash: fd719a5e4d8e14899bfc4cd3245f5a36
+_srcHash: a4754740c24e0ce9353230bac15176b1
 ---
 
 If you think Bali is only about romantic beaches, sunsets, and resorts, you're missing out on the island's most moving aspect—**turtle conservation stories**. Every year from April to October, mother turtles return to Bali's beaches to lay their eggs, and local communities, volunteers, and foundations are dedicated to conservation, giving travelers the chance to witness baby turtles making their way to the sea.

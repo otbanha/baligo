@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ea059ffc95268e16ff2815ce4d13f7a9.jpg'
 originalUrl: 'https://vocus.cc/article/6852cdc2fd89780001e0b7ad'
 lang: zh-hk
-_srcHash: d8b565e85496a2605f480e8e3ebfbb64
+_srcHash: 942944289312a0d6fe32238de937f25b
 ---
 
 Tirta Empul（意思係「聖泉」）係峇里島最古老且靈性深厚嘅水廟之一，位於 Gianyar 嘅 Tampaksiring 村。呢座廟宇以泉水淨化儀式「Melukat」聞名，信徒相信呢度嘅泉水具有清除負能量嘅神力。

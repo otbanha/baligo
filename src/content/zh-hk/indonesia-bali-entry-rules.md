@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64db6b81fd897800013a98ef'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: 9e23484a13b62ae766c45570a562f342
+_srcHash: 57c680b98ef5db030b379a32f1c47ba7
 ---
 而家入境印尼、峇里島仲需唔需要兩劑疫苗證明？需要下載咩APP？請睇下面嘅說明
 

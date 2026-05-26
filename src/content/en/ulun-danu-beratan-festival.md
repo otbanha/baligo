@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/6847dc25fd89780001779046'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 6e3590f035d3ad28b2843d8e9202ec97
+_srcHash: 57cf3006cb4ca0f6eb2ce6bdc3c5c74c
 ---
 
 ### **Bali Welcomes Peak Tourist Season with Full Cultural Activation**

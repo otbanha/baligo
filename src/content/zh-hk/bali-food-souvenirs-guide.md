@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65b8fcc3fd8978000157f236'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 6f2d6d90b9b762a59aeddc6ce9b62023
+_srcHash: d72acdfc0b2ceced40f5cfe2bbf5e2b1
 ---
 
 喺呢一集入面，我哋會帶大家一窺峇里島必買嘅零食手信，總共有六項推介，每一樣都係香港難以搵到嘅美味佳餚！

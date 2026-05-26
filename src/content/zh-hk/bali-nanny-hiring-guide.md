@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/67301111fd897800016667a1'
 category:
   - 家庭親子
 lang: zh-hk
-_srcHash: f3b7401746c90f7da2655978a4c2b735
+_srcHash: 7a27bc4d4baf73a760567153f858bb97
 ---
 ## 點解要喺峇里島搵保母？
 

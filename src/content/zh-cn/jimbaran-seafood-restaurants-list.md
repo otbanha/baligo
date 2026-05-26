@@ -24,7 +24,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1777691082513-jimbaran_sea
 originalUrl: 'https://vocus.cc/article/6506748dfd897800018d6be2'
 shuffle_h2: true
 lang: zh-cn
-_srcHash: 434e5ee6e85575659b471f7693acf054
+_srcHash: 2ecd1f22b9c808bd8b9f23324c20e5f6
 ---
 
 金巴兰（Jimbaran）是巴厘岛的一个美丽海滩地区，以其绝佳的海滩、新鲜的海鲜和浪漫的夕阳而闻名。这个地方提供了许多供选择的海鲜餐厅，游客可以在海边享受美味的海鲜大餐，同时欣赏壮观的海景。此外，由于金巴兰邻近巴厘岛国际机场，在吃晚餐的同时还可以观看飞机起降。

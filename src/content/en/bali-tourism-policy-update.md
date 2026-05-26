@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/67879faefd89780001b524bc'
 category:
   - 旅行技巧
 lang: en
-_srcHash: a6d11c9fc1853f06c34ed3aa0009b109
+_srcHash: 6865a45b500848f0892a824ebf13e571
 ---
 
 At the end of last year, the Indonesian government had planned to ban the construction of new hotels, beach clubs, and other tourism-related facilities in several popular tourist areas in southern Bali, such as Canggu, Uluwatu, Kuta, Legian, Seminyak, and Nusa Dua. However, Bali's Governor Wayan Koster, who is set to be re-elected, recently stated publicly that **he will not enforce this ban**.

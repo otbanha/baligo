@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a05b96220031b2f342c15e8724929028.jpg'
 originalUrl: 'https://vocus.cc/article/6631b966fd89780001eb74d2'
 lang: zh-hk
-_srcHash: d56d6cc101ba338c25268ab87573775a
+_srcHash: d42d5a2de79bf6f7674d68733c231b66
 ---
 
 Youtuber「天堂鳥」入住峇里島最受歡迎嘅Ayana度假村，並喺佢嘅YouTube片度同大家分享Ayana度假村擁有嘅14個泳池之中嘅六個超靚泳池。佢嘅片展示咗呢啲泳池嘅獨特風格同靚景，吸引咗好多觀眾嘅目光同讚賞。呢啲泳池唔單止係游水同放鬆嘅地方，更加係影靚相同創造難忘回憶嘅絕佳去處。

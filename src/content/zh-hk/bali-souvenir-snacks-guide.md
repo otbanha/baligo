@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7b910f08903a18106fd6d774cdcb0a4e.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b5cfd897800013a9015'
 lang: zh-hk
-_srcHash: 65f29dbf6b0bc0ffc8d34abf33c156dd
+_srcHash: 64c1e3b0c6d58418e4edb8b30858becd
 ---
 
 峇里島，唔單止係一個迷人嘅旅遊勝地，更加係美食愛好者嘅天堂。當你踏上呢片熱帶天堂嘅土地，除咗欣賞絕美嘅海灘風景、參與當地文化活動、探索古老寺廟、享受浪漫日落，仲有一件重要嘅事你絕對唔應該錯過：品嚐峇里島嘅美味佳餚。而當你準備離開呢片美麗嘅土地，記住帶啲美食類嘅手信返屋企，等你嘅味蕾繼續感受峇里島嘅魔力！

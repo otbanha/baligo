@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 7237720b470b48059804b17c669f8718
+_srcHash: 314ee3532a42ba13bbf8d1afef23bff5
 ---
 
 去过乌布玩的人都知道，那里的路有多窄。观光客多、车子多，偏偏很多人还喜欢直接把车停在马路边——这下好了，4月28日起，警察开始认真了。

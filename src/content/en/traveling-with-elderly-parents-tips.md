@@ -18,7 +18,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_98d8ffbc6101e9d8d140fa14f3328f9e.png'
 originalUrl: 'https://vocus.cc/article/6745a0c9fd89780001807cfa'
 lang: en
-_srcHash: 367b6bf11cd2ae581d0b93c8cce5570e
+_srcHash: f8ac9a78c627094d3fbb066801bb1540
 ---
 
 Taking elderly parents on international trips may seem like a heartwarming gesture of filial piety, but for many, it can turn into a thankless endeavor. Surveys show that over half of families have experienced stress during such trips, often leaving behind painful memories. Traveling with elders isn't just about tourism—it often involves physical, psychological, and familial challenges.

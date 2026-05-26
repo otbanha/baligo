@@ -25,7 +25,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3300dc8a58bc532d7df11537b9bac64b.jpg'
 originalUrl: 'https://vocus.cc/article/689c185efd8978000170dbdc'
 lang: en
-_srcHash: 593d9b5bc8f20e2ea8834cc158fc253c
+_srcHash: d67a2bed4b35d1a7c5d14dc206726300
 ---
 
 ## Why Tanjung Benoa is Bali's Water Sports Capital

@@ -28,7 +28,7 @@ agoda_star_rating: 0
 latitude: -8.425267219543457
 longitude: 115.27593994140625
 lang: en
-_srcHash: 31b9d2b13b6c1dbb6f491ea77a95b6a9
+_srcHash: 4eede044984ce0c4f65ae25c9e3a0eab
 ---
 ## The Story Behind the Name
 

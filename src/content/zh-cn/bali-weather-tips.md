@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f2d233b5cdc841409553c54fcd0d50a1.png'
 originalUrl: 'https://vocus.cc/article/65f39bd0fd897800012287e9'
 lang: zh-cn
-_srcHash: 7cdcff41048725cf5621db4cd87d9751
+_srcHash: 23d96a7e43be501872b509fa64bd4a6a
 ---
 
 我今天想和大家聊聊一个可能让你们有些意外的话题——为什么别再问巴厘岛的天气如何？

@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9ef327186d7f893afa30a3c683286a04.png'
 originalUrl: 'https://vocus.cc/article/6638e732fd89780001565d48'
 lang: en
-_srcHash: 76ff8c8d132c683e2ed3dece9d4e042a
+_srcHash: 5cb6712de11cea704cee451064c4ac14
 ---
 
 Our group member James Lin recently visited Bali with his family. They applied for an e-visa online beforehand. Upon arrival at Bali Airport, they quickly passed through the automated immigration lane, completing the entry process in just 5 minutes.

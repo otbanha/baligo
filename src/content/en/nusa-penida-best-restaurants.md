@@ -9,10 +9,11 @@ category:
   - 峇里島分區攻略
   - 美食景點活動
 tags: []
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a814035ceed00b9d56b048de37f02303.jpg'
 originalUrl: 'https://vocus.cc/article/65348754fd89780001b2a259'
 lang: en
-_srcHash: ff4d891461a8bd06ac5aeef472f611d0
+_srcHash: db1eeb0439a11de4430e18086c2b9e4b
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_72f1c56bdf6326c2cfb52375320fb1a9.jpg)
@@ -115,7 +116,7 @@ Perched 20 meters above the tropical beaches of Nusa Penida, the resort offers b
 
 The resort boasts a variety of facilities and activities designed to help guests relax. Spend the day by the ocean-facing pool, dine at The Warnakali Restaurant—a 2023 Tripadvisor Travelers' Choice winner—or explore the resort's beautiful surroundings. Beginners can also try their hand at [scuba diving](https://affiliate.klook.com/redirect?aid=116349&aff_adid=764738&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F81880-discovery-scuba-fun-dive-dune-penida-nusa-penida-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6418b5c216). The resort also features the renowned Tejas Spa, where guests can indulge in various massages and treatments.
 
-While not the most expensive luxury resort on Nusa Penida, it is certainly one of the best! Located right on the waterfront, the resort offers spacious ocean-view suites and a hearty breakfast. [Book your stay here](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=12145599).
+While not the most expensive luxury resort on Nusa Penida, it is certainly one of the best! Located right on the waterfront, the resort offers spacious ocean-view suites and a hearty breakfast. [Book your stay here](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=12145599) [Booking](https://booking.tpm.li/3tFPqiDE).
 
 > Adiwana Warnakali Resort official website:
 > <https://adiwanahotels.com/warnakali-resort-nusa-penida-bali/>

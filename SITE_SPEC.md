@@ -76,6 +76,38 @@ Article slug 語言中立（所有語言版本共用同一 slug）。
 - [ ] 不得修改繁體中文的路徑前綴（維持 `/blog/`，不改為 `/zh-tw/blog/`）
 - [ ] 不得使用 `history.pushState` 於語言自動偵測跳轉（必須用 `replace`）
 
+## 工具頁面
+
+| 路徑 | 說明 | 資料流向 |
+|------|------|----------|
+| `/share` | 社群連結預覽工具 | `POST /api/unfurl` |
+
+`/share` 只做 zh-TW，不加語言前綴，不出現在其他語言的 sitemap / navigation。
+頁面帶 `<meta name="robots" content="noindex,nofollow">`。
+
+### Unfurl Tool KV Bindings（Cloudflare Pages 設定）
+
+| Binding | Namespace | TTL | 用途 |
+|---------|-----------|-----|------|
+| `UNFURL_CACHE` | gobaligo-unfurl-cache | 24h 成功 / 1h 失敗 | unfurl 結果快取 |
+| `UNFURL_RATELIMIT` | gobaligo-unfurl-ratelimit | 2h | per-IP 速率限制 |
+| `UNFURL_RECENT` | gobaligo-unfurl-recent | 7d | 最近解析清單 + 瀏覽數 (`recent:` 前綴) + top-viewed 快取 (`meta:` 前綴) |
+| `UNFURL_BLOCKLIST` | gobaligo-unfurl-blocklist | 30d | 管理員黑名單 |
+
+環境變數（加密）：
+- `ADMIN_SECRET`（32+ 字元隨機字串，用 `openssl rand -hex 32` 產生）
+- `TURNSTILE_SECRET`（Cloudflare Turnstile → 取得 secret key 後填入）
+
+### Bot 防護（B 功能）
+- **Cloudflare Turnstile**：前端 invisible widget，`/api/unfurl` POST 須帶 `turnstileToken`，server 端驗證
+  - 取得 site key / secret：CF Dashboard → Turnstile → Create Widget
+  - 前端 site key 寫在 `src/pages/share.astro`（`data-sitekey`），secret key 加到 Pages 環境變數 `TURNSTILE_SECRET`
+- **速率限制**：一般使用者 5 次/小時，Admin 20 次/小時
+- **Bot Fight Mode**（建議啟用）：CF Dashboard → Security → Bots → Bot Fight Mode → On
+  - 注意：啟用後會攔截無 User-Agent 的程式請求，確認 admin script 有帶正確 UA
+
+---
+
 ## 檔案位置對照表
 
 | 功能                  | 檔案路徑                                     |
@@ -89,3 +121,11 @@ Article slug 語言中立（所有語言版本共用同一 slug）。
 | 英文 index            | `src/pages/en/blog/index.astro`              |
 | 繁體中文文章          | `src/pages/blog/[...slug].astro`             |
 | 全域樣式              | `src/styles/global.css`                      |
+| 社群連結預覽工具      | `src/pages/share.astro`                      |
+| Unfurl API 主入口     | `functions/api/unfurl.js`                    |
+| Admin 登入            | `functions/api/admin/login.js`               |
+| Admin 狀態確認        | `functions/api/admin/check.js`               |
+| 最近解析清單          | `functions/api/recent-unfurls.js`            |
+| 最近解析刪除          | `functions/api/recent-unfurls/[id].js`       |
+| 瀏覽數追蹤            | `functions/api/track.js`                     |
+| 最多人看過（Top 10）  | `functions/api/top-viewed.js`                |

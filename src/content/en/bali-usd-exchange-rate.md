@@ -21,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/663261fdfd89780001f490fc'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 916b3b0f58fb3809a2f45f26e92f4e0c
+_srcHash: a718f26ea2486101f0b9f9a8c11e0247
 ---
 In Bali, there are numerous places to exchange currency, from airports to hotels, and exchange offices are ubiquitous in the city. However, exchange rates can vary. Therefore, it's best to understand the local exchange rate situation before exchanging currency.
 

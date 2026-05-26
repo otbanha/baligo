@@ -12,10 +12,11 @@ tags:
   - Ayana
   - thecave
   - 峇里島
+update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_55a17e32ff3426be5b5ca449098353ec.png'
 originalUrl: 'https://vocus.cc/article/6860bc8bfd897800019ce915'
 lang: zh-cn
-_srcHash: ae451b5b74eb529b76662e0a09d254ff
+_srcHash: a2d09b14a5389cbbe9e0035bab9a91d6
 ---
 
 > 以下内容改编自团友 [Johnny Wei](https://www.facebook.com/share/p/16WTfUrpzo/) 分享游记：
@@ -143,7 +144,7 @@ https://youtu.be/lbDfKut2J7M
 
 https://youtu.be/63mZAiTt3aE
 
-> [Abisena Wellness & Resort Ubud 房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=62101074)
+> [Abisena Wellness & Resort Ubud 房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=62101074) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=121204203&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6zMTFJMEkdYeJY8r-_-_ZhDhNDcwsDU1MDYw0NvIZ_OKw2JnoeH1xgS2XZo-DZ_-hrxoxjf0OATwRUw48n8ae6FXdrO9zJNChi5EVLDCD8fXtp5YbGQ8D1fUfinLYwch0gJHpBONJlQVMd183251iYeb4yHyJZTdjdLVSdmqlkpWJjlJJZklOqpKV0tNF85427Hm-olVJRykltTgZKARkJebml-aVANkmluZ6BgZAkZLECs8UsM7kxJzk0pzEktSQygKgCWY6SpnFziVFmQVBqbmZJSWpQFVpiTnFqSDxoNRioEwyWFDJD2hMEVQgMz8Pot0QRSwsMac0FeIEoIVuqVA7DGtjH7EwRce-YNnI94mF4RcLQxMrQxcrM8cppklA8qTKLlbeEM8gU39jXR-jyPBAkwusp7WlFA0NDAyMTE2NzHUNEi0tjExSU3VNLE2MDSx0TYzMjU3NzTRO_9g286mxkbUUJCQVGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsbmYmppbuETZcDG7hgYJPtCdsODHRHkHKeaQcBfFlTeZ1x6YcNpei9nTJcjw3n-WXG1lS_tAiy9i_O8tF9hHwuSTWKsydEPCM3rFCxgbGJm6GLkFGD0YIxgrgDzGVYwMGxgZdzD-hwHGV4wg0wF0ZoAmSgIAAA&masterhotelid_tracelogid=100025527-0a9824ee-494308-4273576&detailFilters=17|1~17~1*31|121204203~31~121204203*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=616&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/RreAAOrM)
 
 ## 🏝 **第四天：入住水明漾 The Claremont Luxury Villas，享受便利又舒适的一晚**
 
@@ -151,7 +152,7 @@ https://youtu.be/63mZAiTt3aE
 
 我们当晚入住的是位在水明漾市中心的 **The Claremont Luxury Villas**。这间 Villa 的性价比真的超高，一晚大约只要 **USD$150 左右**，但空间宽敞、设施齐全，还带有私人泳池！步行几分钟内就有便利店、异国餐厅与按摩店，完全不需要叫车。
 
-[The Claremont Luxury Villas房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25410409)
+[The Claremont Luxury Villas房价 & 空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25410409) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=72891503&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NqY-FikmCS-s_MceXblsdsQoxGBjc4LTqSHXfItb4OvDrZwVMeSO8onOEQwBMx5cDzaeyJXtXN-j5HAh26GFnBAjMY3_94oLSRcdZMICgsctjByHSC8ZHFAqam97t0T7Ewc9ziusTylSm6Wik7tVLJykRHqSSzJCdVyUrp6aJ5Txv2PF_RqqSjlJJanAwUArISc_NL80qAbDMLUz0DA6BISWKFZwpYZ3JiTnJpTmJJakhlAdAEMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRbogiFpaYU5oKcQLQQrdUqB2GtTqYLn82p_dp98wXm3YT53JzarvcgBiXG9fGPmJhio79xMLwi4WhiZWhi5WZ4xTTJCD5yGIXK0eIs5NXhIGu4QXWNdZS8oYGBgamhsamproGiZaJKUZGBromlibGBpa6xsYWRhYaO98umfXU2MhaChLrCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9iAllg4mUbZcDGHBrsIFtpyXV9sIO0gxRwS7qK48ibz2gMTTttrMXu6BBne-8-Sq61saR9o8UWM_73lAvtImHwSa1WGbkh4Rq94AWMDI1MXI7cAowdjBGMFkMe4ipFhAyPjDsb_MMD4ihFkOgDxX4vY6wIAAA&masterhotelid_tracelogid=100051355-0a9ad220-494309-33828&detailFilters=17|1~17~1*31|72891503~31~72891503*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=820&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/BZ1IN1BS)
 
 如果预算有限、但又想住到有质感又地点便利的 Villa，这间真的可以笔记下来✅。
 

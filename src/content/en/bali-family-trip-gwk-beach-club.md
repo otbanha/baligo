@@ -14,10 +14,11 @@ tags:
   - 峇里島
   - gwk
   - 神鷹
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_010252ae3b22142279b2f6841ce88916.jpg'
 originalUrl: 'https://vocus.cc/article/662c59e9fd897800011f1230'
 lang: en
-_srcHash: 00d92e89561f20b5c753d60673407003
+_srcHash: 0625e3944783f480b691ec9ce419b105
 ---
 
 > This is a story about a Taiwanese businesswoman in Vietnam and her family's trip to Bali
@@ -237,7 +238,7 @@ We rested at Aloft Kuta, located inside Beachwalk Shopping Center, a hotel perfe
 
 Aloft Kuta's room with two double beds also includes a mini bar
 
-▶[Aloft Kuta Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548)
+▶[Aloft Kuta Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) [Booking](https://booking.tpm.li/IiBScM3f)
 
 During our visit to Uluwatu Temple/cliff/sunset, our private driver Gede stayed close to us, helping with photos and keeping an eye out to prevent monkeys from stealing our belongings!
 

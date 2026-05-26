@@ -23,7 +23,7 @@ originalUrl: 'https://vocus.cc/article/65a6720ffd89780001f0eeca'
 category:
   - 遊記分享
 lang: en
-_srcHash: fb5fc979ec798444c800ae5bbc0a8e28
+_srcHash: 9fc540122529f3114e06797a2b3e0807
 ---
 Have you started planning your international travels for 2024?
 

@@ -1,0 +1,180 @@
+---
+const { lang = 'zh-tw' } = Astro.props;
+
+const i18n: Record<string, { title: string; more: string }> = {
+  'zh-tw': { title: '入境/通關討論區', more: '更多討論 →' },
+  'zh-hk': { title: '入境/通關討論區', more: '更多討論 →' },
+  'zh-cn': { title: '入境/通关讨论区', more: '更多讨论 →' },
+  'en':    { title: 'Immigration Forum', more: 'More →' },
+};
+const t = i18n[lang] ?? i18n['zh-tw'];
+
+const supabaseUrl  = import.meta.env.PUBLIC_SUPABASE_URL;
+const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
+---
+
+<div class="frr-widget">
+  <div class="frr-header">
+    <span class="frr-title">{t.title}</span>
+    <a href="/forum/immigration/" class="frr-more">{t.more}</a>
+  </div>
+  <ul id="frr-list" class="frr-list">
+    <li class="frr-loading">載入中⋯</li>
+  </ul>
+</div>
+
+<script define:vars={{ supabaseUrl, supabaseAnon }}>
+(async () => {
+  const list = document.getElementById('frr-list');
+  if (!list) return;
+
+  try {
+    const { createClient } = await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm');
+    const sb = createClient(supabaseUrl, supabaseAnon, { auth: { persistSession: false } });
+
+    const TOPIC_LABEL = {
+      evisa: '電子簽證', voa: '落地簽', aiac: 'AIAC入境卡',
+      'tourism-tax': '旅遊稅', other: '其他',
+    };
+
+    // 並行拉取：最新核准貼文 × 最新回覆（限已核准貼文）
+    const [postsRes, repliesRes] = await Promise.all([
+      sb.from('posts')
+        .select('id, title, topic, created_at')
+        .eq('moderation_status', 'approved')
+        .order('created_at', { ascending: false })
+        .limit(5),
+
+      sb.from('replies')
+        .select('id, created_at, posts!inner(id, title, topic, moderation_status)')
+        .eq('posts.moderation_status', 'approved')
+        .order('created_at', { ascending: false })
+        .limit(10),
+    ]);
+
+    // 合併成 { postId, title, topic, at } 並去重，取最新 5 則
+    const seen = new Set();
+    const items = [];
+
+    function add(postId, title, topic, at) {
+      if (seen.has(postId)) return;
+      seen.add(postId);
+      items.push({ postId, title, topic, at: new Date(at) });
+    }
+
+    const combined = [
+      ...(postsRes.data  || []).map(p => ({ postId: p.id, title: p.title, topic: p.topic, at: p.created_at })),
+      ...(repliesRes.data|| []).map(r => ({ postId: r.posts.id, title: r.posts.title, topic: r.posts.topic, at: r.created_at })),
+    ].sort((a, b) => new Date(b.at) - new Date(a.at));
+
+    for (const row of combined) {
+      add(row.postId, row.title, row.topic, row.at);
+      if (items.length >= 5) break;
+    }
+
+    if (items.length === 0) { list.innerHTML = ''; return; }
+
+    function sanitize(str) {
+      const d = document.createElement('div');
+      d.textContent = str ?? '';
+      return d.innerHTML;
+    }
+
+    list.innerHTML = items.map(item => `
+      <li class="frr-item">
+        <a href="/forum/immigration/#${sanitize(item.postId)}" class="frr-link">
+          <img src="/favicon-16x16.png" class="frr-icon" alt="" aria-hidden="true" />
+          <span class="frr-post-title">${sanitize(item.title)}</span>
+          <span class="frr-topic-tag">${sanitize(TOPIC_LABEL[item.topic] || item.topic)}</span>
+        </a>
+      </li>`).join('');
+
+  } catch {
+    document.getElementById('frr-list').innerHTML = '';
+  }
+})();
+</script>
+
+<style is:global>
+.frr-widget {
+  background: #fffdf0;
+  border: 1px solid #f0e6a0;
+  border-radius: 12px;
+  padding: .9rem 1.1rem;
+  margin-bottom: 1.2rem;
+}
+.frr-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: .6rem;
+}
+.frr-title {
+  font-size: .85rem;
+  font-weight: 700;
+  color: #7a6200;
+  letter-spacing: .01em;
+}
+.frr-more {
+  font-size: .75rem;
+  color: #9a7c00;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.frr-more:hover { text-decoration: underline; }
+
+.frr-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.frr-loading {
+  font-size: .82rem;
+  color: #b09a40;
+  padding: .3rem 0;
+}
+
+.frr-item {
+  border-bottom: 1px solid #f0e6a0;
+}
+.frr-item:last-child { border-bottom: none; }
+
+.frr-link {
+  display: flex;
+  align-items: center;
+  gap: .45rem;
+  padding: .45rem 0;
+  text-decoration: none;
+  color: inherit;
+}
+.frr-link:hover .frr-post-title { color: #6a5200; text-decoration: underline; }
+
+.frr-icon {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  opacity: .75;
+}
+
+.frr-post-title {
+  font-size: .82rem;
+  font-weight: 500;
+  color: #5a4800;
+  line-height: 1.4;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1;
+  min-width: 0;
+}
+.frr-topic-tag {
+  flex-shrink: 0;
+  font-size: .7rem;
+  color: #7a6200;
+  border: 1px solid #d4c070;
+  border-radius: 20px;
+  padding: .1em .6em;
+  white-space: nowrap;
+  background: #fffbe6;
+}
+</style>

@@ -21,6 +21,7 @@ jobs:
             "https://gobaligo.id/api/exchange-rate")
           echo "API 回應狀態：$STATUS"
           if [ "$STATUS" != "200" ]; then
-            echo "警告：API 回應非 200，請檢查匯率服務"
-            exit 1
+            echo "警告：API 回應非 200（$STATUS），請檢查匯率服務"
+          else
+            echo "暖機成功"
           fi

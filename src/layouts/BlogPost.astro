@@ -1772,8 +1772,9 @@ hr { margin: 1.2em 0 1.8em; }
         let currentGroup: HTMLElement[] | null = null;
         let inTocPostamble = false;
         for (const li of tocItems) {
-          // toc-h1 及其後的項目視為 postamble，固定在底部
-          if (li.classList.contains('toc-h1')) {
+          // toc-h1 出現在 H2 區段之後，才視為 postamble（固定在底部）
+          // H2 之前的 toc-h1（如 FAQ 標題）應保留在 preamble
+          if (li.classList.contains('toc-h1') && currentGroup !== null) {
             inTocPostamble = true;
           }
           if (inTocPostamble) {

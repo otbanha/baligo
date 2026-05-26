@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 48a654deef3dc72527060601e054071b
+_srcHash: 4aa6a4929e67ea32216f2a7a2678a777
 ---
 
 ## Bali Visa Extension Guide: Match Your Location to the Right Immigration Office

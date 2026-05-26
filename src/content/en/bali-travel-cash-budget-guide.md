@@ -15,7 +15,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c13cd68f0d8c0d9447e32f12ddf5def1.jpg'
 originalUrl: 'https://vocus.cc/article/64fdaddefd89780001bdb780'
 lang: en
-_srcHash: 0759c30a76f726c5f7671a5d82dcf316
+_srcHash: a7d615d675e69eaab198689d1b1948e4
 ---
 "How much cash should I prepare for a Bali trip?" "How much USD should I bring?" Questions like these often trouble travelers planning to visit this Indonesian paradise.
 

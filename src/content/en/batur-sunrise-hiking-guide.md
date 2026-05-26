@@ -15,7 +15,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_683bd40a8676e52f320bb3d617abc30e.png'
 originalUrl: 'https://vocus.cc/article/66d31f77fd897800011851c1'
 lang: en
-_srcHash: b9f9c1f730209580159bad692ce6fba0
+_srcHash: 4c59018463a06707ce98a6f27ef5d308
 ---
 ## **Enjoy the Magnificent Sunrise at the Summit of Mount Batur, Bali**
 

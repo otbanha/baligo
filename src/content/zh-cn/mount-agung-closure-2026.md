@@ -24,7 +24,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: zh-cn
-_srcHash: f47db7a9b3e1fcf707a46344b2ee9d33
+_srcHash: 78451b45db48e970261f88ef6376344c
 ---
 
 如果你这段时间有计划去爬巴厘岛的阿贡火山（Mount Agung），行程要先暂停一下。

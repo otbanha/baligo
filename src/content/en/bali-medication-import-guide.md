@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/65f4f94ffd897800016b340a'
 category:
   - 旅行技巧
 lang: en
-_srcHash: f6771f7069cff893128c9ae3f0c28a07
+_srcHash: 98c8b65bbf365cbd99532e19369dc1a7
 ---
 
 Recently, an Australian model faced trouble upon arrival in Bali when she was detained for 4 days and interrogated for 14 hours due to carrying medications considered illegal in Indonesia. This incident serves as a reminder for travelers to Indonesia, especially those carrying special medications, to be extra cautious.

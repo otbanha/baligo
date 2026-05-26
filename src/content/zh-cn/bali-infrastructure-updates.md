@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67d13fd1fd89780001c6887f'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 09d0297192e14a32a48936aaba800985
+_srcHash: d87832091e70848e62ee439c2975cd53
 ---
 
 巴厘岛的基础建设正如火如荼地进行，目标是在2028年全面完成多项重大工程，让旅游与生活更便利。以下是几个值得关注的重点项目。

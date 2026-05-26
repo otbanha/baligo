@@ -12,10 +12,11 @@ tags:
   - 峇里島
   - gwk
   - 神鷹
+update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_010252ae3b22142279b2f6841ce88916.jpg'
 originalUrl: 'https://vocus.cc/article/662c59e9fd897800011f1230'
 lang: zh-cn
-_srcHash: 00d92e89561f20b5c753d60673407003
+_srcHash: 0625e3944783f480b691ec9ce419b105
 ---
 
 > 本篇是一名越南台商小姐姐跟她的家人一同前往巴厘岛游玩
@@ -235,7 +236,7 @@ Kelly's Warung位于海滩边，高性价比免入场费，提供了无敌的海
 
 Aloft Kuta的两张双人床房型，还有一个mini bar
 
-▶[Aloft Kuta订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) 
+▶[Aloft Kuta订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) [Booking](https://booking.tpm.li/IiBScM3f) 
 
 此行乌鲁瓦度寺庙/断崖/夕阳，我们的包车司机Gede形影不离地跟着我们，帮忙拍照外，生怕我们随身物品被猴子抢走，随时眼观四方切记！
 

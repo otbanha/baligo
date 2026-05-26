@@ -25,7 +25,7 @@ agoda_star_rating: 5
 latitude: -8.540929794311523
 longitude: 115.23595428466797
 lang: zh-hk
-_srcHash: 3b8bc9ef9918f3f8eba41ccdac9ade6e
+_srcHash: fd6c3e9ebce5150dbf8b94161fd7ff71
 ---
 2024 年，E Sanctuary Resort Ubud 正式喺峇里島烏布靜靜登場。呢間全新五星級度假村，距離烏布熱鬧市中心只係約 5.8 公里，地理位置方便但遠離喧囂，讓旅客可以靜心沉浸喺熱帶雨林嘅悠然氛圍中。呢間只有 7 間精緻客房嘅精品度假村，以現代簡約融合峇里島傳統風格設計，營造出一處身心靈都可以徹底放鬆嘅度假樂園。
 

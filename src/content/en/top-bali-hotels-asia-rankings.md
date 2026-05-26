@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c933b9d290b3cd95aa3750e4ac60e777.jpg'
 originalUrl: 'https://vocus.cc/article/66db220afd897800013d1c78'
 lang: en
-_srcHash: ea9b399a62736b2fa243fc6aca82716d
+_srcHash: 81e541e2ceac30e6e696f3ede69fdc13
 ---
 
 ### TripAdvisor's Best Hotels 2024: Indonesian Hotels Shine

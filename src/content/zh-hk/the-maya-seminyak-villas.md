@@ -19,6 +19,7 @@ tags:
   - 巴厘岛水明漾独棟別墅推荐
   - Bali traditional style villa Seminyak
   - Best private pool villa in central Seminyak
+update: 2026/05/24
 heroImage: ''
 originalUrl: ''
 private: false
@@ -30,7 +31,7 @@ agoda_star_rating: 4
 latitude: -8.683812
 longitude: 115.15951
 lang: zh-hk
-_srcHash: af4e78f4f5bdc6373ad49b7c56390602
+_srcHash: 216098f78091dd4779b84d47f18a86c2
 ---
 如果你去峇里島旅遊，想住私人泳池 Villa 但唔想跑到偏僻嘅地方，The Maya Seminyak Villas（又叫 Maya Sayang Seminyak）係個好值得考慮嘅選項。就藏喺 Seminyak 最熱鬧嘅 Eat Street（Kayu Aya 街）旁邊，行路幾分鐘就到餐廳同購物商場，但入咗 Villa 大門又即刻靜落嚟，完全唔似身處市中心。整個物業只有11間 Villa，規模細，私密感好強。
 
@@ -147,6 +148,6 @@ _srcHash: af4e78f4f5bdc6373ad49b7c56390602
 ## 📌 訂房資訊
 
 > 評分：入選「Agoda Preferred」Agoda 住客評分 8.5⭐ | Tripadvisor #34（393間住宿中）
-> [👉 ](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=59330108)點此查看 最新房價與空房： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=59330108) ｜ [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685535&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-M6wcTFJMEkdZCJ4_Tst_-ZhJgNDYw0jrIYPGC02Crv-E0jpv_Qzh4HT67riwtsMyc6BPDMYLz_WnMjY7XIOneHSRkOOxiZTjA-vb6ecQFT15VXjKdYWDimP5S7xLKXMbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUwNjS1NLPQMDoGBJYoVnClhzcmJOcmlOYklqSGUB0BAjHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSwIMroIys_Mz4PoNkARC0vMKU2FqATa55YKtcKwNvYRC1N07AuWoyyfWBh-sTA0sTJ0sTJMYmXlAHl1FyuvkaVvWJilrmGIbpSu4QXWVyuOMkopGxoYGJgaGpua6hokWlqkWZiZ65pYmhgaGOpaGBkbGZmaGxhqPHlwa-sjYyMTBUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWwuzi6GxhZRNlzMocEugou2mP84pCLtIMXs6RKkWPeApaM2wdJeC8QzhPECmd5d2vbnBa99JEwkibUqQzckPKNDrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCDIWAPU5LaUxAgAA&masterhotelid_tracelogid=100051355-0a98f867-494101-823225701&detailFilters=17|1~17~1*31|685535~31~685535*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1488&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16944692)
+> [👉 ](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=59330108) [Booking](https://booking.tpm.li/8cvJHalc)點此查看 最新房價與空房： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=59330108) [Booking](https://booking.tpm.li/8cvJHalc) ｜ [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685535&checkIn=2026-09-25&checkOut=2026-09-26&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-M6wcTFJMEkdZCJ4_Tst_-ZhJgNDYw0jrIYPGC02Crv-E0jpv_Qzh4HT67riwtsMyc6BPDMYLz_WnMjY7XIOneHSRkOOxiZTjA-vb6ecQFT15VXjKdYWDimP5S7xLKXMbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsUwNjS1NLPQMDoGBJYoVnClhzcmJOcmlOYklqSGUB0BAjHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSwIMroIys_Mz4PoNkARC0vMKU2FqATa55YKtcKwNvYRC1N07AuWoyyfWBh-sTA0sTJ0sTJMYmXlAHl1FyuvkaVvWJilrmGIbpSu4QXWVyuOMkopGxoYGJgaGpua6hokWlqkWZiZ65pYmhgaGOpaGBkbGZmaGxhqPHlwa-sjYyMTBUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWwuzi6GxhZRNlzMocEugou2mP84pCLtIMXs6RKkWPeApaM2wdJeC8QzhPECmd5d2vbnBa99JEwkibUqQzckPKNDrICxgZGpi5FbgNGDMYKxAshjXMXIzsVsYGQowLSBkXEH438YYHzFCDIWAPU5LaUxAgAA&masterhotelid_tracelogid=100051355-0a98f867-494101-823225701&detailFilters=17|1~17~1*31|685535~31~685535*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1488&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16944692)
 
 {{block:smk}}

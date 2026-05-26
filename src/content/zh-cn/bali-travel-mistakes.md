@@ -32,12 +32,13 @@ tags:
   - '#避雷指南'
 heroImage: https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
   https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
+  https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
 originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: c8b631ff55eb7bafc2c1779f0c8d2c37
+_srcHash: 8dc7cb1b6da5d92fb4b5c2d3b7e30722
 ---
 
 最近看到一则 Threads 贴文，让我心有戚戚焉。

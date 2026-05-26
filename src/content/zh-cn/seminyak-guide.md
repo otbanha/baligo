@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_54fd431cfc274e4e0093c3fd351bb395.jpg'
 originalUrl: 'https://vocus.cc/article/64db7fc2fd897800013d367c'
 lang: zh-cn
-_srcHash: 7fe41ae4f18aaba8a2a69fe5c4779680
+_srcHash: d35dc3f6d5c532892b1be87310101fc4
 ---
 
 如果你计划前往美丽的水明漾（Seminyak）度过一个难忘的假期，那么你绝对不能错过这份特别为你制作的攻略地图。以下我们介绍了水明漾的血拼指南、高档美食、平价美食、玩乐指南、Spa指南，为你呈现这个缤纷多彩的度假胜地。

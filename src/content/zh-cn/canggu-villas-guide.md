@@ -34,10 +34,11 @@ tags:
   - Canggu digital nomad villas
   - Instagrammable villas Canggu
   - Canggu family villas Bali
+update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1df50220c0720a4945c5f8ac4e04e1b8.jpg'
 originalUrl: 'https://vocus.cc/article/66b20b15fd89780001ceef6b'
 lang: zh-cn
-_srcHash: c81aeb387b174d85377d50255a5459cf
+_srcHash: 3afa6b736320ef3e7ed7fdd11ac216c6
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6f27ffb5a965c9d638d2f4bf13cbe008.jpg)
@@ -145,7 +146,7 @@ ZIN Resort & Villas这家四星住宿位于Canggu的中心，拥有绝佳的地�
 
 **客房** | 木地板夹层卧室设有超大双人床、衣柜和床边桌。
 
-> ▶[The River Studio 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=9456945)
+> ▶[The River Studio 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=9456945) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=47203083&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLRMNDVONtQ1sTQxNrTUtTAwNjLQ6L93cM1TIENLMD7E09PFsKQw1ayw1DKnqMD0FKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbuZOLkZFZFJ8Uc0i4i-LKm8xrD0w4bZ_EWpWhGxKe0SsOAOo5RB6CAAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494319-80320&detailFilters=17|1~17~1*31|47203083~31~47203083*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=880&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713)
 
 ## 5️⃣ THE WĀVE BALI – 最适合时尚住宿的坎古中心
 
@@ -192,7 +193,7 @@ ZIN Resort & Villas这家四星住宿位于Canggu的中心，拥有绝佳的地�
 
 **客房** | 卧室设有超大双人床或单人床、书桌、带沙发休息区和迷你吧。有些卧室配有通向带座椅阳台的推拉门。提供连通的一居室泳池别墅，可容纳最多四人，三居室别墅可容纳六人。
 
-> ▶[Ametis Villa 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=241416)
+> ▶[Ametis Villa 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=241416) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685815&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NawcLFJMEktZCFY-HMTY_ZhBiNDPYyWTxSdTQGAd-FDp7r3B9WidgsdQjgiZhy4Pk09kSv6mZ9nyOBDoUMINAwzaGR8friAlsu5akOXYysYDUzGL-_1VzByLgRIlNe77CDkekAI9MJxhtJC5je9320P8XCzLFI6BLLd6boaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBsg0NzSz1DAyAQiWJFZ4pYK3JiTnJpTmJJakhlQVAI8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLshilhYYk5pKsQNQAvdUqF2GNbqYDr92Zzep90zX2zaTaTTzantdANinG5cG_uIhSk69hMLwy9gRMwwaWJl6GJl5jjFNAlI3kjaxcoT4mzsYe6ka6gbpWt4gXXXTEYpeUMDAwNTQ2NTU12DREsLc0MzU10TSxNjQ0tdczNLU2ONL7N2rHlqbGQtBUkECoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9iMDQwsTA2jbLiYPV2CBO_9Z8nVVra0l2IOCXdRXHmTee2BCafttUByhjC5QIsvYvzvLRfYR8Lkk1irMnRDwjN6xQsYGxiZuhi5BRg9GCMYK4A8xlWM7FzMBkaGAkwbGBl3MP6HAcZXjCBLAGncv1kUAwAA&masterhotelid_tracelogid=100051355-0a987165-494319-76953&detailFilters=17|1~17~1*31|685815~31~685815*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=465&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/iznY7XZh)
 
 ## 7️⃣ Theanna Villa and Spa – 最佳室内设计
 
@@ -239,7 +240,7 @@ Clifton Canggu Villas 提供舒适且豪华的别墅，地处绝佳中心位置�
 
 **客房** | 空调瓷砖地板卧室设有超大双人床和衣柜。
 
-> ▶[The Clifton Canggu Villas 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=37303020)
+> ▶[The Clifton Canggu Villas 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=37303020) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=105247231&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6y8TFJMEkdY2J4-jW7ffZhBgNLH4LOgbtkGt9Hdjs4LnO_WGVyKZWhwCeiCkHnk9jT_Sqbtb3ORLoUMgABh0OjYzGIHC7xaGLkRWsZgbj_8fTjTYyAnWuc2cMdtjByHSCcb7kAqaHT6YbnWJh5njIdIllN2N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2camxnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJZjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYUMkPaEwRVCAzPw-i3RBFLCwxpzQV4gSghW6pUDsMa2MfsTBFx35iYfgF9Mxr6SZWhi5WZo5TTJOA5HzJXaxswRGGjkG-F1ivmEvJGxoYGJgaGpua6hokWiZaGCem6ppYmhgbWuqamwLFNS5c27zmqbGRtRQk8BQYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWxgaGRoaGRlZGuuZWKSZFVvkFVvkZkV4MAaxuTiZOpk4RtlwMXu6BAne-8-Sq61saS_FHBLuorjyJvPaAxNO22uB5AxhcoEWX8T431susI-EySexVmXohoRn9IoXMDYwMnUxcgswejBGMFYAeYyrGBk2MDLuYPwPA4yvGEGmAwDhyajgQgIAAA&masterhotelid_tracelogid=100051355-0a9a83ae-494319-75513&detailFilters=17|1~17~1*31|105247231~31~105247231*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=500&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/lWYytTVt)
 
 ## 9️⃣ The Cali Villas - 巴厘岛的绿洲棕榈泉
 
@@ -262,7 +263,7 @@ Clifton Canggu Villas 提供舒适且豪华的别墅，地处绝佳中心位置�
 
 客房 | 别墅内部装修高雅，每间卧室都配备舒适的床铺和现代化设施。
 
-> ▶[THE Cali Villas 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=30372036)
+> ▶[THE Cali Villas 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=30372036) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=123967346&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLRMNDVONtQ1sTQxNrTUNTc2tjDX6J23bs1TYyMDLcH4EE9PF8OSwlSzwlLLnKIC01OMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbIYWTmZullF8Uswh4S6KK28yrz0w4bR9EmtVhm5IeEavOABpC5lrggAAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494319-73387&detailFilters=17|1~17~1*31|123967346~31~123967346*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=247&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/113jihU8)
 
 ## 🔟 Shore Amora Canggu - 情侣的波西米亚风选择
 
@@ -310,7 +311,7 @@ Clifton Canggu Villas 提供舒适且豪华的别墅，地处绝佳中心位置�
 
 **客房** | 木地板卧室充满浪漫气息，其中一间设有超大四柱床和衣柜。另一间卧室通向一个带座椅的高架露台。
 
-> ▶[La Rose Villas and Suites Camp 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=13860634)
+> ▶[La Rose Villas and Suites Camp 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=13860634) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=105645871&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJ49upx72sQowGFr8FHbmuLy6w9aty8EwDgUm1DgE8EVMOPJ_Gnui_fkpqR6KXQyEDCDhUOjQyxvQf-qqxpMShi5EVrGYG4_q-DUYrGBk3Mj6sElnnrujlsIOR6QTjbMEFTMvbNxmdYmHm-Mx4iWU3Y3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZRibGegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrYx-xMEXHfmJh-AX0zHm-JlaGLlZmjq-Mk4DkbMFdrGweft7BwZ4XWO8rSskbGhgYmBoam5rqGiRaWpgbmpnqmliaGBta6pobGJpaatw5sXTNU2MjaylI-CkwagnGh3h6uhiWFKaaFZZa5hQVmBownmKUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYrwYAxic3Z0s7AwiLLhYvZ0CRK8958lV1vZ0l6KOSTcRXHlTea1ByacttcCyRnC5AItvojxv7dcYB8Jk09ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMTJsYGTcwfgfBhhfMYJMBwD-Da3ORQIAAA&masterhotelid_tracelogid=100051355-0a987165-494319-70159&detailFilters=17|1~17~1*31|105645871~31~105645871*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=176&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/ZnseU0Li)
 
 ## 1️⃣2️⃣ 青葱稻田中的奢华住宿 - Villa Canggu by Plataran
 
@@ -333,7 +334,7 @@ Villa Canggu by Plataran 位于巴厘岛的青绿稻田中，并坐落于热带�
 
 **客房** | 客房装饰高雅，设有舒适的床铺和现代化设施，为客人提供豪华的住宿体验。
 
-> ▶[Villa Canggu by Plataran 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=255344)
+> ▶[Villa Canggu by Plataran 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=255344) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685797&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaysLFJMEk1cfCsXv1wUVsQowGFr8FHY1BwL7KwfNhlcg69-wGhwCeiCkHnk9jT3QRv7L9jKevQyEDCCTkOzQyasb0H_q6IMuhi5EVrGYG49O3mhsZbbmuLy6IjXLYwch0grFbeAHT_ScRp1iYOV4xX2L5yhRdrZSdWqlkZaKjVJJZkpOqZKX0dNG8pw17nq9oVdJRSkktTgYKAVmJufmleSVAtpGJqZ6BAVCkJLHCMwWsMzkxJ7k0J7EkNaSyAGiCmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FOAFooVsq1A7DWh1Mlz-b0_u0e-aLTbuJc7k5tV1uQIzLjWtjH7EwRcd-YmH4BYyGHs4mVoYuVmaOCUyTgGS38C5WtqAQYx-PgAusy-Wk5A0NDAxMDY1NTXUNEi0tUk0sLXVNLE2MDS11zcwtLC01Tu6et-apsZG1FCTSFRi1BONDPD1dDEsKU80KSy1zigpMDRhPMUoZmhtbGBoZGhoZGVka65lYpJkVW-QVW-RmRXgwBrG5GZm4ODlG2XAxe7oECd77z5KrrWxpL8UcEu6iuPIm89oDE07ba4HkDGFygRZfxPjfWy6wj4TJJ7FWZeiGhGf0ihcwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDADOGYXX6AgAA&masterhotelid_tracelogid=100051355-0a98e499-494319-67899&detailFilters=17|1~17~1*31|685797~31~685797*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=750&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/eprXA2zC)
 
 ## 1️⃣3️⃣ Morning Glory Villa – 设计感私人泳池别墅
 
@@ -356,7 +357,7 @@ Villa Canggu by Plataran 位于巴厘岛的青绿稻田中，并坐落于热带�
 
 **客房** | 双卧室别墅，每间宽敞的空调卧室设有超大双人床、边桌和衣柜。 其中一间卧室直接通向花园和泳池。黑白主题别墅设计出色，配有高端配件、墙面艺术、植物和软装饰。拱形窗户和门增加了独特的触感。这座别墅确实非常特别，查看它，您一定不会失望。
 
-> ▶[Morning Glory Villa 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=56830063)
+> ▶[Morning Glory Villa 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=56830063) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=102963630&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLRMNDVONtQ1sTQxNrTUNTOxNLPUeLVn2pqnxkYGWoLxIZ6eLoYlhalmhaWWOUUFpqcYpQzNjS0MjQwNjYyMLI31TCzSzIot8ootcrMiPBiD2FwtDCxMnaP4pJhDwl0UV95kXntgwmn7JNaqDN2Q8IxecQDd87XgggAAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494319-64969&detailFilters=17|1~17~1*31|102963630~31~102963630*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=420&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713)
 
 ## 1️⃣4️⃣ Villa Yasa – 最适合群体的坎古最佳别墅之一
 
@@ -379,7 +380,7 @@ Villa Canggu by Plataran 位于巴厘岛的青绿稻田中，并坐落于热带�
 
 **客房** | 每间宽敞的瓷砖地板空调卧室均为双面房；其中一间位于顶楼的玻璃盒内，可以360度地欣赏周围景色。每间卧室均设有一间带淋浴和浴缸的宽敞套房。装饰现代但温馨，带有桌灯、雕塑和壁画等舒适装饰。这座别墅必须亲眼所见，无疑是坎古最佳别墅之一。
 
-> ▶[Villa Yasa 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=33579586)
+> ▶[Villa Yasa 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=33579586) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=105629617&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6wMTFJMEkdZOJ49CBnsdsQowGFr8FHVtfB-6Qc53s4LmkwJbrevNUhwCeiCkHnk9jT_Sqbtb3ORLoUMgAAgGTHRoZY_oPfdVY1u_QxcgKVjODcWP_eqMVjIwbGb9pgCQTHXYwsp1gbDJawDS_-5zxKRZmjtmsl1h2M0ZXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWZmrmdgABQpSazwTAHrTE7MSS7NSSxJDaksAJpgpqOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFlfyAxhRBBTLz8yDaDVHEwhJzSlMhTgBa6JYKtcOwNvYRC1N07CcWhl9AzzzXaWJl6GJl5jjFNAlINhntYmULMXQ0Cje5wLo5UUre0MDAwNTQ2NRU1yDR0iLVxNJS18TSxNjQUtfM2NDEUOPsrQlrnhobWUtBwk-BUUswPsTT08WwpDDVrLDUMqeowNSA8RSjlKG5sYWhkaGhkZGRpbGeiUWaWbFFXrFFblaEB2MQm6mFm6GJS5QNF7OnS5Dgvf8sudrKlvZSzCHhLoorbzKvPTDhtL0WSM4QJhdo8UWM_73lAvtImHwSa1WGbkh4Rq94AWMDI1MXI7cAowdjBGMFkMe4ipFhAyPjDsb_MMD4ihFkOgBDEYxBRQIAAA&masterhotelid_tracelogid=100051355-0a98e499-494319-63141&detailFilters=17|1~17~1*31|105629617~31~105629617*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=435&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713)
 
 ## 1️⃣5️⃣ Villa Umami – 适合团体旅行
 
@@ -425,7 +426,7 @@ OXO Townhouses设立了坎古现代生活的新标准，提供一系列私人别
 
 **客房** | 客房宽敞舒适，轻工业风又带有温馨，配备现代化设施，为客人提供舒适的住宿环境。
 
-> ▶[OXO Townhouses 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=31174514)
+> ▶[OXO Townhouses 空房 & 房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=31174514) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=91598304&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJY-2uK5dYhJgNDYw0jrIYPGC02CrvePYMEGh0OXiuc39YJcI5wSGAJ2LKgefT2BO9qpv1fY4EOnQxsoIFZjA-uH1NewUj40ZGW67riwuWpjvsYGQ6wbhAdQHTh9ePtE-xMHO8Y7vEsosxulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGwLcws9AwOgSElihWcKWGdyYk5yaU5iSWpIZQHQBCMdpcxi55KizIKg1NzMkpJUoKq0xJziVJB4UGoxUCYZLAgytwjKz8zPg-g2QBELS8wpTYWoBNrnlgq1wrA29hELU3TsC5ajLJ9YGH6xMDSxMnSxMnOcYpoEJBeo7mLl9fJw9zQI1jUM0Y3SNbzAulBHStHQwMDAyNTUyFzXINEy0SI1JUXXxNLE2NBS19jCwsDMyFCj-1b7mqfGRtZSkIBUYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxObsamLkYhZlw8UcGuwiWAiKBANpBynmkHAXxZU3mdcemHDaXovZ0yXI8N5_llxtZUv7QIsvYvzvLRfYR8Lkk1irMnRDwjN6xQsYGxiZuhi5BRg9GCMYK4A8xlWM7FzMBkaGAkwbGBl3MP6HAcZXjCBLANskprdKAgAA&masterhotelid_tracelogid=100025527-0a9a8edd-494319-3880621&detailFilters=17|1~17~1*31|91598304~31~91598304*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=252&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/Gs9Nk1zo)
 
 ### 坎古区其他的住宿选择
 

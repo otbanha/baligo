@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7621e66d231e7fe9037030687a8b8224.jpg'
 originalUrl: 'https://vocus.cc/article/684569f0fd89780001f24ef9'
 lang: en
-_srcHash: 45ae85b2468dacf00c2c081cc52cdba1
+_srcHash: f15b92eddad52044c62b8a2c4c4474e7
 ---
 
 The most unforgettable part of my Bali trip was experiencing the Varuna Show at Marine Safari Bali! This magical underwater theater combining lights and acrobatics completely redefined my expectations of marine park performances.

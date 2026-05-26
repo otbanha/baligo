@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67a9e9ccfd89780001cd8699'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 04847077c8ec4c4eb95310a80066a764
+_srcHash: 5df2eb019e48131360cf94fa58e75ef8
 ---
 
 **游客在热门的巴厘岛海滩须谨慎保管个人物品**

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/681ed810fd89780001472eb1'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 199a9bbe2c8bfe9f51ba0821c6bf5e11
+_srcHash: feb884a72198a20b385c7452abb8120c
 ---
 
 **「在巴厘岛，每一口食物都是香料交响乐！」**

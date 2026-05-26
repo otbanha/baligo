@@ -31,7 +31,7 @@ agoda_star_rating: 5
 latitude: -8.843924522399902
 longitude: 115.12069702148438
 lang: zh-hk
-_srcHash: 62aabb4ca6b28ec102b9051d7826b38a
+_srcHash: 9e9f5bb233d43acb9b502308a76eef91
 ---
 如果峇里島有一間酒店，係所有頂級奢華旅宿嘅「天花板」，咁毫無疑問就係「寶格麗度假村」 Bvlgari Resort Bali。
 
