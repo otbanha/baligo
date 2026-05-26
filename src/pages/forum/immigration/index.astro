@@ -124,7 +124,6 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
             <div class="pc-author">
               ${profile.avatar_url ? `<img src="${sanitize(profile.avatar_url)}" class="pc-avatar" alt="" />` : '<span class="pc-avatar-ph">👤</span>'}
               <span class="pc-name">${sanitize(profile.display_name || '匿名')}</span>
-              <span class="trust-badge trust-badge--${trust}">${TRUST_LABELS[trust]}</span>
             </div>
             <div class="pc-meta">
               <span class="pc-replies">💬 ${p.reply_count || 0}</span>
