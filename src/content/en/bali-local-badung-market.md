@@ -74,13 +74,13 @@ Denpasar actually has some of Bali's best coffee shops, like NADHI Heritage, The
 
 https://youtu.be/gEcE2e4TFaM
 
-> [【2026 Denpasar Guide】Exploring Global Cities: Bali Capital's Culture, History & Food Map](https://gobaligo.id/blog/denpasar-culture-guide/)
+> [【2026 Denpasar Guide】Exploring Global Cities: Bali Capital's Culture, History & Food Map](/blog/denpasar-culture-guide/)
 
 ### Want to Eat, But Don't Want to Go It Alone?
 
 Let's be honest, traditional markets aren't for everyone. Most vendors only speak Indonesian, menus aren't in English, and figuring out how to order and pay can feel like a mini adventure. The variety of spices alone is overwhelming — there are several types of chili powder with different heat levels.
 
-If you're interested in exploring local markets but worried about language barriers and potential pitfalls, **Kreneng Night Market** is a more accessible option. We previously wrote about [a food tour experience with a Chinese-speaking guide at Kreneng Night Market](https://gobaligo.id/blog/kreneng-night-market-food-tour/), where locals truly dine — from roast suckling pig to satay and Soto Ayam, you'll hardly see any tourists. Having a guide makes a huge difference, ensuring you don't miss those hidden stalls tucked away in alleys.
+If you're interested in exploring local markets but worried about language barriers and potential pitfalls, **Kreneng Night Market** is a more accessible option. We previously wrote about [a food tour experience with a Chinese-speaking guide at Kreneng Night Market](/blog/kreneng-night-market-food-tour/), where locals truly dine — from roast suckling pig to satay and Soto Ayam, you'll hardly see any tourists. Having a guide makes a huge difference, ensuring you don't miss those hidden stalls tucked away in alleys.
 
 ### Final Thoughts
 

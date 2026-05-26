@@ -39,7 +39,7 @@ Honestly, I also feel like 2026 is flying by. It seems like just yesterday I was
 
 And frankly, I've noticed something significant in recent years: **Bali's peak season is quietly shifting earlier**. While the traditional peak was recognized as June to mid-September, now the influx starts as early as late May, well before the official summer break.
 
-> Quick Reference: [Bali Actually Has Five Peak Seasons! How to Travel Smartly by Avoiding Them?](https://gobaligo.id/blog/bali-peak-season-travel-tips/)
+> Quick Reference: [Bali Actually Has Five Peak Seasons! How to Travel Smartly by Avoiding Them?](/blog/bali-peak-season-travel-tips/)
 
 ### Numbers Speak: What Does 65,000 People at the Airport in a Day Mean?
 
@@ -125,7 +125,7 @@ Many don’t realize this: **Supermarkets and hotel amenities can run out during
 
 > 💡 **Must-Have Essentials**: On your first day at the hotel, head to Indomaret or Circle K to stock up on water, snacks, sunscreen, and insect repellent. During peak season, the mini-bar gets emptied quickly, and restocking can’t keep up.
 
-> Quick Reference: [30+ Supermarket Guide Map: Grand Lucky, Pepito, Bintang Explained with Locals' Must-Buy List](https://gobaligo.id/blog/bali-supermarket-guide-map/)
+> Quick Reference: [30+ Supermarket Guide Map: Grand Lucky, Pepito, Bintang Explained with Locals' Must-Buy List](/blog/bali-supermarket-guide-map/)
 
 {{block:klook}}
 
@@ -135,9 +135,9 @@ During peak season, tourists flock in and so do scam artists. I've compiled a li
 
 **1. Black Market Money Changers** Seeing signs like "No Commission" or "Best Rate" at small alleyway currency exchanges with unrealistically good rates? **Nine times out of ten, it's a scam**. The classic trick is to shortchange you by 500,000 or 1,000,000 IDR while counting the money.
 
-✅ **Only use legitimate PT. Central Kuta Money Changer, BMC, Dirgahayu Valuta Prima** - these are licensed operators found throughout tourist areas. Check out our [legitimate money changer map](https://gobaligo.id/map/money-changer/) for reference.
+✅ **Only use legitimate PT. Central Kuta Money Changer, BMC, Dirgahayu Valuta Prima** - these are licensed operators found throughout tourist areas. Check out our [legitimate money changer map](/map/money-changer/) for reference.
 
-> Quick Reference: [Bali Currency Exchange and Money Management Ultimate Guide](https://gobaligo.id/blog/bali-currency-exchange-guide/)
+> Quick Reference: [Bali Currency Exchange and Money Management Ultimate Guide](/blog/bali-currency-exchange-guide/)
 
 **2. Airport Taxi Scams** As soon as you exit arrivals, people will rush up saying "Taxi? Transport?" These are the infamous **taxi mafia**, charging 3-5 times the regular Grab fare.
 
@@ -179,7 +179,7 @@ Here's a quick summary of key points for this trip:
 - ✅ Use Grab/Gojek for short trips
 - ✅ Must purchase travel insurance, with medical coverage being most important
 
-> Quick reference: [【Bali Travel Insurance】Essential Guide for Taiwan, Hong Kong, Malaysia & Singapore Travelers!](https://gobaligo.id/blog/bali-travel-insurance-guide/)
+> Quick reference: [【Bali Travel Insurance】Essential Guide for Taiwan, Hong Kong, Malaysia & Singapore Travelers!](/blog/bali-travel-insurance-guide/)
 
 If you're planning to fly to Bali between June and September, now is the perfect time to start planning. Book your flights, reserve your hotel, purchase insurance, and sketch out your itinerary - then let Bali surprise you with the rest.
 

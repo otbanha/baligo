@@ -81,7 +81,7 @@ In addition to saving these numbers in your phone, taking these steps before you
 
 > **Your Safety Comes First!** > Being prepared in advance allows you to explore Bali with peace of mind and enjoy the island's blue skies and stunning scenery. Wishing everyone a pleasant and safe Bali vacation!
 
-🌏 [Interactive Map to Locate Police for Emergency Assistance](https://gobaligo.id/blog/bali-emergency-guide/)
+🌏 [Interactive Map to Locate Police for Emergency Assistance](/blog/bali-emergency-guide/)
 
 _(This article is compiled and shared by 'Bali Travel Guide gobaligo.id'. Feel free to share it with friends who are planning a trip to Bali!)_
 

@@ -13,9 +13,9 @@ Canggu is a hotspot on Bali that combines a relaxed atmosphere with trendy vibes
 
 ## Canggu Accommodation Themes
 
-- [Bali Accommodation Recommendations: Top 17 Canggu Stays You Can't Miss](https://gobaligo.id/blog/canggu-top-hotels-guide/)
-- [16 Private Pool Villas in Canggu: Canggu Villa Recommendations You Can't Miss](https://gobaligo.id/blog/canggu-villas-guide/)
-- [Luxury Resort in Canggu: Regent Bali Canggu](https://gobaligo.id/blog/regent-bali-canggu/)
-- [18 Family-Friendly Resorts with Kids Clubs in Bali: Best Choices for Family Vacations in Kuta, Seminyak, Canggu, Jimbaran, Uluwatu, and Ubud](https://gobaligo.id/blog/bali-family-resorts-kids-club/)
-- [Bali Family Fun: Top 15 Resorts with Water Slides and Playgrounds](https://gobaligo.id/blog/bali-family-resorts-water-slides/)
-- [Bali Group Travel: Canggu Private Villas with 3/4/5/6+ Bedrooms for Family Stays](https://gobaligo.id/blog/bali-group-villa-stay/)
+- [Bali Accommodation Recommendations: Top 17 Canggu Stays You Can't Miss](/blog/canggu-top-hotels-guide/)
+- [16 Private Pool Villas in Canggu: Canggu Villa Recommendations You Can't Miss](/blog/canggu-villas-guide/)
+- [Luxury Resort in Canggu: Regent Bali Canggu](/blog/regent-bali-canggu/)
+- [18 Family-Friendly Resorts with Kids Clubs in Bali: Best Choices for Family Vacations in Kuta, Seminyak, Canggu, Jimbaran, Uluwatu, and Ubud](/blog/bali-family-resorts-kids-club/)
+- [Bali Family Fun: Top 15 Resorts with Water Slides and Playgrounds](/blog/bali-family-resorts-water-slides/)
+- [Bali Group Travel: Canggu Private Villas with 3/4/5/6+ Bedrooms for Family Stays](/blog/bali-group-villa-stay/)

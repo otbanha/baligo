@@ -14,7 +14,7 @@ Uluwatu is one of the most popular areas in southern Bali, renowned for its stun
 
 ## Uluwatu Accommodation Themes
 
-- [Uluwatu Accommodation Recommendations: 14 Private Villas with Stunning Ocean Views](https://gobaligo.id/blog/uluwatu-bali-villas-resorts-guide/)
-- [Bali's 18 Best Family Resorts with Kids Clubs | Top Choices for Family Vacations in Kuta, Seminyak, Canggu, Jimbaran, Uluwatu, and Ubud](https://gobaligo.id/blog/bali-family-resorts-kids-club/)
-- [Bali Family Fun: 15 Resorts with Water Slides and Playgrounds](https://gobaligo.id/blog/bali-family-resorts-water-slides/)
-- [Bali Group Travel: Uluwatu Private Villas with 3/4/5/6+ Bedrooms for Family Stays](https://gobaligo.id/blog/bali-group-villa-stay/)
+- [Uluwatu Accommodation Recommendations: 14 Private Villas with Stunning Ocean Views](/blog/uluwatu-bali-villas-resorts-guide/)
+- [Bali's 18 Best Family Resorts with Kids Clubs | Top Choices for Family Vacations in Kuta, Seminyak, Canggu, Jimbaran, Uluwatu, and Ubud](/blog/bali-family-resorts-kids-club/)
+- [Bali Family Fun: 15 Resorts with Water Slides and Playgrounds](/blog/bali-family-resorts-water-slides/)
+- [Bali Group Travel: Uluwatu Private Villas with 3/4/5/6+ Bedrooms for Family Stays](/blog/bali-group-villa-stay/)

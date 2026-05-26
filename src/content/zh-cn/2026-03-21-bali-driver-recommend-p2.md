@@ -14,7 +14,7 @@ lang: zh-cn
 _srcHash: afb13ff5ff7c1648011f7fb7eca5e336
 ---
 
-第一页，获得我们优先推荐的司机在[这里](https://gobaligo.id/blog/bali-private-car-drivers-guide/)
+第一页，获得我们优先推荐的司机在[这里](/blog/bali-private-car-drivers-guide/)
 
 <!-- shuffle-start -->
 

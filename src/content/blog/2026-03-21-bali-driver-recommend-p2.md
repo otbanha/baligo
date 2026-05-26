@@ -12,7 +12,7 @@ shuffle_h2: true
 embeds: []
 ---
 
-第一頁，獲得我們優先推薦的司機在[這裡](https://gobaligo.id/blog/bali-private-car-drivers-guide/)
+第一頁，獲得我們優先推薦的司機在[這裡](/blog/bali-private-car-drivers-guide/)
 
 <!-- shuffle-start -->
 

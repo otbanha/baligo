@@ -73,7 +73,7 @@ _srcHash: 771ff17b0929c06adad066b713f846e9
 
 > **您嘅安全最重要！** > 提早做好準備，先至可以喺峇里島安心暢遊，享受神之島嘅藍天同美景。祝大家都有一個愉快、平安嘅峇里島假期！
 
-🌏 [互動地圖就近搵警察處理緊急問題](https://gobaligo.id/blog/bali-emergency-guide/)
+🌏 [互動地圖就近搵警察處理緊急問題](/blog/bali-emergency-guide/)
 
 _（本文由「峇里島旅遊攻略 gobaligo.id」整理分享，歡迎轉發俾身邊即將去峇里島嘅朋友！）_
 

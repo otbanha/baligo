@@ -34,7 +34,7 @@ _srcHash: ba17c105a7a4ed7d7bde6b5b26065624
 
 而且老实讲，这几年我有个很明显的感受：**巴厘岛的旺季正在悄悄提前**。以前大家公认的高峰期是 6 月到 9 月中，但现在 5 月底人就已经开始涌进来了，根本不用等到正式的暑假。
 
-> 快速参考: [巴厘岛居然有五个旅游旺季！如何避开旺季聪明旅游？](https://gobaligo.id/blog/bali-peak-season-travel-tips/)
+> 快速参考: [巴厘岛居然有五个旅游旺季！如何避开旺季聪明旅游？](/blog/bali-peak-season-travel-tips/)
 
 ### 数字会说话：机场一天 6.5 万人，是什么概念？
 
@@ -120,7 +120,7 @@ https://youtu.be/lIV-T2jYhVk
 
 > 💡 **必囤小物**：到酒店第一天，建议先去 Indomaret 或 Circle K 补齐水、零食、防晒、蚊虫药膏，旺季时酒店的 mini bar 真的会被住客喝光，补货也跟不上。
 
-> 快速参考: [30+ 间大型超市地图指南：Grand Lucky、Pepito、Bintang 全解析与在地人必买清单](https://gobaligo.id/blog/bali-supermarket-guide-map/)
+> 快速参考: [30+ 间大型超市地图指南：Grand Lucky、Pepito、Bintang 全解析与在地人必买清单](/blog/bali-supermarket-guide-map/)
 
 {{block:klook}}
 
@@ -130,9 +130,9 @@ https://youtu.be/lIV-T2jYhVk
 
 **1. 换钱黑店** 看到「No Commission」「Best Rate」招牌、汇率好到不合理的小巷换钱所，**九成是黑店**。经典手法就是数钱时用障眼法少给你 50 万、100 万印尼盾。
 
-✅ **只去合法的 PT. Central Kuta Money Changer、BMC、Dirgahayu Valuta Prima**，这些有正式营业执照，遍布各观光区。我们网站上有[合法换钱所地图](https://gobaligo.id/map/money-changer/)可以参考。
+✅ **只去合法的 PT. Central Kuta Money Changer、BMC、Dirgahayu Valuta Prima**，这些有正式营业执照，遍布各观光区。我们网站上有[合法换钱所地图](/map/money-changer/)可以参考。
 
-> 快速参考: [《巴厘岛换汇与金钱管理终极懒人包》](https://gobaligo.id/blog/bali-currency-exchange-guide/)
+> 快速参考: [《巴厘岛换汇与金钱管理终极懒人包》](/blog/bali-currency-exchange-guide/)
 
 **2. 机场黄牛出租车** 一出机场 arrival 就会有人冲过来「Taxi? Transport?」，这些就是传说中的 **taxi mafia**，喊价是正规 Grab 的 3-5 倍。
 
@@ -174,7 +174,7 @@ https://youtu.be/LuEXL77-Qh0
 - ✅ 短途叫车用 Grab/Gojek
 - ✅ 旅游险一定要买，医疗附加险最重要
 
-> 快速参考: [【巴厘岛旅游保险】台港马新旅客必看！投保指南、海外医疗与不便险理赔避雷重点整理](https://gobaligo.id/blog/bali-travel-insurance-guide/)
+> 快速参考: [【巴厘岛旅游保险】台港马新旅客必看！投保指南、海外医疗与不便险理赔避雷重点整理](/blog/bali-travel-insurance-guide/)
 
 如果你打算 6 到 9 月飞巴厘岛，现在就是动手规划的最佳时机。把机票订下来、酒店先 hold 住、保险买好、行程抓个大方向——剩下的，就让巴厘岛自己给你惊喜。
 

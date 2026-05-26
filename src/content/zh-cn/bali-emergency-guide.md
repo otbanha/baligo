@@ -73,7 +73,7 @@ _srcHash: 771ff17b0929c06adad066b713f846e9
 
 > **您的安全最重要！** > 提早做好准备，才能在巴厘岛安心畅游，享受神之岛的蓝天与美景。祝大家都有一个愉快、平安的巴厘岛假期！
 
-🌏 [互动地图就近寻找警察处理紧急问题](https://gobaligo.id/blog/bali-emergency-guide/)
+🌏 [互动地图就近寻找警察处理紧急问题](/blog/bali-emergency-guide/)
 
 _（本文由「巴厘岛旅游攻略 gobaligo.id」整理分享，欢迎转发给身边即将前往巴厘岛的朋友！）_
 

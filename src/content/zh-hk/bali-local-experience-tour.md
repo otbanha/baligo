@@ -79,7 +79,7 @@ https://youtu.be/FphhiUzB7gM
 
 ![詳細地圖指引，請點我](https://images.gobaligo.id/vocus/vocus_a852039757cecba9641ddebfeca49539.png)
 
-[詳細地圖指引，請點我](https://gobaligo.id/map/denpasar/)
+[詳細地圖指引，請點我](/map/denpasar/)
 
 希望呢篇文章可以為你嘅峇里島之旅提供靈感，讓你都可以體驗到最在地嘅峇里島風情。
 

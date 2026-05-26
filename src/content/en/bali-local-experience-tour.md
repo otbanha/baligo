@@ -82,7 +82,7 @@ Along the way, you'll get to taste famous local dishes such as Babi Guling (suck
 
 ![詳細地圖指引，請點我](https://images.gobaligo.id/vocus/vocus_a852039757cecba9641ddebfeca49539.png)
 
-[Detailed Map Guide, Click Here](https://gobaligo.id/map/denpasar/)
+[Detailed Map Guide, Click Here](/map/denpasar/)
 
 We hope this article inspires your Bali journey, allowing you to experience the most authentic Balinese charm.
 

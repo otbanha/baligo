@@ -13,7 +13,7 @@ embeds: []
 lang: en
 _srcHash: afb13ff5ff7c1648011f7fb7eca5e336
 ---
-Page 1: Find our top recommended drivers [here](https://gobaligo.id/blog/bali-private-car-drivers-guide/)
+Page 1: Find our top recommended drivers [here](/blog/bali-private-car-drivers-guide/)
 
 <!-- shuffle-start -->
 

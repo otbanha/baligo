@@ -34,7 +34,7 @@ _srcHash: ba17c105a7a4ed7d7bde6b5b26065624
 
 而且老實講，呢幾年我有個好明顯嘅感受：**峇里島嘅旺季正在悄悄提前**。以前大家公認嘅高峰期係 6 月到 9 月中，但而家 5 月底人就已經開始湧入嚟，根本唔使等到正式嘅暑假。
 
-> 快速參考: [峇里島居然有五個旅遊旺季！點樣避開旺季聰明旅遊？](https://gobaligo.id/blog/bali-peak-season-travel-tips/)
+> 快速參考: [峇里島居然有五個旅遊旺季！點樣避開旺季聰明旅遊？](/blog/bali-peak-season-travel-tips/)
 
 ### 數字會講嘢：機場一日 6.5 萬人，係咩概念？
 
@@ -120,7 +120,7 @@ https://youtu.be/lIV-T2jYhVk
 
 > 💡 **必囤小物**：到酒店第一日，建議先去 Indomaret 或者 Circle K 補齊水、零食、防曬、蚊蟲藥膏，旺季時酒店嘅 mini bar 真係會俾住客飲晒，補貨都跟唔上。
 
-> 快速參考: [30+ 間大型超市地圖指南：Grand Lucky、Pepito、Bintang 全解析與在地人必買清單](https://gobaligo.id/blog/bali-supermarket-guide-map/)
+> 快速參考: [30+ 間大型超市地圖指南：Grand Lucky、Pepito、Bintang 全解析與在地人必買清單](/blog/bali-supermarket-guide-map/)
 
 {{block:klook}}
 
@@ -130,9 +130,9 @@ https://youtu.be/lIV-T2jYhVk
 
 **1. 換錢黑店** 見到「No Commission」「Best Rate」招牌、匯率好到唔合理嘅小巷換錢所，**九成係黑店**。經典手法就係數錢時用掩眼法少畀你 50 萬、100 萬印尼盾。
 
-✅ **只去合法嘅 PT. Central Kuta Money Changer、BMC、Dirgahayu Valuta Prima**，呢啲有正式營業執照，遍佈各觀光區。我哋網站上有[合法換錢所地圖](https://gobaligo.id/map/money-changer/)可以參考。
+✅ **只去合法嘅 PT. Central Kuta Money Changer、BMC、Dirgahayu Valuta Prima**，呢啲有正式營業執照，遍佈各觀光區。我哋網站上有[合法換錢所地圖](/map/money-changer/)可以參考。
 
-> 快速參考: [《峇里島換匯與金錢管理終極懶人包》](https://gobaligo.id/blog/bali-currency-exchange-guide/)
+> 快速參考: [《峇里島換匯與金錢管理終極懶人包》](/blog/bali-currency-exchange-guide/)
 
 **2. 機場黃牛的士** 一出機場 arrival 就會有人衝過嚟「Taxi? Transport?」，呢啲就係傳說中嘅 **taxi mafia**，叫價係正規 Grab 嘅 3-5 倍。
 
@@ -174,7 +174,7 @@ https://youtu.be/LuEXL77-Qh0
 - ✅ 短程車叫車用 Grab/Gojek
 - ✅ 旅遊保險一定要買，醫療附加險最重要
 
-> 快速參考: [【峇里島旅遊保險】台港馬新旅客必睇！投保指南、海外醫療與不便險理賠避雷重點整理](https://gobaligo.id/blog/bali-travel-insurance-guide/)
+> 快速參考: [【峇里島旅遊保險】台港馬新旅客必睇！投保指南、海外醫療與不便險理賠避雷重點整理](/blog/bali-travel-insurance-guide/)
 
 如果你打算 6 到 9 月飛峇里島，而家就係開始規劃嘅最佳時機。訂好機票、hold 住酒店、買好保險、大致安排好行程——剩低嘅，就等峇里島俾驚喜你啦。
 

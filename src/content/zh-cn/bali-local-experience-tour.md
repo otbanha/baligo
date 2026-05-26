@@ -80,7 +80,7 @@ https://youtu.be/FphhiUzB7gM
 
 ![詳細地圖指引，請點我](https://images.gobaligo.id/vocus/vocus_a852039757cecba9641ddebfeca49539.png)
 
-[详细地图指引，请点我](https://gobaligo.id/map/denpasar/)
+[详细地图指引，请点我](/map/denpasar/)
 
 希望这篇文章能够为你的巴厘岛之旅提供灵感，让你也能体验到最在地的巴厘岛风情。
 
