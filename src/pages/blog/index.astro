@@ -324,6 +324,18 @@ const socialLinks = [
       <!-- 首頁專屬區塊（分類時隱藏） -->
       <div id="homepage-blocks">
 
+        <!-- 核心價值主張 Hero Section -->
+        <div class="value-hero">
+          <h1 class="hero-headline">峇里島旅遊一站通</h1>
+          <p class="hero-tagline">中文峇里島旅遊最完整攻略，600+ 文章、每日匯率、免費規劃工具、在地司機推薦</p>
+          <ul class="value-bullets">
+            <li>✓ 684 篇深度攻略，持續更新</li>
+            <li>✓ 每日印尼盾匯率，助你精準預算</li>
+            <li>✓ 免費行程規劃工具 & 預算計算機</li>
+            <li>✓ 社群實測，千位旅客認證司機</li>
+          </ul>
+        </div>
+
         <!-- 田字格 2×2 快速入口 -->
         <div class="quick-grid">
           <a href="/trip-planner/" class="qg-btn qg-blue">
@@ -1627,6 +1639,85 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   transition: background 0.2s;
 }
 .qa-widget-cta:hover { background: #2a5298; color: #fff; }
+
+/* ── 核心價值主張 Hero ── */
+.value-hero {
+  background: linear-gradient(135deg, #1a5e9a 0%, #0f3860 100%);
+  color: white;
+  padding: 2.5rem 2rem;
+  border-radius: 16px;
+  margin-bottom: 2rem;
+  text-align: center;
+}
+.hero-headline {
+  font-size: 2rem;
+  font-weight: 900;
+  margin: 0 0 0.8rem 0;
+  line-height: 1.2;
+  letter-spacing: -0.5px;
+}
+.hero-tagline {
+  font-size: 1.05rem;
+  color: rgba(255, 255, 255, 0.95);
+  margin: 0 0 1.5rem 0;
+  line-height: 1.5;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+.value-bullets {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 1rem;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: left;
+  font-size: 0.95rem;
+}
+.value-bullets li {
+  padding: 0.6rem 0;
+  line-height: 1.4;
+}
+@media (max-width: 768px) {
+  .value-hero {
+    padding: 2rem 1.5rem;
+  }
+  .hero-headline {
+    font-size: 1.6rem;
+  }
+  .hero-tagline {
+    font-size: 0.95rem;
+  }
+  .value-bullets {
+    grid-template-columns: 1fr;
+    gap: 0.8rem;
+  }
+  .value-bullets li {
+    font-size: 0.9rem;
+  }
+}
+@media (max-width: 480px) {
+  .value-hero {
+    padding: 1.5rem 1rem;
+    margin-bottom: 1.5rem;
+  }
+  .hero-headline {
+    font-size: 1.35rem;
+  }
+  .hero-tagline {
+    font-size: 0.9rem;
+    margin-bottom: 1.2rem;
+  }
+  .value-bullets {
+    font-size: 0.85rem;
+  }
+  .value-bullets li {
+    padding: 0.5rem 0;
+  }
+}
 
 /* ── 田字格 2×2 快速入口 ── */
 .quick-grid {
