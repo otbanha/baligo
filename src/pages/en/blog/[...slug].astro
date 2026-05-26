@@ -8,30 +8,32 @@ import matter from 'gray-matter';
 export async function getStaticPaths() {
   const blogPosts = await getCollection('blog');
   const langPosts = await getCollection('en');
-  const langMap = new Map(langPosts.map(p => [p.id, p]));
-  const blogMap = new Map(blogPosts.map(p => [p.id, p]));
 
-  // Combine both collections, preferring lang collection if available
-  const uniqueIds = new Set<string>();
+  // Create maps by slug for matching
+  const langMapBySlug = new Map(langPosts.map(p => [(p.data.slug || p.id), p]));
+
+  // Combine both collections, preferring en collection if available by slug
+  const usedSlugs = new Set<string>();
   const paths: any[] = [];
 
-  // Add entries from blog collection
+  // Add entries from blog collection, preferring en collection version if available by slug
   for (const blogPost of blogPosts) {
-    const id = blogPost.id;
-    uniqueIds.add(id);
-    const post = langMap.get(id) ?? blogPost;
+    const slug = blogPost.data.slug || blogPost.id;
+    usedSlugs.add(slug);
+    // Prefer en collection version if available
+    const post = langMapBySlug.get(slug) ?? blogPost;
     paths.push({
-      params: { slug: post.data.slug || id },
+      params: { slug },
       props: { post },
     });
   }
 
-  // Add entries from en collection that don't exist in blog collection
+  // Add entries from en collection that don't have a blog version (by slug)
   for (const langPost of langPosts) {
-    const id = langPost.id;
-    if (!uniqueIds.has(id)) {
+    const slug = langPost.data.slug || langPost.id;
+    if (!usedSlugs.has(slug)) {
       paths.push({
-        params: { slug: langPost.data.slug || id },
+        params: { slug },
         props: { post: langPost },
       });
     }
@@ -44,15 +46,34 @@ const { post } = Astro.props;
 const { Content, headings } = await render(post as any);
 
 const blogDir = join(process.cwd(), 'src/content/blog');
+const enDir = join(process.cwd(), 'src/content/en');
 let rawEmbeds: any[] = [];
+let rawDrivers: any[] = [];
+let rawIsDriverGuide: boolean = false;
 let firstImage: string = post.data.heroImage || '';
+
 try {
-  const files = readdirSync(blogDir);
-  const matchFile = files.find(f => f.replace(/\.mdx?$/, '') === post.id);
-  if (matchFile) {
-    const raw = readFileSync(join(blogDir, matchFile), 'utf-8');
-    const { data, content } = matter(raw);
+  // Try to find file in blog directory first
+  let matchFile = readdirSync(blogDir).find(f => f.replace(/\.mdx?$/, '') === post.id);
+  let fileContent = '';
+
+  // If not found in blog, look in en directory
+  if (!matchFile) {
+    const enFiles = readdirSync(enDir);
+    matchFile = enFiles.find(f => f.replace(/\.mdx?$/, '') === post.id);
+    if (matchFile) {
+      fileContent = readFileSync(join(enDir, matchFile), 'utf-8');
+    }
+  } else {
+    fileContent = readFileSync(join(blogDir, matchFile), 'utf-8');
+  }
+
+  if (fileContent) {
+    const { data, content } = matter(fileContent);
     rawEmbeds = data.embeds || [];
+    rawDrivers = data.drivers || [];
+    rawIsDriverGuide = data.isDriverGuide || false;
+
     if (!firstImage) {
       const imgMatch = content.match(/!\[.*?\]\((https?:\/\/[^)]+)\)/);
       if (imgMatch) firstImage = imgMatch[1];
@@ -65,20 +86,9 @@ rawEmbeds.forEach((e: any) => {
   embedMap[e.position] = { platform: e.platform, url: e.url };
 });
 
-// Debug: check if drivers data is available
-const driverData = (post.data as any).drivers;
-const isDriverGuideFlag = (post.data as any).isDriverGuide;
-
-// Log for debugging
-if (post.id === 'bali-private-car-drivers-guide') {
-  console.log('📌 Driver Guide Page Debug:');
-  console.log('  post.id:', post.id);
-  console.log('  post.data keys:', Object.keys(post.data));
-  console.log('  isDriverGuideFlag:', isDriverGuideFlag);
-  console.log('  driverData:', driverData);
-}
+// Use manually parsed drivers/isDriverGuide since Astro content loader doesn't pick them up from YAML
 ---
 
-<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="en" slug={post.id} drivers={driverData} isDriverGuide={isDriverGuideFlag}>
+<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="en" slug={post.id} drivers={rawDrivers} isDriverGuide={rawIsDriverGuide}>
   <Content />
 </BlogPost>
