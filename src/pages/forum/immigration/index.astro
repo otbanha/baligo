@@ -156,23 +156,41 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
             <a href="/forum/login/?next=${encodeURIComponent(location.href)}" class="btn-login-reply">登入後留言</a>
            </div>`;
 
+      const isAuthor = currentUserId && currentUserId === p.user_id;
+
       return `
         <div class="post-detail">
           <a href="/forum/immigration/" class="pd-back" id="back-to-list">← 返回討論區</a>
           <div class="pd-topic-row">
             <span class="pd-topic-badge" style="${TOPIC_STYLE[p.topic] || ''}">${sanitize(TOPICS[p.topic] || p.topic)}</span>
           </div>
-          <h1 class="pd-title">${sanitize(p.title)}</h1>
+
+          <div class="pd-title-row">
+            <h1 class="pd-title" id="pd-post-title">${sanitize(p.title)}</h1>
+            ${isAuthor ? `<button class="btn-edit-post" id="btn-edit-post">✏️ 編輯</button>` : ''}
+          </div>
+
+          ${isAuthor ? `
+          <div id="pd-edit-form" class="pd-edit-form" style="display:none">
+            <input type="text" id="edit-title-input" class="edit-title-input" maxlength="100" value="${sanitize(p.title)}" />
+            <textarea id="edit-content-input" class="edit-content-input" rows="7" maxlength="3000">${sanitize(p.content)}</textarea>
+            <div class="edit-form-actions">
+              <button id="btn-save-edit" class="btn-save-edit">儲存</button>
+              <button id="btn-cancel-edit" class="btn-cancel-edit">取消</button>
+              <span id="edit-error" class="edit-error" style="display:none"></span>
+            </div>
+          </div>` : ''}
+
           <div class="pd-author-row">
             ${profile.avatar_url ? `<img src="${sanitize(profile.avatar_url)}" class="pd-avatar" alt="" />` : '<span class="pd-avatar-ph">👤</span>'}
             <span class="pd-author-name">${sanitize(profile.display_name || '匿名')}</span>
             <span class="trust-badge trust-badge--${trust}">${TRUST_LABELS[trust]}</span>
             <span class="pd-time">${timeAgo(p.created_at)}</span>
           </div>
-          <div class="pd-content">${linkify(p.content)}</div>
+          <div class="pd-content" id="pd-post-content">${linkify(p.content)}</div>
           ${p.image_urls && p.image_urls.length > 0 ? `
             <div class="pd-images">
-              ${p.image_urls.map(url => `<a href="${sanitize(url)}" target="_blank" rel="noopener"><img src="${sanitize(url)}" class="pd-image" loading="lazy" alt="附圖" /></a>`).join('')}
+              ${p.image_urls.map(url => `<img src="${sanitize(url)}" class="pd-image" loading="lazy" alt="附圖" />`).join('')}
             </div>` : ''}
 
           <section class="replies-section">
@@ -268,6 +286,58 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
 
       const currentUserId = sessionRes.data?.session?.user?.id ?? null;
       content.innerHTML = renderPostDetail(postRes.data, repliesRes.data || [], currentUserId);
+
+      // ── Edit post ──────────────────────────────────────────────
+      const btnEdit = document.getElementById('btn-edit-post');
+      if (btnEdit) {
+        const editForm    = document.getElementById('pd-edit-form');
+        const titleInput  = document.getElementById('edit-title-input');
+        const contentInput= document.getElementById('edit-content-input');
+        const editError   = document.getElementById('edit-error');
+        const pdTitle     = document.getElementById('pd-post-title');
+        const pdContent   = document.getElementById('pd-post-content');
+
+        btnEdit.addEventListener('click', () => {
+          editForm.style.display = 'block';
+          btnEdit.style.display  = 'none';
+          titleInput.focus();
+        });
+
+        document.getElementById('btn-cancel-edit').addEventListener('click', () => {
+          editForm.style.display = 'none';
+          btnEdit.style.display  = 'inline-flex';
+          editError.style.display = 'none';
+        });
+
+        document.getElementById('btn-save-edit').addEventListener('click', async () => {
+          const newTitle   = titleInput.value.trim();
+          const newContent = contentInput.value.trim();
+          editError.style.display = 'none';
+          if (!newTitle || newTitle.length < 5)    { editError.textContent = '標題至少 5 個字元'; editError.style.display = 'inline'; return; }
+          if (!newContent || newContent.length < 10){ editError.textContent = '內容至少 10 個字元'; editError.style.display = 'inline'; return; }
+
+          const saveBtn = document.getElementById('btn-save-edit');
+          saveBtn.disabled = true; saveBtn.textContent = '儲存中⋯';
+
+          const { error } = await sb.from('posts')
+            .update({ title: newTitle, content: newContent })
+            .eq('id', id);
+
+          if (error) {
+            editError.textContent = '儲存失敗：' + error.message;
+            editError.style.display = 'inline';
+            saveBtn.disabled = false; saveBtn.textContent = '儲存';
+            return;
+          }
+
+          // Update displayed title & content without reload
+          pdTitle.textContent = newTitle;
+          pdContent.innerHTML = linkify(newContent);
+          editForm.style.display = 'none';
+          btnEdit.style.display  = 'inline-flex';
+          saveBtn.disabled = false; saveBtn.textContent = '儲存';
+        });
+      }
 
       // Back button
       document.getElementById('back-to-list').addEventListener('click', e => {
@@ -496,22 +566,65 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   }
   .content-link:hover { color: var(--gold); }
 
-  /* Post images */
+  /* Post images — full width */
   .pd-images {
-    display: flex; flex-wrap: wrap; gap: .6rem;
-    margin: -.5rem 0 1.5rem;
+    display: flex; flex-direction: column; gap: .7rem;
+    margin: 0 0 1.5rem;
   }
-  .pd-images a { display: block; }
   .pd-image {
-    width: 140px; height: 110px;
-    object-fit: cover; border-radius: 8px;
+    width: 100%; height: auto;
+    border-radius: 10px;
     border: 1px solid rgba(201,168,76,.2);
-    transition: opacity .15s;
+    display: block;
   }
-  .pd-image:hover { opacity: .85; }
-  @media (max-width: 480px) {
-    .pd-image { width: 110px; height: 85px; }
+
+  /* Edit post */
+  .pd-title-row {
+    display: flex; align-items: flex-start; gap: .7rem;
+    margin-bottom: .8rem;
   }
+  .pd-title-row .pd-title { margin-bottom: 0; flex: 1; }
+  .btn-edit-post {
+    display: inline-flex; align-items: center; gap: .3rem;
+    background: none; border: 1px solid #d1c9b5;
+    border-radius: 7px; padding: .3em .75em;
+    font-size: .78rem; color: var(--ocean);
+    cursor: pointer; white-space: nowrap; flex-shrink: 0;
+    margin-top: .3rem;
+  }
+  .btn-edit-post:hover { background: #f5f0e8; }
+  .pd-edit-form {
+    background: #fafaf8; border: 1px solid rgba(201,168,76,.25);
+    border-radius: 10px; padding: 1rem; margin-bottom: 1rem;
+    display: flex; flex-direction: column; gap: .6rem;
+  }
+  .edit-title-input {
+    border: 1px solid #d1c9b5; border-radius: 7px;
+    padding: .55rem .8rem; font-size: .95rem;
+    font-family: inherit; width: 100%; box-sizing: border-box;
+    color: var(--text);
+  }
+  .edit-title-input:focus { outline: none; border-color: var(--ocean); }
+  .edit-content-input {
+    border: 1px solid #d1c9b5; border-radius: 7px;
+    padding: .55rem .8rem; font-size: .92rem;
+    font-family: inherit; width: 100%; box-sizing: border-box;
+    color: var(--text); resize: vertical; min-height: 120px; line-height: 1.6;
+  }
+  .edit-content-input:focus { outline: none; border-color: var(--ocean); }
+  .edit-form-actions { display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; }
+  .btn-save-edit {
+    background: var(--ocean); color: #fff;
+    border: none; border-radius: 7px;
+    padding: .45rem 1.1rem; font-size: .88rem; font-weight: 600; cursor: pointer;
+  }
+  .btn-save-edit:disabled { opacity: .55; cursor: not-allowed; }
+  .btn-cancel-edit {
+    background: none; border: 1px solid #d1c9b5;
+    border-radius: 7px; padding: .45rem .9rem;
+    font-size: .88rem; cursor: pointer; color: var(--text);
+  }
+  .edit-error { font-size: .82rem; color: #c53030; }
 
   /* Replies */
   .replies-section { margin-top: 1.5rem; }
