@@ -50,6 +50,7 @@ const enDir = join(process.cwd(), 'src/content/en');
 let rawEmbeds: any[] = [];
 let rawDrivers: any[] = [];
 let rawIsDriverGuide: boolean = false;
+let rawIsSpaGuide: boolean = false;
 let firstImage: string = post.data.heroImage || '';
 
 try {
@@ -73,6 +74,7 @@ try {
     rawEmbeds = data.embeds || [];
     rawDrivers = data.drivers || [];
     rawIsDriverGuide = data.isDriverGuide || false;
+    rawIsSpaGuide = data.isSpaGuide || false;
 
     if (!firstImage) {
       const imgMatch = content.match(/!\[.*?\]\((https?:\/\/[^)]+)\)/);
@@ -86,9 +88,9 @@ rawEmbeds.forEach((e: any) => {
   embedMap[e.position] = { platform: e.platform, url: e.url };
 });
 
-// Use manually parsed drivers/isDriverGuide since Astro content loader doesn't pick them up from YAML
+// Use manually parsed drivers/isDriverGuide/isSpaGuide since Astro content loader doesn't pick them up from YAML
 ---
 
-<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="en" slug={post.id} drivers={rawDrivers} isDriverGuide={rawIsDriverGuide}>
+<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="en" slug={post.id} drivers={rawDrivers} isDriverGuide={rawIsDriverGuide} isSpaGuide={rawIsSpaGuide}>
   <Content />
 </BlogPost>
