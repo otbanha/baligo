@@ -29,24 +29,6 @@ originalUrl: 'https://vocus.cc/article/668aaea7fd89780001981840'
 shuffle_h2: true
 lang: en
 _srcHash: 2af484db378713884e626ee34ba75a93
-driverStats:
-  - name: "Gus Ray"
-    recommendations: 47
-    rank: 1
-    badge: "🏆 最受歡迎司機"
-  - name: "Karuna"
-    recommendations: 37
-    rank: 2
-  - name: "Edi Putra Yasa"
-    recommendations: 36
-    rank: 3
-  - name: "（Chinese Guide）Ani Si Febri Annie"
-    recommendations: 32
-    rank: 4
-  - name: "Fovix Ketut"
-    recommendations: 32
-    rank: 5
-    badge: "🏆 TOP 5"
 ---
 
 Bali is an enchanting vacation destination with stunning beaches, breathtaking natural scenery, and unique culture. On this laid-back and romantic island, private car hire is the best way to explore Bali's beauty. Below, we introduce a 'Bali Driver Hall of Fame' based on real user reviews for your reference. Why hire a driver? Besides having a car to shield you from the sun, rain, and heat, the most important benefit is avoiding hassles like accidents or being stopped by the police. Check out the other advantages in the image below:
@@ -67,7 +49,7 @@ Next, we recommend some drivers with the most reviews in our community. We don�
 
 ***
 
-## Gede Arimbawa ⭐ 25 人推薦
+## Gede Arimbawa
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e96d46f4fff8532b766b84b03cae9eb8.png)
 
@@ -77,7 +59,7 @@ Next, we recommend some drivers with the most reviews in our community. We don�
 
 ***
 
-## #3 Komang Ariawan - ⭐ 21 人推薦
+## Komang Ariawan
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_d13aeb3edcf488cd0c95b391b04164ae.png)
 
@@ -85,7 +67,7 @@ Next, we recommend some drivers with the most reviews in our community. We don�
 
 ***
 
-## 🥈 #2 Karuna - ⭐ 37 人推薦 | 人氣司機
+## Karuna
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_944849012a837b468cca3f83f5f48a84.png)
 
@@ -145,7 +127,7 @@ Next, we recommend some drivers with the most reviews in our community. We don�
 
 <!-- shuffle-start -->
 
-## 🏆 #1 Gus Ray - ⭐ 47 人推薦 | 最受歡迎司機
+## Gus Ray
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_dbeabe1815db133de6b79920c7a1bcda.png)
 
