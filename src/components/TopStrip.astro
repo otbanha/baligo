@@ -10,6 +10,7 @@ const row1 = [
   { id: 'budget',    icon: '💰', url: '/bali-budget-calculator/' },
   { id: 'map',       icon: '📍', url: '/map/', noLocalize: true },
   { id: 'transport', icon: '🚗', url: '/blog/bali-transport-quiz/' },
+  { id: 'fare',      icon: '💲', url: '/map/gojek-fare/' },
 ] as const;
 
 const row2 = [
@@ -29,6 +30,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     budget:    { full: '預算計算',   mobile: '預算' },
     map:       { full: '攻略地圖',   mobile: '地圖' },
     transport: { full: '交通選擇',   mobile: '交通' },
+    fare:      { full: '車資計算',   mobile: '車資' },
     visa:      { full: '簽證入境',   mobile: '簽證' },
     driver:    { full: '司機推薦',   mobile: '包車' },
     spa:       { full: 'SPA 推薦',   mobile: 'SPA'  },
@@ -42,6 +44,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     budget:    { full: '预算计算',   mobile: '预算' },
     map:       { full: '攻略地图',   mobile: '地图' },
     transport: { full: '交通选择',   mobile: '交通' },
+    fare:      { full: '车资计算',   mobile: '车资' },
     visa:      { full: '签证入境',   mobile: '签证' },
     driver:    { full: '司机推荐',   mobile: '包车' },
     spa:       { full: 'SPA 推荐',   mobile: 'SPA'  },
@@ -55,6 +58,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     budget:    { full: '預算計算',   mobile: '預算' },
     map:       { full: '攻略地圖',   mobile: '地圖' },
     transport: { full: '交通選擇',   mobile: '交通' },
+    fare:      { full: '車資計算',   mobile: '車資' },
     visa:      { full: '簽證入境',   mobile: '簽證' },
     driver:    { full: '司機推薦',   mobile: '包車' },
     spa:       { full: 'SPA 推薦',   mobile: 'SPA'  },
@@ -68,6 +72,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     budget:    { full: 'Budget',       mobile: 'Budget'  },
     map:       { full: 'Map',          mobile: 'Map'     },
     transport: { full: 'Transport',    mobile: 'Transit' },
+    fare:      { full: 'Fare Calc',    mobile: 'Fare'    },
     visa:      { full: 'Visa & Entry', mobile: 'Visa'    },
     driver:    { full: 'Driver Rec',   mobile: 'Driver'  },
     spa:       { full: 'SPA',          mobile: 'SPA'     },
