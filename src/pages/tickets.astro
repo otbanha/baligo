@@ -26,11 +26,24 @@ const ticketsData = rawTickets
 // Preload first 25 items for SEO
 const preloadedTickets = ticketsData.slice(0, 25);
 
+// Build TouristAttraction Schema for each attraction
+const attractionSchemas = ticketsData.slice(0, 15).map((item, idx) => ({
+  "@type": "TouristAttraction",
+  "@id": `https://gobaligo.id/tickets/#attraction-${idx}`,
+  "name": item.name,
+  "url": `https://gobaligo.id/tickets/`,
+  "priceCurrency": "IDR",
+  "price": item.idr.toString(),
+  "priceRange": `IDR ${item.idr.toLocaleString('en-US')}`,
+  "inLanguage": "zh-TW"
+}));
+
 const schema = {
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "BreadcrumbList",
+      "@id": "https://gobaligo.id/tickets/#breadcrumb",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "首頁", "item": "https://gobaligo.id/" },
         { "@type": "ListItem", "position": 2, "name": "景點門票", "item": "https://gobaligo.id/tickets/" }
@@ -44,8 +57,10 @@ const schema = {
       "url": "https://gobaligo.id/tickets/",
       "inLanguage": "zh-TW",
       "numberOfItems": ticketsData.length,
-      "publisher": { "@type": "Organization", "name": "Go Bali Go", "url": "https://gobaligo.id" }
-    }
+      "publisher": { "@type": "Organization", "name": "Go Bali Go", "url": "https://gobaligo.id" },
+      "mainEntity": attractionSchemas
+    },
+    ...attractionSchemas
   ]
 };
 
