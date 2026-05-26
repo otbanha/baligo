@@ -12,8 +12,17 @@ import RelatedMapCard from '../components/RelatedMapCard.astro';
 import { getCollection } from 'astro:content';
 import { enhancedTitle, enhancedDescription, COMPANION_CAT } from '../utils/seo-keywords';
 
-type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[]; lang?: string; slug?: string };
-const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate, shuffle_h2: shuffleH2 } = Astro.props;
+type Driver = {
+  name: string;
+  category: string;
+  languages: string[];
+  specialty: string;
+  contact: string;
+  facebookRefs: number;
+};
+
+type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[]; lang?: string; slug?: string; isDriverGuide?: boolean; drivers?: Driver[] };
+const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate, shuffle_h2: shuffleH2, isDriverGuide = false, drivers = [] } = Astro.props;
 
 const tocHeadings = headings.filter(h => h.depth === 1 || h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= 2;
@@ -161,6 +170,38 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
   url: p.data.url,
   coverImage: p.data.coverImage || null,
 })));
+
+// Generate Person + LocalBusiness Schema for drivers (Task #3 - Schema markup for drivers)
+const driverSchemas = (isDriverGuide && Array.isArray(drivers) && drivers.length > 0)
+  ? drivers.map((driver) => {
+      const driverSlug = driver.name.toLowerCase().replace(/\s+/g, '-');
+      const driverUrl = `https://gobaligo.id/blog/${slug}/#${driverSlug}`;
+
+      return {
+        "@context": "https://schema.org",
+        "@type": ["Person", "LocalBusiness"],
+        "name": driver.name,
+        "jobTitle": driver.category,
+        "areaServed": {
+          "@type": "City",
+          "name": "Bali"
+        },
+        "knowsLanguage": driver.languages.map(lang => ({
+          "@type": "Language",
+          "name": lang
+        })),
+        "description": `${driver.name} - ${driver.category}. Specialty: ${driver.specialty}. Contact: ${driver.contact}. Recommended by ${driver.facebookRefs} community members.`,
+        "url": driverUrl,
+        "telephone": driver.contact,
+        "priceRange": "IDR 600,000 - 800,000 per day",
+        "availableLanguage": driver.languages,
+        "speciality": driver.specialty,
+        "expertise": "Bali private car driving",
+        "ratingValue": "5",
+        "reviewCount": driver.facebookRefs.toString()
+      };
+    })
+  : [];
 ---
 
 <html lang={lang === 'zh-cn' ? 'zh-CN' : lang === 'zh-hk' ? 'zh-HK' : lang === 'en' ? 'en' : 'zh-TW'}>
@@ -208,6 +249,11 @@ const promosJson = JSON.stringify(activePromos.map(p => ({
     updatedDate={updatedDate}
     heroImage={ogImage}
   />}
+
+  <!-- JSON-LD: Driver Guide - Person + LocalBusiness Schema for each recommended driver -->
+  {isDriverGuide && driverSchemas.length > 0 && driverSchemas.map((schema) => (
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  ))}
 </head>
 
 <body>

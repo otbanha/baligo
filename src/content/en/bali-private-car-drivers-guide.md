@@ -29,6 +29,25 @@ originalUrl: 'https://vocus.cc/article/668aaea7fd89780001981840'
 shuffle_h2: true
 lang: en
 isDriverGuide: true
+drivers:
+  - name: "Gede Arimbawa"
+    category: "Professional Driver"
+    languages: ["English", "Indonesian"]
+    specialty: "Scenic routes and cultural tours"
+    contact: "+62 (WhatsApp)"
+    facebookRefs: 25
+  - name: "Komang Ariawan"
+    category: "Professional Driver"
+    languages: ["English", "Indonesian"]
+    specialty: "Safe driving"
+    contact: "+62 (WhatsApp)"
+    facebookRefs: 21
+  - name: "Karuna"
+    category: "Professional Driver"
+    languages: ["English", "Indonesian"]
+    specialty: "Reliable service"
+    contact: "+62 (WhatsApp)"
+    facebookRefs: 37
 _srcHash: 2af484db378713884e626ee34ba75a93
 ---
 

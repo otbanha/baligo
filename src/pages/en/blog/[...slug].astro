@@ -9,13 +9,35 @@ export async function getStaticPaths() {
   const blogPosts = await getCollection('blog');
   const langPosts = await getCollection('en');
   const langMap = new Map(langPosts.map(p => [p.id, p]));
+  const blogMap = new Map(blogPosts.map(p => [p.id, p]));
 
-  return blogPosts.map((blogPost) => ({
-    params: { slug: blogPost.data.slug || blogPost.id },
-    props: {
-      post: langMap.get(blogPost.id) ?? blogPost,
-    },
-  }));
+  // Combine both collections, preferring lang collection if available
+  const uniqueIds = new Set<string>();
+  const paths: any[] = [];
+
+  // Add entries from blog collection
+  for (const blogPost of blogPosts) {
+    const id = blogPost.id;
+    uniqueIds.add(id);
+    const post = langMap.get(id) ?? blogPost;
+    paths.push({
+      params: { slug: post.data.slug || id },
+      props: { post },
+    });
+  }
+
+  // Add entries from en collection that don't exist in blog collection
+  for (const langPost of langPosts) {
+    const id = langPost.id;
+    if (!uniqueIds.has(id)) {
+      paths.push({
+        params: { slug: langPost.data.slug || id },
+        props: { post: langPost },
+      });
+    }
+  }
+
+  return paths;
 }
 
 const { post } = Astro.props;
@@ -42,8 +64,12 @@ const embedMap: Record<string, {platform: string, url: string}> = {};
 rawEmbeds.forEach((e: any) => {
   embedMap[e.position] = { platform: e.platform, url: e.url };
 });
+
+// Debug: check if drivers data is available
+const driverData = (post.data as any).drivers;
+const isDriverGuideFlag = (post.data as any).isDriverGuide;
 ---
 
-<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="en" slug={post.id}>
+<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="en" slug={post.id} drivers={driverData} isDriverGuide={isDriverGuideFlag}>
   <Content />
 </BlogPost>
