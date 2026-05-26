@@ -547,6 +547,11 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     function showList() {
       document.getElementById('view-list').style.display = 'block';
       document.getElementById('view-detail').style.display = 'none';
+      // 若貼文列表從未載入（直接從 hash URL 進入），補觸發一次
+      const postsList = document.getElementById('posts-list');
+      if (!postsList || postsList.querySelector('.loading-text') || postsList.innerHTML.trim() === '') {
+        loadPosts(true);
+      }
     }
 
     // ── Topic tabs ────────────────────────────────────────────
