@@ -23,6 +23,9 @@ const ticketsData = rawTickets
     warn: t.data.warn ?? null,
   }));
 
+// Preload first 25 items for SEO
+const preloadedTickets = ticketsData.slice(0, 25);
+
 const schema = {
   "@context": "https://schema.org",
   "@graph": [
@@ -45,6 +48,9 @@ const schema = {
     }
   ]
 };
+
+// Pre-render the cards as HTML (removed for now)
+// const preloadedHTML = preloadedTickets.map(t => generateCardHTML(t)).join('');
 ---
 
 <!doctype html>
@@ -154,8 +160,9 @@ const schema = {
 </html>
 
 
-<script define:vars={{ ticketsData }}>
+<script define:vars={{ ticketsData, preloadedTickets }}>
 const DATA = ticketsData;
+const PRELOADED_COUNT = preloadedTickets.length;
 
 const CAT_LABEL = {
   temple:   '寺廟',
@@ -253,8 +260,9 @@ function buildCard(item) {
 let activeCat = 'all';
 let sortMode  = 'default';
 let searchQ   = '';
+let isInitialized = false;
 
-function render() {
+function render(usePreloaded = false) {
   let items = [...DATA];
 
   if (activeCat !== 'all') items = items.filter(i => i.cat === activeCat);
@@ -262,13 +270,20 @@ function render() {
     const q = searchQ.toLowerCase();
     items = items.filter(i => i.name.toLowerCase().includes(q) || i.note.toLowerCase().includes(q));
   }
-  if (sortMode === 'asc')  items.sort((a, b) => a.idr - b.idr);
-  else if (sortMode === 'desc') items.sort((a, b) => b.idr - a.idr);
-  else { // default: shuffle
-    for (let i = items.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [items[i], items[j]] = [items[j], items[i]];
+
+  // Only shuffle if not the initial load (for SEO, show first 25 in order)
+  if (!usePreloaded) {
+    if (sortMode === 'asc')  items.sort((a, b) => a.idr - b.idr);
+    else if (sortMode === 'desc') items.sort((a, b) => b.idr - a.idr);
+    else { // default: shuffle
+      for (let i = items.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [items[i], items[j]] = [items[j], items[i]];
+      }
     }
+  } else {
+    // For initial load, just show first 25 items (for SEO crawler)
+    items = items.slice(0, 25);
   }
 
   document.getElementById('result-count').textContent =
@@ -302,5 +317,7 @@ document.getElementById('search-input').addEventListener('input', e => {
   render();
 });
 
-render();
+// Initialize with pre-loaded content (first 25 items only for SEO)
+render(true);
+isInitialized = true;
 </script>
