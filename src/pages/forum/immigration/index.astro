@@ -29,6 +29,15 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
       <a href="/forum/immigration/new/" class="btn-new-post">＋ 發起新討論</a>
     </div>
 
+    <div class="search-bar-wrap">
+      <div class="search-bar">
+        <span class="search-icon">🔍</span>
+        <input type="search" id="forum-search" class="search-input"
+          placeholder="搜尋討論標題或內容⋯" maxlength="80" autocomplete="off" />
+        <button id="search-clear" class="search-clear" style="display:none" aria-label="清除">✕</button>
+      </div>
+    </div>
+
     <div class="topic-tabs" id="topic-tabs">
       <button class="topic-tab topic-tab--active" data-topic="">全部</button>
       <button class="topic-tab" data-topic="evisa">電子簽證</button>
@@ -238,6 +247,8 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     let page = 0;
     const PAGE_SIZE = 20;
     let currentTopic = '';
+    let searchQuery   = '';
+    let searchTimer   = null;
 
     // ── Load posts ────────────────────────────────────────────
     async function loadPosts(reset = false) {
@@ -248,6 +259,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
         .order('created_at', { ascending: false })
         .range(page * PAGE_SIZE, (page + 1) * PAGE_SIZE - 1);
       if (currentTopic) q = q.eq('topic', currentTopic);
+      if (searchQuery)  q = q.or(`title.ilike.%${searchQuery}%,content.ilike.%${searchQuery}%`);
 
       const { data, error } = await q;
       if (error) { document.getElementById('posts-list').innerHTML = `<p class="load-error">載入失敗：${sanitize(error.message)}</p>`; return; }
@@ -554,6 +566,35 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
       }
     }
 
+    // ── Search ───────────────────────────────────────────────
+    const searchInput = document.getElementById('forum-search');
+    const searchClear = document.getElementById('search-clear');
+    const topicTabs   = document.getElementById('topic-tabs');
+
+    searchInput.addEventListener('input', () => {
+      const val = searchInput.value.trim();
+      searchClear.style.display = val ? 'inline-flex' : 'none';
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(() => {
+        searchQuery = val;
+        // 搜尋時隱藏分類 tabs（避免混淆）
+        topicTabs.style.display = val ? 'none' : '';
+        if (!val) {
+          // 清空搜尋 → 回到分類篩選
+          currentTopic = '';
+          document.querySelectorAll('.topic-tab').forEach(t => t.classList.remove('topic-tab--active'));
+          document.querySelector('.topic-tab[data-topic=""]').classList.add('topic-tab--active');
+        }
+        loadPosts(true);
+      }, 350);
+    });
+
+    searchClear.addEventListener('click', () => {
+      searchInput.value = '';
+      searchInput.dispatchEvent(new Event('input'));
+      searchInput.focus();
+    });
+
     // ── Topic tabs ────────────────────────────────────────────
     document.querySelectorAll('.topic-tab').forEach(tab => {
       tab.addEventListener('click', () => {
@@ -607,6 +648,33 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   .btn-new-post:hover { background: #1a3a6a; }
 
   /* Topic tabs */
+  /* Search bar */
+  .search-bar-wrap { margin-bottom: 1rem; }
+  .search-bar {
+    display: flex; align-items: center; gap: .5rem;
+    background: #fff;
+    border: 1.5px solid #d1c9b5;
+    border-radius: 10px;
+    padding: .45rem .75rem;
+    transition: border-color .15s;
+  }
+  .search-bar:focus-within { border-color: var(--ocean); box-shadow: 0 0 0 3px rgba(26,58,93,.08); }
+  .search-icon { font-size: 1rem; opacity: .5; flex-shrink: 0; }
+  .search-input {
+    flex: 1; border: none; outline: none;
+    font-size: .92rem; font-family: inherit;
+    color: var(--text); background: transparent;
+    min-width: 0;
+  }
+  .search-input::placeholder { color: #b0a898; }
+  .search-clear {
+    display: inline-flex; align-items: center; justify-content: center;
+    background: none; border: none; cursor: pointer;
+    color: #b0a898; font-size: .8rem; padding: 0; flex-shrink: 0;
+    width: 18px; height: 18px;
+  }
+  .search-clear:hover { color: var(--text); }
+
   .topic-tabs { display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: 1.2rem; }
   .topic-tab {
     padding: .4rem 1rem;
