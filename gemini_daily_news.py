@@ -28,6 +28,7 @@ CONTENT_DIR     = os.path.join(SCRIPT_DIR, "src/content/blog")
 HISTORY_FILE    = os.path.join(SCRIPT_DIR, "scripts/topics-history.json")
 GEMINI_MODELS   = [
     "gemini-2.5-flash",
+    "gemini-2.0-flash",
     "gemini-2.0-flash-lite",
 ]
 GEMINI_API_BASE  = "https://generativelanguage.googleapis.com/v1beta/models"
@@ -75,7 +76,9 @@ def fetch_festival_guide() -> str:
                 self.parts.append(data.strip())
 
     try:
-        resp = requests.get(FESTIVAL_GUIDE_URL, timeout=15)
+        resp = requests.get(FESTIVAL_GUIDE_URL, timeout=15, headers={
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+        })
         resp.raise_for_status()
         extractor = _TextExtractor()
         extractor.feed(resp.text)
@@ -267,9 +270,9 @@ def call_gemini(api_key: str, prompt: str) -> str:
             try:
                 print(f"   嘗試模型 {model}（第 {attempt+1} 次）...")
                 resp = requests.post(url, json=payload, timeout=60)
-                if resp.status_code == 429:
-                    wait = 10 * (attempt + 1)
-                    print(f"   429 rate limit，等待 {wait} 秒後重試...")
+                if resp.status_code in (429, 503):
+                    wait = 15 * (attempt + 1)
+                    print(f"   {resp.status_code}，等待 {wait} 秒後重試...")
                     time.sleep(wait)
                     continue
                 resp.raise_for_status()
