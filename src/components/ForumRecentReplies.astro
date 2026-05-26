@@ -32,39 +32,43 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     const { createClient } = await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm');
     const sb = createClient(supabaseUrl, supabaseAnon, { auth: { persistSession: false } });
 
+    const TOPIC_LABEL = {
+      evisa: '電子簽證', voa: '落地簽', aiac: 'AIAC入境卡',
+      'tourism-tax': '旅遊稅', other: '其他',
+    };
+
     // 並行拉取：最新核准貼文 × 最新回覆（限已核准貼文）
     const [postsRes, repliesRes] = await Promise.all([
       sb.from('posts')
-        .select('id, title, created_at')
+        .select('id, title, topic, created_at')
         .eq('moderation_status', 'approved')
         .order('created_at', { ascending: false })
         .limit(5),
 
       sb.from('replies')
-        .select('id, created_at, posts!inner(id, title, moderation_status)')
+        .select('id, created_at, posts!inner(id, title, topic, moderation_status)')
         .eq('posts.moderation_status', 'approved')
         .order('created_at', { ascending: false })
         .limit(10),
     ]);
 
-    // 合併成 { postId, title, at } 並去重，取最新 5 則
+    // 合併成 { postId, title, topic, at } 並去重，取最新 5 則
     const seen = new Set();
     const items = [];
 
-    function add(postId, title, at) {
+    function add(postId, title, topic, at) {
       if (seen.has(postId)) return;
       seen.add(postId);
-      items.push({ postId, title, at: new Date(at) });
+      items.push({ postId, title, topic, at: new Date(at) });
     }
 
-    // 先把兩個結果合併再依時間排序
     const combined = [
-      ...(postsRes.data  || []).map(p => ({ postId: p.id, title: p.title, at: p.created_at })),
-      ...(repliesRes.data|| []).map(r => ({ postId: r.posts.id, title: r.posts.title, at: r.created_at })),
+      ...(postsRes.data  || []).map(p => ({ postId: p.id, title: p.title, topic: p.topic, at: p.created_at })),
+      ...(repliesRes.data|| []).map(r => ({ postId: r.posts.id, title: r.posts.title, topic: r.posts.topic, at: r.created_at })),
     ].sort((a, b) => new Date(b.at) - new Date(a.at));
 
     for (const row of combined) {
-      add(row.postId, row.title, row.at);
+      add(row.postId, row.title, row.topic, row.at);
       if (items.length >= 5) break;
     }
 
@@ -81,6 +85,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
         <a href="/forum/immigration/#${sanitize(item.postId)}" class="frr-link">
           <img src="/favicon-16x16.png" class="frr-icon" alt="" aria-hidden="true" />
           <span class="frr-post-title">${sanitize(item.title)}</span>
+          <span class="frr-topic-tag">${sanitize(TOPIC_LABEL[item.topic] || item.topic)}</span>
         </a>
       </li>`).join('');
 
@@ -159,5 +164,17 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   white-space: nowrap;
   overflow: hidden;
   text-overflow: ellipsis;
+  flex: 1;
+  min-width: 0;
+}
+.frr-topic-tag {
+  flex-shrink: 0;
+  font-size: .7rem;
+  color: #7a6200;
+  border: 1px solid #d4c070;
+  border-radius: 20px;
+  padding: .1em .6em;
+  white-space: nowrap;
+  background: #fffbe6;
 }
 </style>
