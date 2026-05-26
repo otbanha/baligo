@@ -614,11 +614,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
       if (id) {
         showDetail(id);
       } else {
-        showList();
-        if (document.getElementById('posts-list').innerHTML.trim() === '' ||
-            document.getElementById('posts-list').querySelector('.loading-text')) {
-          loadPosts(true);
-        }
+        showList(); // showList() already calls loadPosts(true) if list is empty/loading
       }
     }
 
