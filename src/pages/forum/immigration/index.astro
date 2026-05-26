@@ -202,7 +202,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
 
     function renderReply(r, currentUserId, likedSet = new Set(), isTop = false) {
       const profile = r.user_profiles || {};
-      const trust = getTrust(profile.approved_count || 0);
+      const canEdit = currentUserId === r.user_id;
       const canDelete = currentUserId === r.user_id;
       const liked = likedSet.has(r.id);
       const count = r.like_count || 0;
@@ -212,11 +212,19 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
           <div class="reply-author">
             ${profile.avatar_url ? `<img src="${sanitize(profile.avatar_url)}" class="reply-avatar" alt="" />` : '<span class="reply-avatar-ph">👤</span>'}
             <span class="reply-name">${sanitize(profile.display_name || '匿名')}</span>
-            <span class="trust-badge trust-badge--${trust}">${TRUST_LABELS[trust]}</span>
             <span class="reply-time">${timeAgo(r.created_at)}</span>
+            ${canEdit   ? `<button class="btn-edit-reply"   data-id="${sanitize(r.id)}">編輯</button>` : ''}
             ${canDelete ? `<button class="btn-delete-reply" data-id="${sanitize(r.id)}">刪除</button>` : ''}
           </div>
-          <div class="reply-content">${linkify(r.content)}</div>
+          <div class="reply-content" id="reply-content-${sanitize(r.id)}">${linkify(r.content)}</div>
+          <div class="reply-edit-form" id="reply-edit-form-${sanitize(r.id)}" style="display:none">
+            <textarea class="reply-edit-input" rows="3" maxlength="1000">${sanitize(r.content)}</textarea>
+            <div class="reply-edit-actions">
+              <button class="btn-save-reply-edit" data-id="${sanitize(r.id)}">儲存</button>
+              <button class="btn-cancel-reply-edit" data-id="${sanitize(r.id)}">取消</button>
+              <span class="reply-edit-error" style="display:none"></span>
+            </div>
+          </div>
           <div class="reply-footer">
             <button class="btn-like-reply${liked ? ' btn-like-reply--liked' : ''}"
               data-reply-id="${sanitize(r.id)}" data-liked="${liked}">
@@ -401,6 +409,63 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
         btn.addEventListener('click', () => handleLikeReply(btn));
       });
 
+      // ── Edit reply ────────────────────────────────────────────
+      function bindReplyEdit(container) {
+        container.querySelectorAll('.btn-edit-reply').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const replyId = btn.dataset.id;
+            const contentEl = document.getElementById(`reply-content-${replyId}`);
+            const formEl    = document.getElementById(`reply-edit-form-${replyId}`);
+            const textarea  = formEl.querySelector('.reply-edit-input');
+            // Pre-fill with current plain text
+            textarea.value = contentEl.innerText;
+            contentEl.style.display = 'none';
+            formEl.style.display = 'block';
+            textarea.focus();
+          });
+        });
+
+        container.querySelectorAll('.btn-cancel-reply-edit').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const replyId = btn.dataset.id;
+            document.getElementById(`reply-content-${replyId}`).style.display = '';
+            document.getElementById(`reply-edit-form-${replyId}`).style.display = 'none';
+          });
+        });
+
+        container.querySelectorAll('.btn-save-reply-edit').forEach(btn => {
+          btn.addEventListener('click', async () => {
+            const replyId  = btn.dataset.id;
+            const formEl   = document.getElementById(`reply-edit-form-${replyId}`);
+            const textarea = formEl.querySelector('.reply-edit-input');
+            const errEl    = formEl.querySelector('.reply-edit-error');
+            const newText  = textarea.value.trim();
+            errEl.style.display = 'none';
+
+            if (!newText) { errEl.textContent = '內容不能為空'; errEl.style.display = 'inline'; return; }
+
+            btn.disabled = true; btn.textContent = '儲存中⋯';
+
+            const { error } = await sb.from('replies').update({ content: newText }).eq('id', replyId);
+            if (error) {
+              errEl.textContent = '儲存失敗：' + error.message;
+              errEl.style.display = 'inline';
+              btn.disabled = false; btn.textContent = '儲存';
+              return;
+            }
+
+            // Update displayed content
+            const contentEl = document.getElementById(`reply-content-${replyId}`);
+            contentEl.innerHTML = linkify(newText);
+            contentEl.style.display = '';
+            formEl.style.display = 'none';
+            btn.disabled = false; btn.textContent = '儲存';
+          });
+        });
+      }
+
+      bindReplyEdit(content);
+
       // Back button
       document.getElementById('back-to-list').addEventListener('click', e => {
         e.preventDefault();
@@ -449,6 +514,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
           const newItem = repliesList.lastElementChild;
           newItem.querySelector('.btn-delete-reply')?.addEventListener('click', handleDeleteReply);
           newItem.querySelector('.btn-like-reply')?.addEventListener('click', function() { handleLikeReply(this); });
+          bindReplyEdit(newItem);
 
           // Update count
           const countEl = document.querySelector('.replies-count');
@@ -707,11 +773,37 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   .reply-name { font-size: .83rem; font-weight: 600; color: var(--text); }
   .reply-time { font-size: .78rem; color: #b0a898; margin-left: .2rem; }
   .reply-content { font-size: .9rem; line-height: 1.7; color: var(--text); padding-left: .2rem; }
-  .btn-delete-reply {
-    margin-left: auto; background: none; border: none;
+  .btn-edit-reply, .btn-delete-reply {
+    background: none; border: none;
     font-size: .75rem; color: #ccc; cursor: pointer; padding: 0;
   }
+  .btn-edit-reply { margin-left: auto; }
+  .btn-edit-reply:hover { color: var(--ocean); }
   .btn-delete-reply:hover { color: #ef4444; }
+
+  /* Reply inline edit form */
+  .reply-edit-form { margin-top: .5rem; }
+  .reply-edit-input {
+    width: 100%; box-sizing: border-box;
+    border: 1px solid #d1c9b5; border-radius: 8px;
+    padding: .5rem .75rem; font-size: .9rem;
+    font-family: inherit; resize: vertical;
+    line-height: 1.6; color: var(--text);
+  }
+  .reply-edit-input:focus { outline: none; border-color: var(--ocean); }
+  .reply-edit-actions { display: flex; align-items: center; gap: .5rem; margin-top: .4rem; }
+  .btn-save-reply-edit {
+    background: var(--ocean); color: #fff; border: none;
+    border-radius: 6px; padding: .3rem .85rem;
+    font-size: .82rem; font-weight: 600; cursor: pointer;
+  }
+  .btn-save-reply-edit:disabled { opacity: .55; cursor: not-allowed; }
+  .btn-cancel-reply-edit {
+    background: none; border: 1px solid #d1c9b5;
+    border-radius: 6px; padding: .3rem .7rem;
+    font-size: .82rem; cursor: pointer; color: var(--text);
+  }
+  .reply-edit-error { font-size: .78rem; color: #c53030; }
 
   /* Top reply */
   .reply-item--top {
