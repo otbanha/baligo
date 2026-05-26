@@ -135,13 +135,13 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     }
 
     // ── Post detail ──────────────────────────────────────────
-    function renderPostDetail(p, replies, currentUserId) {
+    function renderPostDetail(p, replies, currentUserId, likedSet = new Set()) {
       const profile = p.user_profiles || {};
       const trust = getTrust(profile.approved_count || 0);
 
       const repliesHtml = replies.length === 0
         ? '<p class="no-replies">還沒有回覆，來第一個留言！</p>'
-        : replies.map(r => renderReply(r, currentUserId)).join('');
+        : replies.map((r, i) => renderReply(r, currentUserId, likedSet, i === 0)).join('');
 
       const replyFormHtml = currentUserId
         ? `<div class="reply-form-wrap">
@@ -201,12 +201,15 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
         </div>`;
     }
 
-    function renderReply(r, currentUserId) {
+    function renderReply(r, currentUserId, likedSet = new Set(), isTop = false) {
       const profile = r.user_profiles || {};
       const trust = getTrust(profile.approved_count || 0);
       const canDelete = currentUserId === r.user_id;
+      const liked = likedSet.has(r.id);
+      const count = r.like_count || 0;
       return `
-        <div class="reply-item" data-reply-id="${sanitize(r.id)}">
+        <div class="reply-item${isTop && count > 0 ? ' reply-item--top' : ''}" data-reply-id="${sanitize(r.id)}">
+          ${isTop && count > 0 ? '<div class="top-reply-label">❤️ 最多愛心</div>' : ''}
           <div class="reply-author">
             ${profile.avatar_url ? `<img src="${sanitize(profile.avatar_url)}" class="reply-avatar" alt="" />` : '<span class="reply-avatar-ph">👤</span>'}
             <span class="reply-name">${sanitize(profile.display_name || '匿名')}</span>
@@ -215,6 +218,12 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
             ${canDelete ? `<button class="btn-delete-reply" data-id="${sanitize(r.id)}">刪除</button>` : ''}
           </div>
           <div class="reply-content">${linkify(r.content)}</div>
+          <div class="reply-footer">
+            <button class="btn-like-reply${liked ? ' btn-like-reply--liked' : ''}"
+              data-reply-id="${sanitize(r.id)}" data-liked="${liked}">
+              ${liked ? '❤️' : '🤍'} <span class="like-count">${count}</span>
+            </button>
+          </div>
         </div>`;
     }
 
@@ -273,7 +282,10 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
 
       const [postRes, repliesRes, sessionRes] = await Promise.all([
         sb.from('posts').select('*, image_urls, user_profiles(display_name, avatar_url, approved_count)').eq('id', id).eq('moderation_status', 'approved').single(),
-        sb.from('replies').select('*, user_profiles(display_name, avatar_url, approved_count)').eq('post_id', id).order('created_at', { ascending: true }),
+        sb.from('replies').select('*, like_count, user_profiles(display_name, avatar_url, approved_count)')
+          .eq('post_id', id)
+          .order('like_count', { ascending: false, nullsFirst: false })
+          .order('created_at', { ascending: true }),
         sb.auth.getSession(),
       ]);
 
@@ -285,7 +297,20 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
       }
 
       const currentUserId = sessionRes.data?.session?.user?.id ?? null;
-      content.innerHTML = renderPostDetail(postRes.data, repliesRes.data || [], currentUserId);
+      const replies = repliesRes.data || [];
+
+      // 拉取當前用戶已按愛心的回覆
+      let likedSet = new Set();
+      if (currentUserId && replies.length > 0) {
+        const replyIds = replies.map(r => r.id);
+        const { data: likes } = await sb.from('reply_likes')
+          .select('reply_id')
+          .eq('user_id', currentUserId)
+          .in('reply_id', replyIds);
+        if (likes) likes.forEach(l => likedSet.add(l.reply_id));
+      }
+
+      content.innerHTML = renderPostDetail(postRes.data, replies, currentUserId, likedSet);
 
       // ── Edit post ──────────────────────────────────────────────
       const btnEdit = document.getElementById('btn-edit-post');
@@ -339,6 +364,44 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
         });
       }
 
+      // ── Like reply ────────────────────────────────────────────
+      async function handleLikeReply(btn) {
+        const replyId = btn.dataset.replyId;
+        const isLiked = btn.dataset.liked === 'true';
+        const countEl = btn.querySelector('.like-count');
+
+        // Optimistic update
+        const newLiked = !isLiked;
+        btn.dataset.liked = newLiked;
+        btn.classList.toggle('btn-like-reply--liked', newLiked);
+        btn.querySelector('span') && (btn.innerHTML = `${newLiked ? '❤️' : '🤍'} <span class="like-count">${parseInt(countEl?.textContent || '0') + (newLiked ? 1 : -1)}</span>`);
+
+        const { data: { session } } = await sb.auth.getSession();
+        if (!session) {
+          // Roll back and redirect
+          btn.dataset.liked = isLiked;
+          location.href = `/forum/login/?next=${encodeURIComponent(location.href)}`;
+          return;
+        }
+
+        let error;
+        if (newLiked) {
+          ({ error } = await sb.from('reply_likes').insert({ reply_id: replyId, user_id: session.user.id }));
+        } else {
+          ({ error } = await sb.from('reply_likes').delete().eq('reply_id', replyId).eq('user_id', session.user.id));
+        }
+        if (error) {
+          // Roll back optimistic update
+          btn.dataset.liked = isLiked;
+          btn.classList.toggle('btn-like-reply--liked', isLiked);
+          btn.innerHTML = `${isLiked ? '❤️' : '🤍'} <span class="like-count">${parseInt(btn.querySelector('.like-count')?.textContent || '0') + (isLiked ? 1 : -1)}</span>`;
+        }
+      }
+
+      document.querySelectorAll('.btn-like-reply').forEach(btn => {
+        btn.addEventListener('click', () => handleLikeReply(btn));
+      });
+
       // Back button
       document.getElementById('back-to-list').addEventListener('click', e => {
         e.preventDefault();
@@ -383,8 +446,10 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
           const repliesList = document.getElementById('replies-list');
           const noReply = repliesList.querySelector('.no-replies');
           if (noReply) noReply.remove();
-          repliesList.insertAdjacentHTML('beforeend', renderReply(newReply, session.session.user.id));
-          repliesList.lastElementChild.querySelector('.btn-delete-reply')?.addEventListener('click', handleDeleteReply);
+          repliesList.insertAdjacentHTML('beforeend', renderReply(newReply, session.session.user.id, new Set(), false));
+          const newItem = repliesList.lastElementChild;
+          newItem.querySelector('.btn-delete-reply')?.addEventListener('click', handleDeleteReply);
+          newItem.querySelector('.btn-like-reply')?.addEventListener('click', function() { handleLikeReply(this); });
 
           // Update count
           const countEl = document.querySelector('.replies-count');
@@ -648,6 +713,34 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     font-size: .75rem; color: #ccc; cursor: pointer; padding: 0;
   }
   .btn-delete-reply:hover { color: #ef4444; }
+
+  /* Top reply */
+  .reply-item--top {
+    background: #fffbf0;
+    border-radius: 10px;
+    padding: .9rem .85rem;
+    border: 1px solid #f0e090;
+    margin-bottom: .5rem;
+  }
+  .top-reply-label {
+    font-size: .72rem; font-weight: 700;
+    color: #b07d00; margin-bottom: .4rem;
+    letter-spacing: .02em;
+  }
+
+  /* Like button */
+  .reply-footer { margin-top: .5rem; padding-left: .1rem; }
+  .btn-like-reply {
+    display: inline-flex; align-items: center; gap: .3rem;
+    background: none; border: 1px solid #e5dfc8;
+    border-radius: 20px; padding: .2em .75em;
+    font-size: .82rem; cursor: pointer; color: #888;
+    transition: background .15s, border-color .15s, color .15s;
+    line-height: 1;
+  }
+  .btn-like-reply:hover { background: #fff0f0; border-color: #f9a8a8; color: #e05555; }
+  .btn-like-reply--liked { background: #fff0f0; border-color: #f9a8a8; color: #e05555; }
+  .like-count { font-size: .8rem; font-weight: 600; }
 
   /* Reply form */
   .reply-form-wrap { margin-top: 1.2rem; padding-top: 1rem; border-top: 1px solid rgba(201,168,76,.15); }
