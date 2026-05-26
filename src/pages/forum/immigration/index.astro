@@ -59,6 +59,31 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     <div id="load-more-wrap" style="text-align:center;margin-top:1.5rem;display:none">
       <button id="load-more-btn" class="btn-load-more">載入更多</button>
     </div>
+
+    <!-- 知識庫固定區塊 -->
+    <div class="kb-pinned">
+      <div class="kb-pinned-header">
+        <span class="kb-pinned-icon">📌</span>
+        <span class="kb-pinned-title">發文前可以先參考下列知識庫</span>
+      </div>
+      <ul class="kb-pinned-list">
+        <li>
+          <a href="/blog/bali-all-indonesia-arrival-guide/" class="kb-pinned-link" target="_blank" rel="noopener">
+            峇里島入境全攻略：AIAC入境卡、關稅、海關申報完整教學
+          </a>
+        </li>
+        <li>
+          <a href="/blog/bali-evisa-customs-health-declaration/" class="kb-pinned-link" target="_blank" rel="noopener">
+            峇里島電子簽證申請 + 海關健康申報表填寫完整教學
+          </a>
+        </li>
+        <li>
+          <a href="/blog/bali-evisa-error-fix/" class="kb-pinned-link" target="_blank" rel="noopener">
+            峇里島電子簽證申請常見錯誤與解決方法
+          </a>
+        </li>
+      </ul>
+    </div>
   </main>
 
   <!-- Detail View -->
@@ -741,6 +766,62 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     font-family: inherit; transition: background .15s;
   }
   .btn-load-more:hover { background: rgba(201,168,76,.08); }
+
+  /* 知識庫固定區塊 */
+  .kb-pinned {
+    margin-top: 2.5rem;
+    border: 2px solid #b8860b;
+    border-radius: 12px;
+    padding: 1rem 1.25rem 1.1rem;
+    background: #fffdf2;
+    box-shadow: 0 2px 8px rgba(184,134,11,.10);
+  }
+  .kb-pinned-header {
+    display: flex;
+    align-items: center;
+    gap: .45rem;
+    margin-bottom: .75rem;
+  }
+  .kb-pinned-icon {
+    font-size: 1rem;
+    flex-shrink: 0;
+  }
+  .kb-pinned-title {
+    font-size: .88rem;
+    font-weight: 700;
+    color: #7a5500;
+    letter-spacing: .01em;
+  }
+  .kb-pinned-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+  }
+  .kb-pinned-list li {
+    display: flex;
+    align-items: flex-start;
+    gap: .4rem;
+  }
+  .kb-pinned-list li::before {
+    content: '→';
+    color: #b8860b;
+    font-size: .82rem;
+    flex-shrink: 0;
+    margin-top: .1em;
+  }
+  .kb-pinned-link {
+    font-size: .84rem;
+    color: #5a4000;
+    text-decoration: none;
+    line-height: 1.45;
+  }
+  .kb-pinned-link:hover {
+    color: #b8860b;
+    text-decoration: underline;
+  }
 
   /* ── Post Detail ── */
   .post-detail { max-width: 680px; margin: 0 auto; }
