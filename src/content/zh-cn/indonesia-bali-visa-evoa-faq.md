@@ -4,6 +4,7 @@ title: 2025最新版印尼/巴厘岛入境签证&电子签证eVoA 填写相关 F
 description: >-
   要入境、旅行和进入印尼的国际旅客，目前仍有一些细节需要特别注意。以下我们整理统合了在脸书社团「巴厘岛/印尼吃喝玩乐」实际申请过的网友回报的申请常见问题，能帮助你了解旅行和签证的要求。
 pubDate: '2023-01-13'
+updatedDate: 2026-05-26T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b2a7aeb91b6a056214a9a62881d9c182.jpg'
 tags:
   - evoa
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/64db6b7dfd897800013a978a'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: c6aff827507d93b12f846906dd3cfa44
+_srcHash: f6c5a151ace13ebb510f6784a07d2b5e
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_d3fe29fb0bf4ee0c337c1560d8efee0f.jpg)

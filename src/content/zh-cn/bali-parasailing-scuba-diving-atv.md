@@ -1,27 +1,29 @@
 ---
-slug: bali-parasailing-scuba-diving-atv
 title: 巴厘岛上天下海：拖曳伞、海底漫步、泛舟、ATV...自由行行程与实用小贴士
+slug: bali-parasailing-scuba-diving-atv
 description: 六月下旬刚结束了一趟轻松愉快的巴厘岛自由行之旅，在这里跟大家分享一下我们的行程以及玩乐心得
-pubDate: '2024-07-26'
-heroImage: 'https://images.gobaligo.id/vocus/vocus_33deeaf280484ab1f7286957430f969e.jpg'
+pubDate: 2024-07-26T00:00:00.000Z
+pubHour: null
+category:
+  - 遊記分享
 tags:
   - 峇里島
   - 巴里島
   - 自由行
   - 行程分享
   - 自由行行程
+heroImage: 'https://images.gobaligo.id/vocus/vocus_33deeaf280484ab1f7286957430f969e.jpg'
 originalUrl: 'https://vocus.cc/article/668a76fdfd8978000194582a'
-category:
-  - 遊記分享
+update: 2026/05/22
 lang: zh-cn
-_srcHash: b3a64f18edbe3e49af5eea10ee93521d
+_srcHash: 7d9ca71f75ce141eae430f16428fc4ce
 ---
+
+update: 2026/05/26
 
 > 以下内容由团友 [余孟苓](https://www.facebook.com/share/p/uzQHvjWncynX693F/?mibextid=A7sQZp) 提供
 
-## 巴厘岛五日自由行攻略
-
-![raw-image](https://images.gobaligo.id/vocus/vocus_403bb19aa844de08fb2031b43665cbc0.jpg)
+## 
 
 ### 6月19日 - 6月23日，刚结束了一趟轻松愉快的巴厘岛之旅
 
@@ -33,7 +35,25 @@ _srcHash: b3a64f18edbe3e49af5eea10ee93521d
 
 ### 行程规划与沟通
 
-我自己先排了大致的行程，再请欧ㄟ帮我顺一下。他也很贴心地给了一些行程上的建议。到达巴厘岛后整趟旅程的沟通也是非常顺畅，他不仅能听懂我们的闲聊，还能和我们说笑，这真是请中文司机的好处！他还帮我们解决了一些突发问题，例如改餐厅时间、临时想按摩、陪我们杀价等。以下是我们参考了很多[小杰印尼](https://www.youtube.com/@j_indonesia)在YouTube上的指南后，所订定的行程计划：
+我自己先排了大致的行程，再请欧ㄟ帮我顺一下。他也很贴心地给了一些行程上的建议。到达巴厘岛后整趟旅程的沟通也是非常顺畅，他不仅能听懂我们的闲聊，还能和我们说笑，这真是请中文司机的好处！他还帮我们解决了一些突发问题，例如改餐厅时间、临时想按摩、陪我们砍价等。以下是我们参考了很多[小杰印尼](https://www.youtube.com/@j_indonesia)在YouTube上的指南后，所制定的行程计划：
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794607534-1.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794608102-2.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794608628-3.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794609481-4.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794610083-5.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794610572-6.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794611205-7.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794612128-8.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794613152-9.jpg)
 
 所以，如果你们要带家人去巴厘岛，欢迎找欧ㄟ喔！他的Line ID是：mangloco94。对了，他虽然会讲中文，但看不懂也不会打中文，所以一开始可以先用英文跟他打招呼。如果英文不好也可以直接打给他，他说可以用翻译软件来帮助沟通。
 
@@ -53,7 +73,7 @@ _srcHash: b3a64f18edbe3e49af5eea10ee93521d
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_b0f8826462eff2a98579a54724fb9ffa.png)
 
-巴厘岛的湿气非常重，如果有玩水的活动，一天通常需要换两套衣服。我原本以为可以把衣服洗一洗晾干，但实际上，由于湿气很重，衣服不容易完全干燥。建议多带一些快干材质的衣物，特别是内衣裤，这样可以保证每天都有干净舒适的衣服可穿。
+巴厘岛的湿气非常重，如果有玩水的活动，一天通常需要换两套衣服。我原本以为可以把衣服洗一晾干，但实际上，由于湿气很重，衣服不容易完全干燥。建议多带一些快干材质的衣物，特别是内衣裤，这样可以保证每天都有干净舒适的衣物可穿。
 
 ### **库塔区交通**
 
@@ -63,23 +83,45 @@ _srcHash: b3a64f18edbe3e49af5eea10ee93521d
 
 这次的巴厘岛之旅，四个晚上我们都住在Grand Istana Rama Hotel度假酒店。这家酒店就在Beachwalk Shopping Center旁边，所以我们每天回酒店只要它还没打烊，我们就去逛街XD
 
-过个马路就到达库塔海滩，附近有热闹的夜生活。虽然这里并非最新的旅馆，但它的房间宽敞且干净，设施也十分齐全。工作人员友善热情，让人感到宾至如归。尤其是海鲜晚餐和乐队的现场表演，非常精彩，让我们度过了一些愉快的夜晚。我们在这里的住宿体验十分美好，性价比超高！
+https://youtu.be/IReL1ztxL7c
 
-**Grand Istana Rama Hotel:** [**Agoda订房**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512)
+过个马路就到达库塔海滩，附近有热闹的夜生活。虽然这里并非最新的旅馆，但它的房间宽敞且干净，设施也十分齐全。工作人员友善热情，让人感到宾至如归。尤其是海鲜晚餐和乐队的现场表演，非常精彩，让我们度过了一些愉快的夜晚。我们在这里的住宿体验十分美好，性价比爆高！
 
-[**Agoda订房**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512)
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794750451-21ceb288ce176b586af3db9a05d094fc.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794751078-35e3f66bf77cd40f26c91c4e217412fc.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794751619-59ce114cefe481787aac107045c9bfed.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794752215-528f598aa382f9c0f3d7ce1f6304d448.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794752824-472740031.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794753310-500398018.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794753787-661675161.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794754275-825496088.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794754769-c3e9792212b335b6394f7537283cf6d9.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-05/1779794755377-dde10217f990c21bc9d88fda23331bec.webp)
+
+**Grand Istana Rama Hotel:** [**Agoda订房**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685197&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F4-ykhc_YhBgNNO6zWfwWdDQGgeQ8B883gTvkWpmLHQJ4IqYceD6NPZE35Nj-8wyODoUMIJBQ6NDImAYCZbkOXYysYDUzGHtfam5k7D_0VSOm389hByPTCcYO7gVMrxbNZjrFwswxh-kSy1em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbINTYz0DAyAIiWJFZ4pYJ3JiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLshilhYYk5pKsQJQAvdUqF2GNbqYLr82Zzep90zX2zaTZzLzantcgNiXG5cG_uIhSk69gXLfbZPLAy_gFHRydXEytDFyswxj3ESkOzg3sXKFuIa5W5ieoG1Q1xKwdDAwMDI1NTIXNcg0TLRyCTVQNfE0sTI3EDXwsAAyNA4e-3LtSfGRtZSkKhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZmaeFqZhJlw8Xs6RIk-EHv-fZ2a0t7KeaQcBdFe9l-yRU9p-21QHKGMLnAPa9zTtgbL7CPPN7w5uu7_tP2SaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMBGJ7oZwMDAAA&masterhotelid_tracelogid=100025527-0a9a24e0-494270-800942&detailFilters=17|1~17~1*31|685197~31~685197*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1596&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q1KxlNcJ)
+
+[**Agoda订房**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=65512) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685197&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oay8LFJMEkNY2F4-ykhc_YhBgNNO6zWfwWdDQGgeQ8B883gTvkWpmLHQJ4IqYceD6NPZE35Nj-8wyODoUMIJBQ6NDImAYCZbkOXYysYDUzGHtfam5k7D_0VSOm389hByPTCcYO7gVMrxbNZjrFwswxh-kSy1em6Gql7NRKJSsTHaWSzJKcVCUrpaeL5j1t2PN8RauSjlJKanEyUAjISszNL80rAbINTYz0DAyAIiWJFZ4pYJ3JiTnJpTmJJakhlQVAE8x0lDKLnUuKMguCUnMzS0pSgarSEnOKU0HiQanFQJlksKCSH9CYIqhAZn4eRLshilhYYk5pKsQJQAvdUqF2GNbqYLr82Zzep90zX2zaTZzLzantcgNiXG5cG_uIhSk69gXLfbZPLAy_gFHRydXEytDFyswxj3ESkOzg3sXKFuIa5W5ieoG1Q1xKwdDAwMDI1NTIXNcg0TLRyCTVQNfE0sTI3EDXwsAAyNA4e-3LtSfGRtZSkKhXYNQSjA_x9HQxLClMNSsstcwpKjA1YDzFKGVobmxhaGRoaGRkZGmsZ2KRZlZskVdskZsV4cEYxOZmaeFqZhJlw8Xs6RIk-EHv-fZ2a0t7KeaQcBdFe9l-yRU9p-21QHKGMLnAPa9zTtgbL7CPPN7w5uu7_tP2SaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMBGJ7oZwMDAAA&masterhotelid_tracelogid=100025527-0a9a24e0-494270-800942&detailFilters=17|1~17~1*31|685197~31~685197*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1596&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q1KxlNcJ)
 
 ### **换钱**
 
-巴厘岛有很多换钱的地方，可以请导游或司机带你们去，这样更安全可靠。由于换钱非常方便，所以不需要一次换太多钱。我这次旅行因为有先收公基金，所以自己五天的零花钱只换了200美金，结果还有剩。建议随身携带一些美金，以备不时之需，也可以减少在当地换钱的次数。
+巴厘岛有很多换钱的地方，可以请导游或司机带你们去，这样更安全可靠。由于换钱非常方便，所以不需要一次换太多钱。我这次旅行因为有先收公基金，所以自己五天的零花钱只换了200美元，结果还有剩。建议随身携带一些美元，以备不时之需，也可以减少在当地换钱的次数。
 
 > [印尼/巴厘岛旅游换汇懒人包：印尼/巴厘岛用什么钱？怎么换钱最划算？去哪里换钱最好？](/blog/bali-currency-exchange-guide/)
 
-### **泛舟体验**
+### **漂流体验**
 
-在巴厘岛进行泛舟活动之前，需要先走一段很长的山路（下楼梯）才能到达河边。回程时则需要爬一段上坡阶梯，虽然回程的阶梯较短，但对于体力不佳的人来说，还是有些挑战。如果有带老人家或小孩，一定要评估他们的体力状况。不过，泛舟过程真的非常刺激有趣，是一次难忘的体验，所以还是非常推荐尝试的。
+在巴厘岛进行漂流活动之前，需要先走一段很长的山路（下楼梯）才能到达河边。回程时则需要爬一段上坡阶梯，虽然回程的阶梯较短，但对于体力不佳的人来说，还是有些挑战。如果有带老人家或小孩，一定要评估他们的体力状况。不过，漂流过程真的非常刺激有趣，是一次难忘的体验，所以还是非常推荐尝试的。
 
-> [巴厘岛泛舟攻略（泛舟常见问题FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
+> [巴厘岛漂流攻略（漂流常见问题FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
 
 ### 其他玩乐
 
@@ -103,7 +145,7 @@ _srcHash: b3a64f18edbe3e49af5eea10ee93521d
 
 余孟苓提供
 
-（图左）悬崖泳池超赞！这是Oneeighty Dayclub，可以先网络上订位喔！
+（图左）悬崖泳池超赞！这是Oneeighty Dayclub，可以先网络上订位哦！
 
 > [探索Oneeighty Day Club：巴厘岛悬崖边的游泳池极致美景](/blog/oneeighty-dayclub-uluwatu-pool/)
 
@@ -115,12 +157,16 @@ _srcHash: b3a64f18edbe3e49af5eea10ee93521d
 
 > [南湾海底漫步](/blog/nusa-dua-guide/)
 
+{{block:戶外}}
+
 以上是我这次旅程的一些心得和建议，有任何问题欢迎交流讨论！我明年应该还会再去一次，巴厘岛真的是一个让人感觉放松、非常舒服、又好玩的地方！
 
-您觉得余孟苓他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得余孟苓他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 ![raw-image](https://d2a6d2ofes041u.cloudfront.net/resize)
 
 点击这里观看更多巴厘岛精彩游记
 
 你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+
+{{block:攻略}}
