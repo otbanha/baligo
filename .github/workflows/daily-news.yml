@@ -23,11 +23,11 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 安裝 Python 依賴
-        run: pip install requests
+        run: pip install anthropic requests
 
       - name: 生成今日旅遊情報
         env:
-          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
         timeout-minutes: 15
         run: |
           for i in 1 2 3; do
