@@ -28,7 +28,13 @@ jobs:
       - name: 生成今日旅遊情報
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        run: python3 gemini_daily_news.py
+        timeout-minutes: 15
+        run: |
+          for i in 1 2 3; do
+            python3 gemini_daily_news.py && break
+            echo "第 $i 次失敗，等待 60 秒後重試..."
+            sleep 60
+          done
 
       - name: Commit 新文章
         run: |

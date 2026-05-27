@@ -264,27 +264,33 @@ def call_gemini(api_key: str, prompt: str) -> str:
         }
     }
 
-    for model in GEMINI_MODELS:
+    for i, model in enumerate(GEMINI_MODELS):
+        # 只有第一個模型啟用 google_search（fallback 模型不用 grounding，節省配額）
+        if i == 0:
+            payload["tools"] = [{"google_search": {}}]
+        else:
+            payload.pop("tools", None)
+            print(f"   （{model} 不啟用 google_search，節省配額）")
+
         url = f"{GEMINI_API_BASE}/{model}:generateContent?key={api_key}"
         for attempt in range(3):
             try:
                 print(f"   嘗試模型 {model}（第 {attempt+1} 次）...")
-                resp = requests.post(url, json=payload, timeout=60)
+                resp = requests.post(url, json=payload, timeout=90)
                 if resp.status_code in (429, 503):
-                    wait = 15 * (attempt + 1)
+                    wait = 20 * (attempt + 1)
                     print(f"   {resp.status_code}，等待 {wait} 秒後重試...")
                     time.sleep(wait)
                     continue
                 resp.raise_for_status()
                 data = resp.json()
-                # google_search grounding 時回應會拆成多個 parts，全部合併
                 parts = data["candidates"][0]["content"]["parts"]
                 return "".join(p.get("text", "") for p in parts)
             except requests.exceptions.HTTPError as e:
                 if attempt == 2:
                     print(f"   ⚠️ {model} 失敗：{e}")
                     break
-                time.sleep(5)
+                time.sleep(10)
 
     raise RuntimeError("所有模型都無法呼叫，請確認 API Key 是否正確")
 
