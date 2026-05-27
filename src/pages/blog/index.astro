@@ -52,6 +52,8 @@ const allPosts = allPostsRaw
   }))
   .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf());
 
+const countFloor = Math.floor(allPosts.length / 100) * 100;
+
 const getCategories = (cat) => {
   if (!cat) return [];
   if (Array.isArray(cat)) return cat;
@@ -327,9 +329,9 @@ const socialLinks = [
         <!-- 核心價值主張 Hero Section -->
         <div class="value-hero">
           <h1 class="hero-headline">峇里島旅遊一站通</h1>
-          <p class="hero-tagline">中文峇里島旅遊最完整攻略，600+ 文章、每日匯率、免費規劃工具、在地司機推薦</p>
+          <p class="hero-tagline">中文峇里島旅遊最完整攻略，{countFloor}+ 文章、每日匯率、免費規劃工具、在地司機推薦</p>
           <ul class="value-bullets">
-            <li>✓ 684 篇深度攻略，持續更新</li>
+            <li>✓ {allPosts.length} 篇深度攻略，持續更新</li>
             <li>✓ 每日印尼盾匯率，助你精準預算</li>
             <li>✓ 免費行程規劃工具 & 預算計算機</li>
             <li>✓ 社群實測，千位旅客認證司機</li>

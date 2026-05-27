@@ -58,6 +58,8 @@ const allPosts = (await getCollection('blog'))
   })
   .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf());
 
+const countFloor = Math.floor(allPosts.length / 100) * 100;
+
 const getCategories = (cat: any): string[] => {
   if (!cat) return [];
   if (Array.isArray(cat)) return cat;
@@ -203,9 +205,9 @@ const socialLinks = [
         <!-- Core Value Proposition Hero Section -->
         <div class="value-hero">
           <h1 class="hero-headline">Your Ultimate Bali Travel Hub</h1>
-          <p class="hero-tagline">The most comprehensive English Bali travel guide with 600+ articles, daily exchange rates, free planning tools, and trusted driver recommendations</p>
+          <p class="hero-tagline">The most comprehensive English Bali travel guide with {countFloor}+ articles, daily exchange rates, free planning tools, and trusted driver recommendations</p>
           <ul class="value-bullets">
-            <li>✓ 684 in-depth guides, continuously updated</li>
+            <li>✓ {allPosts.length} in-depth guides, continuously updated</li>
             <li>✓ Daily IDR exchange rates for accurate budgeting</li>
             <li>✓ Free trip planner & budget calculator</li>
             <li>✓ Community-tested, 1000+ verified drivers</li>
