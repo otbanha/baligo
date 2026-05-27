@@ -849,7 +849,7 @@ const socialLinks = [
     }
 
     // Apply a cat+page+q state to the UI (no history changes)
-    function applyState(cat, page, q = '') {
+    function applyState(cat, page, q = '', isInitial = false) {
       currentCat = cat;
       currentPage = page;
       currentQ = q;
@@ -859,7 +859,10 @@ const socialLinks = [
       if (activeBtn) activeBtn.classList.add('active');
 
       const homepageBlocks = document.getElementById('homepage-blocks');
-      if (homepageBlocks) homepageBlocks.style.display = (cat === 'all' && !q) ? 'block' : 'none';
+      // Only hide homepage blocks if user explicitly filtered by category or search (not on initial load)
+      if (homepageBlocks && !isInitial) {
+        homepageBlocks.style.display = (cat === 'all' && !q) ? 'block' : 'none';
+      }
 
       // 新手指南分類：顯示 intro 區塊 + 動態更新 meta tags
       const newbieIntro = document.getElementById('newbie-guide-intro');
@@ -935,7 +938,7 @@ const socialLinks = [
     // Category button click: push new history entry at page 1 (clears q)
     function filterCategory(cat) {
       window.history.pushState({ cat, page: 1, q: '' }, '', buildUrl(cat, 1));
-      applyState(cat, 1, '');
+      applyState(cat, 1, '', false); // User-initiated filter, allow hiding blocks
       const newVideo = activeVideos[Math.floor(Math.random() * activeVideos.length)];
       const iframe = document.getElementById('yt-iframe');
       if (iframe) iframe.src = `https://www.youtube.com/embed/${newVideo}?rel=0`;
@@ -953,7 +956,7 @@ const socialLinks = [
     // Browser back/forward: restore state without pushing new history
     window.addEventListener('popstate', (e) => {
       const state = e.state;
-      applyState(state?.cat || 'all', state?.page || 1, state?.q || '');
+      applyState(state?.cat || 'all', state?.page || 1, state?.q || '', false);
     });
 
     // Init: read URL params, stamp state onto current history entry, then render
@@ -962,7 +965,8 @@ const socialLinks = [
     const qParam = urlParams.get('q') || '';
     const pageParam = Math.max(1, parseInt(urlParams.get('page') || '1', 10));
     window.history.replaceState({ cat: catParam, page: pageParam, q: qParam }, '', window.location.href);
-    applyState(catParam, pageParam, qParam);
+    const isInitialLoad = !urlParams.has('cat') && !urlParams.has('q');
+    applyState(catParam, pageParam, qParam, isInitialLoad); // Pass isInitial=true for default page load
 
   });
 

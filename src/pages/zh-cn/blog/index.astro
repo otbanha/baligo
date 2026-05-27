@@ -676,7 +676,7 @@ const socialLinks = [
       pagination.appendChild(next);
     }
 
-    function applyState(cat, page, q = '') {
+    function applyState(cat, page, q = '', isInitial = false) {
       currentCat = cat;
       currentPage = page;
       currentQ = q;
@@ -684,7 +684,10 @@ const socialLinks = [
       const activeBtn = document.querySelector(`[data-category="${cat}"]`);
       if (activeBtn) activeBtn.classList.add('active');
       const homepageBlocks = document.getElementById('homepage-blocks');
-      if (homepageBlocks) homepageBlocks.style.display = (cat === 'all' && !q) ? 'block' : 'none';
+      // Only hide homepage blocks if user explicitly filtered by category or search (not on initial load)
+      if (homepageBlocks && !isInitial) {
+        homepageBlocks.style.display = (cat === 'all' && !q) ? 'block' : 'none';
+      }
 
       const newbieIntro = document.getElementById('newbie-guide-intro');
       if (newbieIntro) {
@@ -757,24 +760,25 @@ const socialLinks = [
 
     function filterCategory(cat) {
       window.history.pushState({ cat, page: 1, q: '' }, '', buildUrl(cat, 1));
-      applyState(cat, 1, '');
+      applyState(cat, 1, '', false); // User-initiated filter, allow hiding blocks
       const newVideo = activeVideos[Math.floor(Math.random() * activeVideos.length)];
       const iframe = document.getElementById('yt-iframe');
       if (iframe) iframe.src = `https://www.youtube.com/embed/${newVideo}?rel=0`;
     }
 
     buttons.forEach(btn => btn.addEventListener('click', () => filterCategory(btn.dataset.category)));
-    window.addEventListener('popstate', (e) => { applyState(e.state?.cat || 'all', e.state?.page || 1, e.state?.q || ''); });
+    window.addEventListener('popstate', (e) => { applyState(e.state?.cat || 'all', e.state?.page || 1, e.state?.q || '', false); });
 
     const urlParams = new URLSearchParams(window.location.search);
     const catParam = urlParams.get('cat') || 'all';
     const qParam = urlParams.get('q') || '';
     const pageParam = Math.max(1, parseInt(urlParams.get('page') || '1', 10));
     window.history.replaceState({ cat: catParam, page: pageParam, q: qParam }, '', window.location.href);
+    const isInitialLoad = !urlParams.has('cat') && !urlParams.has('q');
     if (catParam !== 'all' || qParam) {
-      setTimeout(() => applyState(catParam, pageParam, qParam), 100);
+      setTimeout(() => applyState(catParam, pageParam, qParam, false), 100);
     } else {
-      applyState('all', pageParam, '');
+      applyState('all', pageParam, '', isInitialLoad); // Pass isInitial based on URL params
     }
   });
 
