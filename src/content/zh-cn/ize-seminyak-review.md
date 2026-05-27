@@ -19,7 +19,7 @@ tags:
   - 巴厘岛水明漾精品酒店推荐 2026
   - IZE Seminyak rooftop pool
   - Best value design hotel in Seminyak Bali
-heroImage: ''
+heroImage: 'https://images.gobaligo.id/images/2026-04/1776244750774-mixcollage-15-apr-2026-04-18-pm-2978.jpg
 originalUrl: ''
 private: false
 shuffle_h2: false
