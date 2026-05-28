@@ -761,7 +761,7 @@ const socialLinks = [
         section.style.display = 'none';
         return;
       }
-      const matchedPosts = ids.map(id => allPostsData.find(p => p.id === id)).filter(Boolean);
+      const matchedPosts = ids.map(id => findPost(id)).filter(Boolean);
       if (matchedPosts.length === 0) { section.style.display = 'none'; return; }
       // 從最多 5 篇中亂數取 3 篇
       const shuffled = matchedPosts.sort(() => Math.random() - 0.5).slice(0, 3);
@@ -1277,19 +1277,14 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .news-content a {
   color: var(--gold, #c5a059);
 }
-.news-content img {
-  width: 100%;
-  height: auto;
-  border-radius: 6px;
-  margin-bottom: 0.4em;
-}
-.news-content p {
-  color: rgba(255,255,255,0.9);
-  font-size: 0.9em;
-  line-height: 1.6;
-}
-.news-content a {
-  color: var(--gold, #c5a059);
+.news-content h2 {
+  font-size: 1em !important;
+  font-weight: 700 !important;
+  color: var(--gold) !important;
+  margin: 1em 0 0.4em !important;
+  padding-left: 0.6em !important;
+  border-left: 4px solid var(--gold) !important;
+  line-height: 1.4 !important;
 }
 .widget-empty { color: rgba(255,255,255,0.4); font-size: 0.88em; text-align: center; padding: 2em 0; }
 
@@ -1571,9 +1566,13 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   margin: 0.5em 0;
 }
 .news-body :global(h1), .news-body :global(h2), .news-body :global(h3) {
-  color: var(--gold-light);
-  font-size: 0.95em;
-  margin: 0.8em 0 0.4em;
+  color: var(--gold);
+  font-size: 1em;
+  font-weight: 700;
+  margin: 1em 0 0.4em;
+  padding-left: 0.6em;
+  border-left: 4px solid var(--gold);
+  line-height: 1.4;
 }
 .news-body :global(a) { color: var(--gold); }
 .news-body :global(strong), .news-body :global(b) { color: rgba(255,255,255,0.95); }
