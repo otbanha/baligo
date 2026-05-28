@@ -1552,23 +1552,23 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   color: rgba(255,255,255,0.88);
   line-height: 1.7;
 }
-.news-body :global(*) { color: rgba(255,255,255,0.88); }
-.news-body :global(p) { margin: 0 0 0.7em; }
-.news-body :global(img) {
+.news-body * { color: rgba(255,255,255,0.88); }
+.news-body p { margin: 0 0 0.7em; }
+.news-body img {
   width: 100%;
   height: auto;
   border-radius: 6px;
   margin: 0.5em 0;
 }
-.news-body :global(h1), .news-body :global(h2), .news-body :global(h3) {
+.news-body h1, .news-body h2, .news-body h3 {
   color: var(--gold) !important;
   font-size: 0.95em !important;
   font-weight: 700 !important;
   margin: 0.8em 0 0.3em !important;
   line-height: 1.4 !important;
 }
-.news-body :global(a) { color: var(--gold) !important; }
-.news-body :global(strong), .news-body :global(b) { color: rgba(255,255,255,0.95); }
+.news-body a { color: var(--gold) !important; }
+.news-body strong, .news-body b { color: rgba(255,255,255,0.95); }
 
 /* 求救箱 widget */
 .qa-widget {
