@@ -836,7 +836,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .top-widgets { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2em; margin-bottom: 1.5em; align-items: start; }
 .widget-box { background: linear-gradient(135deg, #0a1628 0%, #1a3560 100%); border-radius: 12px; padding: 1.2em; box-shadow: 0 8px 32px rgba(0,0,0,0.25), inset 0 1px 0 rgba(197,160,89,0.3); border: 1px solid rgba(197,160,89,0.25); position: relative; }
 .widget-box::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, transparent, var(--gold), transparent); }
-.widget-title { font-size: 0.95em; font-weight: 700; color: var(--gold-light); margin: 0 0 1em; padding-bottom: 0.5em; border-bottom: 1px solid rgba(197,160,89,0.2); letter-spacing: 0.05em; }
+.widget-title { font-size: 1.1em; font-weight: 700; color: var(--gold); margin: 0 0 1em; padding-bottom: 0.5em; border-bottom: 2px solid rgba(197,160,89,0.5); letter-spacing: 0.05em; }
 .widget-empty { color: rgba(255,255,255,0.4); font-size: 0.88em; text-align: center; padding: 2em 0; }
 .accom-card { display: block; text-decoration: none; color: inherit; border-radius: 8px; overflow: hidden; transition: transform 0.2s; }
 .accom-card:hover { transform: translateY(-2px); }
@@ -936,7 +936,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   .top-widgets { gap: 0.8em; margin-bottom: 1em; }
   .accom-image { height: 160px; }
   .widget-box { padding: 1em; }
-  .widget-title { font-size: 0.88em; margin-bottom: 0.7em; }
+  .widget-title { font-size: 1em; margin-bottom: 0.7em; }
 }
 @media (max-width: 600px) { .featured-grid { grid-template-columns: 1fr; } .social-section { grid-template-columns: repeat(2, 1fr); } .accom-image { height: 140px; } .top5-list { flex-direction: column; } .top5-item a { border-radius: 8px; } .card { min-height: 72px; } .card-image { width: 90px; min-width: 90px; height: 72px; border-radius: 8px 0 0 8px; } .card-body { padding: 0.5em 0.75em; } .card-title { font-size: 0.85em; } .card-desc { display: none; } }
 .quick-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 1.5em; }
