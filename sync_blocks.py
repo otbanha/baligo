@@ -51,16 +51,16 @@ NEW_ITEMS = {
         'zh-hk': '- [【2026 努沙杜瓦新酒店】Paradisus by Meliá Bali：亞洲首間奢華全包式度假村](/blog/Paradisus-by-Melia-Bali/)',
     },
     '戶外.md': {
-        'zh-tw': '- [海豚樂園 Bali Exotic Marine Park：與海豚親密互動，親子必訪樂園](https://tw.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065?curr=TWD&locale=zh-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713)',
-        'en':    '- [Bali Exotic Marine Park: Swim with Dolphins — Must-Visit Family Experience](https://tw.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065?curr=TWD&locale=zh-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713)',
-        'zh-cn': '- [海豚乐园 Bali Exotic Marine Park：与海豚亲密互动，亲子必访乐园](https://tw.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065?curr=TWD&locale=zh-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713)',
-        'zh-hk': '- [海豚樂園 Bali Exotic Marine Park：與海豚親密互動，親子必訪樂園](https://tw.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065?curr=TWD&locale=zh-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713)',
+        'zh-tw': '- [海豚樂園 Bali Exotic Marine Park：與海豚親密互動，親子必訪樂園](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)',
+        'en':    '- [Bali Exotic Marine Park: Swim with Dolphins — Must-Visit Family Experience](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)',
+        'zh-cn': '- [海豚乐园 Bali Exotic Marine Park：与海豚亲密互动，亲子必访乐园](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)',
+        'zh-hk': '- [海豚樂園 Bali Exotic Marine Park：與海豚親密互動，親子必訪樂園](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)',
     },
     '親子.md': {
-        'zh-tw': '- [海豚樂園 Bali Exotic Marine Park：與海豚親密互動，親子必訪樂園](https://tw.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065?curr=TWD&locale=zh-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713)',
-        'en':    '- [Bali Exotic Marine Park: Swim with Dolphins — Must-Visit Family Experience](https://tw.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065?curr=TWD&locale=zh-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713)',
-        'zh-cn': '- [海豚乐园 Bali Exotic Marine Park：与海豚亲密互动，亲子必访乐园](https://tw.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065?curr=TWD&locale=zh-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713)',
-        'zh-hk': '- [海豚樂園 Bali Exotic Marine Park：與海豚親密互動，親子必訪樂園](https://tw.trip.com/travel-guide/attraction/bali/bali-exotic-marine-park-104151065?curr=TWD&locale=zh-TW&poiType=3&ext-searchpage=1&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713)',
+        'zh-tw': '- [海豚樂園 Bali Exotic Marine Park：與海豚親密互動，親子必訪樂園](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)',
+        'en':    '- [Bali Exotic Marine Park: Swim with Dolphins — Must-Visit Family Experience](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)',
+        'zh-cn': '- [海豚乐园 Bali Exotic Marine Park：与海豚亲密互动，亲子必访乐园](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)',
+        'zh-hk': '- [海豚樂園 Bali Exotic Marine Park：與海豚親密互動，親子必訪樂園](https://gobaligo.id/blog/Bali-Exotic-Marine-Park/)',
     },
 }
 
