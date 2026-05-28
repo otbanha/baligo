@@ -76,6 +76,7 @@ for (const file of files) {
     title: fm.title,
     url: `/blog/${fm.slug || id}/`,
     description: fm.description || '',
+    heroImage: fm.heroImage || '',
     category: Array.isArray(category) ? category : [category].filter(Boolean),
     tags: Array.isArray(tags) ? tags : [tags].filter(Boolean),
     pubDate,

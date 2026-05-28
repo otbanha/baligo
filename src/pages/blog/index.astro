@@ -329,9 +329,10 @@ const socialLinks = [
         <!-- 核心價值主張 Hero Section -->
         <div class="value-hero">
           <h1 class="hero-headline">峇里島旅遊一站通</h1>
-          <p class="hero-tagline">中文峇里島旅遊最完整攻略，{countFloor}+ 文章、每日匯率、免費規劃工具、在地司機推薦</p>
+          <p class="hero-tagline">中文峇里島旅遊最完整攻略，{countFloor}+ 文章、300+ 精選飯店/Villa、每日匯率、免費規劃工具、在地司機推薦</p>
           <ul class="value-bullets">
             <li>✓ {allPosts.length} 篇深度攻略，持續更新</li>
+            <li>✓ 300+ 峇里島飯店 / Villa 精選評測</li>
             <li>✓ 每日印尼盾匯率，助你精準預算</li>
             <li>✓ 免費行程規劃工具 & 預算計算機</li>
             <li>✓ 社群實測，千位旅客認證司機</li>
@@ -756,12 +757,20 @@ const socialLinks = [
         }
       }
       const source = dynamicFeatured || featuredData;
-      const ids = source[cat] || [];
-      if (cat === 'all' || ids.length === 0) {
+      const items = source[cat] || [];
+      if (cat === 'all' || items.length === 0) {
         section.style.display = 'none';
         return;
       }
-      const matchedPosts = ids.map(id => findPost(id)).filter(Boolean);
+      // Support rich objects [{id,title,slug,heroImage}] and legacy string IDs
+      const matchedPosts = items.map(item => {
+        if (typeof item === 'object' && item.id) {
+          const local = findPost(item.id);
+          return { id: item.slug || item.id, title: item.title, heroImage: item.heroImage || local?.heroImage || '' };
+        }
+        const p = findPost(item);
+        return p ? { id: p.slug || p.id, title: p.title, heroImage: p.heroImage || '' } : null;
+      }).filter(Boolean);
       if (matchedPosts.length === 0) { section.style.display = 'none'; return; }
       // 從最多 5 篇中亂數取 3 篇
       const shuffled = matchedPosts.sort(() => Math.random() - 0.5).slice(0, 3);

@@ -201,11 +201,16 @@ export const prerender = true;
     CATEGORIES.forEach(function(cat) {
       var ids = featuredMap[cat];
       if (!ids) { featuredMap[cat] = []; return; }
-      // Support both [{id,title}] and [id,...] formats
+      // Support both [{id,title,...}] and legacy [id,...] formats
       if (ids.length > 0 && typeof ids[0] === 'string') {
         featuredMap[cat] = ids.map(function(id) {
           var a = allArticles.find(function(x) { return x.id === id; });
           return { id: id, title: a ? a.title : id };
+        });
+      } else if (ids.length > 0 && typeof ids[0] === 'object') {
+        featuredMap[cat] = ids.map(function(obj) {
+          var a = allArticles.find(function(x) { return x.id === obj.id; });
+          return { id: obj.id, title: a ? a.title : obj.title };
         });
       }
     });
@@ -334,12 +339,16 @@ export const prerender = true;
     btn.disabled = true;
     status.textContent = '儲存中…'; status.style.color = '#888';
 
-    // Convert to {cat: [id,...]} format for storage
+    // Convert to rich format for storage
     var payload = {};
     CATEGORIES.forEach(function(cat) {
       var items = featuredMap[cat] || [];
       if (items.length > 0) {
-        payload[cat] = items.map(function(a) { return a.id; });
+        payload[cat] = items.map(function(a) {
+          var article = allArticles.find(function(x) { return x.id === a.id; });
+          var slug = article ? (article.url.split('/').filter(Boolean).pop() || a.id) : a.id;
+          return { id: a.id, title: a.title, slug: slug, heroImage: article ? (article.heroImage || '') : '' };
+        });
       }
     });
 
