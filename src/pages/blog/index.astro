@@ -107,6 +107,7 @@ const allPostsData = allPosts
     id: p.id,
     slug: p.data.slug || p.id,
     title: p.data.title,
+    description: p.data.description || '',
     heroImage: p.data.heroImage || '',
     category: getCategories(p.data.category),
   }));
@@ -642,24 +643,8 @@ const socialLinks = [
         </div>
       </div>
 
-      <!-- 文章卡片 -->
-      <div class="grid" id="posts-grid">
-        {allPosts.map((post) => (
-          <a href={`/blog/${post.id}/`} class="card fade-in" data-category={JSON.stringify(getCategories(post.data.category))}>
-            <div class="card-image">
-              {post.data.heroImage
-                ? <img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
-                : <div class="card-image-placeholder"><img src="/apple-touch-icon.png" alt="Go Bali Go" /></div>
-              }
-
-            </div>
-            <div class="card-body">
-              <h2 class="card-title">{post.data.title}</h2>
-              <p class="card-desc">{post.data.description}</p>
-            </div>
-          </a>
-        ))}
-      </div>
+      <!-- 文章卡片（由 JS 動態渲染，每次只建立當前頁） -->
+      <div class="grid" id="posts-grid"></div>
 
       <div id="pagination" class="pagination"></div>
 
@@ -714,7 +699,6 @@ const socialLinks = [
       const section = document.getElementById('top5-section');
       const list = document.getElementById('top5-list');
       if (!section || !list) return;
-      const findPost = id => allPostsData.find(p => p.id === id || p.slug === id);
       const shuffled = data.slice().sort(() => Math.random() - 0.5).slice(0, 6);
       list.innerHTML = shuffled.map((item, i) => {
         const postData = findPost(item.id);
@@ -739,10 +723,16 @@ const socialLinks = [
     let currentPage = 1;
     let currentCat = 'all';
     let currentQ = '';
-    let filteredCards = [];
+    let filteredPosts = [];
 
     const buttons = document.querySelectorAll('.category-item');
-    const cards = document.querySelectorAll('.card');
+
+    function escapeHtml(str) {
+      return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+    function findPost(id) {
+      return allPostsData.find(p => p.id === id || p.slug === id);
+    }
 
     function updateFeatured(cat) {
       const section = document.getElementById('featured-section');
@@ -799,26 +789,32 @@ const socialLinks = [
 
     // Render cards + pagination for current state — no history side effects
     function renderCards() {
+      const grid = document.getElementById('posts-grid');
       const start = (currentPage - 1) * POSTS_PER_PAGE;
       const end = start + POSTS_PER_PAGE;
-      let si = 0;
-      filteredCards.forEach((card, i) => {
-        if (i >= start && i < end) {
-          card.classList.remove('visible');
-          card.style.transitionDelay = '';
-          card.style.display = 'flex';
-          const delay = si++ * 0.1;
-          requestAnimationFrame(() => {
-            requestAnimationFrame(() => {
-              card.style.transitionDelay = `${delay}s`;
-              card.classList.add('visible');
-            });
+      const pageData = filteredPosts.slice(start, end);
+      grid.innerHTML = pageData.map((post) => {
+        const catList = post.category || [];
+        const badgeCat = catList[0] || '';
+        const imgHtml = post.heroImage
+          ? `<img src="${escapeHtml(post.heroImage)}" alt="${escapeHtml(post.title)}" loading="lazy" />`
+          : `<div class="card-image-placeholder"><img src="/apple-touch-icon.png" alt="Go Bali Go" /></div>`;
+        const badgeHtml = badgeCat ? `<span class="category-badge">${escapeHtml(badgeCat)}</span>` : '';
+        return `<a href="/blog/${escapeHtml(post.slug)}/" class="card fade-in">
+          <div class="card-image">${imgHtml}${badgeHtml}</div>
+          <div class="card-body">
+            <h2 class="card-title">${escapeHtml(post.title)}</h2>
+            <p class="card-desc">${escapeHtml(post.description)}</p>
+          </div>
+        </a>`;
+      }).join('');
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          grid.querySelectorAll('.card').forEach((card, i) => {
+            card.style.transitionDelay = `${i * 0.05}s`;
+            card.classList.add('visible');
           });
-        } else {
-          card.style.display = 'none';
-          card.classList.remove('visible');
-          card.style.transitionDelay = '';
-        }
+        });
       });
       updatePagination();
     }
@@ -924,24 +920,14 @@ const socialLinks = [
       }
 
       const qLower = q ? q.toLowerCase() : '';
-      filteredCards = [...cards].filter(card => {
-        try {
-          const cats = JSON.parse(card.dataset.category || '[]');
-          const catList = Array.isArray(cats) ? cats : [cats];
-          if (catList.includes('新聞存檔') && cat !== '新聞存檔') return false;
-          if (cat !== 'all' && !catList.includes(cat)) return false;
-        } catch {
-          if (card.dataset.category === '新聞存檔' && cat !== '新聞存檔') return false;
-          if (cat !== 'all' && card.dataset.category !== cat) return false;
-        }
-        if (qLower) {
-          const title = (card.querySelector('.card-title')?.textContent || '').toLowerCase();
-          return title.includes(qLower);
-        }
+      filteredPosts = allPostsData.filter(post => {
+        const catList = post.category || [];
+        if (catList.includes('新聞存檔') && cat !== '新聞存檔') return false;
+        if (cat !== 'all' && !catList.includes(cat)) return false;
+        if (qLower) return post.title.toLowerCase().includes(qLower);
         return true;
       });
 
-      cards.forEach(card => card.style.display = 'none');
       updateFeatured(cat);
       renderCards();
     }

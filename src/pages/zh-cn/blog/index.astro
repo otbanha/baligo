@@ -101,6 +101,7 @@ const allPostsData = allPosts
     slug: p.data.slug || p.id,
     hasTranslation: langMap.has(p.id),
     title: p.data.title,
+    description: p.data.description || '',
     heroImage: p.data.heroImage || '',
     category: getCategories(p.data.category),
   }));
@@ -211,9 +212,10 @@ const socialLinks = [
         <!-- 核心价值主张 Hero Section -->
         <div class="value-hero">
           <h1 class="hero-headline">巴厘岛旅游一站通</h1>
-          <p class="hero-tagline">中文巴厘岛旅游最完整攻略，{countFloor}+ 文章、每日汇率、免费规划工具、在地司机推荐</p>
+          <p class="hero-tagline">中文巴厘岛旅游最完整攻略，{countFloor}+ 文章、300+ 精选酒店/别墅、每日汇率、免费规划工具、在地司机推荐</p>
           <ul class="value-bullets">
             <li>✓ {allPosts.length} 篇深度攻略，持续更新</li>
+            <li>✓ 300+ 巴厘岛酒店 / 别墅精选评测</li>
             <li>✓ 每日印尼盾汇率，助你精准预算</li>
             <li>✓ 免费行程规划工具 & 预算计算机</li>
             <li>✓ 社群实测，千位旅客认证司机</li>
@@ -497,27 +499,8 @@ const socialLinks = [
         </div>
       </div>
 
-      <div class="grid" id="posts-grid">
-        {allPosts.map(post => (
-          <a href={`${blogBase}/${post.id}/`} class="card fade-in" data-category={JSON.stringify(getCategories(post.data.category))}>
-            <div class="card-image">
-              {post.data.heroImage
-                ? <img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
-                : <div class="card-image-placeholder"><img src="/apple-touch-icon.png" alt="Go Bali Go" /></div>
-              }
-              {post.data.category && (
-                <span class="category-badge">
-                  {CAT_ZH_CN[Array.isArray(post.data.category) ? post.data.category[0] : post.data.category] ?? (Array.isArray(post.data.category) ? post.data.category[0] : post.data.category)}
-                </span>
-              )}
-            </div>
-            <div class="card-body">
-              <h2 class="card-title">{post.data.title}</h2>
-              <p class="card-desc">{post.data.description}</p>
-            </div>
-          </a>
-        ))}
-      </div>
+      <!-- 文章卡片（由 JS 动态渲染，每次只建立当前页） -->
+      <div class="grid" id="posts-grid"></div>
 
       <div id="pagination" class="pagination"></div>
 
@@ -534,7 +517,7 @@ const socialLinks = [
   <Footer lang="zh-cn" />
 </body>
 
-<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts, blogBase, qaData }}>
+<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts, blogBase, qaData, CAT_ZH_CN }}>
   window.addEventListener('DOMContentLoaded', () => {
     const sidebarToggle = document.getElementById('sidebar-toggle');
     const sidebarInner = document.getElementById('sidebar-inner');
@@ -591,9 +574,12 @@ const socialLinks = [
     let currentPage = 1;
     let currentCat = 'all';
     let currentQ = '';
-    let filteredCards = [];
+    let filteredPosts = [];
     const buttons = document.querySelectorAll('.category-item');
-    const cards = document.querySelectorAll('.card');
+
+    function escapeHtml(str) {
+      return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
 
     function updateFeatured(cat) {
       const section = document.getElementById('featured-section');
@@ -631,32 +617,39 @@ const socialLinks = [
     }
 
     function renderCards() {
+      const grid = document.getElementById('posts-grid');
       const start = (currentPage - 1) * POSTS_PER_PAGE;
       const end = start + POSTS_PER_PAGE;
-      let si = 0;
-      filteredCards.forEach((card, i) => {
-        if (i >= start && i < end) {
-          card.classList.remove('visible');
-          card.style.transitionDelay = '';
-          card.style.display = 'flex';
-          const delay = si++ * 0.1;
-          requestAnimationFrame(() => {
-            requestAnimationFrame(() => {
-              card.style.transitionDelay = `${delay}s`;
-              card.classList.add('visible');
-            });
+      const pageData = filteredPosts.slice(start, end);
+      grid.innerHTML = pageData.map((post) => {
+        const catList = post.category || [];
+        const badgeCat = catList[0] || '';
+        const badgeLabel = CAT_ZH_CN[badgeCat] ?? badgeCat;
+        const imgHtml = post.heroImage
+          ? `<img src="${escapeHtml(post.heroImage)}" alt="${escapeHtml(post.title)}" loading="lazy" />`
+          : `<div class="card-image-placeholder"><img src="/apple-touch-icon.png" alt="Go Bali Go" /></div>`;
+        const badgeHtml = badgeCat ? `<span class="category-badge">${escapeHtml(badgeLabel)}</span>` : '';
+        return `<a href="${blogBase}/${escapeHtml(post.slug)}/" class="card fade-in">
+          <div class="card-image">${imgHtml}${badgeHtml}</div>
+          <div class="card-body">
+            <h2 class="card-title">${escapeHtml(post.title)}</h2>
+            <p class="card-desc">${escapeHtml(post.description)}</p>
+          </div>
+        </a>`;
+      }).join('');
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          grid.querySelectorAll('.card').forEach((card, i) => {
+            card.style.transitionDelay = `${i * 0.05}s`;
+            card.classList.add('visible');
           });
-        } else {
-          card.style.display = 'none';
-          card.classList.remove('visible');
-          card.style.transitionDelay = '';
-        }
+        });
       });
       updatePagination();
     }
 
     function updatePagination() {
-      const totalPages = Math.ceil(filteredCards.length / POSTS_PER_PAGE);
+      const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE);
       const pagination = document.getElementById('pagination');
       pagination.innerHTML = '';
       if (totalPages <= 1) return;
@@ -739,23 +732,13 @@ const socialLinks = [
       }
 
       const qLower = q ? q.toLowerCase() : '';
-      filteredCards = [...cards].filter(card => {
-        try {
-          const cats = JSON.parse(card.dataset.category || '[]');
-          const catList = Array.isArray(cats) ? cats : [cats];
-          if (catList.includes('新聞存檔') && cat !== '新聞存檔') return false;
-          if (cat !== 'all' && !catList.includes(cat)) return false;
-        } catch {
-          if (card.dataset.category === '新聞存檔' && cat !== '新聞存檔') return false;
-          if (cat !== 'all' && card.dataset.category !== cat) return false;
-        }
-        if (qLower) {
-          const title = (card.querySelector('.card-title')?.textContent || '').toLowerCase();
-          return title.includes(qLower);
-        }
+      filteredPosts = allPostsData.filter(post => {
+        const catList = post.category || [];
+        if (catList.includes('新聞存檔') && cat !== '新聞存檔') return false;
+        if (cat !== 'all' && !catList.includes(cat)) return false;
+        if (qLower) return post.title.toLowerCase().includes(qLower);
         return true;
       });
-      cards.forEach(card => card.style.display = 'none');
       updateFeatured(cat);
       renderCards();
     }
@@ -777,11 +760,7 @@ const socialLinks = [
     const pageParam = Math.max(1, parseInt(urlParams.get('page') || '1', 10));
     window.history.replaceState({ cat: catParam, page: pageParam, q: qParam }, '', window.location.href);
     const isInitialLoad = !urlParams.has('cat') && !urlParams.has('q');
-    if (catParam !== 'all' || qParam) {
-      setTimeout(() => applyState(catParam, pageParam, qParam, false), 100);
-    } else {
-      applyState('all', pageParam, '', isInitialLoad); // Pass isInitial based on URL params
-    }
+    applyState(catParam, pageParam, qParam, isInitialLoad);
   });
 
   // 求救箱随机问题
