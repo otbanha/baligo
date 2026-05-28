@@ -3,7 +3,7 @@ title: smk
 type: normal
 randomCount: 5
 lang: zh-cn
-_srcHash: 96f60dec78b280ac64e2457b8bbdd76f
+_srcHash: 31ba0f6f8d9095fa64541f2adfe8c10b
 ---
 
 ## 更多水明漾吃喝玩乐介绍
@@ -15,7 +15,7 @@ _srcHash: 96f60dec78b280ac64e2457b8bbdd76f
 ## 水明漾住宿主题介绍
 
 - [巴厘岛住宿推荐：水明漾的滨海精致主题住宿指南](/blog/seminyak-beach-resorts-guide/)
-- ⚠️ [水明漾](/blog/seminyak-private-villas-guide/)[VILLA泳池別墅私密天堂:水明漾22間令人驚艷的峇里島villa](/blog/seminyak-private-villas-guide/)
-- ⚠️ [50+ 水明漾 Eat Street 美食攻略](/blog/seminyak-eat-street-guide/)
-- ⚠️ [美食控必收！精選 8 間 Eat Street 走路就到、高 CP 值別墅與質感飯店清單](/blog/seminyak-eat-street-hotels-villas/)
-- ⚠️ [水明漾包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦](/blog/bali-group-villa-stay/)
+- [水明漾](/blog/seminyak-private-villas-guide/)[VILLA泳池別墅私密天堂:水明漾22間令人驚艷的峇里島villa](/blog/seminyak-private-villas-guide/)
+- [50+ 水明漾 Eat Street 美食攻略](/blog/seminyak-eat-street-guide/)
+- [美食控必收！精选 8 间 Eat Street 走路就到、高 CP 值别墅与质感酒店清单](/blog/seminyak-eat-street-hotels-villas/)
+- [水明漾包栋villa 三房/四房/五房/六房以上的家庭别墅住宿推荐](/blog/bali-group-villa-stay/)

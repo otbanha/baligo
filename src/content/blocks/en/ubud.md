@@ -3,7 +3,7 @@ title: Ubud
 type: normal
 randomCount: 5
 lang: en
-_srcHash: 7e42da35d0e5a54b9bff390b2e507f7b
+_srcHash: f3f71aa4e25d2feb091a0c16e3ef9430
 ---
 ## More Ubud Food and Fun
 
