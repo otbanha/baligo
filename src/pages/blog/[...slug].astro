@@ -7,10 +7,16 @@ import matter from 'gray-matter';
 
 export async function getStaticPaths() {
   const posts = await getCollection('blog');
-  return posts.map((post) => ({
-    params: { slug: post.data.slug || post.id },
-    props: post,
-  }));
+  const paths = posts.flatMap((post) => {
+    const newSlug = post.data.slug || post.id;
+    const paths = [{ params: { slug: newSlug }, props: post }];
+    // 如果有新 slug，也生成舊 slug 的路由用於兼容（實際檔案 id）
+    if (post.data.slug && post.data.slug !== post.id) {
+      paths.push({ params: { slug: post.id }, props: post });
+    }
+    return paths;
+  });
+  return paths;
 }
 type Props = CollectionEntry<'blog'>;
 
