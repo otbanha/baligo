@@ -55,6 +55,30 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['穿搭', '穿什麼', '穿甚麼', '穿著', '服裝', '衣服', '帶什麼衣服', '帶衣服',
+               '行李打包', '打包', '帶什麼', '帶甚麼', '帶乜', '帶啲咩',
+               'packing', 'what to wear', 'outfit', 'dress code', 'what to pack', 'clothes to bring', 'packing list'],
+    articles: [
+      { title: '峇里島行李打包清單', url: '/blog/bali-packing-essentials/' },
+    ],
+  },
+  {
+    keywords: ['AIAC', 'aiac', 'All Indonesia Arrival Card', 'all indonesia arrival card',
+               '印尼入境卡', '入境卡', 'arrival card', 'Indonesia arrival card'],
+    intro: 'All Indonesia Arrival Card（AIAC）印尼入境卡為免費服務',
+    articles: [
+      { title: '峇里島簽證與入境攻略（含AIAC入境卡教學）', url: '/blog/bali-all-indonesia-arrival-guide/' },
+    ],
+  },
+  {
+    keywords: ['SATUSEHAT', 'satusehat', 'SatuSehat', '健康通行證', '健康申報', '健康卡',
+               'health pass', 'health certificate', 'health declaration'],
+    intro: '現在已整合至AIAC入境卡，無需單獨填寫',
+    articles: [
+      { title: '峇里島簽證與入境攻略（含AIAC入境卡教學）', url: '/blog/bali-all-indonesia-arrival-guide/' },
+    ],
+  },
+  {
     keywords: ['簽證', '簽証', 'visa', 'VISA', '海關', '申請', '通關', '入境', '電子簽', '落地簽',
                '落地簽証', 'VoA', 'VOA', 'visa on arrival', 'on arrival visa',
                'e-visa', 'evisa', 'immigration', 'passport', 'entry requirement'],
@@ -271,10 +295,11 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['雨季', '下雨', '雨天', '濕季', '旱季', '天氣', '落雨', '幾時去好',
-               'rainy season', 'dry season', 'weather', 'rain', 'monsoon',
+    keywords: ['雨季', '下雨', '雨天', '濕季', '旱季', '天氣', '氣候', '氣溫', '落雨', '幾時去好',
+               'rainy season', 'dry season', 'weather', 'climate', 'temperature', 'rain', 'monsoon',
                'best time to visit', 'when to visit', 'wet season'],
     articles: [
+      { title: '峇里島雨季旅遊完整攻略', url: '/blog/bali-rainy-season-travel-guide/' },
       { title: '峇里島的天氣怎麼看？會不會下雨？旅人常見誤解一次破解！', url: '/blog/bali-weather-myths-explained/' },
       { title: '峇里島雨季：旅遊峇里島碰到下雨天怎麼辦？峇里島下雨天的60個備案攻略', url: '/blog/2026-bali-indoor-activities/' },
       { title: '暑假/寒假峇里島親子旅遊攻略：全方位指南，讓家庭出遊更輕鬆 - 水明漾篇', url: '/blog/seminyak-family-travel-2026/' },
@@ -687,6 +712,8 @@ Do NOT mention customer service — this site has no customer support team.
 - 當被問到「帶台幣去換印尼盾還是美金比較划算」或任何關於台幣換匯的問題時，必須回答：台幣不是主要流通貨幣，在峇里島的匯率極差，通常1元台幣只能換到約350印尼盾。建議帶美金去峇里島換，匯率遠比台幣好得多。詳細換匯攻略請參考文章。
 - 當被問到「檳榔可不可以帶去峇里島/印尼」時，必須回答：**可以攜帶**，根據印尼海關規定檳榔不是禁止入境物品，峇里島每日的宗教供品中也有檳榔。但數量以個人自用為限，且含紅灰/白灰的台灣檳榔可能會被海關詢問，保持冷靜、配合即可。詳情請參考文章。
 - 當被問到峇里島「飲用水品牌」「礦泉水品牌」「瓶裝水牌子」或類似問題時，必須回答：峇里島常見的飲用水品牌有 **Amidis、Cleo、Aqua**，在超商、便利商店及一般小店均可購買，三者皆安全可靠。請勿飲用自來水。
+- 當被問到「AIAC」「All Indonesia Arrival Card」「印尼入境卡」時，必須回答：**All Indonesia Arrival Card（AIAC）印尼入境卡為免費服務**，入境前可在官方平台填寫，詳細教學請參考文章。
+- 當被問到「SATUSEHAT」「健康通行證」「健康申報」時，必須回答：**SATUSEHAT 健康通行證現在已整合至 AIAC 入境卡，無需單獨填寫**，只需完成 AIAC 申請即可，詳細說明請參考文章。
 
 【海關／入境規定原則】：
 - 凡涉及「可不可以帶XXX入境」「XXX是不是違禁品」「XXX過海關會不會被查」等海關規定問題，必須優先以本站文章為準，若無相關文章則說「本站目前沒有這方面的專門文章，建議查詢印尼海關官方規定或詢問航空公司」，絕對不可直接根據自身訓練資料給出「可以」或「不可以」的確定性答案。
