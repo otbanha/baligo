@@ -756,7 +756,7 @@ const socialLinks = [
       const matchedPosts = items.map(item => {
         if (typeof item === 'object' && item.id) {
           const local = findPost(item.id);
-          return { id: item.slug || item.id, title: item.title, heroImage: item.heroImage || local?.heroImage || '' };
+          return { id: local?.slug || item.id, title: item.title, heroImage: item.heroImage || local?.heroImage || '' };
         }
         const p = findPost(item);
         return p ? { id: p.slug || p.id, title: p.title, heroImage: p.heroImage || '' } : null;
