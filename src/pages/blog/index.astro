@@ -13,6 +13,8 @@ import { getCollection, render } from 'astro:content';
 import featuredData from '../../featured.json';
 import top5Data from '../../top5.json';
 
+const blogBase = '/blog'; // Default Traditional Chinese version
+
 const allPromos = await getCollection('promotions');
 const now = new Date();
 const activePromos = allPromos.filter(p => !p.data.expiresAt || p.data.expiresAt > now);
@@ -660,20 +662,7 @@ const socialLinks = [
   <Footer />
 </body>
 
-<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts, qaData }}>
-  function getLangPrefix() {
-    const path = window.location.pathname;
-    if (path.startsWith('/zh-cn/')) return '/zh-cn';
-    if (path.startsWith('/zh-hk/')) return '/zh-hk';
-    if (path.startsWith('/en/')) return '/en';
-    const cookie = (document.cookie.match(/(?:^|;\s*)gobaligo_lang=([^;]+)/) || [])[1];
-    if (cookie === 'zh-cn') return '/zh-cn';
-    if (cookie === 'zh-hk') return '/zh-hk';
-    if (cookie === 'en') return '/en';
-    return '';
-  }
-  const langPrefix = getLangPrefix();
-
+<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts, blogBase, qaData }}>
   window.addEventListener('DOMContentLoaded', () => {
 
     // Sidebar 收合（手機版）
@@ -701,7 +690,7 @@ const socialLinks = [
       const link = document.getElementById('accom-link');
       const img = document.getElementById('accom-img');
       const title = document.getElementById('accom-title');
-      if (link) link.href = `${langPrefix}/blog/${random.id}/`;
+      if (link) link.href = `${blogBase}/blog/${random.id}/`;
       if (img) { img.src = random.heroImage; img.alt = random.title; }
       if (title) title.textContent = random.title;
     }
@@ -717,7 +706,7 @@ const socialLinks = [
         const postData = findPost(item.id);
         const localTitle = postData?.title || item.title;
         const slug = postData?.slug || item.id;
-        return `<li class="top5-item" data-index="${i}"><a href="${langPrefix}/blog/${slug}/"><span style="display:inline-block;width:20px;height:20px;flex-shrink:0;background-image:url('/favicon-32x32.png');background-size:cover;background-repeat:no-repeat;border-radius:4px"></span><span class="top5-title">${localTitle}</span></a></li>`;
+        return `<li class="top5-item" data-index="${i}"><a href="${blogBase}/${slug}/"><span style="display:inline-block;width:20px;height:20px;flex-shrink:0;background-image:url('/favicon-32x32.png');background-size:cover;background-repeat:no-repeat;border-radius:4px"></span><span class="top5-title">${localTitle}</span></a></li>`;
       }).join('');
       section.style.display = '';
     }).catch(() => {});
@@ -780,7 +769,7 @@ const socialLinks = [
       const featuredCardEls = document.querySelectorAll('.featured-card');
       featuredCardEls.forEach((card, i) => {
         if (shuffled[i]) {
-          card.href = `${langPrefix}/blog/${shuffled[i].id}/`;
+          card.href = `${blogBase}/${shuffled[i].id}/`;
           card.querySelector('h3').textContent = shuffled[i].title;
           const img = card.querySelector('img');
           if (img) { img.src = shuffled[i].heroImage; img.alt = shuffled[i].title; }
@@ -813,7 +802,7 @@ const socialLinks = [
           ? `<img src="${escapeHtml(post.heroImage)}" alt="${escapeHtml(post.title)}" loading="lazy" />`
           : `<div class="card-image-placeholder"><img src="/apple-touch-icon.png" alt="Go Bali Go" /></div>`;
         const badgeHtml = badgeCat ? `<span class="category-badge">${escapeHtml(badgeCat)}</span>` : '';
-        return `<a href="${langPrefix}/blog/${escapeHtml(post.slug)}/" class="card fade-in">
+        return `<a href="${blogBase}/${escapeHtml(post.slug)}/" class="card fade-in">
           <div class="card-image">${imgHtml}${badgeHtml}</div>
           <div class="card-body">
             <h2 class="card-title">${escapeHtml(post.title)}</h2>
