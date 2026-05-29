@@ -29,6 +29,7 @@ export async function getStaticPaths() {
   }
 
   const paths: any[] = [];
+  let compatCount = 0;
 
   for (const blogPost of blogPosts) {
     const slug = blogPost.data.slug || blogPost.id;
@@ -45,6 +46,7 @@ export async function getStaticPaths() {
         params: { slug: oldFileId },
         props: { post },
       });
+      compatCount++;
     }
   }
 
@@ -53,7 +55,7 @@ export async function getStaticPaths() {
   for (const [slug, fileId] of fileNameMap) {
     if (fileId !== slug) actualCompat++;
   }
-  console.log(`✅ 簡體中文版本: ${paths.length} 路由，fileNameMap: ${fileNameMap.size}，兼容需求: ${actualCompat}`);
+  console.log(`✅ 簡體中文版本: ${paths.length} 路由（${blogPosts.length}+${compatCount}），fileNameMap: ${fileNameMap.size}，潛在兼容: ${actualCompat}`);
 
   return paths;
 }
