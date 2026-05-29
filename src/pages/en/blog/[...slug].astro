@@ -33,6 +33,7 @@ export async function getStaticPaths() {
   // Combine both collections, preferring en collection if available by slug
   const usedSlugs = new Set<string>();
   const paths: any[] = [];
+  let compatCount = 0;
 
   // Add entries from blog collection, preferring en collection version if available by slug
   for (const blogPost of blogPosts) {
@@ -52,13 +53,16 @@ export async function getStaticPaths() {
         params: { slug: oldFileId },
         props: { post },
       });
+      compatCount++;
     }
   }
 
   // Add entries from en collection that don't have a blog version (by slug)
+  let enOnlyCount = 0;
   for (const langPost of langPosts) {
     const slug = langPost.data.slug || langPost.id;
     if (!usedSlugs.has(slug)) {
+      enOnlyCount++;
       paths.push({
         params: { slug },
         props: { post: langPost },
@@ -71,19 +75,12 @@ export async function getStaticPaths() {
           params: { slug: oldFileId },
           props: { post: langPost },
         });
+        compatCount++;
       }
     }
   }
 
-  // 調試
-  const compatCount = paths.length - blogPosts.length - Math.max(0, langPosts.length - blogPosts.filter(bp => fileNameMap.has(bp.data.slug || bp.id)).length);
-  console.log(`✅ 英文版本: ${paths.length} 路由 (blog:${blogPosts.length} + en:${Math.max(0, langPosts.length - blogPosts.length)} + 兼容:?)`);
-  // 簡單計算：看 fileNameMap 中有多少個 slug 的值不等於 key
-  let actualCompat = 0;
-  for (const [slug, fileId] of fileNameMap) {
-    if (fileId !== slug) actualCompat++;
-  }
-  console.log(`   fileNameMap: ${fileNameMap.size} 個，其中 ${actualCompat} 個需要兼容路由`);
+  console.log(`✅ 英文版本: ${paths.length} 路由（${blogPosts.length}+${enOnlyCount}+${compatCount}），fileNameMap: ${fileNameMap.size}`);
 
   return paths;
 }

@@ -28,12 +28,18 @@ export async function getStaticPaths() {
     }
   }
 
+  // Create maps by slug for matching
+  const langMapBySlug = new Map(langPosts.map(p => [(p.data.slug || p.id), p]));
+
+  const usedSlugs = new Set<string>();
   const paths: any[] = [];
   let compatCount = 0;
 
+  // Add entries from blog collection, preferring zh-hk collection version if available by slug
   for (const blogPost of blogPosts) {
     const slug = blogPost.data.slug || blogPost.id;
-    const post = langMap.get(blogPost.id) ?? blogPost;
+    usedSlugs.add(slug);
+    const post = langMapBySlug.get(slug) ?? blogPost;
     paths.push({
       params: { slug },
       props: { post },
@@ -50,12 +56,33 @@ export async function getStaticPaths() {
     }
   }
 
+  // Add entries from zh-hk collection that don't have a blog version (by slug)
+  for (const langPost of langPosts) {
+    const slug = langPost.data.slug || langPost.id;
+    if (!usedSlugs.has(slug)) {
+      paths.push({
+        params: { slug },
+        props: { post: langPost },
+      });
+
+      // 為舊檔案名生成路由
+      const oldFileId = fileNameMap.get(slug);
+      if (oldFileId && oldFileId !== slug) {
+        paths.push({
+          params: { slug: oldFileId },
+          props: { post: langPost },
+        });
+        compatCount++;
+      }
+    }
+  }
+
   // 調試
   let actualCompat = 0;
   for (const [slug, fileId] of fileNameMap) {
     if (fileId !== slug) actualCompat++;
   }
-  console.log(`✅ 香港繁體版本: ${paths.length} 路由（${blogPosts.length}+${compatCount}），fileNameMap: ${fileNameMap.size}，潛在兼容: ${actualCompat}`);
+  console.log(`✅ 香港繁體版本: ${paths.length} 路由（${blogPosts.length}+${langPosts.length - Math.max(0, blogPosts.filter(bp => fileNameMap.has(bp.data.slug || bp.id)).length)}+${compatCount}），fileNameMap: ${fileNameMap.size}，潛在兼容: ${actualCompat}`);
 
   return paths;
 }
