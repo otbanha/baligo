@@ -10,12 +10,45 @@ export async function getStaticPaths() {
   const langPosts = await getCollection('zh-hk');
   const langMap = new Map(langPosts.map(p => [p.id, p]));
 
-  return blogPosts.map((blogPost) => ({
-    params: { slug: blogPost.data.slug || blogPost.id },
-    props: {
-      post: langMap.get(blogPost.id) ?? blogPost,
-    },
-  }));
+  // 讀取實際檔案名，為舊檔案名生成路由
+  const blogDir = join(process.cwd(), 'src/content/blog');
+  const langDir = join(process.cwd(), 'src/content/zh-hk');
+  const fileNameMap = new Map<string, string>(); // slug -> 檔案名（不含副檔名）
+
+  for (const dir of [blogDir, langDir]) {
+    const files = readdirSync(dir).filter(f => f.endsWith('.md') || f.endsWith('.mdx'));
+    for (const file of files) {
+      try {
+        const content = readFileSync(join(dir, file), 'utf-8');
+        const { data } = matter(content);
+        const slug = data.slug || file.replace(/\.(md|mdx)$/, '');
+        const fileId = file.replace(/\.(md|mdx)$/, '');
+        fileNameMap.set(slug, fileId);
+      } catch (e) {}
+    }
+  }
+
+  const paths: any[] = [];
+
+  for (const blogPost of blogPosts) {
+    const slug = blogPost.data.slug || blogPost.id;
+    const post = langMap.get(blogPost.id) ?? blogPost;
+    paths.push({
+      params: { slug },
+      props: { post },
+    });
+
+    // 為舊檔案名生成路由
+    const oldFileId = fileNameMap.get(slug);
+    if (oldFileId && oldFileId !== slug) {
+      paths.push({
+        params: { slug: oldFileId },
+        props: { post },
+      });
+    }
+  }
+
+  return paths;
 }
 
 const { post } = Astro.props;
