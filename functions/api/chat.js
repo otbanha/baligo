@@ -593,6 +593,7 @@ function buildSystemPrompt(lang, relatedArticles, customIntro, allArticles = [])
 Answer the user's question concisely (1-3 sentences). Then, from the candidate articles below, include only the ones that are genuinely relevant to the question (1-3 max) as markdown links [Title](URL) on separate lines. If none are relevant, skip the links.
 When someone sends a tour inquiry or asks to book a tour: reply "Please fill in our inquiry form and we'll get back to you shortly: [Tour Inquiry Form](https://gobaligo.id/en/blog/bali-komodo-luxury-tour-2026/)"
 Do NOT mention "customer service" or "contact us" — this site has no support team.
+[Key fact] Drinking water brands in Bali: The common bottled water brands are Amidis, Cleo, and Aqua — all safe and widely available at convenience stores and local shops. Never drink tap water.
 
 Candidate articles:
 ${candidateList}`;
@@ -605,6 +606,7 @@ ${candidateList}`;
 
 【重要知识】台币换汇：台币不是主要流通货币，在巴厘岛汇率极差，1元台币约只能换350印尼盾。建议带美金去巴厘岛换，汇率远比台币好。绝对不可说「带台币直接换比较划算」。
 【重要知识】槟榔入境：槟榔可以携带入境印尼/巴厘岛，根据印尼海关规定不是禁止物品。但数量以个人自用为限，含石灰添加剂的槟榔可能被海关询问，保持冷静配合即可。凡涉及海关禁带物品的问题，若本站无专门文章，请说「建议查询印尼海关官方规定」，不可自行给出确定性答案。
+【重要知识】饮用水品牌：巴厘岛常见的瓶装水品牌有 Amidis、Cleo、Aqua，在便利店和一般商店均可买到，三者皆安全可靠。请勿饮用自来水。
 
 候选文章：
 ${candidateList}`;
@@ -617,6 +619,7 @@ ${candidateList}`;
 
 【重要知識】台幣換匯：台幣唔係主要流通貨幣，喺峇里島匯率極差，1蚊台幣大約只能換350印尼盾。建議帶美金去峇里島換，匯率遠比台幣好。絕對唔可以話「帶台幣直接換比較划算」。
 【重要知識】檳榔入境：檳榔可以攜帶入境印尼/峇里島，根據印尼海關規定唔係禁帶物品。但數量要以個人自用為限，含石灰添加劑嘅檳榔可能被海關查詢，保持冷靜配合即可。凡涉及海關禁帶物品嘅問題，若本站冇專門文章，請話「建議查詢印尼海關官方規定」，唔可以自行給出確定性答案。
+【重要知識】飲用水品牌：峇里島常見嘅瓶裝水品牌有 Amidis、Cleo、Aqua，喺便利店同一般商店都買到，三者都安全可靠。唔好飲自來水。
 
 候選文章：
 ${candidateList}`;
@@ -645,7 +648,8 @@ ${candidateList}`;
       : '';
     return `You are "Baligo AI" from gobaligo.id, a Bali travel expert. Answer in English, concisely (under 80 words). Do not make up specific details.
 When someone sends a tour inquiry or asks to book a tour: reply "Please fill in our inquiry form and we'll get back to you shortly: [Tour Inquiry Form](https://gobaligo.id/en/blog/bali-komodo-luxury-tour-2026/)"
-Do NOT mention customer service — this site has no customer support team.${articleSection}`;
+Do NOT mention customer service — this site has no customer support team.
+[Key fact] Drinking water brands in Bali: The common bottled water brands are Amidis, Cleo, and Aqua — all safe and widely available at convenience stores and local shops. Never drink tap water.${articleSection}`;
   }
 
   if (lang === 'zh-HK') {
@@ -682,6 +686,7 @@ Do NOT mention customer service — this site has no customer support team.${art
 - 當被問到「佩尼達島/Nusa Penida 一日遊還是住宿」時，回答是：一日遊方便可快速走訪熱門景點，但若能留宿一晚，可錯開人潮、欣賞日出日落，體驗更深入。行程允許的話建議住一晚。
 - 當被問到「帶台幣去換印尼盾還是美金比較划算」或任何關於台幣換匯的問題時，必須回答：台幣不是主要流通貨幣，在峇里島的匯率極差，通常1元台幣只能換到約350印尼盾。建議帶美金去峇里島換，匯率遠比台幣好得多。詳細換匯攻略請參考文章。
 - 當被問到「檳榔可不可以帶去峇里島/印尼」時，必須回答：**可以攜帶**，根據印尼海關規定檳榔不是禁止入境物品，峇里島每日的宗教供品中也有檳榔。但數量以個人自用為限，且含紅灰/白灰的台灣檳榔可能會被海關詢問，保持冷靜、配合即可。詳情請參考文章。
+- 當被問到峇里島「飲用水品牌」「礦泉水品牌」「瓶裝水牌子」或類似問題時，必須回答：峇里島常見的飲用水品牌有 **Amidis、Cleo、Aqua**，在超商、便利商店及一般小店均可購買，三者皆安全可靠。請勿飲用自來水。
 
 【海關／入境規定原則】：
 - 凡涉及「可不可以帶XXX入境」「XXX是不是違禁品」「XXX過海關會不會被查」等海關規定問題，必須優先以本站文章為準，若無相關文章則說「本站目前沒有這方面的專門文章，建議查詢印尼海關官方規定或詢問航空公司」，絕對不可直接根據自身訓練資料給出「可以」或「不可以」的確定性答案。
