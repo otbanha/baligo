@@ -48,6 +48,13 @@ export async function getStaticPaths() {
     }
   }
 
+  // 調試
+  let actualCompat = 0;
+  for (const [slug, fileId] of fileNameMap) {
+    if (fileId !== slug) actualCompat++;
+  }
+  console.log(`✅ 簡體中文版本: ${paths.length} 路由，fileNameMap: ${fileNameMap.size}，兼容需求: ${actualCompat}`);
+
   return paths;
 }
 

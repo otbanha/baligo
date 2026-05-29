@@ -75,6 +75,16 @@ export async function getStaticPaths() {
     }
   }
 
+  // 調試
+  const compatCount = paths.length - blogPosts.length - Math.max(0, langPosts.length - blogPosts.filter(bp => fileNameMap.has(bp.data.slug || bp.id)).length);
+  console.log(`✅ 英文版本: ${paths.length} 路由 (blog:${blogPosts.length} + en:${Math.max(0, langPosts.length - blogPosts.length)} + 兼容:?)`);
+  // 簡單計算：看 fileNameMap 中有多少個 slug 的值不等於 key
+  let actualCompat = 0;
+  for (const [slug, fileId] of fileNameMap) {
+    if (fileId !== slug) actualCompat++;
+  }
+  console.log(`   fileNameMap: ${fileNameMap.size} 個，其中 ${actualCompat} 個需要兼容路由`);
+
   return paths;
 }
 
