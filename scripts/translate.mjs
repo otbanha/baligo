@@ -320,7 +320,7 @@ async function translateFile(filename, lang) {
     const { data: srcFm } = matter(srcContent);
     if (srcFm.slug && srcFm.slug.trim()) {
       const ext = filename.endsWith('.mdx') ? '.mdx' : '.md';
-      destFilename = srcFm.slug.trim() + ext;
+      destFilename = srcFm.slug.trim().replace(/^['"]|['"]$/g, '') + ext;
     }
   }
 

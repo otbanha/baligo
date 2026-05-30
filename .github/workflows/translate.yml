@@ -76,7 +76,7 @@ jobs:
               m = re.search(r'^slug:\s*(.+)$', content, re.MULTILINE)
               if m:
                   ext = '.mdx' if filename.endswith('.mdx') else '.md'
-                  return m.group(1).strip() + ext
+                  return m.group(1).strip().strip("'\"") + ext
               return filename
 
           def stored_hash(path):
