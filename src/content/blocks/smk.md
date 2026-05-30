@@ -12,7 +12,7 @@ randomCount: 5
 
 ## 水明漾住宿主題介紹
 
-- [峇里島住宿推薦：水明漾的濱海精緻主題住宿指南](/blog/seminyak-beach-resorts-guide/)
+- [峇里島住宿推薦：水明漾10+ 濱海精緻主題住宿指南](/blog/seminyak-beach-resorts-guide/)
 - [水明漾](/blog/seminyak-private-villas-guide/)[VILLA泳池別墅私密天堂:水明漾22間令人驚艷的峇里島villa](/blog/seminyak-private-villas-guide/)
 - [50+ 水明漾 Eat Street 美食攻略](/blog/seminyak-eat-street-guide/)
 - [美食控必收！精選 8 間 Eat Street 走路就到、高 CP 值別墅與質感飯店清單](/blog/seminyak-eat-street-hotels-villas/)
