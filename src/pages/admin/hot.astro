@@ -145,8 +145,24 @@ export const prerender = true;
     document.getElementById('auth-wall').style.display = 'none';
     document.getElementById('main-ui').style.display = 'block';
     await Promise.all([loadHotList(), loadArticles()]);
+    normalizeHotList();  // 把舊檔名 ID 轉換成 slug ID
     renderHotList();
     renderSearch('');
+  }
+
+  // ── 把 KV 裡的舊檔名 ID（2024-02-01-xxx）轉換成 slug ID ──────────────────
+  function normalizeHotList() {
+    hotList = hotList.map(function(item) {
+      // 已經是 slug 格式（article-index 裡存在），直接保留
+      var found = allArticles.find(function(a) { return a.id === item.id; });
+      if (found) return { id: found.id, title: found.title };
+      // 找不到：用標題比對（舊格式 ID 配對）
+      var byTitle = allArticles.find(function(a) {
+        return a.title === item.title;
+      });
+      if (byTitle) return { id: byTitle.id, title: byTitle.title };
+      return item; // 無法對應就保留原樣
+    });
   }
 
   // ── Load hot list ─────────────────────────────────────────────────────────
