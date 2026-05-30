@@ -71,10 +71,11 @@ for (const file of files) {
     .trim()
     .slice(0, 300);
 
+  const slugId = fm.slug || id;  // Astro legacy collection p.id = fm.slug (if set), else filename
   articles.push({
-    id,
+    id: slugId,
     title: fm.title,
-    url: `/blog/${fm.slug || id}/`,
+    url: `/blog/${slugId}/`,
     description: fm.description || '',
     heroImage: fm.heroImage || '',
     category: Array.isArray(category) ? category : [category].filter(Boolean),
