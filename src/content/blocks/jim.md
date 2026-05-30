@@ -12,7 +12,7 @@ randomCount: 5
 
 ## 金巴蘭住宿主題介紹
 
-- [峇里島住宿推薦：無敵海景金巴蘭住宿篇](/blog/jimbaran-beachfront-hotels-guide/)
+- [峇里島住宿推薦：10+ 無敵海景金巴蘭住宿篇](/blog/jimbaran-beachfront-hotels-guide/)
 - [【2026 峇里島 AYANA 全攻略】Rock Bar 預約密技](/blog/ayana-resort-bali-guide/)
 - [峇里島18家 kids club 親子度假村｜庫塔、水明漾、長谷、金巴蘭、烏魯瓦圖、烏布適合家庭度假的最佳選擇](/blog/bali-family-resorts-kids-club/)
 - [峇里島親子樂園：十五家擁有滑水道溜滑梯的親子渡假村](/blog/bali-family-resorts-water-slides/)
