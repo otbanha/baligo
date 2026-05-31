@@ -410,7 +410,7 @@ export const maps: MapArea[] = [
     seoDescription: "精選峇里島 10 大親子樂園，含水上樂園、動物園、文化體驗園區，含地圖定位，親子自由行行程規劃一步到位。",
     center: [-8.6705, 115.2126],
     zoom: 11,
-    kml: "/maps/峇里島十大親子樂園地圖.kmz",
+    kml: "/maps/family-parks.kml",
     emoji: "🎡",
     isThematic: true,
     relatedMaps: ["nusa-dua", "sanur", "ubud"],
