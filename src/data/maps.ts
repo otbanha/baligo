@@ -413,6 +413,7 @@ export const maps: MapArea[] = [
     kml: "/maps/family-parks.kml",
     emoji: "🎡",
     isThematic: true,
+    myMapsId: "1EwChz03mQlwDY7tvdyi58swY_UiL7nc",
     relatedMaps: ["nusa-dua", "sanur", "ubud"],
   },
 ];
