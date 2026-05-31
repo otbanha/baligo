@@ -400,6 +400,21 @@ export const maps: MapArea[] = [
     myMapsId: "1ug1RGef4u9r08yJTg-H8cZzYMIKs-w0",
     relatedMaps: ["ubud", "canggu", "seminyak-eat-street"],
   },
+  {
+    slug: "family-parks",
+    lastmod: "2026-05-31",
+    name: "峇里島十大親子樂園",
+    nameEn: "Top 10 Family Parks in Bali",
+    description: "精選峇里島 10 大親子樂園，水上樂園、動物園、文化體驗一次收錄",
+    seoTitle: "峇里島親子樂園 Top 10｜峇里島親子景點地圖 | Go Bali Go",
+    seoDescription: "精選峇里島 10 大親子樂園，含水上樂園、動物園、文化體驗園區，含地圖定位，親子自由行行程規劃一步到位。",
+    center: [-8.6705, 115.2126],
+    zoom: 11,
+    kml: "/maps/峇里島十大親子樂園地圖.kmz",
+    emoji: "🎡",
+    isThematic: true,
+    relatedMaps: ["nusa-dua", "sanur", "ubud"],
+  },
 ];
 
 export function getMapBySlug(slug: string): MapArea | undefined {
