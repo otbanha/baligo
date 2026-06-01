@@ -465,7 +465,12 @@ async function runPool(tasks, concurrency) {
 
 async function main() {
   const allFiles = readdirSync(SOURCE_DIR).filter(f => f.endsWith('.md') || f.endsWith('.mdx'));
-  const files = targetFile ? allFiles.filter(f => f.includes(targetFile)) : allFiles;
+  const nonPrivateFiles = isBlocks ? allFiles : allFiles.filter(f => {
+    const txt = readFileSync(join(SOURCE_DIR, f), 'utf-8');
+    const m = txt.match(/^private:\s*(.+)$/m);
+    return !(m && m[1].trim().toLowerCase() === 'true');
+  });
+  const files = targetFile ? nonPrivateFiles.filter(f => f.includes(targetFile)) : nonPrivateFiles;
 
   if (files.length === 0) {
     console.log('找不到符合條件的檔案');

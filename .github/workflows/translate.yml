@@ -87,11 +87,17 @@ jobs:
               except:
                   return None
 
+          def is_private(text):
+              m = re.search(r'^private:\s*(.+)$', text, re.MULTILINE)
+              return m and m.group(1).strip().lower() == 'true'
+
           src_dir = Path('src/content/blog')
           count = 0
           files = sorted(src_dir.glob('*.md')) + sorted(src_dir.glob('*.mdx'))
           for src in files:
               txt = src.read_text(encoding='utf-8')
+              if is_private(txt):
+                  continue
               h = content_hash(txt)
               dn = dest_name(txt, src.name)
               for lang in ['zh-cn', 'zh-hk', 'en']:
