@@ -20,10 +20,9 @@ _srcHash: 72a88929dadaadddd77737f9afc1ac58
 
 ## Manx Liega
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774787378794-new.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774787449808-jimmi_new.jpg)
 
 👍🏼[網友推薦1](https://www.facebook.com/groups/baligo/permalink/1499638277250079/) 👍🏼[網友推薦2](https://www.facebook.com/groups/baligo/permalink/1512064316007475/) 👍🏼[網友推薦3](https://www.facebook.com/groups/baligo/permalink/1556980068182566/) 👍🏼[網友推薦4](https://www.facebook.com/groups/baligo/permalink/1568532927027280/) 👍🏼[網友推薦5](https://www.facebook.com/groups/baligo/permalink/1574447266435846/) 👍🏼[網友推薦6](https://www.facebook.com/groups/baligo/permalink/1588447205035852/) 👍🏼[網友推薦7](https://www.facebook.com/groups/baligo/permalink/1577429806137592/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/q2YvJPRpehHGSVwX/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1Juf4rGtwAphDuv1/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/NJSBRHSQFbRyiSw1/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/1WtJZjUnVs/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/15kvdyEiQN/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/18ztpws3cC/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/1CGq8uAZaX/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/1LawWCzFjz/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/17HEkRf24L/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1CWDjmBc14/)
-
 ## Jimmi Liu 吉米劉
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787449808-jimmi_new.jpg)
@@ -56,10 +55,9 @@ _srcHash: 72a88929dadaadddd77737f9afc1ac58
 
 ## Adi Wang 阿弘
 
-![raw-image](https://images.gobaligo.id/images/2026-03/1774787696068-new.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774787781378-banny_new.jpg)
 
 👍🏼[網友推薦1](https://www.facebook.com/share/p/Cvqq2n427oB9oHeh/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/FF2GnBbXJwGgfHUu/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/UTmwgoSFWbk5Du5F/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/15dZEeu1fd/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1CBA9FJQmj/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1Cgc9bvyut/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1BP23fTwFA/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/14XuPRuYQ8r/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1Gg1tfgYQr/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/1CGp9yXvui/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/1AK18NcVBd/)
-
 ## Gede Ari
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787742788-new.jpg)
