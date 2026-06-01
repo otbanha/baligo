@@ -11,7 +11,7 @@ originalUrl: ''
 shuffle_h2: true
 embeds: []
 lang: zh-hk
-_srcHash: 1580550ec6af25761a3fc78c50dd8584
+_srcHash: 72a88929dadaadddd77737f9afc1ac58
 ---
 
 第一頁，獲得我哋優先推薦嘅司機喺[呢度](https://gobaligo.id/blog/bali-private-car-drivers-guide/)
@@ -82,7 +82,7 @@ _srcHash: 1580550ec6af25761a3fc78c50dd8584
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787856119-ok_bali_new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/15mCz3P1kY/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1SRP58oXXu/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1BFVR9i9Uq/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/12DosfnXN2x/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/12FmFcPRLSk/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/19KS4osEn7/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/17VpLVZLeg/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1AqLpg8w3P/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1AUBSD62BY/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/16oadyoLab/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/17LGecvBqa/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/16Xti3BogQ/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1FvfUX1Uaf/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/17sY8L42wu/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/1FhxnKv2zq/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/1P1HdctcH5/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1MkMRMSnyn/) 👍🏼[網友推薦18](https://www.facebook.com/share/p/14ceo2DYRKU/) 👍🏼[網友推薦19](https://www.facebook.com/share/p/14dHRKTTwCJ/) 👍🏼[網友推薦20](https://www.facebook.com/share/p/1b4HP8SvMa/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/15mCz3P1kY/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1SRP58oXXu/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1BFVR9i9Uq/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/12DosfnXN2x/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/12FmFcPRLSk/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/19KS4osEn7/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/17VpLVZLeg/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1AqLpg8w3P/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1AUBSD62BY/) 👍🏼[網友推薦10](https://www.facebook.com/share/p/16oadyoLab/) 👍🏼[網友推薦11](https://www.facebook.com/share/p/17LGecvBqa/) 👍🏼[網友推薦12](https://www.facebook.com/share/p/16Xti3BogQ/) 👍🏼[網友推薦13](https://www.facebook.com/share/p/1FvfUX1Uaf/) 👍🏼[網友推薦14](https://www.facebook.com/share/p/17sY8L42wu/) 👍🏼[網友推薦15](https://www.facebook.com/share/p/1FhxnKv2zq/) 👍🏼[網友推薦16](https://www.facebook.com/share/p/1P1HdctcH5/) 👍🏼[網友推薦17](https://www.facebook.com/share/p/1MkMRMSnyn/) 👍🏼[網友推薦18](https://www.facebook.com/share/p/14ceo2DYRKU/) 👍🏼[網友推薦19](https://www.facebook.com/share/p/14dHRKTTwCJ/) 👍🏼[網友推薦20](https://www.facebook.com/share/p/1b4HP8SvMa/) 👍🏼[網友推薦21](https://www.facebook.com/share/v/18nfjeP9AX/)
 
 ## Maday
 
@@ -130,9 +130,9 @@ _srcHash: 1580550ec6af25761a3fc78c50dd8584
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774788166261-new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1DXtpVrXjz/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1DXtpVrXjz/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/18nHVoCWo8/)
 
-## Gung Bali Wangzi 王子
+## Gung Bali 王子
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
 
@@ -146,4 +146,4 @@ _srcHash: 1580550ec6af25761a3fc78c50dd8584
 
 👈 **返去峇里島自由行終極指南**
 
-想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次搞掂出發前要做嘅嘢。
+想睇完整嘅新手懶人包？[點呢度閱讀「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
