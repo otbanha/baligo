@@ -3,7 +3,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>峇里島 ATM 提款機 by gobaligo</name>
-    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-05-16 | 總計 521 台</description>
+    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-06-01 | 總計 523 台</description>
     <Folder>
       <name>BCA</name>
       <Placemark>
@@ -742,6 +742,13 @@
         <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/5715647221" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1675611,-8.6891841,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mandiri</name>
+        <description><![CDATA[🏦 Link<br>📍 Karangasem (East Bali)<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/node/6010004386" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.5714986,-8.5104568,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -1524,6 +1531,13 @@
           <coordinates>115.2629945,-8.6865154,0</coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>BNI</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>⏰ Mo-Fr 08:00-15:00<br><a href="https://www.openstreetmap.org/node/13859380601" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3456656,-8.2711519,0</coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>BRI</name>
@@ -2150,6 +2164,13 @@
           <coordinates>115.1693312,-8.7281781,0</coordinates>
         </Point>
       </Placemark>
+      <Placemark>
+        <name>BRI</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/node/13834666148" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.5635174,-8.5077224,0</coordinates>
+        </Point>
+      </Placemark>
     </Folder>
     <Folder>
       <name>CIMB</name>
@@ -2528,6 +2549,13 @@
         <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/3318511318" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.2214699,-8.6688944,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Danamon</name>
+        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/node/3539055182" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.5670541,-8.5086867,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -3169,13 +3197,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>Visa, Master, Maestro, Postcard</name>
-        <description><![CDATA[📍 Karangasem (East Bali)<br><a href="https://www.openstreetmap.org/node/3539055182" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.5670541,-8.5086867,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>BII</name>
         <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/3671675997" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
@@ -3467,13 +3488,6 @@
         <description><![CDATA[📍 Seminyak / Legian<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/node/5825994253" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1724138,-8.7165033,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Link</name>
-        <description><![CDATA[📍 Karangasem (East Bali)<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/node/6010004386" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.5714986,-8.5104568,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>

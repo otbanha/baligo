@@ -1621,7 +1621,7 @@
     "lon": 115.5670541,
     "tags": {
       "amenity": "atm",
-      "name": "Visa, Master, Maestro, Postcard"
+      "name": "Danamon"
     }
   },
   {
@@ -4322,6 +4322,7 @@
     "lon": 115.5714986,
     "tags": {
       "amenity": "atm",
+      "name": "Mandiri",
       "opening_hours": "24/7",
       "operator": "Link"
     }
@@ -6611,6 +6612,27 @@
     "tags": {
       "amenity": "atm",
       "operator": "BRI"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13834666148,
+    "lat": -8.5077224,
+    "lon": 115.5635174,
+    "tags": {
+      "amenity": "atm",
+      "name": "BRI"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13859380601,
+    "lat": -8.2711519,
+    "lon": 115.3456656,
+    "tags": {
+      "amenity": "atm",
+      "opening_hours": "Mo-Fr 08:00-15:00",
+      "operator": "BNI"
     }
   }
 ]
