@@ -3,7 +3,7 @@ title: sanur
 type: normal
 randomCount: 5
 lang: en
-_srcHash: 7a27a05f3a47fba4811fcf0da989d6bc
+_srcHash: b4f2a81ada4873c87feddbf9b5b83cee
 ---
 ## More Sanur Dining and Entertainment Guide
 

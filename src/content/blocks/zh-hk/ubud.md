@@ -3,7 +3,7 @@ title: Ubud
 type: normal
 randomCount: 5
 lang: zh-hk
-_srcHash: f3f71aa4e25d2feb091a0c16e3ef9430
+_srcHash: 68c1b5bee34163f984bb60ff60f471d8
 ---
 
 ## 更多烏布食玩好去處
