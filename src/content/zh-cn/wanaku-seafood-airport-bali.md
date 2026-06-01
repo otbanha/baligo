@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6794fb39fd897800011b4132'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 5ddb065b3d1ba1e86a792270373ab908
+_srcHash: de04b62815df67ab19369f5cbdf92dbf
 ---
 
 如果你正在巴厘岛寻找一处既能满足味蕾又能享受独特用餐体验的地方，那么 **Wanaku Seafood & Chinese Restaurant** 绝对是你的不二之选。这家位于巴厘岛心脏地带的餐厅，以其新鲜的海鲜和正宗的中式料理闻名，是巴厘岛上出名的中式海鲜餐厅，他们将美食与环境完美结合，带给食客一场难忘的味觉之旅。

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65ba3bfefd89780001650f07'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 1caa8b52e2b8073bea88e2154bea6215
+_srcHash: d15a3c58c5c53242ccb6b6a76b8d49f4
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_86b840290627cc094416ab3efb84a7cf.png)

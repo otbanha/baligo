@@ -17,7 +17,7 @@ category:
   - 美食景點活動
   - 遊記分享
 lang: zh-cn
-_srcHash: 53b917e5f2a7b6ca63f183a1cd89123e
+_srcHash: bb3777d29b5a90a63d536ca5f08a2d72
 ---
 Eat Pray Love（中文翻译：享受吧！一个人的旅行）电影截图
 

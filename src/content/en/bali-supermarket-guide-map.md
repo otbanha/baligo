@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 8739cd22b14763095612c59d73477143
+_srcHash: 364ad32bfa73a86d66cc04d30ce7ec7b
 ---
 
 When vacationing in Bali, don’t rush to the tourist spots! Many people head straight to the local large supermarkets upon arrival.

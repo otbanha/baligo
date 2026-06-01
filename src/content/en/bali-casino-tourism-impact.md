@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66adee4bfd89780001f50309'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 577a3b081f781809a6a322a9bc39b5ba
+_srcHash: f9ce2d07ffb00c7e6459e72f160ae40d
 ---
 
 Bali, Indonesia's most famous tourist destination, may soon welcome a brand new attraction - a casino. This news has undoubtedly shocked many, as gambling is almost entirely illegal in Indonesia in all forms. However, the proponents of this plan believe that a casino could inject new vitality into Bali's tourism industry.

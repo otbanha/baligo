@@ -34,7 +34,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 492355584aaa351550db4e9888e77015
+_srcHash: 237fbcf73d107fd2bc00a4f48ff4d17a
 ---
 
 Honestly, I also feel like 2026 is flying by. It seems like just yesterday I was writing about Nyepi Day at the beginning of the year, and now we're approaching June — Bali's annual 'crowd explosion season' is about to begin.

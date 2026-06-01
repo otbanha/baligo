@@ -17,7 +17,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f6b90b154e37dbd50a989a42055a7abb.png'
 originalUrl: 'https://vocus.cc/article/67ecc962fd89780001212629'
 lang: en
-_srcHash: b372879c59ae9f4e92e073841979548f
+_srcHash: 3eb3144268c8553e2e0d512acf4370b9
 ---
 
 Before answering this frequently asked question in our two Facebook groups "[Bali/Indonesia Food and Fun](https://www.facebook.com/groups/indonesia.travelguide/)" and "[Go Bali Go Bali Travel](https://www.facebook.com/groups/baligo/)", let's first use a chart to give you a quick overview:

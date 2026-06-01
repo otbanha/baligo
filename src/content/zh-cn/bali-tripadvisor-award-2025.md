@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6785b417fd89780001890203'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 8688b109e469f795464bf2a724febd7d
+_srcHash: 934e92ffc2d16be0615a3c47dec8ffce
 ---
 
 巴厘岛在[TripAdvisor的2025年旅行者之选大奖](https://www.tripadvisor.com.au/TravelersChoice-Destinations)中荣获世界第二热门旅游目的地，并成为2025年亚洲第一旅游目的地。

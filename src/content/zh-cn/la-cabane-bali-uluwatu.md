@@ -22,7 +22,7 @@ agoda_star_rating: 4.5
 latitude: -8.791350364685059
 longitude: 115.12996673583984
 lang: zh-cn
-_srcHash: 49969643989cd15a10fb8674b44458b9
+_srcHash: e0ae155890ddf1ad4840a06e77c0505c
 ---
 
 在巴厘岛南端的武吉半岛，乌鲁瓦图（Uluwatu）以壮丽的断崖与日落闻名，而其中隐身在Balangan海滩附近的 **La Cabane Bali**，则是许多旅人心中理想的「秘密基地」。这里融合了自然氛围与法式浪漫，规模虽小，却因为设计精致、环境私密，每间房都几乎一房难求。

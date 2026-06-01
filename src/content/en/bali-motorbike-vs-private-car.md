@@ -26,7 +26,7 @@ originalUrl: 'https://vocus.cc/article/64db6b77fd897800013a9611'
 category:
   - 叫車包車
 lang: en
-_srcHash: bd809f84b28feefa44a770c61038e813
+_srcHash: d3620f47d59f53374681d71ee62b65ed
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f15f509c840403bd85b205db13db2ead.jpg)

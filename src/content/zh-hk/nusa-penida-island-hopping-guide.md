@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65b51f59fd89780001e498d4'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 4a149a9ec8de0d01e8da6ed6d0873377
+_srcHash: b54e7a796abcdfa650bb1e7a7d0fc67b
 ---
 
 呢個係我哋社團網友「[Sophie](https://www.facebook.com/soficia.chen)」喺峇里島度過嘅六日精彩自由行程！有好多參考咗「[小傑印尼](https://www.youtube.com/@j_indonesia)」嘅影片同我哋「峇里島旅遊攻略」嘅精彩攻略嘅組合。等我哋一齊睇吓呢段佢自己安排嘅充滿冒險同探索嘅旅程啦！

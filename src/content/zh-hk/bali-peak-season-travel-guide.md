@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6a5d39f975ba52cec16b2d64dcadfaeb.jpg'
 originalUrl: 'https://vocus.cc/article/67581b8ffd89780001f5b5dc'
 lang: zh-hk
-_srcHash: a578aabecc410f5071e9b75fbd03a547
+_srcHash: f019131270effdafdfbef20fcd8f51e2
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_acec44040e6eb1d33d385be4be6d0d18.jpg)

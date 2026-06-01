@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/664dcf84fd8978000131e5f4'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 979f962ba6ca5177f069525b9f55d66e
+_srcHash: fc0547122ce41325fc4ff217ebefcb2a
 ---
 
 Buying souvenirs during international travels is a way to preserve precious memories. When you visit the beautiful island of Bali, not only can you enjoy stunning beaches and unique culture, but you can also bring back a variety of souvenirs to share with family and friends, keeping this unforgettable journey alive.

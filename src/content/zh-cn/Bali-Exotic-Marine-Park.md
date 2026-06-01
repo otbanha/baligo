@@ -28,7 +28,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: d3633b1de68540c8253b84130ad722da
+_srcHash: 651d9e9bc6bdaa57f6d669a4a0822bab
 ---
 
 带孩子出游，最怕什么？就是「看得到、摸不到」的距离感。很多景点，小朋友只能乖乖坐在观众席，远远看着动物表演，拍手叫好，然后就没了。说实话，**坐在观众席看海豚表演不稀奇，能让小朋友跟海豚互动才稀奇**——而巴厘岛海豚乐园（Bali Exotic Marine Park），正是那种让孩子真正「走进故事里」的地方。

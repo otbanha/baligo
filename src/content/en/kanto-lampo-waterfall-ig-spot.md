@@ -19,7 +19,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4cc15f376c57006aeb3deaafc3b85328.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b71fd897800013a9435'
 lang: en
-_srcHash: cd25bee6135a1be53706515d2eb501cd
+_srcHash: 346eeac2c72859b888d35122a3466655
 ---
 The waterfall near Ubud, Bali that you can't miss for beautiful photos is Kanto Lampo Waterfall.
 

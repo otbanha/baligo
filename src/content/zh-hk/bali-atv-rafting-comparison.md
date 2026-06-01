@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bbae207c7b2357fcc9e3128889589708.jpg'
 originalUrl: 'https://vocus.cc/article/68861b2efd8978000104cf9b'
 lang: zh-hk
-_srcHash: 2337d52e038868c99d1e2272a380c63d
+_srcHash: 14b158616871ee2d77972c93c3f9231c
 ---
 講到峇里島，大部分人諗到嘅可能係沙灘、神廟或者 SPA，但今次我同三個朋友決定嚟啲唔同嘅體驗。經過多方面比較之後，我哋選擇咗「ATV 越野騎行 + 阿勇河泛舟」嘅組合套餐，事實證明呢個絕對係我哋峇里島行程中最刺激亦最難忘嘅一日！
 

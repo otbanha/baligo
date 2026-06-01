@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 66e09933f3b170d857e70ff372a1463d
+_srcHash: 0cebdf694fa613628ff714605a5d1a19
 ---
 
 ## 峇里島旅遊版圖大洗牌：中國客奪獎、馬來西亞擠下澳洲登頂！

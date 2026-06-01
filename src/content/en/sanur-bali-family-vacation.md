@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d66488cbf12527aba9885db31c4f0b5a.jpg'
 originalUrl: 'https://vocus.cc/article/65ff99e2fd897800016c300e'
 lang: en
-_srcHash: 7e61fed2714b326626d74b67c12c2c95
+_srcHash: 50d15a396f3002cf741ce2abb3e03d1b
 ---
 
 Sanur is a highly suitable area for family vacations on Bali. With its sunny weather, soft sandy beaches, relatively affordable prices, and abundant family-friendly recreational facilities, it has become a top choice for many families traveling with children.

@@ -31,7 +31,7 @@ agoda_star_rating: 4.5
 latitude: -8.810282707214355
 longitude: 115.1052017211914
 lang: zh-hk
-_srcHash: 60ff010b12f2876fd52697546bb411ba
+_srcHash: 995e4f14b08f4b7e4ae2e209ed915bb7
 ---
 峇里島烏魯瓦圖有好多面海嘅酒店，但係可以令你字面意義上「住喺懸崖岸邊上」嘅，大概只有呢一間。
 

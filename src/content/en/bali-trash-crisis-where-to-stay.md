@@ -30,7 +30,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: c59afaad8bf39abcebde84afb000ba2a
+_srcHash: 21e36657e3af44e7390a67aeab650e3f
 ---
 Ready to pack your bags and head to your dream vacation destination? According to TripAdvisor's rankings, Bali remains at the top of the world's most popular tourist destinations in 2026. However, this "Island of the Gods" has been frequently featured in international media lately, not just for its unparalleled beauty and culture, but also for the worsening "trash crisis" that has caught global attention.
 

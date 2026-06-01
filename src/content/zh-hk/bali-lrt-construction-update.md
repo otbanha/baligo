@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/669e605afd8978000115575b'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 9e1da1e5ea82f3dd47fb8a6f708c4edc
+_srcHash: b0ae2bfed720973476bb40d96a2f2b60
 ---
 
 峇里島作為印尼嘅旅遊勝地，長期以來受到大量國內外遊客嘅青睞。然而，隨住旅遊業嘅蓬勃發展，峇里島嘅交通壓力亦逐年增加。為咗解決呢個問題，峇里島政府決定啟動輕軌交通（LRT）項目，並計劃於2024年9月正式開始施工。

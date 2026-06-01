@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/676a2ccefd89780001962994'
 category:
   - 叫車包車
 lang: en
-_srcHash: d0c0a5da533b0e5df2bf1777c2bf2f56
+_srcHash: 4fe80e454e38d1fb33a4b0de29602122
 ---
 
 When planning a trip to Bali, transportation arrangements are absolutely crucial to its success! Besides public transportation, choosing a reliable private driver will make your journey much more comfortable and relaxed. This article recommends an excellent Bali driver, **Gede Arimbawa**, who is not only a professional driver but also a thoughtful guide and travel companion.

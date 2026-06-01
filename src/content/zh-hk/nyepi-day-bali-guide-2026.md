@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/698f077efd89780001e7294f'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: db6deebb248860011e81881d807e9842
+_srcHash: 13685e2272668fe0b4c833d6d1540f75
 ---
 峇里島靜居日（Nyepi Day），呢個係峇里島最獨特、最神聖嘅節日之一，島上瞬間由超熱鬧變成「全世界最安靜嘅一日」，超有儀式感！
 

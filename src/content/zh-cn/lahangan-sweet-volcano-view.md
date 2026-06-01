@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9efa1e57e443a91110d9b3182390577.jpg'
 originalUrl: 'https://vocus.cc/article/6739669dfd89780001afcd67'
 lang: zh-cn
-_srcHash: 86acfb8d60e0f5cfa121552e49a98245
+_srcHash: bbe57b1e1c58cac276425b056dfa5b77
 ---
 
 **如果你热爱壮丽的自然风光，或是正在寻找能拍出美美IG照的地方，Lahangan Sweet 绝对值得列入你的行程！这里提供了一个360度的视野，可以清楚地看到巴厘岛最具标志性的阿贡山，尤其在日出或日落时分，景色更是令人屏息！🌅**

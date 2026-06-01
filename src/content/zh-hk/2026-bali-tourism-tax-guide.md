@@ -25,7 +25,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-04/1777252730266-782544334399662200.png'
 originalUrl: 'https://vocus.cc/article/65955989fd89780001a95927'
 lang: zh-hk
-_srcHash: 24a8cacf4b424612265c6b000c1ed836
+_srcHash: 394acbc314bfbf3c2eac9245a415864e
 ---
 自從 2024 年 2 月 14 日起，**峇里島**實施咗一項新嘅旅遊政策，即「觀光稅 (International Tourist Levy)」，呢個適用於所有訪問**峇里島**嘅國際旅客，不論係成人定係小朋友。每人需要支付 15 萬印尼盾嘅稅金，相當於約 300 新台幣。呢項政策旨在應對**峇里島**面臨嘅交通擠塞同垃圾問題。
 

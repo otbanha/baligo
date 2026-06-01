@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0fbf0fa6cbdf5a3d06b5e9a8b4a461a0.jpg'
 originalUrl: 'https://vocus.cc/article/67e62aa8fd89780001888620'
 lang: en
-_srcHash: 06a50639f8235e93cc925d21e258b9c6
+_srcHash: 2351a32ae258e5b76ca8c7e70911f10c
 ---
 Bali is world-renowned for its magnificent natural landscapes and rich cultural heritage, with white water rafting being one of the most popular adventure activities attracting countless visitors. Navigating winding rivers, experiencing the thrill of alternating rapids and calm waters, while admiring lush tropical rainforests, spectacular gorges, and hidden waterfalls along the way - these are the unique charms of Bali rafting.
 

@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: ef33b09a98d67ac82788f8059f08bfd5
+_srcHash: 20f0f0f655f1a4f0d321fe6a3e98720f
 ---
 
 嚟到峇里島金巴蘭（Jimbaran），好多人第一個諗到嘅係海鮮燒烤同夕陽。但如果你想搵一個更輕鬆、更有度假感，同時又適合情侶、朋友甚至親子一齊待上一日嘅地方，咁我最近好推薦呢間位於海邊嘅 Locca Sea House。

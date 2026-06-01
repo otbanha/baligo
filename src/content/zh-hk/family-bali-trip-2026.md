@@ -17,7 +17,7 @@ update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0347481a7fc74e3d809741abdcae7aa0.jpg'
 originalUrl: 'https://vocus.cc/article/6944cda7fd89780001d0907a'
 lang: zh-hk
-_srcHash: 3940a08f05b38c0a50e06cdd88e16061
+_srcHash: 9653a5992f0d249cfaa392f1a19245ef
 ---
 
 > 以下遊記由 [Yama Chen](https://www.facebook.com/share/p/1LDe6bbsFm/) 提供, 並同意我哋潤飾重新編輯

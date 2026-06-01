@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4603b531b61b14e13a527e7b2492d400.jpg'
 originalUrl: 'https://vocus.cc/article/65ed5114fd89780001dcc688'
 lang: zh-hk
-_srcHash: 1f14773d505c9e9dfe36944e07ab4f77
+_srcHash: bd8d9c2ba4afd3de5e2df0cb4f0277ea
 ---
 
 **團友**[**Li Ly**](https://www.facebook.com/lily850711/)**同佢啱啱結束咗雨季嘅峇里島之旅，就即刻同我哋分享佢哋嘅旅遊心得喇！**

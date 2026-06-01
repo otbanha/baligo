@@ -24,7 +24,7 @@ agoda_star_rating: 5
 latitude: -8.656766891479492
 longitude: 115.13082122802734
 lang: zh-hk
-_srcHash: f28b1b63ec4b2fcf9408aa2428b19aca
+_srcHash: b6d4beca1631c7ba0519cc251d2e756a
 ---
 如果你正在尋找一個可以擁抱峇里島自然風光，同時享受現代化便利嘅度假勝地，咁2023年底全新開業嘅**峇里島坎古假日酒店（Holiday Inn Resort Bali Canggu By IHG）**絕對值得列入你嘅首選清單。呢間五星級度假村唔單止坐擁絕佳地理位置，更以貼心嘅服務、完善嘅設施同極高嘅性價比，贏得全球旅客嘅一致好評，喺各大平台上獲得高達**9.4分嘅綜合評分**。
 

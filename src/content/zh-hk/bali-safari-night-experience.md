@@ -13,7 +13,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7350b0aa61ea1a86594fde6e5db46812.jpg'
 originalUrl: 'https://vocus.cc/article/69131b8dfd89780001c8e3c4'
 lang: zh-hk
-_srcHash: bf6927791cc7915081c0888ee1116a88
+_srcHash: 66e2e5828f4f30b9084aee19499737d3
 ---
 
 想喺峇里島嚟一場與眾不同嘅動物邂逅？Bali Safari & Marine Park 絕對係親子旅遊嘅首選！呢個結合野生動物觀賞、互動體驗同度假住宿嘅園區，可以令你同動物近距離接觸，創造難忘嘅回憶。本篇詳細整理Bali Safari嘅完整玩法，包括夜宿攻略、必睇表演同親子活動建議。

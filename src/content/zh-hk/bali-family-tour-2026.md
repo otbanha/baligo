@@ -22,7 +22,7 @@ heroImage: /images/2026-03-29-family-bali.png
 originalUrl: ''
 embeds: []
 lang: zh-hk
-_srcHash: a05f74cbf456abc466908c2b0f6c58e9
+_srcHash: 2b359d9f07bc05bdf2afd50d9bbb0ca2
 ---
 
 **想要一場話走就走嘅純粹假期嗎？** 拋開繁瑣嘅行程規劃，拒絕壓力嘅購物行程。今次，我哋為你同家人準備咗集結**自然奇景、野生動物、私人 Villa 同頂級美食**嘅夢幻六日五夜。從清晨嘅火山雲海到午後嘅梯田泳池，每一刻都係值得收藏嘅家族回憶。

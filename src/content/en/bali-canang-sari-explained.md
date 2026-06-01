@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_38eac710ef37ffaf4bfdd348e071bb02.jpg'
 originalUrl: 'https://vocus.cc/article/66964aa7fd89780001c7051c'
 lang: en
-_srcHash: dcd7a25d9824c49b1d0a0ad80cc2e5ff
+_srcHash: 6a5a0454a9c755fe05081a2159f2f74a
 ---
 
 Bali, this enchanting land, is not only famous for its beautiful landscapes and warm hospitality but also attracts visitors from around the world with its profound religious and cultural traditions. Among these traditions, Canang Sari is an indispensable part of Bali's daily worship rituals. These exquisite offerings can be seen everywhere, from doorsteps to temples, permeating the air with reverence and devotion.

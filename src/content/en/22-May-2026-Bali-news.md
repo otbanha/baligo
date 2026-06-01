@@ -19,7 +19,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 2adab009f27fe7e65bc4b930d6f5e5ee
+_srcHash: db0a951ede4ee0173906e3084327761e
 ---
 
 ### 🗞️ Today's Highlights: Strong Recovery of International Events and Low-Carbon Tourism

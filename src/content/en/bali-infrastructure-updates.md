@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/67d13fd1fd89780001c6887f'
 category:
   - 旅行技巧
 lang: en
-_srcHash: d87832091e70848e62ee439c2975cd53
+_srcHash: ec0bbd5bda37ae9311667370e2d5f91c
 ---
 
 Bali's infrastructure is undergoing rapid development, with multiple major projects set for completion by 2028, aiming to enhance tourism and daily life. Here are some key initiatives worth noting.

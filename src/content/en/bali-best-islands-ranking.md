@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/6881b9fafd897800011f152f'
 category:
   - 旅行技巧
 lang: en
-_srcHash: d6f97b3f50f696c928593c10bffc5307
+_srcHash: 9286a7dd96a5b3771ec731165a1d2d9d
 ---
 ## Bali Rises to Top 3! Travel + Leisure Reveals 2025 Best Islands Ranking
 

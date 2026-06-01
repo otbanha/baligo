@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/66c0ba76fd89780001527eed'
 category:
   - 遊記分享
 lang: en
-_srcHash: 09743086b8b5aa44c3d37511ff419ee5
+_srcHash: 5e928acd155528c4eb1f2d095ef5ce52
 ---
 
 > The following content was provided by fellow traveler [Oscar Lin](https://www.facebook.com/share/p/4Eev2drzrfF5SKtc/) and adapted with his permission.

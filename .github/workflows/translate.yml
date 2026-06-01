@@ -61,16 +61,17 @@ jobs:
           from pathlib import Path
 
           def content_hash(text):
-              for pat, repl in [
-                  (r'^heroImage:.*$',    'heroImage: __img__'),
-                  (r'^slug:.*$',         'slug: __slug__'),
-                  (r'^update:.*$',       'update: __update__'),
-                  (r'^pubDate:.*$',      'pubDate: __pubDate__'),
-                  (r'^updatedDate:.*$',  'updatedDate: __updatedDate__'),
-                  (r'^!\[.*?\]\(.*?\)\s*$', ''),
-              ]:
-                  text = re.sub(pat, repl, text, flags=re.MULTILINE)
-              return hashlib.md5(text.encode()).hexdigest()
+              fm_match = re.match(r'^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$', text)
+              if not fm_match:
+                  return hashlib.md5(text.encode()).hexdigest()
+              fm_text, body = fm_match.group(1), fm_match.group(2)
+              t = re.search(r'^title:\s*(.+)$', fm_text, re.MULTILINE)
+              d = re.search(r'^description:\s*(.+)$', fm_text, re.MULTILINE)
+              title = t.group(1) if t else ''
+              desc  = d.group(1) if d else ''
+              clean_body = re.sub(r'^!\[.*?\]\(.*?\)\s*$', '', body, flags=re.MULTILINE)
+              normalized = f'title:{title}\ndesc:{desc}\n---\n{clean_body}'
+              return hashlib.md5(normalized.encode()).hexdigest()
 
           def dest_name(content, filename):
               m = re.search(r'^slug:\s*(.+)$', content, re.MULTILINE)

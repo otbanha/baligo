@@ -13,7 +13,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_474e842e30763c2e08fb64ae53b821a1.jpg'
 originalUrl: 'https://vocus.cc/article/669fc2a7fd89780001321901'
 lang: zh-cn
-_srcHash: 7eb0813126b48ba95224b90690e4ee57
+_srcHash: f1077d0abb3ed834fff714b9a088f1cc
 ---
 
 如果问起在巴厘岛除了活力四射的沙滩之外，还有哪里是最受国际游客和印尼游客欢迎的地方？答案之一就是巴厘岛的乌布（Ubud）。我相信你一定听说过“乌布”的旅游景点，并在各种文章中看到过有关乌布的游览和活动介绍。那么，你是否有兴趣到乌布度假呢？如果是的话，在计划乌布之旅之前，建议你完整地阅读这篇文章！我们这里提供关于乌布的旅游指南和旅游贴士。

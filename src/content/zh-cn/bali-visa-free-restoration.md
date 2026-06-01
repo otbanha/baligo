@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/6698f2b8fd89780001c73b58'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 8db69edd723c9937d89795aabf81d466
+_srcHash: b9c544a0f0d0199a4cb7fd1ce7415ce4
 ---
 
 印尼旅游部长最近宣布，计划推动立法变更，让来自二十个最常到访印尼的国家恢复免签待遇。这一消息引起了广泛关注，特别是对于那些经常到访巴厘岛的游客来说，更是受到了极大的关注和期待。

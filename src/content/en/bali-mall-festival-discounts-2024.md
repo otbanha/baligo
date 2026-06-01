@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/676c1649fd89780001b14110'
 category:
   - 旅行技巧
 lang: en
-_srcHash: a4116ae8ea5a23202c6f596ff5e79b1a
+_srcHash: d71a85097f6bde4261b1a231da604f14
 ---
 
 ## Festive Shopping Extravaganza in Bali: Great Discounts and Exciting Activities!

@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2f0104efdccf74a386739089ab23c795.jpg'
 originalUrl: 'https://vocus.cc/article/65504084fd897800011c51f2'
 lang: zh-hk
-_srcHash: efd9076f639a18cabefd735dbab5fd1b
+_srcHash: 4d5c96b0132332b8189939b550e25a71
 ---
 你係咪計劃緊去印尼或者峇里島度假，又擔心可唔可以帶埋你部無人機？唔使擔心，答案係可以嘅！你可以帶無人機去峇里島！但係喺你將無人機放入行李箱之前，有幾個規定你一定要遵守。
 

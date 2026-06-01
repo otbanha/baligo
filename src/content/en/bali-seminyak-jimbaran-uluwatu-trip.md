@@ -15,7 +15,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9a3dbb0d78806081cfc5710ec96cbf05.jpg'
 originalUrl: 'https://vocus.cc/article/6688b074fd897800017bd1d5'
 lang: en
-_srcHash: a7cce4e15453a19b7f0ccecdc1767aa1
+_srcHash: 06a470b06fb96deec23ab93ca7cb63b2
 ---
 
 > The following content was provided by fellow traveler [Winnie Lin](https://www.facebook.com/winnie.lin.566/) and adapted with her permission

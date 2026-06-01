@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/64db6b5afd897800013a8f86'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: bc0533b9238702dd244a2e23d4f680bd
+_srcHash: 265d2d39f7fd19f5bc0dc17a935ebc36
 ---
 
 嚟到印尼或者峇里島，一定唔可以錯過嘅就係當地地道嘅國民美食。呢啲係印尼/峇里島嘅必食美食

@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_adc1492ecb822ef9a1da92c40c6cf33c.jpg'
 originalUrl: 'https://vocus.cc/article/657598bdfd8978000120fe20'
 lang: zh-cn
-_srcHash: 310a1586ab41c60f9e20155a337e8ead
+_srcHash: 111fb67e20f1c55a2a27d05794b87dba
 ---
 
 库塔是巴厘岛最受欢迎的旅游目的地之一，以其美丽的海滩、热闹的夜生活和丰富的文化而闻名。库塔是一个适合所有人群的多元化目的地。无论你是喜欢冲浪、购物、夜生活还是文化体验，库塔都能为你提供完美的假期。

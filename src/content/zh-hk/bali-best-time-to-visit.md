@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1d6d384413728096b9b39481b1515e73.png'
 originalUrl: 'https://vocus.cc/article/657078edfd89780001f2d88d'
 lang: zh-hk
-_srcHash: 0a70e16fe7b4979799a0e6ae2ccfe8af
+_srcHash: ddc1cfb39f71c2d70aa443f7aa046720
 ---
 
 當計劃去峇里島玩嘅時候，最常被問到嘅問題之一就係：「到底幾時去最好？」峇里島嘅氣候雖然被劃分為乾季同雨季兩個時節，但實際情況可能比我哋想像中更加多變。

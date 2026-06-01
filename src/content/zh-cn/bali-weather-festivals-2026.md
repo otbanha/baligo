@@ -27,7 +27,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/H5N5_UuK7TI'
 lang: zh-cn
-_srcHash: 3e4346cdba8d168a49580eb94a4d3dfe
+_srcHash: 6b4a6b1a1b36bca00c032720bdb98e7b
 ---
 
 ### 【2026 巴厘岛旅游展望】从雨季尾声到蔚蓝晴空：3～6 月节庆与气候全攻略

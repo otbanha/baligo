@@ -17,7 +17,7 @@ tags:
 heroImage: ''
 originalUrl: 'https://vocus.cc/article/6655eceefd897800015c1b6a'
 lang: en
-_srcHash: 4352d03fc260f9895e4b0b206672ff53
+_srcHash: 8869fb2a33c1522b944676b3474fd18a
 ---
 
 Our [Bali/Indonesia Food, Fun & Travel](https://www.facebook.com/groups/indonesia.travelguide) Facebook group member [Mei Yi Liao](https://www.facebook.com/liao.meiyi.1/) shares her experience/travelogue of visiting Nusa Penida with friends, which we are pleased to edit/reprint:

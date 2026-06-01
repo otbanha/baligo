@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/66888b2cfd897800017a30c6'
 category:
   - 簽證通關
 lang: en
-_srcHash: 3fd69e96ad025029c87ad38b7ed0106d
+_srcHash: ae3798dbb5ce32043260eb7700a552d5
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_75accaa2bc49a2e100d7be4df6a8016b.jpg)

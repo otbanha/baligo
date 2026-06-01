@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_adc1492ecb822ef9a1da92c40c6cf33c.jpg'
 originalUrl: 'https://vocus.cc/article/657598bdfd8978000120fe20'
 lang: zh-hk
-_srcHash: 310a1586ab41c60f9e20155a337e8ead
+_srcHash: 111fb67e20f1c55a2a27d05794b87dba
 ---
 
 庫塔係峇里島最受歡迎嘅旅遊目的地之一，以其美麗嘅海灘、熱鬧嘅夜生活同豐富嘅文化而聞名。庫塔係一個適合所有人群嘅多元化目的地。無論你鍾意滑浪、購物、夜生活定係文化體驗，庫塔都可以為你提供完美嘅假期。

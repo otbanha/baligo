@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/64db6b5afd897800013a8f86'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: bc0533b9238702dd244a2e23d4f680bd
+_srcHash: 265d2d39f7fd19f5bc0dc17a935ebc36
 ---
 
 来到印尼或巴厘岛 一定不能错过的就是当地地道的国民美食 这是印尼/巴厘岛的必吃美食

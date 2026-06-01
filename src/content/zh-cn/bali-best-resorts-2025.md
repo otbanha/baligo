@@ -31,7 +31,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_debbed11334f2d13ce6eb74b71adc386.png'
 originalUrl: 'https://vocus.cc/article/67d42835fd897800014ffc83'
 lang: zh-cn
-_srcHash: 884bdc1d7a1e4cd115bca60405358b2a
+_srcHash: e37f55456232cbe5fa08f84e46c41317
 ---
 
 巴厘岛再次荣登亚洲最佳旅游目的地！根据《[DestinAsian](https://destinasian.com/update/2025-destinasian-readers-choice-awards-full-rankings)》杂志的年度旅游大奖评选，巴厘岛在2025年被读者票选为**亚洲最佳岛屿**，击败了马尔代夫、泰国普吉岛、越南富国岛、马来西亚兰卡威等知名旅游胜地，持续展现其无与伦比的魅力。

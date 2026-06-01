@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 22b2951cc1ad8e5da7b68207f8ed0c2d
+_srcHash: c4d68e52ce62d543675f828f82170bd6
 ---
 
 巴厘岛一直是全球旅人的天堂，但最近计划前往这座梦幻岛屿的朋友们要注意了。印尼移民局近期发布了重要的签证规则更新，针对持有「旅游签证」的游客，在当地的活动范围有了更严格且细致的定义。

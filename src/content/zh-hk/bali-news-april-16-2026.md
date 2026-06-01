@@ -15,7 +15,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: c06c9ffbace8c1bc290f27a63219c26e
+_srcHash: 93fee4c1a6d4306f793454cd0a7b9b7c
 ---
 
 【今早美金匯率：16700】今日（4/16）**峇里島**新聞與遊客實務資訊整理：

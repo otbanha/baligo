@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_96e2c52ee704e6326899a5415c470a40.jpg'
 originalUrl: 'https://vocus.cc/article/693f6a41fd89780001862bd4'
 lang: zh-hk
-_srcHash: 8b9daf0a7e82c63f0af8660ab4d336ad
+_srcHash: ed348774c5db228b517a5fdf667572e4
 ---
 峇里島擁有豐富多樣嘅自然景觀同深厚文化底蘊。由梯田、火山、海灘，到神廟同街景，每一處都充滿畫面感。
 

@@ -18,7 +18,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_49f9c36a21512cf66bd91a77ff53d
 originalUrl: 'https://vocus.cc/article/682c01fffd8978000182fc13'
 update: 2026/05/22
 lang: zh-hk
-_srcHash: cc381c022ab032f7502d9be5112e91cf
+_srcHash: 58a6177ce06680a5fceed3e80f40481e
 ---
 呢次旅程安排得輕鬆唔使諗咁多，既可以悠閒享受峇里島嘅度假氣氛，又可以探索知名景點、秘境同文化，不得不講：**Klook 真係自由行玩家嘅好幫手！**
 

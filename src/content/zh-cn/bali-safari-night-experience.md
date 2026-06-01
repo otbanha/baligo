@@ -13,7 +13,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7350b0aa61ea1a86594fde6e5db46812.jpg'
 originalUrl: 'https://vocus.cc/article/69131b8dfd89780001c8e3c4'
 lang: zh-cn
-_srcHash: bf6927791cc7915081c0888ee1116a88
+_srcHash: 66e2e5828f4f30b9084aee19499737d3
 ---
 
 想要在巴厘岛来一场与众不同的动物邂逅吗？Bali Safari & Marine Park 绝对是亲子旅游的首选！这个结合野生动物观赏、互动体验与度假住宿的园区，能让你与动物们近距离接触，创造难忘的回忆。本篇详细整理Bali Safari的完整玩法，包括夜宿攻略、必看表演与亲子活动建议。

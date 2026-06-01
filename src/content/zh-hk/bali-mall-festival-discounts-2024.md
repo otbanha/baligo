@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/676c1649fd89780001b14110'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: a4116ae8ea5a23202c6f596ff5e79b1a
+_srcHash: d71a85097f6bde4261b1a231da604f14
 ---
 
 ## 峇里島購物中心節日狂歡，超值折扣同精彩活動！

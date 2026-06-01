@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1fe96274e662eb94f29890119c8abcc0.jpg'
 originalUrl: 'https://vocus.cc/article/6746742bfd897800018d4906'
 lang: zh-hk
-_srcHash: 0fb51b06feb113cbc5b08fe9626204fc
+_srcHash: f2ed35859feee7fc27a0fc007c597fee
 ---
 
 峇里島一直係熱門嘅旅遊勝地，而針對年長者嘅旅遊需求，好多景點同活動都十分友善且舒適。上一集我哋介紹咗帶長輩去峇里島嘅一啲注意事項以及必備物品，錯過嘅朋友可以點擊[呢度](/blog/bali-elderly-travel-guide/)。

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/678d9408fd89780001529ad2'
 category:
   - 住宿推薦
 lang: zh-hk
-_srcHash: 50e407d4421670515f118d6110d94f3e
+_srcHash: 53a9b46b9dd4d952e785ff73380ceeaf
 ---
 
 喺峇里島熱鬧嘅水明漾區，有一處令人驚艷嘅隱藏天堂：**超越無限套房酒店**（Beyond Infinity Suites）。呢度結合咗現代化設施同地道嘅峇里島風情，讓每一位旅客都能享受到豪華與舒適嘅極致體驗。不論係享受蜜月、家庭度假，定係嚟一場放鬆嘅療癒之旅，呢度都能滿足您嘅需求！✨

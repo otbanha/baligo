@@ -31,7 +31,7 @@ agoda_star_rating: 5
 latitude: -8.843924522399902
 longitude: 115.12069702148438
 lang: zh-cn
-_srcHash: 9e9f5bb233d43acb9b502308a76eef91
+_srcHash: 063c865ab786ffc74a1da1a24c811799
 ---
 
 如果巴厘岛有一间酒店，是所有顶级奢华旅宿的「天花板」，那毫无疑问就是「宝格丽度假村」 Bvlgari Resort Bali。

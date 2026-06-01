@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_be2045caad5454e6a13a7441774fca50.png'
 originalUrl: 'https://vocus.cc/article/65afb7bbfd897800017023b4'
 lang: en
-_srcHash: 08db2a8ca761523c110cdad6ebeb960c
+_srcHash: 965125670ef4283e39dd8700ad842c26
 ---
 Nusa Dua is a resort area in southern Bali, famous for its array of luxurious beachfront five-star resorts and hotels.
 

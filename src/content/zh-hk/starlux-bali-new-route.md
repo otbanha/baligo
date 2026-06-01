@@ -23,7 +23,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: zh-hk
-_srcHash: 56ad7d33305393bb17f1f093fea82474
+_srcHash: 74364af26afe130e315903b7a9874490
 ---
 
 最近航空圈又有一則讓人眼前一亮嘅消息——星宇航空即將正式開航「台北－峇里島」直飛航線，已經唔係「空穴來風」嘅消息啦！

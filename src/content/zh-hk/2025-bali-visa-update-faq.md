@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/65a7f34dfd897800010017db'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: f7d1b3c21dacfa2f8ac8658bc27e6afd
+_srcHash: 06a9520bc5be4fc50f523fb9b101d817
 ---
 
 印尼政府從2024年一月七日起，將簽證類賦予新嘅編號，並引入咗新嘅旅遊同商務簽證類型同停留期限。一共有八種簽證類別，包含咗投資簽證同退休簽證等。詳細請睇到最後。

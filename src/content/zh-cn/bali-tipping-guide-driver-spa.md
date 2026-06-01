@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6206cbc9c7b306c1dac12d23a5b46f11.png'
 originalUrl: 'https://vocus.cc/article/663a126bfd89780001390b63'
 lang: zh-cn
-_srcHash: 28b99e8010be94beffa8fb653f539a48
+_srcHash: ea7fc4f95f5c1b259f9d845d241dfdfd
 ---
 
 ## 小费怎么给？

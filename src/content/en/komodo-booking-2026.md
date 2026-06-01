@@ -31,7 +31,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: d6cb7e67c28b2721b696d20a8075cf4b
+_srcHash: 7c90a27f09f5ed09d5e8beea6059bcdd
 ---
 
 If your bucket list includes the prehistoric Komodo dragon or the dreamlike Pink Beach, this 2026 update might disrupt your plans. To protect this fragile paradise, the Indonesian government has officially implemented strict visitor limits at Komodo National Park. The days of arriving at the dock and hopping on a boat spontaneously are now history. Starting 2026, every encounter with these majestic creatures requires precise reservations and advanced planning.

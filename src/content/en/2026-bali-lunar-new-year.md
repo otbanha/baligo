@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/698202dcfd89780001016bf7'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 16dd388a489070f09af39a518d58c3d5
+_srcHash: 90e1147bea467ba7218483d02935e815
 ---
 Here’s your guide to Bali’s Lunar New Year celebrations:
 

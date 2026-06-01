@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/69379606fd89780001607b4b'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 460e7572a3f2702899aa0cf035ed896f
+_srcHash: 30da34127bdb0012bb8de0d97fb29688
 ---
 
 計劃年底或隔年年初去峇里島嘅讀者，最近有冇睇到我哋喺[Facebook群組](https://www.facebook.com/share/p/1DCH98qzUf/)公佈嘅印尼BMKG（印尼氣象氣候暨地球物理局）最新公告？呢個係關於「十二月底到隔年一月初」嘅強降雨提醒，亦係每年雨季中最值得留意嘅一段時間。

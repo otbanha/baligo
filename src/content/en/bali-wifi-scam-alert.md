@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/68593269fd897800012cea64'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 7e7c4aacef88f01a05856598023ce78a
+_srcHash: ae6a611cd85c1e5f05681070644031cc
 ---
 
 **"Requesting to Share Your Phone's Hotspot"** could be a scam or inappropriate behavior, especially in public places or tourist areas. It's wise to stay alert when encountering such requests, particularly in crowded public spaces! Here are some common scam or risk scenarios:

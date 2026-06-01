@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e0fee6b09834203d2ea933ea0d4c7de1.jpg'
 originalUrl: 'https://vocus.cc/article/68bacc2ffd897800011175a7'
 lang: zh-cn
-_srcHash: ad1696e2dedd95733e6b45e2c006dc75
+_srcHash: be8b4bc58149dea15a7fa7d999c5db4a
 ---
 
 在巴厘岛，大部分的海滩俱乐部或丛林俱乐部虽然气氛热闹，但往往缺乏 **儿童友善的设施**，因此对于有小朋友的家庭来说并不那么方便。

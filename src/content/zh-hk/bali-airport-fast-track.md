@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65bfadeffd89780001e1daf0'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: 7770e4fec1babb960efb695bc07b3c76
+_srcHash: 650dcda601c95b92c108fc5c752a6883
 ---
 
 峇里島，呢個被譽為天堂嘅度假勝地，吸引住無數遊客嘅到來。然而，隨住旅遊業嘅發展，機場嘅繁忙程度亦都隨之增加。好多旅人成日都會煩惱於抵達機場後嘅長時間等待，然而，2024/02/02我哋嘅社團朋友「DC」有咗一次唔同嘅經驗，佢成功喺落機後25分鐘內從峇里島機場出關！

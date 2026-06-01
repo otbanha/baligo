@@ -116,20 +116,26 @@ function md5(text) {
   return createHash('md5').update(text).digest('hex');
 }
 
-// Hash only translatable content — strip non-translatable metadata so that
-// updates to images, slug, dates, or update marker don't invalidate the cache.
+// Hash only translatable content — only title, description, and body text.
+// Frontmatter field ordering, heroImage, dates, tags, slug, etc. are all ignored.
 // IMPORTANT: when changing this function, also update scripts/migrate-src-hash.mjs
 // and run `node scripts/migrate-src-hash.mjs` to re-sync all translation _srcHash,
 // otherwise the next translation run will re-translate all files unnecessarily.
 function contentHash(text) {
-  const stripped = text
-    .replace(/^heroImage:.*$/m, 'heroImage: __img__')
-    .replace(/^slug:.*$/m, 'slug: __slug__')
-    .replace(/^update:.*$/m, 'update: __update__')
-    .replace(/^pubDate:.*$/m, 'pubDate: __pubDate__')
-    .replace(/^updatedDate:.*$/m, 'updatedDate: __updatedDate__')
-    .replace(/^!\[.*?\]\(.*?\)\s*$/gm, '');
-  return md5(stripped);
+  // Split frontmatter and body
+  const fmMatch = text.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
+  if (!fmMatch) return md5(text);
+  const fmText = fmMatch[1];
+  const body = fmMatch[2];
+
+  // Extract only title and description from frontmatter
+  const title = (fmText.match(/^title:\s*(.+)$/m) || [])[1] || '';
+  const desc  = (fmText.match(/^description:\s*(.+)$/m) || [])[1] || '';
+
+  // Strip inline images from body
+  const cleanBody = body.replace(/^!\[.*?\]\(.*?\)\s*$/gm, '');
+
+  return md5(`title:${title}\ndesc:${desc}\n---\n${cleanBody}`);
 }
 
 /**

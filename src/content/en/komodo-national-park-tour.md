@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/66b779d9fd89780001baf625'
 category:
   - 遊記分享
 lang: en
-_srcHash: 40bd2b79ea17dd91bf024e292f175e19
+_srcHash: 7ef4f371e36755fcbe866ba258ce6965
 ---
 
 > The following content was provided by fellow traveler [Astrid Chang](https://www.facebook.com/share/p/LCk9JJoM562KcpHb/) and rearranged by us:

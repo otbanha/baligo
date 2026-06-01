@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 79a3dcc8758b81c917cd753f2bdb3edb
+_srcHash: 9effb04c42b7ca55f1c14ef76887d0df
 ---
 
 来巴厘岛玩，买伴手礼这件事真的会让人头很大。木雕、蜡染布、香氛蜡烛、银饰⋯⋯每个艺品市集走一圈，东西多到不知道该带什么回家。但说实话，这些观光区的纪念品摊，当地人自己根本不会去买。

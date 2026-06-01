@@ -24,7 +24,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: c59afaad8bf39abcebde84afb000ba2a
+_srcHash: 21e36657e3af44e7390a67aeab650e3f
 ---
 準備好執行李，去心目中嘅度假天堂未？根據 TripAdvisor 嘅評選，峇里島喺 2026 年依然高居全球最受歡迎嘅旅遊目的地榜首。然而，呢個「神明之島」近來頻頻登上國際媒體版面，除咗無可取代嘅美景與文化外，逐漸惡化嘅「垃圾危機」亦引發咗全球旅客嘅關注。
 

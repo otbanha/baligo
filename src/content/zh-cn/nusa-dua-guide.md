@@ -13,7 +13,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_be2045caad5454e6a13a7441774fca50.png'
 originalUrl: 'https://vocus.cc/article/65afb7bbfd897800017023b4'
 lang: zh-cn
-_srcHash: 08db2a8ca761523c110cdad6ebeb960c
+_srcHash: 965125670ef4283e39dd8700ad842c26
 ---
 
 努沙杜瓦（Nusa Dua）是巴厘岛南部的一个度假区，以其豪华的滨海五星度假村/酒店林立而闻名。

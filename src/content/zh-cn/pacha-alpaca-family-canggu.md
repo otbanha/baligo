@@ -17,7 +17,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: zh-cn
-_srcHash: 17e50fa9576dc4b3dbbd9d93fb46f51f
+_srcHash: d988354bcb38dd869eef05564ac8389c
 ---
 
 如果你正在计划一场充满乐趣和教育意义的亲子旅行，巴厘岛Nauru Creative City的 **Pacha Alpaca 羊驼互动体验** 绝对是家庭出游的完美选择！这个位于 Nuanu 自然保护区（坎古以北）的景点，不仅能让孩子们与可爱的羊驼亲密接触，还能让全家人在大自然的怀抱中享受一段宁静而难忘的时光。

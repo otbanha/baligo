@@ -37,7 +37,7 @@ shuffle_h2: false
 embeds: []
 update: 2026/05/22
 lang: zh-hk
-_srcHash: a2d4817a2ef8fdbd41b1da0fbb73dace
+_srcHash: 18d90ccc69d3edf507bcb178e23779ec
 ---
 
 峇里島嘅五星酒店多到令人選擇困難。 烏布有 [Capella](/blog/capella-ubud-luxury-resort/)、烏魯瓦圖有 [Alila](/blog/alila-villas-uluwatu-bali/)、努沙杜瓦有 [Apurva Kempinski](/blog/apurva-kempinski-bali-nusa-dua/)…… 但 2026 年最令人驚喜嘅，係一間起喺沙努爾嘅全新度假村——**The Meru Sanur**。

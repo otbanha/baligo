@@ -21,7 +21,7 @@ agoda_star_rating: 5
 latitude: -8.80953311920166
 longitude: 115.10897064208984
 lang: zh-cn
-_srcHash: ab58a3aedf918f5d2f930aec5b559b9e
+_srcHash: 6bab9cb0db599b70818f75ff069ec304
 ---
 
 ## 巴厘岛乌鲁瓦图丽笙布鲁酒店：悬崖上的奢华秘境，拥抱印度洋的绝美风光，荣获「2023 Travelers' Choice」大奖

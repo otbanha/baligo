@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/691519c0fd8978000148c3d5'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: e077cd7efb1dea5c4787980d95a4de81
+_srcHash: c91524a62f2954dfb298588289ea66ee
 ---
 ## 數據會講嘢：峇里島嘅壓倒性勝利
 

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/668a065ffd897800018d4630'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 0ddf4a68e5f8d2abff7ef2d34dc4e612
+_srcHash: 12e515cd3698627b1072db8c6b00fc43
 ---
 
 > 以下内容由团友[潘奕勋](https://www.facebook.com/share/p/axuYs6T1uaWoBsXp/?mibextid=A7sQZp)提供

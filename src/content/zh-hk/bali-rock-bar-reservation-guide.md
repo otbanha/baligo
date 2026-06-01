@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bc5effe6be71d08b10556ee097f70753.jpg'
 originalUrl: 'https://vocus.cc/article/67270573fd89780001adf758'
 lang: zh-hk
-_srcHash: de039cea340ef5537a1cdbc9449181b4
+_srcHash: 2bc919fd64a630edd64532fd8936fcb5
 ---
 位於峇里島 Ayana 度假村嘅 Rock Bar，係峇里島必訪嘅海邊酒吧，結合懸崖同海景嘅壯麗風景，不論係日落時嘅燦爛美景，定係夜晚嘅星空派對，都令人流連忘返！
 

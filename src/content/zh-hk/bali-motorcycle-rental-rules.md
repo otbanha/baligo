@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/691fffbdfd89780001aab6d6'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: c2014fb9849a067061d8a4bcaf1cbfa1
+_srcHash: 1dbc40af94ee46c21de7d018afe0e0ad
 ---
 ## **【峇里島進入節慶前夕：警方展開大規模交通稽查「斑馬行動」】**
 

@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_52c318bfc1e555972da69f8824af8171.jpg'
 originalUrl: 'https://vocus.cc/article/679370fefd89780001df01e0'
 lang: zh-hk
-_srcHash: 781fa7d2ea7ffa1b4c70cb903bdfa612
+_srcHash: 37ac97c65dc757ce8ea2aa7a2f9f5f78
 ---
 
 > 以下內容改編自團友 [I-Hsuan Chang](https://www.facebook.com/share/p/1A2YKPcp52/) 分享遊記：

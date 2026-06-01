@@ -31,7 +31,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 8a743bea14e87de60aa9ca7002338086
+_srcHash: 0539aa9a3202e6b26a52b70bb6555916
 ---
 
 # Indonesia's Stink Beans: The Surprisingly Addictive Green Magic Beans

@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_37074e1d1a21b1fd29d645049b4cd60e.jpg'
 originalUrl: 'https://vocus.cc/article/65fd4f9cfd8978000157e5ff'
 lang: zh-cn
-_srcHash: e86a03839d8fb34fe51b274124cd58ac
+_srcHash: d98c46111dc0083bf1baf132d03466ac
 ---
 
 我们前不久才发了一篇「[巴厘岛500个热门景点](/blog/bali-top-500-attractions/)」，有读者来函说我们这篇介绍的景点数量太惊人，能不能发一篇精华版的？最好能在一趟巴厘岛之旅就能跑遍的精华景点，标志性地标。

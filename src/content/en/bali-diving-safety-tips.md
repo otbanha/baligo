@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/6855271afd897800016d3b6a'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 48696f6b3c8c97845a97ffb75e418b74
+_srcHash: 2bb505e944fe9f9bb35900f49d62f772
 ---
 Participating in water activities like diving and snorkeling is a top choice for many travelers in Bali. However, since these activities often take place at the beach or on offshore islands, it's impossible to bring bags onboard, let alone a safe. Thus, 'How to store passports, wallets, and phones?' becomes a frequently asked question.
 

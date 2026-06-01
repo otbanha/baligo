@@ -24,7 +24,7 @@ agoda_star_rating: 5
 latitude: -8.6953763961792
 longitude: 115.16270446777344
 lang: zh-cn
-_srcHash: 45da260c8d37c995b5165e0dc6ee8802
+_srcHash: 94ac0af7570463d61d0c4caa410d2b1a
 ---
 
 ## 【开箱住宿】Hotel Indigo Bali Seminyak Beach｜巴厘岛最魔幻的海滩度假村，六家餐厅怕你饿到！

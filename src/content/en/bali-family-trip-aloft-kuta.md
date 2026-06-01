@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/66266976fd89780001598b10'
 category:
   - 遊記分享
 lang: en
-_srcHash: 4c9b09cc7a141336c5d7326af59550ea
+_srcHash: c61a55c2820e67e606fdfe5dc2ac0644
 ---
 
 【Bali Travel Diary】Our Family of Four, Two Adults and Two Kids, First Two Nights' Accommodation in Bali

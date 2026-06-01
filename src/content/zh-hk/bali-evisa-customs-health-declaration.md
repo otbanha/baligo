@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e369e6351905ce7e76db2352f23292c8.png'
 originalUrl: 'https://vocus.cc/article/689db40ffd89780001eb2f3e'
 lang: zh-hk
-_srcHash: 50a82486ec5bfc9bbe062cb7db4235d3
+_srcHash: 0005aed3c3428def9bdb498567fb20e7
 ---
 
 ### 印尼入境新措施🇮🇩 重要通知！2025/8/18起全面改用「All Indonesia」單一申報系統

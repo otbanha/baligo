@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/67656acbfd89780001f44494'
 category:
   - 簽證通關
 lang: en
-_srcHash: 48a855c6a757af66af13d7a6121936c1
+_srcHash: 28cb7212f78fe322cb52c936d858cdbb
 ---
 
 The Indonesian Immigration Office announced new regulations adjusting visa fees on **December 17, 2024**, covering all categories from short-term tourist visas to permanent residence visas. Fees will be calculated incrementally based on the length of stay. This article will help you understand how these changes may affect travelers planning to visit Bali and other parts of Indonesia.

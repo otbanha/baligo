@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e50b47be8b5a445ea5822ae221250f22.jpg'
 originalUrl: 'https://vocus.cc/article/675e8258fd89780001f86f69'
 lang: zh-hk
-_srcHash: 8585e1ab8331aef54a118b1aaaaa9722
+_srcHash: c0142a43ae4a99aa0990567724888d6d
 ---
 
 峇里島烏布出名嘅**聖猴森林（Monkey Forest）**，因為發生咗一單令人心痛嘅悲劇，而家已經無限期關閉。呢個以自然美景同埋頑皮猴群聞名嘅景點，而家變得異常冷清。呢件事唔單止引發咗各界對旅遊安全嘅關注，亦都逼使管理方加快檢視安全措施，確保遊客將來嘅安全。

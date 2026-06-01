@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6596cae5fd89780001f43bff'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 7f7d4c48e5da2a155d9c0a5673c24f8a
+_srcHash: 1b3bd445d5d2a8b6ae0639745db71ab8
 ---
 
 **事先线上申请电子签证者，将可使用自动通关系统啦！**

@@ -29,7 +29,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: ef33b09a98d67ac82788f8059f08bfd5
+_srcHash: 20f0f0f655f1a4f0d321fe6a3e98720f
 ---
 
 When visiting Jimbaran in Bali, many people first think of seafood barbecues and sunsets. But if you're looking for a more relaxed, vacation-like spot that’s perfect for couples, friends, or even families to spend an entire day, I highly recommend Locca Sea House by the beach.

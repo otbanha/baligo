@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3889e90715db99da85399e3bceaa9c3b.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b70fd897800013a940a'
 lang: zh-cn
-_srcHash: 24514c3998d5cba46e2373964ce7c856
+_srcHash: deb116ebcc98e0d309d353756560d974
 ---
 
 巴厘岛最具特色的网红/网红仙女美照荡秋千，Bali Swing/Aloha Swing必玩！巴厘岛行程规划/心得分享。鸟巢拍照、秋千空拍达成

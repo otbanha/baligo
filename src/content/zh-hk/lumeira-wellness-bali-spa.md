@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/67a0a335fd897800012bceee'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: c1318d636f11ca17ac2d76c6fe54e08c
+_srcHash: 2f6e562b8ce3af2bed594de14544c148
 ---
 ### 特色設施與服務
 

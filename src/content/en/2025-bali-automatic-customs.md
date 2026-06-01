@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/65c1defcfd89780001f79bfd'
 category:
   - 簽證通關
 lang: en
-_srcHash: 87c753f361abc7f8050f943a102a0c5f
+_srcHash: 97083fce0d5810fae52a804187d6d01c
 ---
 
 ## What is Automated Immigration?

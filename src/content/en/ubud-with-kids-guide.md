@@ -31,7 +31,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1779867558071-family-guide
 originalUrl: 'https://vocus.cc/article/659cf4a5fd89780001d6fb69'
 update: 2026/05/22
 lang: en
-_srcHash: 644c792cc77d1495cf69623aef852e8c
+_srcHash: 2092e022a9784b507676be2169bd1cf7
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_4643327dd1cf07ff42f5f2aca91dae7c.png)

@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e0fee6b09834203d2ea933ea0d4c7de1.jpg'
 originalUrl: 'https://vocus.cc/article/68bacc2ffd897800011175a7'
 lang: zh-hk
-_srcHash: ad1696e2dedd95733e6b45e2c006dc75
+_srcHash: be8b4bc58149dea15a7fa7d999c5db4a
 ---
 喺峇里島，大部分嘅海灘俱樂部或者叢林俱樂部雖然氣氛熱鬧，但往往缺乏 **兒童友善嘅設施**，所以對於有小朋友嘅家庭嚟講並唔係咁方便。
 

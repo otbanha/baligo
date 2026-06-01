@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9034b3eade783ad2a93a96720a8df57.jpg'
 originalUrl: 'https://vocus.cc/article/69aa4faefd897800016bbeda'
 lang: zh-hk
-_srcHash: 21aab81115f94c437edd1ae232058525
+_srcHash: b12362af44c382d5350a6b477f9935c7
 ---
 
 如果你正在搵 **峇里島五星酒店優惠**，最近出現咗個相當吸引嘅優惠方案。

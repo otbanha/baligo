@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/681ed810fd89780001472eb1'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: feb884a72198a20b385c7452abb8120c
+_srcHash: 154f774b55110e6875f694fc5bc0f1c9
 ---
 **「喺峇里島，每一啖食物都係香料交響樂！」**
 

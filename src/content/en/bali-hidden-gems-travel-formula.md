@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4c28d02843bee1e1ce0445f4d73c4936.jpg'
 originalUrl: 'https://vocus.cc/article/68a00fc1fd89780001f621c5'
 lang: en
-_srcHash: e2a59a49c7a9f98b2e35910f47ff6033
+_srcHash: cd8c6e011ec379769612480fbb9d066c
 ---
 
 [Whenever friends ask me, 'What are the must-visit spots in Bali?' I always counter with, 'What kind of travel experience are you looking for?' Stop blindly following guides! The secret to a great Bali trip is understanding what you truly want!](/blog?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6)

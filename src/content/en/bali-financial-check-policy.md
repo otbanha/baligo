@@ -23,7 +23,7 @@ originalUrl: 'https://vocus.cc/article/695d282afd89780001d7d607'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 978ee9623f503f36ab8976e9ee2c6f8c
+_srcHash: 98d208d414f7cf798cbd21cd612a88f1
 ---
 
 Just as the first workweek of 2026 began, the Bali provincial government announced a new policy direction that could impact global travelers, setting a different tone for the new year.

@@ -14,7 +14,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_05890dda0733f98bc39e0c7522780
 originalUrl: 'https://vocus.cc/article/67b0a910fd89780001798c4e'
 update: 2026/05/22
 lang: zh-hk
-_srcHash: cc40cada40188347f2a3726f1708ce52
+_srcHash: 379bf670e7b72ae565b3951bb3745655
 ---
 
 峇里島一直係親子遊嘅熱門目的地，而烏布更加係其中一個充滿文化同自然魅力嘅區域。烏布以其寧靜嘅稻田風光、傳統藝術同豐富嘅親子活動聞名，非常適合一家大細一齊探索。呢篇攻略會為你詳細介紹暑假/寒假帶小朋友嚟烏布旅遊嘅注意事項，並推薦最啱嘅親子活動同景點。

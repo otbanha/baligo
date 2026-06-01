@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f48a7964b7329cadd4c36a4ad63e845a.jpg'
 originalUrl: 'https://vocus.cc/article/64e9e8e9fd89780001f28d6b'
 lang: zh-hk
-_srcHash: e981c68e24e93c949631ac9167a24ac4
+_srcHash: 5d44933e345425273e625c92510bd6a9
 ---
 
 峇里島作為印尼最受歡迎嘅旅遊勝地之一，以其壯麗嘅海灘、文化遺產同獨特嘅氛圍吸引咗無數遊客。然而，喺呢片令人嘆為觀止嘅島嶼上，有一個隱藏嘅寶地：**「彭里普蘭（Penglipuran）」村莊**，正等緊遊客去探索。

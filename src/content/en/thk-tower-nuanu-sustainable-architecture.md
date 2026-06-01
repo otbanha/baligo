@@ -21,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/67a2b251fd897800013ccad4'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 10aaa383ff0f0e5f62afa68d20aa0517
+_srcHash: f72c5b36d4f81057db2f8f3868729dff
 ---
 
 ## **Exploring THK Tower: The Birth of Bali's New Landmark**

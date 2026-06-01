@@ -10,7 +10,7 @@ originalUrl: 'https://vocus.cc/article/65742746fd89780001135982'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 0762de4a8df5d88d43084990cd1b069f
+_srcHash: af205f5bf322819e33e5e0f910c7749c
 ---
 
 據中央社報導，12月8日嘅消息，印尼正在考慮對來自20個國家嘅訪客實施免簽證政策，其中包括台灣。

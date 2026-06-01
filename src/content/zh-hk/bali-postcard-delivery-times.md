@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 7a166cd08a4495c58a6b273f333cf6c1
+_srcHash: 1cacde9c52f32e42bb58eed28746cd7c
 ---
 你係咪都試過喺峇里島旅行時，好興奮咁寫咗幾張明信片，放入郵筒或者請酒店代寄，結果返到香港等咗好耐好耐，都始終唔見明信片嘅蹤影？
 

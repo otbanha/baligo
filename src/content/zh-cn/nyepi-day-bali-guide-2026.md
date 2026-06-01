@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/698f077efd89780001e7294f'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: db6deebb248860011e81881d807e9842
+_srcHash: 13685e2272668fe0b4c833d6d1540f75
 ---
 巴厘岛静居日（Nyepi Day），这可是巴厘岛最独特、最神圣的节日之一，岛上瞬间从超热闹变成「全世界最安静的一天」，超有仪式感！
 

@@ -31,7 +31,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 49e01a36425b32044a54337bbd8a3c95
+_srcHash: bbd76b0be2a2eec903157184bdeb8ad3
 ---
 
 Planning a Bali vacation? Whether you're soaking up the artsy vibes in Ubud, surfing in Kuta, or admiring breathtaking ocean views at Nusa Penida, safety should always be your top priority while traveling!

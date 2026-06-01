@@ -21,7 +21,7 @@ category:
   - 旅行技巧
   - 遊記分享
 lang: en
-_srcHash: 27e3c1125bd1830bf51fd950f8e532a8
+_srcHash: aad6c8100db5e4dd4fefcba72ba6bcfe
 ---
 
 During Taiwan's Qingming holiday in April, taking 3 days off can extend your break to a total of 9 days. Many plan to travel abroad during this time, but Indonesia/Bali might not be the best destination for the 2025 Qingming holiday!

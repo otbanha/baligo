@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66b379cefd89780001ef4899'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: eb9d4420973f57865f9a532071277829
+_srcHash: 70de6169fdf38ef0da33216e4c88f5d6
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6fb17aeb28479bd7b7d5a57f318dea63.jpg)

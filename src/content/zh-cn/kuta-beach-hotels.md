@@ -30,7 +30,8 @@ tags:
   - 巴厘岛自由行
   - BaliTravelTips
 update: 2026/05/22
-heroImage: https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
+heroImage: >-
+  https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
   https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
   https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
   https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
@@ -39,7 +40,7 @@ private: false
 shuffle_h2: true
 embeds: []
 lang: zh-cn
-_srcHash: 539156b7cb81b34a3981720270143d6f
+_srcHash: 760cb7d56628d99a1d88b01bc324b148
 ---
 
 在巴厘岛，库塔（Kuta）几乎是所有旅程的起点。

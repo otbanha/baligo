@@ -17,7 +17,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_49f9c36a21512cf66bd91a77ff53d
 originalUrl: 'https://vocus.cc/article/682c01fffd8978000182fc13'
 update: 2026/05/22
 lang: zh-cn
-_srcHash: cc381c022ab032f7502d9be5112e91cf
+_srcHash: 58a6177ce06680a5fceed3e80f40481e
 ---
 
 如果你跟我一样，不是个爱花时间做功课的旅人，但又想把巴厘岛的美景一次看个够，那我真心推荐把Klook一日游排进你的行程里！这趟七天六夜的巴厘岛自由行，我们总共安排了三次Klook一日游（第2天、第4天、第6天），每一次都玩得既轻松又精彩～真的是「上车睡觉、下车拍照」的极致体验，想分享给也想轻松玩巴厘岛的你 ❤️

@@ -12,7 +12,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_9fc2df4aca8629a249416c2894c825cb.jpg'
 originalUrl: 'https://vocus.cc/article/6609003dfd89780001273bee'
 lang: en
-_srcHash: 04c23cf360e4dc853f6b153ad888caaa
+_srcHash: eaa8ef247284476819e9b23318c9d23c
 ---
 
 This Indonesian-Chinese YouTube influencer [[TwoSis赤道女孩](https://www.youtube.com/@twosis%E5%8D%B0%E5%B0%BC%E5%A7%90%E5%A6%B9%E8%8A%B1)] shares her travel experiences and recommended spots in Ubud, Bali through her online videos.

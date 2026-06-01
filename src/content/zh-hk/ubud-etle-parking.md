@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 314ee3532a42ba13bbf8d1afef23bff5
+_srcHash: d7e10451009cc588cd9a97ce22084b9d
 ---
 
 去過烏布玩嘅人都知，嗰度嘅路有幾窄。遊客多、車多，偏偏好多人仲鍾意直接將車停喺馬路邊——咁就大鑊喇，4月28號起，警察開始認真喇。

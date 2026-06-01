@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6727b9f6f57b7ae2c320641b63c0569c.jpg'
 originalUrl: 'https://vocus.cc/article/68578b01fd89780001dd5208'
 lang: zh-cn
-_srcHash: 09520482ec352ac27c081fb8996cde4e
+_srcHash: 5761b415d06718be558e68c284b070eb
 ---
 
 ## 巴厘岛火山壮景与宁静海岸的完美结合

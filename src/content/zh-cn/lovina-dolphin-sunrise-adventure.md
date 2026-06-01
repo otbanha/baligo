@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3576b4757a6d3a5deaef795069cc866f.jpg'
 originalUrl: 'https://vocus.cc/article/6718dcb7fd897800013bcb4e'
 lang: zh-cn
-_srcHash: 4ca7e36ce4b2e0e171bf09290dec6f02
+_srcHash: ad10e0cc9b3a0b24d1509052425fa482
 ---
 
 以下内容改编自团友 [Feilin Huang](https://www.facebook.com/share/p/15fgq7Bt9T/) 分享游记：

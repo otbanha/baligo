@@ -27,7 +27,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 492355584aaa351550db4e9888e77015
+_srcHash: 237fbcf73d107fd2bc00a4f48ff4d17a
 ---
 
 講真，我自己都覺得 2026 年過得好快。年頭先寫緊寧靜日（Nyepi）嘅報導，轉眼間就已經逼近六月——峇里島一年一度嘅「人潮大爆發季」又要開始喇。

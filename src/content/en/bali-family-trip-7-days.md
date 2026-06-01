@@ -18,7 +18,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: en
-_srcHash: 73b6df6dc687816848a7bbaf5c5dd0db
+_srcHash: 3efea5236ba1d6917fee1afd2fcef9e3
 ---
 
 This travelogue is provided by fellow traveler [Serena](https://www.facebook.com/100004740466944/), documenting a family trip to Bali with 2 kids and 5 adults. During this journey, they spent 7 wonderful days with their guide and driver, Pacung Bali. Through detailed itinerary planning and attraction recommendations, they explored various corners of Bali, savored local cuisine, enjoyed a variety of water activities, and created many precious memories and beautiful photos.

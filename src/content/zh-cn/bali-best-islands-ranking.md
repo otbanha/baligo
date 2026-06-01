@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/6881b9fafd897800011f152f'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: d6f97b3f50f696c928593c10bffc5307
+_srcHash: 9286a7dd96a5b3771ec731165a1d2d9d
 ---
 
 ## 巴厘岛跃升世界前3！《Travel + Leisure》2025最佳岛屿排行揭晓

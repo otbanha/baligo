@@ -31,7 +31,7 @@ tags:
 heroImage: ''
 originalUrl: 'https://vocus.cc/article/6598c6fffd89780001047d76'
 lang: en
-_srcHash: 1d1002b721b898c0b86945ad0246dfa3
+_srcHash: 25fe58ac5d2e03c272f9f690db47992b
 ---
 
 When vacationing in Bali, sudden afternoon thunderstorms or midday heatwaves can be a concern. But don't let the weather ruin your holiday spirit! Beyond its stunning beaches, Bali hides countless sophisticated indoor spaces. Whether you want to shop leisurely in air-conditioned comfort, let your kids burn off energy in a 5-star indoor playground, or experience a serene silver jewelry-making class amidst Ubud's misty hills, these 60 carefully selected indoor options will reveal a refined and comfortable side of Bali.

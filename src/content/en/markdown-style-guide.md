@@ -6,7 +6,7 @@ description: >-
 pubDate: Jun 19 2024
 heroImage: ../../assets/blog-placeholder-1.jpg
 lang: en
-_srcHash: 147f48210b8b11475b2906e03075dd11
+_srcHash: 38218d1e029aad6c007454c7c524b463
 ---
 Here is a sample of some basic Markdown syntax that can be used when writing Markdown content in Astro.
 

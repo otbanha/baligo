@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 66e09933f3b170d857e70ff372a1463d
+_srcHash: 0cebdf694fa613628ff714605a5d1a19
 ---
 
 ## 巴厘岛观光版图大洗牌：中国客夺奖、马来西亚挤下澳洲登顶！

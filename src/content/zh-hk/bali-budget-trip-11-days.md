@@ -16,7 +16,7 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_fc4cd7d779889b43776f8be643f11
 originalUrl: 'https://vocus.cc/article/6795d36bfd8978000139ce96'
 update: 2026/05/23
 lang: zh-hk
-_srcHash: 69778f6ad9c2c33279150fd83e712b27
+_srcHash: eef1d60e68366cec77cc3fb5a683a920
 ---
 
 > 以下內容改編自團友 [高榮繁 分享遊記](https://www.facebook.com/share/p/14kAoJ6sDG/)：

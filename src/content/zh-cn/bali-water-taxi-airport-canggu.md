@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 314d645dd41f20ee0c8d37b87d2f590d
+_srcHash: b219fa34fb319e8bcc27c7c9d4aa582d
 ---
 
 各位热爱巴厘岛的朋友，是不是每次想到要从机场拉到坎古（Canggu），脑中就会浮现塞在车阵中动弹不得的画面？好消息来了！印尼政府正式宣布，将兴建一条从**伍拉·赖国际机场**直达**坎古**的「水路出租车」路线，未来可望避开恼人的陆上交通，**最快30分钟就能抵达**！

@@ -16,7 +16,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-hk
-_srcHash: 27a301f26f388d213922c715fae9680b
+_srcHash: 0f1dbfeed3fa8c245f24b14186f49257
 ---
 
 ### **峇里島諗緊每日觀光稅——會唔會變成「下一個不丹」？**

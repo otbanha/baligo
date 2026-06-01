@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4b8a938dd80f7d576d1292655493c255.png'
 originalUrl: 'https://vocus.cc/article/67278942fd89780001b5fe3d'
 lang: zh-cn
-_srcHash: 61d2fa006ae7529dc6c6fdd18bbcaff1
+_srcHash: 8bef3c5a4e5c75075115b83e9b98cc95
 ---
 
 在美丽的巴厘岛享受海滩的日落时光，谁会想到这美好的时刻可能成为骗子的舞台呢？今天想分享一段个人经历，希望提醒大家在巴厘岛旅行时也要保持警惕，以免落入诈骗圈套。

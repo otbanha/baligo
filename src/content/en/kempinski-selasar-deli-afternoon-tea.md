@@ -29,7 +29,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bdbf1e9814d60a19a2a11d07a7609ac5.jpg'
 originalUrl: 'https://vocus.cc/article/6832c6c0fd897800014776ba'
 lang: en
-_srcHash: 7242541475c4653d62d4b6294d5042f2
+_srcHash: 1e857fc84a61fc962717cb93f690669c
 ---
 
 The afternoon sun gently bathes the coastline of Nusa Dua, Bali, as we arrive by car at **The Apurva Kempinski Bali**. This luxurious resort, built into the hillside, impresses from the moment you enter—with its towering wooden structures, intricate Balinese carvings, and koi fish leisurely swimming in the central pond, surrounded by excited children, the entire space exudes a relaxed vacation vibe.

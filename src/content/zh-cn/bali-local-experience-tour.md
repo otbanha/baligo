@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_583eef972b6e05fc177f7b2fec2b6c51.jpg'
 originalUrl: 'https://vocus.cc/article/666141f9fd89780001c8324c'
 lang: zh-cn
-_srcHash: 95246f366448279fb4306a8f5f488175
+_srcHash: ab1ac93bb9799471f9e2ee54713708ca
 ---
 
 大部分去过巴厘岛，并爱上巴厘岛的旅客，都希望能够深入体验巴厘岛的地道生活，或是来趟非游客的行程，却不知从何下手? 利用一天的时间体验地道生活节奏最佳的地方，就是位在巴厘岛内陆的首府登巴萨（Denpasar）。这篇文章将带你深入探索巴厘岛的地道生活，从当地市场的购物体验，到美丽的河滨公园，再到热闹的夜市。让我们一起走进这片充满魅力的土地，感受最真实的巴厘岛风情吧！

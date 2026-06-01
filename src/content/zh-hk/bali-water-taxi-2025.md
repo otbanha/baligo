@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67617e4efd89780001d9e634'
 category:
   - 叫車包車
 lang: zh-hk
-_srcHash: 745910bff10db09d857a3deaf67e40c2
+_srcHash: 5a41da3fd1adbcd5bac7d68aad159644
 ---
 
 ## 峇里島交通擠塞嘅現狀

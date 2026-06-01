@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4e1dfd668d34e5cebfa1f89eedf23450.png'
 originalUrl: 'https://vocus.cc/article/678603a8fd8978000196ff77'
 lang: zh-cn
-_srcHash: b4dba9023397276ac21f105938182c38
+_srcHash: f059b773320afbb754c650dc27f14d69
 ---
 
 ## 说到「吃到饱」的美食体验，巴厘岛绝对是一个让人惊喜的目的地。无论是丰盛的早餐、午餐还是晚餐，这里的自助餐厅都能满足你的味蕾。更棒的是，有些餐厅还提供「无限畅饮」的饮料选择，尤其是在周日早午餐时段。今天，我们为你精选了巴厘岛33间最佳吃到饱自助餐厅，相信你也会爱上这些美食天堂！

@@ -41,7 +41,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f38352e72943b9cdf16ee7eeccc16a12.jpg'
 originalUrl: 'https://vocus.cc/article/66a4562afd89780001d70329'
 lang: en
-_srcHash: bbf455135d6ac52f36756025969a06c5
+_srcHash: 396906b3edd82de8d92368a6fdd2c549
 ---
 
 Located on the southeastern coast of Bali, Nusa Dua is renowned for its luxurious resorts and exquisite facilities. With its pristine white sandy beaches and crystal-clear turquoise waters, it offers visitors the perfect holiday setting.

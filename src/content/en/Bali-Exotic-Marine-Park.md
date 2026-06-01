@@ -35,7 +35,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: d3633b1de68540c8253b84130ad722da
+_srcHash: 651d9e9bc6bdaa57f6d669a4a0822bab
 ---
 
 What’s the biggest fear when traveling with kids? It’s the feeling of "seeing but not touching." At many attractions, children are confined to the audience seats, watching animal performances from afar, clapping, and that’s it. Honestly, **watching dolphin shows from the audience isn’t special—letting kids interact with dolphins is**. And Bali Exotic Marine Park is exactly the kind of place where children can truly "step into the story."

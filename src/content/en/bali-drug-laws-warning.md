@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/65f8dca4fd89780001b57754'
 category:
   - 旅行技巧
 lang: en
-_srcHash: fbca60f7d401353a3690ceac4c4e3650
+_srcHash: 164b893815225b07ce78299416a2a27d
 ---
 
 Indonesia takes an extremely harsh stance on drug issues, and Bali, as its famous tourist destination, is no exception. Drugs are considered a major social problem here, and the Indonesian government has implemented strict legal measures to combat drug-related crimes.

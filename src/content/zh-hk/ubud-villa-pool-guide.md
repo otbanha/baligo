@@ -23,7 +23,7 @@ heroImage: 'https://images.gobaligo.id/images/2026-05/1777787808185-ubud-villa.p
 originalUrl: 'https://vocus.cc/article/6628f08cfd8978000190a575'
 shuffle_h2: true
 lang: zh-hk
-_srcHash: 72cf5487eded0e01fa508d2cc42e130a
+_srcHash: 9ed22de597a9b432003eab114c15285e
 ---
 
 峇里島烏布係著名嘅藝術同文化中心，擁有眾多古蹟、寺廟、稻田同熱帶雨林，係放鬆身心同探索文化嘅好去處。呢度嘅住宿選擇亦都非常豐富，其中私人泳池別墅深受遊客喜愛。無論你係追求奢華享受嘅度假人士，定係注重性價比嘅旅行者，都能夠喺烏布搵到心儀嘅別墅。

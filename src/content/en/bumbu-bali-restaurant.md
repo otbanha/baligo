@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/64db6b51fd897800013a8d03'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 4efa5be60472e1f5f13bf8da64952d61
+_srcHash: cf39dc69f69a31a696c1a4f81c6a1cce
 ---
 
 A traditional Balinese cuisine restaurant featuring cultural dance performances, ranked #2 on TripAdvisor for dining

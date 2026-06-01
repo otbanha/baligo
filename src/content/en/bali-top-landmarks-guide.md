@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_37074e1d1a21b1fd29d645049b4cd60e.jpg'
 originalUrl: 'https://vocus.cc/article/65fd4f9cfd8978000157e5ff'
 lang: en
-_srcHash: e86a03839d8fb34fe51b274124cd58ac
+_srcHash: d98c46111dc0083bf1baf132d03466ac
 ---
 We recently published an article titled "[Bali's Top 500 Attractions](/blog/bali-top-500-attractions/)", and some readers asked if we could create a condensed version featuring iconic landmarks that can be visited in one trip.
 

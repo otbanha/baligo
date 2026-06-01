@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/665f1689fd89780001afd058'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 20738fa59dcac81074f956fe31cc2889
+_srcHash: 1898bad9e1b87acdb08e5e1da7b1b24c
 ---
 
 > 以下內容由團友​[張萍萍](https://www.facebook.com/zhang.p.ping.3/)提供，並同意我哋改編

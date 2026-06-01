@@ -34,7 +34,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: e2ee01a4b837bd83fe38ed2d8bfc2826
+_srcHash: d02ad24dfa5b6bac230ad9c1028ec777
 ---
 
 If you've recently searched for Bali news, you might have seen scenes like this: garbage bags piled waist-high on the streets, rivers emitting foul odors, people burning waste in open spaces, hundreds of garbage trucks protesting in front of the governor's office...

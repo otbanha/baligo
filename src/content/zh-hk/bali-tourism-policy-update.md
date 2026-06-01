@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/67879faefd89780001b524bc'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 6865a45b500848f0892a824ebf13e571
+_srcHash: 37055e34ac72ef21dbbd1163a1f55043
 ---
 ### 點解會有呢個禁令？
 

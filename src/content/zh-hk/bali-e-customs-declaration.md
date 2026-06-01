@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/68594073fd897800012fa799'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: f0e72261aebe85fbeeaf12fcc52f322e
+_srcHash: 9f8862ab56e55158e6b925254da7d999
 ---
 ## **乜嘢係峇里島電子海關申報表？**
 

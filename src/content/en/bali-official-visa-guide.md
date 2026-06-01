@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 22b2951cc1ad8e5da7b68207f8ed0c2d
+_srcHash: c4d68e52ce62d543675f828f82170bd6
 ---
 
 Bali has long been a paradise for global travelers, but those planning to visit this dreamy island should take note. The Indonesian Immigration Bureau recently announced significant updates to visa regulations, introducing stricter and more detailed definitions of permissible activities for tourists holding 'tourist visas.'

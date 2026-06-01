@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/669148a9fd89780001740e5b'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 8c082f771ab3cd062919a2a0db3cbdbe
+_srcHash: e6558e46b4b332ba94c581fc8fcd69ae
 ---
 
 峇里島呢個絕美嘅旅遊天堂正迎嚟一波令人振奮嘅好消息。對於計劃喺2024年底至2025年初前往峇里島嘅旅客嚟講，呢個係個雙重驚喜！等我哋嚟一探究竟。

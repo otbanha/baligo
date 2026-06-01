@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/6852983dfd89780001d2ebb4'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 703cc390559bcb91fd5269edba92aaff
+_srcHash: 30a2c65984e972a06977f04f3322ca6d
 ---
 ### **⏰ Details of the Volcanic Eruption**
 

@@ -27,7 +27,7 @@ update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8bf335fa809f107688196cf263847645.jpg'
 originalUrl: 'https://vocus.cc/article/671da7a4fd89780001b9fac3'
 lang: en
-_srcHash: 58adb5d1a860c936e415d2cd82794ba9
+_srcHash: 5f6a501477529c6c253ba307e063e2f8
 ---
 (Friendly reminder: At the time of posting, VietJet Air still had many zero-dollar ticket promotions available. Interested friends should check them out!)
 

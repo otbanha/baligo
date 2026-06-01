@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a0202a8fecbbe830196c5755e35cdd7b.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b57fd897800013a8e48'
 lang: en
-_srcHash: f443f38419b82e7eaf52e443c1833810
+_srcHash: a6c793f0360273057975e22ae2961cbc
 ---
 
 If you're planning your Bali itinerary and looking for a place that's perfect for Instagram photos, serves top-notch food, and offers a relaxing all-day lounging experience, then definitely add this spot to your list!

@@ -20,7 +20,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/4tVq4SFfjMw'
 lang: en
-_srcHash: 97054a14515bba2ef80eb128b10b5292
+_srcHash: 4e651050603a5ce6c277a12e90532e71
 ---
 
 Canggu has become one of the most beloved areas among foreigners in Bali! What exactly makes Canggu so charming? How should you explore Canggu? Plus, we’ll share 50 must-visit spots and cafes in Canggu. Check out Jay’s guide and make sure to watch till the end!

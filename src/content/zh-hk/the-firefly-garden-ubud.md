@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_acc84e91c5ed724c93e3e9a11109338d.jpg'
 originalUrl: 'https://vocus.cc/article/68aa8849fd8978000171256a'
 lang: zh-hk
-_srcHash: 9c75e6e8615f85c35ab995eecf07f79d
+_srcHash: 65cafecc8491186ccc8c998fb16bd6c0
 ---
 
 ## 峇里島螢火蟲花園榮獲生態旅遊大獎

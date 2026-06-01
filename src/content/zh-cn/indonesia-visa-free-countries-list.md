@@ -15,7 +15,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-cn
-_srcHash: e54181fc1d36dbb7b8ea4cb34eb30486
+_srcHash: 06e84b9a1437cbda9ace1c2cca59fb2a
 ---
 
 印尼总统佐科威（Joko Widodo）近日宣布，13个国家公民可以享受免签证进入印尼的待遇。这项政策是基于互惠原则以及对印尼国家经济利益的考量，希望借此增加国家收入，支持国内经济发展。

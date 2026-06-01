@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/679acca0fd89780001f544a0'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 8434d03d7fd6495635a119d275db8c5b
+_srcHash: 3c3c5eaef1257a3040e929f048c484e6
 ---
 
 [🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)

@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/66892d20fd8978000183776c'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 9e031ceeaa370c60503401a06fc9698b
+_srcHash: 40e3b82480604ac1fd017e68dc864998
 ---
 
 ## **Get Ready for a Jungle Adventure!**

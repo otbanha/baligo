@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_aa116183dc1f233af038a641a45f065c.jpg'
 originalUrl: 'https://vocus.cc/article/66adfb9afd89780001f62df1'
 lang: zh-hk
-_srcHash: 9d2442cc69ad953dbedf3038feef0fc8
+_srcHash: d43de27130d9cb356a74a1d8d30d8294
 ---
 
 ![連接藍夢島 - 金銀島的 Yellow Bridge](https://images.gobaligo.id/vocus/vocus_488625e06cb2ee581533bcb166d2b842.jpg)

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/64db6b51fd897800013a8d03'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 4efa5be60472e1f5f13bf8da64952d61
+_srcHash: cf39dc69f69a31a696c1a4f81c6a1cce
 ---
 
 巴厘岛传统美食餐厅，还有巴厘岛的舞蹈表演，更是TripAdvisor推荐第二名的美食餐厅

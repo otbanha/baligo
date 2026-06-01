@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67775955fd89780001fec8cc'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: f460da0acbfcc9dbee3e37c9ee2077c7
+_srcHash: b1620b97db9664b4af60b8bf21a5c0b4
 ---
 
 ## **更新的观光数据显示：印尼旅游业迎来五年来最繁忙的一年**

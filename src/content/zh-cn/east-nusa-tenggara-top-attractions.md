@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ffc777e5dd5ae6c10a448209f0dfb9cf.jpg'
 originalUrl: 'https://vocus.cc/article/66f8d419fd89780001458d42'
 lang: zh-cn
-_srcHash: 9a65069a64cc90b131e101d15356f73d
+_srcHash: 0109b6691915a6854a6260bcced922a7
 ---
 
 **东努沙登加拉 (NTT) 的十大绝美旅游景点：探索印尼东南的自然奇观**

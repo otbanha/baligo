@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/682ebdb1fd89780001b2f097'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 1eddca0f8217f81fb7a12de4df4dad19
+_srcHash: 556657c7c4385faeb880a9bced4baeb9
 ---
 ## ✈️ 充電寶（行動電源）攜帶規定
 

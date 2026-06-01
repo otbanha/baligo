@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c5c780a9262d6901c2139405a9097e28.jpg'
 originalUrl: 'https://vocus.cc/article/67375f47fd89780001591deb'
 lang: en
-_srcHash: 5d794981883a6bd7dc969eadc07d608b
+_srcHash: 656b1545a71b9641292a8a2098720540
 ---
 
 The Apurva Kempinski Bali Wins 'Best Sustainable Hotel' Award at ULTRAs 2024

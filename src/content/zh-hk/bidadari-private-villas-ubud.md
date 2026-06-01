@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0c283f8858719c4074b284d20a81e28e.jpg'
 originalUrl: 'https://vocus.cc/article/6789be68fd89780001c3ec93'
 lang: zh-hk
-_srcHash: d0002f3449fbd6e52e2e5150663a6c03
+_srcHash: a3a42d169d84f9440e9a9bc9d2b5710f
 ---
 
 ## 喺峇里島烏布嘅郊區，坐落住一處寧靜嘅度假勝地 - Bidadari Private Villas & Retreat。呢度唔單止提供世界級嘅服務，更加係遠離喧囂、享受私密度假嘅完美選擇。

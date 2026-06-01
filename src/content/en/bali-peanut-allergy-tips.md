@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/66385c23fd897800014ead64'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 0122c4235e63814bda534cbecf14d6bc
+_srcHash: 6dfdad5ade61f0cd3b2a09443b4b2295
 ---
 
 When traveling in Bali, it's essential for those with peanut allergies to steer clear of foods containing peanuts. While Bali offers diverse cuisine, peanuts are commonly used in certain dishes and sauces, so extra caution is necessary.

@@ -18,7 +18,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_010252ae3b22142279b2f6841ce88916.jpg'
 originalUrl: 'https://vocus.cc/article/662c59e9fd897800011f1230'
 lang: en
-_srcHash: 0625e3944783f480b691ec9ce419b105
+_srcHash: b6e65c18a282abb51491e746cf3b1a30
 ---
 
 > This is a story about a Taiwanese businesswoman in Vietnam and her family's trip to Bali

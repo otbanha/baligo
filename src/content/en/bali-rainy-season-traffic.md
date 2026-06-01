@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/66cf433ffd89780001313079'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 5a8a0b734fc3cc1ce134dabe04651743
+_srcHash: aa08d5017513d642664f0be9a8918451
 ---
 
 Bali's traffic congestion issues are well-known, and with the rainy season approaching alongside major road construction projects on the island, local leaders are deeply concerned that the situation may deteriorate further before it improves.

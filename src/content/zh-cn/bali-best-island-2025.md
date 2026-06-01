@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_aedded69cfc0a0491d4ce96e712a3589.jpg'
 originalUrl: 'https://vocus.cc/article/6863ccb0fd8978000142a65c'
 lang: zh-cn
-_srcHash: b7980c266edab5a648cb08a4abd6a085
+_srcHash: 51cbd4e726fcc80637174c71b9481bb4
 ---
 
 每年，国际权威旅游杂志《Travel + Leisure》都会公布「亚太区最佳岛屿 Top 10」，而在2025年的最新榜单中，**巴厘岛（Bali）毫无悬念地夺下第一名宝座！**🎉

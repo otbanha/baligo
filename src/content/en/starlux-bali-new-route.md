@@ -27,7 +27,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: en
-_srcHash: 56ad7d33305393bb17f1f093fea82474
+_srcHash: 74364af26afe130e315903b7a9874490
 ---
 
 Recently, there's been exciting news in the aviation world - Starlux Airlines is officially launching direct flights from Taipei to Bali, and it's no longer just a rumor!

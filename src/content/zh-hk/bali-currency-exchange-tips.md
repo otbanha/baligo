@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/689c380bfd8978000178bb5e'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: ad2a118352f594abbad34140ab93b4dd
+_srcHash: c3f4c28f6e3a55c890e576444d03d2cd
 ---
 
 去峇里島旅行之前，你有冇諗過：**究竟應該直接用台幣喺當地換印尼盾，定係先喺台灣換好美金再去換印尼盾**？呢個睇落小小嘅選擇，其實可能令你喺同樣嘅台幣預算下，多咗一大筆旅費可以食好嘢、買手信或者做幾次靚靚嘅 SPA 㗎！

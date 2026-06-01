@@ -15,7 +15,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 8ee89b3e5bcd7515a29fefc1fe6f838b
+_srcHash: 4d55074ac1d4c6023e77f825e4cf6ff3
 ---
 【Exchange Rate: USD 1 = IDR 16,750】
 

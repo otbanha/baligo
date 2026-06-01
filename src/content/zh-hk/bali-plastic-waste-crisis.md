@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/676b9cc9fd89780001aa5a53'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 1f4a4eea6a0cbbe49f65c26be3315016
+_srcHash: 7e0b102882345880650a1fc5416eb061
 ---
 
 ## **雨季垃圾潮再襲峇里島，沙灘變咗垃圾場！**

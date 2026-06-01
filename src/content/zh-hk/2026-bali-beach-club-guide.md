@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2fb8cb22a83dc08d9c39360989581ebb.jpg'
 originalUrl: 'https://vocus.cc/article/695f8a37fd897800019d57f4'
 lang: zh-hk
-_srcHash: 51fb0b620c89a9a9e247ed1850e8962d
+_srcHash: d7b52d82ff6d54ddadadd5a546f47157
 ---
 
 2026 年嚟峇里島，唔好淨係去咖啡廳啦！真正識玩嘅人，開始「Beach Club Jumping」🌊🍹

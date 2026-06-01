@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/679f52c9fd89780001ec63b8'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 973d7c1dead6ef4e78e532c75615ddfd
+_srcHash: c40c3d0478cc27d0675b0cde6e5caa0f
 ---
 
 Bali's Ngurah Rai International Airport is set to undergo a new phase of modernization upgrades by 2025. Advanced security equipment, already successfully implemented in Jakarta, will increase passenger throughput from 200 to 500 people per hour. This upgrade not only speeds up the security process for travelers but also significantly boosts the efficiency of airport staff.

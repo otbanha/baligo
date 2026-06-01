@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/66266976fd89780001598b10'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: 4c9b09cc7a141336c5d7326af59550ea
+_srcHash: c61a55c2820e67e606fdfe5dc2ac0644
 ---
 
 【巴厘岛游记】我们一家四口，两大两小，巴厘岛前两晚的住宿

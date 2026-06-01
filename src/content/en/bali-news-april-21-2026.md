@@ -15,7 +15,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: e91ad5f7958235d0ceae2fa9da22c75b
+_srcHash: de28e392be618a7d409baa211207553a
 ---
 
 【This Morning's USD Exchange Rate: 16,750】

@@ -15,7 +15,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_928bcf8de351c2ebc6891979b506e58e.jpg'
 originalUrl: 'https://vocus.cc/article/6658817efd89780001222f04'
 lang: zh-hk
-_srcHash: 7dfd66df2c7b3cb35404319a418f93a5
+_srcHash: e59b336daf80622ddbdf0c2d4ab5431e
 ---
 
 > 以下內容由團友 [Angel Wu](https://www.facebook.com/angel.wu.75491/) 提供，並同意我哋改編

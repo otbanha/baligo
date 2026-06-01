@@ -23,7 +23,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a0202a8fecbbe830196c5755e35cdd7b.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b57fd897800013a8e48'
 lang: zh-hk
-_srcHash: f443f38419b82e7eaf52e443c1833810
+_srcHash: a6c793f0360273057975e22ae2961cbc
 ---
 
 如果你正在規劃峇里島嘅行程，想要搵一個既能瘋狂打卡影相、食物超有水準，又能攤成日放空嘅地方，咁真係直接將呢間存進你嘅清單就啱啦！

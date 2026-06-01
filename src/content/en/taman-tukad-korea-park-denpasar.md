@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_45d03dea2e8b6ff67123cd56dd7ae419.jpg'
 originalUrl: 'https://vocus.cc/article/68770c9bfd8978000134067a'
 lang: en
-_srcHash: c37d1069e802af37b0426bbba7047e4d
+_srcHash: 4531af3bf4e8a60f9d4af772fea87386
 ---
 Tukad Badung Riverside, also known as Tukad Badung Riverside, is one of the most successful urban renewal projects under Denpasar's 'Green City, Friendly Citizens' initiative. This 1-kilometer-long, 4-meter-wide artificial waterway was once a murky, foul-smelling drainage ditch. However, since 2020, through collaboration between the Bali provincial government, municipal units, and the community, it has been thoroughly cleaned, redesigned, and transformed into a modern aesthetic and functional public space.
 

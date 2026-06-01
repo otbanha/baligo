@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6705509efd89780001eaeb59'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 3035f581f6901c26d8ec226be2ae7b15
+_srcHash: f5dbb49b6ba162ed7788f0638802ab5e
 ---
 
 ## 巴厘岛文化节庆可能影响10月18日的旅游计划

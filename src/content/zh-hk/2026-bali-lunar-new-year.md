@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/698202dcfd89780001016bf7'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 16dd388a489070f09af39a518d58c3d5
+_srcHash: 90e1147bea467ba7218483d02935e815
 ---
 
 2026 年係農曆「火馬年」，**峇里島**嘅農曆新年（印尼叫 Imlek）慶祝活動非常豐富，主要集中喺 **2 月 16 日（除夕）**同 **2 月 17 日（大年初一）**，部分慶典甚至持續到 3 月初嘅元宵節。

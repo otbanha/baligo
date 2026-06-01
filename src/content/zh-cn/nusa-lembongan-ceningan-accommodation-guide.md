@@ -39,7 +39,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b8258610da76c0bfcef4b88efa16f7b1.jpg'
 originalUrl: 'https://vocus.cc/article/67205cb1fd89780001ee1413'
 lang: zh-cn
-_srcHash: 674e06353ea8b6dbba4442b516c8ec78
+_srcHash: 2dbdc676c25e6d6994ae2377d214c5a7
 ---
 
 位于巴厘岛东南方的离岛 - 蓝梦岛/又称伦邦岸岛（Nusa Lembongan）与金银岛（Nusa Ceningan），提供了远离巴厘岛喧嚣与人群的宁静避风港。这两座迷人的小岛以悠闲的气氛、丰富的海洋生态以及壮丽的自然景观而闻名。🐡🌴☀️岛上的宁静氛围会让人深深着迷，有些人会特别喜欢这里人少且悠闲的冲浪地点。

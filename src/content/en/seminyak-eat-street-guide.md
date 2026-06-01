@@ -29,7 +29,7 @@ private: false
 shuffle_h2: true
 embeds: []
 lang: en
-_srcHash: 69bb189079c8feee656d8750a28bdb36
+_srcHash: 374027600c92266b424a7398decbeafd
 ---
 
 Seminyak's **Jalan Kayu Aya** is better known by its catchy nickname—**Eat Street**. Along this two-kilometer stretch, over 50 restaurants, bars, and cafes are densely packed, offering everything from Aussie brunch and French pastries to Latin American tacos, jazz cocktail bars, champagne lounges, and nightclubs—essentially a global culinary journey.

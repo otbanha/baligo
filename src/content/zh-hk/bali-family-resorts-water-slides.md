@@ -22,7 +22,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_76e38d210548a0325c57cff7d30479ce.png'
 originalUrl: 'https://vocus.cc/article/65a51edbfd89780001ffc7b2'
 lang: zh-hk
-_srcHash: 26d5488d6105ef4e3b95ca0792ddd757
+_srcHash: 5e7e366520c6b19e1eef61d0ca8a87ba
 ---
 
 你屋企有冇鍾意浸水嘅水獺寶寶？定係鍾意喺泳池玩水嘅小水手？又或者一定要有水上滑梯嘅小小冒險家？

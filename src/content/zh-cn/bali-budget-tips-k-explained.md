@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64e730ddfd89780001336a09'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 48304a75199139ca4ec071b85a04fe33
+_srcHash: d773bf808988acef8b4c86d5fe0f068c
 ---
 
 **在印尼/巴厘岛消费常看到数字后面有一个K，那是什么意思呢？**

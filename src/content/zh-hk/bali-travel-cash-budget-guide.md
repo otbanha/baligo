@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c13cd68f0d8c0d9447e32f12ddf5def1.jpg'
 originalUrl: 'https://vocus.cc/article/64fdaddefd89780001bdb780'
 lang: zh-hk
-_srcHash: a7d615d675e69eaab198689d1b1948e4
+_srcHash: c7df2f5b72ed8a0131bdf7bb7d17329b
 ---
 
 「去峇里島要準備幾多現金？」、「要帶幾多美金？」呢類問題成日困擾住計劃去呢個印尼度假勝地嘅旅客。

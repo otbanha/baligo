@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/66266976fd89780001598b10'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 4c9b09cc7a141336c5d7326af59550ea
+_srcHash: c61a55c2820e67e606fdfe5dc2ac0644
 ---
 
 【峇里島遊記】我哋一家四口，兩大兩細，峇里島前兩晚嘅住宿

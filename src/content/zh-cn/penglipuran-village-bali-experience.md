@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f48a7964b7329cadd4c36a4ad63e845a.jpg'
 originalUrl: 'https://vocus.cc/article/64e9e8e9fd89780001f28d6b'
 lang: zh-cn
-_srcHash: e981c68e24e93c949631ac9167a24ac4
+_srcHash: 5d44933e345425273e625c92510bd6a9
 ---
 
 巴厘岛作为印尼最受欢迎的旅游胜地之一，以其壮丽的海滩、文化遗产和独特的氛围吸引了无数游客。然而，在这片令人叹为观止的岛屿上，有一个隐藏的宝地：**「彭里普兰（Penglipuran）」村庄**，正等待游客来一探究竟。

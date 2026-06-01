@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7a78f011275d20f15cdca6f46448e958.png'
 originalUrl: 'https://vocus.cc/article/69a10819fd897800019c4849'
 lang: zh-cn
-_srcHash: 0ee74ad1409fe69290ad250ba87e2238
+_srcHash: 9649e924980e051716eb99788bc03c2b
 ---
 
 2026 年巴厘岛「高品质旅游」政策解析：3 月起财力证明与行程查核新制

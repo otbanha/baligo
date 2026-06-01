@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 8739cd22b14763095612c59d73477143
+_srcHash: 364ad32bfa73a86d66cc04d30ce7ec7b
 ---
 去峇里島度假，先唔好急住去景點！好多人抵達後，第一個去嘅地方就係「當地大型超市」。
 

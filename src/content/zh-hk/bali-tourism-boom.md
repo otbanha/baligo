@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67cfefe1fd89780001ce0c4e'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 375b825383a25cb4be60979219cd9745
+_srcHash: 5d247844ffca1338188eb51bcadaca52
 ---
 
 2025年3月8日公佈嘅最新數據顯示，峇里島嘅國際旅遊需求就算喺淡季都繼續上升。

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/661fd461fd89780001c43520'
 category:
   - 簽證通關
 lang: en
-_srcHash: d06f476d5fe0ae5caea41f8ba0904503
+_srcHash: 275e2082ce14b1e01d22e7ca15b64ccd
 ---
 
 Traveling to Indonesia or Bali requires a visa (VISA). There are two methods to apply for a visa. For a comparison of these two methods, please refer to: [Bali Travel Visa Guide: Landing Visa vs Electronic Visa, Which is Better for You?](/blog/bali-visa-landing-vs-electronic/)

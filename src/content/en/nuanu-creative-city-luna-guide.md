@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_55ede6433e92d99ef451b578d4341434.jpg'
 originalUrl: 'https://vocus.cc/article/68026619fd89780001f56243'
 lang: en
-_srcHash: 7747acc8cceedabf45ee2541d81e2e28
+_srcHash: e37517f7aacfb95ec4046a9aaa34470d
 ---
 
 Nuanu Creative City is a 44-hectare creative complex located in Tabanan, Bali (south of Tanah Lot Temple), founded in 2020 by Russian tech entrepreneur Sergey Solonin with a total investment of USD$100 million. The ambitious project's name, **Nuanu**, derives from Balinese, meaning **'in progress,'** symbolizing the evolving and developing nature of this creative city. Solonin initiated the project after relocating to Bali five years ago, aiming to create an ecosystem where art, technology, and nature coexist harmoniously.

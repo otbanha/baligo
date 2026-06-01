@@ -29,7 +29,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: dab577fdc0540042ad04699d318b4020
+_srcHash: 4fdaaed7294fe89c30f05b242782c70d
 ---
 # Bali's Hidden Gem by the Sea — Dune Seseh
 

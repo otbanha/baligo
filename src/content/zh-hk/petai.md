@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 8a743bea14e87de60aa9ca7002338086
+_srcHash: 0539aa9a3202e6b26a52b70bb6555916
 ---
 
 # 印尼臭豆：聞落驚人，食落上癮嘅綠色魔豆

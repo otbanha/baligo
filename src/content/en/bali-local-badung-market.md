@@ -31,7 +31,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 79a3dcc8758b81c917cd753f2bdb3edb
+_srcHash: 9effb04c42b7ca55f1c14ef76887d0df
 ---
 
 When visiting Bali, buying souvenirs can be overwhelming. Wood carvings, batik fabrics, scented candles, silver jewelry... walking through each artisan market, there’s so much to choose from that you don’t know what to bring home. But honestly, locals themselves wouldn’t shop at these touristy souvenir stalls.

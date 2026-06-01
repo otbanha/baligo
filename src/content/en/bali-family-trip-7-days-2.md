@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/669c8097fd89780001f355be'
 category:
   - 遊記分享
 lang: en
-_srcHash: 898fbb3a7ac3aee893c901dbd67a2327
+_srcHash: 83c09b4a2d5316b60b11521ebb7a042e
 ---
 
 > The following content was provided by group member [Ya-yun Chen](https://www.facebook.com/groups/baligo/permalink/1577292532817986/) and rearranged by us:

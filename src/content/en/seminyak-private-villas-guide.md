@@ -22,7 +22,7 @@ update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1002f5e0337bd76e44455bcaed17885f.jpg'
 originalUrl: 'https://vocus.cc/article/660e6e92fd89780001e6047e'
 lang: en
-_srcHash: 81cd7a3044d3268af950baa9d06dc106
+_srcHash: bbb3ec067d1b97ffdd1a6d29d8241a3f
 ---
 
 ###

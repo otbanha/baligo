@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/67617e4efd89780001d9e634'
 category:
   - 叫車包車
 lang: en
-_srcHash: 745910bff10db09d857a3deaf67e40c2
+_srcHash: 5a41da3fd1adbcd5bac7d68aad159644
 ---
 
 ## The Current State of Traffic Congestion in Bali

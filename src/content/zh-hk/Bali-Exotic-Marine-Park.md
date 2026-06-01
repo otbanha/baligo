@@ -28,7 +28,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: d3633b1de68540c8253b84130ad722da
+_srcHash: 651d9e9bc6bdaa57f6d669a4a0822bab
 ---
 
 帶小朋友去玩，最怕咩？就係「睇得到、摸唔到」嘅距離感。好多景點，小朋友只可以乖乖坐喺觀眾席，遠遠睇住動物表演，拍手叫好，然後就冇咗。講真，**坐喺觀眾席睇海豚表演唔出奇，能夠讓小朋友同海豚互動先至出奇**——而峇里島海豚樂園（Bali Exotic Marine Park），正係嗰種讓小朋友真正「走進故事裡」嘅地方。

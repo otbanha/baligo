@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/661fd461fd89780001c43520'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: d06f476d5fe0ae5caea41f8ba0904503
+_srcHash: 275e2082ce14b1e01d22e7ca15b64ccd
 ---
 
 要到印尼或巴厘岛旅游需要申请签证(VISA)。而申请签证的方法有两种, 这两种方法的比较请参考: [巴厘岛旅游签证攻略：落地签 vs 电子签，哪种更适合你？](/blog/bali-visa-landing-vs-electronic/)

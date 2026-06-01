@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/670e6cb5fd89780001b3de2d'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: b6471983882fc20788c5b52d62e01509
+_srcHash: 15857f7023d2bf3ebed9858228a6fd12
 ---
 
 > 以下內容改編自團友 [劉惠慈](https://www.facebook.com/share/p/UxWzce2FRdK2gmsT/) 分享遊記：

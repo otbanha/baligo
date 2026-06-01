@@ -21,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/66fd2bc1fd8978000130e64c'
 category:
   - 旅行技巧
 lang: en
-_srcHash: b6b3f717b44f40b62994b9c567784fe9
+_srcHash: 22653dfb5ee22bc5ab7f129687e4436a
 ---
 Following the official launch of Bali's first phase Light Rail Transit (LRT) project on September 4, 2024, with a ceremony held at Kuta Central Parking, the Mass Rapid Transit (MRT) construction plan is set to begin excavation in April 2025, marking a major breakthrough in local transportation infrastructure. Next, we will delve into the various stages of Bali's MRT project, the construction process, and its future impact on tourism and local residents.
 

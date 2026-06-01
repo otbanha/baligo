@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/669e65bafd8978000115c93b'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 2549c3a28045da43c1dc741e496a4625
+_srcHash: 67eb25fe7875f13e2e17e72e96cc7023
 ---
 
 Bali, a charming tourist destination, attracts countless visitors each year to explore its beautiful beaches, rich culture, and unique natural landscapes. However, with the continuous development of tourism, Bali faces increasingly severe traffic congestion issues. To address this problem, the Bali government has proposed an innovative plan: constructing a coastal expressway connecting Ngurah Rai International Airport with Bali's popular beaches.

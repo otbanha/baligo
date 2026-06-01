@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/64e730ddfd89780001336a09'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 48304a75199139ca4ec071b85a04fe33
+_srcHash: d773bf808988acef8b4c86d5fe0f068c
 ---
 
 **When spending in Indonesia/Bali, you often see a 'K' after numbers. What does it mean?**

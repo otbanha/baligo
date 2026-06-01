@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bdbf1e9814d60a19a2a11d07a7609ac5.jpg'
 originalUrl: 'https://vocus.cc/article/6832c6c0fd897800014776ba'
 lang: zh-hk
-_srcHash: 7242541475c4653d62d4b6294d5042f2
+_srcHash: 1e857fc84a61fc962717cb93f690669c
 ---
 
 午後嘅陽光溫柔地灑喺峇里島努沙杜瓦嘅海岸線上，我哋搭車抵達 **凱賓斯基酒店（The Apurva Kempinski Bali）**。呢座依山而建嘅奢華度假村，由入口處就展現出驚人嘅氣勢——挑高嘅木質結構、精緻嘅峇里島雕刻，中央水池裡錦鯉悠遊，小朋友興奮地圍觀，整個空間充滿咗度假嘅悠閒氛圍。

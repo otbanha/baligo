@@ -37,7 +37,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_f38352e72943b9cdf16ee7eeccc16a12.jpg'
 originalUrl: 'https://vocus.cc/article/66a4562afd89780001d70329'
 lang: zh-cn
-_srcHash: bbf455135d6ac52f36756025969a06c5
+_srcHash: 396906b3edd82de8d92368a6fdd2c549
 ---
 
 努沙杜瓦位于巴厘岛南部的东岸，是巴厘岛上一个以奢华度假村和精致设施著称的地区。这里拥有美丽的白色沙滩和碧蓝的海水，为游客提供了完美的度假环境。

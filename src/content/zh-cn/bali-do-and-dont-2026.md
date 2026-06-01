@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: fb94064d6edad9edc9dfe4d65a3a9d17
+_srcHash: 248e94936356c22e9ca49778d1e3f4ae
 ---
 
 第一次去巴厘岛，很多人只想着海滩、夕阳、好吃的沙嗲——却完全没想过，有些看似无害的小举动，在这座岛上可能是大忌。

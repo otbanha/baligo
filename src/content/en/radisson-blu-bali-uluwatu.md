@@ -24,7 +24,7 @@ agoda_star_rating: 5
 latitude: -8.80953311920166
 longitude: 115.10897064208984
 lang: en
-_srcHash: ab58a3aedf918f5d2f930aec5b559b9e
+_srcHash: 6bab9cb0db599b70818f75ff069ec304
 ---
 
 ## Bali Uluwatu Radisson Blu Hotel: A Luxurious Cliffside Retreat Embracing the Breathtaking Indian Ocean, Winner of the "2023 Travelers' Choice" Award

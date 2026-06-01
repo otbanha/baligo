@@ -32,7 +32,8 @@ tags:
   - 峇里島自由行
   - 巴厘岛自由行
   - BaliTravelTips
-heroImage: https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
+heroImage: >-
+  https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
@@ -41,7 +42,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 4f99bf80c4595af557d64b313093a6ba
+_srcHash: 8b7fd23b3005a8c50bdd1b7b377163e7
 ---
 
 Super simple guide for recreational users – no application needed, complete with no-fly zones & practical checklist

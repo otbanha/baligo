@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/687cf195fd897800015d2985'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 04c1bd91d54eb69740e70825a714da22
+_srcHash: 75c8dfc8e69ee17304b86178c70eeae3
 ---
 
 巴厘岛巴东县的兽医单位近期通报了数起由感染狂犬病的犬只所造成的咬伤事件；这个月初我们的团友也在库塔一带被野狗咬伤，花了约5800美元注射疫苗，这个事件还上了电视新闻，请看[这里的报道](/blog/bali-rabies-vaccine-cost/)。

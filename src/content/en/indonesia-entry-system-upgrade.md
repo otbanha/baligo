@@ -18,7 +18,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: en
-_srcHash: 8f1bef83f10bb3391eef3ae55ce33de9
+_srcHash: a3c83e4399a24fd893e0456c76279309
 ---
 
 ## **What is All Indonesia? A New Concept in One-Stop Entry Systems**

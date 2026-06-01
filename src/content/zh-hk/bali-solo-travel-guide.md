@@ -16,7 +16,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: zh-hk
-_srcHash: b068f016829f48df4f35d72269ac7b49
+_srcHash: e29d1305e3a0ccc38d607f71df84f8d2
 ---
 
 你正在考慮一個人去峇里島旅行嗎？等我先同你講：**呢個絕對係個好主意。**

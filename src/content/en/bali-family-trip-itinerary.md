@@ -21,7 +21,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: en
-_srcHash: e44165c2ecc2f208b4989126cbd15a37
+_srcHash: 75c9991b34fbf603ed608355ff19ee4b
 ---
 
 > The following content is adapted from fellow traveler [Sannie Lin](https://www.facebook.com/share/p/KZWh2fnM6upSM3uq/)'s shared travelogue:

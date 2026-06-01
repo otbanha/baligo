@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_c13cd68f0d8c0d9447e32f12ddf5def1.jpg'
 originalUrl: 'https://vocus.cc/article/64fdaddefd89780001bdb780'
 lang: zh-cn
-_srcHash: a7d615d675e69eaab198689d1b1948e4
+_srcHash: c7df2f5b72ed8a0131bdf7bb7d17329b
 ---
 
 「巴厘岛旅游要准备多少现金？」、「要带多少美金？」 类似这样的问题常常困扰着计划前往这个印尼度假胜地的旅客。

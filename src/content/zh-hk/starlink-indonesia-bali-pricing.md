@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/664a105ffd897800010f7f4f'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 1874c1ef5dc1996ba0dd6ed95b32c8da
+_srcHash: d6a740a675710987818b3e52c7aeade4
 ---
 
 Starlink，伊隆·馬斯克旗下嘅衛星互聯網服務，終於喺印尼正式啟動。呢個對於印尼嘅互聯網市場嚟講係一個重大變革。作為一個基於衛星嘅互聯網服務，Starlink 旨在提供高速度、低延遲同廣泛覆蓋，尤其係喺傳統互聯網服務難以到達嘅地區。

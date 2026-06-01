@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66cf433ffd89780001313079'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 5a8a0b734fc3cc1ce134dabe04651743
+_srcHash: aa08d5017513d642664f0be9a8918451
 ---
 
 峇里島交通擠塞嘅問題早已為人所知，而隨住雨季即將來臨同埋島內大型道路工程嘅開展，當地領導人深感憂慮，認為交通狀況可能喺好轉之前會先進一步惡化。

@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/65b8fcc3fd8978000157f236'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: d72acdfc0b2ceced40f5cfe2bbf5e2b1
+_srcHash: db1dde478f0454c3c4caee51548e8a62
 ---
 
 在这一集中，我们将带大家一窥巴厘岛必买的零食伴手礼，共有六项推荐，每一样都是台湾难以找到的美味佳肴！

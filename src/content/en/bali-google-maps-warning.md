@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/65ebd5ecfd89780001cf6c8b'
 category:
   - 旅行技巧
 lang: en
-_srcHash: ed69fb225aeb4e1ce83becb04006be05
+_srcHash: a63f35179568388e9a1b4105d94f32ea
 ---
 
 Don't trust Google Maps in Bali! Bali is a dream vacation destination, but for tourists relying on Google Maps to navigate, there might be some challenges. Here are two main reasons why you should be cautious when planning your trip using Google Maps.

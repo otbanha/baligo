@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7295bd05ce06f285fb7199e08ebfda80.jpg'
 originalUrl: 'https://vocus.cc/article/6794ca61fd89780001127add'
 lang: zh-cn
-_srcHash: 7caa4564b90a3ca2b783dbe4cdc5e5d1
+_srcHash: 15a3105966c61665d14ab589e7b7941c
 ---
 
 如果你正在计划一趟巴厘岛之旅，水明漾的MoonLite Kitchen and Bar绝对是一个值得列入行程的餐厅。这间餐厅不仅荣获2024年Travelers' Choice奖项，还以其绝佳的屋顶位置和迷人的日落景色闻名，成为许多游客和当地人的热门选择。

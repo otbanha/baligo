@@ -24,7 +24,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: zh-hk
-_srcHash: 78451b45db48e970261f88ef6376344c
+_srcHash: 0a67766e4ce6b56987c15a857af9d90b
 ---
 如果你呢段時間有計劃去峇里島爬阿貢火山（Mount Agung），行程要暫停一下。
 

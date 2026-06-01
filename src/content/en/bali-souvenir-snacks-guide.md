@@ -18,7 +18,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7b910f08903a18106fd6d774cdcb0a4e.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b5cfd897800013a9015'
 lang: en
-_srcHash: 64c1e3b0c6d58418e4edb8b30858becd
+_srcHash: f8dc83aa828a66ea396d3fad965f89cd
 ---
 
 Bali is more than just a captivating tourist destination; it's a haven for food enthusiasts. As you set foot on this tropical paradise, besides admiring the stunning beach scenery, participating in local cultural activities, exploring ancient temples, and enjoying romantic sunsets, there's one important thing you shouldn't miss: savoring Bali's delicious cuisine. And when you're ready to leave this beautiful island, don't forget to bring back some food souvenirs to keep the taste of Bali alive!

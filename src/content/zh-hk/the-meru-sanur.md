@@ -30,7 +30,7 @@ agoda_star_rating: 5
 latitude: -8.678433418273926
 longitude: 115.2635269165039
 lang: zh-hk
-_srcHash: 3b0ea3dab586221ba3e9b8eb2be06285
+_srcHash: 2208200f4efc86ef84faf18570cff94f
 ---
 
 如果你對峇里島嘅印象只停留喺庫塔嘅喧嘩或者水明漾嘅夜生活，咁 The Meru Sanur 可能會令你重新定義「峇里島度假」呢件事。

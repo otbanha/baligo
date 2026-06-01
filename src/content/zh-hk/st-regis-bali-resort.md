@@ -22,7 +22,7 @@ agoda_hotel_name: 瑞吉度假村 - 峇里
 agoda_hotel_id: 108442
 latitude: -8.812859535217285
 lang: zh-hk
-_srcHash: 8edd75856d193dbe2a7e7a222bf1ff07
+_srcHash: 6d596115b25a3f29ef05a0527a1718ec
 ---
 
 ## 峇里島努沙杜瓦嘅頂級豪華享受 ✨

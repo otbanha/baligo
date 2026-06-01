@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2852b7e85fd79c94b1667a9a54b5b783.jpg'
 originalUrl: 'https://vocus.cc/article/68f8711efd8978000136386b'
 lang: zh-hk
-_srcHash: 7e164af10af03631ef67d00ed6dcad7b
+_srcHash: 0e482919f7d13cbe83a0899743f53985
 ---
 聖誕節唔一定要喺雪地度過！喺峇里島呢座充滿熱帶氣息嘅島嶼上，陽光、沙灘同濃濃嘅節慶氛圍正等緊你。呢度唔止氣候宜人，仲有豐富嘅活動、美味嘅聖誕大餐同無數適合家庭嘅住宿選擇。
 

@@ -27,7 +27,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 492355584aaa351550db4e9888e77015
+_srcHash: 237fbcf73d107fd2bc00a4f48ff4d17a
 ---
 
 说真的，我自己也觉得 2026 年过得超快。年初才在写宁静日（Nyepi）的报道，转眼间就已经逼近六月——巴厘岛一年一度的「人潮大爆发季」又要开始了。

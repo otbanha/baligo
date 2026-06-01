@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a1d286264ed333dad9574c961065d669.jpg'
 originalUrl: 'https://vocus.cc/article/656d19fffd897800019cb6ed'
 lang: zh-cn
-_srcHash: e7c7fd15a2ab6e81b4dd39422af9b059
+_srcHash: 4cfa444ee25fc21ee52707522a17b76b
 ---
 
 你一定很难想象，一个面积约为新北市的2倍大的岛屿，有上万家的旅馆/villa，超过旅馆/villa数量好几倍的美食餐厅。因为这个地方的旅游真的太热门了！

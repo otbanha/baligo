@@ -25,7 +25,7 @@ private: false
 shuffle_h2: true
 embeds: []
 lang: zh-cn
-_srcHash: ab09c441fe9955b6a3fd861d29da1da5
+_srcHash: 3d086fe5e791239fbc46b63a76a175df
 ---
 
 说到库塔住宿，大家第一个想到的永远是海滩酒店——但海景房不一定是最聪明的选择。

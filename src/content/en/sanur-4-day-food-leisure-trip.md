@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/669262c9fd89780001902a76'
 category:
   - 遊記分享
 lang: en
-_srcHash: 5a2fba31c17f8b35f541ca5171b2039f
+_srcHash: bc9795a579ab60a3cfa37fdde51eb306
 ---
 
 > The following content was provided by our group member [Alice Li](https://www.facebook.com/share/p/uSHXdUNFCKBocSnU/) and rearranged by us:

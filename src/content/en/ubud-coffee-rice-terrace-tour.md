@@ -22,7 +22,7 @@ originalUrl: 'https://vocus.cc/article/687c40eafd897800012a1410'
 category:
   - 遊記分享
 lang: en
-_srcHash: 60d14a55e471e1620b4c5fb20b22aaf6
+_srcHash: 09dd0461d024c6cbe8485e55af43e551
 ---
 
 > The following content is adapted from fellow traveler [Chen Cheng](https://www.facebook.com/share/p/1JiRwHMMH1/)'s travelogue:  

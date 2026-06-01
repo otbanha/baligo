@@ -12,7 +12,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6a38c8fbc6833eca3adeffb98870a912.jpg'
 originalUrl: 'https://vocus.cc/article/681601c6fd8978000139f8a3'
 lang: zh-hk
-_srcHash: bedb2fed5091ab903f6174f7e20fd22f
+_srcHash: b0915faead2e4c1c3a5f51fd13036a7a
 ---
 
 ## **前言：點解Labuan Bajo值得你專程造訪？**

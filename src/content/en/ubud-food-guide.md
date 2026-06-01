@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7967360076c821375ec01e8c60a7c56e.png'
 originalUrl: 'https://vocus.cc/article/69809444fd897800019bddac'
 lang: en
-_srcHash: 501418c51232e94467f744c1114fded1
+_srcHash: 8d1b492c4103575991f81b4546be68ac
 ---
 
 When visiting Ubud, Bali, besides admiring the terraced rice fields and exploring ancient temples, you absolutely can't miss the culinary experiences here! From traditional Indonesian cuisine to creative Western-style restaurants, from hidden rice field cafes to bustling market street food, Ubud gathers Bali's most exciting food culture. This guide selects Ubud's must-try restaurants and local delicacies, ensuring your taste buds enjoy an unforgettable Bali journey!

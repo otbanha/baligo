@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_129a0ecd951ffe4165c231c9e21b0fcb.png'
 originalUrl: 'https://vocus.cc/article/67d63943fd89780001c33ce2'
 lang: zh-cn
-_srcHash: 6410606f5c12aa9b6482d97c386989a1
+_srcHash: 62204b213493b9099809571fba8940aa
 ---
 
 ### 谁说巴厘岛的火山只能看日出？现在你不用起早贪黑就为了看日出了...

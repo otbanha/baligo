@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/684e466efd8978000159a13b'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: 5f430ef0921d9182b795efa04c3d0a79
+_srcHash: c366b6bfc4dd9c40c1bd6f44ae104d93
 ---
 以下是目前在沙努尔当地最受欢迎的六间海边咖啡馆推荐。若你打算前往巴厘岛，千万别错过这些特色店家！
 

@@ -17,7 +17,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e671dd57b7c1d196ec96d2ca2f74f1a3.jpg'
 originalUrl: 'https://vocus.cc/article/660d1d54fd89780001dc5bbb'
 lang: zh-hk
-_srcHash: 6bdafa0e604d5daeeac7a30cbd1d1051
+_srcHash: 75693717b5da4ce15384028a4c3069d8
 ---
 
 香港知名YouTuber"[Crazy with YU芳婷](https://www.youtube.com/@crazywithyu)"，佢最近去咗峇里島旅行，喺嗰度住咗十幾日，體驗咗各種精彩活動。喺影片入面，佢整理出五件峇里必做嘅事，等我哋跟住佢嘅步伐，一齊領略峇里島嘅獨特魅力。

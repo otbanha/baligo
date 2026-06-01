@@ -16,7 +16,7 @@ update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_55a17e32ff3426be5b5ca449098353ec.png'
 originalUrl: 'https://vocus.cc/article/6860bc8bfd897800019ce915'
 lang: en
-_srcHash: a2d09b14a5389cbbe9e0035bab9a91d6
+_srcHash: 6e60d83369f1669842de6b2acf64bdea
 ---
 
 > The following content is adapted from a travelogue shared by fellow traveler [Johnny Wei](https://www.facebook.com/share/p/16WTfUrpzo/):

@@ -38,7 +38,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1df50220c0720a4945c5f8ac4e04e1b8.jpg'
 originalUrl: 'https://vocus.cc/article/66b20b15fd89780001ceef6b'
 lang: zh-cn
-_srcHash: 3afa6b736320ef3e7ed7fdd11ac216c6
+_srcHash: e6f152fe146279b24f3faaf33c71019f
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6f27ffb5a965c9d638d2f4bf13cbe008.jpg)

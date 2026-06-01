@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6795adf1fd8978000133fe10'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: c802d164e582985b8d9fb4a994abda4b
+_srcHash: 8d44c7e6705c7427084343d58f8e138a
 ---
 
 ### 探索巴厘岛乌布的Taman Dedari（仙女园）：历史与自然之美

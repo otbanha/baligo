@@ -32,7 +32,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e83815f043de07c9decfbf014a7cc5e5.jpg'
 originalUrl: 'https://vocus.cc/article/67a813d4fd8978000165ae91'
 lang: zh-hk
-_srcHash: fbc1ee072743698a8c6df2f4d1b01535
+_srcHash: 38ce7a6d342cc0f7b494b292601adf59
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_eeb44772338cef2351250be97f6b6087.jpg)

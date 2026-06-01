@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a05b96220031b2f342c15e8724929028.jpg'
 originalUrl: 'https://vocus.cc/article/6631b966fd89780001eb74d2'
 lang: en
-_srcHash: d42d5a2de79bf6f7674d68733c231b66
+_srcHash: cc705aa79bce045a310984fdaab60309
 ---
 
 YouTuber 'Bird of Paradise' stayed at Bali's most popular Ayana Resort and shared six of the resort's 14 stunning swimming pools in her YouTube video. Her video showcases the unique styles and beautiful landscapes of these pools, attracting the attention and admiration of many viewers. These pools are not just places for swimming and relaxation, but also perfect spots for taking beautiful photos and creating unforgettable memories.

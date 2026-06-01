@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/65fce2d0fd8978000151ec93'
 category:
   - 旅行技巧
 lang: en
-_srcHash: c1945530eb186818fbd03d895a463d4f
+_srcHash: 18ce798020f15cfe4d0dc26e5f3dce1a
 ---
 
 Bali is a destination full of surprises and wonders, but some tourists may find themselves puzzled by local hygiene practices. One of the most jarring cultural differences for Taiwanese visitors is the use of the 'bum gun' for post-bathroom cleanup.

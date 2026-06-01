@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_1c2d2e6554a3c1476ff9cef36bf2689b.jpg'
 originalUrl: 'https://vocus.cc/article/68451457fd89780001df60be'
 lang: zh-cn
-_srcHash: 6c77ebd322fd2ef525ff5c4cae3788cd
+_srcHash: 23a0c485f36f0e5838a1351e530858df
 ---
 
 站在Alila Villas Uluwatu的CIRE餐厅露台上，印度洋的海风轻抚脸颊，脚下是令人屏息的悬崖海景。这不是普通的早午餐约会，而是一场从正午持续到黄昏的味觉马拉松。

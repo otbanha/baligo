@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_05a9ca325c235fc34066e54b056498c7.png'
 originalUrl: 'https://vocus.cc/article/67061b07fd897800012f87b5'
 lang: zh-cn
-_srcHash: 0525e555296926748abde40f1698abd2
+_srcHash: 6a0dfa3aa8153fa91aac25b4e4fc1964
 ---
 
 巴厘岛的「布奇半岛（Bukit Peninsula）」可能很多人没有听过，最简单的区分法就是只要是巴厘岛国际机场以南的这一块，都叫做布奇半岛。
