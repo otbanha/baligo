@@ -227,7 +227,7 @@ async function callDeepSeek(texts, lang) {
       Authorization: `Bearer ${DEEPSEEK_API_KEY}`,
     },
     body: JSON.stringify({
-      model: 'deepseek-ai/DeepSeek-V3',
+      model: 'deepseek-ai/DeepSeek-V4-Flash',
       messages: [
         { role: 'system', content: SYSTEM_PROMPTS[lang] },
         { role: 'user', content: JSON.stringify(texts) },
