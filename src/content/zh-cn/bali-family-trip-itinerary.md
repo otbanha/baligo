@@ -1,21 +1,23 @@
 ---
+title: 带着孩子看世界：六天五夜巴厘岛亲子旅行的旅程安排与小贴士
 slug: bali-family-trip-itinerary
-title: 带着孩子看世界：六天五夜巴厘岛亲子旅行的行程安排与小贴士
 description: 六天五夜的巴厘岛之旅圆满结束了！这次的旅程非常感谢社群里的热心网友和提供的丰富信息，让我们这趟带着两个小孩的亲子旅行依然能够轻松愉快，旅途非常顺利！
-pubDate: '2024-11-11'
-heroImage: 'https://images.gobaligo.id/vocus/vocus_8d1437ba19fd670577aeddab67726534.jpg'
+pubDate: 2024-11-11T00:00:00.000Z
+pubHour: null
+category:
+  - 家庭親子
+  - 遊記分享
 tags:
   - 峇里島親子
   - 峇里島家庭
   - 峇里島旅遊
   - 峇里島自由行
   - 峇里島旅遊攻略
+heroImage: 'https://images.gobaligo.id/vocus/vocus_8d1437ba19fd670577aeddab67726534.jpg'
 originalUrl: 'https://vocus.cc/article/670688f2fd8978000138a466'
-category:
-  - 家庭親子
-  - 遊記分享
+update: 2026/05/22
 lang: zh-cn
-_srcHash: 75c9991b34fbf603ed608355ff19ee4b
+_srcHash: 17de278efc2c547d8fc8873adbc7ff30
 ---
 
 > 以下内容改编自团友 [Sannie Lin](https://www.facebook.com/share/p/KZWh2fnM6upSM3uq/) 分享游记：
@@ -28,7 +30,7 @@ _srcHash: 75c9991b34fbf603ed608355ff19ee4b
 
 ✔️ **电子签证：** 当天抵达时，我们观察到落地签的排队时间大约需要20分钟，幸好有社团提供的电子签新版网站，让我们顺利节省了不少时间！使用电子签证真的方便许多，让我们可以更快开始我们的旅程。
 
-延伸阅读：[你最想知道的下飞机、过海关、出机场流程](/blog/bali-all-indonesia-arrival-guide/)（2025最新版）
+延伸阅读：[你最想知道的飞机降落、过海关、出机场流程](/blog/bali-all-indonesia-arrival-guide/)（2025最新版）
 
 ✔️ **美金换汇：** 一开始我们先换了200美金，因为能刷卡的地方几乎都用刷卡，结果到了最后才发现现金不足以支付司机的包车费用，因此又在酒店换了150美金。这次的经验让我们体会到，虽然刷卡方便，但还是要留意现金的需求，特别是在使用包车服务时，确保不会因为现金不足而影响行程！
 
@@ -42,7 +44,27 @@ _srcHash: 75c9991b34fbf603ed608355ff19ee4b
 
 > [【巴厘岛旅游必备】如何办理巴厘岛网络/SIM卡/eSIM?](/blog/bali-sim-card-esim-roaming-guide/)
 
-> [Bidadari Private Villas & Retreatfangjia&空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=237890)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780408021527-130243921.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780408022443-151014316.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780408022843-201011185.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780408023289-201191798.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780408023766-201214363.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780408024255-201215647.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780408024661-_17140994.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780408025121-_130243891.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780408025573-_130243896.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780408026129-_516683475.jpeg)
+
+> [Bidadari Private Villas & Retreatfangjia&空房查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=237890) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=981731&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGFY9cDASFGA4vfgo7yra8Dd3yf5eC5pMCWK3zyAocAnogpB55PY0-0dHUv-nkw0KGQAQQeTHNoZDx7Bgg8Jzl0MbKC1cxgfPzVegUj40ZGkO7ruyscdjCyHGBkOcHY5buA6dVm1lMszBzr-C6xfGWKrlbKTq1UsjLRUSrJLMlJVbJSerpo3tOGPc9XtCrpKKWkFicDhYCsxNz80rwSINvS0FLPwAAoUpJY4ZkC1pmcmJNcmpNYkhpSWQA0wUxHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGCyr5AY0pggpk5udBtBuiiIUl5pSmQpwAtNAtFWqHYa0Opsufzel92j3zxabdxLncnNouNyDG5ca1sY9YmKJjP7Ew_AJGQ79pEytDFyszxymmSUCyy3cXK4tpaGTgBdbHLYxS8oYGBgamhsamproGiZaJxkZpybomliZGZua6xkaWFhYaU7ZNvfTE2MhaChLzCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9gsXE0MHC2ibLiYPV2CBD_oPd_ebm1pL8UcEu6iODnowlvV3tP2WsyhwS6Gev8V_34zlXYI3PM654S98QL7SHvZfskVPaftk1irMnRDwjOOixUwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDAOoJq3n9AgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494267-32988&detailFilters=17|1~17~1*31|981731~31~981731*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=846&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/8cgKqDaH)
 
 收录在「[乌布20间令人惊艳的巴厘岛villa推荐](/blog/ubud-villa-pool-guide/)」
 
@@ -62,6 +84,8 @@ Natys Restaurant Ubud 用餐
 
 今天是乌布包车一日游，我们的第一站是[小杰](http://bit.ly/youtube-jason)介绍过的 **Nukuwera & Pandawa 漂漂河**。这里有附赠午餐，整个漂漂河的体验非常适合家庭，有孩子的我们也玩得很开心，小朋友们非常享受在水中的时光。
 
+https://youtube.com/shorts/Z_vDb7AbMKg
+
 Nukuwera漂漂河的介绍：[巴厘岛洞穴漂流河探险记：Nukuwera River Tubing的亲子冒险之旅](/blog/nukuwera-river-tubing-adventure/)
 
 之后，我们前往著名的 **圣猴森林**
@@ -71,6 +95,8 @@ Nukuwera漂漂河的介绍：[巴厘岛洞穴漂流河探险记：Nukuwera River
 野生的猴子很容易就暴走，最好保持距离
 
 孩子们对这里的猴子非常感兴趣，但我们也特别小心，毕竟这些猴子有时候会有点调皮。
+
+https://youtube.com/shorts/tpPWsvsH-Eo
 
 接着我们来到了 **乌布皇宫**，感受了一下当地的文化氛围。结束后，我们还特别去了一趟 **KUO CUSINE** 购买当地特色果酱，这里的果酱种类丰富，带几瓶回家当伴手礼也是不错的选择。
 
@@ -84,7 +110,7 @@ Warung Pulau Kelapa猪肋排、沙爹、印尼炒饭
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_43dfe121adfd643e4190f3fdefbf16a8.jpg)
 
-想了解更多乌布攻略？[请点击这里](/blog/ubud-guide/)
+{{block:ubud}}
 
 ## **第三天**
 
@@ -94,7 +120,7 @@ Warung Pulau Kelapa猪肋排、沙爹、印尼炒饭
 
 Ayoo Ayoo
 
-> 编者按：小编在巴厘岛吃过起码50家不同的汉堡，几乎都没有踩过雷，每家都好吃！
+> 编按：小编在巴厘岛吃过起码50家不同的汉堡，几乎都没有踩过雷，每家都好吃！
 
 接着，我们去了附近的超市补充了一些必需品，然后便抵达了动物园并入住。当晚，我们选择了园区内的 **Tsavo Lion 餐厅** 享用晚餐，这家餐厅最大的特色就是可以边吃饭边透过玻璃窗欣赏狮子！孩子们对此感到兴奋不已，整个用餐过程既有趣又别开生面。
 
@@ -102,11 +128,11 @@ Ayoo Ayoo
 
 Bali Safari Zoo
 
-> 延伸阅读：[巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/blog/bali-safari-night-stay/)
+> 延伸阅读：[【2026 巴厘岛野生动物园】Bali Safari 全攻略：夜宿狮子酒店、铁笼喂老虎、门票套票比较与亲子避雷行程规划](/blog/bali-safari-night-experience/)
 
-> 延伸阅读：[巴厘岛亲子一日游攻略：探索野生动物园与火烈鸟海滩俱乐部](/blog/bali-family-day-safari-flamingo/)
+> 延伸阅读：[巴厘岛亲子一日游攻略：探索野生动物园与红鹤海滩俱乐部](/blog/bali-family-day-safari-flamingo/)
 
-用餐结束后，餐厅外还提供了与动物合照的服务。我们选择了这项服务，摄影师帮我们拍了许多照片，有妈妈和哥哥的合照，爸爸和妹妹的，以及全家四口的合影。最棒的是，这整组照片包含所有数字文件，还有一张冲洗成 A4 大小的照片配上精美相册，价格只要USD$23左右。相片质量很好，全家人都拍得非常漂亮，我们觉得这真的是超值的回忆纪录！
+用餐结束后，餐厅外还提供了与动物合照的服务。我们选择了这项服务，摄影师帮我们拍了许多照片，有妈妈和哥哥的合照，爸爸和妹妹的，以及全家四口的合影。最棒的是，这整组照片包含所有数字文件，还有一张冲洗成 A4 大小的照片配上精美相册，价格只要 USD$23 左右。相片质量很好，全家人都拍得非常漂亮，我们觉得这真的是超值的回忆纪录！
 
 ![孩子們在動物園玩得很開心！](https://images.gobaligo.id/vocus/vocus_d2a9c9a4213a421155d1dfde20dfb81f.jpg)
 
@@ -116,7 +142,7 @@ Bali Safari Zoo
 
 ## **第四天**
 
-今天从 **Bali Safari** 转移到 **Westin Nusa Dua**，在路途中，我们请司机 Agus 帮忙寻找当地的小吃，包括 **Siobak 烧猪** 和 **Martabak 蛋饼**。Agus 不仅帮我们找到了合适的小店，还很细心地跟店老板沟通，避免我们因为是观光客而被宰价。这种细心的服务让我们感到非常窝心。
+今天从 **Bali Safari** 移动到 **Westin Nusa Dua**，在路途中，我们请司机 Agus 帮忙寻找当地的小吃，包括 **Siobak 烧猪** 和 **Martabak 蛋饼**。Agus 不仅帮我们找到了合适的小店，还很细心地跟店老板沟通，避免我们因为是观光客而被宰价。这种细心的服务让我们感到非常窝心。
 
 > 延伸阅读：[巴厘岛十大美食推荐](/blog/bali-top-10-foods/)
 
@@ -132,37 +158,41 @@ Bali Safari Zoo
 
 整体而言，今天的行程让我们体会到当地人的热情与细心，让我们的旅行更加愉快和难忘。
 
-▶[The Westin Resort Nusa Dua 空房&房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=104013)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774508076564-494348065.jpg)
 
-收录在「[Nusa Dua 努沙杜瓦16家公认最棒的五星度假村住宿推荐](/blog/nusa-dua-resorts-guide/)」
+![raw-image](https://images.gobaligo.id/images/2026-03/1774508077316-429291714.jpg)
 
+![raw-image](https://images.gobaligo.id/images/2026-03/1774508078195-435154005.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_458ebbef53693f34ad5c8b242487dab9.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_14758d8b01a3f573f2f4ecf01f0b4797.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_7c585092d82a739a4a27918fc934a2d7.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_b2a015100b4050a0e84b55da19995948.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_46bb1a6e3412b9032603871c54039af4.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_d47a1566fd5aa94a1d13630ebd657187.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_5b7f651283309da9cc8f84dbf7e4ccc8.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_b0a9f02ddfc0d6d61413ddabd98b44ec.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_6c95ec52156d10508f2947f61e335537.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_2399382eccfeb219cbc50ea36da789e7.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774508078990-429290465.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774508080151-429290513.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774508081345-475085698.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774508082516-494348072.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774508083267-504355293.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774508084040-526546323.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774508084801-552957828.jpg)
+
+> ▶The Westin Resort Nusa Dua 空房&房价查询 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=104013) [Trip](https://us.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=992162&checkIn=2026-06-02&checkOut=2026-06-03&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-P6x8zFJMEk9Z2Zo2HNpH-sQoxGBpwWnwQdq0XWuT-0muDgmQYCiyc7BPA0Ml5fXGDLdT3cYQbjouM2Gxlj-g991XDJdtjByHSC8ceFnYwLmOa92sR8ioWFY0W_8iWWX0zR1UrZqZVKViY6SiWZJTmpSlZKYY4hSjpKKanFyUAOkJWYm1-aVwJkG5mbGBgY6BkYAAVLEis8U8DakhNzkktzEktSQyoLgNrNdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7AYpYWGJOaSrEFUAL3VKhdhjW6mA6Ozi1qCwzOVUhOSOxKD0Vuw-MDQxN0HxgPiA-MK6NfcTCFB37iYXhFwtDEytDFyvDJFZWjhNrTzHuYuUJ9Iry8vbTNdSN0jWUkjcEhrqpobGpqa5BomVismmipa6JpYmpqbmupaGJqZHGh6f_jrwwNrKWYp1y4Pk0dgVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFspkZuliauUTZczJ4uQYKOaqyhKjcs7KVAPEUYTwvEM4TxApkPdt-6nsxrHwkTSWJNzdMNDc6YKlrA2MXILcDowRjBWMHYwMi4ipGdi9nAyFCAaQMj4w7G_zDA+IoRZCYAxofSbOcCAAA&masterhotelid_tracelogid=100051355-0a9ac5a9-494557-91452&detailFilters=17|1~17~1*31|992162~31~992162*80|0|1~80~0*29|1~29~1|2&display=exavg&subStamp=1148&isCT=true&isFlexible=F&locale=en-US&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109) [Booking](https://booking.tpm.li/FusIoeNm)
 
 ## **第五天**
 
-今天我们决定在 **威斯汀** 度假村享受悠闲的一天，放松心情，看看海景，享受 SPA 和骑自行车的乐趣。小孩则去 **儿童俱乐部** 玩耍，让他们在专业的指导下尽情玩乐，这让我们也可以安心地享受大人的时光。😁
+今天我们决定在 **Westin** 度假村享受悠闲的一天，放松心情，看看海景，享受 SPA 和骑自行车的乐趣。小孩则去 **Kid's Club** 玩耍，让他们在专业的指导下尽情玩乐，这让我们也可以安心地享受大人的时光。😁
 
-编按：努沙杜瓦威斯汀度假村的天堂 SPA 提供一些极棒的巴厘岛疗程：
+编按：Westin Resort Nusa Dua的Heavenly Spa提供一些极棒的巴厘岛疗程：
 
-> [努沙杜瓦威斯汀度假酒店的天堂SPA](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F58448-heavenly-spa-treatment-westin-resort-nusa-dua-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D266d1b14cb): 威斯汀度假酒店下的天堂SPA，提供极致奢华的身心灵宁静体验，融合度假村的高标准和全方位的疗愈疗程。
+> [Heavenly Spa by The Westin Resort Nusa Dua](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804830&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F58448-heavenly-spa-treatment-westin-resort-nusa-dua-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D266d1b14cb): 西汀度假村下的天堂SPA，提供极致奢华的身心灵宁静体验，融合度假村的高标准和全方位的疗愈疗程。
 
 晚餐我们选择了度假村内的 **渡边日本料理**，这家餐厅的料理品质相当不错，味道鲜美，让我们的胃口大开，为我们的放松日画下完美的句点。
 
-> [巴厘岛18家儿童俱乐部亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图、乌布适合家庭度假的最佳选择](/blog/bali-family-resorts-kids-club/)
+> [巴厘岛18家 kids club 亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图、乌布适合家庭度假的最佳选择](/blog/bali-family-resorts-kids-club/)
 
-### 更多努沙杜瓦吃喝玩乐介绍
-
-![raw-image](https://images.gobaligo.id/vocus/vocus_cdf8adc91b0cb56c259dbdcb07017ceb.png)
+{{block:dua}}
 
 努沙杜瓦（Nusa Dua）是巴厘岛以豪华度假村闻名的地区，拥有洁白的沙滩、碧蓝的海水以及完善的旅游设施，是追求高端享受与宁静假期的首选。这里还提供顶级水疗、水上活动、以及适合全家大小的休闲活动，是各类旅客的天堂。想了解更多努沙杜瓦攻略？[请点击这里](/blog/nusa-dua-guide/)
 
@@ -170,7 +200,7 @@ Bali Safari Zoo
 
 最后一天，我们的行程是前往机场，依然请 Agus 帮我们载送。非常感谢他和 Benny 对我们小孩在车上的吵闹表现出来的耐心与包容，让我们的旅程更加顺利。
 
-午餐我们选择在机场的 **Made's Warung** 解决，最后的告别餐当然是必须来一份令人怀念的 **Nasi Goreng** 和 **Mie Goreng**。这道经典的印尼炒饭和炒面依然让人吃不腻，伴随着我们的心情，和巴厘岛说声拜拜👋，也为这次的旅程划下完美的句点。
+午餐我们选择在机场的 **Made's Warung** 解决，最后的告别餐当然必须来一份令人怀念的 **Nasi Goreng** 和 **Mie Goreng**。这道经典的印尼炒饭和炒面依然让人吃不腻，伴随着我们的心情，和巴厘岛说声再见👋，也为这次的旅程划下完美的句点。
 
 整趟旅程中，我们不仅享受了美丽的风景和美味的食物，还与孩子们共同创造了许多美好的回忆，这将成为我们心中难以磨灭的珍贵体验。
 
@@ -196,39 +226,14 @@ LINE: gosaray 1105
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1df0cf433375816a009f12cfd6959173.png)
 
-## 亲子旅游延伸阅读：
+{{block:親子}}
 
-- [巴厘岛家庭亲子友好景点大全｜巴厘岛超过100样适合亲子同乐活动](/blog/bali-family-travel-guide/)
-- [带小朋友去巴厘岛家庭旅游的20个注意要点](/blog/bali-family-travel-tips/)
-- [巴厘岛亲子游：带婴儿、幼童和学龄儿童去度假的一些提示](/blog/bali-family-travel-guide-2/)
-- [巴厘岛找保姆指南：如何找到适合的保姆及费用概况](/blog/bali-nanny-hiring-guide/)
-- [带宝宝去巴厘岛：携带含猪肉、鸡肉副食品的注意事项](/blog/baby-food-bali-tips/)
-- [巴厘岛亲子乐园：十五家拥有滑水道滑梯的亲子度假村 TOP 15](/blog/bali-family-resorts-water-slides/)
-- [推荐巴厘岛18家庭亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图适合家庭度假、亲子放松的最佳选择](/blog/bali-family-resorts-kids-club/)
-- [乌布55项亲子活动带小朋友最轻松！](/blog/ubud-with-kids-guide/)
-- [巴厘岛最适合亲子度假的海滨：沙努尔攻略地图｜45项吃喝玩乐](/blog/sanur-guide/)
-- [巴厘岛亲子一日游攻略：探索野生动物园与红鹤海滩俱乐部](/blog/bali-family-day-safari-flamingo/)
-- [巴厘岛亲子游不能错过：巴厘岛动物园 Bali Safari 要怎么玩乐、夜宿攻略](/blog/bali-safari-night-stay/)
-- [2025新开幕](/blog/marine-safari-bali-guide/) [Marine Safari Bali 巴厘岛海洋野生动物园攻略](/blog/marine-safari-bali-guide/)
-- [与羊驼互动野餐：孩子们的自然课堂](/blog/pacha-alpaca-family-canggu/)
-- [Nuanu Creative City 的魔法花园 Magic Garden](/blog/nuanu-magic-garden-bali/)
-- [Jungle Kids Bali | Nuanu 的 Kids Club：最适合孩子的游乐与学习空间](/blog/jungle-kids-bali-nuanu-playground/)
-- [巴厘岛奇幻之旅：在巴厘岛海洋公园遇见《Varuna Show》的水下魔法](/blog/varuna-show-bali-safari/)
-- [巴厘岛亲子旅游攻略 - 水明漾篇](/blog/seminyak-family-travel-2026/)
-- [巴厘岛亲子旅游攻略 - 乌布篇](/blog/ubud-family-travel-2026/)
-- [巴厘岛亲子旅游攻略 - 沙努尔篇](/blog/sanur-family-travel-guide-2/)
-- [巴厘岛亲子乐园 Titi Batu Ubud Club 一日体验：健身、玩乐与放松的完美结合](/blog/titi-batu-ubud-family-club/)
-- [巴厘岛看海龟全指南：从库塔到沙努尔，亲子必访的海龟保育据点](/blog/bali-turtle-watching-guide/)
-- [Bali Bird Park 巴厘岛鸟园终极攻略：珍稀鸟种、互动活动与生态保育的奇幻旅程](/blog/bali-bird-park-guide/)
-- [The Firefly Garden 萤火虫花园：巴厘岛最闪耀的生态保育与旅游胜地](/blog/the-firefly-garden-ubud/)
-- [🎮 ZONE OUT Bali：库塔最酷的虚拟现实冒险基地！](/blog/zone-out-bali-vr-adventure/)
-- [夜幕下的幻光雨林：巴厘岛乌布Hikaria沉浸式光影艺术体验](/blog/hikaria-ubud-light-show/)
-- 巴厘岛家庭亲子旅游专栏
-
-您觉得 Sannie Lin 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
+您觉得 Sannie Lin 他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_17998a2e7852d50a5c777bd5e2d24f54.jpg)
 
 点击这里观看更多巴厘岛精彩游记
 
 你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+
+{{block:攻略}}
