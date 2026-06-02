@@ -6,7 +6,8 @@
     "node": ">=22.12.0"
   },
   "scripts": {
-    "dev": "astro dev",
+    "dev": "node scripts/generate-article-index.mjs && astro dev",
+    "sync-index": "node scripts/generate-article-index.mjs",
     "build": "node scripts/fix-string-tags.mjs && node scripts/fix-bold-markers.mjs && node scripts/generate-article-index.mjs && astro build && pagefind --site dist --force-language zh",
     "preview": "astro preview",
     "astro": "astro",
