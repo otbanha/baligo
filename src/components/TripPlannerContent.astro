@@ -57,7 +57,7 @@ const T = {
     u_cave_rafting: '洞穴漂流河',
     spots_kuta: '🏖️ 庫塔必訪景點',
     k_surf: '庫塔海灘學衝浪', k_waterbom: 'Waterbom 水上樂園', k_beachwalk: 'Beachwalk 購物中心',
-    k_turtle: '海龜中心', k_beerbus: '庫塔啤酒巴士', k_food: '庫塔美食', k_spa: 'SPA按摩',
+    k_turtle: '海龜中心', k_beerbus: '庫塔啤酒巴士', k_food: '庫塔美食', k_spa: 'SPA按摩', k_trans: 'Trans Studio Bali',
     spots_seminyak: '💅 水明漾必訪景點',
     se_daytour: '水明漾一日遊', se_surf: '水明漾衝浪', se_food: '水明漾美食',
     se_club: '水明漾五大夜店', se_spa: 'SPA按摩',
@@ -164,7 +164,7 @@ const T = {
     u_cave_rafting: '洞穴漂流河',
     spots_kuta: '🏖️ 庫塔必訪景點',
     k_surf: '庫塔海灘學衝浪', k_waterbom: 'Waterbom 水上樂園', k_beachwalk: 'Beachwalk 購物中心',
-    k_turtle: '海龜中心', k_beerbus: '庫塔啤酒巴士', k_food: '庫塔美食', k_spa: 'SPA按摩',
+    k_turtle: '海龜中心', k_beerbus: '庫塔啤酒巴士', k_food: '庫塔美食', k_spa: 'SPA按摩', k_trans: 'Trans Studio Bali',
     spots_seminyak: '💅 水明漾必訪景點',
     se_daytour: '水明漾一日遊', se_surf: '水明漾衝浪', se_food: '水明漾美食',
     se_club: '水明漾五大夜店', se_spa: 'SPA按摩',
@@ -271,7 +271,7 @@ const T = {
     u_cave_rafting: '洞穴漂流河',
     spots_kuta: '🏖️ 库塔必访景点',
     k_surf: '库塔海滩学冲浪', k_waterbom: 'Waterbom 水上乐园', k_beachwalk: 'Beachwalk 购物中心',
-    k_turtle: '海龟中心', k_beerbus: '库塔啤酒巴士', k_food: '库塔美食', k_spa: 'SPA按摩',
+    k_turtle: '海龟中心', k_beerbus: '库塔啤酒巴士', k_food: '库塔美食', k_spa: 'SPA按摩', k_trans: 'Trans Studio Bali',
     spots_seminyak: '💅 水明漾必访景点',
     se_daytour: '水明漾一日游', se_surf: '水明漾冲浪', se_food: '水明漾美食',
     se_club: '水明漾五大夜店', se_spa: 'SPA按摩',
@@ -378,7 +378,7 @@ const T = {
     u_cave_rafting: 'Cave River Rafting',
     spots_kuta: '🏖️ Kuta Must-Do',
     k_surf: 'Kuta Surf Lesson', k_waterbom: 'Waterbom Water Park', k_beachwalk: 'Beachwalk Mall',
-    k_turtle: 'Turtle Conservation', k_beerbus: 'Kuta Beer Bus', k_food: 'Kuta Dining', k_spa: 'Spa & Massage',
+    k_turtle: 'Turtle Conservation', k_beerbus: 'Kuta Beer Bus', k_food: 'Kuta Dining', k_spa: 'Spa & Massage', k_trans: 'Trans Studio Bali',
     spots_seminyak: '💅 Seminyak Must-Do',
     se_daytour: 'Seminyak Day Tour', se_surf: 'Seminyak Surfing', se_food: 'Seminyak Dining',
     se_club: 'Top 5 Nightclubs', se_spa: 'Spa & Massage',
@@ -564,6 +564,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
             <button class="chip" data-val="k_beerbus">{T.k_beerbus}</button>
             <button class="chip" data-val="k_food">{T.k_food}</button>
             <button class="chip" data-val="k_spa">{T.k_spa}</button>
+            <button class="chip" data-val="k_trans">{T.k_trans}</button>
           </div>
         </div>
         <div class="spots-region-group">
@@ -1991,7 +1992,7 @@ const SPOT_REGION_MAP = {
   u_junglepool:'ubud', u_jeep:'ubud', u_singing:'ubud', u_swing:'ubud', u_mario:'ubud',
   u_food:'ubud', u_spa:'ubud', u_penglipuran:'ubud',
   k_surf:'kuta', k_waterbom:'kuta', k_beachwalk:'kuta', k_turtle:'kuta', k_beerbus:'kuta',
-  k_food:'kuta', k_spa:'kuta',
+  k_food:'kuta', k_spa:'kuta', k_trans:'kuta',
   se_daytour:'seminyak', se_surf:'seminyak', se_food:'seminyak', se_club:'seminyak', se_spa:'seminyak',
   cg_tanah:'canggu', cg_labrisa:'canggu', cg_horse:'canggu', cg_nuanu:'canggu', cg_surf:'canggu', cg_spa:'canggu',
   ji_gwk:'jimbaran', ji_rockbar:'jimbaran', ji_seafood:'jimbaran', ji_shopping:'jimbaran',
@@ -2160,6 +2161,7 @@ const ALL_SPOTS_DATA = {
   k_beerbus:   { title: '庫塔啤酒巴士：峇里島最特別的夜遊體驗', url: '/blog/kuta-beer-on-wheels-bali/', tag: '夜遊' },
   k_food:      { title: '庫塔美食攻略：必吃餐廳與在地小吃推薦', url: '/blog/kuta-best-food-guide/', tag: '美食' },
   k_spa:       { title: '峇里島全區精華 SPA 推薦（以區域劃分）', url: '/blog/spa/', tag: 'SPA' },
+  k_trans:     { title: 'Trans Studio Bali 主題樂園完整攻略', url: '/blog/trans-studio-bali/', tag: '主題樂園' },
   // Seminyak
   se_daytour:  { title: '水明漾一日遊完整行程攻略', url: '/blog/seminyak-day-trip-guide/', tag: '一日遊' },
   se_surf:     { title: '峇里島衝浪攻略：適合不同等級的衝浪海灘', url: '/blog/bali-surf-beaches-guide/', tag: '衝浪' },
@@ -2246,6 +2248,7 @@ const SPOT_IMAGES = {
   k_beerbus:    'https://images.gobaligo.id/vocus/vocus_aa77bb3f2f0ffee906fdccf34ddbdbcc.jpg',
   k_food:       'https://images.gobaligo.id/vocus/vocus_379163a23650c3f251e94357f93c0736.jpg',
   k_spa:        'https://images.gobaligo.id/vocus/vocus_6579b0d7e4eb39f222791c28427fa7fb.jpg',
+  k_trans:      'https://images.gobaligo.id/vocus/vocus_trans-studio-bali.jpg',
   // Seminyak
   se_daytour:   'https://images.gobaligo.id/vocus/vocus_d9d929150c54e9a96490136e18b3e11a.jpg',
   se_surf:      'https://images.gobaligo.id/vocus/vocus_072768a98cc9dfc8bf4b4bca8e2f8b39.jpg',
