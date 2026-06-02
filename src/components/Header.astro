@@ -431,6 +431,19 @@ button.search-input:focus {
   line-height: 1;
 }
 
+/* 平板直式（tablet portrait）：601px – 900px */
+@media (min-width: 601px) and (max-width: 900px) {
+  nav { gap: 0.75em; }
+  .logo-desktop { display: none; }
+  .logo-line1 { display: block; }
+  .logo-line2 { display: block; font-size: 0.72em; opacity: 0.85; }
+  .logo-text { font-size: 1em; line-height: 1.25; }
+  .search-right { width: 180px; flex-shrink: 1; min-width: 100px; }
+  :global(.lang-switcher) { flex-shrink: 0; }
+  :global(.lang-current) { padding: 0.35em 0.6em; font-size: 0.82rem; }
+  :global(.lang-globe) { display: none; }
+}
+
 @media (max-width: 600px) {
   nav { padding: 0 0.75em; gap: 0.5em; }
   .logo-text { font-size: 0.95em; line-height: 1.2; }
