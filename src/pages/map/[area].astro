@@ -134,6 +134,9 @@ const relatedMapData = (area.relatedMaps ?? [])
       position: relative;
       font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
     }
+    .map-wrapper.has-place-list {
+      height: 55dvh;
+    }
 
     .map-topbar {
       height: 52px;
@@ -374,51 +377,64 @@ const relatedMapData = (area.relatedMaps ?? [])
       list-style: none;
       border-bottom: 1px solid #f0f0f0;
     }
-    /* ── Place list strip (only on maps with area.places) ── */
-    #place-strip-wrap {
-      position: absolute;
-      bottom: 28px;
-      left: 0; right: 0;
-      z-index: 600;
-      pointer-events: none;
-    }
-    #place-strip {
-      display: flex;
-      gap: 8px;
-      padding: 4px 14px 4px;
-      overflow-x: auto;
+    /* ── Place list section (below map, only on maps with area.places) ── */
+    .place-list-section {
+      height: 45dvh;
+      overflow-y: auto;
       -webkit-overflow-scrolling: touch;
-      scrollbar-width: none;
-      pointer-events: all;
+      background: #f7f5f2;
+      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
+      border-top: 1px solid #e0e0e0;
     }
-    #place-strip::-webkit-scrollbar { display: none; }
-    .place-chip {
-      flex-shrink: 0;
-      background: rgba(255,255,255,0.95);
-      backdrop-filter: blur(4px);
+    [data-dark] .place-list-section { background: #121212; border-top-color: #2a2a2a; }
+    .place-list-header {
+      font-size: 11px;
+      font-weight: 700;
+      color: #999;
+      letter-spacing: 1px;
+      text-transform: uppercase;
+      padding: 12px 16px 6px;
+      position: sticky;
+      top: 0;
+      background: #f7f5f2;
+      z-index: 2;
+    }
+    [data-dark] .place-list-header { background: #121212; color: #666; }
+    .place-list { padding: 0 0 8px; }
+    .place-list-item {
+      display: flex;
+      align-items: center;
+      gap: 12px;
+      width: 100%;
+      padding: 13px 16px;
+      background: none;
       border: none;
-      border-radius: 20px;
-      padding: 8px 14px;
-      font-size: 13px;
+      border-bottom: 1px solid rgba(0,0,0,0.06);
+      cursor: pointer;
+      text-align: left;
+      font-family: inherit;
+      -webkit-tap-highlight-color: transparent;
+      transition: background 0.12s;
+    }
+    .place-list-item:active, .place-list-item.active { background: #e8f5ee; }
+    [data-dark] .place-list-item { border-bottom-color: rgba(255,255,255,0.06); }
+    [data-dark] .place-list-item:active, [data-dark] .place-list-item.active { background: #1a3a2a; }
+    .place-num {
+      font-size: 12px;
+      font-weight: 700;
+      color: #bbb;
+      min-width: 18px;
+      text-align: right;
+    }
+    .place-emoji { font-size: 22px; flex-shrink: 0; }
+    .place-name {
+      flex: 1;
+      font-size: 15px;
       font-weight: 600;
       color: #1a1a1a;
-      cursor: pointer;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.18);
-      white-space: nowrap;
-      -webkit-tap-highlight-color: transparent;
-      font-family: inherit;
-      transition: transform 0.12s, background 0.12s;
     }
-    .place-chip:active, .place-chip.active {
-      transform: scale(0.95);
-      background: #e8f5ee;
-    }
-    [data-dark] .place-chip {
-      background: rgba(30,30,30,0.95);
-      color: #f0f0f0;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.5);
-    }
-    [data-dark] .place-chip.active { background: #1a3a2a; }
+    [data-dark] .place-name { color: #f0f0f0; }
+    .place-arrow { color: #ccc; font-size: 18px; }
 
     .related-maps { margin-top: 8px; }
     .related-maps h2 {
@@ -451,7 +467,7 @@ const relatedMapData = (area.relatedMaps ?? [])
 </head>
 
 <body>
-  <div class="map-wrapper">
+  <div class={`map-wrapper${area.places?.length ? ' has-place-list' : ''}`}>
     <Header lang="zh-tw" slug="map" hideLangSwitcher={true} />
     <TopStrip lang="zh-tw" />
 
@@ -477,21 +493,6 @@ const relatedMapData = (area.relatedMaps ?? [])
 
     <MapView area={area} />
 
-    {area.places && area.places.length > 0 && (
-      <div id="place-strip-wrap">
-        <div id="place-strip">
-          {area.places.map(p => (
-            <button
-              class="place-chip"
-              data-lat={p.lat}
-              data-lng={p.lng}
-              data-name={p.name}
-            >{p.emoji} {p.name}</button>
-          ))}
-        </div>
-      </div>
-    )}
-
     <button id="gps-btn" aria-label="定位到我的位置" onclick="window._gpsClick(this)" data-state="idle">
       <svg class="gps-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="pointer-events:none">
         <circle cx="12" cy="12" r="10"/>
@@ -505,6 +506,22 @@ const relatedMapData = (area.relatedMaps ?? [])
     </button>
     <RecommendForm areaName={area.name} areaSlug={area.slug} />
   </div>
+
+  {area.places && area.places.length > 0 && (
+    <section class="place-list-section">
+      <div class="place-list-header">全部地點（{area.places.length}）</div>
+      <div class="place-list">
+        {area.places.map((p, i) => (
+          <button class="place-list-item" data-lat={p.lat} data-lng={p.lng} data-name={p.name}>
+            <span class="place-num">{i + 1}</span>
+            <span class="place-emoji">{p.emoji}</span>
+            <span class="place-name">{p.name}</span>
+            <span class="place-arrow">›</span>
+          </button>
+        ))}
+      </div>
+    </section>
+  )}
 
   <!-- SEO content — SSR 渲染，爬蟲可索引，使用者向下捲動可見 -->
   <section class="seo-section" aria-label="地圖資訊">
@@ -718,18 +735,21 @@ const relatedMapData = (area.relatedMaps ?? [])
       setTimeout(markSeen, 7000); // fallback
     })();
 
-    // Place strip chips
+    // Place list items
     (function() {
-      var chips = document.querySelectorAll('.place-chip');
-      if (!chips.length) return;
-      chips.forEach(function(chip) {
-        chip.addEventListener('click', function() {
-          var lat = parseFloat(chip.dataset.lat);
-          var lng = parseFloat(chip.dataset.lng);
-          chips.forEach(function(c) { c.classList.remove('active'); });
-          chip.classList.add('active');
+      var items = document.querySelectorAll('.place-list-item');
+      if (!items.length) return;
+      items.forEach(function(item) {
+        item.addEventListener('click', function() {
+          var lat = parseFloat(item.dataset.lat);
+          var lng = parseFloat(item.dataset.lng);
+          items.forEach(function(i) { i.classList.remove('active'); });
+          item.classList.add('active');
           if (window._mapApi) {
             window._mapApi.flyTo(lat, lng, 17);
+            // scroll map back into view on mobile
+            var wrapper = document.querySelector('.map-wrapper');
+            if (wrapper) wrapper.scrollIntoView({ behavior: 'smooth' });
           }
         });
       });
