@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 9f976b3a88afd7b3d3d3c8dfc2289e6d
+_srcHash: 13871375f86d1a7a2a51e93da6ace61f
 ---
 
 很多人订完机票、酒店后，最后才想到：
@@ -50,7 +50,7 @@ _srcHash: 9f976b3a88afd7b3d3d3c8dfc2289e6d
 
 # 台湾旅客 🇹🇼
 
-目前最方便的方式，就是直接线上投保。
+目前最方便的方式，就是直接在线投保。
 
 常见旅游险：
 
@@ -64,7 +64,7 @@ _srcHash: 9f976b3a88afd7b3d3d3c8dfc2289e6d
 
 - 海外突发疾病
 - 意外医疗
-- 航班延误
+- 班机延误
 - 行李遗失
 - 紧急救援
 
@@ -72,7 +72,7 @@ _srcHash: 9f976b3a88afd7b3d3d3c8dfc2289e6d
 
 # 香港旅客 🇭🇰
 
-香港人很多会通过：
+香港人很多会透过：
 
 - 保险公司官网
 - 银行 App
@@ -86,14 +86,14 @@ _srcHash: 9f976b3a88afd7b3d3d3c8dfc2289e6d
 - AXA
 - Blue
 
-有些信用卡虽然附旅游保险，但保障内容通常偏基本。
+有些信用卡虽然附赠旅游保险，但保障内容通常比较基础。
 如果是长天数旅行、跳岛、玩水上活动，建议还是另外购买完整方案。
 
 ***
 
 # 马来西亚旅客 🇲🇾
 
-马来西亚旅客买旅游保险其实非常方便。
+马来西亚旅客购买旅游保险其实非常方便。
 
 很多人会通过：
 
@@ -107,7 +107,7 @@ _srcHash: 9f976b3a88afd7b3d3d3c8dfc2289e6d
 - Etiqa
 - Tune Protect
 
-东南亚方案通常不贵，短期旅游几十 RM 就能买到。
+东南亚方案通常不贵，短期旅游几十马币就能买到。
 
 ***
 
@@ -134,20 +134,20 @@ _srcHash: 9f976b3a88afd7b3d3d3c8dfc2289e6d
 - 浮潜
 - 冲浪
 - ATV
-- 火山健行
+- 火山徒步
 
-记得注意是否有包含「冒险活动保障」。
+记得注意是否包含「冒险活动保障」。
 
 ***
 
 # 巴厘岛海外医疗，其实比很多人想象贵 💸
 
-不少旅客到巴厘岛后，第一次进国际诊所都会吓到。
+不少游客到巴厘岛后，第一次进国际诊所都会吓到。
 
 常见国际医院：
 
-- BIMC 医院
-- 巴厘岛 Siloam 医院
+- BIMC Hospital
+- Siloam Hospitals Bali
 
 简单感冒、肠胃炎、打点滴，费用就可能不低。
 
@@ -162,6 +162,8 @@ _srcHash: 9f976b3a88afd7b3d3d3c8dfc2289e6d
 医疗费用可能更高。
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1778985202187-insurance2.png)
+
+也可以通过线上平台投保： [Klook海外旅游保险](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1292786&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Finsurance%2Fklook-protect%2F) [Trip(香港游客）](https://hk.trip.com/insurance?bid=1&cid=2&pid=1&locale=zh-HK&curr=HKD&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
 ***
 
@@ -259,7 +261,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 
 不一定算理赔范围。
 
-尤其廉航更要注意条款。
+尤其是廉价航空更要注意条款。
 
 ***
 
@@ -270,7 +272,7 @@ https://youtube.com/shorts/y5HMPegD5Rk
 - 行李延误：晚到
 - 行李遗失：真的找不到
 
-理赔方式差别很大。
+理赔方式差很多。
 
 而且很多保险需要：
 
@@ -286,21 +288,21 @@ https://youtu.be/H5N5_UuK7TI
 
 去过几次巴厘岛后，我现在出国其实有一个想法：
 
-「旅游保险平时像白花钱，但真的出事时，会觉得还好有买。」
+「旅游保险平常像白花钱，但真的出事时，会觉得还好有买。」
 
 尤其巴厘岛不是那种完全零风险的地方。
 很多人会：
 
 - 骑摩托车
 - 玩水上活动
-- 长时间曝晒
+- 长时间暴晒
 - 一天跑很多地方
 
 再加上天气、航班、火山这些因素，其实变数不少。
 
-我现在自己买旅游险，不太会只看「最便宜」。
+我自己现在买旅游险，不太会只看「最便宜」。
 
-因为有些便宜方案，看起来保了很多东西，但真正重要的：
+因为有些便宜方案，看起来有保很多东西，但真正重要的：
 
 - 海外突发疾病
 - 紧急医疗
@@ -315,25 +317,27 @@ https://youtu.be/H5N5_UuK7TI
 
 如果真的因为食物中毒、登革热、车祸、冲浪受伤需要住院，费用其实很容易超出预期。
 
-另外我也很建议一定要有「不便险」。
+另外我也建议一定要有「不便险」。
 
 因为东南亚旅行最常遇到的，反而不是重大事故，而是：
 
-- 航班延误
+- 班机延误
 - 行李晚到
 - 航班取消
-- 临时改航班
+- 临时改班机
 
 尤其巴厘岛有时碰到火山或暴雨，航班真的会乱掉。
 
 以前很多人觉得旅游保险可有可无，
 但现在我反而觉得，它比较像是：
 
-“帮自己买一个不要太慌张的底气。”
+「帮自己买一个不要太慌张的底气。」
+
+通过线上平台投保： [Klook海外旅游保险](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1292786&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Finsurance%2Fklook-protect%2F) [Trip(香港游客）](https://hk.trip.com/insurance?bid=1&cid=2&pid=1&locale=zh-HK&curr=HKD&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17432109)
 
 {{block:klook}}
 
----
+***
 
 👈 **回到巴厘岛自由行终极指南**
 
