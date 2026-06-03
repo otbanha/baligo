@@ -14,6 +14,7 @@ export interface MapArea {
   ogImage?: string;
   relatedMaps?: string[];
   lastmod?: string;
+  places?: Array<{ name: string; emoji: string; lat: number; lng: number }>;
 }
 
 export const maps: MapArea[] = [
@@ -415,6 +416,18 @@ export const maps: MapArea[] = [
     isThematic: true,
     myMapsId: "1EwChz03mQlwDY7tvdyi58swY_UiL7nc",
     relatedMaps: ["nusa-dua", "sanur", "ubud"],
+    places: [
+      { name: "Waterbom Bali",                emoji: "💦", lat: -8.7285815, lng: 115.1692888 },
+      { name: "峇里島野生動物園",              emoji: "🦁", lat: -8.5822029, lng: 115.3472573 },
+      { name: "Marine Safari Bali",            emoji: "🐠", lat: -8.5817095, lng: 115.3469507 },
+      { name: "Mason Elephant Park & Lodge",   emoji: "🐘", lat: -8.391231,  lng: 115.283967  },
+      { name: "Bali Bird Park",                emoji: "🦜", lat: -8.5996431, lng: 115.2520569 },
+      { name: "Bali Reptile Park",             emoji: "🦎", lat: -8.599717,  lng: 115.251922  },
+      { name: "Bali Exotic Marine Park",       emoji: "🐙", lat: -8.7237978, lng: 115.2165033 },
+      { name: "Bali Zoo",                      emoji: "🦒", lat: -8.5918875, lng: 115.2656748 },
+      { name: "AeroXSpace Adventure Bali",     emoji: "🪂", lat: -8.71298,   lng: 115.2289103 },
+      { name: "Trans Studio Theme Park Bali",  emoji: "🎢", lat: -8.7019925, lng: 115.1830569 },
+    ],
   },
 ];
 
