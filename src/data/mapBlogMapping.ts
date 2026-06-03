@@ -331,6 +331,7 @@ export const mapBlogMapping: Record<string, MapBlogLink> = {
       "https://gobaligo.id/blog/bali-bird-park-guide/",
       "https://gobaligo.id/blog/aeroxspace-sanur-indoor-playground/",
       "https://gobaligo.id/blog/trans-studio-bali/",
+      "https://gobaligo.id/blog/Bali-Reptile-Park/",
     ],
     blogTitle: "峇里島十大親子樂園完全攻略",
     teaser: "水上樂園、野生動物園、海豚體驗，十大親子必玩景點一次收錄",
