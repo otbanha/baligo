@@ -682,7 +682,6 @@ const relatedMapData = (area.relatedMaps ?? [])
             if (api) {
               api.flyTo(lat, lng, 15);
               api.setUserLocation(lat, lng);
-              api.enableNearby();
             } else if (retries > 0) {
               setTimeout(function() { applyPos(retries - 1); }, 600);
             }
