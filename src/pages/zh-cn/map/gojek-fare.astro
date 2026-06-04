@@ -242,7 +242,7 @@ const ldJson = JSON.stringify({
     .zone-warning + .zone-warning { margin-top: 8px; }
 
     .notice-box {
-      background: #f0f7ff;
+      background: #FEF5ED;
       border: 1.5px solid #b8d4f0;
       border-radius: 14px;
       padding: 14px 16px;
@@ -275,8 +275,8 @@ const ldJson = JSON.stringify({
     .faq-a.open { display: block; }
 
     .seo-section { background: #fff; border-radius: 16px; padding: 20px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); margin-bottom: 16px; }
-    .seo-section h2 { font-size: 17px; font-weight: 800; color: #1a365d; margin-bottom: 12px; }
-    .seo-section h3 { font-size: 14px; font-weight: 700; color: #1a365d; margin: 14px 0 6px; }
+    .seo-section h2 { font-size: 17px; font-weight: 800; color: #5D4037; margin-bottom: 12px; }
+    .seo-section h3 { font-size: 14px; font-weight: 700; color: #5D4037; margin: 14px 0 6px; }
     .seo-section p { font-size: 13px; color: #555; line-height: 1.8; margin-bottom: 10px; }
     .seo-section ul { padding-left: 18px; margin-bottom: 10px; }
     .seo-section ul li { font-size: 13px; color: #555; line-height: 1.7; margin-bottom: 4px; }
@@ -292,7 +292,7 @@ const ldJson = JSON.stringify({
     .airport-video-tip { font-size: 13px; color: #2d7a4f; margin-top: 10px; background: #e8f8ee; border-radius: 10px; padding: 10px 12px; }
 
     .related-links-card { background: #fff; border-radius: 20px; padding: 20px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); margin-top: 16px; }
-    .related-links-title { font-size: 15px; font-weight: 800; color: #1a365d; margin-bottom: 14px; }
+    .related-links-title { font-size: 15px; font-weight: 800; color: #5D4037; margin-bottom: 14px; }
 
     .tool-grid { display: grid; grid-template-columns: 1fr; gap: 0; }
 
@@ -747,7 +747,7 @@ const ldJson = JSON.stringify({
     const shuffled = relatedLinks.sort(() => Math.random() - 0.5).slice(0, 8);
     const listEl = document.getElementById('related-links-list');
     if (listEl) {
-      const s = 'display:block;padding:12px 16px;margin-bottom:8px;background:linear-gradient(135deg,#f0f7ff,#fff);border:1.5px solid #c0d8f0;border-left:4px solid #1a6fa8;border-radius:10px;text-decoration:none;color:#1a4a7a;font-size:14px;font-weight:600;line-height:1.4;';
+      const s = 'display:block;padding:12px 16px;margin-bottom:8px;background:linear-gradient(135deg,#FEF5ED,#fff);border:1.5px solid #c0d8f0;border-left:4px solid #1a6fa8;border-radius:10px;text-decoration:none;color:#1a4a7a;font-size:14px;font-weight:600;line-height:1.4;';
       listEl.innerHTML = shuffled.map(l => `<a style="${s}" href="${l.href}">${l.text}</a>`).join('');
     }
 

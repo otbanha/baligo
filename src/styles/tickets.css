@@ -1,14 +1,14 @@
   /* ── Design tokens ── */
   :root {
-    --ocean: #1A365D;
-    --ocean-mid: #1e3f6e;
+    --ocean: #5D4037;
+    --ocean-mid: #7B5038;
     --gold: #C5A059;
     --gold-pale: #f0e0b8;
   }
 
   /* ── Hero ── */
   .tickets-hero {
-    background: linear-gradient(135deg, var(--ocean) 0%, #2a5298 60%, #1a365d 100%);
+    background: linear-gradient(135deg, var(--ocean) 0%, #9A6447 60%, #5D4037 100%);
     position: relative;
     overflow: hidden;
     padding: 64px 24px 56px;
@@ -102,7 +102,7 @@
     background: #fff;
     font-size: 14px;
     color: #1a1a1a;
-    box-shadow: 0 1px 4px rgba(26,54,93,0.06);
+    box-shadow: 0 1px 4px rgba(93,64,55,0.06);
     transition: border-color 0.2s, box-shadow 0.2s;
     font-family: inherit;
     box-sizing: border-box;
@@ -110,7 +110,7 @@
   .tickets-search:focus {
     outline: none;
     border-color: var(--ocean);
-    box-shadow: 0 0 0 3px rgba(26,54,93,0.1);
+    box-shadow: 0 0 0 3px rgba(93,64,55,0.1);
   }
   .tickets-sort {
     height: 44px;
@@ -121,7 +121,7 @@
     appearance: none;
     font-size: 14px;
     color: #374151;
-    box-shadow: 0 1px 4px rgba(26,54,93,0.06);
+    box-shadow: 0 1px 4px rgba(93,64,55,0.06);
     cursor: pointer;
     font-family: inherit;
     transition: border-color 0.2s;
@@ -162,7 +162,7 @@
     background: var(--ocean);
     border-color: var(--ocean);
     color: #fff;
-    box-shadow: 0 2px 8px rgba(26,54,93,0.25);
+    box-shadow: 0 2px 8px rgba(93,64,55,0.25);
   }
 
   /* ── Result count ── */
@@ -207,7 +207,7 @@
     background: #fff;
     border-radius: 16px;
     border: 1px solid #eef0f5;
-    box-shadow: 0 2px 12px rgba(26,54,93,0.07);
+    box-shadow: 0 2px 12px rgba(93,64,55,0.07);
     padding: 20px;
     display: flex;
     flex-direction: column;
@@ -218,7 +218,7 @@
   }
   .ticket-card:hover {
     transform: translateY(-3px);
-    box-shadow: 0 8px 32px rgba(26,54,93,0.14);
+    box-shadow: 0 8px 32px rgba(93,64,55,0.14);
   }
   .ticket-card-accent {
     position: absolute;

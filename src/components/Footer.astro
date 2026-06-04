@@ -90,6 +90,12 @@ const disclaimer = lang === 'en'
 
   </div>
 
+  <!-- 2026 流年火旺促銷區塊（2026 全年顯示） -->
+  <div class="fire-banner">
+    <span class="fire-text">🔥 峇里島火熱優惠中・2026 丙午年限定好價</span>
+    <a href="/blog/" class="fire-cta">立即搶訂 →</a>
+  </div>
+
   <!-- 底部版權+免責聲明 -->
   <div class="footer-bottom">
     <p class="copyright">&copy; {today.getFullYear()} Go Bali Go. All rights reserved.</p>
@@ -240,5 +246,41 @@ footer {
     padding: 2em 1.5em;
   }
 
+}
+
+.fire-banner {
+  background: #FF6B6B;
+  padding: 0.8em 2em;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2em;
+  flex-wrap: wrap;
+  border-top: 2px solid #E63946;
+}
+
+.fire-text {
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.95em;
+  letter-spacing: 0.02em;
+}
+
+.fire-cta {
+  display: inline-block;
+  background: #fff;
+  color: #E63946;
+  font-weight: 800;
+  font-size: 0.88em;
+  padding: 0.35em 1em;
+  border-radius: 20px;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s;
+}
+
+.fire-cta:hover {
+  background: #5D4037;
+  color: #fff;
 }
 </style>
