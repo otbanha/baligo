@@ -715,6 +715,8 @@ const socialLinks = [
     let articleHeroMap = {};
     fetch('/article-index.json').then(r => r.json()).then(arr => {
       arr.forEach(a => { if (a.id && a.heroImage) articleHeroMap[a.id] = a.heroImage; });
+      // fetch 完後若目前已在某分類，重新渲染精選（補齊空白 heroImage）
+      if (currentCat && currentCat !== 'all') updateFeatured(currentCat);
     }).catch(() => {});
 
     // 從 KV 動態載入精選文章（若有資料則覆蓋靜態清單）
