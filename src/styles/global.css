@@ -107,7 +107,8 @@ h4 { font-size: 1.25em; }
 h5 { font-size: 1.1em; }
 
 strong, b { font-weight: 700; color: var(--ocean); }
-.news-content strong, .news-content b, .news-content a, .news-content * { color: white !important; }
+.news-content strong, .news-content b, .news-content * { color: #5D4037 !important; }
+.news-content a { color: #C0392B !important; }
 .accom-image img, .news-content img { height: 220px !important; object-fit: cover !important; object-position: center; width: 100% !important; }
 
 a {
