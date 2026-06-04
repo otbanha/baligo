@@ -772,7 +772,11 @@ const socialLinks = [
           card.href = `${blogBase}/${shuffled[i].id}/`;
           card.querySelector('h3').textContent = shuffled[i].title;
           const img = card.querySelector('img');
-          if (img) { img.src = shuffled[i].heroImage; img.alt = shuffled[i].title; }
+          if (img) {
+            img.removeAttribute('loading'); // Safari: remove lazy attr before setting src
+            img.alt = shuffled[i].title;
+            img.src = shuffled[i].heroImage;
+          }
           card.style.display = 'flex';
         } else {
           card.style.display = 'none';
