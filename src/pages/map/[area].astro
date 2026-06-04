@@ -492,20 +492,21 @@ const relatedMapData = (area.relatedMaps ?? [])
     </div>
 
     <MapView area={area} />
-
-    <button id="gps-btn" aria-label="定位到我的位置" onclick="window._gpsClick(this)" data-state="idle">
-      <svg class="gps-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="pointer-events:none">
-        <circle cx="12" cy="12" r="10"/>
-        <circle cx="12" cy="12" r="3"/>
-        <line x1="12" y1="2" x2="12" y2="4"/>
-        <line x1="12" y1="20" x2="12" y2="22"/>
-        <line x1="2" y1="12" x2="4" y2="12"/>
-        <line x1="20" y1="12" x2="22" y2="12"/>
-      </svg>
-      <span class="gps-label">我的位置</span>
-    </button>
     <RecommendForm areaName={area.name} areaSlug={area.slug} />
   </div>
+
+  <!-- GPS button outside map-wrapper to avoid overflow:hidden touch interception on Android -->
+  <button id="gps-btn" aria-label="定位到我的位置" onclick="window._gpsClick(this)" data-state="idle">
+    <svg class="gps-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="pointer-events:none">
+      <circle cx="12" cy="12" r="10"/>
+      <circle cx="12" cy="12" r="3"/>
+      <line x1="12" y1="2" x2="12" y2="4"/>
+      <line x1="12" y1="20" x2="12" y2="22"/>
+      <line x1="2" y1="12" x2="4" y2="12"/>
+      <line x1="20" y1="12" x2="22" y2="12"/>
+    </svg>
+    <span class="gps-label">我的位置</span>
+  </button>
 
   {area.places && area.places.length > 0 && (
     <section class="place-list-section">
