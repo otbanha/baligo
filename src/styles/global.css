@@ -15,7 +15,7 @@
   --gold: #C5A059;
   --gold-light: #d4b47a;
   --gold-pale: #f0e0b8;
-  --sand: #F5E6D3;
+  --sand: #FAF3EB;
   --white: #ffffff;
   --text: #5D4037;
   --text-light: #7B5038;
@@ -68,7 +68,7 @@ html {
 }
 
 body {
-  background-color: #F5E6D3;
+  background-color: #FAF3EB;
   font-family: 'PingFang TC', 'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
   margin: 0;
   padding: 0;
