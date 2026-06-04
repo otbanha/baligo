@@ -198,8 +198,6 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
       'tourism-tax': 'background:#fdf4ff;color:#7e22ce',
       other:         'background:#f1f5f9;color:#475569',
     };
-    const TRUST_LABELS = { new:'新成員', trial:'試用中', trusted:'可信賴', gold:'金牌' };
-
     function sanitize(str) {
       const d = document.createElement('div');
       d.textContent = str ?? '';
@@ -215,13 +213,6 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
         });
     }
 
-    function getTrust(n) {
-      if (n >= 10) return 'gold';
-      if (n >= 3)  return 'trusted';
-      if (n >= 1)  return 'trial';
-      return 'new';
-    }
-
     function timeAgo(dateStr) {
       const diff = Math.floor((Date.now() - new Date(dateStr)) / 1000);
       if (diff < 60)   return '剛剛';
@@ -234,7 +225,6 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     // ── Post card ────────────────────────────────────────────
     function renderPostCard(p) {
       const profile = p.user_profiles || {};
-      const trust = getTrust(profile.approved_count || 0);
       const excerpt = (p.content || '').slice(0, 100) + (p.content?.length > 100 ? '⋯' : '');
       return `
         <article class="post-card" data-id="${sanitize(p.id)}">
@@ -259,7 +249,6 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     // ── Post detail ──────────────────────────────────────────
     function renderPostDetail(p, replies, currentUserId, likedSet = new Set()) {
       const profile = p.user_profiles || {};
-      const trust = getTrust(profile.approved_count || 0);
 
       const repliesHtml = replies.length === 0
         ? '<p class="no-replies">還沒有回覆，來第一個留言！</p>'
@@ -306,7 +295,6 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
           <div class="pd-author-row">
             ${profile.avatar_url ? `<img src="${sanitize(profile.avatar_url)}" class="pd-avatar" alt="" />` : '<span class="pd-avatar-ph">👤</span>'}
             <span class="pd-author-name">${sanitize(profile.display_name || '匿名')}</span>
-            <span class="trust-badge trust-badge--${trust}">${TRUST_LABELS[trust]}</span>
             <span class="pd-time">${timeAgo(p.created_at)}</span>
           </div>
           <div class="pd-content" id="pd-post-content">${linkify(p.content)}</div>
@@ -368,7 +356,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     async function loadPosts(reset = false) {
       if (reset) { page = 0; document.getElementById('posts-list').innerHTML = ''; }
       let q = sb.from('posts')
-        .select('id, topic, title, content, reply_count, created_at, user_profiles(display_name, avatar_url, approved_count)')
+        .select('id, topic, title, content, reply_count, created_at, user_profiles(display_name, avatar_url)')
         .eq('moderation_status', 'approved')
         .order('created_at', { ascending: false })
         .range(page * PAGE_SIZE, (page + 1) * PAGE_SIZE - 1);
@@ -414,8 +402,8 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
       content.innerHTML = '';
 
       const [postRes, repliesRes, sessionRes] = await Promise.all([
-        sb.from('posts').select('*, image_urls, user_profiles(display_name, avatar_url, approved_count)').eq('id', id).eq('moderation_status', 'approved').single(),
-        sb.from('replies').select('*, like_count, user_profiles(display_name, avatar_url, approved_count)')
+        sb.from('posts').select('*, image_urls, user_profiles(display_name, avatar_url)').eq('id', id).eq('moderation_status', 'approved').single(),
+        sb.from('replies').select('*, like_count, user_profiles(display_name, avatar_url)')
           .eq('post_id', id)
           .order('like_count', { ascending: false, nullsFirst: false })
           .order('created_at', { ascending: true }),
@@ -623,7 +611,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
             post_id: id,
             user_id: session.session.user.id,
             content: text,
-          }).select('*, user_profiles(display_name, avatar_url, approved_count)').single();
+          }).select('*, user_profiles(display_name, avatar_url)').single();
 
           if (error) {
             errEl.textContent = '送出失敗：' + error.message;
@@ -836,11 +824,6 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   .pc-time { font-size: .78rem; color: #b0a898; }
 
   /* Trust badge */
-  .trust-badge { display:inline-block; font-size:.68em; font-weight:700; padding:.15em .55em; border-radius:10px; vertical-align:middle; }
-  .trust-badge--new     { background:#f1f5f9; color:#64748b; }
-  .trust-badge--trial   { background:#FDE8D8; color:#C0392B; }
-  .trust-badge--trusted { background:#dcfce7; color:#166534; }
-  .trust-badge--gold    { background:rgba(201,168,76,.2); color:var(--ocean); }
 
   /* Load more / empty */
   .loading-text { color: var(--text-light); font-size: .9rem; padding: 2rem 0; text-align: center; }
