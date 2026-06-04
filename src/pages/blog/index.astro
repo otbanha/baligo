@@ -822,7 +822,7 @@ const socialLinks = [
     }
 
     function updatePagination() {
-      const totalPages = Math.ceil(filteredCards.length / POSTS_PER_PAGE);
+      const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE);
       const pagination = document.getElementById('pagination');
       pagination.innerHTML = '';
       if (totalPages <= 1) return;
