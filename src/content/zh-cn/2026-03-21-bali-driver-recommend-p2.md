@@ -11,7 +11,7 @@ originalUrl: ''
 shuffle_h2: true
 embeds: []
 lang: zh-cn
-_srcHash: 237c213f87f3ffb7c5101cd31c818aee
+_srcHash: b4329c296e851b67d742062d483ee37c
 ---
 
 第一页，获得我们优先推荐的司机在[这里](https://gobaligo.id/blog/bali-private-car-drivers-guide/)
@@ -22,7 +22,7 @@ _srcHash: 237c213f87f3ffb7c5101cd31c818aee
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787449808-jimmi_new.jpg)
 
-👍🏼[网友推荐1](https://www.facebook.com/share/p/CGPsriMfi2eDeEQX/) 👍🏼[网友推荐2](https://www.facebook.com/share/v/kjsQ2TwqsEqUMFx9/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/15fjFWAbXM/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/15nNA4aGZz/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/15iBddik33/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/17nFfb2u9j/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/17gKzp4xNs/)
+👍🏼[网友推荐1](https://www.facebook.com/share/p/CGPsriMfi2eDeEQX/) 👍🏼[网友推荐2](https://www.facebook.com/share/v/kjsQ2TwqsEqUMFx9/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/15fjFWAbXM/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/15nNA4aGZz/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/15iBddik33/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/17nFfb2u9j/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/17gKzp4xNs/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1ERGJqTW86/)
 
 ## Betty Pinsky & 小吴
 

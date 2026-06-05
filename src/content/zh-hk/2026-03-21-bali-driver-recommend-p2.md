@@ -11,7 +11,7 @@ originalUrl: ''
 shuffle_h2: true
 embeds: []
 lang: zh-hk
-_srcHash: 237c213f87f3ffb7c5101cd31c818aee
+_srcHash: b4329c296e851b67d742062d483ee37c
 ---
 
 第一頁，我哋優先推薦嘅司機喺[呢度](https://gobaligo.id/blog/bali-private-car-drivers-guide/)
@@ -22,7 +22,7 @@ _srcHash: 237c213f87f3ffb7c5101cd31c818aee
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774787449808-jimmi_new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/CGPsriMfi2eDeEQX/) 👍🏼[網友推薦2](https://www.facebook.com/share/v/kjsQ2TwqsEqUMFx9/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/15fjFWAbXM/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/15nNA4aGZz/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/15iBddik33/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/17nFfb2u9j/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/17gKzp4xNs/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/CGPsriMfi2eDeEQX/) 👍🏼[網友推薦2](https://www.facebook.com/share/v/kjsQ2TwqsEqUMFx9/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/15fjFWAbXM/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/15nNA4aGZz/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/15iBddik33/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/17nFfb2u9j/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/17gKzp4xNs/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1ERGJqTW86/)
 
 ## Betty Pinsky & 小吳
 
@@ -100,7 +100,7 @@ _srcHash: 237c213f87f3ffb7c5101cd31c818aee
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774788060634-kadek_puri_new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/ikjZaN47Mkqx4dRt/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/186Vs8hbsD/) 👍🏼[網友推薦3](https://www.facebook.com/groups/baligo/permalink/1503824840164756/) 👍🏼[網友推薦4](https://www.facebook.com/groups/baligo/permalink/1560547227825850/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1AgQcowhq1seW59v/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1KdjNhGDoh/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/ikjZaN47Mkqx4dRt/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1AgQcowhq1seW59v/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1KdjNhGDoh/)
 
 ## Dwik
 
@@ -132,6 +132,6 @@ _srcHash: 237c213f87f3ffb7c5101cd31c818aee
 
 ***
 
-👈 **返到峇里島自由行終極指南**
+👈 **返去峇里島自由行終極指南**
 
 想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
