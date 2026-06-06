@@ -135,6 +135,17 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['家庭', '3房', '4房', '5房', '6房', '三房', '四房', '五房', '六房',
+               '6人以上', '6人', '七人', '八人', '多人', '大家庭', '一大家',
+               '家庭villa', '家庭別墅', '家庭包棟', '家庭住宿',
+               'family villa', 'family house', '3 bedroom', '4 bedroom', '5 bedroom', '6 bedroom',
+               '3-bedroom', '4-bedroom', '5-bedroom', '6-bedroom',
+               'group villa', 'group accommodation', '6 people', 'large group'],
+    articles: [
+      { title: '峇里島團體自由行旅遊：包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦', url: '/blog/bali-group-villa-stay/' },
+    ],
+  },
+  {
     keywords: ['獨棟', 'villa', 'Villa', 'VILLA', '包棟', '別墅', '三房', '四房', '五房', '六房',
                '家庭villa', '包villa', '租villa', '住villa',
                'private villa', 'Private Villa', 'romantic villa', 'Romantic Villa',
