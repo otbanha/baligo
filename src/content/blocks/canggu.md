@@ -12,7 +12,7 @@ randomCount: 5
 
 ## 長谷住宿主題介紹
 
-- [峇里島住宿推薦：Canggu Top 18 你不能錯過的住宿推薦](/blog/canggu-top-hotels-guide/)
-- [長谷區16間私人泳池別墅推薦 Canggu Villa 你不能錯過的峇里島別墅](/blog/canggu-villas-guide/)
+- [峇里島住宿推薦：Canggu Top 20+ 你不能錯過的住宿推薦](/blog/canggu-top-hotels-guide/)
+- [長谷區 10+ 私人泳池別墅推薦 Canggu Villa 你不能錯過的峇里島別墅](/blog/canggu-villas-guide/)
 - [長谷頂級渡假村 Regent Bali Canggu](/blog/regent-bali-canggu/)
 - [峇里島團體自由行旅遊：長谷包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦](/blog/bali-group-villa-stay/)
