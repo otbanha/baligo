@@ -14,11 +14,12 @@ const row1 = [
 ] as const;
 
 const row2 = [
-  { id: 'visa',    icon: '🛂', url: '/forum/immigration/', noLocalize: true, publishedAt: '2026-05-26' },
+  { id: 'flight',  icon: '✈️', url: '/blog/ticket/', noLocalize: true },
+  { id: 'visa',    icon: '🛂', url: '/forum/immigration/', noLocalize: true },
   { id: 'sim',     icon: '📶', url: '/blog/bali-sim-card-esim-guide/' },
   { id: 'driver',  icon: '🚕', url: '/blog/bali-private-car-drivers-guide/' },
   { id: 'spa',     icon: '🧖', url: '/blog/spa/' },
-  { id: 'tickets', icon: '🎟️', url: '/tickets/', publishedAt: '2026-05-15' },
+  { id: 'tickets', icon: '🎟️', url: '/tickets/' },
 ] as const;
 
 const allItems = [...row1, ...row2] as const;
@@ -32,6 +33,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     map:       { full: '攻略地圖',   mobile: '地圖' },
     transport: { full: '交通選擇',   mobile: '交通' },
     fare:      { full: '車資計算',   mobile: '車資' },
+    flight:    { full: '機票',       mobile: '機票' },
     visa:      { full: '簽證入境',   mobile: '簽證' },
     sim:       { full: 'SIM 卡',     mobile: 'SIM'  },
     driver:    { full: '司機推薦',   mobile: '包車' },
@@ -47,6 +49,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     map:       { full: '攻略地图',   mobile: '地图' },
     transport: { full: '交通选择',   mobile: '交通' },
     fare:      { full: '车资计算',   mobile: '车资' },
+    flight:    { full: '机票',       mobile: '机票' },
     visa:      { full: '签证入境',   mobile: '签证' },
     sim:       { full: 'SIM 卡',     mobile: 'SIM'  },
     driver:    { full: '司机推荐',   mobile: '包车' },
@@ -62,6 +65,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     map:       { full: '攻略地圖',   mobile: '地圖' },
     transport: { full: '交通選擇',   mobile: '交通' },
     fare:      { full: '車資計算',   mobile: '車資' },
+    flight:    { full: '機票',       mobile: '機票' },
     visa:      { full: '簽證入境',   mobile: '簽證' },
     sim:       { full: 'SIM 卡',     mobile: 'SIM'  },
     driver:    { full: '司機推薦',   mobile: '包車' },
@@ -77,6 +81,7 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     map:       { full: 'Map',          mobile: 'Map'     },
     transport: { full: 'Transport',    mobile: 'Transit' },
     fare:      { full: 'Fare Calc',    mobile: 'Fare'    },
+    flight:    { full: 'Flights',       mobile: 'Flights' },
     visa:      { full: 'Visa & Entry', mobile: 'Visa'    },
     sim:       { full: 'SIM Card',     mobile: 'SIM'     },
     driver:    { full: 'Driver Rec',   mobile: 'Driver'  },
