@@ -847,7 +847,7 @@ export async function onRequestPost(context) {
       'Authorization': `Bearer ${env.DEEPINFRA_API_KEY}`,
     },
     body: JSON.stringify({
-      model: 'deepseek-ai/DeepSeek-V4',
+      model: 'deepseek-ai/DeepSeek-V4-Flash',
       max_tokens: OUTPUT_MAX_TOKENS,
       temperature: 0.2,
       stream: true,
