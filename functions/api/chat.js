@@ -306,6 +306,16 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['Kuta推薦住宿', 'Kuta住宿', 'Kuta飯店', 'Kuta酒店', 'Kuta hotel', 'kuta hotel', 'kuta hotels',
+               '庫塔推薦住宿', '庫塔住宿', '庫塔飯店', '庫塔酒店', '庫塔渡假村', '庫塔resort',
+               'kuta resort', 'kuta accommodation', 'where to stay in kuta', 'best hotel kuta',
+               'hotel in kuta', 'hotels in kuta', 'stay in kuta', 'kuta beach hotel'],
+    articles: [
+      { title: '庫塔海灘住宿推薦：峇里島最受歡迎的海灘區住宿指南', url: '/blog/kuta-beach-hotels/' },
+      { title: '庫塔最佳飯店推薦清單：從平價到豪華一次收錄', url: '/blog/best-kuta-hotels-list/' },
+    ],
+  },
+  {
     keywords: ['庫塔', 'kuta', 'Kuta', 'KUTA', 'Kuta Beach', 'kuta beach', 'Legian', 'legian', '雷吉安'],
     articles: [
       { title: '峇里島旅遊庫塔攻略：50個必訪景點、熱鬧夜生活、美食、推薦SPA全收集', url: '/blog/kuta-guide/' },
@@ -441,6 +451,14 @@ const PINNED_ARTICLES = [
                '峇里島喝水', '峇里島飲水', '自來水'],
     articles: [
       { title: '峇里島旅遊健康注意事項：避免生病的實用攻略', url: '/blog/bali-travel-health-tips/' },
+    ],
+  },
+  {
+    keywords: ['水質', '過濾', '濾水', '淨水', '濾水器', '過濾水', '水過濾', '淨水器',
+               'water filter', 'water filtration', 'filter water', 'water quality',
+               'filtered water', 'water purifier', 'purify water', 'bali water filter'],
+    articles: [
+      { title: '峇里島飲水安全與過濾攻略', url: '/blog/bali-water-filter-tips/' },
     ],
   },
 ];
