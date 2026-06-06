@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67cfefe1fd89780001ce0c4e'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 375b825383a25cb4be60979219cd9745
+_srcHash: 5d247844ffca1338188eb51bcadaca52
 ---
 
 2025年3月8日发布的最新数据显示，巴厘岛的国际旅游需求即使在淡季也持续攀升。

@@ -25,7 +25,7 @@ agoda_hotel_name: 穆利雅度假村
 agoda_hotel_id: 6532982
 latitude: -8.815860748291016
 lang: en
-_srcHash: fde2eaea7cdbeb26a8c4bb33192551a5
+_srcHash: 94dc144822af37242ae5d317d354faa9
 ---
 
 Major International Awards and Titles Won by Mulia Resort (The Mulia, Mulia Resort & Villas) in Bali Over the Years:

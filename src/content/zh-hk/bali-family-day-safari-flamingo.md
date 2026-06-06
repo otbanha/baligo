@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2395e6bc33acfdbcbbea98c361788814.png'
 originalUrl: 'https://vocus.cc/article/6647416cfd89780001f5a5ef'
 lang: zh-hk
-_srcHash: 136523fe2c415d8e9ebc1a217634143b
+_srcHash: 058ba382d1ff0853e2f08fa4a457ac50
 ---
 
 峇里島係一個充滿魅力嘅旅遊勝地，唔單止適合情侶或者朋友出遊，對於親子家庭嚟講都係一個絕佳嘅選擇。今日我將會為大家介紹一個理想嘅親子一日遊行程，包括峇里島野生動物園（Bali Safari and Marine Park）同紅鶴海灘俱樂部（Flamingo Beach Club），保證你同小朋友都會玩得開心，留下美好嘅回憶。

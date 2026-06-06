@@ -17,7 +17,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/4tVq4SFfjMw'
 lang: zh-hk
-_srcHash: 97054a14515bba2ef80eb128b10b5292
+_srcHash: 4e651050603a5ce6c277a12e90532e71
 ---
 
 坎古呢個地區而家係峇里島最受外國人鍾意嘅區域之一！究竟坎古有咩魅力呢？要點樣玩坎古呢？最後仲有50個坎古一定要去嘅景點、咖啡廳。請睇小傑嘅介紹同埋記住睇到最後呀！

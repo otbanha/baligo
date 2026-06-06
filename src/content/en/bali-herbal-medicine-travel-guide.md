@@ -20,7 +20,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: en
-_srcHash: a925207f9bf9f6c57850af235132af0e
+_srcHash: 5b547a79e214f8c2a6105c7121485746
 ---
 
 When preparing to travel to Indonesia or Bali, some travelers need to bring Chinese herbal powder and health supplements, which are crucial for their health. However, different countries have varying regulations on medicines and health supplements, especially Indonesia, which has stricter controls on drugs compared to other countries. Understanding and adhering to these regulations is essential to avoid unnecessary trouble and delays.

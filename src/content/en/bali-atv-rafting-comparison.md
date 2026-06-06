@@ -26,7 +26,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_bbae207c7b2357fcc9e3128889589708.jpg'
 originalUrl: 'https://vocus.cc/article/68861b2efd8978000104cf9b'
 lang: en
-_srcHash: 2337d52e038868c99d1e2272a380c63d
+_srcHash: 14b158616871ee2d77972c93c3f9231c
 ---
 
 When people think of Bali, most imagine beaches, temples, or spas. But this time, my three friends and I decided to try something different. After much comparison, we chose the 'ATV Ride + Ayung River Rafting' combo package, which turned out to be the most thrilling and unforgettable day of our Bali trip!

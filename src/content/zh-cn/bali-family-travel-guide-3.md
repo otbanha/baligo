@@ -15,7 +15,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: zh-cn
-_srcHash: 609beb159d5c9d4315345c0b162d507a
+_srcHash: 23b95db65a803b03397f3def607a82b8
 ---
 
 > 以下内容改编自团友 [Mei Liu](https://www.facebook.com/share/p/14streqDnD/) 分享游记：

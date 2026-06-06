@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/66a31f0bfd8978000149ad4a'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: f78be412d9474d44e990f39a8f8f95fb
+_srcHash: 3d4af2102d04536ee543c985c9b8c345
 ---
 **峇里島嘅 Candi Bentar 有咩意義? 點解中文翻譯成"善惡門"係錯嘅?**
 

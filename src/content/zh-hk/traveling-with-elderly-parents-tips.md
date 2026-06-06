@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_98d8ffbc6101e9d8d140fa14f3328f9e.png'
 originalUrl: 'https://vocus.cc/article/6745a0c9fd89780001807cfa'
 lang: zh-hk
-_srcHash: f8ac9a78c627094d3fbb066801bb1540
+_srcHash: 7b2d8e58979744267bfc36ca0ae81a18
 ---
 ## 點解帶長輩旅行咁唔簡單？
 

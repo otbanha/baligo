@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_291e383b3042a6188cafc720cc574d50.png'
 originalUrl: 'https://vocus.cc/article/653914f6fd89780001fef733'
 lang: zh-hk
-_srcHash: 8c70972cde777c0420b3499949e961ac
+_srcHash: 88bec6a913d4b433a2466bff4c804958
 ---
 
 峇里島嘅 Ayana Bali 係遊客最鍾意嘅大型度假村園區，佔地 90 公頃。喺呢片廣闊嘅土地上，Ayana Bali 提供咗豐富多樣嘅設施同活動，等你可以度過一個難忘嘅假期。成個園區有 19 間餐廳同酒吧、14 個唔同嘅泳池（睇[官網泳池所有圖片](https://www.ayana.com/bali/facilities/)）、18 洞高爾夫球場、兒童俱樂部、日落瑜珈、出名嘅 Rock Bar、同埋私人沙灘等等，當然仲有無敵嘅海景！

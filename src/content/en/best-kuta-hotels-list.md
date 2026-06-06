@@ -31,7 +31,7 @@ private: false
 shuffle_h2: true
 embeds: []
 lang: en
-_srcHash: ab09c441fe9955b6a3fd861d29da1da5
+_srcHash: 3d086fe5e791239fbc46b63a76a175df
 ---
 
 When it comes to Kuta accommodation, beachfront hotels are always the first thing that comes to mind—but ocean view rooms aren't necessarily the smartest choice.

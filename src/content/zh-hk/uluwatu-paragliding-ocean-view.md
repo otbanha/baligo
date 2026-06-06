@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/6814aa9efd89780001f68acc'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 386587339d5129e9a0800371360bffca
+_srcHash: 2b8f5f915c6b6257a4b5c202700f8f5c
 ---
 選擇烏魯瓦圖嘅Timbis海灘真係冇揀錯！呢度唔單止係峇里島最出名嘅滑翔翼勝地，專業嘅教練團隊同完善嘅安全措施，令初次體驗嘅我完全放心。
 

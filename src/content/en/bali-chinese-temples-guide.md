@@ -9,7 +9,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0b2a80bca6d13f204b5a0e41bf717e85.jpg'
 originalUrl: 'https://vocus.cc/article/68fc59fdfd89780001842abe'
 lang: en
-_srcHash: 7a7bb9367c106d601e035cf0c156beb3
+_srcHash: 31b0bc711b5adc0845a01af47c4b682e
 ---
 
 Bali is famous for its Hindu temples, but scattered across the island are also several Chinese Buddhist temples filled with Eastern charm. These temples not only showcase the historical traces of Chinese immigrants in Bali but also serve as unique corners for travelers seeking tranquility and cultural fusion.

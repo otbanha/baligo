@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67a9e9ccfd89780001cd8699'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 5df2eb019e48131360cf94fa58e75ef8
+_srcHash: e7dd9a23ce387c149f6665cc1e9a1361
 ---
 
 **遊客在熱門嘅峇里島海灘須謹慎保管個人物品**

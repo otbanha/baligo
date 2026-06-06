@@ -26,14 +26,14 @@ function md5(text) {
 
 // ⚠️ 必須與 scripts/translate.mjs 的 contentHash 保持完全一致
 function contentHash(text) {
-  const stripped = text
-    .replace(/^heroImage:.*$/m, 'heroImage: __img__')
-    .replace(/^slug:.*$/m, 'slug: __slug__')
-    .replace(/^update:.*$/m, 'update: __update__')
-    .replace(/^pubDate:.*$/m, 'pubDate: __pubDate__')
-    .replace(/^updatedDate:.*$/m, 'updatedDate: __updatedDate__')
-    .replace(/^!\[.*?\]\(.*?\)\s*$/gm, '');
-  return md5(stripped);
+  const fmMatch = text.match(/^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$/);
+  if (!fmMatch) return md5(text);
+  const fmText = fmMatch[1];
+  const body = fmMatch[2];
+  const title = (fmText.match(/^title:\s*(.+)$/m) || [])[1] || '';
+  const desc  = (fmText.match(/^description:\s*(.+)$/m) || [])[1] || '';
+  const cleanBody = body.replace(/^!\[.*?\]\(.*?\)\s*$/gm, '');
+  return md5(`title:${title}\ndesc:${desc}\n---\n${cleanBody}`);
 }
 
 let updated = 0, skipped = 0, missing = 0;

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6688bd5dfd897800017d0fa2'
 category:
   - 遊記分享
 lang: en
-_srcHash: 1c12c3ca4ecc14efc10cfd7a50ea6c7f
+_srcHash: 3ceaf3d3130598bb291a0f42f004669b
 ---
 
 Have you ever sought advice in Facebook groups like [[Bali/Indonesia Food, Fun & Travel](https://www.facebook.com/groups/indonesia.travelguide/)] or [[Go Bali Go Bali Travel](https://www.facebook.com/groups/baligo/)], or referenced the over 40 travelogues collected on this blog? This information has undoubtedly provided significant help in planning your trip.

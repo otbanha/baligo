@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/66d4538ffd897800012f025a'
 category:
   - 遊記分享
 lang: en
-_srcHash: 154a28149d467842c6030437aa0c5926
+_srcHash: 5846d5ada832e6021e3696dd1c056ca5
 ---
 
 ### Sharing Insights on a 12-Day Bali Itinerary

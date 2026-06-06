@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_94247af16368c1d8141a32b1e8144615.jpg'
 originalUrl: 'https://vocus.cc/article/6615f2a8fd89780001eb72fc'
 lang: zh-hk
-_srcHash: 2e2624301b10567f28ec3e7a43be57ce
+_srcHash: 8266b69c5a0bf32bcee877c7b871e9b9
 ---
 
 (以下圖文由Facebook社團團友**蕭雅心Coco**提供，並同意修改編輯)

@@ -21,7 +21,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_92c1c3c6353fec567c863e536302c897.jpg'
 originalUrl: 'https://vocus.cc/article/66551cfefd897800011f9d5e'
 lang: en
-_srcHash: a889ebb7b28c42b4c3889eb1c3bfefe5
+_srcHash: 47de734467efbf45c704ab785bd56ab9
 ---
 
 Shared by Facebook group member [Mei Chen](https://www.facebook.com/mei.co.nz/) about her family's 8-day, 7-night Bali trip, specially provided for our editorial/reprint:

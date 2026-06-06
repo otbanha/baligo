@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/67e242c9fd89780001f9444a'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: b378fe1c3b2fba4949b37edcf6e3a72d
+_srcHash: da4421d3efe601543b35886f704019a5
 ---
 
 峇里島作為全球熱門旅遊勝地，近日頒布更嚴格嘅外國遊客管理規定。峇里島省政府正式發布**2025年第7號通告**，明確規範遊客行為準則，包括必須遵守嘅義務、禁止事項及違規處罰，以維護當地文化與環境。

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65b6ef65fd89780001f5d032'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 667146bf937334d1f8a4b24817284c09
+_srcHash: c91644d958484b217618ea837e893bd2
 ---
 峇里島，呢片被譽為「眾神之島」嘅熱帶天堂，擁有無數令人心驚嘅探險活動。而喺眾多選擇中，最令人興奮嘅之一就係騎住ATV四輪越野車穿越陡峭嘅山區同茂密嘅叢林。
 

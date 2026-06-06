@@ -14,6 +14,7 @@ export interface MapArea {
   ogImage?: string;
   relatedMaps?: string[];
   lastmod?: string;
+  places?: Array<{ name: string; emoji: string; lat: number; lng: number }>;
 }
 
 export const maps: MapArea[] = [
@@ -399,6 +400,34 @@ export const maps: MapArea[] = [
     isThematic: true,
     myMapsId: "1ug1RGef4u9r08yJTg-H8cZzYMIKs-w0",
     relatedMaps: ["ubud", "canggu", "seminyak-eat-street"],
+  },
+  {
+    slug: "family-parks",
+    lastmod: "2026-05-31",
+    name: "峇里島十大親子樂園",
+    nameEn: "Top 10 Family Parks in Bali",
+    description: "精選峇里島 10 大親子樂園，水上樂園、動物園、文化體驗一次收錄",
+    seoTitle: "峇里島親子樂園 Top 10｜峇里島親子景點地圖 | Go Bali Go",
+    seoDescription: "精選峇里島 10 大親子樂園，含水上樂園、動物園、文化體驗園區，含地圖定位，親子自由行行程規劃一步到位。",
+    center: [-8.6705, 115.2126],
+    zoom: 11,
+    kml: "/maps/family-parks.kml",
+    emoji: "🎡",
+    isThematic: true,
+    myMapsId: "1EwChz03mQlwDY7tvdyi58swY_UiL7nc",
+    relatedMaps: ["nusa-dua", "sanur", "ubud"],
+    places: [
+      { name: "Waterbom Bali",                emoji: "💦", lat: -8.7285815, lng: 115.1692888 },
+      { name: "峇里島野生動物園",              emoji: "🦁", lat: -8.5822029, lng: 115.3472573 },
+      { name: "Marine Safari Bali",            emoji: "🐠", lat: -8.5817095, lng: 115.3469507 },
+      { name: "Mason Elephant Park & Lodge",   emoji: "🐘", lat: -8.391231,  lng: 115.283967  },
+      { name: "Bali Bird Park",                emoji: "🦜", lat: -8.5996431, lng: 115.2520569 },
+      { name: "Bali Reptile Park",             emoji: "🦎", lat: -8.599717,  lng: 115.251922  },
+      { name: "Bali Exotic Marine Park",       emoji: "🐙", lat: -8.7237978, lng: 115.2165033 },
+      { name: "Bali Zoo",                      emoji: "🦒", lat: -8.5918875, lng: 115.2656748 },
+      { name: "AeroXSpace Adventure Bali",     emoji: "🪂", lat: -8.71298,   lng: 115.2289103 },
+      { name: "Trans Studio Theme Park Bali",  emoji: "🎢", lat: -8.7019925, lng: 115.1830569 },
+    ],
   },
 ];
 

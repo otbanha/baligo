@@ -50,10 +50,11 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
         <button id="panel-close" class="panel-close" aria-label="關閉">✕</button>
         <div id="panel-content" class="panel-content"></div>
         <div class="panel-actions">
-          <button id="btn-approve" class="action-btn action-btn--approve">✓ 核准</button>
-          <button id="btn-reject"  class="action-btn action-btn--reject">✕ 拒絕</button>
-          <button id="btn-ban"     class="action-btn action-btn--ban">🚫 封禁用戶</button>
-          <button id="btn-delete"  class="action-btn action-btn--delete">🗑 刪除</button>
+          <button id="btn-approve"  class="action-btn action-btn--approve">✓ 核准</button>
+          <button id="btn-reject"   class="action-btn action-btn--reject">✕ 拒絕</button>
+          <button id="btn-ban"      class="action-btn action-btn--ban">🚫 封禁用戶</button>
+          <button id="btn-set-mod"  class="action-btn action-btn--mod" style="display:none">🛡 設為版主</button>
+          <button id="btn-delete"   class="action-btn action-btn--delete">🗑 刪除</button>
         </div>
         <div id="panel-error" class="panel-error" style="display:none"></div>
       </aside>
@@ -72,9 +73,10 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
     auth: { flowType: 'pkce', persistSession: true },
   });
 
-  let currentStatus  = 'pending';
-  let currentPostId  = null;
-  let loadedPosts    = [];
+  let currentStatus   = 'pending';
+  let currentPostId   = null;
+  let loadedPosts     = [];
+  let currentUserRole = null;   // 'admin' | 'moderator'
 
   const TOPICS = {
     evisa: '電子簽證問題',
@@ -84,7 +86,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
     other: '其他入境問題',
   };
   const TOPIC_COLORS = {
-    evisa: '#1d4ed8', voa: '#0369a1', aiac: '#7c3aed',
+    evisa: '#E63946', voa: '#C0392B', aiac: '#7c3aed',
     'tourism-tax': '#d97706', other: '#64748b',
   };
 
@@ -108,10 +110,11 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
       .eq('id', session.user.id)
       .single();
 
-    if (!profile || profile.role !== 'admin') {
+    if (!profile || !['admin', 'moderator'].includes(profile.role)) {
       document.getElementById('access-denied').style.display = 'block';
       return;
     }
+    currentUserRole = profile.role;
     document.getElementById('mod-content').style.display = 'block';
     loadPosts('pending');
     loadPendingCount();
@@ -137,7 +140,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
       .select(`
         id, topic, title, content, image_urls,
         moderation_status, reply_count, created_at, user_id,
-        user_profiles (display_name, avatar_url, approved_count, is_banned)
+        user_profiles (display_name, avatar_url, approved_count, is_banned, role)
       `)
       .eq('moderation_status', status)
       .order('created_at', { ascending: false })
@@ -236,6 +239,8 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
       <div class="panel-author">
         作者：<strong>${sanitize(profile?.display_name ?? '匿名')}</strong>
         ${profile?.is_banned ? '<span class="badge-banned">已封禁</span>' : ''}
+        ${profile?.role === 'admin'     ? '<span class="badge-role badge-role--admin">管理員</span>' : ''}
+        ${profile?.role === 'moderator' ? '<span class="badge-role badge-role--mod">版主</span>' : ''}
         · 已核准：${profile?.approved_count ?? 0} 篇
         <br><small>User ID：${sanitize(post.user_id)}</small>
         <br><small>提交時間：${new Date(post.created_at).toLocaleString('zh-TW')}</small>
@@ -254,13 +259,22 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
       });
     });
 
-    // Show/hide action buttons based on current tab
+    // Show/hide action buttons based on current tab & role
+    const targetIsAdmin = profile?.role === 'admin';
+    const targetIsMod   = profile?.role === 'moderator';
+
     document.getElementById('btn-approve').style.display =
       currentStatus === 'pending' || currentStatus === 'rejected' ? 'inline-flex' : 'none';
     document.getElementById('btn-reject').style.display =
       currentStatus === 'pending' || currentStatus === 'approved' ? 'inline-flex' : 'none';
+
+    // 封禁：admin 和版主都可用，但不能封禁 admin
     document.getElementById('btn-ban').style.display =
-      !profile?.is_banned ? 'inline-flex' : 'none';
+      (!profile?.is_banned && !targetIsAdmin) ? 'inline-flex' : 'none';
+
+    // 設為版主：只有 admin 可用，目標不是 admin 且尚非版主
+    document.getElementById('btn-set-mod').style.display =
+      (currentUserRole === 'admin' && !targetIsAdmin && !targetIsMod) ? 'inline-flex' : 'none';
 
     panel.style.display   = 'flex';
     overlay.style.display = 'block';
@@ -327,6 +341,31 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
     if (error) { showPanelError(error.message); return; }
     closePanel();
     loadPosts(currentStatus);
+  });
+
+  document.getElementById('btn-set-mod').addEventListener('click', async () => {
+    if (!currentPostId) return;
+    const post = loadedPosts.find(p => p.id === currentPostId);
+    if (!post) { showPanelError('找不到討論'); return; }
+    if (!confirm(`確定將「${post.user_profiles?.display_name ?? '此用戶'}」設為版主？`)) return;
+
+    const { error } = await supabase
+      .from('user_profiles')
+      .update({ role: 'moderator' })
+      .eq('id', post.user_id);
+
+    if (error) { showPanelError(error.message); return; }
+    // 更新本地資料，隱藏按鈕
+    post.user_profiles.role = 'moderator';
+    document.getElementById('btn-set-mod').style.display = 'none';
+    // 更新面板顯示
+    const panelAuthor = document.querySelector('.panel-author strong');
+    if (panelAuthor) {
+      const modBadge = document.createElement('span');
+      modBadge.className = 'badge-role badge-role--mod';
+      modBadge.textContent = '版主';
+      panelAuthor.after(' ', modBadge);
+    }
   });
 
   function showPanelError(msg) {
@@ -413,6 +452,9 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 .row-time    { font-size: .75rem; color: var(--text-light); text-align: right; }
 
 .badge-banned { background: #fef2f2; color: #991b1b; font-size: .68rem; font-weight: 700; padding: .1em .5em; border-radius: 6px; border: 1px solid #fca5a5; }
+.badge-role { font-size: .68rem; font-weight: 700; padding: .1em .5em; border-radius: 6px; }
+.badge-role--admin { background: rgba(201,168,76,.2); color: #7a5500; border: 1px solid #c9a84c; }
+.badge-role--mod   { background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; }
 
 /* Detail Panel */
 .panel-overlay {
@@ -492,6 +534,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 .action-btn--approve { background: #166534; color: #fff; }
 .action-btn--reject  { background: #ef4444; color: #fff; }
 .action-btn--ban     { background: #1f2937; color: #fff; }
+.action-btn--mod     { background: #1d4ed8; color: #fff; }
 .action-btn--delete  { background: #7f1d1d; color: #fff; }
 
 .panel-error {

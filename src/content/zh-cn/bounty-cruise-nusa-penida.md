@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 4f84d27782b16892b30dc5b0f4ad8d2c
+_srcHash: 21d8c227f08c3e018ffeffd4b16b8c0c
 ---
 
 很多人第一次看到「Bounty Day Cruise Bali One Day Tour to Nusa Penida」这个行程名称，第一反应通常是：

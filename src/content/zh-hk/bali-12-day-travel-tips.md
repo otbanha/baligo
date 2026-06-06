@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66d4538ffd897800012f025a'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: 154a28149d467842c6030437aa0c5926
+_srcHash: 5846d5ada832e6021e3696dd1c056ca5
 ---
 
 ### 峇里島12日行程規劃心得分享

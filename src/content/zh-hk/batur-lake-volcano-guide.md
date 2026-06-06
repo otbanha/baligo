@@ -12,7 +12,7 @@ tags:
 originalUrl: 'https://vocus.cc/article/68e786abfd89780001c1b9b7'
 heroImage: 'https://images.gobaligo.id/vocus/vocus_45e08046ec421469e25833e462a90f5f.jpg'
 lang: zh-hk
-_srcHash: 8919a409a2668063c7d8313ef3ce71e6
+_srcHash: c9ed804f45451c4818144a5b06800208
 ---
 
 ## **壯麗與靜謐共存嘅巴杜爾火山湖**

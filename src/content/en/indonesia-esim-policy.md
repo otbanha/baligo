@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/67bea49ffd897800012dbdce'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 628ea9c89fe3dbd26d24ff42fffa50f5
+_srcHash: ff11206908228b9d84fbe32c54805549
 ---
 
 With the rapid development of mobile technology, the Indonesian government is preparing to implement a series of new mobile communication regulations that will significantly impact foreigners in Bali.

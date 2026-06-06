@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_37074e1d1a21b1fd29d645049b4cd60e.jpg'
 originalUrl: 'https://vocus.cc/article/65fd4f9cfd8978000157e5ff'
 lang: zh-hk
-_srcHash: e86a03839d8fb34fe51b274124cd58ac
+_srcHash: d98c46111dc0083bf1baf132d03466ac
 ---
 
 我哋唔耐之前先發咗一篇「[峇里島500個熱門景點](/blog/bali-top-500-attractions/)」，有讀者嚟函話我哋呢篇介紹嘅景點數量太驚人，可唔可以發一篇精華版？最好可以喺一趟峇里島之旅就玩晒嘅精華景點，標誌性地標。

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66c69317fd8978000110fabc'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 52eb98de546c15ae0cf934dfe21a0145
+_srcHash: a123d5ea64c540812e88adffe72d095e
 ---
 
 近日，峇里島嘅兩個著名景點——佩尼達島嘅鑽石海灘同烏魯瓦圖嘅Bingin海灘——發生咗兩單重大意外事故，當地救援隊緊急出動，展開咗救援行動。

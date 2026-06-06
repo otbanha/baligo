@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_879f4fdb8dbb83fac3a613828dec0a3f.png'
 originalUrl: 'https://vocus.cc/article/694122b8fd89780001f514c9'
 lang: zh-cn
-_srcHash: 8dacdb0e8dd8a9d5d5a42c1ed281d478
+_srcHash: 7f1e22c508b5a7f5fef562150f88ca15
 ---
 
 巴厘岛的水上活动非常丰富多元，从刺激的极限运动到悠闲的生态探索，应有尽有。以下是完整的水上活动推荐，适合不同兴趣和体能程度的游客。

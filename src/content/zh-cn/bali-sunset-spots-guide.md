@@ -13,7 +13,7 @@ originalUrl: 'https://vocus.cc/article/668e837dfd89780001357d06'
 category:
   - 峇里島分區攻略
 lang: zh-cn
-_srcHash: 2c347ac451f6b9bbc9324a995faf98c7
+_srcHash: 2d202f88c4914fe6f66099c1deda6bab
 ---
 
 ## 巴厘岛日落时间

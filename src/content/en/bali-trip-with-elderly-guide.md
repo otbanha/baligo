@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/671b753cfd89780001988bb6'
 category:
   - 遊記分享
 lang: en
-_srcHash: 0fec4d176b437b5e3d886fab1bc624be
+_srcHash: e41f9553b07dd50ca48b0c2488d95c01
 ---
 
 > The following content is adapted from travelogue shared by group member [Claire Chen](https://www.facebook.com/share/p/17yjQ17JHi/):

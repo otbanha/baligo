@@ -36,7 +36,7 @@ agoda_star_rating: 5
 latitude: -8.843924522399902
 longitude: 115.12069702148438
 lang: en
-_srcHash: 9e9f5bb233d43acb9b502308a76eef91
+_srcHash: 063c865ab786ffc74a1da1a24c811799
 ---
 
 If there's one hotel in Bali that represents the pinnacle of luxury accommodation, it's undoubtedly the Bvlgari Resort Bali.

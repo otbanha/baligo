@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/64db6b81fd897800013a98ef'
 category:
   - 簽證通關
 lang: en
-_srcHash: 57c680b98ef5db030b379a32f1c47ba7
+_srcHash: c4042c66e2237763d8a49b4c6c4f5c3e
 ---
 
 Do you still need proof of two vaccine doses to enter Indonesia or Bali? Do you need to download any apps? See the explanations below.

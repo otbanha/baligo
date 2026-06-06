@@ -3,7 +3,7 @@ title: canggu
 type: normal
 randomCount: 5
 lang: zh-cn
-_srcHash: 8a3810d0ed5f936a737a007607151032
+_srcHash: 735aded9f4c1005fdb2467f9ee4a050c
 ---
 
 ## 更多坎古吃喝玩乐介绍
@@ -14,9 +14,9 @@ _srcHash: 8a3810d0ed5f936a737a007607151032
 
 ## 坎古住宿主题介绍
 
-- [巴厘岛住宿推荐：Canggu Top 17 你不能错过的住宿推荐](https://gobaligo.id/blog/canggu-top-hotels-guide/)
-- [坎古区16间私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](https://gobaligo.id/blog/canggu-villas-guide/)
-- [坎古顶级度假村 Regent Bali Canggu](https://gobaligo.id/blog/regent-bali-canggu/)
-- [巴厘岛18家 kids club 亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图、乌布适合家庭度假的最佳选择](https://gobaligo.id/blog/bali-family-resorts-kids-club/)
-- [巴厘岛亲子乐园：十五家拥有滑水道滑梯的亲子度假村 TOP 15](https://gobaligo.id/blog/bali-family-resorts-water-slides/)
-- [巴厘岛团体自由行旅游：坎古包栋villa 三房/四房/五房/六房以上的家庭别墅住宿推荐](https://gobaligo.id/blog/bali-group-villa-stay/)
+- [巴厘岛住宿推荐：Canggu Top 17 你不能错过的住宿推荐](/blog/canggu-top-hotels-guide/)
+- [坎古区16间私人泳池别墅推荐 Canggu Villa 你不能错过的巴厘岛别墅](/blog/canggu-villas-guide/)
+- [坎古顶级度假村 Regent Bali Canggu](/blog/regent-bali-canggu/)
+- [巴厘岛18家 kids club 亲子度假村｜库塔、水明漾、坎古、金巴兰、乌鲁瓦图、乌布适合家庭度假的最佳选择](/blog/bali-family-resorts-kids-club/)
+- [巴厘岛亲子乐园：十五家拥有滑水道滑梯的亲子度假村 TOP 15](/blog/bali-family-resorts-water-slides/)
+- [巴厘岛团体自由行旅游：坎古包栋villa 三房/四房/五房/六房以上的家庭别墅住宿推荐](/blog/bali-group-villa-stay/)

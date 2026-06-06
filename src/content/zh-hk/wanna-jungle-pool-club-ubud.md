@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cbcb3dcfef832d05b8df6806e839d3e2.jpg'
 originalUrl: 'https://vocus.cc/article/68134e91fd89780001ab5b55'
 lang: zh-hk
-_srcHash: 1499901accd66b27c7bf628664b92a7b
+_srcHash: 0f8611ca38d7e7de846caea36b84a0c1
 ---
 
 嚟到峇里島文化心臟烏布，絕對唔可以錯過呢間近期喺IG上瘋狂洗版嘅一日泳池俱樂部——Wanna Jungle Pool & Bar！呢個擁有絕美景觀嘅三層式無邊際泳池，已經成為網美們嘅打卡聖地。

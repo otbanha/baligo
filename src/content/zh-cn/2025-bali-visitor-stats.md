@@ -15,7 +15,7 @@ category:
   - 旅行技巧
   - 簽證通關
 lang: zh-cn
-_srcHash: f12be5fd389b92305648dfa7338c2d22
+_srcHash: 6d7be69354475bbdabc0d2c2de2a7476
 ---
 “现在来巴厘岛的人，跟以前一样多吗？”
 

@@ -272,7 +272,7 @@ const relatedMapData = (area.relatedMaps ?? [])
 
     #gps-btn {
       position: fixed;
-      top: 166px; left: 16px;
+      top: 201px; left: 16px;
       height: 44px;
       padding: 0 14px 0 10px;
       background: #fff;
@@ -374,6 +374,45 @@ const relatedMapData = (area.relatedMaps ?? [])
       list-style: none;
       border-bottom: 1px solid #f0f0f0;
     }
+    /* ── Place chip strip (horizontal scroll, overlaid at map bottom) ── */
+    .place-strip {
+      position: absolute;
+      bottom: 64px;
+      left: 0; right: 0;
+      z-index: 600;
+      display: flex;
+      gap: 8px;
+      padding: 0 14px 4px;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      pointer-events: none;
+    }
+    .place-strip::-webkit-scrollbar { display: none; }
+    .place-chip {
+      flex-shrink: 0;
+      pointer-events: all;
+      background: rgba(255,255,255,0.95);
+      backdrop-filter: blur(4px);
+      -webkit-backdrop-filter: blur(4px);
+      border: none;
+      border-radius: 20px;
+      padding: 8px 14px;
+      font-size: 13px;
+      font-weight: 600;
+      color: #1a1a1a;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.18);
+      white-space: nowrap;
+      -webkit-tap-highlight-color: transparent;
+      touch-action: manipulation;
+      font-family: inherit;
+      transition: background 0.12s;
+    }
+    .place-chip:active, .place-chip.active { background: #e8f5ee; }
+    [data-dark] .place-chip { background: rgba(28,28,28,0.95); color: #f0f0f0; box-shadow: 0 2px 8px rgba(0,0,0,0.5); }
+    [data-dark] .place-chip.active { background: #1a3a2a; }
+
     .related-maps { margin-top: 8px; }
     .related-maps h2 {
       font-size: 15px;
@@ -430,19 +469,31 @@ const relatedMapData = (area.relatedMaps ?? [])
     </div>
 
     <MapView area={area} />
-    <button id="gps-btn" aria-label="定位到我的位置" onclick="window._gpsClick(this)" data-state="idle">
-      <svg class="gps-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="pointer-events:none">
-        <circle cx="12" cy="12" r="10"/>
-        <circle cx="12" cy="12" r="3"/>
-        <line x1="12" y1="2" x2="12" y2="4"/>
-        <line x1="12" y1="20" x2="12" y2="22"/>
-        <line x1="2" y1="12" x2="4" y2="12"/>
-        <line x1="20" y1="12" x2="22" y2="12"/>
-      </svg>
-      <span class="gps-label">我的位置</span>
-    </button>
+
+    {area.places && area.places.length > 0 && (
+      <div class="place-strip">
+        {area.places.map(p => (
+          <button class="place-chip" data-lat={p.lat} data-lng={p.lng}>{p.emoji} {p.name}</button>
+        ))}
+      </div>
+    )}
+
     <RecommendForm areaName={area.name} areaSlug={area.slug} />
   </div>
+
+  <!-- GPS button outside map-wrapper to avoid overflow:hidden touch interception on Android -->
+  <button id="gps-btn" aria-label="定位到我的位置" onclick="window._gpsClick(this)" data-state="idle">
+    <svg class="gps-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="pointer-events:none">
+      <circle cx="12" cy="12" r="10"/>
+      <circle cx="12" cy="12" r="3"/>
+      <line x1="12" y1="2" x2="12" y2="4"/>
+      <line x1="12" y1="20" x2="12" y2="22"/>
+      <line x1="2" y1="12" x2="4" y2="12"/>
+      <line x1="20" y1="12" x2="22" y2="12"/>
+    </svg>
+    <span class="gps-label">我的位置</span>
+  </button>
+
 
   <!-- SEO content — SSR 渲染，爬蟲可索引，使用者向下捲動可見 -->
   <section class="seo-section" aria-label="地圖資訊">
@@ -603,7 +654,6 @@ const relatedMapData = (area.relatedMaps ?? [])
             if (api) {
               api.flyTo(lat, lng, 15);
               api.setUserLocation(lat, lng);
-              api.enableNearby();
             } else if (retries > 0) {
               setTimeout(function() { applyPos(retries - 1); }, 600);
             }
@@ -654,6 +704,21 @@ const relatedMapData = (area.relatedMaps ?? [])
       }
       btn.addEventListener('animationend', markSeen, { once: true });
       setTimeout(markSeen, 7000); // fallback
+    })();
+
+    // Place chip strip
+    (function() {
+      var chips = document.querySelectorAll('.place-chip');
+      if (!chips.length) return;
+      chips.forEach(function(chip) {
+        chip.addEventListener('click', function() {
+          var lat = parseFloat(chip.dataset.lat);
+          var lng = parseFloat(chip.dataset.lng);
+          chips.forEach(function(c) { c.classList.remove('active'); });
+          chip.classList.add('active');
+          if (window._mapApi) window._mapApi.flyTo(lat, lng, 17);
+        });
+      });
     })();
   </script>
 </body>

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66c0857afd897800014dceb0'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 36ae8f28bb6654e93d90684367e53145
+_srcHash: 61ceafb80067cb96a341565c038f6cc1
 ---
 
 峇里島因為過度旅遊問題持續受到關注，特別係南峇里島地區，由於遊客太多而過度擠迫。自2023年以來，峇里島被世界旅行與旅遊理事會列為過度旅遊嘅熱門目的地，同雅典、巴黎同普吉島齊名。

@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_aedded69cfc0a0491d4ce96e712a3589.jpg'
 originalUrl: 'https://vocus.cc/article/6863ccb0fd8978000142a65c'
 lang: en
-_srcHash: b7980c266edab5a648cb08a4abd6a085
+_srcHash: 51cbd4e726fcc80637174c71b9481bb4
 ---
 Every year, the authoritative international travel magazine 'Travel + Leisure' announces the 'Top 10 Best Islands in Asia Pacific', and in the latest 2025 list, **Bali unsurprisingly secured the top spot!** 🎉
 

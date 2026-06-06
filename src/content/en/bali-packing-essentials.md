@@ -23,7 +23,7 @@ originalUrl: 'https://vocus.cc/article/68d13539fd89780001b06dfc'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 0daacaddd739bd968d97f0ccaaf97cba
+_srcHash: 7021f056889922c1f719d31dc1a67f1f
 ---
 ### **1. Lightweight and Breathable Cotton or Linen Clothing**
 

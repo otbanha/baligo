@@ -30,7 +30,7 @@ heroImage: /images/2026-03-29-family-bali.png
 originalUrl: ''
 embeds: []
 lang: en
-_srcHash: a05f74cbf456abc466908c2b0f6c58e9
+_srcHash: 2b359d9f07bc05bdf2afd50d9bbb0ca2
 ---
 
 **Want a pure, hassle-free getaway?** Leave behind complicated itinerary planning and stressful shopping trips. This time, we’ve prepared a dreamy 6-day 5-night journey for you and your family, featuring **natural wonders, wildlife, private villas, and gourmet dining**. From the morning volcanic clouds to the afternoon rice terrace pools, every moment is a cherished family memory.

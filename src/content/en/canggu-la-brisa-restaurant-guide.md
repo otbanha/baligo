@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_a1d286264ed333dad9574c961065d669.jpg'
 originalUrl: 'https://vocus.cc/article/656d19fffd897800019cb6ed'
 lang: en
-_srcHash: e7c7fd15a2ab6e81b4dd39422af9b059
+_srcHash: 4cfa444ee25fc21ee52707522a17b76b
 ---
 
 It's hard to imagine that an island roughly twice the size of New Taipei City is home to tens of thousands of hotels/villas and several times more restaurants. This place is simply too popular for tourism!

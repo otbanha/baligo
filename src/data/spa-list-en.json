@@ -66,7 +66,7 @@
       },
       {
         "name": "AWAY Spa at W Hotel",
-        "description": "Experience",
+        "description": "",
         "links": {
           "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=756711&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83004-away-spa-by-w-bali-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df71b796e77",
           "kkday": "",
@@ -93,7 +93,7 @@
       },
       {
         "name": "Seminyak Icon Spa",
-        "description": "Experience",
+        "description": "",
         "links": {
           "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F89805-seminyak-icon-spa-experience-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92f8e7b853",
           "kkday": "",
@@ -135,7 +135,7 @@
       },
       {
         "name": "Mekar Ubud Jungle Spa",
-        "description": "Experience",
+        "description": "",
         "links": {
           "klook": "https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D24dcb28ae7",
           "kkday": "",
@@ -315,7 +315,7 @@
     "category": "中價位好評SPA",
     "spas": [
       {
-        "name": "ANN Spa",
+        "name": "ANN Spa <-- 看完整介绍",
         "description": "Opening October 2025, Taiwanese owner, Mandarin-speaking",
         "href": "/blog/ann-spa-jimbaran/",
         "links": {

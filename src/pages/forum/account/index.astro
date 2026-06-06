@@ -37,7 +37,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
                 <span id="profile-name" class="profile-name"></span>
                 <button id="edit-name-btn" class="btn-edit">編輯顯示名稱</button>
               </div>
-              <div id="trust-badge-wrap" class="trust-badge-wrap"></div>
+              <div id="role-badge-wrap" class="role-badge-wrap"></div>
               <p class="profile-email" id="profile-email"></p>
             </div>
           </div>
@@ -78,16 +78,7 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
     auth: { flowType: 'pkce', persistSession: true },
   });
 
-  const TRUST_LABELS = { new: '新用戶', trial: '試用中', trusted: '可信用戶', gold: '金牌用戶' };
-  const TRUST_COLORS = { new: '#64748b', trial: '#0369a1', trusted: '#166534', gold: '#92400e' };
   const STATUS_LABELS = { pending: '審核中', approved: '已核准', rejected: '已拒絕' };
-
-  function getTrustLevel(approved_count) {
-    if (approved_count >= 10) return 'gold';
-    if (approved_count >= 3) return 'trusted';
-    if (approved_count >= 1) return 'trial';
-    return 'new';
-  }
 
   function sanitize(str) {
     if (str == null) return '';
@@ -117,10 +108,13 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
     document.getElementById('profile-name').textContent = profile?.display_name ?? '匿名';
     document.getElementById('profile-email').textContent = session.user.email ?? '';
 
-    // Trust badge
-    const level = getTrustLevel(profile?.approved_count ?? 0);
-    const badgeWrap = document.getElementById('trust-badge-wrap');
-    badgeWrap.innerHTML = `<span class="trust-badge" style="color:${TRUST_COLORS[level]}">${TRUST_LABELS[level]}</span>`;
+    // Role badge (only show if moderator or admin)
+    const roleBadgeWrap = document.getElementById('role-badge-wrap');
+    if (profile?.role === 'admin') {
+      roleBadgeWrap.innerHTML = `<span class="role-badge role-badge--admin">管理員</span>`;
+    } else if (profile?.role === 'moderator') {
+      roleBadgeWrap.innerHTML = `<span class="role-badge role-badge--mod">版主</span>`;
+    }
 
     // Edit name
     document.getElementById('edit-name-btn').addEventListener('click', () => {
@@ -249,8 +243,10 @@ import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ crea
 .profile-name-row { display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; margin-bottom: .3rem; }
 .profile-name { font-size: 1.05rem; font-weight: 700; color: var(--text); }
 .btn-edit { background: none; border: 1px solid #d1c9b5; border-radius: 6px; padding: .2em .6em; font-size: .75rem; cursor: pointer; color: var(--ocean); }
-.trust-badge { font-size: .82rem; font-weight: 700; }
-.trust-badge-wrap { margin-bottom: .2rem; }
+.role-badge-wrap { margin-bottom: .2rem; }
+.role-badge { display: inline-block; font-size: .75rem; font-weight: 700; padding: .15em .6em; border-radius: 10px; }
+.role-badge--admin { background: rgba(201,168,76,.2); color: #7a5500; border: 1px solid #c9a84c; }
+.role-badge--mod   { background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; }
 .profile-email { font-size: .8rem; color: var(--text-light); margin: 0; }
 
 .edit-name-form { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; margin-top: .8rem; }

@@ -24,7 +24,7 @@ BASE   = Path(__file__).parent / 'src/content'
 LANGS  = ['zh-hk', 'zh-cn', 'en']
 RAW_IMG = re.compile(r'^!\[.*?\]\(.*?\)\s*$', re.MULTILINE)
 ANY_IMG = re.compile(r'!\[.*?\]\(.*?\)')
-HERO_RE = re.compile(r'^(heroImage:\s*["\']?)(.+?)(["\']?\s*)$', re.MULTILINE)
+HERO_RE = re.compile(r'^(heroImage:\s*)(["\']?)(.+?)(\2\s*)$', re.MULTILINE)
 AGODA_RE = re.compile(r'agoda\.com[^)]*[?&]hid=(\d+)')
 H2_RE   = re.compile(r'^## .+', re.MULTILINE)
 
@@ -146,12 +146,14 @@ def sync_hero(src_text, dst_text):
     dm = HERO_RE.search(dst_text)
     if not sm or not dm:
         return None
-    src_url = sm.group(2).strip()
-    dst_url = dm.group(2).strip()
+    src_url  = sm.group(3).strip()
+    src_quote = sm.group(2)          # 原始引號字元（' 或 " 或空）
+    dst_url  = dm.group(3).strip()
     if src_url == dst_url:
         return None
+    # 保留來源的引號風格，確保開頭與結尾對稱
     new_text = HERO_RE.sub(
-        lambda m: m.group(1) + src_url + m.group(3),
+        lambda m: m.group(1) + src_quote + src_url + src_quote,
         dst_text, count=1
     )
     return new_text if new_text != dst_text else None

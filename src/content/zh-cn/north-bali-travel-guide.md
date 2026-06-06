@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8fdbadcc3c2646374fd13ac46c7202aa.png'
 originalUrl: 'https://vocus.cc/article/66c895c1fd89780001455e7f'
 lang: zh-cn
-_srcHash: 0bcac0f1d716ac72b80dd7e2de26de76
+_srcHash: f16ed193e11b2f6f69007a165ef44ae2
 ---
 
 ![峇里島北部的景點很多](https://images.gobaligo.id/vocus/vocus_c5014c7dd6e7f3a6956cca2695bde122.png)

@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: e2ee01a4b837bd83fe38ed2d8bfc2826
+_srcHash: d02ad24dfa5b6bac230ad9c1028ec777
 ---
 如果你最近搜尋峇里島嘅新聞，可能會見到咁樣嘅畫面：路邊一袋一袋堆到腰部高嘅垃圾、飄散惡臭嘅河流、民眾喺空地點火燃燒廢棄物、數百架垃圾車開到省長辦公室前抗議……
 

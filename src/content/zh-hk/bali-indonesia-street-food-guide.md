@@ -6,6 +6,7 @@ description: >-
   峇里島行前準備終極指南 峇里島旅行要帶咩？必備嘅21樣物品 出國旅行請留意！【護照有效期限】冇留意 網友慘噴USD$158 簽證&電子簽證eVoA 填寫相關
   FA
 pubDate: '2019-08-19'
+updatedDate: 2026-05-26T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_262459f662e63ba5d2a3c3464eb4a233.jpg'
 tags:
   - 峇里島
@@ -17,8 +18,9 @@ originalUrl: 'https://vocus.cc/article/64db6b5afd897800013a8f86'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: 213236ff41954d92a330880cb695fac1
+_srcHash: 265d2d39f7fd19f5bc0dc17a935ebc36
 ---
+
 嚟到印尼或者峇里島，一定唔可以錯過嘅就係當地地道嘅國民美食。呢啲係印尼/峇里島嘅必食美食
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_e2ddcde23d6a0567f42e35a6547d104c.jpg)

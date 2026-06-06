@@ -23,7 +23,7 @@ originalUrl: 'https://vocus.cc/article/6842f236fd897800017d78d5'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 7c70182bf82bc67197830ef1ca033e1d
+_srcHash: f8eaacd912d22b0d9edb29471c17553d
 ---
 
 ## **How Can You Travel to Bali Without an eSIM?**

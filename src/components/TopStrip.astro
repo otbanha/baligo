@@ -16,6 +16,9 @@ const row1 = [
 const row2 = [
   { id: 'flight',  icon: '✈️', url: '/blog/ticket/', noLocalize: true },
   { id: 'visa',    icon: '🛂', url: '/forum/immigration/', noLocalize: true },
+=======
+  { id: 'visa',    icon: '🛂', url: '/forum/immigration/', noLocalize: true, publishedAt: '2026-05-26' },
+>>>>>>> origin/main
   { id: 'sim',     icon: '📶', url: '/blog/bali-sim-card-esim-guide/' },
   { id: 'driver',  icon: '🚕', url: '/blog/bali-private-car-drivers-guide/' },
   { id: 'spa',     icon: '🧖', url: '/blog/spa/' },
@@ -169,7 +172,7 @@ const row2Rendered = renderRow(row2);
 .top-strip {
   display: flex;
   flex-direction: column;
-  background: linear-gradient(90deg, #1e3a5f 0%, #2c5f7c 100%);
+  background: linear-gradient(90deg, #2C1A0E 0%, #4A2C18 50%, #2C1A0E 100%);
   position: sticky;
   top: 64px;
   z-index: 40;
@@ -217,7 +220,7 @@ const row2Rendered = renderRow(row2);
 
 .top-strip .strip-badge {
   background: #f5b942;
-  color: #0f2a44;
+  color: #5D4037;
   font-size: 10px;
   font-weight: 700;
   padding: 1px 5px;

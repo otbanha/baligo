@@ -22,7 +22,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_127a8e6469f56bdbefac0f605a55d6a8.jpg'
 originalUrl: 'https://vocus.cc/article/68557a29fd897800017f4272'
 lang: zh-cn
-_srcHash: f3d1c0cf5878bbeb4fabd075c1ce68b9
+_srcHash: 6311d0dd1ed41c649c2e766223277f2f
 ---
 
 ## **什么是 Devdan 天谭秀？一场穿越印尼文化的旅程**

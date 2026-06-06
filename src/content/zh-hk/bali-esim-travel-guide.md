@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6842f236fd897800017d78d5'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 7c70182bf82bc67197830ef1ca033e1d
+_srcHash: f8eaacd912d22b0d9edb29471c17553d
 ---
 
 ## **峇里島旅遊點可以冇 eSIM？**

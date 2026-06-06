@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: e34438e38b5f6fcfbaf9874ca06ef903
+_srcHash: b04f5e429e7264ee98057849f3e0d63b
 ---
 
 巴厘岛最知名的旅游区库塔（Kuta）即将迎来一场翻天覆地的变化！为了提升旅客的步行体验并解决长期以来的交通拥堵问题，巴东（Badung）当局宣布了一项重大的基础设施升级计划。

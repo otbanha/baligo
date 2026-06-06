@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/665ef28dfd89780001adfa98'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 367ec881c799aa8d51393b3fc9b6120a
+_srcHash: 06765aa498bec0876207dbffcdfae17b
 ---
 峇里島係好多旅人心目中嘅渡假勝地，結合咗熱帶風情同獨特文化，吸引咗無數人去體驗。不過，選擇適當嘅旅遊時節對於旅遊質素同預算控制嚟講，都係相當重要嘅考慮。
 

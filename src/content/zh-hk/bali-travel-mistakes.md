@@ -33,12 +33,13 @@ tags:
 heroImage: https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
   https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
   https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
+  https://images.gobaligo.id/images/2026-04/1776510921085-mixcollage-18-apr-2026-06-14-pm-9120.jpg
 originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 8dc7cb1b6da5d92fb4b5c2d3b7e30722
+_srcHash: 0f2d381928adc2d16f7c0922955bafb3
 ---
 
 最近睇到一則 Threads 貼文，令我感同身受。

@@ -27,7 +27,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 02b08f51d44d3c28fe32d414a32ab42c
+_srcHash: 65bca8d074134f86b4bf3425652710d4
 ---
 
 去峇里島，好多人第一反應係衝水明漾——但講真，**水明漾（Seminyak）先係最難揀嘅地方**。

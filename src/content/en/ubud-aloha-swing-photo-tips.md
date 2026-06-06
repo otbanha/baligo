@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3889e90715db99da85399e3bceaa9c3b.jpg'
 originalUrl: 'https://vocus.cc/article/64db6b70fd897800013a940a'
 lang: en
-_srcHash: 24514c3998d5cba46e2373964ce7c856
+_srcHash: deb116ebcc98e0d309d353756560d974
 ---
 
 Bali's Most Iconic Instagrammable Swing Experience - Bali Swing/Aloha Swing is a Must! Bali Itinerary Planning & Experience Sharing. Achieve Nest Photos & Aerial Swing Shots.

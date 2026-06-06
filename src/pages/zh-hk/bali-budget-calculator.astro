@@ -204,7 +204,7 @@ const categories = [...categoryOrder.filter(c => allCats.includes(c)), ...allCat
       position: sticky;
       top: 64px;
       z-index: 90;
-      background: #1A365D;
+      background: #5D4037;
       border-bottom: 2px solid rgba(197,160,89,0.25);
       box-shadow: 0 2px 10px rgba(0,0,0,0.3);
       overflow: hidden;
@@ -592,7 +592,7 @@ function bbcPDF() {
       bottom: 0;
       left: 0;
       right: 0;
-      background: #1A365D;
+      background: #5D4037;
       padding: 16px 32px;
       display: flex;
       align-items: center;
@@ -622,15 +622,15 @@ function bbcPDF() {
 <body>
 
   <div class="page-body">
-    <h1 style="font-size:20px;font-weight:600;margin:0 0 6px;color:#1A365D;">峇里島旅費預算估算</h1>
+    <h1 style="font-size:20px;font-weight:600;margin:0 0 6px;color:#5D4037;">峇里島旅費預算估算</h1>
     <div style="font-size:12px;color:#999;margin-bottom:6px;">此預算表未包含機票及住宿</div>
     <div style="font-size:12px;color:#888;margin-bottom:20px;">${days} 天・${ppl} 人・一個人需準備的估算美金</div>
-    <div style="font-size:38px;font-weight:700;color:#1A365D;margin-bottom:6px;">${total} <span style="font-size:18px;font-weight:500;color:#888;">USD</span></div>
+    <div style="font-size:38px;font-weight:700;color:#5D4037;margin-bottom:6px;">${total} <span style="font-size:18px;font-weight:500;color:#888;">USD</span></div>
     <div style="font-size:11px;color:#aaa;margin-bottom:24px;">粗估金額，實際費用依個人消費習慣而異</div>
 
     <div style="font-size:11px;font-weight:600;color:#888;letter-spacing:.06em;text-transform:uppercase;margin-bottom:8px;">費用明細</div>
     <table style="width:100%;border-collapse:collapse;margin-bottom:20px;">${rowsHTML}</table>
-    <div style="display:flex;justify-content:space-between;font-size:15px;font-weight:700;padding:12px 0;border-top:2px solid #1A365D;border-bottom:1px solid #eee;margin-bottom:28px;color:#1A365D;">
+    <div style="display:flex;justify-content:space-between;font-size:15px;font-weight:700;padding:12px 0;border-top:2px solid #5D4037;border-bottom:1px solid #eee;margin-bottom:28px;color:#5D4037;">
       <span>合計</span><span>${total} USD</span>
     </div>
 

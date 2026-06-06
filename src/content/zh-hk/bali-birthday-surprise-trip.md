@@ -17,7 +17,7 @@ update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8bf335fa809f107688196cf263847645.jpg'
 originalUrl: 'https://vocus.cc/article/671da7a4fd89780001b9fac3'
 lang: zh-hk
-_srcHash: 58adb5d1a860c936e415d2cd82794ba9
+_srcHash: 5f6a501477529c6c253ba307e063e2f8
 ---
 （溫馨提示：發文時越捷航空仲有唔少0蚊機票嘅優惠，有興趣嘅朋友可以多啲留意吓）
 

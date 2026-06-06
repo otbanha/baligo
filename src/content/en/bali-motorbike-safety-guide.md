@@ -28,7 +28,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_450b43c94fd0f97234ac5adee8b3a41c.jpg'
 originalUrl: 'https://vocus.cc/article/66670c4afd897800019dcac7'
 lang: en
-_srcHash: 08f551bfa5a67519ba0b9515706bda78
+_srcHash: 568b26360c7dcb4731f8be9223f3264e
 ---
 
 Recently, Poon, a member of our Facebook group, shared his travel experience in Bali, emphasizing the importance of travel safety, especially the risks of riding a motorcycle. He reminded other travelers to be extra cautious while exploring Bali.

@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/67775955fd89780001fec8cc'
 category:
   - 旅行技巧
 lang: en
-_srcHash: f460da0acbfcc9dbee3e37c9ee2077c7
+_srcHash: b1620b97db9664b4af60b8bf21a5c0b4
 ---
 
 ## **Updated tourism data shows: Indonesia's tourism industry experiences its busiest year in five years**

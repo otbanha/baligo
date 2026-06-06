@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/6734bbadfd89780001cc7bd1'
 category:
   - 旅行技巧
 lang: en
-_srcHash: baa43268bcd4ac41fec6c4877198192f
+_srcHash: 79bfa123ab3afb11201ade9829f5116c
 ---
 
 ## **What is eVoA?**

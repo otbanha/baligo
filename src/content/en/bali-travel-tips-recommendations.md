@@ -24,7 +24,7 @@ originalUrl: 'https://vocus.cc/article/66b715defd89780001b25a1e'
 category:
   - 遊記分享
 lang: en
-_srcHash: 6a9e8860034d2a9f563cf951b6662066
+_srcHash: f526073d1760df75694cc0a2a4423e5c
 ---
 
 > Adapted from a contribution by fellow traveler [June Lin](https://www.facebook.com/groups/baligo/permalink/1581822932364946/)

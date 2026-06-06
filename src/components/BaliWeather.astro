@@ -680,6 +680,23 @@ const codeMapEn: Record<string, [string, string]> = {
     } catch {
       const condElErr = q('bw-condition');
       if (condElErr) condElErr.textContent = t.error as string;
+      const summaryRetryEl = q('bw-summary-text');
+      if (summaryRetryEl) {
+        const retryMsg = isEn ? 'Retrying in 30 seconds…' : isCn ? '30 秒后自动重试…' : '30 秒後自動重試…';
+        summaryRetryEl.textContent = retryMsg;
+        let countdown = 30;
+        const timer = setInterval(() => {
+          countdown--;
+          if (countdown <= 0) {
+            clearInterval(timer);
+            summaryRetryEl.textContent = '';
+            render(region);
+          } else {
+            const msg = isEn ? `Retrying in ${countdown}s…` : isCn ? `${countdown} 秒后自动重试…` : `${countdown} 秒後自動重試…`;
+            summaryRetryEl.textContent = msg;
+          }
+        }, 1000);
+      }
     } finally {
       root.classList.remove('bw-loading');
     }

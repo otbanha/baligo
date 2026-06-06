@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b3815d5a3d738321cc3c3feb6481c2d8.png'
 originalUrl: 'https://vocus.cc/article/696a37c5fd89780001f0790b'
 lang: zh-hk
-_srcHash: 4dd5d2880ecdaa02202a24dd80e352a1
+_srcHash: 3ae493e2f8d28fded3529b179f916f58
 ---
 峇里島，呢片風光如畫嘅南洋仙境，將會喺2026年以一系列繽紛嘅文化節慶，迎接每一位追尋靈感同歡慶嘅旅人。無論你想避開人潮，定係渴望沉浸喺當地盛典之中，呢份指南都會為你照亮前路，引領你深入體驗島上獨有嘅生命力同節奏。而家就出發，探索峇里島靈魂中嗰抹燦爛而熱情嘅色彩啦！
 

@@ -34,12 +34,13 @@ heroImage: https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image
   https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
   https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
   https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
+  https://images.gobaligo.id/images/2026-04/1776908263035-chatgpt_image_2026_4_23_08_37_10.png
 originalUrl: ''
 private: false
 shuffle_h2: true
 embeds: []
 lang: zh-hk
-_srcHash: 539156b7cb81b34a3981720270143d6f
+_srcHash: 760cb7d56628d99a1d88b01bc324b148
 ---
 喺峇里島，庫塔（Kuta）幾乎係所有旅程嘅起點。
 

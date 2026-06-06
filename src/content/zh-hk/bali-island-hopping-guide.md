@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_611e6788ddebd056994bb0196c7c1d41.jpg'
 originalUrl: 'https://vocus.cc/article/661f1a51fd89780001f72b31'
 lang: zh-hk
-_srcHash: 7c66fec615879837cc095abe2941fb32
+_srcHash: d19d00b9f17798c6e29b20466f51b28a
 ---
 
 ![峇里島離島的行船路徑](https://images.gobaligo.id/vocus/vocus_6dd7b05c433f90f53ccf9d4bf294648c.jpg)

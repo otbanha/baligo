@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6705509efd89780001eaeb59'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 3035f581f6901c26d8ec226be2ae7b15
+_srcHash: f5dbb49b6ba162ed7788f0638802ab5e
 ---
 ## 峇里島文化節慶可能影響10月18日嘅旅遊計劃
 

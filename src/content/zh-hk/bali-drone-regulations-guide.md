@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ad9871349a077ea9c5d06d39fbc9533f.png'
 originalUrl: 'https://vocus.cc/article/655b357ffd89780001b0febf'
 lang: zh-hk
-_srcHash: 7e357814bc9096c7bc1cd9fa084fba15
+_srcHash: bcef68c4ca717c1e6b2daf5f64e55eef
 ---
 
 喺[上一篇文章中](/blog/bali-drone-travel-guide/)，我哋討論咗點樣安全地帶你嘅無人機嚟到印尼/峇里島。今日我哋會深入探討喺印尼/峇里島飛無人機時要遵守嘅相關規範同法規。

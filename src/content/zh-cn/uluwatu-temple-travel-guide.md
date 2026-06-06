@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/678b1d81fd89780001f7fe4d'
 category:
   - 美食景點活動
 lang: zh-cn
-_srcHash: bb19df6d2155855a6997915943823738
+_srcHash: f4e22b46d4148da850fa077e32d4ad40
 ---
 ## **乌鲁瓦图**庙**的历史与传说**
 

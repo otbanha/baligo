@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66adee4bfd89780001f50309'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 577a3b081f781809a6a322a9bc39b5ba
+_srcHash: f9ce2d07ffb00c7e6459e72f160ae40d
 ---
 
 峇里島，呢個印尼最出名嘅旅遊勝地，可能好快就會有一個全新嘅旅遊景點——賭場。呢個消息真係嚇親好多人，因為喺印尼，賭博幾乎所有形式都係犯法嘅。不過，提出呢個計劃嘅人認為，賭場有可能為峇里島嘅旅遊業注入新嘅活力。

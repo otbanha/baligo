@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67d13fd1fd89780001c6887f'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: d87832091e70848e62ee439c2975cd53
+_srcHash: ec0bbd5bda37ae9311667370e2d5f91c
 ---
 
 峇里島嘅基礎建設正如火如荼咁進行，目標係喺2028年全面完成多項重大工程，等旅遊同生活更加方便。以下係幾個值得關注嘅重點項目。

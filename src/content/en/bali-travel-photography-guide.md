@@ -26,7 +26,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_96e2c52ee704e6326899a5415c470a40.jpg'
 originalUrl: 'https://vocus.cc/article/693f6a41fd89780001862bd4'
 lang: en
-_srcHash: 8b9daf0a7e82c63f0af8660ab4d336ad
+_srcHash: ed348774c5db228b517a5fdf667572e4
 ---
 
 Bali boasts diverse natural landscapes and rich cultural heritage. From rice terraces, volcanoes, and beaches to temples and street scenes, every corner is picture-perfect.

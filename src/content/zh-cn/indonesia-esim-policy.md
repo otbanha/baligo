@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67bea49ffd897800012dbdce'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 628ea9c89fe3dbd26d24ff42fffa50f5
+_srcHash: ff11206908228b9d84fbe32c54805549
 ---
 
 随着移动科技的快速发展，印尼政府正准备推出一系列新的移动通讯法规，这将对外籍人士在巴厘岛（Bali）的生活产生重大影响。

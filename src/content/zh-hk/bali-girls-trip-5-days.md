@@ -14,7 +14,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4247795b82aced2551357471c02657b1.jpg'
 originalUrl: 'https://vocus.cc/article/6628aadefd897800018ca028'
 lang: zh-hk
-_srcHash: d6262d2914c87a99bcab94d9bc951a80
+_srcHash: 287fe89a1973953af85a41259cf54220
 ---
 
 喺峇里島呢五日四夜嘅旅程入面，Clairejenjen同佢嘅朋友們探索咗峇里島獨特而多樣嘅魅力。佢哋嘅行程充滿咗多姿多彩嘅活動同精彩嘅體驗，由睇日出到浮潛，再到叢林瑜伽，每一刻都充滿咗驚喜同美好。

@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/66284452fd89780001867c6a'
 category:
   - 遊記分享
 lang: en
-_srcHash: ce872b25a1b53e386ba837f5d2cc33af
+_srcHash: e6bf45a762fdc468a21d1f23b4bf239f
 ---
 
 Our Facebook group member [Dai Yushan](https://www.facebook.com/100002382562993/) shared her six-day, five-night travelogue with friends, which we are providing here for editing/reposting:

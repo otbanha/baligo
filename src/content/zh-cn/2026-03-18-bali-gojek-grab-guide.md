@@ -15,7 +15,7 @@ embeds:
     platform: youtube
     url: 'https://youtu.be/ByGkcmys01g'
 lang: zh-cn
-_srcHash: 14dd80a9d48eb316008840020bed60a7
+_srcHash: f76c1baec9b201e9b63d82ced936a8a1
 ---
 
 [🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)

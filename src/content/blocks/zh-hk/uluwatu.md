@@ -3,7 +3,7 @@ title: uluwatu
 type: normal
 randomCount: 5
 lang: zh-hk
-_srcHash: 58fa33f89bbd6c1502b658ad3f5ca479
+_srcHash: ae1f8f2b080cb969360af73e67df04ff
 ---
 
 ## 烏魯瓦圖食玩推介
@@ -14,7 +14,7 @@ _srcHash: 58fa33f89bbd6c1502b658ad3f5ca479
 
 ## 烏魯瓦圖住宿主題介紹
 
-- [烏魯瓦圖 Uluwatu 住宿推介：14間無敵海景嘅私密別墅度假村](https://gobaligo.id/blog/uluwatu-bali-villas-resorts-guide/)
-- [峇里島18家 kids club 親子度假村｜庫塔、水明漾、長谷、金巴蘭、烏魯瓦圖、烏布適合家庭度假的最佳選擇](https://gobaligo.id/blog/bali-family-resorts-kids-club/)
-- [峇里島親子樂園：十五家擁有滑水道溜滑梯的親子渡假村](https://gobaligo.id/blog/bali-family-resorts-water-slides/)
-- [峇里島團體自由行旅遊：烏魯瓦圖包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦](https://gobaligo.id/blog/bali-group-villa-stay/)
+- [烏魯瓦圖 Uluwatu 住宿推介：14間無敵海景嘅私密別墅度假村](/blog/uluwatu-bali-villas-resorts-guide/)
+- [峇里島18家 kids club 親子度假村｜庫塔、水明漾、長谷、金巴蘭、烏魯瓦圖、烏布適合家庭度假的最佳選擇](/blog/bali-family-resorts-kids-club/)
+- [峇里島親子樂園：十五家擁有滑水道溜滑梯的親子渡假村](/blog/bali-family-resorts-water-slides/)
+- [峇里島團體自由行旅遊：烏魯瓦圖包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦](/blog/bali-group-villa-stay/)

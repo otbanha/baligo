@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 06ed025da77c1d41f0506093dee74df0
+_srcHash: 3d880d6246716657a2c436d9bf456a08
 ---
 
 ### 🗞️ 旅遊稅查驗「二次關卡」正式啟用

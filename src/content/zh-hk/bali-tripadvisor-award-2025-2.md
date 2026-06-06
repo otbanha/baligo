@@ -11,7 +11,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_50ddca2afe49b84aaa75c5d8afd50ff9.jpg'
 originalUrl: 'https://vocus.cc/article/67b69720fd89780001c24fd5'
 lang: zh-hk
-_srcHash: 2795d00df75a58773f041aa50dbe4e44
+_srcHash: ba4f8dd22196437d0b7d408bb642d8a0
 ---
 
 ## 峇里島榮登2025年Tripadvisor旅行者之選榜首

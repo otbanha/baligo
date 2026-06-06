@@ -31,7 +31,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: cdf5afba5629ec335141877a5dbd374e
+_srcHash: e5d24530e2cc763ebc024f9b53c1d8ad
 ---
 
 This time in Jimbaran, Bali, I truly unearthed a hidden gem of a spa that I'd want to 'secretly keep to myself' ✨

@@ -13,7 +13,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_474e842e30763c2e08fb64ae53b821a1.jpg'
 originalUrl: 'https://vocus.cc/article/669fc2a7fd89780001321901'
 lang: zh-hk
-_srcHash: 7eb0813126b48ba95224b90690e4ee57
+_srcHash: f1077d0abb3ed834fff714b9a088f1cc
 ---
 
 如果問起喺峇里島除咗活力四射嘅沙灘之外，仲有邊度係最受國際遊客同印尼遊客歡迎嘅地方？其中一個答案就係峇里島嘅烏布（Ubud）。我相信你一定聽過「烏布」嘅旅遊景點，並喺各種文章中睇過有關烏布嘅遊覽同活動介紹。咁，你有冇興趣去烏布度假呢？如果係嘅話，喺計劃烏布之旅之前，建議你完整咁睇完呢篇文章！我哋呢度提供關於烏布嘅旅遊指南同旅遊貼士。

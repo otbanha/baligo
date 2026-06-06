@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: e34438e38b5f6fcfbaf9874ca06ef903
+_srcHash: b04f5e429e7264ee98057849f3e0d63b
 ---
 峇里島最知名嘅旅遊區庫塔（Kuta）即將迎來一場翻天覆地嘅變化！為咗提升旅客嘅步行體驗並解決長期以嚟嘅交通擠塞問題，巴東（Badung）當局宣布咗一項重大嘅基礎設施升級計劃。
 

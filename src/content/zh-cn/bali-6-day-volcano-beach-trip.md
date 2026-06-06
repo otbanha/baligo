@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/66284452fd89780001867c6a'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: ce872b25a1b53e386ba837f5d2cc33af
+_srcHash: e6bf45a762fdc468a21d1f23b4bf239f
 ---
 
 我们的脸书社团团友[戴妤珊](https://www.facebook.com/100002382562993/)跟朋友的六天五夜游记，特此提供给我们编辑/转载：

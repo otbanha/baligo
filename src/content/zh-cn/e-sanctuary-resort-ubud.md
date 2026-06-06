@@ -25,7 +25,7 @@ agoda_star_rating: 5
 latitude: -8.540929794311523
 longitude: 115.23595428466797
 lang: zh-cn
-_srcHash: fd6c3e9ebce5150dbf8b94161fd7ff71
+_srcHash: b7aef481644d42fd8c87cb8f5185a4a0
 ---
 
 2024 年，E Sanctuary Resort Ubud 正式于巴厘岛乌布静谧登场。这家全新五星级度假村，距离乌布热闹市中心仅约 5.8 公里，地理位置便利却远离喧嚣，让旅人能静心沉浸于热带雨林的悠然氛围中。这座仅有 7 间精致客房的精品度假村，以现代简约融合巴厘岛传统风格设计，营造出一处身心灵皆能彻底放松的度假乐园。

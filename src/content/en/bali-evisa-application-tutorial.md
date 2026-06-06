@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/663da7ddfd89780001d83821'
 category:
   - 簽證通關
 lang: en
-_srcHash: d315d986eb9ea0aed9b998260adeb065
+_srcHash: 37b0efb237dfaf2b2ac21ca7d26c823c
 ---
 
 Some people may feel confused about the visa requirements for traveling to Indonesia/Bali, unsure where to start or even how to begin. Especially for first-time independent travelers, applying for an e-visa might seem complicated and unfamiliar.

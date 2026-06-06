@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/663b06c7fd8978000142c990'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 79ae3774736dc807cd3401e8da19c3ba
+_srcHash: d7e140422ac56a01d501cab7c3cefad0
 ---
 
 最近，我们收到了许多团友的反馈，他们发现某些旅行社盗用了我们的[巴厘岛旅游攻略]网志中的内容。这对于我们来说是一个严重的问题，因为我们对于提供原创且有价值的内容感到自豪，而且这些内容是我们通过长时间的经验和研究积累而来的。

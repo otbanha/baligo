@@ -324,7 +324,7 @@ const ldJson = JSON.stringify({
 
     /* ── Notice Box ── */
     .notice-box {
-      background: #f0f7ff;
+      background: #FEF5ED;
       border: 1.5px solid #b8d4f0;
       border-radius: 14px;
       padding: 14px 16px;
@@ -436,13 +436,13 @@ const ldJson = JSON.stringify({
     .seo-section h2 {
       font-size: 17px;
       font-weight: 800;
-      color: #1a365d;
+      color: #5D4037;
       margin-bottom: 12px;
     }
     .seo-section h3 {
       font-size: 14px;
       font-weight: 700;
-      color: #1a365d;
+      color: #5D4037;
       margin: 14px 0 6px;
     }
     .seo-section p {
@@ -531,14 +531,14 @@ const ldJson = JSON.stringify({
     .related-links-title {
       font-size: 15px;
       font-weight: 800;
-      color: #1a365d;
+      color: #5D4037;
       margin-bottom: 14px;
     }
     .related-link-item {
       display: block;
       padding: 12px 16px;
       margin-bottom: 8px;
-      background: linear-gradient(135deg, #f0f7ff, #fff);
+      background: linear-gradient(135deg, #FEF5ED, #fff);
       border: 1.5px solid #c0d8f0;
       border-left: 4px solid #1a6fa8;
       border-radius: 10px;
@@ -1113,7 +1113,7 @@ const ldJson = JSON.stringify({
     const shuffled = relatedLinks.sort(() => Math.random() - 0.5).slice(0, 8);
     const listEl = document.getElementById('related-links-list');
     if (listEl) {
-      const s = 'display:block;padding:12px 16px;margin-bottom:8px;background:linear-gradient(135deg,#f0f7ff,#fff);border:1.5px solid #c0d8f0;border-left:4px solid #1a6fa8;border-radius:10px;text-decoration:none;color:#1a4a7a;font-size:14px;font-weight:600;line-height:1.4;';
+      const s = 'display:block;padding:12px 16px;margin-bottom:8px;background:linear-gradient(135deg,#FEF5ED,#fff);border:1.5px solid #c0d8f0;border-left:4px solid #1a6fa8;border-radius:10px;text-decoration:none;color:#1a4a7a;font-size:14px;font-weight:600;line-height:1.4;';
       listEl.innerHTML = shuffled.map(l =>
         `<a style="${s}" href="${l.href}">${l.text}</a>`
       ).join('');

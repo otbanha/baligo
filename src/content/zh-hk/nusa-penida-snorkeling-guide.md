@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d4e931135ea55fd309372f2872e96160.jpg'
 originalUrl: 'https://vocus.cc/article/654249defd89780001041c87'
 lang: zh-hk
-_srcHash: 3e15acbf9ba08adbcfac940ef061c7d2
+_srcHash: 86d7f9581b70b67656dc672f37c3ba55
 ---
 
 呢個係我哋介紹Nusa Penida（中文翻譯：努沙佩尼達島、佩尼達島）呢個神奇島嶼嘅第三集，我哋嚟同大家介紹一下喺呢度嘅四個知名潛點，無論係浮潛定係帶住水肺潛水都可以搵到好多樂趣嘅地點。

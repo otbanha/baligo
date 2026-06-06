@@ -13,6 +13,8 @@ import { getCollection, render } from 'astro:content';
 import featuredData from '../../featured.json';
 import top5Data from '../../top5.json';
 
+const blogBase = '/blog'; // Default Traditional Chinese version
+
 const allPromos = await getCollection('promotions');
 const now = new Date();
 const activePromos = allPromos.filter(p => !p.data.expiresAt || p.data.expiresAt > now);
@@ -51,6 +53,8 @@ const allPosts = allPostsRaw
     }
   }))
   .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf());
+
+const countFloor = Math.floor(allPosts.length / 100) * 100;
 
 const getCategories = (cat) => {
   if (!cat) return [];
@@ -105,6 +109,7 @@ const allPostsData = allPosts
     id: p.id,
     slug: p.data.slug || p.id,
     title: p.data.title,
+    description: p.data.description || '',
     heroImage: p.data.heroImage || '',
     category: getCategories(p.data.category),
   }));
@@ -324,6 +329,19 @@ const socialLinks = [
       <!-- 首頁專屬區塊（分類時隱藏） -->
       <div id="homepage-blocks">
 
+        <!-- 核心價值主張 Hero Section -->
+        <div class="value-hero">
+          <h1 class="hero-headline">峇里島旅遊一站通</h1>
+          <p class="hero-tagline">中文峇里島旅遊最完整攻略，{countFloor}+ 文章、300+ 精選飯店/Villa、每日匯率、免費規劃工具、在地司機推薦</p>
+          <ul class="value-bullets">
+            <li>✓ {allPosts.length} 篇深度攻略，持續更新</li>
+            <li>✓ 300+ 峇里島飯店 / Villa 精選評測</li>
+            <li>✓ 每日印尼盾匯率，助你精準預算</li>
+            <li>✓ 免費行程規劃工具 & 預算計算機</li>
+            <li>✓ 社群實測，千位旅客認證司機</li>
+          </ul>
+        </div>
+
         <!-- 田字格 2×2 快速入口 -->
         <div class="quick-grid">
           <a href="/trip-planner/" class="qg-btn qg-blue">
@@ -346,6 +364,43 @@ const socialLinks = [
             <span class="qg-title">攻略地圖</span>
             <span class="qg-desc">景點、住宿、餐廳互動地圖</span>
           </a>
+        </div>
+
+        <!-- 必讀攻略導航 -->
+        <div class="essential-guides">
+          <h2 class="section-title fade-in">📚 必讀攻略導航</h2>
+          <div class="guides-grid">
+            <a href="/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97" class="guide-card">
+              <span class="guide-icon">🎒</span>
+              <span class="guide-name">新手指南</span>
+              <span class="guide-count">{categoryCounts['新手指南'] || 0} 篇</span>
+            </a>
+            <a href="/blog/bali-private-car-drivers-guide/" class="guide-card">
+              <span class="guide-icon">🚗</span>
+              <span class="guide-name">包車司機推薦</span>
+              <span class="guide-desc">尋找可靠的司機</span>
+            </a>
+            <a href="/blog/?cat=%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C" class="guide-card">
+              <span class="guide-icon">🛂</span>
+              <span class="guide-name">簽證通關</span>
+              <span class="guide-count">{categoryCounts['簽證通關'] || 0} 篇</span>
+            </a>
+            <a href="/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6" class="guide-card">
+              <span class="guide-icon">🏨</span>
+              <span class="guide-name">住宿推薦</span>
+              <span class="guide-count">{categoryCounts['住宿推薦'] || 0} 篇</span>
+            </a>
+            <a href="/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5" class="guide-card">
+              <span class="guide-icon">🗺️</span>
+              <span class="guide-name">分區攻略</span>
+              <span class="guide-count">{categoryCounts['峇里島分區攻略'] || 0} 篇</span>
+            </a>
+            <a href="/blog/?cat=%E7%BE%8E%E9%A3%9F%E6%99%AF%E9%BB%9E%E6%B4%BB%E5%8B%95" class="guide-card">
+              <span class="guide-icon">🍽️</span>
+              <span class="guide-name">景點推薦</span>
+              <span class="guide-count">{categoryCounts['美食景點活動'] || 0} 篇</span>
+            </a>
+          </div>
         </div>
 
         <!-- 最新討論回覆 -->
@@ -579,7 +634,7 @@ const socialLinks = [
           {[0,1,2].map(i => (
             <a href="#" class="featured-card" data-index={i}>
               <div class="featured-image">
-                <img src="" alt="" loading="lazy" />
+                <img src="" alt="" loading="eager" />
               </div>
               <div class="featured-body">
                 <span class="featured-badge">精選</span>
@@ -590,24 +645,8 @@ const socialLinks = [
         </div>
       </div>
 
-      <!-- 文章卡片 -->
-      <div class="grid" id="posts-grid">
-        {allPosts.map((post) => (
-          <a href={`/blog/${post.id}/`} class="card fade-in" data-category={JSON.stringify(getCategories(post.data.category))}>
-            <div class="card-image">
-              {post.data.heroImage
-                ? <img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
-                : <div class="card-image-placeholder"><img src="/apple-touch-icon.png" alt="Go Bali Go" /></div>
-              }
-
-            </div>
-            <div class="card-body">
-              <h2 class="card-title">{post.data.title}</h2>
-              <p class="card-desc">{post.data.description}</p>
-            </div>
-          </a>
-        ))}
-      </div>
+      <!-- 文章卡片（由 JS 動態渲染，每次只建立當前頁） -->
+      <div class="grid" id="posts-grid"></div>
 
       <div id="pagination" class="pagination"></div>
 
@@ -623,7 +662,7 @@ const socialLinks = [
   <Footer />
 </body>
 
-<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts, qaData }}>
+<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts, blogBase, qaData }}>
   window.addEventListener('DOMContentLoaded', () => {
 
     // Sidebar 收合（手機版）
@@ -651,7 +690,7 @@ const socialLinks = [
       const link = document.getElementById('accom-link');
       const img = document.getElementById('accom-img');
       const title = document.getElementById('accom-title');
-      if (link) link.href = `/blog/${random.id}/`;
+      if (link) link.href = `${blogBase}/blog/${random.id}/`;
       if (img) { img.src = random.heroImage; img.alt = random.title; }
       if (title) title.textContent = random.title;
     }
@@ -662,15 +701,22 @@ const socialLinks = [
       const section = document.getElementById('top5-section');
       const list = document.getElementById('top5-list');
       if (!section || !list) return;
-      const findPost = id => allPostsData.find(p => p.id === id || p.slug === id);
       const shuffled = data.slice().sort(() => Math.random() - 0.5).slice(0, 6);
       list.innerHTML = shuffled.map((item, i) => {
         const postData = findPost(item.id);
         const localTitle = postData?.title || item.title;
         const slug = postData?.slug || item.id;
-        return `<li class="top5-item" data-index="${i}"><a href="/blog/${slug}/"><span style="display:inline-block;width:20px;height:20px;flex-shrink:0;background-image:url('/favicon-32x32.png');background-size:cover;background-repeat:no-repeat;border-radius:4px"></span><span class="top5-title">${localTitle}</span></a></li>`;
+        return `<li class="top5-item" data-index="${i}"><a href="${blogBase}/${slug}/"><span style="display:inline-block;width:20px;height:20px;flex-shrink:0;background-image:url('/favicon-32x32.png');background-size:cover;background-repeat:no-repeat;border-radius:4px"></span><span class="top5-title">${localTitle}</span></a></li>`;
       }).join('');
       section.style.display = '';
+    }).catch(() => {});
+
+    // 從 hero-map.json 載入 heroImage 查詢表（輕量，保證最新）
+    let articleHeroMap = {};
+    fetch('/hero-map.json?v=' + Date.now()).then(r => r.json()).then(map => {
+      articleHeroMap = map;
+      // fetch 完後若目前已在某分類，重新渲染精選（補齊空白 heroImage）
+      if (currentCat && currentCat !== 'all') updateFeatured(currentCat);
     }).catch(() => {});
 
     // 從 KV 動態載入精選文章（若有資料則覆蓋靜態清單）
@@ -687,10 +733,16 @@ const socialLinks = [
     let currentPage = 1;
     let currentCat = 'all';
     let currentQ = '';
-    let filteredCards = [];
+    let filteredPosts = [];
 
     const buttons = document.querySelectorAll('.category-item');
-    const cards = document.querySelectorAll('.card');
+
+    function escapeHtml(str) {
+      return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+    function findPost(id) {
+      return allPostsData.find(p => p.id === id || p.slug === id);
+    }
 
     function updateFeatured(cat) {
       const section = document.getElementById('featured-section');
@@ -705,22 +757,36 @@ const socialLinks = [
         }
       }
       const source = dynamicFeatured || featuredData;
-      const ids = source[cat] || [];
-      if (cat === 'all' || ids.length === 0) {
+      const items = source[cat] || [];
+      if (cat === 'all' || items.length === 0) {
         section.style.display = 'none';
         return;
       }
-      const matchedPosts = ids.map(id => allPostsData.find(p => p.id === id)).filter(Boolean);
+      // Support rich objects [{id,title,slug,heroImage}] and legacy string IDs
+      const matchedPosts = items.map(item => {
+        if (typeof item === 'object' && item.id) {
+          const local = findPost(item.id);
+          const heroImage = local?.heroImage || item.heroImage || articleHeroMap[item.id] || '';
+          return { id: local?.slug || item.id, title: item.title, heroImage };
+        }
+        const p = findPost(item);
+        const heroImage = p?.heroImage || articleHeroMap[item] || '';
+        return p ? { id: p.slug || p.id, title: p.title, heroImage } : null;
+      }).filter(Boolean);
       if (matchedPosts.length === 0) { section.style.display = 'none'; return; }
       // 從最多 5 篇中亂數取 3 篇
       const shuffled = matchedPosts.sort(() => Math.random() - 0.5).slice(0, 3);
       const featuredCardEls = document.querySelectorAll('.featured-card');
       featuredCardEls.forEach((card, i) => {
         if (shuffled[i]) {
-          card.href = `/blog/${shuffled[i].id}/`;
+          card.href = `${blogBase}/${shuffled[i].id}/`;
           card.querySelector('h3').textContent = shuffled[i].title;
           const img = card.querySelector('img');
-          if (img) { img.src = shuffled[i].heroImage; img.alt = shuffled[i].title; }
+          if (img) {
+            img.removeAttribute('loading'); // Safari: remove lazy attr before setting src
+            img.alt = shuffled[i].title;
+            img.src = shuffled[i].heroImage;
+          }
           card.style.display = 'flex';
         } else {
           card.style.display = 'none';
@@ -739,32 +805,38 @@ const socialLinks = [
 
     // Render cards + pagination for current state — no history side effects
     function renderCards() {
+      const grid = document.getElementById('posts-grid');
       const start = (currentPage - 1) * POSTS_PER_PAGE;
       const end = start + POSTS_PER_PAGE;
-      let si = 0;
-      filteredCards.forEach((card, i) => {
-        if (i >= start && i < end) {
-          card.classList.remove('visible');
-          card.style.transitionDelay = '';
-          card.style.display = 'flex';
-          const delay = si++ * 0.1;
-          requestAnimationFrame(() => {
-            requestAnimationFrame(() => {
-              card.style.transitionDelay = `${delay}s`;
-              card.classList.add('visible');
-            });
+      const pageData = filteredPosts.slice(start, end);
+      grid.innerHTML = pageData.map((post) => {
+        const catList = post.category || [];
+        const badgeCat = catList[0] || '';
+        const imgHtml = post.heroImage
+          ? `<img src="${escapeHtml(post.heroImage)}" alt="${escapeHtml(post.title)}" loading="lazy" />`
+          : `<div class="card-image-placeholder"><img src="/apple-touch-icon.png" alt="Go Bali Go" /></div>`;
+        const badgeHtml = badgeCat ? `<span class="category-badge">${escapeHtml(badgeCat)}</span>` : '';
+        return `<a href="${blogBase}/${escapeHtml(post.slug)}/" class="card fade-in">
+          <div class="card-image">${imgHtml}${badgeHtml}</div>
+          <div class="card-body">
+            <h2 class="card-title">${escapeHtml(post.title)}</h2>
+            <p class="card-desc">${escapeHtml(post.description)}</p>
+          </div>
+        </a>`;
+      }).join('');
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          grid.querySelectorAll('.card').forEach((card, i) => {
+            card.style.transitionDelay = `${i * 0.05}s`;
+            card.classList.add('visible');
           });
-        } else {
-          card.style.display = 'none';
-          card.classList.remove('visible');
-          card.style.transitionDelay = '';
-        }
+        });
       });
       updatePagination();
     }
 
     function updatePagination() {
-      const totalPages = Math.ceil(filteredCards.length / POSTS_PER_PAGE);
+      const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE);
       const pagination = document.getElementById('pagination');
       pagination.innerHTML = '';
       if (totalPages <= 1) return;
@@ -800,7 +872,7 @@ const socialLinks = [
     }
 
     // Apply a cat+page+q state to the UI (no history changes)
-    function applyState(cat, page, q = '') {
+    function applyState(cat, page, q = '', isInitial = false) {
       currentCat = cat;
       currentPage = page;
       currentQ = q;
@@ -810,7 +882,10 @@ const socialLinks = [
       if (activeBtn) activeBtn.classList.add('active');
 
       const homepageBlocks = document.getElementById('homepage-blocks');
-      if (homepageBlocks) homepageBlocks.style.display = (cat === 'all' && !q) ? 'block' : 'none';
+      // Only hide homepage blocks if user explicitly filtered by category or search (not on initial load)
+      if (homepageBlocks && !isInitial) {
+        homepageBlocks.style.display = (cat === 'all' && !q) ? 'block' : 'none';
+      }
 
       // 新手指南分類：顯示 intro 區塊 + 動態更新 meta tags
       const newbieIntro = document.getElementById('newbie-guide-intro');
@@ -861,24 +936,14 @@ const socialLinks = [
       }
 
       const qLower = q ? q.toLowerCase() : '';
-      filteredCards = [...cards].filter(card => {
-        try {
-          const cats = JSON.parse(card.dataset.category || '[]');
-          const catList = Array.isArray(cats) ? cats : [cats];
-          if (catList.includes('新聞存檔') && cat !== '新聞存檔') return false;
-          if (cat !== 'all' && !catList.includes(cat)) return false;
-        } catch {
-          if (card.dataset.category === '新聞存檔' && cat !== '新聞存檔') return false;
-          if (cat !== 'all' && card.dataset.category !== cat) return false;
-        }
-        if (qLower) {
-          const title = (card.querySelector('.card-title')?.textContent || '').toLowerCase();
-          return title.includes(qLower);
-        }
+      filteredPosts = allPostsData.filter(post => {
+        const catList = post.category || [];
+        if (catList.includes('新聞存檔') && cat !== '新聞存檔') return false;
+        if (cat !== 'all' && !catList.includes(cat)) return false;
+        if (qLower) return post.title.toLowerCase().includes(qLower);
         return true;
       });
 
-      cards.forEach(card => card.style.display = 'none');
       updateFeatured(cat);
       renderCards();
     }
@@ -886,7 +951,7 @@ const socialLinks = [
     // Category button click: push new history entry at page 1 (clears q)
     function filterCategory(cat) {
       window.history.pushState({ cat, page: 1, q: '' }, '', buildUrl(cat, 1));
-      applyState(cat, 1, '');
+      applyState(cat, 1, '', false); // User-initiated filter, allow hiding blocks
       const newVideo = activeVideos[Math.floor(Math.random() * activeVideos.length)];
       const iframe = document.getElementById('yt-iframe');
       if (iframe) iframe.src = `https://www.youtube.com/embed/${newVideo}?rel=0`;
@@ -904,7 +969,7 @@ const socialLinks = [
     // Browser back/forward: restore state without pushing new history
     window.addEventListener('popstate', (e) => {
       const state = e.state;
-      applyState(state?.cat || 'all', state?.page || 1, state?.q || '');
+      applyState(state?.cat || 'all', state?.page || 1, state?.q || '', false);
     });
 
     // Init: read URL params, stamp state onto current history entry, then render
@@ -913,7 +978,8 @@ const socialLinks = [
     const qParam = urlParams.get('q') || '';
     const pageParam = Math.max(1, parseInt(urlParams.get('page') || '1', 10));
     window.history.replaceState({ cat: catParam, page: pageParam, q: qParam }, '', window.location.href);
-    applyState(catParam, pageParam, qParam);
+    const isInitialLoad = !urlParams.has('cat') && !urlParams.has('q');
+    applyState(catParam, pageParam, qParam, isInitialLoad); // Pass isInitial=true for default page load
 
   });
 
@@ -935,13 +1001,13 @@ const socialLinks = [
 </script>
 </html>
 
-<style>
+<style is:global>
   /* ---- 新手指南分類 intro ---- */
   .newbie-intro-text {
     margin: 1.2em 0 1.8em;
     font-size: 0.96em;
     line-height: 1.75;
-    color: #3a4a5a;
+    color: #7B5038;
   }
   .newbie-intro-text p { margin: 0 0 0.8em; }
 
@@ -989,8 +1055,8 @@ const socialLinks = [
   .pillar-recommendation-card {
     margin: 1.5em 0 2em;
     border-radius: 14px;
-    background: linear-gradient(135deg, #e8f4f0 0%, #dceef8 100%);
-    border: 1.5px solid rgba(32, 120, 100, 0.18);
+    background: linear-gradient(135deg, #FEF5ED 0%, #FDEBD0 100%);
+    border: 1.5px solid rgba(197, 160, 89, 0.4);
     box-shadow: 0 2px 16px rgba(10, 22, 40, 0.07);
     overflow: hidden;
     transition: box-shadow 0.2s, transform 0.2s;
@@ -1012,26 +1078,26 @@ const socialLinks = [
     font-size: 0.75em;
     font-weight: 700;
     letter-spacing: 0.08em;
-    color: #2a7a60;
+    color: #9A6447;
     text-transform: uppercase;
     margin: 0 0 0.3em;
   }
   .pillar-card-title {
     font-size: 1.05em;
     font-weight: 800;
-    color: #0a1628;
+    color: #7B3A2A;
     margin: 0 0 0.45em;
     line-height: 1.35;
   }
   .pillar-card-desc {
     font-size: 0.87em;
-    color: #3a4a5a;
+    color: #7B5038;
     margin: 0 0 0.9em;
     line-height: 1.55;
   }
   .pillar-card-cta {
     display: inline-block;
-    background: #1a6b4a;
+    background: #FF8C42;
     color: #fff;
     font-size: 0.88em;
     font-weight: 700;
@@ -1040,7 +1106,7 @@ const socialLinks = [
     text-decoration: none;
     transition: background 0.2s;
   }
-  .pillar-card-cta:hover { background: #155c3e; text-decoration: none; }
+  .pillar-card-cta:hover { background: #E07530; text-decoration: none; }
   @media (max-width: 600px) {
     .pillar-card-inner { flex-direction: column; align-items: flex-start; gap: 0.8em; padding: 1.1em 1.2em; }
   }
@@ -1164,11 +1230,11 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 }
 
 .widget-box {
-  background: linear-gradient(135deg, #0a1628 0%, #1a3560 100%);
+  background: #ffffff;
   border-radius: 12px;
   padding: 1.2em;
-  box-shadow: 0 8px 32px rgba(0,0,0,0.25), inset 0 1px 0 rgba(197,160,89,0.3);
-  border: 1px solid rgba(197,160,89,0.25);
+  box-shadow: 0 2px 12px rgba(93,64,55,0.10);
+  border: 1px solid rgba(197,160,89,0.35);
   position: relative;
   
 }
@@ -1182,29 +1248,31 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 }
 
 .widget-title {
-  font-size: 0.95em;
+  font-size: 1.1em;
   font-weight: 700;
-  color: var(--gold-light);
+  color: #5D4037;
   margin: 0 0 1em;
   padding-bottom: 0.5em;
-  border-bottom: 1px solid rgba(197,160,89,0.2);
+  padding-left: 0.6em;
+  border-left: 4px solid var(--gold);
+  border-bottom: 2px solid rgba(197,160,89,0.4);
   letter-spacing: 0.05em;
 }
 
 .news-content {
-  color: white;
+  color: #5D4037;
   height: 300px;
   overflow-y: scroll;
   font-size: 0.82em;
   line-height: 1.5;
 }
 .news-content * {
-  color: white !important;
+  color: #5D4037 !important;
 }
 #top-widgets .news-content strong,
 #top-widgets .news-content b,
 #top-widgets .news-content a {
-  color: white !important;
+  color: #5D4037 !important;
 }
 .news-content img {
   width: 100%;
@@ -1213,34 +1281,29 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   margin-bottom: 0.4em;
 }
 .news-content p {
-  color: rgba(255,255,255,0.9);
+  color: #7B5038;
   font-size: 0.9em;
   line-height: 1.6;
 }
 .news-content a {
-  color: var(--gold, #c5a059);
+  color: #C0392B;
 }
-.news-content img {
-  width: 100%;
-  height: auto;
-  border-radius: 6px;
-  margin-bottom: 0.4em;
+.news-content h2 {
+  font-size: 1em !important;
+  font-weight: 700 !important;
+  color: #5D4037 !important;
+  margin: 1em 0 0.4em !important;
+  padding-left: 0.6em !important;
+  border-left: 4px solid var(--gold) !important;
+  line-height: 1.4 !important;
 }
-.news-content p {
-  color: rgba(255,255,255,0.9);
-  font-size: 0.9em;
-  line-height: 1.6;
-}
-.news-content a {
-  color: var(--gold, #c5a059);
-}
-.widget-empty { color: rgba(255,255,255,0.4); font-size: 0.88em; text-align: center; padding: 2em 0; }
+.widget-empty { color: #9A8070; font-size: 0.88em; text-align: center; padding: 2em 0; }
 
 .accom-card { display: block; text-decoration: none; color: inherit; border-radius: 8px; overflow: hidden; transition: transform 0.2s; }
 .accom-card:hover { transform: translateY(-2px); }
 .accom-image { height: 220px; overflow: hidden; border-radius: 8px; margin-bottom: 0.7em; background: var(--ocean-mid); }
 .accom-image img { width: 100%; height: 100%; object-fit: cover; border-radius: 8px; }
-.accom-body p { font-size: 0.88em; font-weight: 600; color: rgba(255,255,255,0.9); margin: 0; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.accom-body p { font-size: 0.88em; font-weight: 600; color: #5D4037; margin: 0; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 
 .news-list { list-style: none; margin: 0; padding: 0; }
 .news-item { border-bottom: 1px solid rgba(197,160,89,0.1); padding: 0.5em 0; }
@@ -1248,7 +1311,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .news-item a { display: flex; flex-direction: column; gap: 0.2em; text-decoration: none; color: inherit; transition: color 0.15s; }
 .news-item a:hover .news-title { color: var(--gold); }
 .news-date { font-size: 0.72em; color: var(--gold); }
-.news-title { font-size: 0.85em; color: rgba(255,255,255,0.9); line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.news-title { font-size: 0.85em; color: #5D4037; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
 
 /* Top 5 */
 .top5-section {
@@ -1321,7 +1384,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .yt-qa-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 1.2em; align-items: start; }
 @media (max-width: 720px) { .yt-qa-row { grid-template-columns: 1fr; } }
 .youtube-section { margin-bottom: 0; }
-.youtube-player { position: relative; width: 100%; aspect-ratio: 16/9; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(26, 54, 93, 0.15); background: var(--ocean); }
+.youtube-player { position: relative; width: 100%; aspect-ratio: 16/9; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(93, 64, 55, 0.15); background: var(--ocean); }
 .youtube-player iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
 
 /* 社群媒體 */
@@ -1394,7 +1457,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
     border-right: none;
     border-bottom: 2px solid rgba(197,160,89,0.25);
     padding: 0;
-    background: var(--ocean, #1A365D);
+    background: var(--ocean, #5D4037);
     box-shadow: 0 2px 10px rgba(0,0,0,0.3);
   }
   .sidebar-toggle { display: none; }
@@ -1441,7 +1504,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   .category-item:hover { background: rgba(197,160,89,0.2); color: #fff; }
   .category-item.active {
     background: var(--gold, #C5A059);
-    color: var(--ocean, #1A365D);
+    color: var(--ocean, #5D4037);
     border-color: var(--gold, #C5A059);
     font-weight: 700;
   }
@@ -1455,15 +1518,15 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
     font-weight: 600;
   }
   .category-item.active .cat-count {
-    background: rgba(26,54,93,0.25);
-    color: var(--ocean, #1A365D);
+    background: rgba(93,64,55,0.25);
+    color: var(--ocean, #5D4037);
   }
 
   main { padding: 1.2em 1em 3em; }
   .top-widgets { gap: 0.8em; margin-bottom: 1em; }
   .accom-image { height: 160px; }
   .widget-box { padding: 1em; }
-  .widget-title { font-size: 0.88em; margin-bottom: 0.7em; }
+  .widget-title { font-size: 1em; margin-bottom: 0.7em; }
 }
 
 @media (max-width: 600px) {
@@ -1505,21 +1568,23 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   color: rgba(255,255,255,0.88);
   line-height: 1.7;
 }
-.news-body :global(*) { color: rgba(255,255,255,0.88); }
-.news-body :global(p) { margin: 0 0 0.7em; }
-.news-body :global(img) {
+.news-body * { color: #5D4037; }
+.news-body p { margin: 0 0 0.7em; }
+.news-body img {
   width: 100%;
   height: auto;
   border-radius: 6px;
   margin: 0.5em 0;
 }
-.news-body :global(h1), .news-body :global(h2), .news-body :global(h3) {
-  color: var(--gold-light);
-  font-size: 0.95em;
-  margin: 0.8em 0 0.4em;
+.news-body h1, .news-body h2, .news-body h3 {
+  color: var(--gold) !important;
+  font-size: 1.05em !important;
+  font-weight: 700 !important;
+  margin: 0.8em 0 0.3em !important;
+  line-height: 1.4 !important;
 }
-.news-body :global(a) { color: var(--gold); }
-.news-body :global(strong), .news-body :global(b) { color: rgba(255,255,255,0.95); }
+.news-body a { color: var(--gold) !important; }
+.news-body strong, .news-body b { color: #3A2010; }
 
 /* 求救箱 widget */
 .qa-widget {
@@ -1538,7 +1603,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .qa-widget-title {
   font-size: 17px;
   font-weight: 700;
-  color: var(--ocean, #1A365D);
+  color: var(--ocean, #5D4037);
   margin: 0;
 }
 .qa-widget-desc {
@@ -1575,7 +1640,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .qa-widget-list li a:hover {
   border-color: var(--gold, #C5A059);
   background: #fffdf8;
-  color: var(--ocean, #1A365D);
+  color: var(--ocean, #5D4037);
 }
 .qa-widget-list li a::before { content: "❓ "; }
 .qa-widget-cta {
@@ -1583,13 +1648,104 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   font-size: 13px;
   font-weight: 600;
   color: #fff;
-  background: var(--ocean, #1A365D);
+  background: var(--ocean, #5D4037);
   padding: 8px 18px;
   border-radius: 8px;
   text-decoration: none;
   transition: background 0.2s;
 }
-.qa-widget-cta:hover { background: #2a5298; color: #fff; }
+.qa-widget-cta:hover { background: #9A6447; color: #fff; }
+
+/* ── 核心價值主張 Hero ── */
+.value-hero {
+  background: linear-gradient(135deg, #F5E0A8 0%, #EDD07A 100%);
+  color: #5D4037;
+  padding: 1.5rem;
+  border-radius: 12px;
+  margin-bottom: 1.5rem;
+  text-align: center;
+  border: 1px solid rgba(197, 160, 89, 0.5);
+  box-shadow: 0 4px 16px rgba(197,160,89,0.3);
+}
+.hero-headline {
+  font-size: 1.4rem;
+  font-weight: 900;
+  margin: 0 0 0.5rem 0;
+  line-height: 1.3;
+  letter-spacing: -0.3px;
+  color: #3A2010;
+  text-shadow: none;
+}
+.hero-tagline {
+  font-size: 0.9rem;
+  color: #7B4A2A;
+  margin: 0 0 1rem 0;
+  line-height: 1.5;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: 500;
+}
+.value-bullets {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 0.7rem;
+  max-width: 600px;
+  margin: 0 auto;
+  text-align: left;
+  font-size: 0.85rem;
+}
+.value-bullets li {
+  padding: 0.4rem 0;
+  line-height: 1.35;
+  color: #5D4037;
+}
+@media (max-width: 768px) {
+  .value-hero {
+    padding: 1.3rem 1.2rem;
+    margin-bottom: 1.2rem;
+  }
+  .hero-headline {
+    font-size: 1.2rem;
+    margin-bottom: 0.4rem;
+  }
+  .hero-tagline {
+    font-size: 0.85rem;
+    margin-bottom: 0.8rem;
+  }
+  .value-bullets {
+    grid-template-columns: 1fr;
+    gap: 0.6rem;
+  }
+  .value-bullets li {
+    font-size: 0.8rem;
+    padding: 0.3rem 0;
+  }
+}
+@media (max-width: 480px) {
+  .value-hero {
+    padding: 1rem 1rem;
+    margin-bottom: 1rem;
+    border-radius: 10px;
+  }
+  .hero-headline {
+    font-size: 1.05rem;
+    margin-bottom: 0.35rem;
+  }
+  .hero-tagline {
+    font-size: 0.8rem;
+    margin-bottom: 0.7rem;
+  }
+  .value-bullets {
+    font-size: 0.75rem;
+  }
+  .value-bullets li {
+    padding: 0.25rem 0;
+  }
+}
 
 /* ── 田字格 2×2 快速入口 ── */
 .quick-grid {
@@ -1618,7 +1774,7 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .qg-icon { font-size: 2rem; line-height: 1; }
 .qg-title { font-size: 1rem; font-weight: 800; line-height: 1.2; }
 .qg-desc  { font-size: 0.78rem; color: rgba(255,255,255,0.82); line-height: 1.3; }
-.qg-blue   { background: linear-gradient(135deg, #1a6ee1 0%, #2a5298 100%); box-shadow: 0 4px 16px rgba(26,54,93,0.22); }
+.qg-blue   { background: linear-gradient(135deg, #E63946 0%, #9A6447 100%); box-shadow: 0 4px 16px rgba(93,64,55,0.22); }
 .qg-green  { background: linear-gradient(135deg, #1a7a3e 0%, #2d7a4f 100%); box-shadow: 0 4px 16px rgba(26,74,46,0.22); }
 .qg-orange { background: linear-gradient(135deg, #e07a00 0%, #c45b00 100%); box-shadow: 0 4px 16px rgba(180,80,0,0.22); }
 .qg-teal   { background: linear-gradient(135deg, #0e8fa0 0%, #096878 100%); box-shadow: 0 4px 16px rgba(9,104,120,0.22); }
@@ -1626,6 +1782,94 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
   .qg-btn { min-height: 88px; padding: 1rem 0.75rem; }
   .qg-title { font-size: 0.88rem; }
   .qg-desc  { display: none; }
+}
+
+/* ── 必讀攻略導航 ── */
+.essential-guides {
+  margin-bottom: 2em;
+  background: linear-gradient(to bottom, #FEF5ED, #ffffff);
+  padding: 1.5rem;
+  border-radius: 12px;
+  border: 1px solid #e0eeff;
+}
+.essential-guides .section-title {
+  margin-top: 0;
+  margin-bottom: 1.2em;
+  color: #0f2a44;
+  font-size: 1.3rem;
+}
+.guides-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 12px;
+}
+.guide-card {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  gap: 6px;
+  padding: 1.2rem 0.8rem;
+  background: #fff;
+  border: 1px solid #d0e0ff;
+  border-radius: 10px;
+  text-decoration: none;
+  color: #0f2a44;
+  text-align: center;
+  transition: all 0.15s ease;
+  min-height: 100px;
+}
+.guide-card:hover {
+  background: #f8fbff;
+  border-color: #E63946;
+  box-shadow: 0 4px 12px rgba(26, 110, 225, 0.12);
+  transform: translateY(-2px);
+}
+.guide-icon {
+  font-size: 1.8rem;
+  line-height: 1;
+}
+.guide-name {
+  font-size: 0.95rem;
+  font-weight: 700;
+  line-height: 1.2;
+}
+.guide-count {
+  font-size: 0.78rem;
+  color: #666;
+}
+.guide-desc {
+  font-size: 0.75rem;
+  color: #888;
+  line-height: 1.2;
+}
+@media (max-width: 768px) {
+  .guides-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 10px;
+  }
+  .guide-card {
+    padding: 1rem 0.6rem;
+    min-height: 90px;
+    font-size: 0.9rem;
+  }
+  .guide-icon { font-size: 1.5rem; }
+}
+@media (max-width: 480px) {
+  .essential-guides {
+    padding: 1rem;
+  }
+  .guides-grid {
+    grid-template-columns: repeat(2, 1fr);
+    gap: 8px;
+  }
+  .guide-card {
+    padding: 0.8rem 0.5rem;
+    min-height: 80px;
+  }
+  .guide-icon { font-size: 1.4rem; }
+  .guide-name { font-size: 0.85rem; }
+  .guide-count { display: none; }
 }
 
 </style>

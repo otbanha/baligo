@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/68872b9efd89780001398120'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 29ac9be8437c79a8c232ac51982764e3
+_srcHash: d92713c540275bdca3862f25621553f2
 ---
 
 Bali, known as the 'Island of the Gods,' is a tropical paradise that attracts millions of visitors each year to experience its sunshine, waves, and unique cultural offerings. However, while enjoying this beautiful land, travel safety should never be overlooked. The Indonesian Ministry of Tourism recently released new safety guidelines. Let's explore how to have both an exciting and safe vacation in Bali.

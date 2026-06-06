@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_40beff859947516744ace348624bbaba.jpg'
 originalUrl: 'https://vocus.cc/article/693aaf9dfd897800013bfe3f'
 lang: zh-cn
-_srcHash: 63e1dcab09a4befa1f4e9cdf0c81ccc8
+_srcHash: e46b7b5c4cbf781b5d6c22dad068ac6e
 ---
 
 巴厘岛不仅拥有迷人的海滩和丰富的文化，更是美食爱好者的天堂！这次要带大家深入了解巴厘岛最具代表性的10道必吃美食，从传统主菜到街头小吃，每一道都充满了印尼独特的香料风味。

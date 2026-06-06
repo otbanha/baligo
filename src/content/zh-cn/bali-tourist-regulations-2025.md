@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/67e242c9fd89780001f9444a'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: b378fe1c3b2fba4949b37edcf6e3a72d
+_srcHash: da4421d3efe601543b35886f704019a5
 ---
 
 巴厘岛作为全球热门旅游胜地，近日颁布更严格的外国游客管理规定。巴厘岛省政府正式发布**2025年第7号通告**，明确规范游客行为准则，包括必须遵守的义务、禁止事项及违规处罚，以维护当地文化与环境。

@@ -16,7 +16,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_8ecd395c592055f62b7806b7a46e23c0.png'
 originalUrl: 'https://vocus.cc/article/67c7ed8afd89780001d9cadc'
 lang: zh-cn
-_srcHash: b56d56667e04c8b12e08c918270e55d4
+_srcHash: 801c91e2ec4352fd7f96f0b041beca37
 ---
 
 ## 巴厘岛10人以上团体旅游的挑战与解方

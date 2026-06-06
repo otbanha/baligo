@@ -17,7 +17,7 @@ category:
   - 家庭親子
   - 旅行技巧
 lang: zh-hk
-_srcHash: ec60f37b918502c182b11e36dc24622d
+_srcHash: 05155b6d39a3539e42def3961861f07f
 ---
 
 峇里島再次向世人證明咗佢不可撼動嘅地位，榮獲2024年度「[全球最浪漫旅遊目的地](https://www.worldtravelawards.com/award-worlds-most-romantic-destination-2024)」嘅殊榮！作為東南亞首個獲此殊榮嘅地區，峇里島以其獨特嘅自然美景、文化氛圍同無與倫比嘅浪漫魅力，征服咗來自世界各地嘅旅客同評審嘅心。

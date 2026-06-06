@@ -17,7 +17,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: en
-_srcHash: d135af1b07ad8f37a6769c7e911dd6b1
+_srcHash: a3a7e3af1823f7e124ec1425d964dca6
 ---
 
 Bali's highest peak, the sacred Mount Agung, will be temporarily closed from October 1 to November 30. During this period, neither tourists nor locals will be allowed to enter Mount Agung, as the local community will be conducting a major religious ceremony that occurs once every decade.

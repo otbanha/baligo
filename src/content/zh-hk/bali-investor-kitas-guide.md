@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/669f938dfd897800012e6312'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: b45e385181d2e913b20b3f3765d1f183
+_srcHash: 2e89e0f87babbd7e536c770a75446bb7
 ---
 
 峇里島，一個令人好想去嘅天堂，唔單止係旅遊勝地，仲係一個充滿商機嘅地方。想喺峇里島長住同埋做生意，申請投資者KITAS係一個必須嘅步驟。呢篇文章會詳細解釋點樣攞到投資者KITAS，成立PT PMA（外國投資有限公司），同埋遵守相關法規。

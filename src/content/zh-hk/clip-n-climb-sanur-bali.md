@@ -15,7 +15,7 @@ category:
   - 家庭親子
   - 美食景點活動
 lang: zh-hk
-_srcHash: 8ce65e70ed4dc6ca0f63847f4d29e963
+_srcHash: 22a4aba46f3c6ab5b518f6223792a5b4
 ---
 Clip 'n Climb Bali結合運動同娛樂，係峇里島新興嘅室內冒險景點，無論初學者定高手都搵到樂趣！
 

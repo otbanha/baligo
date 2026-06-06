@@ -12,7 +12,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ed1ea6cbc2b41221a0a57d6e6ed75985.jpg'
 originalUrl: 'https://vocus.cc/article/68f9b567fd89780001795353'
 lang: zh-hk
-_srcHash: a4754740c24e0ce9353230bac15176b1
+_srcHash: 4ccdcd04314d0c95fb164f72798a31ff
 ---
 
 如果你以為峇里島只有浪漫嘅沙灘、日落同度假村，咁你就錯過咗呢座島嶼最動人嘅一面——**海龜保育故事**。每年 4 月至 10 月，海龜媽媽會返到峇里島嘅沙灘產卵，而當地社區、義工同基金會都投入復育，讓遊客有機會親眼見證小生命奔向大海嘅瞬間。

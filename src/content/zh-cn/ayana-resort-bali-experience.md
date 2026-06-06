@@ -31,7 +31,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_5c7513ab8313b5d1aa4c189bbff4899c.jpg'
 originalUrl: 'https://vocus.cc/article/660bcff3fd89780001d037ad'
 lang: zh-cn
-_srcHash: 702b4bb3b5baf7e85a19665b91b1c33b
+_srcHash: eb0f42e21698118e15c02c36984da5ae
 ---
 
 巴厘岛的Ayana度假村是一个极其受欢迎的巴厘岛住宿点。YouTuber "设计师不累designer play"发布的视频，带观众认识他在这里的精彩体验。

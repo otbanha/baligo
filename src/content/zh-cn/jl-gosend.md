@@ -28,12 +28,13 @@ tags:
 heroImage: https://images.gobaligo.id/images/2026-04/1777187667446-chatgpt_image_2026_4_26_02_10_06.png
   https://images.gobaligo.id/images/2026-04/1777187667446-chatgpt_image_2026_4_26_02_10_06.png
   https://images.gobaligo.id/images/2026-04/1777187667446-chatgpt_image_2026_4_26_02_10_06.png
+  https://images.gobaligo.id/images/2026-04/1777187667446-chatgpt_image_2026_4_26_02_10_06.png
 originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 22339db8d5867bb6ab8888ef6bce0446
+_srcHash: f57f1a84ceeb6c36e9ed452ef4a9fdfd
 ---
 
 在许多人印象中，巴厘岛是放松、度假、慢节奏的代名词。

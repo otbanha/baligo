@@ -17,7 +17,7 @@ category:
   - 家庭親子
   - 旅行技巧
 lang: zh-cn
-_srcHash: ec60f37b918502c182b11e36dc24622d
+_srcHash: 05155b6d39a3539e42def3961861f07f
 ---
 
 巴厘岛再次向世人证明了其不可撼动的地位，荣获2024年度「[全球最浪漫旅游目的地](https://www.worldtravelawards.com/award-worlds-most-romantic-destination-2024)」的殊荣！作为东南亚首个获此殊荣的地区，巴厘岛以其独特的自然美景、文化氛围和无与伦比的浪漫魅力，征服了来自世界各地的旅客和评审的心。

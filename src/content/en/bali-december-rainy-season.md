@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/69379606fd89780001607b4b'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 460e7572a3f2702899aa0cf035ed896f
+_srcHash: 30da34127bdb0012bb8de0d97fb29688
 ---
 
 For readers planning to visit Bali at the end of this year or early next year, have you seen our latest announcement on the [Facebook group](https://www.facebook.com/share/p/1DCH98qzUf/) from Indonesia's BMKG (Meteorological, Climatological, and Geophysical Agency)? It's a warning about heavy rainfall from late December to early January, which is the most critical period during the annual rainy season.

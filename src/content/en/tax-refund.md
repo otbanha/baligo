@@ -27,7 +27,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 9283273b4d3859b964f34d2daf6736d2
+_srcHash: 433e87f0b2b153e3213241eb39a4adcf
 ---
 
 The Indonesian government offers a 'Tax Refund for Tourists' program, allowing eligible foreign tourists to reclaim Value Added Tax (VAT, currently around 11-12%) on goods. Below are the latest official regulations (from the Indonesian Tax Office pajak.go.id, applicable in 2026), especially relevant for shopping in Bali.

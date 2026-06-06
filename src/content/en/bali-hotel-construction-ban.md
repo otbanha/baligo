@@ -21,7 +21,7 @@ originalUrl: 'https://vocus.cc/article/66e03af7fd89780001fbc9fc'
 category:
   - 旅行技巧
 lang: en
-_srcHash: e36412de8eaca2664b6e54a65dab3e48
+_srcHash: f966769b66accb9dfd13c23312c144ad
 ---
 
 Bali, renowned worldwide for its unique natural beauty and rich culture, now faces new challenges. With mounting pressure from overdevelopment on both the environment and local culture, the Balinese government is planning to implement new tourism development restrictions in the southern region. This ban primarily targets the construction of hotels, resorts, and other tourism facilities and could extend for up to ten years.

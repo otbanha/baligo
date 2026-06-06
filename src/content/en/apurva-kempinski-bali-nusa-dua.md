@@ -24,7 +24,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_109fa4ab6c04ea54101f82e65cbb5948.jpg'
 originalUrl: 'https://vocus.cc/article/660ff581fd89780001f31315'
 lang: en
-_srcHash: 57906d2c260b35f20974900f6c5b1082
+_srcHash: 808475ae43e772d2f2eb6db431dc35c6
 ---
 
 Bali has always been a popular vacation destination for travelers, and the Apurva Kempinski hotel in Nusa Dua is undoubtedly one of the top choices. This hotel, opened in February 2019 by the German hotel chain Kempinski, combines modern luxury design with traditional Balinese style, offering an unparalleled vacation experience.

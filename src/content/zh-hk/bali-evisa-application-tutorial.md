@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/663da7ddfd89780001d83821'
 category:
   - 簽證通關
 lang: zh-hk
-_srcHash: d315d986eb9ea0aed9b998260adeb065
+_srcHash: 37b0efb237dfaf2b2ac21ca7d26c823c
 ---
 有部分人對於辦理印尼/峇里島旅遊所需嘅簽證可能感到困惑，唔知應該從何開始，甚至無從入手。特別係對於第一次自助旅行嘅人嚟講，辦理電子簽證可能顯得複雜而陌生。
 

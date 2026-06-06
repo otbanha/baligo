@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/687cf195fd897800015d2985'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 04c1bd91d54eb69740e70825a714da22
+_srcHash: 75c8dfc8e69ee17304b86178c70eeae3
 ---
 
 The veterinary unit in Badung Regency, Bali recently reported several bite incidents caused by rabies-infected dogs. Earlier this month, one of our group members was bitten by a stray dog in the Kuta area, spending USD$5,806 on rabies vaccines. The incident was even featured on TV news. Please see [the report here](/blog/bali-rabies-vaccine-cost/).

@@ -13,7 +13,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7a78f011275d20f15cdca6f46448e958.png'
 originalUrl: 'https://vocus.cc/article/69a10819fd897800019c4849'
 lang: en
-_srcHash: 0ee74ad1409fe69290ad250ba87e2238
+_srcHash: 9649e924980e051716eb99788bc03c2b
 ---
 In summary: This new policy is not about conducting a 'census' of all travelers at customs, but rather formalizing and digitizing immigration officers' existing verification powers. The goal is to accurately select quality tourists while cracking down on illegal work.
 

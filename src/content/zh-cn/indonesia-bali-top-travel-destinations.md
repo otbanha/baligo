@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/67eb3c73fd89780001d0ee02'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 66a8f25dd0856f5e7518ab9d4c9a507c
+_srcHash: e4d35e6593daa2066e8c88584e4f8d29
 ---
 
 ## 一生必去的15个国家：印尼巴厘岛为何成为全球第三？

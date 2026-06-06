@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/691519c0fd8978000148c3d5'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: e077cd7efb1dea5c4787980d95a4de81
+_srcHash: c91524a62f2954dfb298588289ea66ee
 ---
 
 是的，你没看错！根据最新研究，巴厘岛正式成为世界上最让新婚夫妇忍不住拍照分享的蜜月地点，在Instagram上的相关标签数量远远超过了梦幻的马尔代夫和浪漫之都巴黎。

@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/695d282afd89780001d7d607'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 978ee9623f503f36ab8976e9ee2c6f8c
+_srcHash: 98d208d414f7cf798cbd21cd612a88f1
 ---
 一直以嚟，峇里島都致力吸引「高質素旅遊客群」。最近，峇里島省長瓦揚・科斯特（Wayan Koster）公開講明，未來會透過更嚴謹嘅審核機制，確保進入峇里島嘅外國旅客有足夠嘅經濟能力，同時亦會尊重當地文化同法規。
 

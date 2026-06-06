@@ -6,8 +6,8 @@ import Footer from '../components/Footer.astro';
 import { getCollection } from 'astro:content';
 import '../styles/tickets.css';
 
-const title = '峇里島景點門票費用2026｜42個熱門景點即時票價 - Gobaligo';
-const description = '峇里島42個熱門景點門票即時票價，含烏魯瓦圖、Waterbom、Nusa Penida。比較Klook、Agoda、Trip.com優惠價格，出發前一站確認最新費用。';
+const title = '峇里島景點門票費用2026｜43個熱門景點即時票價 - Gobaligo';
+const description = '峇里島43個熱門景點門票即時票價，含烏魯瓦圖、Waterbom、Nusa Penida。比較Klook、Agoda、Trip.com優惠價格，出發前一站確認最新費用。';
 const lang = 'zh-tw';
 
 const rawTickets = await getCollection('tickets');
@@ -23,11 +23,27 @@ const ticketsData = rawTickets
     warn: t.data.warn ?? null,
   }));
 
+// Preload first 25 items for SEO
+const preloadedTickets = ticketsData.slice(0, 25);
+
+// Build TouristAttraction Schema for each attraction
+const attractionSchemas = ticketsData.slice(0, 15).map((item, idx) => ({
+  "@type": "TouristAttraction",
+  "@id": `https://gobaligo.id/tickets/#attraction-${idx}`,
+  "name": item.name,
+  "url": `https://gobaligo.id/tickets/`,
+  "priceCurrency": "IDR",
+  "price": item.idr.toString(),
+  "priceRange": `IDR ${item.idr.toLocaleString('en-US')}`,
+  "inLanguage": "zh-TW"
+}));
+
 const schema = {
   "@context": "https://schema.org",
   "@graph": [
     {
       "@type": "BreadcrumbList",
+      "@id": "https://gobaligo.id/tickets/#breadcrumb",
       "itemListElement": [
         { "@type": "ListItem", "position": 1, "name": "首頁", "item": "https://gobaligo.id/" },
         { "@type": "ListItem", "position": 2, "name": "景點門票", "item": "https://gobaligo.id/tickets/" }
@@ -41,10 +57,15 @@ const schema = {
       "url": "https://gobaligo.id/tickets/",
       "inLanguage": "zh-TW",
       "numberOfItems": ticketsData.length,
-      "publisher": { "@type": "Organization", "name": "Go Bali Go", "url": "https://gobaligo.id" }
-    }
+      "publisher": { "@type": "Organization", "name": "Go Bali Go", "url": "https://gobaligo.id" },
+      "mainEntity": attractionSchemas
+    },
+    ...attractionSchemas
   ]
 };
+
+// Pre-render the cards as HTML (removed for now)
+// const preloadedHTML = preloadedTickets.map(t => generateCardHTML(t)).join('');
 ---
 
 <!doctype html>
@@ -154,8 +175,9 @@ const schema = {
 </html>
 
 
-<script define:vars={{ ticketsData }}>
+<script define:vars={{ ticketsData, preloadedTickets }}>
 const DATA = ticketsData;
+const PRELOADED_COUNT = preloadedTickets.length;
 
 const CAT_LABEL = {
   temple:   '寺廟',
@@ -188,10 +210,10 @@ const CAT_PILL = {
   nature:   'background:#dcfce7;color:#15803d;',
   island:   'background:#cffafe;color:#0e7490;',
   park:     'background:#ffedd5;color:#c2410c;',
-  activity: 'background:#dbeafe;color:#1d4ed8;',
+  activity: 'background:#dbeafe;color:#E63946;',
   adventure:'background:#fee2e2;color:#b91c1c;',
   course:      'background:#ccfbf1;color:#0f766e;',
-  watersports: 'background:#e0f2fe;color:#0369a1;',
+  watersports: 'background:#FDE8D8;color:#C0392B;',
   leisure:     'background:#ede9fe;color:#6d28d9;',
 };
 
@@ -200,7 +222,7 @@ function formatIDR(n) {
 }
 
 function buildCard(item) {
-  const accent = CAT_ACCENT[item.cat] || '#1A365D';
+  const accent = CAT_ACCENT[item.cat] || '#5D4037';
   const pill   = CAT_PILL[item.cat]   || '';
   const label  = CAT_LABEL[item.cat]  || item.cat;
 
@@ -253,8 +275,9 @@ function buildCard(item) {
 let activeCat = 'all';
 let sortMode  = 'default';
 let searchQ   = '';
+let isInitialized = false;
 
-function render() {
+function render(usePreloaded = false) {
   let items = [...DATA];
 
   if (activeCat !== 'all') items = items.filter(i => i.cat === activeCat);
@@ -262,13 +285,20 @@ function render() {
     const q = searchQ.toLowerCase();
     items = items.filter(i => i.name.toLowerCase().includes(q) || i.note.toLowerCase().includes(q));
   }
-  if (sortMode === 'asc')  items.sort((a, b) => a.idr - b.idr);
-  else if (sortMode === 'desc') items.sort((a, b) => b.idr - a.idr);
-  else { // default: shuffle
-    for (let i = items.length - 1; i > 0; i--) {
-      const j = Math.floor(Math.random() * (i + 1));
-      [items[i], items[j]] = [items[j], items[i]];
+
+  // Only shuffle if not the initial load (for SEO, show first 25 in order)
+  if (!usePreloaded) {
+    if (sortMode === 'asc')  items.sort((a, b) => a.idr - b.idr);
+    else if (sortMode === 'desc') items.sort((a, b) => b.idr - a.idr);
+    else { // default: shuffle
+      for (let i = items.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [items[i], items[j]] = [items[j], items[i]];
+      }
     }
+  } else {
+    // For initial load, just show first 25 items (for SEO crawler)
+    items = items.slice(0, 25);
   }
 
   document.getElementById('result-count').textContent =
@@ -302,5 +332,7 @@ document.getElementById('search-input').addEventListener('input', e => {
   render();
 });
 
-render();
+// Initialize with pre-loaded content (first 25 items only for SEO)
+render(true);
+isInitialized = true;
 </script>

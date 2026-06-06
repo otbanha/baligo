@@ -24,7 +24,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: cdf5afba5629ec335141877a5dbd374e
+_srcHash: e5d24530e2cc763ebc024f9b53c1d8ad
 ---
 
 这次在巴厘岛金巴兰，真的挖到一间会让人想「默默私藏」的宝藏SPA✨

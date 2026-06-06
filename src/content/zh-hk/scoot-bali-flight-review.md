@@ -26,7 +26,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: zh-hk
-_srcHash: 708bf64a1b4190559ef523f0e5e3076f
+_srcHash: b09f2097c8a001eeb313bbb3e5a8f281
 ---
 
 由桃園出發、經新加坡轉機去峇里島嘅酷航（Scoot）航班清單，近期喺社群上引起唔少討論。對於追求高 CP 值、或者想順便喺樟宜機場「半日遊」嘅旅人嚟講，呢類廉航轉機票確實有佢嘅吸引力。

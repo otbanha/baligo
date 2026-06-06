@@ -3,7 +3,7 @@ title: villa
 type: random-list
 randomCount: 8
 lang: zh-cn
-_srcHash: d13bb473d67545895fb6b301d47cd16a
+_srcHash: 5c239937767d24ac5a60f30c300a16db
 ---
 
 #### 其他地区/villa的住宿推荐

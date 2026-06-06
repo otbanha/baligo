@@ -15,7 +15,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: c06c9ffbace8c1bc290f27a63219c26e
+_srcHash: 93fee4c1a6d4306f793454cd0a7b9b7c
 ---
 
 【Today's USD Exchange Rate: 16700】Today's (4/16) **Bali** news and practical information for tourists:

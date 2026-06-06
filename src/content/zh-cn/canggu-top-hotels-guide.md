@@ -22,7 +22,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777896573960-canggu_stay.png'
 originalUrl: 'https://vocus.cc/article/651b8da8fd89780001974847'
 lang: zh-cn
-_srcHash: 61079f89ff899b6e0051e4092af3a8d8
+_srcHash: 584b9baefb6de47f3b6815d01fbb9e20
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)

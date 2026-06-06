@@ -26,7 +26,7 @@ agoda_star_rating: 5
 latitude: -8.678791999816895
 longitude: 115.14952087402344
 lang: zh-hk
-_srcHash: 39c45de7930fd488c677fbdf2f96eb78
+_srcHash: 1be6e565277941422e10873b52e9c4de
 ---
 
 喺峇里島旅行期間，我入住咗位於水明漾嘅Potato Head Suites & Studios。一踏入酒店，就被迎面而來嘅大堂吸引，開放而寬敞嘅空間設計，配搭簡約嘅自然裝飾，令人瞬間放鬆心情。呢度仲設有一個免費嘅「Jamu Station」，提供傳統印尼草藥飲品 jamu，令人一到達就感受到當地文化嘅獨特氛圍。

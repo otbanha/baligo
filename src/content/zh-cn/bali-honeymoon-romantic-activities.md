@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/64e35774fd89780001ace043'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: b18b52a1b79c9e10fcf70e50ac36844f
+_srcHash: 0619f467cb1a237b0f84340e0504dfe6
 ---
 
 如果你和你的另一半正梦想着一个异国情调的神奇蜜月或感情升温的圣地，那么选择巴厘岛您将不会失望！

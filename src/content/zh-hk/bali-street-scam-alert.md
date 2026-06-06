@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_4b8a938dd80f7d576d1292655493c255.png'
 originalUrl: 'https://vocus.cc/article/67278942fd89780001b5fe3d'
 lang: zh-hk
-_srcHash: 61d2fa006ae7529dc6c6fdd18bbcaff1
+_srcHash: 8bef3c5a4e5c75075115b83e9b98cc95
 ---
 
 喺美麗嘅峇里島享受海灘嘅日落時光，邊個會諗到呢個美好時刻可能成為騙子嘅舞台呢？今日想分享一段個人經歷，希望提醒大家喺峇里島旅行時都要保持警惕，以免落入詐騙圈套。

@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/691519c0fd8978000148c3d5'
 category:
   - 旅行技巧
 lang: en
-_srcHash: e077cd7efb1dea5c4787980d95a4de81
+_srcHash: c91524a62f2954dfb298588289ea66ee
 ---
 Yes, you read that right! According to the latest research, Bali has officially become the world's most photogenic honeymoon spot for newlyweds, with hashtag numbers on Instagram far surpassing those of the dreamy Maldives and romantic Paris.
 

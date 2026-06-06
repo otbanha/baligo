@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/69379606fd89780001607b4b'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 460e7572a3f2702899aa0cf035ed896f
+_srcHash: 30da34127bdb0012bb8de0d97fb29688
 ---
 
 在计划年底或隔年年初前往巴厘岛的读者，最近有看到我们公布在[脸书社团](https://www.facebook.com/share/p/1DCH98qzUf/)的印尼 BMKG（印尼气象气候暨地球物理局）最新公告吗？这是一则关于「十二月底到隔年一月初」的强降雨提醒，也是每年雨季中最值得留意的一段时间。

@@ -30,7 +30,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/images/2026-05/1777694520071-vegan.png'
 originalUrl: 'https://vocus.cc/article/66dc687afd8978000151d046'
 lang: en
-_srcHash: 95198a1499f32879d30bee746923c317
+_srcHash: 044b6e5d77bb84ceff88cb9259a54d76
 ---
 
 As a world-renowned tourist destination, Bali attracts not only adventure seekers and cultural explorers but also serves as a surprising culinary paradise for vegetarians. Whether in the laid-back Canggu, the trendy Seminyak, the culturally rich Ubud, or the upscale Nusa Dua, you can find numerous vegetarian-friendly restaurants. These establishments are celebrated for their innovative dishes and nutritious meals, and they are advocates for environmental sustainability and healthy eating. Many of these restaurants have been honored with Tripadvisor's Travelers' Choice awards.

@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b6312892d57d19408e55b4209cea639d.png'
 originalUrl: 'https://vocus.cc/article/694bf0d9fd89780001214e1c'
 lang: zh-hk
-_srcHash: 5bc42f5d0b6871b3515e6cf23e7e1338
+_srcHash: a8fcf57b28bcf092b8f65bca6b56ace2
 ---
 
 ## 峇里島家族旅遊：兒童簽證完整攻略

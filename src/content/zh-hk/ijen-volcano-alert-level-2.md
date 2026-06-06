@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/66a8f541fd897800013efd61'
 category:
   - 美食景點活動
 lang: zh-hk
-_srcHash: db0e7775c472fd7c8403cd410418d20c
+_srcHash: 762fe3b24e6617778114164c0bd15fd0
 ---
 
 伊真火山（Gunung Ijen）以其壯麗嘅火山湖聞名，吸引咗無數遊客。然而，根據印尼2024年七月中嘅報導，近日該火山嘅活動狀態提升至二級警戒，原因亦隨之揭曉。根據能源與礦產資源部地質災害減災中心（PVMBG）嘅評估，伊真火山近期嘅活動顯著增加，因此提升咗警戒級別。

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/678382f5fd897800013125a6'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 64b442075d7543b9d33af1e0ea988a99
+_srcHash: 200f517e1a3643e313db8f5ce785b615
 ---
 
 **The Most Dreamlike Travel Destination for 2025: Bali Tops the List Again**

@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: fb94064d6edad9edc9dfe4d65a3a9d17
+_srcHash: 248e94936356c22e9ca49778d1e3f4ae
 ---
 
 第一次去峇里島，好多人只諗住海灘、夕陽、好味嘅沙嗲——但完全冇諗過，有啲睇落無害嘅小舉動，喺呢座島上可能係大忌。

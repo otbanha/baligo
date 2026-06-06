@@ -185,10 +185,10 @@ const CAT_PILL = {
   nature:      'background:#dcfce7;color:#15803d;',
   island:      'background:#cffafe;color:#0e7490;',
   park:        'background:#ffedd5;color:#c2410c;',
-  activity:    'background:#dbeafe;color:#1d4ed8;',
+  activity:    'background:#dbeafe;color:#E63946;',
   adventure:   'background:#fee2e2;color:#b91c1c;',
   course:      'background:#ccfbf1;color:#0f766e;',
-  watersports: 'background:#e0f2fe;color:#0369a1;',
+  watersports: 'background:#FDE8D8;color:#C0392B;',
   leisure:     'background:#ede9fe;color:#6d28d9;',
 };
 
@@ -197,7 +197,7 @@ function formatIDR(n) {
 }
 
 function buildCard(item) {
-  const accent = CAT_ACCENT[item.cat] || '#1A365D';
+  const accent = CAT_ACCENT[item.cat] || '#5D4037';
   const pill   = CAT_PILL[item.cat]   || '';
   const label  = CAT_LABEL[item.cat]  || item.cat;
 

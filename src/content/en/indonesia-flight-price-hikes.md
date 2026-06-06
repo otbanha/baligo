@@ -32,7 +32,7 @@ originalUrl: ''
 private: false
 embeds: []
 lang: en
-_srcHash: be61ede599e69633b1e34f9efd592877
+_srcHash: c832fa1525f93cc3e670ce578ae54c81
 ---
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775702831699-1000117790.jpg)

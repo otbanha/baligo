@@ -3,7 +3,7 @@ title: ubudvilla
 type: normal
 randomCount: 5
 lang: en
-_srcHash: f66eef1f236493e3ff46a7073e12242e
+_srcHash: 75fe5121c0d6115d41afa8dcc7f1eb6b
 ---
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774426590652-ubudvilla.jpg)

@@ -31,7 +31,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_91532107705be575f99c7a8160f0d02c.jpg'
 originalUrl: 'https://vocus.cc/article/679ccd73fd897800016e1e52'
 lang: zh-hk
-_srcHash: 41ca65d327cf987cfe8f5365e176e7c1
+_srcHash: e7a00e07ab9968ff375998f930327695
 ---
 
 > 原開箱文由常常喺我哋Facebook群組貢獻寫文嘅版主 [蕭雅心](https://www.facebook.com/share/p/1A5kJ9Micj/) 提供

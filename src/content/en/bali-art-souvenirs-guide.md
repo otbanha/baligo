@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/6880c98dfd89780001510ee2'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 82fb9cd9b1f44120db9250b0828e81f6
+_srcHash: 1ebc420a426fd7a710d35602729a53af
 ---
 
 ## **Bali Cultural Souvenirs: Keeping Travel Memories Alive**

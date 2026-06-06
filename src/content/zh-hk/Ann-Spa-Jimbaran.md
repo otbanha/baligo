@@ -24,7 +24,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: cdf5afba5629ec335141877a5dbd374e
+_srcHash: e5d24530e2cc763ebc024f9b53c1d8ad
 ---
 
 今次喺峇里島金巴蘭，真係搵到一間會令人想「靜雞雞收藏」嘅寶藏SPA✨

@@ -19,54 +19,145 @@ on:
         default: 'false'
 
 jobs:
+  # ── 第一步：時間檢查 + 計算待翻譯數量 ───────────────────────────────────────
+  check:
+    runs-on: ubuntu-latest
+    outputs:
+      skip:             ${{ steps.gate.outputs.skip }}
+      translate_count:  ${{ steps.count.outputs.translate_count }}
+      needs_approval:   ${{ steps.count.outputs.needs_approval }}
+
+    steps:
+      - name: 時間與 commit 訊息檢查
+        id: gate
+        run: |
+          if [ "${{ github.event_name }}" = "push" ]; then
+            COMMIT_MSG="${{ github.event.head_commit.message }}"
+            if echo "$COMMIT_MSG" | grep -qE '\[(skip ci|skip translate)\]'; then
+              echo "⏭️ Commit 含 [skip ci] 或 [skip translate]，跳過翻譯"
+              echo "skip=true" >> $GITHUB_OUTPUT
+              exit 0
+            fi
+            HOUR=$(date -u +%H)
+            echo "目前 UTC 時間：$(date -u)"
+            if [ "$HOUR" -lt 19 ] || [ "$HOUR" -ge 23 ]; then
+              echo "⏭️ 跳過（UTC $HOUR 時，僅 19-23 時執行）"
+              echo "skip=true" >> $GITHUB_OUTPUT
+              exit 0
+            fi
+          fi
+          echo "skip=false" >> $GITHUB_OUTPUT
+
+      - name: Checkout
+        if: steps.gate.outputs.skip != 'true'
+        uses: actions/checkout@v4
+
+      - name: 計算待翻譯文章數
+        if: steps.gate.outputs.skip != 'true' && github.event.inputs.only_blocks != 'true'
+        id: count
+        run: |
+          COUNT=$(python3 <<'PYEOF'
+          import re, hashlib
+          from pathlib import Path
+
+          def content_hash(text):
+              fm_match = re.match(r'^---\r?\n([\s\S]*?)\r?\n---\r?\n([\s\S]*)$', text)
+              if not fm_match:
+                  return hashlib.md5(text.encode()).hexdigest()
+              fm_text, body = fm_match.group(1), fm_match.group(2)
+              t = re.search(r'^title:\s*(.+)$', fm_text, re.MULTILINE)
+              d = re.search(r'^description:\s*(.+)$', fm_text, re.MULTILINE)
+              title = t.group(1) if t else ''
+              desc  = d.group(1) if d else ''
+              clean_body = re.sub(r'^!\[.*?\]\(.*?\)\s*$', '', body, flags=re.MULTILINE)
+              normalized = f'title:{title}\ndesc:{desc}\n---\n{clean_body}'
+              return hashlib.md5(normalized.encode()).hexdigest()
+
+          def dest_name(content, filename):
+              m = re.search(r'^slug:\s*(.+)$', content, re.MULTILINE)
+              if m:
+                  ext = '.mdx' if filename.endswith('.mdx') else '.md'
+                  return m.group(1).strip().strip("'\"") + ext
+              return filename
+
+          def stored_hash(path):
+              try:
+                  m = re.search(r'^_srcHash:\s*(\S+)', path.read_text(encoding='utf-8'), re.MULTILINE)
+                  return m.group(1) if m else None
+              except:
+                  return None
+
+          def is_private(text):
+              m = re.search(r'^private:\s*(.+)$', text, re.MULTILINE)
+              return m and m.group(1).strip().lower() == 'true'
+
+          src_dir = Path('src/content/blog')
+          count = 0
+          files = sorted(src_dir.glob('*.md')) + sorted(src_dir.glob('*.mdx'))
+          for src in files:
+              txt = src.read_text(encoding='utf-8')
+              if is_private(txt):
+                  continue
+              h = content_hash(txt)
+              dn = dest_name(txt, src.name)
+              for lang in ['zh-cn', 'zh-hk', 'en']:
+                  dest = Path(f'src/content/{lang}/{dn}')
+                  if not dest.exists() or stored_hash(dest) != h:
+                      count += 1
+                      break
+          print(count)
+          PYEOF
+          )
+          echo "translate_count=$COUNT" >> $GITHUB_OUTPUT
+          echo "📊 待翻譯：$COUNT 篇文章"
+          if [ "$COUNT" -gt 15 ]; then
+            echo "needs_approval=true" >> $GITHUB_OUTPUT
+            echo "⚠️ 超過 15 篇，將請求核准"
+          else
+            echo "needs_approval=false" >> $GITHUB_OUTPUT
+            echo "✅ 15 篇以內，直接翻譯"
+          fi
+
+  # ── 第二步：超過 15 篇時等待核准（GitHub Environment 保護規則）─────────────
+  approve:
+    needs: check
+    if: needs.check.outputs.skip != 'true' && needs.check.outputs.needs_approval == 'true'
+    runs-on: ubuntu-latest
+    environment: translate-approval   # ← 在 GitHub repo Settings 設定 Required reviewers
+    steps:
+      - name: 已核准
+        run: echo "✅ 核准翻譯 ${{ needs.check.outputs.translate_count }} 篇文章，繼續執行"
+
+  # ── 第三步：實際翻譯 ────────────────────────────────────────────────────────
   translate:
+    needs: [check, approve]
+    if: |
+      always() &&
+      needs.check.result == 'success' &&
+      needs.check.outputs.skip != 'true' &&
+      (needs.approve.result == 'success' || needs.approve.result == 'skipped')
     runs-on: ubuntu-latest
     timeout-minutes: 360
     permissions:
       contents: write
 
     steps:
-      - name: 確認是否跳過（push 觸發限 UTC 19:00-23:00；schedule/手動不限）
-        run: |
-          if [ "${{ github.event_name }}" = "push" ]; then
-            COMMIT_MSG="${{ github.event.head_commit.message }}"
-            if echo "$COMMIT_MSG" | grep -qE '\[(skip ci|skip translate)\]'; then
-              echo "⏭️ Commit 含 [skip ci] 或 [skip translate]，跳過翻譯"
-              echo "SKIP=true" >> $GITHUB_ENV
-              exit 0
-            fi
-            HOUR=$(date -u +%H)
-            echo "目前 UTC 時間：$(date -u)"
-            if [ "$HOUR" -lt 19 ] || [ "$HOUR" -ge 23 ]; then
-              echo "⏭️ 目前在白天，跳過翻譯（UTC $HOUR 時，僅 19-23 時執行）"
-              echo "SKIP=true" >> $GITHUB_ENV
-            else
-              echo "SKIP=false" >> $GITHUB_ENV
-            fi
-          else
-            echo "SKIP=false" >> $GITHUB_ENV
-          fi
-
       - name: Checkout
-        if: env.SKIP != 'true'
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
           token: ${{ secrets.GITHUB_TOKEN }}
 
       - name: 設定 Node.js
-        if: env.SKIP != 'true'
         uses: actions/setup-node@v4
         with:
           node-version: '22'
           cache: 'npm'
 
       - name: 安裝 Node 依賴
-        if: env.SKIP != 'true'
         run: npm ci
 
       - name: 還原翻譯快取
-        if: env.SKIP != 'true'
         uses: actions/cache@v4
         with:
           path: .translation-cache.json
@@ -74,11 +165,9 @@ jobs:
           save-always: true
 
       - name: 同步圖片路徑（不需 API key）
-        if: env.SKIP != 'true'
         run: python3 sync_translations.py --auto
 
       - name: 執行翻譯
-        if: env.SKIP != 'true'
         env:
           DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           TRANSLATE_BATCH_SIZE: '10'
@@ -87,12 +176,11 @@ jobs:
             echo "📦 只翻譯內容區塊"
             node scripts/translate.mjs --blocks
           else
-            echo "📝 翻譯文章"
+            echo "📝 翻譯文章（${{ needs.check.outputs.translate_count }} 篇）"
             node scripts/translate.mjs
           fi
 
       - name: Commit 翻譯結果
-        if: env.SKIP != 'true'
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
@@ -102,5 +190,6 @@ jobs:
           else
             COUNT=$(git diff --cached --name-only | wc -l)
             git commit -m "chore: 自動翻譯 ${COUNT} 篇文章"
+            git pull --rebase origin main
             git push
           fi

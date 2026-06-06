@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/67d0f17dfd89780001adcccd'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: e40f122af573460d953a7c9462e08e7a
+_srcHash: b14c051a065b2f64d8d6c44f19401fbc
 ---
 
 ### 峇里島政府確認即將到嚟嘅寧靜日遊客必須遵守嘅規則

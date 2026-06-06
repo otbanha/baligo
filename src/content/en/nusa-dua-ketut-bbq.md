@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/64db6b56fd897800013a8e04'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 07904be5d7a5b30fdac25e719b6cc77e
+_srcHash: 67c5b69a4535e8c0b128e06fc9703ab7
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_1dc67621e6338385b170b597a9c2822a.jpg)

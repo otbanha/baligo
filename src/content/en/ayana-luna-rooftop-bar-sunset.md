@@ -16,7 +16,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_85d4f10a50d1c5ba74a646b83e5ff706.jpg'
 originalUrl: 'https://vocus.cc/article/6721d7bbfd89780001ee1132'
 lang: en
-_srcHash: 5ba2d83978e2ef64ca608de19bfb0a71
+_srcHash: 57d80483457511923aa646e2dda8be38
 ---
 
 Perched atop AYANA Segara in Bali, Luna Rooftop Bar is a hidden gem for relaxation, offering stunning sunset views and a dynamic atmosphere. From this elevated vantage point, the interplay of the sunset's glow and the vast ocean creates a perfect backdrop for photography enthusiasts. At Luna, it's not just about the food and drinks, but also about creating unforgettable memories.

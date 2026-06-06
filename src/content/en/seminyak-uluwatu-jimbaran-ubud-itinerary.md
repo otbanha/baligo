@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/669488eafd89780001cc7d82'
 category:
   - 遊記分享
 lang: en
-_srcHash: c9cc07c996dfdfeefb7770300f2fb087
+_srcHash: 5c974140926a25725fe4e150406a2781
 ---
 
 > The following content was provided by group member [Lian Yuzhun](https://www.facebook.com/groups/baligo/permalink/1574999756380597/) and rearranged by us:

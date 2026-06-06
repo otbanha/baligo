@@ -24,7 +24,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_0178fb27de100f76a030d000bd99cedc.jpg'
 originalUrl: 'https://vocus.cc/article/690ae7cafd89780001e08158'
 lang: en
-_srcHash: ffd3703e649e11541d73ec64ed2fa8e7
+_srcHash: 4d3e60eb1f1ef77ccdcafec5ca525698
 ---
 
 Belajar Bali Boutique Hotel & Retreat is a highly-rated boutique accommodation in the Canggu area. If you're planning a trip to Bali and looking for a small hotel with strong design aesthetics, excellent service, and a unique style, this might be worth adding to your list. Below, we'll discuss the highlights, areas for improvement, and our recommendations.

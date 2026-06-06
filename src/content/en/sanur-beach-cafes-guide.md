@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/684e466efd8978000159a13b'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 5f430ef0921d9182b795efa04c3d0a79
+_srcHash: c366b6bfc4dd9c40c1bd6f44ae104d93
 ---
 Here are six of the most popular beachfront cafes in Sanur that you shouldn't miss if you're planning a trip to Bali!
 

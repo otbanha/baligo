@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/6705509efd89780001eaeb59'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 3035f581f6901c26d8ec226be2ae7b15
+_srcHash: f5dbb49b6ba162ed7788f0638802ab5e
 ---
 
 ## Bali's Cultural Festivals May Affect Travel Plans on October 18th

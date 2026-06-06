@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/6698eaf2fd89780001c6d5d9'
 category:
   - 美食景點活動
 lang: en
-_srcHash: b10e03167b15309f9bde00d4256174ef
+_srcHash: f0535b9fd7b48d658caaf59737e64854
 ---
 
 ## **Introduction to the Bali Kite Festival**

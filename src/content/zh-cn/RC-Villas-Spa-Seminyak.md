@@ -30,7 +30,7 @@ agoda_star_rating: 4
 latitude: -8.68529540873669
 longitude: 115.156788885594
 lang: zh-cn
-_srcHash: 2a7021a98bc848d01bef251c3b7a6144
+_srcHash: 6b58dce94ebf40a49866b4529ceda2db
 ---
 
 如果你在水明漾（Seminyak）选住宿，地点是最关键的一件事。RC Villas & Spa 就坐落在 Jalan Kayu Aya No. 88——也就是当地人口中的「Eat Street（美食街）」上。这个地址说出去，熟悉水明漾的人都知道那是什么概念。整栋别墅只有 8 间独立 villa，每间都有私人泳池与花园，而且就站在大门口就能直接走进水明漾最精华的餐厅、酒吧、海滩俱乐部区域。位置好到几乎不需要解释，资料就说明一切了。

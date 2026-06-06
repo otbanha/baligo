@@ -32,7 +32,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_50d4d6e19ceff21972a2e9988595aa00.jpg'
 originalUrl: 'https://vocus.cc/article/6791ea5dfd89780001a7a07c'
 lang: en
-_srcHash: 639eb27f8a84932ca8c61ebd1cb216bb
+_srcHash: 15f4c3132db98377006306120cc38f5a
 ---
 
 ### Marine Safari Bali: Opening in December 2024, Bali's New Marine Adventure Paradise!

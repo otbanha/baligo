@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/65d0e089fd89780001320e4c'
 category:
   - 遊記分享
 lang: zh-hk
-_srcHash: c40869212bb13d7f0470d40e81f16376
+_srcHash: 8b03403aefefd8d02460759532c467de
 ---
 
 唔耐之前先出爐嘅「十大全球浪漫旅遊目的地」，根據Agoda旅行平台嘅大數據，其中峇里島名列全球第六名（[請睇呢度](/blog/valentines-day-romantic-destinations/)）；而另一份Tripadvisor 2024年度統計資料，峇里島更被列為度蜜月目的地嘅頂尖寶座，[擊敗馬爾地夫奪得全世界冠軍！](/blog/bali-honeymoon-destination/)

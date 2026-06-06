@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/6839ae23fd897800010b9b32'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 106a83c0cfb1ec30b73077988356867c
+_srcHash: 473ea6ff2827f7e941ef6642a5bf7c99
 ---
 ## **Bali 榮登全球最迷人島嶼寶座：英國旅遊專家 Travelbag 最新評比出爐**
 

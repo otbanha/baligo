@@ -32,7 +32,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: 60e33f99df20a227277e29417fc510b2
+_srcHash: 5802c379b11df1e03bbc5e36aa729597
 ---
 
 The Bali five-star hotel market welcomes a long-awaited new star in 2026. Paradisus by Meliá Bali officially reopens in February 2026, marking the first 'Destination Inclusive' all-inclusive resort in Asia under the flagship brand Paradisus of Spain's Meliá Hotels International group. Formerly the renowned Meliá Bali Resort, it has undergone extensive renovations and upgrades, now located in the Nusa Dua luxury resort area, positioning itself as Bali's top new choice for family vacations and honeymoons.

@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 7a166cd08a4495c58a6b273f333cf6c1
+_srcHash: 1cacde9c52f32e42bb58eed28746cd7c
 ---
 你是否也曾在巴厘岛旅行时，兴冲冲地写了好几张明信片，投入邮筒或请酒店代寄，结果回国后等了好久好久，却始终不见明信片的踪影？
 

@@ -20,7 +20,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d8ab044a198844bec62c51e0a0d26d91.jpg'
 originalUrl: 'https://vocus.cc/article/65c8e2dffd89780001346aa9'
 lang: zh-cn
-_srcHash: 5bc6296b205b1f03b8c5d1bbcbb40340
+_srcHash: 922bc2b3c7b667adca030a1f7f9707c3
 ---
 
 针对佩尼达岛我们共有五集介绍，一起来更深入认识这个海岛天堂！其他四集这里有传送门：

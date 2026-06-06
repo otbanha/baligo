@@ -34,7 +34,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: en
-_srcHash: e34438e38b5f6fcfbaf9874ca06ef903
+_srcHash: b04f5e429e7264ee98057849f3e0d63b
 ---
 
 Bali's most famous tourist area, Kuta, is about to undergo a dramatic transformation! To improve the walking experience for visitors and solve the long-standing traffic congestion issues, the Badung authorities have announced a major infrastructure upgrade plan.

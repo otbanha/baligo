@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_2a41d804df97245672019ea01f2b611f.jpg'
 originalUrl: 'https://vocus.cc/article/671a506ffd8978000182fb4f'
 lang: zh-cn
-_srcHash: 6cb6c130bae9b1691f186e63514d38a7
+_srcHash: 22cc18e3d93f89eb14d6b3ccabc5e9e3
 ---
 
 蓝梦岛和金银岛是巴厘岛附近的两个隐世小岛，拥有迷人的海景和放松的氛围，不仅是热门的潜水胜地，这里的餐厅与酒吧也为游客提供了丰富的用餐选择。以下是几个值得推荐的餐饮与酒吧地点，还有适合彻底放松的海滩俱乐部，特别适合前来解放压力、享受美食与美景的你。

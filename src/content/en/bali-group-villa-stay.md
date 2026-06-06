@@ -40,7 +40,7 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_72df3918142bccfea8b19414e6ee33a4.jpg'
 originalUrl: 'https://vocus.cc/article/662e156bfd8978000130c73c'
 lang: en
-_srcHash: 48fe78a4236be28cd72c195f65df9d96
+_srcHash: 52c1e4a16219e77db1302be031496a07
 ---
 
 Bali is a renowned holiday destination, famous for its beautiful beaches, hospitable people, and rich culture. In recent years, Bali has also become a popular destination for family vacations, with more and more families choosing to holiday in Bali.

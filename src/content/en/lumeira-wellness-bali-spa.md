@@ -23,7 +23,7 @@ originalUrl: 'https://vocus.cc/article/67a0a335fd897800012bceee'
 category:
   - 美食景點活動
 lang: en
-_srcHash: c1318d636f11ca17ac2d76c6fe54e08c
+_srcHash: 2f6e562b8ce3af2bed594de14544c148
 ---
 Lumeira Wellness Bali is a comprehensive wellness space that combines social and health concepts, located within Bali's Nuanu Creative City. Not only does it offer diverse healing services, but it also strives to create an environment where people can deeply connect with nature and others. Lumeira's design philosophy is to help people restore physical and mental balance through carefully curated facilities and treatments, achieving profound relaxation amidst Bali's natural beauty.
 

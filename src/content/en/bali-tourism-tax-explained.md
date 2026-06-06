@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/66553006fd8978000120f15e'
 category:
   - 簽證通關
 lang: en
-_srcHash: 7941692662dd0b32c654c2a4d33a57e9
+_srcHash: 45801afecaf2a3dc727539a2ede2a0db
 ---
 
 When travelers arrive in Bali, they might be surprised: I heard there's a tourism tax of IDR 150,000 (approximately USD$10) to pay, but it seems like you don't actually have to?? Because there's no check to see if it's been paid online in advance, nor is there a mandatory payment counter at the airport. However, we must understand that this tourism tax system is more like a concept that hopes travelers will understand and support, rather than a compulsory payment requirement.

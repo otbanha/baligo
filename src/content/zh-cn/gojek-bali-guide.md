@@ -4,6 +4,7 @@ title: 在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略
 description: >-
   如果您正在计划前往巴厘岛，或者是身处印尼，那么Gojek绝对是您旅行中不可或缺的APP。让我们一起来探索这款引领潮流的便利工具，以及它对您的旅程所带来的改变。 
 pubDate: '2023-08-20'
+updatedDate: 2026-05-26T00:00:00.000Z
 heroImage: 'https://images.gobaligo.id/vocus/vocus_015877549b862e625956b9ace10cf456.jpg'
 tags:
   - gojek
@@ -15,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/64e187dffd897800017304fe'
 category:
   - 叫車包車
 lang: zh-cn
-_srcHash: a6e2ad789329f604e54d09c8e05419e9
+_srcHash: 90e0e9d0c295236569a62c9418364712
 ---
 
 [🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
@@ -36,7 +37,7 @@ Gojek不仅仅是一款APP，更是一种简单便利的生活方式。它整合
 
 不仅仅是交通，Gojek还提供了安全便捷的支付方式，你可以把钱存在Gojek当中的电子钱包「GoPay」里，这样我们出门就不同随身携带好几百万现金。您可以轻松使用GoPay支付您的交通费用、外卖订单，甚至是购物付款。这种无现金支付方式不仅方便，还能让您更好地掌握您的开支。
 
-延伸阅读：[印尼/巴厘岛的Gojek与GoPay注册、使用、充值教学全面指南](/blog/indonesia-gojek-gopay-guide/)
+延伸阅读：[印尼/巴厘岛的Gojek与GoPay注册、使用、储值教学全面指南](/blog/indonesia-gojek-gopay-guide/)
 
 ### **与Grab比较**
 

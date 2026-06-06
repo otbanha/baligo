@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/685101c0fd89780001e221f4'
 category:
   - 叫車包車
 lang: zh-cn
-_srcHash: d9afdea327550a6845c37ff129878c5a
+_srcHash: 73c3828fde160ef020fb2d55d5676f5c
 ---
 
 想去佩尼达岛自由行却担心交通安排？其实，大多数游客会选择由**巴厘岛本岛的包车司机**协助规划行程。本篇帮你了解佩尼达岛包车的方式、推荐做法与注意事项。

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/67f65841fd897800017d3ea2'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 565270a1d96d8b21a27e93aaf8f26821
+_srcHash: 436e18b361153a8ee720118766439d05
 ---
 
 唔少朋友喺規劃峇里島行程時，一見到天氣預報寫「⚡雷陣雨 ☔ 降雨機率 60%」，就即刻驚呼：「弊啦，我係咪揀錯時間去峇里島？成個假期都泡湯咗？」

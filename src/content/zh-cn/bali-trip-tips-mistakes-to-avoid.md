@@ -1,25 +1,24 @@
 ---
-slug: bali-trip-tips-mistakes-to-avoid
 title: 【巴厘岛自由行旅程心得分享】避免踩雷提醒！
+slug: bali-trip-tips-mistakes-to-avoid
 description: 这次要跟大家分享我在巴厘岛的旅行经历。这次旅行，我们从签证办理、包车服务到各大景点和餐厅，一一体验了当地的风情，当然也遇到了一些不愉快的小插曲...
-pubDate: '2024-08-03'
-heroImage: 'https://images.gobaligo.id/vocus/vocus_2b27e03403af45df112cf1bcec1f3aec.png'
+pubDate: 2024-08-03T00:00:00.000Z
+pubHour: null
+category:
+  - 遊記分享
 tags:
   - 峇里島
   - 踩雷
   - 峇里島遊記
   - 峇里島自由行
   - 峇里島推薦
+heroImage: 'https://images.gobaligo.id/vocus/vocus_2b27e03403af45df112cf1bcec1f3aec.png'
 originalUrl: 'https://vocus.cc/article/6691f675fd89780001832a5b'
-category:
-  - 遊記分享
 lang: zh-cn
-_srcHash: 2d9d9b2af98b4c9dc4a23ba97798125e
+_srcHash: c7c839f9af8339206038edcf25a9d806
 ---
 
 > 以下内容由团友 [Li Wallis](https://www.facebook.com/share/p/JqkCsRBtYLDZtsnV/) 提供给我们重新编排：
-
-![raw-image](https://images.gobaligo.id/vocus/vocus_3d905cf8752a0fbe9f0644817a779318.png)
 
 这次要跟大家分享我在巴厘岛的旅行经历。巴厘岛，这个被誉为“天堂之岛”的地方，以其迷人的自然景观、丰富的文化底蕴和友善的当地人吸引着世界各地的游客。这次旅行，我们从签证办理、包车服务到各大景点和餐厅，一一体验了当地的风情，当然也遇到了一些小插曲。希望我的分享能给准备前往巴厘岛的朋友们一些参考和帮助，让大家的旅程更加顺利和愉快。
 
@@ -33,11 +32,11 @@ _srcHash: 2d9d9b2af98b4c9dc4a23ba97798125e
 
 ## 包车司机：
 
-大家在预订包车服务时，务必不要过于轻信网上评论。我们根据脸书社团上有团友推荐的「X哥包车司机团队」预订了服务，但实际情况却并非如预期般顺利🥲。这位派来的「特X」司机不太积极，回复信息非常缓慢，且内容马虎，安排行程更是不上心。每次到达目的地，他也不会主动通知我们，非得我们问了才知道。
+大家在预订包车服务时，务必不要过于轻信网上评论。我们根据脸书社团上有团友推荐的「X哥包车司机团队」预订了服务，但实际情况却并非如预期般顺利🥲。这位派来的「特X」司机不太积极，回复信息非常缓慢，且内容马虎，安排行程更是毫不上心。每次到达目的地，他也不会主动通知我们，非得我们问了才知道。
 
 司机说费用包含汽油和停车费，但在去断崖公路时，购买门票时被要求支付Rp5000的泊车费，而这个费用最终还是我们付了。因为一直都是司机和门票的人沟通，他不可能不知道有这个泊车费。这让我们感觉司机不够诚实，让人非常不满😅。
 
-更有一次，我们在结账当天，司机告诉我们因为是假日，需要额外加收 Rp5 万。这让我们非常困惑，因为出发前我特地确认了两次价格，司机都说不会有变动。这种临时加价的行为让我们感到不满。因此，大家在预订包车服务时，一定要仔细核对价格和条款，避免遇到类似的情况。
+更有有一次，我们在结账当天，司机告诉我们因为是假日，需要额外加收Rp5万。这让我们非常困惑，因为出发前我特地确认了两次价格，司机都说不会有变动。这种临时加价的行为让我们感到不满。因此，大家在预订包车服务时，一定要仔细核对价格和条款，避免遇到类似的情况。
 
 > 延伸阅读：[【巴厘岛包车司机推荐名人榜】巴厘岛司机网友评鉴大全：看网友真实点评找到适合你的好司机](/blog/bali-private-car-drivers-guide/)
 
@@ -53,7 +52,7 @@ Li Wallis 提供
 
 🛕🌊🌅海神庙，巴厘岛必访的日落圣地，欣赏壮丽的海景与宗教氛围 ▶[Klook优惠](https://www.klook.com/zh-TW/search/result/?query=%E6%B5%B7%E7%A5%9E%E5%BB%9F&spm=SearchResult.TopNavigation.SearchInput&clickId=fc4a1f4dc2)
 
-> 延伸阅读：[巴厘岛坎古完美探险地图：100个坎古必游景点](/blog/canggu-guide/)
+{{block:canggu}}
 
 ### 乌鲁瓦图庙：
 
@@ -63,7 +62,7 @@ Li Wallis 提供
 
 乌鲁瓦图庙（Uluwatu Temple）同样美丽，建在峭壁上，俯瞰印度洋，风景非常壮观。不过，这里的猴子非常狡猾，会抢走你的眼镜、帽子和手机，所以要格外小心保管自己的物品。快速参考：[巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](/blog/uluwatu-temple-travel-guide/)
 
-🛕🌊🌅 乌鲁瓦图庙，悬崖之上的壮丽景点，还能欣赏传统的火舞表演 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50231639-uluwatu%2F1-things-to-do%2F)
+🛕🌊🌅 乌鲁瓦图庙 ，悬崖之上的壮丽景点，还能欣赏传统的火舞表演 ▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=988904&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50231639-uluwatu%2F1-things-to-do%2F)
 
 ### 断崖公路：
 
@@ -77,7 +76,7 @@ Li Wallis 提供
 
 在附近有一家名为Pawdwa Seaview的海景餐厅，我们点了意大利面、沙拉、米饭和鱿鱼圈共四样食物，再加上两杯饮品，总共花了Rp40多万。坐在海景前享用美食，感觉非常悠闲惬意😌。
 
-> 延伸阅读：[【乌鲁瓦图攻略】乌鲁瓦图景点 50个吃喝玩乐推荐](/blog/uluwatu-guide/)
+{{block:uluwatu}}
 
 ### 圣泉寺：
 
@@ -89,7 +88,7 @@ Li Wallis 提供
 
 🔱💦 乌布圣泉寺（Tirta Empul）巴厘岛著名圣水寺庙，以净化仪式🙏 和神圣泉水💧闻名，能为信徒与游客带来祝福与好运✨！▶[Klook优惠行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=994211&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dtirta%2520empul%26spm%3DHome.TopSearchBar%3Aany%3A%3AMwebMainBanner%3ATopSearchBar.SearchBtn%26clickId%3D20d093b580)
 
-> 延伸阅读：100[种深入认识乌布的方式｜探索乌布的魅力](/blog/ubud-guide/)
+{{block:ubud}}
 
 ### 金巴兰：
 
@@ -99,7 +98,9 @@ Li Wallis 提供
 
 我们没有选择在金巴兰海边吃海鲜，因为听说那里的价格非常高，有人吃了海鲜花费超过Rp百万。我们去了Waroeng Pan Yoga吃饭，点了一条大鱼（其实是两条鱼，可能因为大鱼缺货吧😅）、炸鱿鱼圈、鱿鱼串和蛤蜊，再加上两杯饮品，只花了Rp20多万。我们吃得很开心，质量也不错！不过，可能是金巴兰的特色，海鲜都烤得有点焦黑🤣。
 
-> 延伸阅读：[金巴兰自由行：推荐30个玩乐景点全攻略](/blog/jimbaran-guide/)
+{{block:jim}}
+
+{{block:戶外}}
 
 ## 纪念品：
 
@@ -117,14 +118,20 @@ Li Wallis 提供
 - 机场的物价非常高，建议大家在去机场前买齐所有需要的东西和纪念品。比如，珍珠奶茶价格是Rp65,000，越式包是Rp120,000，Aqua大水是Rp20,000
 - 别忘了带环保袋！我们在超市购物时才知道**巴厘岛不提供塑料袋**，结果买了一个Rp15,000的环保袋，真的好贵啊🥺。
 
+https://youtu.be/0M0voLfFLrQ
+
+{{block:klook}}
+
 ## 这里还有：
 
 [巴厘岛不踩雷攻略：18个常见错误与建议](/blog/bali-travel-mistakes-tips/)
 
 您觉得Li Wallis他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
-![raw-image](https://d2a6d2ofes041u.cloudfront.net/resize)
+![](https://res.cloudinary.com/dksxqobud/image/upload/v1774107130/banner_e0f7yh.jpg)
 
 点击这里观看更多巴厘岛精彩游记
 
 你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+
+{{block:攻略}}

@@ -27,7 +27,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d9d929150c54e9a96490136e18b3e11a.jpg'
 originalUrl: 'https://vocus.cc/article/669b1d59fd89780001def381'
 lang: en
-_srcHash: 0f19c2368a3d028c6560ede52e46f2eb
+_srcHash: fbacb46c9117dfa2fc26b585878d7f00
 ---
 
 Located on the southern coast, just 30 minutes from the airport, Seminyak is a hub for beautiful beach clubs, bustling shopping districts, and dining streets. Here, urban life blends seamlessly with a relaxed beach vibe and luxurious villa stays—making it the island's most fashionable, trendy, and lively tourist town.

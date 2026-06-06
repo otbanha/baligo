@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_997139cf653d2e06d7213660fbc2cde4.png'
 originalUrl: 'https://vocus.cc/article/68011484fd897800010d1643'
 lang: zh-hk
-_srcHash: 741b60dcfd2f1c77cb5904101e68d7e0
+_srcHash: 88227f58f271c7f64b0482f1929e31bc
 ---
 
 ## 🌄 凌晨三點嘅峇里島冒險：我喺吉普車頂迎接巴杜爾火山嘅第一道曙光

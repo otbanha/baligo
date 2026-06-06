@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/64db6b6dfd897800013a930e'
 category:
   - 住宿推薦
 lang: zh-cn
-_srcHash: 2ce6c4337f380c75f60867fe8416403a
+_srcHash: 9941727c9dc2661b567a8550388d4df8
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_8e97326ae5f053b47236d054dbe99d42.jpg)

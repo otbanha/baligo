@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: 314d645dd41f20ee0c8d37b87d2f590d
+_srcHash: b219fa34fb319e8bcc27c7c9d4aa582d
 ---
 各位熱愛峇里島嘅朋友，係咪每次諗起要從機場拉到坎古（Canggu），腦中就會浮現塞喺車龍中動彈不得嘅畫面？好消息嚟喇！印尼政府正式宣布，將會興建一條從**伍拉·賴國際機場**直達**坎古**嘅「水路嘅士」路線，未來有望避開煩人嘅陸上交通，**最快30分鐘就能抵達**！
 

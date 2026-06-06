@@ -16,7 +16,7 @@ category:
   - 美食景點活動
   - 旅行技巧
 lang: zh-hk
-_srcHash: 4c52fbd1f9a45655e224e166172cd684
+_srcHash: 5e2af44f54b0478c9b50e86368dadea2
 ---
 
 ## 🌟 **你準備好喺峇里島迎接2025年跨年未？** 🌟

@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/64e1946ffd89780001740b90'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: df4b1f8cbb199e349badb7dd7c2bf1c1
+_srcHash: 176f111d8d9aeb9553a3fac6753fb7e9
 ---
 
 ### 什么是e-CD？

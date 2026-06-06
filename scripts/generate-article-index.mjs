@@ -71,11 +71,13 @@ for (const file of files) {
     .trim()
     .slice(0, 300);
 
+  const slugId = fm.slug || id;  // Astro legacy collection p.id = fm.slug (if set), else filename
   articles.push({
-    id,
+    id: slugId,
     title: fm.title,
-    url: `/blog/${fm.slug || id}/`,
+    url: `/blog/${slugId}/`,
     description: fm.description || '',
+    heroImage: fm.heroImage || '',
     category: Array.isArray(category) ? category : [category].filter(Boolean),
     tags: Array.isArray(tags) ? tags : [tags].filter(Boolean),
     pubDate,
@@ -88,3 +90,10 @@ articles.sort((a, b) => b.pubDate.localeCompare(a.pubDate));
 
 writeFileSync(outputPath, JSON.stringify(articles, null, 2), 'utf-8');
 console.log(`✅ article-index.json 產生完成：${articles.length} 篇文章`);
+
+// 生成輕量版 hero-map.json：{id: heroImage}，供前端快速查詢
+const heroMapPath = join(root, 'public/hero-map.json');
+const heroMap = {};
+articles.forEach(a => { if (a.heroImage) heroMap[a.id] = a.heroImage; });
+writeFileSync(heroMapPath, JSON.stringify(heroMap), 'utf-8');
+console.log(`✅ hero-map.json 產生完成：${Object.keys(heroMap).length} 筆`);

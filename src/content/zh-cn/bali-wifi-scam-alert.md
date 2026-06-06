@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/68593269fd897800012cea64'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 7e7c4aacef88f01a05856598023ce78a
+_srcHash: ae6a611cd85c1e5f05681070644031cc
 ---
 
 **「请求分享手机热点」**可能是一种诈骗或不当行为的手法，尤其在公共场所或旅游地区需要特别警惕。遇到这类请求时保持警觉是明智的，特别是在人流密集的公共场所! 以下是几种常见的诈骗或风险情境：

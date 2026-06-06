@@ -26,7 +26,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 8739cd22b14763095612c59d73477143
+_srcHash: 364ad32bfa73a86d66cc04d30ce7ec7b
 ---
 
 去巴厘岛度假，先别急着跑景点！很多人抵达后，第一个去的地方就是「当地大型超市」。

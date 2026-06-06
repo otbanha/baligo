@@ -14,7 +14,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7391a524afd01acee5b8276e6d4c1a76.jpg'
 originalUrl: 'https://vocus.cc/article/68fc1e0cfd89780001736727'
 lang: en
-_srcHash: 3d5ad38786a589a686eaa60e88359451
+_srcHash: de1d4784bccb99b62a12cb99a9bad27c
 ---
 
 ## Introduction to Bali Bird Park: A Tropical Paradise of Birdsong and Blooms

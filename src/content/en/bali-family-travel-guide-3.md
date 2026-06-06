@@ -21,7 +21,7 @@ category:
   - 家庭親子
   - 遊記分享
 lang: en
-_srcHash: 609beb159d5c9d4315345c0b162d507a
+_srcHash: 23b95db65a803b03397f3def607a82b8
 ---
 
 > The following content is adapted from fellow traveler [Mei Liu](https://www.facebook.com/share/p/14streqDnD/)'s travelogue:

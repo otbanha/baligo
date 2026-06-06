@@ -23,7 +23,7 @@ originalUrl: 'https://vocus.cc/article/679dddeafd89780001a820fd'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 9d5b32410c1a43512aaf193c57142d4e
+_srcHash: aec3d6b920e13090c85016df575ba7c5
 ---
 
 Canggu, Bali's newest attraction, **Aurora Media Park Bali**, is a groundbreaking landmark that seamlessly blends nature with interactive multimedia technology. Located in the Nuanu Creative Area of Tabanan Regency, this destination offers a 1-kilometer-long open forest experience filled with interactive light and sound games, creating an immersive multimedia environment powered by artificial intelligence (AI). Visitors can explore this 5,000-square-meter natural forest, experiencing a dual sensory impact of sight and sound while also finding spiritual inspiration, as if stepping into a whole new dimension.

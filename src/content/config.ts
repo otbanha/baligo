@@ -27,6 +27,15 @@ const blog = defineCollection({
     agoda_star_rating: z.number().optional(),
     latitude: z.number().optional(),
     longitude: z.number().optional(),
+    isDriverGuide: z.boolean().optional(),
+    drivers: z.array(z.object({
+      name: z.string(),
+      category: z.string(),
+      languages: z.array(z.string()),
+      specialty: z.string(),
+      contact: z.string(),
+      facebookRefs: z.number(),
+    })).optional(),
   }),
 });
 
@@ -82,6 +91,15 @@ const translatedSchema = z.object({
   agoda_star_rating: z.number().optional(),
   latitude: z.number().optional(),
   longitude: z.number().optional(),
+  isDriverGuide: z.boolean().optional(),
+  drivers: z.array(z.object({
+    name: z.string(),
+    category: z.string(),
+    languages: z.array(z.string()),
+    specialty: z.string(),
+    contact: z.string(),
+    facebookRefs: z.number(),
+  })).optional(),
 });
 
 const qa = defineCollection({

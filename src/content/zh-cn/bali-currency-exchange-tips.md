@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/689c380bfd8978000178bb5e'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: ad2a118352f594abbad34140ab93b4dd
+_srcHash: c3f4c28f6e3a55c890e576444d03d2cd
 ---
 
 去巴厘岛旅行前，你是不是也曾经纠结过：**到底该直接用台币在当地换印尼盾，还是先在台湾换好美金再去换印尼盾**？这个看似小小的选择，其实可能让你在同样的台币预算下，多出一大笔旅费可以吃美食、买伴手礼或做好几次美美的 SPA 喔!

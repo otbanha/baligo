@@ -18,7 +18,7 @@ originalUrl: 'https://vocus.cc/article/6608d51bfd89780001256dc5'
 category:
   - 遊記分享
 lang: en
-_srcHash: 0697083b0e7d433b9a7693a8aec2c59a
+_srcHash: cf55c43f26cf9ed4897138539a805b43
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_53ad30b22fb7ff7092abe536a294b524.jpg)

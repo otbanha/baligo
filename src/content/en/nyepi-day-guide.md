@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/67d0f17dfd89780001adcccd'
 category:
   - 旅行技巧
 lang: en
-_srcHash: e40f122af573460d953a7c9462e08e7a
+_srcHash: b14c051a065b2f64d8d6c44f19401fbc
 ---
 
 ### Bali Government Confirms Rules Tourists Must Follow for the Upcoming Day of Silence

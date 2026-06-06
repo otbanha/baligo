@@ -20,7 +20,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_3300dc8a58bc532d7df11537b9bac64b.jpg'
 originalUrl: 'https://vocus.cc/article/689c185efd8978000170dbdc'
 lang: zh-cn
-_srcHash: d67a2bed4b35d1a7c5d14dc206726300
+_srcHash: d33d034e7e2b699e84dc486e3ea7a9de
 ---
 
 ## 为何 Tanjung Benoa 成为巴厘岛水上运动之都

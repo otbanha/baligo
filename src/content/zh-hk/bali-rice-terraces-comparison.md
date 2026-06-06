@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7954b979e215fc1714f578e8902d7e09.png'
 originalUrl: 'https://vocus.cc/article/673167e4fd897800017c44a9'
 lang: zh-hk
-_srcHash: 4163c2ef30ba651f31c72351e2a9f8f3
+_srcHash: 28f7e58015fbf5e5714ea0dee7795100
 ---
 
 ## 峇里島梯田介紹：探索峇里島兩大梯田區

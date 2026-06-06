@@ -31,7 +31,7 @@ agoda_star_rating: 4
 latitude: -8.684306
 longitude: 115.162719
 lang: zh-cn
-_srcHash: 8823cf72c6998fca5c7d95898e369401
+_srcHash: ced1d5d078eee0521dfa3589f479a678
 ---
 
 水明漾（Seminyak）的住宿动辄一晚几百美金，但其实只要懂得找，精华地段也藏着不少平价好选择。Jas Green Villas and Spa 就是这样一间——躲在 Jl. Laksamana 巷弄深处，距离著名的 Eat Street 只需要步行几分钟，每间别墅都附有私人泳池，均价却比周边同类型住宿便宜一截。不是那种靠照片骗人的地方，就是一间实用、有地点优势、服务态度好的平价别墅。

@@ -14,7 +14,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b019f571fcb856c03c3c31c9e0d0c9a5.png'
 originalUrl: 'https://vocus.cc/article/67b81b4cfd89780001b4a261'
 lang: zh-hk
-_srcHash: 1175f617f5dc9811cb16101f3039d19e
+_srcHash: 9fbf5a441efccb68fa30ed70a9866c86
 ---
 峇里島嘅沙努爾（Sanur）海灘以其寧靜嘅氛圍同適合家庭嘅環境，成為帶細路旅遊嘅理想選擇。同庫塔（Kuta）同水明漾（Seminyak）等熱鬧地區相比，沙努爾提供更平和嘅體驗，等家長同細路都可以享受放鬆嘅假期。
 

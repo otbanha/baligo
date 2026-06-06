@@ -10,7 +10,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_fb0a8f3064e3e63596e9f82fc73432be.jpg'
 originalUrl: 'https://vocus.cc/article/654b8438fd897800016bf4cc'
 lang: zh-hk
-_srcHash: 00c2ee4cf131de194bed84928efaca98
+_srcHash: 730ea2d3d0cf86c039a900f7a335e0d6
 ---
 
 ![峇里島自由行攻略之六：金巴蘭攻略](https://images.gobaligo.id/vocus/vocus_a466b2f6e4224e64d4a47259728710da.jpg)

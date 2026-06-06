@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/67feffeffd897800017dd2f3'
 category:
   - 旅行技巧
 lang: zh-hk
-_srcHash: 23c09ed3a5bf950a8dd93b9f064f4639
+_srcHash: 00189c3fd4083afe634ab8a893a5b21e
 ---
 ### 峇里島旅遊稅係咩？
 

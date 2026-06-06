@@ -55,6 +55,30 @@ const PINNED_ARTICLES = [
     ],
   },
   {
+    keywords: ['穿搭', '穿什麼', '穿甚麼', '穿著', '服裝', '衣服', '帶什麼衣服', '帶衣服',
+               '行李打包', '打包', '帶什麼', '帶甚麼', '帶乜', '帶啲咩',
+               'packing', 'what to wear', 'outfit', 'dress code', 'what to pack', 'clothes to bring', 'packing list'],
+    articles: [
+      { title: '峇里島行李打包清單', url: '/blog/bali-packing-essentials/' },
+    ],
+  },
+  {
+    keywords: ['AIAC', 'aiac', 'All Indonesia Arrival Card', 'all indonesia arrival card',
+               '印尼入境卡', '入境卡', 'arrival card', 'Indonesia arrival card'],
+    intro: 'All Indonesia Arrival Card（AIAC）印尼入境卡為免費服務',
+    articles: [
+      { title: '峇里島簽證與入境攻略（含AIAC入境卡教學）', url: '/blog/bali-all-indonesia-arrival-guide/' },
+    ],
+  },
+  {
+    keywords: ['SATUSEHAT', 'satusehat', 'SatuSehat', '健康通行證', '健康申報', '健康卡',
+               'health pass', 'health certificate', 'health declaration'],
+    intro: '現在已整合至AIAC入境卡，無需單獨填寫',
+    articles: [
+      { title: '峇里島簽證與入境攻略（含AIAC入境卡教學）', url: '/blog/bali-all-indonesia-arrival-guide/' },
+    ],
+  },
+  {
     keywords: ['簽證', '簽証', 'visa', 'VISA', '海關', '申請', '通關', '入境', '電子簽', '落地簽',
                '落地簽証', 'VoA', 'VOA', 'visa on arrival', 'on arrival visa',
                'e-visa', 'evisa', 'immigration', 'passport', 'entry requirement'],
@@ -108,6 +132,17 @@ const PINNED_ARTICLES = [
     keywords: ['泛舟', 'rafting', 'Rafting', 'white water rafting', 'river rafting', '激流泛舟'],
     articles: [
       { title: '峇里島泛舟體驗推薦', url: '/blog/bali-rafting-ayung-telaga-waja/' },
+    ],
+  },
+  {
+    keywords: ['家庭', '3房', '4房', '5房', '6房', '三房', '四房', '五房', '六房',
+               '6人以上', '6人', '七人', '八人', '多人', '大家庭', '一大家',
+               '家庭villa', '家庭別墅', '家庭包棟', '家庭住宿',
+               'family villa', 'family house', '3 bedroom', '4 bedroom', '5 bedroom', '6 bedroom',
+               '3-bedroom', '4-bedroom', '5-bedroom', '6-bedroom',
+               'group villa', 'group accommodation', '6 people', 'large group'],
+    articles: [
+      { title: '峇里島團體自由行旅遊：包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦', url: '/blog/bali-group-villa-stay/' },
     ],
   },
   {
@@ -254,6 +289,7 @@ const PINNED_ARTICLES = [
                'baby', 'toddler', 'infant', 'child friendly'],
     articles: [
       { title: '【峇里島親子遊】峇里島家庭親子友善景點大全｜巴里島超過100樣適合親子同樂活動', url: '/blog/bali-family-travel-guide/' },
+      { title: '峇里島親子必去景點 TOP 10：孩子最愛的活動與樂園推薦', url: '/blog/top-10-kids-attractions-in-bali/' },
       { title: '峇里島親子樂園：十五家擁有滑水道溜滑梯的親子渡假村 TOP 15', url: '/blog/bali-family-resorts-water-slides/' },
       { title: '峇里島18家 kids club 親子度假村｜庫塔、水明漾、長谷、金巴蘭、烏魯瓦圖、烏布適合家庭度假的最佳選擇', url: '/blog/bali-family-resorts-kids-club/' },
     ],
@@ -271,13 +307,24 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['雨季', '下雨', '雨天', '濕季', '旱季', '天氣', '落雨', '幾時去好',
-               'rainy season', 'dry season', 'weather', 'rain', 'monsoon',
+    keywords: ['雨季', '下雨', '雨天', '濕季', '旱季', '天氣', '氣候', '氣溫', '落雨', '幾時去好',
+               'rainy season', 'dry season', 'weather', 'climate', 'temperature', 'rain', 'monsoon',
                'best time to visit', 'when to visit', 'wet season'],
     articles: [
+      { title: '峇里島雨季旅遊完整攻略', url: '/blog/bali-rainy-season-travel-guide/' },
       { title: '峇里島的天氣怎麼看？會不會下雨？旅人常見誤解一次破解！', url: '/blog/bali-weather-myths-explained/' },
       { title: '峇里島雨季：旅遊峇里島碰到下雨天怎麼辦？峇里島下雨天的60個備案攻略', url: '/blog/2026-bali-indoor-activities/' },
       { title: '暑假/寒假峇里島親子旅遊攻略：全方位指南，讓家庭出遊更輕鬆 - 水明漾篇', url: '/blog/seminyak-family-travel-2026/' },
+    ],
+  },
+  {
+    keywords: ['Kuta推薦住宿', 'Kuta住宿', 'Kuta飯店', 'Kuta酒店', 'Kuta hotel', 'kuta hotel', 'kuta hotels',
+               '庫塔推薦住宿', '庫塔住宿', '庫塔飯店', '庫塔酒店', '庫塔渡假村', '庫塔resort',
+               'kuta resort', 'kuta accommodation', 'where to stay in kuta', 'best hotel kuta',
+               'hotel in kuta', 'hotels in kuta', 'stay in kuta', 'kuta beach hotel'],
+    articles: [
+      { title: '庫塔海灘住宿推薦：峇里島最受歡迎的海灘區住宿指南', url: '/blog/kuta-beach-hotels/' },
+      { title: '庫塔最佳飯店推薦清單：從平價到豪華一次收錄', url: '/blog/best-kuta-hotels-list/' },
     ],
   },
   {
@@ -418,6 +465,14 @@ const PINNED_ARTICLES = [
       { title: '峇里島旅遊健康注意事項：避免生病的實用攻略', url: '/blog/bali-travel-health-tips/' },
     ],
   },
+  {
+    keywords: ['水質', '過濾', '濾水', '淨水', '濾水器', '過濾水', '水過濾', '淨水器',
+               'water filter', 'water filtration', 'filter water', 'water quality',
+               'filtered water', 'water purifier', 'purify water', 'bali water filter'],
+    articles: [
+      { title: '峇里島飲水安全與過濾攻略', url: '/blog/bali-water-filter-tips/' },
+    ],
+  },
 ];
 
 const RATE_LIMIT_MAX = 20;
@@ -425,7 +480,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v18'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v19'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
@@ -593,6 +648,8 @@ function buildSystemPrompt(lang, relatedArticles, customIntro, allArticles = [])
 Answer the user's question concisely (1-3 sentences). Then, from the candidate articles below, include only the ones that are genuinely relevant to the question (1-3 max) as markdown links [Title](URL) on separate lines. If none are relevant, skip the links.
 When someone sends a tour inquiry or asks to book a tour: reply "Please fill in our inquiry form and we'll get back to you shortly: [Tour Inquiry Form](https://gobaligo.id/en/blog/bali-komodo-luxury-tour-2026/)"
 Do NOT mention "customer service" or "contact us" — this site has no support team.
+[Key fact] Drinking water brands in Bali: The common bottled water brands are Amidis, Cleo, and Aqua — all safe and widely available at convenience stores and local shops. Never drink tap water.
+[Key fact] Bali performances: ALL performances in Bali (Kecak fire dance, Legong, Barong, etc.) are ticketed events held in enclosed venues — none are open-air free shows. Do NOT say they can be watched for free or seen on the street.
 
 Candidate articles:
 ${candidateList}`;
@@ -605,6 +662,8 @@ ${candidateList}`;
 
 【重要知识】台币换汇：台币不是主要流通货币，在巴厘岛汇率极差，1元台币约只能换350印尼盾。建议带美金去巴厘岛换，汇率远比台币好。绝对不可说「带台币直接换比较划算」。
 【重要知识】槟榔入境：槟榔可以携带入境印尼/巴厘岛，根据印尼海关规定不是禁止物品。但数量以个人自用为限，含石灰添加剂的槟榔可能被海关询问，保持冷静配合即可。凡涉及海关禁带物品的问题，若本站无专门文章，请说「建议查询印尼海关官方规定」，不可自行给出确定性答案。
+【重要知识】饮用水品牌：巴厘岛常见的瓶装水品牌有 Amidis、Cleo、Aqua，在便利店和一般商店均可买到，三者皆安全可靠。请勿饮用自来水。
+【重要知识】巴厘岛表演：巴厘岛所有表演（Kecak火舞、Legong雷贡舞、Barong巴龙舞等）均为售票演出，在封闭场馆内举行，没有免费开放式表演。不可说「免费观看」或「在路边就能看到」。
 
 候选文章：
 ${candidateList}`;
@@ -617,6 +676,8 @@ ${candidateList}`;
 
 【重要知識】台幣換匯：台幣唔係主要流通貨幣，喺峇里島匯率極差，1蚊台幣大約只能換350印尼盾。建議帶美金去峇里島換，匯率遠比台幣好。絕對唔可以話「帶台幣直接換比較划算」。
 【重要知識】檳榔入境：檳榔可以攜帶入境印尼/峇里島，根據印尼海關規定唔係禁帶物品。但數量要以個人自用為限，含石灰添加劑嘅檳榔可能被海關查詢，保持冷靜配合即可。凡涉及海關禁帶物品嘅問題，若本站冇專門文章，請話「建議查詢印尼海關官方規定」，唔可以自行給出確定性答案。
+【重要知識】飲用水品牌：峇里島常見嘅瓶裝水品牌有 Amidis、Cleo、Aqua，喺便利店同一般商店都買到，三者都安全可靠。唔好飲自來水。
+【重要知識】峇里島表演：峇里島所有表演（Kecak火舞、Legong雷貢舞、Barong巴龍舞等）均為售票演出，喺封閉場館內舉行，冇免費開放式表演。唔可以話「免費睇」或「喺路邊就見到」。
 
 候選文章：
 ${candidateList}`;
@@ -645,7 +706,8 @@ ${candidateList}`;
       : '';
     return `You are "Baligo AI" from gobaligo.id, a Bali travel expert. Answer in English, concisely (under 80 words). Do not make up specific details.
 When someone sends a tour inquiry or asks to book a tour: reply "Please fill in our inquiry form and we'll get back to you shortly: [Tour Inquiry Form](https://gobaligo.id/en/blog/bali-komodo-luxury-tour-2026/)"
-Do NOT mention customer service — this site has no customer support team.${articleSection}`;
+Do NOT mention customer service — this site has no customer support team.
+[Key fact] Drinking water brands in Bali: The common bottled water brands are Amidis, Cleo, and Aqua — all safe and widely available at convenience stores and local shops. Never drink tap water.${articleSection}`;
   }
 
   if (lang === 'zh-HK') {
@@ -682,6 +744,11 @@ Do NOT mention customer service — this site has no customer support team.${art
 - 當被問到「佩尼達島/Nusa Penida 一日遊還是住宿」時，回答是：一日遊方便可快速走訪熱門景點，但若能留宿一晚，可錯開人潮、欣賞日出日落，體驗更深入。行程允許的話建議住一晚。
 - 當被問到「帶台幣去換印尼盾還是美金比較划算」或任何關於台幣換匯的問題時，必須回答：台幣不是主要流通貨幣，在峇里島的匯率極差，通常1元台幣只能換到約350印尼盾。建議帶美金去峇里島換，匯率遠比台幣好得多。詳細換匯攻略請參考文章。
 - 當被問到「檳榔可不可以帶去峇里島/印尼」時，必須回答：**可以攜帶**，根據印尼海關規定檳榔不是禁止入境物品，峇里島每日的宗教供品中也有檳榔。但數量以個人自用為限，且含紅灰/白灰的台灣檳榔可能會被海關詢問，保持冷靜、配合即可。詳情請參考文章。
+- 當被問到峇里島「飲用水品牌」「礦泉水品牌」「瓶裝水牌子」或類似問題時，必須回答：峇里島常見的飲用水品牌有 **Amidis、Cleo、Aqua**，在超商、便利商店及一般小店均可購買，三者皆安全可靠。請勿飲用自來水。
+- 當被問到峇里島任何「表演」「舞蹈表演」「火舞」「克差舞」「雷貢舞」「巴龍舞」「Kecak」「Legong」「Barong」等相關問題時，必須說明：**峇里島所有表演均非開放式劇場，皆需購票入場**，不可說「免費觀看」或「路邊就能看到」。
+- 當被問到峇里島任何「表演」「舞蹈表演」「火舞」「克差舞」「雷貢舞」「巴龍舞」「Kecak」「Legong」「Barong」等相關問題時，必須說明：**峇里島所有表演均非開放式劇場，皆需購票入場**，不可說「免費觀看」或「路邊就能看到」。
+- 當被問到「AIAC」「All Indonesia Arrival Card」「印尼入境卡」時，必須回答：**All Indonesia Arrival Card（AIAC）印尼入境卡為免費服務**，入境前可在官方平台填寫，詳細教學請參考文章。
+- 當被問到「SATUSEHAT」「健康通行證」「健康申報」時，必須回答：**SATUSEHAT 健康通行證現在已整合至 AIAC 入境卡，無需單獨填寫**，只需完成 AIAC 申請即可，詳細說明請參考文章。
 
 【海關／入境規定原則】：
 - 凡涉及「可不可以帶XXX入境」「XXX是不是違禁品」「XXX過海關會不會被查」等海關規定問題，必須優先以本站文章為準，若無相關文章則說「本站目前沒有這方面的專門文章，建議查詢印尼海關官方規定或詢問航空公司」，絕對不可直接根據自身訓練資料給出「可以」或「不可以」的確定性答案。
@@ -797,7 +864,7 @@ export async function onRequestPost(context) {
       'Authorization': `Bearer ${env.DEEPINFRA_API_KEY}`,
     },
     body: JSON.stringify({
-      model: 'deepseek-ai/DeepSeek-V3',
+      model: 'deepseek-ai/DeepSeek-V4-Flash',
       max_tokens: OUTPUT_MAX_TOKENS,
       temperature: 0.2,
       stream: true,

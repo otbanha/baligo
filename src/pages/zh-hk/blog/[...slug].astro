@@ -10,12 +10,81 @@ export async function getStaticPaths() {
   const langPosts = await getCollection('zh-hk');
   const langMap = new Map(langPosts.map(p => [p.id, p]));
 
-  return blogPosts.map((blogPost) => ({
-    params: { slug: blogPost.data.slug || blogPost.id },
-    props: {
-      post: langMap.get(blogPost.id) ?? blogPost,
-    },
-  }));
+  // 讀取實際檔案名，為舊檔案名生成路由
+  const blogDir = join(process.cwd(), 'src/content/blog');
+  const langDir = join(process.cwd(), 'src/content/zh-hk');
+  const fileNameMap = new Map<string, string>(); // slug -> 檔案名（不含副檔名）
+
+  for (const dir of [blogDir, langDir]) {
+    const files = readdirSync(dir).filter(f => f.endsWith('.md') || f.endsWith('.mdx'));
+    for (const file of files) {
+      try {
+        const content = readFileSync(join(dir, file), 'utf-8');
+        const { data } = matter(content);
+        const slug = data.slug || file.replace(/\.(md|mdx)$/, '');
+        const fileId = file.replace(/\.(md|mdx)$/, '');
+        fileNameMap.set(slug, fileId);
+      } catch (e) {}
+    }
+  }
+
+  // Create maps by slug for matching
+  const langMapBySlug = new Map(langPosts.map(p => [(p.data.slug || p.id), p]));
+
+  const usedSlugs = new Set<string>();
+  const paths: any[] = [];
+  let compatCount = 0;
+
+  // Add entries from blog collection, preferring zh-hk collection version if available by slug
+  for (const blogPost of blogPosts) {
+    const slug = blogPost.data.slug || blogPost.id;
+    usedSlugs.add(slug);
+    const post = langMapBySlug.get(slug) ?? blogPost;
+    paths.push({
+      params: { slug },
+      props: { post },
+    });
+
+    // 為舊檔案名生成路由
+    const oldFileId = fileNameMap.get(slug);
+    if (oldFileId && oldFileId !== slug) {
+      paths.push({
+        params: { slug: oldFileId },
+        props: { post },
+      });
+      compatCount++;
+    }
+  }
+
+  // Add entries from zh-hk collection that don't have a blog version (by slug)
+  for (const langPost of langPosts) {
+    const slug = langPost.data.slug || langPost.id;
+    if (!usedSlugs.has(slug)) {
+      paths.push({
+        params: { slug },
+        props: { post: langPost },
+      });
+
+      // 為舊檔案名生成路由
+      const oldFileId = fileNameMap.get(slug);
+      if (oldFileId && oldFileId !== slug) {
+        paths.push({
+          params: { slug: oldFileId },
+          props: { post: langPost },
+        });
+        compatCount++;
+      }
+    }
+  }
+
+  // 調試
+  let actualCompat = 0;
+  for (const [slug, fileId] of fileNameMap) {
+    if (fileId !== slug) actualCompat++;
+  }
+  console.log(`✅ 香港繁體版本: ${paths.length} 路由（${blogPosts.length}+${langPosts.length - Math.max(0, blogPosts.filter(bp => fileNameMap.has(bp.data.slug || bp.id)).length)}+${compatCount}），fileNameMap: ${fileNameMap.size}，潛在兼容: ${actualCompat}`);
+
+  return paths;
 }
 
 const { post } = Astro.props;

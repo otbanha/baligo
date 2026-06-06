@@ -17,7 +17,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e14497d695ce945e47d1b8738cd5faa6.gif'
 originalUrl: 'https://vocus.cc/article/672e2c1afd897800014c3fbc'
 lang: zh-cn
-_srcHash: 89500551a686938032e4b27508451741
+_srcHash: 4c75a021cf69bef0b6d672dbfabb1931
 ---
 
 # **巴厘岛旅游常见问题大解答**

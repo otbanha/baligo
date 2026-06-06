@@ -21,7 +21,7 @@ category:
   - 家庭親子
   - 旅行技巧
 lang: en
-_srcHash: ec60f37b918502c182b11e36dc24622d
+_srcHash: 05155b6d39a3539e42def3961861f07f
 ---
 
 Bali has once again proven its unshakable status by winning the prestigious title of '[World's Most Romantic Destination](https://www.worldtravelawards.com/award-worlds-most-romantic-destination-2024)' for 2024! As the first region in Southeast Asia to receive this honor, Bali has captivated travelers and judges worldwide with its unique natural beauty, cultural atmosphere, and unparalleled romantic charm.

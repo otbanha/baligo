@@ -33,31 +33,31 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
     html, body { height: 100%; overflow: hidden; }
     body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-           background: #0f1923; color: #e8e0d4; display: flex; flex-direction: column; }
+           background: #3A2820; color: #F5E6D3; display: flex; flex-direction: column; }
 
     /* ── Auth ─────────────────────────────────────────────────────── */
     #auth-wall {
-      position: fixed; inset: 0; background: #0f1923;
+      position: fixed; inset: 0; background: #3A2820;
       display: flex; align-items: center; justify-content: center; z-index: 999;
     }
     .auth-box {
-      background: #1a2535; border: 1px solid #2e3d52; border-radius: 14px;
+      background: #4A3228; border: 1px solid rgba(197,160,89,0.25); border-radius: 14px;
       padding: 2.2rem 2.4rem; width: min(340px, calc(100vw - 2rem)); box-shadow: 0 8px 40px rgba(0,0,0,.5);
     }
     .auth-logo { font-size: 1.5rem; font-weight: 800; color: #C5A059; margin-bottom: .3rem; }
-    .auth-sub  { font-size: .82rem; color: #6b7a8d; margin-bottom: 1.5rem; }
+    .auth-sub  { font-size: .82rem; color: rgba(245,230,211,0.5); margin-bottom: 1.5rem; }
     .auth-row  { display: flex; gap: .5rem; }
     .auth-row input {
-      flex: 1; padding: .6rem .9rem; background: #111c2a;
-      border: 1px solid #2e3d52; border-radius: 8px; color: #e8e0d4;
+      flex: 1; padding: .6rem .9rem; background: #2E1F18;
+      border: 1px solid rgba(197,160,89,0.25); border-radius: 8px; color: #F5E6D3;
       font-size: .95rem; outline: none;
     }
     .auth-row input:focus { border-color: #C5A059; }
     .auth-btn {
-      padding: .6rem 1.2rem; background: #1A365D; color: #fff; border: none;
+      padding: .6rem 1.2rem; background: #5D4037; color: #fff; border: none;
       border-radius: 8px; font-size: .9rem; font-weight: 700; cursor: pointer;
     }
-    .auth-btn:hover { background: #254d85; }
+    .auth-btn:hover { background: #E07530; }
     .auth-err { color: #fc8181; font-size: .8rem; margin-top: .6rem; display: none; }
 
     /* ── Shell ────────────────────────────────────────────────────── */
@@ -66,7 +66,7 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
     /* ── Tab Bar ──────────────────────────────────────────────────── */
     .tabbar {
       display: flex; align-items: stretch; gap: 4px;
-      background: #111c2a; border-bottom: 2px solid #1f2f42;
+      background: #2E1F18; border-bottom: 2px solid rgba(197,160,89,0.3);
       padding: 0 1.2rem; flex-shrink: 0; height: 64px;
       overflow-x: auto; -webkit-overflow-scrolling: touch;
       scrollbar-width: none;
@@ -75,20 +75,20 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
     .tabbar-brand {
       font-size: 1.15rem; font-weight: 800; color: #C5A059;
       display: flex; align-items: center; padding-right: 1.4rem;
-      border-right: 1px solid #2e3d52; margin-right: .6rem; letter-spacing: .04em;
+      border-right: 1px solid rgba(197,160,89,0.2); margin-right: .6rem; letter-spacing: .04em;
       flex-shrink: 0;
     }
     .tab {
       display: flex; align-items: center; gap: .5em;
       padding: 0 1.6rem; border: none; background: none;
-      color: #7a8fa8; font-size: 1.05rem; font-weight: 700;
+      color: rgba(245,230,211,0.55); font-size: 1.05rem; font-weight: 700;
       cursor: pointer; border-bottom: 3px solid transparent;
       transition: color .15s, border-color .15s, background .15s;
       white-space: nowrap; font-family: inherit; border-radius: 6px 6px 0 0;
       flex-shrink: 0;
     }
-    .tab:hover  { color: #c5d0dc; background: rgba(255,255,255,.04); }
-    .tab.active { color: #e8e0d4; border-bottom-color: #C5A059; background: rgba(197,160,89,.08); }
+    .tab:hover  { color: #F5E6D3; background: rgba(255,255,255,0.06); }
+    .tab.active { color: #F5E6D3; border-bottom-color: #C5A059; background: rgba(197,160,89,.08); }
     .tab .icon  { font-size: 1.2em; }
 
     /* ── CMS Launch Button ────────────────────────────────────────── */
@@ -96,12 +96,12 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
     .cms-btn {
       display: flex; align-items: center; gap: .5em;
       margin: auto 0; padding: .45rem 1.1rem;
-      background: #1A365D; color: #e8e0d4; border: none;
+      background: #5D4037; color: #F5E6D3; border: none;
       border-radius: 8px; font-size: .95rem; font-weight: 700;
       cursor: pointer; text-decoration: none; white-space: nowrap;
       transition: background .15s; font-family: inherit; flex-shrink: 0;
     }
-    .cms-btn:hover { background: #254d85; }
+    .cms-btn:hover { background: #E07530; }
     .cms-btn .icon { font-size: 1.1em; }
 
     /* ── Content ──────────────────────────────────────────────────── */
@@ -122,49 +122,49 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
     /* external link panels */
     .ext-panel {
       flex: 1; display: flex; align-items: center; justify-content: center;
-      background: #0f1923;
+      background: #3A2820;
     }
     .ext-card {
-      background: #1a2535; border: 1px solid #2e3d52; border-radius: 16px;
+      background: #4A3228; border: 1px solid rgba(197,160,89,0.25); border-radius: 16px;
       padding: 2.4rem 2.8rem; text-align: center; max-width: 420px;
       box-shadow: 0 8px 40px rgba(0,0,0,.4);
     }
     .ext-card .ext-icon { font-size: 2.8rem; margin-bottom: .8rem; }
     .ext-card h2 { font-size: 1.25rem; color: #C5A059; margin-bottom: .5rem; font-weight: 800; }
-    .ext-card p  { font-size: .85rem; color: #6b7a8d; margin-bottom: 1.6rem; line-height: 1.6; }
+    .ext-card p  { font-size: .85rem; color: rgba(245,230,211,0.5); margin-bottom: 1.6rem; line-height: 1.6; }
     .open-btn {
       display: inline-flex; align-items: center; gap: .5em;
-      background: #1A365D; color: #fff; border: none; border-radius: 10px;
+      background: #5D4037; color: #fff; border: none; border-radius: 10px;
       padding: .75rem 1.8rem; font-size: 1rem; font-weight: 700;
       cursor: pointer; text-decoration: none; transition: background .15s;
     }
-    .open-btn:hover { background: #254d85; }
+    .open-btn:hover { background: #E07530; }
     .open-btn svg { width: 16px; height: 16px; flex-shrink: 0; }
 
     /* ── Private Posts Panel ──────────────────────────────────────── */
     .private-panel {
       flex: 1; overflow-y: auto; padding: 1.4rem 1.8rem;
-      background: #0f1923;
+      background: #3A2820;
     }
     .private-header {
       display: flex; align-items: center; gap: 1rem; margin-bottom: 1.2rem;
     }
     .private-header h2 { font-size: 1.05rem; font-weight: 800; color: #C5A059; }
     .private-count {
-      background: #1a2535; border: 1px solid #2e3d52;
+      background: #4A3228; border: 1px solid rgba(197,160,89,0.25);
       color: #9ab; font-size: 0.78rem; font-weight: 700;
       padding: 0.2em 0.8em; border-radius: 20px;
     }
     .private-cms-link {
-      margin-left: auto; font-size: 0.8rem; color: #7a8fa8;
-      text-decoration: none; border: 1px solid #2e3d52;
+      margin-left: auto; font-size: 0.8rem; color: rgba(245,230,211,0.55);
+      text-decoration: none; border: 1px solid rgba(197,160,89,0.25);
       border-radius: 6px; padding: 0.3em 0.9em;
       transition: border-color .15s, color .15s;
     }
     .private-cms-link:hover { border-color: #C5A059; color: #C5A059; }
     .private-list { display: flex; flex-direction: column; gap: 0.5rem; }
     .private-item {
-      background: #1a2535; border: 1px solid #2e3d52; border-radius: 8px;
+      background: #4A3228; border: 1px solid rgba(197,160,89,0.25); border-radius: 8px;
       padding: 0.8em 1.1em; display: flex; align-items: center; gap: 1em;
       transition: border-color .15s;
     }
@@ -178,7 +178,7 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
     }
     .private-body { flex: 1; min-width: 0; }
     .private-title {
-      font-size: 0.88rem; font-weight: 700; color: #e8e0d4;
+      font-size: 0.88rem; font-weight: 700; color: #F5E6D3;
       text-decoration: none; display: block; line-height: 1.4;
       white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
     }
@@ -188,9 +188,9 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
       white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
     }
     .private-copy {
-      flex-shrink: 0; background: none; border: 1px solid #2e3d52;
+      flex-shrink: 0; background: none; border: 1px solid rgba(197,160,89,0.25);
       border-radius: 6px; padding: 0.3em 0.8em; font-size: 0.73rem;
-      color: #7a8fa8; cursor: pointer; transition: all .15s; white-space: nowrap;
+      color: rgba(245,230,211,0.55); cursor: pointer; transition: all .15s; white-space: nowrap;
     }
     .private-copy:hover { border-color: #C5A059; color: #C5A059; }
     .private-copy.copied { border-color: #48bb78; color: #48bb78; }
@@ -310,7 +310,7 @@ const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
         <div class="private-header">
           <h2>💬 留言管理</h2>
           <span class="private-count" id="comments-count">0 則</span>
-          <button class="private-cms-link" id="comments-refresh" style="cursor:pointer;border:1px solid #2e3d52;border-radius:6px;padding:0.3em 0.9em;background:none;color:#7a8fa8;font-size:0.8rem;">↺ 重新整理</button>
+          <button class="private-cms-link" id="comments-refresh" style="cursor:pointer;border:1px solid rgba(197,160,89,0.25);border-radius:6px;padding:0.3em 0.9em;background:none;color:rgba(245,230,211,0.55);font-size:0.8rem;">↺ 重新整理</button>
         </div>
         <div class="private-list" id="comments-list-mgmt"></div>
       </div>

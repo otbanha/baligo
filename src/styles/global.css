@@ -9,23 +9,23 @@
 }
 
 :root {
-  --ocean: #1A365D;
-  --ocean-mid: #1e3f6e;
-  --ocean-light: #2a5298;
+  --ocean: #5D4037;
+  --ocean-mid: #7B5038;
+  --ocean-light: #9A6447;
   --gold: #C5A059;
   --gold-light: #d4b47a;
   --gold-pale: #f0e0b8;
-  --sand: #ffffff;
+  --sand: #FAF3EB;
   --white: #ffffff;
-  --text: #1a1a1a;
-  --text-light: #555555;
-  --accent: #C5A059;
-  --accent-dark: #9a7a2e;
-  --gray: 96, 115, 159;
-  --gray-light: 229, 233, 240;
-  --gray-dark: 34, 41, 57;
+  --text: #5D4037;
+  --text-light: #7B5038;
+  --accent: #E63946;
+  --accent-dark: #C0392B;
+  --gray: 120, 90, 80;
+  --gray-light: 245, 230, 211;
+  --gray-dark: 93, 64, 55;
   --black: 15, 18, 25;
-  --box-shadow: 0 4px 20px rgba(26, 54, 93, 0.12), 0 8px 40px rgba(26, 54, 93, 0.08);
+  --box-shadow: 0 4px 20px rgba(93, 64, 55, 0.12), 0 8px 40px rgba(93, 64, 55, 0.08);
 }
 
 * {
@@ -68,7 +68,7 @@ html {
 }
 
 body {
-  background-color: #ffffff;
+  background-color: #FAF3EB;
   font-family: 'PingFang TC', 'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
   margin: 0;
   padding: 0;
@@ -107,7 +107,8 @@ h4 { font-size: 1.25em; }
 h5 { font-size: 1.1em; }
 
 strong, b { font-weight: 700; color: var(--ocean); }
-.news-content strong, .news-content b, .news-content a, .news-content * { color: white !important; }
+.news-content strong, .news-content b, .news-content * { color: #5D4037 !important; }
+.news-content a { color: #C0392B !important; }
 .accom-image img, .news-content img { height: 220px !important; object-fit: cover !important; object-position: center; width: 100% !important; }
 
 a {
@@ -285,8 +286,8 @@ h5 { font-size: 1em; }
 /* 第三層：blockquote 內延伸閱讀連結（藥丸標籤風格）
    排除聯盟連結（已有按鈕樣式） */
 .prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]) {
-  color: #0369a1;
-  background-color: #e0f2fe;
+  color: #C0392B;
+  background-color: #FDE8D8;
   padding: 1px 8px;
   border-radius: 4px;
   text-decoration: none;
@@ -294,12 +295,12 @@ h5 { font-size: 1em; }
   font-weight: 500;
 }
 .prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]):hover {
-  background-color: #bae6fd;
-  color: #075985;
-  background-color: #bae6fd;
+  background-color: #F9C9B6;
+  color: #8B3A2A;
+  background-color: #F9C9B6;
 }
 .prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]):visited {
-  color: #075985;
+  color: #8B3A2A;
 }
 
 /* ──────────────────────────────────────────────────────────────────── */

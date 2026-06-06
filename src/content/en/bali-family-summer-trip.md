@@ -19,7 +19,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_95a9642de6dcbc7cdb2619d6cff98c89.jpg'
 originalUrl: 'https://vocus.cc/article/66965df4fd89780001c82960'
 lang: en
-_srcHash: 0ca7e957107092133daa53aa5ae23284
+_srcHash: 58060dfa8075009ec2934a2b87720247
 ---
 
 > The following content was provided by group member [Fish Lee](https://www.facebook.com/groups/baligo/permalink/1575099593037280/):

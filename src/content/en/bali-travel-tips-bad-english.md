@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/65c44c29fd89780001141a3e'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 7cac47a8224d6a398a14315e2533192a
+_srcHash: a755a741a1f3fad0729468835f4b2128
 ---
 Bali is one of Indonesia’s most popular tourist destinations, attracting millions of visitors from around the world every year. Due to the development of tourism, English has gradually become a common language in Bali.
 

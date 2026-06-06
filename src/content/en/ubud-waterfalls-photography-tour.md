@@ -24,7 +24,7 @@ originalUrl: 'https://vocus.cc/article/682f01fafd89780001c5425b'
 category:
   - 遊記分享
 lang: en
-_srcHash: 2dad4747b78569c1e697e1210a87ad44
+_srcHash: d9a16fe8a42077ecf9881ee87a62ec22
 ---
 
 Coming to Bali for vacation, my travel companion and I hoped to create more beautiful memories. Among the many travel options, we decided to book a special itinerary - the "Bali Professional Photographer Day Tour." This package not only offers sightseeing tours but, more importantly, includes a professional photographer who accompanies us throughout the day, using cameras and drones to capture every precious moment. For us, who wanted to take beautiful photos without missing out on the firsthand experience, this arrangement was perfect!

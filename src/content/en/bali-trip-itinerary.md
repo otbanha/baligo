@@ -24,7 +24,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_ef958d756346b42708e089df7f0641c3.png'
 originalUrl: 'https://vocus.cc/article/6858f21efd897800011ea956'
 lang: en
-_srcHash: f2bc427bf23b56c4fe5d70925df25f3b
+_srcHash: 60523d1dc975070972c753a625740d3a
 ---
 
 > The following content is adapted from travelogue shared by group member [Yi Chen Lai](https://www.facebook.com/share/p/1AUuB62LBX/):

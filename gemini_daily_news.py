@@ -1,17 +1,17 @@
 """
-峇里島每日旅遊情報 — Gemini AI 自動生成腳本
+峇里島每日旅遊情報 — Claude AI 自動生成腳本
 
 使用方式：
   python3 gemini_daily_news.py --test       # 只輸出到終端機，不寫入檔案
   python3 gemini_daily_news.py              # 生成文章並寫入 src/content/blog/
 
 環境變數：
-  GEMINI_API_KEY   — Google AI Studio 的免費 API Key
+  ANTHROPIC_API_KEY   — Anthropic API Key
 
 排程設計：
-  - 每天雅加達時間 22:00 執行（UTC+7，即 UTC 15:00）
+  - 每天雅加達時間 20:00 執行（UTC+7，即 UTC 13:00，由 Cloudflare Worker 觸發）
+  - GitHub Actions 備援排程：UTC 15:00
   - pubDate 設為隔天（明天），pubHour 設為 6
-  - 凌晨翻譯排程會將文章翻譯為其他語系
 """
 
 import json
@@ -23,14 +23,10 @@ from datetime import date, timedelta
 from html.parser import HTMLParser
 
 # ── 設定 ──────────────────────────────────────────────────────────────────────
-SCRIPT_DIR      = os.path.dirname(os.path.abspath(__file__))
-CONTENT_DIR     = os.path.join(SCRIPT_DIR, "src/content/blog")
-HISTORY_FILE    = os.path.join(SCRIPT_DIR, "scripts/topics-history.json")
-GEMINI_MODELS   = [
-    "gemini-2.5-flash",
-    "gemini-2.0-flash-lite",
-]
-GEMINI_API_BASE  = "https://generativelanguage.googleapis.com/v1beta/models"
+SCRIPT_DIR       = os.path.dirname(os.path.abspath(__file__))
+CONTENT_DIR      = os.path.join(SCRIPT_DIR, "src/content/blog")
+HISTORY_FILE     = os.path.join(SCRIPT_DIR, "scripts/topics-history.json")
+CLAUDE_MODEL     = "claude-opus-4-7"
 HISTORY_MAX_DAYS = 30
 
 NEWS_CATEGORIES = [
@@ -75,7 +71,9 @@ def fetch_festival_guide() -> str:
                 self.parts.append(data.strip())
 
     try:
-        resp = requests.get(FESTIVAL_GUIDE_URL, timeout=15)
+        resp = requests.get(FESTIVAL_GUIDE_URL, timeout=15, headers={
+            "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+        })
         resp.raise_for_status()
         extractor = _TextExtractor()
         extractor.feed(resp.text)
@@ -249,41 +247,24 @@ TOPICS_JSON: ["話題1", "話題2", "話題3", "話題4", "話題5"]
 """
 
 
-def call_gemini(api_key: str, prompt: str) -> str:
-    import time
+def call_claude(api_key: str, prompt: str) -> str:
+    import anthropic
 
-    payload = {
-        "contents": [{"parts": [{"text": prompt}]}],
-        "tools": [{"google_search": {}}],
-        "generationConfig": {
-            "temperature": 0.7,
-            "maxOutputTokens": 8192,
-        }
-    }
+    client = anthropic.Anthropic(api_key=api_key)
 
-    for model in GEMINI_MODELS:
-        url = f"{GEMINI_API_BASE}/{model}:generateContent?key={api_key}"
-        for attempt in range(3):
-            try:
-                print(f"   嘗試模型 {model}（第 {attempt+1} 次）...")
-                resp = requests.post(url, json=payload, timeout=60)
-                if resp.status_code == 429:
-                    wait = 10 * (attempt + 1)
-                    print(f"   429 rate limit，等待 {wait} 秒後重試...")
-                    time.sleep(wait)
-                    continue
-                resp.raise_for_status()
-                data = resp.json()
-                # google_search grounding 時回應會拆成多個 parts，全部合併
-                parts = data["candidates"][0]["content"]["parts"]
-                return "".join(p.get("text", "") for p in parts)
-            except requests.exceptions.HTTPError as e:
-                if attempt == 2:
-                    print(f"   ⚠️ {model} 失敗：{e}")
-                    break
-                time.sleep(5)
+    print(f"   呼叫 Claude API（{CLAUDE_MODEL}）...")
+    with client.messages.stream(
+        model=CLAUDE_MODEL,
+        max_tokens=8192,
+        tools=[{"type": "web_search_20260209", "name": "web_search"}],
+        messages=[{"role": "user", "content": prompt}],
+    ) as stream:
+        message = stream.get_final_message()
 
-    raise RuntimeError("所有模型都無法呼叫，請確認 API Key 是否正確")
+    return "".join(
+        block.text for block in message.content
+        if hasattr(block, "text")
+    )
 
 
 def parse_response(text: str) -> dict:
@@ -362,10 +343,10 @@ def write_article(content: str, slug: str) -> str:
 def main():
     test_mode = "--test" in sys.argv
 
-    api_key = os.environ.get("GEMINI_API_KEY", "")
+    api_key = os.environ.get("ANTHROPIC_API_KEY", "")
     if not api_key:
-        print("❌ 請設定環境變數 GEMINI_API_KEY")
-        print("   export GEMINI_API_KEY='你的 API Key'")
+        print("❌ 請設定環境變數 ANTHROPIC_API_KEY")
+        print("   export ANTHROPIC_API_KEY='你的 API Key'")
         sys.exit(1)
 
     print("📖 載入話題歷史...")
@@ -378,9 +359,9 @@ def main():
     if festival_guide:
         print(f"   ✅ 取得節慶資料（{len(festival_guide)} 字元）")
 
-    print("🤖 呼叫 Gemini API...")
+    print("🤖 呼叫 Claude API...")
     prompt   = build_prompt(recent_topics, festival_guide)
-    raw_text = call_gemini(api_key, prompt)
+    raw_text = call_claude(api_key, prompt)
 
     print("🔍 解析輸出...")
     parsed   = parse_response(raw_text)

@@ -19,7 +19,7 @@ originalUrl: 'https://vocus.cc/article/66f636b7fd89780001197817'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 81f33476212dab10612d213da496624e
+_srcHash: 55fd01fe1785a588f43df5c019ae4e48
 ---
 However, this doesn't mean travelers can let their guard down completely.
 

@@ -17,7 +17,7 @@ originalUrl: 'https://vocus.cc/article/66c0857afd897800014dceb0'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 36ae8f28bb6654e93d90684367e53145
+_srcHash: 61ceafb80067cb96a341565c038f6cc1
 ---
 
 Bali continues to draw attention due to overtourism, particularly in South Bali, where overcrowding from excessive tourist numbers has become a pressing issue. Since 2023, Bali has been listed by the World Travel & Tourism Council as a hotspot for overtourism, alongside Athens, Paris, and Phuket.

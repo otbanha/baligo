@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/664a105ffd897800010f7f4f'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 1874c1ef5dc1996ba0dd6ed95b32c8da
+_srcHash: d6a740a675710987818b3e52c7aeade4
 ---
 
 Starlink，埃隆·马斯克旗下的卫星互联网服务，终于在印尼正式启动。这对于印尼的互联网市场来说是一个重大变革。作为一个基于卫星的互联网服务，Starlink 旨在提供高速度、低延迟和广泛覆盖，尤其是在传统互联网服务难以到达的地区。

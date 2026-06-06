@@ -16,7 +16,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_692eaecb9dd12eb2a1234bfb9597793e.png'
 originalUrl: 'https://vocus.cc/article/69170335fd89780001bcca63'
 lang: zh-cn
-_srcHash: 210df6e4a219066d1cf491ee0f8c3079
+_srcHash: 554c2fa1f6d4b2120a6a2c5a1598e830
 ---
 
 > 以下内容改编自团友 [Pinkey Lo 分享游记](https://www.facebook.com/share/p/1XMLomzb3h/)：

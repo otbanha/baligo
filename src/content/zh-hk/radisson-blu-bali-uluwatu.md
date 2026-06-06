@@ -21,7 +21,7 @@ agoda_star_rating: 5
 latitude: -8.80953311920166
 longitude: 115.10897064208984
 lang: zh-hk
-_srcHash: ab58a3aedf918f5d2f930aec5b559b9e
+_srcHash: 6bab9cb0db599b70818f75ff069ec304
 ---
 ## 峇里島烏魯瓦圖麗笙布魯酒店：懸崖上嘅奢華秘境，擁抱印度洋嘅絕美風光，榮獲「2023 Travelers' Choice」大獎
 

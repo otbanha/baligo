@@ -25,7 +25,7 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: e2ee01a4b837bd83fe38ed2d8bfc2826
+_srcHash: d02ad24dfa5b6bac230ad9c1028ec777
 ---
 
 如果你最近搜索巴厘岛的新闻，可能会看到这样的画面：路边一袋一袋堆到腰部高的垃圾、飘散恶臭的河流、民众在空地点火燃烧废弃物、数百辆垃圾车开到省长办公室前抗议……

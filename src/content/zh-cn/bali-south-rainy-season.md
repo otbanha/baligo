@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_6cb63d911d81b443322718ad53493ea0.png'
 originalUrl: 'https://vocus.cc/article/670fc5b2fd89780001cea7ee'
 lang: zh-cn
-_srcHash: 0147a0b5b1b2eacfad00da0219bd3aa8
+_srcHash: bbf4af24abf3da2eda3f05ae05534485
 ---
 
 想到巴厘岛,许多人脑海中浮现的是阳光、沙滩与冲浪的景象。但作为热带地区,巴厘岛也有其独特的雨季。今天就让我们来探讨巴厘岛南部地区的雨季降雨情况。

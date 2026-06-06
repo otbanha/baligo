@@ -31,7 +31,7 @@ agoda_star_rating: 5
 latitude: -8.684345245361328
 longitude: 115.15927124023438
 lang: zh-cn
-_srcHash: e55c53ddb14a9d471f2c586975326c67
+_srcHash: 7ed2ebb005462493084e271330eacd62
 ---
 
 如果你想住在水明漾的正中心、步行就能到处逛、回酒店还有屋顶泳池可以看夕阳，那 Cross Paasha Bali Seminyak 这间四星设计风精品酒店很值得考虑。这间酒店以前叫 U Paasha，后来改名 Cross Paasha，位置一样在 Jl. Laksmana 77 号，Kayu Aya 街的核心地带，99间房全是套房等级，格局宽敞、设计感强，是水明漾这一带性价比颇高的选择之一。

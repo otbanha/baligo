@@ -320,6 +320,27 @@ export const mapBlogMapping: Record<string, MapBlogLink> = {
       keyword: "峇里島蔬食餐廳推薦",
     },
   },
+
+  "family-parks": {
+    blogUrl: "https://gobaligo.id/blog/top-10-kids-attractions-in-bali/",
+    altBlogUrls: [
+      "https://gobaligo.id/blog/waterbom-bali-water-park-guide/",
+      "https://gobaligo.id/blog/bali-safari-night-experience/",
+      "https://gobaligo.id/blog/marine-safari-bali-guide/",
+      "https://gobaligo.id/blog/Bali-Exotic-Marine-Park/",
+      "https://gobaligo.id/blog/bali-bird-park-guide/",
+      "https://gobaligo.id/blog/aeroxspace-sanur-indoor-playground/",
+      "https://gobaligo.id/blog/trans-studio-bali/",
+      "https://gobaligo.id/blog/Bali-Reptile-Park/",
+    ],
+    blogTitle: "峇里島十大親子樂園完全攻略",
+    teaser: "水上樂園、野生動物園、海豚體驗，十大親子必玩景點一次收錄",
+    anchors: {
+      full: "峇里島十大親子樂園完全攻略",
+      verb: "查看親子樂園互動地圖",
+      keyword: "峇里島親子樂園地圖",
+    },
+  },
 };
 
 /**

@@ -21,7 +21,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cbcb3dcfef832d05b8df6806e839d3e2.jpg'
 originalUrl: 'https://vocus.cc/article/68134e91fd89780001ab5b55'
 lang: zh-cn
-_srcHash: 1499901accd66b27c7bf628664b92a7b
+_srcHash: 0f8611ca38d7e7de846caea36b84a0c1
 ---
 
 来到巴厘岛文化心脏乌布，绝对不能错过这家近期在IG上疯狂刷屏的一日泳池俱乐部——Wanna Jungle Pool & Bar！这个拥有绝美景观的三层式无边泳池，早已成为网红们的打卡圣地。

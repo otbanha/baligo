@@ -14,7 +14,7 @@ tags: []
 heroImage: 'https://images.gobaligo.id/vocus/vocus_7e422c64a9520ef57fbcbfed1a508d2e.png'
 originalUrl: 'https://vocus.cc/article/685b8c4ffd89780001f4fc01'
 lang: en
-_srcHash: 49891bda4b97eddb5a565f06a0570e3c
+_srcHash: 3a31ae50ed5d048579cb422a3e04925f
 ---
 
 ## **Why You Can't Miss the Silversmith Experience in Bali**

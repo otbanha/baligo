@@ -19,7 +19,7 @@ update: 2026/05/23
 heroImage: 'https://images.gobaligo.id/vocus/vocus_08443e3681ae1c13cb3f955183588745.jpg'
 originalUrl: 'https://vocus.cc/article/6948d8cafd89780001031e78'
 lang: en
-_srcHash: ba90141e0e36873a5f831d4ad7af696f
+_srcHash: 5f42cf07ea9e5fa746adbe33f720df91
 ---
 > The following content is adapted from fellow traveler [Liao Yiwen](https://www.facebook.com/share/p/1CjoK9BEFX/)'s travelogue:
 

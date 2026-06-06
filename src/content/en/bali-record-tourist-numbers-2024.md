@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/66d6610afd8978000151ae25'
 category:
   - 旅行技巧
 lang: en
-_srcHash: 590f9445dd0ebe7fb65e9e2e1fc94d5d
+_srcHash: afe434a51540b832f64740fd5b8e4dd3
 ---
 As mid-2024 approaches, Bali is experiencing its busiest year for international tourism on record. New data shows that by the end of July 2024, the number of international tourists visiting Bali has already surpassed the total for the entire year of 2019, pre-pandemic. This 'Island of the Gods' is attracting a large number of vacationers, digital nomads, expats, and international investors.
 

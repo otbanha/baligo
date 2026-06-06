@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/68bf8728fd897800013427c2'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: 558a3a77af5bc6d94b9cf442e21968a3
+_srcHash: 00c8e3f6eb9fbe4a8796b7201dd4a648
 ---
 
 ## **很多人都在问：需要打印吗？**

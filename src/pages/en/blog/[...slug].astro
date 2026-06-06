@@ -8,29 +8,117 @@ import matter from 'gray-matter';
 export async function getStaticPaths() {
   const blogPosts = await getCollection('blog');
   const langPosts = await getCollection('en');
-  const langMap = new Map(langPosts.map(p => [p.id, p]));
 
-  return blogPosts.map((blogPost) => ({
-    params: { slug: blogPost.data.slug || blogPost.id },
-    props: {
-      post: langMap.get(blogPost.id) ?? blogPost,
-    },
-  }));
+  // 讀取實際檔案名，為舊檔案名生成路由
+  const blogDir = join(process.cwd(), 'src/content/blog');
+  const langDir = join(process.cwd(), 'src/content/en');
+  const fileNameMap = new Map<string, string>(); // slug -> 檔案名（不含副檔名）
+
+  for (const dir of [blogDir, langDir]) {
+    const files = readdirSync(dir).filter(f => f.endsWith('.md') || f.endsWith('.mdx'));
+    for (const file of files) {
+      try {
+        const content = readFileSync(join(dir, file), 'utf-8');
+        const { data } = matter(content);
+        const slug = data.slug || file.replace(/\.(md|mdx)$/, '');
+        const fileId = file.replace(/\.(md|mdx)$/, '');
+        fileNameMap.set(slug, fileId);
+      } catch (e) {}
+    }
+  }
+
+  // Create maps by slug for matching
+  const langMapBySlug = new Map(langPosts.map(p => [(p.data.slug || p.id), p]));
+
+  // Combine both collections, preferring en collection if available by slug
+  const usedSlugs = new Set<string>();
+  const paths: any[] = [];
+  let compatCount = 0;
+
+  // Add entries from blog collection, preferring en collection version if available by slug
+  for (const blogPost of blogPosts) {
+    const slug = blogPost.data.slug || blogPost.id;
+    usedSlugs.add(slug);
+    // Prefer en collection version if available
+    const post = langMapBySlug.get(slug) ?? blogPost;
+    paths.push({
+      params: { slug },
+      props: { post },
+    });
+
+    // 為舊檔案名生成路由
+    const oldFileId = fileNameMap.get(slug);
+    if (oldFileId && oldFileId !== slug) {
+      paths.push({
+        params: { slug: oldFileId },
+        props: { post },
+      });
+      compatCount++;
+    }
+  }
+
+  // Add entries from en collection that don't have a blog version (by slug)
+  let enOnlyCount = 0;
+  for (const langPost of langPosts) {
+    const slug = langPost.data.slug || langPost.id;
+    if (!usedSlugs.has(slug)) {
+      enOnlyCount++;
+      paths.push({
+        params: { slug },
+        props: { post: langPost },
+      });
+
+      // 為舊檔案名生成路由
+      const oldFileId = fileNameMap.get(slug);
+      if (oldFileId && oldFileId !== slug) {
+        paths.push({
+          params: { slug: oldFileId },
+          props: { post: langPost },
+        });
+        compatCount++;
+      }
+    }
+  }
+
+  console.log(`✅ 英文版本: ${paths.length} 路由（${blogPosts.length}+${enOnlyCount}+${compatCount}），fileNameMap: ${fileNameMap.size}`);
+
+  return paths;
 }
 
 const { post } = Astro.props;
 const { Content, headings } = await render(post as any);
 
 const blogDir = join(process.cwd(), 'src/content/blog');
+const enDir = join(process.cwd(), 'src/content/en');
 let rawEmbeds: any[] = [];
+let rawDrivers: any[] = [];
+let rawIsDriverGuide: boolean = false;
+let rawIsSpaGuide: boolean = false;
 let firstImage: string = post.data.heroImage || '';
+
 try {
-  const files = readdirSync(blogDir);
-  const matchFile = files.find(f => f.replace(/\.mdx?$/, '') === post.id);
-  if (matchFile) {
-    const raw = readFileSync(join(blogDir, matchFile), 'utf-8');
-    const { data, content } = matter(raw);
+  // Try to find file in blog directory first
+  let matchFile = readdirSync(blogDir).find(f => f.replace(/\.mdx?$/, '') === post.id);
+  let fileContent = '';
+
+  // If not found in blog, look in en directory
+  if (!matchFile) {
+    const enFiles = readdirSync(enDir);
+    matchFile = enFiles.find(f => f.replace(/\.mdx?$/, '') === post.id);
+    if (matchFile) {
+      fileContent = readFileSync(join(enDir, matchFile), 'utf-8');
+    }
+  } else {
+    fileContent = readFileSync(join(blogDir, matchFile), 'utf-8');
+  }
+
+  if (fileContent) {
+    const { data, content } = matter(fileContent);
     rawEmbeds = data.embeds || [];
+    rawDrivers = data.drivers || [];
+    rawIsDriverGuide = data.isDriverGuide || false;
+    rawIsSpaGuide = data.isSpaGuide || false;
+
     if (!firstImage) {
       const imgMatch = content.match(/!\[.*?\]\((https?:\/\/[^)]+)\)/);
       if (imgMatch) firstImage = imgMatch[1];
@@ -42,8 +130,10 @@ const embedMap: Record<string, {platform: string, url: string}> = {};
 rawEmbeds.forEach((e: any) => {
   embedMap[e.position] = { platform: e.platform, url: e.url };
 });
+
+// Use manually parsed drivers/isDriverGuide/isSpaGuide since Astro content loader doesn't pick them up from YAML
 ---
 
-<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="en" slug={post.id}>
+<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="en" slug={post.id} drivers={rawDrivers} isDriverGuide={rawIsDriverGuide} isSpaGuide={rawIsSpaGuide}>
   <Content />
 </BlogPost>

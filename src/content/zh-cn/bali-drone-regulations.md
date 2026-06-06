@@ -30,12 +30,13 @@ heroImage: https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
+  https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
 originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: 4f99bf80c4595af557d64b313093a6ba
+_srcHash: 8b7fd23b3005a8c50bdd1b7b377163e7
 ---
 
 休闲玩家免申请也能飞的超简单懒人包，附禁飞区＆实用 checklist

@@ -18,7 +18,7 @@ tags:
   - IZE Seminyak rooftop pool
   - Best value design hotel in Seminyak Bali
 update: 2026/05/22
-heroImage: ''
+heroImage: 'https://images.gobaligo.id/images/2026-04/1776244750774-mixcollage-15-apr-2026-04-18-pm-2978.jpg'
 originalUrl: ''
 private: false
 shuffle_h2: false

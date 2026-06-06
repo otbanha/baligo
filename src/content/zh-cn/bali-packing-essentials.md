@@ -16,7 +16,7 @@ originalUrl: 'https://vocus.cc/article/68d13539fd89780001b06dfc'
 category:
   - 旅行技巧
 lang: zh-cn
-_srcHash: 0daacaddd739bd968d97f0ccaaf97cba
+_srcHash: 7021f056889922c1f719d31dc1a67f1f
 ---
 
 前往巴厘岛度假，除了行程安排与住宿选择，行李里的衣物更是影响旅程舒适度的关键。热带气候全年高温潮湿，白天阳光强烈，夜晚则可能稍凉。为了让你的旅行更自在，以下我们整理了**8种必带衣物**，让你无论走在沙滩、寺庙还是集市，都能舒适又有型。

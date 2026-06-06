@@ -14,7 +14,7 @@ originalUrl: 'https://vocus.cc/article/6710b4ecfd89780001cea90d'
 category:
   - 簽證通關
 lang: zh-cn
-_srcHash: aebb9c6e3f0f53a212b5a9e2a8e721f1
+_srcHash: 95ffa0bf6c9a0f91256a4c6f8c7096fa
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fe9cede54dcbc6979f0382bbc3d2c50f.png)

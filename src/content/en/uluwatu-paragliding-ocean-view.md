@@ -23,7 +23,7 @@ originalUrl: 'https://vocus.cc/article/6814aa9efd89780001f68acc'
 category:
   - 美食景點活動
 lang: en
-_srcHash: 386587339d5129e9a0800371360bffca
+_srcHash: 2b8f5f915c6b6257a4b5c202700f8f5c
 ---
 
 I've always been a scaredy-cat who wouldn't even dare to ride roller coasters. Every time I see photos of others high up in the sky, I feel both envious and terrified. This time in Bali, I finally gathered my courage and decided to challenge myself with my first paragliding experience! Honestly, my hands were shaking when I made the booking, and all sorts of scary scenarios kept popping into my head: What if I suddenly fall? What if the wind is too strong? But looking back now, all those worries were completely unnecessary~

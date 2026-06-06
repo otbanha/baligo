@@ -19,7 +19,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_b019f571fcb856c03c3c31c9e0d0c9a5.png'
 originalUrl: 'https://vocus.cc/article/67b81b4cfd89780001b4a261'
 lang: en
-_srcHash: 1175f617f5dc9811cb16101f3039d19e
+_srcHash: 9fbf5a441efccb68fa30ed70a9866c86
 ---
 
 Sanur Beach in Bali is an ideal choice for family travel with its serene atmosphere and family-friendly environment. Compared to bustling areas like Kuta and Seminyak, Sanur offers a more tranquil experience, allowing both parents and children to enjoy a relaxing vacation.
