@@ -289,6 +289,7 @@ const PINNED_ARTICLES = [
                'baby', 'toddler', 'infant', 'child friendly'],
     articles: [
       { title: '【峇里島親子遊】峇里島家庭親子友善景點大全｜巴里島超過100樣適合親子同樂活動', url: '/blog/bali-family-travel-guide/' },
+      { title: '峇里島親子必去景點 TOP 10：孩子最愛的活動與樂園推薦', url: '/blog/top-10-kids-attractions-in-bali/' },
       { title: '峇里島親子樂園：十五家擁有滑水道溜滑梯的親子渡假村 TOP 15', url: '/blog/bali-family-resorts-water-slides/' },
       { title: '峇里島18家 kids club 親子度假村｜庫塔、水明漾、長谷、金巴蘭、烏魯瓦圖、烏布適合家庭度假的最佳選擇', url: '/blog/bali-family-resorts-kids-club/' },
     ],
