@@ -468,7 +468,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v18'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v19'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
@@ -847,7 +847,7 @@ export async function onRequestPost(context) {
       'Authorization': `Bearer ${env.DEEPINFRA_API_KEY}`,
     },
     body: JSON.stringify({
-      model: 'deepseek-ai/DeepSeek-V3',
+      model: 'deepseek-ai/DeepSeek-V4',
       max_tokens: OUTPUT_MAX_TOKENS,
       temperature: 0.2,
       stream: true,
