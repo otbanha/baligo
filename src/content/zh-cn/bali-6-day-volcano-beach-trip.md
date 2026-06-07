@@ -1,20 +1,21 @@
 ---
-slug: bali-6-day-volcano-beach-trip
 title: 【巴厘岛游记】六天五夜探索火山、沙滩、跳岛之旅体验分享
+slug: bali-6-day-volcano-beach-trip
 description: 巴厘岛之旅充满了美好的回忆，我们不仅感受到了这片土地的独特魅力，还遇到了两位非常出色的包车司机，他们为我们的旅程增添了...
-pubDate: '2024-05-07'
-heroImage: 'https://images.gobaligo.id/vocus/vocus_cccd829872b263271c23146285dbe1cb.jpg'
+pubDate: 2024-05-07T00:00:00.000Z
+pubHour: null
+category:
+  - 遊記分享
 tags:
   - 峇里島
   - 峇里島遊記
   - 峇里島旅遊
   - 巴里島
   - 自由行
+heroImage: 'https://images.gobaligo.id/vocus/vocus_cccd829872b263271c23146285dbe1cb.jpg'
 originalUrl: 'https://vocus.cc/article/66284452fd89780001867c6a'
-category:
-  - 遊記分享
 lang: zh-cn
-_srcHash: e6bf45a762fdc468a21d1f23b4bf239f
+_srcHash: e4042ce666b27872881f27d934e89bc4
 ---
 
 我们的脸书社团团友[戴妤珊](https://www.facebook.com/100002382562993/)跟朋友的六天五夜游记，特此提供给我们编辑/转载：
@@ -25,10 +26,6 @@ _srcHash: e6bf45a762fdc468a21d1f23b4bf239f
 
 这次的巴厘岛之旅充满了美好的回忆，我们不仅感受到了这片土地的独特魅力，还遇到了两位非常出色的包车司机，他们为我们的旅程增添了许多色彩和温馨。
 
-![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_f0011bf339780668547922ba283e3005.jpg)
-
-戴妤珊提供
-
 首先要介绍的是我们前三天的司机Komang Sucika。他不仅极具温暖又沉稳的个性，还对巴厘岛的每个角落了如指掌。我们在沟通中感受到他的迅速回应和丰富的建议。第一天，他在机场接我们后，还带我们找了一家汇率极佳的换钱处，这让我们对他的信任度大增。他的英文流利，不仅能为我们介绍巴厘岛的故事，还能分享一些有趣的趣闻。而且，他开车平稳，让我上车后不到五分钟就能安心入眠。在第三天结束时，他还送了我们两大袋的山竹，这份贴心让我们感动不已。
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_e88eb06481d0d9983651d72fa822075e.jpg)
@@ -37,7 +34,7 @@ _srcHash: e6bf45a762fdc468a21d1f23b4bf239f
 
 > 山竹什么季节最好？请看：[热带水果女王-印尼/巴厘岛山竹的产季](/blog/bali-mangosteen-season/)
 
-每天早上，他都准时到别墅接我们，而且对我们的需求总是能迅速地给予回应。我们想要找书店时，他马上打电话给书店，用印尼语询问店员。即使在百沙基母庙，他也会在我们下车前提醒我们注意事项。能够遇到Komang Sucika这样的司机，我们感到非常幸运！他的服务已经远超出他收取的价格，我们给予了他丰厚的小费，因为我们认为他绝对值得更多。
+每天早上，他都准时到villa接我们，而且对我们的需求总是能迅速地给予回应。我们想要找书店时，他马上打电话给书店，用印尼话询问店员。即使在百沙基母庙，他也会在我们下车前提醒我们注意事项。能够遇到Komang Sucika这样的司机，我们感到非常幸运！他的服务已经远超出他收取的价格，我们给予了他丰厚的小费，因为我们认为他绝对值得更多。
 
 **Komang Sucika联系方式：**
 
@@ -45,13 +42,13 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 > 巴厘岛要给小费吗？小费怎么给？巴厘岛各种场合的小费要给多少？[请看这里](https://youtu.be/B_oT905RkQw)
 
-后三天，我们换了另一位司机，底下将会介绍他。两位司机都有着不同的个性，一位成熟温暖，一位则热情活泼。有了他们的帮助，我们的六天行程过得非常愉快！
+后三天，我们换了另一位司机，下面将会介绍他。两位司机都有着不同的个性，一位成熟温暖，一位则热情活泼。有了他们的帮助，我们的六天行程过得非常愉快！
 
 这次巴厘岛之行让我们深深着迷，我们不仅爱上了这片土地的美景，还深深被当地人的善良与热情所感动。如果有机会再次造访巴厘岛，我相信是因为我们对这里的思念和情感。我要强力推荐这两位司机，他们绝对会为你的巴厘岛之旅增添许多美好的回忆！
 
 接下来，让我们来回顾一下我的行程吧：
 
-## 第一天（库塔/坎古）：
+## 第一天（库塔/坎古）
 
 - 我们从新加坡转机，到达巴厘岛的时间是13:25
 - 换钱
@@ -61,17 +58,17 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 戴妤珊提供
 
-- 晚餐：La Brisa Bali 风景超美！真的推荐你们来这里度过一个悠闲的傍晚！
+- 晚餐：La Brisa Bali 风景超美！真的推荐你们来这里度过一个悠闲的傍晚!
+
+https://youtu.be/3QDzs8Vjn1w
 
 视频由戴妤珊提供
 
 > La Brisa详细介绍/如何预约？请看：[被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱颖而出？](/blog/canggu-la-brisa-restaurant-guide/)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
+{{block:canggu}}
 
-想了解更多坎古攻略？[请点击这里](/blog/canggu-guide/)
-
-## 第二天(乌布)：
+## 第二天(Ubud)
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_936839680fbf5ee6d6185c2862048c20.jpg)
 
@@ -82,9 +79,9 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 > 乌布闹区如何逛？请看[乌布市中心逛街攻略](/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
 
-- 德哥拉朗梯田
+- 德格拉朗梯田
 
-> 🌾🏞️🍃德哥拉朗梯田是巴厘岛必访景点，层层绿意与日落美景，令人流连忘返！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)
+> 🌾🏞️🍃德格拉朗梯田是巴厘岛必访景点，层层绿意与日落美景，令人流连忘返！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)
 
 - 圣泉寺
 
@@ -102,7 +99,7 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 - 点心：Tukies cocount shop（椰子冰）
 - 晚餐：Nomad Restaurant（印尼传统料理）
 
-## 第三天(Kintamani)：
+## 第三天(Kintamani)
 
 - Paperhills（观赏巴杜尔/金塔玛尼火山）
 
@@ -110,11 +107,11 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 戴妤珊提供
 
-> Klook优惠：  
-> 巴杜尔/[金塔马尼网红咖啡厅之旅（含四驱吉普车日出＆摄影体验）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82561-kintamani-paperhills-sunrise-coffee-jeep-ubud-tour-tegalalang%2F%3Fspm%3DShoppingCart.SearchSuggest_LIST%26clickId%3D066c0d4a58)
+> Klook优惠：
+> 巴杜尔/[金塔马尼网美咖啡厅之旅（含四驱吉普车日出＆摄影体验）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82561-kintamani-paperhills-sunrise-coffee-jeep-ubud-tour-tegalalang%2F%3Fspm%3DShoppingCart.SearchSuggest_LIST%26clickId%3D066c0d4a58)
 
 - 百沙基母庙
-- Lempuyang Temple（传说中的天空之门。不推荐，景点不如预期）
+- Lempuyang Temple（传说中的天空之门. 不推荐，景点不如预期）
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_8767b734062caf5be564105cd1f63416.jpg)
 
@@ -124,7 +121,9 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a1538d93829cb024ee3566067b302ce2.jpg)
 
-## 第四天（坎古/库塔/金巴兰）：
+{{block:ubud}}
+
+## 第四天(坎古/库塔/金巴兰)：
 
 - 海神庙
 
@@ -132,30 +131,30 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 戴妤珊提供
 
-- 库塔海滩
-- 库塔艺术市场
+- Kuta Beach
+- Kuta Art Market
 - Rock Bar
+
+https://youtu.be/0oiv9Ix_3Oc
 
 视频由戴妤珊提供
 
-- 按摩：The Calma Spa Bali - 金巴兰海滩（价格较高但值得，是我们行程中最棒的按摩店之一）
+- 按摩：The Calma Spa Bali - Jimbaran Beach（价格较高但值得，是我们行程中最棒的按摩店之一）
 - 按摩：MOKSHA SPA（库塔区，脚部按摩和去角质都很舒适又实惠）
 - 午餐：Babi Guling Men Lari（烤乳猪很好吃）
 - 晚餐：Waroeng Kampoeng（当地人常去的热炒店，非常地道）
 
-## 第五天（努沙佩尼达）：
+## 第五天(努沙佩尼达)
 
-- 努沙佩尼达岛跳岛一日游
+- Nusa Penida 跳岛一日游
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_d2796b29117cd8583b9175a53996bfd9.jpg)
 
 戴妤珊提供
 
-> 请参考这里：
+{{block:penidaklook}}
 
-> [【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)
-
-## 第六天（乌鲁瓦图）：
+## 第六天(Uluwatu)
 
 - 乌鲁瓦图寺庙
 
@@ -163,28 +162,32 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 戴妤珊提供
 
-- Suluban海滩（美丽的沙滩！）
+- Suluban Beach（美丽的沙滩！）
+
+https://youtu.be/hQbBTktqEqY
 
 看小杰的视频介绍
 
 - 按摩：The Calma Spa Bali
 - 购物：Bali Banana（买伴手礼）
 
-这次的旅程让我们收获满满，如果你正计划着巴厘岛之旅，不妨参考一下我的行程喔！
+{{block:伴手禮}}
+
+这次的旅程让我们收获满满，如果你正计划着巴厘岛之旅，不妨参考一下我的行程哦！
 
 ## 【巴厘岛包车司机推荐 Part 2】
 
-在这次巴厘岛之旅中，我们遇到了第二位司机Odon。在社团里，有许多人都极力推荐他，而我选择他的原因是因为我计划在第四天前往Rock bar，而听说他能帮忙订位。这一点吸引了我，于是后三天我们决定选择了他的包车服务。
+在这次巴厘岛之旅中，我们遇到了第二位司机Odon。在社群里，有很多人都极力推荐他，而我选择他的原因是因为我计划在第四天前往Rock bar，而听说他能帮忙订位。这一点吸引了我，于是后三天我们决定选择他的包车服务。
 
-Odon在Rock bar表现得非常出色！他可以帮助我们通过员工通道，并且有权选择座位（这点非常重要！），而且不需要最低消费，甚至可以选择已被预订的座位。我强烈建议想去Rock bar的人一定要选择他的包车服务，因为一般游客要排长队才能进入，只有住在Rock bar所在酒店的客人才能预订。
+Odon在Rock bar表现得非常出色！他可以帮助我们通过员工通道，并且有权选择座位（这点非常重要！），而且不需要低消，甚至可以选择已被预订的座位。我强烈建议想去Rock bar的人一定要选择他的包车服务，因为一般游客要排长队才能进入，只有住在Rock bar所在酒店的客人才能预订。
 
 Odon给人的感觉与前一位司机完全不同。他给人的感觉就像是一个好朋友，非常热情友好，而且非常风趣幽默。他的英文非常口语易懂，而且乐于推荐餐厅和按摩店。
 
 他带我们去了一家当地人非常喜欢的海鲜餐厅，价格便宜而且美味，我们甚至连续两天都去那里用餐。在车上，Odon一直和我们聊天，还会一边介绍景点，一边与我们互动。当我们遇到跳岛时的问题，他也能快速地帮我们解决。
 
-而且，他还可以协助处理跳岛的船票和岛上的司机安排。佩尼达岛真的是个美丽的地方！我们选择了一个紧凑的行程，东岸和西岸都去了，时间非常赶。我建议想悠闲游玩的人可以考虑在那里住宿。
+而且，他还可以协助处理跳岛的船票和岛上的司机安排。佩尼达岛真是个美丽的地方！我们选择了一个紧凑的行程，东岸和西岸都去了，时间非常赶。我建议想悠闲游玩的人可以考虑在那里住宿。
 
-最后一天，Odon带我们去了乌鲁瓦图寺庙，一边陪我们逛一边介绍，还帮我们拍了许多美丽的照片，并推荐了一家不错的伴手礼店。他给我们的感觉就像是一位巴厘岛的好朋友一样！
+最后一天，Odon带我们去了乌鲁瓦图庙，一边陪我们逛一边介绍，还帮我们拍了许多美丽的照片，并推荐了一家不错的伴手礼店。他给我们的感觉就像是一位巴厘岛的好朋友一样！
 
 我很喜欢这两位司机，而大家可以根据自己的需求选择合适的司机。
 
@@ -196,8 +199,6 @@ Odon的联系方式： WHATSAPP：085738149995/ID LINE：drmwn8
 
 您觉得妤珊他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程喔！
 
-![點擊這裡觀看更多峇里島精彩遊記](https://images.gobaligo.id/vocus/vocus_d6cd71fc4595d1282ecceaefad1543fe.jpg)
+{{block:遊記}}
 
-点击这里观看更多巴厘岛精彩游记
-
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+{{block:攻略}}

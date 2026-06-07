@@ -1,21 +1,23 @@
 ---
+title: 巴厘岛六日自由行Nusa Penida跳岛攻略
 slug: nusa-penida-island-hopping-guide
-title: 巴厘岛六日自由行努沙佩尼达跳岛攻略
 description: >-
-  这是我们社团网友「Sophie」在巴厘岛度过的六天精彩自由行程！有许多参考了「小杰印尼」的视频和我们「巴厘岛旅游攻略」的精彩攻略的组合。让我们一起看看这段她自己安排的充满冒险和探索旅程吧！
-pubDate: '2024-01-28'
-heroImage: 'https://images.gobaligo.id/vocus/vocus_2eb0a8dae04d24a5cfc262605f45386b.jpg'
+  这是我们社团网友「Sophie）」在巴厘岛度过的六天精彩自由行程！有许多参考了「小杰印尼」的视频和我们「巴厘岛旅游攻略」的精彩攻略的组合。让我们一起看看这段她自己安排的充满冒险和探索旅程吧！
+pubDate: 2024-01-28T00:00:00.000Z
+pubHour: null
+category:
+  - 遊記分享
 tags:
   - 自由行
   - 行程參考
   - 峇里島
   - 巴里島
   - 自由行攻略
+heroImage: 'https://images.gobaligo.id/vocus/vocus_2eb0a8dae04d24a5cfc262605f45386b.jpg'
 originalUrl: 'https://vocus.cc/article/65b51f59fd89780001e498d4'
-category:
-  - 遊記分享
+update: 2026/05/22
 lang: zh-cn
-_srcHash: b54e7a796abcdfa650bb1e7a7d0fc67b
+_srcHash: 7159a1427bd56cdb2466cd38f68893d0
 ---
 
 这是我们社团网友「[Sophie](https://www.facebook.com/soficia.chen)」在巴厘岛度过的六天精彩自由行程！有许多参考了「[小杰印尼](https://www.youtube.com/@j_indonesia)」的视频和我们「巴厘岛旅游攻略」的精彩攻略的组合。让我们一起看看这段她自己安排的充满冒险和探索旅程吧！
@@ -26,14 +28,14 @@ Sophie的六天巴厘岛自由行游记分享
 
 ## 包车司机
 
-结束巴厘岛旅程，一定要大推的是在社团做功课的时候，看到好几个朋友推荐的[Bali Holiday](https://www.facebook.com/groups/131689774044943/user/100003073009455/?__cft__[0]=AZWUDONagxVm7JsgBm2WdhepW0eDJiHh-LlIlNmNsEyC1lsnYFIKmLhjW-L-dK3uep2FUOdV2Y553XdF4z2WnX1k8eyJyd8Ouf5JRmESHhsC5boGW6fJPlGjg_COtPspoB05AWGk3y6ko91B-ULJE0SeoXJWjk9hPkVl-AQZ5S4Ockwds9lQMm_eqhqycJOZh30&__tn__=-]K-R)的❤️Awan❤️  
-他的坐骑是超级骚包的🔥BlackPink🔥  
-我找司机的过程中问过三位，他是其中回复最快也最细心的一位，给我的初印象很好好  
+结束巴厘岛旅程，一定要大推的是在社团做功课的时候，看到好几个朋友推荐的[Bali Holiday](https://www.facebook.com/groups/131689774044943/user/100003073009455/?__cft__[0]=AZWUDONagxVm7JsgBm2WdhepW0eDJiHh-LlIlNmNsEyC1lsnYFIKmLhjW-L-dK3uep2FUOdV2Y553XdF4z2WnX1k8eyJyd8Ouf5JRmESHhsC5boGW6fJPlGjg_COtPspoB05AWGk3y6ko91B-ULJE0SeoXJWjk9hPkVl-AQZ5S4Ockwds9lQMm_eqhqycJOZh30&__tn__=-]K-R)的❤️Awan❤️
+他的坐骑是超级骚包的🔥BlackPink🔥
+我找司机的过程中问过三位，他是其中回复最快也最细心的一位，给我的初印象很好好
 实际上，后来的旅程中有了他一切都很完美😍
 
 他会：
 
-- 👏以合理价格帮忙定漂流的票
+- 👏以合理价格帮忙定泛舟的票
 - 👏英文沟通完全没问题
 - 👏可以配合所有行程变动
 - 👏我们有帮家人庆生，他在金巴兰推荐餐厅并帮我们安排蛋糕及乐队合唱，非常细心
@@ -45,7 +47,7 @@ Sophie的六天巴厘岛自由行游记分享
 - **15:20**：抵达巴厘岛机场，准备展开巴厘岛之旅。司机提到虽然是雨季，但已经很久没下雨了。
 - **16:00**：抵达机场，转换一些当地货币。建议找一家可靠的换汇处。
 
-> （延伸阅读：[关于换汇你必须知道的全部懒人包](/blog/bali-currency-exchange-guide/)）
+（延伸阅读：[关于换汇你必须知道的全部懒人包](/blog/bali-currency-exchange-guide/)）
 
 - **18:00**：品尝水上发呆亭脏鸭饭的绝佳选择 - [Bebek Tebasari Resto](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6380339e0f)。这是一家非常值得推荐的餐厅。
 
@@ -75,7 +77,11 @@ Tis Cafe 图：Sophie提供
 
 - **14:00**：探索圣猴森林，并参观Pura Saraswati水皇宫。
 
+https://youtu.be/hYkf6sjCtqg
+
 - **17:30**：品尝美味的Tukies Coconut Shop椰子冰淇淋，在乌布市区街头逛逛。
+
+https://youtu.be/JtxZHtijEkE
 
 乌布市区攻略：Tukies Coconut Shop在哪儿？市区逛什么？
 
@@ -83,78 +89,88 @@ Tis Cafe 图：Sophie提供
 
 ## 1/20第三天：乌布探险和Nusa Penida岛
 
-在乌布度过毛毛雨的上午，然后前往Penida岛
+在乌布度过毛毛雨的上午，然后前往佩尼达岛
 
-- **09:00** [Omma Dayclub](/blog/ubud-omma-dayclub-tegenungan-waterfall/) 巴厘瀑布+午餐
+https://youtube.com/shorts/BBIXmPYUPZo
+
+- **09:00** [Omma Dayclub](/blog/ubud-omma-dayclub-tegenungan-waterfall/) 巴厘岛瀑布+午餐
 
 ![Omma Dayclub  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_699d0a9f7a85019dac97b82980480d3f.jpg)
 
 Omma Dayclub 图：Sophie提供
 
-- **12:30** 沙努尔港口 14:15 渡轮➡️努沙佩尼达搭船。船班竟然迟到2小时😡
-- **20:00**：入住[Abian House](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=39854774)，准备在佩尼达度过一个愉快的晚上。
-- **16:00**：抵达水晶湾，欣赏夕阳美景。
+- **12:30** Sanur port 14:15 ferry➡️Nusa Penida搭船。船班竟然迟到2小时😡
+- **20:00**：入住[Abian House](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=39854774)，准备在Penida度过一个愉快的晚上。
+- **16:00**：抵达Crystal Bay，欣赏夕阳美景。
 
 ![Atuh Beach  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_5311c2679ed97b91ca5ddf3449ef5c6b.jpg)
 
 Atuh Beach 图：Sophie提供
 
-- **15:00**：佩尼达岛上享受阳光明媚的下午和傍晚。
+- **15:00**：Penida岛上享受阳光明媚的下午和傍晚。
 
-> （延伸阅读：[【巴厘岛 - 努沙佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)）
+> （延伸阅读：[【巴厘岛 - Nusa Penida 佩尼达岛全攻略】地图、搭船、住宿、交通、包车、活动、摄影、景点](/blog/nusa-penida-guide/)）
 
-## 1/21第四天：探索努沙佩尼达岛
+## 1/21第四天：探索Nusa Penida岛
 
-这一天在努沙佩尼达岛上度过
+这一天在Nusa Penida岛上度过
 
 - **07:00**：在酒店附近进行浮潜活动。
 
-> (延伸阅读：[努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/))
+> (延伸阅读：[Nusa Penida 努沙佩尼达岛的浮潜点介绍，如何参加浮潜？](/blog/nusa-penida-snorkeling-guide/))
 
 - **09:00**：参观Kelingking Beach，探索精灵海岸。
 - **13:00**：探访Broken Beach和Angel's Billabong，欣赏壮观的自然景观。
-- **16:00**：AMARTA Penida享受夕阳和美味的晚餐，这家餐厅有一个不用排队的天堂之门喔！
+- **16:00**：AMARTA Penida享受夕阳和美味的晚餐，这家餐厅有一个不用排队的天空之门喔！
 
 ![不用排隊的天空之門  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_1fae087d3589421ea2550badb57cfabd.jpg)
 
-不用排队的天堂之门 图：Sophie提供
+不用排队的天空之门 图：Sophie提供
+
+{{block:penidaguide}}
 
 > （延伸阅读：[Amarta Penida介绍](/blog/nusa-penida-best-restaurants/)）
 
-## 1/22 第五天：Nusa Penida岛和金巴兰
+## 1/22 第五天：Nusa Penida岛和Jimbaran
 
 - **07:00**：在酒店附近进行最后一次浮潜活动。
 - **08:00**：参观佩尼达岛东岸的Diamond Beach和Atuh Beach，享受海滩的美景。
 
-![Diamond Beach  圖：Sophie提供 ](https://images.gobaligo.id/vocus/vocus_ac69b9dfc6e931ba3f0baaaac68d67d5.jpg)
+![Diamond Beach  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_ac69b9dfc6e931ba3f0baaaac68d67d5.jpg)
 
 Diamond Beach 图：Sophie提供
 
-- **17:00**：回到巴厘岛，在金巴兰海滩享受美味的晚餐+烤玉米，还有超梦幻的夕阳，结束一天的旅程。
+- **17:00**：回到巴厘岛，在Jimbaran海滩享受美味的晚餐+烤玉米，还有超梦幻的夕阳，结束一天的旅程。
 
-（延伸阅读：[金巴兰九家海鲜餐厅推荐](/blog/jimbaran-guide/)）
+https://youtu.be/HKMalFa6zMw
+
+（延伸阅读：[金巴兰10家海鲜餐厅推荐](/blog/jimbaran-guide/)）
 
 ![金巴蘭夕陽晚餐  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_0b40e77d3c97f550983e107d821f854b.jpg)
 
 金巴兰夕阳晚餐 图：Sophie提供
 
-## 1/23第六天：金巴兰和告别巴厘岛
+## 1/23第六天：Jimbaran和告别巴厘岛
 
-- **07:00**：在金巴兰酒店 [Fox Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957) 顶楼泳池放松，享受美好的早晨。
+- **07:00**：在金巴兰酒店 [Fox Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6371074&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6y8zFJMEk9YyZ4_KR3XfYhBiNDM6yWayOcDQGAecUB88dcq2vA3dkOATwzGBsetfCvIKRcSOjyDr3h1VXHB12MDKdYJzOvoDp5Jld_KdYmDmWMV5i-cwUXa2UnVqpZGWio1SSWZKTqmSl9HTRvKcNe56vaFXSUUpJLU4GCgFZibn5pXklQLaFsZ6BAVCgJLHCMwWsMTkxJ7k0J7EkNaSyAGiAmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FuABooVsq1A7DWh1Mhz-b0_u0e-aLTbuJcrg5tR1uQIzDjWtjH7EwRcd-YmH4xcLQxMrQxcowiZWZYzr7Llae4BAjX-8gXUPdKF1DKXlDAwMDU0NjU1Ndg0TLRFPjZENdE0sTI3NDXSMTUyMzja3dH288MTaylmKdcuD5NHYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbJbGrs7GjlE2XMyhwS6C6VefZ2mbSTtIMYeEuyhODrrwVrX3tL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEWQIAYN9JO9kCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-24526&detailFilters=17|1~17~1*31|6371074~31~6371074*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) 顶楼泳池放松，享受美好的早晨。
 - **12:00**：到Wahaha享受美味的猪肋排。
+
+https://youtu.be/RodQvCZKwD0
 
 Wahaha吃过的都说赞！
 
-- **13:30**：在Prema Rasa购买一些伴手礼，并准备前往机场。
+- **13:30**：Prema Rasa购买一些伴手礼，并准备前往机场。
 
-内行人都知道要去Prema Rasa买伴手礼
+https://youtu.be/4EzO1rpSMic
+
+内行的都知道要去Prema Rasa买伴手礼
 
 **快速参考：**[【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](/blog/bali-souvenirs-gift-guide/)
 
-- **14:30** 启程前往机场。旅程最后一天安排在库塔、金巴兰这一带的优点是“完全不用担心会赶不上飞机”哦！
+- **14:30** 启程前往机场。旅程最后一天安排在库塔、金巴兰这一带的优点是「完全不用担心会赶不上飞机」喔！
 
-> （延伸阅读：[库塔旅游攻略：50个必访景点、美食、推荐SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)）  
-> （延伸阅读：[金巴兰自由行：推荐31个玩乐景点全攻略](/blog/jimbaran-guide/)）
+（延伸阅读：[库塔旅游攻略：50个必访景点、美食、推荐SPA全收集](/blog/2023-12-13-657598bdfd8978000120fe20/)）
+（延伸阅读：[金巴兰自由行：推荐31个玩乐景点全攻略](/blog/jimbaran-guide/)）
 
 - **16:30**：告别巴厘岛，准时起飞。
 
@@ -163,3 +179,7 @@ Wahaha吃过的都说赞！
 （以上图文内容由Sophie提供，并同意小编改写）
 
 您觉得Sophie小姐的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
+
+{{block:遊記}}
+
+{{block:攻略}}

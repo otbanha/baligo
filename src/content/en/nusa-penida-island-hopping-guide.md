@@ -1,168 +1,183 @@
 ---
+title: Six-Day Bali Free & Easy Itinerary with Nusa Penida Island Hopping Guide
 slug: nusa-penida-island-hopping-guide
-title: '6-Day Bali Itinerary: Nusa Penida Island Hopping Guide'
 description: >-
-  This is the exciting 6-day independent trip our community member "Sophie" took
-  in Bali! Her itinerary combines many references from "Xiao Jie Indonesia"
-  videos and our "Bali Travel Guide" tips. Let's take a look at this adventurous
-  and exploratory journey she planned herself!
-pubDate: '2024-01-28'
-heroImage: 'https://images.gobaligo.id/vocus/vocus_2eb0a8dae04d24a5cfc262605f45386b.jpg'
+  This is the amazing six-day free itinerary our community member 'Sophie' spent
+  in Bali! It combines references from 'Xiaojie Indonesia' videos and our 'Bali
+  Travel Guide' highlights. Let's take a look at this adventure-filled journey
+  she planned herself!
+pubDate: 2024-01-28T00:00:00.000Z
+pubHour: null
+category:
+  - 遊記分享
 tags:
   - 自由行
   - 行程參考
   - 峇里島
   - 巴里島
   - 自由行攻略
+heroImage: 'https://images.gobaligo.id/vocus/vocus_2eb0a8dae04d24a5cfc262605f45386b.jpg'
 originalUrl: 'https://vocus.cc/article/65b51f59fd89780001e498d4'
-category:
-  - 遊記分享
+update: 2026/05/22
 lang: en
-_srcHash: b54e7a796abcdfa650bb1e7a7d0fc67b
+_srcHash: 7159a1427bd56cdb2466cd38f68893d0
 ---
 
-This is the exciting 6-day independent trip our community member "[Sophie](https://www.facebook.com/soficia.chen)" took in Bali! Her itinerary combines many references from "[Xiao Jie Indonesia](https://www.youtube.com/@j_indonesia)" videos and our "Bali Travel Guide" tips. Let's take a look at this adventurous and exploratory journey she planned herself!
+This is the amazing six-day free itinerary our community member '[Sophie](https://www.facebook.com/soficia.chen)' spent in Bali! It combines references from '[Xiaojie Indonesia](https://www.youtube.com/@j_indonesia)' videos and our 'Bali Travel Guide' highlights. Let's take a look at this adventure-filled journey she planned herself!
 
 ![Sophie的六天峇里島自由行遊記分享](https://images.gobaligo.id/vocus/vocus_e671db3a3cd3a81bf4a38ec4fd6a5792.jpg)
 
-Sophie's 6-Day Bali Travelogue
+Sophie's Six-Day Bali Free & Easy Travel Diary
 
 ## Private Driver
 
-After finishing my Bali trip, I must highly recommend ❤️Awan❤️ from [Bali Holiday](https://www.facebook.com/groups/131689774044943/user/100003073009455/?__cft__[0]=AZWUDONagxVm7JsgBm2WdhepW0eDJiHh-LlIlNmNsEyC1lsnYFIKmLhjW-L-dK3uep2FUOdV2Y553XdF4z2WnX1k8eyJyd8Ouf5JRmESHhsC5boGW6fJPlGjg_COtPspoB05AWGk3y6ko91B-ULJE0SeoXJWjk9hPkVl-AQZ5S4Ockwds9lQMm_eqhqycJOZh30&__tn__=-]K-R), who was recommended by several friends in our community.  
-His ride is a super flashy 🔥BlackPink🔥  
-Out of the three drivers I contacted, he was the fastest and most attentive responder, making a great first impression.  
-In reality, he made everything perfect throughout our journey 😍
+After finishing our Bali trip, I have to give a huge shout-out to ❤️Awan❤️ from [Bali Holiday](https://www.facebook.com/groups/131689774044943/user/100003073009455/?__cft__[0]=AZWUDONagxVm7JsgBm2WdhepW0eDJiHh-LlIlNmNsEyC1lsnYFIKmLhjW-L-dK3uep2FUOdV2Y553XdF4z2WnX1k8eyJyd8Ouf5JRmESHhsC5boGW6fJPlGjg_COtPspoB05AWGk3y6ko91B-ULJE0SeoXJWjk9hPkVl-AQZ5S4Ockwds9lQMm_eqhqycJOZh30&__tn__=-]K-R), whom I found recommended by several friends while researching in the community group. His ride is the super flashy 🔥BlackPink🔥. Among the three drivers I contacted, he was the fastest to respond and the most attentive, leaving a great first impression. In the end, he made everything perfect throughout our trip 😍
 
-He can:
+He will:
 
-- 👏 Help book rafting tickets at reasonable prices
-- 👏 Communicate fluently in English
-- 👏 Accommodate all itinerary changes
-- 👏 Recommended a restaurant in Jimbaran and arranged a cake and band performance for our family birthday celebration, showing great attention to detail
+- 👏 Help book rafting tickets at a reasonable price
+- 👏 Communicate perfectly in English
+- 👏 Adapt to all itinerary changes
+- 👏 We celebrated a family birthday, and he recommended a restaurant in Jimbaran, arranged a cake and a choir performance—very thoughtful
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7619892b3fc1f39c15d5098c619943bf.jpg)
 
-## Day 1 (1/18): Arrival in Bali, Ubud Exploration
+## Day 1 (Jan 18): Arrival in Bali, Ubud Exploration
 
-- **15:20**: Arrived at Bali Airport, ready to start the Bali adventure. The driver mentioned that although it's rainy season, it hasn't rained for a long time.
-- **16:00**: Arrived at the airport, exchanged some local currency. Recommend finding a reliable currency exchange.
+- **15:20**: Arrive at Bali Airport, ready to start the Bali adventure. The driver mentioned it's the rainy season, but it hasn't rained in a while.
+- **16:00**: Arrive at the airport, exchange some local currency. It's recommended to find a reliable money changer.
 
-> (Further reading: [Everything You Need to Know About Currency Exchange](/blog/bali-currency-exchange-guide/))
+(Read more: [The Ultimate Guide to Currency Exchange in Bali](/blog/bali-currency-exchange-guide/))
 
-- **18:00**: The perfect spot to enjoy dirty duck rice at a waterside gazebo - [Bebek Tebasari Resto](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6380339e0f). This is a highly recommended restaurant.
+- **18:00**: A top choice for savoring crispy duck at a floating pavilion - [Bebek Tebasari Resto](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774558&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6380339e0f). This restaurant is highly recommended.
 
 ![Bebek Tebasari Resto 圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_d54fe9befa8234a9ef697bf296ffa987.jpg)
 
-Bebek Tebasari Resto Photo: Provided by Sophie
+Bebek Tebasari Resto (Photo courtesy of Sophie)
 
-- **19:00**: Check into [Reswaha Villas](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=31187872) for a relaxing evening.
+- **19:00**: Check into [Reswaha Villas](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=31187872) and enjoy a relaxing evening.
 
-## 1/19 Day 2: Exploring Ubud
+## Day 2 (1/19): Exploring Ubud
 
-From intermittent heavy rain starting at 5 AM until 2 PM, but it doesn't dampen our adventurous spirit!
+Intermittent downpours from 5:00 AM to 2:00 PM, but that didn't dampen our adventurous spirit!
 
-- **09:00**: Participate in a rafting activity; even with bad weather, it's still an unforgettable experience.
+- **09:00**: Join a rafting activity—even with bad weather, it was an unforgettable experience.
 
-> [Ayung River Rafting](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9) [Ayung River Rafting (Including Transfer)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
+> [Ayung River Rafting](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54309-ayung-telaga-waja-river-rafting-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D29d8364da9)[Ayung River Rafting (with pickup)](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772796&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F27410-ayung-river-rafting-bali-waterfalls-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db85de80ce4)
 
-Quick Reference: [Bali Rafting Guide (Frequently Asked Questions FAQ)](/blog/bali-rafting-ayung-telaga-waja/)
+Quick reference: [Bali Rafting Guide (FAQ)](/blog/bali-rafting-ayung-telaga-waja/)
 
-- **13:00**: Enjoy a delicious lunch while taking in the scenic rice terrace views next to Tis Cafe.
+- **13:00**: Enjoy a delicious lunch with views of the rice terraces beside Tis Cafe.
 
 ![Tis Cafe  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_00aa6379a6606b966670ef96d7867ecd.jpg)
 
-Tis Cafe Photo: Provided by Sophie
+Tis Cafe | Photo courtesy of Sophie
 
-(Reference: [Tis Cafe Day Trip Package](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806305&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F98430-tis-cafe-tegallalang-mount-batur-waterfalls-private-day-trip-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dd0afae38a1))
+(Reference: [Tis Cafe One-Day Tour Package](https://affiliate.klook.com/redirect?aid=116349&aff_adid=806305&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F98430-tis-cafe-tegallalang-mount-batur-waterfalls-private-day-trip-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dd0afae38a1))
 
-- **14:00**: Explore the Sacred Monkey Forest and visit Pura Saraswati Water Palace.
+- **2:00 PM**: Explore the Sacred Monkey Forest and visit Pura Saraswati Water Palace.
 
-- **17:30**: Enjoy delicious coconut ice cream at Tukies Coconut Shop and stroll through the streets of Ubud.
+https://youtu.be/hYkf6sjCtqg
 
-Ubud City Guide: Where is Tukies Coconut Shop? What to explore in the city?
+- **5:30 PM**: Savor delicious coconut ice cream at Tukies Coconut Shop, then wander the streets of Ubud.
 
-- **19:00**: End your day of adventure with dinner at Sun Sun Warung.
+https://youtu.be/JtxZHtijEkE
+
+Ubud City Guide: Where is Tukies Coconut Shop? What to explore in town?
+
+- **7:00 PM**: Enjoy dinner at Sun Sun Warung, wrapping up a day of adventure.
 
 ## Day 3 (1/20): Ubud Adventure and Nusa Penida Island
 
-Spend a drizzly morning in Ubud before heading to Penida Island
+Spend a drizzly morning in Ubud, then head to Penida Island
 
-- **09:00** [Omma Dayclub](/blog/ubud-omma-dayclub-tegenungan-waterfall/) Bali Waterfall + Lunch
+https://youtube.com/shorts/BBIXmPYUPZo
+
+- **09:00** [Omma Dayclub](/blog/ubud-omma-dayclub-tegenungan-waterfall/) Bali waterfall + lunch
 
 ![Omma Dayclub  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_699d0a9f7a85019dac97b82980480d3f.jpg)
 
-Omma Dayclub Photo: Provided by Sophie
+Omma Dayclub photo: courtesy of Sophie
 
-- **12:30**: Boarded the ferry at Sanur port heading to Nusa Penida. The ferry was delayed by 2 hours 😡
-- **20:00**: Checked into [Abian House](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=39854774), ready to spend a pleasant evening on Penida.
-- **16:00**: Arrived at Crystal Bay to enjoy the sunset scenery.
+- **12:30** Sanur port, 14:15 ferry ➡️ Nusa Penida. The ferry was delayed by 2 hours 😡
+- **20:00**: Checked into [Abian House](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=39854774), ready for a pleasant evening on Penida.
+- **16:00**: Arrived at Crystal Bay to enjoy the sunset views.
 
 ![Atuh Beach  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_5311c2679ed97b91ca5ddf3449ef5c6b.jpg)
 
-Atuh Beach Photo: Provided by Sophie
+Atuh Beach photo: courtesy of Sophie
 
-- **15:00**: Enjoyed a sunny afternoon and evening on Penida Island.
+- **15:00**: Enjoying a sunny afternoon and early evening on Penida Island.
 
-> (Further reading: [Bali - Nusa Penida Complete Guide: Map, Ferry, Accommodation, Transportation, Private Car, Activities, Photography, Attractions](/blog/nusa-penida-guide/))
+> (Further reading: [【Bali - Nusa Penida Complete Guide】Map, Ferry, Accommodation, Transport, Car Rental, Activities, Photography, Attractions](/blog/nusa-penida-guide/))
 
-## 1/21 Day Four: Exploring Nusa Penida Island
+## 1/21 Day 4: Exploring Nusa Penida Island
 
-Spent the day on Nusa Penida Island
+Spending the day on Nusa Penida Island
 
-- **07:00**: Went snorkeling near the hotel.
+- **07:00**: Snorkeling near the hotel.
 
-> (Further reading: [Introduction to Snorkeling Spots on Nusa Penida Island, How to Join Snorkeling?](/blog/nusa-penida-snorkeling-guide/))
+> (Read more: [Snorkeling Spots in Nusa Penida and How to Join](/blog/nusa-penida-snorkeling-guide/))
 
-- **09:00**: Visited Kelingking Beach to explore the T-Rex Beach.
-- **13:00**: Explored Broken Beach and Angel's Billabong, marveling at the stunning natural landscapes.
-- **16:00**: Enjoyed the sunset and a delicious dinner at AMARTA Penida, which features a no-queue version of the famous Gates of Heaven!
+- **09:00**: Visit Kelingking Beach and explore the T-Rex coastline.
+- **13:00**: Discover Broken Beach and Angel's Billabong, marveling at the stunning natural landscapes.
+- **16:00**: Enjoy sunset and a delicious dinner at AMARTA Penida—this restaurant has a sky gate with no queues!
 
 ![不用排隊的天空之門  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_1fae087d3589421ea2550badb57cfabd.jpg)
 
-No-queue Gates of Heaven Photo: Provided by Sophie
+Sky gate without the queue. Photo: Courtesy of Sophie
 
-> (Further reading: [Amarta Penida Introduction](/blog/nusa-penida-best-restaurants/))
+{{block:penidaguide}}
+
+> (Read more: [Introduction to Amarta Penida](/blog/nusa-penida-best-restaurants/))
 
 ## 1/22 Day 5: Nusa Penida Island and Jimbaran
 
-- **07:00**: Final snorkeling activity near the hotel.
-- **08:00**: Visit Diamond Beach and Atuh Beach on the east coast of Nusa Penida Island to enjoy the beautiful beach scenery.
+- **07:00**: Last snorkeling session near the hotel.
+- **08:00**: Visit Diamond Beach and Atuh Beach on the east coast of Nusa Penida, soaking in the beach views.
 
-![Diamond Beach  圖：Sophie提供 ](https://images.gobaligo.id/vocus/vocus_ac69b9dfc6e931ba3f0baaaac68d67d5.jpg)
+![Diamond Beach  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_ac69b9dfc6e931ba3f0baaaac68d67d5.jpg)
 
-Diamond Beach Photo: Provided by Sophie
+Diamond Beach. Photo: Courtesy of Sophie
 
-- **17:00**: Return to Bali and enjoy a delicious dinner + grilled corn at Jimbaran Beach, along with a super dreamy sunset, ending the day's journey.
+- **17:00**: Return to Bali and enjoy a delicious dinner with grilled corn on Jimbaran Beach, accompanied by a dreamy sunset to end the day.
 
-(Further reading: [Top 9 Seafood Restaurants in Jimbaran](/blog/jimbaran-guide/))
+https://youtu.be/HKMalFa6zMw
+
+(Read more: [Top 10 Seafood Restaurants in Jimbaran](/blog/jimbaran-guide/))
 
 ![金巴蘭夕陽晚餐  圖：Sophie提供](https://images.gobaligo.id/vocus/vocus_0b40e77d3c97f550983e107d821f854b.jpg)
 
-Jimbaran Sunset Dinner Photo: Provided by Sophie
+Jimbaran sunset dinner. Photo courtesy of Sophie.
 
-## 1/23 Day 6: Jimbaran and Farewell to Bali
+## Day 6 (1/23): Jimbaran and Farewell to Bali
 
-- **07:00**: Relax at the rooftop pool of Fox Hotel in Jimbaran, enjoying a wonderful morning.
-- **12:00**: Head to Wahaha for some delicious pork ribs.
+- **07:00**: Relax at the rooftop pool of the Jimbaran hotel [Fox Hotel](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6371074&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6y8zFJMEk9YyZ4_KR3XfYhBiNDM6yWayOcDQGAecUB88dcq2vA3dkOATwzGBsetfCvIKRcSOjyDr3h1VXHB12MDKdYJzOvoDp5Jld_KdYmDmWMV5i-cwUXa2UnVqpZGWio1SSWZKTqmSl9HTRvKcNe56vaFXSUUpJLU4GCgFZibn5pXklQLaFsZ6BAVCgJLHCMwWsMTkxJ7k0J7EkNaSyAGiAmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FuABooVsq1A7DWh1Mhz-b0_u0e-aLTbuJcrg5tR1uQIzDjWtjH7EwRcd-YmH4xcLQxMrQxcowiZWZYzr7Llae4BAjX-8gXUPdKF1DKXlDAwMDU0NjU1Ndg0TLRFPjZENdE0sTI3NDXSMTUyMzja3dH288MTaylmKdcuD5NHYFRi3B-BBPTxfDksJUs8JSy5yiAlMDxlOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbJbGrs7GjlE2XMyhwS6C6VefZ2mbSTtIMYeEuyhODrrwVrX3tL0Ws6dLkOEHvefb260t7QP3vM45YW-8wD4SJp_EWpWhGxKe0StewNjAyNTFyC3A6MEYwVgB5DGuYmTnYjYwMhRg2sDIuIPxPwwwvmIEWQIAYN9JO9kCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-24526&detailFilters=17|1~17~1*31|6371074~31~6371074*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=900&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) and enjoy a beautiful morning.
 
-Everyone who has eaten at Wahaha says it's amazing!
+https://youtu.be/RodQvCZKwD0
 
-- **1:30 PM**: Purchase some souvenirs at Prema Rasa and prepare to head to the airport.
+Everyone who's eaten at Wahaha raves about it!
+
+- **13:30**: Shop for souvenirs at Prema Rasa, then head to the airport.
+
+https://youtu.be/4EzO1rpSMic
 
 Those in the know always go to Prema Rasa for souvenirs.
 
-**Quick Reference**: [Netizen Recommended] Six Categories, Over 20 Bali Souvenir Recommendations: The Perfect Choices to Preserve Precious Memories](/blog/bali-souvenirs-gift-guide/)
+**Quick Reference:** [【Recommended by Travelers】Over 20 Bali Souvenir Ideas Across 6 Categories: Perfect for Cherishing Memories](/blog/bali-souvenirs-gift-guide/)
 
-- **2:30 PM**: Depart for the airport. The advantage of spending the last day of the trip around Kuta and Jimbaran is that 'you don’t have to worry about missing your flight'!
+- **14:30**: Depart for the airport. The beauty of spending your last day around Kuta and Jimbaran is that you never have to worry about missing your flight!
 
-> (Further Reading: [Kuta Travel Guide: 50 Must-Visit Attractions, Food, and Recommended Spas](/blog/2023-12-13-657598bdfd8978000120fe20/)) 
-> (Further Reading: [Jimbaran Free Travel Guide: 31 Recommended Attractions](/blog/jimbaran-guide/))
+(Extended reading: [Kuta Travel Guide: 50 Must-Visit Attractions, Food, and Recommended SPA Collection](/blog/2023-12-13-657598bdfd8978000120fe20/))
 
-- **4:30 PM**: Say goodbye to Bali as the plane takes off on time.
+(Extended reading: [Jimbaran Travel Guide: 31 Must-Visit Attractions and Tips](/blog/jimbaran-guide/))
 
-Thank you to the community members for their help and suggestions on my itinerary. This journey will forever remain in my heart!
+- **4:30 PM**: Say goodbye to Bali and take off on time.
 
-(The above content and images were provided by Sophie and approved for editing by the editor.)
+Thank you to the community members for your help and advice on my itinerary—this trip will forever stay in my heart!
 
-Do you think Ms. Sophie’s itinerary is exciting? Quickly plan your own Bali free travel! We also welcome everyone to submit your itineraries to the community!
+(The above content and images are provided by Sophie and have been adapted by the editor.)
+
+{{block:遊記}}
+
+{{block:攻略}}
