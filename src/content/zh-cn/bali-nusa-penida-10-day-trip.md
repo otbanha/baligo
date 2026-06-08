@@ -1,35 +1,36 @@
 ---
-slug: bali-nusa-penida-10-day-trip
 title: 巴厘岛至佩尼达岛跳岛十天游记｜从山林到离岛的奇幻探险
+slug: bali-nusa-penida-10-day-trip
 description: 佩尼达岛三天+巴厘岛乌布+水明漾+包车司机推荐
-pubDate: '2024-08-15'
-heroImage: 'https://images.gobaligo.id/vocus/vocus_17f936c1700b6ebd49051ca2d830b475.jpg'
+pubDate: 2024-08-15T00:00:00.000Z
+pubHour: null
+category:
+  - 遊記分享
 tags:
   - 峇里島
   - 佩尼達島
   - 烏布
   - 水明漾
   - 遊記
+heroImage: 'https://images.gobaligo.id/vocus/vocus_17f936c1700b6ebd49051ca2d830b475.jpg'
 originalUrl: 'https://vocus.cc/article/66a504cbfd89780001e237b8'
-category:
-  - 遊記分享
 lang: zh-cn
-_srcHash: b16c02b68494c433934cb52334b8b734
+_srcHash: cc3e5a0ab1c214940b0556a597445e18
 ---
 
 > 匿名发布
-
-![raw-image](https://images.gobaligo.id/vocus/vocus_122f2fb4f562d6bd56b8e1ffe97da63d.jpg)
 
 这次和女友的巴厘岛自助行为期十天九夜（2024年6月26日至2024年7月5日）。出发前，我们通过「[巴厘岛/印尼吃喝玩乐 Indonesia, Bali Travel Guide](https://www.facebook.com/groups/indonesia.travelguide)」这个平台获得了许多宝贵的旅行信息，因此这次也想回馈一下，并特别推荐我们的包车司机Ketut。特别感谢这位热情接待台湾游客的司机兼导游，他让我们的巴厘岛旅程更加难忘。
 
 ## 初次相遇：热情与细心
 
-我们一到登巴萨机场，就联络了Ketut。他是一位非常热情、时常保持微笑的小哥。刚见面时，他便主动帮我们提托运行李，甚至连开车门这样的细心之举，都让我对巴厘岛有了截然不同的印象。在前往别墅的车程当中，Ketut带我们去了当地评价较高的货币兑换处，并一路上介绍巴厘岛的宗教文化、风俗民情。通过Ketut的介绍，我们了解到巴厘岛是印尼唯一信仰印度教的地区，并且融合了当地的传统和习俗，这让我们对巴厘印度教有了新的认识。这种独特的信仰体系，包括祖先崇拜、自然崇拜以及对神灵的信仰，让我们感到十分特别。
+我们一到Denpasar机场，就联系了Ketut。他是一位非常热情、时常保持微笑的小哥。刚见面时，他便主动帮我们提托运行李，甚至连开车门这样的细心之举，都让我对巴厘岛有了截然不同的印象。在前往villa的车程当中，Ketut带我们去了当地评价较高的货币兑换处，并一路上介绍巴厘岛的宗教文化、风俗民情。通过Ketut的介绍，我们了解到巴厘岛是印尼唯一信仰印度教的地区，并且融合了当地的传统和习俗，这让我们对巴厘印度教有了新的认识。这种独特的信仰体系，包括祖先崇拜、自然崇拜以及对神灵的信仰，让我们感到十分特别。
 
 ![左：TheWakanda hotel with ricefield 中：Tis Cafe 右：Kanto Lampo waterfall](https://images.gobaligo.id/vocus/vocus_9d62b8927469d37a5b109341aad7c062.jpg)
 
 左：TheWakanda hotel with ricefield 中：Tis Cafe 右：Kanto Lampo waterfall
+
+https://youtu.be/op78Dk8CjL4
 
 ## 旅游干季的意外惊喜
 
@@ -38,6 +39,8 @@ _srcHash: b16c02b68494c433934cb52334b8b734
 > 延伸阅读：[旅游巴厘岛碰到下雨天怎么办？巴厘岛下雨天的60个备案攻略](/blog/2026-bali-indoor-activities/)
 
 原作者提供：
+
+https://youtu.be/C6zqIkgAAug
 
 > 延伸阅读：[巴厘岛乌布附近的三大知名瀑布攻略：Tegenungan瀑布、Kanto Lampo瀑布和Tukad Cepung瀑布](/blog/ubud-waterfalls-guide/)
 
@@ -55,7 +58,7 @@ _srcHash: b16c02b68494c433934cb52334b8b734
 
 我们的行程中还包括了跳岛行程到Nusa Penida。虽然Ketut不能亲自接送，但他的团队仍然和当地的司机保持密切合作，这三天的跳岛行程中，他们一再地帮我们确认景点路线和时间安排，真的是非常贴心！
 
-> 延伸阅读：[佩尼达岛的住宿推荐: 13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
+> 延伸阅读：[佩尼达岛的住宿推荐：13间从奢华到平价的 Nusa Penida 好评住宿](/blog/nusa-penida-hotels-guide/)
 
 ![左：Kelingking Beach→ the origin of iPhone's wallpaper! 中：Tree House Bungalow 右：Diamond beach](https://images.gobaligo.id/vocus/vocus_54c623fcb2a8e1d4cc86bf0e3d31ded8.jpg)
 
@@ -65,11 +68,13 @@ _srcHash: b16c02b68494c433934cb52334b8b734
 
 ## 海神庙的奇遇
 
-在海神庙（Pura Tanah Lot）的游览中，我们遇到了许多野生猕猴。Ketut在分享猕猴故事的同时，会主动帮我们驱赶来犯的猴子，这些猴子会偷走游客身上的物品，如帽子、拖鞋、眼镜等。当Ketut刚说完这些猴子的故事时，一只猕猴突然出现在石头路上，试图偷拿一位白人游客的拖鞋，幸好没有得逞。这既是无奈又有些惊恐的猕猴趣事，增添了我们旅程的趣味性。
+在海神庙（Pura Tanah Lot）的游览中，我们遇到了许多野生猕猴。Ketut在分享猕猴故事的同时，会主动帮我们驱赶来犯的猴子，这些猴子会偷走游客身上的物品，如帽子、拖鞋、眼镜等。当Ketut刚说完这些猴子的故事时，一只猕猴突然出现在石头路上，试图偷拿一位白人游客的拖鞋，幸好没有得逞。这既是无奈又有些惊恐的猕猴趣事，增添了我們旅程的趣味性。
+
+https://youtu.be/oc0133x2FOU
 
 **快速参考：**[巴厘岛旅游必访景点：海神庙（Tanah Lot）详细介绍及潮汐、周边景点指南](/blog/bali-tanah-lot-guide/)
 
-## 
+##
 
 ## 旅程的美好回忆
 
@@ -77,11 +82,13 @@ _srcHash: b16c02b68494c433934cb52334b8b734
 
 ![左：Cloudy sky with sunset glow in Mari beach club 右：Bodyworks Spa](https://images.gobaligo.id/vocus/vocus_a84b97d572dbde9af33c738a9015d03f.jpg)
 
-左：Cloudy sky with sunset glow in Mari beach club 右：Bodyworks Spa
+左：Mari海滩俱乐部的日落云彩 右：Bodyworks Spa
 
 > 点这里预约 [Bodyworks Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfc5734c5d3)
 
-### 司机联络信息：
+{{block:蜜月}}
+
+### 司机联系方式：
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_f1744a892b82fbb9e71172be7468b200.png)
 
@@ -90,8 +97,6 @@ _srcHash: b16c02b68494c433934cb52334b8b734
 
 这次的巴厘岛旅行充满了惊喜和感动，感谢每一位让我们旅程更加美好的朋友们。期待下一次的冒险！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_600b0a0fc8c1fbe77faf9d1f2c2c7439.jpg)
+{{block:遊記}}
 
-点击这里观看更多巴厘岛精彩游记
-
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
+{{block:攻略}}

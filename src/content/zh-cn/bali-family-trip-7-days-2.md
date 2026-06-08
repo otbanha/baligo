@@ -1,32 +1,29 @@
 ---
-slug: bali-family-trip-7-days-2
 title: 亲子游巴厘岛：7天6夜家庭、孩子们的梦幻之旅
+slug: bali-family-trip-7-days-2
 description: 这次暑假巴厘岛亲子之旅让我们全家都开心愉快，特别是对孩子们来说，这是一段充满冒险和欢笑的美好回忆。
-pubDate: '2024-08-10'
-update: 2026/05/22
-heroImage: 'https://images.gobaligo.id/vocus/vocus_448b227b14844b7078454555042ed6fc.jpg'
+pubDate: 2024-08-10T00:00:00.000Z
+pubHour: null
+category:
+  - 遊記分享
 tags:
   - 峇里島親子
   - 親子遊
   - 峇里島
   - 小孩子
   - 峇里島自由行
+heroImage: 'https://images.gobaligo.id/vocus/vocus_448b227b14844b7078454555042ed6fc.jpg'
 originalUrl: 'https://vocus.cc/article/669c8097fd89780001f355be'
-category:
-  - 遊記分享
+update: 2026/05/22
 lang: zh-cn
-_srcHash: 83c09b4a2d5316b60b11521ebb7a042e
+_srcHash: 0e89cfa8beee115e2134ca944c282dd4
 ---
 
 > 以下内容由团友 [Ya-yun Chen](https://www.facebook.com/groups/baligo/permalink/1577292532817986/) 提供给我们重新编排：
 
 谢谢社团版主以及所有团友无私的反馈！这次暑假巴厘岛之旅让我们全家都开心愉快，特别是对孩子们来说，这是一段充满冒险和欢笑的美好回忆。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_108c6da77da092e3f0a1b2da51be8aea.jpg)
-
-### 亲子Bali家庭旅游行程&心得
-
-**旅游时间：6/28-7/4**
+  **旅游时间：6/28-7/4**
 
 ## 住宿
 
@@ -34,25 +31,29 @@ _srcHash: 83c09b4a2d5316b60b11521ebb7a042e
 
 ### 水明漾住宿
 
-我们入住了The Dusun Villa，这里地理位置优越，靠近Jalan Kayu Aya Street（编按：这条路有什么特别的？请看[小杰的介绍](https://www.youtube.com/shorts/oz_QUWvCK_8)）。
+我们入住了The Dusun Villa，这里地理位置优越，靠近Jalan Kayu Aya Street
+
+https://www.youtube.com/shorts/oz_QUWvCK_8
 
 泳池既干净又大，而且Villa提供预约高尔夫球车服务，可以前往Seminyak Square，这对带孩子的家庭非常便利。Villa内部设计典雅舒适，配有宽敞的客厅和户外用餐区，孩子们可以在花园里尽情玩耍，家长则能享受悠闲的时光。
 
+![raw-image](https://images.gobaligo.id/images/2026-06/1780821552182-64314_14040214220018940829_large.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780821552625-12164134.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780821553243-26524122.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780821553858-28387498.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780821554274-28387501.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780821554668-29368239.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-06/1780821555189-29368240.jpg)
+
 > ▶[查看 The Dusun Villa 空房、房型、房价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64314)
 
-The Dusun Villa的介绍已收录在「[水明漾22间令人惊艳的巴厘岛villa](/blog/2024-04-04-660e6e92fd89780001e6047e/)」
-
-
-![raw-image](https://images.gobaligo.id/vocus/vocus_7dd2f9eb804d7aa537b6a03d36c55d5a.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_7244ba03327646ba1bb1b328722ea8f9.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_e3e537ea0e45af11a8e007b5570fe831.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_2aca38a61e17bc3bd9e99e141efae7d9.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_0e115bb1ab241c92e70f89bebf905ac8.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_dd94839c713f54957fbb0574941bf340.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_cc693a822f9497ce8b53794b0f2a00ba.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_089ef8b0ec27928c3cb14cd8d36e7d5f.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_545c9715c26dcec3580e2b7378871132.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_f92d36baa77e626917ac4a9a1469d9a1.jpg)
+The Dusun Villa的介绍已收录在「[水明漾20+ 令人惊艳的巴厘岛villa](/blog/2024-04-04-660e6e92fd89780001e6047e/)」
 
 ### **乌布住宿**
 
@@ -60,27 +61,21 @@ The Dusun Villa的介绍已收录在「[水明漾22间令人惊艳的巴厘岛vi
 
 这里可以预约欣赏Kecak Dance，不用在人群中挤来挤去。住宿还附赠非常丰盛的下午茶和早餐，度假村的环境悠闲，服务人员亲切友好，特别对孩童非常友善。整个度假村坐落在稻田和荷花池中，景色美不胜收，让人感觉仿佛置身于世外桃源。
 
+![raw-image](https://images.gobaligo.id/images/2026-06/1780821737232-49706884.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780821737623-148960887.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780821738127-148964233.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780821738590-148964236.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780821739100-148967973.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780821739526-148970216.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780821740128-148970219.jpg)
+
 ▶[查看Tanah Gajah空房、房型、房价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=69555) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987913&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazcLFJMEkNYWFY_6hPRPZhBgNLH4LOra-Dtwh926ug-cbIM2atMghgCdiyoHn09gTvaqb9X2OBDoUMoAAx3yHRkZjEHg4y6GLkRWsZgZj5zKbjYweD6tE1oVXO-xgZDrAyHSCcVvoAqZXyxlPsTBzfOC_xPKdKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsQwNDMz0DA6BQSWKFZwpYa3JiTnJpTmJJakhlAdAIMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRbogiFpaYU5oKcQPQQrdUqB2GtTqYTn82p_dp98wXm3YT6XRzajvdgBinG9fGPmJhio79xMLwCxgRTR5NrAxdrMwcp5gmAcltobtY2YJ8Ak0CHS-wNi1glJI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MbI00TU3MjU00Zi_fXfjU2MjaylI1CswagnGh3h6uhiWFKaaFZZa5hQVmBownmKUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYrwYAxic3E0N3exiLLhYvZ0CRK8958lV1vZ0l6KOSTcRXHlTea1ByacttcCyRnC5AItvojxv7dcYB-Z120knTLptH0Sa1WGbkh4Rq94AWMDI1MXI7cAowdjBGMFkMe4ipFhAyPjDsb_MMD4ihFkOgCc7suXAAMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494294-72514&detailFilters=17|1~17~1*31|987913~31~987913*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=703&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/kFUdWN1A)
 
-（已收录在[乌布20间令人惊艳的巴厘岛villa推荐](/blog/ubud-villa-pool-guide/)）
+（已收录在[乌布20+令人惊艳的巴厘岛villa推荐](/blog/ubud-villa-pool-guide/)）
+  
+# 行程分享
 
----
-
-
-![raw-image](https://images.gobaligo.id/vocus/vocus_5829d9b28b63ca8a1967976e88ef5594.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_bd236159979b599a41ff91470efae6d6.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_cbc156f423d764ac1e6e56a577a2ee88.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_08888ff02913353d6a96a1cc3d886ece.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_4a9289d35b457da1ff4cf9921a369355.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_34d4f4af1c752b68f0497add7f654ec0.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_650293ec464311e41197b5ed75138e86.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_40ae3b02a976c3b03753e370df199af3.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_f18f8b24e0eb429047d245c462a5fb76.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_aaf5e8619b99561eb1b62ab6c05d529f.jpg)
-
-## 行程分享
-
-### **Day 1：**
+## **Day 1：**
 
 ![金巴蘭（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_93a92d62cee0cfc04cdeeadfa545bb24.jpg)
 
@@ -88,7 +83,7 @@ The Dusun Villa的介绍已收录在「[水明漾22间令人惊艳的巴厘岛vi
 
 - 抵达巴厘岛后，我们换汇后直接前往金巴兰，享受夕阳海鲜大餐，选择了Sunshine88餐厅。这里的夕阳美景令人叹为观止，伴随着海风享用新鲜的海鲜，让我们的旅程有了美好的开始。孩子们在沙滩上玩得不亦乐乎，大人则享受美食和美景的完美结合。
 
-### **Day 2：**
+## **Day 2：**
 
 ![住在有大泳池的villa特別適合帶小孩的家庭（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_721c53131e7fb412075b33185bb4b468.jpg)
 
@@ -104,7 +99,7 @@ GWK拥有全世界第四高的雕像建筑
 
 - 接着我们参观了GWK文化公园，园内的巨大雕像和文化展示让我们对巴厘岛的历史和传统有了更多的了解。
 
-（编按：除了欣赏巨大的雕像，神鹰广场还定期举办免费表演，如Kecak火舞等。这些表演充满魅力，让你仿佛置身于巴厘岛的神话世界中。别忘了查看园区内的其他免费表演，让你的旅程更加丰富多彩。）
+（编按：除了欣赏巨大的雕像，神鹰广场还定期举办免费表演，如Kecak火舞等。这些表演充满魅力，让你仿佛置身于巴厘岛的神话世界中。别忘了查看园区内的其他免费表演，让你的旅程更加丰富多彩。
 
 ![raw-image](https://d2a6d2ofes041u.cloudfront.net/resize)
 
@@ -130,28 +125,27 @@ Bandar Nelayan Seafood（Ya-yun Chen提供）
 
 - 晚餐我们选择了Bandar Nelayan Seafood，这里的海鲜非常新鲜美味，环境也很干净，强烈推荐！
 
-### **Day 3：**
+## **Day 3：**
 
 ![Nusa Penida（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_f9c44582d70f2fdbe7a329bf0b39f852.jpg)
 
 Nusa Penida（Ya-yun Chen提供）
 
-- 今天我们参加了努沙佩尼达岛的西部一日游，搭乘10:30的船班，行程包括克林金海滩、天使比尔邦、破碎海滩和水晶湾。这些景点的自然风光壮丽无比，特别是克林金海滩，那壮观的悬崖景色让我们全家都叹为观止。虽然路况颠簸，但孩子们把这当成碰碰车游戏，玩得很开心。
-
+- 今天我们参加了Nusa Penida的西部一日游，搭乘10:30的船班，行程包括Klingking Beach、Angel Bilabong、Broken Beach和Crystal Bay。这些景点的自然风光壮丽无比，特别是Klingking Beach，那壮观的悬崖景色让我们全家都叹为观止。虽然路况颠簸，但孩子们把这当成碰碰车游戏，玩得很开心。
 - [佩尼达岛一日游（巴厘岛出发）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7847cab48f)
 - [佩尼达岛网红景点打卡 & 潜水之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26411-nusa-penida-instagram-private-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D370017bd78)
 - [佩尼达岛快艇船票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25BD%25A9%25E5%25B0%25BC%25E9%2581%2594%25E5%25B3%25B6%25E8%2588%25B9%25E7%25A5%25A8%26needQueryIdentification%3Dtrue%26spm%3DPOI_Destination.SearchSuggest_LIST%26clickId%3D6473cefd11)
 - [八人以上团体可以考虑包船](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026516&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106290-private-boat-rental-nusa-penida-from-bali%2F)
 - [佩尼达岛私人包车](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23014-nusa-penida-private-car-charter-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd8cbaa8627)
 - [探索之旅 - 巴厘岛出发（沙努尔港集合）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54289-nusa-penida-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76e0910049)
-- [努沙佩尼达岛多日游](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
+- [Nusa Penida多日游](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
 - [蓝梦岛 & 曼塔湾浮潜体验](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
-- [努沙佩尼达岛浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49082-snorkeling-experience-nusa-penida%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad6a39918d)
-- [努沙佩尼达岛摩托车出租](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26687-nusa-penida-scooter-rental%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7434f423bc)（路况非常差，请自行斟酌）
+- [Nusa Penida浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49082-snorkeling-experience-nusa-penida%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad6a39918d)
+- [Nusa Penida摩托车出租](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26687-nusa-penida-scooter-rental%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7434f423bc)（路况非常差，请自行斟酌）
 - [佩尼达岛 & 蓝梦岛私人包船游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=764788&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F92390-private-boat-charter-for-nusa-penida-and-lembongan%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7668f8e7d8)
-- 预订 [努沙佩尼达岛一日游（可选中文导游）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D1f7788d1d4)
+- 预订 [Nusa Penida一日游（可选中文导游）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D1f7788d1d4)
 
-### **第4天：**
+## **Day 4：**
 
 ![包車一日遊（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_f2a109172a9a3e812e741f773c5dcd9c.jpg)
 
@@ -159,12 +153,15 @@ Nusa Penida（Ya-yun Chen提供）
 
 - 全天包车进行寺庙文化之旅，参观了海神庙Pura Tanah Lot（现场购票），这座寺庙坐落在海边的岩石上，潮涨时四周被海水环绕，景色非常壮观。
 - 之后我们前往美丽的梯田Jatiluwih Rice Terraces，这里的绿色稻田层层叠叠，宛如一幅美丽的画卷。午餐在jatiluwih resto享用，饭后我们沿着梯田小径散步，感受自然的宁静与美好。
+
+https://youtu.be/op78Dk8CjL4
+
 - 下午前往水神庙Ulun Danu Beratan Temple，这座寺庙坐落在湖中央，风景如画，是拍照的绝佳地点。
 - 我们还参观了阴阳门Handara Gate，到达时购票处说要拍照的话必须等一小时，所以我们选择放弃。
 
 > 延伸阅读：[原来"善恶门"是错误翻译!? Candi Bentar的意义和正确叫法](/blog/candi-bentar-balinese-gate-history/)
 
-### **第5天：**
+## **Day 5：**
 
 - 早上在Villa享用悠闲的早餐并游泳，之后参加了Jungle Cart Ubub的活动，费用是USD$25/人，活动时间约2-3小时。这是一项非常刺激的户外活动，孩子们在森林中驾驶卡丁车，玩得不亦乐乎。
 
@@ -178,19 +175,19 @@ Nusa Penida（Ya-yun Chen提供）
 - 接着我们前往乌布水皇宫（Pura Taman Saraswati），这里的荷花池和精美的石雕让人流连忘返。
 - 在乌布市集（Ubud Market）逛街购物，挑选了一些当地特色手工艺品作为纪念。
 
-请参考小杰制作的「乌布攻略地图」: <https://s.id/ubud_guide>
+https://youtu.be/s16gdTOjonU
 
 - 晚上我们在Villa预约了19:00的Kecak Dance表演，这样在舒适的环境中欣赏舞蹈，非常享受。
 
 ![飯店的火舞表演（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_4ec3b4a0f2fe79cebc76e5fd56055f8f.jpg)
 
-酒店的火舞表演（Ya-yun Chen提供）
+店的火舞表演（Ya-yun Chen提供）
 
-### **第6天：**
+### **Day 6：**
 
 ![Day 6活動（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_fbfcac1aac0e23c266b596e9dff68b1a.jpg)
 
-第6天活动（Ya-yun Chen提供）
+Day 6活动（Ya-yun Chen提供）
 
 - 今天的活动包括Wos Tubbing Adventure泛舟，这是一项非常有趣的水上活动，我们全家都玩得非常开心。
 
@@ -206,24 +203,25 @@ Nusa Penida（Ya-yun Chen提供）
 
 - 下午回到度假村享用下午茶并游泳放松，度过了一个悠闲愉快的下午。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_be1afd0d3207cfc5cb4fbd84763fe7f6.jpg)
+{{block:ubud}}
 
-想了解更多乌布攻略？[请点击这里](/blog/ubud-guide/)
-
-### **Day 7：**
+## **Day 7：**
 
 - 早上悠哉地享用早餐，然后于11:30 checkout，准备前往机场回国。这次的巴厘岛之旅充满了美好的回忆，让我们对这个美丽的岛屿有了更多的喜爱和留恋。
+  ---
 
----
+{{block:親子}}
 
 ## 小提醒
 
 - **行前小费文化调查分享：**
 - - 每日包车司机5万~10万印尼盾
-  - 行李：1万/5万印尼盾（约USD$1/3）
-  - 床头/餐厅：1万/2万印尼盾（约USD$1/1）
-  - 按摩预先给1成小费
-  - 「KEEP THE CHANGE」：不用找零，印尼盾一万以下当地人不容易找零。
+    - 行李：1万/5万印尼盾（约USD$1/3）
+    - 床头/餐厅：1万/2万印尼盾（约USD$1/1）
+    - 按摩预先给1成小费
+    - 「KEEP THE CHANGE」：不用找零，印尼盾一万以下当地人不容易找零。
+
+https://youtu.be/B_oT905RkQw
 
 - **住宿Villa建议：** 如果有爱玩水的小朋友，强烈建议住Villa，可以请包车司机安排向当地业者租借大型游泳圈，或从Klook预订，孩子会玩得很嗨。
 
@@ -231,32 +229,15 @@ Nusa Penida（Ya-yun Chen提供）
 
 > Klook [大型浮床租借服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775806&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F4837-pool-float-rental-bali%2F)
 
-- **交通提示：** 七八月是旺季，11:30过后常常塞车，建议每天最多安排2-3个景点就很充实了。
-- **努沙佩尼达游览心得：** 虽然路况颠簸，但孩子们当作碰碰车在玩，感觉特别有趣。由于我们家孩子都是小学生，所以没有参加浮潜行程，但光是西岸一日游就非常值得前往。
+- **交通提示：** 七八月是旺季，11:30过后常常堵车，建议每天最多安排2-3个景点就很充实了。
+- **Nusa Penida游览心得：** 虽然路况颠簸，但孩子们当作碰碰车在玩，感觉特别有趣。由于我们家孩子都是小学生，所以没有参加浮潜行程，但光是西岸一日游就非常值得前往。
 
 巴厘岛当地人文风情非常迷人，不论是寺庙、玩水还是自然景观都具有独特的魅力，这次旅程让我们对巴厘岛有了更多的了解和喜爱，期待下次再访！
 
+https://youtu.be/HpfQ86sWS0g
+
 您觉得Ya-yun Chen他们的行程很精彩吗？赶快安排属于你的巴厘岛自由行吧！也欢迎大家到社团投稿您的行程哦！
 
-![raw-image](https://d2a6d2ofes041u.cloudfront.net/resize)
+{{block:遊記}}
 
-点击这里观看更多巴厘岛精彩游记
-
-你也想写游记却不知如何下手吗？可以参考一下「[如何写一篇精彩的巴厘岛游记](/blog/how-to-write-bali-travelogue/)」，帮助你的游记更出彩！
-
-## 参考攻略：
-
-- [巴厘岛水明漾100个景点攻略](/blog/seminyak-guide/)
-- [库塔必访50个景点攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
-- [坎古80个必游景点](/blog/canggu-guide/)
-- [乌布探索的100个方式](/blog/ubud-guide/)
-- [金巴兰攻略](/blog/jimbaran-guide/)
-- [乌鲁瓦图攻略](/blog/uluwatu-guide/)
-- [布吉半岛冒险指南](/blog/bukit-peninsula-guide/)
-- [沙努尔45项吃喝玩乐攻略](/blog/sanur-guide/)
-- [努沙杜瓦40个住宿美食活动攻略](/blog/nusa-dua-guide/)
-- [佩尼达岛吃喝玩乐全攻略](/blog/nusa-penida-guide/)
-- [蓝梦岛/金银岛景点全攻略](/blog/nusa-lembongan-ceningan-guide/)
-- [Nuanu Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
-- [科莫多岛攻略](/blog/komodo-island-labuan-bajo-travel/)
-- [阿梅德/图兰奔攻略](/blog/amed-tulamben-diving-guide/)
+{{block:攻略}}
