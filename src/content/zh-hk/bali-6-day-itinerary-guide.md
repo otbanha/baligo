@@ -1,28 +1,27 @@
 ---
-slug: bali-6-day-itinerary-guide
 title: 峇里島自由行六日行程：住宿、美食、景點推介
-description: 今次嘅峇里島之旅，我哋一家人帶住滿滿嘅期待飛去呢個充滿魅力嘅島嶼。
-pubDate: '2024-09-18'
-update: 2026/05/24
-heroImage: 'https://images.gobaligo.id/vocus/vocus_fe6a030ea275cf610d3a9c87b3d2c277.jpg'
+slug: bali-6-day-itinerary-guide
+description: 今次峇里島之旅，我哋一家帶住滿滿嘅期待飛去呢個充滿魅力嘅島嶼。
+pubDate: 2024-09-18T00:00:00.000Z
+pubHour: null
+category:
+  - 遊記分享
 tags:
   - 峇里島自由行
   - 峇里島景點推薦
   - 美食推薦
   - 住宿推薦
   - 峇里島攻略
+heroImage: 'https://images.gobaligo.id/vocus/vocus_fe6a030ea275cf610d3a9c87b3d2c277.jpg'
 originalUrl: 'https://vocus.cc/article/66c0ba76fd89780001527eed'
-category:
-  - 遊記分享
+update: 2026/05/24
 lang: zh-hk
-_srcHash: 5e928acd155528c4eb1f2d095ef5ce52
+_srcHash: 635dce6d3430259b8db1923ff539c21e
 ---
 
 > 以下內容由團友 [​Oscar Lin](https://www.facebook.com/share/p/4Eev2drzrfF5SKtc/) 提供，並同意我哋改編
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e54d18f4afc5894001cc75d451b04d6c.jpg)
-
-今次嘅峇里島之旅由8月13號開始，我哋一家人帶住滿滿嘅期待由新加坡飛去呢個充滿魅力嘅島嶼。飛機喺傍晚6:45準時降落，我哋即刻感受到峇里島嘅熱情氛圍。落機之後，我哋坐包車去烏布，準備展開今次嘅度假之旅。
+今次峇里島之旅由8月13日開始，我哋一家帶住滿滿嘅期待由新加坡飛去呢個充滿魅力嘅島嶼。飛機喺傍晚6:45準時落地，我哋即刻感受到峇里島嘅熱情氛圍。落機之後，我哋搭包車去烏布，準備展開今次嘅度假之旅。
 
 ## 8月13日：抵達烏布，享受美食與住宿
 
@@ -30,77 +29,63 @@ _srcHash: 5e928acd155528c4eb1f2d095ef5ce52
 
 Oscar Lin提供
 
-第一晚，我哋揀咗位於烏布嘅**Cafe Wayan**食晚餐。呢間餐廳有濃厚嘅峇里島風情，環境優美，充滿咗當地嘅傳統氣息。點咗一份牛扒，味道真係非常正，肉質鮮嫩多汁，不過出菜速度有啲慢，可能係因為我哋到嘅時間比較晏，但整體用餐體驗都係令人滿意。
+第一晚，我哋揀咗位於烏布嘅**Cafe Wayan**食晚餐。呢間餐廳有好濃嘅峇里島風情，環境優美，充滿當地傳統氣息。嗌咗一份牛扒，味道真係好正，肉質鮮嫩多汁，不過出菜速度有啲慢，可能係因為我哋到嘅時間比較晏，但整體用餐體驗都令人滿意。
 
-晚餐後，我哋返去當晚嘅住宿——**Komaneka at Rasa Sayang**酒店。呢間酒店真係好似網上評價講嘅咁靚，無論係房間嘅設計定係整體嘅氛圍都令人感到非常舒服。地理位置亦都好方便，就喺猴林路旁，周圍有唔少景點同餐廳，非常適合觀光同休閒。
+晚餐後，我哋返到當晚嘅住宿——**Komaneka at Rasa Sayang**酒店。呢間酒店真係同網上評價一樣咁靚，無論係房間設計定係整體氛圍都令人覺得好舒服。地理位置亦好方便，就喺猴林路旁邊，周圍有唔少景點同餐廳，好啱觀光同休閒。
 
-> [Komaneka at Rasa Sayang 房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780825441914-309262633.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780825442473-33964023.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780825442900-5906377.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780825443478-5906331.jpg)
 
-已收錄喺[【峇里島烏布住宿】烏布27家特色住宿，體驗峇里島山林美景中嘅奇幻之旅！](/blog/ubud-villas-pool-guide/)
+> Komaneka at Rasa Sayang 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=256185) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685387&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF4_nZrtOsQuyGpmYGhgZGBhtFLFqbGR09HlaJrDvc5uApss79YZVLj0MAT8SUA8-nsSdauroX_TwY6NDFyAoWmMF4-pXmCkbGjYzGIMCc5rCDkekAI9MJxvcKC5imLL5vdoqFmWMT2yWWr0zR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJsYWOoZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrNXBdPmzOb1Pu2e-2LSbOJebU9vlBsS43Lg29hELU3TsJxaGXywMTawMXazMHKeYJgHJ9wq7WPn9IkPM_Bx1w80iXXWjdA0vsO5UlpI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MTI31DU2tjA107gztfPmE2MjaylIClBg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjEZmpubm5mGWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgB1UectBQMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-33856&detailFilters=17|1~17~1*31|685387~31~685387*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/j3XfJIPj)
+
+已經收錄喺[【峇里島烏布住宿】烏布30+特色住宿，體驗峇里島山林美景嘅奇幻之旅！](https://gobaligo.id/blog/ubud-resorts-guide/)
 
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_5a14416d286872d7616020dcbd1bf2a9.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_ab20475d5c3437dcfd6fe1ec09afdc1e.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_6d02f01fb917fd0a63a80bc41f09c716.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_2a8373ccab0b690655a1ef8e7278449d.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_c968c6689df5adb6ca9a4e3a58d16ac1.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_7aa7c67c350f6b2e11e3fb5370c260f4.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_4d31ab36a0df294eb85293381703afb2.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_351fb0220151b49207b615e8efe767a5.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_799b22a1df3f2cc3389a26b5fe75bb18.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_496dc25b8073b83b6cc083862cb98495.jpg)
+## 8月14日：烏布同周邊景點遊覽
 
-## 8月14日：烏布及周邊景點遊覽
+第二日，我哋一早9:30出發，包車開始咗成日嘅旅程。第一站係**Ritatkala Cafe**，呢間係一間喺火山附近嘅咖啡廳，風景真係無敵靚，喺度可以遠眺成個火山景觀。不過，食物嘅味道只可以話係普普通通，冇乜特別驚喜嘅部分，但呢度嘅氛圍同視覺享受足以彌補食物嘅不足。
 
-第二日，我哋一早9:30出發，包車開始咗成日嘅旅程。第一站係**Ritatkala Cafe**，呢間係位於火山附近嘅咖啡廳，風景真係無敵靚，從呢度可以遠眺成個火山景觀。不過，食物嘅味道只可以話係中規中矩，冇特別令人驚艷嘅部分，但呢度嘅氛圍同視覺享受足以彌補食物上嘅不足。
+https://youtu.be/V8YAI0JqIcw
 
 Oscar Lin提供
 
-跟住，我哋嚟到司機推薦嘅**咖啡莊園**。呢度嘅環境令人感到非常愜意，四周綠意盎然，仲有機會同麝香貓合照，令小朋友非常開心。更令人滿意嘅係，包車司機冇強迫推銷任何產品，呢點令我哋感到非常輕鬆自在。
+跟住，我哋嚟到司機推薦嘅**咖啡莊園**。呢度嘅環境令人覺得好寫意，周圍綠油油，仲有機會同麝香貓影相，令小朋友好開心。更加令人滿意嘅係，包車司機冇強迫推銷任何產品，呢點令我哋覺得好輕鬆自在。
 
-之後，我哋去咗著名嘅**聖泉寺**。今日呢度嘅人潮並冇我哋想像中咁多，可能係因為我哋選擇嘅時間比較早。我哋特登請司機帶我哋行完整個祈福儀式，成個過程非常莊嚴神聖，司機仲好細心咁幫我哋錄影同影相，留低咗珍貴嘅回憶。
+之後，我哋去咗著名嘅**聖泉寺**。今日呢度嘅人潮冇我哋想像中咁多，可能係因為我哋揀咗比較早嘅時間。我哋特登叫司機帶我哋行晒成個祈福儀式，成個過程好莊嚴神聖，司機仲好細心咁幫我哋錄影同影相，留低咗珍貴嘅回憶。
 
-最後一站係**Tis Cafe**。呢度嘅餐點味道依然普通，不過勝在冇低消，環境非常輕鬆。不過，要入去欣賞梯田嘅景色需要行一段路，而且只可以睇到一小片梯田，對於期待睇到壯觀梯田景觀嘅人嚟講，可能會有點失望。
+最後一站係**Tis Cafe**。呢度嘅餐點味道依然普通，不過勝在冇最低消費，環境好輕鬆。不過，要入去欣賞梯田嘅景色需要行一段路，而且只係睇到一小片梯田，對於期待睇到壯觀梯田景觀嘅人嚟講，可能會覺得有啲失望。
 
-### 更多烏布吃喝玩樂介紹
+{{block:ubud}}
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_fd111e3e7cdcc264415ab156ab6988dd.jpg)
+## 8月15日：烏布市區漫遊同烏魯瓦圖之旅
 
-烏布（Ubud）係峇里島嘅文化與藝術中心，以綠意盎然嘅梯田、靜謐嘅叢林以及深厚嘅傳統文化吸引住無數旅人。呢度係放鬆身心嘅理想之地。無論係探索當地傳統、享受自然美景、定係各種有趣刺激嘅戶外活動美食+美景嘅獨特體驗，烏布都能帶俾您獨特嘅感動！想了解更多烏布攻略？[請點擊這裡](/blog/ubud-guide/)。
-
-## 8月15日：烏布市區漫遊與烏魯瓦圖之旅
-
-第三日朝早，我哋悠閒咁喺烏布市區行吓，呢度有好多有趣嘅小店同市場，可以買到當地嘅手工藝品同紀念品。
+第三日嘅早上，我哋悠閒咁喺**烏布市區**行街，呢度有好多有趣嘅小店同市場，可以買到當地嘅手工藝品同紀念品。
 
 ![Oscar Lin提供](https://images.gobaligo.id/vocus/vocus_107bf410383ac8c4239e99ca81014ced.jpg)
 
 Oscar Lin提供
 
-下晝，我哋再次包車去烏魯瓦圖（Pura Luhur Uluwatu）睇著名嘅火舞表演。由烏布去呢度要大概三個鐘車程，司機一路開得好穩，令我哋覺得好安心。到咗目的地之後，眼前嘅懸崖寺廟真係令人驚嘆，壯觀嘅景色配上火舞表演，呢種獨特嘅體驗令我哋覺得呢趟長途跋涉非常值得。
+晏晝，我哋再次包車去**烏魯瓦圖**（Pura Luhur Uluwatu）睇出名嘅火舞表演。由烏布過去大約要三個鐘頭車程，司機一路揸得好穩，令我哋好放心。到咗之後，眼前嘅懸崖寺廟真係令人驚嘆，壯觀嘅景色配埋火舞表演，呢種獨特嘅體驗令我哋覺得呢趟長途車好值得。
 
-> 編按：火舞表演係講咩？請睇：[Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演（附訂票資訊）](/blog/kecak-fire-dance-bali/)
+> 編按：火舞表演演啲乜？請睇：[Kecak Fire Dance卡恰火舞秀 峇里島必睇嘅震撼表演（附訂票資訊）](/blog/kecak-fire-dance-bali/)
 
-夜晚，我哋去咗Bali Collection食晚餐，呢度係一個大型嘅購物中心，集合咗多間餐廳同商店，非常適合一家人嚟食飯同購物。
+夜晚，我哋去咗**Bali Collection**食晚餐，呢度係一個大型嘅購物中心，集合咗好多間餐廳同商店，好啱一家人嚟食飯同買嘢。
 
-結束咗一日嘅行程之後，我哋入住咗Ulu Segara Luxury Suites & Villas。呢間酒店雖然有啲舊，但泳池同海灘嘅景色非常靚，房間亦都大到令人驚喜，令我哋有一個舒適嘅夜晚。
+https://youtu.be/3AqPucmnSLE
 
-> [Ulu Segara Luxury Suites & Villas 房價 & 空房查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=544215) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1386552&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NqYeFikmCS-svM8WDnku-sQowGFu9aGR2NQeBzu4OnfOvrwB3beh0CeCKmHHg-jT3Rq7pZ3-dIoEMXIytYYAbjjgshGxnXuT-sEuFLd9jByHSAkekE42GlBUw3TzdZn2Jh5rjBdonlK1N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2SZGFnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJZjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYUMkPaEwRVCAzPw-i3RBFLCwxpzQV4gSghW6pUDsMa3UwXf5sTu_T7pkvNu0mzuXm1Ha5ATEuN66NfcTCFB37iYXhFwtDEytDFyszxymmSUDysNIuVrZAAydvY-MLrL2qUoqGBgYGRqamRua6BomWiUmGZha6JpYmxsZGuoYGZmaGBoYa3ZcOHHxqbGQtBYl3BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWxmzgaujq5RNlzMni5Bgvf-s-RqK1vaSzGHhLsorrzJvPbAhNP2WiA5Q5hcoMUXMf73lgvsI2HySaxVGboh4Rm94gWMDYxMXYzcAowejBGMFUAe4ypGhg2MjDsY_8MA4ytGkOkAmup-MusCAAA&masterhotelid_tracelogid=100025527-0a9ab168-494332-1066101&detailFilters=17|1~17~1*31|1386552~31~1386552*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=708&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/qYbbhFzr)
+結束咗一日嘅行程之後，我哋入住咗**Ulu Segara Luxury Suites & Villas**。呢間酒店雖然有啲舊，但泳池同海灘嘅景色好靚，房間仲大到令人驚喜，令我哋有個舒適嘅夜晚。
 
+![raw-image](https://images.gobaligo.id/images/2026-06/1780825728102-468892650.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780825728492-22391557.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780825728856-42958802.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780825729218-209357380.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-06/1780825729535-255339430.jpg)
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_31d7a5aa31b521d838cb8db2055015c9.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_7289fb810a3943a41eb3cfa03fa6048f.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_430d666c8f20973c2cf298f73cc56359.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_b2fe85727660582c4a1893132f389bd9.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_666d2d8f440c4a17d5503cf6cc5a73cd.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_6619d09f78b2cd3ff531dc30acee9fb5.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_f45fcbea50c9268fbee60402ec218e79.jpg)
-![raw-image](https://images.gobaligo.id/vocus/vocus_54a093ba470d88a5888a8ba02eac6865.jpg)
+> Ulu Segara Luxury Suites & Villas 房價 & 空房查詢 [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=544215) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1386552&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NqYeFikmCS-svM8WDnku-sQowGFu9aGR2NQeBzu4OnfOvrwB3beh0CeCKmHHg-jT3Rq7pZ3-dIoEMXIytYYAbjjgshGxnXuT-sEuFLd9jByHSAkekE42GlBUw3TzdZn2Jh5rjBdonlK1N0tVJ2aqWSlYmOUklmSU6qkpXS00Xznjbseb6iVUlHKSW1OBkoBGQl5uaX5pUA2SZGFnoGBkCRksQKzxSwzuTEnOTSnMSS1JDKAqAJZjpKmcXOJUWZBUGpuZklJalAVWmJOcWpIPGg1GKgTDJYUMkPaEwRVCAzPw-i3RBFLCwxpzQV4gSghW6pUDsMa3UwXf5sTu_T7pkvNu0mzuXm1Ha5ATEuN66NfcTCFB37iYXhFwtDEytDFyszxymmSUDysNIuVrZAAydvY-MLrL2qUoqGBgYGRqamRua6BomWiUmGZha6JpYmxsZGuoYGZmaGBoYa3ZcOHHxqbGQtBYl3BUYtwfgQT08Xw5LCVLPCUsucogJTA8ZTjFKG5sYWhkaGhkZGRpbGeiYWaWbFFnnFFrlZER6MQWxmzgaujq5RNlzMni5Bgvf-s-RqK1vaSzGHhLsorrzJvPbAhNP2WiA5Q5hcoMUXMf73lgvsI2HySaxVGboh4Rm94gWMDYxMXYzcAowejBGMFUAe4ypGhg2MjDsY_8MA4ytGkOkAmup-MusCAAA&masterhotelid_tracelogid=100025527-0a9ab168-494332-1066101&detailFilters=17|1~17~1*31|1386552~31~1386552*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=708&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/qYbbhFzr)
 
-### 更多烏魯瓦圖吃喝玩樂介紹
-
-![raw-image](https://images.gobaligo.id/vocus/vocus_98288a2c42d31d67a6fe1c0547fdd79c.jpg)
-
-烏魯瓦圖係峇里島南部最受歡迎嘅地區之一，以壯麗嘅懸崖景觀、迷人嘅海灘同絕佳嘅衝浪點聞名。呢度充滿熱帶度假嘅浪漫氛圍，係享受日落美景同放鬆時光嘅完美選擇。如果你都想住喺烏魯瓦圖，可以參考以下我哋精心整理嘅吃喝玩樂介紹，令你嘅旅程更加豐富有趣：[【烏魯瓦圖攻略】烏魯瓦圖景點 吃喝玩樂推薦](/blog/uluwatu-guide/)
+{{block:uluwatu}}
 
 ## 8月16日：Finns Club嘅夜生活
 
@@ -108,47 +93,41 @@ Oscar Lin提供
 
 Oscar Lin提供
 
-第四日，我哋去咗**Finns Club**，呢度係一個以沙灘為主題嘅俱樂部。我哋提前訂咗位，夜晚有火舞表演同煙花騷，成個氣氛就好似一個大型嘅戶外夜店，好熱鬧。不過我覺得，如果只係想感受呢度嘅氣氛，其實唔需要提前訂位，傍晚直接walk in入去就得，咁樣反而更加彈性，唔使使太多錢。
+第四日，我哋去咗**Finns Club**，呢個係一個沙灘主題嘅俱樂部。我哋一早訂咗位，夜晚有火舞表演同煙火騷，成個氣氛好似一個大型戶外夜店咁，好熱鬧。不過我自己覺得，如果只係想感受吓呢度嘅氣氛，其實唔使提早訂位，傍晚直接walk in就得，咁樣仲靈活啲，唔使使咁多錢。
 
-> [峇里島度假必去：Finns Beach Club嘅完美體驗指南](/blog/finns-beach-club-bali-guide/)
+https://youtube.com/shorts/wai2lSW3vVU
 
-### 更多坎古吃喝玩樂介紹
+{{block:canggu}}
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_3b47b6501ceec6425040cb1bda360b29.jpg)
-
-坎古（Canggu）係峇里島上結合悠閒氣氛同潮流嘅熱點，唔單止有迷人嘅沙灘，仲聚集咗好多特色咖啡廳、創意餐廳同精品小店，深受滑浪愛好者同年輕旅行者喜愛。無論係追求自然風光定係探索當地文化，坎古都可以滿足你嘅期待！想了解更多坎古攻略？[請點擊呢度](/blog/canggu-guide/)。
-
-## 
-
-## 8月17日：Oneeighty Dayclub同Rock Bar嘅黃昏之美
+## 8月17日：Oneeighty Dayclub同Rock Bar嘅黃昏靚景
 
 ![Oscar Lin提供](https://images.gobaligo.id/vocus/vocus_f862c21bb5cb84ebefb16ef3d47bab26.jpg)
 
 Oscar Lin提供
 
-最後一日嘅行程，我哋又包車展開咗成日嘅遊覽。第一站係**Oneeighty Dayclub**，呢度係一個位於懸崖上嘅高檔俱樂部。呢度嘅環境真係令人感到放鬆，食物亦都相當好味，而且佢哋對入場人數有嚴格嘅控制，所以唔會有擠迫嘅感覺。相比Finns Club，我更加鍾意呢度嘅氣氛，整體嚟講非常愉快。
+最後一日嘅行程，我哋又包車玩足一日。第一站係**Oneeighty Dayclub**，呢個係一個喺懸崖上面嘅高級俱樂部。呢度嘅環境真係好令人放鬆，食物都幾好食，而且佢哋對入場人數控制得好嚴，所以唔會覺得逼。相比Finns Club，我更鍾意呢度嘅氣氛，整體嚟講好開心。
 
-> [Oneeighty Dayclub 介紹與消費方式](/blog/oneeighty-dayclub-uluwatu-pool/)
+https://youtu.be/Czw4ALduV14
 
-之後，我哋去咗位於峇里島西南海岸嘅**Rock Bar**，呢度嘅日落景色真係令人難以忘懷，尤其係夜晚打燈之後，成個酒吧嘅氣氛更加迷人。我哋點咗幾杯飲品，慢慢咁享受呢度嘅美景，呢個絕對係峇里島之行中最浪漫嘅一刻。
+> [Oneeighty Dayclub介紹同消費方式](/blog/oneeighty-dayclub-uluwatu-pool/)
+
+之後，我哋去咗位於峇里島西南海岸嘅**Rock Bar**，呢度嘅日落景色真係令人難忘，尤其係夜晚開燈之後，成個酒吧嘅氣氛更加迷人。我哋叫咗幾杯嘢飲，慢慢享受呢度嘅美景，呢個絕對係峇里島之行最浪漫嘅一刻。
 
 ![Oscar Lin提供](https://images.gobaligo.id/vocus/vocus_4c0f8ef4b6cae5e43a8540b55e1f270b.jpg)
 
 Oscar Lin提供
 
-> 編按：點樣預約Rock Bar？可以參考我哋嘅「[峇里島金巴蘭岩石酒吧 Rock Bar 點樣預約？完整體驗攻略！](/blog/bali-rock-bar-reservation-guide/)」
+https://youtube.com/shorts/tHRxnJqxqbw
 
-最後，我哋結束咗呢一日嘅行程，喺司機嘅推薦下去咗**Calma Spa**做咗一次按摩。呢度嘅環境好優雅，按摩師嘅技術都好專業，搞到我哋不知不覺中放鬆到瞓著咗。
+> 編按：點樣預約Rock Bar？請參考我哋嘅「[峇里島金巴蘭岩石酒吧 Rock Bar 點樣預約？完整體驗攻略！](/blog/bali-rock-bar-reservation-guide/)」
 
-### 更多金巴蘭吃喝玩樂介紹
+最後，我哋結束咗呢日嘅行程，喺司機嘅推薦之下去咗**Calma Spa**做咗一次按摩。呢度嘅環境好優雅，按摩師嘅技術亦都好專業，搞到我哋不知不覺間都放鬆到瞓着咗。
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_c81d870630ca07dead1d2e8614f923c4.jpg)
-
-金巴蘭（Jimbaran）係峇里島上一個以浪漫氣氛同美食聞名嘅海濱天堂，擁有迷人嘅金色沙灘同壯麗嘅日落景色。呢度嘅海鮮餐廳係唔可以錯過嘅美食體驗，同時仲有豪華度假村同寧靜嘅漁村風情，令旅客既可以享受奢華又可以貼近當地生活。無論係家庭出遊定係浪漫約會，金巴蘭都可以滿足你嘅期待！想了解更多金巴蘭？[請點擊呢度](/blog/jimbaran-guide/)。
+{{block:jim}}
 
 ## 8月18日：告別峇里島
 
-最後一日，我哋選擇喺酒店嘅泳池同海灘上度過，享受呢段美好嘅最後時光。下晝，我哋搭飛機返台灣，結束咗呢次充滿美好回憶嘅峇里島之旅。
+最後一日，我哋揀咗喺酒店嘅泳池同海灘度過，享受呢段美好嘅最後時光。下晝，我哋搭飛機返台灣，結束咗呢次充滿美好回憶嘅峇里島之旅。
 
 ## 推薦嘅包車司機
 
@@ -156,15 +135,13 @@ Oscar Lin提供
 
 Oscar Lin提供
 
-呢次行程中，我哋特別推薦**Jon Devn（Agus）**呢位包車司機。佢係由Satrya介紹俾我哋嘅，駕駛技術好穩定，唔會隨意超車或者按喇叭，令我哋喺峇里島嘅山路上感到好安心。司機本人嘅態度都好斯文，車內保持得好乾淨整潔。如果旅程中有任何需要協助嘅部分，佢都好樂意幫忙，令成趟旅行變得更加輕鬆愉快。
+呢次行程入面，我哋特別推薦**Jon Devn（Agus）**呢位包車司機。佢係由Satrya介紹畀我哋嘅，駕駛技術好穩定，唔會亂咁超車或者㩒喇叭，令我哋喺峇里島嘅山路上面覺得好安心。司機本人嘅態度亦都好斯文，車廂保持得好乾淨整潔。如果旅程入面有咩需要幫手嘅地方，佢都好樂意幫手，令成趟旅行變得更加輕鬆愉快。
 
-> 編按：呢位司機都係我哋名人榜嘅常客嚟㗎！  
+> 編按：呢位司機亦都係我哋名人榜嘅常客㗎！
 > [【峇里島包車司機推薦名人榜】巴里島司機網友評鑑大全：睇網友真實點評搵到適合你嘅好司機](/blog/bali-private-car-drivers-guide/)
 
-你覺得 Oscar Lin 佢哋嘅行程好精彩咩？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去社團投稿你嘅行程㗎！
+你覺得Oscar Lin佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家去社團投稿你嘅行程㗎！
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_b5a0cba968aaa3577ecef11a5e41e7db.jpg)
+{{block:遊記}}
 
-撳呢度睇更多峇里島精彩遊記
-
-你都想寫遊記但唔知點樣開始？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
+{{block:攻略}}

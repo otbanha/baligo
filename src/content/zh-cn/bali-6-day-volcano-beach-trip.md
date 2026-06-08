@@ -15,7 +15,7 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_cccd829872b263271c23146285dbe1cb.jpg'
 originalUrl: 'https://vocus.cc/article/66284452fd89780001867c6a'
 lang: zh-cn
-_srcHash: e4042ce666b27872881f27d934e89bc4
+_srcHash: 5b724d04aa49a60ccb38494072f03c52
 ---
 
 我们的脸书社团团友[戴妤珊](https://www.facebook.com/100002382562993/)跟朋友的六天五夜游记，特此提供给我们编辑/转载：
@@ -48,7 +48,7 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 接下来，让我们来回顾一下我的行程吧：
 
-## 第一天（库塔/坎古）
+## 第一天（库塔/坎古）：
 
 - 我们从新加坡转机，到达巴厘岛的时间是13:25
 - 换钱
@@ -60,15 +60,15 @@ Line：crunchiebalitour / IG：crunchie_bali_tour
 
 - 晚餐：La Brisa Bali 风景超美！真的推荐你们来这里度过一个悠闲的傍晚!
 
-https://youtu.be/3QDzs8Vjn1w
-
 视频由戴妤珊提供
 
 > La Brisa详细介绍/如何预约？请看：[被誉为是「巴厘岛最漂亮的餐厅」：La Brisa在数以万计的美食餐厅之中如何脱颖而出？](/blog/canggu-la-brisa-restaurant-guide/)
 
-{{block:canggu}}
+![raw-image](https://images.gobaligo.id/vocus/vocus_a8d594309ff33fbcc5edd332d4309d42.jpg)
 
-## 第二天(Ubud)
+想了解更多坎古攻略？[请点击这里](/blog/canggu-guide/)
+
+## 第二天(Ubud)：
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_936839680fbf5ee6d6185c2862048c20.jpg)
 
@@ -77,11 +77,13 @@ https://youtu.be/3QDzs8Vjn1w
 - 乌布市场
 - 乌布皇宫
 
-> 乌布闹区如何逛？请看[乌布市中心逛街攻略](/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
+> 乌布闹区怎么逛？请看[乌布市中心逛街攻略](/blog/2023-08-16-64dcdf93fd8978000186a9dd/)
 
-- 德格拉朗梯田
+- 德哥拉朗梯田
 
-> 🌾🏞️🍃德格拉朗梯田是巴厘岛必访景点，层层绿意与日落美景，令人流连忘返！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)
+https://youtu.be/op78Dk8CjL4
+
+> 🌾🏞️🍃德哥拉朗梯田是巴厘岛必访景点，层层绿意与日落美景，令人流连忘返！▶[Klook优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=989114&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dalas%2520harum%26spm%3DSearchResult.TopNavigation.SelectCurrency%26clickId%3D499b78ad27)
 
 - 圣泉寺
 
@@ -99,7 +101,7 @@ https://youtu.be/3QDzs8Vjn1w
 - 点心：Tukies cocount shop（椰子冰）
 - 晚餐：Nomad Restaurant（印尼传统料理）
 
-## 第三天(Kintamani)
+## 第三天(Kintamani)：
 
 - Paperhills（观赏巴杜尔/金塔玛尼火山）
 
@@ -111,7 +113,7 @@ https://youtu.be/3QDzs8Vjn1w
 > 巴杜尔/[金塔马尼网美咖啡厅之旅（含四驱吉普车日出＆摄影体验）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82561-kintamani-paperhills-sunrise-coffee-jeep-ubud-tour-tegalalang%2F%3Fspm%3DShoppingCart.SearchSuggest_LIST%26clickId%3D066c0d4a58)
 
 - 百沙基母庙
-- Lempuyang Temple（传说中的天空之门. 不推荐，景点不如预期）
+- Lempuyang Temple（传说中的天空之门，不推荐，景点不如预期）
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_8767b734062caf5be564105cd1f63416.jpg)
 
@@ -123,7 +125,7 @@ https://youtu.be/3QDzs8Vjn1w
 
 {{block:ubud}}
 
-## 第四天(坎古/库塔/金巴兰)：
+## 第四天（坎古/库塔/金巴兰）：
 
 - 海神庙
 
@@ -135,8 +137,6 @@ https://youtu.be/3QDzs8Vjn1w
 - Kuta Art Market
 - Rock Bar
 
-https://youtu.be/0oiv9Ix_3Oc
-
 视频由戴妤珊提供
 
 - 按摩：The Calma Spa Bali - Jimbaran Beach（价格较高但值得，是我们行程中最棒的按摩店之一）
@@ -144,7 +144,7 @@ https://youtu.be/0oiv9Ix_3Oc
 - 午餐：Babi Guling Men Lari（烤乳猪很好吃）
 - 晚餐：Waroeng Kampoeng（当地人常去的热炒店，非常地道）
 
-## 第五天(努沙佩尼达)
+## 第五天（努沙佩尼达）：
 
 - Nusa Penida 跳岛一日游
 
@@ -154,26 +154,30 @@ https://youtu.be/0oiv9Ix_3Oc
 
 {{block:penidaklook}}
 
-## 第六天(Uluwatu)
+## 第六天(Uluwatu)：
 
-- 乌鲁瓦图寺庙
+- 乌鲁瓦图庙
 
 ![戴妤珊提供](https://images.gobaligo.id/vocus/vocus_a094e8ce794bd104ef9706593ce9452a.jpg)
 
 戴妤珊提供
 
+> [巴厘岛乌鲁瓦图庙/情人崖旅游指南：必看亮点与实用建议](https://gobaligo.id/blog/uluwatu-temple-travel-guide/)
+
 - Suluban Beach（美丽的沙滩！）
+
+看小杰的视频介绍
 
 https://youtu.be/hQbBTktqEqY
 
-看小杰的视频介绍
+{{block:uluwatu}}
 
 - 按摩：The Calma Spa Bali
 - 购物：Bali Banana（买伴手礼）
 
-{{block:伴手禮}}
-
 这次的旅程让我们收获满满，如果你正计划着巴厘岛之旅，不妨参考一下我的行程哦！
+
+> [【网友推荐】六大种类，超过20项巴厘岛伴手礼推荐指南：留住珍贵回忆的绝佳选择](https://gobaligo.id/blog/bali-souvenirs-gift-guide/)
 
 ## 【巴厘岛包车司机推荐 Part 2】
 
@@ -181,7 +185,7 @@ https://youtu.be/hQbBTktqEqY
 
 Odon在Rock bar表现得非常出色！他可以帮助我们通过员工通道，并且有权选择座位（这点非常重要！），而且不需要低消，甚至可以选择已被预订的座位。我强烈建议想去Rock bar的人一定要选择他的包车服务，因为一般游客要排长队才能进入，只有住在Rock bar所在酒店的客人才能预订。
 
-Odon给人的感觉与前一位司机完全不同。他给人的感觉就像是一个好朋友，非常热情友好，而且非常风趣幽默。他的英文非常口语易懂，而且乐于推荐餐厅和按摩店。
+Odon给人的感觉与前一位司机完全不同。他给人的感觉就像一个好朋友，非常热情友好，而且非常风趣幽默。他的英文非常口语易懂，而且乐于推荐餐厅和按摩店。
 
 他带我们去了一家当地人非常喜欢的海鲜餐厅，价格便宜而且美味，我们甚至连续两天都去那里用餐。在车上，Odon一直和我们聊天，还会一边介绍景点，一边与我们互动。当我们遇到跳岛时的问题，他也能快速地帮我们解决。
 
@@ -201,4 +205,4 @@ Odon的联系方式： WHATSAPP：085738149995/ID LINE：drmwn8
 
 {{block:遊記}}
 
-{{block:攻略}}
+{{block:戶外}}
