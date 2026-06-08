@@ -1,0 +1,23 @@
+---
+import BizLayout from '../../../layouts/BizLayout.astro';
+import BizCategory from '../../../components/BizCategory.astro';
+import { getBizListings } from '../../../lib/getBizListings';
+
+const all = await getBizListings();
+const listings = all.filter(b => b.category === 'spa');
+const featured = listings.filter(b => b.featured).sort(() => Math.random() - 0.5);
+const regular  = listings.filter(b => !b.featured);
+---
+
+<BizLayout
+  title="巴厘岛中文 SPA / 美容美甲推荐"
+  description="巴厘岛提供中文服务的 SPA、按摩、美甲、美容推荐。"
+>
+  <BizCategory
+    title="💆 美容美甲 / SPA"
+    description="巴厘岛顶级 SPA 体验，中文沟通让你完全放松"
+    featured={featured}
+    regular={regular}
+    lang="zh-cn"
+  />
+</BizLayout>

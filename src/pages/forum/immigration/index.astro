@@ -1,0 +1,1127 @@
+---
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import TopStrip from '../../../components/TopStrip.astro';
+import Footer from '../../../components/Footer.astro';
+
+const supabaseUrl  = import.meta.env.PUBLIC_SUPABASE_URL;
+const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead
+    title="印尼／峇里島簽證入境討論區｜eVisa、電子簽、落地簽、AIAC、旅遊稅 — Go Bali Go"
+    description="峇里島／印尼最新簽證入境資訊互助討論區。電子簽證 eVisa / e-VOA、落地簽 VOA、AIAC 入境卡填寫、IDR 150,000 旅遊稅、簽證延期、入境流程一次搞懂，由旅客即時互助解答。"
+    image="https://images.gobaligo.id/images/2026-05/1779771138794-og.jpg"
+    noSuffix
+  />
+  <meta name="robots" content="index, follow" />
+
+  <!-- JSON-LD Schema: FAQPage -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+      {
+        "@type": "Question",
+        "name": "台灣人去峇里島需要簽證嗎？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "需要。台灣護照無法免簽入境印尼，需辦理 eVisa / e-VOA（電子落地簽）或 VOA（落地簽），費用 IDR 500,000（約 NT$1,000），停留 30 天可延長一次。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "eVisa / e-VOA 和 VOA 有什麼差別？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "eVisa（e-VOA）是電子落地簽，可在出發前於印尼移民署官網線上申請，入境時走電子通道較快。VOA 是現場落地簽，抵達機場後排隊辦理，費用相同但需要排隊時間。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "峇里島旅遊稅怎麼繳？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "自 2024 年 2 月起，所有外國觀光客入境峇里島需繳交 IDR 150,000（約 NT$300）旅遊稅。可在出發前透過 Love Bali 官網（lovebali.baliprov.go.id）線上預繳，或抵達機場後現場繳納。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "什麼是 AIAC 入境卡？要怎麼填？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "AIAC（All Indonesia Arrival Card）是印尼整合後的電子入境申報卡，取代過去的紙本海關申報單與健康申報單。需在入境前 3 天內於印尼海關官網填寫，取得 QR Code 後在機場給海關掃描。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "峇里島簽證可以延期嗎？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "可以。e-VOA 與 VOA 都可延長一次 30 天，總計可停留 60 天。需在簽證到期前提前申請，可透過線上系統或委託當地代辦處理。"
+        }
+      },
+      {
+        "@type": "Question",
+        "name": "入境峇里島需要準備什麼文件？",
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": "需準備：護照（效期 6 個月以上）、回程機票證明、住宿訂房證明、AIAC 入境卡 QR Code、旅遊稅繳費證明（如已線上預繳）。建議將電子文件截圖備份在手機中。"
+        }
+      }
+    ]
+  }
+  </script>
+
+  <!-- JSON-LD Schema: BreadcrumbList -->
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      { "@type": "ListItem", "position": 1, "name": "首頁", "item": "https://gobaligo.id/" },
+      { "@type": "ListItem", "position": 2, "name": "討論區", "item": "https://gobaligo.id/forum/" },
+      { "@type": "ListItem", "position": 3, "name": "簽證／入境", "item": "https://gobaligo.id/forum/immigration/" }
+    ]
+  }
+  </script>
+</head>
+<body>
+  <Header lang="blog" />
+  <TopStrip lang="zh-tw" />
+
+  <!-- List View -->
+  <main id="view-list" class="forum-main">
+    <div class="forum-hero">
+      <h1 class="forum-title">印尼／峇里島簽證／入境討論區</h1>
+      <p class="forum-subtitle">印尼/峇里島簽證最新規定討論：eVisa / e-VOA 電子簽證、VOA 落地簽、AIAC 入境卡、IDR 150,000 旅遊稅</p>
+      <a href="/forum/immigration/new/" class="btn-new-post">＋ 發起新討論</a>
+    </div>
+
+    <div class="search-bar-wrap">
+      <div class="search-bar">
+        <span class="search-icon">🔍</span>
+        <input type="search" id="forum-search" class="search-input"
+          placeholder="搜尋討論標題或內容⋯" maxlength="80" autocomplete="off" />
+        <button id="search-clear" class="search-clear" style="display:none" aria-label="清除">✕</button>
+      </div>
+    </div>
+
+    <div class="topic-tabs" id="topic-tabs">
+      <button class="topic-tab topic-tab--active" data-topic="">全部</button>
+      <button class="topic-tab" data-topic="evisa">電子簽證</button>
+      <button class="topic-tab" data-topic="voa">落地簽</button>
+      <button class="topic-tab" data-topic="aiac">AIAC入境卡</button>
+      <button class="topic-tab" data-topic="tourism-tax">旅遊稅</button>
+      <button class="topic-tab" data-topic="other">其他</button>
+    </div>
+
+    <!-- SEO 內容區塊 -->
+    <div class="seo-content-block">
+      <h2 class="seo-content-title">台灣旅客去印尼／峇里島最新入境規定（2026 更新）</h2>
+      <p class="seo-content-text">
+        台灣護照無法免簽入境印尼，需要先辦理 <strong>e-VOA（電子落地簽，亦稱 eVisa）</strong> 或抵達後辦理 <strong>VOA（落地簽）</strong>，費用為 IDR 500,000（約 NT$1,000），停留期限 30 天，可延長一次共 60 天。
+      </p>
+      <h3 class="seo-content-subtitle">入境前必備：</h3>
+      <ul class="seo-content-list">
+        <li><strong>AIAC（All Indonesia Arrival Card）</strong>：印尼新的電子入境申報卡，整合海關、健康、移民資料，需在入境前 3 天內線上填寫並取得 QR Code。</li>
+        <li><strong>峇里島旅遊稅 IDR 150,000</strong>（約 NT$300）：自 2024 年 2 月起所有外國旅客入境峇里島都需繳交，可透過 Love Bali 官網線上預繳，或抵達機場後現場繳納。</li>
+        <li>護照效期需 6 個月以上、回程機票證明、住宿訂房證明。</li>
+      </ul>
+      <p class="seo-content-text">
+        對任何一步驟有疑問？歡迎在下方發起討論，或瀏覽其他旅客分享的入境經驗。
+      </p>
+    </div>
+
+    <div id="posts-list" class="posts-list">
+      <div class="loading-text">載入中⋯</div>
+    </div>
+
+    <div id="posts-empty" class="posts-empty" style="display:none">
+      <p>這個分類還沒有討論，<a href="/forum/immigration/new/">來第一個發問</a>！</p>
+    </div>
+
+    <div id="load-more-wrap" style="text-align:center;margin-top:1.5rem;display:none">
+      <button id="load-more-btn" class="btn-load-more">載入更多</button>
+    </div>
+
+    <!-- 知識庫固定區塊 -->
+    <div class="kb-pinned">
+      <div class="kb-pinned-header">
+        <span class="kb-pinned-icon">📌</span>
+        <span class="kb-pinned-title">發文前可以先參考下列知識庫</span>
+      </div>
+      <ul class="kb-pinned-list">
+        <li>
+          <a href="/blog/bali-all-indonesia-arrival-guide/" class="kb-pinned-link" target="_blank" rel="noopener">
+            峇里島入境全攻略：AIAC入境卡、關稅、海關申報完整教學
+          </a>
+        </li>
+        <li>
+          <a href="/blog/bali-evisa-customs-health-declaration/" class="kb-pinned-link" target="_blank" rel="noopener">
+            峇里島電子簽證申請 + 海關健康申報表填寫完整教學
+          </a>
+        </li>
+        <li>
+          <a href="/blog/bali-evisa-error-fix/" class="kb-pinned-link" target="_blank" rel="noopener">
+            峇里島電子簽證申請常見錯誤與解決方法
+          </a>
+        </li>
+      </ul>
+    </div>
+  </main>
+
+  <!-- Detail View -->
+  <main id="view-detail" class="forum-main" style="display:none">
+    <div id="detail-loading" class="loading-text">載入中⋯</div>
+    <div id="detail-content"></div>
+  </main>
+
+  <Footer lang="zh-tw" />
+
+  <script define:vars={{ supabaseUrl, supabaseAnon }}>
+  (async () => {
+    const { createClient } = await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm');
+    const sb = createClient(supabaseUrl, supabaseAnon, { auth: { flowType: 'pkce', persistSession: true } });
+
+    const TOPICS = {
+      evisa: '電子簽證問題', voa: '落地簽問題',
+      aiac: 'AIAC入境卡問題', 'tourism-tax': '旅遊稅問題', other: '其他入境問題'
+    };
+    const TOPIC_STYLE = {
+      evisa:         'background:#eff6ff;color:#E63946',
+      voa:           'background:#f0fdf4;color:#166534',
+      aiac:          'background:#fff7ed;color:#9a3412',
+      'tourism-tax': 'background:#fdf4ff;color:#7e22ce',
+      other:         'background:#f1f5f9;color:#475569',
+    };
+    function sanitize(str) {
+      const d = document.createElement('div');
+      d.textContent = str ?? '';
+      return d.innerHTML;
+    }
+
+    function linkify(str) {
+      return sanitize(str)
+        .replace(/\n/g, '<br>')
+        .replace(/(https?:\/\/[^\s<>"&]+(?:&amp;[^\s<>"]+)*)/g, url => {
+          const href = url.replace(/&amp;/g, '&');
+          return `<a href="${href}" target="_blank" rel="noopener noreferrer" class="content-link">${url}</a>`;
+        });
+    }
+
+    function timeAgo(dateStr) {
+      const diff = Math.floor((Date.now() - new Date(dateStr)) / 1000);
+      if (diff < 60)   return '剛剛';
+      if (diff < 3600) return Math.floor(diff/60) + ' 分鐘前';
+      if (diff < 86400) return Math.floor(diff/3600) + ' 小時前';
+      if (diff < 2592000) return Math.floor(diff/86400) + ' 天前';
+      return new Date(dateStr).toLocaleDateString('zh-TW');
+    }
+
+    // ── Post card ────────────────────────────────────────────
+    function renderPostCard(p) {
+      const profile = p.user_profiles || {};
+      const excerpt = (p.content || '').slice(0, 100) + (p.content?.length > 100 ? '⋯' : '');
+      return `
+        <article class="post-card" data-id="${sanitize(p.id)}">
+          <div class="pc-topic-row">
+            <span class="pc-topic-badge" style="${TOPIC_STYLE[p.topic] || ''}">${sanitize(TOPICS[p.topic] || p.topic)}</span>
+          </div>
+          <h2 class="pc-title">${sanitize(p.title)}</h2>
+          <p class="pc-excerpt">${sanitize(excerpt)}</p>
+          <div class="pc-footer">
+            <div class="pc-author">
+              ${profile.avatar_url ? `<img src="${sanitize(profile.avatar_url)}" class="pc-avatar" alt="" />` : '<span class="pc-avatar-ph">👤</span>'}
+              <span class="pc-name">${sanitize(profile.display_name || '匿名')}</span>
+            </div>
+            <div class="pc-meta">
+              <span class="pc-replies">💬 ${p.reply_count || 0}</span>
+              <span class="pc-time">${timeAgo(p.created_at)}</span>
+            </div>
+          </div>
+        </article>`;
+    }
+
+    // ── Post detail ──────────────────────────────────────────
+    function renderPostDetail(p, replies, currentUserId, likedSet = new Set()) {
+      const profile = p.user_profiles || {};
+
+      const repliesHtml = replies.length === 0
+        ? '<p class="no-replies">還沒有回覆，來第一個留言！</p>'
+        : replies.map((r, i) => renderReply(r, currentUserId, likedSet, i === 0)).join('');
+
+      const replyFormHtml = currentUserId
+        ? `<div class="reply-form-wrap">
+            <textarea id="reply-input" class="reply-input" rows="3" maxlength="1000" placeholder="分享你的經驗或解答⋯"></textarea>
+            <div class="reply-form-footer">
+              <span class="reply-char"><span id="reply-count">0</span>/1000</span>
+              <button id="reply-submit" class="btn-reply-submit">送出回覆</button>
+            </div>
+            <div id="reply-error" class="reply-error" style="display:none"></div>
+           </div>`
+        : `<div class="reply-login-prompt">
+            <a href="/forum/login/?next=${encodeURIComponent(location.href)}" class="btn-login-reply">登入後留言</a>
+           </div>`;
+
+      const isAuthor = currentUserId && currentUserId === p.user_id;
+
+      return `
+        <div class="post-detail">
+          <a href="/forum/immigration/" class="pd-back" id="back-to-list">← 返回討論區</a>
+          <div class="pd-topic-row">
+            <span class="pd-topic-badge" style="${TOPIC_STYLE[p.topic] || ''}">${sanitize(TOPICS[p.topic] || p.topic)}</span>
+          </div>
+
+          <div class="pd-title-row">
+            <h1 class="pd-title" id="pd-post-title">${sanitize(p.title)}</h1>
+            ${isAuthor ? `<button class="btn-edit-post" id="btn-edit-post">✏️ 編輯</button>` : ''}
+          </div>
+
+          ${isAuthor ? `
+          <div id="pd-edit-form" class="pd-edit-form" style="display:none">
+            <input type="text" id="edit-title-input" class="edit-title-input" maxlength="100" value="${sanitize(p.title)}" />
+            <textarea id="edit-content-input" class="edit-content-input" rows="7" maxlength="3000">${sanitize(p.content)}</textarea>
+            <div class="edit-form-actions">
+              <button id="btn-save-edit" class="btn-save-edit">儲存</button>
+              <button id="btn-cancel-edit" class="btn-cancel-edit">取消</button>
+              <span id="edit-error" class="edit-error" style="display:none"></span>
+            </div>
+          </div>` : ''}
+
+          <div class="pd-author-row">
+            ${profile.avatar_url ? `<img src="${sanitize(profile.avatar_url)}" class="pd-avatar" alt="" />` : '<span class="pd-avatar-ph">👤</span>'}
+            <span class="pd-author-name">${sanitize(profile.display_name || '匿名')}</span>
+            <span class="pd-time">${timeAgo(p.created_at)}</span>
+          </div>
+          <div class="pd-content" id="pd-post-content">${linkify(p.content)}</div>
+          ${p.image_urls && p.image_urls.length > 0 ? `
+            <div class="pd-images">
+              ${p.image_urls.map(url => `<img src="${sanitize(url)}" class="pd-image" loading="lazy" alt="附圖" />`).join('')}
+            </div>` : ''}
+
+          <section class="replies-section">
+            <h2 class="replies-title">回覆 <span class="replies-count">${replies.length}</span></h2>
+            <div id="replies-list">${repliesHtml}</div>
+            ${replyFormHtml}
+          </section>
+        </div>`;
+    }
+
+    function renderReply(r, currentUserId, likedSet = new Set(), isTop = false) {
+      const profile = r.user_profiles || {};
+      const canEdit = currentUserId === r.user_id;
+      const canDelete = currentUserId === r.user_id;
+      const liked = likedSet.has(r.id);
+      const count = r.like_count || 0;
+      return `
+        <div class="reply-item${isTop && count > 0 ? ' reply-item--top' : ''}" data-reply-id="${sanitize(r.id)}">
+          ${isTop && count > 0 ? '<div class="top-reply-label">❤️ 最多愛心</div>' : ''}
+          <div class="reply-author">
+            ${profile.avatar_url ? `<img src="${sanitize(profile.avatar_url)}" class="reply-avatar" alt="" />` : '<span class="reply-avatar-ph">👤</span>'}
+            <span class="reply-name">${sanitize(profile.display_name || '匿名')}</span>
+            <span class="reply-time">${timeAgo(r.created_at)}</span>
+            ${canEdit   ? `<button class="btn-edit-reply"   data-id="${sanitize(r.id)}">編輯</button>` : ''}
+            ${canDelete ? `<button class="btn-delete-reply" data-id="${sanitize(r.id)}">刪除</button>` : ''}
+          </div>
+          <div class="reply-content" id="reply-content-${sanitize(r.id)}">${linkify(r.content)}</div>
+          <div class="reply-edit-form" id="reply-edit-form-${sanitize(r.id)}" style="display:none">
+            <textarea class="reply-edit-input" rows="3" maxlength="1000">${sanitize(r.content)}</textarea>
+            <div class="reply-edit-actions">
+              <button class="btn-save-reply-edit" data-id="${sanitize(r.id)}">儲存</button>
+              <button class="btn-cancel-reply-edit" data-id="${sanitize(r.id)}">取消</button>
+              <span class="reply-edit-error" style="display:none"></span>
+            </div>
+          </div>
+          <div class="reply-footer">
+            <button class="btn-like-reply${liked ? ' btn-like-reply--liked' : ''}"
+              data-reply-id="${sanitize(r.id)}" data-liked="${liked}">
+              ${liked ? '❤️' : '🤍'} <span class="like-count">${count}</span>
+            </button>
+          </div>
+        </div>`;
+    }
+
+    // ── State ─────────────────────────────────────────────────
+    let page = 0;
+    const PAGE_SIZE = 20;
+    let currentTopic = '';
+    let searchQuery   = '';
+    let searchTimer   = null;
+
+    // ── Load posts ────────────────────────────────────────────
+    async function loadPosts(reset = false) {
+      if (reset) { page = 0; document.getElementById('posts-list').innerHTML = ''; }
+      let q = sb.from('posts')
+        .select('id, topic, title, content, reply_count, created_at, user_profiles(display_name, avatar_url)')
+        .eq('moderation_status', 'approved')
+        .order('created_at', { ascending: false })
+        .range(page * PAGE_SIZE, (page + 1) * PAGE_SIZE - 1);
+      if (currentTopic) q = q.eq('topic', currentTopic);
+      if (searchQuery)  q = q.or(`title.ilike.%${searchQuery}%,content.ilike.%${searchQuery}%`);
+
+      const { data, error } = await q;
+      if (error) { document.getElementById('posts-list').innerHTML = `<p class="load-error">載入失敗：${sanitize(error.message)}</p>`; return; }
+
+      const list = document.getElementById('posts-list');
+      const empty = document.getElementById('posts-empty');
+      const more = document.getElementById('load-more-wrap');
+
+      if (reset && (!data || data.length === 0)) {
+        list.innerHTML = '';
+        empty.style.display = 'block';
+        more.style.display = 'none';
+        return;
+      }
+      empty.style.display = 'none';
+      list.innerHTML += data.map(renderPostCard).join('');
+      page++;
+      more.style.display = data.length === PAGE_SIZE ? 'block' : 'none';
+
+      list.querySelectorAll('.post-card').forEach(card => {
+        card.addEventListener('click', () => {
+          history.pushState(null, '', `/forum/immigration/#${card.dataset.id}`);
+          showDetail(card.dataset.id);
+        });
+      });
+    }
+
+    // ── Load detail ───────────────────────────────────────────
+    async function showDetail(id) {
+      const listView   = document.getElementById('view-list');
+      const detailView = document.getElementById('view-detail');
+      const loading    = document.getElementById('detail-loading');
+      const content    = document.getElementById('detail-content');
+
+      listView.style.display   = 'none';
+      detailView.style.display = 'block';
+      loading.style.display    = 'block';
+      content.innerHTML = '';
+
+      const [postRes, repliesRes, sessionRes] = await Promise.all([
+        sb.from('posts').select('*, image_urls, user_profiles(display_name, avatar_url)').eq('id', id).eq('moderation_status', 'approved').single(),
+        sb.from('replies').select('*, like_count, user_profiles(display_name, avatar_url)')
+          .eq('post_id', id)
+          .order('like_count', { ascending: false, nullsFirst: false })
+          .order('created_at', { ascending: true }),
+        sb.auth.getSession(),
+      ]);
+
+      loading.style.display = 'none';
+
+      if (postRes.error || !postRes.data) {
+        content.innerHTML = '<p class="load-error">找不到此討論，可能已被刪除。<a href="/forum/immigration/">返回列表</a></p>';
+        return;
+      }
+
+      const currentUserId = sessionRes.data?.session?.user?.id ?? null;
+      const replies = repliesRes.data || [];
+
+      // 拉取當前用戶已按愛心的回覆
+      let likedSet = new Set();
+      if (currentUserId && replies.length > 0) {
+        const replyIds = replies.map(r => r.id);
+        const { data: likes } = await sb.from('reply_likes')
+          .select('reply_id')
+          .eq('user_id', currentUserId)
+          .in('reply_id', replyIds);
+        if (likes) likes.forEach(l => likedSet.add(l.reply_id));
+      }
+
+      content.innerHTML = renderPostDetail(postRes.data, replies, currentUserId, likedSet);
+
+      // ── Edit post ──────────────────────────────────────────────
+      const btnEdit = document.getElementById('btn-edit-post');
+      if (btnEdit) {
+        const editForm    = document.getElementById('pd-edit-form');
+        const titleInput  = document.getElementById('edit-title-input');
+        const contentInput= document.getElementById('edit-content-input');
+        const editError   = document.getElementById('edit-error');
+        const pdTitle     = document.getElementById('pd-post-title');
+        const pdContent   = document.getElementById('pd-post-content');
+
+        btnEdit.addEventListener('click', () => {
+          editForm.style.display = 'block';
+          btnEdit.style.display  = 'none';
+          titleInput.focus();
+        });
+
+        document.getElementById('btn-cancel-edit').addEventListener('click', () => {
+          editForm.style.display = 'none';
+          btnEdit.style.display  = 'inline-flex';
+          editError.style.display = 'none';
+        });
+
+        document.getElementById('btn-save-edit').addEventListener('click', async () => {
+          const newTitle   = titleInput.value.trim();
+          const newContent = contentInput.value.trim();
+          editError.style.display = 'none';
+          if (!newTitle || newTitle.length < 5)    { editError.textContent = '標題至少 5 個字元'; editError.style.display = 'inline'; return; }
+          if (!newContent || newContent.length < 10){ editError.textContent = '內容至少 10 個字元'; editError.style.display = 'inline'; return; }
+
+          const saveBtn = document.getElementById('btn-save-edit');
+          saveBtn.disabled = true; saveBtn.textContent = '儲存中⋯';
+
+          const { error } = await sb.from('posts')
+            .update({ title: newTitle, content: newContent })
+            .eq('id', id);
+
+          if (error) {
+            editError.textContent = '儲存失敗：' + error.message;
+            editError.style.display = 'inline';
+            saveBtn.disabled = false; saveBtn.textContent = '儲存';
+            return;
+          }
+
+          // Update displayed title & content without reload
+          pdTitle.textContent = newTitle;
+          pdContent.innerHTML = linkify(newContent);
+          editForm.style.display = 'none';
+          btnEdit.style.display  = 'inline-flex';
+          saveBtn.disabled = false; saveBtn.textContent = '儲存';
+        });
+      }
+
+      // ── Like reply ────────────────────────────────────────────
+      async function handleLikeReply(btn) {
+        const replyId = btn.dataset.replyId;
+        const isLiked = btn.dataset.liked === 'true';
+        const countEl = btn.querySelector('.like-count');
+
+        // Optimistic update
+        const newLiked = !isLiked;
+        btn.dataset.liked = newLiked;
+        btn.classList.toggle('btn-like-reply--liked', newLiked);
+        btn.querySelector('span') && (btn.innerHTML = `${newLiked ? '❤️' : '🤍'} <span class="like-count">${parseInt(countEl?.textContent || '0') + (newLiked ? 1 : -1)}</span>`);
+
+        const { data: { session } } = await sb.auth.getSession();
+        if (!session) {
+          // Roll back and redirect
+          btn.dataset.liked = isLiked;
+          location.href = `/forum/login/?next=${encodeURIComponent(location.href)}`;
+          return;
+        }
+
+        let error;
+        if (newLiked) {
+          ({ error } = await sb.from('reply_likes').insert({ reply_id: replyId, user_id: session.user.id }));
+        } else {
+          ({ error } = await sb.from('reply_likes').delete().eq('reply_id', replyId).eq('user_id', session.user.id));
+        }
+        if (error) {
+          // Roll back optimistic update
+          btn.dataset.liked = isLiked;
+          btn.classList.toggle('btn-like-reply--liked', isLiked);
+          btn.innerHTML = `${isLiked ? '❤️' : '🤍'} <span class="like-count">${parseInt(btn.querySelector('.like-count')?.textContent || '0') + (isLiked ? 1 : -1)}</span>`;
+        }
+      }
+
+      document.querySelectorAll('.btn-like-reply').forEach(btn => {
+        btn.addEventListener('click', () => handleLikeReply(btn));
+      });
+
+      // ── Edit reply ────────────────────────────────────────────
+      function bindReplyEdit(container) {
+        container.querySelectorAll('.btn-edit-reply').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const replyId = btn.dataset.id;
+            const contentEl = document.getElementById(`reply-content-${replyId}`);
+            const formEl    = document.getElementById(`reply-edit-form-${replyId}`);
+            const textarea  = formEl.querySelector('.reply-edit-input');
+            // Pre-fill with current plain text
+            textarea.value = contentEl.innerText;
+            contentEl.style.display = 'none';
+            formEl.style.display = 'block';
+            textarea.focus();
+          });
+        });
+
+        container.querySelectorAll('.btn-cancel-reply-edit').forEach(btn => {
+          btn.addEventListener('click', () => {
+            const replyId = btn.dataset.id;
+            document.getElementById(`reply-content-${replyId}`).style.display = '';
+            document.getElementById(`reply-edit-form-${replyId}`).style.display = 'none';
+          });
+        });
+
+        container.querySelectorAll('.btn-save-reply-edit').forEach(btn => {
+          btn.addEventListener('click', async () => {
+            const replyId  = btn.dataset.id;
+            const formEl   = document.getElementById(`reply-edit-form-${replyId}`);
+            const textarea = formEl.querySelector('.reply-edit-input');
+            const errEl    = formEl.querySelector('.reply-edit-error');
+            const newText  = textarea.value.trim();
+            errEl.style.display = 'none';
+
+            if (!newText) { errEl.textContent = '內容不能為空'; errEl.style.display = 'inline'; return; }
+
+            btn.disabled = true; btn.textContent = '儲存中⋯';
+
+            const { error } = await sb.from('replies').update({ content: newText }).eq('id', replyId);
+            if (error) {
+              errEl.textContent = '儲存失敗：' + error.message;
+              errEl.style.display = 'inline';
+              btn.disabled = false; btn.textContent = '儲存';
+              return;
+            }
+
+            // Update displayed content
+            const contentEl = document.getElementById(`reply-content-${replyId}`);
+            contentEl.innerHTML = linkify(newText);
+            contentEl.style.display = '';
+            formEl.style.display = 'none';
+            btn.disabled = false; btn.textContent = '儲存';
+          });
+        });
+      }
+
+      bindReplyEdit(content);
+
+      // Back button
+      document.getElementById('back-to-list').addEventListener('click', e => {
+        e.preventDefault();
+        history.pushState(null, '', '/forum/immigration/');
+        showList();
+      });
+
+      // Reply char counter
+      const replyInput = document.getElementById('reply-input');
+      if (replyInput) {
+        replyInput.addEventListener('input', () => {
+          document.getElementById('reply-count').textContent = replyInput.value.length;
+        });
+
+        // Reply submit
+        document.getElementById('reply-submit').addEventListener('click', async () => {
+          const text = replyInput.value.trim();
+          const errEl = document.getElementById('reply-error');
+          if (!text) { errEl.textContent = '請輸入回覆內容'; errEl.style.display = 'block'; return; }
+          errEl.style.display = 'none';
+
+          const btn = document.getElementById('reply-submit');
+          btn.disabled = true; btn.textContent = '送出中⋯';
+
+          const { data: session } = await sb.auth.getSession();
+          if (!session?.session) { location.href = `/forum/login/?next=${encodeURIComponent(location.href)}`; return; }
+
+          const { data: newReply, error } = await sb.from('replies').insert({
+            post_id: id,
+            user_id: session.session.user.id,
+            content: text,
+          }).select('*, user_profiles(display_name, avatar_url)').single();
+
+          if (error) {
+            errEl.textContent = '送出失敗：' + error.message;
+            errEl.style.display = 'block';
+            btn.disabled = false; btn.textContent = '送出回覆';
+            return;
+          }
+
+          // Append new reply
+          const repliesList = document.getElementById('replies-list');
+          const noReply = repliesList.querySelector('.no-replies');
+          if (noReply) noReply.remove();
+          repliesList.insertAdjacentHTML('beforeend', renderReply(newReply, session.session.user.id, new Set(), false));
+          const newItem = repliesList.lastElementChild;
+          newItem.querySelector('.btn-delete-reply')?.addEventListener('click', handleDeleteReply);
+          newItem.querySelector('.btn-like-reply')?.addEventListener('click', function() { handleLikeReply(this); });
+          bindReplyEdit(newItem);
+
+          // Update count
+          const countEl = document.querySelector('.replies-count');
+          if (countEl) countEl.textContent = parseInt(countEl.textContent || '0') + 1;
+
+          replyInput.value = '';
+          document.getElementById('reply-count').textContent = '0';
+          btn.disabled = false; btn.textContent = '送出回覆';
+          repliesList.lastElementChild.scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+        });
+
+        // Delete reply handlers
+        document.querySelectorAll('.btn-delete-reply').forEach(btn => {
+          btn.addEventListener('click', handleDeleteReply);
+        });
+      }
+    }
+
+    async function handleDeleteReply(e) {
+      const replyId = e.target.dataset.id;
+      if (!confirm('確定刪除這則回覆？')) return;
+      const { error } = await sb.from('replies').delete().eq('id', replyId);
+      if (error) { alert('刪除失敗：' + error.message); return; }
+      const item = document.querySelector(`.reply-item[data-reply-id="${replyId}"]`);
+      if (item) item.remove();
+      const countEl = document.querySelector('.replies-count');
+      if (countEl) countEl.textContent = Math.max(0, parseInt(countEl.textContent || '1') - 1);
+    }
+
+    function showList() {
+      document.getElementById('view-list').style.display = 'block';
+      document.getElementById('view-detail').style.display = 'none';
+      // 若貼文列表從未載入（直接從 hash URL 進入），補觸發一次
+      const postsList = document.getElementById('posts-list');
+      if (!postsList || postsList.querySelector('.loading-text') || postsList.innerHTML.trim() === '') {
+        loadPosts(true);
+      }
+    }
+
+    // ── Search ───────────────────────────────────────────────
+    const searchInput = document.getElementById('forum-search');
+    const searchClear = document.getElementById('search-clear');
+    const topicTabs   = document.getElementById('topic-tabs');
+
+    searchInput.addEventListener('input', () => {
+      const val = searchInput.value.trim();
+      searchClear.style.display = val ? 'inline-flex' : 'none';
+      clearTimeout(searchTimer);
+      searchTimer = setTimeout(() => {
+        searchQuery = val;
+        // 搜尋時隱藏分類 tabs（避免混淆）
+        topicTabs.style.display = val ? 'none' : '';
+        if (!val) {
+          // 清空搜尋 → 回到分類篩選
+          currentTopic = '';
+          document.querySelectorAll('.topic-tab').forEach(t => t.classList.remove('topic-tab--active'));
+          document.querySelector('.topic-tab[data-topic=""]').classList.add('topic-tab--active');
+        }
+        loadPosts(true);
+      }, 350);
+    });
+
+    searchClear.addEventListener('click', () => {
+      searchInput.value = '';
+      searchInput.dispatchEvent(new Event('input'));
+      searchInput.focus();
+    });
+
+    // ── Topic tabs ────────────────────────────────────────────
+    document.querySelectorAll('.topic-tab').forEach(tab => {
+      tab.addEventListener('click', () => {
+        document.querySelectorAll('.topic-tab').forEach(t => t.classList.remove('topic-tab--active'));
+        tab.classList.add('topic-tab--active');
+        currentTopic = tab.dataset.topic;
+        loadPosts(true);
+      });
+    });
+
+    // ── Load more ─────────────────────────────────────────────
+    document.getElementById('load-more-btn').addEventListener('click', () => loadPosts(false));
+
+    // ── Hash routing ──────────────────────────────────────────
+    function handleHash() {
+      const id = location.hash.slice(1);
+      if (id) {
+        showDetail(id);
+      } else {
+        showList(); // showList() already calls loadPosts(true) if list is empty/loading
+      }
+    }
+
+    window.addEventListener('popstate', handleHash);
+    handleHash();
+  })();
+  </script>
+
+  <style is:global>
+  .forum-main { max-width: 760px; margin: 0 auto; padding: 1.5rem 1rem 4rem; }
+
+  /* Hero */
+  .forum-hero { text-align: center; padding: 2rem 0 1.5rem; }
+  .forum-title { font-size: 1.7rem; color: var(--ocean); margin: 0 0 .4rem; font-weight: 800; }
+  .forum-subtitle { color: var(--text-light); font-size: .9rem; margin-bottom: 1.3rem; }
+  .btn-new-post {
+    display: inline-block;
+    background: var(--ocean);
+    color: #fff;
+    font-weight: 700;
+    font-size: .95rem;
+    padding: .65rem 1.6rem;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: background .15s;
+  }
+  .btn-new-post:hover { background: #1a3a6a; }
+
+  /* Topic tabs */
+  /* Search bar */
+  .search-bar-wrap { margin-bottom: 1rem; }
+  .search-bar {
+    display: flex; align-items: center; gap: .5rem;
+    background: #fff;
+    border: 1.5px solid #d1c9b5;
+    border-radius: 10px;
+    padding: .45rem .75rem;
+    transition: border-color .15s;
+  }
+  .search-bar:focus-within { border-color: var(--ocean); box-shadow: 0 0 0 3px rgba(26,58,93,.08); }
+  .search-icon { font-size: 1rem; opacity: .5; flex-shrink: 0; }
+  .search-input {
+    flex: 1; border: none; outline: none;
+    font-size: .92rem; font-family: inherit;
+    color: var(--text); background: transparent;
+    min-width: 0;
+  }
+  .search-input::placeholder { color: #b0a898; }
+  .search-clear {
+    display: inline-flex; align-items: center; justify-content: center;
+    background: none; border: none; cursor: pointer;
+    color: #b0a898; font-size: .8rem; padding: 0; flex-shrink: 0;
+    width: 18px; height: 18px;
+  }
+  .search-clear:hover { color: var(--text); }
+
+  .topic-tabs { display: flex; gap: .5rem; flex-wrap: wrap; margin-bottom: 1.2rem; }
+  .topic-tab {
+    padding: .4rem 1rem;
+    border: 1.5px solid #e2ddd4;
+    border-radius: 20px;
+    background: #fff;
+    font-size: .85rem;
+    cursor: pointer;
+    color: var(--text);
+    font-family: inherit;
+    transition: all .15s;
+  }
+  .topic-tab:hover { border-color: var(--ocean); color: var(--ocean); }
+  .topic-tab--active { background: var(--ocean); color: #fff; border-color: var(--ocean); }
+
+  /* Post cards */
+  .posts-list { display: flex; flex-direction: column; gap: .8rem; }
+  .post-card {
+    background: #fff;
+    border: 1px solid rgba(201,168,76,.25);
+    border-radius: 12px;
+    padding: 1.1rem 1.3rem;
+    cursor: pointer;
+    transition: transform .15s, box-shadow .15s, border-color .15s;
+    box-shadow: 0 2px 8px rgba(93,64,55,.06);
+  }
+  .post-card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(93,64,55,.11);
+    border-color: rgba(201,168,76,.5);
+  }
+  .pc-topic-row { margin-bottom: .5rem; }
+  .pc-topic-badge {
+    display: inline-block;
+    font-size: .73rem;
+    font-weight: 700;
+    padding: .2em .7em;
+    border-radius: 20px;
+  }
+  .pc-title { font-size: 1rem; font-weight: 700; color: var(--ocean); margin: 0 0 .4rem; }
+  .pc-excerpt { font-size: .88rem; color: var(--text-light); margin: 0 0 .8rem; line-height: 1.55; }
+  .pc-footer { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: .4rem; }
+  .pc-author { display: flex; align-items: center; gap: .4rem; }
+  .pc-avatar { width: 20px; height: 20px; min-width: 20px; max-width: 20px; border-radius: 50%; object-fit: cover; }
+  .pc-avatar-ph { font-size: .9rem; }
+  .pc-name { font-size: .8rem; color: var(--text-light); }
+  .pc-meta { display: flex; align-items: center; gap: .6rem; }
+  .pc-replies { font-size: .8rem; color: var(--text-light); }
+  .pc-time { font-size: .78rem; color: #b0a898; }
+
+  /* Trust badge */
+
+  /* Load more / empty */
+  .loading-text { color: var(--text-light); font-size: .9rem; padding: 2rem 0; text-align: center; }
+  .posts-empty { text-align: center; padding: 3rem 0; color: var(--text-light); }
+  .posts-empty a { color: var(--ocean); }
+  .load-error { color: #c53030; font-size: .9rem; padding: 1rem; }
+  .btn-load-more {
+    background: #fff; border: 1.5px solid rgba(201,168,76,.4);
+    color: var(--ocean); font-size: .9rem; font-weight: 600;
+    padding: .6rem 1.8rem; border-radius: 8px; cursor: pointer;
+    font-family: inherit; transition: background .15s;
+  }
+  .btn-load-more:hover { background: rgba(201,168,76,.08); }
+
+  /* 知識庫固定區塊 */
+  .kb-pinned {
+    margin-top: 2.5rem;
+    border: 2px solid #b8860b;
+    border-radius: 12px;
+    padding: 1rem 1.25rem 1.1rem;
+    background: #fffdf2;
+    box-shadow: 0 2px 8px rgba(184,134,11,.10);
+  }
+  .kb-pinned-header {
+    display: flex;
+    align-items: center;
+    gap: .45rem;
+    margin-bottom: .75rem;
+  }
+  .kb-pinned-icon {
+    font-size: 1rem;
+    flex-shrink: 0;
+  }
+  .kb-pinned-title {
+    font-size: .88rem;
+    font-weight: 700;
+    color: #7a5500;
+    letter-spacing: .01em;
+  }
+  .kb-pinned-list {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: .5rem;
+  }
+  .kb-pinned-list li {
+    display: flex;
+    align-items: flex-start;
+    gap: .4rem;
+  }
+  .kb-pinned-list li::before {
+    content: '→';
+    color: #b8860b;
+    font-size: .82rem;
+    flex-shrink: 0;
+    margin-top: .1em;
+  }
+  .kb-pinned-link {
+    font-size: .84rem;
+    color: #5a4000;
+    text-decoration: none;
+    line-height: 1.45;
+  }
+  .kb-pinned-link:hover {
+    color: #b8860b;
+    text-decoration: underline;
+  }
+
+  /* SEO 內容區塊 */
+  .seo-content-block {
+    margin: 1.8rem 0 2rem;
+    padding: 1.2rem 1.3rem;
+    background: #f9f6f1;
+    border: 1px solid rgba(201,168,76,.2);
+    border-radius: 12px;
+  }
+  .seo-content-title {
+    font-size: 1rem;
+    font-weight: 700;
+    color: var(--ocean);
+    margin: 0 0 0.8rem;
+  }
+  .seo-content-subtitle {
+    font-size: 0.9rem;
+    font-weight: 700;
+    color: var(--text);
+    margin: 1rem 0 0.5rem;
+  }
+  .seo-content-text {
+    font-size: 0.9rem;
+    line-height: 1.7;
+    color: var(--text);
+    margin: 0 0 0.8rem;
+  }
+  .seo-content-list {
+    margin: 0 0 0.8rem 1.2rem;
+    padding: 0;
+    list-style: disc;
+  }
+  .seo-content-list li {
+    font-size: 0.9rem;
+    line-height: 1.7;
+    color: var(--text);
+    margin-bottom: 0.4rem;
+  }
+
+  /* ── Post Detail ── */
+  .post-detail { max-width: 680px; margin: 0 auto; }
+  .pd-back { font-size: .9rem; color: var(--ocean); text-decoration: none; display: inline-block; margin-bottom: 1rem; }
+  .pd-back:hover { color: var(--gold); }
+  .pd-topic-row { margin-bottom: .6rem; }
+  .pd-topic-badge { display:inline-block; font-size:.78rem; font-weight:700; padding:.25em .8em; border-radius:20px; }
+  .pd-title { font-size: 1.4rem; font-weight: 800; color: var(--ocean); margin: 0 0 .8rem; }
+  .pd-author-row { display: flex; align-items: center; gap: .5rem; margin-bottom: 1.2rem; flex-wrap: wrap; }
+  .pd-avatar { width: 24px; height: 24px; min-width:24px; max-width:24px; border-radius: 50%; object-fit: cover; }
+  .pd-avatar-ph { font-size: 1.1rem; }
+  .pd-author-name { font-size: .88rem; font-weight: 600; color: var(--text); }
+  .pd-time { font-size: .8rem; color: #b0a898; }
+  .pd-content {
+    font-size: .95rem; line-height: 1.8; color: var(--text);
+    background: #fafaf8; border: 1px solid rgba(201,168,76,.15);
+    border-radius: 10px; padding: 1.2rem; margin-bottom: 1.5rem;
+  }
+  .content-link {
+    color: var(--ocean);
+    text-decoration: underline;
+    word-break: break-all;
+  }
+  .content-link:hover { color: var(--gold); }
+
+  /* Post images — full width */
+  .pd-images {
+    display: flex; flex-direction: column; gap: .7rem;
+    margin: 0 0 1.5rem;
+  }
+  .pd-image {
+    width: 100%; height: auto;
+    border-radius: 10px;
+    border: 1px solid rgba(201,168,76,.2);
+    display: block;
+  }
+
+  /* Edit post */
+  .pd-title-row {
+    display: flex; align-items: flex-start; gap: .7rem;
+    margin-bottom: .8rem;
+  }
+  .pd-title-row .pd-title { margin-bottom: 0; flex: 1; }
+  .btn-edit-post {
+    display: inline-flex; align-items: center; gap: .3rem;
+    background: none; border: 1px solid #d1c9b5;
+    border-radius: 7px; padding: .3em .75em;
+    font-size: .78rem; color: var(--ocean);
+    cursor: pointer; white-space: nowrap; flex-shrink: 0;
+    margin-top: .3rem;
+  }
+  .btn-edit-post:hover { background: #f5f0e8; }
+  .pd-edit-form {
+    background: #fafaf8; border: 1px solid rgba(201,168,76,.25);
+    border-radius: 10px; padding: 1rem; margin-bottom: 1rem;
+    display: flex; flex-direction: column; gap: .6rem;
+  }
+  .edit-title-input {
+    border: 1px solid #d1c9b5; border-radius: 7px;
+    padding: .55rem .8rem; font-size: .95rem;
+    font-family: inherit; width: 100%; box-sizing: border-box;
+    color: var(--text);
+  }
+  .edit-title-input:focus { outline: none; border-color: var(--ocean); }
+  .edit-content-input {
+    border: 1px solid #d1c9b5; border-radius: 7px;
+    padding: .55rem .8rem; font-size: .92rem;
+    font-family: inherit; width: 100%; box-sizing: border-box;
+    color: var(--text); resize: vertical; min-height: 120px; line-height: 1.6;
+  }
+  .edit-content-input:focus { outline: none; border-color: var(--ocean); }
+  .edit-form-actions { display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; }
+  .btn-save-edit {
+    background: var(--ocean); color: #fff;
+    border: none; border-radius: 7px;
+    padding: .45rem 1.1rem; font-size: .88rem; font-weight: 600; cursor: pointer;
+  }
+  .btn-save-edit:disabled { opacity: .55; cursor: not-allowed; }
+  .btn-cancel-edit {
+    background: none; border: 1px solid #d1c9b5;
+    border-radius: 7px; padding: .45rem .9rem;
+    font-size: .88rem; cursor: pointer; color: var(--text);
+  }
+  .edit-error { font-size: .82rem; color: #c53030; }
+
+  /* Replies */
+  .replies-section { margin-top: 1.5rem; }
+  .replies-title { font-size: .95rem; font-weight: 700; color: var(--ocean); margin: 0 0 1rem; }
+  .replies-count { background: rgba(201,168,76,.15); color: var(--ocean); font-size: .8rem; padding: .1em .5em; border-radius: 10px; margin-left: .3rem; }
+  .no-replies { color: var(--text-light); font-size: .9rem; text-align: center; padding: 1.5rem 0; }
+
+  .reply-item {
+    padding: .9rem 0;
+    border-bottom: 1px solid rgba(201,168,76,.12);
+  }
+  .reply-item:last-child { border-bottom: none; }
+  .reply-author { display: flex; align-items: center; gap: .4rem; margin-bottom: .4rem; flex-wrap: wrap; }
+  .reply-avatar { width: 20px; height: 20px; min-width:20px; max-width:20px; border-radius: 50%; object-fit: cover; }
+  .reply-avatar-ph { font-size: .9rem; }
+  .reply-name { font-size: .83rem; font-weight: 600; color: var(--text); }
+  .reply-time { font-size: .78rem; color: #b0a898; margin-left: .2rem; }
+  .reply-content { font-size: .9rem; line-height: 1.7; color: var(--text); padding-left: .2rem; }
+  .btn-edit-reply, .btn-delete-reply {
+    background: none; border: none;
+    font-size: .75rem; color: #ccc; cursor: pointer; padding: 0;
+  }
+  .btn-edit-reply { margin-left: auto; }
+  .btn-edit-reply:hover { color: var(--ocean); }
+  .btn-delete-reply:hover { color: #ef4444; }
+
+  /* Reply inline edit form */
+  .reply-edit-form { margin-top: .5rem; }
+  .reply-edit-input {
+    width: 100%; box-sizing: border-box;
+    border: 1px solid #d1c9b5; border-radius: 8px;
+    padding: .5rem .75rem; font-size: .9rem;
+    font-family: inherit; resize: vertical;
+    line-height: 1.6; color: var(--text);
+  }
+  .reply-edit-input:focus { outline: none; border-color: var(--ocean); }
+  .reply-edit-actions { display: flex; align-items: center; gap: .5rem; margin-top: .4rem; }
+  .btn-save-reply-edit {
+    background: var(--ocean); color: #fff; border: none;
+    border-radius: 6px; padding: .3rem .85rem;
+    font-size: .82rem; font-weight: 600; cursor: pointer;
+  }
+  .btn-save-reply-edit:disabled { opacity: .55; cursor: not-allowed; }
+  .btn-cancel-reply-edit {
+    background: none; border: 1px solid #d1c9b5;
+    border-radius: 6px; padding: .3rem .7rem;
+    font-size: .82rem; cursor: pointer; color: var(--text);
+  }
+  .reply-edit-error { font-size: .78rem; color: #c53030; }
+
+  /* Top reply */
+  .reply-item--top {
+    background: #fffbf0;
+    border-radius: 10px;
+    padding: .9rem .85rem;
+    border: 1px solid #f0e090;
+    margin-bottom: .5rem;
+  }
+  .top-reply-label {
+    font-size: .72rem; font-weight: 700;
+    color: #b07d00; margin-bottom: .4rem;
+    letter-spacing: .02em;
+  }
+
+  /* Like button */
+  .reply-footer { margin-top: .5rem; padding-left: .1rem; }
+  .btn-like-reply {
+    display: inline-flex; align-items: center; gap: .3rem;
+    background: none; border: 1px solid #e5dfc8;
+    border-radius: 20px; padding: .2em .75em;
+    font-size: .82rem; cursor: pointer; color: #888;
+    transition: background .15s, border-color .15s, color .15s;
+    line-height: 1;
+  }
+  .btn-like-reply:hover { background: #fff0f0; border-color: #f9a8a8; color: #e05555; }
+  .btn-like-reply--liked { background: #fff0f0; border-color: #f9a8a8; color: #e05555; }
+  .like-count { font-size: .8rem; font-weight: 600; }
+
+  /* Reply form */
+  .reply-form-wrap { margin-top: 1.2rem; padding-top: 1rem; border-top: 1px solid rgba(201,168,76,.15); }
+  .reply-input {
+    width: 100%; box-sizing: border-box;
+    border: 1px solid #d1c9b5; border-radius: 8px;
+    padding: .7rem .9rem; font-size: .92rem;
+    font-family: inherit; resize: vertical; min-height: 80px;
+    transition: border-color .15s;
+  }
+  .reply-input:focus { outline: none; border-color: var(--ocean); box-shadow: 0 0 0 3px rgba(26,58,93,.08); }
+  .reply-form-footer { display: flex; justify-content: space-between; align-items: center; margin-top: .5rem; }
+  .reply-char { font-size: .75rem; color: var(--text-light); }
+  .btn-reply-submit {
+    background: var(--ocean); color: #fff;
+    border: none; border-radius: 8px;
+    padding: .5rem 1.2rem; font-size: .9rem; font-weight: 600;
+    cursor: pointer; font-family: inherit;
+    transition: background .15s;
+  }
+  .btn-reply-submit:hover:not(:disabled) { background: #1a3a6a; }
+  .btn-reply-submit:disabled { opacity: .55; cursor: not-allowed; }
+  .reply-error { font-size: .82rem; color: #c53030; margin-top: .4rem; }
+
+  .reply-login-prompt { margin-top: 1.2rem; padding-top: 1rem; border-top: 1px solid rgba(201,168,76,.15); text-align: center; }
+  .btn-login-reply {
+    display: inline-block; background: var(--ocean); color: #fff;
+    padding: .55rem 1.3rem; border-radius: 8px;
+    text-decoration: none; font-weight: 600; font-size: .9rem;
+  }
+  </style>
+</body>
+</html>

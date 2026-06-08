@@ -1,0 +1,1423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>峇里島庫塔攻略地圖by gobaligo.id</name>
+    <description>峇里島旅遊攻略：https://gobaligo.id</description>
+    <Style id="icon-1577-E65100-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1577-E65100-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1577-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1577-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1577-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1602-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1602-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-6.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1602-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1602-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1602-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1684-558B2F-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1684-558B2F-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1684-558B2F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1684-558B2F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1684-558B2F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1696-3949AB-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1696-3949AB-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1696-3949AB">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1696-3949AB-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1696-3949AB-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-5.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-FFD600-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-FFD600-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-FFD600-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-FFD600-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-FFD600-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>庫塔景點</name>
+      <Placemark>
+        <name>伍拉·賴國際機場</name>
+        <styleUrl>#icon-1899-FFD600-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.1681653,-8.7469911,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庫塔海灘路 Jalan Pantai Kuta</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            115.1693303,-8.719969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>雷吉安大街 Jalan Legian</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            115.1729048,-8.7119258,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>日落大道 Jalan Sunset Road</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            115.1858007,-8.7116828,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庫塔廣場 Kuta Square</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            115.1717169,-8.7238312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庫塔藝術市場 Kuta Art Market</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            115.170622,-8.724625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poppies Lane 1</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            115.1747317,-8.7212133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poppies Lane II</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            115.1717654,-8.7172485,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島炸彈紀念碑 Bali Bo,b (Ground Zero)</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            115.1744685,-8.7173941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dharmayana Temple</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            115.1778992,-8.7238605,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Satria Gatotkaca Park</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            115.1788673,-8.7443882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuta Beach Sea Turtle Conservation Center</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            115.169764,-8.7232181,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庫塔夜市</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            115.1781428,-8.7243764,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>庫塔海灘大門入口處 Kuta Beach Gate</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1899-FFD600</styleUrl>
+        <Point>
+          <coordinates>
+            115.169752,-8.7224026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>庫塔活動</name>
+      <Placemark>
+        <name>很多衝浪學校</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1696-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            115.1691514,-8.7202707,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waterbom Bali水上樂園</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1696-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            115.16929,-8.7285829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Circus Waterpark Kuta</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1696-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            115.1752124,-8.7372882,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trans Studio Bali Theme Park</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1696-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            115.1847671,-8.7025328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Upside Down World Bali</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1696-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            115.2052612,-8.716711,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>很多海灘運動在這裡</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1696-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            115.1692808,-8.7243214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>5GX Bali</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1696-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            115.174477,-8.7178511,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Azul Beach Club Bali</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1696-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            115.1664586,-8.7072715,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boardwalk Restaurant Bali</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1696-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            115.1677663,-8.7270319,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sky Garden Bali</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1696-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            115.1747921,-8.7178252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>LEGION PARTY CLUB BALI</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1696-3949AB</styleUrl>
+        <Point>
+          <coordinates>
+            115.173157,-8.713051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ZONEOUT Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7YKvr2NyirSweBRqG3WiuRGlrHjRrJm0bTcDSc9x7n0kByHnbugqCKg7jnz1iIH7kdt2kjqw6llEoXvIJkQ0eQpgHTbjUlcKnQpxKQLGjEGq7Hdp9t062W5d3sedk37xLEUBHPNKQjLuqD6hS7eGK8tGFkPMJa0VnuLo9NsekNoaweKcipmkJkqr-acaDaRq8_HH7E6WXvo11eyjuZK9sWrLM0ZUvMZSukVXBsWjdme96yjK3Wr5Rs6kyUVg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>🎮 ZONE OUT Bali：庫塔最酷的室內VR冒險基地！<br><br>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide<br><br>想在峇里島找個不怕曬又超好玩的活動嗎？位於庫塔雷吉安的 ZONE OUT Bali 絕對是你的不二選擇！這家高科技室內樂園主打 VR虛擬實境體驗，讓你化身賽車手、太空探險家、甚至喪屍獵人，在超逼真的場景中盡情冒險。<br><br>這裡有各式刺激遊戲可選：賽車、射擊、恐怖、冒險、雲霄飛車等，設備新穎、畫面沉浸感十足，無論大人小孩都能玩得開心。地點位於庫塔鬧區，交通方便，是雨天或午後休閒的理想選擇。<br><br>不少旅客讚嘆這裡「設施乾淨又新」、「工作人員親切」、「大人玩得比孩子還瘋🤣」，也有人說這是「峇里島最有科技感的娛樂體驗」。<br><br>看詳細介紹：https://s.id/zoneout]]></description>
+        <styleUrl>#icon-1696-3949AB</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7YKvr2NyirSweBRqG3WiuRGlrHjRrJm0bTcDSc9x7n0kByHnbugqCKg7jnz1iIH7kdt2kjqw6llEoXvIJkQ0eQpgHTbjUlcKnQpxKQLGjEGq7Hdp9t062W5d3sedk37xLEUBHPNKQjLuqD6hS7eGK8tGFkPMJa0VnuLo9NsekNoaweKcipmkJkqr-acaDaRq8_HH7E6WXvo11eyjuZK9sWrLM0ZUvMZSukVXBsWjdme96yjK3Wr5Rs6kyUVg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1776492,-8.7008697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>庫塔的購物</name>
+      <Placemark>
+        <name>Beachwalk Shopping Center</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1684-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            115.168807,-8.7169483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Discovery Mall Bali</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1684-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            115.1681362,-8.7286035,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lippo Mall</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1684-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            115.1673034,-8.7347776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mal Bali Galeria</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1684-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            115.1843392,-8.7232236,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Trans Studio Mall Bali</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1684-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            115.1828021,-8.7018086,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krisna 庫塔有多家分店</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1684-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            115.1807655,-8.7036339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pabrik Kata-Kata Joger</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1684-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            115.1771451,-8.7273814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Geneva</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1684-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            115.164326,-8.679723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pie Susu Asli Enaaak</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1684-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            115.1781882,-8.7085044,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prema Rasa - Oleh Oleh Khas Bali</name>
+        <description>請看（庫塔攻略」介紹：https://gobaligo.id/go/kuta-guide</description>
+        <styleUrl>#icon-1684-558B2F</styleUrl>
+        <Point>
+          <coordinates>
+            115.1771186,-8.7301367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>庫塔美食推薦</name>
+      <Placemark>
+        <name>雷吉安美食廣場 Legian Food Court</name>
+        <description><![CDATA[請看網誌的介紹&優惠項目：https://gobaligo.id/go/kuta-guide]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1756516,-8.7094349,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hard Rock Cafe Bali</name>
+        <description><![CDATA[請看網誌的介紹&優惠項目：https://gobaligo.id/go/kuta-guide]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1699576,-8.7218638,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fat Chow</name>
+        <description><![CDATA[請看網誌的介紹&優惠項目：https://gobaligo.id/go/kuta-guide]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1701276,-8.7183339,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>發呆亭 Bale Udang Mang Engking Kuta</name>
+        <description><![CDATA[請看網誌的介紹&優惠項目：https://gobaligo.id/go/kuta-guide]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1830284,-8.6996704,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bebek Tepi Sawah Beachwalk</name>
+        <description><![CDATA[請看網誌的介紹&優惠項目：https://gobaligo.id/go/kuta-guide]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.168807,-8.7169483,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Wanaku Seafood & Chinese Restaurant]]></name>
+        <description><![CDATA[請看網誌的介紹&優惠項目：https://gobaligo.id/go/kuta-guide]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1725544,-8.738708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Babi Guling Bu Dayu Kencani</name>
+        <description><![CDATA[請看網誌的介紹&優惠項目：https://gobaligo.id/go/kuta-guide]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1773521,-8.7221689,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuta Social Club</name>
+        <description><![CDATA[屋頂無邊際泳池俯瞰令人驚歎的庫塔海灘<br>請看網誌的介紹&優惠項目：https://gobaligo.id/go/kuta-guide]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1677995,-8.712884,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jamie Oliver Kitchen | Kuta Beach</name>
+        <description><![CDATA[請看網誌的介紹&優惠項目：https://gobaligo.id/go/kuta-guide]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1706772,-8.7224464,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Rosso Vivo Dine & Lounge]]></name>
+        <description><![CDATA[請看網誌的介紹&優惠項目：https://gobaligo.id/go/kuta-guide]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1692571,-8.7191886,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>越南餐廳 MeVui Vietnam Kitchen</name>
+        <description><![CDATA[請看網誌的介紹&優惠項目：https://gobaligo.id/go/kuta-guide]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1728233,-8.7120098,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sate Babi Bawah Pohon</name>
+        <description><![CDATA[請看網誌的介紹&優惠項目：https://vocus.cc/article/657598bdfd8978000120fe20]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.175621,-8.701851,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Temple by Ginger Moon</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6oz6Pf300mPPQvk-olDokJjNhPmkbpXiZV64l3_SrlTi1wS9YcX-ENIjan0UasdgPzTpy5pt_otkC5rY3con6CM0axC0u2Ruh2ePHwk38ibVbB_wTcm0o7nh12k-WEHovcet8qyq79s8jEdzJrPJlbRg-yDHhQ9OT9tzQtu5_veEKdY4jYAi4ZkkVMIj97_j01HrFLukf4ctJpIt-4WzLy5EwHZRHLmCT1HOWKGeiRxdCq50v6UZQIW2n45w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看網誌的介紹&優惠項目：https://vocus.cc/article/657598bdfd8978000120fe20]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6oz6Pf300mPPQvk-olDokJjNhPmkbpXiZV64l3_SrlTi1wS9YcX-ENIjan0UasdgPzTpy5pt_otkC5rY3con6CM0axC0u2Ruh2ePHwk38ibVbB_wTcm0o7nh12k-WEHovcet8qyq79s8jEdzJrPJlbRg-yDHhQ9OT9tzQtu5_veEKdY4jYAi4ZkkVMIj97_j01HrFLukf4ctJpIt-4WzLy5EwHZRHLmCT1HOWKGeiRxdCq50v6UZQIW2n45w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1696838,-8.7273536,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rumah Makan KBS Seafood</name>
+        <description><![CDATA[去峇裡島的都給我衝Rumah Makan KBS海鮮！在峇裡島餐廳Rumah Makan KBS Seafood，體驗了兩次。第一頓沒吃完就決定第二天還來，所以是兩次，哈哈哈！此起彼伏的「太好吃了」讚歎中，我們討論廚子肯定是個中國人，才能把海鮮不同口味燒得這麼出神入化、斷層地好吃。結果不是，看起來是個印尼大哥😂<br>第一天點了1.7公斤的大螃蟹，黑胡椒做得簡直絕了，還有鹹蛋黃和微辣炒的也是YYDS。蒜蓉龍蝦和甜辣龍蝦，肉質鮮美緊實就不說了，從來沒吃過這麼香甜的蒜蓉。是超級大個子皮皮蝦，3個對蒜蓉不感冒的人都覺得烤蒜蓉也太香了吧！圖7的蔬菜，我們2天點了4份<br>白天在烏布躲雨，隨便進了一家咖啡廳，看起來就很chill，而且沙拉、甜點也很好吃——正常好吃，不是KBS那種好吃到一見鍾情地斷層好吃，哈哈哈。<br>作為一個旅行愛好者吃過50個國家食物的資深旅行者，強烈推薦大家巴厘島一定要吃Rumah Makan KBS Seafood（Jl. Raya Kuta No.123, Kuta, Kec. Kuta, Kabupaten Badung, Bali 80361），希望餐廳可以好好活下去，等到下次去峇裡島😂😂😂 ~Come Chrn提供~]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1804032,-8.7201379,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TAKE Authentic Japanese Cuisine</name>
+        <description><![CDATA[在這裡盡情享用多樣化的日式美食！<br>餐廳充滿 經典的日式氛圍，環境靜謐雅致，讓您在輕鬆舒適的空間中享受用餐時光。🍱🍣<br>提供豐富多樣的菜單選擇，無論是壽司、刺身、拉麵還是定食，都能滿足不同口味與需求，帶來道地的日本味覺體驗。<br>無論是家庭聚餐、朋友聚會，或是單獨用餐，TAKE 日本料理都是您在庫塔不可錯過的美食選擇！]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1752929,-8.7099085,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bene Italian Kitchen</name>
+        <description><![CDATA[在峇里島庫塔喜來登渡假村 Bene 義式餐廳，享受精緻的 二道式或三道式午餐／晚餐套餐。餐廳位於二樓，可一覽壯麗的印度洋海景，結合舒適悠閒的氛圍與現代時尚的裝潢，帶來視覺與味覺的雙重享受。挑選您喜愛的套餐組合，盡情品嚐多樣化的料理選擇，從地道的印尼風味、經典義式佳餚，到國際融合料理，應有盡有。<br>在俯瞰庫塔海灘的迷人景觀中用餐，讓每一刻都成為美好回憶。<br><br>請看網誌的介紹&優惠項目：https://gobaligo.id/go/kuta-guide]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.169129,-8.717961,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Beer On Wheels Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5BKazkHKDjgrZpJXacxVHrGjKrAb8m3sdw0cdpGC8epRNYNgC8Im9odzFxPMqh2PpOO-UPhHI46IOMG4ScwX4b-NM_xH-VjC4EawVIRJoVomE5ouo6-1R_CX97GVoEA6SBmkrWmBvDgM3oP5Zia3vZsPCvyZbp3Jr9iqDArwkK0p_Ygn65bMGvTgBf74bI9QB1kdUULxbGwGeu9rkpN_G2ntWeIVKQ9E3u_PBtbxsGvb11kYWP29cqJV7S-A?authuser=0&fife=s16383" height="200" width="auto" /><br><br>想要在峇里島體驗一場與眾不同的歡樂時光嗎？那就千萬別錯過 Beer on Wheels Bali！這是一個將酒吧搬到車輪上的獨特體驗，讓遊客在庫塔和雷吉安地區的街道上，一邊暢飲冰鎮啤酒，一邊享受音樂和派對氛圍。無論是與朋友、家人還是獨自旅行，這趟2小時的啤酒巴士之旅絕對會讓人愛上峇里島的活力與熱情！難得出國就瘋一回吧！<br><br>詳細介紹：https://gobaligo.id/blog/2025-03-15-67d4f8e0fd897800017aca0f/]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5BKazkHKDjgrZpJXacxVHrGjKrAb8m3sdw0cdpGC8epRNYNgC8Im9odzFxPMqh2PpOO-UPhHI46IOMG4ScwX4b-NM_xH-VjC4EawVIRJoVomE5ouo6-1R_CX97GVoEA6SBmkrWmBvDgM3oP5Zia3vZsPCvyZbp3Jr9iqDArwkK0p_Ygn65bMGvTgBf74bI9QB1kdUULxbGwGeu9rkpN_G2ntWeIVKQ9E3u_PBtbxsGvb11kYWP29cqJV7S-A?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1728906,-8.7244821,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bamboo Bar & Grill Restaurant]]></name>
+        <description><![CDATA[位於庫塔Discovery Mall對面<br>這是一家運動酒吧, 地圖上的評價還不錯<br>1千6百多則評論有4.4顆星<br>原本對於運動酒吧的食物沒有什麼高的期待<br>結果食物還不錯吃, 吃到都忘記要拍照了<br>餐廳裡熱鬧的氣氛, 還可以看著庫塔街上人來人往<br>還有樂團駐唱, 服務生也都很熱情<br>很特別的是, 餐廳裡的地板竟然是鋪滿海灘的沙子<br>如果您有住這一區, 逛街逛累了, 餓了<br>可以進來點杯酒吃點東西, 休息放鬆一下, 開心<br><br>李秋雄提供]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1690291,-8.7288207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shinta warung</name>
+        <description>供應道地印尼家常菜的平價小餐廳。味道正宗，價格實惠，是體驗當地日常飲食文化、品嚐貼近本地人生活滋味的好去處。</description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1691047,-8.7300442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>素食 Vegan at Discovery Mall , Kuta Bali</name>
+        <description>mall樓上有個小攤Vegan at Discovery Mall，吃到最好吃的餛飩和炒飯。而且完全是路邊攤的價格，星級餐廳的口味。(高雄的元元提供)</description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.1681354,-8.7285742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Made's Warung Kuta]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7fRBS8m7rqH00mhA6nxNtz3ZbuxF3BmcAlCKF_044pEHrw753tzeLPDUzy_BtgajHjmsT8kvhYgqxdjhH3orKfZZHorfy-3xmu6tiZq8OHcUxFDlJOcWE1wFMCd_5aMdC9lbVsCWIHo7aP61G3mn3Bbkb-IaWZvXEWU_L0Rexp6i8qEAZ6CN27oWuYGWZOfoThqJhkHF2aGhz8Yg6_FXHo9CMQBx_IDLZvPqSqT0CfIn3IJfmVzb_NHFBo8Q?authuser=0&fife=s16383" height="200" width="auto" /><br><br>這間從 1969 年就開業的老字號，現在已經是庫塔地標等級的餐廳了，來這裡吃吃印尼在地料理準沒錯：<br>• 🍢 沙嗲雞肉 ($122)：烤得微微焦香，配上花生醬，鹹甜交織真的很刷嘴。✅推薦<br>• 🍚 特製印尼炒飯 ($160)：這盤其實更像豪華版的 Nasi Campur（什錦飯），但很辣！⚠️注意<br>• 🍜 特製印尼炒麵 ($113)：鑊氣十足，配上碎蛋，簡單卻很到位。✅推薦<br>• 🥗 越南春捲 ($75)：清爽開胃菜。👀一般般<br>• 🍌香蕉煎餅 ($85) ：軟趴趴，不行❌<br>• 🥑 酪梨果汁 ($66)：濃稠程度像在喝奶昔！✅給過<br>• 🥤冰茶 ($42)：安全牌✅<br>這裡的口味對觀光客很友好，雖然價格比路邊攤貴，但為了避免Bali Belly，這間印尼料理餐廳還是推薦一下！<br><br>（Gary哥不想上班提供）]]></description>
+        <styleUrl>#icon-1577-E65100</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7fRBS8m7rqH00mhA6nxNtz3ZbuxF3BmcAlCKF_044pEHrw753tzeLPDUzy_BtgajHjmsT8kvhYgqxdjhH3orKfZZHorfy-3xmu6tiZq8OHcUxFDlJOcWE1wFMCd_5aMdC9lbVsCWIHo7aP61G3mn3Bbkb-IaWZvXEWU_L0Rexp6i8qEAZ6CN27oWuYGWZOfoThqJhkHF2aGhz8Yg6_FXHo9CMQBx_IDLZvPqSqT0CfIn3IJfmVzb_NHFBo8Q?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.174951,-8.722296,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>庫塔SPA推薦</name>
+      <Placemark>
+        <name>庫塔SPA推薦</name>
+        <description>我們推薦的零差評SPA集合：https://gobaligo.id/go/spa</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1701292,-8.7200008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>庫塔住宿推薦</name>
+      <Placemark>
+        <name>峇里島庫塔喜來登度假飯店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5hdap1VnclL8rYOj79Tfn-du0ri1bGPbTPNLX2MsDcErA_BY8mkOMYYFZiRTHc1MtR7Gr-LZR7U7rRP8VKKloixaU4Nj5YqE1UaAOD07TwE5fMNwsPQp8aGCmP8U6BoX2epVpzy_Xvc3jFisBo5fSQ3nJC_O-7lzQGDkGtIKpU5pDsevIHStkOu7mGdoD2VWVoURETw784BHVY_Q0wXEr2wLqPEtPHtYSW8R0mpZYVL7OUUw79bJ5JvRLE6g?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#sheraton-bali-kuta-resort-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5hdap1VnclL8rYOj79Tfn-du0ri1bGPbTPNLX2MsDcErA_BY8mkOMYYFZiRTHc1MtR7Gr-LZR7U7rRP8VKKloixaU4Nj5YqE1UaAOD07TwE5fMNwsPQp8aGCmP8U6BoX2epVpzy_Xvc3jFisBo5fSQ3nJC_O-7lzQGDkGtIKpU5pDsevIHStkOu7mGdoD2VWVoURETw784BHVY_Q0wXEr2wLqPEtPHtYSW8R0mpZYVL7OUUw79bJ5JvRLE6g?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1695705,-8.7182893,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hard Rock Hotel Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6qNYwGSrJELxQhc46wX4Zq1YDiMJNiL4kzoLILHMzAD230B5nkdYHXivqWwGg63SnZFwM0HsFrzY_2LCndz2Y1HpMiwDOUtF7OoBAaMAyaatHBLkW5r_rm-AlAtcFNyIf5ZEQ7PA3DazMl7a0YfM9fyI9c4ctXNYC4o9ABcJKHQO40Ts-yA-2b0VIELgWuntgl66eUnVzQPRY6CUT_C_3kM-cTffiFZHRX70PoNRm1sANyYby2gs3Xr7CrWQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#hard-rock-hotel-bali-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6qNYwGSrJELxQhc46wX4Zq1YDiMJNiL4kzoLILHMzAD230B5nkdYHXivqWwGg63SnZFwM0HsFrzY_2LCndz2Y1HpMiwDOUtF7OoBAaMAyaatHBLkW5r_rm-AlAtcFNyIf5ZEQ7PA3DazMl7a0YfM9fyI9c4ctXNYC4o9ABcJKHQO40Ts-yA-2b0VIELgWuntgl66eUnVzQPRY6CUT_C_3kM-cTffiFZHRX70PoNRm1sANyYby2gs3Xr7CrWQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1707659,-8.7216697,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pullman Bali Legian Beach</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X51KrLg_IXSwMUYLVNtqXzz_WlsuQ-OBL-2wnotVhd9itzNUvZSd1sMPCWzZVt_ZHYVxLan_lVyOmDJw5JEXyYJ-hgIqtoLH1CYc4hkTfLJeTUqu1YNLNW1CAtTL65eZbAtLn7gY9Pt-Gxtc8XbDPNXsKY9fpzX3JS20rTBUSD1HIwvgWITXGYqfXc8vgS2CeB34XuqNUmvgfPxWcXzit2Sg7XBFoUWY0aq5idHBRbQBmomFRNmSdNJFdu5Tg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#pullman-bali-legian-beach-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X51KrLg_IXSwMUYLVNtqXzz_WlsuQ-OBL-2wnotVhd9itzNUvZSd1sMPCWzZVt_ZHYVxLan_lVyOmDJw5JEXyYJ-hgIqtoLH1CYc4hkTfLJeTUqu1YNLNW1CAtTL65eZbAtLn7gY9Pt-Gxtc8XbDPNXsKY9fpzX3JS20rTBUSD1HIwvgWITXGYqfXc8vgS2CeB34XuqNUmvgfPxWcXzit2Sg7XBFoUWY0aq5idHBRbQBmomFRNmSdNJFdu5Tg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1672141,-8.7097252,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mamaka Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6pVRgtWhxZmmr-J33Xz6O9p9EQ4luwU5Ma_QtA7bp5CXQPc2TuwcUtJt1jtnwoe8lvw-fuQDSCeUOYjwYv_aUxjnvXX2oa9L0b1pWX3pKRTiuv8GyXBkJCFwmjUPwcPNB6DxRNvHXRJIMwL7-XGQOX0imOCsMO0VWUNjOl13M36rYQ473qJGzDEPPt7GliOU6VhA5bC30VbQPlhftJOmebHljlA9ojIAyVDhfmYCe4lb8SgEBOZVyNdp6yHQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#mamaka-by-ovolo-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6pVRgtWhxZmmr-J33Xz6O9p9EQ4luwU5Ma_QtA7bp5CXQPc2TuwcUtJt1jtnwoe8lvw-fuQDSCeUOYjwYv_aUxjnvXX2oa9L0b1pWX3pKRTiuv8GyXBkJCFwmjUPwcPNB6DxRNvHXRJIMwL7-XGQOX0imOCsMO0VWUNjOl13M36rYQ473qJGzDEPPt7GliOU6VhA5bC30VbQPlhftJOmebHljlA9ojIAyVDhfmYCe4lb8SgEBOZVyNdp6yHQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1680344,-8.7127047,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aloft Bali Kuta at Beachwalk</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7VbO96VSObD4tKnuoweV4-WUG42fF0WOX66ZNDbl3w40X6Wju-loTd47F7rAFwB3eCcjtFvRuBU8m5cwx07asPkRdgD4Lj49MzDZ4Olv8YPEoQBZXqhfSW-EBaz7LJq44NEHodgNC962qFshNm4CigSNymppCxOjA-rkZPzoblU6qAuW_qqtZzVgT_I0odF-ECN5v9OZMxeyiQxPfcNA9X-rfXM5GMnQUiWQypB9u4VZ-kUgn7_DC17iurkg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#aloft-bali-kuta-at-beachwalk-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7VbO96VSObD4tKnuoweV4-WUG42fF0WOX66ZNDbl3w40X6Wju-loTd47F7rAFwB3eCcjtFvRuBU8m5cwx07asPkRdgD4Lj49MzDZ4Olv8YPEoQBZXqhfSW-EBaz7LJq44NEHodgNC962qFshNm4CigSNymppCxOjA-rkZPzoblU6qAuW_qqtZzVgT_I0odF-ECN5v9OZMxeyiQxPfcNA9X-rfXM5GMnQUiWQypB9u4VZ-kUgn7_DC17iurkg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1707941,-8.7150215,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Anvaya Beach Resort Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4Md0Fh7kW8ZTwZ1qQGivXk3_JOw76ROmff0SlfydBlu1YOy_EWeOq2heI6AChsvQf4uTc7xnlwM11AJMj8l_8R1XzqFNYsK8BBxbDuuK7tH0QVb_u2L1BGjqxP4U83_AYarkQ0vQ6YZljzTrkoBDKfy6ZDu4HRrZYl0L9C9K9fMP9EhHAMcJwAURD9PcNRjeyNowVaQ-9yQqwESF-NmjtRH70ifdB1fwqCpjQXbwd3_ugRZQoinkvmev_mOA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#the-anvaya-beach-resort-bali-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4Md0Fh7kW8ZTwZ1qQGivXk3_JOw76ROmff0SlfydBlu1YOy_EWeOq2heI6AChsvQf4uTc7xnlwM11AJMj8l_8R1XzqFNYsK8BBxbDuuK7tH0QVb_u2L1BGjqxP4U83_AYarkQ0vQ6YZljzTrkoBDKfy6ZDu4HRrZYl0L9C9K9fMP9EhHAMcJwAURD9PcNRjeyNowVaQ-9yQqwESF-NmjtRH70ifdB1fwqCpjQXbwd3_ugRZQoinkvmev_mOA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1659119,-8.7322397,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bintang Bali Resort</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6AihRlmVtD8hUcVkIHvwQZqRo1pUE3DqYHrJr5VO8ndCOkV-UdjAeoMPLXEVOTtKP50EUCgl5ELMg_ejXxOl4BdEAdkBpXZgaPNEaFqu8ym96GRMAIYJWS7a-wp7zw5q6GKojl3X9rsa5BfFRnYXGkyBex5O26N5xmGLfqnb7YaZlDt5kcBtwcos_edqr8T-7Qg-nC_V54aEWzPpbk36Q5jjrD5LSQdLbKDExEP3bMrkgIy7EyDU8jg71H0A?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#bintang-bali-resort-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6AihRlmVtD8hUcVkIHvwQZqRo1pUE3DqYHrJr5VO8ndCOkV-UdjAeoMPLXEVOTtKP50EUCgl5ELMg_ejXxOl4BdEAdkBpXZgaPNEaFqu8ym96GRMAIYJWS7a-wp7zw5q6GKojl3X9rsa5BfFRnYXGkyBex5O26N5xmGLfqnb7YaZlDt5kcBtwcos_edqr8T-7Qg-nC_V54aEWzPpbk36Q5jjrD5LSQdLbKDExEP3bMrkgIy7EyDU8jg71H0A?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1650499,-8.7336801,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Discovery Kartika Plaza Hotel</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4WyfMg6t1URbHmh-lCOhOCSfrFMLd_bNVIkFqGpXjUgvWOi_Cx1S_MtvZxQOOK4UDBRHG_xQAE7TopyQfVGzYuZorT-TQ1OWN-D5nLHpdroSpZtcFcPBa8GAZdUsEGU_nQAtOLjFrQho4YIX9VNyj4u3yWRYF6uWdX9p-6TeLG7rhjHnNSGHIs3s6iXX6CgjSck-CiTweHarm8Gl6Dj9YI2m8o5KUw7y1uibSbMsng9oxqlFfIN81_WUxy1Q?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#discovery-kartika-plaza-hotel-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4WyfMg6t1URbHmh-lCOhOCSfrFMLd_bNVIkFqGpXjUgvWOi_Cx1S_MtvZxQOOK4UDBRHG_xQAE7TopyQfVGzYuZorT-TQ1OWN-D5nLHpdroSpZtcFcPBa8GAZdUsEGU_nQAtOLjFrQho4YIX9VNyj4u3yWRYF6uWdX9p-6TeLG7rhjHnNSGHIs3s6iXX6CgjSck-CiTweHarm8Gl6Dj9YI2m8o5KUw7y1uibSbMsng9oxqlFfIN81_WUxy1Q?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1671085,-8.7296808,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holiday Inn Resort Baruna Bali by IHG</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4sX6iwm0vGiG7Ak4Xtzs46OipBxaIRnILf_1RD8PLoKZSNqCGExz6xPAk2jGLEjpt-L7wLEZGMqA-8RoWpPQkIdlGk6_Aos6RMxdCc5ye-wN3-pYLVbqKTGfR0uVRljzmcekqVtQ4LpRUYukIVHktC9th5QBNWgAyloFArb_k5RRsw7c95GqVBfdDee67AFQbjFM8Oyg2ZxOXVHdVZS2of8JuV0RlRBa9l3FwB54OGrAWezox9C7sNqb8kdg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#holiday-inn-resort-baruna-bali-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4sX6iwm0vGiG7Ak4Xtzs46OipBxaIRnILf_1RD8PLoKZSNqCGExz6xPAk2jGLEjpt-L7wLEZGMqA-8RoWpPQkIdlGk6_Aos6RMxdCc5ye-wN3-pYLVbqKTGfR0uVRljzmcekqVtQ4LpRUYukIVHktC9th5QBNWgAyloFArb_k5RRsw7c95GqVBfdDee67AFQbjFM8Oyg2ZxOXVHdVZS2of8JuV0RlRBa9l3FwB54OGrAWezox9C7sNqb8kdg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1634562,-8.7373506,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Truntum Kuta Formerly Grand Inna Kuta</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4-Yu34Zk3ZtpfzU_nOQWAXRU_eAVvx1g6nqJxm9olRw1AvNcFNWw50r7Izjusj2S_H66O1Mrgi22wdwOYtJTVBeLoLNzKWqAtpZf7SJzUIBeubtorwhCeZquoXRObHM0HhVGTWZodln4QVMAYFTsyho9i7Q7L8KUAKfhSHeJozO-nUidNfrhPzXqdKFhEWxtR2N1vpWLf21QhlG-puqzcpnpKxKSnN2HyuGF_kiMx01___vOceCD076TIhiQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#grand-inna-kuta%E7%8F%BE%E5%90%8D-truntum-kuta]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4-Yu34Zk3ZtpfzU_nOQWAXRU_eAVvx1g6nqJxm9olRw1AvNcFNWw50r7Izjusj2S_H66O1Mrgi22wdwOYtJTVBeLoLNzKWqAtpZf7SJzUIBeubtorwhCeZquoXRObHM0HhVGTWZodln4QVMAYFTsyho9i7Q7L8KUAKfhSHeJozO-nUidNfrhPzXqdKFhEWxtR2N1vpWLf21QhlG-puqzcpnpKxKSnN2HyuGF_kiMx01___vOceCD076TIhiQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1701676,-8.7227824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島庫塔海灘傳統酒店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5vUn0ISEH20XVCdNSS5SiMR5Zo3gmR7bcKjLlpVTFaV_lqiLPqdiNoM_1IyubIAs7TV49Ms46HvsCIrU2qSJROofnzJ4hgyq8PEbsSqdaXd01_qr_SJahjStFk8Yyz4dpxa9pI0v7LIcBGxWCUTk2uZo_a0yRjdIKMRWuejf1pU1aGSwUHNRBUvZtfhAELTvGkqCldjUSiMSW8RwpX3U8o3r9AFr1XkIg2K6RXkBBhCO3xtc6TLvq6-5JLgQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#kuta-beach-heritage-hotel-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5vUn0ISEH20XVCdNSS5SiMR5Zo3gmR7bcKjLlpVTFaV_lqiLPqdiNoM_1IyubIAs7TV49Ms46HvsCIrU2qSJROofnzJ4hgyq8PEbsSqdaXd01_qr_SJahjStFk8Yyz4dpxa9pI0v7LIcBGxWCUTk2uZo_a0yRjdIKMRWuejf1pU1aGSwUHNRBUvZtfhAELTvGkqCldjUSiMSW8RwpX3U8o3r9AFr1XkIg2K6RXkBBhCO3xtc6TLvq6-5JLgQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1698035,-8.7205919,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mercure Kuta Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5TFhU_WNyF9_O3ZBJyskzU9LkpXZ5YkoJJD3BXTXF5VrEAZOt1LmND0MNM5z_SKDScl3BAphJ4f0l21wE9xLIsbt_HADV6HemStmi98ecxorGogTyCJ4X9yzDtXQ1UJaV1aGUA9ipUCLKV-PLL7i08n5NGIi59KyFaqm2azWkHuKM-TKFpZ_ZjdMeTKGpNknysVXJ0MqEj3wUhrGkTraFttLa3ctprJXQ0FN_8I49uEeunaTTUSHq4PYi7eQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#mercure-kuta-bali-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5TFhU_WNyF9_O3ZBJyskzU9LkpXZ5YkoJJD3BXTXF5VrEAZOt1LmND0MNM5z_SKDScl3BAphJ4f0l21wE9xLIsbt_HADV6HemStmi98ecxorGogTyCJ4X9yzDtXQ1UJaV1aGUA9ipUCLKV-PLL7i08n5NGIi59KyFaqm2azWkHuKM-TKFpZ_ZjdMeTKGpNknysVXJ0MqEj3wUhrGkTraFttLa3ctprJXQ0FN_8I49uEeunaTTUSHq4PYi7eQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1703222,-8.7208068,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Garden Beach Resort</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6AlmvFWrfhXqvNsBhPxBYL7XdAYOS8BPzEmkHn1mX83SreCHAR8W1SQjhkLJq6s6h3ebZXEYF-RuJP0MshbnqHti6ITsUWw_yODfO_uR9i_HAATB2ZC-txeSL2EnlY8KlVS3fxanrdvssy7AYijCV6bAXBogV1Tms9lYYUmNJXYVgumkH6omJQM1i1FMBpJO7GJDqnx2S8kL0zysqBt_U1GB85RFdTvFX2NHVu1c34hm-yhdbnO90P0QcMcA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#bali-garden-beach-resort-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6AlmvFWrfhXqvNsBhPxBYL7XdAYOS8BPzEmkHn1mX83SreCHAR8W1SQjhkLJq6s6h3ebZXEYF-RuJP0MshbnqHti6ITsUWw_yODfO_uR9i_HAATB2ZC-txeSL2EnlY8KlVS3fxanrdvssy7AYijCV6bAXBogV1Tms9lYYUmNJXYVgumkH6omJQM1i1FMBpJO7GJDqnx2S8kL0zysqBt_U1GB85RFdTvFX2NHVu1c34hm-yhdbnO90P0QcMcA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.168999,-8.727461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Patra Bali Resort & Villas]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4bAS6HKSDkB67uwB5xI05Qzz9UcYZQEJtDEK5fS8rfUkIVW0RoQmLNi29m4M0S7iEYwBXrP5KeDuZs1bQsfjaX5yfOQzrj9BBiR0MX_i9WYTdFMWKq6P0x7NiKLE0GfTg0dq6Sq8z4AKzAMrlg4rdYlQPL7cvnzmIdiTbO9-203zhKyyS6tAhMvAGqV4gFsGPoSf1oYhSfkNqv_gFx5IfpQ4oPSEIHGEI4j_V88sb0gUMB0_UDMH92FkLBtQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#the-patra-bali-resort--villas-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4bAS6HKSDkB67uwB5xI05Qzz9UcYZQEJtDEK5fS8rfUkIVW0RoQmLNi29m4M0S7iEYwBXrP5KeDuZs1bQsfjaX5yfOQzrj9BBiR0MX_i9WYTdFMWKq6P0x7NiKLE0GfTg0dq6Sq8z4AKzAMrlg4rdYlQPL7cvnzmIdiTbO9-203zhKyyS6tAhMvAGqV4gFsGPoSf1oYhSfkNqv_gFx5IfpQ4oPSEIHGEI4j_V88sb0gUMB0_UDMH92FkLBtQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.16165,-8.7396213,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuta Seaview Beach Resort</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5W2HmtKqgkedJATI6B6GGmwqTgiYSUviGAV6d91lVYCnTbQTKRYCghm9Pcq_Yv5iQxFpAWJcuLhzgnj045hSFo6zvgPrE-DA_6G0rRPULk3JXQUeHBW912tACzvaGAgZJ-KPKobLvou7gBR0UBW8tldZlj6ekR2xlvo2H-XSCUSK-Q7bywodaz0XSH4MLqg6poasSwTMF9qBKuhAEv9hPtMlbt9hSI6zxD5HkA4AnPfHn0XxyhNzUBpPyDAw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#kuta-seaview-boutique-resort-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5W2HmtKqgkedJATI6B6GGmwqTgiYSUviGAV6d91lVYCnTbQTKRYCghm9Pcq_Yv5iQxFpAWJcuLhzgnj045hSFo6zvgPrE-DA_6G0rRPULk3JXQUeHBW912tACzvaGAgZJ-KPKobLvou7gBR0UBW8tldZlj6ekR2xlvo2H-XSCUSK-Q7bywodaz0XSH4MLqg6poasSwTMF9qBKuhAEv9hPtMlbt9hSI6zxD5HkA4AnPfHn0XxyhNzUBpPyDAw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1692507,-8.7193443,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>TRIBE Bali Kuta Beach</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5kfh5xRoJgfZvYxIP5x3g80dHQL_vaP3elwrB6uwmGiI3u2oB2tMrS-QYu5LitCrBTrEKd5jL4allCYYdb0JlVdqIpcGpfc9RyiUwDowTz_uXmn-zVEeWoebh0yOCvAdF_3RH57AC6YQ-dICJ8nemj5j2uVaFlnoaNc8yE2tf52xXdUJRXVyPUWIYtTeqGQLv7CgDmwDK_hqAYVVg7nnqx2NPzoimNZdTa06OBUi2xZ5aCKJZi3GwW-BYLoA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#tribe-bali-kuta-beach-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5kfh5xRoJgfZvYxIP5x3g80dHQL_vaP3elwrB6uwmGiI3u2oB2tMrS-QYu5LitCrBTrEKd5jL4allCYYdb0JlVdqIpcGpfc9RyiUwDowTz_uXmn-zVEeWoebh0yOCvAdF_3RH57AC6YQ-dICJ8nemj5j2uVaFlnoaNc8yE2tf52xXdUJRXVyPUWIYtTeqGQLv7CgDmwDK_hqAYVVg7nnqx2NPzoimNZdTa06OBUi2xZ5aCKJZi3GwW-BYLoA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.167766,-8.712541,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Stones Hotel - Legian Bali, Autograph Collection</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7NWtn4ZTSuIAJ7wiedMhPWN2TKNkBbwkGuzzVmILWTAX90gybQv_OEGGBfr4ElFWQbbdK7HX3SRB-uxgScwScYNoagEhpGCOAgKT-jIAebjV8DLAHld-GDg9d_gcwBrnDVrvqW1nHqh8WfKw1Ac8cuY-DUvWvVA2R8iYUhPrcOH63-Guaoj048DbftwM37dUm1FlkDV8Qsqs7bYSkKZPdQe7RQzpoaN0XBJlibrzxIYFp3VEI8yMxPoRox1A?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#the-stones-hotel--legian-bali-autograph-collection-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7NWtn4ZTSuIAJ7wiedMhPWN2TKNkBbwkGuzzVmILWTAX90gybQv_OEGGBfr4ElFWQbbdK7HX3SRB-uxgScwScYNoagEhpGCOAgKT-jIAebjV8DLAHld-GDg9d_gcwBrnDVrvqW1nHqh8WfKw1Ac8cuY-DUvWvVA2R8iYUhPrcOH63-Guaoj048DbftwM37dUm1FlkDV8Qsqs7bYSkKZPdQe7RQzpoaN0XBJlibrzxIYFp3VEI8yMxPoRox1A?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1677803,-8.7113577,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grand Istana Rama Hotel Kuta - Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7N3C7nfVWYKdfLbHeKkkBzUQBZMSAxW3sRw4rsMAR_YgFJyNx2AN9dT8fVRO14BFiFn_3llySjbNV1LqCu9e4P9DdgeJn47IFbY7sTN00CltqXvphNph2adXQA9aAB3p7kLetig6GXwu3bkHuxy2oAX6_XoO2owKRL4tmyQIVyN50t2w3yR3YUNwz-WiSpBeUixZr6BiZXdXpSLAJGIAlPlvjgvaGqotHqmS_CBKGhckw0HJzoNiPlAV3vVw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/kuta-beach-hotels/#grand-istana-rama-hotel-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7N3C7nfVWYKdfLbHeKkkBzUQBZMSAxW3sRw4rsMAR_YgFJyNx2AN9dT8fVRO14BFiFn_3llySjbNV1LqCu9e4P9DdgeJn47IFbY7sTN00CltqXvphNph2adXQA9aAB3p7kLetig6GXwu3bkHuxy2oAX6_XoO2owKRL4tmyQIVyN50t2w3yR3YUNwz-WiSpBeUixZr6BiZXdXpSLAJGIAlPlvjgvaGqotHqmS_CBKGhckw0HJzoNiPlAV3vVw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1686732,-8.7157139,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Amnaya Resort Kuta</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7mJas6yE_dvkAsJxh17pVKHpa66LcwGXQfII5zTGevBoEha0w-oSV59uOym53M2xysRMODuU0w3kYnErl8bD-5ZZpLNVKKy_sak3sCXptr_-pEn4yaskS_Hkvhuoh7odXet8xkSAPqRp8B6L_jkk5vjavppiOJzJDcGYt3zBBqox3w5atyaAYuw_wrwcSA5xx0bNeHxApGAJf1yVbU0St_mERzR97e6u5AIJ0mQqE1nYFOKfASuwP5zm4AVw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/best-kuta-hotels-list/#amnaya-resort-kuta]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7mJas6yE_dvkAsJxh17pVKHpa66LcwGXQfII5zTGevBoEha0w-oSV59uOym53M2xysRMODuU0w3kYnErl8bD-5ZZpLNVKKy_sak3sCXptr_-pEn4yaskS_Hkvhuoh7odXet8xkSAPqRp8B6L_jkk5vjavppiOJzJDcGYt3zBBqox3w5atyaAYuw_wrwcSA5xx0bNeHxApGAJf1yVbU0St_mERzR97e6u5AIJ0mQqE1nYFOKfASuwP5zm4AVw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1698292,-8.7297508,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alaya Dedaun Kuta</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X64M3ePuezA6qzMHha1lPL2th_5TR9bENxymcXj_gWCCqJe2KWmo89qa-KW7bIdbdR-FSTS7uCeI_C-9WWEKAnZSFIdpRR2_ceCrpPRAv5dgK5WlPMylr8ilHMw0lBV5NinBpa5YlYYOA7iPTVl8DPcqsd0ClbWvEjZaRw8_QzZtvkTdf9MlGE_9GE6NCIRwCyV1y5n7KmXuhQHvfF4u73Mn1PT_FqpX2Vhlnkr2FKv-W6Ma1Z4pP9n4YJCXw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/best-kuta-hotels-list/#alaya-dedaun-kuta-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X64M3ePuezA6qzMHha1lPL2th_5TR9bENxymcXj_gWCCqJe2KWmo89qa-KW7bIdbdR-FSTS7uCeI_C-9WWEKAnZSFIdpRR2_ceCrpPRAv5dgK5WlPMylr8ilHMw0lBV5NinBpa5YlYYOA7iPTVl8DPcqsd0ClbWvEjZaRw8_QzZtvkTdf9MlGE_9GE6NCIRwCyV1y5n7KmXuhQHvfF4u73Mn1PT_FqpX2Vhlnkr2FKv-W6Ma1Z4pP9n4YJCXw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1735126,-8.7132366,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Magani Hotel and Spa</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7oR_azU68xhyMFDe0VyPl0vmraknFwgtnW26E72FOY1Er_ARX8SX2E7uVRmhrCp8zfFluE2zfy_mUlN7ymvQCapDJ0olBWnDH6ESy-QdR7Swc9uztDKBPbEkiSidXwfKyzIk7i5VV2zQwxUAzaihTLBNbp36UyZ0s4Qxalyal_ptq0Op6vHMOTGKhV-kUoyLVCAFjCVSrOsFU9pwh5-CCSiyCwPSrabbw_cyFaWljpYotROKMi1_jiLz2iIw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/best-kuta-hotels-list/#the-magani-hotel-and-spa-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7oR_azU68xhyMFDe0VyPl0vmraknFwgtnW26E72FOY1Er_ARX8SX2E7uVRmhrCp8zfFluE2zfy_mUlN7ymvQCapDJ0olBWnDH6ESy-QdR7Swc9uztDKBPbEkiSidXwfKyzIk7i5VV2zQwxUAzaihTLBNbp36UyZ0s4Qxalyal_ptq0Op6vHMOTGKhV-kUoyLVCAFjCVSrOsFU9pwh5-CCSiyCwPSrabbw_cyFaWljpYotROKMi1_jiLz2iIw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.170138,-8.7088538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島庫塔福朋喜來登飯店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7fvLXR2_AnmVTCGUfRxxpeJaSlIfaTckFA45sFHdwRseGRu4etBL213uCFVGtbt0SQakvld3f9SPlFIejox5heURXeHwFxTgSDhAur4Q11FjlGVZf227ILEl8JxOR6-mOlpQq-ZEsEK6laYvXgKdExaoBg8kurwuziN3CfH23ZttbAStFLrJhmeikfjjF56pRJk6fHsKmYdAL_iGE4vmyTEWzsHsqzTzicDTlA1V6q4GOgawrmRtItg_wzfA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/best-kuta-hotels-list/#four-points-by-sheraton-bali-kuta-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7fvLXR2_AnmVTCGUfRxxpeJaSlIfaTckFA45sFHdwRseGRu4etBL213uCFVGtbt0SQakvld3f9SPlFIejox5heURXeHwFxTgSDhAur4Q11FjlGVZf227ILEl8JxOR6-mOlpQq-ZEsEK6laYvXgKdExaoBg8kurwuziN3CfH23ZttbAStFLrJhmeikfjjF56pRJk6fHsKmYdAL_iGE4vmyTEWzsHsqzTzicDTlA1V6q4GOgawrmRtItg_wzfA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.17112,-8.7138596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Poppies Hotel</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4O-UhepuWqCpVDBzdGs2kH0AoYmNvoQjLsN6Vwrt7KTHIExsi8S0U4ot4yEMU4YSZ-w0CFJ43Oiua1xHgHV068fMBaghli9mjeeNNImM6nkml2vZGVZc2dJwNNwDjbUW7O15eTJlDDW29McxsX8o2OOL9ZjWjw6Sc_zFWxapAcRIU2Jmo52hKqJarG74h-4pK0thmxB040tBQV351rJvHA7MEhUMp3ukQl40z9uCUSKJy35skrLm7j8spByg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/best-kuta-hotels-list/#poppies-bali-hotel]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4O-UhepuWqCpVDBzdGs2kH0AoYmNvoQjLsN6Vwrt7KTHIExsi8S0U4ot4yEMU4YSZ-w0CFJ43Oiua1xHgHV068fMBaghli9mjeeNNImM6nkml2vZGVZc2dJwNNwDjbUW7O15eTJlDDW29McxsX8o2OOL9ZjWjw6Sc_zFWxapAcRIU2Jmo52hKqJarG74h-4pK0thmxB040tBQV351rJvHA7MEhUMp3ukQl40z9uCUSKJy35skrLm7j8spByg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1739601,-8.7215874,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Vira Bali Boutique Hotel & Suite]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X75ob9Tlt4Oa8s3tsSU6IHZ7hca-8JIWxP2E0j6zD-rz0D3c1--hMNrdjHnTik2wryohcENEYihfJiP1-c36fNdZici3lNrrWKR5sItUj4B2iaROE8xla0FL3SoNpsZxqgnB6Q7Zg96xeYnE-QTSO-WfXxoct_72DO3i6u5U7mFKh2sj1645O58aJt-HMguPA4EiaGFKyvw4k7GqZjiCb9-is5u732sWjthV8pJOo3gAw2zOYDbuFcWSv-Nww?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/best-kuta-hotels-list/#the-vira-bali-boutique-hotel--suite-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X75ob9Tlt4Oa8s3tsSU6IHZ7hca-8JIWxP2E0j6zD-rz0D3c1--hMNrdjHnTik2wryohcENEYihfJiP1-c36fNdZici3lNrrWKR5sItUj4B2iaROE8xla0FL3SoNpsZxqgnB6Q7Zg96xeYnE-QTSO-WfXxoct_72DO3i6u5U7mFKh2sj1645O58aJt-HMguPA4EiaGFKyvw4k7GqZjiCb9-is5u732sWjthV8pJOo3gAw2zOYDbuFcWSv-Nww?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1675896,-8.7352404,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Ramayana Suites & Resort]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4vLedPGiiU6A6tllM8QdpdejpBCwih9bwGfJsgR3C-GjF8ZksGral-_zzSeQPXMuDDrGILuwYhz0TM3uPU7TXvS-25tV4TdKqC-HHHasc5HS9taMm3KSAD4eO63nqbjgoQmargrkACLwYjw9sV5W-057Hu-I4ZRzyNT0YWDby1WoYTwthHUDlXJHtaN2lEWXItMFsGz8iRwGuY_QwUjYfhxw3AfOCV23rYSMDmHzeza6JBniUBNZ9GFKB13w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/best-kuta-hotels-list/#ramayana-suites--resort-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4vLedPGiiU6A6tllM8QdpdejpBCwih9bwGfJsgR3C-GjF8ZksGral-_zzSeQPXMuDDrGILuwYhz0TM3uPU7TXvS-25tV4TdKqC-HHHasc5HS9taMm3KSAD4eO63nqbjgoQmargrkACLwYjw9sV5W-057Hu-I4ZRzyNT0YWDby1WoYTwthHUDlXJHtaN2lEWXItMFsGz8iRwGuY_QwUjYfhxw3AfOCV23rYSMDmHzeza6JBniUBNZ9GFKB13w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1717458,-8.7250885,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Aryaduta Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5nBhnr39wukuhdK7YUxkNorCfiIFAyK_SdJ1NfI1aowVmNHlLguJjGXGO3g1Q6pZ0eWQJHhZksFQsN4OCNQawdTVnXS1JHOymoPlPHexJytahglRa1yHpTIDNlVggtkQ4wNjuk6_6R1OkrNKGzUq_2inCULZSQ8d-_sy0_Xps9eu_n0jRymn4fqwny4CjXJZAob0iNGxbAFlYGnoo1pwDRA_16jtszdQMNK35vmpyCS3pGCIh8rKR3ayvNQw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/best-kuta-hotels-list/#aryaduta-bali-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5nBhnr39wukuhdK7YUxkNorCfiIFAyK_SdJ1NfI1aowVmNHlLguJjGXGO3g1Q6pZ0eWQJHhZksFQsN4OCNQawdTVnXS1JHOymoPlPHexJytahglRa1yHpTIDNlVggtkQ4wNjuk6_6R1OkrNKGzUq_2inCULZSQ8d-_sy0_Xps9eu_n0jRymn4fqwny4CjXJZAob0iNGxbAFlYGnoo1pwDRA_16jtszdQMNK35vmpyCS3pGCIh8rKR3ayvNQw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1668218,-8.7357611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kuta Beach Club Hotel</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5rtilQ9XVhJtCmOurg5WgOFXFIIO1GLztI9IudZ7szj2PE4t1w5kDfjti-ELZa14KaF8LytRsl5mh6qzjWQG0eHmjYEZu-NRcvVi47WCktHWsdmsQsvGokWAnlSPMtZY0i26JA6awSgy9iqUkvNdO-VJqPp7E1D6GfiL20RwrqGG1IjhPxAD9fZAZqAHyww25J8ObvV4NZOulxfYIrbJPa5DDSTDciSmyRISFD_OufC_d_MOumJ1SXhc6SEQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/best-kuta-hotels-list/#kuta-beach-club-hotel-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5rtilQ9XVhJtCmOurg5WgOFXFIIO1GLztI9IudZ7szj2PE4t1w5kDfjti-ELZa14KaF8LytRsl5mh6qzjWQG0eHmjYEZu-NRcvVi47WCktHWsdmsQsvGokWAnlSPMtZY0i26JA6awSgy9iqUkvNdO-VJqPp7E1D6GfiL20RwrqGG1IjhPxAD9fZAZqAHyww25J8ObvV4NZOulxfYIrbJPa5DDSTDciSmyRISFD_OufC_d_MOumJ1SXhc6SEQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1721996,-8.7249136,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島庫塔日落大道萬楓酒店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5GynoSfCHU2ai2_SjEsp8Cu0JtD_mjxq-z-3oA6XGnQi-ZuZW64iOSawIHKp6r8zdlK-QvGg1LeBfWZ_UZcfQODYE42tZlR7SeAkv9rZ76iARiTNb7JAH2-82bgetrCh5VPHMbapg7EBUaRxQXVTq8tVGh7Yp69hQl4q5ElZ1yiPb5AauiDucWj0uAKL4ASybdmGLj7mLYCm9Eh0VVWjOUeCoeea78VEgnTbfQRvR9VB99rjj8TVjhg390CQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/best-kuta-hotels-list/#fairfield-by-marriott-bali-kuta-sunset-road-]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5GynoSfCHU2ai2_SjEsp8Cu0JtD_mjxq-z-3oA6XGnQi-ZuZW64iOSawIHKp6r8zdlK-QvGg1LeBfWZ_UZcfQODYE42tZlR7SeAkv9rZ76iARiTNb7JAH2-82bgetrCh5VPHMbapg7EBUaRxQXVTq8tVGh7Yp69hQl4q5ElZ1yiPb5AauiDucWj0uAKL4ASybdmGLj7mLYCm9Eh0VVWjOUeCoeea78VEgnTbfQRvR9VB99rjj8TVjhg390CQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.184178,-8.71585,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島伍拉賴機場諾富特飯店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Mr5ql4818Dt2F5QuzMLT7oKWR5FhyDsw3HqMxuu6v-OHvTVwj0vL5ow0J22EwTqn_T-BWhY_lXapxkazs02SFaLrDBu-D8oTx3MkUpl8I1O_WpabCLnNmAIBaRHwh_AtweEj06qLLQIK6RiqbSR277n8YMxuRm43dN5ZflJOYsTlQb-IQsNQH7AodPt-gVVBZSl5u3nkxmd4AiElTXt5GNVZjZFhVteq94eT3X2-PEY2quttdNnfD2RP4YQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/best-kuta-hotels-list/#novotel-bali-ngurah-rai-airport]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Mr5ql4818Dt2F5QuzMLT7oKWR5FhyDsw3HqMxuu6v-OHvTVwj0vL5ow0J22EwTqn_T-BWhY_lXapxkazs02SFaLrDBu-D8oTx3MkUpl8I1O_WpabCLnNmAIBaRHwh_AtweEj06qLLQIK6RiqbSR277n8YMxuRm43dN5ZflJOYsTlQb-IQsNQH7AodPt-gVVBZSl5u3nkxmd4AiElTXt5GNVZjZFhVteq94eT3X2-PEY2quttdNnfD2RP4YQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.165164,-8.7440041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島伍拉賴機場希爾頓花園飯店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5LK0qvaYwmeZlEe-l9_jUZPIcWLDmRnNkSZXHsX9kjmVwwIDhQ4klku0LrY262dnqY26EpnPW14zyjVL-Tkx3nqnVbYdjhSVncYh5Dle2HAXTU8AVJKxFoSF-MuG84LSl4m7VEIs60HuxUZi08DDhiiHF2cr79abpgi2WCqqWv2vN-EUvKzT2aA8MQrwuMNWDOLMroU6MbU7ZQrGBF_MDOJrzgRgH0ZBZprKl8i4RUL_YuRsCXdM-1F_Kp1A?authuser=0&fife=s16383" height="200" width="auto" /><br><br>詳細介紹請看：https://gobaligo.id/blog/best-kuta-hotels-list/#hilton-garden-inn-bali-ngurah-rai-airport]]></description>
+        <styleUrl>#icon-1602-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5LK0qvaYwmeZlEe-l9_jUZPIcWLDmRnNkSZXHsX9kjmVwwIDhQ4klku0LrY262dnqY26EpnPW14zyjVL-Tkx3nqnVbYdjhSVncYh5Dle2HAXTU8AVJKxFoSF-MuG84LSl4m7VEIs60HuxUZi08DDhiiHF2cr79abpgi2WCqqWv2vN-EUvKzT2aA8MQrwuMNWDOLMroU6MbU7ZQrGBF_MDOJrzgRgH0ZBZprKl8i4RUL_YuRsCXdM-1F_Kp1A?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.17103,-8.7436776,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>伴手禮名店</name>
+      <Placemark>
+        <name>BALI BANANA</name>
+        <description><![CDATA[峇里島必買伴手禮：<br>https://gobaligo.id/go/bali-must-buy]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1779594,-8.7064407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Banana - Kuta</name>
+        <description><![CDATA[峇里島必買伴手禮：<br>https://gobaligo.id/go/bali-must-buy]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1772822,-8.7309781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Banana By Pass Ngurah Rai</name>
+        <description><![CDATA[峇里島必買伴手禮：<br>https://gobaligo.id/go/bali-must-buy]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1818828,-8.7424417,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BALI BANANA JIMBARAN</name>
+        <description><![CDATA[峇里島必買伴手禮：<br>https://gobaligo.id/go/bali-must-buy]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1776279,-8.7727217,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>BALI BANANA KELAN</name>
+        <description><![CDATA[峇里島必買伴手禮：<br>https://gobaligo.id/go/bali-must-buy]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1776012,-8.7547288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pabrik Kata-Kata Joger</name>
+        <description><![CDATA[峇里島必買伴手禮：<br>https://gobaligo.id/go/bali-must-buy]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1771451,-8.7273814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Geneva</name>
+        <description><![CDATA[峇里島必買伴手禮：<br>https://gobaligo.id/go/bali-must-buy]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.164326,-8.679723,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prema Rasa - Oleh Oleh Khas Bali</name>
+        <description><![CDATA[峇里島必買伴手禮：<br>https://gobaligo.id/go/bali-must-buy]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1771186,-8.7301367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krisna Oleh Oleh Bali Bypass</name>
+        <description><![CDATA[峇里島必買伴手禮：<br>https://gobaligo.id/go/bali-must-buy]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1793567,-8.7297497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krisna Toko Oleh Oleh Khas Bali</name>
+        <description><![CDATA[峇里島必買伴手禮：<br>https://gobaligo.id/go/bali-must-buy]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1784244,-8.7419832,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Krisna Oleh - Oleh Bali Sunset Road</name>
+        <description><![CDATA[峇里島必買伴手禮：<br>https://gobaligo.id/go/bali-must-buy]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1797989,-8.7039687,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

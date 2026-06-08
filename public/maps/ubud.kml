@@ -1,0 +1,2630 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>烏布攻略地圖 by gobaligo.id</name>
+    <description>峇里島旅遊攻略：https://gobaligo.id</description>
+    <Style id="icon-1603-880E4F-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1603-880E4F-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1603-880E4F">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1603-880E4F-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1603-880E4F-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-ci-3-nodesc-normal">
+      <IconStyle>
+        <scale>0.7</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-ci-3-nodesc-highlight">
+      <IconStyle>
+        <scale>0.7</scale>
+        <Icon>
+          <href>images/icon-3.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-ci-3-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-ci-3-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-ci-3-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-ci-4-nodesc-normal">
+      <IconStyle>
+        <scale>0.7</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-ci-4-nodesc-highlight">
+      <IconStyle>
+        <scale>0.7</scale>
+        <Icon>
+          <href>images/icon-4.png</href>
+        </Icon>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0.7</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-ci-4-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-ci-4-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-ci-4-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="line-1267FF-5000-nodesc-normal">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="line-1267FF-5000-nodesc-highlight">
+      <LineStyle>
+        <color>ffff6712</color>
+        <width>7.5</width>
+      </LineStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="line-1267FF-5000-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#line-1267FF-5000-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#line-1267FF-5000-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name><![CDATA[烏布中心Jl. Ubud Raya & Jl. Hanoman]]></name>
+      <Placemark>
+        <name>烏布皇宮</name>
+        <description><![CDATA[烏布皇宮開放時間、門票、表演時間、周邊景點、一日遊推薦<br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2627222,-8.5067194,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>烏布水皇宮</name>
+        <description>請看小傑視頻介紹：https://youtu.be/hYkf6sjCtqg</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2611947,-8.5060094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starbucks Ubud</name>
+        <description>烏布水皇宮入口</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2614067,-8.5062931,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Folk Pool & Gardens]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxLCUG5_v-GGOM8q5iChQ5tAJbPRpFbZ8kJZGbAMVP6UnznAs_jnHp_E0eM3myeNCW6oJZMQHkaQdS6dKlv-EQPrsC-hjAnd4XREZskwxHg4rUCWQZViIFnsCQNj-qxLhxJHVKAZUnqocoDcxPni6S7CjFNlEtvem_0N29T_b7v7IH9AqylLu0nhTniMCwgslgxIJfOj8IV1L18urXkcgBsJyzPedMY2tDKWkJorYuXV8AVZCujfgFOknI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>看視頻：https://youtu.be/JtxZHtijEkE?si=BRDnMk_1u0E3eheX&t=686<br><br>介紹/預約：https://s.id/ubud100]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxLCUG5_v-GGOM8q5iChQ5tAJbPRpFbZ8kJZGbAMVP6UnznAs_jnHp_E0eM3myeNCW6oJZMQHkaQdS6dKlv-EQPrsC-hjAnd4XREZskwxHg4rUCWQZViIFnsCQNj-qxLhxJHVKAZUnqocoDcxPni6S7CjFNlEtvem_0N29T_b7v7IH9AqylLu0nhTniMCwgslgxIJfOj8IV1L18urXkcgBsJyzPedMY2tDKWkJorYuXV8AVZCujfgFOknI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2605443,-8.5139603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>烏布藝術市場</name>
+        <description>烏布攻略地圖視頻：https://youtu.be/JtxZHtijEkE</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2625725,-8.5071562,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tukies Coconut Shop</name>
+        <description>烏布攻略地圖視頻：https://youtu.be/JtxZHtijEkE</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2640788,-8.5074611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Seeds of Life</name>
+        <description><![CDATA[純素生食The Seeds of Life Cafe超實惠，一份主餐讓你吃飽，味道十分驚艷。這輩子吃到最好吃的生食餐點。(高雄的元元提供)<br>烏布攻略地圖視頻：https://youtu.be/JtxZHtijEkE]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2641712,-8.5081328,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>烏布天空步道入口</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.255729,-8.5046466,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>天空步道終點 Karsa Kafe</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2583888,-8.4896641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>烏布市場替代方案1 Jalan Goutama</name>
+        <description><![CDATA[購買紀念品/伴手禮，尋訪峇里島文化寶藏<br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2642476,-8.5089084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>烏布市場替代方案2: Jalan Monkey Forest</name>
+        <description><![CDATA[購買紀念品/伴手禮，尋訪峇里島文化寶藏<br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2609774,-8.5124168,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>烏布市場替代方案3: Sukawati Art Market</name>
+        <description><![CDATA[購買紀念品/伴手禮，尋訪峇里島文化寶藏<br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2826055,-8.5965307,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>烏布市場替代方案4: Guwang Art Market</name>
+        <description><![CDATA[購買紀念品/伴手禮，尋訪峇里島文化寶藏<br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2803416,-8.6046614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Supermarket</name>
+        <description>烏布攻略地圖視頻：https://youtu.be/JtxZHtijEkE</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2636283,-8.5180308,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bebek Bengil Ubud</name>
+        <description>烏布攻略地圖視頻：https://youtu.be/JtxZHtijEkE</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2637002,-8.5177232,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gedong Sisi Ubud</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxon8uSjC4p9j3Ji2QQpBC0z72dUex2eG4PMVGf7w4fzveMP_JkwqJVdfsXPJ_3ORsg3jENELnFGa63gRzmTOVg3LNhZUOFaKVDWFrdVKaok9rlDsQ8szPf8a908QxPd8eIZbX48hbTQHJbVk4bDmLFaaJensI24RMX9mbk0TfKHBWe6vuQDhjxPf6IzD605r3fdAO1tHiT_3nrdG2C1B5Zuw0rXW9GWPM9wZgTSfVZwKiFeCd-XBQ0IoM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>在烏布有一間餐廳是我每次造訪峇里島的必訪之地，它的名字叫做Gedong Sisi Udud，就位於烏布皇宮側門大街約100公尺的距離，地理位置相當便利。<br>這家餐廳散發著濃厚的峇里島傳統風情，不僅環境充滿當地特色，餐點品質更是令人讚不絕口。他們的印尼風味料理水準相當出色，但最讓我驚喜的是，就連義大利麵也做得極為精緻美味，完全超乎預期。<br>從大街上就能清楚看到這間開放式餐廳的招牌門面，非常好辨識。如果您有機會到烏布一遊，我強烈推薦您前往品嚐，相信絕對不會讓您失望。（劉燦榮 社長提供）<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxnysbbw5V-ggsXbHd8eMI1QP1R2Tv4sMHvuMu6jjYsf8BRfGr7GXPXlLeg4D3KIGUXDxYh6fdjGScXAGUzrN5FZLFPBKoz3z3LoUqErrhKRed_B0H2xUUjZzDcv488AmW_k6a-4KDt-SHsx_1IMDmZ9lMQGjlBl-5BkWSQViuQSzBdYzVnke03qBW8vP0xDrv8SdXEla2gFIRv4V5PcxQ1BuuAbQdlqT9SRtQyn7yZGCkCQDSsZaihQMc?authuser=0&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GycSbYq46YGxpFZv1ZXsVAJR-WHvtakd0BpWIV9jVo1cCBs39xayqmEMUiusiCVHfoTKdf2A4OMyFiHK9IpElLXiU4Vv1zmmED2NQ-FwTiOOPusRrc9h15mgjuNAGr6DmVEMPaSgyeSad47wNXxOr7nXpeFDi8aYxgZnMhKu3mwjYrc9a_0-Vkf98XZ888Q7BVxh79a7wohzJvXgW-Ed5PKfwwzqkOI7LfqelUuLsbdfNtogcf13nrYNvo?authuser=0&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxbyVy7vDk0HDfbieFaOmoayq5hF8Ty1rb9ZY7BAauk44oB0O2At6jjFkvgOboBELLptMmO4r06HFLa36RY9ln_H5LHgrYnOhzu-qogCbDQUkRX1GFMVbC4zRfJfy_LpApYLpMcoXPCfWKsSChdgVeK0t8dt8yAol7oeKK_CZbIMsSyHARp1MXIRiw4rQxSbRQ59Lo3Z6eggn9DtbSbqdpQB6VUM2fmZ7WM8YKIEG76j4in3Mt8NosgIpo?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxon8uSjC4p9j3Ji2QQpBC0z72dUex2eG4PMVGf7w4fzveMP_JkwqJVdfsXPJ_3ORsg3jENELnFGa63gRzmTOVg3LNhZUOFaKVDWFrdVKaok9rlDsQ8szPf8a908QxPd8eIZbX48hbTQHJbVk4bDmLFaaJensI24RMX9mbk0TfKHBWe6vuQDhjxPf6IzD605r3fdAO1tHiT_3nrdG2C1B5Zuw0rXW9GWPM9wZgTSfVZwKiFeCd-XBQ0IoM?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxnysbbw5V-ggsXbHd8eMI1QP1R2Tv4sMHvuMu6jjYsf8BRfGr7GXPXlLeg4D3KIGUXDxYh6fdjGScXAGUzrN5FZLFPBKoz3z3LoUqErrhKRed_B0H2xUUjZzDcv488AmW_k6a-4KDt-SHsx_1IMDmZ9lMQGjlBl-5BkWSQViuQSzBdYzVnke03qBW8vP0xDrv8SdXEla2gFIRv4V5PcxQ1BuuAbQdlqT9SRtQyn7yZGCkCQDSsZaihQMc?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GycSbYq46YGxpFZv1ZXsVAJR-WHvtakd0BpWIV9jVo1cCBs39xayqmEMUiusiCVHfoTKdf2A4OMyFiHK9IpElLXiU4Vv1zmmED2NQ-FwTiOOPusRrc9h15mgjuNAGr6DmVEMPaSgyeSad47wNXxOr7nXpeFDi8aYxgZnMhKu3mwjYrc9a_0-Vkf98XZ888Q7BVxh79a7wohzJvXgW-Ed5PKfwwzqkOI7LfqelUuLsbdfNtogcf13nrYNvo?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxbyVy7vDk0HDfbieFaOmoayq5hF8Ty1rb9ZY7BAauk44oB0O2At6jjFkvgOboBELLptMmO4r06HFLa36RY9ln_H5LHgrYnOhzu-qogCbDQUkRX1GFMVbC4zRfJfy_LpApYLpMcoXPCfWKsSChdgVeK0t8dt8yAol7oeKK_CZbIMsSyHARp1MXIRiw4rQxSbRQ59Lo3Z6eggn9DtbSbqdpQB6VUM2fmZ7WM8YKIEG76j4in3Mt8NosgIpo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.263803,-8.5073525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>SAPA by MeVui</name>
+        <description>越南菜</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.263037,-8.520249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[This Is Bali - Balinese Food & Desserts]]></name>
+        <description><![CDATA[峇里島式美食&甜品]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2641036,-8.508112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>烏布中心Jl. Monkey Forest</name>
+      <Placemark>
+        <name>Wenara Bali Bungalows</name>
+        <description><![CDATA[▶Right next to Monkey Forest<br>▶You can see monkeys right in this hotel<br>▶list on a Franch travel magazine as one of the best afforable hotel in Ubud. Many Franch guests came here.<br>▶we stay at Family room 4 nights for NT3,000, not each night, it's the total price. And it includes breakfast. That is NT750 per night<br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1603-880E4F</styleUrl>
+        <Point>
+          <coordinates>
+            115.259275,-8.5171662,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tukies Coconut Shop（猴子森林路店）</name>
+        <description><![CDATA[▶這是一家非常專業的椰子店。你可以找到與椰子有關的所有東西，如椰子油，椰子冰淇淋，椰子片，椰子醬.....等<br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2610085,-8.5110836,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Watercress Cafe Ubud</name>
+        <description><![CDATA[▶從烏布皇宮的路口走過來600公尺<br>▶在水明樣也有一家<br>▶很多評論說是這附近一定要來的餐廳<br>▶很多人說他們的漢堡無敵好吃<br>▶推：雞肉漢堡、雞肉沙爹漢堡、acai bowl、沙拉<br><br>【巴西莓（acai）也音译被称之为“阿萨伊”是生长在亚马逊热带雨林的「生命之树」果实，含有大量抗氧化物和氨基酸。被誉为「全球最棒的超级食物」之一，smoothie bowl的升级版。巴西莓果碗拥有比沙拉更奇妙的瘦身减肥功效，倡导健康轻食欧美网红博主几乎人手一碗】<br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2610494,-8.5124077,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starbucks Monkey Forest</name>
+        <description>星巴克</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2607023,-8.5131383,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Three Monkeys Ubud</name>
+        <description><![CDATA[Large amount of plants=large amount of mosquitos (bring mosqit repellent)<br><br>Large variety of food<br><br>Very calm atmosphere<br><br>the plantations look wonderful<br><br>Summary: The plantations makes the restaurants atmosphere very enjoyable/calm]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2607816,-8.5139969,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Folk Pool & Gardens]]></name>
+        <description>烏布攻略地圖視頻：https://youtu.be/JtxZHtijEkE</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2605443,-8.5139603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>猴子森林入口</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.2614171,-8.5182362,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>有名的餐廳聚集地之一</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.2630953,-8.5181797,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>烏布市場的後門</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.262197,-8.5096367,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agung Rai Museum of Art</name>
+        <description>阿貢萊美術館建於一片有起伏的地形上，擁有峇里文化風格的花園設計，如蓮花池和蘭花植物。這是一個在烏布至少值得去一次的地方，數量驚人的峇里風格藝術收藏。強烈推薦參觀。雖然入場費不便宜，但值得停下來一次。有機會親眼看到藝術家在創作。開放時間為09:00-18:00，門票價格為每人150,000印尼盾。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2637566,-8.5228143,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Babi Guling Gung Cung</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.263526,-8.503445,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>烏布周邊熱門景點</name>
+      <Placemark>
+        <name>德格拉朗梯田</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.279303,-8.4317112,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jatiluwih 梯田</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.131372,-8.3699703,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alas Harum Bali</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2806075,-8.43989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Bird Park</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2519216,-8.5995781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taman Dedari 仙女園</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwq20aB1Cme7ptEiYaapnunik9F4FXtx2T7BR0enBRpxanHDyL6h_RF8u6ct5TMgAa17ZYqnw6u_fkSa2PsDDmjPHlq58fKUN10__s38cIoQogA57zinPd126pnWLgq2Oz_OM42FXiTE_oNMXWojrC5EDjYfTtj--ug1xNVPG6tKK8Cua2eKLFbIm3NdLQXOKannOwJLsdWPHQCWxjgMOZP-AE6eFcSl6CGRXDzwdl9RX0bxnqQrWqrS_4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwq20aB1Cme7ptEiYaapnunik9F4FXtx2T7BR0enBRpxanHDyL6h_RF8u6ct5TMgAa17ZYqnw6u_fkSa2PsDDmjPHlq58fKUN10__s38cIoQogA57zinPd126pnWLgq2Oz_OM42FXiTE_oNMXWojrC5EDjYfTtj--ug1xNVPG6tKK8Cua2eKLFbIm3NdLQXOKannOwJLsdWPHQCWxjgMOZP-AE6eFcSl6CGRXDzwdl9RX0bxnqQrWqrS_4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2446382,-8.4750472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pura Tirta Empul聖泉寺</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3153284,-8.4156589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dalem Pingit 聖泉寺</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2846221,-8.3912389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pura Gunung Kawi Sebatu 聖泉寺</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2938008,-8.4055489,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Penglipuran Village</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.359306,-8.4222473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mason Elephant Park</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.283967,-8.391231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島野生動物園</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3452337,-8.580947,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Serayu Pottery</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2723205,-8.5090288,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>布拉坦水神廟</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1668234,-8.2751807,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paperhills</name>
+        <description>金塔瑪尼13大景觀火山咖啡廳推薦：https://gobaligo.id/blog/2024-11-27-67467629fd897800018d71d1/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3432578,-8.2691285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>el lago</name>
+        <description>金塔瑪尼13大景觀火山咖啡廳推薦：https://gobaligo.id/blog/2024-11-27-67467629fd897800018d71d1/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.342025,-8.2674591,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montana Del Cafe</name>
+        <description>金塔瑪尼13大景觀火山咖啡廳推薦：https://gobaligo.id/blog/2024-11-27-67467629fd897800018d71d1/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3424449,-8.2680071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AKASA Specialty Coffee</name>
+        <description>金塔瑪尼13大景觀火山咖啡廳推薦：https://gobaligo.id/blog/2024-11-27-67467629fd897800018d71d1/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3575395,-8.2796067,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Toya Devasya 溫泉水上樂園</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.400701,-8.2505497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>百沙基母廟</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.4525567,-8.3739976,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pura Lempuyang 天空之門</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6307345,-8.3913133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tirta Gangga 恆河聖泉花園</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.5872919,-8.4123473,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ujung Water Palace 烏戎水宮</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.6306692,-8.4630811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lahangan Sweet</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GweX-Iw5Lk7ZT-dZbhjderhpSr0cTS8RSCSGRQEObCFRQOsuCKA8lgwwJAb9knQy2UwKNoLOFhoHxlPslqRFH13FR5tWhKt-lEluKJc-DyKGJkStIypsOM2A-ic-dhIxBmguY3YkbjfzhzWyO-Vll5oZo781SSjY39dsnUmwPEqq3aF1W9x0d7NRq4P2_0kzLZaqppyxkjgup5oc7DhCX94TFSNYWXqoh1I0Tch9BDw7Dxxy9ruXJddYpM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>絕美的阿貢山景觀點 🌄<br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GweX-Iw5Lk7ZT-dZbhjderhpSr0cTS8RSCSGRQEObCFRQOsuCKA8lgwwJAb9knQy2UwKNoLOFhoHxlPslqRFH13FR5tWhKt-lEluKJc-DyKGJkStIypsOM2A-ic-dhIxBmguY3YkbjfzhzWyO-Vll5oZo781SSjY39dsnUmwPEqq3aF1W9x0d7NRq4P2_0kzLZaqppyxkjgup5oc7DhCX94TFSNYWXqoh1I0Tch9BDw7Dxxy9ruXJddYpM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.6371092,-8.3721589,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jungle Cart office</name>
+        <description>請看叢林馬力歐賽車專文介紹：請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.269381,-8.50633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goa Gajah</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2871568,-8.5234378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>秘境峽谷 Beji Guwang</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2894286,-8.6099153,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Balerung Stage</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxlHs9mUycZhTOpEscyiw6U234lSdYuiuJ0cEp4CBZkJ9tZ43vL8uZTRZgQ-NdhLdoRbWRalXkqLXZdnU2bSM9GTbEZ4qLAFkHaLDWRPbWMPha8k9YI5H7nYGiZfDkzpfFxG_xO70KaWo02N-WoBn-nBTal07jXlWi0ocUKQSMFJm5CQyYTzYP8YoOpwoq6ZRmL71o0MUmWytHK8pIUDUYUkgNzDiBa7ZyAA_F-q4QeSRESyQa5gKjuodM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxlHs9mUycZhTOpEscyiw6U234lSdYuiuJ0cEp4CBZkJ9tZ43vL8uZTRZgQ-NdhLdoRbWRalXkqLXZdnU2bSM9GTbEZ4qLAFkHaLDWRPbWMPha8k9YI5H7nYGiZfDkzpfFxG_xO70KaWo02N-WoBn-nBTal07jXlWi0ocUKQSMFJm5CQyYTzYP8YoOpwoq6ZRmL71o0MUmWytHK8pIUDUYUkgNzDiBa7ZyAA_F-q4QeSRESyQa5gKjuodM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2708465,-8.5171948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Marine Safari Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy9YsuHpnP_JMtGBOBazeOQesXzJJBOvFjdjwJCpNqpyIsCDNZHZ90IeebyglPxRGxFVW9gGK3tUM0uR51Z8S_ZUu4HuKGHH8itETzqx9X2WWVFOsNscIW6EcmedyyBwmes01ctkk1MAJc3pErkZuuh-hF2yiTA4PCn2Q_U3-b6DtRZmqT3YreF8ku-nPv-DNJK8dSD10MfQErYu8r2im03Pj2phPVVXx8GEPT-KfxkKDxWU8H48pgcuB0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy9YsuHpnP_JMtGBOBazeOQesXzJJBOvFjdjwJCpNqpyIsCDNZHZ90IeebyglPxRGxFVW9gGK3tUM0uR51Z8S_ZUu4HuKGHH8itETzqx9X2WWVFOsNscIW6EcmedyyBwmes01ctkk1MAJc3pErkZuuh-hF2yiTA4PCn2Q_U3-b6DtRZmqT3YreF8ku-nPv-DNJK8dSD10MfQErYu8r2im03Pj2phPVVXx8GEPT-KfxkKDxWU8H48pgcuB0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.345792,-8.5819641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Moonstone Beach Lounge</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxmoqj1icFYeUe7C0HpCRQ4BDAWMg1m_F0jIeZ78GQn5MsuAwNfUyZ3IWxeeyaadX86f7Zi2heOORfzDu79NZYtUALoNmPbFHkjtEtESRWEj8Du_YrUX1YtUrg20WbQrsRONevFGkT3Hj9o5RtExTHknTxU152Pk-N2LPgGHZZ1W7tY0ibEblVGoxev0SvALtO1o58X-xqduhJ055C1J0xuK0YFbi_UMTsJEH_Fo_rvkyU_ArI-wtgEt0Y?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gxmoqj1icFYeUe7C0HpCRQ4BDAWMg1m_F0jIeZ78GQn5MsuAwNfUyZ3IWxeeyaadX86f7Zi2heOORfzDu79NZYtUALoNmPbFHkjtEtESRWEj8Du_YrUX1YtUrg20WbQrsRONevFGkT3Hj9o5RtExTHknTxU152Pk-N2LPgGHZZ1W7tY0ibEblVGoxev0SvALtO1o58X-xqduhJ055C1J0xuK0YFbi_UMTsJEH_Fo_rvkyU_ArI-wtgEt0Y?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.3091016,-8.618706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kemenuh Monkey River</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxMQRXNugnpLkorp_vejKfoKlUNQ0ImMc_oZ4E8iN--dvE-K4hXLlH_J2YKtbQf6QWCzbM7nzaFUiKmuM2WZ5IP5dc_w-VAKXwq7m9mnA6kqdx-a3ZaZqwq2pkc73Tdd1glxzmcd_GzJrMKNuRZTfdvCilX-pyU2GQbp89gVlfssd3GTb355rxxt55D1ia7Bg2O4nRM0kycWLbisGRxiM4Gtz7OuWxuhfZlHTiPmbsCBmJvd_9qJTG9C3w?authuser=0&fife=s16383" height="200" width="auto" /><br><br>2025新開幕的猴子森林<br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxMQRXNugnpLkorp_vejKfoKlUNQ0ImMc_oZ4E8iN--dvE-K4hXLlH_J2YKtbQf6QWCzbM7nzaFUiKmuM2WZ5IP5dc_w-VAKXwq7m9mnA6kqdx-a3ZaZqwq2pkc73Tdd1glxzmcd_GzJrMKNuRZTfdvCilX-pyU2GQbp89gVlfssd3GTb355rxxt55D1ia7Bg2O4nRM0kycWLbisGRxiM4Gtz7OuWxuhfZlHTiPmbsCBmJvd_9qJTG9C3w?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2890925,-8.5687668,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Taman Beji Griya Waterfall</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzqcipOw3MYacGU6_nliXMwgEGxIeM7bByyuqDcYbgL48xJqkWEgu46guKCZt-HUDpl5NjlTxrY_c51N0lLjbFRNjC0MBcr23OsF04ssAjl8eSddhFLI7ujswCvsUbQ8CitNJpadgwgAIUiA98zUaCJdS3mjH5h_fU8y-DbjHFHlu3ySpRYhvmxTX9j2yfJvpTcKcx8WKEru2ABKYf8eOXv7FI7Fm1WjFZVNapeJeHRHtB0qAHOsETSocQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>適合靈修的瀑布園區<br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzqcipOw3MYacGU6_nliXMwgEGxIeM7bByyuqDcYbgL48xJqkWEgu46guKCZt-HUDpl5NjlTxrY_c51N0lLjbFRNjC0MBcr23OsF04ssAjl8eSddhFLI7ujswCvsUbQ8CitNJpadgwgAIUiA98zUaCJdS3mjH5h_fU8y-DbjHFHlu3ySpRYhvmxTX9j2yfJvpTcKcx8WKEru2ABKYf8eOXv7FI7Fm1WjFZVNapeJeHRHtB0qAHOsETSocQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2186283,-8.503022,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Setia Darma House of Mask and Puppets</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzXepL0ltYR4cvhRLfUmxmI9e-211DcYsy7j7l__Kd5C7fZoBa1Og8f93GYCsU597i74F2hv0L91qs1_FRDoSmuWFMMPYYunuELZ-ZEBFCxCjC2QFbx9NPeeu5vufrR_jfuxF5R7QvAPN3EOtCnySbVcIQJfcTrJVYvrM4wP_BiNkjTQOQvkOBLGBbfbTzRxTLW_P9ICR55fb7CiejgpXI7PJf3fX6yKRJ-Qk__dupw2M3MpY3CStlNtu0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>喜歡傳統藝術文化的人，我要推薦個超讚的地方 #巴厘傳統面具博物館，就在烏布下方一點不遠，無意間在谷歌map上看到好評，庭園大悠閒沒什麼人，幾棟建築展示不同的內容，展示物用心維持得很好，有面具，皮影和木偶，重點是不要門票和停車費，當然你也可以樂捐，我們在庭園的巴厘式的涼亭中悠閒坐了下，享受片刻的寧靜。(李承宜提供)]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzXepL0ltYR4cvhRLfUmxmI9e-211DcYsy7j7l__Kd5C7fZoBa1Og8f93GYCsU597i74F2hv0L91qs1_FRDoSmuWFMMPYYunuELZ-ZEBFCxCjC2QFbx9NPeeu5vufrR_jfuxF5R7QvAPN3EOtCnySbVcIQJfcTrJVYvrM4wP_BiNkjTQOQvkOBLGBbfbTzRxTLW_P9ICR55fb7CiejgpXI7PJf3fX6yKRJ-Qk__dupw2M3MpY3CStlNtu0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2797902,-8.5340219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Fire Flies Garden</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwNP1gVgTybjVfgqsbfrIA-E0hMR8wfsED-R3N8QxD9jHllJm7gH7W5hmhh87cY4Sj--iyi7RzFI3ECFP5CuLfrPKNb4iSRkCb9k0wynDaM6E4zLkptwfl-hgG59R3P3rtcxanOyp-Nsa23p5iGoMllt37UnwqGucIRXjOPGaDfxXBq-OSsvV7d7fBJ3isFx7k412X_EHQwDutmFnZAPqHBUuNbWXH6DJhcgjqi5RyBzPFpicu_1HxN4nA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>✨ 峇里島螢火蟲花園奪下生態旅遊大獎！<br>在浪漫夜色下欣賞螢火蟲飛舞 🌌，同時支持保育與有機農業 🌿。<br>👉 下次來烏布，不妨安排一場奇幻的夜間體驗！<br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwNP1gVgTybjVfgqsbfrIA-E0hMR8wfsED-R3N8QxD9jHllJm7gH7W5hmhh87cY4Sj--iyi7RzFI3ECFP5CuLfrPKNb4iSRkCb9k0wynDaM6E4zLkptwfl-hgG59R3P3rtcxanOyp-Nsa23p5iGoMllt37UnwqGucIRXjOPGaDfxXBq-OSsvV7d7fBJ3isFx7k412X_EHQwDutmFnZAPqHBUuNbWXH6DJhcgjqi5RyBzPFpicu_1HxN4nA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2775207,-8.3874393,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Hikaria: Bali's First Immersive Night Walk]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz65PRhGjV9RAuSF5ok5eWyEHl2SoG0GoWRxqowgk3FtkUQI6qFy6bIX7Dbv219_CbFtr5U9er2xcQIMCGBt0gst-jf1penTjdehRPzpzfjMEj0qQPYhJK835nPm-5pgecv-7h96XWy4j0v4NtGUfSOHKWpRL3WhS6BESGbagVq918L8WOOFOm5AGpx0YoJ6ANNMzQHGb_lhF9Ket5UN8f_hmEspn6pjQPxOkXQoqoBe1PnWU-ohsqN7gE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>在峇里島烏布的沉浸式夜行光影體驗，由數位創新與沉浸式娛樂專家聯手打造，將傳統神話與尖端科技完美融合。全長一公里的森林步道化身為夢幻光影世界，透過先進投影映射技術，講述光之神與影之神的傳說。<br><br>園區內設有多個絕佳拍照點，包括迷人燈光造景與標誌性巨型月亮裝置，同時提供服裝租借與專業攝影服務。<br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide<br><br>這個獨特的夜間體驗適合各年齡層遊客，無論浪漫約會或家庭出遊，都能在夜幕下的魔法森林中，享受光、文化與自然交融的難忘旅程。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz65PRhGjV9RAuSF5ok5eWyEHl2SoG0GoWRxqowgk3FtkUQI6qFy6bIX7Dbv219_CbFtr5U9er2xcQIMCGBt0gst-jf1penTjdehRPzpzfjMEj0qQPYhJK835nPm-5pgecv-7h96XWy4j0v4NtGUfSOHKWpRL3WhS6BESGbagVq918L8WOOFOm5AGpx0YoJ6ANNMzQHGb_lhF9Ket5UN8f_hmEspn6pjQPxOkXQoqoBe1PnWU-ohsqN7gE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2752395,-8.4524749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wisata Kayu Putih</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwhPXPv7BJLmnFjFJO4EnuMZ5ETmFMayaaZuebhYXKPh7QMBXg4VMdQkkMGTePsGmJZ7EBLMVt5Ia1NLSOYGZageo55vjpWayBdVxVxszphzkNMc1GiFJXvF2DPnM4_nluYwzCPpFpCDAQoOSGy-xMYawZOG1v9ox4ugTFyghDZctwQDFKOmqmuQFsc1cep2JX-1JtDexBq3ttbMQv0csBKDVapsO4Y-FrQ0BH-PBQ8iTB4h-rwCKXChgo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwhPXPv7BJLmnFjFJO4EnuMZ5ETmFMayaaZuebhYXKPh7QMBXg4VMdQkkMGTePsGmJZ7EBLMVt5Ia1NLSOYGZageo55vjpWayBdVxVxszphzkNMc1GiFJXvF2DPnM4_nluYwzCPpFpCDAQoOSGy-xMYawZOG1v9ox4ugTFyghDZctwQDFKOmqmuQFsc1cep2JX-1JtDexBq3ttbMQv0csBKDVapsO4Y-FrQ0BH-PBQ8iTB4h-rwCKXChgo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1870888,-8.4064692,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bintang Supermarket Ubud</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2523733,-8.4997384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>烏布附近三大瀑布</name>
+      <Placemark>
+        <name>Tegenungan Waterfall</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=d5sQbfgrO14"><img src="https://img.youtube.com/vi/d5sQbfgrO14/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/d5sQbfgrO14">https://www.youtube.com/embed/d5sQbfgrO14</a><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/d5sQbfgrO14</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2889599,-8.5753621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kanto Lampo Waterfall</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=-0KOzA9nPGY"><img src="https://img.youtube.com/vi/-0KOzA9nPGY/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/-0KOzA9nPGY">https://www.youtube.com/embed/-0KOzA9nPGY</a><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/-0KOzA9nPGY</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.3312408,-8.5321802,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tukad Cepung Waterfall</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3868079,-8.4410173,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>天空步道路徑</name>
+      <Placemark>
+        <name>天空步道路徑</name>
+        <styleUrl>#line-1267FF-5000-nodesc</styleUrl>
+        <LineString>
+          <tessellate>1</tessellate>
+          <coordinates>
+            115.25568,-8.5046,0
+            115.25566,-8.50457,0
+            115.25556,-8.50444,0
+            115.25537,-8.50447,0
+            115.25523,-8.50446,0
+            115.25511,-8.50444,0
+            115.25503,-8.50441,0
+            115.25495,-8.50437,0
+            115.2549,-8.50433,0
+            115.25488,-8.5043,0
+            115.25487,-8.50428,0
+            115.25486,-8.50422,0
+            115.25483,-8.50413,0
+            115.2548,-8.50401,0
+            115.25479,-8.50395,0
+            115.25478,-8.5039,0
+            115.25476,-8.50382,0
+            115.25474,-8.50378,0
+            115.25473,-8.50373,0
+            115.25471,-8.50361,0
+            115.25471,-8.5036,0
+            115.25469,-8.5035,0
+            115.2547,-8.50343,0
+            115.2547,-8.50341,0
+            115.2547,-8.50335,0
+            115.25473,-8.50326,0
+            115.25484,-8.50307,0
+            115.25489,-8.503,0
+            115.2549,-8.50293,0
+            115.25491,-8.50286,0
+            115.25492,-8.50282,0
+            115.25491,-8.50278,0
+            115.2549,-8.50276,0
+            115.25488,-8.50274,0
+            115.25485,-8.50271,0
+            115.25476,-8.50265,0
+            115.25475,-8.50264,0
+            115.2547,-8.50261,0
+            115.25467,-8.50258,0
+            115.25464,-8.50253,0
+            115.25462,-8.50248,0
+            115.25456,-8.50238,0
+            115.25453,-8.50226,0
+            115.25452,-8.50215,0
+            115.25453,-8.50208,0
+            115.25456,-8.50202,0
+            115.25458,-8.50199,0
+            115.25465,-8.50192,0
+            115.25469,-8.5019,0
+            115.2547,-8.50189,0
+            115.25473,-8.50187,0
+            115.25475,-8.50185,0
+            115.25477,-8.50182,0
+            115.25478,-8.50177,0
+            115.25479,-8.50176,0
+            115.25479,-8.50174,0
+            115.2548,-8.50169,0
+            115.25479,-8.50164,0
+            115.25476,-8.5015,0
+            115.25476,-8.5014,0
+            115.25475,-8.50133,0
+            115.25474,-8.50123,0
+            115.25474,-8.50121,0
+            115.25473,-8.50113,0
+            115.25471,-8.501,0
+            115.2547,-8.50087,0
+            115.25469,-8.50084,0
+            115.25469,-8.50069,0
+            115.25469,-8.50063,0
+            115.2547,-8.50054,0
+            115.25471,-8.50052,0
+            115.25472,-8.5005,0
+            115.25473,-8.50047,0
+            115.25476,-8.50042,0
+            115.25479,-8.50037,0
+            115.25481,-8.50033,0
+            115.25483,-8.50028,0
+            115.25484,-8.50022,0
+            115.25485,-8.50019,0
+            115.25485,-8.50018,0
+            115.25485,-8.50012,0
+            115.25486,-8.50006,0
+            115.2549,-8.5,0
+            115.25495,-8.49989,0
+            115.25495,-8.49985,0
+            115.25498,-8.49971,0
+            115.25499,-8.49968,0
+            115.255,-8.49965,0
+            115.255,-8.49964,0
+            115.25507,-8.49952,0
+            115.25507,-8.49951,0
+            115.2551,-8.49941,0
+            115.25512,-8.49934,0
+            115.25513,-8.49932,0
+            115.25514,-8.49927,0
+            115.25518,-8.49921,0
+            115.25518,-8.49918,0
+            115.25519,-8.49915,0
+            115.25518,-8.49909,0
+            115.25516,-8.499,0
+            115.25516,-8.49899,0
+            115.25516,-8.49897,0
+            115.25516,-8.49882,0
+            115.25517,-8.49869,0
+            115.2552,-8.49854,0
+            115.25522,-8.49847,0
+            115.25523,-8.49844,0
+            115.25523,-8.49843,0
+            115.25526,-8.4983,0
+            115.25526,-8.49827,0
+            115.25527,-8.49817,0
+            115.25527,-8.49812,0
+            115.25529,-8.498,0
+            115.25529,-8.49794,0
+            115.25529,-8.4979,0
+            115.25529,-8.49788,0
+            115.25528,-8.49772,0
+            115.25527,-8.49758,0
+            115.25526,-8.49755,0
+            115.25525,-8.49741,0
+            115.25524,-8.49735,0
+            115.25525,-8.49723,0
+            115.25527,-8.49713,0
+            115.25527,-8.49705,0
+            115.25527,-8.49701,0
+            115.25529,-8.49685,0
+            115.25532,-8.49661,0
+            115.25537,-8.49634,0
+            115.25538,-8.4963,0
+            115.25538,-8.49628,0
+            115.25542,-8.49617,0
+            115.25546,-8.49607,0
+            115.25554,-8.49583,0
+            115.25559,-8.49566,0
+            115.25561,-8.49561,0
+            115.25565,-8.49549,0
+            115.2557,-8.49533,0
+            115.2557,-8.49532,0
+            115.25572,-8.49527,0
+            115.25577,-8.49512,0
+            115.25583,-8.49499,0
+            115.25586,-8.49494,0
+            115.25588,-8.4949,0
+            115.25597,-8.49473,0
+            115.25629,-8.49392,0
+            115.25633,-8.49384,0
+            115.25633,-8.49383,0
+            115.25638,-8.49373,0
+            115.25644,-8.4936,0
+            115.25653,-8.49345,0
+            115.25661,-8.49335,0
+            115.25669,-8.49326,0
+            115.25675,-8.49319,0
+            115.2568,-8.49314,0
+            115.25694,-8.49302,0
+            115.25706,-8.49292,0
+            115.25713,-8.49285,0
+            115.25715,-8.49282,0
+            115.25722,-8.49272,0
+            115.25728,-8.4926,0
+            115.25729,-8.49258,0
+            115.25735,-8.49248,0
+            115.25736,-8.49246,0
+            115.25745,-8.49228,0
+            115.25746,-8.49225,0
+          </coordinates>
+        </LineString>
+      </Placemark>
+      <Placemark>
+        <name>F7W4+579, Gg. Beji, Ubud, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571印尼</name>
+        <styleUrl>#icon-ci-3-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.255684,-8.5046003,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>G754+4W2, Jl. Bangkiang Sidem, Keliki, Kec. Tegallalang, Kabupaten Gianyar, Bali 80571印尼</name>
+        <styleUrl>#icon-ci-4-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.257463,-8.4922528,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>沈浸山水美景的用餐地點</name>
+      <Placemark>
+        <name>Dtukad River Club</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2919838,-8.5763708,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Omma Dayclub Bali</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2894134,-8.5755996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wanna Jungle Pool and Bar</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2745107,-8.4230651,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cretya Ubud</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.280485,-8.4403211,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bebek Tebasari Resto</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.256768,-8.5456612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Sayan House Restaurant</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2442719,-8.4986293,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mandapa, a Ritz-Carlton Reserve</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2453955,-8.4859273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bebek Tepi Sawah Restaurant Ubud</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2727875,-8.5237055,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Boni Bali Restaurant</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2801331,-8.4260853,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafe Lotus</name>
+        <description>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.261077,-8.5061742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kebun Bistro</name>
+        <description>我們這次去雖然最有名的羊排賣完了，但店員推薦的牛排也非常美味！點了五分熟，切開卻沒有血水，肉質非常嫩，連配菜都很好吃。因為顧客很多，建議在正餐時間提前訂位。（連育諄提供）</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2642122,-8.513603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Pondok Madu</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwiiIzPnbNr8Y5RA45s0KQMxuiXlxMeAEmE_2wpTIqdGxQ54S94DHSB3L0KYbwbGqPXRY4gny5VijdhtaV9mySb9dFlwmLfPxDDTDiR0QTrZqhrD15EPCMeqynX0iTB2WGbFk5q6WeNr0ufj5fmDXIAWb64FL3kI_vMt5wpdAXGuACJhNpBfzBVvU_6U4jCxf0WXwrty2yNmqEpZCMRL9VEJYY4A_8deKpwI8TlQR9sBPaomilgUh9QTE0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>回到家已經半個月了，但我仍然無法忘記那一口豬排。這次峇里島之行，我發現了一家不可錯過的豬排店。<br><br>這家餐廳的豬排真的是絕品，每一口都充滿了多汁和濃郁的風味。無論你點什麼，都不會踩雷，真的是讓人一試成主顧。<br><br>更讓人陶醉的是，餐廳的二樓有靠窗的位置，傍晚時分坐在這裡可以一邊享受美食，一邊欣賞絕美的夕陽景色。夕陽的餘暉灑在桌上，增添了一份浪漫和溫馨（Romeo Engkong提供）<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzoxcUjds-rwEr5IkjCsxYhYwlmlhrRZkToJjvAbtSwGfFj6vbyqmzJkMDym7FSWX_m7mH4Q02kdIj3QOKQx4rnylBTD9mZJ5dhJM7qEDCGPtcbb1O-7w4bzZUWBjesCDz-nBZM3RH5ZGgk6EEB8mxiAi_C3gVlfWufhixjp4EZyoseXHeDaLNoVNE4MVU4S-yO3uKO2fCTLXL5CznUq7fyLmkf9DDa8OYirWLsz7egt0cp31zFQ8XNzTU?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwiiIzPnbNr8Y5RA45s0KQMxuiXlxMeAEmE_2wpTIqdGxQ54S94DHSB3L0KYbwbGqPXRY4gny5VijdhtaV9mySb9dFlwmLfPxDDTDiR0QTrZqhrD15EPCMeqynX0iTB2WGbFk5q6WeNr0ufj5fmDXIAWb64FL3kI_vMt5wpdAXGuACJhNpBfzBVvU_6U4jCxf0WXwrty2yNmqEpZCMRL9VEJYY4A_8deKpwI8TlQR9sBPaomilgUh9QTE0?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzoxcUjds-rwEr5IkjCsxYhYwlmlhrRZkToJjvAbtSwGfFj6vbyqmzJkMDym7FSWX_m7mH4Q02kdIj3QOKQx4rnylBTD9mZJ5dhJM7qEDCGPtcbb1O-7w4bzZUWBjesCDz-nBZM3RH5ZGgk6EEB8mxiAi_C3gVlfWufhixjp4EZyoseXHeDaLNoVNE4MVU4S-yO3uKO2fCTLXL5CznUq7fyLmkf9DDa8OYirWLsz7egt0cp31zFQ8XNzTU?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2660894,-8.5165163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Baracca Bali (Ubud)</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzhi0t-b4HLm86bezbj4UAATLlnXH01IXFoiFDFrV8Qx1Q6RTW7n3r0TbBJznfuLINbMO2xQ3KNoODwPB7xB3Z2oBxwdtdadRxV4B9DNyoxY44qYTWtKowOazqblL8gGH0bUwVa2_gbnEt3gj9DIMYRQ-oH16UoldtdoCwHc2cvY17E1t-_rwe4I0WqUXnUZGQ5Nd3HFgNAUdFtC-uMhUIJTRlKZU3I3RpOa0iuQSfjypCqW88l_CP6zDU?authuser=0&fife=s16383" height="200" width="auto" /><br><br>靠近烏布皇宮，很好吃的Pizza，也有義大利麵跟小點<br>Google map 平均4.6的高分，調酒也不錯，餐廳氛圍很好<br>一個人吃一個pizza有點太多，我打包回家繼續吃，冷掉也很好吃<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzhi0t-b4HLm86bezbj4UAATLlnXH01IXFoiFDFrV8Qx1Q6RTW7n3r0TbBJznfuLINbMO2xQ3KNoODwPB7xB3Z2oBxwdtdadRxV4B9DNyoxY44qYTWtKowOazqblL8gGH0bUwVa2_gbnEt3gj9DIMYRQ-oH16UoldtdoCwHc2cvY17E1t-_rwe4I0WqUXnUZGQ5Nd3HFgNAUdFtC-uMhUIJTRlKZU3I3RpOa0iuQSfjypCqW88l_CP6zDU?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2636298,-8.503982,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Pulau Kelapa Organic Garden</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwbEGNlyGKwvwcgDeXdfTCsDPCbIOJlFSqHGgpsqSzk3Xoos9Lh6SjJH07n4i4RPcBdydAn0_eNGWJbEF9xLDN3NnyKJiSV1BMT3uD-b13N04eZcZx8q-JolwLIz_xNpHh7E1duFUG94LnEZjK8tbyfnZwlysAUDHSJhW3wYAH5daLKwkWWW9K5xlNbB4zuAyVAVs_xTxT_PM2jLxnIAt312eGbKEazAtjo_Sp_B0lAKRSW22wx3bsDRaQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>印尼料理，餐廳大座位舒適，菜單種類很多<br>（旁邊是Putri Bali Spa 一店，可以按完摩來吃）<br><br>我第一次來吃是一個人，只點了一碗麵，感受不大<br>後來跟朋友再訪，大家人數多，餐點點了很多<br>這家餐點選項很多，我們點了一大輪，炒飯炒麵青菜都點，都不錯<br>印象深刻是：豬叻牌很好吃，沙爹也很好吃<br>這家餐廳位子很多，裝潢跟服務都中上，而且菜都是自己種的，我覺得很不錯！<br><br>想吃好吃印尼餐廳，可以安排這家！<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwbEGNlyGKwvwcgDeXdfTCsDPCbIOJlFSqHGgpsqSzk3Xoos9Lh6SjJH07n4i4RPcBdydAn0_eNGWJbEF9xLDN3NnyKJiSV1BMT3uD-b13N04eZcZx8q-JolwLIz_xNpHh7E1duFUG94LnEZjK8tbyfnZwlysAUDHSJhW3wYAH5daLKwkWWW9K5xlNbB4zuAyVAVs_xTxT_PM2jLxnIAt312eGbKEazAtjo_Sp_B0lAKRSW22wx3bsDRaQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2524802,-8.4950207,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pison, Ubud</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GylpEl-aQ1Vx6w5IizkMqazRBFLrONPA-0AyLA6hi_An38ccmiUtARWs3uxV79_XQfCDOLzqMicJ4ipeISlHzk9KQjaa1BbWQrMx0_kiyQy7Yil3XX5WCpJGz33seEhq7A7nNsWvQK4DC5UoT70Lq7zKlFXv5SW95WL1Pg2tcGKJ-dN8a7fqWb43V_ksadsSlirdTsMzIjh6z9s_lc4xuJj2yohtSwTxc_2pJWFnRJF8vioXC5bo4fmFAE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>咖啡廳，莎拉、漢堡、三明治、咖啡、調酒等，種類很多<br>有室內跟室外空間，室外是坐在田旁邊，很舒服<br>我最愛最愛吃的組合是：冰拿鐵（很濃，冰塊是牛奶）＋雞肉沙拉（沙拉醬是青醬，味道好好！），這個組合我吃了三次！因為太喜歡了～很合我的胃！<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GylpEl-aQ1Vx6w5IizkMqazRBFLrONPA-0AyLA6hi_An38ccmiUtARWs3uxV79_XQfCDOLzqMicJ4ipeISlHzk9KQjaa1BbWQrMx0_kiyQy7Yil3XX5WCpJGz33seEhq7A7nNsWvQK4DC5UoT70Lq7zKlFXv5SW95WL1Pg2tcGKJ-dN8a7fqWb43V_ksadsSlirdTsMzIjh6z9s_lc4xuJj2yohtSwTxc_2pJWFnRJF8vioXC5bo4fmFAE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2636307,-8.5182718,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Muse Cafe & Art]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyPHYco0FCREt22ZjLuXhiGvF0FP_7qDSEHP7tRb3Ja7yLSI-3Tszo1wcEJS8IQDc08biDVc-L6LHSmhOhsb1QVoaVTdoouoVvJSuFu8PBP1KZqyFCFBOmNbLiOMmrXQKFMioHDBvI7WZHfHLjkM3cq0TXA3j_LVc3CIiolbQzMmP-FJj_x1T5BEMjfKdEAA9dQl4NCZYt3O5dMtukauD4A0TL2WLq4sgJzi81wgwH2xhdux6MM9pmo4C0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>座位空間很棒，是半開放式的空間，待在這邊很舒服，連洗手間都設計得很漂亮<br>我吃酪梨三明治味道一般，咖啡好喝，看評論寫印度菜很好吃，也許可以試試！<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyPHYco0FCREt22ZjLuXhiGvF0FP_7qDSEHP7tRb3Ja7yLSI-3Tszo1wcEJS8IQDc08biDVc-L6LHSmhOhsb1QVoaVTdoouoVvJSuFu8PBP1KZqyFCFBOmNbLiOMmrXQKFMioHDBvI7WZHfHLjkM3cq0TXA3j_LVc3CIiolbQzMmP-FJj_x1T5BEMjfKdEAA9dQl4NCZYt3O5dMtukauD4A0TL2WLq4sgJzi81wgwH2xhdux6MM9pmo4C0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2664463,-8.4941544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Makan Bu Rus</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy6i8ZM6cDWbBigofEVNXvGDiPc9kDc6vXruEqXOI6ommZYarFosKj5w0k87RJplVCxA_wUxqUcV17ZUBpxBK5eSVIDCaPyN2ip26kxuOP-a4JoSyXPdKTz5rYqDlR-GD2T-4cO3eLqy4-DwtU8uXZ7CQ28hf4Dl5iC2ii-DdGbVCtfoZuMu4VAuSei19vFgbBF-B2v77Rtjj5fxijmzRZcRGzxJy8prI9zhu4iOprChfBkPAX5PTFYMTY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>印尼料理，被門口的燒烤沙爹香味吸引進去<br>一盤沙爹飯＋一杯調酒，結帳時台幣一百多塊，嚇一跳便宜<br>用餐時間排隊的人很多，便宜好吃的店！<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy6i8ZM6cDWbBigofEVNXvGDiPc9kDc6vXruEqXOI6ommZYarFosKj5w0k87RJplVCxA_wUxqUcV17ZUBpxBK5eSVIDCaPyN2ip26kxuOP-a4JoSyXPdKTz5rYqDlR-GD2T-4cO3eLqy4-DwtU8uXZ7CQ28hf4Dl5iC2ii-DdGbVCtfoZuMu4VAuSei19vFgbBF-B2v77Rtjj5fxijmzRZcRGzxJy8prI9zhu4iOprChfBkPAX5PTFYMTY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2630014,-8.5050442,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tree of Chocolate by Adriana</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw8Q8XFqp6KlVnGGOWAWgpu2LVRmSJumJA9fDNgK-8vHggKeoQAYJqgLreuXlCGsS0ayAjbyjo6xe7yfGWONe94AXtOnMJUwtuh0ocx-WJKosF0sV7Mw0bf4ufltKNyg_EquCJV2C33mKf_ii2wU3mhQd04yIGHEbn-a2FOEtwbUA7BtVJ35FB0DR88UTGniSIxdgiHxXSpIj9_tbh-ZUhG5e7hz_ZPDTUMuVMbO9RLp1m_CQS3z4xvsj0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Radiantly Alive瑜伽教室旁邊挖掘到的巧克力專門店，散步經過心血來潮想說買一塊吃吃看，然後好吃到又買了三塊不同口味在店裡吃<br>店內是半開放式的廚房，員工們正在製作巧克力，招呼十分親切熱情<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw8Q8XFqp6KlVnGGOWAWgpu2LVRmSJumJA9fDNgK-8vHggKeoQAYJqgLreuXlCGsS0ayAjbyjo6xe7yfGWONe94AXtOnMJUwtuh0ocx-WJKosF0sV7Mw0bf4ufltKNyg_EquCJV2C33mKf_ii2wU3mhQd04yIGHEbn-a2FOEtwbUA7BtVJ35FB0DR88UTGniSIxdgiHxXSpIj9_tbh-ZUhG5e7hz_ZPDTUMuVMbO9RLp1m_CQS3z4xvsj0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.26698,-8.5093157,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seniman Coffee</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz2ylsuS_mkkmEMWImMPS3rAtyHFqDfQLAMOADyf_5KYtiZO0bSUdXXn1qfgohdWS8sQAhyg9LZyjQXTsca6YP634PG6uzTU-U9nB-6nK2qfbVQhKZ9ItaXwo_EEw294Ax-WM6LXY0yz-FrkksRKtgY55EzAun6qf_VV9S8bqCpwKthIGeNVXYVOBcWqpT14RJmIhgt0EKm1VimJSPO89BUVAPWh1yCiBxgX3XJAaYwJ5vrMF6Oo1Kp7-8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>有名的咖啡廳，有滿多間分店，店內是台灣的塑膠椅，原來是台灣人開的店<br>咖啡很好喝，其中有嘗試喝加酒的咖啡，味道很好喝 很特別！<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz2ylsuS_mkkmEMWImMPS3rAtyHFqDfQLAMOADyf_5KYtiZO0bSUdXXn1qfgohdWS8sQAhyg9LZyjQXTsca6YP634PG6uzTU-U9nB-6nK2qfbVQhKZ9ItaXwo_EEw294Ax-WM6LXY0yz-FrkksRKtgY55EzAun6qf_VV9S8bqCpwKthIGeNVXYVOBcWqpT14RJmIhgt0EKm1VimJSPO89BUVAPWh1yCiBxgX3XJAaYwJ5vrMF6Oo1Kp7-8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2650732,-8.5068964,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Donna</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw9h-oT97_QHt33pW61qCVau_WO8raueqjj9F1U_0qwA_kBWFfOxEYMjezpv-SGdOZfYaLgaRihGF4o0ylHFXsJ6Cz1guhnwJVrLDSJtXKHob_siF-Dwhy_OqacKjSH9jMEAITpNyryZQInnF8LeMvM5sLuN1ZUlX_nZ9-H-_7zUtTTJ19hA0Um6sZ_auNfI6Sidg6IJviP9FSUmQyDDgXRDyQAw0yzRKlP7xkHVDAjW-oiNA5SIxW0qGI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>義大利麵很好吃！我點的這杯調酒還好，餐廳裝潢滿時髦的，就在烏布熱鬧的街附近（有許多報導說這家調酒很推薦，可以試試看）<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw9h-oT97_QHt33pW61qCVau_WO8raueqjj9F1U_0qwA_kBWFfOxEYMjezpv-SGdOZfYaLgaRihGF4o0ylHFXsJ6Cz1guhnwJVrLDSJtXKHob_siF-Dwhy_OqacKjSH9jMEAITpNyryZQInnF8LeMvM5sLuN1ZUlX_nZ9-H-_7zUtTTJ19hA0Um6sZ_auNfI6Sidg6IJviP9FSUmQyDDgXRDyQAw0yzRKlP7xkHVDAjW-oiNA5SIxW0qGI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2606987,-8.513036,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sinssihwaro Korean BBQ</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw2CCPw0gDlpS3ZoCF_jcgD6ZosTYDAL5myP3CuA_WokucOeNSSJXLvEvUmP--Xww0CBKHhXVgLUjQmnh-D_k_uQc8t6vaETgmREMA7hMriHGPJGadsFBSJgzNbNIwbcvfoDwnEkBFLdBKYM2PFGG7GoIBVUafHVqeOXn3-n_xNXsM8xoe96pOPzCZn93edGoV8GmWHCiXJqWc8X3MLv4GUFvxzoi-Uk_6JP3uyxtP1Zb87lgx6h_cn090?authuser=0&fife=s16383" height="200" width="auto" /><br><br>走經過都被店的裝潢給吸引，門是全開放的，韓國料理店<br>燒肉可以選擇公克數，也可以選自己烤還是店家烤（我選店家烤XD） 好吃～<br>一個人吃韓式涼麵份量太多，又太辣，吃兩口就吃不下了<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw2CCPw0gDlpS3ZoCF_jcgD6ZosTYDAL5myP3CuA_WokucOeNSSJXLvEvUmP--Xww0CBKHhXVgLUjQmnh-D_k_uQc8t6vaETgmREMA7hMriHGPJGadsFBSJgzNbNIwbcvfoDwnEkBFLdBKYM2PFGG7GoIBVUafHVqeOXn3-n_xNXsM8xoe96pOPzCZn93edGoV8GmWHCiXJqWc8X3MLv4GUFvxzoi-Uk_6JP3uyxtP1Zb87lgx6h_cn090?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2640101,-8.5104628,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Simply Social</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwJ0t6WVK4p3PU5BOojcUIQGpVH1eU3paarHrSXe8B0o2AgNulJtW7l37tJg4yreWHDB3jREUAixo81JRpG0OBE8-UJHBXDOIBrOIdhBPqMoMJQJUbVaOW4eDJFhLh1VEQJesauzpbxLAP72mEYYASSrcajJ_iMgHKiL95-pUenEq1pszyhnmJ0bG4pYj5LCEPQWAi1A5krOLxWANPbB8sQ-cXQkJP91HesnxaJBRjUs9pt83EoUjd8RGE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>烏布皇宮旁邊，生意很好的店！用餐時間很多人排隊<br>我點酪梨塔可，很好吃欸！味道很好，我很喜歡～<br>調酒也很好喝，坐在街道邊吃飯，可以欣賞街景跟人來人往，很不錯<br><br>2023/11/15補充說明：<br>這家餐廳後來我回峇里島時，再訪了三次，帶朋友一起去吃<br>建議事先whatsapp定位，因為生意很好<br>義大利麵 燉飯 pizza 壽司 都很好吃！飲料也好喝！<br>又在烏布皇宮旁邊而已，地理位子很好～<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwJ0t6WVK4p3PU5BOojcUIQGpVH1eU3paarHrSXe8B0o2AgNulJtW7l37tJg4yreWHDB3jREUAixo81JRpG0OBE8-UJHBXDOIBrOIdhBPqMoMJQJUbVaOW4eDJFhLh1VEQJesauzpbxLAP72mEYYASSrcajJ_iMgHKiL95-pUenEq1pszyhnmJ0bG4pYj5LCEPQWAi1A5krOLxWANPbB8sQ-cXQkJP91HesnxaJBRjUs9pt83EoUjd8RGE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2640292,-8.5077595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lazy Cats Cafe</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzDaEX0Ukzl6D0A5C0zrKWQwaC0Ve2Ife5mr94vfC56Gr4bINJxOULRb5vtdBErH9_hiTOc1CHxnnEDLGSgr_oApdKiW0jMkH2mhq8IQxrrGEA0FNIrxABfZVXeD8qYYlHCJmkDFNJm_kPl_-PZN717r14eVxxQWP5Y6VAIfgmnHfobSS1JondtK3udL_9Hm1fOqd7kxiy4uKO5BGh3Zn9abeGgu7kgIoysvxqQZg8oRzyRwWjKiqJ7Vuk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>素食咖啡廳，店內很漂亮！從一樓上來開始，牆壁上掛各種畫 氛圍不錯<br>這邊的酪梨三明治就很好吃！<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzDaEX0Ukzl6D0A5C0zrKWQwaC0Ve2Ife5mr94vfC56Gr4bINJxOULRb5vtdBErH9_hiTOc1CHxnnEDLGSgr_oApdKiW0jMkH2mhq8IQxrrGEA0FNIrxABfZVXeD8qYYlHCJmkDFNJm_kPl_-PZN717r14eVxxQWP5Y6VAIfgmnHfobSS1JondtK3udL_9Hm1fOqd7kxiy4uKO5BGh3Zn9abeGgu7kgIoysvxqQZg8oRzyRwWjKiqJ7Vuk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2582557,-8.5053108,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kusi</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxOPDPk_7aGdRsdSElET0ngKnTSkmBPII_DlfBin8RhhaqLcbc2EDzIgxwRr-syHGbievoLwJAEChfQ6Ox6MqJrAXlagokN-Crve9bV6l-_l9Q-7NE5ZMXB5XPbq4kmwfN-cj6LSy7uo816d1i-NL8VjZy_VNbGi0NAO8-7y8A5ufHQqhcl7buo0d45mBLCiHHWMJiBtM8VyTYsuY_7Y82hveyx-6z_GYu30GvdfH08VamxlbTSC132yaU?authuser=0&fife=s16383" height="200" width="auto" /><br><br>我非常喜歡這家！屬於創意料理，味道很好！<br>我喜歡到剛好有台灣朋友來峇里島，我也帶他們來這家吃<br>感覺在其他地方吃不到這樣的味道，很特別，是我很想再吃的味道<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxOPDPk_7aGdRsdSElET0ngKnTSkmBPII_DlfBin8RhhaqLcbc2EDzIgxwRr-syHGbievoLwJAEChfQ6Ox6MqJrAXlagokN-Crve9bV6l-_l9Q-7NE5ZMXB5XPbq4kmwfN-cj6LSy7uo816d1i-NL8VjZy_VNbGi0NAO8-7y8A5ufHQqhcl7buo0d45mBLCiHHWMJiBtM8VyTYsuY_7Y82hveyx-6z_GYu30GvdfH08VamxlbTSC132yaU?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.263962,-8.5118272,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Monsieur Spoon Ubud</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx12fmWIiCRN0WQesq0udkOEVrZF_T5Mo2ekU2tSMV-F9idUTiblM41anhRV8EAnnMFOlbbhGy5lVB3saqnhl9mCseE3w6xzmXzWZo4bslybq-pi5FSCF1nF04hOnOsR7LTvIlTz1XFB8waZQTmtTHPi_zcO2Voy8c3iY_DOA9FPpO1OFTGAJxMoqcRApR54EfD2T-XJ64rvj-RuWujU83et3qScuy-G1kFQ2vM4gqm5ipIcOhNNsYZ4JE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>可頌很有名！在Yoga Barn跟Pison附近，我吃過一次，印象不錯<br>來喝個咖啡配可頌很讚<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gx12fmWIiCRN0WQesq0udkOEVrZF_T5Mo2ekU2tSMV-F9idUTiblM41anhRV8EAnnMFOlbbhGy5lVB3saqnhl9mCseE3w6xzmXzWZo4bslybq-pi5FSCF1nF04hOnOsR7LTvIlTz1XFB8waZQTmtTHPi_zcO2Voy8c3iY_DOA9FPpO1OFTGAJxMoqcRApR54EfD2T-XJ64rvj-RuWujU83et3qScuy-G1kFQ2vM4gqm5ipIcOhNNsYZ4JE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.263771,-8.5172935,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Lair</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzSPhruVVLogy1SW-1R60jd0B_-OKQ3z4ab1lGnqwpd-p3Iz75fT12xWMqWKxrAl0FAW17mJubkpnZXDgh4tIiVkd2Dxq5jK746gS64sokn-VC8GeOjgFxemXBCQZNswW5vNK7yMappD_sNgqd0pcNWbOlRLt-6unPoAQ9BJvFsIHb0JJiWlJOjdRHSnb3wbLiU_CtpUrzyDQpILurwBG282ViPlVllfADS2z3jzlXOSVWV8VK5skI4_ck?authuser=0&fife=s16383" height="200" width="auto" /><br><br>酒吧，要先走下一個樓梯（有點地窖感），掀開布帘，神秘隱密的空間<br>然後是半開放式的空間，靠窗的位子是直接面對一片森林<br>酒單是像撲克牌一樣，一張一張的，很可愛！<br>調酒好喝、裝潢很讚、氣氛很好、現場有DJ放歌<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzSPhruVVLogy1SW-1R60jd0B_-OKQ3z4ab1lGnqwpd-p3Iz75fT12xWMqWKxrAl0FAW17mJubkpnZXDgh4tIiVkd2Dxq5jK746gS64sokn-VC8GeOjgFxemXBCQZNswW5vNK7yMappD_sNgqd0pcNWbOlRLt-6unPoAQ9BJvFsIHb0JJiWlJOjdRHSnb3wbLiU_CtpUrzyDQpILurwBG282ViPlVllfADS2z3jzlXOSVWV8VK5skI4_ck?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2541945,-8.5049595,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KAWI UBUD</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz4Wdfd-SG_ibhlDwIGAIzO7ubi-wD525kyzlCSv8SEThbICvpi7eQFL-SQbpquwRRQlS3208-pUpuvB36UyrF27UFzoU6pr5gYvqaHKO7hsNb_qGaY2Rw1QhegQTEDHsy8AOe5_nJJrKIQKeltzYSSQpEkQ7OwqwSn3Extfm9YvhegmL7qB2i773J99PZzcd4ZgjcT3hZtCkvDpLmSFYgmlAEGn34aRUUmRcNQhD4J4CLNzNKmESQlWnQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>酒吧，店的位子有一點偏遠，門口很暗，要找一下<br>內部裝潢是日系簡約感，內部很暗，，座位很少，調酒總類不多<br>但！黃色杯子這杯是我心目中第一名好喝！！（以我這趟峇里島所有喝到的調酒來說）下面熱巧克力酒＋上面冰奶泡，很綿密，鹹鹹甜甜的，喝下去很驚艷！<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gz4Wdfd-SG_ibhlDwIGAIzO7ubi-wD525kyzlCSv8SEThbICvpi7eQFL-SQbpquwRRQlS3208-pUpuvB36UyrF27UFzoU6pr5gYvqaHKO7hsNb_qGaY2Rw1QhegQTEDHsy8AOe5_nJJrKIQKeltzYSSQpEkQ7OwqwSn3Extfm9YvhegmL7qB2i773J99PZzcd4ZgjcT3hZtCkvDpLmSFYgmlAEGn34aRUUmRcNQhD4J4CLNzNKmESQlWnQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2519116,-8.4865315,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Night Rooster</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwmSduQO2q0tL41Mzb7Pep2IqUTKg_7iZCmDm3nlo6maubaGu2sVtRtvPUthlKlA1IXlDUOhGkRiRjcNXxNFrzHiWOrETmaTW86_lBWklKkAEwP6A9l_lZvggEcnOAtEK5nZZRrKfRxyKd1dO8wrcUQd8ZG0QGCbxFHNFhI_c1n6CQglK3o-g7XNY6yv70sHskRTI782csT9eHZwqUxINYyj_rtjmcfVow7uIyc7z1UoAjnnxp4IjuqZlI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>酒吧，被裡面的裝潢經驗到，很漂亮時髦，酒單設計得超可愛<br>一坐下來就會有一大碗炸薯片，調酒都是跟峇里島元素結合<br>這家是所有酒吧中單價最高的，我喝了兩杯調酒，結帳時台幣快八百元<br>裝潢精緻、調酒總類豐富、氣氛很棒<br><br>三家酒吧中，這家是最接近烏布皇宮的，走路到，很近<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwmSduQO2q0tL41Mzb7Pep2IqUTKg_7iZCmDm3nlo6maubaGu2sVtRtvPUthlKlA1IXlDUOhGkRiRjcNXxNFrzHiWOrETmaTW86_lBWklKkAEwP6A9l_lZvggEcnOAtEK5nZZRrKfRxyKd1dO8wrcUQd8ZG0QGCbxFHNFhI_c1n6CQglK3o-g7XNY6yv70sHskRTI782csT9eHZwqUxINYyj_rtjmcfVow7uIyc7z1UoAjnnxp4IjuqZlI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.264349,-8.5085467,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lynked Restaurant</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwRP2B1gYA0WZAl5xADu1jFo9lwIoiTcsQcHt0rdHybspbf5ehPIkc__9bKGJMoQmxWSz1J-ZVPREqlMicLiSHFuEFDcl6M4uG37iZHLR9mi0j0o_wf9Jm4QKFaFZz12ngCULEw2aIY20J5g7vUoGPvs1fqGODQL0j6u0GjgXFlTLbiFlb8rXrn9ZKC3Ekr-NXJMdGg0imJQ0ydhQw8YVRASSziHkupXvK7ludLrkOlUGFQlxoTse2SKr4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>酒吧，原本要去Simply Social，因為客滿了就被店員推薦到二樓<br>挖掘到了一家好店啊，裝潢很漂亮！<br>店分成兩邊，一邊是用正餐，一邊是喝調酒，我這次只有來喝一杯調酒＋<br>點了一個檸檬慕斯，很好吃！<br>看評論寫正餐也非常好吃，還有人說很怕他生意不好倒了吃不到了<br>可能單價有點高，都是外國人來吃，下次很想試試看正餐！有來的先來吃看看～<br><br>Nikki提供：https://vocus.cc/article/64785ee1fd8978000187e1e6]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwRP2B1gYA0WZAl5xADu1jFo9lwIoiTcsQcHt0rdHybspbf5ehPIkc__9bKGJMoQmxWSz1J-ZVPREqlMicLiSHFuEFDcl6M4uG37iZHLR9mi0j0o_wf9Jm4QKFaFZz12ngCULEw2aIY20J5g7vUoGPvs1fqGODQL0j6u0GjgXFlTLbiFlb8rXrn9ZKC3Ekr-NXJMdGg0imJQ0ydhQw8YVRASSziHkupXvK7ludLrkOlUGFQlxoTse2SKr4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2640565,-8.507724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Jungle Club Ubud - Adult Only Day Club</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyTNItA-6wMIA6AjgtvEU8tHdBozCofXnX7LdJdWF9LxW02Dhh-Fb_3-FwoxA5_VkP77OULHEOTpyIcJgcvew_jk47ZwE4Yjrx5LBFSMb9tk6C1g7HT4yBNKi1KiVsgb8rTdfkcW_ci3rECQ0_sbR_zmh8zNkEgUJYXFytRaACUj2RgQrZzpfbWw6sH12_XA7ydQMF9_HbxfKdN8ITKaK64JBdFfiB4dIkTENaIZBBNuHqSTDRMcQw8qBM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyTNItA-6wMIA6AjgtvEU8tHdBozCofXnX7LdJdWF9LxW02Dhh-Fb_3-FwoxA5_VkP77OULHEOTpyIcJgcvew_jk47ZwE4Yjrx5LBFSMb9tk6C1g7HT4yBNKi1KiVsgb8rTdfkcW_ci3rECQ0_sbR_zmh8zNkEgUJYXFytRaACUj2RgQrZzpfbWw6sH12_XA7ydQMF9_HbxfKdN8ITKaK64JBdFfiB4dIkTENaIZBBNuHqSTDRMcQw8qBM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2688169,-8.5921987,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Kenran Resort Ubud By Soscomma</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyqojLRR3lYmFE9uGsbAsNNgdFvfvKW6u1rfOZLjLKK6cnEDFuDVoKJoq_xiYuLN4DgLGGQQrePha6Ww8M7BPgWu94VgNkXVQpK9_kGUb9Zi8FXB_lP9UFtJIB7SUghFntx2DSDEoE00_GYnVdwdv4S3E0vLBOwHp7POqToRCx8lWZUqsR9xe3NkgL5x5xP2BN0NqXl5fEAksxBHfVtvfjYIH-FqDw-ftzgFUPbzhH9_0KFEP5rQazGgm8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyqojLRR3lYmFE9uGsbAsNNgdFvfvKW6u1rfOZLjLKK6cnEDFuDVoKJoq_xiYuLN4DgLGGQQrePha6Ww8M7BPgWu94VgNkXVQpK9_kGUb9Zi8FXB_lP9UFtJIB7SUghFntx2DSDEoE00_GYnVdwdv4S3E0vLBOwHp7POqToRCx8lWZUqsR9xe3NkgL5x5xP2BN0NqXl5fEAksxBHfVtvfjYIH-FqDw-ftzgFUPbzhH9_0KFEP5rQazGgm8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2859994,-8.4736571,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Birdhill Restaurant</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyfuraQYFGodmYbgcVs1z0ma1Lcv1LmdjiSWDNuAhTfqkeIEKT1-TByVmxGAkvUvC1_KxPKdA-4Ute5LXeTJJP617tYyju5HjxpW0E0cAQ-v9HLUsdRPPUpTAOjhkWfLNyXtiugRCeQ0b33CL9xixT5_yBRyrGmDEA2MjBtQmsf-yqsSIatzUTSm6BTzrfSE9KpfZalehoGNYvnID6-T8HAwK5MUFC6gVr6Ig5OczA6nbsvumvovayJmfw?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyfuraQYFGodmYbgcVs1z0ma1Lcv1LmdjiSWDNuAhTfqkeIEKT1-TByVmxGAkvUvC1_KxPKdA-4Ute5LXeTJJP617tYyju5HjxpW0E0cAQ-v9HLUsdRPPUpTAOjhkWfLNyXtiugRCeQ0b33CL9xixT5_yBRyrGmDEA2MjBtQmsf-yqsSIatzUTSm6BTzrfSE9KpfZalehoGNYvnID6-T8HAwK5MUFC6gVr6Ig5OczA6nbsvumvovayJmfw?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2575218,-8.4930772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Wedja</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwc2QOKAbzV95qz7KK17el6OjlxE88ViW4pdUME0R_WZ4rtWxBERi0vDxVz0vIzKYN0xQj9Lo72yvp0jOAZRHF35Sb-8J0yLG_aZM21RpI1OpA_4ow8BB7vQw6c_vBAbMbnPgyrX6bx1xjz7AFa57DyaNoZS1GDxFhV_Alp2s0J8zP6wlHTVInSkWkAxjpO1W5AMTQlCaF4FJ-vuY07jjFIlQdCXGW5wbk3vUY32Tonn9pNcwlKSoFPV_U?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwc2QOKAbzV95qz7KK17el6OjlxE88ViW4pdUME0R_WZ4rtWxBERi0vDxVz0vIzKYN0xQj9Lo72yvp0jOAZRHF35Sb-8J0yLG_aZM21RpI1OpA_4ow8BB7vQw6c_vBAbMbnPgyrX6bx1xjz7AFa57DyaNoZS1GDxFhV_Alp2s0J8zP6wlHTVInSkWkAxjpO1W5AMTQlCaF4FJ-vuY07jjFIlQdCXGW5wbk3vUY32Tonn9pNcwlKSoFPV_U?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2691298,-8.5417791,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sans Indian Cuisine Ubud by Wonderspace</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzJbsArAkYgzG4cHVmNU61aHD2Rgye8mg_9Pj2o8TYrnPKhgM0XtXFPguZmXSQHXAMNLuasRMS6nX4g0G89XhUZwEO7QH8NluhdMNuJXPTE8GP_rbU4l4-SBs6DqzstZLnpRuo9TKnyMG9M3hwMd7gbWenciu4BIZJvM6piBD0bYIVCyaw7N-7b9N0LcihwQrvQ7EiLGceJFoHeFC4uVi5DV-noEi2Y24Vpa27BEQToIOAbyj6r-26TMXs?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GzJbsArAkYgzG4cHVmNU61aHD2Rgye8mg_9Pj2o8TYrnPKhgM0XtXFPguZmXSQHXAMNLuasRMS6nX4g0G89XhUZwEO7QH8NluhdMNuJXPTE8GP_rbU4l4-SBs6DqzstZLnpRuo9TKnyMG9M3hwMd7gbWenciu4BIZJvM6piBD0bYIVCyaw7N-7b9N0LcihwQrvQ7EiLGceJFoHeFC4uVi5DV-noEi2Y24Vpa27BEQToIOAbyj6r-26TMXs?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2853052,-8.4579678,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Botanist Restaurant Ubud</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxQIfKw6qf3Fkkx_PRzSND1zerUIkOq9a8UigIBkt2Ab2wlpMakxbiDVpzWJzBeyiIXMfWz-ii3x66qbaNHwENJfc73dWmvO8i4Ie5ZlT2LdT9w1FZGP7vnrHkgnyxb7LFOhATXTZMRqozYIj5MFbSjWl4d1VZCGVAcrD96jS0nsAOC_YfURbBeJbPADTpb0a_pfHg4pTbCcaBPuBx88hecCtyxZV-M-wLF7jS-pivVy6ECrh_pNAmqHPg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxQIfKw6qf3Fkkx_PRzSND1zerUIkOq9a8UigIBkt2Ab2wlpMakxbiDVpzWJzBeyiIXMfWz-ii3x66qbaNHwENJfc73dWmvO8i4Ie5ZlT2LdT9w1FZGP7vnrHkgnyxb7LFOhATXTZMRqozYIj5MFbSjWl4d1VZCGVAcrD96jS0nsAOC_YfURbBeJbPADTpb0a_pfHg4pTbCcaBPuBx88hecCtyxZV-M-wLF7jS-pivVy6ECrh_pNAmqHPg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2629199,-8.4777558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Terracotta Restaurant Ubud</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzkf49GxjJUgVK2PAKJ6tMuwXMixSkX_Ulp_i4HrE9LOcAdZqfNj39m1JgbuY-btj6qxbB2iygKUm2wTLve8FbtVmPeR9E-d4npfiFfY-z2SLmGunHhWwjhiOxI7lIJ7huJiePvianNTbbKNQpMnbDHdynjllgyXtLRMr5J8nzRVHNUNH-O9pf31u9KRpsGLVR6AW8v6ikj2NFZJgFdNdt-MRPPf4Whc9cEoJ2Eb-Qsug3BJqciVDgtk4A?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzkf49GxjJUgVK2PAKJ6tMuwXMixSkX_Ulp_i4HrE9LOcAdZqfNj39m1JgbuY-btj6qxbB2iygKUm2wTLve8FbtVmPeR9E-d4npfiFfY-z2SLmGunHhWwjhiOxI7lIJ7huJiePvianNTbbKNQpMnbDHdynjllgyXtLRMr5J8nzRVHNUNH-O9pf31u9KRpsGLVR6AW8v6ikj2NFZJgFdNdt-MRPPf4Whc9cEoJ2Eb-Qsug3BJqciVDgtk4A?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2488938,-8.4860663,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Puhu Restaurant & Lounge]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwIvk2hTiBC7UkwYQAuHcCy6wi0qiCRrMy3-aDNFfGduf8pIYIWqcN1JXwkWhrn3l2Z1CTdHr0AlwuwoHYq3a_mh2Trj18jvsxOdj-8YAXw5BQojwUBROI3cU-2XIG9jIr016LBYONmx7GSqUPe5XxwhwCanJhmQ_e6WvemCOIj_CqKrSnWAf_5gOotDcBQynq2UrbT1Q5R9TvP_F3tSuTuf4YWTZKT3OqMrJndrQ07oo0GMdIQM5WEUKM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwIvk2hTiBC7UkwYQAuHcCy6wi0qiCRrMy3-aDNFfGduf8pIYIWqcN1JXwkWhrn3l2Z1CTdHr0AlwuwoHYq3a_mh2Trj18jvsxOdj-8YAXw5BQojwUBROI3cU-2XIG9jIr016LBYONmx7GSqUPe5XxwhwCanJhmQ_e6WvemCOIj_CqKrSnWAf_5gOotDcBQynq2UrbT1Q5R9TvP_F3tSuTuf4YWTZKT3OqMrJndrQ07oo0GMdIQM5WEUKM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2747092,-8.383936,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cretya Sunset</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwh4tBZ1PYh-R6umO_e-3rQ0dwY7dr8MZLc1hul7Ht133f-0H8eMv6a9loFr3pfdip9xmnez_Go4tDQpTKuoexyV5CCSnCjJ1AlK2LvohAPAy97YsVem98Np3ZSMyRLIczGEEqfwuGcW1Uo1EpA34LlOt_UTDk3anzsb-pXdKNPtrxvRC6YVBvayLFHJ3fVfaUj_33lr4zcRrbSVzvHNXtOuk6r_UewqWXUcdqstm0Ph8GXfXJjgqV3xzo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gwh4tBZ1PYh-R6umO_e-3rQ0dwY7dr8MZLc1hul7Ht133f-0H8eMv6a9loFr3pfdip9xmnez_Go4tDQpTKuoexyV5CCSnCjJ1AlK2LvohAPAy97YsVem98Np3ZSMyRLIczGEEqfwuGcW1Uo1EpA34LlOt_UTDk3anzsb-pXdKNPtrxvRC6YVBvayLFHJ3fVfaUj_33lr4zcRrbSVzvHNXtOuk6r_UewqWXUcdqstm0Ph8GXfXJjgqV3xzo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2691663,-8.4304538,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Kayana Pork Ribs</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyBvDKxWVeBpekJ4SLebc03d-fpQ3jeQWVlgIr-mkU-AH_ZiVdLuR1hDQz5FZWEYtJHZfmdIcv05CS0ELQiZ8O6DmPlSkhM2AEQS6y-M5zTSNcAcJT2UHl3t8NUFnC1rAYPnXVfklGFi8J_vujZ8JP829VWRtS4-WocamQAuvy16fAh_IsUds6zN5kYMowLgPARlGCY_PNwfqv-sRyG6GyQs1j-Zh3CLOjbdVtQmnXBQBFO9AOBup-gHtE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Chien Chi Huang 提供:<br>這樣台幣大概270<br>豬肋排超好吃後悔只點了Medium<br>建議直上Large😆]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyBvDKxWVeBpekJ4SLebc03d-fpQ3jeQWVlgIr-mkU-AH_ZiVdLuR1hDQz5FZWEYtJHZfmdIcv05CS0ELQiZ8O6DmPlSkhM2AEQS6y-M5zTSNcAcJT2UHl3t8NUFnC1rAYPnXVfklGFi8J_vujZ8JP829VWRtS4-WocamQAuvy16fAh_IsUds6zN5kYMowLgPARlGCY_PNwfqv-sRyG6GyQs1j-Zh3CLOjbdVtQmnXBQBFO9AOBup-gHtE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2468094,-8.4808295,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sun Sun Warung</name>
+        <description><![CDATA[價格實惠又好吃的印尼菜餐廳<br><br>隱身在烏布的小巷弄內<br>我們午餐這天幸好沒排隊, 進入後就有位子坐了<br>點了酥炸鴨, 烤鴨, 混和飯NASI CAMPUR <br>沙嗲, 春捲, 及甜點椰絲捲<br>家人們覺得混和飯比較不合胃口<br>烤鴨跟炸鴨都好吃, 超酥脆的春捲及甜點椰絲捲必點<br>他們也有賣吃沙嗲沾的花生醬跟辣椒叄巴醬（李秋雄提供）]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2669234,-8.5091172,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Bird's Nest Thai Kitchen]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxLr12gT_DshWrslYsrV0wUqy5zJq-Tb5Pk0E9OiirOeV3ZwV8HfefOMHJWtiZ_IaA9pPXViDHtERFC2WZRv9D4LtxIDo4fnwrqjcmONCChZRgcxTGofdXNM8YEwUKJ-kx1ew-iaCnyZCGpB6GP8_JxwkOdXM1xiR3XrG3LSeMPaya46AelG_0xPFAZNy48tFpowAoPzic2-kxsJzJfklzKuxuLG_Fyms_a_p654Q5crPwK02kkq3idx1E?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Chien Chi Huang提供:<br>泰式料理 Bird’s Nest Thai Kitchen好吃，Canggu也有一家。<br>照片這樣約台幣600，炒飯份量超大，冬蔭功跟在泰國吃到的一模一樣！超好吃！<br>脆皮豬有點太硬了，個人不愛，炒飯不會太乾卻又粒粒分明，有鍋氣且很香，不膩！超推]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GxLr12gT_DshWrslYsrV0wUqy5zJq-Tb5Pk0E9OiirOeV3ZwV8HfefOMHJWtiZ_IaA9pPXViDHtERFC2WZRv9D4LtxIDo4fnwrqjcmONCChZRgcxTGofdXNM8YEwUKJ-kx1ew-iaCnyZCGpB6GP8_JxwkOdXM1xiR3XrG3LSeMPaya46AelG_0xPFAZNy48tFpowAoPzic2-kxsJzJfklzKuxuLG_Fyms_a_p654Q5crPwK02kkq3idx1E?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2449681,-8.4980161,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[TUJU Tropic Club & Dining Ubud]]></name>
+        <description><![CDATA[靠近烏布市中心的高評價叢林俱樂部。<br><br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2652663,-8.4979938,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sari Timbul by Kubu Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyIBsdakvJttYhPVkgeQY0FbxcuJlUXcdB01QUo4t9ORdMbiGNPTmvMn2yPgSsAkO6P_T28OJjnQrdIq6cF-nAhcxryvsQpQhJVYPR5P94ERiZ3HHUROnd1pFfxOfm99uip_6i12L12_PF2Qww61dfMyhH34OReLWjNqz_RoA1pesMCfSBEZ0bjhdw2wGp8OoP7ktjdsMiS75vgRX-AaEADxQk52Ngo1XoEPj5B7CZ94sNvEpDnepH7KV4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>童話仙境餐廳. <br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyIBsdakvJttYhPVkgeQY0FbxcuJlUXcdB01QUo4t9ORdMbiGNPTmvMn2yPgSsAkO6P_T28OJjnQrdIq6cF-nAhcxryvsQpQhJVYPR5P94ERiZ3HHUROnd1pFfxOfm99uip_6i12L12_PF2Qww61dfMyhH34OReLWjNqz_RoA1pesMCfSBEZ0bjhdw2wGp8OoP7ktjdsMiS75vgRX-AaEADxQk52Ngo1XoEPj5B7CZ94sNvEpDnepH7KV4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2931948,-8.4115162,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kamandalu Ubud 雙人船上用餐</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwiC5sRyY_cdZJGcgyJYHXHQ7InCryM8Pxnm8_GuSRj_fi1QvgO6mV-uaCDLXcF5Du1_8StJcSIDpXQV6j2S2Jst-ZZItssLAc46hXiSMlyr6pmSohld-0jGlFXW--fjca700SAhwUxzbxsd6cazBDhXURvjiyuALfTn2rccY1EU9u2tbsgc5qQE_DY4qIfppHba8TJ_4vLvhDhevFtZchWDAcDssrv-hr4ODUtmYiY4xbu4Z_38TIfUik?authuser=0&fife=s16383" height="200" width="auto" /><br><br>在卡曼達魯度假村的靜謐錦鯉漂流河中央，與摯愛享受獨一無二的船上用餐體驗<br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GwiC5sRyY_cdZJGcgyJYHXHQ7InCryM8Pxnm8_GuSRj_fi1QvgO6mV-uaCDLXcF5Du1_8StJcSIDpXQV6j2S2Jst-ZZItssLAc46hXiSMlyr6pmSohld-0jGlFXW--fjca700SAhwUxzbxsd6cazBDhXURvjiyuALfTn2rccY1EU9u2tbsgc5qQE_DY4qIfppHba8TJ_4vLvhDhevFtZchWDAcDssrv-hr4ODUtmYiY4xbu4Z_38TIfUik?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2758432,-8.49558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[D'tukad coffee club bali]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyCAfRWzJgJiKnySYOR3J48cunPF3-XQ3PGNYkdooGdwAYdrd5j9jVNKqOjoydUxoGFsSG4FALHTJBuO1y9DRVTLrAyMWfovLROqRgPn7WD012rEvjZ6uUY7WXojdgDLBDXiUV-n0xYgDjj_CqP6vmytyG69vcpCGF3qocQW0E9iMTqS6j3TsCdAuofyA-5Vuk9kecre3NG93ayw-IiYlxqKm64drz3hhwXS-m3R885mQ5tZKibZy547bs?authuser=0&fife=s16383" height="200" width="auto" /><br><br>欣賞梯田美景的好地方<br>請參考「烏布攻略」：https://gobaligo.id/go/ubud-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyCAfRWzJgJiKnySYOR3J48cunPF3-XQ3PGNYkdooGdwAYdrd5j9jVNKqOjoydUxoGFsSG4FALHTJBuO1y9DRVTLrAyMWfovLROqRgPn7WD012rEvjZ6uUY7WXojdgDLBDXiUV-n0xYgDjj_CqP6vmytyG69vcpCGF3qocQW0E9iMTqS6j3TsCdAuofyA-5Vuk9kecre3NG93ayw-IiYlxqKm64drz3hhwXS-m3R885mQ5tZKibZy547bs?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2786188,-8.4318601,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grand Puncak Sari Restaurant</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy1nqriwrOp31-4yQcKsjIcs_OlPhZxJfRm-yHR3pYuhXrvwrZEbI3Dq7-hSFTde5Ia48ouzQSBjlvY0PHuz1mB_Kl9oUAdwIbaz15mR-3_FKo7DLN9pl8edfqezfAJ1U2Q9IKtnHO23vxTw7MCYftiWAoFegNib4NCK_MMpe0GnjPMJTtkZHFcorUxTHsnBD-7ULIrRM12q-IaYsKQV-MAP_DPI8G-lw_MtpBvGjJ6oL1lo1bL6IfGYRo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>位於金塔瑪尼的火山景觀餐廳<br>原本只想找這個地方看看火山<br>對食物並不抱任何期待, 結果竟出乎意料的還不錯<br>有Buffet自助式吃到飽與單點的用餐方式, 我們是選擇Buffet <br>吃到飽一個人的用餐費用是300台幣<br>食物就是一些在地的料理, 炒麵.炒飯.沙嗲和一些炸物及湯品<br>都不錯吃真的令我訝異, 以300塊的價值我覺得很不錯了（李秋雄、何志慶提供）<br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzimu7sNqVXEHYqB73ARJsaHSKB5eROsHc5yiytIg9DPoiQtViAYy27YPuZCxe6jyl6X-uZufBykC3sREG3Og-IXOCgibtLXCLDnbouU9roIFzNc0jnXzjy6-cJA1yM1B9muSQkldLMhTrk-vnIJ225P0HKI6vHGCHftykfjBZ_kgt_u6WKS1Fpay24ZsG1iC1uTUDyydt5j_Pa1f9OyvvwUSwgrOxKxs3OIeMsd4B0r4TQLoZsj5ghnj0?authuser=0&fife=s16383" height="200" width="auto" /><br><br><img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyPgdAa_xgUrwiW4EbQFKP8wzpmCPmOS4RoKhMqkqkD-3tOeKzZqAihu5xbfpKxK6TkEyYjMNfO-xy0d7r1FXDVSH68Oz_XchpRW3f_QLy8KMOkYLdDdFTZSvgstwrMtOaHy1WmzOB7YSXUpK6IPTwSMUoUTLqolVpSSBvIIIgMZsEeMZFN4t5X1yT32cet8axTzhpPpYcsWax8_PIuLg5ZR4N_fUYWrX9Y2jP-zW89DBX7aZRPglaFIcM?authuser=0&fife=s16383" height="200" width="auto" />]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gy1nqriwrOp31-4yQcKsjIcs_OlPhZxJfRm-yHR3pYuhXrvwrZEbI3Dq7-hSFTde5Ia48ouzQSBjlvY0PHuz1mB_Kl9oUAdwIbaz15mR-3_FKo7DLN9pl8edfqezfAJ1U2Q9IKtnHO23vxTw7MCYftiWAoFegNib4NCK_MMpe0GnjPMJTtkZHFcorUxTHsnBD-7ULIrRM12q-IaYsKQV-MAP_DPI8G-lw_MtpBvGjJ6oL1lo1bL6IfGYRo?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gzimu7sNqVXEHYqB73ARJsaHSKB5eROsHc5yiytIg9DPoiQtViAYy27YPuZCxe6jyl6X-uZufBykC3sREG3Og-IXOCgibtLXCLDnbouU9roIFzNc0jnXzjy6-cJA1yM1B9muSQkldLMhTrk-vnIJ225P0HKI6vHGCHftykfjBZ_kgt_u6WKS1Fpay24ZsG1iC1uTUDyydt5j_Pa1f9OyvvwUSwgrOxKxs3OIeMsd4B0r4TQLoZsj5ghnj0?authuser=0&fife=s16383 https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyPgdAa_xgUrwiW4EbQFKP8wzpmCPmOS4RoKhMqkqkD-3tOeKzZqAihu5xbfpKxK6TkEyYjMNfO-xy0d7r1FXDVSH68Oz_XchpRW3f_QLy8KMOkYLdDdFTZSvgstwrMtOaHy1WmzOB7YSXUpK6IPTwSMUoUTLqolVpSSBvIIIgMZsEeMZFN4t5X1yT32cet8axTzhpPpYcsWax8_PIuLg5ZR4N_fUYWrX9Y2jP-zW89DBX7aZRPglaFIcM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.3474123,-8.2728057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shrida Ubud Restaurant</name>
+        <description>什麼都好吃，風景很美，而且附近好逛好買，不是一般遊客走的路線，很多文青小店我超喜歡那個區域（Michelle Liao提供）</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2580637,-8.5161632,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>素食餐廳 Zest</name>
+        <description>喜歡的zest餐廳每一個都好吃，全部Vegan，不吃五辛或是麩質等可以在點餐的時候說明。而且每天有不同樂團表演遇到喜歡的大家會聚在一起舞動（高雄的元元提供）</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2537348,-8.5049487,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Babi Guling Pande Egi</name>
+        <description>峇里島超有名烤豬飯，請看小傑的介紹：https://youtube.com/shorts/sVxycGvyT9w</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3251556,-8.5268818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pundi Pundi Restaurant</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw6SJJfA36Uei08HbeJWU9p1p_N883ceFAbAEYV14Q9jY6ppl1aIusjkM6vA7H5xdJbWH0Orfastc5PKThkk8oy-LwYBov83gxSIJ8qCfLZuaFt6cs0sZe3zAY-GsuNEXLJQtGdbZfJXamC_GMGaH86nPEL6s_rHCqjUfyxnXeGJ3gz9GnBXAid1Zw-pRQeLAhkhO9L62R18eFlg61wky3PjLBrz9-wnVimYUiwebjQUSr72lzYQnKZsIk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>這豬肋排大約440台幣、白飯在旁邊顯得很巨大。 個人覺得口味很好… 在烏布皇宮下方1.5公里交叉口旁（Eric Lin提供）]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gw6SJJfA36Uei08HbeJWU9p1p_N883ceFAbAEYV14Q9jY6ppl1aIusjkM6vA7H5xdJbWH0Orfastc5PKThkk8oy-LwYBov83gxSIJ8qCfLZuaFt6cs0sZe3zAY-GsuNEXLJQtGdbZfJXamC_GMGaH86nPEL6s_rHCqjUfyxnXeGJ3gz9GnBXAid1Zw-pRQeLAhkhO9L62R18eFlg61wky3PjLBrz9-wnVimYUiwebjQUSr72lzYQnKZsIk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2632208,-8.5188407,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Waroeng Bernadette, Ubud</name>
+        <description>在水明漾也有分店。都是印尼料理。挺不錯的。（Nia Angel 提供）</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2540213,-8.5062271,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Compound Warung</name>
+        <description>我連吃三天，好多人說比sun sun好，可以試試豬排跟髒鴨（Duck Wu提供）</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2642048,-8.5087039,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Saren Kauh Ubud Restaurant</name>
+        <description>烏布皇宮裡面的餐廳也很推薦，晶壁輝煌的不可思議，而且價格也很划算（陳昱瑄提供）</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2625458,-8.5065912,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Batubara Wood Fire</name>
+        <description>阿根廷烤肉，價位稍高，但體驗感很好，肉也是真的不錯，特別推薦他的薯條！人生吃過最好吃的（陳昱瑄提供）</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2633757,-8.5230065,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>L Cafe</name>
+        <description>印尼炒飯很好吃（Alice Hu提供）</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2671177,-8.4838607,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cafe Wayan</name>
+        <description>這家cafe wayan非常推！披薩跟甜點都超級好吃！也有當地餐點！距離烏布精華區走路不用十分鐘（楊金迪提供）</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2607498,-8.5128097,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nusantara by Locavore Group</name>
+        <description><![CDATA[非常好吃的道地印尼菜<br>飲料都超好喝<br>沒有Bali belly問題！<br>水可以安心喝但要付費<br>服務很好環境很好（假髮薛提供）]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2624829,-8.5098135,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kagemusha</name>
+        <description><![CDATA[日式餐廳，隱藏菜單雞翅必點（李萍萍<br>提供）]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2562795,-8.5278827,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[L'Osteria Pizza e Cucina Ubud]]></name>
+        <description><![CDATA[在峇里島想吃正宗義式料理，L’Osteria 絕對是首選！這間餐廳在烏布和長谷都非常出名（有五家分店），最吸睛的就是現場手工窯烤的石窯，烤出來的餅皮帶著迷人焦香。你們一定會愛上這裡的氛圍，非常適合朋友聚餐，氣氛溫馨又到位。<br><br>最重要的是，這裡的披薩跟義大利麵都很好吃！手工現做的麵條口感紮實，搭配濃郁醬汁，每一口都能感受到職人的用心。難怪你們一行人去都很滿意，這裡的美味確實能征服每個人的胃。（Fang Ling Chou 提供）]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.26317,-8.5181378,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Nora Ubud</name>
+        <description>我們連著吃2晚 皮薩超好吃（蔡麗娟提供）</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2661984,-8.5701117,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PASIR</name>
+        <description>位於峇里島烏布的 Pasir 擁有超棒的氛圍與服務，被譽為島上最強肉料理之一！這裡的羊肉串（Lamb Kofta）、干貝與脆皮馬鈴薯深受好評。雖然價位稍高，但優質體驗讓我們一行人去都很滿意。（Vita Chang提供）</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2608943,-8.5121822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gyukatsu Tenjin Ubud</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyr3KZC5KDS0JTeh54jh_rQBBxPqnBidsleLscZ_gpV701tJSLWvywk24HmZDkRo8nwnV0a_paARZ2HuN057LGdNJaH7CTvU74N_sUgGD-vmclX96bIw7GmHA-k2-319hl8cl5g_o4Nsu5tNk_YQyAp5HTcvy73zHwQmF3NEyz9AWPWEGcbSOlXIkb239fXfgf5aQD9Prua4jbVqWmhvFq_cuPehADysy0_zyqXqxMNy_0W3yr0zi95WLI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>（烏布店，水明漾另有分店）<br>來到峇里島度假，如果南洋料理吃膩了想換換口味，推薦這間日式炸牛排店「Gyukatsu Tenjin 天神」！🇯🇵✨<br>這次我們直接點了兩份大份的炸牛排套餐和一份大份的和牛套餐。<br>看看那個肉的鮮紅切面和酥脆外皮，配上專屬的小石板，感覺自己好像在東京炸牛排店一樣。<br>重點來了，三份大肉量套餐四個人吃下來，結帳折合台幣大概1565元，覺得還行！參考看看囉～（Gary哥不想上班 提供）]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_Gyr3KZC5KDS0JTeh54jh_rQBBxPqnBidsleLscZ_gpV701tJSLWvywk24HmZDkRo8nwnV0a_paARZ2HuN057LGdNJaH7CTvU74N_sUgGD-vmclX96bIw7GmHA-k2-319hl8cl5g_o4Nsu5tNk_YQyAp5HTcvy73zHwQmF3NEyz9AWPWEGcbSOlXIkb239fXfgf5aQD9Prua4jbVqWmhvFq_cuPehADysy0_zyqXqxMNy_0W3yr0zi95WLI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.253184,-8.4973552,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>玩秋千的地點</name>
+      <Placemark>
+        <name>Aloha Ubud Swing</name>
+        <description><![CDATA[詳細內容請參考「烏布鞦韆/租禮服攻略」：<br>https://gobaligo.id/go/8-swing-places]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2765114,-8.4639133,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Swing</name>
+        <description><![CDATA[詳細內容請參考「烏布鞦韆/租禮服攻略」：<br>https://gobaligo.id/go/8-swing-places]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2399794,-8.4906347,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>desa swing</name>
+        <description><![CDATA[詳細內容請參考「烏布鞦韆/租禮服攻略」：<br>https://gobaligo.id/go/8-swing-places]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2761114,-8.4952829,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Picheaven Bali - Swing</name>
+        <description><![CDATA[詳細內容請參考「烏布鞦韆/租禮服攻略」：<br>https://gobaligo.id/go/8-swing-places]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2402645,-8.4896278,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ubud Jungle Swing</name>
+        <description><![CDATA[詳細內容請參考「烏布鞦韆/租禮服攻略」：<br>https://gobaligo.id/go/8-swing-places]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2800636,-8.4528048,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>U Fun Field</name>
+        <description><![CDATA[詳細內容請參考「烏布鞦韆/租禮服攻略」：<br>https://gobaligo.id/go/8-swing-places]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.272723,-8.4328193,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>親子友善遊樂場、餐廳</name>
+      <Placemark>
+        <name>Alas Harum Bali</name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2806075,-8.43989,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島野生動物園</name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.345792,-8.5819641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島野生海洋公園</name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.345792,-8.5819641,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>大象公園</name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.283967,-8.391231,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Bird Park</name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2519216,-8.5995781,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[寶寶版安全泛舟 NUKUWERA & PANDAWA]]></name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2790093,-8.4754639,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>烏布叢林馬力歐賽車 Jungle Cart Office</name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.247293,-8.4858281,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>烏布星星超市 Bintang Supermarket Ubud</name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2523733,-8.4997384,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Family Hangout</name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2499777,-8.5176249,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Balifunworld</name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2790537,-8.5872525,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Omma Dayclub Bali</name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2894134,-8.5755996,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jungle Fish Bali</name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.260859,-8.4789413,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bebek Tebasari Resto</name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.256768,-8.5456612,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Titi Batu Ubud Club</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyDx6awxnYMpVCIj4iGtE8ERDU7WEu8VG1EF1vuEPqzqUjPHr3QRPnWhBfUbhGc_X4SGst3GYjNFefMXvogIrnHZT0zJEb28D6bVhJ6KTBtwLi1dVog1fYHgsmoPu-CnNXjUghKV3mlLMXuQauxamm5qWEl4JzHGDxRZI7wUm0C-GbCpmOZtYc_m6suR-83kFDjqIWPgFxg6Mun8DhdY5JcN833lapQMdolTDMlHbAMZ1Km5F8P6uXk27s?authuser=0&fife=s16383" height="200" width="auto" /><br><br>在峇里島，大部分的海灘俱樂部或叢林俱樂部雖然氣氛熱鬧，但往往缺乏 兒童友善的設施，因此對於有小朋友的家庭來說並不那麼方便。<br>而位於烏布的 Titi Batu Ubud Club，卻打破這個侷限。這裡結合了 健身運動、親子娛樂與放鬆休閒 的多功能生活會館，不僅能滿足成人的運動與養生需求，同時也提供安全、寬敞且充滿樂趣的空間給孩子。<br><br>詳細介紹&優惠券請看烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AE5a_GyDx6awxnYMpVCIj4iGtE8ERDU7WEu8VG1EF1vuEPqzqUjPHr3QRPnWhBfUbhGc_X4SGst3GYjNFefMXvogIrnHZT0zJEb28D6bVhJ6KTBtwLi1dVog1fYHgsmoPu-CnNXjUghKV3mlLMXuQauxamm5qWEl4JzHGDxRZI7wUm0C-GbCpmOZtYc_m6suR-83kFDjqIWPgFxg6Mun8DhdY5JcN833lapQMdolTDMlHbAMZ1Km5F8P6uXk27s?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2667867,-8.5365335,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Play Land</name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2541673,-8.5983402,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Pondok Pekak Library & Learning Centre]]></name>
+        <description><![CDATA[烏布家庭親子攻略： <br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.262072,-8.5101387,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Grand Lagunas</name>
+        <description>詳情請看「金塔瑪尼巴杜爾火山湖」景點介紹：https://gobaligo.id/blog/2025-10-09-68e786abfd89780001c1b9b7/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3354755,-8.2602052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>30家特色住宿/度假村</name>
+      <Placemark>
+        <name>The Kayon Jungle Resort</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2750797,-8.4230051,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Aksari Resort Ubud by iNi Vie Hospitality - Capture The Ubud's Luxury Romantic Experiences]]></name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2976044,-8.4284216,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Fivelements Retreat</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2171114,-8.5429894,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Maya Ubud Resort & Spa]]></name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2778314,-8.512816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hoshinoya Bali</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3024019,-8.4765985,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Natya Resort Ubud</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.263996,-8.46717,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adiwana Bisma</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2581282,-8.5137788,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COMO Uma Ubud</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2540541,-8.4916618,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Udaya Resorts</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2667424,-8.4863116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tanah Merah Art Resort</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2844537,-8.4862334,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kamandalu Ubud</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2758432,-8.49558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Viceroy Bali</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2764686,-8.4936114,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cahaya Indah Villas Ubud</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2793934,-8.5098614,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kastara Resort and Spa, Ubud</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2586996,-8.4874359,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Padma Resort Ubud</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2745404,-8.3834684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Chapung Sebali</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2601525,-8.4798093,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mandapa, a Ritz-Carlton Reserve</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2453955,-8.4859273,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kaamala Resort Ubud by iNi Vie Hospitality - Luxury Experience To Remember</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2576367,-8.5166684,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Blue Karma Dijiwa Ubud</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2626861,-8.4775745,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adiwana Resort Jembawan</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2668648,-8.509909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Capella Ubud</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2681117,-8.4482091,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Rijasa Agung Resort Villas</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.234283,-8.4495573,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soulshine Bali</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2654329,-8.5434071,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Komaneka at Rasa Sayang</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.260388,-8.513312,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adiwana Suweta</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2651052,-8.4890533,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Anantara Ubud Bali Resort</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2715584,-8.3918623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Plataran Ubud Hotel & Spa]]></name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2637397,-8.5210548,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Garcia Ubud</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2679856,-8.561549,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hiliwatu, Bali Ubud, a Tribute Portfolio Resort</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2759431,-8.4252831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sthala, a Tribute Portfolio Hotel, Ubud Bali</name>
+        <description><![CDATA[30家特色住宿/度假村的個別介紹<br>詳全文：https://gobaligo.id/go/ubud-stay-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2596481,-8.5724771,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alaya Suites Ubud</name>
+        <description>2026新旅館。請看專文介紹：https://gobaligo.id/blog/alaya-suites-ubud/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.263096,-8.5223314,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>家庭親子旅館/渡假村推薦</name>
+      <Placemark>
+        <name>Pramana Watu Kurung</name>
+        <description><![CDATA[家庭親子旅館/渡假村推薦：<br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2452402,-8.4711778,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Udaya Resorts</name>
+        <description><![CDATA[家庭親子旅館/渡假村推薦：<br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2667424,-8.4863116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adiwana Resort Jembawan</name>
+        <description><![CDATA[家庭親子旅館/渡假村推薦：<br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2668648,-8.509909,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Maya Ubud Resort & Spa]]></name>
+        <description><![CDATA[家庭親子旅館/渡假村推薦：<br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2778314,-8.512816,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arkamara Dijiwa Ubud</name>
+        <description><![CDATA[家庭親子旅館/渡假村推薦：<br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2528199,-8.5219558,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Korurua Dijiwa Ubud</name>
+        <description><![CDATA[家庭親子旅館/渡假村推薦：<br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2704128,-8.4844254,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Adiwana Monkey Forest</name>
+        <description><![CDATA[家庭親子旅館/渡假村推薦：<br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2608848,-8.5131516,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[The Sankara Suites & Villas by Pramana]]></name>
+        <description><![CDATA[家庭親子旅館/渡假村推薦：<br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2679268,-8.4812129,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Dwaraka The Royal Villas</name>
+        <description><![CDATA[家庭親子旅館/渡假村推薦：<br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2669397,-8.4929338,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Komaneka at Bisma</name>
+        <description><![CDATA[家庭親子旅館/渡假村推薦：<br>https://gobaligo.id/go/thing-to-do-for-kids-in-ubud]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.257297,-8.512532,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

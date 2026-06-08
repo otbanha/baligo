@@ -1,0 +1,16 @@
+---
+interface Props {
+  date: Date | string | undefined;
+}
+const { date } = Astro.props;
+const dateObj = date ? new Date(date) : null;
+---
+{dateObj && !isNaN(dateObj.getTime()) && (
+  <time datetime={dateObj.toISOString()}>
+    {dateObj.toLocaleDateString('zh-TW', {
+      year: 'numeric',
+      month: 'short',
+      day: 'numeric',
+    })}
+  </time>
+)}

@@ -1,0 +1,32 @@
+---
+title: 佩尼達島適合一日遊嗎？
+title_en: "Is Nusa Penida Worth a Day Trip from Bali?"
+title_zh_cn: "佩尼达岛适合一日游吗？"
+title_zh_hk: "佩尼達島適合一日遊咩？"
+category: itinerary
+relatedLinks:
+- slug: blog/nusa-penida-guide/
+  label: 【Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點
+- slug: blog/nusa-penida-hotels-guide/
+  label: "佩尼達島的住宿推薦: 14間從奢華到平價的 Nusa Penida 好評住宿"
+featured: false
+pubDate: 2026-04-26
+---
+
+如果你有 **7 天以上**，而且不是親子或長輩旅行，**值得去**。
+
+**佩尼達島（Nusa Penida）的賣點**：
+- Kelingking Beach（恐龍頭懸崖）是峇里島最熱門的打卡點
+- Angel's Billabong、Crystal Bay 的海水超透
+- 整體比藍夢島更壯觀，但路也更難走
+
+**要考慮的點**：
+- 從 Sanur 港出發，船程約 40 分鐘，可能會遇到風浪
+- 島上路很崎嶇，一定要包車（路況差）
+- 一日遊非常趕，而且要跟一日遊的遊客一起擠景點。建議至少安排 1 晚在島上
+
+**不建議去的情況**：
+- 帶小孩、長輩，路況對他們不友善
+- 行程只有 5–6 天，會壓縮其他行程
+
+整體結論：**想拍美照、喜歡自然景觀 → 值得去；純放鬆度假 → 可以不去**。

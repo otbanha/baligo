@@ -1,0 +1,80 @@
+---
+import { type CollectionEntry, getCollection, render } from 'astro:content';
+import BlogPost from '../../layouts/BlogPost.astro';
+import { readFileSync, readdirSync } from 'fs';
+import { join } from 'path';
+import matter from 'gray-matter';
+
+export async function getStaticPaths() {
+  const posts = await getCollection('blog');
+  const allPaths: any[] = [];
+
+  // 讀取實際檔案名，為舊檔案名生成路由
+  const blogDir = join(process.cwd(), 'src/content/blog');
+  const files = readdirSync(blogDir).filter(f => f.endsWith('.md') || f.endsWith('.mdx'));
+  const fileNameMap = new Map<string, string>(); // slug -> 檔案名（不含副檔名）
+
+  for (const file of files) {
+    try {
+      const content = readFileSync(join(blogDir, file), 'utf-8');
+      const { data } = matter(content);
+      const slug = data.slug || file.replace(/\.(md|mdx)$/, '');
+      const fileId = file.replace(/\.(md|mdx)$/, '');
+      fileNameMap.set(slug, fileId);
+    } catch (e) {}
+  }
+
+  let compatCount = 0;
+
+  for (const post of posts) {
+    const newSlug = post.data.slug || post.id;
+    // 新 slug 路由（主要）
+    allPaths.push({ params: { slug: newSlug }, props: post });
+
+    // 查找舊檔案名（可能與新 slug 不同）
+    const oldFileId = fileNameMap.get(newSlug);
+    if (oldFileId && oldFileId !== newSlug) {
+      allPaths.push({ params: { slug: oldFileId }, props: post });
+      compatCount++;
+    }
+  }
+
+  console.log(`✅ 生成了 ${allPaths.length} 個路由，其中 ${compatCount} 個舊檔名兼容路由`);
+
+  return allPaths;
+}
+type Props = CollectionEntry<'blog'>;
+
+const post = Astro.props;
+const { Content, headings } = await render(post);
+
+// 直接讀取 markdown 檔案取得 embeds
+const blogDir = join(process.cwd(), 'src/content/blog');
+const files = readdirSync(blogDir);
+const matchFile = files.find(f => {
+  const base = f.replace(/\.mdx?$/, '');
+  return base === post.id || base.replace(/[【】「」『』]/g, '') === post.id;
+});
+const mdPath = join(blogDir, matchFile || post.id + '.md');
+
+let rawEmbeds: any[] = [];
+let firstImage: string = post.data.heroImage || '';
+try {
+  const raw = readFileSync(mdPath, 'utf-8');
+  const { data, content } = matter(raw);
+  rawEmbeds = data.embeds || [];
+  if (!firstImage) {
+    const imgMatch = content.match(/!\[.*?\]\((https?:\/\/[^)]+)\)/);
+    if (imgMatch) firstImage = imgMatch[1];
+  }
+} catch (e) {}
+
+const embedMap: Record<string, {platform: string, url: string}> = {};
+rawEmbeds.forEach((e: any) => {
+  embedMap[e.position] = { platform: e.platform, url: e.url };
+});
+---
+
+<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="zh-tw" slug={post.id}>
+  <Content />
+</BlogPost>

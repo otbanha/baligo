@@ -1,0 +1,59 @@
+---
+slug: bali-soul-healing-journey
+title: 薔薔嘅峇里島靈魂之旅！巫醫落淚揭示腫瘤預兆，禁地真相震撼公開
+description: >-
+  峇里島，呢片被眾神眷顧嘅土地，總有一種講唔出嘅召喚力。今次，鏡頭入面嘅薔薔選擇放下度假式嘅輕鬆，踏上通往內在與靈魂深處嘅旅程。佢嘅影片從山中神廟展開——一場聖水淨化儀式。鏡頭跟住佢慢慢行入水池，清澈嘅泉水由頭頂沖落，每一滴水彷彿都帶住祝福。佢雙
+pubDate: '2025-05-06'
+heroImage: 'https://images.gobaligo.id/vocus/vocus_022911ef3bc1fe7c8ef4497f475d921d.jpg'
+tags:
+  - 薔薔峇里島
+  - 峇里島靈療
+  - 峇里島
+  - 天葬村
+  - 峇里島聖水
+originalUrl: 'https://vocus.cc/article/6819e672fd89780001efaa08'
+category:
+  - 美食景點活動
+  - 遊記分享
+lang: zh-hk
+_srcHash: 0836ad54a0039aa3b0bd558425851ce6
+---
+**薔薔嘅靈性冒險：深入峇里島巫醫嘅神秘世界**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_8c36c6cc8383b2e0dc0007e55495753d.jpg)
+
+峇里島，呢片被眾神眷顧嘅土地，總有一種講唔出嘅召喚力。今次，鏡頭入面嘅薔薔選擇放下度假式嘅輕鬆，踏上通往內在與靈魂深處嘅旅程。
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_e43a0159370c6691adb3926c279afea7.jpg)
+
+佢嘅影片從山中神廟展開——一場聖水淨化儀式。鏡頭跟住佢慢慢行入水池，清澈嘅泉水由頭頂沖落，每一滴水彷彿都帶住祝福。佢雙手合十，閂埋眼，俾水聲包圍自己。呢一刻，成個世界靜咗落嚟，淨返心跳同水聲，令觀眾彷彿都感受到嗰份來自自然嘅力量。
+
+跟住，佢帶住一顆開放嘅心去同巫醫會面。畫面入面嘅巫醫靜坐喺一個充滿祭品同香草嘅空間入面，身邊擺放住頌缽同神秘嘅占卜道具。佢唔多講嘢，淨係叫薔薔閂埋眼，輕聲唱誦古老嘅咒語，然後用頌缽嘅震動為佢掃描身體能量。
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_86db64818390af12b6873c8df1d347d4.jpg)
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_c4be50f6ec30e47a9969a648eae7dd23.jpg)
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_b6bceda4fe381e47ec1566cc154bb07b.jpg)
+
+影片入面，薔薔嘅神情逐漸由緊張轉為安定。巫醫以通靈嘅方式，指出佢身體內潛藏嘅不適同情緒壓力，佢嘅眼神微微泛紅，彷彿嗰啲說話觸碰咗某種內在嘅真相。成段療癒過程既古老又神秘，但係令人無法移開視線。
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_019090629928b2a9907f9df22d2503fb.jpg)
+
+隔日，薔薔去咗Trunyan村。嗰度係一個連車都去唔到嘅地方，必須乘船穿越湖泊先至可以抵達。呢度冇火葬，亦冇土葬，逝者嘅遺體被安放喺神樹下，任由自然風化，靈魂則由神明引渡。
+
+佢安靜咁行過嗰啲竹籠中嘅遺骸，冇驚慌，冇害怕，只有敬畏。鏡頭捕捉到佢凝視神樹嘅眼神，充滿沉思同尊重。喺呢片靜默嘅村落入面，死亡唔再係禁忌，而係一種同宇宙重新連結嘅開始。
+
+呢支影片唔係一場普通嘅旅遊Vlog，而係一段靈魂嘅探索與反思。薔薔用身體感受祝福，用心靈理解死亡，用鏡頭訴說嗰啲文字無法表達嘅震撼。呢趟峇里島嘅旅程，可能唔單止係旅行，更加似係一場同自己重逢嘅靈性儀式。
+
+## 薔薔峇里島靈療影片
+
+🌿✨下一次，當我哋講起峇里島嗰陣，係咪都可以放低相機同打卡點，好似薔薔咁，用心去聽、去睇、去感受嗰啲隱藏喺熱帶陽光背後嘅古老靈魂呢？
+
+> 延伸閱讀：[【峇里島靈療/靈性之旅】當《Eat Pray Love》成為我嘅真實人生](/blog/eat-pray-love-bali-spiritual-journey/)
+
+> 參加峇里島靈療：[Private Spiritual Healing Day Trip in Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1033788&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F43536-private-spiritual-healing-day-trip-bali%2F%3Fspm%3DTicketList.OrderDetails.Activity%26clickId%3D91c1b40633)
+
+---
+
+##

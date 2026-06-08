@@ -1,0 +1,68 @@
+---
+interface Props { lang?: 'zh-tw' | 'zh-cn' | 'zh-hk' | 'en'; }
+const { lang = 'zh-tw' } = Astro.props;
+
+const url = lang === 'zh-cn' ? '/zh-cn/bali-budget-calculator/'
+           : lang === 'zh-hk' ? '/zh-hk/bali-budget-calculator/'
+           : lang === 'en'    ? '/en/bali-budget-calculator/'
+           : '/bali-budget-calculator/';
+
+const t = {
+  'zh-tw': { title: '💰 峇里島預算計算器', desc: '輸入天數、人數與旅遊方式，立即估算每人峇里島旅費', btn: '算算看要花多少錢 →' },
+  'zh-hk': { title: '💰 峇里島預算計算器', desc: '輸入天數、人數與旅遊方式，即時估算每人峇里島旅費', btn: '算算看要花幾多錢 →' },
+  'zh-cn': { title: '💰 巴厘岛预算计算器', desc: '输入天数、人数与旅游方式，立即估算每人巴厘岛旅费', btn: '算算要花多少钱 →' },
+  'en':    { title: '💰 Bali Budget Calculator', desc: 'Enter trip length, group size and travel style — get an instant per-person cost estimate', btn: 'Calculate My Budget →' },
+}[lang];
+---
+
+<div class="bc-banner">
+  <div class="bc-banner-inner">
+    <div class="bc-banner-text">
+      <h2 class="bc-banner-title">{t.title}</h2>
+      <p class="bc-banner-desc">{t.desc}</p>
+    </div>
+    <a href={url} class="bc-banner-btn">{t.btn}</a>
+  </div>
+</div>
+
+<style>
+.bc-banner {
+  background: linear-gradient(135deg, #1a4a2e 0%, #2d7a4f 100%);
+  border-radius: 14px;
+  padding: 1.35rem 1.6rem;
+  margin-bottom: 1.5em;
+  box-shadow: 0 4px 20px rgba(26, 74, 46, 0.22);
+}
+.bc-banner-inner {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1.2rem;
+  flex-wrap: wrap;
+}
+.bc-banner-text { flex: 1; min-width: 180px; }
+.bc-banner-title {
+  font-size: 1.1rem;
+  font-weight: 800;
+  color: #fff;
+  margin: 0 0 0.3em;
+}
+.bc-banner-desc { font-size: 0.86rem; color: rgba(255,255,255,0.82); margin: 0; }
+.bc-banner-btn {
+  display: inline-block;
+  background: var(--gold, #C5A059);
+  color: #1a4a2e;
+  font-weight: 800;
+  font-size: 0.9rem;
+  padding: 0.65em 1.5em;
+  border-radius: 99px;
+  text-decoration: none;
+  white-space: nowrap;
+  flex-shrink: 0;
+  transition: background 0.15s, transform 0.1s;
+}
+.bc-banner-btn:hover { background: var(--gold-light, #e8d4b8); transform: translateY(-1px); }
+@media (max-width: 600px) {
+  .bc-banner-inner { flex-direction: column; align-items: flex-start; }
+}
+</style>

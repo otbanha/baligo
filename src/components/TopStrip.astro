@@ -1,0 +1,270 @@
+---
+interface Props {
+  lang?: string;
+}
+const { lang = 'zh-tw' } = Astro.props;
+
+const row1 = [
+  { id: 'live',      icon: '🎥', url: '/weather/' },
+  { id: 'trip',      icon: '🗺️', url: '/trip-planner/' },
+  { id: 'budget',    icon: '💰', url: '/bali-budget-calculator/' },
+  { id: 'map',       icon: '📍', url: '/map/', noLocalize: true },
+  { id: 'transport', icon: '🚗', url: '/blog/bali-transport-quiz/' },
+  { id: 'fare',      icon: '💲', url: '/map/gojek-fare/' },
+] as const;
+
+const row2 = [
+  { id: 'flight',  icon: '✈️', url: '/blog/ticket/' },
+  { id: 'visa',    icon: '🛂', url: '/forum/immigration/', noLocalize: true },
+  { id: 'sim',     icon: '📶', url: '/blog/bali-sim-card-esim-guide/' },
+  { id: 'driver',  icon: '🚕', url: '/blog/bali-private-car-drivers-guide/' },
+  { id: 'spa',     icon: '🧖', url: '/blog/spa/' },
+  { id: 'tickets', icon: '🎟️', url: '/tickets/' },
+] as const;
+
+const allItems = [...row1, ...row2] as const;
+type ItemId = typeof allItems[number]['id'];
+
+const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { newBadge: string; navLabel: string }> = {
+  'zh-tw': {
+    live:      { full: 'Bali Live',  mobile: 'Live' },
+    trip:      { full: '行程規劃',   mobile: '行程' },
+    budget:    { full: '預算計算',   mobile: '預算' },
+    map:       { full: '攻略地圖',   mobile: '地圖' },
+    transport: { full: '交通選擇',   mobile: '交通' },
+    fare:      { full: '車資計算',   mobile: '車資' },
+    flight:    { full: '機票',       mobile: '機票' },
+    visa:      { full: '簽證入境',   mobile: '簽證' },
+    sim:       { full: 'SIM 卡',     mobile: 'SIM'  },
+    driver:    { full: '司機推薦',   mobile: '包車' },
+    spa:       { full: 'SPA 推薦',   mobile: 'SPA'  },
+    tickets:   { full: '票券優惠',   mobile: '票券' },
+    newBadge:  'NEW',
+    navLabel:  '主要功能',
+  },
+  'zh-cn': {
+    live:      { full: 'Bali Live',  mobile: 'Live' },
+    trip:      { full: '行程规划',   mobile: '行程' },
+    budget:    { full: '预算计算',   mobile: '预算' },
+    map:       { full: '攻略地图',   mobile: '地图' },
+    transport: { full: '交通选择',   mobile: '交通' },
+    fare:      { full: '车资计算',   mobile: '车资' },
+    flight:    { full: '机票',       mobile: '机票' },
+    visa:      { full: '签证入境',   mobile: '签证' },
+    sim:       { full: 'SIM 卡',     mobile: 'SIM'  },
+    driver:    { full: '司机推荐',   mobile: '包车' },
+    spa:       { full: 'SPA 推荐',   mobile: 'SPA'  },
+    tickets:   { full: '票券优惠',   mobile: '票券' },
+    newBadge:  'NEW',
+    navLabel:  '主要功能',
+  },
+  'zh-hk': {
+    live:      { full: 'Bali Live',  mobile: 'Live' },
+    trip:      { full: '行程規劃',   mobile: '行程' },
+    budget:    { full: '預算計算',   mobile: '預算' },
+    map:       { full: '攻略地圖',   mobile: '地圖' },
+    transport: { full: '交通選擇',   mobile: '交通' },
+    fare:      { full: '車資計算',   mobile: '車資' },
+    flight:    { full: '機票',       mobile: '機票' },
+    visa:      { full: '簽證入境',   mobile: '簽證' },
+    sim:       { full: 'SIM 卡',     mobile: 'SIM'  },
+    driver:    { full: '司機推薦',   mobile: '包車' },
+    spa:       { full: 'SPA 推薦',   mobile: 'SPA'  },
+    tickets:   { full: '票券優惠',   mobile: '票券' },
+    newBadge:  'NEW',
+    navLabel:  '主要功能',
+  },
+  'en': {
+    live:      { full: 'Bali Live',    mobile: 'Live'    },
+    trip:      { full: 'Itinerary',    mobile: 'Plan'    },
+    budget:    { full: 'Budget',       mobile: 'Budget'  },
+    map:       { full: 'Map',          mobile: 'Map'     },
+    transport: { full: 'Transport',    mobile: 'Transit' },
+    fare:      { full: 'Fare Calc',    mobile: 'Fare'    },
+    flight:    { full: 'Flights',       mobile: 'Flights' },
+    visa:      { full: 'Visa & Entry', mobile: 'Visa'    },
+    sim:       { full: 'SIM Card',     mobile: 'SIM'     },
+    driver:    { full: 'Driver Rec',   mobile: 'Driver'  },
+    spa:       { full: 'SPA',          mobile: 'SPA'     },
+    tickets:   { full: 'Tickets',      mobile: 'Tickets' },
+    newBadge:  'NEW',
+    navLabel:  'Main features',
+  },
+};
+
+const normalizedLang = (lang in i18n) ? lang : 'zh-tw';
+const t = i18n[normalizedLang];
+
+function localizedUrl(url: string, l: string): string {
+  if (l === 'zh-tw' || !(l in i18n)) return url;
+  return `/${l}${url}`;
+}
+
+function isNew(publishedAt?: string): boolean {
+  if (!publishedAt) return false;
+  const published = new Date(publishedAt);
+  const now = new Date();
+  const days = (now.getTime() - published.getTime()) / (1000 * 60 * 60 * 24);
+  return days >= 0 && days <= 30;
+}
+
+const pathname = Astro.url.pathname;
+
+function isActive(url: string, l: string): boolean {
+  const localized = localizedUrl(url, l);
+  return pathname === localized || pathname.startsWith(localized);
+}
+
+function renderRow(items: readonly any[]) {
+  return items.map(item => {
+    const href = item.noLocalize ? item.url : localizedUrl(item.url, normalizedLang);
+    const active = isActive(item.url, normalizedLang);
+    const showNew = isNew(item.publishedAt);
+    return { item, href, active, showNew };
+  });
+}
+
+const row1Rendered = renderRow(row1);
+const row2Rendered = renderRow(row2);
+---
+
+<nav class="top-strip" aria-label={t.navLabel}>
+  <div class="strip-row">
+    {row1Rendered.map(({ item, href, active, showNew }) => (
+      <a
+        href={href}
+        class={`strip-item${active ? ' active' : ''}${item.id === 'live' ? ' strip-live' : ''}`}
+        aria-current={active ? 'page' : undefined}
+      >
+        {item.id === 'live'
+          ? <span class="live-rec" aria-hidden="true"><span class="live-dot"></span></span>
+          : <span aria-hidden="true">{item.icon}</span>
+        }
+        <span class="strip-label-full">{(t as any)[item.id].full}</span>
+        <span class="strip-label-mobile">{(t as any)[item.id].mobile}</span>
+        {showNew && <span class="strip-badge">{t.newBadge}</span>}
+      </a>
+    ))}
+  </div>
+  <div class="strip-row strip-row--2">
+    {row2Rendered.map(({ item, href, active, showNew }) => (
+      <a
+        href={href}
+        class={`strip-item${active ? ' active' : ''}${item.id === 'live' ? ' strip-live' : ''}`}
+        aria-current={active ? 'page' : undefined}
+      >
+        {item.id === 'live'
+          ? <span class="live-rec" aria-hidden="true"><span class="live-dot"></span></span>
+          : <span aria-hidden="true">{item.icon}</span>
+        }
+        <span class="strip-label-full">{(t as any)[item.id].full}</span>
+        <span class="strip-label-mobile">{(t as any)[item.id].mobile}</span>
+        {showNew && <span class="strip-badge">{t.newBadge}</span>}
+      </a>
+    ))}
+  </div>
+</nav>
+
+<style is:global>
+.top-strip {
+  display: flex;
+  flex-direction: column;
+  background: linear-gradient(90deg, #2C1A0E 0%, #4A2C18 50%, #2C1A0E 100%);
+  position: sticky;
+  top: 64px;
+  z-index: 40;
+}
+
+.top-strip .strip-row {
+  display: flex;
+  align-items: stretch;
+  justify-content: center;
+  overflow-x: auto;
+  scrollbar-width: none;
+  -ms-overflow-style: none;
+  min-height: 36px;
+}
+.top-strip .strip-row::-webkit-scrollbar { display: none; }
+.top-strip .strip-row--2 {
+  border-top: 1px solid rgba(255, 255, 255, 0.08);
+}
+
+.top-strip .strip-item {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+  padding: 8px 16px;
+  font-size: 13px;
+  color: rgba(255, 255, 255, 0.85);
+  text-decoration: none;
+  white-space: nowrap;
+  position: relative;
+  transition: background 0.15s, color 0.15s;
+  border-bottom: 2px solid transparent;
+  flex-shrink: 0;
+}
+
+.top-strip .strip-item:hover {
+  background: rgba(255, 255, 255, 0.08);
+  color: #fff;
+}
+
+.top-strip .strip-item.active {
+  color: #fff;
+  font-weight: 500;
+  border-bottom-color: #f5b942;
+}
+
+.top-strip .strip-badge {
+  background: #f5b942;
+  color: #5D4037;
+  font-size: 10px;
+  font-weight: 700;
+  padding: 1px 5px;
+  border-radius: 8px;
+  line-height: 1.4;
+  letter-spacing: 0.02em;
+}
+
+.top-strip .strip-label-mobile {
+  display: none;
+}
+
+@media (max-width: 640px) {
+  .top-strip .strip-row {
+    justify-content: flex-start;
+  }
+  .top-strip .strip-item {
+    padding: 8px 11px;
+    font-size: 12px;
+  }
+  .top-strip .strip-label-full {
+    display: none;
+  }
+  .top-strip .strip-label-mobile {
+    display: inline;
+  }
+}
+
+/* ── Live recording dot ── */
+.top-strip .live-rec {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 1.1em;
+  height: 1.1em;
+  flex-shrink: 0;
+}
+.top-strip .live-dot {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: #ff3b3b;
+  box-shadow: 0 0 6px 2px rgba(255, 59, 59, 0.55);
+  animation: live-blink 2s ease-in-out infinite;
+}
+@keyframes live-blink {
+  0%, 100% { opacity: 1;    box-shadow: 0 0 6px 2px rgba(255,59,59,0.55); }
+  50%       { opacity: 0.2; box-shadow: 0 0 2px 0px rgba(255,59,59,0.2); }
+}
+</style>

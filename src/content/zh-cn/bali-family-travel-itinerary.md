@@ -1,0 +1,26 @@
+---
+slug: bali-family-travel-itinerary
+title: 巴厘岛亲子游怎么安排？巴厘岛带小孩亲子旅游 六大玩乐景点 大人小孩都开心！
+description: 巴厘岛亲子游怎么安排？巴厘岛带小孩 六大玩乐景点推荐 巴厘岛带小孩不用烦恼啦！小杰精选带小孩去巴厘岛的亲子游乐景点，让巴厘岛也成为小朋友的玩乐天堂喔！
+pubDate: 2019-11-24T00:00:00.000Z
+category:
+  - 家庭親子
+  - 美食景點活動
+tags: []
+heroImage: 'https://images.gobaligo.id/vocus/vocus_88c3e85741a2a06fdb1ef87d0d3daa37.jpg'
+originalUrl: 'https://vocus.cc/article/64db6b5dfd897800013a90a5'
+lang: zh-cn
+_srcHash: dda8b8ebf47372e113d397ef6f9dbf5d
+---
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_b1e5967cae6882486fc6485a6b958227.jpg)
+
+巴厘岛亲子游怎么安排？巴厘岛带小孩 六大玩乐景点推荐 巴厘岛带小孩不用烦恼啦！小杰精选带小孩去巴厘岛的亲子游乐景点，让巴厘岛也成为小朋友的玩乐天堂喔！
+
+先看影片介绍：
+
+https://youtu.be/DEO8vvca1ig
+
+{{block:親子}}
+
+{{block:長輩}}

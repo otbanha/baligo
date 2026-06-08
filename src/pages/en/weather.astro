@@ -1,0 +1,169 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
+import Footer from '../../components/Footer.astro';
+import BaliWeather from '../../components/BaliWeather.astro';
+
+const SITE_URL = 'https://gobaligo.id';
+const lang = 'en';
+const title = 'Bali Weather Forecast 2026 | Live Temperature & 7-Day Forecast - Gobaligo';
+const description = 'Live Bali weather forecast for Kuta, Ubud and Nusa Dua. Check today\'s temperature, rain probability, wind speed, UV index and 7-day outlook — plan your trip with confidence.';
+
+const hreflangs = [
+  { hreflang: 'zh-TW',     href: `${SITE_URL}/weather/` },
+  { hreflang: 'zh-CN',     href: `${SITE_URL}/zh-cn/weather/` },
+  { hreflang: 'zh-HK',     href: `${SITE_URL}/zh-hk/weather/` },
+  { hreflang: 'en',        href: `${SITE_URL}/en/weather/` },
+  { hreflang: 'x-default', href: `${SITE_URL}/weather/` },
+];
+
+const schema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Home", "item": `${SITE_URL}/en/` },
+        { "@type": "ListItem", "position": 2, "name": "Bali Weather", "item": `${SITE_URL}/en/weather/` },
+      ]
+    },
+    {
+      "@type": "WebPage",
+      "@id": `${SITE_URL}/en/weather/`,
+      "name": title,
+      "description": description,
+      "url": `${SITE_URL}/en/weather/`,
+      "inLanguage": "en",
+    }
+  ]
+};
+---
+
+<html lang="en">
+  <head>
+    <BaseHead
+      title={title}
+      description={description}
+      noSuffix={true}
+      hreflangs={hreflangs}
+    />
+    <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+    <style>
+      .weather-page {
+        max-width: 760px;
+        margin: 0 auto;
+        padding: 1.5rem 1rem 3rem;
+      }
+      .weather-page h1 {
+        font-size: 1.5rem;
+        margin: 0 0 0.4rem;
+        color: #1a1a1a;
+      }
+      .weather-page .subtitle {
+        color: #666;
+        font-size: 0.92rem;
+        margin: 0 0 1.4rem;
+      }
+      .weather-tips {
+        margin-top: 1.6rem;
+        background: #f5f8ff;
+        border-radius: 12px;
+        padding: 1.1rem 1.3rem;
+      }
+      .weather-tips h2 {
+        font-size: 1rem;
+        margin: 0 0 0.7rem;
+        color: #1a6fad;
+      }
+      .weather-tips ul {
+        margin: 0;
+        padding-left: 1.2rem;
+        color: #444;
+        font-size: 0.88rem;
+        line-height: 1.8;
+      }
+      .weather-tips ul li { margin-bottom: 0.2rem; }
+      .related-articles { margin-top: 1.6rem; }
+      .related-banner { display: block; width: 100%; border-radius: 12px; overflow: hidden; margin-bottom: 0.8rem; text-decoration: none; }
+      .related-banner img { width: 100%; height: auto; display: block; border-radius: 12px; }
+      .article-links { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.5rem; }
+      .article-links li a { display: block; background: #f0f6ff; border: 1px solid #c8ddf8; border-left: 4px solid #1a6fad; border-radius: 8px; padding: 0.65rem 1rem; color: #1a3a6d; font-size: 0.9rem; font-weight: 600; line-height: 1.4; text-decoration: none; transition: background 0.15s, border-color 0.15s; }
+      .article-links li a:hover { background: #ddeeff; border-left-color: #c5a059; color: #0f2a55; }
+      .live-cams { margin-top: 1.6rem; }
+      .live-cams h2 { font-size: 1rem; margin: 0 0 0.8rem; color: #1a6fad; }
+      .cams-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 0.8rem; }
+      .cam-label { font-size: 0.82rem; color: #555; margin: 0 0 0.3rem; font-weight: 600; }
+      .cam-wrap { position: relative; padding-bottom: 56.25%; height: 0; border-radius: 10px; overflow: hidden; background: #000; }
+      .cam-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
+      @media (max-width: 520px) { .cams-grid { grid-template-columns: 1fr; } }
+    </style>
+  </head>
+  <body>
+    <Header lang="en" basePath="weather" />
+    <TopStrip lang={lang} />
+    <main class="weather-page">
+      <h1>Bali Weather Forecast</h1>
+      <p class="subtitle">Live temperature · humidity · rain · UV index · 7-day forecast. Data from Open-Meteo, updated every 10 minutes.</p>
+
+      <BaliWeather lang={lang} />
+
+      <div class="live-cams">
+        <h2>Bali Live Cams</h2>
+        <div class="cams-grid">
+          <div>
+            <p class="cam-label">South Bali</p>
+            <div class="cam-wrap">
+              <iframe
+                src="https://www.youtube.com/embed/L1duJDAqbJY?autoplay=1&mute=1"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                loading="lazy"
+              ></iframe>
+            </div>
+          </div>
+          <div>
+            <p class="cam-label">Ubud</p>
+            <div class="cam-wrap">
+              <iframe
+                src="https://www.youtube.com/embed/xuSvwBMhysw?autoplay=1&mute=1"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen
+                loading="lazy"
+              ></iframe>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="related-articles">
+        <a href="/en/blog/bali-rainy-season-travel-guide/" class="related-banner">
+          <img
+            src="https://images.gobaligo.id/images/2026-05/1778906557521-1-12.png"
+            alt="Bali Travel Index by Month — Jan to Dec"
+            loading="lazy"
+          />
+        </a>
+        <ul class="article-links">
+          <li><a href="/en/blog/bali-weather-tips/">Why Stop Worrying About Bali's Weather? Rain or Shine, Bali is Worth It</a></li>
+          <li><a href="/en/blog/bali-best-time-to-visit/">Best Time to Visit Bali? Dry Season vs Wet Season Explained</a></li>
+          <li><a href="/en/blog/bali-south-rainy-season/">Bali Wet Season Rainfall Analysis — South Bali Experience</a></li>
+          <li><a href="/en/blog/bali-rainy-season-travel-guide/">Bali Wet Season: Rainfall Probability, Rainy Days & Travel Index by Month</a></li>
+          <li><a href="/en/blog/2026-bali-indoor-activities/">Bali Rainy Season: 60 Backup Plans for Rainy Days in Bali</a></li>
+        </ul>
+      </div>
+
+      <div class="weather-tips">
+        <h2>Bali Weather Tips</h2>
+        <ul>
+          <li><strong>Dry Season (Apr–Oct)</strong>: 27–32°C, mostly sunny — peak travel season</li>
+          <li><strong>Wet Season (Nov–Mar)</strong>: Brief afternoon showers, cooler mornings, still very travelable</li>
+          <li><strong>Kuta / Seminyak</strong>: Coastal, strong sun and high UV — sunscreen essential</li>
+          <li><strong>Ubud Highlands</strong>: Higher elevation, 2–4°C cooler than the coast, fresh evenings</li>
+          <li><strong>Nusa Dua</strong>: South tip, calmer waves — great for snorkelling and water sports</li>
+        </ul>
+      </div>
+    </main>
+    <Footer />
+  </body>
+</html>

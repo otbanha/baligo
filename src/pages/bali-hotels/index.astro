@@ -1,0 +1,415 @@
+---
+/**
+ * accommodations-hub.astro
+ *
+ * 建議放置路徑：src/pages/bali-hotels/index.astro
+ * URL：https://gobaligo.id/bali-hotels/
+ *
+ * 功能：
+ * - 住宿推薦分類中樞頁（Hub Page）
+ * - 按區域分組所有住宿文章
+ * - 注入 ItemList Schema
+ * - 獨立 Meta Title / Description
+ *
+ * 部署步驟：
+ * 1. cp accommodations-hub.astro src/pages/bali-hotels/index.astro
+ * 2. npm run build 確認無錯誤
+ * 3. git commit & push
+ */
+
+import { getCollection } from 'astro:content';
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import Footer from '../../components/Footer.astro';
+import TopStrip from '../../components/TopStrip.astro';
+
+const allPostsRaw = await getCollection('blog');
+const now = new Date();
+
+function getPublishTime(p: any): Date {
+  const d = new Date(p.data.pubDate);
+  if (p.data.pubHour != null) {
+    d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
+  }
+  return d;
+}
+
+const allPosts = allPostsRaw
+  .filter(p => {
+    if (!p.data.pubDate || p.data.private) return false;
+    const cats = Array.isArray(p.data.category) ? p.data.category : [p.data.category];
+    return cats.includes('住宿推薦') && getPublishTime(p) <= now;
+  })
+  .map(p => ({
+    ...p,
+    slug: p.data.slug || p.id,
+    url: `/blog/${p.data.slug || p.id}/`,
+    title: p.data.title,
+    description: p.data.description || '',
+    heroImage: p.data.heroImage || '',
+  }))
+  .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf());
+
+// 區域分組（關鍵字偵測）
+const regionDefs = [
+  { zh: '水明漾', en: 'Seminyak', slug: 'seminyak', emoji: '🏖️', desc: '水明漾是峇里島最熱鬧的度假區，以精品 Villa、頂級餐廳與日落海灘聞名。' },
+  { zh: '烏魯瓦圖', en: 'Uluwatu', slug: 'uluwatu', emoji: '🌊', desc: '烏魯瓦圖懸崖海景絕美，以 Bvlgari、Alila 等頂奢懸崖度假村聞名全球。' },
+  { zh: '烏布', en: 'Ubud', slug: 'ubud', emoji: '🌿', desc: '烏布是峇里島文化藝術中心，茂密叢林與梯田景觀令人嘆為觀止。' },
+  { zh: '長谷', en: 'Canggu', slug: 'canggu', emoji: '🏄', desc: '長谷是衝浪客與數位遊牧族的天堂，充滿個性咖啡廳與精品 Villa。' },
+  { zh: '努沙杜瓦', en: 'Nusa Dua', slug: 'nusa-dua', emoji: '🏖️', desc: '努沙杜瓦集中了峇里島最多國際五星飯店，海灘清淨、設施完善。' },
+  { zh: '金巴蘭', en: 'Jimbaran', slug: 'jimbaran', emoji: '🌅', desc: '金巴蘭以夕陽海鮮晚餐與頂奢海灣度假村聞名，距機場最近。' },
+  { zh: '沙努爾', en: 'Sanur', slug: 'sanur', emoji: '⛵', desc: '沙努爾是峇里島最平靜的度假區，以寧靜海灘步道與療癒型住宿著稱。' },
+  { zh: '庫塔', en: 'Kuta', slug: 'kuta', emoji: '🛒', desc: '庫塔是距機場最近的購物天堂，適合過境旅客與背包客住宿。' },
+];
+
+type RegionGroup = {
+  zh: string;
+  en: string;
+  slug: string;
+  emoji: string;
+  desc: string;
+  articles: typeof allPosts;
+};
+
+const regionGroups: RegionGroup[] = regionDefs.map(r => ({
+  ...r,
+  articles: allPosts.filter(p =>
+    p.title.includes(r.zh) || p.description.includes(r.zh) ||
+    p.title.includes(r.en) || p.description.includes(r.en)
+  ),
+})).filter(r => r.articles.length > 0);
+
+const ungrouped = allPosts.filter(p =>
+  !regionGroups.some(r => r.articles.includes(p))
+).slice(0, 12);
+
+// ItemList Schema
+const allSchemaItems = allPosts.slice(0, 50).map((p, i) => ({
+  "@type": "ListItem",
+  "position": i + 1,
+  "url": `https://gobaligo.id${p.url}`,
+  "name": p.title,
+}));
+
+const schemaItemList = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "峇里島住宿推薦完整清單 2026 — Go Bali Go",
+  "description": "Go Bali Go 精選 90+ 間峇里島飯店、Villa 與渡假村，涵蓋水明漾、烏布、長谷、烏魯瓦圖、努沙杜瓦、金巴蘭、沙努爾、庫塔各大區域。",
+  "url": "https://gobaligo.id/bali-hotels/",
+  "numberOfItems": allPosts.length,
+  "itemListElement": allSchemaItems,
+};
+
+const schemaBreadcrumb = {
+  "@context": "https://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "Go Bali Go", "item": "https://gobaligo.id" },
+    { "@type": "ListItem", "position": 2, "name": "峇里島住宿推薦", "item": "https://gobaligo.id/bali-hotels/" },
+  ],
+};
+
+const PAGE_TITLE = `峇里島住宿推薦 2026｜${allPosts.length}+ 間飯店 Villa 精選評比 - Go Bali Go`;
+const PAGE_DESC = `Go Bali Go 精選峇里島各區頂尖住宿！涵蓋水明漾 Seminyak、烏布 Ubud、長谷 Canggu、烏魯瓦圖 Uluwatu、努沙杜瓦 Nusa Dua、金巴蘭 Jimbaran、沙努爾 Sanur 與庫塔 Kuta 等各大區域。從 Bvlgari、Apurva Kempinski、AYANA、Alila 頂奢首選，到高 CP 值私人泳池 Villa 推薦，一頁掌握所有峇里島住宿情報。`;
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead
+    title={PAGE_TITLE}
+    description={PAGE_DESC}
+    image="https://gobaligo.id/cat_pix/2.jpg"
+    type="website"
+  />
+
+  <!-- Canonical -->
+  <link rel="canonical" href="https://gobaligo.id/bali-hotels/" />
+
+  <!-- hreflang -->
+  <link rel="alternate" hreflang="zh-TW" href="https://gobaligo.id/bali-hotels/" />
+  <link rel="alternate" hreflang="zh-HK" href="https://gobaligo.id/zh-hk/bali-hotels/" />
+  <link rel="alternate" hreflang="zh-CN" href="https://gobaligo.id/zh-cn/bali-hotels/" />
+  <link rel="alternate" hreflang="en"    href="https://gobaligo.id/en/bali-hotels/" />
+  <link rel="alternate" hreflang="x-default" href="https://gobaligo.id/bali-hotels/" />
+
+  <!-- JSON-LD -->
+  <script type="application/ld+json" set:html={JSON.stringify(schemaItemList).replace(/<\//g, '<\\/')} />
+  <script type="application/ld+json" set:html={JSON.stringify(schemaBreadcrumb).replace(/<\//g, '<\\/')} />
+</head>
+
+<body>
+  <TopStrip />
+  <Header basePath="/" />
+
+  <main class="hub-main">
+
+    <!-- Hero Section -->
+    <section class="hub-hero">
+      <div class="hub-hero-inner">
+        <p class="hub-breadcrumb">
+          <a href="/">首頁</a> › 峇里島住宿推薦
+        </p>
+        <h1>峇里島住宿推薦 2026</h1>
+        <p class="hub-subtitle">
+          精選 {allPosts.length}+ 間飯店、Villa 與渡假村完整評比
+        </p>
+      </div>
+    </section>
+
+    <!-- SEO 介紹文（200-300 字，自然鋪陳關鍵字） -->
+    <section class="hub-intro">
+      <div class="hub-container">
+        <p>
+          峇里島（Bali）是全球最受歡迎的度假天堂之一，每年吸引數百萬旅客前來體驗其獨特的自然景觀、豐富文化與頂級住宿。無論你是尋找水明漾（Seminyak）熱鬧街區旁的私人泳池 Villa、烏魯瓦圖（Uluwatu）懸崖頂端的奢華 Bali Hotel，還是烏布（Ubud）叢林深處的療癒渡假村，峇里島都有能滿足你期待的選擇。
+        </p>
+        <p>
+          Go Bali Go 團隊長期旅居峇里島，親身走訪並撰寫超過 {allPosts.length} 篇住宿評鑑，涵蓋：
+        </p>
+        <ul>
+          <li>🏆 <strong>頂奢首選</strong>：Bvlgari Resort Bali、Apurva Kempinski Bali、AYANA Resort Bali、Alila Villas Uluwatu、Four Seasons Bali</li>
+          <li>💧 <strong>水明漾 Seminyak Villa</strong>：The Maya Seminyak、IZE Seminyak、Cross Paasha、The Club Villas、eqUILIBRIA SEMINYAK</li>
+          <li>🌿 <strong>烏布 Ubud 森林系</strong>：梯田 Villa、竹屋別墅、叢林泳池度假村</li>
+          <li>🌊 <strong>烏魯瓦圖 Uluwatu 懸崖海景</strong>：Le Cliff Bali、Radisson Blu Uluwatu</li>
+          <li>🏖️ <strong>努沙杜瓦 Nusa Dua、金巴蘭 Jimbaran</strong>：五星飯店、私人沙灘度假村</li>
+          <li>⛵ <strong>沙努爾 Sanur、長谷 Canggu、庫塔 Kuta</strong>：各類型精品住宿全攻略</li>
+        </ul>
+        <p>
+          以下按區域整理所有住宿文章，點擊任一連結即可查看詳細的 <strong>開箱評測、設施介紹、訂房建議</strong>。還不確定要住哪裡？歡迎參考我們的
+          <a href="/blog/?cat=新手指南">峇里島分區住宿挑選指南</a>。
+        </p>
+      </div>
+    </section>
+
+    <!-- 區域中樞：分區列表 -->
+    {regionGroups.map(region => (
+      <section class="region-section" id={region.slug}>
+        <div class="hub-container">
+          <h2>{region.emoji} {region.zh}（{region.en}）住宿推薦</h2>
+          <p class="region-desc">{region.desc}</p>
+
+          <div class="article-grid">
+            {region.articles.slice(0, 6).map(post => (
+              <article class="article-card">
+                <a href={post.url} class="card-link">
+                  {post.heroImage && (
+                    <img
+                      src={post.heroImage}
+                      alt={post.title}
+                      loading="lazy"
+                      width="400"
+                      height="225"
+                    />
+                  )}
+                  <div class="card-body">
+                    <h3>{post.title}</h3>
+                    {post.description && (
+                      <p class="card-desc">{post.description.slice(0, 80)}…</p>
+                    )}
+                  </div>
+                </a>
+              </article>
+            ))}
+          </div>
+
+          {region.articles.length > 6 && (
+            <p class="see-more">
+              <a href={`/blog/?cat=住宿推薦&region=${region.zh}`}>
+                查看全部 {region.articles.length} 篇{region.zh}住宿文章 →
+              </a>
+            </p>
+          )}
+
+          <!-- 區域中樞頁面的 H3 快速連結（SEO 用） -->
+          <details class="article-list-toggle">
+            <summary>展開{region.zh}全部住宿文章連結（{region.articles.length} 篇）</summary>
+            <ul class="article-links">
+              {region.articles.map(post => (
+                <li>
+                  <a href={post.url}>{post.title}</a>
+                </li>
+              ))}
+            </ul>
+          </details>
+        </div>
+      </section>
+    ))}
+
+    <!-- 其他住宿 -->
+    {ungrouped.length > 0 && (
+      <section class="region-section" id="other">
+        <div class="hub-container">
+          <h2>🏝️ 其他峇里島住宿推薦</h2>
+          <div class="article-grid">
+            {ungrouped.map(post => (
+              <article class="article-card">
+                <a href={post.url} class="card-link">
+                  {post.heroImage && (
+                    <img
+                      src={post.heroImage}
+                      alt={post.title}
+                      loading="lazy"
+                      width="400"
+                      height="225"
+                    />
+                  )}
+                  <div class="card-body">
+                    <h3>{post.title}</h3>
+                  </div>
+                </a>
+              </article>
+            ))}
+          </div>
+        </div>
+      </section>
+    )}
+
+    <!-- CTA -->
+    <section class="hub-cta">
+      <div class="hub-container">
+        <h2>還在猶豫住哪裡？</h2>
+        <p>歡迎使用我們的 <a href="/trip-planner/">行程規劃工具</a> 或查看 <a href="/blog/?cat=新手指南">新手指南</a>，找到最適合你的峇里島住宿！</p>
+      </div>
+    </section>
+
+  </main>
+
+  <Footer />
+</body>
+</html>
+
+<style>
+  .hub-main {
+    max-width: 100%;
+    overflow-x: hidden;
+  }
+  .hub-container {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 0 1.5rem;
+  }
+  .hub-hero {
+    background: linear-gradient(135deg, #1a472a 0%, #2d6a4f 100%);
+    color: white;
+    padding: 3rem 1.5rem;
+    text-align: center;
+  }
+  .hub-hero h1 {
+    font-size: 2.2rem;
+    margin: 0.5rem 0;
+    color: white;
+  }
+  .hub-subtitle {
+    font-size: 1.1rem;
+    opacity: 0.9;
+  }
+  .hub-breadcrumb {
+    font-size: 0.85rem;
+    opacity: 0.7;
+    margin-bottom: 0.5rem;
+  }
+  .hub-breadcrumb a { color: white; }
+  .hub-intro {
+    padding: 2.5rem 0;
+    background: #f9f9f9;
+    border-bottom: 1px solid #e8e8e8;
+  }
+  .hub-intro p { margin-bottom: 1rem; line-height: 1.8; }
+  .hub-intro ul { margin: 0.5rem 0 1rem 1.5rem; line-height: 2; }
+  .region-section {
+    padding: 2.5rem 0;
+    border-bottom: 1px solid #eee;
+  }
+  .region-section h2 {
+    font-size: 1.6rem;
+    margin-bottom: 0.5rem;
+  }
+  .region-desc {
+    color: #666;
+    margin-bottom: 1.5rem;
+    font-size: 0.95rem;
+  }
+  .article-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 1.5rem;
+    margin-bottom: 1rem;
+  }
+  .article-card {
+    border-radius: 10px;
+    overflow: hidden;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.1);
+    background: white;
+    transition: transform 0.2s, box-shadow 0.2s;
+  }
+  .article-card:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(0,0,0,0.15);
+  }
+  .card-link {
+    text-decoration: none;
+    color: inherit;
+    display: block;
+  }
+  .article-card img {
+    width: 100%;
+    height: 180px;
+    object-fit: cover;
+  }
+  .card-body {
+    padding: 1rem;
+  }
+  .card-body h3 {
+    font-size: 0.95rem;
+    line-height: 1.5;
+    margin: 0 0 0.5rem;
+    color: #222;
+  }
+  .card-desc {
+    font-size: 0.82rem;
+    color: #666;
+    line-height: 1.5;
+    margin: 0;
+  }
+  .see-more {
+    margin-top: 1rem;
+    text-align: right;
+  }
+  .see-more a {
+    color: #2d6a4f;
+    font-weight: 600;
+    font-size: 0.95rem;
+  }
+  .article-list-toggle {
+    margin-top: 1.5rem;
+    background: #f5f5f5;
+    border-radius: 8px;
+    padding: 0.75rem 1rem;
+    font-size: 0.9rem;
+  }
+  .article-list-toggle summary {
+    cursor: pointer;
+    font-weight: 600;
+    color: #555;
+  }
+  .article-links {
+    margin: 0.75rem 0 0 1.5rem;
+    line-height: 2;
+  }
+  .article-links a {
+    color: #2d6a4f;
+    text-decoration: underline;
+  }
+  .hub-cta {
+    background: #f0f4f0;
+    padding: 2.5rem 0;
+    text-align: center;
+  }
+  .hub-cta h2 { margin-bottom: 0.75rem; }
+  .hub-cta a { color: #2d6a4f; font-weight: 600; }
+
+  @media (max-width: 640px) {
+    .hub-hero h1 { font-size: 1.6rem; }
+    .article-grid { grid-template-columns: 1fr; }
+  }
+</style>

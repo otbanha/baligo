@@ -1,0 +1,22 @@
+---
+import BizLayout from '../../layouts/BizLayout.astro';
+import BizCategory from '../../components/BizCategory.astro';
+import { getBizListings } from '../../lib/getBizListings';
+
+const all = await getBizListings();
+const listings = all.filter(b => b.category === 'tour');
+const featured = listings.filter(b => b.featured).sort(() => Math.random() - 0.5);
+const regular  = listings.filter(b => !b.featured);
+---
+
+<BizLayout
+  title="峇里島中文旅遊服務 / 導遊推薦"
+  description="峇里島中文導遊、包車、旅遊服務推薦，讓你的旅程更順暢。"
+>
+  <BizCategory
+    title="🌴 旅遊服務 / 導遊"
+    description="專業中文導遊與包車服務，峇里島玩透透不怕溝通"
+    featured={featured}
+    regular={regular}
+  />
+</BizLayout>

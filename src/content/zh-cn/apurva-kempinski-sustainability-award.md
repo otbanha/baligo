@@ -1,0 +1,120 @@
+---
+title: 巴厘岛凯宾斯基 The Apurva Kempinski Bali 荣获 2024「最佳可持续酒店」殊荣
+slug: apurva-kempinski-sustainability-award
+description: >-
+  位于巴厘岛的顶级奢华酒店 The Apurva Kempinski Bali 再次奠定其在全球旅游业的领先地位，甫于2022 年开业，在 2024 年第
+  18 届 Ultimate Luxury Travel Related Awards (ULTRAs) 上就荣膺「最佳可持续酒店」(Best Su
+pubDate: 2024-11-16T00:00:00.000Z
+pubHour: null
+category:
+  - 住宿推薦
+tags:
+  - kempinsky
+  - 峇里島
+  - 巴里島凱賓斯基
+  - 峇里島凱賓斯基
+  - 峇里島新飯店
+heroImage: 'https://images.gobaligo.id/vocus/vocus_c5c780a9262d6901c2139405a9097e28.jpg'
+originalUrl: 'https://vocus.cc/article/67375f47fd89780001591deb'
+lang: zh-cn
+_srcHash: 656b1545a71b9641292a8a2098720540
+---
+
+更新:2026/05/21
+
+位于巴厘岛的顶级奢华酒店 The Apurva Kempinski Bali 再次奠定其在全球旅游业的领先地位，甫于2022 年开业，在 **2024 年第 18 届 Ultimate Luxury Travel Related Awards (ULTRAs)** 上就荣膺「**最佳可持续酒店**」(Best Sustainable Hotel)。这一国际级殊荣肯定了酒店在可持续奢华方面的卓越表现，以及对环境、社会与公司治理（ESG）原则的全面承诺。
+
+The Apurva Kempinski Bali 荣获 ULTRAs 2024「最佳可持续酒店」殊荣
+
+***
+
+## **ULTRAs 2024：奢华旅游界的年度盛典**
+
+ULTRAs 由全球知名的奢华旅游品牌 Ultratravel 主办，是年度最受瞩目的高端旅游奖项之一。颁奖典礼于 **英国伦敦肯辛顿宫（Kensington Palace）**举行，吸引了来自全球各地的顶级酒店、航空公司和旅游目的地代表参与。
+
+这项盛典由超过 **2800 万 GHA DISCOVERY 会员** 投票决定，旨在表彰全球旅游业的佼佼者。GHA DISCOVERY 是全球最大的独立酒店联盟——**Global Hotel Alliance (GHA)** 的独家忠诚计划合作伙伴。这不仅反映了 The Apurva Kempinski Bali 在可持续发展方面的成就，也突显其为全球旅客所认可的卓越服务。
+
+***
+
+## **「最佳可持续酒店」的殊荣与意义**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_cfbbdb303c4d9cc59f6ee524f1fddcac.jpg)
+
+The Apurva Kempinski Bali 总经理 Vincent Guironnet 在接受荣誉时表示：
+
+> 「能够获得全球性的认可，成为可持续旅游领域的领导者，对我们来说是一种极大的荣幸。这一奖项是我们团队不懈努力的最佳证明，我们致力于以可持续视角重新定义奢华。」
+
+酒店将**可持续性**深植于其经营哲学之中，强调在提供无与伦比的奢华体验同时，对环境与社会的影响降至最低。这样的愿景体现于其四大核心支柱：
+
+- **宾客偏好**
+- **美食体验**
+- **高品质服务**
+- **文化传承**
+
+每一项措施均与可持续原则相辅相成，实现奢华与环保的平衡。
+
+***
+
+## **The Apurva Kempinski Bali 的可持续实践**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_eed3108b28cf3ca5fc3766481d9d747b.jpg)
+
+**1. 环境可持续：创新与绿色行动**
+
+The Apurva Kempinski Bali 不仅仅是一座奢华酒店，它更是一个对地球负责的生活方式范例。以下是其环保措施的亮点：
+
+- **废弃物管理**：通过严格的回收与废物减量计划，酒店努力实现零废弃目标。
+- **水耕农园**：在酒店内部设有先进的水耕农场，供应新鲜蔬果，不仅支持当地农业，也减少了碳排放。
+- **电动车服务**：为宾客提供电动车接驳服务，减少燃油使用与空气污染。
+- **红树林种植计划**：参与红树林种植计划，以保护巴厘岛的海岸生态系统，并对抗气候变化。
+
+### **2. 社会影响：支持在地社区**
+
+The Apurva Kempinski Bali 深信**支持当地社区是可持续发展的关键**。酒店推出了多项富有意义的计划，包括：
+
+- **可持续农业合作**：与在地农民合作，推广有机与可持续农业技术。
+- **Apurva 学校**：通过教育计划，为当地社区提供职业技能培训，帮助当地居民创造更多就业机会。
+
+### **3. 公司治理：透明与责任**
+
+酒店在公司治理方面展现了高度的透明度，确保每一个决策皆符合 ESG 原则，并定期发布可持续发展报告，让宾客与业界了解其最新进展。
+
+***
+
+## **设计与文化的完美结合**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_7b344ee09db7f37785935fd0893cc7bc.jpg)
+
+除了环保与社会责任，The Apurva Kempinski Bali 更以其独特的设计与文化体验闻名。酒店的建筑灵感来自于 **印尼的玛札巴希特王朝（Majapahit）**，以现代方式呈现印尼的建筑传统与自然元素。
+
+此外，其年度营销活动「**Powerful Indonesia**」更是对印尼文化与遗产的礼赞。从艺术品展示到烹饪体验，酒店致力于将印尼的多元文化与宾客共享，为他们带来丰富且深具意义的旅游体验。
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_8546b2ac73a2501a4cdcedee144940e3.jpg)
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_044a418e90b90d6ef815ca9a53439e92.jpg)
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_9d8178559e78ae80c6ed16ebc8bf6b1c.jpg)
+
+***
+
+## **奢华与可持续的典范**
+
+![Koral Restaurant 讓你置身於海綿寶寶的海底世界](https://images.gobaligo.id/vocus/vocus_9f3b0b7324ddd242b0887bc6940f20d6.jpg)
+
+Koral Restaurant 让你置身于海绵宝宝的海底世界
+
+> [海底餐厅用餐体验 USD$100起](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90340-koral-restaurant-dining-the-apurva-kempinski-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2225956a4)
+
+> 凯宾斯基订房链接： [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)  [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=25195229&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-N6ysTFJMEkdY-Jo-_ft1YmIWZDAyONvXwGDxgttso7ejysEllnP9fBc537w6opjxY6BPBETDnwfBp74grTs9Z-kY4OXYysYIEZjHefNvJsZAzaIdf6WrTKYQcj0wnG_89fMS1gWnXwDM8pFhaOLROdLrHsY4yuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DAwtjU3EjPwAAoWpJY4ZkC1p2cmJNcmpNYkhpSWQA0xUhHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGC4LMLoLyM_PzILoNUMTCEnNKUyEqgfa5pUKtMKyNfcTCFB37gmUv3ycWhl8sDE2sDF2sLBwT9rNOYmXlAPl3Fyuvr7OThaWnrmGIbpSu4QXWsyc_MEnJGxoYGJgaGpua6hokWloYGyUa6ZpYmhiZmumaG5qaGWn83tRx4ImxkbUUJDwVGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsRm5mDgbm0fZcDGHBrsI5j7_vfKjkbSDFLOnS5BitNPtvXIulvZaIJ4hjBe4izls79NNvPaRMJEk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkLEAIndwQlECAAA&masterhotelid_tracelogid=100051355-0a9832a2-494256-71562&detailFilters=17|1~17~1*31|25195229~31~25195229*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=270&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660)  [Booking.com](https://booking.tpm.li/QGYx9LPu)
+
+The Apurva Kempinski Bali 荣获 ULTRAs 2024「最佳可持续酒店」的殊荣，不仅是一个巨大的荣誉，也是对其在环保与社会责任方面努力的认可。酒店用行动证明，奢华与可持续可以完美融合，并为全球旅游业设立了新标杆。
+
+## 周边景点
+
+凯宾斯基所在的「努沙杜瓦」位于巴厘岛南部的东岸，距离机场走收费高速公路只要30分钟车程。努沙杜瓦拥有金黄色的沙滩、清澈的海水和茂密的热带植被，是享受阳光、沙滩和海水的理想场所。
+
+请看我们收集了40个住宿、美食、活动的[攻略地图](/blog/nusa-dua-guide/)
+
+![努沙杜瓦攻略地圖](https://images.gobaligo.id/vocus/vocus_63cd2daa53e7c8cb15724fdcda0ec1f9.png)
+
+[努沙杜瓦攻略地图](/blog/nusa-dua-guide/)

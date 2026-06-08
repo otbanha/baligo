@@ -1,0 +1,69 @@
+---
+// Static page — Supabase JS client handles PKCE code exchange on the client side
+const supabaseUrl = import.meta.env.PUBLIC_SUPABASE_URL;
+const supabaseAnonKey = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
+---
+
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="robots" content="noindex, nofollow" />
+  <title>登入中⋯</title>
+  <style>
+    body { display:flex; align-items:center; justify-content:center; min-height:100vh; margin:0; font-family:sans-serif; background:#f8f9fa; }
+    .msg { text-align:center; color:#5D4037; }
+    .spinner { width:36px; height:36px; border:3px solid #e2e8f0; border-top-color:#C5A059; border-radius:50%; animation:spin .8s linear infinite; margin:0 auto 1rem; }
+    @keyframes spin { to { transform:rotate(360deg); } }
+  </style>
+</head>
+<body>
+  <div class="msg">
+    <div class="spinner"></div>
+    <p>登入中，請稍候⋯</p>
+  </div>
+
+  <script define:vars={{ supabaseUrl, supabaseAnonKey }}>
+  (async () => {
+    const { createClient } = await import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm');
+    const supabase = createClient(supabaseUrl, supabaseAnonKey, {
+      auth: { flowType: 'pkce', persistSession: true, detectSessionInUrl: true }
+    });
+
+    const next = new URLSearchParams(location.search).get('next') || '/forum/immigration/';
+
+    // Timeout fallback after 10s
+    const timeout = setTimeout(() => {
+      location.href = '/forum/login/?error=timeout';
+    }, 10000);
+
+    // onAuthStateChange fires when session is ready (handles both ?code= and #access_token=)
+    supabase.auth.onAuthStateChange((event, session) => {
+      if (event === 'SIGNED_IN' && session) {
+        clearTimeout(timeout);
+        location.href = next;
+      } else if (event === 'INITIAL_SESSION') {
+        if (session) {
+          // Already logged in
+          clearTimeout(timeout);
+          location.href = next;
+        } else {
+          // Try explicit code exchange as fallback
+          const code = new URLSearchParams(location.search).get('code');
+          if (code) {
+            supabase.auth.exchangeCodeForSession(code).then(({ error }) => {
+              if (error) {
+                clearTimeout(timeout);
+                location.href = '/forum/login/?error=' + encodeURIComponent(error.message);
+              }
+              // If success, SIGNED_IN event will fire above
+            });
+          }
+        }
+      }
+    });
+  })();
+  </script>
+</body>
+</html>

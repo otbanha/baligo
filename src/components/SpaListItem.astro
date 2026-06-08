@@ -1,0 +1,95 @@
+---
+interface Props {
+  name: string;
+  href?: string;
+  description?: string;
+  links?: {
+    klook?: string;
+    kkday?: string;
+    trip?: string;
+  };
+}
+
+const { name, href, description, links = {} } = Astro.props;
+const hasLinks = links.klook || links.kkday || links.trip;
+---
+
+<li class="spa-item">
+  <div class="spa-header">
+    {href
+      ? <a href={href} class="spa-name">{name}</a>
+      : <span class="spa-name">{name}</span>
+    }
+    {hasLinks && (
+      <div class="spa-badges">
+        {links.klook && (
+          <a href={links.klook} target="_blank" rel="noopener sponsored" class="badge badge-klook">Klook</a>
+        )}
+        {links.kkday && (
+          <a href={links.kkday} target="_blank" rel="noopener sponsored" class="badge badge-kkday">KKday</a>
+        )}
+        {links.trip && (
+          <a href={links.trip} target="_blank" rel="noopener sponsored" class="badge badge-trip">Trip.com</a>
+        )}
+      </div>
+    )}
+  </div>
+  {description && <p class="spa-desc">{description}</p>}
+</li>
+
+<style>
+  .spa-item {
+    padding: 8px 0;
+    border-bottom: 1px dashed #ddd;
+    list-style: none;
+  }
+  .spa-header {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    flex-wrap: wrap;
+  }
+  .spa-name {
+    font-weight: 500;
+  }
+  a.spa-name {
+    color: inherit;
+    text-decoration: underline;
+  }
+  .spa-badges {
+    display: flex;
+    gap: 4px;
+    flex-wrap: wrap;
+  }
+  .badge {
+    font-size: 12px;
+    padding: 2px 8px;
+    border-radius: 4px;
+    text-decoration: none;
+    font-weight: 500;
+    white-space: nowrap;
+  }
+  .badge-klook {
+    background: #faeeda;
+    color: #633806;
+  }
+  .badge-kkday {
+    background: #e6f1fb;
+    color: #0c447c;
+  }
+  .badge-trip {
+    background: #e1f5ee;
+    color: #085041;
+  }
+  .spa-desc {
+    margin: 2px 0 0;
+    font-size: 0.9em;
+    color: #555;
+  }
+  @media (max-width: 480px) {
+    .spa-badges {
+      width: 100%;
+      margin-top: 4px;
+    }
+  }
+</style>

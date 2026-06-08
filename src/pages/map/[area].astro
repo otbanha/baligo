@@ -1,0 +1,725 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
+import MapView from '../../components/MapView.astro';
+import RecommendForm from '../../components/RecommendForm.astro';
+import { maps, getMapBySlug } from '../../data/maps';
+import RelatedGuideCard from '../../components/RelatedGuideCard.astro';
+import { getMapBlogLink } from '../../data/mapBlogMapping';
+import { readFileSync } from 'node:fs';
+import { join } from 'node:path';
+
+export function getStaticPaths() {
+  return maps.map(area => ({
+    params: { area: area.slug },
+  }));
+}
+
+const { area: areaSlug } = Astro.params;
+const area = getMapBySlug(areaSlug!);
+
+if (!area) return Astro.redirect('/map/');
+
+const title = area.seoTitle;
+const description = area.seoDescription;
+
+// ── KML 解析（build time）──
+interface KmlPlace { name: string; lat: number; lng: number; }
+function parseKmlPlaces(kmlRelPath: string): KmlPlace[] {
+  try {
+    const kmlPath = join(process.cwd(), 'public', kmlRelPath.replace(/^\//, ''));
+    const text = readFileSync(kmlPath, 'utf-8');
+    const places: KmlPlace[] = [];
+    const pmRe = /<Placemark\b[^>]*>([\s\S]*?)<\/Placemark>/g;
+    let pm: RegExpExecArray | null;
+    while ((pm = pmRe.exec(text)) !== null && places.length < 30) {
+      const block = pm[1];
+      const nm = block.match(/<name>([\s\S]*?)<\/name>/);
+      const co = block.match(/<coordinates>([\s\S]*?)<\/coordinates>/);
+      if (!nm) continue;
+      const name = nm[1].replace(/<!\[CDATA\[([\s\S]*?)\]\]>/, '$1').trim();
+      if (!name) continue;
+      let lat = 0, lng = 0;
+      if (co) {
+        const p = co[1].trim().split(',');
+        lng = parseFloat(p[0]) || 0;
+        lat = parseFloat(p[1]) || 0;
+      }
+      places.push({ name, lat, lng });
+    }
+    return places;
+  } catch { return []; }
+}
+const kmlPlaces = parseKmlPlaces(area.kml);
+
+// ── Schema.org JSON-LD ──
+const siteUrl = 'https://gobaligo.id';
+const pageUrl = `${siteUrl}/map/${area.slug}/`;
+
+const schemaTypeMap: Record<string, string> = {
+  'hospital': 'MedicalClinic',
+  'tourist-police': 'GovernmentOffice',
+  'seminyak-eat-street': 'Restaurant',
+  'vegetarian': 'Restaurant',
+  'canggu-hotel': 'LodgingBusiness',
+  'seminyak-hotel': 'LodgingBusiness',
+  'ubud-villa': 'LodgingBusiness',
+  'money-changer': 'FinancialService',
+  'atm': 'FinancialService',
+};
+const itemType = schemaTypeMap[area.slug] ?? (area.isThematic ? 'LocalBusiness' : 'TouristAttraction');
+
+const breadcrumbSchema = {
+  "@type": "BreadcrumbList",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "首頁", "item": `${siteUrl}/` },
+    { "@type": "ListItem", "position": 2, "name": "攻略地圖", "item": `${siteUrl}/map/` },
+    { "@type": "ListItem", "position": 3, "name": area.name, "item": pageUrl },
+  ]
+};
+
+const mainSchema = area.isThematic ? {
+  "@type": "ItemList",
+  "name": area.name,
+  "description": area.seoDescription,
+  "url": pageUrl,
+  "numberOfItems": kmlPlaces.length,
+  "itemListElement": kmlPlaces.slice(0, 30).map((p, i) => ({
+    "@type": "ListItem",
+    "position": i + 1,
+    "item": {
+      "@type": itemType,
+      "name": p.name,
+      "address": { "@type": "PostalAddress", "addressRegion": "Bali", "addressCountry": "ID" },
+      ...(p.lat && p.lng ? { "geo": { "@type": "GeoCoordinates", "latitude": p.lat, "longitude": p.lng } } : {}),
+    }
+  }))
+} : {
+  "@type": "TouristAttraction",
+  "name": `${area.name}攻略地圖`,
+  "description": area.seoDescription,
+  "url": pageUrl,
+  "geo": { "@type": "GeoCoordinates", "latitude": area.center[0], "longitude": area.center[1] },
+  "containedInPlace": { "@type": "Place", "name": "峇里島", "addressCountry": "ID" },
+  "inLanguage": "zh-TW",
+};
+
+// E.1 relatedLink：地圖頁指向對應的 blog 攻略
+const mapBlogEntry = getMapBlogLink(area.slug);
+if (mapBlogEntry?.blogUrl) {
+  (mainSchema as any).relatedLink = mapBlogEntry.blogUrl;
+}
+
+const schema = { "@context": "https://schema.org", "@graph": [mainSchema, breadcrumbSchema] };
+
+// ── 相關地圖 ──
+const relatedMapData = (area.relatedMaps ?? [])
+  .map(slug => maps.find(m => m.slug === slug))
+  .filter((m): m is NonNullable<typeof m> => m !== undefined);
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead title={title} description={description} image={area.ogImage ?? "https://images.gobaligo.id/images/2026-05/1779207579768-main-og.jpg"} />
+  <meta name="robots" content="index, follow" />
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    /* .map-wrapper 取代原本 body 的 overflow:hidden / height:100dvh */
+    .map-wrapper {
+      height: 100dvh;
+      overflow: hidden;
+      position: relative;
+      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
+    }
+
+    .map-topbar {
+      height: 52px;
+      background: #fff;
+      border-bottom: 1px solid #efefef;
+      display: flex;
+      align-items: center;
+      padding: 0 16px;
+      gap: 12px;
+      position: relative;
+      z-index: 10;
+    }
+
+    .back-btn {
+      display: flex;
+      align-items: center;
+      gap: 4px;
+      color: #2d8653;
+      font-size: 15px;
+      font-weight: 600;
+      text-decoration: none;
+      -webkit-tap-highlight-color: transparent;
+      flex-shrink: 0;
+    }
+
+    .topbar-info {
+      flex: 1;
+      overflow: hidden;
+    }
+
+    .topbar-title {
+      font-size: 16px;
+      font-weight: 700;
+      color: #1a1a1a;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .topbar-desc {
+      font-size: 11px;
+      color: #999;
+      white-space: nowrap;
+      overflow: hidden;
+      text-overflow: ellipsis;
+    }
+
+    .topbar-emoji {
+      font-size: 22px;
+      flex-shrink: 0;
+    }
+
+    #dark-btn {
+      background: none;
+      border: none;
+      font-size: 20px;
+      cursor: pointer;
+      padding: 4px;
+      flex-shrink: 0;
+      -webkit-tap-highlight-color: transparent;
+      line-height: 1;
+    }
+
+    #itin-topbar-btn {
+      display: none;
+      align-items: center;
+      gap: 4px;
+      background: #2d8653;
+      color: #fff;
+      border-radius: 20px;
+      padding: 5px 10px;
+      font-size: 12px;
+      font-weight: 700;
+      text-decoration: none;
+      flex-shrink: 0;
+      -webkit-tap-highlight-color: transparent;
+    }
+    [data-dark] #itin-topbar-btn { background: #1a5c3a; }
+
+    .guide-topbar-btn {
+      display: inline-flex;
+      align-items: center;
+      gap: 3px;
+      background: #fff8ee;
+      color: #b36a00;
+      border: 1px solid #f0c050;
+      border-radius: 12px;
+      padding: 2px 8px;
+      font-size: 11px;
+      font-weight: 700;
+      text-decoration: none;
+      flex-shrink: 0;
+      white-space: nowrap;
+      -webkit-tap-highlight-color: transparent;
+      vertical-align: middle;
+      line-height: 1.4;
+    }
+    [data-dark] .guide-topbar-btn {
+      background: #2a1f00;
+      color: #f0c050;
+      border-color: #5a4000;
+    }
+
+    /* Dark mode topbar */
+    [data-dark] .map-wrapper {
+      background: #121212;
+    }
+
+    [data-dark] .map-topbar {
+      background: #1e1e1e;
+      border-bottom-color: #2a2a2a;
+    }
+
+    [data-dark] .back-btn {
+      color: #4caf8a;
+    }
+
+    [data-dark] .topbar-title {
+      color: #f0f0f0;
+    }
+
+    [data-dark] .topbar-desc {
+      color: #777;
+    }
+
+    @keyframes pulse-attention {
+      0%, 100% { box-shadow: 0 2px 8px rgba(0,0,0,0.2), 0 0 0 0 rgba(45,134,83,0.45); }
+      50%       { box-shadow: 0 2px 8px rgba(0,0,0,0.1), 0 0 0 14px rgba(45,134,83,0); }
+    }
+    @keyframes spin-gps {
+      to { transform: rotate(360deg); }
+    }
+
+    #gps-btn {
+      position: fixed;
+      top: 201px; left: 16px;
+      height: 44px;
+      padding: 0 14px 0 10px;
+      background: #fff;
+      border: none;
+      border-radius: 22px;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.2);
+      display: flex;
+      align-items: center;
+      gap: 8px;
+      cursor: pointer;
+      z-index: 900;
+      -webkit-tap-highlight-color: transparent;
+      touch-action: manipulation;
+      transition: background 0.2s, color 0.2s;
+      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      color: #333;
+      white-space: nowrap;
+    }
+    #gps-btn .gps-icon { display: block; flex-shrink: 0; pointer-events: none; }
+    #gps-btn .gps-label { pointer-events: none; }
+    #gps-btn[data-state="loading"] .gps-icon { animation: spin-gps 1s linear infinite; }
+    #gps-btn[data-state="success"] { background: #e8f5ee; color: #1a5c3a; }
+    #gps-btn[data-state="error"]   { background: #fff0f0; color: #c33; }
+    #gps-btn.first-visit { animation: pulse-attention 1.5s ease-in-out 4; }
+
+    [data-dark] #gps-btn { background: #1e1e1e; color: #ccc; box-shadow: 0 2px 8px rgba(0,0,0,0.5); }
+    [data-dark] #gps-btn[data-state="success"] { background: #1a3a2a; color: #4caf8a; }
+    [data-dark] #gps-btn[data-state="error"]   { background: #2a1212; color: #f87171; }
+
+    @media (max-width: 767px) {
+      #gps-btn { width: 44px; padding: 0; border-radius: 50%; justify-content: center; }
+      #gps-btn .gps-label { display: none; }
+    }
+
+    /* ── SEO 區塊（地圖下方，爬蟲可索引） ── */
+    .seo-section {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 28px 16px 56px;
+      font-family: -apple-system, BlinkMacSystemFont, 'Noto Sans TC', sans-serif;
+    }
+    .seo-breadcrumb {
+      display: flex;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 4px;
+      font-size: 13px;
+      color: #888;
+      margin-bottom: 16px;
+    }
+    .seo-breadcrumb a { color: #2d8653; text-decoration: none; }
+    .seo-breadcrumb a:hover { text-decoration: underline; }
+    .seo-breadcrumb .sep { color: #bbb; }
+    .seo-h1 {
+      font-size: 22px;
+      font-weight: 700;
+      color: #1a1a1a;
+      margin-bottom: 8px;
+      line-height: 1.3;
+    }
+    .seo-desc {
+      font-size: 14px;
+      color: #555;
+      line-height: 1.7;
+      margin-bottom: 20px;
+    }
+    .seo-places {
+      border: 1px solid #e0ece5;
+      border-radius: 10px;
+      padding: 0;
+      margin-bottom: 24px;
+      overflow: hidden;
+    }
+    .seo-places summary {
+      cursor: pointer;
+      font-size: 14px;
+      font-weight: 600;
+      color: #2d8653;
+      padding: 12px 16px;
+      user-select: none;
+      background: #f4f9f6;
+      list-style: none;
+    }
+    .seo-places summary::-webkit-details-marker { display: none; }
+    .seo-places summary::before { content: '▶ '; font-size: 10px; }
+    .seo-places[open] summary::before { content: '▼ '; }
+    .seo-places-list {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+      gap: 2px 12px;
+      padding: 12px 16px 16px;
+    }
+    .seo-places-list li {
+      font-size: 13px;
+      color: #444;
+      padding: 4px 0;
+      list-style: none;
+      border-bottom: 1px solid #f0f0f0;
+    }
+    /* ── Place chip strip (horizontal scroll, overlaid at map bottom) ── */
+    .place-strip {
+      position: absolute;
+      bottom: 64px;
+      left: 0; right: 0;
+      z-index: 600;
+      display: flex;
+      gap: 8px;
+      padding: 0 14px 4px;
+      overflow-x: auto;
+      -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+      pointer-events: none;
+    }
+    .place-strip::-webkit-scrollbar { display: none; }
+    .place-chip {
+      flex-shrink: 0;
+      pointer-events: all;
+      background: rgba(255,255,255,0.95);
+      backdrop-filter: blur(4px);
+      -webkit-backdrop-filter: blur(4px);
+      border: none;
+      border-radius: 20px;
+      padding: 8px 14px;
+      font-size: 13px;
+      font-weight: 600;
+      color: #1a1a1a;
+      cursor: pointer;
+      box-shadow: 0 2px 8px rgba(0,0,0,0.18);
+      white-space: nowrap;
+      -webkit-tap-highlight-color: transparent;
+      touch-action: manipulation;
+      font-family: inherit;
+      transition: background 0.12s;
+    }
+    .place-chip:active, .place-chip.active { background: #e8f5ee; }
+    [data-dark] .place-chip { background: rgba(28,28,28,0.95); color: #f0f0f0; box-shadow: 0 2px 8px rgba(0,0,0,0.5); }
+    [data-dark] .place-chip.active { background: #1a3a2a; }
+
+    .related-maps { margin-top: 8px; }
+    .related-maps h2 {
+      font-size: 15px;
+      font-weight: 700;
+      color: #333;
+      margin-bottom: 10px;
+    }
+    .related-maps-grid {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+    }
+    .related-map-link {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: #f4f9f6;
+      border: 1px solid #c8e0d0;
+      border-radius: 20px;
+      padding: 6px 14px;
+      font-size: 13px;
+      font-weight: 600;
+      color: #1a5c3a;
+      text-decoration: none;
+      transition: background 0.15s;
+    }
+    .related-map-link:hover { background: #e0f0e8; }
+  </style>
+</head>
+
+<body>
+  <div class="map-wrapper">
+    <Header lang="zh-tw" slug="map" hideLangSwitcher={true} />
+    <TopStrip lang="zh-tw" />
+
+    <div class="map-topbar">
+      <a href="/map/" class="back-btn">‹ 返回</a>
+      <div class="topbar-info">
+        <div class="topbar-title">
+          <span>{area.name} {area.isThematic ? '' : '攻略地圖'}</span>
+          {mapBlogEntry?.blogUrl && (
+            <a href={mapBlogEntry.blogUrl} class="guide-topbar-btn" aria-label="閱讀旅遊攻略">
+              📖 攻略
+            </a>
+          )}
+        </div>
+        <div class="topbar-desc">{area.description}</div>
+      </div>
+      <a href="/map/itinerary/" id="itin-topbar-btn" aria-label="行程規劃">
+        📋 <span id="itin-topbar-count">0</span>
+      </a>
+      <button id="dark-btn" aria-label="深色模式">🌙</button>
+      <span class="topbar-emoji">{area.emoji}</span>
+    </div>
+
+    <MapView area={area} />
+
+    {area.places && area.places.length > 0 && (
+      <div class="place-strip">
+        {area.places.map(p => (
+          <button class="place-chip" data-lat={p.lat} data-lng={p.lng}>{p.emoji} {p.name}</button>
+        ))}
+      </div>
+    )}
+
+    <RecommendForm areaName={area.name} areaSlug={area.slug} />
+  </div>
+
+  <!-- GPS button outside map-wrapper to avoid overflow:hidden touch interception on Android -->
+  <button id="gps-btn" aria-label="定位到我的位置" onclick="window._gpsClick(this)" data-state="idle">
+    <svg class="gps-icon" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true" style="pointer-events:none">
+      <circle cx="12" cy="12" r="10"/>
+      <circle cx="12" cy="12" r="3"/>
+      <line x1="12" y1="2" x2="12" y2="4"/>
+      <line x1="12" y1="20" x2="12" y2="22"/>
+      <line x1="2" y1="12" x2="4" y2="12"/>
+      <line x1="20" y1="12" x2="22" y2="12"/>
+    </svg>
+    <span class="gps-label">我的位置</span>
+  </button>
+
+
+  <!-- SEO content — SSR 渲染，爬蟲可索引，使用者向下捲動可見 -->
+  <section class="seo-section" aria-label="地圖資訊">
+    <nav class="seo-breadcrumb" aria-label="麵包屑導覽">
+      <a href="/">首頁</a>
+      <span class="sep">›</span>
+      <a href="/map/">攻略地圖</a>
+      <span class="sep">›</span>
+      <span>{area.name}</span>
+    </nav>
+
+    <h1 class="seo-h1">{area.isThematic ? area.name : `${area.name}攻略地圖`}</h1>
+    <p class="seo-desc">{area.seoDescription}</p>
+
+    <!-- D.1-1: hero 位置 — H1 / hero 區下方 -->
+    <RelatedGuideCard mapSlug={area.slug} position="hero" />
+
+    {kmlPlaces.length > 0 && (
+      <details class="seo-places">
+        <summary>主要地點（{kmlPlaces.length} 筆）</summary>
+        <ul class="seo-places-list">
+          {kmlPlaces.map(p => <li>{p.name}</li>)}
+        </ul>
+      </details>
+    )}
+
+    <!-- D.1-2: inline 位置 — 地點清單下方 -->
+    <RelatedGuideCard mapSlug={area.slug} position="inline" />
+
+    {relatedMapData.length > 0 && (
+      <div class="related-maps">
+        <h2>相關地圖</h2>
+        <div class="related-maps-grid">
+          {relatedMapData.map(m => (
+            <a href={`/map/${m.slug}/`} class="related-map-link">
+              {m.emoji} {m.name}
+            </a>
+          ))}
+        </div>
+        <!-- D.1-3: footer 位置 — 相關閱讀區塊 -->
+        <ul class="related-guide-list" style="margin-top:10px;padding-left:1.2rem;">
+          <RelatedGuideCard mapSlug={area.slug} position="footer" />
+        </ul>
+      </div>
+    )}
+  </section>
+
+  <script>
+    (function() {
+      const btn = document.getElementById('dark-btn');
+      const html = document.documentElement;
+
+      function applyDark(dark) {
+        if (dark) {
+          html.setAttribute('data-dark', '');
+          btn.textContent = '☀️';
+        } else {
+          html.removeAttribute('data-dark');
+          btn.textContent = '🌙';
+        }
+      }
+
+      applyDark(localStorage.getItem('map_dark') === '1');
+
+      btn?.addEventListener('click', () => {
+        const nowDark = !html.hasAttribute('data-dark');
+        applyDark(nowDark);
+        localStorage.setItem('map_dark', nowDark ? '1' : '0');
+      });
+    })();
+
+    // Itinerary badge
+    (function() {
+      const itinBtn = document.getElementById('itin-topbar-btn');
+      const itinCount = document.getElementById('itin-topbar-count');
+
+      function updateItinBadge() {
+        try {
+          const count = JSON.parse(localStorage.getItem('map_itinerary') || '[]').length;
+          if (count > 0) {
+            itinBtn.style.display = 'flex';
+            itinCount.textContent = count;
+          } else {
+            itinBtn.style.display = 'none';
+          }
+        } catch {}
+      }
+
+      updateItinBadge();
+      window.updateItinBadge = updateItinBadge;
+    })();
+  </script>
+
+  <script is:inline>
+    var _gpsWatchId = null;
+    var _GPS_HINT_KEY = 'gobaligo_map_locate_hint_seen';
+
+    function _resetGpsBtn() {
+      var btn = document.getElementById('gps-btn');
+      if (!btn) return;
+      btn.dataset.state = 'idle';
+      var label = btn.querySelector('.gps-label');
+      if (label) label.textContent = '我的位置';
+    }
+
+    function _showGpsToast(msg) {
+      var old = document.getElementById('_gps_toast');
+      if (old) old.remove();
+      var t = document.createElement('div');
+      t.id = '_gps_toast';
+      t.style.cssText = 'position:fixed;bottom:80px;left:50%;transform:translateX(-50%);background:rgba(0,0,0,0.78);color:#fff;padding:10px 18px;border-radius:12px;font-size:13px;font-weight:600;z-index:9999;white-space:nowrap;pointer-events:none;transition:opacity 0.3s';
+      t.textContent = msg;
+      document.body.appendChild(t);
+      setTimeout(function() {
+        t.style.opacity = '0';
+        setTimeout(function() { if (t.parentNode) t.remove(); }, 300);
+      }, 3000);
+    }
+
+    window._gpsClick = function(btn) {
+      if (btn.dataset.state === 'loading') return;
+      var label = btn.querySelector('.gps-label');
+
+      if (!navigator.geolocation) {
+        btn.dataset.state = 'error';
+        if (label) label.textContent = '不支援定位';
+        setTimeout(_resetGpsBtn, 2500);
+        return;
+      }
+
+      btn.dataset.state = 'loading';
+      if (label) label.textContent = '定位中…';
+
+      var done = false;
+      var tid = setTimeout(function() {
+        if (done) return;
+        done = true;
+        btn.dataset.state = 'error';
+        if (label) label.textContent = '逾時';
+        setTimeout(_resetGpsBtn, 2000);
+      }, 10000);
+
+      navigator.geolocation.getCurrentPosition(
+        function(pos) {
+          if (done) return;
+          done = true;
+          clearTimeout(tid);
+          var lat = pos.coords.latitude, lng = pos.coords.longitude;
+
+          btn.dataset.state = 'success';
+          if (label) label.textContent = '已定位';
+          setTimeout(_resetGpsBtn, 2000);
+
+          // _mapApi 可能還在載入中（MapLibre 從 CDN 拉取）
+          // 最多重試 15 次 × 600ms = 9 秒
+          (function applyPos(retries) {
+            var api = window._mapApi;
+            if (api) {
+              api.flyTo(lat, lng, 15);
+              api.setUserLocation(lat, lng);
+            } else if (retries > 0) {
+              setTimeout(function() { applyPos(retries - 1); }, 600);
+            }
+          })(15);
+
+          if (_gpsWatchId === null) {
+            _gpsWatchId = navigator.geolocation.watchPosition(
+              function(p) { window._mapApi && window._mapApi.setUserLocation(p.coords.latitude, p.coords.longitude); },
+              function() {
+                if (_gpsWatchId !== null) { navigator.geolocation.clearWatch(_gpsWatchId); _gpsWatchId = null; }
+              },
+              { enableHighAccuracy: true }
+            );
+          }
+        },
+        function(err) {
+          if (done) return;
+          done = true;
+          clearTimeout(tid);
+          btn.dataset.state = 'error';
+          if (err.code === 1) {
+            if (label) label.textContent = '無權限';
+            _showGpsToast('請在瀏覽器設定中開啟定位權限，或重新整理後再試');
+          } else if (err.code === 3) {
+            if (label) label.textContent = '逾時';
+            _showGpsToast('定位逾時，請確認 GPS 已開啟後再試');
+          } else {
+            if (label) label.textContent = '定位失敗';
+            _showGpsToast('無法取得位置，請確認 GPS 已開啟');
+          }
+          setTimeout(_resetGpsBtn, 2500);
+        },
+        { enableHighAccuracy: true, timeout: 10000, maximumAge: 30000 }
+      );
+    };
+
+    // First-visit pulse
+    (function() {
+      var btn = document.getElementById('gps-btn');
+      if (!btn) return;
+      var seen = false;
+      try { seen = localStorage.getItem(_GPS_HINT_KEY) === '1'; } catch {}
+      if (seen) return;
+      btn.classList.add('first-visit');
+      function markSeen() {
+        btn.classList.remove('first-visit');
+        try { localStorage.setItem(_GPS_HINT_KEY, '1'); } catch {}
+      }
+      btn.addEventListener('animationend', markSeen, { once: true });
+      setTimeout(markSeen, 7000); // fallback
+    })();
+
+    // Place chip strip
+    (function() {
+      var chips = document.querySelectorAll('.place-chip');
+      if (!chips.length) return;
+      chips.forEach(function(chip) {
+        chip.addEventListener('click', function() {
+          var lat = parseFloat(chip.dataset.lat);
+          var lng = parseFloat(chip.dataset.lng);
+          chips.forEach(function(c) { c.classList.remove('active'); });
+          chip.classList.add('active');
+          if (window._mapApi) window._mapApi.flyTo(lat, lng, 17);
+        });
+      });
+    })();
+  </script>
+</body>
+</html>

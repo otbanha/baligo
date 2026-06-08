@@ -1,0 +1,379 @@
+---
+slug: canggu-guide
+title: 【2026 坎古攻略】坎古旅遊地圖 100 選：網紅咖啡廳、衝浪秘景與最潮市集全收錄
+description: >-
+  走入峇里島最型嘅區域！呢篇終極攻略揭示坎古 (Canggu) 100 個必去景點，包括 Instagram 熱門打卡咖啡廳、連續兩年爆紅嘅 La Brisa
+  週末市集、世界級衝浪點同隱藏版日落酒吧。帶你深入坎古嘅創意靈魂，體驗最地道嘅峇里島時尚生活。
+pubDate: 2026-02-11T00:00:00.000Z
+updatedDate: 2026-05-26T00:00:00.000Z
+category:
+  - 峇里島分區攻略
+tags:
+  - 峇里島長谷景點推薦
+  - Canggu 咖啡廳打卡
+  - 長谷衝浪教學推薦
+  - 倉古週末市集攻略
+  - 長谷海灘俱樂部評價
+  - 巴厘岛长谷旅游指南
+  - 仓古网红餐厅推荐
+  - 长谷數位遊牧攻略
+  - Canggu travel guide 2026
+  - Best things to do in Canggu Bali
+heroImage: 'https://images.gobaligo.id/vocus/vocus_ec95b2ef12d730465f3dfa13b07341f6.jpg'
+originalUrl: 'https://vocus.cc/article/64db6b7efd897800013a9815'
+lang: zh-hk
+_srcHash: 489cbd5b6d097bb651cf21767afc4a9e
+---
+
+### 峇里島坎古旅遊攻略
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_f62143bd1a7a4f1f22631c0e674aa569.jpg)
+
+峇里島坎古係而家峇里島最熱門嘅區域，冇之一！呢個迷人嘅地方吸引咗無數嘅遊客，無論係想沉浸喺美麗嘅海灘風光中，定係尋找時尚嘅咖啡廳同餐廳，坎古都能夠滿足各種唔同嘅旅行愛好者。
+
+以下我哋為你介紹100個坎古景點, 係你喺坎古唔可以錯過嘅必訪清單，一探呢片潮流與傳統共存嘅寶地。底下有我哋準備嘅攻略地圖同詳細說明, 包括超過30多個坎古美食推薦、3間2024新開幕嘅海灘俱樂部、3個親子樂園、超多必訪景點... 總共有100個景點收集, 係你成為峇里島旅遊專家嘅唯一攻略!
+
+![可以放大/保存的長谷攻略地圖](https://images.gobaligo.id/vocus/vocus_52e0ae108984926e69a7f31bd7232681.png)
+
+可以放大/保存嘅坎古攻略地圖
+
+## 巴圖伯隆海灘 (Batu Bolong Beach) 衝浪（👉🏼地圖：[坎古必訪景點](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)）
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_746c8e4349c70e6b5b774f1bfdbbe125.jpg)
+
+巴圖伯隆海灘係坎古區域最熱門嘅海灘，呢度雖然浪比較大啲，比較適合有衝浪經驗嘅人，沙灘上仲有好多衝浪學校可以選擇。呢度唔單止係一個放鬆心情嘅好地方，仲係學習衝浪嘅理想場所。當你踏上柔軟嘅沙灘，聽住波浪拍打嘅聲音，你將會感受到一種無與倫比嘅海灘體驗。
+
+位置圖可以參考最下面嘅「坎古攻略地圖」
+
+> 巴圖伯隆沙灘[兩小時衝浪教學](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32669-surfing-lesson-old-mans-beach-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd23f3ea4ef)
+
+> [Berawa Beach 滑浪教學](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917600&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F95872-surfing-lesson-canggu-bali-korean-speaking-instructor%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7955d3661b)
+
+> [Surf Blue Waves 滑浪課程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F137189-surfing-lesson-in-canggu-bali-by-surf-blue-waves%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd4402db3d3)
+
+## **喺夕陽沙灘享受美食（👉🏼地圖：**[坎古必訪景點](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_81ffd3b9fb1d01235e888d9ea583959a.jpg)
+
+坎古嘅海灘區域有好多迷人嘅餐廳，特別係喺夕陽時分。揀一間位於沙灘上嘅餐廳，享受美味嘅當地同國際美食，同時沐浴喺夕陽嘅金黃光芒中。呢種用餐體驗絕對會為你嘅峇里島之旅增添浪漫色彩。
+
+## **沉浸喺海灘俱樂部嘅樂趣中（👉🏼地圖：**[坎古必訪景點](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_3a943928e41a400088025840e732cf37.jpg)
+
+坎古以其潮流同現代氛圍嘅海灘俱樂部而聞名，呢度嘅俱樂部結合咗音樂、美食同泳池，營造出一個令人難以忘懷嘅環境。Atlas Beach Fest、Finns Beach Club、Cafe del Mar、同[被譽為峇里島最美餐廳嘅La Brisa](/blog/canggu-la-brisa-restaurant-guide/)等地方係你品味美酒、欣賞日落嘅理想場所，同時仲可以參與各種有趣嘅活動。
+
+> Atlas Beach Fest 全亞洲最大嘅海灘俱樂部[優惠入場券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80472-atlas-beach-club-admission-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad7b2e5830)
+
+> Finns Beach Club海灘俱樂部[暢玩通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14201-finns-beach-club-pass-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92e834a4de)
+
+> Cafe del Mar海灘俱樂部[一日通行證](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F85626-cafe-del-mar-beach-club-day-pass-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D07c5d6c77c)
+
+> Vue Beach Club 海灘俱樂部[一日通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F22304-vue-beach-club-day-pass-canggu-bali%2F)
+
+> [La Brisa 官網](https://labrisa-bali.com/)
+
+## **夜晚嘅歡樂時光（👉🏼地圖：**[坎古必訪景點](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_a177c09bc3d7bcaccf7bda112617a516.jpg)
+
+坎古嘅夜生活同樣充滿活力，太陽落山之後，呢個地方就變得更加熱鬧。夜店同酒吧散發住各種音樂風格，無論你鍾意放鬆嘅爵士樂定係激動人心嘅電子音樂，都能夠喺呢度搵到適合自己嘅場所。
+
+> [Atlas Superclub 入場券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F83936-w-atlas-superclub-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df3550d2c3d)
+
+## **坎古購物（👉🏼地圖：**[坎古必訪景點](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_eb4b84e671cf94d87ca3f2397d58e42c.jpg)
+
+坎古區域係峇里島購物嘅熱門地點之一，尤其係[Love Anchor](https://www.loveanchorcanggu.com/)、[Canggu Center](https://www.canggucenter.com/) 同 [Shocked Dog Market Canggu](https://shockeddogcanggu.com/)。呢三個地方擁有多樣性嘅商品，從當地手工藝品到時尚潮流，都能夠滿足你嘅購物慾望。漫遊於呢啲獨特嘅商店中，你可能會搵到一啲獨特嘅峇里島紀念品。
+
+位置圖可以參考最下面嘅「坎古攻略地圖」
+
+## **La Brisa嘅Sunday Market（👉🏼地圖：**[坎古必訪景點](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+
+https://youtube.com/shorts/f0N6FE2dxys
+
+La Brisa係坎古地區一家享有盛譽嘅海灘俱樂部，而佢哋嘅Sunday Market更加係每週一次激動人心嘅活動。喺呢個市集上，你將有機會發現當地藝術家嘅手工藝品、獨特嘅手工製品以及當地新鮮食材。呢個唔單止係一個品味當地特色嘅好地方，仲係同當地人/外國人互動、感受佢哋熱情嘅場合。
+
+La Brisa嘅Sunday Market提供咗一個獨特嘅購物體驗，等你可以喺峇里島之旅中帶返啲獨特而美好嘅回憶。
+
+## 薩瑪迪假日市集 Samadi Sunday Market (📌[地圖](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing))
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_89b4424ac71b1812936b12f6f58b9ec5.jpg)
+
+[Samadi Sunday Market](http://www.samadisupermarket.com/) 係坎古地區一個受歡迎嘅星期日市場。佢位於Echo Beach海灘附近。市場每星期日上午8點至下午4點開放。
+
+Samadi Sunday Market 以佢嘅有機農產品同手工藝品聞名。市場上有各式各樣嘅攤位，出售新鮮生果、蔬菜、肉類、魚類同穀物。此外，仲有好多攤位出售手工製作嘅服飾、珠寶、家居用品同紀念品。
+
+Samadi Sunday Market 係一個購買本地產品同支持本地企業嘅好地方。佢亦係一個放鬆身心、享受美食同音樂嘅好地方。
+
+## **參加瑜伽課程**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_952c13aaddcff88cd46aaad083803bc2.jpg)
+
+坎古以其豐富嘅瑜伽場所聞名，呢度有各式各樣嘅瑜伽工作室同中心。喺清晨或者傍晚，參加一堂海灘邊嘅瑜伽課程，感受大自然嘅和諧，等身心靈得到平靜同放鬆。
+
+> [坎古觀音瑜伽體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F96815-yoga-experience-guan-yin-yoga-shala-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D296be8316d)
+
+> 坎古 [Spa & Yoga高級體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
+
+> [Canggu Yoga Centre 瑜伽課程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86228-yoga-class-yoga-class-canggu-yoga-centre-pererenan-bali%2F)
+
+> [小狗瑜伽課程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144704-puppy-yoga-class-in-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da834fb5c5a) 同可愛狗狗一齊做瑜伽嘅奇特體驗
+
+## **動手學習烹飪嘅樂趣**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_6a907aaabaa50f66e0abf3168adf01ae.jpg)
+
+坎古地區仲提供烹飪課程，等你有機會深入了解當地嘅美食文化。喺呢度，你可以學習點樣準備峇里島特色菜式，體驗當地嘅飲食傳統，同時亦可以同當地廚師建立深厚嘅交流。
+
+> 坎古[烹飪課程文化體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
+
+> [Blou Cafe 坎古 餐飲同烹飪課程體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F113828-dining-and-cooking-class-experience-at-blou-cafe-canggu%2F%3Fspm%3DPOI_Destination.TTDActivity%3Aany%3A%3ApoiSeoActRecommendV2%3AActivity_LIST%26clickId%3D23c16646d2)
+
+### 各種體驗課程嘅樂趣
+
+> [ZINFIT健身房](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F157767-zinfit-gym-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D300e2a24cf)
+
+> [陶藝/繪畫工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144332-pottery-or-painting-workshop-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc0c0aa776c)
+
+> [蠟燭製作工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144526-candle-making-workshop-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0cee806a03)
+
+> [調製香水精油工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F144531-perfumery-body-oil-workshop-at-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2926bb5447)
+
+> [銀飾製作工坊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F122280-silver-jewelry-making-class-in-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D914d183a6a)
+
+## **文化饗宴嘅用餐體驗**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_2c2ca051f028f10fefdad167d643fb3e.jpg)
+
+喺坎古品嚐美食唔單止係味覺嘅享受，仲包含咗文化同藝術嘅饗宴。有啲餐廳會提供文化表演，例如峇里島舞蹈同音樂，為用餐體驗增添咗獨特嘅風采。
+
+> [坎古文化饗宴用餐券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90526-dining-experience-hotel-tugu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db101cc332d)
+
+## 參觀海神廟**（👉🏼地圖：**[坎古必訪景點](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_27727cc971e3c80e5832f4bb4398567c.jpg)
+
+喺坎古以北唔遠嘅地方，你絕對唔可以錯過一個古老而神聖嘅景點，就係「海神廟（Pura Tanah Lot）」。呢座寺廟建喺海岸嘅巨大岩石上，係峇里島最著名嘅海濱寺廟之一。喺日落時分，寺廟嘅景色特別壯觀，太陽嘅金光照射喺廟宇上，形成一幅令人難以置信嘅風景。除咗欣賞美景，你仲可以感受到當地宗教文化嘅深厚底蘊，呢絕對係一場充滿靈性同歷史意義嘅參觀之旅。海神廟嘅詳細介紹、拜訪禁忌[請睇呢度](/blog/bali-tanah-lot-guide/)。
+
+> [專車接送海神廟之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F152-tanah-lot-sunset-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25157e7304)
+
+> [水神廟 & Jatiluwih梯田 & 海神廟一日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917600&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F11369-ulun-danu-beratan-jatiluwih-rice-terraces-tanah-lot-day-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ded81bfeaf4)
+
+> [峇里島熱門景點＆海神廟觀光之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917600&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F943-private-unesco-heritage-sites-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4428aa9e76)
+
+> 海神廟[De Jukung Resto And Bar 美食體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7e69998076)
+
+## 沙灘上騎馬**（👉🏼地圖：**[坎古必訪景點](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_e13018219f8210353afd1681c4276881.png)
+
+喺坎古北邊嘅Pig Stone Beach，你將有機會參與令人難忘嘅沙灘騎馬體驗。呢度嘅沙灘寬闊、平坦，沿住蔚藍嘅海洋延伸，提供咗絕佳嘅騎馬場地。呢個係一個令人放鬆嘅活動，讓你可以沉浸喺海風拂面同悠然嘅馬背之上，欣賞住日落或日出嘅美景。無論你係初學者定係經驗豐富嘅騎手，呢個活動都能帶俾你難忘嘅回憶。
+
+> [沙灘騎馬體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D509d71363f)
+
+## 沙灘ATV
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_27db942cd662ee9234e50f4f6aa3e50e.png)
+
+一般峇里島嘅ATV冒險都係喺叢林中進行，穿梭於茂密嘅熱帶植被同崎嶇嘅地形之間，體驗刺激與自然嘅結合。然而，峇里島嘅海灘ATV冒險卻提供咗截然不同嘅體驗，讓你能夠喺沙灘上馳騁，同時欣賞令人驚歎嘅海岸景色。海浪拍打嘅聲音、微風輕拂臉龐，以及海岸線嘅壯麗美景，為呢場冒險增添咗獨特嘅魅力。呢種海洋、沙灘同ATV冒險嘅獨特結合，創造咗一場難忘嘅視覺與感官盛宴。
+
+喺海灘上乘坐ATV唔單止係一項刺激嘅活動，更係一項適合團體嘅冒險體驗。你可以同朋友或家人一齊騎住ATV穿過傳統村莊、翠綠嘅稻田，最後抵達遼闊嘅海灘。經驗豐富且專業嘅導遊將帶領你穿越精心設計嘅賽道，並提供所有必要嘅安全裝備同設備，確保你嘅冒險既安全又充滿樂趣。唔好忘記捕捉你或你嘅團隊沿住海岸騎行嘅動作鏡頭，以蔚藍嘅海洋作為令人驚歎嘅背景，留下珍貴嘅回憶。
+
+> [海灘ATV越野騎行體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1013908&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94062-atv-ride-experience-on-beach-bali-tabanan-bali-indonesia%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7d8ce84cbf)
+
+## **咖啡廳美食探險之旅（👉🏼地圖：**[**坎古飲食/咖啡廳推薦Canggu** Cafe & Restaurants](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_fb14d08a33d5af623ce7a1edbcc7d450.jpg)
+
+坎古以其獨特嘅咖啡文化而聞名，呢度擁有各種風格各異嘅咖啡店。從古老嘅傳統風格到現代潮流，你可以進行一場峇里島嘅咖啡店探險之旅，品味到豐富多樣嘅咖啡口味同美食選項。
+
+![Canggu 攻略地圖](https://images.gobaligo.id/vocus/vocus_bf1ab12e7f5b71849c2a0a8aefd2a3ef.png)
+
+坎古 攻略地圖
+
+下面嘅「坎古攻略地圖」入面有超過30間美食/咖啡廳介紹，食貨朋友唔好錯過呀～
+
+![我們介紹了30多家Canggu的美食餐廳，請點我！](https://images.gobaligo.id/vocus/vocus_36a3c4791af3343f16222c849dcbed08.jpg)
+
+[我哋介紹咗30幾間坎古嘅美食餐廳，請撳我！](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)
+
+## 優惠嘅美食饗宴**（👉🏼地圖：**[**優惠嘅美食饗宴**](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)）
+
+🌟Google評價4.3粒星海神廟[De Jukung Resto And Bar 美食體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94323-de-jukung-resto-and-bar-tanah-lot-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7e69998076)
+
+🌟Google評價4.8粒星 [Paed Thai Canggu 用餐體驗優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917532&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110447-paed-thai-canggu-dining-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddbf74727c1)
+
+🌟Google評價4.8粒星日本餐廳 [Shichirin Canggu 用餐體驗優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917532&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110371-shicirin-canggu-dining-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd03cff2ba2)
+
+🌟Google評價4.9粒星 [Seabird Canggu 用餐優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917532&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110101-seabird-canggu-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D51fc47e42a)
+
+🌟Google評價5.0粒星滿分！ [Workmates Canggu 用餐特價](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917532&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110093-workmates-canggu-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D80c134abd4)
+
+🌟Google評價4.8粒星意大利餐廳 [Cantina Classe 用餐優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917532&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110002-cantina-classe-dining-experience-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2c1042f6fb)
+
+🌟Google評價4.9粒星 [Paed Thai Canggu 用餐優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110447-paed-thai-canggu-dining-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0bc113e630)
+
+🌟Google評價4.6粒星 2025新開幕嘅[五星級度假村坎古麗晶用餐](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1069946&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F146888-canggu-culinary-journey-at-regent-resort%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D800104d0d5)
+
+### 龍蝦先生 Mr. Lobster 坎古
+
+台灣人經營嘅平價海鮮店，料理新鮮實在，人氣超高，成日有優惠回饋俾社團成員。推薦俾海鮮控！呢度有[聯絡方式](/blog/mr-lobster-seafood-restaurant-bali/)地址，建議同許老闆提前預約喔！
+
+### **品味美味且經濟實惠嘅當地美食**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_47ffeccd5dfebdb63eca42f57f2f7695.jpg)
+
+嚟到峇里島當然要試吓當地美食！而峇里島有咩當地美食呢？請睇吓小傑介紹嘅「[峇里島十大當地美食](/blog/bali-travel-tips/)」，呢將會係一場美食嘅冒險之旅。
+
+## The Wheel 摩天輪**（👉🏼地圖：**[坎古必訪景點](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_5cc13d1fa69600daaa8c19f4e6c13164.jpg)
+
+喺印尼峇里島海邊嘅最高觀景點，亦即係位於坎古嘅標誌性摩天輪上，從全新高度探索峇里島之美！從高於地面42.5米嘅高度，飽覽峇里島最高建築嘅壯麗景色：鬱鬱蔥蔥嘅景觀，同埋沙灘與大海和諧共存嘅田園詩般海岸線！
+
+無論您係日落愛好者定係海灘愛好者，摩天輪都能提供無與倫比嘅視野，距離沙灘僅500米。喺晴朗嘅日子裡，您甚至可以瞥見周圍島嶼嘅遠山輪廓，為您嘅體驗增添一絲魔力！
+
+當摩天輪緩緩旋轉時，您將有充裕嘅時間捕捉每一個令人屏息嘅瞬間。無論係金色夕陽西下時分，將整個海岸線染成溫暖嘅橘紅色調，定係清晨第一縷陽光灑向碧藍海面嘅寧靜時刻，呢度都係攝影愛好者嘅天堂。
+
+建議您選擇黃昏時分前往，既能欣賞到白天嘅蔚藍海景，又能等待夜幕降臨時華燈初上嘅璀璨夜色，讓呢趟摩天輪之旅成為您峇里島之行最難忘嘅回憶！
+
+> [購票連結](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1123159&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F174039-the-wheel-bali-ticket-in-canggu%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D73b99afc33)
+
+## **享受水療SPA**
+
+峇里島係水療SPA嘅天堂，而坎古地區亦都有啲高質素嘅水療中心。喺呢度，你可以沉浸喺豐富嘅水療選項中，享受按摩、身體磨砂同面部護理，等身心都得到極致嘅放鬆。
+
+> [Padma Spa Treatment](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F47667-padma-spa-treatment-plataran-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4b114890ac)
+
+> [Goldust Spa 黃金面部護理按摩體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772420&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62617-goldust-beauty-lounge-treatment-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da0f89cc550)
+
+> [Svaha Spa Nelayan水療體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917532&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F112816-svaha-spa-nelayan-in-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7d78cb893d)（Klook五星好評）
+
+> [Svaha Spa Padang Linjong](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917532&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F111830-svaha-spa-padang-linjong-in-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1ab782100e)
+
+> [Svaha Spa水療按摩體驗 Bato Bolong](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917532&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F111938-svaha-spa-batu-bolong-in-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0288bb5c75)
+
+> 坎古 [到府按摩服務](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
+
+## 親子樂園 **（👉🏼地圖：**[坎古必訪景點](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+
+### 1.**Mookiland Park Bali**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_90b45ff0d624893de0fb9692de75864d.jpg)
+
+Mookiland Park 係一個專為家庭設計嘅遊樂場，佔地 5,000 平方公尺。Mookiland Park 提供多種遊樂設施，包括攀石牆、障礙賽道同充氣城堡，每個小朋友都可以搵到適合自己嘅遊戲項目。呢啲設施唔單止有助於小朋友消耗精力，仲可以俾佢哋享受無盡嘅歡樂。詳細介紹同優惠票[請睇呢度](/blog/mookiland-park-bali-family/)。
+
+### 2.Mai Main Playground
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_a0be964afc58c8a68723be8041b4107e.jpg)
+
+Mai Main (發音為：my ma-in 麥馬印) 係坎古嘅一個兒童遊樂場，專為家庭設計嘅理想目的地。呢度提供各式各樣嘅活動，包括充滿樂趣嘅室內同室外遊樂設施，俾小朋友盡情玩耍。另外，仲有寵物餵食區，俾小朋友可以近距離同可愛嘅動物互動。
+
+遊樂場內設有餐廳，俾家長可以喺舒適嘅環境中享受美食，輕鬆照顧小朋友嘅需求。呢度係全家人週末度假嘅完美場所，同家人同親人一齊喺Mai Main度過一個充滿歡笑同溫馨嘅假日時光啦！
+
+呢度有[Klook優惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=933324&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F128177-mai-main-playground-canggu-bali-admission-and-dining-voucher%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D72492ee430)
+
+### 3.Magic Garden🌸
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_c8bbf58bba752051e9dd287f40fdb9e5.jpg)
+
+位於海神廟附近嘅 **Magic Garden（魔法花園）** 係2024/11新開幕嘅自然公園，非常適合家庭同親子遊。呢座佔地3600平方米嘅景點擁有豐富嘅植物同多樣嘅互動體驗，既有教育意義又充滿樂趣。
+
+園區內嘅亮點包括 **蘭花園** 同 **蝴蝶園**，小朋友可以近距離觀察蝴蝶嘅生態，學習佢哋喺維護自然平衡中嘅重要性。另外，園內仲設有 **植物博物館**，展示400幾種珍稀植物同500種蘭花，俾小朋友喺遊玩嘅同時了解自然同保育嘅知識。
+
+Magic Garden 唔單止以其美麗嘅景觀吸引人，仲提倡永續發展，保留70%嘅綠地，並種植咗超過1.5萬棵樹。門票價格只需 IDR 150,000（約USD$10），經濟實惠，係親子出遊嘅理想選擇。
+
+遊覽完 Magic Garden 之後，仲可以去附近嘅 **Luna Beach Club** 或者 The Dome 多媒體展演，為全家人留下更多難忘嘅回憶！ 🌿
+
+> Magic Garden[官網IG](https://www.instagram.com/magicgarden.nature/)
+
+### 4.Aurora Media Park
+
+峇里島坎古嘅新景點——**Aurora Media** **Park Bali**，係一個結合自然同多媒體互動技術嘅全新地標，位於塔巴南縣Nuanu創意區。呢個約1公里長嘅開放式森林體驗，運用**AI技術**打造出沉浸式嘅光影同聲音互動環境，讓遊客喺約5,000平方米嘅自然森林中，感受到視覺、聽覺同心靈嘅多重震撼，彷彿進入另一個維度。透過AI技術，遊客能體驗到魔幻嘅燈光互動，例如感應光束、動態光影同互動鏡面等裝置，創造出獨一無二嘅探索旅程。
+
+Aurora Park唔單止係夜間遊覽嘅景點，更係一個結合藝術、自然同科技嘅沉浸式空間，適合鍾意探索同冒險嘅遊客前來感受獨特魅力。無論係發光嘅竹燈飾、螺旋日晷，定係水晶綠洲嘅魔幻互動，都讓人流連忘返。
+
+詳細介紹請睇[呢度](/blog/aurora-media-park-canggu/)
+
+### 5.Pacha Alpaca 羊駝互動體驗
+
+如果你正在搵一個適合全家出遊嘅峇里島景點，位於坎古嘅 **Pacha Alpaca 羊駝互動體驗** 絕對係理想選擇！呢度唔單止可以讓小朋友同溫馴可愛嘅羊駝近距離接觸，仲可以通過導覽同工作人員嘅講解，學到關於羊駝嘅知識，係一場充滿教育意義嘅自然之旅。家長可以同小朋友一齊餵食、撫摸羊駝，甚至參與野餐或者攝影活動，創造難忘嘅親子回憶。
+
+Pacha Alpaca 提供多種套票選擇，包括導覽互動、羊駝攝影、野餐體驗以及竹屋住宿，滿足唔同家庭嘅需求。無論係想放鬆身心，定係讓小朋友喺大自然中盡情探索，呢度都能為全家人帶來一場療癒而歡樂嘅冒險。快啲預訂你嘅專屬體驗，同羊駝共度一段美好時光啦！詳細介紹&官網預訂連結請睇[呢度](/blog/pacha-alpaca-family-canggu/)。
+
+## 2024新開幕嘅海灘/泳池俱樂部**（👉🏼地圖：**[坎古必訪景點](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)**）**
+
+### 1.Sol Rooftop
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_9dddf3278748a73da1e9c2593325673c.jpg)
+
+Sol Rooftop 係坎古新開嘅海灘俱樂部之一，位於可以望到海景嘅屋頂。雖然冇直接通往海灘嘅路，但呢度有令人驚嘆嘅日落美景，你可以喺泳池邊飲雞尾酒，享受美食，欣賞靚景。
+
+預約網址：<https://solbali.com/>
+
+### 2.Luna Beach Club
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_88a66c3d613877ef9820074d8e96ce5b.jpg)
+
+Luna Beach Club 係位於坎古北邊嘅新海灘俱樂部，距離坎古大約30分鐘車程。呢個俱樂部以其獨特嘅圓形劇場風格設計而聞名，周圍環繞住郁郁蔥蔥嘅自然景觀，為訪客提供咗一個放鬆同享受嘅理想地方。
+
+Luna Beach Club嘅設計融合咗生態意識，創造出一個充滿活力同探索性嘅氛圍。呢度嘅建築風格獨特，可以俯瞰海洋，為各種活動提供咗完美嘅背景。俱樂部提供多種活動，包括派對、音樂表演同美食體驗。訪客可以喺泳池邊放鬆，或者喺日落時分享受美麗嘅景色。
+
+預約網址：<https://lunabeachclubbali.com/>
+
+### 3. Le Bajo Pool Club
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_d197aa7477e317e43dc1517bd0cf1baa.jpg)
+
+Le Bajo 係一間全新開幕嘅日間俱樂部，擁有獨特嘅Labuan Bajo主題。如果你唔太熟悉，呢個係位於印尼另一座島嶼嘅小鎮，係通往科莫多國家公園嘅門戶（該公園因科莫多巨蜥而聞名）。
+
+呢間日間俱樂部嘅核心係一個多層次嘅大型游泳池，形狀如同一隻科莫多巨蜥，四周環繞住大量嘅日光床同小屋。雖然距離海岸有一段距離，但沙灘同棕櫚樹依然賦予呢度一種熱帶沙灘俱樂部嘅涼爽氛圍。
+
+預約網址：<https://le-bajo.com/>
+
+## Nuanu Creative City
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_a20abbecd0780b0d07b64ecbf149c0d4.jpg)
+
+坎古北邊嘅Nuanu Creative City係一個融合創意、文化、藝術、環保、自然等元素嘅新興園區。
+
+呢度除咗有2024開幕最新嘅高檔海灘俱樂部，仲有好多家庭/親子景點、科技+傳統魔幻嘅大型表演。請繼續睇Nuanu Creative City攻略喺[呢度](/blog/nuanu-creative-city-luna-guide/)
+
+## **享受豪華波西米亞風格嘅酒店**
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_ca9b675b21d67d71df79f31c8982155b.jpg)
+
+坎古地區嘅酒店種類繁多，其中以波西米亞風格嘅酒店最為獨特。呢啲酒店以其獨特嘅設計、精緻嘅裝飾同放鬆嘅氛圍而聞名，提供俾你一個別開生面嘅住宿體驗。無論係懷舊風情定係現代時尚，你都能夠搵到符合心意嘅波西米亞風格酒店。請睇我哋嘅「[坎古 你唔可以錯過嘅住宿推薦](/blog/canggu-top-hotels-guide/)」
+
+如果你偏好villa，呢一篇可唔可以錯過「[坎古區私人泳池別墅推薦 Canggu Villa 你唔可以錯過嘅峇里島別墅](/blog/canggu-villas-guide/)」
+
+{{block:住宿}}
+
+### 租借大型浮床影靚相
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_59b46fc9e9849c2ad46da7dd46a3eae6.jpg)
+
+搞掂咗住宿嘅選擇，喺靚靚嘅酒店/villa入面，點可以唔影番張靚相呢！？呢個時候，有造型嘅大型浮床係喺熱帶島嶼度假時，泳池入面不可或缺嘅擺拍道具。然而，大型浮床加上打氣機，體積唔細，重量亦唔輕，呢啲都令佢哋唔太方便帶出國。但係有咗峇里島呢項服務，你無需煩惱呢啲問題。只要喺南部地區入住，例如庫塔、Legian、水明漾、坎古、烏魯瓦圖、努沙杜瓦同沙努爾，你便能輕鬆享受到好多種造型嘅大型浮床所帶嚟嘅樂趣。
+
+呢項服務直接送到你所入住嘅酒店或別墅門口，專人負責充氣同放氣，為你帶嚟無盡嘅泳池樂趣，而無需攜帶呢啲笨重嘅物品前往度假地。呢可算係一種度假嘅極致享受，讓你輕鬆放鬆喺峇里島嘅陽光同泳池中，享受悠閒時光。
+
+> [大型浮床租借服務](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775806&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F4837-pool-float-rental-bali%2F)
+
+{{block:canggu}}
+
+如果你想更了解坎古，點擊下方詳細視頻說明，即刻揭開坎古嘅神秘面紗，等我哋帶你穿梭呢片令人心馳神往嘅美麗風景，為你嘅峇里島之旅增添難忘回憶。快啲點擊連結，開啟一場奇幻探險啦！
+
+> ▶[坎古攻略上集](https://youtu.be/4tVq4SFfjMw)
+> ▶[坎古攻略下集](https://youtu.be/aglSSIW2vZg)
+
+## 感受坎古
+
+想真實感受坎古嘅樣貌，就嚟睇下小傑嘅坎古視頻啦：
+
+https://youtu.be/4tVq4SFfjMw
+
+https://youtu.be/aglSSIW2vZg
+
+{{block:klook}}

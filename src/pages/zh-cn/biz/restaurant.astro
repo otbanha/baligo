@@ -1,0 +1,23 @@
+---
+import BizLayout from '../../../layouts/BizLayout.astro';
+import BizCategory from '../../../components/BizCategory.astro';
+import { getBizListings } from '../../../lib/getBizListings';
+
+const all = await getBizListings();
+const listings = all.filter(b => b.category === 'restaurant');
+const featured = listings.filter(b => b.featured).sort(() => Math.random() - 0.5);
+const regular  = listings.filter(b => !b.featured);
+---
+
+<BizLayout
+  title="巴厘岛中文餐厅推荐"
+  description="巴厘岛提供中文服务的餐厅美食推荐，含中文菜单、华人店主等资讯。"
+>
+  <BizCategory
+    title="🍜 餐厅 / 美食"
+    description="在巴厘岛找到说中文的餐厅，轻松点餐不踩雷"
+    featured={featured}
+    regular={regular}
+    lang="zh-cn"
+  />
+</BizLayout>

@@ -1,0 +1,22 @@
+---
+import BizLayout from '../../layouts/BizLayout.astro';
+import BizCategory from '../../components/BizCategory.astro';
+import { getBizListings } from '../../lib/getBizListings';
+
+const all = await getBizListings();
+const listings = all.filter(b => b.category === 'spa');
+const featured = listings.filter(b => b.featured).sort(() => Math.random() - 0.5);
+const regular  = listings.filter(b => !b.featured);
+---
+
+<BizLayout
+  title="峇里島中文 SPA / 美容美甲推薦"
+  description="峇里島提供中文服務的 SPA、按摩、美甲、美容推薦。"
+>
+  <BizCategory
+    title="💆 美容美甲 / SPA"
+    description="峇里島頂級 SPA 體驗，中文溝通讓你完全放鬆"
+    featured={featured}
+    regular={regular}
+  />
+</BizLayout>

@@ -1,0 +1,302 @@
+---
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import TopStrip from '../../../components/TopStrip.astro';
+import Footer from '../../../components/Footer.astro';
+
+const supabaseUrl  = import.meta.env.PUBLIC_SUPABASE_URL;
+const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead title="我的帳號 — Go Bali Go" description="" noSuffix />
+  <meta name="robots" content="noindex, nofollow" />
+</head>
+<body>
+  <Header lang="blog" />
+  <TopStrip lang="zh-tw" />
+
+  <main class="account-page">
+    <div class="account-container">
+
+      <div id="auth-gate" style="display:none" class="account-gate">
+        <p>請先登入才能查看帳號</p>
+        <a href="/forum/login/?next=/forum/account/" class="btn-login">使用 Google 登入</a>
+      </div>
+
+      <div id="account-content" style="display:none">
+        <h1 class="account-title">我的帳號</h1>
+
+        <section class="account-section">
+          <h2 class="section-title">個人資料</h2>
+          <div class="profile-card">
+            <div id="profile-avatar" class="profile-avatar-wrap"></div>
+            <div class="profile-info">
+              <div class="profile-name-row">
+                <span id="profile-name" class="profile-name"></span>
+                <button id="edit-name-btn" class="btn-edit">編輯顯示名稱</button>
+              </div>
+              <div id="role-badge-wrap" class="role-badge-wrap"></div>
+              <p class="profile-email" id="profile-email"></p>
+            </div>
+          </div>
+
+          <div id="edit-name-form" style="display:none" class="edit-name-form">
+            <input type="text" id="new-display-name" maxlength="40" placeholder="顯示名稱" class="name-input" />
+            <button id="save-name-btn" class="btn-save">儲存</button>
+            <button id="cancel-name-btn" class="btn-cancel">取消</button>
+            <div id="name-error" class="name-error" style="display:none"></div>
+          </div>
+        </section>
+
+        <section class="account-section">
+          <h2 class="section-title">我的討論</h2>
+          <div id="my-reports" class="my-reports">
+            <div class="loading-text">載入中⋯</div>
+          </div>
+        </section>
+
+        <section class="account-section account-section--danger">
+          <h2 class="section-title">帳號操作</h2>
+          <div class="danger-actions">
+            <button id="logout-btn" class="btn-logout">登出</button>
+            <a href="/forum/help/redact/" class="btn-redact">申請撤銷通報</a>
+          </div>
+        </section>
+      </div>
+    </div>
+  </main>
+
+  <Footer />
+</body>
+</html>
+
+<script define:vars={{ supabaseUrl, supabaseAnon }}>
+import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ createClient }) => {
+  const supabase = createClient(supabaseUrl, supabaseAnon, {
+    auth: { flowType: 'pkce', persistSession: true },
+  });
+
+  const STATUS_LABELS = { pending: '審核中', approved: '已核准', rejected: '已拒絕' };
+
+  function sanitize(str) {
+    if (str == null) return '';
+    const div = document.createElement('div');
+    div.textContent = String(str);
+    return div.innerHTML;
+  }
+
+  async function loadAccount(session) {
+    const userId = session.user.id;
+
+    const { data: profile } = await supabase
+      .from('user_profiles')
+      .select('display_name, avatar_url, approved_count, role')
+      .eq('id', userId)
+      .single();
+
+    // Avatar
+    const avatarWrap = document.getElementById('profile-avatar');
+    if (profile?.avatar_url) {
+      avatarWrap.innerHTML = `<img src="${sanitize(profile.avatar_url)}" class="profile-avatar" alt="" />`;
+    } else {
+      avatarWrap.innerHTML = `<span class="profile-avatar-placeholder">👤</span>`;
+    }
+
+    // Name
+    document.getElementById('profile-name').textContent = profile?.display_name ?? '匿名';
+    document.getElementById('profile-email').textContent = session.user.email ?? '';
+
+    // Role badge (only show if moderator or admin)
+    const roleBadgeWrap = document.getElementById('role-badge-wrap');
+    if (profile?.role === 'admin') {
+      roleBadgeWrap.innerHTML = `<span class="role-badge role-badge--admin">管理員</span>`;
+    } else if (profile?.role === 'moderator') {
+      roleBadgeWrap.innerHTML = `<span class="role-badge role-badge--mod">版主</span>`;
+    }
+
+    // Edit name
+    document.getElementById('edit-name-btn').addEventListener('click', () => {
+      document.getElementById('edit-name-form').style.display = 'flex';
+      document.getElementById('new-display-name').value = profile?.display_name ?? '';
+    });
+    document.getElementById('cancel-name-btn').addEventListener('click', () => {
+      document.getElementById('edit-name-form').style.display = 'none';
+    });
+    document.getElementById('save-name-btn').addEventListener('click', async () => {
+      const newName = document.getElementById('new-display-name').value.trim();
+      const nameError = document.getElementById('name-error');
+      if (!newName || newName.length < 2) {
+        nameError.textContent = '顯示名稱至少需要 2 個字元';
+        nameError.style.display = 'block';
+        return;
+      }
+      nameError.style.display = 'none';
+      const { error } = await supabase
+        .from('user_profiles')
+        .update({ display_name: newName })
+        .eq('id', userId);
+      if (error) {
+        nameError.textContent = `儲存失敗：${error.message}`;
+        nameError.style.display = 'block';
+        return;
+      }
+      document.getElementById('profile-name').textContent = newName;
+      document.getElementById('edit-name-form').style.display = 'none';
+    });
+
+    // Load reports
+    loadMyReports(userId);
+  }
+
+  async function loadMyReports(userId) {
+    const container = document.getElementById('my-reports');
+    const { data: posts, error } = await supabase
+      .from('posts')
+      .select('id, topic, title, moderation_status, created_at')
+      .eq('user_id', userId)
+      .order('created_at', { ascending: false });
+
+    if (error || !posts || posts.length === 0) {
+      container.innerHTML = '<p class="no-reports">你還沒有發起任何討論。<a href="/forum/immigration/new/">發起第一篇討論</a></p>';
+      return;
+    }
+
+    const TOPICS = { evisa: '電子簽證', voa: '落地簽', aiac: 'AIAC', 'tourism-tax': '旅遊稅', other: '其他' };
+    container.innerHTML = posts.map(r => {
+      const statusClass = r.moderation_status === 'approved' ? 'status--approved' : r.moderation_status === 'rejected' ? 'status--rejected' : 'status--pending';
+      const link = r.moderation_status === 'approved' ? `<a href="/forum/immigration/#${sanitize(r.id)}" class="report-link">查看</a>` : '';
+      return `
+        <div class="my-report-row">
+          <div class="my-report-date">${sanitize(r.title)}</div>
+          <div class="my-report-visa">${sanitize(TOPICS[r.topic] ?? r.topic)}</div>
+          <div class="my-report-status ${statusClass}">${sanitize(STATUS_LABELS[r.moderation_status] ?? r.moderation_status)}</div>
+          <div class="my-report-time">${new Date(r.created_at).toLocaleDateString('zh-TW')}</div>
+          <div>${link}</div>
+        </div>
+      `;
+    }).join('');
+  }
+
+  // Auth
+  supabase.auth.getSession().then(({ data: { session } }) => {
+    if (session) {
+      document.getElementById('account-content').style.display = 'block';
+      loadAccount(session);
+    } else {
+      document.getElementById('auth-gate').style.display = 'flex';
+    }
+  });
+
+  // Logout
+  document.getElementById('logout-btn').addEventListener('click', async () => {
+    await supabase.auth.signOut();
+    window.location.href = '/';
+  });
+});
+</script>
+
+<style>
+.account-page { padding: 2rem 1rem 4rem; }
+.account-container { max-width: 680px; margin: 0 auto; }
+
+.account-gate {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 1rem;
+  padding: 3rem 2rem;
+  background: #fafaf8;
+  border: 1px solid rgba(201,168,76,.2);
+  border-radius: 12px;
+  text-align: center;
+}
+.btn-login {
+  display: inline-block;
+  background: var(--ocean);
+  color: #fff;
+  padding: .65rem 1.5rem;
+  border-radius: 8px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.account-title { font-size: 1.5rem; font-weight: 800; color: var(--ocean); margin: 0 0 1.5rem; }
+
+.account-section {
+  background: #fafaf8;
+  border: 1px solid rgba(201,168,76,.2);
+  border-radius: 12px;
+  padding: 1.3rem;
+  margin-bottom: 1.2rem;
+}
+.account-section--danger { border-color: #fca5a5; background: #fff5f5; }
+.section-title { font-size: .85rem; font-weight: 700; color: var(--ocean); text-transform: uppercase; letter-spacing: .04em; margin: 0 0 1rem; }
+
+/* Profile */
+.profile-card { display: flex; align-items: center; gap: 1rem; }
+.profile-avatar-wrap { flex-shrink: 0; }
+.profile-avatar { width: 52px; height: 52px; border-radius: 50%; object-fit: cover; }
+.profile-avatar-placeholder { font-size: 2.5rem; }
+.profile-info { flex: 1; }
+.profile-name-row { display: flex; align-items: center; gap: .6rem; flex-wrap: wrap; margin-bottom: .3rem; }
+.profile-name { font-size: 1.05rem; font-weight: 700; color: var(--text); }
+.btn-edit { background: none; border: 1px solid #d1c9b5; border-radius: 6px; padding: .2em .6em; font-size: .75rem; cursor: pointer; color: var(--ocean); }
+.role-badge-wrap { margin-bottom: .2rem; }
+.role-badge { display: inline-block; font-size: .75rem; font-weight: 700; padding: .15em .6em; border-radius: 10px; }
+.role-badge--admin { background: rgba(201,168,76,.2); color: #7a5500; border: 1px solid #c9a84c; }
+.role-badge--mod   { background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; }
+.profile-email { font-size: .8rem; color: var(--text-light); margin: 0; }
+
+.edit-name-form { display: flex; flex-wrap: wrap; align-items: center; gap: .5rem; margin-top: .8rem; }
+.name-input { border: 1px solid #d1c9b5; border-radius: 8px; padding: .45rem .7rem; font-size: .9rem; font-family: inherit; }
+.btn-save { background: var(--ocean); color: #fff; border: none; border-radius: 8px; padding: .45rem .9rem; font-size: .88rem; font-weight: 600; cursor: pointer; }
+.btn-cancel { background: none; border: 1px solid #d1c9b5; border-radius: 8px; padding: .45rem .9rem; font-size: .88rem; cursor: pointer; }
+.name-error { font-size: .82rem; color: #c53030; width: 100%; }
+
+/* My reports */
+.loading-text { color: var(--text-light); font-size: .9rem; }
+.no-reports { font-size: .9rem; color: var(--text-light); margin: 0; }
+.no-reports a { color: var(--ocean); }
+
+.my-report-row {
+  display: grid;
+  grid-template-columns: 130px 80px 80px 1fr auto;
+  gap: .5rem;
+  align-items: center;
+  padding: .7rem 0;
+  border-bottom: 1px solid rgba(201,168,76,.1);
+  font-size: .85rem;
+}
+.my-report-row:last-child { border-bottom: none; }
+.my-report-date { font-weight: 600; color: var(--ocean); }
+.my-report-airport { font-size: .75rem; color: var(--text-light); font-weight: 400; }
+.my-report-visa { color: var(--text-light); }
+.my-report-time { color: var(--text-light); font-size: .78rem; }
+.my-report-status { font-weight: 700; font-size: .78rem; }
+.status--approved { color: #166534; }
+.status--rejected { color: #c53030; }
+.status--pending  { color: #92400e; }
+.report-link { font-size: .8rem; color: var(--ocean); text-decoration: none; }
+
+/* Danger */
+.danger-actions { display: flex; gap: .8rem; flex-wrap: wrap; align-items: center; }
+.btn-logout {
+  background: #ef4444; color: #fff;
+  border: none; border-radius: 8px;
+  padding: .55rem 1.2rem;
+  font-size: .9rem; font-weight: 600; cursor: pointer;
+}
+.btn-redact {
+  color: var(--text-light);
+  font-size: .85rem;
+  text-decoration: none;
+}
+.btn-redact:hover { color: var(--ocean); }
+
+@media (max-width: 480px) {
+  .my-report-row { grid-template-columns: 1fr 1fr; }
+  .my-report-time { display: none; }
+}
+</style>

@@ -1,0 +1,210 @@
+backend:
+  name: github
+  repo: otbanha/baligo
+  branch: main
+  base_url: https://baligo-auth.otbanha.workers.dev
+
+media_folder: "public/images"
+public_folder: "/images"
+
+collections:
+  - name: blog
+    label: 文章
+    folder: src/content/blog
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{hour}}{{minute}}{{second}}"
+    sort_field: pubDate
+    sort_direction: Descending
+    sortable_fields:
+      - pubDate
+      - title
+    summary: "{{title}}\n/blog/{{slug}}/"
+    thumbnail_field: heroImage
+    fields:
+      - { label: 標題, name: title, widget: string }
+      - { label: 自訂網址 Slug（選填）, name: slug, widget: string, required: false, hint: "留空則自動以檔名（時間戳）為網址，填入後網址變為 /blog/你的slug/" }
+      - { label: 描述, name: description, widget: text, required: false }
+      - label: 發佈日期
+        name: pubDate
+        widget: datetime
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        format: "YYYY-MM-DD"
+      - label: 發佈時間（整點）
+        name: pubHour
+        widget: number
+        value_type: int
+        min: 0
+        max: 23
+        step: 1
+        required: false
+        hint: "0–23，例如 8 = 早上 8 點，14 = 下午 2 點"
+      - label: 分類
+        name: category
+        widget: select
+        multiple: true
+        required: true
+        options:
+          - 新手指南
+          - 住宿推薦
+          - 峇里島分區攻略
+          - 簽證通關
+          - 叫車包車
+          - 家庭親子
+          - 遊記分享
+          - 美食景點活動
+          - 旅行技巧
+          - 新聞存檔
+      - label: Tags
+        name: tags
+        widget: list
+        required: false
+        hint: "點 Add 新增標籤，每個標籤獨立一項"
+      - { label: 首圖, name: heroImage, widget: image, required: false, hint: "不填則自動抓取內文第一張圖" }
+      - { label: 原始網址, name: originalUrl, widget: string, required: false }
+      - { label: 🔒 私密發布（有連結才能看）, name: private, widget: boolean, required: false, default: false, hint: "勾選後此文章不會出現在文章列表和搜尋，但有直接連結仍可訪問" }
+      - { label: 🔀 H2 區塊亂數排列, name: shuffle_h2, widget: boolean, required: false, default: false, hint: "勾選後每次載入頁面時，H2 標題及其底下的內容區塊會隨機排列順序" }
+      - { label: 內文, name: body, widget: markdown }
+      - label: 影片嵌入
+        name: embeds
+        widget: list
+        required: false
+        summary: "{{fields.position}} - {{fields.url}}"
+        fields:
+          - { label: 插入位置標記, name: position, widget: string, hint: "在內文中輸入 <<video1>> <<video2>> 等標記" }
+          - label: 平台
+            name: platform
+            widget: select
+            options:
+              - { label: YouTube, value: youtube }
+              - { label: Instagram, value: instagram }
+              - { label: TikTok, value: tiktok }
+              - { label: Facebook, value: facebook }
+          - { label: 影片網址, name: url, widget: string }
+
+  - name: promotions
+    label: 促銷活動
+    folder: src/content/promotions
+    create: true
+    slug: "{{year}}-{{month}}-{{day}}-{{hour}}{{minute}}{{second}}"
+    sort_field: title
+    sort_direction: Ascending
+    summary: "{{title}} — 截止：{{expiresAt}}"
+    fields:
+      - { label: 標題（繁體中文）, name: title, widget: string }
+      - { label: "標題 English（選填）", name: title_en, widget: string, required: false }
+      - { label: "標題简体中文（選填）", name: title_zh_cn, widget: string, required: false }
+      - { label: "標題香港繁體（選填）", name: title_zh_hk, widget: string, required: false }
+      - { label: 連結網址, name: url, widget: string }
+      - { label: 封面圖網址（自動抓取後可修改）, name: coverImage, widget: string, required: false }
+      - { label: 備注（內部用）, name: note, widget: string, required: false }
+      - label: 截止日期
+        name: expiresAt
+        widget: datetime
+        required: false
+        date_format: "YYYY-MM-DD"
+        time_format: false
+        format: "YYYY-MM-DD"
+        picker_utc: true
+        hint: "留空表示長期有效"
+
+  - name: blocks
+    label: 內容區塊（繁體中文）
+    folder: src/content/blocks
+    create: true
+    slug: "{{slug}}"
+    filter: {field: title, pattern: "^(?!.*\\(EN\\)|.*\\(ZH-CN\\))"}
+    fields:
+      - { label: 區塊名稱, name: title, widget: string }
+      - label: 區塊類型
+        name: type
+        widget: select
+        options:
+          - { label: 一般內容, value: normal }
+          - { label: 卡片網格（亂數）, value: random-cards }
+          - { label: 文字列表（亂數）, value: random-list }
+        default: normal
+      - label: 亂數顯示數量
+        name: randomCount
+        widget: number
+        default: 5
+        required: false
+        hint: "只有亂數類型才需要填，例如從20個項目中隨機顯示5個"
+      - { label: 內容, name: body, widget: markdown }
+
+  - name: blocks-en
+    label: 內容區塊（English）
+    folder: src/content/blocks/en
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Block Name, name: title, widget: string }
+      - label: Block Type
+        name: type
+        widget: select
+        options:
+          - { label: Normal Content, value: normal }
+          - { label: Card Grid (Random), value: random-cards }
+          - { label: Text List (Random), value: random-list }
+        default: normal
+      - label: Random Display Count
+        name: randomCount
+        widget: number
+        default: 5
+        required: false
+        hint: "Only needed for random types, e.g. show 5 out of 20 items"
+      - { label: Content, name: body, widget: markdown }
+
+  - name: blocks-zh-cn
+    label: 內容區塊（简体中文）
+    folder: src/content/blocks/zh-cn
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: 区块名称, name: title, widget: string }
+      - label: 区块类型
+        name: type
+        widget: select
+        options:
+          - { label: 一般内容, value: normal }
+          - { label: 卡片网格（乱数）, value: random-cards }
+          - { label: 文字列表（乱数）, value: random-list }
+        default: normal
+      - label: 乱数显示数量
+        name: randomCount
+        widget: number
+        default: 5
+        required: false
+        hint: "只有乱数类型才需要填，例如从20个项目中随机显示5个"
+      - { label: 内容, name: body, widget: markdown }
+
+  - name: tickets
+    label: 🎟️ 景點門票
+    folder: src/content/tickets
+    create: true
+    delete: true
+    slug: "{{cat}}-{{slug}}"
+    summary: "{{name}} — IDR {{idr}}"
+    fields:
+      - { label: 景點名稱, name: name, widget: string }
+      - label: 分類
+        name: cat
+        widget: select
+        options:
+          - { label: 🛕 寺廟, value: temple }
+          - { label: 🌿 自然景觀, value: nature }
+          - { label: 🏝️ Nusa Penida, value: island }
+          - { label: 🎭 文化園區, value: park }
+          - { label: 🎢 主題樂園, value: activity }
+          - { label: 🏄 冒險活動, value: adventure }
+          - { label: 📚 進修課程, value: course }
+          - { label: 🌊 Water Sports, value: watersports }
+          - { label: ☕ 休閒, value: leisure }
+      - { label: 票價 (IDR), name: idr, widget: number, value_type: int, hint: "只填數字，例如 150000" }
+      - { label: 備註說明（繁體中文）, name: note, widget: text, hint: "簡短說明，含支付方式、注意事項等" }
+      - { label: 備註說明（English）, name: note_en, widget: text, required: false }
+      - { label: 備註說明（简体中文）, name: note_zh_cn, widget: text, required: false }
+      - { label: Klook 連結, name: klook, widget: string, required: false, hint: "留空則不顯示 Klook 按鈕" }
+      - { label: Agoda 按鈕, name: agoda, widget: boolean, default: false, hint: "開啟後顯示 Agoda 按鈕（固定連結）" }
+      - { label: Trip.com 連結, name: tripcom, widget: string, required: false, hint: "留空則不顯示 Trip.com 按鈕" }
+      - { label: 警示文字, name: warn, widget: string, required: false, hint: "例如：⚠ 排隊可達 2–4 小時，留空不顯示" }

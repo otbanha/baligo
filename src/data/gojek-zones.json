@@ -1,0 +1,23 @@
+[
+  { "id": "airport", "name_zh": "機場 (DPS)", "name_en": "Bali Airport (DPS)", "lat": -8.7467, "lng": 115.1668, "no_gojek_zone": "lounge" },
+  { "id": "kuta", "name_zh": "庫塔 Kuta", "name_en": "Kuta", "lat": -8.7234, "lng": 115.1764, "no_gojek_zone": false },
+  { "id": "legian", "name_zh": "雷吉安 Legian", "name_en": "Legian", "lat": -8.7068, "lng": 115.1716, "no_gojek_zone": false },
+  { "id": "seminyak", "name_zh": "水明漾 Seminyak", "name_en": "Seminyak", "lat": -8.6900, "lng": 115.1681, "no_gojek_zone": false },
+  { "id": "canggu", "name_zh": "Canggu 長谷", "name_en": "Canggu", "lat": -8.6478, "lng": 115.1385, "no_gojek_zone": "partial" },
+  { "id": "berawa", "name_zh": "Berawa", "name_en": "Berawa", "lat": -8.6620, "lng": 115.1432, "no_gojek_zone": false },
+  { "id": "pererenan", "name_zh": "Pererenan", "name_en": "Pererenan", "lat": -8.6418, "lng": 115.1289, "no_gojek_zone": false },
+  { "id": "ubud", "name_zh": "烏布 Ubud", "name_en": "Ubud", "lat": -8.5069, "lng": 115.2625, "no_gojek_zone": true },
+  { "id": "sanur", "name_zh": "沙努爾 Sanur", "name_en": "Sanur", "lat": -8.6788, "lng": 115.2625, "no_gojek_zone": "partial" },
+  { "id": "nusa_dua", "name_zh": "努沙杜瓦 Nusa Dua", "name_en": "Nusa Dua", "lat": -8.7942, "lng": 115.2300, "no_gojek_zone": false },
+  { "id": "jimbaran", "name_zh": "金巴蘭 Jimbaran", "name_en": "Jimbaran", "lat": -8.7905, "lng": 115.1655, "no_gojek_zone": false },
+  { "id": "uluwatu", "name_zh": "烏魯瓦圖 Uluwatu", "name_en": "Uluwatu", "lat": -8.8290, "lng": 115.0850, "no_gojek_zone": true },
+  { "id": "denpasar", "name_zh": "登巴薩 Denpasar", "name_en": "Denpasar", "lat": -8.6705, "lng": 115.2126, "no_gojek_zone": false },
+  { "id": "tanah_lot", "name_zh": "海神廟 Tanah Lot", "name_en": "Tanah Lot", "lat": -8.6212, "lng": 115.0868, "no_gojek_zone": true },
+  { "id": "tegallalang", "name_zh": "德格拉朗梯田 Tegallalang", "name_en": "Tegallalang", "lat": -8.4319, "lng": 115.2790, "no_gojek_zone": false },
+  { "id": "kintamani", "name_zh": "京打馬尼 Kintamani", "name_en": "Kintamani", "lat": -8.2615, "lng": 115.3531, "no_gojek_zone": false },
+  { "id": "bedugul", "name_zh": "貝杜古 Bedugul", "name_en": "Bedugul", "lat": -8.2750, "lng": 115.1670, "no_gojek_zone": false },
+  { "id": "padang_bai", "name_zh": "Padang Bai 碼頭", "name_en": "Padang Bai", "lat": -8.5310, "lng": 115.5060, "no_gojek_zone": true },
+  { "id": "amed", "name_zh": "Amed", "name_en": "Amed", "lat": -8.3380, "lng": 115.6720, "no_gojek_zone": false },
+  { "id": "lovina", "name_zh": "Lovina", "name_en": "Lovina", "lat": -8.1601, "lng": 115.0259, "no_gojek_zone": false },
+  { "id": "munduk", "name_zh": "Munduk", "name_en": "Munduk", "lat": -8.2580, "lng": 115.0840, "no_gojek_zone": false }
+]

@@ -1,0 +1,1886 @@
+---
+import BaseHead from '../components/BaseHead.astro';
+import Header from '../components/Header.astro';
+import TopStrip from '../components/TopStrip.astro';
+import Footer from '../components/Footer.astro';
+
+const SITE_URL = 'https://gobaligo.id';
+const title = '峇里島分享牆｜一鍵加入 YouTube、Threads、Instagram、Facebook、TikTok';
+// force rebuild
+const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，即時查看貼文標題、內文、縮圖等資訊。';
+---
+
+<!doctype html>
+<html lang="zh-TW">
+  <head>
+    <BaseHead title={title} description={description} noSuffix={false} image="https://images.gobaligo.id/images/2026-05/1779530264006-bali-feed-og.jpg" />
+    <meta name="robots" content="noindex,nofollow" />
+    <script src="https://challenges.cloudflare.com/turnstile/v0/api.js" async defer></script>
+    <!-- 同步定義 Turnstile callback，確保在 Turnstile 執行前就存在 -->
+    <script>window._tsToken='';window.onTurnstileSuccess=function(t){window._tsToken=t;};</script>
+    <style is:global>
+      /* ── Layout ── */
+      .unfurl-page {
+        max-width: 1000px;
+        margin: 0 auto;
+        padding: 1.5rem 1rem 4rem;
+      }
+      .unfurl-page h1 {
+        margin: 0 0 0.3rem;
+        line-height: 1;
+      }
+      .unfurl-page h1 img {
+        display: block;
+        width: 600px;
+        max-width: 100%;
+        height: auto;
+      }
+      .page-subtitle {
+        color: #666;
+        font-size: 0.9rem;
+        margin: 0 0 1.6rem;
+        line-height: 1.65;
+        text-align: center;
+      }
+
+      /* ── Platform badges ── */
+      .platform-list {
+        display: flex;
+        gap: 0.5rem;
+        flex-wrap: wrap;
+        margin-bottom: 1.4rem;
+      }
+      .platform-badge {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.35rem;
+        padding: 0.3rem 0.7rem;
+        border-radius: 20px;
+        font-size: 0.82rem;
+        font-weight: 600;
+      }
+      .badge-yt   { background: #ffe8e8; color: #c00; }
+      .badge-th   { background: #e8e8e8; color: #111; }
+      .badge-ig   { background: #fce4ff; color: #a100c8; }
+      .badge-fb   { background: #e8f0ff; color: #1877f2; }
+      .badge-tk   { background: #e8f9ff; color: #010101; }
+
+      /* ── Input ── */
+      .input-box {
+        background: #f8f4ef;
+        border: 2px solid #e2c98a;
+        border-radius: 16px;
+        padding: 1.2rem 1.4rem;
+        margin-bottom: 1.6rem;
+        box-shadow: 0 4px 18px rgba(197,160,89,.13);
+      }
+      .input-box-label {
+        font-size: 0.82rem;
+        font-weight: 700;
+        color: #9a7a2e;
+        letter-spacing: 0.04em;
+        margin-bottom: 0.6rem;
+      }
+      .input-row {
+        display: flex;
+        gap: 0.5rem;
+        margin-bottom: 0;
+      }
+      .url-input {
+        flex: 1;
+        padding: 0.7rem 1rem;
+        border: 2px solid #ddd;
+        border-radius: 10px;
+        font-size: 0.95rem;
+        outline: none;
+        transition: border-color 0.2s;
+      }
+      .url-input:focus { border-color: #1a6fad; }
+      .submit-btn {
+        padding: 0.7rem 1.4rem;
+        background: #1a6fad;
+        color: #fff;
+        border: none;
+        border-radius: 10px;
+        font-size: 0.95rem;
+        font-weight: 600;
+        cursor: pointer;
+        white-space: nowrap;
+        transition: background 0.15s, opacity 0.15s;
+      }
+      .submit-btn:hover  { background: #155d96; }
+      .submit-btn:disabled { opacity: 0.6; cursor: default; }
+
+      /* ── Result area ── */
+      #result-area { min-height: 2rem; }
+
+      /* ── Card ── */
+      .result-card {
+        border-radius: 14px;
+        border: 1.5px solid #e0e0e0;
+        overflow: hidden;
+        background: #fff;
+        position: relative;
+      }
+      .card-header {
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0.8rem 1rem 0.6rem;
+        border-bottom: 1px solid #f0f0f0;
+      }
+      .card-platform {
+        display: flex;
+        align-items: center;
+        gap: 0.4rem;
+        font-size: 0.82rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.04em;
+      }
+      .card-actions { display: flex; gap: 0.5rem; align-items: center; }
+      .delete-btn {
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 0.3rem;
+        border-radius: 6px;
+        color: #bbb;
+        font-size: 1rem;
+        line-height: 1;
+        transition: color 0.15s, background 0.15s;
+        display: none;
+      }
+      .delete-btn:hover { color: #e53; background: #fff0f0; }
+      .cached-badge {
+        font-size: 0.72rem;
+        background: #f0f6e8;
+        color: #4a7c2a;
+        padding: 0.15rem 0.5rem;
+        border-radius: 20px;
+        font-weight: 600;
+      }
+
+      .card-body { padding: 1rem; }
+      .card-author {
+        display: flex;
+        align-items: center;
+        gap: 0.5rem;
+        margin-bottom: 0.7rem;
+      }
+      .author-avatar {
+        width: 36px;
+        height: 36px;
+        border-radius: 50%;
+        object-fit: cover;
+        background: #eee;
+      }
+      .author-name { font-weight: 600; font-size: 0.9rem; color: #222; }
+      .author-handle { font-size: 0.82rem; color: #888; }
+      .author-meta { display: flex; flex-direction: column; gap: 0.1rem; }
+
+      .card-title {
+        font-size: 1.05rem;
+        font-weight: 700;
+        margin: 0 0 0.5rem;
+        color: #1a1a1a;
+        line-height: 1.4;
+      }
+      .card-desc {
+        font-size: 0.88rem;
+        color: #444;
+        line-height: 1.65;
+        margin: 0 0 0.8rem;
+        white-space: pre-wrap;
+        word-break: break-word;
+      }
+      .card-desc.collapsed { display: -webkit-box; -webkit-line-clamp: 5; -webkit-box-orient: vertical; overflow: hidden; }
+      .expand-btn {
+        background: none;
+        border: none;
+        color: #1a6fad;
+        font-size: 0.85rem;
+        cursor: pointer;
+        padding: 0;
+        margin-bottom: 0.8rem;
+        font-weight: 600;
+      }
+
+      .card-thumbnail {
+        width: 100%;
+        aspect-ratio: 4 / 5;
+        object-fit: cover;
+        object-position: center top;
+        display: block;
+        margin-bottom: 0.8rem;
+        border-radius: 8px;
+      }
+      .source-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 0.3rem;
+        padding: 0.45rem 0.9rem;
+        border: 1.5px solid #ddd;
+        border-radius: 8px;
+        text-decoration: none;
+        font-size: 0.85rem;
+        color: #444;
+        font-weight: 600;
+        transition: background 0.15s, border-color 0.15s;
+      }
+      .source-link:hover { background: #f5f5f5; border-color: #bbb; }
+
+      /* embed toggle */
+      .embed-toggle {
+        background: none;
+        border: 1px solid #ddd;
+        color: #555;
+        font-size: 0.82rem;
+        padding: 0.35rem 0.8rem;
+        border-radius: 6px;
+        cursor: pointer;
+        margin-left: 0.5rem;
+        transition: background 0.15s;
+      }
+      .embed-toggle:hover { background: #f0f0f0; }
+      .embed-wrap { margin-top: 0.8rem; }
+      .embed-wrap iframe { width: 100%; border: none; border-radius: 8px; }
+
+      /* Platform accent colors */
+      .platform-youtube .card-header   { border-left: 4px solid #ff0000; }
+      .platform-threads .card-header   { border-left: 4px solid #000; }
+      .platform-instagram .card-header { border-left: 4px solid #c13584; }
+      .platform-facebook .card-header  { border-left: 4px solid #1877f2; }
+      .platform-tiktok .card-header    { border-left: 4px solid #010101; }
+
+      /* ── Skeleton ── */
+      .skeleton { animation: shimmer 1.4s infinite linear; }
+      @keyframes shimmer {
+        0%   { background-position: -600px 0; }
+        100% { background-position: 600px 0; }
+      }
+      .skeleton-block {
+        background: linear-gradient(90deg, #f0f0f0 25%, #e0e0e0 50%, #f0f0f0 75%);
+        background-size: 1200px 100%;
+        border-radius: 6px;
+        animation: shimmer 1.4s infinite linear;
+      }
+      .skeleton-card {
+        border: 1.5px solid #e0e0e0;
+        border-radius: 14px;
+        padding: 1rem;
+      }
+      .sk-h { height: 14px; margin-bottom: 10px; }
+      .sk-w60 { width: 60%; }
+      .sk-w80 { width: 80%; }
+      .sk-w40 { width: 40%; }
+      .sk-w100 { width: 100%; }
+      .sk-img { height: 180px; margin: 10px 0; }
+
+      /* ── Error ── */
+      .error-box {
+        padding: 1rem 1.2rem;
+        border-radius: 12px;
+        border: 1.5px solid #fcd4d4;
+        background: #fff5f5;
+        color: #c00;
+        font-size: 0.9rem;
+        line-height: 1.6;
+      }
+      .error-box .error-code {
+        font-size: 0.75rem;
+        font-weight: 700;
+        letter-spacing: 0.05em;
+        color: #999;
+        margin-bottom: 0.3rem;
+      }
+      .error-box .error-link {
+        display: inline-block;
+        margin-top: 0.5rem;
+        color: #1a6fad;
+        text-decoration: underline;
+        font-size: 0.85rem;
+        word-break: break-all;
+      }
+
+      /* ── Top-viewed section ── */
+      .top-section { margin-bottom: 1.8rem; }
+      .top-section h2 { font-size: 1rem; font-weight: 700; color: #333; margin: 0 0 0.8rem; }
+      .top-grid {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 0.6rem;
+      }
+      .top-card {
+        border: 1px solid #e5e5e5;
+        border-radius: 10px;
+        overflow: hidden;
+        background: #fff;
+        position: relative;
+        transition: box-shadow 0.15s;
+        cursor: pointer;
+        text-decoration: none;
+        display: block;
+        color: inherit;
+      }
+      .top-card:hover { box-shadow: 0 3px 12px rgba(0,0,0,.12); }
+      .top-thumb {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center top;
+        display: block;
+      }
+      .top-thumb-placeholder {
+        width: 100%;
+        aspect-ratio: 4 / 5;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 2rem;
+        background: #f5f5f5;
+      }
+      .top-info { padding: 0.5rem 0.6rem; }
+      .top-platform-tag { font-size: 0.68rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0.05em; margin-bottom: 0.2rem; }
+      .top-title { font-size: 0.8rem; color: #222; font-weight: 600; line-height: 1.35; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+
+      /* Rank badges */
+      .rank-badge {
+        position: absolute;
+        top: 0.4rem;
+        right: 0.4rem;
+        font-size: 0.7rem;
+        font-weight: 800;
+        padding: 0.15rem 0.45rem;
+        border-radius: 20px;
+        line-height: 1.4;
+        letter-spacing: 0.02em;
+        pointer-events: none;
+      }
+      .rank-1 { background: #FFD700; color: #7a5300; font-size: 0.78rem; }
+      .rank-2 { background: #C0C0C0; color: #444; }
+      .rank-3 { background: #CD7F32; color: #fff; }
+      .rank-other { background: rgba(0,0,0,0.45); color: #fff; }
+
+      /* Hot badge on recent cards */
+      .hot-badge {
+        position: absolute;
+        top: 0.4rem;
+        left: 0.4rem;
+        font-size: 0.68rem;
+        font-weight: 700;
+        padding: 0.1rem 0.4rem;
+        border-radius: 20px;
+        background: rgba(220,30,30,0.85);
+        color: #fff;
+        pointer-events: none;
+      }
+
+      /* ── Recent feed ── */
+      .recent-section { margin-top: 2.5rem; }
+      .recent-section h2 {
+        font-size: 1rem;
+        font-weight: 700;
+        color: #333;
+        margin: 0 0 1rem;
+      }
+      .recent-grid {
+        display: grid;
+        grid-template-columns: repeat(5, 1fr);
+        gap: 0.6rem;
+      }
+      .recent-card {
+        border: 1px solid #e5e5e5;
+        border-radius: 10px;
+        overflow: hidden;
+        background: #fff;
+        transition: box-shadow 0.15s;
+        position: relative;
+      }
+      .recent-card:hover { box-shadow: 0 3px 12px rgba(0,0,0,.10); }
+      .recent-thumb {
+        width: 100%;
+        height: 100%;
+        object-fit: cover;
+        object-position: center top;
+        display: block;
+      }
+      .recent-thumb-placeholder {
+        width: 100%;
+        aspect-ratio: 4 / 5;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        font-size: 2rem;
+        background: #f5f5f5;
+      }
+      .recent-info { padding: 0.6rem 0.7rem; }
+      .recent-platform-tag {
+        font-size: 0.68rem;
+        font-weight: 700;
+        text-transform: uppercase;
+        letter-spacing: 0.05em;
+        margin-bottom: 0.25rem;
+      }
+      .tag-youtube   { color: #c00; }
+      .tag-threads   { color: #111; }
+      .tag-instagram { color: #c13584; }
+      .tag-facebook  { color: #1877f2; }
+      .tag-tiktok    { color: #010101; }
+      .recent-title {
+        font-size: 0.82rem;
+        color: #222;
+        font-weight: 600;
+        line-height: 1.4;
+        display: -webkit-box;
+        -webkit-line-clamp: 2;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
+      .recent-author { font-size: 0.75rem; color: #888; margin-top: 0.2rem; }
+      .recent-delete-btn {
+        position: absolute;
+        top: 0.4rem;
+        right: 0.4rem;
+        background: rgba(255,255,255,0.9);
+        border: 1px solid #ddd;
+        border-radius: 6px;
+        padding: 0.2rem 0.4rem;
+        font-size: 0.75rem;
+        cursor: pointer;
+        color: #999;
+        display: none;
+        transition: color 0.15s;
+        line-height: 1;
+      }
+      .recent-delete-btn:hover { color: #e53; }
+
+      /* ── Card stats bar ── */
+      .card-stats {
+        display: flex;
+        align-items: center;
+        gap: 6px;
+        padding: 4px 8px 6px;
+        font-size: 0.72rem;
+        color: #888;
+        border-top: 1px solid #f0f0f0;
+      }
+      .like-btn, .copy-btn {
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 2px 5px;
+        border-radius: 4px;
+        font-size: 0.72rem;
+        color: #888;
+        display: flex;
+        align-items: center;
+        gap: 2px;
+        line-height: 1;
+        transition: background 0.12s, color 0.12s;
+      }
+      .like-btn:hover { background: #f0f0f0; color: #444; }
+      .like-btn.liked { color: #2563eb; }
+      .copy-btn { margin-left: auto; }
+      .copy-btn:hover { background: #f0f0f0; color: #444; }
+      .view-stat { display: flex; align-items: center; gap: 2px; }
+
+      @media (max-width: 640px) {
+        .recent-grid { grid-template-columns: repeat(2, 1fr); gap: 0.4rem; }
+        .top-grid    { grid-template-columns: repeat(2, 1fr); gap: 0.4rem; }
+        .input-row { flex-direction: column; }
+        .submit-btn { width: 100%; }
+      }
+      @media (min-width: 641px) and (max-width: 1024px) {
+        .recent-grid { grid-template-columns: repeat(4, 1fr); }
+        .top-grid    { grid-template-columns: repeat(3, 1fr); }
+      }
+
+      /* ── Embed card (result area — full embed widget) ── */
+      .embed-body { padding: 0.8rem 0.8rem 0.6rem; }
+      .embed-widget-wrap { width: 100%; overflow: hidden; border-radius: 8px; }
+      /* Loading skeleton while embed widget initializes */
+      .embed-skeleton {
+        width: 100%; border-radius: 8px; height: 380px; margin-bottom: 0.7rem;
+        background-size: 1200px 100%;
+        animation: shimmer 1.4s infinite linear;
+      }
+      .embed-skeleton-threads  { background: linear-gradient(90deg,#111 25%,#222 50%,#111 75%); background-size:1200px 100%; }
+      .embed-skeleton-instagram { background: linear-gradient(90deg,#b24592 25%,#e15c8a 50%,#b24592 75%); background-size:1200px 100%; opacity:.4; }
+      .embed-skeleton-facebook  { background: linear-gradient(90deg,#1565c0 25%,#1e88e5 50%,#1565c0 75%); background-size:1200px 100%; opacity:.4; }
+
+      /* ── Grid embed cards — compact platform-branded placeholder ── */
+      .embed-ph {
+        position: relative; width: 100%; padding-top: 125%; overflow: hidden;
+      }
+      .embed-ph-inner {
+        position: absolute; inset: 0;
+        display: flex; flex-direction: column; align-items: center; justify-content: center;
+        gap: 0.35rem;
+      }
+      .embed-ph-threads  { background: linear-gradient(160deg,#111 0%,#2a2a2a 100%); }
+      .embed-ph-instagram { background: linear-gradient(160deg,#833ab4 0%,#fd1d1d 55%,#fcb045 100%); }
+      .embed-ph-facebook  { background: linear-gradient(160deg,#1877f2 0%,#42a5f5 100%); }
+      .embed-ph-icon  { font-size: 2.4rem; filter: drop-shadow(0 2px 6px rgba(0,0,0,.35)); }
+      .embed-ph-label { font-size: 0.75rem; color: rgba(255,255,255,.85); font-weight: 600; letter-spacing: 0.03em; }
+
+      /* ── iframe embed grid cards ── */
+      .embed-iframe-wrap {
+        position: relative; width: 100%; overflow: hidden;
+        background: #f0f0f0; line-height: 0;
+      }
+      /* 「最多人看過」區塊限高，避免一張 embed 佔滿整屏 */
+      .top-embed-wrap { max-height: 400px; }
+      /* 限高卡片底部漸層遮罩 */
+      .embed-iframe-fade {
+        position: absolute; bottom: 0; left: 0; right: 0;
+        height: 48px; pointer-events: none;
+        background: linear-gradient(to bottom, transparent, rgba(255,255,255,.85));
+      }
+      /* iframe loading skeleton */
+      .embed-iframe-sk {
+        position: absolute; inset: 0; z-index: 1;
+        background-size: 1200px 100%;
+        animation: shimmer 1.4s infinite linear;
+      }
+      .embed-iframe-sk-threads   { background: linear-gradient(90deg,#111 25%,#222 50%,#111 75%); }
+      .embed-iframe-sk-instagram { background: linear-gradient(90deg,#b24592 25%,#e15c8a 50%,#b24592 75%); opacity:.4; }
+      .embed-iframe-sk-facebook  { background: linear-gradient(90deg,#1565c0 25%,#1e88e5 50%,#1565c0 75%); opacity:.4; }
+      /* 「前往原文」小連結（embed 卡片用 div 不是 a，需另外放） */
+      .embed-card-link {
+        display: block; font-size: 0.72rem; color: #1a6fad; font-weight: 600;
+        text-decoration: none; margin-top: 0.25rem;
+        white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+      }
+      .embed-card-link:hover { text-decoration: underline; }
+
+      /* ── Duplicate warning ── */
+      .dup-warn {
+        display: none;
+        margin-top: 0.6rem;
+        padding: 0.75rem 1rem;
+        border-radius: 10px;
+        font-size: 0.88rem;
+        line-height: 1.55;
+        animation: fadeInDown 0.18s ease;
+      }
+      .dup-warn.show { display: block; }
+      .dup-warn-dup  { background: #fff8ee; border: 1.5px solid #f0b429; color: #7c5a00; }
+      .dup-warn-block { background: #fff5f5; border: 1.5px solid #fca5a5; color: #b91c1c; }
+      .dup-warn-row   { display: flex; align-items: center; gap: 0.6rem; margin-bottom: 0.45rem; }
+      .dup-warn-thumb { width: 40px; height: 40px; border-radius: 6px; object-fit: cover; flex-shrink: 0; background: #eee; }
+      .dup-warn-title { font-weight: 600; font-size: 0.85rem; flex: 1; overflow: hidden; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; }
+      .dup-warn-time  { font-size: 0.78rem; color: #aaa; margin-bottom: 0.4rem; }
+      .dup-warn-actions { display: flex; gap: 0.5rem; flex-wrap: wrap; }
+      .dup-dismiss-btn { background: none; border: 1.5px solid #e5c97a; color: #7c5a00; font-size: 0.8rem; padding: 0.25rem 0.7rem; border-radius: 6px; cursor: pointer; font-weight: 600; }
+      .dup-dismiss-btn:hover { background: #fef3c7; }
+      .dup-goto-btn { background: #7c5a00; color: #fff; border: none; font-size: 0.8rem; padding: 0.25rem 0.7rem; border-radius: 6px; cursor: pointer; font-weight: 600; text-decoration: none; }
+      .dup-goto-btn:hover { background: #5a4000; }
+      @keyframes fadeInDown { from { opacity:0; transform:translateY(-6px); } to { opacity:1; transform:none; } }
+
+      /* ── Card delete popover ── */
+      .del-popover {
+        position: absolute;
+        top: 2.4rem; right: 0.4rem;
+        background: #fff;
+        border: 1.5px solid #e0e0e0;
+        border-radius: 10px;
+        box-shadow: 0 4px 18px rgba(0,0,0,.14);
+        padding: 0.4rem;
+        z-index: 200;
+        min-width: 130px;
+        display: none;
+        flex-direction: column;
+        gap: 0.25rem;
+        animation: fadeInDown 0.14s ease;
+      }
+      .del-popover.show { display: flex; }
+      .del-popover-btn {
+        display: flex; align-items: center; gap: 0.45rem;
+        background: none; border: none; cursor: pointer;
+        padding: 0.45rem 0.65rem; border-radius: 7px;
+        font-size: 0.83rem; font-weight: 600; text-align: left;
+        transition: background 0.12s, color 0.12s;
+        white-space: nowrap;
+      }
+      .del-popover-soft { color: #555; }
+      .del-popover-soft:hover { background: #fff3e0; color: #e65100; }
+      .del-popover-block { color: #555; }
+      .del-popover-block:hover { background: #fff5f5; color: #c62828; }
+
+      /* ── Admin drawer ── */
+      #admin-fab {
+        display: none; /* shown only for admin */
+        position: fixed;
+        bottom: 1.5rem; right: 1.5rem;
+        z-index: 900;
+        background: #1a6fad;
+        color: #fff;
+        border: none;
+        border-radius: 50px;
+        padding: 0.65rem 1.1rem;
+        font-size: 0.9rem;
+        font-weight: 700;
+        cursor: pointer;
+        box-shadow: 0 4px 18px rgba(0,0,0,.22);
+        display: none;
+        align-items: center;
+        gap: 0.4rem;
+        transition: background 0.15s;
+      }
+      #admin-fab.visible { display: flex; }
+      #admin-fab:hover { background: #155d96; }
+
+      #drawer-overlay {
+        display: none;
+        position: fixed; inset: 0;
+        background: rgba(0,0,0,.38);
+        z-index: 950;
+        animation: fadeInBg 0.2s ease;
+      }
+      #drawer-overlay.show { display: block; }
+      @keyframes fadeInBg { from { opacity:0; } to { opacity:1; } }
+
+      #admin-drawer {
+        position: fixed;
+        top: 0; right: -520px; bottom: 0;
+        width: 480px;
+        max-width: 100vw;
+        background: #fff;
+        z-index: 1000;
+        box-shadow: -4px 0 28px rgba(0,0,0,.18);
+        display: flex; flex-direction: column;
+        transition: right 0.25s cubic-bezier(.4,0,.2,1);
+        overflow: hidden;
+      }
+      #admin-drawer.open { right: 0; }
+
+      .drawer-header {
+        display: flex; align-items: center; justify-content: space-between;
+        padding: 1rem 1.2rem 0.8rem;
+        border-bottom: 1px solid #f0f0f0;
+        flex-shrink: 0;
+      }
+      .drawer-title { font-size: 1rem; font-weight: 700; color: #1a1a1a; }
+      .drawer-close { background: none; border: none; font-size: 1.3rem; cursor: pointer; color: #888; padding: 0.2rem 0.4rem; border-radius: 6px; }
+      .drawer-close:hover { background: #f5f5f5; color: #333; }
+
+      .drawer-tabs { display: flex; border-bottom: 1px solid #eee; flex-shrink: 0; }
+      .drawer-tab {
+        flex: 1; padding: 0.65rem; text-align: center;
+        font-size: 0.85rem; font-weight: 600; color: #888;
+        background: none; border: none; cursor: pointer;
+        border-bottom: 2px solid transparent; margin-bottom: -1px;
+        transition: color 0.15s;
+      }
+      .drawer-tab.active { color: #1a6fad; border-bottom-color: #1a6fad; }
+
+      .drawer-body { flex: 1; overflow-y: auto; padding: 0.8rem 1rem; }
+
+      .drawer-search {
+        width: 100%; padding: 0.55rem 0.8rem;
+        border: 1.5px solid #ddd; border-radius: 8px;
+        font-size: 0.88rem; outline: none; margin-bottom: 0.7rem;
+        box-sizing: border-box;
+      }
+      .drawer-search:focus { border-color: #1a6fad; }
+
+      .drawer-row {
+        display: flex; align-items: center; gap: 0.6rem;
+        padding: 0.5rem 0.4rem; border-radius: 8px;
+        transition: background 0.12s;
+      }
+      .drawer-row:hover { background: #f8f8f8; }
+      .drawer-row-thumb {
+        width: 52px; height: 52px; border-radius: 6px; object-fit: cover; flex-shrink: 0;
+        background: #f0f0f0;
+      }
+      .drawer-row-icon {
+        width: 52px; height: 52px; border-radius: 6px; flex-shrink: 0;
+        display: flex; align-items: center; justify-content: center;
+        font-size: 1.5rem;
+      }
+      .drawer-row-info { flex: 1; min-width: 0; }
+      .drawer-row-title { font-size: 0.82rem; font-weight: 600; color: #222; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; }
+      .drawer-row-sub   { font-size: 0.75rem; color: #888; margin-top: 0.1rem; }
+      .drawer-row-badge { font-size: 0.72rem; background: #f0f0f0; color: #555; padding: 0.1rem 0.4rem; border-radius: 10px; white-space: nowrap; }
+      .drawer-row-actions { display: flex; gap: 0.3rem; flex-shrink: 0; }
+      .drawer-act-btn {
+        background: none; border: 1px solid #ddd; border-radius: 6px;
+        padding: 0.25rem 0.5rem; font-size: 0.78rem; cursor: pointer;
+        transition: background 0.12s, color 0.12s, border-color 0.12s;
+        font-weight: 600;
+      }
+      .drawer-act-soft  { color: #e65100; }
+      .drawer-act-soft:hover  { background: #fff3e0; border-color: #e65100; }
+      .drawer-act-block { color: #c62828; }
+      .drawer-act-block:hover { background: #fff5f5; border-color: #c62828; }
+      .drawer-act-unblock { color: #2563eb; }
+      .drawer-act-unblock:hover { background: #eff6ff; border-color: #2563eb; }
+      .drawer-row-url { font-size: 0.78rem; color: #555; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; max-width: 200px; }
+
+      .drawer-footer { padding: 0.8rem 1rem; border-top: 1px solid #eee; flex-shrink: 0; }
+      .drawer-footer a { color: #1a6fad; font-size: 0.85rem; font-weight: 600; text-decoration: none; }
+      .drawer-footer a:hover { text-decoration: underline; }
+      .drawer-empty { padding: 2rem 1rem; text-align: center; color: #888; font-size: 0.9rem; }
+
+      .drawer-toast {
+        position: fixed; bottom: 1rem; left: 50%; transform: translateX(-50%);
+        background: #222; color: #fff; padding: 0.55rem 1.2rem;
+        border-radius: 8px; font-size: 0.85rem; font-weight: 600;
+        z-index: 1100; opacity: 0; transition: opacity 0.2s;
+        pointer-events: none; white-space: nowrap;
+      }
+      .drawer-toast.show { opacity: 1; }
+
+      @media (max-width: 640px) {
+        #admin-drawer { width: 100vw; right: -100vw; }
+        #admin-fab { bottom: 1rem; right: 1rem; }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Facebook SDK 需要此節點 -->
+    <div id="fb-root"></div>
+    <Header basePath="tools/unfurl" />
+    <TopStrip lang="zh-tw" />
+    <main class="unfurl-page">
+      <h1>
+        <img
+          src="https://images.gobaligo.id/images/2026-05/1779587776283-balifeed2.jpg"
+          alt="峇里島分享牆"
+          loading="eager"
+          fetchpriority="high"
+          style="display:block;width:100%;height:auto"
+        />
+      </h1>
+      <p class="page-subtitle">來這兒分享你的峇里島！看到精彩的峇里島影片或貼文，貼上連結一鍵生成，也會出現在下方「最新加入」讓更多人看到。自己拍的、別人的都歡迎 🏝️</p>
+
+
+
+      <!-- 🔥 Top-viewed block (injected by JS) -->
+      <div class="top-section" id="top-section" style="display:none">
+        <h2>🔥 本週最多人看過</h2>
+        <div class="top-grid" id="top-grid"></div>
+      </div>
+
+      <form id="unfurl-form" autocomplete="off">
+        <div class="input-box">
+          <div class="input-box-label">📎 貼上連結，一鍵加入分享牆</div>
+          <div class="input-row">
+            <input
+              id="url-input"
+              class="url-input"
+              type="url"
+              placeholder="https://www.youtube.com/watch?v=..."
+              inputmode="url"
+            />
+            <button type="submit" class="submit-btn" id="submit-btn">一鍵加入</button>
+          </div>
+        </div>
+        <!-- 重複提醒區 -->
+        <div id="dup-warn" class="dup-warn" aria-live="polite"></div>
+        <!-- Cloudflare Turnstile invisible widget -->
+        <div class="cf-turnstile"
+             data-sitekey="0x4AAAAAADU9JhnzFqYcqdn0"
+             data-callback="onTurnstileSuccess"
+             data-size="invisible"
+             style="display:none"></div>
+      </form>
+
+      <div id="result-area"></div>
+
+      <div class="recent-section" id="recent-section" style="display:none">
+        <h2>最新加入</h2>
+        <div class="recent-grid" id="recent-grid"></div>
+      </div>
+    </main>
+    <Footer />
+
+    <!-- ── Admin Drawer ── -->
+    <button id="admin-fab" aria-label="管理面板">⚙ 管理</button>
+
+    <div id="drawer-overlay" aria-hidden="true"></div>
+
+    <div id="admin-drawer" role="dialog" aria-modal="true" aria-label="管理面板">
+      <div class="drawer-header">
+        <span class="drawer-title">⚙ 管理面板</span>
+        <div style="display:flex;align-items:center;gap:0.5rem">
+          <a href="/share/admin" style="font-size:0.8rem;color:#1a6fad;font-weight:600;text-decoration:none">詳細管理 →</a>
+          <button class="drawer-close" id="drawer-close-btn" aria-label="關閉">✕</button>
+        </div>
+      </div>
+      <div class="drawer-tabs">
+        <button class="drawer-tab active" data-tab="recent">最近 30 筆</button>
+        <button class="drawer-tab" data-tab="blocklist">黑名單</button>
+      </div>
+      <div class="drawer-body" id="drawer-body">
+        <!-- 最近 30 筆 -->
+        <div id="drawer-tab-recent">
+          <input class="drawer-search" id="drawer-search" type="search" placeholder="搜尋標題或 URL…" />
+          <div id="drawer-recent-list"></div>
+        </div>
+        <!-- 黑名單 -->
+        <div id="drawer-tab-blocklist" style="display:none">
+          <input class="drawer-search" id="drawer-bl-search" type="search" placeholder="搜尋被封鎖的 URL…" />
+          <div id="drawer-bl-list"></div>
+        </div>
+      </div>
+    </div>
+
+    <!-- Toast -->
+    <div class="drawer-toast" id="drawer-toast"></div>
+
+    <script>
+      const form = document.getElementById('unfurl-form');
+      const urlInput = document.getElementById('url-input');
+      const submitBtn = document.getElementById('submit-btn');
+      const resultArea = document.getElementById('result-area');
+      const recentSection = document.getElementById('recent-section');
+      const recentGrid = document.getElementById('recent-grid');
+      const topSection = document.getElementById('top-section');
+      const topGrid = document.getElementById('top-grid');
+
+      let isAdminUser = false;
+      let hotRankMap = new Map();
+
+      // ── Turnstile token helpers ──
+      // Token 由 head 裡的同步 script 寫入 window._tsToken
+      // 此處也覆寫 callback 確保 module script 執行後也能接收
+      window.onTurnstileSuccess = function(token) { window._tsToken = token; };
+
+      async function ensureTurnstileToken() {
+        if (window._tsToken) return window._tsToken;
+        // Token 還沒來，主動 execute 並等待（最多 8 秒）
+        return new Promise((resolve) => {
+          const widget = document.querySelector('.cf-turnstile');
+          const timer = setTimeout(() => resolve(''), 8000);
+          window.onTurnstileSuccess = (token) => {
+            window._tsToken = token;
+            clearTimeout(timer);
+            resolve(token);
+          };
+          try { window.turnstile?.execute(widget); } catch { clearTimeout(timer); resolve(''); }
+        });
+      }
+
+      // Platform display config
+      const PLATFORM_LABELS = {
+        youtube:   { label: '▶ YouTube',   cls: 'tag-youtube' },
+        threads:   { label: '◉ Threads',   cls: 'tag-threads' },
+        instagram: { label: '◈ Instagram', cls: 'tag-instagram' },
+        facebook:  { label: 'f Facebook',  cls: 'tag-facebook' },
+        tiktok:    { label: '♪ TikTok',    cls: 'tag-tiktok' },
+      };
+
+      const PLAT_ICON = { youtube: '▶', threads: '◉', instagram: '◈', tiktok: '♪', facebook: 'f' };
+
+      // ── Embed platform support ─────────────────────────────────────────────
+      const META_PLATFORMS = new Set(['threads', 'instagram', 'facebook']);
+
+      /** Singleton embed script loader — 同平台只載一次 */
+      const _loadedScripts = new Set();
+      function loadEmbedScript(src) {
+        if (!src || _loadedScripts.has(src)) return;
+        _loadedScripts.add(src);
+        const s = document.createElement('script');
+        s.src = src; s.async = true;
+        document.body.appendChild(s);
+      }
+
+      /**
+       * 觸發各平台 widget reprocess（給同頁第2+張 embed 用）
+       * Threads 無官方 API → 移除舊 script tag 再重新載入
+       */
+      function reprocessEmbeds(type) {
+        try {
+          if (type === 'instagram') {
+            window.instgrm?.Embeds?.process?.();
+          } else if (type === 'facebook') {
+            window.FB?.XFBML?.parse?.();
+          } else if (type === 'threads') {
+            const src = 'https://www.threads.net/embed.js';
+            document.querySelectorAll(`script[src="${src}"]`).forEach(s => s.remove());
+            _loadedScripts.delete(src);
+            loadEmbedScript(src);
+          }
+        } catch {}
+      }
+
+      const ERROR_FRIENDLY = {
+        BLOCKED_BY_PLATFORM: (url) => `
+          <div class="error-code">BLOCKED_BY_PLATFORM</div>
+          <p>這篇貼文無法抓取，可能是因為平台限制或貼文為私人。</p>
+          <a class="error-link" href="${url}" target="_blank" rel="noopener noreferrer">直接前往原文 →</a>
+        `,
+        BLOCKED_BY_ADMIN: () => `
+          <div class="error-code">UNAVAILABLE</div>
+          <p>這個網址不在本工具的服務範圍內。</p>
+        `,
+        BOT_DETECTED: () => `
+          <div class="error-code">BOT_DETECTED</div>
+          <p>驗證失敗，請重新整理頁面再試。</p>
+        `,
+      };
+
+      // ── Escape HTML ──
+      function esc(str) {
+        if (!str) return '';
+        return String(str)
+          .replace(/&/g, '&amp;').replace(/</g, '&lt;')
+          .replace(/>/g, '&gt;').replace(/"/g, '&quot;');
+      }
+
+      // ── Rank badge HTML ──
+      function rankBadgeHtml(rank) {
+        if (rank === 1) return `<span class="rank-badge rank-1">🥇 #1</span>`;
+        if (rank === 2) return `<span class="rank-badge rank-2">🥈 #2</span>`;
+        if (rank === 3) return `<span class="rank-badge rank-3">🥉 #3</span>`;
+        return `<span class="rank-badge rank-other">#${rank}</span>`;
+      }
+
+      // ── Hot badge HTML ──
+      function hotBadgeHtml(rank) {
+        if (rank === 1) return `<span class="hot-badge">🔥 #1 本週最熱</span>`;
+        if (rank <= 3)  return `<span class="hot-badge">🔥 本週熱門</span>`;
+        return `<span class="hot-badge">🔥</span>`;
+      }
+
+      // ── Like via sendBeacon（localStorage dedup）──
+      function likePost(id, btnEl) {
+        const lsKey = `liked:${id}`;
+        try {
+          if (localStorage.getItem(lsKey)) return;
+          localStorage.setItem(lsKey, '1');
+        } catch {}
+        const countEl = btnEl.querySelector('.like-count');
+        if (countEl) countEl.textContent = (parseInt(countEl.textContent, 10) || 0) + 1;
+        btnEl.classList.add('liked');
+        if (navigator.sendBeacon) {
+          navigator.sendBeacon('/api/like',
+            new Blob([JSON.stringify({ id })], { type: 'application/json' })
+          );
+        }
+      }
+
+      // ── Copy URL to clipboard ──
+      function copyUrl(url, btnEl) {
+        if (!url) return;
+        navigator.clipboard?.writeText(url).then(() => {
+          const orig = btnEl.textContent;
+          btnEl.textContent = '✅';
+          setTimeout(() => { btnEl.textContent = orig; }, 1500);
+        }).catch(() => {});
+      }
+
+      // ── Track click via sendBeacon（localStorage dedup）──
+      function trackView(id) {
+        if (!id) return;
+        const lsKey = `viewed:${id}`;
+        try {
+          if (localStorage.getItem(lsKey)) return; // 已計過，跳過
+          localStorage.setItem(lsKey, '1');
+        } catch {}
+        if (navigator.sendBeacon) {
+          navigator.sendBeacon('/api/track',
+            new Blob([JSON.stringify({ id })], { type: 'application/json' })
+          );
+        }
+      }
+
+      // ── Admin check ──
+      async function checkAdmin() {
+        try {
+          const res = await fetch('/api/admin/check');
+          const data = await res.json();
+          isAdminUser = data.isAdmin === true;
+          if (isAdminUser) {
+            document.querySelectorAll('.delete-btn, .recent-delete-btn').forEach(btn => {
+              btn.style.display = '';
+            });
+            // Show admin FAB
+            const fab = document.getElementById('admin-fab');
+            if (fab) fab.classList.add('visible');
+          }
+        } catch {}
+      }
+
+      // ── Skeleton ──
+      function showSkeleton() {
+        resultArea.innerHTML = `
+          <div class="skeleton-card">
+            <div class="skeleton-block sk-h sk-w40" style="margin-bottom:14px"></div>
+            <div class="skeleton-block sk-h sk-w80"></div>
+            <div class="skeleton-block sk-h sk-w60"></div>
+            <div class="skeleton-block sk-img sk-w100"></div>
+            <div class="skeleton-block sk-h sk-w40"></div>
+          </div>
+        `;
+      }
+
+      // ── Embed result card（Threads / IG / FB 官方 widget）──
+      function renderEmbedCard(data, rawUrl) {
+        const p = data.platform || 'unknown';
+        const embed = data.embed || {};
+        const plat = PLATFORM_LABELS[p] || { label: p, cls: '' };
+        const sourceUrl = data.data?.sourceUrl || rawUrl;
+        const handle = data.data?.author?.handle;
+
+        let widgetHtml = '';
+        let skeletonCls = `embed-skeleton-${p}`;
+
+        if (embed.type === 'threads') {
+          widgetHtml = `<blockquote class="text-post-media" data-text-post-permalink="${esc(embed.url)}" style="margin:0;max-width:100%;border-radius:8px;overflow:hidden;"><a href="${esc(embed.url)}" target="_blank" rel="noopener">查看 Threads 貼文</a></blockquote>`;
+        } else if (embed.type === 'instagram') {
+          widgetHtml = `<blockquote class="instagram-media" data-instgrm-permalink="${esc(embed.url)}" data-instgrm-version="14" style="background:#fff;border:0;margin:0;max-width:540px;min-width:0;padding:0;width:100%;border-radius:8px;overflow:hidden;"><div style="padding:16px"><a href="${esc(embed.url)}" target="_blank" rel="noopener">查看 Instagram 貼文</a></div></blockquote>`;
+        } else if (embed.type === 'facebook') {
+          widgetHtml = `<div class="fb-post" data-href="${esc(embed.url)}" data-width="100%" data-show-text="true"></div>`;
+        }
+
+        const handleSpan = handle
+          ? ` <span style="font-weight:400;font-size:0.85rem;color:#888">· ${esc(handle)}</span>`
+          : '';
+        const deleteBtn = `<button class="delete-btn" id="card-delete-btn" title="移除（管理員）" style="${isAdminUser ? '' : 'display:none'}">🗑</button>`;
+
+        const card = document.createElement('div');
+        card.className = `result-card platform-${p}`;
+        card.innerHTML = `
+          <div class="card-header">
+            <span class="card-platform ${plat.cls}">${plat.label}${handleSpan}</span>
+            <div class="card-actions">${deleteBtn}</div>
+          </div>
+          <div class="embed-body">
+            <div class="embed-skeleton ${skeletonCls}" id="embed-sk"></div>
+            <div class="embed-widget-wrap" id="embed-ww">${widgetHtml}</div>
+            <a class="source-link" href="${esc(sourceUrl)}" target="_blank" rel="noopener noreferrer" style="margin-top:0.8rem;display:inline-flex">前往原文 →</a>
+          </div>
+        `;
+
+        // 載入 embed script（singleton）
+        if (embed.script) {
+          loadEmbedScript(embed.script);
+          // 稍後觸發 reprocess（處理 script 已載入但新 blockquote 尚未被 process 的情況）
+          setTimeout(() => reprocessEmbeds(embed.type), 400);
+        }
+
+        // MutationObserver：iframe 出現後隱藏 skeleton
+        const sk = card.querySelector('#embed-sk');
+        const ww = card.querySelector('#embed-ww');
+        if (sk && ww) {
+          const obs = new MutationObserver(() => {
+            if (ww.querySelector('iframe')) { sk.style.display = 'none'; obs.disconnect(); }
+          });
+          obs.observe(ww, { childList: true, subtree: true });
+          // 最長等 15 秒後強制隱藏（保底）
+          setTimeout(() => { sk.style.display = 'none'; }, 15000);
+        }
+
+        // 刪除按鈕 → popover
+        card.querySelector('#card-delete-btn')?.addEventListener('click', (e) => {
+          e.stopPropagation();
+          const match = Array.from(recentGrid.querySelectorAll('[data-id]'))
+            .find(el => el.dataset.url === sourceUrl);
+          showCardPopover(card.querySelector('#card-delete-btn'), match?.dataset?.id ?? null, match ?? null);
+        });
+
+        return card;
+      }
+
+      // ── Result card ──
+      function renderCard(data, rawUrl) {
+        // Meta 平台（Threads / IG / FB）→ embed widget
+        if ((data.renderMode ?? 'rich') === 'embed') return renderEmbedCard(data, rawUrl);
+        const p = data.platform || 'unknown';
+        const d = data.data || {};
+        const plat = PLATFORM_LABELS[p] || { label: p, cls: '' };
+
+        const authorSection = d.author?.name ? `
+          <div class="card-author">
+            ${d.author.avatar ? `<img class="author-avatar" src="${esc(d.author.avatar)}" alt="" loading="lazy">` : ''}
+            <div class="author-meta">
+              <span class="author-name">${esc(d.author.name)}</span>
+              ${d.author.handle ? `<span class="author-handle">${esc(d.author.handle)}</span>` : ''}
+            </div>
+          </div>` : '';
+
+        const titleSection = d.title ? `<h2 class="card-title">${esc(d.title)}</h2>` : '';
+        const needsExpand = d.description && d.description.length > 200;
+        const descSection = d.description ? `
+          <p class="card-desc${needsExpand ? ' collapsed' : ''}" id="card-desc">${esc(d.description)}</p>
+          ${needsExpand ? `<button class="expand-btn" id="expand-btn">展開全文</button>` : ''}
+        ` : '';
+
+        const thumb = d.media?.[0];
+        const thumbSection = thumb?.type === 'image' ? `
+          <img class="card-thumbnail" src="${esc(thumb.url)}" alt="" loading="lazy" onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src=this.src.replace('maxresdefault','hqdefault')}else{this.style.display='none'}">
+        ` : '';
+
+        const embedBtn = d.embedHtml ? `<button class="embed-toggle" id="embed-toggle">顯示原生嵌入</button>` : '';
+        const cachedBadge = data.cached ? `<span class="cached-badge">快取</span>` : '';
+        const deleteBtn = `<button class="delete-btn" id="card-delete-btn" title="移除（管理員）" style="${isAdminUser ? '' : 'display:none'}">🗑</button>`;
+
+        const card = document.createElement('div');
+        card.className = `result-card platform-${p}`;
+        card.innerHTML = `
+          <div class="card-header">
+            <span class="card-platform ${plat.cls}">${plat.label}</span>
+            <div class="card-actions">${cachedBadge}${embedBtn}${deleteBtn}</div>
+          </div>
+          <div class="card-body">
+            ${authorSection}${titleSection}${descSection}${thumbSection}
+            <a class="source-link" href="${esc(d.sourceUrl || rawUrl)}" target="_blank" rel="noopener noreferrer">前往原文 →</a>
+            ${d.embedHtml ? `<div class="embed-wrap" id="embed-wrap" style="display:none"></div>` : ''}
+          </div>
+        `;
+
+        card.querySelector('#expand-btn')?.addEventListener('click', () => {
+          card.querySelector('#card-desc').classList.remove('collapsed');
+          card.querySelector('#expand-btn').remove();
+        });
+
+        const embedToggle = card.querySelector('#embed-toggle');
+        const embedWrap = card.querySelector('#embed-wrap');
+        if (embedToggle && embedWrap && d.embedHtml) {
+          embedToggle.addEventListener('click', () => {
+            if (embedWrap.style.display === 'none') {
+              embedWrap.innerHTML = d.embedHtml.replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '');
+              embedWrap.style.display = '';
+              embedToggle.textContent = '隱藏嵌入';
+            } else {
+              embedWrap.style.display = 'none';
+              embedWrap.innerHTML = '';
+              embedToggle.textContent = '顯示原生嵌入';
+            }
+          });
+        }
+
+        const delBtn = card.querySelector('#card-delete-btn');
+        if (delBtn) {
+          delBtn.addEventListener('click', (e) => {
+            e.stopPropagation();
+            const items = Array.from(recentGrid.querySelectorAll('[data-id]'));
+            const match = items.find(el => el.dataset.url === (d.sourceUrl || rawUrl));
+            showCardPopover(delBtn, match?.dataset?.id ?? null, match ?? null);
+          });
+        }
+
+        return card;
+      }
+
+      // ── Error box ──
+      function renderError(err, rawUrl) {
+        const code = err.error || 'UNKNOWN';
+        const customRenderer = ERROR_FRIENDLY[code];
+        const inner = customRenderer
+          ? customRenderer(rawUrl)
+          : `<div class="error-code">${code}</div><p>${esc(err.message || '發生未知錯誤')}</p>`;
+        resultArea.innerHTML = `<div class="error-box">${inner}</div>`;
+      }
+
+      // ── Submit ──
+      form.addEventListener('submit', async (e) => {
+        e.preventDefault();
+        const rawUrl = urlInput.value.trim();
+        if (!rawUrl) return;
+
+        submitBtn.disabled = true;
+        submitBtn.textContent = '加入中…';
+        showSkeleton();
+
+        const timeout = setTimeout(() => {
+          resultArea.innerHTML = `<div class="error-box"><div class="error-code">TIMEOUT</div><p>連線逾時，請稍後再試。</p></div>`;
+          submitBtn.disabled = false;
+          submitBtn.textContent = '一鍵加入';
+        }, 12000);
+
+        try {
+          const tsToken = await ensureTurnstileToken();
+          const res = await fetch('/api/unfurl', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ url: rawUrl, turnstileToken: tsToken }),
+          });
+          clearTimeout(timeout);
+
+          const data = await res.json();
+          if (data.ok) {
+            resultArea.innerHTML = '';
+            resultArea.appendChild(renderCard(data, rawUrl));
+            // KV 寫入是 waitUntil 非同步，等 1.5 秒再 reload 確保資料已寫入
+            setTimeout(() => loadRecent(), 1500);
+          } else {
+            renderError(data, rawUrl);
+          }
+        } catch {
+          clearTimeout(timeout);
+          renderError({ error: 'INTERNAL_ERROR', message: '系統錯誤，請稍後再試' }, rawUrl);
+        } finally {
+          submitBtn.disabled = false;
+          submitBtn.textContent = '一鍵加入';
+          // 清空舊 token 並重設 widget，讓 Turnstile 自動產生下次用的新 token
+          window._tsToken = '';
+          try {
+            const tsWidget = document.querySelector('.cf-turnstile');
+            window.turnstile?.reset(tsWidget);
+          } catch {}
+        }
+      });
+
+      // Auto-submit on paste
+      urlInput.addEventListener('paste', () => {
+        setTimeout(() => {
+          if (urlInput.value.trim().startsWith('http')) {
+            form.dispatchEvent(new Event('submit', { cancelable: true }));
+          }
+        }, 50);
+      });
+
+      // Threads 的 /embed/post/{code} 需要 embed.js 注入的 xmt= token，
+      // 直接 iframe 會被 Threads 擋掉 → 格子卡改回縮圖 / 漸層佔位
+      // Instagram /embed/captioned/ 與 FB plugins/post.php 是公開 API，可直接 iframe
+      const IFRAME_EMBED_PLATFORMS = new Set(['instagram', 'facebook']);
+
+      // ── iframe URL helpers（相容無 iframeUrl 的舊 KV 資料）──────────────────
+      function getIframeUrl(item) {
+        if (item.embed?.iframeUrl) return item.embed.iframeUrl;
+        const src = item.sourceUrl || '';
+        // Threads
+        const tm = src.match(/threads\.(?:net|com)\/@[\w.]+\/post\/([\w-]+)/);
+        if (tm) return `https://www.threads.net/embed/post/${tm[1]}`;
+        // Instagram
+        const im = src.match(/instagram\.com\/(?:p|reel|tv)\/([\w-]+)/);
+        if (im) return `https://www.instagram.com/p/${im[1]}/embed/captioned/`;
+        // Facebook
+        if (/facebook\.com|fb\.watch/.test(src)) {
+          return `https://www.facebook.com/plugins/post.php?href=${encodeURIComponent(src)}&width=500&show_text=true&appId`;
+        }
+        return null;
+      }
+      function getIframeHeight(item) {
+        if (item.embed?.iframeHeight) return item.embed.iframeHeight;
+        return item.platform === 'facebook' ? 500 : 600;
+      }
+
+      // ── Top-viewed ──
+      async function loadTopViewed() {
+        try {
+          const res = await fetch('/api/top-viewed');
+          const data = await res.json();
+          const items = data.items || [];
+          if (items.length === 0) { topSection.style.display = 'none'; return; }
+
+          // Build rank map for recent card badges
+          hotRankMap = new Map(items.map((item, i) => [item.id, i + 1]));
+
+          topSection.style.display = '';
+          topGrid.innerHTML = '';
+          items.forEach((item, i) => topGrid.appendChild(buildTopCard(item, i + 1)));
+        } catch {
+          topSection.style.display = 'none';
+        }
+      }
+
+      function buildTopCard(item, rank) {
+        const plat    = PLATFORM_LABELS[item.platform] || { label: item.platform, cls: '' };
+        const isEmbed = item.renderMode === 'embed' || META_PLATFORMS.has(item.platform);
+        const isLiked = (() => { try { return !!localStorage.getItem(`liked:${item.id}`); } catch { return false; } })();
+
+        // embed 卡片用 div（iframe 放在 <a> 裡，點擊事件會被 iframe 攔截）
+        const card = document.createElement(isEmbed ? 'div' : 'a');
+        card.className = 'top-card';
+        card.style.display = 'block';
+        card.dataset.id = item.id;
+        if (!isEmbed) {
+          card.href = item.sourceUrl || '#';
+          card.target = '_blank';
+          card.rel = 'noopener noreferrer';
+        }
+
+        const THUMB_STYLE = 'width:100%;height:100%;object-fit:cover;object-position:center top;display:block';
+        // useIframe：僅 IG / FB 支援無 token 直接 iframe；Threads 需 embed.js 注入 xmt= → 改用縮圖
+        const useIframe = isEmbed && IFRAME_EMBED_PLATFORMS.has(item.platform);
+
+        let mediaHtml;
+        if (useIframe) {
+          const iframeUrl    = getIframeUrl(item);
+          const iframeHeight = getIframeHeight(item);
+          if (iframeUrl) {
+            // 直接用平台官方 iframe URL，max-height:400px 避免佔滿整行
+            mediaHtml = `
+              <div class="embed-iframe-wrap top-embed-wrap">
+                <div class="embed-iframe-sk embed-iframe-sk-${item.platform}"></div>
+                <iframe src="${esc(iframeUrl)}" width="100%" height="${iframeHeight}"
+                  frameborder="0" scrolling="no" allowtransparency="true"
+                  allow="encrypted-media" loading="lazy"
+                  title="${esc((item.authorName || item.embedHandle || item.platform) + ' 貼文')}"></iframe>
+                <div class="embed-iframe-fade"></div>
+              </div>`;
+          } else {
+            // fallback：無法解析 post code → 漸層佔位
+            mediaHtml = `
+              <div class="embed-ph embed-ph-${item.platform}" style="width:100%;overflow:hidden;position:relative">
+                <div class="embed-ph-inner embed-ph-${item.platform}">
+                  <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
+                  ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
+                </div>
+              </div>`;
+          }
+        } else if (isEmbed && item.thumbnail) {
+          // Threads：oEmbed 取到縮圖 → 顯示真實圖片
+          mediaHtml = `
+            <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#111">
+              <img class="top-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy"
+                onerror="this.parentElement.innerHTML='<div style=\\'width:100%;height:100%;background:linear-gradient(160deg,#111 0%,#2a2a2a 100%);display:flex;align-items:center;justify-content:center;font-size:2rem\\'>🧵</div>'">
+            </div>`;
+        } else if (isEmbed) {
+          // Threads 無縮圖 → 漸層佔位
+          mediaHtml = `
+            <div class="embed-ph embed-ph-${item.platform}" style="width:100%;overflow:hidden;position:relative">
+              <div class="embed-ph-inner embed-ph-${item.platform}">
+                <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
+                ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
+              </div>
+            </div>`;
+        } else if (item.thumbnail) {
+          mediaHtml = `
+            <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0">
+              <img class="top-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy"
+                onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src=this.src.replace('maxresdefault','hqdefault')}else{this.parentElement.style.background='#f5f5f5'}">
+            </div>`;
+        } else {
+          mediaHtml = `
+            <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0;display:flex;align-items:center;justify-content:center;font-size:2rem">
+              ${PLAT_ICON[item.platform] ?? 'f'}
+            </div>`;
+        }
+
+        const displayTitle = isEmbed
+          ? (item.authorName ? `${item.authorName} 的貼文` : item.embedHandle ? `${item.embedHandle} 的貼文` : `${item.platform} 貼文`)
+          : (item.title || item.authorName || '無標題');
+
+        card.innerHTML = `
+          ${mediaHtml}
+          ${rankBadgeHtml(rank)}
+          <div class="top-info">
+            <div class="top-platform-tag ${plat.cls}">${plat.label}</div>
+            <div class="top-title">${esc(displayTitle)}</div>
+            ${isEmbed ? `<a class="embed-card-link" href="${esc(item.sourceUrl||'#')}" target="_blank" rel="noopener">前往原文 →</a>` : ''}
+          </div>
+          <div class="card-stats">
+            <button class="like-btn${isLiked ? ' liked' : ''}" title="讚">👍 <span class="like-count">${item.likes ?? 0}</span></button>
+            <span class="view-stat">👁 ${item.views ?? 0}</span>
+            <button class="copy-btn" title="複製連結">📋</button>
+          </div>
+        `;
+
+        // iframe onLoad → 隱藏 loading skeleton
+        card.querySelector('iframe')?.addEventListener('load', (e) => {
+          e.target.previousElementSibling?.remove();
+        });
+
+        card.addEventListener('click', () => trackView(item.id));
+        card.querySelector('.like-btn')?.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); likePost(item.id, card.querySelector('.like-btn')); });
+        card.querySelector('.copy-btn')?.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); copyUrl(item.sourceUrl || '', card.querySelector('.copy-btn')); });
+
+        return card;
+      }
+
+      // ── Recent feed ──
+      async function loadRecent() {
+        try {
+          const res = await fetch('/api/recent-unfurls?limit=50');
+          const data = await res.json();
+          const items = data.items || [];
+          if (items.length === 0) { recentSection.style.display = 'none'; return; }
+
+          recentSection.style.display = '';
+          recentGrid.innerHTML = '';
+          items.forEach(item => recentGrid.appendChild(buildRecentCard(item)));
+
+          if (isAdminUser) {
+            recentGrid.querySelectorAll('.recent-delete-btn').forEach(btn => { btn.style.display = ''; });
+          }
+        } catch {
+          recentSection.style.display = 'none';
+        }
+      }
+
+      function buildRecentCard(item) {
+        const plat    = PLATFORM_LABELS[item.platform] || { label: item.platform, cls: '' };
+        const rank    = hotRankMap.get(item.id);
+        const isLiked = (() => { try { return !!localStorage.getItem(`liked:${item.id}`); } catch { return false; } })();
+        const isEmbed = item.renderMode === 'embed' || META_PLATFORMS.has(item.platform);
+
+        // embed 卡片用 div（iframe 放在 <a> 裡，點擊事件會被 iframe 攔截）
+        const card = document.createElement(isEmbed ? 'div' : 'a');
+        card.className = 'recent-card';
+        card.style.display = 'block';
+        card.dataset.id  = item.id;
+        card.dataset.url = item.sourceUrl || '';
+        if (!isEmbed) {
+          card.href   = item.sourceUrl || '#';
+          card.target = '_blank';
+          card.rel    = 'noopener noreferrer';
+        }
+
+        const THUMB_STYLE = 'width:100%;height:100%;object-fit:cover;object-position:center top;display:block';
+        // useIframe：僅 IG / FB 支援無 token 直接 iframe；Threads 需 embed.js 注入 xmt= → 改用縮圖
+        const useIframe = isEmbed && IFRAME_EMBED_PLATFORMS.has(item.platform);
+
+        let mediaHtml;
+        if (useIframe) {
+          const iframeUrl    = getIframeUrl(item);
+          const iframeHeight = getIframeHeight(item);
+          if (iframeUrl) {
+            // 直接用平台官方 iframe URL（無 max-height 限制，讓貼文完整顯示）
+            mediaHtml = `
+              <div class="embed-iframe-wrap">
+                <div class="embed-iframe-sk embed-iframe-sk-${item.platform}"></div>
+                <iframe src="${esc(iframeUrl)}" width="100%" height="${iframeHeight}"
+                  frameborder="0" scrolling="no" allowtransparency="true"
+                  allow="encrypted-media" loading="lazy"
+                  title="${esc((item.authorName || item.embedHandle || item.platform) + ' 貼文')}"></iframe>
+              </div>`;
+          } else {
+            // fallback：無法解析 post code → 漸層佔位
+            mediaHtml = `
+              <div class="embed-ph embed-ph-${item.platform}" style="width:100%;overflow:hidden;position:relative">
+                <div class="embed-ph-inner embed-ph-${item.platform}">
+                  <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
+                  ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
+                </div>
+              </div>`;
+          }
+        } else if (isEmbed && item.thumbnail) {
+          // Threads：oEmbed 取到縮圖 → 顯示真實圖片
+          mediaHtml = `
+            <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#111">
+              <img class="recent-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy"
+                onerror="this.parentElement.innerHTML='<div style=\\'width:100%;height:100%;background:linear-gradient(160deg,#111 0%,#2a2a2a 100%);display:flex;align-items:center;justify-content:center;font-size:2rem\\'>🧵</div>'">
+            </div>`;
+        } else if (isEmbed) {
+          // Threads 無縮圖 → 漸層佔位
+          mediaHtml = `
+            <div class="embed-ph embed-ph-${item.platform}" style="width:100%;overflow:hidden;position:relative">
+              <div class="embed-ph-inner embed-ph-${item.platform}">
+                <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
+                ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
+              </div>
+            </div>`;
+        } else if (item.thumbnail) {
+          mediaHtml = `
+            <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0">
+              <img class="recent-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy"
+                onerror="if(!this.dataset.fb){this.dataset.fb='1';this.src=this.src.replace('maxresdefault','hqdefault')}else{this.parentElement.style.background='#f5f5f5'}">
+            </div>`;
+        } else {
+          mediaHtml = `
+            <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0;display:flex;align-items:center;justify-content:center;font-size:2rem">
+              ${PLAT_ICON[item.platform] ?? 'f'}
+            </div>`;
+        }
+
+        const displayTitle = isEmbed
+          ? (item.authorName ? `${item.authorName} 的貼文` : item.embedHandle ? `${item.embedHandle} 的貼文` : `${item.platform} 貼文`)
+          : (item.title || item.authorName || '無標題');
+
+        const authorLine = !isEmbed && item.authorName
+          ? `<div class="recent-author">${esc(item.authorName)}</div>`
+          : '';
+
+        card.innerHTML = `
+          ${mediaHtml}
+          ${rank ? hotBadgeHtml(rank) : ''}
+          <div class="recent-info">
+            <div class="recent-platform-tag ${plat.cls}">${plat.label}</div>
+            <div class="recent-title">${esc(displayTitle)}</div>
+            ${authorLine}
+            ${isEmbed ? `<a class="embed-card-link" href="${esc(item.sourceUrl||'#')}" target="_blank" rel="noopener">前往原文 →</a>` : ''}
+          </div>
+          <div class="card-stats">
+            <button class="like-btn${isLiked ? ' liked' : ''}" title="讚">👍 <span class="like-count">${item.likes ?? 0}</span></button>
+            <span class="view-stat">👁 ${item.views ?? 0}</span>
+            <button class="copy-btn" title="複製連結">📋</button>
+          </div>
+          <button class="recent-delete-btn" title="移除（管理員）" style="display:none">🗑</button>
+        `;
+
+        // iframe onLoad → 隱藏 loading skeleton
+        card.querySelector('iframe')?.addEventListener('load', (e) => {
+          e.target.previousElementSibling?.remove();
+        });
+
+        card.addEventListener('click', () => trackView(item.id));
+        card.querySelector('.like-btn')?.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); likePost(item.id, card.querySelector('.like-btn')); });
+        card.querySelector('.copy-btn')?.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); copyUrl(item.sourceUrl || '', card.querySelector('.copy-btn')); });
+
+        const delBtn = card.querySelector('.recent-delete-btn');
+        if (delBtn) {
+          delBtn.addEventListener('click', (e) => {
+            e.preventDefault();
+            e.stopPropagation();
+            showCardPopover(delBtn, item.id, card);
+          });
+        }
+
+        return card;
+      }
+
+      // ── Shared delete (soft or block) ──────────────────────────────────────
+      async function deleteRecentItem(id, cardEl, mode = 'soft') {
+        if (!id) { showToast('找不到此貼文 ID'); return; }
+        if (cardEl) { cardEl.style.opacity = '0.5'; }
+        try {
+          const res = await fetch(`/api/recent-unfurls/${encodeURIComponent(id)}?mode=${mode}`, { method: 'DELETE' });
+          const data = await res.json();
+          if (data.ok) {
+            if (cardEl) {
+              cardEl.style.transition = 'opacity 0.3s';
+              cardEl.style.opacity = '0';
+              setTimeout(() => { cardEl.remove(); }, 300);
+            }
+            showToast(mode === 'block' ? '已封鎖並移除' : '已移除');
+            // Refresh drawer list too (non-blocking)
+            if (drawerOpen) loadDrawerRecent();
+          } else {
+            if (cardEl) cardEl.style.opacity = '';
+            showToast(`操作失敗：${data.error || '未知錯誤'}`);
+          }
+        } catch {
+          if (cardEl) cardEl.style.opacity = '';
+          showToast('操作失敗：網路錯誤');
+        }
+      }
+
+      // ── Card delete popover ─────────────────────────────────────────────────
+      let _activePopover = null;
+
+      function closeActivePopover() {
+        if (_activePopover) {
+          _activePopover.remove();
+          _activePopover = null;
+        }
+      }
+      document.addEventListener('click', closeActivePopover);
+
+      function showCardPopover(anchorEl, id, cardEl) {
+        closeActivePopover();
+        if (!isAdminUser) return;
+
+        const pop = document.createElement('div');
+        pop.className = 'del-popover show';
+
+        const soft = document.createElement('button');
+        soft.className = 'del-popover-btn del-popover-soft';
+        soft.innerHTML = '🗑 軟刪除';
+        soft.title = '移除卡片，相同 URL 日後可再貼';
+        soft.addEventListener('click', async (e) => {
+          e.stopPropagation();
+          if (!confirm('移除這張卡片？相同網址日後可再次分享。')) return;
+          closeActivePopover();
+          await deleteRecentItem(id, cardEl, 'soft');
+        });
+
+        const block = document.createElement('button');
+        block.className = 'del-popover-btn del-popover-block';
+        block.innerHTML = '🚫 封鎖';
+        block.title = '移除卡片 + URL 加入黑名單';
+        block.addEventListener('click', async (e) => {
+          e.stopPropagation();
+          if (!confirm('封鎖這張卡片？該網址會加入黑名單，之後無法再被分享。')) return;
+          closeActivePopover();
+          await deleteRecentItem(id, cardEl, 'block');
+        });
+
+        pop.appendChild(soft);
+        pop.appendChild(block);
+
+        // Position near anchor
+        const wrap = anchorEl.parentElement ?? anchorEl;
+        wrap.style.position = 'relative';
+        wrap.appendChild(pop);
+        _activePopover = pop;
+
+        // Prevent document click from immediately closing
+        setTimeout(() => {
+          pop.addEventListener('click', (e) => e.stopPropagation());
+        }, 0);
+      }
+
+      // ── Toast ───────────────────────────────────────────────────────────────
+      let _toastTimer = null;
+      function showToast(msg) {
+        const el = document.getElementById('drawer-toast');
+        if (!el) return;
+        el.textContent = msg;
+        el.classList.add('show');
+        clearTimeout(_toastTimer);
+        _toastTimer = setTimeout(() => el.classList.remove('show'), 2200);
+      }
+
+      // ── Duplicate check (onBlur) ────────────────────────────────────────────
+      const dupWarn = document.getElementById('dup-warn');
+      let _dupDebounce = null;
+      let _dupBlocked = false; // true → submit btn disabled due to dup/block
+
+      function clearDupWarn() {
+        if (dupWarn) { dupWarn.className = 'dup-warn'; dupWarn.innerHTML = ''; }
+        _dupBlocked = false;
+        submitBtn.disabled = false;
+        submitBtn.textContent = '一鍵加入';
+      }
+
+      function formatDateTime(iso) {
+        try {
+          const d = new Date(iso);
+          return `${d.getFullYear()}/${String(d.getMonth()+1).padStart(2,'0')}/${String(d.getDate()).padStart(2,'0')} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+        } catch { return iso || ''; }
+      }
+
+      async function runDupCheck(url) {
+        if (!url || !url.startsWith('http')) return;
+        try {
+          const res = await fetch('/api/check-duplicate', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ url }),
+          });
+          const data = await res.json();
+          if (data.isBlocked) {
+            dupWarn.className = 'dup-warn dup-warn-block show';
+            dupWarn.innerHTML = `<strong>🚫 這個網址已被站方封鎖，無法分享</strong>`;
+            submitBtn.disabled = true;
+            submitBtn.textContent = '網址已封鎖';
+            _dupBlocked = true;
+          } else if (data.isDuplicate && data.existingItem) {
+            const item = data.existingItem;
+            dupWarn.className = 'dup-warn dup-warn-dup show';
+            dupWarn.innerHTML = `
+              <div class="dup-warn-row">
+                <span style="font-size:1.2rem">⚠️</span>
+                <strong>這個網址已在「最近解析」中</strong>
+              </div>
+              ${item.title ? `<div class="dup-warn-title">${esc(item.title)}</div>` : ''}
+              ${item.fetchedAt ? `<div class="dup-warn-time">🕐 ${formatDateTime(item.fetchedAt)} 被分享</div>` : ''}
+              <div class="dup-warn-actions">
+                ${item.sourceUrl ? `<a class="dup-goto-btn" href="${esc(item.sourceUrl)}" target="_blank" rel="noopener">前往查看</a>` : ''}
+                <button class="dup-dismiss-btn" id="dup-dismiss">我知道了，仍要重貼</button>
+              </div>
+            `;
+            submitBtn.disabled = true;
+            submitBtn.textContent = '網址重複';
+            _dupBlocked = true;
+            document.getElementById('dup-dismiss')?.addEventListener('click', () => {
+              dupWarn.className = 'dup-warn';
+              dupWarn.innerHTML = '';
+              // 按鈕仍保持 disabled（spec 要求）
+            });
+          } else {
+            clearDupWarn();
+          }
+        } catch { /* 查詢失敗不影響主流程 */ }
+      }
+
+      urlInput.addEventListener('blur', () => {
+        clearTimeout(_dupDebounce);
+        _dupDebounce = setTimeout(() => runDupCheck(urlInput.value.trim()), 300);
+      });
+
+      urlInput.addEventListener('input', () => {
+        clearTimeout(_dupDebounce);
+        if (_dupBlocked) clearDupWarn();
+      });
+
+      // ── Admin Drawer ─────────────────────────────────────────────────────────
+      let drawerOpen = false;
+      let drawerTab = 'recent';
+      let _drawerRecentData = [];
+      let _drawerBlData = [];
+
+      const adminFab = document.getElementById('admin-fab');
+      const drawerEl = document.getElementById('admin-drawer');
+      const drawerOverlay = document.getElementById('drawer-overlay');
+
+      function openDrawer() {
+        drawerEl.classList.add('open');
+        drawerOverlay.classList.add('show');
+        document.body.style.overflow = 'hidden';
+        drawerOpen = true;
+        loadDrawerRecent();
+        if (drawerTab === 'blocklist') loadDrawerBlocklist();
+      }
+
+      function closeDrawer() {
+        drawerEl.classList.remove('open');
+        drawerOverlay.classList.remove('show');
+        document.body.style.overflow = '';
+        drawerOpen = false;
+      }
+
+      adminFab?.addEventListener('click', openDrawer);
+      document.getElementById('drawer-close-btn')?.addEventListener('click', closeDrawer);
+      drawerOverlay?.addEventListener('click', closeDrawer);
+
+      // Tab switching
+      document.querySelectorAll('.drawer-tab').forEach(btn => {
+        btn.addEventListener('click', () => {
+          drawerTab = btn.dataset.tab;
+          document.querySelectorAll('.drawer-tab').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          document.getElementById('drawer-tab-recent').style.display = drawerTab === 'recent' ? '' : 'none';
+          document.getElementById('drawer-tab-blocklist').style.display = drawerTab === 'blocklist' ? '' : 'none';
+          if (drawerTab === 'blocklist') loadDrawerBlocklist();
+        });
+      });
+
+      // Search filter
+      document.getElementById('drawer-search')?.addEventListener('input', (e) => {
+        renderDrawerRecent(_drawerRecentData, e.target.value.trim().toLowerCase());
+      });
+      document.getElementById('drawer-bl-search')?.addEventListener('input', (e) => {
+        renderDrawerBlocklist(_drawerBlData, e.target.value.trim().toLowerCase());
+      });
+
+      // ── Drawer Recent ──
+      async function loadDrawerRecent() {
+        try {
+          const res = await fetch('/api/recent-unfurls?limit=30');
+          const data = await res.json();
+          _drawerRecentData = data.items || [];
+          renderDrawerRecent(_drawerRecentData, document.getElementById('drawer-search')?.value.trim().toLowerCase() ?? '');
+        } catch {
+          document.getElementById('drawer-recent-list').innerHTML = '<div class="drawer-empty">載入失敗</div>';
+        }
+      }
+
+      function renderDrawerRecent(items, query = '') {
+        const list = document.getElementById('drawer-recent-list');
+        if (!list) return;
+        const filtered = query
+          ? items.filter(i => (i.title || '').toLowerCase().includes(query) || (i.sourceUrl || '').toLowerCase().includes(query))
+          : items;
+        if (filtered.length === 0) {
+          list.innerHTML = '<div class="drawer-empty">沒有符合的資料</div>';
+          return;
+        }
+        list.innerHTML = '';
+        filtered.forEach(item => {
+          const row = document.createElement('div');
+          row.className = 'drawer-row';
+          row.dataset.id = item.id;
+
+          const isEmbed = item.renderMode === 'embed' || META_PLATFORMS.has(item.platform);
+          const imgHtml = isEmbed
+            ? `<div class="drawer-row-icon embed-ph-${item.platform}" style="font-size:1.4rem">${PLAT_ICON[item.platform] ?? '◉'}</div>`
+            : (item.thumbnail
+                ? `<img class="drawer-row-thumb" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="this.style.display='none'">`
+                : `<div class="drawer-row-icon" style="background:#f0f0f0;color:#aaa">${PLAT_ICON[item.platform] ?? '?'}</div>`);
+
+          const title = isEmbed
+            ? (item.embedHandle ? `${item.embedHandle} 的貼文` : `${item.platform} 貼文`)
+            : (item.title || item.authorName || item.sourceUrl || '無標題');
+
+          row.innerHTML = `
+            ${imgHtml}
+            <div class="drawer-row-info">
+              <div class="drawer-row-title" title="${esc(item.title || '')}">${esc(title)}</div>
+              <div class="drawer-row-sub">👁 ${item.views ?? 0} · ${formatDateTime(item.fetchedAt)}</div>
+            </div>
+            <div class="drawer-row-actions">
+              <button class="drawer-act-btn drawer-act-soft" title="軟刪除">🗑</button>
+              <button class="drawer-act-btn drawer-act-block" title="封鎖">🚫</button>
+            </div>
+          `;
+
+          row.querySelector('.drawer-act-soft').addEventListener('click', async (e) => {
+            e.stopPropagation();
+            if (!confirm('移除這張卡片？相同網址日後可再次分享。')) return;
+            // Find matching card in main grid
+            const gridCard = recentGrid.querySelector(`[data-id="${CSS.escape(item.id)}"]`);
+            await deleteRecentItem(item.id, gridCard, 'soft');
+            row.style.transition = 'opacity 0.3s';
+            row.style.opacity = '0';
+            setTimeout(() => row.remove(), 300);
+            _drawerRecentData = _drawerRecentData.filter(i => i.id !== item.id);
+          });
+
+          row.querySelector('.drawer-act-block').addEventListener('click', async (e) => {
+            e.stopPropagation();
+            if (!confirm('封鎖這張卡片？該網址會加入黑名單，之後無法再被分享。')) return;
+            const gridCard = recentGrid.querySelector(`[data-id="${CSS.escape(item.id)}"]`);
+            await deleteRecentItem(item.id, gridCard, 'block');
+            row.style.transition = 'opacity 0.3s';
+            row.style.opacity = '0';
+            setTimeout(() => row.remove(), 300);
+            _drawerRecentData = _drawerRecentData.filter(i => i.id !== item.id);
+          });
+
+          list.appendChild(row);
+        });
+      }
+
+      // ── Drawer Blocklist ──
+      async function loadDrawerBlocklist() {
+        const list = document.getElementById('drawer-bl-list');
+        list.innerHTML = '<div class="drawer-empty">載入中…</div>';
+        try {
+          const res = await fetch('/api/blocklist');
+          const data = await res.json();
+          _drawerBlData = data.items || [];
+          renderDrawerBlocklist(_drawerBlData, document.getElementById('drawer-bl-search')?.value.trim().toLowerCase() ?? '');
+        } catch {
+          list.innerHTML = '<div class="drawer-empty">載入失敗</div>';
+        }
+      }
+
+      function renderDrawerBlocklist(items, query = '') {
+        const list = document.getElementById('drawer-bl-list');
+        if (!list) return;
+        const filtered = query
+          ? items.filter(i => (i.sourceUrl || '').toLowerCase().includes(query) || (i.hash || '').toLowerCase().includes(query))
+          : items;
+        if (filtered.length === 0) {
+          list.innerHTML = '<div class="drawer-empty">目前沒有被封鎖的網址 🎉</div>';
+          return;
+        }
+        list.innerHTML = '';
+        filtered.forEach(item => {
+          const row = document.createElement('div');
+          row.className = 'drawer-row';
+          row.innerHTML = `
+            <div class="drawer-row-info" style="min-width:0">
+              <div class="drawer-row-url" title="${esc(item.sourceUrl || item.hash)}">${esc(item.sourceUrl || item.hash)}</div>
+              <div class="drawer-row-sub">${formatDateTime(item.blockedAt)}</div>
+            </div>
+            <div class="drawer-row-actions">
+              <button class="drawer-act-btn drawer-act-unblock" title="解除封鎖">解除</button>
+            </div>
+          `;
+          row.querySelector('.drawer-act-unblock').addEventListener('click', async (e) => {
+            e.stopPropagation();
+            try {
+              const res = await fetch(`/api/blocklist/${encodeURIComponent(item.hash)}`, { method: 'DELETE' });
+              const data = await res.json();
+              if (data.ok) {
+                showToast('已解除封鎖');
+                row.style.transition = 'opacity 0.3s';
+                row.style.opacity = '0';
+                setTimeout(() => row.remove(), 300);
+                _drawerBlData = _drawerBlData.filter(i => i.hash !== item.hash);
+              } else {
+                showToast(`解除失敗：${data.error}`);
+              }
+            } catch {
+              showToast('解除失敗：網路錯誤');
+            }
+          });
+          list.appendChild(row);
+        });
+      }
+
+      // Initialize（top-viewed first so hotRankMap is ready before loadRecent）
+      checkAdmin();
+      loadTopViewed().then(() => loadRecent());
+    </script>
+  </body>
+</html>

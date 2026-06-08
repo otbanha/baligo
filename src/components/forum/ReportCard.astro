@@ -1,0 +1,95 @@
+---
+import type { Report, TrustLevel } from '../../types/forum';
+import { VISA_TYPE_LABELS, TIME_SLOT_LABELS, getTrustLevel } from '../../types/forum';
+import TrustBadge from './TrustBadge.astro';
+
+interface Props { report: Report; }
+const { report } = Astro.props;
+
+const profile = report.user_profiles;
+const trustLevel: TrustLevel = profile
+  ? getTrustLevel({ approved_count: profile.approved_count, flagged_count: 0, last_flag_at: undefined })
+  : 'new';
+
+const now = new Date();
+const entry = new Date(report.entry_date);
+const daysSince = Math.floor((now.getTime() - entry.getTime()) / 86400000);
+const isExpiredWarning = daysSince >= 14;
+
+const detailHash = `#${report.id}`;
+---
+
+<article class={`report-card${isExpiredWarning ? ' report-card--stale' : ''}`}>
+  <a href={`/forum/immigration/${detailHash}`} class="report-card-link" aria-label={`查看 ${report.entry_date} 入境通報`}>
+
+    <header class="rc-header">
+      <div class="rc-meta">
+        <span class="rc-date">{report.entry_date}</span>
+        <span class="rc-dot">·</span>
+        <span class="rc-timeslot">{TIME_SLOT_LABELS[report.entry_time_slot]}</span>
+        {isExpiredWarning && <span class="rc-stale-badge">可能過期</span>}
+      </div>
+      <span class="rc-visa">{VISA_TYPE_LABELS[report.visa_type]}</span>
+    </header>
+
+    <p class="rc-notes">{report.general_notes.slice(0, 120)}{report.general_notes.length > 120 ? '⋯' : ''}</p>
+
+    <footer class="rc-footer">
+      <div class="rc-flags">
+        {report.customs_checked && <span class="rc-flag rc-flag--customs">🔍 海關檢查</span>}
+        {report.bribe_attempted && <span class="rc-flag rc-flag--bribe">⚠️ 遭索賄</span>}
+        {report.queue_minutes != null && <span class="rc-flag">⏱ 排隊 {report.queue_minutes} 分</span>}
+      </div>
+      <div class="rc-author">
+        {profile?.avatar_url
+          ? <img src={profile.avatar_url} alt="" class="rc-avatar" loading="lazy" />
+          : <span class="rc-avatar-placeholder">👤</span>
+        }
+        <span class="rc-display-name">{profile?.display_name ?? '匿名'}</span>
+        <TrustBadge level={trustLevel} />
+      </div>
+    </footer>
+
+    {report.proof_image_urls?.[0] && (
+      <div class="rc-thumb">
+        <img src={report.proof_image_urls[0]} alt="通報照片" loading="lazy" />
+      </div>
+    )}
+  </a>
+</article>
+
+<style>
+.report-card {
+  background: #fff;
+  border: 1px solid rgba(201,168,76,.2);
+  border-radius: 12px;
+  overflow: hidden;
+  transition: transform .15s, box-shadow .15s;
+}
+.report-card:hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(93,64,55,.1); }
+.report-card--stale { border-color: #fcd34d; }
+
+.report-card-link { display: block; text-decoration: none; color: inherit; padding: 1rem; }
+
+.rc-header { display: flex; justify-content: space-between; align-items: center; margin-bottom: .6rem; flex-wrap: wrap; gap: .4rem; }
+.rc-meta { display: flex; align-items: center; gap: .4rem; font-size: .82rem; color: var(--text-light); }
+.rc-dot { color: #d4c9b5; }
+.rc-stale-badge { background: #fffbeb; color: #92400e; font-size: .68rem; font-weight: 700; padding: .1em .5em; border-radius: 8px; border: 1px solid #fcd34d; }
+.rc-visa { font-size: .78rem; font-weight: 700; color: var(--ocean); background: rgba(201,168,76,.12); padding: .15em .6em; border-radius: 8px; }
+
+.rc-notes { font-size: .88rem; line-height: 1.65; color: var(--text); margin: 0 0 .8rem; }
+
+.rc-footer { display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap; gap: .5rem; }
+.rc-flags { display: flex; flex-wrap: wrap; gap: .4rem; }
+.rc-flag { font-size: .75rem; background: #f8f9fa; border-radius: 6px; padding: .15em .55em; color: var(--text-light); }
+.rc-flag--customs { background: #eff6ff; color: #E63946; }
+.rc-flag--bribe   { background: #fff5f5; color: #c53030; }
+
+.rc-author { display: flex; align-items: center; gap: .4rem; }
+.rc-avatar { width: 22px; height: 22px; border-radius: 50%; object-fit: cover; }
+.rc-avatar-placeholder { font-size: 1rem; }
+.rc-display-name { font-size: .8rem; color: var(--text-light); }
+
+.rc-thumb { margin: .8rem -1rem -1rem; }
+.rc-thumb img { width: 100%; height: 160px; object-fit: cover; display: block; }
+</style>

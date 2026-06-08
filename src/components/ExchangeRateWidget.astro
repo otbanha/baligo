@@ -1,0 +1,229 @@
+---
+// ExchangeRateWidget.astro
+const { lang = 'zh-tw' } = Astro.props;
+
+const i18n: Record<string, { title: string; datePrefix: string; disclaimer: string }> = {
+  'zh-tw': {
+    title: '💱 每日參考匯率',
+    datePrefix: '最新更新：',
+    disclaimer: '資料來源：市場參考價，實際匯率以各換匯所為準',
+  },
+  'zh-hk': {
+    title: '💱 每日參考匯率',
+    datePrefix: '最新更新：',
+    disclaimer: '資料來源：市場參考價，實際匯率以各換匯所為準',
+  },
+  'zh-cn': {
+    title: '💱 每日参考汇率',
+    datePrefix: '最新更新：',
+    disclaimer: '资料来源：市场参考价，实际汇率以各换汇所为准',
+  },
+  'en': {
+    title: '💱 Daily Exchange Rate',
+    datePrefix: 'Updated: ',
+    disclaimer: 'Source: Market reference rate. Actual rates vary by money changer.',
+  },
+};
+
+const t = i18n[lang] ?? i18n['zh-tw'];
+---
+
+<div class="exr-widget" id="exr-widget">
+  <div class="exr-header">
+    <span class="exr-title">{t.title}</span>
+    <span class="exr-date" id="exr-date"></span>
+  </div>
+  <div class="exr-grid" id="exr-row">
+    <span class="exr-loading">{lang === 'en' ? 'Loading…' : '載入中…'}</span>
+  </div>
+  <p class="exr-disclaimer">{t.disclaimer}</p>
+</div>
+
+<script is:inline define:vars={{ datePrefix: t.datePrefix }}>
+(function () {
+  var CURRENCIES = [
+    { code: 'USD', cc: 'us' },
+    { code: 'AUD', cc: 'au' },
+    { code: 'SGD', cc: 'sg' },
+    { code: 'HKD', cc: 'hk' },
+    { code: 'MYR', cc: 'my' },
+    { code: 'CNY', cc: 'cn' },
+    { code: 'TWD', cc: 'tw', fixed: 350 },
+  ];
+
+  function fmt(n) {
+    return Number(n).toLocaleString('en-US');
+  }
+
+  var today = new Date(Date.now() + 8*3600000);
+  var dateKey = today.getUTCFullYear() + '-' + String(today.getUTCMonth()+1).padStart(2,'0') + '-' + String(today.getUTCDate()).padStart(2,'0');
+  fetch('/api/exchange-rate?d=' + dateKey)
+    .then(function(r) { return r.ok ? r.json() : Promise.reject(); })
+    .then(function(data) {
+      var row = document.getElementById('exr-row');
+      var dateEl = document.getElementById('exr-date');
+      if (!row) return;
+      if (data.date && dateEl) dateEl.textContent = datePrefix + data.date;
+      if (!data.rates) {
+        row.innerHTML = '<span style="color:rgba(255,255,255,0.4);font-size:0.85em">—</span>';
+        return;
+      }
+      var items = CURRENCIES.map(function(c) {
+        var val = c.fixed != null ? c.fixed : data.rates[c.code];
+        var rp = val != null ? 'Rp ' + fmt(val) : '—';
+        return '<div class="exr-item">' +
+            '<img class="exr-flag" src="https://flagcdn.com/24x18/' + c.cc + '.png" width="24" height="18" alt="' + c.code + '" loading="lazy">' +
+            '<span class="exr-code">1 ' + c.code + '</span>' +
+            '<span class="exr-amt">' + rp + '</span>' +
+          '</div>';
+      }).join('');
+      var cta = '<a class="exr-item exr-cta" href="https://gobaligo.id/blog/bali-currency-exchange-guide/" target="_blank" rel="noopener">' +
+        '<span class="exr-flag">💡</span>' +
+        '<span class="exr-code">換匯攻略</span>' +
+        '<span class="exr-amt exr-cta-text">點我 →</span>' +
+      '</a>';
+      row.innerHTML = items + cta;
+    })
+    .catch(function() {
+      var row = document.getElementById('exr-row');
+      if (row) row.innerHTML = '<span style="color:rgba(255,255,255,0.4);font-size:0.85em">—</span>';
+    });
+})();
+</script>
+
+<style>
+.exr-widget {
+  background: linear-gradient(135deg, #5D4037 0%, #8B5E3C 100%);
+  border: 1px solid rgba(197,160,89,0.4);
+  border-radius: 12px;
+  padding: 0.8em 1.2em 0.65em;
+  box-shadow: 0 8px 32px rgba(93,64,55,0.25), inset 0 1px 0 rgba(197,160,89,0.3);
+  position: relative;
+  margin-bottom: 1.2em;
+  overflow: hidden;
+}
+.exr-widget::before {
+  content: '';
+  position: absolute;
+  top: 0; left: 0; right: 0; height: 2px;
+  background: linear-gradient(90deg, transparent, #C5A059, transparent);
+}
+.exr-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.6em;
+  gap: 0.5em;
+}
+.exr-title {
+  font-size: 0.85em;
+  font-weight: 700;
+  color: #d4b47a;
+  letter-spacing: 0.04em;
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.exr-date {
+  font-size: 0.65em;
+  color: rgba(197,160,89,0.6);
+  text-align: right;
+  line-height: 1.3;
+}
+
+/* ── Grid layout: 7 欄桌機 → 4 欄手機（自動換行） ── */
+.exr-grid {
+  display: grid;
+  grid-template-columns: repeat(7, 1fr);
+  gap: 0.3em 0;
+}
+.exr-loading {
+  grid-column: 1 / -1;
+  color: rgba(255,255,255,0.4);
+  font-size: 0.85em;
+  text-align: center;
+  padding: 0.6em 0;
+}
+.exr-disclaimer {
+  margin: 0.55em 0 0;
+  font-size: 0.65em;
+  color: rgba(255,255,255,0.3);
+  text-align: right;
+}
+
+/* ── 各幣別格子 ── */
+:global(.exr-item) {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 0.15em;
+  padding: 0.35em 0.15em;
+  border-right: 1px solid rgba(197,160,89,0.15);
+}
+:global(.exr-item:last-child) {
+  border-right: none;
+}
+:global(.exr-flag) {
+  width: 24px;
+  height: 18px;
+  border-radius: 2px;
+  display: block;
+  object-fit: cover;
+}
+:global(.exr-code) {
+  font-size: 0.72em;
+  color: rgba(255,255,255,0.6);
+  white-space: nowrap;
+}
+:global(.exr-amt) {
+  font-size: 0.9em;
+  font-weight: 800;
+  color: #ffffff;
+  white-space: nowrap;
+}
+
+/* ── CTA（換匯攻略）桌機隱藏，手機才顯示 ── */
+:global(.exr-cta) {
+  display: none !important;
+}
+:global(.exr-cta-text) {
+  color: #d4b47a !important;
+}
+
+/* ── 手機版：改成 4 欄，自動換 2 排（4+4） ── */
+@media (max-width: 640px) {
+  .exr-grid {
+    grid-template-columns: repeat(4, 1fr);
+  }
+  /* 第 4 格保留右 border */
+  :global(.exr-item:nth-child(4)) {
+    border-right: 1px solid rgba(197,160,89,0.15);
+  }
+  /* 第 8 格（CTA）無右 border */
+  :global(.exr-item:nth-child(8)) {
+    border-right: none;
+  }
+  /* 第二排（5～8）加頂部分隔線 */
+  :global(.exr-item:nth-child(5)),
+  :global(.exr-item:nth-child(6)),
+  :global(.exr-item:nth-child(7)),
+  :global(.exr-item:nth-child(8)) {
+    border-top: 1px solid rgba(197,160,89,0.12);
+  }
+  /* 顯示 CTA */
+  :global(.exr-cta) {
+    display: flex !important;
+    background: rgba(197,160,89,0.07);
+    cursor: pointer;
+    text-decoration: none;
+    transition: background 0.2s;
+  }
+  :global(.exr-cta:hover) {
+    background: rgba(197,160,89,0.16);
+  }
+  :global(.exr-flag) { width: 20px; height: 15px; }
+  :global(.exr-code) { font-size: 0.68em; }
+  :global(.exr-amt)  { font-size: 0.82em; }
+  .exr-date { font-size: 0.6em; }
+  .exr-header { align-items: flex-start; }
+}
+</style>

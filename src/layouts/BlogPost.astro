@@ -1,0 +1,1910 @@
+---
+import type { CollectionEntry } from 'astro:content';
+import BaseHead from '../components/BaseHead.astro';
+import SEO from '../components/SEO.astro';
+import Footer from '../components/Footer.astro';
+import FormattedDate from '../components/FormattedDate.astro';
+import Header from '../components/Header.astro';
+import TopStrip from '../components/TopStrip.astro';
+import ChatBot from '../components/ChatBot.astro';
+import TripPlannerBanner from '../components/TripPlannerBanner.astro';
+import RelatedMapCard from '../components/RelatedMapCard.astro';
+import { getCollection } from 'astro:content';
+import { enhancedTitle, enhancedDescription, COMPANION_CAT } from '../utils/seo-keywords';
+
+type Driver = {
+  name: string;
+  category: string;
+  languages: string[];
+  specialty: string;
+  contact: string;
+  facebookRefs: number;
+};
+
+type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[]; lang?: string; slug?: string; isDriverGuide?: boolean; drivers?: Driver[]; isSpaGuide?: boolean };
+const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate, shuffle_h2: shuffleH2, isDriverGuide = false, drivers = [], isSpaGuide = false } = Astro.props;
+
+const tocHeadings = headings.filter(h => h.depth === 1 || h.depth === 2 || h.depth === 3);
+const showToc = tocHeadings.length >= 2;
+
+// OG image：優先用 heroImage，沒有才抓文章第一張圖
+function extractFirstImage(text: string): string {
+  const m = text?.match(/!\[.*?\]\((https?:\/\/[^\)\s]+)\)/);
+  return m ? m[1] : '';
+}
+const ogImage = (typeof heroImage === 'string' && heroImage) ? heroImage : extractFirstImage(body);
+
+// Keyword-enhanced title & description for <meta> tags
+const cats = Array.isArray(category) ? category : (category ? [category] : []);
+const metaTitle = enhancedTitle(title, cats, lang ?? 'zh-tw');
+const metaDesc  = enhancedDescription(description ?? '', cats, lang ?? 'zh-tw');
+
+const collectionName = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-cn' : lang === 'zh-hk' ? 'zh-hk' : 'blog';
+const allPosts = await getCollection(collectionName as any);
+
+const CAT_EN: Record<string, string> = {
+  '新手指南': "Beginner's Guide",
+  '住宿推薦': 'Accommodation', '住宿推荐': 'Accommodation',
+  '峇里島分區攻略': 'Area Guide', '峇里岛分区攻略': 'Area Guide',
+  '簽證通關': 'Visa & Entry', '签证通关': 'Visa & Entry',
+  '叫車包車': 'Transport', '叫车包车': 'Transport',
+  '家庭親子': 'Family Travel', '家庭亲子': 'Family Travel',
+  '遊記分享': 'Travel Stories', '游记分享': 'Travel Stories',
+  '美食景點活動': 'Food & Activities', '美食景点活动': 'Food & Activities',
+  '新聞存檔': 'News Archive', '新闻存档': 'News Archive',
+  '旅行技巧': 'Travel Tips',
+};
+
+const CAT_ZH_CN: Record<string, string> = {
+  '新手指南': '新手指南',
+  '住宿推薦': '住宿推荐', '住宿推荐': '住宿推荐',
+  '峇里島分區攻略': '峇里岛分区攻略', '峇里岛分区攻略': '峇里岛分区攻略',
+  '簽證通關': '签证通关', '签证通关': '签证通关',
+  '叫車包車': '叫车包车', '叫车包车': '叫车包车',
+  '家庭親子': '家庭亲子', '家庭亲子': '家庭亲子',
+  '遊記分享': '游记分享', '游记分享': '游记分享',
+  '美食景點活動': '美食景点活动', '美食景点活动': '美食景点活动',
+  '新聞存檔': '新闻存档', '新闻存档': '新闻存档',
+};
+
+const getCatLabel = (cat: string) => {
+  if (lang === 'en') return CAT_EN[cat] ?? cat;
+  if (lang === 'zh-cn') return CAT_ZH_CN[cat] ?? cat;
+  return cat;
+};
+
+const blogBase = lang === 'en' ? '/en/blog' : lang === 'zh-cn' ? '/zh-cn/blog' : lang === 'zh-hk' ? '/zh-hk/blog' : '/blog';
+const isZhTw = lang !== 'en' && lang !== 'zh-cn' && lang !== 'zh-hk';
+const blogIndexUrl = isZhTw ? `${blogBase}/?lang=tw` : `${blogBase}/`;
+const catBaseUrl   = isZhTw ? `${blogBase}/?lang=tw&cat=` : `${blogBase}?cat=`;
+
+const canonicalUrl = `https://gobaligo.id${blogBase}/${slug}/`;
+const shareText = encodeURIComponent(title);
+const shareUrl  = encodeURIComponent(canonicalUrl);
+const shareLinks = {
+  fb:      `https://www.facebook.com/sharer/sharer.php?u=${shareUrl}`,
+  line:    `https://social-plugins.line.me/lineit/share?url=${shareUrl}`,
+  wa:      `https://api.whatsapp.com/send?text=${shareText}%20${shareUrl}`,
+  x:       `https://twitter.com/intent/tweet?url=${shareUrl}&text=${shareText}`,
+  threads: `https://www.threads.net/intent/post?text=${shareText}%20${shareUrl}`,
+};
+const i18nShare = {
+  label:    lang === 'en' ? 'Share' : lang === 'zh-cn' ? '分享' : '分享',
+  copy:     lang === 'en' ? 'Copy Link' : lang === 'zh-cn' ? '复制链接' : '複製連結',
+  copied:   lang === 'en' ? 'Copied!' : lang === 'zh-cn' ? '已复制！' : '已複製！',
+  bookmark: lang === 'en' ? 'Bookmark' : lang === 'zh-cn' ? '收藏' : '書籤',
+  bookmarked: lang === 'en' ? 'Saved!' : lang === 'zh-cn' ? '已收藏！' : '已儲存！',
+};
+
+const i18n = {
+  sidebarTitle: lang === 'en' ? '📂 Categories' : lang === 'zh-cn' ? '📂 文章分类' : '📂 文章分類',
+  allArticles: lang === 'en' ? 'Home' : '首頁',
+  breadcrumbAll: lang === 'en' ? '← All Articles' : '← 所有文章',
+  tocTitle: lang === 'en' ? '📋 Contents' : lang === 'zh-cn' ? '📋 目录' : '📋 目錄',
+  tocCollapse: lang === 'en' ? 'Collapse' : '收起',
+  tocExpand: lang === 'en' ? 'Expand' : lang === 'zh-cn' ? '展开' : '展開',
+  relatedTitle: lang === 'en' ? '🗺️ You May Also Like' : lang === 'zh-cn' ? '🗺️ 你可能也想看' : '🗺️ 你可能也想看',
+};
+
+const categoryOrder = [
+  '新手指南',
+  '住宿推薦',
+  '峇里島分區攻略',
+  '簽證通關',
+  '叫車包車',
+  '家庭親子',
+  '遊記分享',
+  '美食景點活動',
+  '新聞存檔',
+];
+
+const allCategories = [...new Set(allPosts.flatMap(p =>
+  Array.isArray(p.data.category) ? p.data.category : [p.data.category]
+).filter(Boolean))];
+
+const categories = [
+  ...categoryOrder.filter(c => allCategories.includes(c)),
+  ...allCategories.filter(c => !categoryOrder.includes(c)),
+];
+
+const categoryCounts = categories.reduce((acc, cat) => {
+  acc[cat] = allPosts.filter(p => {
+    const cats = Array.isArray(p.data.category) ? p.data.category : [p.data.category];
+    return cats.includes(cat);
+  }).length;
+  return acc;
+}, {});
+
+// 相關文章推薦：同分類優先，補足用 companion 分類（Topical Authority Siloing）
+const getRandomPosts = (categoryName: string, count: number) => {
+  return allPosts
+    .filter(p => {
+      const pCats = Array.isArray(p.data.category) ? p.data.category : [p.data.category];
+      return pCats.includes(categoryName) && p.data.title !== title;
+    })
+    .sort(() => Math.random() - 0.5)
+    .slice(0, count);
+};
+
+const primaryCat = cats[0] ?? '峇里島分區攻略';
+const sameCatPosts = getRandomPosts(primaryCat, 4);
+const companionCat = COMPANION_CAT[primaryCat] ?? '峇里島分區攻略';
+const companionPosts = companionCat !== primaryCat
+  ? getRandomPosts(companionCat, Math.max(2, 6 - sameCatPosts.length))
+  : [];
+const randomPosts = [...sameCatPosts, ...companionPosts].slice(0, 6);
+
+// 促銷活動：過濾未過期的
+const allPromos = await getCollection('promotions');
+const now = new Date();
+const activePromos = allPromos.filter(p => {
+  if (!p.data.expiresAt) return true;
+  const d = new Date(p.data.expiresAt);
+  return isNaN(d.getTime()) || d > now;
+});
+const promosJson = JSON.stringify(activePromos.map(p => ({
+  title: p.data.title,
+  title_en: p.data.title_en || null,
+  title_zh_cn: p.data.title_zh_cn || null,
+  title_zh_hk: p.data.title_zh_hk || null,
+  url: p.data.url,
+  coverImage: p.data.coverImage || null,
+})));
+
+// Generate Person + LocalBusiness Schema for drivers (Task #3 - Schema markup for drivers)
+const driverSchemas = (isDriverGuide && Array.isArray(drivers) && drivers.length > 0)
+  ? drivers.map((driver) => {
+      const driverSlug = driver.name.toLowerCase().replace(/\s+/g, '-');
+      const driverUrl = `https://gobaligo.id/blog/${slug}/#${driverSlug}`;
+
+      return {
+        "@context": "https://schema.org",
+        "@type": ["Person", "LocalBusiness"],
+        "name": driver.name,
+        "jobTitle": driver.category,
+        "areaServed": {
+          "@type": "City",
+          "name": "Bali"
+        },
+        "knowsLanguage": driver.languages.map(lang => ({
+          "@type": "Language",
+          "name": lang
+        })),
+        "description": `${driver.name} - ${driver.category}. Specialty: ${driver.specialty}. Contact: ${driver.contact}. Recommended by ${driver.facebookRefs} community members.`,
+        "url": driverUrl,
+        "telephone": driver.contact,
+        "priceRange": "IDR 600,000 - 800,000 per day",
+        "availableLanguage": driver.languages,
+        "speciality": driver.specialty,
+        "expertise": "Bali private car driving",
+        "ratingValue": "5",
+        "reviewCount": driver.facebookRefs.toString()
+      };
+    })
+  : [];
+
+// Generate FAQPage Schema for SPA guides (Task #6)
+const spaFaqSchema = isSpaGuide ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": lang === 'en' ? "How far in advance should I book a Bali spa?" : lang === 'zh-cn' ? "巴厘岛 SPA 需要提前多久预约？" : "峇里島 SPA 需要提前多久預約？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": lang === 'en' ? "Most highly-rated spas in Bali require advance reservations, typically 1-3 days ahead during peak season. Booking through Klook or directly with your villa concierge is recommended. Walk-in bookings may result in long waits or unavailable time slots." : lang === 'zh-cn' ? "巴厘岛大多数好评SPA需要提前预约，旺季通常需提前1-3天。建议通过 Klook 平台或别墅礼宾服务预订。临时预约可能会导致长时间等待或无法预约。" : "峇里島大多數好評 SPA 需要提前預約，旺季通常需提前 1-3 天。建議通過 Klook 平台或別墅禮賓服務預訂。臨時預約可能會導致長時間等待或無法預約。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": lang === 'en' ? "What's the difference between Ubud spas and Jimbaran spas?" : lang === 'zh-cn' ? "乌布 SPA 和金巴兰 SPA 有什么区别？" : "烏布 SPA 和金巴蘭 SPA 有什麼區別？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": lang === 'en' ? "Ubud spas focus on traditional Balinese healing in forest settings with budget-friendly prices ($5-40). Jimbaran spas offer luxury oceanfront experiences with sunset therapies at higher prices ($50-200+). Choose Ubud for authentic cultural experiences and savings; Jimbaran for romantic, upscale treatments." : lang === 'zh-cn' ? "乌布SPA专注于传统峇里疗愈，森林环绕，价格亲民（$5-40）。金巴兰SPA提供海滨奢华体验，带日落疗程，价格较高（$50-200+）。选乌布体验地道文化和经济实惠；选金巴兰享受浪漫高端疗程。" : "烏布 SPA 專注於傳統峇里療愈，森林環繞，價格親民（$5-40）。金巴蘭 SPA 提供海濱奢華體驗，帶日落療程，價格較高（$50-200+）。選烏布體驗地道文化和經濟實惠；選金巴蘭享受浪漫高端療程。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": lang === 'en' ? "What should I know before getting a spa treatment for the first time?" : lang === 'zh-cn' ? "第一次做 SPA 需要注意什么？" : "第一次做 SPA 需要注意什麼？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": lang === 'en' ? "Arrive 10-15 minutes early to complete check-in. Communicate your preferences and any physical concerns to the therapist. Start with a traditional 60-minute massage if unsure. Hydrate well before and after. Avoid heavy meals beforehand. Most spas require payment upfront or through your hotel. Tipping (10-15%) is appreciated. Remember not all hotels allow in-villa massage services, so confirm first." : lang === 'zh-cn' ? "提前 10-15 分钟到达完成入住。向治疗师说明偏好和任何身体问题。如不确定，先选择传统 60 分钟按摩。疗程前后充分补水。避免饱食。大多 SPA 需要提前付款或通过酒店支付。小费（10-15%）可选。注意不是所有酒店都允许到房按摩，应先确认。" : "提前 10-15 分鐘到達完成入住。向治療師說明偏好和任何身體問題。如不確定，先選擇傳統 60 分鐘按摩。療程前後充分補水。避免飽食。大多 SPA 需要提前付款或通過酒店支付。小費（10-15%）可選。注意不是所有酒店都允許到房按摩，應先確認。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": lang === 'en' ? "Is massage or spa therapy better for relaxation?" : lang === 'zh-cn' ? "按摩和水疗哪个更适合放松？" : "按摩和水療哪個更適合放鬆？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": lang === 'en' ? "Traditional Balinese massage excels at releasing muscle tension and improving circulation. Water spa therapies focus on skincare and stress relief with aromatic oils. For maximum benefit, try both: start with an affordable massage in Ubud, then splurge on luxury spa treatments in Seminyak or Jimbaran. Many travelers do both during their stay." : lang === 'zh-cn' ? "传统峇里按摩擅长释放肌肉紧张和改善循环。水疗专注护肤和精油放松。为获得最佳效果，两种都试：先在乌布体验平价按摩，再在水明漾或金巴兰享受奢华疗程。很多旅客两种都做。" : "傳統峇里按摩擅長釋放肌肉緊張和改善循環。水療專注護膚和精油放鬆。為獲得最佳效果，兩種都試：先在烏布體驗平價按摩，再在水明漾或金巴蘭享受奢華療程。很多旅客兩種都做。"
+      }
+    },
+    {
+      "@type": "Question",
+      "name": lang === 'en' ? "What is the typical price range for spas in Bali?" : lang === 'zh-cn' ? "巴厘岛 SPA 的价格范围是多少？" : "峇里島 SPA 的價格範圍是多少？",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": lang === 'en' ? "Budget spas in rural areas cost $5-20 for traditional massage. Mid-range spas in popular areas (Ubud, Kuta, Sanur) charge $15-50 for quality treatments. Luxury spas in Seminyak, Jimbaran, and Nusa Dua range from $80-400+ for premium experiences. In-villa massage services cost $30-80 depending on service length and villa location." : lang === 'zh-cn' ? "农村地区预算SPA传统按摩$5-20。热门地区（乌布、库塔、沙努尔）中档SPA $15-50。水明漾、金巴兰、努沙杜瓦奢华SPA $80-400+。到房按摩服务$30-80（取决于服务时长和别墅位置）。" : "農村地區預算 SPA 傳統按摩 $5-20。熱門地區（烏布、庫塔、沙努爾）中檔 SPA $15-50。水明漾、金巴蘭、努沙杜瓦奢華 SPA $80-400+。到房按摩服務 $30-80（取決於服務時長和別墅位置）。"
+      }
+    }
+  ]
+} : null;
+---
+
+<html lang={lang === 'zh-cn' ? 'zh-CN' : lang === 'zh-hk' ? 'zh-HK' : lang === 'en' ? 'en' : 'zh-TW'}>
+<head>
+  <BaseHead
+    title={metaTitle}
+    description={metaDesc}
+    image={ogImage || undefined}
+    type="article"
+    publishedTime={pubDate ? new Date(pubDate).toISOString() : undefined}
+    modifiedTime={updatedDate ? new Date(updatedDate).toISOString() : (pubDate ? new Date(pubDate).toISOString() : undefined)}
+  />
+
+  {isPrivate && <meta name="robots" content="noindex,nofollow" />}
+
+  <!-- LCP preload: fetch hero image early to reduce Largest Contentful Paint -->
+  {ogImage && ogImage !== 'https://gobaligo.id/og-default.jpg' && (
+    <link rel="preload" as="image" href={ogImage} fetchpriority="high" />
+  )}
+
+  <!-- 繁體中文文章：設定 session 標記，防止 /blog/ 首頁偵測瀏覽器語言後把使用者跳轉到其他語系 -->
+  {(!lang || lang === 'zh-tw') && (
+    <script is:inline>sessionStorage.setItem('gobaligo_lang_checked', '1');</script>
+  )}
+
+  <!-- hreflang: 列出全部語言版本，讓 Google 了解多語系關係 -->
+  {slug && <>
+    <link rel="alternate" hreflang="x-default"  href={`https://gobaligo.id/blog/${slug}/`} />
+    <link rel="alternate" hreflang="zh-TW"      href={`https://gobaligo.id/blog/${slug}/`} />
+    <link rel="alternate" hreflang="zh-HK"      href={`https://gobaligo.id/zh-hk/blog/${slug}/`} />
+    <link rel="alternate" hreflang="zh-CN"      href={`https://gobaligo.id/zh-cn/blog/${slug}/`} />
+    <link rel="alternate" hreflang="en"         href={`https://gobaligo.id/en/blog/${slug}/`} />
+  </>}
+
+  <!-- JSON-LD: Category-Aware Schema.org (Article + BreadcrumbList + category-specific) -->
+  {slug && <SEO
+    title={title}
+    description={description ?? ''}
+    category={category}
+    body={body}
+    headings={headings}
+    lang={lang}
+    slug={slug}
+    pubDate={pubDate}
+    updatedDate={updatedDate}
+    heroImage={ogImage}
+  />}
+
+  <!-- JSON-LD: Driver Guide - Person + LocalBusiness Schema for each recommended driver -->
+  {isDriverGuide && (
+    <>
+      {driverSchemas.length > 0 && driverSchemas.map((schema) => (
+        <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+      ))}
+      {driverSchemas.length === 0 && <script type="application/ld+json">{"test": "drivers data not loaded"}</script>}
+    </>
+  )}
+
+  <!-- JSON-LD: SPA Guide - FAQPage Schema for SPA recommendations -->
+  {isSpaGuide && spaFaqSchema && (
+    <script type="application/ld+json" set:html={JSON.stringify(spaFaqSchema)} />
+  )}
+</head>
+
+<body>
+  <Header lang={lang ?? 'blog'} slug={slug} />
+  <TopStrip lang={lang ?? 'zh-tw'} />
+  <div class="layout">
+
+    <aside class="sidebar" data-pagefind-ignore>
+      <div class="sidebar-section">
+        <h3 class="sidebar-title">{i18n.sidebarTitle}</h3>
+        <ul class="category-list">
+          <li>
+            <a href={blogIndexUrl} class="category-item">
+              <span class="cat-name">{i18n.allArticles}</span>
+              <span class="cat-count">{allPosts.length}</span>
+            </a>
+          </li>
+          {categories.map(cat => (
+            <li>
+              <a href={`${catBaseUrl}${encodeURIComponent(cat)}`}
+                 class={`category-item ${(Array.isArray(category) ? category : [category]).includes(cat) ? 'active' : ''}`}
+                <span class="cat-name">{getCatLabel(cat)}</span>
+                <span class="cat-count">{categoryCounts[cat]}</span>
+              </a>
+            </li>
+          ))}
+        </ul>
+      </div>
+
+    </aside>
+
+    <main>
+      <!-- Mobile 分類導覽（桌機版有 sidebar，手機版才顯示） -->
+      <nav class="mobile-breadcrumb" aria-label="分類導覽">
+        <a href={blogIndexUrl} class="breadcrumb-home">{i18n.breadcrumbAll}</a>
+        {category && (
+          <>
+            <span class="breadcrumb-sep">›</span>
+            <a
+              href={`${catBaseUrl}${encodeURIComponent(Array.isArray(category) ? category[0] : category)}`}
+              class="breadcrumb-cat"
+            >
+              {getCatLabel(Array.isArray(category) ? category[0] : category)}
+            </a>
+          </>
+        )}
+      </nav>
+
+      <article {...(isPrivate ? { 'data-pagefind-ignore': true } : { 'data-pagefind-body': true })}>
+        {!isPrivate && <span data-pagefind-filter={`lang:${lang ?? 'zh-tw'}`} hidden aria-hidden="true"></span>}
+        <div class="prose">
+          <div class="title">
+            {category && <span class="article-category" data-pagefind-meta="category">{getCatLabel(Array.isArray(category) ? category[0] : category)}</span>}
+            <h1>{title}</h1>
+            <div class="date">
+              <FormattedDate date={pubDate} />
+              {updatedDate && (
+                <span class="last-updated-on">· 更新於 <FormattedDate date={updatedDate} /></span>
+              )}
+              <a href={`/admin/#/collections/blog/entries/${Astro.params.slug}`} class="edit-link" target="_blank" rel="noopener">✏️ 編輯文章</a>
+            </div>
+            <hr />
+          </div>
+
+          <!-- 分享列（頂部） -->
+          <div class="share-bar" data-url={canonicalUrl} data-title={title} data-bookmark-label={i18nShare.bookmark} data-bookmarked-label={i18nShare.bookmarked} data-copy-label={i18nShare.copy} data-copied-label={i18nShare.copied}>
+            <span class="share-label">{i18nShare.label}：</span>
+            <a href={shareLinks.line} target="_blank" rel="noopener" class="share-btn share-line" aria-label="LINE">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.63 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63h2.386c.346 0 .627.285.627.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.494.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63.346 0 .628.285.628.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.281.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314"/></svg>
+              LINE
+            </a>
+            <a href={shareLinks.fb} target="_blank" rel="noopener" class="share-btn share-fb" aria-label="Facebook">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+              FB
+            </a>
+            <a href={shareLinks.wa} target="_blank" rel="noopener" class="share-btn share-wa" aria-label="WhatsApp">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+              WA
+            </a>
+            <a href={shareLinks.x} target="_blank" rel="noopener" class="share-btn share-x" aria-label="X (Twitter)">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+              X
+            </a>
+            <a href={shareLinks.threads} target="_blank" rel="noopener" class="share-btn share-threads" aria-label="Threads">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.186 24h-.007c-3.581-.024-6.334-1.205-8.184-3.509C2.35 18.44 1.5 15.586 1.472 12.01v-.017c.03-3.579.879-6.43 2.525-8.482C5.845 1.205 8.6.024 12.18 0h.014c2.746.02 5.043.725 6.826 2.098 1.677 1.29 2.858 3.13 3.509 5.467l-2.04.569c-1.104-3.96-3.898-5.984-8.304-6.015-2.91.022-5.11.936-6.54 2.717C4.307 6.504 3.616 8.914 3.589 12c.027 3.086.718 5.496 2.057 7.164 1.43 1.783 3.631 2.698 6.54 2.717 2.623-.02 4.358-.631 5.8-2.045 1.647-1.613 1.618-3.593 1.09-4.798-.31-.71-.873-1.3-1.634-1.754-.192 1.352-.622 2.446-1.284 3.272-.886 1.102-2.14 1.704-3.73 1.79-1.202.065-2.361-.218-3.259-.801-1.063-.689-1.685-1.74-1.752-2.964-.065-1.19.408-2.285 1.33-3.082.88-.76 2.119-1.207 3.583-1.291a13.853 13.853 0 0 1 3.02.142c-.126-.742-.375-1.332-.75-1.757-.513-.586-1.301-.882-2.344-.882h-.07c-.765.006-2.059.399-2.211 2.086l-2.03-.17c.174-1.994 1.347-4.054 4.324-4.057h.08c1.7 0 3.019.487 3.921 1.448 1.058 1.13 1.479 2.818 1.25 5.009l-.009.057a6.12 6.12 0 0 1 1.4 1.167c.849 1.009 1.443 2.56 1.443 4.405 0 1.849-.593 3.499-1.671 4.681-1.441 1.589-3.52 2.394-6.195 2.394z"/></svg>
+              Threads
+            </a>
+            <button class="share-btn share-rednote" data-action="rednote">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.5 4.5a2 2 0 0 0-2-2h-11a2 2 0 0 0-2 2v3h-2a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h2v2a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2zm-4 10.5h-7v-1.5h7zm0-3h-7V10.5h7zm0-3h-7V7.5h7z"/></svg>
+              小紅書
+            </button>
+            <button class="share-btn share-ig" data-action="instagram">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+              IG
+            </button>
+            <button class="share-btn share-copy" data-action="copy">{i18nShare.copy}</button>
+            <button class="share-btn share-bookmark" data-action="bookmark">🔖 {i18nShare.bookmark}</button>
+          </div>
+
+          {heroImage && heroImage !== extractFirstImage(body) && (
+            <div class="hero-image">
+              <img src={heroImage} alt={title} loading="eager" fetchpriority="high" />
+            </div>
+          )}
+
+          {showToc && (
+            <nav class="toc" aria-label="文章目錄">
+              <div class="toc-header">
+                <span class="toc-title">{i18n.tocTitle}</span>
+                <button class="toc-toggle" aria-expanded="true" aria-controls="toc-list" data-collapse={i18n.tocCollapse} data-expand={i18n.tocExpand}>{i18n.tocCollapse}</button>
+              </div>
+              <ol id="toc-list" class="toc-list">
+                {tocHeadings.map(h => (
+                  <li class={h.depth === 1 ? 'toc-h1' : h.depth === 3 ? 'toc-h3' : 'toc-h2'}>
+                    <a href={`#${h.slug}`}>{h.text}</a>
+                  </li>
+                ))}
+              </ol>
+            </nav>
+          )}
+
+          <!-- D.2-1: hero 位置 — 目錄下方、內文前 -->
+          {slug && <RelatedMapCard blogUrl={`https://gobaligo.id/blog/${slug}/`} position="hero" lang={lang} />}
+
+          <div id="article-body" data-shuffle={shuffleH2 ? 'true' : 'false'}>
+            <slot />
+          </div>
+
+          <!-- D.2-3: footer 位置 — 文末 CTA 卡片 -->
+          {slug && <RelatedMapCard blogUrl={`https://gobaligo.id/blog/${slug}/`} position="hero" lang={lang} />}
+
+          <!-- 促銷區塊 -->
+          {activePromos.length > 0 && (
+            <div id="promo-block-article"></div>
+          )}
+
+          <!-- Trip Planner Banner -->
+          <TripPlannerBanner lang={lang === 'zh-cn' ? 'zh-cn' : lang === 'zh-hk' ? 'zh-hk' : lang === 'en' ? 'en' : 'zh-tw'} />
+
+          <!-- 分享列（底部） -->
+          <div class="share-bar share-bar--bottom" data-url={canonicalUrl} data-title={title} data-bookmark-label={i18nShare.bookmark} data-bookmarked-label={i18nShare.bookmarked} data-copy-label={i18nShare.copy} data-copied-label={i18nShare.copied}>
+            <span class="share-label">{i18nShare.label}：</span>
+            <a href={shareLinks.line} target="_blank" rel="noopener" class="share-btn share-line" aria-label="LINE">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.365 9.863c.349 0 .63.285.63.631 0 .345-.281.63-.63.63H17.61v1.125h1.755c.349 0 .63.283.63.630 0 .344-.281.629-.63.629h-2.386c-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63h2.386c.346 0 .627.285.627.63 0 .349-.281.63-.63.63H17.61v1.125h1.755zm-3.855 3.016c0 .27-.174.51-.432.596-.064.021-.133.031-.199.031-.211 0-.391-.09-.51-.25l-2.443-3.317v2.94c0 .344-.279.629-.631.629-.346 0-.626-.285-.626-.629V8.108c0-.27.173-.51.43-.595.06-.023.136-.033.194-.033.195 0 .375.104.494.254l2.462 3.33V8.108c0-.345.282-.63.63-.63.345 0 .63.285.63.63v4.771zm-5.741 0c0 .344-.282.629-.631.629-.345 0-.627-.285-.627-.629V8.108c0-.345.282-.63.63-.63.346 0 .628.285.628.63v4.771zm-2.466.629H4.917c-.345 0-.63-.285-.63-.629V8.108c0-.345.285-.63.63-.63.348 0 .63.285.63.63v4.141h1.756c.348 0 .629.283.629.63 0 .344-.281.629-.629.629M24 10.314C24 4.943 18.615.572 12 .572S0 4.943 0 10.314c0 4.811 4.27 8.842 10.035 9.608.391.082.923.258 1.058.59.12.301.079.766.038 1.08l-.164 1.02c-.045.301-.24 1.186 1.049.645 1.291-.539 6.916-4.078 9.436-6.975C23.176 14.393 24 12.458 24 10.314"/></svg>
+              LINE
+            </a>
+            <a href={shareLinks.fb} target="_blank" rel="noopener" class="share-btn share-fb" aria-label="Facebook">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+              FB
+            </a>
+            <a href={shareLinks.wa} target="_blank" rel="noopener" class="share-btn share-wa" aria-label="WhatsApp">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M17.472 14.382c-.297-.149-1.758-.867-2.03-.967-.273-.099-.471-.148-.67.15-.197.297-.767.966-.94 1.164-.173.199-.347.223-.644.075-.297-.15-1.255-.463-2.39-1.475-.883-.788-1.48-1.761-1.653-2.059-.173-.297-.018-.458.13-.606.134-.133.298-.347.446-.52.149-.174.198-.298.298-.497.099-.198.05-.371-.025-.52-.075-.149-.669-1.612-.916-2.207-.242-.579-.487-.5-.669-.51-.173-.008-.371-.01-.57-.01-.198 0-.52.074-.792.372-.272.297-1.04 1.016-1.04 2.479 0 1.462 1.065 2.875 1.213 3.074.149.198 2.096 3.2 5.077 4.487.709.306 1.262.489 1.694.625.712.227 1.36.195 1.871.118.571-.085 1.758-.719 2.006-1.413.248-.694.248-1.289.173-1.413-.074-.124-.272-.198-.57-.347m-5.421 7.403h-.004a9.87 9.87 0 01-5.031-1.378l-.361-.214-3.741.982.998-3.648-.235-.374a9.86 9.86 0 01-1.51-5.26c.001-5.45 4.436-9.884 9.888-9.884 2.64 0 5.122 1.03 6.988 2.898a9.825 9.825 0 012.893 6.994c-.003 5.45-4.437 9.884-9.885 9.884m8.413-18.297A11.815 11.815 0 0012.05 0C5.495 0 .16 5.335.157 11.892c0 2.096.547 4.142 1.588 5.945L.057 24l6.305-1.654a11.882 11.882 0 005.683 1.448h.005c6.554 0 11.89-5.335 11.893-11.893a11.821 11.821 0 00-3.48-8.413z"/></svg>
+              WA
+            </a>
+            <a href={shareLinks.x} target="_blank" rel="noopener" class="share-btn share-x" aria-label="X (Twitter)">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-4.714-6.231-5.401 6.231H2.746l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg>
+              X
+            </a>
+            <a href={shareLinks.threads} target="_blank" rel="noopener" class="share-btn share-threads" aria-label="Threads">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12.186 24h-.007c-3.581-.024-6.334-1.205-8.184-3.509C2.35 18.44 1.5 15.586 1.472 12.01v-.017c.03-3.579.879-6.43 2.525-8.482C5.845 1.205 8.6.024 12.18 0h.014c2.746.02 5.043.725 6.826 2.098 1.677 1.29 2.858 3.13 3.509 5.467l-2.04.569c-1.104-3.96-3.898-5.984-8.304-6.015-2.91.022-5.11.936-6.54 2.717C4.307 6.504 3.616 8.914 3.589 12c.027 3.086.718 5.496 2.057 7.164 1.43 1.783 3.631 2.698 6.54 2.717 2.623-.02 4.358-.631 5.8-2.045 1.647-1.613 1.618-3.593 1.09-4.798-.31-.71-.873-1.3-1.634-1.754-.192 1.352-.622 2.446-1.284 3.272-.886 1.102-2.14 1.704-3.73 1.79-1.202.065-2.361-.218-3.259-.801-1.063-.689-1.685-1.74-1.752-2.964-.065-1.19.408-2.285 1.33-3.082.88-.76 2.119-1.207 3.583-1.291a13.853 13.853 0 0 1 3.02.142c-.126-.742-.375-1.332-.75-1.757-.513-.586-1.301-.882-2.344-.882h-.07c-.765.006-2.059.399-2.211 2.086l-2.03-.17c.174-1.994 1.347-4.054 4.324-4.057h.08c1.7 0 3.019.487 3.921 1.448 1.058 1.13 1.479 2.818 1.25 5.009l-.009.057a6.12 6.12 0 0 1 1.4 1.167c.849 1.009 1.443 2.56 1.443 4.405 0 1.849-.593 3.499-1.671 4.681-1.441 1.589-3.52 2.394-6.195 2.394z"/></svg>
+              Threads
+            </a>
+            <button class="share-btn share-rednote" data-action="rednote">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M21.5 4.5a2 2 0 0 0-2-2h-11a2 2 0 0 0-2 2v3h-2a2 2 0 0 0-2 2v7a2 2 0 0 0 2 2h2v2a2 2 0 0 0 2 2h11a2 2 0 0 0 2-2zm-4 10.5h-7v-1.5h7zm0-3h-7V10.5h7zm0-3h-7V7.5h7z"/></svg>
+              小紅書
+            </button>
+            <button class="share-btn share-ig" data-action="instagram">
+              <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zm0-2.163c-3.259 0-3.667.014-4.947.072-4.358.2-6.78 2.618-6.98 6.98-.059 1.281-.073 1.689-.073 4.948 0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98 1.281.058 1.689.072 4.948.072 3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98-1.281-.059-1.69-.073-4.949-.073zm0 5.838c-3.403 0-6.162 2.759-6.162 6.162s2.759 6.163 6.162 6.163 6.162-2.759 6.162-6.163c0-3.403-2.759-6.162-6.162-6.162zm0 10.162c-2.209 0-4-1.79-4-4 0-2.209 1.791-4 4-4s4 1.791 4 4c0 2.21-1.791 4-4 4zm6.406-11.845c-.796 0-1.441.645-1.441 1.44s.645 1.44 1.441 1.44c.795 0 1.439-.645 1.439-1.44s-.644-1.44-1.439-1.44z"/></svg>
+              IG
+            </button>
+            <button class="share-btn share-copy" data-action="copy">{i18nShare.copy}</button>
+            <button class="share-btn share-bookmark" data-action="bookmark">🔖 {i18nShare.bookmark}</button>
+          </div>
+        </div>
+
+        <!-- 留言區 -->
+        <div class="comments-section" id="comments-section" data-pagefind-ignore data-slug={slug}>
+          <h2 class="comments-title">留言討論</h2>
+          <div class="comments-list" id="comments-list"></div>
+          <form class="comment-form" id="comment-form" novalidate>
+            <div class="comment-form-fields">
+              <input type="text"     id="comment-name"    placeholder="你的名字 *" maxlength="50" autocomplete="name" />
+              <textarea              id="comment-content" placeholder="留下你的想法⋯ *" maxlength="1000" rows="4"></textarea>
+            </div>
+            <div class="comment-form-footer">
+              <button type="submit" id="comment-submit">送出留言</button>
+              <span class="comment-msg" id="comment-msg"></span>
+            </div>
+          </form>
+        </div>
+
+        <!-- 文章底部推薦 -->
+        {randomPosts.length > 0 && (
+          <div class="related-posts" data-pagefind-ignore>
+            <h2 class="related-title">{i18n.relatedTitle}</h2>
+            <div class="related-grid">
+              {randomPosts.map(post => (
+                <a href={`${blogBase}/${post.id}/`} class="related-card">
+                  <div class="related-image">
+                    {post.data.heroImage && (
+                      <img src={post.data.heroImage} alt={post.data.title} loading="lazy" />
+                    )}
+                  </div>
+                  <div class="related-body">
+                    {post.data.category && (
+                      <span class="related-cat">
+                        {getCatLabel(Array.isArray(post.data.category) ? post.data.category[0] : post.data.category)}
+                      </span>
+                    )}
+                    <p class="related-card-title">{post.data.title}</p>
+                  </div>
+                </a>
+              ))}
+            </div>
+          </div>
+        )}
+
+      </article>
+    </main>
+
+  </div>
+
+<script define:vars={{ embedMap, promosJson, lang }}>
+// 影片嵌入
+window.addEventListener('load', () => {
+  document.querySelectorAll('.video-placeholder').forEach(el => {
+    const pos = el.getAttribute('data-position');
+    const embed = embedMap[pos];
+    if (!embed) return;
+
+    let embedHtml = '';
+    if (embed.platform === 'youtube') {
+      const r = embed.url.match(/(?:youtube\.com\/(?:watch\?v=|shorts\/)|youtu\.be\/)([a-zA-Z0-9_-]{11})/);
+      if (r) embedHtml = '<div class="video-embed"><iframe src="https://www.youtube.com/embed/' + r[1] + '" frameborder="0" allowfullscreen loading="lazy"></iframe></div>';
+    } else if (embed.platform === 'instagram') {
+      const r = embed.url.match(/instagram\.com\/(?:reel|p)\/([A-Za-z0-9_-]+)/);
+      if (r) embedHtml = '<div class="video-embed video-embed--ig"><blockquote class="instagram-media" data-instgrm-permalink="https://www.instagram.com/p/' + r[1] + '/" data-instgrm-version="14" style="width:100%;margin:0;"></blockquote></div>';
+    } else if (embed.platform === 'tiktok') {
+      const r = embed.url.match(/tiktok\.com\/@[^/]+\/video\/(\d+)/);
+      if (r) embedHtml = '<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="' + embed.url + '" data-video-id="' + r[1] + '" style="width:100%;margin:0;"><section></section></blockquote></div>';
+    } else if (embed.platform === 'facebook') {
+      const fbUrl = encodeURIComponent(embed.url);
+      embedHtml = '<div class="video-embed video-embed--fb"><iframe src="https://www.facebook.com/plugins/video.php?href=' + fbUrl + '&show_text=0&width=560&mute=0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen loading="lazy"></iframe></div>';
+    }
+
+    if (embedHtml) {
+      const div = document.createElement('div');
+      div.innerHTML = embedHtml;
+      el.parentNode.replaceChild(div.firstChild, el);
+    }
+  });
+
+});
+
+// 促銷區塊
+(function() {
+  const block = document.getElementById('promo-block-article');
+  if (!block) return;
+  const promos = JSON.parse(promosJson);
+  if (promos.length === 0) return;
+  const promo = promos[Math.floor(Math.random() * promos.length)];
+  const promoTitle = (lang === 'en' && promo.title_en) ? promo.title_en
+    : (lang === 'zh-cn' && promo.title_zh_cn) ? promo.title_zh_cn
+    : (lang === 'zh-hk' && promo.title_zh_hk) ? promo.title_zh_hk
+    : promo.title;
+  const promoUrl = (lang && lang !== 'zh-tw' && promo.url.startsWith('/blog/'))
+    ? '/' + lang + promo.url : promo.url;
+  const ctaText = lang === 'en' ? 'View Offer →' : lang === 'zh-cn' ? '查看优惠 →' : '查看優惠 →';
+  block.innerHTML = '<a href="' + promoUrl + '" target="_blank" rel="noopener" class="promo-card"><div class="promo-body"><p class="promo-title">' + promoTitle + '</p><span class="promo-cta">' + ctaText + '</span></div>' + (promo.coverImage ? '<div class="promo-image"><img src="' + promo.coverImage + '" alt="' + promoTitle + '" loading="lazy" /></div>' : '') + '</a>';
+})();
+</script>
+
+  <ChatBot lang={lang} />
+  <Footer lang={lang} />
+
+  <script>
+  (function() {
+    var section = document.getElementById('comments-section');
+    if (!section) return;
+    var slug    = section.dataset.slug;
+    var list    = document.getElementById('comments-list');
+    var form    = document.getElementById('comment-form');
+    var nameEl  = document.getElementById('comment-name');
+    var bodyEl  = document.getElementById('comment-content');
+    var submitEl= document.getElementById('comment-submit');
+    var msgEl   = document.getElementById('comment-msg');
+
+    function formatDate(ts) {
+      return new Date(ts).toLocaleDateString('zh-TW', { year: 'numeric', month: 'short', day: 'numeric' });
+    }
+
+    function renderComments(items) {
+      if (!items.length) {
+        list.innerHTML = '<p class="comments-empty">還沒有留言，來第一個留言吧！</p>';
+        return;
+      }
+      list.innerHTML = items.map(function(c) {
+        return '<div class="comment-item">' +
+          '<div class="comment-header">' +
+            '<span class="comment-name">' + c.name + '</span>' +
+            '<span class="comment-date">' + formatDate(c.created_at) + '</span>' +
+          '</div>' +
+          '<div class="comment-body">' + c.content + '</div>' +
+        '</div>';
+      }).join('');
+    }
+
+    function setMsg(text, type) {
+      msgEl.textContent = text;
+      msgEl.className = 'comment-msg ' + type;
+    }
+
+    // Load comments
+    list.innerHTML = '<p class="comments-empty">載入中⋯</p>';
+    fetch('/api/comments?slug=' + encodeURIComponent(slug))
+      .then(function(r) { return r.json(); })
+      .then(renderComments)
+      .catch(function() { list.innerHTML = '<p class="comments-empty">載入失敗</p>'; });
+
+    // Submit
+    form.addEventListener('submit', function(e) {
+      e.preventDefault();
+      var name    = nameEl.value.trim();
+      var content = bodyEl.value.trim();
+      if (name.length < 2 || content.length < 5) { setMsg('請填寫至少 2 字的姓名與 5 字的留言內容', 'err'); return; }
+
+      submitEl.disabled = true;
+      setMsg('', '');
+
+      fetch('/api/comments', {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ slug: slug, name: name, content: content }),
+      })
+      .then(function(r) { return r.json(); })
+      .then(function(data) {
+        if (data.ok) {
+          nameEl.value = '';
+          bodyEl.value = '';
+          setMsg('留言已送出！', 'ok');
+          return fetch('/api/comments?slug=' + encodeURIComponent(slug))
+            .then(function(r) { return r.json(); })
+            .then(renderComments);
+        } else {
+          setMsg(data.error || '送出失敗', 'err');
+        }
+      })
+      .catch(function() { setMsg('網路錯誤，請稍後再試', 'err'); })
+      .finally(function() { submitEl.disabled = false; });
+    });
+  })();
+  </script>
+
+</body>
+</html>
+
+<script>
+  // 所有文章內的外部連結自動開新視窗
+  document.querySelectorAll('.prose a[href]').forEach(a => {
+    const href = (a as HTMLAnchorElement).href;
+    if (href && !href.startsWith(location.origin) && !href.startsWith('#')) {
+      a.setAttribute('target', '_blank');
+      a.setAttribute('rel', 'noopener noreferrer');
+    }
+  });
+</script>
+
+<script>
+  // TOC toggle + scroll highlight
+  const tocToggle = document.querySelector('.toc-toggle') as HTMLButtonElement | null;
+  const tocList = document.getElementById('toc-list');
+  if (tocToggle && tocList) {
+    tocToggle.addEventListener('click', () => {
+      const collapsed = tocList.classList.toggle('hidden');
+      tocToggle.textContent = collapsed ? (tocToggle.dataset.expand || '展開') : (tocToggle.dataset.collapse || '收起');
+      tocToggle.setAttribute('aria-expanded', String(!collapsed));
+    });
+
+    // Scroll spy
+    const tocLinks = Array.from(tocList.querySelectorAll('a')) as HTMLAnchorElement[];
+    const headingEls = tocLinks.map(a => document.getElementById(a.getAttribute('href')!.slice(1))).filter(Boolean) as HTMLElement[];
+
+    const observer = new IntersectionObserver(entries => {
+      entries.forEach(entry => {
+        if (entry.isIntersecting) {
+          tocLinks.forEach(a => a.classList.remove('active'));
+          const idx = headingEls.indexOf(entry.target as HTMLElement);
+          if (idx !== -1) tocLinks[idx].classList.add('active');
+        }
+      });
+    }, { rootMargin: '0px 0px -60% 0px', threshold: 0 });
+
+    headingEls.forEach(el => observer.observe(el));
+  }
+</script>
+
+<script>
+  // 圖片燈箱 + 浮水印包裝 + 連續圖片自動輪播
+  (function () {
+    // ── 燈箱 ──────────────────────────────────────────────
+    function openLightbox(src: string, alt: string) {
+      const overlay = document.createElement('div');
+      overlay.className = 'lb-overlay';
+      overlay.innerHTML = `
+        <button class="lb-close" aria-label="Close">✕</button>
+        <img src="${src}" alt="${alt}" class="lb-img" />
+      `;
+      document.body.appendChild(overlay);
+      document.body.style.overflow = 'hidden';
+      requestAnimationFrame(() => overlay.classList.add('lb-open'));
+
+      const close = () => {
+        overlay.classList.remove('lb-open');
+        document.body.style.overflow = '';
+        overlay.addEventListener('transitionend', () => overlay.remove(), { once: true });
+        document.removeEventListener('keydown', onKey);
+      };
+      const onKey = (e: KeyboardEvent) => { if (e.key === 'Escape') close(); };
+      overlay.addEventListener('click', (e) => { if (e.target === overlay) close(); });
+      (overlay.querySelector('.lb-close') as HTMLElement)!.addEventListener('click', close);
+      document.addEventListener('keydown', onKey);
+    }
+
+    // ── 圖片 wrapper（浮水印 + 燈箱） ────────────────────
+    function wrapImg(img: HTMLImageElement) {
+      if (img.closest('.img-wrap')) return;
+      const wrap = document.createElement('div');
+      wrap.className = 'img-wrap';
+      img.parentNode!.insertBefore(wrap, img);
+      wrap.appendChild(img);
+      img.style.cursor = 'zoom-in';
+      img.addEventListener('click', () => openLightbox(img.src, img.alt));
+    }
+
+    // ── 取出 <p> 中所有 img（忽略空白文字節點）──────────
+    function getImgsOnly(el: Element): HTMLImageElement[] | null {
+      const kids = Array.from(el.childNodes).filter(
+        n => !(n.nodeType === 3 && !(n as Text).textContent!.trim())
+      );
+      if (kids.length === 0) return null;
+      if (kids.every(k => (k as Element).tagName === 'IMG'))
+        return kids as HTMLImageElement[];
+      return null;
+    }
+
+    // ── 建立輪播（接受圖片陣列 + 要替換的元素陣列）────────
+    function buildCarousel(imgs: HTMLImageElement[], toRemove: Element[]) {
+      const parent = toRemove[0].parentNode!;
+      const anchor = toRemove[0];
+      const total = imgs.length;
+
+      // 外框
+      const carousel = document.createElement('div');
+      carousel.className = 'carousel';
+
+      // 捲動軌道
+      const track = document.createElement('div');
+      track.className = 'carousel-track';
+      carousel.appendChild(track);
+
+      imgs.forEach(img => {
+        const slide = document.createElement('div');
+        slide.className = 'carousel-slide';
+        const wrap = document.createElement('div');
+        wrap.className = 'img-wrap';
+        img.style.cursor = 'zoom-in';
+        img.addEventListener('click', () => openLightbox(img.src, img.alt));
+        wrap.appendChild(img);
+        slide.appendChild(wrap);
+        track.appendChild(slide);
+
+        // 直幅圖不強制撐滿寬度
+        // img.decode() 強制載入並等待解碼完成，確保能讀到 naturalWidth/Height
+        img.loading = 'eager';
+        img.decode().then(() => {
+          if (img.naturalHeight > img.naturalWidth) {
+            slide.classList.add('is-vertical');
+          }
+        }).catch(() => {});
+      });
+
+      // Prev / Next 按鈕（覆蓋在圖片上）
+      const prevBtn = document.createElement('button');
+      prevBtn.className = 'carousel-prev';
+      prevBtn.innerHTML = '&#8249;';
+      prevBtn.setAttribute('aria-label', 'Previous');
+      carousel.appendChild(prevBtn);
+
+      const nextBtn = document.createElement('button');
+      nextBtn.className = 'carousel-next';
+      nextBtn.innerHTML = '&#8250;';
+      nextBtn.setAttribute('aria-label', 'Next');
+      carousel.appendChild(nextBtn);
+
+      // Footer：點點 + 計數
+      const footer = document.createElement('div');
+      footer.className = 'carousel-footer';
+
+      const dots = document.createElement('div');
+      dots.className = 'carousel-dots';
+
+      const counter = document.createElement('span');
+      counter.className = 'carousel-counter';
+      counter.textContent = `1 / ${total}`;
+
+      for (let i = 0; i < total; i++) {
+        const dot = document.createElement('button');
+        dot.className = 'carousel-dot' + (i === 0 ? ' active' : '');
+        dot.setAttribute('aria-label', `Slide ${i + 1}`);
+        dot.addEventListener('click', () => goTo(i));
+        dots.appendChild(dot);
+      }
+
+      footer.appendChild(dots);
+      footer.appendChild(counter);
+      carousel.appendChild(footer);
+
+      // 插入並移除原來的元素
+      parent.insertBefore(carousel, anchor);
+      toRemove.forEach(el => el.remove());
+
+      // ── 輪播邏輯 ──
+      let current = 0;
+      const allDots = Array.from(dots.querySelectorAll<HTMLButtonElement>('.carousel-dot'));
+
+      function goTo(idx: number) {
+        current = ((idx % total) + total) % total;
+        track.style.transform = `translateX(-${current * 100}%)`;
+        allDots.forEach((d, i) => d.classList.toggle('active', i === current));
+        counter.textContent = `${current + 1} / ${total}`;
+      }
+
+      prevBtn.addEventListener('click', () => goTo(current - 1));
+      nextBtn.addEventListener('click', () => goTo(current + 1));
+
+      // 鍵盤
+      carousel.setAttribute('tabindex', '0');
+      carousel.addEventListener('keydown', (e: KeyboardEvent) => {
+        if (e.key === 'ArrowLeft') goTo(current - 1);
+        if (e.key === 'ArrowRight') goTo(current + 1);
+      });
+
+      // 觸控滑動
+      let touchX = 0;
+      carousel.addEventListener('touchstart', (e: TouchEvent) => {
+        touchX = e.touches[0].clientX;
+      }, { passive: true });
+      carousel.addEventListener('touchend', (e: TouchEvent) => {
+        const diff = touchX - e.changedTouches[0].clientX;
+        if (Math.abs(diff) > 40) goTo(current + (diff > 0 ? 1 : -1));
+      }, { passive: true });
+    }
+
+    // ── 主流程 ────────────────────────────────────────────
+    const prose = document.querySelector('.prose');
+    if (!prose) return;
+
+    const visited = new WeakSet<Element>();
+
+    Array.from(prose.querySelectorAll('p')).forEach(para => {
+      if (visited.has(para)) return;
+
+      const imgs = getImgsOnly(para);
+      if (!imgs) return; // 含文字或非圖片內容 → 略過
+
+      visited.add(para);
+
+      if (imgs.length >= 2) {
+        // 情況 A：單一 <p> 內含多張圖（無空行，最常見）
+        buildCarousel(imgs, [para]);
+      } else {
+        // 情況 B：<p> 只有一張圖 → 往下收集連續的同類 <p>
+        const group: Element[] = [para];
+        let sib = para.nextElementSibling;
+        while (sib) {
+          const sibImgs = getImgsOnly(sib);
+          if (!sibImgs || sibImgs.length !== 1) break;
+          group.push(sib);
+          visited.add(sib);
+          sib = sib.nextElementSibling;
+        }
+
+        if (group.length >= 2) {
+          // 多個單圖 <p> 連續排列（有空行）
+          const allImgs = group.map(p => p.querySelector('img') as HTMLImageElement);
+          buildCarousel(allImgs, group);
+        } else {
+          wrapImg(imgs[0]);
+        }
+      }
+    });
+
+    // 剩餘未包裝的圖片（inline、表格內等）
+    prose.querySelectorAll<HTMLImageElement>('img').forEach(wrapImg);
+  })();
+</script>
+
+<script>
+  // 分享列：複製連結 + 書籤
+  (function () {
+    const BOOKMARK_KEY = 'bk';
+
+    function getSaved(): Record<string, string> {
+      try { return JSON.parse(localStorage.getItem(BOOKMARK_KEY) || '{}'); } catch { return {}; }
+    }
+
+    document.querySelectorAll<HTMLElement>('.share-bar').forEach(bar => {
+      const url   = bar.dataset.url   || location.href;
+      const title = bar.dataset.title || document.title;
+
+      // 複製連結
+      bar.querySelectorAll<HTMLButtonElement>('[data-action="copy"]').forEach(btn => {
+        btn.addEventListener('click', async () => {
+          try {
+            await navigator.clipboard.writeText(url);
+          } catch {
+            const ta = document.createElement('textarea');
+            ta.value = url; document.body.appendChild(ta);
+            ta.select(); document.execCommand('copy');
+            ta.remove();
+          }
+          const orig = btn.textContent!;
+          btn.textContent = bar.dataset.copiedLabel || 'Copied!';
+          btn.classList.add('copied');
+          setTimeout(() => { btn.textContent = orig; btn.classList.remove('copied'); }, 1800);
+        });
+      });
+
+      // 小紅書 / Instagram：複製連結
+      async function copyUrlToClipboard(url: string) {
+        try {
+          await navigator.clipboard.writeText(url);
+        } catch {
+          const ta = document.createElement('textarea');
+          ta.value = url; document.body.appendChild(ta);
+          ta.select(); document.execCommand('copy');
+          ta.remove();
+        }
+      }
+      ['rednote', 'instagram'].forEach(action => {
+        bar.querySelectorAll<HTMLButtonElement>(`[data-action="${action}"]`).forEach(btn => {
+          btn.addEventListener('click', async () => {
+            await copyUrlToClipboard(url);
+            const orig = btn.innerHTML;
+            btn.textContent = '已複製！';
+            btn.classList.add('copied');
+            setTimeout(() => { btn.innerHTML = orig; btn.classList.remove('copied'); }, 1800);
+          });
+        });
+      });
+
+      // 書籤
+      bar.querySelectorAll<HTMLButtonElement>('[data-action="bookmark"]').forEach(btn => {
+        const saved = getSaved();
+        const isSaved = !!saved[url];
+        if (isSaved) { btn.classList.add('saved'); btn.textContent = '🔖 ' + (bar.dataset.bookmarkedLabel || 'Saved!'); }
+
+        btn.addEventListener('click', () => {
+          const current = getSaved();
+          if (current[url]) {
+            delete current[url];
+            btn.classList.remove('saved');
+            btn.textContent = '🔖 ' + (bar.dataset.bookmarkLabel || 'Bookmark');
+          } else {
+            current[url] = title;
+            btn.classList.add('saved');
+            btn.textContent = '🔖 ' + (bar.dataset.bookmarkedLabel || 'Saved!');
+          }
+          localStorage.setItem(BOOKMARK_KEY, JSON.stringify(current));
+        });
+      });
+    });
+  })();
+</script>
+
+<script>
+  // Page view counter — session-deduped (same tab only counts once)
+  (function () {
+    const slug = location.pathname.replace(/\/?$/, '/').replace(/^(?!\/)/, '/');
+    if (!slug.startsWith('/blog/')) return;
+    const key = '_pv' + slug;
+    if (sessionStorage.getItem(key)) return;
+    sessionStorage.setItem(key, '1');
+    fetch('/api/pageview', {
+      method: 'POST',
+      headers: { 'Content-Type': 'application/json' },
+      body: JSON.stringify({ slug }),
+      keepalive: true,
+    }).catch(() => {});
+  })();
+</script>
+
+<style>
+.layout {
+  display: grid;
+  grid-template-columns: 260px 1fr;
+  max-width: 1200px;
+  margin: 0 auto;
+  min-height: calc(100vh - 64px);
+  align-items: start;
+}
+
+.sidebar {
+  position: sticky;
+  top: 64px;
+  height: calc(100vh - 64px);
+  overflow-y: auto;
+  background: var(--white);
+  border-right: 1px solid rgba(201, 168, 76, 0.2);
+  padding: 1.5em 1em;
+}
+
+.sidebar::-webkit-scrollbar { width: 4px; }
+.sidebar::-webkit-scrollbar-thumb {
+  background: rgba(201, 168, 76, 0.3);
+  border-radius: 2px;
+}
+
+.sidebar-section { margin-bottom: 1.8em; }
+
+.sidebar-title {
+  font-size: 0.85em;
+  font-weight: 700;
+  color: var(--ocean);
+  letter-spacing: 0.05em;
+  margin: 0 0 0.8em;
+  padding-bottom: 0.5em;
+  border-bottom: 1px solid rgba(201, 168, 76, 0.2);
+}
+
+.category-list { list-style: none; margin: 0; padding: 0; }
+
+.category-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.45em 0.7em;
+  border-radius: 8px;
+  text-decoration: none;
+  color: var(--text);
+  font-size: 0.88em;
+  transition: all 0.15s;
+  margin-bottom: 0.2em;
+}
+
+.category-item:hover { background: rgba(201, 168, 76, 0.1); color: var(--ocean); }
+.category-item.active { background: var(--ocean); color: var(--gold-light); }
+.cat-name { flex: 1; }
+
+.cat-count {
+  font-size: 0.78em;
+  background: rgba(201, 168, 76, 0.15);
+  color: var(--gold);
+  padding: 0.1em 0.5em;
+  border-radius: 10px;
+  font-weight: 600;
+}
+
+.category-item.active .cat-count { background: rgba(255,255,255,0.15); color: var(--gold-light); }
+
+/* 促銷卡片 */
+:global(.promo-card) {
+  display: block;
+  font-size: 13px;
+  text-decoration: none;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid rgba(201, 168, 76, 0.3);
+  transition: transform 0.2s, box-shadow 0.2s;
+  background: var(--white);
+}
+
+:global(.promo-card):hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 16px rgba(10, 22, 40, 0.1);
+}
+
+:global(.promo-image) {
+  background: var(--ocean-mid);
+}
+
+:global(.promo-image) img {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+:global(.promo-body) {
+  padding: 0.7em 0.8em;
+}
+
+:global(.promo-title) {
+  font-size: 13px !important;
+  font-weight: 600;
+  color: var(--ocean);
+  margin: 0 0 0.4em !important;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+:global(.promo-cta) {
+  font-size: 13px;
+  font-weight: 700;
+  color: var(--gold);
+}
+
+main {
+  padding: 2em 2.5em;
+  max-width: 780px;
+}
+
+.hero-image { margin-bottom: 1.5em; }
+.hero-image img { width: 100%; height: auto; border-radius: 12px; box-shadow: var(--box-shadow); }
+
+.prose { color: var(--text); font-size: 1em; line-height: 1.9; }
+.title { margin-bottom: 1.5em; }
+
+.article-category {
+  display: inline-block;
+  background: var(--gold);
+  color: var(--ocean);
+  font-size: 0.75em;
+  font-weight: 700;
+  padding: 0.2em 0.8em;
+  border-radius: 20px;
+  margin-bottom: 0.6em;
+}
+
+.title h1 { font-size: 1.6em; line-height: 1.4; font-weight: 700; color: var(--ocean); margin: 0 0 0.4em; }
+.date { font-size: 0.85em; color: var(--text-light); margin-bottom: 1em; display: flex; align-items: center; gap: 0.8em; flex-wrap: wrap; }
+.edit-link { font-size: 0.8em; color: var(--text-light); text-decoration: none; border: 1px solid rgba(0,0,0,0.15); border-radius: 6px; padding: 0.1em 0.5em; }
+.edit-link:hover { color: var(--ocean); border-color: var(--ocean); }
+hr { margin: 1.2em 0 1.8em; }
+
+.prose :global(h2:not(.tp-banner-title)) {
+  font-size: 1.2em; font-weight: 700; color: var(--ocean);
+  border-left: 4px solid var(--gold); padding-left: 0.7em;
+  margin-top: 2em; margin-bottom: 0.8em; line-height: 1.4;
+}
+
+.prose :global(h3) { font-size: 1.05em; font-weight: 700; color: var(--ocean-light); margin-top: 1.5em; margin-bottom: 0.5em; }
+.prose :global(h4) { font-size: 1em; font-weight: 700; color: var(--text); margin-top: 1.2em; }
+
+/* 影片嵌入 */
+.prose :global(.video-embed) {
+  position: relative;
+  width: 100%;
+  aspect-ratio: 16/9;
+  margin: 1.5em 0;
+  border-radius: 12px;
+  overflow: hidden;
+}
+
+.prose :global(.video-embed iframe) {
+  position: absolute;
+  top: 0; left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.prose :global(.video-embed--ig) {
+  aspect-ratio: 9/16;
+  max-width: 340px;
+  margin: 1.5em auto;
+}
+
+.prose :global(.video-embed--tt) {
+  aspect-ratio: unset;
+  max-width: 540px;
+  margin: 1.5em auto;
+}
+
+.prose :global(.video-embed--fb) {
+  aspect-ratio: 16 / 9;
+  max-width: 560px;
+  margin: 1.5em auto;
+}
+
+/* ── 自建留言區 ────────────────────────────────────────────── */
+.comments-section {
+  margin-top: 3em;
+  padding-top: 2em;
+  border-top: 1px solid var(--border, #e5e7eb);
+}
+.comments-title {
+  font-size: 1.1rem;
+  font-weight: 700;
+  margin-bottom: 1.2em;
+  color: var(--text, #1a1a1a);
+}
+.comments-list { display: flex; flex-direction: column; gap: 1em; margin-bottom: 2em; }
+.comment-item {
+  background: #faf8f4;
+  border: 1px solid #e8e0d0;
+  border-radius: 10px;
+  padding: 0.9em 1.1em;
+}
+.comment-header {
+  display: flex; align-items: center; gap: 0.6em; margin-bottom: 0.4em;
+}
+.comment-name   { font-weight: 700; font-size: 0.88rem; color: var(--ocean, #5D4037); }
+.comment-date   { font-size: 0.75rem; color: #999; }
+.comment-body   { font-size: 0.88rem; line-height: 1.65; color: #333; white-space: pre-wrap; }
+.comments-empty { font-size: 0.88rem; color: #aaa; text-align: center; padding: 1.5em 0; }
+
+.comment-form { margin-top: 1em; }
+.comment-form-fields { display: flex; flex-direction: column; gap: 0.6em; }
+.comment-form-fields input,
+.comment-form-fields textarea {
+  width: 100%;
+  border: 1px solid #d4c9b5;
+  border-radius: 8px;
+  padding: 0.6em 0.9em;
+  font-size: 0.88rem;
+  font-family: inherit;
+  background: #fff;
+  color: var(--text, #222);
+  outline: none;
+  resize: vertical;
+  transition: border-color 0.15s;
+}
+.comment-form-fields input:focus,
+.comment-form-fields textarea:focus { border-color: var(--gold, #C5A059); }
+.comment-form-footer {
+  display: flex; align-items: center; gap: 1em; margin-top: 0.7em; flex-wrap: wrap;
+}
+#comment-submit {
+  background: var(--gold, #C5A059);
+  color: var(--ocean, #5D4037);
+  border: none; border-radius: 8px;
+  padding: 0.55em 1.4em;
+  font-size: 0.9rem; font-weight: 700; font-family: inherit;
+  cursor: pointer; transition: background 0.15s;
+}
+#comment-submit:hover   { background: #d4b06a; }
+#comment-submit:disabled { opacity: 0.5; cursor: not-allowed; }
+.comment-msg { font-size: 0.82rem; }
+.comment-msg.ok  { color: #2f855a; }
+.comment-msg.err { color: #c53030; }
+
+/* 推薦文章 */
+.related-posts {
+  margin-top: 3em;
+  padding-top: 2em;
+  border-top: 2px solid var(--gold);
+}
+
+.related-title {
+  font-size: 1.1em;
+  font-weight: 700;
+  color: var(--ocean);
+  margin: 0 0 1.2em;
+}
+
+.related-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 1em;
+}
+
+.related-card {
+  display: flex;
+  flex-direction: column;
+  text-decoration: none;
+  color: inherit;
+  border-radius: 10px;
+  overflow: hidden;
+  border: 1px solid rgba(201, 168, 76, 0.2);
+  transition: transform 0.2s;
+}
+
+.related-card:hover { transform: translateY(-3px); box-shadow: 0 4px 16px rgba(10,22,40,0.1); }
+
+.related-image { aspect-ratio: 16/9; overflow: hidden; background: var(--ocean-mid); }
+.related-image img { width: 100%; height: 100%; object-fit: cover; }
+
+.related-body { padding: 0.7em 0.8em; background: var(--white); flex: 1; }
+
+.related-cat {
+  font-size: 0.68em;
+  font-weight: 700;
+  color: var(--ocean);
+  background: rgba(201, 168, 76, 0.15);
+  padding: 0.1em 0.5em;
+  border-radius: 10px;
+  display: inline-block;
+  margin-bottom: 0.3em;
+}
+
+.related-card-title {
+  font-size: 0.82em;
+  font-weight: 600;
+  color: var(--ocean);
+  margin: 0;
+  line-height: 1.4;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+/* TOC */
+.toc {
+  background: rgba(201, 168, 76, 0.07);
+  border: 1px solid rgba(201, 168, 76, 0.3);
+  border-left: 4px solid var(--gold);
+  border-radius: 10px;
+  padding: 0.9em 1.1em;
+  margin-bottom: 2em;
+  font-size: 0.88em;
+}
+
+.toc-header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 0.6em;
+}
+
+.toc-title {
+  font-weight: 700;
+  color: var(--ocean);
+  font-size: 0.92em;
+  letter-spacing: 0.03em;
+}
+
+.toc-toggle {
+  background: none;
+  border: 1px solid rgba(201, 168, 76, 0.4);
+  border-radius: 6px;
+  color: var(--text-light);
+  font-size: 0.78em;
+  padding: 0.1em 0.6em;
+  cursor: pointer;
+  transition: all 0.15s;
+}
+
+.toc-toggle:hover { background: rgba(201, 168, 76, 0.15); color: var(--ocean); }
+
+.toc-list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.toc-list.hidden { display: none; }
+
+.toc-h1 { padding: 0.25em 0; border-top: 1px solid var(--border, #e0d9cc); margin-top: 0.3em; }
+.toc-h2 { padding: 0.2em 0; }
+.toc-h3 { padding: 0.15em 0 0.15em 1.2em; }
+
+.toc-h1 > a,
+.toc-h2 > a,
+.toc-h3 > a {
+  color: var(--ocean);
+  text-decoration: none;
+  line-height: 1.4;
+  display: block;
+  border-radius: 4px;
+  padding: 0.1em 0.3em;
+  transition: background 0.12s, color 0.12s;
+}
+
+.toc-h1 > a { font-weight: 700; font-size: 1em; }
+.toc-h2 > a { font-weight: 600; }
+.toc-h3 > a { color: var(--text-light); font-size: 0.95em; }
+
+.toc-h1 > a:hover,
+.toc-h2 > a:hover,
+.toc-h3 > a:hover { background: rgba(201, 168, 76, 0.15); color: var(--gold); }
+
+/* TOC active highlight */
+.toc-h1 > a.active,
+.toc-h2 > a.active,
+.toc-h3 > a.active { color: var(--gold); font-weight: 700; }
+
+/* Prose 內容響應式 */
+.prose :global(img) {
+  width: 100%;
+  height: auto;
+  border-radius: 0;
+  display: block;
+}
+
+.prose :global(table) {
+  width: 100%;
+  border-collapse: collapse;
+  font-size: 0.9em;
+}
+
+.prose :global(th),
+.prose :global(td) {
+  border: 1px solid rgba(201, 168, 76, 0.3);
+  padding: 0.5em 0.8em;
+  text-align: left;
+}
+
+.prose :global(pre) {
+  overflow-x: auto;
+  border-radius: 8px;
+  padding: 1em;
+  font-size: 0.85em;
+}
+
+.prose :global(a) {
+  word-break: break-word;
+}
+
+/* 分享列 */
+:global(.share-bar) {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.4em;
+  margin: 1em 0 1.4em;
+  padding: 0.7em 0.9em;
+  background: var(--gray-light, #f4f6f8);
+  border-radius: 10px;
+  font-size: 0.82em;
+}
+:global(.share-bar--bottom) {
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+}
+:global(.share-label) {
+  color: var(--text-muted, #888);
+  font-size: 0.95em;
+  white-space: nowrap;
+}
+:global(.share-btn) {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  padding: 0.3em 0.7em;
+  border-radius: 6px;
+  border: none;
+  cursor: pointer;
+  font-size: 0.9em;
+  font-weight: 600;
+  line-height: 1.4;
+  box-sizing: border-box;
+  text-decoration: none;
+  transition: opacity 0.15s, transform 0.1s;
+  white-space: nowrap;
+}
+:global(.share-btn:hover) { opacity: 0.82; transform: translateY(-1px); }
+:global(.share-btn svg) { width: 1em; height: 1em; flex-shrink: 0; }
+:global(.share-line)     { background: #06C755; color: #fff; }
+:global(.share-fb)       { background: #1877F2; color: #fff; }
+:global(.share-wa)       { background: #25D366; color: #fff; }
+:global(.share-x)        { background: #000; color: #fff; }
+:global(.share-threads)  { background: #000; color: #fff; }
+:global(.share-rednote)  { background: #FF2442; color: #fff; }
+:global(.share-rednote.copied) { background: #c41a34; color: #fff; }
+:global(.share-ig)       { background: #E1306C; color: #fff; }
+:global(.share-ig.copied){ background: #b3215a; color: #fff; }
+:global(.share-copy)     { background: #e2e8f0; color: #334155; }
+:global(.share-copy.copied) { background: #4ade80; color: #fff; }
+:global(.share-bookmark) { background: #fff3cd; color: #92400e; border: 1px solid #f59e0b; }
+:global(.share-bookmark.saved) { background: #f59e0b; color: #fff; }
+@media (max-width: 480px) {
+  :global(.share-btn) { padding: 0.28em 0.55em; font-size: 0.82em; }
+}
+
+/* 圖片 wrapper（浮水印用） */
+:global(.prose .img-wrap) {
+  position: relative;
+  display: block;
+  width: 100%;
+}
+/* list item 裡的圖片突破 ul/ol padding-left 對齊 carousel */
+:global(.prose li .img-wrap),
+:global(.prose li .carousel) {
+  margin-left: -40px;
+  width: calc(100% + 40px);
+}
+:global(.prose .img-wrap::after) {
+  content: 'gobaligo.id';
+  position: absolute;
+  bottom: 0.45em;
+  right: 0.65em;
+  font-size: 0.72em;
+  font-weight: 700;
+  color: rgba(255, 255, 255, 0.75);
+  text-shadow: 0 1px 4px rgba(0, 0, 0, 0.7);
+  letter-spacing: 0.06em;
+  pointer-events: none;
+  user-select: none;
+}
+
+/* 輪播 */
+:global(.carousel) {
+  position: relative;
+  overflow: hidden;
+  border-radius: 10px;
+  margin: 1.4em 0;
+  background: #000;
+}
+:global(.carousel-track) {
+  display: flex;
+  transition: transform 0.35s ease;
+  will-change: transform;
+}
+:global(.carousel-slide) {
+  flex: 0 0 100%;
+  width: 100%;
+}
+:global(.carousel-slide .img-wrap) {
+  display: block;
+  width: 100%;
+}
+:global(.carousel-slide .img-wrap img) {
+  width: 100%;
+  height: 420px;
+  object-fit: cover;
+  border-radius: 0;
+  background: #000;
+  display: block;
+}
+/* 直幅圖：保持自然寬度，置中顯示 */
+:global(.carousel-slide.is-vertical) {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #111;
+}
+:global(.carousel-slide.is-vertical .img-wrap) {
+  width: auto;
+}
+:global(.carousel-slide.is-vertical .img-wrap img) {
+  width: auto;
+  max-width: 100%;
+  height: 420px;
+  object-fit: contain;
+}
+@media (max-width: 600px) {
+  :global(.carousel-slide .img-wrap img),
+  :global(.carousel-slide.is-vertical .img-wrap img) {
+    height: 260px;
+  }
+}
+:global(.carousel-prev),
+:global(.carousel-next) {
+  position: absolute;
+  top: calc(50% - 1.6em);
+  background: rgba(0, 0, 0, 0.45);
+  border: none;
+  color: #fff;
+  font-size: 2em;
+  width: 2.2em;
+  height: 2.2em;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+  transition: background 0.15s;
+  line-height: 1;
+  padding: 0;
+  user-select: none;
+}
+:global(.carousel-prev) { left: 0.45em; }
+:global(.carousel-next) { right: 0.45em; }
+:global(.carousel-prev:hover),
+:global(.carousel-next:hover) { background: rgba(0, 0, 0, 0.72); }
+:global(.carousel-footer) {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.8em;
+  padding: 0.45em 0.6em;
+  background: rgba(0, 0, 0, 0.55);
+}
+:global(.carousel-dots) {
+  display: flex;
+  gap: 0.35em;
+}
+:global(.carousel-dot) {
+  width: 8px;
+  height: 8px;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.35);
+  border: none;
+  cursor: pointer;
+  padding: 0;
+  transition: background 0.2s;
+}
+:global(.carousel-dot.active) {
+  background: var(--gold, #c9a84c);
+}
+:global(.carousel-counter) {
+  font-size: 0.75em;
+  color: rgba(255, 255, 255, 0.75);
+  font-weight: 600;
+  min-width: 2.8em;
+  text-align: center;
+}
+/* 輪播內的浮水印 ::after 保持不變 */
+:global(.carousel .img-wrap::after) {
+  bottom: 0.3em;
+  right: 0.5em;
+}
+
+/* 燈箱 */
+:global(.lb-overlay) {
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 9999;
+  transition: background 0.25s ease;
+  padding: 1em;
+  cursor: zoom-out;
+}
+:global(.lb-overlay.lb-open) {
+  background: rgba(0, 0, 0, 0.92);
+}
+:global(.lb-img) {
+  max-width: min(90vw, 1200px);
+  max-height: 88vh;
+  object-fit: contain;
+  border-radius: 6px;
+  opacity: 0;
+  transform: scale(0.93);
+  transition: opacity 0.25s ease, transform 0.25s ease;
+  cursor: default;
+  box-shadow: 0 8px 40px rgba(0, 0, 0, 0.6);
+}
+:global(.lb-overlay.lb-open .lb-img) {
+  opacity: 1;
+  transform: scale(1);
+}
+:global(.lb-close) {
+  position: absolute;
+  top: 1em;
+  right: 1em;
+  background: rgba(255, 255, 255, 0.15);
+  border: 1px solid rgba(255, 255, 255, 0.3);
+  color: white;
+  font-size: 1.1em;
+  width: 2.2em;
+  height: 2.2em;
+  border-radius: 50%;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: background 0.15s;
+  line-height: 1;
+}
+:global(.lb-close:hover) {
+  background: rgba(255, 255, 255, 0.3);
+}
+
+/* Mobile 麵包屑：桌機隱藏，手機才顯示 */
+.mobile-breadcrumb {
+  display: none;
+}
+
+@media (max-width: 900px) {
+  .layout { grid-template-columns: 1fr; }
+
+  /* Sticky 橫滑 pill 列（與首頁一致） */
+  .sidebar {
+    position: sticky;
+    top: 64px;
+    z-index: 90;
+    height: auto;
+    border-right: none;
+    border-bottom: 2px solid rgba(197,160,89,0.25);
+    padding: 0;
+    background: var(--ocean, #5D4037);
+    box-shadow: 0 2px 10px rgba(0,0,0,0.3);
+    overflow: hidden;
+  }
+  /* 隱藏促銷區塊，只保留分類 pills */
+  .sidebar .sidebar-section:not(:first-child) { display: none; }
+  .sidebar-title { display: none; }
+  .sidebar-section { margin: 0; }
+
+  .category-list {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    overflow-x: auto;
+    gap: 0.45em;
+    padding: 0.55em 1em;
+    -webkit-overflow-scrolling: touch;
+    scrollbar-width: none;
+  }
+  .category-list::-webkit-scrollbar { display: none; }
+  .category-list li { flex-shrink: 0; }
+
+  .category-item {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.3em;
+    padding: 0.3em 0.85em;
+    border-radius: 20px;
+    border: 1px solid rgba(197,160,89,0.35);
+    background: rgba(255,255,255,0.08);
+    color: #e8d5a3;
+    font-size: 0.83em;
+    font-weight: 600;
+    white-space: nowrap;
+    margin-bottom: 0;
+    text-decoration: none;
+    transition: background 0.15s, border-color 0.15s;
+    justify-content: center;
+  }
+  .category-item:hover { background: rgba(197,160,89,0.2); color: #fff; }
+  .category-item.active {
+    background: var(--gold, #C5A059);
+    color: var(--ocean, #5D4037);
+    border-color: var(--gold, #C5A059);
+    font-weight: 700;
+  }
+  .cat-count {
+    display: none;
+    font-size: 0.72em;
+    background: rgba(197,160,89,0.2);
+    color: rgba(232,213,163,0.85);
+    padding: 0.05em 0.4em;
+    border-radius: 10px;
+    font-weight: 600;
+  }
+  .category-item.active .cat-count {
+    background: rgba(93,64,55,0.25);
+    color: var(--ocean, #5D4037);
+  }
+
+  /* 隱藏舊 breadcrumb（pill 列已取代） */
+  .mobile-breadcrumb { display: none; }
+
+  main {
+    padding: 1.2em 1em;
+    width: 100%;
+    max-width: 100%;
+  }
+  .related-grid { grid-template-columns: repeat(2, 1fr); }
+}
+
+@media (max-width: 600px) {
+  main { padding: 1em 0.9em; }
+  .title h1 { font-size: 1.25em; }
+  .prose { font-size: 0.97em; line-height: 1.8; }
+  .prose :global(h2:not(.tp-banner-title)) { font-size: 1.1em; }
+  .prose :global(h3) { font-size: 1em; }
+  .related-grid { grid-template-columns: 1fr; }
+
+  /* 表格在小螢幕加水平捲動 */
+  .prose :global(table) {
+    display: block;
+    overflow-x: auto;
+    -webkit-overflow-scrolling: touch;
+  }
+}
+</style>
+
+<script>
+  // H2 區塊亂數排列
+  const articleBody = document.getElementById('article-body');
+  if (articleBody && articleBody.dataset.shuffle === 'true') {
+    const children = Array.from(articleBody.childNodes);
+
+    // 分組：preamble（第一個 H2 之前，或 <!-- shuffle-start --> 之前的 H2 區塊）
+    //       + 各 H2 區塊（隨機排列）
+    //       + postamble（<!-- no-shuffle --> 標記後的 H2 及其後內容）
+    //
+    // 使用方式：
+    //   <!-- shuffle-start -->  放在「要開始 shuffle 的 H2」之前，其前的 H2 固定在頂部
+    //   <!-- no-shuffle -->     放在「要固定在底部的 H2」之前
+    const preamble: ChildNode[] = [];
+    const sections: ChildNode[][] = [];
+    const postamble: ChildNode[] = [];
+    let current: ChildNode[] | null = null;
+    let noShuffleNext = false;
+    let inPostamble = false;
+    let shuffleStarted = false;
+
+    for (const node of children) {
+      const isComment = node.nodeType === Node.COMMENT_NODE;
+      const commentText = isComment ? (node as Comment).data.trim() : '';
+
+      // 偵測 <!-- shuffle-start --> HTML comment
+      if (isComment && commentText === 'shuffle-start') {
+        shuffleStarted = true;
+        // 若目前有尚未進入 sections 的 H2 區塊（因為還在 preamble 等待），
+        // 此 comment 本身不需要插入內容
+        continue;
+      }
+
+      // 偵測 <!-- no-shuffle --> HTML comment
+      if (isComment && commentText === 'no-shuffle') {
+        noShuffleNext = true;
+        postamble.push(node);
+        continue;
+      }
+      const tag = (node as Element).tagName;
+      // H1 在文章內文中自動觸發 postamble（固定在底部）
+      if (tag === 'H1' && sections.length > 0) {
+        inPostamble = true;
+      }
+      // <!-- no-shuffle --> 後遇到任何非空白節點都進入 postamble
+      if (noShuffleNext && !inPostamble) {
+        inPostamble = true;
+        noShuffleNext = false;
+      }
+      if (inPostamble) {
+        postamble.push(node);
+      } else if (tag === 'H2' && shuffleStarted) {
+        // shuffle-start 之後的 H2 才進入隨機區
+        current = [node];
+        sections.push(current);
+      } else if (tag === 'H2' && !shuffleStarted) {
+        // shuffle-start 之前的 H2 視為 preamble（固定）
+        current = [node];
+        preamble.push(node);
+      } else if (current && !inPostamble) {
+        if (shuffleStarted && sections.length > 0) {
+          sections[sections.length - 1].push(node);
+        } else {
+          preamble.push(node);
+        }
+      } else {
+        preamble.push(node);
+      }
+    }
+
+    // 只有超過一個 H2 區塊才需要亂數
+    if (sections.length > 1) {
+      // Fisher-Yates shuffle
+      for (let i = sections.length - 1; i > 0; i--) {
+        const j = Math.floor(Math.random() * (i + 1));
+        [sections[i], sections[j]] = [sections[j], sections[i]];
+      }
+
+      // 清空並重新插入（postamble 固定在最後）
+      articleBody.innerHTML = '';
+      for (const node of preamble) articleBody.appendChild(node);
+      for (const section of sections) {
+        for (const node of section) articleBody.appendChild(node);
+      }
+      for (const node of postamble) articleBody.appendChild(node);
+
+      // TOC 同步：依新 H2 順序重排目錄項目（H3 跟著所屬 H2 移動）
+      const tocList = document.getElementById('toc-list');
+      if (tocList) {
+        const shuffledIds = sections.map(s => (s[0] as Element).id).filter(Boolean);
+        const h2IdSet = new Set(shuffledIds);
+        // 將 TOC 項目分組：每組 = 一個 H2 <li> + 其後的 H3 <li>
+        const tocItems = Array.from(tocList.children) as HTMLElement[];
+        const tocGroups = new Map<string, HTMLElement[]>();
+        const tocPreamble: HTMLElement[] = [];
+        const tocPostamble: HTMLElement[] = [];
+        let currentGroup: HTMLElement[] | null = null;
+        let inTocPostamble = false;
+        for (const li of tocItems) {
+          // toc-h1 出現在 H2 區段之後，才視為 postamble（固定在底部）
+          // H2 之前的 toc-h1（如 FAQ 標題）應保留在 preamble
+          if (li.classList.contains('toc-h1') && currentGroup !== null) {
+            inTocPostamble = true;
+          }
+          if (inTocPostamble) {
+            tocPostamble.push(li);
+            continue;
+          }
+          const href = li.querySelector('a')?.getAttribute('href') ?? '';
+          const id = href.replace('#', '');
+          if (li.classList.contains('toc-h2') && h2IdSet.has(id)) {
+            currentGroup = [li];
+            tocGroups.set(id, currentGroup);
+          } else if (currentGroup) {
+            currentGroup.push(li);
+          } else {
+            // shuffle-start 之前的 H2（preamble）固定在目錄頂部
+            tocPreamble.push(li);
+          }
+        }
+        tocList.innerHTML = '';
+        tocPreamble.forEach(li => tocList.appendChild(li));
+        for (const id of shuffledIds) {
+          const group = tocGroups.get(id);
+          if (group) group.forEach(li => tocList.appendChild(li));
+        }
+        tocPostamble.forEach(li => tocList.appendChild(li));
+      }
+    }
+  }
+</script>

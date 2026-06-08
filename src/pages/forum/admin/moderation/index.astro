@@ -1,0 +1,555 @@
+---
+import BaseHead from '../../../../components/BaseHead.astro';
+import Header from '../../../../components/Header.astro';
+import Footer from '../../../../components/Footer.astro';
+
+const supabaseUrl  = import.meta.env.PUBLIC_SUPABASE_URL;
+const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
+---
+
+<html lang="zh-TW">
+<head>
+  <BaseHead title="討論區審核後台 — Go Bali Go" description="" noSuffix />
+  <meta name="robots" content="noindex, nofollow" />
+</head>
+<body>
+  <Header lang="blog" />
+
+  <main class="mod-page">
+    <div class="mod-container">
+
+      <div id="access-denied" style="display:none" class="mod-access-denied">
+        <h1>無存取權限</h1>
+        <p>此頁面僅限管理員使用。</p>
+        <a href="/" class="btn-home">返回首頁</a>
+      </div>
+
+      <div id="mod-content" style="display:none">
+        <div class="mod-header">
+          <h1 class="mod-title">討論區審核後台</h1>
+          <div class="mod-tab-bar">
+            <button class="mod-tab mod-tab--active" data-status="pending">
+              待審核 <span id="pending-count" class="tab-count">0</span>
+            </button>
+            <button class="mod-tab" data-status="approved">已核准</button>
+            <button class="mod-tab" data-status="rejected">已拒絕</button>
+          </div>
+        </div>
+
+        <div id="mod-list" class="mod-list">
+          <div class="mod-loading">載入中⋯</div>
+        </div>
+
+        <div id="mod-empty" class="mod-empty" style="display:none">
+          <p>此分類目前沒有討論</p>
+        </div>
+      </div>
+
+      <!-- Post detail panel -->
+      <aside id="detail-panel" class="detail-panel" style="display:none">
+        <button id="panel-close" class="panel-close" aria-label="關閉">✕</button>
+        <div id="panel-content" class="panel-content"></div>
+        <div class="panel-actions">
+          <button id="btn-approve"  class="action-btn action-btn--approve">✓ 核准</button>
+          <button id="btn-reject"   class="action-btn action-btn--reject">✕ 拒絕</button>
+          <button id="btn-ban"      class="action-btn action-btn--ban">🚫 封禁用戶</button>
+          <button id="btn-set-mod"  class="action-btn action-btn--mod" style="display:none">🛡 設為版主</button>
+          <button id="btn-delete"   class="action-btn action-btn--delete">🗑 刪除</button>
+        </div>
+        <div id="panel-error" class="panel-error" style="display:none"></div>
+      </aside>
+
+      <div id="panel-overlay" class="panel-overlay" style="display:none"></div>
+    </div>
+  </main>
+
+  <Footer />
+</body>
+</html>
+
+<script define:vars={{ supabaseUrl, supabaseAnon }}>
+import('https://cdn.jsdelivr.net/npm/@supabase/supabase-js@2/+esm').then(({ createClient }) => {
+  const supabase = createClient(supabaseUrl, supabaseAnon, {
+    auth: { flowType: 'pkce', persistSession: true },
+  });
+
+  let currentStatus   = 'pending';
+  let currentPostId   = null;
+  let loadedPosts     = [];
+  let currentUserRole = null;   // 'admin' | 'moderator'
+
+  const TOPICS = {
+    evisa: '電子簽證問題',
+    voa: '落地簽問題',
+    aiac: 'AIAC入境卡',
+    'tourism-tax': '旅遊稅問題',
+    other: '其他入境問題',
+  };
+  const TOPIC_COLORS = {
+    evisa: '#E63946', voa: '#C0392B', aiac: '#7c3aed',
+    'tourism-tax': '#d97706', other: '#64748b',
+  };
+
+  function sanitize(str) {
+    if (str == null) return '';
+    const div = document.createElement('div');
+    div.textContent = String(str);
+    return div.innerHTML;
+  }
+
+  // --- Auth & role check ---
+  async function init() {
+    const { data: { session } } = await supabase.auth.getSession();
+    if (!session) {
+      window.location.href = '/forum/login/?next=/forum/admin/moderation/';
+      return;
+    }
+    const { data: profile } = await supabase
+      .from('user_profiles')
+      .select('role')
+      .eq('id', session.user.id)
+      .single();
+
+    if (!profile || !['admin', 'moderator'].includes(profile.role)) {
+      document.getElementById('access-denied').style.display = 'block';
+      return;
+    }
+    currentUserRole = profile.role;
+    document.getElementById('mod-content').style.display = 'block';
+    loadPosts('pending');
+    loadPendingCount();
+  }
+
+  async function loadPendingCount() {
+    const { count } = await supabase
+      .from('posts')
+      .select('*', { count: 'exact', head: true })
+      .eq('moderation_status', 'pending');
+    document.getElementById('pending-count').textContent = count ?? 0;
+  }
+
+  // --- Load posts ---
+  async function loadPosts(status) {
+    const list  = document.getElementById('mod-list');
+    const empty = document.getElementById('mod-empty');
+    list.innerHTML = '<div class="mod-loading">載入中⋯</div>';
+    empty.style.display = 'none';
+
+    const { data: posts, error } = await supabase
+      .from('posts')
+      .select(`
+        id, topic, title, content, image_urls,
+        moderation_status, reply_count, created_at, user_id,
+        user_profiles (display_name, avatar_url, approved_count, is_banned, role)
+      `)
+      .eq('moderation_status', status)
+      .order('created_at', { ascending: false })
+      .limit(50);
+
+    if (error) {
+      list.innerHTML = `<div class="mod-error">載入失敗：${sanitize(error.message)}</div>`;
+      return;
+    }
+    if (!posts || posts.length === 0) {
+      list.innerHTML = '';
+      empty.style.display = 'block';
+      return;
+    }
+    loadedPosts = posts;
+    list.innerHTML = posts.map(p => renderRow(p)).join('');
+    list.querySelectorAll('.mod-row').forEach(row => {
+      row.addEventListener('click', () => openPanel(row.dataset.id));
+    });
+  }
+
+  function renderRow(p) {
+    const profile  = p.user_profiles;
+    const topicLabel = TOPICS[p.topic] ?? p.topic;
+    const topicColor = TOPIC_COLORS[p.topic] ?? '#64748b';
+    const banned   = profile?.is_banned ? ' <span class="badge-banned">已封禁</span>' : '';
+    const excerpt  = p.content.slice(0, 90) + (p.content.length > 90 ? '⋯' : '');
+    return `
+      <div class="mod-row" data-id="${sanitize(p.id)}">
+        <div class="row-topic-wrap">
+          <span class="row-topic-badge" style="color:${topicColor}">${sanitize(topicLabel)}</span>
+        </div>
+        <div class="row-title">${sanitize(p.title)}</div>
+        <div class="row-excerpt">${sanitize(excerpt)}</div>
+        <div class="row-author">
+          ${sanitize(profile?.display_name ?? '匿名')}${banned}
+          <span class="row-stat">${profile?.approved_count ?? 0} 篇通過</span>
+        </div>
+        <div class="row-time">${new Date(p.created_at).toLocaleString('zh-TW')}</div>
+      </div>
+    `;
+  }
+
+  // --- Detail panel ---
+  async function openPanel(id) {
+    const post = loadedPosts.find(p => p.id === id);
+    if (!post) return;
+    currentPostId = id;
+
+    const profile  = post.user_profiles;
+    const panel    = document.getElementById('detail-panel');
+    const overlay  = document.getElementById('panel-overlay');
+    const content  = document.getElementById('panel-content');
+    const errEl    = document.getElementById('panel-error');
+    errEl.style.display = 'none';
+
+    const topicLabel = TOPICS[post.topic] ?? post.topic;
+    const topicColor = TOPIC_COLORS[post.topic] ?? '#64748b';
+
+    // Load replies
+    const { data: replies } = await supabase
+      .from('replies')
+      .select('id, content, created_at, user_id, user_profiles(display_name)')
+      .eq('post_id', id)
+      .order('created_at', { ascending: true });
+
+    const repliesHtml = replies && replies.length > 0
+      ? replies.map(r => `
+          <div class="panel-reply">
+            <div class="panel-reply-author">${sanitize(r.user_profiles?.display_name ?? '匿名')}</div>
+            <div class="panel-reply-content">${sanitize(r.content)}</div>
+            <div class="panel-reply-time">${new Date(r.created_at).toLocaleString('zh-TW')}</div>
+            <button class="btn-del-reply" data-reply-id="${sanitize(r.id)}">刪除回覆</button>
+          </div>
+        `).join('')
+      : '<p class="no-replies">尚無回覆</p>';
+
+    content.innerHTML = `
+      <div class="panel-topic-badge" style="color:${topicColor}">${sanitize(topicLabel)}</div>
+      <h2 class="panel-post-title">${sanitize(post.title)}</h2>
+      <div class="panel-section">
+        <div class="panel-section-title">內容</div>
+        <pre class="panel-pre">${sanitize(post.content)}</pre>
+      </div>
+      ${post.image_urls && post.image_urls.length > 0 ? `
+      <div class="panel-section">
+        <div class="panel-section-title">附圖（${post.image_urls.length}）</div>
+        <div class="panel-images">
+          ${post.image_urls.map(url => `<a href="${sanitize(url)}" target="_blank" rel="noopener"><img src="${sanitize(url)}" class="panel-img" loading="lazy" alt="附圖" /></a>`).join('')}
+        </div>
+      </div>` : ''}
+      <div class="panel-section">
+        <div class="panel-section-title">回覆（${replies?.length ?? 0}）</div>
+        <div id="replies-list">${repliesHtml}</div>
+      </div>
+      <div class="panel-author">
+        作者：<strong>${sanitize(profile?.display_name ?? '匿名')}</strong>
+        ${profile?.is_banned ? '<span class="badge-banned">已封禁</span>' : ''}
+        ${profile?.role === 'admin'     ? '<span class="badge-role badge-role--admin">管理員</span>' : ''}
+        ${profile?.role === 'moderator' ? '<span class="badge-role badge-role--mod">版主</span>' : ''}
+        · 已核准：${profile?.approved_count ?? 0} 篇
+        <br><small>User ID：${sanitize(post.user_id)}</small>
+        <br><small>提交時間：${new Date(post.created_at).toLocaleString('zh-TW')}</small>
+      </div>
+    `;
+
+    // Wire up delete-reply buttons
+    content.querySelectorAll('.btn-del-reply').forEach(btn => {
+      btn.addEventListener('click', async (e) => {
+        e.stopPropagation();
+        const replyId = btn.dataset.replyId;
+        if (!confirm('確定刪除此回覆？')) return;
+        const { error } = await supabase.from('replies').delete().eq('id', replyId);
+        if (error) { showPanelError(error.message); return; }
+        btn.closest('.panel-reply').remove();
+      });
+    });
+
+    // Show/hide action buttons based on current tab & role
+    const targetIsAdmin = profile?.role === 'admin';
+    const targetIsMod   = profile?.role === 'moderator';
+
+    document.getElementById('btn-approve').style.display =
+      currentStatus === 'pending' || currentStatus === 'rejected' ? 'inline-flex' : 'none';
+    document.getElementById('btn-reject').style.display =
+      currentStatus === 'pending' || currentStatus === 'approved' ? 'inline-flex' : 'none';
+
+    // 封禁：admin 和版主都可用，但不能封禁 admin
+    document.getElementById('btn-ban').style.display =
+      (!profile?.is_banned && !targetIsAdmin) ? 'inline-flex' : 'none';
+
+    // 設為版主：只有 admin 可用，目標不是 admin 且尚非版主
+    document.getElementById('btn-set-mod').style.display =
+      (currentUserRole === 'admin' && !targetIsAdmin && !targetIsMod) ? 'inline-flex' : 'none';
+
+    panel.style.display   = 'flex';
+    overlay.style.display = 'block';
+  }
+
+  function closePanel() {
+    document.getElementById('detail-panel').style.display  = 'none';
+    document.getElementById('panel-overlay').style.display = 'none';
+    currentPostId = null;
+  }
+
+  document.getElementById('panel-close').addEventListener('click', closePanel);
+  document.getElementById('panel-overlay').addEventListener('click', closePanel);
+
+  // --- Moderation actions ---
+  async function setPostStatus(id, status) {
+    const { error } = await supabase
+      .from('posts')
+      .update({ moderation_status: status })
+      .eq('id', id);
+    return error;
+  }
+
+  document.getElementById('btn-approve').addEventListener('click', async () => {
+    if (!currentPostId) return;
+    const err = await setPostStatus(currentPostId, 'approved');
+    if (err) { showPanelError(err.message); return; }
+    closePanel();
+    loadPosts(currentStatus);
+    loadPendingCount();
+  });
+
+  document.getElementById('btn-reject').addEventListener('click', async () => {
+    if (!currentPostId) return;
+    const err = await setPostStatus(currentPostId, 'rejected');
+    if (err) { showPanelError(err.message); return; }
+    closePanel();
+    loadPosts(currentStatus);
+    loadPendingCount();
+  });
+
+  document.getElementById('btn-delete').addEventListener('click', async () => {
+    if (!currentPostId) return;
+    if (!confirm('確定要永久刪除此討論？所有回覆也將一併刪除，此操作無法復原。')) return;
+    const { error } = await supabase.from('posts').delete().eq('id', currentPostId);
+    if (error) { showPanelError(error.message); return; }
+    closePanel();
+    loadPosts(currentStatus);
+    loadPendingCount();
+  });
+
+  document.getElementById('btn-ban').addEventListener('click', async () => {
+    if (!currentPostId) return;
+    if (!confirm('確定要封禁此用戶？此操作將禁止其發布新討論。')) return;
+
+    const post = loadedPosts.find(p => p.id === currentPostId);
+    if (!post) { showPanelError('找不到討論'); return; }
+
+    const { error } = await supabase
+      .from('user_profiles')
+      .update({ is_banned: true })
+      .eq('id', post.user_id);
+
+    if (error) { showPanelError(error.message); return; }
+    closePanel();
+    loadPosts(currentStatus);
+  });
+
+  document.getElementById('btn-set-mod').addEventListener('click', async () => {
+    if (!currentPostId) return;
+    const post = loadedPosts.find(p => p.id === currentPostId);
+    if (!post) { showPanelError('找不到討論'); return; }
+    if (!confirm(`確定將「${post.user_profiles?.display_name ?? '此用戶'}」設為版主？`)) return;
+
+    const { error } = await supabase
+      .from('user_profiles')
+      .update({ role: 'moderator' })
+      .eq('id', post.user_id);
+
+    if (error) { showPanelError(error.message); return; }
+    // 更新本地資料，隱藏按鈕
+    post.user_profiles.role = 'moderator';
+    document.getElementById('btn-set-mod').style.display = 'none';
+    // 更新面板顯示
+    const panelAuthor = document.querySelector('.panel-author strong');
+    if (panelAuthor) {
+      const modBadge = document.createElement('span');
+      modBadge.className = 'badge-role badge-role--mod';
+      modBadge.textContent = '版主';
+      panelAuthor.after(' ', modBadge);
+    }
+  });
+
+  function showPanelError(msg) {
+    const el = document.getElementById('panel-error');
+    el.textContent = `操作失敗：${msg}`;
+    el.style.display = 'block';
+  }
+
+  // --- Tab switching ---
+  document.querySelectorAll('.mod-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      document.querySelectorAll('.mod-tab').forEach(t => t.classList.remove('mod-tab--active'));
+      tab.classList.add('mod-tab--active');
+      currentStatus = tab.dataset.status;
+      loadPosts(currentStatus);
+    });
+  });
+
+  init();
+});
+</script>
+
+<style>
+.mod-page      { padding: 2rem 1rem 4rem; min-height: 60vh; }
+.mod-container { max-width: 1000px; margin: 0 auto; }
+
+.mod-access-denied { text-align: center; padding: 4rem 2rem; }
+.btn-home { color: var(--ocean); text-decoration: none; }
+
+/* Header */
+.mod-header { margin-bottom: 1.5rem; }
+.mod-title  { font-size: 1.4rem; font-weight: 800; color: var(--ocean); margin: 0 0 1rem; }
+.mod-tab-bar { display: flex; gap: .5rem; flex-wrap: wrap; }
+.mod-tab {
+  padding: .45rem 1rem;
+  border: 1px solid #d1c9b5;
+  border-radius: 20px;
+  background: #fff;
+  font-size: .88rem;
+  cursor: pointer;
+  color: var(--text);
+  transition: background .15s, color .15s;
+}
+.mod-tab--active { background: var(--ocean); color: #fff; border-color: var(--ocean); }
+.tab-count {
+  display: inline-block;
+  background: #ef4444;
+  color: #fff;
+  font-size: .7rem;
+  font-weight: 700;
+  padding: .1em .45em;
+  border-radius: 10px;
+  margin-left: .3rem;
+  vertical-align: middle;
+}
+.mod-tab--active .tab-count { background: rgba(255,255,255,.3); }
+
+/* List */
+.mod-loading { padding: 3rem; text-align: center; color: var(--text-light); }
+.mod-error   { padding: 1rem; color: #c53030; background: #fff5f5; border-radius: 8px; }
+.mod-empty   { padding: 3rem; text-align: center; color: var(--text-light); }
+
+.mod-row {
+  display: grid;
+  grid-template-columns: 110px 1fr 2fr 1fr 130px;
+  gap: .6rem;
+  align-items: center;
+  padding: .85rem 1rem;
+  border: 1px solid rgba(201,168,76,.15);
+  border-radius: 8px;
+  margin-bottom: .5rem;
+  background: #fff;
+  cursor: pointer;
+  transition: background .1s;
+}
+.mod-row:hover { background: #fafaf8; }
+
+.row-topic-wrap { }
+.row-topic-badge { font-size: .75rem; font-weight: 700; }
+.row-title   { font-size: .9rem; font-weight: 700; color: var(--ocean); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.row-excerpt { font-size: .82rem; color: var(--text); overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+.row-author  { font-size: .82rem; color: var(--text); }
+.row-stat    { display: block; font-size: .72rem; color: var(--text-light); }
+.row-time    { font-size: .75rem; color: var(--text-light); text-align: right; }
+
+.badge-banned { background: #fef2f2; color: #991b1b; font-size: .68rem; font-weight: 700; padding: .1em .5em; border-radius: 6px; border: 1px solid #fca5a5; }
+.badge-role { font-size: .68rem; font-weight: 700; padding: .1em .5em; border-radius: 6px; }
+.badge-role--admin { background: rgba(201,168,76,.2); color: #7a5500; border: 1px solid #c9a84c; }
+.badge-role--mod   { background: #eff6ff; color: #1d4ed8; border: 1px solid #bfdbfe; }
+
+/* Detail Panel */
+.panel-overlay {
+  position: fixed; inset: 0;
+  background: rgba(0,0,0,.4);
+  z-index: 200;
+}
+.detail-panel {
+  position: fixed;
+  top: 0; right: 0; bottom: 0;
+  width: min(520px, 100vw);
+  background: #fff;
+  z-index: 201;
+  flex-direction: column;
+  overflow-y: auto;
+  box-shadow: -4px 0 24px rgba(0,0,0,.15);
+}
+.panel-close {
+  position: sticky; top: 0;
+  align-self: flex-end;
+  margin: .8rem .8rem 0 0;
+  background: none; border: none;
+  font-size: 1.2rem; cursor: pointer;
+  color: var(--text-light);
+  z-index: 1;
+}
+.panel-content { padding: 0 1.5rem 1rem; flex: 1; }
+
+.panel-topic-badge { font-size: .78rem; font-weight: 700; margin-bottom: .4rem; }
+.panel-post-title  { font-size: 1.1rem; font-weight: 800; color: var(--ocean); margin: 0 0 1rem; }
+.panel-section { margin-bottom: 1.2rem; }
+.panel-section-title { font-size: .78rem; font-weight: 700; color: var(--ocean); text-transform: uppercase; letter-spacing: .04em; margin-bottom: .5rem; }
+.panel-pre { white-space: pre-wrap; font-family: inherit; font-size: .88rem; line-height: 1.65; margin: 0; color: var(--text); background: #fafaf8; padding: .8rem; border-radius: 8px; }
+.panel-images { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: .5rem; }
+.panel-images a { display: block; }
+.panel-img { width: 120px; height: 90px; object-fit: cover; border-radius: 6px; transition: opacity .15s; }
+.panel-img:hover { opacity: .8; }
+
+.panel-author { font-size: .82rem; color: var(--text-light); padding-top: .8rem; border-top: 1px solid rgba(201,168,76,.15); }
+.panel-author strong { color: var(--text); }
+
+/* Replies */
+.panel-reply {
+  background: #f8f9fa;
+  border-radius: 8px;
+  padding: .7rem .9rem;
+  margin-bottom: .5rem;
+  font-size: .85rem;
+}
+.panel-reply-author { font-weight: 700; color: var(--ocean); margin-bottom: .25rem; font-size: .82rem; }
+.panel-reply-content { color: var(--text); line-height: 1.5; white-space: pre-wrap; }
+.panel-reply-time { font-size: .72rem; color: var(--text-light); margin-top: .3rem; }
+.btn-del-reply {
+  display: inline-block; margin-top: .4rem;
+  background: none; border: 1px solid #fca5a5;
+  color: #c53030; font-size: .72rem; padding: .2em .6em;
+  border-radius: 6px; cursor: pointer;
+}
+.btn-del-reply:hover { background: #fff5f5; }
+.no-replies { font-size: .85rem; color: var(--text-light); margin: 0; }
+
+.panel-actions {
+  position: sticky; bottom: 0;
+  display: flex; gap: .6rem; flex-wrap: wrap;
+  padding: .8rem 1.5rem;
+  background: #fff;
+  border-top: 1px solid rgba(201,168,76,.2);
+}
+.action-btn {
+  display: inline-flex; align-items: center;
+  border: none; border-radius: 8px;
+  padding: .55rem 1.1rem;
+  font-size: .88rem; font-weight: 600; cursor: pointer;
+  transition: opacity .15s;
+}
+.action-btn:hover { opacity: .85; }
+.action-btn--approve { background: #166534; color: #fff; }
+.action-btn--reject  { background: #ef4444; color: #fff; }
+.action-btn--ban     { background: #1f2937; color: #fff; }
+.action-btn--mod     { background: #1d4ed8; color: #fff; }
+.action-btn--delete  { background: #7f1d1d; color: #fff; }
+
+.panel-error {
+  margin: 0 1.5rem .8rem;
+  background: #fff5f5;
+  border: 1px solid #fca5a5;
+  color: #c53030;
+  padding: .6rem .9rem;
+  border-radius: 8px;
+  font-size: .85rem;
+}
+
+@media (max-width: 640px) {
+  .mod-row { grid-template-columns: 90px 1fr; grid-template-rows: auto auto auto; }
+  .row-excerpt { grid-column: 1 / -1; }
+  .row-time    { grid-column: 1 / -1; text-align: left; }
+}
+</style>

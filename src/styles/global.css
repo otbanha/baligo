@@ -1,0 +1,332 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;700;900&family=Noto+Sans+TC:wght@300;400;500;700&family=Noto+Sans+SC:wght@300;400;500;700&family=Inter:wght@300;400;500;700&display=swap');
+
+/* 標題數字專用：強制數字走中文字型，避免 Playfair Display 的西式 serif 數字 */
+@font-face {
+  font-family: 'TC-Heading-Nums';
+  src: local('PingFang TC'), local('Noto Sans TC'), local('Microsoft JhengHei');
+  unicode-range: U+0030-0039, U+FF10-FF19; /* ASCII 數字 + 全形數字 */
+  font-weight: 100 900;
+}
+
+:root {
+  --ocean: #5D4037;
+  --ocean-mid: #7B5038;
+  --ocean-light: #9A6447;
+  --gold: #C5A059;
+  --gold-light: #d4b47a;
+  --gold-pale: #f0e0b8;
+  --sand: #FAF3EB;
+  --white: #ffffff;
+  --text: #5D4037;
+  --text-light: #7B5038;
+  --accent: #E63946;
+  --accent-dark: #C0392B;
+  --gray: 120, 90, 80;
+  --gray-light: 245, 230, 211;
+  --gray-dark: 93, 64, 55;
+  --black: 15, 18, 25;
+  --box-shadow: 0 4px 20px rgba(93, 64, 55, 0.12), 0 8px 40px rgba(93, 64, 55, 0.08);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  overflow-x: hidden;
+}
+
+/* ── 語言專屬字型（body + 標題全覆寫，避免繁簡混排）── */
+
+/* 繁體中文：台灣 / 香港 */
+:lang(zh-TW) body, :lang(zh-HK) body {
+  font-family: 'PingFang TC', 'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+}
+:lang(zh-TW) h1, :lang(zh-TW) h2, :lang(zh-TW) h3,
+:lang(zh-TW) h4, :lang(zh-TW) h5, :lang(zh-TW) h6,
+:lang(zh-HK) h1, :lang(zh-HK) h2, :lang(zh-HK) h3,
+:lang(zh-HK) h4, :lang(zh-HK) h5, :lang(zh-HK) h6 {
+  font-family: 'TC-Heading-Nums', 'Playfair Display', 'PingFang TC', 'Noto Sans TC', 'Microsoft JhengHei', serif;
+}
+
+/* 簡體中文：統一使用 SC 字型，標題不使用 Playfair Display 以免繁簡混排 */
+:lang(zh-CN) body {
+  font-family: 'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;
+}
+:lang(zh-CN) h1, :lang(zh-CN) h2, :lang(zh-CN) h3,
+:lang(zh-CN) h4, :lang(zh-CN) h5, :lang(zh-CN) h6 {
+  font-family: 'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;
+}
+
+/* 英文 */
+:lang(en) body {
+  font-family: 'Inter', 'Segoe UI', system-ui, -apple-system, sans-serif;
+}
+:lang(en) h1, :lang(en) h2, :lang(en) h3,
+:lang(en) h4, :lang(en) h5, :lang(en) h6 {
+  font-family: 'Playfair Display', 'Inter', serif;
+}
+
+body {
+  background-color: #FAF3EB;
+  font-family: 'PingFang TC', 'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: var(--sand);
+  color: var(--text);
+  font-size: 18px;
+  line-height: 1.8;
+  word-wrap: break-word;
+  overflow-wrap: break-word;
+  overflow-x: hidden;
+}
+
+main {
+  max-width: 780px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 3em 1em;
+}
+
+iframe, embed, object {
+  max-width: 100%;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: 'TC-Heading-Nums', 'Playfair Display', 'Noto Sans TC', serif;
+  margin: 0 0 0.6rem 0;
+  color: var(--ocean);
+  line-height: 1.3;
+  font-weight: 700;
+}
+
+h1 { font-size: 2.6em; }
+h2 { font-size: 1.9em; }
+h3 { font-size: 1.5em; }
+h4 { font-size: 1.25em; }
+h5 { font-size: 1.1em; }
+
+strong, b { font-weight: 700; color: var(--ocean); }
+.news-content strong, .news-content b, .news-content * { color: #5D4037 !important; }
+.news-content a { color: #C0392B !important; }
+.accom-image img, .news-content img { height: 220px !important; object-fit: cover !important; object-position: center; width: 100% !important; }
+
+a {
+  color: var(--gold);
+  text-decoration: none;
+  transition: color 0.2s;
+}
+a:hover { color: var(--gold-light); }
+
+p { margin-bottom: 1.2em; }
+.prose p { margin-bottom: 1.6em; }
+
+img {
+  max-width: 100%;
+  height: auto;
+  border-radius: 12px;
+}
+
+blockquote {
+  border-left: 4px solid var(--gold);
+  padding: 0.5em 0 0.5em 1.2em;
+  margin: 1.5em 0;
+  font-size: 1.05em;
+  color: var(--ocean-light);
+  background: rgba(201, 168, 76, 0.06);
+  border-radius: 0 8px 8px 0;
+}
+
+hr {
+  border: none;
+  border-top: 1px solid rgba(201, 168, 76, 0.3);
+  margin: 2em 0;
+}
+
+code {
+  padding: 2px 6px;
+  background-color: rgba(201, 168, 76, 0.1);
+  border-radius: 4px;
+  font-size: 0.9em;
+  color: var(--ocean);
+}
+
+pre {
+  padding: 1.5em;
+  border-radius: 10px;
+  background: var(--ocean);
+  overflow-x: auto;
+}
+pre > code {
+  all: unset;
+  color: var(--gold-pale);
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 1.5em 0;
+}
+th {
+  background: var(--ocean);
+  color: var(--gold-light);
+  padding: 0.6em 1em;
+  text-align: left;
+}
+td {
+  padding: 0.6em 1em;
+  border-bottom: 1px solid rgba(201, 168, 76, 0.15);
+}
+tr:hover td {
+  background: rgba(201, 168, 76, 0.05);
+}
+
+textarea { width: 100%; font-size: 16px; }
+input { font-size: 16px; }
+
+@media (max-width: 720px) {
+  body { font-size: 16px; }
+  main { padding: 1.5em 1em; }
+  h1 { font-size: 1.8em; }
+h2 { font-size: 1.4em; }
+h3 { font-size: 1.2em; }
+h4 { font-size: 1.1em; }
+h5 { font-size: 1em; }
+}
+
+/* ── 文章內文連結三層樣式 ──────────────────────────────────────────────
+   特異度 (0,1,1)，低於 Astro scoped 樣式的 (0,2,x)，
+   因此 .share-btn、.toc-h2>a、.edit-link、.related-card 等有 scoped
+   attribute 的元件樣式自然覆蓋這裡，不需要 :not() 排除。
+   ─────────────────────────────────────────────────────────────────── */
+
+/* 第一層：內文 inline 連結基礎樣式 */
+.prose a {
+  color: #c2410c;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-decoration-color: rgba(194, 65, 12, 0.4);
+  text-underline-offset: 3px;
+  font-weight: 500;
+  transition: color 0.15s ease, background-color 0.15s ease, text-decoration-color 0.15s ease;
+}
+.prose a:hover {
+  color: #9a3412;
+  text-decoration-color: #9a3412;
+  background-color: rgba(254, 215, 170, 0.4);
+}
+.prose a:visited {
+  color: #7c2d12;
+}
+
+/* 第二層：聯盟連結按鈕化（Agoda / Trip.com / Booking）
+   特異度 (0,2,1) — attribute selector 加持，自然覆蓋第一層 */
+.prose a[href*="agoda.com"],
+.prose a[href*="trip.com"],
+.prose a[href*="booking.com"],
+.prose a[href*="booking.tpm.li"] {
+  display: inline-block;
+  padding: 4px 12px;
+  background: linear-gradient(135deg, #f97316, #ea580c);
+  color: white;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.92em;
+  margin: 2px 3px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.1);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+.prose a[href*="agoda.com"]:hover,
+.prose a[href*="trip.com"]:hover,
+.prose a[href*="booking.com"]:hover,
+.prose a[href*="booking.tpm.li"]:hover {
+  color: white;
+  text-decoration: none;
+  background-color: transparent;
+  background: linear-gradient(135deg, #ea580c, #c2410c);
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.15);
+}
+.prose a[href*="agoda.com"]:visited,
+.prose a[href*="trip.com"]:visited,
+.prose a[href*="booking.com"]:visited,
+.prose a[href*="booking.tpm.li"]:visited {
+  color: white;
+}
+
+/* Klook / KKday 專屬：淡黃色按鈕 */
+.prose a[href*="klook.com"],
+.prose a[href*="kkday.com"] {
+  display: inline-block;
+  padding: 4px 12px;
+  background: #fef9c3;
+  color: #713f12;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: 600;
+  font-size: 0.92em;
+  margin: 2px 3px;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.08);
+  transition: transform 0.15s ease, box-shadow 0.15s ease, background 0.15s ease;
+}
+.prose a[href*="klook.com"]:hover,
+.prose a[href*="kkday.com"]:hover {
+  background: #fef08a;
+  color: #713f12;
+  text-decoration: none;
+  transform: translateY(-1px);
+  box-shadow: 0 3px 8px rgba(0, 0, 0, 0.12);
+}
+.prose a[href*="klook.com"]:visited,
+.prose a[href*="kkday.com"]:visited {
+  color: #713f12;
+}
+
+/* 第三層：blockquote 內延伸閱讀連結（藥丸標籤風格）
+   排除聯盟連結（已有按鈕樣式） */
+.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]) {
+  color: #C0392B;
+  background-color: #FDE8D8;
+  padding: 1px 8px;
+  border-radius: 4px;
+  text-decoration: none;
+  text-underline-offset: unset;
+  font-weight: 500;
+}
+.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]):hover {
+  background-color: #F9C9B6;
+  color: #8B3A2A;
+  background-color: #F9C9B6;
+}
+.prose blockquote a:not([href*="agoda.com"]):not([href*="trip.com"]):not([href*="klook.com"]):not([href*="kkday.com"]):not([href*="booking.com"]):not([href*="booking.tpm.li"]):visited {
+  color: #8B3A2A;
+}
+
+/* ──────────────────────────────────────────────────────────────────── */
+
+.sr-only {
+  border: 0; padding: 0; margin: 0;
+  position: absolute !important;
+  height: 1px; width: 1px; overflow: hidden;
+  clip: rect(1px, 1px, 1px, 1px);
+  clip-path: inset(50%);
+  white-space: nowrap;
+}
+
+/* ── Scroll-triggered fade-in ──────────────────────────────── */
+/* opacity 動畫永遠生效（iOS reduce-motion 只關 transform，不關 opacity） */
+.fade-in {
+  opacity: 0;
+  transition: opacity 0.5s ease, transform 0.5s ease;
+}
+.fade-in.visible {
+  opacity: 1;
+  transform: translateY(0);
+}
+@media (prefers-reduced-motion: no-preference) {
+  .fade-in { transform: translateY(16px); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .fade-in { transform: none; }
+}

@@ -1,0 +1,4702 @@
+[
+  {
+    "type": "node",
+    "id": 429250405,
+    "lat": -8.3540435,
+    "lon": 114.6202709,
+    "tags": {
+      "addr:city": "Jembrana",
+      "addr:postcode": "82218",
+      "addr:street": "Wijaya Kusuma",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Umum Negara",
+      "wikidata": "Q87756715"
+    }
+  },
+  {
+    "type": "node",
+    "id": 600488283,
+    "lat": -8.7602199,
+    "lon": 115.1758366,
+    "tags": {
+      "addr:city": "Badung, Bali",
+      "addr:housenumber": "Nomor 69 A",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Uluwatu",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Kasih Ibu General Hospital (Uluwatu)",
+      "phone": "+62 361 703270"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1067112056,
+    "lat": -8.7368514,
+    "lon": 115.1679516,
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Klinik Putu Manuaba"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1836100369,
+    "lat": -8.7545182,
+    "lon": 115.1774988,
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Puskesmas Kelan"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2179212572,
+    "lat": -8.700402,
+    "lon": 115.1660579,
+    "tags": {
+      "addr:housenumber": "517B",
+      "addr:street": "Jalan Padma Utara",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Padma Medical",
+      "phone": "+62 0361 761484",
+      "source": "goo.gl/SkVfi"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2279222389,
+    "lat": -8.6280229,
+    "lon": 115.1712761,
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "no",
+      "name": "Kasih Ibu",
+      "toilets:wheelchair": "no",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2491810790,
+    "lat": -8.5698912,
+    "lon": 115.2209213,
+    "tags": {
+      "amenity": "hospital",
+      "name": "puskesmas Sibang kaja"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2491810825,
+    "lat": -8.5708354,
+    "lon": 115.2213505,
+    "tags": {
+      "amenity": "hospital",
+      "name": "Bidan"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2552336207,
+    "lat": -8.4191232,
+    "lon": 115.3090153,
+    "tags": {
+      "amenity": "clinic",
+      "emergency": "yes",
+      "healthcare": "clinic",
+      "name": "Puskesmas",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:wikidata": "Q12490745",
+      "operator:wikipedia": "id:Kementerian Kesehatan Republik Indonesia"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2558088230,
+    "lat": -8.1910116,
+    "lon": 115.4720588,
+    "tags": {
+      "amenity": "clinic",
+      "clinic:type_id": "klinik_bersalin",
+      "name": "Praktek Bidan PTT"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2686683755,
+    "lat": -8.4741486,
+    "lon": 115.5474422,
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "yes",
+      "name": "Puskesmas"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3904018982,
+    "lat": -8.7295856,
+    "lon": 115.1770714,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Klinik Manuaba"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3904018983,
+    "lat": -8.7119366,
+    "lon": 115.1728269,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Legian Clinic",
+      "source": "gps"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3910937962,
+    "lat": -8.674071,
+    "lon": 115.2604138,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Haryoga",
+      "opening_hours": "15:30-21:30"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4081168389,
+    "lat": -8.1441468,
+    "lon": 114.5895985,
+    "tags": {
+      "addr:postcode": "81155",
+      "amenity": "hospital",
+      "name": "Puskesmas Gerokgak ll"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4171857367,
+    "lat": -8.6848155,
+    "lon": 115.215697,
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Raya Sesetan",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Karya Prima"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4180400889,
+    "lat": -8.7092845,
+    "lon": 115.1840666,
+    "tags": {
+      "addr:city": "Kuta,Bali",
+      "addr:housenumber": "Nomor RA 03",
+      "addr:postcode": "80361",
+      "addr:street": "Sunset Road",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Natasha Skin Clinic Center - Kuta"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4236778410,
+    "lat": -8.6812842,
+    "lon": 115.1905897,
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "88",
+      "addr:postcode": "80119",
+      "addr:street": "Jalan Teuku Umar Barat",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Pertamedica clinic",
+      "phone": "+62 361 490709",
+      "website": "https://pentamedica.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4253752631,
+    "lat": -8.4539236,
+    "lon": 115.3520053,
+    "tags": {
+      "addr:city": "Bangli",
+      "addr:postcode": "80613",
+      "addr:street": "Jl. Kusumayudha No.29",
+      "amenity": "hospital",
+      "name": "Rumah Sakit Jiwa Provinsi Bali"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4253756220,
+    "lat": -8.5395546,
+    "lon": 115.1190891,
+    "tags": {
+      "addr:city": "Tabanan",
+      "addr:postcode": "82191",
+      "addr:street": "Jalan Teratai 16,",
+      "amenity": "hospital",
+      "name": "Rumah Sakit Dharma Kerti"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4253766121,
+    "lat": -8.1221635,
+    "lon": 115.0948171,
+    "tags": {
+      "addr:city": "Buleleng",
+      "addr:postcode": "81111",
+      "addr:street": "Jalan Yudistira No.7",
+      "amenity": "hospital",
+      "name": "Rumah Sakit Umum Karya Dharma Husada"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4253769530,
+    "lat": -8.1100428,
+    "lon": 115.0861758,
+    "tags": {
+      "addr:city": "Tabanan",
+      "addr:postcode": "81116",
+      "addr:street": "Jalan Cendrawasih No. 5-7",
+      "amenity": "hospital",
+      "name": "Rumah Sakit Umum Kertha Usada"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4253773047,
+    "lat": -8.5387815,
+    "lon": 115.3949388,
+    "tags": {
+      "addr:city": "Klungkung",
+      "addr:housenumber": "No.40",
+      "addr:postcode": "80716",
+      "addr:street": "Jl. Flamboyan",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Umum Daerah Kabupaten Klungkung"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4253779882,
+    "lat": -8.1204696,
+    "lon": 115.0925921,
+    "tags": {
+      "addr:city": "Buleleng",
+      "addr:postcode": "81111",
+      "addr:street": "Jalan Ngurah Rai No. 30",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "general",
+      "name": "Rumah Sakit Umum Singaraja",
+      "wikidata": "Q87757480"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4253787466,
+    "lat": -8.1138198,
+    "lon": 115.0916689,
+    "tags": {
+      "addr:city": "Buleleng",
+      "addr:postcode": "81111",
+      "addr:street": "Jl. Ngurah Rai",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit TNI-AD Singaraja"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4258092975,
+    "lat": -8.7216974,
+    "lon": 115.1914124,
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "505X",
+      "addr:postcode": "80221",
+      "addr:street": "Jalan By Pass Ngurah Rai",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "International SOS Bali Clinic",
+      "phone": "0361 710505"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4261944591,
+    "lat": -8.7951938,
+    "lon": 115.1857098,
+    "tags": {
+      "addr:city": "Bali",
+      "addr:postcode": "80362",
+      "addr:street": "Jl. Nuansa Udayana I",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Udayana Veterinary Clinic"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4296616958,
+    "lat": -8.5241883,
+    "lon": 115.2644531,
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Toya"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4412763827,
+    "lat": -8.6735226,
+    "lon": 115.2385835,
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:postcode": "80235",
+      "addr:street": "Raya Puputan",
+      "amenity": "clinic",
+      "name": "Erha Clinic",
+      "phone": "0361 4723188"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4414153704,
+    "lat": -8.7411297,
+    "lon": 115.1786158,
+    "tags": {
+      "addr:city": "Tuban, Kuta, Kabupaten Badung, Bali, Indonesia",
+      "addr:housenumber": "100X",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Raya Tuban",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Klinik Tiara Husada",
+      "phone": "+62 361 753676"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4414443819,
+    "lat": -8.6718265,
+    "lon": 115.2152889,
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "192",
+      "addr:postcode": "80113",
+      "addr:street": "Jalan Diponegoro",
+      "amenity": "clinic",
+      "name": "Laboratorium Klinik Prodia",
+      "phone": "+62 361 261001"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4456513890,
+    "lat": -8.7997226,
+    "lon": 115.1525384,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Javanese alternative therapist",
+      "name:ru": "Яванская физиотерапия",
+      "opening_hours": "Mo-Sa 09:00-20:00",
+      "phone": "+62 857-3845-0935",
+      "website": "https://m.facebook.com/alternatif.healerdewi?ref=bookmarks"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4467738303,
+    "lat": -8.4997234,
+    "lon": 115.1844643,
+    "tags": {
+      "amenity": "hospital",
+      "name": "Klinik"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4531824791,
+    "lat": -8.5047105,
+    "lon": 115.2554075,
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Ubud Clinic"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4569917867,
+    "lat": -8.6148576,
+    "lon": 115.2575308,
+    "tags": {
+      "amenity": "hospital",
+      "name": "RSU Premagana",
+      "source": "gps",
+      "wikidata": "Q87763770"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4702687390,
+    "lat": -8.6783565,
+    "lon": 115.1605426,
+    "tags": {
+      "addr:housenumber": "27",
+      "addr:street": "Jalan Pangkung Sari",
+      "amenity": "clinic",
+      "name": "Tirta rahayu"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4849235921,
+    "lat": -8.6884902,
+    "lon": 115.4384666,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Doctor",
+      "name:de": "Doktor"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4860929323,
+    "lat": -8.6407601,
+    "lon": 115.1431016,
+    "tags": {
+      "amenity": "clinic",
+      "name": "Canggu Medical",
+      "name:en": "Canggu Medical"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4860940522,
+    "lat": -8.6435023,
+    "lon": 115.1558842,
+    "tags": {
+      "amenity": "hospital",
+      "name": "SiloamMedika",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4882662421,
+    "lat": -8.835169,
+    "lon": 115.1677526,
+    "tags": {
+      "addr:street": "Jl. Bali Cliff",
+      "amenity": "doctors",
+      "name": "pak Agung healer"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5008288026,
+    "lat": -8.5233608,
+    "lon": 115.263484,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Maitri Medical"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5139010521,
+    "lat": -8.543648,
+    "lon": 115.3226931,
+    "tags": {
+      "amenity": "doctors",
+      "name": "PMIK BLOOD donation"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5206045523,
+    "lat": -8.8305498,
+    "lon": 115.1329427,
+    "tags": {
+      "addr:housenumber": "100",
+      "addr:street": "Raya Uluwatu",
+      "amenity": "clinic",
+      "email": "greencode_medass@yahoo.com",
+      "name": "Green Code Medical Assistance STITCHES",
+      "phone": "+6281337251987"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5227543764,
+    "lat": -8.4387687,
+    "lon": 115.6455003,
+    "tags": {
+      "amenity": "clinic",
+      "name": "Polindes Seraya Barat"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5260909469,
+    "lat": -8.4564672,
+    "lon": 115.3527596,
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "RSUD Bangli"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5291631122,
+    "lat": -8.6384581,
+    "lon": 115.1493506,
+    "tags": {
+      "amenity": "hospital",
+      "name": "BaliMéd Canggu",
+      "opening_hours": "24/7"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5340388121,
+    "lat": -8.5222439,
+    "lon": 115.2548832,
+    "tags": {
+      "addr:postcode": "80571",
+      "addr:street": "Jalan Nyuh Bojog",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "AmrtaSiddhi Aryuvedic Health Center"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5392526221,
+    "lat": -8.6655916,
+    "lon": 115.1598494,
+    "tags": {
+      "amenity": "clinic",
+      "name": "Sivana rehab"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5396384059,
+    "lat": -8.487599,
+    "lon": 115.2538212,
+    "tags": {
+      "addr:housenumber": "21",
+      "addr:street": "Raya Sanggingan",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "BIMC Ubud",
+      "opening_hours": "24/7",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5502673561,
+    "lat": -8.6878283,
+    "lon": 115.4373897,
+    "tags": {
+      "addr:city": "Lembongan",
+      "addr:housenumber": "247",
+      "addr:postcode": "80771",
+      "addr:street": "Jalan Mushroom Beach",
+      "amenity": "clinic",
+      "email": "admin@eastmedicalcarecenter.com",
+      "healthcare": "clinic",
+      "name": "East Medical Care Center",
+      "phone": "+62 81 339555515",
+      "website": "http://eastmedicalcarecenter.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5502870327,
+    "lat": -8.5137374,
+    "lon": 115.2678348,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Ubud care"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5527708261,
+    "lat": -8.2735063,
+    "lon": 115.5887971,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Praktik Dokter Jam Buka",
+      "phone": "085333775665"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5647170129,
+    "lat": -8.6715871,
+    "lon": 115.1605105,
+    "tags": {
+      "amenity": "hospital",
+      "name": "Emergency"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5649137033,
+    "lat": -8.664188,
+    "lon": 115.1467671,
+    "tags": {
+      "amenity": "hospital",
+      "name": "Emergency",
+      "opening_hours": "Mo-Sa 08:00-22:00",
+      "phone": "+6282299995911"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5655031357,
+    "lat": -8.6681501,
+    "lon": 115.1467474,
+    "tags": {
+      "amenity": "doctors",
+      "name": "Prime plus medical"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6164660185,
+    "lat": -8.6382462,
+    "lon": 115.1490883,
+    "tags": {
+      "amenity": "doctors",
+      "name": "bali med"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6200632475,
+    "lat": -8.4888188,
+    "lon": 115.2698181,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Toya Medical Clinic"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6378551486,
+    "lat": -8.5240174,
+    "lon": 115.269633,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Ubud Care Clinic",
+      "name:fr": "Cabinet médical - Ubud"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6427671586,
+    "lat": -8.5239427,
+    "lon": 115.2693568,
+    "tags": {
+      "addr:housenumber": "8",
+      "addr:street": "Jl. AA. Gede Mandera",
+      "amenity": "clinic",
+      "email": "Contact@UbudCare.com",
+      "healthcare": "clinic",
+      "name": "Ubud Care Clinic",
+      "opening_hours": "24/7",
+      "operator": "Dr. Mr. Ubud Care",
+      "phone": "0811-3977-911",
+      "website": "http://www.UbudCare.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6460723870,
+    "lat": -8.7841529,
+    "lon": 115.1660573,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "SOS Clinic"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6718195621,
+    "lat": -8.639982,
+    "lon": 115.1518346,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Klinik Adi Medica"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7168374485,
+    "lat": -8.7084829,
+    "lon": 115.1783917,
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Rejuvenate"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7309359985,
+    "lat": -8.1274599,
+    "lon": 115.0884129,
+    "tags": {
+      "addr:street": "Gg. XIV",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "BaliMéd"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8046529285,
+    "lat": -8.1229735,
+    "lon": 115.0713879,
+    "tags": {
+      "addr:housenumber": "171A",
+      "addr:street": "Jl. A Yani",
+      "amenity": "hospital",
+      "email": "rsu_parama_sidhi@yahoo.co.id",
+      "healthcare": "hospital",
+      "internet_access": "wlan",
+      "name": "Parama Sidhi Hospital",
+      "website": "https://www.rsuparamasidhi.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 8459992617,
+    "lat": -8.5088338,
+    "lon": 115.2677872,
+    "tags": {
+      "amenity": "doctors",
+      "healthcare": "doctor",
+      "name": "Taruna Madical Services 24h"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9810776091,
+    "lat": -8.6684209,
+    "lon": 115.2278393,
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:full": "Jalan Tantular Nomor 6 Renon, Denpasar - Bali",
+      "addr:housenumber": "6",
+      "addr:street": "Kapten Tantular",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Bali Royal Hospital",
+      "operator:type": "private",
+      "website": "https://baliroyalhospital.co.id/",
+      "wikidata": "Q87765183"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9810808425,
+    "lat": -8.6736469,
+    "lon": 115.2324413,
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:postcode": "80234",
+      "addr:street": "Tukad Unda 1",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Ibu Dan Anak Harapan Bunda"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9810907082,
+    "lat": -8.2953139,
+    "lon": 115.225855,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "puskesmas petang II",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:wikidata": "Q12490745"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9810909182,
+    "lat": -8.4388335,
+    "lon": 115.6455491,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Polindes Seraya Barat"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9810948517,
+    "lat": -8.7473943,
+    "lon": 115.5071087,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Puskesmas Pembantu Desa Batu Madeg",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:wikidata": "Q12490745"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9895435217,
+    "lat": -8.641007,
+    "lon": 115.1350133,
+    "tags": {
+      "addr:postcode": "80351",
+      "addr:street": "Jalan Sempol",
+      "amenity": "clinic",
+      "name": "The Bali Physio - Pererenan",
+      "phone": "0821-4586-5105",
+      "website": "https://www.thebaliphysio.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9916638786,
+    "lat": -8.6792267,
+    "lon": 115.1536083,
+    "tags": {
+      "amenity": "clinic",
+      "name": "Omsa Medic Seminyak"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9926449224,
+    "lat": -8.6910023,
+    "lon": 115.1647664,
+    "tags": {
+      "amenity": "clinic",
+      "name": "Bhakti Vedanta Medical"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9933094051,
+    "lat": -8.6880809,
+    "lon": 115.1674925,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Body Lab Slimming Spa"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9933129629,
+    "lat": -8.6902108,
+    "lon": 115.1618611,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Sos Medical Seminyak"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9933292383,
+    "lat": -8.7000432,
+    "lon": 115.1804161,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Sunset Vet Legian"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10168238983,
+    "lat": -8.5717388,
+    "lon": 115.3265226,
+    "tags": {
+      "amenity": "hospital",
+      "check_date": "2025-02-22",
+      "healthcare": "hospital",
+      "name": "Puskesmas Blahbatuh II"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10225116418,
+    "lat": -8.6894952,
+    "lon": 115.1650903,
+    "tags": {
+      "amenity": "clinic",
+      "name": "Bali Aesthetic & Beauty Clinic"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10700029866,
+    "lat": -8.8076696,
+    "lon": 115.16385,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "BSI International Ungasan"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10997213225,
+    "lat": -8.7373482,
+    "lon": 115.1783377,
+    "tags": {
+      "addr:city": "Kuta, Kabupaten Badung, Bali, Indonesia",
+      "addr:housenumber": "1A/45",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Raya Tuban",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "intensive",
+      "name": "Murni Teguh Hospitals",
+      "opening_hours": "24/7",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11581295378,
+    "lat": -8.7225765,
+    "lon": 115.1775527,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Puskesmas",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:type": "government",
+      "operator:wikidata": "Q12490745"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11644746592,
+    "lat": -8.6453209,
+    "lon": 115.1411304,
+    "tags": {
+      "addr:street": "Jalan Pantai Batu Bolong",
+      "amenity": "clinic",
+      "date": "2025",
+      "healthcare": "clinic",
+      "name": "General Practitioner Medical Service",
+      "source": "Mapillary"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11765627123,
+    "lat": -8.486028,
+    "lon": 115.6004992,
+    "tags": {
+      "amenity": "hospital",
+      "name": "Puskesmas Karang Asem 1"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12168114442,
+    "lat": -8.5316171,
+    "lon": 115.397844,
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "RSU Bintang"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12168163173,
+    "lat": -8.5385889,
+    "lon": 115.394843,
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "RSUD Klungkung"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12361182101,
+    "lat": -8.6320514,
+    "lon": 115.1919601,
+    "tags": {
+      "addr:housenumber": "k-19",
+      "addr:street": "Jalan Gunung Catur V",
+      "amenity": "doctors",
+      "name": "Dr Syane TCM"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12570542944,
+    "lat": -8.6885707,
+    "lon": 115.2589329,
+    "tags": {
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "name": "Global Sehat"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13202132059,
+    "lat": -8.4732828,
+    "lon": 115.3243278,
+    "tags": {
+      "amenity": "clinic",
+      "check_date": "2025-10-08",
+      "healthcare": "clinic",
+      "name": "UPTD Puskesmas Gianyar II",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:type": "government",
+      "operator:wikidata": "Q12490745"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13226755555,
+    "lat": -8.3359463,
+    "lon": 115.6501151,
+    "tags": {
+      "addr:city": "Amed",
+      "addr:housename": "Yasa Medical Clinic",
+      "addr:postcode": "80852",
+      "addr:province": "Bali",
+      "addr:street": "Jalan I. Ketut Natih",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "general;dentist;emergency",
+      "name": "Yasa Medical Clinic",
+      "operator": "Yasa Medical Clinic",
+      "operator:type": "public"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13420301145,
+    "lat": -8.6869341,
+    "lon": 115.2633095,
+    "tags": {
+      "addr:city": "Sanur,Denpasar,Bali",
+      "addr:district": "Denpasar Selatan",
+      "addr:housename": "ICON Bali",
+      "addr:housenumber": "27",
+      "addr:postcode": "80228",
+      "addr:province": "Bali",
+      "addr:street": "Jalan Danau Tamblingan",
+      "addr:subdistrict": "Sanur",
+      "amenity": "hospital",
+      "contact:facebook": "https://www.facebook.com/lasikindonesia.bali/",
+      "description": "Klinik Utama Ciputra SMG Eye Clinic Bali",
+      "emergency": "no",
+      "healthcare": "hospital",
+      "healthcare:speciality": "ophthalmology",
+      "mobile": "+6282313550677",
+      "name": "Ciputra SMG Eye Clinic Bali",
+      "official_name": "Ciputra SMG Eye Clinic Bali",
+      "operator": "Ciputra Group",
+      "operator:type": "private",
+      "website": "https://ciputrasmgeyeclinicbali.com"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13437165120,
+    "lat": -8.6457959,
+    "lon": 115.1409392,
+    "tags": {
+      "addr:street": "Jalan Pantai Batu Bolong",
+      "amenity": "clinic",
+      "date": "2025",
+      "name": "The Medical",
+      "source": "Mapillary"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13437165172,
+    "lat": -8.6483608,
+    "lon": 115.1385745,
+    "tags": {
+      "addr:street": "Jalan Pantai Batu Bolong",
+      "amenity": "clinic",
+      "date": "2025",
+      "name": "Medical Doctor General Practitioner",
+      "source": "Mapillary"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13437165224,
+    "lat": -8.6436268,
+    "lon": 115.1421864,
+    "tags": {
+      "addr:street": "Jalan Pantai Batu Bolong",
+      "amenity": "clinic",
+      "date": "2025",
+      "name": "Hydro Medical",
+      "source": "Mapillary"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13437165245,
+    "lat": -8.6407729,
+    "lon": 115.1433069,
+    "tags": {
+      "addr:street": "Jalan Pantai Batu Bolong",
+      "amenity": "clinic",
+      "date": "2025",
+      "name": "Abdi Medicca",
+      "source": "Mapillary"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13465417228,
+    "lat": -8.8197627,
+    "lon": 115.0899672,
+    "tags": {
+      "air_conditioning": "yes",
+      "amenity": "clinic",
+      "email": "contact@somalongevityclub.com",
+      "healthcare": "clinic",
+      "healthcare:speciality": "dermatology",
+      "image": "https://static.wixstatic.com/media/52195f_216eebcac97548d4b7ec1330c1b45d0d~mv2.jpg",
+      "level": "1",
+      "mobile": "+6281125228000",
+      "name": "Soma Aesthetics & Longevity Club",
+      "opening_hours": "Mo-Su 09:00-18:00",
+      "operator": "Soma Aesthetics & Longevity Club",
+      "operator:type": "private",
+      "website": "https://www.somalongevityclub.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13542381690,
+    "lat": -8.6572963,
+    "lon": 115.1310345,
+    "tags": {
+      "addr:street": "Jalan Pantai Batu Bolong",
+      "amenity": "clinic",
+      "date": "2025",
+      "name": "Bali Healing Clinic",
+      "source": "Mapillary"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13542381812,
+    "lat": -8.6508295,
+    "lon": 115.1357639,
+    "tags": {
+      "addr:street": "Jalan Pantai Batu Bolong",
+      "amenity": "clinic",
+      "date": "2025",
+      "name": "Sanmed Medical",
+      "source": "Mapillary"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13644806201,
+    "lat": -8.8134392,
+    "lon": 115.1131957,
+    "tags": {
+      "addr:city": "Uluwatu",
+      "addr:district": "Pecatu",
+      "addr:housenumber": "10",
+      "addr:postcode": "80361",
+      "addr:province": "Bali",
+      "addr:street": "Jalan Pantai Bingin",
+      "amenity": "clinic",
+      "check_date": "2026-03-13",
+      "check_date:opening_hours": "2026-03-13",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general;blood_check;emergency",
+      "name": "911 Medical Clinic",
+      "opening_hours": "24/7",
+      "phone": "+6285195911911",
+      "website": "https://911medical.id/"
+    }
+  },
+  {
+    "type": "way",
+    "id": 37374977,
+    "center": {
+      "lat": -8.677385,
+      "lon": 115.2606345
+    },
+    "nodes": [
+      11874117246,
+      11874117243,
+      11874117226,
+      11874117256,
+      11874117237,
+      11874117258,
+      3965149789,
+      3965215614,
+      3965149788,
+      436249952,
+      3965149794,
+      436249955,
+      3965149797,
+      3965149796,
+      436249960,
+      3965149795,
+      3965149799,
+      3965149798,
+      436249967,
+      3965149801,
+      3965149800,
+      436249970,
+      3965149802,
+      13271786938,
+      13271786937,
+      3965149803,
+      436249973,
+      436249976,
+      436249978,
+      3965149804,
+      3965149805,
+      436249980,
+      10045177304,
+      436249981,
+      3965149806,
+      3965149807,
+      3965149808,
+      436249985,
+      3965149810,
+      3965149809,
+      3965149811,
+      436249991,
+      11874117247,
+      11874117239,
+      11874117228,
+      11874117240,
+      11874117246
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:province": "Bali",
+      "addr:street": "Jalan Bypass Ngurah Rai",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "fixme": "needs resurvey",
+      "healthcare": "hospital",
+      "name": "Bali International Hospital",
+      "opening_date": "2023"
+    },
+    "lat": -8.677385,
+    "lon": 115.2606345
+  },
+  {
+    "type": "way",
+    "id": 209283007,
+    "center": {
+      "lat": -8.4548493,
+      "lon": 115.6010148
+    },
+    "nodes": [
+      9810940023,
+      2195048968,
+      2195049036,
+      2195049002,
+      9810940023
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Puskesmas Pembantu Subagan",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:type": "government",
+      "operator:wikidata": "Q12490745"
+    },
+    "lat": -8.4548493,
+    "lon": 115.6010148
+  },
+  {
+    "type": "way",
+    "id": 209461312,
+    "center": {
+      "lat": -8.4511216,
+      "lon": 115.6044615
+    },
+    "nodes": [
+      2196773618,
+      2196773616,
+      2196773601,
+      2196773610,
+      2196773618
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Klinik Tulus Ayu"
+    },
+    "lat": -8.4511216,
+    "lon": 115.6044615
+  },
+  {
+    "type": "way",
+    "id": 209531912,
+    "center": {
+      "lat": -8.4355223,
+      "lon": 115.6130839
+    },
+    "nodes": [
+      2197402199,
+      2197402289,
+      2197402283,
+      2197402274,
+      2197402209,
+      3221095792,
+      3221095793,
+      3221095791,
+      2197402204,
+      2197402195,
+      3221095794,
+      3221095795,
+      3221095796,
+      3221095797,
+      2197402207,
+      2197402292,
+      2197402249,
+      2197402267,
+      12856922458,
+      2197402213,
+      3240618045,
+      3240618044,
+      3240618047,
+      3240618043,
+      3240618042,
+      3240618041,
+      3240618040,
+      3240618039,
+      3240618038,
+      2197402264,
+      2197402312,
+      2197402202,
+      2197402299,
+      2197402255,
+      2197402216,
+      2197402237,
+      3240612103,
+      9471006067,
+      3240612101,
+      3240612104,
+      3240612102,
+      2197402199
+    ],
+    "tags": {
+      "addr:city": "Amlapura",
+      "addr:housenumber": "58",
+      "addr:postcode": "80871",
+      "addr:street": "Jalan Ngurah Rai",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "RSUD Karangasem",
+      "name:en": "Karangasem Regional Hospital",
+      "operator": "Dinas Kesehatan Kab. Karangasem",
+      "wikidata": "Q87757417"
+    },
+    "lat": -8.4355223,
+    "lon": 115.6130839
+  },
+  {
+    "type": "way",
+    "id": 226352345,
+    "center": {
+      "lat": -8.2030509,
+      "lon": 115.4662254
+    },
+    "nodes": [
+      2351945620,
+      2351945624,
+      2351945628,
+      2351945625,
+      2351945620
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "clinic:type_id": "pustu",
+      "name": "Puskesmas Pembantu"
+    },
+    "lat": -8.2030509,
+    "lon": 115.4662254
+  },
+  {
+    "type": "way",
+    "id": 241570299,
+    "center": {
+      "lat": -8.5668083,
+      "lon": 115.2143784
+    },
+    "nodes": [
+      2491793708,
+      2491793710,
+      2491793712,
+      2491793714,
+      2491793716,
+      2491793708
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "First Aid Station"
+    },
+    "lat": -8.5668083,
+    "lon": 115.2143784
+  },
+  {
+    "type": "way",
+    "id": 247562667,
+    "center": {
+      "lat": -8.2054216,
+      "lon": 115.4542088
+    },
+    "nodes": [
+      2544318954,
+      2544318971,
+      2544319002,
+      2544318983,
+      2544318954
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Rumah Klinik"
+    },
+    "lat": -8.2054216,
+    "lon": 115.4542088
+  },
+  {
+    "type": "way",
+    "id": 304194714,
+    "center": {
+      "lat": -8.7903198,
+      "lon": 115.1742761
+    },
+    "nodes": [
+      3087228893,
+      3087228894,
+      8317916634,
+      8317916633,
+      8317916632,
+      3087228895,
+      3207184731,
+      8317916627,
+      3087228896,
+      8317916628,
+      3087228897,
+      3087228898,
+      3087228899,
+      3087228900,
+      3087228901,
+      3087228902,
+      3087228903,
+      8317916629,
+      3087228904,
+      8317916636,
+      8317916637,
+      3207184711,
+      4419873830,
+      3207184709,
+      3087228905,
+      3087228906,
+      8317916630,
+      8317916635,
+      8317916631,
+      3087228907,
+      3087228893
+    ],
+    "tags": {
+      "addr:city": "Jimbaran",
+      "addr:postcode": "80362",
+      "addr:street": "Jalan Pasraman Unud",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Universitas Udayana",
+      "name:en": "Udayana University Hospital",
+      "source": "Bing",
+      "wikidata": "Q87765168"
+    },
+    "lat": -8.7903198,
+    "lon": 115.1742761
+  },
+  {
+    "type": "way",
+    "id": 304198439,
+    "center": {
+      "lat": -8.7835124,
+      "lon": 115.1716541
+    },
+    "nodes": [
+      3087262287,
+      4903728628,
+      4903728629,
+      3087262288,
+      3087262289,
+      10613940024,
+      10613940029,
+      10613940028,
+      10613940026,
+      10613940025,
+      10613940027,
+      3087262287
+    ],
+    "tags": {
+      "addr:city": "Jimbaran",
+      "addr:housenumber": "100K",
+      "addr:street": "Jalan Uluwatu 2",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Klinik Rahayu Asih"
+    },
+    "lat": -8.7835124,
+    "lon": 115.1716541
+  },
+  {
+    "type": "way",
+    "id": 309181624,
+    "center": {
+      "lat": -8.6728438,
+      "lon": 115.2196426
+    },
+    "nodes": [
+      3145136146,
+      3145136151,
+      3145136153,
+      3145136149,
+      3145136145,
+      3145136146
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Clinic of Udayana University"
+    },
+    "lat": -8.6728438,
+    "lon": 115.2196426
+  },
+  {
+    "type": "way",
+    "id": 311442210,
+    "center": {
+      "lat": -8.675666,
+      "lon": 115.2118351
+    },
+    "nodes": [
+      3490096603,
+      3490096602,
+      7330333680,
+      3170900612,
+      7330333681,
+      7330333682,
+      3170900611,
+      3170900604,
+      3229561470,
+      3229561469,
+      3229561468,
+      3170900587,
+      3229561467,
+      3229561466,
+      8667277780,
+      3229561465,
+      3229561463,
+      3170901092,
+      8667183275,
+      3229561462,
+      3170901103,
+      6755520413,
+      3230974266,
+      3230974267,
+      12927391503,
+      3230974268,
+      3716909554,
+      3851387206,
+      12927391501,
+      3718349322,
+      12927391502,
+      3851387207,
+      3170901102,
+      8667183278,
+      8667183277,
+      3170901033,
+      8667183276,
+      3170901041,
+      3490096603
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:full": "Jalan Diponegoro, Kota Denpasar, Bali",
+      "addr:postcode": "80114",
+      "addr:street": "Jalan Pulau Nias",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "general",
+      "name": "RSUP Sanglah Denpasar",
+      "name:id": "Rumah Sakit Umum Daerah Sanglah",
+      "operator:type": "government",
+      "phone": "+62 361 227913"
+    },
+    "lat": -8.675666,
+    "lon": 115.2118351
+  },
+  {
+    "type": "way",
+    "id": 311852049,
+    "center": {
+      "lat": -8.664375,
+      "lon": 115.2382471
+    },
+    "nodes": [
+      3175921592,
+      3175921593,
+      3175921594,
+      3175921595,
+      3175921596,
+      3175921592
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Merdeka Medical Centre",
+      "source": "Local knowledge",
+      "website": "http://mmc-bali.com/"
+    },
+    "lat": -8.664375,
+    "lon": 115.2382471
+  },
+  {
+    "type": "way",
+    "id": 312030479,
+    "center": {
+      "lat": -8.6697003,
+      "lon": 115.2160171
+    },
+    "nodes": [
+      3178441829,
+      3178441830,
+      3178441831,
+      3178441832,
+      3178441829
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "125",
+      "addr:street": "Dewi Sartika",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Klinik Umum Kimia Farma",
+      "opening_hours": "Mo-Su 15:00-22:00",
+      "source": "Local knowledge"
+    },
+    "lat": -8.6697003,
+    "lon": 115.2160171
+  },
+  {
+    "type": "way",
+    "id": 315576123,
+    "center": {
+      "lat": -8.6631479,
+      "lon": 115.2195697
+    },
+    "nodes": [
+      3283498319,
+      3283498317,
+      3283498321,
+      3283498320,
+      3283498322,
+      3283498323,
+      3283498324,
+      3217046172,
+      3217046169,
+      3217046209,
+      3283498319
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:full": "Jalan Jenderal Sudirman No.1, Dangin Puri Klod, Kecamatan Denpasar Timur, Kota Denpasar, Bali 80232",
+      "addr:street": "P.B. Sudirman",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "RS Angkatan Darat Udayana Denpasar",
+      "operator:type": "military",
+      "website": "https://rumahsakitudayanadenpasar.com/",
+      "wikidata": "Q87759572"
+    },
+    "lat": -8.6631479,
+    "lon": 115.2195697
+  },
+  {
+    "type": "way",
+    "id": 315785853,
+    "center": {
+      "lat": -8.6524017,
+      "lon": 115.2242732
+    },
+    "nodes": [
+      3219198775,
+      3219198776,
+      3219198777,
+      3219198778,
+      3219198779,
+      3673355069,
+      3754089657,
+      3219198781,
+      3219198782,
+      3219198775
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "17",
+      "addr:postcode": "80234",
+      "addr:street": "Jl. Angsoka, Dangin Puri Kangin, Kec. Denpasar Utara, Kota Denpasar, Bali",
+      "amenity": "clinic",
+      "building": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general",
+      "name": "North Denpasar I Clinic",
+      "name:id": "Puskesmas I Denpasar Utara"
+    },
+    "lat": -8.6524017,
+    "lon": 115.2242732
+  },
+  {
+    "type": "way",
+    "id": 315896421,
+    "center": {
+      "lat": -8.6678996,
+      "lon": 115.2156468
+    },
+    "nodes": [
+      3220233550,
+      3220233556,
+      3220233557,
+      3220233558,
+      3220233559,
+      3220233526,
+      3220233525,
+      3220233550
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Diponegoro",
+      "amenity": "doctors",
+      "building": "yes",
+      "healthcare": "doctor",
+      "name": "Praktek Bersama",
+      "name:en": "Joint Private Doctor Operations"
+    },
+    "lat": -8.6678996,
+    "lon": 115.2156468
+  },
+  {
+    "type": "way",
+    "id": 317142084,
+    "center": {
+      "lat": -8.6782828,
+      "lon": 115.2127699
+    },
+    "nodes": [
+      3233812730,
+      3233812737,
+      3233812746,
+      3233812738,
+      3233812739,
+      3233812756,
+      3233813030,
+      3233812759,
+      3233813008,
+      3233812740,
+      3233812741,
+      3233813019,
+      3233812757,
+      3233813018,
+      3233812742,
+      3233812732,
+      3233812730
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:full": "Jl. Pulau Serangan no. 7, Denpasar, Bali",
+      "addr:housenumber": "7",
+      "addr:postcode": "80114",
+      "addr:street": "Pulau Serangan",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Surya Husadha Hospital",
+      "name:en": "Surya Husada Public Hospital",
+      "operator:type": "private",
+      "phone": "+62 361 233787",
+      "source": "Survey",
+      "website": "https://suryahusadha.com/",
+      "wikidata": "Q87759585"
+    },
+    "lat": -8.6782828,
+    "lon": 115.2127699
+  },
+  {
+    "type": "way",
+    "id": 318881440,
+    "center": {
+      "lat": -8.6510044,
+      "lon": 115.2246851
+    },
+    "nodes": [
+      3252755865,
+      3252755866,
+      3252755867,
+      3252755868,
+      3252755865
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Kamboja",
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Polikilnik Polda Bali",
+      "source": "Survey"
+    },
+    "lat": -8.6510044,
+    "lon": 115.2246851
+  },
+  {
+    "type": "way",
+    "id": 322208482,
+    "center": {
+      "lat": -8.6736441,
+      "lon": 115.2324383
+    },
+    "nodes": [
+      3289789853,
+      3289789964,
+      3289789856,
+      3289789857,
+      3289789858,
+      3285646738,
+      3289789859,
+      3289789853
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "1",
+      "addr:street": "Tukad Unda",
+      "amenity": "hospital",
+      "emergency": "no",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Ibu & Anak Harapan Bunda"
+    },
+    "lat": -8.6736441,
+    "lon": 115.2324383
+  },
+  {
+    "type": "way",
+    "id": 323163547,
+    "center": {
+      "lat": -8.1957729,
+      "lon": 114.9429362
+    },
+    "nodes": [
+      3299569747,
+      3299569748,
+      3299569749,
+      3299569750,
+      3299569747
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "building": "hospital",
+      "name": "Rumah Sakit Santhi Graha"
+    },
+    "lat": -8.1957729,
+    "lon": 114.9429362
+  },
+  {
+    "type": "way",
+    "id": 328141196,
+    "center": {
+      "lat": -8.5518222,
+      "lon": 115.2732252
+    },
+    "nodes": [
+      7320815643,
+      7320815635,
+      3349658205,
+      3349658207,
+      7320815634,
+      7328231175,
+      3349658208,
+      3349658209,
+      7320815636,
+      7320815637,
+      7320815638,
+      7320815639,
+      7320815640,
+      7328231197,
+      7320815641,
+      7320815643
+    ],
+    "tags": {
+      "addr:city": "Gianyar",
+      "addr:full": "Jalan Raya Mas No.88x, MAS, Kecamatan Ubud, Kabupaten Gianyar, Bali 80571",
+      "addr:postcode": "80571",
+      "addr:street": "Jalan Raya Mas Ubud",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "RS Ari Canti",
+      "operator:type": "private",
+      "website": "https://aricantihospital.com/",
+      "wikidata": "Q87763185"
+    },
+    "lat": -8.5518222,
+    "lon": 115.2732252
+  },
+  {
+    "type": "way",
+    "id": 335050543,
+    "center": {
+      "lat": -8.1817183,
+      "lon": 115.4646312
+    },
+    "nodes": [
+      3421798066,
+      3421798073,
+      4989398859,
+      4989398858,
+      4989398857,
+      4989398856,
+      3421798090,
+      9467419413,
+      4989398861,
+      4989398860,
+      3421798083,
+      3421798066
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "RUMAH SAKIT PRATAMA"
+    },
+    "lat": -8.1817183,
+    "lon": 115.4646312
+  },
+  {
+    "type": "way",
+    "id": 363059906,
+    "center": {
+      "lat": -8.7043353,
+      "lon": 115.2177207
+    },
+    "nodes": [
+      3672716964,
+      3672716965,
+      3672716966,
+      3672716967,
+      3672716964
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "8",
+      "addr:postcode": "80223",
+      "addr:street": "Jalan Gurita",
+      "amenity": "clinic",
+      "building": "yes",
+      "emergency": "no",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general",
+      "layer": "-1",
+      "name": "Puskesmas I Denpasar Selatan",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:type": "government",
+      "operator:wikidata": "Q12490745"
+    },
+    "lat": -8.7043353,
+    "lon": 115.2177207
+  },
+  {
+    "type": "way",
+    "id": 363142304,
+    "center": {
+      "lat": -8.646053,
+      "lon": 115.2243605
+    },
+    "nodes": [
+      3673354827,
+      3673354828,
+      3673354829,
+      3673354830,
+      3673354827
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Trijata",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Trijata"
+    },
+    "lat": -8.646053,
+    "lon": 115.2243605
+  },
+  {
+    "type": "way",
+    "id": 363142351,
+    "center": {
+      "lat": -8.6499568,
+      "lon": 115.2343579
+    },
+    "nodes": [
+      3673355075,
+      3673355076,
+      3673355077,
+      3673355078,
+      3673355079,
+      3673355080,
+      3673355075
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "1",
+      "addr:postcode": "80236",
+      "addr:street": "Jl. Pucuk, Sumerta, Kec. Denpasar Tim., Kota Denpasar, Bali",
+      "amenity": "clinic",
+      "building": "clinic",
+      "emergency": "no",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general",
+      "name": "Puskesmas I Denpasar Timur",
+      "operator:type": "Ministry of Health (Indonesia)",
+      "website": "https://www.puskesmasdentim1.denpasarkota.go.id/"
+    },
+    "lat": -8.6499568,
+    "lon": 115.2343579
+  },
+  {
+    "type": "way",
+    "id": 363343416,
+    "center": {
+      "lat": -8.6640517,
+      "lon": 115.2401487
+    },
+    "nodes": [
+      3675164485,
+      3675164486,
+      3675164487,
+      3675164488,
+      3675164489,
+      3675164485
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "240",
+      "addr:street": "Jalan Hayam Wuruk",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Klinik Utama Padma Bahtera",
+      "toilets:wheelchair": "yes",
+      "wheelchair": "yes"
+    },
+    "lat": -8.6640517,
+    "lon": 115.2401487
+  },
+  {
+    "type": "way",
+    "id": 367970490,
+    "center": {
+      "lat": -8.6725341,
+      "lon": 115.2165962
+    },
+    "nodes": [
+      3718364786,
+      3718364787,
+      3718364788,
+      3718364789,
+      3718364786
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Serma Made Pil",
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Yayasan Kesehatan Telkom"
+    },
+    "lat": -8.6725341,
+    "lon": 115.2165962
+  },
+  {
+    "type": "way",
+    "id": 371858199,
+    "center": {
+      "lat": -8.6524429,
+      "lon": 115.2232354
+    },
+    "nodes": [
+      3754031762,
+      3754031778,
+      3754031777,
+      3754031774,
+      3754031805,
+      3754031804,
+      3754031803,
+      3754031775,
+      3754031763,
+      3754031762
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "8",
+      "addr:street": "Angsoka",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Mata Bali Mandara",
+      "name:en": "Bali Mandara Eye Hospital",
+      "wikidata": "Q4823561",
+      "wikimedia_commons": "Category:Australia Bali Memorial Eye Centre",
+      "wikipedia": "en:Bali Mandara Eye Hospital"
+    },
+    "lat": -8.6524429,
+    "lon": 115.2232354
+  },
+  {
+    "type": "way",
+    "id": 374533482,
+    "center": {
+      "lat": -8.6799645,
+      "lon": 115.2299
+    },
+    "nodes": [
+      3779293673,
+      3779293674,
+      3779293675,
+      3779293676,
+      3779293677,
+      3779293678,
+      3779293679,
+      3779293680,
+      3779293673
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Tukad Batanghari",
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Klinik Tulus Ayu"
+    },
+    "lat": -8.6799645,
+    "lon": 115.2299
+  },
+  {
+    "type": "way",
+    "id": 374649724,
+    "center": {
+      "lat": -8.7063438,
+      "lon": 115.2198478
+    },
+    "nodes": [
+      3780438888,
+      3780438889,
+      3780438890,
+      3780438900,
+      3780438891,
+      3780438888
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "270",
+      "addr:postcode": "80223",
+      "addr:street": "Jalan Raya Sesetan",
+      "amenity": "clinic",
+      "building": "clinic",
+      "healthcare": "clinic",
+      "name": "Gedung WM Sesetan (Yayasan Kerti Praja)",
+      "website": "https://kertipraja.org/implementation-research/"
+    },
+    "lat": -8.7063438,
+    "lon": 115.2198478
+  },
+  {
+    "type": "way",
+    "id": 374695054,
+    "center": {
+      "lat": -8.6485454,
+      "lon": 115.2127124
+    },
+    "nodes": [
+      3780776967,
+      3780776968,
+      3780776969,
+      4453251011,
+      4453251010,
+      3780776970,
+      3780776971,
+      3780776972,
+      3780776973,
+      3780776974,
+      3780776975,
+      3780776976,
+      3780776977,
+      3780776978,
+      3780776979,
+      3780776983,
+      3780776982,
+      3780776984,
+      3780776980,
+      3780776981,
+      3780776967
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "133",
+      "addr:postcode": "80113",
+      "addr:street": "Jalan Kartini",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "name": "RSUD Wangaya",
+      "name:id": "Rumah Sakit Umum Daerah Wangaya",
+      "operator:type": "government",
+      "website": "https://rsudwangaya.denpasarkota.go.id/",
+      "wikidata": "Q87756644"
+    },
+    "lat": -8.6485454,
+    "lon": 115.2127124
+  },
+  {
+    "type": "way",
+    "id": 375347711,
+    "center": {
+      "lat": -8.6441211,
+      "lon": 115.2101032
+    },
+    "nodes": [
+      3787169894,
+      9504509759,
+      9504509760,
+      3787169895,
+      3787169968,
+      3787169967,
+      9504509746,
+      9504509750,
+      3787169896,
+      3787169901,
+      3832527560,
+      3832526541,
+      3832526543,
+      9504509761,
+      3787169906,
+      9504509762,
+      9320183229,
+      9504509765,
+      3787169897,
+      3787169902,
+      3832526542,
+      3787169898,
+      3787169899,
+      3787169905,
+      3787169894
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Umum Manuaba",
+      "name:en": "Manuaba General Hospital"
+    },
+    "lat": -8.6441211,
+    "lon": 115.2101032
+  },
+  {
+    "type": "way",
+    "id": 375768950,
+    "center": {
+      "lat": -8.6364658,
+      "lon": 115.2210356
+    },
+    "nodes": [
+      3791134002,
+      3791134003,
+      3791134004,
+      3791134005,
+      3791134002
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Gatot Subroto 2A",
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Nikki Diagnostic Centre",
+      "opening_hours": "24/7"
+    },
+    "lat": -8.6364658,
+    "lon": 115.2210356
+  },
+  {
+    "type": "way",
+    "id": 375768956,
+    "center": {
+      "lat": -8.6387778,
+      "lon": 115.2165806
+    },
+    "nodes": [
+      3791134043,
+      3791134044,
+      3791134045,
+      3791134046,
+      3791134043
+    ],
+    "tags": {
+      "addr:city": "Dauh Puri Kaja, Denpasar, Bali",
+      "addr:full": "Jalan Gatot Subroto VI/19, Denpasar, Bali",
+      "addr:housenumber": "VI/19",
+      "addr:postcode": "80113",
+      "addr:street": "Jalan Gatot Subroto",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "name": "Rumah Sakit Ibu dan Anak Puri Bunda Denpasar",
+      "name:en": "Puri Bunda Children & Maternal Hospital",
+      "operator:type": "private",
+      "phone": "+62 361 437999",
+      "website": "https://www.puribunda.com/",
+      "wheelchair": "yes",
+      "wikidata": "Q87873260"
+    },
+    "lat": -8.6387778,
+    "lon": 115.2165806
+  },
+  {
+    "type": "way",
+    "id": 376235890,
+    "center": {
+      "lat": -8.5236431,
+      "lon": 115.2563994
+    },
+    "nodes": [
+      3796796799,
+      9491687168,
+      3796796800,
+      9491687169,
+      3796796801,
+      9491687160,
+      3796796802,
+      3796796799
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Bumi Sehat Clinic"
+    },
+    "lat": -8.5236431,
+    "lon": 115.2563994
+  },
+  {
+    "type": "way",
+    "id": 379896070,
+    "center": {
+      "lat": -8.642499,
+      "lon": 115.2515839
+    },
+    "nodes": [
+      3832476611,
+      3832476612,
+      3832476613,
+      3832476614,
+      3832476615,
+      3832476616,
+      3832476617,
+      3832476618,
+      3832476621,
+      3832476622,
+      4427859322,
+      3832476619,
+      3832476620,
+      3832476611
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan WR Supratman",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "name": "Rumah Sakit Umum Dharma Yadnya",
+      "wikidata": "Q87759084"
+    },
+    "lat": -8.642499,
+    "lon": 115.2515839
+  },
+  {
+    "type": "way",
+    "id": 386745464,
+    "center": {
+      "lat": -8.7322544,
+      "lon": 115.1789977
+    },
+    "nodes": [
+      3900954594,
+      3900954592,
+      3900954591,
+      3900954588,
+      3900954587,
+      3900954582,
+      3900954581,
+      3900954580,
+      3900954583,
+      9470606573,
+      9470606574,
+      3900971036,
+      3900954589,
+      3900954593,
+      4169354588,
+      4169354589,
+      3900954594
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Graha Asih Hospital",
+      "operator": "PT Maha Karya Bali",
+      "operator:type": "private"
+    },
+    "lat": -8.7322544,
+    "lon": 115.1789977
+  },
+  {
+    "type": "way",
+    "id": 405961392,
+    "center": {
+      "lat": -8.6677248,
+      "lon": 115.1998495
+    },
+    "nodes": [
+      4080927355,
+      4080927356,
+      4080927357,
+      4080927358,
+      4080927359,
+      4080927360,
+      4080927361,
+      4080927362,
+      4080927355
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Gunung Rinjani",
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Puskesmas Pembantu Tegal Harum"
+    },
+    "lat": -8.6677248,
+    "lon": 115.1998495
+  },
+  {
+    "type": "way",
+    "id": 416084292,
+    "center": {
+      "lat": -8.7214972,
+      "lon": 115.1844294
+    },
+    "nodes": [
+      4169354421,
+      8647253740,
+      4169354422,
+      4169354423,
+      4169354424,
+      4169354425,
+      4169354427,
+      8647253739,
+      4169354426,
+      4169354484,
+      4169354421
+    ],
+    "tags": {
+      "addr:city": "Kuta",
+      "addr:housenumber": "100X",
+      "addr:postcode": "80362",
+      "addr:street": "Jalan Bypass Ngurah Rai",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Bali Medical Center (BIMC)",
+      "phone": "0361 761263",
+      "website": "https://www.bimcbali.com/",
+      "wikidata": "Q87765422"
+    },
+    "lat": -8.7214972,
+    "lon": 115.1844294
+  },
+  {
+    "type": "way",
+    "id": 416442945,
+    "center": {
+      "lat": -8.6796898,
+      "lon": 115.2148142
+    },
+    "nodes": [
+      4171856838,
+      4171856839,
+      4171856840,
+      4171856841,
+      4171856842,
+      4171856843,
+      4171856844,
+      4171856845,
+      4171856846,
+      4171856847,
+      4171856838
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "20",
+      "addr:postcode": "80223",
+      "addr:street": "Jalan Raya Sesetan",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Klinik Utama Quantum",
+      "opening_hours": "24/7"
+    },
+    "lat": -8.6796898,
+    "lon": 115.2148142
+  },
+  {
+    "type": "way",
+    "id": 419898147,
+    "center": {
+      "lat": -8.5658339,
+      "lon": 115.2965112
+    },
+    "nodes": [
+      4198894693,
+      4198894694,
+      4198894695,
+      4198894696,
+      4198894693
+    ],
+    "tags": {
+      "addr:city": "Blahbatuh",
+      "addr:housenumber": "46",
+      "addr:street": "Jalan Wisma Gajah Mada",
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "UPT Kesmas Blahbatuh"
+    },
+    "lat": -8.5658339,
+    "lon": 115.2965112
+  },
+  {
+    "type": "way",
+    "id": 419898191,
+    "center": {
+      "lat": -8.5549118,
+      "lon": 115.3027738
+    },
+    "nodes": [
+      4198894911,
+      4198894912,
+      4198894913,
+      4198894914,
+      4198894911
+    ],
+    "tags": {
+      "addr:city": "Blahbatuh",
+      "addr:housenumber": "117",
+      "addr:street": "Jalan Udayana",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Pratama Wahyu Medika"
+    },
+    "lat": -8.5549118,
+    "lon": 115.3027738
+  },
+  {
+    "type": "way",
+    "id": 424026230,
+    "center": {
+      "lat": -8.7679148,
+      "lon": 115.1777841
+    },
+    "nodes": [
+      4235123485,
+      4235123504,
+      4235123503,
+      4235123486,
+      4235123487,
+      4235123488,
+      4235123485
+    ],
+    "tags": {
+      "addr:city": "Jimbaran",
+      "addr:housenumber": "95XX",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Bypass Ngurah Rai",
+      "amenity": "clinic",
+      "healthcare": "clinic",
+      "landuse": "commercial",
+      "name": "JImbaran Medical Centre"
+    },
+    "lat": -8.7679148,
+    "lon": 115.1777841
+  },
+  {
+    "type": "way",
+    "id": 424223270,
+    "center": {
+      "lat": -8.6758101,
+      "lon": 115.1858366
+    },
+    "nodes": [
+      4236826586,
+      4236826590,
+      4236826591,
+      4236826587,
+      4236826588,
+      4236826592,
+      4236826593,
+      4236826589,
+      4236826586
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Teuku Umar Barat",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "RSIA Pucuk Permata Hati",
+      "wikidata": "Q87855383"
+    },
+    "lat": -8.6758101,
+    "lon": 115.1858366
+  },
+  {
+    "type": "way",
+    "id": 428482486,
+    "center": {
+      "lat": -8.6322123,
+      "lon": 115.2022831
+    },
+    "nodes": [
+      4275746564,
+      4275746565,
+      4275746566,
+      4275746567,
+      4275746568,
+      4275746569,
+      4275746570,
+      4275746571,
+      4275746564
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan H.O.S. Cokroaminoto",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Klinik Pembantu Ubung"
+    },
+    "lat": -8.6322123,
+    "lon": 115.2022831
+  },
+  {
+    "type": "way",
+    "id": 428721295,
+    "center": {
+      "lat": -8.663626,
+      "lon": 115.1991093
+    },
+    "nodes": [
+      4278133912,
+      4278133913,
+      4278133914,
+      4278133915,
+      4278133916,
+      4278133917,
+      4278133912
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "65",
+      "addr:postcode": "80112",
+      "addr:street": "Jalan Gunung Rinjani",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general",
+      "name": "Puskesmas I Denpasar Barat",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:type": "government",
+      "operator:wikidata": "Q12490745"
+    },
+    "lat": -8.663626,
+    "lon": 115.1991093
+  },
+  {
+    "type": "way",
+    "id": 431473695,
+    "center": {
+      "lat": -8.4388262,
+      "lon": 115.4801063
+    },
+    "nodes": [
+      4306771275,
+      4306771276,
+      4306771277,
+      4306771278,
+      4306771279,
+      4306771280,
+      4306771281,
+      4306771282,
+      4306771275
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "name": "Puskesmas Selat"
+    },
+    "lat": -8.4388262,
+    "lon": 115.4801063
+  },
+  {
+    "type": "way",
+    "id": 438388980,
+    "center": {
+      "lat": -8.4404958,
+      "lon": 115.5557923
+    },
+    "nodes": [
+      4361366753,
+      9496805087,
+      4361366754,
+      9496805078,
+      9496805096,
+      9496805097,
+      9496805095,
+      9496805094,
+      4361366755,
+      4361366756,
+      4361366757,
+      4361366753
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "emergency": "no",
+      "healthcare": "hospital",
+      "name": "Puskesmas Bebandem"
+    },
+    "lat": -8.4404958,
+    "lon": 115.5557923
+  },
+  {
+    "type": "way",
+    "id": 438389024,
+    "center": {
+      "lat": -8.4453931,
+      "lon": 115.5854864
+    },
+    "nodes": [
+      4361367745,
+      12818383365,
+      12818383366,
+      12818383371,
+      12818383370,
+      4361367746,
+      12849517529,
+      4361367747,
+      4361367748,
+      5319525520,
+      4361367749,
+      10088673317,
+      10088673318,
+      12818383383,
+      5319525909,
+      10088673319,
+      12818383380,
+      10088673320,
+      10088673321,
+      10088673322,
+      4361367750,
+      4361367751,
+      4361367745
+    ],
+    "tags": {
+      "addr:city": "Karangasem",
+      "addr:province": "Bali",
+      "addr:street": "Jalan Nenas - Bebandem",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "general",
+      "name": "Rumah Sakit BaliMéd Karangasem",
+      "operator": "BaliMéd",
+      "operator:type": "private",
+      "phone": "+62 363 4301618"
+    },
+    "lat": -8.4453931,
+    "lon": 115.5854864
+  },
+  {
+    "type": "way",
+    "id": 440000008,
+    "center": {
+      "lat": -8.4217804,
+      "lon": 115.6317322
+    },
+    "nodes": [
+      4377019733,
+      4377019734,
+      4377019735,
+      4377019736,
+      4377019733
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Puskesmas Pembantu Bukit"
+    },
+    "lat": -8.4217804,
+    "lon": 115.6317322
+  },
+  {
+    "type": "way",
+    "id": 440000026,
+    "center": {
+      "lat": -8.4420695,
+      "lon": 115.6250193
+    },
+    "nodes": [
+      4377019844,
+      4377019845,
+      4377019846,
+      4377019847,
+      4377019844
+    ],
+    "tags": {
+      "addr:city": "Tumbu",
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Puskesmas Pembantu Tumbu"
+    },
+    "lat": -8.4420695,
+    "lon": 115.6250193
+  },
+  {
+    "type": "way",
+    "id": 448761362,
+    "center": {
+      "lat": -8.651547,
+      "lon": 115.2037047
+    },
+    "nodes": [
+      4457428073,
+      4457428074,
+      4457428075,
+      4457428076,
+      4457428077,
+      4457428078,
+      4457428079,
+      4457428080,
+      4457428081,
+      4457428082,
+      4457428073
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "8 X",
+      "addr:postcode": "80111",
+      "addr:street": "JL. Gunung Agung, Gang II, Pemecutan Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali",
+      "amenity": "clinic",
+      "building": "clinic",
+      "healthcare:speciality": "general",
+      "name": "Puskesmas Denpasar Utara II"
+    },
+    "lat": -8.651547,
+    "lon": 115.2037047
+  },
+  {
+    "type": "way",
+    "id": 459988602,
+    "center": {
+      "lat": -8.605172,
+      "lon": 115.3132205
+    },
+    "nodes": [
+      4556853928,
+      8606272784,
+      8606251905,
+      8606251904,
+      4556853927,
+      8606251903,
+      8606251906,
+      8606251907,
+      8606251916,
+      4556853926,
+      4593501497,
+      4556853925,
+      8606251908,
+      8606251909,
+      8606251914,
+      8606251910,
+      8606251911,
+      8606251912,
+      8606251913,
+      8606251915,
+      4556853928
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Umum Kasih Ibu"
+    },
+    "lat": -8.605172,
+    "lon": 115.3132205
+  },
+  {
+    "type": "way",
+    "id": 492592669,
+    "center": {
+      "lat": -8.7908333,
+      "lon": 115.1768312
+    },
+    "nodes": [
+      4177972823,
+      4845847968,
+      4845847969,
+      4845847970,
+      4845847971,
+      4845847972,
+      4845847973,
+      4845847974,
+      4845847975,
+      4845847976,
+      3295819432,
+      3295819433,
+      3295819434,
+      4177972823
+    ],
+    "tags": {
+      "addr:city": "Jimbaran",
+      "addr:housenumber": "52",
+      "addr:street": "Jalan Kampus Unud",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "RSU Bali Jimbaran",
+      "phone": "+6281238977403",
+      "website": "https://rsbalijimbaran.com/",
+      "wheelchair": "yes"
+    },
+    "lat": -8.7908333,
+    "lon": 115.1768312
+  },
+  {
+    "type": "way",
+    "id": 497979354,
+    "center": {
+      "lat": -8.8028587,
+      "lon": 115.1593158
+    },
+    "nodes": [
+      4894727616,
+      4894727617,
+      4894727618,
+      4894727611,
+      4894727616
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Bidan Nengah Supriani"
+    },
+    "lat": -8.8028587,
+    "lon": 115.1593158
+  },
+  {
+    "type": "way",
+    "id": 498074247,
+    "center": {
+      "lat": -8.5370486,
+      "lon": 115.3215322
+    },
+    "nodes": [
+      4253761743,
+      4895544468,
+      4895544692,
+      9489240647,
+      9489240651,
+      9489240650,
+      9489240649,
+      9489240648,
+      4895544469,
+      9489240652,
+      9489240653,
+      4895544470,
+      4895544483,
+      4895544471,
+      4895544472,
+      4895544473,
+      4895544474,
+      4895544475,
+      4895544476,
+      4895544477,
+      4895544479,
+      4895544480,
+      4895544481,
+      9489240656,
+      9489240657,
+      4895544482,
+      4253761743
+    ],
+    "tags": {
+      "addr:city": "Gianyar",
+      "addr:housenumber": "2",
+      "addr:postcode": "80511",
+      "addr:street": "Jalan Ciung Wanara",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Umum Sanjiwani Gianyar",
+      "phone": "0361-943020"
+    },
+    "lat": -8.5370486,
+    "lon": 115.3215322
+  },
+  {
+    "type": "way",
+    "id": 498075795,
+    "center": {
+      "lat": -8.3815877,
+      "lon": 115.195721
+    },
+    "nodes": [
+      4895559071,
+      4895559072,
+      4895559073,
+      4895559074,
+      4895559071
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "RSU Semara Ratih"
+    },
+    "lat": -8.3815877,
+    "lon": 115.195721
+  },
+  {
+    "type": "way",
+    "id": 503000976,
+    "center": {
+      "lat": -8.5040431,
+      "lon": 115.5805929
+    },
+    "nodes": [
+      4933566543,
+      4933566544,
+      4933566545,
+      4933566546,
+      4933566543
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Puskesmas Pembantu Bugbug"
+    },
+    "lat": -8.5040431,
+    "lon": 115.5805929
+  },
+  {
+    "type": "way",
+    "id": 503233825,
+    "center": {
+      "lat": -8.4955288,
+      "lon": 115.5163706
+    },
+    "nodes": [
+      4935787030,
+      4935787031,
+      4935787032,
+      4935787033,
+      4935787030
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Klinik Penta Medica"
+    },
+    "lat": -8.4955288,
+    "lon": 115.5163706
+  },
+  {
+    "type": "way",
+    "id": 503890332,
+    "center": {
+      "lat": -8.507368,
+      "lon": 115.5033543
+    },
+    "nodes": [
+      4941359814,
+      4941359815,
+      9497626539,
+      9497626540,
+      9497626541,
+      9497626542,
+      4941359816,
+      4941359817,
+      4941359814
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Puskesmas Manggis 2"
+    },
+    "lat": -8.507368,
+    "lon": 115.5033543
+  },
+  {
+    "type": "way",
+    "id": 520765278,
+    "center": {
+      "lat": -8.7225011,
+      "lon": 115.1778161
+    },
+    "nodes": [
+      4407736630,
+      5075091366,
+      5075091367,
+      5075091368,
+      5075091369,
+      5075091370,
+      5075091371,
+      5075091372,
+      5075091373,
+      4407736630
+    ],
+    "tags": {
+      "addr:city": "Kuta",
+      "addr:housenumber": "117",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Raya Kuta",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Puskesmas Kuta I",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:type": "government",
+      "operator:wikidata": "Q12490745"
+    },
+    "lat": -8.7225011,
+    "lon": 115.1778161
+  },
+  {
+    "type": "way",
+    "id": 520799041,
+    "center": {
+      "lat": -8.7244425,
+      "lon": 115.1775926
+    },
+    "nodes": [
+      4149560589,
+      5075380579,
+      5075380580,
+      5075380581,
+      5075380582,
+      5075380583,
+      4149560589
+    ],
+    "tags": {
+      "addr:housenumber": "No 3",
+      "addr:street": "Jalan Kalianget",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Bali Medika Clinic",
+      "opening_hours": "Mo-Fr 16:00-20:00; Sa 09:00-12:00",
+      "phone": "+623613700393",
+      "website": "https://balimedikainfo.wordpress.com/"
+    },
+    "lat": -8.7244425,
+    "lon": 115.1775926
+  },
+  {
+    "type": "way",
+    "id": 523522496,
+    "center": {
+      "lat": -8.6369778,
+      "lon": 115.1841465
+    },
+    "nodes": [
+      5096598805,
+      5096598804,
+      5096598803,
+      5103307800,
+      5103307802,
+      5103307801,
+      5096598802,
+      5096598805
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Klinik Pratama Inap Bina Usada"
+    },
+    "lat": -8.6369778,
+    "lon": 115.1841465
+  },
+  {
+    "type": "way",
+    "id": 526711860,
+    "center": {
+      "lat": -8.2734939,
+      "lon": 115.5887895
+    },
+    "nodes": [
+      5121506167,
+      5121506170,
+      5121506171,
+      5539123211,
+      5121506172,
+      5121506169,
+      5121506168,
+      5121506167
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Praktik Dokter Jam Buka"
+    },
+    "lat": -8.2734939,
+    "lon": 115.5887895
+  },
+  {
+    "type": "way",
+    "id": 530145176,
+    "center": {
+      "lat": -8.4326658,
+      "lon": 115.5360706
+    },
+    "nodes": [
+      5148756460,
+      5148756459,
+      5148756458,
+      5148756457,
+      5148756460
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "name": "Polindes Desa Jungutan"
+    },
+    "lat": -8.4326658,
+    "lon": 115.5360706
+  },
+  {
+    "type": "way",
+    "id": 538902797,
+    "center": {
+      "lat": -8.1873877,
+      "lon": 114.9303912
+    },
+    "nodes": [
+      5215513365,
+      5215513362,
+      5215513363,
+      5215513364,
+      5215513365
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Puskesmas Pembantu"
+    },
+    "lat": -8.1873877,
+    "lon": 114.9303912
+  },
+  {
+    "type": "way",
+    "id": 541208050,
+    "center": {
+      "lat": -8.221191,
+      "lon": 115.274506
+    },
+    "nodes": [
+      5233874463,
+      5233874462,
+      5233874461,
+      5233874460,
+      5233874463
+    ],
+    "tags": {
+      "addr:city": "Kintamani, Bali",
+      "addr:street": "Jalan Raya Pelaga",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "healthcare:speciality": "general",
+      "name": "Pusksesmas Kintamani I",
+      "phone": "(0366) 51040"
+    },
+    "lat": -8.221191,
+    "lon": 115.274506
+  },
+  {
+    "type": "way",
+    "id": 542358895,
+    "center": {
+      "lat": -8.678339,
+      "lon": 115.4472334
+    },
+    "nodes": [
+      5243676565,
+      5243676564,
+      5243676563,
+      5243676562,
+      5243676565
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Puskesmas Nusa Penida II Lembongan"
+    },
+    "lat": -8.678339,
+    "lon": 115.4472334
+  },
+  {
+    "type": "way",
+    "id": 550164555,
+    "center": {
+      "lat": -8.5406115,
+      "lon": 115.3346661
+    },
+    "nodes": [
+      10613578290,
+      5313972911,
+      7312484888,
+      7312484889,
+      5313972910,
+      5313972913,
+      5313972912,
+      10613578291,
+      10613578288,
+      10613578289,
+      10613578290
+    ],
+    "tags": {
+      "addr:city": "Bali",
+      "addr:full": "Jalan Astina Timur No. 8A, Samplangan, Kecamatan Gianyar, Kabupaten Gianyar, Bali 80512",
+      "amenity": "hospital",
+      "building": "hospital",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Umum Family Husada",
+      "operator:type": "private",
+      "website": "https://www.rsufamilyhusada.com/"
+    },
+    "lat": -8.5406115,
+    "lon": 115.3346661
+  },
+  {
+    "type": "way",
+    "id": 559671789,
+    "center": {
+      "lat": -8.1898878,
+      "lon": 114.9659309
+    },
+    "nodes": [
+      5397805702,
+      5397805701,
+      5397805703,
+      5397805708,
+      5397805702
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "name": "Puskesmas"
+    },
+    "lat": -8.1898878,
+    "lon": 114.9659309
+  },
+  {
+    "type": "way",
+    "id": 560876120,
+    "center": {
+      "lat": -8.6753315,
+      "lon": 115.2591831
+    },
+    "nodes": [
+      5408948706,
+      5408948704,
+      5408948701,
+      5408948703,
+      5408948702,
+      5408948705,
+      5408948706
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Sos Medika"
+    },
+    "lat": -8.6753315,
+    "lon": 115.2591831
+  },
+  {
+    "type": "way",
+    "id": 560893600,
+    "center": {
+      "lat": -8.1931588,
+      "lon": 114.9243587
+    },
+    "nodes": [
+      5409058116,
+      5409058113,
+      5409058114,
+      5409058115,
+      5409058116
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Klinik"
+    },
+    "lat": -8.1931588,
+    "lon": 114.9243587
+  },
+  {
+    "type": "way",
+    "id": 561135006,
+    "center": {
+      "lat": -8.7899647,
+      "lon": 115.2109445
+    },
+    "nodes": [
+      5411356480,
+      5411356479,
+      5411356478,
+      5411356477,
+      5411356480
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Prima Medika Medical Service"
+    },
+    "lat": -8.7899647,
+    "lon": 115.2109445
+  },
+  {
+    "type": "way",
+    "id": 561395574,
+    "center": {
+      "lat": -8.7992953,
+      "lon": 115.2219552
+    },
+    "nodes": [
+      5413436482,
+      5413436479,
+      5413436480,
+      5413436481,
+      5413436482
+    ],
+    "tags": {
+      "amenity": "doctors",
+      "building": "yes",
+      "healthcare": "doctor",
+      "name": "Praktik Umum Dr. Ni Made Ayu Darma"
+    },
+    "lat": -8.7992953,
+    "lon": 115.2219552
+  },
+  {
+    "type": "way",
+    "id": 562639040,
+    "center": {
+      "lat": -8.7993814,
+      "lon": 115.2187758
+    },
+    "nodes": [
+      5012480042,
+      5423849462,
+      5423849463,
+      5012480041,
+      5012480042
+    ],
+    "tags": {
+      "amenity": "doctors",
+      "building": "yes",
+      "healthcare": "doctor",
+      "name": "Praktik Dr. Ni Wayan Wildayanti"
+    },
+    "lat": -8.7993814,
+    "lon": 115.2187758
+  },
+  {
+    "type": "way",
+    "id": 564619119,
+    "center": {
+      "lat": -8.687326,
+      "lon": 115.1879395
+    },
+    "nodes": [
+      5439509061,
+      5439509060,
+      5439509059,
+      5439509058,
+      5439509061
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "3",
+      "addr:postcode": "80119",
+      "addr:street": "Jl. Gn. Soputan, Gg. Puskesmas, Pemecutan Klod, Kec. Denpasar Bar., Kota Denpasar, Bali",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general",
+      "name": "Puskesmas II Denpasar Barat",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:type": "government",
+      "operator:wikidata": "Q12490745"
+    },
+    "lat": -8.687326,
+    "lon": 115.1879395
+  },
+  {
+    "type": "way",
+    "id": 592784812,
+    "center": {
+      "lat": -8.6342993,
+      "lon": 115.2105652
+    },
+    "nodes": [
+      5656676188,
+      5656676187,
+      5656676186,
+      5656676185,
+      5656676188
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "110",
+      "addr:postcode": "80233",
+      "addr:street": "Jl. Ahmad Yani Utara, Dauh Puri Kaja, Kec. Denpasar Utara, Kota Denpasar, Bali",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general",
+      "name": "Puskesmas III Denpasar Utara",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:type": "government",
+      "operator:wikidata": "Q12490745"
+    },
+    "lat": -8.6342993,
+    "lon": 115.2105652
+  },
+  {
+    "type": "way",
+    "id": 594316549,
+    "center": {
+      "lat": -8.6492418,
+      "lon": 115.2181432
+    },
+    "nodes": [
+      5667468599,
+      5667468596,
+      5667468597,
+      5667468598,
+      5667468599
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Bali 911 Dental clinic"
+    },
+    "lat": -8.6492418,
+    "lon": 115.2181432
+  },
+  {
+    "type": "way",
+    "id": 595261728,
+    "center": {
+      "lat": -8.6793085,
+      "lon": 115.1790274
+    },
+    "nodes": [
+      5673898503,
+      5673898502,
+      5673898501,
+      5673898500,
+      5673898503
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "Puskesmas Pembantu Padangsembian Kelod"
+    },
+    "lat": -8.6793085,
+    "lon": 115.1790274
+  },
+  {
+    "type": "way",
+    "id": 595410481,
+    "center": {
+      "lat": -8.5176878,
+      "lon": 115.1545364
+    },
+    "nodes": [
+      9565670723,
+      5674745847,
+      5674745848,
+      5674745849,
+      9565670736,
+      5674745846,
+      9565670724,
+      5674745844,
+      5674745843,
+      9565670723
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "name": "PUSKESMAS MARGA 2"
+    },
+    "lat": -8.5176878,
+    "lon": 115.1545364
+  },
+  {
+    "type": "way",
+    "id": 595835427,
+    "center": {
+      "lat": -8.5395332,
+      "lon": 115.119084
+    },
+    "nodes": [
+      5677804759,
+      5677804758,
+      5677804757,
+      5677804756,
+      5677804759
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "building": "hospital",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Dharma Kerti"
+    },
+    "lat": -8.5395332,
+    "lon": 115.119084
+  },
+  {
+    "type": "way",
+    "id": 596672011,
+    "center": {
+      "lat": -8.6143856,
+      "lon": 115.2445814
+    },
+    "nodes": [
+      5683419533,
+      5683419534,
+      5683419531,
+      5683419535,
+      5683419536,
+      5683418768,
+      5683419532,
+      5683419530,
+      5683418765,
+      5683419528,
+      5683419529,
+      5683418764,
+      5683419533
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "25A",
+      "addr:postcode": "80237",
+      "addr:street": "Jl. Nagasari",
+      "amenity": "clinic",
+      "building": "clinic",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general",
+      "name": "Puskesmas II Denpasar Timur",
+      "not:operator:wikidata": "Q12490745",
+      "operator": "Ministry of Health (Indonesia)",
+      "operator:type": "government"
+    },
+    "lat": -8.6143856,
+    "lon": 115.2445814
+  },
+  {
+    "type": "way",
+    "id": 597029838,
+    "center": {
+      "lat": -8.6455069,
+      "lon": 115.127094
+    },
+    "nodes": [
+      5685722332,
+      5685722329,
+      5685722330,
+      5685722331,
+      5685722332
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Canggu Medical Pererenan"
+    },
+    "lat": -8.6455069,
+    "lon": 115.127094
+  },
+  {
+    "type": "way",
+    "id": 597038752,
+    "center": {
+      "lat": -8.6318625,
+      "lon": 115.1348486
+    },
+    "nodes": [
+      5685782026,
+      5685781447,
+      5685782030,
+      5685782027,
+      5685782028,
+      5685782029,
+      5685781446,
+      5685782025,
+      5685782026
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Puskesmas Pembantu Pererenan",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:wikidata": "Q12490745"
+    },
+    "lat": -8.6318625,
+    "lon": 115.1348486
+  },
+  {
+    "type": "way",
+    "id": 602497046,
+    "center": {
+      "lat": -8.0817884,
+      "lon": 115.1439477
+    },
+    "nodes": [
+      5722576251,
+      5722576250,
+      5722576249,
+      5722576248,
+      5722576251
+    ],
+    "tags": {
+      "addr:place": "Giri Emas Pratama Hospital",
+      "amenity": "hospital",
+      "building": "yes",
+      "name": "Giri Emas Pratama Hospital"
+    },
+    "lat": -8.0817884,
+    "lon": 115.1439477
+  },
+  {
+    "type": "way",
+    "id": 602497062,
+    "center": {
+      "lat": -8.0827121,
+      "lon": 115.1445102
+    },
+    "nodes": [
+      5722576299,
+      5722576298,
+      5722576297,
+      5722576296,
+      5722576299
+    ],
+    "tags": {
+      "addr:place": "Giri Emas Pratama Hospital",
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Giri Emas Pratama Hospital"
+    },
+    "lat": -8.0827121,
+    "lon": 115.1445102
+  },
+  {
+    "type": "way",
+    "id": 602497063,
+    "center": {
+      "lat": -8.0825525,
+      "lon": 115.1446739
+    },
+    "nodes": [
+      5722576303,
+      5722576302,
+      5722576301,
+      5722576300,
+      5722576303
+    ],
+    "tags": {
+      "addr:place": "Giri Emas Pratama Hospital",
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Giri Emas Pratama Hospital"
+    },
+    "lat": -8.0825525,
+    "lon": 115.1446739
+  },
+  {
+    "type": "way",
+    "id": 602497064,
+    "center": {
+      "lat": -8.0824844,
+      "lon": 115.1446078
+    },
+    "nodes": [
+      5722576307,
+      5722576306,
+      5722576305,
+      5722576304,
+      5722576307
+    ],
+    "tags": {
+      "addr:place": "Giri Emas Pratama Hospital",
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Giri Emas Pratama Hospital"
+    },
+    "lat": -8.0824844,
+    "lon": 115.1446078
+  },
+  {
+    "type": "way",
+    "id": 602497065,
+    "center": {
+      "lat": -8.0823511,
+      "lon": 115.1444941
+    },
+    "nodes": [
+      5722576311,
+      5722576308,
+      5722576309,
+      5722576310,
+      5722576311
+    ],
+    "tags": {
+      "addr:place": "Giri Emas Pratama Hospital",
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Giri Emas Pratama Hospital"
+    },
+    "lat": -8.0823511,
+    "lon": 115.1444941
+  },
+  {
+    "type": "way",
+    "id": 609047481,
+    "center": {
+      "lat": -8.1910684,
+      "lon": 114.9511569
+    },
+    "nodes": [
+      5769191729,
+      5769191726,
+      5769191727,
+      5769191728,
+      5769191729
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "building": "yes",
+      "name": "RUMAH SAKIT UMUM DAERAH TANGGUWISIA"
+    },
+    "lat": -8.1910684,
+    "lon": 114.9511569
+  },
+  {
+    "type": "way",
+    "id": 722943088,
+    "center": {
+      "lat": -8.7034946,
+      "lon": 115.2488333
+    },
+    "nodes": [
+      6781038817,
+      6781038818,
+      6781038819,
+      6781038820,
+      6781038821,
+      6781038822,
+      6781038823,
+      6781038824,
+      6781038825,
+      9494713330,
+      6781038826,
+      9209862504,
+      6781038817
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "548",
+      "addr:street": "Jalan By Pass Ngurah Rai No.548, Sanur Kauh, Kec. Denpasar Selatan, Kota Denpasar, Bali",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "healthcare:speciality": "general",
+      "name": "Rumah Sakit Umum Daerah Bali Mandara",
+      "operator": "Dinas Kesehatan Provinsi Bali",
+      "operator:type": "government",
+      "website": "https://rsbm.baliprov.go.id/",
+      "wikidata": "Q87851360"
+    },
+    "lat": -8.7034946,
+    "lon": 115.2488333
+  },
+  {
+    "type": "way",
+    "id": 747479717,
+    "center": {
+      "lat": -8.6953236,
+      "lon": 115.2099625
+    },
+    "nodes": [
+      6994211072,
+      6994211071,
+      6994211070,
+      6994211069,
+      6994211072
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "63 A",
+      "addr:postcode": "80222",
+      "addr:street": "Jl. Pulau Moyo, Pedungan, Denpasar Selatan, Kota Denpasar, Bali",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general",
+      "name": "Puskesmas IV Denpasar Selatan",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:type": "government",
+      "operator:wikidata": "Q12490745"
+    },
+    "lat": -8.6953236,
+    "lon": 115.2099625
+  },
+  {
+    "type": "way",
+    "id": 782943205,
+    "center": {
+      "lat": -8.5788126,
+      "lon": 115.1827394
+    },
+    "nodes": [
+      7311521387,
+      7311521386,
+      7311521385,
+      7311517384,
+      7311517383,
+      9498388357,
+      7311517382,
+      9498388356,
+      7311517381,
+      7311517380,
+      9498388355,
+      7311517379,
+      7311517378,
+      7311517377,
+      9498388358,
+      9498388360,
+      9498388359,
+      9498388361,
+      7311517376,
+      7311521387
+    ],
+    "tags": {
+      "addr:city": "Badung",
+      "addr:full": "Jalan Raya Kapal, Mangupura, Mengwi, Badung",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "RSUD Mangusada Badung",
+      "operator:type": "government",
+      "website": "rsudmangusada.badungkab.go.id",
+      "wikidata": "Q87755932"
+    },
+    "lat": -8.5788126,
+    "lon": 115.1827394
+  },
+  {
+    "type": "way",
+    "id": 783773571,
+    "center": {
+      "lat": -8.656918,
+      "lon": 115.1908712
+    },
+    "nodes": [
+      3835062003,
+      7333704034,
+      9216077617,
+      7333704033,
+      7333704032,
+      9216077623,
+      7333704031,
+      3835062004,
+      3835062005,
+      3835062006,
+      3835062007,
+      3835062008,
+      3835062009,
+      3835062010,
+      3835062011,
+      3835062002,
+      3835062013,
+      3835062012,
+      3835062003
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:full": "Jalan Mahendradatta No.57 X, Padangsambian, Bali",
+      "addr:street": "Jalan Mahendradatta",
+      "amenity": "hospital",
+      "building": "hospital",
+      "emergency": "yes",
+      "name": "Rumah Sakit Balimed",
+      "operator:type": "private",
+      "wikidata": "Q87814261"
+    },
+    "lat": -8.656918,
+    "lon": 115.1908712
+  },
+  {
+    "type": "way",
+    "id": 783793571,
+    "center": {
+      "lat": -8.5388084,
+      "lon": 115.1320963
+    },
+    "nodes": [
+      7320978526,
+      7320978525,
+      7320978524,
+      7320978523,
+      7320978522,
+      7320978521,
+      7320978520,
+      7330990298,
+      7320978518,
+      7320978519,
+      7320978526
+    ],
+    "tags": {
+      "addr:city": "Kabupaten Tabanan",
+      "addr:full": "Jalan Pahlawan No.14, Delod Peken, Kecamatan Tabanan, Kabupaten Tabanan, Bali 82121",
+      "addr:housenumber": "14",
+      "addr:postcode": "82121",
+      "addr:street": "Jalan Pahlawan, Delod Peken.",
+      "amenity": "hospital",
+      "emergency": "yes",
+      "healthcare": "hospital",
+      "healthcare:speciality": "general",
+      "name": "Rumah Sakit Umum Daerah Tabanan",
+      "operator:type": "government",
+      "website": "https://rsud.tabanankab.go.id/",
+      "wikidata": "Q87755935"
+    },
+    "lat": -8.5388084,
+    "lon": 115.1320963
+  },
+  {
+    "type": "way",
+    "id": 784433513,
+    "center": {
+      "lat": -8.6776499,
+      "lon": 115.2052468
+    },
+    "nodes": [
+      7328231267,
+      7328231266,
+      7328231254,
+      8313899550,
+      7328231253,
+      7328231252,
+      8313899552,
+      10613534246,
+      10613534247,
+      7328231251,
+      7328231259,
+      7328231258,
+      7328231267
+    ],
+    "tags": {
+      "addr:city": "West Denpasar",
+      "addr:housenumber": "120",
+      "addr:postcode": "80114",
+      "addr:street": "Jalan Teuku Umar",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Umum Kasih Ibu",
+      "name:en": "Kasih Ibu General Hospital",
+      "operator:type": "private",
+      "phone": "+62 361 3003030",
+      "source": "Survey",
+      "website": "http://kasihibuhospital.com/"
+    },
+    "lat": -8.6776499,
+    "lon": 115.2052468
+  },
+  {
+    "type": "way",
+    "id": 784433519,
+    "center": {
+      "lat": -8.6776712,
+      "lon": 115.20528
+    },
+    "nodes": [
+      7328231278,
+      7328231286,
+      7328231287,
+      7328231285,
+      10613534276,
+      10613534277,
+      7328231278
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "building": "hospital",
+      "building:levels": "4",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Umum Kasih Ibu",
+      "name:en": "Kasih Ibu General Hospital"
+    },
+    "lat": -8.6776712,
+    "lon": 115.20528
+  },
+  {
+    "type": "way",
+    "id": 912671375,
+    "center": {
+      "lat": -8.6706356,
+      "lon": 115.2137865
+    },
+    "nodes": [
+      8478241099,
+      8478241098,
+      8478241097,
+      8478241096,
+      4080821260,
+      4080821259,
+      3170034747,
+      8478241099
+    ],
+    "tags": {
+      "alt_name": "RSU Sari Darma",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Klinik Utama Rawat Inap Sari Dharma"
+    },
+    "lat": -8.6706356,
+    "lon": 115.2137865
+  },
+  {
+    "type": "way",
+    "id": 967291287,
+    "center": {
+      "lat": -8.5529484,
+      "lon": 115.137887
+    },
+    "nodes": [
+      8948952888,
+      8948952889,
+      8948952890,
+      8948952891,
+      8948952888
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit Kasih Ibu"
+    },
+    "lat": -8.5529484,
+    "lon": 115.137887
+  },
+  {
+    "type": "way",
+    "id": 968956600,
+    "center": {
+      "lat": -8.5006534,
+      "lon": 115.3496492
+    },
+    "nodes": [
+      8964638871,
+      8964638872,
+      8964638873,
+      8964638874,
+      8964638875,
+      8964638876,
+      8964638871
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Puskesmas Bangli",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:wikidata": "Q12490745",
+      "operator:wikipedia": "id:Kementerian Kesehatan Republik Indonesia"
+    },
+    "lat": -8.5006534,
+    "lon": 115.3496492
+  },
+  {
+    "type": "way",
+    "id": 1021730893,
+    "center": {
+      "lat": -8.6839289,
+      "lon": 115.15806
+    },
+    "nodes": [
+      9423387226,
+      12620538384,
+      12620538385,
+      12620538386,
+      12620538387,
+      9423387226
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "email": "baliclinic@baliclinic.net",
+      "name": "Bali Clinic",
+      "opening_hours": "24/7",
+      "phone": "+62361733301",
+      "website": "http://www.bali-clinic.com"
+    },
+    "lat": -8.6839289,
+    "lon": 115.15806
+  },
+  {
+    "type": "way",
+    "id": 1027411862,
+    "center": {
+      "lat": -8.804274,
+      "lon": 115.21741
+    },
+    "nodes": [
+      9471840363,
+      9471840364,
+      9471840365,
+      9471840366,
+      9471840367,
+      9471840368,
+      9471840369,
+      9471840370,
+      9471840371,
+      9471840363
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "RSU Surya Husadha"
+    },
+    "lat": -8.804274,
+    "lon": 115.21741
+  },
+  {
+    "type": "way",
+    "id": 1029175777,
+    "center": {
+      "lat": -8.7990325,
+      "lon": 115.2283946
+    },
+    "nodes": [
+      9488468613,
+      9488468614,
+      9488468615,
+      9488468616,
+      9488474717,
+      9488474718,
+      9488474719,
+      9488474720,
+      9488474721,
+      9488468613
+    ],
+    "tags": {
+      "addr:city": "Nusa Dua",
+      "addr:postcode": "80363",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Rumah Sakit BIMC Siloam",
+      "name:en": "BIMC Siloam Hospital",
+      "website": "https://bimcbali.com/bimc-siloam-nusa-dua"
+    },
+    "lat": -8.7990325,
+    "lon": 115.2283946
+  },
+  {
+    "type": "way",
+    "id": 1029920304,
+    "center": {
+      "lat": -8.7151623,
+      "lon": 115.1851659
+    },
+    "nodes": [
+      9494280050,
+      9494280051,
+      9494280052,
+      9494280053,
+      9494280054,
+      9494280055,
+      9494280056,
+      9494280057,
+      9494280058,
+      9494280059,
+      9494280050
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Siloam Hospital"
+    },
+    "lat": -8.7151623,
+    "lon": 115.1851659
+  },
+  {
+    "type": "way",
+    "id": 1029989205,
+    "center": {
+      "lat": -8.5466021,
+      "lon": 115.1198206
+    },
+    "nodes": [
+      9494826369,
+      9494826370,
+      9494826371,
+      9494826372,
+      9494826369
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Kasih Ibu Hospital Tabanan"
+    },
+    "lat": -8.5466021,
+    "lon": 115.1198206
+  },
+  {
+    "type": "way",
+    "id": 1030256661,
+    "center": {
+      "lat": -8.6372022,
+      "lon": 115.2210343
+    },
+    "nodes": [
+      9497052839,
+      9497052840,
+      9497052841,
+      9497052842,
+      9497052843,
+      9497052844,
+      9497052845,
+      9497052846,
+      9497052847,
+      9497052839
+    ],
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "RSU Bhakti Rahayu"
+    },
+    "lat": -8.6372022,
+    "lon": 115.2210343
+  },
+  {
+    "type": "way",
+    "id": 1053543757,
+    "center": {
+      "lat": -8.0822263,
+      "lon": 115.144194
+    },
+    "nodes": [
+      9681965527,
+      9681965526,
+      9681965517,
+      9681965518,
+      9681965519,
+      9681965525,
+      9681965523,
+      9681965522,
+      9681965521,
+      9681965520,
+      9681965524,
+      9681965527
+    ],
+    "tags": {
+      "addr:place": "Giri Emas Pratama Hospital",
+      "amenity": "hospital",
+      "building": "yes",
+      "healthcare": "hospital",
+      "name": "Giri Emas Pratama Hospital"
+    },
+    "lat": -8.0822263,
+    "lon": 115.144194
+  },
+  {
+    "type": "way",
+    "id": 1069198625,
+    "center": {
+      "lat": -8.6527535,
+      "lon": 115.1309161
+    },
+    "nodes": [
+      9814213836,
+      9814213835,
+      9814213834,
+      9814213833,
+      9814213836
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "SOS Medical Emergency Room"
+    },
+    "lat": -8.6527535,
+    "lon": 115.1309161
+  },
+  {
+    "type": "way",
+    "id": 1069536596,
+    "center": {
+      "lat": -8.6507447,
+      "lon": 115.1359282
+    },
+    "nodes": [
+      9816774610,
+      9816774607,
+      9816774608,
+      9816774609,
+      9816774610
+    ],
+    "tags": {
+      "amenity": "doctors",
+      "building": "yes",
+      "healthcare": "doctor",
+      "name": "Praktek Umum Dr A A Ayu Widiastari ,Mm"
+    },
+    "lat": -8.6507447,
+    "lon": 115.1359282
+  },
+  {
+    "type": "way",
+    "id": 1069818057,
+    "center": {
+      "lat": -8.6571695,
+      "lon": 115.131005
+    },
+    "nodes": [
+      9818958375,
+      9818958372,
+      9818958373,
+      9818958374,
+      9818958375
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "Bali Healing Natural Healtcare Center Canggu"
+    },
+    "lat": -8.6571695,
+    "lon": 115.131005
+  },
+  {
+    "type": "way",
+    "id": 1110579562,
+    "center": {
+      "lat": -8.5676315,
+      "lon": 115.376664
+    },
+    "nodes": [
+      10159852890,
+      10159852891,
+      10159852892,
+      10159852893,
+      10159852894,
+      10159852895,
+      10159852890
+    ],
+    "tags": {
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "name": "RSU GBM"
+    },
+    "lat": -8.5676315,
+    "lon": 115.376664
+  },
+  {
+    "type": "way",
+    "id": 1236050069,
+    "center": {
+      "lat": -8.6830244,
+      "lon": 115.2571846
+    },
+    "nodes": [
+      11476181511,
+      11476181512,
+      11476181513,
+      11476181514,
+      11476181515,
+      11476181516,
+      11476181517,
+      11476181518,
+      11476181511
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:postcode": "80227",
+      "addr:street": "Jl. Danau Buyan III, Sanur, Denpasar Selatan, Kota Denpasar, Bali",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general",
+      "name": "Puskesmas II Denpasar Selatan",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:type": "government",
+      "operator:wikidata": "Q12490745"
+    },
+    "lat": -8.6830244,
+    "lon": 115.2571846
+  },
+  {
+    "type": "way",
+    "id": 1236050070,
+    "center": {
+      "lat": -8.6970012,
+      "lon": 115.1921454
+    },
+    "nodes": [
+      11476181519,
+      11476181520,
+      11476181521,
+      11476181522,
+      11476181519
+    ],
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "17",
+      "addr:postcode": "80221",
+      "addr:street": "Jl. Glogor Carik, Pemogan, Denpasar Selatan, Kota Denpasar, Bali",
+      "amenity": "clinic",
+      "building": "yes",
+      "healthcare": "clinic",
+      "healthcare:speciality": "general",
+      "name": "Puskesmas III Denpasar Selatan",
+      "operator": "Ministry of Health",
+      "operator:en": "Ministry of Health",
+      "operator:id": "Kementerian Kesehatan",
+      "operator:type": "government",
+      "operator:wikidata": "Q12490745"
+    },
+    "lat": -8.6970012,
+    "lon": 115.1921454
+  }
+]

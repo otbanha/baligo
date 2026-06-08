@@ -1,0 +1,328 @@
+---
+title: 峇里島住宿推薦：坎古 Top 17 你唔可以錯過嘅住宿推薦
+slug: canggu-top-hotels-guide
+description: >-
+  峇里島住宿推薦：坎古度過一段寫意嘅假期時，選擇一間令人驚艷嘅住宿係確保你旅程愉快嘅關鍵之一。坎古以其獨特嘅波希米亞氛圍同蓬勃發展嘅咖啡文化而聞名。無論你係想喺沙灘上享受陽光，定係喺充滿異國風情嘅小巷間漫遊，坎古都擁有吸引人嘅魅力。
+pubDate: 2025-06-02T00:00:00.000Z
+pubHour: null
+category:
+  - 住宿推薦
+tags:
+  - '#canggu住宿'
+  - '#住宿推薦'
+  - '#峇里島'
+  - '#canggu'
+  - '#長谷住宿'
+  - '#倉古住宿'
+  - '#長谷住宿推薦'
+  - '#canggu住宿推薦'
+  - '#cangguvilla'
+  - '#cangguvilla推薦'
+update: 2026/05/24
+heroImage: 'https://images.gobaligo.id/images/2026-05/1777896573960-canggu_stay.png'
+originalUrl: 'https://vocus.cc/article/651b8da8fd89780001974847'
+lang: zh-hk
+_srcHash: 584b9baefb6de47f3b6815d01fbb9e20
+---
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_70db4d4278079bda9256ae9b7375328c.jpg)
+
+當你計劃前往印尼峇里島嘅坎古度過一段寫意嘅假期時，選擇一間令人驚艷嘅住宿係確保你旅程愉快嘅關鍵之一。坎古位於峇里島嘅西南部，以其壯觀嘅海濱美景、獨特嘅波希米亞氛圍同蓬勃發展嘅咖啡文化而聞名。無論你係想喺沙灘上享受陽光，定係喺充滿異國風情嘅小巷間漫遊，坎古都擁有吸引人嘅魅力。為咗幫你輕鬆選擇理想嘅住宿，我哋特別整理咗坎古嘅前16間住宿推薦，讓你喺呢個迷人嘅度假勝地中度過難忘嘅時光。無論你係一位崇尚奢華嘅旅行者，定係追求舒適同放鬆嘅度假者，呢份推薦清單都將幫你搵到最適合嘅住宿選擇。
+
+### 你一定都想睇：
+
+> ▶[坎古攻略上集](/blog/canggu-surf-food-guide/)
+> >
+> ▶[坎古攻略下集](/blog/canggu-bali-travel-guide/)
+
+### 【唔好錯過呢啲坎古購票優惠】
+
+* Atlas Beach Fest 全亞洲最大嘅海灘俱樂部[優惠入場券](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80472-atlas-beach-club-admission-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad7b2e5830)
+* Finns Beach Club海灘俱樂部[暢玩通票](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14201-finns-beach-club-pass-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92e834a4de)
+* Cafe del Mar海灘俱樂部[一日通行證](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F85626-cafe-del-mar-beach-club-day-pass-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D07c5d6c77c)
+* Old Man沙灘[兩小時衝浪教學](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32669-surfing-lesson-old-mans-beach-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd23f3ea4ef)
+* 坎古[沙灘騎馬](https://affiliate.klook.com/redirect?aid=40584&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830)
+* 坎古[烹飪課程文化體驗](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
+* 坎古 [Spa & Yoga高級體驗](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
+* 坎古 [按摩SPA唔踩雷推薦](https://s.id/spa_guide)
+* 坎古 [到府按摩服務](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
+
+等我哋開始探索坎古嘅頂級住宿啦，為你嘅旅程增添更多精彩回憶！最底下仲有呢16間住宿推薦嘅地理位置圖。
+
+## 1.COMO Uma Canggu
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_3461a14b036bcb4a2a8be1fd9d6b617a.jpg)
+
+COMO Uma Canggu嘅位置絕對令人驚嘆。酒店坐落緊鄰海灘，為遊客提供咗壯觀嘅海濱美景，欣賞著夕陽美景。
+
+COMO Uma 坎古本身都係一個好靚嘅建築物。酒店設計簡約而現代，融合咗峇里島嘅當地風格同國際化嘅設計元素。同時呢度以其一流嘅設施而聞名，令你感受到極致嘅舒適同放鬆。
+
+> ▶[Agoda優惠](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=23070744)
+
+## 2.Hotel Tugu Bali
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_47590557a36b9762f2e423cc5766998f.jpg)
+
+位於峇里島坎古 Batu Bolong 嘅Hotel Tugu Bali，係一家好迷人嘅度假勝地，獨具特色，融合咗峇里島嘅文化、藝術同自然美景，為遊客提供咗一個難以忘懷嘅住宿體驗。Hotel Tugu Bali嘅最大特點之一係佢嘅藝術氛圍。酒店擁有令人驚嘆嘅藝術品同文物收藏，呢啲珍品散落喺各個角落，令你喺住宿期間感受到豐富嘅文化氛圍。
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=3164)
+
+## 3.Eastin Ashta Resort 坎古
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_66c8fa5ae00eb7eba575766b1899ee68.jpg)
+
+Eastin Ashta Resort 坎古位於峇里島嘅坎古地區，係一家令人印象深刻嘅現代度假勝地，以親子導向提供一系列出色嘅住宿同設施，為遊客帶嚟難忘嘅度假體驗。該度假村自豪地獲選為Tripadvisor網站2023年Travellers' Choice，住過嘅遊客一致推薦㗎！
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=5263211) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=22155082&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxcLFJMEkNZmF49-eY3vYhBgNLH4LOtpyXV9cUFvq4Nl_6KtGzPMqhwCeiCkHnk9jT5wdte2aOLOHQyEDCCQ0OTQyFoJUG9Q7dDGygtXMYDw17wTXRkaPh1Ui65aHOuxgZDrAyHSC8Tr_AqZnTZMtT7Ewc0xivsTylSm6Wik7tVLJykRHqSSzJCdVyUrp6aJ5Txv2PF_RqqSjlJJanAwUArISc_NL80qAbCMDQz0DA6BISWKFZwpYZ3JiTnJpTmJJakhlAdAEMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRbogiFpaYU5oKcQLQQrdUqB2GtTqYLn82p_dp98wXm3YT53JzarvcgBiXG9fGPmJhio79xMLwCxgNy0WbWBm6WJk57jNOApLX-XexskUGegYaelxgvasmJW9oYGBgamhsaqprkGiZmGJkZKBrYmlibGCpa2ppbmCksXn6i1lPjY2spSAxr8CoJRgf4unpYlhSmGpWWGqZU1RgasB4ilHK0NzYwtDI0NDIyMjSWM_EIs2s2CKv2CI3K8KDMYjNxcXS2ckkyoaL2dMlSPDef5ZcbWVLeynmkHAXxZU3mdcemHDaXgskZwiTC7T4Isb_3nKBfSRMPom1KkM3JDyjV7yAsYGRqYuRW4DRgzGCsQLIY1zFyLCBkXEH438YYHzFCDIdAKGYDsT_AgAA&masterhotelid_tracelogid=100051355-0a9ad220-494309-59702&detailFilters=17|1~17~1*31|22155082~31~22155082*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1288&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/YkbegL2I)
+
+## 4.La Reserve 1785 坎古 Beach
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_1cb60e4fa58d541bc156ff569dcd401d.jpg)
+
+La Reserve 1785 坎古 Beach係一家於2022年開幕嘅全新度假勝地，坐落於峇里島嘅坎古地區。呢家令人印象深刻嘅住宿選擇立即成為當地旅遊界嘅矚目焦點，因其獨特嘅風格、奢華嘅設施同無與倫比嘅美景而倍受歡迎。
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=31967047) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=88966535&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqY-FikmCSamfh2Pp78Tw2IUYjgxucFh3JjvKtrwN3FC508FxSYMt1PX2pQwBPxJQDz6exJ3pVN-v7HAl06GJkBQvMYGzv3qa1gpFxI6NmTP-hrxvqHXYwMh1gZDrBuDl5AdOe5VdtT7Ewc2wSusTynSm6Wik7tVLJykRHqSSzJCdVyUrp2Zzep90zX2zaraSjlJJanAwUArISc_NL80qAbENDc3M9AwOgUElihWeKkpW5jlJyYk5yaU5iSWpIZQHQCDMdpcxi55KizIKg1NzMkpJUoKq0xJziVJB4UGoxUCYZLKjkBzSmCCqQmZ8H0W6AIhaWmFOaCnED0EK3VKgdxrU6mE5_umje04Y9z1e0Eul0E2o73ZAYpxvWxj5iYYqO_cTC8IuFoYmVoYuVmeMU0yQguTl5FytHkF-gS5STruEF1r-pUvKGBgYGpobGpqa6BomWiSlGRga6JpYmxgaWumZGxoamGreev5v11NjIWgoS-wqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYzN0MTd0Momy4mEODXQQLgWlssYG0gxRzSLiL4sqbzGsPTDhtr8Xs6RJkeO8_S662sqV9oMUXMf73lgvsI2HySaxVGboh4Rm94gWMDYxMXYzcAowejBGMFUAe4ypGhg2MjDsY_8MA4ytGkOkATEGAifMCAAA&masterhotelid_tracelogid=100051355-0a9ad220-494309-62315&detailFilters=17|1~17~1*31|88966535~31~88966535*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=320&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/OHcaPq2W)
+
+## 5.ZIN Canggu Resort & Villas
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_00517035bd0e2005c3cff58ed044eb83.jpg)
+
+坎古地區嘅四星級精品度假勝地ZIN Canggu Resort & Villas喺2018年開業，有住驚人嘅好評。度假村位於Nelayan Beach，距離Echo Beach同Batu Bolong Beach只係幾步之遙。渡假村內除咗一般嘅旅館房型，仲有私密嘅泳池別墅可以選擇。
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=34850151)
+
+## 6.Shore Amora Canggu
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_1315dcd66d00182c5b058e83bfb555e5.jpg)
+
+Shore Amora Canggu係坎古區一個極具吸引力嘅優質住宿選擇。坐落喺一片綠意盎然、椰樹婆娑嘅稻田中，同時距離海灘只係幾步之遙。從疫情之前到而家都一直係本區最熱門嘅住宿選項之一。
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=7223142)
+
+## 7.Theanna Villa and Spa Canggu
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_42aad205d506c218ae03d6ee72e297aa.jpg)
+
+如果您正在尋找一個可以放鬆身心，享受度假嘅完美之地，咁Theanna Villa and Spa Canggu絕對值得一試。Theanna Villa and Spa Canggu 度假村距離海灘只係5分鐘步行路程。度假村共有25間別墅，每間別墅都設有私人泳池、陽台同室外淋浴。榮獲 tripadvisor Travellers' Choice 2023年 "**Best of the Best**" 殊榮。係享受寧靜同放鬆假期嘅理想場所。
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1203712)
+
+## 8.Aston Canggu Beach Resort
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_258b332ab0bf08a2fdd82b918dd5acce.jpg)
+
+Aston Canggu Beach Resort係一間位於峇里島坎古地區嘅四星級酒店，距離海灘只有100米，係去坎古海灘同周邊景點嘅理想選擇
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=2976424) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=7123172&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxsLFJMEk1c_C8efnvSVsQuyGpmYGhgZGBguFLW5XOLa-Dtwh97TSwfObRkz_IcMGhwCeiCkHnk9jT7zLrrC187aPQxcjK1hgBuOTh5uYVzAybmScNRMIfkY67GBkOsH4XGgB08qnE_ROsTBzPGK-xPKVKbpaKTu1UsnKREepJLMkJ1XJSunZnN6n3TNfbNqtpKOUklqcDBQCshJz80vzSoBsIxNDPQMDoEhJYoVnipKVuY5ScmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxAtBCt1SoHca1Opguf7po3tOGPc9XtBLnchNqu9yQGJcb1sY-YmGKjv3EwvCLhaGJlaGLlZmjh2kSkHwutIuVPygs0sIgUjfcLNJVN0rX8ALrZxEpRUMDAwMjU1Mjc12DRMtEE2MDS10TSxNjQyNdQ0MTC0MjS41zc6bNf2psZC0FSQEKjFqC8SGeni6GJYWpZoWlljlFBaYGjKcYpQzNjYEaDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYLI2NnAwso2y4mEODXQQLbbmuLzaQdpBiDgl3UVx5k3ntgQmn7bWYPV2CDO_9Z8nVVra0D7T4Isb_3nKBfSRMPom1KkM3JDyjV7yAsYGRqYuRW4DRgzGCsQLIY1zFyM7FbGBkKMC0gZFxB-N_GGB8xQiyBABL7aRkBAMAAA&masterhotelid_tracelogid=100025527-0a9a4309-494312-1148129&detailFilters=17|1~17~1*31|7123172~31~7123172*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=670&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/x9hviwVM)
+
+## 9.Kalapa Boutique Resort & Yoga
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_243be4765d140f88ebeb319fc160a05d.jpg)
+
+遠離繁忙嘅城市，Kalapa Boutique Resort & Yoga提供豪華客房同別墅，每一處都設計獨具特色，讓您感受到印度尼西亞、峇里島文化嘅融合。清晨，您可以喺私人陽台上欣賞日出，晚上則可以喺星空下泡喺戶外浴池中放鬆身心。推薦俾識得享受嘅朋友！
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=535611) [Trip](https://tw.trip.com/hotels/detail/?cityId=723&hotelId=1531862&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&subStamp=936&crn=1&ages=&travelpurpose=0&curr=TWD&link=title&hoteluniquekey=H4sIAAAAAAAA_-M6xsTFJMEkxMTBKLWbiePrw7PHWS1-CzoW2nJdX2xQ7uAp3_o6cAdbrUMAT-KL-Q-SXD97OhQygMCBVIdGRs2Y_kNfNyQ6dDGyTjnwfBr7JMbZjJwgWYdya0dBEGNBq5mjkgPHzcsvswSUJHafePaeWYFRE2wCQ5SDIYxhcZrRsVpknftDq1AHTxgjiJnjIXMUM0cXM9CEjf3nxQXyJNY_OHiIEWZCQyDUBCDDYi-fI1BblYifj4MnjAE04SAT0IR2JidmjjbJGYzX9sduZNwhB_RURLjDDkamE4yfBRYwnfm6i2kXE0jFISC5ifkUE8MlJoZbTAyPgNxFbK-YGD4BGRNZf4HVNDEzdDEzTGIGqZzFDFKwiJlBitfQ0jDRMDnVwMTSyMJcQUij48jRC2xGTsCAhYSNAqOWYHyIp6eLYUlhqllhqWVOUYGpAeMkRqaQ8FOMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRVsxSjG4ejEFsZpZGrm6OUVpczJ4uQYL3_rPkaitb2ksxh4S7KK68ybz2wITT9logOUOYXBJrVYZuSHhGr3gBYwMjUxcjhwCjB2MEYwXjK0aQth-gAAEA_9SnuAQCAAA&subChannel=&masterhotelid_tracelogid=191a1ce049287&NewTaxDescForAmountshowtype0=F&detailFilters=17|1~17~1*80|2|1~80~2&hotelType=normal&display=incavg&barcurr=TWD&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/eZpOjqcM)
+
+## 10.Swarga Suites Bali Berawa
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_a451c61ffe4cfb1d73ff5ee30e71ecc2.jpg)
+
+Swarga Suites Bali Berawa 係一間位於峇里島坎古嘅超高評價豪華度假住宿選擇，坐落喺Berawa海灘附近，提供絕佳嘅度假環境。呢間迷人嘅度假酒店提供各種唔同類型嘅套房，每個都充滿峇里島特色，並設有私人陽台或露台，俾您欣賞壯觀嘅日出同日落景色。
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1273785) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=5939982&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6w8TFJMEkdZWJY_end7OYhJgNDYw0jrIYPGC02CrvKN_6OnBHW6uDJwMIlHU5BPBETDnwfBp7old1s77PkUCHLkZWsMAMxr5jr5g2MoI0yO1NdtjByHSAkekE4325BUxrd2ziOsXCzHGX9RLLLsboaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBss2NjfUMDIAiJYkVnilgncmJOcmlOYklqSGVBUATjHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwIMjcIig_Mz8PotsARSwsMac0FaISaJ9bKtQKw9rYRyxM0bEvWI6yfGJh-MXC0MTK0MXKzHGKaRKQvC-3i5XXN9jVwzFU1zBEN0rX8AJri6qUoqGBgYGRqamRua5BoqVxokWaka6JpYmxoZGukbm5qYWBscbrCXfmPzU2spaCBKQCo5ZgfIinp4thSWGqWWGpZU5RgakB4ylGKUNzYwtDI0NDIyMjS2M9E4s0s2KLvGKL3KwID8YgNhdnZ3MnpygbLubQYBfBQluu64sNpB2kmEPCXRRX3mRee2DCaXstZk-XIMN7_1lytZUt7QMtvojxv7dcYB8Jk09ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMbJzMRsYGQowbWBk3MH4HwYYXzGCLAEAGAxcsEoCAAA&masterhotelid_tracelogid=100025527-0a93a8f2-494312-2775803&detailFilters=17|1~17~1*31|5939982~31~5939982*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1056&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/YwjItBib)
+
+## 11.Holiday Inn Resort Bali Canggu
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_2819fc39af6ba26d94deac761bbf5f7f.jpg)
+
+Holiday Inn Resort Bali 坎古將於2024年8月正式開幕，成為峇里島南岸坎古地區嘅高級住宿選擇。度假村擁有時尚設計、頂級設施同先進科技，仲提供令人驚艷嘅無邊際泳池，可以俯瞰壯麗嘅印度洋。呢度距離Batu Bolong海灘同坎古熱鬧街區步行可達，融合咗現代設計同傳統峇里島風情。度假村提供144間精心設計嘅客房，分為標準房、套房同適合家庭嘅兒童套房。設施包括健身中心、兒童俱樂部同全天候餐廳，讓賓客享受難忘嘅假期。
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=46874759)
+
+## 12.TUI BLUE Berawa Hotel and Villas
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_d6bfb73b55940f19cd26d940526bbfbd.jpg)
+
+**TUI Blue Berawa 酒店與別墅**將於2024年12月13日喺峇里島坎古開幕，成為德國旅遊巨頭TUI集團喺峇里島嘅首個旗艦項目。酒店位於熱鬧嘅Berawa區，周邊匯聚咗坎古嘅知名景點。
+
+酒店擁有 **119 間客房與套房** 同 **14 棟私人泳池別墅**，設施包括健身中心、瑜伽室、共享辦公空間同高級餐廳，仲同印尼頂級朱古力品牌RR Chocolate合作，為客人提供獨特體驗。無論係家庭、蜜月旅客，定係尋求奢華與舒適嘅遊客，都能夠搵到滿足需求嘅住宿選擇。
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=61670353)
+
+## 13.Oshom Bali
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_f7670907705e51bad1bd83b39e8f8eb9.jpg)
+
+2024年11月開幕嘅Oshom Bali係一間僅有11間客房嘅精品旅館，坐落於峇里島塔巴南嘅Nuanu創意城市內，背倚懸崖，面朝黑沙海灘。旅館仲擁有七座紅樹林樹屋、鹽水泳池、精緻餐廳，同即將開放嘅粉橘色屋頂酒吧。房內設計極簡奢華，配備全景落地窗、智能設備同印尼傳統手工藝品，並提供每日睡前故事同靜心冥想空間，讓旅人徹底放鬆。此外，旅館創辦人Daisy Angus策劃咗繪畫工作坊同「床邊對談」等創意活動，激發靈感與創造力。
+
+Oshom周邊設施豐富，距離全球最大嘅木火蒸氣療癒穹頂Lumeira溫泉療養館僅需短程車程，提供芬蘭傳統桑拿等療癒體驗。旅館餐廳供應峇里島傳統與西式美食，步行1分鐘即可抵達[Luna Beach Club](/blog/canggu-guide/)，享受泳池、酒吧同海灘派對。Oshom結合藝術、自然與靈感，係追求獨特度假體驗嘅理想選擇。
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=64716205) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=117153593&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/zXbwVorS)
+
+## 14.**Leafy Lofts 坎古**
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413138936-503508294.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413139414-503508292.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413139833-498023099.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413140304-503518502.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413140791-505136367.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413141152-509722359.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413141589-521549811.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413142033-521549814.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413142429-633689614.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413142927-633689616.jpg)
+
+位於峇里島坎古中心，結合現代設計與熱帶風情，係追求舒適與寧靜旅客嘅理想住宿選擇。
+
+呢度共有 **10間雙層閣樓**，每間均設有寬敞嘅生活空間，包括私人客廳、設備齊全嘅廚房，方便長住或短期旅客使用。閣樓圍繞住 **熱帶花園泳池**，讓住客隨時能享受清涼嘅水上時光。此外，館內仲提供 **迷你吧/咖啡館**、共享娛樂室與高速無線網絡嘅共同工作空間，特別適合數位遊牧族群。
+
+地理位置便利，距離坎古主要活動區約 **5分鐘車程**，既能輕鬆探索繁華嘅咖啡館與精品店，亦能享受安靜嘅住宿環境。附近熱門景點包括 **巴圖博龍海灘（Batu Bolong Beach）** 同 **貝拉瓦海灘（Berawa Beach）**，皆為衝浪同欣賞日落嘅絕佳地點。
+
+Leafy Lofts 坎古 提供單臥室&雙臥室嘅選項，其時尚嘅設計、完善嘅設施與絕佳嘅地理位置，都能為旅客提供一個放鬆且富有隱私嘅住宿體驗，無論係度假或遠端工作，都能喺呢度找到屬於自己嘅熱帶天堂。
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=55807530) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=114288196&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLS0MDZKtNA1sTQxNjTSNTG3NDHS-Nb1cP5TYyMDLcH4EE9PF8OSwlSzwlLLnKIC01OMUobmxhaGRoaGRkZGlsZ6JhZpZsUWecUWuVkRHoxBbBZGrsZmhlF8Uswh4S6KK28yrz0w4bR9EmtVhm5IeEavOADNBPuRggAAAA&masterhotelid_tracelogid=100051355-0a9832a8-494312-47942&detailFilters=17|1~17~1*31|114288196~31~114288196*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=345&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/NB4QtcRF)
+
+## 15.Belajar Bali Boutique Hotel & Retreat
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413499553-411150344.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413500410-411150337.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413501185-411150341.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413501603-411150343.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413502067-411919175.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413502466-411932382.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413502928-411150345.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413503353-411150631.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413503813-411389752.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413504253-411389892.jpg)
+
+Belajar Bali Boutique Hotel and Retreat 距離 Batu Bolong 海灘僅 2.8 公里，係一間融合寧靜與奢華嘅 5 星級精品度假酒店。
+
+**特色與設施：**
+
+* 戶外泳池：客房設有私人露台，可欣賞泳池景觀，營造放鬆嘅度假氛圍。
+* 貼心服務：24 小時前台、行李寄存，並提供 共用廚房，方便旅客使用。
+* 設計風格：每間客房均配備空調、書桌、保險箱及私人衛浴，簡約中展現峇里島風情。
+* 交通便利：距離 Canggu Beach 同樣 2.8 公里，前往 Petitenget Temple 約 8.4 公里，距 伍拉·賴國際機場 僅 17 公里。
+
+Belajar Bali 結合自然同現代化設施，適合追求隱逸假期或者深度體驗坎古波希米亞風情嘅旅客。
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=49488356)
+
+## 16.MAJA Canggu Hotel
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413895817-505351238.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413896215-505351235.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413896662-505351240.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413896998-505351232.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413897312-505351243.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413897785-505351244.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413898230-505351265.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413898667-505351278.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413899059-505351284.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774413899401-505355803.jpg)
+
+喺峇里島坎古呢個充滿活力同創意嘅區域中，MAJA Canggu Hotel 係一處結合地中海風格同熱帶風情嘅精品旅宿，為旅人提供一個靜謐而優雅嘅度假空間。
+
+MAJA Canggu Hotel 嘅建築靈感來自地中海，白色牆面、拱形門窗同簡約線條，營造出清新明亮嘅氛圍。酒店周圍環繞住熱帶植物同花園，令人彷彿置身於地中海嘅度假村中，卻又唔失峇里島嘅自然魅力。
+
+MAJA Canggu 呢間5星級度假酒店，主打精緻設施同悠閒氛圍。酒店設有花園、共享休息區同泳池日光露台，並提供免費Wi-Fi同機場接送服務。客房均配備冷氣、私人陽台（泳池景觀）、獨立衛浴（附免費盥洗用品）同辦公區，適合度假同工作需求。
+
+* 位置便利：距離Batu Bolong海灘2.5公里，機場約17公里。
+* 餐飲服務：每日供應歐陸式早餐。
+* 設施：24小時前台、共享廚房、禮賓服務同客房服務。
+
+適合追求舒適同隱私嘅旅客，結合坎古嘅衝浪文化同高端住宿體驗。
+
+> ▶[Agoda優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=47561919)
+
+## 17. Regent Bali Canggu
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777370899343-b906975f65623d0fddae203932431dbd.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777370900037-caption.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777370901061-d7c1d86ebd938eb97335fd3c041beb0e.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777370901983-0402e9a56058a4f547a63be175d01baf.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777370902590-8a9dd68cfb48a1813b0c23c7d943bfe4.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777370903311-61658f238225b3ab66fb0cc6adf3ded4.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777370904248-72e2b5ae900228d14430054b06b89ec9.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777370904948-146c120da84e775b6ea13e53b4bc43ae.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777370905612-644007066.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777370906090-675862491.jpg)
+
+坎古一直冇一間真正嘅頂級酒店。2025年11月，呢個空缺終於被填補咗！
+
+IHG旗下嘅Regent品牌揀咗Batu Bolong海岸開幕，呢間係Regent進軍印尼嘅第一間酒店，亦係目前坎古硬件規格最高嘅住宿。
+
+酒店直接對住黑沙灘，行幾步就到Echo Beach同Batu Bolong Beach。有150間海景或者花園景套房同Villa，全部都有King bed。入門房已經包無限洗衣服務同全日早餐，仲有柚木浴缸。頂級Penthouse仲有30坪私人無邊際泳池。
+
+餐飲方面特別有料，有6個場所，其中兩個由米其林星級主廚 **Andrew Walsh** 主理。**Sazón** 主打地中海火烤海鮮分享菜單，**Taru** 就係正宗印尼料理，soto ayam、rendang sapi 都有。
+
+**Regent Spa** 係全球第一間Regent品牌Spa，有7間療程室、桑拿、冷泡池，結合峇里島傳統療法同現代護膚。
+
+最適合：蜜月旅客、想喺坎古住頂級嘅旅客、鍾意衝浪又唔想妥協住宿品質嘅人。
+
+> [Agoda 優惠價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=41693391)
+
+## 地理位置圖
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_41b9eed23368f2692e63ad665923dd6e.png)
+
+請參考「[坎古攻略地圖](https://www.google.com/maps/d/u/0/edit?mid=1BZB_5sqY7fAPbfZJkSKFuZI7ar1UTF8U&usp=sharing)」
+
+## 你一定都想睇：
+
+> ▶[坎古攻略上集](/blog/canggu-surf-food-guide/)
+> >
+> ▶[坎古攻略下集](/blog/canggu-bali-travel-guide/)
+
+## 唔好錯過呢啲坎古購票優惠
+
+* Atlas Beach Fest 全亞洲最大嘅海灘俱樂部[優惠入場券](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80472-atlas-beach-club-admission-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad7b2e5830)
+* Finns Beach Club海灘俱樂部[暢玩通票](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14201-finns-beach-club-pass-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92e834a4de)
+* Cafe del Mar海灘俱樂部[一日通行證](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F85626-cafe-del-mar-beach-club-day-pass-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D07c5d6c77c)
+* Old Man沙灘[兩小時滑浪教學](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32669-surfing-lesson-old-mans-beach-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd23f3ea4ef)
+* 坎古[沙灘騎馬](https://affiliate.klook.com/redirect?aid=40584&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830)
+* 坎古[烹飪課程文化體驗](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
+* 坎古 [Spa & Yoga高級體驗](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
+* 坎古 [按摩SPA唔會中伏推介](https://s.id/spa_guide)
+* 坎古 [到府按摩服務](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
+* 坎古 [美食優惠](https://affiliate.klook.com/redirect?aid=40584&aff_adid=931889&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50218418-canggu%2F2-food-and-dining%2F)
+
+{{block:canggu}}
+
+{{block:住宿}}

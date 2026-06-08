@@ -1,0 +1,286 @@
+---
+interface Props { lang?: string; }
+const { lang } = Astro.props;
+
+const today = new Date();
+
+const blogBase = lang === 'en' ? '/en/blog' :
+                 lang === 'zh-cn' ? '/zh-cn/blog' :
+                 lang === 'zh-hk' ? '/zh-hk/blog' : '/blog';
+
+const CAT_EN: Record<string, string> = {
+  '新手指南': "Beginner's Guide",
+  '住宿推薦': 'Accommodation',
+  '峇里島分區攻略': 'Area Guide',
+  '簽證通關': 'Visa & Entry',
+  '美食景點活動': 'Food & Activities',
+  '遊記分享': 'Travel Stories',
+};
+const CAT_CN: Record<string, string> = {
+  '新手指南': '新手指南',
+  '住宿推薦': '住宿推荐',
+  '峇里島分區攻略': '峇里岛分区攻略',
+  '簽證通關': '签证通关',
+  '美食景點活動': '美食景点活动',
+  '遊記分享': '游记分享',
+};
+
+const categories = [
+  { slug: '新手指南' },
+  { slug: '住宿推薦' },
+  { slug: '峇里島分區攻略' },
+  { slug: '簽證通關' },
+  { slug: '美食景點活動' },
+  { slug: '遊記分享' },
+];
+
+const getCatName = (slug: string) =>
+  lang === 'en' ? (CAT_EN[slug] ?? slug) :
+  lang === 'zh-cn' ? (CAT_CN[slug] ?? slug) : slug;
+
+const tagline = lang === 'en' ? 'Bali Travel Guide · Your Smart Bali Guide' :
+                lang === 'zh-cn' ? '峇里岛旅游攻略 · 自由行达人指南' :
+                '峇里島旅遊攻略 · 自由行達人指南';
+
+const catTitle = lang === 'en' ? 'Categories' :
+                 lang === 'zh-cn' ? '文章分类' : '文章分類';
+
+const socialTitle = lang === 'en' ? 'Follow Us' :
+                    lang === 'zh-cn' ? '追踪我们' : '追蹤我們';
+
+const disclaimer = lang === 'en'
+  ? 'Content is for reference only. Travel information may change; please verify before departure. Some links are affiliate links — booking through them helps support this site at no extra cost to you. Thank you!'
+  : lang === 'zh-cn'
+  ? '本网站内容仅供参考，旅游资讯可能随时变动，出发前请自行确认最新资讯。本站部分链接为联盟营销合作。透过本站链接预订，我们将获得微薄分润以维持运作，感谢您的支持与赞助！'
+  : '本網站內容僅供參考，旅遊資訊可能隨時變動，出發前請自行確認最新資訊。本站部分連結為聯盟行銷合作。透過本站連結預訂，我們將獲得微薄分潤以維持運作，感謝您的支持與贊助！';
+---
+
+<footer>
+  <div class="footer-inner">
+
+    <!-- 品牌 -->
+    <div class="footer-brand">
+      <a href={`${blogBase}/`} class="footer-logo">
+        <img src="/favicon-32x32.png" alt="logo" /> Go Bali Go
+      </a>
+      <p class="footer-tagline">{tagline}</p>
+    </div>
+
+    <!-- 社群媒體 -->
+    <div class="footer-social">
+      <h4>{socialTitle}</h4>
+      <div class="social-icons">
+        <a href="https://www.facebook.com/bali.guide.blog" target="_blank" rel="noopener" aria-label="Facebook 粉絲團">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+        </a>
+        <a href="https://www.instagram.com/go.bali.go/" target="_blank" rel="noopener" aria-label="Instagram">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>
+        </a>
+        <a href="https://www.youtube.com/@j_indonesia" target="_blank" rel="noopener" aria-label="YouTube">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M23.495 6.205a3.007 3.007 0 00-2.088-2.088c-1.87-.501-9.396-.501-9.396-.501s-7.507-.01-9.396.501A3.007 3.007 0 00.527 6.205a31.247 31.247 0 00-.522 5.805 31.247 31.247 0 00.522 5.783 3.007 3.007 0 002.088 2.088c1.868.502 9.396.502 9.396.502s7.506 0 9.396-.502a3.007 3.007 0 002.088-2.088 31.247 31.247 0 00.5-5.783 31.247 31.247 0 00-.5-5.805zM9.609 15.601V8.408l6.264 3.602z"/></svg>
+        </a>
+        <a href="https://www.threads.com/@go.bali.go" target="_blank" rel="noopener" aria-label="Threads">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1V9.01a6.27 6.27 0 00-.79-.05 6.34 6.34 0 00-6.34 6.34 6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.33-6.34V8.69a8.27 8.27 0 004.84 1.56V6.79a4.85 4.85 0 01-1.07-.1z"/></svg>
+        </a>
+        <a href="https://www.facebook.com/groups/indonesia.travelguide" target="_blank" rel="noopener" aria-label="FB 社團">
+          <svg width="18" height="18" viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>
+        </a>
+      </div>
+    </div>
+
+  </div>
+
+  <!-- 2026 流年火旺促銷區塊（2026 全年顯示） -->
+  <div class="fire-banner">
+    <span class="fire-text">🔥 峇里島火熱優惠中・2026 限定好價</span>
+    <a href="https://gobaligo.id/tickets/" class="fire-cta">立即搶訂 →</a>
+  </div>
+
+  <!-- 底部版權+免責聲明 -->
+  <div class="footer-bottom">
+    <p class="copyright">&copy; {today.getFullYear()} Go Bali Go. All rights reserved.</p>
+    <p class="disclaimer">{disclaimer}</p>
+  </div>
+</footer>
+
+<style>
+footer {
+  background: var(--ocean);
+  color: rgba(255,255,255,0.8);
+  margin-top: 4em;
+  border-top: 2px solid var(--gold);
+}
+
+.footer-inner {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 3em 2em 2em;
+  display: grid;
+  grid-template-columns: 1.5fr 1fr;
+  gap: 3em;
+}
+
+.footer-brand .footer-logo {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.3em;
+  font-weight: 700;
+  color: var(--gold-light);
+  margin-bottom: 0.5em;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+}
+.footer-brand .footer-logo:hover {
+  color: var(--gold);
+}
+
+.footer-logo img {
+  width: 28px;
+  height: 28px;
+  border-radius: 4px;
+  vertical-align: middle;
+  position: relative;
+  top: -3px;
+  margin-right: 0.3em;
+}
+
+.footer-tagline {
+  font-size: 0.85em;
+  color: rgba(255,255,255,0.6);
+  margin: 0;
+  line-height: 1.6;
+}
+
+.footer-links h4,
+.footer-social h4 {
+  font-size: 0.85em;
+  font-weight: 700;
+  color: var(--gold-light);
+  letter-spacing: 0.08em;
+  margin: 0 0 1em;
+  text-transform: uppercase;
+}
+
+.footer-links ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+.footer-links li {
+  margin-bottom: 0.5em;
+}
+
+.footer-links a {
+  color: rgba(255,255,255,0.7);
+  text-decoration: none;
+  font-size: 0.88em;
+  transition: color 0.15s;
+}
+
+.footer-links a:hover {
+  color: var(--gold-light);
+}
+
+.social-icons {
+  display: flex;
+  gap: 0.8em;
+  flex-wrap: wrap;
+}
+
+.social-icons a {
+  width: 36px;
+  height: 36px;
+  border-radius: 8px;
+  background: rgba(255,255,255,0.1);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: rgba(255,255,255,0.8);
+  transition: all 0.2s;
+  text-decoration: none;
+}
+
+.social-icons a:hover {
+  background: var(--gold);
+  color: var(--ocean);
+}
+
+.social-icons svg {
+  width: 18px;
+  height: 18px;
+}
+
+.footer-bottom {
+  border-top: 1px solid rgba(255,255,255,0.1);
+  padding: 1.5em 2em;
+  max-width: 1400px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.copyright {
+  font-size: 0.85em;
+  color: rgba(255,255,255,0.6);
+  margin: 0 0 0.5em;
+}
+
+.disclaimer {
+  font-size: 0.75em;
+  color: rgba(255,255,255,0.4);
+  margin: 0;
+  line-height: 1.6;
+}
+
+@media (max-width: 900px) {
+  .footer-inner {
+    grid-template-columns: 1fr;
+    gap: 2em;
+  }
+}
+
+@media (max-width: 600px) {
+  .footer-inner {
+    grid-template-columns: 1fr;
+    gap: 1.5em;
+    padding: 2em 1.5em;
+  }
+
+}
+
+.fire-banner {
+  background: #FF6B6B;
+  padding: 0.8em 2em;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1.2em;
+  flex-wrap: wrap;
+  border-top: 2px solid #E63946;
+}
+
+.fire-text {
+  color: #fff;
+  font-weight: 700;
+  font-size: 0.95em;
+  letter-spacing: 0.02em;
+}
+
+.fire-cta {
+  display: inline-block;
+  background: #fff;
+  color: #E63946;
+  font-weight: 800;
+  font-size: 0.88em;
+  padding: 0.35em 1em;
+  border-radius: 20px;
+  text-decoration: none;
+  transition: background 0.2s, color 0.2s;
+}
+
+.fire-cta:hover {
+  background: #5D4037;
+  color: #fff;
+}
+</style>

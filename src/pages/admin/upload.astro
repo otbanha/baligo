@@ -1,0 +1,392 @@
+---
+export const prerender = true;
+---
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>圖片上傳到 R2 — gobaligo.id</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+           background: #f5f5f5; color: #222; padding: 2rem 1rem; }
+    .container { max-width: 700px; margin: 0 auto; }
+    h1 { font-size: 1.25rem; font-weight: 700; margin-bottom: 1.5rem; }
+
+    /* Auth */
+    #auth-wall { background: #fff; border-radius: 10px; padding: 2rem;
+                 box-shadow: 0 1px 6px rgba(0,0,0,.1); max-width: 360px; }
+    #auth-wall h2 { font-size: 1rem; margin-bottom: 1rem; }
+    .auth-row { display: flex; gap: .5rem; }
+    .auth-row input { flex: 1; padding: .5rem .8rem; border: 1px solid #ccc;
+                      border-radius: 6px; font-size: .95rem; }
+    .auth-err { color: #c53030; font-size: .82rem; margin-top: .5rem; display: none; }
+
+    /* Upload UI */
+    #upload-ui { display: none; }
+
+    .drop-zone {
+      border: 2px dashed #C5A059; border-radius: 12px; padding: 3rem 2rem;
+      text-align: center; cursor: pointer; color: #888; background: #fff;
+      transition: background .15s, border-color .15s; margin-bottom: 1.2rem;
+    }
+    .drop-zone.over { background: #fdf8f0; border-color: #f97316; }
+    .drop-zone p { font-size: 1rem; margin-bottom: .4rem; }
+    .drop-zone small { font-size: .8rem; color: #bbb; }
+    #file-input { display: none; }
+
+    /* Previews — thumbnail grid */
+    #previews { display: grid; grid-template-columns: repeat(auto-fill, minmax(110px, 1fr));
+                gap: .5rem; margin-bottom: 1rem; }
+    .preview-item {
+      position: relative; border-radius: 8px; overflow: hidden;
+      box-shadow: 0 1px 4px rgba(0,0,0,.12); background: #e5e7eb;
+      padding-bottom: 100%; height: 0;
+    }
+    .preview-item img {
+      position: absolute; inset: 0; width: 100%; height: 100%;
+      object-fit: cover; display: block;
+    }
+    /* Overlay on hover */
+    .preview-overlay {
+      position: absolute; inset: 0; background: rgba(0,0,0,.55);
+      display: flex; flex-direction: column; align-items: center; justify-content: center;
+      gap: .35rem; opacity: 0; transition: opacity .15s; padding: .4rem;
+    }
+    .preview-item:hover .preview-overlay { opacity: 1; }
+    .preview-item .fname { font-size: .65rem; color: #e5e7eb; word-break: break-all;
+                           text-align: center; line-height: 1.3; max-height: 2.6em;
+                           overflow: hidden; }
+    .copy-btn { background: #5D4037; color: #fff; border: none; border-radius: 4px;
+                padding: .22rem .55rem; font-size: .7rem; cursor: pointer; white-space: nowrap; }
+    .copy-btn.copied { background: #38a169; }
+    /* Status badge — bottom strip */
+    .status-badge {
+      position: absolute; bottom: 0; left: 0; right: 0;
+      font-size: .65rem; text-align: center; padding: .18rem .3rem;
+      line-height: 1.2;
+    }
+    .status-badge.ok { background: rgba(56,161,105,.85); color: #fff; }
+    .status-badge.err { background: rgba(197,48,48,.85); color: #fff; }
+    .status-badge.uploading { background: rgba(0,0,0,.5); color: #e5e7eb; }
+
+    /* Buttons */
+    .btn { padding: .5rem 1.2rem; border: none; border-radius: 6px; cursor: pointer;
+           font-size: .9rem; font-weight: 600; font-family: inherit; }
+    .btn-primary { background: #f97316; color: #fff; }
+    .btn-ocean  { background: #5D4037; color: #fff; }
+    .btn:disabled { opacity: .45; cursor: not-allowed; }
+
+    .actions { display: flex; gap: .6rem; align-items: center; margin-bottom: 1.5rem; }
+    #upload-all-btn { display: none; }
+
+    /* Carousel code block */
+    #carousel-box {
+      display: none;
+      background: #1a2535; border: 1px solid #2e4a6e; border-radius: 10px;
+      padding: 1rem 1.2rem; margin-bottom: 1.2rem;
+    }
+    #carousel-box .cb-header {
+      display: flex; align-items: center; justify-content: space-between;
+      margin-bottom: .7rem;
+    }
+    #carousel-box .cb-title {
+      font-size: .9rem; font-weight: 700; color: #C5A059;
+    }
+    #carousel-box .cb-btns { display: flex; gap: .5rem; }
+    #carousel-box textarea {
+      width: 100%; background: #111c2a; color: #a8d4a8;
+      border: 1px solid #2e4a6e; border-radius: 6px;
+      font-family: monospace; font-size: .8rem; line-height: 1.6;
+      padding: .6rem .8rem; resize: vertical; min-height: 80px;
+      outline: none;
+    }
+    #carousel-box .cb-hint {
+      font-size: .75rem; color: #6b7a8d; margin-top: .5rem;
+    }
+    .btn-green { background: #276749; color: #fff; }
+    .btn-green.copied { background: #38a169; }
+    .btn-slate { background: #374151; color: #d1d5db; }
+
+    .tip { background: #fffbeb; border: 1px solid #fde68a; border-radius: 8px;
+           padding: .8rem 1rem; font-size: .82rem; color: #92400e; margin-top: 1.5rem; }
+    .tip strong { display: block; margin-bottom: .3rem; }
+  </style>
+</head>
+<body>
+<div class="container">
+  <h1>🖼️ 圖片上傳到 R2</h1>
+
+  <!-- Auth -->
+  <div id="auth-wall">
+    <h2>請輸入管理密碼</h2>
+    <div class="auth-row">
+      <input type="password" id="token-input" placeholder="Admin token" />
+      <button class="btn btn-ocean" id="token-submit">進入</button>
+    </div>
+    <div class="auth-err" id="auth-err">密碼錯誤，請再試一次</div>
+  </div>
+
+  <!-- Upload UI -->
+  <div id="upload-ui">
+    <div class="drop-zone" id="drop-zone">
+      <p>點擊或拖曳圖片到這裡</p>
+      <small>JPG · PNG · GIF · WebP · AVIF，最大 15 MB，可多選</small>
+    </div>
+    <input type="file" id="file-input" accept="image/*" multiple />
+
+    <div class="actions">
+      <button class="btn btn-primary" id="upload-all-btn">上傳全部</button>
+      <span id="action-status" style="font-size:.85rem;color:#888;"></span>
+    </div>
+
+    <!-- Carousel code box（上傳完 2+ 張後自動出現） -->
+    <div id="carousel-box">
+      <div class="cb-header">
+        <span class="cb-title">🎠 輪播 Markdown Code</span>
+        <div class="cb-btns">
+          <button class="btn btn-slate" id="cb-clear-btn">清除</button>
+          <button class="btn btn-green" id="cb-copy-btn">複製全部</button>
+        </div>
+      </div>
+      <textarea id="cb-textarea" readonly></textarea>
+      <div class="cb-hint">貼到文章 markdown 中，連續圖片會自動變輪播（不能有空行）</div>
+    </div>
+
+    <div id="previews"></div>
+
+    <div class="tip">
+      <strong>💡 如何在 Sveltia CMS 使用</strong>
+      在文章編輯器的圖片欄位 → 點擊選圖 → 左側選「Enter URL」→ 貼上上方複製的網址
+    </div>
+  </div>
+</div>
+
+<script>
+  let token = '';
+
+  // ── Auth ──────────────────────────────────────────────────────────────────
+  const tokenInput  = document.getElementById('token-input');
+  const tokenSubmit = document.getElementById('token-submit');
+  const authWall    = document.getElementById('auth-wall');
+  const uploadUi    = document.getElementById('upload-ui');
+  const authErr     = document.getElementById('auth-err');
+
+  const saved = sessionStorage.getItem('sl-token');
+  if (saved) { token = saved; unlock(); }
+
+  tokenInput.addEventListener('keydown', e => { if (e.key === 'Enter') tokenSubmit.click(); });
+  tokenSubmit.addEventListener('click', async () => {
+    const t = tokenInput.value.trim();
+    if (!t) return;
+    const res = await fetch('/api/shortlinks?id=__verify__', {
+      method: 'DELETE',
+      headers: { 'X-Admin-Token': t },
+    });
+    if (res.status === 401) { authErr.style.display = 'block'; return; }
+    token = t;
+    sessionStorage.setItem('sl-token', token);
+    authErr.style.display = 'none';
+    unlock();
+  });
+
+  function unlock() {
+    authWall.style.display = 'none';
+    uploadUi.style.display = 'block';
+  }
+
+  // ── File selection ────────────────────────────────────────────────────────
+  const dropZone      = document.getElementById('drop-zone');
+  const fileInput     = document.getElementById('file-input');
+  const previews      = document.getElementById('previews');
+  const uploadAllBtn  = document.getElementById('upload-all-btn');
+  const actionStatus  = document.getElementById('action-status');
+
+  let pendingFiles = [];
+
+  dropZone.addEventListener('click', () => fileInput.click());
+  fileInput.addEventListener('change', () => addFiles(Array.from(fileInput.files)));
+
+  dropZone.addEventListener('dragover', e => { e.preventDefault(); dropZone.classList.add('over'); });
+  dropZone.addEventListener('dragleave', () => dropZone.classList.remove('over'));
+  dropZone.addEventListener('drop', e => {
+    e.preventDefault();
+    dropZone.classList.remove('over');
+    addFiles(Array.from(e.dataTransfer.files).filter(f => f.type.startsWith('image/')));
+  });
+
+  function addFiles(files) {
+    files.forEach(file => {
+      if (file.size > 15 * 1024 * 1024) {
+        alert(`${file.name} 超過 15MB，已略過`);
+        return;
+      }
+      const id = Date.now() + Math.random();
+      pendingFiles.push({ id, file, status: 'pending', url: '' });
+      renderPreview({ id, file, status: 'pending', url: '' });
+    });
+    uploadAllBtn.style.display = pendingFiles.some(f => f.status === 'pending') ? 'block' : 'none';
+  }
+
+  function renderPreview({ id, file, status, url }) {
+    const existing = document.querySelector(`[data-id="${id}"]`);
+    if (existing) { updatePreview(id, status, url); return; }
+
+    const div = document.createElement('div');
+    div.className = 'preview-item';
+    div.dataset.id = id;
+
+    const img = document.createElement('img');
+    img.src = URL.createObjectURL(file);
+    div.appendChild(img);
+
+    // Hover overlay
+    const overlay = document.createElement('div');
+    overlay.className = 'preview-overlay';
+
+    const fname = document.createElement('div');
+    fname.className = 'fname';
+    fname.textContent = file.name;
+    overlay.appendChild(fname);
+
+    const urlInput = document.createElement('input');
+    urlInput.type = 'text';
+    urlInput.readOnly = true;
+    urlInput.style.display = 'none'; // hidden, used for carousel code
+    urlInput.placeholder = '';
+
+    const copyBtn = document.createElement('button');
+    copyBtn.className = 'copy-btn';
+    copyBtn.textContent = '複製網址';
+    copyBtn.onclick = () => {
+      if (!urlInput.value) return;
+      navigator.clipboard.writeText(urlInput.value).catch(() => {});
+      copyBtn.textContent = '✓';
+      copyBtn.classList.add('copied');
+      setTimeout(() => { copyBtn.textContent = '複製網址'; copyBtn.classList.remove('copied'); }, 1500);
+    };
+    overlay.appendChild(copyBtn);
+    overlay.appendChild(urlInput);
+    div.appendChild(overlay);
+
+    const badge = document.createElement('div');
+    badge.className = 'status-badge';
+    div.appendChild(badge);
+
+    previews.appendChild(div);
+  }
+
+  function updatePreview(id, status, url) {
+    const div = document.querySelector(`[data-id="${id}"]`);
+    if (!div) return;
+    const badge = div.querySelector('.status-badge');
+    const urlInput = div.querySelector('input[type=text]');
+    if (status === 'uploading') {
+      badge.textContent = '上傳中…';
+      badge.className = 'status-badge uploading';
+    } else if (status === 'ok') {
+      badge.textContent = '✓ 上傳成功';
+      badge.className = 'status-badge ok';
+      urlInput.value = url;
+    } else if (status === 'error') {
+      badge.textContent = '❌ 失敗：' + url;
+      badge.className = 'status-badge err';
+    }
+  }
+
+  // ── Upload ────────────────────────────────────────────────────────────────
+  uploadAllBtn.addEventListener('click', uploadAll);
+
+  async function uploadAll() {
+    const toUpload = pendingFiles.filter(f => f.status === 'pending');
+    if (!toUpload.length) return;
+
+    uploadAllBtn.disabled = true;
+    actionStatus.textContent = `上傳中 0 / ${toUpload.length}…`;
+
+    let done = 0;
+    for (const item of toUpload) {
+      item.status = 'uploading';
+      updatePreview(item.id, 'uploading', '');
+
+      const fd = new FormData();
+      fd.append('file', item.file);
+
+      try {
+        const res = await fetch('/api/upload', { method: 'POST', body: fd });
+        const data = await res.json();
+        if (!data.url) throw new Error(data.error || '未知錯誤');
+        item.status = 'ok';
+        item.url = data.url;
+        updatePreview(item.id, 'ok', data.url);
+      } catch (err) {
+        item.status = 'error';
+        updatePreview(item.id, 'error', err.message);
+      }
+
+      done++;
+      actionStatus.textContent = `上傳中 ${done} / ${toUpload.length}…`;
+    }
+
+    actionStatus.textContent = `完成 ${toUpload.filter(f => f.status === 'ok').length} / ${toUpload.length}`;
+    uploadAllBtn.disabled = false;
+    pendingFiles = pendingFiles.filter(f => f.status === 'pending');
+    uploadAllBtn.style.display = pendingFiles.length ? 'block' : 'none';
+    updateCarouselBox();
+  }
+
+  // ── Carousel code box ─────────────────────────────────────────────────────
+  const carouselBox  = document.getElementById('carousel-box');
+  const cbTextarea   = document.getElementById('cb-textarea');
+  const cbCopyBtn    = document.getElementById('cb-copy-btn');
+  const cbClearBtn   = document.getElementById('cb-clear-btn');
+
+  function updateCarouselBox() {
+    const doneUrls = pendingFiles
+      .filter(f => f.status === 'ok' && f.url)
+      .map(f => `![raw-image](${f.url})`);
+
+    // Also grab any already-rendered items in the DOM that have a URL
+    document.querySelectorAll('.preview-item input[type=text]').forEach(inp => {
+      if (inp.value && !doneUrls.includes(`![raw-image](${inp.value})`)) {
+        doneUrls.push(`![raw-image](${inp.value})`);
+      }
+    });
+
+    const unique = [...new Set(doneUrls)];
+
+    if (unique.length >= 2) {
+      cbTextarea.value = unique.join('\n');
+      cbTextarea.rows = Math.min(unique.length + 1, 12);
+      carouselBox.style.display = 'block';
+    } else if (unique.length === 1) {
+      cbTextarea.value = unique[0];
+      cbTextarea.rows = 2;
+      carouselBox.style.display = 'block';
+    } else {
+      carouselBox.style.display = 'none';
+    }
+  }
+
+  cbCopyBtn.addEventListener('click', () => {
+    navigator.clipboard.writeText(cbTextarea.value).catch(() => {});
+    cbCopyBtn.textContent = '✓ 已複製！';
+    cbCopyBtn.classList.add('copied');
+    setTimeout(() => {
+      cbCopyBtn.textContent = '複製全部';
+      cbCopyBtn.classList.remove('copied');
+    }, 2000);
+  });
+
+  cbClearBtn.addEventListener('click', () => {
+    pendingFiles = [];
+    document.getElementById('previews').innerHTML = '';
+    carouselBox.style.display = 'none';
+    actionStatus.textContent = '';
+    uploadAllBtn.style.display = 'none';
+  });
+</script>
+</body>
+</html>

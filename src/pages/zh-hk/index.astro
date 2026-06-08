@@ -1,0 +1,83 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
+import Footer from '../../components/Footer.astro';
+
+const SITE_URL = 'https://gobaligo.id';
+
+const hreflangs = [
+  { hreflang: 'zh-TW',     href: `${SITE_URL}/` },
+  { hreflang: 'zh-CN',     href: `${SITE_URL}/zh-cn/` },
+  { hreflang: 'zh-HK',     href: `${SITE_URL}/zh-hk/` },
+  { hreflang: 'en',        href: `${SITE_URL}/en/` },
+  { hreflang: 'x-default', href: `${SITE_URL}/` },
+];
+
+const schemaWebsite = {
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Gobaligo 峇里島旅遊指南",
+  "alternateName": "Go Bali Go",
+  "url": `${SITE_URL}/`,
+  "inLanguage": ["zh-TW", "zh-CN", "zh-HK", "en"],
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": {
+      "@type": "EntryPoint",
+      "urlTemplate": `${SITE_URL}/?q={search_term_string}`
+    },
+    "query-input": "required name=search_term_string"
+  }
+};
+
+const schemaOrganization = {
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Gobaligo",
+  "url": `${SITE_URL}/`,
+  "logo": `${SITE_URL}/images/logo.png`,
+  "sameAs": [
+    "https://www.youtube.com/@j_indonesia",
+    "https://www.facebook.com/bali.guide.blog"
+  ],
+  "description": "峇里島旅遊中文攻略網站，提供每日匯率、最新資訊、行程規劃工具、住宿推薦"
+};
+
+const schemaItemList = {
+  "@context": "https://schema.org",
+  "@type": "ItemList",
+  "name": "峇里島旅遊工具",
+  "itemListElement": [
+    { "@type": "ListItem", "position": 1, "name": "行程規劃工具", "url": `${SITE_URL}/zh-hk/trip-planner/` },
+    { "@type": "ListItem", "position": 2, "name": "預算計算機",   "url": `${SITE_URL}/zh-hk/bali-budget-calculator/` },
+    { "@type": "ListItem", "position": 3, "name": "景點門票費用", "url": `${SITE_URL}/zh-hk/tickets/` },
+    { "@type": "ListItem", "position": 4, "name": "攻略地圖",     "url": `${SITE_URL}/map/` },
+  ]
+};
+---
+
+<html lang="zh-Hant-HK">
+  <head>
+    <BaseHead
+      title="峇里島旅遊攻略2026｜每日匯率・峇里島新聞・行程規劃・住宿推薦 - Gobaligo"
+      description="峇里島旅遊最完整中文攻略。每日更新印尼盾匯率、峇里島最新旅遊資訊，提供免費行程規劃工具、預算計算機、景點門票查詢、住宿推薦同叫車包車攻略。"
+      noSuffix={true}
+      hreflangs={hreflangs}
+      image="https://gobaligo.id/images/og-home.jpg"
+    />
+    <script type="application/ld+json" set:html={JSON.stringify(schemaWebsite)} />
+    <script type="application/ld+json" set:html={JSON.stringify(schemaOrganization)} />
+    <script type="application/ld+json" set:html={JSON.stringify(schemaItemList)} />
+  </head>
+  <body>
+    <Header lang="zh-hk" />
+  <TopStrip lang={'zh-hk'} />
+    <main style="min-height:60vh;display:flex;align-items:center;justify-content:center;flex-direction:column;gap:1rem;padding:2rem;text-align:center">
+      <h1 style="font-size:1.5rem;margin:0">峇里島旅遊攻略2026</h1>
+      <p style="color:#666;margin:0">正在載入最新旅遊資訊...</p>
+    </main>
+    <Footer lang="zh-hk" />
+    <script>window.location.replace('/zh-hk/blog');</script>
+  </body>
+</html>

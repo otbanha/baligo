@@ -1,0 +1,249 @@
+{
+  "main": {
+    "id": "9ac6a224f6c5bbbf",
+    "type": "split",
+    "children": [
+      {
+        "id": "42b3eb4dd55e8d77",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cf9f4e1aaef4ef80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "charter-price.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "charter-price"
+            }
+          },
+          {
+            "id": "e00d9658510e9f13",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "first-time-area.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "first-time-area"
+            }
+          },
+          {
+            "id": "da5eeeb32fe2b7d1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "street-food-safe.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "street-food-safe"
+            }
+          },
+          {
+            "id": "ca7715dda2c66a0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "nusa-penida-worth-it.md",
+                "mode": "source",
+                "source": true
+              },
+              "icon": "lucide-file",
+              "title": "nusa-penida-worth-it"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9a658a5deb548953",
+    "type": "split",
+    "children": [
+      {
+        "id": "210a47cd89485c48",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "f0c5ee4e52750cc4",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "檔案瀏覽器"
+            }
+          },
+          {
+            "id": "dd086283f8ab4b0e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜尋"
+            }
+          },
+          {
+            "id": "11d5b4dfddf9c869",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "書籤"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "4293a25e684a7b53",
+    "type": "split",
+    "children": [
+      {
+        "id": "5b9fd97a9770b5b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8619486ce9b8cc01",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "nusa-penida-worth-it.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "nusa-penida-worth-it 的反向連結"
+            }
+          },
+          {
+            "id": "6519315eff48cb70",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "nusa-penida-worth-it.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "nusa-penida-worth-it 的對外連結"
+            }
+          },
+          {
+            "id": "48a2696f2ecf8306",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "標籤"
+            }
+          },
+          {
+            "id": "95355a36e4c6773d",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "所有屬性"
+            }
+          },
+          {
+            "id": "160e962b55381748",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "nusa-penida-worth-it.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "nusa-penida-worth-it 的大綱"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:開啟快速切換": false,
+      "graph:查看關聯圖": false,
+      "canvas:建立新畫布": false,
+      "daily-notes:開啟今天的每日筆記": false,
+      "templates:插入模板": false,
+      "command-palette:開啟命令面板": false,
+      "bases:建立新的 base": false
+    }
+  },
+  "active": "ca7715dda2c66a0b",
+  "lastOpenFiles": [
+    "july-weather.md",
+    "first-time-area.md",
+    "find-drivers.md",
+    "family-travel.md",
+    "evoa-required.md",
+    "entry-requirement.md",
+    "charter-price.md",
+    "car-charter-vs-grab.md",
+    "best-time-to-go.md",
+    "bali-culiners.md",
+    "street-food-safe.md",
+    "total-budget.md",
+    "airport-to-ubud.md",
+    "seminyak-vs-canggu-couple.md",
+    "5d4n-itinerary.md",
+    "ubud-how-many-nights.md",
+    "nusa-penida-worth-it.md"
+  ]
+}

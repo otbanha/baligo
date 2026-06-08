@@ -1,0 +1,18 @@
+---
+title: canggu
+type: normal
+randomCount: 5
+---
+
+## 更多長谷吃喝玩樂介紹
+
+![](https://images.gobaligo.id/images/2026-03/1774350144131-canggu_.jpg)
+
+長谷（Canggu）是峇里島上結合悠閒氛圍與時尚潮流的熱點，不僅擁有迷人的海灘，還聚集了許多特色咖啡廳、創意餐廳與精品小店，深受衝浪愛好者與年輕旅行者喜愛。無論是追求自然風光還是探索當地文化，長谷都能滿足您的期待！想了解更多長谷攻略？[請點擊這裡](/blog/canggu-guide/)。
+
+## 長谷住宿主題介紹
+
+- [峇里島住宿推薦：Canggu Top 20+ 你不能錯過的住宿推薦](/blog/canggu-top-hotels-guide/)
+- [長谷區 10+ 私人泳池別墅推薦 Canggu Villa 你不能錯過的峇里島別墅](/blog/canggu-villas-guide/)
+- [長谷頂級渡假村 Regent Bali Canggu](/blog/regent-bali-canggu/)
+- [峇里島團體自由行旅遊：長谷包棟villa 三房/四房/五房/六房以上的家庭別墅住宿推薦](/blog/bali-group-villa-stay/)

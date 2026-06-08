@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gobaligo.id/sitemap-index.xml
+Sitemap: https://gobaligo.id/hotel-sitemap.xml

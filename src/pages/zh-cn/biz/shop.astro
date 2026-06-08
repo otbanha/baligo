@@ -1,0 +1,23 @@
+---
+import BizLayout from '../../../layouts/BizLayout.astro';
+import BizCategory from '../../../components/BizCategory.astro';
+import { getBizListings } from '../../../lib/getBizListings';
+
+const all = await getBizListings();
+const listings = all.filter(b => b.category === 'shop');
+const featured = listings.filter(b => b.featured).sort(() => Math.random() - 0.5);
+const regular  = listings.filter(b => !b.featured);
+---
+
+<BizLayout
+  title="巴厘岛购物 / 手信推荐"
+  description="巴厘岛中文购物推荐，手信、手工艺品、特色商店一次找到。"
+>
+  <BizCategory
+    title="🛍️ 购物 / 手信"
+    description="巴厘岛必买手信与特色购物店，中文服务让你买得开心"
+    featured={featured}
+    regular={regular}
+    lang="zh-cn"
+  />
+</BizLayout>

@@ -1,0 +1,129 @@
+---
+slug: nusa-penida-luxury-tour
+title: ⭐✨网红秘境+佩尼达岛东西岸五日轻奢之旅 ✨⭐
+description: 让你一次拥有无敌海景、竹林生态、私人泳池VILLA，还有超梦幻的漂浮早餐和海景SPA按摩！这是一场专为网红打造的梦幻旅程，快来感受佩尼达岛的绝美风光吧！
+pubDate: 2025-02-16T00:00:00.000Z
+category:
+  - 美食景點活動
+tags: []
+heroImage: 'https://images.gobaligo.id/vocus/vocus_5d922971dbbd4941baab8e27787428fe.jpg'
+originalUrl: 'https://vocus.cc/article/67b1b9e2fd89780001ab13ac'
+lang: zh-cn
+_srcHash: 45976e56d1eda096a6bb0075a7950210
+---
+
+让你一次拥有无敌海景、竹林生态、私人泳池VILLA，还有超梦幻的漂浮早餐和海景SPA按摩！这是一场专为网红打造的梦幻旅程，快来感受巴厘岛+佩尼达岛的绝美风光吧！
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_f648659463f4ab0eb8d1073403822367.jpg)
+
+![兩天一夜在佩尼達島，東西岸精華盡收眼底！](https://images.gobaligo.id/vocus/vocus_c2f532a3d57380efe193d5942bf928e5.jpg)
+
+两天一夜在佩尼达岛，东西岸精华尽收眼底！
+
+***
+
+## 🌟 **行程亮点抢先看** 🌟
+
+1. **网红景点打卡**：佩尼达岛住一晚，东西岸的精华景点一次收录，保证让你拍到手软！
+2. **蓝色公路**：壮丽悬崖之中的公路，网红必拍！
+3. **秘境海滩**：隐藏在悬崖下的神秘海滩，清澈海水与奇特岩石交织，网红必访之地！
+4. **东岸水上宫殿**：仿佛漂浮在水上的梦幻宫殿，浪漫指数破表！
+5. **海景SPA按摩**：一边欣赏着宽阔美景，一边享受专业按摩，身心灵彻底放松～
+6. **瀑布俱乐部**：探索瀑布秘境，感受清凉与冒险的双重体验！
+7. **乌布艺术市场**：巴厘岛的文化心脏，充满手工艺品、传统服饰和在地艺术品，让你轻松带回独一无二的纪念品！
+
+***
+
+## 🏨 特色**住宿安排**
+
+#### **海景网红房**：醒来就是无边际海景，浪漫到不行！
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882579000-1739702997224.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882579421-1739702997760.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882579927-1739703012431.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882580292-1739703012534.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882580682-1739703012757.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882581083-1739702994276.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882581506-1739702994380.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882581931-1739702994472.jpg)
+
+#### **竹林生态屋**：与大自然共眠，感受独特的生态魅力。
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882734128-1739703698195.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882734674-1739703697078.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882735234-1739703709544.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882735735-1739703710579.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882736286-1739703697078.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882736671-1739703696410.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882737049-1739703685888.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882737426-1739703694111.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882737858-1739703694211.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882738239-1739703694281.jpg)
+
+#### **私人泳池别墅**：奢华又私密，绝对是你的度假首选！
+
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882812084-1739703859323.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882812543-1739703858624.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882813006-1739703858729.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882813496-1739703858798.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882814011-1739703859848.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882814610-1739703860348.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882815431-1739703860867.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882816130-1739703861356.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882816722-1739703861762.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882817347-1739703862263.jpg)
+![raw-image](https://images.gobaligo.id/images/2026-03/1774882817928-1739703871798.jpg)
+
+https://youtu.be/cikegen9rIE?si=oo_bD2UNFaiXhUKI
+
+***
+
+## 🍽️ **美食推荐**
+
+除了美景，我们还为你精选了当地特色美食，让你的味蕾也来一场旅行！
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_ab5f490a0638fbb1c0bd079aed26e11d.jpg)
+
+***
+
+## 其他亮点
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_5ff1dcc59d0a2a5cb12e34d36ec3f2a8.jpg)
+
+![還有更多精彩景點喔！](https://images.gobaligo.id/vocus/vocus_6ea1b91369688971ce287790025c64d1.jpg)
+
+还有更多精彩景点喔！
+
+## 💡 **项目包含**
+
+✅ 全程住宿含早餐
+
+✅ 所有行程景点门票
+
+✅ 全程包车司机+导游服务
+
+✅ 佩尼达岛来回船票
+
+✅ 部分精选餐食
+
+***
+
+### ❗ **注意事项** ❗
+
+1. 💰 **超值价 USD$604/人** 💰填写报名表即享有优惠！
+2. **不包含机票**：旅客可自行购买或联系客服代订。
+3. **适用出发日期**：即日起至2026年12月（假期报价另计）。
+4. **二人成行优惠价**：人数不同请洽客服询价。
+5. **特价专案**：一经确认不得取消及退款，请务必确认行程后再报名哦！
+
+***
+
+📸 准备好你的相机，来一场说走就走的网红之旅吧！
+
+👉 名额有限，快来抢订！让佩尼达岛的美景成为你的专属回忆！
+
+{{block:tour-form-penida}}
+
+&nbsp;
+
+{{block:isbali2}}

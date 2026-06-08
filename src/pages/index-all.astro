@@ -1,0 +1,360 @@
+---
+import { getCollection } from 'astro:content';
+function getPublishTime(p: any): number {
+  if (!p.data.pubDate) return 0;
+  const d = new Date(p.data.pubDate);
+  if (p.data.pubHour != null) d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
+  return d.valueOf();
+}
+
+const posts = await getCollection('blog');
+const sorted = posts.sort((a, b) => getPublishTime(b) - getPublishTime(a));
+
+// Build slug → title map for client-side use
+const articleMap = Object.fromEntries(
+  posts.map(p => [`/blog/${p.id}/`, p.data.title])
+);
+
+// Collect unique categories
+const allCats = new Set<string>();
+posts.forEach(p => {
+  const cats = Array.isArray(p.data.category) ? p.data.category : (p.data.category ? [p.data.category] : []);
+  cats.forEach((c: string) => { if (c) allCats.add(c); });
+});
+const categories = Array.from(allCats).sort();
+---
+<html>
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>文章索引 — gobaligo</title>
+  <style>
+    body { font-family: sans-serif; padding: 1.5rem; max-width: 960px; margin: 0 auto; color: #1a1a1a; }
+    h1 { font-size: 1.3rem; margin-bottom: 0.5rem; }
+    .toolbar { display: flex; gap: 0.6rem; margin-bottom: 1rem; flex-wrap: wrap; align-items: center; }
+    input { flex: 1; min-width: 180px; padding: 0.45rem 0.8rem; font-size: 0.95rem; border: 1px solid #ccc; border-radius: 8px; }
+    .tabs { display: flex; gap: 0.4rem; }
+    .tab {
+      padding: 0.4rem 1rem; border-radius: 8px; border: 1px solid #ccc;
+      background: #fff; cursor: pointer; font-size: 0.88rem; font-weight: 600;
+      transition: all 0.15s;
+    }
+    .tab.active { background: #5D4037; color: #fff; border-color: #5D4037; }
+    #stats-status { font-size: 0.8rem; color: #888; }
+    table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
+    th {
+      background: #5D4037; color: #d4b47a; padding: 0.55rem 0.8rem;
+      text-align: left; font-size: 0.82rem; letter-spacing: 0.03em; position: sticky; top: 0;
+    }
+    td { padding: 0.5rem 0.8rem; border-bottom: 1px solid #eee; vertical-align: middle; }
+    tr:hover td { background: #faf8f3; }
+    .num { color: #888; font-size: 0.8rem; }
+    .views-cell { font-weight: 700; color: #5D4037; white-space: nowrap; }
+    .views-bar {
+      display: inline-block; height: 6px; background: #C5A059;
+      border-radius: 3px; margin-left: 0.4rem; vertical-align: middle; opacity: 0.7;
+    }
+    .title-link { color: #5D4037; text-decoration: none; font-weight: 500; }
+    .title-link:hover { text-decoration: underline; color: #C5A059; }
+    .slug-cell { font-family: monospace; font-size: 0.78rem; color: #777; cursor: pointer; user-select: all; transition: background 0.15s, color 0.15s; }
+    .slug-cell:hover { background: #f0f0f0; }
+    .slug-cell.copied { background: #d4edda; color: #1a6b35; }
+    .cat-select {
+      padding: 0.4rem 0.75rem; font-size: 0.88rem; border: 1px solid #ccc;
+      border-radius: 8px; background: #fff; cursor: pointer; color: #1a1a1a;
+    }
+    .cat-select:focus { outline: none; border-color: #5D4037; }
+    .hidden { display: none !important; }
+
+    /* ── 近7天排行榜 ──────────────────────────────────────────────────────── */
+    #panel-7d { display: none; }
+    #panel-7d.active { display: block; }
+    .rank-header {
+      display: flex; align-items: center; gap: 0.6rem; margin-bottom: 1rem;
+    }
+    .rank-header h2 { font-size: 1rem; font-weight: 800; color: #5D4037; margin: 0; }
+    .rank-badge {
+      font-size: 0.75rem; background: #f0ece2; color: #8B6914;
+      padding: 0.2em 0.7em; border-radius: 12px; font-weight: 700;
+    }
+    .rank-list { display: flex; flex-direction: column; gap: 0.55rem; max-width: 780px; }
+    .rank-item {
+      display: flex; align-items: center; gap: 0.9rem;
+      background: #fff; border: 1px solid #e8e4da; border-radius: 10px;
+      padding: 0.65rem 1rem; transition: border-color 0.15s;
+    }
+    .rank-item:hover { border-color: #C5A059; }
+    .rank-pos {
+      flex-shrink: 0; width: 2rem; text-align: center;
+      font-size: 1.1rem; font-weight: 900; color: #ccc;
+    }
+    .rank-pos.gold   { color: #C5A059; }
+    .rank-pos.silver { color: #8a9ba8; }
+    .rank-pos.bronze { color: #b87040; }
+    .rank-title {
+      flex: 1; min-width: 0;
+      font-size: 0.88rem; font-weight: 600; color: #5D4037;
+      text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .rank-title:hover { color: #C5A059; text-decoration: underline; }
+    .rank-views {
+      flex-shrink: 0; font-size: 0.82rem; font-weight: 700;
+      color: #5D4037; white-space: nowrap;
+    }
+    .rank-views span { color: #aaa; font-weight: 400; margin-left: 0.2em; font-size: 0.75rem; }
+    .rank-bar-wrap { flex-shrink: 0; width: 60px; }
+    .rank-bar {
+      height: 5px; background: #C5A059; border-radius: 3px; opacity: 0.6;
+    }
+    .rank-empty { color: #aaa; font-size: 0.88rem; padding: 1.5rem 0; }
+    @media (max-width: 600px) {
+      td.slug-cell { display: none; }
+      th.slug-th { display: none; }
+      .rank-bar-wrap { display: none; }
+    }
+  </style>
+</head>
+<body>
+  <h1>文章索引（共 {sorted.length} 篇）</h1>
+
+  <div class="toolbar">
+    <input type="text" id="search" placeholder="搜尋標題..." autocomplete="off" />
+    <select class="cat-select" id="cat-filter">
+      <option value="">全部分類</option>
+      {categories.map(c => <option value={c}>{c}</option>)}
+    </select>
+    <div class="tabs">
+      <button class="tab active" id="tab-latest">最新</button>
+      <button class="tab" id="tab-popular">🔥 最多人看</button>
+      <button class="tab" id="tab-7d">📅 近7天</button>
+    </div>
+    <span id="stats-status">載入瀏覽數中…</span>
+  </div>
+
+  <!-- 近7天排行榜 -->
+  <div id="panel-7d">
+    <div class="rank-header">
+      <h2>近 7 天瀏覽排行</h2>
+      <span class="rank-badge" id="rank-date-range"></span>
+    </div>
+    <div class="rank-list" id="rank-list">
+      <p class="rank-empty">載入中…</p>
+    </div>
+  </div>
+
+  <table id="panel-table">
+    <thead>
+      <tr>
+        <th style="width:2.5rem">#</th>
+        <th>標題</th>
+        <th class="slug-th" style="width:220px">網址</th>
+        <th style="width:90px">瀏覽</th>
+      </tr>
+    </thead>
+    <tbody id="list">
+      {sorted.map((post, i) => (
+        <tr
+          class="row"
+          data-slug={`/blog/${post.id}/`}
+          data-title={post.data.title.toLowerCase()}
+          data-date={new Date(post.data.pubDate).getTime()}
+          data-category={(Array.isArray(post.data.category) ? post.data.category : (post.data.category ? [post.data.category] : [])).join(',')}
+        >
+          <td class="num">{i + 1}</td>
+          <td>
+            <a class="title-link" href={`/blog/${post.id}/`} target="_blank">
+              {post.data.title}
+            </a>
+          </td>
+          <td class="slug-cell">/blog/{post.id}/</td>
+          <td class="views-cell" data-views="0">—</td>
+        </tr>
+      ))}
+    </tbody>
+  </table>
+
+  <script define:vars={{ articleMap }}>
+    const rows = Array.from(document.querySelectorAll('.row'));
+    const tbody = document.getElementById('list');
+    const searchInput = document.getElementById('search');
+    const catFilter = document.getElementById('cat-filter');
+    const statusEl = document.getElementById('stats-status');
+    const tabLatest = document.getElementById('tab-latest');
+    const tabPopular = document.getElementById('tab-popular');
+
+    let viewsMap = {}; // slug → views
+    let sortMode = 'latest'; // 'latest' | 'popular'
+
+    // ── Combined filter ────────────────────────────────────────────────────────
+    function applyFilter() {
+      const q = searchInput.value.toLowerCase();
+      const cat = catFilter.value;
+      rows.forEach(row => {
+        const matchSearch = !q || row.dataset.title.includes(q);
+        const matchCat = !cat || (row.dataset.category || '').split(',').includes(cat);
+        row.classList.toggle('hidden', !matchSearch || !matchCat);
+      });
+      applySort();
+    }
+
+    searchInput.addEventListener('input', applyFilter);
+    catFilter.addEventListener('change', applyFilter);
+
+    // ── Sort ───────────────────────────────────────────────────────────────────
+    function applySort() {
+      const visible = rows.filter(r => !r.classList.contains('hidden'));
+      if (sortMode === 'popular') {
+        visible.sort((a, b) => {
+          const va = viewsMap[a.dataset.slug] || 0;
+          const vb = viewsMap[b.dataset.slug] || 0;
+          return vb - va;
+        });
+      } else {
+        visible.sort((a, b) => Number(b.dataset.date) - Number(a.dataset.date));
+      }
+      // Re-index
+      visible.forEach((row, i) => {
+        row.querySelector('.num').textContent = i + 1;
+        tbody.appendChild(row);
+      });
+    }
+
+    const tab7d = document.getElementById('tab-7d');
+    const panelTable = document.getElementById('panel-table');
+    const panel7d = document.getElementById('panel-7d');
+    const rankList = document.getElementById('rank-list');
+    const rankDateRange = document.getElementById('rank-date-range');
+    let rank7dLoaded = false;
+
+    function showTablePanel() {
+      panelTable.style.display = '';
+      panel7d.classList.remove('active');
+    }
+
+    function show7dPanel() {
+      panelTable.style.display = 'none';
+      panel7d.classList.add('active');
+      if (!rank7dLoaded) load7dRanking();
+    }
+
+    tabLatest.addEventListener('click', () => {
+      sortMode = 'latest';
+      tabLatest.classList.add('active');
+      tabPopular.classList.remove('active');
+      tab7d.classList.remove('active');
+      showTablePanel();
+      applySort();
+    });
+
+    tabPopular.addEventListener('click', () => {
+      sortMode = 'popular';
+      tabPopular.classList.add('active');
+      tabLatest.classList.remove('active');
+      tab7d.classList.remove('active');
+      showTablePanel();
+      applySort();
+    });
+
+    tab7d.addEventListener('click', () => {
+      tab7d.classList.add('active');
+      tabLatest.classList.remove('active');
+      tabPopular.classList.remove('active');
+      show7dPanel();
+    });
+
+    // ── 近7天排行榜 ────────────────────────────────────────────────────────────
+    async function load7dRanking() {
+      rank7dLoaded = true;
+      try {
+        const res = await fetch('/api/pageview?range=7d');
+        if (!res.ok) throw new Error('API error');
+        const data = await res.json(); // [{ slug, views }]
+
+        // Set date range badge
+        const today = new Date();
+        const weekAgo = new Date(today);
+        weekAgo.setDate(weekAgo.getDate() - 6);
+        const fmt = d => `${d.getMonth() + 1}/${d.getDate()}`;
+        rankDateRange.textContent = `${fmt(weekAgo)} – ${fmt(today)}`;
+
+        const top10 = data.slice(0, 10);
+        if (!top10.length) {
+          rankList.innerHTML = '<p class="rank-empty">近 7 天尚無瀏覽資料（資料從啟用後開始累積）</p>';
+          return;
+        }
+
+        const maxViews = top10[0].views || 1;
+        const medals = ['🥇', '🥈', '🥉'];
+        const posClass = ['gold', 'silver', 'bronze'];
+
+        rankList.innerHTML = top10.map(({ slug, views }, i) => {
+          const title = articleMap[slug] || slug;
+          const barWidth = Math.max(4, Math.round((views / maxViews) * 60));
+          const posLabel = medals[i] || (i + 1);
+          const cls = posClass[i] || '';
+          return `<div class="rank-item">
+  <span class="rank-pos ${cls}">${posLabel}</span>
+  <a class="rank-title" href="${slug}" target="_blank">${title}</a>
+  <div class="rank-bar-wrap"><div class="rank-bar" style="width:${barWidth}px"></div></div>
+  <span class="rank-views">${views.toLocaleString()}<span>次</span></span>
+</div>`;
+        }).join('');
+      } catch {
+        rankList.innerHTML = '<p class="rank-empty">載入失敗，請稍後再試</p>';
+      }
+    }
+
+    // ── Load view counts ───────────────────────────────────────────────────────
+    async function loadViews() {
+      try {
+        const res = await fetch('/api/pageview');
+        if (!res.ok) throw new Error('API error');
+        const data = await res.json(); // [{ slug, views }]
+
+        // Build map
+        data.forEach(({ slug, views }) => { viewsMap[slug] = views; });
+
+        // Compute max for bar scaling
+        const maxViews = data.length > 0 ? data[0].views : 1;
+
+        // Update cells
+        rows.forEach(row => {
+          const views = viewsMap[row.dataset.slug] || 0;
+          const cell = row.querySelector('.views-cell');
+          const barWidth = Math.max(4, Math.round((views / maxViews) * 60));
+          cell.dataset.views = views;
+          cell.innerHTML = views > 0
+            ? `${views.toLocaleString()}<span class="views-bar" style="width:${barWidth}px"></span>`
+            : '<span style="color:#ccc">0</span>';
+        });
+
+        statusEl.textContent = `共追蹤 ${data.length} 篇有瀏覽數`;
+
+        // If already in popular mode, re-sort with actual data
+        if (sortMode === 'popular') applySort();
+
+      } catch {
+        statusEl.textContent = '瀏覽數載入失敗';
+      }
+    }
+
+    loadViews();
+
+    // ── Click slug to copy ─────────────────────────────────────────────────────
+    document.querySelectorAll('.slug-cell').forEach(cell => {
+      cell.addEventListener('click', () => {
+        const slug = cell.textContent.trim();
+        navigator.clipboard.writeText('https://gobaligo.id' + slug).then(() => {
+          const prev = cell.textContent;
+          cell.textContent = '✓ 已複製';
+          cell.classList.add('copied');
+          setTimeout(() => {
+            cell.textContent = prev;
+            cell.classList.remove('copied');
+          }, 1200);
+        });
+      });
+    });
+  </script>
+</body>
+</html>

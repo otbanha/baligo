@@ -1,0 +1,488 @@
+---
+export const prerender = true;
+import { getCollection } from 'astro:content';
+
+function getPublishTime(p: any): number {
+  if (!p.data.pubDate) return 0;
+  const d = new Date(p.data.pubDate);
+  if (p.data.pubHour != null) d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
+  return d.valueOf();
+}
+
+const privatePosts = (await getCollection('blog'))
+  .filter(p => p.data.private === true)
+  .sort((a, b) => getPublishTime(b) - getPublishTime(a));
+
+const privatePostsJson = JSON.stringify(privatePosts.map(p => ({
+  id: p.id,
+  title: p.data.title,
+  description: p.data.description || '',
+  pubDate: p.data.pubDate ? new Date(p.data.pubDate).toISOString().split('T')[0] : '',
+  category: Array.isArray(p.data.category) ? p.data.category[0] : (p.data.category || ''),
+  url: `/blog/${p.id}/`,
+})));
+---
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Atlas — gobaligo 後台</title>
+  <meta name="robots" content="noindex, nofollow" />
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+    html, body { height: 100%; overflow: hidden; }
+    body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+           background: #3A2820; color: #F5E6D3; display: flex; flex-direction: column; }
+
+    /* ── Auth ─────────────────────────────────────────────────────── */
+    #auth-wall {
+      position: fixed; inset: 0; background: #3A2820;
+      display: flex; align-items: center; justify-content: center; z-index: 999;
+    }
+    .auth-box {
+      background: #4A3228; border: 1px solid rgba(197,160,89,0.25); border-radius: 14px;
+      padding: 2.2rem 2.4rem; width: min(340px, calc(100vw - 2rem)); box-shadow: 0 8px 40px rgba(0,0,0,.5);
+    }
+    .auth-logo { font-size: 1.5rem; font-weight: 800; color: #C5A059; margin-bottom: .3rem; }
+    .auth-sub  { font-size: .82rem; color: rgba(245,230,211,0.5); margin-bottom: 1.5rem; }
+    .auth-row  { display: flex; gap: .5rem; }
+    .auth-row input {
+      flex: 1; padding: .6rem .9rem; background: #2E1F18;
+      border: 1px solid rgba(197,160,89,0.25); border-radius: 8px; color: #F5E6D3;
+      font-size: .95rem; outline: none;
+    }
+    .auth-row input:focus { border-color: #C5A059; }
+    .auth-btn {
+      padding: .6rem 1.2rem; background: #5D4037; color: #fff; border: none;
+      border-radius: 8px; font-size: .9rem; font-weight: 700; cursor: pointer;
+    }
+    .auth-btn:hover { background: #E07530; }
+    .auth-err { color: #fc8181; font-size: .8rem; margin-top: .6rem; display: none; }
+
+    /* ── Shell ────────────────────────────────────────────────────── */
+    #shell { display: none; flex-direction: column; height: 100%; }
+
+    /* ── Tab Bar ──────────────────────────────────────────────────── */
+    .tabbar {
+      display: flex; align-items: stretch; gap: 4px;
+      background: #2E1F18; border-bottom: 2px solid rgba(197,160,89,0.3);
+      padding: 0 1.2rem; flex-shrink: 0; height: 64px;
+      overflow-x: auto; -webkit-overflow-scrolling: touch;
+      scrollbar-width: none;
+    }
+    .tabbar::-webkit-scrollbar { display: none; }
+    .tabbar-brand {
+      font-size: 1.15rem; font-weight: 800; color: #C5A059;
+      display: flex; align-items: center; padding-right: 1.4rem;
+      border-right: 1px solid rgba(197,160,89,0.2); margin-right: .6rem; letter-spacing: .04em;
+      flex-shrink: 0;
+    }
+    .tab {
+      display: flex; align-items: center; gap: .5em;
+      padding: 0 1.6rem; border: none; background: none;
+      color: rgba(245,230,211,0.55); font-size: 1.05rem; font-weight: 700;
+      cursor: pointer; border-bottom: 3px solid transparent;
+      transition: color .15s, border-color .15s, background .15s;
+      white-space: nowrap; font-family: inherit; border-radius: 6px 6px 0 0;
+      flex-shrink: 0;
+    }
+    .tab:hover  { color: #F5E6D3; background: rgba(255,255,255,0.06); }
+    .tab.active { color: #F5E6D3; border-bottom-color: #C5A059; background: rgba(197,160,89,.08); }
+    .tab .icon  { font-size: 1.2em; }
+
+    /* ── CMS Launch Button ────────────────────────────────────────── */
+    .tabbar-spacer { flex: 1; min-width: .5rem; }
+    .cms-btn {
+      display: flex; align-items: center; gap: .5em;
+      margin: auto 0; padding: .45rem 1.1rem;
+      background: #5D4037; color: #F5E6D3; border: none;
+      border-radius: 8px; font-size: .95rem; font-weight: 700;
+      cursor: pointer; text-decoration: none; white-space: nowrap;
+      transition: background .15s; font-family: inherit; flex-shrink: 0;
+    }
+    .cms-btn:hover { background: #E07530; }
+    .cms-btn .icon { font-size: 1.1em; }
+
+    /* ── Content ──────────────────────────────────────────────────── */
+    #content { flex: 1; overflow: hidden; position: relative; }
+
+    .panel {
+      position: absolute; inset: 0;
+      display: none;
+    }
+    .panel.active { display: flex; flex-direction: column; }
+
+    /* iframe panels */
+    .panel iframe {
+      width: 100%; flex: 1; border: none;
+      background: #fff;
+    }
+
+    /* external link panels */
+    .ext-panel {
+      flex: 1; display: flex; align-items: center; justify-content: center;
+      background: #3A2820;
+    }
+    .ext-card {
+      background: #4A3228; border: 1px solid rgba(197,160,89,0.25); border-radius: 16px;
+      padding: 2.4rem 2.8rem; text-align: center; max-width: 420px;
+      box-shadow: 0 8px 40px rgba(0,0,0,.4);
+    }
+    .ext-card .ext-icon { font-size: 2.8rem; margin-bottom: .8rem; }
+    .ext-card h2 { font-size: 1.25rem; color: #C5A059; margin-bottom: .5rem; font-weight: 800; }
+    .ext-card p  { font-size: .85rem; color: rgba(245,230,211,0.5); margin-bottom: 1.6rem; line-height: 1.6; }
+    .open-btn {
+      display: inline-flex; align-items: center; gap: .5em;
+      background: #5D4037; color: #fff; border: none; border-radius: 10px;
+      padding: .75rem 1.8rem; font-size: 1rem; font-weight: 700;
+      cursor: pointer; text-decoration: none; transition: background .15s;
+    }
+    .open-btn:hover { background: #E07530; }
+    .open-btn svg { width: 16px; height: 16px; flex-shrink: 0; }
+
+    /* ── Private Posts Panel ──────────────────────────────────────── */
+    .private-panel {
+      flex: 1; overflow-y: auto; padding: 1.4rem 1.8rem;
+      background: #3A2820;
+    }
+    .private-header {
+      display: flex; align-items: center; gap: 1rem; margin-bottom: 1.2rem;
+    }
+    .private-header h2 { font-size: 1.05rem; font-weight: 800; color: #C5A059; }
+    .private-count {
+      background: #4A3228; border: 1px solid rgba(197,160,89,0.25);
+      color: #9ab; font-size: 0.78rem; font-weight: 700;
+      padding: 0.2em 0.8em; border-radius: 20px;
+    }
+    .private-cms-link {
+      margin-left: auto; font-size: 0.8rem; color: rgba(245,230,211,0.55);
+      text-decoration: none; border: 1px solid rgba(197,160,89,0.25);
+      border-radius: 6px; padding: 0.3em 0.9em;
+      transition: border-color .15s, color .15s;
+    }
+    .private-cms-link:hover { border-color: #C5A059; color: #C5A059; }
+    .private-list { display: flex; flex-direction: column; gap: 0.5rem; }
+    .private-item {
+      background: #4A3228; border: 1px solid rgba(197,160,89,0.25); border-radius: 8px;
+      padding: 0.8em 1.1em; display: flex; align-items: center; gap: 1em;
+      transition: border-color .15s;
+    }
+    .private-item:hover { border-color: #C5A059; }
+    .private-meta { flex-shrink: 0; text-align: right; min-width: 80px; }
+    .private-date { font-size: 0.72rem; color: #4a5d72; }
+    .private-cat {
+      font-size: 0.68rem; background: rgba(197,160,89,.15); color: #C5A059;
+      padding: 0.15em 0.5em; border-radius: 10px; font-weight: 600;
+      display: inline-block; margin-top: 0.2em;
+    }
+    .private-body { flex: 1; min-width: 0; }
+    .private-title {
+      font-size: 0.88rem; font-weight: 700; color: #F5E6D3;
+      text-decoration: none; display: block; line-height: 1.4;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .private-title:hover { color: #C5A059; }
+    .private-desc {
+      font-size: 0.72rem; color: #4a5d72; margin-top: 0.2em;
+      white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+    }
+    .private-copy {
+      flex-shrink: 0; background: none; border: 1px solid rgba(197,160,89,0.25);
+      border-radius: 6px; padding: 0.3em 0.8em; font-size: 0.73rem;
+      color: rgba(245,230,211,0.55); cursor: pointer; transition: all .15s; white-space: nowrap;
+    }
+    .private-copy:hover { border-color: #C5A059; color: #C5A059; }
+    .private-copy.copied { border-color: #48bb78; color: #48bb78; }
+    .private-empty { color: #4a5d72; font-size: 0.9rem; text-align: center; padding: 3rem 0; }
+
+    /* ── Mobile ───────────────────────────────────────────────────── */
+    @media (max-width: 640px) {
+      /* Tab bar: smaller height, icon-only labels */
+      .tabbar { height: 52px; padding: 0 .5rem; gap: 2px; }
+      .tabbar-brand { font-size: .95rem; padding-right: .9rem; margin-right: .3rem; }
+      .tab { padding: 0 .9rem; font-size: .78rem; gap: .3em; }
+      .tab .tab-label { display: none; }
+      .tab .icon { font-size: 1.3em; }
+      .tab.active .tab-label { display: inline; font-size: .7rem; }
+      .cms-btn .cms-label { display: none; }
+      .cms-btn { padding: .45rem .7rem; }
+
+      /* iframe: 手機上可以 scroll */
+      .panel iframe { -webkit-overflow-scrolling: touch; overflow: auto; }
+
+      /* Private panel: stack vertically */
+      .private-panel { padding: 1rem; }
+      .private-header { flex-wrap: wrap; gap: .5rem; }
+      .private-cms-link { margin-left: 0; }
+      .private-item { flex-direction: column; align-items: flex-start; gap: .6em; }
+      .private-meta { text-align: left; min-width: unset; display: flex; gap: .5em; align-items: center; }
+      .private-title { white-space: normal; font-size: .85rem; }
+      .private-desc { white-space: normal; -webkit-line-clamp: 2; display: -webkit-box; -webkit-box-orient: vertical; overflow: hidden; }
+      .private-copy { align-self: flex-start; }
+    }
+  </style>
+</head>
+<body>
+
+<!-- Auth Wall -->
+<div id="auth-wall">
+  <div class="auth-box">
+    <div class="auth-logo">⚙️ Atlas</div>
+    <div class="auth-sub">gobaligo 後台管理中心</div>
+    <div class="auth-row">
+      <input type="password" id="token-input" placeholder="Admin token" />
+      <button class="auth-btn" id="token-submit">進入</button>
+    </div>
+    <div class="auth-err" id="auth-err">密碼錯誤，請再試一次</div>
+  </div>
+</div>
+
+<!-- Main Shell -->
+<div id="shell">
+  <!-- Tab Bar -->
+  <nav class="tabbar">
+    <div class="tabbar-brand">Atlas</div>
+    <button class="tab active" data-tab="index">   <span class="icon">📊</span><span class="tab-label"> 索引</span></button>
+    <button class="tab"        data-tab="upload">  <span class="icon">🖼️</span><span class="tab-label"> 圖片</span></button>
+    <button class="tab"        data-tab="shorturl"><span class="icon">🔗</span><span class="tab-label"> 短網址</span></button>
+    <button class="tab"        data-tab="hot">      <span class="icon">🔥</span><span class="tab-label"> 熱門</span></button>
+    <button class="tab"        data-tab="featured"><span class="icon">⭐</span><span class="tab-label"> 精選</span></button>
+    <button class="tab"        data-tab="videos">   <span class="icon">🎬</span><span class="tab-label"> 視頻</span></button>
+    <button class="tab"        data-tab="triplinks"><span class="icon">🗺️</span><span class="tab-label"> 行程規劃</span></button>
+    <button class="tab"        data-tab="private"> <span class="icon">🔒</span><span class="tab-label"> 私密</span></button>
+    <button class="tab"        data-tab="comments"><span class="icon">💬</span><span class="tab-label"> 留言</span></button>
+  </nav>
+
+  <!-- Content Panels -->
+  <div id="content">
+
+    <!-- 索引 -->
+    <div class="panel" id="panel-index">
+      <iframe id="iframe-index" title="文章索引"></iframe>
+    </div>
+
+    <!-- 圖片上傳 -->
+    <div class="panel" id="panel-upload">
+      <iframe id="iframe-upload" title="圖片上傳"></iframe>
+    </div>
+
+    <!-- 短網址 -->
+    <div class="panel" id="panel-shorturl">
+      <iframe id="iframe-shorturl" title="短網址管理"></iframe>
+    </div>
+
+    <!-- 本週熱門 -->
+    <div class="panel" id="panel-hot">
+      <iframe id="iframe-hot" title="本週熱門文章"></iframe>
+    </div>
+
+    <!-- 編輯精選 -->
+    <div class="panel" id="panel-featured">
+      <iframe id="iframe-featured" title="編輯精選"></iframe>
+    </div>
+
+    <!-- 首頁視頻 -->
+    <div class="panel" id="panel-videos">
+      <iframe id="iframe-videos" title="首頁視頻管理"></iframe>
+    </div>
+
+    <!-- 🗺️ 行程規劃連結 -->
+    <div class="panel" id="panel-triplinks">
+      <iframe id="iframe-triplinks" title="行程規劃連結管理"></iframe>
+    </div>
+
+    <!-- 🔒 私密文章 -->
+    <div class="panel" id="panel-private">
+      <div class="private-panel">
+        <div class="private-header">
+          <h2>🔒 私密文章</h2>
+          <span class="private-count" id="private-count">0 篇</span>
+          <a class="private-cms-link" href="/admin/#/collections/blog" target="_blank">→ 前往 CMS</a>
+        </div>
+        <div class="private-list" id="private-list"></div>
+      </div>
+    </div>
+
+    <!-- 💬 留言管理 -->
+    <div class="panel" id="panel-comments">
+      <div class="private-panel" id="comments-mgmt">
+        <div class="private-header">
+          <h2>💬 留言管理</h2>
+          <span class="private-count" id="comments-count">0 則</span>
+          <button class="private-cms-link" id="comments-refresh" style="cursor:pointer;border:1px solid rgba(197,160,89,0.25);border-radius:6px;padding:0.3em 0.9em;background:none;color:rgba(245,230,211,0.55);font-size:0.8rem;">↺ 重新整理</button>
+        </div>
+        <div class="private-list" id="comments-list-mgmt"></div>
+      </div>
+    </div>
+
+  </div><!-- /content -->
+</div><!-- /shell -->
+
+<script is:inline define:vars={{ privatePostsJson }}>
+  var TAB_URLS = {
+    index:     '/index-all/',
+    upload:    '/admin/upload/',
+    shorturl:  '/go/',
+    hot:       '/admin/hot/',
+    featured:  '/admin/featured/',
+    videos:    '/admin/videos/',
+    triplinks: '/admin/trip-planner/',
+  };
+
+  var privatePosts = JSON.parse(privatePostsJson);
+
+  function renderPrivate() {
+    var list = document.getElementById('private-list');
+    var badge = document.getElementById('private-count');
+    badge.textContent = privatePosts.length + ' 篇';
+    if (privatePosts.length === 0) {
+      list.innerHTML = '<p class="private-empty">目前沒有私密文章</p>';
+      return;
+    }
+    list.innerHTML = privatePosts.map(function(p) {
+      return '<div class="private-item">' +
+        '<div class="private-meta">' +
+          '<div class="private-date">' + p.pubDate + '</div>' +
+          (p.category ? '<div class="private-cat">' + p.category + '</div>' : '') +
+        '</div>' +
+        '<div class="private-body">' +
+          '<a class="private-title" href="' + p.url + '" target="_blank">' + p.title + '</a>' +
+          (p.description ? '<div class="private-desc">' + p.description + '</div>' : '') +
+        '</div>' +
+        '<button class="private-copy" data-url="https://gobaligo.id' + p.url + '">複製連結</button>' +
+      '</div>';
+    }).join('');
+
+    list.querySelectorAll('.private-copy').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        navigator.clipboard.writeText(btn.dataset.url).then(function() {
+          btn.textContent = '已複製 ✓';
+          btn.classList.add('copied');
+          setTimeout(function() { btn.textContent = '複製連結'; btn.classList.remove('copied'); }, 2000);
+        });
+      });
+    });
+  }
+
+  var loaded = {};
+
+  function activateTab(tabId) {
+    document.querySelectorAll('.tab').forEach(function(btn) {
+      btn.classList.toggle('active', btn.getAttribute('data-tab') === tabId);
+    });
+    document.querySelectorAll('.panel').forEach(function(panel) {
+      panel.classList.toggle('active', panel.id === 'panel-' + tabId);
+    });
+    var iframe = document.getElementById('iframe-' + tabId);
+    if (iframe && !loaded[tabId] && TAB_URLS[tabId]) {
+      iframe.src = TAB_URLS[tabId];
+      loaded[tabId] = true;
+    }
+    if (tabId === 'private' && !loaded['private']) {
+      renderPrivate();
+      loaded['private'] = true;
+    }
+    if (tabId === 'comments') {
+      loadComments();
+    }
+  }
+
+  var adminToken = '';
+
+  function loadComments() {
+    var list  = document.getElementById('comments-list-mgmt');
+    var badge = document.getElementById('comments-count');
+    list.innerHTML = '<p class="private-empty">載入中⋯</p>';
+    fetch('/api/comments/all', {
+      headers: { 'X-Admin-Token': adminToken },
+    })
+      .then(function(r) { return r.json(); })
+      .then(function(items) { renderCommentsMgmt(items, badge, list); })
+      .catch(function() {
+        list.innerHTML = '<p class="private-empty">載入失敗</p>';
+      });
+  }
+
+  function renderCommentsMgmt(items, badge, list) {
+    badge.textContent = items.length + ' 則';
+    if (!items.length) {
+      list.innerHTML = '<p class="private-empty">目前沒有留言</p>';
+      return;
+    }
+    list.innerHTML = items.map(function(c) {
+      var date = new Date(c.created_at).toISOString().replace('T',' ').slice(0,16);
+      return '<div class="private-item" id="comment-row-' + c.id + '">' +
+        '<div class="private-meta">' +
+          '<div class="private-date">' + date + '</div>' +
+          (c.slug ? '<a class="private-cat" href="/blog/' + c.slug + '/" target="_blank" style="text-decoration:none;">' + c.slug + ' ↗</a>' : '') +
+        '</div>' +
+        '<div class="private-body">' +
+          '<span class="private-title" style="display:block;white-space:normal;cursor:default">' + c.name + '</span>' +
+          '<div class="private-desc" style="white-space:normal;max-height:none">' + c.content + '</div>' +
+        '</div>' +
+        '<button class="private-copy" style="color:#fc8181;border-color:#fc8181" data-id="' + c.id + '">刪除</button>' +
+      '</div>';
+    }).join('');
+
+    list.querySelectorAll('[data-id]').forEach(function(btn) {
+      btn.addEventListener('click', function() {
+        if (!confirm('確定刪除這則留言？')) return;
+        var id = btn.dataset.id;
+        fetch('/api/comments?id=' + id, {
+          method: 'DELETE',
+          headers: { 'X-Admin-Token': adminToken },
+        }).then(function(r) {
+          if (r.ok) {
+            var row = document.getElementById('comment-row-' + id);
+            if (row) row.remove();
+            var cur = parseInt(badge.textContent);
+            badge.textContent = (cur - 1) + ' 則';
+          }
+        });
+      });
+    });
+  }
+
+  document.getElementById('comments-refresh')?.addEventListener('click', loadComments);
+
+  function unlock(token) {
+    if (token) adminToken = token;
+    document.getElementById('auth-wall').style.display = 'none';
+    document.getElementById('shell').style.display = 'flex';
+    activateTab('index');
+  }
+
+  document.querySelectorAll('.tab').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+      var tabId = btn.getAttribute('data-tab');
+      if (tabId) activateTab(tabId);
+    });
+  });
+
+  var tokenInput  = document.getElementById('token-input');
+  var tokenSubmit = document.getElementById('token-submit');
+  var authErr     = document.getElementById('auth-err');
+
+  tokenInput.addEventListener('keydown', function(e) {
+    if (e.key === 'Enter') tokenSubmit.click();
+  });
+
+  tokenSubmit.addEventListener('click', async function() {
+    var t = tokenInput.value.trim();
+    if (!t) return;
+    var res = await fetch('/api/shortlinks?id=__verify__', {
+      method: 'DELETE',
+      headers: { 'X-Admin-Token': t },
+    });
+    if (res.status === 401) { authErr.style.display = 'block'; return; }
+    sessionStorage.setItem('sl-token', t);
+    authErr.style.display = 'none';
+    unlock(t);
+  });
+
+  var saved = sessionStorage.getItem('sl-token');
+  if (saved) unlock(saved);
+</script>
+</body>
+</html>

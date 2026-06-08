@@ -1,0 +1,23 @@
+---
+import BizLayout from '../../../layouts/BizLayout.astro';
+import BizCategory from '../../../components/BizCategory.astro';
+import { getBizListings } from '../../../lib/getBizListings';
+
+const all = await getBizListings();
+const listings = all.filter(b => b.category === 'tour');
+const featured = listings.filter(b => b.featured).sort(() => Math.random() - 0.5);
+const regular  = listings.filter(b => !b.featured);
+---
+
+<BizLayout
+  title="巴厘岛中文旅游服务 / 导游推荐"
+  description="巴厘岛中文导游、包车、旅游服务推荐，让你的旅程更顺畅。"
+>
+  <BizCategory
+    title="🌴 旅游服务 / 导游"
+    description="专业中文导游与包车服务，巴厘岛玩透透不怕沟通"
+    featured={featured}
+    regular={regular}
+    lang="zh-cn"
+  />
+</BizLayout>

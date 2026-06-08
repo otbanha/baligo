@@ -1,0 +1,626 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
+import Footer from '../../components/Footer.astro';
+
+const title = '分享牆管理｜gobaligo.id';
+const description = '分享牆後台管理頁面';
+---
+
+<!doctype html>
+<html lang="zh-TW">
+  <head>
+    <BaseHead title={title} description={description} noSuffix={true} />
+    <meta name="robots" content="noindex,nofollow" />
+    <style is:global>
+      .admin-page { max-width: 1100px; margin: 0 auto; padding: 1.5rem 1rem 4rem; }
+      .admin-header {
+        display: flex; align-items: center; gap: 1rem; margin-bottom: 1.5rem;
+        flex-wrap: wrap;
+      }
+      .admin-header h1 { font-size: 1.3rem; font-weight: 800; margin: 0; }
+      .back-link {
+        color: #1a6fad; font-size: 0.85rem; text-decoration: none; font-weight: 600;
+      }
+      .back-link:hover { text-decoration: underline; }
+
+      /* Stats */
+      .stats-row { display: flex; gap: 1rem; margin-bottom: 1.5rem; flex-wrap: wrap; }
+      .stat-card {
+        flex: 1; min-width: 140px; background: #f8f8f8; border: 1px solid #e5e5e5;
+        border-radius: 12px; padding: 0.9rem 1.2rem; text-align: center;
+      }
+      .stat-num { font-size: 2rem; font-weight: 800; color: #1a6fad; line-height: 1.1; }
+      .stat-label { font-size: 0.8rem; color: #888; margin-top: 0.2rem; }
+
+      /* Tabs */
+      .admin-tabs { display: flex; border-bottom: 2px solid #eee; margin-bottom: 1rem; }
+      .admin-tab {
+        padding: 0.6rem 1.2rem; font-size: 0.9rem; font-weight: 600; color: #888;
+        background: none; border: none; cursor: pointer;
+        border-bottom: 2px solid transparent; margin-bottom: -2px;
+        transition: color 0.15s;
+      }
+      .admin-tab.active { color: #1a6fad; border-bottom-color: #1a6fad; }
+
+      /* Toolbar */
+      .admin-toolbar {
+        display: flex; gap: 0.5rem; flex-wrap: wrap; align-items: center;
+        margin-bottom: 0.9rem;
+      }
+      .admin-search {
+        flex: 1; min-width: 180px; padding: 0.55rem 0.8rem;
+        border: 1.5px solid #ddd; border-radius: 8px; font-size: 0.88rem; outline: none;
+      }
+      .admin-search:focus { border-color: #1a6fad; }
+      .admin-select {
+        padding: 0.5rem 0.7rem; border: 1.5px solid #ddd; border-radius: 8px;
+        font-size: 0.85rem; background: #fff; cursor: pointer; outline: none;
+      }
+      .batch-btn {
+        padding: 0.5rem 1rem; border-radius: 8px; border: none; cursor: pointer;
+        font-size: 0.85rem; font-weight: 600; transition: background 0.15s;
+      }
+      .batch-soft  { background: #fff3e0; color: #e65100; }
+      .batch-soft:hover  { background: #ffe0b2; }
+      .batch-block { background: #fff5f5; color: #c62828; }
+      .batch-block:hover { background: #ffcdd2; }
+      .batch-btn:disabled { opacity: 0.5; cursor: default; }
+
+      /* Table */
+      .admin-table-wrap { overflow-x: auto; }
+      table { width: 100%; border-collapse: collapse; font-size: 0.85rem; }
+      th {
+        text-align: left; padding: 0.55rem 0.6rem; background: #f5f5f5;
+        border-bottom: 2px solid #e0e0e0; font-weight: 700; white-space: nowrap;
+        color: #444;
+      }
+      td { padding: 0.5rem 0.6rem; border-bottom: 1px solid #f0f0f0; vertical-align: middle; }
+      tr:hover td { background: #fafafa; }
+      .td-thumb { width: 44px; height: 44px; object-fit: cover; border-radius: 6px; background: #f0f0f0; }
+      .td-icon  { width: 44px; height: 44px; border-radius: 6px; display: flex; align-items: center; justify-content: center; font-size: 1.4rem; }
+      .td-title { max-width: 240px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-weight: 600; }
+      .td-url   { max-width: 200px; overflow: hidden; white-space: nowrap; text-overflow: ellipsis; font-size: 0.78rem; color: #888; }
+      .plat-badge {
+        font-size: 0.72rem; font-weight: 700; padding: 0.15rem 0.5rem;
+        border-radius: 10px; white-space: nowrap;
+      }
+      .plat-youtube   { background: #ffe8e8; color: #c00; }
+      .plat-threads   { background: #e8e8e8; color: #111; }
+      .plat-instagram { background: #fce4ff; color: #a100c8; }
+      .plat-facebook  { background: #e8f0ff; color: #1877f2; }
+      .plat-tiktok    { background: #e8f9ff; color: #010101; }
+
+      .tbl-act-btn {
+        background: none; border: 1px solid #e0e0e0; border-radius: 6px;
+        padding: 0.25rem 0.5rem; font-size: 0.78rem; cursor: pointer;
+        transition: background 0.12s, color 0.12s; font-weight: 600; margin-right: 0.2rem;
+      }
+      .tbl-soft  { color: #e65100; }
+      .tbl-soft:hover  { background: #fff3e0; border-color: #e65100; }
+      .tbl-block { color: #c62828; }
+      .tbl-block:hover { background: #fff5f5; border-color: #c62828; }
+      .tbl-unblock { color: #2563eb; }
+      .tbl-unblock:hover { background: #eff6ff; border-color: #2563eb; }
+
+      .row-check { width: 18px; height: 18px; cursor: pointer; }
+      .select-all { width: 18px; height: 18px; cursor: pointer; }
+
+      .empty-row td { text-align: center; padding: 2rem; color: #aaa; }
+
+      /* Auth wall */
+      #auth-wall { text-align: center; padding: 4rem 2rem; color: #c00; font-size: 1rem; }
+
+      /* Toast */
+      .a-toast {
+        position: fixed; bottom: 1rem; left: 50%; transform: translateX(-50%);
+        background: #222; color: #fff; padding: 0.6rem 1.4rem;
+        border-radius: 8px; font-size: 0.87rem; font-weight: 600;
+        z-index: 1100; opacity: 0; transition: opacity 0.2s;
+        pointer-events: none; white-space: nowrap;
+      }
+      .a-toast.show { opacity: 1; }
+
+      @media (max-width: 640px) {
+        .admin-toolbar { flex-direction: column; align-items: stretch; }
+        .admin-search, .admin-select { width: 100%; }
+      }
+    </style>
+  </head>
+  <body>
+    <Header basePath="tools/unfurl" />
+    <TopStrip lang="zh-tw" />
+
+    <main class="admin-page">
+      <div id="auth-wall" style="display:none">⛔ 無管理員權限，正在跳轉…</div>
+
+      <div id="admin-content" style="display:none">
+        <div class="admin-header">
+          <h1>⚙ 分享牆管理</h1>
+          <a class="back-link" href="/share/">← 返回分享牆</a>
+        </div>
+
+        <!-- Stats -->
+        <div class="stats-row">
+          <div class="stat-card"><div class="stat-num" id="stat-total">–</div><div class="stat-label">本週貼文</div></div>
+          <div class="stat-card"><div class="stat-num" id="stat-views">–</div><div class="stat-label">總觀看數</div></div>
+          <div class="stat-card"><div class="stat-num" id="stat-blocked">–</div><div class="stat-label">黑名單數量</div></div>
+        </div>
+
+        <!-- Tabs -->
+        <div class="admin-tabs">
+          <button class="admin-tab active" data-tab="posts">最近貼文</button>
+          <button class="admin-tab" data-tab="blocklist">黑名單</button>
+          <button class="admin-tab" data-tab="hot">熱門排行</button>
+        </div>
+
+        <!-- Tab: Posts -->
+        <div id="tab-posts">
+          <div class="admin-toolbar">
+            <input class="admin-search" id="posts-search" type="search" placeholder="搜尋標題或 URL…" />
+            <select class="admin-select" id="posts-plat">
+              <option value="">全部平台</option>
+              <option value="youtube">YouTube</option>
+              <option value="threads">Threads</option>
+              <option value="instagram">Instagram</option>
+              <option value="facebook">Facebook</option>
+              <option value="tiktok">TikTok</option>
+            </select>
+            <select class="admin-select" id="posts-sort">
+              <option value="newest">最新</option>
+              <option value="hottest">最熱</option>
+            </select>
+            <button class="batch-btn batch-soft" id="batch-soft-btn" disabled>🗑 批次軟刪</button>
+            <button class="batch-btn batch-block" id="batch-block-btn" disabled>🚫 批次封鎖</button>
+          </div>
+          <div class="admin-table-wrap">
+            <table id="posts-table">
+              <thead>
+                <tr>
+                  <th><input type="checkbox" class="select-all" id="select-all" /></th>
+                  <th>縮圖</th>
+                  <th>標題</th>
+                  <th>平台</th>
+                  <th>Views</th>
+                  <th>分享時間</th>
+                  <th>操作</th>
+                </tr>
+              </thead>
+              <tbody id="posts-tbody"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Tab: Blocklist -->
+        <div id="tab-blocklist" style="display:none">
+          <div class="admin-toolbar">
+            <input class="admin-search" id="bl-search" type="search" placeholder="搜尋被封鎖的 URL…" />
+          </div>
+          <div class="admin-table-wrap">
+            <table id="bl-table">
+              <thead>
+                <tr>
+                  <th>被封鎖 URL</th>
+                  <th>Hash</th>
+                  <th>封鎖時間</th>
+                  <th>到期</th>
+                  <th>操作</th>
+                </tr>
+              </thead>
+              <tbody id="bl-tbody"></tbody>
+            </table>
+          </div>
+        </div>
+
+        <!-- Tab: Hot -->
+        <div id="tab-hot" style="display:none">
+          <div class="admin-table-wrap">
+            <table id="hot-table">
+              <thead>
+                <tr>
+                  <th>#</th>
+                  <th>縮圖</th>
+                  <th>標題</th>
+                  <th>平台</th>
+                  <th>Views</th>
+                  <th>分享時間</th>
+                  <th>操作</th>
+                </tr>
+              </thead>
+              <tbody id="hot-tbody"></tbody>
+            </table>
+          </div>
+        </div>
+      </div>
+    </main>
+
+    <Footer />
+    <div class="a-toast" id="a-toast"></div>
+
+    <script>
+      // ── Utils ──
+      function esc(s) {
+        if (!s) return '';
+        return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+      }
+      function fmtDate(iso) {
+        try {
+          const d = new Date(iso);
+          return `${d.getFullYear()}/${String(d.getMonth()+1).padStart(2,'0')}/${String(d.getDate()).padStart(2,'0')} ${String(d.getHours()).padStart(2,'0')}:${String(d.getMinutes()).padStart(2,'0')}`;
+        } catch { return iso || '–'; }
+      }
+      function fmtTTL(isoExpiry) {
+        if (!isoExpiry) return '–';
+        try {
+          const diff = Math.max(0, new Date(isoExpiry) - Date.now());
+          const days = Math.floor(diff / 86400000);
+          const hrs  = Math.floor((diff % 86400000) / 3600000);
+          if (days > 0) return `${days}天`;
+          return `${hrs}小時`;
+        } catch { return '–'; }
+      }
+
+      let _toastTimer;
+      function toast(msg) {
+        const el = document.getElementById('a-toast');
+        el.textContent = msg; el.classList.add('show');
+        clearTimeout(_toastTimer);
+        _toastTimer = setTimeout(() => el.classList.remove('show'), 2400);
+      }
+
+      const PLAT_ICON = { youtube:'▶', threads:'◉', instagram:'◈', tiktok:'♪', facebook:'f' };
+      const META = new Set(['threads','instagram','facebook']);
+
+      // ── State ──
+      let allPosts = [];
+      let allHot   = [];
+      let allBl    = [];
+      let selectedIds = new Set();
+
+      // ── Auth check ──
+      async function init() {
+        try {
+          const res = await fetch('/api/admin/check');
+          const data = await res.json();
+          if (!data.isAdmin) {
+            document.getElementById('auth-wall').style.display = '';
+            setTimeout(() => { window.location.href = '/share/'; }, 1800);
+            return;
+          }
+        } catch {
+          document.getElementById('auth-wall').style.display = '';
+          setTimeout(() => { window.location.href = '/share/'; }, 1800);
+          return;
+        }
+        document.getElementById('admin-content').style.display = '';
+        await Promise.all([loadPosts(), loadBlocklist()]);
+        loadHot();
+      }
+
+      // ── Load data ──
+      async function loadPosts() {
+        try {
+          const res = await fetch('/api/recent-unfurls?limit=100');
+          const data = await res.json();
+          allPosts = data.items || [];
+          updateStats();
+          renderPosts();
+        } catch { toast('載入貼文失敗'); }
+      }
+
+      async function loadBlocklist() {
+        try {
+          const res = await fetch('/api/blocklist');
+          const data = await res.json();
+          allBl = data.items || [];
+          updateStats();
+          renderBlocklist();
+        } catch { toast('載入黑名單失敗'); }
+      }
+
+      async function loadHot() {
+        try {
+          const res = await fetch('/api/top-viewed');
+          const data = await res.json();
+          allHot = (data.items || []).filter(i => (i.views ?? 0) > 0);
+          renderHot();
+        } catch { toast('載入熱門排行失敗'); }
+      }
+
+      // ── Stats ──
+      function updateStats() {
+        document.getElementById('stat-total').textContent = allPosts.length;
+        const views = allPosts.reduce((s, i) => s + (i.views ?? 0), 0);
+        document.getElementById('stat-views').textContent = views;
+        document.getElementById('stat-blocked').textContent = allBl.length;
+      }
+
+      // ── Posts table ──
+      function getFilteredPosts() {
+        const q = document.getElementById('posts-search').value.trim().toLowerCase();
+        const plat = document.getElementById('posts-plat').value;
+        const sort = document.getElementById('posts-sort').value;
+
+        let list = [...allPosts];
+        if (q) list = list.filter(i =>
+          (i.title||'').toLowerCase().includes(q) ||
+          (i.sourceUrl||'').toLowerCase().includes(q) ||
+          (i.embedHandle||'').toLowerCase().includes(q)
+        );
+        if (plat) list = list.filter(i => i.platform === plat);
+        if (sort === 'hottest') list.sort((a,b) => (b.views??0)-(a.views??0));
+        else list.sort((a,b) => (b.fetchedAt||'').localeCompare(a.fetchedAt||''));
+        return list;
+      }
+
+      function renderPosts() {
+        const tbody = document.getElementById('posts-tbody');
+        const list = getFilteredPosts();
+        selectedIds.clear();
+        updateBatchBtns();
+
+        if (list.length === 0) {
+          tbody.innerHTML = '<tr class="empty-row"><td colspan="7">沒有資料</td></tr>';
+          return;
+        }
+        tbody.innerHTML = '';
+        list.forEach(item => {
+          const isEmbed = item.renderMode === 'embed' || META.has(item.platform);
+          const imgCell = isEmbed
+            ? `<div class="td-icon embed-ph-${item.platform}" style="font-size:1.4rem">${PLAT_ICON[item.platform]??'◉'}</div>`
+            : (item.thumbnail
+                ? `<img class="td-thumb" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="this.style.display='none'">`
+                : `<div class="td-icon" style="background:#f0f0f0">${PLAT_ICON[item.platform]??'?'}</div>`);
+
+          const titleStr = isEmbed
+            ? (item.embedHandle ? `${item.embedHandle} 的貼文` : `${item.platform} 貼文`)
+            : (item.title || item.authorName || '無標題');
+
+          const tr = document.createElement('tr');
+          tr.dataset.id = item.id;
+          tr.innerHTML = `
+            <td><input type="checkbox" class="row-check" value="${esc(item.id)}" /></td>
+            <td>${imgCell}</td>
+            <td>
+              <div class="td-title" title="${esc(item.title||'')}">
+                <a href="${esc(item.sourceUrl||'#')}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(titleStr)}</a>
+              </div>
+              <div class="td-url" title="${esc(item.sourceUrl||'')}">${esc(item.sourceUrl||'')}</div>
+            </td>
+            <td><span class="plat-badge plat-${item.platform}">${item.platform}</span></td>
+            <td>${item.views??0}</td>
+            <td>${fmtDate(item.fetchedAt)}</td>
+            <td>
+              <button class="tbl-act-btn tbl-soft" data-action="soft" data-id="${esc(item.id)}">🗑 軟刪</button>
+              <button class="tbl-act-btn tbl-block" data-action="block" data-id="${esc(item.id)}">🚫 封鎖</button>
+            </td>
+          `;
+
+          tr.querySelector('input[type=checkbox]').addEventListener('change', (e) => {
+            if (e.target.checked) selectedIds.add(item.id);
+            else selectedIds.delete(item.id);
+            updateBatchBtns();
+            // Sync select-all state
+            const allChecked = document.querySelectorAll('#posts-tbody .row-check:not(:checked)').length === 0;
+            document.getElementById('select-all').indeterminate = selectedIds.size > 0 && !allChecked;
+            document.getElementById('select-all').checked = allChecked && selectedIds.size > 0;
+          });
+
+          tr.querySelector('[data-action=soft]').addEventListener('click', () => singleAction(item.id, 'soft', tr));
+          tr.querySelector('[data-action=block]').addEventListener('click', () => singleAction(item.id, 'block', tr));
+
+          tbody.appendChild(tr);
+        });
+      }
+
+      function updateBatchBtns() {
+        const has = selectedIds.size > 0;
+        document.getElementById('batch-soft-btn').disabled = !has;
+        document.getElementById('batch-block-btn').disabled = !has;
+        if (has) {
+          document.getElementById('batch-soft-btn').textContent = `🗑 批次軟刪 (${selectedIds.size})`;
+          document.getElementById('batch-block-btn').textContent = `🚫 批次封鎖 (${selectedIds.size})`;
+        } else {
+          document.getElementById('batch-soft-btn').textContent = '🗑 批次軟刪';
+          document.getElementById('batch-block-btn').textContent = '🚫 批次封鎖';
+        }
+      }
+
+      async function singleAction(id, mode, trEl) {
+        const label = mode === 'block' ? '封鎖' : '軟刪除';
+        const confirmMsg = mode === 'block'
+          ? '封鎖這張卡片？該網址會加入黑名單，之後無法再被分享。'
+          : '移除這張卡片？相同網址日後可再次分享。';
+        if (!confirm(confirmMsg)) return;
+        trEl.style.opacity = '0.5';
+        try {
+          const res = await fetch(`/api/recent-unfurls/${encodeURIComponent(id)}?mode=${mode}`, { method: 'DELETE' });
+          const data = await res.json();
+          if (data.ok) {
+            trEl.style.transition = 'opacity 0.3s';
+            trEl.style.opacity = '0';
+            setTimeout(() => { trEl.remove(); }, 300);
+            allPosts = allPosts.filter(i => i.id !== id);
+            updateStats();
+            toast(`${label}成功`);
+          } else {
+            trEl.style.opacity = '';
+            toast(`${label}失敗：${data.error}`);
+          }
+        } catch {
+          trEl.style.opacity = '';
+          toast(`${label}失敗：網路錯誤`);
+        }
+      }
+
+      async function batchAction(mode) {
+        const ids = [...selectedIds];
+        if (ids.length === 0) return;
+        const label = mode === 'block' ? '封鎖' : '軟刪除';
+        if (!confirm(`批次${label} ${ids.length} 筆？`)) return;
+
+        document.getElementById('batch-soft-btn').disabled = true;
+        document.getElementById('batch-block-btn').disabled = true;
+
+        try {
+          const res = await fetch('/api/admin/batch', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ action: mode, ids }),
+          });
+          const data = await res.json();
+          if (data.ok) {
+            toast(`成功 ${data.success} 筆${data.failed ? `，失敗 ${data.failed} 筆` : ''}`);
+            // Remove rows
+            ids.forEach(id => {
+              document.querySelector(`#posts-tbody tr[data-id="${CSS.escape(id)}"]`)?.remove();
+            });
+            allPosts = allPosts.filter(i => !ids.includes(i.id));
+            selectedIds.clear();
+            updateStats();
+            updateBatchBtns();
+          } else {
+            toast(`批次操作失敗：${data.error}`);
+          }
+        } catch {
+          toast('批次操作失敗：網路錯誤');
+        } finally {
+          updateBatchBtns();
+        }
+      }
+
+      // Select-all
+      document.getElementById('select-all')?.addEventListener('change', (e) => {
+        const checks = document.querySelectorAll('#posts-tbody .row-check');
+        checks.forEach(cb => {
+          cb.checked = e.target.checked;
+          if (e.target.checked) selectedIds.add(cb.value);
+          else selectedIds.delete(cb.value);
+        });
+        updateBatchBtns();
+      });
+
+      // Filter controls
+      ['posts-search','posts-plat','posts-sort'].forEach(id => {
+        document.getElementById(id)?.addEventListener('input', () => { selectedIds.clear(); renderPosts(); });
+      });
+
+      // Batch buttons
+      document.getElementById('batch-soft-btn')?.addEventListener('click', () => batchAction('soft'));
+      document.getElementById('batch-block-btn')?.addEventListener('click', () => batchAction('block'));
+
+      // ── Blocklist table ──
+      function renderBlocklist(query = '') {
+        const tbody = document.getElementById('bl-tbody');
+        let list = query
+          ? allBl.filter(i => (i.sourceUrl||'').toLowerCase().includes(query) || (i.hash||'').toLowerCase().includes(query))
+          : [...allBl];
+        if (list.length === 0) {
+          tbody.innerHTML = '<tr class="empty-row"><td colspan="5">目前沒有被封鎖的網址 🎉</td></tr>';
+          return;
+        }
+        tbody.innerHTML = '';
+        list.forEach(item => {
+          const tr = document.createElement('tr');
+          tr.innerHTML = `
+            <td><div class="td-url" title="${esc(item.sourceUrl||item.hash)}">${esc(item.sourceUrl||'–')}</div></td>
+            <td style="font-family:monospace;font-size:0.75rem;color:#aaa">${esc(item.hash?.slice(0,12))}…</td>
+            <td>${fmtDate(item.blockedAt)}</td>
+            <td>${fmtTTL(item.expiresAt)}</td>
+            <td><button class="tbl-act-btn tbl-unblock">解除封鎖</button></td>
+          `;
+          tr.querySelector('.tbl-unblock').addEventListener('click', async () => {
+            if (!confirm('解除這個 URL 的封鎖？')) return;
+            try {
+              const res = await fetch(`/api/blocklist/${encodeURIComponent(item.hash)}`, { method: 'DELETE' });
+              const data = await res.json();
+              if (data.ok) {
+                tr.remove();
+                allBl = allBl.filter(i => i.hash !== item.hash);
+                updateStats();
+                toast('已解除封鎖');
+              } else {
+                toast(`解除失敗：${data.error}`);
+              }
+            } catch {
+              toast('解除失敗：網路錯誤');
+            }
+          });
+          tbody.appendChild(tr);
+        });
+      }
+
+      document.getElementById('bl-search')?.addEventListener('input', (e) => {
+        renderBlocklist(e.target.value.trim().toLowerCase());
+      });
+
+      // ── Hot table ──
+      function renderHot() {
+        const tbody = document.getElementById('hot-tbody');
+        if (allHot.length === 0) {
+          tbody.innerHTML = '<tr class="empty-row"><td colspan="7">暫無熱門資料</td></tr>';
+          return;
+        }
+        tbody.innerHTML = '';
+        allHot.forEach((item, idx) => {
+          const isEmbed = item.renderMode === 'embed' || META.has(item.platform);
+          const imgCell = isEmbed
+            ? `<div class="td-icon embed-ph-${item.platform}" style="font-size:1.4rem">${PLAT_ICON[item.platform]??'◉'}</div>`
+            : (item.thumbnail
+                ? `<img class="td-thumb" src="${esc(item.thumbnail)}" alt="" loading="lazy" onerror="this.style.display='none'">`
+                : `<div class="td-icon" style="background:#f0f0f0">${PLAT_ICON[item.platform]??'?'}</div>`);
+
+          const titleStr = isEmbed
+            ? (item.embedHandle ? `${item.embedHandle} 的貼文` : `${item.platform} 貼文`)
+            : (item.title || item.authorName || '無標題');
+
+          const tr = document.createElement('tr');
+          tr.dataset.id = item.id;
+          tr.innerHTML = `
+            <td style="font-weight:700;color:${idx===0?'#e6a800':idx===1?'#888':idx===2?'#a05020':'#aaa'}">#${idx+1}</td>
+            <td>${imgCell}</td>
+            <td>
+              <div class="td-title">
+                <a href="${esc(item.sourceUrl||'#')}" target="_blank" rel="noopener" style="color:inherit;text-decoration:none">${esc(titleStr)}</a>
+              </div>
+            </td>
+            <td><span class="plat-badge plat-${item.platform}">${item.platform}</span></td>
+            <td>${item.views??0}</td>
+            <td>${fmtDate(item.fetchedAt)}</td>
+            <td>
+              <button class="tbl-act-btn tbl-soft" data-action="soft" data-id="${esc(item.id)}">🗑</button>
+              <button class="tbl-act-btn tbl-block" data-action="block" data-id="${esc(item.id)}">🚫</button>
+            </td>
+          `;
+          tr.querySelector('[data-action=soft]').addEventListener('click', () => singleAction(item.id, 'soft', tr));
+          tr.querySelector('[data-action=block]').addEventListener('click', () => singleAction(item.id, 'block', tr));
+          tbody.appendChild(tr);
+        });
+      }
+
+      // ── Tab switching ──
+      document.querySelectorAll('.admin-tab').forEach(btn => {
+        btn.addEventListener('click', () => {
+          document.querySelectorAll('.admin-tab').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          document.getElementById('tab-posts').style.display = btn.dataset.tab === 'posts' ? '' : 'none';
+          document.getElementById('tab-blocklist').style.display = btn.dataset.tab === 'blocklist' ? '' : 'none';
+          document.getElementById('tab-hot').style.display = btn.dataset.tab === 'hot' ? '' : 'none';
+        });
+      });
+
+      // ── Embed platform placeholder styles (reuse from share.astro) ──
+      const style = document.createElement('style');
+      style.textContent = `
+        .embed-ph-threads  { background: linear-gradient(160deg,#111 0%,#2a2a2a 100%); color:#fff; }
+        .embed-ph-instagram { background: linear-gradient(160deg,#833ab4 0%,#fd1d1d 55%,#fcb045 100%); color:#fff; }
+        .embed-ph-facebook  { background: linear-gradient(160deg,#1877f2 0%,#42a5f5 100%); color:#fff; }
+      `;
+      document.head.appendChild(style);
+
+      // ── Init ──
+      init();
+    </script>
+  </body>
+</html>

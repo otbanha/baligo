@@ -1,0 +1,503 @@
+---
+title: 【庫塔住宿推薦】12 間精選酒店懶人包：市區購物、機場過境、高 CP 值住宿全攻略
+description: >-
+  正在搵峇里島庫塔（Kuta）嘅住宿？本文整理咗 12 間精選酒店，包括鄰近機場嘅過境首選、行幾步就到 Beachwalk 購物中心嘅度假村，同埋高評價嘅
+  CP 值酒店。無論你係深夜抵達定係最後採購，呢篇懶人包都可以幫你快速揀到最適合嘅庫塔酒店，仲有訂房建議同交通攻略！
+pubDate: 2026-04-26T00:00:00.000Z
+pubHour: 10
+category:
+  - 住宿推薦
+tags:
+  - 峇里島庫塔住宿推薦
+  - 庫塔飯店懶人包 2026
+  - 峇里島機場附近飯店
+  - 庫塔平價住宿
+  - Kuta 飯店推薦
+  - 峇里島過境旅館
+  - Amnaya Resort Kuta 評價
+  - 庫塔購物中心附近住宿
+  - 峇里島首晚住宿建議
+  - 峇里島親子飯店庫塔
+update: 2026/05/24
+heroImage: 'https://images.gobaligo.id/images/2026-04/1777174975092-index-non-beach.png'
+originalUrl: ''
+private: false
+shuffle_h2: true
+embeds: []
+lang: zh-hk
+_srcHash: 3d086fe5e791239fbc46b63a76a175df
+---
+
+講到庫塔住宿，大家第一時間諗到嘅永遠係海灘酒店——但海景房未必係最聰明嘅選擇。
+
+如果你嘅行程重點係購物、跑景點、或者將庫塔當作進出峇里島嘅中轉基地，咁市區型酒店反而更加實際：慳返海景溢價，將預算留俾食嘢玩樂，或者直接升級房型。而如果你有早機、深夜抵達、或者最後一晚唔想同行李搏鬥，機場附近嘅酒店更加係令旅程少一半麻煩嘅關鍵選擇。
+
+呢篇整理咗 12 間，分成兩大類：**靠近市區**嘅 10 間同埋**靠近機場**嘅 2 間，等你根據自己嘅旅遊需求對號入座。
+
+**PS. 如果你想搵嘅係海灘旁邊嘅庫塔酒店？請睇**[**呢度**](/blog/kuta-beach-hotels/)
+
+***
+
+# 🏙️ 靠近市區
+
+以下 10 間酒店全部位於庫塔市區核心地帶——Kartika Plaza 商圈、Kuta Square 周邊、或者主要幹道旁邊。唔係正對海灘，但行路或者搭短程的士就可以到，購物、餐廳、夜生活通通近在咫尺。
+
+***
+
+<!-- shuffle-start -->
+
+## Amnaya Resort Kuta
+
+呢間係庫塔市區隱藏得最深、亦最令人驚喜嘅酒店。匿喺 Jl. Kartika Plaza 嘅小巷入面，出面係熙攘嘅庫塔，但一入大門就靜到好似另一個世界咁。酒店由知名建築師 Martin Grounds（Four Seasons Jimbaran、St. Regis Bali 嘅設計者）同多位峇里島藝術家共同打造，周圍都係有意思嘅藝術裝置。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171281889-49112982.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171282327-115642639.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171282833-115681714.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171283257-116841359.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171283677-120634515.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171284166-195261402.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171284751-195261448.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171285213-195404224.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171285702-195404320.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171286517-574173017.jpg)
+
+📍 **位置**：Jl. Kartika Plaza Gang Puspa Ayu No. 99，距離 Discovery Mall 同 Tuban Beach 行路就到，Waterbom 水上樂園喺轉角，機場大約 5 公里。鬧中取靜，呢四個字喺度係真嘅。
+
+🏨 **設施**：中庭泳池（有淺水區，陽光充足）、Bhava Spa（Tripadvisor 評為庫塔第 1 名 Spa）、Sukun Restaurant（峇里島傳統料理，庫塔前三名餐廳）、每日下晝免費提供傳統峇里島點心茶點。
+
+🛏️ **客房**：116 間，45 至 100 平方米，白色極簡現代設計融入木頭同峇里島藝術元素，每間都有私人陽台（部分有戶外躺椅）。6 間泳池直通房要提早預訂，非常搶手。
+
+💬 **住客評價**：回訪旅客比例好高，服務個人化而且細心周到。缺點係早餐係 à la carte （點餐）有品項限制，飲品唔可以無限續。
+
+> 2025 Agoda 旅人鑑賞優勝精選，Agoda 評價9.2⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=920599) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2601658&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazMLFJMEk1cPCsenWzttsQuyGpmYGhgZGBrdELZ63Mzoe_qoR05_U6OC5Q671deCWVocAnogpB55PY09sDvSc23Ao0KGLkRUsMINx19N5jCsYGTcyXl9cYMvlnuiwg5HpBOM8yQVMR_aftj_FwszRxHqJ5StTdLVSdmqlkpWJjlJJZklOqpKV0tNF85427Hm-olVJRykltTgZKARkJebml-aVANnGRoZ6BgZAkZLECs8UsM7kxJzk0pzEktSQygKgCWY6SpnFziVFmQVBqbmZJSWpQFVpiTnFqSDxoNRioEwyWFDJD2hMEVQgMz8Pot0QRSwsMac0FeIEoIVuqVA7DGt1MF3-bE7v0-6ZLzbtJs7l5tR2uQExLjeujX3EwhQd-4mF4RcLQxMrQxcrM8cppklAcp7kLlbu4GBnxwAP3XCzSNcLrC-kpZQNDQwMTA2NTU11DRItE5OMLI10TSxNjMwNdI0szIzNDcwMTTR-bn92_YmxkbUUJP4VGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsRk5ujqaWETZcDG7hgYJKlzKj2fvk3eQYg4Jd1EsXf18yffe0_ZazJ4uQYYf9J5vb7e2tA_c8zrnhL3xAvtImHwSa1WGbkh4xnGxAsYGRqYuRm4BRg_GCMYKII9xFSPDBkbGHYz_YYDxFSPIdABvKasZ_AIAAA&masterhotelid_tracelogid=100051355-0a9ab292-494270-286370614&detailFilters=17|1~17~1*31|2601658~31~2601658*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=817&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/txhUKkim)
+
+***
+
+## Alaya Dedaun Kuta ⭐⭐⭐⭐
+
+同樣隱藏喺 Kartika Plaza 商圈嘅精品酒店，比 Amnaya 更加偏向自然系熱帶叢林感覺，DaLa Spa 喺呢個區域頗有口碑，適合將放鬆排喺行程第一位嘅旅客。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171421985-e799b43ff2dfc8856ac079003f9f024c.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171422508-e979c2cd2bfe438da5ab05eee865d3a4.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171422968-ec5ba32d46eeda92ddaf111c053b83b1.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171423383-3bb748a9e2f529646a4ca6e2836fecd8.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171423836-6a3aad528190a36d60b5183007e74ef5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171424358-71986_17012613450050581179.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171424863-36918584.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171425279-760793236.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171425696-760947106.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171426191-b81f8e5ceb970b3bba126badb2092533.webp)
+
+📍 **位置**：Jl. Kartika Plaza 一帶，行路可以到 Discovery Mall 同 Waterbom Park，海灘距離行路約 10-15 分鐘，整體仍然喺庫塔範圍內。出面就有酒吧餐廳，好方便。位置得分 9.4
+
+🏨 **設施**：戶外泳池、DaLa Spa（住客評價一致好評）、餐廳、健身房，整體走自然有機風格，植物同水景係空間設計嘅核心元素。
+
+🛏️ **客房**：熱帶植物元素融入室內設計，部分有俯瞰花園嘅視野，整體氛圍安靜舒適，係庫塔少見嘅低調質感住宿。有雙臥室、三臥室別墅房型，最多可以住六位大人。
+
+💬 **住客評價**：蜜月同情侶入住評分好高，服務友善，環境優美；缺點係距離海灘有段路，夜晚出街要call的士，自由度稍低。
+
+> Agoda 評價9.2⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=71986) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1543075&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqYOFikmCSamTh6Jm9_DizEKORwRZui-1Zjgwg8KHTwfObRkz_IcEJDgE8EVMOPJ_GnuhV3azvcyTQoYuRFSwwg3Hx9LiNjOvcH1aJnMtw2MHIdICR6QTjGtUFTG9OTlA4xcLMMYv9EstXpuhqpezUSiUrEx2lksySnFQlK6Wni-Y9bdjzfEWrko5SSmpxMlAIyErMzS_NKwGyTcwM9QwMgCIliRWeKWCdyYk5yaU5iSWpIZUFQBPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7IYpYWGJOaSrECUAL3VKhdhjW6mC6_Nmc3qfdM19s2k2cy82p7XIDYlxuXBv7iIUpOvYTC8MvFoYmVoYuVmaOU0yTgOQa1V2sHGaR7n4GkbqGF1i_qUvJGxoYGJgaGpua6hokWlokmxmZ6ZpYmhgbm-iamhiYm2vM6Lx59KmxkbUUJN4VGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsVmYG5gaOEfZcDF7ugQJ3vvPkqutbGkvxRwS7qK48ibz2gMTTttrgeQMYXKBFl_E-N9bLrCPhMknsVZl6IaEZ_SKFzA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAgy9kHO0CAAA&masterhotelid_tracelogid=100051355-0a98c626-494334-54077&detailFilters=17|1~17~1*31|1543075~31~1543075*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=570&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/w1kBarZE)
+
+***
+
+## Four Points by Sheraton Bali Kuta ⭐⭐⭐⭐
+
+Marriott 旗下四星品牌，用實惠嘅價錢享受萬豪集團嘅服務質素。Four Points 全球以 Best Brews 精釀啤酒項目聞名，喺峇里島同樣保留呢個特色，整體多咗啲輕鬆社交嘅氣氛。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171533371-907662_16083109570045947630.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171533782-463637322.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171534364-a6151fd9d95d2c135e5489eaa54611e5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171534833-c7bdab2c3e1d0aeae3af8f0169bcbc9b.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171535276-f5778d2df50853e5f17ca522c92cc5ae.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171535669-0e5cb2ae432e87c38aa9576f19905b3d.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171536008-62cc25ede05b2352d0dd748512add90f.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171536473-94b119172ed56dfa2a49252d2f3ae34f.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171536862-1082aae0c8892c31af35b8b8bb18d75c.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171537413-907662_16083109570045947627.webp)
+
+📍 **位置**：庫塔市中心嘅巷仔入面，行路可以去到 Kuta Square 同 Beachwalk 購物中心，去 Kuta Beach 行路約 5-10 分鐘。
+
+🏨 **設施**：戶外泳池、健身房、按摩浴缸、全日制餐廳，Best Brews 精釀啤酒區係品牌特色，比一般四星多咗啲輕鬆社交空間。
+
+🛏️ **客房**：現代整潔，配備齊全，附私人陽台，部分有泳池或庭院景觀，設計風格偏商務簡潔，住落舒服。擁有上下舖可住四人嘅 Family King Suite
+
+💬 **住客評價**：萬豪品質保證，整體評分穩定；缺點係同區更高星級酒店相比設施冇咁豐富，峇里島度假感稍弱。
+
+> 2024 Agoda 旅人鑑賞優勝精選，Agoda 評價8.3⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=907662) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=2139828&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6wczFJMEk9ZGZ4_Pej39ZhRiNDDgtPgk6asb0H_r6o9zB85sGkMVY6xDA08gIZpuaO8xg3HK2iXEFI-NGRmMQUA5x2MHIdILxtcACpinNb5lPsTBzfGO6xPKVKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsQ3MLPQMDoEhJYoVnClhncmJOcmlOYklqSGUB0AQzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxAtBCt1SoHYa1Opgufzan92n3zBebduNwuaUZisvNB8TlxrWxj1iYomM_sTD8YmFoYmXoYmWYxMrM8VpgFytPoJe3caijrqFulK6hlLyhgYGBqaGxqamuQaJloqlxsqGuiaWJkaWprokZMBo0niw40fTU2MhainXKgefT2BUYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWxgaGRoaGRlZGuuZWKSZFVvkFVvkZkV4MAaxmZsYGRi5RtlwMXu6BAne-8-Sq61saS_FHBLuohjk0ha6Z-Jpey2QnCFMLtDiixj_e8sF9pEP0mMsBCadtk9ircrQDQnP6BUvYGxgZOpi5BZg9GCMYKwA8hhXMbJzMRsYGQowbWBk3MH4HwYYXzGCLAEAUPMrKOQCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-46178&detailFilters=17|1~17~1*31|2139828~31~2139828*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=636&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/ymskD69a)
+
+***
+
+## The Vira Bali Boutique Hotel & Suite ⭐⭐⭐⭐
+
+Kartika Plaza 區域入面 CP 值最高嘅精品酒店之一，成日令旅客驚訝「呢個價錢可以住到咁？」Agoda 評分 9.0，喺呢區口碑非常紮實，唔需要大肆宣傳，回頭客自己就會返嚟。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171688441-92ac7a236afb823166029581e3f4542e.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171688909-92cc881f5c5d8162d3e20ba302a90015.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171689286-1651ee6659d8864b74b81c2060c1ce30.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171689770-141792786.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171690487-239860481.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171690911-239860488.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171691424-ae8738ab06b22a577a21079d18d30d6b.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171691917-5f6e9c7c0d3fc8a4d10ad15b74ac78ca.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171692566-29aa537e3e2535b826762a3187c43ac8.jpeg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777171693005-77ac71c0668340ca08fff167e84b6e5b.jpeg)
+
+📍 **位置**：Jl. Kartika Plaza，Discovery Shopping Mall 850 米，Tuban Beach 行路就到，Lippo Mall Kuta 對面，購物同食嘢都好方便。離機場都唔遠。
+
+🏨 **設施**：戶外泳池、健身房、餐廳，精品酒店規模，設施唔多但每樣都保養得唔錯，泳池環境特別受好評。
+
+🛏️ **客房**：現代精品設計，空間合理，乾淨舒適，部分套房設計感強，整體質感高過標價所暗示嘅水準。
+
+💬 **住客評價**：對預算有限但唔願意犧牲住宿體驗嘅旅客幾乎係必推；缺點係規模細，冇 Kids Club 等大型家庭設施。
+
+> Agoda 評價9.0⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=49780) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685252&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGFo2P15NcsQuyGpmYGhgZGBguFLW5XOB7-qhHT35Xv4LlDrvV14J5ihwCeiCkHnk9jTywov5a3e4WjQxcjK1hgBuORl5orGBk3MoKV7vB32MHIdICR6QTjXu4FTB9P9-mdYmHmWMZ0ieUrU3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZhibmegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrdTBd_mxO79PumS827SbO5ebUdrkBMS43ro19xMIUHfuJheEXC0MTK0MXKzPHEsZJQHIv9y5W_ih3QyOzSN1ws0hX3ShdwwusD3mk5A0NDAxMDY1NTXUNEi0tUk0sLXVNLE2MDSx1jS0sDY01Hq7ZNOupsZG1FCQFKDBqCcaHeHq6GJYUppoVllrmFBWYGjCeYpQyNDe2MDQyNDQyMrI01jOxSDMrtsgrtsjNivBgDGJzMTNyczSIsuFiDg12ESy05bq-2EDaQYo5JNxFceVN5rUHJpy212L2dAkyvPefJVdb2dI-0OKLGP97ywX2kTD5JNaqDN2Q8Ixe8QLGBkamLkZuAUYPxgjGCiCPcRUjOxezgZGhANMGRsYdjP9hgPEVI8gSABdB9VoEAwAA&masterhotelid_tracelogid=100051355-0a98e499-494309-38913&detailFilters=17|1~17~1*31|685252~31~685252*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=495&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/XtGn8HAO)
+
+***
+
+## Kuta Beach Club Hotel ⭐⭐⭐⭐
+
+原名 SOL by Meliá Kuta，最近改名做 Kuta Beach Club Hotel，位於 Jl. Bakungsari，距離 Kuta Beach 行路約 10 分鐘，連接 Kuta Point 購物中心，係呢個商圈入面設施完整、家庭友善嘅中型酒店。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172173501-208611559.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172173938-213758482.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172174843-321497157a643dad1e3bd2904eebfb83.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172175264-b75bbfaf82c5072709ef80cd1fa8055d.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172175672-c86ccb6cdc1e274eb744661fca61e6a3.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172176070-c2238611e13fc4fcccc4f223c5f52909.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172176580-ed63962e8ca47c38d2a496735cb233d8.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172176990-5f41f47ce447447c9813c6005271dc5c.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172177717-863b59e3ecbdbfc1bada836755227f23.webp)
+
+📍 **位置**：Jl. Bakungsari No. 81，Waterbom Bali 行路 900 米，Discovery Shopping Mall 行路 15 分鐘，Kuta Night Market 就喺附近，機場約 12 分鐘車程。典型嘅名容易令人誤解酒店位置喺海灘旁邊。
+
+🏨 **設施**：兩座戶外泳池（包括兒童泳池）、泳池吧（Resting Palm Sunken Pool Bar）、PlayBar、Serene Spa & Wellness、24 小時健身房、The Kitchen 餐廳（供應峇里島菜同國際料理）、酒店直接連接 Kuta Point 購物中心。
+
+🛏️ **客房**：144 間，峇里島傳統同現代混合設計，隔音窗、私人露台，可以望到花園或者泳池，空間闊落舒服，但全部都係雙人房。有啲住客反映新舊兩翼房間質素有差距，建議揀翻新過嘅區域。
+
+💬 **住客評價**：早餐豐富同泳池環境一致好評，員工友善；缺點係翻新期間有工程噪音，有啲住客反映清潔細節仲有改善空間。
+
+> 2025 Agoda 旅人鑑賞優勝精選，Agoda 評價8.8⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=49701876) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685209&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-N6xczFJMEk9ZiZo3_G371MQoxGBpeYLI5rO9pyXV9ckJrr4Hn4q0ZM_7tChwCeGYwzX2puZJRvfR24456nww5GpgOMTCcYt3AtYDr4fpX4KRZmjg-Ml1i-MkVXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWhkoGdgABQpSazwTAHrTE7MSS7NSSxJDaksAJpgpqOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFlfyAxhRBBTLz8yDaDVHEwhJzSlMhTgBa6JYKtcOwVgfT5c_m9D7tnvli027iXG5ObZcbEONy49rYRyxM0bGfWBh-sTA0sTJ0sTJMYmXm2MK1i5XD0sk41MxZ11BK0dDAwMDI1NTIXNcg0dLCyNgwSdfE0sTY2ETX2NzU0MTIUGNr99OjT42NrKVYpxx4Po1dgVFLMD7E09PFsKQw1ayw1DKnqMDUgPEUo5ShubGFoZGhoZGRkaWxnolFmlmxRV6xRW5WhAdjEJupqYGbqUGUDRezp0uQ4L3_LLnaypb2Uswh4S6KK28yrz0w4bS9FkjOECYXaPFFjP-95QL7SJh8EmtVhm5IeEaveAFjAyNTFyO3AKMHYwRjBZDHuIqRYQMj4w7G_zDA-IoRZDoADyIpP9ECAAA&masterhotelid_tracelogid=100025527-0a98231b-494334-3751421&detailFilters=17|1~17~1*31|685209~31~685209*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=325&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/I3R6uAfY)
+
+***
+
+## Poppies Bali Hotel⭐⭐⭐
+
+Poppies Lane 1 上嘅傳奇精品酒店，1970 年代同峇里島一齊成長，係成個庫塔最具歷史感嘅住宿之一。唔係五星，冇大型設施，但係行入嗰扇雕花木門嘅瞬間，外面嘈雜嘅庫塔好似消失咗——呢個就係 Poppies 獨特嘅魔力。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172268398-477f45fad14f672a97653be2c4605aed.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172268855-649c38ec88ea2ea3b20e38e40ead1f95.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172269280-449801aa4f2762c25eac7bc29d213f37.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172269706-1991683_17031314020051509501.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172270083-1991683_17031317050051515574.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172270609-1991683_17031317050051515601.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172271070-1991683_17031317090051515801.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172271742-59668468.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172272189-aaf2fc0d52f310ad42e3b24ecd16f20b.webp)
+
+📍 **位置**：Poppies Lane 1 No. 19，行去 Kuta Beach 約 10 分鐘，行去 Beachwalk 購物中心 15 分鐘，Made's Warung、Jalan Legian、Sky Garden 等知名餐廳酒吧全部喺步行範圍內，機場免費接送。
+
+🏨 **設施**：自由式泳池（有淺水兒童區）、按摩浴缸（Jacuzzi）、泳池吧（招牌鳳梨可樂達用雕刻椰殼裝住好出名）、圖書室。冇附設餐廳，但對面就係合作嘅 Poppies Restaurant（1973 年開業，峇里島最早嘅著名餐廳之一），早餐可以送到房間享用。
+
+🛏️ **客房**：只有 20 間傳統峇里島茅草屋頂小屋，戶外花園浴室（木雕同大理石工藝）係最令旅客驚喜嘅設計，闊落、有峇里島在地風情。注意：近泳池嘅屋夜晚會比較嘈。5歲以下小童免費入住。
+
+💬 **住客評價**：回訪率極高，好多旅客話「去峇里島如果唔住 Poppies 就唔算去過」；缺點係設施簡約，唔適合帶小朋友嘅家庭，亦唔適合追求豪華設施嘅旅客。
+
+> Agoda 評價9.3⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1991683) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6551798&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxcLFJMEkNZmF42Tb3-VMQowGFr8FHYN2yLW-Tq138OS6vrjAdkmzQwBPxJQDz6exJ676eMk3qT7QoZABDNIcGhm_acT0H1JNcuhiZAWrmcH47WM_8wpGxo2MYO1d8Q47GJlOML4SW8DU_6mf-RQLM8cplkssX5miq5WyUyuVrEx0lEoyS3JSlayUns3pfdo988Wm3Uo6SimpxclAISArMTe_NK8EyDayNNYzMACKlCRWeKYoWZnrKCUn5iSX5iSWpIZUFgBNMNNRyix2LinKLAhKzc0sKUkFqkpLzClOBYkHpRYDZZLBgkp-QGOKoAKZ-XkQ7QYoYmGJOaWpECcALXRLhdphXKuD6fKni-Y9bdjzfEUrcS43obbLDYlxuWFt7CMWpujYTywMv4DRsI6tiZWhi5WZ4yjTJCD5SmwXK5u3r0V4aPAF1rvyUvKGBgYGpobGpqa6BomWFqkmlpa6JpYmxsYmumZGFqZGGlsfvz361NjIWgoS8wqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjEDhYGKRZlZskVdskZsV4cEYxOZq4Gbk6Bxlw8Xs6RIkeO8_S662sqW9FHNIuIviypvMaw9MOG2vBZIzhMkFWnwR439vucA-EiafxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk2MDIuIPxPwwwvmIEmQ4APE_LL_8CAAA&masterhotelid_tracelogid=100051355-0a98e499-494334-62852&detailFilters=17|1~17~1*31|6551798~31~6551798*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1387&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/YTe3Yesw)
+
+***
+
+## Fairfield by Marriott Bali Kuta Sunset Road ⭐⭐⭐⭐
+
+萬豪旗下嘅 Fairfield 品牌，位於 Sunset Road 商圈（庫塔外環道），但距離機場只係 20 分鐘車程，連接庫塔同水明漾，係鍾意兩邊走嘅旅客最方便嘅中轉站。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172478588-d5fbcda6a0a7dc4d2cb6ad9763cc46b0.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172479009-0f77a54aa3acc0d51144bc0a55cec2a2.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172479604-1bc9ea1dd66965095818b0ca0c5598fd.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172480120-3b44d99913e876dd5bb8283c2169105a.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172480600-4d2d35c3cada254bab6eba3225cbf182.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172481101-838b13fd104d48fa76969bffa016273b.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172481534-9263ebd6365da5e5fec4a0251eaf96a5.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172481961-86121a8595332b41dc08a58c877723e4.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172482454-463629156.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172482947-db08eed8e58b1d1715a268462a0c807e.webp)
+
+📍 **位置**：Jl. Merdeka Raya VII，位於 Sunset Road 商圈。
+
+🏨 **設施**：戶外泳池（有泳池吧）、按摩池、24 小時健身室、Jejaton Restaurant（印尼菜同西餐，自助早餐評價極高）、JABA Lobby Lounge（全日供應下午茶、調酒輕食）、單車出租、電動車充電站、會議室。
+
+🛏️ **客房**：223 間，全部有私人露台，泳池景觀房視野唔錯，隔音良好，床鋪舒適。部分住客反映泳池受建築物遮擋，某些時段日照不足；Wi-Fi 間中唔穩定。
+
+💬 **住客評價**：早餐豐富多樣（有餃子、可麗餅、即煮蛋站）幾乎每篇評論都提到，員工服務態度出色；缺點係距離海灘有段路，唔適合以滑浪或海灘為主要活動嘅旅客。
+
+> 2024 Agoda 旅人鑑賞優勝精選，Agoda 評價8.8⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=9394147) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=44009504&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6wczFJMEk9ZGZ43_DpH-sQoxGBpwWnwQdbbmuLy6QLHLwPPxVI6b_WalDAE8j45vAHXKtpx0cZjAumPBPZAUj40ZGzZj-Q18z_Bx2MDKdYLzNs4Cp4-Z_kVMszByzmC6xfGWKrlbKTq1UsjLRUSrJLMlJVbJSejan92n3zBebdivpKKWkFicDhYCsxNz80rwSINvQxELPwAAoUpJY4ZmiZGWuo5ScmJNcmpNYkhpSWQA0wUxHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGCyr5AY0pggpk5udBtBugiIUl5pSmQpwAtNAtFWqHca0OpsufLpr3tGHP8xWtOFxubILicpMBcblhbewjFqbo2E8sDL9YGJpYGbpYGSaxMnPc5tnFyhPoFWXuFKRrqBulayglb2hgYGBqaGxqqmuQaJloYZyYqmtiaWJsbKJrZmZkbqxx4-O3o0-NjaylWKcceD6NXYFRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbpaWppYVTlA0Xs6dLkOC9_yy52sqW9lLMIeEuiitvMq89MOG0vRZIzhAmF2jxRYz_veUC-0iYfBJrVYZuSHhGr3gBYwMjUxcjtwCjB2MEYwWQx7iKkZ2L2cDIUIBpAyPjDsb_MMD4ihFkCQDTkKKa5AIAAA&masterhotelid_tracelogid=100051355-0a9a83ae-494334-66273&detailFilters=17|1~17~1*31|44009504~31~44009504*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=418&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/NLvgkHE4)
+
+***
+
+## The Magani Hotel and Spa ⭐⭐⭐⭐
+
+Legian 區 Jl. Melasti 上嘅活力型酒店，距離庫塔海灘步行只係 5 分鐘，嚴格嚟講幾乎係海灘類，但 Legian 市區感更重，加上夜晚有 Drag Show 等現場娛樂，整體氣氛熱鬧活潑。2012 年開業，保養良好，口碑持續穩定。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172575891-8779268741c7927f8d391b1d42dce2eb.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172576327-c64bd3887545f61c9c3eaee1e4d14457.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172576803-0cd35071c4c54e72ee06ab9f4397b2bc.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172577208-52a1bb231363b3d73171963fcc9fd1c7.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172577616-335650_17030110140051308213.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172578008-335650_17030110500051309316.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172578420-335650_17030110500051309321.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172578936-452600796.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172579440-614423447.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172579859-633440495.jpg)
+
+📍 **位置**：Jl. Melasti, Legian Kelod，庫塔海灘步行 3 分鐘，Beachwalk 購物中心步行 15 分鐘，Jl. Legian 酒吧餐廳街近在咫尺，機場約 20 分鐘車程。
+
+🏨 **設施**：戶外泳池（附泳池吧）、兒童泳池、Visala Spa（含情侶療程、Plunge Pool、男女桑拿）、健身房（部分住客反映重量設備略少）、Mozzarella Restaurant & Bar（峇里島菜同西式料理，有面街露台）、夜間現場表演（Drag Show 被好多住客點名讚不絕口）。
+
+🛏️ **客房**：108 間，10 種唔同房型，包括 Deluxe、Premier（附私人 Plunge Pool）同 Magani Suite（附戶外 Jacuzzi）。空間寬敞，大理石浴室附雨淋浴，床鋪舒服，乾淨度評分高。有提供相連房 (Interconnecting Room)。近泳池吧嘅房型夜晚間中有噪音，建議揀酒店左側較靜嘅房型。
+
+💬 **住客評價**：服務溫暖個人化係最大亮點，多次回訪旅客比例高，Agoda 位置評分 9.1 分。
+
+> Agoda 評價9.1⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=335650) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685313&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-O6wcTFJMEkdZGJY-2k1XOYhJgNDYw0NvIZPGC02CrvuKTAluu6frmD55vAHXKty2scAngiphx4Po09sWmCTgJTq6dDFyMrWGAGY-MrzY2M8q2vA3fcC3XYwch0gvGCwAKm42dfMZ5iYeaYxnyJZRdjdLVSdmqlkpWJjlJJZklOqpKV0tNF85427Hm-olVJRykltTgZKARkJebml-aVANkmBmZ6BgZAkZLECs8UsM7kxJzk0pzEktSQygKgCUY6SpnFziVFmQVBqbmZJSWpQFVpiTnFqSDxoNRioEwyWBBkbhGUn5mfB9FtgCIWlphTmgpRCbTPLRVqhWFt7CMWpujYFywb-T6xMPxiYWhiZehiZeZ4yzgJSF4Q2MXK6xtqHOhpqmsYohula3iB9ZiQlLyhgYGBqaGxqamuQaKlRaqJpaWuiaWJsbGJrrmBgYmFxrx5DceeGhtZS0GCUIFRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbk5GTuaVZlA0Xc2iwi2AhMMYWG0g7SDGHhLsorrzJvPbAhNP2WsyeLkGG9_6z5GorW9oHWnwR439vucA-EiafxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCAE1t_AJEAgAA&masterhotelid_tracelogid=100051355-0a98e499-494334-70048&detailFilters=17|1~17~1*31|685313~31~685313*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1104&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/gBqgVbNx)
+
+***
+
+## Ramayana Suites & Resort ⭐⭐⭐
+
+庫塔市區傳統峇里島風格度假村，行路就到 Kuta Art Market、Kuta Square。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172670031-ad60f4acb367d6463e79f210194ffc32.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172670919-c3b74c25c7834d0408ea2c7cde336e2d.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172671500-0e46c6275b5bd3a4ed3b219b8d666ac8.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172671991-9dcfeff879afede483ad25a362875f41.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172672426-550fdb423ec02d6424918dfc59898998.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172673034-350619332f466749a7ed18f824bedf34.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172673540-851939852.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172673963-853122362.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172674369-853145334.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172674763-853165180.jpg)
+
+📍 **位置**：Jl. Bakung Sari，庫塔市中心，行去 Kuta Beach 約 10-15 分鐘。
+
+🏨 **設施**：泳池、Spa、餐廳，規模適中，主打傳統峇里島在地體驗，設施談唔上豪華但有自己的步調。
+
+🛏️ **客房**：傳統峇里島設計，感受在地文化氛圍效果明顯，設施基本但乾淨，適合將酒店當瞓覺同休息基地嘅旅客。有四人房 Family Room 、連通家庭房 (Deluxe Interconnecting Family Room)、雙臥室套房 (Two Bedroom Suite)。
+
+💬 **住客評價**：價格係最大優點，行街購物方便；缺點係設施已有年紀，部分標準房空間偏細，房型品質落差較大，訂房前建議睇清楚相片。
+
+> 2024 Agoda 旅人鑑賞優勝精選，Agoda 評價8.3⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=45562) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987794&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oaw8LFJMEkNZWFo_nElj1sQowGGvfZLCYKOV5fXGDLtb7EwdMYBB5XOgTwREw58Hwae-JZa7-LE9XcHQoZQCCg16GRUb71deCOZx0OXYysYDUzGCcttdnIWGjLdX3xhRCHHYxMJxg7-Bcw3dzAcoqFmaOJ-RLLV6boaqXs1EolKxMdpZLMkpxUJSulp4vmPW3Y83xFq5KOUkpqcTJQCMhKzM0vzSsBsg0tjfUMDIAiJYkVnilgncmJOcmlOYklqSGVBUATzHSUMoudS4oyC4JSczNLSlKBqtISc4pTQeJBqcVAmWSwoJIf0JgiqEBmfh5EuyGKWFhiTmkqxAlAC91SoXYY1upguvzZnN6n3TNfbNpNnMvNqe1yA2Jcblwb-4iFKTr2Bct9tk8sDL9AUaHUxMrQxcrMcZ1xEpDs4N_FyhYZaGAWFXqB9Y2JlLyhgYGBqaGxqamuQaJloqlxsqGuiaWJsbGJrrmRpamZxqzmzmNPjY2spSARr8CoJRgf4unpYlhSmGpWWGqZU1RgasB4ilHK0NzYwtDI0NDIyAgYFiYWaWbFFnnFFrlZER6MQWwmro6GFmZRNlzMni5Bgvf-s-RqK1vaSzGHhLsorrzJvPbAhNP2WiA5Q5hcoMUXMf73lgvsI2HySaxVGboh4Rm94gWMDYxMXYzcAowejBGMFUAe4ypGhg2MjDsY_8MA4ytGkOkACj32UQEDAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494334-72956&detailFilters=17|1~17~1*31|987794~31~987794*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1463&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/C6uV6sX6)
+
+***
+
+## Aryaduta Bali ⭐⭐⭐⭐
+
+雅加達知名連鎖酒店集團喺庫塔嘅據點，設施完善、服務專業，整體住宿體驗穩定，對商務旅客同鍾意品牌保證嘅旅客嚟講係熟悉嘅安全選擇。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172733762-4dacb4da08d4149bc00a824b97d7deb7.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172734373-98137dbe9998f529ecd4548a88bb450c.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172735491-260897a8c909057b3e8ef502477c8d91.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172736317-138862818.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172736652-138864374.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172737132-138864380.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172737648-138864386.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172738261-490220110.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172738670-d4a2224d0b7afc3ac77cfe4799ab4524.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777172739082-f732116b93adf9d5170847444d11aff3.webp)
+
+📍 **位置**：離機場唔遠，交通方便，鄰近商業區同娛樂設施，隔離就係 Lippo Mall Kuta。適合以庫塔為基地四圍走行程嘅旅客。
+
+🏨 **設施**：泳池、餐廳、健身房、商務設施，品牌強項係服務同商務配備，適合需要穩定 Wi-Fi 同會議空間嘅旅客。
+
+🛏️ **客房**：現代商務風格，乾淨整潔，空間合理，Wi-Fi 穩定，設施標準整齊，住得安心。有家庭套房 (Family Suite)
+
+💬 **住客評價**：服務專業、設施完善，整體評價穩定；缺點係離海灘有段距離，峇里島度假感稍弱，比較適合將庫塔當跳板嘅旅客。
+
+> Agoda 精選，Agoda 評價8.9⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3362026) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=14262941&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oax8LFJMEkNZ2F4_f35Z_YhBgNNO6zWUwUcuw_9FUjRr7MwTMNBNZVOwTwREw58Hwae-KWwiNRNSs8HAoZwCDUoZHx-uICW67jgQ5djKxgNTMY5x59xraRMQZkik2Yww5GphOMvQILmJ4-ucp-ioWZYx7zJZavTNHVStmplUpWJjpKJZklOalKVkpPF8172rDn-YpWJR2llNTiZKAQkJWYm1-aVwJkGxmY6xkYAEVKEis8U8A6kxNzkktzEktSQyoLgCaY6ShlFjuXFGUWBKXmZpaUpAJVpSXmFKeCxINSi4EyyWBBJT-gMUVQgcz8PIh2QxSxsMSc0lSIE4AWuqVC7TCs1cF0-bM5vU-7Z77YtJs4l5tT2-UGxLjcuDb2EQtTdOwLlvtsn1gYfgGjopW5iZWhi5WZ4ynjJCDZK7CLlS0kytHXMvQC6xZxKUVDAwMDI1NTI3Ndg0RLi9TERENdE0sTY2MTXRMLcxNTQ0uN2a2Tjz01NrKWgkS-AqOWYHyIp6eLYUlhqllhqWVOUYGpAeMpRilDc2MLQyNDQyMjI0tjPROLNLNii7xii9ysCA_GIDZTU3MzE9MoGy5mT5cgwXv_WXK1lS3tpZhDwl0UV95kXntgwml7LZCcIUwu0OKLGP97ywX2kTD5JNaqDN2Q8Ixe8QLGBkamLkZuAUYPxgjGCiCPcRUjwwZGxh2M_2GA8RUjyHQAgFO4hQUDAAA&masterhotelid_tracelogid=100025527-0a98eaa1-494334-4874519&detailFilters=17|1~17~1*31|14262941~31~14262941*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=820&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/31JUtjcy)
+
+<!-- no-shuffle -->
+
+***
+
+# ✈️ 靠近機場
+
+對好多人嚟講，「機場旁住宿」只係應急選項——但其實唔止咁簡單。深夜抵達唔想趕路、清晨出發唔想天未光就叫車、轉搭國內班機、或者行程最後一日唔想帶住大包細包喺庫塔街度行，呢個時候機場旁嘅酒店先係真正令旅程順暢嘅關鍵。以下兩間係庫塔機場附近口碑最穩定嘅選擇。
+
+***
+
+## Novotel Bali Ngurah Rai Airport
+
+全球少數真正喺機場航廈**入面**嘅連鎖酒店，唔係機場附近，係就喺機場裏面——行 5-10 分鐘直達國際出發廳同國內到達廳，趕早機嘅旅客直接慳晒所有交通麻煩。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173310375-a4a0e49f72028f9addfb0c7f73ef30c7.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173310792-4d606b6bfd30f9c34b4496891cb4d789.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173311403-702311537.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173311916-702311599.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173312628-751142152.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173313139-751142254.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173313649-751142299.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173314124-751142343.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173314675-d68e2dd74a1d2daf3922fa74b103f19f.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173315187-e5d3d13d80acf1a6018e50d3cdaf39cb.webp)
+
+📍 **位置**：Jalan Raya Ngurah Rai, Tuban，位於 I Gusti Ngurah Rai 機場園區入面，直通國際出發廳同國內到達廳，行 5-10 分鐘唔使接送。到海灘行約 15 - 20 分鐘，庫塔市區車程約 10 分鐘（的士費偏貴，建議用 Grab）。
+
+🏨 **設施**：206 間客房、戶外泳池、健身房、Spa、6 間會議室（最大 200 人劇院式）、The Square 全日餐廳（早餐由凌晨 4:30 開始供應，趕早機完全唔使餓肚）、GourmetBar 24 小時、Run@way Bar 頂樓觀景吧可以睇跑道同日落。
+
+🛏️ **客房**：所有房型隔音良好，就算喺機場入面都幾乎聽唔到飛機聲，呢一點幾乎每篇評論都特別提到。Suite 56 平方米，有獨立客廳。部分住客反映走廊燈光偏暗，少數房型冷氣稍舊。
+
+💬 **住客評價**：轉機旅客幾乎一面倒好評，班機延誤或者深夜抵達時幾乎係唯一選擇，旺季更加係一房難求，建議提早預訂。
+
+> Agoda 評價8.7⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1120757) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=5218386&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqZOFikmCSamLh2Dir4QSrEKORgbzFV0HHN4E75FpPVzh4PqwSWee-s84hgCdiyoHn09gTv11cqT0_0tuhi5EVLDCD8dKBfUwbGa8vLrDl2h7usIOR6QTjG8EFTIsvLmY6xcLMsZP5EstXpuhqpezUSiUrEx2lksySnFQlK6Vnc3qfds98sWm3ko5SSmpxMlAIyErMzS_NKwGyjYwN9QwMgCIliRWeKUpW5jpKyYk5yaU5iSWpIZUFQBPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7AYpYWGJOaSrECUAL3VKhdhjX6mC6_OmieU8b9jxf0YrD5YYGKC43GRCXG9bGPmJhio79xMLwi4WhiZWhi5WZ4x_jJCD5RnAXK4-fX0C4n5OuoW6UruEF1lfCUvKGBgYGpobGpqa6BomWFslmRma6JpYmxsYmuuYWppZGGvffzTj21NjIWgoS8wqMWoLxIZ6eLoYlhalmhaWWOUUFpgaMpxilDM2NLQyNDA2NjIwsjfVMLNLMii3yii1ysyI8GIPYLFzMXExdo2y4mD1dggTv_WfJ1Va2tJdiDgl3UVx5k3ntgQmn7bVAcoYwuUCLL2L87y0X2EfC5JNYqzJ0Q8IzesULGBsYmboYuQUYPRgjGCuAPMZVjOxczAZGhgJMGxgZdzD-hwHGV4wgSwAWYjcs9QIAAA&masterhotelid_tracelogid=100051355-0a98c626-494334-78592&detailFilters=17|1~17~1*31|5218386~31~5218386*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=169&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/8ztpltxn)
+
+***
+
+## Hilton Garden Inn Bali Ngurah Rai Airport
+
+距離機場 500 米嘅希爾頓品牌，有免費機場接送同庫塔市區購物中心接駁車，比起 Novotel 多咗更寬敞嘅空間同更豐富嘅家庭設施，適合需要住多一兩晚、唔只係過夜嘅旅客。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173676061-7ea18c1e1cc821e51270f407945fa8d8.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173676576-8d72ac2a5c079dbe90119e21de799267.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173678209-9c41ea04d566ff7fe07b9dd1ec4d82c4.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173678615-96ee2dd11d8bfcb495c1f9e66924bec0.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173679120-78473ac0e6108e7050368e25cda14545.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173679527-629842648.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173679937-a527a56a3a1a3e0b4818d47c5bc8b2fb.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173680451-b67fe27872cbe0595e9677f7a69ab426.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173681202-ebee00eb236fbd5747f55a0932a62a6c.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1777173681585-6a5b050311c4992b5e74e133df7c29f8.webp)
+
+📍 **位置**：Jalan Airport Ngurah Rai No. 7, Tuban，距離機場行 500 米（約 5-7 分鐘），Waterbom Bali 約 1.6 公里，Discovery Mall 約 1.6 公里，庫塔市區車程約 10 分鐘，有免費機場接送同市區購物中心接駁車。
+
+🏨 **設施**：288 間客房、大型景觀戶外泳池、兒童泳池、24 小時健身中心、Garden Grille 餐廳（峇里島菜同西式料理，早餐可以即點即製）、Garden Lounge 酒吧、24 小時自助洗衣房、免費機場接駁同庫塔市區購物中心接駁車。
+
+🛏️ **客房**：雙層玻璃隔音設計，房間隔音效果非常好。空間闊落，有工作枱、40 吋 HDTV、迷你雪櫃，部分套房有獨立客廳。床褥同枕頭質素喺住客評價中一致獲得讚賞。
+
+💬 **住客評價**：員工友善度係一致嘅亮點，早餐即點即製質素高；缺點係雞尾酒同泳池飲品價錢偏貴，唔住宿入泳池都要俾錢。整體嚟講係機場附近硬件最完整嘅選擇。
+
+> Agoda 評價8.4⭐  ｜ [空房 & 房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=661189) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1837738&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6zMzFJMEk9YaZo_HSgyusQoxGBqwWnwUdZ80Egq0FDp5LCmy5rpuXOATwNDJyXV8M5Ck4zGBcNbVgI2PQDrnW14I-DjsYmU4w3uNewLRyrvUpFmaOVqZLLF-ZoquVslMrlaxMdJRKMktyUpWslJ7N6X3aPfPFpt1KOkopqcXJQCEgKzE3vzSvBMg2NDbXMzAAipQkVnimKFmZ6yglJ-Ykl-YklqSGVBYATTDTUcosdi4pyiwISs3NLClJBapKS8wpTgWJB6UWA2WSwYJKfkBjiqACmfl5EO0GKGJhiTmlqRAnAC10S4XaYVyrg-nyp4vmPW3Y83xFKw6XG5mguNxkQFxuWBv7iIUpOvYTC8MvFoYmVoYuVoZJrMwc97h3sfL4u4S7hprqGupG6RpKyRkaGBiYGhqbmuoaJFpaJJsZmemaWJoYG5vqGpuYm2i8_7nm2FNjI2sp1ikHnk9jV2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xShlaG5sYWhkaGhkZGRprGdikWZWbJFXbJGbFeHBGMRmYOBkbmAaZcPF7OkSJHjvP0uutrKlvRRzSLiL4sqbzGsPTDhtrwWSM4TJBVp8EeN_b7nAPhImn8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgDzaYkV3gIAAA&masterhotelid_tracelogid=100051355-0a98c626-494335-3474&detailFilters=17|1~17~1*31|1837738~31~1837738*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=860&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/dQN4JJ4L)
+
+***
+
+# 📌 點樣揀？
+
+**靠近市區**呢 10 間，每間嘅定位其實差距好大，揀之前先諗清楚自己需要咩：
+
+追求**安靜精品感**嘅情侶或者蜜月旅客，Amnaya Resort 同 Poppies Bali 係兩個極端但都值得考慮嘅選擇——前者現代藝術感，後者傳統歷史感，都可以喺嘈雜嘅庫塔俾你一片難得嘅寧靜。
+
+想要**熱鬧有活力**但又唔只係海灘，The Magani 嘅夜間娛樂氛圍同泳池吧最適合，Kuta Beach Club Hotel 嘅家庭設施都算完整。
+
+如果你嘅行程**以水明漾為重心但預算有限**，Fairfield by Marriott Sunset Road 嘅 Sunset Road 位置夾喺庫塔同水明漾之間，CP 值高且交通方便，係少數可以俾你兼顧兩邊嘅選擇。
+
+只需要一個**穩定好瞓嘅基地**，The Vira Bali 嘅 CP 值同 Four Points by Sheraton 嘅品質保證都係值得信賴嘅選擇。
+
+**訂房建議用 Agoda 比價**，市區酒店旺季加價通常比海灘酒店少，但 Amnaya 同 Poppies 呢啲口碑好嘅精品酒店一樣搶手，建議提早確認。
+
+> 想搵海灘旁邊嘅庫塔酒店？請睇[呢度](/blog/kuta-beach-hotels/)
+
+{{block:kuta}}
+
+{{block:住宿}}

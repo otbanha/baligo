@@ -1,0 +1,262 @@
+---
+slug: bali-family-trip-7-days-2
+title: 親子遊峇里島：7日6夜家庭、小朋友嘅夢幻之旅
+description: 今次暑假峇里島親子之旅令我哋全家都好開心，特別係對小朋友嚟講，呢段旅程充滿冒險同歡笑，成為咗美好嘅回憶。
+pubDate: '2024-08-10'
+update: 2026/05/22
+heroImage: 'https://images.gobaligo.id/vocus/vocus_448b227b14844b7078454555042ed6fc.jpg'
+tags:
+  - 峇里島親子
+  - 親子遊
+  - 峇里島
+  - 小孩子
+  - 峇里島自由行
+originalUrl: 'https://vocus.cc/article/669c8097fd89780001f355be'
+category:
+  - 遊記分享
+lang: zh-hk
+_srcHash: 83c09b4a2d5316b60b11521ebb7a042e
+---
+
+> 以下內容由團友 [Ya-yun Chen](https://www.facebook.com/groups/baligo/permalink/1577292532817986/) 提供俾我哋重新編排：
+
+多謝社團版主同所有團友無私嘅回饋！今次暑假峇里島之旅令我哋全家都好開心，特別係對小朋友嚟講，呢段旅程充滿冒險同歡笑，成為咗美好嘅回憶。
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_108c6da77da092e3f0a1b2da51be8aea.jpg)
+
+### 親子Bali家庭旅遊行程&心得
+
+**旅遊時間：6/28-7/4**
+
+## 住宿
+
+我哋今次揀咗兩間好正嘅Villa，第一次全家一齊住Villa，小朋友對咁樣嘅住宿體驗感到新奇同興奮。
+
+### 水明漾住宿
+
+我哋入住咗The Dusun Villa，呢度地理位置優越，近Jalan Kayu Aya Street（編按：呢條路有咩特別？請睇[小傑嘅介紹](https://www.youtube.com/shorts/oz_QUWvCK_8)）。
+
+泳池又乾淨又大，而且Villa提供預約高爾夫球車服務，可以前往Seminyak Square，對帶小朋友嘅家庭嚟講非常方便。Villa內部設計典雅舒適，配有寬敞嘅客廳同戶外用餐區，小朋友可以喺花園盡情玩樂，家長就可以享受悠閒嘅時光。
+
+> ▶[睇下 The Dusun Villa 有冇房、房型同房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=64314)
+
+The Dusun Villa 嘅介紹已經收錄喺「[水明漾22間令人驚艷嘅峇里島villa](/blog/2024-04-04-660e6e92fd89780001e6047e/)」
+
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_7dd2f9eb804d7aa537b6a03d36c55d5a.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_7244ba03327646ba1bb1b328722ea8f9.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_e3e537ea0e45af11a8e007b5570fe831.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_2aca38a61e17bc3bd9e99e141efae7d9.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_0e115bb1ab241c92e70f89bebf905ac8.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_dd94839c713f54957fbb0574941bf340.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_cc693a822f9497ce8b53794b0f2a00ba.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_089ef8b0ec27928c3cb14cd8d36e7d5f.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_545c9715c26dcec3580e2b7378871132.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_f92d36baa77e626917ac4a9a1469d9a1.jpg)
+
+### **烏布住宿**
+
+我哋住喺塔娜伽嘉哈迪普拉納度假村（Tanah Gajah, a Resort by Hadiprana）
+
+呢度可以預約欣賞Kecak Dance，唔使喺人群中逼嚟逼去。住宿仲包咗非常豐富嘅下午茶同早餐，度假村嘅環境好悠閒，服務人員好親切友善，特別對小朋友好有愛心。成個度假村坐落喺稻田同荷花池中間，景色好靚，令人感覺好似置身世外桃源。
+
+▶[睇下Tanah Gajah有冇房、房型同房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=69555) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=987913&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OazcLFJMEkNYWFY_6hPRPZhBgNLH4LOra-Dtwh926ug-cbIM2atMghgCdiyoHn09gTvaqb9X2OBDoUMoAAx3yHRkZjEHg4y6GLkRWsZgZj5zKbjYweD6tE1oVXO-xgZDrAyHSCcVvoAqZXyxlPsTBzfOC_xPKdKbpaKTu1UsnKREepJLMkJ1XJSunponlPG_Y8X9GqpKOUklqcDBQCshJz80vzSoBsQwNDMz0DA6BQSWKFZwpYa3JiTnJpTmJJakhlAdAIMx2lzGLnkqLMgqDU3MySklSgqrTEnOJUkHhQajFQJhksqOQHNKYIKpCZnwfRbogiFpaYU5oKcQPQQrdUqB2GtTqYTn82p_dp98wXm3YT6XRzajvdgBinG9fGPmJhio79xMLwCxgRTR5NrAxdrMwcp5gmAcltobtY2YJ8Ak0CHS-wNi1glJI3NDAwMDU0NjXVNUi0TDQ1TjbUNbE0MbI00TU3MjU00Zi_fXfjU2MjaylI1CswagnGh3h6uhiWFKaaFZZa5hQVmBownmKUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYrwYAxic3E0N3exiLLhYvZ0CRK8958lV1vZ0l6KOSTcRXHlTea1ByacttcCyRnC5AItvojxv7dcYB-Z120knTLptH0Sa1WGbkh4Rq94AWMDI1MXI7cAowdjBGMFkMe4ipFhAyPjDsb_MMD4ihFkOgCc7suXAAMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494294-72514&detailFilters=17|1~17~1*31|987913~31~987913*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=703&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/kFUdWN1A)
+
+（已經收錄喺[烏布20間令人驚艷嘅峇里島villa推薦](/blog/ubud-villa-pool-guide/)）
+
+---
+
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_5829d9b28b63ca8a1967976e88ef5594.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_bd236159979b599a41ff91470efae6d6.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_cbc156f423d764ac1e6e56a577a2ee88.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_08888ff02913353d6a96a1cc3d886ece.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_4a9289d35b457da1ff4cf9921a369355.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_34d4f4af1c752b68f0497add7f654ec0.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_650293ec464311e41197b5ed75138e86.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_40ae3b02a976c3b03753e370df199af3.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_f18f8b24e0eb429047d245c462a5fb76.jpg)
+![raw-image](https://images.gobaligo.id/vocus/vocus_aaf5e8619b99561eb1b62ab6c05d529f.jpg)
+
+## 行程分享
+
+### **Day 1：**
+
+![金巴蘭（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_93a92d62cee0cfc04cdeeadfa545bb24.jpg)
+
+金巴蘭（Ya-yun Chen提供）
+
+- 抵達峇里島後，我哋兌完錢就直接去咗金巴蘭，享受夕陽海鮮大餐，揀咗Sunshine88餐廳。呢度嘅夕陽美景真係令人嘆為觀止，伴隨住海風食新鮮嘅海鮮，令我哋嘅旅程有個美好嘅開始。小朋友喺沙灘上玩得好開心，大人就享受美食同美景嘅完美結合。
+
+### **Day 2：**
+
+![住在有大泳池的villa特別適合帶小孩的家庭（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_721c53131e7fb412075b33185bb4b468.jpg)
+
+住喺有大泳池嘅villa特別適合帶小朋友嘅家庭（Ya-yun Chen提供）
+
+> 延伸閱讀：[峇里島旅遊：三房/四房以上嘅家庭別墅住宿推薦](/blog/bali-group-villa-stay/)
+
+- 朝早喺Villa享受悠閒嘅早餐同游水，然後去咗iiga Warung食咗個美味嘅豬肋排午餐。呢間餐廳嘅豬肋排香嫩多汁，真係令人食指大動。
+
+![GWK擁有全世界第四高的雕像建築](https://images.gobaligo.id/vocus/vocus_e50fd39f5aa92927dcdea4cf66420d13.jpg)
+
+GWK擁有全世界第四高嘅雕像建築
+
+- 跟住我哋參觀咗GWK文化公園，園內嘅巨大雕像同文化展示令我哋對峇里島嘅歷史同傳統有咗更多嘅了解。
+
+（編按：除咗欣賞巨大嘅雕像，神鷹廣場仲定期舉辦免費表演，例如Kecak火舞等。呢啲表演充滿魅力，令你彷彿置身於峇里島嘅神話世界中。唔好忘記睇下園區內嘅其他免費表演，令你嘅旅程更加豐富多彩。）
+
+![raw-image](https://d2a6d2ofes041u.cloudfront.net/resize)
+
+GWK嘅免費表演時刻表（僅供參考，以現場為準）
+
+GWK有定時嘅免費表演，隨時到都可以入場。如果唔想額外使錢去烏魯瓦圖睇Kecak火舞，呢度18:00嘅免費火舞表演你就千祈唔好錯過啦！）
+
+> [峇里島 Garuda Wisnu Kencana GWK神鷹廣場/神鷹文化公園全攻略](/blog/gwk-cultural-park-bali/)
+
+> 預訂[GWK文化公園門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F13234-garuda-wisnu-kencana-cultural-park-admission-ticket-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D31be720b57)
+
+![海上獨木舟（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_0b17715e85338d194dcaf80fe98912fc.jpg)
+
+海上獨木舟（Ya-yun Chen提供）
+
+- 之後我哋嚟到Mertasari Beach玩划獨木舟，只需USD$1/船，可以用一個鐘，小朋友喺水中玩，大人就喺岸邊享受陽光。
+
+> 延伸閱讀：[小傑嘅海上獨木舟體驗](/blog/sanur-kayaking-experience/)
+
+![Bandar Nelayan Seafood（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_0986163175368aef99f15a4b9fa93ce4.jpg)
+
+Bandar Nelayan Seafood（Ya-yun Chen提供）
+
+- 晚餐我哋揀咗Bandar Nelayan Seafood，呢度嘅海鮮非常新鮮好味，環境亦都好乾淨，強烈推薦！
+
+### **Day 3：**
+
+![Nusa Penida（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_f9c44582d70f2fdbe7a329bf0b39f852.jpg)
+
+Nusa Penida（Ya-yun Chen提供）
+
+- 今日我哋參加咗Nusa Penida嘅西部一日遊，搭咗10:30嘅船，行程包括Klingking Beach、Angel Bilabong、Broken Beach同Crystal Bay。呢啲景點嘅自然風光真係好壯麗，特別係Klingking Beach，嗰度嘅懸崖景色令到我哋全家都嘆為觀止。雖然條路好顛簸，但係小朋友當咗係玩碰碰車咁，玩得好開心。
+
+- [佩尼達島一日遊（峇里島出發）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7847cab48f)
+- [佩尼達島網紅景點打卡 & 潛水之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26411-nusa-penida-instagram-private-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D370017bd78)
+- [佩尼達島快艇船票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E4%25BD%25A9%25E5%25B0%25BC%25E9%2581%2594%25E5%25B3%25B6%25E8%2588%25B9%25E7%25A5%25A8%26needQueryIdentification%3Dtrue%26spm%3DPOI_Destination.SearchSuggest_LIST%26clickId%3D6473cefd11)
+- [八人以上團體可以考慮包船](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026516&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106290-private-boat-rental-nusa-penida-from-bali%2F)
+- [佩尼達島私人包車](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23014-nusa-penida-private-car-charter-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd8cbaa8627)
+- [探索之旅 - 峇里島出發（沙努爾港集合）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54289-nusa-penida-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76e0910049)
+- [Nusa Penida多日遊](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
+- [藍夢島 & 曼塔灣浮潛體驗](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
+- [Nusa Penida浮潛體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49082-snorkeling-experience-nusa-penida%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad6a39918d)
+- [Nusa Penida電單車出租](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26687-nusa-penida-scooter-rental%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7434f423bc)（路況非常差，請自行斟酌）
+- [佩尼達島 & 藍夢島私人包船遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=764788&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F92390-private-boat-charter-for-nusa-penida-and-lembongan%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7668f8e7d8)
+- 預訂 [Nusa Penida一日遊（可選中文導遊）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D1f7788d1d4)
+
+### **第4日：**
+
+![包車一日遊（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_f2a109172a9a3e812e741f773c5dcd9c.jpg)
+
+包車一日遊（Ya-yun Chen提供）
+
+- 全日包車進行廟宇文化之旅，參觀咗海神廟Pura Tanah Lot（現場買飛），呢座廟宇坐落喺海邊嘅岩石上，潮漲時四周俾海水包圍，景色好壯觀。
+- 之後我哋去咗美麗嘅梯田Jatiluwih Rice Terraces，呢度嘅綠色稻田層層疊疊，好似一幅美麗嘅畫卷咁。午餐喺jatiluwih resto食，食完飯我哋沿住梯田小徑散步，感受自然嘅寧靜同美好。
+- 下晝去咗水神廟Ulun Danu Beratan Temple，呢座廟宇坐落喺湖中央，風景如畫，係影相嘅絕佳地點。
+- 我哋仲參觀咗陰陽門Handara Gate，到咗時買飛處話要影相嘅話要等一個鐘，所以我哋選擇放棄。
+
+> 延伸閱讀：[原來"善惡門"係錯誤翻譯!? Candi Bentar嘅意義同正確叫法](/blog/candi-bentar-balinese-gate-history/)
+
+### **第5日：**
+
+- 朝早喺Villa享受悠閒嘅早餐同游水，之後參加咗Jungle Cart Ubub嘅活動，費用係USD$25/人，活動時間約2-3個鐘。呢項係好刺激嘅戶外活動，小朋友喺森林入面駕駛卡丁車，玩得好開心。
+
+![Jungle Cart 請看小傑的介紹](https://images.gobaligo.id/vocus/vocus_67919aa2ca07a223f708bf11bc265a00.jpg)
+
+[Jungle Cart 請睇小傑嘅介紹](/blog/ubud-jungle-cart-adventure/)
+
+> 延伸閱讀：[峇里島烏布叢林馬力歐賽車 Jungle Cart Bali](/blog/ubud-jungle-cart-adventure/)
+
+- 然後我哋參觀咗烏布皇宮（Ubud Palace），呢座皇宮保存得好好，令我哋對峇里島嘅傳統建築同文化有咗更多了解。
+- 跟住我哋去咗烏布水皇宮（Pura Taman Saraswati），呢度嘅荷花池同精美嘅石雕真係令人流連忘返。
+- 我哋仲去咗烏布市集（Ubud Market）行街購物，揀咗啲當地特色手工藝品做紀念。
+
+請參考小傑製作嘅「烏布攻略地圖」: <https://s.id/ubud_guide>
+
+- 夜晚我哋喺Villa預約咗19:00嘅Kecak Dance表演，喺舒適嘅環境中欣賞舞蹈，真係好享受。
+
+![飯店的火舞表演（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_4ec3b4a0f2fe79cebc76e5fd56055f8f.jpg)
+
+酒店嘅火舞表演（Ya-yun Chen提供）
+
+### **第6日：**
+
+![Day 6活動（Ya-yun Chen提供）](https://images.gobaligo.id/vocus/vocus_fbfcac1aac0e23c266b596e9dff68b1a.jpg)
+
+第6日活動（Ya-yun Chen提供）
+
+- 今日嘅活動包括Wos Tubbing Adventure泛舟，呢個係一項好有趣嘅水上活動，我哋全家都玩得好開心。
+
+> [峇里島泛舟攻略（泛舟常見問題FAQ）](/blog/bali-rafting-ayung-telaga-waja/)
+
+> 預訂[沃斯河泛舟優惠票券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110089-tubing-experience-ubud-wos-tubing-adventure%2F%3Fcampaignid%3D21203884931%26adgroupid%3D166936151891%26targetid%3Ddsa-2304163218195%26matchtype%3D%26device%3Dc%26creative%3D697061761157%26extensionid%3D%26keyword%3D%26loc_interest_ms%3D%26loc_physical_ms%3D9119738%26network%3Dg%26utm_content%3Dcampaignid_21203884931_adgroupid_166936151891%26gad_source%3D1%26gclid%3DCjwKCAjw4_K0BhBsEiwAfVVZ_6xWskrg8op_zwbS5jmaegXQ5hh1Qn8eJlcJUhIOPQ9gyTjW5tKoWBoCUtIQAvD_BwE%26spm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dc20fca3e03)
+
+- 跟住我哋參觀咗Bali Bird Park，呢度有好多美麗嘅雀仔，小朋友對呢啲色彩斑斕嘅雀仔好有興趣。
+
+> [峇里島鳥園終極攻略：珍稀鳥種、互動活動與生態保育嘅奇幻旅程](/blog/bali-bird-park-guide/)
+
+> 預訂[峇里島鳥園優惠門票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D8c994fcef3)
+
+- 下晝返到度假村享用下午茶同游水放鬆，度過咗一個悠閒愉快嘅下晝。
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_be1afd0d3207cfc5cb4fbd84763fe7f6.jpg)
+
+想了解更多烏布攻略？[請點擊呢度](/blog/ubud-guide/)
+
+### **第7日：**
+
+- 朝早悠哉咁享用早餐，然後11:30 checkout，準備去機場返國。今次嘅峇里島之旅充滿咗美好嘅回憶，令我哋對呢個美麗嘅島嶼有咗更多嘅喜愛同留戀。
+
+---
+
+## 小貼士
+
+- **行前小費文化調查分享：**
+- - 每日包車司機5萬~10萬印尼盾
+  - 行李：1萬/5萬印尼盾（約USD$1/3）
+  - 床頭/餐廳：1萬/2萬印尼盾（約USD$1/1）
+  - 按摩預先俾1成小費
+  - 「KEEP THE CHANGE」：唔使找零，印尼盾一萬以下當地人唔容易找零。
+
+- **住宿Villa建議：** 如果有鍾意玩水嘅小朋友，強烈建議住Villa，可以請包車司機安排向當地業者租借大型游泳圈，或者喺Klook預訂，小朋友會玩得好開心。
+
+![raw-image](https://images.gobaligo.id/vocus/vocus_a1dc699ccad5ec44b57b56c8328810f8.jpg)
+
+> Klook [大型浮床租借服務](https://affiliate.klook.com/redirect?aid=116349&aff_adid=775806&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F4837-pool-float-rental-bali%2F)
+
+- **交通提示：** 七八月係旺季，11:30過後成日塞車，建議每日最多安排2-3個景點就已經好充實。
+- **Nusa Penida遊覽心得：** 雖然路況顛簸，但小朋友當係碰碰車咁玩，感覺特別有趣。由於我哋嘅小朋友都係小學生，所以冇參加浮潛行程，但淨係西岸一日遊就已經非常值得去。
+
+峇里島嘅當地人文風情真係好迷人，無論係廟宇、玩水定係自然景觀，都充滿獨特嘅魅力。今次旅程令我哋對峇里島有咗更多了解同喜愛，好期待下次再嚟！
+
+你覺得Ya-yun Chen佢哋嘅行程好精彩嗎？快啲安排屬於你嘅峇里島自由行啦！亦都歡迎大家到社團投稿你嘅行程喔！
+
+![raw-image](https://d2a6d2ofes041u.cloudfront.net/resize)
+
+撳呢度睇更多峇里島精彩遊記
+
+你都想寫遊記但唔知點落手？可以參考下「[如何寫一篇精彩嘅峇里島遊記](/blog/how-to-write-bali-travelogue/)」，幫你嘅遊記更加出彩！
+
+## 參考攻略：
+
+- [峇里島水明漾100個景點攻略](/blog/seminyak-guide/)
+- [庫塔必訪50個景點攻略](/blog/2023-12-13-657598bdfd8978000120fe20/)
+- [坎古80個必遊景點](/blog/canggu-guide/)
+- [烏布探索嘅100個方式](/blog/ubud-guide/)
+- [金巴蘭攻略](/blog/jimbaran-guide/)
+- [烏魯瓦圖攻略](/blog/uluwatu-guide/)
+- [武吉半島冒險指南](/blog/bukit-peninsula-guide/)
+- [沙努爾45項吃喝玩樂攻略](/blog/sanur-guide/)
+- [努沙杜瓦40個住宿美食活動攻略](/blog/nusa-dua-guide/)
+- [佩尼達島吃喝玩樂全攻略](/blog/nusa-penida-guide/)
+- [藍夢島/金銀島景點全攻略](/blog/nusa-lembongan-ceningan-guide/)
+- [Nuanu Creative City攻略](/blog/nuanu-creative-city-luna-guide/)
+- [科摩多島攻略](/blog/komodo-island-labuan-bajo-travel/)
+- [Amed/Tulamben攻略](/blog/amed-tulamben-diving-guide/)

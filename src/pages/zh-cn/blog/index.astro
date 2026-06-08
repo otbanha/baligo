@@ -1,0 +1,995 @@
+---
+export const prerender = true;
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import TopStrip from '../../../components/TopStrip.astro';
+import Footer from '../../../components/Footer.astro';
+import ChatBot from '../../../components/ChatBot.astro';
+import ExchangeRateWidget from '../../../components/ExchangeRateWidget.astro';
+import ForumRecentReplies from '../../../components/ForumRecentReplies.astro';
+import BaliWeather from '../../../components/BaliWeather.astro';
+import { getCollection, render } from 'astro:content';
+import featuredData from '../../../featured.json';
+import top5Data from '../../../top5.json';
+import qaI18n from '../../../qa-i18n.json';
+
+const blogBase = '/zh-cn/blog';
+
+const allPromos = await getCollection('promotions');
+const now = new Date();
+const activePromos = allPromos.filter(p => !p.data.expiresAt || p.data.expiresAt > now);
+const promosJson = JSON.stringify(activePromos.map(p => ({
+  title: p.data.title_zh_cn || p.data.title,
+  url: p.data.url.startsWith('/blog/') ? `/zh-cn${p.data.url}` : p.data.url,
+  coverImage: p.data.coverImage || null,
+})));
+
+function extractFirstImage(body: string): string {
+  const m = body?.match(/!\[.*?\]\((https?:\/\/[^)\s]+)\)/);
+  return m ? m[1] : '';
+}
+
+const langPosts = await getCollection('zh-cn');
+const langMap = new Map(langPosts.map(p => [p.id, p]));
+
+function getPublishTime(p: any): Date {
+  const d = new Date(p.data.pubDate);
+  if (p.data.pubHour != null) {
+    d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
+  }
+  return d;
+}
+const isPublished = (p: any) => p.data.pubDate && !p.data.private && getPublishTime(p) <= now;
+
+const allPosts = (await getCollection('blog'))
+  .filter(isPublished)
+  .map(p => {
+    const t = langMap.get(p.id);
+    return {
+      ...p,
+      data: {
+        ...p.data,
+        title: t?.data.title ?? p.data.title,
+        description: t?.data.description ?? p.data.description,
+        pubDate: new Date(p.data.pubDate),
+        heroImage: p.data.heroImage || extractFirstImage(p.body),
+      }
+    };
+  })
+  .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf());
+
+const countFloor = Math.floor(allPosts.length / 100) * 100;
+
+const getCategories = (cat: any): string[] => {
+  if (!cat) return [];
+  if (Array.isArray(cat)) return cat;
+  if (typeof cat === 'string') return [cat];
+  return [];
+};
+
+const CAT_ZH_CN: Record<string, string> = {
+  '新手指南': '新手指南',
+  '住宿推薦': '住宿推荐', '住宿推荐': '住宿推荐',
+  '峇里島分區攻略': '峇里岛分区攻略', '峇里岛分区攻略': '峇里岛分区攻略',
+  '簽證通關': '签证通关', '签证通关': '签证通关',
+  '叫車包車': '叫车包车', '叫车包车': '叫车包车',
+  '家庭親子': '家庭亲子', '家庭亲子': '家庭亲子',
+  '遊記分享': '游记分享', '游记分享': '游记分享',
+  '美食景點活動': '美食景点活动', '美食景点活动': '美食景点活动',
+  '新聞存檔': '新闻存档', '新闻存档': '新闻存档',
+};
+
+const categoryOrder = [
+  '新手指南','住宿推薦','峇里島分區攻略','簽證通關',
+  '叫車包車','家庭親子','遊記分享','美食景點活動','新聞存檔',
+];
+
+const allCategories = [...new Set(allPosts.flatMap(p => getCategories(p.data.category)).filter(Boolean))];
+const categories = [
+  ...categoryOrder.filter(c => allCategories.includes(c)),
+  ...allCategories.filter(c => !categoryOrder.includes(c)),
+];
+const categoryCounts = categories.reduce((acc, cat) => {
+  acc[cat] = allPosts.filter(p => getCategories(p.data.category).includes(cat)).length;
+  return acc;
+}, {} as Record<string, number>);
+
+const allPostsData = allPosts
+  .filter(p => true /* include 新聞存檔 */)
+  .map(p => ({
+    id: p.id,
+    slug: p.data.slug || p.id,
+    hasTranslation: langMap.has(p.id),
+    title: p.data.title,
+    description: p.data.description || '',
+    heroImage: p.data.heroImage || '',
+    category: getCategories(p.data.category),
+  }));
+
+const accommodations = allPosts
+  .filter(p => getCategories(p.data.category).includes('住宿推薦'))
+  .slice(0, 5)
+  .map(p => ({ id: p.id, title: p.data.title, heroImage: p.data.heroImage || '' }));
+
+const allBlogRaw = await getCollection('blog');
+const baliNewsRaw = allBlogRaw
+  .filter(p => getCategories(p.data.category).includes('新聞存檔') && isPublished(p))
+  .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf())
+  .at(0);
+
+const baliNewsToRender = (baliNewsRaw && langMap.get(baliNewsRaw.id)) ?? baliNewsRaw;
+const { Content: BaliNewsContent } = baliNewsToRender
+  ? await render(baliNewsToRender)
+  : { Content: null };
+
+const top5Posts = top5Data.articles
+  .map(id => allPosts.find(p => p.id === id))
+  .filter(Boolean)
+  .map(p => ({ id: p!.id, slug: p!.data.slug || p!.id, title: p!.data.title }));
+
+const qaCollection = await getCollection('qa');
+const qaData = qaCollection.map(q => ({ title: (qaI18n as any)[q.id]?.['zh-cn'] ?? q.data.title }));
+
+const youtubeVideos = [
+  '0fqEvAzAy9A','GivvqCXp11A','H5N5_UuK7TI','EotdDxXHFwE','7JIqxDIyDF0','ePutHL_Ob1Q'
+];
+
+const socialLinks = [
+  { label: 'FB 粉丝团', url: 'https://www.facebook.com/bali.guide.blog', type: 'facebook' },
+  { label: '峇里岛/印尼旅游', url: 'https://www.facebook.com/groups/indonesia.travelguide', type: 'facebook' },
+  { label: '峇里岛旅游', url: 'https://www.facebook.com/groups/baligo', type: 'facebook' },
+  { label: 'Instagram', url: 'https://www.instagram.com/go.bali.go/', type: 'instagram' },
+  { label: 'YouTube', url: 'https://www.youtube.com/@j_indonesia', type: 'youtube' },
+  { label: 'Threads', url: 'https://www.threads.com/@go.bali.go', type: 'threads' },
+];
+---
+
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <BaseHead title="峇里岛旅游攻略 | Go Bali Go" description="峇里岛旅游最完整的中文攻略网站。签证、交通、住宿、美食、景点、行程规划，600+ 篇深度文章。" noSuffix={true} />
+  <script is:inline>
+    window.__ORIGINAL_TITLE = document.title;
+    window.__ORIGINAL_DESC = document.querySelector('meta[name="description"]')?.content || '';
+    window.__ORIGINAL_OG_TITLE = document.querySelector('meta[property="og:title"]')?.content || '';
+    window.__ORIGINAL_CANONICAL = document.querySelector('link[rel="canonical"]')?.href || '';
+  </script>
+  <link rel="alternate" hreflang="x-default" href="https://gobaligo.id/blog/" />
+  <link rel="alternate" hreflang="zh-TW"     href="https://gobaligo.id/blog/" />
+  <link rel="alternate" hreflang="zh-HK"     href="https://gobaligo.id/zh-hk/blog/" />
+  <link rel="alternate" hreflang="zh-CN"     href="https://gobaligo.id/zh-cn/blog/" />
+  <link rel="alternate" hreflang="en"        href="https://gobaligo.id/en/blog/" />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Go Bali Go 峇里岛旅游攻略",
+    "url": "https://gobaligo.id",
+    "description": "峇里岛旅游最完整的中文攻略网站，600+ 篇深度文章。",
+    "inLanguage": ["zh-TW", "zh-HK", "zh-CN", "en"],
+    "potentialAction": {
+      "@type": "SearchAction",
+      "target": { "@type": "EntryPoint", "urlTemplate": "https://www.google.com/search?sitesearch=gobaligo.id/zh-cn/blog&q={search_term_string}" },
+      "query-input": "required name=search_term_string"
+    }
+  })} />
+  <script type="application/ld+json" id="newbie-schema-slot"></script>
+</head>
+<body>
+  <Header lang="zh-cn" />
+  <TopStrip lang={'zh-cn'} />
+
+  <div class="layout">
+    <aside class="sidebar" id="sidebar">
+      <button class="sidebar-toggle" id="sidebar-toggle" aria-expanded="false">
+        📂 文章分类 <span class="toggle-arrow">▼</span>
+      </button>
+      <div class="sidebar-inner" id="sidebar-inner">
+        <div class="sidebar-section">
+          <h3 class="sidebar-title">📂 文章分类</h3>
+          <ul class="category-list">
+            <li>
+              <button class="category-item active" data-category="all">
+                <span class="cat-name">首页</span>
+                <span class="cat-count">{allPosts.length}</span>
+              </button>
+            </li>
+            {categories.map(cat => (
+              <li>
+                <button class="category-item" data-category={cat}>
+                  <span class="cat-name">{CAT_ZH_CN[cat] ?? cat}</span>
+                  <span class="cat-count">{categoryCounts[cat]}</span>
+                </button>
+              </li>
+            ))}
+          </ul>
+        </div>
+      </div>
+    </aside>
+
+    <main>
+      <div id="homepage-blocks">
+
+        <!-- 核心价值主张 Hero Section -->
+        <div class="value-hero">
+          <h1 class="hero-headline">巴厘岛旅游一站通</h1>
+          <p class="hero-tagline">中文巴厘岛旅游最完整攻略，{countFloor}+ 文章、300+ 精选酒店/别墅、每日汇率、免费规划工具、在地司机推荐</p>
+          <ul class="value-bullets">
+            <li>✓ {allPosts.length} 篇深度攻略，持续更新</li>
+            <li>✓ 300+ 巴厘岛酒店 / 别墅精选评测</li>
+            <li>✓ 每日印尼盾汇率，助你精准预算</li>
+            <li>✓ 免费行程规划工具 & 预算计算机</li>
+            <li>✓ 社群实测，千位旅客认证司机</li>
+          </ul>
+        </div>
+
+        <!-- 田字格 2×2 快速入口 -->
+        <div class="quick-grid">
+          <a href="/zh-cn/trip-planner/" class="qg-btn qg-blue">
+            <span class="qg-icon">🗺️</span>
+            <span class="qg-title">行程规划工具</span>
+            <span class="qg-desc">个性化分区攻略与景点推荐</span>
+          </a>
+          <a href="/zh-cn/bali-budget-calculator/" class="qg-btn qg-green">
+            <span class="qg-icon">💰</span>
+            <span class="qg-title">预算计算器</span>
+            <span class="qg-desc">立即估算每人巴厘岛旅费</span>
+          </a>
+          <a href="https://gobaligo.id/blog/bali-transport-quiz/" class="qg-btn qg-orange">
+            <span class="qg-icon">🚗</span>
+            <span class="qg-title">包车？叫车？</span>
+            <span class="qg-desc">一分钟测验选出最省钱移动方式</span>
+          </a>
+          <a href="https://gobaligo.id/map/" class="qg-btn qg-teal">
+            <span class="qg-icon">📍</span>
+            <span class="qg-title">攻略地图</span>
+            <span class="qg-desc">景点、住宿、餐厅互动地图</span>
+          </a>
+        </div>
+
+        <!-- 必读攻略导航 -->
+        <div class="essential-guides">
+          <h2 class="section-title fade-in">📚 必读攻略导航</h2>
+          <div class="guides-grid">
+            <a href="/zh-cn/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97" class="guide-card">
+              <span class="guide-icon">🎒</span>
+              <span class="guide-name">新手指南</span>
+              <span class="guide-count">{categoryCounts['新手指南'] || 0} 篇</span>
+            </a>
+            <a href="/zh-cn/blog/bali-private-car-drivers-guide/" class="guide-card">
+              <span class="guide-icon">🚗</span>
+              <span class="guide-name">包车司机推荐</span>
+              <span class="guide-desc">寻找可靠的司机</span>
+            </a>
+            <a href="/zh-cn/blog/?cat=%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C" class="guide-card">
+              <span class="guide-icon">🛂</span>
+              <span class="guide-name">签证通关</span>
+              <span class="guide-count">{categoryCounts['簽證通關'] || 0} 篇</span>
+            </a>
+            <a href="/zh-cn/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6" class="guide-card">
+              <span class="guide-icon">🏨</span>
+              <span class="guide-name">住宿推荐</span>
+              <span class="guide-count">{categoryCounts['住宿推薦'] || 0} 篇</span>
+            </a>
+            <a href="/zh-cn/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5" class="guide-card">
+              <span class="guide-icon">🗺️</span>
+              <span class="guide-name">分区攻略</span>
+              <span class="guide-count">{categoryCounts['峇里島分區攻略'] || 0} 篇</span>
+            </a>
+            <a href="/zh-cn/blog/?cat=%E7%BE%8E%E9%A3%9F%E6%99%AF%E9%BB%9E%E6%B4%BB%E5%8B%95" class="guide-card">
+              <span class="guide-icon">🍽️</span>
+              <span class="guide-name">景点推荐</span>
+              <span class="guide-count">{categoryCounts['美食景點活動'] || 0} 篇</span>
+            </a>
+          </div>
+        </div>
+
+        <!-- 最新讨论回复 -->
+        <ForumRecentReplies lang="zh-cn" />
+
+        <!-- 每日參考匯率 -->
+        <ExchangeRateWidget lang="zh-cn" />
+
+        <div class="top-widgets" id="top-widgets">
+          <div class="widget-box">
+            <h2 class="widget-title fade-in">🏨 Accommodations</h2>
+            {accommodations.length > 0 ? (
+              <a href="#" id="accom-link" class="accom-card">
+                <div class="accom-image">
+                  <img id="accom-img" src={accommodations[0].heroImage} alt="" loading="lazy" />
+                </div>
+                <div class="accom-body">
+                  <p id="accom-title">{accommodations[0].title}</p>
+                </div>
+              </a>
+            ) : (
+              <div class="widget-empty">即将推出</div>
+            )}
+          </div>
+
+          <div class="widget-box">
+            <h2 class="widget-title fade-in">📰 Bali News</h2>
+            {baliNewsRaw ? (
+              <div class="news-scroll">
+                <a href={`${blogBase}/${baliNewsRaw.id}/`} class="news-post-date">
+                  {new Date(baliNewsRaw.data.pubDate).toISOString().split('T')[0]}
+                </a>
+                <div class="news-body">
+                  <BaliNewsContent />
+                </div>
+              </div>
+            ) : (
+              <div class="widget-empty">即将推出</div>
+            )}
+          </div>
+        </div>
+
+        {top5Posts.length > 0 && (
+          <div class="top5-section" id="top5-section">
+            <h2 class="section-title fade-in">🔥 本周热门文章</h2>
+            <ul class="top5-list" id="top5-list">
+              {top5Posts.map((post, i) => (
+                <li class="top5-item" data-index={i}>
+                  <a href={`${blogBase}/${post.slug}/`}>
+                    <span class="top5-num">{i + 1}</span>
+                    <span class="top5-title">{post.title}</span>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </div>
+        )}
+
+        <!-- YouTube + 求救箱 两栏 -->
+        <div class="yt-qa-row">
+          <div class="youtube-section">
+            <div class="youtube-player">
+              <iframe id="yt-iframe" width="100%" height="100%" src=""
+                title="峇里岛旅游影片" frameborder="0"
+                allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+                allowfullscreen></iframe>
+            </div>
+          </div>
+          <div class="qa-widget" id="qa-widget">
+            <div class="qa-widget-header">
+              <h2 class="qa-widget-title">🆘 峇里岛求救箱</h2>
+              <a href="/ask/" class="qa-widget-more">查看全部 →</a>
+            </div>
+            <p class="qa-widget-desc">其他人也在问这些问题</p>
+            <ul class="qa-widget-list" id="qa-widget-list"></ul>
+            <a href="/ask/" class="qa-widget-cta">✉️ 我也有问题想问</a>
+          </div>
+        </div>
+
+        <div class="social-section">
+          {socialLinks.map(s => (
+            <a href={s.url} target="_blank" rel="noopener" class={`social-btn ${s.type}`}>
+              {s.type === 'facebook' && <svg viewBox="0 0 24 24" fill="currentColor"><path d="M24 12.073c0-6.627-5.373-12-12-12s-12 5.373-12 12c0 5.99 4.388 10.954 10.125 11.854v-8.385H7.078v-3.47h3.047V9.43c0-3.007 1.792-4.669 4.533-4.669 1.312 0 2.686.235 2.686.235v2.953H15.83c-1.491 0-1.956.925-1.956 1.874v2.25h3.328l-.532 3.47h-2.796v8.385C19.612 23.027 24 18.062 24 12.073z"/></svg>}
+              {s.type === 'instagram' && <svg viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.163c3.204 0 3.584.012 4.85.07 3.252.148 4.771 1.691 4.919 4.919.058 1.265.069 1.645.069 4.849 0 3.205-.012 3.584-.069 4.849-.149 3.225-1.664 4.771-4.919 4.919-1.266.058-1.644.07-4.85.07-3.204 0-3.584-.012-4.849-.07-3.26-.149-4.771-1.699-4.919-4.92-.058-1.265-.07-1.644-.07-4.849 0-3.204.013-3.583.07-4.849.149-3.227 1.664-4.771 4.919-4.919 1.266-.057 1.645-.069 4.849-.069zM12 0C8.741 0 8.333.014 7.053.072 2.695.272.273 2.69.073 7.052.014 8.333 0 8.741 0 12c0 3.259.014 3.668.072 4.948.2 4.358 2.618 6.78 6.98 6.98C8.333 23.986 8.741 24 12 24c3.259 0 3.668-.014 4.948-.072 4.354-.2 6.782-2.618 6.979-6.98.059-1.28.073-1.689.073-4.948 0-3.259-.014-3.667-.072-4.947-.196-4.354-2.617-6.78-6.979-6.98C15.668.014 15.259 0 12 0zm0 5.838a6.162 6.162 0 100 12.324 6.162 6.162 0 000-12.324zM12 16a4 4 0 110-8 4 4 0 010 8zm6.406-11.845a1.44 1.44 0 100 2.881 1.44 1.44 0 000-2.881z"/></svg>}
+              {s.type === 'youtube' && <svg viewBox="0 0 24 24" fill="currentColor"><path d="M23.495 6.205a3.007 3.007 0 00-2.088-2.088c-1.87-.501-9.396-.501-9.396-.501s-7.507-.01-9.396.501A3.007 3.007 0 00.527 6.205a31.247 31.247 0 00-.522 5.805 31.247 31.247 0 00.522 5.783 3.007 3.007 0 002.088 2.088c1.868.502 9.396.502 9.396.502s7.506 0 9.396-.502a3.007 3.007 0 002.088-2.088 31.247 31.247 0 00.5-5.783 31.247 31.247 0 00-.5-5.805zM9.609 15.601V8.408l6.264 3.602z"/></svg>}
+              {s.type === 'threads' && <svg viewBox="0 0 24 24" fill="currentColor"><path d="M19.59 6.69a4.83 4.83 0 01-3.77-4.25V2h-3.45v13.67a2.89 2.89 0 01-2.88 2.5 2.89 2.89 0 01-2.89-2.89 2.89 2.89 0 012.89-2.89c.28 0 .54.04.79.1V9.01a6.27 6.27 0 00-.79-.05 6.34 6.34 0 00-6.34 6.34 6.34 6.34 0 006.34 6.34 6.34 6.34 0 006.33-6.34V8.69a8.27 8.27 0 004.84 1.56V6.79a4.85 4.85 0 01-1.07-.1z"/></svg>}
+              <span>{s.label}</span>
+            </a>
+          ))}
+        </div>
+
+        <BaliWeather lang="zh-cn" compact={true} />
+
+      </div>
+
+      <div id="cat-heading" style="display:none">
+        <h1 id="cat-heading-text" class="cat-heading-title"></h1>
+      </div>
+
+      <!-- 新手指南分类介绍区块（JS 控制显示） -->
+      <div id="newbie-guide-intro" style="display:none" aria-hidden="true">
+
+        <div class="pillar-recommendation-card">
+          <div class="pillar-card-inner">
+            <div class="pillar-card-left">
+              <div class="pillar-card-icon">🎯</div>
+            </div>
+            <div class="pillar-card-right">
+              <p class="pillar-card-eyebrow">新手必读 · 终极指南</p>
+              <h3 class="pillar-card-title">第一次去巴厘岛？从这里开始</h3>
+              <p class="pillar-card-desc">32 项行前准备、当地实用知识、真实踩坑经验与省钱技巧全收录。一篇看完，新手变老手。</p>
+              <a href="/zh-cn/blog/bali-ultimate-guide-2026/" class="pillar-card-cta">
+                读「2026 巴厘岛自由行终极指南」→
+              </a>
+            </div>
+          </div>
+        </div>
+
+        <div class="newbie-intro-text">
+          <p>第一次去巴厘岛，你可能会问：签证怎么办？现金带多少？住哪个区最安全？会不会被骗？飞机要坐多久？</p>
+          <p>这里集结了 25 篇深度攻略，从出发前 2 个月的准备清单，到抵达后第一天的懒人包。无论你是第一次<strong>巴厘岛自由行</strong>、带家人度假，还是计划长住，都能找到你需要的答案。不管你在<strong>水明漾</strong>喝椰子看夕阳、在<strong>乌布</strong>找隐藏瀑布，还是在<strong>长谷</strong>（Canggu）和冲浪客混在一起，这份<strong>巴厘岛新手指南</strong>都是你的后盾。</p>
+        </div>
+
+        <div class="newbie-topic-groups">
+
+          <div class="newbie-topic-group">
+            <h2 class="newbie-group-title">🛂 签证与入境</h2>
+            <ul class="newbie-article-list">
+              <li><a href="/zh-cn/blog/bali-all-indonesia-arrival-guide/">Bali 入境攻略 All Indonesia 入境卡 2026 完整流程</a></li>
+              <li><a href="/zh-cn/blog/bali-travel-guide-2026/">巴厘岛行前准备 7 大要点：签证 eVOA 换汇住宿完整教学</a></li>
+            </ul>
+          </div>
+
+          <div class="newbie-topic-group">
+            <h2 class="newbie-group-title">💰 行前准备</h2>
+            <ul class="newbie-article-list">
+              <li><a href="/zh-cn/blog/first-time-bali-travel-tips/">巴厘岛新手必看 32 项旅游注意事项全攻略</a></li>
+              <li><a href="/zh-cn/blog/bali-travel-insurance-guide/">巴厘岛旅游保险投保指南 2026 海外医疗不便险理赔</a></li>
+              <li><a href="/zh-cn/blog/bali-currency-exchange-guide/">巴厘岛换汇攻略 印尼卢比换汇最划算方式完整指南</a></li>
+              <li><a href="/zh-cn/blog/2026-bali-indoor-activities/">巴厘岛雨天备案 60 个室内行程推荐躲太阳攻略</a></li>
+            </ul>
+          </div>
+
+          <div class="newbie-topic-group">
+            <h2 class="newbie-group-title">📱 网络与通讯</h2>
+            <ul class="newbie-article-list">
+              <li><a href="/zh-cn/blog/bali-sim-card-esim-roaming-guide/">巴厘岛 SIM 卡 eSIM 推荐比较 2026 漫游方案优缺点</a></li>
+            </ul>
+          </div>
+
+          <div class="newbie-topic-group">
+            <h2 class="newbie-group-title">🗺️ 行程规划</h2>
+            <ul class="newbie-article-list">
+              <li><a href="/zh-cn/blog/2026-bali-trip-planning-guide/">巴厘岛自由行 7 步骤行程规划指南 机票签证区域选择</a></li>
+              <li><a href="/zh-cn/blog/bali-independent-travel-guide/">巴厘岛自由行实战攻略 老手经验分享</a></li>
+              <li><a href="/zh-cn/blog/bali-weather-festivals-2026/">巴厘岛 3-6 月旅游气候与节庆攻略 2026</a></li>
+              <li><a href="/zh-cn/blog/bali-accommodation-area-guide/">巴厘岛住宿区域比较：库塔 水明漾 长谷 乌布怎么选</a></li>
+              <li><a href="/zh-cn/blog/bali-hidden-gems-travel-formula/">巴厘岛景点攻略 隐藏版秘境行程公式 2026</a></li>
+            </ul>
+          </div>
+
+          <div class="newbie-topic-group">
+            <h2 class="newbie-group-title">🚖 交通方式</h2>
+            <ul class="newbie-article-list">
+              <li><a href="/zh-cn/blog/bali-private-car-hire-guide/">巴厘岛包车攻略 费用预订方式完整指南</a></li>
+              <li><a href="/zh-cn/blog/ubud-airport-transport-tips/">巴厘岛机场交通 乌布到机场时间与注意事项</a></li>
+              <li><a href="/zh-cn/blog/bali-transport-quiz/">巴厘岛交通选择测验 Gojek vs 包车哪个最省钱</a></li>
+            </ul>
+          </div>
+
+          <div class="newbie-topic-group">
+            <h2 class="newbie-group-title">⚠️ 安全与禁忌</h2>
+            <ul class="newbie-article-list">
+              <li><a href="/zh-cn/blog/bali-travel-mistakes-tips/">巴厘岛新手避坑 18 个常见错误警告</a></li>
+              <li><a href="/zh-cn/blog/bali-money-exchange-scams/">巴厘岛换钱诈骗手法防范指南 2025</a></li>
+              <li><a href="/zh-cn/blog/bali-motorbike-safety-guide/">巴厘岛摩托车骑行安全 事故自救与保险指南</a></li>
+            </ul>
+          </div>
+
+          <div class="newbie-topic-group">
+            <h2 class="newbie-group-title">💡 生活技巧</h2>
+            <ul class="newbie-article-list">
+              <li><a href="/zh-cn/blog/bali-travel-faqs-guide/">巴厘岛必知 41 个新手常见问题解答</a></li>
+              <li><a href="/zh-cn/blog/bali-water-filter-tips/">巴厘岛生活常识 饮水卫生洗澡真实网友经验</a></li>
+              <li><a href="/zh-cn/blog/bali-tipping-guide-driver-spa/">巴厘岛小费行情 司机按摩酒店床头小费给法大全</a></li>
+              <li><a href="/zh-cn/blog/seminyak-day-trip-guide/">巴厘岛水明漾 Seminyak 一日游行程攻略 2026</a></li>
+            </ul>
+          </div>
+
+        </div><!-- end newbie-topic-groups -->
+
+        <div class="newbie-related-resources">
+          <h2 class="newbie-group-title">📚 新手必看相关工具</h2>
+          <ul class="newbie-article-list">
+            <li><a href="/trip-planner/">🗺️ 巴厘岛行程规划工具</a> — 5分钟生成个人化分区推荐</li>
+            <li><a href="/bali-budget-calculator/">💰 巴厘岛预算计算机</a> — 估算 5/7/10 天需要多少预算</li>
+            <li><a href="/zh-cn/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6">🏨 巴厘岛住宿推荐系列</a> — 全岛最完整住宿精选</li>
+            <li><a href="/zh-cn/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5">📍 巴厘岛分区攻略系列</a> — 库塔、水明漾、乌布、长谷、乌鲁瓦图全攻略</li>
+          </ul>
+        </div>
+
+      </div><!-- end newbie-guide-intro -->
+
+      <div id="featured-section" style="display:none">
+        <h2 class="section-title fade-in">⭐ 编辑精选</h2>
+        <div class="featured-grid">
+          {[0,1,2].map(i => (
+            <a href="#" class="featured-card" data-index={i}>
+              <div class="featured-image"><img src="" alt="" loading="lazy" /></div>
+              <div class="featured-body">
+                <span class="featured-badge">精选</span>
+                <h3></h3>
+              </div>
+            </a>
+          ))}
+        </div>
+      </div>
+
+      <!-- 文章卡片（由 JS 动态渲染，每次只建立当前页） -->
+      <div class="grid" id="posts-grid"></div>
+
+      <div id="pagination" class="pagination"></div>
+
+
+      {activePromos.length > 0 && (
+        <div id="promo-block-main">
+          <div id="promo-block-index"></div>
+        </div>
+      )}
+    </main>
+  </div>
+
+  <ChatBot lang="zh-cn" />
+  <Footer lang="zh-cn" />
+</body>
+
+<script is:inline define:vars={{ featuredData, allPostsData, youtubeVideos, accommodations, top5Posts, blogBase, qaData, CAT_ZH_CN }}>
+  window.addEventListener('DOMContentLoaded', () => {
+    const sidebarToggle = document.getElementById('sidebar-toggle');
+    const sidebarInner = document.getElementById('sidebar-inner');
+    if (sidebarToggle && sidebarInner) {
+      sidebarToggle.addEventListener('click', () => {
+        const isOpen = sidebarInner.classList.toggle('open');
+        sidebarToggle.setAttribute('aria-expanded', isOpen ? 'true' : 'false');
+      });
+    }
+
+    let activeVideos = youtubeVideos;
+    fetch('/api/videos').then(r => r.ok ? r.json() : null).then(data => {
+      if (Array.isArray(data) && data.length > 0) activeVideos = data;
+    }).catch(() => {}).finally(() => {
+      const randomVideo = activeVideos[Math.floor(Math.random() * activeVideos.length)];
+      document.getElementById('yt-iframe').src = `https://www.youtube.com/embed/${randomVideo}?rel=0`;
+    });
+
+    if (accommodations.length > 0) {
+      const random = accommodations[Math.floor(Math.random() * accommodations.length)];
+      const link = document.getElementById('accom-link');
+      const img = document.getElementById('accom-img');
+      const title = document.getElementById('accom-title');
+      if (link) link.href = `${blogBase}/${random.id}/`;
+      if (img) { img.src = random.heroImage; img.alt = random.title; }
+      if (title) title.textContent = random.title;
+    }
+
+    fetch('/api/hot-articles').then(r => r.json()).then(data => {
+      if (!Array.isArray(data) || data.length === 0) return;
+      const section = document.getElementById('top5-section');
+      const list = document.getElementById('top5-list');
+      if (!section || !list) return;
+      const findPost = id => allPostsData.find(p => p.id === id || p.slug === id);
+      const shuffled = data.slice().sort(() => Math.random() - 0.5).slice(0, 6);
+      list.innerHTML = shuffled.map((item) => {
+        const postData = findPost(item.id);
+        const localTitle = postData?.title || item.title;
+        const slug = postData?.slug || item.id;
+        return `<li class="top5-item"><a href="${blogBase}/${slug}/"><span style="display:inline-block;width:20px;height:20px;flex-shrink:0;background-image:url('/favicon-32x32.png');background-size:cover;background-repeat:no-repeat;border-radius:4px"></span><span class="top5-title">${localTitle}</span></a></li>`;
+      }).join('');
+      section.style.display = '';
+    }).catch(() => {});
+
+    let dynamicFeatured = null;
+    fetch('/api/featured').then(r => r.json()).then(data => {
+      if (data && typeof data === 'object' && Object.keys(data).length > 0) {
+        dynamicFeatured = data;
+        if (currentCat && currentCat !== 'all') updateFeatured(currentCat);
+      }
+    }).catch(() => {});
+
+    const POSTS_PER_PAGE = 18;
+    let currentPage = 1;
+    let currentCat = 'all';
+    let currentQ = '';
+    let filteredPosts = [];
+    const buttons = document.querySelectorAll('.category-item');
+
+    function escapeHtml(str) {
+      return String(str || '').replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+    }
+
+    function updateFeatured(cat) {
+      const section = document.getElementById('featured-section');
+      const catHeading = document.getElementById('cat-heading');
+      const catHeadingText = document.getElementById('cat-heading-text');
+      if (catHeading && catHeadingText) {
+        if (cat === 'all') { catHeading.style.display = 'none'; }
+        else { catHeadingText.textContent = cat; catHeading.style.display = 'block'; }
+      }
+      const source = dynamicFeatured || featuredData;
+      const ids = source[cat] || [];
+      if (cat === 'all' || ids.length === 0) { section.style.display = 'none'; return; }
+      const matchedPosts = ids.map(id => allPostsData.find(p => p.id === id)).filter(Boolean);
+      if (matchedPosts.length === 0) { section.style.display = 'none'; return; }
+      const shuffled = matchedPosts.sort(() => Math.random() - 0.5).slice(0, 3);
+      const featuredCardEls = document.querySelectorAll('.featured-card');
+      featuredCardEls.forEach((card, i) => {
+        if (shuffled[i]) {
+          card.href = `${blogBase}/${shuffled[i].id}/`;
+          card.querySelector('h3').textContent = shuffled[i].title;
+          const img = card.querySelector('img');
+          if (img) { img.src = shuffled[i].heroImage; img.alt = shuffled[i].title; }
+          card.style.display = 'flex';
+        } else { card.style.display = 'none'; }
+      });
+      section.style.display = 'block';
+    }
+
+    function buildUrl(cat, page, q = '') {
+      const params = new URLSearchParams();
+      if (cat !== 'all') params.set('cat', cat);
+      if (q) params.set('q', q);
+      if (page > 1) params.set('page', String(page));
+      return blogBase + (params.toString() ? '?' + params.toString() : '');
+    }
+
+    function renderCards() {
+      const grid = document.getElementById('posts-grid');
+      const start = (currentPage - 1) * POSTS_PER_PAGE;
+      const end = start + POSTS_PER_PAGE;
+      const pageData = filteredPosts.slice(start, end);
+      grid.innerHTML = pageData.map((post) => {
+        const catList = post.category || [];
+        const badgeCat = catList[0] || '';
+        const badgeLabel = CAT_ZH_CN[badgeCat] ?? badgeCat;
+        const imgHtml = post.heroImage
+          ? `<img src="${escapeHtml(post.heroImage)}" alt="${escapeHtml(post.title)}" loading="lazy" />`
+          : `<div class="card-image-placeholder"><img src="/apple-touch-icon.png" alt="Go Bali Go" /></div>`;
+        const badgeHtml = badgeCat ? `<span class="category-badge">${escapeHtml(badgeLabel)}</span>` : '';
+        return `<a href="${blogBase}/${escapeHtml(post.slug)}/" class="card fade-in">
+          <div class="card-image">${imgHtml}${badgeHtml}</div>
+          <div class="card-body">
+            <h2 class="card-title">${escapeHtml(post.title)}</h2>
+            <p class="card-desc">${escapeHtml(post.description)}</p>
+          </div>
+        </a>`;
+      }).join('');
+      requestAnimationFrame(() => {
+        requestAnimationFrame(() => {
+          grid.querySelectorAll('.card').forEach((card, i) => {
+            card.style.transitionDelay = `${i * 0.05}s`;
+            card.classList.add('visible');
+          });
+        });
+      });
+      updatePagination();
+    }
+
+    function updatePagination() {
+      const totalPages = Math.ceil(filteredPosts.length / POSTS_PER_PAGE);
+      const pagination = document.getElementById('pagination');
+      pagination.innerHTML = '';
+      if (totalPages <= 1) return;
+      const prev = document.createElement('button');
+      prev.textContent = '← 上一页';
+      prev.className = 'page-btn';
+      prev.disabled = currentPage === 1;
+      prev.onclick = () => { currentPage--; window.history.pushState({ cat: currentCat, page: currentPage, q: currentQ }, '', buildUrl(currentCat, currentPage, currentQ)); renderCards(); window.scrollTo(0, 0); };
+      pagination.appendChild(prev);
+      const info = document.createElement('span');
+      info.className = 'page-info';
+      info.textContent = `第 ${currentPage} / ${totalPages} 页`;
+      pagination.appendChild(info);
+      const next = document.createElement('button');
+      next.textContent = '下一页 →';
+      next.className = 'page-btn';
+      next.disabled = currentPage === totalPages;
+      next.onclick = () => { currentPage++; window.history.pushState({ cat: currentCat, page: currentPage, q: currentQ }, '', buildUrl(currentCat, currentPage, currentQ)); renderCards(); window.scrollTo(0, 0); };
+      pagination.appendChild(next);
+    }
+
+    function applyState(cat, page, q = '', isInitial = false) {
+      currentCat = cat;
+      currentPage = page;
+      currentQ = q;
+      buttons.forEach(b => b.classList.remove('active'));
+      const activeBtn = document.querySelector(`[data-category="${cat}"]`);
+      if (activeBtn) activeBtn.classList.add('active');
+      const homepageBlocks = document.getElementById('homepage-blocks');
+      // Only hide homepage blocks if user explicitly filtered by category or search (not on initial load)
+      if (homepageBlocks && !isInitial) {
+        homepageBlocks.style.display = (cat === 'all' && !q) ? 'block' : 'none';
+      }
+
+      const newbieIntro = document.getElementById('newbie-guide-intro');
+      if (newbieIntro) {
+        const isNewbie = cat === '新手指南';
+        newbieIntro.style.display = isNewbie ? 'block' : 'none';
+        newbieIntro.setAttribute('aria-hidden', isNewbie ? 'false' : 'true');
+
+        const NEWBIE_TITLE = '巴厘岛新手指南 2026｜25篇必看行前攻略 - Go Bali Go';
+        const NEWBIE_DESC = '第一次去巴厘岛？完整收录签证、换汇、住宿、交通、禁忌等25篇深度攻略。新手不踩坑的巴厘岛自由行宝典，2026最新版资讯一次看。';
+        const NEWBIE_CANONICAL = 'https://gobaligo.id/zh-cn/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97';
+
+        if (isNewbie) {
+          document.title = NEWBIE_TITLE;
+          document.querySelector('meta[name="description"]')?.setAttribute('content', NEWBIE_DESC);
+          document.querySelector('meta[property="og:title"]')?.setAttribute('content', NEWBIE_TITLE);
+          document.querySelector('meta[property="og:description"]')?.setAttribute('content', NEWBIE_DESC);
+          document.querySelector('link[rel="canonical"]')?.setAttribute('href', NEWBIE_CANONICAL);
+
+          const schemaSlot = document.getElementById('newbie-schema-slot');
+          if (schemaSlot && !schemaSlot.textContent) {
+            schemaSlot.textContent = JSON.stringify({
+              "@context": "https://schema.org",
+              "@type": "ItemList",
+              "name": "巴厘岛新手指南精选攻略",
+              "url": NEWBIE_CANONICAL,
+              "numberOfItems": 10,
+              "itemListElement": [
+                { "@type": "ListItem", "position": 1, "name": "2026 巴厘岛自由行终极指南", "url": "https://gobaligo.id/zh-cn/blog/bali-ultimate-guide-2026/" },
+                { "@type": "ListItem", "position": 2, "name": "巴厘岛新手必看 32 项旅游注意事项", "url": "https://gobaligo.id/zh-cn/blog/first-time-bali-travel-tips/" },
+                { "@type": "ListItem", "position": 3, "name": "All Indonesia 入境卡完整流程 2026", "url": "https://gobaligo.id/zh-cn/blog/bali-all-indonesia-arrival-guide/" },
+                { "@type": "ListItem", "position": 4, "name": "巴厘岛换汇攻略 印尼卢比怎么换最划算", "url": "https://gobaligo.id/zh-cn/blog/bali-currency-exchange-guide/" },
+                { "@type": "ListItem", "position": 5, "name": "巴厘岛 SIM 卡 eSIM 推荐比较", "url": "https://gobaligo.id/zh-cn/blog/bali-sim-card-esim-roaming-guide/" },
+                { "@type": "ListItem", "position": 6, "name": "巴厘岛包车攻略费用与预订方式", "url": "https://gobaligo.id/zh-cn/blog/bali-private-car-hire-guide/" },
+                { "@type": "ListItem", "position": 7, "name": "巴厘岛不踩坑 18 个常见错误", "url": "https://gobaligo.id/zh-cn/blog/bali-travel-mistakes-tips/" },
+                { "@type": "ListItem", "position": 8, "name": "巴厘岛换钱诈骗手法防范指南", "url": "https://gobaligo.id/zh-cn/blog/bali-money-exchange-scams/" },
+                { "@type": "ListItem", "position": 9, "name": "巴厘岛必知 41 个新手常见问题", "url": "https://gobaligo.id/zh-cn/blog/bali-travel-faqs-guide/" },
+                { "@type": "ListItem", "position": 10, "name": "巴厘岛行前终极指南出发前 7 大重点", "url": "https://gobaligo.id/zh-cn/blog/bali-travel-guide-2026/" }
+              ]
+            });
+          }
+        } else {
+          document.title = window.__ORIGINAL_TITLE || document.title;
+          document.querySelector('meta[name="description"]')?.setAttribute('content', window.__ORIGINAL_DESC || '');
+          document.querySelector('meta[property="og:title"]')?.setAttribute('content', window.__ORIGINAL_OG_TITLE || '');
+          document.querySelector('link[rel="canonical"]')?.setAttribute('href', window.__ORIGINAL_CANONICAL || '');
+        }
+      }
+
+      const qLower = q ? q.toLowerCase() : '';
+      filteredPosts = allPostsData.filter(post => {
+        const catList = post.category || [];
+        if (catList.includes('新聞存檔') && cat !== '新聞存檔') return false;
+        if (cat !== 'all' && !catList.includes(cat)) return false;
+        if (qLower) return post.title.toLowerCase().includes(qLower);
+        return true;
+      });
+      updateFeatured(cat);
+      renderCards();
+    }
+
+    function filterCategory(cat) {
+      window.history.pushState({ cat, page: 1, q: '' }, '', buildUrl(cat, 1));
+      applyState(cat, 1, '', false); // User-initiated filter, allow hiding blocks
+      const newVideo = activeVideos[Math.floor(Math.random() * activeVideos.length)];
+      const iframe = document.getElementById('yt-iframe');
+      if (iframe) iframe.src = `https://www.youtube.com/embed/${newVideo}?rel=0`;
+    }
+
+    buttons.forEach(btn => btn.addEventListener('click', () => filterCategory(btn.dataset.category)));
+    window.addEventListener('popstate', (e) => { applyState(e.state?.cat || 'all', e.state?.page || 1, e.state?.q || '', false); });
+
+    const urlParams = new URLSearchParams(window.location.search);
+    const catParam = urlParams.get('cat') || 'all';
+    const qParam = urlParams.get('q') || '';
+    const pageParam = Math.max(1, parseInt(urlParams.get('page') || '1', 10));
+    window.history.replaceState({ cat: catParam, page: pageParam, q: qParam }, '', window.location.href);
+    const isInitialLoad = !urlParams.has('cat') && !urlParams.has('q');
+    applyState(catParam, pageParam, qParam, isInitialLoad);
+  });
+
+  // 求救箱随机问题
+  (function() {
+    const list = document.getElementById('qa-widget-list');
+    if (!list || !qaData || !qaData.length) return;
+    const shuffled = [...qaData].sort(() => Math.random() - 0.5).slice(0, 4);
+    shuffled.forEach(q => {
+      const li = document.createElement('li');
+      const a = document.createElement('a');
+      a.href = '/ask/';
+      a.textContent = q.title;
+      li.appendChild(a);
+      list.appendChild(li);
+    });
+  })();
+</script>
+
+<style is:global>
+  /* ---- 新手指南分类 intro ---- */
+  .newbie-intro-text { margin: 1.2em 0 1.8em; font-size: 0.96em; line-height: 1.75; color: #7B5038; }
+  .newbie-intro-text p { margin: 0 0 0.8em; }
+  .newbie-topic-groups { margin: 0 0 2em; }
+  .newbie-topic-group { margin-bottom: 1.6em; }
+  .newbie-group-title { font-size: 1em; font-weight: 700; color: var(--ocean, #0a3d6b); margin: 0 0 0.6em; padding-bottom: 0.35em; border-bottom: 2px solid rgba(197,160,89,0.3); }
+  .newbie-article-list { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 0.45em; }
+  .newbie-article-list li { padding: 0.4em 0; font-size: 0.88em; border-bottom: 1px solid rgba(197,160,89,0.12); }
+  .newbie-article-list a { color: var(--ocean, #0a3d6b); text-decoration: none; font-weight: 500; }
+  .newbie-article-list a:hover { text-decoration: underline; }
+  .newbie-related-resources { margin-top: 2em; padding: 1.2em 1.4em; background: #f8f4ec; border-radius: 10px; border: 1px solid rgba(197,160,89,0.25); }
+  .pillar-recommendation-card { margin: 1.5em 0 2em; border-radius: 14px; background: linear-gradient(135deg,#FEF5ED 0%,#FDEBD0 100%); border: 1.5px solid rgba(197,160,89,0.4); box-shadow: 0 2px 16px rgba(10,22,40,0.07); overflow: hidden; transition: box-shadow 0.2s, transform 0.2s; }
+  .pillar-recommendation-card:hover { box-shadow: 0 6px 24px rgba(10,22,40,0.13); transform: translateY(-2px); }
+  .pillar-card-inner { display: flex; align-items: center; gap: 1.2em; padding: 1.4em 1.6em; }
+  .pillar-card-left { flex-shrink: 0; }
+  .pillar-card-icon { font-size: 2.4em; line-height: 1; }
+  .pillar-card-right { flex: 1; }
+  .pillar-card-eyebrow { font-size: 0.75em; font-weight: 700; letter-spacing: 0.08em; color: #9A6447; text-transform: uppercase; margin: 0 0 0.3em; }
+  .pillar-card-title { font-size: 1.05em; font-weight: 800; color: #7B3A2A; margin: 0 0 0.45em; line-height: 1.35; }
+  .pillar-card-desc { font-size: 0.87em; color: #7B5038; margin: 0 0 0.9em; line-height: 1.55; }
+  .pillar-card-cta { display: inline-block; background: #FF8C42; color: #fff; font-size: 0.88em; font-weight: 700; padding: 0.5em 1.1em; border-radius: 8px; text-decoration: none; transition: background 0.2s; }
+  .pillar-card-cta:hover { background: #E07530; text-decoration: none; }
+  @media (max-width: 600px) { .pillar-card-inner { flex-direction: column; align-items: flex-start; gap: 0.8em; padding: 1.1em 1.2em; } }
+  /* ---- 新手指南 end ---- */
+
+:global(.promo-card) { display: block; font-size: 13px; text-decoration: none; border-radius: 10px; overflow: hidden; border: 1px solid rgba(201,168,76,0.3); transition: transform 0.2s, box-shadow 0.2s; background: var(--white); }
+:global(.promo-card):hover { transform: translateY(-2px); box-shadow: 0 4px 16px rgba(10,22,40,0.1); }
+:global(.promo-image) img { width: 100%; height: auto; display: block; }
+:global(.promo-body) { padding: 0.7em 0.8em; }
+:global(.promo-title) { font-size: 13px !important; font-weight: 600; color: var(--ocean); margin: 0 0 0.4em !important; line-height: 1.4; }
+:global(.promo-cta) { font-size: 13px; font-weight: 700; color: var(--gold); }
+.layout { display: grid; grid-template-columns: 260px 1fr; max-width: 1400px; margin: 0 auto; min-height: calc(100vh - 64px); align-items: start; }
+.sidebar { position: sticky; top: 64px; height: calc(100vh - 64px); overflow-y: auto; background: var(--white); border-right: 1px solid rgba(197,160,89,0.2); padding: 1.5em 1em; }
+.sidebar::-webkit-scrollbar { width: 4px; }
+.sidebar::-webkit-scrollbar-thumb { background: rgba(197,160,89,0.3); border-radius: 2px; }
+.sidebar-section { margin-bottom: 1.8em; }
+.sidebar-title { font-size: 0.85em; font-weight: 700; color: var(--ocean); letter-spacing: 0.05em; margin: 0 0 0.8em; padding-bottom: 0.5em; border-bottom: 1px solid rgba(197,160,89,0.2); }
+.category-list { list-style: none; margin: 0; padding: 0; }
+.category-item { display: flex; justify-content: space-between; align-items: center; width: 100%; min-height: 44px; padding: 0.45em 0.7em; border-radius: 8px; border: none; background: none; cursor: pointer; color: var(--text); font-size: 0.88em; font-family: inherit; text-align: left; transition: all 0.15s; margin-bottom: 0.2em; }
+.category-item:hover { background: rgba(197,160,89,0.1); color: var(--ocean); }
+.category-item.active { background: var(--ocean); color: var(--gold-light); }
+.cat-name { flex: 1; }
+.cat-count { font-size: 0.78em; background: rgba(197,160,89,0.15); color: var(--gold); padding: 0.1em 0.5em; border-radius: 10px; font-weight: 600; }
+.category-item.active .cat-count { background: rgba(255,255,255,0.15); color: var(--gold-light); }
+.sidebar-toggle { display: none; }
+main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x: hidden; }
+.top-widgets { display: grid; grid-template-columns: 1fr 1fr; gap: 1.2em; margin-bottom: 1.5em; align-items: start; }
+.widget-box {
+  background: #ffffff; border-radius: 12px; padding: 1.2em; box-shadow: 0 2px 12px rgba(93,64,55,0.10); border: 1px solid rgba(197,160,89,0.35); position: relative; }
+.widget-box::before { content: ''; position: absolute; top: 0; left: 0; right: 0; height: 2px; background: linear-gradient(90deg, transparent, var(--gold), transparent); }
+.widget-title { font-size: 1.1em; font-weight: 700; color: #5D4037; margin: 0 0 1em; padding-bottom: 0.5em; padding-left: 0.6em; border-left: 4px solid var(--gold); border-bottom: 2px solid rgba(197,160,89,0.5); letter-spacing: 0.05em; }
+.widget-empty { color: #9A8070; font-size: 0.88em; text-align: center; padding: 2em 0; }
+.accom-card { display: block; text-decoration: none; color: inherit; border-radius: 8px; overflow: hidden; transition: transform 0.2s; }
+.accom-card:hover { transform: translateY(-2px); }
+.accom-image { height: 220px; overflow: hidden; border-radius: 8px; margin-bottom: 0.7em; background: var(--ocean-mid); }
+.accom-image img { width: 100%; height: 100%; object-fit: cover; border-radius: 8px; }
+.accom-body p { font-size: 0.88em; font-weight: 600; color: #5D4037; margin: 0; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.news-scroll { overflow-y: auto; max-height: 280px; scrollbar-width: thin; scrollbar-color: rgba(197,160,89,0.4) transparent; }
+.news-scroll::-webkit-scrollbar { width: 4px; }
+.news-scroll::-webkit-scrollbar-thumb { background: rgba(197,160,89,0.4); border-radius: 2px; }
+.news-post-date { display: block; font-size: 0.75em; color: var(--gold); text-decoration: none; margin-bottom: 0.6em; }
+.news-body { font-size: 0.82em; color: #5D4037; line-height: 1.7; }
+.news-body * { color: #5D4037; }
+.news-body img { width: 100%; height: auto; border-radius: 6px; margin-bottom: 0.4em; }
+.news-body a { color: var(--gold) !important; }
+.news-body strong, .news-body b { color: #3A2010 !important; }
+.news-body h1, .news-body h2, .news-body h3 { color: var(--gold) !important; font-size: 1.05em !important; font-weight: 700 !important; margin: 0.8em 0 0.3em !important; line-height: 1.4 !important; }
+.top5-section { margin-bottom: 1.5em; background: var(--white); border-radius: 12px; padding: 1.2em 1.5em; box-shadow: 0 2px 12px rgba(10,22,40,0.07); border: 1px solid rgba(197,160,89,0.15); }
+#cat-heading { padding: 0.6em 0 0.2em; }
+.cat-heading-title { font-size: 2em; font-weight: 800; color: var(--ocean); margin: 0; line-height: 1.2; border-left: 5px solid var(--gold); padding-left: 0.5em; }
+@media (max-width: 600px) { .cat-heading-title { font-size: 1.5em; } }
+.section-title { font-size: 1em; font-weight: 700; color: var(--ocean); margin: 0 0 1em; padding-bottom: 0.5em; border-bottom: 2px solid var(--gold); }
+.top5-list { list-style: none; margin: 0; padding: 0; display: flex; flex-wrap: wrap; gap: 0.5em; }
+.top5-item a { display: flex; align-items: center; gap: 0.5em; text-decoration: none; color: var(--text); padding: 0.4em 0.8em; border-radius: 20px; border: 1px solid rgba(197,160,89,0.25); font-size: 0.85em; transition: all 0.15s; background: var(--sand); }
+.top5-item a:hover { background: var(--ocean); color: var(--gold-light); border-color: var(--ocean); }
+.top5-num { width: 20px; height: 20px; flex-shrink: 0; background-image: url('/favicon-32x32.png'); background-size: cover; background-repeat: no-repeat; border-radius: 4px; font-size: 0; }
+.top5-title { line-height: 1.3; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+.yt-qa-row { display: grid; grid-template-columns: 1fr 1fr; gap: 16px; margin-bottom: 1.2em; align-items: start; }
+@media (max-width: 720px) { .yt-qa-row { grid-template-columns: 1fr; } }
+.youtube-section { margin-bottom: 0; }
+.youtube-player { position: relative; width: 100%; aspect-ratio: 16/9; border-radius: 12px; overflow: hidden; box-shadow: 0 4px 20px rgba(93,64,55,0.15); background: var(--ocean); }
+.youtube-player iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; }
+.qa-widget { background: #f8f5f0; border: 1px solid #e0ddd6; border-radius: 12px; padding: 18px 20px; margin-bottom: 24px; }
+.qa-widget-header { display: flex; align-items: center; justify-content: space-between; margin-bottom: 12px; }
+.qa-widget-title { font-size: 17px; font-weight: 700; color: var(--ocean, #5D4037); margin: 0; }
+.qa-widget-desc { font-size: 13px; color: #888; margin: 0 0 10px; }
+.qa-widget-more { font-size: 13px; color: var(--gold, #C5A059); font-weight: 600; text-decoration: none; }
+.qa-widget-more:hover { text-decoration: underline; }
+.qa-widget-list { list-style: none; margin: 0 0 14px; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+.qa-widget-list li a { display: block; padding: 8px 12px; border-radius: 8px; font-size: 14px; color: #333; text-decoration: none; background: #fff; border: 1px solid #e8e4dc; transition: border-color 0.15s, background 0.15s; }
+.qa-widget-list li a:hover { border-color: var(--gold, #C5A059); background: #fffdf8; color: var(--ocean, #5D4037); }
+.qa-widget-list li a::before { content: "❓ "; }
+.qa-widget-cta { display: inline-block; font-size: 13px; font-weight: 600; color: #fff; background: var(--ocean, #5D4037); padding: 8px 18px; border-radius: 8px; text-decoration: none; transition: background 0.2s; }
+.qa-widget-cta:hover { background: #9A6447; color: #fff; }
+.social-section { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0.6em; margin-bottom: 2em; }
+.social-btn { display: flex; align-items: center; justify-content: center; gap: 0.45em; padding: 0.55em 0.8em; border-radius: 10px; text-decoration: none; font-size: 0.82em; font-weight: 600; color: white !important; transition: opacity 0.2s, transform 0.2s; }
+.social-btn:hover { opacity: 0.85; transform: translateY(-2px); }
+.social-btn svg { width: 16px; height: 16px; flex-shrink: 0; }
+.social-btn.facebook { background: #1877F2; }
+.social-btn.instagram { background: linear-gradient(45deg, #f09433, #e6683c, #dc2743, #cc2366, #bc1888); }
+.social-btn.youtube { background: #FF0000; }
+.social-btn.threads { background: #000000; }
+.featured-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 1em; margin-bottom: 1.5em; }
+#featured-section { border-bottom: 1px solid var(--gold); padding-bottom: 1.5em; margin-bottom: 1.5em; }
+.featured-card { display: flex; flex-direction: column; border-radius: 12px; overflow: hidden; text-decoration: none; color: inherit; border: 2px solid var(--gold); transition: transform 0.2s; }
+.featured-card:hover { transform: translateY(-3px); }
+.featured-image { aspect-ratio: 16/9; overflow: hidden; background: var(--ocean); }
+.featured-image img { width: 100%; height: 100%; object-fit: cover; }
+.featured-body { padding: 0.8em 1em; background: var(--white); }
+.featured-badge { font-size: 0.7em; background: var(--gold); color: var(--ocean); padding: 0.15em 0.6em; border-radius: 10px; font-weight: 700; margin-bottom: 0.4em; display: inline-block; }
+.featured-body h3 { font-size: 0.88em; margin: 0; line-height: 1.4; color: var(--ocean); display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.grid { display: flex; flex-direction: column; gap: 0.75em; }
+.card { background: var(--white); text-decoration: none; color: inherit; border: 1px solid rgba(201,168,76,0.2); border-radius: 8px; display: flex; flex-direction: row; align-items: center; min-height: 88px; transition: background 0.2s; overflow: hidden; }
+.card:first-child { border-top: 1px solid rgba(201,168,76,0.2); }
+.card:hover { background: rgba(201,168,76,0.06); }
+.card-image { position: relative; width: 140px; min-width: 140px; height: 88px; overflow: hidden; background: var(--ocean-mid); flex-shrink: 0; border-radius: 8px 0 0 8px; }
+.card-image img { width: 100%; height: 100%; object-fit: cover; border-radius: 0; transition: transform 0.3s ease; }
+.card:hover .card-image img { transform: scale(1.05); }
+.card-image-placeholder { width: 100%; height: 100%; display: flex; align-items: center; justify-content: center; background: linear-gradient(135deg, var(--ocean) 0%, var(--ocean-light) 100%); }
+.card-image-placeholder img { width: 52px; height: 52px; object-fit: contain; border-radius: 8px; opacity: 0.92; }
+.category-badge { position: absolute; bottom: 0.5em; left: 0.5em; background: var(--gold); color: var(--ocean); font-size: 0.65em; font-weight: 700; padding: 0.15em 0.5em; border-radius: 12px; }
+.card-body { padding: 0.7em 1.2em; flex: 1; display: flex; flex-direction: column; justify-content: center; min-width: 0; }
+.card-title { font-size: 0.95em; font-weight: 700; color: var(--ocean); margin: 0 0 0.3em; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.card-desc { font-size: 0.8em; color: var(--text-light); line-height: 1.45; margin: 0; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+.pagination { display: flex; align-items: center; justify-content: center; gap: 1em; margin-top: 2.5em; padding-top: 1.5em; border-top: 1px solid rgba(197,160,89,0.2); }
+#promo-block-main { margin-top: 1.5em; padding-bottom: 1em; }
+.page-btn { background: var(--ocean); color: var(--white); border: none; padding: 0.5em 1.2em; border-radius: 8px; cursor: pointer; font-size: 0.9em; font-family: inherit; transition: background 0.2s; }
+.page-btn:hover:not(:disabled) { background: var(--ocean-light); }
+.page-btn:disabled { opacity: 0.4; cursor: not-allowed; }
+.page-info { font-size: 0.88em; color: var(--text-light); }
+@media (max-width: 1100px) { .featured-grid { grid-template-columns: repeat(2, 1fr); } .top-widgets { grid-template-columns: 1fr; } }
+@media (max-width: 900px) {
+  .layout { grid-template-columns: 1fr; }
+  .sidebar { position: sticky; top: 64px; z-index: 90; height: auto; border-right: none; border-bottom: 2px solid rgba(197,160,89,0.25); padding: 0; background: var(--ocean, #5D4037); box-shadow: 0 2px 10px rgba(0,0,0,0.3); }
+  .sidebar-toggle { display: none; }
+  .sidebar-inner { display: block; padding: 0; }
+  .sidebar-inner.open { display: block; }
+  .sidebar-inner .sidebar-section:not(:first-child) { display: none; }
+  .sidebar-title { display: none; }
+  .sidebar-section { margin: 0; }
+  .category-list { display: flex; flex-direction: row; flex-wrap: nowrap; overflow-x: auto; gap: 0.45em; padding: 0.55em 1em; -webkit-overflow-scrolling: touch; scrollbar-width: none; }
+  .category-list::-webkit-scrollbar { display: none; }
+  .category-list li { flex-shrink: 0; }
+  .category-item { display: inline-flex; align-items: center; gap: 0.3em; width: auto; min-height: 34px; padding: 0.3em 0.85em; border-radius: 20px; border: 1px solid rgba(197,160,89,0.35); background: rgba(255,255,255,0.08); color: #e8d5a3; font-size: 0.83em; font-weight: 600; white-space: nowrap; margin-bottom: 0; justify-content: center; transition: background 0.15s, border-color 0.15s; }
+  .category-item:hover { background: rgba(197,160,89,0.2); color: #fff; }
+  .category-item.active { background: var(--gold, #C5A059); color: var(--ocean, #5D4037); border-color: var(--gold, #C5A059); font-weight: 700; }
+  .cat-count { display: none; }
+  main { padding: 1.2em 1em 3em; }
+  .top-widgets { gap: 0.8em; margin-bottom: 1em; }
+  .accom-image { height: 160px; }
+  .widget-box { padding: 1em; }
+  .widget-title { font-size: 1em; margin-bottom: 0.7em; }
+}
+@media (max-width: 600px) { .featured-grid { grid-template-columns: 1fr; } .social-section { grid-template-columns: repeat(2, 1fr); } .accom-image { height: 140px; } .top5-list { flex-direction: column; } .top5-item a { border-radius: 8px; } .card { min-height: 72px; } .card-image { width: 90px; min-width: 90px; height: 72px; border-radius: 8px 0 0 8px; } .card-body { padding: 0.5em 0.75em; } .card-title { font-size: 0.85em; } .card-desc { display: none; } }
+.quick-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 1.5em; }
+.qg-btn { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 8px; padding: 1.4rem 1rem; min-height: 110px; border-radius: 14px; text-decoration: none; color: #fff; text-align: center; transition: filter 0.15s, transform 0.1s; -webkit-tap-highlight-color: transparent; }
+.qg-btn:hover { filter: brightness(1.08); transform: translateY(-2px); }
+.qg-btn:active { filter: brightness(0.92); transform: scale(0.97); }
+.qg-icon { font-size: 2rem; line-height: 1; }
+.qg-title { font-size: 1rem; font-weight: 800; line-height: 1.2; }
+.qg-desc  { font-size: 0.78rem; color: rgba(255,255,255,0.82); line-height: 1.3; }
+.qg-blue   { background: linear-gradient(135deg, #E63946 0%, #9A6447 100%); box-shadow: 0 4px 16px rgba(93,64,55,0.22); }
+.qg-green  { background: linear-gradient(135deg, #1a7a3e 0%, #2d7a4f 100%); box-shadow: 0 4px 16px rgba(26,74,46,0.22); }
+.qg-orange { background: linear-gradient(135deg, #e07a00 0%, #c45b00 100%); box-shadow: 0 4px 16px rgba(180,80,0,0.22); }
+.qg-teal   { background: linear-gradient(135deg, #0e8fa0 0%, #096878 100%); box-shadow: 0 4px 16px rgba(9,104,120,0.22); }
+@media (max-width: 480px) { .qg-btn { min-height: 88px; padding: 1rem 0.75rem; } .qg-title { font-size: 0.88rem; } .qg-desc { display: none; } }
+.news-body h1, .news-body h2, .news-body h3 {
+  color: var(--gold) !important;
+  font-size: 1.05em !important;
+  font-weight: 700 !important;
+  margin: 0.8em 0 0.3em !important;
+  line-height: 1.4 !important;
+}
+.news-body a { color: var(--gold) !important; }
+.news-body strong, .news-body b { color: #3A2010; }
+.value-hero { background: linear-gradient(135deg, #F5E0A8 0%, #EDD07A 100%); color: white; padding: 1.5rem; border-radius: 12px; margin-bottom: 1.5rem; text-align: center; border: 1px solid rgba(197,160,89,0.5); box-shadow: 0 4px 16px rgba(197,160,89,0.3); }
+.hero-headline { font-size: 1.4rem; font-weight: 900; margin: 0 0 0.5rem 0; line-height: 1.3; letter-spacing: -0.3px; color: #ffffff; text-shadow: 0 1px 3px rgba(0,0,0,0.3); }
+.hero-tagline { font-size: 0.9rem; color: #7B4A2A; margin: 0 0 1rem 0; line-height: 1.5; max-width: 600px; margin-left: auto; margin-right: auto; font-weight: 500; }
+.value-bullets { list-style: none; padding: 0; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 0.7rem; max-width: 600px; text-align: left; font-size: 0.85rem; }
+.value-bullets li { padding: 0.4rem 0; line-height: 1.35; color: rgba(255,255,255,0.9); }
+@media (max-width: 768px) { .value-hero { padding: 1.3rem 1.2rem; margin-bottom: 1.2rem; } .hero-headline { font-size: 1.2rem; margin-bottom: 0.4rem; } .hero-tagline { font-size: 0.85rem; margin-bottom: 0.8rem; } .value-bullets { grid-template-columns: 1fr; gap: 0.6rem; } .value-bullets li { font-size: 0.8rem; padding: 0.3rem 0; } }
+@media (max-width: 480px) { .value-hero { padding: 1rem; margin-bottom: 1rem; border-radius: 10px; } .hero-headline { font-size: 1.05rem; margin-bottom: 0.35rem; } .hero-tagline { font-size: 0.8rem; margin-bottom: 0.7rem; } .value-bullets { font-size: 0.75rem; } .value-bullets li { padding: 0.25rem 0; } }
+.essential-guides { margin-bottom: 2em; background: linear-gradient(to bottom, #FEF5ED, #ffffff); padding: 1.5rem; border-radius: 12px; border: 1px solid #e0eeff; }
+.essential-guides .section-title { margin-top: 0; margin-bottom: 1.2em; color: #0f2a44; font-size: 1.3rem; }
+.guides-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: 12px; }
+.guide-card { display: flex; flex-direction: column; align-items: center; justify-content: center; gap: 6px; padding: 1.2rem 0.8rem; background: #fff; border: 1px solid #d0e0ff; border-radius: 10px; text-decoration: none; color: #0f2a44; text-align: center; transition: all 0.15s ease; min-height: 100px; }
+.guide-card:hover { background: #f8fbff; border-color: #E63946; box-shadow: 0 4px 12px rgba(26,110,225,0.12); transform: translateY(-2px); }
+.guide-icon { font-size: 1.8rem; line-height: 1; }
+.guide-name { font-size: 0.95rem; font-weight: 700; line-height: 1.2; }
+.guide-count { font-size: 0.78rem; color: #666; }
+.guide-desc { font-size: 0.75rem; color: #888; line-height: 1.2; }
+@media (max-width: 768px) { .guides-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; } .guide-card { padding: 1rem 0.6rem; min-height: 90px; font-size: 0.9rem; } .guide-icon { font-size: 1.5rem; } }
+@media (max-width: 480px) { .essential-guides { padding: 1rem; } .guides-grid { grid-template-columns: repeat(2, 1fr); gap: 8px; } .guide-card { padding: 0.8rem 0.5rem; min-height: 80px; } .guide-icon { font-size: 1.4rem; } .guide-name { font-size: 0.85rem; } .guide-count { display: none; } }
+</style>
+<script define:vars={{ promosJson }}>
+window.addEventListener('load', () => {
+  const promos = JSON.parse(promosJson);
+  if (promos.length === 0) return;
+  const promo = promos[Math.floor(Math.random() * promos.length)];
+  const block = document.getElementById('promo-block-index');
+  if (!block) return;
+  block.innerHTML = `
+    <a href="${promo.url}" target="_blank" rel="noopener" class="promo-card">
+      <div class="promo-body">
+        <p class="promo-title">${promo.title}</p>
+        <span class="promo-cta">查看优惠 →</span>
+      </div>
+      ${promo.coverImage ? `<div class="promo-image"><img src="${promo.coverImage}" alt="${promo.title}" loading="lazy" /></div>` : ''}
+    </a>
+  `;
+});
+</script>
+</html>

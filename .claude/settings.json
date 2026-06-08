@@ -1,0 +1,16 @@
+{
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Edit|Write",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 /Users/macchiu/baligo/.claude/add-update-date.py",
+            "timeout": 10
+          }
+        ]
+      }
+    ]
+  }
+}

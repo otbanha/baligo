@@ -1,0 +1,22 @@
+---
+import BizLayout from '../../layouts/BizLayout.astro';
+import BizCategory from '../../components/BizCategory.astro';
+import { getBizListings } from '../../lib/getBizListings';
+
+const all = await getBizListings();
+const listings = all.filter(b => b.category === 'stay');
+const featured = listings.filter(b => b.featured).sort(() => Math.random() - 0.5);
+const regular  = listings.filter(b => !b.featured);
+---
+
+<BizLayout
+  title="峇里島中文住宿 / Villa 推薦"
+  description="峇里島提供中文服務的住宿、Villa、飯店推薦，安心入住不怕語言不通。"
+>
+  <BizCategory
+    title="🏡 住宿 / Villa"
+    description="有中文服務的峇里島住宿，從精品 Villa 到實惠選擇一次看"
+    featured={featured}
+    regular={regular}
+  />
+</BizLayout>

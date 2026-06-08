@@ -1,0 +1,116 @@
+---
+title: "Cross Paasha Bali Seminyak｜水明漾藝術精品 Villa 完整評測 2026 - Go Bali Go"
+slug: 'cross-paasha-bali-seminyak'
+description: "水明漾最具藝術氣息的精品 Villa！Cross Paasha Bali Seminyak 以獨特文化融合設計與無邊際泳池聞名，是攝影打卡與蜜月旅行的熱門選擇。詳解入住體驗、設施亮點與性價比分析，帶你選對水明漾的理想住所。"
+pubDate: 2026-04-15
+pubHour: 16
+category:
+  - 住宿推薦
+tags:
+  - 峇里島精品飯店推薦
+  - Cross Paasha Bali Seminyak 評價
+  - 水明漾 (Seminyak) 住宿推薦
+  - 峇里島設計感飯店
+  - Cross Paasha 24小時入住教學
+  - 峇里島水明漾購物區住宿
+  - 峇里島網美高空泳池飯店
+  - 巴厘岛水明漾酒店推荐 2026
+  - Cross Paasha Seminyak breakfast anytime
+  - Best design hotel in Seminyak Bali
+update: 2026/05/24
+heroImage: ''
+originalUrl: ''
+private: false
+shuffle_h2: false
+embeds: []
+agoda_hotel_id: 295644
+agoda_hotel_name: "巴厘島寰庭帕夏水明漾度假村"
+agoda_star_rating: 5
+latitude: -8.684345245361328
+longitude: 115.15927124023438
+---
+
+如果你想住在 Seminyak 的正中心、步行就能到處逛、回飯店還有屋頂泳池可以看夕陽，那 Cross Paasha Bali Seminyak 這間四星設計風精品飯店很值得考慮。這間飯店以前叫 U Paasha，後來改名 Cross Paasha，位置一樣在 Jl. Laksmana 77 號，Kayu Aya 街的核心地帶，99間房全是套房等級，格局寬敞、設計感強，是 Seminyak 這一帶 CP 值頗高的選擇之一。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776231500443-roof1.jpg)
+
+***
+
+## 📍 位置與周邊環境
+
+Cross Paasha 坐落在 Seminyak 最精華的 Laksmana 區，就是大家說的「Eat Street」一帶。飯店出門走兩分鐘就是 Seminyak Square 購物中心，Seminyak Village Mall 也只要三分鐘腳程，日常採買、餐廳、咖啡廳幾乎全部走路可達。
+
+海灘方面，Seminyak Beach 步行大約10到15分鐘，距離不算近，但也在接受範圍內；叫個 Grab 車大概5分鐘就到了。周邊景點也很豐富：Petitenget Beach 和 Pura Petitenget 寺廟開車五分鐘，La Lucciola 海景餐廳、Ku De Ta 走路10分鐘，Potato Head Beach Club 開車三分鐘。
+
+Seminyak 這個區域整體的氛圍是精品購物加夜生活並存，街上餐廳、酒吧、時裝店密度很高，如果你想在峇里島享受精緻的都市感旅遊體驗，這個地點幾乎是無敵的。
+
+***
+
+## 🏨 設施介紹
+
+走進大廳，第一印象就不像傳統峇里島風格的度假村——挑高天花板、幾何磚牆、流線型家具，工業風和現代設計感結合得滿有品味的。入住時有免費迎賓飲料，大廳酒吧區燈光偏暗，氣氛偏酷，吸引的住客確實以年輕族群和情侶為主。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776231575224-lobi.webp)
+
+整間飯店最大的亮點是**屋頂泳池（Rooftop Pool）**。這條泳池夠長、空間夠開闊，周圍有棕櫚樹、躺椅和日光遮陽傘，天氣好的傍晚可以遠眺 Seminyak 市區甚至隱約看見海。旁邊有泳池酒吧可以點調酒，Happy Hour 據說還有買一送一的優惠，算是飯店裡的社交中心。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776231634104-roof3.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776231634525-roof2.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776231635037-roof5.jpg)
+
+餐廳 ALCOVE 提供亞洲和西式早餐自助吧，菜色每天有所輪換，有現煎蛋站、鬆餅、印尼炒飯等。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776231683899-canteen1.webp)
+
+飯店還附設健身房，設備算基本夠用。比較特別的一個政策是**24小時入住制度**：你幾點入住，就從那個時間點起算整整24小時，退房時間完全彈性，不受傳統 check-in 12點/check-out 11點的規定限制，這對班機時間不固定的旅客非常友善。
+
+***
+
+## 🛏️ 房型介紹
+
+Cross Paasha 的99間房統一稱為 Suite，這是比一般標準房高一個等級的定位。房間面積從55平方公尺起跳，最大房型可達110平方公尺，以這個價位來說算是相當寬敞。
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776231736986-86495544.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776231737371-558542199.jpg)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776231737832-1c93851cb69bca784431d5ea40507f08.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776231738211-683edcbff56e61d844944a683b65f028.webp)
+
+![raw-image](https://images.gobaligo.id/images/2026-04/1776231738613-45807d9b3c69fd21a57adfb2190c610a.webp)
+
+裝潢走輕工業風加現代設計路線：大量淺木色家具、混凝土地板、六角形鏡子這種細節，整體很乾淨俐落，不是傳統峇里島那種阿媽家木雕裝飾風。每間房都有私人陽台、獨立座位區、平面電視、迷你吧、免費Wi-Fi和冷氣，浴室是開放式設計，配有雨淋蓮蓬頭。
+
+選房建議：**越高樓層越好**。低樓層靠街面的房間偶爾會有路上噪音干擾，高樓層隔音明顯更好，視野也更開闊。如果是兩人行的情侶旅遊，建議直接指定高樓層陽台景觀套房。
+
+***
+
+## 👥 適合族群
+
+最適合**情侶或朋友同遊的年輕旅客**，特別是第一次去 Seminyak、希望逛街、吃美食、玩夜生活都方便的人。地點就是這間飯店最大的武器，住進來走路就能解決大部分行程，不用依賴 Grab 車。家庭旅遊也可以，飯店有兒童泳池和兒童托育服務，但如果帶嬰幼兒或需要比較安靜的環境，可能要特別注意房間樓層選擇。
+
+***
+
+## 💬 住客真實評論
+
+一位在 Tripadvisor 上的長期回頭客分享，這已經是他第五次入住，每次都覺得非常值得，特別稱讚房間空間感和員工服務態度，說每次都有被好好照顧的感覺。（來源：Tripadvisor）
+
+另一位住客在 Agoda 的評論提到，這裡的早餐不是那種一般自助吧，而是像在餐廳用餐點餐的體驗，位置在 Kayu Aya 街核心，步行就能解決所有需求，房間寬敞程度出乎意料，以這個價位來說非常少見。
+
+***
+
+## ⚠️ 缺點老實說
+
+有幾點要提醒。首先，部分評論指出老舊房間有輕微霉斑或牆面老化的問題（飯店目前已換管理公司，據說正在陸續改善中）。其次，低樓層靠街的房間噪音問題確實存在，Seminyak 這條路晚上會有摩托車和夜店音樂聲。第三，屋頂泳池白天全天曝曬，遮蔭區域有限，夏天或正中午不太適合長時間待在泳池邊。
+
+***
+
+## 📌 訂房資訊
+
+> 評分：Tripadvisor 旅人之選 ⭐ | Agoda 2024 旅人鑑賞優勝獎 🥇
+> 👉 點此查看最新房價與空房：[Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=295644) [Booking](https://booking.tpm.li/3odHtYfF) ｜[Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=992126&checkIn=2026-05-14&checkOut=2026-05-15&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-PqYuFikmCSambhWDT9Zz-LEKOBxUQhx4dVIuvc05sdPGP6D33VWNfuEMBTyAACH8ocGhl3yLW-DnyQ6zCD8d8xm42MbwKBAtKJDjsYmQ4wMp1gXH6hfAHTi4Wyp1hYOOadFL3E8pspulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGxDczNzQ0s9AwOgYElihWcKWHNyYk5yaU5iSWpIZQHQEDMdpcxi55KizIKg1NzMkpJUoKq0xJziVJB4UGoxUCYZLKjkBzSmCCqQmZ8H0W6IIhaWmFOaCnEF0EK3VKgdhrU6mI5_Nqf3affMF5t2E-14c2o73oAYxxvXxj5iYYqO_cTC8AsYG2-vWDaxMnSxMkxiZeEARtMuVjZPS9dgQ-8LrFOWbmSUkjc0MDAwNTQ2NdU1SLS0SDU1tNQ1sTQxsLTUNTQzNjXQeLFj_8ZHxkYmCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9hMHQ0MXAyibLiYPV2CBOsesHTUJljaS4F4ijCeFohnCOMFMr27tO3PC177SJhIEmtVhm5IeEaTaAFjAyNTFyO3AKMHYwRjBZDHuIqRYQMj4w7G_zDA-IoRZB4A92eqcOgCAAA&masterhotelid_tracelogid=100051355-0a98e519-494099-16350&detailFilters=17|1~17~1*31|992126~31~992126*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=990&isCT=true&isFlexible=F&isFirstEnterDetail=T&locale=zh-TW&isRightClick=T&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16940702)
+
+{{block:smk}}

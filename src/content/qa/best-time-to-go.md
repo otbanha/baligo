@@ -1,0 +1,31 @@
+---
+title: 峇里島什麼時候去最好？
+title_en: "When Is the Best Time to Visit Bali?"
+title_zh_cn: "峇里岛什么时候去最好？"
+title_zh_hk: "峇里島幾時去最好？"
+category: weather
+relatedLinks:
+- slug: blog/bali-rainy-season-travel-guide/
+  label: 峇里島12個月份適合旅遊指數大解析
+- slug: blog/bali-rainy-season-tips/
+  label: 別被雨嚇跑！雨季其實超讚！
+featured: false
+pubDate: 2026-04-26
+---
+
+峇里島全年可以去，但有分**乾季**和**雨季**：
+
+**乾季（5 月–10 月）**：
+- 最適合旅遊，降雨少、陽光充足
+- 7–8 月是旺季，人多但天氣最穩定
+- 飯店價格旺季較貴
+
+**雨季（11 月–4 月）**：
+- 不代表不能去，雨季通常是短暫陣雨（下 1 小時就放晴）
+- 12 月底到 1 月上旬（聖誕、元旦）仍是旺季
+- 旺季外的雨季（2–3 月）飯店最便宜，人潮最少
+
+**結論**：
+- 首次去 → 選 **5/6 月或 9/10 月**，乾季、人少、價格中等
+- 預算有限 → 選 **1–3 月**，淡季、便宜
+- 無所謂人潮 → 隨時可以去

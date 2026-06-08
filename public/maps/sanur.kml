@@ -1,0 +1,1191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>沙努爾家庭親子攻略地圖 by gobaligo.id</name>
+    <description>峇里島旅遊攻略：https://gobaligo.id</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-0288D1-nodesc-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-nodesc-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-1.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+      <BalloonStyle>
+        <text><![CDATA[<h3>$[name]</h3>]]></text>
+      </BalloonStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1-nodesc">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-nodesc-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Style id="icon-1899-E65100-normal">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-E65100-highlight">
+      <IconStyle>
+        <scale>1</scale>
+        <Icon>
+          <href>images/icon-2.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-E65100">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-E65100-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-E65100-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>Sanur親子景點</name>
+      <Placemark>
+        <name>Segara Playland</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X553UX5fucsOtILAHpcbrBTJ-8SXhax8172XT9jGBDGO8B6w94kQNuSV8UzbmNqOoO8lQ5PIRNLiLw1EoGRZ_lsOayccVyiwEhNV74s4LDXrcIF3BvVPl39uv5X3tHBP3ZCh3YX-PW4eZNukp4eayAD-ZUB-1vcpoJJC71MbKAth1swI2DTPzoJ5DcNlZzFmiSrNrLWb-KnnXgK-2MsEUnWmNl-DCmDPSUxu1UHq8oH5k3gweJXT1fLZ-4?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X553UX5fucsOtILAHpcbrBTJ-8SXhax8172XT9jGBDGO8B6w94kQNuSV8UzbmNqOoO8lQ5PIRNLiLw1EoGRZ_lsOayccVyiwEhNV74s4LDXrcIF3BvVPl39uv5X3tHBP3ZCh3YX-PW4eZNukp4eayAD-ZUB-1vcpoJJC71MbKAth1swI2DTPzoJ5DcNlZzFmiSrNrLWb-KnnXgK-2MsEUnWmNl-DCmDPSUxu1UHq8oH5k3gweJXT1fLZ-4?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2640278,-8.6828046,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shotgun Social Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6iNBxfbvApvT1ZrrSp9C7V2A11fmUE9-vn-v7XnIUlcB488U1HcpbubyUwaLTe0i0MtDBl4MSPnB8uUMokAeclyevGnzIArWU4v4W68rqwAcMugWBMkUMuCIpGzD29oRLgB9Mf0Fx7H0dnBtMBmeg4dhRuBfdwhyeEogg-Vf2JXac0ir5A0X6cVhM3ELyzMhA9n3qGi10Y-83HBoo6dileyd2dI1qrYA7oaG8932h57QS_QBCY3APyiFc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>沙努爾受歡迎的社交空間。它提供多種設施，包括國際餐廳、酒吧和咖啡廳，是尋找休閒用餐體驗的理想場所。對於有孩子的家庭來說，室外遊樂場是一個很棒的功能，讓孩子們在父母享受美食的同時玩耍和娛樂<br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6iNBxfbvApvT1ZrrSp9C7V2A11fmUE9-vn-v7XnIUlcB488U1HcpbubyUwaLTe0i0MtDBl4MSPnB8uUMokAeclyevGnzIArWU4v4W68rqwAcMugWBMkUMuCIpGzD29oRLgB9Mf0Fx7H0dnBtMBmeg4dhRuBfdwhyeEogg-Vf2JXac0ir5A0X6cVhM3ELyzMhA9n3qGi10Y-83HBoo6dileyd2dI1qrYA7oaG8932h57QS_QBCY3APyiFc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2621829,-8.6842818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lamis Resto</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.2526951,-8.6915163,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kids SoHo Playground</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6L5gPMRtu-XNpuWjnpbkkBaOlrxsQo-xk1u1EM5vaWc4Ym7HHueNmbMPlSzHw7ZqWHgvKXxYy2D8F2thgA4rT08CMQwJ8gZDS5bjVwqiztJWwZkJciwNCx-e9Q9eFQQBJ_mOKuLGkj8rxoeM9sAyLaTSiNkQse4IBxrX8U2US0TZpWKUau_ZNQFcrH3kuBAFalVaJtTy3sRYfW_sXBKQS3WBj3IQj3S53QrQ7I_MzVlISMQJutpFnlBeI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6L5gPMRtu-XNpuWjnpbkkBaOlrxsQo-xk1u1EM5vaWc4Ym7HHueNmbMPlSzHw7ZqWHgvKXxYy2D8F2thgA4rT08CMQwJ8gZDS5bjVwqiztJWwZkJciwNCx-e9Q9eFQQBJ_mOKuLGkj8rxoeM9sAyLaTSiNkQse4IBxrX8U2US0TZpWKUau_ZNQFcrH3kuBAFalVaJtTy3sRYfW_sXBKQS3WBj3IQj3S53QrQ7I_MzVlISMQJutpFnlBeI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2586233,-8.6848967,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byrd House Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4bR0j7kPq5qiZtI4RJWbjwI4P0d812n2-zypHBIbMGeTU-24nlXZveqG2Oyta4EYWXlxPlftF9UC52a67ZyvkYJ9GHQnqjL3_VwlLTKl-VNK3urH2kY4qqoLu2yoXVNftWkBolAidmfphgnQ0cy_jYn9EhcbZQrrm1oaUTp6ogESDcyNssMBIaXgW01Rc-cR-4UnEX05atP5IlySMXXd1Gu3A_fPwuxUxzGLhO116ZFOIlxNNfMmji9LM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4bR0j7kPq5qiZtI4RJWbjwI4P0d812n2-zypHBIbMGeTU-24nlXZveqG2Oyta4EYWXlxPlftF9UC52a67ZyvkYJ9GHQnqjL3_VwlLTKl-VNK3urH2kY4qqoLu2yoXVNftWkBolAidmfphgnQ0cy_jYn9EhcbZQrrm1oaUTp6ogESDcyNssMBIaXgW01Rc-cR-4UnEX05atP5IlySMXXd1Gu3A_fPwuxUxzGLhO116ZFOIlxNNfMmji9LM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.264053,-8.6835214,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Cat Cafe & Cat Boarding Sanur]]></name>
+        <description><![CDATA[貓咪咖啡廳&貓咪旅館<br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2608227,-8.7035015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>KidzCafe Sanur</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.2506475,-8.6999041,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big Garden Corner</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7kY7zal0cyaK6kxltDQmPRligPVFZjQVfH5KT-0YWiJgKkdWYu1EG3n03Y6HPZhI6CJ_dGk71T5mp-FflI-o439-lPRI65EGwD-_UAkhsvefShpDgtUCq5Bj1uiQqrcxNHVuy3qMBfJxZOowXCCOWk_ka9K9-v-wPF1SCkvFnqIArIwSfHGgXYeI7BAf04iuodCzZVnI490bOCW9g8iIMOJ-gOIsifSlqKtt_v-o72x2FdUJnBN9uQhGI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>有兒童遊樂場和兒童水上樂園，還有許多適合擺拍美照的景點<br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7kY7zal0cyaK6kxltDQmPRligPVFZjQVfH5KT-0YWiJgKkdWYu1EG3n03Y6HPZhI6CJ_dGk71T5mp-FflI-o439-lPRI65EGwD-_UAkhsvefShpDgtUCq5Bj1uiQqrcxNHVuy3qMBfJxZOowXCCOWk_ka9K9-v-wPF1SCkvFnqIArIwSfHGgXYeI7BAf04iuodCzZVnI490bOCW9g8iIMOJ-gOIsifSlqKtt_v-o72x2FdUJnBN9uQhGI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2533172,-8.6567502,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Arta Sedana Sanur</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5chUPslZai9sHYVzpB0jmGkxkUoc4CYHln39qY3g7wzxWWr7JllGt-ulUa8qXj7Zl1ZWOGgKelTZfWO7gZw6-KrDXzK9gFiaLN8wDYxAMnzc0_MPSXQFXzHNvOxkL5eM0KjTd-_b3_acUkB29wxaygo-P_wKo4bVQU6obSHJC730_5axqaFk1yK3T_n_U8ki9Ea2Qd14ijsfH6cZ06UerP7n6FdtxQwTCfcewDLhIRoQkIFlfIc1scfE8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>沙努爾區最大的超市<br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5chUPslZai9sHYVzpB0jmGkxkUoc4CYHln39qY3g7wzxWWr7JllGt-ulUa8qXj7Zl1ZWOGgKelTZfWO7gZw6-KrDXzK9gFiaLN8wDYxAMnzc0_MPSXQFXzHNvOxkL5eM0KjTd-_b3_acUkB29wxaygo-P_wKo4bVQU6obSHJC730_5axqaFk1yK3T_n_U8ki9Ea2Qd14ijsfH6cZ06UerP7n6FdtxQwTCfcewDLhIRoQkIFlfIc1scfE8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2632339,-8.6949495,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gelato Secrets</name>
+        <description><![CDATA[Gelato Secrets 是一家手工冰淇淋店，在峇里島有九家分店/雅加達七家<br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2636962,-8.695032,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimo Italian Restaurant</name>
+        <description>https://gobaligo.id/go/sanur-guide</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2606898,-8.7047432,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sea Turtle village</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4r5LL9jxpCQSk9ThcU6T9PgguZBX8ZMIQ3vgS5IfcUaRk5PcamBYUI0KTqOKbL52mq2b20nXcfoxb0O0s4N3VYKwBVxy-DDXcxXQtOAGpm1Wm3cz7C-IcbQr_r50a1MD2ijcPiHNzcOH6s2JO8-cTPh_cYGeM8ZmIyT4ihzeR-BkWCvsHj-bkuATT0PMhVfZ8o02rSJmr1SLyd2vyw7tdMnrUZTqkWBJjIu8SaQQkagxU_NfBGBz2mpqg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4r5LL9jxpCQSk9ThcU6T9PgguZBX8ZMIQ3vgS5IfcUaRk5PcamBYUI0KTqOKbL52mq2b20nXcfoxb0O0s4N3VYKwBVxy-DDXcxXQtOAGpm1Wm3cz7C-IcbQr_r50a1MD2ijcPiHNzcOH6s2JO8-cTPh_cYGeM8ZmIyT4ihzeR-BkWCvsHj-bkuATT0PMhVfZ8o02rSJmr1SLyd2vyw7tdMnrUZTqkWBJjIu8SaQQkagxU_NfBGBz2mpqg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2644526,-8.6845814,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sindu Dwarawati Turtle Conservation Center</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6ePFdsuTy_syPx-02sipgR1P_3TTffXdVzhNKJSly_N6tzUIQfZc-Yvy_DSSz9VtqWoHD2Z_UN2rbP6gCUW5owBiAjADDsMQdyM4BMUQl_K4PWyoa42O-hcV9bjmGbzVdid1DjZK3dnEhiYjNrSxyYkxvLPmIpeE9ZDv9jWo3t9WRRkb_hnZFTkLLLwBTgVn5EADLETaWGYcqsKKEOcP8B-fnfP-bD3YtIman_PVeU5hI4i10ldZhsVm8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看小傑的介紹: https://youtube.com/shorts/9EeW2YH0iY0<br><br><a href="https://www.youtube.com/watch?v=9EeW2YH0iY0"><img src="https://img.youtube.com/vi/9EeW2YH0iY0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/9EeW2YH0iY0">https://www.youtube.com/embed/9EeW2YH0iY0</a>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6ePFdsuTy_syPx-02sipgR1P_3TTffXdVzhNKJSly_N6tzUIQfZc-Yvy_DSSz9VtqWoHD2Z_UN2rbP6gCUW5owBiAjADDsMQdyM4BMUQl_K4PWyoa42O-hcV9bjmGbzVdid1DjZK3dnEhiYjNrSxyYkxvLPmIpeE9ZDv9jWo3t9WRRkb_hnZFTkLLLwBTgVn5EADLETaWGYcqsKKEOcP8B-fnfP-bD3YtIman_PVeU5hI4i10ldZhsVm8?authuser=0&fife=s16383 https://www.youtube.com/embed/9EeW2YH0iY0]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2643835,-8.6844747,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Turtle Conservation And Education Center</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4yN4Fpc_oRR3fXYyjakuWotpAY-qP_gTbmUL_9v6I9Y8UOZF2YSg7UoIEPainsPkAMqM2DwUU8zhpWdVjL8dQ9LBPJfNzYWlQVpyMNCqjWCipNmxJbP_YtfGrV8I_ME2LwqMWB0ffNh2h_v2h1HWUvOjrAu9iYR8QdKEc7vBiZgfV5x2-cKwn8GzM8AdWCootvqj7WqnSXJ_SVuWzEkXHUAHBVY1iC52WAgKHogOD4H_IMp382Tz_Gcgg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4yN4Fpc_oRR3fXYyjakuWotpAY-qP_gTbmUL_9v6I9Y8UOZF2YSg7UoIEPainsPkAMqM2DwUU8zhpWdVjL8dQ9LBPJfNzYWlQVpyMNCqjWCipNmxJbP_YtfGrV8I_ME2LwqMWB0ffNh2h_v2h1HWUvOjrAu9iYR8QdKEc7vBiZgfV5x2-cKwn8GzM8AdWCootvqj7WqnSXJ_SVuWzEkXHUAHBVY1iC52WAgKHogOD4H_IMp382Tz_Gcgg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2381385,-8.7240984,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Camel Ride</name>
+        <description><![CDATA[<a href="https://www.youtube.com/watch?v=yebdtkV5tX0"><img src="https://img.youtube.com/vi/yebdtkV5tX0/hqdefault.jpg" height="200" width="auto" /></a><br><br><a href="https://www.youtube.com/embed/yebdtkV5tX0">https://www.youtube.com/embed/yebdtkV5tX0</a><br><br>請看沙努爾攻略：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value>https://www.youtube.com/embed/yebdtkV5tX0</value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2472637,-8.7122337,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Genius Cafe Sanur</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6sEUmCk9cM4WLsaEtE150Van2EMXh9hD9C-f8lQ6pidgJ9x-_7ACJnIqVJb8_nEi2cpelnuDwGfqf7HLIOLpmWQUwy4E6AC6JcjJtSOdT4kOZZIylBrdB3WhHNxN9bccAGcv2XHjutBqjyq1iHfS-JZD1or3pP7pucYM9SqXFMlorwWKza4HzTeb25ajqrCpEpjrowKfn945TV9mWQsGa91M8Gs_jfcVBeKxwc0Y4iGEjQGKN3YG-_Rrg?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Genius Cafe是一個非常適合親子的地方。這裡有舒適的用餐環境，讓小朋友和家長們都能在用餐的同時享受到海濱的樂趣。<br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6sEUmCk9cM4WLsaEtE150Van2EMXh9hD9C-f8lQ6pidgJ9x-_7ACJnIqVJb8_nEi2cpelnuDwGfqf7HLIOLpmWQUwy4E6AC6JcjJtSOdT4kOZZIylBrdB3WhHNxN9bccAGcv2XHjutBqjyq1iHfS-JZD1or3pP7pucYM9SqXFMlorwWKza4HzTeb25ajqrCpEpjrowKfn945TV9mWQsGa91M8Gs_jfcVBeKxwc0Y4iGEjQGKN3YG-_Rrg?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2537991,-8.7114749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanur Harbour</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4vQVoti4Tly6sdWiMhzXV5kfVlqmdwO_j2Ljl-umtcFZm7HZ8XGKj4EBB76eVuq3xKxV_jIYM69SiRHHMMaUl8zt9H_DKNcr6BU1xzzhwhH5B9wA0RGTBon0V-uWvEsSITMNrE-BnaOrkpZE1dxM6n26ZbBHdCTQHreblu_WyscPs6aQTFSQGt-Vmg6g3DWXaUggyOsC4p0ilv46Gbz3eF1dabCbZ_ZALowTHoRtR1D3vt3LfhIBqMGEA?authuser=0&fife=s16383" height="200" width="auto" /><br><br>沙努爾前往佩尼達島、藍夢島等的新碼頭]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4vQVoti4Tly6sdWiMhzXV5kfVlqmdwO_j2Ljl-umtcFZm7HZ8XGKj4EBB76eVuq3xKxV_jIYM69SiRHHMMaUl8zt9H_DKNcr6BU1xzzhwhH5B9wA0RGTBon0V-uWvEsSITMNrE-BnaOrkpZE1dxM6n26ZbBHdCTQHreblu_WyscPs6aQTFSQGt-Vmg6g3DWXaUggyOsC4p0ilv46Gbz3eF1dabCbZ_ZALowTHoRtR1D3vt3LfhIBqMGEA?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2608048,-8.6692169,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Museum Le Mayeur</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.2636777,-8.6748773,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ICON BALI</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7WGD4MqPeCQL8WHbnwHav9BKj0I3YbjLks-C78AgkAmgBaN15SxKanIPPMKcPVKP-CY5ysuyW_3gWp4xI3Aexv2SLdGld-tAzCpzGfuCMB4ePWiTewm45_jMsvMoHTOm7NCjcZyb-k9Wzdu0L8ToQyTAgxXdKPCao_0s9SYt1uo27DMX2eAwfVX6iNcmMe9qV-LWUaG5jdDwQqZNBdb87VhefY7TkHfKpR4DRkUA-AuCv350hA7qdanWI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>2024年開幕的濱海購物中心<br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7WGD4MqPeCQL8WHbnwHav9BKj0I3YbjLks-C78AgkAmgBaN15SxKanIPPMKcPVKP-CY5ysuyW_3gWp4xI3Aexv2SLdGld-tAzCpzGfuCMB4ePWiTewm45_jMsvMoHTOm7NCjcZyb-k9Wzdu0L8ToQyTAgxXdKPCao_0s9SYt1uo27DMX2eAwfVX6iNcmMe9qV-LWUaG5jdDwQqZNBdb87VhefY7TkHfKpR4DRkUA-AuCv350hA7qdanWI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2627903,-8.6866497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sunday Market Sanur</name>
+        <description><![CDATA[沙努爾假日市集<br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.254576,-8.7109852,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cheeky Monkeys Learning Centershop - SANUR</name>
+        <description><![CDATA[沙努爾的一個早教中心<br><br>請看網誌介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2635194,-8.6895555,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>南灣水上活動</name>
+        <description><![CDATA[若您覺得沙努爾的水上活動不夠刺激。你可以從沙努爾南行半個小時車程抵達 Tanjung Benoa，俗稱「南灣」，是整個峇里島水上活動的大本營。<br>請看攻略：https://gobaligo.id/go/Tanjung-Benoa-Water-Sports]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2222192,-8.7572346,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AeroXSpace Adventure</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7JI21bAV6Zv_o5ZC4C8pZMWbtxu652S8D31MS8cmLAOONNrFDu5KtMN3PdITLnkb3L4eVfrSclA2FhbZ4TV72HP7n9XWVZujhi6AFhYnRb-N2fL37CWH-0rHyDo63ki6aKshvhY8EOLKudSg17LmpbQJZZLgqx7l2SowipkUUcOuTm6pz-93gKqx9jH5_f0uKp280GEIr6c6W8-d74njTnafAq6fr-5kxvTBChILk6HvaTRqXG-s5-sso?authuser=0&fife=s16383" height="200" width="auto" /><br><br>1000多坪超大室內遊樂場。請看這裡的介紹：<br>https://gobaligo.id/go/AeroXSpace]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7JI21bAV6Zv_o5ZC4C8pZMWbtxu652S8D31MS8cmLAOONNrFDu5KtMN3PdITLnkb3L4eVfrSclA2FhbZ4TV72HP7n9XWVZujhi6AFhYnRb-N2fL37CWH-0rHyDo63ki6aKshvhY8EOLKudSg17LmpbQJZZLgqx7l2SowipkUUcOuTm6pz-93gKqx9jH5_f0uKp280GEIr6c6W8-d74njTnafAq6fr-5kxvTBChILk6HvaTRqXG-s5-sso?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2290539,-8.7124503,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Clip 'n Climb Bali]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5g93TV-2VjP9ylyQIm5fssc_4JSGBc9pR4bwt3Fi8_pzpMWepA3LLBbySWV3aJzfLLTqDPV07B0MhiujsA_V1_ZUk9zwo4wq9GyNCacqA7Vn3ngI-XYPs14hq7wL7NBeNT3XMlq2P-B1gpsRKMW82jcGCsxIz_VoRuSfXhmEKgQHoFon9tl_n-lE1qbaqc02jVYl4KWh7mAePXM5kE2qv-qv3jQjNsPwbV7tch1ePWUXHbkPORfcIO5Po?authuser=0&fife=s16383" height="200" width="auto" /><br><br>世界知名的Clip 'n Climb室內攀岩中心來到峇里島啦！<br>詳細介紹及優待票券：<br>https://gobaligo.id/go/clipnclimb_sanur]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5g93TV-2VjP9ylyQIm5fssc_4JSGBc9pR4bwt3Fi8_pzpMWepA3LLBbySWV3aJzfLLTqDPV07B0MhiujsA_V1_ZUk9zwo4wq9GyNCacqA7Vn3ngI-XYPs14hq7wL7NBeNT3XMlq2P-B1gpsRKMW82jcGCsxIz_VoRuSfXhmEKgQHoFon9tl_n-lE1qbaqc02jVYl4KWh7mAePXM5kE2qv-qv3jQjNsPwbV7tch1ePWUXHbkPORfcIO5Po?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2517404,-8.7040805,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pescado Bali Sanur</name>
+        <description><![CDATA[(Alice Li提供) sanur的這家西班牙料理很讚😎 <br>在巷子裡，<br>需要提前預約（Google地標上面可以預約）<br>西班牙海鮮燉飯 有兩人份、三人份<br>（其實兩人份根本是3-4人）<br>蒜油蝦（好想吃兩份）<br>牛骨髓（很香 油油的配酥脆麵包）<br>桑格利亞酒 有單杯或是一壺😆<br>（點了一壺喝不完）<br>結帳是2500$台幣左右<br>（是我們五天來吃最貴的一餐 值得&很划算）]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2622038,-8.7030744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Sanur 的著名海灘</name>
+      <Placemark>
+        <name>Pantai Sindhu</name>
+        <description><![CDATA[最多小販、人潮的沙灘<br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2645885,-8.6843724,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pantai Karang</name>
+        <description><![CDATA[最熱門水上活動地點<br>https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.266016,-8.693729,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pantai Sanur</name>
+        <description><![CDATA[坡度平緩、風平浪靜，適合兒童戲水的沙灘<br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2626236,-8.7071782,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pantai Padang Galak</name>
+        <description><![CDATA[Padang Galak並不是一個觀光海灘，但每年的七月到九月之間這裡會舉辦 Bali Kite Festival（峇里島風箏節）。<br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2633006,-8.6611382,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pantai Bopel</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6q2ruF8_LJF14PN8VUXnx-MGQWoQ8UdvPaElegsrnyDNf1vSwsD4v1gerjOnAqbo_wJmVCEDAoj45CWMXEi_M4IpmpMqMTA9UzHIaSbMXCaSLgS5ZQfFe7KQXqeA1c8fo-yuYtHL2PaABsSRjGJg2rGR64Kme-4vp0k7SIsGeADoCxvPW7bGcF5-QAWSKpSW8PYmSQyE_M4mugSK94NUBtYO9vsYjvz8AKkrxVACZcWhJs2kJJBY74xRE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>靠近Prama Sanur Beach Hotel的海灘段（Pantai Bopel）是沙努爾最親子友善的一區。這裡擁有：可租用遮陽傘與躺椅、兒童遊戲區與鞦韆、公共洗手間與更衣間、有海灘咖啡店（如 Genius Cafe）提供健康料理與兒童友善餐點<br><br>https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6q2ruF8_LJF14PN8VUXnx-MGQWoQ8UdvPaElegsrnyDNf1vSwsD4v1gerjOnAqbo_wJmVCEDAoj45CWMXEi_M4IpmpMqMTA9UzHIaSbMXCaSLgS5ZQfFe7KQXqeA1c8fo-yuYtHL2PaABsSRjGJg2rGR64Kme-4vp0k7SIsGeADoCxvPW7bGcF5-QAWSKpSW8PYmSQyE_M4mugSK94NUBtYO9vsYjvz8AKkrxVACZcWhJs2kJJBY74xRE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2553436,-8.7117749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mertasari Beach</name>
+        <description><![CDATA[這一帶的淺水灘連綿幾百公尺，又幾乎沒有浪，非常適合小朋友在這一區戲水。<br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2517831,-8.7125026,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Sanur精彩美食</name>
+      <Placemark>
+        <name>El Comedor Restaurant</name>
+        <description><![CDATA[有現場演奏的餐廳<br><br>https://www.tripadvisor.com/Restaurant_Review-g297700-d2287949-Reviews-El_Comedor_Restaurant-Sanur_Denpasar_Bali.html]]></description>
+        <styleUrl>#icon-1899-E65100</styleUrl>
+        <Point>
+          <coordinates>
+            115.263498,-8.695822,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nelayan Sanur Bay</name>
+        <description><![CDATA[在 Neyalan 能真正感受到沙灘的氛圍，而且你可以選擇很多座位安排。從桌椅到 2 座位的躺椅，椅子和咖啡桌，你坐下後就能感受到放鬆的 Sanur 氛圍。<br><br>Neyalan 的菜單是西式和亞洲風味的混合。你可以吃到義大利、泰國、中國和印尼菜，如果你喜歡點心，他們有一個專門的點心頁面。食物也適合素食和不含麩質。他們有一個 "特餐" 菜單，包括食物和雞尾酒。<br><br>你可以選擇在室內或室外沙灘上就座，設施非常整潔。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.263827,-8.705234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Shotgun Social Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4m8UNvRFXbqEvuVU0kqoLtBLSYnD1x6J_mrvPievncXqAs2cYb9y4KPJO0QpFG5uNuEVBB6fxnBI7ECoqe-Gvreforu7szcGUVBH8ej1aP3zkhr2DRfw5gtN6x3wAep_FqW9tTOpZyb0e9M4qk5fRVG6RvhIiFb04cYF2j3sasH3tkb345ZBpIF_vsMmwqoB1nJf-AXCxQx0bmCauOTs58t-Upwm0WlOY1ZLs7LP0abi1i51Hy-z1EWq0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>沙努爾受歡迎的社交空間。它提供多種設施，包括國際餐廳、酒吧和咖啡廳，是尋找休閒用餐體驗的理想場所。對於有孩子的家庭來說，室外遊樂場是一個很棒的功能，讓孩子們在父母享受美食的同時玩耍和娛樂<br><br>請參考網誌詳細介紹：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4m8UNvRFXbqEvuVU0kqoLtBLSYnD1x6J_mrvPievncXqAs2cYb9y4KPJO0QpFG5uNuEVBB6fxnBI7ECoqe-Gvreforu7szcGUVBH8ej1aP3zkhr2DRfw5gtN6x3wAep_FqW9tTOpZyb0e9M4qk5fRVG6RvhIiFb04cYF2j3sasH3tkb345ZBpIF_vsMmwqoB1nJf-AXCxQx0bmCauOTs58t-Upwm0WlOY1ZLs7LP0abi1i51Hy-z1EWq0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2621829,-8.6842818,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Three Monkeys Sanur</name>
+        <description><![CDATA[源自烏布的稻田，Three Monkeys Ubud 的姐妹餐廳現在也在 Sanur 落戶。<br><br>這家家族經營的餐廳擁有廚師 Kali Sary。她豐富的烹飪背景和知識在她的食物中閃耀。雖然 Kari 在珀斯完成學徒時也有平面設計、攝影和 DJ 的背景，但她在撒丁島熟練了意大利料理，並從前輩的烹飪傳統中獲得了來自希臘群島的食譜和埃及的種子。<br><br>儘管是巴厘島的餐廳，Kari 的豐富烹飪背景在 Three Monkeys 的美食中得到了明確體現。<br><br>分享用的小菜、Mezze、布魯斯凱塔、春卷、小盤、湯和沙拉、自製麵食、傳統印尼菜、碳烤美食、披薩和甜點都讓你想一再回來。有些人會說這是 Sanur 最好的美食之一。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2636,-8.691998,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sindhu Night Market</name>
+        <description><![CDATA[你能找到最好的峇里街頭美食之一。<br><br>這個市場白天營業，晚上開始變成夜市，供應美味的傳統印尼和峇里菜。你會在這裡找到所有你最喜愛的美食，從沙嗲、炒飯、炒麵、瑪塔巴克、Roppongi 餅、Ayam betutu，還有各種海鮮和其他菜品。<br><br>夜市營業時間為晚上 5:45 至 10:00，但最好在晚上 6-7 點之間到達，這樣你就能保證有足夠的選擇和充足的食物。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.259927,-8.685219,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Appetito Craft Pizza, Pasta, & Grill]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X69G4hsQe7LKgd9qVBZQkUmpVnilsJ9pFH_3xuX9hDUZ94zKMFmQGzaSorhHgGsMCMpzLOzq_nK5M-NFGHEaYWv0Nd2HFwaCa6mdFiL6oWnh1bYGTSHuugfcKxwNsnnDFTocDQbobLTaJpWRvEuLXnf6dJmym2qzuQy7vImkPjEb-mvJN15FTkgAIOBj-yyCSPhl2YH9AkAGbZgTRqS1YpwCbLXhS33pb4RdVSBXcM9Qcr5QhCqPXkH8BE?authuser=0&fife=s16383" height="200" width="auto" /><br><br>Icon Bali 後門靠海灘的Appetito餐廳，義大利麵、披薩都好吃，份量足，價錢不高，室內冷氣夠涼，值得推薦！]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X69G4hsQe7LKgd9qVBZQkUmpVnilsJ9pFH_3xuX9hDUZ94zKMFmQGzaSorhHgGsMCMpzLOzq_nK5M-NFGHEaYWv0Nd2HFwaCa6mdFiL6oWnh1bYGTSHuugfcKxwNsnnDFTocDQbobLTaJpWRvEuLXnf6dJmym2qzuQy7vImkPjEb-mvJN15FTkgAIOBj-yyCSPhl2YH9AkAGbZgTRqS1YpwCbLXhS33pb4RdVSBXcM9Qcr5QhCqPXkH8BE?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2645136,-8.6868128,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lilla Pantai</name>
+        <description><![CDATA[Lilla Pantai在過去幾年進行了升級。您可以選擇躺椅或桌椅來享用早餐、午餐或晚餐。沙灘上也有沙發，所以您可以在快樂時光時放鬆一下，喝一杯雞尾酒。或者如果您喜歡的話，也可以坐在室內。<br><br>用新鮮榨汁開始您的一天，接著品嚐一些經典菜品。有Eggs Benny、壓碎的牛油果、法式吐司和粥可供選擇。幾種口味的平滑碗，或自己組合。這裡的咖啡也很不錯。<br><br>午餐和晚餐提供西式和當地的巴厘島美食，咖喱和海鮮菜肴特別突出。特別是海鮮杂烩。<br><br>今年早些時候，我們幾次在那裡吃早餐，食物很好。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.263871,-8.704798,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>La Playa Cafe</name>
+        <description><![CDATA[這家受歡迎的咖啡館位於海灘前。<br><br>不管是早餐、午餐還是晚餐，食物總是美味的。如果你想吃牛排，這裡是最好的選擇，煎鮪魚也非常棒。<br><br>還有其他海鮮菜餚以及正宗的巴厘島和印尼菜。你也可以在這裡嘗試巴厘島風味的Rijsttafel。<br><br>La Playa Cafe Sanur - 海灘上的海鮮餐廳<br>由於室內有兒童遊樂區，因此非常受家庭歡迎。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.264461,-8.703449,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Genius Cafe Sanur</name>
+        <description><![CDATA[在Genius咖啡館品嚐美味又健康的食物。<br><br>這家咖啡館兼具數位遊牧工作者和企業家的共同工作空間。此外，特別活動和演講也常有。<br><br>可以開始一天的早晨，品嚐一杯冰沙、煎蛋或是酪梨泥，或者從主打高植物飲食的菜單中選擇你的新愛餐。綠色煎餅是一道非常出色的菜餚。這種不含添加物的菜單也能滿足素食主義者。不用擔心，還有西式料理，甚至是男士們都會愛的食物。<br><br>Genius Cafe Sanur<br>這裡的食物不僅好吃，看起來也非常美味。我們毕竟先用眼睛吃对吧？<br><br>菜單种类繁多，还有精美的鸡尾酒和饮料菜单。價格比其他咖啡館高，但是食材的品質和高标准值得一试。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.253799,-8.711475,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Nelayan Sanur Bay</name>
+        <description><![CDATA[Neyalan 的菜單融合了西方和亞洲美食。 你可以吃意大利菜、泰國菜、中國菜和印尼菜，如果你是點心愛好者，他們還有一個專門介紹點心的頁面。 食物也是素食和無麩質友好的。 他們有食物和雞尾酒的“特色”菜單。<br><br>您可以選擇坐在海灘的室內或室外，設施一塵不染。<br><br>要想以實惠的價格享受美味、新鮮、美味的食物，而且地理位置優越，您一定不能錯過 Neyalan Sanur Bay。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.263827,-8.705234,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Pantai Indah</name>
+        <description>如果您想在海灘上享受輕鬆、寧靜的用餐和飲品，那麼這裡就是您的最佳選擇。 它簡單、質樸且便宜。 他們的啤酒很冷，食物也很棒。 沒有什麼比坐在座位上，雙腳踩在沙灘上，聆聽海浪拍打礁石和拍打海岸更好的了，沒有音樂打斷，只有人們在說話。 每次我們來到沙努爾，我們都會來這裡享受傍晚涼爽的微風帶來的簡約和氛圍。</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.265619,-8.698766,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Bistro</name>
+        <description><![CDATA[漂亮的海濱位置，<br>沿著海濱木板路步行後，我們去了 Coco Bistro 吃午飯。 這是一家不錯的海灘休閒小酒館，供應當地海鮮菜餚和柴火比薩餅。<br><br>工作人員非常友好和熱情。 我們一邊享受著可愛的海風，一邊享受著午餐和雞尾酒。]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.264134,-8.704186,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Wicked Parrot</name>
+        <description>很特別的餐廳，入夜後座無虛席</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.26395,-8.690913,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Massimo Italian Restaurant</name>
+        <description>Sanur區最有名的異國餐廳（義大利餐）。價格實惠，門口有有名的gelato</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.26069,-8.704743,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Byrd House Bali</name>
+        <styleUrl>#icon-1899-0288D1-nodesc</styleUrl>
+        <Point>
+          <coordinates>
+            115.264053,-8.683521,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Batujimbar Cafe</name>
+        <description>Batujimbar Cafe是一家美味的餐廳，但他們的甜點實在令人驚艷。在離開峇里島前的最後一餐，我們決定在這裡品嚐，點了一塊堤拉米蘇，讓我留下深刻的印象。其他甜點看起來同樣誘人，讓我感到非常遺憾，因為這是我們唯一一次品嚐到它們的美味。如果能早點發現這家餐廳，我肯定會每餐都外帶不同的蛋糕回旅館享用！</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.263776,-8.695544,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gecko Coffee House</name>
+        <description>價格超划算，店裡也很有風格，甚至有很多手作產品販售，在附近逛累了，非常適合進去坐坐</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.252464,-8.705701,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Kecil</name>
+        <description>比較偏向老外口味的咖啡輕食館。有在地口味美食外，也有很多輕食類，深受老外喜愛！</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.261917,-8.702986,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Jepun Sanur</name>
+        <description><![CDATA[團友推薦：「環境美、好吃、價格不錯的餐廳」<br>、「相見恨晚 很想連續吃兩次」]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.260474,-8.705045,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naughty Nuri’s Warung, Sanur</name>
+        <description><![CDATA[Naughty Nuri's Warung 是一家位於水明漾著名的豬肋排餐廳，現在在Sanur的交通要道上也有他們的分店啦<br><br>請參考網誌有優惠：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.258507,-8.6880083,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pier Eight Bali</name>
+        <description><![CDATA[沙努爾海景第一排的五星酒店享受下午茶<br><br>請參考網誌有優惠：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2635366,-8.7057444,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Starbucks Griya Santrian Sanur</name>
+        <description>古色古香的星巴克</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2639715,-8.6902244,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Mak Beng</name>
+        <description><![CDATA[魚料理非常美味，雖然不是很起眼，但是牆上貼滿了名人來吃的照片，就知道他的料理很棒喔！<br><br>推薦魚肉料理、魚頭湯]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2630222,-8.6736472,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Lilla Warung</name>
+        <description><![CDATA[有一道錫箔紙包著的魚 很好吃<br><br>~Alice Li 提供～]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.262452,-8.689941,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Forketta Bali</name>
+        <description><![CDATA[這家餐廳以精緻的義大利料理聞名，我們點了招牌的手工義大利麵和烤披薩，口感和味道都非常正宗，讓我們大飽口福。這樣美味的義式料理是為這充實的一天劃上完美句號的好選擇！<br><br>～劉惠慈提供～]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2635194,-8.6933633,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Tsune Sanur by Wonderspace - Japanese Restaurant in Sanur</name>
+        <description><![CDATA[高評價日式料理<br>請參考網誌有優惠：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2574362,-8.6686661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Paed Thai Sanur by Wonderspace</name>
+        <description><![CDATA[超好吃泰式料理<br>請參考網誌有優惠：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2589161,-8.6969428,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Village Cucina Italiana</name>
+        <description><![CDATA[高人氣義大利餐廳<br>請參考網誌有優惠：https://gobaligo.id/go/sanur-guide]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2640073,-8.6903459,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Warung Be Sanur - Pantai Mataharai Terbit Sanur</name>
+        <description><![CDATA[我跟太太點了兩個餐一份甜點<br>鮪魚頭湯跟炸鮪魚一份45000印尼盾<br>炒飯40000印尼盾<br>冰淇淋20000印尼盾<br>加一成服務費，總金額大概12萬印尼盾<br>折台幣240元<br>大推鮪魚餐，本以為平平無奇，但是確令人驚艷，不錯吃。<br>冰淇淋也好吃，有酪梨，椰子肉，起司等<br>好吃不貴，推薦給大家。<br><br>施信銘提供]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2612485,-8.671476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hanoi by MeVui</name>
+        <description>這間越南菜環境乾淨又好吃</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.258003,-8.7078389,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>六大海景咖啡廳</name>
+      <Placemark>
+        <name>Bayside Seaview</name>
+        <description>六大海景咖啡廳的介紹請看這裡：https://gobaligo.id/go/Sanur-beach-cafes</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2630662,-8.67336,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pesso Beach Front</name>
+        <description>六大海景咖啡廳的介紹請看這裡：https://gobaligo.id/go/Sanur-beach-cafes</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2628647,-8.6729015,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Goldmine Coffee Sunrise</name>
+        <description>六大海景咖啡廳的介紹請看這裡：https://gobaligo.id/go/Sanur-beach-cafes</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2624329,-8.6721343,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Naked Baked</name>
+        <description>六大海景咖啡廳的介紹請看這裡：https://gobaligo.id/go/Sanur-beach-cafes</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2628258,-8.7068793,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Stuja di Pantai</name>
+        <description>六大海景咖啡廳的介紹請看這裡：https://gobaligo.id/go/Sanur-beach-cafes</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.262456,-8.7070621,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Genius Cafe Sanur</name>
+        <description>六大海景咖啡廳的介紹請看這裡：https://gobaligo.id/go/Sanur-beach-cafes</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2537991,-8.7114749,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>沙努爾住宿推薦</name>
+      <Placemark>
+        <name>The Meru Sanur</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7Znw3axr00GaW8sPSaGIudHcgikzzNVyP7aRSQIahqae0sQhnOlkeqxG_NS3Tn55A068QoQ1hDEc8T5zrYiR-6_3XQ-Ldijn_V2Ft-IIV8tMwoiJPRTOG68bzE9R8eu4-1_YTDG8mjZfbrmippLL7C5ikJ-iU-PhjCM3vHTI-AhnB3coJx9C5pG_LOOv34DrXzPT4JaSohgze84y4inXtyaGGpeK1nRKrus5nVgb0acnrdFOP3ycdCh-A?authuser=0&fife=s16383" height="200" width="auto" /><br><br>本站詳細介紹：https://gobaligo.id/blog/the-meru-sanur/]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7Znw3axr00GaW8sPSaGIudHcgikzzNVyP7aRSQIahqae0sQhnOlkeqxG_NS3Tn55A068QoQ1hDEc8T5zrYiR-6_3XQ-Ldijn_V2Ft-IIV8tMwoiJPRTOG68bzE9R8eu4-1_YTDG8mjZfbrmippLL7C5ikJ-iU-PhjCM3vHTI-AhnB3coJx9C5pG_LOOv34DrXzPT4JaSohgze84y4inXtyaGGpeK1nRKrus5nVgb0acnrdFOP3ycdCh-A?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2635336,-8.6790625,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Maya Sanur Resort & Spa]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6ZrKX3duovQKoIS6N5rFQjkB0j9fCWQCdWCac6W6FUtLInW0eDVFFB57hHzTsNUDWgmqodTC0WWzDCI-raRTd7BS0gL3ldzRY5IleG--Fu3KQ9tGTQbDIOBugjY_MFYIPTJpRjI-wTK0Umjx6frtSPKv8lEwwzxG8esvMKIKCeKFG9ExhyLuNAag0N1H3USnaFB_k5J5wJ0fnNEO4jJvBQ6HMmjpaMfsZfIOvpeR8dAXZMrXoOviFw7Tk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6ZrKX3duovQKoIS6N5rFQjkB0j9fCWQCdWCac6W6FUtLInW0eDVFFB57hHzTsNUDWgmqodTC0WWzDCI-raRTd7BS0gL3ldzRY5IleG--Fu3KQ9tGTQbDIOBugjY_MFYIPTJpRjI-wTK0Umjx6frtSPKv8lEwwzxG8esvMKIKCeKFG9ExhyLuNAag0N1H3USnaFB_k5J5wJ0fnNEO4jJvBQ6HMmjpaMfsZfIOvpeR8dAXZMrXoOviFw7Tk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2642078,-8.697712,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seascape Resort Sanur by iNi Vie Hospitality - Adult-Only Intimate Resort</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4SOyPC00iz7w09UXrlFuYd7PksCqfpr-biw-5JkFUBLRIGGVRfvZt4aZsNMwrTmCab_qdkwfjaJmaoGPHXfHzl9Kxu8E57OxtUyX4I_WB_rtKDBXvPvbxvjCLq9avv2lk1ZMD5GPI1uIDGMawJXnbt9JkqFMXQu2wIlLBg7FSOh3t0tgDFca2v7BFcPqRxLO6d5F2pj0eAuzyH-W3VaiLtLkbrLsQg9qSQn5AfQk7lCQbpX-aP0YFiulI?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4SOyPC00iz7w09UXrlFuYd7PksCqfpr-biw-5JkFUBLRIGGVRfvZt4aZsNMwrTmCab_qdkwfjaJmaoGPHXfHzl9Kxu8E57OxtUyX4I_WB_rtKDBXvPvbxvjCLq9avv2lk1ZMD5GPI1uIDGMawJXnbt9JkqFMXQu2wIlLBg7FSOh3t0tgDFca2v7BFcPqRxLO6d5F2pj0eAuzyH-W3VaiLtLkbrLsQg9qSQn5AfQk7lCQbpX-aP0YFiulI?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2574362,-8.6686661,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hyatt Regency Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7_K5WLSs6UDJnSHv58TzZ9-UAsiCSO0K5MrCNjfr3YWhz6WjJT_J1j0Ug1GGwxGfxP3KwYtZDPQFAghkZvWuwAsZRgcJF0s4_ZeSyLdbjIT1gTHiAU2fvifRfHcIsVN_sacwKXgphRBj67T33-fMSlnXCiT2ezueyIX84BGdcIHpHdYBovgyPMXNIFaeWfU97NyvZqsUGB8EbIVUZfhFKQq9bRWzS4YaeFlRpaV6yG2Qh3-qzSqylLAlQ?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7_K5WLSs6UDJnSHv58TzZ9-UAsiCSO0K5MrCNjfr3YWhz6WjJT_J1j0Ug1GGwxGfxP3KwYtZDPQFAghkZvWuwAsZRgcJF0s4_ZeSyLdbjIT1gTHiAU2fvifRfHcIsVN_sacwKXgphRBj67T33-fMSlnXCiT2ezueyIX84BGdcIHpHdYBovgyPMXNIFaeWfU97NyvZqsUGB8EbIVUZfhFKQq9bRWzS4YaeFlRpaV6yG2Qh3-qzSqylLAlQ?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2632407,-8.702184,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Andaz Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5MdbCivokm920PRindrT0za-_gt_4vEdQSZm-nZTCNn-whfHxTbe91e-on-e6GlHwmJ5wRwvJpr_N47BxKy8WIuy4ZpHH5bfkxOM20DtW7Ghp9f-BKZVv1YiWpKP8IHqrXinLHFprfUYraQMPBMKzuMRNKEVREuW9GNtqXSRfG8nt2bzme24Lq8VvUT3QCbxDzfZKheiUgxQfKLiWfD9AhqxRdk5oNR2tJabGmNsEOtVn7uqcWReE93FM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5MdbCivokm920PRindrT0za-_gt_4vEdQSZm-nZTCNn-whfHxTbe91e-on-e6GlHwmJ5wRwvJpr_N47BxKy8WIuy4ZpHH5bfkxOM20DtW7Ghp9f-BKZVv1YiWpKP8IHqrXinLHFprfUYraQMPBMKzuMRNKEVREuW9GNtqXSRfG8nt2bzme24Lq8VvUT3QCbxDzfZKheiUgxQfKLiWfD9AhqxRdk5oNR2tJabGmNsEOtVn7uqcWReE93FM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2636097,-8.6995374,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Griya Santrian a Beach Resort & Spa]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7CvlcwFtMOt-dU8wvrYHxfCka-7PlExTCkDxmT3-jdfFrQTa331KCjTjD69IaE1Mji5FitA2Kx_vfW4piZaln8mjbfwubTc5OHvCQAzBBPFuVoceq810TmeHIjeF-gao3L0Bfj6PpYY6Z4Xil414ZU4q-0rrUbydbkWMN3rsJFGb5iI1lIwVqa9IU3cJt5E37Lirdr43w04FhchAaTPMKAM4gnbm8xaEWGJ-VH-hTMH1eVCL37CEIrDB0?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7CvlcwFtMOt-dU8wvrYHxfCka-7PlExTCkDxmT3-jdfFrQTa331KCjTjD69IaE1Mji5FitA2Kx_vfW4piZaln8mjbfwubTc5OHvCQAzBBPFuVoceq810TmeHIjeF-gao3L0Bfj6PpYY6Z4Xil414ZU4q-0rrUbydbkWMN3rsJFGb5iI1lIwVqa9IU3cJt5E37Lirdr43w04FhchAaTPMKAM4gnbm8xaEWGJ-VH-hTMH1eVCL37CEIrDB0?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2657314,-8.6901611,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Pavilions Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X508exBnh2L7nPcLrUr6aId2VOim6QdS4qEpzHU0wSZowmjdmCOcS10egbsvDrhJ0eqFitQz7wb7tjG9RS9RuzWclgLZyFuqdLFZN-fiYlctJ7Njc0eCPSYLwUOG6EjScGUJVKxbLwtCpyZMAeuUKh19wOMQI9ty_6rAPAcDnlozS1j4AJ4yocT8aT2mS6M8GGQjYJvJ7_a5E2RLDJZm5EMGyBGCKJB8cDX-n5P4k6q6H9MDNfDEKTNypc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X508exBnh2L7nPcLrUr6aId2VOim6QdS4qEpzHU0wSZowmjdmCOcS10egbsvDrhJ0eqFitQz7wb7tjG9RS9RuzWclgLZyFuqdLFZN-fiYlctJ7Njc0eCPSYLwUOG6EjScGUJVKxbLwtCpyZMAeuUKh19wOMQI9ty_6rAPAcDnlozS1j4AJ4yocT8aT2mS6M8GGQjYJvJ7_a5E2RLDJZm5EMGyBGCKJB8cDX-n5P4k6q6H9MDNfDEKTNypc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2627628,-8.6886706,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Sudamala Suites & Villas Sanur]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Dbqi5j13na2qO_qjLe6-BO7X8SWOF12Fr_2JAisyNMwaFusw-h1y-ta8eVDv8vSBmZ_onR3yG2iqM04VLlYOOVUT8vYLy9kvcUPFjtlLB3UTobaApTPVup7q3HzhrR_rO0gxfknJkz0QkLcyx3BFHAhxeLLatbhRnx2lXjITVBCzgapG56lEZLvS618WxpURa2iQfj0sbUX4ZGzcsJp2owBxUkXCKMTv6CTVhlJCHJFqzCuL8xiVDS7o?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6Dbqi5j13na2qO_qjLe6-BO7X8SWOF12Fr_2JAisyNMwaFusw-h1y-ta8eVDv8vSBmZ_onR3yG2iqM04VLlYOOVUT8vYLy9kvcUPFjtlLB3UTobaApTPVup7q3HzhrR_rO0gxfknJkz0QkLcyx3BFHAhxeLLatbhRnx2lXjITVBCzgapG56lEZLvS618WxpURa2iQfj0sbUX4ZGzcsJp2owBxUkXCKMTv6CTVhlJCHJFqzCuL8xiVDS7o?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2561283,-8.7077243,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Maison Aurelia Sanur, Bali by Préférence</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6psPWhSAoOxba_GX-k_nakFlSnEf9TToDyCcMc-jtNeGt8jCFJXmQ4v8IkyrvQt4ocgZn20sJ18Weo4sGkDAwc0Msp16_AIKXN7eM5Adkpb_R8aIF0doupHGUXgEqbq0UKNBwhKopv7ENU-QsmRzgompCIXNHySr4fa0Ncy2UQ0e4BzLSl6gqnN2z-FN1DL4WbiY-JCk29cpXdoHCrJws4UGMyK8jsigAHYUid8VXC19zVbmEH0qZTEvs?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6psPWhSAoOxba_GX-k_nakFlSnEf9TToDyCcMc-jtNeGt8jCFJXmQ4v8IkyrvQt4ocgZn20sJ18Weo4sGkDAwc0Msp16_AIKXN7eM5Adkpb_R8aIF0doupHGUXgEqbq0UKNBwhKopv7ENU-QsmRzgompCIXNHySr4fa0Ncy2UQ0e4BzLSl6gqnN2z-FN1DL4WbiY-JCk29cpXdoHCrJws4UGMyK8jsigAHYUid8VXC19zVbmEH0qZTEvs?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.263549,-8.695537,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Akaya Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X66ZkUOihfppQ0vF5wkB2oiOPoMzPBlEMeYM7dY_Slb3BvSj8O7m48xmKWpOXte3rAIYzIxqrT0_4_qhGs8Ju2I_9jByEo3_Fx8sWMYqVREOS1_dKNnfv172GI02KlqdNjMieCeCkx39XRhcdpDzlty93_WJ6S_QgFe_Zt2ypj3jGqYhb9LIEhBoCKWmXeuz3pVufKB7O_LxMlxLqGxlRGQ4hGTRlhggTStRvvT8kJdzbGagZnlwSp7XlY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X66ZkUOihfppQ0vF5wkB2oiOPoMzPBlEMeYM7dY_Slb3BvSj8O7m48xmKWpOXte3rAIYzIxqrT0_4_qhGs8Ju2I_9jByEo3_Fx8sWMYqVREOS1_dKNnfv172GI02KlqdNjMieCeCkx39XRhcdpDzlty93_WJ6S_QgFe_Zt2ypj3jGqYhb9LIEhBoCKWmXeuz3pVufKB7O_LxMlxLqGxlRGQ4hGTRlhggTStRvvT8kJdzbGagZnlwSp7XlY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2634356,-8.6965946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Bebek Cottage</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6_GaDEvM7b75JENDmPcye8-LmMO8GaXKaUp9uiFHw-VlN3AkTAvRPhFem_5J_qWpZIlyZnyvYtbI-8qWTBdsiyQW9LJjxRRsC_3Df__TQnqy04w4lm3w8tTj00rDf8AcdhRrJARntcW1qoI89aB-ycXPDCpyuyjiqJ6aRfm1Gp1_XdJfLdzTpC_gzElxrJPkUm3qjlWKbquE4oteEyPoroHnr2S9UCGVtvr3Pb5eyy397F5H16WI2tXwM?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6_GaDEvM7b75JENDmPcye8-LmMO8GaXKaUp9uiFHw-VlN3AkTAvRPhFem_5J_qWpZIlyZnyvYtbI-8qWTBdsiyQW9LJjxRRsC_3Df__TQnqy04w4lm3w8tTj00rDf8AcdhRrJARntcW1qoI89aB-ycXPDCpyuyjiqJ6aRfm1Gp1_XdJfLdzTpC_gzElxrJPkUm3qjlWKbquE4oteEyPoroHnr2S9UCGVtvr3Pb5eyy397F5H16WI2tXwM?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2486517,-8.7088461,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Natah Bale Villa</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7RgRnwh9CX6ZNoM68izcWCfSsV-Wsp0N4TI0U1c5bOg-uinK6Jlr1iNC_FDDAFBTU36BjyE2x8S4PiJgbrWxiJ60SBQGW6dR1ww2fS9ACP63KGasPvuqu5qqPdxWEbV7PiaGg5amXVeMoBvG94nDOz6NsI0obbXFoU1RYwitiIKWr8SMS12OlW6u0BaIizQHNwXBz5S46By5xd0r8apwVx-l6pOLkqt---dBPtE19wy0BO9yUhQFkEdOc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7RgRnwh9CX6ZNoM68izcWCfSsV-Wsp0N4TI0U1c5bOg-uinK6Jlr1iNC_FDDAFBTU36BjyE2x8S4PiJgbrWxiJ60SBQGW6dR1ww2fS9ACP63KGasPvuqu5qqPdxWEbV7PiaGg5amXVeMoBvG94nDOz6NsI0obbXFoU1RYwitiIKWr8SMS12OlW6u0BaIizQHNwXBz5S46By5xd0r8apwVx-l6pOLkqt---dBPtE19wy0BO9yUhQFkEdOc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2573986,-8.7075901,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Samata by LifestyleRetreats</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4UeK7b5zj3E65NhZcoLFDOIQSSR1bWy2ck2rR4SczzkRHN_eNM0WHyWE6fG0T___yCc8rZHVqFe4H8nTIYnVr7hNOmIOctd4UaZsjgK3vpmuCq28T_1LYcrTrjJHqZrJvTUCaUK8SsVJ7vCnDtTCkeAfk_Dl6nNsQSz9AQHTTzaEpUtjFmhWLRVK2dp3qm_PAEoKYUwc3q6CfLxvZybR1N3ND8ljG52EDSdks2PAXTw_cj4jRQkKA1L5s?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4UeK7b5zj3E65NhZcoLFDOIQSSR1bWy2ck2rR4SczzkRHN_eNM0WHyWE6fG0T___yCc8rZHVqFe4H8nTIYnVr7hNOmIOctd4UaZsjgK3vpmuCq28T_1LYcrTrjJHqZrJvTUCaUK8SsVJ7vCnDtTCkeAfk_Dl6nNsQSz9AQHTTzaEpUtjFmhWLRVK2dp3qm_PAEoKYUwc3q6CfLxvZybR1N3ND8ljG52EDSdks2PAXTw_cj4jRQkKA1L5s?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.267531,-8.649597,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Holiday Inn Bali Sanur, an IHG Hotel</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X75I43NFYSXa822bh4Yz6oXosA44UA5qCqlWseF5Cr3lkwyLyWY9eX5_p7MbPgPVynbxMuhSm3h46LzkxLSeGe9b3rahB5irEwV6AU8k6B1_4yKmL2y2xusqlo0TDJqkeHogfLpdTKNeUHF9YzPZR6weNaqoMP6v9X-EKsypEhKcHqVBTCMJd_cNQPCHGqbEWN3WjpxEILr6OPmOgA5t1Tm5AW-pqTeF13EoBW1SGgTAdgyN-BaHnJH9F8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X75I43NFYSXa822bh4Yz6oXosA44UA5qCqlWseF5Cr3lkwyLyWY9eX5_p7MbPgPVynbxMuhSm3h46LzkxLSeGe9b3rahB5irEwV6AU8k6B1_4yKmL2y2xusqlo0TDJqkeHogfLpdTKNeUHF9YzPZR6weNaqoMP6v9X-EKsypEhKcHqVBTCMJd_cNQPCHGqbEWN3WjpxEILr6OPmOgA5t1Tm5AW-pqTeF13EoBW1SGgTAdgyN-BaHnJH9F8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2617269,-8.7063166,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Prime Plaza Hotel Sanur - Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5BArCLTu_jARZgCk-Sh-fg4HLFlEBXuFKij71M5BV1U5cxVTQ6yiRsDfM1TFsqxU975-akKUj7hKp65qUSbHRrdEVh611M0R_2kTnd8xDZ7WdFWKb6dEl0a0DQ5pvhht2sLXNHdJZLyKqGyGhHT3Sa_EOeXstL7zfnqP_eAwh-u7mOpE2OicYdaEMaH8g2VwB02V0YtUvyuinCdXGbHBhSWuHA-f68wGVpPpcrDb7bB0hWsHnD6mFXguc?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5BArCLTu_jARZgCk-Sh-fg4HLFlEBXuFKij71M5BV1U5cxVTQ6yiRsDfM1TFsqxU975-akKUj7hKp65qUSbHRrdEVh611M0R_2kTnd8xDZ7WdFWKb6dEl0a0DQ5pvhht2sLXNHdJZLyKqGyGhHT3Sa_EOeXstL7zfnqP_eAwh-u7mOpE2OicYdaEMaH8g2VwB02V0YtUvyuinCdXGbHBhSWuHA-f68wGVpPpcrDb7bB0hWsHnD6mFXguc?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2601494,-8.6759624,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Abian Harmony Hotel</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X77B-fuxtstlnRMpE3b_OybjgqEZ8hgXyl5QKWygGzHVuibK9hGcRIhSAciBwsUn-WVs01fq_kmHiJs2MRi7fpqXGokIlPZOE2cozWvVGZFKUHE33_9GY3ZhIJ4kXI9LQtCvqDbX7xRhe7ue09xgVyKqxnKABeEBgQi_RcYQU8E8z99hhdLV243V7WaXKDLs4c5Y4PYoOEvB2c5gLloVTg0TEEWcLcEj6k4jTVlTw39-t5oe6mLGBDN08s?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X77B-fuxtstlnRMpE3b_OybjgqEZ8hgXyl5QKWygGzHVuibK9hGcRIhSAciBwsUn-WVs01fq_kmHiJs2MRi7fpqXGokIlPZOE2cozWvVGZFKUHE33_9GY3ZhIJ4kXI9LQtCvqDbX7xRhe7ue09xgVyKqxnKABeEBgQi_RcYQU8E8z99hhdLV243V7WaXKDLs4c5Y4PYoOEvB2c5gLloVTg0TEEWcLcEj6k4jTVlTw39-t5oe6mLGBDN08s?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2608443,-8.7033512,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sanur Lodge Bali</name>
+        <description><![CDATA[請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2506894,-8.7044767,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Griya Harum Villa</name>
+        <description><![CDATA[請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.25077,-8.6976284,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bali Komang Guest House Sanur</name>
+        <description><![CDATA[請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.257447,-8.6936509,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Duyung Homestay</name>
+        <description><![CDATA[請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2625075,-8.7031576,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Agus Villa Sanur</name>
+        <description><![CDATA[請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.2611072,-8.6936907,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>ARTOTEL Sanur - Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7mmSHM9hteViEvTZXWHsJ_QxKpMagsdXuEyzkgFQ_ZLY0GwYswZEf8tkKuvoIpsKdl-tg9hxcvdFKBg2_9Gzm21J6eotdFAqE-rf9YXZ9txL9A2xcFDki4YqGMnaXHSJTMf6yJRkgSmgTwTvpJC_bjcu3QkS1KeADnsPPhLyToh0BmEYm7P2mHvj9mzJiFXcuVadcEKYDkfJARHMP8vcr2lLRxgVc3gCFhnIzHagdApb31v3n9adSvVV8?authuser=0&fife=s16383" height="200" width="auto" /><br><br>請看「沙努爾住宿推薦」的介紹：<br>https://gobaligo.id/go/sanur-accommodations]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7mmSHM9hteViEvTZXWHsJ_QxKpMagsdXuEyzkgFQ_ZLY0GwYswZEf8tkKuvoIpsKdl-tg9hxcvdFKBg2_9Gzm21J6eotdFAqE-rf9YXZ9txL9A2xcFDki4YqGMnaXHSJTMf6yJRkgSmgTwTvpJC_bjcu3QkS1KeADnsPPhLyToh0BmEYm7P2mHvj9mzJiFXcuVadcEKYDkfJARHMP8vcr2lLRxgVc3gCFhnIzHagdApb31v3n9adSvVV8?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.2608695,-8.7054772,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

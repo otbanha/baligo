@@ -1,0 +1,457 @@
+---
+import { SITE_TITLE } from '../consts';
+import LanguageSwitcher from './LanguageSwitcher.astro';
+import ScrollReveal from './ScrollReveal.astro';
+
+interface Props {
+  lang?: string;
+  slug?: string;
+  basePath?: string;
+  hideLangSwitcher?: boolean;
+}
+const { lang, slug, basePath, hideLangSwitcher } = Astro.props;
+
+const homeUrl = lang === 'en' ? '/en/blog/' :
+                lang === 'zh-cn' ? '/zh-cn/blog/' :
+                lang === 'zh-hk' ? '/zh-hk/blog/' : '/blog/?lang=tw';
+
+const searchPlaceholder = lang === 'en'    ? '🔍 Search articles...' :
+                          lang === 'zh-cn' ? '🔍 搜索文章...' :
+                          lang === 'zh-hk' ? '🔍 搜尋文章...' :
+                                             '🔍 搜尋文章...';
+
+const closeLabel = lang === 'en' ? 'Close search' : '關閉搜尋';
+const searchLabel = lang === 'en' ? 'Search' : '搜尋';
+const inputPlaceholder = lang === 'en' ? 'Search 600+ Bali travel articles...' : '搜尋 600+ 篇峇里島旅遊文章...';
+
+const logoSubtitle = lang === 'en'    ? 'Smart Bali Guide' :
+                     lang === 'zh-cn' ? '巴厘岛旅游攻略' :
+                                        '峇里島旅遊攻略';
+
+const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
+                 lang === 'zh-cn' ? 'Go Bali Go 巴厘岛旅游攻略' :
+                                    SITE_TITLE;
+---
+
+<ScrollReveal />
+<header>
+  <nav>
+    <div class="brand">
+      <a href={homeUrl}>
+        <img src="/favicon-32x32.png" alt="logo" class="logo-icon" />
+        <span class="logo-text">
+          <span class="logo-desktop">{logoFull}</span>
+          <span class="logo-line1">Go Bali Go</span>
+          <span class="logo-line2">{logoSubtitle}</span>
+        </span>
+      </a>
+    </div>
+
+    <!-- 搜尋觸發器（點擊開啟 Pagefind modal） -->
+    <div class="search-right">
+      <button type="button" id="search-trigger" class="search-input" aria-label="開啟搜尋">
+        {searchPlaceholder}
+      </button>
+    </div>
+
+    <a href="/bookmarks/" class="bk-icon" id="bk-icon-link" aria-label="我的書籤" title="我的書籤">
+      🔖<span class="bk-badge" id="bk-badge" hidden></span>
+    </a>
+
+    {!hideLangSwitcher && <LanguageSwitcher currentLang={lang ?? 'blog'} slug={slug ?? ''} basePath={basePath} />}
+  </nav>
+</header>
+
+<!-- Fuse.js 站內搜尋 Modal -->
+<div id="search-modal" class="search-modal" hidden aria-modal="true" role="dialog" aria-label={closeLabel}>
+  <div class="search-modal-backdrop" id="search-backdrop"></div>
+  <div class="search-modal-box">
+    <div class="search-form">
+      <input
+        type="search"
+        id="fuse-search-input"
+        class="fuse-search-input"
+        placeholder={inputPlaceholder}
+        autocomplete="off"
+        autocorrect="off"
+        spellcheck="false"
+        data-lang={lang ?? 'zh-tw'}
+      />
+      <button type="button" class="search-close-btn" id="search-close" aria-label={closeLabel}>✕</button>
+    </div>
+    <div id="search-results" class="search-results"></div>
+    <p class="search-hint">站內搜尋</p>
+  </div>
+</div>
+
+<script>
+  // 書籤數量 badge
+  (function () {
+    try {
+      const saved = JSON.parse(localStorage.getItem('bk') || '{}');
+      const count = Object.keys(saved).length;
+      const badge = document.getElementById('bk-badge');
+      if (badge && count > 0) {
+        badge.textContent = String(count);
+        badge.hidden = false;
+      }
+    } catch {}
+  })();
+</script>
+
+<script is:inline>
+(function () {
+  var fuse = null;
+  var indexLoaded = false;
+  var loadingIndex = false;
+  var debounceTimer = null;
+
+  function loadFuseAndIndex() {
+    if (indexLoaded || loadingIndex) return;
+    loadingIndex = true;
+    var s = document.createElement('script');
+    s.src = 'https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js';
+    s.onload = function () {
+      fetch('/article-index.json')
+        .then(function (r) { return r.json(); })
+        .then(function (articles) {
+          fuse = new Fuse(articles, {
+            keys: [
+              { name: 'title', weight: 3 },
+              { name: 'tags', weight: 2 },
+              { name: 'description', weight: 1.5 },
+              { name: 'snippet', weight: 1 },
+            ],
+            threshold: 0.35,
+            ignoreLocation: true,
+            minMatchCharLength: 1,
+          });
+          indexLoaded = true;
+          loadingIndex = false;
+        })
+        .catch(function (e) {
+          console.error('Search index load failed', e);
+          loadingIndex = false;
+        });
+    };
+    document.head.appendChild(s);
+  }
+
+  function openModal() {
+    var modal = document.getElementById('search-modal');
+    if (!modal) return;
+    modal.hidden = false;
+    document.body.style.overflow = 'hidden';
+    loadFuseAndIndex();
+    setTimeout(function () {
+      var inp = document.getElementById('fuse-search-input');
+      if (inp) inp.focus();
+    }, 50);
+  }
+
+  function closeModal() {
+    var modal = document.getElementById('search-modal');
+    if (!modal) return;
+    modal.hidden = true;
+    document.body.style.overflow = '';
+    var inp = document.getElementById('fuse-search-input');
+    if (inp) inp.value = '';
+    var res = document.getElementById('search-results');
+    if (res) res.innerHTML = '';
+  }
+
+  function renderResults(q) {
+    var el = document.getElementById('search-results');
+    if (!el) return;
+    if (!fuse) { el.innerHTML = '<p class="search-loading">載入中…</p>'; return; }
+    var results = fuse.search(q, { limit: 8 });
+    if (!results.length) { el.innerHTML = '<p class="search-no-results">找不到相關文章</p>'; return; }
+    el.innerHTML = results.map(function (r) {
+      var item = r.item;
+      var snippet = item.snippet ? item.snippet.slice(0, 80) : '';
+      var tags = (item.tags || []).slice(0, 3).map(function (t) {
+        return '<span class="search-result-tag">' + t + '</span>';
+      }).join('');
+      return '<a href="' + item.url + '" class="search-result-item">'
+        + '<div class="search-result-title">' + item.title + '</div>'
+        + (tags ? '<div class="search-result-tags">' + tags + '</div>' : '')
+        + (snippet ? '<div class="search-result-snippet">' + snippet + '…</div>' : '')
+        + '</a>';
+    }).join('');
+  }
+
+  document.addEventListener('DOMContentLoaded', function () {
+    var trigger = document.getElementById('search-trigger');
+    var closeBtn = document.getElementById('search-close');
+    var backdrop = document.getElementById('search-backdrop');
+    var inp = document.getElementById('fuse-search-input');
+
+    if (trigger) trigger.addEventListener('click', openModal);
+    if (closeBtn) closeBtn.addEventListener('click', closeModal);
+    if (backdrop) backdrop.addEventListener('click', closeModal);
+    document.addEventListener('keydown', function (e) { if (e.key === 'Escape') closeModal(); });
+
+    if (inp) {
+      inp.addEventListener('input', function (e) {
+        var q = e.target.value.trim();
+        var el = document.getElementById('search-results');
+        if (!q) { if (el) el.innerHTML = ''; return; }
+        clearTimeout(debounceTimer);
+        debounceTimer = setTimeout(function () { renderResults(q); }, 200);
+      });
+    }
+  });
+})();
+</script>
+
+<style>
+header {
+  background: var(--ocean);
+  border-bottom: 2px solid var(--gold);
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 20px rgba(0,0,0,0.3);
+}
+
+nav {
+  max-width: 1400px;
+  margin: 0 auto;
+  padding: 0 1.5em;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  height: 64px;
+  gap: 1.5em;
+}
+
+.brand a {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  text-decoration: none;
+  color: var(--white);
+  white-space: nowrap;
+}
+
+.logo-icon {
+  width: 32px;
+  height: 32px;
+  border-radius: 4px;
+}
+
+.logo-text {
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5em;
+  font-weight: 700;
+  color: var(--gold-light);
+  letter-spacing: 0.02em;
+  display: block;
+}
+
+.logo-desktop { display: inline; }
+.logo-line1 { display: none; }
+.logo-line2 { display: none; }
+
+.search-right {
+  width: 360px;
+  flex-shrink: 0;
+}
+
+/* 搜尋觸發按鈕：外觀與舊 input 完全相同 */
+button.search-input {
+  display: block;
+  width: 100%;
+  background: rgba(255,255,255,0.12);
+  border: 1px solid rgba(197,160,89,0.4);
+  color: rgba(255,255,255,0.5);
+  border-radius: 8px;
+  font-size: 0.88em;
+  padding: 0.5em 1em;
+  font-family: inherit;
+  box-sizing: border-box;
+  text-align: left;
+  cursor: pointer;
+  transition: background 0.2s, border-color 0.2s;
+}
+button.search-input:hover,
+button.search-input:focus {
+  outline: none;
+  border-color: var(--gold);
+  background: rgba(255,255,255,0.18);
+  color: rgba(255,255,255,0.7);
+}
+
+/* ── Search Modal ─────────────────────────────────────── */
+.search-modal {
+  position: fixed;
+  inset: 0;
+  z-index: 9999;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+  padding-top: 80px;
+}
+.search-modal[hidden] { display: none; }
+
+.search-modal-backdrop {
+  position: absolute;
+  inset: 0;
+  background: rgba(0,0,0,0.65);
+  backdrop-filter: blur(4px);
+}
+
+.search-modal-box {
+  position: relative;
+  width: 100%;
+  max-width: 640px;
+  margin: 0 1em;
+  background: var(--white, #fff);
+  border-radius: 12px;
+  box-shadow: 0 20px 60px rgba(0,0,0,0.4);
+}
+
+.search-close-btn {
+  flex-shrink: 0;
+  background: none;
+  border: none;
+  font-size: 1.2em;
+  color: #666;
+  cursor: pointer;
+  padding: 0.3em 0.5em;
+  line-height: 1;
+  border-radius: 4px;
+}
+.search-close-btn:hover { background: #eee; color: #333; }
+
+.search-hint {
+  margin: 0.4em 1em 0.8em;
+  font-size: 0.75em;
+  color: #aaa;
+  text-align: right;
+}
+
+.search-form {
+  display: flex;
+  align-items: center;
+  gap: 0.5em;
+  padding: 1em;
+}
+
+.fuse-search-input {
+  flex: 1;
+  min-width: 0;
+  border: 1.5px solid #c5a059;
+  border-radius: 8px;
+  padding: 0.6em 1em;
+  font-size: 1em;
+  font-family: inherit;
+  outline: none;
+  color: #1a1a1a;
+}
+.fuse-search-input:focus {
+  border-color: #0a1628;
+  box-shadow: 0 0 0 3px rgba(10,22,40,0.1);
+}
+
+:global(.search-results) {
+  max-height: 420px;
+  overflow-y: auto;
+  border-top: 1px solid #eee;
+  border-radius: 0 0 12px 12px;
+}
+:global(.search-result-item) {
+  display: block;
+  padding: 0.75em 1em;
+  text-decoration: none;
+  color: inherit;
+  border-bottom: 1px solid #f0f0f0;
+  transition: background 0.15s;
+}
+:global(.search-result-item:last-child) { border-bottom: none; }
+:global(.search-result-item:hover) { background: #f8f5ee; }
+:global(.search-result-title) {
+  font-weight: 600;
+  font-size: 0.95em;
+  color: #1a1a1a;
+  margin-bottom: 0.2em;
+}
+:global(.search-result-tags) {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.3em;
+  margin: 0.2em 0;
+}
+:global(.search-result-tag) {
+  font-size: 0.68em;
+  color: #888;
+  background: #f0f0f0;
+  border-radius: 3px;
+  padding: 0.1em 0.4em;
+}
+:global(.search-result-snippet) {
+  font-size: 0.75em;
+  color: #444;
+  line-height: 1.4;
+  overflow: hidden;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+}
+:global(.search-loading),
+:global(.search-no-results) {
+  padding: 1.2em 1em;
+  text-align: center;
+  color: #aaa;
+  font-size: 0.9em;
+}
+
+.bk-icon {
+  position: relative;
+  font-size: 1.3em;
+  text-decoration: none;
+  line-height: 1;
+  flex-shrink: 0;
+}
+.bk-badge {
+  position: absolute;
+  top: -6px;
+  right: -8px;
+  background: #ef4444;
+  color: #fff;
+  font-size: 0.45em;
+  font-weight: 700;
+  min-width: 1.4em;
+  height: 1.4em;
+  border-radius: 999px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0 0.2em;
+  line-height: 1;
+}
+
+/* ── 平板直立（768px 以下）：縮短搜尋框，確保語系切換顯示 ── */
+@media (max-width: 900px) {
+  .search-right { width: 200px; }
+}
+
+@media (max-width: 720px) {
+  .search-right { width: 150px; }
+  :global(.lang-globe) { display: none; }
+}
+
+@media (max-width: 600px) {
+  nav { padding: 0 0.75em; gap: 0.5em; }
+  .logo-text { font-size: 0.95em; line-height: 1.2; }
+  .logo-desktop { display: none; }
+  .logo-line1 { display: block; }
+  .logo-line2 { display: block; font-size: 0.72em; opacity: 0.85; }
+  .search-right { width: 120px; flex-shrink: 0; }
+  .search-modal { padding-top: 20px; }
+  :global(.lang-switcher) { flex-shrink: 0; }
+  :global(.lang-current) { padding: 0.35em 0.6em; font-size: 0.82rem; min-height: 36px; display: flex; align-items: center; }
+  :global(.lang-globe) { display: none; }
+  .bk-icon { font-size: 1.1em; padding: 0.45em; margin: -0.45em; }
+}
+</style>

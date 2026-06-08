@@ -1,0 +1,33 @@
+---
+import SpaListItem from './SpaListItem.astro';
+
+interface SpaItem {
+  name: string;
+  href?: string;
+  description?: string;
+  links?: {
+    klook?: string;
+    kkday?: string;
+    trip?: string;
+  };
+}
+
+interface Props {
+  title: string;
+  spas: SpaItem[];
+}
+
+const { title, spas } = Astro.props;
+---
+
+<h3>{title}</h3>
+<ul class="spa-list">
+  {spas.map(spa => <SpaListItem {...spa} />)}
+</ul>
+
+<style>
+  .spa-list {
+    padding: 0;
+    margin: 0 0 1.5rem;
+  }
+</style>

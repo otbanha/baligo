@@ -1,0 +1,487 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>水明漾住宿推薦 by: GoBaliGo</name>
+    <description><![CDATA[峇里島旅遊攻略<br>https://gobaligo.id/]]></description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>水明漾濱海住宿</name>
+      <Placemark>
+        <name>峇里島水明漾W酒店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4BFeR3JrDspyS3MEZWDyco7wtncWBF3XhG9nA54bJ2jqhUQNK1nycQ0aYyBa4sK9hGAbHbzoQ9xqXqAYUt_MZ5SJO2SuFhbVp0J5barPRh4mM1-C_wDggJpTwl6Y-RMC6TEqP0MfVzuEvqrP6TcmdFvs8wLj_n9f7m7_YwjhbFjLsHqJ0omibS_hi4KkiekacMwfOd21O3Hg-DbXua-BaAtzjiPMqasuT2XK7zHCZM49MndcgNAZJsPkk?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4BFeR3JrDspyS3MEZWDyco7wtncWBF3XhG9nA54bJ2jqhUQNK1nycQ0aYyBa4sK9hGAbHbzoQ9xqXqAYUt_MZ5SJO2SuFhbVp0J5barPRh4mM1-C_wDggJpTwl6Y-RMC6TEqP0MfVzuEvqrP6TcmdFvs8wLj_n9f7m7_YwjhbFjLsHqJ0omibS_hi4KkiekacMwfOd21O3Hg-DbXua-BaAtzjiPMqasuT2XK7zHCZM49MndcgNAZJsPkk?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1491632,-8.6772946,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>峇里島水明漾海灘英迪格酒店</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6o12lIwWuG1qKhiSIm-YdBPruHsSgHOYvlG2BV6mSu4mlG_m2seXRPJ450mMJp-oe1qDaJG3ERU06BLW64JOh8a0YC6_Dr_hU2L1ReA7jBqpfbH5TOINmGqfhDQp6A0MpjjepFEagnPbCGdaWrv3HQjv5TeSc2AB5aZHkQAYeXQINe3Bg9xWuA6ApBBqxRpVdAPeBFjig_dOtH-_0LYNPH0LLaxcKl8MBh3msDLwyo9F6e0ZVokpzputo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6o12lIwWuG1qKhiSIm-YdBPruHsSgHOYvlG2BV6mSu4mlG_m2seXRPJ450mMJp-oe1qDaJG3ERU06BLW64JOh8a0YC6_Dr_hU2L1ReA7jBqpfbH5TOINmGqfhDQp6A0MpjjepFEagnPbCGdaWrv3HQjv5TeSc2AB5aZHkQAYeXQINe3Bg9xWuA6ApBBqxRpVdAPeBFjig_dOtH-_0LYNPH0LLaxcKl8MBh3msDLwyo9F6e0ZVokpzputo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.162367,-8.695094,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Legian Seminyak, Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6iKmnFH4or4mMS9P1A4wjzxCzpy3DAziPJsdw8uI-XoLsfR6wHrp_kwo4YIxtZL1YQxZZNZTT2QJ17qdVVtpH249UhO4BgqAUfhxmK1XVfhMUTxCJpNUr0WOAYxgd4IG5zxMDO_AKjhfhLWyNXA6pG35UuP6-Bfg8vMD3VKwm95S3B1nm3DW76xT8fHjLGfp2G2hkpgUNMwvoGXv32ft5J2Eokjryi4lAsMN_OlxrRyPbWpHyv8o3awVo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X6iKmnFH4or4mMS9P1A4wjzxCzpy3DAziPJsdw8uI-XoLsfR6wHrp_kwo4YIxtZL1YQxZZNZTT2QJ17qdVVtpH249UhO4BgqAUfhxmK1XVfhMUTxCJpNUr0WOAYxgd4IG5zxMDO_AKjhfhLWyNXA6pG35UuP6-Bfg8vMD3VKwm95S3B1nm3DW76xT8fHjLGfp2G2hkpgUNMwvoGXv32ft5J2Eokjryi4lAsMN_OlxrRyPbWpHyv8o3awVo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.153314,-8.6844988,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Oberoi Beach Resort, Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7Aqnyju9bMDSJplSIumUJeTaKnRNYkvr9imeQJB02bE76Z7iBMt0pYUeFc0dUeUNfc1V_y0cjMMYxXmz9XQOEkeLcz0Fxz3cGW4gUe0grdJG59ClpftTUEGJOTNlLjaoW0aTkk21jjIrrySqpV5RWdsYj98Vxa2CibnqIZvMRnPigkNHwRqtIlN0mlHSLPI1r6Wx9I-afUKQNnDZUoHOCYSJhXqzaW2AB9HBy_ROIEDcyWPP-nNiSTKzo?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7Aqnyju9bMDSJplSIumUJeTaKnRNYkvr9imeQJB02bE76Z7iBMt0pYUeFc0dUeUNfc1V_y0cjMMYxXmz9XQOEkeLcz0Fxz3cGW4gUe0grdJG59ClpftTUEGJOTNlLjaoW0aTkk21jjIrrySqpV5RWdsYj98Vxa2CibnqIZvMRnPigkNHwRqtIlN0mlHSLPI1r6Wx9I-afUKQNnDZUoHOCYSJhXqzaW2AB9HBy_ROIEDcyWPP-nNiSTKzo?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1559562,-8.6881811,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Alila Seminyak</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4mQ0yNvVUQJBtOrUkKhzK9PK6-tMCo99FT0l8CONbhlOTg_sJSB2E4kqlyfvoR3za3-xs3u1Kw3U-P0mo1OlvnIlNrVvQJ91JNJi2TtYAVVRghPEj6FXo9mxh5J3qRQstnZKemb-d2LXDrJYh-yAMhTwCT1YUrGXlug_xjRV3hrz3WGsTDb_hq8ppunOtI_j_B7bsCdLysCYcr1mwEirTFT0ayBsm1gBS4T0SVfpi9FzK6g7KwN2u-o64?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4mQ0yNvVUQJBtOrUkKhzK9PK6-tMCo99FT0l8CONbhlOTg_sJSB2E4kqlyfvoR3za3-xs3u1Kw3U-P0mo1OlvnIlNrVvQJ91JNJi2TtYAVVRghPEj6FXo9mxh5J3qRQstnZKemb-d2LXDrJYh-yAMhTwCT1YUrGXlug_xjRV3hrz3WGsTDb_hq8ppunOtI_j_B7bsCdLysCYcr1mwEirTFT0ayBsm1gBS4T0SVfpi9FzK6g7KwN2u-o64?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.150905,-8.680121,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[Potato Head Suites & Studios]]></name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4NEK70Erny-xSy95zEaytSIOWm1hirUTUIcdwaB4d5M3g_bQ6ruDxeC3KnOk9Xz2pQjMaMzOwgzC9-Lsawyw2gHGycYGiJPxXkzNgOA6nugq379MVU082CwL20yTZM9QU5_oJa4le3c8TAhEuIwGGnJ2cDJKXbv_o5uRVxC6zEO24hYjmIkWkWXgqMMm9z1l_IgcdBiru4psx2f0dKdiUJ767AuHyjUc3WGoaV3mgVGQuItmD_55jFUBY?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4NEK70Erny-xSy95zEaytSIOWm1hirUTUIcdwaB4d5M3g_bQ6ruDxeC3KnOk9Xz2pQjMaMzOwgzC9-Lsawyw2gHGycYGiJPxXkzNgOA6nugq379MVU082CwL20yTZM9QU5_oJa4le3c8TAhEuIwGGnJ2cDJKXbv_o5uRVxC6zEO24hYjmIkWkWXgqMMm9z1l_IgcdBiru4psx2f0dKdiUJ767AuHyjUc3WGoaV3mgVGQuItmD_55jFUBY?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1505633,-8.6790786,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Double Six Luxury Hotel</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4mboQIWbjjkEGny8LWIl5LPVFNQRZAL4bHf4imV5Qo7om6Lp4HfB34VNMcPHVtv3OWR1r6fAOF68NE4obIZ-HTYuuGGUiwrBVE-P7DPScndoDVi89lQuSGJIhgpX_w4elA1bcKGmPpP7qF217VIYcbTns-TLDzOEqMqE59kE6HcYYfTMQ4njFlfvYPjBQNprO1nkmLh57r9KOHmQOVsxYwXnz0kVJvzLkd1cOzQfF1VVuMmJ033VzHKzs?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X4mboQIWbjjkEGny8LWIl5LPVFNQRZAL4bHf4imV5Qo7om6Lp4HfB34VNMcPHVtv3OWR1r6fAOF68NE4obIZ-HTYuuGGUiwrBVE-P7DPScndoDVi89lQuSGJIhgpX_w4elA1bcKGmPpP7qF217VIYcbTns-TLDzOEqMqE59kE6HcYYfTMQ4njFlfvYPjBQNprO1nkmLh57r9KOHmQOVsxYwXnz0kVJvzLkd1cOzQfF1VVuMmJ033VzHKzs?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.161405,-8.6964476,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Samaya Seminyak Bali</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7z_1BsWkxNBnToBnQ30vRHQLUPcdbaU_x-Wv2HyqT5PyKfa3-bslNPoaWPBKD5mAcjcmvRyk0iFv7QH4UppXc3khsbesfOdLBbhBaFPH-FDPVlweLC0hZRRz8K1fQzgZfB69hhL0CaKPpRcccs4Cy5QjkRdQGpme99eUHMqprQoqAIoojZp49sWdDFnpxIfIVm8sF_12cy6qqF7m8j_-zsA1WnFReOgdkj3mTNaLkZEkoddL7LAxys1Ec?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X7z_1BsWkxNBnToBnQ30vRHQLUPcdbaU_x-Wv2HyqT5PyKfa3-bslNPoaWPBKD5mAcjcmvRyk0iFv7QH4UppXc3khsbesfOdLBbhBaFPH-FDPVlweLC0hZRRz8K1fQzgZfB69hhL0CaKPpRcccs4Cy5QjkRdQGpme99eUHMqprQoqAIoojZp49sWdDFnpxIfIVm8sF_12cy6qqF7m8j_-zsA1WnFReOgdkj3mTNaLkZEkoddL7LAxys1Ec?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1528888,-8.6831666,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>FuramaXclusive Ocean Beach Seminyak</name>
+        <description><![CDATA[<img src="https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5U1Xg6dFAoZCDepgqRpZKxHIkzCWu9vDW1zZ1fSkYc-3YxFqlOv6GT4PbSGgMWegfSjZ1HmkGDKKvpeGpRw8-NRGJAraYhl_mKOe34L540s60EFWvZ0hIFWATXgelit7PQgOkjrgC5k-5vjg2CkK5AvDSM1e4kTs2o0QcOKZvDMha2q49-YLz6bY9qTVOQ0rJZnSHbl7PyIPyDyg8sPJ7H5SYnhh9SjiRmcsrDCqzXyinYRZrGf2N-H1I?authuser=0&fife=s16383" height="200" width="auto" /><br><br>中文介紹：https://gobaligo.id/go/seminyak-beach-resorts]]></description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <ExtendedData>
+          <Data name="gx_media_links">
+            <value><![CDATA[https://mymaps.usercontent.google.com/hostedimage/m/*/3AL_Y2X5U1Xg6dFAoZCDepgqRpZKxHIkzCWu9vDW1zZ1fSkYc-3YxFqlOv6GT4PbSGgMWegfSjZ1HmkGDKKvpeGpRw8-NRGJAraYhl_mKOe34L540s60EFWvZ0hIFWATXgelit7PQgOkjrgC5k-5vjg2CkK5AvDSM1e4kTs2o0QcOKZvDMha2q49-YLz6bY9qTVOQ0rJZnSHbl7PyIPyDyg8sPJ7H5SYnhh9SjiRmcsrDCqzXyinYRZrGf2N-H1I?authuser=0&fife=s16383]]></value>
+          </Data>
+        </ExtendedData>
+        <Point>
+          <coordinates>
+            115.1623429,-8.6982977,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>水明漾villa推薦</name>
+      <Placemark>
+        <name>The Buah Bali Villas</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1526598,-8.6784731,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Maya Seminyak Villas</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1595127,-8.6838188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cyrus Villa Seminyak by iNi Vie Hospitality</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1747202,-8.6765841,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mayaloka Villas Seminyak, Seminyak</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1535771,-8.674819,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Javana Royal Villas</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1586569,-8.6733742,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Suites Infinity Beyond - Villa with Private Pool</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.157219,-8.6813603,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Claremont Luxury Villas</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.162778,-8.6808566,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Berry Amour Romantic Villas</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.157225,-8.671744,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Mia Seminyak - Boutique Villas - I</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1595752,-8.6899064,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Mia Seminyak - Boutique Villas - II</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1596427,-8.6893551,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Eden The Residence at the Sea Seminyak</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1459653,-8.6727737,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Gajah Villas</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1621984,-8.688478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Chocolat 1</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1587952,-8.6862983,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Chocolat 2</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1600245,-8.6863144,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Villa Wahah</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1601647,-8.6827774,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Daluman Villa Seminyak</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1716847,-8.696948,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>O Villas Seminyak – 2026 Earlybirds ON SALE!</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1580901,-8.6779008,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>INSPIRA Seminyak</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1630789,-8.6820298,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Peppers Seminyak</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1544226,-8.6812696,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Tukad Villa</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1790373,-8.6947196,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ziva a Boutique Villa</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1610867,-8.681569,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pradha Villas Seminyak</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1551905,-8.6820604,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Dusun Villas Bali</name>
+        <description>網站詳細介紹：https://gobaligo.id/go/seminyak-villas</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1546708,-8.6813245,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>住在美食街上</name>
+      <Placemark>
+        <name>Cross Paasha Bali Seminyak</name>
+        <description>下樓就是美食逛街最熱鬧的街區：https://gobaligo.id/blog/cross-paasha-bali-seminyak/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1593342,-8.6842669,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Seminyak Square Hotel</name>
+        <description>下樓就是美食逛街最熱鬧的街區：https://gobaligo.id/blog/seminyak-square-hotel-and-villas/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1567312,-8.6836824,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>IZE Seminyak by LifestyleRetreats</name>
+        <description>下樓就是美食逛街最熱鬧的街區：https://gobaligo.id/blog/ize-seminyak-review/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1605229,-8.6846054,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Maya Seminyak Villas</name>
+        <description>鬧區中的villa秘境：https://gobaligo.id/blog/the-maya-seminyak/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1595127,-8.6838188,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>eqUILIBRIA SEMINYAK</name>
+        <description>鬧區中的villa秘境：https://gobaligo.id/blog/equilibria-seminyak/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1628907,-8.6827081,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Club Villas Seminyak</name>
+        <description>鬧區中的villa秘境：https://gobaligo.id/blog/the-club-villas-seminyak/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1596795,-8.6846099,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>RC Villas</name>
+        <description>鬧區中的villa秘境：https://gobaligo.id/blog/rc-villas-seminyak/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.1568016,-8.6853209,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>

@@ -1,0 +1,156 @@
+---
+interface Props {
+  currentLang?: string; // 'blog'(zh-tw) | 'zh-cn' | 'zh-hk' | 'en'
+  slug?: string;        // 文章 slug，用於跨語言連結
+  basePath?: string;    // 獨立頁面路徑，如 'bali-budget-calculator'
+}
+
+const { currentLang = 'blog', slug = '', basePath } = Astro.props;
+
+const LANGS = [
+  { code: 'blog',  label: '繁中', title: '繁體中文（台灣）' },
+  { code: 'zh-hk', label: '粵語', title: '廣東話（香港）' },
+  { code: 'zh-cn', label: '简中', title: '简体中文' },
+  { code: 'en',    label: 'EN',   title: 'English' },
+];
+
+function buildUrl(langCode: string, slug: string, basePath?: string) {
+  if (basePath) {
+    // 獨立頁面（非 blog）：/basePath/ 或 /lang/basePath/
+    return langCode === 'blog' ? `/${basePath}/` : `/${langCode}/${basePath}/`;
+  }
+  if (langCode === 'blog') {
+    // ?lang=tw 告訴首頁腳本：這是使用者主動選擇，不要再自動偵測跳轉
+    return slug ? `/blog/${slug}/` : '/blog/?lang=tw';
+  }
+  return slug ? `/${langCode}/blog/${slug}/` : `/${langCode}/blog/`;
+}
+---
+
+<div class="lang-switcher" id="lang-switcher">
+  <button class="lang-current" aria-haspopup="listbox" aria-expanded="false" id="lang-btn">
+    <span class="lang-globe">🌐</span>
+    <span class="lang-label">{LANGS.find(l => l.code === currentLang)?.label ?? '繁中'}</span>
+    <span class="lang-arrow">▾</span>
+  </button>
+  <ul class="lang-menu" role="listbox" id="lang-menu" hidden>
+    {LANGS.map(lang => (
+      <li role="option" aria-selected={lang.code === currentLang}>
+        {lang.code === currentLang
+          ? <span class="lang-item lang-item--active" title={lang.title}>{lang.label}</span>
+          : <a class="lang-item" href={buildUrl(lang.code, slug, basePath)} title={lang.title} hreflang={lang.code === 'blog' ? 'zh-TW' : lang.code}>
+              {lang.label}
+            </a>
+        }
+      </li>
+    ))}
+  </ul>
+</div>
+
+<style>
+.lang-switcher {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+}
+
+.lang-current {
+  display: flex;
+  align-items: center;
+  gap: 0.3em;
+  background: rgba(255, 255, 255, 0.1);
+  border: 1px solid rgba(201, 168, 76, 0.5);
+  border-radius: 8px;
+  padding: 0.3em 0.7em;
+  cursor: pointer;
+  font-size: 0.85rem;
+  font-weight: 600;
+  color: var(--gold-light, #e8d5a3);
+  transition: all 0.15s;
+  white-space: nowrap;
+  font-family: inherit;
+}
+
+.lang-current:hover {
+  background: rgba(201, 168, 76, 0.2);
+  border-color: var(--gold, #C5A059);
+  color: #fff;
+}
+
+.lang-arrow { font-size: 0.7em; transition: transform 0.15s; }
+.lang-current[aria-expanded="true"] .lang-arrow { transform: rotate(180deg); }
+
+.lang-menu {
+  position: absolute;
+  top: calc(100% + 6px);
+  right: 0;
+  background: #fff;
+  border: 1px solid rgba(201, 168, 76, 0.3);
+  border-radius: 10px;
+  box-shadow: 0 4px 20px rgba(0,0,0,0.12);
+  list-style: none;
+  margin: 0;
+  padding: 0.4em 0;
+  min-width: 90px;
+  z-index: 100;
+}
+
+.lang-item {
+  display: block;
+  padding: 0.45em 1em;
+  font-size: 0.88rem;
+  font-weight: 600;
+  text-decoration: none;
+  color: var(--ocean, #5D4037);
+  white-space: nowrap;
+  transition: background 0.12s;
+  cursor: pointer;
+}
+
+.lang-item:hover { background: rgba(201, 168, 76, 0.1); color: var(--gold, #C5A059); }
+.lang-item--active { color: var(--gold, #C5A059); cursor: default; }
+</style>
+
+<script>
+  const btn = document.getElementById('lang-btn');
+  const menu = document.getElementById('lang-menu');
+
+  if (btn && menu) {
+    btn.addEventListener('click', (e) => {
+      e.stopPropagation();
+      const isHidden = menu.hidden;
+      menu.hidden = !isHidden;
+      btn.setAttribute('aria-expanded', String(!isHidden));
+    });
+
+    // 若目前 URL 有 ?cat= 參數，動態補到各語系連結上
+    const catParam = new URLSearchParams(window.location.search).get('cat');
+    if (catParam) {
+      menu.querySelectorAll('a[hreflang]').forEach(a => {
+        const url = new URL((a as HTMLAnchorElement).href);
+        url.searchParams.set('cat', catParam);
+        (a as HTMLAnchorElement).href = url.toString();
+      });
+    }
+
+    // 點選語言連結時，更新 cookie 記憶使用者選擇
+    menu.addEventListener('click', (e) => {
+      const link = (e.target as Element).closest('a[hreflang]');
+      if (!link) return;
+      const hreflang = link.getAttribute('hreflang') ?? '';
+      // hreflang: zh-TW → zh-tw, zh-cn → zh-cn, zh-hk → zh-hk, en → en
+      const lang = hreflang === 'zh-TW' ? 'zh-tw' : hreflang;
+      if (lang) {
+        document.cookie = `gobaligo_lang=${lang}; path=/; max-age=${60 * 60 * 24 * 365}; SameSite=Lax`;
+      }
+    });
+
+    // Close menu on outside click, but NOT if clicking inside menu
+    document.addEventListener('click', (e) => {
+      if (!menu.contains(e.target as Node)) {
+        menu.hidden = true;
+        btn.setAttribute('aria-expanded', 'false');
+      }
+    });
+  }
+</script>

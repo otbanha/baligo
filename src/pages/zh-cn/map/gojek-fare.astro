@@ -1,0 +1,758 @@
+---
+import BaseHead from '../../../components/BaseHead.astro';
+import Header from '../../../components/Header.astro';
+import TopStrip from '../../../components/TopStrip.astro';
+import Footer from '../../../components/Footer.astro';
+import zonesData from '../../../data/gojek-zones.json';
+import faresData from '../../../data/gojek-fares.json';
+
+const title = '巴厘岛 Gojek 费用查询｜GoCar GoRide 车费计算';
+const description = '巴厘岛 Gojek 车费快速查询！选择出发地和目的地，即时获取 GoCar / GoRide 预估车费，含高峰加成、No-Gojek Zone 禁区提醒，覆盖 21 个热门区域。';
+const lang = 'zh-cn';
+const basePath = 'map/gojek-fare';
+const zonesJson = JSON.stringify(zonesData);
+const faresJson = JSON.stringify(faresData);
+const ldJson = JSON.stringify({
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "WebApplication",
+      "name": "巴厘岛 Gojek 费用查询",
+      "description": description,
+      "url": "https://gobaligo.id/zh-cn/map/gojek-fare/",
+      "applicationCategory": "TravelApplication",
+      "operatingSystem": "Web Browser",
+      "offers": { "@type": "Offer", "price": "0", "priceCurrency": "CNY" },
+      "inLanguage": "zh-CN"
+    },
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "首页", "item": "https://gobaligo.id/zh-cn/blog/" },
+        { "@type": "ListItem", "position": 2, "name": "主题地图", "item": "https://gobaligo.id/map/" },
+        { "@type": "ListItem", "position": 3, "name": "Gojek 费用查询", "item": "https://gobaligo.id/zh-cn/map/gojek-fare/" }
+      ]
+    }
+  ]
+});
+---
+
+<html lang="zh-CN">
+<head>
+  <BaseHead title={title} description={description} />
+  <script type="application/ld+json" set:html={ldJson}></script>
+  <style>
+    * { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: #f7f5f2;
+      font-family: 'PingFang SC', 'Noto Sans SC', 'Microsoft YaHei', sans-serif;
+      min-height: 100dvh;
+      color: #1a1a1a;
+    }
+
+    .page-wrap {
+      max-width: 1120px;
+      margin: 0 auto;
+      padding: 16px 16px 40px;
+    }
+
+    .breadcrumb {
+      font-size: 12px;
+      color: #999;
+      padding: 12px 0 4px;
+    }
+    .breadcrumb a { color: #999; text-decoration: none; }
+    .breadcrumb a:hover { color: #1a6fa8; }
+    .breadcrumb span { margin: 0 4px; }
+
+    .hero {
+      background: linear-gradient(135deg, #00b14f 0%, #007a35 100%);
+      border-radius: 20px;
+      padding: 24px 20px 20px;
+      margin-bottom: 16px;
+      color: #fff;
+      position: relative;
+      overflow: hidden;
+    }
+    .hero::before {
+      content: '🛵';
+      position: absolute;
+      right: 20px;
+      top: 50%;
+      transform: translateY(-50%);
+      font-size: 56px;
+      opacity: 0.25;
+      pointer-events: none;
+    }
+    .hero h1 {
+      font-size: 22px;
+      font-weight: 800;
+      color: #fff;
+      line-height: 1.3;
+      margin-bottom: 6px;
+    }
+    .hero p {
+      font-size: 13px;
+      color: rgba(255,255,255,0.85);
+      line-height: 1.5;
+    }
+
+    .calc-card {
+      background: #fff;
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+      margin-bottom: 16px;
+    }
+
+    .service-toggle { display: flex; gap: 8px; margin-bottom: 20px; }
+    .service-btn {
+      flex: 1;
+      padding: 10px 8px;
+      border-radius: 12px;
+      border: 2px solid #e8e8e8;
+      background: #f8f8f8;
+      font-size: 14px;
+      font-weight: 600;
+      cursor: pointer;
+      transition: all 0.15s;
+      font-family: inherit;
+      color: #666;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .service-btn.active { border-color: #00b14f; background: #e8f8ee; color: #007a35; }
+
+    .field-label {
+      font-size: 12px;
+      font-weight: 600;
+      color: #666;
+      margin-bottom: 6px;
+      text-transform: uppercase;
+      letter-spacing: 0.5px;
+    }
+    .field-wrap { margin-bottom: 14px; }
+    select.zone-select {
+      width: 100%;
+      padding: 12px 14px;
+      border-radius: 12px;
+      border: 1.5px solid #e0e0e0;
+      background: #fafafa;
+      font-size: 15px;
+      font-family: inherit;
+      color: #1a1a1a;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='12' height='8' viewBox='0 0 12 8'%3E%3Cpath d='M1 1l5 5 5-5' stroke='%23999' stroke-width='1.5' fill='none' stroke-linecap='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 14px center;
+      cursor: pointer;
+      transition: border-color 0.15s;
+    }
+    select.zone-select:focus { outline: none; border-color: #00b14f; }
+
+    .swap-btn { display: flex; justify-content: center; align-items: center; margin: -4px 0; }
+    .swap-btn button {
+      width: 36px; height: 36px;
+      border-radius: 50%;
+      border: 1.5px solid #e0e0e0;
+      background: #fff;
+      font-size: 18px;
+      cursor: pointer;
+      transition: all 0.15s;
+      -webkit-tap-highlight-color: transparent;
+      line-height: 1;
+    }
+    .swap-btn button:active { transform: scale(0.9); }
+
+    .peak-toggle-wrap {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      padding: 12px 14px;
+      background: #fff8ee;
+      border-radius: 12px;
+      border: 1.5px solid #f0c87a;
+      margin-bottom: 16px;
+      cursor: pointer;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .peak-toggle-wrap input[type="checkbox"] { width: 18px; height: 18px; cursor: pointer; accent-color: #f0a500; flex-shrink: 0; }
+    .peak-toggle-label { font-size: 14px; font-weight: 600; color: #7a5500; flex: 1; }
+    .peak-toggle-sub { font-size: 11px; color: #a07030; margin-top: 1px; }
+
+    .calc-btn {
+      width: 100%;
+      padding: 14px;
+      border-radius: 14px;
+      border: none;
+      background: linear-gradient(135deg, #00b14f, #007a35);
+      color: #fff;
+      font-size: 16px;
+      font-weight: 700;
+      font-family: inherit;
+      cursor: pointer;
+      transition: opacity 0.15s, transform 0.1s;
+      -webkit-tap-highlight-color: transparent;
+    }
+    .calc-btn:active { opacity: 0.85; transform: scale(0.98); }
+
+    .result-card {
+      background: #fff;
+      border-radius: 20px;
+      padding: 20px;
+      box-shadow: 0 2px 12px rgba(0,0,0,0.08);
+      margin-bottom: 16px;
+      display: none;
+      animation: fadeUp 0.25s ease;
+    }
+    .result-card.show { display: block; }
+    @keyframes fadeUp {
+      from { opacity: 0; transform: translateY(8px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .result-route { font-size: 17px; font-weight: 800; color: #1a1a1a; margin-bottom: 4px; }
+    .result-meta { font-size: 13px; color: #888; margin-bottom: 16px; }
+
+    .fare-row {
+      display: flex;
+      align-items: flex-start;
+      gap: 10px;
+      padding: 14px;
+      border-radius: 14px;
+      margin-bottom: 10px;
+    }
+    .fare-row.normal { background: #f0f9f3; border: 1.5px solid #b8e6c8; }
+    .fare-row.peak { background: #fff8ee; border: 1.5px solid #f0c87a; }
+    .fare-icon { font-size: 22px; flex-shrink: 0; margin-top: 1px; }
+    .fare-label { font-size: 12px; color: #666; font-weight: 600; margin-bottom: 3px; }
+    .fare-amount { font-size: 18px; font-weight: 800; color: #1a1a1a; line-height: 1.2; }
+    .data-source { font-size: 12px; color: #aaa; text-align: right; margin-top: 12px; }
+
+    .zone-warning {
+      background: #fff3cd;
+      border: 1.5px solid #ffc107;
+      border-radius: 12px;
+      padding: 12px 14px;
+      margin-top: 10px;
+      font-size: 13px;
+      color: #7a5500;
+      line-height: 1.5;
+    }
+    .zone-warning + .zone-warning { margin-top: 8px; }
+
+    .notice-box {
+      background: #FEF5ED;
+      border: 1.5px solid #b8d4f0;
+      border-radius: 14px;
+      padding: 14px 16px;
+      margin-bottom: 16px;
+    }
+    .notice-box .notice-title { font-size: 13px; font-weight: 700; color: #1a4a7a; margin-bottom: 8px; }
+    .notice-box ul { list-style: none; padding: 0; }
+    .notice-box ul li {
+      font-size: 12px; color: #3a5a7a; line-height: 1.6;
+      padding-left: 14px; position: relative;
+    }
+    .notice-box ul li::before { content: '•'; position: absolute; left: 0; color: #1a6fa8; }
+
+    .map-card { background: #fff; border-radius: 20px; overflow: hidden; box-shadow: 0 2px 12px rgba(0,0,0,0.08); margin-bottom: 16px; }
+    .map-card-title { padding: 12px 16px 0; font-size: 13px; font-weight: 700; color: #555; }
+    #gojek-map { height: 280px; width: 100%; }
+    @media (min-width: 480px) { #gojek-map { height: 360px; } }
+
+    .section-title { font-size: 18px; font-weight: 800; color: #1a1a1a; margin-bottom: 12px; padding-top: 8px; }
+    .faq-item { background: #fff; border-radius: 14px; margin-bottom: 10px; overflow: hidden; box-shadow: 0 1px 4px rgba(0,0,0,0.06); }
+    .faq-q {
+      width: 100%; text-align: left; padding: 14px 16px;
+      background: none; border: none; font-size: 14px; font-weight: 700;
+      color: #1a1a1a; cursor: pointer; display: flex; align-items: center;
+      gap: 10px; font-family: inherit; -webkit-tap-highlight-color: transparent;
+    }
+    .faq-q .faq-arrow { margin-left: auto; color: #bbb; font-size: 16px; transition: transform 0.2s; }
+    .faq-q.open .faq-arrow { transform: rotate(90deg); }
+    .faq-a { display: none; padding: 0 16px 14px; font-size: 13px; color: #555; line-height: 1.7; border-top: 1px solid #f0f0f0; }
+    .faq-a.open { display: block; }
+
+    .seo-section { background: #fff; border-radius: 16px; padding: 20px; box-shadow: 0 1px 4px rgba(0,0,0,0.06); margin-bottom: 16px; }
+    .seo-section h2 { font-size: 17px; font-weight: 800; color: #5D4037; margin-bottom: 12px; }
+    .seo-section h3 { font-size: 14px; font-weight: 700; color: #5D4037; margin: 14px 0 6px; }
+    .seo-section p { font-size: 13px; color: #555; line-height: 1.8; margin-bottom: 10px; }
+    .seo-section ul { padding-left: 18px; margin-bottom: 10px; }
+    .seo-section ul li { font-size: 13px; color: #555; line-height: 1.7; margin-bottom: 4px; }
+
+    .app-links { display: flex; gap: 10px; margin-top: 12px; }
+    .app-link { flex: 1; padding: 10px 14px; background: #1a1a1a; color: #fff; border-radius: 10px; text-align: center; text-decoration: none; font-size: 13px; font-weight: 600; }
+    .app-link:hover { opacity: 0.85; }
+
+    .airport-video-card { background: #fff; border-radius: 20px; padding: 16px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); margin-bottom: 16px; animation: fadeUp 0.25s ease; }
+    .airport-video-title { font-size: 14px; font-weight: 700; color: #1a1a1a; margin-bottom: 12px; }
+    .airport-video-wrap { position: relative; width: 100%; padding-bottom: 56.25%; height: 0; border-radius: 12px; overflow: hidden; background: #000; }
+    .airport-video-wrap iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border-radius: 12px; }
+    .airport-video-tip { font-size: 13px; color: #2d7a4f; margin-top: 10px; background: #e8f8ee; border-radius: 10px; padding: 10px 12px; }
+
+    .related-links-card { background: #fff; border-radius: 20px; padding: 20px; box-shadow: 0 2px 12px rgba(0,0,0,0.08); margin-top: 16px; }
+    .related-links-title { font-size: 15px; font-weight: 800; color: #5D4037; margin-bottom: 14px; }
+
+    .tool-grid { display: grid; grid-template-columns: 1fr; gap: 0; }
+
+    @media (min-width: 900px) {
+      .page-wrap { padding: 24px 32px 60px; }
+      .hero { padding: 36px 40px 32px; margin-bottom: 24px; border-radius: 24px; }
+      .hero::before { font-size: 80px; right: 40px; }
+      .hero h1 { font-size: 32px; margin-bottom: 8px; }
+      .hero p { font-size: 15px; }
+      .tool-grid { grid-template-columns: 400px 1fr; gap: 20px; align-items: start; margin-bottom: 24px; }
+      .left-col { display: flex; flex-direction: column; gap: 16px; }
+      .left-col .calc-card, .left-col .result-card, .left-col .notice-box { margin-bottom: 0; }
+      .right-col { position: sticky; top: 16px; }
+      .right-col .map-card { margin-bottom: 0; }
+      #gojek-map { height: 500px; }
+      .below-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+      .below-grid .section-title { grid-column: 1 / -1; }
+      .calc-card { padding: 28px; }
+      .service-btn { font-size: 15px; padding: 12px 10px; }
+      select.zone-select { font-size: 16px; padding: 14px 16px; }
+      .calc-btn { font-size: 17px; padding: 16px; }
+      .section-title { font-size: 20px; margin-bottom: 16px; }
+    }
+  </style>
+</head>
+
+<body>
+  <Header lang={lang} basePath={basePath} />
+  <TopStrip lang={lang} />
+
+  <div class="page-wrap">
+
+    <div class="breadcrumb">
+      <a href="/zh-cn/blog/">首页</a><span>›</span>
+      <a href="/map/">主题地图</a><span>›</span>
+      Gojek 费用查询
+    </div>
+
+    <div class="hero">
+      <h1>巴厘岛 Gojek<br>费用查询</h1>
+      <p>GoCar / GoRide 预估车费，含禁区提醒</p>
+    </div>
+
+    <div class="tool-grid">
+    <div class="left-col">
+
+    <div class="calc-card">
+      <div class="service-toggle">
+        <button class="service-btn active" id="btn-gocar" onclick="setService('gocar')">🚗 GoCar</button>
+        <button class="service-btn" id="btn-goride" onclick="setService('goride')">🛵 GoRide</button>
+      </div>
+
+      <div class="field-wrap">
+        <div class="field-label">出发地 Origin</div>
+        <select class="zone-select" id="from-zone">
+          <option value="">— 选择出发地 —</option>
+        </select>
+      </div>
+
+      <div class="swap-btn">
+        <button onclick="swapZones()" title="交换出发地和目的地">⇅</button>
+      </div>
+
+      <div class="field-wrap" style="margin-top:8px">
+        <div class="field-label">目的地 Destination</div>
+        <select class="zone-select" id="to-zone">
+          <option value="">— 选择目的地 —</option>
+        </select>
+      </div>
+
+      <label class="peak-toggle-wrap" for="peak-toggle">
+        <input type="checkbox" id="peak-toggle" />
+        <div>
+          <div class="peak-toggle-label">⚡ 高峰时段 / 雨天</div>
+          <div class="peak-toggle-sub">早上 7–9 点、傍晚 5–7 点或雨天，费用较高</div>
+        </div>
+      </label>
+
+      <button class="calc-btn" onclick="calcFare()">查询车费</button>
+    </div>
+
+    <div class="result-card" id="result-card">
+      <div class="result-route" id="result-route"></div>
+      <div class="result-meta" id="result-meta"></div>
+
+      <div class="fare-row normal" id="fare-normal">
+        <div class="fare-icon">💰</div>
+        <div>
+          <div class="fare-label" id="fare-normal-label">一般时段</div>
+          <div class="fare-amount" id="fare-normal-amount"></div>
+        </div>
+      </div>
+
+      <div class="fare-row peak" id="fare-peak" style="display:none">
+        <div class="fare-icon">⚡</div>
+        <div>
+          <div class="fare-label">高峰加成</div>
+          <div class="fare-amount" id="fare-peak-amount"></div>
+        </div>
+      </div>
+
+      <div id="zone-warnings"></div>
+      <div class="data-source" id="data-source"></div>
+    </div>
+
+    <div id="airport-video-card" class="airport-video-card" style="display:none">
+      <div class="airport-video-title">📍 机场如何叫 Gojek？看这个视频</div>
+      <div class="airport-video-wrap">
+        <iframe
+          src="https://www.youtube.com/embed/GyKb6DqdTcI"
+          title="巴厘岛机场叫 Gojek 教学"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+          loading="lazy"
+        ></iframe>
+      </div>
+      <div class="airport-video-tip">✅ 机场设有 <strong>Gojek Customer Lounge</strong>，步行前往后即可在 App 叫车</div>
+    </div>
+
+    <div class="notice-box">
+      <div class="notice-title">📌 重要提示</div>
+      <ul>
+        <li>以上为参考价，实际费用以 Gojek App 即时报价为准</li>
+        <li>高峰时段和雨天有 1.2–1.5 倍动态加成</li>
+        <li>部分区域（乌布、乌鲁瓦图）有 No-Gojek Zone，需走到指定接驳点</li>
+        <li>距离超过 30 公里或超过 1 小时路线，建议改用包车（一日约 USD $40–60）</li>
+      </ul>
+    </div>
+
+    </div><!-- /.left-col -->
+
+    <div class="right-col">
+    <div class="map-card">
+      <div class="map-card-title">📍 路线地图</div>
+      <div id="gojek-map"></div>
+    </div>
+    </div><!-- /.right-col -->
+    </div><!-- /.tool-grid -->
+
+    <div class="below-grid">
+
+    <div class="section-title">常见问题 FAQ</div>
+
+    <div class="faq-item">
+      <button class="faq-q" onclick="toggleFaq(this)">
+        <span>🔰</span> 外国人可以用 Gojek 吗？
+        <span class="faq-arrow">›</span>
+      </button>
+      <div class="faq-a">
+        可以！Gojek 支持外国手机号码注册。下载 App 后，输入手机号码收取 OTP 验证码即可完成注册。付款支持现金（最推荐）、信用卡（Visa / Mastercard）及 GoPay 电子钱包。
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-q" onclick="toggleFaq(this)">
+        <span>💳</span> 可以用信用卡吗？
+        <span class="faq-arrow">›</span>
+      </button>
+      <div class="faq-a">
+        可以使用 Visa 或 Mastercard 信用卡。建议同时准备现金（印尼盾），因为部分司机偏好现金付款，且现金不需手续费。
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-q" onclick="toggleFaq(this)">
+        <span>✈️</span> 机场怎么叫 Gojek？
+        <span class="faq-arrow">›</span>
+      </button>
+      <div class="faq-a">
+        巴厘岛机场设有专属的 <strong>Gojek Customer Lounge</strong>，在入境大厅出来后步行前往即可在 App 叫车，完全合法。建议出发前先在 App 设好目的地。详细位置请看上方教学视频（选机场为出发地后显示）。
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-q" onclick="toggleFaq(this)">
+        <span>🚫</span> 什么是 No-Gojek Zone？
+        <span class="faq-arrow">›</span>
+      </button>
+      <div class="faq-a">
+        No-Gojek Zone 是由当地出租车工会设立的禁止网约车区域。主要禁区包括：乌布市中心、乌鲁瓦图寺庙周边、Tanah Lot 入口、Padang Bai 码头。注意：<strong>巴厘岛机场并非禁区</strong>，设有专属 Gojek Customer Lounge。
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-q" onclick="toggleFaq(this)">
+        <span>🆚</span> Gojek 和 Grab 哪个更便宜？
+        <span class="faq-arrow">›</span>
+      </button>
+      <div class="faq-a">
+        两者价格相近，建议同时打开两个 App 比较当下报价再叫车。一般来说，Gojek 在巴厘岛的司机数量较多，等待时间较短，高峰时段加成也略低于 Grab。
+      </div>
+    </div>
+
+    <div class="faq-item">
+      <button class="faq-q" onclick="toggleFaq(this)">
+        <span>📱</span> 在哪里下载 Gojek？
+        <span class="faq-arrow">›</span>
+      </button>
+      <div class="faq-a">
+        可在 iOS App Store 或 Google Play 搜索「Gojek」下载。建议<strong>出发前</strong>先完成下载和手机号码验证。
+        <div class="app-links">
+          <a href="https://apps.apple.com/app/gojek/id944875099" class="app-link" target="_blank" rel="noopener">📱 iOS 下载</a>
+          <a href="https://play.google.com/store/apps/details?id=com.gojek.app" class="app-link" target="_blank" rel="noopener">🤖 Android 下载</a>
+        </div>
+      </div>
+    </div>
+
+    <div class="seo-section">
+      <h2>什么是 Gojek？</h2>
+      <p>Gojek 是印尼最大的网约车平台，类似滴滴出行，提供 GoCar（轿车）和 GoRide（摩托车）两种叫车服务。相比 Grab，Gojek 在巴厘岛有更多本地司机，通常等车时间较短，高峰时段加成也略低。</p>
+      <p>Gojek 采用 App 内透明计费，出发前可以看到预估费用，不会有出租车常见的漫天要价问题。支持现金、信用卡和 GoPay 电子钱包付款。</p>
+      <h3>GoCar vs GoRide 怎么选？</h3>
+      <ul>
+        <li><strong>GoCar（轿车）</strong>：适合行李多、需要空调、不习惯摩托车的游客。费用约为 GoRide 的 2–3 倍。</li>
+        <li><strong>GoRide（摩托车）</strong>：移动快速、容易穿越堵车路段，费用最低。需要戴安全帽。</li>
+      </ul>
+      <h3>GoRide 安全吗？</h3>
+      <p>Gojek 司机都有保险，但巴厘岛交通较复杂，建议对摩托车乘坐不熟悉的游客优先选择 GoCar，特别是夜间行程或长途路线。</p>
+    </div>
+
+    <div class="seo-section">
+      <h2>🚫 No-Gojek Zone 禁区完整指南</h2>
+      <p>No-Gojek Zone 是在巴厘岛部分热门景区设立的网约车禁制区，由当地出租车工会推动。在禁区内叫车可能导致司机被罚款或乘客遭到骚扰。</p>
+      <h3>主要禁区说明</h3>
+      <ul>
+        <li><strong>乌布市中心</strong>：Jalan Monkey Forest、Ubud Palace 周边为禁区。建议走到 Jalan Raya Ubud 主干道外围叫车。</li>
+        <li><strong>乌鲁瓦图</strong>：Single Fin、Uluwatu Temple 周边。建议用住宿安排的接驳或包车。</li>
+        <li><strong>Tanah Lot（海神庙）</strong>：入口处禁止下车，叫车也需走到主要大路再上车。</li>
+        <li><strong>Padang Bai 码头</strong>：由当地出租车工会管控，Gojek 几乎无法在码头附近接客。</li>
+        <li><strong>Canggu / Sanur 部分区域</strong>：Batu Bolong 主街、Echo Beach 等热门点周边有非正式禁区。</li>
+      </ul>
+    </div>
+
+    </div><!-- /.below-grid -->
+
+    <div class="related-links-card">
+      <div class="related-links-title">📖 延伸阅读</div>
+      <div id="related-links-list"></div>
+    </div>
+
+  </div><!-- /.page-wrap -->
+
+  <Footer />
+
+  <script is:inline define:vars={{ zonesJson, faresJson }}>
+    const zones = JSON.parse(zonesJson);
+    const faresData = JSON.parse(faresJson);
+
+    let currentService = 'gocar';
+    let leafletMap = null;
+    let fromMarker = null;
+    let toMarker = null;
+    let routeLine = null;
+
+    function buildSelects() {
+      const fromEl = document.getElementById('from-zone');
+      const toEl = document.getElementById('to-zone');
+      zones.forEach(z => {
+        fromEl.add(new Option(z.name_zh, z.id));
+        toEl.add(new Option(z.name_zh, z.id));
+      });
+    }
+
+    window.setService = function setService(svc) {
+      currentService = svc;
+      document.getElementById('btn-gocar').classList.toggle('active', svc === 'gocar');
+      document.getElementById('btn-goride').classList.toggle('active', svc === 'goride');
+    }
+
+    window.swapZones = function swapZones() {
+      const fromEl = document.getElementById('from-zone');
+      const toEl = document.getElementById('to-zone');
+      const tmp = fromEl.value;
+      fromEl.value = toEl.value;
+      toEl.value = tmp;
+    }
+
+    function haversine(lat1, lng1, lat2, lng2) {
+      const R = 6371;
+      const dLat = (lat2 - lat1) * Math.PI / 180;
+      const dLng = (lng2 - lng1) * Math.PI / 180;
+      const a = Math.sin(dLat/2)**2 + Math.cos(lat1*Math.PI/180) * Math.cos(lat2*Math.PI/180) * Math.sin(dLng/2)**2;
+      return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1-a));
+    }
+
+    function findRoute(fromId, toId) {
+      return faresData.routes.find(r =>
+        (r.from === fromId && r.to === toId) ||
+        (r.from === toId && r.to === fromId)
+      );
+    }
+
+    function formatRp(n) {
+      return 'Rp ' + n.toLocaleString('id-ID');
+    }
+
+    function getZoneWarning(zoneId) {
+      const warnings = {
+        airport: '📍 巴厘岛机场设有 Gojek Customer Lounge，步行前往后即可在 App 叫车，详见上方教学视频。',
+        ubud: '⚠️ 乌布市中心是 No-Gojek Zone。需要走到 Jalan Raya Ubud 外围才能叫车，或请住宿代叫当地出租车。',
+        uluwatu: '⚠️ Uluwatu 是 No-Gojek Zone，特别是 Single Fin 周边。建议用住宿安排的接驳或包车。',
+        tanah_lot: '⚠️ 海神庙入口处禁止 Gojek 下车，需走到主要大路外围再叫车。',
+        padang_bai: '⚠️ Padang Bai 码头是 No-Gojek Zone，由当地出租车工会管控，建议改用当地出租车。',
+        canggu: '⚠️ Canggu 部分热门区域（如 Echo Beach、Batu Bolong 主街）有非正式 Gojek 限制，建议走出主要景点再叫车。',
+        sanur: '⚠️ Sanur 海边部分区域是 No-Gojek Zone，建议走到 Jalan Danau Tamblingan 主干道再叫车。',
+      };
+      return warnings[zoneId] || null;
+    }
+
+    window.calcFare = function calcFare() {
+      const fromId = document.getElementById('from-zone').value;
+      const toId = document.getElementById('to-zone').value;
+      const isPeak = document.getElementById('peak-toggle').checked;
+
+      if (!fromId || !toId) { alert('请选择出发地和目的地'); return; }
+      if (fromId === toId) { alert('请选择不同的出发地和目的地'); return; }
+
+      const fromZone = zones.find(z => z.id === fromId);
+      const toZone = zones.find(z => z.id === toId);
+      const route = findRoute(fromId, toId);
+
+      let normalMin, normalMax, dataSourceText, durationText;
+
+      if (route) {
+        if (currentService === 'gocar') {
+          normalMin = route.gocar_min; normalMax = route.gocar_max;
+        } else {
+          normalMin = route.goride_min; normalMax = route.goride_max;
+        }
+        dataSourceText = '📍 数据来源：✅ 实测费用（仅供参考，以 App 报价为准）';
+        durationText = `约 ${route.duration_min}–${route.duration_max} 分钟`;
+      } else {
+        const dist = haversine(fromZone.lat, fromZone.lng, toZone.lat, toZone.lng) * 1.4;
+        if (currentService === 'gocar') {
+          normalMin = Math.max(25000, Math.round(dist * 4200 / 1000) * 1000);
+          normalMax = Math.max(25000, Math.round(dist * 7200 / 1000) * 1000);
+        } else {
+          normalMin = Math.max(10000, Math.round(dist * 1800 / 1000) * 1000);
+          normalMax = Math.max(10000, Math.round(dist * 3000 / 1000) * 1000);
+        }
+        const estMin = Math.round(dist / 35 * 60);
+        const estMax = Math.round(dist / 20 * 60);
+        durationText = `约 ${estMin}–${estMax} 分钟（${dist.toFixed(1)} 公里）`;
+        dataSourceText = '📐 公式估算，仅供参考——此路线暂无实测数据';
+      }
+
+      const peakMin = Math.round(normalMax * 1.2 / 1000) * 1000;
+      const peakMax = Math.round(normalMax * 1.5 / 1000) * 1000;
+
+      document.getElementById('result-route').textContent = `${fromZone.name_zh} → ${toZone.name_zh}`;
+      document.getElementById('result-meta').textContent = `${currentService === 'gocar' ? '🚗 GoCar' : '🛵 GoRide'} · ${durationText}`;
+      document.getElementById('fare-normal-label').textContent = isPeak ? '一般时段（供比较）' : '预估费用';
+      document.getElementById('fare-normal-amount').textContent = `${formatRp(normalMin)} – ${formatRp(normalMax)}`;
+
+      const peakEl = document.getElementById('fare-peak');
+      if (isPeak) {
+        peakEl.style.display = 'flex';
+        document.getElementById('fare-peak-amount').textContent = `${formatRp(peakMin)} – ${formatRp(peakMax)}`;
+      } else {
+        peakEl.style.display = 'none';
+      }
+
+      document.getElementById('data-source').textContent = dataSourceText;
+
+      const warnEl = document.getElementById('zone-warnings');
+      warnEl.innerHTML = '';
+      new Set([fromId, toId]).forEach(id => {
+        const zone = zones.find(z => z.id === id);
+        if (zone && zone.no_gojek_zone) {
+          const w = getZoneWarning(id);
+          if (w) {
+            const div = document.createElement('div');
+            div.className = 'zone-warning';
+            div.textContent = w;
+            warnEl.appendChild(div);
+          }
+        }
+      });
+
+      document.getElementById('airport-video-card').style.display = fromId === 'airport' ? 'block' : 'none';
+      document.getElementById('result-card').classList.add('show');
+      updateMap(fromZone, toZone);
+      document.getElementById('result-card').scrollIntoView({ behavior: 'smooth', block: 'nearest' });
+    }
+
+    function initMap() {
+      if (leafletMap) return;
+      const container = document.getElementById('gojek-map');
+      if (!container) return;
+
+      function createMap() {
+        if (leafletMap) return;
+        leafletMap = L.map(container, { zoomControl: true, scrollWheelZoom: false }).setView([-8.65, 115.18], 10);
+        L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+          attribution: '© <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
+          maxZoom: 18,
+        }).addTo(leafletMap);
+        setTimeout(function() { leafletMap.invalidateSize(); }, 200);
+      }
+
+      if (typeof L !== 'undefined') { createMap(); return; }
+
+      const link = document.createElement('link');
+      link.rel = 'stylesheet';
+      link.href = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.css';
+      document.head.appendChild(link);
+
+      const script = document.createElement('script');
+      script.src = 'https://unpkg.com/leaflet@1.9.4/dist/leaflet.js';
+      script.onload = createMap;
+      document.head.appendChild(script);
+    }
+
+    function updateMap(fromZone, toZone) {
+      initMap();
+      const greenIcon = L.divIcon({ className: '', html: '<div style="width:14px;height:14px;background:#00b14f;border:2px solid #fff;border-radius:50%;box-shadow:0 1px 4px rgba(0,0,0,0.4)"></div>', iconSize: [14,14], iconAnchor: [7,7] });
+      const redIcon = L.divIcon({ className: '', html: '<div style="width:14px;height:14px;background:#e53935;border:2px solid #fff;border-radius:50%;box-shadow:0 1px 4px rgba(0,0,0,0.4)"></div>', iconSize: [14,14], iconAnchor: [7,7] });
+
+      if (fromMarker) leafletMap.removeLayer(fromMarker);
+      if (toMarker) leafletMap.removeLayer(toMarker);
+      if (routeLine) leafletMap.removeLayer(routeLine);
+
+      fromMarker = L.marker([fromZone.lat, fromZone.lng], { icon: greenIcon }).addTo(leafletMap).bindPopup(`<b>${fromZone.name_zh}</b><br>出发地`);
+      toMarker = L.marker([toZone.lat, toZone.lng], { icon: redIcon }).addTo(leafletMap).bindPopup(`<b>${toZone.name_zh}</b><br>目的地`);
+      routeLine = L.polyline([[fromZone.lat, fromZone.lng], [toZone.lat, toZone.lng]], {
+        color: '#00b14f', weight: 2.5, dashArray: '6, 8', opacity: 0.8
+      }).addTo(leafletMap);
+      leafletMap.fitBounds([[fromZone.lat, fromZone.lng], [toZone.lat, toZone.lng]], { padding: [40, 40] });
+    }
+
+    window.toggleFaq = function toggleFaq(btn) {
+      const ans = btn.nextElementSibling;
+      const isOpen = ans.classList.contains('open');
+      document.querySelectorAll('.faq-a').forEach(el => el.classList.remove('open'));
+      document.querySelectorAll('.faq-q').forEach(el => el.classList.remove('open'));
+      if (!isOpen) { ans.classList.add('open'); btn.classList.add('open'); }
+    }
+
+    const relatedLinks = [
+      { text: '巴厘岛包车须知 - 费用、预订方式、优势分析', href: '/blog/bali-private-car-hire-guide/' },
+      { text: '【巴厘岛包车司机推荐】看网友真实点评找到适合你的好司机', href: '/blog/bali-private-car-drivers-guide/' },
+      { text: '抵达巴厘岛：接机的交通选择及第一天的实用建议', href: '/blog/bali-airport-transfer-guide/' },
+      { text: '巴厘岛租摩托车攻略！应该租摩托车好，还是包车好？', href: '/blog/bali-motorbike-rental-guide/' },
+      { text: '什么时候包车？什么场合叫车？包车 vs 叫车：如何选择？', href: '/blog/bali-transportation-guide-car-rental/' },
+      { text: '在印尼/巴厘岛旅行，一定要下载的APP：Gojek全攻略', href: '/blog/gojek-bali-guide/' },
+      { text: '印尼/巴厘岛的Gojek与GoPay注册、使用、充值教学全面指南', href: '/blog/indonesia-gojek-gopay-guide/' },
+      { text: '巴厘岛APP网约车司机的套路：如何避免Grab/Gojek陷阱？', href: '/blog/bali-grab-gojek-scam-tips/' },
+      { text: 'Nusa Penida 佩尼达岛交通攻略', href: '/blog/nusa-penida-transport-guide/' },
+      { text: '【印尼/巴厘岛必备APP】Gojek / Grab 叫车图文教学', href: '/blog/2026-03-18-bali-gojek-grab-guide/' },
+    ];
+    const shuffled = relatedLinks.sort(() => Math.random() - 0.5).slice(0, 8);
+    const listEl = document.getElementById('related-links-list');
+    if (listEl) {
+      const s = 'display:block;padding:12px 16px;margin-bottom:8px;background:linear-gradient(135deg,#FEF5ED,#fff);border:1.5px solid #c0d8f0;border-left:4px solid #1a6fa8;border-radius:10px;text-decoration:none;color:#1a4a7a;font-size:14px;font-weight:600;line-height:1.4;';
+      listEl.innerHTML = shuffled.map(l => `<a style="${s}" href="${l.href}">${l.text}</a>`).join('');
+    }
+
+    buildSelects();
+    initMap();
+  </script>
+</body>
+</html>
