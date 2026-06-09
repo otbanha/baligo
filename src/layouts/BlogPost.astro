@@ -21,8 +21,8 @@ type Driver = {
   facebookRefs: number;
 };
 
-type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[]; lang?: string; slug?: string; isDriverGuide?: boolean; drivers?: Driver[]; isSpaGuide?: boolean };
-const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate, shuffle_h2: shuffleH2, isDriverGuide = false, drivers = [], isSpaGuide = false } = Astro.props;
+type Props = CollectionEntry<'blog'>['data'] & { body?: string; headings?: { depth: number; slug: string; text: string }[]; lang?: string; slug?: string; isDriverGuide?: boolean; drivers?: Driver[]; isSpaGuide?: boolean; line_qr_guide?: boolean };
+const { title, description, pubDate, updatedDate, heroImage, category, embeds, embedMap = {}, body = '', headings = [], lang, slug, private: isPrivate, shuffle_h2: shuffleH2, isDriverGuide = false, drivers = [], isSpaGuide = false, line_qr_guide: lineQrGuide = false } = Astro.props;
 
 const tocHeadings = headings.filter(h => h.depth === 1 || h.depth === 2 || h.depth === 3);
 const showToc = tocHeadings.length >= 2;
@@ -436,7 +436,7 @@ const spaFaqSchema = isSpaGuide ? {
           <!-- D.2-1: hero 位置 — 目錄下方、內文前 -->
           {slug && <RelatedMapCard blogUrl={`https://gobaligo.id/blog/${slug}/`} position="hero" lang={lang} />}
 
-          <div id="article-body" data-shuffle={shuffleH2 ? 'true' : 'false'}>
+          <div id="article-body" data-shuffle={shuffleH2 ? 'true' : 'false'} data-qr-guide={lineQrGuide ? 'true' : undefined}>
             <slot />
           </div>
 
@@ -1001,6 +1001,137 @@ window.addEventListener('load', () => {
       body: JSON.stringify({ slug }),
       keepalive: true,
     }).catch(() => {});
+  })();
+</script>
+
+<script>
+  // ── LINE QR 下載指南（line_qr_guide: true 的文章才啟用）──────────────
+  (function () {
+    const articleBody = document.getElementById('article-body');
+    if (!articleBody || articleBody.dataset.qrGuide !== 'true') return;
+
+    // ── 1. FB in-app browser 提示條 ──────────────────────────────────────
+    (function injectFbBanner() {
+      if (sessionStorage.getItem('fb-ib-dismissed')) return;
+      if (!/FBAV|FBAN/i.test(navigator.userAgent)) return;
+      const bar = document.createElement('div');
+      bar.id = 'fb-ib-bar';
+      bar.innerHTML =
+        '<span>⚠️ 建議點右上 <b>⋯</b> → <b>用外部瀏覽器開啟</b>，存圖更順</span>' +
+        '<button id="fb-ib-close" aria-label="關閉">✕</button>';
+      document.body.insertBefore(bar, document.body.firstChild);
+      document.getElementById('fb-ib-close')!.addEventListener('click', () => {
+        bar.remove();
+        sessionStorage.setItem('fb-ib-dismissed', '1');
+      });
+    })();
+
+    // ── 2. 摺疊教學區塊（插在文章第一個 blockquote 之後）────────────────
+    const firstBq = articleBody.querySelector('blockquote');
+    if (firstBq && !articleBody.querySelector('.qr-tutorial')) {
+      const details = document.createElement('details');
+      details.className = 'qr-tutorial';
+      details.innerHTML =
+        '<summary>📱 手機如何加入司機 LINE（無法掃自己螢幕？這樣做）</summary>' +
+        '<ol>' +
+        '<li>點各司機下方「<strong>⬇️ 儲存 QR 圖到相簿</strong>」按鈕，或長按圖片選「儲存至相片」</li>' +
+        '<li>開 <strong>LINE</strong> → 右上「＋加朋友」→ <strong>行動條碼</strong></li>' +
+        '<li>掃描器右下點 <strong>相簿圖示</strong> → 選剛才存的 QR 圖 → 完成！</li>' +
+        '</ol>' +
+        '<p class="qr-tutorial-tip">💡 截圖整頁也可以，LINE 相簿掃描器能直接辨識畫面中的 QR Code。</p>';
+      firstBq.insertAdjacentElement('afterend', details);
+    }
+
+    // ── 3. 每張圖片加「儲存 QR 圖」按鈕 ────────────────────────────────
+    // 等圖片被 wrapImg 處理完（在同一個 microtask 結束後）
+    requestAnimationFrame(() => {
+      const prose = articleBody.querySelector<HTMLElement>('.prose');
+      if (!prose) return;
+
+      // 只處理非 carousel 的單圖：p > div.img-wrap > img
+      prose.querySelectorAll<HTMLImageElement>('p > div.img-wrap > img').forEach(img => {
+        const para = img.closest('p')!;
+        if (para.querySelector('.qr-dl-btn')) return; // 已處理過
+
+        // 找最近的前一個 h2，取司機名
+        let driverName = '';
+        let sib: Element | null = para.previousElementSibling;
+        while (sib) {
+          if (sib.tagName === 'H2') { driverName = sib.textContent?.trim() ?? ''; break; }
+          sib = sib.previousElementSibling;
+        }
+        // 清理特殊字元，保留中文與英文
+        const safeName = driverName
+          .replace(/[（）()【】《》「」*_]/g, '')
+          .trim()
+          .replace(/\s+/g, '-') || 'driver';
+
+        const btn = document.createElement('button');
+        btn.className = 'qr-dl-btn';
+        btn.textContent = '⬇️ 儲存 QR 圖到相簿';
+        btn.dataset.src = img.src;
+        btn.dataset.name = safeName;
+
+        const toast = document.createElement('span');
+        toast.className = 'qr-dl-toast';
+
+        para.insertAdjacentElement('afterend', toast);
+        para.insertAdjacentElement('afterend', btn);
+
+        btn.addEventListener('click', async () => {
+          btn.disabled = true;
+          btn.textContent = '處理中⋯';
+          const src = btn.dataset.src!;
+          const name = btn.dataset.name!;
+
+          function showToast(msg: string, ok: boolean) {
+            toast.textContent = msg;
+            toast.style.color = ok ? '#2e7d32' : '#c0392b';
+            toast.style.opacity = '1';
+            clearTimeout((toast as any)._t);
+            (toast as any)._t = setTimeout(() => { toast.style.opacity = '0'; }, 3500);
+          }
+
+          try {
+            const res = await fetch(src, { mode: 'cors' });
+            if (!res.ok) throw new Error('fetch-fail');
+            const blob = await res.blob();
+            const ext = blob.type.includes('jpeg') ? 'jpg' : 'png';
+            const fileName = `${name}-line-qr.${ext}`;
+
+            // iOS：Web Share API（分享表 → 儲存影像）
+            if (typeof navigator.canShare === 'function') {
+              const file = new File([blob], fileName, { type: blob.type });
+              if (navigator.canShare({ files: [file] })) {
+                try {
+                  await navigator.share({ files: [file], title: 'LINE QR Code' });
+                  showToast('✅ 請在分享選單點「儲存影像」', true);
+                } catch (e: any) {
+                  if (e.name !== 'AbortError') throw e;
+                }
+                return;
+              }
+            }
+
+            // Android / Desktop：a[download]
+            const url = URL.createObjectURL(blob);
+            const a = document.createElement('a');
+            a.href = url; a.download = fileName;
+            document.body.appendChild(a); a.click();
+            setTimeout(() => { URL.revokeObjectURL(url); a.remove(); }, 1500);
+            showToast('✅ 已開始下載', true);
+
+          } catch {
+            // CORS 失敗備援：新分頁開啟讓用戶長按存圖
+            window.open(src, '_blank');
+            showToast('請長按圖片 → 儲存至相片', false);
+          } finally {
+            btn.disabled = false;
+            btn.textContent = '⬇️ 儲存 QR 圖到相簿';
+          }
+        });
+      });
+    });
   })();
 </script>
 
@@ -1774,6 +1905,98 @@ hr { margin: 1.2em 0 1.8em; }
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
   }
+}
+
+/* ── LINE QR 指南 UI ────────────────────────────────────────────────── */
+:global(#fb-ib-bar) {
+  position: fixed;
+  top: 0; left: 0; right: 0;
+  z-index: 99999;
+  background: #1877f2;
+  color: #fff;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.5em;
+  padding: 0.6em 1em;
+  font-size: 0.88em;
+  font-weight: 600;
+  box-shadow: 0 2px 8px rgba(0,0,0,0.25);
+  line-height: 1.4;
+}
+:global(#fb-ib-close) {
+  background: none;
+  border: none;
+  color: #fff;
+  font-size: 1.1em;
+  cursor: pointer;
+  padding: 0 0 0 0.8em;
+  flex-shrink: 0;
+  line-height: 1;
+}
+
+:global(.qr-tutorial) {
+  background: #fef5ed;
+  border: 1px solid rgba(197,160,89,0.4);
+  border-left: 4px solid var(--gold, #c9a84c);
+  border-radius: 10px;
+  padding: 0.75em 1.1em;
+  margin: 0.8em 0 1.4em;
+  font-size: 0.9em;
+  color: var(--text, #333);
+}
+:global(.qr-tutorial summary) {
+  cursor: pointer;
+  font-weight: 700;
+  color: var(--ocean, #5D4037);
+  line-height: 1.5;
+  list-style: none;
+}
+:global(.qr-tutorial summary::-webkit-details-marker) { display: none; }
+:global(.qr-tutorial summary::before) {
+  content: '▶ ';
+  font-size: 0.7em;
+  vertical-align: middle;
+  margin-right: 0.2em;
+}
+:global(.qr-tutorial[open] summary::before) { content: '▼ '; }
+:global(.qr-tutorial ol) {
+  margin: 0.7em 0 0;
+  padding-left: 1.4em;
+  line-height: 1.95;
+}
+:global(.qr-tutorial-tip) {
+  margin: 0.5em 0 0;
+  font-size: 0.84em;
+  color: #7b5038;
+}
+
+:global(.qr-dl-btn) {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.3em;
+  margin: 0.45em 0 0.2em;
+  padding: 0.48em 1.15em;
+  background: #1877f2;
+  color: #fff;
+  border: none;
+  border-radius: 8px;
+  font-size: 0.88em;
+  font-weight: 700;
+  cursor: pointer;
+  transition: opacity 0.15s;
+  font-family: inherit;
+}
+:global(.qr-dl-btn:hover) { opacity: 0.85; }
+:global(.qr-dl-btn:disabled) { opacity: 0.5; cursor: not-allowed; }
+
+:global(.qr-dl-toast) {
+  display: block;
+  font-size: 0.8em;
+  min-height: 1em;
+  margin-bottom: 0.3em;
+  opacity: 0;
+  transition: opacity 0.3s;
 }
 </style>
 

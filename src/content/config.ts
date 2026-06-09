@@ -28,6 +28,7 @@ const blog = defineCollection({
     latitude: z.number().optional(),
     longitude: z.number().optional(),
     isDriverGuide: z.boolean().optional(),
+    line_qr_guide: z.boolean().optional(),
     drivers: z.array(z.object({
       name: z.string(),
       category: z.string(),
