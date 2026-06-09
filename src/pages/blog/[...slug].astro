@@ -28,13 +28,15 @@ export async function getStaticPaths() {
 
   for (const post of posts) {
     const newSlug = post.data.slug || post.id;
+    // 已知的實際檔名（不含副檔名）
+    const fileName = fileNameMap.get(newSlug) || newSlug;
     // 新 slug 路由（主要）
-    allPaths.push({ params: { slug: newSlug }, props: post });
+    allPaths.push({ params: { slug: newSlug }, props: { entry: post, fileName } });
 
     // 查找舊檔案名（可能與新 slug 不同）
     const oldFileId = fileNameMap.get(newSlug);
     if (oldFileId && oldFileId !== newSlug) {
-      allPaths.push({ params: { slug: oldFileId }, props: post });
+      allPaths.push({ params: { slug: oldFileId }, props: { entry: post, fileName } });
       compatCount++;
     }
   }
@@ -43,26 +45,25 @@ export async function getStaticPaths() {
 
   return allPaths;
 }
-type Props = CollectionEntry<'blog'>;
+type Props = { entry: CollectionEntry<'blog'>; fileName: string };
 
-const post = Astro.props;
+const { entry: post, fileName: postFileName } = Astro.props;
 const { Content, headings } = await render(post);
 
-// 直接讀取 markdown 檔案取得 embeds
+// 使用 getStaticPaths 傳入的 fileName 直接找到正確的 .md/.mdx 檔案
 const blogDir = join(process.cwd(), 'src/content/blog');
-const files = readdirSync(blogDir);
-const matchFile = files.find(f => {
-  const base = f.replace(/\.mdx?$/, '');
-  return base === post.id || base.replace(/[【】「」『』]/g, '') === post.id;
-});
-const mdPath = join(blogDir, matchFile || post.id + '.md');
+const allBlogFiles = readdirSync(blogDir);
+const matchFile = allBlogFiles.find(f => f.replace(/\.mdx?$/, '') === postFileName);
+const mdPath = join(blogDir, matchFile || postFileName + '.md');
 
 let rawEmbeds: any[] = [];
 let firstImage: string = post.data.heroImage || '';
+let rawLineQrGuide = false;
 try {
   const raw = readFileSync(mdPath, 'utf-8');
   const { data, content } = matter(raw);
   rawEmbeds = data.embeds || [];
+  rawLineQrGuide = data.line_qr_guide === true;
   if (!firstImage) {
     const imgMatch = content.match(/!\[.*?\]\((https?:\/\/[^)]+)\)/);
     if (imgMatch) firstImage = imgMatch[1];
@@ -75,6 +76,6 @@ rawEmbeds.forEach((e: any) => {
 });
 ---
 
-<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="zh-tw" slug={post.id}>
+<BlogPost {...post.data} heroImage={firstImage} embedMap={embedMap} body={post.body} headings={headings} lang="zh-tw" slug={post.id} line_qr_guide={rawLineQrGuide}>
   <Content />
 </BlogPost>
