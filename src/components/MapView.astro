@@ -556,7 +556,15 @@ const { area } = Astro.props;
 
     function formatDesc(raw) {
       if (!raw) return '';
-      const withLinks = raw
+      // Drop table rows where every <td> (value cell) is empty —
+      // Google My Maps KML artefact: 名称：, 说明：, etc. with no value
+      let html = raw.replace(/<tr\b[^>]*>[\s\S]*?<\/tr>/gi, row => {
+        const tdContents = (row.match(/<td[^>]*>([\s\S]*?)<\/td>/gi) || [])
+          .map(td => td.replace(/<[^>]*>/g, '').replace(/&nbsp;/g, '').trim());
+        if (tdContents.length > 0 && tdContents.every(c => c === '')) return '';
+        return row;
+      });
+      const withLinks = html
         .replace(/<a\s+href="([^"]+)"[^>]*>(.*?)<\/a>/gi, '§§§$1§§§$2§§§')
         .replace(/<[^>]*>/g, '')
         .replace(/§§§([^§]+)§§§([^§]*)§§§/g, (_, href, text) =>
