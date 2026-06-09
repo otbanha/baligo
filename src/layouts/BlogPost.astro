@@ -1043,13 +1043,11 @@ window.addEventListener('load', () => {
     }
 
     // ── 3. 每張圖片加「儲存 QR 圖」按鈕 ────────────────────────────────
-    // 等圖片被 wrapImg 處理完（在同一個 microtask 結束後）
+    // .prose 是 #article-body 的外層 parent，直接用 articleBody 搜尋即可
+    // requestAnimationFrame 確保 wrapImg IIFE 已執行完畢
     requestAnimationFrame(() => {
-      const prose = articleBody.querySelector<HTMLElement>('.prose');
-      if (!prose) return;
-
       // 只處理非 carousel 的單圖：p > div.img-wrap > img
-      prose.querySelectorAll<HTMLImageElement>('p > div.img-wrap > img').forEach(img => {
+      articleBody.querySelectorAll<HTMLImageElement>('p > div.img-wrap > img').forEach(img => {
         const para = img.closest('p')!;
         if (para.querySelector('.qr-dl-btn')) return; // 已處理過
 
