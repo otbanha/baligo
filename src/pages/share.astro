@@ -922,6 +922,19 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         `,
       };
 
+      /** 從 Threads URL 抽出 post code，組官方 embed 所需的 id="ig-tp-{code}" */
+      function threadsPostCode(url) {
+        const m = (url || '').match(/threads\.(?:net|com)\/(?:@[\w.]+\/post|t)\/([\w-]+)/);
+        return m ? m[1] : null;
+      }
+
+      /** 官方 Threads embed blockquote（需 data-text-post-version + id 才會被 embed.js 處理）*/
+      function threadsBlockquoteHtml(permalink) {
+        const code = threadsPostCode(permalink);
+        const idAttr = code ? ` id="ig-tp-${esc(code)}"` : '';
+        return `<blockquote class="text-post-media" data-text-post-permalink="${esc(permalink)}" data-text-post-version="0"${idAttr}><a href="${esc(permalink)}" target="_blank" rel="noopener">查看 Threads 貼文</a></blockquote>`;
+      }
+
       // ── Escape HTML ──
       function esc(str) {
         if (!str) return '';
@@ -1032,7 +1045,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           mediaHtml = `
             <div class="iframe-container" data-ratio="${ratio}">
               <div class="embed-iframe-sk embed-iframe-sk-threads"></div>
-              <blockquote class="text-post-media" data-text-post-permalink="${esc(embed.url)}"><a href="${esc(embed.url)}" target="_blank" rel="noopener">查看 Threads 貼文</a></blockquote>
+              ${threadsBlockquoteHtml(embed.url)}
             </div>`;
         } else if (embed.iframeUrl) {
           // Instagram / Facebook：官方公開 iframe，無需 token
@@ -1292,7 +1305,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           return `
             <div class="iframe-container" data-ratio="${ratio}" data-platform="threads">
               <div class="embed-iframe-sk embed-iframe-sk-threads"></div>
-              <blockquote class="text-post-media" data-text-post-permalink="${esc(permalink)}"><a href="${esc(permalink)}" target="_blank" rel="noopener">查看 Threads 貼文</a></blockquote>
+              ${threadsBlockquoteHtml(permalink)}
               ${fadeHtml}
             </div>`;
         }
