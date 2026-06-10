@@ -496,24 +496,45 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         .top-grid    { grid-template-columns: repeat(3, 1fr); }
       }
 
-      /* ── Embed card (result area — full embed widget) ── */
+      /* ── Embed card (result area) ── */
       .embed-body { padding: 0.8rem 0.8rem 0.6rem; }
-      .embed-widget-wrap { width: 100%; overflow: hidden; border-radius: 8px; }
-      /* Loading skeleton while embed widget initializes */
-      .embed-skeleton {
-        width: 100%; border-radius: 8px; height: 380px; margin-bottom: 0.7rem;
+      .embed-body .iframe-container { border-radius: 8px; }
+
+      /* ── 統一 iframe/embed 容器（Threads / IG / FB 共用比例容器）── */
+      .iframe-container {
+        position: relative; width: 100%; overflow: hidden;
+        background: #f0f0f0; line-height: 0;
+      }
+      .iframe-container[data-ratio="9:16"] { aspect-ratio: 9 / 16; }
+      .iframe-container[data-ratio="4:5"]  { aspect-ratio: 4 / 5; }
+      .iframe-container[data-ratio="16:9"] { aspect-ratio: 16 / 9; }
+      .iframe-container[data-ratio="1:1"]  { aspect-ratio: 1 / 1; }
+      .iframe-container iframe {
+        width: 100%; height: 100%; border: 0; display: block;
+      }
+      /* Threads blockquote widget 撐滿容器 */
+      .iframe-container blockquote { margin: 0; max-width: 100%; min-width: 0; }
+
+      /* 「最多人看過」區塊限高，避免一張 embed 佔滿整屏 */
+      .top-section .iframe-container { max-height: 400px; }
+      /* 限高卡片底部漸層遮罩 */
+      .embed-iframe-fade {
+        position: absolute; bottom: 0; left: 0; right: 0;
+        height: 48px; pointer-events: none; z-index: 2;
+        background: linear-gradient(to bottom, transparent, rgba(255,255,255,.85));
+      }
+      /* iframe / widget 載入中骨架 */
+      .embed-iframe-sk {
+        position: absolute; inset: 0; z-index: 1;
         background-size: 1200px 100%;
         animation: shimmer 1.4s infinite linear;
       }
-      .embed-skeleton-threads  { background: linear-gradient(90deg,#111 25%,#222 50%,#111 75%); background-size:1200px 100%; }
-      .embed-skeleton-instagram { background: linear-gradient(90deg,#b24592 25%,#e15c8a 50%,#b24592 75%); background-size:1200px 100%; opacity:.4; }
-      .embed-skeleton-facebook  { background: linear-gradient(90deg,#1565c0 25%,#1e88e5 50%,#1565c0 75%); background-size:1200px 100%; opacity:.4; }
+      .embed-iframe-sk-threads   { background: linear-gradient(90deg,#111 25%,#222 50%,#111 75%); }
+      .embed-iframe-sk-instagram { background: linear-gradient(90deg,#b24592 25%,#e15c8a 50%,#b24592 75%); opacity:.4; }
+      .embed-iframe-sk-facebook  { background: linear-gradient(90deg,#1565c0 25%,#1e88e5 50%,#1565c0 75%); opacity:.4; }
 
-      /* ── Grid embed cards — compact platform-branded placeholder ── */
+      /* fallback：抽不到 iframe URL 時的漸層佔位（鋪滿 .iframe-container） */
       .embed-ph {
-        position: relative; width: 100%; padding-top: 125%; overflow: hidden;
-      }
-      .embed-ph-inner {
         position: absolute; inset: 0;
         display: flex; flex-direction: column; align-items: center; justify-content: center;
         gap: 0.35rem;
@@ -524,28 +545,6 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .embed-ph-icon  { font-size: 2.4rem; filter: drop-shadow(0 2px 6px rgba(0,0,0,.35)); }
       .embed-ph-label { font-size: 0.75rem; color: rgba(255,255,255,.85); font-weight: 600; letter-spacing: 0.03em; }
 
-      /* ── iframe embed grid cards ── */
-      .embed-iframe-wrap {
-        position: relative; width: 100%; overflow: hidden;
-        background: #f0f0f0; line-height: 0;
-      }
-      /* 「最多人看過」區塊限高，避免一張 embed 佔滿整屏 */
-      .top-embed-wrap { max-height: 400px; }
-      /* 限高卡片底部漸層遮罩 */
-      .embed-iframe-fade {
-        position: absolute; bottom: 0; left: 0; right: 0;
-        height: 48px; pointer-events: none;
-        background: linear-gradient(to bottom, transparent, rgba(255,255,255,.85));
-      }
-      /* iframe loading skeleton */
-      .embed-iframe-sk {
-        position: absolute; inset: 0; z-index: 1;
-        background-size: 1200px 100%;
-        animation: shimmer 1.4s infinite linear;
-      }
-      .embed-iframe-sk-threads   { background: linear-gradient(90deg,#111 25%,#222 50%,#111 75%); }
-      .embed-iframe-sk-instagram { background: linear-gradient(90deg,#b24592 25%,#e15c8a 50%,#b24592 75%); opacity:.4; }
-      .embed-iframe-sk-facebook  { background: linear-gradient(90deg,#1565c0 25%,#1e88e5 50%,#1565c0 75%); opacity:.4; }
       /* 「前往原文」小連結（embed 卡片用 div 不是 a，需另外放） */
       .embed-card-link {
         display: block; font-size: 0.72rem; color: #1a6fad; font-weight: 600;
@@ -1025,16 +1024,34 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         const plat = PLATFORM_LABELS[p] || { label: p, cls: '' };
         const sourceUrl = data.data?.sourceUrl || rawUrl;
         const handle = data.data?.author?.handle;
+        const ratio = embed.iframeRatio || '4:5';
 
-        let widgetHtml = '';
-        let skeletonCls = `embed-skeleton-${p}`;
-
-        if (embed.type === 'threads') {
-          widgetHtml = `<blockquote class="text-post-media" data-text-post-permalink="${esc(embed.url)}" style="margin:0;max-width:100%;border-radius:8px;overflow:hidden;"><a href="${esc(embed.url)}" target="_blank" rel="noopener">查看 Threads 貼文</a></blockquote>`;
-        } else if (embed.type === 'instagram') {
-          widgetHtml = `<blockquote class="instagram-media" data-instgrm-permalink="${esc(embed.url)}" data-instgrm-version="14" style="background:#fff;border:0;margin:0;max-width:540px;min-width:0;padding:0;width:100%;border-radius:8px;overflow:hidden;"><div style="padding:16px"><a href="${esc(embed.url)}" target="_blank" rel="noopener">查看 Instagram 貼文</a></div></blockquote>`;
-        } else if (embed.type === 'facebook') {
-          widgetHtml = `<div class="fb-post" data-href="${esc(embed.url)}" data-width="100%" data-show-text="true"></div>`;
+        let mediaHtml;
+        if (p === 'threads') {
+          // Threads 直接 iframe 缺 xmt token 會破圖 → 仍用官方 blockquote+embed.js widget
+          mediaHtml = `
+            <div class="iframe-container" data-ratio="${ratio}">
+              <div class="embed-iframe-sk embed-iframe-sk-threads"></div>
+              <blockquote class="text-post-media" data-text-post-permalink="${esc(embed.url)}"><a href="${esc(embed.url)}" target="_blank" rel="noopener">查看 Threads 貼文</a></blockquote>
+            </div>`;
+        } else if (embed.iframeUrl) {
+          // Instagram / Facebook：官方公開 iframe，無需 token
+          mediaHtml = `
+            <div class="iframe-container" data-ratio="${ratio}">
+              <div class="embed-iframe-sk embed-iframe-sk-${p}"></div>
+              <iframe src="${esc(embed.iframeUrl)}" loading="lazy" frameborder="0" scrolling="no"
+                allowtransparency="true" allow="encrypted-media; picture-in-picture; fullscreen"
+                title="${esc((handle || p) + ' 貼文')}"></iframe>
+            </div>`;
+        } else {
+          // fallback：無法解析 iframe URL → 漸層佔位
+          mediaHtml = `
+            <div class="iframe-container" data-ratio="${ratio}">
+              <div class="embed-ph embed-ph-${p}">
+                <span class="embed-ph-icon">${PLAT_ICON[p] ?? '◉'}</span>
+                ${handle ? `<span class="embed-ph-label">${esc(handle)}</span>` : ''}
+              </div>
+            </div>`;
         }
 
         const handleSpan = handle
@@ -1050,29 +1067,32 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
             <div class="card-actions">${deleteBtn}</div>
           </div>
           <div class="embed-body">
-            <div class="embed-skeleton ${skeletonCls}" id="embed-sk"></div>
-            <div class="embed-widget-wrap" id="embed-ww">${widgetHtml}</div>
+            ${mediaHtml}
             <a class="source-link" href="${esc(sourceUrl)}" target="_blank" rel="noopener noreferrer" style="margin-top:0.8rem;display:inline-flex">前往原文 →</a>
           </div>
         `;
 
-        // 載入 embed script（singleton）
-        if (embed.script) {
+        // Threads：載入/重跑官方 embed.js（singleton）
+        if (p === 'threads' && embed.script) {
           loadEmbedScript(embed.script);
-          // 稍後觸發 reprocess（處理 script 已載入但新 blockquote 尚未被 process 的情況）
-          setTimeout(() => reprocessEmbeds(embed.type), 400);
+          setTimeout(() => reprocessEmbeds('threads'), 400);
         }
 
-        // MutationObserver：iframe 出現後隱藏 skeleton
-        const sk = card.querySelector('#embed-sk');
-        const ww = card.querySelector('#embed-ww');
-        if (sk && ww) {
-          const obs = new MutationObserver(() => {
-            if (ww.querySelector('iframe')) { sk.style.display = 'none'; obs.disconnect(); }
-          });
-          obs.observe(ww, { childList: true, subtree: true });
-          // 最長等 15 秒後強制隱藏（保底）
-          setTimeout(() => { sk.style.display = 'none'; }, 15000);
+        // 隱藏 loading skeleton：iframe onload，或 MutationObserver 偵測 widget 注入的 iframe
+        const sk = card.querySelector('.embed-iframe-sk');
+        const container = card.querySelector('.iframe-container');
+        if (sk && container) {
+          const existingIframe = container.querySelector('iframe');
+          if (existingIframe) {
+            existingIframe.addEventListener('load', () => sk.remove());
+          } else {
+            const obs = new MutationObserver(() => {
+              if (container.querySelector('iframe')) { sk.remove(); obs.disconnect(); }
+            });
+            obs.observe(container, { childList: true, subtree: true });
+            // 最長等 15 秒後強制隱藏（保底）
+            setTimeout(() => sk.remove(), 15000);
+          }
         }
 
         // 刪除按鈕 → popover
@@ -1235,30 +1255,96 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }, 50);
       });
 
-      // Threads 的 /embed/post/{code} 需要 embed.js 注入的 xmt= token，
-      // 直接 iframe 會被 Threads 擋掉 → 格子卡改回縮圖 / 漸層佔位
-      // Instagram /embed/captioned/ 與 FB plugins/post.php 是公開 API，可直接 iframe
-      const IFRAME_EMBED_PLATFORMS = new Set(['instagram', 'facebook']);
+      // ── Meta 系（Threads/IG/FB）統一 iframe/embed 容器 ───────────────────────
+      // Instagram /embed/captioned/ 與 FB plugins/post.php|video.php 是公開 API，可直接 iframe。
+      // Threads /embed/post/{code} 缺 embed.js 注入的 xmt= token 會破圖 → 仍用官方 blockquote+embed.js widget。
 
-      // ── iframe URL helpers（相容無 iframeUrl 的舊 KV 資料）──────────────────
+      /** iframe URL（相容無 embed.iframeUrl 的舊 KV 資料）── Threads 不適用，恆回傳 null */
       function getIframeUrl(item) {
         if (item.embed?.iframeUrl) return item.embed.iframeUrl;
         const src = item.sourceUrl || '';
-        // Threads
-        const tm = src.match(/threads\.(?:net|com)\/@[\w.]+\/post\/([\w-]+)/);
-        if (tm) return `https://www.threads.net/embed/post/${tm[1]}`;
-        // Instagram
-        const im = src.match(/instagram\.com\/(?:p|reel|tv)\/([\w-]+)/);
-        if (im) return `https://www.instagram.com/p/${im[1]}/embed/captioned/`;
-        // Facebook
-        if (/facebook\.com|fb\.watch/.test(src)) {
-          return `https://www.facebook.com/plugins/post.php?href=${encodeURIComponent(src)}&width=500&show_text=true&appId`;
+        if (item.platform === 'instagram') {
+          const im = src.match(/instagram\.com\/(?:p|reel|tv)\/([\w-]+)/);
+          if (im) return `https://www.instagram.com/p/${im[1]}/embed/captioned/`;
+        }
+        if (item.platform === 'facebook') {
+          if (/facebook\.com|fb\.watch/.test(src)) {
+            return `https://www.facebook.com/plugins/post.php?href=${encodeURIComponent(src)}&width=500&show_text=true&appId`;
+          }
         }
         return null;
       }
-      function getIframeHeight(item) {
-        if (item.embed?.iframeHeight) return item.embed.iframeHeight;
-        return item.platform === 'facebook' ? 500 : 600;
+
+      /** 容器比例（相容無 embed.iframeRatio 的舊 KV 資料） */
+      function getIframeRatio(item) {
+        if (item.embed?.iframeRatio) return item.embed.iframeRatio;
+        if (item.platform === 'instagram') return /\/reel\//.test(item.sourceUrl || '') ? '9:16' : '1:1';
+        return '4:5'; // facebook / threads
+      }
+
+      /** 建立 Meta 系卡片的媒體區塊（top/recent grid 共用） */
+      function buildEmbedMediaHtml(item, { topViewed = false } = {}) {
+        const ratio = getIframeRatio(item);
+        const fadeHtml = topViewed ? '<div class="embed-iframe-fade"></div>' : '';
+
+        if (item.platform === 'threads') {
+          const permalink = item.embed?.url || item.sourceUrl || '';
+          return `
+            <div class="iframe-container" data-ratio="${ratio}" data-platform="threads">
+              <div class="embed-iframe-sk embed-iframe-sk-threads"></div>
+              <blockquote class="text-post-media" data-text-post-permalink="${esc(permalink)}"><a href="${esc(permalink)}" target="_blank" rel="noopener">查看 Threads 貼文</a></blockquote>
+              ${fadeHtml}
+            </div>`;
+        }
+
+        const iframeUrl = getIframeUrl(item);
+        if (iframeUrl) {
+          return `
+            <div class="iframe-container" data-ratio="${ratio}" data-platform="${item.platform}">
+              <div class="embed-iframe-sk embed-iframe-sk-${item.platform}"></div>
+              <iframe src="${esc(iframeUrl)}" loading="lazy" frameborder="0" scrolling="no"
+                allowtransparency="true" allow="encrypted-media; picture-in-picture; fullscreen"
+                title="${esc((item.authorName || item.embedHandle || item.platform) + ' 貼文')}"></iframe>
+              ${fadeHtml}
+            </div>`;
+        }
+
+        // fallback：無法解析 iframe URL → 漸層佔位
+        return `
+          <div class="iframe-container" data-ratio="${ratio}" data-platform="${item.platform}">
+            <div class="embed-ph embed-ph-${item.platform}">
+              <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
+              ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
+            </div>
+          </div>`;
+      }
+
+      // Threads embed.js 重跑 debounce（多張 Threads 卡同時建立時，合併成一次 reprocess）
+      let _threadsReprocessTimer = null;
+      function scheduleThreadsReprocess() {
+        loadEmbedScript('https://www.threads.net/embed.js');
+        clearTimeout(_threadsReprocessTimer);
+        _threadsReprocessTimer = setTimeout(() => reprocessEmbeds('threads'), 400);
+      }
+
+      /** 卡片 innerHTML 設定後呼叫：處理 Threads widget 載入 + 隱藏 loading skeleton */
+      function activateEmbedMedia(card) {
+        const container = card.querySelector('.iframe-container');
+        if (!container) return;
+        if (container.dataset.platform === 'threads') scheduleThreadsReprocess();
+
+        const sk = container.querySelector('.embed-iframe-sk');
+        if (!sk) return;
+        const existingIframe = container.querySelector('iframe');
+        if (existingIframe) {
+          existingIframe.addEventListener('load', () => sk.remove());
+        } else {
+          const obs = new MutationObserver(() => {
+            if (container.querySelector('iframe')) { sk.remove(); obs.disconnect(); }
+          });
+          obs.observe(container, { childList: true, subtree: true });
+          setTimeout(() => sk.remove(), 15000); // 保底
+        }
       }
 
       // ── Top-viewed ──
@@ -1297,50 +1383,11 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }
 
         const THUMB_STYLE = 'width:100%;height:100%;object-fit:cover;object-position:center top;display:block';
-        // useIframe：僅 IG / FB 支援無 token 直接 iframe；Threads 需 embed.js 注入 xmt= → 改用縮圖
-        const useIframe = isEmbed && IFRAME_EMBED_PLATFORMS.has(item.platform);
 
         let mediaHtml;
-        if (useIframe) {
-          const iframeUrl    = getIframeUrl(item);
-          const iframeHeight = getIframeHeight(item);
-          if (iframeUrl) {
-            // 直接用平台官方 iframe URL，max-height:400px 避免佔滿整行
-            mediaHtml = `
-              <div class="embed-iframe-wrap top-embed-wrap">
-                <div class="embed-iframe-sk embed-iframe-sk-${item.platform}"></div>
-                <iframe src="${esc(iframeUrl)}" width="100%" height="${iframeHeight}"
-                  frameborder="0" scrolling="no" allowtransparency="true"
-                  allow="encrypted-media" loading="lazy"
-                  title="${esc((item.authorName || item.embedHandle || item.platform) + ' 貼文')}"></iframe>
-                <div class="embed-iframe-fade"></div>
-              </div>`;
-          } else {
-            // fallback：無法解析 post code → 漸層佔位
-            mediaHtml = `
-              <div class="embed-ph embed-ph-${item.platform}" style="width:100%;overflow:hidden;position:relative">
-                <div class="embed-ph-inner embed-ph-${item.platform}">
-                  <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
-                  ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
-                </div>
-              </div>`;
-          }
-        } else if (isEmbed && item.thumbnail) {
-          // Threads：oEmbed 取到縮圖 → 顯示真實圖片
-          mediaHtml = `
-            <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#111">
-              <img class="top-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy"
-                onerror="this.parentElement.innerHTML='<div style=\\'width:100%;height:100%;background:linear-gradient(160deg,#111 0%,#2a2a2a 100%);display:flex;align-items:center;justify-content:center;font-size:2rem\\'>🧵</div>'">
-            </div>`;
-        } else if (isEmbed) {
-          // Threads 無縮圖 → 漸層佔位
-          mediaHtml = `
-            <div class="embed-ph embed-ph-${item.platform}" style="width:100%;overflow:hidden;position:relative">
-              <div class="embed-ph-inner embed-ph-${item.platform}">
-                <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
-                ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
-              </div>
-            </div>`;
+        if (isEmbed) {
+          // Threads/IG/FB → 統一 .iframe-container[data-ratio]
+          mediaHtml = buildEmbedMediaHtml(item, { topViewed: true });
         } else if (item.thumbnail) {
           mediaHtml = `
             <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0">
@@ -1373,10 +1420,8 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           </div>
         `;
 
-        // iframe onLoad → 隱藏 loading skeleton
-        card.querySelector('iframe')?.addEventListener('load', (e) => {
-          e.target.previousElementSibling?.remove();
-        });
+        // Meta 系卡片：載入 Threads widget / 隱藏 loading skeleton
+        if (isEmbed) activateEmbedMedia(card);
 
         card.addEventListener('click', () => trackView(item.id));
         card.querySelector('.like-btn')?.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); likePost(item.id, card.querySelector('.like-btn')); });
@@ -1424,49 +1469,11 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }
 
         const THUMB_STYLE = 'width:100%;height:100%;object-fit:cover;object-position:center top;display:block';
-        // useIframe：僅 IG / FB 支援無 token 直接 iframe；Threads 需 embed.js 注入 xmt= → 改用縮圖
-        const useIframe = isEmbed && IFRAME_EMBED_PLATFORMS.has(item.platform);
 
         let mediaHtml;
-        if (useIframe) {
-          const iframeUrl    = getIframeUrl(item);
-          const iframeHeight = getIframeHeight(item);
-          if (iframeUrl) {
-            // 直接用平台官方 iframe URL（無 max-height 限制，讓貼文完整顯示）
-            mediaHtml = `
-              <div class="embed-iframe-wrap">
-                <div class="embed-iframe-sk embed-iframe-sk-${item.platform}"></div>
-                <iframe src="${esc(iframeUrl)}" width="100%" height="${iframeHeight}"
-                  frameborder="0" scrolling="no" allowtransparency="true"
-                  allow="encrypted-media" loading="lazy"
-                  title="${esc((item.authorName || item.embedHandle || item.platform) + ' 貼文')}"></iframe>
-              </div>`;
-          } else {
-            // fallback：無法解析 post code → 漸層佔位
-            mediaHtml = `
-              <div class="embed-ph embed-ph-${item.platform}" style="width:100%;overflow:hidden;position:relative">
-                <div class="embed-ph-inner embed-ph-${item.platform}">
-                  <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
-                  ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
-                </div>
-              </div>`;
-          }
-        } else if (isEmbed && item.thumbnail) {
-          // Threads：oEmbed 取到縮圖 → 顯示真實圖片
-          mediaHtml = `
-            <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#111">
-              <img class="recent-thumb" style="${THUMB_STYLE}" src="${esc(item.thumbnail)}" alt="" loading="lazy"
-                onerror="this.parentElement.innerHTML='<div style=\\'width:100%;height:100%;background:linear-gradient(160deg,#111 0%,#2a2a2a 100%);display:flex;align-items:center;justify-content:center;font-size:2rem\\'>🧵</div>'">
-            </div>`;
-        } else if (isEmbed) {
-          // Threads 無縮圖 → 漸層佔位
-          mediaHtml = `
-            <div class="embed-ph embed-ph-${item.platform}" style="width:100%;overflow:hidden;position:relative">
-              <div class="embed-ph-inner embed-ph-${item.platform}">
-                <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
-                ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
-              </div>
-            </div>`;
+        if (isEmbed) {
+          // Threads/IG/FB → 統一 .iframe-container[data-ratio]
+          mediaHtml = buildEmbedMediaHtml(item, { topViewed: false });
         } else if (item.thumbnail) {
           mediaHtml = `
             <div style="width:100%;aspect-ratio:4/5;overflow:hidden;position:relative;background:#f0f0f0">
@@ -1505,10 +1512,8 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           <button class="recent-delete-btn" title="移除（管理員）" style="display:none">🗑</button>
         `;
 
-        // iframe onLoad → 隱藏 loading skeleton
-        card.querySelector('iframe')?.addEventListener('load', (e) => {
-          e.target.previousElementSibling?.remove();
-        });
+        // Meta 系卡片：載入 Threads widget / 隱藏 loading skeleton
+        if (isEmbed) activateEmbedMedia(card);
 
         card.addEventListener('click', () => trackView(item.id));
         card.querySelector('.like-btn')?.addEventListener('click', (e) => { e.preventDefault(); e.stopPropagation(); likePost(item.id, card.querySelector('.like-btn')); });
