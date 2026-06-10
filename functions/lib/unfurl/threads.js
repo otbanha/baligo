@@ -59,9 +59,10 @@ export async function handleThreads(url) {
     embed: {
       type: 'threads',
       url,
-      iframeUrl,          // https://www.threads.net/embed/post/{POST_CODE}
+      iframeUrl,          // https://www.threads.net/embed/post/{POST_CODE}（缺 xmt token 會破圖，暫不直接使用）
       iframeHeight: 600,
-      script: 'https://www.threads.net/embed.js',  // 保留供 renderEmbedCard 使用
+      iframeRatio: '4:5', // 容器比例，與 IG/FB 卡片視覺統一
+      script: 'https://www.threads.net/embed.js',  // 仍用官方 widget 渲染（renderEmbedCard / 卡片皆用）
     },
     data: {
       title: null,
