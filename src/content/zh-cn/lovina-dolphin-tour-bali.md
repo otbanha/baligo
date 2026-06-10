@@ -1,20 +1,21 @@
 ---
-slug: lovina-dolphin-tour-bali
 title: 巴厘岛Lovina看海豚游记
+slug: lovina-dolphin-tour-bali
 description: 印尼巴厘岛北部Lovina Beach的旅程，希望能有机会一睹传说中的海豚群芳踪
-pubDate: '2024-04-23'
-heroImage: 'https://images.gobaligo.id/vocus/vocus_e904309c49a3175e3462349f40d9dcd3.jpg'
+pubDate: 2024-04-23T00:00:00.000Z
+pubHour: null
+category:
+  - 遊記分享
 tags:
   - 峇里島海豚
   - 看海豚
   - 峇里島
   - lovina
   - 羅威納
+heroImage: 'https://images.gobaligo.id/vocus/vocus_e904309c49a3175e3462349f40d9dcd3.jpg'
 originalUrl: 'https://vocus.cc/article/6627b8f4fd89780001823c77'
-category:
-  - 遊記分享
 lang: zh-cn
-_srcHash: 47e7f64f45284acf3646fff0bbfd6f65
+_srcHash: d7662a688d1f4fccdecbd7e401f29844
 ---
 
 身为印尼华人YouTuber的VY Journey冰冰晶晶，这次她展开了前往印尼巴厘岛北部Lovina Beach的旅程。通过这支视频，她以自己的观点，生动记录了整个行程。
@@ -69,4 +70,8 @@ _srcHash: 47e7f64f45284acf3646fff0bbfd6f65
 
 ## 详细的旅程记录请欣赏他们的视频：
 
+https://youtu.be/zSw8SRB3Sn8?si=HwQTRID8kIkM4PvI
+
 对巴厘岛北部行程有兴趣的朋友，请继续参考：[巴厘岛自由行注意事项：15个前往巴厘岛北部旅游的小贴士](/blog/north-bali-travel-guide/)
+
+{{block:戶外}}
