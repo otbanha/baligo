@@ -155,6 +155,11 @@ export function remarkBlocks(embedMap = {}) {
         const s = '<' + 'script'; const e = '</' + 'script>';
         return '<div class="video-embed video-embed--tt"><blockquote class="tiktok-embed" cite="' + url + '" data-video-id="' + ttMatch[1] + '" style="width:100%;margin:0;"><section></section></blockquote>' + s + ' async src="https://www.tiktok.com/embed.js">' + e + '</div>';
       }
+      const thMatch = url.match(/threads\.(?:net|com)\/@[^/]+\/post\/([A-Za-z0-9_-]+)/);
+      if (thMatch) {
+        const s = '<' + 'script'; const e = '</' + 'script>';
+        return '<div class="video-embed video-embed--th"><blockquote class="text-post-media" data-text-post-permalink="' + url + '" style="width:100%;margin:0;"><a href="' + url + '"></a></blockquote>' + s + ' async src="https://www.threads.net/embed.js">' + e + '</div>';
+      }
       return null;
     }
 

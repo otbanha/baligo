@@ -555,12 +555,20 @@ window.addEventListener('load', () => {
     } else if (embed.platform === 'facebook') {
       const fbUrl = encodeURIComponent(embed.url);
       embedHtml = '<div class="video-embed video-embed--fb"><iframe src="https://www.facebook.com/plugins/video.php?href=' + fbUrl + '&show_text=0&width=560&mute=0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen loading="lazy"></iframe></div>';
+    } else if (embed.platform === 'threads') {
+      embedHtml = '<div class="video-embed video-embed--th"><blockquote class="text-post-media" data-text-post-permalink="' + embed.url + '" style="width:100%;margin:0;"><a href="' + embed.url + '"></a></blockquote></div>';
     }
 
     if (embedHtml) {
       const div = document.createElement('div');
       div.innerHTML = embedHtml;
       el.parentNode.replaceChild(div.firstChild, el);
+      if (embed.platform === 'threads') {
+        const script = document.createElement('script');
+        script.async = true;
+        script.src = 'https://www.threads.net/embed.js';
+        document.body.appendChild(script);
+      }
     }
   });
 
@@ -1311,6 +1319,12 @@ hr { margin: 1.2em 0 1.8em; }
 }
 
 .prose :global(.video-embed--tt) {
+  aspect-ratio: unset;
+  max-width: 540px;
+  margin: 1.5em auto;
+}
+
+.prose :global(.video-embed--th) {
   aspect-ratio: unset;
   max-width: 540px;
   margin: 1.5em auto;

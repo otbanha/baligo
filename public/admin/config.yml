@@ -80,6 +80,7 @@ collections:
               - { label: Instagram, value: instagram }
               - { label: TikTok, value: tiktok }
               - { label: Facebook, value: facebook }
+              - { label: Threads, value: threads }
           - { label: 影片網址, name: url, widget: string }
 
   - name: promotions
