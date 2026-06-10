@@ -1259,15 +1259,6 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }
       });
 
-      // Auto-submit on paste
-      urlInput.addEventListener('paste', () => {
-        setTimeout(() => {
-          if (urlInput.value.trim().startsWith('http')) {
-            form.dispatchEvent(new Event('submit', { cancelable: true }));
-          }
-        }, 50);
-      });
-
       // ── Meta 系（Threads/IG/FB）統一 iframe/embed 容器 ───────────────────────
       // Instagram /embed/captioned/ 與 FB plugins/post.php|video.php 是公開 API，可直接 iframe。
       // Threads /embed/post/{code} 缺 embed.js 注入的 xmt= token 會破圖 → 仍用官方 blockquote+embed.js widget。
