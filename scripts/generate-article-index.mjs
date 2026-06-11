@@ -50,9 +50,9 @@ for (const file of files) {
 
   // Handle multi-line list fields
   const category = parseYamlList(raw.split('---').slice(0, 2).join('---'), 'category')
-    || (fm.category ? [fm.category] : []);
+    || (Array.isArray(fm.category) ? fm.category : (fm.category ? [fm.category] : []));
   const tags = parseYamlList(raw.split('---').slice(0, 2).join('---'), 'tags')
-    || (fm.tags ? [fm.tags] : []);
+    || (Array.isArray(fm.tags) ? fm.tags : (fm.tags ? [fm.tags] : []));
 
   if (!fm.title) continue;
   if (fm.private === 'true' || fm.private === true) continue;

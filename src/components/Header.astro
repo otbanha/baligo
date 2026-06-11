@@ -212,7 +212,7 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
       var item = r.item;
       var title = item.title || '';
       var snippet = item.snippet ? item.snippet.slice(0, 80) : '';
-      var tagList = item.tags || [];
+      var tagList = (item.tags || []).filter(function (t) { return typeof t === 'string'; });
       var url = item.url || '';
       if (isZhCn && t2sConverter) {
         title = toCn(title);
