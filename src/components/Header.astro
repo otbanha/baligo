@@ -102,6 +102,7 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
 <script is:inline>
 (function () {
   var fuse = null;
+  var s2tConverter = null;
   var indexLoaded = false;
   var loadingIndex = false;
   var debounceTimer = null;
@@ -109,6 +110,18 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
   function loadFuseAndIndex() {
     if (indexLoaded || loadingIndex) return;
     loadingIndex = true;
+
+    var s2tScript = document.createElement('script');
+    s2tScript.src = 'https://cdn.jsdelivr.net/npm/opencc-js@1.0.5/dist/umd/full.js';
+    s2tScript.onload = function () {
+      try {
+        s2tConverter = OpenCC.Converter({ from: 'cn', to: 'tw' });
+      } catch (e) {
+        console.error('OpenCC load failed', e);
+      }
+    };
+    document.head.appendChild(s2tScript);
+
     var s = document.createElement('script');
     s.src = 'https://cdn.jsdelivr.net/npm/fuse.js@7/dist/fuse.min.js';
     s.onload = function () {
@@ -164,7 +177,8 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
     var el = document.getElementById('search-results');
     if (!el) return;
     if (!fuse) { el.innerHTML = '<p class="search-loading">載入中…</p>'; return; }
-    var results = fuse.search(q, { limit: 8 });
+    var query = s2tConverter ? s2tConverter(q) : q;
+    var results = fuse.search(query, { limit: 8 });
     if (!results.length) { el.innerHTML = '<p class="search-no-results">找不到相關文章</p>'; return; }
     el.innerHTML = results.map(function (r) {
       var item = r.item;
