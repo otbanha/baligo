@@ -103,6 +103,7 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
 (function () {
   var fuse = null;
   var s2tConverter = null;
+  var t2sConverter = null;
   var indexLoaded = false;
   var loadingIndex = false;
   var debounceTimer = null;
@@ -116,6 +117,7 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
     s2tScript.onload = function () {
       try {
         s2tConverter = OpenCC.Converter({ from: 'cn', to: 'tw' });
+        t2sConverter = OpenCC.Converter({ from: 'tw', to: 'cn' });
       } catch (e) {
         console.error('OpenCC load failed', e);
       }
@@ -177,17 +179,29 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
     var el = document.getElementById('search-results');
     if (!el) return;
     if (!fuse) { el.innerHTML = '<p class="search-loading">載入中…</p>'; return; }
+    var inp = document.getElementById('fuse-search-input');
+    var lang = inp ? inp.dataset.lang : '';
+    var isZhCn = lang === 'zh-cn';
     var query = s2tConverter ? s2tConverter(q) : q;
     var results = fuse.search(query, { limit: 8 });
     if (!results.length) { el.innerHTML = '<p class="search-no-results">找不到相關文章</p>'; return; }
     el.innerHTML = results.map(function (r) {
       var item = r.item;
+      var title = item.title || '';
       var snippet = item.snippet ? item.snippet.slice(0, 80) : '';
-      var tags = (item.tags || []).slice(0, 3).map(function (t) {
+      var tagList = item.tags || [];
+      var url = item.url || '';
+      if (isZhCn && t2sConverter) {
+        title = t2sConverter(title);
+        snippet = t2sConverter(snippet);
+        tagList = tagList.map(function (t) { return t2sConverter(t); });
+        if (url.indexOf('/blog/') === 0) url = '/zh-cn' + url;
+      }
+      var tags = tagList.slice(0, 3).map(function (t) {
         return '<span class="search-result-tag">' + t + '</span>';
       }).join('');
-      return '<a href="' + item.url + '" class="search-result-item">'
-        + '<div class="search-result-title">' + item.title + '</div>'
+      return '<a href="' + url + '" class="search-result-item">'
+        + '<div class="search-result-title">' + title + '</div>'
         + (tags ? '<div class="search-result-tags">' + tags + '</div>' : '')
         + (snippet ? '<div class="search-result-snippet">' + snippet + '…</div>' : '')
         + '</a>';
