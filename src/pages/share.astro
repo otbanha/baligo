@@ -1157,8 +1157,32 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           if (data.ok) {
             resultArea.innerHTML = '';
             resultArea.appendChild(renderCard(data, rawUrl));
-            // KV 寫入是 waitUntil 非同步，等 1.5 秒再 reload 確保資料已寫入
-            setTimeout(() => loadRecent(), 1500);
+
+            // 樂觀更新：立即把這篇加到「最新加入」最前面
+            // （UNFURL_RECENT 為 KV 最終一致性，reload 可能要數秒後才讀得到，
+            //  否則使用者會覺得「按了沒反應」）
+            if (!data.cached) {
+              try {
+                const optimisticItem = {
+                  id: `pending-${Date.now()}`,
+                  platform: data.platform,
+                  renderMode: data.renderMode ?? 'rich',
+                  title: data.data?.title ?? null,
+                  thumbnail: data.data?.media?.[0]?.url ?? null,
+                  authorName: data.data?.author?.name ?? null,
+                  embedHandle: data.data?.author?.handle ?? null,
+                  sourceUrl: data.data?.sourceUrl || rawUrl,
+                  embed: data.embed,
+                  views: 0,
+                  likes: 0,
+                };
+                recentSection.style.display = '';
+                recentGrid.prepend(buildRecentCard(optimisticItem));
+              } catch {}
+            }
+
+            // KV 寫入是 waitUntil 非同步，稍後 reload 取得正式資料（含 id，供刪除/讚用）
+            setTimeout(() => loadRecent(), 3000);
           } else {
             renderError(data, rawUrl);
           }
