@@ -28,6 +28,23 @@ function extractMetaContent(html, property) {
 }
 
 /**
+ * 純影片貼文沒有畫面截圖時，Threads 的 og:image 會 fallback 成「作者大頭貼」
+ * （CDN 網址的 efg 參數 base64 解碼後含 vencode_tag: profile_pic...）。
+ * 這種情況視同無縮圖，讓卡片改顯示漸層佔位，避免縮圖看起來像錯誤的大頭貼特寫。
+ */
+function isProfilePicThumbnail(imageUrl) {
+  try {
+    const efg = new URL(imageUrl).searchParams.get('efg');
+    if (!efg) return false;
+    const padded = efg.replace(/-/g, '+').replace(/_/g, '/');
+    const decoded = atob(padded + '='.repeat((4 - (padded.length % 4)) % 4));
+    return decoded.includes('profile_pic');
+  } catch {
+    return false;
+  }
+}
+
+/**
  * @param {string} url  Normalized Threads URL
  * @returns {Promise<object>}
  */
@@ -54,6 +71,9 @@ export async function handleThreads(url) {
     if (res.ok) {
       const html = await res.text();
       thumbnail = extractMetaContent(html, 'og:image');
+      if (thumbnail && isProfilePicThumbnail(thumbnail)) {
+        thumbnail = null; // 純影片貼文，og:image 只是大頭貼 → 改走漸層佔位
+      }
       const ogTitle = extractMetaContent(html, 'og:title');
       if (ogTitle) {
         const tm = ogTitle.match(/^(.*?)\s*\(@[\w.]+\)/);
