@@ -512,6 +512,12 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .iframe-container iframe, .iframe-container img {
         width: 100%; height: 100%; border: 0; display: block;
       }
+      /* IG /embed/captioned/ 沒有 embed.js 處理時，頂部會露出「大頭貼＋查看個人檔案」列。
+         往上裁掉這段固定高度，讓視覺上只剩貼文圖片，跟其他平台縮圖卡較一致。 */
+      .iframe-container[data-platform="instagram"] iframe {
+        height: calc(100% + 60px);
+        margin-top: -60px;
+      }
 
       /* 「最多人看過」區塊限高，避免一張 embed 佔滿整屏 */
       .top-section .iframe-container { max-height: 400px; }
