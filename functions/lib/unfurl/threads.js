@@ -1,8 +1,8 @@
 /**
- * Threads handler — hybrid approach:
- *   1. Server-side oEmbed fetch → thumbnail_url + author_name（非阻斷，失敗繼續）
- *   2. renderMode:'embed' → result card 仍用官方 widget 渲染
- *   3. data.media 帶 thumbnail → grid card 顯示真實縮圖
+ * Threads handler:
+ *   1. Threads 已關閉公開 oEmbed（/oembed/ 會 302 到 /login/），改用
+ *      Googlebot UA 直接抓貼文頁面 HTML，解析 og:image / og:title。
+ *   2. data.media 帶 thumbnail → 卡片顯示真實縮圖（無縮圖則漸層佔位）。
  */
 
 function extractHandle(url) {
@@ -10,10 +10,20 @@ function extractHandle(url) {
   return m ? m[1] : null;
 }
 
-/** 從 URL 抽出 post code，用於組 iframe URL */
-function extractPostCode(url) {
-  const m = url.match(/threads\.(?:net|com)\/@[\w.]+\/post\/([\w-]+)/);
-  return m ? m[1] : null;
+function decodeHtmlEntities(str) {
+  return str
+    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(Number(n)))
+    .replace(/&amp;/g, '&')
+    .replace(/&quot;/g, '"')
+    .replace(/&#039;/g, "'")
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>');
+}
+
+function extractMetaContent(html, property) {
+  const re = new RegExp(`<meta[^>]+property=["']${property}["'][^>]+content=["']([^"']*)["']`, 'i');
+  const m = html.match(re);
+  return m ? decodeHtmlEntities(m[1]) : null;
 }
 
 /**
@@ -21,48 +31,46 @@ function extractPostCode(url) {
  * @returns {Promise<object>}
  */
 export async function handleThreads(url) {
-  const handle    = extractHandle(url);
-  const postCode  = extractPostCode(url);
-  const iframeUrl = postCode ? `https://www.threads.net/embed/post/${postCode}` : null;
+  const handle = extractHandle(url);
 
-  // ── 嘗試 oEmbed 取 thumbnail + author（失敗不影響主流程）──
+  // ── 抓貼文頁面 og:image / og:title（失敗不影響主流程）──
   let thumbnail = null;
   let authorName = null;
 
   try {
-    const oembedUrl = `https://www.threads.net/oembed/?url=${encodeURIComponent(url)}`;
     const controller = new AbortController();
     const timer = setTimeout(() => controller.abort(), 5000);
 
-    const res = await fetch(oembedUrl, {
+    const res = await fetch(url, {
       signal: controller.signal,
       headers: {
         'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
-        Accept: 'application/json',
+        Accept: 'text/html',
       },
     });
     clearTimeout(timer);
 
     if (res.ok) {
-      const data = await res.json();
-      thumbnail  = data.thumbnail_url  ?? null;
-      authorName = data.author_name    ?? null;
+      const html = await res.text();
+      thumbnail = extractMetaContent(html, 'og:image');
+      const ogTitle = extractMetaContent(html, 'og:title');
+      if (ogTitle) {
+        const tm = ogTitle.match(/^(.*?)\s*\(@[\w.]+\)/);
+        authorName = tm ? tm[1].trim() : ogTitle;
+      }
     }
   } catch {
-    // oEmbed 失敗 → 繼續，thumbnail 維持 null（grid 顯示漸層佔位）
+    // 抓取失敗 → 繼續，thumbnail 維持 null（卡片顯示漸層佔位）
   }
 
   return {
     ok: true,
     platform: 'threads',
-    renderMode: 'embed',           // result card 仍用官方 iframe widget
+    renderMode: 'embed',
     embed: {
       type: 'threads',
       url,
-      iframeUrl,          // https://www.threads.net/embed/post/{POST_CODE}（缺 xmt token 會破圖，暫不直接使用）
-      iframeHeight: 600,
       iframeRatio: '4:5', // 容器比例，與 IG/FB 卡片視覺統一
-      script: 'https://www.threads.net/embed.js',  // 仍用官方 widget 渲染（renderEmbedCard / 卡片皆用）
     },
     data: {
       title: null,
