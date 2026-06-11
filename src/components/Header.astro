@@ -104,9 +104,30 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
   var fuse = null;
   var s2tConverter = null;
   var t2sConverter = null;
+  var cnToTwTerms = null;
+  var twToCnTerms = null;
   var indexLoaded = false;
   var loadingIndex = false;
   var debounceTimer = null;
+
+  // 兩岸用語不同（非單純簡繁轉換），如「巴厘島」(中國) vs「峇里島」(台灣)
+  var TERM_PAIRS = [
+    ['巴厘', '峇里'],
+    ['乌布', '烏布'],
+    ['龙目岛', '龍目島'],
+  ];
+
+  function toTw(s) {
+    if (!s) return s;
+    var out = cnToTwTerms ? cnToTwTerms(s) : s;
+    return s2tConverter ? s2tConverter(out) : out;
+  }
+
+  function toCn(s) {
+    if (!s) return s;
+    var out = t2sConverter ? t2sConverter(s) : s;
+    return twToCnTerms ? twToCnTerms(out) : out;
+  }
 
   function loadFuseAndIndex() {
     if (indexLoaded || loadingIndex) return;
@@ -118,6 +139,8 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
       try {
         s2tConverter = OpenCC.Converter({ from: 'cn', to: 'tw' });
         t2sConverter = OpenCC.Converter({ from: 'tw', to: 'cn' });
+        cnToTwTerms = OpenCC.CustomConverter(TERM_PAIRS.map(function (p) { return [p[0], p[1]]; }));
+        twToCnTerms = OpenCC.CustomConverter(TERM_PAIRS.map(function (p) { return [p[1], p[0]]; }));
       } catch (e) {
         console.error('OpenCC load failed', e);
       }
@@ -182,7 +205,7 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
     var inp = document.getElementById('fuse-search-input');
     var lang = inp ? inp.dataset.lang : '';
     var isZhCn = lang === 'zh-cn';
-    var query = s2tConverter ? s2tConverter(q) : q;
+    var query = toTw(q);
     var results = fuse.search(query, { limit: 8 });
     if (!results.length) { el.innerHTML = '<p class="search-no-results">找不到相關文章</p>'; return; }
     el.innerHTML = results.map(function (r) {
@@ -192,9 +215,9 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
       var tagList = item.tags || [];
       var url = item.url || '';
       if (isZhCn && t2sConverter) {
-        title = t2sConverter(title);
-        snippet = t2sConverter(snippet);
-        tagList = tagList.map(function (t) { return t2sConverter(t); });
+        title = toCn(title);
+        snippet = toCn(snippet);
+        tagList = tagList.map(function (t) { return toCn(t); });
         if (url.indexOf('/blog/') === 0) url = '/zh-cn' + url;
       }
       var tags = tagList.slice(0, 3).map(function (t) {
