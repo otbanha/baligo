@@ -2658,10 +2658,24 @@ function renderDayCard(day) {
     ? `<div class="dbd-travel"><span class="dbd-travel-ico">🚗</span><span>${escHtml(day.travelNote)}</span></div>`
     : '';
 
+  // 「入住 XX → XX住宿推薦 →」提示（換區當天 / 抵達日入住時使用）
+  const checkInHtml = (ckRegion) => {
+    const ckUiKey = ITIN.ID_TO_UI_REGION[ckRegion];
+    const ckReg = ckUiKey ? REGIONS[ckUiKey] : null;
+    const ckName = ITIN.label(ckRegion);
+    const ckEmoji = ITIN.REGION_EMOJI[ckRegion] || '📍';
+    const ckLink = ckReg && ckReg.guide
+      ? `<a href="${langUrl(ckReg.guide.url)}" target="_blank" rel="noopener">${ckEmoji} ${escHtml(ckName)}住宿推薦 →</a>`
+      : `${ckEmoji} ${escHtml(ckName)}`;
+    return `<div class="dbd-checkin"><span class="dbd-checkin-ico">🏨</span>`
+      + `<span>入住${escHtml(ckName)} → ${ckLink}</span></div>`;
+  };
+
   let slotsHtml;
   if (!day.slots.length) {
     slotsHtml = '<div class="dbd-slot dbd-slot-rest"><span class="dbd-time">😌 自由活動</span>'
       + '<span class="dbd-spot-name">放鬆日：海灘、泳池或飯店設施，依體力彈性安排</span></div>';
+    if (day.isArrivalDay) slotsHtml = checkInHtml(day.region) + slotsHtml;
   } else {
     const slotDivs = day.slots.map(s => {
       const t = ITIN.SLOT_LABEL[s.time] || s.time;
@@ -2676,17 +2690,10 @@ function renderDayCard(day) {
 
     // 換區當天：在入住前/後的景點之間插入「入住 XX」提示
     if (day.checkInRegion && day.checkInAfterSlots != null) {
-      const ckRegion = day.checkInRegion;
-      const ckUiKey = ITIN.ID_TO_UI_REGION[ckRegion];
-      const ckReg = ckUiKey ? REGIONS[ckUiKey] : null;
-      const ckName = ITIN.label(ckRegion);
-      const ckEmoji = ITIN.REGION_EMOJI[ckRegion] || '📍';
-      const ckLink = ckReg && ckReg.guide
-        ? `<a href="${langUrl(ckReg.guide.url)}" target="_blank" rel="noopener">${ckEmoji} ${escHtml(ckName)}住宿推薦 →</a>`
-        : `${ckEmoji} ${escHtml(ckName)}`;
-      const checkInHtml = `<div class="dbd-checkin"><span class="dbd-checkin-ico">🏨</span>`
-        + `<span>入住${escHtml(ckName)} → ${ckLink}</span></div>`;
-      slotDivs.splice(day.checkInAfterSlots, 0, checkInHtml);
+      slotDivs.splice(day.checkInAfterSlots, 0, checkInHtml(day.checkInRegion));
+    } else if (day.isArrivalDay) {
+      // 抵達日：第一天就先入住當天住宿區
+      slotDivs.unshift(checkInHtml(day.region));
     }
 
     slotsHtml = slotDivs.join('');
@@ -2697,7 +2704,7 @@ function renderDayCard(day) {
   const uiKey = ITIN.ID_TO_UI_REGION[accomRegion];
   const reg = uiKey ? REGIONS[uiKey] : null;
   const footer = (reg && reg.guide && !day.isDepartureDay)
-    ? `<a class="dbd-accom-link" href="${langUrl(reg.guide.url)}" target="_blank" rel="noopener">${accomEmoji} ${accomName} 住宿與完整攻略 →</a>`
+    ? `<a class="dbd-accom-link" href="${langUrl(reg.guide.url)}" target="_blank" rel="noopener">${accomEmoji} ${accomName}吃喝玩樂全攻略 →</a>`
     : '';
 
   return `<div class="dbd-card${day.isTravelDay ? ' is-travel' : ''}">`
