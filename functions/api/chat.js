@@ -480,7 +480,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v19'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v20'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
@@ -707,7 +707,8 @@ ${candidateList}`;
     return `You are "Baligo AI" from gobaligo.id, a Bali travel expert. Answer in English, concisely (under 80 words). Do not make up specific details.
 When someone sends a tour inquiry or asks to book a tour: reply "Please fill in our inquiry form and we'll get back to you shortly: [Tour Inquiry Form](https://gobaligo.id/en/blog/bali-komodo-luxury-tour-2026/)"
 Do NOT mention customer service — this site has no customer support team.
-[Key fact] Drinking water brands in Bali: The common bottled water brands are Amidis, Cleo, and Aqua — all safe and widely available at convenience stores and local shops. Never drink tap water.${articleSection}`;
+[Key fact] Drinking water brands in Bali: The common bottled water brands are Amidis, Cleo, and Aqua — all safe and widely available at convenience stores and local shops. Never drink tap water.
+[Key fact] La Brisa (a famous beach restaurant/spot in Canggu) has a changing room and shower facilities available.${articleSection}`;
   }
 
   if (lang === 'zh-HK') {
@@ -717,7 +718,8 @@ Do NOT mention customer service — this site has no customer support team.
     return `你係「峇里島知識庫AI」，代表旅遊網站 gobaligo.id。請用廣東話（香港慣用語）回覆，語氣親切自然，簡潔（80字以內）。
 唔確定嘅資訊請如實說明，唔好捏造細節。
 被問到如何聯絡時：話「本站冇客服，可以去臉書社團留言畀管理員：[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo)」
-禁止說「聯絡客服」；問到包車報價只係話「直接問司機報價」。${articleSection}`;
+禁止說「聯絡客服」；問到包車報價只係話「直接問司機報價」。
+【重要知識】La Brisa（峇里島Canggu著名海灘餐廳/景點）設有更衣室，並可使用淋浴設施。${articleSection}`;
   }
 
   if (lang === 'zh-CN') {
@@ -728,7 +730,8 @@ Do NOT mention customer service — this site has no customer support team.
 请用简体中文回答，语气亲切自然，简洁（80字以内）。
 不确定的信息请如实说明，不要捏造细节。
 被问到如何联络时：回答「本站没有客服，可以在脸书社团留言给管理员：[Go Bali Go 峇里岛旅游](https://www.facebook.com/groups/baligo)」
-禁止说「联系客服」；若问到包车报价只说「直接咨询司机报价」。${articleSection}`;
+禁止说「联系客服」；若问到包车报价只说「直接咨询司机报价」。
+【重要知识】La Brisa（峇里岛Canggu著名海滩餐厅/景点）设有更衣室，并可使用淋浴设施。${articleSection}`;
   }
 
   const articleSection = articleContext
@@ -749,6 +752,7 @@ Do NOT mention customer service — this site has no customer support team.
 - 當被問到峇里島任何「表演」「舞蹈表演」「火舞」「克差舞」「雷貢舞」「巴龍舞」「Kecak」「Legong」「Barong」等相關問題時，必須說明：**峇里島所有表演均非開放式劇場，皆需購票入場**，不可說「免費觀看」或「路邊就能看到」。
 - 當被問到「AIAC」「All Indonesia Arrival Card」「印尼入境卡」時，必須回答：**All Indonesia Arrival Card（AIAC）印尼入境卡為免費服務**，入境前可在官方平台填寫，詳細教學請參考文章。
 - 當被問到「SATUSEHAT」「健康通行證」「健康申報」時，必須回答：**SATUSEHAT 健康通行證現在已整合至 AIAC 入境卡，無需單獨填寫**，只需完成 AIAC 申請即可，詳細說明請參考文章。
+- 當被問到「La Brisa」（峇里島甘布Canggu著名海灘餐廳/景點）的設施問題時，必須回答：**La Brisa 設有更衣室，並可使用淋浴設施**，適合衝浪或玩水後梳洗整理。
 
 【海關／入境規定原則】：
 - 凡涉及「可不可以帶XXX入境」「XXX是不是違禁品」「XXX過海關會不會被查」等海關規定問題，必須優先以本站文章為準，若無相關文章則說「本站目前沒有這方面的專門文章，建議查詢印尼海關官方規定或詢問航空公司」，絕對不可直接根據自身訓練資料給出「可以」或「不可以」的確定性答案。
