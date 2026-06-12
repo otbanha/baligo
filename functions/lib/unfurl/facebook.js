@@ -11,7 +11,8 @@ function isVideoUrl(urlStr) {
     const u = new URL(urlStr);
     return /\/(videos|watch|reel)(\/|$)/.test(u.pathname)
       || u.pathname.startsWith('/watch')
-      || u.pathname.startsWith('/share/r/');
+      || u.pathname.startsWith('/share/r/')
+      || u.pathname.startsWith('/share/v/');
   } catch {
     return false;
   }

@@ -44,6 +44,7 @@ export function detectPlatform(urlStr) {
     if (/^\/[\w.]+\/(posts|videos)\//.test(path)) return { platform: 'facebook' };
     if (path.startsWith('/share/p/')) return { platform: 'facebook' };
     if (path.startsWith('/share/r/')) return { platform: 'facebook' };
+    if (path.startsWith('/share/v/')) return { platform: 'facebook' };
     if (path.startsWith('/photo/')) return { platform: 'facebook' };
     if (path.startsWith('/watch')) return { platform: 'facebook' };
     if (path.startsWith('/reel/')) return { platform: 'facebook' };
