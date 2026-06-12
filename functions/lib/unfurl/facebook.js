@@ -9,7 +9,9 @@
 function isVideoUrl(urlStr) {
   try {
     const u = new URL(urlStr);
-    return /\/(videos|watch|reel)(\/|$)/.test(u.pathname) || u.pathname.startsWith('/watch');
+    return /\/(videos|watch|reel)(\/|$)/.test(u.pathname)
+      || u.pathname.startsWith('/watch')
+      || u.pathname.startsWith('/share/r/');
   } catch {
     return false;
   }
@@ -43,6 +45,7 @@ async function resolveFbWatch(urlStr) {
 export async function handleFacebook(url) {
   const resolvedUrl = await resolveFbWatch(url);
   const isVideo = isVideoUrl(resolvedUrl) || isVideoUrl(url);
+  const isReel = /\/(reel|share\/r)\//.test(resolvedUrl) || /\/(reel|share\/r)\//.test(url);
 
   const iframeUrl = isVideo
     ? `https://www.facebook.com/plugins/video.php?href=${encodeURIComponent(resolvedUrl)}&show_text=false&width=560`
@@ -57,7 +60,7 @@ export async function handleFacebook(url) {
       url: resolvedUrl,
       iframeUrl,
       iframeHeight: isVideo ? 315 : 500,
-      iframeRatio: isVideo ? '16:9' : '4:5',
+      iframeRatio: isReel ? '9:16' : (isVideo ? '16:9' : '4:5'),
       script: 'https://connect.facebook.net/zh_TW/sdk.js#xfbml=1&version=v18.0',  // 保留供 renderEmbedCard 使用
     },
     data: {
