@@ -438,6 +438,16 @@ const T = {
 }[lang] ?? {} as any;
 
 const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'zh-hk' ? 'zh-HK' : 'zh-TW';
+
+// ── Day-by-Day 行程表資料（僅 zh-TW 啟用） ─────────────────────────────
+// define:vars 會把腳本以 inline 方式輸出（不走 bundler），因此無法在腳本內 import。
+// 改由 frontmatter import 資料，序列化成 JSON 後透過 define:vars 傳入瀏覽器，
+// 客戶端再以 buildDayByDay() 重建逐日行程（演算法與 src/data/generateItinerary.ts 對齊）。
+import { tripPlannerSpots } from '../data/tripPlannerSpots';
+import { regionTravelMatrix } from '../data/regionTravelMatrix';
+const itineraryEnabled = lang === 'zh-tw';
+const itinSpots = itineraryEnabled ? tripPlannerSpots : [];
+const itinMatrix = itineraryEnabled ? regionTravelMatrix : [];
 ---
 
 <main id="planner">
@@ -684,6 +694,10 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
       </div>
 
       <div id="route-tip"></div>
+
+      <!-- Day-by-Day 逐日行程表（zh-TW，core differentiator：分區交通時間） -->
+      <div id="daybyday-section"></div>
+
       <div id="spots-section"></div>
       <div id="region-sections"></div>
       <div id="interest-extras"></div>
@@ -873,7 +887,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
   </div>
 </div>
 
-<script define:vars={{ lang }}>
+<script define:vars={{ lang, itinSpots, itinMatrix, itineraryEnabled }}>
 // ── Client-side i18n for buttons ─────────────────────────────────────
 const clientT = {
   'zh-tw': { btnRestore: '↩️ 載入上次旅程', btnExportCopied: '✅ 已複製！', spotLearnMore: '了解更多 ↗' },
@@ -881,6 +895,499 @@ const clientT = {
   'zh-cn': { btnRestore: '↩️ 载入上次旅程', btnExportCopied: '✅ 已复制！', spotLearnMore: '了解更多 ↗' },
   'en': { btnRestore: '↩️ Load Last Trip', btnExportCopied: '✅ Copied!', spotLearnMore: 'Learn More ↗' },
 }[lang] || { btnRestore: '↩️ Load Last Trip', btnExportCopied: '✅ Copied!', spotLearnMore: 'Learn More ↗' };
+
+// ════════════════════════════════════════════════════════════════════
+// Day-by-Day 逐日行程表（演算法移植自 src/data/generateItinerary.ts）
+// 僅 zh-TW 啟用。資料由 frontmatter 經 define:vars 傳入（itinSpots / itinMatrix）。
+// ════════════════════════════════════════════════════════════════════
+const ITIN = (function initItinerary() {
+  if (!itineraryEnabled) return null;
+
+  const SPOTS = itinSpots;
+  const SPOT_BY_ID = Object.fromEntries(SPOTS.map(s => [s.id, s]));
+
+  // 車程矩陣索引
+  const MATRIX = new Map();
+  itinMatrix.forEach(t => MATRIX.set(t.from + '|' + t.to, t));
+  function getTravel(from, to) {
+    if (from === to) return { from, to, normalMinutes: 0, peakMinutes: 0 };
+    const f = MATRIX.get(from + '|' + to);
+    if (f) return f;
+    const r = MATRIX.get(to + '|' + from);
+    if (r) return { from, to, normalMinutes: r.normalMinutes, peakMinutes: r.peakMinutes, note: r.note };
+    return { from, to, normalMinutes: 60, peakMinutes: 100, note: '車程為粗略估算，請以實際路況為準' };
+  }
+
+  // UI 區域鍵（REGIONS）→ 演算法 RegionId
+  const UI_REGION_TO_ID = {
+    kuta: 'kuta', seminyak: 'seminyak', canggu: 'canggu', ubud: 'ubud',
+    jimbaran: 'jimbaran', uluwatu: 'uluwatu', nusadua: 'nusa-dua', sanur: 'sanur',
+    penida: 'nusa-penida', lembongan: 'lembongan', komodo: 'komodo', east: 'east-bali',
+  };
+  // UI companion 鍵 → Audience
+  const UI_COMPANION = { solo:'solo', couple:'couple', family:'family', friends:'friends', elder:'elderly', group:'group' };
+
+  const DAYS_MAP = { '4':4, '5':5, '68':7, '9':10 };
+  const MAX_CHANGES = { '4':0, '5':1, '68':2, '9':3 };
+  const CLUSTERS = [['kuta','seminyak','canggu'], ['jimbaran','uluwatu','nusa-dua']];
+  const AIRPORT_NEAR = new Set(['kuta','seminyak','canggu','jimbaran','uluwatu','nusa-dua','sanur']);
+  const OFFSHORE = new Set(['nusa-penida','lembongan','komodo']);
+  const SLOT_ORDER = ['sunrise','morning','afternoon','sunset','evening'];
+  const ROUTE_PRIORITY = ['kuta','seminyak','canggu','ubud','east-bali','sanur','nusa-penida','lembongan','komodo','nusa-dua','uluwatu','jimbaran'];
+  const REGION_LABEL = {
+    ubud:'烏布', kuta:'庫塔', seminyak:'水明漾', canggu:'長谷', jimbaran:'金巴蘭',
+    uluwatu:'烏魯瓦圖', 'nusa-dua':'努沙杜瓦', sanur:'沙努爾', 'nusa-penida':'努沙佩尼達',
+    lembongan:'藍夢島', 'east-bali':'東部峇里', komodo:'科摩多島',
+  };
+  const REGION_EMOJI = {
+    ubud:'🌿', kuta:'🏖️', seminyak:'💅', canggu:'☕', jimbaran:'🦞', uluwatu:'🌅',
+    'nusa-dua':'🏨', sanur:'⛵', 'nusa-penida':'🤿', lembongan:'🏝️', 'east-bali':'⛩️', komodo:'🦎',
+  };
+  // RegionId → 既有 REGIONS 鍵（住宿攻略連結用）
+  const ID_TO_UI_REGION = {
+    kuta:'kuta', seminyak:'seminyak', canggu:'canggu', ubud:'ubud', jimbaran:'jimbaran',
+    uluwatu:'uluwatu', 'nusa-dua':'nusadua', sanur:'sanur', 'nusa-penida':'penida',
+    lembongan:'lembongan', 'east-bali':'east', komodo:'komodo',
+  };
+  const DAILY_TRANSIT_BUFFER = 2, DAILY_HOUR_CAP = 10;
+
+  function clusterOf(r) { const c = CLUSTERS.find(cl => cl.includes(r)); return c || [r]; }
+  function sameCluster(a, b) { return a === b || CLUSTERS.some(cl => cl.includes(a) && cl.includes(b)); }
+  function label(r) { return REGION_LABEL[r] || r; }
+  function matchAud(sp, comp) { return sp.audience.includes(comp); }
+  function passInt(sp, comp) { return !(comp === 'elderly' && sp.intensity === 3); }
+  function dailyCap(comp) { return comp === 'elderly' ? 2 : comp === 'family' ? 3 : 4; }
+
+  function defaultRegions(days) {
+    if (days === '4') return ['kuta'];
+    if (days === '5') return ['kuta','ubud'];
+    if (days === '68') return ['kuta','ubud','sanur','nusa-penida'];
+    return ['kuta','ubud','sanur','uluwatu','nusa-penida'];
+  }
+
+  function groupByCluster(regions) {
+    const groups = [];
+    const indexByKey = new Map();
+    for (const r of regions) {
+      const key = clusterOf(r).join(',');
+      const idx = indexByKey.get(key);
+      if (idx !== undefined) {
+        groups[idx].push(r);
+      } else {
+        indexByKey.set(key, groups.length);
+        groups.push([r]);
+      }
+    }
+    return groups;
+  }
+
+  function applyBaseLimit(ordered, maxBases, days, weight) {
+    const mainland = ordered.filter(r => !OFFSHORE.has(r));
+    const offshore = ordered.filter(r => OFFSHORE.has(r));
+    const numDays = DAYS_MAP[days];
+    const keptO = [], dropO = [];
+    if (numDays >= 5 && offshore.length) { keptO.push(offshore[0]); dropO.push(...offshore.slice(1)); }
+    else dropO.push(...offshore);
+
+    // 跳島佔用的天數（9 天以上住一晚算 2 天，否則整天來回算 1 天）
+    const offshoreNights = days === '9' ? 2 : 1;
+    const offshoreDays = keptO.length * offshoreNights;
+
+    // 本島住宿區最多可保留的「區域數」= 總天數 - 跳島佔用天數（每區至少住一晚，
+    // 否則總天數會超出使用者選擇的天數）。以聚落為單位捨去，避免拆散同聚落的區域。
+    const maxMainlandRegions = Math.max(1, numDays - offshoreDays);
+    const clusters = groupByCluster(mainland);
+    const keptClusters = [], droppedClusters = [];
+    let regionCount = 0;
+    for (const cluster of clusters) {
+      if (keptClusters.length === 0 || regionCount + cluster.length <= maxMainlandRegions) {
+        keptClusters.push(cluster);
+        regionCount += cluster.length;
+      } else {
+        droppedClusters.push(cluster);
+      }
+    }
+    const keptMainland = keptClusters.flat();
+    const droppedMainland = droppedClusters.flat();
+
+    // 超過建議住宿區數量（但天數仍容許保留）的部分標記為 advisory（僅提醒，不捨去）
+    const advisory = keptClusters.slice(maxBases).flat();
+
+    return { kept: [...keptMainland, ...keptO], dropped: [...droppedMainland, ...dropO], advisory };
+  }
+
+  // 區域到機場的車程估算（AIRPORT_NEAR 視為 0，其餘取到最近 AIRPORT_NEAR 區的車程）
+  function airportDistance(region) {
+    if (AIRPORT_NEAR.has(region)) return 0;
+    let min = Infinity;
+    AIRPORT_NEAR.forEach(near => {
+      const tt = getTravel(region, near);
+      if (tt.normalMinutes < min) min = tt.normalMinutes;
+    });
+    return min;
+  }
+
+  function routeOrder(regions) {
+    const set = new Set(regions);
+    let ord = ROUTE_PRIORITY.filter(r => set.has(r));
+    for (const r of regions) if (!ord.includes(r)) ord.push(r);
+    const last = ord[ord.length - 1];
+    if (ord.length > 1 && !AIRPORT_NEAR.has(last)) {
+      let moved = false;
+      for (let i = 0; i < ord.length - 1; i++) {
+        const cluster = clusterOf(ord[i]);
+        if (cluster.length > 1 && cluster.some(c => AIRPORT_NEAR.has(c) && set.has(c))) {
+          const members = ord.filter(x => cluster.includes(x));
+          ord = ord.filter(x => !cluster.includes(x));
+          const nearIdx = members.findIndex(m => AIRPORT_NEAR.has(m));
+          if (nearIdx >= 0 && nearIdx !== members.length - 1) {
+            const [near] = members.splice(nearIdx, 1);
+            members.push(near);
+          }
+          ord.push(...members);
+          moved = true;
+          break;
+        }
+      }
+      if (!moved) {
+        // 都不在 AIRPORT_NEAR：選離機場車程最短的排最後
+        let bestIdx = ord.length - 1;
+        let bestDist = airportDistance(last);
+        for (let j = 0; j < ord.length - 1; j++) {
+          const d = airportDistance(ord[j]);
+          if (d < bestDist) { bestDist = d; bestIdx = j; }
+        }
+        if (bestIdx !== ord.length - 1) {
+          const [r] = ord.splice(bestIdx, 1); ord.push(r);
+        }
+      }
+    }
+    return ord;
+  }
+
+  function planBaseRegions(input) {
+    const maxBases = MAX_CHANGES[input.days] + 1;
+    const selected = new Set(input.regions);
+    input.spotIds.forEach(id => { const s = SPOT_BY_ID[id]; if (s) selected.add(s.region); });
+    const weight = new Map();
+    input.spotIds.forEach(id => { const s = SPOT_BY_ID[id]; if (s) weight.set(s.region, (weight.get(s.region)||0)+1); });
+    let cand = selected.size === 0 ? defaultRegions(input.days) : [...selected];
+    const ordered = [...cand].sort((a, b) => {
+      const ao = OFFSHORE.has(a)?1:0, bo = OFFSHORE.has(b)?1:0;
+      if (ao !== bo) return ao - bo;
+      return (weight.get(b)||0) - (weight.get(a)||0);
+    });
+    const { kept, dropped, advisory } = applyBaseLimit(ordered, maxBases, input.days, weight);
+
+    const offshoreKept = kept.filter(r => OFFSHORE.has(r));
+    let mainlandKept = kept.filter(r => !OFFSHORE.has(r));
+
+    // 跳島需搭快艇，建議前一晚住在沙努爾或努沙杜瓦（快艇主要由 Sanur 出發）
+    if (offshoreKept.length > 0 && !mainlandKept.some(r => r === 'sanur' || r === 'nusa-dua')) {
+      mainlandKept = [...mainlandKept, 'sanur'];
+    }
+
+    // 依機場友善的路線順序排列（離開日要落在離機場近的區，同聚落的區保持相鄰）
+    let orderedMainland = routeOrder(mainlandKept);
+
+    // 若沙努爾／努沙杜瓦被排在本島行程最後一位，且還有其他離機場近的區可以收尾，
+    // 與該區對調，讓跳島能安排在沙努爾／努沙杜瓦的住宿期間（而非行程最後一天）
+    if (offshoreKept.length > 0 && orderedMainland.length > 1) {
+      const lastIdx = orderedMainland.length - 1;
+      const last = orderedMainland[lastIdx];
+      if (last === 'sanur' || last === 'nusa-dua') {
+        for (let i = lastIdx - 1; i >= 0; i--) {
+          if (AIRPORT_NEAR.has(orderedMainland[i])) {
+            const tmp = orderedMainland[i];
+            orderedMainland[i] = orderedMainland[lastIdx];
+            orderedMainland[lastIdx] = tmp;
+            break;
+          }
+        }
+      }
+    }
+
+    const baseRegions = [...orderedMainland, ...offshoreKept];
+    return { baseRegions, dropped, advisory };
+  }
+
+  function allocateDays(baseRegions, numDays, offshoreNights) {
+    const mainland = baseRegions.filter(r => !OFFSHORE.has(r));
+    const offshore = baseRegions.filter(r => OFFSHORE.has(r));
+    const mainlandDays = Math.max(mainland.length, numDays - offshore.length * offshoreNights);
+    const n = mainland.length || 1;
+    const base = Math.floor(mainlandDays / n);
+    let rem = mainlandDays - base * n;
+    const nights = mainland.map(() => { let d = base; if (rem > 0) { d++; rem--; } return d; });
+    return { mainland, offshore, nights };
+  }
+
+  function candidateSpots(region, input, used, arrivalDay) {
+    const cl = clusterOf(region);
+    // 抵達日航班通常下午才到，扣除入境通關與前往住宿區的車程，
+    // 行程只限當天住宿區本身，不排同聚落其他區的景點（避免下飛機就殺去隔壁區）
+    const picked = input.spotIds.map(id => SPOT_BY_ID[id]).filter(s => s && (arrivalDay ? s.region === region : cl.includes(s.region)) && !used.has(s.id));
+    // 自動補位的景點限定在當天住宿區本身，或同聚落中使用者也有勾選的區域
+    // （例如選了 seminyak + canggu，canggu 的景點仍要排得進去）
+    const filler = SPOTS.filter(s =>
+      (s.region === region || (!arrivalDay && cl.includes(s.region) && input.regions.includes(s.region))) &&
+      !used.has(s.id) && !s.isFullDay &&
+      matchAud(s, input.companion) && passInt(s, input.companion) && !input.spotIds.includes(s.id));
+    // 優先排當天住宿區自己的景點，同聚落其他區的景點留作補位；
+    // family 則再把含 family 標籤者排前
+    filler.sort((a, b) => {
+      const ar = a.region === region ? 0 : 1;
+      const br = b.region === region ? 0 : 1;
+      if (ar !== br) return ar - br;
+      if (input.companion === 'family') {
+        const af = a.audience.includes('family') ? 0 : 1;
+        const bf = b.audience.includes('family') ? 0 : 1;
+        if (af !== bf) return af - bf;
+      }
+      return 0;
+    });
+    return [...picked, ...filler];
+  }
+
+  function fillSlots(cands, cap, arrivalOnly, allowedOverride) {
+    const allowed = allowedOverride || (arrivalOnly ? ['afternoon','evening'] : SLOT_ORDER);
+    const usedSlots = new Set(), chosen = [];
+    let hours = 0;
+    for (const sp of cands) {
+      if (chosen.length >= cap) break;
+      if (hours + sp.durationHours + DAILY_TRANSIT_BUFFER > DAILY_HOUR_CAP) continue;
+      let slot;
+      if (sp.allowedTimes && sp.allowedTimes.length) {
+        slot = sp.allowedTimes.find(s => allowed.includes(s) && !usedSlots.has(s));
+        if (!slot) continue; // 限定時段排不下，跳過此景點
+      } else if (sp.bestTime !== 'any' && allowed.includes(sp.bestTime) && !usedSlots.has(sp.bestTime)) {
+        slot = sp.bestTime;
+      } else {
+        slot = allowed.find(s => !usedSlots.has(s));
+        if (!slot) continue;
+      }
+      usedSlots.add(slot); chosen.push({ time: slot, spot: sp }); hours += sp.durationHours;
+    }
+    chosen.sort((a, b) => SLOT_ORDER.indexOf(a.time) - SLOT_ORDER.indexOf(b.time));
+    return chosen;
+  }
+
+  // 該日實際排入景點所在的區域（多數決），同聚落收斂成一個住宿基地時各天標題仍能反映實際活動區域
+  function displayRegion(slots, baseRegion) {
+    if (!slots.length) return baseRegion;
+    const counts = new Map();
+    slots.forEach(s => counts.set(s.spot.region, (counts.get(s.spot.region)||0) + 1));
+    let best = baseRegion, bestCount = counts.get(baseRegion) || 0;
+    counts.forEach((count, region) => { if (count > bestCount) { best = region; bestCount = count; } });
+    return best;
+  }
+
+  // 跳島若被排在最後一天，搬到第二天之後，並重新計算編號/抵達離開日/換區提示
+  function moveOffshoreToMiddle(days) {
+    if (!days.length) return days;
+    const last = days[days.length - 1];
+    if (!last.isFullDayTrip) return days;
+    const offshoreDays = days.filter(d => d.isFullDayTrip);
+    const mainlandDays = days.filter(d => !d.isFullDayTrip);
+    if (mainlandDays.length <= 1) return days;
+    // 排在第一個住宿區的「最後一天」之後（即同一住宿區的天數排完才跳島）
+    let insertPos = 1;
+    while (insertPos < mainlandDays.length && mainlandDays[insertPos].region === mainlandDays[0].region) {
+      insertPos++;
+    }
+    const reordered = [...mainlandDays.slice(0, insertPos), ...offshoreDays, ...mainlandDays.slice(insertPos)];
+    let prev = null;
+    reordered.forEach((day, idx) => {
+      day.dayNumber = idx + 1;
+      day.isArrivalDay = idx === 0;
+      day.isDepartureDay = false;
+      const prevWasOffshore = idx > 0 && reordered[idx - 1].isFullDayTrip;
+      const prevWasOvernightOffshore = prevWasOffshore && idx > 1 && reordered[idx - 2].isFullDayTrip && reordered[idx - 2].region === reordered[idx - 1].region;
+      if (day.isFullDayTrip) {
+        if (prevWasOffshore && reordered[idx - 1].region === day.region) {
+          day.isTravelDay = false; delete day.travelFrom; delete day.travelNote;
+        } else {
+          const base = reordered[idx - 1].checkInRegion || reordered[idx - 1].region;
+          day.isTravelDay = true; day.travelFrom = base; day.travelNote = travelNote(base, day.region);
+        }
+      } else if (prevWasOffshore && day.checkInRegion) {
+        // 這天原本是「上午仍在前一住宿區、下午入住新住宿區」的換區日，
+        // 但跳島插入後，前一天傍晚跳島結束就會直接入住新住宿區，
+        // 因此這天上午不再回前一住宿區，整天都在新住宿區。
+        const dropCount = day.checkInAfterSlots ?? 0;
+        day.slots = day.slots.slice(dropCount);
+        day.region = day.checkInRegion;
+        day.displayRegion = displayRegion(day.slots, day.region);
+        delete day.checkInRegion;
+        delete day.checkInAfterSlots;
+        if (prevWasOvernightOffshore) {
+          day.isTravelDay = true; day.travelFrom = prev; day.travelNote = travelNote(prev, day.region);
+        } else {
+          day.isTravelDay = false; delete day.travelFrom; delete day.travelNote;
+          const offshoreDay = reordered[idx - 1];
+          offshoreDay.checkInRegion = day.region;
+          offshoreDay.checkInAfterSlots = offshoreDay.slots.length;
+        }
+      } else if (prevWasOffshore && prevWasOvernightOffshore) {
+        day.isTravelDay = true; day.travelFrom = prev; day.travelNote = travelNote(prev, day.region);
+      } else if (prevWasOffshore) {
+        day.isTravelDay = false; delete day.travelFrom; delete day.travelNote;
+      } else if (prev !== null && prev !== day.region) {
+        day.isTravelDay = true; day.travelFrom = prev; day.travelNote = travelNote(prev, day.region);
+      } else {
+        day.isTravelDay = false; delete day.travelFrom; delete day.travelNote;
+      }
+      prev = day.checkInRegion || day.region;
+    });
+    return reordered;
+  }
+
+  function travelNote(from, to) {
+    const tt = getTravel(from, to);
+    const fL = label(from), tL = label(to);
+    if (tt.normalMinutes >= 999) return fL + ' → ' + tL + (tt.note ? '｜' + tt.note : '');
+    const nH = (tt.normalMinutes/60).toFixed(1).replace(/\.0$/, '');
+    const pH = (tt.peakMinutes/60).toFixed(1).replace(/\.0$/, '');
+    let n = fL + ' → ' + tL + '｜車程約 ' + tt.normalMinutes + '–' + tt.peakMinutes + ' 分（約 ' + nH + '–' + pH + ' 小時）';
+    if (tt.peakMinutes - tt.normalMinutes >= 35) n += '，傍晚尖峰會塞，建議 15:00 前出發';
+    if (tt.note) n += '｜' + tt.note;
+    return n;
+  }
+
+  function tradeoffNote(dropped, advisory, days) {
+    const numDays = DAYS_MAP[days], maxCh = MAX_CHANGES[days];
+    const notes = [];
+    if (dropped.length) {
+      const parts = dropped.map(r => OFFSHORE.has(r) ? label(r) + '（建議下次專程 ' + (r === 'komodo' ? 3 : 2) + ' 天）' : label(r));
+      notes.push(numDays + ' 天天數較難安排整天跳島，建議下次再專程安排：' + parts.join('、'));
+    }
+    if (advisory.length) {
+      const parts = advisory.map(r => label(r));
+      notes.push(numDays + ' 天建議最多 ' + (maxCh + 1) + ' 個住宿區會比較不趕，已盡量把你想去的區域都排進行程；若想更悠閒，可以考慮把 ' + parts.join('、') + ' 留到下次再專程安排。');
+    }
+    return notes.length ? notes.join('\n') : null;
+  }
+
+  function generate(input) {
+    const numDays = DAYS_MAP[input.days];
+    const { baseRegions, dropped, advisory } = planBaseRegions(input);
+    // 9 天以上且有選離島：建議該離島住一晚（2 天），否則維持整天跳島來回（1 天）
+    const offshoreNights = input.days === '9' ? 2 : 1;
+    const { mainland, offshore, nights } = allocateDays(baseRegions, numDays, offshoreNights);
+    const used = new Set(), days = [], offQ = [...offshore];
+    let dayNum = 0, prev = null, prevWasTransition = false;
+
+    for (let mi = 0; mi < mainland.length; mi++) {
+      const region = mainland[mi], stay = nights[mi], isLast = mi === mainland.length - 1;
+      const nextRegion = mainland[mi + 1];
+      const hasRegionChangeAfter = nextRegion !== undefined && !sameCluster(region, nextRegion);
+      // 此住宿區結束後會緊接跳島（從本區出發搭快艇），最後一晚不適用換區提前入住邏輯
+      const willInjectOffshoreAfter = offQ.length > 0 && (region === 'sanur' || isLast);
+      for (let d = 0; d < stay; d++) {
+        dayNum++;
+        const isArr = dayNum === 1;
+        // 行程最後一天（離開日）：當天要搭機離開，不換住宿區，整天留在前一個住宿區
+        const isLastDayOverall = isLast && d === stay - 1 && !willInjectOffshoreAfter;
+        const willChange = prev !== null && !sameCluster(prev, region) && d === 0;
+        const changed = willChange && !isLastDayOverall;
+        // 離開日若原本要換區，當天就留在前一個住宿區，不換到新的住宿區
+        const effectiveRegion = willChange && isLastDayOverall ? prev : region;
+        // 換區當天下午即入住下一個住宿區，因此最後一晚的下午/晚上行程改排在下一區
+        const isTransition = hasRegionChangeAfter && d === stay - 1 && !isArr && !willInjectOffshoreAfter && stay > 1;
+        const day = { dayNumber: dayNum, region: effectiveRegion, slots: [] };
+        if (isArr) day.isArrivalDay = true;
+        const cap = dailyCap(input.companion);
+        if (isTransition) {
+          day.isTravelDay = true; day.travelFrom = region; day.travelNote = travelNote(region, nextRegion);
+          const morningCands = candidateSpots(region, input, used);
+          const morningSlots = fillSlots(morningCands, 1, false, ['sunrise','morning']);
+          morningSlots.forEach(s => used.add(s.spot.id));
+          const afternoonCands = candidateSpots(nextRegion, input, used);
+          const afternoonSlots = fillSlots(afternoonCands, Math.max(cap - 1, 1), false, ['afternoon','evening']);
+          afternoonSlots.forEach(s => used.add(s.spot.id));
+          const slots = [...morningSlots, ...afternoonSlots];
+          day.slots = slots;
+          day.displayRegion = displayRegion(slots, region);
+          day.checkInRegion = nextRegion;
+          day.checkInAfterSlots = morningSlots.length;
+        } else if (changed && !prevWasTransition) {
+          // 換區日：早上活動仍在前一個住宿區（退房前），下午前往新住宿區並入住
+          day.isTravelDay = true; day.travelFrom = prev; day.travelNote = travelNote(prev, region);
+          const morningCands = candidateSpots(prev, input, used);
+          const morningSlots = fillSlots(morningCands, 1, false, ['sunrise','morning']);
+          morningSlots.forEach(s => used.add(s.spot.id));
+          const afternoonCands = candidateSpots(region, input, used);
+          const afternoonSlots = fillSlots(afternoonCands, Math.max(cap - 1, 1), false, ['afternoon','evening']);
+          afternoonSlots.forEach(s => used.add(s.spot.id));
+          const slots = [...morningSlots, ...afternoonSlots];
+          day.slots = slots;
+          day.displayRegion = displayRegion(slots, region);
+          day.checkInRegion = region;
+          day.checkInAfterSlots = morningSlots.length;
+        } else {
+          const cands = candidateSpots(effectiveRegion, input, used, isArr);
+          const slots = fillSlots(cands, isArr ? 2 : cap, isArr);
+          slots.forEach(s => used.add(s.spot.id));
+          day.slots = slots;
+          day.displayRegion = displayRegion(slots, effectiveRegion);
+        }
+        prevWasTransition = isTransition;
+        days.push(day);
+        prev = region;
+      }
+      if (offQ.length && (region === 'sanur' || isLast)) {
+        while (offQ.length && dayNum < numDays) {
+          const off = offQ.shift();
+          let pool = SPOTS.filter(s => s.region === off && s.isFullDay && matchAud(s, input.companion));
+          if (!pool.length) pool = SPOTS.filter(s => s.region === off && s.isFullDay);
+          const stayNights = Math.min(offshoreNights, numDays - dayNum);
+          for (let on = 0; on < stayNights; on++) {
+            dayNum++;
+            const spot = pool.find(s => !used.has(s.id)) ?? pool[0];
+            const pick = spot ? [spot] : [];
+            pick.forEach(s => used.add(s.id));
+            const day = { dayNumber: dayNum, region: off, isFullDayTrip: true, isTravelDay: on === 0,
+              slots: pick.map(s => ({ time: 'morning', spot: s })) };
+            if (on === 0) { day.travelFrom = region; day.travelNote = travelNote(region, off); }
+            days.push(day);
+          }
+        }
+      }
+    }
+
+    const ordered = [...moveOffshoreToMiddle(days)];
+    days.length = 0;
+    days.push(...ordered);
+
+    const last = days[days.length - 1];
+    if (last && !last.isFullDayTrip) {
+      // 離開日當天要搭機離開，不換住宿區：若這天原本是「換區入住」日，改回前一個住宿區出發
+      if (last.checkInRegion) {
+        last.region = last.travelFrom ?? last.region;
+        delete last.checkInRegion;
+        delete last.checkInAfterSlots;
+        delete last.isTravelDay;
+        delete last.travelFrom;
+        delete last.travelNote;
+      }
+      last.isDepartureDay = true;
+      // 離開日統一改為「早上旅館放鬆、或機場附近採買伴手禮」，不再排 SPA 等其他活動
+      last.slots = [{ time: 'morning', spot: {
+        id: 'departure_souvenir', name: '旅館放鬆、或機場附近採買伴手禮', region: last.region,
+        durationHours: 2, bestTime: 'morning',
+        audience: ['solo','couple','family','friends','elderly','group'], intensity: 1,
+        blogUrl: '/blog/bali-souvenirs-gift-guide/',
+      } }];
+      last.displayRegion = last.region;
+    }
+
+    return { days, tradeoffNote: tradeoffNote(dropped, advisory, input.days), baseRegions: mainland.concat(offshore) };
+  }
+
+  const SLOT_LABEL = { sunrise:'🌅 日出', morning:'☀️ 上午', afternoon:'🌤️ 下午', sunset:'🌇 傍晚', evening:'🌙 晚上' };
+
+  return { generate, label, REGION_EMOJI, ID_TO_UI_REGION, UI_REGION_TO_ID, UI_COMPANION, SLOT_LABEL };
+})();
 
 // ── Spot tag translation for zh-cn / en ──────────────────────────────
 const SPOT_TAG_MAP = lang === 'en' ? {
@@ -2091,6 +2598,116 @@ function langUrl(url) {
   return (lang !== 'zh-tw' && url.startsWith('/')) ? `/${lang}${url}` : url;
 }
 
+// ── Day-by-Day 行程表渲染（zh-TW） ────────────────────────────────────
+function escHtml(s) {
+  return String(s).replace(/&/g, '&amp;').replace(/</g, '&lt;').replace(/>/g, '&gt;');
+}
+
+function buildDayByDay() {
+  const host = document.getElementById('daybyday-section');
+  if (!host) return null;
+  if (!ITIN) { host.innerHTML = ''; return null; }
+
+  // 把 UI state 映射成 ItineraryInput
+  const companion = ITIN.UI_COMPANION[state.companion] || 'friends';
+  const days = state.days || '5';
+  const regions = (state.areas || [])
+    .map(a => ITIN.UI_REGION_TO_ID[a])
+    .filter(Boolean);
+  // state.allSpots 內含 chip 的 data-val；generate() 內部會忽略未知 id
+  const spotIds = state.allSpots || [];
+
+  let result;
+  try {
+    result = ITIN.generate({ companion, days, regions, spotIds });
+  } catch (e) {
+    console.error('[trip-planner] day-by-day generate failed', e);
+    host.innerHTML = '';
+    return null;
+  }
+  if (!result || !result.days.length) { host.innerHTML = ''; return null; }
+
+  const head = '<div class="dbd-head"><h3 class="section-title">🗓️ 你的逐日行程表</h3>'
+    + '<p class="dbd-sub">依分區交通時間排好的每日建議，換區時會提醒車程與塞車。</p></div>';
+
+  const tradeoff = result.tradeoffNote
+    ? `<div class="dbd-tradeoff"><span>⚖️</span><span>${escHtml(result.tradeoffNote).replace(/\n/g, '<br>')}</span></div>`
+    : '';
+
+  const cards = result.days.map(renderDayCard).join('');
+
+  host.innerHTML = `<div class="results-section dbd-section">${head}${tradeoff}<div class="dbd-days">${cards}</div></div>`;
+  return result;
+}
+
+function renderDayCard(day) {
+  const dispRegion = day.displayRegion || day.region;
+  const emoji = ITIN.REGION_EMOJI[dispRegion] || '📍';
+  const regionName = ITIN.label(dispRegion);
+  const accomRegion = day.checkInRegion || day.region;
+  const accomEmoji = ITIN.REGION_EMOJI[accomRegion] || '📍';
+  const accomName = ITIN.label(accomRegion);
+
+  const badges = [];
+  if (day.isArrivalDay) badges.push('<span class="dbd-badge arrival">抵達日</span>');
+  if (day.isDepartureDay) badges.push('<span class="dbd-badge departure">離開日</span>');
+  if (day.isFullDayTrip) badges.push('<span class="dbd-badge fullday">整天跳島</span>');
+
+  const travel = day.travelNote
+    ? `<div class="dbd-travel"><span class="dbd-travel-ico">🚗</span><span>${escHtml(day.travelNote)}</span></div>`
+    : '';
+
+  let slotsHtml;
+  if (!day.slots.length) {
+    slotsHtml = '<div class="dbd-slot dbd-slot-rest"><span class="dbd-time">😌 自由活動</span>'
+      + '<span class="dbd-spot-name">放鬆日：海灘、泳池或飯店設施，依體力彈性安排</span></div>';
+  } else {
+    const slotDivs = day.slots.map(s => {
+      const t = ITIN.SLOT_LABEL[s.time] || s.time;
+      const sp = s.spot;
+      const link = sp.blogUrl
+        ? `<a class="dbd-spot-link" href="${langUrl(sp.blogUrl)}" target="_blank" rel="noopener">深入攻略 →</a>`
+        : '';
+      const dur = `<span class="dbd-dur">約 ${sp.durationHours} 小時</span>`;
+      return `<div class="dbd-slot"><span class="dbd-time">${t}</span>`
+        + `<div class="dbd-spot"><span class="dbd-spot-name">${escHtml(sp.name)}</span>${dur}${link}</div></div>`;
+    });
+
+    // 換區當天：在入住前/後的景點之間插入「入住 XX」提示
+    if (day.checkInRegion && day.checkInAfterSlots != null) {
+      const ckRegion = day.checkInRegion;
+      const ckUiKey = ITIN.ID_TO_UI_REGION[ckRegion];
+      const ckReg = ckUiKey ? REGIONS[ckUiKey] : null;
+      const ckName = ITIN.label(ckRegion);
+      const ckEmoji = ITIN.REGION_EMOJI[ckRegion] || '📍';
+      const ckLink = ckReg && ckReg.guide
+        ? `<a href="${langUrl(ckReg.guide.url)}" target="_blank" rel="noopener">${ckEmoji} ${escHtml(ckName)}住宿推薦 →</a>`
+        : `${ckEmoji} ${escHtml(ckName)}`;
+      const checkInHtml = `<div class="dbd-checkin"><span class="dbd-checkin-ico">🏨</span>`
+        + `<span>入住${escHtml(ckName)} → ${ckLink}</span></div>`;
+      slotDivs.splice(day.checkInAfterSlots, 0, checkInHtml);
+    }
+
+    slotsHtml = slotDivs.join('');
+  }
+
+  // 住宿區攻略連結（沿用既有 REGIONS guide；換區當天以下午入住的新住宿區為準）
+  // 離開日當天就要搭機回國，不需要再顯示住宿推薦
+  const uiKey = ITIN.ID_TO_UI_REGION[accomRegion];
+  const reg = uiKey ? REGIONS[uiKey] : null;
+  const footer = (reg && reg.guide && !day.isDepartureDay)
+    ? `<a class="dbd-accom-link" href="${langUrl(reg.guide.url)}" target="_blank" rel="noopener">${accomEmoji} ${accomName} 住宿與完整攻略 →</a>`
+    : '';
+
+  return `<div class="dbd-card${day.isTravelDay ? ' is-travel' : ''}">`
+    + `<div class="dbd-card-head"><span class="dbd-daynum">Day ${day.dayNumber}</span>`
+    + `<span class="dbd-region">${emoji} ${escHtml(regionName)}</span>${badges.join('')}</div>`
+    + travel
+    + `<div class="dbd-slots">${slotsHtml}</div>`
+    + footer
+    + '</div>';
+}
+
 // Card format — used in highlight sections (Must-Read, Accom, Global)
 function cardHtml({title,url,tag}) {
   return `<a href="${langUrl(url)}" class="acard" target="_blank" rel="noopener"><span class="acard-tag">${tag}</span><p class="acard-title">${title}</p><span class="acard-arrow">→</span></a>`;
@@ -2421,41 +3038,60 @@ function buildAccomSection(areas) {
   return sections.join('');
 }
 
+// Applies the airport-friendly last-stop / offshore-island adjustments to an
+// already-ordered list of areas. Shared by routeOrderAreas() and the
+// day-by-day-derived order so all sections stay consistent.
+function applyRouteAdjustments(ordered) {
+  if (ordered.length < 2) return ordered;
+  const GOOD_LAST = ['jimbaran', 'uluwatu', 'nusadua', 'sanur', 'kuta', 'seminyak', 'canggu'];
+  const OFFSHORE = ['penida', 'lembongan'];
+  let result = [...ordered];
+  const currentLast = result[result.length - 1];
+  if (!GOOD_LAST.includes(currentLast)) {
+    const bestLast = GOOD_LAST.find(a => result.includes(a));
+    if (bestLast) {
+      result = [...result.filter(a => a !== bestLast), bestLast];
+    }
+  }
+  // Offshore islands must never be last — move them before sanur (their ferry hub)
+  if (OFFSHORE.includes(result[result.length - 1])) {
+    const islands = result.filter(a => OFFSHORE.includes(a));
+    const rest = result.filter(a => !OFFSHORE.includes(a));
+    const sanurIdx = rest.indexOf('sanur');
+    if (sanurIdx !== -1) {
+      rest.splice(sanurIdx, 0, ...islands);
+      result = rest;
+    } else {
+      // No sanur — put islands before the last stop
+      const last = rest.pop();
+      result = [...rest, ...islands, last];
+    }
+  }
+  return result;
+}
+
 // Returns the areas sorted by ROUTE_FLOW with airport-friendly last stop applied.
-// Used by buildRouteTip, regionSection loop, and buildAccomSection so all three stay in sync.
+// Used as a fallback when the day-by-day itinerary isn't available.
 function routeOrderAreas(areas) {
   let ordered = ROUTE_FLOW.filter(a => areas.includes(a));
   // Also append any areas not in ROUTE_FLOW (edge cases like future additions)
   areas.forEach(a => { if (!ROUTE_FLOW.includes(a) && !ordered.includes(a)) ordered.push(a); });
-  if (ordered.length < 2) return ordered;
-  const GOOD_LAST = ['jimbaran', 'uluwatu', 'nusadua', 'sanur', 'kuta', 'seminyak'];
-  const OFFSHORE = ['penida', 'lembongan'];
-  const currentLast = ordered[ordered.length - 1];
-  if (!GOOD_LAST.includes(currentLast)) {
-    const bestLast = GOOD_LAST.find(a => ordered.includes(a));
-    if (bestLast) {
-      ordered = [...ordered.filter(a => a !== bestLast), bestLast];
-    }
-  }
-  // Offshore islands must never be last — move them before sanur (their ferry hub)
-  if (OFFSHORE.includes(ordered[ordered.length - 1])) {
-    const islands = ordered.filter(a => OFFSHORE.includes(a));
-    const rest = ordered.filter(a => !OFFSHORE.includes(a));
-    const sanurIdx = rest.indexOf('sanur');
-    if (sanurIdx !== -1) {
-      rest.splice(sanurIdx, 0, ...islands);
-      ordered = rest;
-    } else {
-      // No sanur — put islands before the last stop
-      const last = rest.pop();
-      ordered = [...rest, ...islands, last];
-    }
-  }
-  return ordered;
+  return applyRouteAdjustments(ordered);
 }
 
-function buildRouteTip(areas) {
-  const ordered = routeOrderAreas(areas);
+// Derives the area order directly from the generated day-by-day itinerary,
+// so "逐日行程表" and "建議移動順序" always match.
+function dayByDayAreaOrder(result) {
+  if (!ITIN || !result || !result.days || !result.days.length) return null;
+  const ordered = [];
+  result.days.forEach(day => {
+    const area = ITIN.ID_TO_UI_REGION[day.displayRegion || day.region];
+    if (area && !ordered.includes(area)) ordered.push(area);
+  });
+  return ordered.length ? applyRouteAdjustments(ordered) : null;
+}
+
+function buildRouteTip(ordered) {
   if (ordered.length < 2) return '';
 
   const lastArea = ordered[ordered.length - 1];
@@ -2476,6 +3112,9 @@ function buildResults() {
   const { mentionedAreas, emptyDays } = analyzeItinerary(state.itinerary);
   const areas = buildTargetAreas(mentionedAreas);
 
+  // Day-by-Day 逐日行程表（zh-TW，排在推薦攻略文章區上方）
+  const dbdResult = buildDayByDay();
+
   // Summary
   const cLabel = LS.companionMap?.[state.companion] || '';
   const dLabel = LS.daysMap?.[state.days] || '';
@@ -2492,9 +3131,10 @@ function buildResults() {
     alertEl.classList.add('hidden');
   }
 
-  // Sections — use same route order for tip, region blocks, and accom
-  const orderedAreas = routeOrderAreas(areas);
-  document.getElementById('route-tip').innerHTML = buildRouteTip(areas);
+  // Sections — use same route order for tip, region blocks, and accom.
+  // Prefer the order actually used by the day-by-day itinerary so both stay in sync.
+  const orderedAreas = dayByDayAreaOrder(dbdResult) || routeOrderAreas(areas);
+  document.getElementById('route-tip').innerHTML = buildRouteTip(orderedAreas);
   document.getElementById('spots-section').innerHTML = '';
   document.getElementById('region-sections').innerHTML = orderedAreas.map(regionSection).join('');
 
@@ -3077,6 +3717,186 @@ details[open] .seo-faq-q::after { content: '−'; }
 }
 #spot-pop-link:hover { background: var(--ocean, #5D4037); color: #fff; }
 
+/* ── Day-by-Day 逐日行程表 ─────────────────────────────────────────── */
+/* 內容於 runtime 以 innerHTML 注入，須用 :global() 才能套用（同 .acard 作法） */
+:global(.dbd-section) { margin-bottom: 1.5rem; }
+:global(.dbd-head) { margin-bottom: 0.75rem; }
+:global(.dbd-sub) {
+  margin: 0.25rem 0 0;
+  font-size: 0.85rem;
+  color: var(--muted, #6b6b6b);
+  line-height: 1.5;
+}
+:global(.dbd-tradeoff) {
+  display: flex;
+  gap: 0.5rem;
+  align-items: flex-start;
+  background: #fff7e6;
+  border: 1px solid #ffd591;
+  border-radius: 10px;
+  padding: 0.7rem 0.85rem;
+  font-size: 0.85rem;
+  line-height: 1.55;
+  color: #663c00;
+  margin-bottom: 1rem;
+}
+:global(.dbd-tradeoff span:first-child) { flex: none; }
+
+:global(.dbd-days) {
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+:global(.dbd-card) {
+  border: 1px solid var(--border, #e5e0d8);
+  border-radius: 14px;
+  background: var(--card-bg, #fff);
+  padding: 0;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.06);
+  overflow: hidden;
+}
+:global(.dbd-card.is-travel) {
+  border-color: #ffd591;
+}
+:global(.dbd-card-head) {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 0.5rem;
+  margin: 0;
+  padding: 0.6rem 1rem;
+  background: var(--ocean-soft, #f3ede6);
+  border-bottom: 1px solid var(--border, #e5e0d8);
+}
+:global(.dbd-card > .dbd-travel),
+:global(.dbd-card > .dbd-slots),
+:global(.dbd-card > .dbd-accom-link) {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+:global(.dbd-card > .dbd-travel:first-of-type) {
+  margin-top: 0.85rem;
+}
+:global(.dbd-card > .dbd-slots) {
+  margin-top: 0.85rem;
+  margin-bottom: 0.9rem;
+}
+:global(.dbd-card > .dbd-accom-link) {
+  display: inline-block;
+  margin-bottom: 0.9rem;
+}
+:global(.dbd-daynum) {
+  font-weight: 800;
+  font-size: 0.95rem;
+  color: var(--ocean, #5D4037);
+  background: var(--ocean-soft, #f3ede6);
+  border-radius: 8px;
+  padding: 0.15rem 0.55rem;
+}
+:global(.dbd-region) {
+  font-weight: 700;
+  font-size: 1.02rem;
+}
+:global(.dbd-badge) {
+  font-size: 0.72rem;
+  font-weight: 700;
+  padding: 0.12rem 0.5rem;
+  border-radius: 999px;
+  line-height: 1.4;
+}
+:global(.dbd-badge.arrival)   { background: #e6f4ff; color: #0958d9; }
+:global(.dbd-badge.departure) { background: #f6ffed; color: #389e0d; }
+:global(.dbd-badge.fullday)   { background: #f9f0ff; color: #722ed1; }
+
+/* 換區交通警示 — 琥珀色塊，視覺上明顯區隔 */
+:global(.dbd-travel) {
+  display: flex;
+  gap: 0.5rem;
+  align-items: flex-start;
+  background: #fff3e0;
+  border-left: 4px solid #fa8c16;
+  border-radius: 8px;
+  padding: 0.55rem 0.7rem;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: #8a4b00;
+  margin-bottom: 0.7rem;
+}
+:global(.dbd-travel-ico) { flex: none; }
+
+/* 換區當天的入住提示 */
+:global(.dbd-checkin) {
+  display: flex;
+  gap: 0.5rem;
+  align-items: flex-start;
+  background: #e6f7ff;
+  border-left: 4px solid #1890ff;
+  border-radius: 8px;
+  padding: 0.5rem 0.7rem;
+  font-size: 0.82rem;
+  line-height: 1.5;
+  color: #0958d9;
+  margin: 0.55rem 0;
+}
+:global(.dbd-checkin-ico) { flex: none; }
+:global(.dbd-checkin a) { color: inherit; font-weight: 700; text-decoration: none; }
+:global(.dbd-checkin a:hover) { text-decoration: underline; }
+
+:global(.dbd-slots) {
+  display: flex;
+  flex-direction: column;
+  gap: 0.55rem;
+}
+:global(.dbd-slot) {
+  display: flex;
+  gap: 0.6rem;
+  align-items: baseline;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px dashed var(--border, #ece7df);
+}
+:global(.dbd-slot:last-child) { border-bottom: none; padding-bottom: 0; }
+:global(.dbd-time) {
+  flex: none;
+  width: 4.7rem;
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--muted, #7a7066);
+}
+:global(.dbd-spot) {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: baseline;
+  gap: 0.35rem 0.6rem;
+}
+:global(.dbd-spot-name) { font-weight: 600; font-size: 0.93rem; }
+:global(.dbd-dur) { font-size: 0.76rem; color: var(--muted, #9a9088); }
+:global(.dbd-spot-link) {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--ocean, #5D4037);
+  text-decoration: none;
+  white-space: nowrap;
+}
+:global(.dbd-spot-link:hover) { text-decoration: underline; }
+:global(.dbd-slot-rest .dbd-spot-name) { color: var(--muted, #8a8078); font-weight: 500; }
+
+:global(.dbd-accom-link) {
+  display: inline-block;
+  margin-top: 0.8rem;
+  font-size: 0.84rem;
+  font-weight: 700;
+  color: var(--ocean, #5D4037);
+  text-decoration: none;
+  border-top: 1px solid var(--border, #ece7df);
+  padding-top: 0.6rem;
+  width: 100%;
+}
+:global(.dbd-accom-link:hover) { text-decoration: underline; }
+
+@media (min-width: 640px) {
+  :global(.dbd-time) { width: 5.5rem; }
+}
+
 /* PDF footer — hidden on screen, shown when printing */
 .tp-pdf-footer {
   display: none;
@@ -3100,6 +3920,14 @@ details[open] .seo-faq-q::after { content: '−'; }
   :global(a) { color: var(--ocean, #5D4037) !important; text-decoration: underline; }
   :global(.acard), :global(.alist-item) { break-inside: avoid; }
   :global(.results-section) { break-inside: avoid; }
+
+  /* Day-by-Day：避免單張日卡跨頁，保留交通警示色塊 */
+  :global(.dbd-section) { break-inside: auto; }
+  :global(.dbd-card) { break-inside: avoid; }
+  :global(.dbd-travel), :global(.dbd-tradeoff) {
+    -webkit-print-color-adjust: exact;
+    print-color-adjust: exact;
+  }
 
   /* PDF footer */
   .tp-pdf-footer {
