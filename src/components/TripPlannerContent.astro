@@ -51,7 +51,7 @@ const T = {
     su_palace: '烏布皇宮', su_market: '烏布市場', su_tirta: '聖泉寺',
     su_monkey: '聖猴森林', su_terraces: '烏布梯田', su_skywalk: '烏布天空步道',
     su_coffee: '火山咖啡', su_zoo: '峇里島野生動物園', su_waterfall: '瀑布探秘',
-    su_fairy: '仙女園', su_junglepool: '烏布叢林泳池俱樂部', su_jeep: '日出火山吉普車',
+    su_fairy: '仙女園', su_junglepool: '烏布叢林泳池俱樂部', su_jeep: '日出火山吉普車', su_sunsetjeep: '日落吉普車',
     su_singing: '頌缽音療', su_swing: '叢林鞦韆', su_mario: '叢林瑪利歐賽車',
     su_food: '想吃烏布美食', u_spa: '烏布SPA', u_penglipuran: 'Penglipuran 傳統村落',
     u_cave_rafting: '洞穴漂流河',
@@ -159,7 +159,7 @@ const T = {
     su_palace: '烏布皇宮', su_market: '烏布市場', su_tirta: '聖泉寺',
     su_monkey: '聖猴森林', su_terraces: '烏布梯田', su_skywalk: '烏布天空步道',
     su_coffee: '火山咖啡', su_zoo: '峇里島野生動物園', su_waterfall: '瀑布探秘',
-    su_fairy: '仙女園', su_junglepool: '烏布叢林泳池俱樂部', su_jeep: '日出火山吉普車',
+    su_fairy: '仙女園', su_junglepool: '烏布叢林泳池俱樂部', su_jeep: '日出火山吉普車', su_sunsetjeep: '日落吉普車',
     su_singing: '頌缽音療', su_swing: '叢林鞦韆', su_mario: '叢林瑪利歐賽車',
     su_food: '食烏布美食', u_spa: '烏布SPA', u_penglipuran: 'Penglipuran 傳統村落',
     u_cave_rafting: '洞穴漂流河',
@@ -267,7 +267,7 @@ const T = {
     su_palace: '乌布皇宫', su_market: '乌布市场', su_tirta: '圣泉寺',
     su_monkey: '圣猴森林', su_terraces: '乌布梯田', su_skywalk: '乌布天空步道',
     su_coffee: '火山咖啡', su_zoo: '巴里岛野生动物园', su_waterfall: '瀑布探秘',
-    su_fairy: '仙女园', su_junglepool: '乌布丛林泳池俱乐部', su_jeep: '日出火山吉普车',
+    su_fairy: '仙女园', su_junglepool: '乌布丛林泳池俱乐部', su_jeep: '日出火山吉普车', su_sunsetjeep: '日落吉普车',
     su_singing: '颂钵音疗', su_swing: '丛林秋千', su_mario: '丛林马里奥赛车',
     su_food: '想吃乌布美食', u_spa: '乌布SPA', u_penglipuran: 'Penglipuran 传统村落',
     u_cave_rafting: '洞穴漂流河',
@@ -375,7 +375,7 @@ const T = {
     su_palace: 'Ubud Palace', su_market: 'Ubud Market', su_tirta: 'Tirta Empul (Holy Spring)',
     su_monkey: 'Sacred Monkey Forest', su_terraces: 'Ubud Rice Terraces', su_skywalk: 'Ubud Sky Walk',
     su_coffee: 'Volcano Coffee', su_zoo: 'Bali Wildlife Park', su_waterfall: 'Ubud Waterfalls',
-    su_fairy: 'Fairy Garden', su_junglepool: 'Jungle Pool Club', su_jeep: 'Sunrise Volcano Jeep',
+    su_fairy: 'Fairy Garden', su_junglepool: 'Jungle Pool Club', su_jeep: 'Sunrise Volcano Jeep', su_sunsetjeep: 'Sunset Volcano Jeep',
     su_singing: 'Singing Bowl Healing', su_swing: 'Jungle Swing', su_mario: 'Jungle Kart Racing',
     su_food: 'Ubud Food & Dining', u_spa: 'Ubud Spa & Wellness', u_penglipuran: 'Penglipuran Village',
     u_cave_rafting: 'Cave River Rafting',
@@ -556,6 +556,7 @@ const itinMatrix = itineraryEnabled ? regionTravelMatrix : [];
             <button class="chip" data-val="u_fairy">{T.su_fairy}</button>
             <button class="chip" data-val="u_junglepool">{T.su_junglepool}</button>
             <button class="chip" data-val="u_jeep">{T.su_jeep}</button>
+            <button class="chip" data-val="u_sunsetjeep">{T.su_sunsetjeep}</button>
             <button class="chip" data-val="u_singing">{T.su_singing}</button>
             <button class="chip" data-val="u_swing">{T.su_swing}</button>
             <button class="chip" data-val="u_mario">{T.su_mario}</button>
@@ -2503,7 +2504,7 @@ const AIRPORT_NEAR_AREAS = new Set(['jimbaran', 'uluwatu', 'nusadua', 'sanur']);
 const SPOT_REGION_MAP = {
   u_palace:'ubud', u_market:'ubud', u_tirta:'ubud', u_monkey:'ubud', u_terraces:'ubud',
   u_skywalk:'ubud', u_coffee:'ubud', u_zoo:'ubud', u_waterfall:'ubud', u_fairy:'ubud',
-  u_junglepool:'ubud', u_jeep:'ubud', u_singing:'ubud', u_swing:'ubud', u_mario:'ubud',
+  u_junglepool:'ubud', u_jeep:'ubud', u_sunsetjeep:'ubud', u_singing:'ubud', u_swing:'ubud', u_mario:'ubud',
   u_food:'ubud', u_spa:'ubud', u_penglipuran:'ubud',
   k_surf:'kuta', k_waterbom:'kuta', k_beachwalk:'kuta', k_turtle:'kuta', k_beerbus:'kuta',
   k_food:'kuta', k_spa:'kuta', k_trans:'kuta',
@@ -2770,6 +2771,7 @@ const ALL_SPOTS_DATA = {
   u_fairy:     { title: '仙女園（Alas Harum）網美打卡攻略', url: '/blog/taman-dedari-ubud-food-scenery/', tag: '網美' },
   u_junglepool:{ title: '烏布叢林泳池俱樂部推薦', url: '/blog/wanna-jungle-pool-club-ubud/', tag: '泳池' },
   u_jeep:      { title: '日出火山吉普車探險攻略', url: '/blog/batur-volcano-jeep-sunrise-tour/', tag: '探險' },
+  u_sunsetjeep:{ title: '日落火山吉普車探險攻略', url: '/blog/batur-volcano-sunset-jeep-tour/', tag: '探險' },
   u_singing:   { title: '頌缽音療（Singing Bowl）靈修體驗', url: '/blog/ubud-sound-healing/', tag: '靈修' },
   u_swing:     { title: '叢林鞦韆：烏布高空打卡完整攻略', url: '/blog/ubud-jungle-swings-photo-guide/', tag: '打卡' },
   u_mario:     { title: '叢林瑪利歐賽車體驗攻略', url: '/blog/ubud-jungle-cart-adventure/', tag: '娛樂' },
