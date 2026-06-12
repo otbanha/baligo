@@ -18,9 +18,13 @@ function isVideoUrl(urlStr) {
   }
 }
 
-/** fb.watch 短網址 → follow redirect 拿真正的 facebook.com URL */
+/**
+ * fb.watch 短網址、/share/p|r|v/ 分享連結 → follow redirect 拿真正的 facebook.com URL。
+ * plugins/video.php、plugins/post.php 不接受 /share/ 開頭的分享連結，
+ * 必須先解析成 /reel/、/videos/、/posts/ 等正式網址才能正確 embed。
+ */
 async function resolveFbWatch(urlStr) {
-  if (!/fb\.watch/i.test(urlStr)) return urlStr;
+  if (!/fb\.watch/i.test(urlStr) && !/\/share\/(p|r|v)\//.test(urlStr)) return urlStr;
   const controller = new AbortController();
   const timer = setTimeout(() => controller.abort(), 5000);
   try {
@@ -32,7 +36,10 @@ async function resolveFbWatch(urlStr) {
     });
     clearTimeout(timer);
     res.body?.cancel?.().catch?.(() => {});
-    return res.url || urlStr;
+    if (!res.url) return urlStr;
+    const resolved = new URL(res.url);
+    resolved.search = ''; // 去掉 rdid/share_url 等追蹤參數
+    return resolved.toString();
   } catch {
     clearTimeout(timer);
     return urlStr; // 解析失敗 → 用原始網址，仍可組 post plugin iframe
