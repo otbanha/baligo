@@ -1,0 +1,71 @@
+name: 提交新文章到 Google
+
+on:
+  # 新增/修改文章時自動提交（原文與譯文都涵蓋）
+  push:
+    branches: [main]
+    paths:
+      - 'src/content/blog/**'
+      - 'src/content/en/**'
+      - 'src/content/zh-cn/**'
+      - 'src/content/zh-hk/**'
+
+  # 翻譯 workflow 跑完後也提交（譯文是 bot 用 GITHUB_TOKEN 推的，不會觸發上面的 push）
+  workflow_run:
+    workflows: ['自動翻譯文章']
+    types: [completed]
+
+  # 手動提交指定 URL（逗號或空白分隔）
+  workflow_dispatch:
+    inputs:
+      urls:
+        description: '手動提交的 URL（逗號分隔；留空則偵測最近一次 commit）'
+        required: false
+        default: ''
+
+jobs:
+  submit:
+    runs-on: ubuntu-latest
+    # 翻譯失敗就不提交
+    if: ${{ github.event_name != 'workflow_run' || github.event.workflow_run.conclusion == 'success' }}
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 2 # 需要 HEAD~1 才能算出變更
+
+      - name: 設定 Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: 'npm'
+
+      - name: 安裝依賴
+        run: npm ci
+
+      - name: 蒐集要提交的 URL
+        id: collect
+        run: |
+          if [ -n "${{ github.event.inputs.urls }}" ]; then
+            # 手動模式：直接用輸入的 URL
+            echo "${{ github.event.inputs.urls }}" | tr ',' '\n' | sed 's/^ *//;s/ *$//' | grep . > urls.txt || true
+          elif [ "${{ github.event_name }}" = "push" ] && [ "${{ github.event.before }}" != "0000000000000000000000000000000000000000" ]; then
+            node scripts/changed-article-urls.mjs "${{ github.event.before }}" "${{ github.event.after }}" > urls.txt || true
+          else
+            # workflow_run / 首次 push：用最近一次 commit
+            node scripts/changed-article-urls.mjs HEAD~1 HEAD > urls.txt || true
+          fi
+          COUNT=$(grep -c . urls.txt || echo 0)
+          echo "count=$COUNT" >> $GITHUB_OUTPUT
+          echo "📋 偵測到 $COUNT 個待提交 URL："
+          cat urls.txt || true
+
+      - name: 等待 Cloudflare Pages 部署完成
+        if: steps.collect.outputs.count != '0'
+        run: sleep 180
+
+      - name: 提交到 Google Indexing API
+        if: steps.collect.outputs.count != '0'
+        env:
+          GOOGLE_INDEXING_CREDENTIALS: ${{ secrets.GOOGLE_INDEXING_CREDENTIALS }}
+        run: cat urls.txt | node scripts/submit-to-google.mjs
