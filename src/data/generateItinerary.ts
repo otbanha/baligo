@@ -141,8 +141,13 @@ function passesIntensity(spot: Spot, companion: Audience): boolean {
 /** 依同行對象決定每日景點數上限（長輩較少、家庭中庸） */
 function dailySlotCap(companion: Audience): number {
   if (companion === 'elderly') return 2;
-  if (companion === 'family') return 3;
-  return 4;
+  if (companion === 'family') return 4;
+  return 5;
+}
+
+// 早上/下午最多可排 2 個行程，其他時段（日出/傍晚/晚上）最多 1 個
+function maxPerSlot(slot: SlotTime): number {
+  return slot === 'morning' || slot === 'afternoon' ? 2 : 1;
 }
 
 // ── 住宿區規劃 ──────────────────────────────────────────────────────
@@ -512,7 +517,7 @@ function fillDaySlots(
 ): { time: SlotTime; spot: Spot }[] {
   const allowed: SlotTime[] =
     options.allowed ?? (options.arrivalOnly ? ['afternoon', 'evening'] : SLOT_ORDER);
-  const usedSlots = new Set<SlotTime>();
+  const slotCounts = new Map<SlotTime, number>();
   const chosen: { time: SlotTime; spot: Spot }[] = [];
   let hours = 0;
 
@@ -520,20 +525,20 @@ function fillDaySlots(
     if (chosen.length >= cap) break;
     if (hours + spot.durationHours + DAILY_TRANSIT_BUFFER > DAILY_HOUR_CAP) continue;
 
-    // 找最適合且尚未佔用的時段
+    // 找最適合且尚未排滿的時段（早上/下午最多 2 個，其他時段最多 1 個）
     let slot: SlotTime | undefined;
     if (spot.allowedTimes && spot.allowedTimes.length > 0) {
-      // 限定時段景點：只能排進其允許時段中、當天還沒被佔用且本日有開放（如離開日只開放 afternoon/evening）的時段
-      slot = spot.allowedTimes.find((s) => allowed.includes(s) && !usedSlots.has(s));
+      // 限定時段景點：只能排進其允許時段中、當天還沒排滿且本日有開放（如離開日只開放 afternoon/evening）的時段
+      slot = spot.allowedTimes.find((s) => allowed.includes(s) && (slotCounts.get(s) ?? 0) < maxPerSlot(s));
       if (!slot) continue; // 這個時段今天排不下，跳過此景點，不要硬塞進不合適的時段
-    } else if (spot.bestTime !== 'any' && allowed.includes(spot.bestTime as SlotTime) && !usedSlots.has(spot.bestTime as SlotTime)) {
+    } else if (spot.bestTime !== 'any' && allowed.includes(spot.bestTime as SlotTime) && (slotCounts.get(spot.bestTime as SlotTime) ?? 0) < maxPerSlot(spot.bestTime as SlotTime)) {
       slot = spot.bestTime as SlotTime;
     } else {
-      slot = allowed.find((s) => !usedSlots.has(s));
+      slot = allowed.find((s) => (slotCounts.get(s) ?? 0) < maxPerSlot(s));
       if (!slot) continue;
     }
 
-    usedSlots.add(slot);
+    slotCounts.set(slot, (slotCounts.get(slot) ?? 0) + 1);
     chosen.push({ time: slot, spot });
     hours += spot.durationHours;
   }
