@@ -739,8 +739,11 @@ export function generateItinerary(input: ItineraryInput): ItineraryResult {
       const isLastDayOverall = isLastBase && d === stay - 1 && !willInjectOffshoreAfter;
       const willChangeRegion = prevRegion !== null && !sameCluster(prevRegion, region) && d === 0;
       const changedRegion = willChangeRegion && !isLastDayOverall;
-      // 離開日若原本要換區，當天就留在前一個住宿區，不換到新的住宿區
-      const effectiveRegion = willChangeRegion && isLastDayOverall ? prevRegion! : region;
+      // 離開日若原本要換區，當天就留在前一個住宿區，不換到新的住宿區；
+      // 但若前一天已經是「換區入住」的 isTransitionDay（已經入住這個新住宿區了），
+      // 就不應該再退回前一個住宿區
+      const effectiveRegion =
+        willChangeRegion && isLastDayOverall && !prevWasTransitionDay ? prevRegion! : region;
       // 換區當天下午即入住下一個住宿區，因此最後一晚的下午/晚上行程改排在下一區
       const isTransitionDay =
         hasRegionChangeAfter && d === stay - 1 && !isArrivalDay && !willInjectOffshoreAfter && stay > 1;

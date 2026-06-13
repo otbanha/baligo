@@ -1291,8 +1291,10 @@ const ITIN = (function initItinerary() {
         const isLastDayOverall = isLast && d === stay - 1 && !willInjectOffshoreAfter;
         const willChange = prev !== null && !sameCluster(prev, region) && d === 0;
         const changed = willChange && !isLastDayOverall;
-        // 離開日若原本要換區，當天就留在前一個住宿區，不換到新的住宿區
-        const effectiveRegion = willChange && isLastDayOverall ? prev : region;
+        // 離開日若原本要換區，當天就留在前一個住宿區，不換到新的住宿區；
+        // 但若前一天已經是「換區入住」的 isTransition（已經入住這個新住宿區了），
+        // 就不應該再退回前一個住宿區
+        const effectiveRegion = willChange && isLastDayOverall && !prevWasTransition ? prev : region;
         // 換區當天下午即入住下一個住宿區，因此最後一晚的下午/晚上行程改排在下一區
         const isTransition = hasRegionChangeAfter && d === stay - 1 && !isArr && !willInjectOffshoreAfter && stay > 1;
         const day = { dayNumber: dayNum, region: effectiveRegion, slots: [] };
