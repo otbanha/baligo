@@ -2664,7 +2664,7 @@ function renderDayCard(day) {
 
   // 離開日若住宿在烏布，距離機場較遠，提醒提早安排交通
   const airportWarning = (day.isDepartureDay && day.region === 'ubud')
-    ? `<div class="dbd-travel"><span class="dbd-travel-ico">⚠️</span><span>烏布距離機場較遠（車程約 1.5–2 小時），請提早安排交通，避免錯過班機。`
+    ? `<div class="dbd-travel"><span class="dbd-travel-ico">⚠️</span><span>烏布距離機場較遠（車程約 1.5–3 小時），請提早安排交通，避免錯過班機。`
       + `<a href="${langUrl('/blog/ubud-airport-transport-tips/')}" target="_blank" rel="noopener">烏布機場交通攻略 →</a></span></div>`
     : '';
 
