@@ -1,0 +1,33 @@
+---
+title: 'Bali News: The 19th Balinale Film Festival Makes a Stunning Debut'
+slug: bali-balinale-film-festival-2026
+description: >-
+  The 19th Balinale International Film Festival is in full swing at ICON Bali in
+  Sanur, screening 94 outstanding films from around the world. This weekend,
+  Padanggalak Beach will host the annual Bali Kite Festival, where giant
+  traditional kites and majestic dragon-tailed creations will soar across the
+  sky.
+pubDate: 2026-06-04T00:00:00.000Z
+pubHour: 6
+category:
+  - 新聞存檔
+tags:
+  - 峇里島新聞
+  - 峇里島今日要聞
+  - Balinale 2026
+  - 峇里島電影節
+  - 峇里島文化盛事
+heroImage: ''
+originalUrl: ''
+private: false
+shuffle_h2: false
+embeds: []
+lang: en
+_srcHash: aefacaa2a699e14169d2ebce3ffbd937
+---
+
+## 📄 Hot Topics for Travelers: Top-Tier Film Festival
+
+- **The 19th Balinale International Film Festival is now screening in Sanur, with multiple world premieres captivating film enthusiasts**: As Indonesia's longest-running film festival and the only one with Academy Award® short film qualifying status, the **2026 Balinale International Film Festival is holding high-caliber screenings at ICON Bali Mall, a brand-new landmark shopping center in Sanur**. Running from June 1 to 7, this year's festival brings together 94 top independent films, documentaries, and animations from 38 countries. In addition to enjoying international blockbusters in high-tech theaters at the beachfront mall, the event also features a special outdoor free screening series called "Cinema by the Sea" along Sanur shores, offering a tropical lifestyle experience that has drawn large crowds of international remote workers and long-stay slow travelers.
+
+{{block:sanur}}

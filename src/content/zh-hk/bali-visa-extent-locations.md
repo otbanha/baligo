@@ -1,7 +1,7 @@
 ---
-title: 峇里島延長簽證/延簽懶人包：邊個地區去邊間移民局一次搞清楚
+title: 峇里島延長簽證/延簽懶人包：邊個區去邊間移民局一次過搞清
 slug: bali-visa-extent-locations
-description: 峇里島落地電子簽可以延簽一次，最長停留60日。本文整理延簽流程、線上申請步驟，同埋坎古、烏布、努沙佩尼達等地區對應嘅移民局，等你可以去啱地方。
+description: 峇里島落地電子簽可以延簽一次，最長停留60日。呢篇文整理咗延簽流程、網上申請步驟，同埋坎古、烏布、努沙佩尼達等各地區對應嘅移民局，等你去啱地方唔使白行。
 pubDate: 2026-04-28T00:00:00.000Z
 pubHour: 14
 category:
@@ -26,57 +26,58 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-hk
-_srcHash: f42ee34bc8d7ee58a20c7ce6b43d88a9
+_srcHash: e5e1c5a78fc34bb92644fe31e7a0de9f
 ---
 
-## 峇里島簽證延簽攻略：你去邊個區域，就要去邊個移民局辦理
+## 峇里島簽證延簽攻略：你去邊個區域，就要去邊間移民局辦理
 
 好多人嚟峇里島玩，一個月根本唔夠。想留耐啲？就要面對簽證延簽呢件事。
 
-其實延簽流程本身唔難，但最近唔少旅人遇到一個令人頭痛嘅問題：**到底應該去邊間移民局辦？** 峇里島有幾間移民辦公室，揀錯地點去錯地方，白行一趟唔在講，仲可能耽誤你嘅簽證期限。
+其實延簽流程本身唔難，但最近唔少旅人遇到一個好頭痛嘅問題：**到底應該去邊間移民局辦？** 峇里島有幾間移民辦公室，揀錯地方行錯路，白行一趟唔在講，仲可能耽誤你嘅簽證期限。
 
 ### 先搞清楚你手上係咩簽證
 
-大多數嚟峇里島嘅觀光客，用嘅都係落地電子簽（eVisa on Arrival）。呢張簽證費用係印尼盾 50 萬（約 USD$32），可以喺出發前幾日線上申請，有效期 30 日，而且可以延簽一次，多留 30 日，即係最長喺印尼合法停留 60 日。
+大多數嚟峇里島嘅觀光客，都用緊落地電子簽（eVisa on Arrival）。呢張簽證費用係印尼盾50萬（約台幣1,000蚊左右，即係大約USD$32），可以喺出發前幾日網上申請，有效期30日，而且可以延簽一次，多留30日，即係最長喺印尼合法停留60日。
 
-### 延簽點辦？線上 ＋ 本人到場，缺一不可
+### 延簽點搞？網上 ＋ 本人到場，缺一不可
 
-峇里島嘅延簽採用「混合申請制度」（Hybrid Application Process）——先喺官方移民局網站（evisa.imigrasi.go.id）線上提交申請，送出後必須喺 **48 小時內（包括工作日計算）** 親自前往指定嘅移民辦公室**到場驗指紋、核對文件，部分情況仲需要面談**。
+峇里島嘅延簽採用「混合申請制度」（Hybrid Application Process）——先喺官方移民局網站（evisa.imigrasi.go.id）網上提交申請，送出之後必須喺 **48小時內（包括工作日計算）** 親自去指定嘅移民辦公室**到場打指模、核對文件，部分情況仲要面談**。
 
-呢個制度係 2025 年 5 月先開始實行，背景係當時外籍人士持觀光簽喺峇里島打工、投資嘅案例越來越多，移民局為咗加強管控先推出呢套辦法。
+呢個制度係2025年5月先開始行，背景係當時外籍人士持觀光簽喺峇里島打工、投資嘅案例越來越多，移民局為咗加強管控先推出呢套辦法。
 
-### 住邊度，就去邊間移民局
+### 住喺邊，就去邊間移民局
 
-呢個係最多人搞錯嘅地方。**延簽嘅受理移民局，係根據你申請時填寫嘅地址嚟決定嘅，唔係你自己揀嘅。**
+呢個係最多人搞錯嘅地方。**延簽嘅受理移民局，係根據你申請時填寫嘅地址嚟決定，唔係你自己揀嘅。**
 
 登巴薩移民局負責嘅範圍包括：登巴薩市、吉安雅、班格利，同埋巴東縣嘅部分區域（Mengwi、Abiansemal、Penang）。所以只要你住喺坎古、水明漾、雷根、庫塔、烏魯瓦圖、沙努、烏布、甚至金塔馬尼，全部都係報到登巴薩移民局。
 
 https://www.instagram.com/reel/DXVez3MD1w1/?utm_source=ig_web_button_share_sheet
 
-住喺塔巴南（Tabanan）嘅朋友，好似 Kedungu、Tanah Lot、Balian、Bedugul、Jatiluwih 呢一帶，就要去**打巴南移民局**；住喺努沙佩尼達、努沙藍夢、努沙切尼根，或者係東部嘅 Semarapura，就要去**克隆孔移民局（Klungkung）**；北部同西部嘅旅人，通常係去**新加拉惹移民局（Singaraja）**。
+住喺塔巴南（Tabanan）嘅朋友，好似 Kedungu、Tanah Lot、Balian、Bedugul、Jatiluwih 呢一帶，就要去**打巴南移民局**；住喺努沙佩尼達、努沙藍夢、努沙切尼根，或者東部嘅 Semarapura，就要去**克隆孔移民局（Klungkung）**；北部同西部嘅旅客，通常係去**新加拉惹移民局（Singaraja）**。
 
 總結一下：
 
 | 住宿地區 | 對應移民局 |
-| 坎古、水明漾、庫塔、烏魯瓦圖、沙努、烏布、吉安雅\n\nCanggu, Seseh, Seminyak, Legian, Kuta, Uluwatu, Sanur, Ubud, and even Kintamani | 登巴薩移民局\n\nDenpasar Immigration Office |
-| 塔巴南、Tanah Lot、Bedugul\n\nKedungu, Tanah Lot, Balian, Bedugul, and Jatiluwih | 打巴南移民局\n\nTabanan Immigration Office |
-| 努沙佩尼達、努沙藍夢、Semarapura\n\nNusa Penida, Nusa Lembongan, Nusa Ceningan, and cities like Semarapura | 克隆孔移民局\n\nKlungkung Immigration Office |
-| 北部、西部\n\nnorth and west of the island | 新加拉惹移民局\n\nSingaraja Immigration Office |
+| --- | --- |
+| 坎古、水明漾、庫塔、烏魯瓦圖、沙努、烏布、吉安雅 Canggu, Seseh, Seminyak, Legian, Kuta, Uluwatu, Sanur, Ubud, and even Kintamani | 登巴薩移民局 Denpasar Immigration Office |
+| 塔巴南、Tanah Lot、Bedugul Kedungu, Tanah Lot, Balian, Bedugul, and Jatiluwih | 打巴南移民局 Tabanan Immigration Office |
+| 努沙佩尼達、努沙藍夢、Semarapura Nusa Penida, Nusa Lembongan, Nusa Ceningan, and cities like Semarapura | 克隆孔移民局 Klungkung Immigration Office |
+| 北部、西部 north and west of the island | 新加拉惹移民局 Singaraja Immigration Office |
 
 {{block:klook}}
 
 ### 移民局執法力道正在加強
 
-除咗延簽流程嘅更新，峇里島最近仲新成立咗一支專門嘅移民稽查部隊——**Dharma Dewata 移民巡邏隊**，會定期喺熱門觀光區同外籍人士聚集地巡查。官方講得好清楚：目的係預防違規，等嗰啲真心嚟玩、遵守規定嘅旅人可以安心留喺峇里島。
+除咗延簽流程嘅更新，峇里島最近仲新成立咗一支專門嘅移民稽查部隊——**Dharma Dewata 移民巡邏隊**，會定期喺熱門觀光區同外籍人士聚集地巡查。官方講得好清楚：目的係預防違規，等啲真心嚟玩、遵守規定嘅旅客可以安心留喺峇里島。
 
 講白啲，峇里島而家對簽證違規嘅管控比以前嚴好多。無論係持觀光簽打工、接案，定係逾期滯留，都係捉到就辦。
 
-### 嚟峇里島玩耐啲，規矩要搞清楚先
+### 嚟峇里島玩耐啲，規矩要先搞清楚
 
-我覺得呢套延簽制度整體嚟講都算合理，網上申請加埋親自到場，流程清楚，只要預早準備好文件、計好時間，其實冇咁難搞掂。
+我覺得呢套延簽制度整體嚟講都算合理，網上申請加親身去辦理，流程清楚，只要提早準備好文件、計好時間，其實唔係咁難搞。
 
-最重要嘅一點：**申請延簽時填嘅住宿地址，一定要填你實際入住嘅地方**，因為呢個直接決定你要去邊間移民局辦理。計劃喺峇里島去多個地方嘅旅人，建議將延簽安排喺你停留最耐嘅嗰個地點期間完成，咁就唔使到時跨區走。
+最重要嘅一點：**申請延簽時填嘅住宿地址，一定要填你實際入住嘅地方**，因為呢個直接決定你要去邊間移民局辦理。計劃喺峇里島走訪多個地方嘅旅人，建議將延簽安排喺你停留最耐嗰個地點期間完成，費事到時跨區走嚟走去。
 
-想喺峇里島好好留足 60 日？將呢啲規矩搞清楚，就可以安心享受每一日。☀️
+想喺峇里島好好留足 60 日？搞清楚呢啲規矩，就可以安心享受每一日。☀️
 
 {{block:戶外}}

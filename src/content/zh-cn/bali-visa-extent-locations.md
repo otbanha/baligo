@@ -1,7 +1,7 @@
 ---
-title: 巴厘岛延长签证/延签懒人包：哪个地区去哪间移民局一次搞清楚
+title: 巴厘岛延长签证/续签懒人包：哪个地区去哪个移民局一次搞清楚
 slug: bali-visa-extent-locations
-description: 巴厘岛落地电子签可延签一次，最长停留60天。本文整理延签流程、线上申请步骤，以及坎古、乌布、努沙佩尼达等各地区对应的移民局，让你不跑错地方。
+description: 巴厘岛落地电子签可续签一次，最长停留60天。本文整理续签流程、线上申请步骤，以及坎古、乌布、努沙佩尼达等各地区对应的移民局，让你不跑错地方。
 pubDate: 2026-04-28T00:00:00.000Z
 pubHour: 14
 category:
@@ -26,24 +26,24 @@ private: false
 shuffle_h2: false
 embeds: []
 lang: zh-cn
-_srcHash: f42ee34bc8d7ee58a20c7ce6b43d88a9
+_srcHash: e5e1c5a78fc34bb92644fe31e7a0de9f
 ---
 
-## 巴厘岛签证延签攻略：你去哪个区域，就要去哪个移民局办理
+## 巴厘岛签证续签攻略：你去哪个区域，就要去哪个移民局办理
 
-很多人来巴厘岛玩，一个月根本不够。想待久一点？就得面对签证延签这件事。
+很多人来巴厘岛玩，一个月根本不够。想待久一点？就得面对签证续签这件事。
 
-其实延签流程本身不难，但最近不少旅人遇到一个让人头痛的问题：**到底该去哪间移民局办？** 巴厘岛有好几间移民办公室，选错地点跑错地方，白跑一趟不说，还可能耽误你的签证期限。
+其实续签流程本身不难，但最近不少旅人遇到一个让人头痛的问题：**到底该去哪个移民局办？** 巴厘岛有好几个移民办公室，选错地点跑错地方，白跑一趟不说，还可能耽误你的签证期限。
 
 ### 先搞清楚你手上是什么签证
 
-大多数来巴厘岛的观光客，用的都是落地电子签（eVisa on Arrival）。这张签证费用是印尼盾 50 万（约 USD$16 左右），可以在出发前几天线上申请，有效期 30 天，而且可以延签一次，多待 30 天，也就是最长在印尼合法停留 60 天。
+大多数来巴厘岛的观光客，用的都是落地电子签（eVisa on Arrival）。这张签证费用是印尼盾50万（约台币1,000元左右，约合USD$32），可以在出发前几天线上申请，有效期30天，而且可以续签一次，多待30天，也就是最长在印尼合法停留60天。
 
-### 延签怎么办？线上 ＋ 本人到场，缺一不可
+### 续签怎么办？线上 + 本人到场，缺一不可
 
-巴厘岛的延签采用「混合申请制度」（Hybrid Application Process）——先在官方移民局网站（evisa.imigrasi.go.id）线上提交申请，送出后必须在 **48 小时内（含工作日计算）** 亲自前往指定的移民办公室**到场验指纹、核对文件，部分情况还需要面谈**。
+巴厘岛的续签采用“混合申请制度”（Hybrid Application Process）——先在官方移民局网站（evisa.imigrasi.go.id）线上提交申请，送出后必须在 **48小时内（含工作日计算）** 亲自前往指定的移民办公室**到场验指纹、核对文件，部分情况还需要面谈**。
 
-这个制度是 2025 年 5 月才上路的，背景是当时外籍人士持观光签在巴厘岛打工、投资的案例越来越多，移民局为了加强管控才推出这套办法。
+这个制度是2025年5月才上路的，背景是当时外籍人士持观光签在巴厘岛打工、投资的案例越来越多，移民局为了加强管控才推出这套办法。
 
 ### 住在哪里，就去哪间移民局
 
@@ -58,10 +58,11 @@ https://www.instagram.com/reel/DXVez3MD1w1/?utm_source=ig_web_button_share_sheet
 总结一下：
 
 | 住宿地区 | 对应移民局 |
-| 坎古、水明漾、库塔、乌鲁瓦图、沙努尔、乌布、吉安雅\n\nCanggu, Seseh, Seminyak, Legian, Kuta, Uluwatu, Sanur, Ubud, and even Kintamani | 登巴萨移民局\n\nDenpasar Immigration Office |
-| 塔巴南、Tanah Lot、Bedugul\n\nKedungu, Tanah Lot, Balian, Bedugul, and Jatiluwih | 打巴南移民局\n\nTabanan Immigration Office |
-| 努沙佩尼达、努沙蓝梦、Semarapura\n\nNusa Penida, Nusa Lembongan, Nusa Ceningan, and cities like Semarapura | 克隆孔移民局\n\nKlungkung Immigration Office |
-| 北部、西部\n\nnorth and west of the island | 新加拉惹移民局\n\nSingaraja Immigration Office |
+| --- | --- |
+| 坎古、水明漾、库塔、乌鲁瓦图、沙努尔、乌布、吉安雅 Canggu, Seseh, Seminyak, Legian, Kuta, Uluwatu, Sanur, Ubud, and even Kintamani | 登巴萨移民局 Denpasar Immigration Office |
+| 塔巴南、Tanah Lot、Bedugul Kedungu, Tanah Lot, Balian, Bedugul, and Jatiluwih | 打巴南移民局 Tabanan Immigration Office |
+| 努沙佩尼达、努沙蓝梦、Semarapura Nusa Penida, Nusa Lembongan, Nusa Ceningan, and cities like Semarapura | 克隆孔移民局 Klungkung Immigration Office |
+| 北部、西部 north and west of the island | 新加拉惹移民局 Singaraja Immigration Office |
 
 {{block:klook}}
 
