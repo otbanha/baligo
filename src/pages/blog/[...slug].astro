@@ -24,24 +24,16 @@ export async function getStaticPaths() {
     } catch (e) {}
   }
 
-  let compatCount = 0;
-
   for (const post of posts) {
     const newSlug = post.data.slug || post.id;
     // 已知的實際檔名（不含副檔名）
     const fileName = fileNameMap.get(newSlug) || newSlug;
-    // 新 slug 路由（主要）
+    // 只生成乾淨 slug 路由；舊日期碼網址交由 _redirects 的 301 處理，
+    // 避免產生 self-canonical 的重複頁（SEO duplicate）。
     allPaths.push({ params: { slug: newSlug }, props: { entry: post, fileName } });
-
-    // 查找舊檔案名（可能與新 slug 不同）
-    const oldFileId = fileNameMap.get(newSlug);
-    if (oldFileId && oldFileId !== newSlug) {
-      allPaths.push({ params: { slug: oldFileId }, props: { entry: post, fileName } });
-      compatCount++;
-    }
   }
 
-  console.log(`✅ 生成了 ${allPaths.length} 個路由，其中 ${compatCount} 個舊檔名兼容路由`);
+  console.log(`✅ 生成了 ${allPaths.length} 個 blog 路由`);
 
   return allPaths;
 }

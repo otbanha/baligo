@@ -11,6 +11,7 @@ import TripPlannerBanner from '../components/TripPlannerBanner.astro';
 import RelatedMapCard from '../components/RelatedMapCard.astro';
 import { getCollection } from 'astro:content';
 import { enhancedTitle, enhancedDescription, COMPANION_CAT } from '../utils/seo-keywords';
+import { getAvailableLangs } from '../utils/lang-availability';
 
 type Driver = {
   name: string;
@@ -79,6 +80,24 @@ const blogIndexUrl = isZhTw ? `${blogBase}/?lang=tw` : `${blogBase}/`;
 const catBaseUrl   = isZhTw ? `${blogBase}/?lang=tw&cat=` : `${blogBase}?cat=`;
 
 const canonicalUrl = `https://gobaligo.id${blogBase}/${slug}/`;
+
+// hreflang：只輸出實際存在的語言版本，避免指向 404（壞掉的 hreflang 會干擾 Google 選擇 canonical）
+const availLangs = slug ? await getAvailableLangs(slug) : new Set(['zh-tw', 'zh-hk', 'zh-cn', 'en']);
+const hreflangUrls: Record<string, string> = {
+  'zh-tw': `https://gobaligo.id/blog/${slug}/`,
+  'zh-hk': `https://gobaligo.id/zh-hk/blog/${slug}/`,
+  'zh-cn': `https://gobaligo.id/zh-cn/blog/${slug}/`,
+  'en':    `https://gobaligo.id/en/blog/${slug}/`,
+};
+// x-default 指向最佳可用版本（優先序：zh-tw → en → zh-hk → zh-cn）
+const xDefaultLang = (['zh-tw', 'en', 'zh-hk', 'zh-cn'] as const).find(l => availLangs.has(l)) ?? 'zh-tw';
+const hreflangEntries = [
+  { hreflang: 'zh-TW', lang: 'zh-tw' },
+  { hreflang: 'zh-HK', lang: 'zh-hk' },
+  { hreflang: 'zh-CN', lang: 'zh-cn' },
+  { hreflang: 'en',    lang: 'en'    },
+].filter(e => availLangs.has(e.lang));
+
 const shareText = encodeURIComponent(title);
 const shareUrl  = encodeURIComponent(canonicalUrl);
 const shareLinks = {
@@ -275,13 +294,12 @@ const spaFaqSchema = isSpaGuide ? {
     <script is:inline>sessionStorage.setItem('gobaligo_lang_checked', '1');</script>
   )}
 
-  <!-- hreflang: 列出全部語言版本，讓 Google 了解多語系關係 -->
+  <!-- hreflang: 只列出實際存在的語言版本，讓 Google 了解多語系關係（不指向 404） -->
   {slug && <>
-    <link rel="alternate" hreflang="x-default"  href={`https://gobaligo.id/blog/${slug}/`} />
-    <link rel="alternate" hreflang="zh-TW"      href={`https://gobaligo.id/blog/${slug}/`} />
-    <link rel="alternate" hreflang="zh-HK"      href={`https://gobaligo.id/zh-hk/blog/${slug}/`} />
-    <link rel="alternate" hreflang="zh-CN"      href={`https://gobaligo.id/zh-cn/blog/${slug}/`} />
-    <link rel="alternate" hreflang="en"         href={`https://gobaligo.id/en/blog/${slug}/`} />
+    <link rel="alternate" hreflang="x-default" href={hreflangUrls[xDefaultLang]} />
+    {hreflangEntries.map(e => (
+      <link rel="alternate" hreflang={e.hreflang} href={hreflangUrls[e.lang]} />
+    ))}
   </>}
 
   <!-- JSON-LD: Category-Aware Schema.org (Article + BreadcrumbList + category-specific) -->

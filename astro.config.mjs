@@ -37,6 +37,24 @@ function getBlogLastmod(slug) {
   return undefined;
 }
 
+// 計算每個 slug 實際存在哪些語言版本（給 sitemap hreflang 用，避免指向 404）
+import { readdirSync } from 'fs';
+const LANG_DIRS = { 'zh-tw': 'blog', 'zh-hk': 'zh-hk', 'zh-cn': 'zh-cn', 'en': 'en' };
+const slugLangs = new Map(); // slug -> Set<lang>
+for (const [lang, dir] of Object.entries(LANG_DIRS)) {
+  const base = join(process.cwd(), 'src/content', dir);
+  try {
+    for (const f of readdirSync(base).filter(f => /\.mdx?$/.test(f))) {
+      try {
+        const { data } = matter(readFileSync(join(base, f), 'utf-8'));
+        const slug = data.slug || f.replace(/\.(md|mdx)$/, '');
+        if (!slugLangs.has(slug)) slugLangs.set(slug, new Set());
+        slugLangs.get(slug).add(lang);
+      } catch {}
+    }
+  } catch {}
+}
+
 export default defineConfig({
   site: 'https://gobaligo.id',
   integrations: [
@@ -73,12 +91,19 @@ export default defineConfig({
         const articleMatch = path.match(/^(?:\/(en|zh-cn|zh-hk))?\/blog\/([^/]+)\/?$/);
         if (articleMatch) {
           const slug = articleMatch[2];
+          const langs = slugLangs.get(slug) ?? new Set(['zh-tw', 'zh-hk', 'zh-cn', 'en']);
+          const urls = {
+            'zh-tw': `https://gobaligo.id/blog/${slug}/`,
+            'zh-hk': `https://gobaligo.id/zh-hk/blog/${slug}/`,
+            'zh-cn': `https://gobaligo.id/zh-cn/blog/${slug}/`,
+            'en':    `https://gobaligo.id/en/blog/${slug}/`,
+          };
+          // x-default 指向最佳可用版本（zh-tw → en → zh-hk → zh-cn）
+          const xDefault = ['zh-tw', 'en', 'zh-hk', 'zh-cn'].find(l => langs.has(l)) ?? 'zh-tw';
+          const tags = [['zh-TW', 'zh-tw'], ['zh-HK', 'zh-hk'], ['zh-CN', 'zh-cn'], ['en', 'en']];
           item.links = [
-            { lang: 'x-default', url: `https://gobaligo.id/blog/${slug}/` },
-            { lang: 'zh-TW',     url: `https://gobaligo.id/blog/${slug}/` },
-            { lang: 'zh-HK',     url: `https://gobaligo.id/zh-hk/blog/${slug}/` },
-            { lang: 'zh-CN',     url: `https://gobaligo.id/zh-cn/blog/${slug}/` },
-            { lang: 'en',        url: `https://gobaligo.id/en/blog/${slug}/` },
+            { lang: 'x-default', url: urls[xDefault] },
+            ...tags.filter(([, l]) => langs.has(l)).map(([tag, l]) => ({ lang: tag, url: urls[l] })),
           ];
         }
 

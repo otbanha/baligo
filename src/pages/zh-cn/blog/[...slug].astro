@@ -33,56 +33,25 @@ export async function getStaticPaths() {
 
   const usedSlugs = new Set<string>();
   const paths: any[] = [];
-  let compatCount = 0;
 
-  // Add entries from blog collection, preferring zh-cn collection version if available by slug
+  // 只生成乾淨 slug 路由；舊日期碼網址交由 _redirects 的 301 處理，
+  // 避免產生 self-canonical 的重複頁（SEO duplicate）。
   for (const blogPost of blogPosts) {
     const slug = blogPost.data.slug || blogPost.id;
     usedSlugs.add(slug);
     const post = langMapBySlug.get(slug) ?? blogPost;
-    paths.push({
-      params: { slug },
-      props: { post },
-    });
-
-    // 為舊檔案名生成路由
-    const oldFileId = fileNameMap.get(slug);
-    if (oldFileId && oldFileId !== slug) {
-      paths.push({
-        params: { slug: oldFileId },
-        props: { post },
-      });
-      compatCount++;
-    }
+    paths.push({ params: { slug }, props: { post } });
   }
 
   // Add entries from zh-cn collection that don't have a blog version (by slug)
   for (const langPost of langPosts) {
     const slug = langPost.data.slug || langPost.id;
     if (!usedSlugs.has(slug)) {
-      paths.push({
-        params: { slug },
-        props: { post: langPost },
-      });
-
-      // 為舊檔案名生成路由
-      const oldFileId = fileNameMap.get(slug);
-      if (oldFileId && oldFileId !== slug) {
-        paths.push({
-          params: { slug: oldFileId },
-          props: { post: langPost },
-        });
-        compatCount++;
-      }
+      paths.push({ params: { slug }, props: { post: langPost } });
     }
   }
 
-  // 調試
-  let actualCompat = 0;
-  for (const [slug, fileId] of fileNameMap) {
-    if (fileId !== slug) actualCompat++;
-  }
-  console.log(`✅ 簡體中文版本: ${paths.length} 路由（${blogPosts.length}+${langPosts.length - Math.max(0, blogPosts.filter(bp => fileNameMap.has(bp.data.slug || bp.id)).length)}+${compatCount}），fileNameMap: ${fileNameMap.size}，潛在兼容: ${actualCompat}`);
+  console.log(`✅ 簡體中文版本: ${paths.length} 路由`);
 
   return paths;
 }

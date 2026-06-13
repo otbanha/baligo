@@ -33,28 +33,15 @@ export async function getStaticPaths() {
   // Combine both collections, preferring en collection if available by slug
   const usedSlugs = new Set<string>();
   const paths: any[] = [];
-  let compatCount = 0;
 
-  // Add entries from blog collection, preferring en collection version if available by slug
+  // 只生成乾淨 slug 路由；舊日期碼網址交由 _redirects 的 301 處理，
+  // 避免產生 self-canonical 的重複頁（SEO duplicate）。
   for (const blogPost of blogPosts) {
     const slug = blogPost.data.slug || blogPost.id;
     usedSlugs.add(slug);
     // Prefer en collection version if available
     const post = langMapBySlug.get(slug) ?? blogPost;
-    paths.push({
-      params: { slug },
-      props: { post },
-    });
-
-    // 為舊檔案名生成路由
-    const oldFileId = fileNameMap.get(slug);
-    if (oldFileId && oldFileId !== slug) {
-      paths.push({
-        params: { slug: oldFileId },
-        props: { post },
-      });
-      compatCount++;
-    }
+    paths.push({ params: { slug }, props: { post } });
   }
 
   // Add entries from en collection that don't have a blog version (by slug)
@@ -63,24 +50,11 @@ export async function getStaticPaths() {
     const slug = langPost.data.slug || langPost.id;
     if (!usedSlugs.has(slug)) {
       enOnlyCount++;
-      paths.push({
-        params: { slug },
-        props: { post: langPost },
-      });
-
-      // 為舊檔案名生成路由
-      const oldFileId = fileNameMap.get(slug);
-      if (oldFileId && oldFileId !== slug) {
-        paths.push({
-          params: { slug: oldFileId },
-          props: { post: langPost },
-        });
-        compatCount++;
-      }
+      paths.push({ params: { slug }, props: { post: langPost } });
     }
   }
 
-  console.log(`✅ 英文版本: ${paths.length} 路由（${blogPosts.length}+${enOnlyCount}+${compatCount}），fileNameMap: ${fileNameMap.size}`);
+  console.log(`✅ 英文版本: ${paths.length} 路由（${blogPosts.length}+${enOnlyCount}）`);
 
   return paths;
 }
