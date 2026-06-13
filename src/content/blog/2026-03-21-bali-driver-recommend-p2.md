@@ -116,7 +116,7 @@ embeds: []
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774788166261-new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1DXtpVrXjz/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/18nHVoCWo8/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1DXtpVrXjz/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/18nHVoCWo8/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1Cdc1dWKHk/)
 
 ## Gung Bali Wangzi 王子
 
@@ -128,7 +128,7 @@ embeds: []
 
 ![raw-image](https://images.gobaligo.id/images/2026-06/1781330328310-_2026-06-13_12.57.02.png)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1ENRDfkjEw/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/17qogSzHU1/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1FVRdBgbNL/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1Kw5mTbHAa/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1JYmnQC1w9/) 
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1ENRDfkjEw/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/17qogSzHU1/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1FVRdBgbNL/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1Kw5mTbHAa/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1JYmnQC1w9/)
 
 {{block:klook}}.
 
