@@ -1389,7 +1389,9 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       // ── Recent feed ──
       async function loadRecent() {
         try {
-          const res = await fetch('/api/recent-unfurls?limit=50');
+          // /api/recent-unfurls 帶 12h Cache-Control，但 /share/ 使用者剛新增的項目
+          // 必須立即看到，故繞過瀏覽器快取
+          const res = await fetch('/api/recent-unfurls?limit=50', { cache: 'no-store' });
           const data = await res.json();
           const items = data.items || [];
           if (items.length === 0) { recentSection.style.display = 'none'; return; }
@@ -1705,7 +1707,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       // ── Drawer Recent ──
       async function loadDrawerRecent() {
         try {
-          const res = await fetch('/api/recent-unfurls?limit=30');
+          const res = await fetch('/api/recent-unfurls?limit=30', { cache: 'no-store' });
           const data = await res.json();
           _drawerRecentData = data.items || [];
           renderDrawerRecent(_drawerRecentData, document.getElementById('drawer-search')?.value.trim().toLowerCase() ?? '');
