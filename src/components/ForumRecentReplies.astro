@@ -43,16 +43,16 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
         .select('id, title, topic, created_at')
         .eq('moderation_status', 'approved')
         .order('created_at', { ascending: false })
-        .limit(5),
+        .limit(6),
 
       sb.from('replies')
         .select('id, created_at, posts!inner(id, title, topic, moderation_status)')
         .eq('posts.moderation_status', 'approved')
         .order('created_at', { ascending: false })
-        .limit(10),
+        .limit(12),
     ]);
 
-    // 合併成 { postId, title, topic, at } 並去重，取最新 5 則
+    // 合併成 { postId, title, topic, at } 並去重，取最新 6 則
     const seen = new Set();
     const items = [];
 
@@ -69,7 +69,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
 
     for (const row of combined) {
       add(row.postId, row.title, row.topic, row.at);
-      if (items.length >= 5) break;
+      if (items.length >= 6) break;
     }
 
     if (items.length === 0) { list.innerHTML = ''; return; }
