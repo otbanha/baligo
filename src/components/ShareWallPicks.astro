@@ -68,15 +68,17 @@ const t = i18n[lang] ?? i18n['zh-tw'];
     const icon  = PLAT_ICON[item.platform] ?? '◉';
     const label = PLAT_LABEL[item.platform] ?? item.platform;
     const cls   = PLAT_CLS[item.platform] ?? '';
+    const phCls = `swp-thumb-ph swp-thumb-ph-${item.platform}`;
     const thumbHtml = item.thumbnail
       ? `<img src="${sanitize(item.thumbnail)}" alt="" loading="lazy"
            style="width:100%;height:100%;object-fit:cover;display:block"
-           onerror="this.parentElement.innerHTML='${icon}'">`
-      : icon;
+           onerror="this.parentElement.classList.add(...'${phCls}'.split(' '));this.replaceWith(Object.assign(document.createElement('span'),{className:'swp-thumb-icon',textContent:'${icon}'}))">`
+      : `<span class="swp-thumb-icon">${icon}</span>`;
+    const thumbCls = item.thumbnail ? 'swp-thumb' : `swp-thumb ${phCls}`;
 
     return `
       <a class="swp-card" href="${sanitize(item.sourceUrl || '/share/')}" target="_blank" rel="noopener noreferrer">
-        <div class="swp-thumb">${thumbHtml}</div>
+        <div class="${thumbCls}">${thumbHtml}</div>
         <div class="swp-info">
           <div class="swp-tag ${cls}">${label}</div>
           <div class="swp-card-title">${sanitize(displayTitle(item))}</div>
@@ -190,6 +192,12 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   font-size: 1.6rem;
   color: #bbb;
 }
+.swp-thumb-icon { filter: drop-shadow(0 2px 4px rgba(0,0,0,.25)); }
+/* 無縮圖的平台（FB/IG 無法抓取真實縮圖）→ 用品牌色漸層佔位，取代灰色空白 */
+.swp-thumb-ph { color: #fff; font-size: 1.8rem; }
+.swp-thumb-ph-facebook  { background: linear-gradient(160deg, #1877f2 0%, #42a5f5 100%); }
+.swp-thumb-ph-instagram { background: linear-gradient(160deg, #833ab4 0%, #fd1d1d 55%, #fcb045 100%); }
+.swp-thumb-ph-threads   { background: linear-gradient(160deg, #111 0%, #2a2a2a 100%); }
 .swp-info { padding: .4rem .5rem; }
 .swp-tag {
   font-size: .62rem;
