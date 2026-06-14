@@ -1,0 +1,219 @@
+---
+const { lang = 'zh-tw' } = Astro.props;
+
+const i18n: Record<string, { title: string; more: string; shuffle: string }> = {
+  'zh-tw': { title: '📸 旅人分享', more: '前往分享牆 →', shuffle: '🔀 換一批' },
+  'zh-hk': { title: '📸 旅人分享', more: '前往分享牆 →', shuffle: '🔀 換一批' },
+  'zh-cn': { title: '📸 旅人分享', more: '前往分享墙 →', shuffle: '🔀 换一批' },
+  'en':    { title: '📸 Traveler Shares', more: 'More →', shuffle: '🔀 Shuffle' },
+};
+const t = i18n[lang] ?? i18n['zh-tw'];
+---
+
+<div class="swp-widget">
+  <div class="swp-header">
+    <span class="swp-title">{t.title}</span>
+    <div class="swp-header-actions">
+      <button id="swp-shuffle" class="swp-shuffle" type="button" title={t.shuffle}>{t.shuffle}</button>
+      <a href="/share/" class="swp-more">{t.more}</a>
+    </div>
+  </div>
+  <div id="swp-list" class="swp-list">
+    <div class="swp-loading">載入中⋯</div>
+  </div>
+</div>
+
+<script>
+(async () => {
+  const list = document.getElementById('swp-list');
+  const shuffleBtn = document.getElementById('swp-shuffle');
+  if (!list) return;
+
+  const PLAT_ICON = { youtube: '▶', threads: '◉', instagram: '◈', tiktok: '♪', facebook: 'f' };
+  const PLAT_LABEL = {
+    youtube: '▶ YouTube', threads: '◉ Threads', instagram: '◈ Instagram',
+    facebook: 'f Facebook', tiktok: '♪ TikTok',
+  };
+  const PLAT_CLS = {
+    youtube: 'swp-tag-youtube', threads: 'swp-tag-threads', instagram: 'swp-tag-instagram',
+    facebook: 'swp-tag-facebook', tiktok: 'swp-tag-tiktok',
+  };
+
+  const PICK_COUNT = 3;
+  let pool = [];
+
+  function sanitize(str) {
+    const d = document.createElement('div');
+    d.textContent = str ?? '';
+    return d.innerHTML;
+  }
+
+  function shuffle(arr) {
+    const a = arr.slice();
+    for (let i = a.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [a[i], a[j]] = [a[j], a[i]];
+    }
+    return a;
+  }
+
+  function displayTitle(item) {
+    if (item.title) return item.title;
+    if (item.authorName) return `${item.authorName} 的貼文`;
+    if (item.embedHandle) return `${item.embedHandle} 的貼文`;
+    return `${item.platform} 貼文`;
+  }
+
+  function cardHtml(item) {
+    const icon  = PLAT_ICON[item.platform] ?? '◉';
+    const label = PLAT_LABEL[item.platform] ?? item.platform;
+    const cls   = PLAT_CLS[item.platform] ?? '';
+    const thumbHtml = item.thumbnail
+      ? `<img src="${sanitize(item.thumbnail)}" alt="" loading="lazy"
+           style="width:100%;height:100%;object-fit:cover;display:block"
+           onerror="this.parentElement.innerHTML='${icon}'">`
+      : icon;
+
+    return `
+      <a class="swp-card" href="${sanitize(item.sourceUrl || '/share/')}" target="_blank" rel="noopener noreferrer">
+        <div class="swp-thumb">${thumbHtml}</div>
+        <div class="swp-info">
+          <div class="swp-tag ${cls}">${label}</div>
+          <div class="swp-card-title">${sanitize(displayTitle(item))}</div>
+        </div>
+      </a>`;
+  }
+
+  function render() {
+    const picks = shuffle(pool).slice(0, PICK_COUNT);
+    if (picks.length === 0) {
+      list.innerHTML = '';
+      shuffleBtn?.style.setProperty('display', 'none');
+      return;
+    }
+    list.innerHTML = picks.map(cardHtml).join('');
+  }
+
+  try {
+    const res = await fetch('/api/recent-unfurls?limit=30');
+    const data = await res.json();
+    pool = (data.items || []).filter((it) => it.sourceUrl);
+    if (pool.length === 0) {
+      list.innerHTML = '';
+      shuffleBtn?.style.setProperty('display', 'none');
+      return;
+    }
+    render();
+    shuffleBtn?.addEventListener('click', render);
+  } catch {
+    list.innerHTML = '';
+    shuffleBtn?.style.setProperty('display', 'none');
+  }
+})();
+</script>
+
+<style is:global>
+.swp-widget {
+  background: #fafafa;
+  border: 1px solid #e5e5e5;
+  border-radius: 12px;
+  padding: .9rem 1.1rem;
+  margin-bottom: 1.2rem;
+}
+.swp-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: .6rem;
+  gap: .5rem;
+}
+.swp-title {
+  font-size: .85rem;
+  font-weight: 700;
+  color: #444;
+  letter-spacing: .01em;
+  white-space: nowrap;
+}
+.swp-header-actions {
+  display: flex;
+  align-items: center;
+  gap: .6rem;
+}
+.swp-shuffle {
+  font-size: .72rem;
+  color: #666;
+  background: #fff;
+  border: 1px solid #ddd;
+  border-radius: 20px;
+  padding: .15em .7em;
+  cursor: pointer;
+  white-space: nowrap;
+}
+.swp-shuffle:hover { background: #f0f0f0; }
+.swp-more {
+  font-size: .75rem;
+  color: #777;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.swp-more:hover { text-decoration: underline; }
+
+.swp-list {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: .5rem;
+}
+.swp-loading {
+  font-size: .82rem;
+  color: #999;
+  padding: .3rem 0;
+  grid-column: 1 / -1;
+}
+
+.swp-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #fff;
+  border: 1px solid #eee;
+}
+.swp-thumb {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  overflow: hidden;
+  background: #f0f0f0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 1.6rem;
+  color: #bbb;
+}
+.swp-info { padding: .4rem .5rem; }
+.swp-tag {
+  font-size: .62rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: .04em;
+  margin-bottom: .2rem;
+}
+.swp-tag-youtube   { color: #c00; }
+.swp-tag-threads   { color: #111; }
+.swp-tag-instagram { color: #c13584; }
+.swp-tag-facebook  { color: #1877f2; }
+.swp-tag-tiktok    { color: #010101; }
+.swp-card-title {
+  font-size: .74rem;
+  color: #444;
+  line-height: 1.35;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+@media (max-width: 480px) {
+  .swp-list { grid-template-columns: repeat(2, 1fr); }
+}
+</style>

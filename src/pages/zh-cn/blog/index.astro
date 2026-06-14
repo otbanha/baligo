@@ -7,6 +7,7 @@ import Footer from '../../../components/Footer.astro';
 import ChatBot from '../../../components/ChatBot.astro';
 import ExchangeRateWidget from '../../../components/ExchangeRateWidget.astro';
 import ForumRecentReplies from '../../../components/ForumRecentReplies.astro';
+import ShareWallPicks from '../../../components/ShareWallPicks.astro';
 import BaliWeather from '../../../components/BaliWeather.astro';
 import { getCollection, render } from 'astro:content';
 import featuredData from '../../../featured.json';
@@ -283,8 +284,11 @@ const socialLinks = [
           </div>
         </div>
 
-        <!-- 最新讨论回复 -->
-        <ForumRecentReplies lang="zh-cn" />
+        <!-- 最新讨论回复 + 社群分享精选 -->
+        <div class="community-grid">
+          <ForumRecentReplies lang="zh-cn" />
+          <ShareWallPicks lang="zh-cn" />
+        </div>
 
         <!-- 每日參考匯率 -->
         <ExchangeRateWidget lang="zh-cn" />
@@ -973,6 +977,9 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
 .guide-desc { font-size: 0.75rem; color: #888; line-height: 1.2; }
 @media (max-width: 768px) { .guides-grid { grid-template-columns: repeat(2, 1fr); gap: 10px; } .guide-card { padding: 1rem 0.6rem; min-height: 90px; font-size: 0.9rem; } .guide-icon { font-size: 1.5rem; } }
 @media (max-width: 480px) { .essential-guides { padding: 1rem; } .guides-grid { grid-template-columns: repeat(2, 1fr); gap: 8px; } .guide-card { padding: 0.8rem 0.5rem; min-height: 80px; } .guide-icon { font-size: 1.4rem; } .guide-name { font-size: 0.85rem; } .guide-count { display: none; } }
+
+.community-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; align-items: start; }
+@media (max-width: 768px) { .community-grid { grid-template-columns: 1fr; } }
 </style>
 <script define:vars={{ promosJson }}>
 window.addEventListener('load', () => {
