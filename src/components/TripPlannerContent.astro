@@ -2467,7 +2467,17 @@ document.getElementById('btn-restart').addEventListener('click', () => {
 });
 
 document.getElementById('btn-share').addEventListener('click', () => {
-  window.print();
+  // 部分手機 App 內嵌瀏覽器（LINE / FB / IG 等）不支援或會忽略 window.print()，
+  // 此時改提示使用者切換到外部瀏覽器再使用列印功能存成 PDF
+  if (typeof window.print === 'function') {
+    try {
+      window.print();
+      return;
+    } catch (err) {
+      console.error('[Trip Planner] print failed:', err);
+    }
+  }
+  alert('您目前使用的瀏覽器不支援直接存成 PDF。\n\n請點擊畫面右上角的「⋯」或分享選單，選擇「在瀏覽器中開啟」（Safari 或 Chrome），再使用瀏覽器的列印功能存成 PDF。');
 });
 
 document.getElementById('btn-edit').addEventListener('click', () => {
