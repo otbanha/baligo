@@ -39,6 +39,7 @@ const t = i18n[lang] ?? i18n['zh-tw'];
     facebook: 'swp-tag-facebook', tiktok: 'swp-tag-tiktok',
   };
 
+  const META_PLATFORMS = new Set(['threads', 'instagram', 'facebook']);
   const PICK_COUNT = 3;
   let pool = [];
 
@@ -46,6 +47,81 @@ const t = i18n[lang] ?? i18n['zh-tw'];
     const d = document.createElement('div');
     d.textContent = str ?? '';
     return d.innerHTML;
+  }
+
+  /** iframe URL（相容無 embed.iframeUrl 的舊 KV 資料） */
+  function getIframeUrl(item) {
+    if (item.embed?.iframeUrl) return item.embed.iframeUrl;
+    const src = item.sourceUrl || '';
+    if (item.platform === 'instagram') {
+      const im = src.match(/instagram\.com\/(?:p|reel|tv)\/([\w-]+)/);
+      if (im) return `https://www.instagram.com/p/${im[1]}/embed/captioned/`;
+    }
+    if (item.platform === 'facebook') {
+      if (/facebook\.com|fb\.watch/.test(src)) {
+        return `https://www.facebook.com/plugins/post.php?href=${encodeURIComponent(src)}&width=500&show_text=true&appId`;
+      }
+    }
+    return null;
+  }
+
+  /** 容器比例（相容無 embed.iframeRatio 的舊 KV 資料） */
+  function getIframeRatio(item) {
+    if (item.embed?.iframeRatio) return item.embed.iframeRatio;
+    if (item.platform === 'instagram') return /\/reel\//.test(item.sourceUrl || '') ? '9:16' : '1:1';
+    return '4:5'; // facebook / threads
+  }
+
+  /** fallback：無法顯示媒體時的品牌色漸層 + icon 佔位 */
+  function embedPlaceholderHtml(item) {
+    const icon = PLAT_ICON[item.platform] ?? '◉';
+    return `<div class="swp-thumb-ph swp-thumb-ph-${item.platform}"><span class="swp-thumb-icon">${icon}</span></div>`;
+  }
+
+  /** Meta 系（FB/IG/Threads）卡片的媒體區塊：直接嵌入貼文 iframe，跟 /share 一致 */
+  function buildEmbedMediaHtml(item) {
+    const ratio = getIframeRatio(item);
+
+    if (item.platform === 'threads') {
+      if (item.thumbnail) {
+        return `
+          <div class="iframe-container" data-ratio="${ratio}" data-platform="threads" style="background:#111">
+            <div class="embed-iframe-sk embed-iframe-sk-threads"></div>
+            <img src="${sanitize(item.thumbnail)}" alt="" loading="lazy"
+              style="width:100%;height:100%;object-fit:cover;object-position:center top;display:block"
+              onload="this.previousElementSibling?.remove()"
+              onerror="this.parentElement.innerHTML='${embedPlaceholderHtml(item).replace(/'/g, "\\'")}'">
+          </div>`;
+      }
+      return `<div class="iframe-container" data-ratio="${ratio}" data-platform="threads">${embedPlaceholderHtml(item)}</div>`;
+    }
+
+    const iframeUrl = getIframeUrl(item);
+    if (iframeUrl) {
+      return `
+        <div class="iframe-container" data-ratio="${ratio}" data-platform="${item.platform}">
+          <div class="embed-iframe-sk embed-iframe-sk-${item.platform}"></div>
+          <iframe src="${sanitize(iframeUrl)}" loading="lazy" frameborder="0" scrolling="no"
+            allowtransparency="true" allow="encrypted-media; picture-in-picture; fullscreen"
+            title="${sanitize((item.authorName || item.embedHandle || item.platform) + ' 貼文')}"></iframe>
+        </div>`;
+    }
+
+    return `<div class="iframe-container" data-ratio="${ratio}" data-platform="${item.platform}">${embedPlaceholderHtml(item)}</div>`;
+  }
+
+  /** iframe/img 載入完成後移除 loading skeleton */
+  function activateEmbedMedia(root) {
+    root.querySelectorAll('.iframe-container').forEach((container) => {
+      const sk = container.querySelector('.embed-iframe-sk');
+      if (!sk) return;
+      const media = container.querySelector('iframe, img');
+      if (media) {
+        media.addEventListener('load', () => sk.remove());
+      } else {
+        setTimeout(() => sk.remove(), 15000);
+      }
+    });
   }
 
   function shuffle(arr) {
@@ -65,9 +141,23 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   }
 
   function cardHtml(item) {
-    const icon  = PLAT_ICON[item.platform] ?? '◉';
     const label = PLAT_LABEL[item.platform] ?? item.platform;
     const cls   = PLAT_CLS[item.platform] ?? '';
+
+    // FB/IG/Threads → 直接嵌入貼文 iframe（跟 /share 一致），不再用靜態縮圖
+    if (META_PLATFORMS.has(item.platform)) {
+      return `
+        <div class="swp-card swp-card-embed">
+          ${buildEmbedMediaHtml(item)}
+          <div class="swp-info">
+            <div class="swp-tag ${cls}">${label}</div>
+            <div class="swp-card-title">${sanitize(displayTitle(item))}</div>
+            <a class="swp-card-link" href="${sanitize(item.sourceUrl || '/share/')}" target="_blank" rel="noopener noreferrer">前往原文 →</a>
+          </div>
+        </div>`;
+    }
+
+    const icon  = PLAT_ICON[item.platform] ?? '◉';
     const phCls = `swp-thumb-ph swp-thumb-ph-${item.platform}`;
     const thumbHtml = item.thumbnail
       ? `<img src="${sanitize(item.thumbnail)}" alt="" loading="lazy"
@@ -94,6 +184,7 @@ const t = i18n[lang] ?? i18n['zh-tw'];
       return;
     }
     list.innerHTML = picks.map(cardHtml).join('');
+    activateEmbedMedia(list);
   }
 
   try {
@@ -181,6 +272,48 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   background: #fff;
   border: 1px solid #eee;
 }
+.swp-card-embed { display: block; }
+.swp-card-link {
+  display: block;
+  font-size: .7rem;
+  color: #1a6fad;
+  font-weight: 600;
+  text-decoration: none;
+  margin-top: .25rem;
+}
+.swp-card-link:hover { text-decoration: underline; }
+
+/* Meta 系（FB/IG/Threads）貼文 iframe 容器 */
+.iframe-container {
+  position: relative;
+  overflow: hidden;
+  background: #f0f0f0;
+}
+.iframe-container[data-ratio="9:16"] { aspect-ratio: 9 / 16; }
+.iframe-container[data-ratio="4:5"]  { aspect-ratio: 4 / 5; }
+.iframe-container[data-ratio="16:9"] { aspect-ratio: 16 / 9; }
+.iframe-container[data-ratio="1:1"]  { aspect-ratio: 1 / 1; }
+.iframe-container iframe, .iframe-container img {
+  width: 100%; height: 100%; border: 0; display: block;
+}
+/* IG /embed/captioned/ 沒有 embed.js 時頂部會露出大頭貼列，往上裁掉讓視覺更一致 */
+.iframe-container[data-platform="instagram"] iframe {
+  height: calc(100% + 60px);
+  margin-top: -60px;
+}
+/* iframe / 縮圖載入中的骨架動畫 */
+@keyframes swp-shimmer {
+  0%   { background-position: -300px 0; }
+  100% { background-position: 300px 0; }
+}
+.embed-iframe-sk {
+  position: absolute; inset: 0; z-index: 1;
+  background-size: 600px 100%;
+  animation: swp-shimmer 1.4s infinite linear;
+}
+.embed-iframe-sk-threads   { background: linear-gradient(90deg,#111 25%,#222 50%,#111 75%); }
+.embed-iframe-sk-instagram { background: linear-gradient(90deg,#b24592 25%,#e15c8a 50%,#b24592 75%); opacity:.4; }
+.embed-iframe-sk-facebook  { background: linear-gradient(90deg,#1565c0 25%,#1e88e5 50%,#1565c0 75%); opacity:.4; }
 .swp-thumb {
   width: 100%;
   aspect-ratio: 1 / 1;
@@ -194,7 +327,15 @@ const t = i18n[lang] ?? i18n['zh-tw'];
 }
 .swp-thumb-icon { filter: drop-shadow(0 2px 4px rgba(0,0,0,.25)); }
 /* 無縮圖的平台（FB/IG 無法抓取真實縮圖）→ 用品牌色漸層佔位，取代灰色空白 */
-.swp-thumb-ph { color: #fff; font-size: 1.8rem; }
+.swp-thumb-ph {
+  width: 100%;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-size: 1.8rem;
+}
 .swp-thumb-ph-facebook  { background: linear-gradient(160deg, #1877f2 0%, #42a5f5 100%); }
 .swp-thumb-ph-instagram { background: linear-gradient(160deg, #833ab4 0%, #fd1d1d 55%, #fcb045 100%); }
 .swp-thumb-ph-threads   { background: linear-gradient(160deg, #111 0%, #2a2a2a 100%); }
