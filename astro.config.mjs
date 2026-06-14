@@ -22,7 +22,7 @@ if (existsSync(MAP_LASTMOD_FILE)) {
 
 // 從 blog content 取得 lastmod（優先 update，fallback pubDate）
 function getBlogLastmod(slug) {
-  const dirs = ['blog', 'en', 'zh-cn', 'zh-hk'];
+  const dirs = ['blog', 'en', 'zh-cn', 'zh-hk', 'id'];
   for (const dir of dirs) {
     const p = join(process.cwd(), 'src/content', dir, `${slug}.md`);
     if (existsSync(p)) {
@@ -39,7 +39,7 @@ function getBlogLastmod(slug) {
 
 // 計算每個 slug 實際存在哪些語言版本（給 sitemap hreflang 用，避免指向 404）
 import { readdirSync } from 'fs';
-const LANG_DIRS = { 'zh-tw': 'blog', 'zh-hk': 'zh-hk', 'zh-cn': 'zh-cn', 'en': 'en' };
+const LANG_DIRS = { 'zh-tw': 'blog', 'zh-hk': 'zh-hk', 'zh-cn': 'zh-cn', 'en': 'en', 'id': 'id' };
 const slugLangs = new Map(); // slug -> Set<lang>
 for (const [lang, dir] of Object.entries(LANG_DIRS)) {
   const base = join(process.cwd(), 'src/content', dir);
@@ -75,7 +75,7 @@ export default defineConfig({
         item.changefreq = item.priority >= 1.0 ? 'weekly' : 'monthly';
 
         // lastmod：blog 讀 update/pubDate，地圖讀 maps-lastmod.json
-        const blogLastmodMatch = path.match(/^(?:\/(en|zh-cn|zh-hk))?\/blog\/([^/]+)\/?$/);
+        const blogLastmodMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/blog\/([^/]+)\/?$/);
         if (blogLastmodMatch) {
           const lastmod = getBlogLastmod(blogLastmodMatch[2]);
           if (lastmod) item.lastmod = lastmod;
@@ -88,19 +88,20 @@ export default defineConfig({
 
         // 加入 hreflang 互連，幫助 Google 理解多語言版本關係
         // 比對 /blog/SLUG/ 或 /en/blog/SLUG/ 等格式
-        const articleMatch = path.match(/^(?:\/(en|zh-cn|zh-hk))?\/blog\/([^/]+)\/?$/);
+        const articleMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/blog\/([^/]+)\/?$/);
         if (articleMatch) {
           const slug = articleMatch[2];
-          const langs = slugLangs.get(slug) ?? new Set(['zh-tw', 'zh-hk', 'zh-cn', 'en']);
+          const langs = slugLangs.get(slug) ?? new Set(['zh-tw', 'zh-hk', 'zh-cn', 'en', 'id']);
           const urls = {
             'zh-tw': `https://gobaligo.id/blog/${slug}/`,
             'zh-hk': `https://gobaligo.id/zh-hk/blog/${slug}/`,
             'zh-cn': `https://gobaligo.id/zh-cn/blog/${slug}/`,
             'en':    `https://gobaligo.id/en/blog/${slug}/`,
+            'id':    `https://gobaligo.id/id/blog/${slug}/`,
           };
-          // x-default 指向最佳可用版本（zh-tw → en → zh-hk → zh-cn）
-          const xDefault = ['zh-tw', 'en', 'zh-hk', 'zh-cn'].find(l => langs.has(l)) ?? 'zh-tw';
-          const tags = [['zh-TW', 'zh-tw'], ['zh-HK', 'zh-hk'], ['zh-CN', 'zh-cn'], ['en', 'en']];
+          // x-default 指向最佳可用版本（zh-tw → en → zh-hk → zh-cn → id）
+          const xDefault = ['zh-tw', 'en', 'zh-hk', 'zh-cn', 'id'].find(l => langs.has(l)) ?? 'zh-tw';
+          const tags = [['zh-TW', 'zh-tw'], ['zh-HK', 'zh-hk'], ['zh-CN', 'zh-cn'], ['en', 'en'], ['id', 'id']];
           item.links = [
             { lang: 'x-default', url: urls[xDefault] },
             ...tags.filter(([, l]) => langs.has(l)).map(([tag, l]) => ({ lang: tag, url: urls[l] })),
@@ -108,7 +109,7 @@ export default defineConfig({
         }
 
         // hreflang for homepage (/ , /en/, /zh-cn/, /zh-hk/)
-        const homepageMatch = path.match(/^(?:\/(en|zh-cn|zh-hk))?\/?$/);
+        const homepageMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/?$/);
         if (homepageMatch) {
           item.priority = 1.0;
           item.changefreq = 'daily';
@@ -118,11 +119,12 @@ export default defineConfig({
             { lang: 'zh-HK',     url: 'https://gobaligo.id/zh-hk/' },
             { lang: 'zh-CN',     url: 'https://gobaligo.id/zh-cn/' },
             { lang: 'en',        url: 'https://gobaligo.id/en/' },
+            { lang: 'id',        url: 'https://gobaligo.id/id/' },
           ];
         }
 
         // hreflang for /tickets/ pages
-        const ticketsMatch = path.match(/^(?:\/(en|zh-cn|zh-hk))?\/tickets\/?$/);
+        const ticketsMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/tickets\/?$/);
         if (ticketsMatch) {
           item.priority = 0.9;
           item.changefreq = 'weekly';
@@ -132,6 +134,7 @@ export default defineConfig({
             { lang: 'zh-HK',     url: 'https://gobaligo.id/zh-hk/tickets/' },
             { lang: 'zh-CN',     url: 'https://gobaligo.id/zh-cn/tickets/' },
             { lang: 'en',        url: 'https://gobaligo.id/en/tickets/' },
+            { lang: 'id',        url: 'https://gobaligo.id/id/tickets/' },
           ];
         }
 

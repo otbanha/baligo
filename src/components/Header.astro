@@ -13,23 +13,29 @@ const { lang, slug, basePath, hideLangSwitcher } = Astro.props;
 
 const homeUrl = lang === 'en' ? '/en/blog/' :
                 lang === 'zh-cn' ? '/zh-cn/blog/' :
-                lang === 'zh-hk' ? '/zh-hk/blog/' : '/blog/?lang=tw';
+                lang === 'zh-hk' ? '/zh-hk/blog/' :
+                lang === 'id' ? '/id/blog/' : '/blog/?lang=tw';
 
 const searchPlaceholder = lang === 'en'    ? '🔍 Search articles...' :
                           lang === 'zh-cn' ? '🔍 搜索文章...' :
                           lang === 'zh-hk' ? '🔍 搜尋文章...' :
+                          lang === 'id'    ? '🔍 Cari artikel...' :
                                              '🔍 搜尋文章...';
 
-const closeLabel = lang === 'en' ? 'Close search' : '關閉搜尋';
-const searchLabel = lang === 'en' ? 'Search' : '搜尋';
-const inputPlaceholder = lang === 'en' ? 'Search 700+ Bali travel articles...' : '搜尋 700+ 篇峇里島旅遊文章...';
+const closeLabel = lang === 'en' ? 'Close search' : lang === 'id' ? 'Tutup pencarian' : '關閉搜尋';
+const searchLabel = lang === 'en' ? 'Search' : lang === 'id' ? 'Cari' : '搜尋';
+const inputPlaceholder = lang === 'en' ? 'Search 700+ Bali travel articles...' :
+                         lang === 'id' ? 'Cari 700+ artikel panduan Bali...' :
+                                          '搜尋 700+ 篇峇里島旅遊文章...';
 
 const logoSubtitle = lang === 'en'    ? 'Smart Bali Guide' :
                      lang === 'zh-cn' ? '巴厘岛旅游攻略' :
+                     lang === 'id'    ? 'Panduan Wisata Bali' :
                                         '峇里島旅遊攻略';
 
 const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
                  lang === 'zh-cn' ? 'Go Bali Go 巴厘岛旅游攻略' :
+                 lang === 'id'    ? 'Go Bali Go Panduan Wisata Bali' :
                                     SITE_TITLE;
 ---
 
@@ -220,6 +226,7 @@ const logoFull = lang === 'en'    ? 'Go Bali Go Smart Bali Guide' :
         tagList = tagList.map(function (t) { return toCn(t); });
         if (url.indexOf('/blog/') === 0) url = '/zh-cn' + url;
       }
+      if (lang === 'id' && url.indexOf('/blog/') === 0) url = '/id' + url;
       var tags = tagList.slice(0, 3).map(function (t) {
         return '<span class="search-result-tag">' + t + '</span>';
       }).join('');

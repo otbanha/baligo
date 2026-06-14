@@ -9,6 +9,7 @@
 | 粵語     | `/zh-hk/blog/`   | zh-HK       | `'zh-hk'`      |
 | 簡體中文 | `/zh-cn/blog/`   | zh-CN       | `'zh-cn'`      |
 | 英文     | `/en/blog/`      | en          | `'en'`         |
+| 印尼文   | `/id/blog/`      | id          | `'id'`         |
 
 > ⚠️ 注意：繁體中文的路徑前綴是 `/blog/`，**不是** `/zh-tw/blog/`。
 > 內部 lang code 也是 `'blog'`，不是 `'zh-tw'`。
@@ -27,6 +28,8 @@
 /zh-cn/blog/[slug]/        → 簡體中文文章
 /en/blog/                  → 英文首頁 index
 /en/blog/[slug]/           → 英文文章
+/id/blog/                  → 印尼文首頁 index
+/id/blog/[slug]/           → 印尼文文章
 ```
 
 Article slug 語言中立（所有語言版本共用同一 slug）。
@@ -45,6 +48,7 @@ Article slug 語言中立（所有語言版本共用同一 slug）。
 | `en*`              | `/en/blog/`    |
 | `zh-CN / zh-Hans / zh-SG / zh-MY` | `/zh-cn/blog/` |
 | `zh-HK / zh-MO`   | `/zh-hk/blog/` |
+| `id*`              | `/id/blog/`    |
 | 其他（含 zh-TW）   | 留在 `/blog/`  |
 
 ## 導航邏輯
@@ -119,6 +123,7 @@ Article slug 語言中立（所有語言版本共用同一 slug）。
 | 粵語 index            | `src/pages/zh-hk/blog/index.astro`           |
 | 簡體中文 index        | `src/pages/zh-cn/blog/index.astro`           |
 | 英文 index            | `src/pages/en/blog/index.astro`              |
+| 印尼文 index          | `src/pages/id/blog/index.astro`              |
 | 繁體中文文章          | `src/pages/blog/[...slug].astro`             |
 | 全域樣式              | `src/styles/global.css`                      |
 | 社群連結預覽工具      | `src/pages/share.astro`                      |

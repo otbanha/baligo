@@ -48,8 +48,8 @@ function restoreVideoUrls(text, saved) {
 const CACHE_FILE = '.translation-cache.json';
 const BATCH_SIZE = parseInt(process.env.TRANSLATE_BATCH_SIZE ?? '10', 10); // 每次 API 呼叫最多幾個段落
 
-const ALL_LANGS = ['zh-cn', 'zh-hk', 'en'];
-const BLOCK_LANGS = ['zh-cn', 'zh-hk', 'en'];
+const ALL_LANGS = ['zh-cn', 'zh-hk', 'en', 'id'];
+const BLOCK_LANGS = ['zh-cn', 'zh-hk', 'en', 'id'];
 
 const SYSTEM_PROMPTS = {
   'zh-cn': `你是專業翻譯，將繁體中文翻譯成簡體中文。
@@ -82,6 +82,19 @@ Requirements:
 4. If the text contains placeholders like __VID0__, __VID1__, keep them exactly as-is — do not translate or modify them
 5. Return JSON: {"translations": ["translation1", "translation2", ...]}
    Array length must match input`,
+
+  'id': `Kamu adalah penerjemah konten travel Bali yang berpengalaman. Terjemahkan teks dari bahasa Mandarin Tradisional ke bahasa Indonesia.
+Ketentuan:
+1. Gaya santai dan natural seperti blog travel lokal Indonesia — boleh pakai "kamu", hindari "Anda". Boleh pakai kata gaul travel secukupnya (banget, sih, wajib coba, worth it, hidden gem) tapi jangan berlebihan/garing.
+2. Nama tempat pakai nama Indonesia asli (apa pun tulisan sumbernya):
+   峇里島→Bali, 烏布→Ubud, 庫塔→Kuta, 水明漾→Seminyak, 沙努爾→Sanur, 金巴蘭→Jimbaran, 努沙杜瓦→Nusa Dua
+   長谷/倉古/蒼古/坎古→Canggu（semua merujuk tempat yang sama）
+3. Jangan terjemahkan: nama brand, nama tempat spesifik (jika perlu, tambahkan keterangan asli dalam kurung), code block, path gambar, link affiliate beserta parameternya.
+4. Konversi mata uang: ubah jumlah NT$ / 新台幣 / 台幣 ke USD dengan kurs 31:1, dibulatkan ke bilangan bulat terdekat. Contoh: NT$3,100 → USD$100
+5. Jika teks mengandung placeholder seperti __VID0__, __VID1__, biarkan apa adanya — jangan diterjemahkan atau diubah
+6. Pertahankan struktur Markdown dan level heading apa adanya
+7. Kembalikan dalam format JSON: {"translations": ["terjemahan1", "terjemahan2", ...]}
+   Panjang array harus sama dengan input`,
 };
 
 // ── CLI 引數解析 ─────────────────────────────────────────────────────────────

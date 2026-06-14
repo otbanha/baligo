@@ -76,6 +76,11 @@ const en = defineCollection({
   schema: translatedSchema,
 });
 
+const id = defineCollection({
+  loader: glob({ base: './src/content/id', pattern: '**/*.{md,mdx}' }),
+  schema: translatedSchema,
+});
+
 const qa = defineCollection({
   loader: glob({ base: './src/content/qa', pattern: '**/*.{md,mdx}' }),
   schema: z.object({
@@ -114,4 +119,5 @@ export const collections = {
   'zh-cn': zhcn,
   'zh-hk': zhhk,
   'en': en,
+  'id': id,
 };

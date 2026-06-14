@@ -130,6 +130,10 @@ const en = defineCollection({
   loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: './src/content/en' }),
   schema: translatedSchema,
 });
+const id = defineCollection({
+  loader: glob({ pattern: ['**/*.md', '**/*.mdx'], base: './src/content/id' }),
+  schema: translatedSchema,
+});
 
 const tickets = defineCollection({
   loader: glob({ pattern: '**/*.md', base: './src/content/tickets' }),
@@ -151,4 +155,5 @@ export const collections = {
   'zh-cn': zhcn,
   'zh-hk': zhhk,
   'en': en,
+  'id': id,
 };

@@ -11,6 +11,7 @@ const COLLECTIONS: Array<[lang: string, collection: string]> = [
   ['zh-hk', 'zh-hk'],
   ['zh-cn', 'zh-cn'],
   ['en', 'en'],
+  ['id', 'id'],
 ];
 
 export async function getLangAvailability(): Promise<Map<string, Set<string>>> {
@@ -31,5 +32,5 @@ export async function getLangAvailability(): Promise<Map<string, Set<string>>> {
 /** 取得某 slug 實際存在的語言集合（找不到時回傳全部語言，安全 fallback）。 */
 export async function getAvailableLangs(slug: string): Promise<Set<string>> {
   const map = await getLangAvailability();
-  return map.get(slug) ?? new Set(['zh-tw', 'zh-hk', 'zh-cn', 'en']);
+  return map.get(slug) ?? new Set(['zh-tw', 'zh-hk', 'zh-cn', 'en', 'id']);
 }

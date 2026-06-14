@@ -100,7 +100,7 @@ jobs:
                   continue
               h = content_hash(txt)
               dn = dest_name(txt, src.name)
-              for lang in ['zh-cn', 'zh-hk', 'en']:
+              for lang in ['zh-cn', 'zh-hk', 'en', 'id']:
                   dest = Path(f'src/content/{lang}/{dn}')
                   if not dest.exists() or stored_hash(dest) != h:
                       count += 1
@@ -184,7 +184,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add src/content/zh-cn/ src/content/zh-hk/ src/content/en/ src/content/blocks/zh-cn/ src/content/blocks/en/ || true
+          git add src/content/zh-cn/ src/content/zh-hk/ src/content/en/ src/content/id/ src/content/blocks/zh-cn/ src/content/blocks/en/ src/content/blocks/id/ || true
           if git diff --cached --quiet; then
             echo "沒有新翻譯，跳過 commit"
           else

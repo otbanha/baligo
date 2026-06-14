@@ -40,7 +40,7 @@ const cats = Array.isArray(category) ? category : (category ? [category] : []);
 const metaTitle = enhancedTitle(title, cats, lang ?? 'zh-tw');
 const metaDesc  = enhancedDescription(description ?? '', cats, lang ?? 'zh-tw');
 
-const collectionName = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-cn' : lang === 'zh-hk' ? 'zh-hk' : 'blog';
+const collectionName = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-cn' : lang === 'zh-hk' ? 'zh-hk' : lang === 'id' ? 'id' : 'blog';
 const allPosts = await getCollection(collectionName as any);
 
 const CAT_EN: Record<string, string> = {
@@ -68,34 +68,50 @@ const CAT_ZH_CN: Record<string, string> = {
   '新聞存檔': '新闻存档', '新闻存档': '新闻存档',
 };
 
+const CAT_ID: Record<string, string> = {
+  '新手指南': "Panduan Pemula",
+  '住宿推薦': 'Akomodasi', '住宿推荐': 'Akomodasi',
+  '峇里島分區攻略': 'Panduan Area', '峇里岛分区攻略': 'Panduan Area',
+  '簽證通關': 'Visa & Imigrasi', '签证通关': 'Visa & Imigrasi',
+  '叫車包車': 'Transportasi', '叫车包车': 'Transportasi',
+  '家庭親子': 'Liburan Keluarga', '家庭亲子': 'Liburan Keluarga',
+  '遊記分享': 'Cerita Traveling', '游记分享': 'Cerita Traveling',
+  '美食景點活動': 'Makanan & Aktivitas', '美食景点活动': 'Makanan & Aktivitas',
+  '新聞存檔': 'Arsip Berita', '新闻存档': 'Arsip Berita',
+  '旅行技巧': 'Tips Traveling',
+};
+
 const getCatLabel = (cat: string) => {
   if (lang === 'en') return CAT_EN[cat] ?? cat;
   if (lang === 'zh-cn') return CAT_ZH_CN[cat] ?? cat;
+  if (lang === 'id') return CAT_ID[cat] ?? cat;
   return cat;
 };
 
-const blogBase = lang === 'en' ? '/en/blog' : lang === 'zh-cn' ? '/zh-cn/blog' : lang === 'zh-hk' ? '/zh-hk/blog' : '/blog';
-const isZhTw = lang !== 'en' && lang !== 'zh-cn' && lang !== 'zh-hk';
+const blogBase = lang === 'en' ? '/en/blog' : lang === 'zh-cn' ? '/zh-cn/blog' : lang === 'zh-hk' ? '/zh-hk/blog' : lang === 'id' ? '/id/blog' : '/blog';
+const isZhTw = lang !== 'en' && lang !== 'zh-cn' && lang !== 'zh-hk' && lang !== 'id';
 const blogIndexUrl = isZhTw ? `${blogBase}/?lang=tw` : `${blogBase}/`;
 const catBaseUrl   = isZhTw ? `${blogBase}/?lang=tw&cat=` : `${blogBase}?cat=`;
 
 const canonicalUrl = `https://gobaligo.id${blogBase}/${slug}/`;
 
 // hreflang：只輸出實際存在的語言版本，避免指向 404（壞掉的 hreflang 會干擾 Google 選擇 canonical）
-const availLangs = slug ? await getAvailableLangs(slug) : new Set(['zh-tw', 'zh-hk', 'zh-cn', 'en']);
+const availLangs = slug ? await getAvailableLangs(slug) : new Set(['zh-tw', 'zh-hk', 'zh-cn', 'en', 'id']);
 const hreflangUrls: Record<string, string> = {
   'zh-tw': `https://gobaligo.id/blog/${slug}/`,
   'zh-hk': `https://gobaligo.id/zh-hk/blog/${slug}/`,
   'zh-cn': `https://gobaligo.id/zh-cn/blog/${slug}/`,
   'en':    `https://gobaligo.id/en/blog/${slug}/`,
+  'id':    `https://gobaligo.id/id/blog/${slug}/`,
 };
-// x-default 指向最佳可用版本（優先序：zh-tw → en → zh-hk → zh-cn）
-const xDefaultLang = (['zh-tw', 'en', 'zh-hk', 'zh-cn'] as const).find(l => availLangs.has(l)) ?? 'zh-tw';
+// x-default 指向最佳可用版本（優先序：zh-tw → en → zh-hk → zh-cn → id）
+const xDefaultLang = (['zh-tw', 'en', 'zh-hk', 'zh-cn', 'id'] as const).find(l => availLangs.has(l)) ?? 'zh-tw';
 const hreflangEntries = [
   { hreflang: 'zh-TW', lang: 'zh-tw' },
   { hreflang: 'zh-HK', lang: 'zh-hk' },
   { hreflang: 'zh-CN', lang: 'zh-cn' },
   { hreflang: 'en',    lang: 'en'    },
+  { hreflang: 'id',    lang: 'id'    },
 ].filter(e => availLangs.has(e.lang));
 
 const shareText = encodeURIComponent(title);
@@ -108,21 +124,21 @@ const shareLinks = {
   threads: `https://www.threads.net/intent/post?text=${shareText}%20${shareUrl}`,
 };
 const i18nShare = {
-  label:    lang === 'en' ? 'Share' : lang === 'zh-cn' ? '分享' : '分享',
-  copy:     lang === 'en' ? 'Copy Link' : lang === 'zh-cn' ? '复制链接' : '複製連結',
-  copied:   lang === 'en' ? 'Copied!' : lang === 'zh-cn' ? '已复制！' : '已複製！',
-  bookmark: lang === 'en' ? 'Bookmark' : lang === 'zh-cn' ? '收藏' : '書籤',
-  bookmarked: lang === 'en' ? 'Saved!' : lang === 'zh-cn' ? '已收藏！' : '已儲存！',
+  label:    lang === 'en' ? 'Share' : lang === 'zh-cn' ? '分享' : lang === 'id' ? 'Bagikan' : '分享',
+  copy:     lang === 'en' ? 'Copy Link' : lang === 'zh-cn' ? '复制链接' : lang === 'id' ? 'Salin Link' : '複製連結',
+  copied:   lang === 'en' ? 'Copied!' : lang === 'zh-cn' ? '已复制！' : lang === 'id' ? 'Tersalin!' : '已複製！',
+  bookmark: lang === 'en' ? 'Bookmark' : lang === 'zh-cn' ? '收藏' : lang === 'id' ? 'Simpan' : '書籤',
+  bookmarked: lang === 'en' ? 'Saved!' : lang === 'zh-cn' ? '已收藏！' : lang === 'id' ? 'Tersimpan!' : '已儲存！',
 };
 
 const i18n = {
-  sidebarTitle: lang === 'en' ? '📂 Categories' : lang === 'zh-cn' ? '📂 文章分类' : '📂 文章分類',
-  allArticles: lang === 'en' ? 'Home' : '首頁',
-  breadcrumbAll: lang === 'en' ? '← All Articles' : '← 所有文章',
-  tocTitle: lang === 'en' ? '📋 Contents' : lang === 'zh-cn' ? '📋 目录' : '📋 目錄',
-  tocCollapse: lang === 'en' ? 'Collapse' : '收起',
-  tocExpand: lang === 'en' ? 'Expand' : lang === 'zh-cn' ? '展开' : '展開',
-  relatedTitle: lang === 'en' ? '🗺️ You May Also Like' : lang === 'zh-cn' ? '🗺️ 你可能也想看' : '🗺️ 你可能也想看',
+  sidebarTitle: lang === 'en' ? '📂 Categories' : lang === 'zh-cn' ? '📂 文章分类' : lang === 'id' ? '📂 Kategori' : '📂 文章分類',
+  allArticles: lang === 'en' ? 'Home' : lang === 'id' ? 'Beranda' : '首頁',
+  breadcrumbAll: lang === 'en' ? '← All Articles' : lang === 'id' ? '← Semua Artikel' : '← 所有文章',
+  tocTitle: lang === 'en' ? '📋 Contents' : lang === 'zh-cn' ? '📋 目录' : lang === 'id' ? '📋 Daftar Isi' : '📋 目錄',
+  tocCollapse: lang === 'en' ? 'Collapse' : lang === 'id' ? 'Tutup' : '收起',
+  tocExpand: lang === 'en' ? 'Expand' : lang === 'zh-cn' ? '展开' : lang === 'id' ? 'Buka' : '展開',
+  relatedTitle: lang === 'en' ? '🗺️ You May Also Like' : lang === 'zh-cn' ? '🗺️ 你可能也想看' : lang === 'id' ? '🗺️ Mungkin Kamu Suka' : '🗺️ 你可能也想看',
 };
 
 const categoryOrder = [
@@ -271,7 +287,7 @@ const spaFaqSchema = isSpaGuide ? {
 } : null;
 ---
 
-<html lang={lang === 'zh-cn' ? 'zh-CN' : lang === 'zh-hk' ? 'zh-HK' : lang === 'en' ? 'en' : 'zh-TW'}>
+<html lang={lang === 'zh-cn' ? 'zh-CN' : lang === 'zh-hk' ? 'zh-HK' : lang === 'en' ? 'en' : lang === 'id' ? 'id' : 'zh-TW'}>
 <head>
   <BaseHead
     title={metaTitle}

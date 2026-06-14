@@ -188,6 +188,7 @@ const socialLinks = [
   <link rel="alternate" hreflang="zh-HK"     href="https://gobaligo.id/zh-hk/blog/" />
   <link rel="alternate" hreflang="zh-CN"     href="https://gobaligo.id/zh-cn/blog/" />
   <link rel="alternate" hreflang="en"        href="https://gobaligo.id/en/blog/" />
+  <link rel="alternate" hreflang="id"        href="https://gobaligo.id/id/blog/" />
   <!-- 瀏覽器語言自動偵測：只在同一 session 的第一次進入時生效，?lang=tw 可強制停留 -->
   <script is:inline>
     (function() {
@@ -214,6 +215,7 @@ const socialLinks = [
       if (cookieLang === 'zh-cn') { window.location.replace('/zh-cn/blog/' + qs); return; }
       if (cookieLang === 'zh-hk') { window.location.replace('/zh-hk/blog/' + qs); return; }
       if (cookieLang === 'en')    { window.location.replace('/en/blog/' + qs); return; }
+      if (cookieLang === 'id')    { window.location.replace('/id/blog/' + qs); return; }
 
       // 沒有 cookie，看瀏覽器語言（檢查整個 navigator.languages 陣列）
       var langs = Array.from(navigator.languages || [navigator.language || '']).map(function(l){ return l.toLowerCase(); });
@@ -230,6 +232,7 @@ const socialLinks = [
       var dest = null;
       if (nav.startsWith('en')) dest = '/en/blog/';
       else if (nav === 'zh-cn' || nav === 'zh-hans' || nav === 'zh-sg' || nav === 'zh-my') dest = '/zh-cn/blog/';
+      else if (nav.startsWith('id')) dest = '/id/blog/';
       if (dest) window.location.replace(dest + qs);
     })();
   </script>
