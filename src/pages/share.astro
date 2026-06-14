@@ -856,16 +856,28 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
 
       async function ensureTurnstileToken() {
         if (window._tsToken) return window._tsToken;
-        // Token 還沒來，主動 execute 並等待（最多 8 秒）
+
+        // 行動裝置網路較慢時，challenges.cloudflare.com/turnstile/v0/api.js
+        // 可能尚未載入完成，window.turnstile 還是 undefined，
+        // 此時直接 execute 會被 ?. 短路跳過，白白等滿 8 秒後失敗（BOT_DETECTED）。
+        // 改為先輪詢等待 turnstile.js 就位，再 execute 並等待 callback。
+        const deadline = Date.now() + 8000;
+        while (!window.turnstile && Date.now() < deadline) {
+          await new Promise((r) => setTimeout(r, 150));
+          if (window._tsToken) return window._tsToken;
+        }
+        if (window._tsToken) return window._tsToken;
+        if (!window.turnstile) return '';
+
         return new Promise((resolve) => {
           const widget = document.querySelector('.cf-turnstile');
-          const timer = setTimeout(() => resolve(''), 8000);
+          const timer = setTimeout(() => resolve(''), Math.max(deadline - Date.now(), 1000));
           window.onTurnstileSuccess = (token) => {
             window._tsToken = token;
             clearTimeout(timer);
             resolve(token);
           };
-          try { window.turnstile?.execute(widget); } catch { clearTimeout(timer); resolve(''); }
+          try { window.turnstile.execute(widget); } catch { clearTimeout(timer); resolve(''); }
         });
       }
 
