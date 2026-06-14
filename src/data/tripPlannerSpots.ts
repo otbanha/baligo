@@ -154,6 +154,7 @@ export const tripPlannerSpots: Spot[] = [
   { id: 'sa_spa', name: 'SPA按摩', region: 'sanur', durationHours: 2, bestTime: 'afternoon', audience: ['solo', 'couple', 'family', 'friends', 'elderly', 'group'], intensity: 1, allowedTimes: ['afternoon', 'evening'], blogUrl: '/blog/spa/' },
   { id: 'sa_snorkel', name: '離岸浮潛', region: 'sanur', durationHours: 3, bestTime: 'morning', audience: ['friends', 'group', 'couple', 'solo'], intensity: 2, allowedTimes: ['morning', 'afternoon'], blogUrl: 'https://www.klook.com/zh-TW/activity/134495-snorkeling-experience-in-sanur-coastal/' },
   { id: 'sa_marine', name: 'Bali Exotic Marine Park', region: 'sanur', durationHours: 2, bestTime: 'morning', audience: ['family', 'friends', 'group'], intensity: 1, allowedTimes: ['morning', 'afternoon'], blogUrl: '/blog/Bali-Exotic-Marine-Park/' },
+  { id: 'sa_biggarden', name: 'Big Garden Corner', region: 'sanur', durationHours: 1, bestTime: 'afternoon', audience: ['solo', 'couple', 'family', 'friends', 'elderly', 'group'], intensity: 1, allowedTimes: ['morning', 'afternoon'], blogUrl: '/blog/sanur-guide/#big-garden-corner-bali%E5%9C%B0%E5%9C%96' },
 
   // ── Nusa Penida（整天跳島） ────────────────────────────────────────
   { id: 'np_snorkel', name: '佩尼達浮潛一日遊', region: 'nusa-penida', durationHours: 9, bestTime: 'morning', audience: ['solo', 'couple', 'friends', 'group'], intensity: 3, isFullDay: true, blogUrl: '/blog/nusa-penida-snorkeling-guide/', notes: '需搭快艇，建議整天，請見跳島攻略' },
