@@ -1169,9 +1169,10 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
             // 樂觀更新：立即把這篇加到「最新加入」最前面
             // （UNFURL_RECENT 為 KV 最終一致性，reload 可能要數秒後才讀得到，
             //  否則使用者會覺得「按了沒反應」）
+            let optimisticItem = null;
             if (!data.cached) {
               try {
-                const optimisticItem = {
+                optimisticItem = {
                   id: `pending-${Date.now()}`,
                   platform: data.platform,
                   renderMode: data.renderMode ?? 'rich',
@@ -1189,8 +1190,9 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
               } catch {}
             }
 
-            // KV 寫入是 waitUntil 非同步，稍後 reload 取得正式資料（含 id，供刪除/讚用）
-            setTimeout(() => loadRecent(), 3000);
+            // KV 寫入是 waitUntil 非同步，稍後 reload 取得正式資料（含 id，供刪除/讚用）。
+            // 若當下 KV 還沒讀到，loadRecent 會保留樂觀項目，避免剛加入的卡片閃現後消失。
+            setTimeout(() => loadRecent(optimisticItem), 3000);
           } else {
             renderError(data, rawUrl);
           }
@@ -1387,13 +1389,17 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       }
 
       // ── Recent feed ──
-      async function loadRecent() {
+      async function loadRecent(pendingItem) {
         try {
           // /api/recent-unfurls 帶 12h Cache-Control，但 /share/ 使用者剛新增的項目
           // 必須立即看到，故繞過瀏覽器快取
           const res = await fetch('/api/recent-unfurls?limit=50', { cache: 'no-store' });
           const data = await res.json();
-          const items = data.items || [];
+          let items = data.items || [];
+          // KV 為最終一致性，剛加入的項目可能還讀不到；若樂觀項目尚未出現在結果中，補回最前面
+          if (pendingItem && !items.some(it => it.sourceUrl === pendingItem.sourceUrl)) {
+            items = [pendingItem, ...items];
+          }
           if (items.length === 0) { recentSection.style.display = 'none'; return; }
 
           recentSection.style.display = '';
