@@ -177,4 +177,9 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
   white-space: nowrap;
   background: #fffbe6;
 }
+
+@media (max-width: 480px) {
+  /* 手機版只顯示最新 4 則，避免清單過長 */
+  .frr-item:nth-child(n+5) { display: none; }
+}
 </style>
