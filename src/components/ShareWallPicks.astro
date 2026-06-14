@@ -135,8 +135,9 @@ const t = i18n[lang] ?? i18n['zh-tw'];
 
   function displayTitle(item) {
     if (item.title) return item.title;
-    if (item.authorName) return `${item.authorName} 的貼文`;
+    // embedHandle 是純 ASCII @handle，比 authorName（常含特殊裝飾字型/圖示字元）顯示更穩定
     if (item.embedHandle) return `${item.embedHandle} 的貼文`;
+    if (item.authorName) return `${item.authorName} 的貼文`;
     return `${item.platform} 貼文`;
   }
 

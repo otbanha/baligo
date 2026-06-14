@@ -1356,7 +1356,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }
 
         const displayTitle = isEmbed
-          ? (item.authorName ? `${item.authorName} 的貼文` : item.embedHandle ? `${item.embedHandle} 的貼文` : `${item.platform} 貼文`)
+          ? (item.embedHandle ? `${item.embedHandle} 的貼文` : item.authorName ? `${item.authorName} 的貼文` : `${item.platform} 貼文`)
           : (item.title || item.authorName || '無標題');
 
         card.innerHTML = `
@@ -1442,7 +1442,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }
 
         const displayTitle = isEmbed
-          ? (item.authorName ? `${item.authorName} 的貼文` : item.embedHandle ? `${item.embedHandle} 的貼文` : `${item.platform} 貼文`)
+          ? (item.embedHandle ? `${item.embedHandle} 的貼文` : item.authorName ? `${item.authorName} 的貼文` : `${item.platform} 貼文`)
           : (item.title || item.authorName || '無標題');
 
         const authorLine = !isEmbed && item.authorName
