@@ -4,10 +4,10 @@ const CORS = {
   'Access-Control-Allow-Headers': 'Content-Type',
 };
 
-function json(data, status = 200) {
+function json(data, status = 200, extraHeaders = {}) {
   return new Response(JSON.stringify(data), {
     status,
-    headers: { 'Content-Type': 'application/json', ...CORS },
+    headers: { 'Content-Type': 'application/json', ...CORS, ...extraHeaders },
   });
 }
 
@@ -40,7 +40,8 @@ export async function onRequest(context) {
       sorted.map((k) => env.UNFURL_RECENT.get(k.name, 'json').catch(() => null)),
     );
 
-    return json({ items: items.filter(Boolean) });
+    // KV list 有成本，每 12 小時讓 CDN 快取一次即可，不需每位訪客都打 KV。
+    return json({ items: items.filter(Boolean) }, 200, { 'Cache-Control': 'public, max-age=43200' });
   } catch (e) {
     console.log(`[recent-unfurls] error: ${e?.message}`);
     return json({ items: [] });
