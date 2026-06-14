@@ -75,7 +75,7 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   /** fallback：無法顯示媒體時的品牌色漸層 + icon 佔位 */
   function embedPlaceholderHtml(item) {
     const icon = PLAT_ICON[item.platform] ?? '◉';
-    return `<div class="swp-thumb-ph swp-thumb-ph-${item.platform}"><span class="swp-thumb-icon">${icon}</span></div>`;
+    return `<div class='swp-thumb-ph swp-thumb-ph-${item.platform}'><span class='swp-thumb-icon'>${icon}</span></div>`;
   }
 
   /** Meta 系（FB/IG/Threads）卡片的媒體區塊：直接嵌入貼文 iframe，跟 /share 一致 */
