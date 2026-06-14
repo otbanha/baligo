@@ -8,6 +8,12 @@ const blogBase = lang === 'en' ? '/en/blog' :
                  lang === 'zh-cn' ? '/zh-cn/blog' :
                  lang === 'zh-hk' ? '/zh-hk/blog' : '/blog';
 
+// 回首頁連結：未帶 lang（如 /share/）時，補上 ?lang=tw 讓 blog/index.astro
+// 直接停在繁中並寫入 cookie，避免依 navigator.languages 誤判跳到英文版
+const homeUrl = lang === 'en' ? '/en/blog/' :
+                lang === 'zh-cn' ? '/zh-cn/blog/' :
+                lang === 'zh-hk' ? '/zh-hk/blog/' : '/blog/?lang=tw';
+
 const CAT_EN: Record<string, string> = {
   '新手指南': "Beginner's Guide",
   '住宿推薦': 'Accommodation',
@@ -60,7 +66,7 @@ const disclaimer = lang === 'en'
 
     <!-- 品牌 -->
     <div class="footer-brand">
-      <a href={`${blogBase}/`} class="footer-logo">
+      <a href={homeUrl} class="footer-logo">
         <img src="/favicon-32x32.png" alt="logo" /> Go Bali Go
       </a>
       <p class="footer-tagline">{tagline}</p>
