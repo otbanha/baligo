@@ -1,7 +1,7 @@
 ---
-slug: 'bvlgari-resort-bali-uluwatu'
-title: "Bvlgari Resort Bali｜寶格麗度假村 烏魯瓦圖懸崖頂奢別墅 2026 - Go Bali Go"
-description: "峇里島最頂級的奢華住宿！Bvlgari Resort Bali 寶格麗度假村坐落烏魯瓦圖 160 公尺懸崖頂端，擁有私人海灘電梯、無敵印度洋海景與義式管家服務。完整解析 2026 最新入住評鑑、懸崖下午茶預約攻略，是名人御用的頂奢蜜月首選。"
+title: Bvlgari Resort Bali｜寶格麗度假村 烏魯瓦圖懸崖頂奢別墅 2026 - Go Bali Go
+slug: bvlgari-resort-bali-uluwatu
+description: 峇里島最頂級的奢華住宿！Bvlgari Resort Bali 寶格麗度假村坐落烏魯瓦圖 160 公尺懸崖頂端，擁有私人海灘電梯、無敵印度洋海景與義式管家服務。完整解析 2026 最新入住評鑑、懸崖下午茶預約攻略，是名人御用的頂奢蜜月首選。
 pubDate: 2026-04-19
 pubHour: 16
 category:
@@ -17,17 +17,17 @@ tags:
   - 巴厘岛宝格丽度假村 2026
   - Bvlgari Resort Bali private beach
   - Most luxurious resort in Uluwatu Bali
-update: 2026/05/22
-heroImage: https://images.gobaligo.id/images/2026-04/1776591241490-4fe6b9930ebc15dd000a4e23814f6ccc.webp
+heroImage: https://images.gobaligo.id/images/2026-06/1781415272787-bvlgari.jpg
 originalUrl: ''
 private: false
 shuffle_h2: false
 embeds: []
-agoda_hotel_id: 77182
-agoda_hotel_name: "寶格麗度假村-峇里島"
-agoda_star_rating: 5
-latitude: -8.843924522399902
 longitude: 115.12069702148438
+agoda_star_rating: 5
+agoda_hotel_name: 寶格麗度假村-峇里島
+agoda_hotel_id: 77182
+update: 2026/05/22
+latitude: -8.843924522399902
 ---
 
 如果峇里島有一間飯店，是所有頂級奢華旅宿的「天花板」，那毫無疑問就是「寶格麗度假村」 Bvlgari Resort Bali。
