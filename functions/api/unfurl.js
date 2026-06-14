@@ -7,6 +7,7 @@ import { handleThreads } from '../lib/unfurl/threads.js';
 import { handleInstagram } from '../lib/unfurl/instagram.js';
 import { handleFacebook } from '../lib/unfurl/facebook.js';
 import { handleTikTok } from '../lib/unfurl/tiktok.js';
+import { mirrorImageToR2 } from '../lib/unfurl/r2-mirror.js';
 
 const CORS = {
   'Access-Control-Allow-Origin': '*',
@@ -212,6 +213,13 @@ export async function onRequest(context) {
       await cachePut(env.UNFURL_CACHE, hash, errResponse, false);
     }
     return json(errResponse);
+  }
+
+  // TikTok 的縮圖網址帶有 x-expires 簽章，1~2 天後會過期失效，
+  // 改存一份到 R2 避免 /share/ 與首頁的縮圖過期後永久損毀。
+  if (platform === 'tiktok' && result.data?.media?.[0]?.url) {
+    const mirrored = await mirrorImageToR2(env, result.data.media[0].url, `images/unfurl/tiktok/${hash}`);
+    if (mirrored) result.data.media[0].url = mirrored;
   }
 
   // Success response
