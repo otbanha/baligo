@@ -99,6 +99,8 @@ export const tripPlannerSpots: Spot[] = [
   { id: 'k_food', name: '庫塔美食', region: 'kuta', durationHours: 1.5, bestTime: 'evening', audience: ['solo', 'couple', 'family', 'friends', 'elderly', 'group'], intensity: 1, blogUrl: '/blog/kuta-best-food-guide/' },
   { id: 'k_spa', name: 'SPA按摩', region: 'kuta', durationHours: 2, bestTime: 'afternoon', audience: ['solo', 'couple', 'family', 'friends', 'elderly', 'group'], intensity: 1, allowedTimes: ['afternoon', 'evening'], blogUrl: '/blog/spa/' },
   { id: 'k_trans', name: 'Trans Studio Bali', region: 'kuta', durationHours: 6, bestTime: 'morning', audience: ['family', 'friends', 'group'], intensity: 2, allowedTimes: ['morning'], blogUrl: '/blog/trans-studio-bali/' },
+  { id: 'k_vr', name: 'Zone Out VR遊樂場', region: 'kuta', durationHours: 1.5, bestTime: 'afternoon', audience: ['solo', 'couple', 'family', 'friends', 'group'], intensity: 2, allowedTimes: ['morning', 'afternoon', 'evening'], blogUrl: '/blog/zone-out-bali-vr-adventure/' },
+  { id: 'k_azul', name: 'Azul Beach Club下午茶', region: 'kuta', durationHours: 2, bestTime: 'afternoon', audience: ['solo', 'couple', 'family', 'friends', 'group'], intensity: 1, allowedTimes: ['afternoon'], blogUrl: '/blog/kuta-guide/#azul-beach-club%E4%B8%8B%E5%8D%88%E8%8C%B6-%E5%9C%B0%E5%9C%96%E5%BA%AB%E5%A1%94%E6%B4%BB%E5%8B%95' },
 
   // ── Seminyak ──────────────────────────────────────────────────────
   { id: 'se_daytour', name: '水明漾一日遊', region: 'seminyak', durationHours: 6, bestTime: 'morning', audience: ['solo', 'couple', 'friends', 'group'], intensity: 2, allowedTimes: ['morning', 'afternoon'], blogUrl: '/blog/seminyak-day-trip-guide/' },
