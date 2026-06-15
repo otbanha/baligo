@@ -1018,9 +1018,14 @@ const ITIN = (function initItinerary() {
   // 各時段可用時數上限，避免「出海釣魚4小時」這類長行程把整個時段塞滿後還排第二個景點進同一時段
   const SLOT_HOUR_CAP = { sunrise: 3, morning: 4, afternoon: 4, sunset: 3, evening: 3 };
 
-  function defaultRegions(days) {
+  function defaultRegions(days, companion) {
     if (days === '4') return ['kuta'];
     if (days === '5') return ['kuta','ubud'];
+    // 長輩同行：使用者未指定地區時，不主動建議跳島（離島快艇船程對長輩較不友善）
+    if (companion === 'elderly') {
+      if (days === '68') return ['kuta','ubud','sanur','nusa-dua'];
+      return ['kuta','ubud','sanur','uluwatu','nusa-dua'];
+    }
     if (days === '68') return ['kuta','ubud','sanur','nusa-penida'];
     return ['kuta','ubud','sanur','uluwatu','nusa-penida'];
   }
@@ -1131,7 +1136,7 @@ const ITIN = (function initItinerary() {
     input.spotIds.forEach(id => { const s = SPOT_BY_ID[id]; if (s) selected.add(s.region); });
     const weight = new Map();
     input.spotIds.forEach(id => { const s = SPOT_BY_ID[id]; if (s) weight.set(s.region, (weight.get(s.region)||0)+1); });
-    let cand = selected.size === 0 ? defaultRegions(input.days) : [...selected];
+    let cand = selected.size === 0 ? defaultRegions(input.days, input.companion) : [...selected];
     const ordered = [...cand].sort((a, b) => {
       const ao = OFFSHORE.has(a)?1:0, bo = OFFSHORE.has(b)?1:0;
       if (ao !== bo) return ao - bo;
