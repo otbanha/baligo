@@ -785,12 +785,16 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         </div>
         <!-- 重複提醒區 -->
         <div id="dup-warn" class="dup-warn" aria-live="polite"></div>
-        <!-- Cloudflare Turnstile invisible widget -->
+        <!-- Cloudflare Turnstile invisible widget
+             注意：不可用 display:none 隱藏！size=invisible 平時不佔版面，
+             但若 Cloudflare 判定需要互動式驗證，會在此容器內顯示挑戰 UI；
+             display:none 會讓該 UI 永遠無法顯示、execute() 永遠等不到
+             callback，最終逾時回傳空 token → 後端判定 BOT_DETECTED。
+             行動裝置（常見共用 IP）較常被要求互動式驗證，故此問題在手機上更明顯。 -->
         <div class="cf-turnstile"
              data-sitekey="0x4AAAAAADU9JhnzFqYcqdn0"
              data-callback="onTurnstileSuccess"
-             data-size="invisible"
-             style="display:none"></div>
+             data-size="invisible"></div>
       </form>
 
       <div id="result-area"></div>
