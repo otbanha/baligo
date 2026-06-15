@@ -23,7 +23,7 @@ originalUrl: 'https://vocus.cc/article/668aaea7fd89780001981840'
 shuffle_h2: true
 line_qr_guide: true
 lang: zh-cn
-_srcHash: 01b14914cfe1dc4c4df244bb10124042
+_srcHash: a96478101d90dbbd16c48da06218e7e2
 ---
 
 Update: 2026/06/10
@@ -136,7 +136,7 @@ Update: 2026/06/10
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_199594cdad8c151de8d87e59d2f3ab37.png)
 
-👍🏼[网友推荐1](https://www.facebook.com/share/p/3vrehdhbqm8AjmjA/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/CrKwLypudSVS7zwG/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/PjuFLJigZfUjKCCZ/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/jgXWQjE9v2EAAumE/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/2GnnMddHS1Aoyz5e/) 👍🏼[网友推荐6](https://www.facebook.com/share/14qWTCcPyU/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/dqJAFAL8wKZ2g5gj/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/15FCva59rQ/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/19rtkMNN8a/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/1EA6aGEJij/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/18mccdsggY/) 👍🏼[网友推荐12](https://web.facebook.com/share/p/1AQeFdnP1L/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/1WqYpPP2PM/) 👍🏼[网友](https://www.facebook.com/share/p/1D3VT7B12V/)[推荐14](https://www.facebook.com/share/p/1D3VT7B12V/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/1Gi179fKcR/)
+👍🏼[网友推荐1](https://www.facebook.com/share/p/3vrehdhbqm8AjmjA/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/CrKwLypudSVS7zwG/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/PjuFLJigZfUjKCCZ/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/jgXWQjE9v2EAAumE/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/2GnnMddHS1Aoyz5e/) 👍🏼[网友推荐6](https://www.facebook.com/share/14qWTCcPyU/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/dqJAFAL8wKZ2g5gj/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/15FCva59rQ/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/19rtkMNN8a/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/1EA6aGEJij/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/18mccdsggY/) 👍🏼[网友推荐12](https://web.facebook.com/share/p/1AQeFdnP1L/) 👍🏼[网友推荐13](https://www.facebook.com/share/p/1WqYpPP2PM/) 👍🏼[网友](https://www.facebook.com/share/p/1D3VT7B12V/)[推荐14](https://www.facebook.com/share/p/1D3VT7B12V/) 👍🏼[网友推荐15](https://www.facebook.com/share/p/1Gi179fKcR/) 👍🏼[网友推荐16](https://www.facebook.com/share/p/193B2ELTJA/)
 
 ***
 
@@ -190,7 +190,7 @@ Update: 2026/06/10
 
 ## （中文司机）Dirga Yusa 长寿
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_e7287b27f84d9730cfcef65b3a520cb7.png)
+![raw-image](https://images.gobaligo.id/images/2026-06/1781362159693-_2026-06-13_21.48.27.png)
 
 👍🏼[网友推荐1](https://www.facebook.com/share/p/1AspU9bSJ2/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1BUyEqjf1C/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1F8XpboZz5/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1CVXibCifc/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/16cnSfa37J/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/14NT4DBz1o4/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/16wh9a4bF2/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1AN3UG2GBq/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1B19RExpLc/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/1CiqAznMmG/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/18JY9F5fwP/)
 

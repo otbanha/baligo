@@ -1,0 +1,33 @@
+---
+title: Menggunakan MDX
+description: Lorem ipsum dolor sit amet
+pubDate: Jun 01 2024
+heroImage: ../../assets/blog-placeholder-5.jpg
+lang: id
+_srcHash: 613bd4415d2c3c6208c122b119cdd6ae
+---
+
+Tema ini sudah dilengkapi dengan integrasi [@astrojs/mdx](https://docs.astro.build/en/guides/integrations-guide/mdx/) yang terpasang dan dikonfigurasi di file konfigurasi `astro.config.mjs` kamu. Kalau kamu lebih suka nggak pakai MDX, kamu bisa nonaktifkan dukungannya dengan menghapus integrasi tersebut dari file konfigurasi.
+
+## Kenapa MDX?
+
+MDX adalah varian spesial dari Markdown yang mendukung sintaks JavaScript & JSX bawaan. Ini membuka kemampuan untuk [mencampur JavaScript dan Komponen UI ke dalam konten Markdown kamu](https://docs.astro.build/en/guides/integrations-guide/mdx/#mdx-in-astro) untuk hal-hal seperti grafik interaktif atau notifikasi.
+
+Kalau kamu punya konten yang sudah ditulis dalam MDX, integrasi ini semoga bikin migrasi ke Astro jadi lebih mudah.
+
+## Contoh
+
+Ini cara kamu mengimpor dan menggunakan komponen UI di dalam MDX.  
+Saat kamu buka halaman ini di browser, kamu harusnya lihat tombol yang bisa diklik di bawah.
+
+import HeaderLink from '../../components/HeaderLink.astro';
+
+<HeaderLink href="#" onclick="alert('clicked!')">
+	Komponen tertanam di MDX
+</HeaderLink>
+
+## Tautan Lainnya
+
+- [Dokumentasi Sintaks MDX](https://mdxjs.com/docs/what-is-mdx)
+- [Dokumentasi Penggunaan Astro](https://docs.astro.build/en/basics/astro-pages/#markdownmdx-pages)
+- **Catatan:** [Client Directives](https://docs.astro.build/en/reference/directives-reference/#client-directives) masih diperlukan untuk membuat komponen interaktif. Kalau nggak, semua komponen di MDX kamu bakal dirender sebagai HTML statis (tanpa JavaScript) secara default.
