@@ -1015,6 +1015,8 @@ const ITIN = (function initItinerary() {
   function dailyCap(comp) { return comp === 'elderly' ? 2 : comp === 'family' ? 4 : 5; }
   // 早上/下午最多可排 2 個行程，其他時段（日出/傍晚/晚上）最多 1 個
   function maxPerSlot(slot) { return (slot === 'morning' || slot === 'afternoon') ? 2 : 1; }
+  // 各時段可用時數上限，避免「出海釣魚4小時」這類長行程把整個時段塞滿後還排第二個景點進同一時段
+  const SLOT_HOUR_CAP = { sunrise: 3, morning: 4, afternoon: 4, sunset: 3, evening: 3 };
 
   function defaultRegions(days) {
     if (days === '4') return ['kuta'];
@@ -1209,22 +1211,25 @@ const ITIN = (function initItinerary() {
 
   function fillSlots(cands, cap, arrivalOnly, allowedOverride) {
     const allowed = allowedOverride || (arrivalOnly ? ['afternoon','evening'] : SLOT_ORDER);
-    const slotCounts = new Map(), chosen = [];
+    const slotCounts = new Map(), slotHours = new Map(), chosen = [];
     let hours = 0;
     for (const sp of cands) {
       if (chosen.length >= cap) break;
       if (hours + sp.durationHours + DAILY_TRANSIT_BUFFER > DAILY_HOUR_CAP) continue;
+      const fitsSlot = s => (slotCounts.get(s) ?? 0) < maxPerSlot(s) && (slotHours.get(s) ?? 0) + sp.durationHours <= SLOT_HOUR_CAP[s];
       let slot;
       if (sp.allowedTimes && sp.allowedTimes.length) {
-        slot = sp.allowedTimes.find(s => allowed.includes(s) && (slotCounts.get(s) ?? 0) < maxPerSlot(s));
+        slot = sp.allowedTimes.find(s => allowed.includes(s) && fitsSlot(s));
         if (!slot) continue; // 限定時段排不下，跳過此景點
-      } else if (sp.bestTime !== 'any' && allowed.includes(sp.bestTime) && (slotCounts.get(sp.bestTime) ?? 0) < maxPerSlot(sp.bestTime)) {
+      } else if (sp.bestTime !== 'any' && allowed.includes(sp.bestTime) && fitsSlot(sp.bestTime)) {
         slot = sp.bestTime;
       } else {
-        slot = allowed.find(s => (slotCounts.get(s) ?? 0) < maxPerSlot(s));
+        slot = allowed.find(s => fitsSlot(s));
         if (!slot) continue;
       }
-      slotCounts.set(slot, (slotCounts.get(slot) ?? 0) + 1); chosen.push({ time: slot, spot: sp }); hours += sp.durationHours;
+      slotCounts.set(slot, (slotCounts.get(slot) ?? 0) + 1);
+      slotHours.set(slot, (slotHours.get(slot) ?? 0) + sp.durationHours);
+      chosen.push({ time: slot, spot: sp }); hours += sp.durationHours;
     }
     chosen.sort((a, b) => SLOT_ORDER.indexOf(a.time) - SLOT_ORDER.indexOf(b.time));
     return chosen;
