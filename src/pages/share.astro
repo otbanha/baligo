@@ -276,6 +276,11 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .sk-w40 { width: 40%; }
       .sk-w100 { width: 100%; }
       .sk-img { height: 180px; margin: 10px 0; }
+      .please-wait {
+        font-size: .85rem;
+        color: #888;
+        margin: 0 0 .5rem;
+      }
 
       /* ── Error ── */
       .error-box {
@@ -1000,6 +1005,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       // ── Skeleton ──
       function showSkeleton() {
         resultArea.innerHTML = `
+          <p class="please-wait">請稍候...</p>
           <div class="skeleton-card">
             <div class="skeleton-block sk-h sk-w40" style="margin-bottom:14px"></div>
             <div class="skeleton-block sk-h sk-w80"></div>
