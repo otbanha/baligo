@@ -3213,7 +3213,9 @@ function dayByDayAreaOrder(result) {
     const area = ITIN.ID_TO_UI_REGION[day.displayRegion || day.region];
     if (area && !ordered.includes(area)) ordered.push(area);
   });
-  return ordered.length ? applyRouteAdjustments(ordered) : null;
+  // 直接採用逐日行程表實際排出的順序，不再套用 applyRouteAdjustments，
+  // 避免「建議移動順序」與「逐日行程表」呈現不同的區域順序
+  return ordered.length ? ordered : null;
 }
 
 function buildRouteTip(ordered) {
