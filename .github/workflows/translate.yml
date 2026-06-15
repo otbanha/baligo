@@ -185,7 +185,13 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add src/content/zh-cn/ src/content/zh-hk/ src/content/en/ src/content/id/ src/content/blocks/zh-cn/ src/content/blocks/en/ src/content/blocks/id/ || true
+          git add src/content/zh-cn/ || true
+          git add src/content/zh-hk/ || true
+          git add src/content/en/ || true
+          git add src/content/id/ || true
+          git add src/content/blocks/zh-cn/ || true
+          git add src/content/blocks/en/ || true
+          git add src/content/blocks/id/ || true
           if git diff --cached --quiet; then
             echo "沒有新翻譯，跳過 commit"
           else
