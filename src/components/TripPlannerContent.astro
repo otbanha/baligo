@@ -1068,6 +1068,34 @@ const clientT = {
   'id': { btnRestore: '↩️ Muat Rencana Terakhir', btnExportCopied: '✅ Tersalin!', spotLearnMore: 'Selengkapnya ↗' },
 }[lang] || { btnRestore: '↩️ Load Last Trip', btnExportCopied: '✅ Copied!', spotLearnMore: 'Learn More ↗' };
 
+// ── Day-by-Day i18n strings ───────────────────────────────────────────
+const DBD_T = ({
+  'zh-tw': {
+    title: '🗓️ 你的逐日行程表',
+    sub: '依分區交通時間排好的每日建議，換區時會提醒車程與塞車。',
+    arrivalDay: '抵達日', departureDay: '離開日', fullDayTrip: '整天跳島',
+    freeTitle: '😌 自由活動', freeDesc: '放鬆日：海灘、泳池或飯店設施，依體力彈性安排',
+    learnMore: '深入攻略 →', accomSuffix: '住宿推薦 →', areaGuide: '吃喝玩樂全攻略 →',
+    checkIn: '入住', ubudWarn: '烏布距離機場較遠（車程約 1.5–3 小時），請提早安排交通，避免錯過班機。',
+    ubudWarnLink: '烏布機場交通攻略 →',
+  },
+  'id': {
+    title: '🗓️ Itinerary Harianmu',
+    sub: 'Rekomendasi harian berdasarkan waktu perjalanan antar kawasan, dengan pengingat kemacetan saat pindah area.',
+    arrivalDay: 'Hari Tiba', departureDay: 'Hari Berangkat', fullDayTrip: 'Island Hopping Seharian',
+    freeTitle: '😌 Waktu Bebas', freeDesc: 'Hari santai: pantai, kolam renang, atau fasilitas hotel — sesuaikan dengan energimu',
+    learnMore: 'Selengkapnya →', accomSuffix: 'Rekomendasi Akomodasi →', areaGuide: 'Panduan Lengkap Area →',
+    checkIn: 'Check-in', ubudWarn: 'Ubud jauh dari bandara (sekitar 1,5–3 jam perjalanan), harap pesan transportasi lebih awal agar tidak ketinggalan penerbangan.',
+    ubudWarnLink: 'Tips Transportasi Ubud–Bandara →',
+  },
+})[lang] || {
+  title: '🗓️ Day-by-Day Itinerary', sub: 'Daily recommendations sorted by travel time between zones.',
+  arrivalDay: 'Arrival', departureDay: 'Departure', fullDayTrip: 'Full-Day Island Trip',
+  freeTitle: '😌 Free Time', freeDesc: 'Rest day: beach, pool, or hotel — at your own pace',
+  learnMore: 'Learn More →', accomSuffix: 'Accommodation Guide →', areaGuide: 'Area Guide →',
+  checkIn: 'Check-in', ubudWarn: 'Ubud is far from the airport (1.5–3 hrs). Book transport early.', ubudWarnLink: 'Ubud Airport Transport →',
+};
+
 // ════════════════════════════════════════════════════════════════════
 // Day-by-Day 逐日行程表（演算法移植自 src/data/generateItinerary.ts）
 // 僅 zh-TW 啟用。資料由 frontmatter 經 define:vars 傳入（itinSpots / itinMatrix）。
@@ -3012,8 +3040,8 @@ function buildDayByDay() {
   }
   if (!result || !result.days.length) { host.innerHTML = ''; return null; }
 
-  const head = '<div class="dbd-head"><h3 class="section-title">🗓️ 你的逐日行程表</h3>'
-    + '<p class="dbd-sub">依分區交通時間排好的每日建議，換區時會提醒車程與塞車。</p></div>';
+  const head = `<div class="dbd-head"><h3 class="section-title">${DBD_T.title}</h3>`
+    + `<p class="dbd-sub">${DBD_T.sub}</p></div>`;
 
   const tradeoff = result.tradeoffNote
     ? `<div class="dbd-tradeoff"><span>⚖️</span><span>${escHtml(result.tradeoffNote).replace(/\n/g, '<br>')}</span></div>`
@@ -3034,9 +3062,9 @@ function renderDayCard(day) {
   const accomName = ITIN.label(accomRegion);
 
   const badges = [];
-  if (day.isArrivalDay) badges.push('<span class="dbd-badge arrival">抵達日</span>');
-  if (day.isDepartureDay) badges.push('<span class="dbd-badge departure">離開日</span>');
-  if (day.isFullDayTrip) badges.push('<span class="dbd-badge fullday">整天跳島</span>');
+  if (day.isArrivalDay) badges.push(`<span class="dbd-badge arrival">${DBD_T.arrivalDay}</span>`);
+  if (day.isDepartureDay) badges.push(`<span class="dbd-badge departure">${DBD_T.departureDay}</span>`);
+  if (day.isFullDayTrip) badges.push(`<span class="dbd-badge fullday">${DBD_T.fullDayTrip}</span>`);
 
   const travel = day.travelNote
     ? `<div class="dbd-travel"><span class="dbd-travel-ico">🚗</span><span>${escHtml(day.travelNote)}</span></div>`
@@ -3044,8 +3072,8 @@ function renderDayCard(day) {
 
   // 離開日若住宿在烏布，距離機場較遠，提醒提早安排交通
   const airportWarning = (day.isDepartureDay && day.region === 'ubud')
-    ? `<div class="dbd-travel"><span class="dbd-travel-ico">⚠️</span><span>烏布距離機場較遠（車程約 1.5–3 小時），請提早安排交通，避免錯過班機。`
-      + `<a href="${langUrl('/blog/ubud-airport-transport-tips/')}" target="_blank" rel="noopener">烏布機場交通攻略 →</a></span></div>`
+    ? `<div class="dbd-travel"><span class="dbd-travel-ico">⚠️</span><span>${DBD_T.ubudWarn}`
+      + `<a href="${langUrl('/blog/ubud-airport-transport-tips/')}" target="_blank" rel="noopener">${DBD_T.ubudWarnLink}</a></span></div>`
     : '';
 
   // 「入住 XX → XX住宿推薦 →」提示（換區當天 / 抵達日入住時使用）
@@ -3055,23 +3083,23 @@ function renderDayCard(day) {
     const ckName = ITIN.label(ckRegion);
     const ckEmoji = ITIN.REGION_EMOJI[ckRegion] || '📍';
     const ckLink = ckReg && ckReg.guide
-      ? `<a href="${langUrl(ckReg.guide.url)}" target="_blank" rel="noopener">${ckEmoji} ${escHtml(ckName)}住宿推薦 →</a>`
+      ? `<a href="${langUrl(ckReg.guide.url)}" target="_blank" rel="noopener">${ckEmoji} ${escHtml(ckName)} ${DBD_T.accomSuffix}</a>`
       : `${ckEmoji} ${escHtml(ckName)}`;
     return `<div class="dbd-checkin"><span class="dbd-checkin-ico">🏨</span>`
-      + `<span>入住${escHtml(ckName)} → ${ckLink}</span></div>`;
+      + `<span>${DBD_T.checkIn} ${escHtml(ckName)} → ${ckLink}</span></div>`;
   };
 
   let slotsHtml;
   if (!day.slots.length) {
-    slotsHtml = '<div class="dbd-slot dbd-slot-rest"><span class="dbd-time">😌 自由活動</span>'
-      + '<span class="dbd-spot-name">放鬆日：海灘、泳池或飯店設施，依體力彈性安排</span></div>';
+    slotsHtml = `<div class="dbd-slot dbd-slot-rest"><span class="dbd-time">${DBD_T.freeTitle}</span>`
+      + `<span class="dbd-spot-name">${DBD_T.freeDesc}</span></div>`;
     if (day.isArrivalDay) slotsHtml = checkInHtml(day.region) + slotsHtml;
   } else {
     const slotDivs = day.slots.map(s => {
       const t = ITIN.SLOT_LABEL[s.time] || s.time;
       const sp = s.spot;
       const link = sp.blogUrl
-        ? `<a class="dbd-spot-link" href="${langUrl(sp.blogUrl)}" target="_blank" rel="noopener">深入攻略 →</a>`
+        ? `<a class="dbd-spot-link" href="${langUrl(sp.blogUrl)}" target="_blank" rel="noopener">${DBD_T.learnMore}</a>`
         : '';
       const dur = `<span class="dbd-dur">約 ${sp.durationHours} 小時</span>`;
       return `<div class="dbd-slot"><span class="dbd-time">${t}</span>`
@@ -3094,7 +3122,7 @@ function renderDayCard(day) {
   const uiKey = ITIN.ID_TO_UI_REGION[accomRegion];
   const reg = uiKey ? REGIONS[uiKey] : null;
   const footer = (reg && reg.guide && !day.isDepartureDay)
-    ? `<a class="dbd-accom-link" href="${langUrl(reg.guide.url)}" target="_blank" rel="noopener">${accomEmoji} ${accomName}吃喝玩樂全攻略 →</a>`
+    ? `<a class="dbd-accom-link" href="${langUrl(reg.guide.url)}" target="_blank" rel="noopener">${accomEmoji} ${accomName} ${DBD_T.areaGuide}</a>`
     : '';
 
   return `<div class="dbd-card${day.isTravelDay ? ' is-travel' : ''}">`
