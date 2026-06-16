@@ -73,6 +73,11 @@ export async function onRequest({ request, next }) {
   const ua = request.headers.get('user-agent') ?? '';
   const isBot = /facebookexternalhit|facebot|twitterbot|linkedinbot|slackbot|telegrambot|whatsapp|discordbot|applebot|googlebot|bingbot|yandex|curl|wget/i.test(ua);
 
+  // Forum share 頁面：讓 bot 直接通過，由 route function 處理 OG
+  if (pathname.startsWith('/forum/immigration/p/')) {
+    return next();
+  }
+
   // 社群分享分類頁：直接回傳含分類 OG 的輕量 HTML
   if (isBot && (pathname === '/blog' || pathname === '/blog/')) {
     const cat = url.searchParams.get('cat');
