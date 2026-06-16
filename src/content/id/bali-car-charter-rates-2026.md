@@ -1,22 +1,27 @@
 ---
-title: 【2026 Bali交通公告】7月1日起包車價格調整通知：司機團隊最新報價、計費方式
+title: >-
+  【Pengumuman Transportasi Bali 2026】Harga Sewa Mobil Naik Mulai 1 Juli: Tarif
+  Terbaru Tim Driver & Cara Perhitungan
 slug: bali-car-charter-rates-2026
 description: >-
-  來自Bali在地司機團隊的官方公告。從2026年7月1日開始，全島包車服務價格會進行小幅調整。這篇文章完整公開最新車款報價（超值5人座、舒適大空間、團體大巴）、超時費用計算、跨區加價細則
+  Pengumuman resmi dari tim driver Bali. Mulai 1 Juli 2026, harga sewa mobil di
+  seluruh pulau akan ada penyesuaian kecil. Artikel ini merinci tarif terbaru
+  (5 penumpang hemat, ruang lega, bus grup), perhitungan biaya lembur, dan
+  detail biaya antar zona.
 pubDate: 2026-06-13T00:00:00.000Z
 pubHour: 18
 category:
   - 叫車包車
 tags:
-  - 峇里島包車價格 2026
-  - 峇里島司機推薦 報價
-  - 峇里島包車服務 價格調整
-  - 峇里島租車 帶司機 費用
-  - 2026 峇里島交通 費用
-  - 峇里島 包車 跨區加價
-  - 峇里島 7月 旅遊交通 公告
-  - 峇里島 機場接送 價格表
-  - 峇里島 租車 一日遊 防坑
+  - harga sewa mobil Bali 2026
+  - rekomendasi driver Bali tarif
+  - penyesuaian harga sewa mobil Bali
+  - sewa mobil dengan driver Bali biaya
+  - biaya transportasi Bali 2026
+  - sewa mobil Bali biaya antar zona
+  - pengumuman transportasi Bali Juli
+  - harga jemput bandara Bali
+  - sewa mobil wisata Bali tips
   - Bali private driver rates 2026
 heroImage: 'https://images.gobaligo.id/images/2026-06/1781346713081-index.jpg'
 originalUrl: ''
@@ -26,26 +31,27 @@ embeds: []
 lang: id
 _srcHash: ea4815b69a3bd1980e5d03164eef97b3
 ---
+Update: 2026/06/16
 
-### 📢 來自Bali司機團隊的公告：包車服務價格調整（2026年7月1日起生效）
+### 📢 Pengumuman dari Tim Driver Bali: Penyesuaian Harga Sewa Mobil (Berlaku Mulai 1 Juli 2026)
 
-> 我們決定：原車資不變，每趟酌收油費補貼 – 繼續為大家服務
+> Keputusan kami: Harga sewa tetap, setiap perjalanan dikenakan subsidi BBM tambahan — Kami tetap hadir untuk melayani kalian
 
-親愛的旅客朋友們，大家好！
+Halo teman-teman wisatawan yang terhormat!
 
-我們是一群在Bali提供包車服務的司機。這幾年，**印尼盾一直貶值**，加上**全球油價不斷上漲**，我們每天的油錢、車子保養、甚至生活開銷都變得很重。經過大家一起討論、商量之後，我們決定從 **2026年7月1日** 開始，採用 **「原包車價格不變，但每趟行程加收一筆油費補貼」** 的方式來調整費用。
+Kami adalah sekelompok driver yang menyediakan layanan sewa mobil di Bali. Beberapa tahun terakhir, **rupiah terus melemah** dan **harga BBM global terus naik**, membuat pengeluaran harian kami — bensin, perawatan mobil, bahkan biaya hidup — semakin berat. Setelah berdiskusi dan bermusyawarah bersama, kami memutuskan mulai **1 Juli 2026**, menggunakan sistem **"harga sewa mobil tetap, namun setiap perjalanan dikenakan subsidi BBM tambahan"**.
 
-我們不想直接調高包車原價，因為那樣對短程、接送機的客人不太公平，而且如果以後油價降下來，要再調降也很麻煩。所以，這是最能兼顧**大家負擔**與**我們生計**的方式。
+Kami tidak ingin langsung menaikkan harga dasar sewa, karena itu tidak adil bagi penumpang dengan perjalanan pendek atau jemput bandara — dan jika harga BBM turun lagi nanti, menurunkan tarif dasar akan merepotkan. Ini adalah cara yang paling bisa menyeimbangkan **beban kalian** dengan **penghidupan kami**.
 
 ***
 
-## 🔁 新的收費方式（由司機們共同決定）
+## 🔁 Cara Perhitungan Biaya Baru (Diputuskan Bersama oleh Para Driver)
 
-- **包車原價**：維持不變（跟以前公告的價格表一樣）
-- **每趟額外加收「油費補貼」**：按包車時長收取固定金額
-- **總費用** = 原包車價格 + 油費補貼
+- **Harga sewa dasar**: Tetap tidak berubah (sama seperti daftar harga yang sudah diumumkan sebelumnya)
+- **Tambahan "subsidi BBM" per perjalanan**: Dikenakan sesuai durasi sewa
+- **Total biaya** = Harga sewa dasar + Subsidi BBM
 
-> 這樣做，您還是清楚看到原本的車資，我們也能補貼真正變貴的油錢。
+> Dengan cara ini, kalian tetap bisa melihat tarif sewa yang jelas seperti dulu, dan kami bisa mendapat kompensasi untuk biaya BBM yang memang sudah mahal.
 
 ![raw-image](https://images.gobaligo.id/images/2026-06/1781345800282-mixcollage-13-jun-2026-05-13-pm-5945.jpg)
 
