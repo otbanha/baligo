@@ -296,6 +296,7 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
             ${profile.avatar_url ? `<img src="${sanitize(profile.avatar_url)}" class="pd-avatar" alt="" />` : '<span class="pd-avatar-ph">👤</span>'}
             <span class="pd-author-name">${sanitize(profile.display_name || '匿名')}</span>
             <span class="pd-time">${timeAgo(p.created_at)}</span>
+            <button class="btn-share-post" data-post-id="${sanitize(p.id)}" title="複製分享連結">🔗 分享</button>
           </div>
           <div class="pd-content" id="pd-post-content">${linkify(p.content)}</div>
           ${p.image_urls && p.image_urls.length > 0 ? `
@@ -432,6 +433,22 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
       }
 
       content.innerHTML = renderPostDetail(postRes.data, replies, currentUserId, likedSet);
+
+      // ── Share button ───────────────────────────────────────────
+      const btnShare = content.querySelector('.btn-share-post');
+      if (btnShare) {
+        btnShare.addEventListener('click', async () => {
+          const shareUrl = `${location.origin}/forum/immigration/p/${btnShare.dataset.postId}/`;
+          try {
+            await navigator.clipboard.writeText(shareUrl);
+            const orig = btnShare.textContent;
+            btnShare.textContent = '✓ 已複製';
+            setTimeout(() => { btnShare.textContent = orig; }, 2000);
+          } catch {
+            prompt('複製此分享連結：', shareUrl);
+          }
+        });
+      }
 
       // ── Edit post ──────────────────────────────────────────────
       const btnEdit = document.getElementById('btn-edit-post');
@@ -983,6 +1000,15 @@ const supabaseAnon = import.meta.env.PUBLIC_SUPABASE_ANON_KEY;
     margin-top: .3rem;
   }
   .btn-edit-post:hover { background: #f5f0e8; }
+  .btn-share-post {
+    display: inline-flex; align-items: center; gap: .3rem;
+    background: none; border: 1px solid #d1c9b5;
+    border-radius: 7px; padding: .3em .75em;
+    font-size: .78rem; color: #7a6200;
+    cursor: pointer; white-space: nowrap; flex-shrink: 0;
+    margin-top: .3rem; margin-left: auto;
+  }
+  .btn-share-post:hover { background: #f5f0e8; }
   .pd-edit-form {
     background: #fafaf8; border: 1px solid rgba(201,168,76,.25);
     border-radius: 10px; padding: 1rem; margin-bottom: 1rem;
