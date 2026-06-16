@@ -1,0 +1,303 @@
+---
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
+import Footer from '../../components/Footer.astro';
+import { getCollection } from 'astro:content';
+import '../../styles/tickets.css';
+
+const title = 'Harga Tiket Masuk Wisata Bali 2026 | 42 Tempat Terpopuler - Gobaligo';
+const description = 'Harga tiket masuk wisata Bali untuk 42 destinasi terpopuler termasuk Uluwatu, Waterbom, dan Nusa Penida. Bandingkan harga Klook, Agoda, dan Trip.com sebelum berangkat.';
+const lang = 'id';
+
+const rawTickets = await getCollection('tickets');
+const ticketsData = rawTickets
+  .map(t => ({
+    name: t.data.name,
+    cat: t.data.cat,
+    idr: t.data.idr,
+    note: t.data.note_en ?? t.data.note,
+    klook: t.data.klook ?? null,
+    agoda: t.data.agoda ?? false,
+    tripcom: t.data.tripcom ?? null,
+    warn: t.data.warn ?? null,
+  }));
+
+const schema = {
+  "@context": "https://schema.org",
+  "@graph": [
+    {
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Beranda", "item": "https://gobaligo.id/id/" },
+        { "@type": "ListItem", "position": 2, "name": "Harga Tiket", "item": "https://gobaligo.id/id/tickets/" }
+      ]
+    },
+    {
+      "@type": "CollectionPage",
+      "@id": "https://gobaligo.id/id/tickets/",
+      "name": title,
+      "description": description,
+      "url": "https://gobaligo.id/id/tickets/",
+      "inLanguage": "id",
+      "numberOfItems": ticketsData.length,
+      "publisher": { "@type": "Organization", "name": "Go Bali Go", "url": "https://gobaligo.id" }
+    }
+  ]
+};
+---
+
+<!doctype html>
+<html lang="id">
+<head>
+  <BaseHead title={title} description={description} noSuffix={true} />
+  <meta property="og:locale" content="id_ID" />
+  <meta property="og:locale:alternate" content="zh_TW" />
+  <meta property="og:locale:alternate" content="en_US" />
+  <link rel="alternate" hreflang="zh-TW" href="https://gobaligo.id/tickets/" />
+  <link rel="alternate" hreflang="zh-HK" href="https://gobaligo.id/zh-hk/tickets/" />
+  <link rel="alternate" hreflang="zh-CN" href="https://gobaligo.id/zh-cn/tickets/" />
+  <link rel="alternate" hreflang="en"    href="https://gobaligo.id/en/tickets/" />
+  <link rel="alternate" hreflang="id"    href="https://gobaligo.id/id/tickets/" />
+  <link rel="alternate" hreflang="x-default" href="https://gobaligo.id/tickets/" />
+  <script type="application/ld+json" set:html={JSON.stringify(schema)} />
+</head>
+
+<body>
+  <Header lang={lang} basePath="tickets" />
+  <TopStrip lang={lang ?? 'id'} />
+
+  <!-- Hero -->
+  <div class="tickets-hero">
+    <div class="tickets-hero-inner">
+      <div class="tickets-hero-badge">Diperbarui 2026</div>
+      <h1 class="tickets-hero-title">Harga Tiket Masuk Wisata Bali</h1>
+      <p class="tickets-hero-sub">{ticketsData.length} Destinasi Terpopuler · Filter Seketika · Pesan via Klook / Agoda / Trip.com</p>
+    </div>
+  </div>
+
+  <main class="tickets-main">
+
+    <!-- Controls -->
+    <div class="tickets-controls">
+      <div class="tickets-search-wrap">
+        <svg class="tickets-search-icon" xmlns="http://www.w3.org/2000/svg" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+        <input id="search-input" type="text" placeholder="Cari tempat wisata…" class="tickets-search" />
+      </div>
+      <select id="sort-select" class="tickets-sort">
+        <option value="default">Urutan: Acak</option>
+        <option value="asc">Harga: Rendah → Tinggi</option>
+        <option value="desc">Harga: Tinggi → Rendah</option>
+      </select>
+    </div>
+
+    <!-- Category filters -->
+    <div id="filter-buttons" class="tickets-filters">
+      <button data-cat="all"         class="tickets-filter-btn active">🗺️ Semua</button>
+      <button data-cat="temple"      class="tickets-filter-btn">🛕 Pura</button>
+      <button data-cat="nature"      class="tickets-filter-btn">🌿 Alam</button>
+      <button data-cat="island"      class="tickets-filter-btn">🏝️ Nusa Penida</button>
+      <button data-cat="park"        class="tickets-filter-btn">🎭 Taman Budaya</button>
+      <button data-cat="activity"    class="tickets-filter-btn">🎢 Taman Hiburan</button>
+      <button data-cat="adventure"   class="tickets-filter-btn">🏄 Petualangan</button>
+      <button data-cat="course"      class="tickets-filter-btn">📚 Kursus</button>
+      <button data-cat="watersports" class="tickets-filter-btn">🌊 Olahraga Air</button>
+      <button data-cat="leisure"     class="tickets-filter-btn">☕ Santai</button>
+    </div>
+
+    <!-- Result count -->
+    <p id="result-count" class="tickets-count"></p>
+
+    <!-- Card Grid -->
+    <div id="card-grid" class="tickets-grid"></div>
+
+    <!-- Trip.com Banner -->
+    <div class="tickets-affiliate-section">
+      <p class="tickets-affiliate-label">Lebih Banyak Aktivitas & Pengalaman di Bali</p>
+      <a
+        href="https://www.trip.com/things-to-do/?Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D16963389"
+        target="_blank"
+        rel="noopener noreferrer"
+        class="tickets-tripcom-banner"
+      >
+        <span class="tickets-tripcom-logo">Trip.com</span>
+        <span class="tickets-tripcom-text">Temukan Lebih Banyak Aktivitas Bali · Tiket · Pengalaman Lokal</span>
+        <span class="tickets-tripcom-cta">Cari Sekarang →</span>
+      </a>
+    </div>
+
+    <!-- Klook Widget -->
+    <div class="tickets-klook-widget">
+      <ins class="klk-aff-widget" data-adid="1277535" data-lang="" data-currency="IDR" data-cardH="126" data-padding="92" data-lgH="470" data-edgeValue="655" data-cid="-1" data-tid="3" data-amount="4" data-prod="dynamic_widget"><a href="https://www.klook.com/">Klook.com</a></ins>
+      <script type="text/javascript" is:inline>
+        (function (d, sc, u) {
+          var s = d.createElement(sc),
+            p = d.getElementsByTagName(sc)[0];
+          s.type = "text/javascript";
+          s.async = true;
+          s.src = u;
+          p.parentNode.insertBefore(s, p);
+        })(document, "script", "https://affiliate.klook.com/widget/fetch-iframe-init.js");
+      </script>
+    </div>
+
+    <!-- Disclaimer -->
+    <div class="tickets-disclaimer">
+      <svg xmlns="http://www.w3.org/2000/svg" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" style="flex-shrink:0;margin-top:2px"><circle cx="12" cy="12" r="10"/><line x1="12" y1="8" x2="12" y2="12"/><line x1="12" y1="16" x2="12.01" y2="16"/></svg>
+      <span>Harga diperbarui per 2026. Harga di lokasi dapat berubah sewaktu-waktu — harap konfirmasi sebelum berkunjung. Halaman ini mengandung tautan afiliasi dari Klook (AID: 116349), Agoda (CID: 1961347), dan Trip.com (Allianceid: 6817581).</span>
+    </div>
+
+  </main>
+
+  <Footer />
+</body>
+</html>
+
+<script define:vars={{ ticketsData }}>
+const DATA = ticketsData;
+
+const CAT_LABEL = {
+  temple:      'Pura',
+  nature:      'Alam',
+  island:      'Nusa Penida',
+  park:        'Taman Budaya',
+  activity:    'Taman Hiburan',
+  adventure:   'Petualangan',
+  course:      'Kursus',
+  watersports: 'Olahraga Air',
+  leisure:     'Santai',
+};
+
+const CAT_ACCENT = {
+  temple:      '#7c3aed',
+  nature:      '#16a34a',
+  island:      '#0891b2',
+  park:        '#ea580c',
+  activity:    '#2563eb',
+  adventure:   '#dc2626',
+  course:      '#0d9488',
+  watersports: '#0284c7',
+  leisure:     '#7c3aed',
+};
+
+const CAT_PILL = {
+  temple:      'background:#f3e8ff;color:#6d28d9;',
+  nature:      'background:#dcfce7;color:#15803d;',
+  island:      'background:#cffafe;color:#0e7490;',
+  park:        'background:#ffedd5;color:#c2410c;',
+  activity:    'background:#dbeafe;color:#E63946;',
+  adventure:   'background:#fee2e2;color:#b91c1c;',
+  course:      'background:#ccfbf1;color:#0f766e;',
+  watersports: 'background:#FDE8D8;color:#C0392B;',
+  leisure:     'background:#ede9fe;color:#6d28d9;',
+};
+
+function formatIDR(n) {
+  return 'IDR ' + n.toLocaleString('en-US');
+}
+
+function buildCard(item) {
+  const accent = CAT_ACCENT[item.cat] || '#5D4037';
+  const pill   = CAT_PILL[item.cat]   || '';
+  const label  = CAT_LABEL[item.cat]  || item.cat;
+
+  const warnHtml = item.warn
+    ? `<div class="ticket-warn">${item.warn}</div>`
+    : '';
+
+  const klookBtn = item.klook
+    ? `<a href="${item.klook}" target="_blank" rel="noopener noreferrer" class="ticket-btn ticket-btn-klook">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        Klook
+       </a>`
+    : '';
+
+  const agodaBtn = item.agoda
+    ? `<a href="https://www.agoda.com/en-gb/bali-activities/?cid=1961347" target="_blank" rel="noopener noreferrer" class="ticket-btn ticket-btn-agoda">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        Agoda
+       </a>`
+    : '';
+
+  const tripcomBtn = item.tripcom
+    ? `<a href="${item.tripcom}" target="_blank" rel="noopener noreferrer" class="ticket-btn ticket-btn-trip">
+        <svg width="11" height="11" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><path d="M18 13v6a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2V8a2 2 0 0 1 2-2h6"/><polyline points="15 3 21 3 21 9"/><line x1="10" y1="14" x2="21" y2="3"/></svg>
+        Trip.com
+       </a>`
+    : '';
+
+  const hasBtn = item.klook || item.agoda || item.tripcom;
+
+  return `
+    <div class="ticket-card">
+      <div class="ticket-card-accent" style="background:${accent};"></div>
+      <div class="ticket-card-head">
+        <h2 class="ticket-card-name">${item.name}</h2>
+        <span class="ticket-cat-pill" style="${pill}">${label}</span>
+      </div>
+      <div class="ticket-price-row">
+        <span class="ticket-price-label">Harga</span>
+        <span class="ticket-price">${formatIDR(item.idr)}</span>
+      </div>
+      <div class="ticket-divider"></div>
+      <p class="ticket-note">${item.note}</p>
+      ${warnHtml}
+      ${hasBtn ? `<div class="ticket-btns">${klookBtn}${agodaBtn}${tripcomBtn}</div>` : ''}
+    </div>
+  `;
+}
+
+let activeCat = 'all';
+let sortMode  = 'default';
+let searchQ   = '';
+
+function render() {
+  let items = [...DATA];
+
+  if (activeCat !== 'all') items = items.filter(i => i.cat === activeCat);
+  if (searchQ) {
+    const q = searchQ.toLowerCase();
+    items = items.filter(i => i.name.toLowerCase().includes(q) || i.note.toLowerCase().includes(q));
+  }
+  if (sortMode === 'asc')  items.sort((a, b) => a.idr - b.idr);
+  else if (sortMode === 'desc') items.sort((a, b) => b.idr - a.idr);
+  else {
+    for (let i = items.length - 1; i > 0; i--) {
+      const j = Math.floor(Math.random() * (i + 1));
+      [items[i], items[j]] = [items[j], items[i]];
+    }
+  }
+
+  document.getElementById('result-count').textContent =
+    `Menampilkan ${items.length} tempat wisata`;
+
+  const grid = document.getElementById('card-grid');
+  grid.innerHTML = items.length
+    ? items.map(buildCard).join('')
+    : `<div class="tickets-empty">
+         <div class="tickets-empty-icon">🔍</div>
+         <p class="tickets-empty-text">Tidak ada tempat wisata ditemukan</p>
+       </div>`;
+}
+
+document.getElementById('filter-buttons').addEventListener('click', e => {
+  const btn = e.target.closest('.tickets-filter-btn');
+  if (!btn) return;
+  document.querySelectorAll('.tickets-filter-btn').forEach(b => b.classList.remove('active'));
+  btn.classList.add('active');
+  activeCat = btn.dataset.cat;
+  render();
+});
+
+document.getElementById('sort-select').addEventListener('change', e => {
+  sortMode = e.target.value;
+  render();
+});
+
+document.getElementById('search-input').addEventListener('input', e => {
+  searchQ = e.target.value.trim();
+  render();
+});
+
+render();
+</script>

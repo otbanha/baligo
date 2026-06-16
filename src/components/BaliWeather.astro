@@ -4,39 +4,41 @@ const { lang = 'zh-tw', compact = false } = Astro.props;
 
 const isEn = lang === 'en';
 const isCn = lang === 'zh-cn';
+const isId = lang === 'id';
 
 const regions = [
-  { id: 'kuta',    zh: '西岸庫塔一帶', cn: '西岸库塔一带', en: 'Kuta (West)',      lat: -8.7215, lon: 115.1685 },
-  { id: 'ubud',    zh: '中部烏布山區', cn: '中部乌布山区', en: 'Ubud (Hills)',     lat: -8.5069, lon: 115.2625 },
-  { id: 'nusadua', zh: '東岸努沙杜瓦一帶', cn: '东岸努沙杜瓦一带', en: 'Nusa Dua (East)', lat: -8.7932, lon: 115.2313 },
+  { id: 'kuta',    zh: '西岸庫塔一帶', cn: '西岸库塔一带', en: 'Kuta (West)',      id_: 'Pantai Kuta',    lat: -8.7215, lon: 115.1685 },
+  { id: 'ubud',    zh: '中部烏布山區', cn: '中部乌布山区', en: 'Ubud (Hills)',     id_: 'Perbukitan Ubud', lat: -8.5069, lon: 115.2625 },
+  { id: 'nusadua', zh: '東岸努沙杜瓦一帶', cn: '东岸努沙杜瓦一带', en: 'Nusa Dua (East)', id_: 'Nusa Dua',      lat: -8.7932, lon: 115.2313 },
 ];
 
-const weatherUrl = isEn ? '/en/weather/' : isCn ? '/zh-cn/weather/' : lang === 'zh-hk' ? '/zh-hk/weather/' : '/weather/';
+const weatherUrl = isEn ? '/en/weather/' : isCn ? '/zh-cn/weather/' : lang === 'zh-hk' ? '/zh-hk/weather/' : isId ? '/id/weather/' : '/weather/';
 
 const t = {
-  title:   isEn ? 'Bali Weather' : isCn ? '巴厘岛天气' : '峇里島天氣',
-  loading: isEn ? 'Loading…'    : isCn ? '加载中…'    : '載入中…',
-  humidity:isEn ? 'Humidity'    : isCn ? '湿度'       : '濕度',
-  wind:    isEn ? 'Wind'        : '風速',
-  precip:  isEn ? 'Rain'        : '降雨',
-  updated: isEn ? 'Updated: '   : '更新：',
-  source:  isEn ? 'Source: '    : isCn ? '数据来源：'  : '資料來源：',
-  error:   isEn ? 'Unable to load weather data' : isCn ? '无法加载天气数据' : '無法載入天氣資料',
-  today:   isEn ? 'Today'       : '今天',
-  hintForecast: isEn ? '7-Day Forecast' : isCn ? '七日预报' : '七日預報',
-  hintPrefix:   isEn ? 'Click for' : isCn ? '点击查看' : '點擊查看',
-  // 概況描述用字（由 JS 組合）
-  dayLabel:  isEn ? 'Daytime: ' : isCn ? '今天白天：' : '今天白天：',
-  nightLabel:isEn ? 'Tonight: ' : isCn ? '入夜后：'   : '入夜後：',
-  tempLabel: isEn ? ', '        : isCn ? '，气温 '    : '，氣溫 ',
-  aroundLabel: isEn ? ', around ' : isCn ? '，约 '   : '，約 ',
-  highChance:  isEn ? ', high chance of ' : isCn ? '，很大机会有' : '，很大機會有',
-  someChance:  isEn ? ', chance of '      : isCn ? '，有机会'     : '，有機會',
-  briefChance: isEn ? ', brief showers possible' : isCn ? '，局部偶有短暂降雨' : '，局部偶有短暫降雨',
-  feelsLike:   isEn ? 'Feels Like' : isCn ? '体感温度' : '體感溫度',
-  uvIndex:     isEn ? 'UV Index'   : isCn ? '紫外线' : '紫外線',
+  title:   isEn ? 'Bali Weather' : isCn ? '巴厘岛天气' : isId ? 'Cuaca Bali' : '峇里島天氣',
+  loading: isEn ? 'Loading…'    : isCn ? '加载中…'    : isId ? 'Memuat…'    : '載入中…',
+  humidity:isEn ? 'Humidity'    : isCn ? '湿度'       : isId ? 'Kelembaban' : '濕度',
+  wind:    isEn ? 'Wind'        : isId ? 'Angin'      : '風速',
+  precip:  isEn ? 'Rain'        : isId ? 'Hujan'      : '降雨',
+  updated: isEn ? 'Updated: '   : isId ? 'Diperbarui: ' : '更新：',
+  source:  isEn ? 'Source: '    : isCn ? '数据来源：'  : isId ? 'Sumber: ' : '資料來源：',
+  error:   isEn ? 'Unable to load weather data' : isCn ? '无法加载天气数据' : isId ? 'Gagal memuat data cuaca' : '無法載入天氣資料',
+  today:   isEn ? 'Today'       : isId ? 'Hari ini'   : '今天',
+  hintForecast: isEn ? '7-Day Forecast' : isCn ? '七日预报' : isId ? 'Prakiraan 7 Hari' : '七日預報',
+  hintPrefix:   isEn ? 'Click for' : isCn ? '点击查看' : isId ? 'Klik untuk' : '點擊查看',
+  dayLabel:  isEn ? 'Daytime: ' : isCn ? '今天白天：' : isId ? 'Siang: '    : '今天白天：',
+  nightLabel:isEn ? 'Tonight: ' : isCn ? '入夜后：'   : isId ? 'Malam: '    : '入夜後：',
+  tempLabel: isEn ? ', '        : isCn ? '，气温 '    : isId ? ', suhu '    : '，氣溫 ',
+  aroundLabel: isEn ? ', around ' : isCn ? '，约 '   : isId ? ', sekitar ' : '，約 ',
+  highChance:  isEn ? ', high chance of ' : isCn ? '，很大机会有' : isId ? ', kemungkinan besar ' : '，很大機會有',
+  someChance:  isEn ? ', chance of '      : isCn ? '，有机会'     : isId ? ', ada kemungkinan '   : '，有機會',
+  briefChance: isEn ? ', brief showers possible' : isCn ? '，局部偶有短暂降雨' : isId ? ', kemungkinan hujan sebentar' : '，局部偶有短暫降雨',
+  feelsLike:   isEn ? 'Feels Like' : isCn ? '体感温度' : isId ? 'Terasa'    : '體感溫度',
+  uvIndex:     isEn ? 'UV Index'   : isCn ? '紫外线'   : isId ? 'Indeks UV' : '紫外線',
   days: isEn
     ? ['Sun','Mon','Tue','Wed','Thu','Fri','Sat']
+    : isId
+    ? ['Min','Sen','Sel','Rab','Kam','Jum','Sab']
     : ['日','一','二','三','四','五','六'],
 };
 
@@ -96,6 +98,25 @@ const codeMapEn: Record<string, [string, string]> = {
   '82': ['Violent Showers', '🌩️'],
   '95': ['Thunderstorm', '⛈️'],
 };
+
+const codeMapId: Record<string, [string, string]> = {
+  '0':  ['Cerah', '☀️'],
+  '1':  ['Cerah Berawan', '🌤️'],
+  '2':  ['Berawan Sebagian', '⛅'],
+  '3':  ['Mendung', '☁️'],
+  '45': ['Berkabut', '🌫️'],
+  '48': ['Kabut Tebal', '🌫️'],
+  '51': ['Gerimis Tipis', '🌦️'],
+  '53': ['Gerimis', '🌦️'],
+  '55': ['Gerimis Lebat', '🌦️'],
+  '61': ['Hujan Ringan', '🌧️'],
+  '63': ['Hujan', '🌧️'],
+  '65': ['Hujan Lebat', '🌧️'],
+  '80': ['Hujan Sebentar', '🌩️'],
+  '81': ['Hujan Deras', '🌩️'],
+  '82': ['Hujan Sangat Deras', '🌩️'],
+  '95': ['Hujan Badai', '⛈️'],
+};
 ---
 
 <div
@@ -106,6 +127,7 @@ const codeMapEn: Record<string, [string, string]> = {
   data-codemap-zh={JSON.stringify(codeMapZh)}
   data-codemap-cn={JSON.stringify(codeMapCn)}
   data-codemap-en={JSON.stringify(codeMapEn)}
+  data-codemap-id={JSON.stringify(codeMapId)}
   data-t={JSON.stringify(t)}
   data-href={compact ? weatherUrl : undefined}
 >
@@ -113,7 +135,7 @@ const codeMapEn: Record<string, [string, string]> = {
   <div class="bw-region-bar" id="bw-region-bar">
     {regions.map((r, i) => (
       <button class={`bw-region-btn${i === 0 ? ' active' : ''}`} data-id={r.id}>
-        {isEn ? r.en : isCn ? r.cn : r.zh}
+        {isEn ? r.en : isCn ? r.cn : isId ? r.id_ : r.zh}
       </button>
     ))}
   </div>
@@ -123,7 +145,7 @@ const codeMapEn: Record<string, [string, string]> = {
     <span class="bw-icon" id="bw-icon">🌤️</span>
     <div class="bw-title-group">
       <h3 class="bw-title">{t.title}</h3>
-      <p class="bw-region-name" id="bw-region-name">{isEn ? regions[0].en : isCn ? regions[0].cn : regions[0].zh}</p>
+      <p class="bw-region-name" id="bw-region-name">{isEn ? regions[0].en : isCn ? regions[0].cn : isId ? regions[0].id_ : regions[0].zh}</p>
     </div>
     <div class="bw-temp-block">
       <span class="bw-temp" id="bw-temp">--</span>
@@ -468,14 +490,16 @@ const codeMapEn: Record<string, [string, string]> = {
   const lang: string = root.dataset.lang ?? 'zh-tw';
   const isEn = lang === 'en';
   const isCn = lang === 'zh-cn';
-  const regions: { id: string; zh: string; cn: string; en: string; lat: number; lon: number }[] =
+  const isId = lang === 'id';
+  const regions: { id: string; zh: string; cn: string; en: string; id_: string; lat: number; lon: number }[] =
     JSON.parse(root.dataset.regions ?? '[]');
   const codeMapZh: Record<string, [string, string]> = JSON.parse(root.dataset.codemapZh ?? '{}');
   const codeMapCn: Record<string, [string, string]> = JSON.parse(root.dataset.codemapCn ?? '{}');
   const codeMapEn: Record<string, [string, string]> = JSON.parse(root.dataset.codemapEn ?? '{}');
+  const codeMapId: Record<string, [string, string]> = JSON.parse(root.dataset.codemapId ?? '{}');
   const t: Record<string, string | string[]> = JSON.parse(root.dataset.t ?? '{}');
 
-  const codeMap = isEn ? codeMapEn : isCn ? codeMapCn : codeMapZh;
+  const codeMap = isEn ? codeMapEn : isCn ? codeMapCn : isId ? codeMapId : codeMapZh;
 
   function getDesc(code: number): [string, string] {
     const key = String(code);
@@ -490,7 +514,7 @@ const codeMapEn: Record<string, [string, string]> = {
   function formatTime(iso: string): string {
     try {
       const d = new Date(iso.replace('T', ' ') + '+08:00');
-      return d.toLocaleTimeString(isEn ? 'en-US' : 'zh-TW', {
+      return d.toLocaleTimeString(isEn ? 'en-US' : isId ? 'id-ID' : 'zh-TW', {
         hour: '2-digit', minute: '2-digit', hour12: false,
       }) + ' WITA';
     } catch { return iso; }
@@ -556,18 +580,16 @@ const codeMapEn: Record<string, [string, string]> = {
       return `${clearIcon} ${clearDesc}`;
     }
     if (ratio >= 0.65) {
-      return isEn
-        ? `${clearIcon} ${clearDesc}, high chance of ${rainDesc.toLowerCase()}`
+      return (isEn || isId)
+        ? `${clearIcon} ${clearDesc}${t.highChance as string}${rainDesc.toLowerCase()}`
         : `${clearIcon} ${clearDesc}${t.highChance as string}${rainDesc}`;
     }
     if (ratio >= 0.3 || precipPct >= 50) {
-      return isEn
-        ? `${clearIcon} ${clearDesc}, chance of ${rainDesc.toLowerCase()}`
+      return (isEn || isId)
+        ? `${clearIcon} ${clearDesc}${t.someChance as string}${rainDesc.toLowerCase()}`
         : `${clearIcon} ${clearDesc}${t.someChance as string}${rainDesc}`;
     }
-    return isEn
-      ? `${clearIcon} ${clearDesc}, brief showers possible`
-      : `${clearIcon} ${clearDesc}${t.briefChance as string}`;
+    return `${clearIcon} ${clearDesc}${t.briefChance as string}`;
   }
 
   function buildSummary(
@@ -588,7 +610,7 @@ const codeMapEn: Record<string, [string, string]> = {
     const nl = t.nightLabel as string;
     const tl = t.tempLabel as string;
     const al = t.aroundLabel as string;
-    if (isEn) {
+    if (isEn || isId) {
       return `${dl}${dayText}, ${todayLo}–${todayHi}°C. ${nl}${nightText}${al}${night.avgTemp}°C.`;
     }
     return `${dl}${dayText}${tl}${todayLo}–${todayHi}°C。${nl}${nightText}${al}${night.avgTemp}°C。`;
@@ -620,7 +642,7 @@ const codeMapEn: Record<string, [string, string]> = {
   async function render(region: typeof regions[0]) {
     root.classList.add('bw-loading');
     const nameEl = q('bw-region-name');
-    if (nameEl) nameEl.textContent = isEn ? region.en : isCn ? region.cn : region.zh;
+    if (nameEl) nameEl.textContent = isEn ? region.en : isCn ? region.cn : isId ? region.id_ : region.zh;
     const condEl0 = q('bw-condition');
     if (condEl0) condEl0.textContent = t.loading as string;
     const summaryEl = q('bw-summary-text');
@@ -645,7 +667,8 @@ const codeMapEn: Record<string, [string, string]> = {
       const uv = Math.round(c.uv_index ?? 0);
       const uvLabel = uv <= 2 ? `${uv} 低` : uv <= 5 ? `${uv} 中` : uv <= 7 ? `${uv} 高` : uv <= 10 ? `${uv} 很高` : `${uv} 極高`;
       const uvLabelEn = uv <= 2 ? `${uv} Low` : uv <= 5 ? `${uv} Mod` : uv <= 7 ? `${uv} High` : uv <= 10 ? `${uv} V.High` : `${uv} Extreme`;
-      set('bw-uv', isEn ? uvLabelEn : uvLabel);
+      const uvLabelId = uv <= 2 ? `${uv} Rendah` : uv <= 5 ? `${uv} Sedang` : uv <= 7 ? `${uv} Tinggi` : uv <= 10 ? `${uv} Sangat Tinggi` : `${uv} Ekstrem`;
+      set('bw-uv', isEn ? uvLabelEn : isId ? uvLabelId : uvLabel);
       set('bw-time', formatTime(c.time));
 
       // 今日概況
@@ -682,7 +705,7 @@ const codeMapEn: Record<string, [string, string]> = {
       if (condElErr) condElErr.textContent = t.error as string;
       const summaryRetryEl = q('bw-summary-text');
       if (summaryRetryEl) {
-        const retryMsg = isEn ? 'Retrying in 30 seconds…' : isCn ? '30 秒后自动重试…' : '30 秒後自動重試…';
+        const retryMsg = isEn ? 'Retrying in 30 seconds…' : isCn ? '30 秒后自动重试…' : isId ? 'Mencoba ulang dalam 30 detik…' : '30 秒後自動重試…';
         summaryRetryEl.textContent = retryMsg;
         let countdown = 30;
         const timer = setInterval(() => {
@@ -692,7 +715,7 @@ const codeMapEn: Record<string, [string, string]> = {
             summaryRetryEl.textContent = '';
             render(region);
           } else {
-            const msg = isEn ? `Retrying in ${countdown}s…` : isCn ? `${countdown} 秒后自动重试…` : `${countdown} 秒後自動重試…`;
+            const msg = isEn ? `Retrying in ${countdown}s…` : isCn ? `${countdown} 秒后自动重试…` : isId ? `Mencoba ulang dalam ${countdown} detik…` : `${countdown} 秒後自動重試…`;
             summaryRetryEl.textContent = msg;
           }
         }, 1000);

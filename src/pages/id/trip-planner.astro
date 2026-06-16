@@ -1,0 +1,68 @@
+---
+export const prerender = true;
+import BaseHead from '../../components/BaseHead.astro';
+import Header from '../../components/Header.astro';
+import TopStrip from '../../components/TopStrip.astro';
+import Footer from '../../components/Footer.astro';
+import TripPlannerContent from '../../components/TripPlannerContent.astro';
+
+const hreflangs = [
+  { hreflang: 'zh-TW', href: 'https://gobaligo.id/trip-planner/' },
+  { hreflang: 'zh-CN', href: 'https://gobaligo.id/zh-cn/trip-planner/' },
+  { hreflang: 'zh-HK', href: 'https://gobaligo.id/zh-hk/trip-planner/' },
+  { hreflang: 'en',    href: 'https://gobaligo.id/en/trip-planner/' },
+  { hreflang: 'id',    href: 'https://gobaligo.id/id/trip-planner/' },
+  { hreflang: 'x-default', href: 'https://gobaligo.id/trip-planner/' },
+];
+---
+
+<!doctype html>
+<html lang="id">
+<head>
+  <BaseHead
+    title="Bali Trip Planner | Alat Perencanaan Itinerary Gratis 2026"
+    description="Trip planner Bali gratis: pilih gaya liburanmu dan dapatkan panduan area, rekomendasi wisata, serta aktivitas terbaik secara instan. Tanpa daftar."
+    hreflangs={hreflangs}
+  />
+  <script type="application/ld+json" set:html={JSON.stringify({
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebApplication",
+        "name": "Bali Trip Planner",
+        "description": "Alat perencanaan perjalanan Bali gratis. Masukkan gaya liburan, lama perjalanan, dan preferensimu untuk langsung mendapatkan panduan wisata, rekomendasi area, dan artikel wajib baca yang dipersonalisasi.",
+        "url": "https://gobaligo.id/id/trip-planner/",
+        "applicationCategory": "TravelApplication",
+        "operatingSystem": "Web",
+        "inLanguage": "id",
+        "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+        "featureList": [
+          "Pilihan gaya liburan (keluarga, honeymoon, teman, solo, lansia)",
+          "Analisis draft itinerary dan pengisian hari kosong",
+          "Rekomendasi panduan area dan wisata yang dipersonalisasi",
+          "Saran akomodasi per wilayah",
+          "Simpan hasil sebagai PDF untuk dibagikan ke teman perjalanan"
+        ],
+        "provider": {
+          "@type": "Organization",
+          "name": "Go Bali Go",
+          "url": "https://gobaligo.id"
+        }
+      },
+      {
+        "@type": "BreadcrumbList",
+        "itemListElement": [
+          { "@type": "ListItem", "position": 1, "name": "Beranda", "item": "https://gobaligo.id/id/" },
+          { "@type": "ListItem", "position": 2, "name": "Bali Trip Planner", "item": "https://gobaligo.id/id/trip-planner/" }
+        ]
+      }
+    ]
+  })} />
+</head>
+<body>
+  <Header lang="id" basePath="trip-planner" />
+  <TopStrip lang={'id'} />
+  <TripPlannerContent lang="id" />
+  <Footer lang="id" />
+</body>
+</html>
