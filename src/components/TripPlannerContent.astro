@@ -588,7 +588,7 @@ const htmlLang = lang === 'en' ? 'en' : lang === 'zh-cn' ? 'zh-CN' : lang === 'z
 // 客戶端再以 buildDayByDay() 重建逐日行程（演算法與 src/data/generateItinerary.ts 對齊）。
 import { tripPlannerSpots } from '../data/tripPlannerSpots';
 import { regionTravelMatrix } from '../data/regionTravelMatrix';
-const itineraryEnabled = lang === 'zh-tw';
+const itineraryEnabled = lang === 'zh-tw' || lang === 'id';
 const itinSpots = itineraryEnabled ? tripPlannerSpots : [];
 const itinMatrix = itineraryEnabled ? regionTravelMatrix : [];
 ---
@@ -997,37 +997,37 @@ const itinMatrix = itineraryEnabled ? regionTravelMatrix : [];
         <div class="seo-link-group">
           <h3 class="seo-link-group-title">{T.linkFamilyTitle}</h3>
           <ul>
-            <li><a href={lang === 'zh-tw' ? '/blog/bali-family-travel-guide/' : `/${lang}/blog/bali-family-travel-guide/`}>{lang === 'en' ? '100+ Family-Friendly Bali Attractions & Kids Activities' : lang === 'zh-cn' ? '峇里岛100+ 亲子友好景点与活动大全' : lang === 'zh-hk' ? '峇里島100+ 親子友善景點同活動大全' : '峇里島 100+ 親子友善景點與活動大全'}</a></li>
-            <li><a href={lang === 'zh-tw' ? '/blog/bali-family-travel-guide-2/' : `/${lang}/blog/bali-family-travel-guide-2/`}>{lang === 'en' ? 'Bali with Babies & Toddlers: No-Stress Family Travel Guide' : lang === 'zh-cn' ? '带嫩婴幼童去峇里岛不崩溃完整攻略' : lang === 'zh-hk' ? '帶嫩嬰幼童去峇里島唔崩潰完整攻略' : '帶嫩嬰幼童去峇里島不崩潰完整攻略'}</a></li>
-            <li><a href={lang === 'zh-tw' ? '/blog/bali-safari-night-stay/' : `/${lang}/blog/bali-safari-night-stay/`}>{lang === 'en' ? 'Bali Safari Park: Kids Activities & Night Safari Guide' : lang === 'zh-cn' ? '峇里岛野生动物园 Bali Safari 玩乐与夜宿攻略' : lang === 'zh-hk' ? '峇里島野生動物園 Bali Safari 玩樂同夜宿攻略' : '峇里島野生動物園 Bali Safari 親子玩樂與夜宿攻略'}</a></li>
+            <li><a href={lang === 'zh-tw' ? '/blog/bali-family-travel-guide/' : `/${lang}/blog/bali-family-travel-guide/`}>{lang === 'en' ? '100+ Family-Friendly Bali Attractions & Kids Activities' : lang === 'zh-cn' ? '峇里岛100+ 亲子友好景点与活动大全' : lang === 'zh-hk' ? '峇里島100+ 親子友善景點同活動大全' : lang === 'id' ? '100+ Destinasi & Aktivitas Bali Ramah Keluarga' : '峇里島 100+ 親子友善景點與活動大全'}</a></li>
+            <li><a href={lang === 'zh-tw' ? '/blog/bali-family-travel-guide-2/' : `/${lang}/blog/bali-family-travel-guide-2/`}>{lang === 'en' ? 'Bali with Babies & Toddlers: No-Stress Family Travel Guide' : lang === 'zh-cn' ? '带嫩婴幼童去峇里岛不崩溃完整攻略' : lang === 'zh-hk' ? '帶嫩嬰幼童去峇里島唔崩潰完整攻略' : lang === 'id' ? 'Bali Bareng Bayi & Balita: Panduan Liburan Keluarga Tanpa Stres' : '帶嫩嬰幼童去峇里島不崩潰完整攻略'}</a></li>
+            <li><a href={lang === 'zh-tw' ? '/blog/bali-safari-night-stay/' : `/${lang}/blog/bali-safari-night-stay/`}>{lang === 'en' ? 'Bali Safari Park: Kids Activities & Night Safari Guide' : lang === 'zh-cn' ? '峇里岛野生动物园 Bali Safari 玩乐与夜宿攻略' : lang === 'zh-hk' ? '峇里島野生動物園 Bali Safari 玩樂同夜宿攻略' : lang === 'id' ? 'Bali Safari Park: Aktivitas Anak & Panduan Night Safari' : '峇里島野生動物園 Bali Safari 親子玩樂與夜宿攻略'}</a></li>
           </ul>
         </div>
         <div class="seo-link-group">
           <h3 class="seo-link-group-title">{T.linkHoneymoonTitle}</h3>
           <ul>
-            <li><a href={lang === 'zh-tw' ? '/blog/bali-honeymoon-resorts-guide/' : `/${lang}/blog/bali-honeymoon-resorts-guide/`}>{lang === 'en' ? 'Best Bali Honeymoon Villas & Resorts 2026: 20 Romantic Picks' : lang === 'zh-cn' ? '峇里岛蜜月住宿推荐 2026：20 间浪漫 Villa 与度假村' : lang === 'zh-hk' ? '峇里島蜜月住宿推薦 2026：20 間浪漫 Villa 同度假村' : '峇里島蜜月住宿推薦 2026：20 間浪漫 Villa 與度假村'}</a></li>
-            <li><a href={lang === 'zh-tw' ? '/blog/bali-honeymoon-romantic-activities/' : `/${lang}/blog/bali-honeymoon-romantic-activities/`}>{lang === 'en' ? '10 Most Romantic Couple Activities in Bali' : lang === 'zh-cn' ? '峇里岛情侣共游十大浪漫活动推荐' : lang === 'zh-hk' ? '峇里島情侶共遊十大浪漫活動推薦' : '峇里島情侶共遊十大浪漫活動推薦'}</a></li>
+            <li><a href={lang === 'zh-tw' ? '/blog/bali-honeymoon-resorts-guide/' : `/${lang}/blog/bali-honeymoon-resorts-guide/`}>{lang === 'en' ? 'Best Bali Honeymoon Villas & Resorts 2026: 20 Romantic Picks' : lang === 'zh-cn' ? '峇里岛蜜月住宿推荐 2026：20 间浪漫 Villa 与度假村' : lang === 'zh-hk' ? '峇里島蜜月住宿推薦 2026：20 間浪漫 Villa 同度假村' : lang === 'id' ? 'Rekomendasi Villa & Resort Honeymoon Bali 2026: 20 Pilihan Romantis' : '峇里島蜜月住宿推薦 2026：20 間浪漫 Villa 與度假村'}</a></li>
+            <li><a href={lang === 'zh-tw' ? '/blog/bali-honeymoon-romantic-activities/' : `/${lang}/blog/bali-honeymoon-romantic-activities/`}>{lang === 'en' ? '10 Most Romantic Couple Activities in Bali' : lang === 'zh-cn' ? '峇里岛情侣共游十大浪漫活动推荐' : lang === 'zh-hk' ? '峇里島情侶共遊十大浪漫活動推薦' : lang === 'id' ? '10 Aktivitas Paling Romantis untuk Pasangan di Bali' : '峇里島情侶共遊十大浪漫活動推薦'}</a></li>
           </ul>
         </div>
         <div class="seo-link-group">
           <h3 class="seo-link-group-title">{T.linkFriendsTitle}</h3>
           <ul>
-            <li><a href={lang === 'zh-tw' ? '/blog/bali-free-travel-guide/' : `/${lang}/blog/bali-free-travel-guide/`}>{lang === 'en' ? '8-Day Bali Itinerary: Beat the Traffic with Smart Route Planning' : lang === 'zh-cn' ? '8天7夜爽玩峇里岛：避开堵车的完美路线规划' : lang === 'zh-hk' ? '8天7夜爽玩峇里島：避開塞車嘅完美路線規劃' : '8 天 7 夜爽玩峇里島：避開塞車的完美路線規劃'}</a></li>
-            <li><a href={lang === 'zh-tw' ? '/blog/seminyak-guide/' : `/${lang}/blog/seminyak-guide/`}>{lang === 'en' ? 'Seminyak Complete Guide 2026: Top Beach Clubs & Restaurants' : lang === 'zh-cn' ? '水明漾完整攻略 2026：精品海滩俱乐部与餐厅' : lang === 'zh-hk' ? '水明漾完整攻略 2026：精品海灘俱樂部同餐廳' : '水明漾完整攻略 2026：精品海灘俱樂部與餐廳'}</a></li>
+            <li><a href={lang === 'zh-tw' ? '/blog/bali-free-travel-guide/' : `/${lang}/blog/bali-free-travel-guide/`}>{lang === 'en' ? '8-Day Bali Itinerary: Beat the Traffic with Smart Route Planning' : lang === 'zh-cn' ? '8天7夜爽玩峇里岛：避开堵车的完美路线规划' : lang === 'zh-hk' ? '8天7夜爽玩峇里島：避開塞車嘅完美路線規劃' : lang === 'id' ? 'Itinerary Bali 8 Hari: Keliling Bali Tanpa Macet' : '8 天 7 夜爽玩峇里島：避開塞車的完美路線規劃'}</a></li>
+            <li><a href={lang === 'zh-tw' ? '/blog/seminyak-guide/' : `/${lang}/blog/seminyak-guide/`}>{lang === 'en' ? 'Seminyak Complete Guide 2026: Top Beach Clubs & Restaurants' : lang === 'zh-cn' ? '水明漾完整攻略 2026：精品海滩俱乐部与餐厅' : lang === 'zh-hk' ? '水明漾完整攻略 2026：精品海灘俱樂部同餐廳' : lang === 'id' ? 'Panduan Lengkap Seminyak 2026: Beach Club & Restoran Terbaik' : '水明漾完整攻略 2026：精品海灘俱樂部與餐廳'}</a></li>
           </ul>
         </div>
         <div class="seo-link-group">
           <h3 class="seo-link-group-title">{T.linkElderTitle}</h3>
           <ul>
-            <li><a href={lang === 'zh-tw' ? '/blog/bali-elderly-travel-guide/' : `/${lang}/blog/bali-elderly-travel-guide/`}>{lang === 'en' ? 'Bali with Elderly Parents: Safety, Comfort & Travel Tips' : lang === 'zh-cn' ? '带长辈去峇里岛：适合长者的安全舒适旅行指南' : lang === 'zh-hk' ? '帶長輩去峇里島：適合長者嘅安全舒適旅行指南' : '帶長輩去峇里島旅遊：適合長者的安全舒適完整指南'}</a></li>
-            <li><a href={lang === 'zh-tw' ? '/blog/bali-family-travel-guide/' : `/${lang}/blog/bali-family-travel-guide/`}>{lang === 'en' ? 'Bali Nusa Dua & Sanur Guide: Best Low-Key Zones for All Ages' : lang === 'zh-cn' ? '努沙杜瓦与沙努尔攻略：最适合长辈亲子的悠闲区域' : lang === 'zh-hk' ? '努沙杜瓦同沙努爾攻略：最適合長輩親子嘅悠閒區域' : '努沙杜瓦與沙努爾攻略：最適合長輩親子的悠閒區域'}</a></li>
+            <li><a href={lang === 'zh-tw' ? '/blog/bali-elderly-travel-guide/' : `/${lang}/blog/bali-elderly-travel-guide/`}>{lang === 'en' ? 'Bali with Elderly Parents: Safety, Comfort & Travel Tips' : lang === 'zh-cn' ? '带长辈去峇里岛：适合长者的安全舒适旅行指南' : lang === 'zh-hk' ? '帶長輩去峇里島：適合長者嘅安全舒適旅行指南' : lang === 'id' ? 'Bali Bareng Orang Tua: Tips Perjalanan Aman & Nyaman untuk Lansia' : '帶長輩去峇里島旅遊：適合長者的安全舒適完整指南'}</a></li>
+            <li><a href={lang === 'zh-tw' ? '/blog/bali-family-travel-guide/' : `/${lang}/blog/bali-family-travel-guide/`}>{lang === 'en' ? 'Bali Nusa Dua & Sanur Guide: Best Low-Key Zones for All Ages' : lang === 'zh-cn' ? '努沙杜瓦与沙努尔攻略：最适合长辈亲子的悠闲区域' : lang === 'zh-hk' ? '努沙杜瓦同沙努爾攻略：最適合長輩親子嘅悠閒區域' : lang === 'id' ? 'Panduan Nusa Dua & Sanur Bali: Kawasan Tenang untuk Semua Usia' : '努沙杜瓦與沙努爾攻略：最適合長輩親子的悠閒區域'}</a></li>
           </ul>
         </div>
         <div class="seo-link-group">
           <h3 class="seo-link-group-title">{T.linkSoloTitle}</h3>
           <ul>
-            <li><a href={lang === 'zh-tw' ? '/blog/bali-travel-money-saving-tips/' : `/${lang}/blog/bali-travel-money-saving-tips/`}>{lang === 'en' ? '19 Proven Ways to Save Money in Bali: Budget Travel Guide' : lang === 'zh-cn' ? '19个峇里岛省钱秘诀：自由行预算完整攻略' : lang === 'zh-hk' ? '19個峇里島省錢秘訣：自由行預算完整攻略' : '峇里島省錢 19 個秘訣：自由行預算完整攻略'}</a></li>
-            <li><a href={lang === 'zh-tw' ? '/blog/2026-bali-trip-planning-guide/' : `/${lang}/blog/2026-bali-trip-planning-guide/`}>{lang === 'en' ? '2026 Bali Trip Planning: 7-Step Guide for First-Time Visitors' : lang === 'zh-cn' ? '2026 峇里岛自由行：7步骤规划完美行程' : lang === 'zh-hk' ? '2026 峇里島自由行：7步驟規劃完美行程' : '2026 峇里島自由行：7 步驟輕鬆規劃完美旅程'}</a></li>
+            <li><a href={lang === 'zh-tw' ? '/blog/bali-travel-money-saving-tips/' : `/${lang}/blog/bali-travel-money-saving-tips/`}>{lang === 'en' ? '19 Proven Ways to Save Money in Bali: Budget Travel Guide' : lang === 'zh-cn' ? '19个峇里岛省钱秘诀：自由行预算完整攻略' : lang === 'zh-hk' ? '19個峇里島省錢秘訣：自由行預算完整攻略' : lang === 'id' ? '19 Cara Hemat di Bali: Panduan Backpacker & Budget Travel' : '峇里島省錢 19 個秘訣：自由行預算完整攻略'}</a></li>
+            <li><a href={lang === 'zh-tw' ? '/blog/2026-bali-trip-planning-guide/' : `/${lang}/blog/2026-bali-trip-planning-guide/`}>{lang === 'en' ? '2026 Bali Trip Planning: 7-Step Guide for First-Time Visitors' : lang === 'zh-cn' ? '2026 峇里岛自由行：7步骤规划完美行程' : lang === 'zh-hk' ? '2026 峇里島自由行：7步驟規劃完美行程' : lang === 'id' ? 'Perencanaan Liburan Bali 2026: 7 Langkah untuk Wisatawan Pertama Kali' : '2026 峇里島自由行：7 步驟輕鬆規劃完美旅程'}</a></li>
           </ul>
         </div>
       </div>
@@ -2139,6 +2139,79 @@ const REGIONS_ZH_CN = {
   },
 };
 
+// Indonesian overrides for REGIONS guide + spots
+const REGIONS_ID = {
+  kuta: {
+    guide: { title: 'Panduan Wisata Kuta Bali: 50 Tempat Wajib Dikunjungi & Tips', url: '/id/blog/kuta-guide/', tag: 'Panduan Area' },
+    spots: [{ title: 'Surfing Kuta Bali: Pengalaman Surfing Pertama untuk Pemula', url: '/id/blog/kuta-beginner-surfing-experience/', tag: 'Surfing' }],
+  },
+  seminyak: {
+    guide: { title: 'Panduan Seminyak 2026: 100 Tempat Wajib Dikunjungi & Peta', url: '/id/blog/seminyak-guide/', tag: 'Panduan Area' },
+    spots: [],
+  },
+  canggu: {
+    guide: { title: 'Panduan Canggu 2026: 100 Destinasi Pilihan & Peta Wisata', url: '/id/blog/canggu-guide/', tag: 'Panduan Area' },
+    spots: [{ title: 'Panduan Canggu Bali: Menjelajahi Jantung Bali Modern', url: '/id/blog/canggu-bali-travel-guide/', tag: 'Panduan' }],
+  },
+  ubud: {
+    guide: { title: 'Panduan Lengkap Ubud 2026: 100 Cara Menjelajahi Ubud', url: '/id/blog/ubud-guide/', tag: 'Panduan Area' },
+    spots: [
+      { title: 'Tiga Air Terjun Terkenal di Sekitar Ubud Bali', url: '/id/blog/ubud-waterfalls-guide/', tag: 'Air Terjun' },
+      { title: 'Rekomendasi Ayunan Foto Instagramable di Ubud Bali', url: '/id/blog/ubud-aloha-swing-photo-tips/', tag: 'Foto' },
+      { title: 'Tempat Wisata Ubud: Monkey Forest, Puri Ubud & Pasar Ubud', url: '/id/blog/ubud-bale-udang-monkey-forest/', tag: 'Wajib Dikunjungi' },
+      { title: 'Air Terjun Tersembunyi Bali: Tukad Cepung Waterfall', url: '/id/blog/tukad-cepung-waterfall-review/', tag: 'Alam' },
+    ],
+  },
+  jimbaran: {
+    guide: { title: 'Panduan Wisata Jimbaran Bali: 30 Destinasi Terbaik', url: '/id/blog/jimbaran-guide/', tag: 'Panduan Area' },
+    spots: [{ title: 'Rekomendasi Seafood Jimbaran Bali: 11 Restoran Seafood Pilihan', url: '/id/blog/jimbaran-seafood-restaurants-list/', tag: 'Kuliner' }],
+  },
+  uluwatu: {
+    guide: { title: 'Panduan Uluwatu: 50 Tempat Makan, Lihat & Lakukan', url: '/id/blog/uluwatu-guide/', tag: 'Panduan Area' },
+    spots: [
+      { title: '10 Tempat Wisata & Aktivitas Wajib di Uluwatu Bali', url: '/id/blog/uluwatu-top-attractions-bali/', tag: 'Wisata' },
+      { title: 'Pantai Tersembunyi di Bali: Green Bowl Beach', url: '/id/blog/green-bowl-beach-bali/', tag: 'Pantai Tersembunyi' },
+    ],
+  },
+  nusadua: {
+    guide: { title: 'Nusa Dua & Bukit Peninsula: Panduan Liburan Mewah — 40 Destinasi', url: '/id/blog/nusa-dua-guide/', tag: 'Panduan Area' },
+    spots: [
+      { title: 'Beach Club Terbaik di Nusa Dua: Manarai Beach House', url: '/id/blog/nusa-dua-manarai-beach-house-guide/', tag: 'Beach Club' },
+      { title: 'Pusat Olahraga Air Nusa Dua: Aktivitas Seru & Tips Keluarga', url: '/id/blog/tanjung-benoa-water-activities/', tag: 'Olahraga Air' },
+    ],
+  },
+  sanur: {
+    guide: { title: 'Menjelajahi Sanur Bali: Panduan Lengkap & Peta Area', url: '/id/blog/sanur-travel-map/', tag: 'Panduan Area' },
+    spots: [{ title: 'Wisata Keluarga di Sanur Bali: 50+ Aktivitas & Panduan Lengkap', url: '/id/blog/sanur-guide/', tag: 'Keluarga' }],
+  },
+  penida: {
+    guide: { title: 'Panduan Lengkap Nusa Penida: Peta, Kapal, Akomodasi & Transportasi', url: '/id/blog/nusa-penida-guide/', tag: 'Panduan Lengkap' },
+    spots: [
+      { title: 'Snorkeling di Nusa Penida: Panduan Tour & Tiket Kapal', url: '/id/blog/nusa-penida-snorkeling-guide/', tag: 'Snorkeling' },
+      { title: 'Kuliner Nusa Penida: Top 10 Restoran Terbaik', url: '/id/blog/nusa-penida-best-restaurants/', tag: 'Kuliner' },
+      { title: 'Island Hopping: Tiket Speedboat ke Penida/Lembongan/Gili/Lombok', url: '/id/blog/bali-island-hopping-guide/', tag: 'Transportasi' },
+      { title: 'Transportasi Nusa Penida: Taksi, Gojek, Sewa Mobil & Motor', url: '/id/blog/nusa-penida-transport-guide/', tag: 'Transportasi' },
+    ],
+  },
+  lembongan: {
+    guide: { title: 'Panduan Wisata Nusa Lembongan: Snorkeling, Pantai & Day Trip', url: '/id/blog/nusa-lembongan-ceningan-guide/', tag: 'Panduan Lengkap' },
+    spots: [{ title: 'Island Hopping: Tiket Speedboat ke Penida/Lembongan/Gili/Lombok', url: '/id/blog/bali-island-hopping-guide/', tag: 'Transportasi' }],
+  },
+  komodo: {
+    guide: { title: 'Panduan Lengkap Pulau Komodo: Komodo Dragon, Snorkeling & Itinerary', url: '/id/blog/komodo-island-labuan-bajo-travel/', tag: 'Panduan Lengkap' },
+    spots: [{ title: 'Wisata Pulau Komodo: Habitat Komodo, Menyelam & Info Perjalanan', url: '/id/blog/bali-komodo-luxury-tour-2026/', tag: 'Panduan Wisata' }],
+  },
+  east: {
+    guide: { title: 'Panduan Bali Timur 2026: Gapura Surga, Tirta Empul & Istana Air', url: '/id/blog/bali-east-tour-guide/', tag: 'Panduan Area' },
+    spots: [
+      { title: 'Pura Lempuyang (Gapura Surga): Panduan Tanpa Antre', url: '/id/blog/lempuyang-temple-gate-of-heaven/', tag: 'Wajib Foto' },
+      { title: 'Wisata Mata Air Suci Bali: Tirta Gangga hingga Tirta Empul', url: '/id/blog/bali-tirta-gangga-empul/', tag: 'Budaya' },
+      { title: 'Desa Penglipuran: Merasakan Pesona Bali Kuno', url: '/id/blog/penglipuran-village-bali-experience/', tag: 'Desa' },
+      { title: 'Danau & Gunung Batur Kintamani: Mendaki Saat Fajar & Cruise Keluarga Kerajaan', url: '/id/blog/batur-lake-volcano-guide/', tag: 'Gunung Berapi' },
+    ],
+  },
+};
+
 const INTEREST_EXTRAS = {
   surf: { articles: [
     { title: '【峇里島衝浪攻略】適合不同等級的衝浪海灘介紹', url: '/blog/bali-surf-beaches-guide/', tag: '全攻略' },
@@ -3049,7 +3122,8 @@ function regionSection(key) {
   const r = REGIONS[key]; if(!r) return '';
   const rEn = (lang === 'en' && REGIONS_EN[key]) ? REGIONS_EN[key] : null;
   const rCn = (lang === 'zh-cn' && REGIONS_ZH_CN[key]) ? REGIONS_ZH_CN[key] : null;
-  const rLang = rEn || rCn;
+  const rId = (lang === 'id' && REGIONS_ID[key]) ? REGIONS_ID[key] : null;
+  const rLang = rEn || rCn || rId;
   const guide = rLang ? rLang.guide : r.guide;
   const spots = rLang ? rLang.spots : r.spots;
   const desc = LS.regionDescs?.[key] || '';
