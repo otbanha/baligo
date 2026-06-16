@@ -1137,7 +1137,15 @@ const ITIN = (function initItinerary() {
   const OFFSHORE = new Set(['nusa-penida','lembongan','komodo']);
   const SLOT_ORDER = ['sunrise','morning','afternoon','sunset','evening'];
   const ROUTE_PRIORITY = ['kuta','seminyak','canggu','ubud','east-bali','sanur','nusa-penida','lembongan','komodo','nusa-dua','uluwatu','jimbaran'];
-  const REGION_LABEL = {
+  const REGION_LABEL = lang === 'id' ? {
+    ubud:'Ubud', kuta:'Kuta', seminyak:'Seminyak', canggu:'Canggu', jimbaran:'Jimbaran',
+    uluwatu:'Uluwatu', 'nusa-dua':'Nusa Dua', sanur:'Sanur', 'nusa-penida':'Nusa Penida',
+    lembongan:'Nusa Lembongan', 'east-bali':'Bali Timur', komodo:'Pulau Komodo',
+  } : lang === 'en' ? {
+    ubud:'Ubud', kuta:'Kuta', seminyak:'Seminyak', canggu:'Canggu', jimbaran:'Jimbaran',
+    uluwatu:'Uluwatu', 'nusa-dua':'Nusa Dua', sanur:'Sanur', 'nusa-penida':'Nusa Penida',
+    lembongan:'Nusa Lembongan', 'east-bali':'East Bali', komodo:'Komodo Island',
+  } : {
     ubud:'烏布', kuta:'庫塔', seminyak:'水明漾', canggu:'長谷', jimbaran:'金巴蘭',
     uluwatu:'烏魯瓦圖', 'nusa-dua':'努沙杜瓦', sanur:'沙努爾', 'nusa-penida':'努沙佩尼達',
     lembongan:'藍夢島', 'east-bali':'東部峇里', komodo:'科摩多島',
@@ -1604,7 +1612,11 @@ const ITIN = (function initItinerary() {
     return { days, tradeoffNote: tradeoffNote(dropped, advisory, input.days), baseRegions: mainland.concat(offshore) };
   }
 
-  const SLOT_LABEL = { sunrise:'🌅 日出', morning:'☀️ 上午', afternoon:'🌤️ 下午', sunset:'🌇 傍晚', evening:'🌙 晚上' };
+  const SLOT_LABEL = lang === 'id'
+    ? { sunrise:'🌅 Fajar', morning:'☀️ Pagi', afternoon:'🌤️ Siang', sunset:'🌇 Sore', evening:'🌙 Malam' }
+    : lang === 'en'
+    ? { sunrise:'🌅 Sunrise', morning:'☀️ Morning', afternoon:'🌤️ Afternoon', sunset:'🌇 Sunset', evening:'🌙 Evening' }
+    : { sunrise:'🌅 日出', morning:'☀️ 上午', afternoon:'🌤️ 下午', sunset:'🌇 傍晚', evening:'🌙 晚上' };
 
   return { generate, label, REGION_EMOJI, ID_TO_UI_REGION, UI_REGION_TO_ID, UI_COMPANION, SLOT_LABEL };
 })();
@@ -3175,8 +3187,9 @@ function renderDayCard(day) {
         ? `<a class="dbd-spot-link" href="${langUrl(sp.blogUrl)}" target="_blank" rel="noopener">${DBD_T.learnMore}</a>`
         : '';
       const dur = `<span class="dbd-dur">${DBD_T.durAbout || '約'} ${sp.durationHours} ${DBD_T.durHour || '小時'}</span>`;
+      const spName = (lang === 'id' ? SPOT_NAME_ID[sp.id] : null) || sp.name;
       return `<div class="dbd-slot"><span class="dbd-time">${t}</span>`
-        + `<div class="dbd-spot"><span class="dbd-spot-name">${escHtml(sp.name)}</span>${dur}${link}</div></div>`;
+        + `<div class="dbd-spot"><span class="dbd-spot-name">${escHtml(spName)}</span>${dur}${link}</div></div>`;
     });
 
     // 換區當天：在入住前/後的景點之間插入「入住 XX」提示
@@ -3487,6 +3500,65 @@ const ALL_SPOTS_DATA_ID = {
   rafting:     { title: 'FAQ Arung Jeram Bali: Tidak Bisa Renang Boleh? Batas Usia & Keamanan', url: '/id/blog/bali-rafting-ayung-telaga-waja/', tag: 'Arung Jeram' },
   atv:         { title: 'ATV Quad Bike Bali: Petualangan Seru di Hutan Tropis', url: '/id/blog/bali-atv-adventure-guide/', tag: 'ATV' },
   volcano:     { title: 'Danau & Gunung Batur: Mendaki Sunrise & Royal Cruise', url: '/id/blog/batur-lake-volcano-guide/', tag: 'Gunung Berapi' },
+};
+
+// ── Spot Name Translations (Indonesian) ──────────────────────────────
+const SPOT_NAME_ID = {
+  u_palace: 'Puri Ubud (Istana Ubud)', u_market: 'Pasar Seni Ubud',
+  u_tirta: 'Pura Tirta Empul', u_monkey: 'Sacred Monkey Forest',
+  u_terraces: 'Sawah Terasering Ubud', u_skywalk: 'Campuhan Ridge Walk',
+  u_coffee: 'Kopi Gunung Batur', u_zoo: 'Bali Safari & Marine Park',
+  u_waterfall: 'Air Terjun Tersembunyi Ubud', u_fairy: 'Taman Dedari',
+  u_junglepool: 'Wanna Jungle Pool & Bar', u_jeep: 'Sunrise Jeep Gunung Batur',
+  u_sunsetjeep: 'Sunset Jeep Gunung Batur', u_singing: 'Sound Healing Ubud',
+  u_swing: 'Ayunan Hutan Ubud', u_mario: 'Go Kart Hutan Ubud',
+  su_food: 'Kuliner Ubud', u_spa: 'Spa & Pijat Ubud',
+  u_penglipuran: 'Desa Tradisional Penglipuran', u_farmhouse: 'Bali Farm House',
+  u_cave_rafting: 'River Tubing Gua Ubud', su_bird_park: 'Bali Bird Park',
+  su_reptile_park: 'Bali Reptile Park', rafting: 'Arung Jeram Bali',
+  atv: 'ATV Quad Bike Bali',
+  k_surf: 'Belajar Surfing di Pantai Kuta', k_waterbom: 'Waterbom Bali Water Park',
+  k_beachwalk: 'Beachwalk Shopping Center', k_turtle: 'Pusat Konservasi Penyu',
+  k_beerbus: 'Beer Bus Kuta', k_food: 'Kuliner Kuta', k_spa: 'Spa & Pijat Kuta',
+  k_trans: 'Trans Studio Bali', k_vr: 'Zone Out VR Arcade', k_azul: 'Azul Beach Club Afternoon Tea',
+  se_daytour: 'Day Trip Seminyak', se_surf: 'Surfing Seminyak',
+  se_food: 'Kuliner Seminyak', se_club: '5 Club Malam Terbaik Seminyak',
+  se_spa: 'Spa & Pijat Seminyak', se_sugarsand: 'SugarSand Pool Restaurant',
+  se_shooter: 'Shooter Bali', se_mookiland: 'Mookiland Park',
+  se_horse: 'Berkuda di Pantai', se_eatstreet: 'Eat Street Seminyak',
+  cg_tanah: 'Pura Tanah Lot', cg_labrisa: 'La Brisa Restoran Indah',
+  cg_horse: 'Berkuda di Pantai Canggu', cg_nuanu: 'Nuanu Creative City',
+  cg_surf: 'Surfing Canggu', cg_spa: 'Spa & Pijat Canggu',
+  cg_beachclub: 'Beach Club Canggu', cg_market: 'Pasar & Perbelanjaan Canggu',
+  cg_atv: 'ATV di Pantai Canggu', cg_wheel: 'The Wheel Bianglala',
+  cg_kids: 'Taman Bermain Keluarga', cg_food: 'Kuliner & Kafe Canggu',
+  cg_spa2: 'Nikmati Spa Canggu', cg_puppyyoga: 'Puppy Yoga Bali',
+  ji_gwk: 'GWK Cultural Park', ji_rockbar: 'Reservasi Rock Bar AYANA',
+  ji_seafood: 'Restoran Seafood Sunset Jimbaran', ji_shopping: 'Belanja di Jimbaran',
+  ji_annspa: 'Ann SPA Jimbaran', ji_spa: 'Spa & Pijat Jimbaran',
+  ji_samasta: 'Samasta Lifestyle Village', ji_gokart: 'Go Kart Jimbaran',
+  ji_beachclub: 'Beach Club Jimbaran', ji_camel: 'Naik Unta di Pantai',
+  ji_hightea: 'Afternoon Tea Bintang 5',
+  ul_temple: 'Pura Uluwatu', ul_kecak: 'Kecak Fire Dance (Tari Api Kecak)',
+  ul_oneeighty: 'Oneeighty° Infinity Pool', ul_highway: 'Jalan Tebing Uluwatu',
+  ul_beach: 'Pantai Tersembunyi Uluwatu', ul_paraglide: 'Paralayang Uluwatu',
+  ul_vw: 'VW Cabriolet Uluwatu Tour', ul_surf: 'Les Surfing Uluwatu',
+  ul_spa: 'Spa & Pijat Uluwatu', ul_beachclub: 'Beach Club Uluwatu',
+  ul_food: 'Kuliner Uluwatu', ul_kidsrest: 'Restoran Ramah Anak Uluwatu',
+  nd_buffet: 'Buffet Restoran Bintang 5', nd_lobster: 'Mr. Lobster Seafood Nusa Dua',
+  nd_bali_collection: 'Bali Collection Mall', nd_watersport: 'Pusat Olahraga Air Nusa Dua',
+  nd_devdan: 'Devdan Show', nd_turtle_island: 'Pulau Penyu + Perahu Kaca',
+  nd_spa: 'Spa & Pijat Nusa Dua', nd_snorkel: 'Snorkeling (Ramah Anak)',
+  sa_icon: 'Icon Bali Mall', sa_cycling: 'Bersepeda Sunrise di Pantai Sanur',
+  sa_turtle: 'Pusat Konservasi Penyu', sa_fishing: 'Memancing di Laut',
+  sa_aerox: 'AeroXSpace Indoor Playground', sa_climbing: "Clip'n'Climb Panjat Tebing",
+  sa_spa: 'Spa & Pijat Sanur', sa_snorkel: 'Snorkeling Lepas Pantai Sanur',
+  sa_marine: 'Bali Exotic Marine Park', sa_biggarden: 'Big Garden Corner',
+  sa_food: 'Kuliner Sanur', sa_spa2: 'Spa di Sanur',
+  np_snorkel: 'Snorkeling Nusa Penida Seharian', np_tour: 'Wisata Nusa Penida Seharian',
+  nl_tour: 'Nusa Lembongan Day Trip',
+  eb_lempuyang: 'Gapura Surga Lempuyang', eb_tirta: 'Tirta Gangga (Kolam Air Suci)',
+  volcano: 'Pendakian Sunrise Gunung Batur', ko_tour: 'Island Hopping Komodo',
 };
 
 // ── Spot Preview Images ───────────────────────────────────────────────
