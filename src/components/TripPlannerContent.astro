@@ -1376,6 +1376,8 @@ const ITIN = (function initItinerary() {
     for (const sp of cands) {
       if (chosen.length >= cap) break;
       if (hours + sp.durationHours + DAILY_TRANSIT_BUFFER > DAILY_HOUR_CAP) continue;
+      // 抵達日：只排 4 小時以下的活動，讓旅客有時間 check-in 與適應時差
+      if (arrivalOnly && sp.durationHours >= 4) continue;
       // 時段內已有行程時，新加入的景點時數合計不能超過該時段上限；
       // 但時段目前還空著時，即使單一景點本身（如 Waterbom 5 小時）超過上限也允許獨佔該時段
       const fitsSlot = s => (slotCounts.get(s) ?? 0) < maxPerSlot(s) &&
