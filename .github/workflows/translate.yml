@@ -110,13 +110,12 @@ jobs:
           )
           echo "translate_count=$COUNT" >> $GITHUB_OUTPUT
           echo "📊 待翻譯：$COUNT 篇文章"
-          # TEMP: 門檻暫時調高至 1000，讓 id 語系全量翻譯可自動執行（完成後請改回 15）
-          if [ "$COUNT" -gt 1000 ]; then
+          if [ "$COUNT" -gt 15 ]; then
             echo "needs_approval=true" >> $GITHUB_OUTPUT
-            echo "⚠️ 超過 1000 篇，將請求核准"
+            echo "⚠️ 超過 15 篇，將請求核准"
           else
             echo "needs_approval=false" >> $GITHUB_OUTPUT
-            echo "✅ 1000 篇以內，直接翻譯"
+            echo "✅ 15 篇以內，直接翻譯"
           fi
 
   # ── 第二步：超過 15 篇時等待核准（GitHub Environment 保護規則）─────────────
