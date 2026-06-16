@@ -1154,6 +1154,28 @@ const ITIN = (function initItinerary() {
     ubud:'🌿', kuta:'🏖️', seminyak:'💅', canggu:'☕', jimbaran:'🦞', uluwatu:'🌅',
     'nusa-dua':'🏨', sanur:'⛵', 'nusa-penida':'🤿', lembongan:'🏝️', 'east-bali':'⛩️', komodo:'🦎',
   };
+  const TRAVEL_T = lang === 'id' ? {
+    sep:'｜', driveAbout:'Perjalanan sekitar ', minMark:' menit (sekitar ', hrClose:' jam)',
+    peakWarn:', macet sore hari, disarankan berangkat sebelum pukul 15:00',
+    joinSep:', ',
+    dropNote:(n,parts)=>`Dengan ${n} hari sulit menjadwalkan island hopping seharian. Disarankan rencanakan khusus: ${parts.join(', ')}`,
+    dropSuffix:(r)=>` (disarankan ${r==='komodo'?3:2} hari khusus)`,
+    advisoryNote:(n,max,parts)=>`Untuk ${n} hari, disarankan maksimal ${max+1} area agar tidak terburu-buru. Sudah kami masukkan semua area pilihanmu; jika ingin lebih santai, pertimbangkan menunda ${parts.join(', ')} ke perjalanan berikutnya.`,
+  } : lang === 'en' ? {
+    sep:' | ', driveAbout:'Drive ~', minMark:' min (~', hrClose:' hrs)',
+    peakWarn:' — peak-hour congestion, recommend departing before 15:00',
+    joinSep:', ',
+    dropNote:(n,parts)=>`With ${n} days, full-day island trips are hard to fit in. Better to plan a dedicated trip for: ${parts.join(', ')}`,
+    dropSuffix:(r)=>` (allow ${r==='komodo'?3:2} dedicated days)`,
+    advisoryNote:(n,max,parts)=>`For ${n} days we suggest max ${max+1} base areas for a comfortable pace. We've included all your picks; to slow things down, consider saving ${parts.join(', ')} for your next trip.`,
+  } : {
+    sep:'｜', driveAbout:'車程約 ', minMark:' 分（約 ', hrClose:' 小時）',
+    peakWarn:'，傍晚尖峰會塞，建議 15:00 前出發',
+    joinSep:'、',
+    dropNote:(n,parts)=>`${n} 天天數較難安排整天跳島，建議下次再專程安排：${parts.join('、')}`,
+    dropSuffix:(r)=>`（建議下次專程 ${r==='komodo'?3:2} 天）`,
+    advisoryNote:(n,max,parts)=>`${n} 天建議最多 ${max+1} 個住宿區會比較不趕，已盡量把你想去的區域都排進行程；若想更悠閒，可以考慮把 ${parts.join('、')} 留到下次再專程安排。`,
+  };
   // RegionId → 既有 REGIONS 鍵（住宿攻略連結用）
   const ID_TO_UI_REGION = {
     kuta:'kuta', seminyak:'seminyak', canggu:'canggu', ubud:'ubud', jimbaran:'jimbaran',
@@ -1470,15 +1492,38 @@ const ITIN = (function initItinerary() {
     return reordered;
   }
 
+  const NOTE_XLAT = {
+    id: {
+      '需搭快艇往返': 'Perlu naik speedboat PP',
+      '需搭快艇往返（快艇約 45 分，自 Sanur 出發）': 'Perlu naik speedboat PP (±45 menit dari Sanur)',
+      '需搭快艇往返（快艇約 30 分，自 Sanur 出發）': 'Perlu naik speedboat PP (±30 menit dari Sanur)',
+      '佩尼達↔藍夢島快艇約 20 分': 'Speedboat Nusa Penida ↔ Nusa Lembongan (±20 menit)',
+      '需搭機飛 Labuan Bajo，建議專程 3 天以上': 'Perlu terbang ke Labuan Bajo — disarankan perjalanan khusus 3+ hari',
+      '傍晚出發會塞到 2.5hr，建議 15:00 前出發': 'Berangkat sore hari bisa macet hingga 2,5 jam — disarankan sebelum 15:00',
+    },
+    en: {
+      '需搭快艇往返': 'Requires speedboat transfer',
+      '需搭快艇往返（快艇約 45 分，自 Sanur 出發）': 'Requires speedboat from Sanur (~45 min)',
+      '需搭快艇往返（快艇約 30 分，自 Sanur 出發）': 'Requires speedboat from Sanur (~30 min)',
+      '佩尼達↔藍夢島快艇約 20 分': 'Speedboat between Nusa Penida & Nusa Lembongan (~20 min)',
+      '需搭機飛 Labuan Bajo，建議專程 3 天以上': 'Requires flight to Labuan Bajo — plan a dedicated 3+ day trip',
+      '傍晚出發會塞到 2.5hr，建議 15:00 前出發': 'Evening departure can take 2.5 hrs — depart before 15:00',
+    },
+  };
+  function noteXlat(note) {
+    const m = NOTE_XLAT[lang];
+    return (m && m[note]) ? m[note] : note;
+  }
+
   function travelNote(from, to) {
     const tt = getTravel(from, to);
     const fL = label(from), tL = label(to);
-    if (tt.normalMinutes >= 999) return fL + ' → ' + tL + (tt.note ? '｜' + tt.note : '');
+    if (tt.normalMinutes >= 999) return fL + ' → ' + tL + (tt.note ? TRAVEL_T.sep + noteXlat(tt.note) : '');
     const nH = (tt.normalMinutes/60).toFixed(1).replace(/\.0$/, '');
     const pH = (tt.peakMinutes/60).toFixed(1).replace(/\.0$/, '');
-    let n = fL + ' → ' + tL + '｜車程約 ' + tt.normalMinutes + '–' + tt.peakMinutes + ' 分（約 ' + nH + '–' + pH + ' 小時）';
-    if (tt.peakMinutes - tt.normalMinutes >= 35) n += '，傍晚尖峰會塞，建議 15:00 前出發';
-    if (tt.note) n += '｜' + tt.note;
+    let n = fL + ' → ' + tL + TRAVEL_T.sep + TRAVEL_T.driveAbout + tt.normalMinutes + '–' + tt.peakMinutes + TRAVEL_T.minMark + nH + '–' + pH + TRAVEL_T.hrClose;
+    if (tt.peakMinutes - tt.normalMinutes >= 35) n += TRAVEL_T.peakWarn;
+    if (tt.note) n += TRAVEL_T.sep + noteXlat(tt.note);
     return n;
   }
 
@@ -1486,12 +1531,12 @@ const ITIN = (function initItinerary() {
     const numDays = DAYS_MAP[days], maxCh = MAX_CHANGES[days];
     const notes = [];
     if (dropped.length) {
-      const parts = dropped.map(r => OFFSHORE.has(r) ? label(r) + '（建議下次專程 ' + (r === 'komodo' ? 3 : 2) + ' 天）' : label(r));
-      notes.push(numDays + ' 天天數較難安排整天跳島，建議下次再專程安排：' + parts.join('、'));
+      const parts = dropped.map(r => OFFSHORE.has(r) ? label(r) + TRAVEL_T.dropSuffix(r) : label(r));
+      notes.push(TRAVEL_T.dropNote(numDays, parts));
     }
     if (advisory.length) {
       const parts = advisory.map(r => label(r));
-      notes.push(numDays + ' 天建議最多 ' + (maxCh + 1) + ' 個住宿區會比較不趕，已盡量把你想去的區域都排進行程；若想更悠閒，可以考慮把 ' + parts.join('、') + ' 留到下次再專程安排。');
+      notes.push(TRAVEL_T.advisoryNote(numDays, maxCh, parts));
     }
     return notes.length ? notes.join('\n') : null;
   }
