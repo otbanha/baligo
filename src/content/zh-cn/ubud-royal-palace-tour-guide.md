@@ -1,25 +1,26 @@
 ---
-slug: ubud-royal-palace-tour-guide
 title: 【乌布必访景点】乌布皇宫：巴厘岛文化历史的瑰宝｜开放时间、门票、表演时间、周边景点、一日游推荐
+slug: ubud-royal-palace-tour-guide
 description: >-
   乌布皇宫（Ubud Royal Palace/Puri Saren
   Agung）正是体验巴厘岛传统文化的好去处。作为巴厘岛历史上皇家家族的住所，这座皇宫展现了十九世纪以来的巴厘建筑风格，也见证了巴厘皇室的历史和传统
-pubDate: '2024-11-05'
-heroImage: 'https://images.gobaligo.id/vocus/vocus_5a0249c2416d34d9faa70c164c0fbf56.jpg'
+pubDate: 2024-11-05T00:00:00.000Z
+pubHour: null
+category:
+  - 美食景點活動
 tags:
   - 烏布皇宮
   - 烏布皇宮景點
   - 烏布景點
   - 烏布必訪景點
   - 烏布皇宮門票
+heroImage: 'https://images.gobaligo.id/vocus/vocus_5a0249c2416d34d9faa70c164c0fbf56.jpg'
 originalUrl: 'https://vocus.cc/article/6728cc00fd89780001c9bbdc'
-category:
-  - 美食景點活動
 lang: zh-cn
-_srcHash: 32701ed8a1f985c48cc1ff49fa54b465
+_srcHash: e04078284576d3da4464fc5ecb8e0ec7
 ---
 
-![raw-image](https://images.gobaligo.id/vocus/vocus_bf4aff81a496a2d5578ba886191fbd45.jpg)
+update：2026/06/16
 
 提到巴厘岛，大家首先会想到美丽的沙滩和壮丽的自然景观，但其实巴厘岛的文化底蕴也相当丰富！乌布皇宫（Ubud Royal Palace/Puri Saren Agung）正是体验巴厘岛传统文化的好去处。作为巴厘岛历史上皇家家族的住所，这座皇宫展现了十九世纪以来的巴厘建筑风格，也见证了巴厘皇室的历史和传统艺术。
 
@@ -49,11 +50,13 @@ _srcHash: 32701ed8a1f985c48cc1ff49fa54b465
 
 ## 探索乌布皇宫及周边景点：文化、购物与自然的完美结合
 
-乌布不仅有着充满历史气息的皇宫，更有许多周边景点可以一并探索，包括充满市集热闹氛围的乌布艺术市场、美丽的水皇宫、猴林路的时尚小店，以及自然景观丰富的圣猴森林。在这里，无论是体验当地文化还是享受购物乐趣，甚至亲近巴厘岛的自然生态，都能让你的乌布之旅更加难忘！
+乌布不仅有着充满历史气息的皇宫，更有许多周边景点可以一并探索，包括充满集市热闹氛围的乌布艺术市场、美丽的水皇宫、猴林路的时尚小店，以及自然景观丰富的圣猴森林。在这里，无论是体验当地文化还是享受购物乐趣，甚至亲近巴厘岛的自然生态，都能让你的乌布之旅更加难忘！
 
 ### 1. 乌布艺术市场（Ubud Art Market）🗺️[地图位置](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
-乌布艺术市场位于乌布皇宫的对面，是一个充满巴厘岛传统特色的市集。这里出售的商品种类繁多，包括手工饰品、木雕、绘画、传统服饰等，每件商品都展现出当地浓厚的艺术氛围。记得在购物时可以适当议价，让你以更优惠的价格带走心仪的纪念品！
+https://youtube.com/shorts/Oh-RNfjhQhM
+
+乌布艺术市场位于乌布皇宫的对面，是一个充满巴厘岛传统特色的集市。这里出售的商品种类繁多，包括手工饰品、木雕、绘画、传统服饰等，每件商品都展现出当地浓厚的艺术氛围。记得在购物时可以适当议价，让你以更优惠的价格带走心仪的纪念品！
 
 延伸阅读：[推荐乌布五大艺术市集完整指南：购买纪念品/伴手礼，寻访巴厘岛文化宝藏](/blog/ubud-art-markets-guide/)
 
@@ -62,6 +65,8 @@ _srcHash: 32701ed8a1f985c48cc1ff49fa54b465
 水皇宫比较通俗的名称又被称为「Ubud Water Palace」，距离乌布皇宫仅几分钟步行路程，以其美丽的莲花池和优雅的建筑而闻名。这座寺庙主要供奉智慧女神莎拉斯瓦蒂，粉红色的莲花与金黄色墙面相互映衬，形成一幅迷人的画面，吸引了许多游客拍照留念。这里是一处静谧的场所，适合放慢脚步，感受巴厘岛独特的宗教氛围。
 
 请看小杰的介绍：
+
+https://youtu.be/hYkf6sjCtqg
 
 2026国际旅客的票价与拍照方案整理，给大家参考👇
 
@@ -78,13 +83,15 @@ _srcHash: 32701ed8a1f985c48cc1ff49fa54b465
 
 📌 **小提醒（个人观察）**
 
-乌布水皇宫本身不大，单纯参观停留时间不会太久，但拍照真的很吃光线与人潮。如果你是为了拍照而来，选择含拍照的方案会比较省事；如果只是顺路看看，其实单纯买入场票也足够。
+乌布水皇宫本身不大，单纯参观停留时间不会太久，但拍照真的很吃光线和人潮。如果你是为了拍照而来，选择含拍照的方案会比较省事；如果只是顺路看看，其实单纯买入场票也足够。
 
 ### 3. 猴林路逛街（Jalan Monkey Forest）🗺️[地图位置](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
 
 猴林路是乌布的主要购物街之一，沿街布满了特色商店、时尚精品店、咖啡馆和餐厅。这条街道既有当地手工艺品店，也有出售巴厘天然护肤品的店铺，椰子油和手工皂等商品尤其受欢迎。逛累了也可以在沿街的咖啡厅小憩，享用一杯香浓的巴厘咖啡。
 
 ### 4. 圣猴森林（Sacred Monkey Forest Sanctuary）🗺️[地图位置](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)
+
+https://youtube.com/shorts/tpPWsvsH-Eo
 
 喜爱大自然的游客千万不要错过圣猴森林！这片森林位于乌布南部，是数百只长尾猕猴的栖息地，游客可以在这里近距离观察猴群的日常活动，增添旅程的乐趣。森林内还有一些古老的石雕和寺庙遗迹，为这个自然保护区增添了一份神秘的气息。不过，游客在此需要特别留意个人物品，因为猴子们可是会来抢食的哦！🐒
 
@@ -93,9 +100,11 @@ _srcHash: 32701ed8a1f985c48cc1ff49fa54b465
 
 **认识乌布市区，小杰带你逛一圈：**
 
+https://youtu.be/JtxZHtijEkE
+
 ## 乌布文化一日游推荐行程
 
-在乌布的景点间距离不远，建议可以安排一天内完成这趟文化与自然兼具的旅行。以下为参考行程：
+在乌布的景点之间距离不远，建议可以安排一天内完成这趟文化与自然兼具的旅行。以下为参考行程：
 
 - **上午**：一大早先参观乌布皇宫，感受皇室的历史和建筑之美，接着步行五分钟参观乌布水皇宫，欣赏美丽的莲花池。10点前往乌布市场，体验市集的热闹氛围，并挑选特色手工艺品。
 - **中午**：在猴林路附近找一家当地餐厅享用午餐，放松小憩（推荐的一些美食餐厅介绍在[这里](https://www.google.com/maps/d/u/0/edit?mid=1jrOaKVOZ4jpcB_kprr67w3ltg3WPbf4&usp=sharing)）。
@@ -117,7 +126,7 @@ _srcHash: 32701ed8a1f985c48cc1ff49fa54b465
 
 **2. 乌布皇宫的门票费用是多少？**
 
-- 参观乌布皇宫的日间门票是免费的。若要观赏晚上举行的传统舞蹈表演，则需要购买票券，费用大约为 IDR 100K（约 USD 6），票价可能因演出而异。建议可以[事先预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
+- 参观乌布皇宫的日间门票是免费的。若要观赏晚上举行的传统舞蹈表演，则需要购买票券，费用大约为 IDR 100K（约 USD$6），票价可能因演出而异。建议可以[事先预订](https://affiliate.klook.com/redirect?aid=116349&aff_adid=944134&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80603-ubud-kecak-fire-dance-show-tickets-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2deaa6927)
 - 票价100K...其中的K是什么意思？请看[这里](/blog/bali-budget-tips-k-explained/)
 
 **3. 可以进入乌布皇宫的所有区域吗？**
@@ -130,7 +139,7 @@ _srcHash: 32701ed8a1f985c48cc1ff49fa54b465
 
 **5. 乌布皇宫可以穿短裤和背心进去吗？**
 
-- 乌布皇宫对于穿着并没有严格规定，但建议穿着整齐得体，尊重当地文化。参观宗教场所或寺庙时通常会要求穿着包覆性较高的衣物，有些地点也会提供沙龙布（Sarong）供游客使用。
+- 乌布皇宫对着装并没有严格规定，但建议穿着整齐得体，尊重当地文化。参观宗教场所或寺庙时通常会要求穿着包覆性较高的衣物，有些地点也会提供沙龙布（Sarong）供游客使用。
 
 **6. 皇宫的传统舞蹈表演有哪些类型？**
 
@@ -156,10 +165,6 @@ _srcHash: 32701ed8a1f985c48cc1ff49fa54b465
 
 - 是的，乌布皇宫目前仍是巴厘岛王室家族的居所。尽管不再拥有实际的政治权力，但王室成员依然住在皇宫内，并扮演保存传统文化的重要角色，参与许多宗教和文化活动。
 
----
+***
 
-### 更多乌布吃喝玩乐介绍
-
-![raw-image](https://images.gobaligo.id/vocus/vocus_b6d12217ea90beecfe681cdd8f848d0f.jpg)
-
-乌布（Ubud）是巴厘岛的文化与艺术中心，以绿意盎然的梯田、静谧的丛林以及深厚的传统文化吸引着无数旅人。这里是放松身心的理想之地。无论是探索当地传统、享受自然美景、还是各种有趣刺激的户外活动美食+美景的独特体验，乌布都能带给您独特的感动！想了解更多乌布攻略？[请点击这里](/blog/ubud-guide/)
+{{block:ubud}}
