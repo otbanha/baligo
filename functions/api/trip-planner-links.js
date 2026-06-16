@@ -3,10 +3,12 @@
 // POST /api/trip-planner-links             → save data for zh-tw (requires X-Admin-Token)
 // POST /api/trip-planner-links?lang=en     → save data for English (requires X-Admin-Token)
 // POST /api/trip-planner-links?lang=zh-cn  → save data for Simplified Chinese (requires X-Admin-Token)
+// POST /api/trip-planner-links?lang=id     → save data for Indonesian (requires X-Admin-Token)
 
 const KV_KEY = 'config:trip-planner-links';
 const KV_KEY_EN = 'config:trip-planner-links:en';
 const KV_KEY_ZH_CN = 'config:trip-planner-links:zh-cn';
+const KV_KEY_ID = 'config:trip-planner-links:id';
 
 const DEFAULT_LINKS = {
   accom: {
@@ -152,6 +154,60 @@ const DEFAULT_LINKS_ZH_CN = {
   ],
 };
 
+const DEFAULT_LINKS_ID = {
+  accom: {
+    kuta: [
+      { title: 'Panduan Wisata Kuta Bali: 50 Tempat Wajib Dikunjungi & Tips', url: '/blog/kuta-guide/', tag: 'Panduan' },
+      { title: 'Panduan Lengkap Waterbom Bali Water Park', url: '/blog/waterbom-bali-water-park-guide/', tag: 'Wahana Air' },
+    ],
+    seminyak: [
+      { title: '22 Villa Kolam Renang Pribadi di Seminyak yang Menakjubkan', url: '/blog/2025-08-11-660e6e92fd89780001e6047e/', tag: 'Villa' },
+      { title: 'Hotel Indigo Bali Seminyak: Resort Bintang 5 Tepi Pantai', url: '/blog/2025-07-24-68818eddfd897800017a2dfb/', tag: 'Bintang 5' },
+      { title: 'Villa Bali Hemat di Seminyak — Budget di Bawah $100', url: '/blog/2024-09-21-66ee9770fd89780001306753/', tag: 'Hemat' },
+      { title: 'iSuite by Ekosistem: Penginapan Butik Desain di Seminyak', url: '/blog/2026-04-07-044334/', tag: 'Butik' },
+      { title: 'Panduan Akomodasi Seminyak: Hotel Tepi Pantai Bertema', url: '/blog/2023-11-06-65472977fd89780001cf3ce6/', tag: 'Panduan' },
+    ],
+    canggu: [
+      { title: '16 Villa Kolam Renang Pribadi di Canggu yang Wajib Dicoba', url: '/blog/2024-08-07-66b20b15fd89780001ceef6b/', tag: 'Villa' },
+      { title: 'TUI BLUE Berawa: Hotel Baru yang Stylish di Canggu', url: '/blog/2025-01-20-678dada2fd897800015779fb/', tag: 'Baru' },
+      { title: 'Holiday Inn Resort Bali Canggu: Hotel Keluarga Terbaik', url: '/blog/2025-10-07-68e51c8efd897800014e36a6/', tag: 'Keluarga' },
+    ],
+    ubud: [
+      { title: '30 Resort Hutan di Ubud: Villa Tepi Tebing hingga Sawah Terasering', url: '/blog/2024-02-20-65d21157fd897800013be576/', tag: 'Villa Hutan' },
+      { title: '20 Villa Kolam Renang Pribadi di Ubud: Surga Tersembunyi', url: '/blog/2024-04-24-6628f08cfd8978000190a575/', tag: 'Villa' },
+      { title: 'Bidadari Private Villas & Retreat — Surga Tersembunyi di Ubud', url: '/blog/2025-01-17-6789be68fd89780001c3ec93/', tag: 'Tersembunyi' },
+      { title: 'Hiliwatu Ubud: Marriott Autograph Collection Buka di Bali', url: '/blog/2026-01-19-696d9b87fd89780001ca2885/', tag: 'Baru' },
+    ],
+    uluwatu: [
+      { title: 'Alila Villas Uluwatu: Villa Mewah dengan Infinity Pool Terbaik Dunia', url: '/blog/2025-04-06-67f1f8fbfd89780001607840/', tag: 'Mewah' },
+      { title: 'Radisson Blu Bali Uluwatu: Hotel Bintang 5 di Atas Tebing', url: '/blog/2025-01-20-678e30cbfd89780001f72fc6/', tag: 'Bintang 5' },
+      { title: 'La Cabane Bali: Penginapan Butik Impian di Uluwatu', url: '/blog/2025-09-04-68b8d2e3fd897800017acaee/', tag: 'Butik' },
+    ],
+    nusadua: [
+      { title: 'Apurva Kempinski Bali: Resort Mewah Terbaik di Nusa Dua', url: '/blog/2024-04-22-660ff581fd89780001f31315/', tag: 'Mewah' },
+    ],
+    jimbaran: [
+      { title: '10 Hotel Pemandangan Laut di Jimbaran: Makan Malam Sunset & Infinity Pool', url: '/blog/2025-07-22-654c6271fd8978000174ff5e/', tag: 'View Laut' },
+      { title: 'Raffles Bali, Jimbaran: Salah Satu Resort Mewah Terbaik di Dunia', url: '/blog/2024-10-11-67094049fd8978000167f9f9/', tag: 'Mewah' },
+    ],
+    penida: [
+      { title: 'Panduan Akomodasi Nusa Penida: 14 Pilihan dari Mewah hingga Hemat', url: '/blog/2024-02-12-65c8e2dffd89780001346aa9/', tag: 'Panduan Lengkap' },
+    ],
+    sanur: [
+      { title: 'Panduan Wisata Keluarga di Sanur Bali: 50+ Aktivitas & Panduan Lengkap', url: '/blog/sanur-guide/', tag: 'Panduan' },
+      { title: 'Panduan Belanja di Icon Bali Mall Sanur', url: '/blog/icon-bali-shopping-mall-sanur/', tag: 'Belanja' },
+    ],
+    lembongan: [],
+    komodo: [],
+    east: [],
+  },
+  kidsAccom: [
+    { title: 'Holiday Inn Resort Bali Canggu: Hotel Keluarga Terbaik', url: '/blog/2025-10-07-68e51c8efd897800014e36a6/', tag: 'Keluarga' },
+    { title: 'Bali Safari Night Camp: Panduan Menginap Semalam Bersama Keluarga', url: '/blog/2023-07-25-64db6b8cfd897800013a9ab1/', tag: 'Safari' },
+    { title: 'Wisata Bali Bersama Anak 2026: 100+ Tempat Wisata Ramah Keluarga', url: '/blog/2023-03-05-64db6b81fd897800013a98b4/', tag: 'Panduan Lengkap' },
+  ],
+};
+
 export async function onRequestGet(context) {
   const { env, request } = context;
   const url = new URL(request.url);
@@ -160,6 +216,7 @@ export async function onRequestGet(context) {
   let kvKey, defaultData;
   if (lang === 'en') { kvKey = KV_KEY_EN; defaultData = DEFAULT_LINKS_EN; }
   else if (lang === 'zh-cn') { kvKey = KV_KEY_ZH_CN; defaultData = DEFAULT_LINKS_ZH_CN; }
+  else if (lang === 'id') { kvKey = KV_KEY_ID; defaultData = DEFAULT_LINKS_ID; }
   else { kvKey = KV_KEY; defaultData = DEFAULT_LINKS; }
 
   if (!env.RATE_LIMIT) return Response.json(defaultData, { headers: { 'Cache-Control': 'public, max-age=300' } });
@@ -178,7 +235,7 @@ export async function onRequestPost(context) {
 
   const url = new URL(request.url);
   const lang = url.searchParams.get('lang') || 'zh-tw';
-  const kvKey = lang === 'en' ? KV_KEY_EN : lang === 'zh-cn' ? KV_KEY_ZH_CN : KV_KEY;
+  const kvKey = lang === 'en' ? KV_KEY_EN : lang === 'zh-cn' ? KV_KEY_ZH_CN : lang === 'id' ? KV_KEY_ID : KV_KEY;
 
   let data;
   try {
