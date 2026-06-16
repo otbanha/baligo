@@ -2,7 +2,7 @@
 // /forum/immigration/p/[postId]/ → renders OG tags → redirects to /forum/immigration/#[postId]
 
 const SITE_TITLE    = 'Go Bali Go 峇里島旅遊攻略';
-const FORUM_OG_IMG  = 'https://images.gobaligo.id/images/2026-05/1779771138794-og.jpg';
+const FB_APP_ID     = '1994862997907037';
 const FALLBACK_DESC = '看看別人是怎麼解決的 — 峇里島簽證與入境問題互助討論區';
 
 const TOPICS = {
@@ -37,6 +37,7 @@ function buildHtml({ selfUrl, destUrl, title, description, ogImage }) {
   <meta property="og:type"         content="article" />
   <meta property="og:site_name"    content="${esc(SITE_TITLE)}" />
   <meta property="og:locale"       content="zh_TW" />
+  <meta property="fb:app_id"       content="${FB_APP_ID}" />
   <meta name="twitter:card"        content="summary_large_image" />
   <meta name="twitter:title"       content="${esc(title)}" />
   <meta name="twitter:description" content="${esc(description)}" />
@@ -67,6 +68,7 @@ export async function onRequest({ params, env, request }) {
   const origin  = new URL(request.url).origin;
   const selfUrl = `${origin}/forum/immigration/p/${postId}/`;
   const destUrl = `${origin}/forum/immigration/#${postId}`;
+  const ogImage = `${origin}/og-2026.jpg`;
 
   // Fetch post from Supabase REST API
   const supabaseUrl  = env.PUBLIC_SUPABASE_URL;
@@ -85,14 +87,13 @@ export async function onRequest({ params, env, request }) {
       const post = Array.isArray(rows) && rows[0];
 
       if (post) {
-        const topicLabel = TOPICS[post.topic] || '';
-        const title      = post.title;
-        const snippet    = (post.content || '').replace(/\s+/g, ' ').trim().slice(0, 100);
-        const desc       = snippet
+        const title   = post.title;
+        const snippet = (post.content || '').replace(/\s+/g, ' ').trim().slice(0, 100);
+        const desc    = snippet
           ? `${snippet}${post.content.length > 100 ? '⋯' : ''} — 在討論區查看完整回覆`
           : FALLBACK_DESC;
 
-        return new Response(buildHtml({ selfUrl, destUrl, title, description: desc, ogImage: FORUM_OG_IMG }), {
+        return new Response(buildHtml({ selfUrl, destUrl, title, description: desc, ogImage }), {
           headers: { 'Content-Type': 'text/html;charset=UTF-8', 'Cache-Control': 'public, max-age=300' },
         });
       }
@@ -107,7 +108,7 @@ export async function onRequest({ params, env, request }) {
     destUrl,
     title: '峇里島入境討論區',
     description: FALLBACK_DESC,
-    ogImage: FORUM_OG_IMG,
+    ogImage,
   }), {
     headers: { 'Content-Type': 'text/html;charset=UTF-8', 'Cache-Control': 'no-store' },
   });
