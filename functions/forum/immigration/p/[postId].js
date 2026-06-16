@@ -23,7 +23,6 @@ function buildHtml({ selfUrl, destUrl, title, description, ogImage }) {
 <html lang="zh-TW">
 <head>
   <meta charset="UTF-8" />
-  <meta http-equiv="refresh" content="0; url=${esc(destUrl)}" />
   <link rel="canonical" href="${esc(selfUrl)}" />
   <title>${esc(title)}</title>
   <meta property="og:url"          content="${esc(selfUrl)}" />
