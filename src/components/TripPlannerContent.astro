@@ -1078,6 +1078,7 @@ const DBD_T = ({
     learnMore: '深入攻略 →', accomSuffix: '住宿推薦 →', areaGuide: '吃喝玩樂全攻略 →',
     checkIn: '入住', ubudWarn: '烏布距離機場較遠（車程約 1.5–3 小時），請提早安排交通，避免錯過班機。',
     ubudWarnLink: '烏布機場交通攻略 →',
+    durAbout: '約', durHour: '小時',
   },
   'id': {
     title: '🗓️ Itinerary Harianmu',
@@ -1087,6 +1088,7 @@ const DBD_T = ({
     learnMore: 'Selengkapnya →', accomSuffix: 'Rekomendasi Akomodasi →', areaGuide: 'Panduan Lengkap Area →',
     checkIn: 'Check-in', ubudWarn: 'Ubud jauh dari bandara (sekitar 1,5–3 jam perjalanan), harap pesan transportasi lebih awal agar tidak ketinggalan penerbangan.',
     ubudWarnLink: 'Tips Transportasi Ubud–Bandara →',
+    durAbout: 'sekitar', durHour: 'jam',
   },
 })[lang] || {
   title: '🗓️ Day-by-Day Itinerary', sub: 'Daily recommendations sorted by travel time between zones.',
@@ -1094,6 +1096,7 @@ const DBD_T = ({
   freeTitle: '😌 Free Time', freeDesc: 'Rest day: beach, pool, or hotel — at your own pace',
   learnMore: 'Learn More →', accomSuffix: 'Accommodation Guide →', areaGuide: 'Area Guide →',
   checkIn: 'Check-in', ubudWarn: 'Ubud is far from the airport (1.5–3 hrs). Book transport early.', ubudWarnLink: 'Ubud Airport Transport →',
+  durAbout: '~', durHour: 'hrs',
 };
 
 // ════════════════════════════════════════════════════════════════════
@@ -2590,6 +2593,15 @@ const ACCOM_DEFAULTS = {
     penida: [
       { title: 'Panduan Akomodasi Nusa Penida: 14 Pilihan dari Mewah hingga Hemat', url: '/blog/nusa-penida-hotels-guide/', tag: 'Panduan Lengkap' },
     ],
+    sanur: [
+      { title: 'Panduan Wisata Keluarga di Sanur Bali: 50+ Aktivitas & Panduan Lengkap', url: '/blog/sanur-guide/', tag: 'Panduan' },
+      { title: 'Panduan Belanja di Icon Bali Mall Sanur', url: '/blog/icon-bali-shopping-mall-sanur/', tag: 'Belanja' },
+    ],
+    kuta: [
+      { title: 'Panduan Wisata Kuta Bali: 50 Tempat Wajib Dikunjungi & Tips', url: '/blog/kuta-guide/', tag: 'Panduan' },
+      { title: 'Panduan Lengkap Waterbom Bali Water Park', url: '/blog/waterbom-bali-water-park-guide/', tag: 'Wahana Air' },
+      { title: 'Panduan Lengkap Trans Studio Bali', url: '/blog/trans-studio-bali/', tag: 'Taman Hiburan' },
+    ],
   },
   'zh-cn': {
     seminyak: [
@@ -3162,7 +3174,7 @@ function renderDayCard(day) {
       const link = sp.blogUrl
         ? `<a class="dbd-spot-link" href="${langUrl(sp.blogUrl)}" target="_blank" rel="noopener">${DBD_T.learnMore}</a>`
         : '';
-      const dur = `<span class="dbd-dur">約 ${sp.durationHours} 小時</span>`;
+      const dur = `<span class="dbd-dur">${DBD_T.durAbout || '約'} ${sp.durationHours} ${DBD_T.durHour || '小時'}</span>`;
       return `<div class="dbd-slot"><span class="dbd-time">${t}</span>`
         + `<div class="dbd-spot"><span class="dbd-spot-name">${escHtml(sp.name)}</span>${dur}${link}</div></div>`;
     });
@@ -3221,7 +3233,7 @@ function regionSection(key) {
   const seenUrls = new Set();
   const selectedSpotItems = (state.allSpots || [])
     .filter(val => SPOT_REGION_MAP[val] === key)
-    .map(val => { const s = ALL_SPOTS_DATA[val]; if (!s || seenUrls.has(s.url)) return ''; seenUrls.add(s.url); return listItemHtml(s); })
+    .map(val => { const s = (lang === 'id' ? ALL_SPOTS_DATA_ID[val] : null) || ALL_SPOTS_DATA[val]; if (!s || seenUrls.has(s.url)) return ''; seenUrls.add(s.url); return listItemHtml(s); })
     .filter(Boolean).join('');
   const spotBlock = selectedSpotItems
     ? `<div class="region-selected-spots"><div class="region-spots-label">${LS.secSpots || '📍 你選擇的景點'}</div><div class="article-list">${selectedSpotItems}</div></div>`
@@ -3359,6 +3371,122 @@ const ALL_SPOTS_DATA = {
   rafting:     { title: '【峇里島泛舟 FAQ】不會游泳也能玩？年齡限制與安全須知', url: '/blog/bali-rafting-ayung-telaga-waja/', tag: '泛舟' },
   atv:         { title: '峇里島 ATV 四輪越野車探險：感受熱帶天堂的刺激與自由', url: '/blog/bali-atv-adventure-guide/', tag: 'ATV' },
   volcano:     { title: '峇里島金塔馬尼巴杜爾火山湖｜日出登山 × 皇家遊船全攻略', url: '/blog/batur-lake-volcano-guide/', tag: '火山' },
+};
+
+// ── All Spots Data (Indonesian) ───────────────────────────────────────
+const ALL_SPOTS_DATA_ID = {
+  // Ubud
+  u_palace:    { title: 'Panduan Lengkap Puri Ubud (Puri Saren)', url: '/id/blog/ubud-royal-palace-tour-guide/', tag: 'Budaya' },
+  u_market:    { title: 'Panduan Belanja di Pasar Tradisional Ubud', url: '/id/blog/ubud-art-markets-guide/', tag: 'Pasar' },
+  u_tirta:     { title: 'Panduan Mandi Suci Pura Tirta Empul', url: '/id/blog/tirta-empul-temple-guide/', tag: 'Pura' },
+  u_monkey:    { title: 'Panduan Lengkap Sacred Monkey Forest Ubud', url: '/id/blog/bali-monkey-safety-tips/', tag: 'Alam' },
+  u_terraces:  { title: 'Panduan Wisata Sawah Terasering Ubud', url: '/id/blog/bali-rice-terraces-comparison/', tag: 'Pemandangan' },
+  u_skywalk:   { title: 'Panduan Campuhan Ridge Walk — Sky Walk Ubud', url: '/id/blog/ubud-campuhan-ridge-walk/', tag: 'Foto' },
+  u_coffee:    { title: 'Pengalaman Kopi Gunung Berapi: Panduan Kebun Kopi Bali', url: '/id/blog/batur-lake-volcano-guide/', tag: 'Kopi' },
+  u_zoo:       { title: 'Panduan Lengkap Bali Wildlife Park (Safari Malam)', url: '/id/blog/bali-safari-night-experience/', tag: 'Kebun Binatang' },
+  u_waterfall: { title: 'Panduan Air Terjun Ubud: Tiga Air Terjun Terkenal', url: '/id/blog/ubud-waterfalls-guide/', tag: 'Air Terjun' },
+  u_fairy:     { title: 'Panduan Foto Instagramable: Alas Harum Fairy Garden', url: '/id/blog/taman-dedari-ubud-food-scenery/', tag: 'Foto Hits' },
+  u_junglepool:{ title: 'Rekomendasi Jungle Pool Club Ubud', url: '/id/blog/wanna-jungle-pool-club-ubud/', tag: 'Kolam Renang' },
+  u_jeep:      { title: 'Panduan Jeep Adventure Sunrise Gunung Berapi', url: '/id/blog/batur-volcano-jeep-sunrise-tour/', tag: 'Petualangan' },
+  u_sunsetjeep:{ title: 'Panduan Jeep Adventure Sunset Gunung Berapi', url: '/id/blog/batur-volcano-sunset-jeep-tour/', tag: 'Petualangan' },
+  u_singing:   { title: 'Pengalaman Penyembuhan Suara Singing Bowl di Ubud', url: '/id/blog/ubud-sound-healing/', tag: 'Spiritual' },
+  u_swing:     { title: 'Jungle Swing Ubud: Panduan Lengkap Foto di Ketinggian', url: '/id/blog/ubud-jungle-swings-photo-guide/', tag: 'Foto' },
+  u_mario:     { title: 'Panduan Jungle Kart Racing Ubud', url: '/id/blog/ubud-jungle-cart-adventure/', tag: 'Hiburan' },
+  u_food:      { title: 'Panduan Kuliner Ubud: Rekomendasi Restoran Terbaik', url: '/id/blog/ubud-food-guide/', tag: 'Kuliner' },
+  u_spa:       { title: 'Rekomendasi Spa & Pijat Ubud: Panduan per Area', url: '/id/blog/spa/', tag: 'Spa' },
+  u_penglipuran:{ title: 'Desa Penglipuran: Menjelajahi Pesona Bali Kuno', url: '/id/blog/penglipuran-village-bali-experience/', tag: 'Desa' },
+  u_farmhouse: { title: 'Panduan Bali Farm House: Wisata Keluarga', url: '/id/blog/Bali-Farm-House/', tag: 'Pertanian' },
+  u_cave_rafting:{ title: 'Panduan Lengkap Cave River Tubing Bali', url: '/id/blog/nukuwera-river-tubing-adventure/', tag: 'Arung Jeram' },
+  u_bird_park:  { title: 'Panduan Lengkap Bali Bird Park', url: '/id/blog/bali-bird-park-guide/', tag: 'Satwa' },
+  u_reptile_park:{ title: 'Panduan Lengkap Bali Reptile Park', url: '/id/blog/Bali-Reptile-Park/', tag: 'Satwa' },
+  // Kuta
+  k_surf:      { title: 'Panduan Olahraga Air Bali: 15 Aktivitas Surfing Wajib Dicoba', url: '/id/blog/2026-bali-water-activities/', tag: 'Surfing' },
+  k_waterbom:  { title: 'Panduan Lengkap Waterbom Bali Water Park', url: '/id/blog/waterbom-bali-water-park-guide/', tag: 'Wahana Air' },
+  k_beachwalk: { title: 'Beachwalk Shopping Center: Pusat Perbelanjaan Kuta', url: 'https://youtu.be/IReL1ztxL7c', tag: 'Belanja' },
+  k_turtle:    { title: 'Panduan Lengkap Konservasi Penyu Bali', url: '/id/blog/bali-turtle-watching-guide/', tag: 'Penyu' },
+  k_beerbus:   { title: 'Kuta Beer Bus: Pengalaman Malam Paling Unik di Bali', url: '/id/blog/kuta-beer-on-wheels-bali/', tag: 'Malam Hari' },
+  k_food:      { title: 'Panduan Kuliner Kuta: Rekomendasi Restoran & Jajanan Lokal', url: '/id/blog/kuta-best-food-guide/', tag: 'Kuliner' },
+  k_spa:       { title: 'Rekomendasi Spa & Pijat Bali per Area', url: '/id/blog/spa/', tag: 'Spa' },
+  k_trans:     { title: 'Panduan Lengkap Trans Studio Bali', url: '/id/blog/trans-studio-bali/', tag: 'Taman Hiburan' },
+  k_vr:        { title: 'Panduan Zone Out VR Arcade Bali', url: '/id/blog/zone-out-bali-vr-adventure/', tag: 'VR' },
+  k_azul:      { title: 'Panduan Afternoon Tea Azul Beach Club Kuta', url: '/blog/kuta-guide/#azul-beach-club%E4%B8%8B%E5%8D%88%E8%8C%B6-%E5%9C%B0%E5%9C%96%E5%BA%AB%E5%A1%94%E6%B4%BB%E5%8B%95', tag: 'Afternoon Tea' },
+  // Seminyak
+  se_daytour:  { title: 'Panduan Lengkap Day Tour Seminyak', url: '/id/blog/seminyak-day-trip-guide/', tag: 'Day Tour' },
+  se_surf:     { title: 'Panduan Surfing Bali: Pantai untuk Semua Level', url: '/id/blog/bali-surf-beaches-guide/', tag: 'Surfing' },
+  se_food:     { title: 'Panduan Kuliner Seminyak: Rekomendasi Restoran Terbaik', url: '/id/blog/seminyak-restaurants-food-guide/', tag: 'Kuliner' },
+  se_club:     { title: '5 Nightclub Terbaik Seminyak: Pilihan Nightlife Bali', url: '/id/blog/seminyak-nightclubs-guide/', tag: 'Nightlife' },
+  se_spa:      { title: 'Rekomendasi Spa & Pijat Bali per Area', url: '/id/blog/spa/', tag: 'Spa' },
+  se_sugarsand:{ title: 'Pengalaman SugarSand Pool Restaurant (Klook)', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=1304016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F61915-sugarsand-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3Db65c22b4b4', tag: 'Kolam Renang' },
+  se_shooter:  { title: 'Panduan Shooter Bali: Seru Bareng Keluarga', url: '/id/blog/seminyak-guide/#shooter-bali', tag: 'Keluarga' },
+  se_mookiland:{ title: 'Panduan Mookiland Park Bali: Taman Keluarga', url: '/id/blog/mookiland-park-bali-family/', tag: 'Keluarga' },
+  se_horse:    { title: 'Berkuda di Pantai Seminyak (Klook)', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=1304016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F110050-beach-horse-riding-experience-seminyak-beach-bali%2F%3FclickId%3Dc5c582e18b%26spm%3DSearchResult.SearchResult_LIST%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnetwork%26utm_campaign%3D13694%26utm_term%3D654252%26utm_content%3D', tag: 'Aktivitas' },
+  se_eatstreet:{ title: 'Panduan Seminyak Eat Street', url: '/id/blog/seminyak-eat-street-guide/', tag: 'Kuliner' },
+  // Canggu
+  cg_tanah:    { title: 'Panduan Pura Tanah Lot', url: '/id/blog/bali-tanah-lot-guide/', tag: 'Wisata' },
+  cg_labrisa:  { title: 'Panduan Lengkap La Brisa: Restoran Terindah di Bali', url: '/id/blog/canggu-la-brisa-restaurant-guide/', tag: 'Restoran' },
+  cg_horse:    { title: 'Berkuda di Pantai Bali (Klook)', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=772665&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D509d71363f', tag: 'Aktivitas' },
+  cg_nuanu:    { title: 'Panduan Nuanu Creative City: Kota Seni Kreatif Bali', url: '/id/blog/nuanu-creative-city-luna-guide/', tag: 'Seni' },
+  cg_surf:     { title: 'Panduan Surfing Bali: Pantai untuk Semua Level', url: '/id/blog/bali-surf-beaches-guide/', tag: 'Surfing' },
+  cg_spa:      { title: 'Rekomendasi Spa & Pijat Bali per Area', url: '/id/blog/spa/', tag: 'Spa' },
+  cg_beachclub:{ title: 'Panduan Beach Club Canggu: Nikmati Seharian di Pantai', url: '/id/blog/canggu-guide/', tag: 'Beach Club' },
+  cg_market:   { title: 'Peta Belanja Canggu: Panduan Belanja & Pasar Akhir Pekan', url: '/id/blog/canggu-guide/', tag: 'Belanja' },
+  cg_atv:      { title: 'Pengalaman ATV di Pantai Canggu (Klook)', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=1304016&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94062-atv-ride-experience-on-beach-bali-tabanan-bali-indonesia%2F%3FclickId%3D7d8ce84cbf%26spm%3DSearchResult.SearchResult_LIST%26utm_medium%3Daffiliate-alwayson%26utm_source%3Dnetwork%26utm_campaign%3D13694%26utm_term%3D654252%26utm_content%3D', tag: 'ATV' },
+  cg_wheel:    { title: 'Panduan The Wheel Ferris Wheel Canggu', url: '/id/blog/canggu-guide/', tag: 'Kincir Ria' },
+  cg_kids:     { title: 'Panduan Taman Bermain Anak di Canggu', url: '/id/blog/canggu-guide/', tag: 'Keluarga' },
+  cg_food:     { title: 'Rekomendasi Kafe & Kuliner Canggu', url: '/id/blog/canggu-guide/', tag: 'Kuliner' },
+  cg_spa2:     { title: 'Panduan Spa & Pijat di Canggu', url: '/id/blog/canggu-guide/', tag: 'Spa' },
+  cg_puppyyoga:{ title: 'Panduan Puppy Yoga di Bali', url: '/id/blog/Puppy-Yoga-Bali/', tag: 'Puppy Yoga' },
+  // Jimbaran
+  ji_gwk:      { title: 'Panduan Lengkap GWK Cultural Park', url: '/id/blog/gwk-cultural-park-bali/', tag: 'Budaya' },
+  ji_rockbar:  { title: 'Panduan Reservasi Rock Bar AYANA Bali', url: '/id/blog/bali-rock-bar-reservation-guide/', tag: 'Rock Bar' },
+  ji_seafood:  { title: 'Rekomendasi Seafood Jimbaran: Makan Malam Sunset di Pantai', url: '/id/blog/jimbaran-seafood-restaurants-list/', tag: 'Seafood' },
+  ji_shopping: { title: 'Panduan Belanja di Jimbaran', url: 'https://youtu.be/RodQvCZKwD0', tag: 'Belanja' },
+  ji_annspa:   { title: 'Ann SPA Jimbaran: Ulasan Bintang 5', url: '/id/blog/ann-spa-jimbaran/', tag: 'Spa' },
+  ji_spa:      { title: 'Rekomendasi Spa & Pijat Bali per Area', url: '/id/blog/spa/', tag: 'Spa' },
+  ji_samasta:  { title: 'Panduan Belanja & Kuliner Samasta Jimbaran', url: '/id/blog/jimbaran-guide/', tag: 'Belanja' },
+  ji_gokart:   { title: 'Pengalaman Go Kart Racing di Jimbaran', url: '/id/blog/jimbaran-guide/', tag: 'Go Kart' },
+  ji_beachclub:{ title: 'Panduan Beach Club Jimbaran: Habiskan Hari di Pantai', url: '/id/blog/jimbaran-guide/', tag: 'Beach Club' },
+  ji_camel:    { title: 'Naik Unta di Pantai Jimbaran: Nikmati Pemandangan Laut', url: '/id/blog/jimbaran-guide/', tag: 'Naik Unta' },
+  ji_hightea:  { title: 'Afternoon Tea & Makan Malam Bintang 5 di Jimbaran', url: '/id/blog/jimbaran-guide/', tag: 'Afternoon Tea' },
+  // Uluwatu
+  ul_temple:   { title: 'Panduan Lengkap Pura Uluwatu: Tiket, Jam & Tips', url: '/id/blog/uluwatu-temple-travel-guide/', tag: 'Pura' },
+  ul_kecak:    { title: 'Kecak Fire Dance: Pertunjukan Wajib Tonton di Bali', url: '/id/blog/kecak-fire-dance-bali/', tag: 'Tari Api' },
+  ul_oneeighty:{ title: 'Panduan Oneeighty° Infinity Pool di Tebing', url: '/id/blog/oneeighty-dayclub-uluwatu-pool/', tag: 'Kolam Renang' },
+  ul_highway:  { title: 'Panduan Berkendara di Jalan Tebing Uluwatu', url: '/id/blog/batu-barak-cliff-road/', tag: 'Bersepeda' },
+  ul_beach:    { title: 'Panduan 6 Pantai Tersembunyi di Bali', url: '/id/blog/bali-hidden-beaches-guide/', tag: 'Pantai Tersembunyi' },
+  ul_paraglide:{ title: 'Panduan Paralayang di Bali', url: '/id/blog/uluwatu-paragliding-ocean-view/', tag: 'Paralayang' },
+  ul_vw:       { title: 'Tour VW Safari Uluwatu Bali (Klook)', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74691-vw-safari-tour-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25ba5059df', tag: 'Sightseeing' },
+  ul_surf:     { title: 'Les Surfing Uluwatu: Kelas Pemula & Menengah (Klook)', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=824613&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F105831-surfing-lesson-cakrawala-asia-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dcdd2e27de9', tag: 'Surfing' },
+  ul_spa:      { title: 'Rekomendasi Spa & Pijat Bali per Area', url: '/id/blog/spa/', tag: 'Spa' },
+  ul_beachclub:{ title: 'Panduan Beach Club Uluwatu', url: '/id/blog/uluwatu-guide/', tag: 'Beach Club' },
+  ul_food:     { title: '20 Rekomendasi Kuliner Wajib di Uluwatu', url: '/id/blog/uluwatu-guide/', tag: 'Kuliner' },
+  ul_kidsrest: { title: 'Rekomendasi Restoran Ramah Anak di Uluwatu', url: '/id/blog/uluwatu-guide/', tag: 'Keluarga' },
+  // Nusa Dua
+  nd_buffet:   { title: 'Panduan Restoran Buffet Bintang 5 Nusa Dua', url: '/id/blog/nusa-dua-guide/', tag: 'Buffet' },
+  nd_lobster:  { title: 'Panduan Mr Lobster Seafood Nusa Dua', url: '/id/blog/mr-lobster-seafood-restaurant-bali/', tag: 'Seafood' },
+  nd_bali_collection: { title: 'Panduan Belanja di Bali Collection Mall', url: 'https://youtu.be/3AqPucmnSLE?si=MMb-VYeC97q3rjMA', tag: 'Belanja' },
+  nd_watersport:{ title: 'Pusat Olahraga Air Nusa Dua: Panduan Aktivitas Populer', url: '/id/blog/tanjung-benoa-water-activities/', tag: 'Olahraga Air' },
+  nd_devdan:   { title: 'Devdan Show: Pertunjukan Seni Wajib Tonton di Bali', url: '/id/blog/devdan-show-nusa-dua/', tag: 'Pertunjukan' },
+  nd_turtle_island: { title: 'Pulau Penyu + Perahu Kaca + Mangrove Day Trip (Klook)', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=1248772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F59606-turtle-island-glass-bottom-boat-mangrove-cruise-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D7198b6daf6', tag: 'Island Hopping' },
+  nd_spa:      { title: 'Rekomendasi Spa & Pijat Bali per Area', url: '/id/blog/spa/', tag: 'Spa' },
+  nd_snorkel:  { title: 'Snorkeling Anak-Anak di Nusa Dua (Klook)', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=1248772&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F53090-snorkeling-nusa-dua-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dc77cbb5762', tag: 'Snorkeling' },
+  // Sanur
+  sa_icon:     { title: 'Panduan Belanja di Icon Bali Mall Sanur', url: '/id/blog/icon-bali-shopping-mall-sanur/', tag: 'Belanja' },
+  sa_cycling:  { title: 'Bersepeda Sunrise di Pantai Sanur (Klook)', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F72445-bali-sanur-beach-sunrise-half-day-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfa9dd7db84', tag: 'Bersepeda' },
+  sa_turtle:   { title: 'Panduan Lengkap Konservasi Penyu Bali', url: '/id/blog/bali-turtle-watching-guide/', tag: 'Penyu' },
+  sa_fishing:  { title: 'Pengalaman Memancing di Laut Bali (Klook)', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=804752&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F57653-bali-fishing-trip%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5b6b4e95f9', tag: 'Memancing' },
+  sa_aerox:    { title: 'Panduan AeroXSpace Sanur: Taman Bermain Indoor Terbesar', url: '/id/blog/aeroxspace-sanur-indoor-playground/', tag: 'Keluarga' },
+  sa_climbing: { title: "Panduan Clip'n'Climb Sanur: Panjat Tebing Indoor", url: '/id/blog/clip-n-climb-sanur-bali/', tag: 'Panjat Tebing' },
+  sa_spa:      { title: 'Rekomendasi Spa & Pijat Bali per Area', url: '/id/blog/spa/', tag: 'Spa' },
+  sa_marine:   { title: 'Panduan Bali Exotic Marine Park', url: '/id/blog/Bali-Exotic-Marine-Park/', tag: 'Taman Laut' },
+  sa_snorkel:  { title: 'Snorkeling di Pantai Sanur (Klook)', url: 'https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F134495-snorkeling-experience-in-sanur-coastal%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3Dd9d7485ad9', tag: 'Snorkeling' },
+  sa_biggarden:{ title: 'Panduan Foto di Big Garden Corner Bali', url: '/id/blog/sanur-guide/', tag: 'Foto Hits' },
+  sa_food:     { title: 'Panduan Kuliner Sanur: Rekomendasi Restoran Terbaik', url: '/id/blog/sanur-guide/', tag: 'Kuliner' },
+  sa_spa2:     { title: 'Panduan Spa & Pijat di Sanur', url: '/id/blog/sanur-guide/', tag: 'Spa' },
+  // Adventure
+  rafting:     { title: 'FAQ Arung Jeram Bali: Tidak Bisa Renang Boleh? Batas Usia & Keamanan', url: '/id/blog/bali-rafting-ayung-telaga-waja/', tag: 'Arung Jeram' },
+  atv:         { title: 'ATV Quad Bike Bali: Petualangan Seru di Hutan Tropis', url: '/id/blog/bali-atv-adventure-guide/', tag: 'ATV' },
+  volcano:     { title: 'Danau & Gunung Batur: Mendaki Sunrise & Royal Cruise', url: '/id/blog/batur-lake-volcano-guide/', tag: 'Gunung Berapi' },
 };
 
 // ── Spot Preview Images ───────────────────────────────────────────────
@@ -3531,7 +3659,7 @@ function buildAccomSection(areas) {
 
   // 親子住宿 block at top when family companion selected
   if (isFamily && KIDS_ACCOM.length > 0) {
-    const kidsTitle = LS.secKidsAccom || '👶 親子住宿推薦';
+    const kidsTitle = LS.secKidsAccom || '👶 Penginapan Ramah Anak';
     sections.push(`<div class="results-section highlight"><h3 class="section-title">${kidsTitle}</h3><div class="article-grid">${KIDS_ACCOM.slice(0, 4).map(cardHtml).join('')}</div></div>`);
   }
 
@@ -3544,12 +3672,12 @@ function buildAccomSection(areas) {
     const region = REGIONS[key];
     const emoji = region ? region.emoji + ' ' : '';
     const name = regionNames[key] || (region ? region.name : key);
-    const suffix = lang === 'en' ? ' Stays' : '住宿';
+    const suffix = lang === 'en' ? ' Stays' : lang === 'id' ? ' Penginapan' : '住宿';
     regionRows.push(`<h4 class="accom-region-title">${emoji}${name}${suffix}</h4><div class="article-grid">${list.slice(0, 4).map(cardHtml).join('')}</div>`);
   });
 
   if (regionRows.length > 0) {
-    const title = LS.secAccom || '🏨 住宿推薦';
+    const title = LS.secAccom || '🏨 Rekomendasi Akomodasi';
     sections.push(`<div class="results-section highlight"><h3 class="section-title">${title}</h3>${regionRows.join('')}</div>`);
   }
 
