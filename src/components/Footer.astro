@@ -6,13 +6,15 @@ const today = new Date();
 
 const blogBase = lang === 'en' ? '/en/blog' :
                  lang === 'zh-cn' ? '/zh-cn/blog' :
-                 lang === 'zh-hk' ? '/zh-hk/blog' : '/blog';
+                 lang === 'zh-hk' ? '/zh-hk/blog' :
+                 lang === 'id' ? '/id/blog' : '/blog';
 
 // 回首頁連結：未帶 lang（如 /share/）時，補上 ?lang=tw 讓 blog/index.astro
 // 直接停在繁中並寫入 cookie，避免依 navigator.languages 誤判跳到英文版
 const homeUrl = lang === 'en' ? '/en/blog/' :
                 lang === 'zh-cn' ? '/zh-cn/blog/' :
-                lang === 'zh-hk' ? '/zh-hk/blog/' : '/blog/?lang=tw';
+                lang === 'zh-hk' ? '/zh-hk/blog/' :
+                lang === 'id' ? '/id/blog/' : '/blog/?lang=tw';
 
 const CAT_EN: Record<string, string> = {
   '新手指南': "Beginner's Guide",
@@ -46,19 +48,37 @@ const getCatName = (slug: string) =>
 
 const tagline = lang === 'en' ? 'Bali Travel Guide · Your Smart Bali Guide' :
                 lang === 'zh-cn' ? '峇里岛旅游攻略 · 自由行达人指南' :
+                lang === 'id' ? 'Panduan Wisata Bali · Teman Perjalananmu ke Bali' :
                 '峇里島旅遊攻略 · 自由行達人指南';
 
 const catTitle = lang === 'en' ? 'Categories' :
-                 lang === 'zh-cn' ? '文章分类' : '文章分類';
+                 lang === 'zh-cn' ? '文章分类' :
+                 lang === 'id' ? 'Kategori' : '文章分類';
 
 const socialTitle = lang === 'en' ? 'Follow Us' :
-                    lang === 'zh-cn' ? '追踪我们' : '追蹤我們';
+                    lang === 'zh-cn' ? '追踪我们' :
+                    lang === 'id' ? 'Ikuti Kami' : '追蹤我們';
 
 const disclaimer = lang === 'en'
   ? 'Content is for reference only. Travel information may change; please verify before departure. Some links are affiliate links — booking through them helps support this site at no extra cost to you. Thank you!'
   : lang === 'zh-cn'
   ? '本网站内容仅供参考，旅游资讯可能随时变动，出发前请自行确认最新资讯。本站部分链接为联盟营销合作。透过本站链接预订，我们将获得微薄分润以维持运作，感谢您的支持与赞助！'
+  : lang === 'id'
+  ? 'Konten hanya untuk referensi. Informasi perjalanan dapat berubah; harap konfirmasi sebelum berangkat. Beberapa tautan adalah tautan afiliasi — pemesanan melalui tautan tersebut membantu mendukung situs ini tanpa biaya tambahan. Terima kasih!'
   : '本網站內容僅供參考，旅遊資訊可能隨時變動，出發前請自行確認最新資訊。本站部分連結為聯盟行銷合作。透過本站連結預訂，我們將獲得微薄分潤以維持運作，感謝您的支持與贊助！';
+
+const fireBannerText = lang === 'en' ? '🔥 Hot Bali Deals · Best Prices of 2026' :
+                       lang === 'zh-cn' ? '🔥 峇里岛限时优惠中・2026 限定好价' :
+                       lang === 'id' ? '🔥 Promo Bali Panas · Harga Terbaik 2026' :
+                       '🔥 峇里島火熱優惠中・2026 限定好價';
+const fireBannerCta = lang === 'en' ? 'Book Now →' :
+                      lang === 'zh-cn' ? '立即抢订 →' :
+                      lang === 'id' ? 'Pesan Sekarang →' :
+                      '立即搶訂 →';
+const fireBannerUrl = lang === 'en' ? '/en/tickets/' :
+                      lang === 'zh-cn' ? '/zh-cn/tickets/' :
+                      lang === 'id' ? '/id/tickets/' :
+                      '/tickets/';
 ---
 
 <footer>
@@ -98,8 +118,8 @@ const disclaimer = lang === 'en'
 
   <!-- 2026 流年火旺促銷區塊（2026 全年顯示） -->
   <div class="fire-banner">
-    <span class="fire-text">🔥 峇里島火熱優惠中・2026 限定好價</span>
-    <a href="https://gobaligo.id/tickets/" class="fire-cta">立即搶訂 →</a>
+    <span class="fire-text">{fireBannerText}</span>
+    <a href={fireBannerUrl} class="fire-cta">{fireBannerCta}</a>
   </div>
 
   <!-- 底部版權+免責聲明 -->
