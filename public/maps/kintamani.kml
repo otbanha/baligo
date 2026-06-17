@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+  <Document>
+    <name>巴杜爾火山/金塔瑪尼、水神廟周邊攻略 by gobaligo</name>
+    <description>峇里島旅遊攻略: https://gobaligo.id/</description>
+    <Style id="icon-1899-0288D1-normal">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>0</scale>
+      </LabelStyle>
+    </Style>
+    <Style id="icon-1899-0288D1-highlight">
+      <IconStyle>
+        <color>ffd18802</color>
+        <scale>1</scale>
+        <Icon>
+          <href>https://www.gstatic.com/mapspro/images/stock/503-wht-blank_maps.png</href>
+        </Icon>
+        <hotSpot x="32" xunits="pixels" y="64" yunits="insetPixels"/>
+      </IconStyle>
+      <LabelStyle>
+        <scale>1</scale>
+      </LabelStyle>
+    </Style>
+    <StyleMap id="icon-1899-0288D1">
+      <Pair>
+        <key>normal</key>
+        <styleUrl>#icon-1899-0288D1-normal</styleUrl>
+      </Pair>
+      <Pair>
+        <key>highlight</key>
+        <styleUrl>#icon-1899-0288D1-highlight</styleUrl>
+      </Pair>
+    </StyleMap>
+    <Folder>
+      <name>巴杜爾湖周邊：火山景觀咖啡廳</name>
+      <Placemark>
+        <name>Paperhills</name>
+        <description>詳細介紹及優惠請看：https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3432578,-8.2691285,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>el lago</name>
+        <description>詳細介紹及優惠請看：https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.342061,-8.2675075,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Montana Del Cafe</name>
+        <description>詳細介紹及優惠請看：https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3423066,-8.2678147,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>AKASA</name>
+        <description>詳細介紹及優惠請看：https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.357559,-8.279617,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kintamani Coffee - Eco Bike Coffee</name>
+        <description>詳細介紹及優惠請看：https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3436286,-8.2695116,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ritatkala Cafe</name>
+        <description>詳細介紹及優惠請看：https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3365631,-8.2564831,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name><![CDATA[la vista coffee & roastery]]></name>
+        <description>詳細介紹及優惠請看：https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3621354,-8.281084,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Mahen Cafe</name>
+        <description>詳細介紹及優惠請看：https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3621795,-8.2812623,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Himalila Cafe</name>
+        <description>詳細介紹及優惠請看：https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3425684,-8.2683305,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>The Amora Bali</name>
+        <description>詳細介紹及優惠請看：https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3572933,-8.2793921,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Desa Oculus</name>
+        <description>詳細介紹及優惠請看：https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3695301,-8.2797596,0
+          </coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grand Puncak Sari Restaurant</name>
+        <description>詳細介紹及優惠請看：https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3474123,-8.2728057,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>巴杜爾湖觀光游船</name>
+      <Placemark>
+        <name>Royal Songan Cruise Terminal</name>
+        <description>詳細內容請參考: https://gobaligo.id/blog/batur-lake-volcano-guide/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3988424,-8.2565478,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>巴杜爾湖山林遊樂場</name>
+      <Placemark>
+        <name>The Grand Lagunas</name>
+        <description>https://gobaligo.id/blog/batur-lake-volcano-guide/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3354755,-8.2602052,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>巴杜爾湖火山溫泉</name>
+      <Placemark>
+        <name>Toya Devasya</name>
+        <description>https://gobaligo.id/blog/batur-lake-volcano-guide/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.400701,-8.2505497,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>巴杜爾湖的水神廟</name>
+      <Placemark>
+        <name>Pura Segara Ulun Danu Batur</name>
+        <description>https://gobaligo.id/blog/batur-lake-volcano-guide/</description>
+        <styleUrl>#icon-1899-0288D1</styleUrl>
+        <Point>
+          <coordinates>
+            115.3862172,-8.2691059,0
+          </coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+  </Document>
+</kml>
