@@ -160,10 +160,11 @@ export function remarkBlocks(embedMap = {}) {
         const fbUrl = encodeURIComponent(url);
         return '<div class="video-embed video-embed--fb"><iframe src="https://www.facebook.com/plugins/video.php?href=' + fbUrl + '&show_text=0&width=560&mute=0" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen loading="lazy"></iframe></div>';
       }
-      const thMatch = url.match(/threads\.(?:net|com)\/@[^/]+\/post\/([A-Za-z0-9_-]+)/);
+      const thMatch = url.match(/(https?:\/\/(?:www\.)?threads\.(?:net|com)\/@[^/?]+\/post\/[A-Za-z0-9_-]+)/);
       if (thMatch) {
+        const thCleanUrl = thMatch[1];
         const s = '<' + 'script'; const e = '</' + 'script>';
-        return '<div class="video-embed video-embed--th"><blockquote class="text-post-media" data-text-post-permalink="' + url + '" style="width:100%;margin:0;"><a href="' + url + '"></a></blockquote>' + s + ' async src="https://www.threads.net/embed.js">' + e + '</div>';
+        return '<div class="video-embed video-embed--th"><blockquote class="text-post-media" data-text-post-permalink="' + thCleanUrl + '" style="width:100%;margin:0;"><a href="' + url + '"></a></blockquote>' + s + ' async src="https://www.threads.net/embed.js">' + e + '</div>';
       }
       return null;
     }
