@@ -170,6 +170,18 @@ export const mapBlogMapping: Record<string, MapBlogLink> = {
     },
   },
 
+  "kintamani": {
+    blogUrl: "https://gobaligo.id/blog/kintamani-volcano-cafes-restaurants/",
+    altBlogUrls: ["https://gobaligo.id/blog/batur-lake-volcano-guide/"],
+    blogTitle: "金塔瑪尼/巴杜爾火山景觀咖啡廳推薦",
+    teaser: "雲海景觀咖啡廳、火山湖遊船與水神廟，高原一日遊全攻略",
+    anchors: {
+      full: "金塔瑪尼巴杜爾火山景點完整攻略",
+      verb: "閱讀金塔瑪尼旅遊指南",
+      keyword: "巴杜爾火山自由行攻略",
+    },
+  },
+
   "denpasar": {
     blogUrl: "https://gobaligo.id/blog/denpasar-culture-guide/",
     altBlogUrls: ["https://gobaligo.id/blog/bali-local-badung-market/"],
