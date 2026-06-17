@@ -226,6 +226,7 @@ export const maps: MapArea[] = [
     zoom: 13,
     kml: "/maps/kintamani.kml",
     emoji: "🌋",
+    isThematic: true,
     myMapsId: "1hctUDgfNUkL6SpKwOhnZDO_4Cv91g6A",
     relatedMaps: ["ubud"],
   },
