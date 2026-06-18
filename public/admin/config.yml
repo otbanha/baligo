@@ -29,7 +29,6 @@ collections:
         widget: datetime
         date_format: "yyyy-MM-dd"
         time_format: false
-        format: "yyyy-MM-dd"
       - label: 發佈時間（整點）
         name: pubHour
         widget: number
