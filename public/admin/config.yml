@@ -27,8 +27,9 @@ collections:
       - label: 發佈日期
         name: pubDate
         widget: datetime
-        date_format: "yyyy-MM-dd"
+        date_format: "YYYY-MM-DD"
         time_format: false
+        format: "YYYY-MM-DD"
       - label: 發佈時間（整點）
         name: pubHour
         widget: number
@@ -102,9 +103,9 @@ collections:
         name: expiresAt
         widget: datetime
         required: false
-        date_format: "yyyy-MM-dd"
+        date_format: "YYYY-MM-DD"
         time_format: false
-        format: "yyyy-MM-dd"
+        format: "YYYY-MM-DD"
         hint: "留空表示長期有效"
 
   - name: blocks
