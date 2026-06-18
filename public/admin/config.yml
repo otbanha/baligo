@@ -27,9 +27,9 @@ collections:
       - label: 發佈日期
         name: pubDate
         widget: datetime
-        date_format: "YYYY-MM-DD"
+        date_format: "yyyy-MM-dd"
         time_format: false
-        format: "YYYY-MM-DD"
+        format: "yyyy-MM-dd"
       - label: 發佈時間（整點）
         name: pubHour
         widget: number
@@ -103,10 +103,9 @@ collections:
         name: expiresAt
         widget: datetime
         required: false
-        date_format: "YYYY-MM-DD"
+        date_format: "yyyy-MM-dd"
         time_format: false
-        format: "YYYY-MM-DD"
-        picker_utc: true
+        format: "yyyy-MM-dd"
         hint: "留空表示長期有效"
 
   - name: blocks
@@ -178,6 +177,29 @@ collections:
         required: false
         hint: "只有乱数类型才需要填，例如从20个项目中随机显示5个"
       - { label: 内容, name: body, widget: markdown }
+
+  - name: blocks-id
+    label: 內容區塊（Bahasa Indonesia）
+    folder: src/content/blocks/id
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: Nama Blok, name: title, widget: string }
+      - label: Jenis Blok
+        name: type
+        widget: select
+        options:
+          - { label: Konten Biasa, value: normal }
+          - { label: Grid Kartu (Acak), value: random-cards }
+          - { label: Daftar Teks (Acak), value: random-list }
+        default: normal
+      - label: Jumlah Tampil Acak
+        name: randomCount
+        widget: number
+        default: 5
+        required: false
+        hint: "Hanya untuk jenis acak, mis. tampilkan 5 dari 20 item"
+      - { label: Konten, name: body, widget: markdown }
 
   - name: tickets
     label: 🎟️ 景點門票
