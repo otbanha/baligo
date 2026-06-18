@@ -196,6 +196,8 @@ jobs:
           else
             COUNT=$(git diff --cached --name-only | wc -l)
             git commit -m "chore: 自動翻譯 ${COUNT} 篇文章"
+            git stash
             git pull --rebase origin main
+            git stash pop || true
             git push
           fi
