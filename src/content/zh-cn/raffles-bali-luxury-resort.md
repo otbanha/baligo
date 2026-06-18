@@ -96,7 +96,7 @@ Raffles Bali
 
 Potato Head Suites & Studios
 
-> ▶Potato Head Suites & Studios [查看预定日期的Agoda优惠房价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
+> ▶Potato Head Suites & Studios [查看预定日期的Agoda优惠房价](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
 
 > [【水明漾酒店推荐】Potato Head Suites & Studios住宿体验分享](/blog/potato-head-suites-seminyak-review/)
 

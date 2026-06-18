@@ -197,7 +197,7 @@ The resort offers a rich array of dining options, including unlimited pizza, mus
 
 The luxurious experience of The Udaya Resort and Spa awaits your discovery!
 
-> Check availability/pricing ▶ [Agoda Booking](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=1636392)
+> Check availability/pricing ▶ [Agoda Booking](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1636392)
 
 ## Bali's Artistic Haven: TANAH MERAH ART RESORT
 
@@ -225,7 +225,7 @@ The resort features two pools, with the main pool being one of the largest in Ub
 
 One of the most popular experiences is dining on a private boat in the center of the lagoon, surrounded by colorful koi fish. A six-course dinner accompanied by champagne makes your romantic journey even more unforgettable.
 
-> Find Rooms/Rates ▶ [Agoda Booking](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=48711)
+> Find Rooms/Rates ▶ [Agoda Booking](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=48711)
 
 ## Secluded Luxury Jungle Oasis: Viceroy Bali
 
@@ -589,7 +589,7 @@ Nestled in Bali's artistic and cultural capital of Ubud, the resort is surrounde
 - "Morning yoga sessions with sunrise over rice fields became my daily highlight"
 - "The space and privacy of the two-bedroom villa allowed three generations of our family to relax comfortably"
 
-> ▶ [The Garcia Ubud Room Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=10934083)
+> ▶ [The Garcia Ubud Room Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10934083)
 
 ## Marriott's Newest Addition: Hiliwatu, Bali Ubud (2026)
 

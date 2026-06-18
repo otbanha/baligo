@@ -76,7 +76,7 @@ It's important to note that **La Cabane is extremely popular and difficult to bo
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9a7fad39fd768dd0fe98ce735fb73a22.jpg)
 
-[**▶Check La Cabane Availability and Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=822795)
+[**▶Check La Cabane Availability and Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=822795)
 
 ***
 
@@ -110,7 +110,7 @@ La Cabane Bali is a place where you can truly "slow down." With thoughtfully des
 
 ✨ If you're looking for a romantic and unique stay in Bali, La Cabane Bali will be an unforgettable choice. But remember, it's extremely popular—**book early**!
 
-> [**▶Check La Cabane Availability & Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=822795)
+> [**▶Check La Cabane Availability & Rates**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=822795)
 
 
 ## Booking Tips

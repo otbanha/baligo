@@ -97,7 +97,7 @@ Ada juga yang bilang meskipun di pinggir jalan utama, malam hari tetap tenang. I
 
 Intinya, Belajar Bali Boutique Hotel & Retreat adalah hotel butik kecil yang elegan, pelayanannya oke, dan lokasinya strategis. Cocok banget buat kamu yang cari penginapan berkualitas, atau pasangan/rombongan kecil. Kalau nanti kamu cari tempat nginep di Canggu dan suka suasana 'tenang tapi berkelas', wajib masukin ke list-mu!
 
-> ▶[**Cek Ketersediaan Kamar & Harga Belajar Bali Boutique Hotel and Retreat**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=49488356) [Booking](https://booking.tpm.li/SvuReSuQ)
+> ▶[**Cek Ketersediaan Kamar & Harga Belajar Bali Boutique Hotel and Retreat**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=49488356) [Booking](https://booking.tpm.li/SvuReSuQ)
 
 ***
 

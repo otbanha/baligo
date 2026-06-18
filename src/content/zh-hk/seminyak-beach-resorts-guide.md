@@ -33,7 +33,7 @@ W Bali - Seminyak
 
 首先要介紹嘅，就係新近開幕嘅W酒店水明漾。呢間酒店位於水明漾嘅黃金海岸線上，係全島唯一嘅W酒店。成間酒店以活力四射嘅浪漫風格為主調，每一間客房都非常寬敞明亮，配有巨大嘅落地窗同陽台，可以欣賞到熱帶海灘嘅無敵景觀。酒店嘅特色設施有夢幻般嘅Woo Bar夜總會、海邊嘅Wet餐廳同Spa、24小時健身房，同埋一個巨大嘅常駐DJ專用 infinity pool。此外，[AWAY Spa](https://affiliate.klook.com/redirect?aid=40584&aff_adid=756711&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F83004-away-spa-by-w-bali-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df71b796e77) 提供豪華嘅水療體驗，等您喺假期中放鬆身心。如果想要體驗峇里島最IN嘅奢華生活，W酒店一定係你嘅不二之選！
 
-> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=335055)
+> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=335055)
 
 ## Hotel Indigo Bali Seminyak Beach
 
@@ -45,7 +45,7 @@ Hotel Indigo Bali Seminyak Beach
 
 Hotel Indigo Bali Seminyak Beach 係一間設計獨特嘅酒店，融合咗當地文化元素同現代風格。呢度嘅客房充滿藝術氛圍，每個房間都有自己嘅特色。酒店嘅 Salty Beach Bar 係一個絕佳嘅地方，供應美味嘅海鮮同招牌雞尾酒，等你可以一邊欣賞日落，一邊享受美食。另外，Riverside Spa 提供各種身體療程，等你可以喺度假中保持愉快嘅身心。
 
-> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1220348) [Booking](https://booking.tpm.li/Wod9awed)
+> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348) [Booking](https://booking.tpm.li/Wod9awed)
 
 ## The Legian Seminyak Bali
 
@@ -57,7 +57,7 @@ The Legian Seminyak Bali
 
 The Legian Seminyak Bali 係一個傳統而優雅嘅度假勝地，以其令人屏息嘅濱海景觀而著名。呢度嘅客房同套房設有大型陽台，可以俯瞰蔚藍嘅印度洋。酒店嘅 The Restaurant 擁有一個出色嘅美食菜單，提供當地同國際美食。喺酒店嘅 Ocean Spa，你可以盡情享受放鬆同身體護理，令度假變得更加難忘。
 
-> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=10368) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=992056&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/D3J3VEap)
+> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=10368) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=992056&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/D3J3VEap)
 
 ## The Oberoi Beach Resort Bali
 
@@ -69,7 +69,7 @@ The Oberoi Beach Resort Bali
 
 The Oberoi Beach Resort Bali 係一個典型嘅峇里島度假村，位於水明漾海灘嘅心臟地帶。呢個奢華嘅度假勝地提供優雅嘅客房同套房，配有私人露台同花園。酒店嘅 Kayu Bar 係一個放鬆嘅地方，供應美味嘅酒類同小食，而 The Restaurant 就提供印度尼西亞同國際美食。你仲可以喺酒店嘅 Oberoi Spa 探索古老嘅峇里島療法，重拾身心健康。
 
-> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=268)
+> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=268)
 
 ## Alila Seminyak
 
@@ -79,7 +79,7 @@ Alila Seminyak
 
 第五個要推薦嘅係Alila水明漾,呢間係一間風格清新嘅設計酒店,擁有壯觀嘅海灘景觀同時尚嘅客房, 適合鍾意簡約同時尚風嘅你。酒店最大嘅特色就係佢哋嘅早餐,採用當季峇里島新鮮食材現做現擺盤,如同一場視覺與味覺嘅饗宴! 酒店嘅 [Seasalt 餐廳](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F94283-seasalt-alila-seminyak-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Da2ed312aed)提供新鮮嘅海鮮同印度尼西亞美食，係一個美味嘅用餐地點。此外，Alila Spa 提供各種放鬆療程，讓你可以喺度假中盡情寵愛自己。此外,酒店仲搭配咗一座巨大嘅海水恆溫池,可以喺欣賞海景嘅同時浸溫泉SPA,感受非常放鬆舒適。
 
-> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1061796)
+> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1061796)
 
 ## Potato Head Suites & Studios
 
@@ -93,7 +93,7 @@ Potato Head Suites & Studios 係一個擁有獨特建築風格嘅度假村，位
 
 Potato Head Suites & Studios 喺 2024 年再次入選全球前 50 家酒店名單嘅第 21 位，因為提供「對峇里島奢華住宿嘅多元化視角」而受到讚譽。
 
-> ▶[查看預定日期嘅 Agoda 優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
+> ▶[查看預定日期嘅 Agoda 優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
 
 ## Double Six Luxury Hotel Seminyak
 
@@ -105,7 +105,7 @@ Double Six Luxury
 
 Double Six Luxury Hotel Seminyak 位於水明漾著名嘅「雙六海灘」。呢度嘅客房同套房充滿風格，擁有令人驚嘆嘅海景。酒店嘅 Plantation Grill 餐廳提供頂級嘅牛排同葡萄酒，係美食愛好者嘅天堂。此外，你仲可以喺 Roof Bar 欣賞壯觀嘅日落，或者喺 Acqua Perla Spa 放鬆身心。
 
-> ▶[查看預定日期嘅 Agoda 優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=618286) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1411332&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF49m21ZtYhThNDcwsDU1MDYwMGrksZtk5nj0DBCITHDyXFNhyXb872SGAJ2LKgefT2BO9qpv1fY4EOnQxsoIFZjC2TArbyLhDrvV1oEeeww5GpgOMTCcYJ-ktYGr4dITzFAszxxOOSyxfmaKrlbJTK5WsTHSUSjJLclKVrJSeLpr3tGHP8xWtSjpKKanFyUAhICsxN780rwTINjUz0jMwAIqUJFZ4poB1JifmJJfmJJakhlQWAE0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDthihiYYk5pakQJwAtdEuF2mFYq4Pp8mdzep92z3yxaTdxLjentssNiHG5cW3sIxam6NhPLAy_WBiaWBm6WJk5TjFNApKT9HaxCjqGR_j4Ruj6GEWGB5roRukaXmC9YyClaGhgYGBkampkrmuQaJlobmxgpGtiaWJsaKprZGRmYmhkpPG5986Sp8ZG1lKQJKDAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyBCox8jSWM_EIs2s2CKv2CI3K8KDMYjNwMnFzNU5yoaLOTTYRbAQmNAWG0g7SDGHhLsorrzJvPbAhNP2WsyeLkGG9_6z5GorW9oHWnwR439vucA-EiafxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCAKkYTX0HAwAA&masterhotelid_tracelogid=100025527-0a9a7302-494315-2264122&detailFilters=17|1~17~1*31|1411332~31~1411332*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=585&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/uJDzfpEF)
+> ▶[查看預定日期嘅 Agoda 優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=618286) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1411332&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaycLFJMEkNYmF49m21ZtYhThNDcwsDU1MDYwMGrksZtk5nj0DBCITHDyXFNhyXb872SGAJ2LKgefT2BO9qpv1fY4EOnQxsoIFZjC2TArbyLhDrvV1oEeeww5GpgOMTCcYJ-ktYGr4dITzFAszxxOOSyxfmaKrlbJTK5WsTHSUSjJLclKVrJSeLpr3tGHP8xWtSjpKKanFyUAhICsxN780rwTINjUz0jMwAIqUJFZ4poB1JifmJJfmJJakhlQWAE0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDthihiYYk5pakQJwAtdEuF2mFYq4Pp8mdzep92z3yxaTdxLjentssNiHG5cW3sIxam6NhPLAy_WBiaWBm6WJk5TjFNApKT9HaxCjqGR_j4Ruj6GEWGB5roRukaXmC9YyClaGhgYGBkampkrmuQaJlobmxgpGtiaWJsaKprZGRmYmhkpPG5986Sp8ZG1lKQJKDAqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyBCox8jSWM_EIs2s2CKv2CI3K8KDMYjNwMnFzNU5yoaLOTTYRbAQmNAWG0g7SDGHhLsorrzJvPbAhNP2WsyeLkGG9_6z5GorW9oHWnwR439vucA-EiafxFqVoRsSntErXsDYwMjUxcgtwOjBGMFYAeQxrmJk52I2MDIUYNrAyLiD8T8MML5iBFkCAKkYTX0HAwAA&masterhotelid_tracelogid=100025527-0a9a7302-494315-2264122&detailFilters=17|1~17~1*31|1411332~31~1411332*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=585&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/uJDzfpEF)
 
 ## The Samaya Seminyak
 
@@ -117,7 +117,7 @@ The Samaya Seminyak
 
 酒店嘅 Breeze 餐廳提供美味嘅印尼同國際美食，而 The Spa at The Samaya Bali Seminyak 提供豪華嘅療程，等你可以喺度假中享受浪漫時光。
 
-> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=71877) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685516&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawsLFJMEk1cvC0XtkWz-bEIeFpbmFuYGBkcFsTouViY7VIuvcH0bPcfCUb30daJGz0CGAJ2LKgefT2BO9qpv1fY4EOnQxsoIFZjCeea25kZHr-uIC20-VDjsYmQ4wMp1g_BKwgKlzyhmhUyzMHB38l1i-MkVXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWlmomdgABQpSazwTAHrTE7MSS7NSSxJDaksAJpgpqOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFlfyAxhRBBTLz8yDaDVHEwhJzSlMhTgBa6JYKtcOwVgfT5c_m9D7tnvli027iXG5ObZcbEONy49rYRyxM0bGfWBh-sTA0sTJ0sTJznGKaBCS_BOxi5Q1ydTUJNNV1cjc3dza5wLovWEre0MDAwNTQ2NRU1yDR0sLc0MxU18TSxNjQVBcoZmKm0f_p_pKnxkbWUpDIV2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xShlaG5sYWhkaGhkZGRprGdikWZWbJFXbJGbFeHBGMRm7OLm4uQYZcPFHBrsIlhoC0w9BtIOUswh4S6KK28yrz0w4bS9FrOnS5Dhvf8sudrKlvaBFl_E-N9bLrCPhMknsVZl6IaEZ_SKFzA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMACCf6yvkCAAA&masterhotelid_tracelogid=100051355-0a987165-494315-35546&detailFilters=17|1~17~1*31|685516~31~685516*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1218&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/eTSXk0Ib)
+> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=71877) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685516&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawsLFJMEk1cvC0XtkWz-bEIeFpbmFuYGBkcFsTouViY7VIuvcH0bPcfCUb30daJGz0CGAJ2LKgefT2BO9qpv1fY4EOnQxsoIFZjCeea25kZHr-uIC20-VDjsYmQ4wMp1g_BKwgKlzyhmhUyzMHB38l1i-MkVXK2WnVipZmegolWSW5KQqWSk9XTTvacOe5ytalXSUUlKLk4FCQFZibn5pXgmQbWlmomdgABQpSazwTAHrTE7MSS7NSSxJDaksAJpgpqOUWexcUpRZEJSam1lSkgpUlZaYU5wKEg9KLQbKJIMFlfyAxhRBBTLz8yDaDVHEwhJzSlMhTgBa6JYKtcOwVgfT5c_m9D7tnvli027iXG5ObZcbEONy49rYRyxM0bGfWBh-sTA0sTJ0sTJznGKaBCS_BOxi5Q1ydTUJNNV1cjc3dza5wLovWEre0MDAwNTQ2NRU1yDR0sLc0MxU18TSxNjQVBcoZmKm0f_p_pKnxkbWUpDIV2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xShlaG5sYWhkaGhkZGRprGdikWZWbJFXbJGbFeHBGMRm7OLm4uQYZcPFHBrsIlhoC0w9BtIOUswh4S6KK28yrz0w4bS9FrOnS5Dhvf8sudrKlvaBFl_E-N9bLrCPhMknsVZl6IaEZ_SKFzA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMACCf6yvkCAAA&masterhotelid_tracelogid=100051355-0a987165-494315-35546&detailFilters=17|1~17~1*31|685516~31~685516*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1218&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/eTSXk0Ib)
 
 ## 同場加映：帶小朋友嘅最佳選擇 - FuramaXclusive Ocean Beach Seminyak
 
@@ -131,7 +131,7 @@ FuramaXclusive Ocean Beach Seminyak
 
 呢個度假勝地嘅游泳池好大，可以讓你盡情暢游，感受水嘅清涼同舒適。而獨具一格嘅「水上遊樂區」亦都非常值得一提！你可以喺度盡情嬉戲，享受陽光同快樂。想玩水槍？冇問題！想滑水道？都得！呢個游泳池遊樂區可謂係小朋友同大人嘅天堂！仲有一個室內嘅兒童遊樂場添！
 
-> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=108862)
+> ▶[查看預定日期嘅Agoda優惠房價](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=108862)
 
 ## iSuite by Ekosistem
 

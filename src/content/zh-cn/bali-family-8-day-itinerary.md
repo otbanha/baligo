@@ -105,7 +105,7 @@ _srcHash: 47de734467efbf45c704ab785bd56ab9
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776002660718-231354323.jpeg)
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776002661166-231354923.jpeg)
 
-▶[FOX Hotel Jimbaran Beach订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=3121957)
+▶[FOX Hotel Jimbaran Beach订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957)
 
 {{block:jim}}
 
@@ -179,7 +179,7 @@ Mei Chen提供：乌鲁瓦图寺和卡洽火舞表演
 
 晚上，我们入住Prime Plaza Hotel Sanur - Bali。这家酒店非常适合隔天要跳岛的人，步行几分钟就可以抵达沙努尔的新港口。泳池设有儿童戏水区，适合带孩子的家庭。不过，我们退房时把泳圈遗留在房间，三个小时后询问时被告知没看到，这点让我们有些失望，酒店在这方面的服务有待改进。
 
-> ▶[Prime Plaza Hotel Sanur订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1251) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=840723&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaysLFJMEk1cfC0bdr2msWIXZDUzMDQwMjg4XCFrcrHJcU2HJdly508CwE0oszSh0CeCKmHHg-jT0xYq3Pj6Vazg5djKxggRmMk1cYr2Bk3MhoDAaBDjsYmU4w7uRZwLTgwQS9UyzMHAeYLrF8ZYquVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DMQM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBTEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLKvkBjSmCCmTm50G0G6KIhSXmlKZCnAC00C0VaodhrQ6my5_N6X3aPfPFpt3Eudyc2i43IMblxrWxj1iYomM_sTD8YmFoYmXoYmXm2MQ4CUju5NnFyh_l7mwe4qEbbhbpqhula3iB9TWvlLyhgYGBqaGxqamuQaJloqlxsqGuiaWJkaWprqGpuaGpxsxTvxqfGhtZS0GiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbiZOTs5tllA0Xc2iwi2D_oa8aMfrSDlLMIeEuikEubaF7Jp6212L2dAkyvPefJVdb2dI-0OKLGP97ywX2kTD5JNaqDN2Q8Ixe8QLGBkamLkZuAUYPxgjGCiCPcRUjOxezgZGhANMGRsYdjP9hgPEVI8gSACawbt4BAwAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-15715&detailFilters=17|1~17~1*31|840723~31~840723*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1840&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KPN8NJqU)
+> ▶[Prime Plaza Hotel Sanur订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1251) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=840723&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaysLFJMEk1cfC0bdr2msWIXZDUzMDQwMjg4XCFrcrHJcU2HJdly508CwE0oszSh0CeCKmHHg-jT0xYq3Pj6Vazg5djKxggRmMk1cYr2Bk3MhoDAaBDjsYmU4w7uRZwLTgwQS9UyzMHAeYLrF8ZYquVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DMQM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBTEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLKvkBjSmCCmTm50G0G6KIhSXmlKZCnAC00C0VaodhrQ6my5_N6X3aPfPFpt3Eudyc2i43IMblxrWxj1iYomM_sTD8YmFoYmXoYmXm2MQ4CUju5NnFyh_l7mwe4qEbbhbpqhula3iB9TWvlLyhgYGBqaGxqamuQaJloqlxsqGuiaWJkaWprqGpuaGpxsxTvxqfGhtZS0GiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbiZOTs5tllA0Xc2iwi2D_oa8aMfrSDlLMIeEuikEubaF7Jp6212L2dAkyvPefJVdb2dI-0OKLGP97ywX2kTD5JNaqDN2Q8Ixe8QLGBkamLkZuAUYPxgjGCiCPcRUjOxezgZGhANMGRsYdjP9hgPEVI8gSACawbt4BAwAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-15715&detailFilters=17|1~17~1*31|840723~31~840723*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1840&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KPN8NJqU)
 
 ## 5月20日 星期一 DAY 3 蓝梦岛浮潜/沙努尔
 
@@ -234,7 +234,7 @@ https://youtu.be/SpcgZ4iK7qs
 
 今晚我们入住乌布的RV Hotel Kutus Kutus，每间房价约USD$13，不包含早餐，因为加早餐的费用比住宿费还贵，这让我们忍俊不禁。房间很新，顶楼有无边际泳池，还有儿童戏水区。唯一的缺点是房间隔音不好，但以这个价格来说，还是非常划算。浅眠的人可能需要注意这一点。
 
-> ▶[RV Hotel Kutus Kutus订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=45418503)
+> ▶[RV Hotel Kutus Kutus订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=45418503)
 
 ### 晚餐 - Pasar Senggol Gianyar夜市
 
@@ -294,7 +294,7 @@ https://youtube.com/shorts/sVxycGvyT9w
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776000719411-271570947.jpeg)
 
-> ▶[Batur view Homestay订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=8927154)
+> ▶[Batur view Homestay订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8927154)
 
 今晚我们住在Batur view Homestay，这里的房间阳台是山景第一排，景色超美。由于这是一间民宿，所以房间的设备相对基础，每间房价约USD$32。如果你对酒店设备有较高的要求，可以考虑Oculus Bali，但据说那里的阳台景观没有这么漂亮，需要到楼顶才能看到。
 
@@ -302,7 +302,7 @@ https://youtube.com/shorts/sVxycGvyT9w
 
 Oculus Bali 的 view 也不错啊！
 
-> ▶[Oculus Bali订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=34040413)
+> ▶[Oculus Bali订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34040413)
 
 ## 5月22日 星期三 DAY 5 乌布周边
 
@@ -481,7 +481,7 @@ Mei Chen提供。左：布拉坦水神庙；右：海神庙
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776001754419-e3204ec0800e916edf23f797cc303446.webp)
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776001754869-82e01e7689645bb571f09e6a15fb1bb4.jpeg)
 
-▶[Potato Head Suites & Studios订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
+▶[Potato Head Suites & Studios订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
 
 {{block:smk}}
 

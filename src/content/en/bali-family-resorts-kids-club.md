@@ -358,9 +358,9 @@ Ayana Bali features 14 swimming pools and accommodations across four price tiers
 
 Both Ayana Resort and Rimba have kids' clubs and activities, ensuring children can stay entertained all day long!
 
-> ▶[Ayana Resort Room Availability & Rates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=6504)
+> ▶[Ayana Resort Room Availability & Rates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6504)
 
-> ▶[Rimba by Ayana Room Availability & Rates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=489045)
+> ▶[Rimba by Ayana Room Availability & Rates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=489045)
 
 ### Four Seasons Resort Bali at Jimbaran Bay
 

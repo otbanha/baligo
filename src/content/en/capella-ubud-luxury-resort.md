@@ -102,7 +102,7 @@ The charm of Capella Ubud lies in its breathtaking natural scenery, unique desig
 
 🌿 Discover the hidden gem of luxury nestled in Bali's jungle, and let Capella Ubud be the starting point of your next adventure!
 
-▶[Check Capella Ubud Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1939816&hid=5347453)
+▶[Check Capella Ubud Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5347453)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0aff256da208300bcfc81788611a1174.jpg)
 

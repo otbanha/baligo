@@ -384,9 +384,9 @@ Ayana Bali punya total 14 kolam renang, dengan empat kategori harga akomodasi. U
 
 Diantaranya, Ayana Resort dan Rimba punya kids club dan aktivitas anak, jadi si kecil bisa bermain seharian penuh!
 
-> ▶[Cek Ketersediaan Kamar & Harga Ayana Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=6504)
+> ▶[Cek Ketersediaan Kamar & Harga Ayana Resort](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=6504)
 
-> ▶[Cek Ketersediaan Kamar & Harga Rimba by Ayana](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=489045)
+> ▶[Cek Ketersediaan Kamar & Harga Rimba by Ayana](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=489045)
 
 ### Four Seasons Resort Bali at Jimbaran Bay
 

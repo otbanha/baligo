@@ -140,7 +140,7 @@ Whether you're traveling with family, on a romantic getaway, or solo, the Holida
 * Airport transfer service is available upon reservation, taking approximately 45–60 minutes from Ngurah Rai International Airport (DPS)
 * Agoda usually offers the best rates for booking
 
-> **▶**[**Holiday Inn Resort Bali Canggu Rates & Availability Check**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=46874759)
+> **▶**[**Holiday Inn Resort Bali Canggu Rates & Availability Check**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=46874759)
 
 Ready for your Bali trip? This Holiday Inn might just be one of the reasons you fall in love with Canggu.
 

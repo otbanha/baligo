@@ -95,7 +95,7 @@ Modern travelers increasingly value balance and restoration of body, mind, and s
 - Crystal Meditation - Cultivating inner peace through the energy fields of crystals
 - Outdoor Yoga Classes - Practicing yoga in the embrace of nature, connecting with the universe
 
-> ▶[Check Hiliwatu, Bali Ubud Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=82114955)
+> ▶[Check Hiliwatu, Bali Ubud Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=82114955)
 
 ## Deep Cultural Experiences: More Than Just a Tourist
 
@@ -125,7 +125,7 @@ In an era where climate change and environmental protection are increasingly pri
 The opening of Hiliwatu, Bali Ubud injects new vitality into Bali's boutique hotel market. It not only offers luxurious accommodations but, more importantly, demonstrates how to pursue excellence while maintaining respect for local culture and environmental care.
 For travelers seeking to deeply explore Balinese culture, achieve mind-body balance, and still enjoy modern comforts, this is undoubtedly a perfect choice. When you stand in the 24-meter-high lobby gazing at the sky or meditate by the poolside overlooking the rice terraces, you'll discover that true luxury lies not in material accumulation but in profound connections with nature, culture, and oneself.
 
-> ▶[Check Hiliwatu, Bali Ubud Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=82114955)
+> ▶[Check Hiliwatu, Bali Ubud Rates & Availability](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=82114955)
 
 Have you been to Ubud? Are you interested in this newly opened hotel?
 

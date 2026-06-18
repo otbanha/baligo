@@ -148,7 +148,7 @@ It's also a favorite low-key getaway for stars like David Beckham and Angelina J
 * Off-season (Nov-Mar) rates can drop up to **40% off**
 * Wedding consultations require booking **6 months** in advance
 
-▶[Check Latest Rates for Alila Villas Uluwatu](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=148738)
+▶[Check Latest Rates for Alila Villas Uluwatu](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=148738)
 
 ## **Alila Villas Uluwatu** Unboxing Video
 
@@ -164,7 +164,7 @@ Although the resort doesn't have a beach, the cliffside SPA center makes up for 
 
 "Here, even the air is designed - the salinity of the sea breeze, the fragrance of essential oils, even the curvature of the staff's smiles. If Bali is the island of the gods, then Alila Uluwatu is the playground the gods gave to adults."
 
-> ▶[Check Latest Rates for Alila Villas Uluwatu](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=148738)
+> ▶[Check Latest Rates for Alila Villas Uluwatu](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=148738)
 
 ## Guest Reviews
 

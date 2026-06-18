@@ -98,7 +98,7 @@ Yang juga patut disebut, Potato Head Suites & Studios di Seminyak masuk dalam da
 
 Potato Head Suites & Studios
 
-> ▶Potato Head Suites & Studios [Cek harga diskon Agoda untuk tanggal pemesanan](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
+> ▶Potato Head Suites & Studios [Cek harga diskon Agoda untuk tanggal pemesanan](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
 
 > [【Rekomendasi Hotel Seminyak】Review Pengalaman Menginap di Potato Head Suites & Studios](/blog/potato-head-suites-seminyak-review/)
 

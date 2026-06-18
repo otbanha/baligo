@@ -85,7 +85,7 @@ The resort's seven **Grand Pool Villas**, spanning **250 square meters**, boast 
 
 ✨ **Surprise Highlight: During the off-season, rates start as low as $152 USD** for this luxurious pool villa, **including daily breakfast**, offering exceptional value. For travelers seeking a high-quality Ubud getaway on a budget, this is an irresistible deal.
 
-▶[**E Sanctuary Resort Room Rates & Availability Check**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=63295924)
+▶[**E Sanctuary Resort Room Rates & Availability Check**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=63295924)
 
 ***
 
@@ -127,7 +127,7 @@ These eclectic art shops and workshops not only showcase Ubud's artistic vibe bu
 
 While the room rates at E Sanctuary Resort aren't exorbitant, the service, facilities, and overall ambiance offer exceptional value for money.
 
-> ▶[**Check E Sanctuary Resort Rates & Availability**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=63295924)
+> ▶[**Check E Sanctuary Resort Rates & Availability**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=63295924)
 
 ***
 

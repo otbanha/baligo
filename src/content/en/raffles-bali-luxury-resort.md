@@ -96,7 +96,7 @@ Also worth mentioning is Potato Head Suites & Studios in Seminyak, which has bee
 
 Potato Head Suites & Studios
 
-> ▶Potato Head Suites & Studios [Check Agoda's Best Rates for Your Dates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
+> ▶Potato Head Suites & Studios [Check Agoda's Best Rates for Your Dates](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
 
 > [Seminyak Hotel Recommendation: Potato Head Suites & Studios Stay Experience](/blog/potato-head-suites-seminyak-review/)
 

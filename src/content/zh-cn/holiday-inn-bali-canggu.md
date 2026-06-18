@@ -135,7 +135,7 @@ _srcHash: b6d4beca1631c7ba0519cc251d2e756a
 * 机场接送服务可供预约，从伍拉莱国际机场（DPS）出发约需45–60分钟车程
 * Agoda订房通常可找到最优惠价格
 
-> **▶**[**Holiday Inn Resort Bali Canggu 房价 & 空房查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=46874759)
+> **▶**[**Holiday Inn Resort Bali Canggu 房价 & 空房查询**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=46874759)
 
 准备好你的巴厘岛之旅了吗？这家假日酒店，很可能会成为你爱上坎古的理由之一。
 

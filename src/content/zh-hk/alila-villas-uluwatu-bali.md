@@ -144,7 +144,7 @@ _srcHash: cdf4e3ced270b3511be6ba9f0ef019d4
 * 淡季（11-3月）房價最低可以 **6折**
 * 婚禮諮詢要提前 **半年** 預約
 
-▶[Alila Villas Uluwatu最新房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=148738)
+▶[Alila Villas Uluwatu最新房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=148738)
 
 ## **Alila Villas Uluwatu**開箱影片
 
@@ -160,7 +160,7 @@ _srcHash: cdf4e3ced270b3511be6ba9f0ef019d4
 
 「喺呢度，連空氣都係設計過嘅——海風嘅鹹味、精油嘅香氣，甚至服務員嘅微笑弧度。若果話峇里島係眾神嘅島嶼，Alila Uluwatu就係神送俾大人嘅遊樂場。」
 
-> ▶[Alila Villas Uluwatu最新房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=148738)
+> ▶[Alila Villas Uluwatu最新房價查詢](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=148738)
 
 ## 住客評論
 

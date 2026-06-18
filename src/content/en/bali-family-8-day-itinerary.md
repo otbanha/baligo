@@ -107,7 +107,7 @@ We stayed at FOX Hotel Jimbaran Beach, which boasts a very convenient location, 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776002660718-231354323.jpeg)
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776002661166-231354923.jpeg)
 
-▶[FOX Hotel Jimbaran Beach Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=3121957)
+▶[FOX Hotel Jimbaran Beach Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=3121957)
 
 {{block:jim}}
 
@@ -181,7 +181,7 @@ Explore South Bali in a VW convertible! Stops include Padang-Padang and Pandawa 
 
 In the evening, we checked into Prime Plaza Hotel Sanur - Bali. This hotel is perfect for those planning island hopping the next day, as it's just a short walk to Sanur's new port. The pool features a children's play area, making it ideal for families with kids. However, we were disappointed when we left our pool float in the room and were told three hours later that it couldn't be found. The hotel's service in this aspect could use some improvement.
 
-> ▶[Prime Plaza Hotel Sanur Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=1251) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=840723&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaysLFJMEk1cfC0bdr2msWIXZDUzMDQwMjg4XCFrcrHJcU2HJdly508CwE0oszSh0CeCKmHHg-jT0xYq3Pj6Vazg5djKxggRmMk1cYr2Bk3MhoDAaBDjsYmU4w7uRZwLTgwQS9UyzMHAeYLrF8ZYquVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DMQM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBTEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLKvkBjSmCCmTm50G0G6KIhSXmlKZCnAC00C0VaodhrQ6my5_N6X3aPfPFpt3Eudyc2i43IMblxrWxj1iYomM_sTD8YmFoYmXoYmXm2MQ4CUju5NnFyh_l7mwe4qEbbhbpqhula3iB9TWvlLyhgYGBqaGxqamuQaJloqlxsqGuiaWJkaWprqGpuaGpxsxTvxqfGhtZS0GiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbiZOTs5tllA0Xc2iwi2D_oa8aMfrSDlLMIeEuikEubaF7Jp6212L2dAkyvPefJVdb2dI-0OKLGP97ywX2kTD5JNaqDN2Q8Ixe8QLGBkamLkZuAUYPxgjGCiCPcRUjOxezgZGhANMGRsYdjP9hgPEVI8gSACawbt4BAwAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-15715&detailFilters=17|1~17~1*31|840723~31~840723*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1840&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KPN8NJqU)
+> ▶[Prime Plaza Hotel Sanur Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1251) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=840723&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaysLFJMEk1cfC0bdr2msWIXZDUzMDQwMjg4XCFrcrHJcU2HJdly508CwE0oszSh0CeCKmHHg-jT0xYq3Pj6Vazg5djKxggRmMk1cYr2Bk3MhoDAaBDjsYmU4w7uRZwLTgwQS9UyzMHAeYLrF8ZYquVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DMQM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBTEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLKvkBjSmCCmTm50G0G6KIhSXmlKZCnAC00C0VaodhrQ6my5_N6X3aPfPFpt3Eudyc2i43IMblxrWxj1iYomM_sTD8YmFoYmXoYmXm2MQ4CUju5NnFyh_l7mwe4qEbbhbpqhula3iB9TWvlLyhgYGBqaGxqamuQaJloqlxsqGuiaWJkaWprqGpuaGpxsxTvxqfGhtZS0GiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbiZOTs5tllA0Xc2iwi2D_oa8aMfrSDlLMIeEuikEubaF7Jp6212L2dAkyvPefJVdb2dI-0OKLGP97ywX2kTD5JNaqDN2Q8Ixe8QLGBkamLkZuAUYPxgjGCiCPcRUjOxezgZGhANMGRsYdjP9hgPEVI8gSACawbt4BAwAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-15715&detailFilters=17|1~17~1*31|840723~31~840723*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1840&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KPN8NJqU)
 
 ## Monday, May 20th DAY 3 Snorkeling at Nusa Lembongan/Sanur
 
@@ -236,7 +236,7 @@ After snorkeling, we gathered and took a Grab ride to our next accommodation.
 
 Tonight we stayed at RV Hotel Kutus Kutus in Ubud. The room rate was about USD$13, excluding breakfast, as adding breakfast would have cost more than the room itself, which amused us. The rooms were new, and the rooftop featured an infinity pool and a kids' water play area. The only downside was the poor soundproofing, but for the price, it was still a fantastic deal. Light sleepers might want to take note of this.
 
-> ▶[RV Hotel Kutus Kutus Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=45418503)
+> ▶[RV Hotel Kutus Kutus Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=45418503)
 
 ### Dinner - Pasar Senggol Gianyar Night Market
 
@@ -296,7 +296,7 @@ For dinner, we went to AKASA Specialty Coffee in Kintamani, a scenic restaurant 
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776000719411-271570947.jpeg)
 
-> ▶[Batur view Homestay Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1833304&hid=8927154)
+> ▶[Batur view Homestay Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8927154)
 
 Tonight we stayed at Batur view Homestay, where the room balconies offer front-row mountain views, and the scenery is stunning. As this is a homestay, the room facilities are relatively basic, with each room costing about USD$32. If you have higher requirements for hotel amenities, you might consider Oculus Bali, but it's said that the balcony views there aren't as beautiful, and you need to go to the rooftop to enjoy them.
 
@@ -304,7 +304,7 @@ Tonight we stayed at Batur view Homestay, where the room balconies offer front-r
 
 The view from Oculus Bali is also fantastic!
 
-> ▶[Oculus Bali Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=34040413)
+> ▶[Oculus Bali Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=34040413)
 
 ## Wednesday, May 22 DAY 5 Around Ubud
 
@@ -483,7 +483,7 @@ In the evening, we checked into Potato Head Suites & Studios, ranked 40th among 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776001754419-e3204ec0800e916edf23f797cc303446.webp)
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776001754869-82e01e7689645bb571f09e6a15fb1bb4.jpeg)
 
-▶[Potato Head Suites & Studios Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1917461&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
+▶[Potato Head Suites & Studios Booking Link](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=11295575) [Booking](https://booking.tpm.li/P2lxvZpf)
 
 {{block:smk}}
 
