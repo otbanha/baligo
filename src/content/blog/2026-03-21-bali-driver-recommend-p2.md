@@ -128,9 +128,9 @@ embeds: []
 
 ![raw-image](https://images.gobaligo.id/images/2026-06/1781330328310-_2026-06-13_12.57.02.png)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1ENRDfkjEw/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/17qogSzHU1/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1FVRdBgbNL/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1Kw5mTbHAa/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1JYmnQC1w9/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1ENRDfkjEw/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/17qogSzHU1/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1FVRdBgbNL/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1Kw5mTbHAa/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1JYmnQC1w9/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/1CwwL8mTrC/)
 
-{{block:klook}}.
+{{block:klook}}
 
 {{block:包車}}
 
