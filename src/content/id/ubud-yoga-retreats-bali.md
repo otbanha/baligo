@@ -4,12 +4,12 @@ title: >-
   Rekomendasi Penginapan Yoga di Ubud, Bali: 10 Pilihan Impian yang
   Menggabungkan Kelas Yoga dan Relaksasi Jiwa
 description: >-
-  Di Ubud, Bali—pusat spiritual yang penuh budaya—yoga bukan cuma olahraga
-  biasa, tapi sudah jadi gaya hidup. Mau kamu pemula yoga atau praktisi
-  berpengalaman, penginapan yang menggabungkan akomodasi dengan kelas yoga bakal
-  kasih kamu pengalaman menyegarkan tubuh, pikiran, dan jiwa. Nih, aku pilihkan
-  10 penginapan di Ubud yang nggak cuma nyaman, tapi juga punya kelas yoga
-  berkualitas, biar liburanmu di Bali makin berkesan.
+  Di Ubud, Bali—pusat spiritual yang penuh budaya—yoga bukan cuma olahraga, tapi
+  sudah jadi gaya hidup. Mau kamu pemula atau praktisi berpengalaman, penginapan
+  yang menggabungkan akomodasi dengan kelas yoga bakal kasih kamu pengalaman
+  menyegarkan buat tubuh, pikiran, dan jiwa. Ini dia 10 pilihan penginapan di
+  Ubud yang nggak cuma nyaman, tapi juga punya kelas yoga berkualitas, bikin
+  liburan Bali-mu makin berkesan.
 pubDate: 2024-11-26T00:00:00.000Z
 category:
   - 住宿推薦
@@ -38,12 +38,12 @@ update: 2026/05/24
 heroImage: 'https://images.gobaligo.id/vocus/vocus_e3d6b1a238b2a132511ebd9395fda710.jpg'
 originalUrl: 'https://vocus.cc/article/67451f5afd89780001f002f2'
 lang: id
-_srcHash: fb848d4b17ed0ceef140704c764cee1c
+_srcHash: 99efeca30db0391d6dce6443cd6f06b4
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_7c732b073f5ce52b19b42925c798cc9d.jpg)
 
-Di Ubud, Bali—pusat spiritual yang penuh budaya—yoga bukan cuma olahraga biasa, tapi sudah jadi gaya hidup. Mau kamu pemula yoga atau praktisi berpengalaman, penginapan yang menggabungkan akomodasi dengan kelas yoga bakal kasih kamu pengalaman menyegarkan tubuh, pikiran, dan jiwa. Nih, aku pilihkan 10 penginapan di Ubud yang nggak cuma nyaman, tapi juga punya kelas yoga berkualitas, biar liburanmu di Bali makin berkesan.
+Di Ubud, Bali—pusat spiritual yang penuh budaya—yoga bukan cuma olahraga, tapi sudah jadi gaya hidup. Mau kamu pemula atau praktisi berpengalaman, penginapan yang menggabungkan akomodasi dengan kelas yoga bakal kasih kamu pengalaman menyegarkan buat tubuh, pikiran, dan jiwa. Ini dia 10 pilihan penginapan di Ubud yang nggak cuma nyaman, tapi juga punya kelas yoga berkualitas, bikin liburan Bali-mu makin berkesan.
 
 ***
 
@@ -61,15 +61,18 @@ Resort yang terletak di lembah Tjampuhan ini memadukan alam dan kemewahan.
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774438868010-mixcollage-19-feb-2024-09-57-pm-1181.jpg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774438868492-uma-ubud-potato.jpeg)
 
-* **Keunggulan Yoga**: Setiap hari ada kelas yoga gratis yang dipandu instruktur profesional, plus ada aktivitas jalan pagi.\n* **Fasilitas**: Kamar pakai lantai marmer dan tempat tidur beranjang, lengkap dengan minibar, brankas, dan TV satelit. Ada juga sauna, kolam renang outdoor, dan pusat kebugaran.\n* **Pilihan Makan**: Restoran Kemiri nyediain sarapan spesial, sementara Uma Cucina fokus ke masakan Italia dengan bahan lokal segar.\n* **Eksplorasi Sekitar**: Cuma 5 menit naik mobil ke pusat Ubud dan tempat wisata seperti Blanco Renaissance Museum.
+* **Keunggulan Yoga**: Setiap hari ada kelas yoga gratis yang dipandu instruktur profesional, plus aktivitas jalan pagi. 
+* **Fasilitas**: Kamar pakai lantai marmer dan tempat tidur four-poster, lengkap dengan minibar, brankas, dan TV satelit. Ada juga sauna, kolam renang outdoor, dan pusat kebugaran. 
+* **Pilihan Makan**: Restoran Kemiri nyediain sarapan spesial, sementara Uma Cucina fokus ke masakan Italia dengan bahan lokal segar. 
+* **Eksplorasi Sekitar**: Cuma 5 menit berkendara ke pusat Ubud dan tempat-tempat seperti Blanco Renaissance Museum.
 
-👉 **Alasan Rekomendasi**: Cocok banget buat kamu yang pengen merasakan keseimbangan tubuh dan pikiran. Kamu juga bisa ikut arung jeram atau naik gunung berapi biar liburan makin seru!
+👉 **Rekomendasi**: Cocok banget buat kamu yang pengen merasakan keseimbangan tubuh dan pikiran. Kamu juga bisa ikut arung jeram atau pendakian gunung biar liburan makin seru!
 
-> **▶**[**Klik untuk Pesan COMO Uma Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2972542) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1395200&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NaxMLFJMEkNZuF486syY9YhRiNDL4yWWzWdlzn_rBKZOEMB09jEPCZ5xDAEzHlwPNp7ImWru5FPw8GOhQygMCHCQ6NjN80YvoPHe9z6GJkBauZwdgwJXQjowjIkDVlDjsYmQ4wMp1g3OG2gGny1rfKp1iYOabxXmL5yhRdrZSdWqlkZaKjVJJZkpOqZKX0dNG8pw17nq9oVdJRSkktTgYKAVmJufmleSVAtoWJsZ6BAVCkJLHCMwWsMzkxJ7k0J7EkNaSyAGiCmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FOAFooVsq1A7DWh1Mlz-b0_u0e-aLTbuJc7k5tV1uQIzLjWtjH7EwRcd-YmH4BYyGlepNrAxdrMwcp5gmAckdbrtYefyjHL1NXHQNdaN0DS-wri6Qkjc0MDAwNTQ2NdU1SLRMNDVONtQ1sTQxMjfUNTIzMjfR-Lbn640nxkbWUpDoV2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xShlaG5sYWhkaGhkZGRprGdikWZWbJFXbJGbFeHBGMRmZuRsamkSZcPFHBrsIph-9XmWtpm0gxRzSLiL4uSgC29Ve0_ba4HkDGFygXte55ywN15gHwmTT2KtytANCc_oFS9gbGBk6mLkFmD0YIxgrADyGFcxsnMxGxgZCjBtYGTcwfgfBhhfMYIsAQDeEj2DDgMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-26274&detailFilters=17|1~17~1*31|1395200~31~1395200*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=845&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/qZItsrtj)
+> **▶**[**Klik untuk pesan COMO Uma Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=2972542) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1395200&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NaxMLFJMEkNZuF486syY9YhRiNDL4yWWzWdlzn_rBKZOEMB09jEPCZ5xDAEzHlwPNp7ImWru5FPw8GOhQygMCHCQ6NjN80YvoPHe9z6GJkBauZwdgwJXQjowjIkDVlDjsYmQ4wMp1g3OG2gGny1rfKp1iYOabxXmL5yhRdrZSdWqlkZaKjVJJZkpOqZKX0dNG8pw17nq9oVdJRSkktTgYKAVmJufmleSVAtoWJsZ6BAVCkJLHCMwWsMzkxJ7k0J7EkNaSyAGiCmY5SZrFzSVFmQVBqbmZJSSpQVVpiTnEqSDwotRgokwwWVPIDGlMEFcjMz4NoN0QRC0vMKU2FOAFooVsq1A7DWh1Mlz-b0_u0e-aLTbuJc7k5tV1uQIzLjWtjH7EwRcd-YmH4BYyGlepNrAxdrMwcp5gmAckdbrtYefyjHL1NXHQNdaN0DS-wri6Qkjc0MDAwNTQ2NdU1SLRMNDVONtQ1sTQxMjfUNTIzMjfR-Lbn640nxkbWUpDoV2DUEowP8fR0MSwpTDUrLLXMKSowNWA8xShlaG5sYWhkaGhkZGRprGdikWZWbJFXbJGbFeHBGMRmZuRsamkSZcPFHBrsIph-9XmWtpm0gxRzSLiL4uSgC29Ve0_ba4HkDGFygXte55ywN15gHwmTT2KtytANCc_oFS9gbGBk6mLkFmD0YIxgrADyGFcxsnMxGxgZCjBtYGTcwfgfBhhfMYIsAQDeEj2DDgMAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494271-26274&detailFilters=17|1~17~1*31|1395200~31~1395200*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=845&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/qZItsrtj)
 
-## 2. **Kajane Yangloni: Penginapan Tenang Dikelilingi Sawah** 🌾
+## 2. **Kajane Yangloni: Penginapan Tenang yang Dikelilingi Sawah** 🌾
 
-Terletak di tengah sawah yang indah dan taman tropis di Ubud, Kajane Yangloni adalah resort yang memadukan alam dengan budaya Bali secara sempurna.
+Terletak di tengah sawah yang indah dan taman tropis di Ubud, Kajane Yangloni adalah resort yang memadukan alam dan budaya Bali dengan sempurna.
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774438984667-472009710.jpg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774438985489-472005488.jpg)
@@ -83,11 +86,11 @@ Terletak di tengah sawah yang indah dan taman tropis di Ubud, Kajane Yangloni ad
 
 * **Keunggulan Yoga:** Ada kelas yoga privat khusus, bikin rileks di tengah sawah dan taman tropis.
 * **Fasilitas & Gaya:** Vila bergaya tradisional Bali dengan fasilitas modern, plus kolam renang dan Spa.
-* **Pengalaman Kuliner:** Ubud HomeMADE Resto menyajikan masakan Bali autentik, dan ada layanan antar makanan ke vila.
+* **Kuliner:** Ubud HomeMADE Resto menyajikan masakan khas Bali, dan ada juga layanan antar makanan ke vila.
 * **Eksplorasi Sekitar:** Cuma 5 menit berkendara dari pusat Ubud, ada shuttle gratis buat eksplorasi budaya dan tempat wisata.
-* **Alasan Direkomendasikan:** Perpaduan alam dan kemewahan, cocok buat kamu yang cari relaksasi dan pengalaman budaya lokal.
+* **Alasan Direkomendasiin:** Gabungan alam dan kemewahan, cocok buat kamu yang cari relaksasi dan pengalaman budaya lokal.
 
-> ▶[**Klik untuk pesan Kajane Yangloni**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251878) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1061585&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oaw8LFJMEkNZWF48ax7v1sQowGFhOFHDVj-g99Nalw8AQzfOocAngiphx4Po09MfPYopdv2LwdChlAIKPfoZHxmwZQ0dZuhy5GVrCaGYwXnzqsYGTcyAhWkxDhsIOR6QAj0wnGy4ILmG62T2M-xcLMcYT5EstXpuhqpezUSiUrEx2lksySnFQlK6Wni-Y9bdjzfEWrko5SSmpxMlAIyErMzS_NKwGyjYzM9AwMgCIliRWeKWCdyYk5yaU5iSWpIZUFQBPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7IYpYWGJOaSrECUAL3VKhdhjW6mC6_Nmc3qfdM19s2k2cy82p7XIDYlxuXBv7iIUpOvYTC8MvYDRsV2liZehiZeb4zTgJSF4W3MXKFhnsF-rnc4G11UJKwdDAwMDI1NTIXNcg0dIiKdHASNfE0sTY2FjX2MjCwNxSY0fbz0NPjY2spSCRr8CoJRgf4unpYlhSmGpWWGqZU1RgasB4ilHK0NzYwtDI0NDIyMjSWM_EIs2s2CKv2CI3K8KDMYjN0NHYwtQoyoaL2dMlSPDef5ZcbWVLeynmkHAXxZU3mdcemHDaXgskZwiTC7T4Isb_3nKBfSRMPom1KkM3JDyjV7yAsYGRqYuRW4DRgzGCsQLIY1zFyLCBkXEH438YYHzFCDIdAJ8m7NACAwAA&masterhotelid_tracelogid=100025527-0a98ba02-494333-328079&detailFilters=17|1~17~1*31|1061585~31~1061585*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1040&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/aPHBNKLh)
+> ▶[**Klik buat booking Kajane Yangloni**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=251878) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1061585&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oaw8LFJMEkNZWF48ax7v1sQowGFhOFHDVj-g99Nalw8AQzfOocAngiphx4Po09MfPYopdv2LwdChlAIKPfoZHxmwZQ0dZuhy5GVrCaGYwXnzqsYGTcyAhWkxDhsIOR6QAj0wnGy4ILmG62T2M-xcLMcYT5EstXpuhqpezUSiUrEx2lksySnFQlK6Wni-Y9bdjzfEWrko5SSmpxMlAIyErMzS_NKwGyjYzM9AwMgCIliRWeKWCdyYk5yaU5iSWpIZUFQBPMdJQyi51LijILglJzM0tKUoGq0hJzilNB4kGpxUCZZLCgkh_QmCKoQGZ-HkS7IYpYWGJOaSrECUAL3VKhdhjW6mC6_Nmc3qfdM19s2k2cy82p7XIDYlxuXBv7iIUpOvYTC8MvYDRsV2liZehiZeb4zTgJSF4W3MXKFhnsF-rnc4G11UJKwdDAwMDI1NTIXNcg0dIiKdHASNfE0sTY2FjX2MjCwNxSY0fbz0NPjY2spSCRr8CoJRgf4unpYlhSmGpWWGqZU1RgasB4ilHK0NzYwtDI0NDIyMjSWM_EIs2s2CKv2CI3K8KDMYjN0NHYwtQoyoaL2dMlSPDef5ZcbWVLeynmkHAXxZU3mdcemHDaXgskZwiTC7T4Isb_3nKBfSRMPom1KkM3JDyjV7yAsYGRqYuRW4DRgzGCsQLIY1zFyLCBkXEH438YYHzFCDIdAJ8m7NACAwAA&masterhotelid_tracelogid=100025527-0a98ba02-494333-328079&detailFilters=17|1~17~1*31|1061585~31~1061585*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1040&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17259713) [Booking](https://booking.tpm.li/aPHBNKLh)
 
 ## 3. The Udaya Resorts and Spa
 
@@ -103,18 +106,18 @@ Resort tropis mewah di tengah hamparan hijau, dengan banyak aktivitas untuk tubu
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439101487-img_0721-min.jpg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439102083-mixcollage-19-feb-2024-10-58-pm-1089.jpg)
 
-* **Keunggulan Yoga:** Ada kelas yoga rutin, bersepeda, dan trekking yang bikin kamu makin menyatu dengan alam.
-* **Fasilitas & Tipe Kamar:** Furnitur kayu, dekorasi warna hangat, beberapa kamar punya kolam renang pribadi. Balkon atau teras pribadi dengan pemandangan taman.
-* **Pengalaman Kuliner:** Deeva Organic Restaurant fokus pakai bahan lokal segar, ada opsi vegetarian dan teh sore gratis setiap hari.
+* **Keunggulan Yoga:** Rutin ada kelas yoga, bersepeda, dan trekking biar kamu makin menyatu dengan alam.
+* **Fasilitas & Tipe Kamar:** Furnitur kayu, dekorasi warna hangat, beberapa kamar punya kolam renang pribadi. Balkon atau teras pribadi buat nikmatin pemandangan taman.
+* **Kuliner:** Deeva Organic Restaurant fokus pakai bahan lokal segar, ada opsi vegetarian dan teh sore setiap hari.
 * **Eksplorasi Sekitar:** Cuma 2 km lebih dari pusat Ubud, aksesnya gampang banget.
 
-👉 **Alasan Direkomendasikan:** Cocok banget buat traveler yang suka suasana tersembunyi tapi tetap dekat dengan pusat kota.
+👉 **Alasan Direkomendasiin:** Cocok buat traveler yang suka suasana tersembunyi tapi tetap dekat dengan pusat kota.
 
-> ▶[**Klik untuk pesan The Udaya Resorts and Spa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1636392) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6640884&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxcLFJMEkNZmF4-aeM_vYhBgNLH4LOmrG9B_6qtbu4Cnf-jpwx54ehwCeiCkHnk9jT7Tlur64YH-gQyEDCNhMd2hkfFglss5932SHLkZWsJoZjF9WTmXeyAhUaMsVnuawg5HpACPTCcZNiguYrs2eynyKhZljH9sllq9M0dVK2amVSlYmOkolmSU5qUpWSk8XzXvasOf5ilYlHaWU1OJkoBCQlZibX5pXAmSbGJrqGRgARUoSKzxTwDqTE3OSS3MSS1JDKguAJpjpKGUWO5cUZRYEpeZmlpSkAlWlJeYUp4LEg1KLgTLJYEElP6AxRVCBzPw8iHZDFLGwxJzSVIgTgBa6pULtMKzVwXT5szm9T7tnvti0mziXm1Pb5QbEuNy4NvYRC1N07CcWhl_AaPhj2sTK0MXKzHGKaRKQ3KS4i5UtMtgw0Mf_AuuPSCk5QwMDA1NDY1NTXYNESwtjUxNzXRNLEyMzc11zI2MLjYUfr118YmxkLQWJeAVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsZhYmxi4uUTZczJ4uQYIf9J5vb7e2tJdiDgl3Ufyw_Ji3eedpey2QnCFMLnDP65wT9sYL7CMruFU06npO2yexVmXohoRnHBcrYGxgZOpi5BZg9GCMYKwA8hhXMTJsYGTcwfgfBhhfMYJMBwB69feR_gIAAA&masterhotelid_tracelogid=100051355-0a983547-494267-7238&detailFilters=17|1~17~1*31|6640884~31~6640884*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=480&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/cF2UPvoh)
+> ▶[**Klik buat booking The Udaya Resorts and Spa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1636392) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6640884&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxcLFJMEkNZmF4-aeM_vYhBgNLH4LOmrG9B_6qtbu4Cnf-jpwx54ehwCeiCkHnk9jT7Tlur64YH-gQyEDCNhMd2hkfFglss5932SHLkZWsJoZjF9WTmXeyAhUaMsVnuawg5HpACPTCcZNiguYrs2eynyKhZljH9sllq9M0dVK2amVSlYmOkolmSU5qUpWSk8XzXvasOf5ilYlHaWU1OJkoBCQlZibX5pXAmSbGJrqGRgARUoSKzxTwDqTE3OSS3MSS1JDKguAJpjpKGUWO5cUZRYEpeZmlpSkAlWlJeYUp4LEg1KLgTLJYEElP6AxRVCBzPw8iHZDFLGwxJzSVIgTgBa6pULtMKzVwXT5szm9T7tnvti0mziXm1Pb5QbEuNy4NvYRC1N07CcWhl_AaPhj2sTK0MXKzHGKaRKQ3KS4i5UtMtgw0Mf_AuuPSCk5QwMDA1NDY1NTXYNESwtjUxNzXRNLEyMzc11zI2MLjYUfr118YmxkLQWJeAVGLcH4EE9PF8OSwlSzwlLLnKICUwPGU4xShubGFoZGhoZGRkaWxnomFmlmxRZ5xRa5WREejEFsZhYmxi4uUTZczJ4uQYIf9J5vb7e2tJdiDgl3Ufyw_Ji3eedpey2QnCFMLnDP65wT9sYL7CMruFU06npO2yexVmXohoRnHBcrYGxgZOpi5BZg9GCMYKwA8hhXMTJsYGTcwfgfBhhfMYJMBwB69feR_gIAAA&masterhotelid_tracelogid=100051355-0a983547-494267-7238&detailFilters=17|1~17~1*31|6640884~31~6640884*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=480&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/cF2UPvoh)
 
 ## 4. Adiwana Resort Jembawan
 
-Resort yang fokus pada kesehatan dan keseimbangan, cocok buat kamu yang lagi cari penyembuhan jiwa dan raga.
+Resor yang fokus pada kesehatan dan keseimbangan, cocok buat kamu yang pengin healing jiwa dan raga.
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439195736-mixcollage-20-feb-2024-09-06-am-1544.jpg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439196183-9-scaled.jpeg)
@@ -127,14 +130,14 @@ Resort yang fokus pada kesehatan dan keseimbangan, cocok buat kamu yang lagi car
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439199467-screen-shot-2021-08-04-at-11.13.16.png)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439200024-wakacje-i-wczasy-w-hotelu-alaya-jembawan-90910.jpeg)
 
-* **Keunggulan Yoga**: Ada kelas yoga dan workshop Ayurveda, bikin kamu makin mendalami penyembuhan tubuh dan pikiran.
-* **Fasilitas & Gaya**: Desain modern dipadukan dengan sentuhan khas Bali, setiap kamar punya kamar mandi luas lengkap dengan jubah mandi dan perlengkapan mandi premium.
+* **Keunggulan Yoga**: Ada kelas yoga dan workshop Ayurveda, bikin kamu makin dalam merasakan penyembuhan tubuh dan pikiran.
+* **Fasilitas & Gaya**: Desain modern dipadu sentuhan khas Bali, setiap kamar punya kamar mandi luas lengkap dengan jubah mandi dan perlengkapan mandi premium.
 * **Eksplorasi Sekitar**: Cuma 600 meter dari Ubud Palace dan Pasar Ubud, jalan kaki juga bisa ke Monkey Forest.
-* **Pengalaman Tambahan**: Nikmati pijat relaksasi di Tejas Spa, atau ikut kelas memasak untuk merasakan lebih dalam budaya Bali.
+* **Pengalaman Tambahan**: Nikmati pijat relaksasi di Tejas Spa, atau ikut kelas memasak buat lebih merasakan budaya Bali.
 
-👉 **Alasan Rekomendasi**: Tema kesehatan jadi andalan, cocok buat kamu yang butuh me-time atau pasutri yang pengen rileks.
+👉 **Alasan Rekomendasi**: Tema kesehatan jadi andalan, cocok buat kamu yang butuh me-time atau pasutri yang pengin relaksasi.
 
-> ▶[**Klik untuk pesan Adiwana Resort Jembawan**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1617762) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6274017&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxcLFJMEkNZmF48y0_X9YhRgNLH4LOnJdX1xgm9Tk4AmiuV63OQTwREw58Hwae6ItSGp_oEMhAwhodDo0Mi4BKrke3-rQxcgKVjOD8eH3f0wbGY1BQDnJYQcj0wFGphOMF6UWML26_J_pFAszxyLWSyxfmaKrlbJTK5WsTHSUSjJLclKVrJSezel92j3zxabdSjpKKanFyUAhICsxN780rwTINjY21zMwAIqUJFZ4pihZmesoJSfmJJfmJJakhlQWAE0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDtBihiYYk5pakQJwAtdEuF2mFcq4Pp8qeL5j1t2PN8RStxLjehtssNiXG5YW3sIxam6NhPLAy_gNEwW7aJlaGLlZnjFNMkIHlRahcrW6CnhUmgywXWbVZS8oYGBgamhsamproGiZaJxkZpybomliZGZma6pgYW5qYa62Y8u_DE2MhaChLzCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9gsnSwNjI2jbLiYPV2CBD_oPd_ebm1pL8UcEu6i-GH5MW_zztP2WiA5Q5hc4J7XOSfsjRfYR8Lkk1irMnRDwjOOixUwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDAATgrnf_AgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494266-50875&detailFilters=17|1~17~1*31|6274017~31~6274017*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=880&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/T3dzFTH6)
+> ▶[**Klik untuk Pesan Adiwana Resort Jembawan**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1617762) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=6274017&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaxcLFJMEkNZmF48y0_X9YhRgNLH4LOnJdX1xgm9Tk4AmiuV63OQTwREw58Hwae6ItSGp_oEMhAwhodDo0Mi4BKrke3-rQxcgKVjOD8eH3f0wbGY1BQDnJYQcj0wFGphOMF6UWML26_J_pFAszxyLWSyxfmaKrlbJTK5WsTHSUSjJLclKVrJSezel92j3zxabdSjpKKanFyUAhICsxN780rwTINjY21zMwAIqUJFZ4pihZmesoJSfmJJfmJJakhlQWAE0w01HKLHYuKcosCErNzSwpSQWqSkvMKU4FiQelFgNlksGCSn5AY4qgApn5eRDtBihiYYk5pakQJwAtdEuF2mFcq4Pp8qeL5j1t2PN8RStxLjehtssNiXG5YW3sIxam6NhPLAy_gNEwW7aJlaGLlZnjFNMkIHlRahcrW6CnhUmgywXWbVZS8oYGBgamhsamproGiZaJxkZpybomliZGZma6pgYW5qYa62Y8u_DE2MhaChLzCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9gsnSwNjI2jbLiYPV2CBD_oPd_ebm1pL8UcEu6i-GH5MW_zztP2WiA5Q5hc4J7XOSfsjRfYR8Lkk1irMnRDwjOOixUwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDAATgrnf_AgAA&masterhotelid_tracelogid=100051355-0a9a32fc-494266-50875&detailFilters=17|1~17~1*31|6274017~31~6274017*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=880&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/T3dzFTH6)
 
 ## 5. Maya Ubud Resort & Spa
 
@@ -151,18 +154,18 @@ Surga tenang di tepi Sungai Petanu, dengan beragam aktivitas dan fasilitas seru.
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439267921-281384809.jpeg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439268311-393013818.jpeg)
 
-* **Keunggulan Yoga**: Ada kelas yoga setiap hari, plus gazebo outdoor buat latihan santai.
-* **Fasilitas**: Kamar bergaya tradisional Bali dengan kenyamanan modern, beberapa tipe punya kolam renang pribadi atau pemandangan taman.
-* **Kuliner**: Mayasari Restaurant menyajikan makanan internasional, River Cafe jual salad sehat dan camilan ringan. Minum teh sore bisa di Tree Top Bar.
-* **Eksplorasi Sekitar**: Jarak tempuh pendek ke pusat Ubud, dan ada shuttle gratis bolak-balik.
+* **Keunggulan Yoga**: Ada kelas yoga setiap hari, lengkap dengan gazebo outdoor buat latihan.
+* **Fasilitas**: Kamar bergaya tradisional Bali dipadu kenyamanan modern, beberapa tipe punya kolam renang pribadi atau pemandangan taman.
+* **Pengalaman Kuliner**: Mayasari Restaurant nyajiin makanan internasional, River Cafe kasih salad sehat dan camilan ringan. Minum sore bisa di Tree Top Bar.
+* **Eksplorasi Sekitar**: Jarak tempuh pendek dari pusat Ubud, dan ada shuttle gratis bolak-balik.
 
-👉 **Alasan Rekomendasi**: Wajib banget buat kamu yang pengin cari ketenangan di tengah alam. Mau petualangan outdoor atau sekadar santai-santai aja, semua bisa terpenuhi di sini.
+👉 **Alasan Rekomendasi**: Wajib banget buat kamu yang pengen cari ketenangan di alam, mau petualangan outdoor atau sekadar santai-santai aja, semua ada di sini.
 
-> ▶[**Klik untuk Pesan Maya Ubud Resort & Spa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7534) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685363&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqZOFikmCSamLhWLh70RY2IUYjg7NsFqsjHD0eVomsu9_m4Cnf-jpwR1qPQwBPxJQDz6exJ1q6uhf9PBjo0MXIChaYwbj5leZGxpj-Q181ZNIcdjAynWBsVlzA9KZ9LfcpFmaObWyXWL4yRVcrZadWKlmZ6CiVZJbkpCpZKT1dNO9pw57nK1qVdJRSUouTgUJAVmJufmleCZBtYmioZ2AAFClJrPBMAetMTsxJLs1JLEkNqSwAmmCmo5RZ7FxSlFkQlJqbWVKSClSVlphTnAoSD0otBsokgwWV_IDGFEEFMvPzINoNUcTCEnNKUyFOAFrolgq1w7BWB9Plz-b0Pu2e-WLTbuJcbk5tlxsQ43Lj2thHLEzRsZ9YGH6xMDSxMnSxMnOcYpoEJJsVd7HyRJq7upv46xrqRukaXmA9qyylaGhgYGBkampkrmuQaJlobmxgpGtiaWJkbqhrZGBmaGRprrH7fsPNJ8ZG1lKQqFdg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjE5mxq5GhuEWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgADAa8L9wIAAA&masterhotelid_tracelogid=100025527-0a9a7302-494271-2061297&detailFilters=17|1~17~1*31|685363~31~685363*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=504&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/jDDWgLu7)
+> ▶[**Klik buat Booking Maya Ubud Resort & Spa**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=7534) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=685363&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-PqZOFikmCSamLhWLh70RY2IUYjg7NsFqsjHD0eVomsu9_m4Cnf-jpwR1qPQwBPxJQDz6exJ1q6uhf9PBjo0MXIChaYwbj5leZGxpj-Q181ZNIcdjAynWBsVlzA9KZ9LfcpFmaObWyXWL4yRVcrZadWKlmZ6CiVZJbkpCpZKT1dNO9pw57nK1qVdJRSUouTgUJAVmJufmleCZBtYmioZ2AAFClJrPBMAetMTsxJLs1JLEkNqSwAmmCmo5RZ7FxSlFkQlJqbWVKSClSVlphTnAoSD0otBsokgwWV_IDGFEEFMvPzINoNUcTCEnNKUyFOAFrolgq1w7BWB9Plz-b0Pu2e-WLTbuJcbk5tlxsQ43Lj2thHLEzRsZ9YGH6xMDSxMnSxMnOcYpoEJJsVd7HyRJq7upv46xrqRukaXmA9qyylaGhgYGBkampkrmuQaJlobmxgpGtiaWJkbqhrZGBmaGRprrH7fsPNJ8ZG1lKQqFdg1BKMD_H0dDEsKUw1Kyy1zCkqMDVgPMUoZWhubGFoZGhoZGRkaaxnYpFmVmyRV2yRmxXhwRjE5mxq5GhuEWXDxRwa7CKYfvV5lraZtIMUc0i4i-LkoAtvVXtP22sxe7oEGX7Qe7693drSPnDP65wT9sYL7CPXz6zZfBYon8RalaEbEp7RK17A2MDI1MXILcDowRjBWAHkMa5iZOdiNjAyFGDawMi4g_E_DDC-YgRZAgADAa8L9wIAAA&masterhotelid_tracelogid=100025527-0a9a7302-494271-2061297&detailFilters=17|1~17~1*31|685363~31~685363*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=504&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/jDDWgLu7)
 
 ## 6. The Hidden Paradise Ubud
 
-Surga tersembunyi yang cocok banget buat liburan bareng keluarga atau pasangan, menikmati suasana pedesaan yang tenang.
+Surga tersembunyi yang cocok banget buat keluarga atau pasangan yang pengen liburan pedesaan yang tenang.
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439360702-331047587.jpeg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439361222-187681317.jpeg)
@@ -174,14 +177,14 @@ Surga tersembunyi yang cocok banget buat liburan bareng keluarga atau pasangan, 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439363453-489606648.jpeg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439363756-592729862.jpg)
 
-* **Keunggulan Yoga**: Ada kelas yoga privat dan grup, cocok buat instruktur yoga dari mana pun yang mau ngadain retreat di sini.
-* **Pilihan Akomodasi**: Tersedia suite atau villa dengan 1–2 kamar tidur, pas buat pasangan, keluarga, atau grup. Semua kamar menghadap ke Lembah Petanu, pemandangan matahari terbitnya juara banget!
-* **Kuliner**: Restoran Pandora buka seharian, plus ada bar tersembunyi yang nyajiin cocktail spesial dan hidangan Mediterania.
-* **Aktivitas Tambahan**: Bisa atur tur budaya, bersepeda, atau perjalanan spiritual sesuai keinginan kamu.
+* **Keunggulan Yoga**: Ada kelas yoga pribadi dan grup, terbuka buat instruktur yoga dari mana aja yang mau ngadain retreat di sini.
+* **Pilihan Akomodasi**: Tersedia suite atau villa dengan satu atau dua kamar tidur, cocok buat pasangan, keluarga, atau grup. Semua kamar menghadap ke Lembah Sungai Petanu, pemandangan matahari terbitnya bikin speechless.
+* **Pengalaman Kuliner**: Restoran Pandora buka seharian, ada bar tersembunyi yang nyajiin cocktail spesial dan hidangan Mediterania.
+* **Aktivitas Tambahan**: Bisa atur tur budaya, bersepeda, atau spiritual sesuai keinginan kamu.
 
-👉 **Alasan Rekomendasi**: Cocok buat kamu yang pengin quality time sama keluarga atau teman sambil tetap bisa menikmati budaya dan keindahan alam Ubud.
+👉 **Alasan Rekomendasi**: Nikmatin ketenangan bareng keluarga atau teman, sambil tetap bisa merasakan pesona budaya dan alam Ubud.
 
-> ▶[**Klik untuk Pesan The Hidden Paradise Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25542481) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=28876749&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLRMNDVONtQ1sTQxsjTRNQfKWGr8mL-l8amxkYGWYHyIp6eLYUlhqllhqWVOUYHpKUYpQ3NjC0MjQ0MjIyNLYz0TizSzYou8YovcrAgPxiA2R2NDUzPjKD4p5pBwF8WVN5nXHphw2j6JtSpDNyQ8o1ccAKYuGVWCAAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494294-70009&detailFilters=17|1~17~1*31|28876749~31~28876749*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=870&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/kQIunnxW)
+> ▶[**Klik buat Booking The Hidden Paradise Ubud**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=25542481) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=28876749&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Ni4mKQkjc0MDAwNTQ2NdU1SLRMNDVONtQ1sTQxsjTRNQfKWGr8mL-l8amxkYGWYHyIp6eLYUlhqllhqWVOUYHpKUYpQ3NjC0MjQ0MjIyNLYz0TizSzYou8YovcrAgPxiA2R2NDUzPjKD4p5pBwF8WVN5nXHphw2j6JtSpDNyQ8o1ccAKYuGVWCAAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494294-70009&detailFilters=17|1~17~1*31|28876749~31~28876749*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=870&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/kQIunnxW)
 
 ## 7. **The Purist Villas and Spa**
 
@@ -196,7 +199,7 @@ Surga tersembunyi yang cocok banget buat liburan bareng keluarga atau pasangan, 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439442500-219176023.jpeg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439442899-_2024-11-26_09.34.49.png)
 
-Villa mewah yang memadukan desain tradisional dan modern ini menawarkan kelas yoga, kelas memasak, dan perawatan spa. Restoran dan kafenya menyajikan jajanan khas Bali, jus segar, dan koktail. Terletak di belakang desa setempat, tempat ini pilihan sempurna buat kamu yang ingin mendalami budaya Bali.
+Villa mewah yang memadukan desain tradisional dan modern ini menawarkan kelas yoga, kelas memasak, dan perawatan spa. Restoran dan kafenya menyajikan jajanan khas Bali, jus segar, dan koktail. Terletak di belakang desa setempat, tempat ini adalah pilihan sempurna buat kamu yang ingin mendalami budaya Bali.
 
 👉 **Keunggulan:** Desain villa unik, dekat dengan alam, layanan personal
 
@@ -206,7 +209,7 @@ Villa mewah yang memadukan desain tradisional dan modern ini menawarkan kelas yo
 
 ## 8. **Chapung Sebali**
 
-Tempat ini terkenal dengan Jungle Fish Pool Bar ikoniknya yang menyuguhkan pemandangan ngarai. Menyediakan villa dengan kolam renang pribadi, aktivitas seperti kelas yoga, trekking sawah, dan bersepeda. Restorannya menyajikan hidangan modern, bikin kamu bisa menikmati kemewahan di tengah alam.
+Tempat ini terkenal dengan Jungle Fish pool bar ikoniknya yang menghadap ke ngarai. Menawarkan villa dengan kolam renang pribadi, aktivitas seperti kelas yoga, trekking sawah, dan bersepeda. Restorannya menyajikan hidangan modern, bikin kamu bisa menikmati kemewahan di tengah alam.
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439546535-mixcollage-20-feb-2024-07-37-am-9852.jpg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439547117-morning-yoga-in-ubud.jpg)
@@ -219,7 +222,7 @@ Tempat ini terkenal dengan Jungle Fish Pool Bar ikoniknya yang menyuguhkan peman
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439550437-chapung-sebali-resort-and-spa_1000_560_2627_1412319636.jpeg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439550872-chapung-sebali-resort-spa-ubud-206-08543-1110x700.jpeg)
 
-👉 **Keunggulan:** Jungle Fish Bar, pemandangan ngarai, banyak aktivitas
+👉 **Keunggulan:** Jungle Fish bar, pemandangan ngarai, banyak aktivitas
 
 👉 **Jarak ke tempat wisata:** 10 menit berkendara ke pusat Ubud
 
@@ -244,7 +247,7 @@ Ini resort spiritual yang terletak di tepi Sungai Campuhan, menawarkan kelas yog
 
 👉 **Jarak ke tempat wisata:** 2 menit berkendara ke Ubud Palace
 
-> ▶[**Klik untuk pesan Adiwana Svarga Loka**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=625273) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1047296&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGF48ayL2uYhRgNLH4LOsq3vg7ckVXi4DlrJhD0VjoE8ERMOfB8Gnuig4F7__3Lbg6FDCAQUOHQyHj2DBA8KXboYmQFq5nB2PDNfiPjm8Adcq3dIQ47GJkOMDKdYHzPt4Bp5y_rUyzMHP-YLrF8ZYquVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DSUM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBTEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLKvkBjSmCCmTm50G0G6KIhSXmlKZCnAC00C0VaodhrQ6my5_N6X3aPfPFpt3Eudyc2i43IMblxrWxj1iYomM_sTD8AkZDN18TK0MXKzPHFcZJQPI93y5WNpNQCxdfrwus5-SklA0NDAxMDY1NTXUNEi0TDZPNLHRNLE2MDSx1DQ3Mjc3NDI0MNW5OfjTzqbGRtRQk7hUYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWwA1GBoZGVka65lYpJkVW-QVW-RmRXgwBrEZGBg7uhhG2XAxe7oECd77z5KrrWxpL8UcEu6iuPIm89oDE07ba4HkDGFygRZfxPjfWy6wj4TJJ7FWZeiGhGf0ihcwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDAGgU2qUBAwAA&masterhotelid_tracelogid=100051355-0a9a1c68-494309-107376121&detailFilters=17|1~17~1*31|1047296~31~1047296*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/CxgIu9Kj)
+> ▶[**Pesan Adiwana Svarga Loka**](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=625273) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1047296&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OawcLFJMEkNZGF48ayL2uYhRgNLH4LOsq3vg7ckVXi4DlrJhD0VjoE8ERMOfB8Gnuig4F7__3Lbg6FDCAQUOHQyHj2DBA8KXboYmQFq5nB2PDNfiPjm8Adcq3dIQ47GJkOMDKdYHzPt4Bp5y_rUyzMHP-YLrF8ZYquVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DSUM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBTEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLKvkBjSmCCmTm50G0G6KIhSXmlKZCnAC00C0VaodhrQ6my5_N6X3aPfPFpt3Eudyc2i43IMblxrWxj1iYomM_sTD8AkZDN18TK0MXKzPHFcZJQPI93y5WNpNQCxdfrwus5-SklA0NDAxMDY1NTXUNEi0TDZPNLHRNLE2MDSx1DQ3Mjc3NDI0MNW5OfjTzqbGRtRQk7hUYtQTjQzw9XQxLClPNCkstc4oKTA0YTzFKGZobWwA1GBoZGVka65lYpJkVW-QVW-RmRXgwBrEZGBg7uhhG2XAxe7oECd77z5KrrWxpL8UcEu6iuPIm89oDE07ba4HkDGFygRZfxPjfWy6wj4TJJ7FWZeiGhGf0ihcwNjAydTFyCzB6MEYwVgB5jKsYGTYwMu5g_A8DjK8YQaYDAGgU2qUBAwAA&masterhotelid_tracelogid=100051355-0a9a1c68-494309-107376121&detailFilters=17|1~17~1*31|1047296~31~1047296*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=285&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/CxgIu9Kj)
 
 ## 10. **Honai Resort**
 
@@ -259,7 +262,7 @@ Ini resort spiritual yang terletak di tepi Sungai Campuhan, menawarkan kelas yog
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439969485-407775297.jpg)
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774439969899-436201765.jpg)
 
-Resort yang tersembunyi di tengah sawah dan taman tropis ini menyediakan kelas yoga setiap hari. Restoran Hotapa Kitchen menyajikan makanan sehat sepanjang hari, termasuk pilihan vegetarian dan vegan. Pondok alang-alangnya bikin suasana alami banget, cocok buat kamu yang cari ketenangan.
+Resort yang tersembunyi di antara sawah dan taman tropis ini menawarkan kelas yoga setiap hari. Restoran Hotapa Kitchen menyajikan makanan sehat sepanjang hari, termasuk pilihan vegetarian dan vegan. Pondok alang-alangnya bikin suasana alami banget, cocok buat kamu yang cari ketenangan.
 
 👉 **Keunggulan:** Suasana pedesaan, yoga setiap hari, pilihan vegetarian
 
@@ -271,8 +274,8 @@ Resort yang tersembunyi di tengah sawah dan taman tropis ini menyediakan kelas y
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_843bc34c8b0e7915ed3fdffb7ffcb8f3.jpg)
 
-Jangan lupa tonton rekomendasi kami [**100 Tempat Wisata di Sekitar Ubud**](/blog/ubud-guide/), buat eksplorasi alam dan budaya yang lebih seru!
+Jangan lupa tonton rekomendasi kami [**100 Tempat Wisata di Sekitar Ubud**](/blog/ubud-guide/), buat eksplorasi lebih banyak keindahan alam dan budaya!
 
-Entah kamu lagi cari tempat meditasi yang tenang, atau pengin menyatu sama alam, 10 pilihan akomodasi yoga di Ubud di atas pasti bikin liburanmu makin berwarna. Yuk, langsung pilih yang paling cocok, dan mulai liburan yoga-mu dari Ubud!
+Entah kamu lagi cari tempat meditasi yang tenang, atau pengin menyatu dengan alam, 10 pilihan akomodasi yoga di Ubud di atas pasti bikin liburanmu makin berwarna. Yuk, langsung pilih penginapan favoritmu, dan mulai liburan yoga-mu dari Ubud!
 
 {{block:住宿}}
