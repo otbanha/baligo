@@ -130,7 +130,7 @@ const top5Posts = top5Data.articles
   .map(p => ({ id: p!.id, slug: p!.data.slug || p!.id, title: p!.data.title }));
 
 const qaCollection = await getCollection('qa');
-const qaData = qaCollection.map(q => ({ title: (qaI18n as any)[q.id]?.en ?? q.data.title }));
+const qaData = qaCollection.map(q => ({ title: (qaI18n as any)[q.id]?.en ?? q.data.title, id: q.id }));
 
 const youtubeVideos = [
   '0fqEvAzAy9A','GivvqCXp11A','H5N5_UuK7TI','EotdDxXHFwE','7JIqxDIyDF0','ePutHL_Ob1Q'
@@ -621,7 +621,7 @@ const socialLinks = [
     shuffled.forEach(q => {
       const li = document.createElement('li');
       const a = document.createElement('a');
-      a.href = '/ask/';
+      a.href = '/ask/' + q.id + '/';
       a.textContent = q.title;
       li.appendChild(a);
       list.appendChild(li);
