@@ -40,15 +40,15 @@ When planning a laid-back vacation in Canggu, Bali, Indonesia, picking an amazin
 
 ### 【Don't Miss These Canggu Ticket Deals】
 
-* Atlas Beach Fest, Asia's largest beach club [discounted entry ticket](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80472-atlas-beach-club-admission-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad7b2e5830)
-* Finns Beach Club [all-access pass](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14201-finns-beach-club-pass-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92e834a4de)
-* Cafe del Mar Beach Club [day pass](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F85626-cafe-del-mar-beach-club-day-pass-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D07c5d6c77c)
-* Old Man's Beach [2-hour surf lesson](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32669-surfing-lesson-old-mans-beach-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd23f3ea4ef)
-* Canggu [beach horse riding](https://affiliate.klook.com/redirect?aid=40584&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830)
-* Canggu [cooking class cultural experience](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
-* Canggu [premium Spa & Yoga experience](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
+* Atlas Beach Fest, Asia's largest beach club [discounted entry ticket](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80472-atlas-beach-club-admission-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad7b2e5830)
+* Finns Beach Club [all-access pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14201-finns-beach-club-pass-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92e834a4de)
+* Cafe del Mar Beach Club [day pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F85626-cafe-del-mar-beach-club-day-pass-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D07c5d6c77c)
+* Old Man's Beach [2-hour surf lesson](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32669-surfing-lesson-old-mans-beach-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd23f3ea4ef)
+* Canggu [beach horse riding](https://affiliate.klook.com/redirect?aid=116349&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830)
+* Canggu [cooking class cultural experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
+* Canggu [premium Spa & Yoga experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
 * Canggu [massage & spa recommendations without the risk](https://s.id/spa_guide)
-* Canggu [in-room massage service](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
+* Canggu [in-room massage service](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
 
 Let's dive into Canggu's top accommodations to add more wonderful memories to your trip! At the bottom, you'll also find a map showing the locations of these 16 recommended stays.
 
@@ -343,16 +343,16 @@ Please refer to the [Canggu Guide Map](https://gobaligo.id/map/canggu/)
 
 ## Don't Miss These Canggu Ticket Deals
 
-* Atlas Beach Fest, Asia's largest beach club [discounted entry ticket](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80472-atlas-beach-club-admission-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad7b2e5830)
-* Finns Beach Club [all-access pass](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14201-finns-beach-club-pass-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92e834a4de)
-* Cafe del Mar Beach Club [day pass](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F85626-cafe-del-mar-beach-club-day-pass-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D07c5d6c77c)
-* Old Man's Beach [2-hour surf lesson](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32669-surfing-lesson-old-mans-beach-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd23f3ea4ef)
-* Canggu [beach horseback riding](https://affiliate.klook.com/redirect?aid=40584&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830)
-* Canggu [cooking class cultural experience](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
-* Canggu [Spa & Yoga premium experience](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
+* Atlas Beach Fest, Asia's largest beach club [discounted entry ticket](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80472-atlas-beach-club-admission-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad7b2e5830)
+* Finns Beach Club [all-access pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14201-finns-beach-club-pass-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92e834a4de)
+* Cafe del Mar Beach Club [day pass](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F85626-cafe-del-mar-beach-club-day-pass-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D07c5d6c77c)
+* Old Man's Beach [2-hour surf lesson](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32669-surfing-lesson-old-mans-beach-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd23f3ea4ef)
+* Canggu [beach horseback riding](https://affiliate.klook.com/redirect?aid=116349&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830)
+* Canggu [cooking class cultural experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
+* Canggu [Spa & Yoga premium experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
 * Canggu [massage & spa no-fail recommendations](https://s.id/spa_guide)
-* Canggu [in-room massage service](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
-* Canggu [food & dining deals](https://affiliate.klook.com/redirect?aid=40584&aff_adid=931889&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50218418-canggu%2F2-food-and-dining%2F)
+* Canggu [in-room massage service](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
+* Canggu [food & dining deals](https://affiliate.klook.com/redirect?aid=116349&aff_adid=931889&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50218418-canggu%2F2-food-and-dining%2F)
 
 {{block:canggu}}
 

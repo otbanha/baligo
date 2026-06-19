@@ -97,13 +97,13 @@ Tempat ini juga menjadi pilihan liburan low-key para bintang seperti **Beckham d
 
 ☕ **Rahasia Sarapan**: Menu sehat ala à la carte, **pancake bunga telang, smoothie bowl detoks spirulina** bisa refill sepuasnya~
 
-> Bisa pesan [Pengalaman Makan dengan Pemandangan Laut di Alila untuk Non-Tamu](https://affiliate.klook.com/redirect?aid=40584&aff_adid=1063734&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F156213-dining-experience-at-alila-villas-uluwatu%2F)
+> Bisa pesan [Pengalaman Makan dengan Pemandangan Laut di Alila untuk Non-Tamu](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063734&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F156213-dining-experience-at-alila-villas-uluwatu%2F)
 
 ### **3. Fasilitas Premium Lainnya**
 
 * **SPA Berpenghargaan**: Spa hotel ini juga pernah dapat penghargaan sebagai spa paling bikin rileks se-Asia, terapisnya jago banget! Gazebo pijat di tebing terbaik Asia, cobain terapi 'four hands' ala Bali!
 
-> Coba deh [SPA Experience di Alila Uluwatu](https://affiliate.klook.com/redirect?aid=40584&aff_adid=1052540&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F149732-spa-experience-at-alila-villas-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4ffe873d07)
+> Coba deh [SPA Experience di Alila Uluwatu](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052540&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F149732-spa-experience-at-alila-villas-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4ffe873d07)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_65b818dd7691344e2a1bfcfd92541364.jpg)
 

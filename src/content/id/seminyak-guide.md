@@ -190,13 +190,13 @@ Budaya kuliner Bali itu kaya banget, dan Seminyak juga nggak kalah. Di sini, kam
 
 Bali terkenal dengan tradisi spa yang kaya, dan banyak hotel mewah serta spa di Seminyak menawarkan berbagai layanan relaksasi. Di sini, kamu bisa memilih berbagai pijatan, lulur tubuh, dan perawatan wajah, bikin diri tenggelam dalam pengalaman spa ala Bali yang autentik.
 
-- [Icon Spa Pengalaman Pijat & Spa](https://affiliate.klook.com/redirect?aid=32564&aff_adid=772146&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89805-seminyak-icon-spa-experience-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D07c1d198db)
-- [Prana Spa Pengalaman Spa](https://affiliate.klook.com/redirect?aid=32564&aff_adid=772146&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F81346-prana-spa-get-great-deals-book%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfea8bcfcd9)
-- [Melah Spa Pengalaman Pijat](https://affiliate.klook.com/redirect?aid=32564&aff_adid=772146&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82882-melah-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9f64070f03)
-- [Lluvia Spa Pijat & Spa](https://affiliate.klook.com/redirect?aid=32564&aff_adid=772146&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15906-spa-treatment-lluvia-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0f4dd1cdfb)
-- [Peppers Seminyak Spa](https://affiliate.klook.com/redirect?aid=32564&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97308-spa-at-peppers-seminyak-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8a2e44214d)
-- [AWAY Spa by W Bali Seminyak](https://affiliate.klook.com/redirect?aid=32564&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F83004-away-spa-by-w-bali-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddfb0d50177)
-- [Sava Spa at Hotel Indigo](https://affiliate.klook.com/redirect?aid=32564&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F86710-sava-spa-hotel-indigo-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D35e2983310)
+- [Icon Spa Pengalaman Pijat & Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772146&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89805-seminyak-icon-spa-experience-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D07c1d198db)
+- [Prana Spa Pengalaman Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772146&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F81346-prana-spa-get-great-deals-book%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfea8bcfcd9)
+- [Melah Spa Pengalaman Pijat](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772146&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82882-melah-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9f64070f03)
+- [Lluvia Spa Pijat & Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772146&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15906-spa-treatment-lluvia-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0f4dd1cdfb)
+- [Peppers Seminyak Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97308-spa-at-peppers-seminyak-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8a2e44214d)
+- [AWAY Spa by W Bali Seminyak](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F83004-away-spa-by-w-bali-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddfb0d50177)
+- [Sava Spa at Hotel Indigo](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F86710-sava-spa-hotel-indigo-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D35e2983310)
 - [Bodyworks Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=774210&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dfc5734c5d3)
 
 ## Ikut Kelas Memasak ([Peta Panduan](https://www.google.com/maps/d/u/0/edit?mid=1il-sYTIMNMSVrVWqSnUPgdlsbCfMPP0&usp=sharing)🗺️)
@@ -205,8 +205,8 @@ Biar makin kenal budaya kuliner Bali, mending langsung praktek dengan ikut kelas
 
 Ini kesempatan seru buat interaksi sama budaya lokal. Selain bisa nyicipin masakan Bali yang enak, kamu juga bisa bawa pulang skill memasak ini dan bagi-bagi ke teman dan keluarga. Pengalaman unik ini bakal nambah kenangan spesial di liburan Bali-mu, bikin kamu makin ngerasain budaya dan vibe pulau cantik ini.
 
-- [Nia Cooking Class](https://affiliate.klook.com/redirect?aid=32564&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F19201-nia-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D394b1c4b14)
-- [Kin Vegan Cooking Class](https://affiliate.klook.com/redirect?aid=32564&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F28068-kin-vegan-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1ba2ccc77a)
+- [Nia Cooking Class](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F19201-nia-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D394b1c4b14)
+- [Kin Vegan Cooking Class](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F28068-kin-vegan-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1ba2ccc77a)
 - [The Laneway Cooking Class at Peppers Seminyak](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F113078-the-laneway-cooking-class-at-peppers-seminyak%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D6c7ea83ec3)
 - [Kelas Kopi Master Starbucks Reserve Dewata](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F127649-starbucks-reserve-dewata-coffee-experience-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd6c14650a8)
 

@@ -142,8 +142,8 @@ https://youtube.com/shorts/w-gzis-G6OI
 - [佩尼达岛快艇船票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23020-fast-boat-ticket-sanur-nusa-penida-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D39063e7b1d)
 - [佩尼达岛私人包车](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23014-nusa-penida-private-car-charter-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd8cbaa8627)
 - [探索之旅 - 巴厘岛出发（沙努尔港集合）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54289-nusa-penida-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76e0910049)
-- [Nusa Penida多日游](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
-- [蓝梦岛 & 曼塔湾浮潜体验](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
+- [Nusa Penida多日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
+- [蓝梦岛 & 曼塔湾浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
 - [Nusa Penida浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49082-snorkeling-experience-nusa-penida%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad6a39918d)
 
 **11:45** 抵达Matasari Inn放行李

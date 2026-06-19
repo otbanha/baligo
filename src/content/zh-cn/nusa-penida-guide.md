@@ -82,7 +82,7 @@ _srcHash: 3ffdf75d8890d3183278184171c67881
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c79ccabc1b7bc476729ce69183bf4f9b.png)
 
 - [Manta Point浮潜及东海岸之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F145570-nusa-penida-manta-point-snorkeling-east-coast-tour%2F)
-- [蓝梦岛 & 曼塔湾浮潜体验](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
+- [蓝梦岛 & 曼塔湾浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
 - [Nusa Penida浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49082-snorkeling-experience-nusa-penida%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad6a39918d)
 - [PADI中心水肺潜水探索之旅（2次潜水）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F116754-padi-discover-scuba-diving-with-2-dives-nusa-penida-in-bali-with-padi-5-star-idc-resort%2F)
 - [佩尼达岛的香蕉船、甜甜圈、水上摩托车、海底漫步等水上活动](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1144771&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F79407-nusa-penida-watersport-experience-trip-bali%2F)
@@ -94,7 +94,7 @@ _srcHash: 3ffdf75d8890d3183278184171c67881
 - [佩尼达岛快艇船票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23020-fast-boat-ticket-sanur-nusa-penida-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D39063e7b1d)
 - [八人以上团体可以考虑包船](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026516&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106290-private-boat-rental-nusa-penida-from-bali%2F)
 - [佩尼达岛私人包车](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23014-nusa-penida-private-car-charter-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd8cbaa8627)
-- [Nusa Penida多日游](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
+- [Nusa Penida多日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
 - [Nusa Penida摩托车出租](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26687-nusa-penida-scooter-rental%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7434f423bc)（路况非常不好请三思）
 - [KKday方案](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=penida&qs=penida&cid=17351)
 
@@ -176,8 +176,8 @@ _srcHash: 3ffdf75d8890d3183278184171c67881
 - [八人以上团体可以考虑包船](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1026516&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106290-private-boat-rental-nusa-penida-from-bali%2F)
 - [佩尼达岛私人包车](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23014-nusa-penida-private-car-charter-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd8cbaa8627)
 - [探索之旅 - 巴厘岛出发（沙努尔港集合）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54289-nusa-penida-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76e0910049)
-- [佩尼达岛多日游](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
-- [蓝梦岛 & 曼塔湾浮潜体验](https://affiliate.klook.com/redirect?aid=30411&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
+- [佩尼达岛多日游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)
+- [蓝梦岛 & 曼塔湾浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F21684-nusa-lembongan-manta-bay-snorkeling-experience%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df6a1d671a3)
 - [佩尼达岛浮潜体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F49082-snorkeling-experience-nusa-penida%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad6a39918d)
 - [佩尼达岛摩托车出租](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26687-nusa-penida-scooter-rental%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7434f423bc)（路况非常差，请自行斟酌）
 - [佩尼达岛 & 蓝梦岛私人包船游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=764788&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F92390-private-boat-charter-for-nusa-penida-and-lembongan%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7668f8e7d8)

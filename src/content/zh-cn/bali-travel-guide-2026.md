@@ -111,7 +111,7 @@ https://youtu.be/H5N5_UuK7TI
 
 - [星巴克Reserve Dewata咖啡大师课程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=922464&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F127649-starbucks-reserve-dewata-coffee-experience-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd6c14650a8)
 
-- [Kin Vegan Cooking Class](https://affiliate.klook.com/redirect?aid=32564&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F28068-kin-vegan-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1ba2ccc77a)
+- [Kin Vegan Cooking Class](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772181&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F28068-kin-vegan-cooking-class-seminyak%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1ba2ccc77a)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c2fe019bafedc7eb5860b11c5d97ceea.jpg)
 

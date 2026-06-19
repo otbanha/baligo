@@ -29,7 +29,7 @@ _srcHash: 808475ae43e772d2f2eb6db431dc35c6
 
 Bali has always been a popular vacation destination for travelers, and the Apurva Kempinski hotel in Nusa Dua is undoubtedly one of the top choices. This hotel, opened in February 2019 by the German hotel chain Kempinski, combines modern luxury design with traditional Balinese style, offering an unparalleled vacation experience.
 
-▶[What to do in Nusa Dua?](https://affiliate.klook.com/redirect?aid=40584&aff_adid=846658&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dnusa%2520dua%26spm%3DSearchResult.TopNavigation.SelectLanguage%26clickId%3D91635891aa)
+▶[What to do in Nusa Dua?](https://affiliate.klook.com/redirect?aid=116349&aff_adid=846658&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dnusa%2520dua%26spm%3DSearchResult.TopNavigation.SelectLanguage%26clickId%3D91635891aa)
 
 ## First Impressions
 
@@ -47,7 +47,7 @@ Visitors will first pass through security at the hotel entrance and be awed by t
 
 The hotel's most attractive feature is undoubtedly its renowned aquarium restaurant, KORAL. Located on the lower level of the hotel, the restaurant is surrounded by a massive aquarium, with box seats offering close-up views of tropical fish swimming gracefully, creating an exhilarating visual experience. Guests ordered the "KORAL Discovery Menu," where each dish was creatively presented, using fresh local ingredients for a refreshing taste. Besides the main courses, the pre-meal croissants and mixed salad with vinaigrette were also impressive, appetizing and delicious.
 
-[Aquarium Restaurant Dining Experience starting at USD$100](https://affiliate.klook.com/redirect?aid=40584&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90340-koral-restaurant-dining-the-apurva-kempinski-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2225956a4)
+[Aquarium Restaurant Dining Experience starting at USD$100](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90340-koral-restaurant-dining-the-apurva-kempinski-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2225956a4)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_ba53c5ecb5f27b7b8c273c29a84450be.jpg)
 
@@ -59,7 +59,7 @@ The unbeatable view during afternoon tea at Selasar Deli
 
 [Afternoon Tea Experience at Selasar Deli](/blog/apurva-kempinski-bali-nusa-dua/)
 
-> Book [Afternoon Tea at Selasar Deli Restaurant](https://affiliate.klook.com/redirect?aid=40584&aff_adid=1052045&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F58595-selasar-deli-apurva-kempinski-hotel-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D247caa596d)
+> Book [Afternoon Tea at Selasar Deli Restaurant](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052045&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F58595-selasar-deli-apurva-kempinski-hotel-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D247caa596d)
 
 > Kempinski Booking Links: [Agoda](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=5941544)  [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=25195229&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=IDR&barcurr=IDR&hoteluniquekey=H4sIAAAAAAAA_-N6ysTFJMEkdY-Jo-_ft1YmIWZDAyONvXwGDxgttso7ejysEllnP9fBc537w6opjxY6BPBETDnwfBp74grTs9Z-kY4OXYysYIEZjHefNvJsZAzaIdf6WrTKYQcj0wnG_89fMS1gWnXwDM8pFhaOLROdLrHsY4yuVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DAwtjU3EjPwAAoWpJY4ZkC1p2cmJNcmpNYkhpSWQA0xUhHKbPYuaQosyAoNTezpCQVqCotMac4FSQelFoMlEkGC4LMLoLyM_PzILoNUMTCEnNKUyEqgfa5pUKtMKyNfcTCFB37gmUv3ycWhl8sDE2sDF2sLBwT9rNOYmXlAPl3Fyuvr7OThaWnrmGIbpSu4QXWsyc_MEnJGxoYGJgaGpua6hokWloYGyUa6ZpYmhiZmumaG5qaGWn83tRx4ImxkbUUJDwVGLUE40M8PV0MSwpTzQpLLXOKCkwNGE8xShmaG1sYGhkaGhkZWRrrmVikmRVb5BVb5GZFeDAGsRm5mDgbm0fZcDGHBrsI5j7_vfKjkbSDFLOnS5BitNPtvXIulvZaIJ4hjBe4izls79NNvPaRMJEk1qoM3ZDwjONiBYwNjExdjNwCjB6MEYwVQB7jKkZ2LmYDI0MBpg2MjDsY_8MA4ytGkLEAIndwQlECAAA&masterhotelid_tracelogid=100051355-0a9832a2-494256-71562&detailFilters=17|1~17~1*31|25195229~31~25195229*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=270&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660)  [Booking.com](https://booking.tpm.li/QGYx9LPu)
 

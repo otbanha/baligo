@@ -95,13 +95,13 @@ It's also a low-key favorite getaway for stars like **David Beckham and Angelina
 
 ☕ **Breakfast Secret** | À la carte wellness menu with **butterfly pea flower pancakes and detox blue spirulina lattes**—unlimited refills!
 
-> Book the [Alila non-guest ocean-view dining experience here](https://affiliate.klook.com/redirect?aid=40584&aff_adid=1063734&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F156213-dining-experience-at-alila-villas-uluwatu%2F)
+> Book the [Alila non-guest ocean-view dining experience here](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063734&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F156213-dining-experience-at-alila-villas-uluwatu%2F)
 
 ### **3. Other Top-Notch Facilities**
 
 * **Award-Winning SPA**: The hotel's spa has also won Asia's Most Relaxing Spa award—the therapists are incredible! Try the 'Four-Hand Duet' Balinese treatment at Asia's best cliffside massage pavilion!
 
-> Try the [Alila Uluwatu SPA Experience](https://affiliate.klook.com/redirect?aid=40584&aff_adid=1052540&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F149732-spa-experience-at-alila-villas-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4ffe873d07)
+> Try the [Alila Uluwatu SPA Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052540&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F149732-spa-experience-at-alila-villas-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4ffe873d07)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_65b818dd7691344e2a1bfcfd92541364.jpg)
 

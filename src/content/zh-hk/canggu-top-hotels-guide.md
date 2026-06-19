@@ -37,15 +37,15 @@ _srcHash: 9e6462f2fe637a751e840cd8dfc9ef71
 
 ### 【唔好錯過呢啲坎古購票優惠】
 
-* Atlas Beach Fest 全亞洲最大嘅海灘俱樂部[優惠入場券](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80472-atlas-beach-club-admission-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad7b2e5830)
-* Finns Beach Club海灘俱樂部[暢玩通票](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14201-finns-beach-club-pass-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92e834a4de)
-* Cafe del Mar海灘俱樂部[一日通行證](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F85626-cafe-del-mar-beach-club-day-pass-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D07c5d6c77c)
-* Old Man沙灘[兩個鐘衝浪教學](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32669-surfing-lesson-old-mans-beach-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd23f3ea4ef)
-* 坎古[沙灘騎馬](https://affiliate.klook.com/redirect?aid=40584&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830)
-* 坎古[烹飪課程文化體驗](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
-* 坎古 [Spa & Yoga高級體驗](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
+* Atlas Beach Fest 全亞洲最大嘅海灘俱樂部[優惠入場券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80472-atlas-beach-club-admission-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad7b2e5830)
+* Finns Beach Club海灘俱樂部[暢玩通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14201-finns-beach-club-pass-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92e834a4de)
+* Cafe del Mar海灘俱樂部[一日通行證](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F85626-cafe-del-mar-beach-club-day-pass-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D07c5d6c77c)
+* Old Man沙灘[兩個鐘衝浪教學](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32669-surfing-lesson-old-mans-beach-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd23f3ea4ef)
+* 坎古[沙灘騎馬](https://affiliate.klook.com/redirect?aid=116349&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830)
+* 坎古[烹飪課程文化體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
+* 坎古 [Spa & Yoga高級體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
 * 坎古 [按摩SPA唔踩雷推薦](https://s.id/spa_guide)
-* 坎古 [到府按摩服務](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
+* 坎古 [到府按摩服務](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
 
 等我哋開始探索坎古嘅頂級住宿啦，為你嘅旅程增添更多精彩回憶！最底下仲有呢16間住宿推薦嘅地理位置圖。
 
@@ -340,16 +340,16 @@ Agoda 住客評分 9.0、Trip.com 9.2，呢個分數對一間啱開冇耐嘅小�
 
 ## 唔好錯過呢啲Canggu購票優惠
 
-* Atlas Beach Fest 全亞洲最大嘅海灘俱樂部[優惠入場券](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80472-atlas-beach-club-admission-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad7b2e5830)
-* Finns Beach Club海灘俱樂部[暢玩通票](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14201-finns-beach-club-pass-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92e834a4de)
-* Cafe del Mar海灘俱樂部[一日通行證](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F85626-cafe-del-mar-beach-club-day-pass-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D07c5d6c77c)
-* Old Man沙灘[兩小時衝浪教學](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32669-surfing-lesson-old-mans-beach-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd23f3ea4ef)
-* Canggu[沙灘騎馬](https://affiliate.klook.com/redirect?aid=40584&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830)
-* Canggu[烹飪課程文化體驗](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
-* Canggu [Spa & Yoga高級體驗](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
+* Atlas Beach Fest 全亞洲最大嘅海灘俱樂部[優惠入場券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F80472-atlas-beach-club-admission-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dad7b2e5830)
+* Finns Beach Club海灘俱樂部[暢玩通票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F14201-finns-beach-club-pass-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D92e834a4de)
+* Cafe del Mar海灘俱樂部[一日通行證](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F85626-cafe-del-mar-beach-club-day-pass-canggu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D07c5d6c77c)
+* Old Man沙灘[兩小時衝浪教學](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F32669-surfing-lesson-old-mans-beach-canggu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd23f3ea4ef)
+* Canggu[沙灘騎馬](https://affiliate.klook.com/redirect?aid=116349&aff_adid=763917&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F77068-horse-riding-combo-experience-bali-trip-premium%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D6afc1c8830)
+* Canggu[烹飪課程文化體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47581-plataran-canggu-cooking-class-cook-like-local%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7412a2aad0)
+* Canggu [Spa & Yoga高級體驗](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F84034-yoga-bodyworks-sundari-zahra-spa-yoga-barn-practice-samadi-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D9a66e55c7a)
 * Canggu [按摩SPA唔踩雷推薦](https://s.id/spa_guide)
-* Canggu [到府按摩服務](https://affiliate.klook.com/redirect?aid=40584&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
-* Canggu [美食優惠](https://affiliate.klook.com/redirect?aid=40584&aff_adid=931889&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50218418-canggu%2F2-food-and-dining%2F)
+* Canggu [到府按摩服務](https://affiliate.klook.com/redirect?aid=116349&aff_adid=758228&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D78adf0995c)
+* Canggu [美食優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=931889&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fdestination%2Fp50218418-canggu%2F2-food-and-dining%2F)
 
 {{block:canggu}}
 

@@ -86,7 +86,7 @@ _srcHash: 1af4034799a6305271949a9db1d76781
 
 原本计划去Cuca Restaurant享用甜点，但因行程延误最终没能成行。听说这里的甜点非常美味，留待下次再来品尝。
 
-> [金巴兰Cuca餐厅用餐体验优惠券](https://affiliate.klook.com/redirect?aid=40584&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91308-cuca-restaurant-dining-experience-jimbaran-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D9b67cc9507)
+> [金巴兰Cuca餐厅用餐体验优惠券](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91308-cuca-restaurant-dining-experience-jimbaran-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D9b67cc9507)
 
 ### Coco Supermarket Jimbaran
 
@@ -155,7 +155,7 @@ Mei Chen提供：乌鲁瓦图庙和卡恰火舞表演
 
 乘坐VW敞篷车游览南巴厘岛！途中停留Padang-Padang和Pandawa海滩，欣赏美景，抵达乌鲁瓦图寺观赏日落，享受金巴兰海鲜晚餐。套餐含接送、司机及燃料，无后顾之忧，尽情沉浸在巴厘岛的美好中！
 
-> [乌鲁瓦图VW敞篷车观光之旅](https://affiliate.klook.com/redirect?aid=40584&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74691-vw-safari-tour-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25ba5059df)
+> [乌鲁瓦图VW敞篷车观光之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74691-vw-safari-tour-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25ba5059df)
 
 {{block:uluwatu}}
 
@@ -200,7 +200,7 @@ Mei Chen提供：蓝梦岛浮潜
 
 ▶[订购KKday的蓝梦岛行程](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=%E8%97%8D%E5%A4%A2%E5%B3%B6&sort=prec&cid=17351)
 
-▶[订购Klook的蓝梦岛行程](https://affiliate.klook.com/redirect?aid=40584&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2597%258D%25E5%25A4%25A2%25E5%25B3%25B6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3Db53bc9ec3d)
+▶[订购Klook的蓝梦岛行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2597%258D%25E5%25A4%25A2%25E5%25B3%25B6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3Db53bc9ec3d)
 
 https://youtu.be/SpcgZ4iK7qs
 
@@ -318,7 +318,7 @@ Mei Chen提供：民宿的云海
 
 ▶[订购KKday的巴杜尔火山行程](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=Batur&qs=Batur&cid=17351)
 
-▶[订购Klook的巴杜尔火山行程](https://affiliate.klook.com/redirect?aid=40584&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbatur%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D3593bf58b0)
+▶[订购Klook的巴杜尔火山行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbatur%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D3593bf58b0)
 
 ### Batur view Homestay餐厅
 
@@ -354,7 +354,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_bc3b7c4acc8c1fc58855d174cb296195.png)
 
-▶Klook 的 [Tebasari Resto 用餐优惠](https://affiliate.klook.com/redirect?aid=40584&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d66f7452f)
+▶Klook 的 [Tebasari Resto 用餐优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d66f7452f)
 
 ▶[KKday 的 Tebasari Resto 套餐优惠](https://www.kkday.com/zh-tw/product/165113?qs=Tebasari%20Resto&cid=17351)
 
@@ -415,20 +415,20 @@ https://youtu.be/JtxZHtijEkE
 
 **预约乌布的其他中价位SPA：**
 
-* [Svaha Spa Bisma 森林景观水疗＆按摩体验](https://affiliate.klook.com/redirect?aid=40584&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82335-svaha-spa-bisma-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df93f7493d7)
-* [Svaha Spa Kenderan 山谷景观水疗＆按摩体验](https://affiliate.klook.com/redirect?aid=40584&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82339-svaha-spa-kenderan-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D685257358e)
-* [桑卡拉度假村Radha Spa体验](https://affiliate.klook.com/redirect?aid=40584&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54796-radha-spa-sankara-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De8dd628596)
-* [Mekar Ubud Jungle Spa 按摩体验](https://affiliate.klook.com/redirect?aid=40584&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4d2ec00d90)
-* [南迪尼丛林水疗度假村溪谷 Spa](https://affiliate.klook.com/redirect?aid=40584&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76292-sungai-spa-nandini-jungle-resort-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddc4550500f)
-* [Plataran Ubud Padma Spa按摩水疗体验](https://affiliate.klook.com/redirect?aid=40584&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47239-padma-spa-experience-plataran-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4e39b354ac)
-* [Chapung Wellness Spa按摩体验](https://affiliate.klook.com/redirect?aid=40584&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25469-chapung-wellness-spa-experience-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4a071faffe)
+* [Svaha Spa Bisma 森林景观水疗＆按摩体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82335-svaha-spa-bisma-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df93f7493d7)
+* [Svaha Spa Kenderan 山谷景观水疗＆按摩体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82339-svaha-spa-kenderan-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D685257358e)
+* [桑卡拉度假村Radha Spa体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54796-radha-spa-sankara-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De8dd628596)
+* [Mekar Ubud Jungle Spa 按摩体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4d2ec00d90)
+* [南迪尼丛林水疗度假村溪谷 Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76292-sungai-spa-nandini-jungle-resort-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddc4550500f)
+* [Plataran Ubud Padma Spa按摩水疗体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47239-padma-spa-experience-plataran-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4e39b354ac)
+* [Chapung Wellness Spa按摩体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25469-chapung-wellness-spa-experience-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4a071faffe)
 
 **预约乌布五星级SPA：**
 
-* [Spa Experience](https://affiliate.klook.com/redirect?aid=40584&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F104817-spa-experience-tanah-gajah-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5d3c532587)at Tanah Gajah
-* [Radha Spa](https://affiliate.klook.com/redirect?aid=40584&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F95733-radha-spa-at-the-sankara-suites-villa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7714086322) at The Sankara Suites & Villas
-* [Serayu Spa](https://affiliate.klook.com/redirect?aid=40584&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F94005-serayu-spa-at-the-kayon-jungle-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1996e8ee57) at The Kayon Jungle Resort
-* [Mekar Ubud Jungle Spa](https://affiliate.klook.com/redirect?aid=40584&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D24dcb28ae7) Experience
+* [Spa Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F104817-spa-experience-tanah-gajah-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5d3c532587)at Tanah Gajah
+* [Radha Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F95733-radha-spa-at-the-sankara-suites-villa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7714086322) at The Sankara Suites & Villas
+* [Serayu Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F94005-serayu-spa-at-the-kayon-jungle-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1996e8ee57) at The Kayon Jungle Resort
+* [Mekar Ubud Jungle Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D24dcb28ae7) Experience
 
 ### 踩雷住宿 - CLV Hotel and Villa
 

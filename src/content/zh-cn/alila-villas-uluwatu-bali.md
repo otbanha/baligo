@@ -92,13 +92,13 @@ _srcHash: 8478051b38bfd5e5a28902fc20a08430
 
 ☕ **早餐秘密**：单点制养生菜单，**蝶豆花松饼、排毒蓝藻拿铁**无限续～
 
-> 可以在这里订[Alila非住客海景餐饮体验](https://affiliate.klook.com/redirect?aid=40584&aff_adid=1063734&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F156213-dining-experience-at-alila-villas-uluwatu%2F)
+> 可以在这里订[Alila非住客海景餐饮体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1063734&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F156213-dining-experience-at-alila-villas-uluwatu%2F)
 
 ### **3. 其他顶级设施**
 
 * **获奖SPA**：酒店的spa也曾获得亚洲最令人放松的spa奖项，按摩师很厉害！亚洲最佳悬崖按摩亭，试试「双人四手」巴厘岛式疗法！
 
-> 试试看 [Alila Uluwatu SPA体验](https://affiliate.klook.com/redirect?aid=40584&aff_adid=1052540&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F149732-spa-experience-at-alila-villas-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4ffe873d07)
+> 试试看 [Alila Uluwatu SPA体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052540&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F149732-spa-experience-at-alila-villas-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4ffe873d07)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_65b818dd7691344e2a1bfcfd92541364.jpg)
 

@@ -89,7 +89,7 @@ For dinner, we chose Lia Cafe, which charges an additional 10% service fee and a
 
 We originally planned to visit Cuca Restaurant for desserts, but due to schedule delays, we didn't make it. I've heard their desserts are delicious, so we'll save it for next time.
 
-> [Cuca Restaurant Dining Experience Voucher in Jimbaran](https://affiliate.klook.com/redirect?aid=40584&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91308-cuca-restaurant-dining-experience-jimbaran-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D9b67cc9507)
+> [Cuca Restaurant Dining Experience Voucher in Jimbaran](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F91308-cuca-restaurant-dining-experience-jimbaran-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3D9b67cc9507)
 
 ### Coco Supermarket Jimbaran
 
@@ -158,7 +158,7 @@ In the afternoon, we went to Uluwatu Temple to watch the sunset and the fire dan
 
 Take a VW convertible tour of South Bali! Stop at Padang-Padang and Pandawa beaches to soak in the views, arrive at Uluwatu Temple for sunset, and enjoy a seafood dinner in Jimbaran. The package includes pickup, driver, and fuel—no worries, just immerse yourself in the beauty of Bali!
 
-> [Uluwatu VW Convertible Tour](https://affiliate.klook.com/redirect?aid=40584&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74691-vw-safari-tour-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25ba5059df)
+> [Uluwatu VW Convertible Tour](https://affiliate.klook.com/redirect?aid=116349&aff_adid=849197&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F74691-vw-safari-tour-uluwatu-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D25ba5059df)
 
 {{block:uluwatu}}
 
@@ -203,7 +203,7 @@ Provided by Mei Chen: Snorkeling at Nusa Lembongan
 
 ▶[Book Nusa Lembongan tour on KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=%E8%97%8D%E5%A4%A2%E5%B3%B6&sort=prec&cid=17351)
 
-▶[Book Nusa Lembongan tour on Klook](https://affiliate.klook.com/redirect?aid=40584&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2597%258D%25E5%25A4%25A2%25E5%25B3%25B6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3Db53bc9ec3d)
+▶[Book Nusa Lembongan tour on Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2597%258D%25E5%25A4%25A2%25E5%25B3%25B6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3Db53bc9ec3d)
 
 https://youtu.be/SpcgZ4iK7qs
 
@@ -321,7 +321,7 @@ You can also join:
 
 ▶ [Book the Batur Volcano tour on KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=Batur&qs=Batur&cid=17351)
 
-▶ [Book the Batur Volcano tour on Klook](https://affiliate.klook.com/redirect?aid=40584&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbatur%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D3593bf58b0)
+▶ [Book the Batur Volcano tour on Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbatur%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D3593bf58b0)
 
 ### Batur View Homestay Restaurant
 
@@ -357,7 +357,7 @@ You might also want to try the dirty duck rice at Bebek Tebasari Resto, which is
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_bc3b7c4acc8c1fc58855d174cb296195.png)
 
-▶Klook's [Tebasari Resto Dining Offer](https://affiliate.klook.com/redirect?aid=40584&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d66f7452f)
+▶Klook's [Tebasari Resto Dining Offer](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d66f7452f)
 
 ▶[KKday's Tebasari Resto Set Meal Offer](https://www.kkday.com/zh-tw/product/165113?qs=Tebasari%20Resto&cid=17351)
 
@@ -418,20 +418,20 @@ In the afternoon, we headed to Yeh Pulu Spa and opted for a Balinese massage—9
 
 **Book Other Mid-Range Spas in Ubud:**
 
-* [Svaha Spa Bisma – Forest View Spa & Massage Experience](https://affiliate.klook.com/redirect?aid=40584&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82335-svaha-spa-bisma-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df93f7493d7)
-* [Svaha Spa Kenderan – Valley View Spa & Massage Experience](https://affiliate.klook.com/redirect?aid=40584&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82339-svaha-spa-kenderan-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D685257358e)
-* [Radha Spa at Sankara Resort](https://affiliate.klook.com/redirect?aid=40584&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54796-radha-spa-sankara-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De8dd628596)
-* [Mekar Ubud Jungle Spa Massage Experience](https://affiliate.klook.com/redirect?aid=40584&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4d2ec00d90)
-* [Sungai Spa at Nandini Jungle Resort & Spa](https://affiliate.klook.com/redirect?aid=40584&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76292-sungai-spa-nandini-jungle-resort-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddc4550500f)
-* [Padma Spa at Plataran Ubud](https://affiliate.klook.com/redirect?aid=40584&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47239-padma-spa-experience-plataran-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4e39b354ac)
-* [Chapung Wellness Spa Massage Experience](https://affiliate.klook.com/redirect?aid=40584&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25469-chapung-wellness-spa-experience-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4a071faffe)
+* [Svaha Spa Bisma – Forest View Spa & Massage Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82335-svaha-spa-bisma-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Df93f7493d7)
+* [Svaha Spa Kenderan – Valley View Spa & Massage Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F82339-svaha-spa-kenderan-ubud-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D685257358e)
+* [Radha Spa at Sankara Resort](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54796-radha-spa-sankara-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3De8dd628596)
+* [Mekar Ubud Jungle Spa Massage Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4d2ec00d90)
+* [Sungai Spa at Nandini Jungle Resort & Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F76292-sungai-spa-nandini-jungle-resort-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Ddc4550500f)
+* [Padma Spa at Plataran Ubud](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F47239-padma-spa-experience-plataran-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4e39b354ac)
+* [Chapung Wellness Spa Massage Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=773659&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F25469-chapung-wellness-spa-experience-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4a071faffe)
 
 **Book 5-Star Spas in Ubud:**
 
-* [Spa Experience](https://affiliate.klook.com/redirect?aid=40584&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F104817-spa-experience-tanah-gajah-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5d3c532587) at Tanah Gajah
-* [Radha Spa](https://affiliate.klook.com/redirect?aid=40584&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F95733-radha-spa-at-the-sankara-suites-villa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7714086322) at The Sankara Suites & Villas
-* [Serayu Spa](https://affiliate.klook.com/redirect?aid=40584&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F94005-serayu-spa-at-the-kayon-jungle-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1996e8ee57) at The Kayon Jungle Resort
-* [Mekar Ubud Jungle Spa](https://affiliate.klook.com/redirect?aid=40584&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D24dcb28ae7) Experience
+* [Spa Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F104817-spa-experience-tanah-gajah-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D5d3c532587) at Tanah Gajah
+* [Radha Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F95733-radha-spa-at-the-sankara-suites-villa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7714086322) at The Sankara Suites & Villas
+* [Serayu Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F94005-serayu-spa-at-the-kayon-jungle-resort-ubud%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D1996e8ee57) at The Kayon Jungle Resort
+* [Mekar Ubud Jungle Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=814458&k_site=https%3A%2F%2Fwww.klook.com%2Factivity%2F87616-mekar-ubud-jungle-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D24dcb28ae7) Experience
 
 ### A Disastrous Stay – CLV Hotel and Villa
 
