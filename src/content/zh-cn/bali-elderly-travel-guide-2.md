@@ -91,7 +91,7 @@ Ani知道我妈妈爱拍照，于是推荐了一个荡秋千的行程，每人40
 
 > [Mason Elephant Park官网](https://www.masonelephantlodge.com/)
 
-> Mason Elephant Park[优惠门票](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=17351)
+> Mason Elephant Park[优惠门票](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=25072)
 
 ## 第三天：攀登巴杜尔火山
 

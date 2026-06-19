@@ -202,7 +202,7 @@ Mei Chen cerita: Snorkeling di Nusa Lembongan
 1. **Snorkeling Island Hopping Nusa Lembongan** Grup pertama pergi snorkeling island hopping ke Nusa Lembongan. Pagi-pagi jalan kaki ke pelabuhan, waktu snorkeling dari jam 08:45 sampai 15:15. Kami booking paket ini di KKday karena harganya lebih murah dari Klook, dan pas ulang tahun bulan Mei ada kupon diskon, plus dapat foto dan video gratis.
 2. **Istirahat di Hotel** Grup kedua yang nggak ikut snorkeling istirahat di hotel, nikmatin tidur siang dan main air. Check out jam 12 siang, mereka titip barang, lalu jalan-jalan ke Pantai Sanur.
 
-▶[Pesan paket Nusa Lembongan di KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=%E8%97%8D%E5%A4%A2%E5%B3%B6&sort=prec&cid=17351)
+▶[Pesan paket Nusa Lembongan di KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=%E8%97%8D%E5%A4%A2%E5%B3%B6&sort=prec&cid=25072)
 
 ▶[Pesan paket Nusa Lembongan di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2597%258D%25E5%25A4%25A2%25E5%25B3%25B6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3Db53bc9ec3d)
 
@@ -320,7 +320,7 @@ Pagi-pagi kita udah di balkon homestay, menikmati pemandangan Gunung Batur — l
 
 Kamu juga bisa ikutan:
 
-▶ [Pesan paket Gunung Batur via KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=Batur&qs=Batur&cid=17351)
+▶ [Pesan paket Gunung Batur via KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=Batur&qs=Batur&cid=25072)
 
 ▶ [Pesan paket Gunung Batur via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbatur%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D3593bf58b0)
 
@@ -360,7 +360,7 @@ Kamu juga bisa cobain bebek goreng kotor (dirty duck) dari grup restoran yang sa
 
 ▶Klook [Promo Makan di Tebasari Resto](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d66f7452f)
 
-▶[KKday Paket Promo Tebasari Resto](https://www.kkday.com/zh-tw/product/165113?qs=Tebasari%20Resto&cid=17351)
+▶[KKday Paket Promo Tebasari Resto](https://www.kkday.com/zh-tw/product/165113?qs=Tebasari%20Resto&cid=25072)
 
 ### Check-in Hotel, Main Air, dan Ngopi Sore
 

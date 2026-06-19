@@ -334,7 +334,7 @@ Dapur Bali 烹饪课程位于肉桂私人别墅（Kayumanis Nusa Dua Private Vil
 我们有详细的介绍请看[这里](/blog/devdan-show-nusa-dua/)
 
 > [Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
-> [kkday购票链接](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=17351)
+> [kkday购票链接](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
 
 ### 海龟岛、玻璃底船、红树林巡航
 

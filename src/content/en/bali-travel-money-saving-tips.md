@@ -71,7 +71,7 @@ Booking tours and activities online before your trip is a great way to save mone
 
 **➡️**[**Click here for Klook's Bali deals**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)**⬅️**
 
-**➡️**[**Click here for Kkday's Bali deals**](https://www.kkday.com/zh-tw/city/bali?cid=17351)**⬅️**
+**➡️**[**Click here for Kkday's Bali deals**](https://www.kkday.com/zh-tw/city/bali?cid=25072)**⬅️**
 
 ## 5. Enjoy Food Like a Local
 

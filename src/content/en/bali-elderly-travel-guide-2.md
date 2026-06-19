@@ -91,7 +91,7 @@ For travelers who love elephants, this is a fantastic experience. The elephant p
 
 > [Mason Elephant Park Official Website](https://www.masonelephantlodge.com/)
 
-> Mason Elephant Park [Discount Tickets](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=17351)
+> Mason Elephant Park [Discount Tickets](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=25072)
 
 ## Day 3: Climbing Mount Batur
 

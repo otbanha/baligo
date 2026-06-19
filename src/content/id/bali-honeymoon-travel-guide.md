@@ -63,7 +63,7 @@ Rencana makan kita kali ini mostly sarapan (hotel), teh sore (hotel), dan makan 
 
 **Teh Sore**: Kita pilih afternoon tea di Hotel Indigo Seminyak dan Four Seasons. Dua-duanya recomended banget! 
 
-> ▶ Aku juga mau pesan [Afternoon Tea/Dining di Hotel Indigo Seminyak](https://www.kkday.com/zh-tw/product/31018-sugarsand-dining-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=17351)
+> ▶ Aku juga mau pesan [Afternoon Tea/Dining di Hotel Indigo Seminyak](https://www.kkday.com/zh-tw/product/31018-sugarsand-dining-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=25072)
 
 ### Rekomendasi Editor: Kuliner Kece di Seminyak ([Panduan Peta](https://www.google.com/maps/d/u/0/edit?mid=1il-sYTIMNMSVrVWqSnUPgdlsbCfMPP0&usp=sharing)🗺️)
 

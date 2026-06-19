@@ -20,7 +20,7 @@ originalUrl: 'https://vocus.cc/article/684118d7fd897800017b1abb'
 lang: id
 _srcHash: 69a17018d7fb2c4903d0de3cd70118e2
 ---
-Kali ini kita booking paket tur kuliner malam dengan guide berbahasa Mandarin/Inggris lewat **KKday** ([link tur](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=17351)), siap-siap menjelajahi **pasar malam terbesar dan paling otentik di Bali — Pasar Kreneng**! Begitu masuk, langsung disambut aroma rempah yang kuat, bau bakaran arang, dan suara pedagang yang saling sahut-sahutan dalam bahasa Indonesia. Di sini nyaris nggak ada turis, sebagian besar pedagang cuma bisa bahasa Indonesia, dan menu pun nggak pakai tulisan Inggris — **kalau nggak ada yang ngantar, beneran nggak berani asal masuk!**
+Kali ini kita booking paket tur kuliner malam dengan guide berbahasa Mandarin/Inggris lewat **KKday** ([link tur](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=25072)), siap-siap menjelajahi **pasar malam terbesar dan paling otentik di Bali — Pasar Kreneng**! Begitu masuk, langsung disambut aroma rempah yang kuat, bau bakaran arang, dan suara pedagang yang saling sahut-sahutan dalam bahasa Indonesia. Di sini nyaris nggak ada turis, sebagian besar pedagang cuma bisa bahasa Indonesia, dan menu pun nggak pakai tulisan Inggris — **kalau nggak ada yang ngantar, beneran nggak berani asal masuk!**
 
 Soalnya, di pasar lokal murni kayak gini, urusan pesan makanan aja udah jadi tantangan berat. Kamu pengen cobain **Babi Guling**, tapi bingung mana yang paling otentik; mau coba makanan yang nggak dikenal, tapi nggak yakin sambalnya bakal kepedesan; bahkan cara pesan minuman dan bayar yang wajar aja bisa bikin pusing.
 
@@ -74,7 +74,7 @@ Empat jam petualangan rasa berakhir, Wayan ngasih air mineral dingin dan ngecek 
 - Jangan lupa bawa uang tunai Rupiah (kebanyakan pedagang nggak terima kartu kredit) sama tisu basah (beberapa lapak mungkin nggak sediain alat makan)
 - Tur ini punya tiga pilihan: **gabung grup, private tour, dan luxury tour**. Kita ambil private tour, udah termasuk air minum kemasan, pemandu profesional, plus antar jemput hotel dari area selatan Ubud (termasuk Ubud). Buat yang pengin lebih nyaman, luxury tour juga kasih mobil luas dengan Wi-Fi, speaker Bluetooth, plus camilan, handuk dingin, dan cooler box isi bir, minuman ringan, serta air mineral — bikin kamu bisa nikmatin layanan premium sebelum dan sesudah wisata kuliner!
 
-▶Ikut [tur malam hari dengan pemandu bahasa Mandarin/Inggris dari KKday](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=17351)
+▶Ikut [tur malam hari dengan pemandu bahasa Mandarin/Inggris dari KKday](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=25072)
 
 ## Petualangan Malam Xiao Jie di Pasar Malam Tahun 2022
 

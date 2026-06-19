@@ -91,7 +91,7 @@ Buat traveler yang suka gajah, ini pengalaman yang juara. Taman gajah ini kayakn
 
 > [Situs Resmi Mason Elephant Park](https://www.masonelephantlodge.com/)
 
-> [Tiket Diskon Mason Elephant Park](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=17351)
+> [Tiket Diskon Mason Elephant Park](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=25072)
 
 ## Hari Ketiga: Mendaki Gunung Batur
 

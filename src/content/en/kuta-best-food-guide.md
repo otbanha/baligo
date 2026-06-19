@@ -35,7 +35,7 @@ Located in the heart of Kuta, this restaurant under a five-star hotel offers Ame
 
 Enjoy a refined two or three-course lunch/dinner set at Bene Italian Kitchen, located in the Sheraton Bali Kuta Resort. Situated on the second floor, the restaurant offers stunning views of the Indian Ocean, combining a comfortable and relaxed atmosphere with modern and stylish decor for a feast for both the eyes and palate. Choose your favorite set menu and indulge in a variety of dishes, from authentic Indonesian flavors to classic Italian cuisine and international fusion dishes.
 
-Dine with a captivating view of Kuta Beach, making every moment a cherished memory. [KKday Coupon](https://www.kkday.com/zh-tw/product/133758-2-3-or-4-course-set-lunch-or-dinner-at-bene-italian-kitchen-sheraton-bali-kuta-resort?qs=Bene%20Italian%20Kitchen&cid=17351)
+Dine with a captivating view of Kuta Beach, making every moment a cherished memory. [KKday Coupon](https://www.kkday.com/zh-tw/product/133758-2-3-or-4-course-set-lunch-or-dinner-at-bene-italian-kitchen-sheraton-bali-kuta-resort?qs=Bene%20Italian%20Kitchen&cid=25072)
 
 ### Fat Chow (👉🏼 Map: [Kuta Food Recommendations](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)) **Google 4.5 stars**
 

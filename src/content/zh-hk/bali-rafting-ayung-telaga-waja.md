@@ -54,7 +54,7 @@ _srcHash: 2351a32ae258e5b76ca8c7e70911f10c
 
 ### **5. 激流活動可唔可以用信用卡付款？**
 
-有啲公司接受信用卡付款。但係有啲公司唔接受信用卡，請帶現金（美金或印尼盾）付款。現場嘅價錢通常比較貴，建議可以透過網上預訂會抵啲：[KKday預訂](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=17351)｜ [Klook預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
+有啲公司接受信用卡付款。但係有啲公司唔接受信用卡，請帶現金（美金或印尼盾）付款。現場嘅價錢通常比較貴，建議可以透過網上預訂會抵啲：[KKday預訂](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=25072)｜ [Klook預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
 
 ### **6. 如果落雨，激流活動會唔會取消？**
 
@@ -78,7 +78,7 @@ _srcHash: 2351a32ae258e5b76ca8c7e70911f10c
 
 ### **10. 玩獨木舟活動需要業者提供保險嗎？**
 
-大多數獨木舟業者都會為參加者提供基本保險，建議用合法嘅業者會提供更全面嘅保障。[KKday預訂](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=17351)｜ [Klook預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
+大多數獨木舟業者都會為參加者提供基本保險，建議用合法嘅業者會提供更全面嘅保障。[KKday預訂](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=25072)｜ [Klook預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
 
 ### **11. 玩獨木舟活動嘅最佳時間係幾時？**
 
@@ -86,7 +86,7 @@ _srcHash: 2351a32ae258e5b76ca8c7e70911f10c
 
 ### **12. 玩獨木舟活動需要提早預訂嗎？**
 
-為咗確保有位，特別係旅遊旺季，建議提早預訂泛舟行程。咁樣仲可以了解行程細節，同埋同泛舟公司確認相關安排。​[KKday預訂](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=17351)｜ [Klook預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
+為咗確保有位，特別係旅遊旺季，建議提早預訂泛舟行程。咁樣仲可以了解行程細節，同埋同泛舟公司確認相關安排。​[KKday預訂](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=25072)｜ [Klook預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
 
 ### **13. 泛舟活動嘅費用係幾多？**
 
@@ -145,7 +145,7 @@ _srcHash: 2351a32ae258e5b76ca8c7e70911f10c
 
 ### **25. 泛舟活動適唔適合團體參加？**
 
-係嘅，泛舟活動好適合團體參加，例如家庭、朋友或者公司團隊。咁樣可以增進彼此之間嘅合作同默契，仲可以一齊分享刺激同樂趣。建議提早同公司協調，確保行程安排符合團體需求。[KKday預訂](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=17351)｜ [Klook預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
+係嘅，泛舟活動好適合團體參加，例如家庭、朋友或者公司團隊。咁樣可以增進彼此之間嘅合作同默契，仲可以一齊分享刺激同樂趣。建議提早同公司協調，確保行程安排符合團體需求。[KKday預訂](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=25072)｜ [Klook預訂](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
 
 ### 26. 玩泛舟嘅時候，護照同錢放邊度比較安全？
 

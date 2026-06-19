@@ -88,7 +88,7 @@ Seluruh pertunjukan berlangsung di **Bali Nusa Dua Theatre** yang super lengkap,
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fb4c9945a879000f0724b9bb1faa1fff.png)
 
 > [Link pembelian tiket Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
-> [Link pembelian tiket KKday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=17351)
+> [Link pembelian tiket KKday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
 
 **Jadwal Devdan Show & Saran Pengaturan**
 
@@ -123,7 +123,7 @@ Pertunjukan ini basically merangkum budaya dari lima pulau besar Indonesia, gabu
 Dalam waktu cuma 90 menit, kamu bakal diajak menjelajahi lima pulau besar Indonesia, menikmati petualangan budaya yang menggabungkan musik, tari, akrobat, dan seni.
 
 > [Link pembelian tiket Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
-> [Link pembelian tiket KKday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=17351)
+> [Link pembelian tiket KKday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
 
 ***
 

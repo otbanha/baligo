@@ -73,7 +73,7 @@ _srcHash: 0619f467cb1a237b0f84340e0504dfe6
 
 > [Mason Elephant Park官网](https://www.masonelephantlodge.com/)
 
-> Mason Elephant Park[优惠门票](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=17351)
+> Mason Elephant Park[优惠门票](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=25072)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6e4733feba662f7ac7c16978f32a21d3.jpg)
 

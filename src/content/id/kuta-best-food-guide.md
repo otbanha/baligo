@@ -35,7 +35,7 @@ Berlokasi di kawasan paling ramai di Kuta, restoran milik hotel bintang lima ini
 
 Di restoran Italia Bene yang ada di Sheraton Bali Kuta Resort, kamu bisa menikmati paket makan siang atau makan malam 2 atau 3 hidangan yang elegan. Restorannya ada di lantai dua, dengan pemandangan laut Samudra Hindia yang kece abis, ditambah suasana santai dan dekorasi modern — bikin pengalaman makan jadi double nikmat. Pilih paket favoritmu, dan cicipi berbagai pilihan menu mulai dari cita rasa Indonesia asli, hidangan Italia klasik, sampai masakan fusion internasional — semua ada.
 
-Makan sambil menikmati pemandangan Pantai Kuta yang memukau, bikin setiap momen jadi kenangan manis. [Voucher diskon KKday](https://www.kkday.com/zh-tw/product/133758-2-3-or-4-course-set-lunch-or-dinner-at-bene-italian-kitchen-sheraton-bali-kuta-resort?qs=Bene%20Italian%20Kitchen&cid=17351)
+Makan sambil menikmati pemandangan Pantai Kuta yang memukau, bikin setiap momen jadi kenangan manis. [Voucher diskon KKday](https://www.kkday.com/zh-tw/product/133758-2-3-or-4-course-set-lunch-or-dinner-at-bene-italian-kitchen-sheraton-bali-kuta-resort?qs=Bene%20Italian%20Kitchen&cid=25072)
 
 ### Fat Chow（👉🏼Peta: [Rekomendasi Makanan di Kuta](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）**Google 4.5 Bintang**
 

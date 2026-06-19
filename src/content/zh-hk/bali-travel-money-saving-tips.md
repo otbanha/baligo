@@ -68,7 +68,7 @@ _srcHash: 261db7ba00d961883bb7a77d7d61c147
 
 **➡️**[**Klook峇里島超值優惠請撳我**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)**⬅️**
 
-**➡️**[**Kkday峇里島超值優惠請撳我**](https://www.kkday.com/zh-tw/city/bali?cid=17351)**⬅️**
+**➡️**[**Kkday峇里島超值優惠請撳我**](https://www.kkday.com/zh-tw/city/bali?cid=25072)**⬅️**
 
 ## 5. 好似當地人咁享受美食
 

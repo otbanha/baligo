@@ -71,7 +71,7 @@ Sebelum berangkat, pesan tur dan aktivitas secara online itu cara jitu buat hema
 
 **➡️**[**Klik Disini untuk Diskon Klook Bali**](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)**⬅️**
 
-**➡️**[**Klik Disini untuk Diskon Kkday Bali**](https://www.kkday.com/zh-tw/city/bali?cid=17351)**⬅️**
+**➡️**[**Klik Disini untuk Diskon Kkday Bali**](https://www.kkday.com/zh-tw/city/bali?cid=25072)**⬅️**
 
 ## 5. Nikmatin Makanan Kayak Warga Lokal
 

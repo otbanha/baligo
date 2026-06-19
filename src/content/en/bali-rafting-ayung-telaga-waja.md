@@ -61,7 +61,7 @@ For safety reasons, individuals who are completely immobile (with both legs disa
 
 ### **5. Can I pay with a credit card for rafting activities?**
 
-Some operators accept credit card payments. However, others may not, so it's advisable to bring cash (USD or Indonesian Rupiah) for payment. Prices on-site are usually high, so booking online in advance is recommended for better deals: [KKday Booking](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=17351)｜ [Klook Booking](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
+Some operators accept credit card payments. However, others may not, so it's advisable to bring cash (USD or Indonesian Rupiah) for payment. Prices on-site are usually high, so booking online in advance is recommended for better deals: [KKday Booking](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=25072)｜ [Klook Booking](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
 
 ### **6. Will rafting activities be canceled if it rains?**
 
@@ -91,7 +91,7 @@ Most rafting operators provide basic insurance for participants. It is recommend
 
 ### **11. What is the Best Time for Rafting Activities?**
 
-To secure a spot, especially during peak travel seasons, it's advisable to book your rafting trip in advance. This also helps you understand the itinerary details and confirm arrangements with the rafting company. [Book on KKday](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=17351)｜ [Book on Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
+To secure a spot, especially during peak travel seasons, it's advisable to book your rafting trip in advance. This also helps you understand the itinerary details and confirm arrangements with the rafting company. [Book on KKday](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=25072)｜ [Book on Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
 
 ### **13. How much does rafting cost?**
 
@@ -150,7 +150,7 @@ Many rafting operators arrange photographers to capture exciting moments during 
 
 ### **25. Is rafting suitable for group participation?**
 
-Yes, rafting is an excellent activity for groups, whether families, friends, or corporate teams. It not only enhances cooperation and rapport among participants but also allows everyone to share in the excitement and fun together. It's advisable to coordinate with the operator in advance to ensure the itinerary meets the group's needs. [KKday Booking](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=17351)｜ [Klook Booking](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
+Yes, rafting is an excellent activity for groups, whether families, friends, or corporate teams. It not only enhances cooperation and rapport among participants but also allows everyone to share in the excitement and fun together. It's advisable to coordinate with the operator in advance to ensure the itinerary meets the group's needs. [KKday Booking](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=25072)｜ [Klook Booking](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
 
 ### 26. Where is the safest place to keep passports and money during rafting?
 

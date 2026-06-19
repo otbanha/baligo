@@ -201,7 +201,7 @@ Provided by Mei Chen: Snorkeling at Nusa Lembongan
 1. **Nusa Lembongan Island Hopping Snorkeling** The first group went for island hopping snorkeling at Nusa Lembongan. They walked to the harbor in the morning, with snorkeling from 08:45 to 15:15. We booked this tour on KKday because it was cheaper than Klook, and the May anniversary promotion offered discount coupons, plus free photos and videos.
 2. **Hotel Rest** The second group, who didn't join the snorkeling, rested at the hotel, enjoying sleeping in and playing in the water. After checking out at noon, they stored their luggage and headed to Sanur Beach for a stroll.
 
-▶[Book Nusa Lembongan tour on KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=%E8%97%8D%E5%A4%A2%E5%B3%B6&sort=prec&cid=17351)
+▶[Book Nusa Lembongan tour on KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=%E8%97%8D%E5%A4%A2%E5%B3%B6&sort=prec&cid=25072)
 
 ▶[Book Nusa Lembongan tour on Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2597%258D%25E5%25A4%25A2%25E5%25B3%25B6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3Db53bc9ec3d)
 
@@ -319,7 +319,7 @@ We woke up early to watch Mount Batur from our balcony, witnessing a magnificent
 
 You can also join:
 
-▶ [Book the Batur Volcano tour on KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=Batur&qs=Batur&cid=17351)
+▶ [Book the Batur Volcano tour on KKday](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=Batur&qs=Batur&cid=25072)
 
 ▶ [Book the Batur Volcano tour on Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbatur%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D3593bf58b0)
 
@@ -359,7 +359,7 @@ You might also want to try the dirty duck rice at Bebek Tebasari Resto, which is
 
 ▶Klook's [Tebasari Resto Dining Offer](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d66f7452f)
 
-▶[KKday's Tebasari Resto Set Meal Offer](https://www.kkday.com/zh-tw/product/165113?qs=Tebasari%20Resto&cid=17351)
+▶[KKday's Tebasari Resto Set Meal Offer](https://www.kkday.com/zh-tw/product/165113?qs=Tebasari%20Resto&cid=25072)
 
 ### Hotel Check-in, Pool Time & Afternoon Tea
 

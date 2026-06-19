@@ -76,7 +76,7 @@ Get up close and personal with adorable elephants, sharing joyful moments togeth
 
 > [Mason Elephant Park Official Website](https://www.masonelephantlodge.com/)
 
-> Mason Elephant Park [Discounted Tickets](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=17351)
+> Mason Elephant Park [Discounted Tickets](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=25072)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6e4733feba662f7ac7c16978f32a21d3.jpg)
 

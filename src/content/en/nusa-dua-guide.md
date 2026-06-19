@@ -339,7 +339,7 @@ This grand stage performance, held only three times a week, takes audiences on a
 For a detailed introduction, please check [here](/blog/devdan-show-nusa-dua/)
 
 > [Klook Ticket Link](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
-> [kkday Ticket Link](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=17351)
+> [kkday Ticket Link](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
 
 ### Turtle Island, Glass Bottom Boat, Mangrove Cruise
 

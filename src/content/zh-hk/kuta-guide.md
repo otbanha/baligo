@@ -319,7 +319,7 @@ https://youtu.be/mxnU1BxJCcM
 
 喺峇里島庫塔喜來登渡假村 Bene 意大利餐廳，享受精緻嘅二道式或三道式午餐／晚餐套餐。餐廳位於二樓，可以一覽壯麗嘅印度洋海景，結合舒適悠閒嘅氛圍同現代時尚嘅裝潢，帶嚟視覺同味覺嘅雙重享受。揀你鍾意嘅套餐組合，盡情品嚐多樣化嘅料理選擇，從地道嘅印尼風味、經典意大利佳餚，到國際融合料理，應有盡有。
 
-喺可以俯瞰庫塔海灘嘅迷人景色中用餐，令每一刻都成為美好回憶。[KKday優惠券](https://www.kkday.com/zh-tw/product/133758-2-3-or-4-course-set-lunch-or-dinner-at-bene-italian-kitchen-sheraton-bali-kuta-resort?qs=Bene%20Italian%20Kitchen&cid=17351)
+喺可以俯瞰庫塔海灘嘅迷人景色中用餐，令每一刻都成為美好回憶。[KKday優惠券](https://www.kkday.com/zh-tw/product/133758-2-3-or-4-course-set-lunch-or-dinner-at-bene-italian-kitchen-sheraton-bali-kuta-resort?qs=Bene%20Italian%20Kitchen&cid=25072)
 
 ### Fat Chow（👉🏼地圖：[庫塔美食推薦](https://www.google.com/maps/d/u/0/edit?mid=1iyUL6UK2P8pYYNZVqHenF7tkAzASszHz&usp=sharing)）**Google 4.5粒星**
 

@@ -180,7 +180,7 @@ https://www.instagram.com/reel/DDbHzDmy62G/?utm_source=ig_web_copy_link&igsh=NTc
 
 - **演出时间**：每周一、三、六，晚上 19:30 至 20:45。建议至少提前 30 分钟入场
 - **地点：**巴厘岛努沙杜瓦 ITDC 旅游园区内。建议搭乘出租车或包车，距离机场约 30 分钟车程。
-- **购票网址：**[Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1) ｜ [kkday购票链接](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=17351)
+- **购票网址：**[Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1) ｜ [kkday购票链接](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
 - **附加体验**：建议当天白天可安排到附近的努沙杜瓦景点放松，请看「[努沙杜瓦攻略](https://s.id/nusadua_guide)」
 
 ***

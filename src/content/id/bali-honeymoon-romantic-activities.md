@@ -75,7 +75,7 @@ Deket-deketan sama gajah lucu, seru banget! Di tempat yang nyaman, kamu bisa kas
 
 > [Situs Resmi Mason Elephant Park](https://www.masonelephantlodge.com/)
 
-> [Tiket Diskon Mason Elephant Park](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=17351)
+> [Tiket Diskon Mason Elephant Park](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=25072)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6e4733feba662f7ac7c16978f32a21d3.jpg)
 

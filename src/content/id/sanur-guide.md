@@ -469,7 +469,7 @@ Mau liburan di Sanur sambil menikmati SPA berkualitas tinggi yang dijamin worth 
 
 > [Pengalaman SPA di Byrd House Spa and Wellness](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97393-spa-experience-byrd-spa-wellness-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db532f14425)
 
-> [Pijat ala Bali & Floating Afternoon Tea di Villa Bintang 5](https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=17351)
+> [Pijat ala Bali & Floating Afternoon Tea di Villa Bintang 5](https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=25072)
 
 > [Pengalaman SPA di Maya Resort, Resort Mewah Terbaik di Sanur](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F147642-the-spa-experience-at-maya-sanur-resort%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D935932afe1)
 

@@ -78,7 +78,7 @@ Di perjalanan, kamu bakal nyobain makanan khas yang terkenal, kayak Babi Guling 
 
 ▶[Pesan Tur Sehari Denpasar via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=866750&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26729-bali-food-denpasar-city-heritage-private-trip%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D66e264fb62)
 
-▶[Pesan Tur Sehari Denpasar via KKday](https://www.kkday.com/zh-tw/product/162642?qs=denpasar&cid=17351)
+▶[Pesan Tur Sehari Denpasar via KKday](https://www.kkday.com/zh-tw/product/162642?qs=denpasar&cid=25072)
 
 ![詳細地圖指引，請點我](https://images.gobaligo.id/vocus/vocus_a852039757cecba9641ddebfeca49539.png)
 

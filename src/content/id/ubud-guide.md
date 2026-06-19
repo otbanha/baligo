@@ -235,7 +235,7 @@ Mason Elephant Park bakal bawa kamu ke petualangan satwa yang seru, sambil mengg
 
 > [Situs Resmi Mason Elephant Park](https://www.masonelephantlodge.com/)
 
-> [Tiket Diskon Mason Elephant Park](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=17351)
+> [Tiket Diskon Mason Elephant Park](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=25072)
 
 ### Petualangan Safari Liar di Bali Safari (👉🏼 Peta: [Tempat Wisata Populer di Sekitar Ubud](https://gobaligo.id/map/ubud/))
 

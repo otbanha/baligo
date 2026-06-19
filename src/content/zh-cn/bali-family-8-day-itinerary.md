@@ -198,7 +198,7 @@ Mei Chen提供：蓝梦岛浮潜
 1. **蓝梦岛跳岛浮潜**第一组前往蓝梦岛跳岛浮潜，早上步行至港口，浮潜时间是08:45至15:15。我们在KKday预约了这个行程，因为价格比Klook便宜，且5月的周年庆有优惠券，还有免费的拍摄照片和视频。
 2. **酒店休息**不参加浮潜的第二组人则在酒店休息，享受懒觉和玩水的乐趣。中午十二点退房后，他们寄存行李，然后前往沙努尔沙滩散步。
 
-▶[订购KKday的蓝梦岛行程](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=%E8%97%8D%E5%A4%A2%E5%B3%B6&sort=prec&cid=17351)
+▶[订购KKday的蓝梦岛行程](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=%E8%97%8D%E5%A4%A2%E5%B3%B6&sort=prec&cid=25072)
 
 ▶[订购Klook的蓝梦岛行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2597%258D%25E5%25A4%25A2%25E5%25B3%25B6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3Db53bc9ec3d)
 
@@ -316,7 +316,7 @@ Mei Chen提供：民宿的云海
 
 您也可以参加：
 
-▶[订购KKday的巴杜尔火山行程](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=Batur&qs=Batur&cid=17351)
+▶[订购KKday的巴杜尔火山行程](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=Batur&qs=Batur&cid=25072)
 
 ▶[订购Klook的巴杜尔火山行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbatur%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D3593bf58b0)
 
@@ -356,7 +356,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 ▶Klook 的 [Tebasari Resto 用餐优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d66f7452f)
 
-▶[KKday 的 Tebasari Resto 套餐优惠](https://www.kkday.com/zh-tw/product/165113?qs=Tebasari%20Resto&cid=17351)
+▶[KKday 的 Tebasari Resto 套餐优惠](https://www.kkday.com/zh-tw/product/165113?qs=Tebasari%20Resto&cid=25072)
 
 ### 酒店checkin玩水＋下午茶
 

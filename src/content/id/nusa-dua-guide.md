@@ -341,7 +341,7 @@ Pertunjukan panggung besar yang hanya digelar tiga kali seminggu ini, lewat musi
 Kami punya ulasan lengkap, cek di [sini](/blog/devdan-show-nusa-dua/)
 
 > [Link pembelian tiket Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
-> [Link pembelian tiket KKday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=17351)
+> [Link pembelian tiket KKday](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
 
 ### Pulau Penyu, Perahu Kaca, Jelajah Hutan Bakau
 

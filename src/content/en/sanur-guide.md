@@ -469,7 +469,7 @@ Looking to enjoy a highly-rated, no-regret SPA experience while vacationing in S
 
 > [Byrd House Spa and Wellness Experience](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F97393-spa-experience-byrd-spa-wellness-sanur-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Db532f14425)
 
-> [Balinese Massage & Floating Afternoon Tea at a 5-Star Villa](https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=17351)
+> [Balinese Massage & Floating Afternoon Tea at a 5-Star Villa](https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=25072)
 
 > [Maya Resort SPA Experience in Sanur's Top Resort](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1068751&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F147642-the-spa-experience-at-maya-sanur-resort%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D935932afe1)
 

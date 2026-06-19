@@ -372,7 +372,7 @@ Buka tahun 2024, rating Agoda 9.1, menang 2025 Traveller Choice Award — langsu
 
 ▶[Tsune Japanese Restaurant Food Deal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=911449&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F125065-tsune-sanur-dining-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8c9e94a180)
 
-▶[Balinese Massage & Floating Afternoon Tea at 5-Star Villa](https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=17351)
+▶[Balinese Massage & Floating Afternoon Tea at 5-Star Villa](https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=25072)
 
 ▶[In-Room Spa Service in Sanur](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dffa079b0ca)
 
@@ -858,7 +858,7 @@ Skor Agoda 8.8 — tamu memuji lokasi yang oke, akses langsung ke pantai, sarapa
 
 ▶[Promo Makan Enak di Tsune Japanese Restaurant](https://affiliate.klook.com/redirect?aid=116349&aff_adid=911449&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F125065-tsune-sanur-dining-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8c9e94a180)
 
-▶[Pijat ala Bali & Floating Afternoon Tea di Villa Bintang Lima](https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=17351)
+▶[Pijat ala Bali & Floating Afternoon Tea di Villa Bintang Lima](https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=25072)
 
 ▶[Layanan Pijat ke Kamar di Sanur](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dffa079b0ca)
 

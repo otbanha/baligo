@@ -81,7 +81,7 @@ WAHAHA is a famous grilled pork rib restaurant in Bali, renowned for its tender 
 
 ▶[Klook Deal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89650-wahaha-pork-ribs-bali-seminyak-jimbaran%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4649f1a575)
 
-### 🌟Google Rating 4.6 Stars [SugarSand](https://www.kkday.com/zh-tw/product/31018-sugarsand-dining-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=17351)
+### 🌟Google Rating 4.6 Stars [SugarSand](https://www.kkday.com/zh-tw/product/31018-sugarsand-dining-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=25072)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_c01ed97a55c30e801160277292d8016f.png)
 
@@ -89,7 +89,7 @@ Experience ultimate luxury at Hotel Indigo Bali Seminyak Beach, where traditiona
 
 Laze by the pool, sip cocktails, and soak in the tranquility of this tropical oasis. SugarSand is Seminyak's most vibrant beachfront haven, blending food, drinks, music, and culture—the perfect spot to unwind and soak up Bali's atmosphere.
 
-▶[Klook Deal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004610&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F61915-sugarsand-bali%2F) ▶[KKday Deal](https://www.kkday.com/zh-tw/product/31018-sugarsand-dining-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=17351)
+▶[Klook Deal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004610&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F61915-sugarsand-bali%2F) ▶[KKday Deal](https://www.kkday.com/zh-tw/product/31018-sugarsand-dining-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=25072)
 
 ### 🌟Google Rating 4.5 Stars [Frestro And Bar](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F98958-frestro-and-bar-seminyak-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D71520c9264)
 
@@ -123,13 +123,13 @@ Shichirin Seminyak is a refined Japanese restaurant offering a diverse menu of c
 
 ▶[Klook Deal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1056139&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F145337-shichirin-seminyak-dining-voucher-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D626e72c2c5)
 
-### 🌟Google Rating 4.5 Stars [Dine and Watch Sunset at Breeze Restaurant, The Samaya Seminyak](https://www.kkday.com/zh-tw/product/133563-2-or-3-course-set-lunch-or-dinner-at-the-breeze-the-samaya-seminyak-indonesia?cid=17351)
+### 🌟Google Rating 4.5 Stars [Dine and Watch Sunset at Breeze Restaurant, The Samaya Seminyak](https://www.kkday.com/zh-tw/product/133563-2-or-3-course-set-lunch-or-dinner-at-the-breeze-the-samaya-seminyak-indonesia?cid=25072)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_d98ad8cfb53103c5dcef6c999da5ec24.jpg)
 
 Breeze by The Samaya Seminyak is set on a stunning beachfront, offering breathtaking sea views and romantic sunsets, making it an ideal spot for couples and special celebrations. Known for its exquisite cuisine, warm service, and serene atmosphere, it provides an unforgettable dining experience amidst natural beauty.
 
-▶[KKday Deal](https://www.kkday.com/zh-tw/product/133563-2-or-3-course-set-lunch-or-dinner-at-the-breeze-the-samaya-seminyak-indonesia?cid=17351) ▶[Klook Deal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106651-breeze-restaurant-dining-experience-samaya-seminyak-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D0a5543f908)
+▶[KKday Deal](https://www.kkday.com/zh-tw/product/133563-2-or-3-course-set-lunch-or-dinner-at-the-breeze-the-samaya-seminyak-indonesia?cid=25072) ▶[Klook Deal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106651-breeze-restaurant-dining-experience-samaya-seminyak-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D0a5543f908)
 
 ### 🌟Google Rating 4.7 Stars [Dining and Sunset Cocktail at Double Six Luxury Hotel](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1186821&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F189764-dining-and-sunset-cocktail-at-double-six-luxury-hotel-seminyak%2F)
 

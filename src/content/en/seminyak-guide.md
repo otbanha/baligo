@@ -125,7 +125,7 @@ WAHAHA is a renowned grilled pork ribs restaurant in Bali, famous for its tender
 
 ▶[Klook Discount](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89650-wahaha-pork-ribs-bali-seminyak-jimbaran%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4649f1a575)
 
-### 🌟Google Rating 4.6 Stars [SugarSand](https://www.kkday.com/zh-tw/product/31018-sugarsand-dining-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=17351)
+### 🌟Google Rating 4.6 Stars [SugarSand](https://www.kkday.com/zh-tw/product/31018-sugarsand-dining-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=25072)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_2eca852029426a633bca565e78702581.png)
 
@@ -133,7 +133,7 @@ Experience the ultimate luxury that blends traditional Balinese charm with moder
 
 Relax by the poolside, sipping cocktails and enjoying the tranquility and comfort of a tropical oasis. SugarSand is Seminyak's most vibrant beachfront paradise, combining food, drinks, music, and culture, making it the perfect spot to unwind and soak in the Balinese atmosphere.
 
-▶[Klook Deal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004610&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F61915-sugarsand-bali%2F) ▶[KKday Deal](https://www.kkday.com/zh-tw/product/31018-sugarsand-dining-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=17351)
+▶[Klook Deal](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1004610&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F61915-sugarsand-bali%2F) ▶[KKday Deal](https://www.kkday.com/zh-tw/product/31018-sugarsand-dining-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=25072)
 
 ### 🌟Google Rating 4.5 Stars [Frestro And Bar](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F98958-frestro-and-bar-seminyak-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D71520c9264)
 
@@ -167,13 +167,13 @@ Shichirin Seminyak is a refined Japanese restaurant offering a diverse range of 
 
 ▶[Klook Discount](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1056139&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F145337-shichirin-seminyak-dining-voucher-in-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D626e72c2c5)
 
-### 🌟Google Rating: 4.5 Stars [Dining and Sunset at Breeze Restaurant, The Samaya Seminyak](https://www.kkday.com/zh-tw/product/133563-2-or-3-course-set-lunch-or-dinner-at-the-breeze-the-samaya-seminyak-indonesia?cid=17351)
+### 🌟Google Rating: 4.5 Stars [Dining and Sunset at Breeze Restaurant, The Samaya Seminyak](https://www.kkday.com/zh-tw/product/133563-2-or-3-course-set-lunch-or-dinner-at-the-breeze-the-samaya-seminyak-indonesia?cid=25072)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_151d5e74cd93187ec9b5e3abbec2fa6b.jpg)
 
 Breeze by The Samaya Seminyak is located by the stunning seaside, offering breathtaking ocean views and romantic sunsets, making it an ideal spot for couples and special celebrations. Known for its exquisite cuisine, warm service, and serene atmosphere, the restaurant provides an unforgettable dining experience amidst natural beauty.
 
-▶[KKday Discount](https://www.kkday.com/zh-tw/product/133563-2-or-3-course-set-lunch-or-dinner-at-the-breeze-the-samaya-seminyak-indonesia?cid=17351) ▶[Klook Discount](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106651-breeze-restaurant-dining-experience-samaya-seminyak-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D0a5543f908)
+▶[KKday Discount](https://www.kkday.com/zh-tw/product/133563-2-or-3-course-set-lunch-or-dinner-at-the-breeze-the-samaya-seminyak-indonesia?cid=25072) ▶[Klook Discount](https://affiliate.klook.com/redirect?aid=116349&aff_adid=917384&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F106651-breeze-restaurant-dining-experience-samaya-seminyak-bali%2F%3Fspm%3DActivity.TopNavigation.SelectLanguage%26clickId%3D0a5543f908)
 
 ## Affordable and Delicious Local Cuisine ([Map Guide](https://www.google.com/maps/d/u/0/edit?mid=1il-sYTIMNMSVrVWqSnUPgdlsbCfMPP0&usp=sharing)🗺️)
 

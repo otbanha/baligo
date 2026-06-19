@@ -232,7 +232,7 @@ https://youtube.com/shorts/fiYs5GKdINU
 
 > [Mason Elephant Park官網](https://www.masonelephantlodge.com/)
 
-> Mason Elephant Park[優惠門票](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=17351)
+> Mason Elephant Park[優惠門票](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=25072)
 
 ### Bali Safari動物園嘅奇幻野生之旅 （👉🏼地圖：[烏布周邊熱門景點](https://gobaligo.id/map/ubud/)）
 

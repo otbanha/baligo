@@ -238,7 +238,7 @@ Mason Elephant Park takes you on an animal adventure while blending eco-consciou
 
 > [Mason Elephant Park Official Website](https://www.masonelephantlodge.com/)
 
-> [Mason Elephant Park Discount Tickets](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=17351)
+> [Mason Elephant Park Discount Tickets](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=25072)
 
 ### Bali Safari Park: A Wild Fantasy Journey (👉🏼 Map: [Top Attractions Around Ubud](https://gobaligo.id/map/ubud/))
 

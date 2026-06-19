@@ -187,7 +187,7 @@ https://www.instagram.com/reel/DDbHzDmy62G/?utm_source=ig_web_copy_link&igsh=NTc
 
 - **Show Time**: Every Monday, Wednesday, and Saturday, 7:30 PM - 8:45 PM (arrive 30 minutes early)
 - **Location**: Nusa Dua ITDC Tourism Complex, Bali. Recommended to take a taxi or private car, about 30 minutes from the airport.
-- **Ticket Purchase**: [Klook Booking Link](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1) ｜ [kkday Booking Link](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=17351)
+- **Ticket Purchase**: [Klook Booking Link](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1) ｜ [kkday Booking Link](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
 - **Additional Experience**: Consider spending the day exploring nearby Nusa Dua attractions—check out the '[Nusa Dua Guide](https://s.id/nusadua_guide)'
 
 ***

@@ -60,7 +60,7 @@ Demi keamanan, yang benar-benar nggak bisa gerak (misal lumpuh kedua kaki) nggak
 
 ### **5. Bisa bayar pakai kartu kredit pas rafting?**
 
-Beberapa penyedia layanan nerima kartu kredit. Tapi ada juga yang nggak, jadi bawa uang tunai ya (dolar AS atau Rupiah). Harga di lokasi biasanya mahal banget, mending pesen online lebih worth it: [Pesan via KKday](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=17351) | [Pesan via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
+Beberapa penyedia layanan nerima kartu kredit. Tapi ada juga yang nggak, jadi bawa uang tunai ya (dolar AS atau Rupiah). Harga di lokasi biasanya mahal banget, mending pesen online lebih worth it: [Pesan via KKday](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=25072) | [Pesan via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
 
 ### **6. Kalau hujan, rafting batal nggak?**
 
@@ -85,7 +85,7 @@ Boleh, tapi perhatikan ini:
 ### **10. Apakah operator rafting harus kasih asuransi?**
 
 Kebanyakan operator rafting kasih asuransi dasar buat peserta. Saran sih pilih operator resmi biar perlindungannya lebih lengkap.
-[Pesan di KKday](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=17351) | [Pesan di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
+[Pesan di KKday](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=25072) | [Pesan di Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
 
 ### **11. Kapan waktu terbaik buat rafting?**
 
@@ -93,7 +93,7 @@ Musim kemarau di Bali, biasanya dari April sampai Oktober, adalah waktu terbaik 
 
 ### **12. Apakah harus booking duluan buat rafting?**
 
-Biar pasti dapet tempat, apalagi pas musim liburan, mending booking rafting dari jauh-jauh hari. Ini juga bantu kamu ngerti detail trip dan koordinasi sama perusahaan rafting. [Pesan via KKday](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=17351) ｜ [Pesan via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
+Biar pasti dapet tempat, apalagi pas musim liburan, mending booking rafting dari jauh-jauh hari. Ini juga bantu kamu ngerti detail trip dan koordinasi sama perusahaan rafting. [Pesan via KKday](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=25072) ｜ [Pesan via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
 
 ### **13. Berapa sih biaya rafting?**
 
@@ -152,7 +152,7 @@ Banyak penyedia arung jeram yang menyediakan fotografer untuk mengabadikan momen
 
 ### **25. Apakah arung jeram cocok untuk grup?**
 
-Tentu, arung jeram sangat cocok untuk grup seperti keluarga, teman, atau tim kantor. Selain meningkatkan kerja sama dan kekompakan, kalian juga bisa berbagi keseruan bareng. Sebaiknya koordinasi dengan penyedia jauh-jauh hari biar jadwalnya pas dengan kebutuhan grup. [Pesan via KKday](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=17351) ｜ [Pesan via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
+Tentu, arung jeram sangat cocok untuk grup seperti keluarga, teman, atau tim kantor. Selain meningkatkan kerja sama dan kekompakan, kalian juga bisa berbagi keseruan bareng. Sebaiknya koordinasi dengan penyedia jauh-jauh hari biar jadwalnya pas dengan kebutuhan grup. [Pesan via KKday](https://www.kkday.com/en-id/product/productlist/%E5%B3%87%E9%87%8C%E5%B3%B6?product_categories=CATEGORY_033&keyword=%E5%B3%87%E9%87%8C%E5%B3%B6&currency=IDR&sort=prec&page=1&count=10&cid=25072) ｜ [Pesan via Klook](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1022038&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fexperiences%2Flist%2Fbali-water-activities%2Fc8-cate121%2F%3Fspm%3DCity.BusinessEntry%3Aany%3A%3ACityBusinessEntry%3ACategory_LIST%26clickId%3D5cacf11f51)
 
 ### 26. Saat arung jeram, di mana tempat aman untuk menyimpan paspor dan uang?
 

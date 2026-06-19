@@ -14,7 +14,7 @@ lang: zh-hk
 _srcHash: 69a17018d7fb2c4903d0de3cd70118e2
 ---
 
-今次我哋透過 **KKday** 預訂咗[中/英文導遊帶隊嘅夜市美食團](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=17351)，準備一探 **峇里島最大、最地道嘅本地人夜市——Pasar Kreneng**！一入到夜市，撲面而來嘅係濃郁嘅香料味、炭烤香氣，同埋此起彼落嘅印尼語叫賣聲。呢度幾乎冇遊客，攤販大多只係識講印尼語，菜單亦冇英文標示——**冇人帶路，真係唔敢亂闖！**
+今次我哋透過 **KKday** 預訂咗[中/英文導遊帶隊嘅夜市美食團](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=25072)，準備一探 **峇里島最大、最地道嘅本地人夜市——Pasar Kreneng**！一入到夜市，撲面而來嘅係濃郁嘅香料味、炭烤香氣，同埋此起彼落嘅印尼語叫賣聲。呢度幾乎冇遊客，攤販大多只係識講印尼語，菜單亦冇英文標示——**冇人帶路，真係唔敢亂闖！**
 
 畢竟，喺咁樣嘅純本地市場，淨係點餐已經係一大挑戰。你想食 **Babi Guling（烤乳豬）**，但唔知邊間最地道；想試唔知名嘅美食，又唔確定醬料會唔會太辣；甚至連點樣點飲品、點樣俾錢先合理，都可能一頭霧水。
 
@@ -68,7 +68,7 @@ _srcHash: 69a17018d7fb2c4903d0de3cd70118e2
 - 記得帶印尼盾現金（大部分攤檔唔收信用卡）同濕紙巾（部分攤位可能冇餐具）
 - 呢個行程提供三種唔同選擇：**拼團、私人團（private tour）同豪華團（luxury tour）**，我哋今次揀咗私人團，包樽裝水、專業導遊，同烏布以南地區（包括烏布）嘅酒店接送服務。如果追求更舒適體驗嘅朋友，豪華團仲提供配備車上Wi-Fi、藍牙音響嘅寬敞座車，車上備有零食、冰毛巾，仲有裝滿啤酒、軟飲同礦泉水嘅冰盒，等你可以喺美食之旅前後都享受到頂級服務！
 
-▶參加[KKday嘅中/英文導遊夜市導覽](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=17351)
+▶參加[KKday嘅中/英文導遊夜市導覽](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=25072)
 
 ## 小傑2022年嘅夜市探險
 

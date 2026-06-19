@@ -63,7 +63,7 @@ Our meal arrangements this time mainly consisted of (hotel) breakfast, (hotel) a
 
 **Afternoon Tea**: We chose the afternoon tea at Hotel Indigo Seminyak and the Four Seasons Hotel. The afternoon tea sets at both places are highly recommended.
 
-> ▶ I also want to book [Afternoon Tea/Dining at Hotel Indigo Seminyak](https://www.kkday.com/zh-tw/product/31018-sugarsand-dining-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=17351)
+> ▶ I also want to book [Afternoon Tea/Dining at Hotel Indigo Seminyak](https://www.kkday.com/zh-tw/product/31018-sugarsand-dining-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=25072)
 
 ### Editor's Pick: Fine Dining in Seminyak ([Map Guide](https://www.google.com/maps/d/u/0/edit?mid=1il-sYTIMNMSVrVWqSnUPgdlsbCfMPP0&usp=sharing)🗺️)
 

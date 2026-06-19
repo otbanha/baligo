@@ -178,7 +178,7 @@ Bali Safari動物園提供冒險野生遊覽車，帶你哋穿越動物嘅家園
 
 > [Mason Elephant Park官網](https://www.masonelephantlodge.com/)
 
-> [Mason Elephant Park 優惠門票](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=17351)
+> [Mason Elephant Park 優惠門票](https://www.kkday.com/zh-tw/product/141456-mason-elephant-park-admission-ticket-bali-indonesia?cid=25072)
 
 > [住喺大象公園入面](https://affiliate.klook.com/redirect?aid=116349&aff_adid=797329&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fhotels%2Fdetail%2F434847-mason-elephant-lodge%2F%3Fcheck_in%3D2024-01-11%26check_out%3D2024-01-12%26room_num%3D1%26adult_num%3D2%26child_num%3D0%26age%3D%26page_source%3Dhotel_list_page%26is_suggest_time%3D1%26source_price_token%3DeyJjdXJyZW5jeSI6IlRXRCIsInByaWNlIjozODI4LjAsInNvdXJjZSI6MX0%3D%26serverData%3Dc0500bbd34f42277bdb7c62254ed44da3324048a986989cb112803bad7fc0c60a282f6d6dc6536547606e694238632ae68df7d3b4ca6468acc19f1de2836e7823061c238bd28eb283acc2bce18616b14c40dfd9c44da728ef31f43dd57fe7804)
 

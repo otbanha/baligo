@@ -282,7 +282,7 @@ __VID0__
 
 ▶[Tsune日式餐厅美食优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=911449&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F125065-tsune-sanur-dining-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8c9e94a180)
 
-▶[五星villa内的巴厘式按摩&漂浮下午茶](https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=17351)
+▶[五星villa内的巴厘式按摩&漂浮下午茶](https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=25072)
 
 ▶[沙努尔到府按摩服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dffa079b0ca)
 
@@ -614,7 +614,7 @@ __VID0__
 
 ▶[Tsune日式餐厅美食优惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=911449&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F125065-tsune-sanur-dining-experience-in-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D8c9e94a180)
 
-▶[五星villa内的巴厘式按摩&漂浮下午茶](https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=17351)
+▶[五星villa内的巴厘式按摩&漂浮下午茶](https://www.kkday.com/zh-tw/product/134582-foot-or-balinese-massage-with-floating-afternoon-tea-by-mahagiri-garden-pa-sanur-bali?cid=25072)
 
 ▶[沙努尔上门按摩服务](https://affiliate.klook.com/redirect?aid=116349&aff_adid=813166&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F62599-home-service-spa-bali-body-spa-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dffa079b0ca)
 

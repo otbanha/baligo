@@ -21,7 +21,7 @@ lang: en
 _srcHash: 69a17018d7fb2c4903d0de3cd70118e2
 ---
 
-This time, we booked a [night market food tour with a Chinese/English-speaking guide](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=17351) through **KKday**, ready to explore **Bali's largest and most authentic local night market—Pasar Kreneng**! As soon as we stepped into the market, we were greeted by the rich aroma of spices, the smoky scent of grilled food, and the lively calls of vendors in Indonesian. There were hardly any tourists here, most vendors only spoke Indonesian, and menus had no English translations—**without a guide, we wouldn't dare venture in!**
+This time, we booked a [night market food tour with a Chinese/English-speaking guide](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=25072) through **KKday**, ready to explore **Bali's largest and most authentic local night market—Pasar Kreneng**! As soon as we stepped into the market, we were greeted by the rich aroma of spices, the smoky scent of grilled food, and the lively calls of vendors in Indonesian. There were hardly any tourists here, most vendors only spoke Indonesian, and menus had no English translations—**without a guide, we wouldn't dare venture in!**
 
 After all, in such a purely local market, ordering food itself is a challenge. You might want to try **Babi Guling (suckling pig)**, but don't know which stall is the most authentic; you might want to sample unknown dishes, but aren't sure if the sauce will be too spicy; even figuring out how to order drinks or what a fair price is can be confusing.
 
@@ -75,7 +75,7 @@ As my four-hour culinary adventure came to an end, Wayan handed me a cold bottle
 - Remember to bring Indonesian Rupiah in cash (most vendors don't accept credit cards) and wet wipes (some stalls may not provide utensils)
 - This tour offers three different options: **group tour, private tour, and luxury tour**. We chose the private tour, which includes bottled water, a professional guide, and hotel transfers from areas south of Ubud (including Ubud). For those seeking extra comfort, the luxury tour provides a spacious vehicle equipped with WiFi, Bluetooth speakers, snacks, cold towels, and a cooler stocked with beer, soft drinks, and mineral water, ensuring a premium experience before and after your food adventure!
 
-▶Join [KKday's English/Chinese-guided night market tour](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=17351)
+▶Join [KKday's English/Chinese-guided night market tour](https://www.kkday.com/zh-tw/product/141048-denpasar-night-street-food-walking-tour-ubud-bali-indonesia?cid=25072)
 
 ## Jay's 2022 Night Market Adventure
 

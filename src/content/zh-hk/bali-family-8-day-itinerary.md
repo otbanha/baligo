@@ -198,7 +198,7 @@ Mei Chen提供：藍夢島浮潛
 1. **藍夢島跳島浮潛**第一組去藍夢島跳島浮潛，朝早行去港口，浮潛時間係08:45至15:15。我哋喺KKday預約咗呢個行程，因為價錢平過Klook，而且5月嘅週年慶有折價券，仲有免費嘅相片同影片。
 2. **酒店休息**唔參加浮潛嘅第二組人就喺酒店休息，享受瞓覺同玩水嘅樂趣。中午十二點退房之後，佢哋寄存行李，然後去沙努爾沙灘散步。
 
-▶[訂購KKday嘅藍夢島行程](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=%E8%97%8D%E5%A4%A2%E5%B3%B6&sort=prec&cid=17351)
+▶[訂購KKday嘅藍夢島行程](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=%E8%97%8D%E5%A4%A2%E5%B3%B6&sort=prec&cid=25072)
 
 ▶[訂購Klook嘅藍夢島行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3D%25E8%2597%258D%25E5%25A4%25A2%25E5%25B3%25B6%26spm%3DActivity.TopNavigation.SearchInput%26clickId%3Db53bc9ec3d)
 
@@ -316,7 +316,7 @@ Mei Chen提供：民宿嘅雲海
 
 你都可以參加：
 
-▶[訂購KKday嘅巴杜爾火山行程](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=Batur&qs=Batur&cid=17351)
+▶[訂購KKday嘅巴杜爾火山行程](https://www.kkday.com/zh-tw/product/productlist?page=1&keyword=Batur&qs=Batur&cid=25072)
 
 ▶[訂購Klook嘅巴杜爾火山行程](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dbatur%26spm%3DSearchResult.TopNavigation.SearchInput%26clickId%3D3593bf58b0)
 
@@ -356,7 +356,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 
 ▶Klook 嘅 [Tebasari Resto 用餐優惠](https://affiliate.klook.com/redirect?aid=116349&aff_adid=862157&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90448-dining-experience-bebek-tebasari-restaurant-ubud%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D3d66f7452f)
 
-▶[KKday 嘅 Tebasari Resto 套餐優惠](https://www.kkday.com/zh-tw/product/165113?qs=Tebasari%20Resto&cid=17351)
+▶[KKday 嘅 Tebasari Resto 套餐優惠](https://www.kkday.com/zh-tw/product/165113?qs=Tebasari%20Resto&cid=25072)
 
 ### 酒店checkin玩水加下午茶
 
