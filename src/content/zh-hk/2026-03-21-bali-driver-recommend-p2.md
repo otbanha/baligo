@@ -1,5 +1,5 @@
 ---
-title: 峇里島包車司機推介（第二頁）
+title: 峇里島包車司機推薦（第二頁）
 slug: ''
 description: ''
 pubDate: 2026-01-01T00:00:00.000Z
@@ -11,7 +11,7 @@ originalUrl: ''
 shuffle_h2: true
 embeds: []
 lang: zh-hk
-_srcHash: 69719b9c1988b11645ea8542567c1a94
+_srcHash: eced1707186ca2dc48f890f7e6c77a02
 ---
 
 第一頁，我哋優先推薦嘅司機喺[呢度](https://gobaligo.id/blog/bali-private-car-drivers-guide/)
@@ -118,7 +118,7 @@ _srcHash: 69719b9c1988b11645ea8542567c1a94
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774788166261-new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1DXtpVrXjz/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/18nHVoCWo8/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1Cdc1dWKHk/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1DXtpVrXjz/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/18nHVoCWo8/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1Cdc1dWKHk/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1D1goxHNqs/)
 
 ## Gung Bali Wangzi 王子
 
@@ -140,4 +140,4 @@ _srcHash: 69719b9c1988b11645ea8542567c1a94
 
 👈 **返到峇里島自由行終極指南**
 
-想睇晒完整嘅新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。
+想睇晒成個新手懶人包？[撳呢度睇「2026峇里島自由行終極指南」](/blog/bali-ultimate-guide-2026/)，一次過搞掂出發前要做嘅嘢。

@@ -11,7 +11,7 @@ originalUrl: ''
 shuffle_h2: true
 embeds: []
 lang: zh-cn
-_srcHash: 69719b9c1988b11645ea8542567c1a94
+_srcHash: eced1707186ca2dc48f890f7e6c77a02
 ---
 
 第一页，获得我们优先推荐的司机在[这里](https://gobaligo.id/blog/bali-private-car-drivers-guide/)
@@ -118,7 +118,7 @@ _srcHash: 69719b9c1988b11645ea8542567c1a94
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774788166261-new.jpg)
 
-👍🏼[网友推荐1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1DXtpVrXjz/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/18nHVoCWo8/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1Cdc1dWKHk/)
+👍🏼[网友推荐1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1DXtpVrXjz/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/18nHVoCWo8/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/1Cdc1dWKHk/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1D1goxHNqs/)
 
 ## Gung Bali Wangzi 王子
 

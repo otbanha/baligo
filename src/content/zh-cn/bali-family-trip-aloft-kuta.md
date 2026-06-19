@@ -15,7 +15,7 @@ originalUrl: 'https://vocus.cc/article/66266976fd89780001598b10'
 category:
   - 遊記分享
 lang: zh-cn
-_srcHash: c61a55c2820e67e606fdfe5dc2ac0644
+_srcHash: 2dcebce6536560debc216f7f58070f7d
 ---
 
 【巴厘岛游记】我们一家四口，两大两小，巴厘岛前两晚的住宿
@@ -38,7 +38,7 @@ _srcHash: c61a55c2820e67e606fdfe5dc2ac0644
 1. 因为离机场最近，下飞机不久就可以立刻放松。考虑到我们带着两个小孩旅行，选择住在离机场最近的库塔，可以最大程度地减少长途飞行后的疲劳，让全家可以尽快放松身心，开始享受巴厘岛的美好。
 2. 配合我们第二天前往金巴兰、乌鲁瓦图的行程。库塔地理位置优越，不仅离机场近，而且方便前往巴厘岛其他景点，比如金巴兰和乌鲁瓦图。我们计划第二天前往这两个地方，所以选择在库塔住宿，可以节省交通时间，让我们更多地享受旅程中的美好时光。
 3. 我们是第一次来巴厘岛，想看看巴厘岛最热闹的地方。库塔是巴厘岛最热闹的地区，拥有繁华的街道、多样的餐饮和购物选择，以及壮观的海滩。作为第一次来巴厘岛的我们，想要在库塔感受到巴厘岛的热情和活力，体验当地的文化和风情。
-4. 听闻Kuta海滩最适合学冲浪，我家的两个小男孩想挑战冲浪。Kuta海滩是巴厘岛最著名的冲浪胜地之一，拥有适合初学者的海浪和宽阔的沙滩，非常适合想要体验冲浪乐趣的孩子们。我们希望能在这片海滩上见证两个小男孩挑战冲浪的勇气和努力，并与他们一同享受海滩的快乐时光。
+4. 听闻Kuta海滩最适合学冲浪，我家的两个小男孩想挑战冲浪。Kuta海滩是巴厘岛最著名的冲浪胜地之一，拥有适合初学者的海浪和宽阔的沙滩，非常适合想要体验冲浪乐趣的孩子们。我们希望能在大Kuta海滩上见证两个小男孩挑战冲浪的勇气和努力，并与他们一同享受海滩的快乐时光。
 
 在考虑了这四点因素后，我们决定在库塔度过巴厘岛的第一天，并在《Beachwalk购物中心》附近找到一家舒适的酒店，开始我们的巴厘岛之旅。
 
@@ -66,7 +66,7 @@ Aloft Kuta的两张双人床房型，还有一个mini bar
 
 泳池的氛围也很翠绿，四周树木环绕，清晰感无限。我们在这儿住了两晚，可惜一天早晨阴雨绵绵，另一天早晨我们要留给冲浪，因为酒店对面正是世界闻名的（初学者）冲浪胜地「Kuta Beach」，没有不造访的道理!
 
-最美的风景是人，在《Aloft Kuta》随手可及，整体服务只能给满分，度假不正需要如此？
+最美的风景是人，在《Aloft Kuta》随手可得，整体服务只能给满分，度假不正需要如此？
 
 ▶[Aloft Kuta订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=22572548) [Booking](https://booking.tpm.li/IiBScM3f) ▶[Trip.com订房](https://hk.trip.com/hotels/detail/?cityId=723&hotelId=72291150&checkIn=2025-07-31&checkOut=2025-08-01&adult=2&children=0&subStamp=726&crn=1&ages=&travelpurpose=0&curr=IDR&link=title&hoteluniquekey=H4sIAAAAAAAA_-P6xMjFJMEkxMTBKPWckePt8i9_WYUYjQw4LT4JOhqDgG-ng2f_oa8aMXP7HAJ4Ghltua4vLqj1cJjEGMXJAARCIo6OgiBGTai9o5I4x9SWPRYCjYwSf_uXrmZUYLTYLx7EEMWgpMbRerBfQ6AcKLJX1BFmiCeMAVTDwrH1FZsTK8eSCx2MMxjPLdujtJGxECTvkOqwg5HpBOOErwULmO59eqqyiwmi6hATC8eU2-KnmBguMTHcYmJ4xMTwionhExPYpF9QRU3MDF3MDJOYwUpnMTMsYmaQ4jUxNzQztDSyNDBPTTRXENI4827VETYjaw6gg7UE40M8PV0MSwpTzQpLLXOKCkwNGCcxMnl4n2KUMjQ3tjA0MjQ0MjKyNNYzsUgzK7bIK7bIzYqwYpZidPNgDGIzdHExN7CM0uJi9nQJEuSpjemtX2djLwXiKcJ4WiCeIYyXxFqVoevhnfFYqICxi5FDgNGDMYKxgvEVI0jVD3BIAABb4vdVpwEAAA&subChannel=&masterhotelid_tracelogid=4716192907ea7&NewTaxDescForAmountshowtype0=T&detailFilters=17|1~17~1*80|0|1~80~0&hotelType=normal&display=exavg&barcurr=IDR&locale=zh-HK&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D4662646)
 
@@ -114,7 +114,7 @@ check-in > Beachwalk shopping 3F 看夕阳 > 吃小杰介绍的烤猪饭Warung B
 
 🔹3F : 「脏鸭餐厅Bebek Tepi Sawah」🦆，很适合想要品尝巴厘岛美食，时间不足的你（无造访）。虽然没有品尝到这家餐厅的美食，但听说这里的菜色非常地道，下次来巴厘岛一定要好好品尝。
 
-[脏鸭餐厅Bebek Tepi Sawah用餐体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=846658&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-CN%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Dd58d574cb7)
+[脏鸭餐厅Bebek Tepi Sawah用餐体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=846658&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F89252-bebek-tepi-sawah-dining-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3Dd58d574cb7)
 
 🔹地下室超市Foodmart Supermarket : 可以轻松补给零食饮料🧃🍪和部分伴手礼（造访）。在这个超市里，我们买到了许多必需品和纪念品，让我们的旅程更加便利和丰富。
 
@@ -152,13 +152,13 @@ check-in > Beachwalk shopping 3F 看夕阳 > 吃小杰介绍的烤猪饭Warung B
 
 🔹约定时间准时（提早）出现
 
-🔹若有延误（塞车），必会提早通知📱
+🔹若有延误（堵车），必会提早通知📱
 
 🔹安全第一，上下车门还会帮你挡车⛑️
 
 🔹抵达酒店时，永远冲第一帮你确认👀
 
-🔹任何疑问，必会尽力帮忙（物品遗失、物品购买、资讯分享ℹ️）
+🔹任何疑问，必会尽力帮忙（物品遗失、物品购买、信息分享ℹ️）
 
 🔹如需购买行程，也会帮忙询问朋友，试着帮你拿到最好价格💰
 
@@ -174,7 +174,7 @@ check-in > Beachwalk shopping 3F 看夕阳 > 吃小杰介绍的烤猪饭Warung B
 
 ➰ 价格内含停车费、汽油、车子 ➰ 不含部分地区的入村费
 
-🔊原来计划通过每间饭店，安排下一段交通，资料收集完整，ℹ️一起把信息贴给Gede，就可知Gede真的CP爆炸高💥
+🔊原来计划透过每间酒店，安排下一段交通，资料收集完整，ℹ️一起把信息贴给Gede，就可知Gede真的CP爆炸高💥
 
 **📍联系资料帮你放这边：**
 
