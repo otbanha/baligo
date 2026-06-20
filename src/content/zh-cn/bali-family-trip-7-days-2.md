@@ -16,12 +16,12 @@ heroImage: 'https://images.gobaligo.id/vocus/vocus_448b227b14844b7078454555042ed
 originalUrl: 'https://vocus.cc/article/669c8097fd89780001f355be'
 update: 2026/05/22
 lang: zh-cn
-_srcHash: fe67a771cccce0db964d68dfac9ab707
+_srcHash: 6b66ad8f97740beb5e389a1b7e2bea51
 ---
 
 > 以下内容由团友 [Ya-yun Chen](https://www.facebook.com/groups/baligo/permalink/1577292532817986/) 提供给我们重新编排：
 
-谢谢社团版主以及所有团友无私的回馈！这次暑假巴厘岛之旅让我们全家都开心愉快，特别是对孩子们来说，这是一段充满冒险和欢笑的美好回忆。
+谢谢社团版主以及所有团友无私的反馈！这次暑假巴厘岛之旅让我们全家都开心愉快，特别是对孩子们来说，这是一段充满冒险和欢笑的美好回忆。
 
   **旅游时间：6/28-7/4**
 
@@ -35,7 +35,7 @@ _srcHash: fe67a771cccce0db964d68dfac9ab707
 
 https://www.youtube.com/shorts/oz_QUWvCK_8
 
-泳池既干净又大，而且Villa提供预约高尔夫球车服务，可以前往水明漾广场，这对带孩子的家庭非常便利。Villa内部设计典雅舒适，配有宽敞的客厅和户外用餐区，孩子们可以在花园里尽情玩耍，家长则能享受悠闲的时光。
+泳池既干净又大，而且Villa提供预约高尔夫球车服务，可以前往Seminyak Square，这对带孩子的家庭非常便利。Villa内部设计典雅舒适，配有宽敞的客厅和户外用餐区，孩子们可以在花园里尽情玩耍，家长则能享受悠闲的时光。
 
 ![raw-image](https://images.gobaligo.id/images/2026-06/1780821552182-64314_14040214220018940829_large.jpeg)
 
@@ -175,7 +175,7 @@ https://youtu.be/op78Dk8CjL4
 
 - 然后参观了乌布皇宫（Ubud Palace），这座皇宫保存完好，让我们对巴厘岛的传统建筑和文化有了更多的了解。
 - 接着我们前往乌布水皇宫（Pura Taman Saraswati），这里的荷花池和精美的石雕让人流连忘返。
-- 在乌布集市（Ubud Market）逛街购物，挑选了一些当地特色手工艺品作为纪念。
+- 在乌布市集（Ubud Market）逛街购物，挑选了一些当地特色手工艺品作为纪念。
 
 https://youtu.be/s16gdTOjonU
 
@@ -199,7 +199,7 @@ Day 6活动（Ya-yun Chen提供）
 
 - 接着我们参观了Bali Bird Park，这里有许多美丽的鸟类，孩子们对这些色彩斑斓的鸟类非常感兴趣。
 
-> [Bali Bird Park 巴厘岛鸟园终极攻略：珍稀鸟种、互动活动与生态保育的奇幻旅程](/blog/bali-bird-park-guide/)
+[> [Bali Bird Park 巴厘岛鸟园终极攻略：珍稀鸟种、互动活动与生态保育的奇幻旅程](/blog/bali-bird-park-guide/)
 
 > 预订[Bali Bird Park优惠门票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=888887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F169-bali-bird-park-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D8c994fcef3)
 
@@ -209,7 +209,7 @@ Day 6活动（Ya-yun Chen提供）
 
 ## **Day 7：**
 
-早上悠闲地享用早餐，然后于11:30 checkout，准备前往机场回国。这次的巴厘岛之旅充满了美好的回忆，让我们对这个美丽的岛屿有了更多的喜爱和留恋。
+早上悠哉地享用早餐，然后于11:30 checkout，准备前往机场回国。这次的巴厘岛之旅充满了美好的回忆，让我们对这个美丽的岛屿有了更多的喜爱和留恋。
   ---
 
 {{block:親子}}

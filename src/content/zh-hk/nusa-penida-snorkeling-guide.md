@@ -2,7 +2,7 @@
 slug: nusa-penida-snorkeling-guide
 title: 努沙佩尼達島 (Nusa Penida) 點樣參加浮潛？一日遊船飛預約、潛點分佈同新手必讀指南
 description: >-
-  計劃去佩尼達島浮潛但唔知點入手？整理最完整嘅浮潛參加方式：包括從沙努爾碼頭出發嘅船飛預約、套裝行程挑選同埋在地專業潛店推薦。詳解四個必去潛點嘅難易度同特色，提供防曬防暈船貼士同攝影技巧建議。由在地專家帶路，等您嘅峇里島跳島之旅輕鬆又充實。
+  計劃去佩尼達島浮潛但係唔知點入手？整理咗最完整嘅浮潛參加方式：包括由沙努爾碼頭出發嘅船飛預約、套裝行程揀選同在地專業潛店推薦。詳解四個必去潛點嘅難易度同特色，提供防曬防暈船貼士同攝影技巧建議。由在地專家帶路，令你嘅峇里島跳島之旅又輕鬆又充實。
 pubDate: 2023-11-02T00:00:00.000Z
 category:
   - 峇里島分區攻略
@@ -20,36 +20,36 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d4e931135ea55fd309372f2872e96160.jpg'
 originalUrl: 'https://vocus.cc/article/654249defd89780001041c87'
 lang: zh-hk
-_srcHash: 86d7f9581b70b67656dc672f37c3ba55
+_srcHash: aef10a3f42e057038fd3436620ccf4b8
 ---
 
-呢個係我哋介紹Nusa Penida（中文翻譯：努沙佩尼達島、佩尼達島）呢個神奇島嶼嘅第三集，我哋嚟同大家介紹一下喺呢度嘅四個知名潛點，無論係浮潛定係帶住水肺潛水都可以搵到好多樂趣嘅地點。
+呢個係我哋介紹Nusa Penida（中文翻譯：努沙佩尼達島、佩尼達島）呢個神奇島嶼嘅第三集，我哋同大家介紹吓呢度四個知名潛點，無論係浮潛定係帶住水肺潛水都可以搵到好多樂趣嘅地方。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9f65ca2cf527e8b51652b690aad51a81.jpg)
 
-➡️[更多峇里島超值優惠請點我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
+➡️[更多峇里島超值優惠請撳呢度](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
-針對佩尼達島我哋共有五集介紹，一齊嚟更深入認識呢個海島天堂！其他四集呢度有傳送門：
+針對佩尼達島我哋總共有五集介紹，一齊嚟更加深入認識呢個海島天堂！其他四集呢度有傳送門：
 
 1. [【峇里島 - Nusa Penida 佩尼達島全攻略】地圖、搭船、住宿、交通、包車、活動、攝影、景點](/blog/nusa-penida-guide/)
 2. [佩尼達島美食同碧海藍天：Nusa Penida嘅Top 9絕佳選擇](/blog/nusa-penida-best-restaurants/)
 3. [Nusa Penida 努沙佩尼達島嘅浮潛點介紹，點樣參加浮潛？](/blog/nusa-penida-snorkeling-guide/)
-4. [佩尼達島的士、Gojek/Grab、包車、電單車交通攻略](/blog/nusa-penida-transport-guide/)
-5. [佩尼達島嘅住宿推薦: 13間從奢華到平價嘅 Nusa Penida 好評住宿](/blog/nusa-penida-hotels-guide/)
+4. [佩尼達島的士、Gojek/Grab、包車、摩托車交通攻略](/blog/nusa-penida-transport-guide/)
+5. [佩尼達島嘅住宿推薦: 13間由奢華到平價嘅 Nusa Penida 好評住宿](/blog/nusa-penida-hotels-guide/)
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0efc881cd070bd9b15b0d572fe80b427.jpg)
 
-## 峇里島到處都可以浮潛嗎？
+## 峇里島周圍都可以浮潛咩？
 
-峇里島嘅本島雖然四周都係海岸線，但係真正適合浮潛或潛水嘅地點並唔多，幾個最有名嘅潛點Blue Lagoon、Amed同Tulamben都喺比較偏遠嘅東部，從機場搭車過去要二、三個鐘以上嘅時間。底下有小傑喺Amed浮潛嘅介紹：
+峇里島嘅本島雖然四周都係海岸線，但係真正適合浮潛或者潛水嘅地方唔多，幾個最有名嘅潛點Blue Lagoon、Amed同Tulamben都喺比較偏遠嘅東部，由機場搭車過去要兩個、三個鐘以上嘅時間。下面有小傑喺Amed浮潛嘅介紹：
 
 https://youtu.be/qdS8Td7QPYY?si=J-jy5ieS7-eAsl0E
 
-若果想更快到達適合浮潛或潛水嘅地點，推薦大家可以從機場搭車到達沙努爾，喺呢個地方住一兩晚，然後一大早就搭約莫30分鐘嘅快艇前往努沙佩尼達島（Nusa Penida），呢個係一個可以免去舟車勞頓，更輕鬆嘅選擇。
+如果想快啲去到適合浮潛或者潛水嘅地方，推薦大家可以由機場搭車去到Sanur，喺呢度住一兩個晚上，然後第二朝早搭大約30分鐘嘅快艇去努沙佩尼達島（Nusa Penida），呢個係一個可以免除舟車勞頓，更加輕鬆嘅選擇。
 
-關於沙努爾有咩好玩好逛嘅，有興趣嘅朋友可以睇下小傑嘅「[沙努爾攻略](https://www.youtube.com/watch?v=laRb_l8BdLM)」
+關於Sanur有咩好玩好逛，有興趣嘅朋友可以睇吓小傑嘅「[Sanur攻略](https://www.youtube.com/watch?v=laRb_l8BdLM)」
 
-咁去努沙佩尼達島有咩陸上景點？點搭船、點寄行李？可以[睇下呢度](/blog/nusa-penida-guide/)。呢篇我哋主要同大家介紹努沙佩尼達島嘅四大潛點，下面仲有我哋實拍嘅片，等大家更加了解呢個令人嘆為觀止、美不勝收嘅海底世界奇觀！
+咁去努沙佩尼達島有咩陸上景點？點樣搭船、點樣寄存行李？可以[睇呢度](/blog/nusa-penida-guide/)。呢篇我哋主要同大家介紹努沙佩尼達島嘅四大潛點，下面仲有我哋實拍嘅影片，等大家更了解呢個令人讚嘆、靚到不得了嘅海底世界奇觀！
 
 ## Crystal Bay
 
@@ -59,9 +59,9 @@ Crystal Bay
 
 ➡️[更多峇里島超值優惠請撳我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
-Crystal Bay 係佩尼達島上受歡迎嘅景點之一，係佩尼達島西岸一個僻靜海灣，海灘長約200米。到達呢個海灘有馬路可以抵達。除咗迷人嘅棕櫚樹沙灘外，呢個海灣最出名嘅係作為Nusa Penida最著名嘅浮潛與潛水聖地。呢度海水清澈見底（因此得名Crystal Bay）。潛水員讚賞呢度極佳嘅水底視界，有時可達30米。
+Crystal Bay 係佩尼達島上受歡迎嘅景點之一，係佩尼達島西岸一個僻靜海灣，沙灘大約長200米。要去呢個沙灘有馬路可以到。除咗迷人嘅棕櫚樹沙灘之外，呢個海灣最出名係作為Nusa Penida最出名嘅浮潛同潛水勝地。呢度海水清澈見底（所以叫Crystal Bay）。潛水員好欣賞呢度極佳嘅水底視野，有時可以睇到30米咁遠。
 
-Crystal Bay除咗可以睇到種類繁多五彩十色嘅各種珊瑚、各式各樣嘅熱帶魚，更係世上少數可近距離觀察翻車魚（mola-mola. 台灣/日本叫做曼波魚）嘅地方。呢種巨大嘅洄游魚體重可達2000公斤，體長可達3米。7到10月間喺呢度潛水，有機會遇到並同佢哋一齊游。
+Crystal Bay除咗可以見到好多種五顏六色嘅珊瑚、各式各樣嘅熱帶魚，更加係世上少數可以近距離觀察翻車魚（mola-mola，台灣/日本叫曼波魚）嘅地方。呢種巨大嘅洄游魚體重可以去到2000公斤，體長可以去到3米。7月到10月期間喺呢度潛水，有機會遇到佢哋一齊游水。
 
 ![Mola mola 翻車魚](https://images.gobaligo.id/vocus/vocus_36854e676dbdf485e456105f5397843e.jpg)
 
@@ -75,11 +75,11 @@ Gamat Bay
 
 Gamat Bay同Crystal Bay被譽為努沙佩尼達島兩個最佳嘅浮潛地點。呢度淺水區嘅水質清澈見底，適合浮潛觀賞珊瑚礁生態。
 
-喺Gamat Bay可以睇到各種硬珊瑚，好似鹿角珊瑚、花蕾珊瑚、大型綿羊腦珊瑚等等。好多藻類好似海葵同海扇都生長得好茂盛。小型熱帶魚好似雙帶蝴蝶魚、鯛魚同刺尾魚喺珊瑚叢中穿梭游動。間中都可以見到小型礁鯊出沒。
+喺Gamat Bay可以見到好多種硬珊瑚，好似鹿角珊瑚、花蕾珊瑚、大型綿羊腦珊瑚咁。好多藻類例如海葵同海扇都生得好茂盛。細細條嘅熱帶魚好似雙帶蝴蝶魚、鯛魚同刺尾魚喺珊瑚叢中游來游去。間中都會見到細條嘅礁鯊出沒。
 
-另一大亮點係海龜，喺岸邊淺水區經常可以觀察到唔同品種嘅海龜，好似黑龜同綠海龜。6至10月係海龜產卵嘅季節，有機會見到母龜上岸產卵。
+另一個大亮點係海龜，喺岸邊淺水區成日可以觀察到唔同品種嘅海龜，例如黑龜同綠海龜。6月至10月係海龜產卵嘅季節，有機會見到龜媽媽上岸生蛋。
 
-由於靠近海岸，水流平順，Gamat Bay非常適合小朋友同初學者浮潛。記得穿戴好救生衣、蛙鏡同腳蹼，就可以安全享受呢片海底花園嘅奇幻世界。
+因為近岸，水流又平穩，Gamat Bay好啱細路仔同初學者浮潛。記得着好救生衣、蛙鏡同脚蹼，就可以安全咁享受呢片海底花園嘅奇幻世界。
 
 ## Manta Point
 
@@ -89,47 +89,47 @@ Manta Point
 
 ➡️[更多峇里島超值優惠請點我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
-Manta Point係佩尼達島上最具特色嘅景點之一，喺呢個潛點可以近距離同巨大嘅魔鬼魚（Manta Ray 巨蝠魟）親密接觸，係非常獨特同驚艷嘅體驗。
+Manta Point係佩尼達島上最有特色嘅景點之一，喺呢個潛點可以近距離同巨大嘅魔鬼魚（Manta Ray 巨蝠魟）親密接觸，係好獨特同震撼嘅體驗。
 
-俗稱「魔鬼魚」嘅巨蝠魟，其最大體型可以長達7公尺，重達約3000公斤，真係好大吓？以咁嘅體型同重量，我哋當然會驚接近佢，但係唔使擔心，雖然體型非常巨大，巨蝠魟其實一啲都唔危險。佢雖然大但對人類好友善。世界上有兩種巨蝠魟，分別係珊瑚巨蝠魟同遠洋巨蝠魟。
+俗稱「魔鬼魚」嘅巨蝠魟，最大體型可以去到7米長，重約3000公斤，真係好大吓嘛？以咁嘅體型同重量，我哋當然會驚接近佢，但係唔使擔心，雖然體型好大，巨蝠魟其實一啲都唔危險。佢雖然大，但對人類好友善。世界上有兩種巨蝠魟，分別係珊瑚巨蝠魟同遠洋巨蝠魟。
 
-喺佩尼達島Manta Point嘅巨蝠魟，係珊瑚巨蝠魟嘅類型（Manta alfredi）。呢種巨蝠魟係僅次於遠洋巨蝠魟嘅第二大種類，平均體型有3至3.5公尺。呢啲美麗嘅生物係濾食性嘅，意思係以浮游生物、甲殼動物同小魚為食。雖然尾巴好長，但並無毒性，因此同巨蝠魟游水非常安全。除咗長尾巴，同其他硬骨魚相比，巨蝠魟擁有最大嘅腦部。佢哋非常樂於同人類互動，因此佩尼達島Manta Point浮潛，係俾浮潛者同潛水員捕捉同呢啲巨蝠魟近距離接觸嘅最佳選擇。
+喺佩尼達島Manta Point嘅巨蝠魟，係珊瑚巨蝠魟嘅類型（Manta alfredi）。呢種巨蝠魟係僅次於遠洋巨蝠魟嘅第二大種類，平均體型有3至3.5米。呢種美麗嘅生物係濾食性嘅，即係以浮游生物、甲殼動物同小魚為食。雖然條尾好長，但係冇毒性，所以同巨蝠魟游水好安全。除咗長尾，同其他硬骨魚相比，巨蝠魟擁有最大嘅腦部。佢哋好樂意同人類互動，所以佩尼達島Manta Point浮潛，係浮潛者同潛水員捕捉同呢啲巨蝠魟近距離接觸嘅最佳選擇。
 
-提醒大家嘅係，我哋講嘅「接觸」唔係真係用手去掂呢啲野生生物㗎！！最主要嘅原因係為咗保護巨蝠魟嘅皮膚 - 巨蝠魟身上覆蓋一層黏液，有助保護皮膚唔受外在環境傷害。如果遊客觸碰，會移除呢層黏液，增加巨蝠魟皮膚感染嘅風險。雖然巨蝠魟性情溫和，但始終係野生動物，若果遊客擅自觸碰可能會驚嚇到佢哋，或者出於本能反應將周圍嘅人整傷。世界上大多數同巨蝠魟潛水嘅地區都有嚴格規定禁止觸碰魚類，遊客應該遵守呢項規定。
+提提大家，我哋講嘅「接觸」唔係真係用手去掂呢啲野生生物㗎！！最主要嘅原因係為咗保護巨蝠魟嘅皮膚 - 巨蝠魟身上覆蓋一層黏液，有助保護皮膚唔受外在環境傷害。如果遊客掂到，會整走呢層黏液，增加巨蝠魟皮膚感染嘅風險。雖然巨蝠魟性情溫和，但始終係野生動物，若果遊客擅自掂到可能會嚇親佢哋，或者出於本能反應整親周圍嘅人。世界上大多數同巨蝠魟潛水嘅地區都有嚴格規定禁止掂魚類，遊客應該遵守呢項規定。
 
-如果想見到巨型魔鬼魚，推薦嘅月份係**4月至11月之間**，特別係旱季期間（4月至10月），海水清澈，海流穩定，能見度更高，係最佳嘅浮潛同潛水季節。
+如果想見到巨蝠魟，推薦嘅月份係**4月至11月之間**，特別係乾季（4月至10月），海水清澈，海流穩定，能見度更高，係最佳嘅浮潛同潛水時節。
 
-其中，**8月至10月**係見到魔鬼魚嘅高峰期，因為呢段期間海流會帶嚟豐富嘅浮游生物，吸引大量嘅魔鬼魚聚集覓食。喺峇里島南部嘅**努沙佩尼達島嘅Manta Point**同**Manta Bay**，係觀賞魔鬼魚嘅熱門地點。
+其中，**8月至10月**係見到鬼蝠魟嘅高峰期，因為呢段時間海流會帶嚟豐富嘅浮游生物，吸引大量鬼蝠魟聚集搵食。喺峇里島南部嘅**Nusa Penida島（努沙佩尼達）嘅Manta Point**同**Manta Bay**，係睇鬼蝠魟嘅熱門地點。
 
-需要注意嘅係：魔鬼魚嘅出現受天氣同海流影響，無法100%保證。
+要注意：鬼蝠魟嘅出現受天氣同海流影響，冇辦法100%保證。
 
 ## Toyapakeh Wall Point
 
-「托亞帕克牆（Toyapakeh Wall Point）」其實係一個懸崖峭壁，佢嘅位置就喺Adiwana Warnakali潛水中心下面。
+「托亞帕克牆（Toyapakeh Wall Point）」其實係一個懸崖峭壁，位置就喺Adiwana Warnakali潛水中心下面。
 
-呢個潛點有一個4至6米深嘅小珊瑚台地，亦係最佳嘅浮潛點。珊瑚台地之後，分為兩層。第一層約12至15米深，第二層約40米深。呢度係非常熱門嘅潛點，因為海水清澈，珊瑚繁盛。
+呢個潛點有一個4至6米深嘅小珊瑚台地，即係最佳嘅浮潛點。珊瑚台地之後，分為兩層。第一層約12至15米深，第二層約40米深。呢度係好熱門嘅潛點，因為海水清澈，珊瑚繁盛。
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774881808430-toyapakeh_wall_point.jpg)
 
 珊瑚台地，色彩繽紛
 
-➡️[更多峇里島超值優惠請點我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
+➡️[更多峇里島超值優惠請撳呢度](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
-Adiwana Warnakali潛水中心前面有一處大型軟珊瑚同海扇珊瑚保護嘅區域。呢啲軟珊瑚構成迷人嘅結構，整個區域生態非常豐富：各種魚群、軟珊瑚、健康嘅硬珊瑚，喺呢度浮潛或潛水，淨係欣賞呢個風景就已經美不勝收！
+Adiwana Warnakali潛水中心前面有一大塊由大型軟珊瑚同海扇珊瑚保護嘅區域。呢啲軟珊瑚構成迷人嘅結構，成個區域生態好豐富：各種魚群、軟珊瑚、健康嘅硬珊瑚，喺呢度浮潛或者潛水，淨係欣賞呢個風景都已經靚到不得了！
 
 ## 實拍視頻
 
-講咗咁多，不如等大家親眼睇下海底世界有幾神奇！大家可以參考我哋2023年9月去呢啲潛點浮潛嘅精彩片段：
+講咗咁多，不如等大家親眼睇吓呢個海底世界有幾驚奇！大家可以參考我哋2023年9月去呢啲潛點浮潛嘅精彩片段：
 
 https://youtu.be/jjuHfCukQrM
 
 ## 點樣參加浮潛/潛水嘅行程
 
-上次我哋因為人數比較多，所以我哋自己包咗一艘有船長、教練、浮潛設備嘅小遊艇。各位如果人數冇咁多，可以參考Klook提供咗好多優惠行程：
+上次我哋因為人數比較多，所以自己包咗一艘有船長、教練、浮潛裝備嘅小遊艇。各位如果人數冇咁多，可以參考Klook提供咗好多優惠行程：
 
 - [佩尼達島一日遊（峇里島出發）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F15758-nusa-penida-full-day-trip-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7847cab48f)
 - [佩尼達島網紅景點打卡 & 潛水之旅](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26411-nusa-penida-instagram-private-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D370017bd78)
-- [佩尼達島快艇船票](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23020-fast-boat-ticket-sanur-nusa-penida-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D39063e7b1d)
+- [佩尼達島快艇船飛](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23020-fast-boat-ticket-sanur-nusa-penida-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D39063e7b1d)
 - [佩尼達島私人包車](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F23014-nusa-penida-private-car-charter-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd8cbaa8627)
 - [探索之旅 - 峇里島出發（沙努爾港集合）](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739878&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54289-nusa-penida-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D76e0910049)
 - [Nusa Penida多日遊](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739883&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F50799-2d1n-nusa-penida-tour-include-hotel-island-hopping-tour-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D27403b719a)

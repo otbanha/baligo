@@ -19,7 +19,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_92c1c3c6353fec567c863e536302c897.jpg'
 originalUrl: 'https://vocus.cc/article/66551cfefd897800011f9d5e'
 lang: zh-cn
-_srcHash: 1af4034799a6305271949a9db1d76781
+_srcHash: 34c96dfc2cd43e703f4101ecd10a745b
 ---
 
 脸书社团团友 [Mei Chen](https://www.facebook.com/mei.co.nz/) 跟家人的巴厘岛八天七夜游记，特此提供给我们编辑/转载：
@@ -46,7 +46,7 @@ _srcHash: 1af4034799a6305271949a9db1d76781
 
 ### 网卡
 
-我们提前在虾皮上选择了评价最高的卖家，购买了两张XL电信的网卡。但据说XL电信的信号普遍不好，所以我们决定在当地再保留部分预算购买其他网卡。结果发现XL电信的信号果然非常差，几乎无法使用网络。后来我们在当地购买了Telkomsel的网卡，24GB约12美元，这才获得稳定的网络连接。
+我们提前在虾皮上选择了评价最高的卖家，购买了两张XL电信的网卡。但据说XL电信的信号普遍不好，所以我们决定在当地再保留部分预算购买其他网卡。结果发现XL电信的信号果然非常差，几乎无法使用网络。后来我们在当地购买了Telkomsel的网卡，24GB约12美金，这才获得稳定的网络连接。
 
 ### 换汇
 
@@ -56,7 +56,7 @@ _srcHash: 1af4034799a6305271949a9db1d76781
 
 ### 机场至金巴兰酒店
 
-我们使用Grab叫了两台车，等候时间大约20分钟。当场搜索价格发现Grab比Gojek便宜，也比事先在Klook订的机场接送便宜（海狮车型约23美元）。考虑到落地签可能会延误时间，因此选择现场叫车。Grab两台车的费用大约是13美元，但需要现场等车，自行斟酌。相比之下，机场接机如果选择包车是最贵的选项，因为司机只载一趟还要租车，并且不能接其他行程，除非当天还有其他地点需要前往，否则不推荐包车。
+我们使用Grab叫了两台车，等候时间大约20分钟。当场搜索价格发现Grab比Gojek便宜，也比事先在Klook订的机场接送便宜（海狮车型约23美金）。考虑到落地签可能会延误时间，因此选择现场叫车。Grab两台车的费用大约是13美金，但需要现场等车，自行斟酌。相比之下，机场接机如果选择包车是最贵的选择，因为司机只载一趟还要租车，并且不能接其他行程，除非当天还有其他地点需要前往，否则不推荐包车。
 
 ### 行程
 
@@ -70,7 +70,7 @@ _srcHash: 1af4034799a6305271949a9db1d76781
 
 ### FOX Hotel Jimbaran Beach 酒店
 
-到达后，我们直接前往FOX Hotel Jimbaran Beach酒店放置行李，这家酒店距离金巴兰沙滩很近，步行即可到达。酒店顶楼有无边泳池，还有儿童戏水区，环境非常适合家庭旅游。
+到达后，我们直接前往FOX Hotel Jimbaran Beach酒店放置行李，这家酒店距离金巴兰沙滩很近，步行即可到达。酒店顶楼有无边际泳池，还有儿童戏水区，环境非常适合家庭旅游。
 
 ### 金巴兰沙滩
 
@@ -78,7 +78,7 @@ _srcHash: 1af4034799a6305271949a9db1d76781
 
 ### 晚餐 - Lia Cafe
 
-晚餐我们选择了Lia Cafe，这里需要另收10%的服务费，也可以刷卡支付。等餐的时候，有一组当地歌手会根据你的国籍唱不同的歌，但他们强迫要求小费，给得太少他们会表现得不高兴，这点让我们的用餐体验有些不愉快。（编按：不是属于餐厅的乐团。一般乐团献唱，你们一行人给个50,000印尼盾的小费就皆大欢喜了！）
+晚餐我们选择了Lia Cafe，这里需要另收10%的服务费，也可以刷卡支付。等餐的时候，有一组当地歌手会根据你的国籍唱不同的歌，但他们强迫要求小费，给得太少他们会表现出不高兴，这点让我们的用餐体验有些不愉快。（编按：不是属于餐厅的乐队。一般乐队献唱，你们一行人给个50,000印尼盾的小费就皆大欢喜了！）
 
 > 延伸阅读：[巴厘岛金巴兰11家海鲜餐厅推荐](/blog/jimbaran-seafood-restaurants-list/)
 
@@ -90,7 +90,7 @@ _srcHash: 1af4034799a6305271949a9db1d76781
 
 ### Coco Supermarket Jimbaran
 
-晚餐后，我们去了附近的Coco Supermarket Jimbaran，购买了一些零食和水果。去超市的路上，看到很多卖网卡的店家，我们找了一间最便宜的店买了网卡，还顺便在一家换汇所换了一点钱。
+晚餐后，我们去了附近的Coco Supermarket Jimbaran，购买了一些零食和水果。去超市的路上，看到很多卖网卡的店家，我们找了一家最便宜的店买了网卡，还顺便在一家换汇所换了一点钱。
 
 ### 住宿 - FOX Hotel Jimbaran Beach
 
@@ -177,7 +177,7 @@ Mei Chen提供：乌鲁瓦图庙和卡恰火舞表演
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775996239850-60089430.jpeg)
 
-晚上，我们入住Prime Plaza Hotel Sanur - Bali。这家酒店非常适合第二天要跳岛的人，步行几分钟就可以抵达沙努尔的新港口。泳池设有儿童戏水区，适合带孩子的家庭。不过，我们退房时把泳圈遗留在房间，三个小时后询问时被告知没看到，这点让我们有些失望，酒店在这方面的服务有待改进。
+晚上，我们入住Prime Plaza Hotel Sanur - Bali。这家酒店非常适合隔天要跳岛的人，步行几分钟就可以抵达沙努尔的新港口。泳池设有儿童戏水区，适合带孩子的家庭。不过，我们退房时把泳圈遗留在房间，三个小时后询问时被告知没看到，这点让我们有些失望，酒店在这方面的服务有待改进。
 
 > ▶[Prime Plaza Hotel Sanur订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1251) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=840723&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-OaysLFJMEk1cfC0bdr2msWIXZDUzMDQwMjg4XCFrcrHJcU2HJdly508CwE0oszSh0CeCKmHHg-jT0xYq3Pj6Vazg5djKxggRmMk1cYr2Bk3MhoDAaBDjsYmU4w7uRZwLTgwQS9UyzMHAeYLrF8ZYquVspOrVSyMtFRKsksyUlVslJ6umje04Y9z1e0KukopaQWJwOFgKzE3PzSvBIg29DMQM_AAChSkljhmQLWmZyYk1yak1iSGlJZADTBTEcps9i5pCizICg1N7OkJBWoKi0xpzgVJB6UWgyUSQYLKvkBjSmCCmTm50G0G6KIhSXmlKZCnAC00C0VaodhrQ6my5_N6X3aPfPFpt3Eudyc2i43IMblxrWxj1iYomM_sTD8YmFoYmXoYmXm2MQ4CUju5NnFyh_l7mwe4qEbbhbpqhula3iB9TWvlLyhgYGBqaGxqamuQaJloqlxsqGuiaWJkaWprqGpuaGpxsxTvxqfGhtZS0GiX4FRSzA-xNPTxbCkMNWssNQyp6jA1IDxFKOUobmxhaGRoaGRkZGlsZ6JRZpZsUVesUVuVoQHYxCbiZOTs5tllA0Xc2iwi2D_oa8aMfrSDlLMIeEuikEubaF7Jp6212L2dAkyvPefJVdb2dI-0OKLGP97ywX2kTD5JNaqDN2Q8Ixe8QLGBkamLkZuAUYPxgjGCiCPcRUjOxezgZGhANMGRsYdjP9hgPEVI8gSACawbt4BAwAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-15715&detailFilters=17|1~17~1*31|840723~31~840723*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1840&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/KPN8NJqU)
 
@@ -232,13 +232,13 @@ https://youtu.be/SpcgZ4iK7qs
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775996483008-478166879.jpeg)
 
-今晚我们入住乌布的RV Hotel Kutus Kutus，每间房价约13美金，不包含早餐，因为加早餐的费用比住宿费还贵，这让我们忍俊不禁。房间很新，顶楼有无边泳池，还有儿童戏水区。唯一的缺点是房间隔音不好，但以这个价格来说，还是非常划算。浅眠的人可能需要注意这一点。
+今晚我们入住乌布的RV Hotel Kutus Kutus，每间房价约13美元，不包含早餐，因为加早餐的费用比住宿费还贵，这让我们忍俊不禁。房间很新，顶楼有无边泳池，还有儿童戏水区。唯一的缺点是房间隔音不好，但以这个价格来说，还是非常划算。浅眠的人可能需要注意这一点。
 
 > ▶[RV Hotel Kutus Kutus订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=45418503)
 
 ### 晚餐 - Pasar Senggol Gianyar夜市
 
-晚上，我们前往Pasar Senggol Gianyar夜市，这是当地人常去的夜市，规模相当大，非常有趣。我们搭乘六人座的Gojek前往，费用约1美金。在夜市里，我们品尝了各种当地美食，体验了真正的「巴厘岛夜生活」。
+晚上，我们前往Pasar Senggol Gianyar夜市，这是当地人常去的夜市，规模相当大，非常有趣。我们搭乘六人座的Gojek前往，费用约1美元。在夜市里，我们品尝了各种当地美食，体验了真正的“巴厘岛夜生活”。
 
 小杰去过另一个巴厘岛最大的夜市：
 
@@ -296,7 +296,7 @@ https://youtube.com/shorts/sVxycGvyT9w
 
 > ▶[Batur view Homestay订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=8927154)
 
-今晚我们住在Batur view Homestay，这里的房间阳台是山景第一排，景色超美。由于这是一间民宿，所以房间的设备相对基础，每间房价约USD$32。如果你对酒店设备有较高的要求，可以考虑Oculus Bali，但据说那里的阳台景观没有这么漂亮，需要到楼顶才能看到。
+今晚我们住在Batur view Homestay，这里的房间阳台是山景第一排，景色超美。由于这是一间民宿，所以房间的设备相对基础，每间房价约32美元。如果你对酒店设备有较高的要求，可以考虑Oculus Bali，但据说那里的阳台景观没有这么漂亮，需要到楼顶才能看到。
 
 ![Oculus Bali 的 view 也不錯啊！](https://images.gobaligo.id/vocus/vocus_0ec49bc00a52aa3cae7c5b4bf4a9bb21.png)
 
@@ -377,7 +377,7 @@ https://youtube.com/shorts/NEnIZjZnrTk
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776001207455-174101622.jpeg)
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776001208052-54688182.jpeg)
 
-今晚我们入住Dwaraka The Royal Villas，这里的房价含早餐、下午茶、免费足部按摩、每小时一趟市区接送，房间内还有饼干、水果和免费饮料。这是一个非常超值的酒店，提供了各种设施和服务，好像就住在乌布的皇宫里！绝对是这趟旅行中最值得推荐的住宿地点。房价约两千出头，如果选择四人房两层villa含私人泳池则约四千台币（约USD$129）。这里还有两个大众泳池，儿童戏水区和kids club，是个适合家庭的好选择。
+今晚我们入住Dwaraka The Royal Villas，这里的房价含早餐、下午茶、免费足部按摩、每小时一趟市区接送，房间内还有饼干、水果和免费饮料。这是一个非常超值的酒店，提供了各种设施和服务，好像就住在乌布的皇宫里！绝对是这趟旅行中最值得推荐的住宿地点。房价约两千出头，如果选择四人房两层别墅含私人泳池则约四千台币（约USD$129）。这里还有两个大众泳池，儿童戏水区和kids club，是个适合家庭的好选择。
 
 ▶[Dwaraka The Royal Villas订房链接](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1030641) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=3913616&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-NqZ-FikmCSamDh2H3pxEk2IUYDi9-CjmkgcK3WwfNhlcg695VNDgE8EVMOPJ_Gnqh2P6c4eUGAQxcjK1hgBuOE9-8YVzAybmQstOW6vvhDrMMORqYDjEwnGG-KLmBa_O8R0ykWZo41LJdYvjJFVytlp1YqWZnoKJVkluSkKlkpPV0072nDnucrWpV0lFJSi5OBQkBWYm5-aV4JkG1kbqFnYAAUKUms8EwB60xOzEkuzUksSQ2pLACaYKajlFnsXFKUWRCUmptZUpIKVJWWmFOcChIPSi0GyiSDBZX8gMYUQQUy8_Mg2g1RxMISc0pTIU4AWuiWCrXDsFYH0-XP5vQ-7Z75YtNu4lxuTm2XGxDjcuPa2EcsTNGxn1gYfrEwNLEydLEyc2xlmgQkb4ruYmULdg0KDnS-wNonISVvaGBgYGpobGqqa5BoaZFknGiga2JpYmRmqWtsaWluonHz4LOrT4yNrKUgMa_AqCUYH-Lp6WJYUphqVlhqmVNUYGrAeIpRytDc2MLQyNDQyMjI0ljPxCLNrNgir9giNyvCgzGIzdzJ0tDULcqGi9nTJUjwg97z7e3WlvZSzCHhLor2sv2SK3pO22uB5AxhcoF7XuecsDdeYB9Zuvr5ku-9p-2TWKsydEPCM46LFTA2MDJ1MXILMHowRjBWAHmMqxgZNjAy7mD8DwOMrxhBpgMAN8-FGewCAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494269-39974&detailFilters=17|1~17~1*31|3913616~31~3913616*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=432&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/48vW2DzN)
 
@@ -474,7 +474,7 @@ Mei Chen提供。左：布拉坦水神庙；右：海神庙
 
 ### Potato Head Suites & Studios
 
-晚上我们入住了Potato Head Suites & Studios，这是全世界排名第四十的酒店，我们特地选择来体验一下。房间的大小和高档酒店相比稍嫌小了一些，但是可能是因为酒店都是用环保材质打造的，这也是它得名的原因之一吧。入住时赠送了保温瓶，退房时送了手链。这个酒店更适合年轻人，喜欢去club享受热闹气氛的人，因为附近就有著名的Potato Head Beach Club。如果是家庭旅行，也许可以考虑其他选择，不过这里有无边泳池和小孩戏水区，对一些家庭来说也是不错的选择。
+晚上我们入住了Potato Head Suites & Studios，这是全世界排名第四十的酒店，我们特地选择来体验一下。房间的大小和高档酒店相比稍嫌小了一些，但是可能是因为酒店都是用环保材质打造的，这也是它得名的原因之一吧。入住时赠送了保温瓶，退房时送了手链。这个酒店更适合年轻人，喜欢去club享受热闹气氛的人，因为附近就有著名的Potato Head Beach Club。如果是家庭旅行，也许可以考虑其他选择，不过这里有无边泳池和儿童戏水区，对一些家庭来说也是不错的选择。
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776001753497-387638706.jpeg)
 ![raw-image](https://images.gobaligo.id/images/2026-04/1776001753970-471283622.jpeg)
@@ -519,7 +519,7 @@ Mei Chen提供，水明漾沙滩的父子俩
 
 ## 行程后记与心得
 
-此次行程主要依大人为主，但每天还是有安排给小孩和大人玩水的时间。我们没有选择入住高端的villa或度假村，因为行程安排得很紧凑，没时间好好享受，所以就不多花钱啦！我们主要选择的是评价好、性价比高的酒店入住。
+此次行程主要依大人为主，但每天还是有安排给小孩和大人玩水的时间。我们没有选择入住高級的villa或度假村，因为行程安排得很紧凑，没时间好好享受，所以就不多花钱啦！我们主要选择的是评价好、性价比高的酒店入住。
 
 如果对寺庙不是特别感兴趣，可以考虑删减一些相关行程，这样就会有更多的时间去享受按摩、玩水和逛街的乐趣。不过，我们这次是抱着可能一生只来一次的心态，硬是把所有知名景点都安排得满满的，整体而言是一次非常丰富而难忘的旅程。😆
 

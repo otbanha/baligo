@@ -1,6 +1,6 @@
 ---
 slug: bali-honeymoon-travel-guide
-title: Rekomendasi & Cerita Bulan Madu di Bali
+title: Rekomendasi & Sharing Trip Bulan Madu ke Bali
 description: >-
   Kali ini aku pergi bulan madu ke Bali, dan banyak referensi dari pengalaman
   teman-teman forum. Sekarang aku rangkum beberapa hal yang worth it untuk
@@ -18,7 +18,7 @@ update: 2026/05/22
 heroImage: 'https://images.gobaligo.id/vocus/vocus_928bcf8de351c2ebc6891979b506e58e.jpg'
 originalUrl: 'https://vocus.cc/article/6658817efd89780001222f04'
 lang: id
-_srcHash: 15826eaa6d4c50c4c27468f503dc885d
+_srcHash: 19f2b44ad22063e51be8a0e55efa2219
 ---
 
 > Konten berikut disediakan oleh member [Angel Wu](https://www.facebook.com/angel.wu.75491/) dan sudah disetujui untuk diadaptasi.
@@ -29,29 +29,29 @@ Waktu perjalanan: 19 - 23 Mei 2024
 
 ## Visa / Pajak Wisatawan
 
-Pertama, yang paling penting adalah visa. Kami mengurus e-visa sekitar tiga minggu sebelumnya, ngikutin panduan dari forum dan YouTube, step by step ngisi formulir. Setelah diisi, e-visa langsung terkirim, jangan lupa di-print ya, bakal diperiksa pas imigrasi. Jangan coba-coba lolos, pajak wisatawan juga harus dibayar online. Sesampainya di sana, dari imigrasi sampai ambil bagasi, siapkan waktu sekitar satu jam biar nggak buru-buru. Setelah ambil bagasi, terakhir harus scan QR Code dari e-customs declaration yang udah diisi sebelumnya baru boleh keluar.
+Pertama, yang paling penting adalah visa. Kami mengurus e-visa sekitar tiga minggu sebelumnya, ngikutin panduan dari forum dan YouTube, step by step isi formulir. Setelah diisi, e-visa langsung terkirim. Jangan lupa di-print, karena bakal diperiksa saat imigrasi. Jangan coba-coba main-main, pajak wisatawan juga harus dibayar online sebelum berangkat. Sesampainya di sana, dari imigrasi sampai ambil bagasi, siapkan waktu sekitar satu jam biar nggak buru-buru. Setelah ambil bagasi, terakhir harus scan QR Code e-customs declaration yang udah diisi sebelumnya biar bisa keluar.
 
 > Baca juga: [Panduan Masuk Bali 2025 Pakai Kartu Kedatangan 'All Indonesia' | Paham dalam 1 Menit: Turun Pesawat → Imigrasi → Ambil Bagasi](/blog/bali-all-indonesia-arrival-guide/)
 
 ## Tukar Uang
 
-Karena jadwal perjalanan, kami langsung tukar uang di bandara (dolar AS ke IDR). Meskipun kursnya pasti nggak sebagus di luar, tapi cuma tukar sedikit jadi nggak terlalu dipikirin. Uang hasil tukar ini mostly buat tip dan bayar sopir cash udah cukup. Kalau bisa bayar pakai kartu, ya pakai kartu (inget pilih kurs lokal), misalnya pas spa atau makan di restoran pinggir pantai, kami tanya dulu apakah bisa pakai kartu. Ini bikin praktis, nggak perlu bawa banyak cash, dan juga nggak repot mikirin kurs yang nggak familiar.
+Karena jadwal perjalanan, kami langsung tukar uang di bandara (dolar AS ke rupiah). Meskipun kursnya pasti nggak sebaik di luar, tapi karena cuma tukar sedikit, ya nggak terlalu dipikirin. Uang hasil tukar ini cukup buat tip dan bayar sopir cash. Kalau bisa, bayar pakai kartu aja (ingat pilih kurs lokal), misalnya pas spa atau makan di restoran pinggir pantai, kami tanya dulu apakah bisa pakai kartu. Ini bikin praktis, nggak perlu bawa banyak cash, dan juga nggak repot mikirin kurs yang nggak familiar.
 
 {{block:換匯}}
 
 ## Transportasi
 
-Jalanan di Bali cukup rumit, jadi saran gue sih mending panggil taksi online atau sewa mobil sesuai itinerary. Macetnya paling parah di sekitar bandara, daerah lain relatif lebih lancar. Mau share soal supir lokal bernama Budi, kenalannya pas hari pertama pesan jemput bandara lewat KKday. Menurut gue dia oke banget, akhirnya beberapa hari berikutnya buat perjalanan pendek juga langsung kontak via WhatsApp. 
+Jalanan di Bali cukup rumit, jadi saran gue mending panggil taksi online atau sewa mobil sesuai itinerary. Macetnya mostly di sekitar bandara, daerah lain relatif oke. Mau share soal driver lokal bernama Budi, kenalan pas pertama kali pesan jemput bandara lewat KKday. Menurut gue dia oke banget, akhirnya untuk perjalanan pendek hari-hari berikutnya langsung kontak via WhatsApp. 
 
 {{block:包車}}
 
-Budi orangnya ramah dan bisa dipercaya. Selama perjalanan, kalau ada yang penasaran soal Bali, tanya aja langsung. Meskipun bahasa Inggrisnya agak medok lokal, tapi masih bisa dimengerti, komunikasinya juga asyik. Pas kita ngobrol pakai bahasa Mandarin, Budi nggak ikut campur, dia nyetir aja dengan tenang, bikin kita nyaman banget. Setelah pengalaman jemput bandara yang oke, hari-hari berikutnya kita pilih dia lagi karena udah percaya. Meskipun nanya tengah malam, dia selalu fast respon dan dateng lebih awal dari janji. Jadwal Budi padat banget, katanya selama tempatnya nggak terlalu terpencil, dia siap anter. 
+Budi ramah dan trustworthy. Sepanjang perjalanan, kalau ada yang penasaran soal Bali bisa tanya aja. Meskipun bahasa Inggrisnya agak beraksen lokal, tapi masih bisa dimengerti, komunikasinya juga asyik. Waktu kita ngobrol pakai Mandarin, Budi nggak ganggu, dia nyetir dengan tenang, bikin kita nyaman. Setelah pengalaman jemput bandara oke, hari-hari lain kita pilih dia lagi karena udah trust. Meskipun nanya tengah malam, dia selalu fast reply dan datang lebih awal dari janji. Jadwal Budi padat banget, katanya asal bukan tempat terpencil, dia mau antar jemput. 
 
 ![包車司機 Budi Arnaya / Angel Wu提供](https://images.gobaligo.id/vocus/vocus_88a22ecfd666643437fb6f8f1c80bedf.jpg)
 
-Supir sewaan: Budi Arnaya / Angel Wu
+Sopir sewa mobil Budi Arnaya / Angel Wu
 
-Soal tarif, gue udah cek jarak yang mau ditempuh, harganya mirip-mirip sama Grab. Ini kontak Budi, siapa tau ada yang butuh bisa hubungi langsung. Boleh bilang dikenalin sama Mr. Lin Chen Wei dari Taiwan (nggak ada diskon, murni rekomendasi). 
+Soal tarif, gue udah cek jarak yang mau ditempuh, harganya mirip sama Grab. Ini kontak Budi, yang butuh bisa hubungi langsung, atau bilang aja referensi dari Mr. Lin Chen Wei dari Taiwan (nggak ada diskon, pure rekomendasi). 
 
 **WhatsApp**: +62 821-4659-3754
 
@@ -59,83 +59,83 @@ Soal tarif, gue udah cek jarak yang mau ditempuh, harganya mirip-mirip sama Grab
 
 ## Makanan
 
-Rencana makan kita kali ini mostly sarapan (hotel), teh sore (hotel), dan makan malam. 
+Kali ini jadwal makan kita mostly sarapan (hotel), afternoon tea (hotel), dan dinner. 
 
-**Teh Sore**: Kita pilih afternoon tea di Hotel Indigo Seminyak dan Four Seasons. Dua-duanya recomended banget! 
+**Afternoon Tea**: Kita pilih afternoon tea di Hotel Indigo Seminyak dan Four Seasons. Kedua paket afternoon tea ini highly recommended banget. 
 
 > ▶ Aku juga mau pesan [Afternoon Tea/Dining di Hotel Indigo Seminyak](https://www.kkday.com/zh-tw/product/31018-sugarsand-dining-experience-at-hotel-indigo-bali-seminyak-beach-indonesia?cid=25072)
 
-### Rekomendasi Editor: Kuliner Kece di Seminyak ([Panduan Peta](https://www.google.com/maps/d/u/0/edit?mid=1il-sYTIMNMSVrVWqSnUPgdlsbCfMPP0&usp=sharing)🗺️)
+### Rekomendasi Editor: Kuliner Kece di Seminyak ([Peta Panduan](https://www.google.com/maps/d/u/0/edit?mid=1il-sYTIMNMSVrVWqSnUPgdlsbCfMPP0&usp=sharing)🗺️)
 
-Seminyak punya banyak pilihan restoran, mau kamu suka makanan internasional atau lokal, semua ada di sini buat memanjakan lidahmu. Nikmati dinner romantis dengan lilin di pinggir pantai, atau cicipi hidangan dari seluruh dunia di restoran mewah — semuanya bikin pengalaman yang nggak terlupakan. Beberapa restoran punya menu spesial dan suasana nyaman yang cocok banget buat pasangan yang ingin quality time romantis.
+Seminyak punya pilihan restoran yang super beragam, mau kamu suka makanan internasional atau lokal, semua bisa bikin lidahmu bahagia. Nikmatin dinner romantis dengan lilin di tepi pantai, atau cicipi hidangan dari berbagai penjuru dunia di restoran mewah — pengalaman yang nggak bakal terlupakan. Beberapa restoran punya menu spesial dan suasana nyaman yang pas banget buat pasangan yang pengen quality time romantis.
 
 > [The Restaurant – Pengalaman Makan Bintang Lima](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772197&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F94566-the-restaurant-the-legian-seminyak-dining-experience-bali%2F%3Fspm%3DSearchResult.SearchSuggest_LIST%26clickId%3D0ef2d78595)
 
 > [Pengalaman Makan di Seasalt, Alila Seminyak](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772197&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F94283-seasalt-alila-seminyak-dining-experience-bali%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D1bdc3332f0)
 
-> [Pengalaman Piknik & Makan di Este Cafe & Resto yang Super Cantik](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772197&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F83502-picnic-and-dining-at-este-leisure-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0e2dbab8ed)
+> [Este Cafe & Resto yang Super Cantik – Pengalaman Piknik Makan](https://affiliate.klook.com/redirect?aid=116349&aff_adid=772197&k_site=https%3A%2F%2Fwww.klook.com%2Fen-US%2Factivity%2F83502-picnic-and-dining-at-este-leisure-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D0e2dbab8ed)
 
-> [MoonLite Kitchen and Bar – Diskon Pemesanan](https://affiliate.klook.com/redirect?aid=116349&aff_adid=987897&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F141996-moonlite-kitchen-and-bar-at-grand-seminyak%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D80a0eacd12)
+> [MoonLite Kitchen and Bar – Diskon Spesial](https://affiliate.klook.com/redirect?aid=116349&aff_adid=987897&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F141996-moonlite-kitchen-and-bar-at-grand-seminyak%2F%3Fspm%3DActivity.SearchSuggest_LIST%26clickId%3D80a0eacd12)
 
 ![金巴蘭四季酒店下午茶。Angel Wu提供](https://images.gobaligo.id/vocus/vocus_700244ce804b2ec96bd53bc09096fac6.jpg)
 
 Afternoon Tea di Four Seasons Jimbaran. Foto oleh Angel Wu
 
-Restoran Sundara di Four Seasons Jimbaran, dari suasananya sampai makanannya, semuanya recommended banget. Pengalaman afternoon tea kali ini bikin liburan kita di Bali makin sempurna, worth it banget buat dicoba lagi.
+Restoran Sundara di Four Seasons Jimbaran, baik suasananya maupun makanannya, sangat aku rekomendasikan. Pengalaman afternoon tea kali ini bikin liburan kami di Bali makin sempurna, worth it banget buat dicoba lagi.
 
 https://youtube.com/shorts/sJxJYXkoAZ0?si=nu2TUMa-dhrcVQXj
 
-> ▶ Aku juga mau pesan [Afternoon Tea di Four Seasons Jimbaran Bali](https://affiliate.klook.com/redirect?aid=116349&aff_adid=863388&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54271-sundara-day-pass-four-seasons-resort-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D43ab660906)
+> ▶ Aku juga mau pesan [Afternoon Tea di Four Seasons Jimbaran](https://affiliate.klook.com/redirect?aid=116349&aff_adid=863388&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F54271-sundara-day-pass-four-seasons-resort-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D43ab660906)
 
 {{block:jim}}
 
-**Makan Malam** : Dua malam kami makan malam di restoran yang kami temukan secara acak di Jimbaran dan Seminyak. Di Indonesia, selain harga yang tertera, biasanya ada tambahan pajak hingga 21% (11% pajak restoran pemerintah + 5%–10% biaya layanan). Beberapa restoran sudah termasuk pajak dalam harga, ada juga yang belum, jadi sebaiknya tanya dulu ke pihak restoran sebelum makan. Di Jimbaran, kami makan di restoran pantai dan memilih paket menu paling dasar, yang meliputi satu ember nasi, satu sayuran, satu porsi udang, satu ikan, satu porsi kerang, satu sate, satu lauk kecil, dan dua botol bir, plus berbagai macam saus. Harga paket seperti ini sekitar USD$23, sangat worth it untuk berdua.
+**Makan malam**: Dua malam kami makan malam di restoran pantai di Jimbaran dan Seminyak secara acak. Di Indonesia, selain harga yang tertera, biasanya ada tambahan pajak hingga 21% (11% pajak restoran pemerintah + 5%–10% biaya layanan). Beberapa restoran sudah termasuk pajak dalam harga, ada juga yang belum, jadi sebaiknya tanya dulu ke pihak restoran sebelum makan. Di Jimbaran, kami makan di restoran pantai dan memilih paket menu paling dasar, termasuk satu ember nasi, satu sayuran, satu porsi udang, satu ikan, satu porsi kerang, satu sate, satu lauk kecil, dan dua botol bir, plus berbagai macam saus. Harga paket seperti ini sekitar USD$23, sangat worth it untuk berdua.
 
 ![這家金巴蘭海鮮餐廳，二人套餐約台幣700。Angel Wu提供](https://images.gobaligo.id/vocus/vocus_9808008c1b43d318cb783ff8571ccf53.jpg)
 
-Restoran seafood Jimbaran ini, paket untuk dua orang sekitar USD$23. — Angel Wu
+Restoran seafood Jimbaran ini, paket untuk dua orang sekitar USD$23. (Foto: Angel Wu)
 
-Suasana restoran ini keren banget, bisa makan sambil lihat pemandangan laut. Di tempat wisata, harga dan suasana makan seperti ini udah oke banget.
+Suasana restoran ini keren banget, bisa makan sambil lihat pemandangan laut. Di tempat wisata, harga dan suasana makan seperti ini benar-benar oke.
 
-Catatan Redaksi: Restoran seafood Jimbaran rekomendasi Angel udah masuk di [11 Restoran Seafood Jimbaran Bali: Rekomendasi Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
+Catatan editor: Restoran seafood Jimbaran rekomendasi Angel sudah masuk dalam [11 Restoran Seafood Jimbaran di Bali: Rekomendasi Anti Gagal](/blog/jimbaran-seafood-restaurants-list/)
 
 ## Tips
 
-Setelah cek internet, ada yang bilang Indonesia punya budaya tip, ada juga yang bilang enggak. Pengalaman kami, beberapa kali kasih tip malah bikin mereka kaget dan agak sungkan nerima. Pas kami bilang terima kasih atas pelayanannya, baru mereka mau terima. Intinya, naik mobil atau angkat koper kasih 10.000 IDR; pas bayar makan juga kasih tambahan 10.000 IDR cash ke pelayan. Di hotel, ada staf yang baik hati bantu foto-fotoin kami, mereka juga bilang gak usah kasih tip. Jadi menurutku pribadi, kasih tip itu bukan keharusan, tapi bentuk sopan santun. Kalau mau kasih, usahakan jangan pakai koin, karena itu kurang sopan. (Catatan Redaksi: Koin dengan nilai terbesar di Indonesia adalah 1.000 IDR, sekitar USD$0,03)
+Setelah cek internet, ada yang bilang Indonesia punya budaya tip, ada juga yang bilang enggak. Pengalaman kami, beberapa kali kasih tip malah bikin mereka kaget dan agak sungkan nerimanya. Baru setelah kami bilang terima kasih atas pelayanan mereka, mereka mau terima. Intinya, kalau naik mobil atau bantu bawa koper, kasih 10.000 IDR; pas bayar makan juga kasih tambahan 10.000 IDR tunai untuk staf. Di hotel, ada staf yang ramah banget bantu foto-fotoin kami, mereka juga bilang nggak usah dikasih tip. Jadi menurutku pribadi, tip itu nggak wajib, tapi bentuk sopan santun. Kalau mau kasih, usahakan jangan pakai koin, karena itu kurang sopan. (Catatan editor: Koin dengan nilai terbesar di Indonesia adalah 1.000 IDR, sekitar USD$0.03)
 
-Baca Juga: [Tips di Bali: Perlukah? Bagaimana Caranya? Berapa Banyak untuk Berbagai Situasi?](/blog/bali-tipping-guide-driver-spa/)
+Baca juga: [Tips di Bali: Perlukah? Bagaimana Caranya? Berapa Banyak Tip untuk Berbagai Situasi?](/blog/bali-tipping-guide-driver-spa/)
 
-Karena ini perjalanan bulan madu, meskipun pertama kali ke Bali, kami ingin ke banyak tempat, tapi gak mau capek macet-macetan tiap hari. Jadi kami pilih itinerary yang super santai. Kami nikmatin fasilitas hotel, afternoon tea yang bikin kenyang, cobain pijat tradisional, jalan-jalan di tiga pantai berbeda, dan makan malam — seru juga ternyata.
+Karena ini bulan madu, meskipun pertama kali ke Bali, kami ingin ke banyak tempat, tapi nggak mau capek macet-macetan tiap hari. Jadi kami pilih itinerary yang super santai. Kami nikmatin fasilitas hotel, ngemil sore yang mengenyangkan, cobain pijat tradisional, jalan-jalan di tiga pantai berbeda, dan makan malam — seru juga ternyata.
 
 ## SAVA SPA di Indigo
 
 ![圖左：SAVA Spa / 圖右：SPA 結束小小休息區。Angel Wu提供](https://images.gobaligo.id/vocus/vocus_7e6548e1f0331b60456a40ecb933e7c8.jpg)
 
-Gambar kiri: SAVA Spa / Gambar kanan: Area istirahat kecil setelah SPA. Dok. Angel Wu
+Foto kiri: SAVA Spa / Foto kanan: Area kecil untuk bersantai setelah SPA. (Foto: Angel Wu)
 
-Di dalam Hotel Indigo, kami memilih layanan SAVA SPA. Suasananya elegan, fasilitasnya lengkap, terutama pijat batu panas 90 menit yang kami coba, bikin kesan banget.
+Di dalam Hotel Indigo, kami memilih layanan SAVA SPA. Suasananya elegan, fasilitasnya lengkap, apalagi pengalaman pijat batu panas 90 menit yang kami coba, bikin kesan banget.
 
-Saat pijat batu panas dimulai, terapis terus nanya apakah suhu batunya pas, biar nggak kepanasan — perhatian banget. Sepanjang sesi, teknik terapisnya jago banget, bikin kami rileks total, terasa banget relaksasi yang dalam.
+Saat pijat batu panas dimulai, terapisnya terus nanya apakah suhu batunya udah pas, biar nggak kepanasan. Perhatian banget, sih. Sepanjang sesi, tekniknya terapis jago banget, bikin kami benar-benar rileks, terasa sampai ke dalam.
 
-SAVA SPA cuma punya enam ruang pijat ganda, jadi wajib reservasi dulu biar bisa nikmatin layanan premium di sini. Layanan spa-nya dikasih tim profesional yang udah menang banyak penghargaan, setiap terapis udah lewat pelatihan ketat, jadi setiap tamu dapet pengalaman terbaik.
+SAVA SPA cuma punya enam ruang pijat ganda, jadi wajib reservasi dulu biar bisa nikmatin layanan premium di sini. Layanan spa-nya dikasih tim profesional yang udah menang banyak penghargaan, setiap terapis udah lewat pelatihan ketat, jadi setiap tamu pasti dapet pengalaman terbaik.
 
-Selain pijat batu panas, SAVA SPA juga punya berbagai perawatan spa lain, kayak aromaterapi, pijat jaringan dalam, dan terapi herbal — masing-masing cocok buat kebutuhan berbeda. Mau kamu pengen lepas stres, ngurangin ketegangan otot, atau sekadar rileks, SAVA SPA punya pilihan yang pas.
+Selain pijat batu panas, SAVA SPA juga punya berbagai perawatan spa lain, kayak aromaterapi, pijat jaringan dalam, dan terapi herbal. Masing-masing cocok buat kebutuhan yang beda. Mau lepas stres, ngurangin ketegangan otot, atau sekadar relaksasi, SAVA SPA punya pilihan yang pas.
 
-Pokoknya, SAVA SPA itu tempat yang oke banget buat rileksin badan dan pikiran. Suasana elegan, pelayanan perhatian, teknik profesional — bikin kami habiskan waktu yang menyenangkan banget di sini. Saran, reservasi jauh-jauh hari biar nggak kehabisan kesempatan buat cobain layanan spa premium ini.
+Pokoknya, SAVA SPA itu tempat yang oke banget buat rileksin badan dan pikiran. Suasana elegan, pelayanan perhatian, teknik profesional — bikin kami habiskan waktu yang super menyenangkan di sini. Saran, reservasi jauh-jauh hari biar nggak kehabisan kesempatan buat cobain layanan spa premium ini.
 
-> ▶ Reservasi [Indigo SAVA Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=863455&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86710-sava-spa-hotel-indigo-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2026436b8e) yang terkenal
+> ▶Pesan [Indigo SAVA Spa](https://affiliate.klook.com/redirect?aid=116349&aff_adid=863455&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F86710-sava-spa-hotel-indigo-seminyak-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D2026436b8e) yang terkenal
 
 ## Rekomendasi Editor: Relaksasi Spa Terkenal di Seminyak
 
-Banyak hotel mewah dan spa di Seminyak yang nawarin berbagai layanan relaksasi. Di sini, kamu bisa pilih berbagai pijat, lulur, dan perawatan wajah — bikin diri kamu tenggelam dalam pengalaman spa ala Bali yang autentik.
+Banyak hotel mewah dan spa di Seminyak yang nawarin berbagai layanan buat rileksin badan dan pikiran. Di sini, kamu bisa pilih berbagai pijat, scrub tubuh, dan perawatan wajah, biar kamu tenggelam dalam pengalaman spa ala Bali yang autentik.
 
 {{block:spa-smk}}
 
 ## Akomodasi
 
-Pas bulan madu kemarin, kami milih tiga hotel yang beda: Indigo Seminyak, Apurva Kempinski Bali, dan Vivara Bali Private Pool Villas & Spa. Rating Google hotel-hotel ini tinggi banget, banyak detail dan pengalaman yang udah dijelasin di review Google. Jadi di sini aku mau fokus sharing soal candle light dinner yang jarang dibahas orang.
+Pas bulan madu kali ini, kami milih tiga hotel yang beda: Indigo Seminyak, Apurva Kempinski Bali, dan Vivara Bali Private Pool Villas & Spa. Rating Google-nya tinggi banget, banyak detail dan pengalaman yang udah dijelasin di review Google. Jadi di sini fokus saya lebih ke pengalaman candle light dinner yang jarang dibahas.
 
-Di bawah ini cuma review singkat soal akomodasi aja:
+Berikut sekilas info tentang akomodasi yang kami coba:
 
 ### Indigo Seminyak
 
@@ -157,9 +157,9 @@ Di bawah ini cuma review singkat soal akomodasi aja:
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775912307611-b8513262c7bb23c33265b525ee008fca.jpeg)
 
-Indigo Seminyak adalah butik hotel dengan desain kece abis, lokasinya strategis di jantung Seminyak. Hotel ini ngabungin gaya tradisional Bali sama desain modern, baik interior maupun pemandangan outdoor-nya semuanya rapi. Kamarnya luas dan nyaman, fasilitas lengkap, bikin betah banget. Kami nyobain SAVA SPA yang terkenal di sini, ambil paket hot stone massage 90 menit, bikin rileks dan puas.
+Indigo Seminyak adalah hotel butik dengan desain super keren, lokasinya strategis banget di jantung Seminyak. Hotel ini memadukan gaya tradisional Bali dengan sentuhan modern, baik interior maupun lanskap outdoor-nya sama-sama cantik. Kamarnya luas dan nyaman, fasilitas lengkap, bikin betah. Kami sempat coba SAVA SPA yang terkenal di sini, ambil paket hot stone massage 90 menit — bikin rileks dan puas banget.
 
-Info dari web: [【Rekomendasi Hotel Seminyak】USD$161 Menginap di Resor Bintang Lima Tepi Pantai Indigo](/blog/hotel-indigo-seminyak-review/)
+Info lengkap di sini: [[Rekomendasi Menginap di Seminyak] USD$161 per Malam di Hotel Bintang Lima Tepi Pantai Indigo Resort](/blog/hotel-indigo-seminyak-review/)
 
 > ▶[Pesan Hotel Indigo Bali Seminyak Beach](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1220348) [Booking](https://booking.tpm.li/Wod9awed)
 
@@ -167,9 +167,9 @@ Info dari web: [【Rekomendasi Hotel Seminyak】USD$161 Menginap di Resor Bintan
 
 ![左一The Apurva Kempinski Bali，中間及右圖英迪格. Angel Wu提供](https://images.gobaligo.id/vocus/vocus_9d96a128f8cf9986a733052ef377c17c.jpg)
 
-Kiri: The Apurva Kempinski Bali, tengah dan kanan: Indigo Seminyak. Foto oleh Angel Wu
+Kiri: The Apurva Kempinski Bali, tengah dan kanan: Indigo. Foto oleh Angel Wu
 
-Apurva Kempinski Bali adalah resor mewah yang terkenal dengan arsitektur megah dan infinity pool-nya. Hotel ini terletak di tebing Nusa Dua, punya pemandangan laut yang spektakuler dan fasilitas super mewah. Kami habiskan waktu yang tak terlupakan di sini, nikmatin berbagai fasilitas dan makanan hotel. Apalagi sarapannya, variasi banyak dan rasanya enak banget, bikin kami puas.
+Apurva Kempinski Bali adalah resort mewah yang terkenal dengan arsitektur megah dan infinity pool-nya. Hotel ini terletak di tebing Nusa Dua, punya pemandangan laut yang spektakuler dan fasilitas super lengkap. Kami menghabiskan waktu yang tak terlupakan di sini, menikmati berbagai fasilitas dan makanan hotel. Apalagi sarapannya — variasi banyak, rasanya enak banget, bikin kami kalap.
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775913501757-543684014.jpg)
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775913502325-0b2efa16d3269c9bdf72b3713448a6e2.jpg)
@@ -190,7 +190,7 @@ Apurva Kempinski Bali adalah resor mewah yang terkenal dengan arsitektur megah d
 
 Vivara Bali Private Pool Villas & Spa / Angel Wu 提供
 
-Yang paling keren dari Vivara Bali Private Pool Villas & Spa adalah setiap kamar punya kolam renang pribadi. Kolamnya gede banget, lengkap dengan sistem sirkulasi air mancur yang bikin air tetap bersih. Buat yang cari penginapan, ini recommended banget! Kolam yang besar dan bersih jadi alasan utama kami milih hotel ini.
+Yang paling keren dari Vivara Bali Private Pool Villas & Spa adalah setiap kamar punya kolam renang pribadi. Kolamnya gede banget, lengkap dengan sistem sirkulasi air mancur yang bikin airnya tetap bersih. Buat yang cari tempat nginep, ini rekomendasi banget! Kolam renang yang besar dan bersih jadi alasan utama kita milih hotel ini!
 
 ![raw-image](https://images.gobaligo.id/images/2026-04/1775912661709-511160052.jpeg)
 
@@ -210,13 +210,13 @@ Yang paling keren dari Vivara Bali Private Pool Villas & Spa adalah setiap kamar
 
 > ▶[Pesan Vivara Bali Private Pool Villas & Spa](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=36762751) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=104656334&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-M6zsTFJMEkdYCJ4_LGq6_ZhBgNLCYKOcb0H_qqwTzBwfObBpD5dKJDAE_ElAPPp7EnelU36_scCXToYmQFC8xgPHf7s-FGxlkzgUAzzmEHI9MJxtOaC5guT1hidIqFmWMDyyWW3YzR1UrZqZVKViY6SiWZJTmpSlZKTxfNe9qw5_mKViUdpZTU4mSgEJCVmJtfmlcCZJuaGegZGABFShIrPFPAOpMTc5JLcxJLUkMqC4AmmOkoZRY7lxRlFgSl5maWlKQCVaUl5hSngsSDUouBMslgQSU_oDFFUIHM_DyIdkMUsbDEnNJUiBOAFrqlQu0wrI19xMIUHfuJheEXC0MTK0MXKzPHKaZJQPK05i5WthAjAy9_swusU3Wk5A0NDAxMDY1NTXUNEi0TTY2TDXVNLE2MLE11DY2NLEw1zm383PjU2MhaChJyCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9hMzSzMncyjbLiYPV2CBO_9Z8nVVra0l2IOCXdRDHJpC90z8bS9FkjOECYXaPFFjP-95QL7yLxuI-mUSaftk1irMnRDwjN6xQsYGxiZuhi5BRg9GCMYK4A8xlWMDBsYGXcw_ocBxleMINMB6DkTwywCAAA&masterhotelid_tracelogid=100051355-0a9a53c1-494295-13285&detailFilters=17|1~17~1*31|104656334~31~104656334*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=300&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/q9wlDejz)
 
-Tapi alasan lain kami pilih tempat ini adalah karena ada dinner cahaya lilin. Sayangnya, ini jadi satu-satunya yang bikin kami kecewa. Meskipun udah tahu sebelumnya bahwa dinner-nya 4 course plus satu botol wine dengan harga yang lumayan mahal, ekspektasi kami otomatis tinggi. Tapi pengalaman sebenarnya kurang memuaskan. Waktu mulai lebih awal dari jadwal, kami baru check-in dan belum siap. Makanannya dibungkus plastik wrap, kayak udah disiapin dari lama. Penyajiannya juga terlalu cepat—sebelum appetizer habis, main course dan dessert udah standby di samping. Pelayanan kayak gini nggak sesuai sama ekspektasi dan harga yang kami bayar. Belakangan kami tahu kalau malam itu ada resepsi pernikahan di hotel, jadi kami curiga kualitas makanan dan pelayanan kami kena imbas dari acara tersebut.
+Tapi alasan lain kita milih tempat ini adalah karena ada candle light dinner. Sayangnya, ini satu-satunya yang bikin kita kecewa. Meskipun udah tahu sebelumnya kalau dinner-nya 4 course plus satu botol wine dengan harga yang lumayan mahal (sekitar USD$100), ekspektasi kita jadi tinggi. Tapi kenyataannya kurang memuaskan. Waktu mulai lebih awal dari jadwal, kita baru check-in dan belum siap. Makanannya dibungkus plastik wrap, kayak udah didiemin agak lama. Penyajiannya juga terlalu cepat—belum selesai appetizer, main course dan dessert udah standby di samping. Pelayanan kayak gini nggak sesuai sama ekspektasi dan harga yang kita bayar. Belakangan kita tahu kalau malam itu ada acara wedding di hotel, jadi kita curiga kualitas makanan dan pelayanan kita kena imbas karena acara pernikahan itu.
 
 ## Kesimpulan
 
-Kesimpulannya, perjalanan kali ini penuh kenangan indah. Meskipun ada sedikit drama, overall experience-nya sangat menyenangkan. Semoga sharing ini bisa membantu traveler yang mau ke Bali, biar punya lebih banyak referensi dalam milih penginapan dan rencanain itinerary. Semoga kalian juga bisa liburan yang nggak terlupakan di Bali!
+Kesimpulannya, perjalanan kali ini penuh kenangan indah. Meskipun ada sedikit hambatan, overall experience-nya sangat menyenangkan. Semoga sharing ini bisa membantu kamu yang bakal ke Bali, biar makin punya referensi pas milih tempat nginep dan rencanain itinerary. Semoga liburan kamu di Bali juga unforgettable!
 
-> Tulisan ini diadaptasi dari postingan grup Facebook "[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/?__cft__[0]=AZVdujYnM_2ScMDIrE43T1d-EDZ8UhEbg_nSexhfSoUI6E1P4t5nmvpzkre3OyXN9-bV2viCityWrQcgifYPUSZjGS0UZ51xFalaDZAn3BCFs1WNRXz0XG6Jo6tD_IoHQoyON4VPhK1Iu7SCPc5owOsb4nxI4UgGeYpqxFONK8f0Hg&__tn__=-UC%2CP-R)", artikel asli ada di [sini](https://www.facebook.com/groups/baligo/permalink/1549799358900637/)
+> Tulisan ini diadaptasi dari postingan grup Facebook「[Go Bali Go 峇里島旅遊](https://www.facebook.com/groups/baligo/?__cft__[0]=AZVdujYnM_2ScMDIrE43T1d-EDZ8UhEbg_nSexhfSoUI6E1P4t5nmvpzkre3OyXN9-bV2viCityWrQcgifYPUSZjGS0UZ51xFalaDZAn3BCFs1WNRXz0XG6Jo6tD_IoHQoyON4VPhK1Iu7SCPc5owOsb4nxI4UgGeYpqxFONK8f0Hg&__tn__=-UC%2CP-R)」, artikel asli ada di [sini](https://www.facebook.com/groups/baligo/permalink/1549799358900637/)
 
 {{block:蜜月}}
 

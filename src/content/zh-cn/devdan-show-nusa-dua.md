@@ -22,10 +22,10 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_127a8e6469f56bdbefac0f605a55d6a8.jpg'
 originalUrl: 'https://vocus.cc/article/68557a29fd897800017f4272'
 lang: zh-cn
-_srcHash: 6311d0dd1ed41c649c2e766223277f2f
+_srcHash: 7e5631ee64e1d8883d662ea54950caa4
 ---
 
-## **什么是 Devdan 天谭秀？一场穿越印尼文化的旅程**
+## **什么是Devdan 天坛秀？一场穿越印尼文化的旅程**
 
 **Devdan Show** 是巴厘岛最富盛名的文化演出，是巴厘岛目前除了阿贡秀（Agung Show）以外，规模最大的文化舞台演出。这场长达 **90 分钟** 的精彩秀融合了印尼传统舞蹈与现代编排，搭配高空杂技、高科技声光效果与梦幻舞台场景。
 
@@ -57,7 +57,7 @@ _srcHash: 6311d0dd1ed41c649c2e766223277f2f
 
 ***
 
-## **天谭秀的舞台特色：视觉与感官的极致飨宴**
+## **天谭秀的舞台特色：视觉与感官的极致盛宴**
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_381834950c1735172093008b9877240c.jpg)
 
@@ -70,7 +70,7 @@ _srcHash: 6311d0dd1ed41c649c2e766223277f2f
 
 ## **座位选择与票价解析｜找到最适合的观赏位置**
 
-整场演出在设备完善的 **巴厘岛努沙杜瓦剧院** 进行，最多可容纳 **700 位观众**，空调环境舒适，非常适合家庭与团体观赏。
+整场演出在设备完善的 **Bali Nusa Dua 剧院** 进行，最多可容纳 **700 位观众**，空调环境舒适，非常适合家庭与团体观赏。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_27f2fce36dd9ae0a7928b63fdbe2f621.jpg)
 
@@ -82,7 +82,7 @@ _srcHash: 6311d0dd1ed41c649c2e766223277f2f
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_fb4c9945a879000f0724b9bb1faa1fff.png)
 
-> [Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
+[> [Klook购票链接](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1071764&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F171-devdan-show-bali%2F%3Fspm%3DHome.SearchSuggest_LIST%26clickId%3Dc93fb83bb1)
 > [kkday购票链接](https://www.kkday.com/zh-tw/product/141463-devdan-show-admission-ticket-in-nusa-dua-bali-indonesia?qs=devdan&cid=25072)
 
 **Devdan Show 时间表与建议安排**
@@ -95,7 +95,7 @@ _srcHash: 6311d0dd1ed41c649c2e766223277f2f
 **建议**：
 
 - 至少提前 30 分钟入场
-- 建议当天白天安排到附近的 [努沙杜瓦景点](https://s.id/nusadua_guide)放松，再前往剧院观赏夜间表演
+- 建议当天白天安排到附近的 [Nusa Dua 景点](https://s.id/nusadua_guide)放松，再前往剧院观赏夜间表演
 
 ***
 
@@ -156,6 +156,6 @@ _srcHash: 6311d0dd1ed41c649c2e766223277f2f
 
 ### **5. 要提前多久购票？**
 
-旺季期间建议至少提前 2 至 3 天预订，特别是 VIP 座位。
+旺季期间建议至少提前2至3天预订，特别是VIP座位。
 
 {{block:klook}}

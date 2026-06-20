@@ -2,7 +2,7 @@
 slug: nusa-penida-snorkeling-guide
 title: 努沙佩尼达岛 (Nusa Penida) 如何参加浮潜？一日游船票预约、潜点分布与新手必读指南
 description: >-
-  计划去佩尼达岛浮潜却不知从何下手？整理最完整的浮潜参加方式：包含从沙努尔码头出发的船票预约、套装行程挑选与在地专业潜店推荐。详解四个必去潜点的难易度与特色，提供防晒防晕船小贴士与摄影技巧建议。由在地专家带路，让您的巴厘岛跳岛之旅既轻松又充实。
+  计划去佩尼达岛浮潜却不知从何下手？整理最完整的浮潜参加方式：包含从沙努尔码头出发的船票预约、套餐行程挑选与在地专业潜店推荐。详解四个必去潜点的难易度与特色，提供防晒防晕船窍门与摄影技巧建议。由在地专家带路，让您的巴厘岛跳岛之旅既轻松又充实。
 pubDate: 2023-11-02T00:00:00.000Z
 category:
   - 峇里島分區攻略
@@ -20,10 +20,10 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_d4e931135ea55fd309372f2872e96160.jpg'
 originalUrl: 'https://vocus.cc/article/654249defd89780001041c87'
 lang: zh-cn
-_srcHash: 86d7f9581b70b67656dc672f37c3ba55
+_srcHash: aef10a3f42e057038fd3436620ccf4b8
 ---
 
-这是我们介绍Nusa Penida（中文翻译：努沙佩尼达岛、佩尼达岛）这个神奇的岛屿的第三集，我们来跟大家介绍一下在这里的四个知名潜点，不管是浮潜还是带着水肺潜水都可以找到许多乐趣的地点。
+这是我们介绍Nusa Penida（中文翻译：努沙佩尼达岛、佩尼达岛）这个神奇的岛屿的第三集，我们来跟大家介绍一下这里的四个知名潜点，不管是浮潜还是带着水肺潜水都可以找到许多乐趣的地点。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_9f65ca2cf527e8b51652b690aad51a81.jpg)
 
@@ -47,7 +47,7 @@ https://youtu.be/qdS8Td7QPYY?si=J-jy5ieS7-eAsl0E
 
 若要更快到达适合浮潜或潜水的地点，推荐大家可以从机场搭车到达沙努尔，在这个地方住一两个晚上，然后一大早搭乘约莫30分钟的快艇前往努沙佩尼达岛（Nusa Penida），这是一个可以免去舟车劳顿，更轻松的选项。
 
-关于沙努尔有什么好玩好逛的，有兴趣的朋友可以看看小杰的「[沙努尔攻略](https://www.youtube.com/watch?v=laRb_l8BdLM)」
+关于Sanur有什么好玩好逛的，有兴趣的朋友可以看看小杰的「[Sanur攻略](https://www.youtube.com/watch?v=laRb_l8BdLM)」
 
 那么去努沙佩尼达岛要有什么陆地上的景点？如何搭船、如何寄放行李？可以[看看这里](/blog/nusa-penida-guide/)。这一篇我们主要跟大家介绍努沙佩尼达岛的四大潜点，底下还有我们实拍的视频，让大家更了解这个让人叹为观止、美不胜收的海底世界奇观！
 
@@ -61,7 +61,7 @@ Crystal Bay
 
 Crystal Bay 是佩尼达岛上受欢迎的景点之一，是佩尼达岛西岸一个僻静海湾，海滩长约200米。到达这个海滩有马路可以抵达。除了迷人的棕榈树沙滩外，这个海湾最出名的是作为Nusa Penida最著名的浮潜与潜水圣地。这里海水清澈见底（因此得名Crystal Bay）。潜水员赞赏这里极佳的水底视界，有时可达30米。
 
-Crystal Bay除了可以看到种类繁多五彩十色的各种珊瑚、各式各样的热带鱼，更是世上少数可近距离观察翻车鱼（mola-mola. 台湾/日本叫做曼波鱼）的地方。这种巨大的洄游鱼体重可达2000公斤，体长可达3米。7到10月间在此潜水，有机会遇到并与它们共游。
+Crystal Bay除了可以看到种类繁多五彩十色的各种珊瑚、各式各样的热带鱼，更是世上少数可近距离观察翻车鱼（mola-mola，台湾/日本叫做曼波鱼）的地方。这种巨大的洄游鱼体重可达2000公斤，体长可达3米。7到10月间在此潜水，有机会遇到并与它们共游。
 
 ![Mola mola 翻車魚](https://images.gobaligo.id/vocus/vocus_36854e676dbdf485e456105f5397843e.jpg)
 
@@ -89,33 +89,33 @@ Manta Point
 
 ➡️[更多巴厘岛超值优惠请点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
-Manta Point是佩尼达岛上最具特色的景点之一，在这个潜点能近距离与及巨大的魔鬼鱼（Manta Ray 巨蝠鲼）亲密接触，是非常独特与惊艳的体验。
+Manta Point是佩尼达岛上最具特色的景点之一，在这个潜点能近距离与巨大的魔鬼鱼（Manta Ray 巨蝠鲼）亲密接触，是非常独特与惊艳的体验。
 
-俗称“魔鬼鱼”的巨蝠鲼，其最大体型可长达7米，重达约3000公斤，真的很大吧？以这样的体型和重量，我们当然会害怕接近它，但是别担心，虽然体型非常巨大，巨蝠鲼其实一点也不危险。它虽大但对人类很友善。世界上有两种巨蝠鲼，分别是珊瑚巨蝠鲼和远洋巨蝠鲼。
+俗称「魔鬼鱼」的巨蝠鲼，其最大体型可长达7米，重达约3000公斤，真的很大吧？以这样的体型和重量，我们当然会害怕接近它，但是别担心，虽然体型非常巨大，巨蝠鲼其实一点也不危险。它虽大但对人类很友善。世界上有两种巨蝠鲼，分别是珊瑚巨蝠鲼和远洋巨蝠鲼。
 
-在佩尼达岛Manta Point的巨蝠鲼，是珊瑚巨蝠鲼的类型(Manta alfredi)。这种巨蝠鲼是仅次于远洋巨蝠鲼的第二大种类，平均体型有3至3.5米。这美丽的生物是滤食性的，意思是以浮游生物、甲壳动物和小鱼为食。虽然尾巴很长，但并无毒性，因此与巨蝠鲼游泳非常安全。除了长尾巴，与其他硬骨鱼相比，巨蝠鲼拥有最大的脑部。它们非常乐于与人类互动，因此佩尼达岛Manta Point浮潜，是让浮潜者和潜水员捕捉与这些巨蝠鲼近距离接触的最佳选择。
+在佩尼达岛Manta Point的巨蝠鲼，是珊瑚巨蝠鲼的类型（Manta alfredi）。这种巨蝠鲼是仅次于远洋巨蝠鲼的第二大种类，平均体型有3至3.5米。这美丽的生物是滤食性的，意思是以浮游生物、甲壳动物和小鱼为食。虽然尾巴很长，但并无毒性，因此与巨蝠鲼游泳非常安全。除了长尾巴，与其他硬骨鱼相比，巨蝠鲼拥有最大的脑部。它们非常乐于与人类互动，因此佩尼达岛Manta Point浮潜，是让浮潜者和潜水员捕捉与这些巨蝠鲼近距离接触的最佳选择。
 
-提醒大家的是，我们说的“接触”不是真的用手去碰这些野生动物喔！！最主要的原因是为了保护巨蝠鲼的皮肤 - 巨蝠鲼身上覆盖一层黏液,有助于保护皮肤不受外在环境伤害。如果游客触碰,会移除这层黏液,增加巨蝠鲼皮肤感染的风险。虽然巨蝠鲼性情温和,但仍是野生动物，若游客擅自触碰可能会惊吓到它们，或出于本能反应把周围的人弄伤。世界上大多数与巨蝠鲼潜水的地区都有严格规定禁止触碰鱼类,游客应该遵守这项规定。
+提醒大家的是，我们说的「接触」不是真的用手去碰这些野生生物喔！！最主要的原因是为了保护巨蝠鲼的皮肤 - 巨蝠鲼身上覆盖一层黏液，有助于保护皮肤不受外在环境伤害。如果游客触碰，会移除这层黏液，增加巨蝠鲼皮肤感染的风险。虽然巨蝠鲼性情温和，但仍是野生动物，若游客擅自触碰可能会惊吓到它们，或出于本能反应把周围的人弄伤。世界上大多数与巨蝠鲼潜水的地区都有严格规定禁止触碰鱼类，游客应该遵守这项规定。
 
 若想遇见巨蝠鲼，推荐的月份是**4月至11月之间**，特别是干季期间（4月至10月），海水清澈，海流稳定，能见度更高，是最佳的浮潜和潜水时节。
 
-其中，**8月至10月**是遇见鬼蝠鲼的高峰期，因为这段期间海流会携带丰富的浮游生物，吸引大量的鬼蝠鲼聚集觅食。在巴厘岛南部的**努沙佩尼达岛的Manta Point**和**Manta Bay**，是观看鬼蝠鲼的热门地点。
+其中，**8月至10月**是遇见鬼蝠鲼的高峰期，因为这段期间海流会携带丰富的浮游生物，吸引大量的鬼蝠鲼聚集觅食。在巴厘岛南部的**Nusa Penida岛（努沙佩尼达）的Manta Point**和**Manta Bay**，是观看鬼蝠鲼的热门地点。
 
 需要注意的是：鬼蝠鲼的出现受天气和海流影响，无法100%保证。
 
 ## Toyapakeh Wall Point
 
-“托亚帕克墙（Toyapakeh Wall Point）”实际上是一个悬崖峭壁，它的位置就在Adiwana Warnakali潜水中心下方。
+「托亚帕克墙（Toyapakeh Wall Point）」实际上是一个悬崖峭壁，它的位置就在Adiwana Warnakali潜水中心下方。
 
-这个潜点有一个4至6米深的小珊瑚台地,也就是最佳的浮潜点。珊瑚台地之后,有分为两层。第一层约12至15米深,第二层约40米深。这里是非常热门的潜点,因为海水清澈,珊瑚繁盛。
+这个潜点有一个4至6米深的小珊瑚台地，也就是最佳的浮潜点。珊瑚台地之后，分为两层。第一层约12至15米深，第二层约40米深。这里是非常热门的潜点，因为海水清澈，珊瑚繁盛。
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774881808430-toyapakeh_wall_point.jpg)
 
-珊瑚台地,色彩缤纷
+珊瑚台地，色彩缤纷
 
 ➡️[更多巴厘岛超值优惠请点我](https://affiliate.klook.com/redirect?aid=116349&aff_adid=793296&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fcity%2F8-bali-things-to-do%2F%3Fspm%3DHome.ChangeDestination.Destination%26clickId%3Dc9bc21abca)⬅️
 
-Adiwana Warnakali潜水中心前方有一处大型软珊瑚和海扇珊瑚所保护的区域。这些软珊瑚构成迷人的结构,整个区域生态非常丰富:各种鱼群、软珊瑚、健康的硬珊瑚，在这里浮潜或潜水光是欣赏这风景就美不胜收了！
+Adiwana Warnakali潜水中心前方有一处大型软珊瑚和海扇珊瑚所保护的区域。这些软珊瑚构成迷人的结构，整个区域生态非常丰富：各种鱼群、软珊瑚、健康的硬珊瑚，在这里浮潜或潜水光是欣赏这风景就美不胜收了！
 
 ## 实拍视频
 
@@ -138,7 +138,7 @@ https://youtu.be/jjuHfCukQrM
 - [Nusa Penida摩托车出租](https://affiliate.klook.com/redirect?aid=116349&aff_adid=739887&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F26687-nusa-penida-scooter-rental%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7434f423bc)（路况非常差，请自行斟酌）
 - [佩尼达岛 & 蓝梦岛私人包船游](https://affiliate.klook.com/redirect?aid=116349&aff_adid=764788&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F92390-private-boat-charter-for-nusa-penida-and-lembongan%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D7668f8e7d8)
 
-## Nusa Penida四大潜点 & 攻略地图（[按这里放大&收藏](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing)）
+## Nusa Penida四大潜点 & 攻略地图（[点击这里放大&收藏](https://www.google.com/maps/d/u/0/edit?mid=1Yf9zObBI_YnR6qMej7AUUiv9Lg_Cwtk&usp=sharing)）
 
 {{block:penidaguide}}
 
