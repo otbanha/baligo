@@ -26,7 +26,7 @@ agoda_star_rating: 5
 latitude: -8.845608711242676
 longitude: 115.1370620727539
 lang: zh-cn
-_srcHash: 8478051b38bfd5e5a28902fc20a08430
+_srcHash: 441b04dc04abfec8c551ef6981202764
 ---
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_69325ed505e288e110803e6f0e1eccbd.jpg)
@@ -41,7 +41,7 @@ _srcHash: 8478051b38bfd5e5a28902fc20a08430
 
 🏆 **“世界十大无边泳池”**（Infinity Pool榜单）
 
-这里更是 **贝克汉姆、安吉丽娜·朱莉** 等巨星低调度假的挚爱，也是Instagram上爆红的 **“悬崖婚礼”** 首选地！
+这里更是 **贝克汉姆、安吉丽娜·朱莉** 等巨星低调度假的爱店，也是Instagram上爆红的 **“悬崖婚礼”** 首选地！
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_a026a6668fd17837c1103d9e4a691334.jpg)
 
@@ -96,7 +96,7 @@ _srcHash: 8478051b38bfd5e5a28902fc20a08430
 
 ### **3. 其他顶级设施**
 
-* **获奖SPA**：酒店的spa也曾获得亚洲最令人放松的spa奖项，按摩师很厉害！亚洲最佳悬崖按摩亭，试试「双人四手」巴厘岛式疗法！
+* **得奖SPA**：酒店的spa也曾获得亚洲最令人放松的spa奖项，按摩师很厉害！亚洲最佳悬崖按摩亭，试试「双人四手」巴厘岛式疗法！
 
 > 试试看 [Alila Uluwatu SPA体验](https://affiliate.klook.com/redirect?aid=116349&aff_adid=1052540&k_site=https%3A%2F%2Fwww.klook.com%2Fen-AU%2Factivity%2F149732-spa-experience-at-alila-villas-uluwatu%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3D4ffe873d07)
 
@@ -140,14 +140,14 @@ _srcHash: 8478051b38bfd5e5a28902fc20a08430
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774361285940-three-bedroom-hillside-villa--v70.jpeg)
 
-**🔍 实用信息**
+**🔍 实用资讯**
 
 * 淡季（11-3月）房价最低可达 **6折**
 * 婚礼咨询需提前 **半年** 预约
 
 ▶[Alila Villas Uluwatu最新房价查询](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=148738) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=926202&checkIn=2026-11-27&checkOut=2026-11-28&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-P6w8zFJMEk9ZWZ49fK4x9YhRiNDA6yWvzydlxSYMsVPn2Tg-fZM0BQt80hgKeRMQ0EzhU4zGD8ddhiBSPjRkaPh1Ui66z7HXYwMp1gnHiRcQHTl23nhU-xMHMsU7nE8p0pulopO7VSycpER6kksyQnVclK6emieU8b9jxf0aqko5SSWpwMFAKyEnPzS_NKgGwjI0MjPQMDoFBJYoVnClhrcmJOcmlOYklqSGUB0AgzHaXMYueSosyCoNTczJKSVKCqtMSc4lSQeFBqMVAmGSyo5Ac0pggqkJmfB9FugCIWlphTmgpxA9BCt1SoHYa1OphOfzan92n3zBebduNwuomxCYrTzQfE6ca1sY9YmKJjP7Ew_GJhaGJl6GJlmMTKwgGMnl2sPIHOHqH-rrqGulG6hlLyhgYGBqaGxqamugaJlhbGRolGuiaWJkZmZromppbGlhqHum9deGJsZC3FOuXA82nsCoxagvEhnp4uhiWFqWaFpZY5RQWmBoynGKUMzY0tDI0MDY2MjCyN9Uws0syKLfKKLXKzIjwYg9hMzQwtnCyibLiYQ4NdBJdXHte0MpJ2kGIOCXdR_LD8mLd552l7LZCcIUwucM_rnBP2xgvsI2HySaxVGboh4RnHxQoYGxiZuhi5BRg9GCMYK4A8xlWM7FzMBkaGAkwbGBl3MP6HAcZXjCBLAC6gFHToAgAA&masterhotelid_tracelogid=100051355-0a9832a2-494266-45939&detailFilters=17|1~17~1*31|926202~31~926202*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=1092&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17206660) [Booking](https://booking.tpm.li/8YoSt8kN)
 
-## **Alila Villas Uluwatu**开箱视频
+## **Alila Villas Uluwatu**开箱影片
 
 这座位于巴厘岛南端的悬崖度假村，最吸睛的就是那个延伸至海面的三层无边泳池。视频特别展示了标志性的「鸟巢酒吧」——日落时分这里成为最佳观景台，调酒师会为你端上特调饮品，脚下就是百米深的印度洋。
 

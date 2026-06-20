@@ -11,7 +11,7 @@ originalUrl: ''
 shuffle_h2: true
 embeds: []
 lang: zh-cn
-_srcHash: eced1707186ca2dc48f890f7e6c77a02
+_srcHash: 127047869a2f2920e61994b8b3c72988
 ---
 
 第一页，获得我们优先推荐的司机在[这里](https://gobaligo.id/blog/bali-private-car-drivers-guide/)
@@ -124,15 +124,15 @@ _srcHash: eced1707186ca2dc48f890f7e6c77a02
 
 ![raw-image](https://images.gobaligo.id/images/2026-05/1778420410346-new.jpg)
 
-👍🏼[网友推荐1 ](https://www.facebook.com/share/p/1Cd1X626mG/)👍🏼[网友推荐2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1DvCnKCrA7/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/17i5s3LAJF/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/1D6AWxdR57/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1BYaLyET5w/)
+👍🏼[网友推荐1 ](https://www.facebook.com/share/p/1Cd1X626mG/)👍🏼[网友推荐2](https://www.facebook.com/share/p/1JciR5VxMg/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1E7DvWs6xZ/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/17fp8NSmsP/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1NudQpposu/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1DrCn85wh6/) 👍🏼[网友推荐7](https://www.facebook.com/share/p/18kDiE3w2r/) 👍🏼[网友推荐8](https://www.facebook.com/share/p/1BP7AELXeB/) 👍🏼[网友推荐9](https://www.facebook.com/share/p/1DvCnKCrA7/) 👍🏼[网友推荐10](https://www.facebook.com/share/p/17i5s3LAJF/) 👍🏼[网友推荐11](https://www.facebook.com/share/p/1D6AWxdR57/) 👍🏼[网友推荐12](https://www.facebook.com/share/p/1BYaLyET5w/) 👍🏼[网友推荐 13](https://www.facebook.com/share/p/18d6a34JTF/)
 
 ## Gede Mahendra
 
 ![raw-image](https://images.gobaligo.id/images/2026-06/1781330328310-_2026-06-13_12.57.02.png)
 
-👍🏼[网友推荐1](https://www.facebook.com/share/p/1ENRDfkjEw/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/17qogSzHU1/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1FVRdBgbNL/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1Kw5mTbHAa/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1JYmnQC1w9/)
+👍🏼[网友推荐1](https://www.facebook.com/share/p/1ENRDfkjEw/) 👍🏼[网友推荐2](https://www.facebook.com/share/p/17qogSzHU1/) 👍🏼[网友推荐3](https://www.facebook.com/share/p/1FVRdBgbNL/) 👍🏼[网友推荐4](https://www.facebook.com/share/p/1Kw5mTbHAa/) 👍🏼[网友推荐5](https://www.facebook.com/share/p/1JYmnQC1w9/) 👍🏼[网友推荐6](https://www.facebook.com/share/p/1CwwL8mTrC/)
 
- BLOCK0 .
+{{block:klook}}
 
 {{block:包車}}
 

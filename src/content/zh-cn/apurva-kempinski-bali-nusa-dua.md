@@ -20,12 +20,10 @@ tags:
 heroImage: 'https://images.gobaligo.id/vocus/vocus_109fa4ab6c04ea54101f82e65cbb5948.jpg'
 originalUrl: 'https://vocus.cc/article/660ff581fd89780001f31315'
 lang: zh-cn
-_srcHash: 808475ae43e772d2f2eb6db431dc35c6
+_srcHash: 9c0ac488047dd3490482131e9b4740bc
 ---
 
-更新:2026/05/21
-
-巴厘岛一向是旅游者的热门度假胜地,其中位于努沙杜瓦区的Apurva Kempinski酒店无疑是最顶级的选择之一。这家由德国连锁酒店品牌Kempinski在2019年2月新开幕的酒店,融合了现代奢华设计和巴厘传统风格,为旅客带来无可媲美的度假体验。
+巴厘岛一直是旅游者的热门度假胜地，其中位于努沙杜瓦区的Apurva Kempinski酒店无疑是最顶级的选择之一。这家由德国连锁酒店品牌Kempinski在2019年2月新开业的酒店，融合了现代奢华设计和巴厘传统风格，为旅客带来无可媲美的度假体验。
 
 ▶[努沙杜瓦可以玩什么？](https://affiliate.klook.com/redirect?aid=116349&aff_adid=846658&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Fsearch%2Fresult%2F%3Fquery%3Dnusa%2520dua%26spm%3DSearchResult.TopNavigation.SelectLanguage%26clickId%3D91635891aa)
 
@@ -33,7 +31,7 @@ _srcHash: 808475ae43e772d2f2eb6db431dc35c6
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_0ba7ec1336d306ac33ce9f09e61244ad.jpg)
 
-游客在酒店大门处会先经过安检,步入大堂就能被金碧辉煌的装潢和高耸的天花板所震撼。作为套房客人,他们可在宽敞的Cliff Lounge休息室办理入住手续,那里别有一番景象:私人泳池、酒吧和开扬阳台,可远眺酒店主楼及海景。套房装修简约雅致,使用柔和的米色调,给人温馨惬意的感觉。阳台更设有私人无边泳池,住客可躺在沙发上欣赏巴厘岛的好山好水。
+游客在酒店大门处会先经过安检，步入大堂就能被金碧辉煌的装潢和高耸的天花板所震撼。作为套房客人，他们可在宽敞的Cliff Lounge休息室办理入住手续，那里别有一番景象：私人泳池、酒吧和开扬阳台，可远眺酒店主楼及海景。套房装修简约雅致，使用柔和的米色调，给人温馨惬意的感觉。阳台更设有私人无边泳池，住客可躺在沙发上欣赏巴厘岛的好山好水。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_bf8ae667c6b5a147ec65b212288f8de7.jpg)
 
@@ -43,7 +41,7 @@ _srcHash: 808475ae43e772d2f2eb6db431dc35c6
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_909669893fdde6fb3613b61b9e2de9cf.jpg)
 
-酒店最吸引人的,当属其知名的水族馆餐厅KORAL。这间座落在酒店底层的餐厅,内有一个巨大的水族箱环绕,box座可以近距离欣赏热带鱼类缓缓游动,视觉效果振奋人心。游客点了餐厅的"KORAL探索菜单",每一道菜都富有创意,摆盘精致别致,运用当地新鲜食材,味道清新怡人。除了主菜,餐前的可颂面包和综合沙拉油醋酱也让人印象深刻,开胃美味。
+酒店最吸引人的，当属其知名的水族馆餐厅KORAL。这间座落在酒店底层的餐厅，内有一个巨大的水族箱环绕，box座可以近距离欣赏热带鱼类缓缓游动，视觉效果振奋人心。游客点了餐厅的"KORAL探索菜单"，每一道菜都富有创意，摆盘精致别致，运用当地新鲜食材，味道清新怡人。除了主菜，餐前的可颂面包和综合沙拉油醋酱也让人印象深刻，开胃美味。
 
 [水族馆餐厅用餐体验 USD$100起](https://affiliate.klook.com/redirect?aid=116349&aff_adid=804555&k_site=https%3A%2F%2Fwww.klook.com%2Fzh-TW%2Factivity%2F90340-koral-restaurant-dining-the-apurva-kempinski-bali%2F%3Fspm%3DSearchResult.SearchResult_LIST%26clickId%3Dd2225956a4)
 
@@ -69,7 +67,7 @@ Selasar Deli 下午茶的无敌美景
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_6ff66fdd5f84ad3f3f1b8b1c84321167.jpg)
 
-私人海滩是酒店最大的资源，几乎成为酒店的私家海滩。白色细沙柔软，整个海滩面积辽阔，沿岸并排着日光浴床、泳池和REEH BEACH CLUB餐厅，让住客一整天都可在这里放松身心。还有"水球"这项冷门的海上运动，让游人能在大球中漫步海上。主楼前的游泳池同样赞口不绝，池畔酒吧供应小吃和饮料，是放松身心的理想去处。
+私人海滩是酒店最大的资源，几乎成为酒店的私家海滩。白色细沙柔软，整个海滩面积辽阔，沿岸并排着日光浴床、泳池和REEH BEACH CLUB餐厅，让住客一整天都可在这里放松身心。还有"水球"这项冷门的水上运动，让游人能在大球中漫步海上。主楼前的游泳池同样赞不绝口，池畔酒吧供应小吃和饮料，是放松身心的理想去处。
 
 ![raw-image](https://images.gobaligo.id/vocus/vocus_76729aaf5f976905c196a129eec8168d.jpg)
 
