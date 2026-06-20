@@ -9,18 +9,20 @@
 }
 
 :root {
-  --ocean: #5D4037;
+  --ocean: #3E2723;
   --ocean-mid: #7B5038;
   --ocean-light: #9A6447;
   --gold: #C5A059;
   --gold-light: #d4b47a;
   --gold-pale: #f0e0b8;
-  --sand: #FAF3EB;
+  --sand: #FDFCFA;
   --white: #ffffff;
-  --text: #5D4037;
+  --text: #3E2723;
   --text-light: #7B5038;
   --accent: #E63946;
   --accent-dark: #C0392B;
+  --accent-hover: #C9303D;
+  --header-bg: #1A365D;
   --gray: 120, 90, 80;
   --gray-light: 245, 230, 211;
   --gray-dark: 93, 64, 55;
@@ -68,7 +70,6 @@ html {
 }
 
 body {
-  background-color: #FAF3EB;
   font-family: 'PingFang TC', 'Noto Sans TC', 'Microsoft JhengHei', sans-serif;
   margin: 0;
   padding: 0;
@@ -107,7 +108,7 @@ h4 { font-size: 1.25em; }
 h5 { font-size: 1.1em; }
 
 strong, b { font-weight: 700; color: var(--ocean); }
-.news-content strong, .news-content b, .news-content * { color: #5D4037 !important; }
+.news-content strong, .news-content b, .news-content * { color: var(--text) !important; }
 .news-content a { color: #C0392B !important; }
 .accom-image img, .news-content img { height: 220px !important; object-fit: cover !important; object-position: center; width: 100% !important; }
 

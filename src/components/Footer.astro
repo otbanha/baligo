@@ -131,7 +131,7 @@ const fireBannerUrl = lang === 'en' ? '/en/tickets/' :
 
 <style>
 footer {
-  background: var(--ocean);
+  background: var(--header-bg);
   color: rgba(255,255,255,0.8);
   margin-top: 4em;
   border-top: 2px solid var(--gold);
@@ -283,7 +283,7 @@ footer {
   justify-content: center;
   gap: 1.2em;
   flex-wrap: wrap;
-  border-top: 2px solid #E63946;
+  border-top: 2px solid var(--accent);
 }
 
 .fire-text {
@@ -295,8 +295,8 @@ footer {
 
 .fire-cta {
   display: inline-block;
-  background: #fff;
-  color: #E63946;
+  background: var(--accent);
+  color: #fff;
   font-weight: 800;
   font-size: 0.88em;
   padding: 0.35em 1em;
@@ -306,7 +306,7 @@ footer {
 }
 
 .fire-cta:hover {
-  background: #5D4037;
+  background: var(--accent-hover);
   color: #fff;
 }
 </style>
