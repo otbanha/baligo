@@ -39,22 +39,22 @@ const categories = Array.from(allCats).sort();
       background: #fff; cursor: pointer; font-size: 0.88rem; font-weight: 600;
       transition: all 0.15s;
     }
-    .tab.active { background: #5D4037; color: #fff; border-color: #5D4037; }
+    .tab.active { background: #1A365D; color: #fff; border-color: #1A365D; }
     #stats-status { font-size: 0.8rem; color: #888; }
     table { width: 100%; border-collapse: collapse; font-size: 0.9rem; }
     th {
-      background: #5D4037; color: #d4b47a; padding: 0.55rem 0.8rem;
+      background: #1A365D; color: #d4b47a; padding: 0.55rem 0.8rem;
       text-align: left; font-size: 0.82rem; letter-spacing: 0.03em; position: sticky; top: 0;
     }
     td { padding: 0.5rem 0.8rem; border-bottom: 1px solid #eee; vertical-align: middle; }
     tr:hover td { background: #faf8f3; }
     .num { color: #888; font-size: 0.8rem; }
-    .views-cell { font-weight: 700; color: #5D4037; white-space: nowrap; }
+    .views-cell { font-weight: 700; color: #1A365D; white-space: nowrap; }
     .views-bar {
       display: inline-block; height: 6px; background: #C5A059;
       border-radius: 3px; margin-left: 0.4rem; vertical-align: middle; opacity: 0.7;
     }
-    .title-link { color: #5D4037; text-decoration: none; font-weight: 500; }
+    .title-link { color: #1A365D; text-decoration: none; font-weight: 500; }
     .title-link:hover { text-decoration: underline; color: #C5A059; }
     .slug-cell { font-family: monospace; font-size: 0.78rem; color: #777; cursor: pointer; user-select: all; transition: background 0.15s, color 0.15s; }
     .slug-cell:hover { background: #f0f0f0; }
@@ -63,7 +63,7 @@ const categories = Array.from(allCats).sort();
       padding: 0.4rem 0.75rem; font-size: 0.88rem; border: 1px solid #ccc;
       border-radius: 8px; background: #fff; cursor: pointer; color: #1a1a1a;
     }
-    .cat-select:focus { outline: none; border-color: #5D4037; }
+    .cat-select:focus { outline: none; border-color: #1A365D; }
     .hidden { display: none !important; }
 
     /* ── 近7天排行榜 ──────────────────────────────────────────────────────── */
@@ -72,7 +72,7 @@ const categories = Array.from(allCats).sort();
     .rank-header {
       display: flex; align-items: center; gap: 0.6rem; margin-bottom: 1rem;
     }
-    .rank-header h2 { font-size: 1rem; font-weight: 800; color: #5D4037; margin: 0; }
+    .rank-header h2 { font-size: 1rem; font-weight: 800; color: #1A365D; margin: 0; }
     .rank-badge {
       font-size: 0.75rem; background: #f0ece2; color: #8B6914;
       padding: 0.2em 0.7em; border-radius: 12px; font-weight: 700;
@@ -93,13 +93,13 @@ const categories = Array.from(allCats).sort();
     .rank-pos.bronze { color: #b87040; }
     .rank-title {
       flex: 1; min-width: 0;
-      font-size: 0.88rem; font-weight: 600; color: #5D4037;
+      font-size: 0.88rem; font-weight: 600; color: #1A365D;
       text-decoration: none; white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
     }
     .rank-title:hover { color: #C5A059; text-decoration: underline; }
     .rank-views {
       flex-shrink: 0; font-size: 0.82rem; font-weight: 700;
-      color: #5D4037; white-space: nowrap;
+      color: #1A365D; white-space: nowrap;
     }
     .rank-views span { color: #aaa; font-weight: 400; margin-left: 0.2em; font-size: 0.75rem; }
     .rank-bar-wrap { flex-shrink: 0; width: 60px; }
