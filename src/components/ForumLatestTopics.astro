@@ -1,0 +1,133 @@
+---
+const { lang = 'zh-tw' } = Astro.props;
+
+const i18n: Record<string, { title: string; more: string; loading: string }> = {
+  'zh-tw': { title: '峇里島討論區', more: '前往討論區 →', loading: '載入中⋯' },
+  'zh-hk': { title: '峇里島討論區', more: '前往討論區 →', loading: '載入中⋯' },
+  'zh-cn': { title: '峇里岛讨论区', more: '前往讨论区 →', loading: '载入中⋯' },
+  'en':    { title: 'Community Forum', more: 'Visit forum →', loading: 'Loading⋯' },
+  'id':    { title: 'Forum Komunitas', more: 'Kunjungi forum →', loading: 'Memuat⋯' },
+};
+const t = i18n[lang] ?? i18n['zh-tw'];
+---
+
+<div class="flt-widget">
+  <div class="flt-header">
+    <span class="flt-title">{t.title}</span>
+    <a href="https://community.gobaligo.id/" class="flt-more" target="_blank" rel="noopener">{t.more}</a>
+  </div>
+  <ul id="flt-list" class="flt-list">
+    <li class="flt-loading">{t.loading}</li>
+  </ul>
+</div>
+
+<script>
+(async () => {
+  const list = document.getElementById('flt-list');
+  if (!list) return;
+
+  try {
+    const res = await fetch('/api/forum-latest');
+    const data = await res.json();
+    const topics = data.topics || [];
+
+    if (topics.length === 0) { list.innerHTML = ''; return; }
+
+    function sanitize(str) {
+      const d = document.createElement('div');
+      d.textContent = str ?? '';
+      return d.innerHTML;
+    }
+
+    list.innerHTML = topics.map((topic) => `
+      <li class="flt-item">
+        <a href="${sanitize(topic.url)}" class="flt-link" target="_blank" rel="noopener">
+          <img src="/favicon-16x16.png" class="flt-icon" alt="" aria-hidden="true" />
+          <span class="flt-post-title">${sanitize(topic.title)}</span>
+        </a>
+      </li>`).join('');
+
+  } catch {
+    list.innerHTML = '';
+  }
+})();
+</script>
+
+<style is:global>
+.flt-widget {
+  background: #f5f8fc;
+  border: 1px solid #c9d6e8;
+  border-radius: 12px;
+  padding: .9rem 1.1rem;
+  margin-bottom: 1.2rem;
+}
+.flt-header {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: .6rem;
+}
+.flt-title {
+  font-size: .85rem;
+  font-weight: 700;
+  color: #1A365D;
+  letter-spacing: .01em;
+}
+.flt-more {
+  font-size: .75rem;
+  color: #9c7a3f;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.flt-more:hover { text-decoration: underline; }
+
+.flt-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.flt-loading {
+  font-size: .82rem;
+  color: #5b7194;
+  padding: .3rem 0;
+}
+
+.flt-item {
+  border-bottom: 1px solid #c9d6e8;
+}
+.flt-item:last-child { border-bottom: none; }
+
+.flt-link {
+  display: flex;
+  align-items: center;
+  gap: .45rem;
+  padding: .45rem 0;
+  text-decoration: none;
+  color: inherit;
+}
+.flt-link:hover .flt-post-title { color: #1A365D; text-decoration: underline; }
+
+.flt-icon {
+  width: 14px;
+  height: 14px;
+  flex-shrink: 0;
+  border-radius: 3px;
+}
+
+.flt-post-title {
+  font-size: .82rem;
+  font-weight: 500;
+  color: #2c4a6e;
+  line-height: 1.4;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  flex: 1;
+  min-width: 0;
+}
+
+@media (max-width: 480px) {
+  /* 手機版只顯示最新 4 則，避免清單過長 */
+  .flt-item:nth-child(n+5) { display: none; }
+}
+</style>

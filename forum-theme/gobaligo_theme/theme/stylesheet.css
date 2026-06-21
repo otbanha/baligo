@@ -1,0 +1,115 @@
+/* ============================================================
+   gobaligo_theme — child style of prosilver
+   Inherits all prosilver rules via @import below, then overrides
+   only typography (Chinese readability) and brand colors.
+   DO NOT edit styles/prosilver/* — changes here survive phpBB upgrades.
+   ============================================================ */
+
+@import url("../../prosilver/theme/stylesheet.css");
+
+/* ============================================================
+   字級 — 中文閱讀優化
+   ============================================================ */
+
+body {
+  font-size: 15px;
+}
+
+.postbody, .content {
+  font-size: 17px;
+  line-height: 1.85;
+}
+
+.forumtitle, .topictitle {
+  font-size: 16px;
+}
+
+@media (max-width: 640px) {
+  body {
+    font-size: 14px;
+  }
+  .postbody, .content {
+    font-size: 16px;
+    line-height: 1.75;
+  }
+  .forumtitle, .topictitle {
+    font-size: 15px;
+  }
+}
+
+/* ============================================================
+   配色 — 主站品牌色 (gobaligo.id)
+   主色 #1A365D（深藍）／ 強調金 #C5A059 ／ 內文 #3E2723 ／ 淺底 #FDFCFA
+   ============================================================ */
+
+/* 頁首 bar */
+#site-description,
+.headerbar {
+  background: #1A365D;
+}
+
+/* 內容區淺底 */
+#page-body {
+  background: #FDFCFA;
+}
+
+/* 內文文字色 */
+body {
+  color: #3E2723;
+}
+
+/* 一般連結色（加深金，確保白底對比達 WCAG AA） */
+a,
+.postlink {
+  color: #9c7a3f;
+}
+
+a:hover,
+.postlink:hover {
+  color: #1A365D;
+}
+
+/* 表格／分類標題列 */
+th,
+.cat-title {
+  background: #1A365D;
+  color: #ffffff;
+}
+
+/* 按鈕 */
+input[type="submit"],
+input[type="button"],
+.button1 {
+  background: #1A365D;
+  border-color: #122849;
+  color: #ffffff;
+}
+
+input[type="submit"]:hover,
+input[type="button"]:hover,
+.button1:hover {
+  background: #122849;
+}
+
+/* ============================================================
+   置頂主題圖示 → 改成粗體文字徽章「置頂」
+   涵蓋 sticky_read / sticky_unread / 含 locked、mine 等所有狀態
+   ============================================================ */
+
+dl[class*="sticky"] dt {
+  background-image: none !important;
+  padding-left: 8px !important;
+}
+
+dl[class*="sticky"] dt .list-inner::before {
+  content: "置頂";
+  display: inline-block;
+  font-weight: 700;
+  font-size: 12px;
+  color: #1A365D;
+  background: #F5B942;
+  border-radius: 4px;
+  padding: 2px 6px;
+  margin-right: 6px;
+  vertical-align: middle;
+}

@@ -7,6 +7,7 @@ import Footer from '../../../components/Footer.astro';
 import ChatBot from '../../../components/ChatBot.astro';
 import ExchangeRateWidget from '../../../components/ExchangeRateWidget.astro';
 import ForumRecentReplies from '../../../components/ForumRecentReplies.astro';
+import ForumLatestTopics from '../../../components/ForumLatestTopics.astro';
 import ShareWallPicks from '../../../components/ShareWallPicks.astro';
 import BaliWeather from '../../../components/BaliWeather.astro';
 import { getCollection, render } from 'astro:content';
@@ -289,6 +290,8 @@ const socialLinks = [
           <ForumRecentReplies lang="zh-cn" />
           <ShareWallPicks lang="zh-cn" />
         </div>
+
+        <ForumLatestTopics lang="zh-cn" />
 
         <!-- 每日參考匯率 -->
         <ExchangeRateWidget lang="zh-cn" />

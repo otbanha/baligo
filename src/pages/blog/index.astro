@@ -7,6 +7,7 @@ import ChatBot from '../../components/ChatBot.astro';
 import BaliTicketTable from '../../components/BaliTicketTable.astro';
 import ExchangeRateWidget from '../../components/ExchangeRateWidget.astro';
 import ForumRecentReplies from '../../components/ForumRecentReplies.astro';
+import ForumLatestTopics from '../../components/ForumLatestTopics.astro';
 import ShareWallPicks from '../../components/ShareWallPicks.astro';
 import BaliWeather from '../../components/BaliWeather.astro';
 import { SITE_TITLE, SITE_DESCRIPTION } from '../../consts';
@@ -412,6 +413,8 @@ const socialLinks = [
           <ForumRecentReplies lang="zh-tw" />
           <ShareWallPicks lang="zh-tw" />
         </div>
+
+        <ForumLatestTopics lang="zh-tw" />
 
         <!-- 每日參考匯率 -->
         <ExchangeRateWidget lang="zh-tw" />
