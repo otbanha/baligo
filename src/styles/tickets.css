@@ -8,7 +8,7 @@
 
   /* ── Hero ── */
   .tickets-hero {
-    background: linear-gradient(135deg, var(--ocean) 0%, #9A6447 60%, #5D4037 100%);
+    background: linear-gradient(135deg, #1A365D 0%, #2C4A73 60%, #122849 100%);
     position: relative;
     overflow: hidden;
     padding: 64px 24px 56px;
