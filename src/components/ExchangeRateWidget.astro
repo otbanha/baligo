@@ -130,10 +130,10 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   line-height: 1.3;
 }
 
-/* ── Grid layout: 7 欄桌機 → 4 欄手機（自動換行） ── */
+/* ── Grid layout: 8 欄桌機（含換匯攻略 CTA） → 4 欄手機（自動換行） ── */
 .exr-grid {
   display: grid;
-  grid-template-columns: repeat(7, 1fr);
+  grid-template-columns: repeat(8, 1fr);
   gap: 0.3em 0;
 }
 .exr-loading {
@@ -181,9 +181,15 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   white-space: nowrap;
 }
 
-/* ── CTA（換匯攻略）桌機隱藏，手機才顯示 ── */
+/* ── CTA（換匯攻略）桌機與手機都顯示 ── */
 :global(.exr-cta) {
-  display: none !important;
+  cursor: pointer;
+  text-decoration: none;
+  background: rgba(197,160,89,0.07);
+  transition: background 0.2s;
+}
+:global(.exr-cta:hover) {
+  background: rgba(197,160,89,0.16);
 }
 :global(.exr-cta-text) {
   color: var(--accent, #E63946) !important;
@@ -208,17 +214,6 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   :global(.exr-item:nth-child(7)),
   :global(.exr-item:nth-child(8)) {
     border-top: 1px solid rgba(197,160,89,0.12);
-  }
-  /* 顯示 CTA */
-  :global(.exr-cta) {
-    display: flex !important;
-    background: rgba(197,160,89,0.07);
-    cursor: pointer;
-    text-decoration: none;
-    transition: background 0.2s;
-  }
-  :global(.exr-cta:hover) {
-    background: rgba(197,160,89,0.16);
   }
   :global(.exr-flag) { width: 20px; height: 15px; }
   :global(.exr-code) { font-size: 0.68em; }
