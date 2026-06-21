@@ -1,6 +1,6 @@
 // Server-side fetch of phpBB "Active topics" page (avoids browser CORS,
 // since community.gobaligo.id is a different subdomain than gobaligo.id).
-// Returns the latest 5 board-wide active topics as JSON.
+// Returns the latest 6 board-wide active topics as JSON.
 
 const FORUM_BASE = 'https://community.gobaligo.id/';
 const TOPIC_RE = /<a href="\.\/viewtopic\.php\?t=(\d+)[^"]*"\s+class="topictitle">([^<]*)<\/a>/g;
@@ -24,7 +24,7 @@ export async function onRequestGet() {
 
     const topics = [];
     let match;
-    while ((match = TOPIC_RE.exec(html)) && topics.length < 5) {
+    while ((match = TOPIC_RE.exec(html)) && topics.length < 6) {
       topics.push({
         title: decodeEntities(match[2]),
         url: `${FORUM_BASE}viewtopic.php?t=${match[1]}`,
