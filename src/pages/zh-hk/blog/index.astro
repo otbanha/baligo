@@ -6,7 +6,6 @@ import TopStrip from '../../../components/TopStrip.astro';
 import Footer from '../../../components/Footer.astro';
 import ChatBot from '../../../components/ChatBot.astro';
 import ExchangeRateWidget from '../../../components/ExchangeRateWidget.astro';
-import ForumRecentReplies from '../../../components/ForumRecentReplies.astro';
 import ForumLatestTopics from '../../../components/ForumLatestTopics.astro';
 import ShareWallPicks from '../../../components/ShareWallPicks.astro';
 import BaliWeather from '../../../components/BaliWeather.astro';
@@ -272,13 +271,11 @@ const socialLinks = [
           </div>
         </div>
 
-        <!-- 最新討論回覆 + 社群分享精選 -->
+        <!-- 峇里島討論區 + 社群分享精選 -->
         <div class="community-grid">
-          <ForumRecentReplies lang="zh-hk" />
+          <ForumLatestTopics lang="zh-hk" />
           <ShareWallPicks lang="zh-hk" />
         </div>
-
-        <ForumLatestTopics lang="zh-hk" />
 
         <!-- 每日參考匯率 -->
         <ExchangeRateWidget lang="zh-hk" />

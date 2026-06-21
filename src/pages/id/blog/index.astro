@@ -6,7 +6,6 @@ import TopStrip from '../../../components/TopStrip.astro';
 import Footer from '../../../components/Footer.astro';
 import ChatBot from '../../../components/ChatBot.astro';
 import ExchangeRateWidget from '../../../components/ExchangeRateWidget.astro';
-import ForumRecentReplies from '../../../components/ForumRecentReplies.astro';
 import ForumLatestTopics from '../../../components/ForumLatestTopics.astro';
 import ShareWallPicks from '../../../components/ShareWallPicks.astro';
 import BaliWeather from '../../../components/BaliWeather.astro';
@@ -279,13 +278,11 @@ const socialLinks = [
           </div>
         </div>
 
-        <!-- Latest Forum Replies + Community Shares -->
+        <!-- Bali Community Forum + Community Shares -->
         <div class="community-grid">
-          <ForumRecentReplies lang="id" />
+          <ForumLatestTopics lang="id" />
           <ShareWallPicks lang="id" />
         </div>
-
-        <ForumLatestTopics lang="id" />
 
         <!-- Daily Exchange Rate -->
         <ExchangeRateWidget lang="id" />
