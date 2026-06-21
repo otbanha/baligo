@@ -15,14 +15,22 @@ const row1 = [
 
 const row2 = [
   { id: 'flight',  icon: '✈️', url: '/blog/ticket/' },
-  { id: 'community', icon: '💬', url: 'https://community.gobaligo.id/', noLocalize: true },
   { id: 'sim',     icon: '📶', url: '/blog/bali-sim-card-esim-guide/' },
   { id: 'driver',  icon: '🚕', url: '/blog/bali-private-car-drivers-guide/' },
   { id: 'spa',     icon: '🧖', url: '/blog/spa/' },
   { id: 'tickets', icon: '🎟️', url: '/tickets/' },
 ] as const;
 
-const allItems = [...row1, ...row2] as const;
+const row3 = [
+  { id: 'forumVisa',      icon: '🛂', url: 'https://community.gobaligo.id/viewforum.php?f=3', noLocalize: true },
+  { id: 'forumTransport', icon: '🚐', url: 'https://community.gobaligo.id/viewforum.php?f=4', noLocalize: true },
+  { id: 'forumMoney',     icon: '💱', url: 'https://community.gobaligo.id/viewforum.php?f=5', noLocalize: true },
+  { id: 'forumScam',      icon: '🚨', url: 'https://community.gobaligo.id/viewforum.php?f=6', noLocalize: true },
+  { id: 'forumStay',      icon: '🏨', url: 'https://community.gobaligo.id/viewforum.php?f=7', noLocalize: true },
+  { id: 'forumSpot',      icon: '📸', url: 'https://community.gobaligo.id/viewforum.php?f=8', noLocalize: true },
+] as const;
+
+const allItems = [...row1, ...row2, ...row3] as const;
 type ItemId = typeof allItems[number]['id'];
 
 const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { newBadge: string; navLabel: string }> = {
@@ -34,11 +42,16 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     transport: { full: '交通選擇',   mobile: '交通' },
     fare:      { full: '車資計算',   mobile: '車資' },
     flight:    { full: '機票',       mobile: '機票' },
-    community: { full: '討論區',     mobile: '討論區' },
     sim:       { full: 'SIM 卡',     mobile: 'SIM'  },
     driver:    { full: '司機推薦',   mobile: '包車' },
     spa:       { full: 'SPA 推薦',   mobile: 'SPA'  },
     tickets:   { full: '票券優惠',   mobile: '票券' },
+    forumVisa:      { full: '簽證通關',   mobile: '簽證' },
+    forumTransport: { full: '交通討論',   mobile: '交通' },
+    forumMoney:     { full: '換匯SIM卡',  mobile: '換匯' },
+    forumScam:      { full: '詐騙踩雷',   mobile: '踩雷' },
+    forumStay:      { full: '住宿心得',   mobile: '住宿' },
+    forumSpot:      { full: '景點分享',   mobile: '景點' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
@@ -50,11 +63,16 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     transport: { full: '交通选择',   mobile: '交通' },
     fare:      { full: '车资计算',   mobile: '车资' },
     flight:    { full: '机票',       mobile: '机票' },
-    community: { full: '讨论区',     mobile: '讨论区' },
     sim:       { full: 'SIM 卡',     mobile: 'SIM'  },
     driver:    { full: '司机推荐',   mobile: '包车' },
     spa:       { full: 'SPA 推荐',   mobile: 'SPA'  },
     tickets:   { full: '票券优惠',   mobile: '票券' },
+    forumVisa:      { full: '签证通关',   mobile: '签证' },
+    forumTransport: { full: '交通讨论',   mobile: '交通' },
+    forumMoney:     { full: '换汇SIM卡',  mobile: '换汇' },
+    forumScam:      { full: '诈骗踩雷',   mobile: '踩雷' },
+    forumStay:      { full: '住宿心得',   mobile: '住宿' },
+    forumSpot:      { full: '景点分享',   mobile: '景点' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
@@ -66,11 +84,16 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     transport: { full: '交通選擇',   mobile: '交通' },
     fare:      { full: '車資計算',   mobile: '車資' },
     flight:    { full: '機票',       mobile: '機票' },
-    community: { full: '討論區',     mobile: '討論區' },
     sim:       { full: 'SIM 卡',     mobile: 'SIM'  },
     driver:    { full: '司機推薦',   mobile: '包車' },
     spa:       { full: 'SPA 推薦',   mobile: 'SPA'  },
     tickets:   { full: '票券優惠',   mobile: '票券' },
+    forumVisa:      { full: '簽證通關',   mobile: '簽證' },
+    forumTransport: { full: '交通討論',   mobile: '交通' },
+    forumMoney:     { full: '換匯SIM卡',  mobile: '換匯' },
+    forumScam:      { full: '詐騙踩雷',   mobile: '踩雷' },
+    forumStay:      { full: '住宿心得',   mobile: '住宿' },
+    forumSpot:      { full: '景點分享',   mobile: '景點' },
     newBadge:  'NEW',
     navLabel:  '主要功能',
   },
@@ -82,11 +105,16 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     transport: { full: 'Transport',    mobile: 'Transit' },
     fare:      { full: 'Fare Calc',    mobile: 'Fare'    },
     flight:    { full: 'Flights',       mobile: 'Flights' },
-    community: { full: 'Community',    mobile: 'Forum'   },
     sim:       { full: 'SIM Card',     mobile: 'SIM'     },
     driver:    { full: 'Driver Rec',   mobile: 'Driver'  },
     spa:       { full: 'SPA',          mobile: 'SPA'     },
     tickets:   { full: 'Tickets',      mobile: 'Tickets' },
+    forumVisa:      { full: 'Visa & Entry',     mobile: 'Visa'      },
+    forumTransport: { full: 'Transport Talk',   mobile: 'Transport' },
+    forumMoney:     { full: 'Money & SIM',      mobile: 'Money'     },
+    forumScam:      { full: 'Scam Alerts',      mobile: 'Scams'     },
+    forumStay:      { full: 'Stay Reviews',     mobile: 'Stays'     },
+    forumSpot:      { full: 'Spots & Trips',    mobile: 'Spots'     },
     newBadge:  'NEW',
     navLabel:  'Main features',
   },
@@ -98,11 +126,16 @@ const i18n: Record<string, Record<ItemId, { full: string; mobile: string }> & { 
     transport: { full: 'Transportasi',    mobile: 'Transpo' },
     fare:      { full: 'Tarif Gojek',     mobile: 'Tarif'   },
     flight:    { full: 'Tiket Pesawat',   mobile: 'Pesawat' },
-    community: { full: 'Komunitas',       mobile: 'Forum'   },
     sim:       { full: 'SIM Card',        mobile: 'SIM'     },
     driver:    { full: 'Rekomendasi Driver', mobile: 'Driver' },
     spa:       { full: 'SPA',             mobile: 'SPA'     },
     tickets:   { full: 'Harga Tiket',     mobile: 'Tiket'   },
+    forumVisa:      { full: 'Visa & Imigrasi',  mobile: 'Visa'      },
+    forumTransport: { full: 'Diskusi Transport', mobile: 'Transport' },
+    forumMoney:     { full: 'Tukar Uang & SIM', mobile: 'Uang'      },
+    forumScam:      { full: 'Peringatan Penipuan', mobile: 'Penipuan' },
+    forumStay:      { full: 'Ulasan Penginapan', mobile: 'Inap'     },
+    forumSpot:      { full: 'Spot & Trip',      mobile: 'Spot'      },
     newBadge:  'BARU',
     navLabel:  'Fitur Utama',
   },
@@ -142,6 +175,7 @@ function renderRow(items: readonly any[]) {
 
 const row1Rendered = renderRow(row1);
 const row2Rendered = renderRow(row2);
+const row3Rendered = renderRow(row3);
 ---
 
 <nav class="top-strip" aria-label={t.navLabel}>
@@ -179,6 +213,22 @@ const row2Rendered = renderRow(row2);
       </a>
     ))}
   </div>
+  <div class="strip-row strip-row--3">
+    {row3Rendered.map(({ item, href, active, showNew }) => (
+      <a
+        href={href}
+        class={`strip-item${active ? ' active' : ''}`}
+        target={item.id.startsWith('forum') ? '_blank' : undefined}
+        rel={item.id.startsWith('forum') ? 'noopener' : undefined}
+        aria-current={active ? 'page' : undefined}
+      >
+        <span aria-hidden="true">{item.icon}</span>
+        <span class="strip-label-full">{(t as any)[item.id].full}</span>
+        <span class="strip-label-mobile">{(t as any)[item.id].mobile}</span>
+        {showNew && <span class="strip-badge">{t.newBadge}</span>}
+      </a>
+    ))}
+  </div>
 </nav>
 
 <style is:global>
@@ -201,7 +251,8 @@ const row2Rendered = renderRow(row2);
   min-height: 36px;
 }
 .top-strip .strip-row::-webkit-scrollbar { display: none; }
-.top-strip .strip-row--2 {
+.top-strip .strip-row--2,
+.top-strip .strip-row--3 {
   border-top: 1px solid rgba(255, 255, 255, 0.08);
 }
 
