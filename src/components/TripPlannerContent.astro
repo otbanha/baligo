@@ -4058,7 +4058,12 @@ function buildResults() {
 </script>
 
 <style>
-#planner { background: #faf7f2; min-height: 100vh; }
+#planner {
+  background: #faf7f2;
+  min-height: 100vh;
+  --ocean: var(--header-bg, #1A365D);
+  --ocean-light: #2C4A73;
+}
 
 /* ── SEO Content Section ──────────────────────────────────────────── */
 .seo-content {
@@ -4126,7 +4131,7 @@ details[open] .seo-faq-q::after { content: '−'; }
 }
 .seo-link-group ul li { margin-bottom: 0.4rem; }
 .seo-link-group ul li a {
-  color: #9A6447; font-size: 0.9rem; line-height: 1.5;
+  color: #1A365D; font-size: 0.9rem; line-height: 1.5;
   text-decoration: underline; text-underline-offset: 2px;
 }
 .seo-link-group ul li a:hover { color: var(--gold, #c5a059); }
@@ -4137,7 +4142,7 @@ details[open] .seo-faq-q::after { content: '−'; }
 }
 
 .planner-hero {
-  background: linear-gradient(135deg, var(--ocean) 0%, #9A6447 100%);
+  background: linear-gradient(135deg, var(--ocean) 0%, #2C4A73 100%);
   padding: 3.5rem 1rem 3rem; text-align: center; color: #fff;
 }
 .hero-inner { max-width: 640px; margin: 0 auto; }
@@ -4396,7 +4401,7 @@ details[open] .seo-faq-q::after { content: '−'; }
 
 /* ── Route tip box (global) ── */
 :global(.route-tip-box) {
-  background: linear-gradient(135deg, var(--ocean) 0%, #9A6447 100%);
+  background: linear-gradient(135deg, var(--ocean) 0%, #2C4A73 100%);
   border-radius: 16px;
   padding: 1.4rem 1.6rem;
   margin-bottom: 2rem;
@@ -4710,7 +4715,7 @@ details[open] .seo-faq-q::after { content: '−'; }
     display: flex !important;
     position: fixed;
     bottom: 0; left: 0; right: 0;
-    background: #5D4037;
+    background: #1A365D;
     padding: 14px 28px;
     align-items: center;
     justify-content: space-between;
