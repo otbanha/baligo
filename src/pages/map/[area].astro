@@ -272,7 +272,7 @@ const relatedMapData = (area.relatedMaps ?? [])
 
     #gps-btn {
       position: fixed;
-      top: 201px; left: 16px;
+      top: 230px; left: 16px;
       height: 44px;
       padding: 0 14px 0 10px;
       background: #fff;
@@ -590,6 +590,22 @@ const relatedMapData = (area.relatedMaps ?? [])
   <script is:inline>
     var _gpsWatchId = null;
     var _GPS_HINT_KEY = 'gobaligo_map_locate_hint_seen';
+
+    // top:230px in CSS is only a fallback — header/topstrip height varies by
+    // viewport, so position the button just below the actual rendered topbar
+    // to avoid it overlapping the banner above the map.
+    function _positionGpsBtn() {
+      var btn = document.getElementById('gps-btn');
+      var topbar = document.querySelector('.map-topbar');
+      if (!btn || !topbar) return;
+      var topStrip = document.querySelector('.top-strip');
+      var topbarBottom = topbar.getBoundingClientRect().bottom;
+      var stripBottom = topStrip ? topStrip.getBoundingClientRect().bottom : 0;
+      btn.style.top = Math.max(topbarBottom, stripBottom) + 14 + 'px';
+    }
+    _positionGpsBtn();
+    window.addEventListener('resize', _positionGpsBtn);
+    window.addEventListener('orientationchange', _positionGpsBtn);
 
     function _resetGpsBtn() {
       var btn = document.getElementById('gps-btn');
