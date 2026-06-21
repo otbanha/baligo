@@ -1,3 +1,5 @@
+import { checkRateLimit } from '../lib/unfurl/ratelimit.js';
+
 /**
  * POST /api/like
  * body: { id: string }
@@ -12,6 +14,13 @@ export async function onRequestPost(context) {
   }
 
   if (!env.UNFURL_RECENT) return new Response(null, { status: 204 });
+
+  // Per-IP rate limit to bound KV write amplification from scripted abuse.
+  if (env.UNFURL_RATELIMIT) {
+    const ip = request.headers.get('cf-connecting-ip') ?? request.headers.get('x-forwarded-for') ?? 'unknown';
+    const allowed = await checkRateLimit(env.UNFURL_RATELIMIT, ip, false, { action: 'like', max: 30 });
+    if (!allowed) return new Response(null, { status: 204 });
+  }
 
   let id;
   try {
