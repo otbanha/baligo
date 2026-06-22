@@ -254,7 +254,7 @@ const t = i18n[lang] ?? i18n['zh-tw'];
 
 .swp-list {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(4, minmax(0, 1fr));
   gap: .5rem;
 }
 .swp-loading {
@@ -348,6 +348,9 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   text-transform: uppercase;
   letter-spacing: .04em;
   margin-bottom: .2rem;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
 }
 .swp-tag-youtube   { color: #c00; }
 .swp-tag-threads   { color: #111; }
