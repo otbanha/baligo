@@ -368,6 +368,6 @@ const t = i18n[lang] ?? i18n['zh-tw'];
 }
 
 @media (max-width: 480px) {
-  .swp-list { grid-template-columns: repeat(2, 1fr); }
+  .swp-list { grid-template-columns: repeat(2, minmax(0, 1fr)); }
 }
 </style>
