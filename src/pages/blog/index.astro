@@ -206,6 +206,13 @@ const socialLinks = [
       if (sessionStorage.getItem('gobaligo_lang_checked')) return;
       sessionStorage.setItem('gobaligo_lang_checked', '1');
 
+      // 站內導覽（例如從文章頁點擊「文章分類」連結過來）一律信任，不做語言猜測跳轉。
+      // 這避免少數瀏覽器（如 Opera 的資料節省/代理模式）在轉址過程中遺失 ?lang=tw
+      // 參數時，被瀏覽器語言設定誤判跳轉到錯誤語系首頁。
+      try {
+        if (document.referrer && new URL(document.referrer).hostname === location.hostname) return;
+      } catch (e) {}
+
       // 保留當前 query string（cat、page、q 等），帶到目標語言頁面
       var qs = location.search;
 
