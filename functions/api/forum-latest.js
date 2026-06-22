@@ -16,8 +16,9 @@ function decodeEntities(str) {
 
 export async function onRequestGet() {
   try {
-    const res = await fetch(`${FORUM_BASE}search.php?search_id=active_topics`, {
+    const res = await fetch(`${FORUM_BASE}search.php?search_id=active_topics&_=${Date.now()}`, {
       headers: { 'User-Agent': 'Mozilla/5.0 (compatible; GobaligoForumWidget/1.0)' },
+      cf: { cacheTtl: 0, cacheEverything: false },
     });
     if (!res.ok) throw new Error(`upstream ${res.status}`);
     const html = await res.text();
