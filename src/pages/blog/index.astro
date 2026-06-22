@@ -206,6 +206,13 @@ const socialLinks = [
       if (sessionStorage.getItem('gobaligo_lang_checked')) return;
       sessionStorage.setItem('gobaligo_lang_checked', '1');
 
+      // 站內導覽（例如從文章頁點擊「文章分類」連結過來）一律信任，不做語言猜測跳轉。
+      // 這避免少數瀏覽器（如 Opera 的資料節省/代理模式）在轉址過程中遺失 ?lang=tw
+      // 參數時，被瀏覽器語言設定誤判跳轉到錯誤語系首頁。
+      try {
+        if (document.referrer && new URL(document.referrer).hostname === location.hostname) return;
+      } catch (e) {}
+
       // 保留當前 query string（cat、page、q 等），帶到目標語言頁面
       var qs = location.search;
 
@@ -283,14 +290,14 @@ const socialLinks = [
     "description": "涵蓋住宿推薦、簽證通關、分區攻略、美食景點等峇里島旅遊主題分類",
     "numberOfItems": 9,
     "itemListElement": [
-      { "@type": "ListItem", "position": 1, "name": "新手指南", "url": "https://gobaligo.id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97" },
-      { "@type": "ListItem", "position": 2, "name": "住宿推薦", "url": "https://gobaligo.id/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6" },
-      { "@type": "ListItem", "position": 3, "name": "峇里島分區攻略", "url": "https://gobaligo.id/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5" },
-      { "@type": "ListItem", "position": 4, "name": "簽證通關", "url": "https://gobaligo.id/blog/?cat=%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C" },
-      { "@type": "ListItem", "position": 5, "name": "叫車包車", "url": "https://gobaligo.id/blog/?cat=%E5%8F%AB%E8%BB%8A%E5%8C%85%E8%BB%8A" },
-      { "@type": "ListItem", "position": 6, "name": "家庭親子", "url": "https://gobaligo.id/blog/?cat=%E5%AE%B6%E5%BA%AD%E8%A6%AA%E5%AD%90" },
-      { "@type": "ListItem", "position": 7, "name": "遊記分享", "url": "https://gobaligo.id/blog/?cat=%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB" },
-      { "@type": "ListItem", "position": 8, "name": "美食景點活動", "url": "https://gobaligo.id/blog/?cat=%E7%BE%8E%E9%A3%9F%E6%99%AF%E9%BB%9E%E6%B4%BB%E5%8B%95" },
+      { "@type": "ListItem", "position": 1, "name": "新手指南", "url": "https://gobaligo.id/blog/category/%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97/" },
+      { "@type": "ListItem", "position": 2, "name": "住宿推薦", "url": "https://gobaligo.id/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/" },
+      { "@type": "ListItem", "position": 3, "name": "峇里島分區攻略", "url": "https://gobaligo.id/blog/category/%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5/" },
+      { "@type": "ListItem", "position": 4, "name": "簽證通關", "url": "https://gobaligo.id/blog/category/%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C/" },
+      { "@type": "ListItem", "position": 5, "name": "叫車包車", "url": "https://gobaligo.id/blog/category/%E5%8F%AB%E8%BB%8A%E5%8C%85%E8%BB%8A/" },
+      { "@type": "ListItem", "position": 6, "name": "家庭親子", "url": "https://gobaligo.id/blog/category/%E5%AE%B6%E5%BA%AD%E8%A6%AA%E5%AD%90/" },
+      { "@type": "ListItem", "position": 7, "name": "遊記分享", "url": "https://gobaligo.id/blog/category/%E9%81%8A%E8%A8%98%E5%88%86%E4%BA%AB/" },
+      { "@type": "ListItem", "position": 8, "name": "美食景點活動", "url": "https://gobaligo.id/blog/category/%E7%BE%8E%E9%A3%9F%E6%99%AF%E9%BB%9E%E6%B4%BB%E5%8B%95/" },
       { "@type": "ListItem", "position": 9, "name": "旅行技巧", "url": "https://gobaligo.id/blog/?cat=%E6%97%85%E8%A1%8C%E6%8A%80%E5%B7%A7" }
     ]
   })} />
@@ -374,7 +381,7 @@ const socialLinks = [
         <div class="essential-guides">
           <h2 class="section-title fade-in">📚 必讀攻略導航</h2>
           <div class="guides-grid">
-            <a href="/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97" class="guide-card">
+            <a href="/blog/category/%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97/" class="guide-card">
               <span class="guide-icon">🎒</span>
               <span class="guide-name">新手指南</span>
               <span class="guide-count">{categoryCounts['新手指南'] || 0} 篇</span>
@@ -384,22 +391,22 @@ const socialLinks = [
               <span class="guide-name">包車司機推薦</span>
               <span class="guide-desc">尋找可靠的司機</span>
             </a>
-            <a href="/blog/?cat=%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C" class="guide-card">
+            <a href="/blog/category/%E7%B0%BD%E8%AD%89%E9%80%9A%E9%97%9C/" class="guide-card">
               <span class="guide-icon">🛂</span>
               <span class="guide-name">簽證通關</span>
               <span class="guide-count">{categoryCounts['簽證通關'] || 0} 篇</span>
             </a>
-            <a href="/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6" class="guide-card">
+            <a href="/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/" class="guide-card">
               <span class="guide-icon">🏨</span>
               <span class="guide-name">住宿推薦</span>
               <span class="guide-count">{categoryCounts['住宿推薦'] || 0} 篇</span>
             </a>
-            <a href="/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5" class="guide-card">
+            <a href="/blog/category/%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5/" class="guide-card">
               <span class="guide-icon">🗺️</span>
               <span class="guide-name">分區攻略</span>
               <span class="guide-count">{categoryCounts['峇里島分區攻略'] || 0} 篇</span>
             </a>
-            <a href="/blog/?cat=%E7%BE%8E%E9%A3%9F%E6%99%AF%E9%BB%9E%E6%B4%BB%E5%8B%95" class="guide-card">
+            <a href="/blog/category/%E7%BE%8E%E9%A3%9F%E6%99%AF%E9%BB%9E%E6%B4%BB%E5%8B%95/" class="guide-card">
               <span class="guide-icon">🍽️</span>
               <span class="guide-name">景點推薦</span>
               <span class="guide-count">{categoryCounts['美食景點活動'] || 0} 篇</span>
@@ -627,8 +634,8 @@ const socialLinks = [
           <ul class="newbie-article-list">
             <li><a href="/trip-planner/">🗺️ 峇里島行程規劃工具</a> — 5分鐘產生個人化分區推薦</li>
             <li><a href="/bali-budget-calculator/">💰 峇里島預算計算機</a> — 估算 5/7/10 天需要多少預算</li>
-            <li><a href="/blog/?cat=%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6">🏨 峇里島住宿推薦系列</a> — 全島最完整住宿精選</li>
-            <li><a href="/blog/?cat=%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5">📍 峇里島分區攻略系列</a> — 庫塔、水明漾、烏布、長谷、烏魯瓦圖全攻略</li>
+            <li><a href="/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/">🏨 峇里島住宿推薦系列</a> — 全島最完整住宿精選</li>
+            <li><a href="/blog/category/%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5/">📍 峇里島分區攻略系列</a> — 庫塔、水明漾、烏布、長谷、烏魯瓦圖全攻略</li>
           </ul>
         </div>
 
@@ -903,7 +910,7 @@ const socialLinks = [
 
         const NEWBIE_TITLE = '峇里島新手指南 2026｜25篇必看行前攻略 - Go Bali Go';
         const NEWBIE_DESC = '第一次去峇里島？完整收錄簽證、換匯、住宿、交通、禁忌等25篇深度攻略。新手不踩雷的峇里島自由行寶典，2026最新版資訊一次看。';
-        const NEWBIE_CANONICAL = 'https://gobaligo.id/blog/?cat=%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97';
+        const NEWBIE_CANONICAL = 'https://gobaligo.id/blog/category/%E6%96%B0%E6%89%8B%E6%8C%87%E5%8D%97/';
 
         if (isNewbie) {
           document.title = NEWBIE_TITLE;
