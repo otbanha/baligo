@@ -25,9 +25,9 @@ export async function onRequestPost(context) {
     return new Response('ok'); // silently ignore invalid slugs
   }
 
-  // Probabilistic write: only write 1 in 20 requests, increment by 20 each time.
-  // Statistically accurate while reducing KV writes by ~95%.
-  if (Math.random() >= 0.05) {
+  // Probabilistic write: only write 1 in 10 requests, increment by 10 each time.
+  // Statistically accurate while reducing KV writes by ~90%.
+  if (Math.random() >= 0.1) {
     return new Response('ok');
   }
 
@@ -41,9 +41,9 @@ export async function onRequestPost(context) {
     env.PAGEVIEW_KV.get(dayKey, 'json'),
   ]);
 
-  const count = ((existing.metadata && existing.metadata.views) || 0) + 20;
+  const count = ((existing.metadata && existing.metadata.views) || 0) + 10;
   const day = dayData || {};
-  day[slug] = (day[slug] || 0) + 20;
+  day[slug] = (day[slug] || 0) + 10;
 
   await Promise.all([
     env.PAGEVIEW_KV.put(key, '', { metadata: { views: count } }),
