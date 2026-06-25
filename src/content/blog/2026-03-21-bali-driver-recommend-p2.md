@@ -116,7 +116,7 @@ embeds: []
 
 ![raw-image](https://images.gobaligo.id/images/2026-03/1774788166261-new.jpg)
 
-👍🏼[網友推薦1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1DXtpVrXjz/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/18nHVoCWo8/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1Cdc1dWKHk/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1D1goxHNqs/)
+👍🏼[網友推薦1](https://www.facebook.com/share/p/1ESoigNQ2h/) 👍🏼[網友推薦2](https://www.facebook.com/share/p/1ApnuYW744/) 👍🏼[網友推薦3](https://www.facebook.com/share/p/1AtAt69yE2/) 👍🏼[網友推薦4](https://www.facebook.com/share/p/1KhoUWKk8J/) 👍🏼[網友推薦5](https://www.facebook.com/share/p/1DXtpVrXjz/) 👍🏼[網友推薦6](https://www.facebook.com/share/p/18nHVoCWo8/) 👍🏼[網友推薦7](https://www.facebook.com/share/p/1Cdc1dWKHk/) 👍🏼[網友推薦8](https://www.facebook.com/share/p/1D1goxHNqs/) 👍🏼[網友推薦9](https://www.facebook.com/share/p/1CqNJXhzX8/)
 
 ## Gung Bali Wangzi 王子
 
