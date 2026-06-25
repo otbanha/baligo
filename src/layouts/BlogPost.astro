@@ -666,12 +666,27 @@ window.addEventListener('load', () => {
       msgEl.className = 'comment-msg ' + type;
     }
 
-    // Load comments
-    list.innerHTML = '<p class="comments-empty">載入中⋯</p>';
-    fetch('/api/comments?slug=' + encodeURIComponent(slug))
-      .then(function(r) { return r.json(); })
-      .then(renderComments)
-      .catch(function() { list.innerHTML = '<p class="comments-empty">載入失敗</p>'; });
+    // Load comments — 延遲到使用者實際捲動到留言區才發送請求，
+    // 跳過大量未讀到底部就離開的訪客的 Worker 呼叫
+    function loadComments() {
+      list.innerHTML = '<p class="comments-empty">載入中⋯</p>';
+      fetch('/api/comments?slug=' + encodeURIComponent(slug))
+        .then(function(r) { return r.json(); })
+        .then(renderComments)
+        .catch(function() { list.innerHTML = '<p class="comments-empty">載入失敗</p>'; });
+    }
+
+    if ('IntersectionObserver' in window) {
+      var observer = new IntersectionObserver(function(entries) {
+        if (entries[0].isIntersecting) {
+          observer.disconnect();
+          loadComments();
+        }
+      }, { rootMargin: '200px' });
+      observer.observe(section);
+    } else {
+      loadComments();
+    }
 
     // Submit
     form.addEventListener('submit', function(e) {

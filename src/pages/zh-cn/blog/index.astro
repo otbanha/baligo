@@ -533,8 +533,31 @@ const socialLinks = [
     }
 
     let activeVideos = youtubeVideos;
-    fetch('/api/videos').then(r => r.ok ? r.json() : null).then(data => {
-      if (Array.isArray(data) && data.length > 0) activeVideos = data;
+    let dynamicFeatured = null;
+    fetch('/api/home-data').then(r => r.ok ? r.json() : null).then(data => {
+      if (!data) return;
+      if (Array.isArray(data.videos) && data.videos.length > 0) activeVideos = data.videos;
+
+      if (Array.isArray(data.hotArticles) && data.hotArticles.length > 0) {
+        const section = document.getElementById('top5-section');
+        const list = document.getElementById('top5-list');
+        if (section && list) {
+          const findPost = id => allPostsData.find(p => p.id === id || p.slug === id);
+          const shuffled = data.hotArticles.slice().sort(() => Math.random() - 0.5).slice(0, 6);
+          list.innerHTML = shuffled.map((item) => {
+            const postData = findPost(item.id);
+            const localTitle = postData?.title || item.title;
+            const slug = postData?.slug || item.id;
+            return `<li class="top5-item"><a href="${blogBase}/${slug}/"><span style="display:inline-block;width:20px;height:20px;flex-shrink:0;background-image:url('/favicon-32x32.png');background-size:cover;background-repeat:no-repeat;border-radius:4px"></span><span class="top5-title">${localTitle}</span></a></li>`;
+          }).join('');
+          section.style.display = '';
+        }
+      }
+
+      if (data.featured && typeof data.featured === 'object' && Object.keys(data.featured).length > 0) {
+        dynamicFeatured = data.featured;
+        if (currentCat && currentCat !== 'all') updateFeatured(currentCat);
+      }
     }).catch(() => {}).finally(() => {
       const randomVideo = activeVideos[Math.floor(Math.random() * activeVideos.length)];
       document.getElementById('yt-iframe').src = `https://www.youtube.com/embed/${randomVideo}?rel=0`;
@@ -549,30 +572,6 @@ const socialLinks = [
       if (img) { img.src = random.heroImage; img.alt = random.title; }
       if (title) title.textContent = random.title;
     }
-
-    fetch('/api/hot-articles').then(r => r.json()).then(data => {
-      if (!Array.isArray(data) || data.length === 0) return;
-      const section = document.getElementById('top5-section');
-      const list = document.getElementById('top5-list');
-      if (!section || !list) return;
-      const findPost = id => allPostsData.find(p => p.id === id || p.slug === id);
-      const shuffled = data.slice().sort(() => Math.random() - 0.5).slice(0, 6);
-      list.innerHTML = shuffled.map((item) => {
-        const postData = findPost(item.id);
-        const localTitle = postData?.title || item.title;
-        const slug = postData?.slug || item.id;
-        return `<li class="top5-item"><a href="${blogBase}/${slug}/"><span style="display:inline-block;width:20px;height:20px;flex-shrink:0;background-image:url('/favicon-32x32.png');background-size:cover;background-repeat:no-repeat;border-radius:4px"></span><span class="top5-title">${localTitle}</span></a></li>`;
-      }).join('');
-      section.style.display = '';
-    }).catch(() => {});
-
-    let dynamicFeatured = null;
-    fetch('/api/featured').then(r => r.json()).then(data => {
-      if (data && typeof data === 'object' && Object.keys(data).length > 0) {
-        dynamicFeatured = data;
-        if (currentCat && currentCat !== 'all') updateFeatured(currentCat);
-      }
-    }).catch(() => {});
 
     const POSTS_PER_PAGE = 18;
     let currentPage = 1;

@@ -689,10 +689,32 @@ const socialLinks = [
       });
     }
 
-    // 初始化影片（從 API 取得，fallback 到靜態列表）
+    // 合併取得影片／熱門文章／精選文章（單一請求，減少 Worker 呼叫次數）
     let activeVideos = youtubeVideos;
-    fetch('/api/videos').then(r => r.ok ? r.json() : null).then(data => {
-      if (Array.isArray(data) && data.length > 0) activeVideos = data;
+    let dynamicFeatured = null;
+    fetch('/api/home-data').then(r => r.ok ? r.json() : null).then(data => {
+      if (!data) return;
+      if (Array.isArray(data.videos) && data.videos.length > 0) activeVideos = data.videos;
+
+      if (Array.isArray(data.hotArticles) && data.hotArticles.length > 0) {
+        const section = document.getElementById('top5-section');
+        const list = document.getElementById('top5-list');
+        if (section && list) {
+          const shuffled = data.hotArticles.slice().sort(() => Math.random() - 0.5).slice(0, 6);
+          list.innerHTML = shuffled.map((item, i) => {
+            const postData = findPost(item.id);
+            const localTitle = postData?.title || item.title;
+            const slug = postData?.slug || item.id;
+            return `<li class="top5-item" data-index="${i}"><a href="${blogBase}/${slug}/"><span style="display:inline-block;width:20px;height:20px;flex-shrink:0;background-image:url('/favicon-32x32.png');background-size:cover;background-repeat:no-repeat;border-radius:4px"></span><span class="top5-title">${localTitle}</span></a></li>`;
+          }).join('');
+          section.style.display = '';
+        }
+      }
+
+      if (data.featured && typeof data.featured === 'object' && Object.keys(data.featured).length > 0) {
+        dynamicFeatured = data.featured;
+        if (currentCat && currentCat !== 'all') updateFeatured(currentCat);
+      }
     }).catch(() => {}).finally(() => {
       const randomVideo = activeVideos[Math.floor(Math.random() * activeVideos.length)];
       document.getElementById('yt-iframe').src = `https://www.youtube.com/embed/${randomVideo}?rel=0`;
@@ -709,38 +731,12 @@ const socialLinks = [
       if (title) title.textContent = random.title;
     }
 
-    // 從 KV 載入手動選定的熱門文章，亂數顯示 6 則
-    fetch('/api/hot-articles').then(r => r.json()).then(data => {
-      if (!Array.isArray(data) || data.length === 0) return;
-      const section = document.getElementById('top5-section');
-      const list = document.getElementById('top5-list');
-      if (!section || !list) return;
-      const shuffled = data.slice().sort(() => Math.random() - 0.5).slice(0, 6);
-      list.innerHTML = shuffled.map((item, i) => {
-        const postData = findPost(item.id);
-        const localTitle = postData?.title || item.title;
-        const slug = postData?.slug || item.id;
-        return `<li class="top5-item" data-index="${i}"><a href="${blogBase}/${slug}/"><span style="display:inline-block;width:20px;height:20px;flex-shrink:0;background-image:url('/favicon-32x32.png');background-size:cover;background-repeat:no-repeat;border-radius:4px"></span><span class="top5-title">${localTitle}</span></a></li>`;
-      }).join('');
-      section.style.display = '';
-    }).catch(() => {});
-
     // 從 hero-map.json 載入 heroImage 查詢表（輕量，保證最新）
     let articleHeroMap = {};
     fetch('/hero-map.json?v=' + Date.now()).then(r => r.json()).then(map => {
       articleHeroMap = map;
       // fetch 完後若目前已在某分類，重新渲染精選（補齊空白 heroImage）
       if (currentCat && currentCat !== 'all') updateFeatured(currentCat);
-    }).catch(() => {});
-
-    // 從 KV 動態載入精選文章（若有資料則覆蓋靜態清單）
-    let dynamicFeatured = null;
-    fetch('/api/featured').then(r => r.json()).then(data => {
-      if (data && typeof data === 'object' && Object.keys(data).length > 0) {
-        dynamicFeatured = data;
-        // 若目前已在某分類，重新渲染精選
-        if (currentCat && currentCat !== 'all') updateFeatured(currentCat);
-      }
     }).catch(() => {});
 
     const POSTS_PER_PAGE = 18;
