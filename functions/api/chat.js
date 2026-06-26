@@ -307,10 +307,11 @@ const PINNED_ARTICLES = [
     ],
   },
   {
-    keywords: ['雨季', '下雨', '雨天', '濕季', '旱季', '天氣', '氣候', '氣溫', '落雨', '幾時去好',
+    keywords: ['雨季', '下雨', '雨天', '濕季', '旱季', '天氣', '氣候', '氣溫', '溫度', '落雨', '幾時去好',
                'rainy season', 'dry season', 'weather', 'climate', 'temperature', 'rain', 'monsoon',
                'best time to visit', 'when to visit', 'wet season'],
     articles: [
+      { title: '峇里島即時天氣預報（即時氣溫・7天預報）', url: '/weather/' },
       { title: '峇里島雨季旅遊完整攻略', url: '/blog/bali-rainy-season-travel-guide/' },
       { title: '峇里島的天氣怎麼看？會不會下雨？旅人常見誤解一次破解！', url: '/blog/bali-weather-myths-explained/' },
       { title: '峇里島雨季：旅遊峇里島碰到下雨天怎麼辦？峇里島下雨天的60個備案攻略', url: '/blog/2026-bali-indoor-activities/' },
@@ -480,7 +481,7 @@ const RATE_LIMIT_TTL = 3600;
 const INPUT_MAX_CHARS = 200;
 const OUTPUT_MAX_TOKENS = 600;
 const CACHE_TTL = 86400; // 24h response cache
-const CACHE_VERSION = 'v20'; // increment to bust stale cached responses
+const CACHE_VERSION = 'v21'; // increment to bust stale cached responses
 const DAILY_GLOBAL_MAX = 500; // max AI API calls per UTC day across all users
 
 // Spam / abuse keyword blacklist (case-insensitive)
@@ -562,7 +563,7 @@ function localizeUrl(url, lang) {
   const prefix = getLangUrlPrefix(lang);
   if (!prefix) return url;
   // /blog/xxx/ → /zh-cn/blog/xxx/
-  if (url.startsWith('/blog/')) return prefix + url;
+  if (url.startsWith('/blog/') || url === '/weather/') return prefix + url;
   return url;
 }
 
