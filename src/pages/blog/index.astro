@@ -121,6 +121,7 @@ const accommodations = allPosts
   .slice(0, 15)
   .map(p => ({
     id: p.id,
+    slug: p.data.slug || p.id,
     title: p.data.title,
     heroImage: p.data.heroImage || '',
   }));
@@ -726,7 +727,7 @@ const socialLinks = [
       const link = document.getElementById('accom-link');
       const img = document.getElementById('accom-img');
       const title = document.getElementById('accom-title');
-      if (link) link.href = `${blogBase}/blog/${random.id}/`;
+      if (link) link.href = `${blogBase}/${random.slug}/`;
       if (img) { img.src = random.heroImage; img.alt = random.title; }
       if (title) title.textContent = random.title;
     }
