@@ -40,6 +40,19 @@ function parseYamlList(content, key) {
   return m[1].match(/^\s+-\s+(.+)$/mg)?.map(l => l.replace(/^\s+-\s+/, '').trim()) || [];
 }
 
+// 與 Astro content collection 的 glob loader 行為一致：
+// 無 slug frontmatter 時，實際路由是用 github-slugger 對檔名做小寫化處理，
+// 若這裡不做相同轉換，搜尋結果/精選文章列出的 URL 大小寫會跟實際頁面不符，導致點擊後 404。
+function slugifyFilename(name) {
+  return name
+    .toLowerCase()
+    .trim()
+    .replace(/[^\w\s-]/g, '')
+    .replace(/[\s_]+/g, '-')
+    .replace(/-+/g, '-')
+    .replace(/^-|-$/g, '');
+}
+
 const files = readdirSync(blogDir).filter(f => f.endsWith('.md') || f.endsWith('.mdx'));
 
 const articles = [];
@@ -71,7 +84,7 @@ for (const file of files) {
     .trim()
     .slice(0, 300);
 
-  const slugId = fm.slug || id;  // Astro legacy collection p.id = fm.slug (if set), else filename
+  const slugId = fm.slug || slugifyFilename(id);  // 與 Astro 實際路由 slug 規則一致（fm.slug 優先，否則小寫化檔名）
   articles.push({
     id: slugId,
     title: fm.title,
