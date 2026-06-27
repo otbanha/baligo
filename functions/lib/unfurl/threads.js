@@ -58,7 +58,7 @@ export async function handleThreads(url) {
 
   try {
     const controller = new AbortController();
-    const timer = setTimeout(() => controller.abort(), 5000);
+    const timer = setTimeout(() => controller.abort(), 7000);
 
     const res = await fetch(url, {
       signal: controller.signal,
@@ -83,9 +83,15 @@ export async function handleThreads(url) {
         const tm = ogTitle.match(/^(.*?)\s*\(@[\w.]+\)/);
         authorName = tm ? tm[1].trim() : ogTitle;
       }
+      if (!thumbnail && !authorAvatar) {
+        console.log(`[threads] no og:image found url=${url} status=${res.status} htmlLen=${html.length}`);
+      }
+    } else {
+      console.log(`[threads] fetch not ok url=${url} status=${res.status}`);
     }
-  } catch {
-    // 抓取失敗 → 繼續，thumbnail 維持 null（卡片顯示漸層佔位）
+  } catch (e) {
+    // 抓取失敗（逾時/網路錯誤）→ 繼續，thumbnail 維持 null（卡片顯示漸層佔位）
+    console.log(`[threads] fetch failed url=${url} err=${e?.message}`);
   }
 
   return {
