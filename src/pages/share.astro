@@ -504,6 +504,16 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       /* ── Embed card (result area) ── */
       .embed-body { padding: 0.8rem 0.8rem 0.6rem; }
       .embed-body .iframe-container { border-radius: 8px; }
+      .embed-caption {
+        margin: 0.7rem 0 0;
+        font-size: 0.85rem;
+        color: #333;
+        line-height: 1.45;
+        display: -webkit-box;
+        -webkit-line-clamp: 4;
+        -webkit-box-orient: vertical;
+        overflow: hidden;
+      }
 
       /* ── 統一 iframe/embed 容器（Threads / IG / FB 共用比例容器）── */
       .iframe-container {
@@ -1057,6 +1067,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           </div>
           <div class="embed-body">
             ${mediaHtml}
+            ${data.data?.title ? `<p class="embed-caption">${esc(data.data.title)}</p>` : ''}
             <a class="source-link" href="${esc(sourceUrl)}" target="_blank" rel="noopener noreferrer" style="margin-top:0.8rem;display:inline-flex">前往原文 →</a>
           </div>
         `;
@@ -1394,7 +1405,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }
 
         const displayTitle = isEmbed
-          ? (item.embedHandle ? `${item.embedHandle} 的貼文` : item.authorName ? `${item.authorName} 的貼文` : `${item.platform} 貼文`)
+          ? (item.title || (item.embedHandle ? `${item.embedHandle} 的貼文` : item.authorName ? `${item.authorName} 的貼文` : `${item.platform} 貼文`))
           : (item.title || item.authorName || '無標題');
 
         card.innerHTML = `
@@ -1486,7 +1497,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         }
 
         const displayTitle = isEmbed
-          ? (item.embedHandle ? `${item.embedHandle} 的貼文` : item.authorName ? `${item.authorName} 的貼文` : `${item.platform} 貼文`)
+          ? (item.title || (item.embedHandle ? `${item.embedHandle} 的貼文` : item.authorName ? `${item.authorName} 的貼文` : `${item.platform} 貼文`))
           : (item.title || item.authorName || '無標題');
 
         const authorLine = !isEmbed && item.authorName

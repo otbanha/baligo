@@ -28,6 +28,19 @@ function extractMetaContent(html, property) {
 }
 
 /**
+ * Threads 的 <title> 標籤實際放的是貼文全文（不是頁面標題！），
+ * 沒有縮圖時至少能讓使用者知道這篇在講什麼。純媒體無文字的貼文，
+ * <title> 會 fallback 成「Author (@handle) on Threads」，這種就不採用。
+ */
+function extractTitleTag(html) {
+  const m = html.match(/<title[^>]*>([\s\S]*?)<\/title>/i);
+  if (!m) return null;
+  const text = decodeHtmlEntities(m[1]).replace(/\s+/g, ' ').trim();
+  if (!text || /\(@[\w.]+\)\s*on\s*Threads$/i.test(text) || text === 'Threads') return null;
+  return text.length > 200 ? `${text.slice(0, 200)}…` : text;
+}
+
+/**
  * 純影片貼文沒有畫面截圖時，Threads 的 og:image 會 fallback 成「作者大頭貼」
  * （CDN 網址的 efg 參數 base64 解碼後含 vencode_tag: profile_pic...）。
  * 這種情況視同無縮圖，讓卡片改顯示漸層佔位，避免縮圖看起來像錯誤的大頭貼特寫。
@@ -51,10 +64,11 @@ function isProfilePicThumbnail(imageUrl) {
 export async function handleThreads(url) {
   const handle = extractHandle(url);
 
-  // ── 抓貼文頁面 og:image / og:title（失敗不影響主流程）──
+  // ── 抓貼文頁面 og:image / og:title / 貼文全文（失敗不影響主流程）──
   let thumbnail = null;
   let authorAvatar = null;
   let authorName = null;
+  let caption = null;
 
   try {
     const controller = new AbortController();
@@ -83,6 +97,7 @@ export async function handleThreads(url) {
         const tm = ogTitle.match(/^(.*?)\s*\(@[\w.]+\)/);
         authorName = tm ? tm[1].trim() : ogTitle;
       }
+      caption = extractTitleTag(html);
       if (!thumbnail && !authorAvatar) {
         console.log(`[threads] no og:image found url=${url} status=${res.status} htmlLen=${html.length}`);
       }
@@ -104,7 +119,7 @@ export async function handleThreads(url) {
       iframeRatio: '4:5', // 容器比例，與 IG/FB 卡片視覺統一
     },
     data: {
-      title: null,
+      title: caption,
       description: null,
       author: {
         name: authorName,
