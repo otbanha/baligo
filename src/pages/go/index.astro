@@ -210,13 +210,14 @@ export const prerender = true;
       <tr data-search="${(l.id + ' ' + l.note).toLowerCase()}">
         <td class="id-cell">
           <a href="/go/${esc(l.id)}" target="_blank" style="color:inherit;text-decoration:none">/go/${esc(l.id)}</a>
+          ${l.static ? '<span title="寫在程式碼裡，需編輯 shortlinks.json 才能改" style="color:#aaa;font-size:.75rem;font-weight:400;margin-left:.3rem">(靜態)</span>' : ''}
         </td>
         <td class="url-cell" title="${esc(l.url)}">${esc(l.url)}</td>
         <td class="note-cell">${esc(l.note) || '—'}</td>
         <td>
           <div class="actions">
             <button class="btn btn-sm btn-ghost copy-btn" data-url="${BASE}/go/${esc(l.id)}">複製</button>
-            <button class="btn btn-sm btn-del del-btn" data-id="${esc(l.id)}">刪除</button>
+            ${l.static ? '' : `<button class="btn btn-sm btn-del del-btn" data-id="${esc(l.id)}">刪除</button>`}
           </div>
         </td>
       </tr>

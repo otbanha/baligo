@@ -5,6 +5,8 @@
 //
 // Auth: X-Admin-Token header must match env.ADMIN_TOKEN (if set)
 
+import staticShortlinks from '../../src/data/shortlinks.json';
+
 const PREFIX = 'sl:';
 const ID_RE = /^[a-zA-Z0-9_-]{1,60}$/;
 
@@ -23,12 +25,23 @@ export async function onRequestOptions() {
   return new Response(null, { headers: cors });
 }
 
-// ── GET: list all dynamic shortlinks ─────────────────────────────────────────
+// ── GET: list all shortlinks (KV dynamic + static fallback) ──────────────────
 export async function onRequestGet({ env }) {
-  if (!env.RATE_LIMIT) return Response.json([], { headers: cors });
+  const staticLinks = staticShortlinks.map(l => ({
+    id: l.id,
+    url: l.url || '',
+    note: l.note || '',
+    title: l.title || '',
+    description: l.description || '',
+    image: l.image || '',
+    createdAt: l.createdAt || '',
+    static: true,
+  }));
+
+  if (!env.RATE_LIMIT) return Response.json(staticLinks, { headers: cors });
 
   const list = await env.RATE_LIMIT.list({ prefix: PREFIX, limit: 1000 });
-  const links = list.keys.map(({ name, metadata }) => ({
+  const kvLinks = list.keys.map(({ name, metadata }) => ({
     id: name.slice(PREFIX.length),
     url: metadata?.url || '',
     note: metadata?.note || '',
@@ -37,6 +50,10 @@ export async function onRequestGet({ env }) {
     image: metadata?.image || '',
     createdAt: metadata?.createdAt || '',
   })).sort((a, b) => b.createdAt.localeCompare(a.createdAt));
+
+  // KV entries take priority over a static entry with the same id
+  const kvIds = new Set(kvLinks.map(l => l.id));
+  const links = [...kvLinks, ...staticLinks.filter(l => !kvIds.has(l.id))];
 
   return Response.json(links, { headers: cors });
 }
@@ -69,9 +86,9 @@ export async function onRequestPost({ request, env }) {
     return Response.json({ error: '目標網址格式不正確' }, { status: 400, headers: cors });
   }
 
-  // Check duplicate
+  // Check duplicate (KV or static)
   const existing = await env.RATE_LIMIT.get(`${PREFIX}${id}`);
-  if (existing) {
+  if (existing || staticShortlinks.some(l => l.id === id)) {
     return Response.json({ error: `ID "${id}" 已存在` }, { status: 409, headers: cors });
   }
 
@@ -93,6 +110,14 @@ export async function onRequestDelete({ request, env }) {
 
   const id = new URL(request.url).searchParams.get('id') || '';
   if (!id) return Response.json({ error: '缺少 id' }, { status: 400, headers: cors });
+
+  const existing = await env.RATE_LIMIT.get(`${PREFIX}${id}`);
+  if (!existing && staticShortlinks.some(l => l.id === id)) {
+    return Response.json(
+      { error: '此短網址寫在程式碼裡（src/data/shortlinks.json），無法在這裡刪除，請直接編輯該檔案並部署' },
+      { status: 403, headers: cors }
+    );
+  }
 
   await env.RATE_LIMIT.delete(`${PREFIX}${id}`);
   return Response.json({ ok: true }, { headers: cors });
