@@ -1438,7 +1438,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         try {
           // /api/recent-unfurls 帶 12h Cache-Control，但 /share/ 使用者剛新增的項目
           // 必須立即看到，故繞過瀏覽器快取
-          const res = await fetch('/api/recent-unfurls?limit=50', { cache: 'no-store' });
+          const res = await fetch('/api/recent-unfurls?limit=35', { cache: 'no-store' });
           const data = await res.json();
           let items = data.items || [];
           // KV 為最終一致性，剛加入的項目可能還讀不到；若樂觀項目尚未出現在結果中，補回最前面
