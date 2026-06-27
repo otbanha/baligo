@@ -71,7 +71,7 @@ async function writeRecent(env, result, hash) {
   if (!env.UNFURL_RECENT) return;
   try {
     const now = new Date();
-    const ttlSeconds = 7 * 86400;
+    const ttlSeconds = 30 * 86400;
     const expiresAt = Math.floor(now.getTime() / 1000) + ttlSeconds;
     const ts = now.toISOString().replace(/[-T:Z.]/g, '').slice(0, 14);
     const shortHash = hash.slice(0, 8);
