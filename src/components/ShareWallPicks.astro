@@ -72,10 +72,12 @@ const t = i18n[lang] ?? i18n['zh-tw'];
     return '4:5'; // facebook / threads
   }
 
-  /** fallback：無法顯示媒體時的品牌色漸層 + icon 佔位 */
+  /** fallback：無法顯示媒體時的品牌色漸層佔位；若有作者大頭貼（如純影片 Threads 貼文）優先顯示大頭貼 */
   function embedPlaceholderHtml(item) {
-    const icon = PLAT_ICON[item.platform] ?? '◉';
-    return `<div class='swp-thumb-ph swp-thumb-ph-${item.platform}'><span class='swp-thumb-icon'>${icon}</span></div>`;
+    const inner = item.authorAvatar
+      ? `<img class="swp-thumb-avatar" src="${sanitize(item.authorAvatar)}" alt="" loading="lazy" onerror="this.remove()">`
+      : `<span class='swp-thumb-icon'>${PLAT_ICON[item.platform] ?? '◉'}</span>`;
+    return `<div class='swp-thumb-ph swp-thumb-ph-${item.platform}'>${inner}</div>`;
   }
 
   /** Meta 系（FB/IG/Threads）卡片的媒體區塊：直接嵌入貼文 iframe，跟 /share 一致 */
@@ -326,6 +328,13 @@ const t = i18n[lang] ?? i18n['zh-tw'];
   color: #bbb;
 }
 .swp-thumb-icon { filter: drop-shadow(0 2px 4px rgba(0,0,0,.25)); }
+.swp-thumb-avatar {
+  width: 56px; height: 56px;
+  border-radius: 50%;
+  object-fit: cover;
+  border: 2px solid rgba(255,255,255,.3);
+  box-shadow: 0 2px 8px rgba(0,0,0,.3);
+}
 /* 無縮圖的平台（FB/IG 無法抓取真實縮圖）→ 用品牌色漸層佔位，取代灰色空白 */
 .swp-thumb-ph {
   width: 100%;

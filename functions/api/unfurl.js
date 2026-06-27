@@ -85,6 +85,7 @@ async function writeRecent(env, result, hash) {
       thumbnail: result.data.media?.[0]?.url ?? null,
       authorName: result.data.author?.name ?? null,
       embedHandle: result.data.author?.handle ?? null,
+      authorAvatar: result.data.author?.avatar ?? null,
       sourceUrl: result.data.sourceUrl,
       fetchedAt: now.toISOString(),
       hash,

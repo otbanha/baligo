@@ -554,6 +554,13 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       .embed-ph-instagram { background: linear-gradient(160deg,#833ab4 0%,#fd1d1d 55%,#fcb045 100%); }
       .embed-ph-facebook  { background: linear-gradient(160deg,#1877f2 0%,#42a5f5 100%); }
       .embed-ph-icon  { font-size: 2.4rem; filter: drop-shadow(0 2px 6px rgba(0,0,0,.35)); }
+      .embed-ph-avatar {
+        width: 64px; height: 64px;
+        border-radius: 50%;
+        object-fit: cover;
+        border: 2px solid rgba(255,255,255,.3);
+        box-shadow: 0 2px 8px rgba(0,0,0,.35);
+      }
       .embed-ph-label { font-size: 0.75rem; color: rgba(255,255,255,.85); font-weight: 600; letter-spacing: 0.03em; }
 
       /* 「前往原文」小連結（embed 卡片用 div 不是 a，需另外放） */
@@ -1031,6 +1038,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
           sourceUrl,
           embedHandle: handle,
           authorName: data.data?.author?.name,
+          authorAvatar: data.data?.author?.avatar ?? null,
           thumbnail: data.data?.media?.[0]?.url ?? null,
         };
         const mediaHtml = buildEmbedMediaHtml(itemLike, { topViewed: false });
@@ -1202,6 +1210,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
                   thumbnail: data.data?.media?.[0]?.url ?? null,
                   authorName: data.data?.author?.name ?? null,
                   embedHandle: data.data?.author?.handle ?? null,
+                  authorAvatar: data.data?.author?.avatar ?? null,
                   sourceUrl: data.data?.sourceUrl || rawUrl,
                   embed: data.embed,
                   views: 0,
@@ -1261,11 +1270,14 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
         return '4:5'; // facebook / threads
       }
 
-      /** fallback：無法顯示媒體時的漸層 + icon 佔位 */
+      /** fallback：無法顯示媒體時的漸層佔位；若有作者大頭貼（如純影片 Threads 貼文）優先顯示大頭貼 */
       function embedPlaceholderHtml(item) {
+        const avatarHtml = item.authorAvatar
+          ? `<img class="embed-ph-avatar" src="${esc(item.authorAvatar)}" alt="" loading="lazy" onerror="this.remove()">`
+          : `<span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>`;
         return `
           <div class="embed-ph embed-ph-${item.platform}">
-            <span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>
+            ${avatarHtml}
             ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
           </div>`;
       }
@@ -1284,7 +1296,7 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
                 <img src="${esc(item.thumbnail)}" alt="" loading="lazy"
                   style="width:100%;height:100%;object-fit:cover;object-position:center top;display:block"
                   onload="this.previousElementSibling?.remove()"
-                  onerror="this.parentElement.innerHTML='<div class=\\'embed-ph embed-ph-threads\\'><span class=\\'embed-ph-icon\\'>◉</span>${item.embedHandle ? `<span class=\\'embed-ph-label\\'>${esc(item.embedHandle)}</span>` : ''}</div>'">
+                  onerror="this.parentElement.innerHTML='${embedPlaceholderHtml(item).replace(/'/g, "\\'")}'">
                 ${fadeHtml}
               </div>`;
           }

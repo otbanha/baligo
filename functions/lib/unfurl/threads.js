@@ -53,6 +53,7 @@ export async function handleThreads(url) {
 
   // ── 抓貼文頁面 og:image / og:title（失敗不影響主流程）──
   let thumbnail = null;
+  let authorAvatar = null;
   let authorName = null;
 
   try {
@@ -72,7 +73,10 @@ export async function handleThreads(url) {
       const html = await res.text();
       thumbnail = extractMetaContent(html, 'og:image');
       if (thumbnail && isProfilePicThumbnail(thumbnail)) {
-        thumbnail = null; // 純影片貼文，og:image 只是大頭貼 → 改走漸層佔位
+        // 純影片貼文，og:image 只是大頭貼，不當作貼文縮圖使用，
+        // 但留著給前端在沒有真實縮圖時當 fallback 顯示
+        authorAvatar = thumbnail;
+        thumbnail = null;
       }
       const ogTitle = extractMetaContent(html, 'og:title');
       if (ogTitle) {
@@ -100,7 +104,7 @@ export async function handleThreads(url) {
         name: authorName,
         handle: handle ? `@${handle}` : null,
         url: null,
-        avatar: null,
+        avatar: authorAvatar,
       },
       media: thumbnail ? [{ type: 'image', url: thumbnail }] : [],
       publishedAt: null,
