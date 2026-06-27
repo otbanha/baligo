@@ -23,7 +23,7 @@ export async function onRequest(context) {
   return new Response(null, {
     status: 302,
     headers: {
-      Location: '/tools/unfurl',
+      Location: '/share/',
       'Set-Cookie': `${COOKIE_NAME}=${cookieValue}; HttpOnly; Secure; SameSite=Strict; Path=/; Max-Age=${maxAge}`,
       'Cache-Control': 'no-store',
     },
