@@ -1440,9 +1440,10 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       // ── Recent feed ──
       async function loadRecent(pendingItem) {
         try {
-          // /api/recent-unfurls 帶 12h Cache-Control，但 /share/ 使用者剛新增的項目
-          // 必須立即看到，故繞過瀏覽器快取
-          const res = await fetch('/api/recent-unfurls?limit=35', { cache: 'no-store' });
+          // 一般載入沿用 /api/recent-unfurls 的 12h Cache-Control（瀏覽器快取，
+          // 大幅減少 KV list/get 次數）；只有「剛送出新分享後」這次重新讀取才需要
+          // 看到最新資料，改用 no-store 繞過快取，避免每次造訪都重打一輪 KV。
+          const res = await fetch('/api/recent-unfurls?limit=35', pendingItem ? { cache: 'no-store' } : {});
           const data = await res.json();
           let items = data.items || [];
           // KV 為最終一致性，剛加入的項目可能還讀不到；若樂觀項目尚未出現在結果中，補回最前面
