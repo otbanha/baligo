@@ -77,7 +77,12 @@ export async function handleThreads(url) {
     const res = await fetch(url, {
       signal: controller.signal,
       headers: {
-        'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)',
+        // Threads 對一般瀏覽器 UA 只回傳空的 SPA shell（無 OG meta），
+        // 必須用爬蟲類 UA 才能拿到伺服器端渲染的 og:image/title。原用 Googlebot UA，
+        // 但近期對 Cloudflare 網段配 Googlebot UA 的請求會回 429（已實測確認，
+        // 推測是 Meta 對「自稱 Googlebot 卻非 Google 网段」的流量加強限制）。
+        // 改用 Meta 自家的 facebookexternalhit（OG 連結預覽爬蟲標準 UA），實測穩定可用。
+        'User-Agent': 'facebookexternalhit/1.1 (+http://www.facebook.com/externalhit_uatext.php)',
         Accept: 'text/html',
       },
     });
@@ -100,18 +105,13 @@ export async function handleThreads(url) {
       caption = extractTitleTag(html);
       if (!thumbnail && !authorAvatar) {
         console.log(`[threads] no og:image found url=${url} status=${res.status} htmlLen=${html.length}`);
-        // TEMP DEBUG：wrangler tail 抓不到 console.log，暫時把診斷資訊塞進 caption
-        // 讓使用者能直接在卡片上看到，排查完後會移除。
-        if (!caption) caption = `[debug] status=${res.status} htmlLen=${html.length} hasTitleTag=${/<title/i.test(html)}`;
       }
     } else {
       console.log(`[threads] fetch not ok url=${url} status=${res.status}`);
-      caption = `[debug] fetch not ok, status=${res.status}`;
     }
   } catch (e) {
     // 抓取失敗（逾時/網路錯誤）→ 繼續，thumbnail 維持 null（卡片顯示漸層佔位）
     console.log(`[threads] fetch failed url=${url} err=${e?.message}`);
-    caption = `[debug] fetch exception: ${e?.message || e}`;
   }
 
   return {
