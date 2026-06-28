@@ -105,16 +105,13 @@ export async function handleThreads(url) {
       caption = extractTitleTag(html);
       if (!thumbnail && !authorAvatar) {
         console.log(`[threads] no og:image found url=${url} status=${res.status} htmlLen=${html.length}`);
-        if (!caption) caption = `[debug2] status=${res.status} htmlLen=${html.length}`;
       }
     } else {
       console.log(`[threads] fetch not ok url=${url} status=${res.status}`);
-      caption = `[debug2] fetch not ok, status=${res.status}`;
     }
   } catch (e) {
     // 抓取失敗（逾時/網路錯誤）→ 繼續，thumbnail 維持 null（卡片顯示漸層佔位）
     console.log(`[threads] fetch failed url=${url} err=${e?.message}`);
-    caption = `[debug2] fetch exception: ${e?.message || e}`;
   }
 
   return {
