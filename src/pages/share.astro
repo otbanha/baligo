@@ -1282,14 +1282,18 @@ const description = '貼上 YouTube、Threads、Instagram 或 Facebook 連結，
       }
 
       /** fallback：無法顯示媒體時的漸層佔位；若有作者大頭貼（如純影片 Threads 貼文）優先顯示大頭貼 */
+      // 注意：這段 HTML 會被塞進另一個元素的 onerror="...innerHTML='...'" 屬性字串裡
+      // （見下方 buildEmbedMediaHtml 的 onerror fallback），外層用雙引號、JS 字串用單引號，
+      // 所以這裡的屬性一律要用單引號，否則雙引號會把外層 onerror="..." 屬性截斷，
+      // 導致畫面跑出 '"> 之類的殘留字串。
       function embedPlaceholderHtml(item) {
         const avatarHtml = item.authorAvatar
-          ? `<img class="embed-ph-avatar" src="${esc(item.authorAvatar)}" alt="" loading="lazy" onerror="this.remove()">`
-          : `<span class="embed-ph-icon">${PLAT_ICON[item.platform] ?? '◉'}</span>`;
+          ? `<img class='embed-ph-avatar' src='${esc(item.authorAvatar)}' alt='' loading='lazy' onerror='this.remove()'>`
+          : `<span class='embed-ph-icon'>${PLAT_ICON[item.platform] ?? '◉'}</span>`;
         return `
-          <div class="embed-ph embed-ph-${item.platform}">
+          <div class='embed-ph embed-ph-${item.platform}'>
             ${avatarHtml}
-            ${item.embedHandle ? `<span class="embed-ph-label">${esc(item.embedHandle)}</span>` : ''}
+            ${item.embedHandle ? `<span class='embed-ph-label'>${esc(item.embedHandle)}</span>` : ''}
           </div>`;
       }
 
