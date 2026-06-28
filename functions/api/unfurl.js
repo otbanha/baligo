@@ -226,8 +226,18 @@ export async function onRequest(context) {
   // Success response
   const response = { ...result, cached: false, fetchedAt: new Date().toISOString() };
 
+  // Threads 抓取偶發失敗（逾時/暫時被擋）時 thumbnail/title/avatar/authorName 會全部是
+  // null，但 handleThreads 仍回傳 ok:true。這種「空殼」結果若用 24h 成功快取存住，
+  // 使用者重新貼同一個網址只會一直拿到同一份空資料，1 小時內完全無法重試成功。
+  // 改用短 TTL 快取，讓使用者很快就能透過重新提交觸發真正的重新抓取。
+  const isEmptyThreadsResult = platform === 'threads'
+    && !result.data?.media?.length
+    && !result.data?.author?.avatar
+    && !result.data?.title
+    && !result.data?.author?.name;
+
   if (env.UNFURL_CACHE) {
-    context.waitUntil(cachePut(env.UNFURL_CACHE, hash, response, true));
+    context.waitUntil(cachePut(env.UNFURL_CACHE, hash, response, !isEmptyThreadsResult));
   }
   if (env.UNFURL_RECENT) {
     context.waitUntil(writeRecent(env, result, hash));
