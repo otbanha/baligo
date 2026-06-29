@@ -55,16 +55,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "nusa-penida-worth-it.md",
+                "file": "5d4n-itinerary.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "nusa-penida-worth-it"
+              "title": "5d4n-itinerary"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -226,10 +226,14 @@
       "bases:建立新的 base": false
     }
   },
-  "active": "ca7715dda2c66a0b",
+  "active": "da5eeeb32fe2b7d1",
   "lastOpenFiles": [
-    "july-weather.md",
     "first-time-area.md",
+    "5d4n-itinerary.md",
+    "total-budget.md",
+    "未命名.md",
+    "nusa-penida-worth-it.md",
+    "july-weather.md",
     "find-drivers.md",
     "family-travel.md",
     "evoa-required.md",
@@ -239,11 +243,8 @@
     "best-time-to-go.md",
     "bali-culiners.md",
     "street-food-safe.md",
-    "total-budget.md",
     "airport-to-ubud.md",
     "seminyak-vs-canggu-couple.md",
-    "5d4n-itinerary.md",
-    "ubud-how-many-nights.md",
-    "nusa-penida-worth-it.md"
+    "ubud-how-many-nights.md"
   ]
 }
