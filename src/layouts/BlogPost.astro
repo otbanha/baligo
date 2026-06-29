@@ -597,10 +597,14 @@ window.addEventListener('load', () => {
       const div = document.createElement('div');
       div.innerHTML = embedHtml;
       el.parentNode.replaceChild(div.firstChild, el);
-      if (embed.platform === 'threads') {
+      const embedScriptSrc = {
+        threads: 'https://www.threads.net/embed.js',
+        tiktok: 'https://www.tiktok.com/embed.js',
+      }[embed.platform];
+      if (embedScriptSrc) {
         const script = document.createElement('script');
         script.async = true;
-        script.src = 'https://www.threads.net/embed.js';
+        script.src = embedScriptSrc;
         document.body.appendChild(script);
       }
     }
