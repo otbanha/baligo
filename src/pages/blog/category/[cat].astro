@@ -338,7 +338,8 @@ const faqSchema = config.faqs && config.faqs.length > 0 ? {
   <link rel="alternate" hreflang="zh-TW" href={canonicalUrl} />
   <link rel="alternate" hreflang="zh-HK" href={`https://gobaligo.id/zh-hk/blog/?cat=${encodeURIComponent(cat)}`} />
   <link rel="alternate" hreflang="zh-CN" href={`https://gobaligo.id/zh-cn/blog/?cat=${encodeURIComponent(cat)}`} />
-  <link rel="alternate" hreflang="en" href="https://gobaligo.id/en/blog/?cat=beginner-guide" />
+  <link rel="alternate" hreflang="en" href={`https://gobaligo.id/en/blog/?cat=${encodeURIComponent(cat)}`} />
+  <link rel="alternate" hreflang="id" href={`https://gobaligo.id/id/blog/?cat=${encodeURIComponent(cat)}`} />
   <meta property="og:title" content={config.title} />
   <meta property="og:description" content={config.ogDescription} />
   <meta property="og:url" content={canonicalUrl} />
