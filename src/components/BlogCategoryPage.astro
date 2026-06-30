@@ -1,0 +1,319 @@
+---
+// 多語言部落格「分類頁」共用版型（en / zh-cn / zh-hk / id）
+// 繁中（zh-tw）維護在 src/pages/blog/category/[cat].astro，本元件提供其餘語言。
+import BaseHead from './BaseHead.astro';
+import Header from './Header.astro';
+import TopStrip from './TopStrip.astro';
+import Footer from './Footer.astro';
+import ChatBot from './ChatBot.astro';
+import { getCollection } from 'astro:content';
+import {
+  type Lang, LANG_META, HREFLANG_LANGS, lp, categoryUrl, catLabel, UI, getCategoryConfig,
+} from '../lib/categoryConfig';
+
+interface Props { lang: Lang; cat: string; }
+const { lang, cat } = Astro.props;
+const meta = LANG_META[lang];
+const ui = UI[lang];
+const label = catLabel(lang, cat);
+
+function extractFirstImage(body: string): string {
+  const m = body?.match(/!\[.*?\]\((https?:\/\/[^)\s]+)\)/);
+  return m ? m[1] : '';
+}
+function getPublishTime(p: any): Date {
+  const d = new Date(p.data.pubDate);
+  if (p.data.pubHour != null) d.setTime(d.getTime() + (p.data.pubHour - 8) * 3600 * 1000);
+  return d;
+}
+const now = new Date();
+const isPublished = (p: any) => p.data.pubDate && !p.data.private && getPublishTime(p) <= now;
+const getCategories = (c: any): string[] =>
+  !c ? [] : Array.isArray(c) ? c : typeof c === 'string' ? [c] : [];
+
+// 翻譯內容（只讀，不觸發任何翻譯流程）
+const translated = lang === 'zh-tw' ? [] : await getCollection(lang as any);
+const langMap = new Map(translated.map((p: any) => [p.id, p]));
+
+const allPosts = (await getCollection('blog'))
+  .filter(isPublished)
+  .filter(p => getCategories(p.data.category).includes(cat))
+  .map(p => {
+    const t: any = langMap.get(p.id);
+    return {
+      ...p,
+      data: {
+        ...p.data,
+        title: t?.data?.title ?? p.data.title,
+        description: t?.data?.description ?? p.data.description,
+        heroImage: p.data.heroImage || extractFirstImage(p.body),
+      },
+    };
+  })
+  .sort((a, b) => getPublishTime(b).valueOf() - getPublishTime(a).valueOf());
+
+const postMap = new Map(allPosts.map(p => [p.data.slug || p.id, p]));
+const allSlugs = allPosts.map(p => p.data.slug || p.id);
+
+const config = getCategoryConfig(lang, cat, allPosts.length, allSlugs);
+
+// 富設定：把未被任一分組收錄的文章補進「更多文章」，確保每篇都保有內部連結
+const groupedSlugs = new Set(config.groups.flatMap(g => g.slugs));
+const leftoverPosts = allPosts.filter(p => !groupedSlugs.has(p.data.slug || p.id));
+const displayGroups = (config.isRich && leftoverPosts.length > 0)
+  ? [...config.groups, { emoji: '📚', name: ui.more(label), slugs: leftoverPosts.map(p => p.data.slug || p.id) }]
+  : config.groups;
+
+const blogBase = lp(lang, 'blog');
+const homeUrl = lp(lang, 'blog/');
+const canonicalUrl = categoryUrl(lang, cat);
+
+// ItemList schema（精選 10 篇）
+const top10Slugs = (config.featuredSlugs ?? config.groups.flatMap(g => g.slugs)).slice(0, 10);
+const itemListSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'ItemList',
+  name: ui.itemListName(label),
+  url: canonicalUrl,
+  numberOfItems: Math.min(allPosts.length, 10),
+  itemListElement: top10Slugs.map((slug, i) => {
+    const p = postMap.get(slug) || allPosts.find(p => p.id === slug);
+    return {
+      '@type': 'ListItem',
+      position: i + 1,
+      name: p?.data.title ?? slug,
+      url: `https://gobaligo.id${blogBase}/${p?.data.slug || p?.id || slug}/`,
+    };
+  }).filter(item => item.name !== item.url.split('/').at(-2)),
+};
+
+const collectionPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${canonicalUrl}#collection`,
+  name: ui.collectionName(label),
+  description: config.description,
+  url: canonicalUrl,
+  inLanguage: meta.htmlLang,
+  numberOfItems: allPosts.length,
+  about: {
+    '@type': 'Place',
+    name: 'Bali',
+    address: { '@type': 'PostalAddress', addressCountry: 'ID', addressRegion: 'Bali' },
+  },
+  publisher: { '@type': 'Organization', '@id': 'https://gobaligo.id/#organization' },
+  breadcrumb: {
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: ui.home, item: `https://gobaligo.id${homeUrl}` },
+      { '@type': 'ListItem', position: 2, name: label, item: canonicalUrl },
+    ],
+  },
+};
+
+const faqSchema = config.faqs && config.faqs.length > 0 ? {
+  '@context': 'https://schema.org',
+  '@type': 'FAQPage',
+  '@id': `${canonicalUrl}#faq`,
+  mainEntity: config.faqs.map(f => ({
+    '@type': 'Question',
+    name: f.q,
+    acceptedAnswer: { '@type': 'Answer', text: f.a },
+  })),
+} : null;
+
+// hreflang cluster：指向所有語言的真實分類頁
+const hreflangs = [
+  { hreflang: 'x-default', href: categoryUrl('zh-tw', cat) },
+  ...HREFLANG_LANGS.map(l => ({ hreflang: LANG_META[l].hreflang, href: categoryUrl(l, cat) })),
+];
+---
+
+<!doctype html>
+<html lang={meta.htmlLang}>
+<head>
+  <BaseHead title={config.title} description={config.description} noSuffix={true} />
+  {hreflangs.map(({ hreflang, href }) => (
+    <link rel="alternate" hreflang={hreflang} href={href} />
+  ))}
+  <meta property="og:type" content="website" />
+  <meta property="og:locale" content={meta.ogLocale} />
+  <script type="application/ld+json" set:html={JSON.stringify(collectionPageSchema)} />
+  <script type="application/ld+json" set:html={JSON.stringify(itemListSchema)} />
+  {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
+</head>
+<body>
+  <Header lang={lang} basePath={`blog/category/${encodeURIComponent(cat)}`} />
+  <TopStrip lang={lang} />
+
+  <div class="cat-page-layout">
+    <main class="cat-page-main">
+
+      <nav class="breadcrumb" aria-label="breadcrumb">
+        <a href={homeUrl}>{ui.home}</a>
+        <span class="bc-sep">›</span>
+        <span>{label}</span>
+      </nav>
+
+      <h1 class="cat-page-h1">{ui.h1(label, allPosts.length)}</h1>
+
+      <div class="pillar-recommendation-card">
+        <div class="pillar-card-inner">
+          <div class="pillar-card-icon">🎯</div>
+          <div class="pillar-card-right">
+            <p class="pillar-card-eyebrow">{config.pillarEyebrow}</p>
+            <h2 class="pillar-card-title">{config.pillarTitle}</h2>
+            <p class="pillar-card-desc" set:html={config.pillarDesc} />
+            <a href={`${blogBase}/${config.pillarSlug}/`} class="pillar-card-cta">{config.pillarText}</a>
+          </div>
+        </div>
+      </div>
+
+      <div class="cat-intro">
+        <p set:html={config.introHtml} />
+      </div>
+
+      {displayGroups.map(group => {
+        const groupPosts = group.slugs
+          .map(s => postMap.get(s) || allPosts.find(p => p.id === s))
+          .filter(Boolean);
+        if (groupPosts.length === 0) return null;
+        return (
+          <section class="cat-group">
+            <h2 class="cat-group-title">{group.emoji} {group.name}</h2>
+            <ul class="cat-group-list">
+              {groupPosts.map(p => (
+                <li>
+                  <a href={`${blogBase}/${p.data.slug || p.id}/`} class="cat-article-link">
+                    {p.data.heroImage && (
+                      <img class="cat-article-thumb" src={p.data.heroImage} alt={p.data.title} loading="lazy" />
+                    )}
+                    <div class="cat-article-text">
+                      <span class="cat-article-title">{p.data.title}</span>
+                      {p.data.description && (
+                        <span class="cat-article-desc">{p.data.description}</span>
+                      )}
+                    </div>
+                  </a>
+                </li>
+              ))}
+            </ul>
+          </section>
+        );
+      })}
+
+      {config.faqs && config.faqs.length > 0 && (
+        <section class="cat-faq">
+          <h2 class="cat-group-title">{ui.faqHeading(label)}</h2>
+          <div class="cat-faq-list">
+            {config.faqs.map(f => (
+              <details class="cat-faq-item">
+                <summary class="cat-faq-q">{f.q}</summary>
+                <p class="cat-faq-a">{f.a}</p>
+              </details>
+            ))}
+          </div>
+        </section>
+      )}
+
+      <section class="cat-related-resources">
+        <h2 class="cat-group-title">{config.relatedTitle}</h2>
+        <ul class="cat-group-list cat-resources-list">
+          {config.relatedItems.map(item => (
+            <li><a href={lp(lang, item.path)} class="cat-article-link cat-resource-item"><strong>{item.label}</strong> — {item.desc}</a></li>
+          ))}
+        </ul>
+      </section>
+
+      <div class="cat-back-link">
+        <a href={lp(lang, `blog/?cat=${encodeURIComponent(cat)}`)}>{ui.back(label)}</a>
+      </div>
+
+    </main>
+  </div>
+
+  <ChatBot />
+  <Footer />
+</body>
+</html>
+
+<style>
+  .cat-page-layout { max-width: 860px; margin: 0 auto; padding: 1.5em 1.2em 3em; }
+  .cat-page-main { width: 100%; }
+
+  .breadcrumb { font-size: 0.85em; color: #888; margin-bottom: 1em; }
+  .breadcrumb a { color: var(--ocean, #0a3d6b); text-decoration: none; }
+  .breadcrumb a:hover { text-decoration: underline; }
+  .bc-sep { margin: 0 0.4em; }
+
+  .cat-page-h1 {
+    font-size: 1.9em; font-weight: 900; color: var(--ocean, #0a3d6b);
+    margin: 0 0 1.2em; line-height: 1.25;
+    border-left: 5px solid var(--gold, #c5a059); padding-left: 0.5em;
+  }
+
+  .pillar-recommendation-card {
+    margin: 0 0 2em; border-radius: 14px;
+    background: linear-gradient(135deg, #e8f4f0 0%, #dceef8 100%);
+    border: 1.5px solid rgba(32, 120, 100, 0.18);
+    box-shadow: 0 2px 16px rgba(10, 22, 40, 0.07);
+    overflow: hidden; transition: box-shadow 0.2s, transform 0.2s;
+  }
+  .pillar-recommendation-card:hover { box-shadow: 0 6px 24px rgba(10,22,40,0.13); transform: translateY(-2px); }
+  .pillar-card-inner { display: flex; align-items: center; gap: 1.2em; padding: 1.4em 1.6em; }
+  .pillar-card-icon { font-size: 2.4em; line-height: 1; flex-shrink: 0; }
+  .pillar-card-right { flex: 1; }
+  .pillar-card-eyebrow { font-size: 0.75em; font-weight: 700; letter-spacing: 0.08em; color: #2a7a60; text-transform: uppercase; margin: 0 0 0.3em; }
+  .pillar-card-title { font-size: 1.05em; font-weight: 800; color: #0a1628; margin: 0 0 0.45em; line-height: 1.35; }
+  .pillar-card-desc { font-size: 0.87em; color: #3a4a5a; margin: 0 0 0.9em; line-height: 1.55; }
+  .pillar-card-cta { display: inline-block; background: #1a6b4a; color: #fff; font-size: 0.88em; font-weight: 700; padding: 0.5em 1.1em; border-radius: 8px; text-decoration: none; transition: background 0.2s; }
+  .pillar-card-cta:hover { background: #155c3e; text-decoration: none; }
+
+  .cat-intro { margin-bottom: 2em; font-size: 0.97em; line-height: 1.78; color: #3a4a5a; }
+
+  .cat-group { margin-bottom: 2.4em; }
+  .cat-group-title {
+    font-size: 1.05em; font-weight: 700; color: var(--ocean, #0a3d6b);
+    margin: 0 0 0.75em; padding-bottom: 0.4em; border-bottom: 2px solid rgba(197, 160, 89, 0.3);
+  }
+  .cat-group-list { list-style: none; margin: 0; padding: 0; }
+
+  .cat-article-link {
+    display: flex; align-items: center; gap: 0.8em; padding: 0.65em 0.5em;
+    border-bottom: 1px solid rgba(197, 160, 89, 0.12); text-decoration: none;
+    transition: background 0.15s; border-radius: 4px;
+  }
+  .cat-article-link:hover { background: rgba(197, 160, 89, 0.07); }
+  .cat-article-thumb { width: 60px; height: 45px; object-fit: cover; border-radius: 6px; flex-shrink: 0; }
+  .cat-article-text { display: flex; flex-direction: column; gap: 0.2em; }
+  .cat-article-title { font-size: 0.92em; font-weight: 600; color: var(--ocean, #0a3d6b); line-height: 1.4; }
+  .cat-article-desc { font-size: 0.8em; color: #666; line-height: 1.4; display: -webkit-box; -webkit-line-clamp: 1; -webkit-box-orient: vertical; overflow: hidden; }
+
+  .cat-related-resources {
+    margin-top: 2em; padding: 1.4em 1.6em; background: #f8f4ec;
+    border-radius: 12px; border: 1px solid rgba(197, 160, 89, 0.25);
+  }
+  .cat-resources-list .cat-article-link { border-bottom: 1px solid rgba(197, 160, 89, 0.1); font-size: 0.9em; color: var(--ocean, #0a3d6b); }
+  .cat-resource-item { padding: 0.55em 0.3em; }
+
+  /* FAQ */
+  .cat-faq { margin: 2.4em 0; }
+  .cat-faq-list { display: flex; flex-direction: column; gap: 0.6em; }
+  .cat-faq-item { border: 1px solid rgba(197, 160, 89, 0.25); border-radius: 10px; background: #fff; padding: 0 1em; transition: box-shadow 0.2s; }
+  .cat-faq-item[open] { box-shadow: 0 2px 12px rgba(10, 22, 40, 0.06); }
+  .cat-faq-q { cursor: pointer; font-size: 0.95em; font-weight: 700; color: var(--ocean, #0a3d6b); padding: 0.9em 0; list-style: none; position: relative; padding-right: 1.6em; }
+  .cat-faq-q::-webkit-details-marker { display: none; }
+  .cat-faq-q::after { content: '+'; position: absolute; right: 0.1em; top: 50%; transform: translateY(-50%); font-size: 1.2em; font-weight: 400; color: var(--gold, #c5a059); }
+  .cat-faq-item[open] .cat-faq-q::after { content: '−'; }
+  .cat-faq-a { margin: 0; padding: 0 0 1em; font-size: 0.9em; line-height: 1.75; color: #3a4a5a; }
+
+  .cat-back-link { margin-top: 2.5em; text-align: center; }
+  .cat-back-link a { font-size: 0.9em; color: var(--ocean, #0a3d6b); text-decoration: none; border-bottom: 1px dashed rgba(10, 61, 107, 0.3); padding-bottom: 2px; }
+  .cat-back-link a:hover { border-bottom-style: solid; }
+
+  @media (max-width: 600px) {
+    .cat-page-h1 { font-size: 1.4em; }
+    .pillar-card-inner { flex-direction: column; gap: 0.8em; padding: 1.1em 1.2em; }
+    .cat-article-thumb { width: 50px; height: 38px; }
+  }
+</style>

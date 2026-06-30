@@ -1,0 +1,14 @@
+---
+export const prerender = true;
+import BlogCategoryPage from '../../../../components/BlogCategoryPage.astro';
+
+export function getStaticPaths() {
+  return [
+    '新手指南', '住宿推薦', '峇里島分區攻略', '簽證通關',
+    '叫車包車', '家庭親子', '遊記分享', '美食景點活動',
+  ].map(cat => ({ params: { cat } }));
+}
+
+const { cat } = Astro.params;
+---
+<BlogCategoryPage lang="zh-cn" cat={cat!} />

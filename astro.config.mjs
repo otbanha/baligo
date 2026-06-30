@@ -138,6 +138,22 @@ export default defineConfig({
           ];
         }
 
+        // hreflang for /blog/category/{cat}/ pages（5 語言皆有真實分類頁）
+        const categoryMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/blog\/category\/([^/]+)\/?$/);
+        if (categoryMatch) {
+          const catSeg = categoryMatch[2];
+          item.priority = 0.8;
+          item.changefreq = 'weekly';
+          item.links = [
+            { lang: 'x-default', url: `https://gobaligo.id/blog/category/${catSeg}/` },
+            { lang: 'zh-TW',     url: `https://gobaligo.id/blog/category/${catSeg}/` },
+            { lang: 'zh-HK',     url: `https://gobaligo.id/zh-hk/blog/category/${catSeg}/` },
+            { lang: 'zh-CN',     url: `https://gobaligo.id/zh-cn/blog/category/${catSeg}/` },
+            { lang: 'en',        url: `https://gobaligo.id/en/blog/category/${catSeg}/` },
+            { lang: 'id',        url: `https://gobaligo.id/id/blog/category/${catSeg}/` },
+          ];
+        }
+
         return item;
       },
     }),
