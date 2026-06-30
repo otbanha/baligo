@@ -68,6 +68,12 @@ const CAT_CONFIG: Record<string, {
   pillarText: string;
   pillarDesc: string;
   introHtml: string;
+  pillarEyebrow?: string;
+  pillarTitle?: string;
+  featuredSlugs?: string[];                          // ItemList schema 用的精選 10 篇
+  faqs?: { q: string; a: string }[];                 // FAQ 區塊 + FAQPage schema
+  relatedTitle?: string;
+  relatedItems?: { href: string; label: string; desc: string }[];
 }> = {
   '新手指南': {
     title: '峇里島新手指南 2026｜25篇必看行前攻略 - Go Bali Go',
@@ -108,6 +114,125 @@ const CAT_CONFIG: Record<string, {
       },
     ],
   },
+
+  '住宿推薦': {
+    title: '峇里島住宿推薦 2026｜100+ 飯店 Villa 分區精選與訂房攻略 - Go Bali Go',
+    description: '峇里島住哪一區好？水明漾、烏布、長谷、烏魯瓦圖、努沙杜瓦、金巴蘭、沙努爾、庫塔分區精選 100+ 飯店與私人泳池 Villa：親子度假村、蜜月奢華、平價高 CP、訂房省錢技巧一次看，2026 最新評測。',
+    ogDescription: '峇里島住哪一區好？8 大熱門區域 100+ 飯店與 Villa 精選：親子、蜜月、奢華、平價與訂房省錢攻略，2026 最新評測。',
+    pillarSlug: 'bali-accommodation-area-guide',
+    pillarEyebrow: '選區必讀 · 五大區域比較',
+    pillarTitle: '不知道住哪一區？先看這篇分區比較',
+    pillarText: '讀「峇里島五大住宿區域比較」→',
+    pillarDesc: '庫塔、水明漾、長谷、烏布、努沙杜瓦——一篇看懂每區優缺點、適合誰、價位與交通。選對區域，是訂房不踩雷的第一步。',
+    introHtml: '峇里島這麼大，第一次來最常卡關的就是「到底要住哪一區」。<strong>水明漾（Seminyak）</strong>時尚好逛、<strong>長谷（Canggu）</strong>衝浪文青、<strong>烏布（Ubud）</strong>森林療癒、<strong>烏魯瓦圖（Uluwatu）</strong>懸崖海景，<strong>努沙杜瓦／金巴蘭</strong>適合親子與蜜月，<strong>庫塔</strong>則最方便購物與機場過境。這裡依「分區」與「主題」整理了 100+ 篇<strong>峇里島住宿推薦</strong>，從一晚不到 30 美元的高 CP 值飯店，到懸崖無邊際泳池的頂奢<strong>私人泳池 Villa</strong>，幫你快速鎖定最適合的<strong>峇里島飯店</strong>與度假村。',
+    featuredSlugs: [
+      'bali-accommodation-area-guide',
+      'seminyak-beach-resorts-guide',
+      'ubud-resorts-guide',
+      'canggu-top-hotels-guide',
+      'uluwatu-bali-villas-resorts-guide',
+      'nusa-dua-resorts-guide',
+      'bali-honeymoon-resorts-guide',
+      'bali-family-room-resorts',
+      'bali-best-villas-top20-part1',
+      'bali-hotel-booking-tips',
+    ],
+    groups: [
+      {
+        emoji: '🏖️', name: '水明漾 Seminyak 住宿',
+        slugs: ['seminyak-eat-street-hotels-villas', 'seminyak-beach-resorts-guide', 'seminyak-private-villas-guide', 'seminyak-budget-villas-guide', 'seminyak-budget-hotels-guide', 'hotel-indigo-seminyak-review', 'potato-head-suites-seminyak-review', 'ize-seminyak-hotel-review'],
+      },
+      {
+        emoji: '🌴', name: '烏布 Ubud 住宿',
+        slugs: ['ubud-resorts-guide', 'ubud-villa-pool-guide', 'ubud-yoga-retreats-bali', 'ubud-treehouse-bamboo-villa-stays', 'capella-ubud-luxury-resort', 'Sanggraloka-Ubud', 'alaya-suites-ubud', 'hiliwatu-marriott-ubud'],
+      },
+      {
+        emoji: '🏄', name: '長谷／倉古 Canggu 住宿',
+        slugs: ['canggu-top-hotels-guide', 'canggu-villas-guide', 'regent-bali-canggu', 'holiday-inn-bali-canggu', 'maja-canggu-mediterranean-stay', 'belajar-bali-boutique-hotel'],
+      },
+      {
+        emoji: '🌅', name: '烏魯瓦圖 Uluwatu 住宿',
+        slugs: ['uluwatu-bali-villas-resorts-guide', 'alila-villas-uluwatu-bali', 'bvlgari-resort-bali-uluwatu', 'six-senses-uluwatu-review', 'renaissance-bali-uluwatu-resort', 'radisson-blu-bali-uluwatu', 'le-cliff-bali-uluwatu'],
+      },
+      {
+        emoji: '🐟', name: '金巴蘭 Jimbaran 住宿',
+        slugs: ['jimbaran-beachfront-hotels-guide', 'four-seasons-bali-jimbaran-bay', 'raffles-bali-luxury-resort', 'platinum-hotel-jimbaran-beach'],
+      },
+      {
+        emoji: '🏨', name: '努沙杜瓦 Nusa Dua 住宿',
+        slugs: ['nusa-dua-resorts-guide', 'nusa-dua-guide', 'apurva-kempinski-bali-nusa-dua', 'Paradisus-by-Melia-Bali', 'mulia-resort-bali-luxury', 'st-regis-bali-resort'],
+      },
+      {
+        emoji: '🌊', name: '沙努爾 Sanur 住宿',
+        slugs: ['sanur-luxury-budget-resorts', 'the-meru-sanur', 'sanur-family-beach-guide', 'bali-beach-hotel-sunur-review'],
+      },
+      {
+        emoji: '🛍️', name: '庫塔 Kuta 住宿',
+        slugs: ['best-kuta-hotels-list', 'kuta-beach-hotels', 'kuta-bali-accommodation-pros-cons'],
+      },
+      {
+        emoji: '⛵', name: '離島 藍夢島／佩尼達島',
+        slugs: ['nusa-lembongan-ceningan-accommodation-guide', 'nusa-penida-hotels-guide'],
+      },
+      {
+        emoji: '👨‍👩‍👧‍👦', name: '親子家庭度假村',
+        slugs: ['bali-family-room-resorts', 'bali-family-resorts-kids-club', 'bali-family-resorts-water-slides', 'bali-group-villa-stay', 'bali-safari-marine-park-hotel'],
+      },
+      {
+        emoji: '💕', name: '蜜月浪漫住宿',
+        slugs: ['bali-honeymoon-resorts-guide', 'bali-private-jet-villa-guide', 'bali-honeymoon-destination'],
+      },
+      {
+        emoji: '💎', name: '五星奢華度假村',
+        slugs: ['bali-best-resorts-2025', '2026-top-hotels-bali', 'top-bali-hotels-asia-rankings', 'ayana-resort-bali-guide', 'apurva-kempinski-bali-deal'],
+      },
+      {
+        emoji: '💰', name: '平價高 CP 值住宿',
+        slugs: ['bali-best-villas-top20-part1', 'bali-best-villas-top20-part2', 'bali-boutique-hotels-under-30', 'seminyak-budget-villas-guide', 'bali-bamboo-villa-experience'],
+      },
+      {
+        emoji: '🏡', name: '私人泳池 Villa 推薦',
+        slugs: ['bali-private-villa-recommendations', 'ubud-villa-pool-guide', 'seminyak-private-villas-guide', 'canggu-villas-guide'],
+      },
+      {
+        emoji: '📝', name: '訂房教學與避雷',
+        slugs: ['bali-accommodation-area-guide', 'bali-hotel-booking-tips', 'hotel-room-type-guide', 'airbnb-alert-2026', 'bali-airbnb-warning-2026'],
+      },
+    ],
+    faqs: [
+      {
+        q: '第一次去峇里島住哪一區最好？',
+        a: '新手最推薦水明漾（Seminyak）與沙努爾（Sanur）。水明漾餐廳、酒吧、購物最集中，到哪都方便；沙努爾海灘平靜、步調慢、最適合親子與長輩。想要衝浪文青氛圍選長谷（Canggu），想要森林療癒選烏布（Ubud）。詳細比較可看分區攻略。',
+      },
+      {
+        q: '峇里島住飯店還是 Villa 好？',
+        a: '想要泳池、餐廳、Kids Club 等完整設施與服務，選飯店或度假村；想要私密空間、私人泳池、適合家庭或多人同遊，選 Villa 更划算自由。峇里島 Villa 性價比很高，一晚兩三千台幣就能有獨棟私人泳池。',
+      },
+      {
+        q: '峇里島住宿一晚大概多少錢？',
+        a: '平價乾淨的飯店約美金 25～50（約台幣 800～1,600），中價精品飯店與 Villa 約美金 60～120，五星度假村與懸崖海景 Villa 則從美金 200 起跳。淡季（雨季 11～3 月）與提早預訂通常更便宜。',
+      },
+      {
+        q: '帶小孩去峇里島住哪裡比較適合？',
+        a: '建議選有 Kids Club、淺水泳池或滑水道的親子度假村，區域以努沙杜瓦、沙努爾、金巴蘭最安全方便。許多度假村提供四人房或兩大兩小免費入住方案。',
+      },
+      {
+        q: '峇里島訂房怎麼訂最省？',
+        a: '善用 Agoda／Booking 的會員價與限時優惠、避開連假與旺季、提早 1～2 個月預訂，並比較含早餐與否的價差。長住或多人同遊訂整棟 Villa 通常比飯店划算。',
+      },
+      {
+        q: '峇里島的 Airbnb 民宿還能訂嗎？',
+        a: '2026 年印尼政府開始取締未取得合法執照的民宿與 Villa，部分 Airbnb 房源面臨拆遷或停業風險。建議優先選擇有合法營業執照的飯店或正規 Villa，避免抵達後訂房被取消。',
+      },
+    ],
+    relatedTitle: '📚 訂房前必看工具與攻略',
+    relatedItems: [
+      { href: '/blog/bali-accommodation-area-guide/', label: '🗺️ 峇里島五大住宿區域比較', desc: '庫塔、水明漾、長谷、烏布、努沙杜瓦怎麼選' },
+      { href: '/blog/bali-hotel-booking-tips/', label: '💡 峇里島訂房省錢 7 大技巧', desc: '訂房前必看，少花冤枉錢' },
+      { href: '/bali-budget-calculator/', label: '💰 峇里島預算計算機', desc: '估算 5/7/10 天住宿與旅費' },
+      { href: '/trip-planner/', label: '🧭 峇里島行程規劃工具', desc: '依天數與區域產生個人化行程' },
+    ],
+  },
 };
 
 const postMap = new Map(allPosts.map(p => [p.data.slug || p.id, p]));
@@ -118,29 +243,36 @@ const config = CAT_CONFIG[cat] ?? {
   description: `峇里島${cat}相關文章完整收錄，${allPosts.length} 篇深度攻略持續更新。`,
   ogDescription: `峇里島${cat}相關文章完整收錄，持續更新。`,
   pillarSlug: 'bali-ultimate-guide-2026',
+  pillarEyebrow: '熱門推薦 · 終極指南',
+  pillarTitle: '第一次去峇里島？從這裡開始',
   pillarText: '讀「2026 峇里島自由行終極指南」→',
   pillarDesc: '26 項行前準備、現地實用知識、真實踩雷經驗與省錢技巧全收錄。一篇看完，新手變老手。',
   introHtml: `這裡集結了峇里島${cat}相關的所有文章，持續更新最新資訊。`,
+  relatedTitle: '📚 相關實用工具',
+  relatedItems: [
+    { href: '/trip-planner/', label: '🗺️ 峇里島行程規劃工具', desc: '5分鐘產生個人化分區推薦' },
+    { href: '/bali-budget-calculator/', label: '💰 峇里島預算計算機', desc: '估算 5/7/10 天需要多少預算' },
+    { href: '/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/', label: '🏨 峇里島住宿推薦系列', desc: '全島最完整住宿精選' },
+    { href: '/blog/category/%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5/', label: '📍 峇里島分區攻略系列', desc: '庫塔、水明漾、烏布、長谷全攻略' },
+  ],
   groups: [
     { emoji: '📄', name: '全部文章', slugs: allPosts.map(p => p.data.slug || p.id) },
   ],
 };
 
-// ItemList schema（精選 10 篇，無手動清單時取最新 10 篇）
-const top10Slugs = CAT_CONFIG[cat]
-  ? [
-      'bali-ultimate-guide-2026',
-      'first-time-bali-travel-tips',
-      'bali-all-indonesia-arrival-guide',
-      'bali-currency-exchange-guide',
-      'bali-sim-card-esim-guide',
-      'bali-private-car-hire-guide',
-      'bali-travel-mistakes-tips',
-      'bali-money-exchange-scams',
-      'bali-travel-faqs-guide',
-      'bali-travel-guide-2026',
-    ]
-  : allPosts.slice(0, 10).map(p => p.data.slug || p.id);
+// 顯示用分組：先用設定好的精選分組，再把沒被任一分組收錄的文章補進「更多文章」，
+// 確保整個分類底下每篇文章都至少有一條內部連結（不漏鏈、不流失 SEO 權重）
+const groupedSlugs = new Set(config.groups.flatMap(g => g.slugs));
+const leftoverPosts = allPosts.filter(p => !groupedSlugs.has(p.data.slug || p.id));
+const displayGroups = (CAT_CONFIG[cat] && leftoverPosts.length > 0)
+  ? [...config.groups, { emoji: '📚', name: `更多${cat}文章`, slugs: leftoverPosts.map(p => p.data.slug || p.id) }]
+  : config.groups;
+
+// ItemList schema（精選 10 篇）：優先用 featuredSlugs，否則取各分組前幾篇，最後退回最新文章
+const top10Slugs = (config.featuredSlugs
+  ?? config.groups.flatMap(g => g.slugs)
+  ?? allPosts.map(p => p.data.slug || p.id)
+).slice(0, 10);
 
 const canonicalUrl = `https://gobaligo.id/blog/category/${encodeURIComponent(cat)}/`;
 
@@ -184,6 +316,17 @@ const collectionPageSchema = {
     ]
   }
 };
+
+const faqSchema = config.faqs && config.faqs.length > 0 ? {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "@id": `${canonicalUrl}#faq`,
+  "mainEntity": config.faqs.map(f => ({
+    "@type": "Question",
+    "name": f.q,
+    "acceptedAnswer": { "@type": "Answer", "text": f.a },
+  })),
+} : null;
 ---
 
 <!doctype html>
@@ -203,6 +346,7 @@ const collectionPageSchema = {
   <meta property="og:locale" content="zh_TW" />
   <script type="application/ld+json" set:html={JSON.stringify(collectionPageSchema)} />
   <script type="application/ld+json" set:html={JSON.stringify(itemListSchema)} />
+  {faqSchema && <script type="application/ld+json" set:html={JSON.stringify(faqSchema)} />}
 </head>
 <body>
   <Header />
@@ -226,8 +370,8 @@ const collectionPageSchema = {
         <div class="pillar-card-inner">
           <div class="pillar-card-icon">🎯</div>
           <div class="pillar-card-right">
-            <p class="pillar-card-eyebrow">新手必讀 · 終極指南</p>
-            <h2 class="pillar-card-title">第一次去峇里島？從這裡開始</h2>
+            <p class="pillar-card-eyebrow">{config.pillarEyebrow ?? '新手必讀 · 終極指南'}</p>
+            <h2 class="pillar-card-title">{config.pillarTitle ?? '第一次去峇里島？從這裡開始'}</h2>
             <p class="pillar-card-desc" set:html={config.pillarDesc} />
             <a href={`/blog/${config.pillarSlug}/`} class="pillar-card-cta">
               {config.pillarText}
@@ -242,7 +386,7 @@ const collectionPageSchema = {
       </div>
 
       <!-- H2 主題分組 -->
-      {config.groups.map(group => {
+      {displayGroups.map(group => {
         const groupPosts = group.slugs
           .map(s => postMap.get(s) || allPosts.find(p => p.id === s))
           .filter(Boolean);
@@ -271,14 +415,28 @@ const collectionPageSchema = {
         );
       })}
 
+      <!-- 常見問題 FAQ -->
+      {config.faqs && config.faqs.length > 0 && (
+        <section class="cat-faq">
+          <h2 class="cat-group-title">❓ {cat}常見問題</h2>
+          <div class="cat-faq-list">
+            {config.faqs.map(f => (
+              <details class="cat-faq-item">
+                <summary class="cat-faq-q">{f.q}</summary>
+                <p class="cat-faq-a">{f.a}</p>
+              </details>
+            ))}
+          </div>
+        </section>
+      )}
+
       <!-- 相關資源 -->
       <section class="cat-related-resources">
-        <h2 class="cat-group-title">📚 新手必看相關工具</h2>
+        <h2 class="cat-group-title">{config.relatedTitle ?? '📚 相關實用工具'}</h2>
         <ul class="cat-group-list cat-resources-list">
-          <li><a href="/trip-planner/" class="cat-article-link cat-resource-item">🗺️ <strong>峇里島行程規劃工具</strong> — 5分鐘產生個人化分區推薦</a></li>
-          <li><a href="/bali-budget-calculator/" class="cat-article-link cat-resource-item">💰 <strong>峇里島預算計算機</strong> — 估算 5/7/10 天需要多少預算</a></li>
-          <li><a href="/blog/category/%E4%BD%8F%E5%AE%BF%E6%8E%A8%E8%96%A6/" class="cat-article-link cat-resource-item">🏨 <strong>峇里島住宿推薦系列</strong> — 全島最完整住宿精選</a></li>
-          <li><a href="/blog/category/%E5%B3%87%E9%87%8C%E5%B3%B6%E5%88%86%E5%8D%80%E6%94%BB%E7%95%A5/" class="cat-article-link cat-resource-item">📍 <strong>峇里島分區攻略系列</strong> — 庫塔、水明漾、烏布、長谷全攻略</a></li>
+          {(config.relatedItems ?? []).map(item => (
+            <li><a href={item.href} class="cat-article-link cat-resource-item"><strong>{item.label}</strong> — {item.desc}</a></li>
+          ))}
         </ul>
       </section>
 
@@ -419,6 +577,47 @@ const collectionPageSchema = {
     color: var(--ocean, #0a3d6b);
   }
   .cat-resource-item { padding: 0.55em 0.3em; }
+
+  /* FAQ */
+  .cat-faq { margin: 2.4em 0; }
+  .cat-faq-list { display: flex; flex-direction: column; gap: 0.6em; }
+  .cat-faq-item {
+    border: 1px solid rgba(197, 160, 89, 0.25);
+    border-radius: 10px;
+    background: #fff;
+    padding: 0 1em;
+    transition: box-shadow 0.2s;
+  }
+  .cat-faq-item[open] { box-shadow: 0 2px 12px rgba(10, 22, 40, 0.06); }
+  .cat-faq-q {
+    cursor: pointer;
+    font-size: 0.95em;
+    font-weight: 700;
+    color: var(--ocean, #0a3d6b);
+    padding: 0.9em 0;
+    list-style: none;
+    position: relative;
+    padding-right: 1.6em;
+  }
+  .cat-faq-q::-webkit-details-marker { display: none; }
+  .cat-faq-q::after {
+    content: '+';
+    position: absolute;
+    right: 0.1em;
+    top: 50%;
+    transform: translateY(-50%);
+    font-size: 1.2em;
+    font-weight: 400;
+    color: var(--gold, #c5a059);
+  }
+  .cat-faq-item[open] .cat-faq-q::after { content: '−'; }
+  .cat-faq-a {
+    margin: 0;
+    padding: 0 0 1em;
+    font-size: 0.9em;
+    line-height: 1.75;
+    color: #3a4a5a;
+  }
 
   /* Back link */
   .cat-back-link {
