@@ -46,31 +46,41 @@ export async function onRequest({ params, env, request }) {
   const id = params.id;
   const selfUrl = new URL(request.url).origin + '/go/' + id;
 
-  // KV lookup first (dynamic links take priority)
-  if (env.RATE_LIMIT) {
-    const { value: url, metadata } = await env.RATE_LIMIT.getWithMetadata(`sl:${id}`);
-    if (url) {
-      const title = metadata?.title || metadata?.note || SITE_TITLE;
-      const description = metadata?.description || SITE_DESCRIPTION;
-      const image = metadata?.image || SITE_OG_IMAGE;
-      const html = buildHtml(url, selfUrl, title, description, image);
-      return new Response(html, {
-        headers: { 'Content-Type': 'text/html;charset=UTF-8', 'Cache-Control': 'public,max-age=300' },
-      });
-    }
-  }
+  // Serve from Cloudflare edge cache when available – skips KV entirely
+  const cache = caches.default;
+  const cacheKey = new Request(selfUrl, { method: 'GET' });
+  const edgeCached = await cache.match(cacheKey);
+  if (edgeCached) return edgeCached;
 
-  // Fall back to static JSON
+  let response;
+
+  // Static links checked first – no KV read needed for these entries
   const entry = staticMap[id];
   if (entry) {
     const title = entry.title || SITE_TITLE;
     const description = entry.description || SITE_DESCRIPTION;
     const image = entry.image || SITE_OG_IMAGE;
-    const html = buildHtml(entry.url, selfUrl, title, description, image);
-    return new Response(html, {
+    response = new Response(buildHtml(entry.url, selfUrl, title, description, image), {
       headers: { 'Content-Type': 'text/html;charset=UTF-8', 'Cache-Control': 'public,max-age=300' },
     });
+  } else if (env.RATE_LIMIT) {
+    // Dynamic links stored in KV
+    const { value: url, metadata } = await env.RATE_LIMIT.getWithMetadata(`sl:${id}`);
+    if (url) {
+      const title = metadata?.title || metadata?.note || SITE_TITLE;
+      const description = metadata?.description || SITE_DESCRIPTION;
+      const image = metadata?.image || SITE_OG_IMAGE;
+      response = new Response(buildHtml(url, selfUrl, title, description, image), {
+        headers: { 'Content-Type': 'text/html;charset=UTF-8', 'Cache-Control': 'public,max-age=300' },
+      });
+    }
   }
 
-  return new Response('Short link not found', { status: 404 });
+  if (!response) {
+    return new Response('Short link not found', { status: 404 });
+  }
+
+  // Store in edge cache – subsequent clicks to same /go/ID within 5 min skip KV
+  await cache.put(cacheKey, response.clone());
+  return response;
 }

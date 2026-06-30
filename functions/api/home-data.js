@@ -29,10 +29,16 @@ const DEFAULT_FEATURED = {
   ]
 };
 
-export async function onRequestGet({ env }) {
+export async function onRequestGet({ env, request }) {
   if (!env.RATE_LIMIT) {
     return Response.json({ videos: DEFAULT_VIDEOS, hotArticles: [], featured: DEFAULT_FEATURED });
   }
+
+  // Serve from Cloudflare edge cache – all homepage visitors within 5 min share one KV fetch
+  const cache = caches.default;
+  const cacheKey = new Request(new URL('/api/home-data', request.url).href, { method: 'GET' });
+  const edgeCached = await cache.match(cacheKey);
+  if (edgeCached) return edgeCached;
 
   const [videosRaw, hotRaw, featuredRaw] = await Promise.all([
     env.RATE_LIMIT.get('config:videos'),
@@ -40,7 +46,7 @@ export async function onRequestGet({ env }) {
     env.RATE_LIMIT.get('config:featured'),
   ]);
 
-  return Response.json(
+  const response = Response.json(
     {
       videos: videosRaw ? JSON.parse(videosRaw) : DEFAULT_VIDEOS,
       hotArticles: hotRaw ? JSON.parse(hotRaw) : [],
@@ -48,4 +54,7 @@ export async function onRequestGet({ env }) {
     },
     { headers: { 'Cache-Control': 'public, max-age=300' } }
   );
+
+  await cache.put(cacheKey, response.clone());
+  return response;
 }
