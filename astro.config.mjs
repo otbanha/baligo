@@ -154,6 +154,22 @@ export default defineConfig({
           ];
         }
 
+        // hreflang for 5 語言皆有的工具頁（trip-planner / 預算計算機 / 天氣）
+        const toolMatch = path.match(/^(?:\/(en|zh-cn|zh-hk|id))?\/(trip-planner|bali-budget-calculator|weather)\/?$/);
+        if (toolMatch) {
+          const tool = toolMatch[2];
+          item.priority = 0.7;
+          item.changefreq = 'monthly';
+          item.links = [
+            { lang: 'x-default', url: `https://gobaligo.id/${tool}/` },
+            { lang: 'zh-TW',     url: `https://gobaligo.id/${tool}/` },
+            { lang: 'zh-HK',     url: `https://gobaligo.id/zh-hk/${tool}/` },
+            { lang: 'zh-CN',     url: `https://gobaligo.id/zh-cn/${tool}/` },
+            { lang: 'en',        url: `https://gobaligo.id/en/${tool}/` },
+            { lang: 'id',        url: `https://gobaligo.id/id/${tool}/` },
+          ];
+        }
+
         return item;
       },
     }),
