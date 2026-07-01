@@ -1864,17 +1864,6 @@
   },
   {
     "type": "node",
-    "id": 3780438905,
-    "lat": -8.7065472,
-    "lon": 115.2201388,
-    "tags": {
-      "amenity": "atm",
-      "drive_through": "no",
-      "name": "ATM BRI"
-    }
-  },
-  {
-    "type": "node",
     "id": 3781942470,
     "lat": -8.7110411,
     "lon": 115.2197233,
@@ -2441,16 +2430,6 @@
     "tags": {
       "amenity": "atm",
       "name": "CIMB Niaga"
-    }
-  },
-  {
-    "type": "node",
-    "id": 3919740380,
-    "lat": -8.6877834,
-    "lon": 115.2587921,
-    "tags": {
-      "amenity": "atm",
-      "name": "Bank BRI"
     }
   },
   {
@@ -3999,17 +3978,6 @@
     "tags": {
       "amenity": "atm",
       "name": "BRI"
-    }
-  },
-  {
-    "type": "node",
-    "id": 5496311048,
-    "lat": -8.6845473,
-    "lon": 115.43512,
-    "tags": {
-      "amenity": "atm",
-      "check_date": "2024-08-31",
-      "operator": "BNI"
     }
   },
   {

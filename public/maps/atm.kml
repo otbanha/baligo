@@ -3,7 +3,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>峇里島 ATM 提款機 by gobaligo</name>
-    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-06-01 | 總計 523 台</description>
+    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-07-01 | 總計 520 台</description>
     <Folder>
       <name>BCA</name>
       <Placemark>
@@ -1323,13 +1323,6 @@
       </Placemark>
       <Placemark>
         <name>BNI</name>
-        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/5496311048" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.43512,-8.6845473,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>BNI</name>
         <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/5516527440" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.2726243,-8.5523067,0</coordinates>
@@ -1724,13 +1717,6 @@
         </Point>
       </Placemark>
       <Placemark>
-        <name>ATM BRI</name>
-        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/3780438905" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.2201388,-8.7065472,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
         <name>BRI</name>
         <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Raya Sesetan<br><a href="https://www.openstreetmap.org/node/3781965646" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
@@ -1749,13 +1735,6 @@
         <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/3910937655" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.257898,-8.6265398,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Bank BRI</name>
-        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/3919740380" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.2587921,-8.6877834,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
