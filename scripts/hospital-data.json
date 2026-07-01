@@ -64,7 +64,7 @@
       "amenity": "clinic",
       "healthcare": "clinic",
       "name": "Padma Medical",
-      "phone": "+62 0361 761484",
+      "phone": "+62 361 761484",
       "source": "goo.gl/SkVfi"
     }
   },
@@ -154,8 +154,8 @@
   {
     "type": "node",
     "id": 3904018983,
-    "lat": -8.7119366,
-    "lon": 115.1728269,
+    "lat": -8.7119218,
+    "lon": 115.1728008,
     "tags": {
       "amenity": "clinic",
       "healthcare": "clinic",
@@ -201,8 +201,8 @@
   {
     "type": "node",
     "id": 4180400889,
-    "lat": -8.7092845,
-    "lon": 115.1840666,
+    "lat": -8.7100848,
+    "lon": 115.1843699,
     "tags": {
       "addr:city": "Kuta,Bali",
       "addr:housenumber": "Nomor RA 03",
@@ -341,7 +341,7 @@
       "amenity": "hospital",
       "healthcare": "hospital",
       "name": "International SOS Bali Clinic",
-      "phone": "0361 710505"
+      "phone": "+62 36-1710505"
     }
   },
   {
@@ -371,6 +371,19 @@
   },
   {
     "type": "node",
+    "id": 4407815394,
+    "lat": -8.6737809,
+    "lon": 115.5591245,
+    "tags": {
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Puskesmas Nusa Penida Hospital",
+      "opening_hours": "24/7",
+      "phone": "+62 36-65596680"
+    }
+  },
+  {
+    "type": "node",
     "id": 4412763827,
     "lat": -8.6735226,
     "lon": 115.2385835,
@@ -380,7 +393,7 @@
       "addr:street": "Raya Puputan",
       "amenity": "clinic",
       "name": "Erha Clinic",
-      "phone": "0361 4723188"
+      "phone": "+62 36-14723188"
     }
   },
   {
@@ -660,7 +673,7 @@
       "amenity": "doctors",
       "healthcare": "doctor",
       "name": "Praktik Dokter Jam Buka",
-      "phone": "085333775665"
+      "phone": "+62 853-3377-5665"
     }
   },
   {
@@ -742,7 +755,7 @@
       "name": "Ubud Care Clinic",
       "opening_hours": "24/7",
       "operator": "Dr. Mr. Ubud Care",
-      "phone": "0811-3977-911",
+      "phone": "+62 811-3977-911",
       "website": "http://www.UbudCare.com"
     }
   },
@@ -903,7 +916,7 @@
       "addr:street": "Jalan Sempol",
       "amenity": "clinic",
       "name": "The Bali Physio - Pererenan",
-      "phone": "0821-4586-5105",
+      "phone": "+62 821-4586-5105",
       "website": "https://www.thebaliphysio.com/"
     }
   },
@@ -1036,7 +1049,6 @@
     "tags": {
       "addr:street": "Jalan Pantai Batu Bolong",
       "amenity": "clinic",
-      "date": "2025",
       "healthcare": "clinic",
       "name": "General Practitioner Medical Service",
       "source": "Mapillary"
@@ -1100,8 +1112,8 @@
   {
     "type": "node",
     "id": 13202132059,
-    "lat": -8.4732828,
-    "lon": 115.3243278,
+    "lat": -8.4732817,
+    "lon": 115.3243965,
     "tags": {
       "amenity": "clinic",
       "check_date": "2025-10-08",
@@ -1170,7 +1182,6 @@
     "tags": {
       "addr:street": "Jalan Pantai Batu Bolong",
       "amenity": "clinic",
-      "date": "2025",
       "name": "The Medical",
       "source": "Mapillary"
     }
@@ -1183,7 +1194,6 @@
     "tags": {
       "addr:street": "Jalan Pantai Batu Bolong",
       "amenity": "clinic",
-      "date": "2025",
       "name": "Medical Doctor General Practitioner",
       "source": "Mapillary"
     }
@@ -1196,7 +1206,6 @@
     "tags": {
       "addr:street": "Jalan Pantai Batu Bolong",
       "amenity": "clinic",
-      "date": "2025",
       "name": "Hydro Medical",
       "source": "Mapillary"
     }
@@ -1209,7 +1218,6 @@
     "tags": {
       "addr:street": "Jalan Pantai Batu Bolong",
       "amenity": "clinic",
-      "date": "2025",
       "name": "Abdi Medicca",
       "source": "Mapillary"
     }
@@ -1243,7 +1251,6 @@
     "tags": {
       "addr:street": "Jalan Pantai Batu Bolong",
       "amenity": "clinic",
-      "date": "2025",
       "name": "Bali Healing Clinic",
       "source": "Mapillary"
     }
@@ -1256,7 +1263,6 @@
     "tags": {
       "addr:street": "Jalan Pantai Batu Bolong",
       "amenity": "clinic",
-      "date": "2025",
       "name": "Sanmed Medical",
       "source": "Mapillary"
     }
@@ -1282,6 +1288,24 @@
       "opening_hours": "24/7",
       "phone": "+6285195911911",
       "website": "https://911medical.id/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13917379877,
+    "lat": -8.6768338,
+    "lon": 115.4913389,
+    "tags": {
+      "addr:city": "Klungkung",
+      "addr:district": "Nusa Penida",
+      "addr:housename": "PUSTU",
+      "addr:postcode": "80771",
+      "addr:province": "Bali",
+      "addr:street": "Jalan Raya Toyapakeh",
+      "addr:subdistrict": "Kampung Toyapakeh",
+      "amenity": "hospital",
+      "healthcare": "hospital",
+      "name": "Puskesmas Pembantu Toyapakeh"
     }
   },
   {
@@ -2431,6 +2455,7 @@
       "addr:postcode": "80113",
       "addr:street": "Jalan Gatot Subroto",
       "amenity": "hospital",
+      "check_date": "2026-06-09",
       "emergency": "yes",
       "name": "Rumah Sakit Ibu dan Anak Puri Bunda Denpasar",
       "name:en": "Puri Bunda Children & Maternal Hospital",
@@ -2595,7 +2620,7 @@
       "emergency": "yes",
       "healthcare": "hospital",
       "name": "Bali Medical Center (BIMC)",
-      "phone": "0361 761263",
+      "phone": "+62 36-1761263",
       "website": "https://www.bimcbali.com/",
       "wikidata": "Q87765422"
     },
@@ -3135,7 +3160,7 @@
       "emergency": "yes",
       "healthcare": "hospital",
       "name": "Rumah Sakit Umum Sanjiwani Gianyar",
-      "phone": "0361-943020"
+      "phone": "+62 36-1943020"
     },
     "lat": -8.5370486,
     "lon": 115.3215322
@@ -3415,7 +3440,7 @@
       "healthcare": "hospital",
       "healthcare:speciality": "general",
       "name": "Pusksesmas Kintamani I",
-      "phone": "(0366) 51040"
+      "phone": "+62 366 51040"
     },
     "lat": -8.221191,
     "lon": 115.274506

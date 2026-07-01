@@ -3,7 +3,7 @@
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>峇里島醫院 / 診所 by gobaligo</name>
-    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-06-01 | 總計 211 筆</description>
+    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-07-01 | 總計 213 筆</description>
     <Folder>
       <name>國際醫院</name>
       <Placemark>
@@ -22,7 +22,7 @@
       </Placemark>
       <Placemark>
         <name>International SOS Bali Clinic</name>
-        <description><![CDATA[📍 Kuta<br>🗺️ Jalan By Pass Ngurah Rai<br>📞 0361 710505<br><a href="https://www.openstreetmap.org/node/4258092975" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Kuta<br>🗺️ Jalan By Pass Ngurah Rai<br>📞 +62 36-1710505<br><a href="https://www.openstreetmap.org/node/4258092975" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1914124,-8.7216974,0</coordinates>
         </Point>
@@ -99,7 +99,7 @@
       </Placemark>
       <Placemark>
         <name>Bali Medical Center (BIMC)</name>
-        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Bypass Ngurah Rai<br>📞 0361 761263<br>🚨 急診 24H<br><a href="https://www.bimcbali.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/416084292" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Bypass Ngurah Rai<br>📞 +62 36-1761263<br>🚨 急診 24H<br><a href="https://www.bimcbali.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/way/416084292" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1844294,-8.7214972,0</coordinates>
         </Point>
@@ -170,6 +170,13 @@
     </Folder>
     <Folder>
       <name>24H 急診醫院</name>
+      <Placemark>
+        <name>Puskesmas Nusa Penida Hospital</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>📞 +62 36-65596680<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/node/4407815394" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.5591245,-8.6737809,0</coordinates>
+        </Point>
+      </Placemark>
       <Placemark>
         <name>BaliMéd Canggu</name>
         <description><![CDATA[📍 Canggu<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/node/5291631122" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
@@ -412,6 +419,13 @@
         </Point>
       </Placemark>
       <Placemark>
+        <name>Puskesmas Pembantu Toyapakeh</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jalan Raya Toyapakeh<br><a href="https://www.openstreetmap.org/node/13917379877" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.4913389,-8.6768338,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
         <name>RSUD Karangasem</name>
         <description><![CDATA[🏥 Karangasem Regional Hospital<br>📍 Karangasem (East Bali)<br>🗺️ Jalan Ngurah Rai<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/209531912" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
@@ -553,7 +567,7 @@
       </Placemark>
       <Placemark>
         <name>Rumah Sakit Umum Sanjiwani Gianyar</name>
-        <description><![CDATA[📍 Ubud<br>🗺️ Jalan Ciung Wanara<br>📞 0361-943020<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/498074247" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Ubud<br>🗺️ Jalan Ciung Wanara<br>📞 +62 36-1943020<br>🚨 急診 24H<br><a href="https://www.openstreetmap.org/way/498074247" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.3215322,-8.5370486,0</coordinates>
         </Point>
@@ -574,7 +588,7 @@
       </Placemark>
       <Placemark>
         <name>Pusksesmas Kintamani I</name>
-        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jalan Raya Pelaga<br>📞 (0366) 51040<br><a href="https://www.openstreetmap.org/way/541208050" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jalan Raya Pelaga<br>📞 +62 366 51040<br><a href="https://www.openstreetmap.org/way/541208050" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.274506,-8.221191,0</coordinates>
         </Point>
@@ -696,7 +710,7 @@
       <name>24H 診所</name>
       <Placemark>
         <name>Ubud Care Clinic</name>
-        <description><![CDATA[📍 Ubud<br>🗺️ Jl. AA. Gede Mandera<br>📞 0811-3977-911<br>⏰ 24/7<br><a href="http://www.UbudCare.com" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/6427671586" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Ubud<br>🗺️ Jl. AA. Gede Mandera<br>📞 +62 811-3977-911<br>⏰ 24/7<br><a href="http://www.UbudCare.com" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/6427671586" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.2693568,-8.5239427,0</coordinates>
         </Point>
@@ -734,7 +748,7 @@
       <name>診所</name>
       <Placemark>
         <name>Padma Medical</name>
-        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Padma Utara<br>📞 +62 0361 761484<br><a href="https://www.openstreetmap.org/node/2179212572" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Padma Utara<br>📞 +62 361 761484<br><a href="https://www.openstreetmap.org/node/2179212572" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1660579,-8.700402,0</coordinates>
         </Point>
@@ -764,7 +778,7 @@
         <name>Legian Clinic</name>
         <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/3904018983" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.1728269,-8.7119366,0</coordinates>
+          <coordinates>115.1728008,-8.7119218,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -785,7 +799,7 @@
         <name>Natasha Skin Clinic Center - Kuta</name>
         <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Sunset Road<br><a href="https://www.openstreetmap.org/node/4180400889" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.1840666,-8.7092845,0</coordinates>
+          <coordinates>115.1843699,-8.7100848,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
@@ -797,7 +811,7 @@
       </Placemark>
       <Placemark>
         <name>Erha Clinic</name>
-        <description><![CDATA[📍 Denpasar<br>🗺️ Raya Puputan<br>📞 0361 4723188<br><a href="https://www.openstreetmap.org/node/4412763827" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Raya Puputan<br>📞 +62 36-14723188<br><a href="https://www.openstreetmap.org/node/4412763827" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.2385835,-8.6735226,0</coordinates>
         </Point>
@@ -909,7 +923,7 @@
       </Placemark>
       <Placemark>
         <name>Praktik Dokter Jam Buka</name>
-        <description><![CDATA[📍 Karangasem (East Bali)<br>📞 085333775665<br><a href="https://www.openstreetmap.org/node/5527708261" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Karangasem (East Bali)<br>📞 +62 853-3377-5665<br><a href="https://www.openstreetmap.org/node/5527708261" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.5887971,-8.2735063,0</coordinates>
         </Point>
@@ -986,7 +1000,7 @@
       </Placemark>
       <Placemark>
         <name>The Bali Physio - Pererenan</name>
-        <description><![CDATA[📍 Canggu<br>🗺️ Jalan Sempol<br>📞 0821-4586-5105<br><a href="https://www.thebaliphysio.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/9895435217" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Canggu<br>🗺️ Jalan Sempol<br>📞 +62 821-4586-5105<br><a href="https://www.thebaliphysio.com/" target="_blank" rel="noopener">網站</a><br><a href="https://www.openstreetmap.org/node/9895435217" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
           <coordinates>115.1350133,-8.641007,0</coordinates>
         </Point>
@@ -1065,7 +1079,7 @@
         <name>UPTD Puskesmas Gianyar II</name>
         <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/13202132059" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.3243278,-8.4732828,0</coordinates>
+          <coordinates>115.3243965,-8.4732817,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
