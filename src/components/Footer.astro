@@ -1,8 +1,11 @@
 ---
+import { catLabel, type Lang } from '../lib/categoryConfig';
+
 interface Props { lang?: string; }
 const { lang } = Astro.props;
 
 const today = new Date();
+const L = (lang ?? 'zh-tw') as Lang;
 
 const blogBase = lang === 'en' ? '/en/blog' :
                  lang === 'zh-cn' ? '/zh-cn/blog' :
@@ -16,23 +19,6 @@ const homeUrl = lang === 'en' ? '/en/blog/' :
                 lang === 'zh-hk' ? '/zh-hk/blog/' :
                 lang === 'id' ? '/id/blog/' : '/blog/?lang=tw';
 
-const CAT_EN: Record<string, string> = {
-  '新手指南': "Beginner's Guide",
-  '住宿推薦': 'Accommodation',
-  '峇里島分區攻略': 'Area Guide',
-  '簽證通關': 'Visa & Entry',
-  '美食景點活動': 'Food & Activities',
-  '遊記分享': 'Travel Stories',
-};
-const CAT_CN: Record<string, string> = {
-  '新手指南': '新手指南',
-  '住宿推薦': '住宿推荐',
-  '峇里島分區攻略': '峇里岛分区攻略',
-  '簽證通關': '签证通关',
-  '美食景點活動': '美食景点活动',
-  '遊記分享': '游记分享',
-};
-
 const categories = [
   { slug: '新手指南' },
   { slug: '住宿推薦' },
@@ -42,9 +28,9 @@ const categories = [
   { slug: '遊記分享' },
 ];
 
-const getCatName = (slug: string) =>
-  lang === 'en' ? (CAT_EN[slug] ?? slug) :
-  lang === 'zh-cn' ? (CAT_CN[slug] ?? slug) : slug;
+// 分類名稱與分類頁網址皆與 categoryConfig 單一來源一致
+const getCatName = (slug: string) => catLabel(L, slug);
+const catUrl = (slug: string) => `${blogBase}/category/${encodeURIComponent(slug)}/`;
 
 const tagline = lang === 'en' ? 'Bali Travel Guide · Your Smart Bali Guide' :
                 lang === 'zh-cn' ? '峇里岛旅游攻略 · 自由行达人指南' :
@@ -91,6 +77,16 @@ const fireBannerUrl = lang === 'en' ? '/en/tickets/' :
       </a>
       <p class="footer-tagline">{tagline}</p>
     </div>
+
+    <!-- 文章分類（全站內部連結至各語言分類中樞） -->
+    <nav class="footer-links" aria-label={catTitle}>
+      <h4>{catTitle}</h4>
+      <ul>
+        {categories.map(c => (
+          <li><a href={catUrl(c.slug)}>{getCatName(c.slug)}</a></li>
+        ))}
+      </ul>
+    </nav>
 
     <!-- 社群媒體 -->
     <div class="footer-social">
@@ -142,7 +138,7 @@ footer {
   margin: 0 auto;
   padding: 3em 2em 2em;
   display: grid;
-  grid-template-columns: 1.5fr 1fr;
+  grid-template-columns: 1.5fr 1fr 1fr;
   gap: 3em;
 }
 
