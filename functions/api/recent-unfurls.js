@@ -4,12 +4,15 @@ const CORS = {
   'Access-Control-Allow-Headers': 'Content-Type',
 };
 
-// Assembled list is cached under one KV key so traffic volume no longer multiplies
-// into a list() + N get() calls per visitor (this endpoint is hit by both /share
-// and the homepage's ShareWallPicks widget on every page view).
+// Assembled list cached in two layers:
+// 1. Cloudflare edge cache (CDN) – most requests never touch KV at all
+// 2. KV aggregated cache – CACHE_TTL_S freshness, CACHE_STORE_TTL_S expiry
+//    (expirationTtl must be >> CACHE_TTL_S to avoid auto-delete every CACHE_TTL_S seconds,
+//     which was generating 1440 delete ops/day with the original 60-second TTL)
 const CACHE_KEY = 'meta:recent-unfurls-cache';
-const CACHE_TTL_S = 60;
-const MAX_ITEMS = 100; // covers the largest `limit` any caller requests
+const CACHE_TTL_S = 300; // logical freshness: 5 minutes
+const CACHE_STORE_TTL_S = 3600; // KV expiry: 1 hour (avoids ~1440 auto-deletes/day)
+const MAX_ITEMS = 100;
 
 function json(data, status = 200, extraHeaders = {}) {
   return new Response(JSON.stringify(data), {
@@ -37,10 +40,17 @@ export async function onRequest(context) {
     const url = new URL(request.url);
     const limit = Math.min(parseInt(url.searchParams.get('limit') ?? '50', 10), 100);
 
-    const cached = await env.UNFURL_RECENT.get(CACHE_KEY, 'json').catch(() => null);
+    // Layer 1: Cloudflare edge cache – zero KV ops for cached responses
+    const cache = caches.default;
+    const cacheKey = new Request(request.url, { method: 'GET' });
+    const edgeCached = await cache.match(cacheKey);
+    if (edgeCached) return edgeCached;
+
+    // Layer 2: KV aggregated cache
+    const kvCached = await env.UNFURL_RECENT.get(CACHE_KEY, 'json').catch(() => null);
     let items;
-    if (cached?.computedAt && Date.now() - new Date(cached.computedAt).getTime() < CACHE_TTL_S * 1000) {
-      items = cached.items;
+    if (kvCached?.computedAt && Date.now() - new Date(kvCached.computedAt).getTime() < CACHE_TTL_S * 1000) {
+      items = kvCached.items;
     } else {
       // KV list sorts keys lexicographically; our key prefix `recent:YYYYMMDDhhmmss-...`
       // naturally sorts oldest-first, so we reverse to get newest first.
@@ -51,12 +61,18 @@ export async function onRequest(context) {
       ).filter(Boolean);
 
       context.waitUntil(
-        env.UNFURL_RECENT.put(CACHE_KEY, JSON.stringify({ items, computedAt: new Date().toISOString() }), { expirationTtl: CACHE_TTL_S }).catch(() => {}),
+        env.UNFURL_RECENT.put(
+          CACHE_KEY,
+          JSON.stringify({ items, computedAt: new Date().toISOString() }),
+          { expirationTtl: CACHE_STORE_TTL_S },
+        ).catch(() => {}),
       );
     }
 
-    // 內層已用 KV 快取，這裡 Cache-Control 縮短到與內層 TTL 一致，避免兩層快取時間不一致造成混淆。
-    return json({ items: items.slice(0, limit) }, 200, { 'Cache-Control': `public, max-age=${CACHE_TTL_S}` });
+    const response = json({ items: items.slice(0, limit) }, 200, { 'Cache-Control': `public, max-age=${CACHE_TTL_S}` });
+    // Store in edge cache for subsequent requests at this edge location
+    context.waitUntil(cache.put(cacheKey, response.clone()));
+    return response;
   } catch (e) {
     console.log(`[recent-unfurls] error: ${e?.message}`);
     return json({ items: [] });
