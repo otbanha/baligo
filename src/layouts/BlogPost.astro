@@ -92,6 +92,7 @@ const blogBase = lang === 'en' ? '/en/blog' : lang === 'zh-cn' ? '/zh-cn/blog' :
 const isZhTw = lang !== 'en' && lang !== 'zh-cn' && lang !== 'zh-hk' && lang !== 'id';
 const blogIndexUrl = isZhTw ? `${blogBase}/?lang=tw` : `${blogBase}/`;
 const catBaseUrl   = isZhTw ? `${blogBase}/?lang=tw&cat=` : `${blogBase}?cat=`;
+const catPageUrl   = (cat: string) => `${blogBase}/category/${encodeURIComponent(cat)}/`;
 
 const canonicalUrl = `https://gobaligo.id${blogBase}/${slug}/`;
 
@@ -365,7 +366,7 @@ const spaFaqSchema = isSpaGuide ? {
           </li>
           {categories.map(cat => (
             <li>
-              <a href={`${catBaseUrl}${encodeURIComponent(cat)}`}
+              <a href={catPageUrl(cat)}
                  class={`category-item ${(Array.isArray(category) ? category : [category]).includes(cat) ? 'active' : ''}`}
                 <span class="cat-name">{getCatLabel(cat)}</span>
                 <span class="cat-count">{categoryCounts[cat]}</span>
@@ -385,7 +386,7 @@ const spaFaqSchema = isSpaGuide ? {
           <>
             <span class="breadcrumb-sep">›</span>
             <a
-              href={`${catBaseUrl}${encodeURIComponent(Array.isArray(category) ? category[0] : category)}`}
+              href={catPageUrl(Array.isArray(category) ? category[0] : category)}
               class="breadcrumb-cat"
             >
               {getCatLabel(Array.isArray(category) ? category[0] : category)}
