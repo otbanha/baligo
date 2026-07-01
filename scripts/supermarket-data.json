@@ -1,0 +1,1398 @@
+[
+  {
+    "type": "node",
+    "id": 829769130,
+    "lat": -8.7932382,
+    "lon": 115.2146582,
+    "tags": {
+      "addr:city": "South Kuta, Badung, Bali",
+      "addr:housenumber": "77",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Bypass Ngurah Rai",
+      "name": "Hardy's Nusa Dua",
+      "phone": "+62 36-1774639",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 1408180809,
+    "lat": -8.6942062,
+    "lon": 115.1680418,
+    "tags": {
+      "addr:city": "Seminyak, Kuta, Kabupaten Badung, Bali, Indonesia",
+      "addr:housenumber": "17",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Raya Seminyak",
+      "name": "Bintang Supermarket Seminyak",
+      "phone": "+62 361 730552",
+      "shop": "supermarket",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2113367726,
+    "lat": -8.7383769,
+    "lon": 115.1723037,
+    "tags": {
+      "addr:city": "Badung, Bali",
+      "addr:housenumber": "36A",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Kediri",
+      "name": "Pepito Supermarket",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2276393244,
+    "lat": -8.6732077,
+    "lon": 115.1650088,
+    "tags": {
+      "addr:city": "North Kuta",
+      "addr:postcode": "80361",
+      "addr:street": "Raya Kerobokan",
+      "name": "Pepito Express",
+      "shop": "supermarket",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2276393245,
+    "lat": -8.6733893,
+    "lon": 115.1650478,
+    "tags": {
+      "addr:city": "North Kuta",
+      "addr:postcode": "80361",
+      "addr:street": "Jl. Raya Kerobokan",
+      "name": "Frestive Supermarket",
+      "phone": "+62 36-1739144",
+      "shop": "supermarket",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2488170753,
+    "lat": -8.7825068,
+    "lon": 115.1789287,
+    "tags": {
+      "addr:city": "Jimbaran, Bali",
+      "addr:postcode": "80361",
+      "addr:street": "Jl. Kampus Unud",
+      "internet_access": "wlan",
+      "name": "Pepito Express Udayana 2",
+      "phone": "+62 887-3840-600",
+      "shop": "supermarket",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 2863493411,
+    "lat": -8.7857318,
+    "lon": 115.1878526,
+    "tags": {
+      "addr:city": "South Kuta",
+      "addr:postcode": "80362",
+      "addr:street": "Jl. Batur Raya",
+      "name": "Pepito Express Batur Raya",
+      "phone": "+62 361 770519",
+      "shop": "supermarket",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3761412238,
+    "lat": -8.5180422,
+    "lon": 115.2632662,
+    "tags": {
+      "name": "Delta Dewata",
+      "opening_hours": "24/7",
+      "shop": "supermarket",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3761416517,
+    "lat": -8.5129482,
+    "lon": 115.264166,
+    "tags": {
+      "name": "Delta Dewata",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3800873045,
+    "lat": -8.6493815,
+    "lon": 115.1463444,
+    "tags": {
+      "name": "Coco Mart",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 3912876647,
+    "lat": -8.6438342,
+    "lon": 115.1577539,
+    "tags": {
+      "name": "Pepito",
+      "opening_hours": "Mo-Su 07:00-23:00",
+      "shop": "supermarket",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4180715456,
+    "lat": -8.7099341,
+    "lon": 115.1830253,
+    "tags": {
+      "addr:city": "Kuta, Badung, Bali",
+      "addr:housenumber": "88E",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Merta Nadi, Banjar Abian Base",
+      "name": "Papaya Supermarket",
+      "phone": "+62 361 759222",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4227636491,
+    "lat": -8.6819882,
+    "lon": 115.1887505,
+    "tags": {
+      "name": "Nirmala",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4260296585,
+    "lat": -8.7072045,
+    "lon": 115.1836398,
+    "tags": {
+      "addr:city": "Kuta, Kabupaten Badung, Bali, Indonesia",
+      "addr:housenumber": "9",
+      "addr:postcode": "80361",
+      "addr:street": "Sunset Road",
+      "name": "Grand Lucky Supermarket",
+      "phone": "+62 36-1762308",
+      "shop": "supermarket",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4410814235,
+    "lat": -8.6885171,
+    "lon": 115.1705856,
+    "tags": {
+      "addr:city": "Seminyak, Kuta, Kabupaten Badung, Bali, Indonesia",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Kunti",
+      "name": "Bali Deli",
+      "phone": "+62 36-1738686",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4415977398,
+    "lat": -8.6910201,
+    "lon": 115.2252917,
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "100X",
+      "addr:postcode": "80225",
+      "addr:street": "Jl. Tukad Pakerisan",
+      "name": "Hardys",
+      "phone": "+62 36-1257950",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4418630231,
+    "lat": -8.6734892,
+    "lon": 115.1578188,
+    "tags": {
+      "addr:city": "Seminyak, Bali",
+      "addr:housenumber": "18",
+      "addr:postcode": "80361",
+      "addr:street": "Jl. Petitenget",
+      "name": "Pepito",
+      "shop": "supermarket",
+      "website": "https://pepitosupermarket.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4418635099,
+    "lat": -8.7087824,
+    "lon": 115.1788572,
+    "tags": {
+      "addr:city": "Kuta, Badung, Bali",
+      "addr:housenumber": "20",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Dewi Sri",
+      "name": "Pepito Dewi Sri",
+      "shop": "supermarket",
+      "website": "https://pepitosupermarket.com/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4418645319,
+    "lat": -8.6653704,
+    "lon": 115.1630343,
+    "tags": {
+      "addr:city": "Kerobokan Kelod",
+      "addr:housenumber": "56",
+      "addr:postcode": "80361",
+      "addr:street": "Jl. Dukuh Indah",
+      "name": "Pepito Express Umalas",
+      "phone": "+62 878-8483-8854",
+      "shop": "supermarket",
+      "website": "https://pepitosupermarket.com/"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4418658917,
+    "lat": -8.7893489,
+    "lon": 115.2110538,
+    "tags": {
+      "addr:city": "Nusa Dua",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Bypass Ngurah Rai",
+      "name": "Pepito Express Bualu",
+      "phone": "+62 361 759112",
+      "shop": "supermarket",
+      "toilets:wheelchair": "no",
+      "website": "https://pepitosupermarket.com/",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4423130980,
+    "lat": -8.6943822,
+    "lon": 115.1680731,
+    "tags": {
+      "addr:city": "Seminyak, Kuta, Kabupaten Badung, Bali, Indonesia",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Raya Seminyak",
+      "name": "Supermarket Bintang",
+      "organic": "only",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4448663296,
+    "lat": -8.7686213,
+    "lon": 115.2217555,
+    "tags": {
+      "name": "Coco mart",
+      "name:en": "Coco mart",
+      "opening_hours": "24/7",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4464274791,
+    "lat": -8.7999397,
+    "lon": 115.2175995,
+    "tags": {
+      "name": "PEPITO express",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4607413560,
+    "lat": -8.7926275,
+    "lon": 115.1947336,
+    "tags": {
+      "name": "Cheap Supermarket",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4700346824,
+    "lat": -8.5329939,
+    "lon": 115.2436676,
+    "tags": {
+      "name": "Pepito’s",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4744540121,
+    "lat": -8.6472347,
+    "lon": 115.1768852,
+    "tags": {
+      "name": "Coco mart",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4903858622,
+    "lat": -8.781753,
+    "lon": 115.1744567,
+    "tags": {
+      "addr:city": "Jimbaran",
+      "addr:street": "Jalan Uluwatu 2",
+      "name": "Nirmala Swalayan",
+      "opening_hours": "Mo-Su 09:00-22:00",
+      "shop": "supermarket",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 4920268822,
+    "lat": -8.6728775,
+    "lon": 115.1509155,
+    "tags": {
+      "name": "Coco Express",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5275082654,
+    "lat": -8.625154,
+    "lon": 115.2576138,
+    "tags": {
+      "name": "Coco Mart",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5336867721,
+    "lat": -8.8044438,
+    "lon": 115.1595784,
+    "tags": {
+      "name": "COCOmart",
+      "shop": "supermarket",
+      "wheelchair": "no"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5336868021,
+    "lat": -8.8028961,
+    "lon": 115.1511337,
+    "tags": {
+      "name": "COCOmart",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5409736126,
+    "lat": -8.7063213,
+    "lon": 115.25963,
+    "tags": {
+      "name": "Popular Market",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5417895729,
+    "lat": -8.6309864,
+    "lon": 115.2598866,
+    "tags": {
+      "name": "Bagus Supermarket Raya Batubulan",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5427996523,
+    "lat": -8.7065677,
+    "lon": 115.2592607,
+    "tags": {
+      "name": "Popular Market",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5664247921,
+    "lat": -8.6692601,
+    "lon": 115.146657,
+    "tags": {
+      "name": "Popular",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5816688453,
+    "lat": -8.6307022,
+    "lon": 115.1331146,
+    "tags": {
+      "name": "Pepito",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5835409888,
+    "lat": -8.6431756,
+    "lon": 115.1424242,
+    "tags": {
+      "addr:street": "Jalan Pantai Batu Bolong",
+      "check_date": "2025-12-30",
+      "level": "0",
+      "name": "Pepito Market Eco Beach",
+      "name:en": "Pepito",
+      "opening_hours": "07:00-23:00",
+      "payment:cash": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "shop": "supermarket",
+      "source": "Mapillary"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5859950585,
+    "lat": -8.6594469,
+    "lon": 115.1382124,
+    "tags": {
+      "name": "Big supermarket",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5877761385,
+    "lat": -8.1643684,
+    "lon": 115.0214874,
+    "tags": {
+      "name": "Market Pepito Lovina",
+      "name:fr": "Supermarché Pepito Lovina",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 5930668085,
+    "lat": -8.6597213,
+    "lon": 115.1390601,
+    "tags": {
+      "name": "Frestive",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6008991085,
+    "lat": -8.6279269,
+    "lon": 115.1287332,
+    "tags": {
+      "name": "Pepito Market",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6124268322,
+    "lat": -8.7982555,
+    "lon": 115.1313007,
+    "tags": {
+      "name": "Nirmala",
+      "name:en": "Nimala",
+      "opening_hours": "Mo-Sa 08:00-22:00",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6224813586,
+    "lat": -8.819908,
+    "lon": 115.1515542,
+    "tags": {
+      "name": "Pepito Express",
+      "name:ru": "Пепито Экспресс",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6235125388,
+    "lat": -8.5548001,
+    "lon": 115.2722219,
+    "tags": {
+      "name": "Nirmala",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6265405287,
+    "lat": -8.7963437,
+    "lon": 115.1611732,
+    "tags": {
+      "name": "Pepito",
+      "shop": "supermarket",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6317224585,
+    "lat": -8.7852288,
+    "lon": 115.1652049,
+    "tags": {
+      "name": "Sereh Gourmet Supermarket",
+      "opening_hours": "Mo-Su 09:00-22:00",
+      "phone": "+623614468171",
+      "shop": "supermarket",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6426483985,
+    "lat": -8.7778347,
+    "lon": 115.1699743,
+    "tags": {
+      "name": "Coco Supermarket",
+      "name:ru": "Coco Supermarket",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6795232555,
+    "lat": -8.7231202,
+    "lon": 115.1852847,
+    "tags": {
+      "name": "Hypermart",
+      "shop": "supermarket",
+      "wheelchair": "yes"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6900078687,
+    "lat": -8.6789907,
+    "lon": 115.4900493,
+    "tags": {
+      "name": "Kayun Supermarket",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 6942522085,
+    "lat": -8.5244583,
+    "lon": 115.2646284,
+    "tags": {
+      "name": "Popular Market",
+      "opening_hours": "Mo-Su 07:00-23:00",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7021810447,
+    "lat": -8.7150559,
+    "lon": 115.1852144,
+    "tags": {
+      "name": "Foodmart gourmet supermarket",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7041298791,
+    "lat": -8.7368534,
+    "lon": 115.1656448,
+    "tags": {
+      "name": "Coco Express",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7082255047,
+    "lat": -8.5395192,
+    "lon": 115.322454,
+    "tags": {
+      "name": "Glandys Supermarket",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7130959585,
+    "lat": -8.820269,
+    "lon": 115.149786,
+    "tags": {
+      "name": "Nirmala Supermarket Pecatu",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7236658885,
+    "lat": -8.6427685,
+    "lon": 115.1420838,
+    "tags": {
+      "addr:street": "Jalan Pantai Batu Bolong",
+      "name": "Festive Supermarket",
+      "name:en": "Frestive",
+      "shop": "supermarket",
+      "source": "Mapillary",
+      "wheelchair": "limited"
+    }
+  },
+  {
+    "type": "node",
+    "id": 7684318585,
+    "lat": -8.6581284,
+    "lon": 115.1628094,
+    "tags": {
+      "name": "Pepito",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 9797666411,
+    "lat": -8.6773391,
+    "lon": 115.2311145,
+    "tags": {
+      "name": "Supermarket Freshindo Yeh Aya",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 10162173050,
+    "lat": -8.5440626,
+    "lon": 115.3258118,
+    "tags": {
+      "name": "Clandys Grosir Supermarket",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11581230237,
+    "lat": -8.7152198,
+    "lon": 115.185033,
+    "tags": {
+      "name": "Foodmart gourmet supermarket",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11581230238,
+    "lat": -8.7021357,
+    "lon": 115.1842996,
+    "tags": {
+      "name": "Transmart",
+      "shop": "department_store"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11581305719,
+    "lat": -8.6826235,
+    "lon": 115.1668958,
+    "tags": {
+      "name": "Primo supermarket",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 11736271969,
+    "lat": -8.6802243,
+    "lon": 115.2585419,
+    "tags": {
+      "addr:housenumber": "240",
+      "addr:street": "Jalan Bypass Ngurah Rai",
+      "name": "GrandLucky Supermarket",
+      "name:en": "GrandLucky Sanur",
+      "opening_hours": "Mo-Su 08:00-22:00",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12843872702,
+    "lat": -8.5777586,
+    "lon": 115.1814261,
+    "tags": {
+      "name": "Pepito Market",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 12995413545,
+    "lat": -8.6342179,
+    "lon": 115.2319534,
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Bypass Gatot Subroto",
+      "name": "Coco Supermarket",
+      "opening_hours": "Mo-Fr 10:00-22:00; Sa-Su 10:00-23:00",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13305666754,
+    "lat": -8.6062305,
+    "lon": 115.1076027,
+    "tags": {
+      "name": "Coco Supermarket",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "node",
+    "id": 13717807412,
+    "lat": -8.6326899,
+    "lon": 115.1756644,
+    "tags": {
+      "name": "Pepito",
+      "shop": "supermarket"
+    }
+  },
+  {
+    "type": "way",
+    "id": 47994847,
+    "center": {
+      "lat": -8.7136268,
+      "lon": 115.2208231
+    },
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Bypass Ngurah Rai",
+      "brand": "Lotte Mart",
+      "brand:wikidata": "Q326715",
+      "building": "yes",
+      "name": "Lotte Mart",
+      "shop": "supermarket"
+    },
+    "lat": -8.7136268,
+    "lon": 115.2208231
+  },
+  {
+    "type": "way",
+    "id": 204788415,
+    "center": {
+      "lat": -8.5078523,
+      "lon": 115.2710852
+    },
+    "tags": {
+      "addr:city": "Ubud",
+      "addr:housenumber": "14",
+      "addr:street": "Jalan Raya Andong",
+      "building": "yes",
+      "name": "Delta Dewata",
+      "opening_hours": "Mo-Su 08:00-22:00",
+      "shop": "supermarket"
+    },
+    "lat": -8.5078523,
+    "lon": 115.2710852
+  },
+  {
+    "type": "way",
+    "id": 304203602,
+    "center": {
+      "lat": -8.806877,
+      "lon": 115.1590954
+    },
+    "tags": {
+      "addr:city": "Jimbaran",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Raya Uluwatu",
+      "building": "yes",
+      "name": "Pepito Market Uluwatu",
+      "phone": "+62 361 703071",
+      "shop": "supermarket"
+    },
+    "lat": -8.806877,
+    "lon": 115.1590954
+  },
+  {
+    "type": "way",
+    "id": 311712190,
+    "center": {
+      "lat": -8.7896583,
+      "lon": 115.1769882
+    },
+    "tags": {
+      "addr:street": "Jl. Kampus Unud",
+      "building": "yes",
+      "name": "Nirmala Supermarket",
+      "shop": "supermarket",
+      "wheelchair": "limited"
+    },
+    "lat": -8.7896583,
+    "lon": 115.1769882
+  },
+  {
+    "type": "way",
+    "id": 312040356,
+    "center": {
+      "lat": -8.6620678,
+      "lon": 115.2172307
+    },
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "55",
+      "addr:street": "Jalan Sutoyo",
+      "building": "yes",
+      "name": "GrandLucky Udayana",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "operator": "PT Mitra Belanja Anda",
+      "shop": "supermarket",
+      "source": "Local knowledge"
+    },
+    "lat": -8.6620678,
+    "lon": 115.2172307
+  },
+  {
+    "type": "way",
+    "id": 363343454,
+    "center": {
+      "lat": -8.6607076,
+      "lon": 115.2407631
+    },
+    "tags": {
+      "building": "yes",
+      "building:levels": "1",
+      "name": "Bintang Supermarket",
+      "shop": "supermarket"
+    },
+    "lat": -8.6607076,
+    "lon": 115.2407631
+  },
+  {
+    "type": "way",
+    "id": 367196083,
+    "center": {
+      "lat": -8.7835752,
+      "lon": 115.1871663
+    },
+    "tags": {
+      "addr:city": "Jimbaran",
+      "addr:street": "By Pass Ngurah Rai",
+      "building": "yes",
+      "name": "Nirmala",
+      "opening_hours": "Mo-Su 09:00-22:00",
+      "shop": "supermarket"
+    },
+    "lat": -8.7835752,
+    "lon": 115.1871663
+  },
+  {
+    "type": "way",
+    "id": 367201301,
+    "center": {
+      "lat": -8.7847332,
+      "lon": 115.1944722
+    },
+    "tags": {
+      "addr:city": "Jimbaran",
+      "addr:street": "By Pass Ngurah Rai",
+      "building": "yes",
+      "name": "Cocomart",
+      "opening_hours": "24/7",
+      "shop": "supermarket"
+    },
+    "lat": -8.7847332,
+    "lon": 115.1944722
+  },
+  {
+    "type": "way",
+    "id": 367257227,
+    "center": {
+      "lat": -8.6755852,
+      "lon": 115.2159663
+    },
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "183",
+      "addr:province": "Bali",
+      "addr:street": "Jalan Diponegoro",
+      "building": "yes",
+      "building:levels": "1",
+      "layer": "1",
+      "name": "Tiara Dewata",
+      "opening_hours": "Mo-Su 10:00-22:00",
+      "payment:cash": "yes",
+      "payment:contactless": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "shop": "supermarket"
+    },
+    "lat": -8.6755852,
+    "lon": 115.2159663
+  },
+  {
+    "type": "way",
+    "id": 371348349,
+    "center": {
+      "lat": -8.5180261,
+      "lon": 115.2638389
+    },
+    "tags": {
+      "building": "yes",
+      "name": "Coco Supermarket",
+      "payment:contactless": "yes",
+      "payment:credit_cards": "yes",
+      "shop": "supermarket",
+      "wheelchair": "limited"
+    },
+    "lat": -8.5180261,
+    "lon": 115.2638389
+  },
+  {
+    "type": "way",
+    "id": 372129634,
+    "center": {
+      "lat": -8.6499534,
+      "lon": 115.2176333
+    },
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Veteran",
+      "building": "yes",
+      "name": "Supermarket Super Ekonomi",
+      "shop": "supermarket"
+    },
+    "lat": -8.6499534,
+    "lon": 115.2176333
+  },
+  {
+    "type": "way",
+    "id": 395858372,
+    "center": {
+      "lat": -8.6834514,
+      "lon": 115.1627694
+    },
+    "tags": {
+      "addr:city": "Kerobokan Kelod, Kuta, Bali",
+      "addr:postcode": "80361",
+      "addr:street": "Jalan Kayu Aya",
+      "building": "yes",
+      "name": "Coco Supermarket Kerobokan Kelod",
+      "outdoor_seating": "no",
+      "phone": "+62 36-1735618",
+      "postal_code": "80361",
+      "shop": "supermarket"
+    },
+    "lat": -8.6834514,
+    "lon": 115.1627694
+  },
+  {
+    "type": "way",
+    "id": 405961014,
+    "center": {
+      "lat": -8.681191,
+      "lon": 115.1952571
+    },
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Teuku Umar Barat",
+      "building": "yes",
+      "name": "Supermarket SE",
+      "shop": "supermarket",
+      "wheelchair": "no"
+    },
+    "lat": -8.681191,
+    "lon": 115.1952571
+  },
+  {
+    "type": "way",
+    "id": 414514991,
+    "center": {
+      "lat": -8.6877659,
+      "lon": 115.1862925
+    },
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Gunung Soputan",
+      "building": "retail",
+      "landuse": "retail",
+      "name": "Soputan Fresh",
+      "opening_hours": "Mo-Su 7:00-22:00",
+      "shop": "supermarket"
+    },
+    "lat": -8.6877659,
+    "lon": 115.1862925
+  },
+  {
+    "type": "way",
+    "id": 414514992,
+    "center": {
+      "lat": -8.6876615,
+      "lon": 115.1864913
+    },
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Gunung Soputan",
+      "building": "retail",
+      "landuse": "retail",
+      "name": "Soputan Fresh",
+      "opening_hours": "Mo-Su 7:00-22:00",
+      "shop": "supermarket"
+    },
+    "lat": -8.6876615,
+    "lon": 115.1864913
+  },
+  {
+    "type": "way",
+    "id": 414514993,
+    "center": {
+      "lat": -8.6882124,
+      "lon": 115.1862495
+    },
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Gunung Soputan",
+      "building": "retail",
+      "landuse": "retail",
+      "name": "Soputan Fresh",
+      "opening_hours": "Mo-Su 7:00-22:00",
+      "shop": "supermarket"
+    },
+    "lat": -8.6882124,
+    "lon": 115.1862495
+  },
+  {
+    "type": "way",
+    "id": 414515002,
+    "center": {
+      "lat": -8.6882456,
+      "lon": 115.1904497
+    },
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "12B",
+      "addr:street": "Jalan Gunung Soputan",
+      "building": "yes",
+      "name": "Ayu Nadi Swalayan",
+      "shop": "supermarket"
+    },
+    "lat": -8.6882456,
+    "lon": 115.1904497
+  },
+  {
+    "type": "way",
+    "id": 416070790,
+    "center": {
+      "lat": -8.7199767,
+      "lon": 115.197751
+    },
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:housenumber": "555",
+      "addr:street": "Jalan Bypass Ngurah Rai",
+      "building": "yes",
+      "name": "Supermarket SE",
+      "shop": "supermarket"
+    },
+    "lat": -8.7199767,
+    "lon": 115.197751
+  },
+  {
+    "type": "way",
+    "id": 420213085,
+    "center": {
+      "lat": -8.6732187,
+      "lon": 115.1651338
+    },
+    "tags": {
+      "addr:city": "Kerobokan Kelod, Kuta Utara, Kabupaten Badung, Bali, Indonesia",
+      "addr:street": "Raya Kerobokan",
+      "building": "yes",
+      "name": "Pepito Express",
+      "opening_hours": "07:00-22:00",
+      "shop": "supermarket"
+    },
+    "lat": -8.6732187,
+    "lon": 115.1651338
+  },
+  {
+    "type": "way",
+    "id": 420213086,
+    "center": {
+      "lat": -8.6734346,
+      "lon": 115.1651361
+    },
+    "tags": {
+      "addr:street": "Raya Kerobokan",
+      "building": "yes",
+      "name": "Freshtive",
+      "opening_hours": "07:00-22:00",
+      "shop": "supermarket"
+    },
+    "lat": -8.6734346,
+    "lon": 115.1651361
+  },
+  {
+    "type": "way",
+    "id": 435643212,
+    "center": {
+      "lat": -8.7070194,
+      "lon": 115.183992
+    },
+    "tags": {
+      "building": "yes",
+      "name": "Grand Lucky Supermarket",
+      "shop": "supermarket",
+      "wheelchair": "yes"
+    },
+    "lat": -8.7070194,
+    "lon": 115.183992
+  },
+  {
+    "type": "way",
+    "id": 445056653,
+    "center": {
+      "lat": -8.636145,
+      "lon": 115.2331282
+    },
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:province": "Bali",
+      "addr:street": "Jalan Bypass Gatot Subroto",
+      "building": "yes",
+      "fixme": "Pepito atau Popular? Masih perlu dicek ulang. ----- Need double-checking, not really sure if it's Pepito or Popular.",
+      "name": "Pepito Market",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:debit_cards": "yes",
+      "payment:qris": "yes",
+      "shop": "supermarket"
+    },
+    "lat": -8.636145,
+    "lon": 115.2331282
+  },
+  {
+    "type": "way",
+    "id": 464475734,
+    "center": {
+      "lat": -8.8063261,
+      "lon": 115.2014401
+    },
+    "tags": {
+      "building": "yes",
+      "name": "Cocomart",
+      "shop": "supermarket"
+    },
+    "lat": -8.8063261,
+    "lon": 115.2014401
+  },
+  {
+    "type": "way",
+    "id": 524545387,
+    "center": {
+      "lat": -8.6570351,
+      "lon": 115.1913743
+    },
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Mahendradatta",
+      "building": "yes",
+      "name": "Supermarket SE",
+      "shop": "supermarket",
+      "wheelchair": "no"
+    },
+    "lat": -8.6570351,
+    "lon": 115.1913743
+  },
+  {
+    "type": "way",
+    "id": 533844746,
+    "center": {
+      "lat": -8.7268411,
+      "lon": 115.1773752
+    },
+    "tags": {
+      "addr:city": "Kuta, Bali, Indonesia",
+      "addr:housenumber": "146",
+      "addr:postcode": "80361",
+      "addr:street": "Jl. Kauripan",
+      "building": "yes",
+      "name": "Hardy's Mall Kuta",
+      "name:en": "Hardy's Mall",
+      "shop": "supermarket"
+    },
+    "lat": -8.7268411,
+    "lon": 115.1773752
+  },
+  {
+    "type": "way",
+    "id": 545154883,
+    "center": {
+      "lat": -8.5041614,
+      "lon": 115.2715261
+    },
+    "tags": {
+      "building": "yes",
+      "description": "Expensive supermarket with foreign products.",
+      "name": "Pepito Market - Andong",
+      "shop": "supermarket"
+    },
+    "lat": -8.5041614,
+    "lon": 115.2715261
+  },
+  {
+    "type": "way",
+    "id": 554783114,
+    "center": {
+      "lat": -8.5273673,
+      "lon": 115.2438101
+    },
+    "tags": {
+      "building": "yes",
+      "name": "CocoMart",
+      "opening_hours": "24/7",
+      "shop": "supermarket"
+    },
+    "lat": -8.5273673,
+    "lon": 115.2438101
+  },
+  {
+    "type": "way",
+    "id": 566540480,
+    "center": {
+      "lat": -8.8158775,
+      "lon": 115.1555439
+    },
+    "tags": {
+      "addr:city": "Ungasan, Kuta Selatan",
+      "addr:postcode": "80364",
+      "addr:street": "Jalan Raya Uluwatu",
+      "building": "yes",
+      "name": "Nirmala Supermarket",
+      "opening_hours": "07:00-22:00",
+      "phone": "+62 361 705454",
+      "shop": "supermarket"
+    },
+    "lat": -8.8158775,
+    "lon": 115.1555439
+  },
+  {
+    "type": "way",
+    "id": 668412971,
+    "center": {
+      "lat": -8.7921531,
+      "lon": 115.1533654
+    },
+    "tags": {
+      "building": "yes",
+      "name": "Pepito Express",
+      "payment:cash": "yes",
+      "payment:credit_cards": "yes",
+      "payment:mastercard": "yes",
+      "payment:visa": "yes",
+      "shop": "supermarket",
+      "wheelchair": "yes"
+    },
+    "lat": -8.7921531,
+    "lon": 115.1533654
+  },
+  {
+    "type": "way",
+    "id": 764185557,
+    "center": {
+      "lat": -8.4036374,
+      "lon": 115.2182644
+    },
+    "tags": {
+      "building": "yes",
+      "layer": "1",
+      "name": "Guntur Supermarket",
+      "shop": "supermarket"
+    },
+    "lat": -8.4036374,
+    "lon": 115.2182644
+  },
+  {
+    "type": "way",
+    "id": 1110757048,
+    "center": {
+      "lat": -8.5439864,
+      "lon": 115.3259693
+    },
+    "tags": {
+      "addr:street": "Jalan Kesatrian",
+      "building": "yes",
+      "name": "Clandys Grosir Supermarket",
+      "opening_hours": "Mo-Su 09:00-21:00",
+      "shop": "supermarket"
+    },
+    "lat": -8.5439864,
+    "lon": 115.3259693
+  },
+  {
+    "type": "way",
+    "id": 1361103582,
+    "center": {
+      "lat": -8.8290479,
+      "lon": 115.1737449
+    },
+    "tags": {
+      "building": "yes",
+      "name": "Pepito Express Kutuh",
+      "shop": "supermarket"
+    },
+    "lat": -8.8290479,
+    "lon": 115.1737449
+  },
+  {
+    "type": "way",
+    "id": 1446517846,
+    "center": {
+      "lat": -8.6792122,
+      "lon": 115.1820723
+    },
+    "tags": {
+      "addr:city": "Denpasar",
+      "addr:street": "Jalan Gunung Soputan",
+      "landuse": "retail",
+      "leisure": "garden",
+      "name": "Soputan Fresh",
+      "opening_hours": "Mo-Su 7:00-22:00",
+      "shop": "supermarket"
+    },
+    "lat": -8.6792122,
+    "lon": 115.1820723
+  }
+]

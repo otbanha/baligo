@@ -1,254 +1,749 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- © OpenStreetMap contributors (ODbL) — https://www.openstreetmap.org/copyright -->
-<!-- 此檔案由 scripts/fetch-supermarkets.mjs 自動生成，透過 GitHub Actions 每半年更新一次 -->
 <kml xmlns="http://www.opengis.net/kml/2.2">
   <Document>
     <name>峇里島超市地圖 by gobaligo</name>
-    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 中大型超市，不含便利商店</description>
-
+    <description>資料來源：OpenStreetMap © OpenStreetMap contributors | 最後更新：2026-07-01 | 總計 99 間</description>
     <Folder>
-      <name>長谷</name>
+      <name>Pepito</name>
       <Placemark>
-        <name>Pepito Canggu</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Pepito Supermarket</name>
+        <description><![CDATA[📍 Kuta<br>🗺️ Jalan Kediri<br><a href="https://www.openstreetmap.org/node/2113367726" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.14236451839076,-8.64291363557518,0</coordinates>
+          <coordinates>115.1723037,-8.7383769,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Pepito Berawa</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Pepito Express</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Raya Kerobokan<br><a href="https://www.openstreetmap.org/node/2276393244" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.13314630674662,-8.630679871520032,0</coordinates>
+          <coordinates>115.1650088,-8.6732077,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Express Udayana 2</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>🗺️ Jl. Kampus Unud<br>📞 +62 887-3840-600<br><a href="https://www.openstreetmap.org/node/2488170753" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1789287,-8.7825068,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Express Batur Raya</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>🗺️ Jl. Batur Raya<br>📞 +62 361 770519<br><a href="https://www.openstreetmap.org/node/2863493411" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1878526,-8.7857318,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito</name>
+        <description><![CDATA[📍 Canggu<br>⏰ Mo-Su 07:00-23:00<br><a href="https://www.openstreetmap.org/node/3912876647" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1577539,-8.6438342,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito</name>
+        <description><![CDATA[📍 Canggu<br>🗺️ Jl. Petitenget<br>🌐 <a href="https://pepitosupermarket.com/" target="_blank" rel="noopener">https://pepitosupermarket.com/</a><br><a href="https://www.openstreetmap.org/node/4418630231" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1578188,-8.6734892,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Dewi Sri</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Dewi Sri<br>🌐 <a href="https://pepitosupermarket.com/" target="_blank" rel="noopener">https://pepitosupermarket.com/</a><br><a href="https://www.openstreetmap.org/node/4418635099" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1788572,-8.7087824,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Express Umalas</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jl. Dukuh Indah<br>📞 +62 878-8483-8854<br>🌐 <a href="https://pepitosupermarket.com/" target="_blank" rel="noopener">https://pepitosupermarket.com/</a><br><a href="https://www.openstreetmap.org/node/4418645319" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1630343,-8.6653704,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Express Bualu</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>🗺️ Jalan Bypass Ngurah Rai<br>📞 +62 361 759112<br>🌐 <a href="https://pepitosupermarket.com/" target="_blank" rel="noopener">https://pepitosupermarket.com/</a><br><a href="https://www.openstreetmap.org/node/4418658917" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2110538,-8.7893489,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>PEPITO express</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/4464274791" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2175995,-8.7999397,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito’s</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/4700346824" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2436676,-8.5329939,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/5816688453" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1331146,-8.6307022,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Market Eco Beach</name>
+        <description><![CDATA[📍 Canggu<br>🗺️ Jalan Pantai Batu Bolong<br>⏰ 07:00-23:00<br><a href="https://www.openstreetmap.org/node/5835409888" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1424242,-8.6431756,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Market Pepito Lovina</name>
+        <description><![CDATA[📍 Singaraja (North Bali)<br><a href="https://www.openstreetmap.org/node/5877761385" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.0214874,-8.1643684,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Market</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/6008991085" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1287332,-8.6279269,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Express</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/6224813586" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1515542,-8.819908,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/6265405287" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1611732,-8.7963437,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/7684318585" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1628094,-8.6581284,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Market</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/12843872702" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1814261,-8.5777586,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/13717807412" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1756644,-8.6326899,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Market Uluwatu</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>🗺️ Jalan Raya Uluwatu<br>📞 +62 361 703071<br><a href="https://www.openstreetmap.org/way/304203602" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1590954,-8.806877,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Express</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Raya Kerobokan<br>⏰ 07:00-22:00<br><a href="https://www.openstreetmap.org/way/420213085" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1651338,-8.6732187,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Market</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Bypass Gatot Subroto<br><a href="https://www.openstreetmap.org/way/445056653" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2331282,-8.636145,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Market - Andong</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/way/545154883" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2715261,-8.5041614,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Express</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/way/668412971" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1533654,-8.7921531,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Pepito Express Kutuh</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/way/1361103582" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1737449,-8.8290479,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
-
     <Folder>
-      <name>水明漾 / 庫塔</name>
+      <name>Grand Lucky</name>
       <Placemark>
-        <name>Pepito Seminyak</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Grand Lucky Supermarket</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Sunset Road<br>📞 +62 36-1762308<br><a href="https://www.openstreetmap.org/node/4260296585" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.17860610674663,-8.708702299787303,0</coordinates>
+          <coordinates>115.1836398,-8.7072045,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Pepito Kuta</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>GrandLucky Supermarket</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Bypass Ngurah Rai<br>⏰ Mo-Su 08:00-22:00<br><a href="https://www.openstreetmap.org/node/11736271969" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.17237174907544,-8.738121616079768,0</coordinates>
+          <coordinates>115.2585419,-8.6802243,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>GrandLucky Udayana</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Sutoyo<br>⏰ Mo-Su 10:00-22:00<br><a href="https://www.openstreetmap.org/way/312040356" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2172307,-8.6620678,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Grand Lucky Supermarket</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/way/435643212" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.183992,-8.7070194,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hardy&apos;s</name>
+      <Placemark>
+        <name>Hardy&apos;s Nusa Dua</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>🗺️ Jalan Bypass Ngurah Rai<br>📞 +62 36-1774639<br><a href="https://www.openstreetmap.org/node/829769130" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2146582,-8.7932382,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hardys</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jl. Tukad Pakerisan<br>📞 +62 36-1257950<br><a href="https://www.openstreetmap.org/node/4415977398" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2252917,-8.6910201,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Hardy&apos;s Mall Kuta</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jl. Kauripan<br><a href="https://www.openstreetmap.org/way/533844746" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1773752,-8.7268411,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Bali Deli</name>
+      <Placemark>
+        <name>Bali Deli</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Kunti<br>📞 +62 36-1738686<br><a href="https://www.openstreetmap.org/node/4410814235" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1705856,-8.6885171,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Carrefour / Transmart</name>
+      <Placemark>
+        <name>Transmart</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/11581230238" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1842996,-8.7021357,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Lotte Mart</name>
+      <Placemark>
+        <name>Lotte Mart</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Bypass Ngurah Rai<br><a href="https://www.openstreetmap.org/way/47994847" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2208231,-8.7136268,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Hypermart</name>
+      <Placemark>
+        <name>Hypermart</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/6795232555" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1852847,-8.7231202,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Papaya</name>
+      <Placemark>
+        <name>Papaya Supermarket</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Merta Nadi, Banjar Abian Base<br>📞 +62 361 759222<br><a href="https://www.openstreetmap.org/node/4180715456" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1830253,-8.7099341,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Tiara Dewata</name>
+      <Placemark>
+        <name>Tiara Dewata</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Diponegoro<br>⏰ Mo-Su 10:00-22:00<br><a href="https://www.openstreetmap.org/way/367257227" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2159663,-8.6755852,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Coco Supermarket</name>
+      <Placemark>
+        <name>Coco Mart</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/3800873045" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1463444,-8.6493815,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco mart</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/node/4448663296" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2217555,-8.7686213,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco mart</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/4744540121" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1768852,-8.6472347,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Express</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/4920268822" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1509155,-8.6728775,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Mart</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/5275082654" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2576138,-8.625154,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COCOmart</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/5336867721" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1595784,-8.8044438,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>COCOmart</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/5336868021" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1511337,-8.8028961,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Supermarket</name>
+        <description><![CDATA[📍 Kuta<br><a href="https://www.openstreetmap.org/node/6426483985" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1699743,-8.7778347,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Express</name>
+        <description><![CDATA[📍 Kuta<br><a href="https://www.openstreetmap.org/node/7041298791" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1656448,-8.7368534,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Supermarket</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Bypass Gatot Subroto<br>⏰ Mo-Fr 10:00-22:00; Sa-Su 10:00-23:00<br><a href="https://www.openstreetmap.org/node/12995413545" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2319534,-8.6342179,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Supermarket</name>
+        <description><![CDATA[📍 Tabanan<br><a href="https://www.openstreetmap.org/node/13305666754" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1076027,-8.6062305,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cocomart</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>🗺️ By Pass Ngurah Rai<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/way/367201301" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1944722,-8.7847332,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Supermarket</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/way/371348349" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2638389,-8.5180261,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Coco Supermarket Kerobokan Kelod</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Kayu Aya<br>📞 +62 36-1735618<br><a href="https://www.openstreetmap.org/way/395858372" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1627694,-8.6834514,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Cocomart</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/way/464475734" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2014401,-8.8063261,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>CocoMart</name>
+        <description><![CDATA[📍 Ubud<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/way/554783114" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2438101,-8.5273673,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Frestive</name>
+      <Placemark>
+        <name>Frestive Supermarket</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jl. Raya Kerobokan<br>📞 +62 36-1739144<br><a href="https://www.openstreetmap.org/node/2276393245" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1650478,-8.6733893,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Frestive</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/5930668085" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1390601,-8.6597213,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
+    <Folder>
+      <name>Bintang Supermarket</name>
+      <Placemark>
+        <name>Bintang Supermarket Seminyak</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Raya Seminyak<br>📞 +62 361 730552<br><a href="https://www.openstreetmap.org/node/1408180809" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1680418,-8.6942062,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Supermarket Bintang</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Raya Seminyak<br><a href="https://www.openstreetmap.org/node/4423130980" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1680731,-8.6943822,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Bintang Supermarket</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/way/363343454" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.16793731824379,-8.693464432789806,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Grand Lucky</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.18447720250279,-8.703742335416187,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Transmart（原家樂福）</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.18278469285443,-8.701047434826123,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Hypermart Mal Bali Galeria</name>
-        <description><![CDATA[🏬 位於 Mal Bali Galeria<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.18465064662513,-8.719411729258509,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Foodmart Supermarket Beachwalk</name>
-        <description><![CDATA[🏬 位於 Beachwalk 購物中心地下室<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.16955985023641,-8.712969269283954,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Papaya Fresh Gallery</name>
-        <description><![CDATA[🇯🇵 日系精品超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.18291457976223,-8.709431184845117,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Primo Supermarket Kuta Icon</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.16661462209012,-8.735182401298152,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Coco Supermarket Seminyak</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.16288504907544,-8.683388691665234,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Tiara Gatzu Supermarket</name>
-        <description><![CDATA[🏪 本地大型超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.17483847357579,-8.637506051993185,0</coordinates>
+          <coordinates>115.2407631,-8.6607076,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
-
     <Folder>
-      <name>登巴薩 / 沙努爾</name>
+      <name>Delta Dewata</name>
       <Placemark>
-        <name>Grand Lucky Denpasar</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Delta Dewata</name>
+        <description><![CDATA[📍 Ubud<br>⏰ 24/7<br><a href="https://www.openstreetmap.org/node/3761412238" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.2184295590026,-8.654341698698882,0</coordinates>
+          <coordinates>115.2632662,-8.5180422,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Grand Lucky Sanur</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Delta Dewata</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/3761416517" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.25760494345442,-8.6745554609725,0</coordinates>
+          <coordinates>115.264166,-8.5129482,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Primo Supermarket Level 21 Mall</name>
-        <description><![CDATA[🏬 位於 Level 21 Mall<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Delta Dewata</name>
+        <description><![CDATA[📍 Ubud<br>🗺️ Jalan Raya Andong<br>⏰ Mo-Su 08:00-22:00<br><a href="https://www.openstreetmap.org/way/204788415" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.21382050674589,-8.669587859483306,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Papaya Fresh Gallery Denpasar</name>
-        <description><![CDATA[🇯🇵 日系精品超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.24400722209015,-8.672882761576252,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Coco Supermarket Denpasar</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.23190929325338,-8.633917951369732,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Pande Putri Supermarket Batur Sari</name>
-        <description><![CDATA[🏪 本地大型超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.25494141775657,-8.695967956623154,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Pande Putri Supermarket Danau Buyan</name>
-        <description><![CDATA[🏪 本地大型超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.25567297357613,-8.681705623158782,0</coordinates>
-        </Point>
-      </Placemark>
-      <Placemark>
-        <name>Arta Sedana Sanur</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
-        <Point>
-          <coordinates>115.26271713339285,-8.68892481444385,0</coordinates>
+          <coordinates>115.2710852,-8.5078523,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
-
     <Folder>
-      <name>金巴蘭 / 努沙杜瓦</name>
+      <name>Nirmala</name>
       <Placemark>
-        <name>Pepito Jimbaran</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Nirmala</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/4227636491" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.16125913558221,-8.79630415374252,0</coordinates>
+          <coordinates>115.1887505,-8.6819882,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Pepito Nusa Dua</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Nirmala Swalayan</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>🗺️ Jalan Uluwatu 2<br>⏰ Mo-Su 09:00-22:00<br><a href="https://www.openstreetmap.org/node/4903858622" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.21114700674664,-8.789135741615638,0</coordinates>
+          <coordinates>115.1744567,-8.781753,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Pepito Bukit</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Nirmala</name>
+        <description><![CDATA[📍 Uluwatu<br>⏰ Mo-Sa 08:00-22:00<br><a href="https://www.openstreetmap.org/node/6124268322" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.1590206644178,-8.806571954198658,0</coordinates>
+          <coordinates>115.1313007,-8.7982555,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Nirmala Supermarket Jimbaran</name>
-        <description><![CDATA[🏪 本地大型超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Nirmala</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/6235125388" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.17446716008557,-8.781532928428138,0</coordinates>
+          <coordinates>115.2722219,-8.5548001,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
         <name>Nirmala Supermarket Pecatu</name>
-        <description><![CDATA[🏪 本地大型超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/7130959585" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.1368526177582,-8.828878256203541,0</coordinates>
+          <coordinates>115.149786,-8.820269,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Nirmala Supermarket Ungasan</name>
-        <description><![CDATA[🏪 本地大型超市<br><a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Nirmala Supermarket</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>🗺️ Jl. Kampus Unud<br><a href="https://www.openstreetmap.org/way/311712190" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.15564024474175,-8.815543842102635,0</coordinates>
+          <coordinates>115.1769882,-8.7896583,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Coco Supermarket Jimbaran</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Nirmala</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>🗺️ By Pass Ngurah Rai<br>⏰ Mo-Su 09:00-22:00<br><a href="https://www.openstreetmap.org/way/367196083" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.16987976441779,-8.777623831693731,0</coordinates>
+          <coordinates>115.1871663,-8.7835752,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Coco Supermarket Nusa Dua</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Nirmala Supermarket</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>🗺️ Jalan Raya Uluwatu<br>⏰ 07:00-22:00<br>📞 +62 361 705454<br><a href="https://www.openstreetmap.org/way/566540480" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.22312410674664,-8.804993641364852,0</coordinates>
+          <coordinates>115.1555439,-8.8158775,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
-
     <Folder>
-      <name>烏布</name>
+      <name>Popular</name>
       <Placemark>
-        <name>Pepito Ubud</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Popular Market</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/5409736126" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.27152533558221,-8.503960798785064,0</coordinates>
+          <coordinates>115.25963,-8.7063213,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Bintang Supermarket Ubud</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Popular Market</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/5427996523" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.25255754345976,-8.49953769351185,0</coordinates>
+          <coordinates>115.2592607,-8.7065677,0</coordinates>
         </Point>
       </Placemark>
       <Placemark>
-        <name>Coco Supermarket Ubud</name>
-        <description><![CDATA[<a href="https://www.openstreetmap.org" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <name>Popular</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/5664247921" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
         <Point>
-          <coordinates>115.26388517976014,-8.517695279930209,0</coordinates>
+          <coordinates>115.146657,-8.6692601,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Popular Market</name>
+        <description><![CDATA[📍 Ubud<br>⏰ Mo-Su 07:00-23:00<br><a href="https://www.openstreetmap.org/node/6942522085" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2646284,-8.5244583,0</coordinates>
         </Point>
       </Placemark>
     </Folder>
-
+    <Folder>
+      <name>Lainnya</name>
+      <Placemark>
+        <name>Cheap Supermarket</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br><a href="https://www.openstreetmap.org/node/4607413560" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1947336,-8.7926275,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Bagus Supermarket Raya Batubulan</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/5417895729" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2598866,-8.6309864,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Big supermarket</name>
+        <description><![CDATA[📍 Canggu<br><a href="https://www.openstreetmap.org/node/5859950585" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1382124,-8.6594469,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Sereh Gourmet Supermarket</name>
+        <description><![CDATA[📍 Nusa Dua / Jimbaran<br>⏰ Mo-Su 09:00-22:00<br>📞 +623614468171<br><a href="https://www.openstreetmap.org/node/6317224585" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1652049,-8.7852288,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Kayun Supermarket</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/node/6900078687" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.4900493,-8.6789907,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Foodmart gourmet supermarket</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/7021810447" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1852144,-8.7150559,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Glandys Supermarket</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/7082255047" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.322454,-8.5395192,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Festive Supermarket</name>
+        <description><![CDATA[📍 Canggu<br>🗺️ Jalan Pantai Batu Bolong<br><a href="https://www.openstreetmap.org/node/7236658885" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1420838,-8.6427685,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Supermarket Freshindo Yeh Aya</name>
+        <description><![CDATA[📍 Denpasar<br><a href="https://www.openstreetmap.org/node/9797666411" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2311145,-8.6773391,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clandys Grosir Supermarket</name>
+        <description><![CDATA[📍 Ubud<br><a href="https://www.openstreetmap.org/node/10162173050" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3258118,-8.5440626,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Foodmart gourmet supermarket</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/11581230237" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.185033,-8.7152198,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Primo supermarket</name>
+        <description><![CDATA[📍 Seminyak / Legian<br><a href="https://www.openstreetmap.org/node/11581305719" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1668958,-8.6826235,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Supermarket Super Ekonomi</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Veteran<br><a href="https://www.openstreetmap.org/way/372129634" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2176333,-8.6499534,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Supermarket SE</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Teuku Umar Barat<br><a href="https://www.openstreetmap.org/way/405961014" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1952571,-8.681191,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soputan Fresh</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Gunung Soputan<br>⏰ Mo-Su 7:00-22:00<br><a href="https://www.openstreetmap.org/way/414514991" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1862925,-8.6877659,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soputan Fresh</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Gunung Soputan<br>⏰ Mo-Su 7:00-22:00<br><a href="https://www.openstreetmap.org/way/414514992" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1864913,-8.6876615,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soputan Fresh</name>
+        <description><![CDATA[📍 Seminyak / Legian<br>🗺️ Jalan Gunung Soputan<br>⏰ Mo-Su 7:00-22:00<br><a href="https://www.openstreetmap.org/way/414514993" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1862495,-8.6882124,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Ayu Nadi Swalayan</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Gunung Soputan<br><a href="https://www.openstreetmap.org/way/414515002" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1904497,-8.6882456,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Supermarket SE</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Bypass Ngurah Rai<br><a href="https://www.openstreetmap.org/way/416070790" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.197751,-8.7199767,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Freshtive</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Raya Kerobokan<br>⏰ 07:00-22:00<br><a href="https://www.openstreetmap.org/way/420213086" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1651361,-8.6734346,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Supermarket SE</name>
+        <description><![CDATA[📍 Denpasar<br>🗺️ Jalan Mahendradatta<br><a href="https://www.openstreetmap.org/way/524545387" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1913743,-8.6570351,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Guntur Supermarket</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br><a href="https://www.openstreetmap.org/way/764185557" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.2182644,-8.4036374,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Clandys Grosir Supermarket</name>
+        <description><![CDATA[📍 Ubud<br>🗺️ Jalan Kesatrian<br>⏰ Mo-Su 09:00-21:00<br><a href="https://www.openstreetmap.org/way/1110757048" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.3259693,-8.5439864,0</coordinates>
+        </Point>
+      </Placemark>
+      <Placemark>
+        <name>Soputan Fresh</name>
+        <description><![CDATA[📍 Lainnya (Bali)<br>🗺️ Jalan Gunung Soputan<br>⏰ Mo-Su 7:00-22:00<br><a href="https://www.openstreetmap.org/way/1446517846" target="_blank" rel="noopener">OpenStreetMap</a>]]></description>
+        <Point>
+          <coordinates>115.1820723,-8.6792122,0</coordinates>
+        </Point>
+      </Placemark>
+    </Folder>
   </Document>
 </kml>
