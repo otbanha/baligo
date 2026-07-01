@@ -76,8 +76,29 @@ export async function onRequest({ params, env, request }) {
     }
   }
 
+  // Fallback 1：舊社群貼文常把短連結截斷（結尾殘留 '-'），嘗試以前綴唯一還原
   if (!response) {
-    return new Response('Short link not found', { status: 404 });
+    const base = id.replace(/-+$/, '');
+    if (base) {
+      const cands = staticLinks.filter(l =>
+        l.id === base || l.id.startsWith(base + '-') || base.startsWith(l.id + '-')
+      );
+      if (cands.length === 1) {
+        const uniq = cands[0];
+        response = new Response(
+          buildHtml(uniq.url, selfUrl, uniq.title || SITE_TITLE, uniq.description || SITE_DESCRIPTION, uniq.image || SITE_OG_IMAGE),
+          { headers: { 'Content-Type': 'text/html;charset=UTF-8', 'Cache-Control': 'public,max-age=300' } },
+        );
+      }
+    }
+  }
+
+  // Fallback 2：仍找不到就導回部落格首頁，避免舊連結 dead-end（好過硬 404）
+  if (!response) {
+    return new Response(null, {
+      status: 302,
+      headers: { Location: SITE_BASE + '/blog/', 'Cache-Control': 'public,max-age=300' },
+    });
   }
 
   // Store in edge cache – subsequent clicks to same /go/ID within 5 min skip KV
