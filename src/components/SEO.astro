@@ -70,6 +70,75 @@ const modIso  = updatedDate ? new Date(updatedDate).toISOString() : pubIso;
 // H2 headings for step-based schemas
 const h2s = headings.filter(h => h.depth === 2);
 
+// ── Markdown answer extraction (for FAQPage) ─────────────────────────────────
+// 擷取每個 H2 底下的第一個內容區塊（段落或清單）作為 FAQ 的真實答案，
+// 避免產生「詳見：URL」這種空答案佔位字（Google 會判定為無效 FAQ）。
+const stripInline = (s: string): string =>
+  s
+    .replace(/!\[[^\]]*\]\([^)]*\)/g, '')       // 圖片
+    .replace(/\[([^\]]+)\]\([^)]*\)/g, '$1')    // 連結 → 純文字
+    .replace(/\{\{[^}]*\}\}/g, '')              // remark {{block}} 指令
+    .replace(/[*_~`#>]+/g, '')                  // 強調/程式碼/標題/引用符號
+    .replace(/<[^>]+>/g, '')                    // 內嵌 HTML
+    .replace(/\s+/g, ' ')
+    .trim();
+
+const isHeading   = (l: string): boolean => /^#{1,6}\s/.test(l);
+const isListItem  = (l: string): boolean => /^\s*([-*+]|\d+\.)\s+/.test(l);
+const isBareUrl   = (l: string): boolean => /^https?:\/\/\S+$/.test(l.trim());
+const isImageOnly = (l: string): boolean => /^!\[[^\]]*\]\([^)]*\)\s*$/.test(l.trim());
+
+// 從 H2 之後、下一個標題之前的行中，取出第一個有意義的段落或清單
+function firstAnswerBlock(lines: string[]): string {
+  let i = 0;
+  while (i < lines.length) {
+    const t = lines[i].trim();
+    if (!t || isImageOnly(t) || isBareUrl(t)) { i++; continue; }
+    break;
+  }
+  if (i >= lines.length) return '';
+
+  const parts: string[] = [];
+  const startIsList = isListItem(lines[i]);
+  for (; i < lines.length; i++) {
+    const raw = lines[i];
+    const t = raw.trim();
+    if (!t) break;                              // 空行 → 區塊結束
+    if (isHeading(t)) break;                     // 下個標題 → 結束
+    if (startIsList && !isListItem(raw)) break;  // 清單結束
+    const cleaned = stripInline(raw.replace(/^\s*([-*+]|\d+\.)\s+/, ''));
+    if (cleaned) parts.push(cleaned);
+  }
+  let text = parts.join(startIsList ? '；' : ' ').replace(/\s+/g, ' ').trim();
+
+  const LIMIT = 300;
+  if (text.length > LIMIT) {
+    const cut = text.slice(0, LIMIT);
+    const stop = Math.max(
+      cut.lastIndexOf('。'), cut.lastIndexOf('！'),
+      cut.lastIndexOf('？'), cut.lastIndexOf('.'),
+    );
+    text = stop > 120 ? cut.slice(0, stop + 1) : cut.trim() + '…';
+  }
+  return text;
+}
+
+// 掃描原始 markdown，建立「H2 標題文字 → 首段答案」對照表
+function buildAnswerMap(md: string): Map<string, string> {
+  const map = new Map<string, string>();
+  const lines = md.split(/\r?\n/);
+  for (let i = 0; i < lines.length; i++) {
+    const m = /^##\s+(.+?)\s*$/.exec(lines[i]);  // 只吃 H2（### 不符 ^##\s）
+    if (!m) continue;
+    const key = stripInline(m[1]);
+    const buf: string[] = [];
+    for (let j = i + 1; j < lines.length && !isHeading(lines[j]); j++) buf.push(lines[j]);
+    const answer = firstAnswerBlock(buf);
+    if (key && answer.length >= 12 && !map.has(key)) map.set(key, answer);
+  }
+  return map;
+}
+
 // ── Hotel cache (build-time file read) ───────────────────────────────────────
 const CACHE_FILE = './src/data/hotel-cache.json';
 type HotelEntry = {
@@ -260,24 +329,30 @@ if ((cats.includes('簽證通關') || cats.includes('签证通关')) && h2s.leng
 }
 
 // ── [新手指南] & [旅行技巧] FAQPage ──────────────────────────────────────────
-const faqQuestions = h2s.filter(h => h.text?.trim()).slice(0, 10);
-if (
-  (cats.includes('新手指南') || cats.includes('旅行技巧')) &&
-  faqQuestions.length > 0
-) {
-  extraSchemas.push({
-    "@context": "https://schema.org",
-    "@type": "FAQPage",
-    "mainEntity": faqQuestions.map(h => ({
-      "@type": "Question",
-      "name": h.text.trim(),
-      "acceptedAnswer": {
-        "@type": "Answer",
-        "text": description || `詳見：${articleUrl}#${h.slug}`,
-        "url": `${articleUrl}#${h.slug}`,
-      },
-    })),
-  });
+// 只在 H2 底下能擷取到真實答案時才產出 FAQ，避免空答案佔位字。
+if (cats.includes('新手指南') || cats.includes('旅行技巧')) {
+  const answerMap = buildAnswerMap(body);
+  const faqItems = h2s
+    .filter(h => h.text?.trim())
+    .slice(0, 10)
+    .map(h => ({ h, answer: answerMap.get(stripInline(h.text)) }))
+    .filter((x): x is { h: typeof h2s[number]; answer: string } => !!x.answer);
+
+  if (faqItems.length > 0) {
+    extraSchemas.push({
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": faqItems.map(({ h, answer }) => ({
+        "@type": "Question",
+        "name": h.text.trim(),
+        "acceptedAnswer": {
+          "@type": "Answer",
+          "text": answer,
+          "url": `${articleUrl}#${h.slug}`,
+        },
+      })),
+    });
+  }
 }
 
 // ── [美食景點活動] LocalBusiness ─────────────────────────────────────────────
