@@ -157,7 +157,7 @@ if (existsSync(CACHE_FILE)) {
 // Extract Agoda hotel IDs from article body (only for 住宿推薦)
 const hotelIds: string[] = [];
 if (cats.includes('住宿推薦')) {
-  const re = /agoda\.com[^)'"\\s]*[?&]hid=(\d+)/g;
+  const re = /agoda\.com[^)'"\s]*[?&]hid=(\d+)/g;
   let m: RegExpExecArray | null;
   while ((m = re.exec(body)) !== null) {
     if (!hotelIds.includes(m[1])) hotelIds.push(m[1]);

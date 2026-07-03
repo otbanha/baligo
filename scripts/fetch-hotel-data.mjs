@@ -91,33 +91,49 @@ function scanArticles() {
   return result;
 }
 
-// ─── Agoda API ────────────────────────────────────────
-async function fetchHotel(hid) {
-  // Agoda Partner API — 若 endpoint 有誤請至 https://partners.agoda.com 確認
-  const url = `https://api.agoda.com/api/v1/en-us/hotels/${hid}`;
+// ─── Agoda API（affiliate long-tail API，支援批次查 hotelId）──────────────
+// 注意：此 API 只回傳「查詢日期有空房」的飯店，客滿/歇業的不會出現在結果中。
+async function fetchHotelBatch(hids) {
+  const url = 'https://affiliateapi7643.agoda.com/affiliateservice/lt_v1';
+  const checkIn = new Date(Date.now() + 30 * 86400000).toISOString().slice(0, 10);
+  const checkOut = new Date(Date.now() + 31 * 86400000).toISOString().slice(0, 10);
 
   const res = await fetch(url, {
+    method: 'POST',
     headers: {
-      'Authorization': `AgodaApiKey ${SITE_ID}:${API_KEY}`,
-      'Accept':        'application/json',
-      'Accept-Language': 'en-US',
+      'Authorization': `${SITE_ID}:${API_KEY}`,
+      'Content-Type':  'application/json',
     },
-    signal: AbortSignal.timeout(10000),
+    body: JSON.stringify({
+      criteria: {
+        additional: {
+          currency: 'USD',
+          language: 'en-us',
+          occupancy: { numberOfAdult: 2, numberOfChildren: 0 },
+        },
+        checkInDate: checkIn,
+        checkOutDate: checkOut,
+        hotelId: hids.map(Number),
+      },
+    }),
+    signal: AbortSignal.timeout(30000),
   });
 
-  if (!res.ok) throw new Error(`HTTP ${res.status}`);
+  if (!res.ok) throw new Error(`HTTP ${res.status}: ${(await res.text()).slice(0, 200)}`);
 
   const d = await res.json();
-  return {
-    id:         hid,
-    name:       d.hotelName  ?? d.name  ?? '',
-    stars:      d.starRating ?? d.star  ?? null,
-    rating:     +(d.reviewScore ?? d.rating ?? 0) || null,
-    reviews:    d.numberOfReviews ?? d.reviewCount ?? null,
-    lowestRate: d.lowestRate ?? d.price ?? null,
-    currency:   d.currency ?? 'USD',
-    city:       d.address?.city ?? d.city ?? 'Bali',
-  };
+  return (d.results ?? []).map(h => ({
+    id:         String(h.hotelId),
+    name:       h.hotelName ?? '',
+    stars:      h.starRating ?? null,
+    rating:     +(h.reviewScore ?? 0) || null,
+    reviews:    h.reviewCount ?? null,
+    lowestRate: h.dailyRate ?? null,
+    currency:   h.currency ?? 'USD',
+    city:       'Bali',
+    latitude:   h.latitude ?? null,
+    longitude:  h.longitude ?? null,
+  }));
 }
 
 // ─── 主程式 ───────────────────────────────────────────
@@ -148,27 +164,35 @@ async function main() {
   }
 
   console.log(`\n共 ${allHids.length} 個飯店 ID，開始取得資料...`);
-  let fetched = 0, skipped = 0, errors = 0;
+  let fetched = 0, missing = 0, errors = 0;
+  const staleHids = allHids.filter(hid => !isFresh(hid));
+  const skipped = allHids.length - staleHids.length;
 
-  for (const hid of allHids) {
-    if (isFresh(hid)) {
-      skipped++;
-      continue;
-    }
-
+  const CHUNK = 50;
+  for (let i = 0; i < staleHids.length; i += CHUNK) {
+    const chunk = staleHids.slice(i, i + CHUNK);
     try {
-      const data = await fetchHotel(hid);
-      cache.hotels[hid]    = data;
-      cache.updatedAt[hid] = Date.now();
-      fetched++;
-      console.log(`  ✓ hid=${hid}: ${data.name} ★${data.stars} ${data.rating}/10 (${data.reviews} 則評論)`);
+      const results = await fetchHotelBatch(chunk);
+      const byId = new Map(results.map(h => [h.id, h]));
+      for (const hid of chunk) {
+        const data = byId.get(String(hid));
+        if (data) {
+          cache.hotels[hid]    = data;
+          cache.updatedAt[hid] = Date.now();
+          fetched++;
+          console.log(`  ✓ hid=${hid}: ${data.name} ★${data.stars} ${data.rating}/10 (${data.reviews} 則評論)`);
+        } else {
+          // API 沒回傳＝查詢日期無空房或已下架；保留舊快取（若有）
+          missing++;
+        }
+      }
     } catch (e) {
-      errors++;
-      console.log(`  ✗ hid=${hid}: ${e.message}`);
+      errors += chunk.length;
+      console.log(`  ✗ 批次 ${i / CHUNK + 1}（${chunk.length} 筆）失敗: ${e.message}`);
     }
-
-    await new Promise(r => setTimeout(r, 300)); // rate limiting
+    await new Promise(r => setTimeout(r, 1000)); // rate limiting
   }
+  if (missing) console.log(`  ⚠ ${missing} 筆 API 未回傳（無空房或已下架），未寫入快取`);
 
   writeFileSync(CACHE_FILE, JSON.stringify(cache, null, 2));
   console.log(`\n✅ 完成：取得 ${fetched}，快取跳過 ${skipped}，錯誤 ${errors}`);
