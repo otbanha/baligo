@@ -230,6 +230,47 @@ function rebuildBody(segments, translatedMap) {
 
 // ── DeepSeek API ──────────────────────────────────────────────────────────────
 
+// 遞迴蒐集回傳 JSON 中所有陣列（含巢狀）。用來對付模型偶爾多包一層
+// 例如 {"translations": [{"translations": [...真正的翻譯陣列...]}]} 的情況。
+function collectArrays(node, out, depth) {
+  if (depth > 5 || node == null || typeof node !== 'object') return;
+  if (Array.isArray(node)) {
+    out.push(node);
+    for (const el of node) collectArrays(el, out, depth + 1);
+  } else {
+    for (const v of Object.values(node)) collectArrays(v, out, depth + 1);
+  }
+}
+
+// 把單一元素正規化成字串；若是 {text|translation|value: "..."} 之類物件則取其字串值。
+function normalizeItem(v) {
+  if (typeof v === 'string') return v;
+  if (v && typeof v === 'object' && !Array.isArray(v)) {
+    const s = Object.values(v).find((x) => typeof x === 'string');
+    if (s != null) return s;
+  }
+  return null; // 無法轉成字串 → 交由呼叫端 fallback 原文
+}
+
+// 從模型回傳的 JSON 挑出正確的「字串陣列」，優先取長度等於 expectedLen 的候選，
+// 避免整包物件被誤當成單一元素寫進 frontmatter（曾導致 title 變 object、build 失敗）。
+function extractStringArray(parsed, expectedLen) {
+  const arrays = [];
+  collectArrays(parsed, arrays, 0);
+  if (!arrays.length) return null;
+  const normalized = arrays.map((a) => a.map(normalizeItem));
+  const strCount = (a) => a.filter((x) => typeof x === 'string').length;
+  // 1) 長度符合且全為字串
+  let best = normalized.find((a) => a.length === expectedLen && a.every((x) => typeof x === 'string'));
+  if (best) return best;
+  // 2) 長度符合（少數 null 由呼叫端 fallback）
+  best = normalized.find((a) => a.length === expectedLen);
+  if (best) return best;
+  // 3) 退而求其次：字串數量最多的候選
+  best = normalized.slice().sort((a, b) => strCount(b) - strCount(a))[0];
+  return best ?? null;
+}
+
 async function callDeepSeek(texts, lang) {
   if (!DEEPSEEK_API_KEY) throw new Error('DEEPSEEK_API_KEY 未設定');
 
@@ -257,15 +298,17 @@ async function callDeepSeek(texts, lang) {
 
   const data = await res.json();
   const raw = data.choices?.[0]?.message?.content ?? '{}';
-  const parsed = JSON.parse(raw);
+  let parsed;
+  try {
+    parsed = JSON.parse(raw);
+  } catch {
+    throw new Error(`API 回傳非 JSON：${raw.slice(0, 300)}`);
+  }
 
-  // 支援 {"translations":[...]} 或任何 array value
-  if (Array.isArray(parsed)) return parsed;
-  if (Array.isArray(parsed.translations)) return parsed.translations;
-  const arrVal = Object.values(parsed).find(v => Array.isArray(v));
-  if (arrVal) return arrVal;
-
-  throw new Error(`API 回傳格式不符：${raw.slice(0, 300)}`);
+  // 穩健擷取字串陣列（支援 [...]、{"translations":[...]}、以及多包一層的巢狀物件）
+  const arr = extractStringArray(parsed, texts.length);
+  if (!arr) throw new Error(`API 回傳格式不符：${raw.slice(0, 300)}`);
+  return arr;
 }
 
 /**
@@ -315,9 +358,15 @@ async function translateTexts(texts, lang) {
 
     for (let j = 0; j < batch.length; j++) {
       const { origIdx, text, videosSaved } = batch[j];
+      const t = translated[j];
+      if (typeof t !== 'string') {
+        // 翻譯缺失或格式異常（非字串）：暫用原文，且「不」寫入快取，讓下次可重試。
+        // 避免把物件/undefined 寫進內文或 frontmatter。
+        results[origIdx] = text;
+        continue;
+      }
       // 翻譯結果還原 video URL
-      const raw = translated[j] ?? text;
-      const result = restoreVideoUrls(raw, videosSaved);
+      const result = restoreVideoUrls(t, videosSaved);
       cache.paragraphs[`${md5(text)}:${lang}`] = result;
       results[origIdx] = result;
     }
@@ -396,7 +445,12 @@ async function translateFile(filename, lang) {
 
   // 更新 frontmatter
   const newFm = { ...fm, lang, _srcHash: srcHash };
-  fmKeys.forEach((key, i) => { newFm[key] = translated[i] ?? fm[key]; });
+  fmKeys.forEach((key, i) => {
+    // 最後防線：frontmatter（title/description）只接受非空字串，否則保留原文，
+    // 確保絕不會把物件寫進 frontmatter（Astro schema 會直接 build 失敗）。
+    const t = translated[i];
+    newFm[key] = (typeof t === 'string' && t.trim()) ? t : fm[key];
+  });
 
   // 修正無效 tags（空字串、多行字串 → 空陣列或正確陣列）
   if (newFm.tags != null && !Array.isArray(newFm.tags)) {
