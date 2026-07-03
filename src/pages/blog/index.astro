@@ -1502,9 +1502,9 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
     min-height: 44px;
     padding: 0.4em 0.9em;
     border-radius: 20px;
-    border: 1px solid rgba(197,160,89,0.35);
-    background: rgba(255,255,255,0.08);
-    color: #e8d5a3;
+    border: 1px solid rgba(255,255,255,0.2);
+    background: rgba(255,255,255,0.1);
+    color: rgba(255,255,255,0.85);
     font-size: 0.83em;
     font-weight: 600;
     white-space: nowrap;
@@ -1512,25 +1512,25 @@ main { width: 100%; max-width: 100%; margin: 0; padding: 2em 2em 4em; overflow-x
     justify-content: center;
     transition: background 0.15s, border-color 0.15s;
   }
-  .category-item:hover { background: rgba(197,160,89,0.2); color: #fff; }
+  .category-item:hover { background: rgba(255,255,255,0.18); color: #fff; }
   .category-item.active {
-    background: var(--gold, #C5A059);
-    color: var(--ocean, #5D4037);
-    border-color: var(--gold, #C5A059);
+    background: var(--accent, #E63946);
+    color: #fff;
+    border-color: var(--accent, #E63946);
     font-weight: 700;
   }
   .cat-count {
     display: none;
     font-size: 0.72em;
-    background: rgba(197,160,89,0.2);
-    color: rgba(232,213,163,0.85);
+    background: rgba(255,255,255,0.15);
+    color: rgba(255,255,255,0.8);
     padding: 0.05em 0.4em;
     border-radius: 10px;
     font-weight: 600;
   }
   .category-item.active .cat-count {
-    background: rgba(93,64,55,0.25);
-    color: var(--ocean, #5D4037);
+    background: rgba(255,255,255,0.25);
+    color: #fff;
   }
 
   main { padding: 1.2em 1em 3em; }
