@@ -13,10 +13,13 @@ embeds:
     platform: youtube
     url: https://youtu.be/ByGkcmys01g
 ---
+Update: 2026/07/03
 
 [🚗 想預估 Gojek 車資？請點擊這裡](/map/gojek-fare/)
 
 ![【印尼/峇里島必備APP】Gojek / Grab 叫車圖文教學指南](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
+
+**先講結論**：出發前**在台灣就先下載並用台灣手機號碼註冊**（避免落地後收不到 OTP 驗證碼卡關），到了峇里島綁定信用卡叫車最方便。兩款 App 功能幾乎一樣——**Grab** 國際卡支援度高、有中文介面；**Gojek** 是印尼本土品牌，刷卡失敗可到 Alfamart 超商儲值 GoPay。以下是完整叫車圖文教學。
 
 ## Gojek / Grab 的使用方式
 
