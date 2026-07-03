@@ -41,7 +41,7 @@ _srcHash: bd8a8e10f7693d7907305de5db1ab056
 
 ## 2. **购物时要注意什么？**
 
-![2. 购物时要注意什么？](https://images.gobaligo.id/images/2026-04/1776321690797-untitled_design_24_.webp)
+![2. 購物時要注意什麼？](https://images.gobaligo.id/images/2026-04/1776321690797-untitled_design_24_.webp)
 
 - **只限**张贴 **「Tax Refund for Tourists」** 或 **「VAT Refund for Tourists」** 标志的商店（大多数大型百货、品牌店、库塔、水明漾、乌布等热门区都有）。
 - 购物时**一定要出示护照**，告诉店员你要退税（VAT Refund），店家会开具**附付款收据的正式税务发票**（valid tax invoice）。
@@ -51,7 +51,6 @@ _srcHash: bd8a8e10f7693d7907305de5db1ab056
 - 保留所有发票、包装和商品原封不动（离境时要检查）。
 
 **小提醒**：不是所有商店都有标志，先问店员或查官方网站 [www.pajak.go.id](http://www.pajak.go.id) 确认参与店家名单。
-
 ## 3. **退税流程（巴厘岛最常用方式）**
 
 1. **购物完成后**：收集所有税务发票。
@@ -80,7 +79,7 @@ _srcHash: bd8a8e10f7693d7907305de5db1ab056
 
 ## 6. **实用小Tips（巴厘岛购物族必看）**
 
-![6. 实用小Tips（巴厘岛购物族必看）](https://images.gobaligo.id/images/2026-04/1776321764381-vat_refund_11zon.jpeg)
+![6. 實用小Tips（峇里島購物族必看）](https://images.gobaligo.id/images/2026-04/1776321764381-vat_refund_11zon.jpeg)
 
 ▲机场的退税柜台
 

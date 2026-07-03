@@ -56,10 +56,9 @@ _srcHash: f57f1a84ceeb6c36e9ed452ef4a9fdfd
 
 喺咁嘅情況下，原本幾乎已經諗住放棄。
 
-![一個漏咗嘅頸枕](https://images.gobaligo.id/images/2026-04/1777187750922-screenshot_20260426_133549.jpg)
+![一顆被遺忘的頸枕](https://images.gobaligo.id/images/2026-04/1777187750922-screenshot_20260426_133549.jpg)
 
 ***
-
 ## 📱轉機出現：叫車平台嘅隱藏功能
 
 但見到女朋友情緒低落，男朋友突然諗到一個可能性：
@@ -114,10 +113,9 @@ https://youtu.be/ByGkcmys01g
 
 呢個簡單嘅動作，就令成段旅程嘅情緒即刻被拉返正軌。
 
-![沉默但關鍵嘅一刻](https://images.gobaligo.id/images/2026-04/1777187824352-screenshot_20260426_133636.jpg)
+![沉默卻關鍵的一刻](https://images.gobaligo.id/images/2026-04/1777187824352-screenshot_20260426_133636.jpg)
 
 ***
-
 ## 💸一份額外嘅心意
 
 返到房之後，兩個人仲係覺得成個過程好神奇：
@@ -126,14 +124,13 @@ https://youtu.be/ByGkcmys01g
 👉 大約1個鐘
 👉 只係USD$4
 
-![一份額外嘅心意](https://images.gobaligo.id/images/2026-04/1777187885962-screenshot_20260426_133622.jpg)
+![一份額外的心意](https://images.gobaligo.id/images/2026-04/1777187885962-screenshot_20260426_133622.jpg)
 
 最後，佢哋決定透過平台額外補上USD$2作為貼士，表示感謝。
 
 > [去印尼/峇里島旅行必備嘅八大app推薦](/blog/bali-travel-apps-guide/)
 
 ***
-
 ## 🙏幕後功臣：酒店職員
 
 除咗司機之外，水明漾原本住嘅酒店職員都功不可沒：

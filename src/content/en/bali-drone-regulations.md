@@ -32,7 +32,7 @@ tags:
   - 峇里島自由行
   - 巴厘岛自由行
   - BaliTravelTips
-heroImage: >-
+heroImage: https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
@@ -58,10 +58,9 @@ Planning to take your drone to Bali for dreamy rice fields and sunset beaches bu
 
 ## 1. Do I Need to Apply for Permission?
 
-![1. Do I Need to Apply for Permission?](https://images.gobaligo.id/images/2026-04/1776665614492-screenshot_2026-04-20-13-11-40-656_md.obsidian-edit.jpg)
+![1. 我需要申請許可嗎？](https://images.gobaligo.id/images/2026-04/1776665614492-screenshot_2026-04-20-13-11-40-656_md.obsidian-edit.jpg)
 
 **Good news**: 99% of travelers fall into the 'no application needed' category!
-
 ## 2. The Most Important 'No-Fly' Rules (Remember These 8 Points to Avoid Trouble)
 
 - **Absolutely no flying within 15 km** of Bali's Denpasar Airport (many popular beaches are actually within this zone!)
@@ -104,8 +103,7 @@ For personal use, customs usually won’t hassle you with one drone, but make su
 - Be mindful of traditional kite season (especially June-August)
 - Strongly recommend drone insurance (covers water damage or accidents involving people)
 
-![5. Practical Tips for Flying in Bali (for smoother, more stu](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
-
+![5. 峇里島飛行實用 Tips（讓你飛得更順、更美）](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
 ## Frequently Asked Questions
 
 **Q: Can I fly over hotel pools?**

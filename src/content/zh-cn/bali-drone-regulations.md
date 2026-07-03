@@ -26,7 +26,7 @@ tags:
   - 峇里島自由行
   - 巴厘岛自由行
   - BaliTravelTips
-heroImage: >-
+heroImage: https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
@@ -52,10 +52,9 @@ _srcHash: 9eb2c23cbd7ec059d1663af9ae535e0f
 
 ## 1. 我需要申请许可吗？
 
-![1. 我需要申请许可吗？](https://images.gobaligo.id/images/2026-04/1776665614492-screenshot_2026-04-20-13-11-40-656_md.obsidian-edit.jpg)
+![1. 我需要申請許可嗎？](https://images.gobaligo.id/images/2026-04/1776665614492-screenshot_2026-04-20-13-11-40-656_md.obsidian-edit.jpg)
 
 **好消息**：99% 的旅客都符合「不需要申请」这一栏！
-
 ## 2. 最重要的「不能飞」铁律（记住这 8 点就不会踩雷）
 
 - 距离巴厘岛登巴萨机场 **15 公里内** 绝对禁飞（很多热门海滩其实都在范围内！）
@@ -98,8 +97,7 @@ https://youtube.com/shorts/i7GCuR3uI-k?si=ZgiVYpUZYHojqrKY
 - 注意当地传统风筝季节（尤其 6-8 月）
 - 强烈建议买无人机保险（掉海里或砸到人都有保障）
 
-![5. 巴厘岛飞行实用 Tips（让你飞得更顺、更美）](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
-
+![5. 峇里島飛行實用 Tips（讓你飛得更順、更美）](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
 ## 常见问题 Q&A
 
 **Q：可以在酒店泳池上空飞行吗？**

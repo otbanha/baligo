@@ -44,7 +44,7 @@ The Indonesian government offers a 'Tax Refund for Tourists' program, allowing e
 
 ## 2. **What to Pay Attention to While Shopping?**
 
-![2. What to Pay Attention to While Shopping?](https://images.gobaligo.id/images/2026-04/1776321690797-untitled_design_24_.webp)
+![2. 購物時要注意什麼？](https://images.gobaligo.id/images/2026-04/1776321690797-untitled_design_24_.webp)
 
 - **Only** shops displaying the **'Tax Refund for Tourists'** or **'VAT Refund for Tourists'** logos (most large department stores, brand outlets, and popular areas like Kuta, Seminyak, Ubud, etc., have them).
 - **Always show your passport** when shopping and inform the staff that you want a VAT refund. The store will issue a **valid tax invoice with payment receipt**.
@@ -54,7 +54,6 @@ The Indonesian government offers a 'Tax Refund for Tourists' program, allowing e
 - Keep all invoices, packaging, and goods intact (they will be checked upon departure).
 
 **Tip**: Not all stores display the logo, so ask the staff or check the official website [www.pajak.go.id](http://www.pajak.go.id) for a list of participating stores.
-
 ## 3. **Refund Process (Most Commonly Used in Bali)**
 
 1. **After Shopping**: Collect all tax invoices.
@@ -83,7 +82,7 @@ The Indonesian government offers a 'Tax Refund for Tourists' program, allowing e
 
 ## 6. **Handy Tips (Must-Read for Bali Shoppers)**
 
-![6. Handy Tips (Must-Read for Bali Shoppers)](https://images.gobaligo.id/images/2026-04/1776321764381-vat_refund_11zon.jpeg)
+![6. 實用小Tips（峇里島購物族必看）](https://images.gobaligo.id/images/2026-04/1776321764381-vat_refund_11zon.jpeg)
 
 ▲ Airport Tax Refund Counter
 

@@ -61,10 +61,9 @@ The discovery was made at 7 PM, by which time the couple had already arrived in 
 
 Under such circumstances, they were almost ready to give up.
 
-![A Forgotten Neck Pillow](https://images.gobaligo.id/images/2026-04/1777187750922-screenshot_20260426_133549.jpg)
+![一顆被遺忘的頸枕](https://images.gobaligo.id/images/2026-04/1777187750922-screenshot_20260426_133549.jpg)
 
 ***
-
 ## 📱 A Turning Point: The Hidden Feature of Ride-Hailing Apps
 
 But seeing his girlfriend feeling down, the guy suddenly thought of a possibility:
@@ -119,10 +118,9 @@ He didn't say much, just smiled and handed over the item.
 
 This simple gesture instantly brought the journey's emotions back on track.
 
-![A Silent Yet Crucial Moment](https://images.gobaligo.id/images/2026-04/1777187824352-screenshot_20260426_133636.jpg)
+![沉默卻關鍵的一刻](https://images.gobaligo.id/images/2026-04/1777187824352-screenshot_20260426_133636.jpg)
 
 ***
-
 ## 💸A Little Extra Gesture
 
 Back in their room, the couple was still amazed by the whole experience:
@@ -131,14 +129,13 @@ Back in their room, the couple was still amazed by the whole experience:
 👉 About 1 hour
 👉 Only USD$4
 
-![A Little Extra Gesture](https://images.gobaligo.id/images/2026-04/1777187885962-screenshot_20260426_133622.jpg)
+![一份額外的心意](https://images.gobaligo.id/images/2026-04/1777187885962-screenshot_20260426_133622.jpg)
 
 In the end, they decided to add an extra IDR 30,000 tip through the platform as a token of their gratitude.
 
 > [8 Must-Have Apps for Traveling to Indonesia/Bali](/blog/bali-travel-apps-guide/)
 
 ***
-
 ## 🙏The Unsung Heroes: Hotel Staff
 
 Apart from the driver, the staff at their original accommodation in Seminyak also played a crucial role:

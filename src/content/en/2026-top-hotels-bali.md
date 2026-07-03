@@ -56,7 +56,7 @@ Just this month, it won the highest honor in the "2026 Indonesia's Best New Hote
 
 ## Located in Sanur, This Choice of Location is Somewhat Unexpected
 
-![Located in Sanur, This Choice of Location is Somewhat Unexpe](https://images.gobaligo.id/images/2026-04/1776479383196-stunning-beachfront-bali-resort-wins-best-new-hotel-in-2026-at-tourism-awards-768x512.jpg)
+![蓋在沙努爾，這個選址有點出乎意料](https://images.gobaligo.id/images/2026-04/1776479383196-stunning-beachfront-bali-resort-wins-best-new-hotel-in-2026-at-tourism-awards-768x512.jpg)
 
 Sanur has long been positioned as the "quieter version of Bali"—without the chaos of Kuta or the hustle of Seminyak. Those who love it seek a place that's a bit traditional and slower-paced.
 
@@ -65,7 +65,6 @@ But the emergence of The Meru Sanur suddenly offers Sanur a completely different
 It is located at the northern end of Sanur, within the 42-hectare "Sanur Special Economic Zone", which also houses the Bali International Hospital, Bali Beach Convention Center, and Ethnobotanical Garden. It sounds very official, but in reality, the 1-kilometer stretch of white sand private beach is the highlight.
 
 ***
-
 ## What's It Like to Stay There?
 
 The lobby is so high it resembles a temple, with the sound of flowing water, traditional Balinese stone carvings, and large wooden structures appearing alternately. At first glance, you'll understand why this place won design awards.
@@ -74,30 +73,29 @@ Four buildings are connected by breezy walkways, extensively using local wood an
 
 All rooms start at the 'suite' level—the most basic Tropical Suite spans 83 square meters, complete with a freestanding bathtub, rain shower, and private balcony. The top-tier Presidential Suite covers 209 square meters—it's so spacious that it might take a moment to locate the bathroom. The design incorporates abundant Indonesian wood and traditional Balinese craftsmanship, offering a warm sense of refinement rather than cold modern luxury.
 
-![What's It Like to Stay There?](https://images.gobaligo.id/images/2026-04/1776477261153-537982534.jpg)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477261153-537982534.jpg)
 
-![What's It Like to Stay There?](https://images.gobaligo.id/images/2026-04/1776477261595-537983614.jpg)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477261595-537983614.jpg)
 
-![What's It Like to Stay There?](https://images.gobaligo.id/images/2026-04/1776477262414-575293685.jpg)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477262414-575293685.jpg)
 
-![What's It Like to Stay There?](https://images.gobaligo.id/images/2026-04/1776477262854-537982447.jpg)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477262854-537982447.jpg)
 
-![What's It Like to Stay There?](https://images.gobaligo.id/images/2026-04/1776477263396-2ce8751393783e79ec077dd2adf4dc61.webp)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477263396-2ce8751393783e79ec077dd2adf4dc61.webp)
 
-![What's It Like to Stay There?](https://images.gobaligo.id/images/2026-04/1776477263994-8b8afa9c27b4d95ba8efe416dfe60ec5.webp)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477263994-8b8afa9c27b4d95ba8efe416dfe60ec5.webp)
 
-![What's It Like to Stay There?](https://images.gobaligo.id/images/2026-04/1776477264527-0267ab8bb759f1442ea29ba0efff2808.webp)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477264527-0267ab8bb759f1442ea29ba0efff2808.webp)
 
-![What's It Like to Stay There?](https://images.gobaligo.id/images/2026-04/1776477265019-549267171.jpg)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477265019-549267171.jpg)
 
-![What's It Like to Stay There?](https://images.gobaligo.id/images/2026-04/1776477265525-2024-07-02.webp)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477265525-2024-07-02.webp)
 
-![What's It Like to Stay There?](https://images.gobaligo.id/images/2026-04/1776477265942-a654724c299c2c110131e3bcb1612476.webp)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477265942-a654724c299c2c110131e3bcb1612476.webp)
 
 For dining, the main restaurant Arunika serves a breakfast buffet starting at 6:30 AM daily. The Sunday brunch is reportedly spectacular, featuring roasted lamb, pork, live grilled prawns, sashimi, and a dessert station, rivaling the specialty meals of Bali's established hotels. The Taru Pramana spa focuses on holistic healing, emphasizing mind-body balance beyond just massage services.
 
 ***
-
 ## What Does Tatler Asia's Recognition Mean?
 
 The awards ceremony was held at the Bali Beach Convention Center next to The Meru Sanur, covering hotel, restaurant, and bar selections across Asia.

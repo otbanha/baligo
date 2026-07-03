@@ -26,7 +26,7 @@ _srcHash: f76c1baec9b201e9b63d82ced936a8a1
 
 喺**峇里島**旅遊，Gojek 同 Grab 係兩款必備嘅「國民 App」。佢哋嘅功能同介面極為相似，就好似 Uber 嘅兩個唔同品牌版本。
 
-![Gojek / Grab 嘅使用方式](https://images.gobaligo.id/vocus/vocus_a3735af38f1bb9994a7ec1ec8fafe01e.png)
+![Gojek / Grab 的使用方式](https://images.gobaligo.id/vocus/vocus_a3735af38f1bb9994a7ec1ec8fafe01e.png)
 
 以下係為您整理嘅 step-by-step 使用指南，幫您快速上手：
 
@@ -58,7 +58,7 @@ _srcHash: f76c1baec9b201e9b63d82ced936a8a1
 4. **查看價錢：** 系統會彈出確定嘅總金額（明碼實價，唔使跳錶或者講價）。
 5. **點擊預訂 (Order/Book)：** 系統會配對司機，畫面會顯示司機嘅名、車牌同位置。
 
-![Gojek / Grab 嘅使用方式](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
+![Gojek / Grab 的使用方式](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
 
 **第四步：同司機溝通**
 
@@ -77,7 +77,6 @@ _srcHash: f76c1baec9b201e9b63d82ced936a8a1
 - **貼士：** 如果你覺得司機服務好好（例如幫手搬重嘢或者避開嚴重塞車），你可以喺 App 上俾 5,000–10,000 IDR 嘅小額貼士以表心意。
 
 https://youtu.be/ByGkcmys01g
-
 ## 使用有限制
 
 喺峇里島嘅一啲特定區域，而家依然有反對線上叫車嘅告示牌，主要目的係為咗保護當地傳統的士同包車司機嘅生計。

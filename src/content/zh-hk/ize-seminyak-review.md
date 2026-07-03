@@ -33,11 +33,11 @@ latitude: -8.68421363830566
 longitude: 115.161010742188
 ---
 
-![IZE Seminyak｜水明漾高 CP 值精品酒店深度評測 2026 - Go Bali Go](https://images.gobaligo.id/images/2026-04/1776244520574-954a1216262b0375452a8286fe715ba5.webp)
+![IZE Seminyak｜水明漾高 CP 值精品飯店深度評測 2026 - Go Bali Go](https://images.gobaligo.id/images/2026-04/1776244520574-954a1216262b0375452a8286fe715ba5.webp)
 
 喺 Seminyak 嘅酒店選項裏面，IZE Seminyak 算係一個好有辨識度嘅存在。就坐落喺 Jl. Kayu Aya 68 號——亦即係 Eat Street 嘅正中心——呢間四星精品酒店走嘅係 Scandinavian 現代簡約風，冰藍色調配搭大量白色同木質元素，整體感覺俐落、年輕、有設計感，住入嚟嘅客人大多係30歲上下想要玩夜生活同逛街嘅旅客。共 81 間客房、六層樓，規模唔大但設施完整，服務口碑一貫好好。
 
-![IZE Seminyak｜水明漾高 CP 值精品酒店深度評測 2026 - Go Bali Go](https://images.gobaligo.id/images/2026-04/1776244750774-mixcollage-15-apr-2026-04-18-pm-2978.jpg)
+![IZE Seminyak｜水明漾高 CP 值精品飯店深度評測 2026 - Go Bali Go](https://images.gobaligo.id/images/2026-04/1776244750774-mixcollage-15-apr-2026-04-18-pm-2978.jpg)
 
 ***
 

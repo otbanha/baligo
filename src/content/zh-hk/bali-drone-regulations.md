@@ -26,7 +26,7 @@ tags:
   - 峇里島自由行
   - 巴厘岛自由行
   - BaliTravelTips
-heroImage: >-
+heroImage: https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
   https://images.gobaligo.id/images/2026-04/1776660373472-mixcollage-20-apr-2026-11-37-am-6828.jpg
@@ -98,8 +98,7 @@ https://youtube.com/shorts/i7GCuR3uI-k?si=ZgiVYpUZYHojqrKY
 - 注意當地傳統風箏季節（尤其 6-8 月）
 - 強烈建議買無人機保險（跌落海或者砸到人都有保障）
 
-![5. 峇里島飛行實用 Tips（讓你飛得更順、更靚）](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
-
+![5. 峇里島飛行實用 Tips（讓你飛得更順、更美）](https://images.gobaligo.id/images/2026-04/1776664958144-20260420_055753_0_utc_0.png)
 ## 常見問題 Q&A
 
 **Q：可以飛酒店泳池上空嗎？**

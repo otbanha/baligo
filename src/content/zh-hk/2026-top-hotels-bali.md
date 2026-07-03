@@ -48,7 +48,7 @@ _srcHash: 18d90ccc69d3edf507bcb178e23779ec
 
 ## 起喺沙努爾，呢個選址有啲出乎意料
 
-![起喺沙努爾，呢個選址有啲出乎意料](https://images.gobaligo.id/images/2026-04/1776479383196-stunning-beachfront-bali-resort-wins-best-new-hotel-in-2026-at-tourism-awards-768x512.jpg)
+![蓋在沙努爾，這個選址有點出乎意料](https://images.gobaligo.id/images/2026-04/1776479383196-stunning-beachfront-bali-resort-wins-best-new-hotel-in-2026-at-tourism-awards-768x512.jpg)
 
 沙努爾（Sanur）長期以來被定位成「安靜版峇里島」——冇庫塔嘅混亂、冇水明漾嘅喧囂，鍾意佢嘅人係想要一個有啲傳統、步調慢啲嘅地方。
 
@@ -57,7 +57,6 @@ _srcHash: 18d90ccc69d3edf507bcb178e23779ec
 佢位處沙努爾北端，佔地 42 公頃嘅「沙努爾特別經濟區」內，呢個區域同時坐擁峇里島國際醫院（Bali International Hospital）、峇里海灘會議中心、民族藥用植物園等設施。聽落好官方，但實際住落，嗰 1 公里長嘅白沙私人海灘線先係重點。
 
 ***
-
 ## 住落去係咩感覺？
 
 大廳挑高到似一座神廟，流水聲、峇里島傳統石雕、大型木質建築交錯出現，第一眼見到就會明白點解呢度可以攞設計類獎項。
@@ -66,30 +65,29 @@ _srcHash: 18d90ccc69d3edf507bcb178e23779ec
 
 客房全部都係「套房」規格起跳——最基本嘅 Tropical Suite 都有 83 平方米，獨立浴缸、雨淋浴、私人陽台一樣唔少。最高級嘅 Presidential Suite 就有 209 平方米，入去大概要行一陣先搵到廁所喺邊。設計上融入咗大量印尼本地木材同傳統峇里島工藝，唔係嗰種冰冷嘅現代豪華，而係有溫度嘅精緻感。
 
-![住落去係咩感覺？](https://images.gobaligo.id/images/2026-04/1776477261153-537982534.jpg)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477261153-537982534.jpg)
 
-![住落去係咩感覺？](https://images.gobaligo.id/images/2026-04/1776477261595-537983614.jpg)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477261595-537983614.jpg)
 
-![住落去係咩感覺？](https://images.gobaligo.id/images/2026-04/1776477262414-575293685.jpg)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477262414-575293685.jpg)
 
-![住落去係咩感覺？](https://images.gobaligo.id/images/2026-04/1776477262854-537982447.jpg)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477262854-537982447.jpg)
 
-![住落去係咩感覺？](https://images.gobaligo.id/images/2026-04/1776477263396-2ce8751393783e79ec077dd2adf4dc61.webp)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477263396-2ce8751393783e79ec077dd2adf4dc61.webp)
 
-![住落去係咩感覺？](https://images.gobaligo.id/images/2026-04/1776477263994-8b8afa9c27b4d95ba8efe416dfe60ec5.webp)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477263994-8b8afa9c27b4d95ba8efe416dfe60ec5.webp)
 
-![住落去係咩感覺？](https://images.gobaligo.id/images/2026-04/1776477264527-0267ab8bb759f1442ea29ba0efff2808.webp)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477264527-0267ab8bb759f1442ea29ba0efff2808.webp)
 
-![住落去係咩感覺？](https://images.gobaligo.id/images/2026-04/1776477265019-549267171.jpg)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477265019-549267171.jpg)
 
-![住落去係咩感覺？](https://images.gobaligo.id/images/2026-04/1776477265525-2024-07-02.webp)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477265525-2024-07-02.webp)
 
-![住落去係咩感覺？](https://images.gobaligo.id/images/2026-04/1776477265942-a654724c299c2c110131e3bcb1612476.webp)
+![住進去是什麼感覺？](https://images.gobaligo.id/images/2026-04/1776477265942-a654724c299c2c110131e3bcb1612476.webp)
 
 餐飲方面，主餐廳 Arunika 提供自助早餐，每日朝早 6:30 開始。另外聽講星期日 Brunch 嘅陣勢好嚇人，有烤羊、烤豬、活烤明蝦、生魚片同甜品站，水準完全唔輸峇里島老牌酒店嘅特色餐。水療 Taru Pramana 就行療癒系路線，強調身心靈平衡，唔只係一般嘅按摩服務。
 
 ***
-
 ## Tatler Asia 嘅認可，代表咩？
 
 今次頒獎典禮就喺 The Meru Sanur 旁邊嘅峇里海灘會議中心舉辦，涵蓋成個亞洲嘅酒店、餐廳同酒吧評選。

@@ -21,13 +21,13 @@ _srcHash: f76c1baec9b201e9b63d82ced936a8a1
 
 [🚗 Want to estimate Gojek fares? Click here](/map/gojek-fare/)
 
-![Essential Apps for Indonesia/Bali: A Visual Guide to Using G](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
+![【印尼/峇里島必備APP】Gojek / Grab 叫車圖文教學指南](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
 
 ## How to Use Gojek & Grab
 
 When traveling in **Bali**, Gojek and Grab are two essential 'national apps'. Their features and interfaces are remarkably similar, akin to two different branded versions of Uber.
 
-![How to Use Gojek & Grab](https://images.gobaligo.id/vocus/vocus_a3735af38f1bb9994a7ec1ec8fafe01e.png)
+![Gojek / Grab 的使用方式](https://images.gobaligo.id/vocus/vocus_a3735af38f1bb9994a7ec1ec8fafe01e.png)
 
 Here’s a step-by-step guide to help you get started quickly:
 
@@ -59,7 +59,7 @@ Regardless of the app, the operation logic is essentially the same:
 4. **Check Price:** The system will display the total fare (fixed price, no meter or haggling).
 5. **Click Order/Book:** The system will match you with a driver, showing the driver’s name, license plate, and location.
 
-![How to Use Gojek & Grab](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
+![Gojek / Grab 的使用方式](https://images.gobaligo.id/vocus/vocus_74b7470a20e1026529e08d0e3f83681e.png)
 
 **Step 4: Communicating with the Driver**
 
@@ -78,7 +78,6 @@ Regardless of the app, the operation logic is essentially the same:
 - **Tips:** If you feel the driver provided excellent service (e.g., helping with heavy luggage or navigating around severe traffic), you can show your appreciation by leaving a small tip of 5,000–10,000 IDR through the app.
 
 https://youtu.be/ByGkcmys01g
-
 ## Usage Restrictions
 
 In certain areas of Bali, there are still signs opposing ride-hailing services, primarily aimed at protecting the livelihoods of local traditional taxi and private car drivers.
@@ -91,7 +90,7 @@ To help you quickly understand, I’ve compiled the relevant information below:
 · Key controversies: Around Lake Batur and Songan Village, ride-hailing services are accused of undercutting local drivers’ rates, sparking strong opposition from local tourism and transportation associations.
 · Recent policies: According to early 2025 reports, Bali authorities have introduced new regulations requiring ride-hailing drivers to possess a Bali ID (KTP) and use local license plates to protect local drivers’ rights.
 
-![Main Restricted Areas and Situations](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
+![主要限制區域與情況](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
 
 ### 🚗 Practical Impact and Recommendations for Tourists
 
@@ -103,7 +102,6 @@ While restrictions exist, their overall impact on tourists is limited. You can n
 4. Alternative option: For full-day cross-regional sightseeing (e.g., from the south to Ubud or the volcanoes), booking a private car is a more common, comfortable, and hassle-free choice. Drivers often double as guides.
 
 Quick reference: [【Bali Private Car Hire Guide】](/blog/bali-private-car-hire-guide/)
-
 ## ⚠️ Important Reminders
 
 __VID0__

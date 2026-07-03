@@ -20,7 +20,7 @@ _srcHash: f76c1baec9b201e9b63d82ced936a8a1
 
 [🚗 想预估 Gojek 车资？请点击这里](/map/gojek-fare/)
 
-![【印尼/巴厘岛必备APP】Gojek / Grab 叫车图文教学指南](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
+![【印尼/峇里島必備APP】Gojek / Grab 叫車圖文教學指南](https://images.gobaligo.id/vocus/vocus_70d52b7fe65657e1d3bcc26263bc2800.png)
 
 ## Gojek / Grab 的使用方式
 
@@ -90,7 +90,7 @@ https://youtu.be/ByGkcmys01g
 · 争议焦点：在巴杜尔湖 (Lake Batur)、松干村 (Songan Village) 周边，线上叫车被指压低了当地司机的报价，引发了当地旅游交通协会的强烈反对。
 · 近期政策：根据2025年初的报道，巴厘岛当局也推出了新规定，要求网约车司机必须持有巴厘岛身份证 (KTP) 和使用本地车牌，以保护本地司机的权益。
 
-![主要限制区域与情况](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
+![主要限制區域與情況](https://images.gobaligo.id/vocus/vocus_11b747be41152ceaf2c885a63ca4e272.jpg)
 
 ### 🚗 对游客的实际影响与建议
 
@@ -102,7 +102,6 @@ https://youtu.be/ByGkcmys01g
 4. 替代方案：对于一天的跨区域观光（例如从南部前往乌布或火山），预订包车是更普遍、舒适且无争议的选择，司机通常还能兼任向导。
 
 快速参考：[【巴厘岛包车须知懒人包】](/blog/bali-private-car-hire-guide/)
-
 ## ⚠️ 重要提醒
 
 {{video1}}

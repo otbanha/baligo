@@ -399,25 +399,25 @@ Part of the IHG group, this resort features three hectares of terraced tropical 
 
 ## Grand Inna Kuta (now Truntum Kuta) ⭐⭐⭐⭐
 
-![Grand Inna Kuta (now Truntum Kuta)](https://images.gobaligo.id/images/2026-04/1776788509754-51c2be9d5517eeaa64f551a97539a57c.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788509754-51c2be9d5517eeaa64f551a97539a57c.webp)
 
-![Grand Inna Kuta (now Truntum Kuta)](https://images.gobaligo.id/images/2026-04/1776788510253-453dcc071b3471cd0cf6c66e52ceb871.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788510253-453dcc071b3471cd0cf6c66e52ceb871.webp)
 
-![Grand Inna Kuta (now Truntum Kuta)](https://images.gobaligo.id/images/2026-04/1776788510940-1822_14061913230019924832.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788510940-1822_14061913230019924832.webp)
 
-![Grand Inna Kuta (now Truntum Kuta)](https://images.gobaligo.id/images/2026-04/1776788511431-1822_16032911240041137651.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788511431-1822_16032911240041137651.webp)
 
-![Grand Inna Kuta (now Truntum Kuta)](https://images.gobaligo.id/images/2026-04/1776788511922-456527f6043772e76232e9f988c7d8b0.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788511922-456527f6043772e76232e9f988c7d8b0.webp)
 
-![Grand Inna Kuta (now Truntum Kuta)](https://images.gobaligo.id/images/2026-04/1776788512452-28520209.jpg)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788512452-28520209.jpg)
 
-![Grand Inna Kuta (now Truntum Kuta)](https://images.gobaligo.id/images/2026-04/1776788512915-32808129.jpg)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788512915-32808129.jpg)
 
-![Grand Inna Kuta (now Truntum Kuta)](https://images.gobaligo.id/images/2026-04/1776788513364-adc270d6abf080349356fa2cf14703ff.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788513364-adc270d6abf080349356fa2cf14703ff.webp)
 
-![Grand Inna Kuta (now Truntum Kuta)](https://images.gobaligo.id/images/2026-04/1776788513968-ae423b2fff726de3ff615a9a42896724.webp)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788513968-ae423b2fff726de3ff615a9a42896724.webp)
 
-![Grand Inna Kuta (now Truntum Kuta)](https://images.gobaligo.id/images/2026-04/1776788514468-f293a0cd79882c9629dd3071c8c1cce5.jpg)
+![Grand Inna Kuta（現名 Truntum Kuta）](https://images.gobaligo.id/images/2026-04/1776788514468-f293a0cd79882c9629dd3071c8c1cce5.jpg)
 
 Kuta's most historic beachfront landmark hotel, boasting one of the longest stretches of beachfront in the Kuta area, with an unbeatable location.
 
@@ -432,7 +432,6 @@ Kuta's most historic beachfront landmark hotel, boasting one of the longest stre
 > Agoda Rating 8.5⭐ ｜ [Check Availability & Prices](https://www.agoda.com/partners/partnersearch.aspx?pcs=1&cid=1961347&hid=1822) [Trip](https://tw.trip.com/hotels/detail/?cityEnName=Bali&cityId=723&hotelId=1005488&checkIn=2027-02-05&checkOut=2027-02-06&adult=2&children=0&crn=1&ages=&curr=TWD&barcurr=TWD&hoteluniquekey=H4sIAAAAAAAA_-Oaz8LFJMEkNYOF4-KmY3PZhBgNNO6zWfwWdOw_9FUjJr7IwdOW6_rigr9lDgE8EVMOPJ_GnvhT53zz7okuDoUMILCh3KGREajClku8xKGLkRWsZgbjhvW2KxgZNzLukGt9HVgR5LCDkekE4zreBUwPH1ufYmHmuMF0ieUrU3S1UnZqpZKViY5SSWZJTqqSldLTRfOeNux5vqJVSUcpJbU4GSgEZCXm5pfmlQDZhuZGegYGQJGSxArPFLDO5MSc5NKcxJLUkMoCoAlmOkqZxc4lRZkFQam5mSUlqUBVaYk5xakg8aDUYqBMMlhQyQ9oTBFUIDM_D6LdEEUsLDGnNBXiBKCFbqlQOwxrdTBd_mxO79PumS827SbO5ebUdrkBMS43ro19xMIUHfuC5T7bJxaGX8CouMvbxMrQxcrMsZ9xEpBcx7uLlS3IMdjXL_wC6wtZKTlDAwMDU0NjU1Ndg0RLiyTjRANdE0sTI0szXSMTExONPwc3ND81NrKWgkS9AqOWYHyIp6eLYUlhqllhqWVOUYGpAeMpRilDc2MLQyNDQyMjI0tjPROLNLNii7xii9ysCA_GIDYDY3Njc6coGy5mT5cgwXv_WXK1lS3tpZhDwl0Ug1zaQvdMPG2vBZIzhMkFWnwR439vucA-8h-fa6MdUD6JtSpDNyQ8o1e8gLGBkamLkVuA0YMxgrECyGNcxciwgZFxB-N_GGB8xQgyHQCnojP6AwMAAA&masterhotelid_tracelogid=100051355-0a98b3a0-494296-2444&detailFilters=17|1~17~1*31|1005488~31~1005488*80|2|1~80~2*29|1~29~1|2&display=incavg&subStamp=689&isCT=true&isFlexible=F&locale=zh-TW&Allianceid=6817581&SID=311634184&trip_sub1=&trip_sub3=D17219687) [Booking](https://booking.tpm.li/bg94oAJ8)
 
 ***
-
 ## Kuta Beach Heritage Hotel ⭐⭐⭐⭐
 
 ![Kuta Beach Heritage Hotel](https://images.gobaligo.id/images/2026-04/1776788557002-901fd9b712bd8243fb93b063c14f0cdb.webp)

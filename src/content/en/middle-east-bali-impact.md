@@ -58,8 +58,7 @@ Flying from Bali to Jakarta used to cost around 1.5 million IDR (approximately U
 
 This suggests that Bali's previous strategy of 'shifting focus to attract domestic tourists' during tough times may not work this time—as domestic airfare is equally affected, consumers are naturally reconsidering their travel plans.
 
-![Not Just International Flights—Domestic Ticket Prices Are So](https://images.gobaligo.id/images/2026-04/1776853335462-airplane.jpeg)
-
+![不只是國際線，連國內機票也跟著爆漲](https://images.gobaligo.id/images/2026-04/1776853335462-airplane.jpeg)
 ## What do tourism industry insiders think?
 
 A representative from the Indonesian Hotel and Restaurant Association (PHRI) pinpointed the core issue: tourism heavily relies on air transportation, and when ticket prices soar, people hesitate. If energy supply disruptions persist and fuel costs continue to rise, Bali could face a 'tourism crisis,' impacting hotel occupancy rates, employment in the sector, and potentially leading to some businesses shutting down.
